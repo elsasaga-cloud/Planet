@@ -1,369 +1,243 @@
-# SB-061 Volktek · home · https://www.volktek.com/index_en.php · fetched 2026-10-25T07:41:18Z · HTTP 200
-Industrial Ethernet Switches & PoE Solutions | Volktek Taiwan
-Products
-Layer 3 Industrial Ethernet Switches
-Layer 3 Managed Switches
-Layer 3 Managed PoE++ Switches
-Industrial Ethernet Switches
-Unmanaged Basic Switches
-Unmanaged Premium Switches
-Lite Managed Switches
-Managed Switches
-DNV & LR Certified Switches
-NEMA TS2 Certified Switches
-Railway Certified Switches
-Substation Certified Switches
-PROFINET Approval Switches
-Ethernet/IP Approval Switches
-SPE Switches
-Industrial PoE Switches
-Unmanaged Basic PoE+ Switches
-Unmanaged Premium PoE+ Switches
-Lite Managed PoE+ Switches
-Managed PoE+ Switches
-Managed PoE++ Switches
-DNV & LR Certified PoE+ Switches
-NEMA TS2 Certified PoE+ Switches
-Railway Certified PoE+ Switches
-Substation Certified PoE+ Switches
-SPoE Switches
-Metro Ethernet Switches
-1G / 10G Aggregation Switches
-1G / 10G Access Switches
-Media Converters
-PoE+ Converters
-Copper to Fiber Converters
-Serial to Fiber Converters
-SPE Converters
-EMS / NMS
-LAMUNGAN
-Network Security Appliances
-Industrial Firewall
-PoE Injectors / PoE Splitters
-PoE Injectors
-PoE Splitter
-SFP Modules
-100BASE SFP Series
-100BASE Bi-Di SFP Series
-Gigabit SFP Series
-Gigabit Bi-Di SFP Series
-10G SFP+ Series
-Accessories
-Power Supply
-Solutions
-Broadband
-Fiber to the Business
-Fiber to the Building
-Fiber to the Home
-Surveillance
-Indoor Surveillance
-Outdoor Surveillance
-Automation
-Factory
-Building
-Support
-FAQ
-Technical Support
-Success Stories
-Customer Service
-EOS/EOL
-Articles
-Download
-Security Advisory
-News & Events
-All
-Corporate News
-Product News
-Events
-ESG at Volktek
-Articles
+# SB-061 megatelindustries.com · home · https://www.megatelindustries.com/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+Megatel - Worldwide distributor, exporter and wholesaler of network, data communication and fiber optic products
+Questions? Call
+1-610-239-8812 M-F, 9-5, Eastern Time
+View Cart
+Home
+|
 About Us
-Company Overview
-Our Value
-Certificates
+|
 Contact
-Contact Form
-Career
-Store
-Partner Zone
-Languages
-English
-繁體中文
-日本語
-Partner Zone
-Store
-Languages
+|
+Request a Quote
+|
+Product Photos
+|
+Privacy Policy
+|
+Site Map
 Main Menu
-Products
-Layer 3 Industrial Ethernet Switches
-Layer 3 Managed Switches
-Layer 3 Managed PoE++ Switches
-Industrial Ethernet Switches
-Unmanaged Basic Switches
-Unmanaged Premium Switches
-Lite Managed Switches
-Managed Switches
-DNV & LR Certified Switches
-NEMA TS2 Certified Switches
-Railway Certified Switches
-Substation Certified Switches
-PROFINET Approval Switches
-Ethernet/IP Approval Switches
-SPE Switches
-Industrial PoE Switches
-Unmanaged Basic PoE+ Switches
-Unmanaged Premium PoE+ Switches
-Lite Managed PoE+ Switches
-Managed PoE+ Switches
-Managed PoE++ Switches
-DNV & LR Certified PoE+ Switches
-NEMA TS2 Certified PoE+ Switches
-Railway Certified PoE+ Switches
-Substation Certified PoE+ Switches
-SPoE Switches
-Metro Ethernet Switches
-1G / 10G Aggregation Switches
-1G / 10G Access Switches
-Media Converters
-PoE+ Converters
-Copper to Fiber Converters
-Serial to Fiber Converters
-SPE Converters
-EMS / NMS
-LAMUNGAN
-Network Security Appliances
-Industrial Firewall
-PoE Injectors / PoE Splitters
-PoE Injectors
-PoE Splitter
-SFP Modules
-100BASE SFP Series
-100BASE Bi-Di SFP Series
-Gigabit SFP Series
-Gigabit Bi-Di SFP Series
-10G SFP+ Series
-Accessories
-Power Supply
-Solutions
-Broadband
-Fiber to the Business
-Fiber to the Building
-Fiber to the Home
-Surveillance
-Indoor Surveillance
-Outdoor Surveillance
-Automation
-Factory
-Building
-Support
-FAQ
-Technical Support
-Success Stories
-Customer Service
-EOS/EOL
-Articles
-Download
-Catalogue
-Certificate
-Security Advisory
-News & Events
-All
-Corporate News
-Product News
-Events
-ESG at Volktek
-Articles
-About Us
-Company Overview
-Our Value
-Certificates
-Contact
-Contact Form
-Career
-Parnter Zone
-Languages
-English
-繁體中文
-日本語
-Main Menu
-Parnter Zone
-Partner Zone
-Login
-Main Menu
-Languages
-VOLKTEK PSIRT Portal Now Live
-A dedicated channel for reporting product security vulnerabilities
-LEARN MORE
-High-Speed Connectivity for Smart Factories
-Industrial Managed Switches with 10G Uplinks and PoE+ Options
-LEARN MORE
-High-Reliability TSN Networking for Critical Infrastructure
-Engineered for Real-Time Industrial Automation
-LEARN MORE
-PoE++ with 10G Uplinks for Smart City Solution
-Powering Reliable Smart City Networks
-LEARN MORE
-Long-Reach SPE Connectivity Made Simple
-Explore SPE Solutions
-LEARN MORE
-High-Power PoE for High-Performance Network
-Explore BT PoE Solutions
-LEARN MORE
-LAMUNGAN Management Platform
-Easy to manage and set out by Wizard, Topology Map and Dashboard.
-LEARN MORE
-Made in Taiwan
-A leading original design and manufacturing service company. we’ve consistently sought to deliver expert services and cutting-edge technology.
-LEARN MORE
-Partner with us
-Supporting Distributors & System Integrators Worldwide. Contact us ➜
-LEARN MORE
-Products
-Layer 3 Industrial Ethernet Switches
-Layer 3 Managed Switches
-Layer 3 Managed PoE++ Switches
-Industrial Ethernet Switches
-Unmanaged Basic Switches
-Unmanaged Premium Switches
-Lite Managed Switches
-Managed Switches
-DNV & LR Certified Switches
-Industrial PoE Switches
-Unmanaged Basic PoE+ Switches
-Unmanaged Premium PoE+ Switches
-Lite Managed PoE+ Switches
-Managed PoE+ Switches
-Managed PoE++ Switches
-Metro Ethernet Switches
-1G / 10G Aggregation Switches
-1G / 10G Access Switches
-Media Converters
-PoE+ Converters
-Copper to Fiber Converters
-Serial to Fiber Converters
-SPE Converters
-EMS / NMS
-LAMUNGAN
-Network Security Appliances
-Industrial Firewall
-PoE Injectors / PoE Splitters
-PoE Injectors
-PoE Splitter
-SFP Modules
-100BASE SFP Series
-100BASE Bi-Di SFP Series
-Gigabit SFP Series
-Gigabit Bi-Di SFP Series
-10G SFP+ Series
-Accessories
-Power Supply
-Solutions
-Broadband
-Fiber to the Business
-Fiber to the Building
-Fiber to the Home
-Surveillance
-Indoor Surveillance
-Outdoor Surveillance
-Automation
-Factory
-Building
-Why Volktek
-Established in 1994, Volktek is a professional original design and manufacturing service company of market certified networking technologies headquartered in Taiwan with sales offices in the USA, India. We design products with focus on the end-user, and manufacture a wide-range of high-quality radiation-free optical devices in house and deliver them to our network of partners and distributors across the Americas, Europe, Africa and Asia-Pacific. Our products support current and next-generation Ethernet platforms for Metro, Surveillance and Industrial applications.
-Design & Manufacturing
-High Quality
-32 Years of Experience
-News & Events
-Why Do Smart Factories Need Time-Sensitive Networking (TSN)?
-2026-09-30
-Product News
-VOLKTEK Product Line Rationalization and End-of-Life (EOS/EOL) Notice
-2026-09-21
-Product News
-VOLKTEK Advances EU CRA Compliance Efforts with Launch of Product Security Reporting Portal
-2026-09-09
-Product News
-VOLKTEK Achieves ISO 50001 Certification, Strengthening Energy Management and Sustainable Operations
-2026-08-27
-Corporate News
-VOLKTEK to Showcase TSN and SPE at the Industrial Open Networks Fair 2026 in Tokyo
-2026-08-25
-Events
-Ethernet Media Converter Guide for Copper-to-Fiber Network Planning
-2026-08-21
-Product News
-Deterministic Ethernet Communication for Time-sensitive Applications - Part 2
-2026-08-20
-Articles
-Deterministic Ethernet Communication for Time-sensitive Applications - Part 1
-2026-08-03
-Articles
-Volktek Ethernet products
-Volktek solutions
-Volktek solutions have been implemented in applications worldwide. Learn from our reference cases on how your network can benefit from our platform.
-Our Value
-Volktek is a leading manufacturer of high-performance networking solutions which support both, today’s and the Next Generation Ethernet platforms.
-Volktek products
-Volktek products meet the latest standards in performance and quality and are internationally certified by agencies such as DNV/GL, ISO, FCC, CE and VCCI.
-Certificates
-Volktek Ethernet products are internationally certified for industrial and commercial use and comply with the market standards for safety and accurate operation.
-Contact Volktek
-Products
-Layer 3 Industrial Ethernet Switches
-Industrial Ethernet Switches
-Industrial PoE Switches
-Metro Ethernet Switches
-Media Converters
-EMS / NMS
-PoE Injectors / PoE Splitters
-SFP Modules
-Accessories
-Solutions
-Broadband
-Surveillance
-Automation
-Support
-FAQ
-Technical Support
-Success Stories
-Customer Service
-EOS/EOL
-Articles
-Download
-News & Events
-All
-Corporate News
-Product News
-ESG at Volktek
-Events
-About Us
-Company Overview
-Our Value
-Certificates
-Contact
-Partner Zone
-Newsletter
-Career
-4F, 192 Liancheng Rd, Zhonghe, New Taipei 235038, Taiwan
-+886-2-8242-1000
-+886-2-8242-3333
-[email protected]
-Social Media
-Copyright © 2026 Volktek Corporation. All rights reserved.
-Terms and Conditions Privacy Policy Design
-Sitemap
-Industrial Ethernet Switches 、 Industrial PoE Switches 、 Metro Ethernet Switches 、 Media Converters 、 SFP Modules
-Search
-Subscribe to Newsletter
-Items marked with an asterisk(*) are required.
-Email
-Name
-Company
-Job Function
-Unsubscribe
-Subscribe
-PRODUCT
-COMPARE( 0 )
-Inquiry car
-We use cookies to provide the services and features offered on our website, and to improve our user experience. By using this website, you consent to the use of cookies.
-OK
+POE Extender, Injector and Splitter
+Industrial Sync Ethernet Switch
+Multi-Service Platform FRM220 Series Chassis
+Ethernet Converter
+DS3/E3 & E1/T1, Data Fiber Modem
+Fiber to Serial Converter
+Ethernet Switch
+Fiber Mux
+CWDM & Protection
+Ethernet Bridge
+Fiber to POTS (FXO/FXS/E&M) Converter
+Sync-E Switch, Metro & Fiber Switch, EDD Sync-E & Metro Switch
+Fiber Switch & CPE Switch
+NID & EDD
+Industrial PoE Switch & Converter Industrial PoE Switch
+Industrial PoE Converter
+Industrial Ethernet Switch & Converter Industrial Ethernet Switch
+Industrial Ethernet Converter
+EN50155 Industrial PoE+ Managed Switch
+Industrial Power Supply
+Fiber Multiplexer and SDH
+Transponder & Converter for 1.25G, 10G, 16G, 40G and 100G
+Low Cost Media Converter & Switch
+FMC Series Media Converters
+SFP Transceiver Module Industrial Rugged SFP Module
+SFP 155M Transceiver Module
+SFP 1.25G Transceiver Module
+10G Transceiver Module
+T1 / E1 Testers
+G.703 E1 Converter
+Interface Converter
+Fiber Patch Cord
+PoE Surge Protector
+Baluns
+Featured Products
+GSW-3100C, 10G Managed CPE Switch
+Price: $430.00
+Sale Price: $215.00
+IGS-804SM-SE-E, 8x10/100/1000Base-T+ 4x100/1000Base-X SFP GbE Switch with SyncE
+Price: $2,900.00
+Sale Price: $1,899.00
+IGS-1608SM-SE-E, 16x10/100/1000Base-T+ 8 x 100/1000Base-X SFP GbE Switch with Sync Ethernet
+Price: $3,500.00
+Sale Price: $1,999.00
+FMC-1800, 1U Managed GbE Media Converter Rack 18x100/1000Base-T to 18x100/1000Base-X SFP
+Price: $1,550.00
+Sale Price: $1,000.00
+FMC-2000MS, Web Smart OAM Managed 10/100/1000Base-T to 100/1000Base-X SFP GbE Switch
+Price: $195.00
+Sale Price: $109.00
+FRM220-2000MS, 100/1000Base-T to 100/1000Base-X SFP Managed GbE Converter Card
+Price: $290.00
+Sale Price: $140.00
+IMC-1000-SFP, Industrial Gigabit Ethernet Converter
+Price: $198.00
+Sale Price: $98.00
+IMC-GP30W-SFP, Industrial Gigabit POE 30W Converter
+Price: $235.00
+Sale Price: $115.00
+IMC-GP90W-SFP, Industrial Gigabit POE 90W Converter
+Price: $310.00
+Sale Price: $135.00
+SPL-G01-60W, Gigabit High Power POE Splitter
+Price: $130.00
+Sale Price: $55.00
+IEXT-POE102, Industrial IP67 Waterproof POE++ LAN Extender
+Price: $199.00
+Sale Price: $79.00
+EXT-POE-G02, Gigabit 2-Port PoE Extender
+Price: $150.00
+Sale Price: $55.00
+INJ-G01-30W, Gigabit POE Injector
+Price: $70.00
+Sale Price: $35.00
+INJ-G01-AC-60W, Gigabit 60W PoE Injector
+Price: $90.00
+Sale Price: $45.00
+INJ-G01-90W, Gigabit POE Injector
+Price: $130.00
+Sale Price: $65.00
+IPSW-G04-1GE1SFP, Industrial Unmanaged 6-port Gigabit PoE Switch
+Price: $350.00
+Sale Price: $145.00
+IPSW-G08-2GE2SFP, Industrial Unmanaged 8-Port Gigabit PoE Switch
+Price: $570.00
+Sale Price: $215.00
+MC-FXO-8-SC20A and MC-FXS-8-SC20B, 8 Channel POTS over Fiber Converter
+Price: $1,400.00
+Sale Price: $699.00
+MC-FXO-2-SC20A and MC-FXS-2-SC20B, 2 Channel POTS Phone Lines Over Fiber Converter
+Price: $830.00
+Sale Price: $415.00
+MC-FXO-4 and MC-FXS-4, 4 Channel POTS over Fiber Converter
+Price: $950.00
+Sale Price: $550.00
+MC-FXO-16 and MC-FXS-16, 16 Channel POTS Over Fiber Converter + one Fast Ethernet Port
+Price: $2,500.00
+Sale Price: $1,399.00
+FMUX1001, Managed Gigabit Fiber Multiplexer
+Price: $1,700.00
+Sale Price: $850.00
+FRM220-FOM04-SR, Fiber to 4 T1/E1 RJ45 + 100M Ethernet Modem Card
+Price: $550.00
+Sale Price: $375.00
+GPOE-SP-24, 24-Port Gigabit POE Surge Protector
+Price: $950.00
+Sale Price: $450.00
+FRM220-1000DS-CH01, 1G 2R Multi-Rate Tansponder
+Price: $190.00
+Sale Price: $98.00
+IGS-401F-4PH24-SC001, Unmanaged 5-Port PoE Gigabit Switch, MM, 550M
+Price: $600.00
+Sale Price: $255.00
+IGS-803SM-8PH24, Industrial Managed Gigabit PoE Switch
+Price: $1,800.00
+Sale Price: $699.00
+IFS-803GSM-8PH24, Industrial Managed 8-Port PoE Switch
+Price: $1,100.00
+Sale Price: $475.00
+IGS-600-4PHE24, Industrial Unmanaged Gigabit Switch
+Price: $720.00
+Sale Price: $350.00
+IFS-802GS-E, Non-Managed 8-Port Industrial Fiber Switch
+Price: $420.00
+Sale Price: $199.00
+IGS-803SM-E, Managed Industrial Gigabit Switch with 8 GE + 3 SFP Ports
+Price: $2,000.00
+Sale Price: $895.00
+IGS-402S, Non-managed Switch with 4 Gigabit + 2 SFP Ports
+Price: $600.00
+Sale Price: $280.00
+FRM220-FXO-FXS-SC002 and FRM220-FXO/FXS-ST002, POTS Phone Line over Fiber Converter for MM, SC or ST and 2Km
+Price: $799.00
+Sale Price: $445.00
+FRM220-FXO-4 & FRM220-FXS-4, 4 Channel POTS over Fiber Converter
+Price: $1,299.00
+Sale Price: $869.00
+FRM220-Serial-SFP, Fiber to Serial RS485/RS232 Converter
+Price: $245.00
+Sale Price: $135.00
+FRM220-T1R-SFP, Fiber SFP to T1 RJ45 Converter
+Price: $359.00
+Sale Price: $175.00
+FRM220-E1B-SC20A-CH01 or FRM220-E1B-SC20B-CH01, Fiber to E1/BNC Converter
+Price: $399.00
+Sale Price: $185.00
+FRM220-4G-2S, 4G 2R Transponder
+Price: $450.00
+Sale Price: $200.00
+SFP+10G-SR-LC300M, SFP+ 10G, MM 850nm, 300M
+Price: $50.00
+Sale Price: $25.00
+SFP+10G-LX-LC20, SFP+, 10G, SM 1310nm, 20Km
+Price: $70.00
+Sale Price: $33.00
+SFP-155M-MM, 155M, MM 850nm, LC, 550M
+Price: $38.00
+Sale Price: $15.00
+SFP-155M-LC20, 155M, SM, LC, up to 20Km
+Price: $43.00
+Sale Price: $15.00
+SFP-SX-MM, SFP 1.25G Module
+Price: $35.00
+Sale Price: $14.00
+SFP-LX-LC20, 1.25G, SM, LC, 20Km
+Price: $38.00
+Sale Price: $15.00
+ISFP-LX-LC20, Industrial Rugged SFP Module for 1.25G SM 1310nm and 20Km
+Price: $35.00
+Sale Price: $16.00
+SW-2GT-2SFP, Gigabit Fiber Switch with 2 SFP and 2 Ethernet Ports
+Price: $190.00
+Sale Price: $98.00
+MC-2GT-SFP, Fiber to 2 Gigabit Ethernet Port Converter
+Price: $150.00
+Sale Price: $79.00
+MC-10/100-SC20, Fast Ethernet Converter for 20Km
+Price: $110.00
+Sale Price: $58.00
+MC-10/100-SC40A, Mini Fast Ethernet Converter for 40Km
+Price: $110.00
+Sale Price: $59.00
+MC-1000-SC20, Mini-size Gigabit Ethernet Converter for 20Km
+Price: $130.00
+Sale Price: $70.00
+MC-1GT-SFP, Gigabit Ethernet Converter
+Price: $90.00
+Sale Price: $59.00
+CAB-M12DM4-RJ45, M12 D-code Male (4-Pin) to RJ-45 Cable 2M for FE UTP
+Price: $30.00
+Sale Price: $10.00
+M23F5-OPEN-1M, M23 Female (5-Pin) to open wire cable, 1M, for power
+Price: $55.00
+Sale Price: $35.00
+CAB-M12AM8-RJ45, M12 A-code Male (8-Pin) to RJ-45 Cable 2M for FE UTP
+Price: $28.00
+Sale Price: $12.00
+CAB-M12XM8-RJ45, M12 X-code Male (8-Pin) to RJ-45, 2M GbE Cable
+Price: $36.00
+Sale Price: $18.00
+CAB-M12AF5-OPEN, M12 A-code Female (5-Pin) to Open Wire Cable for Alarm
+Price: $35.00
+Sale Price: $9.00
+IGS-501S-E, Non-Managed 5-Port Gigabit Industrial Fiber Switch
+Price: $500.00
+Sale Price: $250.00
+IMC-1000MS-PHE12, Managed Gigabit PoE Ethernet Converter
+Price: $600.00
+Sale Price: $345.00
+IGS-800-E, Unmanaged 8 Port Gigabit Industrial Switch
+Price: $400.00
+Sale Price: $199.00
+IGS-404SM-E, Industrial Managed Gigabit Switch
+Price: $1,600.00
+Sale Price: $710.00
+Reasons to shop from us: As a worldwide provider and wholesaler of network, data communication and fiber optic products, our mission is to provide various reliable, good quality and cost-effective solutions to our dealers and customers.
+Join today to receive special offers and more!
+Home About Us Contact
+Product Photos Privacy Policy Site Map
+B59C10A432341512FEA0DA2C54C63D93
+">Google Plus
+Home
+Copyright 2026 MegatelIndustries.com
+Ecommerce Design by 1Choice4YourStore

@@ -1,197 +1,139 @@
-# SB-077 wire.tech · news_2 · https://wire.tech/pages/previous-project · fetched 2026-10-25T07:41:18Z · HTTP 200
-Completed Projects — Wire Technologies
-Skip to content
-Find us on LinkedIn
-Menu
-All categories
-------
-AOC
-BiDi Transceivers
-Cable Management
-Cat Cable
-DAC
-Docking Station
-Fibre Cable
-Media Converter
-MPO Cable
-NIC Card
-PDU
-Power Cable
-Transceiver Adapters
-Transceivers
-All categories
-Cancel
-Login
-View Quote
-Transceivers
-Cisco Compatible
-Juniper Compatible
-Brocade Compatible
-Dell Compatible
-Arista Compatible
-Extreme Compatible
-HPe Compatible
-Mellanox Compatible
-BiDi Transceivers
-SFP Adapters
-Direct Attach Cables
-Cisco Compatible
-Juniper Compatible
-Brocade Compatible
-Dell Compatible
-Arista Compatible
-Extreme Compatible
-HPe Compatible
-Mellanox Compatible
-Active Optical Cables
-Cisco Compatible
-Juniper Compatible
-Brocade Compatible
-Dell Compatible
-Arista Compatible
-Extreme Compatible
-Intel Compatible
-H3C Compatible
-Mellanox Compatible
-Fibre & MPO Cables
-OS2
-OM3
-OM4
-MPO/MTP
-CAT Cables
-CAT5e U/UTP
-CAT6 U/UTP
-CAT6a S/FTP
-NIC Cards
-Power Solutions
-PDUs
-Power Cables
-UPS
-More
-Cable Management
-Docking Stations
-Media Converters
-Server Cabinets
-Make a Request
-Product Services
-Design
-Compliance
-Completed Projects
-My Account
-Login
-Logout
-Register
-Login
-Close
-Transceivers
-Cisco Compatible
-Juniper Compatible
-Brocade Compatible
-Dell Compatible
-Arista Compatible
-Extreme Compatible
-HPe Compatible
-Mellanox Compatible
-BiDi Transceivers
-SFP Adapters
-Direct Attach Cables
-Cisco Compatible
-Juniper Compatible
-Brocade Compatible
-Dell Compatible
-Arista Compatible
-Extreme Compatible
-HPe Compatible
-Mellanox Compatible
-Active Optical Cables
-Cisco Compatible
-Juniper Compatible
-Brocade Compatible
-Dell Compatible
-Arista Compatible
-Extreme Compatible
-Intel Compatible
-H3C Compatible
-Mellanox Compatible
-Fibre & MPO Cables
-OS2
-OM3
-OM4
-MPO/MTP
-CAT Cables
-CAT5e U/UTP
-CAT6 U/UTP
-CAT6a S/FTP
-NIC Cards
-Power Solutions
-PDUs
-Power Cables
-UPS
-More
-Cable Management
-Docking Stations
-Media Converters
-Server Cabinets
-Make a Request
-Product Services
-Design
-Compliance
-Completed Projects
-My Account
-Login
-Logout
-Register
-Completed Projects
-View some of our recently executed bespoke projects below.
-Contact Us
-Vertical Wall Cabinets
-Security Approved SFPs
-GaN Wall Chargers
-Vertical Wall Cabinets
-In response to the Ministry of Defence's (MOD) pressing need to modernise and upgrade their IT network infrastructure within constrained spatial parameters, Wire Technologies embarked on the ambitious task of designing and manufacturing a bespoke solution that would address the unique challenges faced by the MOD.
-The MOD required an innovative IT solution that could accommodate the limitations of space without compromising on functionality or security. Traditional floor-standing cabinets were not a viable option, prompting Wire Technologies to devise a pioneering alternative.
-We designed from scratch a bespoke vertical data cabinet tailored specifically to meet the MOD's stringent requirements. This cabinet featured acoustic soundproofing, an enhanced secure locking mechanism, reoriented air vents for reduced noise, and adaptable door hinges. Moreover, the rack was meticulously engineered to seamlessly integrate into any of the 1300 specified locations, ensuring flexibility and compatibility.
-In a unique offering, Wire Technologies also provided the option to preconfigure the rack prior to dispatch, streamlining installation and deployment processes for the MOD. Furthermore, the company committed to holding stock of these customized solutions in their warehouse, ensuring swift availability and reducing lead times for the MOD's future infrastructure needs.
-Collaborating closely with MOD specialist and integrators, Wire Technologies meticulously ensured that the solution adhered to all essential infrastructure certifications, guaranteeing compliance and seamless integration within the existing MOD IT Infrastructure.
-In addition to the bespoke rack, Wire Technologies curated a tailor-made selection of accessories to complement the solution. This included super-quiet cooling fans, an earthing kit, short-length fiber patches, short-length copper patches, and right-angled power cords, further easing the workload on the customer.
-The successful completion of this project exemplifies Wire Technologies' ability to design, manufacture, and deliver complex IT-related hardware items tailored to the specific needs of high-stakes environments.
-Security Approved SFPs
-Wire Technologies is are the sole approved supplier of SFP transceivers in the Ministry of Defence (MOD) core ICT infrastructure networks. This approval underscores Wire Technologies' commitment to quality testing and security, ensuring the reliability and safety of its products within highly secure environments.
-Quality Testing:
-At Wire Technologies, we understand the criticality of network components within sensitive environments. Our SFP transceivers undergo rigorous quality testing to ensure optimal performance and reliability. Each transceiver is subjected to extensive testing procedures, including but not limited to environmental stress testing, performance benchmarking, and compatibility checks. These tests guarantee that our products meet and exceed industry standards, providing the utmost in reliability and performance.
-Security Approval:
-The approval by MOD core networks signifies Wire Technologies' dedication to maintaining the highest security standards. Our SFP transceivers have undergone thorough security evaluations to meet the stringent requirements of the MOD. We have implemented robust security measures to safeguard the integrity and confidentiality of data transmission within these critical networks. Our commitment to security ensures that our products seamlessly integrate into the MOD core networks without compromising the network's overall security posture.
-Customer Impact:
-With the approval to supply SFP transceivers into the most sensitive areas of the MOD core networks, Wire Technologies solidifies its position as a trusted partner for secure and reliable networking solutions. Our customers can have full confidence in the quality and security of our products, knowing that they have met the stringent requirements of one of the most secure networks in the country. This approval not only validates the excellence of our products but also underscores our unwavering commitment to security and reliability.
-The approval by MOD core networks represents a significant milestone for Wire Technologies, showcasing our dedication to quality, reliability, and security in providing networking solutions. We remain steadfast in our commitment to delivering top-tier products that meet and exceed the most stringent industry standards, ensuring the utmost in performance and security for our customers, especially within sensitive and critical environments.
-GaN Wall Chargers
-Wire Technologies embarked on a collaborative journey with a well-established electrical goods supplier, with the objective of enhancing the customers existing range of 12V wall chargers using cutting-edge GaN technology. The initial challenge involved identifying existing manufacturers of these products, conducting thorough inspections, and subsequently improving the product design, including packaging, to meet the client's specifications. Following these enhancements, Wire Technologies assumed the crucial responsibility of ensuring product compliance in CE labs within the United Kingdom on behalf of the customer.
-The partnership began with Wire Technologies meticulously scouting and vetting existing manufacturers of 12V wall chargers. This diligent process aimed to identify capable manufacturers who aligned with the project's objectives and had the potential for improvement. Once selected, these manufacturers' operations were closely inspected to assess their current production standards and practices.
-Wire Technologies leveraged its technical expertise to enhance the product design. The integration of GaN technology was at the forefront of these improvements, with a focus on optimizing charging efficiency and performance. Additionally, the design aesthetics were meticulously refined, ensuring that the chargers not only functioned flawlessly but also possessed a visually appealing and user-friendly design. Packaging was also revamped to enhance the overall product presentation and user experience.
-With the enhanced 12V wall charger design in hand, Wire Technologies took on the critical responsibility of assuring product compliance within UKCA notified body approvals. This involved rigorous testing and evaluation processes to ensure that the chargers met the necessary safety and performance standards required for certification.
-The CE notified body certification provided the assurance that the products adhered to stringent regulatory requirements, offering peace of mind to both Wire Technologies and the client. By undergoing comprehensive testing in these labs, the 12V wall chargers were certified as compliant with relevant regulations, reinforcing their safety, reliability, and overall quality.
-Helpful Information
-Lifetime Warranty and Guaranteed Compatibility
-Euroclass CPR
-Multi-Source Agreement
-Environmental Policy
-Privacy Policy
-Returns Policy
-About Us
-About Wire Tech
-Contact Us
-Delivery
-My Account
-My Account Page
-Login
-Logout
-Register
-Search
-Account Login
-Copyright © 2026 Wire Technologies .
-Added to your cart:
-** total_quantity ** | ** unit_price ** / ** unit_measure **
-(- )
-Cart subtotal
-View cart ( )
-Checkout
+# SB-077 Liveye · news_2 · https://www.liveye.com/blog/tag/news/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+LivEye Blog: Sicherheitsexperten teilen ihr Wissen
+Zum Inhalt springen
+Persönliche Beratung Deutschland: +49 6502 4034722
+Deutschland: +49 6502 4034722
+Schweiz: +41 44 561609 0
+de
+pl
+en
+pl
+de en pl
+Blog
+Lösungen
+Drohnenerkennung Secure & Smart Secure by Night Smart by Day
+Produkte
+Einsatzbereiche
+Übersicht Baustellen Kritische Infrastruktur Solarparks Windparks Öffentliche Bereiche Immobilienleerstand
+Unternehmen
+Über LivEye ESG Soziales Engagement Leitstelle Sicherheitsexperten LivEye APP News
+Karriere
+Blog
+Angebot anfordern
+LivEye – Blog
+Blog
+Alle Baustelle Benefits Carsten Simons Datenschutz Einsatzgebiete ESG Europa Hinter den Kulissen Historie HR KI KRITIS Leitstelle Messen mobile Videoüberwachung Nachhaltigkeit news öffentliche Auftraggeber Perimeterschutz Podcast Produkte Produktion PV Referenz Sabotage Schweiz Sicherheit Smart by Day soziales Engagement Standorte Team Orange Technologie Veranstaltungen Verbände Vertrauen Wasser Whitepaper Windparks Zertifizierung
+APPneu_500x500px
+8. Juni 2026
+Die neue LivEye App: Sicherheit, die mitdenkt
+Sicherheitssteuerung einfach, transparent und jederzeit verfügbar Von Lynn Zürbig, UX/UI Designerin bei LivEye Sicherheit muss heute vor allem eines sein: übersichtlich und jederzeit erreichbar. Genau aus diesem Gedanken heraus ist die neue LivEye App entstanden. Sie bündelt alle wichtigen Informationen rund um die LivEye Sicherheitslösung an einem zentralen Ort und macht die Steuerung einfacher als…
+Weiterlesen
+#mobile Videoüberwachung #news #Team Orange
+260302 TECH_partner_1200x1200
+5. Mai 2026
+TECH 2026 in Heilbronn: Warum Sicherheit jetzt zur Frage technologischer Souveränität wird
+LivEye und NSTR.security im House of Defense der TECH 2026 Vom 31. Mai bis 2. Juni 2026 wird Heilbronn erneut zum Treffpunkt für Europas Technologie- und Innovationsszene. Die TECH 2026 findet im Herzen des aufstrebenden KI-Ökosystems Heilbronn statt und versteht sich nicht als klassische Messe, sondern als strategische Plattform für Europas digitale und technologische Zukunft. Ihr Ziel:…
+Weiterlesen
+#Messen #mobile Videoüberwachung #news
+Award-Kai-Uwe
+30. April 2026
+Construction Summit 2026: LivEye zwischen Messegeschehen und Bühnenmoment
+Der Construction Summit 2026 in Hamburg hat einmal mehr gezeigt, wie stark sich die Bau- und Immobilienbranche im Wandel befindet. Digitalisierung, Nachhaltigkeit und neue Technologien sind längst keine Zukunftsthemen mehr – sie sind mitten in der Praxis angekommen. Zwei Tage lang trafen sich Innovatoren, Entscheider und Branchenexperten, um genau darüber zu sprechen: Wie sieht die…
+Weiterlesen
+#Messen #news #Smart by Day #Team Orange
+LivEye- Spende Malteser-2
+13. April 2026
+Unterstützung für den Katastrophenschutz
+Materialspende für die Malteser Wittlich stärkt logistische Abläufe im Einsatz Kürzlich durften wir bei LivEye besonderen Besuch begrüßen: Die Malteser aus Wittlich waren bei uns vor Ort, um eine Materialspende entgegenzunehmen, die künftig im Katastrophenschutz zum Einsatz kommt. Am 13. März konnten wir insgesamt 30 Europaletten übergeben; Materialien, für die wir selbst keine Verwendung mehr…
+Weiterlesen
+#news #soziales Engagement #Team Orange
+Neues Projekt (10)
+30. März 2026
+Unser neues Marketing-Zuhause in Berlin
+Seit Anfang 2026 hat unser Marketing-Team einen neuen Platz, an dem Ideen entstehen, wachsen und weitergedacht werden: Berlin-Friedrichshain. Mit dem Umzug in die Karl-Marx-Allee 79 haben wir uns ganz bewusst für einen Standort entschieden, der zu uns passt. Zwischen kreativen Köpfen, kleinen Cafés und der typischen Berliner Dynamik finden wir genau die Energie, die modernes…
+Weiterlesen
+#news #Standorte #Team Orange
+KOELN_2026_500x500px
+5. März 2026
+LivEye erneut im Einsatz beim Kölner Karneval 2026
+Mehr Technik, mehr Übersicht – bewährte Sicherheit in einem einzigartigen Umfeld Der Kölner Karneval ist weit mehr als ein Volksfest, er ist ein kulturelles Großereignis von internationaler Bedeutung. Wenn Hunderttausende Menschen die Straßen der Kölner Innenstadt füllen, sind Organisation, Koordination und Sicherheit zentrale Faktoren für einen reibungslosen Ablauf. Auch im Jahr 2026 war LivEye erneut…
+Weiterlesen
+#mobile Videoüberwachung #news #Veranstaltungen
+JAHRESAUFTAKT_500X500PX_02
+4. Februar 2026
+Jahresauftakt LivEye 2026: Gemeinsam Verantwortung übernehmen
+Mit frischer Energie, klaren Zielen und einer starken gemeinsamen Vision ist LivEye in das Jahr 2026 gestartet. Mitarbeitende aus Deutschland und Polen kamen zu zwei intensiven Tagen zusammen, die ganz im Zeichen von Austausch, Zusammenarbeit und dem gelebten LivEye-Spirit standen. Der Jahresauftakt machte deutlich: Verantwortung übernehmen wir bei LivEye nicht allein, sondern gemeinsam. Tag 1:…
+Weiterlesen
+#news #Team Orange #Veranstaltungen
+Infratech_500x500
+27. Januar 2026
+InfraTech 2026 in Essen: LivEye im Dialog über sichere, resiliente und digitale Infrastruktur
+Die InfraTech Deutschland 2026 in Essen markierte für LivEye den Auftakt in das Messejahr 2026 – und gleichzeitig einen der zentralen Treffpunkte für die deutsche Infrastrukturbranche. Vom 13. bis 15. Januar 2026 kamen Kommunen, Bauunternehmen, Energieversorger, Ingenieurbüros und Technologieanbieter zusammen, um über die Zukunft unserer Infrastruktur zu sprechen. Für LivEye stand dabei eines im Mittelpunkt:Infrastruktur…
+Weiterlesen
+#Messen #news #Team Orange
+1
+…
+5
+Ältere Artikel laden
+youtube
+instagram
+facebook
+linkedin
+Anfrage senden
+LivEye GmbH – Zentrale
+Deutschland
+Europa Allee 56b
+D 54343 Föhren bei Trier
+Telefon: +49 6502 4034722
+[email protected]
+LivEye Swiss GmbH
+Schweiz
+Im Wingert 36a
+CH 8049 Zürich
+Telefon: +41 44 561609 0
+[email protected]
+LivEye sp. z o.o.
+Polen
+Ul. Ludwika Rydygiera 15/114
+PL 01-793 Warszawa
+Telefon: +48 22 300 80 98
+[email protected]
+Kontakt
+Soziales Engagement
+AGB
+Impressum
+Datenschutz
+Zertifiziertes Rechenzentrum ISO-27001
+DSGVO Konform
+Deutscher Serverstandort
+Software made in Germany
+Deutsches Unternehmen
+Cookie-Zustimmung verwalten
+Um dir ein optimales Erlebnis zu bieten, verwenden wir Technologien wie Cookies, um Geräteinformationen zu speichern und/oder darauf zuzugreifen. Wenn du diesen Technologien zustimmst, können wir Daten wie das Surfverhalten oder eindeutige IDs auf dieser Website verarbeiten. Wenn du deine Zustimmung nicht erteilst oder zurückziehst, können bestimmte Merkmale und Funktionen beeinträchtigt werden.
+Funktional
+Immer aktiv
+Die technische Speicherung oder der Zugang ist unbedingt erforderlich für den rechtmäßigen Zweck, die Nutzung eines bestimmten Dienstes zu ermöglichen, der vom Teilnehmer oder Nutzer ausdrücklich gewünscht wird, oder für den alleinigen Zweck, die Übertragung einer Nachricht über ein elektronisches Kommunikationsnetz durchzuführen.
+Vorlieben
+Die technische Speicherung oder der Zugriff ist für den rechtmäßigen Zweck der Speicherung von Präferenzen erforderlich, die nicht vom Abonnenten oder Benutzer angefordert wurden.
+Statistiken
+Die technische Speicherung oder der Zugriff, der ausschließlich zu statistischen Zwecken erfolgt.
+Die technische Speicherung oder der Zugriff, der ausschließlich zu anonymen statistischen Zwecken verwendet wird. Ohne eine Vorladung, die freiwillige Zustimmung deines Internetdienstanbieters oder zusätzliche Aufzeichnungen von Dritten können die zu diesem Zweck gespeicherten oder abgerufenen Informationen allein in der Regel nicht dazu verwendet werden, dich zu identifizieren.
+Marketing
+Die technische Speicherung oder der Zugriff ist erforderlich, um Nutzerprofile zu erstellen, um Werbung zu versenden oder um den Nutzer auf einer Website oder über mehrere Websites hinweg zu ähnlichen Marketingzwecken zu verfolgen.
+Optionen verwalten
+Dienste verwalten
+Verwalten von {vendor_count}-Lieferanten
+Lese mehr über diese Zwecke
+Akzeptieren
+Ablehnen
+Einstellungen ansehen
+Einstellungen speichern
+Einstellungen ansehen
+{title}
+Zustimmung verwalten
++
+Für eine persönliche Beratung melden wir uns am nächsten Werktag bei Ihnen!
+Wir rufen Sie zurück!
+Ich habe die Datenschutzerklärung gelesen und stimme zu.
+Bitte lasse dieses Feld leer.
+Blog

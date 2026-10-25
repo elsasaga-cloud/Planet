@@ -1,83 +1,139 @@
 {
  "code": "SB-118",
- "name_official": "NetPardaz（Net Pardaz Azar，Tabriz, 伊朗；netpardazco.com）",
+ "name_official": "Genrov Ltd（genrov.com，Houghton-le-Spring, UK；公司号 06899120）",
  "researched_at": "2026-10-21",
- "website_status": "在线",
- "summary": "用户表（ISAF）记录为土耳其，实为伊朗大不里士的网络/IT 工程公司 NetPardaz（نت پرداز آذر，2009/1388 年成立；11–50 人；数据中心、安防、企业网、VoIP、监控；政府与私营大项目；CEO Mehdi Pashapour）。ISAF 记录：Ayda Zahed（BD）拿了彩页、没做交谈（和中科得能聊了很久）；WhatsApp 已加（+98 914 315 87 66）；无跟进。→ C 区域外（资料保留）。",
+ "website_status": "在线（简易站）",
+ "summary": "英国东北部的一人 ROV（水下遥控机器人）技术服务公司（2009-05 成立，公司号 06899120，董事/唯一股东 Michael Dickinson）：ROV 监督/技师派遣、定制工装、系统排故与审计、翻新升级、培训。交换机需求源于 ROV 系统（甲板/水下电子舱的工业以太网/光纤链路），属项目型一次性采购。用户表：1 次实质回复，16 次跟进。",
  "type": "",
  "size": "",
  "brands_seen": [],
  "evidence": [
   {
-   "kind": "LinkedIn",
-   "claim": "公司身份",
-   "quote": "NetPardaz … شرکت فنی و مهندسی نت پرداز آذر با سابقه نزديک به يک دهه فعاليت تخصصی در پروژه های بزرگ دولتی و خصوصی … Website: http://netpardazco.com/ … Company size: 11-50 employees … Specialties: Data Center, Security, Enterprise Network, VOIP, and Survelliance",
-   "url": "https://www.linkedin.com/company/netpardaz",
+   "kind": "官网",
+   "claim": "业务范围",
+   "quote": "Genrov Ltd are a UK based company who provide a range of services to the ROV industry. ROV Supervisor/Technicians Bespoke tooling System trouble shooting and audits On or offsite refurbishment and upgrades Technical support/reviews",
+   "url": "http://www.genrov.com/",
    "date": "2026-10-21"
   },
   {
-   "kind": "招聘",
-   "claim": "成立年与城市",
-   "quote": "نت پرداز آذر … سال تاسیس 1388 … آدرس وبسایت netpardazco.com",
-   "url": "https://jobvision.ir/companies/78624/",
+   "kind": "官网",
+   "claim": "联系方式",
+   "quote": "Phone +44(0)191 5438953 Fax +44(0)191 5438954 Mobile +44(0)7973123650 Email info@genrov.com",
+   "url": "http://www.genrov.com/page1/page1.php",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "注册",
+   "claim": "公司号、地址、状态",
+   "quote": "GENROV LTD Registered office address: Office 2 Kepier Hall, Church Street, Houghton Le Spring, Tyne And Wear, England, DH4 4DN Company status: Active … Incorporated on: 7 May 2009",
+   "url": "https://find-and-update.company-information.service.gov.uk/company/06899120",
    "date": "2026-10-21"
   },
   {
    "kind": "名录",
-   "claim": "CEO 履历（大不里士）",
-   "quote": "Mehdi Pashapour … 2007 - now CEO @ NetPardaz … Network Security and IT R and D Headman @ Iran Tractor Manufacturing Company … Network Engineer @ Tabriz Refinery",
-   "url": "https://rocketreach.co/mehdi-pashapour-email_188921394",
+   "claim": "规模与董事",
+   "quote": "GENROV LTD … employs 1 people … MICHAEL DICKINSON owns 100 ORDINARY shares … Michael Dickinson Director",
+   "url": "https://uk.globaldatabase.com/company/genrov-ltd",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "ISAF：拿彩页未交谈；+98 号码",
-   "quote": "拿了彩页，没做交谈（和中科得能聊了很久） / 98 91431 58766 已加",
+   "claim": "1 次实质回复；16 次跟进",
+   "quote": "（用户表字段）",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
  "kp": [
   {
-   "name": "Ayda Zahed",
-   "role": "BD（用户表名片）",
-   "email": "zahed@netpardazco.com（用户表）",
-   "phone": "+98 914 315 87 66（用户表，WhatsApp 已加）",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
+   "name": "Michael Dickinson",
+   "role": "Director / 唯一股东",
+   "email": "mike@genrov.com（2024-06-16 本人来信「You could email the data sheet/manual」）",
+   "phone": "+44 191 543 8953",
+   "source": "https://uk.globaldatabase.com/company/genrov-ltd；S 邮箱来信表头"
   }
  ],
- "grade_override": "C",
- "override_reason": "区域外：公司实为伊朗大不里士的 IT/网络工程公司（电话 +98、波斯语官网、CEO Mehdi Pashapour），用户表国家「土耳其」为 ISAF 参展地误记；伊朗不在 Saga 区域且有制裁/收款风险",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 国别由表内「土耳其」更正为「伊朗」（country_fix，依据见加厚块）",
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（身份核对 → 区域外降 C）"
+  "level": "B 级加厚 v1（官网 + Companies House 核对）"
  },
  "company_facts": {
-  "legal_name": "Net Pardaz Azar（شرکت فنی و مهندسی نت پرداز آذر）",
-  "founded": "2009（1388）",
-  "hq": "Tabriz, Iran",
-  "size": "11–50（LinkedIn）",
-  "other": "政府/私营项目；数据中心、安防、企业网、VoIP"
+  "legal_name": "GENROV LTD（Companies House 06899120，2009-05-07 注册，Active）",
+  "hq": "Office 2 Kepier Hall, Church Street, Houghton-le-Spring, Tyne and Wear DH4 4DN, UK（+44 191 543 8953；info@genrov.com）",
+  "size": "1 人（董事 Michael Dickinson 持 100% 股）",
+  "other": "ROV 行业服务（海工/油气）：ROV 监督、工装、排故、翻新、培训"
  },
  "business_lines": [
-  "网络与 IT 工程（伊朗）"
+  "ROV 技术服务（人员、工装、排故、翻新、培训）"
  ],
  "channels": {
-  "网站": "http://netpardazco.com/ · https://netpardazco.ir/",
-  "LinkedIn": "https://www.linkedin.com/company/netpardaz"
+  "网站": "http://www.genrov.com/",
+  "电话": "+44 191 543 8953（官网公开）",
+  "邮箱（公开）": "info@genrov.com"
  },
  "signals": [
-  "伊朗市场、制裁合规风险 → 不推进"
+  "ROV 翻新/升级项目偶发需要宽温工业管理交换机（光纤上联）——一次性 1–2 台"
  ],
  "risks": [
-  "区域外 + 制裁/收款风险 → C"
+  "一人公司、项目型、无渠道属性；期望值低"
  ],
  "saga_fit": {
-  "p1": null,
+  "p1": "STI-288DGGPM",
   "tier": 25,
-  "why": "不推进（区域外）"
+  "why": "项目终端 25% 档：STI-288DGGPM（宽温 DIN，8 GE + 2 SFP 光口上联）适配 ROV 甲板单元；非 PoE 位 STI-280DGGM"
  },
- "email_hook": "（不主动发送）",
- "country_fix": "伊朗"
+ "email_hook": "For ROV topside refits, the DIN-rail 8-port managed switch with 2 SFP fibre uplinks runs −40 to +75 °C on 12–58 V DC; is there a refit coming up where one unit would be useful?",
+ "mail_review": {
+  "binding": {
+   "level": "轻度触达（2024-06-16 Mike「You could email the data sheet/manual」→ 已发；无后续；之后 22 封群发无回；Elsa 箱：`to:genrov.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 23 / 来 1）（第 74 批(j)））",
+   "type": "英国工程/安防承包（Genrov Ltd）",
+   "sieve": "2",
+   "stop": "资料后无回",
+   "revive": "不动",
+   "lane": "UK",
+   "cadence": "不动",
+   "evidence": "k=291792730fb79f70；第 19 批回补来信原文 1 条（gmail_s/gmail_a）"
+  },
+  "situation": "—",
+  "need": "4 口工业 PoE。",
+  "breakpoint": "—",
+  "saga_now": {
+   "p1": "—",
+   "tier": 25,
+   "price": "他没见过价；唯一型号 STI-244GP（锚 $45，2024-10 SA-021 报价单同款）；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-14 $65（10G fiber media converter）、2024-11-20 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2025-09-15 $240（24 Port Fiber Switch）、2025-10-09 $280（10G Enterprise SFP Switch）",
+   "why": "已打开的主题（4/23 封有打开记录）：「Industrial PoE Switch」(2024-06-16)、「Re: Industrial PoE Switch」(2024-06-16)、「Re: Industrial PoE Switch」(2024-06-24)、「24 Port Fiber Switch」(2025-09-15) → 读者兴趣偏「工业」；与 P1 同类，继续",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2024-06-16",
+    "dir": "来",
+    "who": "mike@genrov.com",
+    "quote": "Hi Simon You could email the data sheet/manual Regards Mike",
+    "why": "来信原文（主题「Re: Industrial PoE Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+    "k": "291792730fb79f70"
+   },
+   {
+    "date": "2024-06-16",
+    "dir": "去",
+    "who": "Simon → Mike（Re: Industrial PoE Switch；附 STI-244GP.pdf）",
+    "quote": "「Thanks for your interest. Please see attached datasheet and lets discuss samples/queries」（Mike 12:33Z 要 datasheet/manual，Simon 12:47Z 回）；06-24 追「Did you check the datasheet? samples?」；07-17 推 2.5G → 无回。",
+    "why": "Genrov（英国）唯一真人回应 = 要 4 口 PoE 工业机（STI-244GP）的资料；后续 20+ 封群发无回。重启只谈 STI-244GP（$45 锚）一款，问「还在做 DIN PoE 吗」一句话",
+    "k": "k=063870521f2854ef / f46195e8df082b49（S 邮箱 2024-06-16 12:47Z / 06-24）"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

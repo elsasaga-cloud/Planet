@@ -1,0 +1,61 @@
+{
+ "code": "SC-253",
+ "name_official": "Versa Technology（美国）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（versatek.com）",
+ "summary": "美国 PoE 方案商 Versa Technology（AETEK 美国伙伴）；按 T03 用户规则：Versa Technology = C，不再回访。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "AETEK",
+  "Hanwha"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "PoE 方案：智慧建筑、PoE 照明",
+   "quote": "Versa's PoE Business Solutions are empowering Smart Buildings, PoE Lighting, and the Autonomous Industry",
+   "url": "https://versatek.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "MC POE FS 工业品 标价很高；很多 Aetek 的产品",
+   "quote": "兴趣：MC POE FS 工业品 标价很高 很多Aetek的产品",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "用户 T03 规则：Versa Technology = C，不再回访",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（用户规则 T03 → C）"
+ },
+ "company_facts": {
+  "legal_name": "Versa Technology, Inc.",
+  "founded": "",
+  "hq": "California, USA",
+  "size": "中型",
+  "other": "用户规则 T03：C，不回访"
+ },
+ "business_lines": [
+  "PoE 方案分销"
+ ],
+ "channels": {
+  "role": "分销（用户判 C）",
+  "region": "美国"
+ },
+ "signals": [],
+ "risks": [
+  "T03 规则：不再回访"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 20,
+  "why": "不主动跟进（T03）。"
+ },
+ "email_hook": "（不主动发送：T03 规则）"
+}

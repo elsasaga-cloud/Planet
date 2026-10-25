@@ -1,0 +1,125 @@
+{
+ "code": "SC-162",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（promeshswitch.com，快照 2026-10-21）",
+ "summary": "德国 PROmesh（Indu-Sol GmbH 的工业交换机品牌站：PROmesh B8 compact / B12 PoE / P9+ / U3 三大家族，「Bestpreise für Netzwerkprofis」；与 SC-047 InduSol America 同一集团；表内「工业 FS，质量高」）；群发 14 次无回复。",
+ "type": "同行厂商（Indu-Sol PROmesh 自产）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：PROmesh；品类词 工业自动化 / OT 网络 / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "Die Serie der PROmesh Switches umfasst drei Familien leistungsfähiger Switches für alle industriellen Anwendungen.",
+   "url": "https://promeshswitch.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "工业FS",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "PROmesh 三大工业交换机家族",
+   "quote": "Die Serie der PROmesh Switches umfasst drei Familien leistungsfähiger Switches für alle industriellen Anwendungen.",
+   "url": "https://promeshswitch.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "工业 FS，质量高",
+   "quote": "工业FS；质量高",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "同行厂商：Indu-Sol GmbH 自产 PROmesh 工业交换机品牌站，非 OEM 买家；c_sub=厂商办事处/同行",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "德国",
+  "other": "官网 promeshswitch.com，语言 de-DE，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "工业交换机（PROmesh 自有品牌）"
+ ],
+ "channels": {
+  "role": "同行厂商（Indu-Sol PROmesh 自产）",
+  "region": "德国",
+  "contact": "info@indu-sol.com"
+ },
+ "signals": [
+  "产品页 /product/promesh-b12-poe/、/promesh-p9/、/promesh-b8/、/promesh-u3/",
+  "官网：Die Serie der PROmesh Switches umfasst drei Familien"
+ ],
+ "risks": [
+  "同行厂商：PROmesh 自研自产（德国），不会采购中国白牌",
+  "与 SC-047 InduSol America 同集团，两档均 C"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 25,
+  "why": "PROmesh 为 Indu-Sol 自研自产工业交换机（德国）→ 非 OEM 买家 → 改 C（与 SC-047 同口径）"
+ },
+ "email_hook": "（不发送：同行厂商）",
+ "mail_review": {
+  "as_of": "2026-10-25",
+  "binding": {
+   "level": "已发未回（无人工回复、无打开记录；S 6 封 2024-07-11→2024-12-05、A 11 封 2025-03-20→2026-03-06，共 17 封群发，0 真实回复；Elsa 单发去信 1 封（2025-02-10「24 Port Fiber Switch」→ info@indu-sol.com，未见回复（Elsa 箱 Replied 标签无）））（第 74 批(e)：S/A mail_dump + Elsa 箱 in:sent 排锚扫描 2026-10-25）",
+   "type": "同行厂商（Indu-Sol PROmesh 自产）",
+   "sieve": "1",
+   "stop": "读",
+   "evidence": [
+    "mail_dump.py SC-162（S/A 全量）",
+    "data/gmail_e/elsa_sent_nonanchor_2026-10-25.json（Elsa 1:1 普查）"
+   ]
+  },
+  "situation": "德国 PROmesh / Indu-Sol（自产工业交换机品牌；与 SC-047 InduSol America 同集团；同行）",
+  "need": "同行厂商，无外采口",
+  "breakpoint": "同行；info@ 17 封 0 回",
+  "saga_now": {
+   "p1": null,
+   "tier": null,
+   "price": null,
+   "why": "同行厂商，无外采口",
+   "repeat": "无成单；不动",
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "不动：同行厂商（与 SC-047 同线）",
+   "one_question": null
+  },
+  "facts": [
+   {
+    "date": "2026-03-06",
+    "dir": "去",
+    "who": "S/A 群发",
+    "quote": "8 port network switch, Industrial poe switch, Rack Managed Switch, 10G Media Converter",
+    "why": "S 6 封 2024-07-11→2024-12-05、A 11 封 2025-03-20→2026-03-06，共 17 封群发，0 真实回复｜首封 2024-07-11 → 末封 2026-03-06",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2025-02-10",
+    "dir": "out",
+    "who": "Elsa → info@indu-sol.com",
+    "quote": "24 Port Fiber Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+    "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
+    "k": "elsa_1to1",
+    "msg_id": "194ef68a4707fa73"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null
+ }
+}

@@ -1,252 +1,227 @@
 {
  "code": "SA-043",
- "name_official": "ENTA SOURCE Co., Ltd.（เอ็นต้าซอร์ส, Bangkok, Thailand）",
+ "name_official": "Direktronik AB（Nynäshamn, Sweden；Lagercrantz Group 子公司）",
  "website_status": "在线",
- "summary": "曼谷的网络与光纤设备进口分销商：工业交换机（DIN/机架）、工业 PoE、SFP（兼容 Cisco/HPE/Aruba 等，3 年保）、MC、HDMI over fiber、光纤无源件与 ODF，提供网络工程服务。用户表：A 已回复，兴趣工业 FS / SFP / MC / 机架 / 光猫，用自己的 logo，提到中科德能。",
- "type": "进口分销商（自有 logo）",
- "size": "未见人数（中小）",
+ "summary": "斯德哥尔摩南郊的网络/数据通信硬件进口分销商（1986 年创立，2007 年起属上市集团 Lagercrantz；约 25 人，营收约 1.4 亿 SEK），自有品牌产品 + 分销，面向企业/公共部门（Svenska Kraftnät 框架协议），2026 年收购 AB Qvintus、挪威 Nexlan。用户表：A 已回复 1 次，联系人 Anders Hedin；兴趣 MC / 工业 FS / VC / SDI / SFP 及周边，「和 E-link 深度合作」。",
+ "type": "分销商/进口商（自有品牌 + 多品牌）",
+ "size": "约 25 人，营收 140.7 MSEK（nordicnet）",
  "brands_seen": [
-  "中科德能",
-  "ENTA ETN/ETS（自有标）"
+  "Direktronik",
+  "E-link",
+  "PLANET"
  ],
  "evidence": [
   {
    "kind": "官网",
-   "claim": "进口分销定位与产品线",
-   "quote": "ENTA SOURCE Co.,Ltd. นำเข้าและจำหน่ายอุปกรณ์ Network ทุกประเภท อาทิเช่น Media Converter, Switch, Router, SFP Transceiver … DIN-Rail Industrial Ethernet Switch … INDUSTRIAL POE SWITCH",
-   "url": "https://www.entasource.co.th/17430328/network",
+   "claim": "定位与集团归属",
+   "quote": "Inriktningen har hela tiden varit import och distribution av produkter och komponenter, framförallt inom området nätverk och datakommunikation … Sedan 2007 ingår Direktronik som ett helägt dotterbolag till Lagercrantz Group.",
+   "url": "https://www.direktronik.se/foretaget/om-foretaget/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "第三方（nordicnet）",
+   "claim": "规模",
+   "quote": "Direktronik AB … Omsättning (×1000): 140 657 · Antal anställda: 25 … E-post: info@direktronik.se",
+   "url": "http://m.nordicnet.se/foretag/Direktronik-AB/8532",
    "date": "2026-10-21"
   },
   {
    "kind": "官网",
-   "claim": "联系方式",
-   "quote": "ENTA SOURCE CO., LTD. 11/72 Soi Phaholyothin 48 … Bangkok 10220 087-412-2552 … Sale@entasource.co.th",
-   "url": "https://www.entasource.co.th/17906637/network-service",
+   "claim": "Direktronik Pro 管理型 8 PoE + 2 SFP DIN 规格",
+   "quote": "En industriell Managed Ring PoE-switch med 8 adaptiva RJ45-portar … 2 Gigabit SFP … 30W per port … statisk routing … QoS och VLAN … Utökad Temperatur -40/+75 Montage DIN Ingångsspänning 48 - 57 V DC … PoE Budget 120",
+   "url": "https://www.direktronik.se/direktronik/natverk/lan-lokalt-natverk/switchar-industriellt/direktronik-pro-managerad-8xpoe--2xsfp/",
    "date": "2026-10-21"
   },
   {
    "kind": "官网",
-   "claim": "ETN 自有标工业交换机全系型号列表",
-   "quote": "Network Switch - ETN9065-4GX8GT - ETN9075-4GX8PGT - ETN9065-4GX8PGT - ETN9075-2GX16GT … ETN9075-2XG16PGT … ETN9075-8GX8GT - ETN9075-8GX8PGT - ETN9075-4GX24GT - ETN9075-4GX24PGT … ETN9065-1FX4TX-mini - ETN9065-5TX-mini",
-   "url": "https://www.entasource.co.th/17430331/industrial-switch",
+   "claim": "自有系列 Direktronik Connect（非管理 PoE + Watchdog + MC）",
+   "quote": "Vi har samlat en serie av omanagerade switchar under namnet Direktronik Connect … Omanagerade Switchar med PoE och Watchdog samt mediakonverterare",
+   "url": "https://www.direktronik.se/losningarna/natverk/direktronik-se/",
    "date": "2026-10-21"
   },
   {
    "kind": "官网",
-   "claim": "ETS-ESI1022 口型",
-   "quote": "ETS-ESI1022 … 16*100Base-T, 2*100Base-Fx SC, 4*1000Base-FX SFP Port",
-   "url": "https://www.entasource.co.th/17430364/industrial-ethernet-switchets-esi1022",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "进口分销定位与保修",
-   "quote": "ENTA SOURCE Co.,Ltd. นำเข้าและจำหน่ายอุปกรณ์ Network ทุกประเภท อาทิเช่น Media Converter, Switch, Router, SFP Transceiver ซึ่งอุปกรณ์ Network ที่เราจำหน่ายจะมีการรับประกันสินค้าหลังการขาย 1-3 ปี",
-   "url": "https://www.entasource.co.th/17430328/network",
+   "claim": "同时分销 PLANET IGS-624HPT",
+   "quote": "PLANET IGS-624HPT är en industriell PoE+ switch … fyra PoE+-portar och två fiberoptiska uplink-portar … strömbudget på upp till 120 watt",
+   "url": "https://www.direktronik.se/direktronik/natverk/lan-lokalt-natverk/switchar-industriellt/industriell-poe-switch-med-12v-48v-matning/",
    "date": "2026-10-21"
   }
  ],
  "kp": [
   {
-   "name": "—",
-   "role": "销售（官网公开）",
-   "email": "Sale@entasource.co.th",
-   "phone": "+66 87 412 2552（LINE: lin.ee/mNnxD59）",
-   "source": "https://www.entasource.co.th/17906637/network-service"
+   "name": "Anders Hedin",
+   "role": "联系人（用户表邮箱）",
+   "email": "anders.hedin@direktronik.se",
+   "phone": "+46 8 52 400 700（总机）",
+   "source": "Clients/A Replied 09.04.xlsx"
+  },
+  {
+   "name": "Mats Backlund",
+   "role": "收件人（A 邮箱 18 封的收件地址之一；他本人从未回信；职务未核）",
+   "email": "mats.backlund@direktronik.se",
+   "phone": "",
+   "source": "A 邮箱发件表头（18 封 to）"
   }
  ],
- "notes": "A 确认（已回复 + 自有 logo + 工业线全品类分销）；P1 = STI-288DGGPM（工业 8 PoE 网管）+ STI-110GE（MC），20% 分销档，贴牌 30%。",
+ "notes": "A 确认（北欧成熟分销 + 已回复 + 已与中国供应商 E-link 深度合作）：切入点为 E-link 以外的补充 SKU（Marvell 工业 PoE / MC）；P1 = STI-288DGGPM，20% 分销档；VC/SDI 不做。",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "深挖 v2（官网 entasource.co.th 自有标 ETN 目录核对）"
+  "level": "深挖 v1"
  },
  "company_facts": {
-  "legal_name": "ENTA SOURCE Co., Ltd.（เอ็นต้าซอร์ส）",
-  "hq": "Bangkok, Thailand",
-  "other": "官网 entasource.co.th（另有 entasource.com 旧站）：自有标 **ETN90xx** 工业交换机全系（ETN9065 非管理 / ETN9075 管理 推断）：4GX8GT、4GX8PGT（PoE）、2GX16GT/PGT、2XG16GT/PGT（10G 上联）、4XG16GT/PGT、8GX16GT/PGT、8GX8GT/PGT、4GX24GT/PGT、8GT/8PGT/16GT/16PGT、mini 1FX1TX/1FX2TX/1FX4TX/5TX、2GX2GT、1GX4GT；ETS-ESI1008 / ESI1022（16×FE + 2×FX SC + 4×SFP）；光模块 1G–100G（3 年保，兼容 Cisco/Huawei/Aruba/Alcatel/Juniper）；保修 1–3 年"
+  "legal_name": "Direktronik AB（Lagercrantz Group）",
+  "founded": "1986；2007 起属上市集团 Lagercrantz",
+  "hq": "Nynäshamn, Sweden",
+  "staff": "约 25",
+  "revenue": "约 1.4 亿 SEK",
+  "other": "自有系列 Direktronik Connect（非管理 PoE + Watchdog + MC）与 Direktronik Pro（管理型）；同时分销 PLANET（IGS-624HPT 等）；公共部门框架协议（Svenska Kraftnät）；2026 年收购 AB Qvintus 与挪威公司"
  },
  "business_lines": [
-  "工业交换机 / 工业 PoE（自有 logo）",
-  "兼容 SFP / MC / 光纤无源",
-  "网络工程服务",
-  "自有标 ETN 工业以太网/PoE 交换机（DIN + 机架）",
-  "自有标光模块 1G/10G/25G/40G/100G、DAC",
-  "Media Converter / 网络方案"
+  "自有品牌 Direktronik Connect/Pro 工业与商用交换机、MC",
+  "PLANET 等品牌分销",
+  "企业/公共部门网络硬件进口分销"
  ],
  "products_seen": [
   {
-   "brand": "中科德能（现来源，自有标）",
-   "model": "工业 FS / MC / 机架",
-   "spec": "自己的标",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "用户表",
-   "saga": "STI-288DGGPM / STI-110GE"
+   "brand": "Direktronik Pro",
+   "model": "Managerad switch för DIN-skena, 8× 1 GbE POE, 2x SFP（Best.nr 系列）",
+   "spec": "工业管理环网 8×GE PoE 30W + 2 SFP，静态路由/QoS/VLAN，-40~75℃，48–57VDC，120W",
+   "url": "https://www.direktronik.se/direktronik/natverk/lan-lokalt-natverk/switchar-industriellt/direktronik-pro-managerad-8xpoe--2xsfp/",
+   "date": "2026-10-21",
+   "saga": "STI-288DGGPM"
   },
   {
-   "brand": "ENTA（ETN 自有标）",
-   "model": "ETN9075-4GX8PGT / ETN9065-4GX8PGT",
-   "spec": "4 SFP + 8 GE PoE 工业（管理/非管理）",
-   "url": "https://www.entasource.co.th/17430331/industrial-switch",
+   "brand": "Direktronik",
+   "model": "Omanagerad switch för DIN-skena, 4× 1 GbE POE, 1x SFP",
+   "spec": "4×GE PoE 30W + 1 SFP，-40~75℃，120W，ESD 6/8KV",
+   "url": "https://www.direktronik.se/direktronik/natverk/lan-lokalt-natverk/switchar-industriellt/industriell-mediakonverterare2/",
    "date": "2026-10-21",
-   "saga": "STI-288DGGPM（8 PoE + 2 SFP；4 SFP 版需核）"
+   "saga": "STI-144GP"
   },
   {
-   "brand": "ENTA（ETN 自有标）",
-   "model": "ETN9075-2XG16PGT / 4XG16PGT",
-   "spec": "2/4×10G SFP+ 上联 + 16 GE PoE 工业",
-   "url": "https://www.entasource.co.th/17430331/industrial-switch",
+   "brand": "Direktronik",
+   "model": "Industriell POE switch PoE-powered 4 port + 2 SFP（Best.nr 20113781）",
+   "spec": "PoE 受电供电（bt 90W 入）4 GE PoE + 2 SFP，-40~80℃",
+   "url": "https://www.direktronik.se/direktronik/natverk/lan-lokalt-natverk/switchar-industriellt/industrial-poe-powered-switch-5-port-101001000t2-port-sfp/",
    "date": "2026-10-21",
-   "saga": "STI-21616GP（10G 上联版需核）"
+   "saga": "—（PD 供电型不在 Saga 型谱）"
   },
   {
-   "brand": "ENTA（ETN 自有标）",
-   "model": "ETN9075-8GX8GT / 8GX8PGT",
-   "spec": "8 SFP + 8 GE 工业（PoE 可选）",
-   "url": "https://www.entasource.co.th/17430331/industrial-switch",
+   "brand": "Direktronik",
+   "model": "4× 1 GbE POE++, 1 POE++ PD RJ45（Best.nr 20115161）",
+   "spec": "4×bt 90W PSE + 1 PD，-20~65℃",
+   "url": "https://www.direktronik.se/direktronik/natverk/lan-lokalt-natverk/switchar-industriellt/full-gigabit-poe---funkar-bade-som-psd-och-pd--2065c/",
    "date": "2026-10-21",
-   "saga": "—（8 光 8 电，与 SA-108 需求同型，待核 SmartByte）"
+   "saga": "—"
   },
   {
-   "brand": "ENTA（ETN 自有标）",
-   "model": "ETN9075-4GX24PGT",
-   "spec": "4 SFP + 24 GE PoE 工业机架",
-   "url": "https://www.entasource.co.th/17430331/industrial-switch",
+   "brand": "PLANET（分销）",
+   "model": "IGS-624HPT（Best.nr 20121139）",
+   "spec": "工业 4×GE bt + 2 SFP，12–54V 升压，120W",
+   "url": "https://www.direktronik.se/direktronik/natverk/lan-lokalt-natverk/switchar-industriellt/industriell-poe-switch-med-12v-48v-matning/",
    "date": "2026-10-21",
-   "saga": "STC-424DGGPM-280W（商用）"
-  },
-  {
-   "brand": "ENTA（ETN 自有标）",
-   "model": "ETN9065-1FX4TX-mini / 5TX-mini / 1GX4GT",
-   "spec": "迷你 DIN 1 光 4 电 / 5 电",
-   "url": "https://www.entasource.co.th/17430331/industrial-switch",
-   "date": "2026-10-21",
-   "saga": "STI-144GP（PoE）/ STI-050GE"
-  },
-  {
-   "brand": "ENTA（ETS 自有标）",
-   "model": "ETS-ESI1022",
-   "spec": "16×100Base-T + 2×100Base-FX SC + 4×1000Base-FX SFP",
-   "url": "https://www.entasource.co.th/17430364/industrial-ethernet-switchets-esi1022",
-   "date": "2026-10-21",
-   "saga": "STI-21616GP（千兆升级位）"
+   "saga": "STI-144GP"
   }
  ],
  "channels": {
-  "网站": "https://www.entasource.co.th/（目录）/ https://www.entasource.com/",
-  "直邮": "sale@entasource.co.th（用户表）"
+  "网站/网店": "https://www.direktronik.se/（Kunskapsbanken + 产品 PDF）",
+  "直邮": "anders.hedin@direktronik.se / info@direktronik.se（用户表）"
  },
  "signals": [
-  "用户表：A 已回复；自有标 + 中科德能来源——贴牌采购流程成熟",
-  "ETN 自有标型谱已覆盖 10G 上联与 8 光 8 电——是成熟的贴牌进口商，Saga 作为 Marvell 二供可按 ETN 命名直接套入（2026-10-21）"
+  "自有 Direktronik Connect/Pro 系列规格（Watchdog、环网、-40~75℃）与 E-link 公版一致——用户表「和 E-link 深度合作」，ODM 采购成熟（2026-10-21）",
+  "2026 年并购扩张（Qvintus、挪威）——采购体量上升"
  ],
  "risks": [
-  "泰国价格敏感；现来源价格低"
+  "E-link 深度合作 → 替换难，定位二供/新品类（2.5G/10G、bt）",
+  "瑞典公共部门框架要求文档/环保（RoHS/REACH）齐全，Saga 具备 CE/RoHS/REACH"
  ],
  "saga_fit": {
   "p1": "STI-288DGGPM",
-  "tier": 30,
-  "why": "自有标 ETN 贴牌进口商：STI-288DGGPM ↔ ETN9075-4GX8PGT 位；STI-144GP ↔ ETN9065-1FX4TX-mini 位；STI-21616GP ↔ 2XG16PGT 位（10G 上联需核）；按 ETN 命名 OEM，30% 档"
+  "tier": 20,
+  "why": "Direktronik Pro 8 PoE + 2 SFP 管理 DIN 与 STI-288DGGPM 同位；Connect 4 PoE + 1 SFP 对位 STI-144GP；分销 20% 档（自有品牌贴标可 25%）"
  },
- "email_hook": "Your ETN9075-4GX8PGT and the 1FX4TX mini sit exactly where our Marvell-based 8-port PoE+ 2-SFP managed DIN switch and the 4+1 compact unit do, so I am quoting both in ETN packing, EXW, as a second source.",
+ "email_hook": "Your Direktronik Pro 8x PoE + 2 SFP managed DIN switch is the unit where a Marvell-based second source in Direktronik packing is easiest to slot in, so I am quoting that first, with the Connect-class 4+1 PoE model as the second line.",
  "mail_review": {
   "binding": {
-   "level": "未绑定（2025-06 要 24 口 + 2 SFP 非管理、48VDC 机架 → Saga 只有 AC 版 → 无下文；Elsa 箱：`to:entasource.co.th` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 21 / 来 1）（第 74 批(g)））",
-   "type": "曼谷进口分销（自有 logo）；Janejira",
-   "sieve": "2",
-   "stop": "产品缺口：48 VDC 输入的 24 口商用非管理机架机",
-   "revive": "SmartByte/HRUI 有 DC 输入商用款时",
-   "lane": "TH",
-   "cadence": "2024-07 → 2026-09 去信 21 封；最后来信 2025-06-16",
-   "evidence": "k=da8a7bcd11691b0e / ed149581e201dace"
+   "level": "未绑定（合规台账层接触，无销售对话；Elsa 箱：`to:.se` 穷举 12 条（2026-10-25，锚批 Bcc 头已读）未见 direktronik.se → Elsa 箱从未发过本户，往来只在 S/A 箱（去 21 / 来 4）（第 74 批(f)））",
+   "type": "瑞典上市集团（Lagercrantz）分销商，自有品牌 + 多品牌，已与 E-link 深度合作",
+   "sieve": "1（info@ 合规函）",
+   "stop": "2025-11-11 合规文件清单：EN 18031 声明、CE、RoHS、REACH、ISO → Alan「We only have CE/FCC/Reach/RoHS/UKCA」→ 无下文；Anders Hedin 只有自动回复；Mats Backlund 被指定为负责销售但从未回信；steffo@ 2026-09-28 永久退信（人已不在），后续只走 mats.backlund@ / anders.hedin@",
+   "revive": "给 Mats 一封：CE DoC 文件 + 一句「EN 18031 针对 RED 无线电设备，有线交换机不在范围」（需 Simon/SmartByte 确认 CE DoC 含 EMC/LVD 并可外发）",
+   "lane": "SE/EU（CE/UKCA/RoHS/REACH 有）",
+   "cadence": "2024-07 → 2026-09 去信 21 封；最后来信 2025-11-11",
+   "evidence": "k=cda0898220404dd0 / a72460754524b4c8 / 195f51b6b5903da9 / 6a03768b154dbe10"
   },
-  "situation": "Janejira 问 24×GE + 2 SFP 非管理机架、48 VDC 输入；Alan 答只有 AC 版（PoE / 非 PoE 各一）。无回。",
-  "need": "48 VDC 商用 24 口非管理。",
-  "breakpoint": "电源规格缺口（DC 输入商用机）。",
+  "situation": "Direktronik 的唯一实质来信是采购合规台的标准函：要 EN 18031（RED 网络安全）声明、CE、RoHS、REACH、ISO。Alan 答「只有 CE/FCC/REACH/RoHS/UKCA」，对方没有再问。这封函说明 Saga 的群发至少进入了其供应商评估流程，但没有人（Mats/Anders/Fredrik）在销售侧接话。",
+  "need": "合规文件齐全的工业 PoE / MC 补充 SKU（E-link 之外）；公共部门框架协议要求文件完整。",
+  "breakpoint": "合规文件是北欧分销的第一道门，不是价格。EN 18031 本身不适用于有线交换机，但需要有人把这句话说出来并附 DoC。",
   "saga_now": {
-   "p1": "无（缺口）",
+   "p1": "STI-288DGGPM（CE/RoHS/REACH 齐）+ CE DoC 文件",
    "tier": 20,
-   "price": "—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-23 $65（10G media converter）、2024-11-14 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-13 $280（10G Enterprise SFP Switch）",
-   "why": "有货再说。已打开的主题（2/21 封有打开记录）：「Commercial PoE Switch」(2025-06-16)、「Re: Commercial PoE Switch」(2025-06-16) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
+   "price": "按 20% 分销档；群发里他已看到的价（续）：2026-09-28 $180（24 Port PoE Managed Switch = STC-424XGGPM-280W，Alan 2026-09-21 起的现价轮）——同款信稿只能写 $180；群发里他已看到的价（续）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-08-02 $220（48 port managed switch）、2024-12-25 $240（24 Port Fiber Switch）、2025-10-07 $280（10G Enterprise SFP Switch）",
+   "why": "J2：把停点（文件）变成一封可核对的信；EU CRA 2027 是下一道门，先记着。已打开的主题（8/21 封有打开记录）：「Booster PoE Switch」(2025-11-11)、「Re: Booster PoE Switch」(2025-11-12)、「Re: Booster PoE Switch」(2025-12-08)、「24 Port PoE Managed Switch」(2026-09-28) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续 最近一封去信是 2026-09-28 A 邮箱模板（在本档最后一条事实之后）——下一封必须回到真人线程、不再叠模板｜已发资料（勿重发）：Saga Telecom Ethernet Switch JAT240705(2025-11-12)、Saga Telecom Ethernet Switch JAT240705(2025-11-12)、Saga Telecom Ethernet Switch JAT240705(2025-11-12)、Saga Telecom Ethernet Switch NCT240283(2025-11-12)、Saga Telecom Ethernet Switch JAT240705(2025-11-12)、Product Link_2026Q2(2026-03-30)、Saga Feature List_7.5.x_L2+(2026-07-20)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）",
    "repeat": [],
    "gaps": [
-    "HRUI 是否有 DC48V 输入 24 口商用非管理——查索引"
+    "ISO 9001/14001 = SmartByte 官网自述（docs/smartbyte/新闻与固件说明），证书文件仓库无 → 信里写 copy on request；RED/EN 18031 不适用于无线电以外设备为法规事实",
+    "信稿里不点名 SmartByte：S/A 两箱出站只对 NYNEX（nynex.de）提过 SmartByte 这个名字，其余客户从未点名——ISO 证书复印件给出去时厂名自然可见，但信里不先说"
    ]
   },
   "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
-   "one_question": ""
+   "when": "2026-11",
+   "channel": "A 邮箱 → mats.backlund@direktronik.se + anders.hedin@direktronik.se（抄 info@ 回原工单）",
+   "action": "附 CE DoC + EN 18031 不适用一句话 + 问谁管有源设备选品（第 75 批(n)：信里写了「attached」——发前必须附 CE DoC（EMC+LVD）、RoHS、REACH、FCC、UKCA 文件，缺一则把该行改「on request」）",
+   "one_question": "Our wired switches are outside RED/EN 18031 scope; attached is the CE DoC (EMC/LVD) — is that sufficient for your supplier file, and who owns active-equipment sourcing?"
   },
   "facts": [
    {
-    "date": "2024-07-05",
-    "dir": "去",
-    "who": "S 箱（Simon）",
-    "quote": "Industrial Network Switch",
-    "why": "首封去信（邮箱索引；去信共 21 封）",
-    "k": "678cd06b0d02c703"
-   },
-   {
-    "date": "2024-08-23",
-    "dir": "去",
-    "who": "S 箱（Simon）",
-    "quote": "10G media converter｜稿内价 $65",
-    "why": "去信正文含价（邮箱索引）",
-    "k": "9a7dd6d012ab5cf1"
-   },
-   {
-    "date": "2024-08-23",
-    "dir": "去",
-    "who": "S 箱（Simon）报价",
-    "quote": "10G media converter｜ $65（原句：Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unma）",
-    "why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
-    "k": "9a7dd6d012ab5cf1"
-   },
-   {
-    "date": "2024-11-14",
-    "dir": "去",
-    "who": "S 箱（Simon）报价",
-    "quote": "48 Port PoE Managed Switch｜ $300（原句：*Price is very competitive, 300usd/pc*）",
-    "why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
-    "k": "619de6e6fa3019fe"
-   },
-   {
-    "date": "2025-06-16",
+    "date": "2025-05-19",
     "dir": "来",
-    "who": "Janejira N.",
-    "quote": "Do you have 24*10/100/1000Mbps ports with 2 Ports SFP Uplink unmanaged commercial switches… Rack mount switch. Input 48 VDC",
-    "why": "精确需求",
-    "k": "da8a7bcd11691b0e"
+    "who": "info@direktronik.se（客服）",
+    "quote": "The responsible salesperson, Mats, will be back to you shortly.",
+    "why": "指定负责人 Mats（从未回）",
+    "k": "195f51b6b5903da9"
    },
    {
-    "date": "2025-06-16",
+    "date": "2025-11-11",
+    "dir": "来",
+    "who": "info@direktronik.se（合规）",
+    "quote": "we kindly request… EN 18031 declaration… CE certification RoHS compliance REACH compliance ISO certification (if applicable)",
+    "why": "合规清单 = 停点",
+    "k": "cda0898220404dd0"
+   },
+   {
+    "date": "2025-11-12",
     "dir": "去",
     "who": "Alan",
-    "quote": "We only have AC input model",
-    "why": "缺口",
-    "k": "ed149581e201dace"
+    "quote": "We only have CE/FCC/Reach/RoHS/UKCA. Please see attached info and let me know.",
+    "why": "Saga 答复",
+    "k": "a72460754524b4c8"
    },
    {
-    "date": "2025-06-16",
-    "dir": "来",
-    "who": "sale@entasource.co.th",
-    "quote": "Re: Commercial PoE Switch｜Good afternoon  Do you have 24*10/100/1000Mbps ports with 2 Ports SFP Uplink unmanaged commercial switches or not?  Rack mount switch. Input 48 VDC  I",
-    "why": "来信（邮箱索引；原文见 k；是否人工回复以原文为准）",
-    "k": "da8a7bcd11691b0e"
-   },
-   {
-    "date": "2026-09-07",
+    "date": "2025-12-08",
     "dir": "去",
-    "who": "A 箱（Alan）",
-    "quote": "16 Port Industrial PoE Switch",
-    "why": "最近一封去信（邮箱索引；去信共 21 封）",
-    "k": "d4a52432d6b65a0e"
+    "who": "Saga（Alan）",
+    "quote": "Hi, Anders, How are you? We are focusing on Marvell AC3 and AC5 solutions. *Compared with traditional Taiwanese suppliers* 1. Competitive pricing with the same Marvell architecture 2. Flexible OEM terms: even 1 unit is available 3. Fast delivery & small batch production 4. Custom design options (por…",
+    "why": "Saga 实质答复原文（主题「Re: Booster PoE Switch」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
+    "k": "d69d71aab444aaa5"
+   },
+   {
+    "date": "2026-09-28",
+    "dir": "内",
+    "who": "Gmail 退信（S 邮箱）",
+    "quote": "steffo@direktronik.se 永久退信：550 5.4.1 Recipient address rejected: Access denied. For more information see https://aka.ms/EXOSmtpErrors",
+    "why": "该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职",
+    "k": "gmail_s 322dcd696af9687a"
    }
   ],
-  "proof_gaps": [],
-  "draft_en": null,
+  "proof_gaps": [
+   "EN 18031 不适用于有线设备——这是 RED 指令范围的常识判断，发信前让 Simon 过目一句"
+  ],
+  "draft_en": {
+   "subject": "EN 18031 / supplier documents — wired switches are outside RED scope",
+   "body": "Hi, Mats, hi Anders,\n\nYour document request from November: EN 18031 is the harmonised standard under the Radio Equipment Directive, and our Ethernet switches and media converters contain no radio, so RED/EN 18031 does not apply to them. What applies, and what we hold:\n\n- CE Declaration of Conformity (EMC + LVD), RoHS, REACH — attached\n- FCC, UKCA — attached\n- ISO 9001 / ISO 14001: held by our manufacturing partner (the certificate carries the factory's legal name); copy on request\n\nOne question: is this sufficient for your supplier file, and who at Direktronik owns sourcing of active equipment (switches/MC) so I address the right person next time?\n\nThank you.\nAlan\nSaga Telecom - sagatele.com"
+  },
   "as_of": "2026-10-24"
  }
 }

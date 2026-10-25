@@ -1,128 +1,157 @@
 {
- "code": "SB-1062",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（comptek.kz，快照 2026-10-21）",
- "summary": "哈萨克斯坦 CompTek CA（网络与电信设备分销商：Cisco、Dell EMC、Ubiquiti、Avaya、F5，服务器/数据中心/网络安全；表内备注「PoE Splitter / from: 阿里巴巴 RFQ」；KP Faim Ahmetzjnov；邮箱 mail.ru）；表内未跟进。",
- "type": "IT 分销商（哈萨克斯坦，阿里 RFQ PoE 分离器）",
- "size": "",
- "brands_seen": [
-  "Cisco",
-  "Ubiquiti"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：CompTek CA | Дистрибьютор сетевого и телекоммуникационного оборудования",
-   "quote": "CompTek CA — поставщик телекоммуникационного и сетевого оборудования в Казахстане. Cisco, Dell EMC, Ubiquiti, Avaya, F5, WiFi, VoIP и IT-инфраструктура.",
-   "url": "https://comptek.kz/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "PoE Splitter / from: 阿里巴巴RFQ",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "CompTek 定位",
-   "quote": "CompTek CA | Дистрибьютор сетевого и телекоммуникационного оборудования ; Cisco, Dell EMC, Ubiquiti, Avaya, F5, WiFi, VoIP и IT-инфраструктура",
-   "url": "https://comptek.kz/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "PoE Splitter 阿里 RFQ",
-   "quote": "PoE Splitter / from: 阿里巴巴RFQ",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Faim Ahmetzjnov",
-   "title": "（职务待核）",
-   "email": "comtek@mail.ru",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "哈萨克斯坦",
-  "other": "官网 comptek.kz，语言 ru，快照状态 ok；角色判定来源：官网文案"
- },
- "business_lines": [
-  "网络 / 电信 / 数据中心设备分销（哈萨克斯坦）"
- ],
- "channels": {
-  "role": "IT 分销商（哈萨克斯坦，阿里 RFQ PoE 分离器）",
-  "region": "哈萨克斯坦",
-  "contact": "comtek@mail.ru"
- },
- "signals": [
-  "官网：CompTek CA — поставщик телекоммуникационного и сетевого оборудования в Казахстане. Cisco, Dell EMC, Ubiquiti, Avaya, F5；首页 Серверы и ЦОД ; Кибербезопасность ; 20+",
-  "表内：PoE Splitter / from: 阿里巴巴 RFQ；KP Faim Ahmetzjnov"
- ],
- "risks": [
-  "RFQ 品类（PoE 分离器）Saga 不供；非主攻区（T5，哈萨克斯坦）；联系邮箱为 mail.ru 免费邮箱；品牌分销导向（Cisco/Ubiquiti）"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 20,
-  "why": "RFQ 为 PoE 分离器（Saga 不供，Q-32）→ 转推配套 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理 8 PoE 位 HRUI STC-028GP（列表价，注明）"
- },
- "email_hook": "Faim, following your PoE-splitter enquiry: we do not carry splitters, but we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and 24-PoE + 4 SFP switches (90 W PoE++ options) from small lots, CE/RoHS, EXW USD — is there a PoE switch position in the same project we could quote?",
- "mail_review": {
-  "binding": {
-   "level": "未发信（S/A 邮箱均无往来；来源：用户表「PoE Splitter / from: 阿里巴巴RFQ」；Elsa 箱：`to:comptek.kz` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(n)））",
-   "type": "IT 分销商（哈萨克斯坦，阿里 RFQ PoE 分离器）",
-   "sieve": "—（未入筛）",
-   "stop": "从未触达",
-   "revive": "不动（非主攻区；J5：有证据再动）",
-   "lane": "哈萨克斯坦 非主攻",
-   "cadence": "不动",
-   "evidence": "gmail_digest：out 0；用户表：「PoE Splitter / from: 阿里巴巴RFQ」；研究档 risks：RFQ 品类（PoE 分离器）Saga 不供；非主攻区（T5，哈萨克斯坦）；联系邮箱为 mail.ru 免费邮箱；品牌分销导向（Cisco/Ubiquiti）"
-  },
-  "situation": "哈萨克斯坦 CompTek CA（网络与电信设备分销商：Cisco、Dell EMC、Ubiquiti、Avaya、F5，服务器/数据中心/网络安全；表内备注「PoE Splitter / from: 阿里巴巴 RFQ」；KP Faim Ahmetzjnov；邮箱 mail.ru）；表内未跟进。",
-  "need": "RFQ 为 PoE 分离器（Saga 不供，Q-32）→ 转推配套 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理 8 PoE 位 HRUI STC-028GP（列表价，注明）",
-  "breakpoint": "RFQ 品类（PoE 分离器）Saga 不供；非主攻区（T5，哈萨克斯坦）；联系邮箱为 mail.ru 免费邮箱；品牌分销导向（Cisco/Ubiquiti）",
-  "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 20,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "RFQ 为 PoE 分离器（Saga 不供，Q-32）→ 转推配套 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理 8 PoE 位 HRUI STC-028GP（列表价，注明）",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—",
-   "one_question": ""
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "PoE Splitter / from: 阿里巴巴RFQ",
-    "why": "表内备注",
-    "k": "用户表"
-   }
+  "code": "SB-1062",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（odoo.com，快照 2026-10-21）",
+  "summary": "卡塔尔 Tamyeez Security（tamyeezsecurity.com；表内域名误记 odoo.com，快照抓到 Odoo 官网（site_mismatch，待重抓）；「有 Utepo 的交换机」）；表内 4 次跟进无回复。",
+  "type": "安防集成商（卡塔尔，Utepo 在用）",
+  "size": "",
+  "brands_seen": [
+    "Utepo"
   ],
-  "proof_gaps": [
-   "无邮件往来"
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：Open Source ERP and CRM | Odoo；品类词 工业自动化 / OT 网络",
+      "quote": "From ERP to CRM, eCommerce and CMS. Download Odoo or use it in the cloud. Grow Your Business.",
+      "url": "https://www.odoo.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "有Utepo的交换机",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "有 Utepo 的交换机",
+      "quote": "有Utepo的交换机",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "kp": [],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "卡塔尔",
+    "other": "官网 odoo.com，语言 en-US，快照状态 ok；角色判定来源：官网文案"
+  },
+  "business_lines": [
+    "安防系统集成（卡塔尔）"
+  ],
+  "channels": {
+    "role": "安防集成商（卡塔尔，Utepo 在用）",
+    "region": "卡塔尔",
+    "contact": "info@tamyeezsecurity.com"
+  },
+  "signals": [
+    "表内：有 Utepo 的交换机；info@tamyeezsecurity.com",
+    "快照：Open Source ERP and CRM | Odoo（与实体不符）"
+  ],
+  "risks": [
+    "快照域名误判（Odoo 官网）——tamyeezsecurity.com 待重抓；非主攻区（T5，卡塔尔）；现供 Utepo 价格基准低；4 次无回复，仅 info@"
+  ],
+  "saga_fit": {
+    "p1": "STI-288GP",
+    "tier": 25,
+    "why": "Utepo 位 → 工业 8 PoE + 2 SFP STI-288GP（$59.8 @25%）/ 管理 STI-288GPM（$82.2）、室内 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1）"
+  },
+  "email_hook": "For the Utepo-type PoE switch positions in your security installations, we supply DIN-rail 8-PoE + 2 SFP (managed on Marvell L2+, or unmanaged) and commercial 8-PoE L2+ switches from single units, CE/RoHS, EXW USD — which configuration does your current project need?",
+  "site_mismatch": true,
+  "mail_review": {
+    "binding": {
+      "level": "未触达（digest 计 12 封来信为 odoo.com 系统噪声；实际对 info@tamyeezsecurity.com 4 封群发 0 回）；Elsa 1:1 去信 6 轮 2025-12-03→2026-08-05（To 仅本户 info@tamyeezsecurity.com；头 msg 19fd14b48811e5d7 核对无 Bcc，称呼「Hi,」= 无称呼逐月单发名单；头文摘要可见 Price: 170USD/PC；主题 Updated Ethernet Switches Links、Marvell Managed Commercial Switches、Industrial PoE Switch、24 Port PoE Managed Switch…；0 回（Elsa 箱 Replied 索引 + 第 73 批真人来信逐户比对均无此户）；S/A digest 看不到 Elsa 的去信，之前据此写的「未触达」是 S/A 口径）（第 74 批(n) `from:e.sagatelecom to:odoo.com OR to:tamyeezsecurity.com` 全程 complete，直收 6 条、无 Re: 行）",
+      "type": "卡塔尔安防集成（Tamyeez；Utepo 在用）",
+      "sieve": "0",
+      "stop": "自动回复/机器人，无人工回复",
+      "revive": "不动",
+      "lane": "QA",
+      "cadence": "不动",
+      "evidence": "digest noise（odoo.com）"
+    },
+    "situation": "来信全部为机器回复；无人读信或无人回信。",
+    "need": "—",
+    "breakpoint": "—",
+    "saga_now": {
+      "p1": "—",
+      "tier": 20,
+      "price": "—；群发里他已看到的价（续，第 66 批全量复核）：2025-09-19 $240（24 Port Fiber Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-05 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-05；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
+      "why": "—",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "不动",
+      "channel": "—",
+      "action": "—",
+      "one_question": ""
+    },
+    "facts": [
+      {
+        "date": "2025-12-03",
+        "dir": "out",
+        "who": "Elsa → info@tamyeezsecurity.com",
+        "quote": "Booster PoE Switch（Elsa 1:1 逐月名单第 1/6 轮；To 仅本户）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:odoo.com OR to:tamyeezsecurity.com` 全程 complete：6 轮直收（头 msg 19fd14b48811e5d7 无 Bcc，称呼「Hi,」）；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "19ae294e51d40eac"
+      },
+      {
+        "date": "2026-01-01",
+        "dir": "out",
+        "who": "Elsa → info@tamyeezsecurity.com",
+        "quote": "Marvell Industrial Alert System（Elsa 1:1 逐月名单第 2/6 轮；To 仅本户）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:odoo.com OR to:tamyeezsecurity.com` 全程 complete：6 轮直收（头 msg 19fd14b48811e5d7 无 Bcc，称呼「Hi,」）；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "19b78b6ba6b362c4"
+      },
+      {
+        "date": "2026-02-16",
+        "dir": "out",
+        "who": "Elsa → info@tamyeezsecurity.com",
+        "quote": "Updated Ethernet Switches Links（Elsa 1:1 逐月名单第 3/6 轮；To 仅本户）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:odoo.com OR to:tamyeezsecurity.com` 全程 complete：6 轮直收（头 msg 19fd14b48811e5d7 无 Bcc，称呼「Hi,」）；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "19c65645524c750a"
+      },
+      {
+        "date": "2026-03-23",
+        "dir": "out",
+        "who": "Elsa → info@tamyeezsecurity.com",
+        "quote": "Marvell Managed Commercial Switches（Elsa 1:1 逐月名单第 4/6 轮；To 仅本户）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:odoo.com OR to:tamyeezsecurity.com` 全程 complete：6 轮直收（头 msg 19fd14b48811e5d7 无 Bcc，称呼「Hi,」）；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "19d19ec278ffc2cb"
+      },
+      {
+        "date": "2026-05-04",
+        "dir": "out",
+        "who": "Elsa → info@tamyeezsecurity.com",
+        "quote": "Industrial PoE Switch（Elsa 1:1 逐月名单第 5/6 轮；To 仅本户）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:odoo.com OR to:tamyeezsecurity.com` 全程 complete：6 轮直收（头 msg 19fd14b48811e5d7 无 Bcc，称呼「Hi,」）；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "19df224ee1068cca"
+      },
+      {
+        "date": "2026-08-05",
+        "dir": "out",
+        "who": "Elsa → info@tamyeezsecurity.com",
+        "quote": "24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 6/6 轮；To 仅本户；正文 Price: 170USD/PC）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:odoo.com OR to:tamyeezsecurity.com` 全程 complete：6 轮直收（头 msg 19fd14b48811e5d7 无 Bcc，称呼「Hi,」）；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "19fd14b48811e5d7"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

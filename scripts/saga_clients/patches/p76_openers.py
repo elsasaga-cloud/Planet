@@ -3,7 +3,7 @@
 """第 76 批(a)：信稿开头句「most recently "<主题>" on <日期>」与邮箱索引逐封核对，主题错的按当日真实去信主题改写，并把该封去信补成事实。
 
 背景：audit_ab.py 发现 158 封稿的开头句主题取自 gmail_digest 的线程主题列表（首个线程），不是该日期那封邮件的真实主题
-（例：SB-183 稿写「Industrial PoE Switch」on 16 September 2026，邮箱里 2026-09-16 那封是「16 Port Industrial PoE Switch」）。
+（例：SA-083 稿写「Industrial PoE Switch」on 16 September 2026，邮箱里 2026-09-16 那封是「16 Port Industrial PoE Switch」）。
 客户收到信时对得上自己收件箱才可信，所以逐封改。
 
 默认 DRY（只打印），`--apply` 落盘。索引来源：data/gmail_s|gmail_a/messages/*/*.jsonl（dir=out，client 标签）+ data/gmail_e/bcc_match_latest.json。

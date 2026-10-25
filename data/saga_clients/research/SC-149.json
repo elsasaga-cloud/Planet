@@ -1,0 +1,73 @@
+{
+ "code": "SC-149",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（solucaonetwork.com.br，快照 2026-10-21）",
+ "summary": "巴西 Solução Network（网络/MESH 服务商；阿里巴巴 RFQ「200G/400G DCI」（数据中心互联，超范围）；KP Luciano Machado）；表内未跟进。",
+ "type": "网络服务商（巴西，DCI 超范围 RFQ）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Pra você (pagina principal) - Solução Network",
+   "quote": "Você Sabe o Que É MESH?",
+   "url": "https://solucaonetwork.com.br/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "200G/400G DCI / from: 阿里巴巴RFQ",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Solução 页面",
+   "quote": "Pra você (pagina principal) - Solução Network ; Você Sabe o Que É MESH?",
+   "url": "https://solucaonetwork.com.br/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "200G/400G DCI RFQ",
+   "quote": "200G/400G DCI / from: 阿里巴巴RFQ",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "超范围品类 RFQ（DCI）且疑为运营商；c_sub=品类不符",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "巴西",
+  "other": "官网 solucaonetwork.com.br，语言 pt-BR，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "网络 / MESH 服务（巴西）"
+ ],
+ "channels": {
+  "role": "网络服务商（巴西，DCI 超范围 RFQ）",
+  "region": "巴西",
+  "contact": "luciano@solucaonetwork.com"
+ },
+ "signals": [
+  "官网：Pra você (pagina principal) - Solução Network ; Você Sabe o Que É MESH?；kw 10g 2",
+  "表内：200G/400G DCI / from: 阿里巴巴 RFQ；KP Luciano Machado"
+ ],
+ "risks": [
+  "品类不符：200G/400G DCI（Saga 不供）；疑为 ISP/网络服务商；非主攻区（巴西）"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 25,
+  "why": "RFQ 品类 200G/400G DCI（Saga 不供）、疑为 ISP/服务商 → 改 C"
+ },
+ "email_hook": "（不发送：超范围品类）"
+}

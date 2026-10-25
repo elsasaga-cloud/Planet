@@ -2,165 +2,166 @@
  "code": "SB-529",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "在线（dss-kuwait.com，快照 2026-10-21）",
- "summary": "科威特 DSS – Digital Security Systems（「Digital Life A Smart Life」安防/智能方案与运维服务：方案设计、专业服务与分析、运维；合作伙伴 Dahua / ONV / Ajax / Axis；表内「工业 FS 和 ONV 深度合作」；KP Dalal Jadallah、Majdi Yosef、Doha Hassan、Azzam Abbas）；群发 15 次无回复。",
- "type": "安防集成商（科威特，ONV 深度合作）",
+ "website_status": "在线（dmsimfg.com，快照 2026-10-21）",
+ "summary": "美国 DMSI Manufacturing（官网快照为空页；表内「自己的 logo MC 周边产品」；KP Dustin Hall、Randy Harris（Director, Data Center & Broadband Sales）、Iylin Flock（General Manager）；备注 info@）；群发 19 次无回复。",
+ "type": "网络配件品牌商（美国，自有标 MC；官网待核）",
  "size": "",
- "brands_seen": [
-  "Dahua",
-  "ONV",
-  "Ajax",
-  "Axis"
- ],
+ "brands_seen": [],
  "evidence": [
   {
    "kind": "官网快照",
-   "claim": "官网标题：DSS-Digital Security Systems；品类词 安防监控（CCTV / 门禁） / 无线 / WiFi / 网络交换 / PoE",
-   "quote": "Digital Life A Smart Life；Our Services & Products；Experts are Here to Help；Solution & System Design；Professional Services & Analytics；Operations, Maintenance & Repair Service",
-   "url": "http://dss-kuwait.com/",
+   "claim": "官网标题：dmsimfg.com",
+   "quote": "",
+   "url": "https://dmsimfg.com/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
    "claim": "表内兴趣/备注",
-   "quote": "工业FS 和ONV深度合作；dalal@dss-kuwait.com majdi@dss-kuwait.com doha@dss-kuwait.com azzam@dss-kuwait.com",
+   "quote": "自己的logo MC 周边产品；info@dmsimfg.com",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   },
   {
-   "kind": "官网快照",
-   "claim": "DSS 首页",
-   "quote": "DSS-Digital Security Systems ; Digital Life A Smart Life ; Solution & System Design ; Operations, Maintenance & Repair Service ; Our Partners",
-   "url": "http://dss-kuwait.com/",
-   "date": "2026-10-21"
-  },
-  {
    "kind": "用户表",
-   "claim": "工业 FS 和 ONV 深度合作",
-   "quote": "工业FS 和ONV深度合作",
+   "claim": "自己的 logo MC 周边产品",
+   "quote": "自己的logo MC 周边产品；info@dmsimfg.com",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
  "kp": [
   {
-   "name": "Majdi Yosef",
-   "title": "（职务待核）",
-   "email": "majdi@dss-kuwait.com",
+   "name": "Randy Harris",
+   "title": "Director, Data Center & Broadband Sales",
+   "email": "（用户表把 dustin@ 记在他名下——同址属 Dustin Hall，Randy 本人地址待核）",
    "phone": "",
    "source": "用户表"
   },
   {
-   "name": "Dalal Jadallah",
+   "name": "Dustin Hall",
    "title": "（职务待核）",
-   "email": "dalal@dss-kuwait.com",
+   "email": "dustin@dmsimfg.com",
    "phone": "",
    "source": "用户表"
   },
   {
-   "name": "Azzam Abbas",
-   "title": "（职务待核）",
-   "email": "azzam@dss-kuwait.com",
-   "phone": "",
-   "source": "用户表"
-  },
-  {
-   "name": "Doha Hassan",
-   "title": "（职务待核）",
-   "email": "doha@dss-kuwait.com",
+   "name": "Iylin Flock",
+   "title": "General Manager",
+   "email": "evan@dmsimfg.com",
    "phone": "",
    "source": "用户表"
   }
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "科威特",
-  "other": "官网 dss-kuwait.com，语言 ?，快照状态 ok；角色判定来源：官网文案"
+  "hq": "美国",
+  "other": "官网 dmsimfg.com，语言 ?，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "安防 / 智能系统集成与运维（科威特）"
+  "网络配件 / MC（自有品牌 DMSI）"
  ],
  "channels": {
-  "role": "安防集成商（科威特，ONV 深度合作）",
-  "region": "科威特",
-  "contact": "info@dss-kuwait.com、presales@dss-kuwait.com"
+  "role": "网络配件品牌商（美国，自有标 MC；官网待核）",
+  "region": "美国",
+  "contact": "dustin@dmsimfg.com、evan@dmsimfg.com"
  },
  "signals": [
-  "首页 Digital Life A Smart Life ; Solution & System Design ; Professional Services & Analytics ; Operations, Maintenance & Repair Service ; Our Partners；站内品牌 Dahua / ONV / Ajax / Axis",
-  "表内：工业 FS 和 ONV 深度合作；联系人 dalal@ / majdi@ / doha@ / azzam@"
+  "表内：自己的 logo MC 周边产品；KP Dustin Hall；Randy Harris / Director, Data Center & Broadband Sales；Iylin Flock / General Manager；info@dmsimfg.com",
+  "快照：标题/描述/栏目均为空（dmsimfg.com）"
  ],
  "risks": [
-  "现与 ONV（深圳）深度合作（价格基准低、关系既定）；非主攻区（T5，科威特）",
-  "15 次无回复，4 名联系人职务待核"
+  "官网快照空页（站点状态待核）；19 次无回复 → 改向销售总监具名首触"
  ],
  "saga_fit": {
-  "p1": "STI-288GPM",
-  "tier": 25,
-  "why": "现 ONV 工业 FS 深度合作 → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）作 Marvell 平台替代位；商用 STC-28DGGPM（$84.1）"
+  "p1": "STI-110GE",
+  "tier": 30,
+  "why": "自有 logo MC → 工业千兆 MC STI-110GE（$24.3 @30%）/ PoE MC STI-111GP；桌面 MC 用 HRUI（列表价，注明）"
  },
- "email_hook": "Majdi, for the industrial PoE switches in your camera and access-control projects, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units (−40~75 °C, 90 W PoE++ option, CE/RoHS, neutral packing) from single units, EXW USD — is there a managed-switch position you would like a comparative quote for alongside your current supplier?",
+ "email_hook": "Randy, for the media converters sold under the DMSI label to your data-center and broadband customers, we can supply gigabit and PoE MCs (industrial or desktop) and 8-GE + 2 SFP switches in your packaging from small lots, FCC/CE/RoHS — which MC configuration sells most in your range?",
  "mail_review": {
   "binding": {
-   "level": "未触达（1 封自动回复；ONV 深度合作；Elsa 箱：`to:dss-kuwait.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 23 / 来 1）（第 74 批(n)））",
-   "type": "科威特安防集成（DSS）",
+   "level": "未触达（3 封来信 = Kelly 休假/退休自动回复；Elsa 箱：`to:dmsimfg.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 30 / 来 3）（第 74 批(h)））",
+   "type": "美国网络配件品牌商（DMSI）",
    "sieve": "0",
-   "stop": "自动回复/机器人，无人工回复",
-   "revive": "不动",
-   "lane": "KW",
-   "cadence": "不动",
-   "evidence": "k=eedb744221423d3a"
+   "stop": "联系人已退休（2024-05-23 自动回复）",
+   "revive": "改发 sales@dmsimfg.com",
+   "lane": "US",
+   "cadence": "一封",
+   "evidence": "k=02e8365a9e7d02a0（RETIRED）"
   },
-  "situation": "来信全部为机器回复；无人读信或无人回信。",
+  "situation": "—",
   "need": "—",
   "breakpoint": "—",
   "saga_now": {
    "p1": "—",
-   "tier": 20,
-   "price": "—；群发里他已看到的价（续）：2026-07-27 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-11-18 $300（48 Port PoE Managed Switch）、2025-10-07 $280（10G Enterprise SFP Switch）、2026-06-16 $16000（32 Port 400GB DC Switch）",
-   "why": "已打开的主题（2/23 封有打开记录）：「48 Port PoE Managed Switch」(2024-11-18)、「16 Port Industrial PoE Switch」(2026-09-10) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
+   "tier": 30,
+   "price": "—；群发里他已看到的价（续）：2026-07-27 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-11-21 $300（48 Port PoE Managed Switch）、2025-10-08 $280（10G Enterprise SFP Switch）",
+   "why": "已打开的主题（2/30 封有打开记录）：「48 Port PoE Managed Switch」(2024-11-21)、「Managed Optical Bypass Switch」(2025-04-23) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续 最近一封去信是 2026-09-28 A 邮箱模板（在本档最后一条事实之后）——下一封必须回到真人线程、不再叠模板｜已发资料（勿重发）：Saga Software Function List-release 7.(2025-03-21)、Product Link_2026Q2(2026-02-26)、Saga Feature List_7.5.x_L2+(2026-06-27)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）",
    "repeat": [],
-   "gaps": []
+   "gaps": [
+    "新联系人"
+   ]
   },
   "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—（第 76 批(c) 2026-10-25：0 事实户补时间线事实）",
-   "one_question": ""
+   "when": "2026-11",
+   "channel": "A 邮箱 → dustin@dmsimfg.com（Dustin Hall；Kelly 已退休，sales@ 只回自动信；evan@dmsimfg.com 备用）",
+   "action": "换人（第 76 批(c) 2026-10-25：audit_ab 软项修正：署名「Alan Yan」→「Alan」（A 箱实际署名））（第 76 批(c) 2026-10-25：0 事实户补时间线事实）",
+   "one_question": "Do you resell switches alongside your DC hardware, or only source them for your own builds?"
   },
   "facts": [
    {
-    "date": "2024-07-08",
+    "date": "2024-06-24",
     "dir": "去",
     "who": "S 箱（Simon）",
-    "quote": "Passive PoE Switch",
-    "why": "首封去信（邮箱索引；去信共 23 封）",
-    "k": "ecd99befeaa14703"
+    "quote": "Industrial PoE Managed Switch",
+    "why": "首封去信（邮箱索引；去信共 30 封）",
+    "k": "3fc9871299c44094"
    },
    {
-    "date": "2026-09-10",
+    "date": "2026-09-28",
     "dir": "去",
     "who": "A 箱（Alan）",
-    "quote": "16 Port Industrial PoE Switch",
-    "why": "最近一封去信（邮箱索引；去信共 23 封）",
-    "k": "e316074b47782e03"
+    "quote": "Managed PoE Switches",
+    "why": "最近一封去信（邮箱索引；去信共 30 封）",
+    "k": "10091d622fd77f9a"
    },
    {
-    "date": "2024-08-06",
+    "date": "2024-05-02",
     "dir": "来",
-    "who": "dalal@dss-kuwait.com",
-    "quote": "Automatic reply: PoE Switch｜HHello!  I am away on vacation From Aug 1st 2024 To Aug 31st 2024.  I will respond as soon as I return. For urgent matte",
+    "who": "kelly@dmsimfg.com",
+    "quote": "Vacation｜Monday April 29, 2024 I’ll be on vacation the rest of today returning Wednesday May 8.  Please see contacts below while ",
     "why": "自动回复/退信（机器，不算人工回复）",
-    "k": "eedb744221423d3a"
+    "k": "89918dafbe1936c9"
+   },
+   {
+    "date": "2024-05-23",
+    "dir": "来",
+    "who": "kelly@dmsimfg.com",
+    "quote": "Vacation｜If you are seeing this message then I have officially RETIRED!  Please redirect your email to the contacts listed below ",
+    "why": "自动回复/退信（机器，不算人工回复）",
+    "k": "02e8365a9e7d02a0"
+   },
+   {
+    "date": "2025-01-02",
+    "dir": "来",
+    "who": "brandon@dmsimfg.com",
+    "quote": "Automatic reply: 48 Port 10G Core Switch｜December 25th through January 5th DMSI facilities are closed.  We will re-open on Monday January 6th.   The sales team i",
+    "why": "自动回复/退信（机器，不算人工回复）",
+    "k": "ed65b17afbbc82ba"
    }
   ],
   "proof_gaps": [],
-  "draft_en": null,
+  "draft_en": {
+   "subject": "For Randy Harris — 100G / 25G data-center switches, priced",
+   "body": "Hello DMSI team,\n\nEarlier mails went to a mailbox that now auto-replies as retired, so this is addressed to sales@ for Randy Harris (Data Center & Broadband Sales).\n\nThree data-center SKUs are priced today, all EXW (2026 Q2 list): 32× 100G QSFP28 USD 6,000; 6× 40G + 2× 100G USD 1,200; 48× 25G + 8× 100G USD 4,800. CENTEC silicon, SONiC-ready on request, neutral or your label.\n\nOne question: do you resell switches alongside your DC hardware, or only source them for your own builds?\n\nAlan\nSaga Telecom - sagatele.com"
+  },
   "as_of": "2026-10-24"
  }
 }

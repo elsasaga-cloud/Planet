@@ -1,118 +1,146 @@
 {
-  "code": "SB-581",
-  "name_official": "Tiên Phong CP（越南；Trung）",
-  "researched_at": "2026-10-21",
-  "website_status": "无域名（gmail；仅表内信息）",
-  "summary": "越南公司 Tiên Phong CP（Trung，gmail semtec2017），需求 16/24/32 口 PoE 交换机；2025-11 收 48 口邮件、2025-12 收 2+2 mini 邮件；无域名。",
-  "type": "",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "用户表",
-      "claim": "兴趣 16 24 32 port POE Switch；1120 email 48 口；1216 email 22mini",
-      "quote": "兴趣：16 24 32 port POE Switch；回复：1120email发了48口；1216email发了22mini",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Trung",
-      "title": "（表内联系人）",
-      "email": "semtec2017@gmail.com",
-      "phone": "+84 966 246 152",
-      "source": "（本地 Clients/ 表格，无公开 URL）"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "无域名 · 仅表内信息"
+ "code": "SB-581",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（sheildify.com，快照 2026-10-21）",
+ "summary": "迪拜安防 / 医疗 / 消防设备网店 Shieldify（官网：Dubai’s trusted store for CCTV, biometric readers, smart door locks, fire safety & medical equipment；站内 Hikvision / Dahua / Ubiquiti / D-Link / TP-Link / Teltonika / Hanwha / ZKTeco，交换机页面 Dahua PFS3005-4ET-60、Hikvision DS-3E0105P-E；表内「很多牌子的 switch」）；群发 3 次无回复。",
+ "type": "电商/网店（安防 + 弱电，迪拜）",
+ "size": "",
+ "brands_seen": [
+  "Hikvision",
+  "Ubiquiti",
+  "D-Link",
+  "Teltonika",
+  "Hanwha",
+  "TP-Link",
+  "Dahua",
+  "Huawei",
+  "ZKTeco"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Security, Medical & Safety Equipment Store in Dubai, UAE.；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 无线 / WiFi / 数据中心 / 企业 IT / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "Dubai's trusted store for CCTV, biometric readers, smart door locks, fire safety & medical equipment. Best brands & prices. Shop Shieldify now!",
+   "url": "https://sheildify.com/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "legal_name": "Tiên Phong CP（待核）",
-    "founded": "",
-    "hq": "越南",
-    "size": "小型",
-    "other": "gmail"
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "很多牌子的switch",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "channels": {
-    "role": "安防 / 网络经销（推断）",
-    "region": "越南"
-  },
-  "signals": [
-    "明确口型：16/24/32 口 PoE"
-  ],
-  "risks": [
-    "越南低价市场；gmail"
-  ],
-  "saga_fit": {
-    "p1": "STC-424DGGPM-280W",
-    "tier": 25,
-    "why": "16/24 口 PoE → Saga STC-424DGGPM-280W（$134.5/140.1/145.7）；16 口 STC-2216GPM（HRUI 列表 $137.5）；32 口无（24/48 口替代）。"
-  },
-  "email_hook": "Trung, for the 16/24/32-port PoE sizes — we have 16 and 24 (and 48) in Marvell L2+; which PoE budget do your camera projects need, 250 W or 400 W class?",
-  "mail_review": {
-    "binding": {
-      "level": "未触达（S 邮箱 3 封 2024→2025，1 次记录打开，0 回；收件 semtec2017@gmail.com；主题多为「48 Port PoE Managed Switch、Mini Industrial PoE Switch」）；Elsa 群发 BCC 已触达 2026-09-10「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，越南-2（锚 thuyluc1973 gmail；仅 2026-09-10 一轮） 批次 To thuyluc1973@gmail.com，0 回（第 74 批 Bcc 头核对 msg 1a08a7cf5fc993e4）",
-      "type": "—",
-      "sieve": "1~2（1 次打开）",
-      "stop": "3 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-      "revive": "保持季度群发到 2027-Q1；无打开即停",
-      "lane": "越南 非主攻",
-      "cadence": "季度",
-      "evidence": "gmail_digest：out 3，Opened 标签 1（Simon 群发追踪）；用户表：「兴趣：16 24 32 port POE Switch；回复：1120email发了48口；1216email发了22mini」；研究档 risks：越南低价市场；gmail；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To thuyluc1973@gmail.com）本户见于 2026-09-10 名单"
-    },
-    "situation": "越南公司 Tiên Phong CP（Trung，gmail semtec2017），需求 16/24/32 口 PoE 交换机；2025-11 收 48 口邮件、2025-12 收 2+2 mini 邮件；无域名。",
-    "need": "16/24 口 PoE → Saga STC-424DGGPM-280W（$134.5/140.1/145.7）；16 口 STC-2216GPM（HRUI 列表 $137.5）；32 口无（24/48 口替代）。",
-    "breakpoint": "越南低价市场；gmail",
-    "saga_now": {
-      "p1": "STC-424DGGPM-280W",
-      "tier": 25,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-11-20 $300（48 Port PoE Managed Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-09-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-10；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
-      "why": "16/24 口 PoE → Saga STC-424DGGPM-280W（$134.5/140.1/145.7）；16 口 STC-2216GPM（HRUI 列表 $137.5）；32 口无（24/48 口替代）。已打开的主题（1/3 封有打开记录）：「Mini Industrial PoE Switch」(2024-12-16) → 读者兴趣偏「工业」；与 P1 同类，继续",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "群发节奏",
-      "channel": "A 邮箱",
-      "action": "观察打开",
-      "one_question": "Trung, for the 16/24/32-port PoE sizes — we have 16 and 24 (and 48) in Marvell L2+; which PoE budget do your camera projects need, 250 W or 400 W class?"
-    },
-    "facts": [
-      {
-        "date": "2025-01-10",
-        "dir": "去",
-        "who": "S 群发",
-        "quote": "48 Port PoE Managed Switch、Mini Industrial PoE Switch",
-        "why": "3 封 / 1 次打开 / 0 回｜首封 2024-11-20 → 末封 2025-01-10（3 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2026-09-10",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To thuyluc1973@gmail.com，越南-2（锚 thuyluc1973 gmail；仅 2026-09-10 一轮） 批次）",
-        "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
-        "why": "Elsa 箱群发 BCC 触达证据（命中地址 semtec2017@gmail.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-        "k": "elsa_bcc"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "兴趣：16 24 32 port POE Switch；回复：1120email发了48口；1216email发了22mini",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [
-      "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
-    ],
-    "draft_en": null,
-    "as_of": "2026-10-25"
+  {
+   "kind": "官网快照",
+   "claim": "迪拜安防/医疗/消防设备网店",
+   "quote": "Dubai’s trusted store for CCTV, biometric readers, smart door locks, fire safety & medical equipment. Best brands & prices. Shop Shieldify now!",
+   "url": "https://sheildify.com/",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "阿联酋",
+  "other": "官网 sheildify.com，语言 en-US，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "安防 / 门禁 / 消防 / 医疗设备网店",
+  "数据网络方案（配套）"
+ ],
+ "channels": {
+  "role": "电商/网店（安防 + 弱电，迪拜）",
+  "region": "阿联酋",
+  "contact": "sales@sheildify.com"
+ },
+ "signals": [
+  "官网 kw：cable 560 / camera 509 / switch 427 / poe 228 / industrial 81",
+  "产品页 /product/data-networking-solutions-dubai-uae-2xx/ → 有「数据网络方案」品类"
+ ],
+ "risks": [
+  "综合网店（安防 + 医疗 + 消防）：交换机为配套品类，量小",
+  "非主攻区（T5）；无具名联系人（sales@）"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 20,
+  "why": "网店在卖 Dahua/Hik 5 口非管理 PoE（$20–30 价带）→ Saga 对价位 HRUI STC-204GP（$20.4 列表价）/ STC-028GP（$24.2）；管理位 STC-28DGGPM（$80.7 @20%）作升级款"
+ },
+ "email_hook": "Next to the Dahua PFS and Hikvision DS-3E PoE switches on your store, we can list a neutral-brand 8-port PoE+ L2+ managed switch (2 SFP) plus a budget 4/8-port unmanaged PoE line, shipped from small lots — which price band moves more for you, unmanaged or managed?",
+ "products_seen": [
+  {
+   "brand": "Dahua",
+   "model": "DH-PFS3005-4ET-60",
+   "spec": "4 口百兆 PoE + 1 上联 非管理 60W",
+   "saga": "STC-204GP（HRUI 列表价 $20.4，非 SmartByte）",
+   "url": "https://sheildify.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "brand": "Hikvision",
+   "model": "DS-3E0105P-E",
+   "spec": "4 口百兆 PoE 非管理",
+   "saga": "STC-204GP（HRUI 列表价 $20.4，非 SmartByte）",
+   "url": "https://sheildify.com/",
+   "date": "2026-10-21"
+  }
+ ],
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 6 封 2025→2026，无记录打开，0 回；收件 sales@sheildify.com；主题多为「8 Port Industrial PoE Switch、Mini Industrial PoE Switch」；Elsa 箱：`to:sheildify.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 6 / 来 0）（第 74 批(n)））",
+   "type": "电商/网店（安防 + 弱电，迪拜）",
+   "sieve": "1（只收到群发）",
+   "stop": "只打通用邮箱，无记录打开",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "阿联酋 非主攻",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 6；用户表：「很多牌子的switch」；研究档 risks：综合网店（安防 + 医疗 + 消防）：交换机为配套品类，量小"
+  },
+  "situation": "迪拜安防 / 医疗 / 消防设备网店 Shieldify（官网：Dubai’s trusted store for CCTV, biometric readers, smart door locks, fire safety & medical equipment；站内 Hikvision / Dahua / Ubiquiti / D-Link / TP-Link / Teltonika / Hanwha / ZKTeco，交换机页面 Dahua PFS3005-4ET-60、Hikvision DS-3E0105P-E；表内「很多牌子的 switch」）；群发 3 次无回复。",
+  "need": "网店在卖 Dahua/Hik 5 口非管理 PoE（$20–30 价带）→ Saga 对价位 HRUI STC-204GP（$20.4 列表价）/ STC-028GP（$24.2）；管理位 STC-28DGGPM（$80.7 @20%）作升级款",
+  "breakpoint": "综合网店（安防 + 医疗 + 消防）：交换机为配套品类，量小",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-27 $280（10G Enterprise SFP Switch）",
+   "why": "网店在卖 Dahua/Hik 5 口非管理 PoE（$20–30 价带）→ Saga 对价位 HRUI STC-204GP（$20.4 列表价）/ STC-028GP（$24.2）；管理位 STC-28DGGPM（$80.7 @20%）作升级款",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Next to the Dahua PFS and Hikvision DS-3E PoE switches on your store, we can list a neutral-brand 8-port PoE+ L2+ managed switch (2 SFP) plus a budget 4/8-port unmanaged PoE line, shipped from small lots — which price band moves more for you, unmanaged or managed?"
+  },
+  "facts": [
+   {
+    "date": "2026-02-02",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "8 Port Industrial PoE Switch、Mini Industrial PoE Switch",
+    "why": "6 封 / 0 次打开 / 0 回｜首封 2025-08-21 → 末封 2026-02-02（6 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "很多牌子的switch",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

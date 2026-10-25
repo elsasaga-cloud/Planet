@@ -1,49 +1,27 @@
 {
  "code": "SB-225",
- "name_official": "Instant Byte S.L.（西班牙）",
+ "name_official": "CESS Güvenlik（shnrise.com，TR；官网未检索到）",
  "researched_at": "2026-10-21",
- "website_status": "在线（instantbyte.com，快照 2026-10-21，西语）",
- "summary": "西班牙网络 / 无线 / VoIP / 视频监控 / IoT 专业批发商（Huawei、Ubiquiti、MikroTik、Grandstream、TP-Link、Cisco、D-Link；poe 202 / switch 76），CEO Juan Prieto、技术经理 Eduardo Valle；表内「安防为主，有中科（ZKTeco？）的」；群发 4 次无回复。",
+ "website_status": "未检索到",
+ "summary": "ISAF 记录：Şahin Öztürk（sahin@shnrise.com）——最主要问了收发器；无后续跟进。用户表公司名「CESS Govalik」（疑 CESS Güvenlik），域名 shnrise.com 无搜索结果 → 仅表内信息。需求为光收发器：价格表无 SFP 单列 → 待核型。",
  "type": "",
  "size": "",
- "brands_seen": [
-  "Huawei",
-  "Ubiquiti",
-  "MikroTik",
-  "Grandstream",
-  "TP-Link",
-  "Cisco",
-  "D-Link"
- ],
+ "brands_seen": [],
  "evidence": [
   {
-   "kind": "官网快照",
-   "claim": "网络方案批发：无线、VoIP、视频监控、IoT；品牌 Huawei / Ubiquiti / MikroTik / Grandstream / TP-Link / Cisco / D-Link；comercial@/soporte@",
-   "quote": "Mayorista especializado en soluciones networking: wireless, VoIP, videovigilancia e IoT.",
-   "url": "https://instantbyte.com/",
-   "date": "2026-10-21"
-  },
-  {
    "kind": "用户表",
-   "claim": "安防为主；有中科的；销售平台",
-   "quote": "兴趣：安防为主 有中科的",
+   "claim": "ISAF：最主要问了收发器",
+   "quote": "最主要问了收发器 / SAHIN OZTURK / sahin@shnrise.com",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
  "kp": [
   {
-   "name": "Juan Prieto",
-   "title": "CEO",
-   "email": "ejprieto@instantbyte.com",
-   "phone": "",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
-  },
-  {
-   "name": "Eduardo Valle",
-   "title": "Technical Manager",
-   "email": "comercial@instantbyte.com",
-   "phone": "",
+   "name": "Şahin Öztürk",
+   "role": "（ISAF 名片；职务待核）",
+   "email": "sahin@shnrise.com（用户表）",
+   "phone": "—",
    "source": "（本地 Clients/ 表格，无公开 URL）"
   }
  ],
@@ -52,82 +30,73 @@
  "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照核对 + 表内）"
+  "level": "官网未检索到 · 仅表内信息"
  },
  "company_facts": {
-  "legal_name": "Instant Byte S.L.",
-  "founded": "",
-  "hq": "Spain（马德里，待核）",
-  "size": "中小型批发商",
-  "other": ""
+  "legal_name": "CESS Güvenlik（待核）",
+  "hq": "Türkiye（待核）",
+  "size": "待核",
+  "other": "域名 shnrise.com 与公司名不一致"
  },
  "business_lines": [
-  "网络 / 安防 / VoIP 批发"
+  "安防（推测）"
  ],
  "channels": {
-  "role": "批发分销商",
-  "region": "西班牙"
+  "邮箱": "sahin@shnrise.com（用户表）"
  },
  "signals": [
-  "PoE 词频 202 → PoE 交换机为核心品类",
-  "CEO 具名邮箱"
+  "收发器需求 → 需 SFP 价目（SmartByte 另询）"
  ],
  "risks": [
-  "多品牌批发比价；群发无回复"
+  "SFP 未在价格表；无公开资料；无后续跟进"
  ],
  "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 20,
-  "why": "安防批发走量 8 PoE + 2 SFP 管理机 → STC-28DGGPM（$80.7 @20%）；24 PoE STC-424DGGPM-280W。"
+  "p1": null,
+  "tier": 25,
+  "why": "待核型：收发器（SFP）不在价格表；可搭 STI-110GE MC（$23.4）/ STC-228GP（$30.8）"
  },
- "email_hook": "Juan, for the videovigilancia channel — a Marvell L2+ 8-PoE + 2-SFP at $81 and 24-PoE at $135 EXW, neutral packing, CE/RoHS; would you test 2 units against the TP-Link units you stock?",
+ "email_hook": "Şahin Bey, ISAF'ta sorduğunuz SFP modüller için tip (1G/10G, SM/MM, mesafe) ve adet bilgisini alabilir miyim? Fiyatla birlikte 2 SFP + 8 port PoE switch (30,8 USD EXW) seçeneğini de ekleyeyim.",
  "mail_review": {
   "binding": {
-   "level": "未触达（A/S 邮箱 15 封 2025→2026，无记录打开，0 回；收件 comercial@instantbyte.com, ejprieto@instantbyte.com；主题多为「24 Port PoE Managed Switch、8 Port Industrial PoE Switch」；Elsa 箱：`to:instantbyte.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 15 / 来 0）（第 74 批(k)））",
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「最主要问了收发器 / SAHIN OZTURK / sahin@shnrise.com」；Elsa 箱：`to:shnrise.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(i)））",
    "type": "—",
-   "sieve": "1（只收到群发）",
-   "stop": "15 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "西班牙（欧洲全域主攻）",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 15；用户表：「兴趣：安防为主 有中科的」；研究档 risks：多品牌批发比价；群发无回复"
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "不动（Q-33 供应商渠道客户）",
+   "lane": "TR 主攻（四主）",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 0；用户表：「最主要问了收发器 / SAHIN OZTURK / sahin@shnrise.com」；研究档 risks：SFP 未在价格表；无公开资料；无后续跟进"
   },
-  "situation": "西班牙网络 / 无线 / VoIP / 视频监控 / IoT 专业批发商（Huawei、Ubiquiti、MikroTik、Grandstream、TP-Link、Cisco、D-Link；poe 202 / switch 76），CEO Juan Prieto、技术经理 Eduardo Valle；表内「安防为主，有中科（ZKTeco？）的」；群发 4 次无回复。",
-  "need": "安防批发走量 8 PoE + 2 SFP 管理机 → STC-28DGGPM（$80.7 @20%）；24 PoE STC-424DGGPM-280W。",
-  "breakpoint": "多品牌批发比价；群发无回复",
+  "situation": "ISAF 记录：Şahin Öztürk（sahin@shnrise.com）——最主要问了收发器；无后续跟进。用户表公司名「CESS Govalik」（疑 CESS Güvenlik），域名 shnrise.com 无搜索结果 → 仅表内信息。需求为光收发器：价格表无 SFP 单列 → 待核型。",
+  "need": "待核型：收发器（SFP）不在价格表；可搭 STI-110GE MC（$23.4）/ STC-228GP（$30.8）",
+  "breakpoint": "SFP 未在价格表；无公开资料；无后续跟进",
   "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 20,
-   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-10-07 $180（24 Port PoE Managed Switch = STC-424XGGPM-280W，Alan 2026-09-21 起的现价轮）——同款信稿只能写 $180；群发里他已看到的价（续）：2026-08-27 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-08-21 $300（48 Port PoE Managed Switch）、2025-09-23 $280（10G Enterprise SFP Switch）",
-   "why": "安防批发走量 8 PoE + 2 SFP 管理机 → STC-28DGGPM（$80.7 @20%）；24 PoE STC-424DGGPM-280W。",
+   "p1": "—",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "待核型：收发器（SFP）不在价格表；可搭 STI-110GE MC（$23.4）/ STC-228GP（$30.8）",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开",
-   "one_question": "Juan, for the videovigilancia channel — a Marvell L2+ 8-PoE + 2-SFP at $81 and 24-PoE at $135 EXW, neutral packing, CE/RoHS; would you test 2 units against the TP-Link units you stock?"
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
   },
   "facts": [
-   {
-    "date": "2026-10-07",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "24 Port PoE Managed Switch、8 Port Industrial PoE Switch",
-    "why": "15 封 / 0 次打开 / 0 回｜首封 2025-07-17 → 末封 2026-10-07（15 去 / 0 来）",
-    "k": "gmail_digest"
-   },
    {
     "date": "2026-10-21",
     "dir": "用户表",
     "who": "Simon",
-    "quote": "兴趣：安防为主 有中科的",
+    "quote": "最主要问了收发器 / SAHIN OZTURK / sahin@shnrise.com",
     "why": "表内备注",
     "k": "用户表"
    }
   ],
-  "proof_gaps": [],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
   "draft_en": null,
   "as_of": "2026-10-24"
  }

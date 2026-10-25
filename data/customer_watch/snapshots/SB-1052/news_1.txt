@@ -1,214 +1,365 @@
-# SB-1052 acceed.com · news_1 · https://acceed.com/de/news · fetched 2026-10-25T07:41:18Z · HTTP 200
-Neuigkeiten | acceed
-info@acceed.com
-+49 211 938898 0
-DE
-|
-EN
-Startseite
-Produkte
-PC Server
-Industrial Computers
-PC Add-On Cards
-Network
-Vision & Video
-Software
-Signal Conditioning
-Sensors and Accessories
-Other
-Filter
-Neuigkeiten
-Kontakt
-Service
-Konto
-Login
-DE
-|
-EN
-0
-Ihr Warenkorb ist leer.
-Gesamt: 0.00 EUR
-Warenkorb ansehen
-Startseite
-Produkte
-PC Server
-Industrial Computers
-PC Add-On Cards
-Network
-Vision & Video
-Software
-Signal Conditioning
-Sensors and Accessories
-Other
-Filter
-Neuigkeiten
-Kontakt
-Service
-Konto
-Login
-SUCHEN SIE DIE PASSENDE
-INDUSTRIELLE LÖSUNG?
-Entdecken Sie Embedded-, Kommunikations- und Automatisierungslösungen für Ihre Anwendung.
-Neuigkeiten
-GT-92: Lüfterloses KI-Rack-System für den Dauerbetrieb
-Industrielle Anwendungen gieren nach Rechenleistung am Netzwerkrand, dort, wo Daten entstehen. Echtzeitfähige KI-Systeme für Bildverarbeitung, Qualitätskontrolle oder autonome Maschinen sollen große…
-Weiterlesen
-19.10.2026
-NRU-161V-AWP: Sichere Hardware für KI-Vision-Applikationen
-Qualitätssicherung basierte schon in vorindustrieller Zeit zuerst auf der visuellen Prüfung der hergestellten Produkte. Der rasenden technischen Entwicklung zum Trotz hat sich das bis heute nicht…
-Weiterlesen
-16.09.2026
-SEMIL-2200: Nvidia-GPU-Rechner widersteht groben Attacken
-Ursprünglich konzipiert für den militärischen Einsatz in Land- und Wasserfahrzeugen überzeugt der neue GPU-Rechner SEMIL-2200 auch industrielle Anwender mit seinen Stärken. Die jetzt beim deutschen…
-Weiterlesen
-21.08.2026
-Nuvo-11531: Edge-PC arbeitet lüfterlos und ökonomisch im OT-Netz
-Industrial-Edge-Computing entwickelt sich zunehmend vom Datensammler zum autonomen Entscheider. In OT-Netzen (Operational Technology) wechseln die Anforderungen. Deterministische Kommunikation,…
-Weiterlesen
-28.07.2026
-GT-92GC: Kühlt passiv, rechnet aktiv
-Die Erkenntnis ist nicht mehr neu: Industrielle Anwendungen gieren nach Rechenleistung am Netzwerkrand, dort, wo Daten entstehen. Echtzeitfähige KI-Systeme für Bildverarbeitung, Qualitätskontrolle…
-Weiterlesen
-17.04.2026
-GT-92RL-H: Kompromisslose Hardware für Edge-KI von Acceed
-Während KI-Modelle in der Industrie zunehmend effizienter werden, steigen zugleich die Anforderungen an die Hardware im Feld: GPU-Leistung muss mobil, robust und wartungsfrei verfügbar sein, in…
-Weiterlesen
-19.03.2026
-Nuvo-11000: Die neue IPC-Klasse für Automation und KI
-Mit dem steigenden Bedarf an vernetzter Produktion, Echtzeit-Datenverarbeitung und dezentraler Intelligenz im industriellen Umfeld haben sich die Anforderungen an Embedded-Computer in den letzten…
-Weiterlesen
-16.02.2026
-Nuvo-10000GC: High-Class-Plattform für KI-Aufgaben überzeugt mit Modularität und Leistung
-Die industrielle Automatisierung befindet sich seit geraumer Zeit im Wandel. Während bisherige Produktionssysteme auf klassische SPS- und IPC-Architekturen setzten, verlangt die Ära der Industrie 5.0…
-Weiterlesen
-21.01.2026
-NRU-170PPC: Edge-KI ohne Cloud, aber mit User Interface
-Eine bedeutende Rolle bei immer noch wachsender Digitalisierung und Automatisierung in der Industrie spielt die dezentrale Datenverarbeitung. Besonders wenn geringe Latenzen, minimale Ausfallzeiten…
-Weiterlesen
-20.11.2025
-SEMIL-2000GC: Edge-KI-Leistung in Extremzonen und Fahrzeugen
-Widerstandsfähig, lüfterlos, GPU-beschleunigt: So lauten die Anforderungen für KI-fokussierte Rechner an der Produktionslinie, in der Entwicklung, im Feld und unter Extrembedingungen. Oder Deep…
-Weiterlesen
-17.10.2025
-POC-764VR: Autonom überwachen und HD-Bilder auswerten
-Acceed erweitert sein Angebot industrieller Box-Controller um den speziell für die Videoanalyse und Objekterkennung entwickelten lüfterlosen Kompakt-Computer POC-764VR. Neben der auf industrielle…
-Weiterlesen
-18.09.2025
-Nuvo-11000 Series
-Die Nuvo-11000-Serie ist Neousys’ robustes Embedded-Flaggschiff, basierend auf Intel® Core™ Ultra 200 Prozessoren mit bis zu 24 Kernen/Threads, DDR5-6400-Speicher, PCIe Gen5 und integrierter NPU für…
-Weiterlesen
-12.09.2025
-PCIe-9146/9147: Präzise Simultan-Datenerfassung mit PCIe-Karten
-Die multifunktionalen DAQ-Karten PCIe-9146 und PCIe-9147 sind leistungsstarke Neuentwicklungen, die eine präzise und hochflexible Datenerfassung in anspruchsvollen Anwendungen ermöglichen. Diese…
-Weiterlesen
-16.08.2025
-NRU-156U3-FT: Hitzefrei im KI-Einsatz bis 60 °C
-Edge-KI-Anwendungen bedeuten für die eingesetzte Hardware oft eine Unterbringung in knapp bemessenen Gehäusen, Kanälen oder engen Boxen. Zum Schutz vor Umwelteinflüssen sind Einhausungen…
-Weiterlesen
-21.07.2025
-Nuvo-9531-FT: Box-PC mit Flat-Top-Kühlung gegen Hitzestau
-Gute Kühlung, oder präziser ausgedrückt effektive Wärmeableitung, ist ein nicht unwesentlicher Faktor, wenn es um Betriebssicherheit und Leistung bei eingebauten Computern, den für industrielle…
-Weiterlesen
-23.06.2025
-NRU-154PoE-FT: Edge-KI jetzt Top-gekühlt und mit Jetson Orin NX
-Die erfolgreiche NRU-Serie für Edge-KI-Anwendungen beim deutschen Distributor Acceed erhält Zuwachs der besonderen Art. Das auch bisher schon lüfterlose Chassis-Design für den Betrieb bei hohen…
-Weiterlesen
-18.05.2025
-PCIe-9103: Präzise Datenerfassung mit neuen Multiplexer-PCIe-DAQ-Karten
-PCIe-DAQ-Karten (Peripheral Component Interconnect Express - Data Acquisition Cards) stellen eine Schlüsseltechnik in Messanwendungen dar und bilden die leistungsstarke Schnittstelle für digitale…
-Weiterlesen
-22.04.2025
-POC-700-FT: Innovatives Kühlkonzept erhöht die Betriebssicherheit
-Box-PCs und Embedded-Controller müssen oft auf kleinstem Raum oder in engen Schaltkästen installiert werden. Der begrenzte Platz ist eine Herausforderung für die Wärmeableitung. Mangelhaftes…
-Weiterlesen
-18.03.2025
-FLYC-300: Ultraleichter Drohnen-Computer mit KI-Leistung
-Computer für die intelligente Steuerung unbemannter Fahrzeuge und stationärer Roboter arbeiten auch im industriellen Umfeld seit geraumer Zeit mit KI-basierten Applikationen. Eine Herausforderung…
-Weiterlesen
-20.02.2025
-IAP-1800AX: Dualer WiFi-6-Access-Point für die Industrie
-Access-Points haben, wie Ihre Bezeichnung schon sagt, im Grunde nur eine einfache Aufgabe: das Netzwerk per Funktechnik auf effiziente Weise mit Zugangspunkten zu erweitern. Im industriellen Umfeld…
-Weiterlesen
-15.01.2025
-DLAP-411-Orin: Schnellere Edge-KI-Applikationen mit Jetson-Orin
-Kennzeichnend für industrielle KI-Einsätze, Robotikanwendungen und Automatisierungsarchitekturen sind die laufend wachsenden Anforderungen an die Rechenleistung. Steuerung, Überwachung und Auswertung…
-Weiterlesen
-10.12.2024
-EX9250-MTCP: I/O-Module umgehen Ausfall mit Auto-Bypass
-Acceed bietet unter dem Markennamen ExpertDAQ eine umfassende Palette von skalierbaren und kosteneffizienten IO-Modulen, zum Beispiel die Serie EX9200. Die Module mit analogen und digitalen Eingängen…
-Weiterlesen
-19.11.2024
-WDAP-3000AX: WiFi-6-AP ist fit für Outdoor und Industrie
-Eine Herausforderung für die Netzwerkinfrastruktur ist naturgemäß der Außenbereich. Auch kabellose Access-Points und Router bilden dabei keine Ausnahme. Zwar sind die Funk-Reichweiten höher als in…
-Weiterlesen
-21.10.2024
-Nuvo-9650AWP: Industrie-PC ist für harte Einsätze gerüstet
-Der Einsatz von Computern im industriellen Umfeld, speziell in Außenbereichen, bei hohen Temperaturen oder unter Einfluss von Vibration, Nässe, Staub und ähnlichen aggressiven Umweltfaktoren kann…
-Weiterlesen
-14.08.2024
-NRU-51V+: Controller für reibungslose Abläufe im Fahrzeug
-Industriell genutzte Fahrzeuge, sei es für den Transport, für Lagerlogistik oder für andere Aufgaben, entwickeln sich immer mehr zu fahrenden Computern. Ihre Leistung hängt zunehmend von den…
-Weiterlesen
-22.07.2024
-Nuvo-9166GC: AI-Controller ist für den robusten Einsatz
-Der Inferenz-KI-Controller Nuvo-9166GC ist das jüngste Modell des renommierten Herstellers Neousys und jetzt beim deutschen Distributor Acceed erhältlich. Überzeugend ist vor allem seine Kombination…
-Weiterlesen
-25.06.2024
-Nuvo-10208GC: Dual-GPU-KI-Plattform ist robust und leistungsstark
-Für die immer effizienter arbeitende Automatisierung auf Basis künstlicher Intelligenz gewinnt vor allem eine leistungsfähige Hardware für Edge-KI-Anwendungen an Bedeutung. In diesem Kontext hat der…
-Weiterlesen
-21.05.2024
-NRU-220S: KI-Plattform unterstützt Assistenzsysteme
-Die NRU-Serie für Edge-AI-Anwendungen beim deutschen Distributor Acceed erhält Zuwachs. Mit ihrem lüfterlosen Chassis-Design für den Betrieb bei hohen Temperaturen und ihrer starken Inferenzleistung…
-Weiterlesen
-19.04.2024
-NRU-51V+: 4-Kamera-Controller steuert autonome Systeme
-Für autonome Roboter, Fahrzeuge, Flurförderzeuge und ähnliche autonom agierende Maschinen ist vor allem die Sensorik von großer Bedeutung. Gemeint ist die Erfassung von Daten mittels Kameras oder…
-Weiterlesen
-21.09.2023
-Nuvo-9160GC: GPU-Controller bringt KI-Edge-Computing auf 9 TeraFLOPS
-KI-Anwendungen und Edge-Computing-Szenarien erfordern neben großer Speicherkapazität für die Datenbasis vor allem eine hohe Rechenleistung für Datenauswertung und Echtzeit-Reaktion. Die Hauptleistung…
-Weiterlesen
-25.08.2023
-Nuvo 9501: Günstiger Embedded-PC mit leistungsstarker Basis
-Auf industrielle Anforderungen und professionelle Applikationen zugeschnitten ergänzt der jetzt bei Acceed erhältliche Embedded-PC Nuvo-9501 die Reihe leistungsstarker und kompakter Controller der…
-Weiterlesen
-18.07.2023
-Mactron WCP: Neue Touch-Panel-PCs für die Industrie
-Acceed hat sein Portfolio erweitert und jetzt auch die Produkte des Herstellers Mactron Group aufgenommen. Die Mactron Group aus Taiwan ist ein führender Anbieter von All-in-One-Touch-Systemen und…
-Weiterlesen
-21.06.2023
-Nuvo-9000: Industrielle Box-PC-Serie mit 6 x GbE und MezIO
-Acceed hat eine neue Serie leistungsstarker industrieller Box-PCs für flexibel konfigurierbare Einsätze in der Automation, Sicherheitstechnik, Anlagensteuerung und Produktionstechnik in sein…
-Weiterlesen
-22.05.2023
-EX9250-MTCP: I/O-Modul für Daisy-Chain-Schaltung mit Auto-Bypass
-Der deutsche Distributor Acceed bietet unter dem Markennamen ExpertDAQ eine umfassende Palette von skalierbaren und kosteneffizienten IO-Modulen für Netzwerke in anspruchsvollen Einsatzumgebungen.…
-Weiterlesen
-21.04.2023
-IGPMC-111GP: Gigabit-Medienkonverter mit PoE in Industriequalität
-Der jetzt neu beim deutschen Distributor Acceed erhältliche IGPMC-111GP ist ein kompakter, für die Hutschiene geeigneter Gigabit-Medienkonverter, der hohen industriellen Ansprüchen an Robustheit und…
-Weiterlesen
-22.03.2023
-EOS-JNX: IoT-AI-Controller nicht nur für Vision-Aufgaben
-Die neu beim Distributor Acceed erhältlichen Controller der Serie EOS-JNX von Adlink sind mit künstlicher Intelligenz (KI) ausgestattet und für den Einsatz „on the edge“ (Edge Computing) als…
-Weiterlesen
-15.02.2023
-ExpertDAQ: IoT-Komponenten zuverlässig verfügbar bei Acceed
-Der Ausbau der IoT-Infrastruktur ist noch lange nicht abgeschlossen. Insbesondere die Nachrüstung bestehender Architekturen im industriellen Sektor wie auch im Bereich Facility Management privater…
-Weiterlesen
-18.01.2023
-POC-40: Für robustes Edge-Computing auf engstem Raum
-Hohe Leistung, einfacher Zugang zu Schnittstellen, flexible Datenkommunikation und gleichzeitig eine kompakte Bauform: Das sind die nicht ganz einfach zu erfüllenden Anforderungen an…
-Weiterlesen
-12.12.2022
-Nuvo-8111: Erweiterbare KI-Plattform für autonome Prozesse
-Nuvo-8111 ist eine neu entwickelte Baureihe kosteneffizienter Rechnerplattformen, die kompromisslos auf den KI-Einsatz ausgerichtet sind. Der jetzt über den deutschen Distributor Acceed in mehreren…
-Weiterlesen
-11.11.2022
-PXI/PXIe-Systeme: Aufwand reduzieren mit mobiler PXI-Lösung
-Das Bild, das viele vor Augen haben, wenn sie an den Arbeitsplatz eines Konstrukteurs und Hardware-Entwicklers denken: ein chaotischer Arbeitstisch voller Kabel, Klemmen und Leiterplatten, gekrönt…
-Weiterlesen
-21.10.2022
-MCM-216/MCM-218: Autonome DAQ-Engine wertet Sensordaten aus
-Essentielle Voraussetzung für intelligente Abläufe in Smart-Factory-Szenarien und effiziente Automatisierung ist die Erfassung von Zuständen
+# SB-1052 lan.hu · news_1 · https://lan.hu/hirek_1/digitus-cat8-halozati-megoldasok-blog · fetched 2026-10-25T07:41:18Z · HTTP 200
+DIGITUS CAT8 Kábelek és Keystone Modulok | CAT8.1, CAT8.2 | LAN.hu
+Ugrás a fő tartalomhoz
+Visszajelzés a kisegítő lehetőségekről
+Weboldalunk használatával jóváhagyja a cookie-k használatát a Cookie-kkal kapcsolatos irányelv értelmében.
+Beállítások módosítása
+Elfogadom
+Szükséges cookie-k
+Ezek a cookie-k segítenek abban, hogy a webáruház használható és működőképes legyen.
+Marketing cookie-k
+Ezeket a cookie-k segítenek abban, hogy az Ön érdeklődési körének megfelelő reklámokat és termékeket jelenítsük meg a webáruházban.
+×
+Miért érdemes szünetmentes tápegységet használni otthon?
+2026.06.01-től változnak kiszállítási feltételeink.
++36 1 415 2300
+Belépés
+Regisztráció
+Termékek
+Főoldal
+TERMÉKEK
+Műszerbérlés 2026
+Hálózat
+Árajánlatkérés (kivitelezés)
+Hálózatépítés
+Bemutatkozás
+DIGITUS 25 év rendszergarancia
+Referenciák
+Tanusítványaink
+Szállítás és fizetés
+Árajánlatkérés
+Letölthető dokumentumok
+Kapcsolat
+Karrier
+Elállási nyilatkozat
+EU támogatásból megvalósuló képzések
+termék
+Kosár
+Tovább a kosárhoz
+Kezdőlap
+Hírek
+DIGITUS CAT8 hálózati megoldások professzionális infrastruktúrákhoz
+A modern hálózatok egyre nagyobb teljesítményt és megbízhatóságot követelnek meg. Adatközpontokban, szervertermekben, irodaházakban és nagy sávszélességet igénylő vállalati környezetekben a hálózati infrastruktúra minősége meghatározó szerepet játszik. A DIGITUS CAT8 termékcsalád olyan komponenseket kínál, amelyek alkalmasak nagy teljesítményű strukturált kábelezési rendszerek kialakítására.
+Termékek
+Komplett CAT8 rendszer egy gyártótól
+A megbízható hálózat nem csupán a megfelelő kábelből áll. A teljes rendszer minden elemének együtt kell működnie ahhoz, hogy a kívánt teljesítmény hosszú távon is biztosítható legyen.
+A LAN.hu kínálatában megtalálhatók:
+DIGITUS CAT8.2 S/FTP telepítőkábel
+DIGITUS CAT8.1 Keystone modulok
+DIGITUS CAT8.1 S/FTP patch kábelek több hosszúságban
+strukturált kábelezési rendszerekhez szükséges kiegészítők
+A rendszer egységes kialakítása egyszerűbb tervezést, gyorsabb telepítést és megbízhatóbb üzemeltetést tesz lehetővé.
+DIGITUS CAT8.2 S/FTP telepítőkábel
+A strukturált hálózat alapját a megfelelő minőségű falikábel jelenti. A DIGITUS CAT8.2 S/FTP telepítőkábel 2000 MHz átviteli frekvenciára készült, árnyékolt érpárakat és fonott réz külső árnyékolást alkalmaz. LSZH köpenye alacsony füstkibocsátású, így irodai és középületi telepítésekhez is kiváló választás. A kábel támogatja a PoE alkalmazásokat is.
+CAT8.1 Keystone modul gyors szereléssel
+A DIGITUS DN-93816 CAT8.1 Keystone modul lehetővé teszi a professzionális végződtetést szerszám nélküli kialakítással. A toolless rendszer gyorsabb szerelést biztosíthat, miközben megőrzi a strukturált kábelezési rendszerektől elvárt minőséget és megbízhatóságot.
+CAT8.1 S/FTP patch kábelek
+A hálózati végpontok összekötésére a DIGITUS CAT8.1 S/FTP patch kábelek ideális megoldást kínálnak. A különböző hosszúságú kivitelek lehetővé teszik a rugalmas telepítést szervertermekben, rack szekrényekben vagy irodai hálózatokban.
+Elérhető változatok:
+1 méter
+2 méter
+3 méter
+5 méter
+Az S/FTP árnyékolás segít minimalizálni a külső elektromágneses zavarok hatását, így stabil adatátvitel biztosítható nagy terhelésű környezetben is.
+Miért érdemes DIGITUS CAT8 termékeket választani?
+A DIGITUS hosszú ideje ismert szereplője a strukturált hálózatépítés piacának. A CAT8 termékcsalád előnyei:
+professzionális hálózatépítési megoldások
+2000 MHz kategóriájú infrastruktúra-elemek
+S/FTP árnyékolás
+LSZH köpenyes telepítőkábelek
+PoE támogatás
+toolless szerelési lehetőségek
+egységes rendszerkompatibilitás
+Összegzés
+A DIGITUS CAT8 termékek ideális választást jelentenek olyan projektekhez, ahol kiemelten fontos a megbízható adatátvitel, a professzionális kivitelezés és a hosszú távon fenntartható hálózati infrastruktúra. A CAT8.2 telepítőkábelek, CAT8.1 Keystone modulok és S/FTP patch kábelek együtt teljes körű megoldást kínálnak modern strukturált hálózatok kiépítéséhez.
+Termékek
+Tartalomhoz tartozó címkék:
+réz hálózat
+LAN Kft
+réz kábelezés
+hálózatépítés
+Digitus
+Digitus hálózati eszközök
+Digitus patch kábel
+hálózati kábelezés
+lan_hu Digitus
+CAT8
+Kapcsolódó termékek
+Cat8.2 falkábel LSZH-3 2000Mhz AWG22/1,500m DK-1843-VH-5
+Villámnézet
+Cikkszám: K1131843
+Ár:
+562 Ft + ÁFA
+(714 Ft)
+Megrendelésre 2hét a beérkezése
+m
+Kosárba
+Részletek
+Keystone modul FTP Cat8.1 (180 fokos) toolless DN-93816
+Villámnézet
+Cikkszám: TA-180FTPC8
+Ár:
+2.810 Ft + ÁFA
+(3.569 Ft)
+10 db raktáron
+db
+Kosárba
+Részletek
+SFTP Cat8.1 patch kábel 1,0 m DK-1843-010
+Villámnézet
+Cikkszám: TA-PSFTP010C8
+Ár:
+3.400 Ft + ÁFA
+(4.318 Ft)
+Előrendelhető h
+db
+Kosárba
+Részletek
+SFTP Cat8.1 patch kábel 2,0 m DK-1843-020
+Villámnézet
+Cikkszám: TA-PSFTP020C8
+Ár:
+4.300 Ft + ÁFA
+(5.461 Ft)
+Előrendelhető h
+db
+Kosárba
+Részletek
+SFTP Cat8.1 patch kábel 3,0 m DK-1843-030
+Villámnézet
+Cikkszám: TA-PSFTP030C8
+Ár:
+5.180 Ft + ÁFA
+(6.579 Ft)
+Előrendelhető h
+db
+Kosárba
+Részletek
+SFTP Cat8.1 patch kábel 5,0 m DK-1843-050
+Villámnézet
+Cikkszám: TA-PSFTP050C8
+Ár:
+6.970 Ft + ÁFA
+(8.852 Ft)
+Előrendelhető h
+db
+Kosárba
+Részletek
+Az oldal tetejére
++36-1/415-2300
+titkar@lan.hu
+H-1155 Budapest, Kolozsvár u. 7.
+Facebook
+Instagram
+Linkedin
+Youtube
+Átvételi pontok
+LAN Szaküzlet
+H-1155 Budapest Kolozsvár u. 7.
+Nyitva: hétköznap -
+sales@lan.hu | rendeles@lan.hu
+Külső raktár
+H-1151 Bp. Székely Elek út 11.
+Nyitva: hétköznap -
++36 1/415 2321 | sales@lan.hu
+Információk
+Főoldal
+TERMÉKEK
+e-számla
+Műszerbérlés 2026
+Hálózat
+Bemutatkozás
+kapcsolat ai
+Garancia
+Letölthető dokumentumok
+Kapcsolat
+Karrier
+Adatvédelmi nyilatkozat
+ÁSZF
+EU támogatásból megvalósuló képzések
+Feliratkozás hírlevélre
+Az Ön keresztneve
+Az Ön email címe
+* Hozzájárulok ahhoz, hogy a LAN Számítástechnikai Szolgáltató Kft. a nevemet és e-mail címemet hírlevelezési céllal
+kezelje és a részemre gazdasági reklámot is tartalmazó email hírleveleket küldjön.
+Feliratkozás
+re-email
+2019 - 2026 © Lan Számítástechnika | +36 1 415 2300 | sales@lan.hu; szolgaltatas@lan.hu; titkar@lan.hu
+Cookie beállítás
+Figyelem, az érték változtatása után az oldal újratöltődik.
+Belépés
+Regisztráció
+Réz hálózat
+Réz falkábelek
+Keystone modulok
+Patch panelek
+Fali aljzatok
+Előlapok
+Ipari megoldások
+Kiemelő keret
+soroló keretek
+Patch kábelek
+Patch kábelek dobon
+Szerelt patchkábelek
+Szerelési anyagok
+Kábeljelölő
+Moduláris dugaszok
+Toldók
+törésgátlók
+vezetékkötegelők
+Y elosztók
+Műszerek
+Szerszámok
+Optikai hálózat
+Bekötő kábelek
+Végződtetés Rack-be (19")
+Fal kábelek
+Patch kábelek
+Dobozok
+Pigtail
+Toldók
+Kiegészítők
+Műszerek
+Szerszámok
+Tisztítás
+Végződtetés
+Kábelek
+Audió és Video
+HDMI
+HDMI AOC
+Optikai bekötő kábelek
+Réz falkábelek
+Optikai falkábelek
+Szerelt réz patch kábelek
+Réz patch kábelek dobon
+Optikiai patch kábelek
+230V
+Rack szekrények
+Álló szekrények
+Fali szekrények
+Összeszerelt fali
+Lapraszerelt fali
+10"-os szekrények
+Kültéri szekrények
+Audio-Video Rack
+Rack keretek
+Töltőállomások
+Rack szekrény kiegészítők
+Ajtók
+Hűtés és Világítás
+Kábelvezetők
+Rögzítés és Egyéb
+Tálcák
+Vakpanelek
+villamos elosztó (PDU)
+Földelés és túlfesz. védelem
+PDU (230V-os elosztósáv)
+UPS és kiegészítők
+VI Line-Interactive
+VI CSW széria (600-1500)
+VI CW széria (1100-3000)
+VI GXB széria (1000-1500)
+VI LCD széria (650-2000)
+VI MS széria (600-1000)
+VI R1U széria
+VI RLE széria (1200-3000)
+VI RLP széria (1000-3000)
+VI RTHID széria (1000-3000)
+VI SB széria (650-1000)
+VI SCL széria (600-3000)
+VI SH/SHL széria (650-2200)
+VI STL széria (600-3000)
+VI SW széria (600-800)
+VFI On-line 1 fázis
+Álló UPS
+VFI AT (1-10K) SZÉRIA
+VFI CG PF1 széria
+VFI CLCD széria
+VFI EVS (5000) SZÉRIA
+VFI ICT IoT (1-10k) SZÉRIA
+VFI TG széria
+Rack UPS
+VFI CRM széria
+VFI ICR IoT széria
+VFI LICR IoT SZÉRIA
+VFI R1U széria
+VFI RMG széria
+VFI RTG SZÉRIA
+VFI On-line 3 fázis
+3/1 fázis
+3/3 fázis
+AVR / Inverter
+AVR (600-1200)
+AVR SIV (1500-300)
+Inverter PSW CEE (700-1200)
+UPS kiegészítők
+Akkumulátor
+Egyéb UPS kiegészítők
+Rack sínek
+SNMP kártyák
+10"-os megoldások
+Ergonómia
+Kopos termékek (csatorna)
+Bilincsek
+Gégecsövek
+Idomok
+Merev csövek
+Padló csatornák
+padlóbox és kiegészítők
+Parapet csatornák
+Szögletes csatornák
+Villanyszerelési csatornák
+Aktív eszközök
+Switch
+Wireless router
+Acces Point
+Media Converter
+SFP modul
+Vonalkód olvasók
+Egyéb
+Műszerek
+Műszerek optikai hálózathoz
+Műszerek réz hálózathoz
+Szerszámok
+Szerszámok optikai hálózathoz
+Szerszámok réz hálózathoz
+DIGITUS shop
+Egyedi gyártású optikai patch kábelek | Árajánlatkérő
+Ipari megoldások
+rack szekrények
+réz falkábelek
+szerelt patchkábelek
+réz végződtetés
+aktív eszközök
+TP-Link VIGI kamerarendszer
+Kamerák
+Kiegészítők
+Rögzítők
+Piactér
+Cat5e hálózat
+Cat6 hálózat
+Cat6a hálózat
+Főoldal
+TERMÉKEK
+Műszerbérlés 2026
+Hálózat
+Árajánlatkérés (kivitelezés)
+Hálózatépítés
+Bemutatkozás
+DIGITUS 25 év rendszergarancia
+Referenciák
+Tanusítványaink
+Szállítás és fizetés
+Árajánlatkérés
+Letölthető dokumentumok
+Kapcsolat
+Karrier
+Elállási nyilatkozat
+EU támogatásból megvalósuló képzések
++36-1/415-2300
+titkar@lan.hu
+H-1155 Budapest, Kolozsvár u. 7.
+Facebook
+Instagram
+Linkedin
+Youtube

@@ -1,48 +1,134 @@
 {
  "code": "SB-262",
- "name_official": "CompuSpare（南非）",
+ "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "在线（compuspare.co.za，快照 2026-10-21）",
- "summary": "南非新机与二手服务器 / PC / POS 供应商（Cisco、Huawei、Dell S5148F-ON、Mellanox SX6015 等数据中心设备），Imran Ayob 的需求为 Alcatel 兼容 SFP 大批量与「100Gb 以上」交换机，嫌价格高；数据中心 100G 段与 SFP 模块均不在 Saga 范围 → 降 C（规格外）。",
- "type": "",
+ "website_status": "在线（softwareeffect.com，快照 2026-10-21）",
+ "summary": "美国 Software Effect Enterprises, Inc（网络支持专用产品小型经销/技术站：Cisco/Juniper 交换机操作文章；Shopify 询盘「4 光 8 电管理型交换机 MIB 资料」；KP Charles H. Deling（charles@））；表内无跟进记录。",
+ "type": "网络支持产品小型经销商（美国，已询 MIB 资料）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Cisco",
+  "Juniper",
+  "Ubiquiti",
+  "MikroTik"
+ ],
  "evidence": [
   {
    "kind": "官网快照",
-   "claim": "定位：新机 / 二手服务器、PC、POS；站内 S5148F-ON、SX6015、QSFP28",
-   "quote": "SA's Supplier of choice for New and Pre-loved Servers, Laptops, Desktops, Pos… models S5148F-ON, SFP28, QSFP28, SX6015",
-   "url": "https://www.compuspare.co.za/",
+   "claim": "官网标题：Software Effect Enterprises, Inc；品类词 无线 / WiFi / 网络交换 / PoE",
+   "quote": "Specialized Products For Network Support；Recent Posts；Categories；Your IP Address",
+   "url": "https://www.seei.biz/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "SFP 模块数量大、需 Alcatel 兼容；回复 Our need is in the 100Gb upward range；嫌价格高",
-   "quote": "兴趣：SFP模块 数量比较大 需和Alcatel兼容；回复：Our need is in the 100Gb upward range；嫌价格高",
+   "claim": "表内兴趣/备注",
+   "quote": "4光8管理MIB资料 / from: Shopify",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Software Effect 首页",
+   "quote": "Software Effect Enterprises, Inc ; Specialized Products For Network Support ; Recent Posts ; Categories",
+   "url": "https://www.seei.biz/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "4 光 8 管理 MIB 资料询盘",
+   "quote": "4光8管理MIB资料 / from: Shopify",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
  "kp": [
   {
-   "name": "Imran A Ayob",
-   "title": "（采购）",
-   "email": "imran.ayob@compuspare.co.za",
-   "phone": "+27 83 775 3602",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
+   "name": "Charles H. Deling",
+   "title": "（Shopify 询盘联系人）",
+   "email": "charles@softwareeffect.com",
+   "phone": "",
+   "source": "用户表"
   }
  ],
- "grade_override": "C",
- "override_reason": "规格外：需求为 100G 以上数据中心交换机与 Alcatel 兼容 SFP（Saga 接入层 ≤10G、无模块）",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照身份判断 → 规格外降 C）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
+ "company_facts": {
+  "hq": "美国",
+  "other": "官网 softwareeffect.com，语言 en-US，快照状态 ok；角色判定来源：用户表"
+ },
+ "business_lines": [
+  "网络支持专用产品经销 / 技术博客"
+ ],
+ "channels": {
+  "role": "网络支持产品小型经销商（美国，已询 MIB 资料）",
+  "region": "美国",
+  "contact": "charles@softwareeffect.com"
+ },
+ "signals": [
+  "表内：4光8管理MIB资料 / from: Shopify；KP Charles H. Deling",
+  "快照：Specialized Products For Network Support；页面 /category/cisco-switch/、/enable-ssh-on-cisco-switch/"
+ ],
+ "risks": [
+  "小型经销/技术站：量小；询盘为技术资料（MIB），需随附 SNMP 资料",
+  "无跟进记录；Cisco/Juniper 内容为主"
+ ],
  "saga_fit": {
-  "p1": null,
+  "p1": "STI-488DGGPM",
   "tier": 20,
-  "why": "规格外，不主动跟进。"
+  "why": "询 4 SFP + 8 GE 管理型 MIB → 工业 4 SFP + 8 PoE 管理 STI-488DGGPM（$147.1 @20%）/ 4×10G 版 STI-488XGGPM（$165.0）；随询盘附 MIB/SNMP 资料"
  },
- "email_hook": "（不主动发送）"
+ "email_hook": "Charles, following your request for the MIB files of the 4-SFP + 8-port managed switch: we can send the SNMP MIB package with the datasheet of our Marvell-based DIN-rail 4-SFP + 8-GE (PoE option) managed model, available from single units, FCC/CE/RoHS — which NMS are you integrating it with?",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「4光8管理MIB资料 / from: Shopify」；Elsa 箱：`to:softwareeffect.com` 逐户查 0（2026-10-24 第 73 批(o)，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(g)））",
+   "type": "网络支持产品小型经销商（美国，已询 MIB 资料）",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+   "lane": "US 主攻（四主）",
+   "cadence": "首封后看打开",
+   "evidence": "gmail_digest：out 0；用户表：「4光8管理MIB资料 / from: Shopify」；研究档 risks：小型经销/技术站：量小；询盘为技术资料（MIB），需随附 SNMP 资料"
+  },
+  "situation": "美国 Software Effect Enterprises, Inc（网络支持专用产品小型经销/技术站：Cisco/Juniper 交换机操作文章；Shopify 询盘「4 光 8 电管理型交换机 MIB 资料」；KP Charles H. Deling（charles@））；表内无跟进记录。",
+  "need": "询 4 SFP + 8 GE 管理型 MIB → 工业 4 SFP + 8 PoE 管理 STI-488DGGPM（$147.1 @20%）/ 4×10G 版 STI-488XGGPM（$165.0）；随询盘附 MIB/SNMP 资料",
+  "breakpoint": "小型经销/技术站：量小；询盘为技术资料（MIB），需随附 SNMP 资料",
+  "saga_now": {
+   "p1": "STI-488DGGPM",
+   "tier": 20,
+   "price": "首触锚价 STI-488DGGPM $147.1 EXW（20% 档，低于 PDF 上限 $148.5；第 75 批改）（2026-06 PDF 上限 $148.5（档位 147.1–159.3）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
+   "why": "询 4 SFP + 8 GE 管理型 MIB → 工业 4 SFP + 8 PoE 管理 STI-488DGGPM（$147.1 @20%）/ 4×10G 版 STI-488XGGPM（$165.0）；随询盘附 MIB/SNMP 资料",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "待 Simon 排期（首封）",
+   "channel": "A 邮箱 → charles@softwareeffect.com（Charles H. Deling）",
+   "action": "首封：按 email_hook 一问（第 75 批(b) 2026-10-25：英文信稿已写 `draft_en`；MIB 包是技术资料，发前从 SmartByte 取 SNMP MIB 文件；锚价改 $147.1（20% 档，低于 PDF 上限 $148.5，合规））（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
+   "one_question": "Charles, following your request for the MIB files of the 4-SFP + 8-port managed switch: we can send the SNMP MIB package with the datasheet of our Marvell-based DIN-rail 4-SFP + 8-GE (PoE option) managed model, available from single units, FCC/CE/RoHS — which NMS are you integrating it with? Reference: STI-488DGGPM at $148.5 USD EXW (MOQ 1, 15-day validity)."
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "4光8管理MIB资料 / from: Shopify",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": {
+   "subject": "MIB files for the 4-SFP + 8-port managed switch you asked about",
+   "body": "Hi Charles,\n\nYou asked on our site for the MIB files of the 4-SFP + 8-port managed switch and did not get a proper answer from us - apologies, here it is.\n\nThe unit is a DIN-rail industrial L2+ managed switch, 8 x Gigabit RJ45 (PoE+ on the PoE version) + 4 x SFP (1G/2.5G), Marvell-based, SNMP, -40 to 75 C, FCC/CE/RoHS - model STI-488DGGPM (PoE) at $147.1 USD EXW, or STI-480DGGM (non-PoE) at $132.0 USD EXW (MOQ 1, 15-day validity). I can get you the SNMP MIB package together with the datasheet.\n\nOne question: which NMS are you integrating it with - so I send the matching MIB set and the OID notes?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+  },
+  "as_of": "2026-10-24"
+ }
 }

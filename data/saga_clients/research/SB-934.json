@@ -1,128 +1,157 @@
 {
-  "code": "SB-934",
-  "name_official": "ALIDEX（西班牙站 alidex.es；总部意大利 = SB-391）",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（alidex.es，快照 2026-10-21，西语）",
-  "summary": "ALIDEX 西班牙站（与 SB-391 alidex.it 同一公司），工业网络 / IoT / OT 安全分销（ORing 为主）；表内「很多 ORing 的，很多牌子的分销商」；群发 1 次。联系与报价统一在 SB-391 处理。",
-  "type": "",
-  "size": "",
-  "brands_seen": [
-    "ORing"
-  ],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "工业网络、IoT、OT 安全（西语站）；ORing",
-      "quote": "ALIDEX - Networking Industrial. Switches y Routers Industriales, Conversores Ópticos, Conectividad Serie, Network TAPs… brands ORing",
-      "url": "https://alidex.es/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "很多 Oring 的；很多牌子的 分销商",
-      "quote": "兴趣：很多Oring的;很多牌子的 分销商",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "（未具名）",
-      "title": "",
-      "email": "info@alidex.es",
-      "phone": "",
-      "source": "（本地 Clients/ 表格，无公开 URL）"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（官网快照核对 + 表内）"
+ "code": "SB-934",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（alibisecurity.com，快照 2026-10-21）",
+ "summary": "Alibi Security（安防品牌：摄像机、门禁、VMS，Alibi Partner Program；品牌页含 D-Link / TP-Link PoE 交换机（DGS-1210-10P/28P、TL-SG1428PE）、Vigitron 注入器；表内「主要是 CCTV，有不同品牌的 FS，PoE injector，有 Vigitron 的」；KP Billy Grumbles（billy.grumbles@）；表内国别「以色列」存疑——站点英文/美国品牌生态，待核）；群发 8 次无回复。",
+ "type": "安防品牌/分销（Alibi 自有品牌 + D-Link/TP-Link 交换机）",
+ "size": "",
+ "brands_seen": [
+  "TP-Link",
+  "D-Link",
+  "Axis",
+  "Vigitron"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Alibi Security - Professional Security Technology；品类词 安防监控（CCTV / 门禁） / 无线 / WiFi / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "Alibi Security - Professional Security Technology",
+   "url": "https://www.alibisecurity.com/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "legal_name": "ALIDEX S.r.l.（西班牙分支）",
-    "founded": "",
-    "hq": "Spain（分支）",
-    "size": "分支",
-    "other": "主档案 SB-391"
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "主要是CCTV 有一些不同品牌的FS POE injector 有Vigitron的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "工业网络分销（西班牙）"
-  ],
-  "channels": {
-    "role": "工业分销商分支",
-    "region": "西班牙"
+  {
+   "kind": "官网快照",
+   "claim": "Alibi Security 专业安防技术",
+   "quote": "Alibi Security - Professional Security Technology ; SECURITY SOLUTIONS ; VIEW ALL BRANDS ; ALIBI PARTNER PROGRAM",
+   "url": "https://www.alibisecurity.com/",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "同一公司两国站点 → 一次谈判覆盖两国"
-  ],
-  "risks": [
-    "仅 info@"
-  ],
-  "saga_fit": {
-    "p1": "STI-288GPM",
-    "tier": 20,
-    "why": "同 SB-391：STI-288GPM（$78.9 @20%）。"
-  },
-  "email_hook": "（与 SB-391 合并跟进，勿重复发送）",
-  "mail_review": {
-    "binding": {
-      "level": "未触达（A 邮箱 11 封 2025→2026，无记录打开，0 回；收件 info@alidex.es；主题多为「Booster PoE Switch、Optional Marvell Chipset Solutions」）；Elsa 群发 BCC 已触达 2025-03-29「Marvell Alleycat5 Solution」（稿内无价，第 74 批(p) 已读稿），ES 批次 To info@garmasl.com，0 回（第 74 批 Bcc 头核对 msg 195e12122be75883）",
-      "type": "—",
-      "sieve": "1（只收到群发）",
-      "stop": "只打通用邮箱，无记录打开",
-      "revive": "保持季度群发到 2027-Q1；无打开即停",
-      "lane": "西班牙（欧洲全域主攻）",
-      "cadence": "季度",
-      "evidence": "gmail_digest：out 11；用户表：「兴趣：很多Oring的;很多牌子的 分销商」；研究档 risks：仅 info@；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To info@garmasl.com）本户见于 2025-03-29 名单；2026-09-02 最新一轮名单已不含此地址 → 中途被剔除（退信 / 退订 / 手工）"
-    },
-    "situation": "ALIDEX 西班牙站（与 SB-391 alidex.it 同一公司），工业网络 / IoT / OT 安全分销（ORing 为主）；表内「很多 ORing 的，很多牌子的分销商」；群发 1 次。联系与报价统一在 SB-391 处理。",
-    "need": "同 SB-391：STI-288GPM（$78.9 @20%）。",
-    "breakpoint": "仅 info@",
-    "saga_now": {
-      "p1": "STI-288GPM",
-      "tier": 20,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-27 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170",
-      "why": "同 SB-391：STI-288GPM（$78.9 @20%）。",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "群发节奏",
-      "channel": "A 邮箱",
-      "action": "观察打开",
-      "one_question": ""
-    },
-    "facts": [
-      {
-        "date": "2025-03-29",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To info@garmasl.com，ES 批次）",
-        "quote": "Marvell Alleycat5 Solution — We are doing Marvell Alleycat5 chip for tailored networking solutions. 1, Support Web GUI change(Logo, model name, MAC, SN, SNMP, OID) 2, Added intere",
-        "why": "Elsa 箱群发 BCC 触达证据（命中地址 alidex.es, info@alidex.es）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-        "k": "elsa_bcc"
-      },
-      {
-        "date": "2026-09-30",
-        "dir": "去",
-        "who": "A 群发",
-        "quote": "Booster PoE Switch、Optional Marvell Chipset Solutions",
-        "why": "11 封 / 0 次打开 / 0 回｜首封 2025-11-06 → 末封 2026-09-30（11 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "兴趣：很多Oring的;很多牌子的 分销商",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-25"
+  {
+   "kind": "用户表",
+   "claim": "主要 CCTV，不同品牌 FS，Vigitron 注入器",
+   "quote": "主要是CCTV 有一些不同品牌的FS POE injector 有Vigitron的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Billy Grumbles",
+   "title": "（表内联系人）",
+   "email": "billy.grumbles@alibisecurity.com",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "以色列",
+  "other": "官网 alibisecurity.com，语言 en，快照状态 ok；角色判定来源：用户表"
+ },
+ "business_lines": [
+  "安防品牌（摄像机 / 门禁 / VMS）",
+  "网络产品分销（D-Link / TP-Link / Vigitron）"
+ ],
+ "channels": {
+  "role": "安防品牌/分销（Alibi 自有品牌 + D-Link/TP-Link 交换机）",
+  "region": "以色列",
+  "contact": "billy.grumbles@alibisecurity.com"
+ },
+ "signals": [
+  "页面 /brands/d-link/poe-switches、/switch-gigabit-poe-8-port-dgs-1210-10p、/switch-gigabit-poe-24-port-dgs-1210-28p；站内 TL-SG1428PE / TL-SG1210P / SG2428P",
+  "首页：ALIBI PARTNER PROGRAM / VIEW ALL BRANDS；kw access control 54 / camera 76",
+  "KP：Billy Grumbles（表内邮箱）"
+ ],
+ "risks": [
+  "国别待核：表内「以色列」，站点为英文美国品牌生态（待证）",
+  "现卖 D-Link / TP-Link 品牌货：白牌需以贴标与价差切入；8 次无回复"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 30,
+  "why": "自有 Alibi 品牌可贴 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）对位 D-Link DGS-1210-10P；24 口位 STC-424DGGPM-280W 对位 DGS-1210-28P / TL-SG1428PE"
+ },
+ "email_hook": "Billy, next to the D-Link and TP-Link PoE switches in your partner catalogue, we can supply Alibi-branded Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ models from small lots, FCC/CE/RoHS — which size do your partners order most, so we quote its equivalent first?",
+ "products_seen": [
+  {
+   "brand": "D-Link",
+   "model": "DGS-1210-10P",
+   "spec": "8 PoE + 2 SFP 智能管理",
+   "saga": "STC-28DGGPM",
+   "url": "https://www.alibisecurity.com/switch-gigabit-poe-8-port-dgs-1210-10p",
+   "date": "2026-10-21"
+  },
+  {
+   "brand": "TP-Link",
+   "model": "TL-SG1428PE",
+   "spec": "24 PoE + 4 上联",
+   "saga": "STC-424DGGPM-280W",
+   "url": "https://www.alibisecurity.com/",
+   "date": "2026-10-21"
+  }
+ ],
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 11 封 2025→2026，无记录打开，0 回；收件 billy.grumbles@alibisecurity.com；主题多为「16 Port Ethernet Switch、Managed Optical Bypass Switch」；Elsa 箱：`to:alibisecurity.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 11 / 来 0）（第 74 批(n)））",
+   "type": "安防品牌/分销（Alibi 自有品牌 + D-Link/TP-Link 交换机）",
+   "sieve": "1（只收到群发）",
+   "stop": "11 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "以色列 非主攻",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 11；用户表：「主要是CCTV 有一些不同品牌的FS POE injector 有Vigitron的」；研究档 risks：国别待核：表内「以色列」，站点为英文美国品牌生态（待证）"
+  },
+  "situation": "Alibi Security（安防品牌：摄像机、门禁、VMS，Alibi Partner Program；品牌页含 D-Link / TP-Link PoE 交换机（DGS-1210-10P/28P、TL-SG1428PE）、Vigitron 注入器；表内「主要是 CCTV，有不同品牌的 FS，PoE injector，有 Vigitron 的」；KP Billy Grumbles（billy.grumbles@）；表内国别「以色列」存疑——站点英文/美国品牌生态，待核）；群发 8 次无回复。",
+  "need": "自有 Alibi 品牌可贴 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）对位 D-Link DGS-1210-10P；24 口位 STC-424DGGPM-280W 对位 DGS-1210-28P / TL-SG1428PE",
+  "breakpoint": "国别待核：表内「以色列」，站点为英文美国品牌生态（待证）",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 30,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-06-24 $300（48 Port PoE Managed Switch）、2025-09-29 $280（10G Enterprise SFP Switch）",
+   "why": "自有 Alibi 品牌可贴 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）对位 D-Link DGS-1210-10P；24 口位 STC-424DGGPM-280W 对位 DGS-1210-28P / TL-SG1428PE",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Billy, next to the D-Link and TP-Link PoE switches in your partner catalogue, we can supply Alibi-branded Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ models from small lots, FCC/CE/RoHS — which size do your partners order most, so we quote its equivalent first?"
+  },
+  "facts": [
+   {
+    "date": "2026-02-02",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "16 Port Ethernet Switch、Managed Optical Bypass Switch",
+    "why": "11 封 / 0 次打开 / 0 回｜首封 2025-01-27 → 末封 2026-02-02（11 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "主要是CCTV 有一些不同品牌的FS POE injector 有Vigitron的",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

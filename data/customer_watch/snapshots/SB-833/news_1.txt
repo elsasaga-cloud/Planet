@@ -1,0 +1,240 @@
+# SB-833 comtime-com.de · news_1 · https://comtime-com.de/news/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+Neues zu comtime IIoT Produkten und Lösungen | comtime
+Zum Inhalt springen
+Home
+Produkte
+Mobilfunk-Router
+Übersicht
+CT-Router NG 5G
+CT-Router NG LTE CAT6
+CT-Router LTE 450
+CT-Router LTE CAT4
+CT-Router LTE CAT1
+LAN-WAN Router
+Übersicht
+CT-Router LAN 5-Port
+CT-Router NG LAN
+CT-Router NG2 LAN
+CT-Router NG2 SFP
+DSL-Router
+Übersicht
+CT-Router VDSL
+CT-Router VDSL ECO
+Modems
+Übersicht
+CT-Modem VDSL
+Antennen
+OpenVPN Connectivity Server
+Device Management WebCenter
+OEM-Produkte & Produktentwicklung
+Produktabkündigungen
+Anwendungen
+Übersicht
+5G-Campus-Netze
+2G-Abschaltung 2028
+VPN-Server im eigenen Unternehmensnetzwerk
+VPN-Verbindung zu einem Applikations-Server
+VPN-Server gehostet
+RS232 – Modem-Ersatz
+Alarmmeldungen per SMS oder E-Mail
+Verbindungsaufbau via SMS
+Verbindungsaufbau via Telefonanruf
+Verbindungsaufbau via Schalteingang
+Support
+Security
+Unternehmen
+Über uns
+Partner
+Kontakt
+News
+Website-Suche umschalten
+Menü
+Schließen
+Diese Website durchsuchen
+Home
+Produkte
+Mobilfunk-Router
+Übersicht
+CT-Router NG 5G
+CT-Router NG LTE CAT6
+CT-Router LTE 450
+CT-Router LTE CAT4
+CT-Router LTE CAT1
+LAN-WAN Router
+Übersicht
+CT-Router LAN 5-Port
+CT-Router NG LAN
+CT-Router NG2 LAN
+CT-Router NG2 SFP
+DSL-Router
+Übersicht
+CT-Router VDSL
+CT-Router VDSL ECO
+Modems
+Übersicht
+CT-Modem VDSL
+Antennen
+OpenVPN Connectivity Server
+Device Management WebCenter
+OEM-Produkte & Produktentwicklung
+Produktabkündigungen
+Anwendungen
+Übersicht
+5G-Campus-Netze
+2G-Abschaltung 2028
+VPN-Server im eigenen Unternehmensnetzwerk
+VPN-Verbindung zu einem Applikations-Server
+VPN-Server gehostet
+RS232 – Modem-Ersatz
+Alarmmeldungen per SMS oder E-Mail
+Verbindungsaufbau via SMS
+Verbindungsaufbau via Telefonanruf
+Verbindungsaufbau via Schalteingang
+Support
+Security
+Unternehmen
+Über uns
+Partner
+Kontakt
+News
+NEWS: 09.2025
+comtime präsentiert neue Produkte auf dem «450connect Stadtwerke-Tag 2025»
+NEWS: 07.2024
+CT-Router NG2 SFP: mit WAN - Schnittstelle für Glasfaser- oder Ethernet-SFP-Modul
+CT-Router NG2 LAN
+Mit dem CT-Router NG2 LAN steht ab sofort ein weiterer LAN WAN Router der NG Familie zu Verfügung.
+Wie schon der CT-Router NG LAN kommt der CT-Router NG2 LAN zum einen in einem neuen sehr robusten Metallgehäuse, zum anderen mit einem neuen leistungsfähigen Prozessor, mehr Speicher sowie Gigabit Ethernet Schnittstellen.
+Die hohe Performance ermöglicht neben dem Einsatz als VPN-Client, auch den Einsatz als preiswerten VPN-Server mit bis zu 200 gleichzeitigen OpenVPN-Verbindungen .
+Wie gewohnt, basieren auch alle NG-Router auf der robusten und bewährten comtime Firmware. Wer bisher comtime Router eingesetzt hat, muss sich nicht umstellen und kann mit dem gewohnten Webinterface weiterarbeiten. Konfigurationen können auch in die neue NG-Serie problemlos eingespielt werden. Der CT-Router NG2 LAN ist ab E/Juli 2024 verfügbar.
+Hier im Überblick die wesentlichen Neuerungen der NG-Serie:
+1,2GHz Prozessor mit 4GByte Flash
+Gigabit Ethernet-Schnittstellen
+Hohe Bandbreiten auch auf der WAN-Schnittstelle.
+Nutzung als OpenVPN-Server mit bis zu 200 OpenVPN-Verbindungen.
+Robustes Stahlgehäuse
+Haben Sie Fragen und benötigen eine Beratung? Möchten Sie Router vorreservieren?
+Kontaktieren Sie uns online, per E-Mail oder Sie rufen einfach an.
+Mehr zum Produkt
+Kontakt
+NEWS: 06.2024
+CT-Router NG2 LAN: Neuer LAN WAN Industrie-Router
+CT-Router NG2 LAN
+Mit dem CT-Router NG2 LAN steht ab sofort ein weiterer LAN WAN Router der NG Familie zu Verfügung.
+Wie schon der CT-Router NG LAN kommt der CT-Router NG2 LAN zum einen in einem neuen sehr robusten Metallgehäuse, zum anderen mit einem neuen leistungsfähigen Prozessor, mehr Speicher sowie Gigabit Ethernet Schnittstellen.
+Die hohe Performance ermöglicht neben dem Einsatz als VPN-Client, auch den Einsatz als preiswerten VPN-Server mit bis zu 200 gleichzeitigen OpenVPN-Verbindungen .
+Wie gewohnt, basieren auch alle NG-Router auf der robusten und bewährten comtime Firmware. Wer bisher comtime Router eingesetzt hat, muss sich nicht umstellen und kann mit dem gewohnten Webinterface weiterarbeiten. Konfigurationen können auch in die neue NG-Serie problemlos eingespielt werden. Der CT-Router NG2 LAN ist ab E/Juli 2024 verfügbar.
+Hier im Überblick die wesentlichen Neuerungen der NG-Serie:
+1,2GHz Prozessor mit 4GByte Flash
+Gigabit Ethernet-Schnittstellen
+Hohe Bandbreiten auch auf der WAN-Schnittstelle.
+Nutzung als OpenVPN-Server mit bis zu 200 OpenVPN-Verbindungen.
+Robustes Stahlgehäuse
+Haben Sie Fragen und benötigen eine Beratung? Möchten Sie Router vorreservieren?
+Kontaktieren Sie uns online, per E-Mail oder Sie rufen einfach an.
+Mehr zum Produkt
+Kontakt
+NEWS: 03.2024
+CT-Router LTE: Neuer LTE 450 MHz Industrie-Router
+CT-Router LTE 450
+Der CT-Router LTE 450 unterstützt neben dem öffentlichem LTE-Mobilfunknetz jetzt auch die Kommunikation im LTE 450 MHz Netz.
+Die Nutzung des 450MHz Frequezbandes ermöglicht Ihnen eine hervorragende Flächen- und Gebäudeversorgung.
+Netzanbieter wie 450connect (Deutschland) und ArgoNet (Österreich) stellen Ihnen das 450 MHz Mobilfunknetz gebietsweise bereits zur Verfügung.
+Für alle, die planen erst in Zukunft die 450 MHz Netze zu nutzen, ist der CT-Router LTE 450 schon jetzt die richtige Wahl. Da der Router auch das Standard LTE Netz unterstützt, kann zu einem späteren Zeitpunkt auf das 450 MHz Netz umgeschwenkt werden.
+Selbstverständlich kommt auch der CT-Router LTE 450 mit dem gewohnten Webinterface zur Konfiguration. Sollten Sie bereits im Besitz eines Comtime Routers sein, so können die Konfigurationen dieser Router kopiert und in den CT-Router LTE 450 eingespielt werden.
+Hier im Überblick die wesentlichen Neuerungen des CT-Routers LTE 450:
+unterstützt LTE Cat1 und 450MHz Bänder
+2 SIM-Karten-Slots für den alternativen Betrieb im öffentlichen Mobilfunknetz oder im 450 MHz Netz.
+Haben Sie Fragen und benötigen eine Beratung? Möchten Sie Router testen oder vorreservieren?
+Kontaktieren Sie uns online, per E-Mail oder Sie rufen einfach an.
+Mehr zum Produkt
+Kontakt
+NEWS: 21.10.2022
+CT-Router NG-Serie: Neuer 5G Industrie-Router
+CT-Router NG 5G
+Mit dem CT-Router NG 5G ebnet die comtime GmbH den Weg für hohe Datenraten von Industrie-Routern über öffentliche und private 5G-Netze.
+Der CT-Router NG 5G unterstützt sowohl 5G standalone (SA) als auch 5G non-standalone (NSA). Diese Kompatibilität ist sehr vorteilhaft, da noch nicht alle Mobilfunknetze auf 5G SA ausgebaut sind. Für eine hohe Verfügbarkeit im Mobilfunknetz unterstützt der 5G Industrie-Router auch ein automatisches Fallback auf ein LTE-Netz.
+Wie schon der CT-Router NG LTE und der CT-Router NG LAN , basiert der Industrie-Router auf der neuen robusten NG Plattform. Diese zeichnet sich durch eine hohe Performance und Robustheit für den anspruchsvollen industriellen Einsatz aus.
+Hier im Überblick die wesentlichen Neuerungen der NG-Serie:
+1,2GHz Prozessor mit 4GByte Flash
+Gigabit Ethernet-Schnittstellen
+Hohe Bandbreiten auch auf der WAN-Schnittstelle.
+SIM-Karte im Nano-SIM-Format
+Robustes Stahlgehäuse
+Haben Sie Fragen und benötigen eine Beratung? Möchten Sie Router testen oder vorreservieren?
+Kontaktieren Sie uns online, per E-Mail oder Sie rufen einfach an.
+Mehr zum Produkt
+Kontakt
+NEWS: 06.09.2022
+CT-Router NG-Serie: Neuer LAN WAN Industrie-Router
+CT-Router NG LAN
+Mit dem CT-Router NG LAN steht ab sofort ein weiterer LAN WAN Router der NG Familie zu Verfügung.
+Wie schon der CT-Router NG LTE kommt der CT-Router NG LAN zum einen in einem neuen sehr robusten Metallgehäuse, zum anderen mit einem neuen leistungsfähigen Prozessor, mehr Speicher sowie Gigabit Ethernet Schnittstellen.
+Die hohe Performance ermöglicht neben dem Einsatz als VPN-Client, auch den Einsatz als preiswerten VPN-Server mit bis zu 200 gleichzeitigen OpenVPN-Verbindungen .
+Wie gewohnt, basieren auch alle NG-Router auf der robusten und bewährten comtime Firmware. Wer bisher comtime Router eingesetzt hat, muss sich nicht umstellen und kann mit dem gewohnten Webinterface weiterarbeiten. Konfigurationen können auch in die neue NG-Serie problemlos eingespielt werden. Der CT-Router NG LAN ist ab sofort verfügbar.
+Hier im Überblick die wesentlichen Neuerungen der NG-Serie:
+1,2GHz Prozessor mit 4GByte Flash
+Gigabit Ethernet-Schnittstellen
+Hohe Bandbreiten auch auf der WAN-Schnittstelle.
+Nutzung als OpenVPN-Server mit bis zu 200 OpenVPN-Verbindungen.
+Robustes Stahlgehäuse
+Haben Sie Fragen und benötigen eine Beratung? Möchten Sie Router vorreservieren?
+Kontaktieren Sie uns online, per E-Mail oder Sie rufen einfach an.
+Mehr zum Produkt
+Kontakt
+NEWS: 02.03.2022
+CT-Router NG-Serie: Neuer LTE CAT6 Industrie-Router
+CT-Router NG LTE
+Mit dem CT-Router NG LTE startet die comtime GmbH eine neue Industrie-Router-Serie.
+Die neue NG-Serie kommt zum einen in einem neuen sehr robusten Metallgehäuse, zum anderen mit einem neuen leistungsfähigen Prozessor und mehr Speicher.
+Zusätzlich sind die Ethernet-Schnittstellen jetzt als 1 GBit-Schnittstellen ausgelegt und ermöglichen einen hohen Datendurchsatz.
+Die hohe Performance ermöglicht auch eine höhere Bandbreite bei der Übertragung von Daten im Mobilfunknetz.
+Der CT-Router NG LTE ist mit einem LTE CAT6 Modul bestückt und ermöglicht somit einen Datendurchsatz von bis zu 300 MBit im Download und 50 MBit im Upload. Der CT-Router NG LTE ist ab sofort verfügbar.
+Auf Basis der neuen Plattform ist auch der CT-Router NG 5G in Arbeit. Kunden, die bereits Tests im 5G Netz durchführen möchten, können die ersten Geräte bestellen bzw. vorreservieren.
+Auch der CT-Router NG LAN – ein LAN/WAN Router auf der NG-Plattform – ist auf Anfrage bereits erhältlich. Der CT-Router NG LAN kann für Anwendungen mit der Anforderung an höhere Bandbreite eingesetzt werden.
+Alle NG-Router basieren auf der robusten und bewährten comtime Firmware. Wer bisher comtime Router eingesetzt hat, muss sich nicht umstellen und kann mit dem gewohnten Webinterface weiter arbeiten. Konfigurationen der bisherigen comtime Router können auch in die neue NG-Serie problemlos eingespielt werden.
+Hier im Überblick die wesentlichen Neuerungen der NG-Serie:
+1,2GHz Prozessor mit 4GByte Flash
+Gigabit Ethernet-Schnittstellen
+Hohe Bandbreiten auch auf der WAN-Schnittstelle.
+Vorbereitet für die Kommunikation im 5G Netz
+SIM-Karte im Nano-SIM-Format
+Robustes Stahlgehäuse
+Haben Sie Fragen und benötigen eine Beratung? Möchten Sie Router vorreservieren?
+Kontaktieren Sie uns online, per E-Mail oder Sie rufen einfach an.
+Mehr zum Produkt
+Kontakt
+Deine Anmeldung konnte nicht gespeichert werden. Bitte versuche es erneut.
+Deine Anmeldung war erfolgreich.
+Newsletter
+Melden Sie sich zu unserem Newsletter an, um auf dem Laufenden zu bleiben.
+Vorname
+Nachname
+Firma
+E-Mail Adresse
+Ich möchte deinen Newsletter erhalten und akzeptiere die Datenschutzerklärung.
+Sie können den Newsletter jederzeit über den Link in unserem Newsletter abbestellen.
+ANMELDEN
+Wir verwenden Brevo als unsere Marketing-Plattform. Indem du das Formular absendest, erklärst du dich einverstanden, dass die von dir angegebenen persönlichen Informationen an Brevo zur Bearbeitung übertragen werden gemäß den Datenschutzrichtlinien von Brevo.
+Rechtliches
+Impressum
+Datenschutz
+Altgeräte
+AGB
+Produkte
+Mobilfunk-Router
+LAN/WAN-Router
+DSL-Router
+Firmware-Updates
+Kontakt
+Kontaktformular
+Angebotsanfrage
+Anschrift
+Gutenbergring 67b
+22848 Norderstedt
++49 40 55448940
+info@comtime-com.de
+Cookie-Zustimmung verwalten
+Um dir ein optimales Erlebnis zu bieten, verwenden wir Technologien wie Cookies, um Geräteinformationen zu speichern und/oder darauf zuzugreifen. Wenn du diesen Technologien zustimmst, können wir Daten wie das Surfverhalten oder eindeutige IDs auf dieser Website verarbeiten. Wenn du deine Zustimmung nicht erteilst oder zurückziehst, können bestimmte Merkmale und Funktionen beeinträchtigt werden.
+Funktional
+Immer aktiv
+Die technische Speicherung oder der Zugang ist unbedingt erforderlich für den rechtmäßigen Zweck, die Nutzung eines bestimmten Dienstes zu ermöglichen, der vom Teilnehmer oder Nutzer ausdrücklich gewünscht wird, oder für den alleinigen Zweck, die Übertragu

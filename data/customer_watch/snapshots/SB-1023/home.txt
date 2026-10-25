@@ -1,47 +1,615 @@
-# SB-1023 daejinnetworks.com · home · https://www.daejinnetworks.com/ · fetched 2026-10-25T07:41:18Z · HTTP 200
-대진네트웍스, Vision AI, Optical, NVIDIA Jetson, TAP Switch, VPN Router
-top of page
-HOME
-회사소개
-회사개요
-회사연혁
-찾아오시는 길
-제품안내
-Ethernert switch
-SILICON
-FTTH
-AI
-Optical
-Other products
-고객센터
-공지사항
-자료실
-고객문의
-그룹
-공유 갤러리
-Disruptive & Reliable Network Solution Provider
-TELCO class의 품질, 가격 경쟁력 있는 Total Solution과 Service를 제공으로 고객 만족을 실현하는 파트너가 되겠습니다.
-DAEJIN NETWORKS
-2021년 3월 회사 설립
-Centec (network switch solutions), Hisilicon (Optic transceivers), AI 등 global 시장에서 검증된, global top-tier 네트워크 솔루션 공급 서비스 제공
-Market proven SDN solution & 개발 서비스 제공
-대진반도체와의 협업통한 부품 턴키 공급 서비스
-네트워크 산업에서 수십년 이상의 풍부한 경험을 보유한 멤버들로 구성
-Product
-Ethernet switches
-Silcon
-FTTH
-AI
-Optical
-Other products
-자료실
-바로가기
-고객문의
-바로가기
-대진네트웍스
-설립일 : 2021년 1월 18일 I 본사 : (우)08511 서울특별시 금천구 벚꽃로 278, 1207호 (가산동, SJ테크노빌)
-TEL 1588-9809(대표) / 02-3397-3610
-FAX 02-3397-3600
-© Copyright 저작권 보호 대상입니다.
-Designed by Wixweb
-bottom of page
+# SB-1023 dipol.pt · home · https://www.dipol.pt/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+IP CCTV, LAN, WLAN, TV, SAT TV, Antenas, Cabos - DIPOL
+Esse website utiliza cookies
+Usamos cookies , o que torna nossa loja fiável e adaptada a si. Os cookies permitem que combine o conteúdo e a promoção com seus interesses.
+Se não concordar, isso não afetará a exibição dos anúncios, mas eles não corresponderão a si.
+Cookies necessários para o funcionamento da nossa loja
+São necessários para o bom funcionamento do nosso site, por isso não pode desistir deles. Utilizamos dados destes cookies para garantir a sua segurança e detectar quaisquer erros no nosso website.
+Cookies que usamos para identificar suas necessidades
+Os dados analíticos que recolhemos nestes cookies permitem-nos conhecer o seu comportamento e preferências. Escrevemos, por exemplo, com que frequência visita nosso site e por quanto tempo navega nele. Sabemos o que mudar no nosso site para que funcione ainda melhor e que produtos introduzir na nossa oferta.
+Cookies que usamos para personalizar anúncios
+Verificamos o que está a ver e compra no nosso site para melhor adaptar seus anúncios a si. Graças a isso, verá apenas os anúncios que podem ser úteis e interessantes para si.
+Cookies que usamos para melhorar a loja
+Quando soubermos qual conteúdo está a ver no nosso site e o que deseja comprar, podemos adaptar nosso site para si. Graças a isso poderemos escolher melhor o conteúdo que vê.
+Configurações
+Enviar
+Rejeitar todos
+Aceitar todos
+Facebook
+Youtube
+office@dipol.pt
++351 253 618 579 (chamada para rede fixa nacional)
+PT
+PL
+EN
+CZ
+DE
+IE
+HU
+RO
+SK
+ES
+Menu
+OFERTA
+Promoções
+atuais
+Novos
+produtos
+Nic nie znaleziono
+0
+OFERTA
+TV/SAT
+Secção de Categorias Novos itens
+Antenas TV FM DAB
+Receptores
+Tomadas TV/FM
+Pratos SAT
+Moduladores
+Componentes Instalação
+LNBs
+Transmissores e conversores de sinal
+Conectores
+Multiswitches
+Soluções HDMI
+Medidores
+Amplificadores
+Headends
+Ferramentas
+Transmissão óptica de TV
+Cabos coaxiais TV-SAT, CCTV
+Secção biblioteca
+Sobre Antenas TV & SAT
+Em Casa
+Sistemas SMATV
+Componentes Instalação
+Desenho
+Medições
+Diagramas
+Alguma Teoria
+DVB-T & DAB
+CPR
+HDMI
+Sistemas Celulares
+Secção de Categorias Novos itens
+Antenas
+Conectores e transições
+Mierniki
+Repetidores GSM, LTE
+Acessórios
+GSM cabos coaxiais
+Cabos, conetores
+Secção biblioteca
+Repetidores GSM
+Antenas & Conectores
+Medidas
+CCTV & IP
+Secção de Categorias Novos itens
+Câmaras
+Cabos
+Ferramentas
+DVRs/NVRs
+Housings & Suportes
+Dispositivos Medição
+Mobile DVRs
+Monitores
+Promoção Hikvision
+AUDIO
+Testadores de CCTV/LAN
+Promoção Dauha
+Software
+Armazenamento Media
+Promoção Sunell
+Fonte de alimentação
+Componentes Instalação
+Kits
+Switches
+Secção biblioteca
+SUNELL
+HIKVISION
+DAHUA
+Medição da temperatura corporal sem contato
+Contagem pessoas
+Básicos
+Selecção Equipamento CCTV
+Suporte Técnico
+Monitorização Instalações
+LAN & WLAN
+Secção de Categorias Novos itens
+Routers
+Adaptad./Placas Rede
+Conectores
+Switches
+STP módulos
+Testadores de CCTV/LAN
+Access points
+Antenas
+Acessórios
+Controladores
+Cabos
+Patchcords
+Secção biblioteca
+Exemplo Soluções
+Alguma Teoria
+Sobre Conectores
+Cablagem
+Omada SDN
+Fibra Óptica
+Secção de Categorias Novos itens
+Máq. Fusão
+Medições
+Transmissão óptica de TV
+Emendas Fibra
+Conversores Media
+Cabos óticos
+Adaptadores
+Conversores Video
+Caixas Distribuição
+Patchcords e Pigtails
+Modulos SFP
+Acessórios Instalação
+Ferramentas
+Secção biblioteca
+Alguma Teoria
+Conectores & Emendas
+Medições
+Sistemas Edifícios
+Transm. Vídeo CCTV
+Distribuição CATV/SMATV
+SMART HOME intercoms video
+Secção de Categorias Novos itens
+Vídeoporteiros IP
+Sinos
+Cabos
+Videoporteiros de 2 fios
+Trincos elétricos e placas de montagem
+Edifícios inteligentes
+VIDEOTELEFONES HÍBRIDOS DE 4 FIOS HD
+Secção biblioteca
+Be Wave
+Sistemas Intercom video
+Casos Estudo
+Sistemas Alarme
+Secção de Categorias Novos itens
+Motherboards
+Dispositivos Sinalização
+Caixas
+Suporte do sistema
+Controladores Radio
+Acessórios
+Módulos
+Automação
+Cabos alarme
+Sensores
+Secção biblioteca
+Alguma Teoria
+Componentes Instalação
+Be Wave
+Casos Estudo
+Controlo acessos
+Secção de Categorias Novos itens
+Controladores
+Terminais
+Acessórios
+Leitores
+Trincos elétricos, fechaduras e ferragens
+Enclausuramentos, Coberturas, Estruturas
+Secção biblioteca
+Visão geral
+Definições
+Componentes Assemblagem
+Secção de Categorias Novos itens
+Mastros tubulares
+Braços Mastros
+Caixas
+Mastros treliçados
+Suportes Antena/Pratos
+Encaminhamento cabos
+Estruturas de lastro
+Acessórios de montagem
+Suportes para TV e monitor
+Secção biblioteca
+Instalação e Conectores
+Cablagem
+Bastidores RACK
+Secção de Categorias Novos itens
+Bastidores RACK
+Calhas RACK
+Acessórios
+Secção biblioteca
+Básicos
+RACK board
+Calculador selecção componentes
+Cabos
+Secção de Categorias Novos itens
+Cabos coaxiais TV-SAT, CCTV
+Cabo de par entrançado interior
+Cabos alarme e intercomunicação
+Cabos coaxiais GSM
+Cabos fibra ótica
+Cabos elétricos
+Secção biblioteca
+CPR
+TV-SAT
+CCTV
+LAN
+WLAN
+Fibras Óticas
+Zona de conhecimento
+Newsletter
+BIBLIOTECA
+Tutoriais em vídeo
+Cursos
+INFO
+ÚLTIMAS
+Feiras
+EMPRESA
+REDE VENDAS
+Cursos
+Nic nie znaleziono
+0
+Carrinho
+Registar
+Ajuda
+WG DZIAŁÓW
+WG SYSTEMÓW
+TV/SAT
+Secção de Categorias
+Antenas TV FM DAB
+Receptores
+Tomadas TV/FM
+Pratos SAT
+Moduladores
+Componentes Instalação
+LNBs
+Transmissores e conversores de sinal
+Conectores
+Multiswitches
+Soluções HDMI
+Medidores
+Amplificadores
+Headends
+Ferramentas
+Transmissão óptica de TV
+Cabos coaxiais TV-SAT, CCTV
+Secção biblioteca
+Sobre Antenas TV & SAT
+Em Casa
+Sistemas SMATV
+Componentes Instalação
+Desenho
+Medições
+Diagramas
+Alguma Teoria
+DVB-T & DAB
+CPR
+HDMI
+Sistemas Celulares
+Secção de Categorias
+Antenas
+Conectores e transições
+Mierniki
+Repetidores GSM, LTE
+Acessórios
+GSM cabos coaxiais
+Cabos, conetores
+Secção biblioteca
+Repetidores GSM
+Antenas & Conectores
+Medidas
+CCTV & IP
+Secção de Categorias
+Câmaras
+Cabos
+Ferramentas
+DVRs/NVRs
+Housings & Suportes
+Dispositivos Medição
+Mobile DVRs
+Monitores
+Promoção Hikvision
+AUDIO
+Testadores de CCTV/LAN
+Promoção Dauha
+Software
+Armazenamento Media
+Promoção Sunell
+Fonte de alimentação
+Componentes Instalação
+Kits
+Switches
+Secção biblioteca
+SUNELL
+HIKVISION
+DAHUA
+Medição da temperatura corporal sem contato
+Contagem pessoas
+Básicos
+Selecção Equipamento CCTV
+Suporte Técnico
+Monitorização Instalações
+LAN & WLAN
+Secção de Categorias
+Routers
+Adaptad./Placas Rede
+Conectores
+Switches
+STP módulos
+Testadores de CCTV/LAN
+Access points
+Antenas
+Acessórios
+Controladores
+Cabos
+Patchcords
+Secção biblioteca
+Exemplo Soluções
+Alguma Teoria
+Sobre Conectores
+Cablagem
+Omada SDN
+Fibra Óptica
+Secção de Categorias
+Máq. Fusão
+Medições
+Transmissão óptica de TV
+Emendas Fibra
+Conversores Media
+Cabos óticos
+Adaptadores
+Conversores Video
+Caixas Distribuição
+Patchcords e Pigtails
+Modulos SFP
+Acessórios Instalação
+Ferramentas
+Secção biblioteca
+Alguma Teoria
+Conectores & Emendas
+Medições
+Sistemas Edifícios
+Transm. Vídeo CCTV
+Distribuição CATV/SMATV
+SMART HOME intercoms video
+Secção de Categorias
+Vídeoporteiros IP
+Sinos
+Cabos
+Videoporteiros de 2 fios
+Trincos elétricos e placas de montagem
+Edifícios inteligentes
+VIDEOTELEFONES HÍBRIDOS DE 4 FIOS HD
+Secção biblioteca
+Be Wave
+Sistemas Intercom video
+Casos Estudo
+Sistemas Alarme
+Secção de Categorias
+Motherboards
+Dispositivos Sinalização
+Caixas
+Suporte do sistema
+Controladores Radio
+Acessórios
+Módulos
+Automação
+Cabos alarme
+Sensores
+Secção biblioteca
+Alguma Teoria
+Componentes Instalação
+Be Wave
+Casos Estudo
+Controlo acessos
+Secção de Categorias
+Controladores
+Terminais
+Acessórios
+Leitores
+Trincos elétricos, fechaduras e ferragens
+Enclausuramentos, Coberturas, Estruturas
+Secção biblioteca
+Visão geral
+Definições
+Componentes Assemblagem
+Secção de Categorias
+Mastros tubulares
+Braços Mastros
+Caixas
+Mastros treliçados
+Suportes Antena/Pratos
+Encaminhamento cabos
+Estruturas de lastro
+Acessórios de montagem
+Suportes para TV e monitor
+Secção biblioteca
+Instalação e Conectores
+Cablagem
+Bastidores RACK
+Secção de Categorias
+Bastidores RACK
+Calhas RACK
+Acessórios
+Secção biblioteca
+Básicos
+RACK board
+Calculador selecção componentes
+Cabos
+Secção de Categorias
+Cabos coaxiais TV-SAT, CCTV
+Cabo de par entrançado interior
+Cabos alarme e intercomunicação
+Cabos coaxiais GSM
+Cabos fibra ótica
+Cabos elétricos
+Secção biblioteca
+CPR
+TV-SAT
+CCTV
+LAN
+WLAN
+Fibras Óticas
+KONTAKT
+Detalhes contacto
+FACEBOOK
+YOUTUBE
+Zona de conhecimento
+Newsletter
+BIBLIOTECA
+Tutoriais em vídeo
+Cursos
+EMPRESA
+Info da Empresa
+ÚLTIMAS
+Feiras
+Cursos
+Log in
+Inscrever-se | Sou Empresa Profissional
+Ajuda
+Máquinas de Soldar Signal Fire
+Qual o modelo ideal para si?
+Descobrir mais
+Sinal Pro
+Multiswitches Signal Pro
+nova linha de multiswitches
+Descobrir mais
+Produtos recomendados
+Novos Produtos Novos itens
+Promoção Promoção
+Código: Q471520B
+Ao carrinho
+Visualização
+Suporte com adaptador para poste para câmaras compactas e de teto Dahua PFA152-E-B
+€38.12
+Preço mais baixo anterior: €38.12
+€26.68
+€21.69 s/IVA
+Código: N29816
+Ao carrinho
+Visualização
+Switch PoE Atte IP-5-11-M2 (5xPoE, 1xUplink, 802.3af/at, PASSIVO, 96W, IP56)
+€198.20
+€161.14 s/IVA
+Código: K01570
+Ao carrinho
+Visualização
+Câmara panorâmica IP Hikvision DS-2CD2387G3P-LIS2UY/SL (180°) ColourVu para montagem no teto (8 Mpix, 2,8 mm, 0,0005 lx, iluminação híbrida até 30 m)
+€882.45
+€717.44 s/IVA
+Código: Q0658
+Ao carrinho
+Visualização
+Câmara bullet IP Dahua IPC-HFW2849TL-S-LED-0280B-PRO (8 Mpix, 2,8 mm, 0,0004 lx, luz branca 20 m, WizColor)
+€654.13
+Preço mais baixo anterior: €654.13
+€418.64
+€340.36 s/IVA
+Código: Q1755
+Ao carrinho
+Visualização
+Câmara IP PTZ Dahua SD3D416NB-GNY (4 Mpix, 5–80 mm, zoom ótico de 16x, IV de 80 m, PoE)
+€869.39
+Preço mais baixo anterior: €608.57
+€556.40
+€452.36 s/IVA
+Código: K00919
+Ao carrinho
+Visualização
+Câmara dome IP Hikvision DS-2CD2146G3-IPTRZS2UY (4 MP, 2,8/4 mm, 0,001 lx, IR até 30 m, Áudio, AcuSense 3.0, PTRZ)
+€592.05
+Preço mais baixo anterior: €537.61
+€580.20
+€471.71 s/IVA
+Código: K03938
+Ao carrinho
+Visualização
+Câmara panorâmica tubular IP ColorVu Hikvision DS-2CD2T87G3P-LIS2UY/SL (180°) (8 Mpix, 2,8 mm, 0,0005 lx, iluminação híbrida até 40 m)
+€1096.99
+€891.86 s/IVA
+Código: K17910
+Visualização
+Câmara IP Hikvision DS-2CD1F47G3H-LIUF/SX PT com panorâmica e inclinação (4 Mpix, 2,8 mm, iluminação híbrida até 30 m, seguimento automático, ColorVu, áudio, PoE)
+€476.26
+Preço mais baixo anterior: €441.04
+€471.50
+€383.33 s/IVA
+Código: M89329
+Ao carrinho
+Visualização
+Disco rígido Hikvision DS80HKAI-VX1 de 3,5", 8 TB
+€504.57
+€410.22 s/IVA
+Código: M89322
+Ao carrinho
+Visualização
+Disco rígido Hikvision DS60HKVS-VX1 de 3,5", 6 TB
+€359.37
+€292.17 s/IVA
+Ver todos
+Código: E8748
+Ao carrinho
+Visualização
+Mastro de lastro não invasivo ZB-1100/50+RAM6/415*265
+€148.83
+Preço mais baixo anterior: €148.83
+€142.88
+€116.16 s/IVA
+Código: L5550
+Ao carrinho
+Visualização
+Emenda Mecânica de Fibra Ótica: ULTIMODE FAST-MS1 [5 unid.]
+€9.73
+Preço mais baixo anterior: €9.73
+€9.24
+€7.51 s/IVA
+Código: L58816
+Ao carrinho
+Visualização
+Clivador de fibra ótica, ferramenta multifuncional Signal Fire MC-16
+€217.44
+Preço mais baixo anterior: €173.95
+€163.09
+€132.59 s/IVA
+Código: M18961
+Ao carrinho
+Visualização
+Switch PoE Etrix EW-11 (extensor) (1 x 802.3at WE PoE, 1 x 802.3at WY PoE, 10/100Mbps)
+€13.06
+Preço mais baixo anterior: €13.06
+€12.41
+€10.09 s/IVA
+Código: M18962
+Ao carrinho
+Visualização
+Switch PoE Etrix EW-12 (extensor) (1 x 802.3at WE PoE, 2 x 802.3at WY PoE, 10/100Mbps)
+€15.25
+Preço mais baixo anterior: €15.25
+€14.49
+€11.78 s/IVA
+Código: N299704
+Ao carrinho
+Visualização
+Switch PoE Industrial: ULTIPOWER 192SFP 802.3af/at (8xPoE FE, 2xSFP 1000M, estendido, VLAN, PoE Auto Check, Hi-PoE)
+€295.84
+Preço mais baixo anterior: €295.84
+€281.04
+€228.49 s/IVA
+Código: R81011
+Ao carrinho
+Visualização
+Amplificador de Antena de Mastro: TERRA, AB011T (26 dB, 5V/12VDC)
+€44.58
+Preço mais baixo anterior: €44.58
+€43.23
+€35.15 s/IVA
+Código: R81080
+Ao carrinho
+Visualização
+Amplificador de Antena de Mastro: TERRA MA080T FM-VHF-UHF
+€44.58
+Preço mais baixo anterior: €44.58
+€43.23
+€35.15 s/IVA
+Ver todos
+Na última Revisão Semanal
+Uma câmara que ‘vê’ através do nevoeiro.
+Investigadores da Universidade de Brown desenvolveram u

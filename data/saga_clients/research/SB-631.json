@@ -2,40 +2,41 @@
  "code": "SB-631",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "在线（ablelink.co.th，快照 2026-10-21）",
- "summary": "泰国 ABLELINK（Network & Security Distributor Thailand：面向 SI 与承包商的 IT 网络与安防分销；表内「好几个牌子的产品 Witek、Oring；MC 工业 FS SFP 等」「可以尝试多跟进一下」）；群发 18 次无回复。",
- "type": "网络/安防分销商（泰国，Witek/Oring）",
+ "website_status": "在线（gigaxysafe.com.ng，快照 2026-10-21）",
+ "summary": "尼日利亚 Gigaxysafe Technologies Ltd（网店：网络（Cisco 20、PLANET、Ubiquiti、2.5G 16）、安防、自动化；自建站 RFQ「RUCKUS Cisco Switch」）；表内无跟进记录。",
+ "type": "网络产品网店（尼日利亚，品牌货 RFQ）",
  "size": "",
  "brands_seen": [
-  "Witek",
-  "ORing"
+  "Cisco",
+  "Ubiquiti",
+  "PLANET"
  ],
  "evidence": [
   {
    "kind": "官网快照",
-   "claim": "官网标题：ABLELINK — Network & Security Distributor Thailand；品类词 光纤 / 媒体转换 / 网络交换 / PoE",
-   "quote": "ABLELINK (Thailand) — ตัวแทนจำหน่ายอุปกรณ์ IT Network & Security ครบวงจรสำหรับ System Integrators (SI) และผู้รับเหมาทั่วประเทศ สินค้าแท้ประกันศูนย์ บริการเทคนิคครบวงจร",
-   "url": "https://ablelink.co.th/",
+   "claim": "官网标题：Gigaxysafe；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 数据中心 / 企业 IT / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "Discover quality products with secure checkout and fast delivery.",
+   "url": "https://gigaxysafe.com.ng/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
    "claim": "表内兴趣/备注",
-   "quote": "好几个牌子的产品 Witek Oring MC 工业FS SFP等",
+   "quote": "RUCKUS Cisco Switch / from: 自建站",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   },
   {
    "kind": "官网快照",
-   "claim": "ABLELINK 定位",
-   "quote": "ABLELINK — Network & Security Distributor Thailand ; สำหรับ System Integrators (SI)",
-   "url": "https://ablelink.co.th/",
+   "claim": "Gigaxysafe 网店",
+   "quote": "Gigaxysafe ; Discover quality products with secure checkout and fast delivery.",
+   "url": "https://gigaxysafe.com.ng/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "Witek Oring MC 工业 FS",
-   "quote": "好几个牌子的产品 Witek Oring MC 工业FS SFP等",
+   "claim": "RUCKUS Cisco Switch RFQ",
+   "quote": "RUCKUS Cisco Switch / from: 自建站",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
@@ -49,89 +50,73 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "泰国",
-  "other": "官网 ablelink.co.th，语言 th，快照状态 ok；角色判定来源：表内早期 AI 描述"
+  "hq": "尼日利亚",
+  "other": "官网 gigaxysafe.com.ng，语言 en，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "IT 网络 / 安防分销（泰国）"
+  "网络 / 安防产品网店"
  ],
  "channels": {
-  "role": "网络/安防分销商（泰国，Witek/Oring）",
-  "region": "泰国",
-  "contact": "info@ablelink.co.th"
+  "role": "网络产品网店（尼日利亚，品牌货 RFQ）",
+  "region": "尼日利亚",
+  "contact": "info@gigaxysafe.com.ng"
  },
  "signals": [
-  "官网：ABLELINK — Network & Security Distributor Thailand ; ตัวแทนจำหน่ายอุปกรณ์ IT Network & Security ครบวงจรสำหรับ System Integrators (SI)；页面 /products/sp-pc40-3854/",
-  "表内：好几个牌子的产品 Witek Oring MC 工业 FS SFP 等；可以尝试多跟进一下"
+  "表内：RUCKUS Cisco Switch / from: 自建站",
+  "快照：Discover quality products with secure checkout and fast delivery；kw cisco 20 / gigabit 24 / 2.5g 16 / sfp 14"
  ],
  "risks": [
-  "非主攻区（T5，泰国）；多品牌分销（Oring 价格基准中等、Witek 低）；18 次无回复，仅 info@"
+  "非主攻区（T5，西非）：物流/结算路径待核；RFQ 指定 Ruckus/Cisco",
+  "无具名 KP（info@）；无跟进记录"
  ],
  "saga_fit": {
-  "p1": "STI-280GE",
+  "p1": "STC-424XGGM",
   "tier": 20,
-  "why": "工业 FS（现 Oring/Witek）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、8 PoE + 2 SFP STI-288GPM（$78.9）、工业千兆 MC STI-110GE（$22.4）作白牌预算位"
+  "why": "RFQ 为 Ruckus/Cisco 交换机（品牌货）→ 白牌预算替代位 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）；PoE 位 STC-28DGGPM；预期低"
  },
- "email_hook": "Alongside the ORing and Witek lines you distribute to system integrators, we supply neutral-brand Marvell-based DIN-rail 8-GE/8-PoE + 2 SFP managed switches and gigabit MCs from small lots, CE/RoHS, EXW USD — is there a budget industrial position your SI customers ask for?",
+ "email_hook": "Following your Ruckus / Cisco switch request: where a project allows a non-brand access layer, we supply neutral-brand Marvell-based 24-GE + 4×10G L2+ and 8-PoE + 2 SFP switches from small lots, CE/RoHS, EXW USD — would a budget alternative help on any current quote?",
  "mail_review": {
   "binding": {
-   "level": "未触达（A/S 邮箱 27 封 2024→2026，无记录打开，0 回；收件 info@ablelink.co.th；主题多为「Industrial PoE Switch、24 Port PoE Managed Switch」；Elsa 箱：`to:ablelink.co.th` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 27 / 来 0）（第 74 批(n)））",
-   "type": "网络/安防分销商（泰国，Witek/Oring）",
-   "sieve": "1（只收到群发）",
-   "stop": "只打通用邮箱，无记录打开",
-   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
-   "lane": "泰国 非主攻",
-   "cadence": "一封",
-   "evidence": "gmail_digest：out 27；用户表：「好几个牌子的产品 Witek Oring MC 工业FS SFP等」；研究档 risks：非主攻区（T5，泰国）；多品牌分销（Oring 价格基准中等、Witek 低）；18 次无回复，仅 info@"
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「RUCKUS Cisco Switch / from: 自建站」；Elsa 箱：`to:gigaxysafe.com.ng` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(n)））",
+   "type": "网络产品网店（尼日利亚，品牌货 RFQ）",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "不动（Q-33 供应商渠道客户）",
+   "lane": "尼日利亚 非主攻",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 0；用户表：「RUCKUS Cisco Switch / from: 自建站」；研究档 risks：非主攻区（T5，西非）：物流/结算路径待核；RFQ 指定 Ruckus/Cisco"
   },
-  "situation": "泰国 ABLELINK（Network & Security Distributor Thailand：面向 SI 与承包商的 IT 网络与安防分销；表内「好几个牌子的产品 Witek、Oring；MC 工业 FS SFP 等」「可以尝试多跟进一下」）；群发 18 次无回复。",
-  "need": "工业 FS（现 Oring/Witek）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、8 PoE + 2 SFP STI-288GPM（$78.9）、工业千兆 MC STI-110GE（$22.4）作白牌预算位",
-  "breakpoint": "非主攻区（T5，泰国）；多品牌分销（Oring 价格基准中等、Witek 低）；18 次无回复，仅 info@",
+  "situation": "尼日利亚 Gigaxysafe Technologies Ltd（网店：网络（Cisco 20、PLANET、Ubiquiti、2.5G 16）、安防、自动化；自建站 RFQ「RUCKUS Cisco Switch」）；表内无跟进记录。",
+  "need": "RFQ 为 Ruckus/Cisco 交换机（品牌货）→ 白牌预算替代位 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）；PoE 位 STC-28DGGPM；预期低",
+  "breakpoint": "非主攻区（T5，西非）：物流/结算路径待核；RFQ 指定 Ruckus/Cisco",
   "saga_now": {
-   "p1": "STI-280GE",
+   "p1": "STC-424XGGM",
    "tier": 20,
-   "price": "换人再触锚价 STI-280GE $46 EXW（Saga 2025 Realtek 工业线对外价 $46（非管理工业线不用档位价 ㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-14 $65（10G media converter）、2024-09-09 $300（48 port switch）、2024-12-17 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-07-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-15 $280（10G Enterprise SFP Switch）、2026-06-26 $16000（32 Port 400GB DC Switch）",
-   "why": "工业 FS（现 Oring/Witek）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、8 PoE + 2 SFP STI-288GPM（$78.9）、工业千兆 MC STI-110GE（$22.4）作白牌预算位",
+   "price": "按主表（研究档 saga_fit）",
+   "why": "RFQ 为 Ruckus/Cisco 交换机（品牌货）→ 白牌预算替代位 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）；PoE 位 STC-28DGGPM；预期低",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "2027-Q1（换人后）",
-   "channel": "A 邮箱 → 具名 KP",
-   "action": "换收件人再发一封（第 75 批(ai) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
-   "one_question": "Alongside the ORing and Witek lines you distribute to system integrators, we supply neutral-brand Marvell-based DIN-rail 8-GE/8-PoE + 2 SFP managed switches and gigabit MCs from small lots, CE/RoHS, EXW USD — is there a budget industrial position your SI customers ask for? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity)."
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
   },
   "facts": [
-   {
-    "date": "2026-09-28",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "Industrial PoE Switch、24 Port PoE Managed Switch",
-    "why": "27 封 / 0 次打开 / 0 回｜首封 2024-06-25 → 末封 2026-09-28（27 去 / 0 来）",
-    "k": "gmail_digest"
-   },
    {
     "date": "2026-10-21",
     "dir": "用户表",
     "who": "Simon",
-    "quote": "好几个牌子的产品 Witek Oring MC 工业FS SFP等",
+    "quote": "RUCKUS Cisco Switch / from: 自建站",
     "why": "表内备注",
     "k": "用户表"
-   },
-   {
-    "date": "2026-09-28",
-    "dir": "去",
-    "who": "A 箱（Alan）",
-    "quote": "Managed PoE Switches",
-    "why": "本日去信真实主题（邮箱索引 f122b36e6b4b44ea；信稿开头句引用此封；此前稿内写的「Industrial PoE Switch」是线程列表首题，不是本封）",
-    "k": "f122b36e6b4b44ea"
    }
   ],
-  "proof_gaps": [],
-  "draft_en": {
-   "subject": "A budget industrial position next to ORing and Witek for your SI customers",
-   "body": "Hello ABLELINK team,\n\nOver the past months you had a few product mails from us - most recently \"Managed PoE Switches\" on 28 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nAlongside the ORing and Witek lines you distribute to system integrators, a budget industrial position, neutral-brand, at distributor price, EXW, MOQ 1, 15-day validity, -40 to 75 C, CE/RoHS: DIN-rail 8 x Gigabit + 2 x SFP, unmanaged - model STI-280GE - $46 USD; 8 x Gigabit PoE+ + 2 x SFP, L2 managed, Marvell-based - STI-288GPM - $78.9; Gigabit media converter, 1 x RJ45 + 1 x SFP slot - STI-110GE - $26.5. SFPs stay with your current source.\n\nOne question: is there a budget industrial position your SI customers ask for that ORing prices too high?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
-  },
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
   "as_of": "2026-10-24"
  }
 }

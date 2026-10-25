@@ -1,6 +1,11 @@
-# SB-1036 Alston Systems · feed_auto · https://alston-systems.com/feed/ · fetched 2026-10-25T07:41:18Z · HTTP 200
-Wed, 25 Oct 2017 07:37:46 +0000	Ullamcor Persed Nequesed Accumsan Dapibus Metus	https://alston-systems.com/2017/10/25/ullamcor-persed-nequesed-accumsan-dapibus-metus/
-Wed, 25 Oct 2017 07:37:37 +0000	Ullamcor Persed Nequesed Accumsan Dapibus Metus	https://alston-systems.com/2017/10/25/ullamcor-persed-nequesed-accumsan-dapibus-metus-2/
-Wed, 25 Oct 2017 07:37:18 +0000	Ullamcor Persed Nequesed Accumsan Dapibus Metus	https://alston-systems.com/2017/10/25/ullamcor-persed-nequesed-accumsan-dapibus-metus-3/
-Wed, 25 Oct 2017 07:37:10 +0000	Ullamcor Persed Nequesed Accumsan Dapibus Metus	https://alston-systems.com/2017/10/25/ullamcor-persed-nequesed-accumsan-dapibus-metus-4/
-Wed, 25 Oct 2017 07:37:02 +0000	Vivamus sed tempor nunc	https://alston-systems.com/2017/10/25/vivamus-sed-tempor-nunc/
+# SB-1036 grinsrl.it · feed_auto · https://www.grinsrl.it/?feed=rss2&lang=it · fetched 2026-10-25T07:41:18Z · HTTP 200
+Tue, 07 Nov 2023 16:17:45 +0000	Impianto MLSS1 GIS 132kV Data Center Campus Equinix – Settimo Milanese	https://www.grinsrl.it/?p=7508&lang=it
+Tue, 07 Nov 2023 15:52:44 +0000	Impianti compensatori sincroni presso stazioni elettriche Terna	https://www.grinsrl.it/?p=7495&lang=it
+Tue, 07 Nov 2023 15:38:17 +0000	Stazione elettrica Terna – Tuscania	https://www.grinsrl.it/?p=7493&lang=it
+Tue, 07 Nov 2023 15:36:56 +0000	Centro Comunale di raccolta RSU ed assimilati – Taranto	https://www.grinsrl.it/?p=7491&lang=it
+Tue, 29 May 2018 08:39:08 +0000	Installazioni elettriche Irlanda e California.	https://www.grinsrl.it/?p=7215&lang=it
+Tue, 29 May 2018 08:07:01 +0000	Montaggi impianti tecnologici metropolitana Cityringen di Copenaghen (Danimarca)	https://www.grinsrl.it/?p=7210&lang=it
+Tue, 29 May 2018 07:22:02 +0000	Stazione di conversione HDVC 1000MW±500KVcc Italia-Montenegro, Cepagatti (PE)	https://www.grinsrl.it/?p=7199&lang=it
+Tue, 12 Sep 2017 08:06:58 +0000	Automazione sala Filtro e BBT stab.to HEINEKEN	https://www.grinsrl.it/?p=7178&lang=it
+Mon, 10 Apr 2017 17:03:08 +0000	Impianto depurazione Bisceglie	https://www.grinsrl.it/?p=6904&lang=it
+Mon, 03 Apr 2017 08:36:57 +0000	Lavori per Rete Attiva Regione Puglia	https://www.grinsrl.it/?p=6798&lang=it

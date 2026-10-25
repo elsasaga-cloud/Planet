@@ -1,0 +1,73 @@
+{
+ "code": "SC-221",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（raritan.com，快照 2026-10-21）",
+ "summary": "美国 Raritan（Legrand 旗下品牌：数据中心电源管理 PDU / DCIM 软件 / KVM-over-IP；表内「MC switch」「有较多的办事处」）；群发 20 次无回复。",
+ "type": "数据中心电源与 KVM 品牌（Legrand 集团）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Data Center Power Management, DCIM Software, and KVM-over-IP；品类词 数据中心 / 企业 IT / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "Raritan is a leading provider of power management solutions, DCIM software, and KVM-over-IP for data centers of all sizes.",
+   "url": "https://www.raritan.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "MC switch",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "数据中心电源管理、DCIM、KVM-over-IP 品牌",
+   "quote": "Raritan is a leading provider of power management solutions, DCIM software, and KVM-over-IP for data centers of all sizes.",
+   "url": "https://www.raritan.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "MC switch，有较多办事处",
+   "quote": "MC switch；有较多的办事处",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "集团品牌商（Legrand 旗下 Raritan，PDU/KVM），非渠道客户；c_sub=厂商/集团品牌（非渠道）",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "美国",
+  "other": "官网 raritan.com，语言 en，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "PDU / DCIM / KVM-over-IP"
+ ],
+ "channels": {
+  "role": "数据中心电源与 KVM 品牌（Legrand 集团）",
+  "region": "美国",
+  "contact": "sales@raritan.com"
+ },
+ "signals": [
+  "官网：Raritan is a leading provider of power management solutions, DCIM software, and KVM-over-IP for data centers"
+ ],
+ "risks": [
+  "Legrand 集团旗下品牌：集团采购体系，非渠道客户",
+  "产品为 PDU / DCIM / KVM，与交换机无关；20 次无回复"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 25,
+  "why": "Legrand 集团品牌商，产品为 PDU / KVM，不采购白牌交换机 → 改 C"
+ },
+ "email_hook": "（不发送：集团品牌商）"
+}

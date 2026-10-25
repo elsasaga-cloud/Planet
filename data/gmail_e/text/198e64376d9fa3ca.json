@@ -11,7 +11,7 @@
  "text": "Hi, Lukasz,\nThanks for your interest.\nPlease see attached file and check on the links.\nThank you.",
  "char_count": "100",
  "attachments": "[{'filename': 'image002.jpg', 'mime_type': 'image/jpeg', 'size': 36654}, {'filename': '13_lanberg_7ff23ee5-d5d0-4b9a-8a6c-472a817f5390.jpg', 'mime_type': 'image/jpeg', 'size': 34849}, {'filename': 'Download Link_Alan.pdf', 'mime_type': 'application/pdf', 'size': 123246}]",
- "note": "SA-076 Impakt / Lanberg（波兰，Łukasz）：Elsa 2025-08-26 首回只给下载链接 PDF（抄 support@lanberg.pl）",
+ "note": "SA-050 Impakt / Lanberg（波兰，Łukasz）：Elsa 2025-08-26 首回只给下载链接 PDF（抄 support@lanberg.pl）",
  "text_source": "text/plain",
  "fetched": "2026-10-24T16:04Z",
  "method": "Arena Gmail connector get_message_text(include_quoted=false)"

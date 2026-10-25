@@ -1,0 +1,66 @@
+{
+ "code": "SC-197",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（dclapac.com，快照 2026-10-21）",
+ "summary": "香港 DCL Communication Limited（金融业 IT 基础设施交钥匙方案：机柜到合规、数据中心（70 处）、PDU、工作坊；KP Marcus Chui（Chief Technology Officer）、William Chan（Senior Solution Advisor）；表内「Managed Networking」）；表内未跟进。",
+ "type": "香港数据中心集成商（非目标区/品类）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Front Page - DCL Communication Limited；品类词 数据中心 / 企业 IT",
+   "quote": "Strategic Infrastructure, Unmatched Reliability",
+   "url": "https://www.dclapac.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "Managed Networking",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "DCL 定位",
+   "quote": "Front Page - DCL Communication Limited ; Strategic Infrastructure, Unmatched Reliability ; We solve the FSI IT puzzle!",
+   "url": "https://www.dclapac.com/",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "香港数据中心集成商（非目标区/品类）；c_sub=区域外/品类不符",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "香港",
+  "other": "官网 dclapac.com，语言 en-US，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "金融业 IT 基础设施 / 数据中心（香港）"
+ ],
+ "channels": {
+  "role": "香港数据中心集成商（非目标区/品类）",
+  "region": "香港",
+  "contact": "marcus.chui@dcl.com.hk、william.chan@dcl.com.hk"
+ },
+ "signals": [
+  "官网：Front Page - DCL Communication Limited ; Strategic Infrastructure, Unmatched Reliability ; We solve the FSI IT puzzle!；kw datacenter 70",
+  "表内：Managed Networking；KP Marcus Chui / Chief Technology Officer；William Chan / Senior Solution Advisor"
+ ],
+ "risks": [
+  "非目标区（香港，国内可直采）；数据中心/金融 IT 导向（非接入层白牌位）"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 25,
+  "why": "香港金融数据中心集成商（数据中心导向、非目标区域）→ 改 C"
+ },
+ "email_hook": "（不发送：香港/数据中心导向）"
+}

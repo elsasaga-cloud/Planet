@@ -1,0 +1,124 @@
+{
+ "code": "SC-046",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（crystalrugged.com，快照 2026-10-21）",
+ "summary": "美国 Crystal Group（加固技术：国防/工业/边缘计算加固服务器，AS9100D，「ruggedized PoE switch military」；表内「工业 FS 自己的 logo」「细分特种行业公司」）；群发 10 次无回复。",
+ "type": "国防加固计算制造商（军工）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Crystal Group: Rugged Tech. Zero Limits.；品类词 工业自动化 / OT 网络 / 网络交换 / PoE",
+   "quote": "Discover Crystal Group's rugged tech solutions—built to thrive in the toughest environments. Explore innovative, reliable, and durable technology today!",
+   "url": "https://www.crystalrugged.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "工业FS 自己的logo",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Crystal Group 加固技术",
+   "quote": "Crystal Group: Rugged Tech. Zero Limits. ; Discover Crystal Group’s rugged tech solutions—built to thrive in the toughest environments ; Defense ; Industrial ; Edge computing",
+   "url": "https://www.crystalrugged.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "工业 FS 自己的 logo；特种行业",
+   "quote": "工业FS 自己的logo；细分特种行业公司",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "守界：美国国防加固计算制造商（Crystal Group，军用 PoE 交换机）；c_sub=守界：军工",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "美国",
+  "other": "官网 crystalrugged.com，语言 en，快照状态 ok；角色判定来源：用户表"
+ },
+ "business_lines": [
+  "加固服务器 / 军用 PoE 交换机"
+ ],
+ "channels": {
+  "role": "国防加固计算制造商（军工）",
+  "region": "美国",
+  "contact": "info@crystalrugged.com"
+ },
+ "signals": [
+  "页面 /ruggedized-poe-switch-military/；首页行业 Defense / Industrial / Edge computing",
+  "官网：Crystal Group’s rugged tech solutions—built to thrive in the toughest environments"
+ ],
+ "risks": [
+  "守界：国防加固服务器/军用 PoE 交换机（AS9100D）"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 25,
+  "why": "国防为首要行业、军用加固 PoE 交换机 = 守界 → 改 C"
+ },
+ "email_hook": "（不发送：军工守界）",
+ "mail_review": {
+  "as_of": "2026-10-25",
+  "binding": {
+   "level": "已发未回（无人工回复、无打开记录；S 1 封 2025-01-20→2025-01-20、A 13 封 2025-04-11→2026-02-11，共 14 封群发，0 真实回复；Elsa 单发去信 1 封（2025-02-25「8 Port Industrial PoE Switch」→ info@crystalrugged.com，未见回复（Elsa 箱 Replied 标签无）））（第 74 批(e)：S/A mail_dump + Elsa 箱 in:sent 排锚扫描 2026-10-25）",
+   "type": "国防加固计算制造商（军工）",
+   "sieve": "1",
+   "stop": "读",
+   "evidence": [
+    "mail_dump.py SC-046（S/A 全量）",
+    "data/gmail_e/elsa_sent_nonanchor_2026-10-25.json（Elsa 1:1 普查）"
+   ]
+  },
+  "situation": "美国 Crystal Group（国防加固计算，AS9100D；「ruggedized PoE switch military」）",
+  "need": "军工加固 → 守界（INH：军工/轨交主营 PASS）",
+  "breakpoint": "军工属性；info@ 14 封 0 回",
+  "saga_now": {
+   "p1": null,
+   "tier": null,
+   "price": null,
+   "why": "军工加固 → 守界（INH：军工/轨交主营 PASS）",
+   "repeat": "无成单；不动",
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "不动：守界（军工）",
+   "one_question": null
+  },
+  "facts": [
+   {
+    "date": "2026-02-11",
+    "dir": "去",
+    "who": "S/A 群发",
+    "quote": "Managed Optical Bypass Switch, 16 Port PoE Managed Switch, 48 Port PoE Managed Switch, 16 Port Ethernet Switch",
+    "why": "S 1 封 2025-01-20→2025-01-20、A 13 封 2025-04-11→2026-02-11，共 14 封群发，0 真实回复｜首封 2025-01-20 → 末封 2026-02-11",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2025-02-25",
+    "dir": "out",
+    "who": "Elsa → info@crystalrugged.com",
+    "quote": "8 Port Industrial PoE Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+    "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
+    "k": "elsa_1to1",
+    "msg_id": "195395496e7f59eb"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null
+ }
+}

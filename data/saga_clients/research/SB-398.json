@@ -2,65 +2,153 @@
  "code": "SB-398",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "快照失败（parked_or_empty）",
- "summary": "丹麦 Karsten Gill（gill.dk 为个人网站：摄影/铁路照片；阿里巴巴 RFQ「2+16 商业 Passive PoE」）；表内未跟进。",
- "type": "个人买家（丹麦）",
+ "website_status": "在线（osd.com.au，快照 2026-10-21）",
+ "summary": "澳大利亚 Optical Systems Design（OSD；「Industrial Networking. Engineered in Australia」光纤通信系统方案：自有品牌 OSD2524P 24 口 PoE、OSD2184P、OSD2153P、MC/SFP；表内「PoE / 工业 FS / VC」；KP Nick Fitzsimmons（General Manager，nickf@））；群发 2 次无回复。",
+ "type": "澳洲工业网络品牌商（自有 OSD 系列，OEM 采购）",
  "size": "",
  "brands_seen": [],
  "evidence": [
   {
+   "kind": "官网快照",
+   "claim": "官网标题：Optical Systems Design (OSD) - Video, Audio, Data & IP SolutionsOptical Systems Design | I；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "Optical Systems Design (OSD) is an innovative Australian company providing cost effective communication systems solutions based on optical fiber technology.",
+   "url": "https://osd.com.au/",
+   "date": "2026-10-21"
+  },
+  {
    "kind": "用户表",
    "claim": "表内兴趣/备注",
-   "quote": "2+16商业Passive PoE / from: 阿里巴巴RFQ",
+   "quote": "POE 工业FS VC",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   },
   {
    "kind": "官网快照",
-   "claim": "gill.dk",
-   "quote": "Karsten Gill ; About me ; Photography ; Railway photos",
-   "url": "https://gill.dk/",
+   "claim": "OSD：澳洲光纤通信系统方案",
+   "quote": "Optical Systems Design (OSD) is an innovative Australian company providing cost effective communication systems solutions based on optical fiber technology.",
+   "url": "https://osd.com.au/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "2+16 Passive PoE RFQ",
-   "quote": "2+16商业Passive PoE / from: 阿里巴巴RFQ",
+   "claim": "PoE 工业 FS VC",
+   "quote": "POE 工业FS VC",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
- "kp": [],
- "grade_override": "C",
- "override_reason": "个人买家（个人网站）；c_sub=个人买家",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "kp": [
+  {
+   "name": "Nick Fitzsimmons",
+   "title": "General Manager",
+   "email": "nickf@osd.com.au",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "丹麦",
-  "other": "官网 gill.dk，语言 en，快照状态 parked_or_empty；角色判定来源：待核"
+  "hq": "澳大利亚",
+  "other": "官网 osd.com.au，语言 en-US，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "（个人）"
+  "光纤通信 / 工业网络产品（自有品牌 OSD）"
  ],
  "channels": {
-  "role": "个人买家（丹麦）",
-  "region": "丹麦",
-  "contact": "mail@gill.dk"
+  "role": "澳洲工业网络品牌商（自有 OSD 系列，OEM 采购）",
+  "region": "澳大利亚",
+  "contact": "sales@osd.com.au、nickf@osd.com.au"
  },
  "signals": [
-  "官网：Karsten Gill ; About me ; Photography ; Railway photos（parked_or_empty）",
-  "表内：2+16 商业 Passive PoE / from: 阿里巴巴 RFQ"
+  "页面 /osd2524p-24-port-poe-switch/、/osd2184p-poe-for-all-powered-devices/、/poe/",
+  "官网：innovative Australian company providing cost effective communication systems solutions based on optical fiber technology；INDUSTRIAL NETWORKING. ENGINEERED IN AUSTRALIA",
+  "KP：Nick Fitzsimmons / General Manager（表内）"
  ],
  "risks": [
-  "个人买家（个人摄影网站）；Passive PoE 款不在 Saga 列表"
+  "「Engineered in Australia」品牌：自有设计/ODM 体系，导入需工程验证",
+  "非主攻区（T5）；RCM 由客户申报；2 次无回复"
  ],
  "saga_fit": {
-  "p1": null,
-  "tier": 20,
-  "why": "个人网站/个人 RFQ（Passive PoE 款 Saga 列表无）→ 改 C（个人买家）"
+  "p1": "STI-288GPM",
+  "tier": 30,
+  "why": "自有 OSD 工业 PoE 系列靠 ODM → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）作二供；24 口 PoE（OSD2524P）位 STC-424DGGPM-280W（商用，注明）；VC 不做"
  },
- "email_hook": "（不发送：个人）"
+ "email_hook": "Nick, for the entry models in the OSD industrial PoE range, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed, 24-PoE + 4 SFP) from small lots under your label, CE/RoHS — which model would you consider dual-sourcing first?",
+ "products_seen": [
+  {
+   "brand": "OSD（自有）",
+   "model": "OSD2524P",
+   "spec": "24 口 PoE 交换机",
+   "saga": "STC-424DGGPM-280W（商用，注明）",
+   "url": "https://www.osd.com.au/osd2524p-24-port-poe-switch/",
+   "date": "2026-10-21"
+  },
+  {
+   "brand": "OSD（自有）",
+   "model": "OSD2184P",
+   "spec": "PoE 交换机（全 PD 供电）",
+   "saga": "STI-288GPM",
+   "url": "https://osd.com.au/",
+   "date": "2026-10-21"
+  }
+ ],
+ "mail_review": {
+  "binding": {
+   "level": "读而不回（A 邮箱 12 封 2025→2026，其中 2 封被打开，0 回；收件 nickf@osd.com.au, sales@osd.com.au；被打开主题「Optional Marvell Chipset Solutions、10G Enterprise SFP Switch」；Elsa 箱：`to:osd.com.au` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 12 / 来 0）（第 74 批(n)））",
+   "type": "澳洲工业网络品牌商（自有 OSD 系列，OEM 采购）",
+   "sieve": "2（有人在读，无人回）",
+   "stop": "读而不回 = 内容未命中或没有当下需求",
+   "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
+   "lane": "澳大利亚 非主攻",
+   "cadence": "一封；回了再说",
+   "evidence": "gmail_digest：out 12，Opened 标签 2（Simon 群发追踪）；用户表：「POE 工业FS VC」；研究档 risks：「Engineered in Australia」品牌：自有设计/ODM 体系，导入需工程验证"
+  },
+  "situation": "澳大利亚 Optical Systems Design（OSD；「Industrial Networking. Engineered in Australia」光纤通信系统方案：自有品牌 OSD2524P 24 口 PoE、OSD2184P、OSD2153P、MC/SFP；表内「PoE / 工业 FS / VC」；KP Nick Fitzsimmons（General Manager，nickf@））；群发 2 次无回复。",
+  "need": "自有 OSD 工业 PoE 系列靠 ODM → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）作二供；24 口 PoE（OSD2524P）位 STC-424DGGPM-280W（商用，注明）；VC 不做",
+  "breakpoint": "「Engineered in Australia」品牌：自有设计/ODM 体系，导入需工程验证",
+  "saga_now": {
+   "p1": "STI-288GPM",
+   "tier": 30,
+   "price": "首触锚价 STI-288GPM $85.5 EXW（主表档位（PDF 上限 $88；SA-016 2025-07 实报 $72 为分销量价）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-25 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-16 $280（10G Enterprise SFP Switch）、2026-06-16 $16000（32 Port 400GB DC Switch）",
+   "why": "自有 OSD 工业 PoE 系列靠 ODM → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）作二供；24 口 PoE（OSD2524P）位 STC-424DGGPM-280W（商用，注明）；VC 不做。已打开的主题（2/12 封有打开记录）：「OEM Core Switching Solution」(2026-01-22)、「Marvell Managed Commercial Switches」(2026-04-01) → 读者兴趣偏「DC 核心/CENTEC」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-03-04)、Saga Feature List_7.5.x_L2+(2026-07-10)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2026-11",
+   "channel": "A 邮箱 → nickf@osd.com.au",
+   "action": "短信一问（email_hook）（第 76 批(c) 2026-10-25：audit_ab 软项修正：证书口径 CE/RoHS → CE/RoHS (RCM stays on your side)）",
+   "one_question": "Nick, for the entry models in the OSD industrial PoE range, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed, 24-PoE + 4 SFP) from small lots under your label, CE/RoHS — which model would you consider dual-sourcing first? Reference: STI-288GPM at $85.5 USD EXW (MOQ 1, 15-day validity)."
+  },
+  "facts": [
+   {
+    "date": "2026-08-25",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "Optional Marvell Chipset Solutions、10G Enterprise SFP Switch",
+    "why": "12 封 / 2 次打开 / 0 回｜首封 2025-10-16 → 末封 2026-08-25（12 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "POE 工业FS VC",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": {
+   "subject": "One question — Optional Marvell Chipset Solutions",
+   "body": "Hi Nick,\n\nWe have sent you a few mails on \"Optional Marvell Chipset Solutions\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor the entry models in the OSD industrial PoE range, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed, 24-PoE + 4 SFP) from small lots under your label, CE/RoHS (RCM stays on your side) — which model would you consider dual-sourcing first?\n\nReference price: DIN-rail 8-PoE + 2 SFP L2 managed industrial switch, 240 W (STI-288GPM) $85.5 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+  },
+  "as_of": "2026-10-24"
+ }
 }

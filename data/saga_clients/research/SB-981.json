@@ -1,147 +1,123 @@
 {
- "code": "SB-981",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（intenet.com.tr，快照 2026-10-21）",
- "summary": "土耳其 INTENET（变电站交钥匙方案：TEİAŞ 通信系统、变电站自动化/SCADA、光纤产品与基础设施、开关柜保护控制；站内工业交换机方案页、ISCOM3052G、EN50121-4；表内「工业交换机」；KP Ercan Ozturk（General Manager-Owner，ercan.ozturk@））；群发 2 次无回复。",
- "type": "电力/变电站系统集成商（土耳其，守界）",
- "size": "",
- "brands_seen": [
-  "Cisco",
-  "Raisecom"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：INTENET İnternet, Telekominikasyon, Network ve Bilişim Sistemleri, Teiaş, Eneri Santral Ha；品类词 工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 无线 / WiFi / 光纤 / 媒体转换 / 网络交换 / PoE",
-   "quote": "Substations Turnkey Solutions INTENET transformer centers and power plants (HES, RES and Thermal power plants) are equipped with turnkey high voltage protection control, Scada- Automation and communication system installations. It provides ",
-   "url": "https://intenet.com.tr/en/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "工业交换机",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "变电站交钥匙方案与 SCADA",
-   "quote": "Substations Turnkey Solutions INTENET transformer centers and power plants (HES, RES and Thermal power plants) are equipped with turnkey high voltage protection control, Scada- Automation and communic…",
-   "url": "https://intenet.com.tr/en/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "工业交换机",
-   "quote": "工业交换机",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Ercan Ozturk",
-   "title": "General Manager-Owner",
-   "email": "ercan.ozturk@intenet.com.tr",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "土耳其",
-  "other": "官网 intenet.com.tr，语言 en-US，快照状态 ok；角色判定来源：官网文案"
- },
- "business_lines": [
-  "变电站自动化 / SCADA / 通信系统集成",
-  "光纤产品与基础设施"
- ],
- "channels": {
-  "role": "电力/变电站系统集成商（土耳其，守界）",
-  "region": "土耳其",
-  "contact": "info@intenet.com.tr、ercan.ozturk@intenet.com.tr"
- },
- "signals": [
-  "官网：Substations Turnkey Solutions INTENET transformer centers and power plants (HES, RES and Thermal power plants) … Scada- Automation and communication",
-  "页面 /en/our-solution/industrial-switch/；站内 ISCOM3052G / EN50121-4",
-  "KP：Ercan Ozturk / General Manager-Owner（表内）"
- ],
- "risks": [
-  "守界：变电站/电力公用事业（TEİAŞ）核心网络不做；Saga 无 IEC 61850-3 / EN50121-4",
-  "公用事业项目周期长、认证门槛高；2 次无回复"
- ],
- "saga_fit": {
-  "p1": "STI-288GPM",
-  "tier": 25,
-  "why": "变电站/SCADA 为主 → 守界：IEC 61850-3 节点不报；仅非关键节点/园区网络位 STI-288GPM（$82.2 @25%）、STI-280GE"
- },
- "email_hook": "Mr. Ozturk, for the non-critical network nodes in your fiber and SCADA projects (site LAN, camera and office segments outside the IEC 61850 zone), we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed switches (−40~75 °C, CE/RoHS) from small lots — is there such a layer in your current projects?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A/S 邮箱 17 封 2024→2026，无记录打开，0 回；收件 ercan.ozturk@intenet.com.tr, info@intenet.com.tr；主题多为「10G Enterprise SFP Switch、Industrial PoE Switch」；Elsa 箱：`to:intenet.com.tr` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 17 / 来 0）（第 74 批(i)））",
-   "type": "电力/变电站系统集成商（土耳其，守界）",
-   "sieve": "1（只收到群发）",
-   "stop": "17 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "TR 主攻（四主）",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 17；用户表：「工业交换机」；研究档 risks：守界：变电站/电力公用事业（TEİAŞ）核心网络不做；Saga 无 IEC 61850-3 / EN50121-4"
-  },
-  "situation": "土耳其 INTENET（变电站交钥匙方案：TEİAŞ 通信系统、变电站自动化/SCADA、光纤产品与基础设施、开关柜保护控制；站内工业交换机方案页、ISCOM3052G、EN50121-4；表内「工业交换机」；KP Ercan Ozturk（General Manager-Owner，ercan.ozturk@））；群发 2 次无回复。",
-  "need": "变电站/SCADA 为主 → 守界：IEC 61850-3 节点不报；仅非关键节点/园区网络位 STI-288GPM（$82.2 @25%）、STI-280GE",
-  "breakpoint": "守界：变电站/电力公用事业（TEİAŞ）核心网络不做；Saga 无 IEC 61850-3 / EN50121-4",
-  "saga_now": {
-   "p1": "STI-288GPM",
-   "tier": 25,
-   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-21 $300（48 port switch）、2024-09-24 $65（10G Media Converter）；群发里他已看到的价（续）：2026-08-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-26 $280（10G Enterprise SFP Switch）",
-   "why": "变电站/SCADA 为主 → 守界：IEC 61850-3 节点不报；仅非关键节点/园区网络位 STI-288GPM（$82.2 @25%）、STI-280GE",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开",
-   "one_question": "Mr. Ozturk, for the non-critical network nodes in your fiber and SCADA projects (site LAN, camera and office segments outside the IEC 61850 zone), we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed switches (−40~75 °C, CE/RoHS) from small lots — is there such a layer in your current projects?"
-  },
-  "facts": [
-   {
-    "date": "2024-11-05",
-    "dir": "去",
-    "who": "Simon → Angora Networks（SA-168）附件 Turkey Client List.xlsx",
-    "quote": "名单行：「industrial network info@intenet.com.tr https://intenet.com.tr/en/our-solution/industrial-switch/」",
-    "why": "Saga 2024-11-05 把本户列入交给 Angora（安卡拉，Saga 提议的欧盟/土耳其分销伙伴）的 64 家起步名单；此后 Saga 仍直发本户。若 Angora 已接触过本户，Saga 直发会与自己提议的渠道打架 → Q-51（默认：直发继续，Angora 报了价的户 Saga 只做技术支持）",
-    "k": "gmail_s 2024-11-05 Re: Invoice_5pcs STC-424DGGPM-280W（附件）+ Drive PI 7_土耳其 Turkey_Client_List.xlsx"
-   },
-   {
-    "date": "2026-09-21",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "10G Enterprise SFP Switch、Industrial PoE Switch",
-    "why": "17 封 / 0 次打开 / 0 回｜首封 2024-06-29 → 末封 2026-09-21（17 去 / 0 来）",
-    "k": "gmail_digest"
-   },
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "工业交换机",
-    "why": "表内备注",
-    "k": "用户表"
-   }
+  "code": "SB-981",
+  "name_official": "L-com（Infinite Electronics，美国）",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（l-com.com，快照 2026-10-21）",
+  "summary": "美国 L-com（Infinite Electronics 集团，5 万 SKU 当日发货，自有品牌线缆 / 天线 / 工业网络；switch 196 / industrial 108 / poe 56），Product Manager Steve Smith、Mary Kleinfelter；表内「工业 switch、工业 FS MC PoE 周边；有人在卖他们家的设备」；群发 9 次无回复。集团规模大但自有品牌采购 → OEM 30%。",
+  "type": "",
+  "size": "",
+  "brands_seen": [
+    "L-com（自有）"
   ],
-  "proof_gaps": [
-   "在 Saga 给 Angora 的 Turkey Client List（2024-11-05）里——Angora 是否接触过本户无记录（Q-51）"
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "5 万 SKU 当日发货，自有品牌；+1 800 341 5266",
+      "quote": "L-com offers over 50,000 electronics products for sale which are in-stock and available for same-day shipping. We have short lead times on custom products.",
+      "url": "https://l-com.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "工业 switch；工业 FS MC POE 周边产品；Steve Smith Product Manager",
+      "quote": "兴趣：工业switch;工业FS MC POE 周边产品",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "kp": [
+    {
+      "name": "Steve Smith",
+      "title": "Product Manager",
+      "email": "ssmith@l-com.com",
+      "phone": "",
+      "source": "（本地 Clients/ 表格，无公开 URL）"
+    },
+    {
+      "name": "Mary Kleinfelter",
+      "title": "（表内联系人）",
+      "email": "mkleinfelter@l-com.com",
+      "phone": "",
+      "source": "（本地 Clients/ 表格，无公开 URL）"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（官网快照核对 + 表内）"
+  },
+  "company_facts": {
+    "legal_name": "L-com, Inc.（Infinite Electronics）",
+    "founded": "1982",
+    "hq": "North Andover, MA, USA",
+    "size": "大型目录分销（集团）",
+    "other": "自有品牌工业以太网产品（贴牌采购）"
+  },
+  "business_lines": [
+    "线缆 / 天线 / 工业网络目录销售（自有品牌）"
+  ],
+  "channels": {
+    "role": "目录分销商（自有品牌 OEM 采购）",
+    "region": "美国"
+  },
+  "signals": [
+    "PM 具名 → 自有品牌工业交换机 / MC 贴牌入口"
+  ],
+  "risks": [
+    "美国：零售 / 项目常要求 UL 列名（Saga 无 UL，仅 FCC/CE）→ 首触即说明",
+    "大集团供应商准入流程长",
+    "9 次群发无回复"
+  ],
+  "saga_fit": {
+    "p1": "STI-288GP",
+    "tier": 30,
+    "why": "L-com 工业 PoE 线 → STI-288GP（$62.2 @30%）贴牌；MC STI-110GE。"
+  },
+  "email_hook": "Steve, for the L-com-branded industrial PoE switches and media converters — DIN 2-SFP + 8-PoE (and Marvell managed version) from small lots, FCC/CE (no UL); is UL listing mandatory for that category in your catalogue, or only for AC-powered units?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（6 封来信全部是 noreply@l-com.com 自动回复）；Elsa 群发 BCC 已触达 2025-02-28「16 Port Ethernet Switch」（稿内无价，第 74 批(p) 已读稿），CH/US/misc 批次 To office@lightwin.ch，0 回（第 74 批 Bcc 头核对 msg 1954d2dc46891435）",
+      "type": "美国连接器/网络配件大分销（L-com / Infinite Electronics）——sales@ 是客服入口",
+      "sieve": "0",
+      "stop": "大公司 sales@ 入口",
+      "revive": "需要供应商入驻渠道（vendor onboarding），不是邮件",
+      "lane": "US 主攻",
+      "cadence": "不动",
+      "evidence": "k=82bce901657f3d30 等；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To office@lightwin.ch）本户见于 2025-02-28 名单；2026-08-11 最新一轮名单已不含此地址 → 中途被剔除（退信 / 退订 / 手工）"
+    },
+    "situation": "—",
+    "need": "—",
+    "breakpoint": "—",
+    "saga_now": {
+      "p1": "—",
+      "tier": 20,
+      "price": "—；群发里他已看到的价（续，第 66 批全量复核）：2025-07-08 $300（48 Port PoE Managed Switch）、2025-09-25 $280（10G Enterprise SFP Switch）",
+      "why": "—",
+      "repeat": [],
+      "gaps": [
+        "vendor 入驻入口"
+      ]
+    },
+    "next_move": {
+      "when": "不动",
+      "channel": "—",
+      "action": "—",
+      "one_question": ""
+    },
+    "facts": [
+      {
+        "date": "2025-02-28",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To office@lightwin.ch，CH/US/misc 批次）",
+        "quote": "16 Port Ethernet Switch — There is a 16-port Din Gigabit Ethernet switch for you. It is good for vehicle network and industrial automation. Model choice 1. 5 Port/8 port 2. 10/",
+        "why": "Elsa 箱群发 BCC 触达证据（命中地址 l-com.com, penniewallach@l-com.com, pmcneil@l-com.com, sales@l-com.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+        "k": "elsa_bcc"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-25"
+  }
 }

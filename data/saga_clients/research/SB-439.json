@@ -1,143 +1,152 @@
 {
  "code": "SB-439",
- "name_official": "",
+ "name_official": "EXXELL VISION SAS（exxell.fr，Boulogne-Billancourt, FR；RCS Nanterre 493 179 089）",
  "researched_at": "2026-10-21",
- "website_status": "在线（satsdigital.com，快照 2026-10-21）",
- "summary": "泰国 SATS Digital（销售平台型网店：MC、FS、工业 FS、SFP、VC「价格便宜」；站内 8 口千兆工业 PoE、Dahua 4/8 口 PoE 页面；「可以尝试多跟进一下」）；群发 9 次无回复。",
- "type": "网络/安防产品网店（泰国，低价导向）",
+ "website_status": "在线",
+ "summary": "巴黎西郊 Boulogne-Billancourt 的弱电/安防集成商（2006-11 成立；2024-10 由 SARL 转 SAS；10–19 人口径，LinkedIn 11–50；总裁 Jeannie Rozowykwiat，长期经营者 Jean-Edmond Rozowykwiat）：视频监控（自述 30,000+ 摄像机、1,000+ 客户）、入侵/火灾报警、门禁、IT 网络、电气；章程活动含「进口、出口、分销、安装与维护安防设备」——既做工程也做分销（Distribution 栏目面向零售商铺）。用户表：WhatsApp 已加，8 次跟进 0 回复。",
+ "type": "",
  "size": "",
- "brands_seen": [
-  "Dahua"
- ],
+ "brands_seen": [],
  "evidence": [
   {
-   "kind": "官网快照",
-   "claim": "官网标题：satsdigital.com",
-   "quote": "",
-   "url": "https://www.satsdigital.com/",
+   "kind": "官网",
+   "claim": "业务范围与装机量",
+   "quote": "Expert en vidéosurveillance, alarme et contrôle d'accès … VIDEOSURVEILLANCE ALARME INTRUSION & INCENDIE CONTRÔLE D'ACCES RESEAUX INFORMATIQUES ELECTRICITE … + 30.000 Caméras installées + 1.000 Clients satisfaits … 204 Allée du Forum 92100 - Boulogne Billancourt 01 83 83 50 00 hotline@exxell.fr",
+   "url": "https://exxell.fr/",
+   "date": "2026-01-06"
+  },
+  {
+   "kind": "LinkedIn",
+   "claim": "规模与成立年",
+   "quote": "EXXELL VISION est une société créée en 2006 spécialisé dans le courant faible - vidéosurveillance - Alarme - contrôle d'accès … Taille de l'entreprise: 11-50 employés Siège social: Boulogne-Billancourt",
+   "url": "https://fr.linkedin.com/company/exxell-vision",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "登记",
+   "claim": "法人形式变更与负责人",
+   "quote": "EXXELL VISION SARL au capital de 15000 € Siège social : 204 ALLEE DU FORUM 92100 BOULOGNE-BILLANCOURT RCS NANTERRE 493179089 Par décision Assemblée Générale Extraordinaire du 24/10/2024, il a été décidé de transformer la société en société par actions simplifiée … Président : Mme LEVY épouse ROZOWYKWIAT Jeannie",
+   "url": "https://www.annonces-legales.fr/consultation/ile-de-france/hauts-de-seine-92/exxell-vision-1331479",
+   "date": "2025-01-06"
+  },
+  {
+   "kind": "登记",
+   "claim": "章程活动（含进口分销）",
+   "quote": "Activité principale déclarée: Importation, exportation, distribution, installation et maintenance de matériels (donné à un sous-traitant) et notamment de matériels de sécurité.",
+   "url": "https://www.societe.com/societe/exxell-vision-493179089.html",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "MC FS 工业FS SFP VC 价格便宜 销售平台",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：satsdigital.com；品类词 网络交换 / PoE",
-   "quote": "",
-   "url": "https://www.satsdigital.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "SATS 产品页",
-   "quote": "satsdigital.com ; /gigabit-industrial-poe-switch-8-port ; /dahua-gigabit-poe-switch-8-port",
-   "url": "https://www.satsdigital.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "价格便宜 销售平台",
-   "quote": "MC FS 工业FS SFP VC 价格便宜 销售平台",
+   "claim": "WhatsApp 已加；8 次跟进 0 回复",
+   "quote": "（用户表字段）",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Jeannie Rozowykwiat (Levy)",
+   "role": "Présidente（2024-10 起；登记公开）",
+   "email": "commercial@exxell.fr（公司公开）",
+   "phone": "+33 1 83 83 50 00",
+   "source": "https://www.annonces-legales.fr/consultation/ile-de-france/hauts-de-seine-92/exxell-vision-1331479"
+  },
+  {
+   "name": "Jean-Edmond Rozowykwiat",
+   "role": "Président / 原 Gérant（2008–2025；登记公开）",
+   "email": "—（未公开）",
+   "phone": "+33 1 83 83 50 00",
+   "source": "https://www.societe.com/societe/exxell-vision-493179089.html"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（官网 + 登记核对）"
  },
  "company_facts": {
-  "hq": "泰国",
-  "other": "官网 satsdigital.com，语言 ?，快照状态 ok；角色判定来源：用户表"
+  "legal_name": "EXXELL VISION（SAS，原 SARL；RCS Nanterre 493 179 089；资本 €15,000）",
+  "founded": "2006-11-20",
+  "hq": "204 Allée du Forum, 92100 Boulogne-Billancourt, France（01 83 83 50 00；hotline@exxell.fr / commercial@exxell.fr）",
+  "size": "10–19（manageo）/ 11–50（LinkedIn）",
+  "other": "业务：视频监控、报警（入侵+火灾）、门禁、网络、电气；中大型视频系统集成见长；2010 年起集成收银系统；2019 迁至 92"
  },
  "business_lines": [
-  "网络 / 安防产品网店（泰国）"
+  "视频监控集成（中大型系统）",
+  "入侵/火灾报警、门禁（守界：火灾主系统不供）",
+  "IT 网络与电气；面向商铺的分销"
  ],
  "channels": {
-  "role": "网络/安防产品网店（泰国，低价导向）",
-  "region": "泰国",
-  "contact": "info@satsdigital.com"
+  "网站": "https://exxell.fr/",
+  "电话": "+33 1 83 83 50 00（官网公开）",
+  "邮箱（公开）": "commercial@exxell.fr / hotline@exxell.fr",
+  "LinkedIn": "https://fr.linkedin.com/company/exxell-vision"
  },
  "signals": [
-  "页面 /gigabit-industrial-poe-switch-8-port、/dahua-gigabit-poe-switch-4-port、/dahua-gigabit-poe-switch-8-port",
-  "表内：MC FS 工业 FS SFP VC 价格便宜 销售平台；可以尝试多跟进一下"
+  "30,000+ 摄像机装机量 → PoE 交换机为持续耗材；兼分销身份可按 20% 谈量"
  ],
  "risks": [
-  "低价导向（Dahua/国内货基准）；非主攻区（T5，泰国）；9 次无回复，仅 info@"
+  "8 次跟进 0 回复；法国集成商偏好 Hikvision/Dahua 原厂交换机或 Netgear/Ubiquiti"
  ],
  "saga_fit": {
-  "p1": "STI-288GP",
-  "tier": 20,
-  "why": "站内工业 8 口 PoE 位 → 工业 8 PoE + 2 SFP STI-288GP（$57.4 @20%）；商用 PoE 位 STC-28DGGPM（$80.7）；非管理 4/8 PoE 位 HRUI（列表价，注明）"
+  "p1": "STC-28DGGPM",
+  "tier": 25,
+  "why": "集成商 25% 档：STC-28DGGPM 商铺/中型点位；STC-424DGGPM-280W 大型视频系统汇聚；分销量大时 20%"
  },
- "email_hook": "For the 8-port gigabit industrial PoE switch and the Dahua PoE positions on your site, we supply neutral-brand DIN-rail 8-PoE + 2 SFP and commercial 8-PoE L2+ units from single units, CE/RoHS, EXW USD — which PoE SKU sells most on your platform?",
+ "email_hook": "For the shop and multi-site CCTV jobs you run around Paris, the Marvell-based 8-port PoE+ managed switch at $84.1 EXW and the 24-port 280 W unit cover the usual two cabinet sizes; shall I send the French-market CE/RoHS file with the quote?",
  "mail_review": {
   "binding": {
-   "level": "未触达（A/S 邮箱 20 封 2025→2026，1 次记录打开，0 回；收件 info@satsdigital.com；主题多为「Industrial PoE Switch、8 Port Industrial PoE Switch」；Elsa 箱：`to:satsdigital.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 20 / 来 0）（第 74 批(n)））",
-   "type": "网络/安防产品网店（泰国，低价导向）",
-   "sieve": "1~2（1 次打开）",
-   "stop": "只打通用邮箱，无记录打开",
-   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
-   "lane": "泰国 非主攻",
-   "cadence": "一封",
-   "evidence": "gmail_digest：out 20，Opened 标签 1（Simon 群发追踪）；用户表：「MC FS 工业FS SFP VC 价格便宜 销售平台」；研究档 risks：低价导向（Dahua/国内货基准）；非主攻区（T5，泰国）；9 次无回复，仅 info@"
+   "level": "未触达（A/S 邮箱 18 封 2025→2026，无记录打开，0 回；收件 jean-edmond@exxell.fr；主题多为「Marvell Industrial Alert System、10G Enterprise SFP Switch」；Elsa 箱：`to:.fr` 穷举 14 条（2026-10-25，锚批 Bcc 头已读）未见 exxell.fr → Elsa 箱从未发过本户，往来只在 S/A 箱（去 18 / 来 0）（第 74 批(f)））",
+   "type": "—",
+   "sieve": "1（只收到群发）",
+   "stop": "18 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停；WhatsApp 已加 → 唤醒走 WhatsApp 一句话，不走邮件",
+   "lane": "法国（欧洲全域主攻）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 18；用户表：「（用户表字段）」；研究档 risks：8 次跟进 0 回复；法国集成商偏好 Hikvision/Dahua 原厂交换机或 Netgear/Ubiquiti"
   },
-  "situation": "泰国 SATS Digital（销售平台型网店：MC、FS、工业 FS、SFP、VC「价格便宜」；站内 8 口千兆工业 PoE、Dahua 4/8 口 PoE 页面；「可以尝试多跟进一下」）；群发 9 次无回复。",
-  "need": "站内工业 8 口 PoE 位 → 工业 8 PoE + 2 SFP STI-288GP（$57.4 @20%）；商用 PoE 位 STC-28DGGPM（$80.7）；非管理 4/8 PoE 位 HRUI（列表价，注明）",
-  "breakpoint": "低价导向（Dahua/国内货基准）；非主攻区（T5，泰国）；9 次无回复，仅 info@",
+  "situation": "巴黎西郊 Boulogne-Billancourt 的弱电/安防集成商（2006-11 成立；2024-10 由 SARL 转 SAS；10–19 人口径，LinkedIn 11–50；总裁 Jeannie Rozowykwiat，长期经营者 Jean-Edmond Rozowykwiat）：视频监控（自述 30,000+ 摄像机、1,000+ 客户）、入侵/火灾报警、门禁、IT 网络、电气；章程活动含「进口、出口、分销、安装与维护安防设备」——既做工程也做分销（Distribution 栏目面向零售商铺）。用户表：WhatsApp 已加，8 次跟进 0 回复。",
+  "need": "集成商 25% 档：STC-28DGGPM 商铺/中型点位；STC-424DGGPM-280W 大型视频系统汇聚；分销量大时 20%",
+  "breakpoint": "8 次跟进 0 回复；法国集成商偏好 Hikvision/Dahua 原厂交换机或 Netgear/Ubiquiti",
   "saga_now": {
-   "p1": "STI-288GP",
-   "tier": 20,
-   "price": "换人再触锚价 STI-288GP $60 EXW（最近实报 $60（SA-100 2025-03-18；SB-1276 / SA-030 同价）（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-19 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-08-13 $300（48 Port PoE Managed Switch）、2025-10-15 $280（10G Enterprise SFP Switch）",
-   "why": "站内工业 8 口 PoE 位 → 工业 8 PoE + 2 SFP STI-288GP（$57.4 @20%）；商用 PoE 位 STC-28DGGPM（$80.7）；非管理 4/8 PoE 位 HRUI（列表价，注明）。已打开的主题（1/20 封有打开记录）：「Mini Industrial PoE Switch」(2025-07-14) → 读者兴趣偏「工业」；与 P1 同类，继续",
+   "p1": "STC-28DGGPM",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-13 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-02-11 $300（48 Port PoE Managed Switch）、2025-10-22 $280（10G Enterprise SFP Switch）",
+   "why": "集成商 25% 档：STC-28DGGPM 商铺/中型点位；STC-424DGGPM-280W 大型视频系统汇聚；分销量大时 20%",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "2027-Q1（换人后）",
-   "channel": "A 邮箱 → 具名 KP",
-   "action": "换收件人再发一封（第 75 批(ai) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；HRUI 型号不写 Marvell）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
-   "one_question": "For the 8-port gigabit industrial PoE switch and the Dahua PoE positions on your site, we supply neutral-brand DIN-rail 8-PoE + 2 SFP and commercial 8-PoE L2+ units from single units, CE/RoHS, EXW USD — which PoE SKU sells most on your platform? Reference: STI-288GP at $60 USD EXW (MOQ 1, 15-day validity)."
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "For the shop and multi-site CCTV jobs you run around Paris, the Marvell-based 8-port PoE+ managed switch at $84.1 EXW and the 24-port 280 W unit cover the usual two cabinet sizes; shall I send the French-market CE/RoHS file with the quote?"
   },
   "facts": [
    {
-    "date": "2026-09-25",
+    "date": "2026-09-22",
     "dir": "去",
     "who": "A/S 群发",
-    "quote": "Industrial PoE Switch、8 Port Industrial PoE Switch",
-    "why": "20 封 / 1 次打开 / 0 回｜首封 2025-02-05 → 末封 2026-09-25（20 去 / 0 来）",
+    "quote": "Marvell Industrial Alert System、10G Enterprise SFP Switch",
+    "why": "18 封 / 0 次打开 / 0 回｜首封 2025-02-11 → 末封 2026-09-22（18 去 / 0 来）",
     "k": "gmail_digest"
    },
    {
     "date": "2026-10-21",
     "dir": "用户表",
     "who": "Simon",
-    "quote": "MC FS 工业FS SFP VC 价格便宜 销售平台",
+    "quote": "（用户表字段）",
     "why": "表内备注",
     "k": "用户表"
-   },
-   {
-    "date": "2026-09-25",
-    "dir": "去",
-    "who": "A 箱（Alan）",
-    "quote": "Managed PoE Switches",
-    "why": "本日去信真实主题（邮箱索引 91ff5a69f954cce4；信稿开头句引用此封；此前稿内写的「Industrial PoE Switch」是线程列表首题，不是本封）",
-    "k": "91ff5a69f954cce4"
    }
   ],
-  "proof_gaps": [],
-  "draft_en": {
-   "subject": "The industrial 8-port PoE and the Dahua PoE positions on your site - neutral-brand numbers",
-   "body": "Hello SATS Digital team,\n\nOver the past months you had a few product mails from us - most recently \"Managed PoE Switches\" on 25 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the 8-port industrial PoE switch and the Dahua PoE positions on your site, neutral-brand units at distributor price, EXW, from single units, 15-day validity, CE/RoHS: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, unmanaged, -40 to 75 C - model STI-288GP - $60 USD; commercial 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based - STC-28DGGPM - $80.7; budget 4 x PoE+ + 2 x Gigabit - STC-204GP - $24.2.\n\nOne question: which PoE SKU sells most on your platform - the industrial 8-port or the small commercial ones?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
-  },
+  "proof_gaps": [
+   "用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+  ],
+  "draft_en": null,
   "as_of": "2026-10-24"
  }
 }

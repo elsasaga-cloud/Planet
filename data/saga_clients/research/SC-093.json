@@ -1,0 +1,73 @@
+{
+ "code": "SC-093",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（tkhsecurity.com，快照 2026-10-21）",
+ "summary": "TKH Security（荷兰上市 TKH Group 旗下安防管理与停车引导方案商，多国办事处；表内「CCTV Switch / 工业 FS VC MC 自己的牌子；公司比较大」「非常多的国家办事处」；KP Timme Grijpink（CEO）、Adam Fitzgerald（GM）、Javier Vega（Commercial Manager））；群发 25 次无回复。",
+ "type": "上市集团旗下安防方案商",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Security Management & Parking Guidance Solutions | TKH Security；品类词 安防监控（CCTV / 门禁） / 电信 / FTTH / ISP 设备 / 网络交换 / PoE",
+   "quote": "TKH Security delivers smart solutions tailored for industries globally. Explore surveillance, access control, and parking guidance systems designed to protect and optimize operations.",
+   "url": "https://tkhsecurity.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "CCTV Switch；工业FS VC MC 自己的牌子 公司比较大；非常多的国家办事处",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "TKH Security 定位",
+   "quote": "Security Management & Parking Guidance Solutions | TKH Security ; TKH Security delivers smart solutions tailored for industries globally",
+   "url": "https://tkhsecurity.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "自己的牌子 公司比较大",
+   "quote": "CCTV Switch / 工业FS VC MC 自己的牌子 公司比较大；非常多的国家办事处",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "上市集团：TKH Security（TKH Group 旗下），体量过大；c_sub=上市集团/体量过大",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "美国",
+  "other": "官网 tkhsecurity.com，语言 en-US，快照状态 ok；角色判定来源：用户表"
+ },
+ "business_lines": [
+  "安防管理 / 停车引导（TKH Security）"
+ ],
+ "channels": {
+  "role": "上市集团旗下安防方案商",
+  "region": "美国",
+  "contact": "a.fitzgerald@tkhsecurity.com、t.grijpink@tkhsecurity.com"
+ },
+ "signals": [
+  "官网：TKH Security delivers smart solutions tailored for industries globally. Explore surveillance, access control, and parking guidance systems；首页 Security Management ; PARK ASSIST Parking Guidance",
+  "表内：CCTV Switch / 工业 FS VC MC 自己的牌子 公司比较大；非常多的国家办事处"
+ ],
+ "risks": [
+  "上市集团：TKH Security（TKH Group N.V. 旗下），体量大、多国办事处，采购体系封闭；25 次无回复"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 30,
+  "why": "上市集团（TKH Group）旗下、多国办事处、自有硬件品牌 → 采购体系封闭，改 C"
+ },
+ "email_hook": "（不发送：上市集团）"
+}

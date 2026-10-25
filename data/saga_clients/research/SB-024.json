@@ -1,153 +1,133 @@
 {
  "code": "SB-024",
- "name_official": "STS Italia S.r.l.（stsitalia.com，Arcore MB；勿与 sts-italia.it 传感器公司混淆）",
- "researched_at": "2026-10-21",
- "website_status": "在线",
- "summary": "意大利 Arcore（Monza-Brianza）的安防与特种设施集成商（1984 年起，LinkedIn 51–200 人；C.F./P.I. 00865310247，REA 1490600）：火灾探测 IRAI、防盗、排烟 EFC、视频监控、门禁、控制室、车牌识别、无人机巡检；客户含企业、协会与公共行政。用户表：A 优质名单（Italy），1 次实质回复，8 次跟进；联系人 Eros Stefani、Andrea Rongoni。",
- "type": "",
- "size": "",
+ "name_official": "Erstech Technika Kft.（Tatárszentgyörgy，匈牙利）",
+ "website_status": "在线（erstechtechnika.hu；用户记录域 erstech.hu 另属一家土方工程公司，疑为邮箱域混用）",
+ "summary": "匈牙利小型安防/电气安装商（2003 年，主业电气安装 TEÁOR 4321；摄像/报警/空调系统维护），2025 年营收仅 2,798 万福林（≈7 万欧元）；ISAF 2025 到访，MD Janos Hogye 对升压 5 口与 2 光 10 电机型有兴趣，之后 6 次推送 0 回复。",
+ "type": "安装商/小型集成商",
+ "size": "微型（营收 ≈2,800 万 HUF/2025；登记员工 0）",
  "brands_seen": [],
  "evidence": [
   {
-   "kind": "官网",
-   "claim": "法人、地址、税号",
-   "quote": "STS Italia s.r.l. © 2025 … Sede Legale in Via Altiero Spinelli, 134 – 20862 Arcore (MB) | C.F e P.I 00865310247 | REA n° 1490600 della C.C.I.A.A. di Milano Monza Brianza Lodi",
-   "url": "https://www.stsitalia.com/company-profile/",
+   "kind": "企业登记",
+   "claim": "2003 年成立，电气安装，2025 年营收 27,975 千福林",
+   "quote": "Erstech Technika Kereskedelmi és Szolgáltató Kft… 4321 Villanyszerelés… Alapítás éve 2003… 27 975 ezer Ft (2025)",
+   "url": "https://webshop.opten.hu/erstech-technika-kft-c1309108843.html",
    "date": "2026-10-21"
   },
   {
    "kind": "官网",
-   "claim": "业务范围与历史",
-   "quote": "Dal 1984 specializzati in sistemi di sicurezza ed impianti speciali … Forniamo servizi di consulenza, progettazione, installazione, manutenzione, assistenza e pronto intervento su sistemi di rilevazione incendio (IRAI), sistemi antintrusione, sistemi di evacuazione fumi e calore (EFC), videosorveglianza, controllo accessi, control room e lettura targhe e ispezioni aeree con droni",
-   "url": "https://www.stsitalia.com/chi-siamo/",
+   "claim": "承接摄像/报警/空调系统维护；电话 +36 70 708 7930",
+   "quote": "vállalja a nem saját telepítésű kamera- riasztó- és klímarendszerek időszakos karbantartását… Tel: +36 70 708 7930",
+   "url": "https://erstechtechnika.hu/",
    "date": "2026-10-21"
   },
   {
-   "kind": "LinkedIn",
-   "claim": "规模与行业",
-   "quote": "STS Italia S.r.l … Settore: Sicurezza e investigazioni Dimensioni dell'azienda: 51-200 dipendenti Sede principale: Arcore, Lombardia … Data di fondazione: 1984",
-   "url": "https://it.linkedin.com/company/stsitaliasrl",
+   "kind": "第三方",
+   "claim": "erstech.hu 域名对应 Erstech Kft.（2016 年起机械土方），与安防公司非同一主体",
+   "quote": "Cégünk, az Erstech Kft. 2016 óta foglalkozik gépi földmunkával és gépszállítással… info@erstech.hu",
+   "url": "https://tereprendezes-foldmunka.hu/",
    "date": "2026-10-21"
-  },
-  {
-   "kind": "消歧",
-   "claim": "sts-italia.it 为另一家公司（传感器代理）",
-   "quote": "STS ITALIA S.R.L. è stata fondata nel 1992 con l'obiettivo di distribuire in Italia la sensoristica ed i trasduttori di pressione … Via Lambro 36 Opera (MI) … Partita Iva 10621530152",
-   "url": "https://www.sts-italia.it/",
-   "date": "2023-04-26"
   },
   {
    "kind": "用户表",
-   "claim": "A 优质名单（Italy）；1 次实质回复；8 次跟进；联系人 Eros Stefani / Andrea Rongoni",
-   "quote": "（用户表字段）",
+   "claim": "升压 5 口、8 口、2 光 10 电、L2/L3 提问；6 次推送 0 回复",
+   "quote": "对升压5口很有兴趣，问能否做8口的，对2光10电有兴趣，觉得功能强大，问是L2还是L3",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
  "kp": [
   {
-   "name": "Eros Stefani",
-   "role": "联系人（用户表）",
-   "email": "eros.stefani@stsitalia.com",
-   "phone": "—",
-   "source": "用户表"
-  },
-  {
-   "name": "Andrea Rongoni",
-   "role": "联系人（用户表）",
-   "email": "andrea.rongoni@stsitalia.com",
-   "phone": "—",
-   "source": "用户表"
+   "name": "Janos Hogye",
+   "role": "Managing Director",
+   "email": "jhogye@erstech.hu",
+   "phone": "+36 70 708 7960（用户记录）",
+   "source": "用户 Clients 表（ISAF 2025）"
   }
  ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "grade_override": "B",
+ "override_reason": "微型安装商（年营收 ≈7 万欧元）、展后 6 次推送 0 回复；匈牙利非主攻区。需求真实（升压 5 口/2 光 10 电）但体量只够零星小单 → 慢跟。",
+ "notes": "重启用 WA/一次性报价：STI-244GP 类小口数 PoE + 2 光 10 电管理型（核价）。注意 erstech.hu 与 erstechtechnika.hu 域混用，发信用其名片邮箱。",
+ "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网核对 + 同名消歧）"
+  "level": "B 级加厚 v1（基于首轮调研整理 + 需求映射）"
  },
  "company_facts": {
-  "legal_name": "STS Italia S.r.l.",
-  "registry": "C.F./P.I. 00865310247 · REA 1490600（Milano Monza Brianza Lodi）",
-  "founded": "1984",
-  "hq": "Via Altiero Spinelli 134, 20862 Arcore (MB), Italia",
-  "size": "51–200（LinkedIn 自报）",
-  "other": "四位现任股东中两位为创始人；服务链 咨询→设计→安装→维护→抢修；控制室/集中监控能力（「Centralizzazione Impianti Attivi」）；**同名消歧：sts-italia.it = STS Italia S.r.l.（Opera MI，瑞士 STS 压力传感器代理，P.IVA 10621530152）与本客户无关**"
+  "legal_name": "Erstech Technika Kft.",
+  "founded": "2003",
+  "hq": "Tatárszentgyörgy, Hungary（+36 70 708 7930）",
+  "size": "微型（2025 年营收 ≈2,800 万 HUF ≈ €70k）",
+  "other": "电气安装（TEÁOR 4321）+ 摄像/报警/空调维护；域名 erstech.hu 另属土方公司（邮箱域混用）"
  },
  "business_lines": [
-  "火灾探测 IRAI / 排烟 EFC（守界：消防主系统不供货，仅通用网络）",
-  "防盗、视频监控、门禁、车牌识别",
-  "控制室与集中监控、无人机巡检"
+  "电气安装",
+  "摄像/报警/空调系统安装维护"
  ],
  "channels": {
-  "网站": "https://www.stsitalia.com/",
-  "LinkedIn": "https://it.linkedin.com/company/stsitaliasrl"
+  "网站": "https://erstechtechnika.hu/",
+  "电话": "+36 70 708 7930（公开）"
  },
  "signals": [
-  "中型 SI（51–200）+ 控制室业务 → 24 口 PoE+ 与 10G 上联汇聚机有位；公共行政客户多 → 要求 CE/RoHS 文件齐全（Saga 可提供）"
+  "对「升压 5 口」与 2 光 10 电管理型有兴趣、问 L2/L3 → 小型安装商的典型小量采购"
  ],
  "risks": [
-  "消防/排烟系统属生命安全 → 仅供视频/门禁侧通用交换机，不介入 IRAI/EFC 链路",
-  "仅 1 次回复、8 次跟进，热度一般"
+  "微型企业（年营收 €70k）→ 单量极小；6 次推送 0 回复；匈牙利非主动开拓"
  ],
  "saga_fit": {
-  "p1": "STC-424DGGPM-280W",
+  "p1": "STI-144GP",
   "tier": 25,
-  "why": "SI 项目机：STC-424DGGPM-280W（24 PoE+ 280W + 4 SFP）作摄像汇聚，STC-28DGGPM 作边缘；10G 上联升级 STC-424XGGPM-280W；集成商 25% 档"
+  "why": "安装商 25% 档：STI-144GP（DIN 4 PoE + 1 SFP 上联，$35.5）回应「升压 5 口」；8 口 STI-288GP（$59.8）；2 光管理型 STI-280DGGM（L2+，$121.0）"
  },
- "email_hook": "For the CCTV and LPR sites you centralise into the control room, a 24-port PoE+ managed switch with 4 SFP uplinks (280 W budget) is EXW-priced per unit; I can also send the CE/RoHS files you would need for public-administration tenders.",
+ "email_hook": "Janos, on the two models you liked in Essen: the 4-port PoE + 1 SFP DIN switch is $35.5 EXW and the 8-port PoE+ 2 SFP managed (L2+, not L3) is $121.0 — for your camera jobs, do you need the 8-port version with PoE or without?",
  "mail_review": {
   "binding": {
-   "level": "轻度触达（2024-11-20 Eros 回「€..?」→ Simon「280 Euro」STC-448XGGPM；无后续；之后 17 封群发无回；Elsa 箱：`to:stsitalia.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 18 / 来 1）（第 74 批(j)））",
-   "type": "意大利网络/安防分销（STS Italia；Eros = 采购）",
-   "sieve": "2（问价）",
-   "stop": "€280 的 48 口 PoE 管理型没有下文；Simon 没问用途/数量",
-   "revive": "一封问当年项目 + 2026 价",
-   "lane": "IT",
-   "cadence": "一封",
-   "evidence": "k=31786de96cbb8b96 / b552ce1372ae1296"
+   "level": "未触达（A 邮箱 16 封 2025→2026，1 次记录打开，0 回；收件 jhogye@erstech.hu；主题多为「Industrial PoE Switch、48 Port PoE Managed Switch」；Elsa 箱：`to:.hu` 穷举 7 条（2026-10-25，锚批 Bcc 头已读）未见 erstech.hu → Elsa 箱从未发过本户，往来只在 S/A 箱（去 16 / 来 0）（第 74 批(f)））",
+   "type": "安装商/小型集成商",
+   "sieve": "1~2（1 次打开）",
+   "stop": "16 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "匈牙利（欧洲全域主攻）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 16，Opened 标签 1（Simon 群发追踪）；用户表：「对升压5口很有兴趣，问能否做8口的，对2光10电有兴趣，觉得功能强大，问是L2还是L3」；研究档 risks：微型企业（年营收 €70k）→ 单量极小；6 次推送 0 回复；匈牙利非主动开拓"
   },
-  "situation": "一个欧元符号的询价，一个数字的回答，然后两年群发。",
-  "need": "48 口 PoE 管理型机架。",
-  "breakpoint": "无对话。",
+  "situation": "匈牙利小型安防/电气安装商（2003 年，主业电气安装 TEÁOR 4321；摄像/报警/空调系统维护），2025 年营收仅 2,798 万福林（≈7 万欧元）；ISAF 2025 到访，MD Janos Hogye 对升压 5 口与 2 光 10 电机型有兴趣，之后 6 次推送 0 回复。",
+  "need": "安装商 25% 档：STI-144GP（DIN 4 PoE + 1 SFP 上联，$35.5）回应「升压 5 口」；8 口 STI-288GP（$59.8）；2 光管理型 STI-280DGGM（L2+，$121.0）",
+  "breakpoint": "微型企业（年营收 €70k）→ 单量极小；6 次推送 0 回复；匈牙利非主动开拓",
   "saga_now": {
-   "p1": "STC-448XGGPM",
-   "tier": 20,
-   "price": "€280（2024-11）；**第 63 批基准统一（规则 ㉕）**：STC-448XGGPM 由列表价 $369 改为 20% 档 $335.4（2024–25 群发 $300 他没收过；$300 是老汇率价，现在毛利只有 7%）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-14 $280（10G Enterprise SFP Switch）",
-   "why": "意大利分销。已打开的主题（2/18 封有打开记录）：「Re: 48 Port PoE Managed Switch」(2024-11-20)、「10G Enterprise SFP Switch」(2025-10-14) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续 最近一封去信是 2026-10-08 A 邮箱 AC5 管理 PoE 模板（在本档最后一条事实之后）——下一封必须回到真人线程、不再叠模板｜已发资料（勿重发）：STC-448XGGPM(2024-11-20)、Product Link_2026Q2(2026-03-02)、Saga Feature List_7.5.x_L2+(2026-06-25)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）",
+   "p1": "STI-144GP",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-05-30 $300（48 Port PoE Managed Switch）、2025-10-08 $280（10G Enterprise SFP Switch）、2026-06-17 $16000（32 Port 400GB DC Switch）（㉕ 封顶：STI-280DGGM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25）",
+   "why": "安装商 25% 档：STI-144GP（DIN 4 PoE + 1 SFP 上联，$35.5）回应「升压 5 口」；8 口 STI-288GP（$59.8）；2 光管理型 STI-280DGGM（L2+，$121.0）。已打开的主题（1/16 封有打开记录）：「Booster PoE Switch」(2025-11-12) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "2026-11",
-   "channel": "S 邮箱 → eros.stefani@stsitalia.com",
-   "action": "问用途",
-   "one_question": "Eros — was the 48-port PoE for a specific site in 2024, and is the 2026 unit (10G uplinks, 440W) worth a fresh quote?"
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Janos, on the two models you liked in Essen: the 4-port PoE + 1 SFP DIN switch is $35.5 EXW and the 8-port PoE+ 2 SFP managed (L2+, not L3) is $121.0 — for your camera jobs, do you need the 8-port version with PoE or without?"
   },
   "facts": [
    {
-    "date": "2024-11-20",
-    "dir": "来",
-    "who": "Eros Stefani",
-    "quote": "€..?",
-    "why": "问价",
-    "k": "31786de96cbb8b96"
+    "date": "2026-09-14",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "Industrial PoE Switch、48 Port PoE Managed Switch",
+    "why": "16 封 / 1 次打开 / 0 回｜首封 2025-03-20 → 末封 2026-09-14（16 去 / 0 来）",
+    "k": "gmail_digest"
    },
    {
-    "date": "2024-11-20",
-    "dir": "去",
-    "who": "Saga（Simon）",
-    "quote": "Hi, Eros, Thanks for your interest. *Its 280 Euro for this model.* STC-448XGGPM, Commercial PoE Managed Switch 4*1G/2.5G/10G SFP+48*10/100/1000M RJ45+1*Console Port, L2+ managed, Marvell Chip PoE af/at, 440W budget, Support PoE management, PoE watchdog Single AC input, Rack compatible, With mounting…",
-    "why": "Saga 实质答复原文（主题「Re: 48 Port PoE Managed Switch」；第 20 批从 gmail_s 回补）——承诺/口径以此为准",
-    "k": "b552ce1372ae1296"
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "对升压5口很有兴趣，问能否做8口的，对2光10电有兴趣，觉得功能强大，问是L2还是L3",
+    "why": "表内备注",
+    "k": "用户表"
    }
   ],
   "proof_gaps": [],
-  "draft_en": {
-   "subject": "48-port PoE managed — 2026 unit and price",
-   "body": "Hi, Eros,\n\nIn November 2024 you asked \"euro?\" for a 48-port PoE managed switch and we quoted 280 EUR; the current unit is a different generation:\n\n- STC-448XGGPM: 48x GbE PoE+ 440 W (850 W optional) + 4x 10G SFP+, L2+, Marvell AC5 — $335 USD EXW (2026-10 price table, valid 15 days from this mail)\n\nOne question: was the 48-port for a specific site in 2024, and is it worth a fresh quote for 2026 projects?\n\nThank you.\nSimon\nSaga Telecom - sagatele.com"
-  },
+  "draft_en": null,
   "as_of": "2026-10-24"
  }
 }

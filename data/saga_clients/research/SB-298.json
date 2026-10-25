@@ -1,167 +1,128 @@
 {
  "code": "SB-298",
- "name_official": "SURE24 Ltd / SURE Transport（SURE Solutions），Bingham/Nottingham, UK；sure24.co.uk / suretransport.co.uk",
+ "name_official": "VNS Technologies LLC（阿布扎比）",
  "researched_at": "2026-10-21",
- "website_status": "在线",
- "summary": "英国诺丁汉的车载 CCTV 供应商（SURE24 1992 年成立，11–50 人；姐妹公司 SURE Transport/SURE Solutions 专供 Tier 1/2 巴士运营商：Go-Ahead 全英 5,000 辆巴士车载 CCTV 支持合同、Lothian、West Coast Motors；产品 Timespace V400、自有品牌 SUREMDVR 系列（E-mark E11、DC 8–36 V、4G/GPS）、车队追踪云、全国汽车电工安装网络；客户还含警察、货车、HGV、应急服务）。展会记录：需求与斯洛文尼亚客户相似——基本只要 5/8 口、偶尔 PoE、不要 10/12/16 口，看了实物图和 E-mark 证书；联系人 Callum（callum@sure24.co.uk）；18 次跟进 0 回复。车载（非轨道）DC 供电小交换机 → STI 系列对口。",
+ "website_status": "在线（vnstech.com，快照 2026-10-21）",
+ "summary": "阿布扎比（+971 2 666 7757）安防 / 网络集成与分销商（组合品牌 H3C、Huawei、AETEK、Network Optix、Rasilient、Irisity、Securicorp；2019 年度创新安防产品奖），Executive Director Abdul Gafoor：**与 AETEK 合作 5 年**，看了工业 2 光 8 管理 PoE 与商用 2 光 24 电，问 L2 还是 L3，会来深圳；20 次跟进无实质回复。",
  "type": "",
  "size": "",
  "brands_seen": [
-  "SURE / SUREMDVR（自有品牌）",
-  "Timespace"
+  "AETEK",
+  "H3C",
+  "Huawei",
+  "Network Optix",
+  "Rasilient"
  ],
  "evidence": [
   {
-   "kind": "官网",
-   "claim": "车载 CCTV 定位与客户",
-   "quote": "SURE transport is known in the industry for supplying CCTV equipment to Tier 1 and 2 bus operators across the UK. With sister company SURE24 having been a CCTV brand for over a decade",
-   "url": "https://suretransport.co.uk/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "自有品牌 MDVR 规格",
-   "quote": "MDVR4S - Digital Video Recorder £456.00 £380.00 - E-Marked E11 - 720p HD Resolution - With 4G Data - 4 Video Channels … DC8-36V 5% ≤10W",
-   "url": "https://www.sure24.co.uk/sure24-brands-we-work-with/cctv-security-brands/sure-transport",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网 PDF",
-   "claim": "Go-Ahead 合同",
-   "quote": "SURE24, the Nottingham-based tech company inked a deal with Go-Ahead, one of the UK's leading public transport providers, to provide on-board CCTV support services for all 5,000 of its UK buses.",
-   "url": "https://www.sure24.co.uk/misc/CBW%20INSERT%20GO-AHEAD.pdf",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "LinkedIn",
-   "claim": "规模",
-   "quote": "SURE24 Ltd … Company size: 11-50 employees Headquarters: Bingham, Nottinghamshire … Founded: 1992 Specialties: CCTV, Security, … Transport, and Police",
-   "url": "https://uk.linkedin.com/company/sure24-ltd",
+   "kind": "官网快照",
+   "claim": "组合品牌 H3C / Securicorp / Network Optix / Fortem / AETEK / Rasilient / Irisity / Huawei；+971 2 666 7757；surveillance 25",
+   "quote": "Portfolio H3C Securicorp Network Optix Fortem AETEK RASILIENT Infiniti IRISITY Huawei… +971 2 666 7757",
+   "url": "https://vnstech.com/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "需求 5/8 口、偶尔 PoE；看了 E-mark 证书；18 次跟进 0 回复",
-   "quote": "需求和斯洛文尼亚客户高度相似，基本只要5 8口，偶尔要PoE，基本不要10/12/16口，在电脑上给他看了实物图和E-mark证书",
+   "claim": "和 aetek 合作了 5 年；工业品看了 2 光 8 管理 POE；商业看了 2 光 24 电，问了管理是 2 层还是 3 层；会来深圳",
+   "quote": "兴趣：和aetek合作了5年了，工业品看了2光8管理POE 商业看了2光24电，问了管理是2层还是3层 会来深圳",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Abdul Gafoor",
+   "title": "Executive Director",
+   "email": "gafoor@vnstech.com",
+   "phone": "+971 2 666 7757",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网核对）"
+  "level": "B 级加厚 v1（官网快照核对：AETEK 渠道）"
  },
  "company_facts": {
-  "legal_name": "SURE24 Ltd（姐妹 SURE Transport / SURE Solutions）",
-  "founded": "1992（SURE24）/ 1990（SURE Solutions 口径）",
-  "hq": "Bingham, Nottinghamshire, UK（+44 1949 836990；sales@sure24.co.uk）",
-  "size": "11–50（LinkedIn）",
-  "other": "Go-Ahead 5,000 辆巴士合同；SUREMDVR 自有品牌（E-mark）；产线前装 + 后装；车队追踪云"
+  "legal_name": "VNS Technologies LLC",
+  "founded": "（待核）",
+  "hq": "Abu Dhabi, UAE",
+  "size": "中小型安防集成 / 分销",
+  "other": "AETEK 阿联酋伙伴 5 年"
  },
  "business_lines": [
-  "巴士/长途车/货车/警用车载 CCTV 与 MDVR（自有品牌 SUREMDVR）",
-  "车队追踪与 CCTV 健康云",
-  "安装与维护网络（全国汽车电工）"
- ],
- "products_seen": [
-  {
-   "brand": "SURE",
-   "model": "MDVR4S（4G）",
-   "spec": "4 路 AHD 720p，E-Marked E11，DC 8–36 V，≤10 W，£380",
-   "url": "https://www.sure24.co.uk/sure24-brands-we-work-with/cctv-security-brands/sure-transport",
-   "date": "2026-10-21",
-   "saga": "车内 IP 化时配 STI-054GP（4 PoE + 1 上联，DC 44–57 V）"
-  },
-  {
-   "brand": "Timespace",
-   "model": "DVR-V400-16",
-   "spec": "16 路，1 IP 通道，E-Marked，£1,830",
-   "url": "https://www.sure24.co.uk/solutions/transport-by-vehicle/bus-and-coach-cctv",
-   "date": "2026-10-21",
-   "saga": "STI-050GE（5 GE 非管理）"
-  }
+  "安防监控集成（VMS、存储、AI 分析）",
+  "网络（H3C / Huawei / AETEK PoE）"
  ],
  "channels": {
-  "网站": "https://www.sure24.co.uk/ · https://suretransport.co.uk/",
-  "电话": "+44 1949 836990（公开）",
-  "邮箱（公开）": "sales@sure24.co.uk"
+  "role": "安防集成 + 分销（AETEK 渠道）",
+  "region": "阿联酋（阿布扎比）"
  },
  "signals": [
-  "车载 IP 摄像转型需 5/8 口 DC 宽压交换机（DC 8–36 V 车电 → 需 12–58 V DC 输入 + E-mark）；自有品牌 → 可贴 SURE 标",
-  "18 次跟进说明重视；对方曾看 E-mark 证书 → 下一步直接给 E-mark 报告与振动/温度数据"
+  "AETEK（台系 PoE 品牌）5 年渠道 → 对台系价位熟悉，Saga 可作低价补充",
+  "已看两款具体机型并问 L2/L3",
+  "计划访深圳 → 可安排 SmartByte 工厂参观"
  ],
  "risks": [
-  "车载需 E-mark（E/e 标）与振动（ISO 16750）证明——需 SmartByte 提供；公共交通（巴士）非轨道，不在守界；18 次跟进 0 回复"
+  "阿布扎比政府 / 关键设施项目守界（按单核）",
+  "20 次跟进无回复"
  ],
  "saga_fit": {
-  "p1": "STI-050GE",
-  "tier": 30,
-  "why": "OEM/自有品牌 30% 档：STI-050GE（DIN 迷你 5 GE 非管理，DC 12–36 V 正合巴士 24 V 车电，−40~+75 ℃，$18.5）/ STI-080GE（8 口，DC 12–58 V，$34.0）作车载基础交换；偶尔 PoE 用 STI-054GP（4 PoE + 1 上联，DC 44–57 V 需升压，$33.8）；需随附 E-mark 证书"
+  "p1": "STI-288GPM",
+  "tier": 25,
+  "why": "工业 2 光 8 管理 PoE = STI-288GPM（$82.2 @25%，L2）；商用 2 光 24 电 → STC-424DGGPM-280W（L2+）/ L3 版 STC-424XGGM(L3)。"
  },
- "email_hook": "Callum, for the bus kits: the mini 5-port gigabit DIN switch (12–36 V DC, −40 to +75 °C, E-mark report available) is $18.5 EXW and the 8-port $34.0, with a 4-port PoE variant at $33.8 for IP cameras; how many vehicles per month are you fitting with IP cameras now?",
+ "email_hook": "Mr. Gafoor, to your L2-or-L3 question: the 24-PoE unit is L2+ (static routing) and there's a full L3 24+4×10G at $280; the industrial 2-SFP + 8-PoE is L2 managed at $82. When you're next in Shenzhen, shall I arrange the factory visit?",
  "mail_review": {
   "binding": {
-   "level": "未触达（A/S 邮箱 27 封 2024→2026，1 次记录打开，0 回；收件 callum@sure24.co.uk, sales@sure24.co.uk；主题多为「Industrial PoE Switch、10G Enterprise SFP Switch」；Elsa 箱：`to:.uk` 穷举 34 条（2026-10-25，锚批 Bcc 头已读）未见 suretransport.co.uk / sure24.co.uk → Elsa 箱从未发过本户，往来只在 S/A 箱（去 27 / 来 0）（第 74 批(f)））",
+   "level": "未触达（A/S 邮箱 28 封 2024→2026，无记录打开，0 回；收件 gafoor@vnstech.com；主题多为「Industrial PoE Switch、10G Enterprise SFP Switch」；Elsa 箱：`to:vnstech.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 28 / 来 0）（第 74 批(n)））",
    "type": "—",
-   "sieve": "1~2（1 次打开）",
-   "stop": "27 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
-   "lane": "UK 主攻（四主）",
-   "cadence": "一封",
-   "evidence": "gmail_digest：out 27，Opened 标签 1（Simon 群发追踪）；用户表：「需求和斯洛文尼亚客户高度相似，基本只要5 8口，偶尔要PoE，基本不要10/12/16口，在电脑上给他看了实物图和E-mark证书」；研究档 risks：车载需 E-mark（E/e 标）与振动（ISO 16750）证明——需 SmartByte 提供；公共交通（巴士）非轨道，不在守界；18 次跟进 0 回复"
+   "sieve": "1（只收到群发）",
+   "stop": "28 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱；Q-33 供应商渠道客户",
+   "revive": "不动（Q-33）",
+   "lane": "阿联酋 非主攻",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 28；用户表：「兴趣：和aetek合作了5年了，工业品看了2光8管理POE 商业看了2光24电，问了管理是2层还是3层 会来深圳」；研究档 risks：阿布扎比政府 / 关键设施项目守界（按单核）"
   },
-  "situation": "英国诺丁汉的车载 CCTV 供应商（SURE24 1992 年成立，11–50 人；姐妹公司 SURE Transport/SURE Solutions 专供 Tier 1/2 巴士运营商：Go-Ahead 全英 5,000 辆巴士车载 CCTV 支持合同、Lothian、West Coast Motors；产品 Timespace V400、自有品牌 SUREMDVR 系列（E-mark E11、DC 8–36 V、4G/GPS）、车队追踪云、全国汽车电工安装网络；客户还含警察、货车、HGV、应急服务）。展会记录：需求与斯洛文尼亚客户相似——基本只要 5/8 口、偶尔 PoE、不要 10/12/16 口，看了实物图和 E-mark 证书；联系人 Callum（callum@sure24.co.uk）；18 次跟进 0 回复。车载（非轨道）DC 供电小交换机 → STI 系列对口。",
-  "need": "OEM/自有品牌 30% 档：STI-050GE（DIN 迷你 5 GE 非管理，DC 12–36 V 正合巴士 24 V 车电，−40~+75 ℃，$18.5）/ STI-080GE（8 口，DC 12–58 V，$34.0）作车载基础交换；偶尔 PoE 用 STI-054GP（4 PoE + 1 上联，DC 44–57 V 需升压，$33.8）；需随附 E-mark 证书",
-  "breakpoint": "车载需 E-mark（E/e 标）与振动（ISO 16750）证明——需 SmartByte 提供；公共交通（巴士）非轨道，不在守界；18 次跟进 0 回复",
+  "situation": "阿布扎比（+971 2 666 7757）安防 / 网络集成与分销商（组合品牌 H3C、Huawei、AETEK、Network Optix、Rasilient、Irisity、Securicorp；2019 年度创新安防产品奖），Executive Director Abdul Gafoor：**与 AETEK 合作 5 年**，看了工业 2 光 8 管理 PoE 与商用 2 光 24 电，问 L2 还是 L3，会来深圳；20 次跟进无实质回复。",
+  "need": "工业 2 光 8 管理 PoE = STI-288GPM（$82.2 @25%，L2）；商用 2 光 24 电 → STC-424DGGPM-280W（L2+）/ L3 版 STC-424XGGM(L3)。",
+  "breakpoint": "阿布扎比政府 / 关键设施项目守界（按单核）",
   "saga_now": {
-   "p1": "STI-050GE",
-   "tier": 30,
-   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-21 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-12-04 $65（10G Media Converter）、2025-10-01 $280（10G Enterprise SFP Switch）",
-   "why": "OEM/自有品牌 30% 档：STI-050GE（DIN 迷你 5 GE 非管理，DC 12–36 V 正合巴士 24 V 车电，−40~+75 ℃，$18.5）/ STI-080GE（8 口，DC 12–58 V，$34.0）作车载基础交换；偶尔 PoE 用 STI-054GP（4 PoE + 1 上联，DC 44–57 V 需升压，$33.8）；需随附 E-mark 证书。已打开的主题（1/27 封有打开记录）：「10G Media Converter」(2024-12-04) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续",
+   "p1": "STI-288GPM",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-06 $300（48 Port PoE Managed Switch）、2024-12-24 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-07-23 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-25 $280（10G Enterprise SFP Switch）、2026-06-22 $16000（32 Port 400GB DC Switch）",
+   "why": "工业 2 光 8 管理 PoE = STI-288GPM（$82.2 @25%，L2）；商用 2 光 24 电 → STC-424DGGPM-280W（L2+）/ L3 版 STC-424XGGM(L3)。",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "2027-Q1（换人后）",
-   "channel": "A 邮箱 → 具名 KP",
-   "action": "换收件人再发一封（第 75 批(x) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用）；E-mark 不写「available」——只提他在展会看过的材料；Simon 发前核实手头 E-mark 文件）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
-   "one_question": "Callum, for the bus kits: the mini 5-port gigabit DIN switch (12–36 V DC, −40 to +75 °C, UKCA/CE/RoHS; no E-mark) is $18.5 EXW and the 8-port $34.0, with a 4-port PoE variant at $33.8 for IP cameras; how many vehicles per month are you fitting with IP cameras now?"
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
   },
   "facts": [
    {
-    "date": "2026-08-21",
+    "date": "2026-09-29",
     "dir": "去",
     "who": "A/S 群发",
     "quote": "Industrial PoE Switch、10G Enterprise SFP Switch",
-    "why": "27 封 / 1 次打开 / 0 回｜首封 2024-07-05 → 末封 2026-08-21（27 去 / 0 来）",
+    "why": "28 封 / 0 次打开 / 0 回｜首封 2024-07-08 → 末封 2026-09-29（28 去 / 0 来）",
     "k": "gmail_digest"
    },
    {
     "date": "2026-10-21",
     "dir": "用户表",
     "who": "Simon",
-    "quote": "需求和斯洛文尼亚客户高度相似，基本只要5 8口，偶尔要PoE，基本不要10/12/16口，在电脑上给他看了实物图和E-mark证书",
+    "quote": "兴趣：和aetek合作了5年了，工业品看了2光8管理POE 商业看了2光24电，问了管理是2层还是3层 会来深圳",
     "why": "表内备注",
     "k": "用户表"
-   },
-   {
-    "date": "2026-08-21",
-    "dir": "去",
-    "who": "A 箱（Alan）",
-    "quote": "24 Port PoE Managed Switch",
-    "why": "本日去信真实主题（邮箱索引 35527f8452c179e1；信稿开头句引用此封；此前稿内写的「Industrial PoE Switch」是线程列表首题，不是本封）",
-    "k": "35527f8452c179e1"
    }
   ],
   "proof_gaps": [],
-  "draft_en": {
-   "subject": "For the bus kits - the 5- and 8-port DIN switches you saw at the show",
-   "body": "Hi Callum,\n\nOver the past months you had a few product mails from us - most recently \"24 Port PoE Managed Switch\" on 21 August 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nAt the show you saw the units and the paperwork on my screen; your requirement was clear - 5 or 8 ports, occasionally PoE, not the bigger boxes. For the bus kits, under the SURE label from small lots, -40 to 75 C, CE/RoHS/UKCA: mini DIN-rail 5 x Gigabit, 12-36 V DC straight from the 24 V vehicle supply - model STI-050GE - $18.5 USD EXW (MOQ 1, 15-day validity); 8-port, 12-58 V DC - STI-080GE - $32.5; 4 x Gigabit PoE+ + 1 x uplink for IP cameras (44-57 V DC, so a DC-DC in front) - STI-054GP - $33.8.\n\nOne question: how many vehicles per month are you fitting with IP cameras now?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
-  },
+  "draft_en": null,
   "as_of": "2026-10-24"
  }
 }

@@ -55,12 +55,12 @@ FORBIDDEN = re.compile(r'\bERPS\b|\bCLI\b|watchdog|in stock|free sample|list pri
                        r'E-mark report|LACP|SNMP ?v[23]|wall-mount|alarm relay|250 ?m\b', re.I)
 # 已人工核过、允许保留的（档号 → 词）：客户自己的项目名 / 真实线程 / 客户要求的原厂名 / 固件 7.5 实证
 ALLOW_FORBIDDEN = {
-    'SB-093': {'watchdog'}, 'SA-013': set(), 'SB-473': {'CLI'}, 'SB-1336': {'CLI', 'SNMP v2', 'SNMP v3'}, 'SB-761': {'SNMP v3'}, 'SB-040': {'CLI'},
-    'SA-091': {'CLI'}, 'SB-679': {'CLI'}, 'SB-1088': {'NDAA-compliant'}, 'SA-052': {'watchdog'},
-    'SC-396': {'SNMP v3', 'CLI'},  # CENTEC STOS：CLI 手册 + Function List V2.4 均有 SNMPv3（Extra_Info STH）
-    'SA-024': {'SNMPv3'},            # 复述客户 2025-01-16 标书原话（LACP/IPv6/Voice VLAN/SNMPv3/SSHv2）
-    'SB-093': {'watchdog', '250 m'},  # 复述我方 2026-05-05 对 17 问的答复 + 2026-09-14 Alan 原话「PoE watchdog and 250-meter PoE」
-    'SC-2186': {'CLI', 'SNMP v3'},    # CENTEC 核心机（Hohunet）CLI/SNMPv3 属实，红线只针对 Marvell/非管理线
+    'SB-164': {'watchdog'}, 'SA-008': set(), 'SA-086': {'CLI'}, 'SB-1114': {'CLI', 'SNMP v2', 'SNMP v3'}, 'SB-701': {'SNMP v3'}, 'SB-119': {'CLI'},
+    'SA-058': {'CLI'}, 'SB-641': {'CLI'}, 'SB-959': {'NDAA-compliant'}, 'SA-035': {'watchdog'},
+    'SB-1121': {'SNMP v3', 'CLI'},  # CENTEC STOS：CLI 手册 + Function List V2.4 均有 SNMPv3（Extra_Info STH）
+    'SA-015': {'SNMPv3'},            # 复述客户 2025-01-16 标书原话（LACP/IPv6/Voice VLAN/SNMPv3/SSHv2）
+    'SB-164': {'watchdog', '250 m'},  # 复述我方 2026-05-05 对 17 问的答复 + 2026-09-14 Alan 原话「PoE watchdog and 250-meter PoE」
+    'SB-1139': {'CLI', 'SNMP v3'},    # CENTEC 核心机（Hohunet）CLI/SNMPv3 属实，红线只针对 Marvell/非管理线
 }
 MODEL_RE = re.compile(r'\b(ST[CIH]-[0-9A-Z]+(?:-[0-9A-Z]+)*)\b')
 PRICE_RE = re.compile(r'(?:\$|USD)\s?([\d,]+(?:\.\d+)?)|([\d,]+(?:\.\d+)?)\s?USD')
@@ -77,7 +77,7 @@ NONASCII_OK = set('’“”–—é·°×−…')
 PRIVATE_SUBJ = ('WhatsApp', '私信', '模板', '触发', 'LinkedIn', 'Türkçe', '整段', '微信', 'WeChat')
 EN_WORDS = {'the', 'and', 'you', 'for', 'we', 'a', 'to', 'of', 'in', 'is', 'on', 'with', 'your', 'our', 'one', 'question', 'this', 'that', 'it', 'at', 'from', 'which', 'are', 'or', 'an', 'as', 'be', 'if', 'not', 'have', 'has', 'was', 'will', 'can', 'do', 'but', 'by', 'us', 'so', 'no', 'what', 'would', 'there', 'still', 'just', 'only', 'same', 'last', 'most', 'mail', 'mails', 'price', 'switch', 'switches', 'port', 'ports', 'per', 'unit', 'units', 'days', 'day', 'working', 'regards', 'best', 'hello', 'hi', 'dear', 'thank', 'thanks', 'please', 'any', 'all', 'more', 'than', 'when', 'who', 'how', 'since', 'about', 'into', 'over', 'under', 'after', 'before', 'both', 'each', 'then', 'here', 'they', 'them', 'their', 'its', 'also', 'very', 'much', 'many', 'some', 'sent', 'send', 'answer', 'reply', 'write', 'wrote', 'asked', 'ask', 'need', 'use', 'model', 'models'}
 SIGN_RE = re.compile(r'\n(?:Best regards|Regards|Kind regards|Thank you)[,.]?\s*\n+\s*([^\n]{1,40})\n')
-CERT_LIST_OK = {'SA-067'}  # 供应商档案：列出我方持有的 FCC/UKCA 报告，不是对瑞典客户主张
+CERT_LIST_OK = {'SA-043'}  # 供应商档案：列出我方持有的 FCC/UKCA 报告，不是对瑞典客户主张
 
 
 QUOTE_CSV = os.path.join(ROOT, 'data', 'S邮箱_报价史_2026-10-22.csv')

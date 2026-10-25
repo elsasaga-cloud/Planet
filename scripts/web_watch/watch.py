@@ -8,7 +8,7 @@
 
 用法（GitHub Actions 运行器；Arena 沙箱无外网，只能跑 --selftest）：
     python scripts/web_watch/watch.py              # 抓全部源，写 data/customer_watch/，在 Actions 内自动提交推送
-    python scripts/web_watch/watch.py --only SA-168 SA-006
+    python scripts/web_watch/watch.py --only SA-077 SB-001
     python scripts/web_watch/watch.py --no-commit
     python scripts/web_watch/watch.py --selftest   # 用内置样本测试各解析器（不联网）
 

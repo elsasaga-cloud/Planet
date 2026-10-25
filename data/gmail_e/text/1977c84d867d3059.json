@@ -11,7 +11,7 @@
  "text": "Hi, Sarwar,\n\n*Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged,\nnon-PoE, DC5~12V input, with power adapter.*\n\nPlease see attached datasheet.\n\nThank you.\n-\n\nElsa\n\nSaga Telecom/OEM Factory\n\nConnecting, Converting, Creating\n\nTailored Marvell Managed Networking Solutions Provider",
  "char_count": "309",
  "attachments": "[{'filename': 'image001.jpg', 'mime_type': 'image/jpeg', 'size': 61538}, {'filename': 'image002.jpg', 'mime_type': 'image/jpeg', 'size': 21548}, {'filename': 'STC-110XGE.pdf', 'mime_type': 'application/pdf', 'size': 1616090}]",
- "note": "SB-656 CITS India（Sarwar）：Elsa 2025-06-17 报 10G 媒体转换器 STC-110XGE $65/pc（1×10G SFP+ + 1×multi-gig，非管理，含电源）+ 规格书",
+ "note": "SB-630 CITS India（Sarwar）：Elsa 2025-06-17 报 10G 媒体转换器 STC-110XGE $65/pc（1×10G SFP+ + 1×multi-gig，非管理，含电源）+ 规格书",
  "text_source": "text/plain",
  "fetched": "2026-10-24T16:03Z",
  "method": "Arena Gmail connector get_message_text(include_quoted=false)"

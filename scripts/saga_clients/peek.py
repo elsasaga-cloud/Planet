@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""peek.py SA-009 SA-014  → 打印编号区间内实体的关键信号（供调研时快速判断）。"""
+"""peek.py SB-004 SA-009  → 打印编号区间内实体的关键信号（供调研时快速判断）。"""
 import json, os, sys
 from common import DATA
 E={e['code']:e for e in json.load(open(os.path.join(DATA,'entities.json'),encoding='utf-8'))}

@@ -1,0 +1,455 @@
+# SB-216 ltsecurityinc.com.au · news_2 · https://www.ltsecurityinc.com.au/blog/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+Ajax Multi-transmitter
+Trade Register
+Products
+About Us
+Solutions
+Ajax Systems - Intrusion | Access | CCTV
+Alarms | Access | Automation | CCTV
+Sim & Cloud Services
+Fibra (Hybrid Alarm)
+Ajax - Scenario Simulator
+Ajax - Installer & Reference Guide
+Multi-Transmitter (Old Alarm changeover)
+Armatura - Access Control
+CERTECH - Certified Cabling
+Cloud Storage
+Ethernet or POE over coax and 2-wire
+Intercoms | Access | Healthcare | Smart Home
+Healthcare
+Healthcare - MR01 VS MR02 Radar
+Akuvox Intercoms | Access
+Professional Services
+Akubela Smart Home Automation
+KNX Partner - Smart Home Automation
+LTS CCTV & Intercoms
+Active-Guard
+Anti-Corrosion IP Camera - LTS Platinum
+Anti-Corrosion - Xtreme - LTS Platinum
+CCTV Gadgets
+Control4
+Colour247
+DeepVision Semantic Search
+Direct Search - AI
+Human & Vehicle Classification Technology
+Human & Vehicle Tracking PTZ
+Intercoms - LTS
+License Plate Recognition
+Outdoor Surveillance box
+People Counting Camera
+Panoramic IP Camera - 180 Degrees - 4K/8MP
+PRO-X NDAA Compliant
+Slimline Wall Mount - Vertical Rack / Cabinet
+Thermal Products
+X-VMS
+Solar - CCTV & Intrusion
+CCTV Solar
+CCTV Outdoor Alarm
+Solar Calculator - 3rd Party
+News
+Contact Us
+Support
+AJAX Systems
+Ajax - Cloud Storage Calculator
+Ajax - Pro Software
+Ajax - Web Tools
+Ajax - Hub Comparison Tool
+Ajax - Scenario Simulator
+Ajax - Installer & Reference Guide
+AKUVOX
+Akubela
+Akuvox - Knowledge-base
+Akuvox - Downloads
+Akuvox - Cloud login
+Akuvox - Doorstation Selector
+Akuvox - Cloud Services Calculator
+Akuvox - Site Programming Form
+LTS
+Camera / NVR Compatibility Chart
+Camera Brackets Summary Chart
+Downloads
+FAQ
+Firmware (AU)
+Firmware (USA)
+LTS Platinum Partner (LPP)
+LTS Platinum - Teams
+NVMS7000 migration to LTS Connect
+Password reset (Installer)
+Quick Guides
+Tech Support
+Unbind Device - RMA
+Account Application Forms
+Catalogues
+End Users - Support
+Professional Services
+RMA Form
+Tools
+Bandwidth Calculator
+FOV Calculator
+HDD Calculator
+POE Calculator
+UPS Calculator
+Voltage Drop Calculator
+LTS NVR Comparison Tool
+Training - LTS Academy
+YouTube Channel
+Webinars
+Click a category on the left to switch — the panel stays open. Click a product link, or anywhere outside this panel, to close it.
+0
+About Us
+Solutions
+News
+Contact Us
+Support
+Webinars
+Alarms & Home Automation
+Ajax Wireless
+Accessories
+Air Quality Sensors
+Automation
+Brackets
+Control Panels
+Controls & Panic Buttons
+Doorbells
+Fire Detection
+Flood Prevention
+Indoor Sensors
+Keypads
+Outdoor Sensors
+Range Extenders
+Sirens
+Transmitters
+Kits
+Ajax Fibra (Wired)
+Cases
+Control Panels
+Indoor Sensors
+Keypads
+Modules
+Sirens
+Transmitters
+Akubela
+Wireless Add-Ons
+Automation Add-Ons
+Hypanels
+Smart-Locks
+Cabling, Racks & Cable Management
+Cable
+Cable Management
+Jacks & Couplers
+Patch Panels
+Racks & Cabinets
+RG59 Cable & Accessories
+Shelves
+CCTV & Recorders
+Ajax CCTV
+Cameras
+Camera Brackets
+CCTV Kits
+NVRs
+HD-TVI
+Accessories
+Cameras
+CCTV Kits
+DVR + HDD
+DVR Barebone
+Platinum
+Cameras
+Camera Brackets
+CCTV Kits
+NVR + HDD
+NVR Barebone
+PRO-X
+Cameras
+Camera Brackets
+CCTV Kits
+NVRs
+EZVIZ
+Clearance Items
+Intercom & Access Control
+Akuvox
+Accessories
+Access Control
+Brackets
+Door Stations
+Health Care
+Indoor Monitors
+2-Wire
+Armatura
+Accessories
+Biometrics
+Control Units
+Credentials
+Licenses
+Readers
+LTS Intercom
+2-Wire
+Brackets & Accessories
+IP
+Video Doorbell
+Universal / Lift Controllers
+Kits & Bundles
+Ajax Alarm
+Ajax CCTV
+Akuvox Intercom
+LTS Intercom
+LTS Platinum CCTV
+LTS PRO-X CCTV
+Solar
+Monitors & Displays
+Advertising Screens
+LCD Brackets
+LCD Monitors
+CCTV Testers
+HDMI
+Security Grade LCD Monitors
+Networking
+4G Industrial Routers
+Cyber Security
+Engenius WiFi
+Ideal Connectors & Tools
+LTS Industrial
+Networking Accessories
+Switches / POE
+Wi-Fi
+Power, Storage & Batteries
+Batteries
+Hard Drives
+Power Supplies
+SD Cards
+Solar
+UPS
+Categories
+Alarms & Home Automation
+Ajax Wireless
+Accessories
+Air Quality Sensors
+Automation
+Brackets
+Control Panels
+Controls & Panic Buttons
+Doorbells
+Fire Detection
+Flood Prevention
+Indoor Sensors
+Keypads
+Outdoor Sensors
+Range Extenders
+Sirens
+Transmitters
+Kits
+Ajax Fibra (Wired)
+Cases
+Control Panels
+Indoor Sensors
+Keypads
+Modules
+Sirens
+Transmitters
+Akubela
+Wireless Add-Ons
+Automation Add-Ons
+Hypanels
+Smart-Locks
+Cabling, Racks & Cable Management
+Cable
+Cable Management
+Jacks & Couplers
+Patch Panels
+Racks & Cabinets
+RG59 Cable & Accessories
+Shelves
+CCTV & Recorders
+Ajax CCTV
+Cameras
+Camera Brackets
+CCTV Kits
+NVRs
+HD-TVI
+Accessories
+Cameras
+CCTV Kits
+DVR + HDD
+DVR Barebone
+Platinum
+Cameras
+Camera Brackets
+CCTV Kits
+NVR + HDD
+NVR Barebone
+PRO-X
+Cameras
+Camera Brackets
+CCTV Kits
+NVRs
+EZVIZ
+Clearance Items
+Intercom & Access Control
+Akuvox
+Accessories
+Access Control
+Brackets
+Door Stations
+Health Care
+Indoor Monitors
+2-Wire
+Armatura
+Accessories
+Biometrics
+Control Units
+Credentials
+Licenses
+Readers
+LTS Intercom
+2-Wire
+Brackets & Accessories
+IP
+Video Doorbell
+Universal / Lift Controllers
+Kits & Bundles
+Ajax Alarm
+Ajax CCTV
+Akuvox Intercom
+LTS Intercom
+LTS Platinum CCTV
+LTS PRO-X CCTV
+Solar
+Monitors & Displays
+Advertising Screens
+LCD Brackets
+LCD Monitors
+CCTV Testers
+HDMI
+Security Grade LCD Monitors
+Networking
+4G Industrial Routers
+Cyber Security
+Engenius WiFi
+Ideal Connectors & Tools
+LTS Industrial
+Networking Accessories
+Switches / POE
+Wi-Fi
+Power, Storage & Batteries
+Batteries
+Hard Drives
+Power Supplies
+SD Cards
+Solar
+UPS
+Information
+About Us
+Returns Policy
+Contact Us
+Home
+Ajax Multi-transmitter
+LTS Security Australia
+Ajax Systems Change-Over Kit Contact View the Kit
+Ajax MultiTransmitter Upgrade Path
+Turn Any Legacy Wired Alarm Into a Smart Ajax System — No Rewiring Required
+The Ajax MultiTransmitter bridges your client's existing wired sensors straight into the Ajax wireless ecosystem. Same cable runs, same sensors on the wall — a completely modern system with app control, cloud + SIM monitoring, and anti-jamming protection on top.
+View the Change-Over Kit See How It Works ↓
+18
+wired zones per MultiTransmitter
+0m
+new cable required*
+5yr
+battery on wireless accessories
+2km
+Jeweller wireless range
+*Existing zone wiring is reused via the MultiTransmitter's terminal block. New wireless accessories (siren, keypad) need no cabling at all.
+The Problem With Legacy Alarms
+Old Panels Are Running Out of Runway
+Copper phone lines are being switched off nationally, spare parts for discontinued panels are drying up, and clients increasingly expect to see and control their alarm from a phone — not just a beige keypad by the front door. None of that is optional anymore; it's what clients now assume "a security system" means.
+✕ Copper/PSTN phone-line dialers are being decommissioned across Australia
+✕ No smartphone app, no push alerts, no remote arm/disarm
+✕ Zero jamming detection — an easy target for a determined intruder
+✕ Replacement panels, keypads and boards are increasingly hard to source
+The Fix
+One Small Module Bridges Old Wiring Into a New Ajax System
+The Ajax MultiTransmitter connects up to 18 wired zones — from any brand of PIR, reed switch, glass-break or panic button — directly onto its terminal block, exactly like the old panel did. It then encrypts and relays every one of those zones wirelessly over Ajax's Jeweller protocol to a Hub 2 up to 2km away. The cable stays in the wall. The sensors stay on the wall. Only the panel changes.
+18 wired zones 2 tamper-monitored inputs Backup battery + 12V input Encrypted Jeweller radio ~1 visit typical swap
+★ The Biggest Upsell In This Whole Job
+This Isn't a Like-for-Like Swap — It's a Hub With Room for 100 Devices
+The Hub 2 supports up to 100 devices in total . Every wired zone landed on the MultiTransmitter only counts as one of those 100 — so a typical 8–12 zone change-over still leaves 80–90+ slots free for genuine wireless Ajax devices, added with zero extra cabling. That headroom is the real conversation to have with the client — this quote isn't just "replace the old panel", it's "lay the foundation for a full smart security and automation system".
+100
+devices supported
+by the Hub 2
+−
+8–12
+typical wired zones
+on the MultiTransmitter
+=
+80–90+
+free wireless slots
+to quote and sell into
+FireProtect
+Wireless smoke & heat detection. Reports independently even if the Hub loses power — a straightforward life-safety add.
+LeaksProtect
+Water leak detection under sinks, hot water units and laundries — cheap insurance against a very expensive claim.
+LifeQuality
+Monitors CO₂, temperature, humidity and air quality — an easy comfort and health upsell most clients haven't considered.
+Extra Wireless PIRs
+Cover rooms the old wired zones never reached — extensions, garages, sheds — without pulling a metre of cable.
+CurtainProtect
+A narrow vertical detection curtain for windows and sliding doors — protects the entry point, not the whole room.
+MotionProtect Outdoor
+Perimeter detection for driveways and yards — dual IR + microwave keeps false alarms from pets and weather down.
+Extra KeyPads
+Add a keypad at a second entry — granny flat, side door, shed — all on the same Hub and the same app.
+WaterStop Valve Control
+Pair LeaksProtect with a motorised shut-off valve so the mains water cuts automatically the moment a leak is detected.
+Wireless Relay
+A general-purpose switch for anything that needs remote or automated control — lighting, pumps, and the two big wins below.
+★ Big Upsell Win
+Garage Door Control via Relay
+Fit an Ajax Relay to the existing garage motor and the client can open, close and monitor the garage door straight from the Ajax app — arm the alarm and know the garage is shut, or open it remotely for a tradesperson. This one sells itself once a client sees it demoed.
+★ Big Upsell Win
+Gate Access — Outdoor KeyPad + Relay
+An outdoor-rated KeyPad paired with a Relay turns a front gate into a PIN- or app-controlled entry point — no separate intercom or access system needed. A natural add-on for any property with a driveway gate.
+None of the above needs new cabling or a bigger panel — it's all Jeweller wireless, added to the same Hub 2 already going in for the change-over. Worth walking every client through this list before you finalise the quote.
+Why Upgrade
+What Your Client Actually Gets
+Beyond keeping their existing sensors, the change-over unlocks everything the Ajax ecosystem is built for.
+Full App Control
+Arm, disarm and monitor every zone from the Ajax app — anywhere there's signal.
+Quad-Path Redundancy
+Hub 2 reports over Ethernet, Wi-Fi and dual SIM at the same time — one path failing doesn't matter.
+Anti-Jamming Detection
+Ajax detects RF jamming in real time and alerts the client and monitoring centre instantly.
+No Demolition
+Existing sensors and cable runs are reused as-is — no chasing walls, no patch and paint.
+Fast Turnaround
+A typical residential change-over is completed comfortably in a single visit.
+Australian Support
+Direct technical backup from LTS Security's Sydney-based team, every step of the job.
+System Architecture
+How It Works, End to End
+When a detector triggers, the signal reaches the client's phone and the monitoring centre within seconds — across multiple communication paths at once.
+1
+Existing Sensor Trips
+A wired PIR, reed switch or glass-break triggers exactly as it always has.
+2
+MultiTransmitter Relays It
+The zone terminal picks up the signal and sends it encrypted over Jeweller to the Hub 2.
+3
+Hub 2 Notifies Everyone
+Alerts go out over Ethernet, Wi-Fi and dual SIM — to the client's phone and monitoring centre at once.
+4
+Response Dispatched
+Client checks the app in real time; the monitoring centre verifies and dispatches — faster, more reliable.
+On-Site Process
+The Upgrade, Step by Step
+The same six steps every time — which is exactly why it's quick to quote and quick to install.
+1
+Site Assessment
+Count existing wired zones and confirm sensor types and cable condition.
+2
+Mount the New Hardware
+Fix the Hub 2 and MultiTransmitter in place of, or alongside, the old panel.
+3
+Terminate Existing Wiring
+Land each zone's existing cable onto the MultiTransmitter's terminal block.
+4
+Add Wireless Accessories
+Pair t

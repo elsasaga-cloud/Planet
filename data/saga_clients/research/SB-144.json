@@ -1,132 +1,134 @@
 {
-  "code": "SB-144",
-  "name_official": "Deonet Co., Ltd.（디오넷，韩国）",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（deonet.co.kr，快照 2026-10-21，韩语）",
-  "summary": "韩国网络设备公司 Deonet（PON 系统、CPE、复用器、交换机 SM2824M / SM5124 / GNT245 等；switch 21、poe 18、sfp 9、10G 5），Chris（Kim Yeong Man，可多跟进）：工商业交换机都有，PoE 问芯片，另问 GPON/EPON；23 次跟进无实质回复。",
-  "type": "",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "产品 PON system / CPE / Multiplexer / 交换机型号 SM2824M、SM5124、GNT245、AP1200",
-      "quote": "PON system CPE Multiplexe… models SM2824M, GNT245, SM213, SM5124, AP1200",
-      "url": "https://www.deonet.co.kr/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "工商业 switch 都有；POE 交换机问了芯片，Gpon，Epon；备注可以尝试多跟进一下",
-      "quote": "兴趣：工商业switch都有 POE交换机问了芯片，Gpon，Epon",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Chris (Kim Yeong Man)",
-      "title": "（表内联系人，可多跟进）",
-      "email": "chris@deonet.co.kr",
-      "phone": "",
-      "source": "（本地 Clients/ 表格，无公开 URL）"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（官网快照核对）"
+ "code": "SB-144",
+ "name_official": "BSD Networks（加拿大）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（bsdnetworks.com，快照 2026-10-21）",
+ "summary": "加拿大光纤网络产品品牌 / 分销（switch 110 / poe 83 / sfp 82 / industrial 46），Robert；表内「SFP MC 工业 FS 光猫，自己的 logo 但产品来源比较杂；光路 10G MC（注意外壳）」；群发 16 次无回复。自有 logo → OEM 30%。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "BSD（自有）"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "BSD Networks – Driving Fiber Innovation；关键词 switch 110 / poe 83 / sfp 82",
+   "quote": "BSD Networks – Driving Fiber Innovation",
+   "url": "https://bsdnetworks.com/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "legal_name": "Deonet Co., Ltd.",
-    "founded": "（待核）",
-    "hq": "Korea",
-    "size": "中小型网络设备商（自有型号）",
-    "other": "ESG / 品质经营页"
-  },
-  "business_lines": [
-    "PON / CPE / 复用器",
-    "工商业交换机（自有型号，疑贴牌）"
-  ],
-  "channels": {
-    "role": "设备商（自有型号 → OEM 采购）",
-    "region": "韩国"
-  },
-  "signals": [
-    "问芯片 → 关心 Marvell/Realtek 平台 → Marvell 管理型卖点",
-    "自有型号 → 贴牌对象"
-  ],
-  "risks": [
-    "GPON/EPON 不供；韩国 KC；无回复"
-  ],
-  "saga_fit": {
-    "p1": "STC-28DGGPM",
-    "tier": 30,
-    "why": "商用 PoE（Marvell 芯片卖点）→ STC-28DGGPM（$87.4 @30%）贴 Deonet 标；工业 STI-288GPM。"
-  },
-  "email_hook": "Chris, you asked which chipset — our managed PoE line is Marvell (L2+), the industrial line Marvell/Realtek depending on model; if Deonet needs a labelled 8-PoE + 2-SFP under your SM- numbering, I can send the spec and a sample price.",
-  "mail_review": {
-    "binding": {
-      "level": "读而不回（A/S 邮箱 34 封 2024→2026，其中 5 封被打开，0 回；收件 chris@deonet.co.kr, info@deonet.co.kr；被打开主题「Marvell Alleycat5 Solution、Managed Optical Bypass Switch」）；Elsa 1:1 去信 1 封（2025-02-14「Industrial PoE Switch」；To 仅本户 chris@deonet.co.kr / info@deonet.co.kr；头 msg 19501f83b8ad64e4 核对无 Bcc，称呼「Hi, Chris」= 个性化逐月 1:1 名单（名字可来自名单，不等于回过信）；0 回（Elsa 箱 Replied 索引 + 第 73 批真人来信逐户比对均无此户）；此后再未进 Elsa 任何名单——全箱 `from:e.sagatelecom to:deonet.co.kr` 仅此 1 条，complete）（第 74 批(n)）",
-      "type": "—",
-      "sieve": "2（有人在读，无人回）",
-      "stop": "读而不回 = 内容未命中或没有当下需求",
-      "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
-      "lane": "KR 次级（点名）",
-      "cadence": "一封；回了再说",
-      "evidence": "gmail_digest：out 34，Opened 标签 5（Simon 群发追踪）；用户表：「兴趣：工商业switch都有 POE交换机问了芯片，Gpon，Epon」；研究档 risks：GPON/EPON 不供；韩国 KC；无回复"
-    },
-    "situation": "韩国网络设备公司 Deonet（PON 系统、CPE、复用器、交换机 SM2824M / SM5124 / GNT245 等；switch 21、poe 18、sfp 9、10G 5），Chris（Kim Yeong Man，可多跟进）：工商业交换机都有，PoE 问芯片，另问 GPON/EPON；23 次跟进无实质回复。",
-    "need": "商用 PoE（Marvell 芯片卖点）→ STC-28DGGPM（$87.4 @30%）贴 Deonet 标；工业 STI-288GPM。",
-    "breakpoint": "GPON/EPON 不供；韩国 KC；无回复",
-    "saga_now": {
-      "p1": "STC-28DGGPM",
-      "tier": 30,
-      "price": "首触锚价 STC-28DGGPM $87.4 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-29 $300（48 port managed switch）；群发里他已看到的价（续）：2026-09-01 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-01-28 $240（24 Port Fiber Switch）、2025-09-24 $280（10G Enterprise SFP Switch）、2025-10-15 $65（10G Media Converter）、2026-06-22 $16000（32 Port 400GB DC Switch）",
-      "why": "商用 PoE（Marvell 芯片卖点）→ STC-28DGGPM（$87.4 @30%）贴 Deonet 标；工业 STI-288GPM。已打开的主题（5/34 封有打开记录）：「Managed Optical Bypass Switch」(2025-04-03)、「Marvell Alleycat5 Solution」(2025-04-22)、「Commercial Network Switch」(2025-06-24)、「Booster PoE Switch」(2025-11-03) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-03-04)、Product Link_2026Q3(2026-07-14)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "2026-11",
-      "channel": "A 邮箱 → chris@deonet.co.kr",
-      "action": "首封前知悉：Elsa 仅 2025-02-14 单发过 1 封「Industrial PoE Switch」，之后没再碰他（第 74 批(n)）；短信一问（email_hook）（第 76 批(c) 2026-10-25：一问改成问句）",
-      "one_question": "Chris, you asked which chipset — our managed PoE line is Marvell (L2+), the industrial line Marvell/Realtek depending on model; if Deonet needs a labelled 8-PoE + 2-SFP under your SM- numbering, I can send the spec and a sample price. Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity)."
-    },
-    "facts": [
-      {
-        "date": "2025-02-14",
-        "dir": "out",
-        "who": "Elsa → chris@deonet.co.kr, info@deonet.co.kr",
-        "quote": "Industrial PoE Switch（Elsa 1:1 逐月名单第 1/1 轮；To 仅本户）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:deonet.co.kr` 全程 complete：1 轮直收（头 msg 19501f83b8ad64e4 无 Bcc，称呼「Hi, Chris」）；0 回",
-        "k": "elsa_1to1",
-        "msg_id": "19501f83b8ad64e4"
-      },
-      {
-        "date": "2026-09-28",
-        "dir": "去",
-        "who": "A/S 群发",
-        "quote": "Marvell Alleycat5 Solution、Managed Optical Bypass Switch",
-        "why": "34 封 / 5 次打开 / 0 回｜首封 2024-06-28 → 末封 2026-09-28（34 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "兴趣：工商业switch都有 POE交换机问了芯片，Gpon，Epon",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": {
-      "subject": "One question — Marvell Alleycat5 Solution",
-      "body": "Hi Chris,\n\nWe have sent you a few mails on \"Marvell Alleycat5 Solution\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nYou asked which chipset — our managed PoE line is Marvell (L2+); the industrial line is Marvell or Realtek depending on model. One question: does Deonet need a labelled 8-PoE + 2-SFP under your SM- numbering? If yes, I will send the spec and a sample price.\n\nReference price: 8-PoE + 2 × 1G/2.5G SFP L2+ managed switch (Marvell AC5), 120 W (STC-28DGGPM) $87.4 USD EXW, MOQ 1 pc, 15-day validity, 1-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
-    },
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "SFP MC 工业 FS SFP 光猫；自己的 logo 但产品来源比较杂；光路 10G MC Robert",
+   "quote": "兴趣：SFP MC 工业FS SFP 光猫 自己的logo 但产品来源比较杂",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Robert",
+   "title": "（表内联系人）",
+   "email": "robert@bsdnetworks.com",
+   "phone": "",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照核对 + 表内）"
+ },
+ "company_facts": {
+  "legal_name": "BSD Networks（待核）",
+  "founded": "",
+  "hq": "Canada",
+  "size": "小型品牌商",
+  "other": "多来源贴牌"
+ },
+ "business_lines": [
+  "光纤网络产品（自有 logo）"
+ ],
+ "channels": {
+  "role": "品牌商（OEM 采购）",
+  "region": "加拿大"
+ },
+ "signals": [
+  "已贴自有 logo、来源杂 → 可整合供应商",
+  "10G MC 需求（SmartByte 另询）"
+ ],
+ "risks": [
+  "16 次群发无回复；加拿大 CSA/UL 偏好"
+ ],
+ "saga_fit": {
+  "p1": "STI-288GP",
+  "tier": 30,
+  "why": "工业 FS 贴 BSD 标 → STI-288GP（$62.2 @30%）；MC STI-110GE；10G MC 另询。"
+ },
+ "email_hook": "Robert, for the BSD-branded industrial switches and media converters — one factory source for DIN 2-SFP + 8-PoE, gigabit MC and 10G SFP+/RJ45 MC, your label from small lots; which housing style do you want to standardise on?",
+ "mail_review": {
+  "binding": {
+   "level": "轻度触达（2026-03-30 Robert 问「do you manufacture your own products or OEM them from another factory?」→ Alan 如实答「we OEM from a manufacturer」+ 产品组合；之后只收到一封群发式「Bid Invitation」（发件人与收件人同为 robert@，疑似邮箱外发/钓鱼），无实质回复；Elsa 箱：`to:bsdnetworks.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 26 / 来 2）（第 74 批(h)））",
+   "type": "加拿大网络/布线承包商（BSD Networks；Robert = 老板）——集成商，先问身份",
+   "sieve": "2（身份尽调）",
+   "stop": "「OEM from a manufacturer」的回答对承包商不是问题，但 Alan 没有接着问他的项目；5-26 的「Bid Invitation」不是对 Saga 的回复（群发/可疑）",
+   "revive": "一句话问他在投的项目用什么交换机",
+   "lane": "CA 主攻",
+   "cadence": "一封",
+   "evidence": "k=4cb6b53615aaeed7（身份问）；d63854cffb76b6d5（如实答）；96db4511c0c030f3（Bid Invitation，robert→robert）；第 19 批回补来信原文 1 条（gmail_s/gmail_a）"
+  },
+  "situation": "如实回答身份是对的（Saga.md：不称贸易商，但也不冒充工厂）；缺的是回问项目。",
+  "need": "承包项目用的接入/PoE。",
+  "breakpoint": "无闭环。",
+  "saga_now": {
+   "p1": "STC-424XGGPM",
+   "tier": 25,
+   "price": "再触锚价 STC-424XGGPM-280W $180（群发现价；8 月他见过 $170，信里点明；第 72 批 2026-10-24）；按主表；群发里他已看到的价（续）：2026-08-05 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-23 $280（10G Enterprise SFP Switch）、2026-06-10 $16000（32 Port 400GB DC Switch）",
+   "why": "加拿大承包商 + 创始人直联。已打开的主题（7/26 封有打开记录）：「8 Port Industrial PoE Switch」(2024-12-26)、「Industrial PoE Switch」(2025-10-16)、「Marvell Managed Commercial Switches」(2026-03-30)、「Re: Marvell Managed Commercial Switche」(2026-03-31) → 读者兴趣主题类别不明（看原主题）｜已发资料（勿重发）：Product Link_2026Q2(2026-03-31)、Product Link_2026Q3(2026-07-03)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）",
+   "repeat": [],
+   "gaps": [
+    "Bid Invitation 真伪"
+   ]
+  },
+  "next_move": {
+   "when": "2026-11",
+   "channel": "A 邮箱 → robert@bsdnetworks.com",
+   "action": "问项目",
+   "one_question": "Robert — for the multi-residential projects you bid on, which PoE access switch spec do the consultants write in, so we can match it line by line? Reference: STC-424XGGPM-280W at $180 USD EXW (MOQ 1, 15-day validity; the $170 you saw in August was the launch price)."
+  },
+  "facts": [
+   {
+    "date": "2026-03-30",
+    "dir": "来",
+    "who": "Robert",
+    "quote": "do you manufacture your own products or OEM them from another factory? I visited your website, but I could not find details regarding your specific products.",
+    "why": "身份尽调 + 官网信息不足",
+    "k": "4cb6b53615aaeed7"
+   },
+   {
+    "date": "2026-03-31",
+    "dir": "去",
+    "who": "Alan",
+    "quote": "Yes, we OEM from a manufacturer. And they have been supporting us very well, based on our previous orders and after-sales questions from client side.",
+    "why": "如实",
+    "k": "d63854cffb76b6d5"
+   },
+   {
+    "date": "2026-05-26",
+    "dir": "来",
+    "who": "robert@bsdnetworks.com",
+    "quote": "Hello, BSD Networks is pleased to extend a formal Invitation to Bid for the construction of a new twelve-storey, approximately 285,000 sq. ft. mixed-u",
+    "why": "来信原文（主题「You have a Bid Invitation from BSD 」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+    "k": "96db4511c0c030f3"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": {
+   "subject": "Re: Marvell Managed Commercial Switches",
+   "body": "Hi Robert,\n\nPicking up your note of 2026-03-30 (\"do you manufacture your own products or OEM them from another factory? I visited your website, but I could not…\"). Instead of another catalog mail, one question:\n\nFor the multi-residential projects you bid on, which PoE access switch spec do the consultants write in, so we can match it line by line?\n\nReference price: STC-424XGGPM-280W (24× GE PoE+ 280 W + 4× 10G SFP+, L2+) at $180 USD EXW, MOQ 1 pc, 15-day validity — the $170 in our August mail was the launch price.\n\nIf there is no live project, just say so and I will stop here.\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+  },
+  "as_of": "2026-10-24"
+ }
 }

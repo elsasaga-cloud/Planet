@@ -1,27 +1,34 @@
 {
   "code": "SB-790",
-  "name_official": "Bilgen Elektronik（TR；无域名）",
+  "name_official": "Vulsan X Sdn Bhd（马来西亚）",
   "researched_at": "2026-10-21",
-  "website_status": "无域名",
-  "summary": "ISAF 记录：İbrahim（Bilgen Elektronik，无邮箱/域名）——Ady 加了 WhatsApp；问了 2 光 8 电带 bypass，问了 PoE 功率；无后续跟进。仅表内信息。需求映射：2 光 8 电 bypass 工业机 Saga 无（bypass 仅 4 SFP 版 SmartByte LT-IS6312GP-4GX8GT-FBP）→ 主推非 bypass STI-288DGGPM，bypass 以 SmartByte 型号注明。",
+  "website_status": "在线（vulsanx.com，快照 2026-10-21）",
+  "summary": "马来西亚网络安全公司 Vulsan X（Kepayang/Seremban，+60 6 851 5911），OSINT 研究员 Annamery Raja：问 PoE 交换机，在用知名品牌，主要 24/48 口，4/8 口用得少；无跟进。安全公司硬件量小。",
   "type": "",
   "size": "",
   "brands_seen": [],
   "evidence": [
     {
+      "kind": "官网快照",
+      "claim": "Vulsan X – Cyber Security Expert；infosec@vulsanx.com；+606 851 5911",
+      "quote": "Vulsan X – Cyber Security Expert",
+      "url": "https://vulsanx.com/",
+      "date": "2026-10-21"
+    },
+    {
       "kind": "用户表",
-      "claim": "ISAF：2 光 8 电 bypass；PoE 功率；WA 已加",
-      "quote": "Ady加了WhatsApp  问了2光8带bypass, 问了POE功率 / Ibrahim / BİLGEN ELEKTRONİK",
+      "claim": "问了 POE switch，在用有名的牌子，主要是 24 48 口，4 8 口用得少；地址 No 59-1 & 59-2 Jalan MPK, Medan Perdagangan Kepayang",
+      "quote": "兴趣：问了POE switch,在用一些有名的牌子 主要是用24 48口的 4 8口的用的比较少",
       "url": "（本地 Clients/ 表格，无公开 URL）",
       "date": "2026-10-21"
     }
   ],
   "kp": [
     {
-      "name": "İbrahim（姓氏待核）",
-      "role": "（ISAF 名片）",
-      "email": "—",
-      "phone": "—（Ady WhatsApp）",
+      "name": "Annamery Raja",
+      "title": "OSINT Researcher",
+      "email": "mery@vulsanx.com",
+      "phone": "+60 11 5652 8663",
       "source": "（本地 Clients/ 表格，无公开 URL）"
     }
   ],
@@ -30,77 +37,150 @@
   "notes": "（无首轮调研；由 deepen.py 建档）",
   "deep": {
     "done_at": "2026-10-21",
-    "level": "无域名 · 仅表内信息"
+    "level": "B 级加厚 v1（官网快照 + 表内）"
   },
   "company_facts": {
-    "legal_name": "Bilgen Elektronik（待核）",
-    "hq": "Türkiye（待核）",
-    "size": "待核",
-    "other": "仅 WhatsApp"
+    "legal_name": "Vulsan X Sdn Bhd",
+    "founded": "（待核）",
+    "hq": "Seremban, Negeri Sembilan, Malaysia",
+    "size": "小型网络安全公司",
+    "other": ""
   },
   "business_lines": [
-    "电子/安防（推测）"
+    "网络安全服务"
   ],
   "channels": {
-    "WhatsApp": "Ady 已加"
+    "role": "安全服务商（项目配套）",
+    "region": "马来西亚"
   },
-  "signals": [
-    "问 bypass + PoE 功率 → 有具体工程；WhatsApp 直达"
-  ],
   "risks": [
-    "无邮箱/公司资料；2 SFP bypass 缺口；无后续跟进"
+    "硬件非主业；品牌偏好"
   ],
   "saga_fit": {
-    "p1": "STI-288DGGPM",
+    "p1": "STC-424DGGPM-280W",
     "tier": 25,
-    "why": "工程 25% 档：STI-288DGGPM（DIN 2 SFP + 8 GE PoE+ L2+，240 W 预算，$137.5）；bypass 需求用 SmartByte LT-IS6312GP-4GX8GT-FBP（4 SFP + 8 PoE，单纤 bypass，$194.3；Saga 暂无对应型号，沿用 SmartByte 型号）"
+    "why": "24 口 PoE 主用 → STC-424DGGPM-280W（$140.1 @25%）；48 口 STC-448DGGPM。"
   },
-  "email_hook": "İbrahim Bey, ISAF'ta sorduğunuz 2 SFP + 8 port PoE endüstriyel switch: L2+ yönetilebilir, toplam PoE bütçesi 240 W (port başına 30 W), EXW 137,5 USD; bypass'lı sürüm 4 SFP + 8 PoE olarak 194,3 USD — projenizde bypass şart mı yoksa ERPS halka yeterli mi?",
+  "email_hook": "Annamery, for the 24/48-port PoE sizes you use — Marvell L2+ 24-PoE at $140 and 48-PoE at $321 EXW; if a client project allows a non-big-brand switch, I can send 1 unit for your lab first.",
   "mail_review": {
     "binding": {
-      "level": "轻度触达（展会名片 + WhatsApp 已加，邮件 0 封）：用户表「Ady加了WhatsApp  问了2光8带bypass, 问了POE功率 / Ibrahim / BİLGEN ELEKTRONİK」；S/A 邮箱 0 封；Elsa 箱无可查地址（仓内无此户任何邮箱/域名——用户表/WhatsApp/展会名片户，`from:e.sagatelecom to:` 无从下手；Elsa 群发是否碰过他无法判定，不写「未触达」）（第 74 批(o)）",
+      "level": "未触达（S 邮箱 9 封 2024→2025，1 次记录打开，0 回；收件 mery@vulsanx.com；主题多为「PoE switch、48 port managed switch」）；Elsa 群发 BCC 已触达 7 轮 2025-04-12→2026-09-08（锚 To desmond@multitradepac.com 7 轮 2025-04-12→2026-09-08；本户在 Bcc；主题 48 Port PoE Managed Switch、10G Enterprise SFP Switch、Industrial PoE Switch、24 Port PoE Managed Switch…；0 回（Elsa 箱 Replied 索引 + 第 73 批真人来信逐户比对均无此户）；S/A digest 看不到 Elsa 的去信，之前据此写的「未触达」是 S/A 口径）（第 74 批(n) `from:e.sagatelecom to:vulsanx.com` 全程 complete：命中 7 行、To 均为锚地址 ⇒ 本户在锚的 Bcc 名单）",
       "type": "—",
-      "sieve": "3（已加 WhatsApp，表内有往来）",
-      "stop": "仓库只有用户表一行；往来在 Simon 手机",
-      "revive": "首封邮件（A 邮箱，按 email_hook）+ WhatsApp 一句话",
-      "lane": "土耳其 非主攻",
-      "cadence": "一封",
-      "evidence": "gmail_digest：out 0；用户表：「Ady加了WhatsApp  问了2光8带bypass, 问了POE功率 / Ibrahim / BİLGEN ELEKTRONİK」；研究档 risks：无邮箱/公司资料；2 SFP bypass 缺口；无后续跟进"
+      "sieve": "1~2（1 次打开）",
+      "stop": "9 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+      "revive": "保持季度群发到 2027-Q1；无打开即停",
+      "lane": "马来西亚 非主攻",
+      "cadence": "季度",
+      "evidence": "gmail_digest：out 9，Opened 标签 1（Simon 群发追踪）；用户表：「兴趣：问了POE switch,在用一些有名的牌子 主要是用24 48口的 4 8口的用的比较少」；研究档 risks：硬件非主业；品牌偏好"
     },
-    "situation": "ISAF 记录：İbrahim（Bilgen Elektronik，无邮箱/域名）——Ady 加了 WhatsApp；问了 2 光 8 电带 bypass，问了 PoE 功率；无后续跟进。仅表内信息。需求映射：2 光 8 电 bypass 工业机 Saga 无（bypass 仅 4 SFP 版 SmartByte LT-IS6312GP-4GX8GT-FBP）→ 主推非 bypass STI-288DGGPM，bypass 以 SmartByte 型号注明。",
-    "need": "工程 25% 档：STI-288DGGPM（DIN 2 SFP + 8 GE PoE+ L2+，240 W 预算，$137.5）；bypass 需求用 SmartByte LT-IS6312GP-4GX8GT-FBP（4 SFP + 8 PoE，单纤 bypass，$194.3；Saga 暂无对应型号，沿用 SmartByte 型号）",
-    "breakpoint": "无邮箱/公司资料；2 SFP bypass 缺口；无后续跟进",
+    "situation": "马来西亚网络安全公司 Vulsan X（Kepayang/Seremban，+60 6 851 5911），OSINT 研究员 Annamery Raja：问 PoE 交换机，在用知名品牌，主要 24/48 口，4/8 口用得少；无跟进。安全公司硬件量小。",
+    "need": "24 口 PoE 主用 → STC-424DGGPM-280W（$140.1 @25%）；48 口 STC-448DGGPM。",
+    "breakpoint": "硬件非主业；品牌偏好",
     "saga_now": {
-      "p1": "STI-288DGGPM",
+      "p1": "STC-424DGGPM-280W",
       "tier": 25,
-      "price": "按主表（研究档 saga_fit）（㉕ 封顶：STI-288DGGPM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25）",
-      "why": "工程 25% 档：STI-288DGGPM（DIN 2 SFP + 8 GE PoE+ L2+，240 W 预算，$137.5）；bypass 需求用 SmartByte LT-IS6312GP-4GX8GT-FBP（4 SFP + 8 PoE，单纤 bypass，$194.3；Saga 暂无对应型号，沿用 SmartByte 型号）",
+      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-10 $220（48 port managed switch）、2024-08-07 $65（10G fiber media converter）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-04-12 $240（24 Port Fiber Switch = STC-4168XGGCM 单 AC 稿，Elsa 箱 1 轮 2025-04-12；同款 2025-09 起群发 $280（双 AC 稿）——再提这款说 $280）；2025-07-04 $300（48 Port PoE Managed Switch = STC-448XGGPM，Elsa 箱 1 轮 2025-07-04；现表 $335.4@20%、Drive 老表 $335——同款写 $335 要先说 2025 群发是 $300、汇率 7.2→6.7）；2025-10-06 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2025-10-06；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-09-08 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-08；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
+      "why": "24 口 PoE 主用 → STC-424DGGPM-280W（$140.1 @25%）；48 口 STC-448DGGPM。已打开的主题（1/9 封有打开记录）：「24 port poe switch」(2024-09-03) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
       "repeat": [],
       "gaps": []
     },
     "next_move": {
-      "when": "2026-11（Simon）",
-      "channel": "A 邮箱首封 + WhatsApp（Simon）",
-      "action": "首封 + 一句话（第 76 批(b) 2026-10-25：audit_ab 硬错误修正：ERPS → halka yedekliliği）",
-      "one_question": "İbrahim Bey, ISAF'ta sorduğunuz 2 SFP + 8 port PoE endüstriyel switch: L2+ yönetilebilir, toplam PoE bütçesi 240 W (port başına 30 W), EXW 137,5 USD; bypass'lı sürüm 4 SFP + 8 PoE olarak 194,3 USD — projenizde bypass şart mı yoksa ERPS halka yeterli mi?"
+      "when": "群发节奏",
+      "channel": "A 邮箱",
+      "action": "首封前知悉：Elsa 群发 BCC 已触达 7 轮（2025-04-12→2026-09-08，锚 To desmond@multitradepac.com，0 回）（第 74 批(n)）；观察打开",
+      "one_question": "Annamery, for the 24/48-port PoE sizes you use — Marvell L2+ 24-PoE at $140 and 48-PoE at $321 EXW; if a client project allows a non-big-brand switch, I can send 1 unit for your lab first."
     },
     "facts": [
+      {
+        "date": "2023-07-01",
+        "dir": "备",
+        "who": "Saga 内部马来西亚线索表 Client_List_待决定.xlsx（XSPec/Sugito 文件夹）",
+        "quote": "名单行：「25 www.vulsanx.com Annamery Raja Osint Researcher Mitec 2023 问了POE switch,在用一些有名的牌子 主要是用24 48口的 4 8口的用的比较少 公司地址：No 59-1 & 59-2 Jalan MPK了,Medan Perdagangan Kepayang,70200 Seremban, Negeri Sembilar mery@vulsanx.com 6011-5」",
+        "why": "Saga 自己的线索表里对本户的一手备注（来源/兴趣点/是否已加 WhatsApp/展会现场对话）（名单无日期；条目为 Mitec 2023 展会现场记录，按 2023-07 归期）——比群发打开率更硬的证据；写下一封邮件时直接引用这里的兴趣点；Mitec 2023 现场见过面 = 可用「we met at MITEC 2023」开头",
+        "k": "Drive PI 文件夹 9_马来西亚_Sugito"
+      },
+      {
+        "date": "2025-01-22",
+        "dir": "去",
+        "who": "S 群发",
+        "quote": "PoE switch、48 port managed switch",
+        "why": "9 封 / 1 次打开 / 0 回｜首封 2024-06-14 → 末封 2025-01-22（9 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
+        "date": "2025-04-12",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To desmond@multitradepac.com）",
+        "quote": "24 Port Fiber Switch（Elsa 群发第 1/7 轮；本户在 Bcc，锚 To desmond@multitradepac.com；正文价 240usd/pc，第 74 批(p) 读稿 msg 19628286dc08373a / 19874a707c2ed712）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:vulsanx.com` 命中行 To=desmond@multitradepac.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+        "k": "elsa_bcc",
+        "msg_id": "19628286dc08373a"
+      },
+      {
+        "date": "2025-05-04",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To desmond@multitradepac.com）",
+        "quote": "8 Port Industrial PoE Switch（Elsa 群发第 2/7 轮；本户在 Bcc，锚 To desmond@multitradepac.com）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:vulsanx.com` 命中行 To=desmond@multitradepac.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+        "k": "elsa_bcc",
+        "msg_id": "19699410e40c0aa2"
+      },
+      {
+        "date": "2025-06-05",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To desmond@multitradepac.com）",
+        "quote": "Mini Industrial PoE Switch（Elsa 群发第 3/7 轮；本户在 Bcc，锚 To desmond@multitradepac.com）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:vulsanx.com` 命中行 To=desmond@multitradepac.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+        "k": "elsa_bcc",
+        "msg_id": "1973ef1711c6bc51"
+      },
+      {
+        "date": "2025-07-04",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To desmond@multitradepac.com）",
+        "quote": "48 Port PoE Managed Switch（Elsa 群发第 4/7 轮；本户在 Bcc，锚 To desmond@multitradepac.com；正文价 300usd/pc，第 74 批(p) 读稿 msg 194eff1f9bf46879 / 1973a613b8166b58）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:vulsanx.com` 命中行 To=desmond@multitradepac.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+        "k": "elsa_bcc",
+        "msg_id": "197d3e094a95cda2"
+      },
+      {
+        "date": "2025-10-06",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To desmond@multitradepac.com）",
+        "quote": "10G Enterprise SFP Switch（Elsa 群发第 5/7 轮；本户在 Bcc，锚 To desmond@multitradepac.com；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:vulsanx.com` 命中行 To=desmond@multitradepac.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+        "k": "elsa_bcc",
+        "msg_id": "199b78040ff23e1c"
+      },
+      {
+        "date": "2025-11-19",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To desmond@multitradepac.com）",
+        "quote": "Industrial PoE Switch（Elsa 群发第 6/7 轮；本户在 Bcc，锚 To desmond@multitradepac.com）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:vulsanx.com` 命中行 To=desmond@multitradepac.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+        "k": "elsa_bcc",
+        "msg_id": "19a9a0dfef96747f"
+      },
+      {
+        "date": "2026-09-08",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To desmond@multitradepac.com）",
+        "quote": "24 Port PoE Managed Switch（Elsa 群发第 7/7 轮；本户在 Bcc，锚 To desmond@multitradepac.com；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:vulsanx.com` 命中行 To=desmond@multitradepac.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+        "k": "elsa_bcc",
+        "msg_id": "1a07f2e0ee8e17c2"
+      },
       {
         "date": "2026-10-21",
         "dir": "用户表",
         "who": "Simon",
-        "quote": "Ady加了WhatsApp  问了2光8带bypass, 问了POE功率 / Ibrahim / BİLGEN ELEKTRONİK",
+        "quote": "兴趣：问了POE switch,在用一些有名的牌子 主要是用24 48口的 4 8口的用的比较少",
         "why": "表内备注",
         "k": "用户表"
       }
     ],
-    "proof_gaps": [
-      "WhatsApp 往来未入库"
-    ],
-    "draft_en": {
-      "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
-      "body": "İbrahim Bey, ISAF'ta sorduğunuz 2 SFP + 8 port PoE endüstriyel switch: L2+ yönetilebilir, toplam PoE bütçesi 240 W (port başına 30 W), EXW 137,5 USD; bypass'lı sürüm 4 SFP + 8 PoE olarak 194,3 USD — projenizde bypass şart mı yoksa halka yedekliliği (ring redundancy) yeterli mi?"
-    },
+    "proof_gaps": [],
+    "draft_en": null,
     "as_of": "2026-10-24"
   }
 }

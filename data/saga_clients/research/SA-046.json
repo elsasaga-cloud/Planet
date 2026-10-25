@@ -1,170 +1,220 @@
 {
  "code": "SA-046",
- "name_official": "Westward Sales, Inc.（Buena Vista / Aurora, Colorado）",
+ "name_official": "IPCamPower（Broken Arrow / Tulsa, Oklahoma, USA）",
  "website_status": "在线",
- "summary": "美国科罗拉多的工业电子增值分销商（2016 年由 Kelvin Aist 创立，2–10 人），线上平台销售工业以太网交换机（2–48 口、至 10G）、蜂窝路由器、MC、串口设备服务器、Starlink、工控机，代理 TRENDnet、Antaira、Lanner、Axiomtek、Black Box 等；客户为能源、公用事业、交通、自动化及政府项目。用户表：E 已回复 1 次且回复中有详细联系方式，兴趣工业 FS / 光猫 / PoE，主推 Antaira 的销售平台。 【2025-10-13 对方明确退订：Please take us off your emailing list → 改 C，不再触达。】",
- "type": "增值分销商/电商平台（工业）",
- "size": "2–10 人（LinkedIn）",
+ "summary": "俄克拉荷马的自有品牌 PoE 产品商（2015 年由 Sean Nelson 创立，17 人，营收约 $3.9M；其前一家公司 Nelly's Security 为 CCTV 分销商，2023 年出售），专注面向 IP 摄像机安装商的非网管 PoE 交换机（如 IPCP-8G4G-AT1 8 PoE + 4 上联、extend mode）、注入器、延长器、PoE 监测器。用户表：A 已回复，联系人 Sean Nelson（Owner）；「主做 PoE，ONV 的」。",
+ "type": "品牌商/电商（中国白牌贴牌，OEM 目标）",
+ "size": "17 人；$3.9M（Datanyze）",
  "brands_seen": [
-  "Antaira",
-  "TRENDnet",
-  "Lanner",
-  "Axiomtek",
-  "Black Box"
+  "IPCamPower",
+  "ONV"
  ],
  "evidence": [
   {
-   "kind": "官网博客",
+   "kind": "官网",
    "claim": "创始人与定位",
-   "quote": "Since founding Westward Sales in 2016, he has grown the company into an award-winning distributor of ruggedized computing, 5G cellular routers, industrial Ethernet switches, and Starlink solutions, serving commercial and government projects across energy, utilities, transportation, and automation.",
-   "url": "https://www.westwardsales.com/blog/exploring-industrial-wi-fi-mesh-network-systems/",
+   "quote": "My name is Sean Nelson and I started IPCamPower in 2015 with one goal in mind: To supply POE switches that are designed primarily for IP Cameras … in 2023 I took the opportunity to sell the company [Nelly's Security] so I could focus on my growing passion of product creation and invention.",
+   "url": "https://ipcampower.com/pages/about-us",
    "date": "2026-10-21"
   },
   {
-   "kind": "第三方（LinkedIn）",
+   "kind": "第三方（Datanyze）",
    "claim": "规模",
-   "quote": "Westward Sales … Company size: 2-10 employees · Headquarters: Aurora, CO · Founded: 2016 · Specialties: industrial electronics, SFP modules, media converters, industrial ethernet switches",
-   "url": "https://www.linkedin.com/company/westward-sales",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "第三方（Crunchbase）",
-   "claim": "公开销售邮箱与电话",
-   "quote": "720-870-4500 · sales@westwardsales.com",
-   "url": "https://www.crunchbase.com/organization/westward-sales",
+   "quote": "IPCamPower specializes in providing Power Over Ethernet (POE) switches, extenders, splitters … Revenue $3.9 M · Employees 17 · Founded 2017 … Sean Nelson Owner",
+   "url": "https://www.datanyze.com/companies/ipcampower/468558538",
    "date": "2026-10-21"
   },
   {
    "kind": "官网",
-   "claim": "Antaira LNP-0800G 平台售价、选项与交期",
-   "quote": "Antaira LNP-0800G (-24 -T) Industrial 8-Port PoE+ Gigabit Unmanaged Ethernet Switch … Availability: 3 - 4 Weeks or Less … $452.00 … 9 to 55 VDC | Standard, -10 to 65°C (+$182.00) … Extended, -40 to 75°C (+$216.00)",
-   "url": "https://westwardsales.com/antaira-lnp-0800g-unmanaged-ethernet-switch",
+   "claim": "IPCP-8G4G-AT1 规格",
+   "quote": "IPCamPower 8 Port Gigabit Unmanaged POE Switch, 30W POE+ (802.3at) per port, 120W Max Budget, Extend Mode up to 984' Cable Runs, 8 POE & 4 Uplink, All Ports Gigabit 10/100/1000 … SKU IPCP-8G4G-AT1",
+   "url": "https://ipcampower.com/products/ipcampower-8-port-gigabit-unmanaged-poe-switch-30w-poe-802-3at-per-port-120w-max-budget-extend-mode-up-to-984-cable-runs-8-poe-4-uplink-all-ports-gigabit-10-100-1000",
    "date": "2026-10-21"
   },
   {
    "kind": "官网",
-   "claim": "IP67 M12 版 $1,618（Saga 不做）",
-   "quote": "Antaira LNP-0800G-M12-67-24 (-T) 8-Port PoE Unmanaged 1Gb Ethernet Switch, IP67 … $1,618.00",
-   "url": "https://westwardsales.com/antaira-lnp-0800g-ethernet-switch",
+   "claim": "16/24 口 PoE 零售价与 UL/TAA 标注",
+   "quote": "24 Port POE Network Switch W/ 2 Gigabit Uplinks, POE+ 30 Watts per Port, 360 Watts Total Budget, UL Listed, TAA Compliant … $209.99 … 16 Port POE Network Switch W/ 2 Gigabit Uplinks … 200 Watts Total Budget, UL Listed, TAA Compliant … $169.99",
+   "url": "https://ipcampower.com/collections/unmanaged-poe-switches",
    "date": "2026-10-21"
-  },
-  {
-   "kind": "Gmail 回复（Elsa 邮箱）",
-   "claim": "明确退订",
-   "quote": "We are not interested in purchasing this product. Please take us off your emailing list. WestwardSales.com … Dawn Gumtow Sales Assistant o: 720.870.4500, x705",
-   "url": "gmail:e.sagatelecom thread 19980d2770e487b1",
-   "date": "2025-10-13"
   }
  ],
  "kp": [
   {
-   "name": "Kelvin Aist",
-   "role": "创始人/负责人",
-   "email": "sales@westwardsales.com",
-   "phone": "+1 720-870-4500",
-   "source": "https://www.crunchbase.com/organization/westward-sales"
+   "name": "Sean Nelson",
+   "role": "Owner",
+   "email": "sales@ipcampower.com",
+   "phone": "",
+   "source": "https://ipcampower.com/pages/about-us"
   }
  ],
- "notes": "A 维持（美国工业分销 + 已回复 + 名字明确）；它是品牌平台（Antaira 等）而非贴牌，切入点是「平台自有标签入门款 / 价格带补位」；P1 = STI-288DGGPM，20% 分销档；只报 CE/FCC，不承诺 UL/C1D2。",
+ "notes": "A 确认（美国自有品牌 PoE + 老板直联 + 现供应商 ONV）：对位 IPCP-8G4G-AT1 ≈ STC-28DGGPM/非网管 8 PoE 款（需向 SmartByte 确认 extend-mode 非网管型号），30% OEM 档；强调 Marvell 方案与 FCC。",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
   "level": "深挖 v1"
  },
  "company_facts": {
-  "legal_name": "Westward Sales, Inc.",
-  "founded": "2016（Kelvin Aist）",
-  "hq": "Buena Vista / Aurora, Colorado, USA",
-  "staff": "2–10",
-  "other": "工业电子线上增值分销平台（Antaira 为主推，另 TRENDnet/Lanner/Axiomtek/Black Box），Antaira 8 口 PoE 非管理标价 $452 起、IP67 版 $1,618"
+  "legal_name": "IPCamPower（Broken Arrow / Tulsa, Oklahoma, USA）",
+  "founded": "2015（Sean Nelson）",
+  "staff": "17",
+  "revenue": "约 $3.9M",
+  "other": "面向 IP 摄像机安装商的自有品牌 PoE 交换机电商（Shopify 官网 + Amazon + Newegg + ipcamtalk 店），多款标注 UL Listed / TAA Compliant；用户表：ONV 来源"
  },
  "business_lines": [
-  "工业以太网交换机（2–48 口至 10G）",
-  "蜂窝路由器、MC、串口服务器、Starlink、工控机",
-  "客户：能源、公用事业、交通、自动化、政府项目"
+  "非管理 PoE 交换机 4/8/16/24 口（IPCP- 型号，含 bt 90W 1200W）",
+  "PoE 注入器/Hub（16 口 bt 10G）",
+  "Extend Mode 长距供电（820–984 ft）"
  ],
  "products_seen": [
   {
-   "brand": "Antaira",
-   "model": "LNP-0800G（-24 / -T）",
-   "spec": "工业 8×GE PoE+ 30W/口 非管理，48–55VDC（-24 版 9–55V），IP30，DIN，5 年保；$452 起（-24 +$182，-T +$216）",
-   "url": "https://westwardsales.com/antaira-lnp-0800g-unmanaged-ethernet-switch",
+   "brand": "IPCamPower",
+   "model": "IPCP-8G4G-AT1",
+   "spec": "8×GE PoE+ 30W + 4 GE 上联，120W，Extend 984 ft",
+   "url": "https://ipcampower.com/products/ipcampower-8-port-gigabit-unmanaged-poe-switch-30w-poe-802-3at-per-port-120w-max-budget-extend-mode-up-to-984-cable-runs-8-poe-4-uplink-all-ports-gigabit-10-100-1000",
    "date": "2026-10-21",
-   "saga": "STI-288DGGPM（EXW $140–152 vs 零售 $452–668）"
+   "saga": "STC-28DGGPM"
   },
   {
-   "brand": "Antaira",
-   "model": "LNP-0800G-M12-67-24",
-   "spec": "IP67 M12 8 口 PoE，$1,618——Saga 不做 IP67/M12",
-   "url": "https://westwardsales.com/antaira-lnp-0800g-ethernet-switch",
+   "brand": "IPCamPower",
+   "model": "16 Port POE + 2 GE Uplinks（200W，UL Listed，TAA）",
+   "spec": "$169.99；16×FE PoE+ + 2 GE",
+   "url": "https://ipcampower.com/collections/unmanaged-poe-switches",
    "date": "2026-10-21",
-   "saga": "—（守界）"
+   "saga": "STI-21616GP（千兆升级位，无 UL）"
   },
   {
-   "brand": "Antaira",
-   "model": "LNP-C501G-SFP-bt-24",
-   "spec": "5 口紧凑工业 bt + SFP，$966",
-   "url": "https://www.antaira.com/products/gigabit-unmanaged-poe",
+   "brand": "IPCamPower",
+   "model": "24 Port POE + 2 GE（360W，UL Listed，TAA）",
+   "spec": "$209.99；24×FE PoE+ + 2 GE（Amazon B0DB6JZFBR）",
+   "url": "https://www.amazon.com/IPCamPower-Unmanaged-Network-Gigabit-Compliant/dp/B0DB6JZFBR",
    "date": "2026-10-21",
-   "saga": "STI-144GP"
+   "saga": "STC-424DGGPM-280W（千兆升级位）"
+  },
+  {
+   "brand": "IPCamPower",
+   "model": "24 Port Gigabit POE + 4 GE Uplinks（360W）",
+   "spec": "$234.99（售罄）",
+   "url": "https://ipcampower.com/collections/all",
+   "date": "2026-10-21",
+   "saga": "STC-424DGGPM-280W"
+  },
+  {
+   "brand": "POEPower/IPCamPower",
+   "model": "IPCP-16G4G-BT1",
+   "spec": "16×GE bt 90W，1200W，4 上联 + SFP，$599.99",
+   "url": "https://ipcampower.com/collections/gigabit-poe-switches",
+   "date": "2026-05-27",
+   "saga": "—（bt 1200W 不在 Saga 型谱）"
   }
  ],
  "channels": {
-  "网站/平台": "https://westwardsales.com/（Request a Volume Quote）",
-  "直邮": "sales@westwardsales.com（Kelvin Aist，用户表）"
+  "网站/网店": "https://ipcampower.com/",
+  "电商": "Amazon / Newegg / store.ipcamtalk.com",
+  "直邮": "sales@ipcampower.com（用户表）"
  },
  "signals": [
-  "平台 Antaira 交付期标注 3–4 周，价格 $452–668——Saga 10–15 天交期 + EXW 价是明确差异化（2026-10-21）",
-  "用户表：E 已回复 1 次且回复中有详细联系方式，兴趣工业 FS/光猫/PoE，主推 Antaira"
+  "2026-05 仍在上新 bt 1200W 机型；24 口千兆版售罄——有补货/新来源需求（2026-10-21）",
+  "在售多款标注 UL Listed + TAA Compliant——其核心 SKU 对认证有硬要求"
  ],
  "risks": [
-  "平台型分销商以品牌商品为主，接受无牌/白牌需有产品页素材（英文规格书、UL/FCC 说明、保修条款）",
-  "政府/公用事业项目要 TAA/UL——不报"
+  "UL Listed + TAA 是其卖点，Saga 无 UL 且非 TAA → 只能供非 UL/非 TAA 的新 SKU（例如管理型千兆 8 口）",
+  "电商价带低（24 口 PoE $209.99 零售）"
  ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
+  "p1": "STC-28DGGPM",
   "tier": 20,
-  "why": "平台主销 Antaira LNP-0800G（8 GE PoE+ 工业非管理 $452）→ Saga STI-288DGGPM（管理型，EXW $139.9 @20%）可作「value line」上架；4+1 位 STI-144GP；分销 20% 档"
+  "why": "IPCP-8G4G-AT1（8 GE PoE + 4 上联）对位 STC-28DGGPM（管理型，EXW $80.7 @20%）作为「managed」新 SKU；24 口千兆位 STC-424DGGPM-280W（EXW $134.5）；电商 20% 档；不承诺 UL/TAA"
  },
- "email_hook": "Next to the Antaira LNP-0800G at 452 dollars with a 3–4 week lead time, a Marvell-based 8-port gigabit PoE+ managed DIN switch shipping in 10–15 days at EXW pricing gives you a value-line listing, so that is the unit I am quoting with a 5-port version as the second SKU.",
- "grade_override": "C",
- "override_reason": "c_sub=明确退订；2025-10-13 Dawn Gumtow 要求移出邮件列表（Please take us off your emailing list），任何账号不再发；T29-U6 Elsa 邮箱核对发现",
+ "email_hook": "Next to the IPCP-8G4G-AT1, a Marvell-based managed 8-port gigabit PoE+ with 2 SFP at EXW cost gives you a managed tier without UL or TAA claims, and the 24-port gigabit 4-uplink unit you currently list as sold out is the second one I am pricing.",
  "mail_review": {
   "binding": {
-   "level": "明确拒绝 + 退订（Elsa 邮箱 2025-10-13 Dawn Gumtow（Westward Sales）先按采购流程回问型号/数量/地址，同日「We are not interested in purchasing this product. Please take us off your emailing list.」）",
-   "evidence": "Elsa 邮箱 `data/gmail_e/text/`（Replied 线程，客户→Elsa 正文；Elsa 回复正文未入库）",
-   "stop": "2025-10-13 退订",
-   "revive": "不动（退订）",
-   "sieve": "—（拒）",
-   "lane": "US 四主但已退订",
-   "type": "—",
-   "cadence": "—"
+   "level": "未绑定（2025-08「We require TAA Compliant and UL Listed switches」；Elsa 箱：`to:ipcampower.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 17 / 来 1）（第 74 批(g)））",
+   "type": "美国自有品牌 PoE 网店（现供 ONV）；Sean Nelson",
+   "sieve": "1",
+   "stop": "TAA + UL（INH 红线）",
+   "revive": "无",
+   "lane": "US",
+   "cadence": "2024-07 → 2026-09 去信 17 封；最后来信 2025-08-21",
+   "evidence": "k=465526f0a93e971c"
+  },
+  "situation": "Sean 一句话划线：要 TAA 合规 + UL 认证。Saga 两者皆无。",
+  "need": "TAA/UL PoE 交换机。",
+  "breakpoint": "TAA/UL 边界。",
+  "saga_now": {
+   "p1": "无",
+   "tier": 30,
+   "price": "—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-14 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-07-30 $65（10G Media Converter）",
+   "why": "移出群发。已打开的主题（2/17 封有打开记录）：「Industrial PoE Switch」(2025-08-21)、「24 Port PoE Managed Switch」(2026-08-11) → 读者兴趣偏「工业」；与 P1 同类，继续",
+   "repeat": [],
+   "gaps": []
   },
   "next_move": {
-   "when": "不动",
+   "when": "不动；移出群发",
    "channel": "—",
-   "action": "—",
+   "action": "—（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
    "one_question": ""
   },
-  "saga_now": {},
   "facts": [
    {
-    "date": "2025-10-13",
-    "dir": "来",
-    "who": "Dawn Gumtow（Westward Sales, Sales Assistant）",
-    "quote": "We are not interested in purchasing this product. Please take us off your emailing list.",
-    "why": "明确退订请求——合规：所有三个邮箱停发",
-    "k": "gmail_e"
+    "date": "2024-07-01",
+    "dir": "去",
+    "who": "S 箱（Simon）",
+    "quote": "Passive poe switch",
+    "why": "首封去信（邮箱索引；去信共 17 封）",
+    "k": "7d23297509d68cfa"
    },
    {
-    "date": "2025-10-13",
+    "date": "2024-07-30",
     "dir": "去",
-    "who": "Elsa",
-    "quote": "1, please see attached datasheet, PI and PL. 2, shipping cost is based on volume weight. 3, if you have a model number, please share, we will write it on the WEB GUI and labels. One piece is OK（附 STC-4168XGGCM.pdf + STEC20251013018.pdf + PL_STEC20251013018.xls）",
-    "why": "Dawn（销售助理）把群发当成采购询价回问型号/数量/地址，Elsa 误读为要买、当场开了样机 PI STEC20251013018 → 1 小时后 Dawn「not interested, take us off」；PI 作废，复盘里不算单",
-    "k": "gmail_e 199de1f85dfb294f"
+    "who": "S 箱（Simon）",
+    "quote": "10G media converter｜稿内价 $65",
+    "why": "去信正文含价（邮箱索引）",
+    "k": "72ed6686dbe62a71"
+   },
+   {
+    "date": "2024-07-30",
+    "dir": "去",
+    "who": "S 箱（Simon）报价",
+    "quote": "10G media converter｜ $65（原句：Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unma）",
+    "why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
+    "k": "72ed6686dbe62a71"
+   },
+   {
+    "date": "2024-11-14",
+    "dir": "去",
+    "who": "S 箱（Simon）报价",
+    "quote": "48 Port PoE Managed Switch｜ $300（原句：*Price is very competitive, 300usd/pc*）",
+    "why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
+    "k": "9425376a2465b5f4"
+   },
+   {
+    "date": "2025-08-21",
+    "dir": "来",
+    "who": "Sean Nelson",
+    "quote": "We require TAA Compliant and UL Listed switches. If you have this, please let me know.",
+    "why": "边界原话",
+    "k": "465526f0a93e971c"
+   },
+   {
+    "date": "2025-08-21",
+    "dir": "来",
+    "who": "sales@ipcampower.com",
+    "quote": "RE: Industrial PoE Switch｜Hello there,   We require TAA Compliant and UL Listed switches. If you have this, please let me know.     Thanks,     Sean Nelson IPCAMPOWER.com   <ht",
+    "why": "来信（邮箱索引；原文见 k；是否人工回复以原文为准）",
+    "k": "465526f0a93e971c"
+   },
+   {
+    "date": "2026-09-07",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "16 Port Industrial PoE Switch",
+    "why": "最近一封去信（邮箱索引；去信共 17 封）",
+    "k": "1b384f86b0ccd72d"
    }
   ],
+  "proof_gaps": [],
+  "draft_en": null,
   "as_of": "2026-10-24"
  }
 }

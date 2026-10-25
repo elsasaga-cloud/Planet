@@ -2,116 +2,127 @@
  "code": "SB-469",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "快照失败（http_error）",
- "summary": "约旦 Keme-Tec（keme-tec.com；阿里巴巴 RFQ「商业 24 口管理」；KP Rateb Mahmoud（project manager），projects@ + yahoo；官网 http_error）；表内未跟进。",
- "type": "项目集成商（约旦，24 口管理 RFQ）",
+ "website_status": "在线（novytel.cz，快照 2026-10-21）",
+ "summary": "捷克 Novy Telecom s.r.o.（「Supply of machinery from Asia and China」进出口贸易服务：工业机械、汽车配件、消费品、电子等；阿里巴巴 RFQ「VC 类产品」；KP Miloš Holec（procurement@））；表内未跟进。",
+ "type": "进出口贸易中介（捷克，VC RFQ）",
  "size": "",
  "brands_seen": [],
  "evidence": [
   {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "商业24口管理 / from: 阿里巴巴RFQ",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "kind": "官网快照",
+   "claim": "官网标题：Novy Teleсom | Supply of machinery from Asia and China；品类词 电信 / FTTH / ISP 设备",
+   "quote": "Novy Teleсom. We specialize in supplying a variety of products including industrial machinery, automotive parts, consumer goods, electronics, and more.",
+   "url": "https://www.novytel.cz/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "商业 24 口管理 RFQ",
-   "quote": "商业24口管理 / from: 阿里巴巴RFQ",
+   "claim": "表内兴趣/备注",
+   "quote": "VC类产品 / from: 阿里巴巴RFQ",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Novy Telecom 定位",
+   "quote": "Novy Teleсom | Supply of machinery from Asia and China ; EXPORT | IMPORT | TRADE SERVICES",
+   "url": "https://www.novytel.cz/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "VC 类产品 RFQ",
+   "quote": "VC类产品 / from: 阿里巴巴RFQ",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
  "kp": [
   {
-   "name": "Rateb Mahmoud",
-   "title": "Project Manager",
-   "email": "projects@keme-tec.com",
+   "name": "Miloš Holec",
+   "title": "（采购）",
+   "email": "procurement@novytel.cz",
    "phone": "",
    "source": "用户表"
   }
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "约旦",
-  "other": "官网 keme-tec.com，语言 ?，快照状态 http_error；角色判定来源：待核"
+  "hq": "捷克",
+  "other": "官网 novytel.cz，语言 en-GB，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "项目集成（约旦）"
+  "进出口贸易服务（捷克）"
  ],
  "channels": {
-  "role": "项目集成商（约旦，24 口管理 RFQ）",
-  "region": "约旦",
-  "contact": "projects@keme-tec.com、rab444rab@yahoo.com"
+  "role": "进出口贸易中介（捷克，VC RFQ）",
+  "region": "捷克",
+  "contact": "procurement@novytel.cz"
  },
  "signals": [
-  "表内：商业 24 口管理 / from: 阿里巴巴 RFQ；KP Rateb Mahmoud, project manager；projects@keme-tec.com / rab444rab@yahoo.com",
-  "快照：http_error"
+  "官网：Novy Telecom. We specialize in supplying a variety of products including industrial machinery, automotive parts, consumer goods, electronics ; EXPORT | IMPORT | TRADE SERVICES；kw telecom 28 / oem 6 / odm 6",
+  "表内：VC 类产品 / from: 阿里巴巴 RFQ；KP Milos Holec"
  ],
  "risks": [
-  "非主攻区（T5，约旦）；官网 http_error；RFQ 时效待核；未跟进过"
+  "采购中介（为终端客户比价，忠诚度低；需求有效性待核）；非专业网络渠道"
  ],
  "saga_fit": {
-  "p1": "STC-424XGGM",
-  "tier": 25,
-  "why": "RFQ 24 口管理 → 24 GE + 4×10G L2+ STC-424XGGM（$132.7 @25%）/ 24 口 PoE STC-424DGGPM-280W（$140.1）；待核时效"
+  "p1": "STI-110GE",
+  "tier": 20,
+  "why": "VC（MC）RFQ → 工业千兆 MC STI-110GE（$22.4 @20%）、工业 PoE MC STI-111GP（$27.8）；桌面 MC 用 HRUI（列表价，注明）"
  },
- "email_hook": "Rateb, following your request for 24-port managed switches: we offer Marvell-based 24-GE + 4×10G (non-PoE) and 24-PoE + 4 SFP L2+ models from single units, CE/RoHS, EXW USD, 10–15 days — is PoE required, and how many units does the project need?",
+ "email_hook": "Miloš, following your media-converter enquiry: we supply gigabit and PoE media converters (industrial DIN-rail; desktop versions available) neutral-brand from small lots, CE/RoHS, EXW USD — what quantity and fibre type (single-mode distance) does your end customer need?",
  "mail_review": {
   "binding": {
-   "level": "未触达（S 邮箱 1 封 2024，无记录打开，0 回；收件 projects@keme-tec.com, rab444rab@yahoo.com；主题多为「24 Port Fiber Switch」；Elsa 箱：`to:keme-tec.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 1 / 来 0）（第 74 批(n)））",
-   "type": "项目集成商（约旦，24 口管理 RFQ）",
-   "sieve": "1（只收到群发）",
-   "stop": "1 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "约旦 非主攻",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 1；用户表：「商业24口管理 / from: 阿里巴巴RFQ」；研究档 risks：非主攻区（T5，约旦）；官网 http_error；RFQ 时效待核；未跟进过"
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「VC类产品 / from: 阿里巴巴RFQ」；Elsa 箱：`to:.cz` 穷举 1 条（2026-10-25，锚批 Bcc 头已读）未见 novytel.cz → 三箱（S/A/E）均未发（第 74 批(f)））",
+   "type": "进出口贸易中介（捷克，VC RFQ）",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+   "lane": "捷克（欧洲全域主攻）",
+   "cadence": "首封后看打开",
+   "evidence": "gmail_digest：out 0；用户表：「VC类产品 / from: 阿里巴巴RFQ」；研究档 risks：采购中介（为终端客户比价，忠诚度低；需求有效性待核）；非专业网络渠道"
   },
-  "situation": "约旦 Keme-Tec（keme-tec.com；阿里巴巴 RFQ「商业 24 口管理」；KP Rateb Mahmoud（project manager），projects@ + yahoo；官网 http_error）；表内未跟进。",
-  "need": "RFQ 24 口管理 → 24 GE + 4×10G L2+ STC-424XGGM（$132.7 @25%）/ 24 口 PoE STC-424DGGPM-280W（$140.1）；待核时效",
-  "breakpoint": "非主攻区（T5，约旦）；官网 http_error；RFQ 时效待核；未跟进过",
+  "situation": "捷克 Novy Telecom s.r.o.（「Supply of machinery from Asia and China」进出口贸易服务：工业机械、汽车配件、消费品、电子等；阿里巴巴 RFQ「VC 类产品」；KP Miloš Holec（procurement@））；表内未跟进。",
+  "need": "VC（MC）RFQ → 工业千兆 MC STI-110GE（$22.4 @20%）、工业 PoE MC STI-111GP（$27.8）；桌面 MC 用 HRUI（列表价，注明）",
+  "breakpoint": "采购中介（为终端客户比价，忠诚度低；需求有效性待核）；非专业网络渠道",
   "saga_now": {
-   "p1": "STC-424XGGM",
-   "tier": 25,
-   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-12-10 $240（24 Port Fiber Switch）",
-   "why": "RFQ 24 口管理 → 24 GE + 4×10G L2+ STC-424XGGM（$132.7 @25%）/ 24 口 PoE STC-424DGGPM-280W（$140.1）；待核时效",
+   "p1": "STI-110GE",
+   "tier": 20,
+   "price": "首触锚价 STI-110GE $26.5 EXW（最近实报 SA-001 2025-11-27 $26.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
+   "why": "VC（MC）RFQ → 工业千兆 MC STI-110GE（$22.4 @20%）、工业 PoE MC STI-111GP（$27.8）；桌面 MC 用 HRUI（列表价，注明）",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开",
-   "one_question": "Rateb, following your request for 24-port managed switches: we offer Marvell-based 24-GE + 4×10G (non-PoE) and 24-PoE + 4 SFP L2+ models from single units, CE/RoHS, EXW USD, 10–15 days — is PoE required, and how many units does the project need?"
+   "when": "待 Simon 排期（首封）",
+   "channel": "A 邮箱 → procurement@novytel.cz（Miloš Holec）",
+   "action": "首封：按 email_hook 一问（第 75 批(j) 2026-10-25：英文信稿已写 `draft_en`）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
+   "one_question": "Miloš, following your media-converter enquiry: we supply gigabit and PoE media converters (industrial DIN-rail; desktop versions available) neutral-brand from small lots, CE/RoHS, EXW USD — what quantity and fibre type (single-mode distance) does your end customer need? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
-   {
-    "date": "2024-12-10",
-    "dir": "去",
-    "who": "S 群发",
-    "quote": "24 Port Fiber Switch",
-    "why": "1 封 / 0 次打开 / 0 回｜首封 2024-12-10 → 末封 2024-12-10（1 去 / 0 来）",
-    "k": "gmail_digest"
-   },
    {
     "date": "2026-10-21",
     "dir": "用户表",
     "who": "Simon",
-    "quote": "商业24口管理 / from: 阿里巴巴RFQ",
+    "quote": "VC类产品 / from: 阿里巴巴RFQ",
     "why": "表内备注",
     "k": "用户表"
    }
   ],
-  "proof_gaps": [],
-  "draft_en": null,
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": {
+   "subject": "Your media-converter request on Alibaba - what we supply",
+   "body": "Hi Miloš,\n\nYou asked on Alibaba for media converters and did not get a proper answer from us - apologies, here it is.\n\nNeutral-brand industrial converters, DIN-rail, -40 to 75 C, CE/RoHS, from small lots: Gigabit, 1 x RJ45 + 1 x SFP slot (or fixed SC single-mode 20 km) - model STI-110GE - $26.5 USD EXW (MOQ 1, 15-day validity); Gigabit PoE+ version - STI-111GP - $27.8. Desktop versions on request.\n\nOne question: what quantity and fibre type - single-mode distance, or SFP-slot so the customer picks the optic - does your end customer need?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+  },
   "as_of": "2026-10-24"
  }
 }

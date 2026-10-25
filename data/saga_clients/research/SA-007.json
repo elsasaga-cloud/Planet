@@ -1,140 +1,147 @@
 {
  "code": "SA-007",
- "name_official": "XSPEC Technology Sdn. Bhd.（Subang Jaya, Malaysia）",
- "website_status": "在线",
- "summary": "马来西亚制造商代表/分销商（2005 年注册），代理 NDT 检测、军警安防、医疗、生物实验室设备，覆盖马/印尼/新加坡；联系人 Sugito Wibawa。用户表：对交换机/PoE 交换机有兴趣，WhatsApp 跟进，有成单记录。",
- "type": "分销商/制造商代表（NDT·国防安防·医疗）",
- "size": "未见人数；经营 20+ 年",
+ "name_official": "Go Green IT Ltd（Derby, UK）",
+ "website_status": "在线（简页）",
+ "summary": "英国德比小型 IT 咨询/绿色 IT 服务公司（2011 年注册，<25 人，<$5M），业务为服务器虚拟化、硬件升级、IT 设备回收。用户表：问过 90W bt 工业 PoE，1 次实质回复，仅 3 次推送。",
+ "type": "IT 服务商/终端（非渠道）",
+ "size": "<25 人；<$5M（NeverBounce 口径）",
  "brands_seen": [
-  "Intron Plus"
+  "Saga Telecom（已购）",
+  "Linovision"
  ],
  "evidence": [
   {
    "kind": "官网",
-   "claim": "自述：制造商代表，品类为油气海事、军警安防、生物实验室、医疗",
-   "quote": "We are a Reliable Manufacturing Representatives and are constantly developing new partnering sygnergies with Manufacturers all over the World … Oil, Gas & Marine · Military Defense & Security · Bio-Technology & Lab · Medical & Healthcare",
-   "url": "https://xspectechnology.com/my-homepage/",
+   "claim": "定位：可持续 IT 咨询",
+   "quote": "Sustainability is now a major focus for organizations … Go Green IT can help with this. … Registered Address : 222 Warwick Avenue, Derby, England, DE23 6HP",
+   "url": "http://gogreenit.net/",
    "date": "2026-10-21"
   },
   {
-   "kind": "第三方（Intron Plus 代理名录）",
-   "claim": "联系人 Sugito Wibawa 与直邮",
-   "quote": "XSPEC TECHNOLOGY SDN BHD … Mr. SUGITO WIBAWA + 60 3 8023 1161 … sugito@xspec.com.my",
-   "url": "https://www.intron.ru/en/about-us/agents/",
+   "kind": "第三方（Companies House）",
+   "claim": "注册信息",
+   "quote": "GO GREEN IT LTD … Company status: Active · Private limited Company · Incorporated on 26 April 2011",
+   "url": "https://find-and-update.company-information.service.gov.uk/company/07614771",
    "date": "2026-10-21"
   },
   {
-   "kind": "用户表",
-   "claim": "CEO 对交换机/PoE 有兴趣；地址；Skype",
-   "quote": "对交换机，POE交换机有兴趣 Skype: sugitowibawa 公司地址：No. 8, Jalan Industri USJ 1/8 Taman Perindustrian USJ 1 47600 Subang Jaya, Selangor, Malaysia / Sugito Wibawa Chief Executive Officer",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "kind": "客户官网评测",
+   "claim": "2025-08 购入 Saga STI-42424XGGPM-4BT 并公开评测（含优缺点）",
+   "quote": "Saga Telecom Industrial Switch Price: £588 + import charges), August 2025 This was bought to replace the buggy Linovision POE-SW708GM-DC12V switch. (Model STI-42424XGGPM-4BT) … The salesman was very helpful, and when I mentioned about the SNMP limitations with the Linovision device, he sent me a PDF showing all the SNMP OIDs … Pros - Supports 10mbps half duplex … Well-designed UI - Backup results in a file with plain text commands … Cons - UI doesn't remember the # of lines to display - SFP ports doesn't autodetect speed, and default to 10gbps. I had to manually select 1gps for my 1gps Cisco SFP",
+   "url": "http://gogreenit.net/index.php?page=saga-telecom-switch",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "客户官网",
+   "claim": "主业 IT 回收/翻新（WEEE）",
+   "quote": "Go Green IT offers an IT equipment disposal service, where we aim to refurbish and reuse as many components as possible … We will adhere to the WEEE T11 exemption for repairing and refurbishing items",
+   "url": "http://www.gogreenit.net/index.php?page=EquipmentRecycling",
    "date": "2026-10-21"
   },
   {
    "kind": "PI",
-   "claim": "成交单据 STSC20240618009（CI，2024-06-27）：Commercial Switch 共 1 台，USD 90.0；采购 四川海思视讯电子有限公司 RMB 500.0；Simon 成本表利润 RMB 209.61",
+   "claim": "成交单据 STAG20250823017（CI，2025-08-23）：STI-42424XGGPM-4BT 共 1 台，USD 588.0；采购 SmartByte RMB 2912.0；Simon 成本表利润 RMB 1125.94",
    "quote": "",
-   "url": "PI.zip:9 马来西亚 Sugito gg/普通快递发票.xlsx",
-   "date": "2024-06-27"
+   "url": "PI.zip:17 英国 Chris PayPal 可发展/CI.xls",
+   "date": "2025-08-23"
   },
   {
    "kind": "PI",
-   "claim": "成交单据 STSC20240711009（CI，2024-07-17）：Commercial Switch 共 12 台，USD 1056.0；采购 四川海思视讯电子有限公司 RMB 6000.0；Simon 成本表利润 RMB 2969.78",
+   "claim": "PI 包文件夹「英国 Chris PayPal 可发展」：Simon 标签 可发展，收款 PayPal；单号 1 个，2025-08-23 → 2025-08-23，销售 USD 588.0 / RMB 0，Simon 成本统计利润合计 RMB 1125.94",
    "quote": "",
-   "url": "PI.zip:9 马来西亚 Sugito gg/普通快递发票.xlsx",
-   "date": "2024-07-17"
-  },
-  {
-   "kind": "PI",
-   "claim": "PI 包文件夹「马来西亚 Sugito gg」：Simon 标签 gg；单号 2 个，2024-06-27 → 2024-07-17，销售 USD 1146.0 / RMB 0，Simon 成本统计利润合计 RMB 3179.39",
-   "quote": "",
-   "url": "PI.zip:9 马来西亚 Sugito gg",
+   "url": "PI.zip:17 英国 Chris PayPal 可发展",
    "date": "2026-10-22"
   },
   {
    "kind": "公开平台核查（T29-U18）",
-   "claim": "xspectechnology.com：Industrial technology, training, and support for Southeast Asia；5 个行业（油气海事、军警安防、生物实验室、医疗、培训）；54 品牌 86 产品；客户墙 PDRM、Bomba、MSAT、SPRM、Kastam、UM、Penjara、UiTM、IMR、LHDN…；Subang Jaya USJ 1/8；inquiry@xspec.com.my",
-   "quote": "5 Industries 54 Brands 86 Products … Trusted by government agencies, universities, hospitals, and industry leaders across Malaysia",
-   "url": "https://xspectechnology.com/",
+   "claim": "Mastodon 实例 API：mammut.gogreenit.net v4.7.3，9 用户，16,382 条状态；站长账号 @chewie（Owner，2023-06 建，15,426 条，followers 577，最后发帖 2026-10-22），联系邮箱 chewie@int.gogreenit.net",
+   "quote": "\"version\":\"4.7.3\" … \"user_count\":9,\"status_count\":16382 … \"username\":\"chewie\" … \"last_status_at\":\"2026-10-22\" … \"roles\":[{\"name\":\"Owner\"}]",
+   "url": "https://mammut.gogreenit.net/api/v1/instance",
    "date": "2026-10-23"
   },
   {
    "kind": "公开平台核查（T29-U18）",
-   "claim": "MINDTCE 2026（8th Malaysia International NDT Conference & Exhibition，2026-11-17/18）参展商档案：XSPEC TECHNOLOGY SDN BHD，联系人 Sugito Wibawa，sugito@xspec.com.my，+60129888086",
-   "quote": "XSPec Technology Sdn Bhd (XSPec) is a Malaysian-based technology provider and manufacturing representative … Non-Destructive Testing (NDT) sector",
-   "url": "https://mindtce.com.my/companyprofile/B2611000001",
-   "date": "2026-10-23"
-  },
-  {
-   "kind": "公开平台核查（T29-U18）",
-   "claim": "Converus 授权服务伙伴名录：MALAYSIA XSPec Technology Sdn Bhd，Sugito Wibawa，+60 (3) 8023 1162",
-   "quote": "MALAYSIA XSPec Technology Sdn Bhd Sugito Wibawa … W: xspectechnology.com",
-   "url": "https://converus.com/find-a-partner/",
-   "date": "2026-09-23"
+   "claim": "SOGo wiki 署名 Chris.Clemson@GoGreenIT.Net（2017）；neverbounce：Derby DE22 3UP，邮箱格式 first.last@gogreenit.net",
+   "quote": "If you have any questions, feel free to email me on Chris[dot]Clemson[at]GoGreenIT[dot]Net",
+   "url": "https://wiki.sogo.nu/ZEGReconfiguration",
+   "date": "2017-10-29"
   }
  ],
- "kp": [
-  {
-   "name": "Sugito Wibawa",
-   "role": "负责人（代理名录口径）",
-   "email": "sugito@xspec.com.my",
-   "phone": "+60 3 8023 1161",
-   "source": "https://www.intron.ru/en/about-us/agents/"
-  }
- ],
- "grade_override": "B",
- "override_reason": "成单但核心业务是 NDT/国防/医疗设备代理，交换机为项目配套，复购逻辑弱（且含军警安防，INH 守界）；放 B 慢跟、被动响应。",
+ "grade_override": "A",
+ "override_reason": "小型 IT 服务公司，一次性项目需求（90W bt 工业 PoE），无渠道属性与复购逻辑；B 慢跟。；PI 包成单客户，Simon 标签 可发展 → A",
  "notes": "",
  "researched_at": "2026-10-22",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（基于首轮调研整理 + 需求映射）"
+  "level": "B 级加厚 v1（官网公开评测核对）"
  },
  "company_facts": {
-  "legal_name": "XSPEC Technology Sdn. Bhd.",
-  "founded": "2005（注册）",
-  "hq": "No. 8, Jalan Industri USJ 1/8, Taman Perindustrian USJ 1, 47600 Subang Jaya, Selangor, Malaysia（+60 12 988 8086 手机）",
-  "size": "小型制造商代表/分销商",
-  "other": "代理 NDT 检测、军警安防、医疗、生物实验室设备；覆盖马/印尼/新"
+  "legal_name": "Go Green IT（gogreenit.net，英国）",
+  "other": "IT 设备回收/翻新服务商（WEEE T11、数据销毁），同时运营「Green Reviews」栏目自费购买并评测离网/网络设备；**2025-08 自费 £588（+进口费）购入 Saga STI-42424XGGPM-4BT（L3，24 口）替换有 bug 的 Linovision POE-SW708GM-DC12V，并公开发表评测**：称赞销售响应（提供完整 SNMP OID PDF）、UI 设计、备份为明文 CLI 式配置、支持 10M 半双工；指出两项缺点（UI 不记忆显示行数；SFP 口不自动协商速率、默认 10G 需手动设 1G）"
  },
  "business_lines": [
-  "制造商代表/分销（NDT、安防、医疗）",
-  "项目供货（交换机/PoE 作配套）"
+  "IT 设备回收 / 翻新 / 数据销毁",
+  "自用离网供电与网络设备（评测栏目）"
+ ],
+ "products_seen": [
+  {
+   "brand": "Saga Telecom",
+   "model": "STI-42424XGGPM-4BT",
+   "spec": "L3 工业 PoE 24 口（含 SFP+），2025-08 购入 £588 + 进口费；公开评测含优缺点",
+   "url": "http://gogreenit.net/index.php?page=saga-telecom-switch",
+   "date": "2026-10-21",
+   "saga": "STI-42424XGGPM-4BT（已购）"
+  },
+  {
+   "brand": "Linovision",
+   "model": "POE-SW708GM-DC12V",
+   "spec": "工业 8 GE 管理 PoE，2024-07 Amazon £379；被评为「buggy」、SNMP 受限，后被 Saga 机替换",
+   "url": "http://gogreenit.net/index.php?page=linovision-poe-sw708gm-dc12v",
+   "date": "2024-07",
+   "saga": "（已被 STI-42424XGGPM-4BT 替换）"
+  }
  ],
  "channels": {
-  "网站": "https://xspectechnology.com/ · xspec.com.my",
-  "邮箱": "sugito@xspec.com.my（用户表）",
-  "WhatsApp / Skype": "+60 12 988 8086 / sugitowibawa（用户表）",
-  "公开动态平台（监控中，T29-U18）": "新目录站 xspectechnology.com（2026 改版，MY/SG/ID 三站，54 品牌 86 产品）；CEO Sugito Wibawa LinkedIn（1K followers，2026-05 仍活跃）；展会：MINDTCE 2026-11-17/18（NDT 展参展商）"
+  "网站": "http://www.gogreenit.net/（Contact Us 表单）",
+  "评测页": "http://gogreenit.net/index.php?page=saga-telecom-switch",
+  "公开动态平台（监控中，T29-U18）": "自建 Mastodon 实例 mammut.gogreenit.net（v4.7.3，站长 @chewie 每日发帖，最后 2026-10-22；RSS mammut.gogreenit.net/@chewie.rss）；自建 PeerTube / XMPP 服务；官网 gogreenit.net（静态）；Derby，16 May St"
  },
  "signals": [
-  "2026-10-23 核查：XSPec 定位已非常清楚——油气/海事 NDT、军警安防（Converus 测谎软件授权服务商、Intron NDT 代理）、生物实验室、医疗设备的代理与培训，客户全是马来西亚政府机关（PDRM 警察、Bomba 消防、Kastam 海关、Penjara 监狱、SPRM 反贪…）；2019 年那单酒店网络是偶发；gg 维持，不投入",
-  "CEO 直接表示对交换机/PoE 感兴趣并有 2 次实质回复 → 可作东南亚项目配套分销",
-  "军警安防代理线 → 守界：仅民用项目供货"
+  "2026-10-23 核查：GoGreenIT = 英国 Derby 的一人/小团队托管与系统管理商（客户酒店 The New Ellington Leeds、Splendid Hotels），技术负责人 Chris Clemson 自托管 Mastodon（最新版 4.7.3，说明他持续维护基础设施）、PeerTube、XMPP、SOGo——典型 homelab/自托管型买家：小型 2.5G/10G 上联、静音 PoE 机型最对口；他的日常动态在 Mastodon，不在 LinkedIn",
+  "**公开好评参考客户**：评测页可作英国/欧洲客户的第三方背书（引用前先征得同意）；评测列出的两项 UI/SFP 缺点应原文转给 SmartByte 作固件改进项（2026-10-21）"
  ],
  "risks": [
-  "亚太非主攻区；交换机非其主业；军警客户守界"
+  "一次性自用采购（1 台），非渠道复购——保持 B；价值在于背书与产品反馈，不在销量"
  ],
  "saga_fit": {
-  "p1": "STC-28DGGPM",
+  "p1": "STI-42424XGGPM-4BT",
   "tier": 25,
-  "why": "项目 25% 档：STC-28DGGPM（2 SFP + 8 GE PoE+ L2+ 管理，$84.1）作安防/实验室项目配套；24 口 STC-424DGGPM-280W（$140.1）；工业 STI-288GP（$59.8）"
+  "why": "已购 STI-42424XGGPM-4BT 自用；后续仅可能补 STI-144GP / STI-288DGGPM 小机；主要动作是征得评测引用许可 + 回传固件反馈"
  },
- "email_hook": "Sugito, following our earlier exchange on PoE switches: for your security/lab projects, 2× SFP + 8× GbE PoE+ L2+ managed at $84.1 EXW (24-port 280 W at $140.1), neutral packing — is there a current tender where I can quote a specific quantity?",
+ "email_hook": "Thank you for the write-up on the STI-42424XGGPM-4BT; I have passed the two points (line-count memory in the UI and SFP speed auto-detect) to our firmware team, and would like to ask whether we may quote your review when talking to other UK customers.",
  "deal_pi": {
-  "folder": "9 马来西亚 Sugito gg",
-  "simon_label": "gg",
-  "pay": "",
+  "folder": "17 英国 Chris PayPal 可发展",
+  "simon_label": "可发展",
+  "pay": "PayPal",
   "bind": "",
-  "buyer": "XSPec Hospitech Sdn Bhd",
-  "orders": 2,
-  "first": "2024-06-27",
-  "last": "2024-07-17",
-  "usd": 1146.0,
+  "buyer": "GOGREENIT",
+  "orders": 1,
+  "first": "2025-08-23",
+  "last": "2025-08-23",
+  "usd": 588.0,
   "rmb": 0.0,
-  "profit_rmb": 3179.39,
-  "models": "Commercial Switch"
+  "profit_rmb": 1125.94,
+  "models": "STI-42424XGGPM-4BT"
  },
+ "kp": [
+  {
+   "name": "Chris Clemson",
+   "role": "单据联系人",
+   "email": "info@gogreenit.net",
+   "phone": "",
+   "source": "PI.zip 单据"
+  }
+ ],
  "watch": {
   "as_of": "2026-10-23",
   "github_watch": [],
@@ -144,134 +151,286 @@
  },
  "mail_review": {
   "binding": {
-   "level": "轻度（成单：2024-06-18 样品单 1 台 24 口被动 PoE 24V，PI STSC20240618009，T/T；此后 WhatsApp；Elsa 箱：`to:xspectechnology.com OR to:xspec.com.my` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 6 / 来 4）（第 74 批(n)））",
-   "type": "马来西亚制造商代表（NDT/国防/医疗设备），交换机为项目配套——Simon 定 B 慢跟，gg 难复购",
-   "sieve": "3（付样成单）",
-   "stop": "复购逻辑弱（主业不是网络）；邮件 2024-06-21 后无往来",
-   "revive": "其 MY/SG/ID 项目再要 PoE；WhatsApp +60 12 988 8086",
-   "lane": "MY，T/T（对方明说不用 PayPal）",
-   "cadence": "邮件 10 封（2024-06-14~21）；之后 WhatsApp",
-   "evidence": "k=c4b545e745cfee3e / d4fd9769046a10ec / 10fca04e1dcc0437 / ca8ed8495f53d8b5 / c242e05df6431bc0；PI 包 `PI__PI__9_马来西亚_Sugito_gg__1st_order_Sample__STSC20240618009`"
+   "level": "轻度偏中（1 台在生产环境运行 + 固件 bug 反馈 + 博客/配置经验回传；Elsa 箱：`to:gogreenit.net` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 26 / 来 17）（第 74 批(g)））",
+   "type": "英国小型 IT 服务商 / 自用 + 技术博客（技术流）",
+   "sieve": "3（付样 $500、PI、标签确认、收货验收、固件 bug 报告）",
+   "stop": "对方不需要更多（单站点温室项目 1 台够用）+ PoE 异常未闭环（2026-03-19 电池供电场景 PoE 不出电，4-27 发截图后 Alan 5-20 追问无回）",
+   "revive": "对方新项目 / Saga 给出 PoE 问题结论或新固件；7.5 固件已发给他（7-10）",
+   "lane": "UK 已通（T/T $500 2025-08，DHL）",
+   "cadence": "最后 2026-08-26 Alan 通知 AC5（无回）；对方最后来信 2026-04-27；实质往来 2025-06-10 → 2026-04-27 约 17 轮",
+   "evidence": "A 邮箱 k=7aa281fa9f0de7b7 / 960340fdd0ad3d96 / 9ac926d31f10e0be / 20cf814dcb5e8197 / 81bc7f06346f18b0；A 邮箱外发报价单正文（`data/gmail_a/attachments/text/`，2026-10-24 对表）；第 19 批回补来信原文 1 条（gmail_s/gmail_a）"
   },
-  "situation": "Sugito（CEO）2024-06-14 回群发要 24 口被动 PoE（24V，24×100M + 2 GE + 2 SFP，15.4W/口），4 天内要发票、要 T/T、成单 1 台样机。之后没有第二单（邮件），Simon 定 gg。",
-  "need": "24 口被动 PoE 24V（项目配套）。",
-  "breakpoint": "一次性项目配套；不是 Saga 的复利客户。",
+  "situation": "英国 Go Green IT（Chris，德比 DE22）2025-06 回群发，问 **STI-41616XGGPM-4BT** 能否在 48 V LiFePO4（峰值 56.6 V）系统上跑；8 月改要 L3/24 口版（差 $20 即升级）、问 DI/DO/RS485；8-23 付款 $500 → 9-08 收货「looks in good order」→ 11-23 已接入生产（10 Mbps 老设备正常，胜过原 Linovision）→ 2026-03-13 报 SSH `xterm-256color` 终端类型 bug → 3-19 报 PoE 不出电（电池系统停机数月后）并附 `backup-GreenhouseSwitch2-…-diag.tar.bz2` → 4-27 再发截图 → Alan 5-20「Any update?」无回。**走完全流程的技术型小客户，正处在「问题未闭环」状态。**",
+  "need": "① 已买：STI 系列 16 口工业 L2+/L3 PoE（4×BT），DC 48 V 电池供电，SFP 1G/10G；② 要 DI/DO/RS485（当时 16/24 口没有，8 口有）；③ 想要的是**能在离网电池系统稳定工作的 PoE 交换机**——PoE 在低压/重启后的行为是他的核心关切。",
+  "breakpoint": "技术支持没闭环：3-13 的 SSH 终端类型问题 Alan 答复后 Chris 回「Ah, that's a shame」（= 不能改），紧接着 3-19 报 PoE 不出电并附诊断包，A 邮箱里没有看到 Saga 给出结论；4-27 截图后沉默，Alan 5-20「Any update?」无回。对一个会写 bug 报告、会回传诊断包的客户，这是最便宜的绑定机会被放掉。",
   "saga_now": {
-   "p1": "无主动动作",
+   "p1": "STI-41616XGGPM-4BT 同款（在用）+ 固件 7.5",
    "tier": 25,
-   "price": "历史报价（邮件原话，老汇率）：2024-06-17 90usd",
-   "why": "B 慢跟｜毛利复盘：22.2% → 30.2%（S2800P-24F-2TS 成本 500）——正常",
+   "price": "首单 STI-41616XGGPM-4BT $400 + 运费 $60 = $460 DAP（2025-06-11 报价单 → 2025-08-23 PI STAG20250823017）；复购同款按列表 $528 USD EXW（2026-10-17 快照，15 天有效）或 Simon 对老客户另定；历史报价（邮件原话，老汇率）：2025-08-22 480usd",
+   "why": "技术流小客户，不以量计；价值在于**真实生产环境的反馈 + 公开配置经验**（C4 轻度→中度的最短路径）｜已发资料（勿重发）：SWITCH-MIBS-release-7.3.0(2025-06-11)、Download Link_Alan(2025-06-11)、STI-41616XGGPM-4BT(2025-08-22)、Product Link_2026Q2(2026-02-04)、Saga Feature List_7.5.x_L2+(2026-07-10)；已发单据：Quotation(2025-06-11)、STAG20250823017_R1(2025-08-23)、STAG20250823017(2025-08-23)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）｜毛利复盘：一单 26.3%（STI-42424XGGPM-4BT 成本 2,912）——正常",
    "repeat": [
-    "2024-06-27 / 07-17 两单 Commercial Switch 合计 $1,146（Simon 利润 RMB 3,179；间隔 20 天）；2024-07 之后无 PI（PI 复盘 #9，Simon 标 gg）"
+    "STI-41616XGGPM-4BT ×1（2025-08）"
    ],
-   "gaps": []
+   "gaps": [
+    "PoE 在 DC 低压/欠压恢复后的行为：需 SmartByte 给结论（Simon 问 Peter，代理不问）",
+    "SSH 终端类型 xterm-256color 未识别：固件侧问题，是否在 7.5 修复未知"
+   ]
   },
   "next_move": {
-   "when": "跟 PI 节奏；不主动",
-   "channel": "WhatsApp",
-   "action": "—（用 one_question 这句，WhatsApp 直接发，不附资料）",
-   "one_question": "Sugito, following our earlier exchange on PoE switches: for your security/lab projects, 2× SFP + 8× GbE PoE+ L2+ managed at $84.1 EXW (24-port 280 W at $140.1), neutral packing — is there a current tender where I can quote a specific quantity?"
+   "when": "2026-11 上旬",
+   "channel": "A 邮箱 → info@gogreenit.net（Chris Clemson；回原串）",
+   "action": "先把 3-19/4-27 的两个问题各给一句结论（哪怕是「已转研发，7.5 未修」），再问 7.5 是否已刷；回原串沿用原主题（邮件客户端自动加 Re:），上面的主题只在另起新信时用",
+   "one_question": "Did the PoE ports come back after you upgraded to 7.5, or is the issue still reproducible on battery power?"
   },
   "facts": [
    {
-    "date": "2023-07-01",
-    "dir": "备",
-    "who": "Saga 内部马来西亚线索表 Client_List_待决定.xlsx（XSPec/Sugito 文件夹）",
-    "quote": "名单行：「39 Xspec Technology Sdn Bhd www.xspectechnology.com Sugito Wibawa Chief Executive Officer Mitec 2023 对交换机，POE交换机有兴趣 Skype: sugitowibawa 公司地址：No. 8, Jalan Industri USJ 1/8Taman Perindustrian USJ 147600 Subang Jaya, Selang」",
-    "why": "Saga 自己的线索表里对本户的一手备注（来源/兴趣点/是否已加 WhatsApp/展会现场对话）（名单无日期；条目为 Mitec 2023 展会现场记录，按 2023-07 归期）——比群发打开率更硬的证据；写下一封邮件时直接引用这里的兴趣点；Mitec 2023 现场见过面 = 可用「we met at MITEC 2023」开头",
-    "k": "Drive PI 文件夹 9_马来西亚_Sugito"
-   },
-   {
-    "date": "2024-06-14",
+    "date": "2025-06-10",
     "dir": "来",
-    "who": "Sugito Wibawa（CEO）",
-    "quote": "I am looking for PASSIVE POE 24 port Switch. Do you have ?",
-    "why": "需求",
-    "k": "c4b545e745cfee3e"
+    "who": "info@gogreenit.net",
+    "quote": "Hi Alan, Yes, this could be potentially useful. Do you have any more details? I am assuming your website isn't sagatelecom.com, as I couldn't find any",
+    "why": "来信原文（主题「Re: 90W PoE Managed Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+    "k": "4293e7563200b9b8"
    },
    {
-    "date": "2024-06-14",
+    "date": "2025-06-11",
     "dir": "来",
-    "who": "Sugito",
-    "quote": "MUST BE PASSIVE POE… 24 x 10-100Mbps downlink PoE… PoE switch output 24V… Maximum power of single PoE port: 15,4W",
-    "why": "规格",
-    "k": "d4fd9769046a10ec"
+    "who": "Chris（Go Green IT）",
+    "quote": "I am interested in something like a STI-41616XGGPM-4BT. Can you confirm that it will work up to at least 57V DC? your manual says 57V, but the Mechanical/CAD drawing says 75V… 48V LiFePO4 system… 56.6V",
+    "why": "技术流 + 读过 Drive 规格（筛子第 2 道）",
+    "k": "7aa281fa9f0de7b7"
    },
    {
-    "date": "2024-06-17",
+    "date": "2025-06-11",
     "dir": "去",
-    "who": "Saga（Simon）",
-    "quote": "Hi, Sugito, Thanks for your information. After careful check, we can offer it, but we do not have a ready datasheet yet. Price: 90usd/pc Commercial PoE Switch 2*1G SFP uplink+2*1000M Copper uplink+24*10/100M PoE downlink, passive PoE, unmanaged AC 100~240V inp",
-    "why": "历史报价点（主题「Re: Re: PoE Switch」；第 20 批从 gmail_s 回补）：90usd",
-    "k": "eb6c2057389fafbf"
+    "who": "Alan（Quotation.pdf，Buyer GOGREENIT / Chris，DAP UK）",
+    "quote": "STI-41616XGGPM-4BT 4×10G SFP+ + 16×GE PoE(12 af/at + 4 bt) L2+ 240W/370W，With Mounting Hanger，Without DI/DO/RS485 ×1 $400.0 + FedEx air door-to-door $60.00 = TOTAL $460.00；-40~+70℃@240W / -40~+60℃@370W",
+    "why": "首单型号与价格锚（$400 EXW 级 + $60 运费）；PI STAG20250823017（2025-08-23）随后成交",
+    "k": "gmail_a att 2025-06-11"
    },
    {
-    "date": "2024-06-18",
-    "dir": "来",
-    "who": "Sugito",
-    "quote": "Can we order 1 unit for testing? Send us Invoice with delivery to: XSPec Hospitech Sdn Bhd",
-    "why": "样品单",
-    "k": "10fca04e1dcc0437"
-   },
-   {
-    "date": "2024-06-18",
-    "dir": "来",
-    "who": "Sugito",
-    "quote": "Can we pay via Bank TT, as we dont do paypal payment here.",
-    "why": "T/T",
-    "k": "ca8ed8495f53d8b5"
-   },
-   {
-    "date": "2024-06-18",
+    "date": "2025-06-11",
     "dir": "去",
-    "who": "Saga（Simon）",
-    "quote": "Hi, Sugito, Sure, bank T/T is OK. The reason for PayPal is 1, its easier 2, bank T/T SOMETIMES requires payer information(like payer's company registration information). We are not sure when or which order the bank will ask for this, its about the foreign currency regulation here. Lets see. Please c…",
-    "why": "Saga 实质答复原文（主题「Re: Re: PoE Switch」；第 20 批从 gmail_s 回补）——承诺/口径以此为准",
-    "k": "3c88bfd8760e162d"
+    "who": "Saga（Alan，11:23）",
+    "quote": "1, Yes, DC57V (DC56.6V) is good to do stable operation and PoE output (double confirmed with our engineer) 2, About the DC75V drawing, it is a common description… We simply use the same side panel, so there is DC75V. But the power input for PoE models should be DC44V~DC57V. 3, About SNMP function, please see attached file… 4, About this model, is it L2+ or L3? Then I will quote.",
+    "why": "Chris 的两个硬问题（48V LiFePO4 峰值 56.6V 会不会像 LinoVision 那样重启；SNMP 数值可不可靠）Alan 都正面答了：PoE 款输入 44–57V、图纸 75V 是侧板通用标注——这句以后对太阳能/电池供电客户可以直接复用",
+    "k": "gmail_a f5b7dffc467807bb"
    },
    {
-    "date": "2024-06-18",
+    "date": "2025-06-11",
     "dir": "去",
-    "who": "Saga 内部（Client_List_待决定.xlsx，存于 Sugito 文件夹）",
-    "quote": "马来西亚名单：multitradepac（Advantech）、KVC Industrial Supplies（朱姐转的，ATTEL 牌 MC）、NN MAJU（2020-12 询盘 4光4电 PoE managed）、richtechsolutions（拉黑了）、marugged（Moxa）、adv.com.my（Lantech）、soulcomm（在用北京 HCSTCOM）…",
-    "why": "Saga 的马来西亚线索表放在 XSPec 文件夹 = 曾设想让 XSPec（医疗科技集成商）当马来西亚落地伙伴，「待决定」至今未决；与 Angora/Fastball 同一套「成单客户 → 区域分销」的构想，三次都没落地（Q-51 的根）",
-    "k": "Drive PI 文件夹（data/pi_2026-10/text） 9_Sugito"
+    "who": "Saga（Alan，14:12，附报价单）",
+    "quote": "1, for 16 port model, we are upgrading DI/DO/RS485 function now. It is expected to be ready on August. 2, I quoted another model with ready DI/DO/RS485 function. Please decide which model you need and let me know the full contact information. I will make an invoice for you.",
+    "why": "16 口 DI/DO/RS485「8 月就绪」的承诺出处（后来 08-22 仍说没有，Chris 改买 24 口 L3 版）——以后别再给具体月份",
+    "k": "gmail_a b21772e37d499cf0"
    },
    {
-    "date": "2024-07-05",
+    "date": "2025-08-22",
     "dir": "来",
-    "who": "XSPec Hospitech Sdn Bhd（LOA_Xspec_5_July_24.pdf）",
-    "quote": "LETTER OF AUTHORIZATION… Online Remittance Services offered by Easy Pay Transfers Sdn Bhd to Xspec Hospitech Sdn Bhd… authorize… Authorized Person(s) to act on our behalf… registering account, registering beneficiary",
-    "why": "XSPec 付 Saga 用的是马来西亚第三方汇款公司 Easy Pay Transfers（需出具授权书）——小额跨境付款通路本身就是摩擦；下次报价时主动给 PayPal/西联之外的本地汇款选项说明，比降价更有用",
-    "k": "Drive PI 文件夹（data/pi_2026-10/text） 9_Sugito"
+    "who": "Chris",
+    "quote": "If it's only $20 difference, then yes, I might as well go for the 24port version. You mentioned the \"DI/DO/RS485\" function",
+    "why": "价格不敏感，功能导向",
+    "k": "06796ffea23adddd"
    },
    {
-    "date": "2024-07-11",
+    "date": "2025-08-22",
+    "dir": "去",
+    "who": "Saga（Alan）",
+    "quote": "Hi, Chris, Thanks for your information. 1, L3 model price: 480usd/pc 2, There are indeed some differences, mainly about routing protocols. 3, Our website is available but for reference only, we still deal with our customers directly. *https://www.sagatelecom.c",
+    "why": "历史报价点（主题「Re: 90W PoE Managed Switch」；第 20 批从 gmail_a 回补）：480usd",
+    "k": "1ebe663694bef166"
+   },
+   {
+    "date": "2025-08-23",
+    "dir": "去",
+    "who": "Saga PI STAG20250823017_R1（Alan）",
+    "quote": "Buyer: GOGREENIT（Chris Clemson, info@gogreenit.net）Payment Term: T/T in advance, DAP but without customs clearance；Shipping: The Poplars, Burleigh Drive, Derby DE22 1AL, UK；STI-42424XGGPM-4BT（4×10G SFP + 24×GE PoE，20 af/at + 4 bt，240W/370W，L3）1 pc $500.0；Freight FedEx door-to-door $60；PayPal 5% $28；TOTAL $588.00",
+    "why": "GOGREENIT 第二张 PI 原文：L3 24 口 PoE 机 $500（主表 L3 -4BT 列表 $528）+ FedEx $60 + PayPal 5%；=「PayPal 付款、DAP 英国、4~6 天」的成交模板",
+    "k": "gmail_a att STAG20250823017_R1.pdf"
+   },
+   {
+    "date": "2025-08-23",
     "dir": "内",
     "who": "Simon 成本表（PI 包）",
-    "quote": "内部《成本统计.xlsx》：STSC20240618009：成本 734 / 收款 944 / 利润 210（22.2%） · STSC20240711009：成本 6,852 / 收款 9,822 / 利润 2,970（30.2%）",
+    "quote": "内部《成本统计.xlsx》：STAG20250823017：成本 3,152 / 收款 4,278 / 利润 1,126（26.3%）",
     "why": "利润率 = 利润÷收款；对照 20/25/30 加价 = 16.7%/20%/23% 毛利；详见 docs/成单客户_毛利复盘_内部_2026-10-24.md",
     "k": "cost_sheet"
    },
    {
-    "date": "2024-07-17",
-    "dir": "内",
-    "who": "Saga 出口报关资料（PI 包「买单报关资料.xls」）",
-    "quote": "商业交换机 STC-2224GFP-24V × 12 pcs，440×290×45 mm，净重 2.9 / 毛重 3.6 kg 每台，单价 88 USD，总价 1,056 USD，目的国马来西亚，品牌 Saga Telecom，HS 8517622990，总毛重 44 KG",
-    "why": "第二单的报关口径：型号名是 Hasivo 被动 PoE 机的 Saga 编号 STC-2224GFP-24V（24V 被动 PoE 24 FE + 2 SFP + 2 GE），申报品牌写 Saga Telecom；走 Saga 自己的深圳「买单报关」线",
-    "k": "data/pi_2026-10/text/…9_马来西亚_Sugito…买单报关资料.xls (f3398f1a)"
+    "date": "2025-08-24",
+    "dir": "去",
+    "who": "Saga（Alan）",
+    "quote": "Thanks, we got it. Production will be arranged tomorrow. Just one small thing, do we use our model name on WEB GUI and label? We can use yours if you have one.",
+    "why": "付款后次日排产；Saga 对单台客户也主动问「GUI/标签用谁的型号名」——贴牌零门槛的口径证据",
+    "k": "gmail_a 98db755cf311be37"
    },
    {
-    "date": "2024-11-18",
+    "date": "2025-08-25",
     "dir": "来",
-    "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
-    "quote": "用户表跟进：推「引流机型」→ 对方「passive poe only」",
-    "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
-    "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.122 1118"
+    "who": "Chris（GoGreenIT）",
+    "quote": "Great, thank you.… Yours will be fine, thank you!（答「do we use our model name on WEB GUI and label? We can use yours」）",
+    "why": "GUI/标签用 Saga 自己的型号名——GoGreenIT 不要贴牌",
+    "k": "gmail_a 2da9e4dfccd887f1"
+   },
+   {
+    "date": "2025-09-01",
+    "dir": "去",
+    "who": "Saga（Alan）",
+    "quote": "Hi, Chris, Your order is shipped out. FedEx/884000961870 Because you do not have a google account yet, hard to share the folder for your order details(see attached photo). I am attaching some typical photos for your reference. And some more questions to know more about you. 1, is this for purpose us…",
+    "why": "Saga 实质答复原文（主题「Re: 90W PoE Managed Switch」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
+    "k": "9b4196ac919370f1"
+   },
+   {
+    "date": "2025-09-01",
+    "dir": "来",
+    "who": "Chris Clemson（GOGREENIT, Derby UK）",
+    "quote": "I don't have a google account (on purpose!)… It is for my home office, where I am trying to power as much as possible from my Solar PV system. I bought a similar switch by a different company last year, and it has many frustrating bugs. This device will hopefully replace that, and if it is good, I may need sim[ilar…]",
+    "why": "买家画像：太阳能供电的家庭办公室、被 LinoVision 的固件 bug 伤过（06-11「it was the bugginess of the implementation by LinoVision. L2+ will be enough, I don't need routing」）；拒用 Google 账号 → 资料走附件不走 Drive 链接",
+    "k": "gmail_a Re: 90W PoE Managed Switch（Chris 的回信为底部回复格式，早期脚本漏抓）"
+   },
+   {
+    "date": "2025-09-01",
+    "dir": "来",
+    "who": "Chris Clemson（GoGreenIT）",
+    "quote": "wondering if you sometimes need unmanaged PoE models? — Sometimes. I have been using the following model in several places: amazon.co.uk …Gigabit-Power-Over-Ethernet-Extender… It isn't the cheapest, but it supports 10mbps half duplex, which other, cheaper makes don't. It also has wall-mounting ears",
+    "why": "他的非管理 PoE 位实际是「PoE 延长器」（亚马逊 B07RRBJ6VJ），并点名 10M 半双工 + 挂耳两个硬需求——这是他后来 11-23 验「10mbps properly」的来源",
+    "k": "gmail_a 73bed98fd65c8091"
+   },
+   {
+    "date": "2025-09-02",
+    "dir": "去",
+    "who": "Saga（Alan）",
+    "quote": "We mainly focus on Marvell based industrial networkings. For the PoE extender, it is not on our list, maybe you can stick to the model on Amazon. For unmanaged PoE switches, please see attached photo.",
+    "why": "如实说「PoE 延长器不做」，不硬塞；只推非管理 PoE 图——守界口径",
+    "k": "gmail_a 93430b471baec4b1"
+   },
+   {
+    "date": "2025-09-08",
+    "dir": "来",
+    "who": "Chris",
+    "quote": "We have received the switch today, and it looks in good order. I have started configuring it",
+    "why": "成交闭环（$500，A 总览 §3）",
+    "k": "960340fdd0ad3d96"
+   },
+   {
+    "date": "2025-09-17",
+    "dir": "去",
+    "who": "Saga（Alan）",
+    "quote": "Its been a week, I guess you have finished the initial testing. How is it going?（09-09 已催一次「Looking forward to your feedback. We have more interesting models to offer」）",
+    "why": "收货后 Saga 连催两次测试反馈，Chris 一个多月没答——单台家用客户的节奏就是慢，催不出来",
+    "k": "gmail_a 7838cefb5e06900d / 1566da882419f3b8"
+   },
+   {
+    "date": "2025-10-14",
+    "dir": "去",
+    "who": "Alan（A 邮箱）",
+    "quote": "1, Any feedback about the sample testing? 2. This is our 24-port Marvell-based managed SFP switch… Dual AC input… fan monitoring/dual PSU status monitoring",
+    "why": "2025-08 第二批样机后 Alan 10-14 / 11-07 两次问测试反馈，Chris 都没回——「读而不回」从这里开始",
+    "k": "gmail_a f56d7e81cc794b4f"
+   },
+   {
+    "date": "2025-10-15",
+    "dir": "来",
+    "who": "Chris",
+    "quote": "Apologies for the delay in replying. I have configured the switch ready to swap over, but not had chance to swap it over yet. I hope to do it in the next few days, and I will let you know the outcome.",
+    "why": "10-14 第三次催才答：配置好了没换上——到 11-23 才有正式反馈",
+    "k": "gmail_a 0860ef28c415c897"
+   },
+   {
+    "date": "2025-10-16",
+    "dir": "去",
+    "who": "Saga（Alan）",
+    "quote": "1, OK, please let me know if there is any progress in your testing. 2, In last email, I recommended a new model, I guess you just do not need that type. But it is hot-selling and got interesting features, so there it is.",
+    "why": "Alan 自己收口：推荐的新机型他不需要——以后对 Chris 只谈他那台的使用问题，不再推新品",
+    "k": "gmail_a ca40ede6c5eed6a0"
+   },
+   {
+    "date": "2025-11-23",
+    "dir": "来",
+    "who": "Chris",
+    "quote": "it supports 10mbps properly - which my Linovision switch said it also supported, but it didn't work… I didn't realise that the SFP didn't autodetect 1 or 10gbps",
+    "why": "替换竞品 + 生产环境运行",
+    "k": "9ac926d31f10e0be"
+   },
+   {
+    "date": "2025-11-27",
+    "dir": "去",
+    "who": "Saga（Alan）",
+    "quote": "Hi, Chris, Good to know that things are good so far. 1, yes, it is manually configured, not auto-detecting. 2, about the number of records in each page, I transferred this to our engineering team, I guess it is just 20 for now. I will let you know if we have a change. Please let me know if you have…",
+    "why": "Saga 实质答复原文（主题「Re: 90W PoE Managed Switch」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
+    "k": "a4916e66bf82191b"
+   },
+   {
+    "date": "2026-01-22",
+    "dir": "去",
+    "who": "Saga（Alan）",
+    "quote": "Hi, Chris, Happy New Year!! Wishing you all the magic in 2026!! 1, How is the testing going? Ready to get a few more for your projects? 2, I am introducing our CENTEC-based core and aggregation switches. 1, A cost-effective alternative to Cisco or Huawei models 2, Multiple models(10G~800G) available…",
+    "why": "Saga 实质答复原文（主题「Re: 90W PoE Managed Switch」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
+    "k": "ec7356b7a39c28e7"
+   },
+   {
+    "date": "2026-01-25",
+    "dir": "来",
+    "who": "Chris Clemson",
+    "quote": "It seems stable, but is out of action at the moment due to the lack of solar power - we've had some pretty cloudy days over the last month, so the battery it is connected to hasn't got much charge… I don't need anything like that at the moment",
+    "why": "设备稳定但因日照不足停机；明确「暂时不需要别的」→ 复购只会来自他的 IT 客户，不会来自家庭办公室",
+    "k": "gmail_a Re: 90W PoE Managed Switch（Chris 的回信为底部回复格式，早期脚本漏抓）"
+   },
+   {
+    "date": "2026-03-13",
+    "dir": "来",
+    "who": "Chris",
+    "quote": "I have a bug/feature request for the switch. When I ssh in from a modern Linux OS, the terminal is being detected as \"xterm-256color\"… your switch… defaults to \"dumb terminal\"",
+    "why": "主动做 QA = 中度绑定前兆",
+    "k": "20cf814dcb5e8197"
+   },
+   {
+    "date": "2026-03-16",
+    "dir": "去",
+    "who": "Saga（Alan）",
+    "quote": "Hi, Chris, Thanks for your feedback. After talking with our engineer, this is a chip problem. The version you used is AC3, an old version. We are now transitioning to AC5 chip. 1. it will be available on this model next month. 2. there will be no big difference in WEB UI etc., just more features. On…",
+    "why": "Saga 实质答复原文（主题「Re: 90W PoE Managed Switch」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
+    "k": "3e66face8ebfe535"
+   },
+   {
+    "date": "2026-03-19",
+    "dir": "来",
+    "who": "Chris",
+    "quote": "Last year PoE was working fine for all devices. The switch has been off for a couple of months due to low battery power. Now the battery is regularly full… but anything [PoE]…",
+    "why": "未闭环的技术问题（附诊断包）",
+    "k": "81bc7f06346f18b0"
+   },
+   {
+    "date": "2026-03-23",
+    "dir": "去",
+    "who": "Alan → Chris Clemson",
+    "quote": "we think it might be one of the 2 main reasons, probably reason 2. 1. Our PoE PCB board is faulty… not very likely. 2. Something is wrong with the power system… When PoE board starts to function, it requires much power to be activated. It is possible that your battery is not feeding enough power… what is the input voltage? It should be DC48V… please do below steps 1. Get a standard DIN power supply to power this…",
+    "why": "PoE 不出电的排障结论：倾向电池供电不足（启动浪涌）而非板子故障；04-27 Chris 用 Grafana 证明 53V 稳定 → 两边都没错时，问题多半在 PoE 板启动时序——这个 case 值得写进 AC5 的 FAQ（太阳能/电池供电场景）",
+    "k": "gmail_a 2026-03-23 Re: 90W PoE Managed Switch"
+   },
+   {
+    "date": "2026-04-27",
+    "dir": "来",
+    "who": "Chris Clemson",
+    "quote": "No, the voltage is never lower than 53V recently (see attached output from Grafana for the last 48h). The last reboot of one of the attached devices (when the power was lost), was 2026-04-26 11:55:02. Before that date uptime was 3 days.",
+    "why": "Alan 怀疑是 DC 输入欠压，Chris 用 Grafana 数据反证 53V 稳定 → 掉电重启来自电池侧而非交换机；这类有监控数据的用户是 AC5 固件的好测试员",
+    "k": "gmail_a Re: 90W PoE Managed Switch（Chris 的回信为底部回复格式，早期脚本漏抓）"
+   },
+   {
+    "date": "2026-07-10",
+    "dir": "去",
+    "who": "Alan",
+    "quote": "We've released firmware 7.5 on our AC5 Lite (Marvell 98DX2515/2518) platform… IPv6 readiness… Expanded multicast support (IGMP v1/v2/v3, PIM-SM)",
+    "why": "7.5 = PIM-SM 可用的书面证据（对 Netaş 有用）",
+    "k": "74f5b9590b098b4c"
    }
   ],
-  "proof_gaps": [],
-  "draft_en": null,
+  "proof_gaps": [
+   "2025-06-11 去信承诺 16 口 STI-41616XGGPM-4BT 的 DI/DO/RS485「expected to be ready on August」→ 2025-08-22 去信仍「not available on this model yet（8 口有）」→ 此后无交代；仓内无 16 口 DI/DO 上线证据——下一封顺带一句有/无"
+  ],
+  "draft_en": {
+   "subject": "PoE not powering on battery — did 7.5 change anything?",
+   "body": "Hi, Chris,\n\nTwo loose ends from March that we never closed, sorry about that.\n\n1. PoE not coming up after the switch sat on low battery for a couple of months — did the ports come back after the firmware 7.5 update, or is it still reproducible? If it is, send me the diagnostics package again and I will sit with engineering on it until we have an answer, not a \"please check\".\n2. SSH terminal type (xterm-256color) — still not configurable on this build; I will tell you honestly when it changes rather than promise a date.\n\nOne question: on battery power, what is the DC input voltage at the switch when PoE fails to come up? That decides whether this is a PoE budget rule or a bug.\n\nThank you.\nAlan\nSaga Telecom - sagatele.com"
+  },
   "as_of": "2026-10-24"
  }
 }

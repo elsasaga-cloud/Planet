@@ -1,136 +1,151 @@
 {
-  "code": "SB-614",
-  "name_official": "",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（kmsoltec.com，快照 2026-10-21）",
-  "summary": "意大利 KM Soltec Srl（定制工业 PC「Made in Italy」、工业触控设备、Asus 迷你 PC 认证经销；表内「卖德国 Delock 公司的；switch」「质量一般」）；表内 1 次跟进无回复。",
-  "type": "工业 PC 制造/分销（意大利，Delock 配件）",
-  "size": "",
-  "brands_seen": [
-    "Delock",
-    "Asus"
-  ],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "官网标题：KM Soltec Srl；品类词 工业自动化 / OT 网络 / 无线 / WiFi / 数据中心 / 企业 IT / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
-      "quote": "Our Brands；Custom Industrial PCs, Made in Italy；Industrial Reliability at Your Fingertips；Leader in Industrial Touch Devices；#1 in Italy for Certified Asus Mini PCs",
-      "url": "https://www.kmsoltec.com/en/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "卖德国Delock公司的；switch",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网快照",
-      "claim": "KM Soltec：意大利定制工业 PC",
-      "quote": "KM Soltec Srl ; Custom Industrial PCs, Made in Italy ; Leader in Industrial Touch Devices ; #1 in Italy for Certified Asus Mini PCs",
-      "url": "https://www.kmsoltec.com/en/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "卖 Delock 的；switch",
-      "quote": "卖德国Delock公司的 / switch；质量一般",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ "code": "SB-614",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（focomm-cabling.com，快照 2026-10-21）",
+ "summary": "泰国 Focomm Cabling（布线与网络设备分销：光缆 / UTP / 机柜 / PoE 交换机 / MC / SFP / GPON ONU，面向 SI、工厂、政府与私营项目；产品页工业 PoE：L3 管理 4×Base-X + 8×Base-T、Web-smart 4 PoE + 1/2 SFP；表内「工业 FS / MC / SFP / 光猫，ONV 的工业 FS」）；群发 16 次无回复。",
+ "type": "布线与网络设备分销商（面向 SI / 工厂 / 政府项目）",
+ "size": "",
+ "brands_seen": [
+  "ONV"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Focomm Cabling | ผู้จำหน่ายสายสัญญาณคอมอุปกรณ์เครือข่ายครบวงจร；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 数据中心 / 企业 IT / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "โฟคอมม์ ผู้จัดจำหน่ายสายเคเบิ้ลคุณภาพสูง สายไฟเบอร์ออฟติก สายแลน UTP ตู้ Rack สวิตช์ PoE Media Converter SFP Module GPON ONU และอุปกรณ์โครงข่าย สำหรับ SI โรงงาน โครงการราชการและเอกชนทุกประเภท จัดส่งทั่วไทย ติดต่อได้ที่ @focomm หรือโทร 02 97",
+   "url": "https://www.focomm-cabling.com/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "hq": "意大利",
-    "other": "官网 kmsoltec.com，语言 en，快照状态 ok；角色判定来源：官网文案"
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "工业FS MC SFP 光猫 ONV的工业FS",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "定制工业 PC / 工业触控设备",
-    "Delock 配件 / Asus 迷你 PC 经销"
-  ],
-  "channels": {
-    "role": "工业 PC 制造/分销（意大利，Delock 配件）",
-    "region": "意大利",
-    "contact": "info@kmsoltec.com"
+  {
+   "kind": "官网快照",
+   "claim": "泰语官网：光缆 / UTP / 机柜 / PoE 交换机 / MC / SFP / GPON ONU，面向 SI、工厂、政府与私营项目",
+   "quote": "โฟคอมม์ ผู้จัดจำหน่ายสายเคเบิ้ลคุณภาพสูง สายไฟเบอร์ออฟติก สายแลน UTP ตู้ Rack สวิตช์ PoE Media Converter SFP Module GPON ONU … สำหรับ SI โรงงาน โครงการราชการและเอกชน",
+   "url": "https://www.focomm-cabling.com/",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "首页：Custom Industrial PCs, Made in Italy；Leader in Industrial Touch Devices；#1 in Italy for Certified Asus Mini PCs",
-    "表内：卖德国 Delock 公司的"
-  ],
-  "risks": [
-    "交换机为配套品类（Delock 配件级），量小",
-    "1 次跟进无回复，无具名 KP（info@）"
-  ],
-  "saga_fit": {
-    "p1": "STI-080GE",
-    "tier": 20,
-    "why": "工业 PC 配套 → 工业 8 GE 非管理 STI-080GE（$31.4 @20%）、5 GE STI-050GE（$17.0）；Delock 桌面交换机位 HRUI STC-08GE（$10.5）"
-  },
-  "email_hook": "For the switches you bundle with your industrial PCs and Delock accessories, we supply DIN-rail 5/8-port gigabit units and a budget 8-port desktop model in neutral packing from small lots, CE/RoHS — would an industrial switch SKU fit your range?",
-  "mail_review": {
-    "binding": {
-      "level": "未触达（A 邮箱 5 封 2025→2026，无记录打开，0 回；收件 info@kmsoltec.com；主题多为「10G Enterprise SFP Switch、Booster PoE Switch」）；Elsa 群发 BCC 已触达 2025-04-01「Marvell Alleycat5 Solution」（稿内无价，第 74 批(p) 已读稿），IT 批次 To INFO@sarcitalia.it，0 回（第 74 批 Bcc 头核对 msg 195f09436b3ed616）",
-      "type": "工业 PC 制造/分销（意大利，Delock 配件）",
-      "sieve": "1（只收到群发）",
-      "stop": "只打通用邮箱，无记录打开",
-      "revive": "保持季度群发到 2027-Q1；无打开即停",
-      "lane": "意大利（欧洲全域主攻）",
-      "cadence": "季度",
-      "evidence": "gmail_digest：out 5；用户表：「卖德国Delock公司的；switch」；研究档 risks：交换机为配套品类（Delock 配件级），量小；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To INFO@sarcitalia.it）本户见于 2025-04-01 名单；2026-08-31 最新一轮名单已不含此地址 → 中途被剔除（退信 / 退订 / 手工）"
-    },
-    "situation": "意大利 KM Soltec Srl（定制工业 PC「Made in Italy」、工业触控设备、Asus 迷你 PC 认证经销；表内「卖德国 Delock 公司的；switch」「质量一般」）；表内 1 次跟进无回复。",
-    "need": "工业 PC 配套 → 工业 8 GE 非管理 STI-080GE（$31.4 @20%）、5 GE STI-050GE（$17.0）；Delock 桌面交换机位 HRUI STC-08GE（$10.5）",
-    "breakpoint": "交换机为配套品类（Delock 配件级），量小",
-    "saga_now": {
-      "p1": "STI-080GE",
-      "tier": 20,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-16 $280（10G Enterprise SFP Switch）",
-      "why": "工业 PC 配套 → 工业 8 GE 非管理 STI-080GE（$31.4 @20%）、5 GE STI-050GE（$17.0）；Delock 桌面交换机位 HRUI STC-08GE（$10.5）",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "群发节奏",
-      "channel": "A 邮箱",
-      "action": "观察打开",
-      "one_question": "For the switches you bundle with your industrial PCs and Delock accessories, we supply DIN-rail 5/8-port gigabit units and a budget 8-port desktop model in neutral packing from small lots, CE/RoHS — would an industrial switch SKU fit your range?"
-    },
-    "facts": [
-      {
-        "date": "2025-04-01",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To INFO@sarcitalia.it，IT 批次）",
-        "quote": "Marvell Alleycat5 Solution — We are doing Marvell Alleycat5 chip for tailored networking solutions. 1, Support Web GUI change(Logo, model name, MAC, SN, SNMP, OID) 2, Added intere",
-        "why": "Elsa 箱群发 BCC 触达证据（命中地址 info@kmsoltec.com, kmsoltec.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-        "k": "elsa_bcc"
-      },
-      {
-        "date": "2026-03-02",
-        "dir": "去",
-        "who": "A 群发",
-        "quote": "10G Enterprise SFP Switch、Booster PoE Switch",
-        "why": "5 封 / 0 次打开 / 0 回｜首封 2025-10-16 → 末封 2026-03-02（5 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "卖德国Delock公司的；switch",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-25"
+  {
+   "kind": "用户表",
+   "claim": "工业 FS / MC / SFP / 光猫，ONV 工业 FS",
+   "quote": "工业FS MC SFP 光猫；ONV的工业FS",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "泰国",
+  "other": "官网 focomm-cabling.com，语言 th，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "光缆 / 铜缆 / 机柜分销",
+  "PoE 交换机 / MC / SFP / GPON ONU",
+  "网络测试仪器（NF-716ADHS 等）"
+ ],
+ "channels": {
+  "role": "布线与网络设备分销商（面向 SI / 工厂 / 政府项目）",
+  "region": "泰国",
+  "contact": "info@focomm-cabling.com"
+ },
+ "signals": [
+  "产品页 /industrial-poe-switch/、/industrial-l3-managed-poe-switch-4xbase-x-8xbase-t/、/industrial-web-smart-managed-poe-switch-4xports-2xgigabit-sfp/",
+  "站内 kw：sfp 149 / fiber 140 / media converter 84 / industrial 87 / data center 50",
+  "表内「可以尝试多跟进一下」"
+ ],
+ "risks": [
+  "泰国（T5）价格敏感；现货源 ONV（深圳）价格基准低",
+  "政府项目（โครงการราชการ）占比：只做非关键节点、不做招标担保",
+  "群发 16 次无回复：换角度（同口型对位）首触"
+ ],
+ "saga_fit": {
+  "p1": "STI-488DGGPM",
+  "tier": 20,
+  "why": "产品页「工业 L3 管理 4 光 8 电 PoE」（ONV 货源）→ Saga 工业 L2+ 4×2.5G SFP + 8 PoE STI-488DGGPM（$147.1 @20%，L3 待核）；Web-smart 4 PoE + 2 SFP → STI-244GPM（$64.6）；MC 位 STI-110GE"
+ },
+ "email_hook": "For the industrial PoE pages now filled with ONV units (4 fiber + 8 PoE managed, 4 PoE + 2 SFP web-smart), we supply the same port layouts on a Marvell platform (−40~75 °C, neutral packing) from small lots — which of the two layouts do your SI customers order more?",
+ "products_seen": [
+  {
+   "brand": "ONV（分销）",
+   "model": "Industrial L3 managed PoE 4×Base-X + 8×Base-T",
+   "spec": "工业 L3 4 光 8 电 PoE",
+   "saga": "STI-488DGGPM（L2+）",
+   "url": "https://focomm-cabling.com/industrial-l3-managed-poe-switch-4xbase-x-8xbase-t/",
+   "date": "2026-10-21"
+  },
+  {
+   "brand": "ONV（分销）",
+   "model": "Industrial web-smart PoE 4 ports + 2 SFP",
+   "spec": "工业 Web-smart 4 PoE + 2 SFP",
+   "saga": "STI-244GPM",
+   "url": "https://focomm-cabling.com/industrial-web-smart-managed-poe-switch-4xports-2xgigabit-sfp/",
+   "date": "2026-10-21"
+  }
+ ],
+ "mail_review": {
+  "binding": {
+   "level": "读而不回（A/S 邮箱 25 封 2024→2026，其中 2 封被打开，0 回；收件 info@focomm-cabling.com；被打开主题「Industrial PoE Switch、24 Port PoE Managed Switch」；Elsa 箱：`to:focomm-cabling.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 25 / 来 0）（第 74 批(n)））",
+   "type": "布线与网络设备分销商（面向 SI / 工厂 / 政府项目）",
+   "sieve": "2（有人在读，无人回）",
+   "stop": "读而不回 = 内容未命中或没有当下需求",
+   "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
+   "lane": "泰国 非主攻",
+   "cadence": "一封；回了再说",
+   "evidence": "gmail_digest：out 25，Opened 标签 2（Simon 群发追踪）；用户表：「工业FS MC SFP 光猫 ONV的工业FS」；研究档 risks：泰国（T5）价格敏感；现货源 ONV（深圳）价格基准低"
+  },
+  "situation": "泰国 Focomm Cabling（布线与网络设备分销：光缆 / UTP / 机柜 / PoE 交换机 / MC / SFP / GPON ONU，面向 SI、工厂、政府与私营项目；产品页工业 PoE：L3 管理 4×Base-X + 8×Base-T、Web-smart 4 PoE + 1/2 SFP；表内「工业 FS / MC / SFP / 光猫，ONV 的工业 FS」）；群发 16 次无回复。",
+  "need": "产品页「工业 L3 管理 4 光 8 电 PoE」（ONV 货源）→ Saga 工业 L2+ 4×2.5G SFP + 8 PoE STI-488DGGPM（$147.1 @20%，L3 待核）；Web-smart 4 PoE + 2 SFP → STI-244GPM（$64.6）；MC 位 STI-110GE",
+  "breakpoint": "泰国（T5）价格敏感；现货源 ONV（深圳）价格基准低",
+  "saga_now": {
+   "p1": "STI-488DGGPM",
+   "tier": 20,
+   "price": "首触锚价 STI-488DGGPM $148.5 EXW（2026-06 PDF 上限 $148.5（档位 147.1–159.3）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-07-08 $220（48 port managed switch）、2025-10-15 $280（10G Enterprise SFP Switch）、2026-06-26 $16000（32 Port 400GB DC Switch）",
+   "why": "产品页「工业 L3 管理 4 光 8 电 PoE」（ONV 货源）→ Saga 工业 L2+ 4×2.5G SFP + 8 PoE STI-488DGGPM（$147.1 @20%，L3 待核）；Web-smart 4 PoE + 2 SFP → STI-244GPM（$64.6）；MC 位 STI-110GE。已打开的主题（2/25 封有打开记录）：「16 Port PoE Managed Switch」(2025-02-03)、「Marvell Managed Commercial Switches」(2026-03-20) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-02-27)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2026-11",
+   "channel": "A 邮箱 → info@focomm-cabling.com",
+   "action": "短信一问（email_hook）",
+   "one_question": "For the industrial PoE pages now filled with ONV units (4 fiber + 8 PoE managed, 4 PoE + 2 SFP web-smart), we supply the same port layouts on a Marvell platform (−40~75 °C, neutral packing) from small lots — which of the two layouts do your SI customers order more? Reference: STI-488DGGPM at $148.5 USD EXW (MOQ 1, 15-day validity)."
+  },
+  "facts": [
+   {
+    "date": "2026-09-28",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Industrial PoE Switch、24 Port PoE Managed Switch",
+    "why": "25 封 / 2 次打开 / 0 回｜首封 2024-07-08 → 末封 2026-09-28（25 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "工业FS MC SFP 光猫 ONV的工业FS",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": {
+   "subject": "One question — Industrial PoE Switch",
+   "body": "Hello,\n\nWe have sent you a few mails on \"Industrial PoE Switch\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor the industrial PoE pages now filled with ONV units (4 fiber + 8 PoE managed, 4 PoE + 2 SFP web-smart), we supply the same port layouts on a Marvell platform (−40~75 °C, neutral packing) from small lots — which of the two layouts do your SI customers order more?\n\nReference price: DIN-rail 8-PoE + 4 × 2.5G SFP L2+ managed industrial switch (Marvell AC5) (STI-488DGGPM) $148.5 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+  },
+  "as_of": "2026-10-24"
+ }
 }

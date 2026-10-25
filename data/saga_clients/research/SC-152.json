@@ -1,0 +1,90 @@
+{
+ "code": "SC-152",
+ "name_official": "Security Development Corp, SRL（Sedecorp，sedecorp.com，Santo Domingo, República Dominicana）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线",
+ "summary": "多米尼加共和国圣多明各的电子安防批发分销商（2006 年成立，11–50 人；Provision-ISR、Hanwha、AVTECH、DSC、ZKTeco 授权分销；总裁 Wilfredo Suriel García；销售与市场经理 Boanergis Olmos Hane）。**用户表国别登记为「美国」有误——实为多米尼加（加勒比），不在 US/CA + 欧洲 + 土耳其聚焦区域。** WhatsApp 已加，19 次跟进 0 回复。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "Provision-ISR",
+  "Hanwha",
+  "AVTECH",
+  "DSC",
+  "ZKTeco"
+ ],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "地址与联系方式",
+   "quote": "Nuestra Oficina: Camila Henriquez Ureña #8, Mirador Norte, Santo Domingo, Republica Dominicana Llamanos tel:. 809-633-2323 servicioalcliente@sedecorp.com",
+   "url": "https://sedecorp.com/",
+   "date": "2020-01-24"
+  },
+  {
+   "kind": "LinkedIn",
+   "claim": "业务、品牌授权、规模、高管",
+   "quote": "Security Development Corporation. Somos Distribuidores al por mayor de equipos de seguridad electrónica. Distribuidores autorizados de las marcas: #Provision #Hanwha, #AVTECH, #DSC, #ZKTeco en República Dominicana … Company size: 11-50 employees Headquarters: Santo Domingo … Founded: 2006 … Wilfredo Suriel Garcia President & CEO of Sedecorp … Boanergis Elias Olmos Hane encargado de ventas y mercadeo",
+   "url": "https://www.linkedin.com/company/sedecorp",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "登记国别「美国」（有误）；WhatsApp 已加；19 次跟进 0 回复",
+   "quote": "（用户表字段）",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Wilfredo Suriel García",
+   "role": "Presidente / CEO（LinkedIn 公开）",
+   "email": "—（未公开）",
+   "phone": "+1 809-633-2323（公司）",
+   "source": "https://www.linkedin.com/company/sedecorp"
+  },
+  {
+   "name": "Boanergis Olmos Hane",
+   "role": "Encargado de Ventas y Mercadeo（LinkedIn 公开）",
+   "email": "—（未公开）",
+   "phone": "+1 809-633-2323（公司）",
+   "source": "https://www.linkedin.com/company/sedecorp"
+  }
+ ],
+ "grade_override": "C",
+ "override_reason": "2026-10-21 核实：公司位于多米尼加共和国（用户表误记为美国），不在聚焦区域且 19 次跟进 0 回复 → C（子原因：区域外）。若用户决定开拓拉美可改回 B。",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 国别由表内「美国」更正为「多米尼加」（country_fix，依据见加厚块）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网 + LinkedIn 核对 · 国别更正）"
+ },
+ "company_facts": {
+  "legal_name": "Security Development Corp, SRL（Sedecorp）",
+  "founded": "2006",
+  "hq": "Calle Camila Henríquez Ureña No. 8, Mirador Norte, Santo Domingo 10114, República Dominicana（+1 809-633-2323；servicioalcliente@sedecorp.com / marketing@sedecorp.com）",
+  "size": "11–50（LinkedIn）",
+  "other": "授权分销：Provision-ISR、Hanwha Techwin、AVTECH、DSC、ZKTeco；20+ 年经验、254+ 项目（官网口径）"
+ },
+ "business_lines": [
+  "电子安防批发（CCTV、门禁、报警）"
+ ],
+ "channels": {
+  "网站": "https://sedecorp.com/",
+  "电话": "+1 809-633-2323（官网公开）",
+  "邮箱（公开）": "servicioalcliente@sedecorp.com"
+ },
+ "signals": [
+  "安防分销商本应是 PoE 交换机常规买家，但区域外且 0 回复"
+ ],
+ "risks": [
+  "区域外（加勒比），物流/支付/售后成本高；19 次跟进 0 回复"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 20,
+  "why": "不推进（区域外）；若恢复按分销 20% 档报 STC-28DGGPM 配 Hanwha/Provision 项目"
+ },
+ "email_hook": "（不发送：区域外；若恢复）For the Provision-ISR and Hanwha kits you distribute, the 8-port PoE+ managed switch at $80.7 EXW is the usual add-on line; shall I quote a carton quantity?",
+ "country_fix": "多米尼加"
+}

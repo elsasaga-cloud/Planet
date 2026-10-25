@@ -1,0 +1,66 @@
+{
+ "code": "SC-144",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（comcores.com，快照 2026-10-21）",
+ "summary": "丹麦 Comcores（以太网/FPGA IP 核供应商——Ethernet Switch IP 等；KP Thomas Nørgaard（CEO）、Peter Ekner（Product Manager - Ethernet Systems）；表内「Ethernet Switch」）；表内未跟进。",
+ "type": "IP 核供应商（芯片层，品类不符）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：comcores.com",
+   "quote": "",
+   "url": "http://www.comcores.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "Ethernet Switch",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "Ethernet Switch（IP 核）",
+   "quote": "Ethernet Switch",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "品类不符：IP 核供应商（芯片层）；c_sub=品类不符（板级/芯片）",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "丹麦",
+  "other": "官网 comcores.com，语言 ?，快照状态 ok；角色判定来源：待核"
+ },
+ "business_lines": [
+  "以太网 / FPGA IP 核（丹麦）"
+ ],
+ "channels": {
+  "role": "IP 核供应商（芯片层，品类不符）",
+  "region": "丹麦",
+  "contact": "thomas.noergaard@comcores.com、peter.ekner@comcores.com"
+ },
+ "signals": [
+  "表内：Ethernet Switch；KP Thomas Norgaard / CEO；Peter Ekner / Product Manager - Ethernet Systems",
+  "快照：内容为空"
+ ],
+ "risks": [
+  "品类不符：以太网 IP 核（芯片/FPGA 层面）"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 25,
+  "why": "FPGA/以太网 IP 核公司（芯片层面，不经销整机）→ 改 C（品类不符）"
+ },
+ "email_hook": "（不发送：IP 核公司）"
+}

@@ -1,0 +1,60 @@
+{
+ "code": "SC-051",
+ "name_official": "Alhossan（alhossan.ly，利比亚；ISAF 参展记录为土耳其）",
+ "researched_at": "2026-10-21",
+ "website_status": "未核",
+ "summary": "ISAF 记录：Saad Fetury（s.fetury@alhossan.ly）——Ady 加了 WhatsApp，要商业级 PoE 交换机；无跟进。域名指向利比亚 → C 区域外（WhatsApp 已加，若对方主动询价可被动报价）。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "商用 PoE；.ly 域名；WA 已加",
+   "quote": "Ady加了WhatsApp  要商业级POE交换机 / Saad Fetury / s.fetury@alhossan.ly",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Saad Fetury",
+   "role": "（ISAF 名片；职务待核）",
+   "email": "s.fetury@alhossan.ly（用户表）",
+   "phone": "—（WhatsApp 已加）",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": "C",
+ "override_reason": "区域外：.ly 域名（利比亚），用户表国家「土耳其」为 ISAF 参展地误记；不在 Saga 区域，收款/物流风险高",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 国别由表内「土耳其」更正为「利比亚」（country_fix，依据见加厚块）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（身份判断 → 区域外降 C）"
+ },
+ "company_facts": {
+  "legal_name": "Alhossan（待核）",
+  "hq": "Libya（.ly）",
+  "size": "待核",
+  "other": "—"
+ },
+ "business_lines": [
+  "（待核）"
+ ],
+ "channels": {
+  "网站": "http://alhossan.ly/（未核）"
+ },
+ "signals": [
+  "商用 PoE 需求但区域外；WhatsApp 已加 → 被动响应"
+ ],
+ "risks": [
+  "区域外 → C"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 25,
+  "why": "不推进（区域外；被动响应时报 STC-228GP $30.8）"
+ },
+ "email_hook": "（不主动发送）",
+ "country_fix": "利比亚"
+}

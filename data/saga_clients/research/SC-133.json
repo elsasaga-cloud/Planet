@@ -1,0 +1,66 @@
+{
+ "code": "SC-133",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（netzkontor.de，快照 2026-10-21）",
+ "summary": "德国 Netzkontor（数字基础设施：光纤网络的规划、设计、建设、运营与服务——约 150 万住户、6 万 km；表内「Networking」）；表内 2 次跟进无回复。",
+ "type": "光纤网络建设/运营集团（德国）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Netzkontor: Wir schaffen digitale Infrastrukturen in Deutschland | Netzkontor；品类词 光纤 / 媒体转换",
+   "quote": "Projektierung, Planung, Bau, Betrieb und Service: Netzkontor ist auf den Aufbau von digitalen Infrastrukturen in Deutschland spezialisiert.",
+   "url": "https://www.netzkontor.de/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "Networking",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Netzkontor 定位",
+   "quote": "Netzkontor: Wir schaffen digitale Infrastrukturen in Deutschland ; Projektierung, Planung, Bau, Betrieb und Service",
+   "url": "https://www.netzkontor.de/",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "工程服务/运营商性质（光纤网络建设与运营）；c_sub=品类不符（工程服务）",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "德国",
+  "other": "官网 netzkontor.de，语言 de-DE，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "数字基础设施规划 / 建设 / 运营（德国）"
+ ],
+ "channels": {
+  "role": "光纤网络建设/运营集团（德国）",
+  "region": "德国",
+  "contact": "info@netzkontor.de"
+ },
+ "signals": [
+  "官网：Projektierung, Planung, Bau, Betrieb und Service: Netzkontor ist auf den Aufbau von digitalen Infrastrukturen in Deutschland spezialisiert ; ca. 1.500.000 ; ca. 60.000",
+  "表内：Networking"
+ ],
+ "risks": [
+  "品类不符 + 体量：光纤网络规划建设与运营（工程服务/运营商性质）；2 次无回复"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 25,
+  "why": "光纤网络规划建设与运营（工程服务/运营商性质，大型）→ 改 C"
+ },
+ "email_hook": "（不发送：工程服务/运营商）"
+}

@@ -1,132 +1,143 @@
 {
- "code": "SB-1023",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（daejinnetworks.com，快照 2026-10-21）",
- "summary": "韩国 대진네트웍스 Daejin Networks（「Disruptive & Reliable Network Solution Provider」：Vision AI、光传输、NVIDIA Jetson、TAP 交换机 V530/V550/V680-TAP、Tibit PON、以太网交换机 CTC8180（CENTEC 平台）、VPN 路由器；表内「CENTEC Switch」「质量高」，info/sales 邮箱均退信）；表内未成功跟进。",
- "type": "韩国网络方案商（CENTEC 平台交换机，邮箱待补）",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：대진네트웍스, Vision AI, Optical, NVIDIA Jetson, TAP Switch, VPN Router；品类词 电信 / FTTH / ISP 设备 / 网络交换 / PoE",
-   "quote": "대진네트웍스, Vision AI, Optical, NVIDIA Jetson, TAP 스위치, Tibit, Ethernert switch, VPN Router",
-   "url": "https://www.daejinnetworks.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "CENTEC Switch",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "Daejin 定位",
-   "quote": "대진네트웍스, Vision AI, Optical, NVIDIA Jetson, TAP Switch, VPN Router ; Disruptive & Reliable Network Solution Provider ; CTC8180",
-   "url": "https://www.daejinnetworks.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "CENTEC Switch；邮箱退信",
-   "quote": "CENTEC Switch；质量高 INFO SALES都不行",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "韩国",
-  "other": "官网 daejinnetworks.com，语言 ko，快照状态 ok；角色判定来源：官网文案"
- },
- "business_lines": [
-  "网络方案（Vision AI / 光传输 / TAP 交换机 / PON / VPN 路由）",
-  "以太网交换机（CENTEC 平台）"
- ],
- "channels": {
-  "role": "韩国网络方案商（CENTEC 平台交换机，邮箱待补）",
-  "region": "韩国",
-  "contact": "（表内无邮箱）"
- },
- "signals": [
-  "官网：대진네트웍스, Vision AI, Optical, NVIDIA Jetson, TAP Switch, VPN Router ; Tibit ; Ethernert switch；站内 V530-TAP / V550-TAP / V680-TAP / CTC8180；kw switch 42 / ftth 8",
-  "表内：CENTEC Switch；质量高；INFO SALES 都不行"
- ],
- "risks": [
-  "邮箱待补：info@ / sales@ 均退信（表内「INFO SALES 都不行」），需网站表单或 LinkedIn 另寻",
-  "非主攻区（T5，韩国）；CENTEC 线价格待核（Hohunet 对照表无价格）"
- ],
- "saga_fit": {
-  "p1": "STH-2C24XF-SFI",
-  "tier": 30,
-  "why": "CENTEC 交换机需求 → Saga Hohunet/CENTEC 线 STH-2C24XF-SFI（24×10G SFP+ + 2×100G，价格待核）/ 接入位 Marvell STC-424XGGM（$138.0 @30%）"
- },
- "email_hook": "For the CENTEC-based Ethernet switches in your portfolio, we supply CENTEC-platform 10G/25G/100G aggregation models and Marvell-based 24-GE + 4×10G access switches from small lots with neutral or your label, CE/RoHS; KC by your side — which port configuration do your projects need most?",
- "products_seen": [
-  {
-   "brand": "Daejin（自有/代理）",
-   "model": "CTC8180",
-   "spec": "CENTEC 平台以太网交换机",
-   "saga": "STH 系列（CENTEC，价格待核）",
-   "url": "https://www.daejinnetworks.com/",
-   "date": "2026-10-21"
-  }
- ],
- "mail_review": {
-  "binding": {
-   "level": "未发信（S/A 邮箱均无往来；来源：用户表「CENTEC Switch」；Elsa 箱：`to:daejinnetworks.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(n)））",
-   "type": "韩国网络方案商（CENTEC 平台交换机，邮箱待补）",
-   "sieve": "—（未入筛）",
-   "stop": "从未触达",
-   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
-   "lane": "KR 次级（点名）",
-   "cadence": "首封后看打开",
-   "evidence": "gmail_digest：out 0；用户表：「CENTEC Switch」；研究档 risks：邮箱待补：info@ / sales@ 均退信（表内「INFO SALES 都不行」），需网站表单或 LinkedIn 另寻"
-  },
-  "situation": "韩国 대진네트웍스 Daejin Networks（「Disruptive & Reliable Network Solution Provider」：Vision AI、光传输、NVIDIA Jetson、TAP 交换机 V530/V550/V680-TAP、Tibit PON、以太网交换机 CTC8180（CENTEC 平台）、VPN 路由器；表内「CENTEC Switch」「质量高」，info/sales 邮箱均退信）；表内未成功跟进。",
-  "need": "CENTEC 交换机需求 → Saga Hohunet/CENTEC 线 STH-2C24XF-SFI（24×10G SFP+ + 2×100G，价格待核）/ 接入位 Marvell STC-424XGGM（$138.0 @30%）",
-  "breakpoint": "邮箱待补：info@ / sales@ 均退信（表内「INFO SALES 都不行」），需网站表单或 LinkedIn 另寻",
-  "saga_now": {
-   "p1": "STH-2C24XF-SFI",
-   "tier": 30,
-   "price": "首触锚价 STH-2C24XF-SFI $1500 EXW（CENTEC 锚价 $1,500（2C24XF-HSI；SFI 单电源更低，按单核）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
-   "why": "CENTEC 交换机需求 → Saga Hohunet/CENTEC 线 STH-2C24XF-SFI（24×10G SFP+ + 2×100G，价格待核）/ 接入位 Marvell STC-424XGGM（$138.0 @30%）",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "待 Simon 排期（首封）",
-   "channel": "A 邮箱 → 待找地址（daejinnetworks.com 官网联系页；库内无邮箱）",
-   "action": "首封：按 email_hook 一问（第 75 批(m) 2026-10-25：英文信稿已写 `draft_en`；库内无邮箱——官网/EC21 找到再发；CENTEC 按 2C24XF-HSI $1,500 报，SFI 单电源版 on request）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
-   "one_question": "For the CENTEC-based Ethernet switches in your portfolio, we supply CENTEC-platform 10G/25G/100G aggregation models and Marvell-based 24-GE + 4×10G access switches from small lots with neutral or your label, CE/RoHS; KC by your side — which port configuration do your projects need most? Reference: 24 × 10G SFP+ + 2 × 100G aggregation (STH-2C24XF-HSI, dual PSU) at $1,500 USD EXW; lead time confirmed per order."
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "CENTEC Switch",
-    "why": "表内备注",
-    "k": "用户表"
-   }
+  "code": "SB-1023",
+  "name_official": "DIPOL Portugal / Skua Technology（葡萄牙）",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（dipol.pt，快照 2026-10-21，葡语）",
+  "summary": "葡萄牙 DIPOL（波兰 DIPOL 集团分支，Skua Technology 运营；Braga +351 253 618 579）IP CCTV / LAN / WLAN / 卫星电视 / 天线 / 线缆批发（Hikvision、Dahua、TP-Link；poe 242 / switch 160 / cctv 124 / industrial 57）；表内 MC / FS / SFP / VC；无跟进。",
+  "type": "",
+  "size": "",
+  "brands_seen": [
+    "Hikvision",
+    "Dahua",
+    "TP-Link",
+    "DIPOL（自有）"
   ],
-  "proof_gaps": [
-   "无邮件往来"
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "IP CCTV、LAN、WLAN、SAT-TV、天线、线缆；品牌 Hikvision / Dahua / TP-Link；+351 253 618 579；office@dipol.pt",
+      "quote": "IP CCTV, LAN, WLAN, TV, SAT TV, Antenas, Cabos - DIPOL… brands Hikvision, Dahua, TP-Link… +351 253 618 579",
+      "url": "https://dipol.pt/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "MC FS SFP VC；很多牌子的产品",
+      "quote": "兴趣：MC FS SFP VC",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "draft_en": {
-   "subject": "CENTEC-platform aggregation switches from small lots - next to your CTC8180",
-   "body": "Hello Daejin Networks team,\n\nFor the CENTEC-based Ethernet switches in your portfolio: we supply CENTEC-platform aggregation switches from small lots, neutral or your label - 24 x 10G SFP+ + 2 x 100G QSFP28, L3 (BGP/OSPF), dual PSU - model STH-2C24XF-HSI - $1,500 USD EXW (MOQ 1, 15-day validity); 32 x 100G - STH-32C-HSI - $6,000; and Marvell-based access, 24 x Gigabit + 4 x 10G SFP+ L2+ - STC-424XGGM - $138.0. CE/RoHS files supplied; KC stays on your side.\n\nOne question: which port configuration do your projects need most - 10G aggregation, 100G spine, or gigabit access?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+  "kp": [
+    {
+      "name": "（办公室）",
+      "title": "Office",
+      "email": "office@dipol.pt",
+      "phone": "+351 253 618 579",
+      "source": "https://dipol.pt/"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（官网快照核对 + 表内）"
   },
-  "as_of": "2026-10-24"
- }
+  "company_facts": {
+    "legal_name": "Skua Technology Lda（DIPOL Portugal）",
+    "founded": "",
+    "hq": "Braga, Portugal",
+    "size": "中小型批发（集团分支）",
+    "other": "DIPOL 集团（波兰）自有品牌配件"
+  },
+  "business_lines": [
+    "CCTV / 网络 / 电视天线批发"
+  ],
+  "channels": {
+    "role": "批发分销商（集团分支）",
+    "region": "葡萄牙"
+  },
+  "signals": [
+    "PoE / 工业词频高 → 配套 PoE 与工业 FS 品类成熟",
+    "DIPOL 集团自有品牌 → 贴牌可能（需总部）"
+  ],
+  "risks": [
+    "采购可能由波兰总部统一；无具名联系人"
+  ],
+  "saga_fit": {
+    "p1": "STI-288GP",
+    "tier": 20,
+    "why": "CCTV 室外工业 2 光 8 PoE → STI-288GP（$57.4 @20%）；商用 STC-28DGGPM。"
+  },
+  "email_hook": "For the DIPOL Portugal CCTV range — a DIN-rail 2-SFP + 8-PoE industrial at $57 EXW and a Marvell L2+ 8-PoE + 2-SFP at $81; is product selection done in Braga or by DIPOL Poland?",
+  "mail_review": {
+    "binding": {
+      "level": "读而不回（S 邮箱 7 封 2024→2025，其中 3 封被打开，0 回；收件 dipol@skuatechnology.com；被打开主题「2.5G Unmanaged Switch、Industrial fiber switch」）；Elsa 群发 To 直收 1 轮 2025-02-18（本户是「PT/IE/SE/OM/HU/NZ/RO/MT/AE/BE 早期混合」批次的锚：每轮 To 本户、其余客户 Bcc；最近 2025-02-18「Mini Industrial PoE Switch」），0 回（第 74 批核对 msg 19518800c3f89634）",
+      "type": "—",
+      "sieve": "2（有人在读，无人回）",
+      "stop": "读而不回 = 内容未命中或没有当下需求",
+      "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
+      "lane": "葡萄牙（欧洲全域主攻）",
+      "cadence": "一封；回了再说",
+      "evidence": "gmail_digest：out 7，Opened 标签 3（Simon 群发追踪）；用户表：「兴趣：MC FS SFP VC」；研究档 risks：采购可能由波兰总部统一；无具名联系人；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To dipol@skuatechnology.com）本户见于 2025-02-18 名单；同批次（To info@iotkomponenty.sk）本户见于 2026-08-13 名单；2025-02-17 首轮名单无此地址 → 中途加入"
+    },
+    "situation": "葡萄牙 DIPOL（波兰 DIPOL 集团分支，Skua Technology 运营；Braga +351 253 618 579）IP CCTV / LAN / WLAN / 卫星电视 / 天线 / 线缆批发（Hikvision、Dahua、TP-Link；poe 242 / switch 160 / cctv 124 / industrial 57）；表内 MC / FS / SFP / VC；无跟进。",
+    "need": "CCTV 室外工业 2 光 8 PoE → STI-288GP（$57.4 @20%）；商用 STC-28DGGPM。",
+    "breakpoint": "采购可能由波兰总部统一；无具名联系人",
+    "saga_now": {
+      "p1": "STI-288GP",
+      "tier": 20,
+      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-09-03 $65（10G Media Converter）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-13 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-13；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
+      "why": "CCTV 室外工业 2 光 8 PoE → STI-288GP（$57.4 @20%）；商用 STC-28DGGPM。已打开的主题（3/7 封有打开记录）：「Industrial fiber switch」(2024-08-02)、「10G media converter」(2024-09-03)、「Industrial PoE Switch」(2024-12-21) → 读者兴趣偏「工业」；与 P1 同类，继续",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "2026-11",
+      "channel": "S 邮箱 → dipol@skuatechnology.com",
+      "action": "首封前知悉：Elsa 已 To 直发 1 轮（2025-02-18）（最近 2026-08-13「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 短信一问（email_hook）",
+      "one_question": "For the DIPOL Portugal CCTV range — a DIN-rail 2-SFP + 8-PoE industrial at $57 EXW and a Marvell L2+ 8-PoE + 2-SFP at $81; is product selection done in Braga or by DIPOL Poland?"
+    },
+    "facts": [
+      {
+        "date": "2025-01-17",
+        "dir": "去",
+        "who": "S 群发",
+        "quote": "2.5G Unmanaged Switch、Industrial fiber switch",
+        "why": "7 封 / 3 次打开 / 0 回｜首封 2024-07-02 → 末封 2025-01-17（7 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
+        "date": "2025-02-18",
+        "dir": "去",
+        "who": "Elsa 群发（To 直收：本户是「PT/IE/SE/OM/HU/NZ/RO/MT/AE/BE 早期混合」批次的锚，其余客户在 Bcc）",
+        "quote": "Mini Industrial PoE Switch — This is about our MINI Din unmanaged switches for you. 1. 100/1000M auto-adaptive SFP fiber 2. support DIP for flexible configuration 3. PoE optional,",
+        "why": "Elsa 箱群发直达证据（To dipol@skuatechnology.com）；该批次 1 轮 2025-02-18 每轮都以本户为 To；S/A digest 看不到 Elsa 的发信",
+        "k": "elsa_bcc"
+      },
+      {
+        "date": "2026-08-13",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To info@iotkomponenty.sk，SK/RO/BE/FI/PT/IE/SE/HU/MT/NZ/AE+非洲散户 批次）",
+        "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
+        "why": "Elsa 箱群发 BCC 触达证据（命中地址 dipol.pt, office@dipol.pt）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+        "k": "elsa_bcc"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "兴趣：MC FS SFP VC",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": {
+      "subject": "One question — 2.5G Unmanaged Switch",
+      "body": "Hi Dipol,\n\nWe have sent you a few mails on \"2.5G Unmanaged Switch\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor the DIPOL Portugal CCTV range — a DIN-rail 2-SFP + 8-PoE industrial at $57 EXW and a Marvell L2+ 8-PoE + 2-SFP at $81; is product selection done in Braga or by DIPOL Poland?\n\nPrices are USD EXW, 2026-10-17 snapshot, valid 15 days.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+    },
+    "as_of": "2026-10-25"
+  }
 }

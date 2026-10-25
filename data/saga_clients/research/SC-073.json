@@ -1,0 +1,40 @@
+{
+ "code": "SC-073",
+ "name_official": "IT Telecom（ittelecom.ir，伊朗）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（快照 2026-10-21，波斯语网店）",
+ "summary": "伊朗网络 / CCTV / 光纤产品网店（SFP 134、PoE 58、switch 14；在售丰润达、宇航同类产品），产品线与 Saga 高度相似；伊朗 → 守界降 C。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "伊朗网络、CCTV、光纤产品评测与销售网店",
+   "quote": "مرجع نقد و بررسی و فروش محصولات شبکه ، دوربین مدار بسته و فیبرنوری",
+   "url": "https://ittelecom.ir/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "产品线很相似；有一款丰润达的，也有宇航的",
+   "quote": "兴趣：产品线很相似",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "伊朗（制裁 / 守界）",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（身份判断 → 伊朗降 C）"
+ },
+ "saga_fit": {
+  "p1": null,
+  "tier": 20,
+  "why": "不供伊朗。"
+ },
+ "email_hook": "（不主动发送）"
+}

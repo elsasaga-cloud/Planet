@@ -1,253 +1,221 @@
 {
- "code": "SA-031",
- "name_official": "BitStream S.A.（Lublin, Poland）",
- "website_status": "在线",
- "summary": "波兰卢布林的工业网络与时间同步设备制造商（15+ 年，2023 年改制股份公司），自研自产：Hyperion 系列工业以太网交换机（DIN/机架、PoE、L2/L3、PRP/HSR 冗余）、MC、接口转换器、PTP/NTP 时间服务器、加密路由器；出口西欧/北欧/北美/南美/澳洲，政府出口名录公开联系人 mbeczek@bitstream.pl。用户表：A 已回复，自己的牌子，工业 FS/SFP/MC 及其他产品，有人卖他们的，回复中有详细联系方式。",
- "type": "品牌商/制造商（工业网络自有品牌；MC/SFP/部分交换机可能外采贴牌）",
- "size": "小型（trade.gov.pl「Size Small」）",
- "brands_seen": [
-  "BitStream",
-  "Hyperion"
- ],
- "evidence": [
-  {
-   "kind": "第三方（trade.gov.pl 官方出口名录）",
-   "claim": "定位、产品线与公开联系人",
-   "quote": "BitStream S.A. is a leading Polish technology company specializing in the design and manufacturing of advanced data transmission, time synchronization, and industrial networking equipment … Industrial Networking & Ethernet Switches: Managed and unmanaged DIN-rail/rack Ethernet switches supporting zero-failover redundancy protocols (PRP/HSR) … E-mail: mbeczek@bitstream.pl",
-   "url": "https://www.trade.gov.pl/en/polish-companies/bitstream-spolka-akcyjna",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "产品类目含 PoE/L2/L3 交换机与光纤 MC",
-   "quote": "PoE, Przełącznik L3, Przełączniki Ethernet, Przełączniki L2 HYPERION-402 … Mediakonwertery, konwertery interfejsów",
-   "url": "https://bitstream.pl/technologie/technika-swiatlowodowa/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "Hyperion 105 规格",
-   "quote": "Industrial managed switch with 8/4x RJ45 10/100Mbps or 4x RJ45 10/100/1000Mbps and 2/4x SFP 100M/1000M/2.5Gbps … PoE ÷ PoE++/High PoE (802.3bt) support up to 90W per UTP port (max. 240W on all ports)",
-   "url": "https://bitstream.pl/en/products/hyperion-105/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "Hyperion 402 机架 L2+ 规格",
-   "quote": "Industrial managed L2 + switches with 4x 10 / 2.5 / 1G and 8/16/24/32 ports 10M / 100M / 1G RJ45 PoE ÷ High PoE or SFP 100 / 1000M slots … 19 ”1U chassis … maximum total PoE power is 500W",
-   "url": "https://bitstream.pl/en/products/hyperion-402/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "Hyperion 200 含 PTPv2 服务器、4×10G",
-   "quote": "Managed industrial Ethernet switch with PTPv2 time synchronization server function and 4x 1/2,5/10 Gbps i 8/16x 10M/100M/1G RJ45 PoE÷High PoE IEEE802.3bt … Power supply 36-60 VDC or 80-360 VDC / 75-270 V AC",
-   "url": "https://bitstream.pl/en/products/hyperion-200/",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "M. Beczek（mbeczek@）",
-   "role": "出口/商务联系人（官方名录公开）",
-   "email": "mbeczek@bitstream.pl",
-   "phone": "+48 691 161 866",
-   "source": "https://www.trade.gov.pl/en/polish-companies/bitstream-spolka-akcyjna"
-  },
-  {
-   "name": "Katarzyna Surowiec",
-   "role": "来信署名人（职务未在邮件署名里出现）",
-   "email": "ksurowiec@bitstream.pl",
-   "phone": "",
-   "source": "S/A 邮箱来信 2025-01-30 来信 1 封（第 72 批从邮件表头补）"
-  }
- ],
- "notes": "A 确认：欧洲工业网络品牌商，已回复并给了详细联系方式；切入点 = 其非核心 SKU（非管理工业交换机、MC、SFP）贴牌，30% 档；避免与其自研 PRP/HSR 高端线正面竞争。",
- "researched_at": "2026-10-21",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "深挖 v1"
- },
- "company_facts": {
-  "legal_name": "BitStream S.A.",
-  "founded": "15+ 年（2023 改制股份公司）",
-  "hq": "Lublin, Poland",
-  "staff": "小型（trade.gov.pl）",
-  "other": "自研自产 Hyperion 工业交换机（PTPv2、PROFINET A、DNP3、OAM、PRP/HSR），DIN 与 19\" 机架，36–60VDC/80–360VDC/AC 宽电源——技术自研型厂商，非纯贴牌"
- },
- "business_lines": [
-  "Hyperion 工业交换机（105/200/300/402：4–32 口，PoE/bt 90W，2.5G/10G SFP+）",
-  "MC、接口转换器",
-  "PTP/NTP 时间服务器、加密路由器",
-  "出口西欧/北欧/北美/南美/澳洲"
- ],
- "products_seen": [
-  {
-   "brand": "BitStream",
-   "model": "Hyperion 105",
-   "spec": "工业管理 8/4×RJ45（FE 或 4×GE）+ 2/4×SFP（2×2.5G），PoE~bt 90W/口（总 240W），ITU K.44 4kV",
-   "url": "https://bitstream.pl/en/products/hyperion-105/",
-   "date": "2026-10-21",
-   "saga": "STI-288DGGPM / STI-144GP"
-  },
-  {
-   "brand": "BitStream",
-   "model": "Hyperion 200",
-   "spec": "工业管理 + PTPv2 服务器，4×1/2.5/10G + 8/16×GE PoE~bt（总 500W）或 SFP，DIN，-40~85℃",
-   "url": "https://bitstream.pl/en/products/hyperion-200/",
-   "date": "2026-10-21",
-   "saga": "STI-21616GP（16 口位，10G 上联待核）"
-  },
-  {
-   "brand": "BitStream",
-   "model": "Hyperion 300",
-   "spec": "工业 12/10 口（2×2.5G SFP + 6 SFP + 2 RJ45 或 8×GE PoE），RS232/485、DI/DO、1-wire，DIN IP-30",
-   "url": "https://bitstream.pl/en/products/hyperion-300/",
-   "date": "2026-10-21",
-   "saga": "STI-288DGGPM"
-  },
-  {
-   "brand": "BitStream",
-   "model": "Hyperion 402",
-   "spec": "19\" 1U L2+ 4×10/2.5/1G + 8/16/24/32×GE PoE~bt（总 500W）",
-   "url": "https://bitstream.pl/en/products/hyperion-402/",
-   "date": "2026-10-21",
-   "saga": "STC-424XGGPM-280W / STC-448XGGM(L3)"
-  }
- ],
- "channels": {
-  "网站": "https://bitstream.pl/en/",
-  "直邮": "mbeczek@bitstream.pl（出口名录）/ ahyz@bitstream.pl / dpietrzyk@bitstream.pl（用户表）"
- },
- "signals": [
-  "Hyperion 全线规格远高于公版（PTPv2、PROFINET、OAM、500W bt）——自研能力强，Saga 可供的是其入门/非管理与机架 PoE 的成本位，而非替换 Hyperion（2026-10-21）",
-  "用户表：A 已回复，自己的牌子，有人卖他们的；回复中有详细联系方式"
- ],
- "risks": [
-  "自研厂商对二供要求固件透明度/长期供货承诺（5–10 年）",
-  "竞品定位：若 Saga 以低价工业机切入可能被视为冲突其高端线——定位为「入门级/项目配套」"
- ],
- "saga_fit": {
-  "p1": "STC-424XGGPM-280W",
-  "tier": 30,
-  "why": "Hyperion 402 机架 24 口 PoE + 4×10G 位对位 STC-424XGGPM-280W（成本型项目配套）；DIN 入门位 STI-288DGGPM/STI-144GP；贴 BitStream 标 30% 档"
- },
- "email_hook": "Below the Hyperion 402 class, a cost-optimised 24-port gigabit PoE rack switch with 4x 10G SFP+ uplinks is the slot where a Marvell-based second line usually earns its place for project work, so that is the unit I am quoting in BitStream packing first.",
- "mail_review": {
-  "binding": {
-   "level": "未绑定（2025-01-30 助理问价 → STI-288DGGPM-2BT 140 USD → 无下文；Elsa 箱：`to:.pl` 穷举 24 条（2026-10-25，锚批 Bcc 头已读）未见 bitstream.pl → Elsa 箱从未发过本户，往来只在 S/A 箱（去 20 / 来 2）（第 74 批(f)））",
-   "type": "波兰工业网络自有品牌制造商（PRP/HSR 高端自研）——第一档类型但 Saga 只适合其非核心 SKU",
-   "sieve": "2",
-   "stop": "140 USD 报价后无回；2026-08 群发只收到休假自动回复",
-   "revive": "其非核心 SKU（非管理工业/MC）补源",
-   "lane": "PL/EU",
-   "cadence": "2024-06 → 2026-09 去信 20 封；最后人工来信 2025-01-30",
-   "evidence": "k=ab20a2586535bf26 / 627139dd3ba20af7 / 97cffda9f4680ebc"
-  },
-  "situation": "Katarzyna（管理层助理）2025-01-30 问「What is the price?」，Alan 报 STI-288DGGPM-2BT 140 USD 并说明 Marvell、有 L3 版；无回。2026-08 发给生产技术员 Aleksander Hyz 得到休假回复（备用联系人 Tomasz Jargieło）。",
-  "need": "工业 L2+ PoE（bt）——但 BitStream 自研线覆盖此段。",
-  "breakpoint": "同业型品牌商：Saga 的管理型正是其自研段；只有非核心 SKU 有空间。",
-  "saga_now": {
-   "p1": "STI-244GP / STI-110GE（非管理工业 / MC）",
-   "tier": 30,
-   "price": "换人再触锚价 STI-244GP $35 EXW（最近实报 $35（㉕）；第 72 批 2026-10-24）；按 30%；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-22 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-08-17 $65（10G Media Converter）、2025-10-10 $280（10G Enterprise SFP Switch）",
-   "why": "换到非核心 SKU 问一次。已打开的主题（5/20 封有打开记录）：「90W PoE Managed Switch」(2025-01-30)、「Re: 90W PoE Managed Switch」(2025-01-30)、「Re: 90W PoE Managed Switch」(2025-03-20)、「Re: 90W PoE Managed Switch」(2025-04-21) → 读者兴趣偏「PoE 接入」；当前 P1 属「10G 汇聚/L3」，下一封按「PoE 接入」给，不按 P1",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "2027-Q1",
-   "channel": "A 邮箱 → tjargielo@ / ahyz@",
-   "action": "一句话问其外采的非核心 SKU（第 75 批(o) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用；换人/一问口径））（第 76 批(b) 2026-10-25：audit_ab 硬错误修正：同款群发价 $170→$180 补汇率说明（㉟））（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
-   "one_question": "Which part of the BitStream catalogue is bought-in today (unmanaged DIN, MC, SFP), and would an externally sourced unmanaged DIN line (and a Marvell L2+ managed tier above it) be considered? Reference: STI-244GP at $35 USD EXW (MOQ 1, 15-day validity)."
-  },
-  "facts": [
-   {
-    "date": "2024-06-24",
-    "dir": "去",
-    "who": "S 箱（Simon）",
-    "quote": "industrial PoE Switch",
-    "why": "首封去信（邮箱索引；去信共 20 封）",
-    "k": "22105ed97d7fc03d"
-   },
-   {
-    "date": "2024-08-17",
-    "dir": "去",
-    "who": "S 箱（Simon）",
-    "quote": "10G media converter｜稿内价 $65",
-    "why": "去信正文含价（邮箱索引）",
-    "k": "5a4481b7a50bac3f"
-   },
-   {
-    "date": "2024-08-17",
-    "dir": "去",
-    "who": "S 箱（Simon）报价",
-    "quote": "10G media converter｜ $65（原句：Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unma）",
-    "why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
-    "k": "5a4481b7a50bac3f"
-   },
-   {
-    "date": "2024-11-22",
-    "dir": "去",
-    "who": "S 箱（Simon）报价",
-    "quote": "48 Port PoE Managed Switch｜ $300（原句：*Price is very competitive, 300usd/pc*）",
-    "why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
-    "k": "4c3cbe3a33e8be4e"
-   },
-   {
-    "date": "2025-01-30",
-    "dir": "来",
-    "who": "Katarzyna Surowiec",
-    "quote": "What is the price?",
-    "why": "询价",
-    "k": "ab20a2586535bf26"
-   },
-   {
-    "date": "2025-01-30",
-    "dir": "去",
-    "who": "Alan",
-    "quote": "140usd/pc STI-288DGGPM-2BT… L3 managed version si also available",
-    "why": "报价后停",
-    "k": "627139dd3ba20af7"
-   },
-   {
-    "date": "2025-01-30",
-    "dir": "去",
-    "who": "A 箱（Alan）",
-    "quote": "Re: 90W PoE Managed Switch｜稿内价 $140",
-    "why": "去信正文含价（邮箱索引）",
-    "k": "627139dd3ba20af7"
-   },
-   {
-    "date": "2025-01-30",
-    "dir": "来",
-    "who": "ksurowiec@bitstream.pl",
-    "quote": "Re: 90W PoE Managed Switch｜What is the price?  -- Pozdrawiam,    *Katarzyna Surowiec*Asystentka Zarządu  *Phone* +48 81 743 86 43 *Web* www.bitstream.pl *Email* ksurowiec@bitstr",
-    "why": "来信（邮箱索引；原文见 k；是否人工回复以原文为准）",
-    "k": "ab20a2586535bf26"
-   },
-   {
-    "date": "2026-08-11",
-    "dir": "来",
-    "who": "ahyz@bitstream.pl",
-    "quote": "Nieobecność Re: 24 Port PoE Managed Switch｜W dniach 07-21.08.2026 jestem na urlopie. W sprawach pilnych proszę kontaktować się z Tomaszem Jargieło na adres mailowy tjargielo@bitstream.pl  --   ",
-    "why": "来信（邮箱索引；原文见 k；是否人工回复以原文为准）",
-    "k": "97cffda9f4680ebc"
-   },
-   {
-    "date": "2026-09-07",
-    "dir": "去",
-    "who": "A 箱（Alan）",
-    "quote": "16 Port Industrial PoE Switch",
-    "why": "最近一封去信（邮箱索引；去信共 20 封）",
-    "k": "559de04d8706b132"
-   }
+  "code": "SA-031",
+  "name_official": "Trường Sơn Solutions Co., Ltd.（Công ty TNHH Giải pháp và Xây lắp Trường Sơn, HCMC, Vietnam）",
+  "website_status": "在线（truongsonsolutions.vn / switchcongnghiep.com）",
+  "summary": "胡志明市的工业交换机专营分销商（2019 年注册，登记员工 5 人；另有河内办公室），分销 ONV 工业 PoE 交换机、Advantech EKI、韩国 GTWave（主打 Non-China/NDAA）、三星/HUNT 摄像机；域名 switchcongnghiep = 「工业交换机」。用户表：A 已回复 1 次，17 次跟进；兴趣 OEM/ODM、MC/FS/机架/工业 FS、ONV 全线引进；多家 AI 评 30%–80%。",
+  "type": "分销商/电商（工业交换机垂直）",
+  "size": "5 人（dauthau.asia 登记）",
+  "brands_seen": [
+    "ONV",
+    "Advantech",
+    "GTWave",
+    "Sambo",
+    "HUNT",
+    "PLANET",
+    "3Onedata"
   ],
-  "proof_gaps": [],
-  "draft_en": {
-   "subject": "Below the Hyperion line - the non-core SKUs BitStream buys in",
-   "body": "Hi Tomasz,\n\nIn January 2025 your colleague asked the price of our 8-port industrial PoE++ managed switch and we answered $140; nothing since, which is fair - that segment is exactly what BitStream builds itself. (Aleksander's auto-reply named you as the contact.)\n\nWhere a second line from us usually fits a manufacturer like you is the non-core SKU: DIN-rail 4 x Gigabit PoE+ + 2 x SFP unmanaged, -40 to 75 C, CE/RoHS - model STI-244GP - $35 USD EXW (MOQ 1, 15-day validity); or a cost-optimised 24 x PoE+ + 4 x 10G SFP+ rack unit for project work, L2+ managed, Marvell-based - STC-424XGGPM-280W - $180 (the summer mails said $170; the RMB/USD rate has moved from 7.2 to 6.7 since).\n\nOne question: which non-core SKUs does BitStream buy in rather than build?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+  "evidence": [
+    {
+      "kind": "官网（博客）",
+      "claim": "分销 ONV 工业 PoE 交换机",
+      "quote": "Truong Son Solutions Co.,Ltd là đơn vị phân phối Switch PoE công nghiệp ONV, Camera Sambo Hàn Quốc, Camera HUNT Taiwan … Email : info@truongsonsolutions.com 090949007",
+      "url": "https://truongsonsolutions.wordpress.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网",
+      "claim": "同时引入韩国 GTWave Non-China 线（说明客户有非中国产线需求）",
+      "quote": "Switch công nghiệp có quản lý 8 cổng GTWave Non-China đạt NDAA GTW-D08M2",
+      "url": "https://truongsonsolutions.vn/thuong-hieu/gtwave/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "第三方（dauthau.asia）",
+      "claim": "注册信息与规模",
+      "quote": "TRUONG SON SOLUTIONS AND CONTRUCTIONS COMPANY LIMITED, tax code 0315784421 … Company Establishment Date 12/07/2019 · The number of workers 5",
+      "url": "https://dauthau.asia/en/businesslistings/detail/TRUONG-SON-SOLUTIONS-AND-CONTRUCTIONS-COMPANY-LIMITED-137944/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网",
+      "claim": "ONV-IPS33054PF 规格",
+      "quote": "ONV-IPS33054PF series là dòng sản phẩm Switch PoE công nghiệp unmanaged tốc độ gigabit … 4×10/100/1000M RJ45 và 1x1000M SFP, Port 1->4 (PoE) hổ trợ chuẩn PoE IEEE802.3af/at",
+      "url": "https://truongsonsolutions.vn/san-pham/switch-poe-cong-nghiep-4-port-ips33054pf/",
+      "date": "2020-06-13"
+    },
+    {
+      "kind": "官网",
+      "claim": "ONV-IPS31004PF 售价",
+      "quote": "IPS31004PF Switch PoE công nghiệp 4 Port 4,159,500₫ … 4 Port RJ45 tốc độ 10/100M … 1 Port Uplink quang SC",
+      "url": "https://truongsonsolutions.vn/san-pham/ips31004pf-switch-poe-cong-nghiep-4-cong-1-sfp/",
+      "date": "2020-06-23"
+    }
+  ],
+  "kp": [
+    {
+      "name": "—",
+      "role": "总机/销售（官网）",
+      "email": "info@truongsonsolutions.com",
+      "phone": "+84 909 490 007",
+      "source": "https://truongsonsolutions.vn/lien-he/"
+    }
+  ],
+  "notes": "A 维持（垂直工业交换机分销 + 已回复 + 对深圳供应链开放），但规模小（5 人）；P1 = STI-288DGGPM 对位 ONV IPS33xx 系列，20% 分销档；注意它同时在推 Non-China 线，报价不提产地。",
+  "researched_at": "2026-10-21",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "深挖 v1"
   },
-  "as_of": "2026-10-24"
- }
+  "company_facts": {
+    "legal_name": "Công ty TNHH Giải pháp và Xây lắp Trường Sơn（Truong Son Solutions Co., Ltd.）",
+    "founded": "2019 注册",
+    "hq": "Ho Chi Minh City（另河内办公室）",
+    "staff": "5（登记）",
+    "other": "工业交换机垂直分销：ONV 工业 PoE 全线、PLANET（IGUP-1205AT）、3Onedata（IES5028G）、Advantech EKI、GTWave（Non-China/NDAA 卖点）、Sambo/HUNT 摄像机；站点 truongsonsolutions.vn + switchcongnghiep.com + wordpress；热线 0916.799.345"
+  },
+  "business_lines": [
+    "ONV 工业 PoE 交换机分销（IPS31004PF、IPS33054PF、IPS31064PF、IPS33168PFM、IPS36368PFM…）",
+    "PLANET / 3Onedata / Advantech / GTWave 工业网络",
+    "韩国/台湾摄像机"
+  ],
+  "products_seen": [
+    {
+      "brand": "ONV",
+      "model": "ONV-IPS33054PF",
+      "spec": "工业非管理 4×GE PoE + 1 SFP",
+      "url": "https://truongsonsolutions.vn/san-pham/switch-poe-cong-nghiep-4-port-ips33054pf/",
+      "date": "2020-06-13",
+      "saga": "STI-144GP"
+    },
+    {
+      "brand": "ONV",
+      "model": "ONV-IPS31004PF",
+      "spec": "工业 4×FE PoE + 1 SC，4,159,500 VND",
+      "url": "https://truongsonsolutions.vn/san-pham/ips31004pf-switch-poe-cong-nghiep-4-cong-1-sfp/",
+      "date": "2020-06-23",
+      "saga": "STI-144GP（千兆升级）"
+    },
+    {
+      "brand": "ONV",
+      "model": "ONV-IPS33168PFM",
+      "spec": "工业管理 8 GE PoE（+SFP）",
+      "url": "https://truongsonsolutions.vn/san-pham/switch-poe-cong-nghiep-4-port-ips33054pf/",
+      "date": "2020-06",
+      "saga": "STI-288DGGPM"
+    },
+    {
+      "brand": "ONV",
+      "model": "ONV-IPS36368PFM",
+      "spec": "工业 L2+ 10G 上联 36 口（8 GE + 24 SFP + 4 SFP+）",
+      "url": "https://truongsonsolutions.vn/san-pham/10g-uplink-36-port-l2-managed-industrial-poe-switch/",
+      "date": "2020-09-20",
+      "saga": "—"
+    },
+    {
+      "brand": "PLANET",
+      "model": "IGUP-1205AT",
+      "spec": "工业 2 SFP → 1 bt 95W MC",
+      "url": "https://switchcongnghiep.com/san-pham/switch-cong-nghiep-planet-igup-1205at/",
+      "date": "2020-10-28",
+      "saga": "—"
+    },
+    {
+      "brand": "3Onedata",
+      "model": "IES5028G-8GC-4GS",
+      "spec": "工业 16 GE + 8 combo + 4 SFP",
+      "url": "https://switchcongnghiep.com/san-pham/ies5028g-8gc-4gs/",
+      "date": "2020-09-22",
+      "saga": "—"
+    }
+  ],
+  "channels": {
+    "网站": "https://truongsonsolutions.vn/ · https://switchcongnghiep.com/",
+    "直邮": "info@truongsonsolutions.com（用户表）",
+    "电话": "0916.799.345（官网公开）"
+  },
+  "signals": [
+    "多品牌工业交换机垂直分销——有现成客户群与品类知识；用户表：OEM/ODM、ONV 全线引进、MaiWe",
+    "GTWave 分销主打 Non-China/NDAA——同时经营中国 ONV，说明按客户分层卖"
+  ],
+  "risks": [
+    "ONV 全线在手，Saga 为同类替代；越南不在主攻区；5 人小公司"
+  ],
+  "saga_fit": {
+    "p1": "STI-144GP",
+    "tier": 20,
+    "why": "其最走量型 IPS33054PF/IPS31004PF（4 PoE + 1 光）= STI-144GP；IPS33168PFM = STI-288DGGPM；分销 20% 档"
+  },
+  "email_hook": "Against your ONV-IPS33054PF and IPS33168PFM listings, the 4+1 and 8+2 industrial PoE units (managed versions on a Marvell platform) are the two I can quote at EXW today as an alternative line under your own label.",
+  "mail_review": {
+    "binding": {
+      "level": "未绑定（询问阶段，但 2026-07-15 有带型号的 CENTEC 询价：STH-8C24XF-HSI ×2 + 24×10G Base-T/2×100G ×2）；Elsa 群发 BCC 已触达 2026-09-10「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，越南（锚 vienthonghanoi VN） 批次 To inbox.vienthonghanoi@gmail.com，0 回（第 74 批 Bcc 头核对 msg 1a08a3bf37753529）",
+      "type": "胡志明市工业交换机垂直分销/电商（5 人），同时推 Non-China 线——第三档",
+      "sieve": "2",
+      "stop": "2026-07-15 Alan 报 STH-8C24DX-HSI 2,200 USD（24×25G 可配 10G，有现货）/ STH-2C24XE-HSI 1,700 USD 后无回音；2025-12 要「OEM/ODM price list」只给了链接",
+      "revive": "其数据中心项目落地；VN 非主攻",
+      "lane": "VN",
+      "cadence": "2024-07 → 2026-09 去信 29 封；最后来信 2026-07-15",
+      "evidence": "k=cf6dcab93221d2af / 43477f95c8d2e436 / 8ef6fe719128cb52；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To inbox.vienthonghanoi@gmail.com）本户见于 2026-09-10 名单"
+    },
+    "situation": "2025-12-19 对 Alert System 群发回「Pls share me your price list for OEM/ODM」，2026-07-15 对 Q3 链接回具体 RFQ（2 台 STH-8C24XF-HSI + 2 台 24×10G Base-T/2×100G），Alan 同日报 2,200 / 1,700 USD。此后 5 封 PoE 群发无回。",
+    "need": "CENTEC 10G/25G 数据中心交换机 2+2 台（项目）；OEM/ODM 价表。",
+    "breakpoint": "报价后项目窗口关闭；发去的后续全是无关 PoE。",
+    "saga_now": {
+      "p1": "STH-8C24DX-HSI / STH-2C24XE-HSI（2026-07 报价 2,200 / 1,700 USD）",
+      "tier": 25,
+      "price": "按 CENTEC ≥35% 底线复核；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-13 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-03-04 $65（10G Media Converter）、2025-08-11 $240（24 Port Fiber Switch）、2025-10-09 $280（10G Enterprise SFP Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-09-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-10；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
+      "why": "J5：只问项目，不发 PoE。已打开的主题（5/29 封有打开记录）：「Re: Marvell Industrial Alert System」(2025-12-19)、「Updated Ethernet Switches Links」(2026-02-16)、「Re: Saga Q3 Product Links」(2026-07-15)、「Saga Q3 Product Links」(2026-07-15) → 读者兴趣偏「工业」；与 P1 同类，继续 最近一封去信是 2026-09-24 A 邮箱 AC5 管理 PoE 模板（在本档最后一条事实之后）——下一封必须回到真人线程、不再叠模板｜已发资料（勿重发）：DIN Power Adapter(2024-08-06)、Download Link_Alan(2025-12-19)、Product Link_2026Q2(2026-02-16)、Saga Feature List_7.5.x_L2+(2026-06-24)、Product Link_2026Q3(2026-07-15)；7.5 Feature List 与 2026Q3 链接都已给过 → 下一封不能再是资料推送，只能是针对其需求的一句话/一个问题",
+      "repeat": [],
+      "gaps": [
+        "STH-8C24XF-HSI 现货状态（Alan 说无货）",
+        "CENTEC 交期：群发/7 月邮件写「ex-stock / Ready in stock」，正式报价单（iTM 2026-03）写 12~15 周——再报时交期按口径 #7「下单时确认」"
+      ]
+    },
+    "next_move": {
+      "when": "2026-11",
+      "channel": "A 邮箱 → info@truongsonsolutions.com",
+      "action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-09-10「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 一句话问 7 月 RFQ 的项目结果",
+      "one_question": "Did the July RFQ (2× 24×10G/25G + 2× 24×10GBASE-T) close with another vendor, or is it still open?"
+    },
+    "facts": [
+      {
+        "date": "2025-12-19",
+        "dir": "来",
+        "who": "Truong Son",
+        "quote": "Pls share me your price list for OEM/ODM.",
+        "why": "价表请求",
+        "k": "cf6dcab93221d2af"
+      },
+      {
+        "date": "2026-07-15",
+        "dir": "来",
+        "who": "Truong Son",
+        "quote": "Pls quote me model STH-8C24XF-HSI and (2pcs) and 2pcs 24 x 10G Base-T, 2 x 100GQSFP28",
+        "why": "RFQ",
+        "k": "43477f95c8d2e436"
+      },
+      {
+        "date": "2026-07-15",
+        "dir": "去",
+        "who": "Alan",
+        "quote": "STH-8C24XF-HSI (2pcs) No stock We recommend STH-8C24DX-HSI (ready in stock)… Price: 2200USD/PC 2. STH-2C24XE-HSI (2pcs) Ready in stock Price: 1700USD/PC",
+        "why": "报价",
+        "k": "8ef6fe719128cb52"
+      },
+      {
+        "date": "2026-09-10",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To inbox.vienthonghanoi@gmail.com，越南（锚 vienthonghanoi VN） 批次）",
+        "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
+        "why": "Elsa 箱群发 BCC 触达证据（命中地址 info@truongsonsolutions.com, truongsonsolutions.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+        "k": "elsa_bcc"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": {
+      "subject": "STH-8C24DX-HSI / STH-2C24XE-HSI — July RFQ",
+      "body": "Hi,\n\nIn July we quoted STH-8C24DX-HSI (24x25G + 8x100G) at $2,200 USD and STH-2C24XE-HSI (24x10GBASE-T + 2x100G) at $1,700 USD (availability as quoted then; lead time to be confirmed at order). We then sent you general PoE mail, which was not what you asked for; apologies.\n\nBoth prices are re-confirmed for 15 days from this mail, MA license pre-installed, hot-swap PSU.\n\nOne question: did the July RFQ (2 + 2 units) close with another vendor, or is it still open? If closed, which price did it close at — that helps us set the OEM/ODM list you asked for in December.\n\nThank you.\nAlan\nSaga Telecom - sagatele.com"
+    },
+    "as_of": "2026-10-25"
+  }
 }

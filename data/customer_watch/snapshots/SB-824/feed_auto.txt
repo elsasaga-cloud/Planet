@@ -1,18 +1,11 @@
-# SB-824 engeniustech.com · feed_auto · https://www.engeniustech.com/feed/ · fetched 2026-10-25T07:41:18Z · HTTP 200
-Fri, 08 May 2026 16:13:57 +0000	A Better DECT Alternative for Hospitality: EnGenius Durafon Series	https://www.engeniustech.com/a-better-dect-alternative-for-hospitality-engenius-durafon-series/
-Mon, 13 Apr 2026 16:53:43 +0000	Wireless Bridge Technologies: Delivering Long-Range Connectivity Without Wires	https://www.engeniustech.com/wireless-bridge-technologies-delivering-long-range-connectivity-without-wires/
-Thu, 09 Apr 2026 15:47:47 +0000	Extend Internet to Garage, Barn, or Guest House with a Wireless Bridge	https://www.engeniustech.com/extend-internet-to-garage-barn-or-guest-house-with-a-wireless-bridge/
-Wed, 08 Apr 2026 18:28:46 +0000	AI-Powered Surveillance: Transforming Security with Smart Video Analytics	https://www.engeniustech.com/ai-powered-surveillance-transforming-security-with-smart-video-analytics/
-Fri, 27 Mar 2026 15:09:52 +0000	Hospitality Wi-Fi Solutions: Considerations For Designing Modern Hotel Network Infrastructures	https://www.engeniustech.com/hospitality-wi-fi-solutions-considerations-for-designing-modern-hotel-network-infrastructures/
-Thu, 19 Mar 2026 20:52:08 +0000	Core Features of AI Surveillance for Proactive Safety	https://www.engeniustech.com/surveillance-camera-ai-core-features-of-ai-surveillance-for-proactive-safety/
-Tue, 10 Mar 2026 15:15:49 +0000	What are Intel® Xeon® 6 Processors?	https://www.engeniustech.com/what-are-intel-xeon-6-processors/
-Fri, 27 Feb 2026 15:58:17 +0000	What is OCP DC-MHS and how is it transforming modern data center server architecture?	https://www.engeniustech.com/what-is-ocp-dc-mhs-and-how-is-it-transforming-modern-data-center-server-architecture/
-Thu, 18 Sep 2025 21:43:17 +0000	ECW520: Bringing Wi-Fi 7 to Everyday Business Environments	https://www.engeniustech.com/ecw520-bringing-wi-fi-7-to-everyday-business-environments/
-Tue, 09 Sep 2025 02:25:30 +0000	Meet the Camera That Doesn’t Miss a Beat	https://www.engeniustech.com/meet-the-camera-that-doesnt-miss-a-beat/
-Tue, 13 May 2025 14:20:34 +0000	Better Control, Better Security: Understanding Layer 3 Outbound Firewall Rules for Wi-Fi Networks	https://www.engeniustech.com/better-control-better-security-understanding-layer-3-outbound-firewall-rules-for-wi-fi-networks/
-Mon, 31 Mar 2025 12:07:32 +0000	The Importance of Context-Aware AI Analysis in Surveillance	https://www.engeniustech.com/the-importance-of-context-aware-ai-analysis-in-surveillance/
-Tue, 25 Mar 2025 16:04:10 +0000	What is EnGenius Cloud Lite?	https://www.engeniustech.com/what-is-engenius-cloud-lite/
-Wed, 05 Jun 2024 14:38:42 +0000	Streamline Warehouse Communication: A Guide for Creating a Safer, More Efficient Operation	https://www.engeniustech.com/streamline-warehouse-communication-a-guide-for-creating-a-safer-more-efficient-operation/
-Wed, 06 Mar 2024 15:26:46 +0000	Navigating the Next Decade – The Future of MDU Networking	https://www.engeniustech.com/navigating-the-next-decade-the-future-of-mdu-networking/
-Thu, 22 Feb 2024 16:50:50 +0000	Why Telephony Solutions are Essential for Connectivity in MDUs	https://www.engeniustech.com/why-telephony-solutions-are-essential-for-connectivity-in-mdus/
-Fri, 05 Jan 2024 16:28:17 +0000	The Power of Switch Extenders: Overcoming Network Expansion Challenges	https://www.engeniustech.com/switch-extenders-in-mdu/
+# SB-824 synchsoft.com.pk · feed_auto · https://synchcom.com.pk/feed/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+Tue, 07 Jan 2020 16:57:04 +0000	Hello world!	https://synchcom.com.pk/hello-world/
+Mon, 26 Feb 2018 07:42:56 +0000	Post Format Standard	https://synchcom.com.pk/post-format-standard/
+Mon, 26 Feb 2018 07:40:26 +0000	Post Format Video	https://synchcom.com.pk/post-format-video/
+Mon, 26 Feb 2018 07:30:22 +0000	Post Format Image	https://synchcom.com.pk/post-format-image/
+Mon, 26 Feb 2018 07:10:17 +0000	Post Format Heading phasellus volutpat loremeget mauris ultricesnon scelerisque tellus volutpat.	https://synchcom.com.pk/post-format-heading-phasellus-volutpat-loremeget-mauris-ultricesnon-scelerisque-tellus-volutpat/
+Mon, 13 Jun 2016 12:20:29 +0000	Etiam laoreet sem	https://synchcom.com.pk/etiam-laoreet-sem-eget-eros-rhoncus-5/
+Thu, 01 Mar 2012 01:19:44 +0000	Video Post Type	https://synchcom.com.pk/video-post-type/
+Thu, 01 Mar 2012 01:13:57 +0000	Link Post Type	https://synchcom.com.pk/link-post-type/
+Thu, 01 Mar 2012 01:00:04 +0000	Gallery Post Type	https://synchcom.com.pk/gallery-post-tpye/
+Tue, 23 Aug 2011 20:43:50 +0000	Post With Left Sidebar	https://synchcom.com.pk/lorem-ipsum-dolor-sit-amet-2/

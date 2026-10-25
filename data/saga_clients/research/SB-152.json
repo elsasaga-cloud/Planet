@@ -1,120 +1,149 @@
 {
  "code": "SB-152",
- "name_official": "НАГ (NAG LLC, nag.ru，叶卡捷琳堡)",
+ "name_official": "Pulsar（pulsar.pl，Siechnice/Wrocław 一带，PL；自有品牌电源与 PoE 交换机制造商）",
  "researched_at": "2026-10-21",
- "website_status": "在线（nag.ru，快照 2026-10-21，俄语；快照页为其行业资讯门户）",
- "summary": "俄罗斯最大的运营商 / ISP 设备供应商之一（叶卡捷琳堡，自有品牌 **SNR**，2001 年起资讯门户 + 商城；量大、从中国 ODM 采购），联系人 L. Abrarova / Anatoly Kovtun（市场调研）：问过 400G 模块、相干模块，2025-09 对 Dual AC 回复「??」；需求偏 DWDM/高端（Saga 无）。NAG 自有 SNR 交换机线由中国厂 ODM → Saga 作为贸易商难介入，保留 B 低优先。",
+ "website_status": "在线",
+ "summary": "波兰电源/缓冲电源制造商 Pulsar，自有品牌 PoE 交换机产品线（S108/S108-90W/S108WP 8 口、S116/S116WP/USF1816P/SF116 16 口、SFG120-BT 16 GE + 4 GE + 4 SFP 802.3bt，工业 DIN PoE 交换机）；零售净价 8 口 325–434 zł、16 口 542–999 zł、SFG120-BT 1,187 zł；特色是 48–54 V DC 输入「WP（无电源）」版本配合自家缓冲电源（SWB-120 52 VDC/2×17Ah）。典型 OEM 买家（整机外采贴牌）。用户表：16 次跟进 0 回复。",
  "type": "",
  "size": "",
  "brands_seen": [
-  "SNR（自有）"
+  "Pulsar（自有品牌）",
+  "MEAN WELL（电源代理）"
  ],
  "evidence": [
   {
-   "kind": "官网快照",
-   "claim": "2001 年起的 ISP 行业资讯门户（nag.ru）",
-   "quote": "Один из старейших в Рунете информационно-аналитических порталов об интернет-провайдинге. С 2001 г.",
-   "url": "https://nag.ru/",
+   "kind": "官网",
+   "claim": "自有品牌 PoE 交换机线",
+   "quote": "Switche PoE firmy Pulsar oferują wiele korzyści … Zgodne ze standardami IEEE 802.3af/at/bt, urządzenia te zapewniają moc wyjściową od 15,4 W do 60 W",
+   "url": "https://www.pulsar.pl/PL_117_switche-poe",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "16 口系列价格与规格",
+   "quote": "S116 | 16 - 10/100 Mb/s | 30W | 2 - 1 Gb/s | … 740.00 | S116WP … 48 - 54 V DC … 570.00 | … SF116 … 2 - 1 Gb/s SFP … 999.00 | SFG120-BT | 16 - 1 Gb/s | 30W 60W | 4 - 1 Gb/s | 4 - 1 Gb/s | … 1 187.00",
+   "url": "https://www.pulsar.pl/PL_121_seria-sf",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "8 口系列价格",
+   "quote": "S108 | 8 - 10/100 Mb/s | 30W | 2 - 10/100 Mb/s | … 52 V DC … 434.00 | S108-90W … 325.00 | S108WP …",
+   "url": "https://www.pulsar.pl/PL_120_8-portowe",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "工业 DIN PoE 交换机与缓冲电源",
+   "quote": "Standard DIN - Switche PoE przemysłowe - Transformatory … Zasilacze - Buforowe - Seria DING2 … Seria DRC ( MEAN WELL )",
+   "url": "https://www.pulsar.pl/PL_182_switche-poe-przemyslowe",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "switch；问了 400G 模块，也看了相干模块；2025-09 Dual AC→??；Anatoly Kovtun 市场调查专员",
-   "quote": "兴趣：switch;问了400G模块 也看了相干模块；回复：??",
+   "claim": "16 次跟进 0 回复",
+   "quote": "（用户表字段）",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
- "kp": [
-  {
-   "name": "L. Abrarova",
-   "title": "（表内联系人）",
-   "email": "l.abrarova@nag.ru",
-   "phone": "+7 926 352 1056",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
-  },
-  {
-   "name": "Anatoly Kovtun",
-   "title": "市场调研专员",
-   "email": "a.kovtun@nag.ru",
-   "phone": "",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
-  }
- ],
+ "kp": [],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照 + 表内：规格外 / 规模大）"
+  "level": "B 级加厚 v1（官网目录核对）"
  },
  "company_facts": {
-  "legal_name": "ООО «НАГ»",
-  "founded": "2001（门户）",
-  "hq": "Екатеринбург, Россия",
-  "size": "大型（自有品牌 SNR，全国分支）",
-  "other": "中国 ODM 采购；制裁风险"
+  "legal_name": "Pulsar（pulsar.pl；法人全称待核）",
+  "hq": "波兰（Siechnice/Wrocław 区域，待核）",
+  "size": "制造商（规模待核）",
+  "other": "产品：缓冲电源（DING2/DRC/DRS/PSB）、变压器、PoE 交换机（商用+工业 DIN）；按 IEEE 802.3af/at/bt"
  },
  "business_lines": [
-  "运营商 / ISP 设备分销与自有品牌 SNR（交换机、光模块、DWDM）",
-  "行业资讯门户 nag.ru"
+  "缓冲/开关电源与变压器制造（自有品牌）",
+  "PoE 交换机（商用 8/16 口；工业 DIN；bt 60W）",
+  "PoE 缓冲供电系统（SWB-120）"
+ ],
+ "products_seen": [
+  {
+   "brand": "Pulsar",
+   "model": "S108-90W",
+   "spec": "8×FE PoE + 2×FE 上联，90W，桌面，325 zł 净",
+   "url": "https://www.pulsar.pl/PL_9999_S108-90W_",
+   "date": "2026-10-21",
+   "saga": "STC-028GP（8 GE PoE，$24.2）/ STC-28DGGPM（管理）"
+  },
+  {
+   "brand": "Pulsar",
+   "model": "S108WP",
+   "spec": "8×FE PoE，48–57 V DC 输入（无电源版）",
+   "url": "https://www.pulsar.pl/PL_120_S108WP_switch-poe-10-portowy-s108wp-bez-zasilacza-do-8-kamer-ip",
+   "date": "2026-10-21",
+   "saga": "STI-088GP（8 GE PoE，DC 44–57 V，$45.7 @30）"
+  },
+  {
+   "brand": "Pulsar",
+   "model": "SF116 / SFG120-BT",
+   "spec": "16 PoE + 2 GE + 2 SFP（999 zł）/ 16 GE PoE bt 60W + 4 GE + 4 SFP（1,187 zł）",
+   "url": "https://www.pulsar.pl/PL_121_seria-sf",
+   "date": "2026-10-21",
+   "saga": "STI-21616GP（16 GE PoE + 2 SFP，$184.6 @30）"
+  }
  ],
  "channels": {
-  "role": "大型分销 + 自有品牌（ODM 直采）",
-  "region": "俄罗斯及独联体"
+  "网站": "https://www.pulsar.pl/",
+  "目录": "https://www.pulsar.pl/PL_117_switche-poe"
  },
  "signals": [
-  "需求 400G / 相干 → 高端 DWDM（Saga 无）",
-  "SNR 接入交换机 ODM 可能性（需 SmartByte 原厂直谈）"
+  "整机外采贴牌型制造商；其 WP（48–54 V DC 无电源）版本与 Saga STI DC 输入系列天然匹配；缺千兆 8 口管理与 2.5G 型号 → 可补线"
  ],
  "risks": [
-  "规模大 + 直接对接中国原厂 → 贸易商无空间",
-  "俄罗斯制裁 / 收款"
+  "已有稳定 OEM 来源（多为深圳厂）；对价格极敏感；16 次跟进 0 回复"
  ],
  "saga_fit": {
-  "p1": null,
+  "p1": "STC-28DGGPM",
   "tier": 30,
-  "why": "其询价对象为 400G / 相干模块（规格外）；接入交换机 ODM 需原厂层面（30% 口径），暂无主推型。"
+  "why": "OEM 30% 档：STC-28DGGPM（8 GE PoE+ 2 SFP 管理，$87.4）补其千兆管理空档；DC 输入版用 STI-088GP/STI-288GP；16 口 STI-21616GP；2.5G STC-424XGGPM-280W"
  },
- "email_hook": "（不主动发送；若其采购询接入层 ODM 再转 SmartByte 原厂）",
+ "email_hook": "Your WP switches run from 48–54 V DC buffered supplies; our DIN 8-port gigabit PoE units take 44–57 V DC natively and can carry the Pulsar label — would a gigabit S108WP-class model fill the gap in your series?",
  "mail_review": {
   "binding": {
-   "level": "轻度触达（2025-10-01 sales@nag.ru 回「? ?」→ Alan 复述；无后续；Elsa 箱：`to:nag.ru` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 17 / 来 1）（第 74 批(l)））",
-   "type": "俄罗斯网络分销巨头（НАГ / NAG，叶卡捷琳堡）——自有 SNR 品牌，体量大",
-   "sieve": "1",
-   "stop": "sales@ 不是对口；NAG 有自有品牌 SNR（中国 ODM 体系成熟）",
-   "revive": "若做俄罗斯：找 SNR 产品经理",
-   "lane": "RU（点名）",
+   "level": "未触达（6 封来信全部是 Pulsar 三位员工的波兰语休假自动回复；无人工回复；Elsa 箱：`to:.pl` 穷举 24 条（2026-10-25，锚批 Bcc 头已读）未见 pulsar.pl → Elsa 箱从未发过本户，往来只在 S/A 箱（去 18 / 来 6）（第 74 批(f)））",
+   "type": "波兰电源/PoE 交换机制造商（Pulsar）——竞品制造商",
+   "sieve": "0",
+   "stop": "自产 PoE 交换机，无动机",
+   "revive": "不动；备用具名邮箱：lenaw@pulsar.pl（自动回复中出现的同司具名邮箱，2024-08-26，k=7d303c2991a9b78c；从未发过）",
+   "lane": "PL 次级",
    "cadence": "不动",
-   "evidence": "k=79823d7c4b89ed10；第 19 批回补来信原文 1 条（gmail_s/gmail_a）"
+   "evidence": "k=061d3f430c1dc282 等"
   },
   "situation": "—",
   "need": "—",
   "breakpoint": "—",
   "saga_now": {
    "p1": "—",
-   "tier": 30,
-   "price": "—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2025-01-08 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-08-27 $300（48 Port PoE Managed Switch）、2025-10-01 $280（10G Enterprise SFP Switch）",
-   "why": "已打开的主题（2/17 封有打开记录）：「Re: 10G Enterprise SFP Switch」(2025-10-01)、「Booster PoE Switch」(2025-10-31) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续",
+   "tier": 20,
+   "price": "—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-04 $65（10G media converter）；群发里他已看到的价（续，第 66 批全量复核）：2025-08-05 $300（48 Port PoE Managed Switch）",
+   "why": "已打开的主题（7/18 封有打开记录）：「8 Port Industrial PoE Switch」(2024-11-25)、「16 Port PoE Managed Switch」(2025-01-30)、「Managed Optical Bypass Switch」(2025-04-21)、「48 Port PoE Managed Switch」(2025-08-05) → 读者兴趣偏「工业」；与 P1 同类，继续",
    "repeat": [],
-   "gaps": [
-    "SNR 产品经理邮箱"
-   ]
+   "gaps": []
   },
   "next_move": {
    "when": "不动",
-   "channel": "—",
+   "channel": "—；备用具名邮箱 → lenaw@pulsar.pl",
    "action": "—",
    "one_question": ""
   },
   "facts": [
    {
-    "date": "2025-10-01",
+    "date": "2024-08-26",
     "dir": "来",
-    "who": "sales@nag.ru",
-    "quote": "? ? ---------- Forwarded message --------- From: a.sagatelecom@gmail.com Date: 1 октября 2025 г. 9:20:00 Subject: 10G Enterprise SFP Switch To: sales@",
-    "why": "来信原文（主题「Re: 10G Enterprise SFP Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
-    "k": "79823d7c4b89ed10"
+    "who": "自动回复",
+    "quote": "自动回复里给出代理人/同事邮箱 lenaw@pulsar.pl",
+    "why": "群发一直发给休假/离职的人；这个地址从未发过，是换具名邮箱的现成入口",
+    "k": "7d303c2991a9b78c"
    }
   ],
   "proof_gaps": [],

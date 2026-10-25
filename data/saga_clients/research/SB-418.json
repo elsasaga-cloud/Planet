@@ -1,134 +1,130 @@
 {
- "code": "SB-418",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（ctcu.com.tw，快照 2026-10-21）",
- "summary": "台湾主向位科技 CTC Union（1993 年成立的网络通信产品制造商：L2/L3 管理交换机、TDM、MC、工业交换机、PoE 供电器；EN50155 / IEC 61850-3 / E-Mark 认证型；热门品 IGR-A804SM 资安强化 PoE、QSW-4624CM 2.5G；表内「和公司产品线接近，有多功能 VC，可再调查」，已有回复；KP Gary、總經理室 / 產品企劃處邮箱）。",
- "type": "台湾品牌制造商（按「台湾厂商口径」只谈 OEM/ODM 二供）",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：主向位科技股份有限公司 | 主向位科技是台灣網路通訊產品製造商 (包含第2層換機, TDM, 轉發器、工業級乙太網路交換器、轉換器、供電器等)。；品类词 工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 数据中心 / 企业 IT / 光纤 / 媒体转换 / 网络交换 / PoE",
-   "quote": "主向位科技致力於提供可靠、寬溫且高耐環境性的工業網路解決方案，專為嚴苛應用場域打造。產品涵蓋 L3/L2 管理型交換機、PoE 解決方案，以及符合 EN50155、IEC 61850-3 與 E-Mark 標準的認證型乙太網路交換機，滿足軌道交通、電力自動化與智慧運輸等關鍵網路應用需求。 主向位科技(CTC Union)成立於1993 年，是一家通過 ISO9001/14001 認證，擁有自己的產品研發團隊與生產工廠的專業網路通訊產品製造商。軟體開發系統遵循資安管理規範 IE",
-   "url": "https://www.ctcu.com/zh-TW/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "和公司产品线接近 有多功能VC 可以再调查一下；總經理室 ctcgmgroup@ctcu.com.tw 產品企劃處 ctc_pm_group@ctcu.com.tw",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "台湾网络通信产品制造商，1993 年成立，EN50155/IEC 61850-3/E-Mark 认证型",
-   "quote": "主向位科技致力於提供可靠、寬溫且高耐環境性的工業網路解決方案 … 符合 EN50155、IEC 61850-3 與 E-Mark 標準的認證型乙太網路交換機 … 成立於1993",
-   "url": "https://www.ctcu.com/zh-TW/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "产品线接近，有多功能 VC",
-   "quote": "和公司产品线接近 有多功能VC 可以再调查一下",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Gary",
-   "title": "（表内联系人）",
-   "email": "micro-chang@ctcu.com.tw",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "台湾",
-  "other": "官网 ctcu.com.tw，语言 zh-TW，快照状态 ok；角色判定来源：官网文案"
- },
- "business_lines": [
-  "L2/L3 管理交换机 / 工业交换机 / MC / TDM / PoE 供电器（自产）"
- ],
- "channels": {
-  "role": "台湾品牌制造商（按「台湾厂商口径」只谈 OEM/ODM 二供）",
-  "region": "台湾",
-  "contact": "micro-chang@ctcu.com.tw、ctcgmgroup@ctcu.com.tw"
- },
- "signals": [
-  "官网：L3/L2 管理型交换机、PoE 方案、EN50155 / IEC 61850-3 / E-Mark 认证型；成立于 1993",
-  "热门产品 IGR-A804SM（资安强化型 PoE）、QSW-4624CM（2.5G 网管）",
-  "KP：Gary；總經理室 ctcgmgroup@、產品企劃處 ctc_pm_group@（表内）"
- ],
- "risks": [
-  "台湾制造商、产品线重叠：竞争关系大于采购关系；已有回复但未报需求",
-  "轨道/电力认证型（EN50155 / IEC 61850-3 / E-Mark）Saga 不做",
-  "非主攻区（T5）"
- ],
- "saga_fit": {
-  "p1": "STI-288GPM",
-  "tier": 30,
-  "why": "产品线与 Saga 高度重叠（含 VC）→ 仅二供/补缺：工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）；其 EN50155/61850 认证型 Saga 不做"
- },
- "email_hook": "Gary, for the non-certified (non-EN50155/61850) entry industrial PoE models in your catalogue, we can be a second source on a Marvell platform (8-PoE + 2 SFP managed, −40~75 °C) from small lots — is there an entry SKU you would consider dual-sourcing?",
- "mail_review": {
-  "binding": {
-   "level": "轻度触达（2 封均为 CTC Union 内部转发（micro-chang → eddy-kao「FYI」），非对 Saga 的回复；Elsa 箱：`to:ctcu.com.tw OR to:ctcu.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 12 / 来 2）（第 74 批(n)））",
-   "type": "台湾工业网络制造商（CTC Union）",
-   "sieve": "1",
-   "stop": "内部转发",
-   "revive": "不动",
-   "lane": "TW",
-   "cadence": "不动",
-   "evidence": "k=e7feae9cbe6f3541 / 622d9c1213433077；第 19 批回补来信原文 1 条（gmail_s/gmail_a）"
-  },
-  "situation": "—",
-  "need": "—",
-  "breakpoint": "—",
-  "saga_now": {
-   "p1": "—",
-   "tier": 30,
-   "price": "—；群发里他已看到的价（续）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-04-29 $300（48 Port PoE Managed Switch）、2025-10-23 $280（10G Enterprise SFP Switch）",
-   "why": "已打开的主题（3/12 封有打开记录）：「Marvell Software Function List」(2025-03-27)、「10G Enterprise SFP Switch」(2025-10-23)、「OEM Core Switching Solution」(2026-01-13) → 读者兴趣偏「价格/目录」；与 P1 同类，继续",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—",
-   "one_question": ""
-  },
-  "facts": [
-   {
-    "date": "2026-01-13",
-    "dir": "来",
-    "who": "micro-chang@ctcu.com.tw",
-    "quote": "Eddy FYI *From:* sales2@ctcu.com.tw <sales2@ctcu.com.tw> *On Behalf Of *Alan from Saga Telecom *Sent:* Tuesday, January 13, 2026 12:40 PM *To:* market",
-    "why": "来信原文（主题「RE: OEM Core Switching Solution」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
-    "k": "622d9c1213433077"
-   },
-   {
-    "date": "2026-07-20",
-    "dir": "去",
-    "who": "Saga（Alan）",
-    "quote": "Hi, Mirco, How are you? *We've released firmware 7.5 on our AC5 Lite (Marvell 98DX2515/2518) platform, with a round of L2+ enhancements *focused on 1. IPv6 readiness (DHCPv6 server/relay/snooping, MLD snooping) 2. Expanded multicast support (IGMP v1/v2/v3, PIM-SM) *Please see attached full feature l…",
-    "why": "Saga 实质答复原文（主题「Re: OEM Core Switching Solution」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
-    "k": "2c088651a92dded8"
-   }
+  "code": "SB-418",
+  "name_official": "Atel Electronics（波兰）",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（atel.com.pl，快照 2026-10-21，波兰语）",
+  "summary": "波兰网络无源 / 有源元件、测量仪器、安装工具、AV 配件进口分销商（TP-Link、ORing；switch 713 / sfp 518 / poe 462），仅 cust@；表内「MC / Switch 等，价格比较高；MC 工业 FS SFP；ORing 的，商业 FS TP-Link」；群发 1 次。",
+  "type": "",
+  "size": "",
+  "brands_seen": [
+    "TP-Link",
+    "ORing"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "进口分销：网络无源与有源元件、测量仪器、安装工具、AV 配件；品牌 TP-Link / ORing；cust@atel.com.pl",
+      "quote": "Importem i dystrybucja pasywnych oraz aktywnych elementów sieci teleinformatycznych, przyrządów pomiarowych, narzędzi instalacyjnych… brands TP-Link, ORing",
+      "url": "https://atel.com.pl/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "MC Switch 等；价格比较高 MC 工业 FS SFP；Oring 的 商业 FS Tp-link",
+      "quote": "兴趣：MC Switch等;价格比较高 MC 工业FS SFP Oring的 商业FS Tp-link",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [
+    {
+      "name": "（客服）",
+      "title": "Customer service",
+      "email": "cust@atel.com.pl",
+      "phone": "",
+      "source": "（本地 Clients/ 表格，无公开 URL）"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（官网快照核对 + 表内）"
+  },
+  "company_facts": {
+    "legal_name": "Atel Electronics（待核）",
+    "founded": "",
+    "hq": "Poland",
+    "size": "中型进口分销",
+    "other": "ORing 工业线在售（高价）"
+  },
+  "business_lines": [
+    "网络元件 / 工具 / AV 进口分销"
+  ],
+  "channels": {
+    "role": "进口分销商",
+    "region": "波兰"
+  },
+  "signals": [
+    "ORing 工业线价格高 → 低价工业线补位",
+    "SFP / MC 品类深"
+  ],
+  "risks": [
+    "仅 cust@；比价"
+  ],
+  "saga_fit": {
+    "p1": "STI-288GP",
+    "tier": 20,
+    "why": "ORing 之下工业 2 光 8 PoE → STI-288GP（$57.4 @20%）；MC STI-110GE。"
+  },
+  "email_hook": "For the industrial range beside ORing — DIN 2-SFP + 8-PoE at $57 EXW (managed Marvell $79) and gigabit MC at $22; who is the buyer for active network products at Atel, so I send the sheet directly?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A/S 邮箱 12 封 2025→2026，无记录打开，0 回；收件 cust@atel.com.pl, praca@atel.com.pl；主题多为「10G Enterprise SFP Switch、24 Port PoE Managed Switch」）；Elsa 群发 BCC 已触达 2025-10-09「10G Enterprise SFP Switch」（正文「Price: 280usd/pc」，第 74 批(p) 读稿），PL-3（大分销 aat/lanberg/elmark/dipol/a2s） 批次 To info@axuse.com，0 回（第 74 批 Bcc 头核对 msg 199c8653559f6d15）",
+      "type": "—",
+      "sieve": "1（只收到群发）",
+      "stop": "12 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+      "revive": "保持季度群发到 2027-Q1；无打开即停",
+      "lane": "PL 次级重点",
+      "cadence": "季度",
+      "evidence": "gmail_digest：out 12；用户表：「兴趣：MC Switch等;价格比较高 MC 工业FS SFP Oring的 商业FS Tp-link」；研究档 risks：仅 cust@；比价；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To info@axuse.com）本户见于 2025-10-09 名单；该批次最早 2025-04-03 起共 7 轮，更早轮次 Bcc 未读"
+    },
+    "situation": "波兰网络无源 / 有源元件、测量仪器、安装工具、AV 配件进口分销商（TP-Link、ORing；switch 713 / sfp 518 / poe 462），仅 cust@；表内「MC / Switch 等，价格比较高；MC 工业 FS SFP；ORing 的，商业 FS TP-Link」；群发 1 次。",
+    "need": "ORing 之下工业 2 光 8 PoE → STI-288GP（$57.4 @20%）；MC STI-110GE。",
+    "breakpoint": "仅 cust@；比价",
+    "saga_now": {
+      "p1": "STI-288GP",
+      "tier": 20,
+      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-10-06 $180（24 Port PoE Managed Switch = STC-424XGGPM-280W，Alan 2026-09-21 起的现价轮）——同款信稿只能写 $180；群发里他已看到的价（续）：2026-08-20 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-20 $280（10G Enterprise SFP Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-10-09 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2025-10-09；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）",
+      "why": "ORing 之下工业 2 光 8 PoE → STI-288GP（$57.4 @20%）；MC STI-110GE。",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "群发节奏",
+      "channel": "A 邮箱",
+      "action": "观察打开",
+      "one_question": "For the industrial range beside ORing — DIN 2-SFP + 8-PoE at $57 EXW (managed Marvell $79) and gigabit MC at $22; who is the buyer for active network products at Atel, so I send the sheet directly?"
+    },
+    "facts": [
+      {
+        "date": "2025-10-09",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To info@axuse.com，PL-3（大分销 aat/lanberg/elmark/dipol/a2s） 批次）",
+        "quote": "10G Enterprise SFP Switch — This is our 24-port Marvell-based managed SFP switch. 1, 4 port 1G SFP+8-port 1G SFP/RJ45 Combo +4*10G SFP+ 2, Dual AC input 3, Support fan monitoring（正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
+        "why": "Elsa 箱群发 BCC 触达证据（命中地址 atel.com.pl, cust@atel.com.pl, praca@atel.com.pl）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+        "k": "elsa_bcc"
+      },
+      {
+        "date": "2026-10-06",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "10G Enterprise SFP Switch、24 Port PoE Managed Switch",
+        "why": "12 封 / 0 次打开 / 0 回｜首封 2025-10-20 → 末封 2026-10-06（12 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "兴趣：MC Switch等;价格比较高 MC 工业FS SFP Oring的 商业FS Tp-link",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-25"
+  }
 }

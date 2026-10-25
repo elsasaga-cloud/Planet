@@ -1,133 +1,240 @@
 {
  "code": "SA-015",
- "name_official": "ROVEZ, s.r.o.（Trnava, Slovakia）",
+ "name_official": "Megnet Limited（London）",
  "website_status": "在线",
- "summary": "斯洛伐克特尔纳瓦的安防/CCTV 集成商（1993 年起，1997 年注册），主打 AVIGILON 摄像系统，3–4 名员工，营收 €50–100 万。用户表：展会上拿了目录，成样品单（PoE 工业 FS），13 次推送无回复。",
- "type": "安防集成商（Avigilon 经销）",
- "size": "3–4 人；€0.5–1M（FinStat 2026）",
+ "summary": "英国伦敦的兼容光模块/网络配件分销商（2003 年起，11–50 人），自有品牌 Chimera（MSA 兼容光模块、DAC/AOC、MC、交换机），供应全球经销商、分销商和制造商，宣称可触达 400 万+ 产品。用户表：S 重点，自己的品牌、有人卖他们的，MC/SFP/AOC 等较多，1 次实质回复。",
+ "type": "分销商 + 自有品牌（Chimera，OEM 采购）",
+ "size": "11–50 人（LinkedIn）",
  "brands_seen": [
-  "Avigilon"
+  "Chimera"
  ],
  "evidence": [
   {
-   "kind": "官网",
-   "claim": "定位与历史",
-   "quote": "ROVEZ Trnava – dodávateľ kamerových systémov AVIGILON … Firma ROVEZ Trnava vznikla v roku 1993 a hlavným smerom jej podnikateľských aktivít boli inštalácie elektronických bezpečnostných systémov",
-   "url": "https://www.rovez.sk/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "第三方（FinStat）",
-   "claim": "规模",
-   "quote": "Kategória zamestnancov 2026: 3-4 zamestnanci · Tržby: 500,000 - 1,000,000 €",
-   "url": "https://finstat.sk/36225801",
+   "kind": "第三方（LinkedIn）",
+   "claim": "定位与规模；自有品牌 Chimera 与 ISO 工厂合作生产",
+   "quote": "We are specialist suppliers of compatible fibre optic transceivers and related networking solutions products since 2003 … Our global brand Chimera is an in-house brand of compatible products; produced in partnership with leading ISO compliant industry manufacturers. · Company size: 11-50 employees · Headquarters: London",
+   "url": "https://uk.linkedin.com/company/megnet-limited-specialist-global-supplier-of-compatible-network-solutions",
    "date": "2026-10-21"
   },
   {
    "kind": "官网",
-   "claim": "Avigilon 供应商、联系方式",
-   "quote": "ROVEZ Trnava – dodávateľ kamerových systémov AVIGILON. Komplexné bezpečnostné riešenia, špičkové technológie a 30 rokov skúseností. rovez@rovez.sk +421 905 441 595",
-   "url": "https://www.rovez.sk/",
+   "claim": "产品范围含交换机与 MC",
+   "quote": "OEM Networking Products : SFP, QSFP, AOC, DAC, and Switches … Media Converters",
+   "url": "https://megnet.co.uk/",
    "date": "2026-10-21"
   },
   {
-   "kind": "注册名录",
-   "claim": "法人、地址、IČO",
-   "quote": "ROVEZ, s.r.o. - Predaj, montáž a servis a kamerovej techniky a bezpečnostných systémov … Sídlo: Ul. 9. mája 49, 917 00 Trnava IČO: 36225801 … IČ DPH: SK2020163277",
-   "url": "https://www.azet.sk/firma/32427/rovez-s-r-o/",
+   "kind": "官网",
+   "claim": "Chimera PoE MC 型号与网店价格/条件",
+   "quote": "CHMC-302P-SFP-3S20-LC $10.55 … Product Category · Media Converter Condition · OEM Warranty · Lifetime Warranty Brand · Chimera … 2-port 10/100Base-T PoE/PoE+ to 100Base Fx SM 20km LC,with external power supply",
+   "url": "https://megnet.co.uk/product/chmc-302p-sfp-3s20-lc/",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "LinkedIn",
+   "claim": "公司规模/成立/专长（含 switches、media converters）",
+   "quote": "Megnet Limited | 5,083 followers … Company size: 11-50 employees … Founded: 2003 … Specialties: SFP, Memory, Patch Cords, … media converters, … AOC cables, DAC Cables, switches",
+   "url": "https://uk.linkedin.com/company/megnet-limited-specialist-global-supplier-of-compatible-network-solutions",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "Chimera 全线终身保修",
+   "quote": "we offer a lifetime warranty on all Chimera Networking products",
+   "url": "https://megnet.co.uk/warranty/",
+   "date": "2026-07-02"
   }
  ],
  "kp": [
   {
-   "name": "Marián Ondrejíček",
-   "role": "Key Principal（D&B 口径）",
-   "email": "rovez@rovez.sk",
-   "phone": "+421 905 617 471",
-   "source": "https://www.dnb.com/business-directory/company-profiles/rovez-sro.5b2132d62801505d075735db36808cde ; https://www.rovez.sk/"
+   "name": "—",
+   "role": "报价热线",
+   "email": "",
+   "phone": "+44 845 130 1585",
+   "source": "https://dev.megnet.co.uk/"
+  },
+  {
+   "name": "Jitendra Sain",
+   "role": "Assistant Manager - Operations（邮件签名）",
+   "email": "jitendra@megnet.co.uk",
+   "phone": "",
+   "source": "S/A 邮箱来信 2025-01-16 来信 1 封（第 72 批从邮件表头补）"
+  },
+  {
+   "name": "Nasim Chaudhari",
+   "role": "来信署名人（职务未在邮件署名里出现）",
+   "email": "nasim@megnet.co.uk",
+   "phone": "",
+   "source": "S/A 邮箱来信 2025-12-01 来信 2 封（第 72 批从邮件表头补）"
   }
  ],
- "grade_override": "B",
- "override_reason": "有样品单但 3–4 人微型集成商、样品后 13 次推送无回应，体量不支持长期投入；B 慢跟（半年一次回访即可）。",
- "notes": "",
+ "notes": "A 确认：Chimera 品牌需要 MC/交换机货源；P1 = STI-110GE（MC 贴牌）→ 带入 STC-28DGGPM/424 系列；30% OEM 档。",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网 + 注册核对）"
+  "level": "深挖 v1"
  },
  "company_facts": {
-  "legal_name": "ROVEZ, s.r.o.（IČO 36225801；IČ DPH SK2020163277）",
-  "hq": "Ul. 9. mája 49, 917 01 Trnava, Slovensko（+421 33 5516 655；+421 905 617 471 / 905 441 595；rovez@rovez.sk）",
-  "other": "Trnava 的 **Avigilon** 摄像系统供应商（30 年经验）：摄像/录像/门禁/EZS 报警 销售、安装、维护；第二站 kamerovesystemy.com"
+  "legal_name": "Megnet Limited",
+  "founded": "2003",
+  "hq": "London, UK",
+  "staff": "11–50（LinkedIn，5,083 followers）",
+  "other": "自称 Chimera 品牌全球唯一制造商/供应商；Chimera 全线终身保修；网店以 USD 标价、库存 1,000,000（占位值）；Chimera 产品也经 Netceed UK 等分销"
  },
  "business_lines": [
-  "Avigilon 视频监控系统（销售+安装+服务）",
-  "报警 EZS、视频对讲"
+  "兼容光模块（MSA/Cisco 等兼容）",
+  "Chimera 媒体转换器（百兆 PoE MC、千兆、10G XG100）",
+  "DAC/AOC、跳线、内存",
+  "交换机（LinkedIn 专长列出）"
+ ],
+ "products_seen": [
+  {
+   "brand": "Chimera",
+   "model": "CHMC-302P-SFP-3S20-LC",
+   "spec": "2 口 10/100 PoE/PoE+ → 100Base-FX SM 20km LC MC，外接电源，网店 $10.55（占位价）",
+   "url": "https://megnet.co.uk/product/chmc-302p-sfp-3s20-lc/",
+   "date": "2026-10-21",
+   "saga": "STI-110GE（PoE MC 版待核）"
+  },
+  {
+   "brand": "Chimera",
+   "model": "CHMC-102P-8M0.5-UK",
+   "spec": "PoE MC（百兆，多模 500 m）",
+   "url": "https://megnet.co.uk/product/chmc-102p-8m0-5-uk/",
+   "date": "2026-03-04",
+   "saga": "STI-110GE"
+  },
+  {
+   "brand": "Chimera",
+   "model": "CHMC-XG100-8M0.3-UK / -3S10-UK",
+   "spec": "10GBASE-T → 10G SFP+ MC（经 Netceed UK 分销）",
+   "url": "https://uk-store.netceed.com/chimera-media-converter-10gbase-t-to-10gbase-sr-300mtr-multimode-sfp-lc-chmc-xg100-8m0-3-uk.html",
+   "date": "2026-10-21",
+   "saga": "—（10G MC 待 SmartByte 核型）"
+  },
+  {
+   "brand": "Chimera",
+   "model": "CHT-CIS-SFP-1G-TE",
+   "spec": "1000BASE-T 铜 SFP（Cisco 兼容）",
+   "url": "https://megnet.co.uk/product-category/media-converter/",
+   "date": "2026-10-21",
+   "saga": "—（配套）"
+  }
  ],
  "channels": {
-  "网站": "https://www.rovez.sk/ / https://kamerovesystemy.com/",
-  "电话": "+421 905 441 595 / +421 33 5516 655（官网公开）",
-  "邮箱（公开）": "rovez@rovez.sk"
+  "网站/网店": "https://megnet.co.uk/（Get Quote / Download Datasheet）",
+  "直邮": "rajiv@megnet.co.uk / purchasing@megnet.co.uk（用户表）",
+  "LinkedIn": "https://uk.linkedin.com/company/megnet-limited-specialist-global-supplier-of-compatible-network-solutions"
  },
  "signals": [
-  "已成交 + 样品（用户表）；Avigilon 高端摄像（多 PoE+ / PTZ）→ 需 30W 全口 PoE+ 与千兆上联，Saga 管理型机契合"
+  "网店 MC 类目价格有效期至 2026-11-23——目录持续维护（2026-10-21）",
+  "Chimera 10G MC 已进入 Netceed（大型运营商分销）渠道——有二级分销体量",
+  "用户表：S 重点，1 次实质回复，自己的品牌、有人卖他们的"
+ ],
+ "risks": [
+  "Chimera 终身保修 → 对 ODM 来源的失效率与备件有硬要求",
+  "采购经理（purchasing@）导向价格，MC 单价极低（$10 级），利润薄"
  ],
  "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 25,
-  "why": "Avigilon 安装商：STC-28DGGPM（8 PoE+ 30W 全口 + 2 SFP）/ STC-424DGGPM-280W；户外柜 STI-288DGGPM；集成商 25% 档"
+  "p1": "STI-110GE",
+  "tier": 30,
+  "why": "Chimera 已有百兆 PoE MC 与 10G MC，千兆 RJ45→SFP MC（STI-110GE）与 8 口千兆 PoE+2 SFP（STC-28DGGPM）是其「switches」专长下的补位 SKU；贴 Chimera 标 30% 档，批量可降"
  },
- "email_hook": "For Avigilon PTZ and multisensor heads the per-port 30 W budget matters; the Marvell-based 8- and 24-port PoE+ managed switches hold full 802.3at on every port, EXW, and I can send the test report from the sample batch.",
+ "email_hook": "Between the CHMC-302P fast-Ethernet PoE converters and the XG100 10G units, a gigabit RJ45-to-SFP converter in Chimera packing is the SKU most buyers ask for, so I am quoting that first with an 8-port gigabit PoE switch as the second line.",
  "mail_review": {
   "binding": {
-   "level": "未触达（A/S 邮箱 21 封 2024→2026，无记录打开，0 回；收件 rovez@rovez.sk；主题多为「Industrial PoE Switch、10G L3 Managed Switch」；Elsa 箱：`to:rovez.sk` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 21 / 来 0）（第 74 批(k)））",
-   "type": "安防集成商（Avigilon 经销）",
-   "sieve": "1（只收到群发）",
-   "stop": "21 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
-   "lane": "斯洛伐克（欧洲全域主攻）",
-   "cadence": "一封",
-   "evidence": "gmail_digest：out 21"
+   "level": "未绑定（两次具体询价都止于 Saga 答复之后；Elsa 箱：`to:.uk` 穷举 34 条（2026-10-25，锚批 Bcc 头已读）未见 megnet.co.uk → Elsa 箱从未发过本户，往来只在 S/A 箱（去 22 / 来 4）（第 74 批(f)））",
+   "type": "英国光模块/配件分销 + 自有品牌 Chimera——第三档分销 + 贴牌；Jitendra（产品）/ Nasim（运营经理）",
+   "sieve": "2（2025-01-16 招标规格 24/48 口 PoE+ L2；2025-12-01 60W 注入器测试单）",
+   "stop": "① 2025-01 规格缺 Voice VLAN（Simon：3 月才有）→ 无下文；② 2025-12-02 注入器 15 USD/pc 报价后无回音",
+   "revive": "Voice VLAN 已随固件 7.4.0 上线（AC5；7.5 再加 IPv6/PIM-SM）→ 招标项可重答；注入器一句话问测试单",
+   "lane": "UK（UKCA 有）",
+   "cadence": "2024-12 → 2026-09 去信 22 封；最后来信 2025-12-01",
+   "evidence": "k=188c2faf926a981d / d0cedc0a81dda002 / d825f54e656a802d / 9e11d7829cad23f3 / c006113d9ba7a08c"
   },
-  "situation": "斯洛伐克特尔纳瓦的安防/CCTV 集成商（1993 年起，1997 年注册），主打 AVIGILON 摄像系统，3–4 名员工，营收 €50–100 万。用户表：展会上拿了目录，成样品单（PoE 工业 FS），13 次推送无回复。",
-  "need": "Avigilon 安装商：STC-28DGGPM（8 PoE+ 30W 全口 + 2 SFP）/ STC-424DGGPM-280W；户外柜 STI-288DGGPM；集成商 25% 档",
-  "breakpoint": "无回复",
+  "situation": "Megnet 两次来的都是真需求：2025-01 Jitendra 发来 5 项招标规格（24/48 口 PoE+、2×10G SFP+、802.1q/LACP/IPv6/Voice VLAN/SNMPv3/SSHv2），Simon 答「item 3 没有可开发，其余 4 项缺 Voice VLAN，3 月就绪」，对方没再回；2025-12 Nasim 要 HT2500-PSE-BT60 60W 注入器测试单价，Simon 次日报 15 USD/pc（3–5 天交期），对方没再回。Voice VLAN 现已在 7.4.0 固件里。",
+  "need": "招标型 L2 接入 PoE+ 交换机（24/48 口 + 10G 上联，Voice VLAN/SNMPv3/SSHv2/IPv6）；60W PoE++ 单口注入器。",
+  "breakpoint": "第一次是功能缺口（现已补齐，但没人告诉他）；第二次是测试单无下文（15 USD 的东西不值得追，但一句话值）。",
   "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 25,
-   "price": "换人再触锚价 STC-28DGGPM $84.1 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-11 $65（10G Media Converter）、2024-12-16 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-09-02 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-06 $280（10G Enterprise SFP Switch）",
-   "why": "Avigilon 安装商：STC-28DGGPM（8 PoE+ 30W 全口 + 2 SFP）/ STC-424DGGPM-280W；户外柜 STI-288DGGPM；集成商 25% 档",
+   "p1": "STC-424DGGPM-280W / STC-448XGGPM（24/48 PoE+ + 10G 上联，Voice VLAN since 7.4.0）",
+   "tier": 20,
+   "price": "按 20% 分销档（若贴 Chimera 标 → 30%）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2026-07-20 $1500（24 Port 10G SFP+ Switch）、2026-09-08 $170（24 Port PoE Managed Switch）；**第 63 批基准统一（规则 ㉕）**：STC-424XGGPM-280W 由列表价 $198 改为群发现价 $180（他 2026-09-08 收到的群发是 $170，信里点明）；STC-448XGGPM 由列表价 $369 改为 20% 档 $335.4（第 66 批全量复核发现他其实收过 2025-01-16 的 $300 轮——信里已加一句「老汇率」说明；Simon 愿意的话可按 $300 兑现，毛利 7%）。$170 若 Simon 愿意兑现，毛利只剩 12.6%；群发里他已看到的价（续，第 66 批全量复核）：2025-01-16 $300（48 Port PoE Managed Switch）、2025-08-27 $240（24 Port Fiber Switch）、2025-10-29 $280（10G Enterprise SFP Switch）",
+   "why": "J2：功能缺口已闭合是最硬的复活理由；一句话即可。已打开的主题（8/22 封有打开记录）：「24 Port Fiber Switch」(2025-08-27)、「Re: Price and lead time」(2025-12-01)、「Re: Price and lead time」(2025-12-02)、「Firmware 7.5 L2+ Feature Update」(2026-06-22) → 读者兴趣偏「PoE 接入」；当前 P1 属「10G 汇聚/L3」，下一封按「PoE 接入」给，不按 P1｜已发资料（勿重发）：STC-448XGGPM(2025-01-18)、Marvell Based CLI Manual(2025-01-18)、Marvell Based Web Manual(2025-01-18)、Saga Software Function List-release 7.(2025-03-19)、Product Link_2026Q2(2026-03-02)、Saga Feature List_7.5.x_L2+(2026-06-22)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）",
    "repeat": [],
-   "gaps": []
+   "gaps": [
+    "7.4/7.5 是否同时满足 SNMPv3 + SSHv2 + IPv6 全项——按 7.5 特性表核一遍再说"
+   ]
   },
   "next_move": {
-   "when": "2027-Q1（换人后）",
-   "channel": "A 邮箱 → 具名 KP",
-   "action": "换收件人再发一封（第 75 批(al) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；24 口 280 W 不写「全口 30 W」；不承诺测试报告）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
-   "one_question": "For Avigilon PTZ and multisensor heads the per-port 30 W budget matters; the Marvell-based 8- and 24-port PoE+ managed switches hold full 802.3at on every port, EXW, and I can send the test report from the sample batch. Reference: STC-28DGGPM at $84.1 USD EXW (MOQ 1, 15-day validity)."
+   "when": "2026-11",
+   "channel": "S 邮箱 → jitendra@megnet.co.uk（招标）+ nasim@megnet.co.uk（注入器）",
+   "action": "给 Jitendra 一句「Voice VLAN 已上线」+ 问招标是否还开；给 Nasim 一句问测试单",
+   "one_question": "Voice VLAN is now in firmware 7.4+/7.5 on the AC5 24/48-port PoE+ models — is that tender (or a similar one) still open?"
   },
   "facts": [
    {
-    "date": "2026-09-02",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "Industrial PoE Switch、10G L3 Managed Switch",
-    "why": "21 封 / 0 次打开 / 0 回｜首封 2024-06-25 → 末封 2026-09-02（21 去 / 0 来）",
-    "k": "gmail_digest"
+    "date": "2025-01-16",
+    "dir": "来",
+    "who": "Jitendra",
+    "quote": "Item 1 - Level 2 access switch 24 ports Gigabit PoE+… minimum 2 ports UpLink 10Gbps SFP+… 802.1q, LACP, IPv6, Voice VLAN, SNMPv3 and SSHv2, spanning tree, DHCP",
+    "why": "招标规格",
+    "k": "188c2faf926a981d"
    },
    {
-    "date": "2026-09-02",
+    "date": "2025-01-18",
     "dir": "去",
-    "who": "A 箱（Alan）",
-    "quote": "24 Port PoE Managed Switch",
-    "why": "本日去信真实主题（邮箱索引 78decccee9a1c9ab；信稿开头句引用此封；此前稿内写的「Industrial PoE Switch」是线程列表首题，不是本封）",
-    "k": "78decccee9a1c9ab"
+    "who": "Simon",
+    "quote": "item 3 is not available, but we can develop it. For the other 4 items, Voice Vlan is not available, but its being developed and will be ready on March.",
+    "why": "功能缺口",
+    "k": "d0cedc0a81dda002"
+   },
+   {
+    "date": "2025-08-27",
+    "dir": "内",
+    "who": "Gmail 退信（S 邮箱）",
+    "quote": "rajiv@megnet.co.uk 永久退信：554 5.7.1 <rajiv@megnet.co.uk>: Relay access denied",
+    "why": "该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职",
+    "k": "gmail_s 96c81bffd7353dcd"
+   },
+   {
+    "date": "2025-08-27",
+    "dir": "内",
+    "who": "Gmail 退信（S 邮箱）",
+    "quote": "purchasing@megnet.co.uk 永久退信：554 5.7.1 <purchasing@megnet.co.uk>: Relay access denied",
+    "why": "该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职",
+    "k": "gmail_s 154c349e1af1c4db"
+   },
+   {
+    "date": "2025-08-27",
+    "dir": "内",
+    "who": "Gmail 退信（S 邮箱）",
+    "quote": "becca@megnet.co.uk 永久退信：554 5.7.1 <becca@megnet.co.uk>: Relay access denied",
+    "why": "该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职",
+    "k": "gmail_s e58d6e9a2e344dc9"
+   },
+   {
+    "date": "2025-12-01",
+    "dir": "来",
+    "who": "Nasim Chaudhari（Operations Manager）",
+    "quote": "HT2500-PSE-BT60 – 60W PoE++ Single-Port Injector This will be a test unit, and if it works on the customer's end, we will proceed with a bulk order.",
+    "why": "第二次需求",
+    "k": "d825f54e656a802d"
+   },
+   {
+    "date": "2025-12-02",
+    "dir": "去",
+    "who": "Simon",
+    "quote": "15Usd/pc Metal shell, 1G/2.5G speed, AC100-240V in; POWER+PSE；802.3af/at/BT MAX65W… Production time: 3~5 working days",
+    "why": "报价",
+    "k": "c006113d9ba7a08c"
    }
   ],
-  "proof_gaps": [],
+  "proof_gaps": [
+   "Voice VLAN 在 7.4.0 的证据来自 SmartByte 固件说明（`docs/smartbyte/新闻与固件说明_2026-10-20.md`）——是否覆盖 Megnet 要的 24/48 口具体型号，报前核"
+  ],
   "draft_en": {
-   "subject": "For the Avigilon PTZ and multisensor heads - PoE budget, honestly counted",
-   "body": "Hello Rovez team,\n\nOver the past months you had a few product mails from us - most recently \"24 Port PoE Managed Switch\" on 2 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nYou took a sample of our industrial PoE switch after the show; this is the follow-on for the Avigilon sites, where the per-port budget matters. EXW, MOQ 1, 15-day validity, CE/RoHS: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based, 30 W (802.3at) per port - model STC-28DGGPM - $84.1 USD; 24 x PoE+ + 4 x SFP, L2+ managed - STC-424DGGPM-280W - $140.1 - the budget is 280 W total, so plan PTZ heads against it rather than assuming 30 W on all 24; for outdoor cabinets, DIN-rail 8 x PoE+ + 2 x SFP with ring redundancy - STI-288DGGPM - $137.5.\n\nOne question: how did the sample behave in your test - and is the next site 8-port cabinets or a 24-port head end?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+   "subject": "L2 PoE+ access switch tender — Voice VLAN is now in firmware",
+   "body": "Hi, Jitendra,\n\nIn January 2025 your tender needed Voice VLAN, SNMPv3, SSHv2 and IPv6 on 24/48-port PoE+ access switches, and we had to say \"Voice VLAN under development\". It has been in firmware since 7.4 (now 7.5) on the Marvell AC5 24/48-port PoE+ models with 10G uplinks.\n\n- 24x GbE PoE+ 280 W + 4x 10G SFP+, L2+ — $180 USD EXW (our 8 September mail said $170; that batch is gone, $180 is the current one)\n- 48x GbE PoE+ 440 W + 4x 10G SFP+, L2+ — $335 USD EXW (the $300 in our 2024/25 mails was at the old exchange rate)\n(2026-10 price table, valid 15 days from this mail)\n\nSeparately, Nasim: the 60 W PoE++ injector test unit (15 USD) from December — did it pass at the customer, and is the bulk requirement still there?\n\nOne question: is that tender, or a similar one, still open?\n\nThank you.\nSimon\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
  }

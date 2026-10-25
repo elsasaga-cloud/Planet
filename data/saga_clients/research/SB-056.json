@@ -1,121 +1,146 @@
 {
  "code": "SB-056",
- "name_official": "Gigalight Pte. Ltd.（新加坡）",
- "researched_at": "2026-10-21",
- "website_status": "在线（gigalight.com.sg，快照 2026-10-21）",
- "summary": "新加坡结构化布线 / 光纤配线分销商（+65 6353 3679；Schneider；telecom 19 / poe 12 / industrial 9），Director Jimmy Wee：做布线与 PoE，让发海报上的产品信息；7 次跟进无实质回复。（与深圳易飞扬 Gigalight 无关。）",
- "type": "",
- "size": "",
- "brands_seen": [
-  "Schneider"
- ],
+ "name_official": "Net Work Business Solutions（爱沙尼亚）",
+ "website_status": "nbs.ee 为停放域名（已注册、无主机，2026-10-21）；实际业务站 fiber.ee 在线",
+ "summary": "爱沙尼亚网络业务方案公司，WA 在线，3 次回复、19 次跟进，内容为一般性信息交流。",
+ "type": "IT/网络服务商",
+ "size": "待补证",
+ "brands_seen": [],
  "evidence": [
   {
-   "kind": "官网快照",
-   "claim": "结构化布线、光纤配线分销；+65 6353 3679；Schneider",
-   "quote": "Gigalight Pte. Ltd. – Structured Cabling, Fiber Optic Distri[bution]… +65 6353 3679",
-   "url": "https://gigalight.com.sg/",
+   "kind": "用户记录",
+   "claim": "一般性信息交流；WA 已加；3 次回复 / 19 次",
+   "quote": "general information network business solutions；372 5151032 已加（用户 Clients 表摘录）",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   },
   {
-   "kind": "用户表",
-   "claim": "做布线 PoE；让发海报上的产品信息",
-   "quote": "兴趣：做布线 PoE 让发海报上的产品信息",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "kind": "业务站",
+   "claim": "ISP 业务与近期楼栋接入",
+   "quote": "Kiire ja stabiilne Internet! Ehitame internetiühendusega võrke kiirusega kuni 10Gbit/s. Kortermajades interneti (optilise kaabli kaudu, kiirus – 200Mbit/200Mbit) hind on vaid 18 eurot! … 8 oktoober 2026 … 18 € pakett — kiirus tõusis 200 → 250 Mbit/s … Majad aadressidel Paekaare 68, 72 ja 74 on ühendatud meie võrguga … 25 august 2026 Maja aadressil Punane 1 on ühendatud meie võrguga",
+   "url": "https://fiber.ee/et/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "名录",
+   "claim": "法人与站点归属",
+   "quote": "Network business solutions OÜ Arvutite ja välisseadmete hulgimüük. fiber.ee www.nbs.ee Infojuht tel 5033655 53616045",
+   "url": "https://www.infojuht.ee/Otsing-Network/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "nbs.ee 为停放域名",
+   "quote": "Your Domain www.nbs.ee is Registered NB! Your domain has been registered but has NOT yet been linked to a hosting service",
+   "url": "https://www.nbs.ee/",
    "date": "2026-10-21"
   }
  ],
  "kp": [
   {
-   "name": "Jimmy Wee",
-   "title": "Director",
-   "email": "jw@gigalight.com.sg",
-   "phone": "+65 9023 9663",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
+   "name": "（见 Clients 表联系人）",
+   "role": "",
+   "email": "",
+   "phone": "+372 515 1032（WA）",
+   "source": "用户 Clients 表"
   }
  ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "grade_override": "B",
+ "override_reason": "爱沙尼亚为非主动开发小国，互动停留在一般信息、无具体需求 → 慢跟。",
+ "notes": "WA 维持；有具体项目再报价。",
+ "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照 + 表内）"
+  "level": "B 级加厚 v1（名录 + 业务站核对）"
  },
  "company_facts": {
-  "legal_name": "Gigalight Pte. Ltd.",
-  "founded": "（待核）",
-  "hq": "Singapore",
-  "size": "小型布线分销",
-  "other": "与深圳 Gigalight（易飞扬）无关"
+  "legal_name": "Network Business Solutions OÜ（Infojuht 名录：计算机及外设批发；站点 fiber.ee / www.nbs.ee）",
+  "hq": "Tallinn（服务楼宇位于 Lasnamäe 区：Paekaare 68/72/74、Punane 1 等）, Eesti",
+  "other": "**小型住宅光纤 ISP + 数据中心/主机托管 + 域名注册商（.ee/.eu/.lv/.fi 认证）**：公寓楼光纤入户 18 €/月（2026-10 提速 200→250 Mbit/s）、24 € 档 400→500 Mbit/s、4G SIM 无限流量 12.40 €；网络建设「最高 10 Gbit/s」；2026-08/10 持续有新楼接入公告——楼栋接入交换机为持续性需求"
  },
  "business_lines": [
-  "结构化布线 / 光纤配线分销",
-  "PoE 配套"
+  "住宅楼光纤宽带（Tallinn Lasnamäe）",
+  "数据中心托管 / 服务器租赁",
+  "主机与域名注册"
  ],
  "channels": {
-  "role": "布线分销商",
-  "region": "新加坡"
+  "网站": "https://fiber.ee/（业务站）；www.nbs.ee（停放）",
+  "名录": "https://www.infojuht.ee/Otsing-Network/（电话 5033655 / 53616045）"
  },
  "signals": [
-  "Director 直接要资料"
+  "ISP 持续新增楼栋接入（2026-08-25 Punane 1；2026-10-08 Paekaare 68/72/74）→ 每栋楼 1–2 台 24 口 GE + 10G 上联管理机；WA 在线、3 次回复（用户表）"
  ],
  "risks": [
-  "布线商硬件量小；无回复"
+  "小型 ISP、单次 1–5 台；爱沙尼亚为非主动挖掘国家（INH），仅跟现有线索"
  ],
  "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 20,
-  "why": "布线配套 PoE → STC-28DGGPM（$80.7 @20%）；MC STI-110GE。"
+  "p1": "STC-424XGGM",
+  "tier": 25,
+  "why": "ISP 楼栋接入：STC-424XGGM（24×GE + 4×10G SFP+，L2+，非 PoE）为楼道机；楼间汇聚 STC-448XGGM(L3)；8 口小楼 STC-28DGGM；运营商自用 25% 档"
  },
- "email_hook": "Jimmy, the poster products you asked about: 8-PoE + 2-SFP managed $81, 24-PoE $135, gigabit fibre MC $22 — all EXW, 1-pc; which one goes into your cabling BOMs most?",
+ "email_hook": "For the new buildings you are connecting on Paekaare and Punane, a 24-port gigabit L2+ switch with 4×10G SFP+ uplinks is $132.7 EXW per unit; how many risers are planned for the next phase?",
  "mail_review": {
   "binding": {
-   "level": "未触达（A 邮箱 18 封 2025→2026，无记录打开，0 回；收件 enquiry@gigalight.com.sg, jw@gigalight.com.sg；主题多为「24 Port PoE Managed Switch、16 Port Ethernet Switch」；Elsa 箱：`to:gigalight.com.sg` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 18 / 来 0）（第 74 批(n)））",
-   "type": "—",
-   "sieve": "1（只收到群发）",
-   "stop": "18 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "新加坡 非主攻",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 18；用户表：「兴趣：做布线 PoE 让发海报上的产品信息」；研究档 risks：布线商硬件量小；无回复"
+   "level": "未发信（S/A 邮箱均无往来；来源：调研建档；Elsa 箱：`to:nbs.ee` 逐户查 0（2026-10-24 第 73 批(o)，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(g)））",
+   "type": "IT/网络服务商",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+   "lane": "爱沙尼亚（欧洲全域主攻）",
+   "cadence": "首封后看打开",
+   "evidence": "gmail_digest：out 0；研究档 risks：小型 ISP、单次 1–5 台；爱沙尼亚为非主动挖掘国家（INH），仅跟现有线索"
   },
-  "situation": "新加坡结构化布线 / 光纤配线分销商（+65 6353 3679；Schneider；telecom 19 / poe 12 / industrial 9），Director Jimmy Wee：做布线与 PoE，让发海报上的产品信息；7 次跟进无实质回复。（与深圳易飞扬 Gigalight 无关。）",
-  "need": "布线配套 PoE → STC-28DGGPM（$80.7 @20%）；MC STI-110GE。",
-  "breakpoint": "布线商硬件量小；无回复",
+  "situation": "爱沙尼亚网络业务方案公司，WA 在线，3 次回复、19 次跟进，内容为一般性信息交流。",
+  "need": "ISP 楼栋接入：STC-424XGGM（24×GE + 4×10G SFP+，L2+，非 PoE）为楼道机；楼间汇聚 STC-448XGGM(L3)；8 口小楼 STC-28DGGM；运营商自用 25% 档",
+  "breakpoint": "小型 ISP、单次 1–5 台；爱沙尼亚为非主动挖掘国家（INH），仅跟现有线索",
   "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 20,
-   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-29 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-06-10 $300（48 Port PoE Managed Switch）、2025-10-20 $280（10G Enterprise SFP Switch）、2026-06-16 $16000（32 Port 400GB DC Switch）",
-   "why": "布线配套 PoE → STC-28DGGPM（$80.7 @20%）；MC STI-110GE。",
+   "p1": "STC-424XGGM",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "ISP 楼栋接入：STC-424XGGM（24×GE + 4×10G SFP+，L2+，非 PoE）为楼道机；楼间汇聚 STC-448XGGM(L3)；8 口小楼 STC-28DGGM；运营商自用 25% 档",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开",
-   "one_question": "Jimmy, the poster products you asked about: 8-PoE + 2-SFP managed $81, 24-PoE $135, gigabit fibre MC $22 — all EXW, 1-pc; which one goes into your cabling BOMs most?"
+   "when": "待 Simon 排期（首封）",
+   "channel": "A 邮箱 → vadim@nbs.ee",
+   "action": "首封：按 email_hook 一问（第 75 批(j) 2026-10-25：英文信稿已写 `draft_en`；WhatsApp 在线——同一段 WA 发）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
+   "one_question": "For the new buildings you are connecting on Paekaare and Punane, a 24-port gigabit L2+ switch with 4×10G SFP+ uplinks is $132.7 EXW per unit; how many risers are planned for the next phase?"
   },
   "facts": [
    {
-    "date": "2026-09-23",
-    "dir": "去",
-    "who": "A 群发",
-    "quote": "24 Port PoE Managed Switch、16 Port Ethernet Switch",
-    "why": "18 封 / 0 次打开 / 0 回｜首封 2025-03-20 → 末封 2026-09-23（18 去 / 0 来）",
-    "k": "gmail_digest"
+    "date": "2024-01-23",
+    "dir": "来",
+    "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+    "quote": "用户表跟进：推「发了工业电源最新价格册」→ 对方「will check」",
+    "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+    "k": "Clients/A/DONE/其他优质欧洲客户 2.26.xlsx no.4 2024.1.23"
    },
    {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "兴趣：做布线 PoE 让发海报上的产品信息",
-    "why": "表内备注",
-    "k": "用户表"
+    "date": "2024-08-13",
+    "dir": "来",
+    "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+    "quote": "用户表跟进：推「4 8口工业PoE」→ 对方「可能需要10个 在用teltonika的」",
+    "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+    "k": "Clients/A/DONE/其他优质欧洲客户 2.26.xlsx no.4 2024.8.13"
+   },
+   {
+    "date": "2025-02-27",
+    "dir": "来",
+    "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+    "quote": "用户表跟进：推「工业16 24口出货图」→ 对方「有工业mini pc？」",
+    "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+    "k": "Clients/A/DONE/其他优质欧洲客户 2.26.xlsx no.4 2025.2.27"
    }
   ],
-  "proof_gaps": [],
-  "draft_en": null,
+  "proof_gaps": [
+   "无邮件往来",
+   "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+  ],
+  "draft_en": {
+   "subject": "The switch for the new buildings on Paekaare and Punane",
+   "body": "Hi Vadim,\n\nFor the new buildings you are connecting on Paekaare and Punane: the riser switch is 24 x Gigabit RJ45 + 4 x 10G SFP+ uplinks, L2+ managed (VLAN, IGMP, QoS), Marvell-based, CE/RoHS - model STC-424XGGM - $132.7 USD EXW per unit (MOQ 1, 15-day validity); for small buildings, 8 x Gigabit + 2 x SFP L2+ - STC-28DGGM - $71.0. SFP+ optics you keep sourcing as now.\n\nOne question: how many risers are planned for the next phase?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+  },
   "as_of": "2026-10-24"
  }
 }

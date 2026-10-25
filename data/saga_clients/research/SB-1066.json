@@ -1,158 +1,144 @@
 {
- "code": "SB-1066",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（dorani.com.au，快照 2026-10-21）",
- "summary": "澳大利亚 Dorani（Australian Security Systems Installer, Wholesaler & Supplier；自有 DORIP 系列摄像机与自有标 8/16 口 PoE 交换机商品页；站内 Bosch；表内「CCTV 相关的都卖，自己的 logo」；KP Pete Monaghan（Founder））；群发 21 次无回复。",
- "type": "安防安装 + 批发 + 自有品牌（OEM 采购）",
- "size": "",
- "brands_seen": [
-  "Bosch"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：Dorani；品类词 安防监控（CCTV / 门禁） / 无线 / WiFi / 布线 / 线缆 / 网络交换 / PoE",
-   "quote": "Australian Security Systems Installer, Wholesaler & Supplier；LATEST POSTS；PRODUCTS；CONTACT US",
-   "url": "https://dorani.com.au/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "CCTV相关的都卖 自己的logo",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "澳洲安防系统安装商、批发商与供应商",
-   "quote": "Australian Security Systems Installer, Wholesaler & Supplier",
-   "url": "https://dorani.com.au/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "CCTV 全品类 + 自有 logo",
-   "quote": "CCTV相关的都卖 自己的logo",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Pete Monaghan",
-   "title": "Founder",
-   "email": "",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "澳大利亚",
-  "other": "官网 dorani.com.au，语言 en-AU，快照状态 ok；角色判定来源：用户表"
- },
- "business_lines": [
-  "安防系统安装（澳洲）",
-  "安防批发 / 供应（自有 DORIP 品牌）"
- ],
- "channels": {
-  "role": "安防安装 + 批发 + 自有品牌（OEM 采购）",
-  "region": "澳大利亚",
-  "contact": "reception@dorani.com.au、support@dorani.com.au"
- },
- "signals": [
-  "商品页 /product/8-port-poe-switch/、/product/16-port-poe-switch/",
-  "站内型号 DORIP31BLK / DORIP10C / DORIP13（自有摄像机）",
-  "KP：Pete Monaghan / Founder（表内）"
- ],
- "risks": [
-  "澳洲 RCM 合规：Saga 证书为 CE/RoHS/FCC/REACH/UKCA，RCM 需客户自行申报（提供测试报告）",
-  "群发 21 次无回复：改向 Founder 具名首触",
-  "非主攻区（T5）"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 30,
-  "why": "自有标 8/16 口 PoE 商品页 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Dorani 标；16 口位 HRUI STC-2016GP（列表价 $88.0，非 SmartByte）；24 口 STC-424DGGPM-280W"
- },
- "email_hook": "Pete, for the Dorani-branded 8- and 16-port PoE switches on your shop, we build Marvell-based PoE+ L2+ units under your label from small lots (neutral packing, RCM-ready documentation on request) — which one do you reorder more, the 8-port or the 16-port?",
- "products_seen": [
-  {
-   "brand": "Dorani（自有）",
-   "model": "8-port PoE switch",
-   "spec": "自有标 8 口 PoE",
-   "saga": "STC-28DGGPM",
-   "url": "https://dorani.com.au/product/8-port-poe-switch/",
-   "date": "2026-10-21"
-  },
-  {
-   "brand": "Dorani（自有）",
-   "model": "16-port PoE switch",
-   "spec": "自有标 16 口 PoE",
-   "saga": "STC-2016GP（HRUI 列表价 $88.0，非 SmartByte）",
-   "url": "https://dorani.com.au/product/16-port-poe-switch/",
-   "date": "2026-10-21"
-  }
- ],
- "mail_review": {
-  "binding": {
-   "level": "读而不回（A/S 邮箱 31 封 2024→2026，其中 2 封被打开，0 回；收件 reception@dorani.com.au, support@dorani.com.au；被打开主题「Managed Optical Bypass Switch、Marvell Industrial Alert System」；Elsa 箱：`to:dorani.com.au` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 31 / 来 0）（第 74 批(n)））",
-   "type": "安防安装 + 批发 + 自有品牌（OEM 采购）",
-   "sieve": "2（有人在读，无人回）",
-   "stop": "读而不回 = 内容未命中或没有当下需求",
-   "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
-   "lane": "澳大利亚 非主攻",
-   "cadence": "一封；回了再说",
-   "evidence": "gmail_digest：out 31，Opened 标签 2（Simon 群发追踪）；用户表：「CCTV相关的都卖 自己的logo」；研究档 risks：澳洲 RCM 合规：Saga 证书为 CE/RoHS/FCC/REACH/UKCA，RCM 需客户自行申报（提供测试报告）"
-  },
-  "situation": "澳大利亚 Dorani（Australian Security Systems Installer, Wholesaler & Supplier；自有 DORIP 系列摄像机与自有标 8/16 口 PoE 交换机商品页；站内 Bosch；表内「CCTV 相关的都卖，自己的 logo」；KP Pete Monaghan（Founder））；群发 21 次无回复。",
-  "need": "自有标 8/16 口 PoE 商品页 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Dorani 标；16 口位 HRUI STC-2016GP（列表价 $88.0，非 SmartByte）；24 口 STC-424DGGPM-280W",
-  "breakpoint": "澳洲 RCM 合规：Saga 证书为 CE/RoHS/FCC/REACH/UKCA，RCM 需客户自行申报（提供测试报告）",
-  "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 30,
-   "price": "首触锚价 STC-28DGGPM $87.4 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-25 $65（10G Media Converter）、2024-12-31 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-09-02 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-11-27 $300（48 Port PoE Managed Switch）、2025-09-29 $280（10G Enterprise SFP Switch）",
-   "why": "自有标 8/16 口 PoE 商品页 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Dorani 标；16 口位 HRUI STC-2016GP（列表价 $88.0，非 SmartByte）；24 口 STC-424DGGPM-280W。已打开的主题（2/31 封有打开记录）：「48 Port PoE Managed Switch」(2024-11-27)、「Marvell Industrial Alert System」(2025-12-17) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-03-13)、Product Link_2026Q3(2026-07-16)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "2026-11",
-   "channel": "A 邮箱 → reception@dorani.com.au",
-   "action": "短信一问（email_hook）",
-   "one_question": "Pete, for the Dorani-branded 8- and 16-port PoE switches on your shop, we build Marvell-based PoE+ L2+ units under your label from small lots (neutral packing, RCM-ready documentation on request) — which one do you reorder more, the 8-port or the 16-port? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity)."
-  },
-  "facts": [
-   {
-    "date": "2026-09-02",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "Managed Optical Bypass Switch、Marvell Industrial Alert System",
-    "why": "31 封 / 2 次打开 / 0 回｜首封 2024-06-18 → 末封 2026-09-02（31 去 / 0 来）",
-    "k": "gmail_digest"
-   },
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "CCTV相关的都卖 自己的logo",
-    "why": "表内备注",
-    "k": "用户表"
-   }
+  "code": "SB-1066",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（pramoninisrysys.lt，快照 2026-10-21）",
+  "summary": "立陶宛 Elseta（pramoninisrysys.lt 为 Elseta 在线商店：面向配电网/公用事业智能电网数字化——Mini RTU、转换器、I/O 模块、软件；表内国别「意大利」有误（.lt 域名、Elseta 为立陶宛公司）；表内「Beijer sbjlink 的工业 FS」「质量一般」）；表内未跟进。",
+  "type": "智能电网 RTU 制造商兼网店（立陶宛，工业 FS 为配套；仅民用口径）",
+  "size": "",
+  "brands_seen": [
+    "Beijer",
+    "Westermo"
   ],
-  "proof_gaps": [],
-  "draft_en": {
-   "subject": "One question — Managed Optical Bypass Switch",
-   "body": "Hi Pete,\n\nWe have sent you a few mails on \"Managed Optical Bypass Switch\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor the Dorani-branded 8- and 16-port PoE switches on your shop, we build Marvell-based PoE+ L2+ units under your label from small lots (neutral packing, RCM-ready documentation on request) — which one do you reorder more, the 8-port or the 16-port?\n\nReference price: 8-PoE + 2 × 1G/2.5G SFP L2+ managed switch (Marvell AC5), 120 W (STC-28DGGPM) $87.4 USD EXW, MOQ 1 pc, 15-day validity, 1-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：Elseta online shop；品类词 工业自动化 / OT 网络 / 网络交换 / PoE",
+      "quote": "This is the place to buy Elseta products directly worldwide. Everything for DNO and Utilities smart Grid digitalization.",
+      "url": "https://shop.elseta.com",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "Beijer sbjlink的工业FS",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "Elseta 定位",
+      "quote": "Elseta online shop ; Everything for DNO and Utilities smart Grid digitalization ; Digitalizing energy & Simplifying complexity ; Mini RTU",
+      "url": "https://shop.elseta.com",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "Beijer 工业 FS",
+      "quote": "Beijer sbjlink的工业FS；质量一般",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
   },
-  "as_of": "2026-10-24"
- }
+  "company_facts": {
+    "hq": "意大利",
+    "other": "官网 pramoninisrysys.lt，语言 en-US，快照状态 ok；角色判定来源：官网文案"
+  },
+  "business_lines": [
+    "智能电网 RTU / 转换器 / I/O（自有品牌 Elseta）"
+  ],
+  "channels": {
+    "role": "智能电网 RTU 制造商兼网店（立陶宛，工业 FS 为配套；仅民用口径）",
+    "region": "立陶宛",
+    "contact": "info@pramoninisrysys.lt"
+  },
+  "signals": [
+    "官网：Elseta online shop ; This is the place to buy Elseta products directly worldwide. Everything for DNO and Utilities smart Grid digitalization ; Mini RTU；页面 /shop/category/rtu-s-1、/shop/category/converters-4",
+    "表内：Beijer sbjlink 的工业 FS；质量一般"
+  ],
+  "risks": [
+    "守界备注：公用事业/配电网场景——只供民用通用工业交换机，IEC 61850-3 认证 Saga 无",
+    "小国（立陶宛）；国别已更正（表内误填意大利）；Beijer/Westermo 价格基准高但品牌粘性强；表内「质量一般」"
+  ],
+  "saga_fit": {
+    "p1": "STI-280GE",
+    "tier": 25,
+    "why": "RTU 配套工业 FS（现 Beijer/Westermo 系）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$48.6 @25%）/ 5 GE STI-050GE（$17.8）；IEC 61850-3 Saga 无（注明）"
+  },
+  "email_hook": "For the industrial switches bundled with your Mini RTU and converter kits, we supply DIN-rail 5-GE and 8-GE + 2 SFP units (−40~75 °C, redundant 12–57 V input, CE/RoHS; the managed 8-GE on a Marvell platform) from single units, EXW USD — which port count do your DNO substation kits use most?",
+  "country_fix": "立陶宛",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（S 邮箱 2 封 2024，1 次记录打开，0 回；收件 info@pramoninisrysys.lt；主题多为「Industrial PoE Switch、48 Port PoE Managed Switch」）；Elsa 群发 BCC 已触达 2026-08-31「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，IT 批次 To INFO@sarcitalia.it，0 回（第 73 批(o) Bcc 头核对 msg 1a057bf756774b15）",
+      "type": "智能电网 RTU 制造商兼网店（立陶宛，工业 FS 为配套；仅民用口径）",
+      "sieve": "1~2（1 次打开）",
+      "stop": "只打通用邮箱，无记录打开",
+      "revive": "保持季度群发到 2027-Q1；无打开即停",
+      "lane": "立陶宛（欧洲全域主攻）",
+      "cadence": "季度",
+      "evidence": "gmail_digest：out 2，Opened 标签 1（Simon 群发追踪）；用户表：「Beijer sbjlink的工业FS」；研究档 risks：守界备注：公用事业/配电网场景——只供民用通用工业交换机，IEC 61850-3 认证 Saga 无；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To INFO@sarcitalia.it）2025-04-01→2026-08-31 共 9 轮群发（Marvell Alleycat5 Solution、8 Port Industrial PoE Switch、Commercial PoE Switch、48 Port PoE Managed Switch、16 Port Ethernet Switch、10G Enterprise SFP Switch、Industrial PoE Switch、OEM Core Switching Solution、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断"
+    },
+    "situation": "立陶宛 Elseta（pramoninisrysys.lt 为 Elseta 在线商店：面向配电网/公用事业智能电网数字化——Mini RTU、转换器、I/O 模块、软件；表内国别「意大利」有误（.lt 域名、Elseta 为立陶宛公司）；表内「Beijer sbjlink 的工业 FS」「质量一般」）；表内未跟进。",
+    "need": "RTU 配套工业 FS（现 Beijer/Westermo 系）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$48.6 @25%）/ 5 GE STI-050GE（$17.8）；IEC 61850-3 Saga 无（注明）",
+    "breakpoint": "守界备注：公用事业/配电网场景——只供民用通用工业交换机，IEC 61850-3 认证 Saga 无",
+    "saga_now": {
+      "p1": "STI-280GE",
+      "tier": 25,
+      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-12-13 $300（48 Port PoE Managed Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-31；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
+      "why": "RTU 配套工业 FS（现 Beijer/Westermo 系）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$48.6 @25%）/ 5 GE STI-050GE（$17.8）；IEC 61850-3 Saga 无（注明）。已打开的主题（1/2 封有打开记录）：「Industrial PoE Switch」(2024-11-15) → 读者兴趣偏「工业」；与 P1 同类，继续",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "群发节奏",
+      "channel": "A 邮箱",
+      "action": "观察打开",
+      "one_question": "For the industrial switches bundled with your Mini RTU and converter kits, we supply DIN-rail 5-GE and 8-GE + 2 SFP units (−40~75 °C, redundant 12–57 V input, CE/RoHS; the managed 8-GE on a Marvell platform) from single units, EXW USD — which port count do your DNO substation kits use most?"
+    },
+    "facts": [
+      {
+        "date": "2024-12-13",
+        "dir": "去",
+        "who": "S 群发",
+        "quote": "Industrial PoE Switch、48 Port PoE Managed Switch",
+        "why": "2 封 / 1 次打开 / 0 回｜首封 2024-11-15 → 末封 2024-12-13（2 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
+        "date": "2025-04-01",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To INFO@sarcitalia.it，IT 批次）",
+        "quote": "Marvell Alleycat5 Solution — We are doing Marvell Alleycat5 chip for tailored networking solutions. 1, Support Web GUI change(Logo, model name, MAC, SN, SNMP, OID) 2, Added intere",
+        "why": "Elsa 箱群发 BCC 触达证据（命中地址 info@pramoninisrysys.lt, pramoninisrysys.lt）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+        "k": "elsa_bcc"
+      },
+      {
+        "date": "2026-08-31",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To INFO@sarcitalia.it，IT 批次）",
+        "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
+        "why": "Elsa 箱群发 BCC 触达证据（命中地址 info@pramoninisrysys.lt, pramoninisrysys.lt）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+        "k": "elsa_bcc"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "Beijer sbjlink的工业FS",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-25"
+  }
 }

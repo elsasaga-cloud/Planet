@@ -1,0 +1,59 @@
+{
+ "code": "SC-107",
+ "name_official": "AECL — Atomic Energy of Canada Limited（加拿大联邦国有核能公司；aecl.com；询盘人 Mirza Pasovic，Gmail）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线",
+ "summary": "阿里巴巴 RFQ：Mirza Pasovic（mirza.pasovic@gmail.com，域名记录 aecl.com，WhatsApp 已加）询 5 port PoE switch PCB；无跟进。AECL = Atomic Energy of Canada Limited（联邦皇家公司，Chalk River 核实验室）→ 守界 C；需求为裸板（PCB）亦非 Saga 供货形态（资料保留）。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "RFQ：5 口 PoE 交换机 PCB；aecl.com",
+   "quote": "5 port PoE switch pcb / from: 阿里巴巴RFQ / aecl.com / mirza.pasovic@gmail.com",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Mirza Pasovic",
+   "role": "（RFQ 询盘人；职务待核）",
+   "email": "mirza.pasovic@gmail.com（用户表）",
+   "phone": "—（WhatsApp 已加）",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": "C",
+ "override_reason": "守界 + 产品外：AECL 为加拿大联邦皇家公司（核能），公共部门/核设施不供；且阿里 RFQ 为「5 口 PoE 交换机 PCB」板级部件，Saga 只售整机",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（身份判断 → 守界/产品外降 C）"
+ },
+ "company_facts": {
+  "legal_name": "Atomic Energy of Canada Limited（AECL）",
+  "hq": "Chalk River, Ontario, Canada",
+  "size": "联邦皇家公司",
+  "other": "核能研发与场址管理；询盘人用 Gmail"
+ },
+ "business_lines": [
+  "核能科研/核设施管理（守界）"
+ ],
+ "channels": {
+  "网站": "https://www.aecl.ca/（用户表记录为 aecl.com）"
+ },
+ "signals": [
+  "PCB 级需求 → 非整机采购"
+ ],
+ "risks": [
+  "核设施/公共部门守界 + 产品形态不符 → C"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 25,
+  "why": "不推进"
+ },
+ "email_hook": "（不主动发送）"
+}

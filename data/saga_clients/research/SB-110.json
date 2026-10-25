@@ -1,28 +1,56 @@
 {
  "code": "SB-110",
- "name_official": "（表内名 CRISPY CREPES，印度尼西亚；Ade Tj）",
+ "name_official": "iTKATI UG Ltd（ITKATI Uganda，Kampala；itkati.com）",
  "researched_at": "2026-10-21",
- "website_status": "无域名（yahoo；仅表内信息）",
- "summary": "印尼客户 Ade Tj（已加微信），问 SFP 兼容性、工业 MC 反馈、要工业 16/24 口机 datasheet；2025-04 回复「用锐捷」（Ruijie 为现用品牌）。表内公司名「CRISPY CREPES」疑为个人微信名/误录，主体待核。",
+ "website_status": "在线（搜索可见；快照 2026-10-21 unreachable——疑 GitHub 运行器 IP 被拦）",
+ "summary": "乌干达坎帕拉的小型 IT/网络/安防集成商 iTKATI UG Ltd（2009 年起、2018 年登记；6–10 人；企业网络、CCTV、Starlink、云与托管、VoIP/对讲、软件；地址 Plot 965 Kyadondo/Makindye；care@itkati.com，+256 393 225 713）。表内联系人 Bob（technical@itkati.com，+256 704 575 328，WA 已加）：对价格 OK、想拿样并**贴自有标**，2024-02 要 4/8/16/24/64 口价格，2024-03 再问价；18 次推送 1 次实质回复。贴标 = OEM 档 30% → B（东非非主攻区，但意向明确）。",
  "type": "",
  "size": "",
  "brands_seen": [],
  "evidence": [
   {
+   "kind": "官网",
+   "claim": "定位与联系方式",
+   "quote": "We believe that a robust network architecture is the foundation of a successful digital enterprise… SD-WAN, CLOUD Technologies… Plot 965, Kampala +256393225713 care@itkati.com… Plot 965, Kyadondo Kampala",
+   "url": "https://itkati.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "第三方",
+   "claim": "规模与经理",
+   "quote": "iTKATI UG LTD … Establishment year 2009 Employees 6-10 Company manager sarah basemera … +256785284579 +256704575328",
+   "url": "https://www.yellow.ug/company/40803/itkati-ug-ltd",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "第三方",
+   "claim": "业务范围",
+   "quote": "prime focus on Corporate network infrastructure development, Cyber security and forensics analysis, internet bandwidth (telecom support), web hosting and domain, customized software development, app development security systems, intercoms VOIP services and cloud services… Registration Date: Jul 25, 2018",
+   "url": "https://eastafricatenders.com/directory/itkati-ug-ltd/",
+   "date": "2026-10-21"
+  },
+  {
    "kind": "用户表",
-   "claim": "兴趣 SFP 收发器兼容性；2025-03 工业 16/24 口出货图→要 datasheet；2025-04 Marvell 商用组合→「用锐捷」",
-   "quote": "兴趣：SFP收发器 我们的SFP兼容别的品牌SFP吗；回复：datasheet；用锐捷",
+   "claim": "需求与回复",
+   "quote": "对价格OK 想拿样 贴标；2024.2.27 发了2光4小壳信息 → Give price for 4,8,16,24,64 ports；2024.3.18 → price",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
  "kp": [
   {
-   "name": "Ade Tj",
-   "title": "（表内联系人，已加微信）",
-   "email": "adren_tj@yahoo.com",
-   "phone": "+62 812 2212 3997",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
+   "name": "Bob",
+   "role": "技术/采购（表内）",
+   "email": "technical@itkati.com",
+   "phone": "+256 704 575 328（WA 已加）",
+   "source": "用户 Clients 表"
+  },
+  {
+   "name": "Sarah Basemera",
+   "role": "Company manager（yellow.ug）",
+   "email": "",
+   "phone": "+256 785 284 579",
+   "source": "yellow.ug"
   }
  ],
  "grade_override": null,
@@ -30,52 +58,59 @@
  "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "无域名 · 仅表内信息"
+  "level": "B 级加厚 v1（官网 + 黄页/FB 核对）"
  },
  "company_facts": {
-  "legal_name": "（待核；表内名疑误录）",
-  "founded": "",
-  "hq": "印度尼西亚（表内）",
-  "size": "",
-  "other": "现用品牌 Ruijie（锐捷）"
+  "legal_name": "iTKATI UG LTD（ITKati Corp.）",
+  "founded": "2009（yellow.ug）/ 登记 2018-07（eastafricatenders）",
+  "hq": "Plot 965, Kyadondo, Makindye, Kampala, Uganda；+256 393 225 713；care@itkati.com / support@itkati.com",
+  "size": "6–10 人（yellow.ug）",
+  "other": "经理 Sarah Basemera（yellow.ug）；FB 联系 +256 704 575 328 itkaticorp@gmail.com；另有 eafricahost.itkati.com 主机业务"
  },
+ "business_lines": [
+  "企业网络架构与布线、SD-WAN/云",
+  "CCTV 与安防系统、对讲/VoIP",
+  "Starlink/互联网带宽、Web 托管与软件开发"
+ ],
+ "products_seen": [],
  "channels": {
-  "role": "（未知，疑工程商）",
-  "region": "印度尼西亚"
+  "official": "care@itkati.com / +256 393 225 713",
+  "contact": "Bob technical@itkati.com，+256 704 575 328 / +256 785 284 579（WA 已加）",
+  "facebook": "facebook.com/itkati"
  },
  "signals": [
-  "要过工业 16/24 口机 datasheet",
-  "问 SFP 兼容（配件需求）"
+  "对价格 OK、要样品并贴自有标（OEM 意向）",
+  "2024-02 要 4/8/16/24/64 口全系列价格"
  ],
  "risks": [
-  "主体不明（公司名疑误录）",
-  "商用层已用 Ruijie"
+  "小公司，贴标起订量与付款能力待核",
+  "乌干达物流/外汇；64 口不在 Saga 价目（48 口封顶）"
  ],
  "saga_fit": {
-  "p1": "STI-21616GP",
-  "tier": 25,
-  "why": "其索要 datasheet 的工业 16/24 口机 → Saga STI-21616GP（16 PoE + 2 SFP 工业，$170.4/177.5/184.6）；SFP 模块 Saga 价目无（Q-32）。"
+  "p1": "STC-28DGGPM",
+  "tier": 30,
+  "why": "要全系列价 + 贴标 → 以 8 PoE + 2 SFP L2+ 起手做样机，OEM 30% 档；中性包装 + 丝印其 logo，MOQ 按型号另议"
  },
- "email_hook": "Ade, you asked for the datasheet of our 16-port industrial PoE unit (2 SFP uplinks) — since Ruijie covers your office layer, is the industrial/outdoor cabinet side where you'd test ours? One sample ships from 1 pc.",
+ "email_hook": "You mentioned the pricing was fine and you would like samples with your own label — we can ship one 8-port PoE unit in neutral packing with your logo silk-screened for evaluation; which port counts should the first batch cover?",
  "mail_review": {
   "binding": {
-   "level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：SFP收发器 我们的SFP兼容别的品牌SFP吗；回复：datasheet；用锐捷」；Elsa 箱：`to:adren_tj@yahoo.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(n)））",
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「对价格OK 想拿样 贴标；2024.2.27 发了2光4小壳信息 → Give price for 4,8,16,24,」；Elsa 箱：`to:itkati.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(n)））",
    "type": "—",
    "sieve": "—（未入筛）",
    "stop": "从未触达",
    "revive": "不动（非主攻区；J5：有证据再动）",
-   "lane": "印度尼西亚 非主攻",
+   "lane": "乌干达 非主攻",
    "cadence": "不动",
-   "evidence": "gmail_digest：out 0；用户表：「兴趣：SFP收发器 我们的SFP兼容别的品牌SFP吗；回复：datasheet；用锐捷」；研究档 risks：主体不明（公司名疑误录）"
+   "evidence": "gmail_digest：out 0；用户表：「对价格OK 想拿样 贴标；2024.2.27 发了2光4小壳信息 → Give price for 4,8,16,24,64 ports；2024.3.18 →」；研究档 risks：小公司，贴标起订量与付款能力待核"
   },
-  "situation": "印尼客户 Ade Tj（已加微信），问 SFP 兼容性、工业 MC 反馈、要工业 16/24 口机 datasheet；2025-04 回复「用锐捷」（Ruijie 为现用品牌）。表内公司名「CRISPY CREPES」疑为个人微信名/误录，主体待核。",
-  "need": "其索要 datasheet 的工业 16/24 口机 → Saga STI-21616GP（16 PoE + 2 SFP 工业，$170.4/177.5/184.6）；SFP 模块 Saga 价目无（Q-32）。",
-  "breakpoint": "主体不明（公司名疑误录）",
+  "situation": "乌干达坎帕拉的小型 IT/网络/安防集成商 iTKATI UG Ltd（2009 年起、2018 年登记；6–10 人；企业网络、CCTV、Starlink、云与托管、VoIP/对讲、软件；地址 Plot 965 Kyadondo/Makindye；care@itkati.com，+256 393 225 713）。表内联系人 Bob（technical@itkati.com，+256 704 575 328，WA 已加）：对价格 OK、想拿样并**贴自有标**，2024-02 要 4/8/16/24/64 口价格，2024-03 再问价；18 次推送 1 次实质回复。贴标 = OEM 档 30% → B（东非非主攻区，但意向明确）。",
+  "need": "要全系列价 + 贴标 → 以 8 PoE + 2 SFP L2+ 起手做样机，OEM 30% 档；中性包装 + 丝印其 logo，MOQ 按型号另议",
+  "breakpoint": "小公司，贴标起订量与付款能力待核",
   "saga_now": {
-   "p1": "STI-21616GP",
-   "tier": 25,
+   "p1": "STC-28DGGPM",
+   "tier": 30,
    "price": "按主表（研究档 saga_fit）",
-   "why": "其索要 datasheet 的工业 16/24 口机 → Saga STI-21616GP（16 PoE + 2 SFP 工业，$170.4/177.5/184.6）；SFP 模块 Saga 价目无（Q-32）。",
+   "why": "要全系列价 + 贴标 → 以 8 PoE + 2 SFP L2+ 起手做样机，OEM 30% 档；中性包装 + 丝印其 logo，MOQ 按型号另议",
    "repeat": [],
    "gaps": []
   },
@@ -87,26 +122,18 @@
   },
   "facts": [
    {
-    "date": "2024-04-18",
+    "date": "2024-01-20",
     "dir": "来",
     "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
-    "quote": "用户表跟进：推「—」→ 对方「让加微信」",
+    "quote": "用户表跟进：推「发了最新工业电源价格册」→ 对方「catalog and price」",
     "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
-    "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.17 2024.4.18"
-   },
-   {
-    "date": "2024-04-22",
-    "dir": "来",
-    "who": "用户表（Simon 跟进记录；渠道 微信）",
-    "quote": "用户表跟进：推「问工业MC的feedback」→ 对方「问了一个周边产品」",
-    "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
-    "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.17 2024.4.22"
+    "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.21 2024.1.20"
    },
    {
     "date": "2026-10-21",
     "dir": "用户表",
     "who": "Simon",
-    "quote": "兴趣：SFP收发器 我们的SFP兼容别的品牌SFP吗；回复：datasheet；用锐捷",
+    "quote": "对价格OK 想拿样 贴标；2024.2.27 发了2光4小壳信息 → Give price for 4,8,16,24,64 ports；2024.3.18 → price",
     "why": "表内备注",
     "k": "用户表"
    }

@@ -1,254 +1,255 @@
 {
-  "code": "SA-026",
-  "name_official": "ООО «БитБук» / BitBook LLC（Нижний Тагил, Russia）",
-  "website_status": "在线",
-  "summary": "俄罗斯下塔吉尔的条码/自动化设备开发商、生产商与分销商（2018 年注册，自称 15+ 年经验），自有品牌产品在俄罗斯与中国工厂生产，官网有「网络 PoE 设备」类目并招募经销商。用户表：WhatsApp 已加，兴趣商业 2 光 8 管理 PoE / FS 等杂类目，无跟进记录、无回复。",
-  "type": "分销商 + 自有品牌（条码为主，网络 PoE 为辅）",
-  "size": "未见人数（地区性中小企业）",
-  "brands_seen": [
-    "БитБук"
-  ],
-  "evidence": [
-    {
-      "kind": "官网",
-      "claim": "定位：俄罗斯条码设备开发商/生产商/分销商，自有品牌在俄中工厂生产",
-      "quote": "БитБук® - российский разработчик, производитель и дистрибьютор оборудования штрихового кодирования … Все оборудование под нашими брендами производится в заводских условиях на фабриках в России и Китае.",
-      "url": "https://bitbuk.ru/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网",
-      "claim": "有 PoE 网络设备品类",
-      "quote": "Купить Сетевое PoE оборудование оптом и в розницу в интернет-магазине БитБук® … PoE injector … IEEE 802.3af",
-      "url": "https://bitbuk.ru/category/sistemy-videonablyudeniya/setevoe-poe-oborudovanie/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "成交 2 次；WA 已加；兴趣 2 光 8 管理 PoE",
-      "quote": "商业2光8管理POE / FS 一些很杂的类目 / 7 908 906 7874 已加 / 成单客户",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "PI",
-      "claim": "成交单据 STSC20231122004（PI，2023-11-22）：STC-28GPM 共 2 台，USD 898.38；采购 HRUI RMB 680.0；Simon 成本表利润 RMB 218.38",
-      "quote": "",
-      "url": "PI.zip:4 俄罗斯 Andrey 货代走账 可发展/STSC20231122004.xls",
-      "date": "2023-11-22"
-    },
-    {
-      "kind": "PI",
-      "claim": "成交单据 STSC20250731004（PI，2025-07-31）：STC-128GFP、STC-424GM、STC-4424GCPM、STI-288GPM 共 130 台，USD 5140.0；采购 HRUI、SmartByte RMB 30020.0；Simon 成本表利润 RMB 5256",
-      "quote": "",
-      "url": "PI.zip:4 俄罗斯 Andrey 货代走账 可发展/STSC20250731004.xls",
-      "date": "2025-07-31"
-    },
-    {
-      "kind": "PI",
-      "claim": "PI 包文件夹「俄罗斯 Andrey 货代走账 可发展」：Simon 标签 可发展，收款 货代走账；单号 2 个，2023-11-22 → 2025-07-31，销售 USD 6038.38 / RMB 0，Simon 成本统计利润合计 RMB 5474.38",
-      "quote": "",
-      "url": "PI.zip:4 俄罗斯 Andrey 货代走账 可发展",
-      "date": "2026-10-22"
-    },
-    {
-      "kind": "公开平台核查（T29-U18）",
-      "claim": "Бит.Блог 2026-07-06《Оборудование под Вашим брендом》（作者 Андрей Татарников）：接受目录内任何设备的 OEM/ODM 定制——无标 OEM、客户包装 ODM、按个别图纸设计生产、可定制固件；联系 +7 (343) 2010444 / info@bitbuk.ru",
-      "quote": "Мы принимаем заявки на изготовление любого оборудования из нашего каталога под вашим собственным брендом или OEM. Возможно нанесение логотипа, фирменная упаковка, кастомизация прошивок",
-      "url": "https://bitbuk.ru/blog/oborudovanie-pod-vashim-brendom/",
-      "date": "2026-07-06"
-    },
-    {
-      "kind": "公开平台核查（T29-U18）",
-      "claim": "bitbuk.ru 交换机类目：PRIORAT PRT-SG-1226P 32,120₽、PRT-SF-1226P 24,900₽、PRT-SG-1208PM 14,800₽、PRT-SG-1208PI（工业，120W PoE，6KV 防雷，-40~+70°C）14,600₽、PRT-SG-1424M 14,300₽、PRT-SF-1110PO IP65 9,400₽；库存地 Нижний Тагил",
-      "quote": "Коммутатор PoE промышленный PRIORAT PRT-SG-1208PI … Нижний Тагил: В наличии 14 600 ₽ … Бюджет мощности PoE, Вт 120 … -40 +70°C",
-      "url": "https://bitbuk.ru/kommutator-poe-promyshlennyy-priorat-prt-sg-1208pi/",
-      "date": "2026-10-23"
-    },
-    {
-      "kind": "公开平台核查（T29-U18）",
-      "claim": "公司地址 Нижний Тагил, ул. Юности, 47А, стр. 1；电话 +7 (3435) 37-87-87 / 37-90-80；站内导航：Бит.Блог、Техподдержка（help.priorat.ru）",
-      "quote": "Нижний Тагил, ул. Юности, 47А, стр. 1 … +7 (3435) 37-87-87",
-      "url": "https://bitbuk.ru/blog/",
-      "date": "2026-10-23"
-    }
-  ],
-  "kp": [
-    {
-      "name": "—",
-      "role": "总机",
-      "email": "info@bitbuk.ru",
-      "phone": "+7 (3435) 37-87-87",
-      "source": "https://bitbuk.ru/kontakty/"
-    },
-    {
-      "name": "Andrey Tatarnikov",
-      "role": "单据联系人",
-      "email": "info@bitbuk.ru",
-      "phone": "",
-      "source": "PI.zip 单据"
-    }
-  ],
-  "grade_override": "A",
-  "override_reason": "核心业务是条码设备，网络 PoE 只是配套类目；至今无任何回复/跟进记录（仅 WhatsApp 加上）。B 慢跟：按自有品牌贴牌切入（他们已在中国贴牌生产）。；PI 包成单客户，Simon 标签 可发展 → A",
-  "notes": "",
-  "researched_at": "2026-10-22",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（基于首轮调研整理 + 需求映射）"
+ "code": "SA-026",
+ "name_official": "Hardened Networks / ITS Express（hardenednetworks.com · expresssupply.net，US）",
+ "website_status": "在线",
+ "summary": "美国交通 ITS 领域的自有品牌加固交换机供应商（HN-8012-24 V3、HN-AIS-8300、80 系列 V3：L3 OSPF/BGP、4×USFP+ 10G、ESFP 2.5G 等），与 ITS Express 同一体系；产品页 2026-07 仍在更新。用户表：3 次实质回复，兴趣工业 FS / 工业 MC / Bypass，用自己的 logo。",
+ "type": "品牌商/贴牌需求（OEM/ODM）——ITS 加固交换机自有品牌",
+ "size": "未见人数（专业小品牌）",
+ "brands_seen": [
+  "Hardened Networks",
+  "ITS Express"
+ ],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "自有品牌加固 L3 交换机产品线（含 10G USFP+、2.5G ESFP、SHA-256）",
+   "quote": "Hardened Networks/ITS Express Ethernet Switches · 80 Series V3 Switches -Hardened Full Layer 3 OSPF/PIM/VRRP/BGP -4 USFP+ Ports 1000Mb/2.5Gb/10Gb … HN-8012-24 V3 -Now Hardened Base Layer 3 … -V3 Technology -SHA-256 authentication",
+   "url": "https://hardenednetworks.com/products/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "legal_name": "ООО «БитБук» / BitBook LLC",
-    "founded": "2018（注册）；自称 15+ 年经验",
-    "hq": "Нижний Тагил, Россия（+7 908 906 7874，已加 WA）",
-    "size": "小型开发/生产/分销商",
-    "other": "自有品牌 БитБук，产品在俄罗斯与中国工厂生产；官网有「网络 PoE 设备」类目并招经销商"
+  {
+   "kind": "官网",
+   "claim": "HN-8012-24 V3 / 24+ V3 规格",
+   "quote": "HN-8012-24 V3 -Now Hardened Base Layer 3 -4 USFP+ Ports 100Mb/1000Mb/2.5Gb/10Gb … -4 ESFP Ports … -16 Copper Ports 10Mb/100Mb/1000Mb TX -176 GB Back-Plane … HN-8012-24+ V3 … -Bypass fiber ports … -FIPS-197 compliant AES-256 encryption",
+   "url": "https://hardenednetworks.com/products/",
+   "date": "2026-07-01"
   },
-  "business_lines": [
-    "条码/自动化设备开发与生产（自有品牌）",
-    "网络 PoE 设备分销（官网类目）"
-  ],
-  "channels": {
-    "网站": "https://bitbook.ru/ · bitbuk.ru",
-    "邮箱": "info@bitbook.ru / info@bitbuk.ru（用户表）",
-    "WhatsApp": "+7 908 906 7874（已加）",
-    "公开动态平台（监控中，T29-U18）": "网店 bitbuk.ru（自有品牌 PRIORAT 交换机/IP 摄像机 + БитБук 条码设备；类目页即价格表）；Бит.Блог（作者 = KP Андрей Татарников）；技术支持 help.priorat.ru；电话 +7 (343) 2010444；info@bitbuk.ru"
+  {
+   "kind": "官网 PDF",
+   "claim": "AIS-8300 交通摄像机：802.3bt 51W、NEMA TS2、UL、FL APL",
+   "quote": "Power IEEE802.3bt, Type 3, class 6, max 51 watt … -Safety: RoHS, UL … -Others: NEMA TS2 … -FL APL Approval # 682-002-025 … ITS EXPRESS By Hardened Networks",
+   "url": "https://hardenednetworks.com/wp-content/uploads/2025/07/HN-AIS-8300-2.5-20251507.pdf",
+   "date": "2025-07-01"
   },
-  "signals": [
-    "2026-10-23 价格基准：PRT-SG-1226P（24G PoE）32,120₽、PRT-SF-1226P 24,900₽、PRT-SG-1208PM 14,800₽、PRT-SG-1208PI 工业 8 口 14,600₽、PRT-SG-1424M 14,300₽、PRT-SF-1110PO 户外 IP65 9,400₽、GNT-P4813V6 20,790₽、GNT-P9206EA 4,290₽（含俄国内税与运费）",
-    "2026-07-06 博客《Оборудование под Вашим брендом》：БитБук 对外承接目录内任何设备的 OEM/ODM 贴牌（无标/客户包装/按图定制、可定制固件）——说明他们自己就是靠中国代工做 PRIORAT，Saga 可直接以「PRIORAT 下一批交换机的代工报价」切入；2026-07-05 其扫码枪通过 Честный Знак 认证",
-    "成交 2 次 + 自有品牌在中国代工 → 2 光 8 电管理 PoE 贴 БитБук 牌是现成路径（OEM 30%）",
-    "官网招经销商 → 其渠道可放大"
-  ],
-  "risks": [
-    "俄罗斯：结算路径（CNY）与物流需单独安排；无邮件回复记录"
-  ],
-  "saga_fit": {
-    "p1": "STC-28GPM",
-    "tier": 30,
-    "why": "OEM 30% 档：STC-28GPM（2 SFP + 8 GE PoE L2 管理，Saga Realtek 线列表 $62.2；贴牌加价另议）对应「商业 2 光 8 管理 PoE」；非管理 STC-228GP（$30.8）；工业 STI-288GPM（$85.5）"
-  },
-  "email_hook": "Andrey, how did the three Priorat test units (PRT-SG-1428PM / 1424M / 1208PMI) do — ready to brand them for the next batch together with a PRT-SF-1110P refill? Tooling and label files are on file, no extra charge.",
-  "deal_pi": {
-    "folder": "4 俄罗斯 Andrey 货代走账 可发展",
-    "simon_label": "可发展",
-    "pay": "货代走账",
-    "bind": "",
-    "buyer": "BitBook LLC",
-    "orders": 2,
-    "first": "2023-11-22",
-    "last": "2025-07-31",
-    "usd": 6038.38,
-    "rmb": 0.0,
-    "profit_rmb": 5474.38,
-    "models": "STC-128GFP、STC-28GPM、STC-424GM、STC-4424GCPM、STI-288GPM"
-  },
-  "watch": {
-    "as_of": "2026-10-23",
-    "github_watch": [],
-    "web_watch_targets": "scripts/web_watch/targets.json#SA-026",
-    "status": "data/customer_watch/当前状态.md",
-    "log": "data/customer_watch/变化日志.md"
-  },
-  "mail_review": {
-    "binding": {
-      "level": "轻度→中度边缘（2 单 $6,038 中第二单 130 件 $5,165 为 Priorat 品牌批量 + 三款测试机；货代走账；Simon 标「可发展」）；Elsa 群发 BCC 已触达 2026-01-23「OEM Core Switching Solution」（稿内无价，第 74 批(p) 已读稿），俄罗斯-1（锚 nnz.ru RU；2025-02-23 起月轮，14 轮） 批次 To msk@nnz.ru，0 回（第 74 批 Bcc 头核对 msg 19bea41cf1e92fe5）",
-      "type": "俄罗斯条码/自动化设备商兼分销（自有品牌在中国贴牌；网络 PoE 为配套类目）",
-      "sieve": "3（两单成交）但无邮件往来（WhatsApp）",
-      "stop": "无停点；低频",
-      "revive": "KP Андрей Татарников 2026-07-06 曾提 OEM/ODM（U18）→ 自有品牌贴牌切入",
-      "lane": "RU 已通（货代付款）",
-      "cadence": "最后 PI 2025-07-31；邮件 0 封",
-      "evidence": "PI 包 2 单；`data/saga_clients/research/SA-026.json` U18 BitBook 博客/目录快照；PI STSC20250731004 原文（PRT- 型号、100 台贴牌、3×10 测试机）+ 标签内容.docx + 商标授权书；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To msk@nnz.ru）本户见于 2026-01-23 名单；该批次最早 2025-02-23 起共 14 轮，更早轮次 Bcc 未读"
-    },
-    "as_of": "2026-10-25",
-    "facts": [
-      {
-        "date": "2023-11-22",
-        "dir": "去",
-        "who": "Simon→SmartByte（label_content.docx，首单标签改动）",
-        "quote": "以上次出货标签为基础：port Gigabit POE Managed Switch；STC-28GPM；8*10/100/1000M POE Ports + 2*Gigabit SFP Uplink, L2 Managed；S/N-10/1000M20231122001、…002",
-        "why": "首单 2 台 STC-28GPM 的标签就已按客户习惯改序列号格式（S/N-10/1000M+日期）——Andrey 从第一单起就是「要标签」的客户，第二单升级为 PRT- 自有品牌",
-        "k": "pi_doc"
-      },
-      {
-        "date": "2024-02-11",
-        "dir": "来",
-        "who": "Andrey（WhatsApp 截图，PI 包「售后问题_1/2.png」）",
-        "quote": "need New firmware for managed switch, 2/11/2024. Old one is not work correct with snmp… Loader 3.2.0.33 / Firmware 1.0.0.34 (Mar 09 2023)… Error: OID not increasing: iso.3.6.1.2.1.17.4.3.1.1.… (dot1dTpFdbTable)",
-        "why": "首单 STC-28GPM 的唯一售后：SNMP walk 在 FDB 表 OID 不递增（老固件 1.0.0.34）——和 NYNEX 2025-12 的 MIB/OID 问题同源；Andrey 2025-07 还是下了 130 台，说明当时解决了或没影响；若三款测试机再测 SNMP，先给 AC5 新固件",
-        "k": "pi_doc"
-      },
-      {
-        "date": "2025-01-01",
-        "dir": "去",
-        "who": "Saga → HRUI（仨戛-注册商标使用授权书，2nd order 采购附件）",
-        "quote": "郑州仨戛通讯器材有限公司…同步公司目标客户的商标，同意授权 深圳市洪瑞光祥电子技术有限公司 在为郑州仨戛通讯器材有限公司生产（OEM）的所有产品上，免费且免责使用此商标…授权期限：2025年01月01日 至 2028年12月31日",
-        "why": "HRUI 给 Saga 客户贴牌要一张 Saga 出具的商标使用授权书（侵权责任全在 Saga）——Andrey 第二单（2025-08，HRUI 采购 ¥4,520 + Smartbyte 线）就是靠这张纸出的 OEM 标；这也是 Saga「代客户承担商标风险」的隐性服务，可写进 OEM 话术",
-        "k": "Drive PI 文件夹（data/pi_2026-10/text） 4_Andrey 2nd_order"
-      },
-      {
-        "date": "2025-07-31",
-        "dir": "去",
-        "who": "Saga PI STSC20250731004（Simon 开；Buyer: BitBook LLC, Andrey Tatarnikov, info@bitbuk.ru）",
-        "quote": "STC-128GFP → PRT-SF-1110P ×100 @$22（With Priorat logo, no extra charge）；STC-4424GCPM → PRT-SG-1428PM ×10 @$130（neutral, testing）；STC-424GM → PRT-SG-1424M ×10 @$92（neutral, testing）；STI-288GPM → PRT-SG-1208PMI ×10 @$72（neutral, testing）；Bank $25；USD TOTAL 130 件 $5,165（汇率 7.18 → ¥37,084.7）；EXW；标签要求：型号写客户的 PRT-xxx，序列号 SN-20250804xxxx，Times New Roman",
-        "why": "第二单不是小单：**100 台 Priorat 品牌（PRT-）百兆 PoE 接入 + 三款管理/工业机各 10 台「testing purpose」**——Priorat 是 Andrey 的自有品牌，三款测试机若过关就是下一批贴牌；档案原来的「2 单 $6,038 轻度」低估了这条线。下一问应围绕三款测试机的结论，而不是重复 STC-28GPM",
-        "k": "data/pi_2026-10/text/PI__PI__4_俄罗斯_Andrey_货代走账_可发展__2nd_order__STSC20250731004.xls + 标签内容_STSC20250731004.docx"
-      },
-      {
-        "date": "2025-07-31",
-        "dir": "内",
-        "who": "Simon 成本表（PI 包）",
-        "quote": "内部《成本统计.xlsx》：STSC20231122004：成本 680 / 收款 898 / 利润 218（24.3%） · STSC20250731004：成本 31,829 / 收款 37,085 / 利润 5,256（14.2%）",
-        "why": "利润率 = 利润÷收款；对照 20/25/30 加价 = 16.7%/20%/23% 毛利；详见 docs/成单客户_毛利复盘_内部_2026-10-24.md",
-        "k": "cost_sheet"
-      },
-      {
-        "date": "2025-08-05",
-        "dir": "去",
-        "who": "Saga 内部备注（1309 挂耳费用 后续慢慢拿回来.docx）",
-        "quote": "1309 挂耳费用 后续慢慢拿回来；预计3个单子，这样一次大概是440元左右，不太多，基本能覆盖",
-        "why": "为 Andrey 定制的挂耳模具/加工费 ¥1,309 由 Saga 先垫、分摊到后续 3 单每单 ≈¥440 收回——Saga 在给「可发展」客户垫小额定制成本换复购；复购若停，这笔就沉没",
-        "k": "Drive PI 文件夹（data/pi_2026-10/text） 4_Andrey"
-      },
-      {
-        "date": "2026-01-23",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To msk@nnz.ru，俄罗斯-1（锚 nnz.ru RU；2025-02-23 起月轮，14 轮） 批次）",
-        "quote": "OEM Core Switching Solution — I am introducing our CENTEC-based core and aggregation switches. 1, A cost-effective alternative to Cisco or Huawei models 2, Multiple models(10G~800G",
-        "why": "Elsa 箱群发 BCC 触达证据（命中地址 bitbook.ru, info@bitbook.ru）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-        "k": "elsa_bcc"
-      }
-    ],
-    "situation": "Andrey Tatarnikov（BitBook LLC，info@bitbuk.ru；自有品牌 Priorat / PRT-）：WhatsApp + 货代走账客户，S/A 邮箱 0 封；Drive PI 两单：2023-11 STC-28GPM ×2 @$63 起步 → 2025-07-31 STSC20250731004 **130 件 $5,165**（100 台 PRT-SF-1110P 贴牌 + PRT-SG-1428PM / PRT-SG-1424M / PRT-SG-1208PMI 各 10 台测试机），含定制挂耳 ¥1,309 由 Saga 垫付拟分 3 单收回，HRUI 侧凭 Saga 出具的商标使用授权书（2025-01-01 → 2028-12-31）印 Priorat 标。Simon 标「可发展」。",
-    "need": "Priorat 品牌全线贴牌：百兆 PoE 接入（已批量）+ 24 口 PoE 管理 / 24 口管理 / 工业 8 口 PoE 管理（测试中）；标签/序列号/字体按其规范；俄罗斯线付款走货代。",
-    "next_move": {
-      "when": "2026-11（第二单后 15 个月；三款测试机结论未知）",
-      "channel": "WhatsApp",
-      "action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-01-23「OEM Core Switching Solution」），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生。 问三款测试机（PRT-SG-1428PM / 1424M / 1208PMI）的测试结论和 PRT-SF-1110P 的库存消耗；告知管理型已切 AC5、挂耳模具在、授权书到 2028——给他一个「现在补货不加模具费、标签照旧」的理由（第 76 批(b) 2026-10-25：audit_ab 硬错误修正：tier 字段规范为数字）",
-      "one_question": "Andrey, how did the three Priorat test units (PRT-SG-1428PM / 1424M / 1208PMI) do — ready to brand them for the next batch together with a PRT-SF-1110P refill? Tooling and label files are on file, no extra charge."
-    },
-    "draft_en": {
-      "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
-      "body": "Andrey, how did the three Priorat test units (PRT-SG-1428PM / 1424M / 1208PMI) do — ready to brand them for the next batch together with a PRT-SF-1110P refill? Tooling and label files are on file, no extra charge."
-    },
-    "saga_now": {
-      "why": "毛利复盘：2023 小单 24.3%，2025-07 130 台 14.2%（含挂耳返工+运费 1,809，备忘「后续慢慢拿回来」）——下一单把挂耳/包装写进 PI 项｜档位说明（原 tier 字段文字「OEM 30% 档名义；实际按 2025-07 绑定价（USD，货代走账）」移此）：OEM 30% 档名义；实际按 2025-07 绑定价（USD，货代走账）",
-      "p1": "PRT-SF-1110P（= STC-128GFP 百兆 8 PoE + 2 GE/SFP，Priorat 贴牌，$22）补货；三款测试机 PRT-SG-1428PM（STC-4424GCPM $130）/ PRT-SG-1424M（STC-424GM $92）/ PRT-SG-1208PMI（STI-288GPM $72）转批量",
-      "tier": 30,
-      "price": "2025-07-31 PI STSC20250731004 成交价：PRT-SF-1110P $22 ×100（含 Priorat logo 不加价）、PRT-SG-1428PM $130、PRT-SG-1424M $92、PRT-SG-1208PMI $72（各 ×10，中性测试）；该单毛利 14.2%（含挂耳返工 ¥1,309 + 运费）。下一批同型号按原价不动（Simon U28 绑定价）；管理型已切 AC5——STC-4424GCPM 的 AC5 对应款按主表重核再报，别沿用 $130 当默认",
-      "repeat": [
-        "2023-11 首单 STC-28GPM 小批（$898 收款）→ 2025-07 130 台（$5,165）；间隔 20 个月"
-      ],
-      "gaps": [
-        "三款测试机结论未知（WhatsApp）",
-        "PRT-SF-1110P（STC-128GFP）在 Marvell 价格主表里没有，但 HRUI 对照表有对应（$22.6）——补货仍走 HRUI 线，按 `docs/reference/价格表_HRUI_三档加价_USD.md` 重核再报",
-        "挂耳费用 ¥1,309「后续慢慢拿回来」：下单时把挂耳/包装写成 PI 单项"
-      ]
-    },
-    "proof_gaps": [
-      "邮件 0 封（WhatsApp 客户）；证据全部来自 Drive PI 包（PI、label_content、售后截图、成本统计、授权书）"
-    ],
-    "breakpoint": "三款 Priorat 测试机（PRT-SG-1428PM / 1424M / 1208PMI）2025-07-31 随批出货后结论未知；渠道只有 WhatsApp，邮件 0 封；俄罗斯线付款走货代，节奏慢（两单相隔 20 个月）——断点 = 测试结论没人问、没人答（全量审计 2026-10-25 U57 补）"
+  {
+   "kind": "分销站",
+   "claim": "HN8012-24+ bypass/环网特性",
+   "quote": "Built-in bypass fiber ports with switching time <10ms … Fast ITS ring recovery time< 10ms over 250 units of connections … Ring Protocols: STP, RSTP, MSTP, RPVST +, R-RVST+, ITS- Ring, Moxa/ Herschman/ Advatech Rings",
+   "url": "https://expresssupply.us/hn8012-24plus/",
+   "date": "2026-10-21"
   }
+ ],
+ "notes": "A 确认（美国自有品牌工业交换机 + 3 次实质回复 + 明确贴牌）：P1 = STI-488XGGPM（工业 L2+ 8 PoE + 4×10G）对位其 HN 系列入门款，30% OEM 档；Bypass 需求需向 SmartByte 确认有无 bypass 款（无则如实说明）。",
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "深挖 v1"
+ },
+ "company_facts": {
+  "legal_name": "Hardened Networks / ITS Express（expresssupply.us）",
+  "hq": "USA（ITS 交通领域）",
+  "other": "自有品牌 HN 加固交换机（V3：Hardened Base L3、4×USFP+ 10G、4×ESFP 2.5G、16×GE、176G 背板、SHA-256/AES-256、ITS-Ring、Moxa/Hirschmann/Cisco 环兼容）+ AIS-8300 4K 交通摄像机（NEMA TS2、FL APL 682-002-025、UL）"
+ },
+ "business_lines": [
+  "ITS 加固交换机 HN-8012-24 V3 / 8012-24+ V3（bypass 光口）/ HN-8042 V3 / HN-3416 / HN-3488",
+  "ITS 交通摄像机 AIS-8300（802.3bt 51W）",
+  "ITS 配套（expresssupply.us 分销）"
+ ],
+ "products_seen": [
+  {
+   "brand": "Hardened Networks",
+   "model": "HN-8012-24 V3 / HN-8012-24+ V3",
+   "spec": "L3 加固：4×USFP+（100M–10G）+ 4×ESFP（100M–2.5G）+ 16×GE，176G 背板，+ 型含 bypass 光口 <10ms，ITS-Ring 250 节点",
+   "url": "https://hardenednetworks.com/products/",
+   "date": "2026-07-01",
+   "saga": "STC-424XGGM(L3)（机架位）/ 工业 10G L3 待 SmartByte 核型"
+  },
+  {
+   "brand": "Hardened Networks",
+   "model": "HN-8042 V3",
+   "spec": "4×SFP+ 10G + 16×GE，156G 背板，Hardened Base L3，超 NEMA TS-2",
+   "url": "https://hardenednetworks.com/wp-content/uploads/2025/05/HN-8042-20252305.pdf",
+   "date": "2025-05",
+   "saga": "（同上）"
+  },
+  {
+   "brand": "ITS Express",
+   "model": "AIS-8300",
+   "spec": "4K 31x 交通摄像机，802.3bt Type3 51W，NEMA TS2，UL，IP66/IK10",
+   "url": "https://hardenednetworks.com/wp-content/uploads/2025/07/HN-AIS-8300-2.5-20251507.pdf",
+   "date": "2025-07",
+   "saga": "—（PD 侧，需 bt 口交换机）"
+  }
+ ],
+ "channels": {
+  "网站": "https://hardenednetworks.com/ · https://expresssupply.us/",
+  "直邮": "mark@expresssupply.net / sales@expresssupply.net（用户表）"
+ },
+ "signals": [
+  "产品页 2026-07-01 更新 V3 系列；2025-05/07 发布 HN-8042 与 AIS-8300 PDF——持续迭代自有品牌（2026-10-21）",
+  "用户表：3 次实质回复，兴趣工业 FS / 工业 MC / Bypass，用自己的 logo"
+ ],
+ "risks": [
+  "ITS 公共项目：NEMA TS2 + UL + Buy America 是硬门槛，Saga 工业机无 NEMA/UL——只能供其非公共/测试或 MC/bypass 等配套",
+  "Bypass 光口与 L3 10G 工业机不在 Saga 标准型谱，需 SmartByte 定制评估"
+ ],
+ "saga_fit": {
+  "p1": "STI-288DGGPM",
+  "tier": 30,
+  "why": "HN 主力为 10G L3 加固机（Saga 无直接对位，需 SmartByte 核型）；可供的是其环网末端 8 口 PoE DIN（STI-288DGGPM，支持 bt 摄像机需核功率）与工业 MC（STI-110GE）；贴 HN 标 30% 档"
+ },
+ "email_hook": "Below the HN-8012-24 class core units, the 8-port gigabit PoE DIN switch and the gigabit media converter are the two edge pieces we can build in Hardened Networks packing, so I am quoting those rather than the 10G L3 platform for now.",
+ "mail_review": {
+  "binding": {
+   "level": "未绑定（边界户：芯片线；Elsa 箱：`to:hardenednetworks.com OR to:expresssupply.net` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 21 / 来 8）（第 74 批(g)））",
+   "type": "美国 ITS 自有品牌加固交换机（HN 系列）+ Juniper/Fortinet 代理；Mark Schulting——第一档 OEM 类型",
+   "sieve": "2（给过精确规格：32 口全 L3 1U 8 光 24 电 + QSFP+；「all 10 gig fiber… buying in bulk」）",
+   "stop": "Broadcom 芯片硬要求（2025-02-05 / 03-03 / 04-28 三次「I need a broadcom chipset」）；Saga 线 = Marvell / CENTEC / Realtek；Simon 2025-02-10 转报两款 Broadcom 全光（1,000 / 4,000 USD）无回音；Alan 2025-04-28「we focus on Marvell… Broadcom is for high-end market only」",
+   "revive": "只有 Mark 接受 CENTEC 全 L3（OSPF/BGP/MPLS/VXLAN）——Alan 2026-01-16 的 CENTEC 推介无回复；Saga 无 Broadcom 货源",
+   "lane": "US",
+   "cadence": "2024-05 → 2026-02 去信 21 封；最后来信 2025-04-28",
+   "evidence": "k=d0066f467b2afcd7 / 185a3765640a0e3f / 5f00be3e081f8769 / 898769c94b9fc197 / eb80eea25e1a3bb5 / e8d9d485eebf828f / 231c410bdb6b62d3；第 19 批回补来信原文 3 条（gmail_s/gmail_a）"
+  },
+  "situation": "Mark 是少数主动说「buying in bulk」的美国品牌商：2024-05 要 32 口全 L3 机架（8 光 24 电 + QSFP+），2025-01 看中 12 光 24 电款要规格书、问「all 10 gig fiber 1g/2.5g/10g」，然后连问三次 Broadcom。Simon 先给 CENTEC（「a good domestic brand」）、再临时找了两款 Broadcom 全光报 1,000/4,000 USD，Alan 最后定调「we focus on Marvell」。2026-01 Alan 再推 CENTEC 核心机，无回。",
+  "need": "全 L3 10G 光口交换机（批量），芯片 Broadcom；ITS 加固。",
+  "breakpoint": "芯片线边界（概念层 C 系列）。Saga 曾为他破例找 Broadcom 货源，又收回——口径摇摆比拒绝更伤。",
+  "saga_now": {
+   "p1": "CENTEC 全 L3：他 2024-05-09 要的「1U full L3，24 铜 + 8 光 + QSFP+ 上联」= STH-2QX4DX24GE-HSI（24×1G + 4×25G SFP28 + 2×40G QSFP+，OSPF/BGP/MPLS/VXLAN，双热插拔 PSU；仓内无价 Q-54）；10G 汇聚另有 STH-2C24XF-HSI（2026-06 对 FiberX 报 $1,250 含 MA 许可；群发 $1,500）——仅当 Mark 对 Broadcom 松口",
+   "tier": 30,
+   "price": "CENTEC 线按 ≥35% 底线（E1）与 30% 表价取高者",
+   "why": "C 层：不为单一客户开第四条芯片线；只问一次「Broadcom 是否写进客户规格」。已打开的主题（16/21 封有打开记录）：「Re: 48 Port SFP Switch」(2025-02-10)、「Marvell Alleycat5 Solution」(2025-03-03)、「Re: Marvell Alleycat5 Solution」(2025-04-28)、「Marvell Industrial Alert System」(2025-12-29) → 读者兴趣偏「10G 汇聚/L3」；当前 P1 属「DC 核心/CENTEC」，下一封按「10G 汇聚/L3」给，不按 P1｜已发资料（勿重发）：DIN Power Adapter(2024-07-30)、Marvell Based CLI Manual(2025-01-27)、Marvell Based Web Manual(2025-01-27)、STC-448XGGPM(2025-01-27)、STC-4816XGCGM(2025-01-28)、Product Link_2026Q2(2026-02-12)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）｜需求台账 #13/#1：2024-05 的「不可用」现在可用（STH1G），一句话补上；价按 Q-54「按数量报」",
+   "repeat": [],
+   "gaps": [
+    "2025-02-10 两款 Broadcom 的货源（非 SmartByte/HRUI）未入库——若再问起，不要承诺",
+    "Simon《STH计划》：铜口 CENTEC 机（STH1G/2.5G/5G，含 Multi-Gig PoE++）暂不宣传、点名才给；主推 10G/25G/XLite/100G/400G/800G"
+   ]
+  },
+  "next_move": {
+   "when": "2026-11（一次）",
+   "channel": "A 邮箱 → mark@expresssupply.net",
+   "action": "一句话问 Broadcom 是客户规格硬条款还是偏好；若偏好 → 付样 1 台 CENTEC",
+   "one_question": "Mark — in May 2024 you asked for a 1U full-L3 unit with 24 copper + fiber + QSFP+ uplinks and I had nothing; today that is STH-2QX4DX24GE-HSI on our CENTEC line (24×1G + 4×25G SFP28 + 2×40G QSFP+, OSPF/BGP/MPLS). Is Broadcom written into your customers' ITS specs, or would it qualify if it clears your lab test?"
+  },
+  "facts": [
+   {
+    "date": "2024-05-09",
+    "dir": "来",
+    "who": "Mark Schulting",
+    "quote": "I'm in need of a 32 port model full layer 3 1u 8 fiber 24 copper with a qsfp+ uplink",
+    "why": "首个精确需求",
+    "k": "d0066f467b2afcd7"
+   },
+   {
+    "date": "2024-10-31",
+    "dir": "去",
+    "who": "Saga（Simon）",
+    "quote": "Hi, Mark, How are you? I would like to show you a power booster that transforms 1*DC12V~DC48V input to 2*DC52.4V output. *It is very useful in solar power solution where most PV generated power is between DC12V~DC24V.* This power converter increases the voltage and make possible powering standard Po…",
+    "why": "Saga 实质答复原文（主题「Re: L3 managed switch」；第 20 批从 gmail_s 回补）——承诺/口径以此为准",
+    "k": "f56f98bcf2e0a850"
+   },
+   {
+    "date": "2024-12-18",
+    "dir": "来",
+    "who": "用户表（Simon 跟进记录；渠道 Email）",
+    "quote": "用户表跟进：推「8c48xf」→ 对方「需要BCM芯片」",
+    "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+    "k": "Clients/A/DONE/US.xlsx no.150 1218"
+   },
+   {
+    "date": "2025-01-26",
+    "dir": "来",
+    "who": "mark@expresssupply.net",
+    "quote": "WE would not be interested in this switch . However, we are looking for another vendor to supply us some full layer 3 switches",
+    "why": "来信原文（主题「Re: 48 Port SFP Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+    "k": "e17a1b0f28d7f22f"
+   },
+   {
+    "date": "2025-01-27",
+    "dir": "来",
+    "who": "mark@expresssupply.net",
+    "quote": "it appears you have a 12 fiber 24 copper. Can you send me a spec sheet on this one -- With kind regards, Mark Express Supply Inc. 407-497-8614 Hardene",
+    "why": "来信原文（主题「Re: 48 Port SFP Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+    "k": "77637aa387e80868"
+   },
+   {
+    "date": "2025-01-28",
+    "dir": "来",
+    "who": "Mark",
+    "quote": "Do you have all 10 gig fiber 1g/2.5g/10g I am interested in buying in bulk",
+    "why": "批量意向",
+    "k": "185a3765640a0e3f"
+   },
+   {
+    "date": "2025-01-28",
+    "dir": "去",
+    "who": "Saga（Simon）",
+    "quote": "Hi, Mark, Do you mean something like attached photos? There is a rich port combination for your choice. *Just one thing* *Its CENTEC Chip based, a good domestic brand(see below link)* https://www.centec.com/silicon?category=Ethernet-Switch-Silicon…",
+    "why": "Saga 实质答复原文（主题「Re: 48 Port SFP Switch」；第 20 批从 gmail_s 回补）——承诺/口径以此为准",
+    "k": "f6d6159512661dd7"
+   },
+   {
+    "date": "2025-02-05",
+    "dir": "来",
+    "who": "Mark",
+    "quote": "I need a broadcom chipset",
+    "why": "边界出现",
+    "k": "5f00be3e081f8769"
+   },
+   {
+    "date": "2025-02-10",
+    "dir": "去",
+    "who": "Simon",
+    "quote": "I got 2 models for you, Broadcom chipset. 1, 1000usd/pc, 2*40G+24*10G… 2, 4000usd/pc, 6*40G+48*10G",
+    "why": "破例找货（来源未入库）",
+    "k": "eb80eea25e1a3bb5"
+   },
+   {
+    "date": "2025-03-03",
+    "dir": "来",
+    "who": "mark@expresssupply.net",
+    "quote": "We use Broadcom With Kind Regards, Mark Express Supply Inc. 407-497-8614 mschulting@expresssupply.net Hardened Networks / ITS Express Switches and Adv",
+    "why": "来信原文（主题「Re: Marvell Alleycat5 Solution」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+    "k": "c7ad8300f3fcf7eb"
+   },
+   {
+    "date": "2025-04-28",
+    "dir": "来",
+    "who": "Mark",
+    "quote": "Do you have broadcom based solution?",
+    "why": "第三次",
+    "k": "898769c94b9fc197"
+   },
+   {
+    "date": "2025-04-28",
+    "dir": "去",
+    "who": "Alan",
+    "quote": "Sorry to tell you that we focus on Marvell… Broadcom is for high-end market only, the market is small...",
+    "why": "口径收回",
+    "k": "e8d9d485eebf828f"
+   },
+   {
+    "date": "2026-01-16",
+    "dir": "去",
+    "who": "Saga（Alan）",
+    "quote": "Hi, Mark, How are you? I am introducing our CENTEC-based core and aggregation switches. 1, A cost-effective alternative to Cisco or Huawei models 2, Multiple models(10G~800G) available for various network scales 3, Full L3 features(VXLAN, EVPN, MPLS, Stacking etc.) suitable for core and aggregation…",
+    "why": "Saga 实质答复原文（主题「Re: Marvell Alleycat5 Solution」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
+    "k": "231c410bdb6b62d3"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": {
+   "subject": "Broadcom-based solution — straight answer, and the one thing we can offer",
+   "body": "Hi, Mark,\n\nStraight answer to your April 2025 question: we do not build on Broadcom, and I should not have hinted otherwise in February. Our ranges are Marvell (access) and CENTEC (full L3: OSPF/BGP, MPLS, VXLAN/EVPN, MLAG).\n\nFor an ITS-hardened 10G optical aggregation role the CENTEC 24x10G + 2x100G L3 unit is the relevant box; it is quoted per project (DC power, MA license options).\n\nOne question: is \"Broadcom\" written into your customers' ITS specs, or would a CENTEC full-L3 unit qualify if it clears your lab test? If the former, I will stop sending you switch mail; if the latter, I will send the spec sheet and a test-unit price.\n\nThank you.\nAlan\nSaga Telecom - sagatele.com"
+  },
+  "as_of": "2026-10-24"
+ },
+ "kp": [
+  {
+   "name": "Mark Schulting",
+   "role": "来信署名人（职务未在邮件署名里出现）",
+   "email": "mark@expresssupply.net；mschulting@expresssupply.net（2025-02-05 来信用此地址）",
+   "phone": "",
+   "source": "S/A 邮箱来信 2024-05-09 → 2025-04-28 来信 7 封（另一地址 mschulting@expresssupply.net 2025-02-05）（第 72 批从邮件表头补）；A 邮箱 2025-02 来信表头"
+  }
+ ]
 }

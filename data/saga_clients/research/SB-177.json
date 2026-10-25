@@ -1,135 +1,132 @@
 {
   "code": "SB-177",
-  "name_official": "",
+  "name_official": "EC System / Eltcrac System（波兰）",
   "researched_at": "2026-10-21",
-  "website_status": "在线（grothe.de，快照 2026-10-21）",
-  "summary": "德国 Grothe GmbH（Urmet 集团德国公司：门铃/楼宇对讲、智能家居、CCTV（NVR 词频 75、PoE 42）；表内「主要是 CCTV 类产品，有商业 PoE / EoC」「可以着重跟一下」；KP Andreas Rosen（Managing Director，arosen@））；群发 8 次无回复。",
-  "type": "楼宇对讲/CCTV 品牌商（Urmet 集团德国，OEM 采购）",
+  "website_status": "在线（sklep-ecsystem.pl，快照 2026-10-21，波兰语）",
+  "summary": "波兰安防系统网店（SSWiN 报警、CCTV、对讲、LAN/WLAN；B2B 批发折扣；Hikvision、Dahua；poe 641 / switch 293 / sfp 113；+48 792 580 660），esklep@；表内「商用 PoE，Hasivo 的」；群发 4 次无回复。",
+  "type": "",
   "size": "",
-  "brands_seen": [],
+  "brands_seen": [
+    "Hasivo",
+    "Hikvision",
+    "Dahua"
+  ],
   "evidence": [
     {
       "kind": "官网快照",
-      "claim": "官网标题：Urmet DE；品类词 安防监控（CCTV / 门禁） / 网络交换 / PoE",
-      "quote": "Smarte Lösungen für jedes Zuhause；Alpha, der technische Fortschritt；News von uns；Die beste Unterstützung für Ihr Projekt.；Mehr von uns auf Instagram",
-      "url": "https://www.urmet.de/",
+      "claim": "安防系统网店：报警、CCTV、对讲、LAN/WLAN；B2B 批发折扣；+48 792 580 660",
+      "quote": "Sklep Eltcrac System - Systemy zabezpieczęń - SSWiN, Monitoring CCTV, Domofony, sieci WLAN/LAN. Rabaty hurtowe dla partnerów B2B.",
+      "url": "https://sklep-ecsystem.pl/",
       "date": "2026-10-21"
     },
     {
       "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "主要是CCTV类产品 有商业POE EOC",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网快照",
-      "claim": "Grothe / Urmet DE 首页",
-      "quote": "Startseite | Urmet DE ; Smarte Lösungen für jedes Zuhause ; Alpha, der technische Fortschritt ; Die beste Unterstützung für Ihr Projekt.",
-      "url": "https://www.urmet.de/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "CCTV 为主，有商业 PoE EoC",
-      "quote": "主要是CCTV类产品 有商业POE EOC；可以着重跟一下",
+      "claim": "hasivo 的商业级；商业 PoE Hasivo 的",
+      "quote": "兴趣：hasivo的商业级;商业PoE Hasivo的",
       "url": "（本地 Clients/ 表格，无公开 URL）",
       "date": "2026-10-21"
     }
   ],
   "kp": [
     {
-      "name": "Andreas Rosen",
-      "title": "Managing Director",
-      "email": "arosen@grothe.de",
-      "phone": "",
-      "source": "用户表"
+      "name": "（网店）",
+      "title": "e-sklep",
+      "email": "esklep@ecsystem.pl",
+      "phone": "+48 792 580 660",
+      "source": "（本地 Clients/ 表格，无公开 URL）"
     }
   ],
   "grade_override": null,
   "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
   "deep": {
     "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+    "level": "B 级加厚 v1（官网快照核对 + 表内）"
   },
   "company_facts": {
-    "hq": "德国",
-    "other": "官网 grothe.de，语言 de-DE，快照状态 ok；角色判定来源：用户表"
+    "legal_name": "Eltcrac System（待核）",
+    "founded": "",
+    "hq": "Poland",
+    "size": "中小型安防网店（B2B）",
+    "other": "已售 Hasivo（中国同行）"
   },
   "business_lines": [
-    "楼宇对讲 / 智能家居 / CCTV（Urmet 集团）"
+    "安防网店（B2B）"
   ],
   "channels": {
-    "role": "楼宇对讲/CCTV 品牌商（Urmet 集团德国，OEM 采购）",
-    "region": "德国",
-    "contact": "info@grothe.de、arosen@grothe.de"
+    "role": "网店 / 分销（已售中国同行）",
+    "region": "波兰"
   },
   "signals": [
-    "官网：Startseite | Urmet DE ; Smarte Lösungen für jedes Zuhause ; Die beste Unterstützung für Ihr Projekt；kw nvr 75 / poe 42 / switch 29",
-    "表内：主要是 CCTV 类产品，有商业 PoE EoC；KP Andreas Rosen / Managing Director"
+    "已售 Hasivo → 同类替换（Marvell 管理型差异）"
   ],
   "risks": [
-    "集团采购可能集中在 Urmet 意大利总部（德国公司仅销售）",
-    "8 次无回复 → 改向 Managing Director 具名首触；EoC 品类 Saga 不做"
+    "4 次群发无回复"
   ],
   "saga_fit": {
     "p1": "STC-28DGGPM",
-    "tier": 30,
-    "why": "Urmet/Grothe 标配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴标；非管理位 HRUI STC-028GP（$24.2）；EoC Saga 不做"
+    "tier": 20,
+    "why": "对位 Hasivo 商用 8 PoE → STC-28DGGPM（$80.7 @20%）；24 PoE STC-424DGGPM-280W。"
   },
-  "email_hook": "Andreas, for the PoE switches sold under the Grothe / Urmet label with your NVR and door-communication lines, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE + 4 SFP) from small lots in your packaging, CE/RoHS — which size moves most with your NVR kits?",
+  "email_hook": "Dzień dobry — beside the Hasivo switches you list, Marvell L2+ 8-PoE + 2-SFP at $81 and 24-PoE at $135 EXW, 1-year warranty (commercial line), EU files; 2 trial units for the B2B shop?",
   "mail_review": {
     "binding": {
-      "level": "未触达（A 邮箱 16 封 2025→2026，1 次记录打开，0 回；收件 arosen@grothe.de, info@grothe.de；主题多为「10G Enterprise SFP Switch、Marvell Alleycat5 Solution」）；Elsa 1:1 去信 1 封（2025-02-24「8 Port Industrial PoE Switch」；To 仅本户 info@grothe.de；Bcc 未逐封读头；同类名单抽读 24 封均无 Bcc；此后再未进 Elsa 任何名单——全箱 `from:e.sagatelecom to:info@grothe.de` 仅此 1 条，complete）（第 74 批(m)）",
-      "type": "楼宇对讲/CCTV 品牌商（Urmet 集团德国，OEM 采购）",
-      "sieve": "1~2（1 次打开）",
-      "stop": "16 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+      "level": "未触达（A/S 邮箱 19 封 2024→2026，无记录打开，0 回；收件 esklep@ecsystem.pl；主题多为「10G Enterprise SFP Switch、16 Port Ethernet Switch」）；Elsa 群发 BCC 已触达 2026-09-01「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，PL 批次 To biuro@zintronic.pl，0 回（第 73 批(o) Bcc 头核对 msg 1a05bfb71364077f）",
+      "type": "—",
+      "sieve": "1（只收到群发）",
+      "stop": "19 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
       "revive": "保持季度群发到 2027-Q1；无打开即停",
-      "lane": "DE 主攻（四主）",
+      "lane": "PL 次级重点",
       "cadence": "季度",
-      "evidence": "gmail_digest：out 16，Opened 标签 1（Simon 群发追踪）；用户表：「主要是CCTV类产品 有商业POE EOC」；研究档 risks：集团采购可能集中在 Urmet 意大利总部（德国公司仅销售）；data/gmail_e/elsa_sent_tld_probe_2026-10-25.json（国别后缀探测，该国 Elsa 触达全集 complete:true）"
+      "evidence": "gmail_digest：out 19；用户表：「兴趣：hasivo的商业级;商业PoE Hasivo的」；研究档 risks：4 次群发无回复；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To biuro@zintronic.pl）2025-04-03→2026-09-01 共 10 轮群发（Marvell Alleycat5 Solution、16 Port Ethernet Switch、Mini Industrial PoE Switch、Managed Optical Bypass Switch、8 Port Industrial PoE Switch、Industrial PoE Switch、10G Enterprise SFP Switch、OEM Core Switching Solution、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断"
     },
-    "situation": "德国 Grothe GmbH（Urmet 集团德国公司：门铃/楼宇对讲、智能家居、CCTV（NVR 词频 75、PoE 42）；表内「主要是 CCTV 类产品，有商业 PoE / EoC」「可以着重跟一下」；KP Andreas Rosen（Managing Director，arosen@））；群发 8 次无回复。",
-    "need": "Urmet/Grothe 标配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴标；非管理位 HRUI STC-028GP（$24.2）；EoC Saga 不做",
-    "breakpoint": "集团采购可能集中在 Urmet 意大利总部（德国公司仅销售）",
+    "situation": "波兰安防系统网店（SSWiN 报警、CCTV、对讲、LAN/WLAN；B2B 批发折扣；Hikvision、Dahua；poe 641 / switch 293 / sfp 113；+48 792 580 660），esklep@；表内「商用 PoE，Hasivo 的」；群发 4 次无回复。",
+    "need": "对位 Hasivo 商用 8 PoE → STC-28DGGPM（$80.7 @20%）；24 PoE STC-424DGGPM-280W。",
+    "breakpoint": "4 次群发无回复",
     "saga_now": {
       "p1": "STC-28DGGPM",
-      "tier": 30,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-17 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-25 $280（10G Enterprise SFP Switch）",
-      "why": "Urmet/Grothe 标配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴标；非管理位 HRUI STC-028GP（$24.2）；EoC Saga 不做。已打开的主题（1/16 封有打开记录）：「16 Port Ethernet Switch」(2025-07-14) → 读者兴趣主题类别不明（看原主题）",
+      "tier": 20,
+      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-20 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-07-12 $220（48 port managed switch）、2025-09-15 $300（48 Port PoE Managed Switch）、2025-10-20 $280（10G Enterprise SFP Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-09-01 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-01；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
+      "why": "对位 Hasivo 商用 8 PoE → STC-28DGGPM（$80.7 @20%）；24 PoE STC-424DGGPM-280W。",
       "repeat": [],
       "gaps": []
     },
     "next_move": {
       "when": "群发节奏",
       "channel": "A 邮箱",
-      "action": "首封前知悉：Elsa 2025-02 已 1:1 发过「8 Port Industrial PoE Switch」给 info@grothe.de（0 回），开头按 ㉝ 带一句「we wrote once in Feb 2025 about X, no reason you'd have replied」，别当完全陌生。 观察打开",
-      "one_question": "Andreas, for the PoE switches sold under the Grothe / Urmet label with your NVR and door-communication lines, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE + 4 SFP) from small lots in your packaging, CE/RoHS — which size moves most with your NVR kits?"
+      "action": "观察打开",
+      "one_question": "Dzień dobry — beside the Hasivo switches you list, Marvell L2+ 8-PoE + 2-SFP at $81 and 24-PoE at $135 EXW, 1-year warranty (commercial line), EU files; 2 trial units for the B2B shop?"
     },
     "facts": [
       {
-        "date": "2025-02-24",
+        "date": "2025-04-03",
         "dir": "去",
-        "who": "Elsa 1:1 去信（To info@grothe.de）",
-        "quote": "8 Port Industrial PoE Switch — Marvell based unmanaged 8 GE PoE, 30W/port, 250 m PoE, watchdog, DIP, SFP/SC/FC/ST（稿内无价，第 74 批(p) 已读稿）",
-        "why": "Elsa 箱 in:sent 按国别后缀探测（to:.de/.uk/.pl/.cz）命中：2025-02 Elsa 开箱头两周的逐户单发，无称呼；Elsa Replied 线程 0、来询未回清单 0 → 0 回；S/A digest 看不到这封",
-        "k": "elsa_1to1",
-        "msg_id": "195379d2353a87ac"
+        "who": "Elsa 群发（BCC；To biuro@zintronic.pl，PL 批次）",
+        "quote": "Marvell Alleycat5 Solution — We are doing Marvell Alleycat5 chip for tailored networking solutions. 1, Support Web GUI change(Logo, model name, MAC, SN, SNMP, OID) 2, Added intere",
+        "why": "Elsa 箱群发 BCC 触达证据（命中地址 ecsystem.pl, esklep@ecsystem.pl）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+        "k": "elsa_bcc"
       },
       {
-        "date": "2026-09-23",
+        "date": "2026-09-01",
         "dir": "去",
-        "who": "A 群发",
-        "quote": "10G Enterprise SFP Switch、Marvell Alleycat5 Solution",
-        "why": "16 封 / 1 次打开 / 0 回｜首封 2025-04-11 → 末封 2026-09-23（16 去 / 0 来）",
+        "who": "Elsa 群发（BCC；To biuro@zintronic.pl，PL 批次）",
+        "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
+        "why": "Elsa 箱群发 BCC 触达证据（命中地址 ecsystem.pl, esklep@ecsystem.pl）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+        "k": "elsa_bcc"
+      },
+      {
+        "date": "2026-09-25",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "10G Enterprise SFP Switch、16 Port Ethernet Switch",
+        "why": "19 封 / 0 次打开 / 0 回｜首封 2024-07-12 → 末封 2026-09-25（19 去 / 0 来）",
         "k": "gmail_digest"
       },
       {
         "date": "2026-10-21",
         "dir": "用户表",
         "who": "Simon",
-        "quote": "主要是CCTV类产品 有商业POE EOC",
+        "quote": "兴趣：hasivo的商业级;商业PoE Hasivo的",
         "why": "表内备注",
         "k": "用户表"
       }

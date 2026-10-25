@@ -1,0 +1,74 @@
+{
+ "code": "SC-135",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（pfsw.com，快照 2026-10-21）",
+ "summary": "瑞典 PacketFront Software（网络编排与服务管理软件 BECS；表内「Networking」）；表内 1 次跟进无回复。",
+ "type": "网络软件公司（品类不符）",
+ "size": "",
+ "brands_seen": [
+  "Ubiquiti"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：PacketFront Software；品类词 工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 网络交换 / PoE",
+   "quote": "Network orchestration and service management for complex environments. Automate workflows, strengthen control and reduce costs.",
+   "url": "https://pfsw.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "Networking",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "PacketFront Software 定位",
+   "quote": "Home - PacketFront Software ; Network orchestration and service management for complex environments",
+   "url": "https://pfsw.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "Networking",
+   "quote": "Networking",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "品类不符：PacketFront Software 纯软件公司；c_sub=品类不符（软件）",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "瑞典",
+  "other": "官网 pfsw.com，语言 en-US，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "网络编排 / 服务管理软件"
+ ],
+ "channels": {
+  "role": "网络软件公司（品类不符）",
+  "region": "瑞典",
+  "contact": "info@pfsw.com"
+ },
+ "signals": [
+  "官网：Network orchestration and service management for complex environments. Automate workflows, strengthen control and reduce costs；首页 BECS Security Module；kw automation 41 / telecom 32"
+ ],
+ "risks": [
+  "品类不符：网络编排软件公司（BECS），无硬件采购"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 25,
+  "why": "纯软件公司（网络编排/OSS），不采购交换机 → 改 C"
+ },
+ "email_hook": "（不发送：品类不符）"
+}

@@ -1,0 +1,208 @@
+# SB-159 elmospa.com · news_2 · https://www.elmospa.com/en/project-designer · fetched 2026-10-24T04:35:40Z · HTTP 200
+EL.MO. S.p.A - Project designer
+Skip to main content
+Target audience
+Installer
+Distributor
+Project designer
+Security Manager
+Environments
+Residential
+Industries
+Infrastructure
+Retail & large scale distribution
+Banking solutions
+Products
+Lines
+Intrusion Detection
+Fire detection
+Video surveillance
+Access control
+Technologies
+D-Pulse
+Ultrabus e Terabus
+NG-TRX
+Nexya
+Loop Calculator
+Multi-operator SIM
+Software
+e-Connect
+Global Pro
+Nx Witness
+PassManager
+Company
+About us
+History
+Certifications
+News
+Contacts
+Area download
+Download area
+Catalogue
+Your Are a ·
+Installer
+Distributor
+Project designer
+Security Manager
+Products and Solutions
+Lines
+Technologies
+Software
+Intrusion Detection
+Intrusion control panels
+Wired, wireless, and hybrid all-in-one security control panels
+Control devices
+Keyboards and data entry devices
+Intrusion detectors
+Indoor, outdoor, and ceiling sensors
+Perimeter protection
+Barriers, magnetic contacts, and seismic detectors
+Intrusion detection sirens
+Indoor and Outdoor Sirens
+Fogging systems
+Mist dispensing system for deterrence
+Accessories and expansion modules
+Devices for connecting and expanding systems
+Fire detection
+Fire alarm control panels
+Conventional and addressable analog fire alarm control panels
+Fire alarm
+Conventional and addressable analog sensors
+Manual call points
+Conventional and addressable analog buttons
+Fire detectors
+Audible and audible-visual alarms
+Gas detection systems
+Industrial gas detection control units and sensors
+Special detection systems
+Linear exhaust and heating systems
+Video surveillance
+Cameras
+Bullet and turret cameras
+Thermal cameras
+Bispectrum imaging devices
+Cameras for urban video surveillance
+Multiview, PTZ, and panoramic cameras
+Management systems
+NVR IP e DVR multistandard
+Switch
+Unmanaged, managed, and industrial switches
+Video server basati su Ai
+Video server con analitici di tipo AI
+Access control
+Lettori RF o PIN
+Lettori per abilitazione degli accessi su varchi sensibili
+Controller
+Controller per la gestione di sistemi di accessi
+D-Pulse
+Technology for Integrating Intrusion Detection Systems with AI-Powered CCTV
+InstaVision
+Video verification service
+Ultrabus and Terabus
+Intrusion detection technologies connected via an RS485 bus
+NG-TRX
+Two-way wireless intrusion detection technology
+Nexya
+Premium artificial intelligence-based devices
+Loop calculator
+Web-based application for the design of fire protection systems
+SIM multioperator
+Web-based application for the design of fire protection systems
+e-Connect
+Cloud-based facility management platform
+Globalpro
+PSIM Monitoring Software for EL.MO Security Systems
+NxWitness
+VMS Platform for the e-Vision Video Surveillance System
+Passmanager
+Access control software
+Environments
+Residential
+Industries
+Infrastructure
+Retail & large scale distribution
+Banking solutions
+Company
+About us
+History
+Certifications
+News
+Contacts
+Downloads
+Product documents (from catalogue)
+Price lists (requires login and authorisation)
+Guidelines
+Company profile
+Solutions for residential buildings
+Download Area
+→
+Download
+Catalogue
+Login
+Download
+Catalogue
+Project designer
+By your side in the design of security systems
+With the aim of providing a high-level service, we have a specific Systems Design team that assists you in the project development phase by drafting offers, technical reports, and operating diagrams in response to supply specifications.
+Do you work in system design?
+Our technical team offers specialized support during the design phases
+Certified and guaranteed systems
+Our ability to innovate is confirmed by the numerous patents and certifications obtained over the years. EL.MO. products are certified by IMQ and comply with the most stringent international standards .
+A dedicated portal
+To support the design process, we have developed a powerful work tool for engineering firms: the Designers’ Portal . With maximum ease, users can create bill of quantities, access technical manuals and product documentation, consult completed projects , and interact directly with our consultants .
+Why choose EL.MO. as your technology partner?
+A 50 years history
+Quality is the foundation of all reliable security systems. Proof of this lies in product certifications such as EN 50131 and CPR 305/2011 , company certifications like ISO 9001, ISO 14001, and SA8000 , and our fifty years of experience.
+Integrated solutions at the service of people
+Our intrusion detection, fire detection, CCTV, and access control systems work in synergy and integrate seamlessly to provide comprehensive building security management.
+Made in Italy
+The Made in Italy philosophy is the foundation of each of our products: conceived according to criteria of functionality, technological innovation, and reliability , crafted with attention to every detail, and topped off with that distinctive style that makes its Italian nature unmistakable.
+Consulting and support at every stage of the design process
+The EL.MO. technical department stands alongside designers, offering highly specialized support throughout every stage of the project development process .
+Our steps toward a winning solution
+Data collection
+Preliminary collection of all information
+At this stage, we ask designers to share the available documentation, such as floor plans or images, in order to assess the condition of the premises, the customer's needs, any vulnerabilities and any existing technology that needs to be integrated and/or replaced. The type of activities carried out in the environment must then be assessed: this is useful for predicting any interference and carrying out a risk assessment.
+Equipment positioning
+Layout-based products simplify design
+After examining the floor plans, we create a meticulous layout of the devices, maximizing system efficiency while complying with current regulations, design choices, and customer requirements. The layout provides an overall view that makes it possible to assess any critical points in the structure. At this stage, a collaborative exchange with the design firm begins to carry out modifications or additions.
+Technical report
+Summary document explaining the choices made
+One of the most frequently requested supporting documents is the technical report. It is a summary document that explains the philosophy behind the project and justifies the technical solutions adopted. It is particularly important as it outlines the systems’ capabilities and the context in which they are implemented. Specific regulatory references are included, and the proposed products are described. The integrations between systems, as well as the methods for operating and managing the installations, are also presented.
+Bill of quantities
+The list of selected products, with prices and quantities
+Following an in-depth study of the project development, our team of technicians can prepare the bill of quantities for the equipment related to special security systems, including specification descriptions, quantities, and both unit and total list prices for each product. The bill of quantities can be considered a sort of “product list” that details all the required devices. This documentation is then shared with the design firm to fine-tune the final details.
+Block diagrams
+Graphs illustrating the structure of systems
+In the design of advanced systems, it is often the case that substantially different and heterogeneous installations are proposed, such as CCTV, intrusion detection, fire detection, and access control systems. However, these integrate with each other to provide a comprehensive security solution. To better understand the structure of such complex systems, the Systems Design team produces block diagrams for each subsystem or for the overall solution. This makes the structure of each system/block, as well as the interactions and integrations among the various systems, clearly visible.
+Connection diagrams
+Document illustrating the connections between elements
+To support the documentation, a more advanced block diagram can be provided, showing the structure of the wired connections of the entire proposed system. It indicates some basic features, such as cable thickness or type (e.g., RS-485). This information represents highly valued support for those who will later install the system. This type of document makes the basic structure of a system even clearer and allows for quick understanding.
+Data collection
+Positioning
+Report
+BoQ
+Block diagrams
+Connection diagrams
+Data collection
+Preliminary collection of all information
+At this stage, we ask designers to share the available documentation, such as floor plans or images, in order to assess the condition of the premises, the customer's needs, any vulnerabilities and any existing technology that needs to be integrated and/or replaced. The type of activities carried out in the environment must then be assessed: this is useful for predicting any interference and carrying out a risk assessment.
+Equipment positioning
+Layout-based products simplify design
+After examining the floor plans, we create a meticulous layout of the devices, maximizing system efficiency while complying with current regulations, design choices, and customer requirements. The layout provides an overall view that makes it possible to assess any critical points in the structure. At this stage, a collaborative exchange with the design firm begins to carry out modifications or additions.
+Technical report
+Summary document explaining the choices made
+One of the most frequently requested supporting documents is the technical report. It is a summary document that explains the philosophy behind the project and justifies the technical solutions adopted. It is particularly important as it outlines the systems’ capabilities and the context in which they are implemented. Specific regulatory references are included, and the proposed products are described. The integrations between systems, as well as the methods for operating and managing the installations, are also presented.
+Bill of quantities
+The list of selected products, with prices and quantities
+Following an in-depth study of the project development, our team of technicians can prepare the bill of quantities for the equipment related to special security systems, including specification descriptions, quantities, and both unit and total list prices for each product. The bill of quantities can be considered a sort of “product list” that details all the required devices. This documentation is then shared with the design firm to fine-tune the final details.
+Block diagrams
+Graphs illustrating the structure of systems
+In the design of advanced systems, it is often the case that substantially different and heterogeneous installations are proposed, such as CCTV, intrusion detection, fire detection, and access control systems. However, these integrate with each other to provide a comprehensive security solution. To better understand the structure of such complex systems, the Systems Design team produces block diagrams for each subsystem or for the overall solution. This makes the structure of each system/block, as well as the interactions and integrations among the various systems, clearly visible.
+Connection diagrams
+Document illustrating the connections between elements
+To support the documentation, a more advanced block diagram can be provided, showing the structure of the wired connections of the entire proposed system. It indicates some basic features, such as cable thickness or type (e.g., RS-485). This information represents highly valued support for those who will later install the system. This type of document makes the basic structure of a system even clearer and allows for quick understanding.
+Systems that pay for themselves over time
+Intrusion detection
+We protect all spaces from intrusions, theft, and vandalism . Whether it’s residential or business premises, our detection systems, based on 100% Made in Italy professional products, ensure maximum protection.
+Products dedicated to intrusion 

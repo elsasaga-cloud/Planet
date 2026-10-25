@@ -1,130 +1,126 @@
 {
-  "code": "SB-392",
-  "name_official": "Atel Electronics（波兰）",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（atel.com.pl，快照 2026-10-21，波兰语）",
-  "summary": "波兰网络无源 / 有源元件、测量仪器、安装工具、AV 配件进口分销商（TP-Link、ORing；switch 713 / sfp 518 / poe 462），仅 cust@；表内「MC / Switch 等，价格比较高；MC 工业 FS SFP；ORing 的，商业 FS TP-Link」；群发 1 次。",
-  "type": "",
-  "size": "",
-  "brands_seen": [
-    "TP-Link",
-    "ORing"
-  ],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "进口分销：网络无源与有源元件、测量仪器、安装工具、AV 配件；品牌 TP-Link / ORing；cust@atel.com.pl",
-      "quote": "Importem i dystrybucja pasywnych oraz aktywnych elementów sieci teleinformatycznych, przyrządów pomiarowych, narzędzi instalacyjnych… brands TP-Link, ORing",
-      "url": "https://atel.com.pl/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "MC Switch 等；价格比较高 MC 工业 FS SFP；Oring 的 商业 FS Tp-link",
-      "quote": "兴趣：MC Switch等;价格比较高 MC 工业FS SFP Oring的 商业FS Tp-link",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "（客服）",
-      "title": "Customer service",
-      "email": "cust@atel.com.pl",
-      "phone": "",
-      "source": "（本地 Clients/ 表格，无公开 URL）"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（官网快照核对 + 表内）"
+ "code": "SB-392",
+ "name_official": "Makro Sistem（Makrosis A.Ş.，İstanbul Şişli, TR；makrosisas.com.tr；i-PRO/Panasonic 土耳其 Premium 分销商）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线",
+ "summary": "伊斯坦布尔 Şişli 的安防分销商 Makro Sistem（i-PRO（原 Panasonic Security）土耳其 Premium 分销商；11–50 人；营收口径 $9.1M；Kuştepe Mah. Leylak 1 Sok. Nursanlar İş Merkezi No:1 K:7 D:26；+90 212 272 47 92；info@makrosisas.com.tr；产品含 Edge AI 摄像机、NVR、消防探测、网络设备）。ISAF 记录：Mustafa Demirel——有一些工程需要工业级交换机；现场报价 2 光 10 电带网管带 PoE $130、12 光 12 电带网管 $150，要求双清包税（DDP）运输；拍了合照；无后续跟进。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "i-PRO / Panasonic（Premium 分销）"
+ ],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "分销定位与联系方式",
+   "quote": "Makro Sistem, i-PRO'nun (eski adıyla Panasonic Security Systems) Türkiye Premium Distribütörüdür. … Kuştepe Mah. Leylak 1 Sok. Nursanlar İş Merkezi No:1 Kat:7 Daire:26 Şişli / İSTANBUL Email: info@makrosisas.com.tr Phone: +90 (212) 272 47 92",
+   "url": "https://makrosisas.com.tr/contact.html",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "legal_name": "Atel Electronics（待核）",
-    "founded": "",
-    "hq": "Poland",
-    "size": "中型进口分销",
-    "other": "ORing 工业线在售（高价）"
+  {
+   "kind": "名录",
+   "claim": "规模与产品",
+   "quote": "Makro Sistem is the premium distributor of i-PRO and Panasonic in Turkey … products including CCTV systems, fire detectors, and network devices … Number of Employees 11-50",
+   "url": "https://www.zoominfo.com/p/Marvin-Murillo/9305935462",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "网络元件 / 工具 / AV 进口分销"
-  ],
-  "channels": {
-    "role": "进口分销商",
-    "region": "波兰"
-  },
-  "signals": [
-    "ORing 工业线价格高 → 低价工业线补位",
-    "SFP / MC 品类深"
-  ],
-  "risks": [
-    "仅 cust@；比价"
-  ],
-  "saga_fit": {
-    "p1": "STI-288GP",
-    "tier": 20,
-    "why": "ORing 之下工业 2 光 8 PoE → STI-288GP（$57.4 @20%）；MC STI-110GE。"
-  },
-  "email_hook": "For the industrial range beside ORing — DIN 2-SFP + 8-PoE at $57 EXW (managed Marvell $79) and gigabit MC at $22; who is the buyer for active network products at Atel, so I send the sheet directly?",
-  "mail_review": {
-    "binding": {
-      "level": "未触达（A/S 邮箱 12 封 2025→2026，无记录打开，0 回；收件 cust@atel.com.pl, praca@atel.com.pl；主题多为「10G Enterprise SFP Switch、24 Port PoE Managed Switch」）；Elsa 群发 BCC 已触达 2025-10-09「10G Enterprise SFP Switch」（正文「Price: 280usd/pc」，第 74 批(p) 读稿），PL-3（大分销 aat/lanberg/elmark/dipol/a2s） 批次 To info@axuse.com，0 回（第 74 批 Bcc 头核对 msg 199c8653559f6d15）",
-      "type": "—",
-      "sieve": "1（只收到群发）",
-      "stop": "12 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-      "revive": "保持季度群发到 2027-Q1；无打开即停",
-      "lane": "PL 次级重点",
-      "cadence": "季度",
-      "evidence": "gmail_digest：out 12；用户表：「兴趣：MC Switch等;价格比较高 MC 工业FS SFP Oring的 商业FS Tp-link」；研究档 risks：仅 cust@；比价；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To info@axuse.com）本户见于 2025-10-09 名单；该批次最早 2025-04-03 起共 7 轮，更早轮次 Bcc 未读"
-    },
-    "situation": "波兰网络无源 / 有源元件、测量仪器、安装工具、AV 配件进口分销商（TP-Link、ORing；switch 713 / sfp 518 / poe 462），仅 cust@；表内「MC / Switch 等，价格比较高；MC 工业 FS SFP；ORing 的，商业 FS TP-Link」；群发 1 次。",
-    "need": "ORing 之下工业 2 光 8 PoE → STI-288GP（$57.4 @20%）；MC STI-110GE。",
-    "breakpoint": "仅 cust@；比价",
-    "saga_now": {
-      "p1": "STI-288GP",
-      "tier": 20,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-10-06 $180（24 Port PoE Managed Switch = STC-424XGGPM-280W，Alan 2026-09-21 起的现价轮）——同款信稿只能写 $180；群发里他已看到的价（续）：2026-08-20 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-20 $280（10G Enterprise SFP Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-10-09 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2025-10-09；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）",
-      "why": "ORing 之下工业 2 光 8 PoE → STI-288GP（$57.4 @20%）；MC STI-110GE。",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "群发节奏",
-      "channel": "A 邮箱",
-      "action": "观察打开",
-      "one_question": "For the industrial range beside ORing — DIN 2-SFP + 8-PoE at $57 EXW (managed Marvell $79) and gigabit MC at $22; who is the buyer for active network products at Atel, so I send the sheet directly?"
-    },
-    "facts": [
-      {
-        "date": "2025-10-09",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To info@axuse.com，PL-3（大分销 aat/lanberg/elmark/dipol/a2s） 批次）",
-        "quote": "10G Enterprise SFP Switch — This is our 24-port Marvell-based managed SFP switch. 1, 4 port 1G SFP+8-port 1G SFP/RJ45 Combo +4*10G SFP+ 2, Dual AC input 3, Support fan monitoring（正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
-        "why": "Elsa 箱群发 BCC 触达证据（命中地址 atel.com.pl, cust@atel.com.pl, praca@atel.com.pl）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-        "k": "elsa_bcc"
-      },
-      {
-        "date": "2026-10-06",
-        "dir": "去",
-        "who": "A/S 群发",
-        "quote": "10G Enterprise SFP Switch、24 Port PoE Managed Switch",
-        "why": "12 封 / 0 次打开 / 0 回｜首封 2025-10-20 → 末封 2026-10-06（12 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "兴趣：MC Switch等;价格比较高 MC 工业FS SFP Oring的 商业FS Tp-link",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-25"
+  {
+   "kind": "用户表",
+   "claim": "ISAF 互动：工程需工业交换机；报价 $130/$150；要 DDP",
+   "quote": "有一些工程需要用工业级交换机， 报了2光10电带网管带POE 130USD, 12光12电带网管 150USD 要双清包税的运输方式 拍了合照",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Mustafa Demirel",
+   "role": "（ISAF 名片；职务待核）",
+   "email": "m.demirel@makrosisas.com.tr（用户表）",
+   "phone": "+90 212 272 47 92（公司）",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网核对）"
+ },
+ "company_facts": {
+  "legal_name": "Makro Sistem（Makrosis A.Ş.）",
+  "hq": "Kuştepe Mah. Leylak 1 Sok. Nursanlar İş Merkezi No:1 Kat:7 Daire:26, 34387 Şişli / İstanbul（+90 212 272 47 92；info@makrosisas.com.tr）",
+  "size": "11–50（ZoomInfo）；营收口径 $9.1M",
+  "other": "i-PRO / Panasonic Security 土耳其 Premium 分销商；Edge AI 摄像机、NVR、消防探测、网络设备"
+ },
+ "business_lines": [
+  "i-PRO（Panasonic）安防摄像/NVR 分销",
+  "工程项目配套（网络设备、消防探测——守界：消防主系统不供）"
+ ],
+ "channels": {
+  "网站": "https://makrosisas.com.tr/",
+  "电话": "+90 212 272 47 92（公开）",
+  "邮箱（公开）": "info@makrosisas.com.tr"
+ },
+ "signals": [
+  "i-PRO 高端摄像配套需要管理型 PoE（工程）→ 工业 2 光 8/10 电 PoE 管理机；DDP 要求 = 需报含税到门价（土耳其关税 + KDV）",
+  "$130 / $150 的现场报价已给出 → 下一步直接给书面 DDP 报价而非再寄目录"
+ ],
+ "risks": [
+  "要求双清包税：Saga 需经货代做 DDP（土耳其清关风险）；无后续跟进；价格预期偏低"
+ ],
+ "saga_fit": {
+  "p1": "STI-288DGGPM",
+  "tier": 25,
+  "why": "工程 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP L2+，$137.5 EXW）对应「2 光 10 电带网管带 PoE」现场价 $130（差额需 DDP 报价时与客户对表）；12 光 12 电带网管按商用 L3 STC-4248XGGCM（16 SFP + 8 Combo + 4×10G，Realtek 线列表 $297.0）回应 $150 预期"
+ },
+ "email_hook": "Mustafa Bey, ISAF'ta konuştuğumuz 2 SFP + 8 port PoE yönetilebilir endüstriyel switch için DDP (gümrük + KDV dahil, kapıya teslim) fiyatı hazırlayabilirim; ilk proje için kaç adet ve hangi şehre teslim gerekiyor?",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「有一些工程需要用工业级交换机， 报了2光10电带网管带POE 130USD, 12光12电带网管 150USD 要双清包」；Elsa 箱：`to:makrosisas.com.tr` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(i)））",
+   "type": "—",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+   "lane": "TR 主攻（四主）",
+   "cadence": "首封后看打开",
+   "evidence": "gmail_digest：out 0；用户表：「有一些工程需要用工业级交换机， 报了2光10电带网管带POE 130USD, 12光12电带网管 150USD 要双清包税的运输方式 拍了合照」；研究档 risks：要求双清包税：Saga 需经货代做 DDP（土耳其清关风险）；无后续跟进；价格预期偏低"
+  },
+  "situation": "伊斯坦布尔 Şişli 的安防分销商 Makro Sistem（i-PRO（原 Panasonic Security）土耳其 Premium 分销商；11–50 人；营收口径 $9.1M；Kuştepe Mah. Leylak 1 Sok. Nursanlar İş Merkezi No:1 K:7 D:26；+90 212 272 47 92；info@makrosisas.com.tr；产品含 Edge AI 摄像机、NVR、消防探测、网络设备）。ISAF 记录：Mustafa Demirel——有一些工程需要工业级交换机；现场报价 2 光 10 电带网管带 PoE $130、12 光 12 电带网管 $150，要求双清包税（DDP）运输；拍了合照；无后续跟进。",
+  "need": "工程 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP L2+，$137.5 EXW）对应「2 光 10 电带网管带 PoE」现场价 $130（差额需 DDP 报价时与客户对表）；12 光 12 电带网管按商用 L3 STC-4248XGGCM（16 SFP + 8 Combo + 4×10G，Realtek 线列表 $297.0）回应 $150 预期",
+  "breakpoint": "要求双清包税：Saga 需经货代做 DDP（土耳其清关风险）；无后续跟进；价格预期偏低",
+  "saga_now": {
+   "p1": "STI-288DGGPM",
+   "tier": 25,
+   "price": "首触锚价 STI-288DGGPM $137.5 EXW（2026-06 PDF 上限 $137.5（档位 139.9–151.6 超上限；Angora/Astel 实报 $125 为成单户价）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）（㉕ 封顶：STI-288DGGPM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25）",
+   "why": "工程 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP L2+，$137.5 EXW）对应「2 光 10 电带网管带 PoE」现场价 $130（差额需 DDP 报价时与客户对表）；12 光 12 电带网管按商用 L3 STC-4248XGGCM（16 SFP + 8 Combo + 4×10G，Realtek 线列表 $297.0）回应 $150 预期",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "待 Simon 排期（首封）",
+   "channel": "A 邮箱 → m.demirel@makrosisas.com.tr（Mustafa Demirel）",
+   "action": "首封：按 email_hook 一问（第 74 批(r) 2026-10-25：英文信稿已写 `draft_en`，内容 = 土耳其语钩子句的英文版；土耳其语一句话仍在研究档备注里，对方若不读英文就整段单发）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
+   "one_question": "Mustafa Bey, ISAF'ta konuştuğumuz 2 SFP + 8 port PoE yönetilebilir endüstriyel switch için DDP (gümrük + KDV dahil, kapıya teslim) fiyatı hazırlayabilirim; ilk proje için kaç adet ve hangi şehre teslim gerekiyor? Referans: STI-288DGGPM 137,5 USD EXW (MOQ 1, 15 gün geçerli)."
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "有一些工程需要用工业级交换机， 报了2光10电带网管带POE 130USD, 12光12电带网管 150USD 要双清包税的运输方式 拍了合照",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": {
+   "subject": "DDP price for the 2 SFP + 8 PoE managed industrial switch - from ISAF",
+   "body": "Hi Mustafa,\n\nWe met at ISAF 2025 in Istanbul last October - this picks up what we discussed at the booth.\n\nAt the booth we quoted the 2 SFP + 10-port managed PoE industrial switch at $130 USD and the 12-fibre + 12-copper managed unit at $150 USD (both EXW); those figures stand. You asked for a delivered price with customs duty and VAT included (DDP) - I can prepare that through our forwarder once I know the quantity and the destination city.\n\nOne question: for the first project, how many units and delivery to which city?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+  },
+  "as_of": "2026-10-24"
+ }
 }

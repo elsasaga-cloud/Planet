@@ -1,0 +1,363 @@
+# SB-071 nkstech.net · news_1 · https://nkstech.net/projects.php · fetched 2026-10-25T07:41:18Z · HTTP 200
+Nayon Kontrol Systems
+» Projects
+NKS Projects Highlights
+Bell Telecom Phils. Inc.
+Makati City (Apr 2018)
+Replacement of Monitor
+Emerging Power
+SBMA, Zambales (Oct 2017)
+Jobin Solar & Wind Power Plant
+Islasol
+La Carlota, Bacolod City (Dec 2016)
+EAS Masinloc
+Zambales (Aug 2017)
+EDC
+Burgos, Ilocos Norte (Nov 2017)
+EDC Burgos SAS (Phase 2)
+Calatagan Solar Power Plant
+Calaca, Batangas (Nov 2016)
+Majestic Energy Corporation
+EPZA Cavite (July 2017)
+FO Integrity Test
+Raslag Corp.
+(July 2016)
+Raslag Solar Power Plant
+Global Business Power Corporation
+Cebu, Nabas
+YPP
+Masinloc, Zambales
+NLREC
+National Grid Corporation of the Philippines
+Diliman, Visayas and Mindanao
+VRE
+APEC
+Mabalacat, Pampanga
+APEC
+Sparc
+Astronergy Main Office SCADA Monitoring, Ortigas City
+Astronergy San Rafael Solar Power Plant, Bulacan
+Astronergy Morong Solar Power Plant, Bataan
+Astronergy Palauig Solar Power Plant, Zambales
+Apex Mining Corporation
+Davao
+SCADA
+Hansei Corporation
+Mauban, Quezon City
+SBPL (RTU and Tariff Metering)
+Energization / Commissioning
+QPPL (Mar 2018)
+Enfinity
+Digos, Davao Del Sur
+Enfinity Digos Solar Power Plant
+Syndicatum
+Clark, Pampanga
+Enfinity Clark Solar Power Plant
+First Gen Energy Solutions, Inc.
+Dumaguete
+EDC Nasulo
+Hyosung Corporation
+NGCP Laoag Substation SAS, Ilocos Norte
+Pagbilao Power Plant, Quezon (June 2017)
+DM Consunji Inc.
+Calaca, Batangas
+DMCI SAS & Protection
+Citicore
+Citicore Toledo Solar Power Plant, Toledo City, Cebu
+Citicore Trading SCADA, Citicore Main Office
+Citicore Mariveles Solar Power Plant, Bataan (Dec 2017)
+Citicore Silay Solar Power Plant, Negros Occidental (Oct 2017)
+Palau Public Utilities Corp.
+(Jan 2015)
+SCADA System
+Hansei Corporation/San Miguel Corporation Consolidated Power Corporation
+(Jul-Sep 2015)
+SCADA System
+Protection/NDME System
+Fiber Optic Terminal System
+Energy Development Corporation
+(Aug 2015)
+Nasulo SCADA System
+Raslag Corp.
+(Oct 2014)
+SCADA RTU System
+San Carlos Solar Energy
+(Mar 2014)
+RTU - Supply/Commissioning
+Schema Konsult
+(Oct 2014)
+RTU Solution
+Majestic Energy Corporation
+(Jun-Oct 2014)
+RTU/Fiber Optic Terminal System
+Fiber Optic Cable Supply/Commissioning
+ODF Closure, Supply/Commissioning
+Microwave Radio, Supply/Commissioning
+Negros Island Solar Power
+(Jul 2015)
+RTU Solution
+Philcantech Enterprises
+(Jul 2015)
+SCADA/Telecom System Petro Green Solar
+Astro Energy
+(Sep 2015)
+SCADA/Telecom System
+Bell Telecom Phils. Inc.
+(Sep 2015)
+Supply/Installation - Video Wall Display
+Double M Electrical
+(Sep 2015)
+Supply of RTU (Cosmo Project)
+Hyosung Corporation
+(Jul 2015)
+Pagbilao SCADA System
+Manila City Hall
+(Jun 2015)
+Supply/Installation-Weather Monitoring System
+Phil. Trade Center Inc.
+(Mar 2015)
+3MW RTU Project (Biomass)
+Team Sual Corporation
+(Sep 2014)
+RTU Supply/Installation/Commissioning
+DM Consunji Inc.
+(Apr 2014)
+2 X 150 MW CFB Power Plant
+National Transmission Corporation
+(Jan 2014)
+Supply and delivery of WESDAC D20 Spares
+Trans-Asia Renewable Energy
+(Jan 2014)
+SCADA System
+Telecommunication System
+Cendaur Engineering
+(Jan-May 2014)
+Fiber Optic Training
+Fiber Optic Systems
+RTU System for Nabas S/S
+National Grid Corporation of the Philippines
+(Jan-Aug 2013)
+Supply/Delivery of DAP SERVER, Remote Terminal Units
+RTU Installation for Embedded Stations
+Supply/Delivery/Installation - Pre-Wired Cabinets
+RTU for Embedded S/S
+Supply of RTU Spares
+Supply/Installation - Weather Monitoring System
+Hansei Corporation/SLTEC/NLREC
+(Feb-Sep 2013)
+MBSC - SLTEC
+SCADA System - NLREC
+Protection System (SLTEC)
+NDME System
+Microwave System
+Protection System (NLREC)
+Taihei Dengyo Kaisha, Ltd.
+(Aug 2013)
+SCADA RTU Assembly for Nasulo Power Plant
+National Grid Corporation of the Philippines
+Head Office, Diliman, Visayas, Bacolod, Mindanao (Nov 2009-Dec 2011)
+Supply/Delivery of Video Conferencing (MCU) Equipment
+Sensor, Weather Parameter
+Supply/Delivery of Realflex SCADA System
+Supply/Delivery of GE Energy - Wesdac various spares
+Supply/Delivery of GE Energy - Various Spares
+Supply/Delivery of REALFLEX UPGRADE
+Supply/Delivery of REALFLEX UPGRADE - Diliman
+Supply/Delivery of MOXA NPORT 5600
+Supply/Delivery of GE Wesdac D20 RTU
+Supply/Delivery of Protocol Analyzer
+Supply/Delivery of Realflex SCADA System for Visayas
+Supply/Delivery of GE Wesdac D20 RTU - Mindanao
+Various equipment for Visayas MBSC Network (MOXA)
+Various WESDAC Boards
+DAP Server - Visayas
+Collapsible Maintenance Platform - Bacolod SS
+Sustenance for Luzon MBSC System
+Sustenance for Luzon DAC Modules
+Software, Flexwin - Visayas
+IEC 61850 Training
+Sensor, Weather Parameter
+MBSC Luzon (PESO P.O.)
+REALFLEX and WESDAC D20 RTU
+REALFLEX 6 Software Subscription & Support Service
+Expansion of Luzon DAC Modules
+Supply/Installation of TCP/IP Based Telemetry Equipment
+Supply/Installation of Telemetry Equipment
+REALFLEX Software Support Subscription
+Supply/Delivery of RTU spares for SO - Visayas
+Supply/Delivery of RTU spares for SO - Luzon
+Integrated Telemetry System Cabinet
+First Gen Energy Solutions, Inc.
+Phase 2 of GCGI SCADA System Project
+Hyosung Power & Industrial Systems
+(Apr 2011-Feb 2012)
+Site Installation - San Esteban/Laoag S/S
+Site Installation - Bohol Backbone
+Site Installation - Naga S/S
+Luzon Substation Expansion Project
+Laoag 230kV Substation Expansion Project 2
+San Esteban/Laoag 2 Project
+Laoag 2 - Additional Remote Terminal Unit
+Tayabas S/S Substation Control
+SS Control Automation System - Naga S/S
+SS Control Automation System - Bohol Backbone
+SS Control Automation System - San Esteban-Laoag
+Cendaur Engineering
+(May-Aug 2012)
+SCADA System for CIP II Power Corp.
+SCADA System for Carmen Copper
+Global Business Power Corporation
+(Jun-Oct 2012)
+SCADA System
+Green Core Geothermal, Inc.
+SCADA System
+Electrical Equipment & System Integration, Inc. (EESI) / Manila Water Corporation, Inc.
+Supply, delivery and configuration SCADA Software
+Supply, delivery and configuration - Datac 922M RTU
+Philippine Association Smelting & Refining Corporation
+(Apr 2010)
+Repair and Servicing of Sea Water Intake
+Hansei Corporation
+(Jan 2010)
+Supply/delivery Feeder Management Relay
+ABB Inc.
+(Nov 2009-Feb 2010)
+Realflex Training
+RTU Based Substation Control System
+Supply/Delivery of Protection Management System DAP/V400
+PNOC Energy Development Corporation
+(Aug 2009)
+GE WESDAC D20 ME
+Supply and delivery - GE WESDAC D20 ME
+Texkonstruct, Inc.
+(Nov 2008)
+GE DAP SERVER V400
+CE Casecnan Water & Energy Company, Inc.
+(May 2008)
+Supply/Coordination/Installation of WESDAC D20C
+Transco Siemens, Inc.
+(2007)
+Supply and Delivery of RTUs for Luzon-Visayas Grid, Installation, testing and commissioning of 5 RTU Sites and 2 Local User Interface (LUI) Sites
+Variation Order of the Upgrade Project
+Team Energy Corporation
+(Nov 2007-Aug 2010)
+Reconfiguration of additional 5 digital inputs.
+Shipment/repair of DCM 500 Server
+Supply, installation supervision in upgrading the 230 KV Switchyard GE Harris D20ME Model including testing/commissioning
+Trans-Asia Power Generation Corporation
+(Oct 2007)
+SCADA and Telecom System
+Supply of GE iBox
+Reconfiguration of DAP Station D400
+Asia Pacific Energy Corporation
+(Sept 2007)
+Upgrading Remote Terminal Units
+Transco
+Ormoc, Visayas, Mindanao (Dec 2006-Dec 2007)
+Supply and Delivery of Substation Integration and Automation Equipment
+Supply and Delivery of GE D400 Data Concentrator
+Supply and delivery of Software, FLEXWIN
+Supply/Delivery of Central Processing Module
+Supply and Delivery of WESDAC D20 S Boards and Relay Boards
+RF Link Communication Software
+Supply/Delivery RS 485 and 232 I/O Boards
+Siemens Power Operations, Inc.
+Sta. Rita, Bacolod (June 2006-July 2009)
+Supply of WESDAC D20 ME
+Supply and Delivery of WESDACE D20 Power Supply
+Supply and Delivery of various WESDAC D20ME Boards, D20A Kit, D20S Kit, D20K Kit, Westerm D20KI2 Kit, Terminal Blocks
+Supply/Delivery of WESDAC D20 Power Supply
+Supply/Delivery - GE WESDAC D20 S Board
+Leyte Geothermal Power Plant /
+Philippine National Oil Company
+(Sept 2005)
+SCADA System - Remote Terminal Units
+CE Casecnan Water & Energy Company, Inc.
+(Apr 2004)
+RTU Communications to Cebu and Araneta EMS System of Transco
+Mirant Pagbilao Corporation
+(June 2004-Aug 2006)
+Reconfiguration of RTU
+Supply, delivery and installation DCM 5000 Substation Server
+San Roque Power Corporation
+(June 2004)
+Delivery of RS232 to RS485 TBLED and Westmaint Cable and also Troubleshooting of RTU
+Bauang Private Power Corporation
+(June-Aug 2004)
+Calibration of RTU located at BPPC Plant Site
+Delivery of RTUs
+National Transmission Corporation
+Head Office, Cebu, Mindanao (Dec 2004-Feb 2009)
+Supply/Delivery of Substation Integration and Automation Equipment
+Supply/Delivery of WESDAC D20 Spares
+Supply/Delivery of various WESDAC D20ME Boards, D20A Kit, D20S Kit, D20K Kit, Westerm D20KI2 Kit Terminal Blocks
+April 5000 Spare Parts
+Realflex and QNX Software
+Remote Terminal Unit Spares
+WESDAC D20 ME Spares (Mindanao Office)
+WESDAC D20 ME Spares (Head Office)
+GE D400 Data Concentrator
+RF Link Communication Software
+Supply/Delivery of RS 485 and 232 I/O Boards
+Supply/Delivery of Central Processing Module
+Supply/Delivery of WESDAC D20 S Boards and Relay Boards
+Supply/Delivery of Software, FLEXWIN
+Supply/Delivery of Various Upgrade (Realflex)
+Supply/Delivery of Various GE D20 Spares
+Supply/Delivery of GE RTUs
+Supply/Delivery of GE D400 Data Concentrator
+Manila Electric Company (Meralco)
+(Oct-Dec 2013)
+PACO - substation automation and protection system
+Microbased Substation Control and Protection System
+Protection Panel - Sta.Rosa/Malolos SS
+Protection Panel - Various S/S
+Protection Panel - Duhat-Balintawak S/S
+Protection Panel - Mahabang-Parang
+Protection Panel - Dila S/S
+Protection Panel - Malolos/Sta. Rita
+Bus Differential Relay
+Supply/Installation - Dynamic Display Wall
+IEC 61850 Smart Valencia S/S Project
+Kepco Ilijan Corporation (Joint Venture w/ Hansei Corp.)
+(Dec 2003)
+Special Protection Scheme Installation & Commissioning
+Philippine National Oil Company
+(Sept 2003)
+Comprehensive check up of LGPF RTU
+Siemens, Inc.
+(Dec 2000-Feb 2011)
+Supply and delivery of RTU Spare Parts
+Re-configuration of System Preservation Scheme
+Completely engineered assembled RTU panel for Kabankalan Substation and completely engineered panel with EIG Multi functional power monitor
+RTU Installation & Commissioning at Butuan & Aplaya Substation
+Realflex and WESDAC D20 RTU
+Mirant-Pagbilao Power Station
+(Mar 2001-June 2003)
+Supply and delivery of GE Harris 1031 Power Supply
+Repair/Mount, work for MMI Connection Systems
+Completed SCADA/Telecom works for System Preservation Scheme (SPS) of Transco
+Services for re-configuration of 230 KV RTU and MMI
+Hyundai Corporation
+(July 2001)
+Supply and delivery of Realflex Development System
+Sta Rita/San Lorenzo Gas-Fire Thermal Plant /
+Va Tech Elin Energietechnik
+(Nov 2001)
+GE Harris D20 RTU with fiber optic link, including testing and Commissioning
+Configuration/Commissioning of DNP 3.0 on Sta. Rita RTU
+Cagayan Electric Power and Light Company (CEPALCO)
+Cagayan de Oro, Misamis Oriental (May 2002)
+System design and implementation of 20 MW Carmen Substation SCADA system
+Supply, installation, configuration and commissioning of GE-Harris D20 RTU
+Integration of IEDs - PML ACM3720, ABB TPUs, DPUs, SPAU relays, SPAU relays and GE-Harris RTU
+Supply and configuration HMI/MMI system development including configuration and database buildup
+Commissioning of the 2.8 km. Copper communication cable from the RTU in the substation to the HMI in the engineering building
+Shall conduct training on the HMI/MMI system development including configuration and database buildup
+Leyte Electric Cooperative II (LEYECO II)
+Tacloban City, Leyte (Nov 2001)
+System design and implementation for SCADA of two (2) substation - Sagkahan substation (10 MW) and Campitik substation (10 MW)
+Supply, installation, configuration and commissioning of GE-Harris D20 RTU
+Integration of IEDs - TPUs DPUs, and GE-Harris RTU
+Supply and configuration HMI/MMI - Man Machine Interface
+Supply, installation and commissioning of 4 km wireless communication of C

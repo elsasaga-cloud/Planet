@@ -2,7 +2,7 @@
   "_comment": "T29-U18（2026-10-23）：PI 包 20 家成单客户中除 NYNEX（已有 scripts/github_watch）以外 19 家 + NYNEX 官网 的「持续更新平台」监控清单。只读抓取；沙箱无外网，由 GitHub Actions 运行器执行 scripts/web_watch/watch.py。kind：rss（RSS/Atom，含 YouTube 频道 feed）| html（正文哈希 + 行级 diff；include/exclude 为正则）| json（字段提取比较）| sitemap（URL + lastmod）| github（账号仓库 pushed_at + 公开事件）| youtube_handle（先解析 channelId 再取 feed）。LinkedIn / Facebook / Instagram / X 有登录墙不抓，只在文档里记录链接，由人工定期看。",
   "customers": [
     {
-      "code": "SA-168",
+      "code": "SA-077",
       "name": "Angora Networks（安卡拉，自有品牌 VERGE 交换机）",
       "label": "活跃",
       "sources": [
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "code": "SB-473",
+      "code": "SA-086",
       "name": "Netaş Telekomünikasyon A.Ş.（伊斯坦布尔，BIST: NETAS，ZTE 控股）",
       "label": "活跃",
       "sources": [
@@ -83,7 +83,7 @@
       ]
     },
     {
-      "code": "SA-170",
+      "code": "SA-079",
       "name": "Biz-Ethics Ltd. / BEL Networks（拉各斯，自有品牌 BNSC-）",
       "label": "活跃",
       "sources": [
@@ -112,7 +112,7 @@
       ]
     },
     {
-      "code": "SA-171",
+      "code": "SA-080",
       "name": "PBA Forever Technology Co., Ltd.（北榄府 Bang Phli，监控安装商 pbacctv.com）",
       "label": "活跃",
       "sources": [
@@ -141,7 +141,7 @@
       ]
     },
     {
-      "code": "SA-169",
+      "code": "SA-078",
       "name": "James Clendenan Systems Ltd.（北温哥华）+ 新品牌 Control Ready",
       "label": "活跃",
       "sources": [
@@ -181,7 +181,7 @@
       ]
     },
     {
-      "code": "SA-026",
+      "code": "SA-016",
       "name": "БитБук / BitBook（下塔吉尔，自有品牌 PRIORAT 交换机 + 条码设备）",
       "label": "可发展",
       "sources": [
@@ -222,7 +222,7 @@
       ]
     },
     {
-      "code": "SA-011",
+      "code": "SA-006",
       "name": "Vi-Link / Vilink Communications（加州 Irvine，交通/工业光纤设备）",
       "label": "可发展",
       "sources": [
@@ -259,7 +259,7 @@
       ]
     },
     {
-      "code": "SA-049",
+      "code": "SA-032",
       "name": "Sundar Techno Solutions Pvt. Ltd.（班加罗尔，工业 PC/自动化，Volktek 代理）",
       "label": "可发展",
       "sources": [
@@ -296,7 +296,7 @@
       ]
     },
     {
-      "code": "SA-012",
+      "code": "SA-007",
       "name": "GoGreenIT（英国 Derby，Chris Clemson；自托管 Mastodon/PeerTube/XMPP）",
       "label": "可发展",
       "sources": [
@@ -354,7 +354,7 @@
       ]
     },
     {
-      "code": "SC-1006",
+      "code": "SA-090",
       "name": "WizardsInc Sdn Bhd（吉隆坡 Technology Park Malaysia，ICT/嵌入式/门禁 CCTV）",
       "label": "可发展",
       "sources": [
@@ -386,7 +386,7 @@
       ]
     },
     {
-      "code": "SA-006",
+      "code": "SB-001",
       "name": "Resonant Networks Pte Ltd（新加坡 Ubi + 马来西亚 Cyberjaya，数据中心/光网络工程）",
       "label": "gg（但 2026-08 起 GitHub 极活跃）",
       "sources": [
@@ -421,7 +421,7 @@
       ]
     },
     {
-      "code": "SB-335",
+      "code": "SB-375",
       "name": "Delta Consulting LLC（第比利斯，系统集成 + AS209786）",
       "label": "gg",
       "sources": [
@@ -455,7 +455,7 @@
       ]
     },
     {
-      "code": "SB-1334",
+      "code": "SB-1113",
       "name": "Fastball（德里 Jhilmil，光纤工具/FBC- 自有品牌交换机，Rishi Kumar Bansal）",
       "label": "gg",
       "sources": [
@@ -482,7 +482,7 @@
       ]
     },
     {
-      "code": "SC-349",
+      "code": "SB-1120",
       "name": "Obmac Systems（卢萨卡，ICT/机电工程承包）",
       "label": "gg",
       "sources": [
@@ -499,7 +499,7 @@
       ]
     },
     {
-      "code": "SA-016",
+      "code": "SB-006",
       "name": "United Control Engineers India Pvt. Ltd.（大诺伊达，Delta/Schneider/ABB/Phoenix 自动化分销）",
       "label": "gg",
       "sources": [
@@ -523,7 +523,7 @@
       ]
     },
     {
-      "code": "SA-008",
+      "code": "SB-003",
       "name": "ООО «РИО-ИМПОРТ» / 集团 РИО（克拉斯诺亚尔斯克，工控/电气分销，卖 Phoenix Contact PoE）",
       "label": "gg",
       "sources": [
@@ -548,7 +548,7 @@
       ]
     },
     {
-      "code": "SA-007",
+      "code": "SB-002",
       "name": "XSPec Technology Sdn Bhd（Subang Jaya，NDT/安防/国防/医疗设备代理）",
       "label": "gg",
       "sources": [
@@ -571,7 +571,7 @@
       ]
     },
     {
-      "code": "SA-064",
+      "code": "SB-020",
       "name": "52 Networks, Inc.（弗吉尼亚 Woodbridge，GSA MAS 47QTCA22D00B3 联邦供应商）",
       "label": "gg",
       "sources": [
@@ -600,7 +600,7 @@
       ]
     },
     {
-      "code": "SA-013",
+      "code": "SA-008",
       "name": "NYNEX satellite OHG / fiberONE（达姆施塔特）—— GitHub 部分见 scripts/github_watch",
       "label": "活跃",
       "sources": [

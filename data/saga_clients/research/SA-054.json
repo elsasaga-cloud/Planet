@@ -1,242 +1,271 @@
 {
- "code": "SA-054",
- "name_official": "SVN（svn-video.ru，ИП Криволуцкая Ю.В., Kaluga, Russia）",
- "website_status": "在线",
- "summary": "俄罗斯卡卢加的视频监控网店 + 安装商（个体经营者），自有 SVN 品牌摄像机/套装，设批发栏目（Оптовикам）；用户表：A 已回复 1 次，备注「用的洪瑞（HRUI）的商业 PoE，自己的型号」——即已从 Saga 辅线供应商 HRUI 采购并贴自有型号。",
- "type": "电商/安装商（自有型号贴牌）",
- "size": "个体经营（小型）",
- "brands_seen": [
-  "SVN",
-  "HRUI(洪瑞)",
-  "SVN（自有标）"
- ],
- "evidence": [
-  {
-   "kind": "官网",
-   "claim": "业务与联系方式",
-   "quote": "Системы видеонаблюдения, недорого в каталоге с ценой на сайте интернет-магазина SVN … zakaz@svn-video.ru … Наименование: ИП Криволуцкая Юлия Викторовна · ИНН: 402910363642 … г. Калуга, ул. Марата, д. 5",
-   "url": "https://svn-video.ru/contact-us",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "有批发栏目与自有 SVN 型号",
-   "quote": "Оптовикам … Уличная камера IP SVN-800SBA20MPOE 2,8мм 8Мп · SVN-Дача-4 на 4 уличные камеры 5Мп",
-   "url": "https://svn-video.ru/catalog",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网网店",
-   "claim": "SVN 自有标 PoE 设备与价格",
-   "quote": "POE коммутатор SVN-POE48V1A 1080 ₽ … POE коммутатор SVN-POE412 3150 ₽ … POE коммутатор SVN-POE812 4120 ₽",
-   "url": "https://svn-video.ru/poe-oborudovanie",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网网店",
-   "claim": "SVN-POE1612 口型",
-   "quote": "SVN-POE1612 … POE порты 16 портов 10/100M PoE 2 порта 1000M Ethernet Uplink 1 порт 1000M SFP · Коммутационная способность: 9.2Gbps",
-   "url": "https://svn-video.ru/poe-oborudovanie/poe-kommutator-svn-poe1612",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "地址 / 电话 / 邮箱",
-   "quote": "8-800-600-72-59 - 8-903-636-46-70 - svnshop@yandex.ru , zakaz@svn-video.ru - 248000, г. Калуга, ул. Марата, 5",
-   "url": "https://svn-video.ru/catalog",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "—",
-   "role": "订单邮箱",
-   "email": "zakaz@svn-video.ru",
-   "phone": "+7 903 810 33 33",
-   "source": "https://svn-video.ru/contact-us"
-  }
- ],
- "notes": "A 维持但体量小：已在用 HRUI 商业 PoE 自有型号 → Saga 可用 STH 线（HRUI 来源）原厂同款 + 自有型号丝印直接承接；P1 = STH 对应 8 口 PoE（见 data/hrui_STC对照表.csv），20% 电商档。",
- "researched_at": "2026-10-21",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "深挖 v2（官网网店自有标 SVN 目录核对）"
- },
- "company_facts": {
-  "legal_name": "SVN（svn-video.ru，ИП Криволуцкая Ю.В.）",
-  "hq": "248000, г. Калуга, ул. Марата, д. 5（+7 903 810-33-33 / +7 903 636-46-70 / 8-800-600-72-59；zakaz@svn-video.ru、svnshop@yandex.ru）",
-  "other": "自有标 SVN 全线：IP 摄像机（SVN-200SL20HF 2MP 5,800 ₽、SVN-800SBA20MPOE 8MP 11,350 ₽）、套装（SVN-Дача-4 27,000 ₽）、NVR（SVN-NVRC830POE 9ch/8 PoE）、**PoE 交换机 SVN-POE412（4 FE PoE+2 上联，3,150 ₽）/ SVN-POE812（8 FE PoE+2 上联，4,120 ₽）/ SVN-POE1612（16 FE PoE+2 GE+1 SFP）/ SVN-POE48V1A（1,080 ₽）**、PoE 分离器/注入器；设「Оптовикам」批发栏目；卡卢加本地安装"
- },
- "business_lines": [
-  "SVN 品牌摄像机/套装",
-  "商用 PoE 交换机（HRUI 来源，自有型号）",
-  "安装与批发",
-  "自有标 SVN 摄像机 / NVR / PoE 交换机 网店（零售 + 批发）",
-  "卡卢加州安装"
- ],
- "products_seen": [
-  {
-   "brand": "SVN（HRUI 来源）",
-   "model": "商业 PoE 交换机（自有型号）",
-   "spec": "用的洪瑞的",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "用户表",
-   "saga": "STC-28DGGPM（Marvell 升级位）/ 或 HRUI 同款经 Saga 供"
-  },
-  {
-   "brand": "SVN（自有标）",
-   "model": "SVN-POE812",
-   "spec": "8×10/100 PoE + 2×10/100 上联，AI PoE，af/at；零售 4,120 ₽",
-   "url": "https://svn-video.ru/poe-oborudovanie/poe-kommutator-svn-poe812-",
-   "date": "2026-10-21",
-   "saga": "STC-28DGGPM（千兆管理升级位；价位敏感 → 亦可按 HRUI 源 Realtek 商用款对位，见 hrui_STC 对照表，需标注）"
-  },
-  {
-   "brand": "SVN（自有标）",
-   "model": "SVN-POE412",
-   "spec": "4×10/100 PoE + 2 上联，AC 内置电源；3,150 ₽",
-   "url": "https://svn-video.ru/catalog/poe-oborudovanie/poe",
-   "date": "2026-10-21",
-   "saga": "STI-144GP（工业位，不主推）"
-  },
-  {
-   "brand": "SVN（自有标）",
-   "model": "SVN-POE1612",
-   "spec": "16×10/100 PoE + 2×1000 上联 + 1 SFP，9.2 Gbps",
-   "url": "https://svn-video.ru/poe-oborudovanie/poe-kommutator-svn-poe1612",
-   "date": "2026-10-21",
-   "saga": "STI-21616GP（千兆升级位）"
-  }
- ],
- "channels": {
-  "网站": "https://svn-video.ru/",
-  "直邮": "zakaz@svn-video.ru（用户表）",
-  "网站/网店": "https://svn-video.ru/（含 Оптовикам 批发页）",
-  "电话": "+7 903 810-33-33 / 8-800-600-72-59（官网公开）",
-  "邮箱（公开）": "zakaz@svn-video.ru / svnshop@yandex.ru"
- },
- "signals": [
-  "已从 Saga 辅线供应商 HRUI 采购——Saga 可按 HRUI 对照表直接报同款（data/hrui_STC对照表.csv）或升级 Marvell 款",
-  "自有标 SVN PoE 交换机全系为百兆、零售 3–4 千卢布——极度价位敏感；千兆 Marvell 款只能作「SVN 千兆高端位」少量试单（2026-10-21）"
- ],
- "risks": [
-  "个体经营者，量小；俄罗斯结算",
-  "HRUI 直供价 vs Saga 加价——需以服务/组合（摄像机配套 PoE）取胜",
-  "个体经营 + 百兆低价位——单量与毛利双低；若千兆位不接受，转 HRUI 源 Realtek 款（标注）或按 B 节奏"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 30,
-  "why": "自有标 SVN-POE812（8 FE PoE）千兆管理升级 = STC-28DGGPM，按 SVN 命名 OEM 30%；SVN-POE1612 位 = STI-21616GP；价位不接受则改 HRUI 源 Realtek 商用款（需标注非 Saga 主线）"
- },
- "email_hook": "Your SVN-POE812 and POE1612 are fast-Ethernet; a gigabit Marvell-based 8-port PoE+ with 2 SFP in SVN packing would give the range a top SKU for 4K cameras, EXW, MOQ 1 for a trial batch.",
- "mail_review": {
-  "binding": {
-   "level": "未绑定（2026-01-04 要 PoE 交换机 + 配件价表 → 给价表 → 无下文；Elsa 箱：`to:svn-video.ru` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 22 / 来 1）（第 74 批(g)））",
-   "type": "卡卢加 CCTV 网店/安装商（自有型号，已用 HRUI 商用 PoE）；zakaz@",
-   "sieve": "2",
-   "stop": "2026-01-05 价表后无回",
-   "revive": "其自有型号补 SKU（STH/HRUI 同源）",
-   "lane": "RU",
-   "cadence": "2024-06 → 2026-09 去信 22 封；最后来信 2026-01-04",
-   "evidence": "k=e5396399dcef3822 / e972f525788b212d"
-  },
-  "situation": "2026-01-04 网店销售部要 PoE 交换机与配件价表，Alan 给价表并问「配件指光模块和电源？」，无回。",
-  "need": "PoE 交换机 + 光模块/电源（网店 SKU）。",
-  "breakpoint": "价表式回复无后续问题；RU 收款通道未谈。",
-  "saga_now": {
-   "p1": "HRUI 同源 8 口 PoE（`hrui_STC对照表`）",
-   "tier": 20,
-   "price": "—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-11 $65（10G Media Converter）、2024-12-09 $300（48 Port PoE Managed Switch）、2024-12-26 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-08-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-02 $280（10G Enterprise SFP Switch）",
-   "why": "一句话问收款方式与首批量。已打开的主题（3/22 封有打开记录）：「Industrial poe switch」(2024-08-13)、「Industrial PoE Switch」(2025-08-28)、「Re: Industrial PoE Switch」(2026-01-05) → 读者兴趣偏「工业」；当前 P1 属「PoE 接入」，下一封按「工业」给，不按 P1",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "2027-Q1",
-   "channel": "A 邮箱 → zakaz@",
-   "action": "问付款通道 + 首批 SKU（第 75 批(p) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
-   "one_question": "For a first batch, which 8-port PoE SKU and what payment route (RMB agent / T/T) works for you?"
-  },
-  "facts": [
-   {
-    "date": "2024-06-19",
-    "dir": "去",
-    "who": "S 箱（Simon）",
-    "quote": "8 port fiber switch",
-    "why": "首封去信（邮箱索引；去信共 22 封）",
-    "k": "ec9ddaaae415a2aa"
-   },
-   {
-    "date": "2024-11-11",
-    "dir": "去",
-    "who": "S 箱（Simon）",
-    "quote": "10G Media Converter｜稿内价 $65",
-    "why": "去信正文含价（邮箱索引）",
-    "k": "410b2799e316dc6a"
-   },
-   {
-    "date": "2024-12-26",
-    "dir": "去",
-    "who": "S 箱（Simon）",
-    "quote": "24 Port Fiber Switch｜稿内价 $240",
-    "why": "去信正文含价（邮箱索引）",
-    "k": "1498a663d372dc88"
-   },
-   {
-    "date": "2025-06-30",
-    "dir": "去",
-    "who": "A 箱（Alan）",
-    "quote": "24 Port Fiber Switch｜稿内价 $240",
-    "why": "去信正文含价（邮箱索引）",
-    "k": "dbaab31a89f6c8d8"
-   },
-   {
-    "date": "2025-08-28",
-    "dir": "来",
-    "who": "用户表（Simon 跟进记录；渠道 A）",
-    "quote": "用户表跟进：推「24PoE」→ 对方「Price List」",
-    "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
-    "k": "Clients/A Replied 09.04.xlsx no.48 2025.8.28"
-   },
-   {
-    "date": "2026-01-04",
-    "dir": "来",
-    "who": "SVN 销售部",
-    "quote": "send me please your pricelists with POE switches and accessories",
-    "why": "要价表",
-    "k": "e5396399dcef3822"
-   },
-   {
-    "date": "2026-01-04",
-    "dir": "来",
-    "who": "zakaz@svn-video.ru",
-    "quote": "Re: Industrial PoE Switch｜Hi, send me please your pricelists with POE switches and accessories  ______________________________________________  C уважением, отдел продаж интерн",
-    "why": "来信（邮箱索引；原文见 k；是否人工回复以原文为准）",
-    "k": "e5396399dcef3822"
-   },
-   {
-    "date": "2026-08-10",
-    "dir": "去",
-    "who": "A 箱（Alan）",
-    "quote": "24 Port PoE Managed Switch｜稿内价 $170",
-    "why": "去信正文含价（邮箱索引）",
-    "k": "e39865805e2c55d8"
-   },
-   {
-    "date": "2026-09-07",
-    "dir": "去",
-    "who": "A 箱（Alan）",
-    "quote": "16 Port Industrial PoE Switch",
-    "why": "最近一封去信（邮箱索引；去信共 22 封）",
-    "k": "cd90acab1f8de2bf"
-   }
+  "code": "SA-054",
+  "name_official": "Softnetworks Inc.（Whippany, NJ，美国）",
+  "website_status": "在线",
+  "summary": "美国新泽西二手/翻新网络设备经销商 + IT 维修（Chromebook/Apple），2012 年注册，11–50 人（Datanyze 18 人），主营 Cisco/Juniper/Aruba 翻新件，产品目录含 'Industrial Switches'；联系人 Neal Cennamo 为副总裁，E 已回复 1 次。",
+  "type": "二手/翻新网络设备经销商",
+  "size": "小型（11–50 人）",
+  "brands_seen": [
+    "Cisco",
+    "Juniper",
+    "Aruba",
+    "Meraki",
+    "Brocade",
+    "Dell",
+    "HP"
   ],
-  "proof_gaps": [],
-  "draft_en": {
-   "subject": "After the price list in January - the first SKU and the payment route",
-   "body": "Hello SVN team,\n\nIn January you asked for our PoE switch and accessories price list and we sent it; the question we asked back (accessories = optics and power supplies?) stayed open, and so did everything else.\n\nYour SVN-POE812 and POE1612 are Fast Ethernet units. A gigabit top SKU for 4K cameras in SVN packing: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based - model STC-28DGGPM - $80.7 USD EXW at distributor price (MOQ 1 for a trial batch, 15-day validity). CE/RoHS files supplied; EAC stays on your side.\n\nOne question: for a first trial batch, which payment route works for you - and which SKU goes in it?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+  "evidence": [
+    {
+      "kind": "官网",
+      "claim": "30 年经验，新品与翻新 LAN/WAN/光纤硬件，目录含 Industrial Switches",
+      "quote": "premier value added provider of New, and refurbished secondary market… networking hardware solutions from manufacturers such as Cisco, Aruba, Meraki… INDUSTRIAL SWITCHES",
+      "url": "https://softnetworks.net/hardware/network-hardware/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网",
+      "claim": "2012 年新泽西注册，起步网络硬件后扩展维修",
+      "quote": "Softnetworks.net was incorporated in the State of NJ in 2012. Our initial primary focus was only on Networking Hardware solutions",
+      "url": "https://softnetworks.net/about-us/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "Datanyze",
+      "claim": "18 名员工；Neal Cennamo 副总裁",
+      "quote": "Neal Cennamo Vice President… Softnetworks has 18 employees",
+      "url": "https://www.datanyze.com/companies/softnetworks/1100611077",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网",
+      "claim": "交换机目录含 INDUSTRIAL SWITCHES 分类与联系方式",
+      "quote": "Switches - 2900 SERIES - 3500 SERIES - 3650 SERIES - 3700 SERIES - 3800 SERIES - 9200 / 9300 SERIES - SG SMALL BUSINESS SERIES - INDUSTRIAL SWITCHES - N5K / N9K SERIES … 20 Troy Rd., STE4 Whippany, NJ 07981 … +1-201-636-7188 … info@softnetworks.net",
+      "url": "https://softnetworks.net/hardware/network-hardware/",
+      "date": "2025-10-11"
+    },
+    {
+      "kind": "官网",
+      "claim": "2012 年 NJ 注册，初期专注 Cisco/Juniper/Aruba 网络硬件",
+      "quote": "Softnetworks.net was incorporated in the State of NJ in 2012. Our initial primary focus was only on Networking Hardware solutions using hardware products from companies like Cisco, Juniper, Aruba and others.",
+      "url": "https://softnetworks.net/about-us/",
+      "date": "2025-10-12"
+    }
+  ],
+  "kp": [
+    {
+      "name": "Neal Cennamo",
+      "role": "Vice President",
+      "email": "nealc@softnetworks.net",
+      "phone": "+1 201-636-7188（官网）",
+      "source": "用户 Clients 表 + Datanyze/官网"
+    },
+    {
+      "name": "Neal Cennamo",
+      "role": "VP（用户表）；ZoomInfo：Softnetworks 2014 至今",
+      "email": "nealc@softnetworks.net（用户表原值）",
+      "phone": "+1 201-636-7188（公司总机）",
+      "source": "https://www.zoominfo.com/p/Neal-Cennamo/81956627"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "美国主攻区、VP 直接回复。但其商业模式是 Cisco 等翻新件（低价竞争逻辑），新白牌工业/PoE 交换机可作为其'新品补充线'；需要 FCC 文件，不承诺 UL/TAA。P1：STI-288DGGPM（工业交换机类目对位）或 STC-28DGGPM 入门 PoE，分销价阶 20%。",
+  "researched_at": "2026-10-21",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "深挖 v2（官网 + 目录核对）"
   },
-  "as_of": "2026-10-24"
- }
+  "company_facts": {
+    "legal_name": "Softnetworks Inc.（Softnetworks, LLC）",
+    "founded": "2012 注册（NJ）；LinkedIn 2011；IndustryNet 口径 1998",
+    "hq": "20 Troy Rd, STE 4, Whippany, NJ 07981（+1 201-636-7188，info@softnetworks.net）",
+    "staff": "11–50",
+    "other": "网站 2025-10～2026-01 更新；交换机目录按 Cisco 2900/3500/3650/3700/3800/9200-9300/SG/INDUSTRIAL SWITCHES/N5K-N9K 分类（即 Cisco IE 系列翻新）；另有资产处置、租赁、Chromebook/Apple 维修"
+  },
+  "business_lines": [
+    "Cisco/Juniper/Aruba/Meraki/Brocade/Dell/HP 翻新件",
+    "工业交换机类目",
+    "Chromebook/Apple 维修"
+  ],
+  "products_seen": [
+    {
+      "brand": "Cisco 等（翻新）",
+      "model": "Industrial Switches 类目",
+      "spec": "二手/翻新",
+      "url": "https://softnetworks.net/",
+      "date": "2026-10（首轮调研）",
+      "saga": "STI-288DGGPM（新品替代位）"
+    }
+  ],
+  "channels": {
+    "网站": "https://softnetworks.net/（Network Hardware → Switches → Industrial Switches）",
+    "直邮": "nealc@softnetworks.net（Neal Cennamo，副总，用户表）",
+    "电话": "+1 201-636-7188（官网公开）",
+    "邮箱（公开）": "info@softnetworks.net",
+    "LinkedIn": "https://www.linkedin.com/company/softnetworks-inc-"
+  },
+  "signals": [
+    "用户表：兴趣工业 FS、Cisco 产品",
+    "官网评价强调「Cisco 现货当天发」——客户买的是现货与速度；新品白牌工业机需以库存/快发匹配（2026-10-21）"
+  ],
+  "risks": [
+    "翻新经销商利润来自二手价差，对新品白牌接受度不确定；美国小型 B2B"
+  ],
+  "saga_fit": {
+    "p1": "STI-288DGGPM",
+    "tier": 20,
+    "why": "工业交换机类目补新品：STI-288DGGPM（DIN 8 PoE + 2 SFP 管理）与 STC-28DGGPM；分销 20% 档"
+  },
+  "email_hook": "Did the May 2025 quote for the 90W managed PoE unit (STI-288DGGPM-2BT at $140) land anywhere near your refurb price points — and what would? Today it is $154 USD EXW (MOQ 1, 15-day validity; the RMB has moved from 7.2 to 6.7 since).",
+  "mail_review": {
+    "binding": {
+      "level": "未绑定（Elsa 邮箱两次回复：2025-04-29「I never buy Unmanaged.」、2025-05-13「What is the price for this one?」(90W PoE 管理型) → Elsa 05-14 回价后无下文）；Elsa 首触 = 2025-04-06 US-2 批次群发 BCC「16 Port PoE Managed Switch」（第 74 批 Bcc 头核对 msg 1960752f6b2cf94d）→ 04-29 回信后转 1:1，群发名单随即剔除（2026-09-08 同批次名单无此址）；Elsa 1:1 去信 8 轮 2025-05-12→2026-08-04（To 仅本户 nealc@softnetworks.net；Bcc 未逐封读头；同类名单抽读 24 封均无 Bcc；主题 Booster PoE Switch、Marvell Industrial Alert System、Industrial PoE Switch、24 Port PoE Managed Switch…；客户来过信：Elsa 回 2025-04-30 Re:「8 Port Industrial PoE Switch」、2025-05-14 Re:「90W PoE Managed Switch」；此前经 锚 info@allisontecusa.com 的 Bcc 收到 2 轮（2025-04-06→2025-04-30）→ 回信后被 Elsa 从 Bcc 名单剔出、转入 1:1 名单）（第 74 批(m) `from:e.sagatelecom to:` 全程 complete，直收 10 条）",
+      "type": "新泽西二手/翻新网络设备经销（Neal Cennamo）——美国主攻区，但商业模式是翻新件",
+      "sieve": "0（邮件层无人工回复）",
+      "stop": "价格后停（翻新件价格基准极低）",
+      "revive": "只谈管理型新品补充线 + FCC",
+      "lane": "US",
+      "cadence": "一次",
+      "evidence": "邮件：A/S 两箱均无发信记录（0 去 / 0 来）；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To info@allisontecusa.com）本户见于 2025-04-06 名单；2026-09-08 最新一轮名单已不含此地址 → 中途被剔除（退信 / 退订 / 手工）"
+    },
+    "situation": "Neal 两句话说明了筛选标准：不买非管理；管理型问了价。Elsa 的回价内容不在仓库（E 箱只存来信正文）。",
+    "need": "管理型 PoE（高端 CCTV 项目）作为翻新业务的新品补充。",
+    "breakpoint": "价格基准（翻新 Cisco）vs 新品。",
+    "saga_now": {
+      "p1": "STI-288DGGPM-2BT（90W 款）",
+      "tier": 25,
+      "price": "自家实报 STI-288DGGPM-2BT $140/pc（Elsa 2025-05-14，老汇率）→ 再触写 $154 时点明 FX 7.2→6.7；换人再触锚价 STI-288DGGPM-2BT $154 EXW（2026-06 PDF 上限 $154（档位 157.8–171 超上限；SB-160 500 台项目实报 $130）；第 72 批 2026-10-24）；—；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-06-21 $300（48 Port PoE Managed Switch = STC-448XGGPM，Elsa 箱 1 轮 2025-06-21；现表 $335.4@20%、Drive 老表 $335——同款写 $335 要先说 2025 群发是 $300、汇率 7.2→6.7）；2026-05-11 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 2 轮 2025-10-01→2026-05-11；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-08-04 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-04；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
+      "why": "翻新 Cisco 工业机的新品补充 → 8 口 PoE 管理 DIN（90W 款）给他一个价位更低的新机选项；价格基准是翻新机，先问再报",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "2027-Q1",
+      "channel": "E 邮箱 → nealc@softnetworks.net",
+      "action": "首封前知悉：Elsa 已 1:1 去信 8 轮（2025-05-12→2026-08-04，客户回过信（2025-04-30、2025-05-14）），此前还经锚 Bcc 触达（第 74 批(m)）；一句话问 5 月报价的反馈（第 75 批(p) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；Elsa 箱原串、署名 Elsa）",
+      "one_question": "Did the May 2025 quote for the 90W managed PoE unit (STI-288DGGPM-2BT at $140) land anywhere near your refurb price points — and what would? Today it is $154 USD EXW (MOQ 1, 15-day validity; the RMB has moved from 7.2 to 6.7 since)."
+    },
+    "facts": [
+      {
+        "date": "2025-04-06",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To info@allisontecusa.com，US-2 批次）",
+        "quote": "16 Port PoE Managed Switch — This is a Marvell-based 16 Port PoE L2+ Managed Switch. 1, 2*1G/2.5G/10G fiber+16*1G RJ45/PoE 2, Support PoE management, alarm output 3, Customizable ",
+        "why": "Elsa 箱对该户的第一封 = 群发 BCC（US-2 批次 To info@allisontecusa.com，40 Bcc）；23 天后 NealC 回「I never buy Unmanaged」→ 之后全部 1:1",
+        "k": "elsa_bcc"
+      },
+      {
+        "date": "2025-04-29",
+        "dir": "来（Elsa 箱）",
+        "who": "Neal Cennamo",
+        "quote": "I never buy Unmanaged.",
+        "why": "筛选标准",
+        "k": "E 19682eba2d4de4b4"
+      },
+      {
+        "date": "2025-04-30",
+        "dir": "去",
+        "who": "Elsa",
+        "quote": "We got managed series. Please see attached a typical model, it is a lengthy datasheet with plenty of information, take your time.（附 STI-288DGGPM.pdf；Elsa 给这封加了星标）",
+        "why": "回应「I never buy Unmanaged」→ 给管理型规格书",
+        "k": "gmail_e 19684d7bc9571faf"
+      },
+      {
+        "date": "2025-05-12",
+        "dir": "out",
+        "who": "Elsa → nealc@softnetworks.net",
+        "quote": "90W PoE Managed Switch（Elsa 1:1 逐月名单第 1/8 轮；To 仅本户）",
+        "why": "第 74 批(m) `from:e.sagatelecom to:nealc@softnetworks.net` 全程 complete：8 轮直收；客户曾来信（见 Re: 行）",
+        "k": "elsa_1to1",
+        "msg_id": "196c4c9c6f88fe9c"
+      },
+      {
+        "date": "2025-05-13",
+        "dir": "来（Elsa 箱）",
+        "who": "Neal",
+        "quote": "What is the price for this one?",
+        "why": "询价",
+        "k": "E 196ca1e02d95c29d"
+      },
+      {
+        "date": "2025-05-14",
+        "dir": "去",
+        "who": "Elsa",
+        "quote": "1, STI-288DGGPM-2BT: 140usd/pc 2*100M/1G/2.5G SFP+8*10/100/1000M PoE, L2+ Managed 6*PoE af/at+2*PoE af/at/bt, 240W budget, Din Rail, Redundant DC44V~57V Input, Excluding optical module and power supply（附 STI-288DGGPM-2BT.pdf）",
+        "why": "Saga 给 Neal 的唯一实价 $140（老汇率）→ 无下文；再触同款不得默默写 $154，要点明 FX 7.2→6.7",
+        "k": "gmail_e 196ccf655de0046f"
+      },
+      {
+        "date": "2025-06-21",
+        "dir": "out",
+        "who": "Elsa → nealc@softnetworks.net",
+        "quote": "48 Port PoE Managed Switch（Elsa 1:1 逐月名单第 2/8 轮；To 仅本户；正文价 300usd/pc，第 74 批(p) 读稿 msg 194eff1f9bf46879 / 1973a613b8166b58）",
+        "why": "第 74 批(m) `from:e.sagatelecom to:nealc@softnetworks.net` 全程 complete：8 轮直收；客户曾来信（见 Re: 行）",
+        "k": "elsa_1to1",
+        "msg_id": "19792e48747af42a"
+      },
+      {
+        "date": "2025-10-01",
+        "dir": "out",
+        "who": "Elsa → nealc@softnetworks.net",
+        "quote": "10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 3/8 轮；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
+        "why": "第 74 批(m) `from:e.sagatelecom to:nealc@softnetworks.net` 全程 complete：8 轮直收；客户曾来信（见 Re: 行）",
+        "k": "elsa_1to1",
+        "msg_id": "199a00ef997dff4f"
+      },
+      {
+        "date": "2025-12-03",
+        "dir": "out",
+        "who": "Elsa → nealc@softnetworks.net",
+        "quote": "Booster PoE Switch（Elsa 1:1 逐月名单第 4/8 轮；To 仅本户）",
+        "why": "第 74 批(m) `from:e.sagatelecom to:nealc@softnetworks.net` 全程 complete：8 轮直收；客户曾来信（见 Re: 行）",
+        "k": "elsa_1to1",
+        "msg_id": "19ae48346e932f73"
+      },
+      {
+        "date": "2025-12-29",
+        "dir": "out",
+        "who": "Elsa → nealc@softnetworks.net",
+        "quote": "Marvell Industrial Alert System（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+        "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
+        "k": "elsa_1to1",
+        "msg_id": "19b6a4d2648e3f24"
+      },
+      {
+        "date": "2026-04-03",
+        "dir": "out",
+        "who": "Elsa → nealc@softnetworks.net",
+        "quote": "Industrial PoE Switch（Elsa 1:1 逐月名单第 6/8 轮；To 仅本户）",
+        "why": "第 74 批(m) `from:e.sagatelecom to:nealc@softnetworks.net` 全程 complete：8 轮直收；客户曾来信（见 Re: 行）",
+        "k": "elsa_1to1",
+        "msg_id": "19d53c6a3a628583"
+      },
+      {
+        "date": "2026-05-11",
+        "dir": "out",
+        "who": "Elsa → nealc@softnetworks.net",
+        "quote": "10G Enterprise SFP Switch（Elsa 2026 年 1:1 名单重发；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
+        "why": "本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无）",
+        "k": "elsa_1to1",
+        "msg_id": "19e170405d9f7966"
+      },
+      {
+        "date": "2026-08-04",
+        "dir": "out",
+        "who": "Elsa → nealc@softnetworks.net",
+        "quote": "24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 8/8 轮；To 仅本户；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f）",
+        "why": "第 74 批(m) `from:e.sagatelecom to:nealc@softnetworks.net` 全程 complete：8 轮直收；客户曾来信（见 Re: 行）",
+        "k": "elsa_1to1",
+        "msg_id": "19fcd12f646f84cb"
+      }
+    ],
+    "proof_gaps": [
+      "（已核 2026-10-24，第 73 批）Elsa 05-14 实报 STI-288DGGPM-2BT $140/pc + 规格书；04-30 已先给 STI-288DGGPM 规格书"
+    ],
+    "draft_en": {
+      "subject": "The 90 W managed PoE unit from May 2025 - did the price land anywhere near your refurb points?",
+      "body": "Hi Neal,\n\nIn May 2025 you asked the price of the 90 W managed PoE unit and I quoted $140; since then you had my monthly product mails and, reasonably, no reason to answer them. One real question instead.\n\nThe unit is still the same: DIN-rail 8 x Gigabit PoE (6 x PoE+ and 2 x 802.3bt 90 W ports) + 2 x SFP, L2+ managed with ring redundancy, Marvell-based, -40 to 75 C, FCC/CE/RoHS - model STI-288DGGPM-2BT - today $154 USD EXW (MOQ 1, 15-day validity; the RMB has moved from 7.2 to 6.7 against the dollar since May 2025).\n\nOne question: did $140 land anywhere near the price points your refurb customers accept for a managed industrial PoE unit - and if not, what would?\n\nBest regards,\nElsa\nSaga Telecom - sagatele.com"
+    },
+    "as_of": "2026-10-25"
+  }
 }

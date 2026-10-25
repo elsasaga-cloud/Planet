@@ -1,73 +1,104 @@
 {
- "code": "SB-124",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（mcelroy.co.uk，快照 2026-10-21）",
- "summary": "英国 Canonbury / mcelroy.co.uk（站点为「Tenancy Agreements」在线租约服务；2014 年阿里巴巴 RFQ「5 口交换机带 PoE」；KP Roger McElroy；「经常回复回执」「质量一般」；电话加不上）；表内未跟进。",
- "type": "非渠道终端用户（陈旧 RFQ）",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：Tenancy Agreements",
-   "quote": "Tenancy agreements online",
-   "url": "http://mcelroy.co.uk/",
-   "date": "2026-10-21"
+  "code": "SB-124",
+  "name_official": "Telconet S.A.（Guayaquil, Ecuador；telconet.ec / telconet.net；大型光纤运营商）",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（未单独抓取）",
+  "summary": "厄瓜多尔大型光纤电信运营商 Telconet（瓜亚基尔；全国光纤骨干与企业/数据中心服务；info@telconet.ec）。用户表（富通天下外贸数据）：「从国内买了很多 SFP」= 直接从中国进口大量 SFP 模块，非 Saga 成交；群发无互动。运营商直采 SFP → Saga 需补 SFP 价目（Q-32）；交换机对位接入/汇聚 10G 机型；大型运营商供应商准入门槛高。",
+  "type": "",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "用户表",
+      "claim": "富通天下：从国内买了很多 SFP",
+      "quote": "从国内买了很多SFP / 富通天下",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（基于用户表整理 + 需求映射；「成交」为富通天下外贸数据）"
   },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "5口交换机带PoE；经常回复回执；2014年使用国际站, 44 - 020 - 7118100 加不上；5口交换机带PoE / from: 阿里巴巴RFQ",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
+  "company_facts": {
+    "legal_name": "Telconet S.A.",
+    "hq": "Guayaquil, Ecuador",
+    "size": "大型运营商（数千人）",
+    "other": "直接从中国进口 SFP（外贸数据）"
   },
-  {
-   "kind": "官网快照",
-   "claim": "mcelroy.co.uk 快照",
-   "quote": "Tenancy Agreements ; Tenancy agreements online",
-   "url": "http://mcelroy.co.uk/",
-   "date": "2026-10-21"
+  "business_lines": [
+    "光纤电信运营（骨干、企业、数据中心）"
+  ],
+  "channels": {
+    "网站": "https://www.telconet.ec/（未核）",
+    "邮箱": "info@telconet.ec（用户表）"
   },
-  {
-   "kind": "用户表",
-   "claim": "5 口 PoE RFQ 2014",
-   "quote": "2014年使用国际站 / 5口交换机带PoE / from: 阿里巴巴RFQ；经常回复回执",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
+  "signals": [
+    "运营商直采中国 SFP → 对中国供应商开放；量大"
+  ],
+  "risks": [
+    "大型运营商：供应商注册/招标流程长，通用邮箱难触达；拉美非主攻区；SFP 不在价格表（Q-32）"
+  ],
+  "saga_fit": {
+    "p1": null,
+    "tier": 20,
+    "why": "待核型：主需求 SFP 模块不在价格表（Q-32）；交换机对位 STC-424XGGM（24 GE + 4×10G L2+，$127.4@20）/ L3 版（$269.1）"
+  },
+  "email_hook": "Hello Telconet procurement team, alongside the SFP modules you import from China: 24× GbE + 4× 10G SFP+ L2+ access switches at $127.4 EXW (L3 version $269.1), and 1G/10G SFPs on request — who is the right contact for access-network equipment sourcing?",
+  "mail_review": {
+    "binding": {
+      "level": "Elsa 群发 BCC 已触达 2026-08-20「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，LatAm 批次 To vanessa.salas@prisa-solutions.com，0 回（第 73 批(o) Bcc 头核对 msg 1a01fab10562d079）；S/A 箱：S/A 邮箱均无往来；来源：用户表「从国内买了很多SFP / 富通天下」",
+      "type": "—",
+      "sieve": "—（未入筛）",
+      "stop": "Elsa 群发 BCC 触达过（最近 2026-08-20）无回；S/A 箱从未单独发过",
+      "revive": "不动（非主攻区；J5：有证据再动）",
+      "lane": "厄瓜多尔 非主攻",
+      "cadence": "不动",
+      "evidence": "gmail_digest：out 0；用户表：「从国内买了很多SFP / 富通天下」；研究档 risks：大型运营商：供应商注册/招标流程长，通用邮箱难触达；拉美非主攻区；SFP 不在价格表（Q-32）；data/gmail_e/bcc_batches_2026.json"
+    },
+    "situation": "厄瓜多尔大型光纤电信运营商 Telconet（瓜亚基尔；全国光纤骨干与企业/数据中心服务；info@telconet.ec）。用户表（富通天下外贸数据）：「从国内买了很多 SFP」= 直接从中国进口大量 SFP 模块，非 Saga 成交；群发无互动。运营商直采 SFP → Saga 需补 SFP 价目（Q-32）；交换机对位接入/汇聚 10G 机型；大型运营商供应商准入门槛高。",
+    "need": "待核型：主需求 SFP 模块不在价格表（Q-32）；交换机对位 STC-424XGGM（24 GE + 4×10G L2+，$127.4@20）/ L3 版（$269.1）",
+    "breakpoint": "大型运营商：供应商注册/招标流程长，通用邮箱难触达；拉美非主攻区；SFP 不在价格表（Q-32）",
+    "saga_now": {
+      "p1": "—",
+      "tier": 20,
+      "price": "按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-20 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-20；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
+      "why": "待核型：主需求 SFP 模块不在价格表（Q-32）；交换机对位 STC-424XGGM（24 GE + 4×10G L2+，$127.4@20）/ L3 版（$269.1）",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "不动",
+      "channel": "—",
+      "action": "—",
+      "one_question": ""
+    },
+    "facts": [
+      {
+        "date": "2026-08-20",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To vanessa.salas@prisa-solutions.com，LatAm 批次）",
+        "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
+        "why": "Elsa 箱群发 BCC 触达证据（命中地址 info@telconet.ec, telconet.ec）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+        "k": "elsa_bcc"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "从国内买了很多SFP / 富通天下",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [
+      "无邮件往来"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-24"
   }
- ],
- "kp": [],
- "grade_override": "C",
- "override_reason": "非渠道终端用户 + 2014 年陈旧 RFQ；c_sub=品类不符/终端用户",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "英国",
-  "other": "官网 mcelroy.co.uk，语言 ?，快照状态 ok；角色判定来源：待核"
- },
- "business_lines": [
-  "在线租约服务（英国）"
- ],
- "channels": {
-  "role": "非渠道终端用户（陈旧 RFQ）",
-  "region": "英国",
-  "contact": "roger@mcelroy.co.uk"
- },
- "signals": [
-  "快照：Tenancy Agreements ; Tenancy agreements online",
-  "表内：5 口交换机带 PoE / from: 阿里巴巴 RFQ；2014 年使用国际站；经常回复回执；KP Roger McElroy；质量一般"
- ],
- "risks": [
-  "非渠道终端用户（在线租约服务）；RFQ 为 2014 年（陈旧）；仅自动回执"
- ],
- "saga_fit": {
-  "p1": null,
-  "tier": 20,
-  "why": "租约服务网站（非渠道），2014 年 5 口 PoE 陈旧 RFQ → 改 C"
- },
- "email_hook": "（不发送：终端用户/陈旧线索）"
 }

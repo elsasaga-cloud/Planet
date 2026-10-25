@@ -1,0 +1,16 @@
+# SB-230 adin.it · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCsDDrTiKAXlm25IIaAuqiFw · fetched 2026-10-25T07:41:18Z · HTTP 200
+2021-06-17T07:07:19+00:00	UNIVIEW Funzionalità SIP	https://www.youtube.com/watch?v=OBi6bkckGEc
+2020-03-19T10:14:43+00:00	Monitor portatile Uniview USS-SC160E-T-O con camera di contesto nel visibile	https://www.youtube.com/watch?v=PBYT3WVb0mQ
+2020-03-19T10:06:26+00:00	Monitor portatile Uniview USS SC160-T-O	https://www.youtube.com/watch?v=PSBL9OVhJjQ
+2017-11-22T17:34:17+00:00	Advanced Innovations a SICUREZZA	https://www.youtube.com/watch?v=2zB82Lh99hM
+2017-05-17T07:05:48+00:00	UNIVIEW - Modalità corridoio	https://www.youtube.com/watch?v=h7plTHUS4PQ
+2017-05-16T16:14:47+00:00	UNIVIEW - Laser IR a una distanza di 250m	https://www.youtube.com/watch?v=shw0l8gvJhM
+2017-05-16T16:13:19+00:00	UNIVIEW - Funzione SMART rilevazione del viso	https://www.youtube.com/watch?v=TYVwj9jzBgU
+2017-05-16T16:11:38+00:00	UNIVIEW - Funzione SMART intrusione	https://www.youtube.com/watch?v=2cCg1e8qaoQ
+2017-05-16T16:10:26+00:00	UNIVIEW - Funzione SMART conteggio persone	https://www.youtube.com/watch?v=lORaOfMgcjM
+2017-05-16T16:07:12+00:00	UNIVIEW - Funzione SMART IR	https://www.youtube.com/watch?v=WopV0zSElnU
+2017-05-16T16:04:10+00:00	UNIVIEW - Telecamera uniview con funzione starlight	https://www.youtube.com/watch?v=ym418qSLGO4
+2017-05-16T16:00:18+00:00	UNIVIEW - funzione true WDR	https://www.youtube.com/watch?v=zIHNsi8w1uQ
+2017-05-16T15:58:31+00:00	UNIVIEW - PIR e luce bianca su telecamera IPC262EFW DUZ	https://www.youtube.com/watch?v=ejvnM2aQTnM
+2017-05-16T15:54:44+00:00	UNIVIEW - Telecamera con PIR e LED luce bianca	https://www.youtube.com/watch?v=kj4Qeke_uSs
+2017-05-16T15:52:16+00:00	UNIVIEW - Funzione SMART auto tracking	https://www.youtube.com/watch?v=eMvzzvbCzUI

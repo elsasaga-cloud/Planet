@@ -2,44 +2,50 @@
  "code": "SB-946",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "在线（mir-sb.com，快照 2026-10-21）",
- "summary": "俄罗斯 MIR-SB.com（IP 视频监控网店：IP 摄像机、NVR、电源、PoE 交换机（SVN-POE812 自有标 SVN 系列）、PoE 注入器/分离器/延长器；表内「商业 PoE，洪瑞（HRUI）的」）；群发 14 次无回复。",
- "type": "俄罗斯 CCTV 网店（SVN 自有标，PoE 现由 HRUI 供货 → Q-33 口径）",
+ "website_status": "在线（intrising.com.tw，快照 2026-10-21）",
+ "summary": "台湾 Intrising Networks（工业 L3 交换机、IEC 61850-3 变电站交换机、PTP 时间服务、AV-over-IP、ISO 9001；型号 DAS-8GHP-4X / DBS-16GP-4X / DCS-8GP-2GS / DTS-8GP-4X；表内「工业控制、工业 FS 自己的 logo，功能复杂、接口多」；KP Ken Lee（kenlee@））；群发 19 次无回复。",
+ "type": "台湾工业交换机品牌商（按「台湾厂商口径」只谈 OEM/ODM 二供）",
  "size": "",
- "brands_seen": [
-  "HRUI"
- ],
+ "brands_seen": [],
  "evidence": [
   {
    "kind": "官网快照",
-   "claim": "官网标题：Интернет магазин IP видеонаблюдения MIR-SB.com；品类词 安防监控（CCTV / 门禁） / 无线 / WiFi / 网络交换 / PoE",
-   "quote": "В нашем интернет-магазине систем видеонаблюдения Вы можете купить по выгодным ценам IP камеры,IP видеорегистраторы, блоки питания, POE коммутаторы, собрать свой комплект IP видеонаблюдения или же купить сразу готовый.",
-   "url": "https://mir-sb.com/",
+   "claim": "官网标题：Intrising Networks；品类词 工业自动化 / OT 网络 / 无线 / WiFi / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "Smart & Simple Connectivity - Homepage of Intrising Networks",
+   "url": "https://www.intrising.com.tw/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
    "claim": "表内兴趣/备注",
-   "quote": "商业POE 洪瑞的",
+   "quote": "工业控制 工业FS 自己的logo 功能比较复杂一些 接口多",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   },
   {
    "kind": "官网快照",
-   "claim": "MIR-SB 网店",
-   "quote": "В нашем интернет-магазине систем видеонаблюдения Вы можете купить по выгодным ценам IP камеры,IP видеорегистраторы, блоки питания, POE коммутаторы",
-   "url": "https://mir-sb.com/",
+   "claim": "Intrising：IEC 61850-3 变电站交换机、工业 L3、PTP",
+   "quote": "IEC 61850-3 ; Protecting the Substation Starts with IEC 61850-3-Certified Switches ; Industrial L3 Switches ; Intrising PTP",
+   "url": "https://www.intrising.com.tw/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "商业 PoE 洪瑞的",
-   "quote": "商业POE 洪瑞的",
+   "claim": "工业 FS 自己的 logo，功能复杂接口多",
+   "quote": "工业控制 工业FS 自己的logo；功能比较复杂一些 接口多",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Ken Lee",
+   "title": "（表内联系人）",
+   "email": "kenlee@intrising.com.tw",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
@@ -48,89 +54,111 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "俄罗斯",
-  "other": "官网 mir-sb.com，语言 ru，快照状态 ok；角色判定来源：官网文案"
+  "hq": "台湾",
+  "other": "官网 intrising.com.tw，语言 en，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "IP 视频监控网店（自有标 SVN）"
+  "工业 L2/L3 交换机（IEC 61850-3、PTP）",
+  "AV-over-IP / 配件"
  ],
  "channels": {
-  "role": "俄罗斯 CCTV 网店（SVN 自有标，PoE 现由 HRUI 供货 → Q-33 口径）",
-  "region": "俄罗斯",
-  "contact": "mail@mir-sb.com"
+  "role": "台湾工业交换机品牌商（按「台湾厂商口径」只谈 OEM/ODM 二供）",
+  "region": "台湾",
+  "contact": "kenlee@intrising.com.tw"
  },
  "signals": [
-  "页面 /poe-kommutator-svn-poe812、/poe-101-cplitter-ieee-802-3af-at、/1-portovyj-poe-inzhektor-svn-poe48、/poe-005-udlinitel-poe-po-vitoj-pare；站内 SVN-500BQ40MPOE",
-  "官网：купить … IP камеры, IP видеорегистраторы, блоки питания, POE коммутаторы；kw poe 75"
+  "官网栏目：IEC 61850-3 / Industrial L3 Switches / Intrising PTP / ISO 9001",
+  "站内型号 DAS-8GHP-4X / DBS-16GP-4X / DCS-8GP-2GS / DTS-8GP-4X",
+  "KP：Ken Lee（kenlee@，表内）"
  ],
  "risks": [
-  "现供 HRUI（Saga 供应商）：按 Q-33 口径只推 SmartByte 差异化线",
-  "俄罗斯：结算/物流受限，非主攻区（T5）；14 次无回复，仅 mail@"
+  "台湾品牌商：自有 ODM 体系，仅二供/补缺；19 次无回复",
+  "IEC 61850-3 变电站 / PTP 线：Saga 无认证且守界，不报",
+  "非主攻区（T5）"
  ],
  "saga_fit": {
-  "p1": "STC-28DGGPM",
+  "p1": "STI-288GPM",
   "tier": 30,
-  "why": "现 PoE 由 HRUI 供货 → 按 Q-33 口径只推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 SVN 标作管理型上位"
+  "why": "自有 DCS-8GP-2GS（8 PoE + 2 SFP）→ 二供位工业管理 STI-288GPM（$85.5 @30%）；8 PoE + 4×10G（DAS-8GHP-4X）→ STI-488XGGPM（$178.7）；IEC 61850-3 变电站线不报（守界/无认证）"
  },
- "email_hook": "For the SVN-labelled PoE range (SVN-POE812 and up), we can add a Marvell-based 8-PoE + 2 SFP L2+ managed model under your label from small lots, CE/RoHS, EXW USD — would a managed step-up sell to your multi-camera kit buyers?",
+ "email_hook": "Ken, for the entry models of your industrial line (8-PoE + 2 SFP, 8-PoE + 4×10G), we can be a second source on a Marvell platform from small lots, leaving your IEC 61850-3 and PTP models untouched — is a lower-cost tier something you would consider dual-sourcing?",
  "products_seen": [
   {
-   "brand": "SVN（自有标）",
-   "model": "SVN-POE812",
-   "spec": "8 口 PoE + 2 上联（HRUI 供货）",
-   "saga": "STC-28DGGPM（Q-33 口径：只推 SmartByte 线）",
-   "url": "https://mir-sb.com/poe-kommutator-svn-poe812",
+   "brand": "Intrising（自有）",
+   "model": "DCS-8GP-2GS",
+   "spec": "工业 8 PoE + 2 SFP",
+   "saga": "STI-288GPM",
+   "url": "https://www.intrising.com.tw/",
+   "date": "2026-10-21"
+  },
+  {
+   "brand": "Intrising（自有）",
+   "model": "DAS-8GHP-4X",
+   "spec": "工业 8 PoE + 4×10G",
+   "saga": "STI-488XGGPM",
+   "url": "https://www.intrising.com.tw/",
    "date": "2026-10-21"
   }
  ],
  "mail_review": {
   "binding": {
-   "level": "未触达（A/S 邮箱 20 封 2024→2026，1 次记录打开，0 回；收件 mail@mir-sb.com；主题多为「Industrial PoE Switch、10G Enterprise SFP Switch」；Elsa 箱：`to:mir-sb.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 20 / 来 0）（第 74 批(l)））",
-   "type": "俄罗斯 CCTV 网店（SVN 自有标，PoE 现由 HRUI 供货 → Q-33 口径）",
+   "level": "未触达（A/S 邮箱 22 封 2024→2026，1 次记录打开，0 回；收件 kenlee@intrising.com.tw；主题多为「Managed Optical Bypass Switch、16 Port Ethernet Switch」；Elsa 箱：`to:intrising.com.tw` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 22 / 来 0）（第 74 批(n)））",
+   "type": "台湾工业交换机品牌商（按「台湾厂商口径」只谈 OEM/ODM 二供）",
    "sieve": "1~2（1 次打开）",
-   "stop": "只打通用邮箱，无记录打开；Q-33 供应商渠道客户",
-   "revive": "不动（Q-33）",
-   "lane": "RU 次级（Simon 2026-08 点名）",
-   "cadence": "不动",
-   "evidence": "gmail_digest：out 20，Opened 标签 1（Simon 群发追踪）；用户表：「商业POE 洪瑞的」；研究档 risks：现供 HRUI（Saga 供应商）：按 Q-33 口径只推 SmartByte 差异化线"
+   "stop": "22 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+   "lane": "台湾 非主攻",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 22，Opened 标签 1（Simon 群发追踪）；用户表：「工业控制 工业FS 自己的logo 功能比较复杂一些 接口多」；研究档 risks：台湾品牌商：自有 ODM 体系，仅二供/补缺；19 次无回复"
   },
-  "situation": "俄罗斯 MIR-SB.com（IP 视频监控网店：IP 摄像机、NVR、电源、PoE 交换机（SVN-POE812 自有标 SVN 系列）、PoE 注入器/分离器/延长器；表内「商业 PoE，洪瑞（HRUI）的」）；群发 14 次无回复。",
-  "need": "现 PoE 由 HRUI 供货 → 按 Q-33 口径只推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 SVN 标作管理型上位",
-  "breakpoint": "现供 HRUI（Saga 供应商）：按 Q-33 口径只推 SmartByte 差异化线",
+  "situation": "台湾 Intrising Networks（工业 L3 交换机、IEC 61850-3 变电站交换机、PTP 时间服务、AV-over-IP、ISO 9001；型号 DAS-8GHP-4X / DBS-16GP-4X / DCS-8GP-2GS / DTS-8GP-4X；表内「工业控制、工业 FS 自己的 logo，功能复杂、接口多」；KP Ken Lee（kenlee@））；群发 19 次无回复。",
+  "need": "自有 DCS-8GP-2GS（8 PoE + 2 SFP）→ 二供位工业管理 STI-288GPM（$85.5 @30%）；8 PoE + 4×10G（DAS-8GHP-4X）→ STI-488XGGPM（$178.7）；IEC 61850-3 变电站线不报（守界/无认证）",
+  "breakpoint": "台湾品牌商：自有 ODM 体系，仅二供/补缺；19 次无回复",
   "saga_now": {
-   "p1": "STC-28DGGPM",
+   "p1": "STI-288GPM",
    "tier": 30,
-   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-10-14 $300（48 Port PoE Managed Switch）、2024-11-11 $65（10G Media Converter）；群发里他已看到的价（续）：2026-08-24 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-07-22 $240（24 Port Fiber Switch）、2025-10-02 $280（10G Enterprise SFP Switch）",
-   "why": "现 PoE 由 HRUI 供货 → 按 Q-33 口径只推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 SVN 标作管理型上位。已打开的主题（1/20 封有打开记录）：「90W PoE Managed Switch」(2025-08-28) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
+   "price": "换人再触锚价 STI-288GPM $85.5 EXW（主表档位（PDF 上限 $88；SA-016 2025-07 实报 $72 为分销量价）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-22 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2024-06-24 $65（10g fiber media converter）、2025-01-07 $240（24 Port Fiber Switch）、2025-10-23 $280（10G Enterprise SFP Switch）",
+   "why": "自有 DCS-8GP-2GS（8 PoE + 2 SFP）→ 二供位工业管理 STI-288GPM（$85.5 @30%）；8 PoE + 4×10G（DAS-8GHP-4X）→ STI-488XGGPM（$178.7）；IEC 61850-3 变电站线不报（守界/无认证）。已打开的主题（1/22 封有打开记录）：「24 Port Fiber Switch」(2025-01-07) → 读者兴趣偏「MC/光电」；与 P1 同类，继续",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—",
-   "one_question": ""
+   "when": "2027-Q1（换人后）",
+   "channel": "A 邮箱 → 具名 KP",
+   "action": "换收件人再发一封（第 75 批(aj) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
+   "one_question": "Ken, for the entry models of your industrial line (8-PoE + 2 SFP, 8-PoE + 4×10G), we can be a second source on a Marvell platform from small lots, leaving your IEC 61850-3 and PTP models untouched — is a lower-cost tier something you would consider dual-sourcing? Reference: STI-288GPM at $85.5 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
    {
-    "date": "2026-08-24",
+    "date": "2026-09-10",
     "dir": "去",
     "who": "A/S 群发",
-    "quote": "Industrial PoE Switch、10G Enterprise SFP Switch",
-    "why": "20 封 / 1 次打开 / 0 回｜首封 2024-09-06 → 末封 2026-08-24（20 去 / 0 来）",
+    "quote": "Managed Optical Bypass Switch、16 Port Ethernet Switch",
+    "why": "22 封 / 1 次打开 / 0 回｜首封 2024-06-24 → 末封 2026-09-10（22 去 / 0 来）",
     "k": "gmail_digest"
    },
    {
     "date": "2026-10-21",
     "dir": "用户表",
     "who": "Simon",
-    "quote": "商业POE 洪瑞的",
+    "quote": "工业控制 工业FS 自己的logo 功能比较复杂一些 接口多",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-09-10",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "16 Port Industrial PoE Switch",
+    "why": "本日去信真实主题（邮箱索引 a4462c41ccb3079f；信稿开头句引用此封；此前稿内写的「Managed Optical Bypass Switch」是线程列表首题，不是本封）",
+    "k": "a4462c41ccb3079f"
    }
   ],
   "proof_gaps": [],
-  "draft_en": null,
+  "draft_en": {
+   "subject": "A lower-cost tier for the entry models of your industrial line - IEC 61850-3 and PTP untouched",
+   "body": "Hi Ken,\n\nOver the past months you had a few product mails from us - most recently \"16 Port Industrial PoE Switch\" on 10 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the entry models of your industrial line only - the IEC 61850-3 and PTP models stay yours - a second source from small lots, -40 to 75 C, CE/RoHS: DCS-8GP-2GS position - DIN-rail 8 x Gigabit PoE+ + 2 x SFP, L2 managed, Marvell-based - model STI-288GPM - $85.5 USD EXW under your label (MOQ 1, 15-day validity); DAS-8GHP-4X position - 8 x Gigabit PoE+ + 4 x 10G SFP+, L2+ managed with ring redundancy - STI-488XGGPM - $178.8.\n\nOne question: is a lower-cost tier something you would consider dual-sourcing, or does every Intrising unit have to carry the full feature set?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+  },
   "as_of": "2026-10-24"
  }
 }

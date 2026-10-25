@@ -2,37 +2,46 @@
  "code": "SB-873",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "在线（visarcctv.com，快照 2026-10-21）",
- "summary": "立陶宛 viSar / Sareme（visarcctv.com / sareme.lt；自有 VSS 品牌 PoE 交换机 VSS W04POE2（4 FE PoE + 2）、W08POE2G（8 FE + 2 GE）、W08GPOE2（8 GE PoE + 2）、工业 PoE 品类；对讲监视器 VSI；表内「很多不同的外壳，switch / PoE」）；群发 16 次无回复。",
- "type": "波罗的海安防品牌商（自有 VSS 系列 PoE，OEM 采购）",
+ "website_status": "在线（istccorp.com，快照 2026-10-21）",
+ "summary": "美国 ISTC Corp（BDCOM 美洲分销/合作伙伴：触摸 LCD Ultra PoE 交换机 L2-L4、西/葡语页面面向拉美；表内「全线产品」「BDCOM」）；表内 1 次跟进无回复。",
+ "type": "BDCOM 美洲分销商（美国/拉美）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "BDCOM"
+ ],
  "evidence": [
   {
    "kind": "官网快照",
-   "claim": "官网标题：Prekes viSar；品类词 安防监控（CCTV / 门禁） / 无线 / WiFi / 网络交换 / PoE",
-   "quote": "Specialūs pasiūlymai；Nauji produktai；VSI ME1104WD, Pasikalbėjimo sistemos mini monitorius；VSS W04POE2 4*FE PoE+2*FE PoE komutatorius；VSS W08POE2G 8*FE+2GE PoE komutatorius；VSS W08POE2 8*FE+2FE PoE komutatorius",
-   "url": "https://www.visarcctv.com/",
+   "claim": "官网标题：You are being redirected...",
+   "quote": "",
+   "url": "https://istccorp.com/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
    "claim": "表内兴趣/备注",
-   "quote": "很多不同的外壳 switch PoE",
+   "quote": "全线产品",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   },
   {
    "kind": "官网快照",
-   "claim": "viSar 自有 VSS 系列 PoE 交换机",
-   "quote": "VSS W04POE2 4*FE PoE+2*FE PoE komutatorius ; VSS W08POE2G 8*FE+2GE PoE komutatorius ; VSS W08POE2 8*FE+2FE PoE komutatorius",
-   "url": "https://www.visarcctv.com/",
+   "claim": "官网标题：You are being redirected...；品类词 网络交换 / PoE",
+   "quote": "",
+   "url": "https://istccorp.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "ISTC 页面",
+   "quote": "istccorp.com ; /amazing-touch-lcd-ultra-poe-switches-with-advanced-l2-l4-switching-and-security/ ; /es/soluciones-flexibles-e-innovadoras-en-switches-para-redes/",
+   "url": "https://istccorp.com/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "很多不同的外壳 switch PoE",
-   "quote": "很多不同的外壳 switch PoE",
+   "claim": "全线产品 BDCOM",
+   "quote": "全线产品；BDCOM",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
@@ -46,108 +55,78 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "立陶宛",
-  "other": "官网 visarcctv.com，语言 ?，快照状态 ok；角色判定来源：官网文案"
+  "hq": "美国",
+  "other": "官网 istccorp.com，语言 ?，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "安防设备（自有 VSS/VSI 品牌：PoE 交换机 / 对讲）"
+  "网络设备分销（BDCOM，美洲）"
  ],
  "channels": {
-  "role": "波罗的海安防品牌商（自有 VSS 系列 PoE，OEM 采购）",
-  "region": "立陶宛",
-  "contact": "info@sareme.lt、info@visarcctv.com"
+  "role": "BDCOM 美洲分销商（美国/拉美）",
+  "region": "美国",
+  "contact": "marketing@istccorp.com"
  },
  "signals": [
-  "首页：VSS W04POE2 4*FE PoE+2*FE PoE komutatorius；VSS W08POE2G 8*FE+2GE；VSS W08POE2",
-  "栏目 /products/industrial-poe-switches、/products/poe-switches"
+  "页面 /amazing-touch-lcd-ultra-poe-switches-with-advanced-l2-l4-switching-and-security/、/es/soluciones-flexibles-e-innovadoras-en-switches-para-redes/、/specialized-products/",
+  "表内：全线产品；BDCOM"
  ],
  "risks": [
-  "现货源深圳（多外壳）价格基准低",
-  "小国（LT）市场量小；16 次无回复，无具名 KP"
+  "BDCOM 单品牌分销（品牌粘性，供应链已在国内）；1 次无回复，仅 marketing@"
  ],
  "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 30,
-  "why": "自有 VSS-W08GPOE2（8 GE PoE + 2）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 VSS 标；W08POE2G 位 HRUI STC-028GFP（$17.6）；W04POE2 位 HRUI STC-204GP（$20.4）"
+  "p1": "STC-424DGGPM-280W",
+  "tier": 20,
+  "why": "BDCOM 全线分销 → 24 口 PoE+ 4 SFP L2+ STC-424DGGPM-280W（$134.5 @20%）、10G 上联版 STC-424XGGPM-280W（$180）、8 口 STC-28DGGPM（$80.7）作预算位二供"
  },
- "email_hook": "For the VSS PoE switch range (W04POE2 / W08POE2G / W08GPOE2), we can supply the same port layouts under your label from small lots with a choice of housings, plus a Marvell-based gigabit L2+ 8-PoE step-up model — which VSS model do you reorder most often?",
- "products_seen": [
-  {
-   "brand": "viSar VSS（自有）",
-   "model": "VSS-W08GPOE2",
-   "spec": "8 GE PoE + 2 上联",
-   "saga": "STC-28DGGPM",
-   "url": "https://www.visarcctv.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "brand": "viSar VSS（自有）",
-   "model": "VSS-W08POE2G",
-   "spec": "8 FE PoE + 2 GE",
-   "saga": "STC-028GFP（HRUI 列表价 $17.6，非 SmartByte）",
-   "url": "https://www.visarcctv.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "brand": "viSar VSS（自有）",
-   "model": "VSS-W04POE2",
-   "spec": "4 FE PoE + 2 FE",
-   "saga": "STC-204GP（HRUI 列表价 $20.4，千兆）",
-   "url": "https://www.visarcctv.com/",
-   "date": "2026-10-21"
-  }
- ],
+ "email_hook": "Alongside the BDCOM range you distribute across the Americas, we supply neutral-brand Marvell-based 24-PoE + 4 SFP/SFP+ and 8-PoE + 2 SFP L2+ switches from small lots, FCC/CE/RoHS, EXW USD — is there a budget managed-PoE position your Latin American resellers ask for?",
  "mail_review": {
   "binding": {
-   "level": "读而不回（A/S 邮箱 24 封 2024→2026，其中 2 封被打开，0 回；收件 info@sareme.lt, info@visarcctv.com；被打开主题「Industrial PoE Switch、10G L3 Managed Switch」；Elsa 箱：`to:visarcctv.com OR to:sareme.lt` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 24 / 来 0）（第 74 批(k)））",
-   "type": "波罗的海安防品牌商（自有 VSS 系列 PoE，OEM 采购）",
-   "sieve": "2（有人在读，无人回）",
-   "stop": "读而不回 = 内容未命中或没有当下需求",
-   "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
-   "lane": "立陶宛（欧洲全域主攻）",
-   "cadence": "一封；回了再说",
-   "evidence": "gmail_digest：out 24，Opened 标签 2（Simon 群发追踪）；用户表：「很多不同的外壳 switch PoE」；研究档 risks：现货源深圳（多外壳）价格基准低"
+   "level": "未触达（A 邮箱 6 封 2025→2026，无记录打开，0 回；收件 marketing@istccorp.com；主题多为「10G Enterprise SFP Switch、Booster PoE Switch」；Elsa 箱：`to:istccorp.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 6 / 来 0）（第 74 批(h)））",
+   "type": "BDCOM 美洲分销商（美国/拉美）",
+   "sieve": "1（只收到群发）",
+   "stop": "只打通用邮箱，无记录打开",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "US 主攻（四主）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 6；用户表：「全线产品」；研究档 risks：BDCOM 单品牌分销（品牌粘性，供应链已在国内）；1 次无回复，仅 marketing@"
   },
-  "situation": "立陶宛 viSar / Sareme（visarcctv.com / sareme.lt；自有 VSS 品牌 PoE 交换机 VSS W04POE2（4 FE PoE + 2）、W08POE2G（8 FE + 2 GE）、W08GPOE2（8 GE PoE + 2）、工业 PoE 品类；对讲监视器 VSI；表内「很多不同的外壳，switch / PoE」）；群发 16 次无回复。",
-  "need": "自有 VSS-W08GPOE2（8 GE PoE + 2）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 VSS 标；W08POE2G 位 HRUI STC-028GFP（$17.6）；W04POE2 位 HRUI STC-204GP（$20.4）",
-  "breakpoint": "现货源深圳（多外壳）价格基准低",
+  "situation": "美国 ISTC Corp（BDCOM 美洲分销/合作伙伴：触摸 LCD Ultra PoE 交换机 L2-L4、西/葡语页面面向拉美；表内「全线产品」「BDCOM」）；表内 1 次跟进无回复。",
+  "need": "BDCOM 全线分销 → 24 口 PoE+ 4 SFP L2+ STC-424DGGPM-280W（$134.5 @20%）、10G 上联版 STC-424XGGPM-280W（$180）、8 口 STC-28DGGPM（$80.7）作预算位二供",
+  "breakpoint": "BDCOM 单品牌分销（品牌粘性，供应链已在国内）；1 次无回复，仅 marketing@",
   "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 30,
-   "price": "首触锚价 STC-28DGGPM $87.4 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-19 $220（48 port managed switch）、2024-08-15 $65（10G media converter）、2025-01-07 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-09-02 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-03 $280（10G Enterprise SFP Switch）",
-   "why": "自有 VSS-W08GPOE2（8 GE PoE + 2）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 VSS 标；W08POE2G 位 HRUI STC-028GFP（$17.6）；W04POE2 位 HRUI STC-204GP（$20.4）。已打开的主题（2/24 封有打开记录）：「Marvell Industrial Alert System」(2025-05-30)、「16 Port Ethernet Switch」(2025-07-24) → 读者兴趣偏「工业」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-02-13)、Product Link_2026Q3(2026-07-09)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）",
+   "p1": "STC-424DGGPM-280W",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-21 $280（10G Enterprise SFP Switch）（㉕ ②：STC-424XGGPM-280W / STC-448XGGPM 文本价改为群发现价 $180 / $335；第 75 批 2026-10-25）",
+   "why": "BDCOM 全线分销 → 24 口 PoE+ 4 SFP L2+ STC-424DGGPM-280W（$134.5 @20%）、10G 上联版 STC-424XGGPM-280W（$180）、8 口 STC-28DGGPM（$80.7）作预算位二供",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "2026-11",
-   "channel": "A 邮箱 → info@sareme.lt",
-   "action": "短信一问（email_hook）",
-   "one_question": "For the VSS PoE switch range (W04POE2 / W08POE2G / W08GPOE2), we can supply the same port layouts under your label from small lots with a choice of housings, plus a Marvell-based gigabit L2+ 8-PoE step-up model — which VSS model do you reorder most often? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity)."
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Alongside the BDCOM range you distribute across the Americas, we supply neutral-brand Marvell-based 24-PoE + 4 SFP/SFP+ and 8-PoE + 2 SFP L2+ switches from small lots, FCC/CE/RoHS, EXW USD — is there a budget managed-PoE position your Latin American resellers ask for?"
   },
   "facts": [
    {
-    "date": "2026-09-02",
+    "date": "2026-02-09",
     "dir": "去",
-    "who": "A/S 群发",
-    "quote": "Industrial PoE Switch、10G L3 Managed Switch",
-    "why": "24 封 / 2 次打开 / 0 回｜首封 2024-06-26 → 末封 2026-09-02（24 去 / 0 来）",
+    "who": "A 群发",
+    "quote": "10G Enterprise SFP Switch、Booster PoE Switch",
+    "why": "6 封 / 0 次打开 / 0 回｜首封 2025-10-21 → 末封 2026-02-09（6 去 / 0 来）",
     "k": "gmail_digest"
    },
    {
     "date": "2026-10-21",
     "dir": "用户表",
     "who": "Simon",
-    "quote": "很多不同的外壳 switch PoE",
+    "quote": "全线产品",
     "why": "表内备注",
     "k": "用户表"
    }
   ],
   "proof_gaps": [],
-  "draft_en": {
-   "subject": "One question — Industrial PoE Switch",
-   "body": "Hello,\n\nWe have sent you a few mails on \"Industrial PoE Switch\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor the VSS PoE switch range (W04POE2 / W08POE2G / W08GPOE2), we can supply the same port layouts under your label from small lots with a choice of housings, plus a Marvell-based gigabit L2+ 8-PoE step-up model — which VSS model do you reorder most often?\n\nReference price: 8-PoE + 2 × 1G/2.5G SFP L2+ managed switch (Marvell AC5), 120 W (STC-28DGGPM) $87.4 USD EXW, MOQ 1 pc, 15-day validity, 1-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
-  },
+  "draft_en": null,
   "as_of": "2026-10-24"
  }
 }

@@ -11,7 +11,7 @@
  "text": "Hi, Faisal,\nSorry, it is not on our list.\nWe can help source it if this is fine with you.\nThank you.",
  "char_count": "103",
  "attachments": "[]",
- "note": "SB-029 ITE（巴基斯坦，Faisal Javed）：Elsa 2025-04-09 答「没有这款，可代找」",
+ "note": "SB-109 ITE（巴基斯坦，Faisal Javed）：Elsa 2025-04-09 答「没有这款，可代找」",
  "text_source": "text/plain",
  "fetched": "2026-10-24T16:06Z",
  "method": "Arena Gmail connector get_message_text(include_quoted=false)"

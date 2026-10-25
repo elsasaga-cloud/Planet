@@ -1,125 +1,106 @@
 {
  "code": "SB-824",
- "name_official": "",
+ "name_official": "SYNCHCOM (Pvt) Ltd（synchsoft.com.pk，巴基斯坦）",
  "researched_at": "2026-10-21",
- "website_status": "在线（engeniustech.com，快照 2026-10-21）",
- "summary": "美国 EnGenius Technologies（台湾 EnGenius Networks 美国公司：AI 监控、Wi-Fi、交换机、VPN 路由、PDU，云管理 EnGenius Cloud；表内「商业 FS 大口、SFP、PoE 配件」「质量高」）；群发 10 次无回复。",
- "type": "台湾网络品牌美国公司（台湾厂商口径二供）",
+ "website_status": "在线（快照 2026-10-21）",
+ "summary": "巴基斯坦 IT / 网络公司 SYNCHCOM（站内 PoE 词频 19），Muhammad Babar（价格敏感），需求 USB 转千兆 MC（Saga 无）；WA 4 次无实质回复。",
+ "type": "",
  "size": "",
- "brands_seen": [
-  "Ubiquiti"
- ],
+ "brands_seen": [],
  "evidence": [
   {
    "kind": "官网快照",
-   "claim": "官网标题：EnGenius: AI Surveillance | Wi-Fi | Switches | VPN Routers | PDUs；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 数据中心 / 企业 IT / 光纤 / 媒体转换 / 网络交换 / PoE",
-   "quote": "EnGenius WiFi Networks: Delivering best-in-class voice & data solutions that empower mobility, enhance productivity, and embrace simplicity.",
-   "url": "https://www.engeniustech.com/",
+   "claim": "SYNCHCOM PVT LTD；关键词 poe 19",
+   "quote": "Home - SYNCHCOM PVT LTD",
+   "url": "https://synchsoft.com.pk/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "商业FS 大口 SFP PoE配件",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "EnGenius 产品线",
-   "quote": "EnGenius: AI Surveillance | Wi-Fi | Switches | VPN Routers | PDUs ; EnGenius WiFi Networks: Delivering best-in-class voice & data solutions",
-   "url": "https://www.engeniustech.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "商业 FS 大口 SFP PoE 配件；质量高",
-   "quote": "商业FS 大口 SFP PoE配件；质量高",
+   "claim": "USB to 1000M media converter；对价格比较敏感",
+   "quote": "兴趣：USB to 1000M media converter",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Muhammad Babar",
+   "title": "（表内联系人）",
+   "email": "bob@synchsoft.com.pk",
+   "phone": "+92 321 528 0052",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（官网快照 + 表内）"
  },
  "company_facts": {
-  "hq": "美国",
-  "other": "官网 engeniustech.com，语言 en-US，快照状态 ok；角色判定来源：官网文案"
+  "legal_name": "SYNCHCOM (Pvt) Ltd",
+  "founded": "",
+  "hq": "巴基斯坦",
+  "size": "小型",
+  "other": ""
  },
- "business_lines": [
-  "Wi-Fi / 交换机 / 监控 / VPN 路由 / PDU（自有品牌）"
- ],
  "channels": {
-  "role": "台湾网络品牌美国公司（台湾厂商口径二供）",
-  "region": "美国",
-  "contact": "sales@engeniustech.com"
+  "role": "IT 经销（推断）",
+  "region": "巴基斯坦"
  },
- "signals": [
-  "官网：EnGenius: AI Surveillance | Wi-Fi | Switches | VPN Routers | PDUs",
-  "站内型号 EPA5090XBT / EPA5090HBT / EPA5060XBT（PoE 注入器）"
- ],
  "risks": [
-  "台湾品牌（自有 ODM）：白牌切入点弱，仅二供",
-  "云管理生态（EnGenius Cloud）：Saga 不做云管理；10 次无回复，仅 sales@"
+  "需求 USB MC 不在 Saga 线；价格敏感"
  ],
  "saga_fit": {
-  "p1": "STC-424XGGPM-280W",
-  "tier": 30,
-  "why": "台湾品牌自有 ODM 体系 → 仅二供：24 口 PoE+ 4×10G L2+ STC-424XGGPM-280W（$180 @30%）、48 口 STC-448XGGPM；云管理由其固件层，Saga 仅硬件"
+  "p1": null,
+  "tier": 20,
+  "why": "USB 转千兆 MC 不供；无主推型。"
  },
- "email_hook": "For the entry PoE switch tiers in your range, we can be a second source on a Marvell L2+ platform (24-PoE + 4×10G, 48-PoE) from small lots under your label — is a lower-cost dual-sourced SKU something your product team would evaluate?",
+ "email_hook": "（不主动发送）",
  "mail_review": {
   "binding": {
-   "level": "未触达（A/S 邮箱 14 封 2025→2026，无记录打开，0 回；收件 sales@engeniustech.com；主题多为「Managed Optical Bypass Switch、Marvell Industrial Alert System」；Elsa 箱：`to:engeniustech.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 14 / 来 0）（第 74 批(h)））",
-   "type": "台湾网络品牌美国公司（台湾厂商口径二供）",
-   "sieve": "1（只收到群发）",
-   "stop": "只打通用邮箱，无记录打开",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "US 主攻（四主）",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 14；用户表：「商业FS 大口 SFP PoE配件」；研究档 risks：台湾品牌（自有 ODM）：白牌切入点弱，仅二供"
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：USB to 1000M media converter」；Elsa 箱：`to:synchsoft.com.pk` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(n)））",
+   "type": "—",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "不动（非主攻区；J5：有证据再动）；WhatsApp 已加 → 唤醒走 WhatsApp 一句话，不走邮件",
+   "lane": "巴基斯坦 非主攻",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 0；用户表：「兴趣：USB to 1000M media converter」；研究档 risks：需求 USB MC 不在 Saga 线；价格敏感"
   },
-  "situation": "美国 EnGenius Technologies（台湾 EnGenius Networks 美国公司：AI 监控、Wi-Fi、交换机、VPN 路由、PDU，云管理 EnGenius Cloud；表内「商业 FS 大口、SFP、PoE 配件」「质量高」）；群发 10 次无回复。",
-  "need": "台湾品牌自有 ODM 体系 → 仅二供：24 口 PoE+ 4×10G L2+ STC-424XGGPM-280W（$180 @30%）、48 口 STC-448XGGPM；云管理由其固件层，Saga 仅硬件",
-  "breakpoint": "台湾品牌（自有 ODM）：白牌切入点弱，仅二供",
+  "situation": "巴基斯坦 IT / 网络公司 SYNCHCOM（站内 PoE 词频 19），Muhammad Babar（价格敏感），需求 USB 转千兆 MC（Saga 无）；WA 4 次无实质回复。",
+  "need": "USB 转千兆 MC 不供；无主推型。",
+  "breakpoint": "需求 USB MC 不在 Saga 线；价格敏感",
   "saga_now": {
-   "p1": "STC-424XGGPM-280W",
-   "tier": 30,
-   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-09-29 $280（10G Enterprise SFP Switch）（㉕ ②：STC-424XGGPM-280W / STC-448XGGPM 文本价改为群发现价 $180 / $335；第 75 批 2026-10-25）",
-   "why": "台湾品牌自有 ODM 体系 → 仅二供：24 口 PoE+ 4×10G L2+ STC-424XGGPM-280W（$180 @30%）、48 口 STC-448XGGPM；云管理由其固件层，Saga 仅硬件",
+   "p1": "—",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "USB 转千兆 MC 不供；无主推型。",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开",
-   "one_question": "For the entry PoE switch tiers in your range, we can be a second source on a Marvell L2+ platform (24-PoE + 4×10G, 48-PoE) from small lots under your label — is a lower-cost dual-sourced SKU something your product team would evaluate?"
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
   },
   "facts": [
-   {
-    "date": "2026-02-10",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "Managed Optical Bypass Switch、Marvell Industrial Alert System",
-    "why": "14 封 / 0 次打开 / 0 回｜首封 2025-01-17 → 末封 2026-02-10（14 去 / 0 来）",
-    "k": "gmail_digest"
-   },
    {
     "date": "2026-10-21",
     "dir": "用户表",
     "who": "Simon",
-    "quote": "商业FS 大口 SFP PoE配件",
+    "quote": "兴趣：USB to 1000M media converter",
     "why": "表内备注",
     "k": "用户表"
    }
   ],
-  "proof_gaps": [],
+  "proof_gaps": [
+   "无邮件往来",
+   "用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+  ],
   "draft_en": null,
   "as_of": "2026-10-24"
  }

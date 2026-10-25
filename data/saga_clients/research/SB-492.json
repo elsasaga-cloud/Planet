@@ -1,120 +1,132 @@
 {
  "code": "SB-492",
- "name_official": "Charter Controls Ltd",
+ "name_official": "Sistel Networking (SISTEL srl)",
  "researched_at": "2026-10-21",
- "website_status": "在线（charter-controls.com，快照 2026-10-21，en-GB）",
- "summary": "英国东萨塞克斯工业控制与自动化元器件分销商（继电器、PLC、按钮、传感等），**明确备货 SmartByte 工业非管理交换机**（5/8/16 口 PoE 与非 PoE，管理型可订），品牌页列 Smartbyte；表内来源为 Simon 的「同行/Smartbyte」名单（「有 Smartbyte 的」）。已是 SmartByte 原厂（或其英国进口商）客户 → 渠道冲突待裁定（Q-33）。",
+ "website_status": "在线（sistel-networking.it；并档 Planet 渠道档案 PB-015）",
+ "summary": "诺瓦拉省的小型网络方案商，给安装商做布线+机柜+PLANET 工业交换机的整包。类型：集成商/方案商（布线/机柜/UPS/工业交换机，面向专业安装商与 IT 经理；SISTEL srl 内部事业部，资本 €10k）。信号：官网 PLANET 工业交换机专页（Industrial Ethernet Solution：IGS-620TF 等）；交换机线为 D-Link + PLANET。Planet 渠道档案 PB-015 评级 B（需求：PLANET 工业专页；触达 info@ 通用；体量小（资本 €10k）；无具名 → B）。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-492，意大利，Saga 群发已推送 4 次无回复）与 Planet 渠道挖掘名单，首触邮件此前未发送。",
  "type": "",
  "size": "",
  "brands_seen": [
-  "SmartByte（！）"
+  "PLANET",
+  "D-Link"
  ],
  "evidence": [
   {
-   "kind": "官网",
-   "claim": "工业以太网交换机品类明确为 Smartbyte，备货 5/8/16 口非管理 PoE/非 PoE",
-   "quote": "Industrial Ethernet Switches from Smartbyte deliver reliable and secure networking… Charter Controls stocks a core range of unmanaged PoE and non-PoE switches in 5-, 8- and 16-port models, with managed and extended port variants available to order",
-   "url": "https://www.charter-controls.com/Catalogue/Networking/Industrial-Ethernet-Switch",
-   "date": "2026-10-21"
+   "kind": "卖方目录",
+   "claim": "PLANET 工业交换机专页",
+   "quote": "Switch industriali Planet, Industrial switch PoE SFP … Planet Switch Industrial Ethernet » Managed - Unmanaged Ethernet Switch 100Mb to 10Gb … Planet PoE Industrial Ethernet Switch »",
+   "url": "https://www.sistel-networking.it/prodotti/switch-industriali-planet/",
+   "date": "2026-10-19"
   },
   {
-   "kind": "官网",
-   "claim": "博客专文推 Smartbyte 非管理交换机（CE/FCC/RoHS/CCC）",
-   "quote": "Smartbyte's unmanaged range is engineered for industrial environments… Certified to CE/FCC/RoHS/CCC standards",
-   "url": "https://www.charter-controls.com/Blog/Product-Categories/Networking/Smartbyte-Unmanaged-Ethernet-Switches",
-   "date": "2026-10-21"
+   "kind": "公司自述",
+   "claim": "定位与客户：专业安装商与 IT 经理",
+   "quote": "Siamo il partner di fiducia per Installatori Professionali e IT Manager … Consulenza di rete … Materiale di rete … Fibra ottica",
+   "url": "https://www.sistel-networking.it/prodotti/planet-switch/",
+   "date": "2026-10-19"
   },
   {
-   "kind": "官网快照",
-   "claim": "品牌列表含 Smartbyte；地址 Drury Lane, Ponswood（St Leonards-on-Sea）；电话 01424 850660",
-   "quote": "…Shenle Corporation Ltd Smartbyte Taiwan Meters Plant Co Ltd Unipower Veichi Wecon… Contact Us 01424 850660… Plot G Drury Lane, Ponswood",
-   "url": "https://www.charter-controls.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "自有库存码 OC-7N1016 / OC-7N1008 / OC-7N1005（16/8/5 口 10/100 非管理，9-56Vac/dc 双电源）",
-   "quote": "16-Port Unmanaged Ethernet Switch, Dual AC/DC Input OC-7N1016… 8-Port… OC-7N1008",
-   "url": "https://www.charter-controls.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "来源：Clients/A/同行/Smartbyte.xlsx 第 19 行，备注「有Smartbyte的」",
-   "quote": "有Smartbyte的",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户裁定",
-   "claim": "SmartByte 经销名单客户不碰（潜在渠道冲突）",
-   "quote": "不碰 标记一下 没必要去跟：会有潜在冲突的",
-   "url": "（对话全记录 T27-U5）",
-   "date": "2026-10-21"
+   "kind": "公司自述",
+   "claim": "SISTEL srl 内部事业部；资本 €10,000",
+   "quote": "Sistel Networking è la divisione interna della Società SISTEL srl … Cap. Sociale € 10.000,00",
+   "url": "https://www.sistel-networking.it/prodotti/industrial-ethernet-solution/",
+   "date": "2026-10-19"
   }
  ],
- "kp": [
-  {
-   "name": "（销售/采购）",
-   "title": "enquiries@ 通用邮箱",
-   "email": "enquiries@charter-controls.com",
-   "phone": "+44 1424 850660",
-   "source": "https://www.charter-controls.com/"
-  }
- ],
- "grade_override": "C",
- "override_reason": "Q-33 裁定（Simon 2026-10-21）：SmartByte 经销名单客户，潜在渠道冲突，不碰；c_sub=渠道冲突（Q-33 不碰）",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ Q-33 裁定（Simon 2026-10-21）：不碰、标记、不跟进。",
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照品牌识别：在售 SmartByte → Q-33 渠道冲突）"
+  "level": "B 级加厚 v1（并档 Planet 渠道档案 PB-015，W 批次调研 2026-10-19/20）"
  },
  "company_facts": {
-  "legal_name": "Charter Controls Ltd",
-  "founded": "（待核）",
-  "hq": "Plot G, Drury Lane, Ponswood Industrial Estate, St Leonards-on-Sea, East Sussex, UK",
-  "size": "中小型分销商（待核）",
-  "other": "工业控制元器件电商型分销；品牌 40+"
+  "legal_name": "Sistel Networking (SISTEL srl)",
+  "founded": "",
+  "hq": "Suno (NO), 意大利",
+  "size": "",
+  "other": "Planet 渠道档案 PB-015（2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json）；自有品牌：否；最大未知：年台数；决策人（SISTEL srl 业主）"
  },
  "business_lines": [
-  "工业控制与自动化元器件分销（继电器、PLC、HMI、传感、电源）",
-  "工业以太网交换机（SmartByte）"
+  "集成商/方案商（布线/机柜/UPS/工业交换机，面向专业安装商与 IT 经理；SISTEL srl 内部事业部，资本 €10k）"
  ],
  "products_seen": [
   {
-   "brand": "SmartByte",
-   "model": "5/8/16 口工业非管理（PoE / 非 PoE）",
-   "spec": "DIN 导轨，12–57 V DC，-40~75 ℃",
-   "saga": "= Saga STI-050GE / STI-054GP / STI-080GE 同厂同款",
-   "url": "https://www.charter-controls.com/Catalogue/Networking/Industrial-Ethernet-Switch",
-   "date": "2026-10-21"
+   "brand": "PLANET",
+   "model": "IGS-620TF",
+   "spec": "工业 4×GE + 2 SFP 非管理",
+   "saga": "STI-240GE",
+   "url": "https://sistel-networking.it",
+   "date": "2026-10-19"
   },
   {
-   "brand": "（自有码）",
-   "model": "OC-7N1005 / 1008 / 1016",
-   "spec": "5/8/16 口 10/100 非管理，9–56 Vac/dc 双输入",
-   "saga": "Saga 无百兆工业 AC 输入款（待核是否 SmartByte 代工）",
-   "url": "https://www.charter-controls.com/",
-   "date": "2026-10-21"
+   "brand": "PLANET",
+   "model": "IGS-10020HPT",
+   "spec": "工业 8 PoE + 2 SFP",
+   "saga": "STI-288DGGPM",
+   "url": "https://sistel-networking.it",
+   "date": "2026-10-19"
   }
  ],
  "channels": {
-  "role": "英国工业元器件分销商（在售 SmartByte）",
-  "region": "英国"
+  "role": "集成商/方案商（布线/机柜/UPS/工业交换机，面向专业安装商与 IT 经理；SISTEL srl 内部事业部，资本 €10k）",
+  "region": "意大利"
  },
  "signals": [
-  "已在卖 SmartByte 原厂工业交换机 → 对产品认可",
-  "管理型「可订」= 目前不备管理型库存",
-  "Q-33 裁定：不碰（2026-10-21）"
+  "小型方案商，PLANET 工业线是其主推；安装商客户需要 DIN PoE"
  ],
  "risks": [
-  "⛔ **Q-33 裁定（Simon 2026-10-21）：不碰**——SmartByte 经销名单客户，潜在渠道冲突；不主动发送、不跟进，仅留档防重复开发",
-  "若裁定可触达，仅以 HRUI 商用 PoE / Hohunet 等 SmartByte 不覆盖的补充线切入"
+  "年台数；决策人（SISTEL srl 业主）",
+  "Planet 首触邮件未发送（Elsa 账号待定）",
+  "Saga 群发已推送 4 次无回复 → 改用具名收件人与新钩子（勿再用群发模板）"
  ],
  "saga_fit": {
-  "p1": "STI-050GE",
-  "tier": 20,
-  "why": "其在售款即 SmartByte 5 口工业机（= Saga STI-050GE）；无价格优势（多一层），仅在 Q-33 裁定允许后以补充线触达。"
+  "p1": "STI-288DGGPM",
+  "tier": 25,
+  "why": "其 PLANET 工业专页主打 DIN 8 口类；8×GE PoE+ + 2 SFP 入门；方案/集成型 → 25%（沿用 Planet 档案 PB-015）；需求："
  },
- "email_hook": "（⛔ 不发送：Q-33 裁定不碰，SmartByte 经销名单客户）"
+ "email_hook": "Sistel Networking builds its industrial Ethernet offer around PLANET DIN-rail switches for installers, so a second source in the same form factor protects your delivery dates. Which DIN-rail PoE size do your installers specify most, 8 PoE + 2 SFP or the 4 SFP version?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 15 封 2025→2026，1 次记录打开，0 回；收件 info@sistel-networking.it；主题多为「Mini Industrial PoE Switch、16 Port Ethernet Switch」；Elsa 箱：`to:sistel-networking.it` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 15 / 来 0）（第 74 批(j)））",
+   "type": "—",
+   "sieve": "1~2（1 次打开）",
+   "stop": "只打通用邮箱，无记录打开；Q-33 供应商渠道客户",
+   "revive": "不动（Q-33）",
+   "lane": "意大利（欧洲全域主攻）",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 15，Opened 标签 1（Simon 群发追踪）；研究档 risks：年台数；决策人（SISTEL srl 业主）"
+  },
+  "situation": "诺瓦拉省的小型网络方案商，给安装商做布线+机柜+PLANET 工业交换机的整包。类型：集成商/方案商（布线/机柜/UPS/工业交换机，面向专业安装商与 IT 经理；SISTEL srl 内部事业部，资本 €10k）。信号：官网 PLANET 工业交换机专页（Industrial Ethernet Solution：IGS-620TF 等）；交换机线为 D-Link + PLANET。Planet 渠道档案 PB-015 评级 B（需求：PLANET 工业专页；触达 info@ 通用；体量小（资本 €10k）；无具名 → B）。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-492，意大利，Saga 群发已推送 4 次无回复）与 Planet 渠道挖掘名单，首触邮件此前未发送。",
+  "need": "其 PLANET 工业专页主打 DIN 8 口类；8×GE PoE+ + 2 SFP 入门；方案/集成型 → 25%（沿用 Planet 档案 PB-015）；需求：",
+  "breakpoint": "年台数；决策人（SISTEL srl 业主）",
+  "saga_now": {
+   "p1": "STI-288DGGPM",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-09-23 $280（10G Enterprise SFP Switch）",
+   "why": "其 PLANET 工业专页主打 DIN 8 口类；8×GE PoE+ + 2 SFP 入门；方案/集成型 → 25%（沿用 Planet 档案 PB-015）；需求：。已打开的主题（1/15 封有打开记录）：「16 Port Ethernet Switch」(2025-07-17) → 读者兴趣主题类别不明（看原主题）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026-10-07",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "Mini Industrial PoE Switch、16 Port Ethernet Switch",
+    "why": "15 封 / 1 次打开 / 0 回｜首封 2025-06-20 → 末封 2026-10-07（15 去 / 0 来）",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

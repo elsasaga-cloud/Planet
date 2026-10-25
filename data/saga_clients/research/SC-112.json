@@ -1,0 +1,73 @@
+{
+ "code": "SC-112",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（dektron.gr，快照 2026-10-21）",
+ "summary": "希腊 Dektron Ltd（广播/视频设备网店「Shoot more, Pay less」；表内「2 对 HD-SDI」；KP Dimitrios Fragkoulis（CEO）；yahoo 邮箱 + info@）；表内 7 次跟进无回复。",
+ "type": "广播视频设备商（HD-SDI 需求，品类不符）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Dektron.gr | Cooporate website | Page CloudFW",
+   "quote": "Shoot more, Pay less.；Σύντομος Χαιρετισμός；Πελατες",
+   "url": "https://dektron.gr/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "2对HD-SDI",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Dektron 定位",
+   "quote": "Dektron.gr | Cooporate website ; Shoot more, Pay less.",
+   "url": "https://dektron.gr/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "2 对 HD-SDI",
+   "quote": "2对HD-SDI",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "品类不符（HD-SDI/广播视频）；c_sub=品类不符",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "希腊",
+  "other": "官网 dektron.gr，语言 en-US，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "广播 / 视频设备网店（希腊）"
+ ],
+ "channels": {
+  "role": "广播视频设备商（HD-SDI 需求，品类不符）",
+  "region": "希腊",
+  "contact": "laser379@yahoo.com、info@dektron.gr"
+ },
+ "signals": [
+  "官网：Dektron.gr | Cooporate website ; Shoot more, Pay less.；站内 WASP3D-SWIT",
+  "表内：2 对 HD-SDI；KP Demis / Dimitrios Fragkoulis CEO"
+ ],
+ "risks": [
+  "品类不符：HD-SDI/广播视频设备（Saga 不供）；7 次无回复；主联系邮箱为 yahoo"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 20,
+  "why": "需求 HD-SDI 延长器（Saga 不供）、广播视频品类 → 改 C"
+ },
+ "email_hook": "（不发送：品类不符）"
+}

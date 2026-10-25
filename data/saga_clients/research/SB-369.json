@@ -2,52 +2,42 @@
  "code": "SB-369",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "在线（securasound.co.uk，快照 2026-10-21）",
- "summary": "英国 Securasound Ltd（面向安装商的 CCTV、门禁、门口对讲（2 线「Soul」套件）分销商，医疗/教育/住宅板块；表内「主要是 CCTV 类产品，有商业 PoE ONV 的」「可以多跟进一下」；KP Jason Wainwright（CEO））；群发 16 次无回复。",
- "type": "安防分销商（英国，PoE 现 ONV）",
+ "website_status": "在线（wieland-electric.com，快照 2026-10-21）",
+ "summary": "德国 Wieland Electric（电气连接技术先驱：工业与楼宇可插拔安装技术、机械制造、风电、园艺；自有标工业 FS（wienet 系列）/ SFP / 配件，「有人卖他们的」；表内「工业 FS 自己的 logo SFP 周边产品配件」「可以着重跟一下」）；群发 17 次无回复。",
+ "type": "德国电气连接技术制造商（自有标工业 FS，OEM 采购；体量大）",
  "size": "",
- "brands_seen": [
-  "ONV"
- ],
+ "brands_seen": [],
  "evidence": [
   {
    "kind": "官网快照",
-   "claim": "官网标题：Welcome to Securasound | Securasound Limited；品类词 安防监控（CCTV / 门禁） / 无线 / WiFi / 网络交换 / PoE",
-   "quote": "Securasound Ltd；Deal of The Week；“Soul” video kit 2-wire technology, 7\" Handsfree Monitor；Sectors；Healthcare；Education",
-   "url": "https://securasound.co.uk/",
+   "claim": "官网标题：Wieland Electric: Pioneer for electrical connection technology；品类词 工业自动化 / OT 网络 / 布线 / 线缆 / 网络交换 / PoE",
+   "quote": "Wieland Electric » safe solutions for industrial & functional buildings ✓ electrical connection technology & pluggable installation technology ► Discover now!",
+   "url": "https://www.wieland-electric.com/en/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
    "claim": "表内兴趣/备注",
-   "quote": "主要是CCTV类产品 有商业PoE ONV的",
+   "quote": "工业FS 自己的logo SFP 周边产品 配件 有人卖他们的",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   },
   {
    "kind": "官网快照",
-   "claim": "Securasound 定位",
-   "quote": "Welcome to Securasound | Securasound Limited ; “Soul” video kit 2-wire technology ; Sectors ; Healthcare ; Education ; Domestic",
-   "url": "https://securasound.co.uk/",
+   "claim": "Wieland Electric 定位",
+   "quote": "Wieland Electric: Pioneer for electrical connection technology ; safe solutions for industrial & functional buildings ✓ electrical connection technology & pluggable installation technology",
+   "url": "https://www.wieland-electric.com/en/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "商业 PoE ONV 的",
-   "quote": "主要是CCTV类产品 有商业PoE ONV的；可以多跟进一下",
+   "claim": "工业 FS 自己的 logo；着重跟",
+   "quote": "工业FS 自己的logo SFP 周边产品 配件 有人卖他们的；可以着重跟一下",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
- "kp": [
-  {
-   "name": "Jason Wainwright",
-   "title": "CEO",
-   "email": "jason@securasound.co.uk",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
+ "kp": [],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
@@ -56,94 +46,91 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "英国",
-  "other": "官网 securasound.co.uk，语言 en，快照状态 ok；角色判定来源：用户表"
+  "hq": "德国",
+  "other": "官网 wieland-electric.com，语言 en，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "CCTV / 门禁 / 门口对讲分销（英国）"
+  "电气连接技术 / 可插拔安装技术",
+  "自有标工业以太网交换机（wienet）"
  ],
  "channels": {
-  "role": "安防分销商（英国，PoE 现 ONV）",
-  "region": "英国",
-  "contact": "info@securasound.co.uk、jason@securasound.co.uk"
+  "role": "德国电气连接技术制造商（自有标工业 FS，OEM 采购；体量大）",
+  "region": "德国",
+  "contact": "info@wieland-electric.com"
  },
  "signals": [
-  "官网：Welcome to Securasound | Securasound Limited ; Deal of The Week ; “Soul” video kit 2-wire technology ; Sectors ; Healthcare ; Education ; Domestic；kw installer 8 / access control 7",
-  "表内：主要是 CCTV 类产品 有商业 PoE ONV 的；KP Jason Wainwright / CEO；可以多跟进一下"
+  "官网：Wieland Electric » safe solutions for industrial & functional buildings ✓ electrical connection technology & pluggable installation technology；行业 Building Technology / Machine Building / Wind Power",
+  "表内：工业 FS 自己的 logo SFP 周边产品 配件 有人卖他们的；可以着重跟一下"
  ],
  "risks": [
-  "现供 ONV（价格基准低）；16 次无回复 → 改向 CEO 具名首触"
+  "体量大（家族企业，数千人）：供应商准入流程长，交换机为补充品类；用户表「可以着重跟一下」→ 保留 B",
+  "17 次无回复，仅 info@，无具名 KP"
  ],
  "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 20,
-  "why": "CCTV 配套 PoE（现 ONV）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）；非管理 4/8 PoE 位 HRUI（列表价，注明）"
+  "p1": "STI-288GPM",
+  "tier": 30,
+  "why": "自有 wienet 标工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ 非管理 STI-080GE（$34.0）作二供；SFP 不供（Q-32）"
  },
- "email_hook": "Jason, alongside the ONV PoE switches you stock for installers, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches from small lots, CE/RoHS/UKCA, EXW USD — which PoE port count do your installer customers order most with CCTV kits?",
+ "email_hook": "For the wienet industrial switch range, we can serve as a second ODM source (DIN-rail 5/8-GE unmanaged, 8-PoE + 2 SFP managed, −40~75 °C, CE/RoHS) from small lots in your housing — is there a port count in the range you currently source from a single supplier?",
  "mail_review": {
   "binding": {
-   "level": "未触达（2 封自动回复；Elsa 箱：`to:.uk` 穷举 34 条（2026-10-25，锚批 Bcc 头已读）未见 securasound.co.uk → Elsa 箱从未发过本户，往来只在 S/A 箱（去 26 / 来 2）（第 74 批(f)））",
-   "type": "英国安防分销（PoE 现 ONV）",
-   "sieve": "0",
-   "stop": "自动回复/机器人，无人工回复",
-   "revive": "不动",
-   "lane": "UK",
-   "cadence": "不动",
-   "evidence": "k=c899d22bff81b409 / ce7192e0322a174b"
+   "level": "未触达（A/S 邮箱 24 封 2024→2026，无记录打开，0 回；收件 info@wieland-electric.com；主题多为「Marvell Industrial Alert System、10G Enterprise SFP Switch」；Elsa 箱：`to:wieland-electric.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 24 / 来 0）（第 74 批(j)））",
+   "type": "德国电气连接技术制造商（自有标工业 FS，OEM 采购；体量大）",
+   "sieve": "1（只收到群发）",
+   "stop": "只打通用邮箱，无记录打开",
+   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+   "lane": "DE 主攻（四主）",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 24；用户表：「工业FS 自己的logo SFP 周边产品 配件 有人卖他们的」；研究档 risks：体量大（家族企业，数千人）：供应商准入流程长，交换机为补充品类；用户表「可以着重跟一下」→ 保留 B"
   },
-  "situation": "来信全部为机器回复；无人读信或无人回信。",
-  "need": "—",
-  "breakpoint": "—",
+  "situation": "德国 Wieland Electric（电气连接技术先驱：工业与楼宇可插拔安装技术、机械制造、风电、园艺；自有标工业 FS（wienet 系列）/ SFP / 配件，「有人卖他们的」；表内「工业 FS 自己的 logo SFP 周边产品配件」「可以着重跟一下」）；群发 17 次无回复。",
+  "need": "自有 wienet 标工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ 非管理 STI-080GE（$34.0）作二供；SFP 不供（Q-32）",
+  "breakpoint": "体量大（家族企业，数千人）：供应商准入流程长，交换机为补充品类；用户表「可以着重跟一下」→ 保留 B",
   "saga_now": {
-   "p1": "—",
-   "tier": 20,
-   "price": "—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-11 $220（48 port managed switch）、2024-08-09 $65（10G media converter）；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-01-29 $240（24 Port Fiber Switch）、2025-09-26 $280（10G Enterprise SFP Switch）",
-   "why": "—",
+   "p1": "STI-288GPM",
+   "tier": 30,
+   "price": "换人再触锚价 STI-288GPM $85.5 EXW（主表档位（PDF 上限 $88；SA-016 2025-07 实报 $72 为分销量价）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-10-01 $65（10G Media Converter）、2024-11-05 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-07 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-22 $280（10G Enterprise SFP Switch）",
+   "why": "自有 wienet 标工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ 非管理 STI-080GE（$34.0）作二供；SFP 不供（Q-32）",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—（第 76 批(c) 2026-10-25：0 事实户补时间线事实）",
-   "one_question": ""
+   "when": "2027-Q1（换人后）",
+   "channel": "A 邮箱 → 具名 KP",
+   "action": "换收件人再发一封（第 75 批(z) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
+   "one_question": "For the wienet industrial switch range, we can serve as a second ODM source (DIN-rail 5/8-GE unmanaged, 8-PoE + 2 SFP managed, −40~75 °C, CE/RoHS) from small lots in your housing — is there a port count in the range you currently source from a single supplier? Reference: STI-288GPM at $85.5 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
    {
-    "date": "2024-07-11",
+    "date": "2026-09-22",
     "dir": "去",
-    "who": "S 箱（Simon）",
-    "quote": "48 port managed switch",
-    "why": "首封去信（邮箱索引；去信共 26 封）",
-    "k": "5e1a1e2bbaf7f062"
+    "who": "A/S 群发",
+    "quote": "Marvell Industrial Alert System、10G Enterprise SFP Switch",
+    "why": "24 封 / 0 次打开 / 0 回｜首封 2024-07-03 → 末封 2026-09-22（24 去 / 0 来）",
+    "k": "gmail_digest"
    },
    {
-    "date": "2026-08-14",
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "工业FS 自己的logo SFP 周边产品 配件 有人卖他们的",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026-09-22",
     "dir": "去",
     "who": "A 箱（Alan）",
-    "quote": "24 Port PoE Managed Switch",
-    "why": "最近一封去信（邮箱索引；去信共 26 封）",
-    "k": "074d336ab7855dba"
-   },
-   {
-    "date": "2023-12-25",
-    "dir": "来",
-    "who": "info@securasound.co.uk",
-    "quote": "Automatic reply: Din Power Supply｜Our Offices are now closed and will reopen at 9am on Tuesday 2nd January 2024 – Any orders placed will not be dispatched",
-    "why": "自动回复/退信（机器，不算人工回复）",
-    "k": "c899d22bff81b409"
-   },
-   {
-    "date": "2024-05-14",
-    "dir": "来",
-    "who": "info@securasound.co.uk",
-    "quote": "Automatic reply: Industrial poe switch｜If you have sent us images of a product to identify we will generally respond to you within 1 working day. Please check ",
-    "why": "自动回复/退信（机器，不算人工回复）",
-    "k": "ce7192e0322a174b"
+    "quote": "16 Port Industrial PoE Switch",
+    "why": "本日去信真实主题（邮箱索引 e6b4b23ea52b6995；信稿开头句引用此封；此前稿内写的「Marvell Industrial Alert System」是线程列表首题，不是本封）",
+    "k": "e6b4b23ea52b6995"
    }
   ],
   "proof_gaps": [],
-  "draft_en": null,
+  "draft_en": {
+   "subject": "The wienet industrial switch range - a second ODM source for the single-sourced port counts",
+   "body": "Hello Wieland Electric team,\n\nOver the past months you had a few product mails from us - most recently \"16 Port Industrial PoE Switch\" on 22 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the wienet industrial switch range, a second ODM source in your housing from small lots, -40 to 75 C, CE/RoHS: DIN-rail 8 x Gigabit unmanaged, 12-58 V DC - model STI-080GE - $32.5 USD EXW (MOQ 1, 15-day validity); 5-port - STI-050GE - $18.5; 8 x Gigabit PoE+ + 2 x SFP, L2 managed, Marvell-based - STI-288GPM - $85.5. SFPs and accessories stay with your current sources.\n\nOne question: is there a port count in the wienet range that you currently source from a single supplier - that is where a second source earns its place?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+  },
   "as_of": "2026-10-24"
  }
 }

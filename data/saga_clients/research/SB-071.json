@@ -1,118 +1,228 @@
 {
- "code": "SB-071",
- "name_official": "ISR Corp / ISR Tech（以色列）",
- "researched_at": "2026-10-21",
- "website_status": "在线（isrcorp.co.il，快照 2026-10-21）",
- "summary": "以色列智慧出行（smart mobility）方案商 ISR Tech，Yukie Novick，需求工业 8 电口 **E-mark**（车载认证，Saga 无）；WA 5 次无实质回复。车载 / 交通类需求 Saga 不覆盖。",
- "type": "",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "ISR Tech smart mobility solutions",
-   "quote": "ISR Tech smart mobility solutions.",
-   "url": "https://isrcorp.co.il/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "工业 8 电口 E-mark",
-   "quote": "兴趣：工业8电口E-mark",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Yukie Novick",
-   "title": "（表内联系人）",
-   "email": "novick@isrcorp.co.il",
-   "phone": "+972 50 850 1400",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照：E-mark 需求不覆盖）"
- },
- "company_facts": {
-  "legal_name": "ISR Corp（待核）",
-  "founded": "",
-  "hq": "Israel",
-  "size": "小型",
-  "other": "智慧出行 / 车载"
- },
- "business_lines": [
-  "智慧出行 / 车载电子方案"
- ],
- "channels": {
-  "role": "方案商（车载）",
-  "region": "以色列"
- },
- "risks": [
-  "E-mark 车载认证 Saga 无 → 不能满足",
-  "WA 无回复"
- ],
- "saga_fit": {
-  "p1": null,
-  "tier": 25,
-  "why": "需求 E-mark 车载工业机（Saga 无认证）；无主推型。"
- },
- "email_hook": "（不主动发送）",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A 邮箱 17 封 2025→2026，无记录打开，0 回；收件 novick@isrcorp.co.il；主题多为「10G Enterprise SFP Switch、Updated Ethernet Switches Links」；Elsa 箱：`to:isrcorp.co.il` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 17 / 来 0）（第 74 批(n)））",
-   "type": "—",
-   "sieve": "1（只收到群发）",
-   "stop": "17 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "保持季度群发到 2027-Q1；无打开即停；WhatsApp 已加 → 唤醒走 WhatsApp 一句话，不走邮件",
-   "lane": "以色列 非主攻",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 17；用户表：「兴趣：工业8电口E-mark」；研究档 risks：E-mark 车载认证 Saga 无 → 不能满足"
-  },
-  "situation": "以色列智慧出行（smart mobility）方案商 ISR Tech，Yukie Novick，需求工业 8 电口 **E-mark**（车载认证，Saga 无）；WA 5 次无实质回复。车载 / 交通类需求 Saga 不覆盖。",
-  "need": "需求 E-mark 车载工业机（Saga 无认证）；无主推型。",
-  "breakpoint": "E-mark 车载认证 Saga 无 → 不能满足",
-  "saga_now": {
-   "p1": "—",
-   "tier": 25,
-   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-13 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-08-04 $300（48 Port PoE Managed Switch）、2025-10-27 $280（10G Enterprise SFP Switch）",
-   "why": "需求 E-mark 车载工业机（Saga 无认证）；无主推型。",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开",
-   "one_question": ""
-  },
-  "facts": [
-   {
-    "date": "2026-10-07",
-    "dir": "去",
-    "who": "A 群发",
-    "quote": "10G Enterprise SFP Switch、Updated Ethernet Switches Links",
-    "why": "17 封 / 0 次打开 / 0 回｜首封 2025-06-04 → 末封 2026-10-07（17 去 / 0 来）",
-    "k": "gmail_digest"
-   },
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "兴趣：工业8电口E-mark",
-    "why": "表内备注",
-    "k": "用户表"
-   }
+  "code": "SB-071",
+  "name_official": "Nayon Kontrol Systems (NKS)（Quezon City, Philippines；nkstech.net / nks.ph；电力 SCADA 自动化集成商）",
+  "website_status": "在线",
+  "summary": "菲律宾电力 SCADA/自动化集成商 Nayon Kontrol Systems（1996 年成立；为电力公司做 SCADA、变电站自动化、RTU（GE-Harris D20）；客户 NGCP、Meralco、First Gen、DMCI、Citicore、Global Business Power、Manila Water、Palau Public Utilities；常被 ABB/Siemens/Alstom 咨询；43–60 人；No. 4 Illinois St., Brgy. Silangan, Cubao, Quezon City；+632 8913 1347；info@nks.ph）。用户表（富通天下外贸数据）：「买了迈威的」= 从迈威采购工业交换机（变电站网络），非 Saga 成交；E 冷名单 1 次跟进 0 回复。变电站/电力 = 关键基础设施 → 按个案守界（民用电力自动化可做）。",
+  "type": "经销/集成商",
+  "size": "待补证",
+  "brands_seen": [
+    "迈威 Maiwe（用户记录）",
+    "Maiwe 迈威（外贸数据在采）",
+    "GE-Harris（RTU）"
   ],
-  "proof_gaps": [
-   "用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+  "evidence": [
+    {
+      "kind": "用户记录",
+      "claim": "买了迈威的；0 回复",
+      "quote": "买了迈威的（用户 Clients 表摘录）",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网",
+      "claim": "公司定位与地址",
+      "quote": "NKS or NAYON KONTROL SYSTEMS is a technology-based company established to provide solutions for SCADA and Automation systems primarily for electric utilities in the Philippines. … No. 4 Illinois St. Brgy. Silangan, District III Cubao, Quezon City Philippines 1109 Phone: (+632) 913-1347 … Email: info@nks.ph",
+      "url": "https://www.nkstech.net/about.php",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "行业名录",
+      "claim": "客户名单",
+      "quote": "NKS's growing list of clients now include: National Grid Corporation of the Philippines (NGCP), Meralco, First Gen Corporation, DMCI, Citicore, Global Business Power Corporation, TransAsia, TEAM Energy, Manila Water and Palau Public Utilities.",
+      "url": "https://www.pe2.org/members/nayon-kontrol-systems-nks",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "名录",
+      "claim": "规模",
+      "quote": "Nayon Kontrol Systems Information … Employees · 43 … Founded · 1996 … Address · No. 4 Illinois St, Brgy. Silangan, Cubao, Quezon City",
+      "url": "https://rocketreach.co/nayon-kontrol-systems-profile_b7c271fac1827400",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "富通天下：买了迈威的",
+      "quote": "买了迈威的 / 富通天下",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "kp": [
+    {
+      "name": "Mark Delapaz",
+      "role": "（NKS 员工，ZoomInfo 公开；职务待核）",
+      "email": "—",
+      "phone": "+632 8913 1347（公司）",
+      "source": "https://www.zoominfo.com/p/Mark-Delapaz/-1345711402"
+    }
+  ],
+  "grade_override": "B",
+  "override_reason": "同 SB-067 逻辑：在采同类国产工业交换机但无回复、菲律宾非主攻区 → B。",
+  "notes": "一封'迈威对位 STI 工业线'邮件。",
+  "researched_at": "2026-10-21",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（官网 + 名录核对；「成交」为富通天下外贸数据）"
+  },
+  "company_facts": {
+    "legal_name": "Nayon Kontrol Systems",
+    "founded": "1996",
+    "hq": "No. 4 Illinois St., Brgy. Silangan, District III, Cubao, Quezon City 1109（+632 8913 1347；info@nks.ph）",
+    "size": "43（RocketReach）/ 46–60（ZoomInfo）",
+    "other": "GE-Harris D20 RTU 专长；关联 NKS Solar One Inc."
+  },
+  "business_lines": [
+    "电力 SCADA / 变电站自动化集成",
+    "RTU / 网关 / 运维"
+  ],
+  "channels": {
+    "网站": "https://www.nkstech.net/",
+    "电话": "+632 8913 1347（公开）",
+    "邮箱": "info@nks.ph（官网公开）；info@nkstech.net（用户表）"
+  },
+  "signals": [
+    "变电站自动化集成商已外采 Maiwe → DIN 管理型工业交换机（ERPS、IEC 61850 环境）第二来源",
+    "客户 Citicore（SB-067）同在名单 → 可串联"
+  ],
+  "risks": [
+    "变电站需 IEC 61850-3/IEEE 1613 认证（Saga 仅 CE/RoHS/FCC → 仅限非认证场景）；电力公共事业按个案守界；亚太非主攻区"
+  ],
+  "saga_fit": {
+    "p1": "STI-288DGGPM",
+    "tier": 25,
+    "why": "集成 25% 档：STI-288DGGPM（DIN 2 SFP + 8 GE PoE+ L2+ ERPS，$137.5）作非 61850 认证要求的站内/光伏 SCADA 网络；非 PoE STI-280GM（$71.0）"
+  },
+  "email_hook": "Hello NKS team, for SCADA networks where IEC 61850-3 certification is not mandated (solar plants, remote RTUs): DIN-rail 2× SFP + 8× GbE L2+ switches with ERPS at $71.0 EXW (PoE+ version $137.5), −40/+75 °C — which of your current projects use Maiwe-class switches so I can quote a like-for-like?",
+  "mail_review": {
+    "binding": {
+      "level": "未绑定（0 回复：档案里的 1 封「来信」是 Avanca 的 Steven 回群发时抄送 info@nkstech.net）；Elsa 1:1 去信 10 轮 2025-02-12→2026-08-06（To 仅本户 info@nkstech.net；头 msg 19fd5280fde54955 核对无 Bcc，称呼「Hi,」= 无称呼逐月单发名单；主题 Marvell Industrial Alert System、Updated Ethernet Switches Links、Marvell Managed Commercial Switches、24 Port PoE Managed Switch…；0 回（Elsa 箱无 Re: 行））（第 74 批(m) `from:e.sagatelecom to:` 全程 complete，直收 10 条）",
+      "type": "菲律宾电力 SCADA 集成商",
+      "sieve": "0",
+      "stop": "4 封去信零回复",
+      "revive": "—",
+      "lane": "PH",
+      "cadence": "2024-11 → 2025-03 去信 4 封",
+      "evidence": "k=d691da1b4d887acd（实为 SB-059 来信）"
+    },
+    "situation": "研究档的「来信」为误归属（Steven Fu 的回复抄送了 NKS）。NKS 本身零回复。",
+    "need": "—",
+    "breakpoint": "误归属更正。",
+    "saga_now": {
+      "p1": "无",
+      "tier": 25,
+      "price": "—；群发里他已看到的价（续，第 66 批全量复核）：2024-11-06 $65（10G Media Converter）、2024-12-03 $300（48 Port PoE Managed Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-05-01 $65（10G Media Converter = 10G 媒体转换器，Elsa 箱 1 轮 2025-05-01；Simon 实报就是 $65）；2026-05-05 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 2 轮 2025-10-09→2026-05-05；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-08-06 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-06；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）（㉕ 封顶：STI-288DGGPM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25）",
+      "why": "不投入。已打开的主题（2/4 封有打开记录）：「10G Media Converter」(2024-11-06)、「48 Port PoE Managed Switch」(2024-12-03) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "不动",
+      "channel": "—",
+      "action": "首封前知悉：Elsa 已 1:1 去信 10 轮（2025-02-12→2026-08-06，0 回）（第 74 批(m)）；—",
+      "one_question": ""
+    },
+    "facts": [
+      {
+        "date": "2024-11-06",
+        "dir": "来",
+        "who": "Steven Fu（Avanca，抄送 NKS）",
+        "quote": "Could you send me datasheet ?",
+        "why": "误归属说明",
+        "k": "d691da1b4d887acd"
+      },
+      {
+        "date": "2025-02-12",
+        "dir": "out",
+        "who": "Elsa → info@nkstech.net",
+        "quote": "16 Port Ethernet Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+        "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
+        "k": "elsa_1to1",
+        "msg_id": "194f8a2b288efa2d"
+      },
+      {
+        "date": "2025-05-01",
+        "dir": "out",
+        "who": "Elsa → info@nkstech.net",
+        "quote": "10G Media Converter（Elsa 1:1 逐月名单第 2/10 轮；To 仅本户；正文价 65usd/pc，第 74 批(p) 读稿 msg 19501dcc2221e96f）",
+        "why": "第 74 批(m) `from:e.sagatelecom to:info@nkstech.net` 全程 complete：10 轮直收；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "1968aa52173efc13"
+      },
+      {
+        "date": "2025-06-18",
+        "dir": "out",
+        "who": "Elsa → info@nkstech.net",
+        "quote": "Mini Industrial PoE Switch（Elsa 1:1 逐月名单第 3/10 轮；To 仅本户）",
+        "why": "第 74 批(m) `from:e.sagatelecom to:info@nkstech.net` 全程 complete：10 轮直收；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "197819f7230f6f92"
+      },
+      {
+        "date": "2025-10-09",
+        "dir": "out",
+        "who": "Elsa → info@nkstech.net",
+        "quote": "10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 4/10 轮；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
+        "why": "第 74 批(m) `from:e.sagatelecom to:info@nkstech.net` 全程 complete：10 轮直收；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "199c80c67e1823c7"
+      },
+      {
+        "date": "2025-12-09",
+        "dir": "out",
+        "who": "Elsa → info@nkstech.net",
+        "quote": "Booster PoE Switch（Elsa 1:1 逐月名单第 5/10 轮；To 仅本户）",
+        "why": "第 74 批(m) `from:e.sagatelecom to:info@nkstech.net` 全程 complete：10 轮直收；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "19b0168bd3f4e497"
+      },
+      {
+        "date": "2026-01-07",
+        "dir": "out",
+        "who": "Elsa → info@nkstech.net",
+        "quote": "Marvell Industrial Alert System（Elsa 1:1 逐月名单第 6/10 轮；To 仅本户）",
+        "why": "第 74 批(m) `from:e.sagatelecom to:info@nkstech.net` 全程 complete：10 轮直收；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "19b970a67b9eb424"
+      },
+      {
+        "date": "2026-02-18",
+        "dir": "out",
+        "who": "Elsa → info@nkstech.net",
+        "quote": "Updated Ethernet Switches Links（Elsa 1:1 逐月名单第 7/10 轮；To 仅本户）",
+        "why": "第 74 批(m) `from:e.sagatelecom to:info@nkstech.net` 全程 complete：10 轮直收；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "19c6fc35d91dc434"
+      },
+      {
+        "date": "2026-03-24",
+        "dir": "out",
+        "who": "Elsa → info@nkstech.net",
+        "quote": "Marvell Managed Commercial Switches（Elsa 1:1 逐月名单第 8/10 轮；To 仅本户）",
+        "why": "第 74 批(m) `from:e.sagatelecom to:info@nkstech.net` 全程 complete：10 轮直收；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "19d1e5b66d242e9c"
+      },
+      {
+        "date": "2026-05-05",
+        "dir": "out",
+        "who": "Elsa → info@nkstech.net",
+        "quote": "10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 9/10 轮；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
+        "why": "第 74 批(m) `from:e.sagatelecom to:info@nkstech.net` 全程 complete：10 轮直收；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "19df6a67fcdf3120"
+      },
+      {
+        "date": "2026-08-06",
+        "dir": "out",
+        "who": "Elsa → info@nkstech.net",
+        "quote": "24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 10/10 轮；To 仅本户；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f）",
+        "why": "第 74 批(m) `from:e.sagatelecom to:info@nkstech.net` 全程 complete：10 轮直收；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "19fd5280fde54955"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

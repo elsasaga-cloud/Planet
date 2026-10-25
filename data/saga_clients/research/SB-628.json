@@ -2,48 +2,51 @@
  "code": "SB-628",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "在线（hmesolutions.com.au，快照 2026-10-21）",
- "summary": "澳大利亚 HME Solutions（矿业车队管理系统 FMS Live™（露天/井下）、Asset Insight、数字矿山；阿里巴巴询盘「升压 5 口」；Ubiquiti；KP Todd Pearce）；表内未跟进。",
- "type": "矿业车队管理方案商（澳大利亚，升压 PoE 询盘）",
+ "website_status": "在线（bright.net.my，快照 2026-10-21）",
+ "summary": "马来西亚 Brightnet Services Sdn Bhd（一站式系统集成：业务自动化、电脑硬件、网络与安防、现场支持；在售 Cisco（Catalyst 3850 等）/ HPE Aruba / Huawei / Ubiquiti，含翻新；阿里巴巴即时对话询「光模块」；KP Diana Wang（Inside Sales & Administrative，diana.wang@））；表内无跟进记录。",
+ "type": "系统集成商（马来西亚，企业级品牌为主）",
  "size": "",
  "brands_seen": [
-  "Ubiquiti"
+  "Cisco",
+  "Huawei",
+  "Ubiquiti",
+  "Aruba"
  ],
  "evidence": [
   {
    "kind": "官网快照",
-   "claim": "官网标题：Next Gen Mining | Fleet Management System | Asset Insight | Vital Data Link | HME Solution；品类词 工业自动化 / OT 网络 / 无线 / WiFi",
-   "quote": "At HME Solutions, we are changing Fleet Management for miners globally with AI and FMS Live™—our next-generation Fleet Management System built for both open-pit and underground environments. Unlike fragmented solutions that require multiple",
-   "url": "https://www.hmesolutions.com.au/",
+   "claim": "官网标题：BRIGHT.NET.MY；品类词 安防监控（CCTV / 门禁） / 无线 / WiFi / 数据中心 / 企业 IT / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "One stop system integration solutions provide business automation, computer hardware, network and security solution, on-site support and cost effective IT....",
+   "url": "https://bright.net.my/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
    "claim": "表内兴趣/备注",
-   "quote": "升压5口 / from: 阿里巴巴询盘",
+   "quote": "光模块 / from: 阿里巴巴即时对话",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   },
   {
    "kind": "官网快照",
-   "claim": "HME 定位",
-   "quote": "Next Gen Mining | Fleet Management System | Asset Insight | Vital Data Link | HME Solution ; FMS Live™—our next-generation Fleet Management System built for both open-pit and underground environments",
-   "url": "https://www.hmesolutions.com.au/",
+   "claim": "一站式系统集成方案",
+   "quote": "One stop system integration solutions provide business automation, computer hardware, network and security solution, on-site support",
+   "url": "https://bright.net.my/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "升压 5 口询盘",
-   "quote": "升压5口 / from: 阿里巴巴询盘",
+   "claim": "光模块询盘（阿里巴巴）",
+   "quote": "光模块 / from: 阿里巴巴即时对话",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
  "kp": [
   {
-   "name": "Todd Pearce",
-   "title": "（职务待核）",
-   "email": "info@hmesolutions.com.au",
+   "name": "Diana Wang",
+   "title": "Inside Sales & Administrative",
+   "email": "diana.wang@bright.net.my",
    "phone": "",
    "source": "用户表"
   }
@@ -56,49 +59,51 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "澳大利亚",
-  "other": "官网 hmesolutions.com.au，语言 en，快照状态 ok；角色判定来源：用户表"
+  "hq": "马来西亚",
+  "other": "官网 bright.net.my，语言 en-US，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "矿业车队管理系统 / 数字矿山（澳大利亚）"
+  "系统集成（企业网络 / 安防 / 硬件 / 翻新）"
  ],
  "channels": {
-  "role": "矿业车队管理方案商（澳大利亚，升压 PoE 询盘）",
-  "region": "澳大利亚",
-  "contact": "info@hmesolutions.com.au"
+  "role": "系统集成商（马来西亚，企业级品牌为主）",
+  "region": "马来西亚",
+  "contact": "diana.wang@bright.net.my"
  },
  "signals": [
-  "官网：At HME Solutions, we are changing Fleet Management for miners globally with AI and FMS Live™；首页 FMS Live Open Pit ; FMS Live Underground ; Asset Insight ; Ore-Tracker Digital Mine Twin；kw wifi 8；brands Ubiquiti",
-  "表内：升压 5 口 / from: 阿里巴巴询盘；KP Todd Pearce"
+  "官网：One stop system integration solutions provide business automation, computer hardware, network and security solution",
+  "首页：CISCO / HPE ARUBA / HUAWEI / Refurbished；站内 WS-C3850-48P-S 等",
+  "表内：光模块 / from: 阿里巴巴即时对话；KP Diana Wang"
  ],
  "risks": [
-  "升压（低压输入升 PoE）型号在 Saga 列表中输入范围待核；非主攻区（T5，澳大利亚）；阿里巴巴询盘有效性待核；矿山/车载环境（IP67 Saga 不做）"
+  "询盘品类为光模块：Saga 价目无 SKU（Q-32），需另询报价",
+  "企业级品牌（Cisco/Aruba/Huawei）为主的 SI：白牌仅边缘补充；非主攻区（T5）"
  ],
  "saga_fit": {
-  "p1": "STI-154GP",
+  "p1": "STC-28DGGPM",
   "tier": 25,
-  "why": "询盘 5 口升压 PoE（12/24 V 车载输入）→ 工业 4 PoE + 1 SFP STI-154GP（$39.2 @25%）/ 4 PoE + 1 GE STI-054GP（$32.5）——升压输入范围待核（注明）"
+  "why": "询盘为光模块（Saga 价目无，Q-32）→ 以接入层补充位切入：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424XGGM；企业核心仍走 Cisco/Aruba"
  },
- "email_hook": "Todd, following your enquiry for a 5-port boost PoE switch: we supply compact DIN-rail 4-PoE + 1 uplink industrial units (−40~75 °C, CE/RoHS) from single units, EXW USD — what input voltage do your vehicle or underground installations supply (12 V, 24 V or 48 V), so we confirm the right model?",
+ "email_hook": "Diana, following your enquiry on optical modules: for the access-layer edge of your Cisco/Aruba projects, we supply Marvell-based 8-PoE + 2 SFP L2+ and 24-GE + 4×10G switches in neutral packing from small lots, and can check module pricing alongside — which port count comes up most in your SME projects?",
  "mail_review": {
   "binding": {
-   "level": "未发信（S/A 邮箱均无往来；来源：用户表「升压5口 / from: 阿里巴巴询盘」；Elsa 箱：`to:hmesolutions.com.au` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(n)））",
-   "type": "矿业车队管理方案商（澳大利亚，升压 PoE 询盘）",
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「光模块 / from: 阿里巴巴即时对话」；Elsa 箱：`to:bright.net.my` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(n)））",
+   "type": "系统集成商（马来西亚，企业级品牌为主）",
    "sieve": "—（未入筛）",
    "stop": "从未触达",
    "revive": "不动（非主攻区；J5：有证据再动）",
-   "lane": "澳大利亚 非主攻",
+   "lane": "马来西亚 非主攻",
    "cadence": "不动",
-   "evidence": "gmail_digest：out 0；用户表：「升压5口 / from: 阿里巴巴询盘」；研究档 risks：升压（低压输入升 PoE）型号在 Saga 列表中输入范围待核；非主攻区（T5，澳大利亚）；阿里巴巴询盘有效性待核；矿山/车载环境（IP67 Saga 不做）"
+   "evidence": "gmail_digest：out 0；用户表：「光模块 / from: 阿里巴巴即时对话」；研究档 risks：询盘品类为光模块：Saga 价目无 SKU（Q-32），需另询报价"
   },
-  "situation": "澳大利亚 HME Solutions（矿业车队管理系统 FMS Live™（露天/井下）、Asset Insight、数字矿山；阿里巴巴询盘「升压 5 口」；Ubiquiti；KP Todd Pearce）；表内未跟进。",
-  "need": "询盘 5 口升压 PoE（12/24 V 车载输入）→ 工业 4 PoE + 1 SFP STI-154GP（$39.2 @25%）/ 4 PoE + 1 GE STI-054GP（$32.5）——升压输入范围待核（注明）",
-  "breakpoint": "升压（低压输入升 PoE）型号在 Saga 列表中输入范围待核；非主攻区（T5，澳大利亚）；阿里巴巴询盘有效性待核；矿山/车载环境（IP67 Saga 不做）",
+  "situation": "马来西亚 Brightnet Services Sdn Bhd（一站式系统集成：业务自动化、电脑硬件、网络与安防、现场支持；在售 Cisco（Catalyst 3850 等）/ HPE Aruba / Huawei / Ubiquiti，含翻新；阿里巴巴即时对话询「光模块」；KP Diana Wang（Inside Sales & Administrative，diana.wang@））；表内无跟进记录。",
+  "need": "询盘为光模块（Saga 价目无，Q-32）→ 以接入层补充位切入：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424XGGM；企业核心仍走 Cisco/Aruba",
+  "breakpoint": "询盘品类为光模块：Saga 价目无 SKU（Q-32），需另询报价",
   "saga_now": {
-   "p1": "STI-154GP",
+   "p1": "STC-28DGGPM",
    "tier": 25,
    "price": "按主表（研究档 saga_fit）",
-   "why": "询盘 5 口升压 PoE（12/24 V 车载输入）→ 工业 4 PoE + 1 SFP STI-154GP（$39.2 @25%）/ 4 PoE + 1 GE STI-054GP（$32.5）——升压输入范围待核（注明）",
+   "why": "询盘为光模块（Saga 价目无，Q-32）→ 以接入层补充位切入：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424XGGM；企业核心仍走 Cisco/Aruba",
    "repeat": [],
    "gaps": []
   },
@@ -113,7 +118,7 @@
     "date": "2026-10-21",
     "dir": "用户表",
     "who": "Simon",
-    "quote": "升压5口 / from: 阿里巴巴询盘",
+    "quote": "光模块 / from: 阿里巴巴即时对话",
     "why": "表内备注",
     "k": "用户表"
    }

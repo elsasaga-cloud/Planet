@@ -2,43 +2,50 @@
  "code": "SB-1077",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "快照失败（unreachable）",
- "summary": "澳大利亚 KSM（ksm.com.au：工业 MC「很多外壳 有像国内的」、常总的工业 FS、商业 FS、SFP；产品页 industrial-grade-managed-l2-ethernet-switch-l2t4m；KP Kevin（质量高）；官网 unreachable）；群发 22 次无回复。",
- "type": "工业网络经销商（澳大利亚，国内货源在供）",
+ "website_status": "在线（soft-tronik.ru，快照 2026-10-21）",
+ "summary": "俄罗斯 Софт-Троник Soft-Tronik（网络设备、IP 视频监控与存储系统分销商：Dahua（48）/ Axis（26）/ TP-Link / Ruijie / Zyxel / D-Link / Vivotek，合作伙伴专区、认证、网络研讨会；表内「几个牌子的交换机」）；表内无跟进记录。",
+ "type": "多品牌 IT/安防分销商（俄罗斯）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Dahua",
+  "Ruijie",
+  "Zyxel",
+  "TP-Link",
+  "D-Link",
+  "Vivotek",
+  "Axis"
+ ],
  "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Софт-Троник Дистрибьютор сетевого оборудования, систем ip-видео наблюдения, систем хранени；品类词 网络交换 / PoE",
+   "quote": "Description",
+   "url": "https://www.soft-tronik.ru",
+   "date": "2026-10-21"
+  },
   {
    "kind": "用户表",
    "claim": "表内兴趣/备注",
-   "quote": "工业MC 很多外壳 有像国内的 常总的工业FS 商业FS SFP；https://www.ksm.com.au/industrial-grade-managed-l2-ethernet-switch-l2t4m",
+   "quote": "几个牌子的交换机",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   },
   {
    "kind": "官网快照",
-   "claim": "KSM 产品页",
-   "quote": "ksm.com.au/industrial-grade-managed-l2-ethernet-switch-l2t4m",
-   "url": "https://www.ksm.com.au/industrial-grade-managed-l2-ethernet-switch-l2t4m",
+   "claim": "Soft-Tronik 定位",
+   "quote": "Софт-Троник Дистрибьютор сетевого оборудования, систем ip-видео наблюдения, систем хранения",
+   "url": "https://www.soft-tronik.ru",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "常总的工业 FS",
-   "quote": "工业MC 很多外壳 有像国内的 常总的工业FS 商业FS SFP",
+   "claim": "几个牌子的交换机",
+   "quote": "几个牌子的交换机",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
- "kp": [
-  {
-   "name": "Kevin",
-   "title": "（职务待核）",
-   "email": "kevin@ksm.com.au",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
+ "kp": [],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
@@ -47,106 +54,75 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "澳大利亚",
-  "other": "官网 ksm.com.au，语言 ?，快照状态 unreachable；角色判定来源：待核"
+  "hq": "俄罗斯",
+  "other": "官网 soft-tronik.ru，语言 ru，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "工业网络产品经销（澳大利亚）"
+  "网络 / IP 视频 / 存储分销"
  ],
  "channels": {
-  "role": "工业网络经销商（澳大利亚，国内货源在供）",
-  "region": "澳大利亚",
-  "contact": "sales@ksm.com.au、kevin@ksm.com.au"
+  "role": "多品牌 IT/安防分销商（俄罗斯）",
+  "region": "俄罗斯",
+  "contact": "info@soft-tronik.ru"
  },
  "signals": [
-  "表内：工业 MC 很多外壳 有像国内的 常总的工业 FS 商业 FS SFP；备注 https://www.ksm.com.au/industrial-grade-managed-l2-ethernet-switch-l2t4m；KP Kevin 质量高",
-  "快照：unreachable"
+  "官网：Дистрибьютор сетевого оборудования, систем ip-видео наблюдения, систем хранения；栏目 Для партнеров / Сертификаты / Ближайшие вебинары",
+  "站内品牌 Dahua / Ruijie / Zyxel / TP-Link / D-Link / Vivotek / Axis"
  ],
  "risks": [
-  "非主攻区（T5，澳大利亚；RCM 由客户侧）；已有国内供应商（比价激烈）；官网 unreachable；22 次无回复"
+  "俄罗斯：结算/物流受限，非主攻区（T5）；多品牌授权分销，白牌需靠价差",
+  "无具名 KP（info@）；无跟进记录"
  ],
  "saga_fit": {
-  "p1": "STI-280GE",
+  "p1": "STC-28DGGPM",
   "tier": 20,
-  "why": "工业 L2 管理交换机位（现国内货源）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、8 PoE + 2 SFP STI-288GPM（$78.9）、工业千兆 MC STI-110GE（$22.4）"
+  "why": "多品牌货架 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）作白牌价位；24 口位 STC-424DGGPM-280W；预期低"
  },
- "email_hook": "Kevin, for the industrial managed switch and MC positions on your site, we supply Marvell-based DIN-rail 8-GE/8-PoE + 2 SFP managed switches and gigabit MCs (−40~75 °C, CE/RoHS) from single units, EXW USD; RCM by your side — which SKU do your Australian customers reorder most?",
+ "email_hook": "Alongside the TP-Link, Zyxel and Ruijie switches you distribute, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ model and 24-PoE + 4 SFP from small lots, CE/RoHS, EXW USD — which PoE size do your Dahua partners order most?",
  "mail_review": {
   "binding": {
-   "level": "未触达（15 封来信全部是 sales@ksm.com.au 的「please select from one of the options」自动回复；Elsa 箱：`to:ksm.com.au` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 32 / 来 15）（第 74 批(n)））",
-   "type": "澳大利亚工业网络经销（KSM）",
-   "sieve": "0",
-   "stop": "自动回复/机器人，无人工回复",
-   "revive": "不动",
-   "lane": "AU",
-   "cadence": "不动",
-   "evidence": "k=20a1ffdbfe080423 等"
+   "level": "未触达（A 邮箱 1 封 2026，无记录打开，0 回；收件 info@soft-tronik.ru；主题多为「24 Port PoE Managed Switch」；Elsa 箱：`to:soft-tronik.ru` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 1 / 来 0）（第 74 批(l)））",
+   "type": "多品牌 IT/安防分销商（俄罗斯）",
+   "sieve": "1（只收到群发）",
+   "stop": "只打通用邮箱，无记录打开",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "RU 次级（Simon 2026-08 点名）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 1；用户表：「几个牌子的交换机」；研究档 risks：俄罗斯：结算/物流受限，非主攻区（T5）；多品牌授权分销，白牌需靠价差"
   },
-  "situation": "来信全部为机器回复；无人读信或无人回信。",
-  "need": "—",
-  "breakpoint": "—",
+  "situation": "俄罗斯 Софт-Троник Soft-Tronik（网络设备、IP 视频监控与存储系统分销商：Dahua（48）/ Axis（26）/ TP-Link / Ruijie / Zyxel / D-Link / Vivotek，合作伙伴专区、认证、网络研讨会；表内「几个牌子的交换机」）；表内无跟进记录。",
+  "need": "多品牌货架 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）作白牌价位；24 口位 STC-424DGGPM-280W；预期低",
+  "breakpoint": "俄罗斯：结算/物流受限，非主攻区（T5）；多品牌授权分销，白牌需靠价差",
   "saga_now": {
-   "p1": "—",
+   "p1": "STC-28DGGPM",
    "tier": 20,
-   "price": "—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-06-25 $65（10G fiber media converter）、2024-11-22 $300（48 Port PoE Managed Switch）、2024-12-23 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-09-04 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-30 $280（10G Enterprise SFP Switch）",
-   "why": "已打开的主题（1/32 封有打开记录）：「Industrial PoE Switch」(2025-08-12) → 读者兴趣偏「工业」；与 P1 同类，继续",
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-09-04 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170",
+   "why": "多品牌货架 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）作白牌价位；24 口位 STC-424DGGPM-280W；预期低",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—（第 76 批(c) 2026-10-25：0 事实户补时间线事实）",
-   "one_question": ""
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Alongside the TP-Link, Zyxel and Ruijie switches you distribute, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ model and 24-PoE + 4 SFP from small lots, CE/RoHS, EXW USD — which PoE size do your Dahua partners order most?"
   },
   "facts": [
    {
-    "date": "2024-06-25",
-    "dir": "去",
-    "who": "S 箱（Simon）",
-    "quote": "10G fiber media converter",
-    "why": "首封去信（邮箱索引；去信共 32 封）",
-    "k": "75736e8b4d9ebc48"
-   },
-   {
     "date": "2026-09-04",
     "dir": "去",
-    "who": "A 箱（Alan）",
+    "who": "A 群发",
     "quote": "24 Port PoE Managed Switch",
-    "why": "最近一封去信（邮箱索引；去信共 32 封）",
-    "k": "44647e08d8340ed5"
+    "why": "1 封 / 0 次打开 / 0 回｜首封 2026-09-04 → 末封 2026-09-04（1 去 / 0 来）",
+    "k": "gmail_digest"
    },
    {
-    "date": "2024-04-29",
-    "dir": "来",
-    "who": "sales@ksm.com.au",
-    "quote": "Thank you for your email, please select from one of the options below?｜In order to best service your inquiry, please make a selection:   For immediate attention please call reception: 02 8003",
-    "why": "自动分流回复（「please select from one of the options」，机器）",
-    "k": "20a1ffdbfe080423"
-   },
-   {
-    "date": "2024-05-23",
-    "dir": "来",
-    "who": "sales@ksm.com.au",
-    "quote": "Thank you for your email, please select from one of the options below?｜In order to best service your inquiry, please make a selection:   For immediate attention please call reception: 02 8003",
-    "why": "自动分流回复（「please select from one of the options」，机器）",
-    "k": "8c52c7e804df5e5b"
-   },
-   {
-    "date": "2024-06-25",
-    "dir": "来",
-    "who": "sales@ksm.com.au",
-    "quote": "Thank you for your email, please select from one of the options below?｜In order to best service your inquiry, please make a selection:   For immediate attention please call reception: 02 8003",
-    "why": "自动分流回复（「please select from one of the options」，机器）",
-    "k": "c09ebf5a9eef70eb"
-   },
-   {
-    "date": "2024-07-19",
-    "dir": "来",
-    "who": "sales@ksm.com.au",
-    "quote": "Thank you for your email, please select from one of the options below?｜In order to best service your inquiry, please make a selection:   For immediate attention please call reception: 02 8003",
-    "why": "自动分流回复（「please select from one of the options」，机器）",
-    "k": "44c06ef904f344a1"
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "几个牌子的交换机",
+    "why": "表内备注",
+    "k": "用户表"
    }
   ],
   "proof_gaps": [],

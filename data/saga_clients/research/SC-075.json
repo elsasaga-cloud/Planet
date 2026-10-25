@@ -1,0 +1,59 @@
+{
+ "code": "SC-075",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "快照失败（unreachable）",
+ "summary": "基里巴斯 T Tech Services（ttechservices.net；阿里巴巴询盘「Elink PoE Injector」；KP Temaiana Temareti；官网 unreachable）；表内未跟进。",
+ "type": "IT 服务商（基里巴斯，注入器询盘）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "Elink PoE Injector / from: 阿里巴巴询盘",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "Elink PoE Injector 询盘",
+   "quote": "Elink PoE Injector / from: 阿里巴巴询盘",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "区域外且品类不供；c_sub=区域外/品类不符",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "基里巴斯",
+  "other": "官网 ttechservices.net，语言 ?，快照状态 unreachable；角色判定来源：待核"
+ },
+ "business_lines": [
+  "IT 服务（基里巴斯）"
+ ],
+ "channels": {
+  "role": "IT 服务商（基里巴斯，注入器询盘）",
+  "region": "基里巴斯",
+  "contact": "ttemareti@ttechservices.net"
+ },
+ "signals": [
+  "表内：Elink PoE Injector / from: 阿里巴巴询盘；KP Temaiana Temareti",
+  "快照：unreachable"
+ ],
+ "risks": [
+  "区域外（基里巴斯）；PoE 注入器品类 Saga 不供（Q-32）；官网 unreachable"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 20,
+  "why": "区域外、询盘品类注入器（Saga 不供）→ 改 C"
+ },
+ "email_hook": "（不发送：区域外/品类）"
+}

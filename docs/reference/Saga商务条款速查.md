@@ -65,7 +65,7 @@
 - OEM: "Logo, label, carton and Web-UI logo customization are free of charge; neutral packing available."
 
 ## 8. 2026-09/10 S 邮箱实际口径（Simon 原话，PR-02-31 复盘 2026-10-22 补）
-> 来源：`data/gmail_s/messages/2026/2026-09.jsonl`、`2026-10.jsonl`（Milliseconds Evolution SB-1337、Fikes Media SB-1336、Vi-Link SA-011 等线程）。这是**现在正在用的**说法，与上面官网/Drive 口径有差异时以此为准、差异列入 Q-35。
+> 来源：`data/gmail_s/messages/2026/2026-09.jsonl`、`2026-10.jsonl`（Milliseconds Evolution SB-1115、Fikes Media SB-1114、Vi-Link SA-006 等线程）。这是**现在正在用的**说法，与上面官网/Drive 口径有差异时以此为准、差异列入 Q-35。
 
 | 项目 | Simon 现行口径（英文可直接复用） | 出处 |
 |---|---|---|
@@ -78,10 +78,10 @@
 | 涨价提醒 | "in recent days, PCB and material costs are rising. This is one of the very competitive models." | 2026-10-03 |
 | 签名 | "- Simon  https://sagatele.com/  An Engineering & Supply-Chain-First Telecom Partner  Built to Last, Continuous Supply, Evolving Together" | 全部 2026-09/10 群发 |
 
-- **SNMP 企业号（PEN）提醒**：NYNEX（SA-013）2025-03 测试时发现 SmartByte 通用 MIB 内含其他 OEM 客户的企业 OID（.57430 / .56813 / .171 D-Link），要求 Saga/SmartByte 申请自己的 IANA PEN 并说明 OEM 数据是固件写死还是独立分区。对欧洲系统集成商这是合规题 → Q-35（建议 Saga 自己免费申请 PEN，并要求 Saga 版固件只含 Saga 树）。
+- **SNMP 企业号（PEN）提醒**：NYNEX（SA-008）2025-03 测试时发现 SmartByte 通用 MIB 内含其他 OEM 客户的企业 OID（.57430 / .56813 / .171 D-Link），要求 Saga/SmartByte 申请自己的 IANA PEN 并说明 OEM 数据是固件写死还是独立分区。对欧洲系统集成商这是合规题 → Q-35（建议 Saga 自己免费申请 PEN，并要求 Saga 版固件只含 Saga 树）。
 
 ## 9. Q-35 落地：Saga 自有 IANA PEN 与 OEM 固件边界（T29-U11 裁定「按默认」，2026-10-22）
-**为什么**：欧洲集成商/运营商验收时会 `snmpwalk` 看 `sysObjectID` 与私有 MIB 的企业号归属；NYNEX 2025-03 已经因为 SmartByte 通用 MIB 里混有别家 OEM 的企业 OID（.57430 东莞华容、.56813 福州 Dockeer、.171 D-Link）追问「Saga 与 SmartByte 什么关系、OEM 数据是不是写死在固件里」（证据：`data/saga_clients/research/SA-013.json` evidence #14）。
+**为什么**：欧洲集成商/运营商验收时会 `snmpwalk` 看 `sysObjectID` 与私有 MIB 的企业号归属；NYNEX 2025-03 已经因为 SmartByte 通用 MIB 里混有别家 OEM 的企业 OID（.57430 东莞华容、.56813 福州 Dockeer、.171 D-Link）追问「Saga 与 SmartByte 什么关系、OEM 数据是不是写死在固件里」（证据：`data/saga_clients/research/SA-008.json` evidence #14）。
 
 **Simon 要做的（约 15 分钟，免费）**
 1. 打开 IANA PEN 申请表 `https://pen.iana.org/pen/PenApplication.page`，填：Organization = Zhengzhou Saga Telecom Equipment Co., Ltd.（与营业执照英文名一致）；地址；Contact = Simon（姓名 / 职务 / 电话 / 邮箱用 sagatele.com 域名邮箱，不要用 Gmail）。
@@ -101,12 +101,12 @@
 
 | 项目 | 实际做法（证据） |
 |---|---|
-| 两条物流线 | ① **客户自己的广州货代**（Mbata 尼日利亚：3rd 单 申娟·越秀宇航通讯大厦；4th 单 Tony Uhutex·瑶台西街美泰城；10th/11th/14 台 陈静怡 Serena·花都东湖村仓；末端收货人 VALENTINE, Lagos）——Saga 只负责送到广州仓，发货信息单写「品名 / 数量 / 重量 / HS 8517622990 / 品牌 无 / 不带电不带磁」。② **Saga 自己的深圳买单报关线**（James 加拿大、Angora 土耳其、Sugito 马来西亚、NYNEX 德国、Rishi 印度…）：填「出口货物确认函 / 货物情况说明表」→ 深圳联邦（UPS/FedEx/DHL）入仓标签 `WE0xxxxxxxxx_国家_入仓标签.PDF` → 运单；PI 写 **DAP but without customs clearance**（SA-012 英国）。 |
+| 两条物流线 | ① **客户自己的广州货代**（Mbata 尼日利亚：3rd 单 申娟·越秀宇航通讯大厦；4th 单 Tony Uhutex·瑶台西街美泰城；10th/11th/14 台 陈静怡 Serena·花都东湖村仓；末端收货人 VALENTINE, Lagos）——Saga 只负责送到广州仓，发货信息单写「品名 / 数量 / 重量 / HS 8517622990 / 品牌 无 / 不带电不带磁」。② **Saga 自己的深圳买单报关线**（James 加拿大、Angora 土耳其、Sugito 马来西亚、NYNEX 德国、Rishi 印度…）：填「出口货物确认函 / 货物情况说明表」→ 深圳联邦（UPS/FedEx/DHL）入仓标签 `WE0xxxxxxxxx_国家_入仓标签.PDF` → 运单；PI 写 **DAP but without customs clearance**（SA-007 英国）。 |
 | HS 编码 | 交换机 **8517622990**；光模块 8517795000（Pythias 赞比亚单）；光纤清洁笔 8517799000（Rishi 印度单）。 |
 | 品牌栏 | OEM/贴牌客户一律「**无品牌**」（James 2nd 单起、Angora 全部、Mbata 全部）；自有品牌出货写「Saga Telecom · 境内自主品牌 · 生产厂家 Zhengzhou Saga Telecom Co., Ltd.」（James 1st 单、Pythias、Sugito）。两种都发生过，按客户要的外观定。 |
 | 单台重量/尺寸（报 DAP 直接用） | STI-21616DGGPM/XGGPM（James SW-3200-16GP）**158×115×54 mm，净 1.2 kg**，12 台一箱 20 kg；STI-288DGGPM 1.2 kg；STC-424XGGPM ≈3.4–3.5 kg，440×180/205×44 mm；STC-448XGGPM ≈5.6 kg；ANW-2116-PG（STC-424DGGPM-280W 16 口版）8 台一箱 21 kg（53.5×40×40.8 cm）；STC-2224GFP-24V 2.9/3.6 kg，440×290×45 mm；SmartByte 原箱：8 PoE+2 SFP 两台一箱 3 kg（31×23.5×18.5 cm），24/48 口机 10.6 kg（53.5×20.5×40.8 cm）。 |
 | 大单运费的分量 | Angora 176 台 = 23 箱 471.9 kg，运费 22,426 RMB ≈ 127 RMB/台（≈$18），把毛利从 ~24% 压到 15.9%——同规模报价时运费单列、空运/海运分开报。 |
-| 印度清关 | FedEx 需要收货人先在 kyc.fedex.com 上传 **GSTIN + 身份/地址证明 + 清关授权书（POA）**，拿到运单号后才能办（SA-016 United Control Engineers 2024-04，GSTIN 09AACCU4195M1ZP）；没做 KYC 货会卡在海关。 |
+| 印度清关 | FedEx 需要收货人先在 kyc.fedex.com 上传 **GSTIN + 身份/地址证明 + 清关授权书（POA）**，拿到运单号后才能办（SB-006 United Control Engineers 2024-04，GSTIN 09AACCU4195M1ZP）；没做 KYC 货会卡在海关。 |
 | 装箱单 | 工厂（SmartByte）出 PACKING LIST 给 Zhengzhou Saga Telecom（Consignee），再由 Saga 转出口——**工厂单据上出现的是 Saga 的郑州抬头，不是客户**；客户看到的只有 Saga 的 CI/PL。 |
 | 出口管制分类（客户合规表） | 对 Netaş 已填：**EAR99 · NLR (No License Required, EAR §734) · CCATS 不适用 · HTS 8517622990 · 原产国 China**（STI-488DGGPM-2BT，2025-12-03）；国防相关/大企业供应商入库问 ECCN 时照此答。⚠ 该表 certify 句残留模板公司名 JERA ELEKTRONİK，下次更新改为 Zhengzhou Saga Telecom。 |
 | 个人数据（KVKK/GDPR 类附件） | Netaş《Annex 1 个人数据附加协议》已签：客户方个人数据只用于履约、不转第三方/不出境——Netaş 联系人不进群发名单，不转给工厂。 |
@@ -114,15 +114,15 @@
 ## 11. 成单户往来里核出的实操口径（第 71 批 (m)，2026-10-24；全部有邮件原话，见各户研究档 `facts`）
 | 项目 | 口径 | 出处 |
 |---|---|---|
-| 首笔外汇入账 | 中国银行对首笔境外来款要**买方股东信息**（一个股东即可；只首笔要）——新客户首付前先说，别等款到了再临时要护照/商业登记 | SA-168 2024-05-21 `gmail_s 08d71191c7529e7c` |
-| 出货前老化 | 样机/订单出货前 **5 个工作日稳定性测试**（公司政策）——交期承诺要把这 5 天算进去 | SB-473 2026-01-14 `gmail_a 917809e3aa72885e` |
-| 功能开发排期 | 「加功能」只在**有订金/订单确认后**排期，否则不给时间表（AC5 加 SFTP 的先例） | SA-168 2024-06-18 `gmail_s cfb663aad0d6b99b` |
-| 大单产能 | 备料约 **3 周**（PCB、PoE 芯片、AC5 芯片）；**≥25% 订金起备料**；优先谈**分批交付**；250 台 ≈ 40 个自然日 | SA-168 2025-05-10 / 2024-06-18 |
-| 软件贴牌 | logo / 型号名 / MAC / 登录 IP / SNMP OID **免费，1 台也做**；**界面配色不在内**（改码量大，样单不做） | SA-168 2024-04-29 / 2024-05-06 |
-| 前面板 PVC 丝印 | **收费**（整批开模），余料 Saga 仓库代存供后续订单；MAC 段免费 | SA-168 2024-10-20 |
-| 定制彩盒 | **$2.5/套，200 套起**（盒 + 异形泡棉 + 顶片 + 说明书）；8 口管理型（L2+/L3）与 STI-21616DGGPM 同尺寸 **158×115×54 mm**，一款盒通用 | SA-168 2024-12-13 `gmail_s a17daefafab4939f` |
-| 「能不能读输入电压」 | PoE 机 GUI 只显示 **PD 侧**电压/功率，不显示交换机自身输入；非 PoE 机没有此项 | SA-168 2024-07-26 |
-| 固件版本口径 | AC3 终版 **lite-hotfix-7.3.13**（只维护不更新）；AC5 线 2026-08 给客户的是 ac5-hotfix-7.4.2，7.5 为 AC5 Lite（98DX2515/2518）发布版——写信前看该户机型是哪一代 | SA-169 2026-08-07 `gmail_s 3e84bddd5a4fd519` |
-| 2024-11 的「六个不做」 | NAT / 堆叠 / SD-WAN / TSN / MPLS / 云管理（AC3 时代原话；MPLS 现在 CENTEC 线有，其余仍不做）；当时还主动说「同芯片 98DX226S 的第三方能做，可代采」 | SA-168 2024-11-07 `gmail_s f4e695a067e95cd9` |
-| 客户资料夹 | 成单客户一户一个 Google Drive 订单文件夹（Angora / Vi-Link / James / Netaş 都有），把对方指定人加为编辑，请其上传测试报告 | SA-011 2024-04-29 · SB-473 2026-01-24 |
-| 借样（唯一例外） | 样品一律付费（§2），但 2026-04-24 Alan 对日本 UNEAX 说「I talked with Simon, he thinks testing is important… **lending a piece is OK**」，条件是对方给中国货代地址并寄回；对方未接。此后对 UNEAX 不要改口成「付费样品」；对其他户仍按付费 | SB-093 2026-04-24 `gmail_a 91a2b01ba897536b` |
+| 首笔外汇入账 | 中国银行对首笔境外来款要**买方股东信息**（一个股东即可；只首笔要）——新客户首付前先说，别等款到了再临时要护照/商业登记 | SA-077 2024-05-21 `gmail_s 08d71191c7529e7c` |
+| 出货前老化 | 样机/订单出货前 **5 个工作日稳定性测试**（公司政策）——交期承诺要把这 5 天算进去 | SA-086 2026-01-14 `gmail_a 917809e3aa72885e` |
+| 功能开发排期 | 「加功能」只在**有订金/订单确认后**排期，否则不给时间表（AC5 加 SFTP 的先例） | SA-077 2024-06-18 `gmail_s cfb663aad0d6b99b` |
+| 大单产能 | 备料约 **3 周**（PCB、PoE 芯片、AC5 芯片）；**≥25% 订金起备料**；优先谈**分批交付**；250 台 ≈ 40 个自然日 | SA-077 2025-05-10 / 2024-06-18 |
+| 软件贴牌 | logo / 型号名 / MAC / 登录 IP / SNMP OID **免费，1 台也做**；**界面配色不在内**（改码量大，样单不做） | SA-077 2024-04-29 / 2024-05-06 |
+| 前面板 PVC 丝印 | **收费**（整批开模），余料 Saga 仓库代存供后续订单；MAC 段免费 | SA-077 2024-10-20 |
+| 定制彩盒 | **$2.5/套，200 套起**（盒 + 异形泡棉 + 顶片 + 说明书）；8 口管理型（L2+/L3）与 STI-21616DGGPM 同尺寸 **158×115×54 mm**，一款盒通用 | SA-077 2024-12-13 `gmail_s a17daefafab4939f` |
+| 「能不能读输入电压」 | PoE 机 GUI 只显示 **PD 侧**电压/功率，不显示交换机自身输入；非 PoE 机没有此项 | SA-077 2024-07-26 |
+| 固件版本口径 | AC3 终版 **lite-hotfix-7.3.13**（只维护不更新）；AC5 线 2026-08 给客户的是 ac5-hotfix-7.4.2，7.5 为 AC5 Lite（98DX2515/2518）发布版——写信前看该户机型是哪一代 | SA-078 2026-08-07 `gmail_s 3e84bddd5a4fd519` |
+| 2024-11 的「六个不做」 | NAT / 堆叠 / SD-WAN / TSN / MPLS / 云管理（AC3 时代原话；MPLS 现在 CENTEC 线有，其余仍不做）；当时还主动说「同芯片 98DX226S 的第三方能做，可代采」 | SA-077 2024-11-07 `gmail_s f4e695a067e95cd9` |
+| 客户资料夹 | 成单客户一户一个 Google Drive 订单文件夹（Angora / Vi-Link / James / Netaş 都有），把对方指定人加为编辑，请其上传测试报告 | SA-006 2024-04-29 · SA-086 2026-01-24 |
+| 借样（唯一例外） | 样品一律付费（§2），但 2026-04-24 Alan 对日本 UNEAX 说「I talked with Simon, he thinks testing is important… **lending a piece is OK**」，条件是对方给中国货代地址并寄回；对方未接。此后对 UNEAX 不要改口成「付费样品」；对其他户仍按付费 | SB-164 2026-04-24 `gmail_a 91a2b01ba897536b` |

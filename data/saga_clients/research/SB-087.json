@@ -1,73 +1,121 @@
 {
  "code": "SB-087",
- "name_official": "",
+ "name_official": "ASSMANN Asia（亚士曼，DIGITUS 台湾）",
  "researched_at": "2026-10-21",
- "website_status": "在线（enav.it，快照 2026-10-21）",
- "summary": "意大利 ENAV / Techno Sky（ENAV = 意大利空中交通管制服务公司（国家控股上市），Techno Sky 为其技术子公司；表内「工业光猫 / from: 自建站」；KP Dario Lepera（technosky.it））；表内 7 次跟进无回复。",
- "type": "空管/公共部门（守界）",
+ "website_status": "在线但空页（assmann.com.tw 快照无内容）",
+ "summary": "德国 ASSMANN（DIGITUS 品牌）台湾分公司 / 亚洲采购办，PM Kent Wang；展会接触：串口与 HDMI-to-RJ45，兴趣 MC / HDMI / SFP / PoE / 串口系列，2025-12 对 Alarm 回复「I/O modules」。DIGITUS 产品均为亚洲贴牌采购 → OEM 30%；HDMI / 串口 / I/O 模块 Saga 无。台湾厂商口径：按继承规则台系品牌商不是「渠道客户」，但作为 OEM/贴牌采购方可按 OEM 30% 档跟进（其产品多在深圳采购）。",
+ "type": "",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "DIGITUS"
+ ],
  "evidence": [
   {
    "kind": "官网快照",
-   "claim": "官网标题：Enav；品类词 工业自动化 / OT 网络",
-   "quote": "INNOVATING THE SKY；CONTROLLO DEL TRAFFICO AEREO；Remote Digital Tower；Innovazione；Il Gruppo；Comunicati stampa",
-   "url": "https://www.enav.it:443/",
+   "claim": "assmann.com.tw 首页无内容（空页）",
+   "quote": "status ok, title/desc empty",
+   "url": "https://assmann.com.tw/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "工业光猫；工业光猫 / from: 自建站",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "ENAV 定位",
-   "quote": "Enav ; INNOVATING THE SKY ; CONTROLLO DEL TRAFFICO AEREO ; Remote Digital Tower",
-   "url": "https://www.enav.it:443/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "工业光猫 自建站",
-   "quote": "工业光猫 / from: 自建站",
+   "claim": "兴趣 MC HDMI SFP POE serials；展会：串口和 HDMI to RJ45；2025-12 Alarm→I/O modules",
+   "quote": "兴趣：MC HDMI SFP POE serials 展会：串口和HDMI to Rj45；回复：I/O modules",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
- "kp": [],
- "grade_override": "C",
- "override_reason": "守界/公共部门：ENAV 空管（国家控股关键基础设施），需求工业光猫 Saga 不供；c_sub=守界（公共部门/关键基础设施）",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "kp": [
+  {
+   "name": "Kent Wang",
+   "title": "PM",
+   "email": "kent.wang@assmann.com.tw",
+   "phone": "",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（快照空页 + 表内：品牌采购办 OEM）"
  },
  "company_facts": {
-  "hq": "意大利",
-  "other": "官网 enav.it，语言 it，快照状态 ok；角色判定来源：待核"
+  "legal_name": "ASSMANN Asia Co., Ltd.（待核）",
+  "founded": "",
+  "hq": "台湾（ASSMANN Electronic GmbH 亚洲办）",
+  "size": "跨国品牌亚洲采购办",
+  "other": "DIGITUS 网络 / 连接产品品牌"
  },
  "business_lines": [
-  "空中交通管制服务 / 技术子公司"
+  "DIGITUS 品牌网络 / 连接 / 机柜产品（亚洲贴牌采购）"
  ],
  "channels": {
-  "role": "空管/公共部门（守界）",
-  "region": "意大利",
-  "contact": "dario.lepera@technosky.it"
+  "role": "品牌商采购办（OEM 30%）",
+  "region": "欧洲销售（台湾采购）"
  },
  "signals": [
-  "官网：Enav ; INNOVATING THE SKY ; CONTROLLO DEL TRAFFICO AEREO ; Remote Digital Tower ; Il Gruppo；kw planet 6",
-  "表内：工业光猫 / from: 自建站；KP Dario Lepera"
+  "PM 直接接触，兴趣 PoE / MC / SFP 系列 → DIGITUS PoE 交换机 / MC 贴牌入口（欧洲主攻区销售）"
  ],
  "risks": [
-  "守界：ENAV 空中交通管制（国家控股、关键基础设施、公共采购）；需求工业光猫 Saga 不供"
+  "HDMI / 串口 / I/O 模块 Saga 无（缺口）",
+  "大品牌验厂 / 认证（CE/RoHS/REACH 可，UL 无）流程长"
  ],
  "saga_fit": {
-  "p1": null,
-  "tier": 25,
-  "why": "空中交通管制（国家关键基础设施/公共部门，招标与认证体系），且需求为工业光猫（Saga 不供）→ 改 C（守界）"
+  "p1": "STC-28DGGPM",
+  "tier": 30,
+  "why": "DIGITUS 商用 PoE 线贴牌 → STC-28DGGPM（Marvell L2+）与 MC STI-110GE 作样；OEM 30%。"
  },
- "email_hook": "（不发送：公共部门/守界）"
+ "email_hook": "Kent, besides the I/O modules — for the DIGITUS PoE switch and media-converter range, which SKU is up for re-sourcing next (8-PoE managed, 16/24-PoE, or gigabit MC)? I'll send CE/RoHS/REACH files and a sample under your spec.",
+ "mail_review": {
+  "binding": {
+   "level": "轻度触达（2025-12-15 Kent Wang（Product Management）问「Input and Output devices also?」→ Alan：无 I/O 模块，转介；Elsa 箱：`to:assmann.com.tw` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 21 / 来 1）（第 74 批(n)））",
+   "type": "台湾/德国布线品牌（ASSMANN / DIGITUS）",
+   "sieve": "1",
+   "stop": "需求是 I/O 模块",
+   "revive": "不动",
+   "lane": "TW",
+   "cadence": "不动",
+   "evidence": "k=841a7692319b168b；第 19 批回补来信原文 1 条（gmail_s/gmail_a）"
+  },
+  "situation": "—",
+  "need": "—",
+  "breakpoint": "—",
+  "saga_now": {
+   "p1": "—",
+   "tier": 30,
+   "price": "—；群发里他已看到的价（续）：2026-08-12 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-16 $280（10G Enterprise SFP Switch）",
+   "why": "已打开的主题（7/21 封有打开记录）：「90W PoE Managed Switch」(2025-05-15)、「Marvell Industrial Alert System」(2025-12-15)、「Re: Marvell Industrial Alert System」(2025-12-15)、「24 Port PoE Managed Switch」(2026-08-12) → 读者兴趣偏「工业」；与 P1 同类，继续",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2025-12-15",
+    "dir": "来",
+    "who": "kent.wang@assmann.com.tw",
+    "quote": "Dear Alan, Do you offer Input and Output devices also? Or only Industrial switch Please send me more product information. i.A. Kent Wang Team Manager",
+    "why": "来信原文（主题「RE: Marvell Industrial Alert System」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+    "k": "841a7692319b168b"
+   },
+   {
+    "date": "2025-12-15",
+    "dir": "去",
+    "who": "Saga（Alan）",
+    "quote": "Hi, Kent, I guess you are talking about I/O modules? Like below link https://sieportal.siemens.com/en-pe/products-services/10046659?tree=CatalogTree 1, If yes, sorry to tell you that it is not on our list. But I know someone handles I/O modules, please try to contact this person. I know her from an…",
+    "why": "Saga 实质答复原文（主题「Re: Marvell Industrial Alert System」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
+    "k": "52269215276dd05a"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

@@ -1,142 +1,105 @@
 {
- "code": "SB-517",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（kyber-e.com，快照 2026-10-21）",
- "summary": "美国 Kyber Electronics（「Innovative engineering kits and tools」工程套件与工具；表内「5 电口」；KP Justin Hansen）；群发 8 次无回复。",
- "type": "工程套件小厂（美国，5 口交换机配套）",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：Kyber；品类词 布线 / 线缆",
-   "quote": "Innovative engineering kits and tools",
-   "url": "https://www.kyber-e.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "5电口",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "Kyber 定位",
-   "quote": "HOME | Kyber ; Innovative engineering kits and tools",
-   "url": "https://www.kyber-e.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "5 电口",
-   "quote": "5电口",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Justin Hansen",
-   "title": "（负责人）",
-   "email": "justin@kyber-e.com",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "美国",
-  "other": "官网 kyber-e.com，语言 en，快照状态 ok；角色判定来源：官网文案"
- },
- "business_lines": [
-  "工程套件 / 工具（美国）"
- ],
- "channels": {
-  "role": "工程套件小厂（美国，5 口交换机配套）",
-  "region": "美国",
-  "contact": "justin@kyber-e.com"
- },
- "signals": [
-  "官网：HOME | Kyber ; Innovative engineering kits and tools；页面 /all-products",
-  "表内：5 电口；KP Justin Hansen"
- ],
- "risks": [
-  "小厂配套（量小）；8 次无回复"
- ],
- "saga_fit": {
-  "p1": "STI-050GE",
-  "tier": 25,
-  "why": "5 电口 → 工业 5 GE 非管理 STI-050GE（$17.8 @25%）；桌面 5 口用 HRUI（列表价，注明）"
- },
- "email_hook": "Justin, for the 5-port switch bundled with your engineering kits, we supply compact 5-GE unmanaged units (DIN-rail industrial or desktop, FCC/CE/RoHS) neutral-brand or under your label from small lots, EXW USD — what quantity per kit run do you plan?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A 邮箱 21 封 2025→2026，无记录打开，0 回；收件 justin@kyber-e.com；主题多为「Managed Optical Bypass Switch、10G Enterprise SFP Switch」；Elsa 箱：`to:kyber-e.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 21 / 来 0）（第 74 批(h)））",
-   "type": "工程套件小厂（美国，5 口交换机配套）",
-   "sieve": "1（只收到群发）",
-   "stop": "21 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
-   "lane": "US 主攻（四主）",
-   "cadence": "一封",
-   "evidence": "gmail_digest：out 21；用户表：「5电口」；研究档 risks：小厂配套（量小）；8 次无回复"
-  },
-  "situation": "美国 Kyber Electronics（「Innovative engineering kits and tools」工程套件与工具；表内「5 电口」；KP Justin Hansen）；群发 8 次无回复。",
-  "need": "5 电口 → 工业 5 GE 非管理 STI-050GE（$17.8 @25%）；桌面 5 口用 HRUI（列表价，注明）",
-  "breakpoint": "小厂配套（量小）；8 次无回复",
-  "saga_now": {
-   "p1": "STI-050GE",
-   "tier": 25,
-   "price": "换人再触锚价 STI-050GE $17.8（25% 档） EXW（12–36 V 标准款按档位；宽压 12–58 V 款最近实报 $25（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-12 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-05-05 $300（48 Port PoE Managed Switch）、2025-10-20 $280（10G Enterprise SFP Switch）、2026-06-22 $16000（32 Port 400GB DC Switch）",
-   "why": "5 电口 → 工业 5 GE 非管理 STI-050GE（$17.8 @25%）；桌面 5 口用 HRUI（列表价，注明）",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "2027-Q1（换人后）",
-   "channel": "A 邮箱 → 具名 KP",
-   "action": "换收件人再发一封（第 75 批(u) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用）；STC-05GE / STC-028GP 为 HRUI，不写 Marvell）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（第 76 批(d) 2026-10-25：锚价按稿内 12–36 V 款改为档位价，宽压 $25 保留说明）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
-   "one_question": "Justin, for the 5-port switch bundled with your engineering kits, we supply compact 5-GE unmanaged units (DIN-rail industrial or desktop, FCC/CE/RoHS) neutral-brand or under your label from small lots, EXW USD — what quantity per kit run do you plan? Reference: STI-050GE at $25 USD EXW (MOQ 1, 15-day validity)."
-  },
-  "facts": [
-   {
-    "date": "2026-09-08",
-    "dir": "去",
-    "who": "A 群发",
-    "quote": "Managed Optical Bypass Switch、10G Enterprise SFP Switch",
-    "why": "21 封 / 0 次打开 / 0 回｜首封 2025-02-13 → 末封 2026-09-08（21 去 / 0 来）",
-    "k": "gmail_digest"
-   },
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "5电口",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2026-09-08",
-    "dir": "去",
-    "who": "A 箱（Alan）",
-    "quote": "16 Port Industrial PoE Switch",
-    "why": "本日去信真实主题（邮箱索引 bc7cd1b5e241bc4a；信稿开头句引用此封；此前稿内写的「Managed Optical Bypass Switch」是线程列表首题，不是本封）",
-    "k": "bc7cd1b5e241bc4a"
-   }
+  "code": "SB-517",
+  "name_official": "（Ernesto Guevara；表内国别厄瓜多尔，电话 +505 为尼加拉瓜）",
+  "researched_at": "2026-10-21",
+  "website_status": "无域名（免费邮箱/仅电话）",
+  "summary": "个人买家 Ernesto Guevara（仅 WA 电话 +505 7778 9314——+505 为尼加拉瓜区号，表内国别「厄瓜多尔」待核）。需求 GPON 交换机与路由器（Saga 均不做），2024-08 对 10G MC 问了不相关产品；18 次推送 1 次实质回复。→ B 低优先，P1 待核（p1 null）。",
+  "type": "",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "用户表",
+      "claim": "表内需求与回复",
+      "quote": "GPON switch和Router；2024.8.14 10G MC → 问了一个不相关的",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [],
-  "draft_en": {
-   "subject": "The 5-port switch in your engineering kits - two options and a price per kit run",
-   "body": "Hi Justin,\n\nOver the past months you had a few product mails from us - most recently \"16 Port Industrial PoE Switch\" on 8 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the 5-port switch bundled with your engineering kits, two options, neutral or under your label from small lots, FCC/CE/RoHS: desktop 5 x Gigabit unmanaged - model STC-05GE - $6.2 USD EXW (MOQ 1, 15-day validity); DIN-rail industrial 5 x Gigabit, 12-36 V DC, -40 to 75 C - STI-050GE - $17.8 (wide 12-58 V input version $25).\n\nOne question: what quantity per kit run do you plan - that sets the carton and the price break?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+  "kp": [
+    {
+      "name": "Ernesto Guevara",
+      "role": "（个人）",
+      "email": "",
+      "phone": "+505 7778 9314（WA 已加）",
+      "source": "用户 Clients 表"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "无域名 · 仅表内信息"
   },
-  "as_of": "2026-10-24"
- }
+  "company_facts": {
+    "legal_name": "待核",
+    "founded": "待核",
+    "hq": "待核",
+    "size": "待核",
+    "other": "+505 7778 9314（尼加拉瓜号段）；无邮箱"
+  },
+  "business_lines": [
+    "待核（见表内需求）"
+  ],
+  "products_seen": [],
+  "channels": {
+    "contact": "Ernesto Guevara，+505 7778 9314（WA 已加）"
+  },
+  "signals": [],
+  "risks": [
+    "需求 GPON/路由器均不在 Saga 产品线",
+    "国别待核（NI vs EC）；无邮箱"
+  ],
+  "saga_fit": {
+    "p1": null,
+    "tier": 25,
+    "why": "GPON + 路由器 → Saga 无；待其出现交换机/MC 需求再对位"
+  },
+  "email_hook": "We do not carry GPON OLTs or routers, but if your deployments need PoE access switches or fiber media converters behind the ONT I can send prices — is that part of your projects?",
+  "mail_review": {
+    "binding": {
+      "level": "未发信（S/A 邮箱均无往来；来源：用户表「GPON switch和Router；2024.8.14 10G MC → 问了一个不相关的」）；Elsa 箱无可查地址（仓内无此户任何邮箱/域名——用户表/WhatsApp/展会名片户，`from:e.sagatelecom to:` 无从下手；Elsa 群发是否碰过他无法判定，不写「未触达」）（第 74 批(o)）",
+      "type": "—",
+      "sieve": "—（未入筛）",
+      "stop": "从未触达",
+      "revive": "不动（非主攻区；J5：有证据再动）",
+      "lane": "厄瓜多尔 非主攻",
+      "cadence": "不动",
+      "evidence": "gmail_digest：out 0；用户表：「GPON switch和Router；2024.8.14 10G MC → 问了一个不相关的」；研究档 risks：需求 GPON/路由器均不在 Saga 产品线"
+    },
+    "situation": "个人买家 Ernesto Guevara（仅 WA 电话 +505 7778 9314——+505 为尼加拉瓜区号，表内国别「厄瓜多尔」待核）。需求 GPON 交换机与路由器（Saga 均不做），2024-08 对 10G MC 问了不相关产品；18 次推送 1 次实质回复。→ B 低优先，P1 待核（p1 null）。",
+    "need": "GPON + 路由器 → Saga 无；待其出现交换机/MC 需求再对位",
+    "breakpoint": "需求 GPON/路由器均不在 Saga 产品线",
+    "saga_now": {
+      "p1": "—",
+      "tier": 25,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "GPON + 路由器 → Saga 无；待其出现交换机/MC 需求再对位",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "不动",
+      "channel": "—",
+      "action": "—",
+      "one_question": ""
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "GPON switch和Router；2024.8.14 10G MC → 问了一个不相关的",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [
+      "无邮件往来",
+      "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

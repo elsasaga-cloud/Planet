@@ -1,138 +1,185 @@
 {
   "code": "SB-315",
-  "name_official": "Infinicore Incorporated（infinicoreinc.com，San Jose, CA, USA）",
+  "name_official": "Công ty TNHH TM DV Song Thành Công (STC Vietnam)",
   "researched_at": "2026-10-21",
-  "website_status": "在线",
-  "summary": "美国加州圣何塞的网络可视化/流量分析/测试系统厂商（2010 年成立；FlowDirector 网络分流器 1G–400G、FlowMagic、FSN、InfiniLOAD 负载生成；面向企业与政府级关键基础设施）；规模小（D&B 3 人 / RocketReach $6M 口径）。**用户表国别登记为「加拿大」有误——实为美国。** 产品方向（分流器/测试）与 Saga 接入交换机不同类，仅实验室/机柜汇聚有少量需求。WhatsApp 已加，8 次跟进 0 回复。",
+  "website_status": "在线（stc-vietnam.com，快照 2026-10-21，越南语）",
+  "summary": "越南工业自动化元器件贸易商（Song Thành Công / STC Vietnam），代理 NSD 编码器、Logika、**Moxa**、E2S、Enerdoor、Advantech 等数十品牌，有报价部 pricing@；表内 Moxa 分销商，需求工业光纤交换机 / 串口 MC，2024 年多次要价格与官网，「主要是工业品」。",
   "type": "",
   "size": "",
-  "brands_seen": [],
+  "brands_seen": [
+    "Moxa",
+    "Advantech",
+    "Cisco"
+  ],
   "evidence": [
     {
-      "kind": "官网",
-      "claim": "公司定位与产品",
-      "quote": "Infinicore builds high-performance network visibility, traffic analytics, and test systems for enterprise and government-grade environments … Founded in 2010 in Silicon Valley … FlowDirector, FlowMagic, and 01Layer … Infinicore Inc. 1754 Technology Dr STE 210 San Jose, CA 95110",
-      "url": "https://www.infinicoreinc.com/company.html",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网",
-      "claim": "联系方式",
-      "quote": "Infinicore Incorporated 1754 Technology Dr STE 210 San Jose, CA 95110 Phone: +1 (408) 320-2427 Email: info@infinicoreinc.com",
-      "url": "https://www.infinicoreinc.com/support.html",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "名录",
-      "claim": "规模口径",
-      "quote": "Infinicore Incorporated 96 N 3RD ST STE 150 SAN JOSE, CA 95112 … Founded 2010 … Employee Count 3",
-      "url": "https://www.dandb.com/businessdirectory/infinicoreincorporated-sanjose-ca-518632.html",
+      "kind": "官网快照",
+      "claim": "品牌代理：NSD、Logika、Moxa、E2S、Enerdoor；pricing@ / duc@stc-vietnam.com / vantu@songthanhcong.com；关键词 automation 12 / moxa 12",
+      "quote": "STC VietNam chuyên cung cấp Encoder NSD, Sensor, NSD Viet Nam, Logika Vietnam, Moxa Vietnam, E2S Việt Nam, Enerdoor Việt Nam… pricing@stc-vietnam.com… Mr. Văn Tú… Mr Đức",
+      "url": "https://stc-vietnam.com/",
       "date": "2026-10-21"
     },
     {
       "kind": "用户表",
-      "claim": "登记国别「加拿大」（有误，实为美国）；WhatsApp 已加；8 次跟进 0 回复",
-      "quote": "（用户表字段）",
+      "claim": "Moxa 分销商；工业 FS、串口 MC；回复价格 官网 ×2、价格、主要是工业品",
+      "quote": "兴趣：MoXa的分销商 工业FS 串口 MC；回复：价格 官网；主要是工业品",
       "url": "（本地 Clients/ 表格，无公开 URL）",
       "date": "2026-10-21"
     }
   ],
-  "kp": [],
+  "kp": [
+    {
+      "name": "Mr. Linh",
+      "title": "（采购；表内注 MaiWe）",
+      "email": "linh@songthanhcong.com",
+      "phone": "+84 374 133 044",
+      "source": "（本地 Clients/ 表格，无公开 URL）"
+    },
+    {
+      "name": "Mr. Đức",
+      "title": "Sales",
+      "email": "duc@stc-vietnam.com",
+      "phone": "+84 379 720 873",
+      "source": "https://stc-vietnam.com/"
+    }
+  ],
   "grade_override": null,
   "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 国别由表内「加拿大」更正为「美国」（country_fix，依据见加厚块）",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
   "deep": {
     "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（官网核对 · 国别更正）"
+    "level": "B 级加厚 v1（官网快照核对）"
   },
   "company_facts": {
-    "legal_name": "Infinicore Incorporated（InfiniCORE, Inc.）",
-    "founded": "2010",
-    "hq": "1754 Technology Dr, STE 210, San Jose, CA 95110, USA（+1 408-320-2427；info@infinicoreinc.com）",
-    "size": "3 人（D&B）～小团队；$6M（RocketReach 口径，不一致）",
-    "other": "产品：FlowDirector（1G/10G/25G/40G/100G/200G/400G 分流/聚合）、FlowMagic、FSN、InfiniLOAD；客户：企业与政府级关键基础设施"
+    "legal_name": "Công ty TNHH TM DV Song Thành Công",
+    "founded": "",
+    "hq": "越南（胡志明市，待核）",
+    "size": "中小型工业元器件贸易商",
+    "other": "多品牌代理；有报价部"
   },
   "business_lines": [
-    "网络可视化 / 分流器（NPB）",
-    "流量捕获、回放、分析与测试系统"
+    "工业自动化元器件（编码器、传感器、继电器、电源）",
+    "工业网络（Moxa 交换机 / 串口服务器）"
+  ],
+  "products_seen": [
+    {
+      "brand": "Moxa",
+      "model": "AWK-4131A 等",
+      "spec": "工业无线 / 交换机",
+      "saga": "Saga STI 工业线对位 Moxa EDS 入门款（价差 2–3 倍）",
+      "url": "https://stc-vietnam.com/",
+      "date": "2026-10-21"
+    }
   ],
   "channels": {
-    "网站": "https://infinicoreinc.com/",
-    "电话": "+1 408-320-2427（官网公开）",
-    "邮箱（公开）": "info@infinicoreinc.com"
+    "role": "工业元器件分销（Moxa 渠道）",
+    "region": "越南"
   },
   "signals": [
-    "仅实验室/演示机柜需要 1G/10G 管理交换机做设备互联——STC-424XGGM 一次性 1–2 台"
+    "多次问价工业小壳 / 2 光 16 电 / mini 工业 → 在找 Moxa 以外的低价工业线",
+    "表内另一联系人注「MaiWe」→ 已接触中国同行迈威"
   ],
   "risks": [
-    "产品方向不同类；政府级客户（守界/TAA）；8 次跟进 0 回复 → 低优先"
+    "Moxa 分销身份 → 只会拿低价线做补充",
+    "越南非主攻区；比价（MaiWe）"
   ],
   "saga_fit": {
-    "p1": "STC-424XGGM",
-    "tier": 25,
-    "why": "终端实验室 25% 档：STC-424XGGM（24 GE + 4×10G SFP+）作测试台互联；非渠道，期望值低"
+    "p1": "STI-244GP",
+    "tier": 20,
+    "why": "其第一次问价对象 2 光 4 小壳 → Saga STI-244GP（$35.2/36.6/38.1）；2 光 16 电 → STI-21616GP；分销 20% 档。"
   },
-  "email_hook": "For the lab racks around your FlowDirector systems, a 24-port gigabit L2+ switch with 4×10G SFP+ uplinks is $132.7 EXW; if you are adding test benches this quarter I can ship one unit for evaluation.",
-  "country_fix": "美国",
+  "email_hook": "Mr. Linh, as a Moxa house you'll know the EDS price points — for the 2-SFP + 4-port and 2-SFP + 16-port industrial sizes you priced with us, do you need managed (ring/VLAN) or will unmanaged do for the panel-level jobs?",
   "mail_review": {
     "binding": {
-      "level": "未触达（A/S 邮箱 11 封 2025→2026，无记录打开，0 回；收件 info@infinicoreinc.com；主题多为「90W PoE Managed Switch、Marvell Alleycat5 Solution」）；Elsa 1:1 去信 1 封（2025-02-28「L3 Managed Switch」；To 仅本户 info@infinicoreinc.com；Bcc 未逐封读头；同类名单抽读 24 封均无 Bcc；此后再未进 Elsa 任何名单——全箱 `from:e.sagatelecom to:info@infinicoreinc.com` 仅此 1 条，complete）（第 74 批(m)）",
+      "level": "Elsa 群发 BCC 已触达 2026-09-10「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，越南（锚 vienthonghanoi VN） 批次 To inbox.vienthonghanoi@gmail.com，0 回（第 74 批 Bcc 头核对 msg 1a08a3bf37753529）；S/A 箱：S/A 邮箱均无往来；来源：用户表「兴趣：MoXa的分销商 工业FS 串口 MC；回复：价格 官网；主要是工业品」）",
       "type": "—",
-      "sieve": "1（只收到群发）",
-      "stop": "只打通用邮箱，无记录打开",
-      "revive": "保持季度群发到 2027-Q1；无打开即停；WhatsApp 已加 → 唤醒走 WhatsApp 一句话，不走邮件",
-      "lane": "US 主攻（四主）",
-      "cadence": "季度",
-      "evidence": "gmail_digest：out 11；用户表：「（用户表字段）」；研究档 risks：产品方向不同类；政府级客户（守界/TAA）；8 次跟进 0 回复 → 低优先"
+      "sieve": "—（未入筛）",
+      "stop": "从未触达",
+      "revive": "不动（非主攻区；J5：有证据再动）",
+      "lane": "越南 非主攻",
+      "cadence": "不动",
+      "evidence": "gmail_digest：out 0；用户表：「兴趣：MoXa的分销商 工业FS 串口 MC；回复：价格 官网；主要是工业品」；研究档 risks：Moxa 分销身份 → 只会拿低价线做补充；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To inbox.vienthonghanoi@gmail.com）本户见于 2026-09-10 名单"
     },
-    "situation": "美国加州圣何塞的网络可视化/流量分析/测试系统厂商（2010 年成立；FlowDirector 网络分流器 1G–400G、FlowMagic、FSN、InfiniLOAD 负载生成；面向企业与政府级关键基础设施）；规模小（D&B 3 人 / RocketReach $6M 口径）。**用户表国别登记为「加拿大」有误——实为美国。** 产品方向（分流器/测试）与 Saga 接入交换机不同类，仅实验室/机柜汇聚有少量需求。WhatsApp 已加，8 次跟进 0 回复。",
-    "need": "终端实验室 25% 档：STC-424XGGM（24 GE + 4×10G SFP+）作测试台互联；非渠道，期望值低",
-    "breakpoint": "产品方向不同类；政府级客户（守界/TAA）；8 次跟进 0 回复 → 低优先",
+    "situation": "越南工业自动化元器件贸易商（Song Thành Công / STC Vietnam），代理 NSD 编码器、Logika、**Moxa**、E2S、Enerdoor、Advantech 等数十品牌，有报价部 pricing@；表内 Moxa 分销商，需求工业光纤交换机 / 串口 MC，2024 年多次要价格与官网，「主要是工业品」。",
+    "need": "其第一次问价对象 2 光 4 小壳 → Saga STI-244GP（$35.2/36.6/38.1）；2 光 16 电 → STI-21616GP；分销 20% 档。",
+    "breakpoint": "Moxa 分销身份 → 只会拿低价线做补充",
     "saga_now": {
-      "p1": "STC-424XGGM",
-      "tier": 25,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-07-23 $300（48 Port PoE Managed Switch）、2025-09-23 $280（10G Enterprise SFP Switch）",
-      "why": "终端实验室 25% 档：STC-424XGGM（24 GE + 4×10G SFP+）作测试台互联；非渠道，期望值低",
+      "p1": "STI-244GP",
+      "tier": 20,
+      "price": "按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-09-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-10；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
+      "why": "其第一次问价对象 2 光 4 小壳 → Saga STI-244GP（$35.2/36.6/38.1）；2 光 16 电 → STI-21616GP；分销 20% 档。",
       "repeat": [],
       "gaps": []
     },
     "next_move": {
-      "when": "群发节奏",
-      "channel": "A 邮箱",
-      "action": "首封前知悉：Elsa 仅 2025-02-28 单发过 1 封「L3 Managed Switch」，之后没再碰他（第 74 批(m)）；观察打开",
-      "one_question": "For the lab racks around your FlowDirector systems, a 24-port gigabit L2+ switch with 4×10G SFP+ uplinks is $132.7 EXW; if you are adding test benches this quarter I can ship one unit for evaluation."
+      "when": "不动",
+      "channel": "—",
+      "action": "—",
+      "one_question": ""
     },
     "facts": [
       {
-        "date": "2025-02-28",
-        "dir": "out",
-        "who": "Elsa → info@infinicoreinc.com",
-        "quote": "L3 Managed Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
-        "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
-        "k": "elsa_1to1",
-        "msg_id": "1954890bd013ce60"
+        "date": "2024-07-16",
+        "dir": "来",
+        "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+        "quote": "用户表跟进：推「发了电口图」→ 对方「hi thanks」",
+        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+        "k": "Clients/E/群发/VN 09.09 09.10/VN.xlsx no.161 2024.7.16"
       },
       {
-        "date": "2026-03-04",
+        "date": "2024-08-14",
+        "dir": "来",
+        "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+        "quote": "用户表跟进：推「4 8口工业PoE」→ 对方「noted」",
+        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+        "k": "Clients/E/群发/VN 09.09 09.10/VN.xlsx no.161 2024.8.14"
+      },
+      {
+        "date": "2024-10-22",
+        "dir": "来",
+        "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+        "quote": "用户表跟进：推「电口」→ 对方「noted」",
+        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+        "k": "Clients/E/群发/VN 09.09 09.10/VN.xlsx no.161 1022"
+      },
+      {
+        "date": "2024-11-18",
+        "dir": "来",
+        "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+        "quote": "用户表跟进：推「引流机型」→ 对方「industrial grade?」",
+        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+        "k": "Clients/E/群发/VN 09.09 09.10/VN.xlsx no.161 1118"
+      },
+      {
+        "date": "2024-12-10",
+        "dir": "来",
+        "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+        "quote": "用户表跟进：推「Mini」→ 对方「price」",
+        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+        "k": "Clients/E/群发/VN 09.09 09.10/VN.xlsx no.161 1210"
+      },
+      {
+        "date": "2026-09-10",
         "dir": "去",
-        "who": "A/S 群发",
-        "quote": "90W PoE Managed Switch、Marvell Alleycat5 Solution",
-        "why": "11 封 / 0 次打开 / 0 回｜首封 2025-01-16 → 末封 2026-03-04（11 去 / 0 来）",
-        "k": "gmail_digest"
+        "who": "Elsa 群发（BCC；To inbox.vienthonghanoi@gmail.com，越南（锚 vienthonghanoi VN） 批次）",
+        "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
+        "why": "Elsa 箱群发 BCC 触达证据（命中地址 duy@songthanhcong.com, songthanhcong.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+        "k": "elsa_bcc"
       },
       {
         "date": "2026-10-21",
         "dir": "用户表",
         "who": "Simon",
-        "quote": "（用户表字段）",
+        "quote": "兴趣：MoXa的分销商 工业FS 串口 MC；回复：价格 官网；主要是工业品",
         "why": "表内备注",
         "k": "用户表"
       }
     ],
     "proof_gaps": [
-      "用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+      "无邮件往来",
+      "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
     ],
     "draft_en": null,
-    "as_of": "2026-10-24"
+    "as_of": "2026-10-25"
   }
 }

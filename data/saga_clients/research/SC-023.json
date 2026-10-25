@@ -1,0 +1,41 @@
+{
+ "code": "SC-023",
+ "name_official": "Central Gospel School（加纳）",
+ "researched_at": "2026-10-21",
+ "website_status": "无域名（gmail）",
+ "summary": "加纳学校（终端用户），2024 年主动联系要 2 台 UniFi 24 口 PoE 同款与工业管理型价目；学校 = 非渠道终端用户、单次 2 台，按 SC-028 同口径降 C（可被动报价）。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "客户主动联系 Unifi Switch 24 POE 2 个，问工业管理 price list；2.5G→暂时没需求",
+   "quote": "兴趣：客户主动联系 Unifi Switch 24 POE 2个 问工业管理 price list；回复：暂时没需求",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Samuel Kyerbuah Bunyan",
+   "title": "（学校联系人）",
+   "email": "samuelkbunyan51@gmail.com",
+   "phone": "+233 24 481 8563",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": "C",
+ "override_reason": "学校终端用户、非渠道（与 SC-028 同口径）；来询时被动报价即可",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（身份判断 → 学校终端降 C）"
+ },
+ "saga_fit": {
+  "p1": null,
+  "tier": 25,
+  "why": "被动：若再询，24 口 PoE → STC-424DGGPM-280W。"
+ },
+ "email_hook": "（不主动发送）"
+}

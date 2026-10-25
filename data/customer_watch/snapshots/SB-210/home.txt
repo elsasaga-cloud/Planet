@@ -1,168 +1,77 @@
-# SB-210 axilogi.com · home · https://axilogi.com/ · fetched 2026-10-25T07:41:18Z · HTTP 200
-Axilogi s.r.o.
-O nás
-Kontakty
-Doprava
-Reklamace
-Kariéra
-EN
-CZ
-USD
-EUR
-CZK
-Přihlášení
-Přihlásit se
-Trvalé přihlášení
-Registrace
-Zapomněli jste heslo?
-Axilogi s.r.o.
-0
-Košík je prázdný
-0
-Seznam produktů
-Porovnání produktů
-Smazat vše
-Hledat
-Kategorie
-Výrobci
-Fotovoltaika
-Bezdráty
-LAN
-MikroTik
-Optické sítě
-Napájení
-Bezpečnostní systémy
-Rozvaděče
-Držáky a stožáry
-IoT a SMART
-Nářadí a instalační materiál
-Počítače a komponenty
-Školení a služby
-Merch
-Akce a novinky
-Nové produkty
-Triton plně výsuvná police 1U/650mm, 19", nosnost 45kg, šedá
-1 898 Kč bez DPH
-2 297 Kč s DPH
-Triton 19" stojanový rack 18U/800x800 prosklené dveře, šedý
-9 545 Kč bez DPH
-11 549 Kč s DPH
-Hikvision AX PRO Bezdrátový detektor rozbití skla
-Hikvision IP bullet kamera DS-2CD1027G3-LIU(2.8mm), 2Mpx, 2.8mm, ColorVu 3.0
-Hikvision IP turret kamera DS-2CD1323G2-LIU(4mm), 2Mpx, 4mm, ColorVu
-MEAN WELL XDR-150E-12 Průmyslový zdroj na DIN lištu, 132W, 12V
-610 Kč bez DPH
-738 Kč s DPH
-Triton speciální vyvazovací panel pro zavěšení, černý
-120 Kč bez DPH
-145 Kč s DPH
-MikroTik TG-LR92, LoRa senzor teploty, vlkosti a pohybu
-485 Kč bez DPH
-587 Kč s DPH
-Triton 19" stojanový rack 15U/600x900 prosklené dveře, šedý
-8 858 Kč bez DPH
-10 718 Kč s DPH
-Hikvision DS-1253ZJ-L Ochraný kryt pro Dome kamery
-Triton rozvodný panel RAB-PD-X04-A1, 19", 8x 230V (typ F), vypínač, 2m kabel
-815 Kč bez DPH
-987 Kč s DPH
-Ubiquiti UniFi patch kabel, 0,4m, Cat5e, černý, 24 pack
-1 209 Kč bez DPH
-1 463 Kč s DPH
-TP-Link Tapo C250 Domácí bezpečnostní Wi-Fi kamera s naklápěním, 8Mpx
-1 344 Kč bez DPH
-1 626 Kč s DPH
-Triton ochranná kovová mřížka 120x120mm
-41 Kč bez DPH
-49 Kč s DPH
-Teltonika Telematics FMC927, Automobilový GPS tracker s Bluetooth a 4G LTE Cat 1
-1 476 Kč bez DPH
-1 786 Kč s DPH
-Aktuality
-MikroTik Queue Tree: když Simple QoS nestačí
-22.10.2026
-QoS v RouterOS není novinka. Queue Tree dává správcům sítí výrazně větší kontrolu než jednoduché Simple QoS. Hodí se pro přesnější prioritizaci provozu, lepší řízení šířky pásma a pokročilejší práci s jednotlivými směry trafficu. Ve videu MikroTik jednoduchou formou ukazuje, proč je tahle metoda užitečná hlavně v náročnějších sítích.
-MikroTik vstupuje do světa IoT. Seznamte se s CLAIRÉ
-21.09.2026
-CLAIRÉ vidí to, co vaše smysly neodhalí. Sleduje CO2, prachové částice (PM2.5/PM10), VOC, teplotu i vlhkost a upozorní na zhoršení kvality vzduchu. Barevný 2" displej ukáže hodnoty okamžitě. Díky Matter over Thread zapadne do chytré domácnosti a s Home Assistantem umožní automatizovat větrání či upozornění.
-Kritická bezpečnostní aktualizace pro MikroTik RouterOS
-09.09.2026
-MikroTik vydal mimořádné bezpečnostní aktualizace RouterOS kvůli závažné zranitelnosti, která může ohrozit zařízení s management službami dostupnými z internetu, zejména SSH. Oprava je součástí verzí 7.24.2, 7.23.4, 6.49.21 a novějších. Správcům doporučujeme aktualizaci neodkládat a současně omezit přístup k administraci pouze z důvěryhodných sítí.
-DEYE hybridní měnič 125 kW je tu!
-03.09.2026
-Představujeme nejvýkonnější hybridní měnič DEYE s výkonem až 125 kW, určený pro vysokonapěťové baterie (160–1000 V). Nabízí špičkovou účinnost až 98,7 %, podporu až 20 stringů, pokročilé vzdálené řízení i možnost paralelního provozu až 10 systémů. Ideální řešení pro náročné komerční a průmyslové instalace. První kusy očekáváme skladem už za necelé 2 měsíce.
-Nový PoE převodník od MikroTiku
-21.08.2026
-MikroTik rozšiřuje své portfolio o další praktické novinky pro síťovou infrastrukturu. Jednou z nich je GPOE-CON-mini, kompaktní převodník, který umožňuje napájet zařízení s s pasivním 24V PoE přímo ze standardní 802.3af/at PoE infrastruktury. Stačí jej zapojit mezi klasický PoE switch a zařízení. Podívejte se i na další nové produkty, které MikroTik v posledním newsletteru představil.
-Velké letní slevy na fotovoltaické sety
-11.08.2026
-Připravili jsme pro vás letní akci na zvýhodněné fotovoltaické sety s měniči DEYE o výkonu 10 až 80 kW. Využijte velké slevy na kompletní řešení pro domácnosti i firmy a pořiďte si spolehlivou fotovoltaiku za výhodnější cenu. Akce platí pouze do vyprodání zásob.
-Stabilní 5G připojení bez nastavování směru antény
-31.07.2026
-Od města až po otevřené moře. Do nabídky jsme zařadili MikroTik LAMP 5G R16 – venkovní 5G router s integrovanou eSIM, všesměrovými anténami a podporou 5G SA/NSA. Nabízí odolnost IP67, GNSS i certifikaci EN 60945, takže je ideální pro průmysl, přístavy, plavidla, záložní konektivitu i další náročné venkovní instalace.
-Dejte technice druhou šanci
-20.07.2026
-Proč platit plnou cenu, když můžete ušetřit? V naší nabídce najdete kromě nového zboží, také i sekci rozbalené i použité, které jsme pečlivě zkontrolovali a připravili k dalšímu používání. Stejná kvalita, výrazně nižší cena a navíc udržitelnější volba. Mrkněte, jaké kousky právě čekají skladem.
-Nový Wi-Fi 7 Access Point Alta Labs AP7
-01.07.2026
-Do nabídky jsme nově zařadili Wi-Fi 7 Access Point Alta Labs AP7-Pro. Novinka přináší Tri-Band Wi-Fi 7, 10GbE port, 4×4 MIMO, podporu Mesh i pokročilou cloudovou správu. První kusy očekáváme skladem během následujících 3 týdnů. Sledujte nás a buďte mezi prvními, kdo využije extrémní výkon nové generace Wi-Fi 7.
-Další aktuality
-Zastoupené značky
-Represented brands
-Obchodní informace Business information
-+420 371 420 570
-+420 601 358 102
-sales@axilogi.cz
-Po - Pá Mon - Fri :  -
-Fotovoltaika Photovoltaics
-+420 601 008 383
-sales@axilogi.cz
-Po - Pá Mon - Fri :  -
-Technická podpora Technical support
-+420 371 420 573
-servis@axilogi.cz
-Po - Pá Mon - Fri :  -
-Expedice a sklad Shipping and warehouse
-+420 371 420 572
-sklad@axilogi.cz
-Po - Pá Mon - Fri :  -
-Byli jste spokojeni? Podělte se o recenzi. Happy with our service? Leave us a review.
-Technické oddělení: +420 733 431 144
-Obchodní oddělení: +420 601 008 383
-Kde nás najdete
-Axilogi s.r.o.
-Daimlerova 1161/6
-301 00 Plzeň
-Česká Republika
-IČ: 10964703
-DIČ: CZ10964703
-O společnosti O nás
-Kontakty
-Kariéra
-O nákupu Doprava a platba
-Reklamace a vrácení zboží
-Obchodní podmínky
-Ochrana osobních údajů
-Reklamační podmínky
-Informace o cookies
-Zpětný odběr elektroodpadu
-Odstoupení od smlouvy
-Produkty Novinky
-Rozbalené a použité
-Speciální nabídky
-Doprodej
-Výrobci
-Služby Školení
-DEYE servis
-Download center
-Solární konfigurátor
-Axilogi s.r.o.
-Technické řešení ©
-2026 CyberSoft s.r.o.
-Bez cookies to nepeče
-Abychom vám zpříjemnili používání našeho webu a mohli zobrazovat obsah, který vás zajímá, používáme soubory cookies. Kliknutím na „Přijmout vše“ souhlasíte s jejich využitím, včetně zpracování osobních údajů pro personalizovanou online reklamu. Více informací najdete po kliknutí na „Zobrazit detaily“.
-Pouze nutné
-Povolit výběr
-Přijmout vše
-Nutné Preferenční Statistické Marketingové Neklasifikované
-Zobrazit detaily
+# SB-210 deonet.co.kr · home · https://www.deonet.co.kr/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+디오넷
+주 메뉴 바로가기
+본문 바로가기
+회사소개
+인사말
+조직도
+연혁
+오시는길
+인사제도
+ESG
+윤리경영
+품질경영
+환경경영
+신문고
+제품소개
+PON system
+CPE
+Multiplexer
+Network Switch
+Wi-Fi (AP)
+온라인 문의
+고객지원
+자료실
+공지사항
+글로벌 연구개발 전문벤처기업으로 새로운 도약을 하겠습니다.
+디오넷은 탁월한 기술력과 안정된 품질로 끊임없는 고객신뢰에 보답하고자 최선을 다해 노력하고 있습니다.
+글로벌 연구개발 전문벤처기업으로 새로운 도약을 하겠습니다.
+디오넷은 탁월한 기술력과 안정된 품질로 끊임없는 고객신뢰에 보답하고자 최선을 다해 노력하고 있습니다.
+글로벌 연구개발 전문벤처기업으로 새로운 도약을 하겠습니다.
+디오넷은 탁월한 기술력과 안정된 품질로 끊임없는 고객신뢰에 보답하고자 최선을 다해 노력하고 있습니다.
+글로벌 연구개발 전문벤처기업으로 새로운 도약을 하겠습니다.
+디오넷은 탁월한 기술력과 안정된 품질로 끊임없는 고객신뢰에 보답하고자 최선을 다해 노력하고 있습니다.
+제품소개
+디오넷의 탁월한 기술력으로 제작된 다양한 제품을 만나보세요.
+GNT245
+SM213
+SM5124
+AP1200
+SB3008
+SM2824M
+GNT3520
+공지사항
+09
+2026.07
+ESG진단결과_2025
+20-26-07
+ESG진단결과_2024
+20-25-07
+ESG진단결과_2023
+20-24-08
+자료실
+03
+20.26
+AP1200 무선 AP SSID, PW 설정 매뉴얼
+20-26-08
+네트웍크 제품사양서
+20-21-06
+무선AP 사양서
+20-21-06
+온라인문의
+디오넷에 궁금한 사항을 온라인으로 문의하세요.
+more view
+인사말
+조직도
+연혁
+오시는 길
+인사제도
+개인정보처리방침
+주식회사 디오넷
+본사 : 서울특별시 구로구 디지털로 242 (구로동, 한화비즈메트로) 802호
+전화 : 02-3664-5874
+팩스 : 02-3664-3247
+사무소 : 경기도 고양시 덕양구 통일로 140, C동 415호 (동산동, 삼송테크노밸리)
+전화 : 02-6383-0355
+팩스 : 02-6083-0356
+Copyright © 2020 DEONET CO.,Ltd. All rights reserved.

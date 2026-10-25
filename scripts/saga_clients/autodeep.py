@@ -6,7 +6,7 @@ deepen.py 可直接吞的加厚块（角色 / 业务线 / P1 对位与档位 / �
 人工复核时用 deepen.py 覆盖同名字段并改 level 即可。
 
 用法：
-  python3 autodeep.py --tiers T4,T5 [--limit N] [--codes SB-001,SB-002] > /tmp/auto.json
+  python3 autodeep.py --tiers T4,T5 [--limit N] [--codes SB-083,SB-084] > /tmp/auto.json
   python3 deepen.py < /tmp/auto.json
 规则（只写可从快照 / 表内直接推出的内容，不编造事实）：
   角色：用户表类型（infer_type）优先 → 官网文案关键词（分销 / 网店 / ISP / 集成安装 / 制造）→ 「待核」；

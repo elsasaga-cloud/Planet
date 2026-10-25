@@ -1,0 +1,34 @@
+# SA-079 Biz-Ethics Ltd. / BEL Networks（拉各斯，自有品牌 BNSC-） · domain_rdap · https://rdap.verisign.com/com/v1/domain/belnetworks.com · fetched 2026-10-25T07:41:18Z · HTTP 200
+{
+ "events": [
+  {
+   "eventAction": "registration",
+   "eventDate": "2024-08-16T06:09:14Z"
+  },
+  {
+   "eventAction": "expiration",
+   "eventDate": "2027-08-16T06:09:14Z"
+  },
+  {
+   "eventAction": "last changed",
+   "eventDate": "2026-07-19T23:10:30Z"
+  },
+  {
+   "eventAction": "last update of RDAP database",
+   "eventDate": "2026-10-25T07:41:13Z"
+  }
+ ],
+ "nameservers": [
+  {
+   "ldhName": "NS1.1STDOMAINS.NET.NZ",
+   "objectClassName": "nameserver"
+  },
+  {
+   "ldhName": "NS2.1STDOMAINS.NET.NZ",
+   "objectClassName": "nameserver"
+  }
+ ],
+ "status": [
+  "active"
+ ]
+}

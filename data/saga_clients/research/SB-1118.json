@@ -1,181 +1,94 @@
 {
  "code": "SB-1118",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（mcss.co.kr，快照 2026-10-21）",
- "summary": "韩国 ICT 集成商 MCS Solution（엠씨에스솔루션：网络集成 / 云 / IoT / IT 外包；站内商城在售 PLANET IGS-6325-8UP2S2X 工业 L3 PoE、PLANET GS-4210-8P2S、UniFi USW-16/24/48-PoE、Teltonika RUT976；表内「基本都是 UniFi 的 switch」）；表内无跟进记录。",
- "type": "系统集成 + 在线商城（PLANET / UniFi 渠道）",
- "size": "",
- "brands_seen": [
-  "Teltonika",
-  "PLANET"
- ],
+ "name_official": "Education HMO（educationhmo.com；邮件系统横幅「Message du CSPE」，魁北克法语环境）",
+ "website_status": "未爬（沙箱无外网）；域名见于 Alan 2026-09-29 群发收件地址",
+ "summary": "加拿大魁北克的教育机构 IT 联系人 Alain Casault；Alan 2026-09-29 单发「Managed PoE Switches」（Marvell AC5 管理型 PoE 介绍 + L3 Managed.jpg），次日本人回「现在不要，留着你的邮箱以后参考」。",
+ "type": "教育机构 / 终端用户（非渠道）",
+ "size": "未知",
+ "brands_seen": [],
  "evidence": [
   {
-   "kind": "官网快照",
-   "claim": "官网标题：엠씨에스솔루션 | 네트워크 솔루션·ICT·IoT 전문기업；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 光纤 / 媒体转换 / 网络交换 / PoE",
-   "quote": "(주)엠씨에스솔루션은 네트워크 통합, 클라우드, IoT, AI, IT 아웃소싱 등 종합 IT 서비스와 솔루션을 제공하여 고객의 비즈니스 경쟁력을 높이는 ICT 전문기업입니다. 혁신적인 IT 기술과 신뢰성 있는 서비스를 바탕으로 다양한 산업의 디지털 혁신을 지원합니다",
-   "url": "https://www.mcss.co.kr/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "基本都是unifi的switch",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "韩语官网：网络集成/云/IoT/IT 外包 ICT 专业企业",
-   "quote": "(주)엠씨에스솔루션은 네트워크 통합, 클라우드, IoT, AI, IT 아웃소싱 등 종합 IT 서비스와 솔루션을 제공",
-   "url": "https://www.mcss.co.kr/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "基本都是 UniFi 交换机",
-   "quote": "基本都是unifi的switch",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
+   "kind": "mail",
+   "claim": "本人回信，礼貌拒绝但留门",
+   "quote": "Not for the moment, but I'll keep your Email for futur reference.",
+   "url": "gmail_a k=cae10af242e8d3f8",
+   "date": "2026-09-30"
   }
  ],
  "kp": [
   {
-   "name": "노현진（MCSS support@）",
-   "role": "来信署名人（职务未在邮件署名里出现）",
-   "email": "support@mcss.co.kr",
+   "name": "Alain Casault",
+   "role": "IT（职务未署）",
+   "email": "casault.alain@educationhmo.com",
    "phone": "",
-   "source": "S/A 邮箱来信 2026-01-16 来信 1 封（第 72 批从邮件表头补）"
+   "source": "gmail_a 2026-09-30 回信签名「AC」"
   }
  ],
+ "notes": "Q-44「A 邮箱入库后同一脚本再跑一遍，把有人工回信的补录」的产物（第 64 批）。727 个未入库出站域名里只有它一个是重点区域内的真人回信。",
+ "researched_at": "2026-10-24",
+ "saga_fit": {
+  "p1": "STC-424XGGPM-280W（校园楼层 PoE，24 口 + 4×10G）",
+  "tier": 25,
+  "why": "教育终端用户，项目制，按集成商档 25%"
+ },
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "韩国",
-  "other": "官网 mcss.co.kr，语言 ko，快照状态 ok；角色判定来源：官网文案"
- },
- "business_lines": [
-  "网络集成 / 云 / IoT / IT 外包",
-  "在线商城（交换机 / 无线 / 路由）"
- ],
- "channels": {
-  "role": "系统集成 + 在线商城（PLANET / UniFi 渠道）",
-  "region": "韩国",
-  "contact": "sales@mcss.co.kr"
- },
- "signals": [
-  "站内商城页 /tt_shop_switch、/usw-24-poe、/usw-16-poe、/usw-48-poe",
-  "站内 PLANET 词频 71、Teltonika 在售"
- ],
- "risks": [
-  "韩国市场（T5）：语言/本地支持门槛，低频跟进",
-  "UniFi 为主 = 云控生态，Saga 无云管理（只替换非云场景）",
-  "无具名 KP（sales@）"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 25,
-  "why": "在售 PLANET GS-4210-8P2S（8 PoE + 2 SFP）与 UniFi USW-24-PoE → 对位 STC-28DGGPM（$84.1 @25%）/ STC-424DGGPM-280W；工业位 PLANET IGS-6325-8UP2S2X ↔ STI-288DGGPM（L2+，无 L3 工业 8 口标准型）"
- },
- "email_hook": "For the sites you build on UniFi USW and PLANET GS-4210 PoE switches, we can supply Marvell-based 8-PoE + 2 SFP and 24-PoE L2+ models (neutral packing, small lots) as a cost line under the same topology — which one do you deploy more, the 8-port or the 24-port?",
- "products_seen": [
-  {
-   "brand": "PLANET",
-   "model": "GS-4210-8P2S",
-   "spec": "8 口千兆 PoE + 2 SFP 管理型",
-   "saga": "STC-28DGGPM",
-   "url": "https://www.mcss.co.kr/",
-   "date": "2026-10-21"
-  },
-  {
-   "brand": "PLANET",
-   "model": "IGS-6325-8UP2S2X",
-   "spec": "工业 L3 8 口 UPoE + 2 SFP + 2 SFP+",
-   "saga": "STI-288DGGPM（L2+，L3 待核）",
-   "url": "https://www.mcss.co.kr/",
-   "date": "2026-10-21"
-  },
-  {
-   "brand": "Ubiquiti",
-   "model": "USW-24-POE",
-   "spec": "24 口 PoE 云管理",
-   "saga": "STC-424DGGPM-280W",
-   "url": "https://www.mcss.co.kr/",
-   "date": "2026-10-21"
-  }
- ],
  "mail_review": {
   "binding": {
-   "level": "轻度触达（2026-01-16 support@mcss.co.kr：「send us a list of products and related materials that support your OEM / white-label services」→ Alan 02-05 迟回 20 天给链接；无后续；PLANET/UniFi 渠道 → Q-33 口径）；退信：svc@mcss.co.kr 2025-08-11；Elsa 箱：`to:mcss.co.kr` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 26 / 来 1）（第 74 批(n)）",
-   "type": "韩国系统集成 + 在线商城（MCSS；PLANET/UniFi 在售）",
-   "sieve": "2",
-   "stop": "Q-33 + 迟回",
-   "revive": "不动（Q-33）",
-   "lane": "KR",
-   "cadence": "不动",
-   "evidence": "k=4d792eebebf6a404 / 497037e504e55533"
+   "level": "J1 无绑定；Elsa 箱：`to:educationhmo.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 1 / 来 1）（第 74 批(h)）",
+   "type": "单次群发 + 一次礼貌回绝",
+   "sieve": "教育终端用户，采购走招标/本地集成商，Saga 直接成单概率低",
+   "stop": "对方说「以后再说」，不追",
+   "revive": "2027 上半年（新学年预算前）一封：只问「校园楼层 PoE 换新有没有排期」",
+   "lane": "邮件",
+   "cadence": "半年一次，最多两次",
+   "evidence": "2026-09-30 回信原文"
   },
-  "situation": "—",
-  "need": "OEM/白标清单（2026-01-16 原话：「list of products and related materials that support your OEM / white-label services (such as branding and model name customization)」）——要的是「哪些能贴牌、怎么贴、起订量」，不是链接。",
-  "breakpoint": "Alan 02-05 迟回 20 天且只给链接 + 「还会再更新」，没回答贴牌规则本身（规则 ㉙ 要一段话）；Q-33 口径（PLANET/UniFi 在售）标记但不妨碍答一次具体问题。",
+  "situation": "2026-09-29 Alan 单发介绍，2026-09-30 Alain 本人回「Not for the moment」。无其他往来。",
+  "need": "未表达；教育机构常见需求是楼层 PoE 管理型（24/48 口）与 10G 上联。",
+  "breakpoint": "对方明确「现在不要」。",
   "saga_now": {
-   "p1": "STC-28DGGPM（8 PoE + 2 SFP L2+，OEM 30% 档）；STC-424XGGPM-280W（群发价 $180）；STI-288GPM（DIN 8 PoE + 2 SFP，$85.5）",
-   "tier": 30,
-   "price": "OEM 档 30%：STC-28DGGPM $87.4；STC-424XGGPM-280W $180（现价轮群发，他 2026-08-10 见过 $170）；STI-288GPM $85.5；贴牌软件免费、PVC 丝印收费（MOQ 300）、彩盒 $2.5/套 200 起（商务条款速查 §11）；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-29 $300（48 port switch）；群发里他已看到的价（续）：2026-08-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-06-24 $240（24 Port Fiber Switch）、2025-09-25 $280（10G Enterprise SFP Switch）、2025-10-16 $65（10G Media Converter）",
-   "why": "已打开的主题（2/26 封有打开记录）：「Industrial PoE Switch」(2025-08-11)、「Re: Fw: OEM Core Switching Solution」(2026-02-05) → 读者兴趣偏「工业」；与 P1 同类，继续",
+   "p1": "STC-424XGGPM-280W（24×PoE+ 280W + 4×10G SFP+，L2+）",
+   "tier": 25,
+   "price": "群发现价 $180（2026-09-21 起每天在发的那轮；他收到的是 Alan 09-29 的单发，无价）；规则 ㉕",
+   "why": "教育楼层 PoE 的标准款；真要走也多半经本地集成商",
    "repeat": [],
-   "gaps": []
+   "gaps": [
+    "不知道 CSPE 全称与采购方式（招标/本地集成商）",
+    "不知道他是否负责采购"
+   ]
   },
   "next_move": {
-   "when": "不动（Q-33 渠道客户：PLANET/UniFi 在售 → 不主动跟；备稿留用，Simon 点头或对方再来信才发）（全量审计 2026-10-25 U57）",
-   "channel": "A 邮箱 → support@mcss.co.kr（노현진 Eugene；回到 Re: Fw: OEM Core Switching Solution 串）",
-   "action": "【原计划 2026-11 一封具体答复，与绑定行「revive 不动（Q-33）」矛盾，按 Q-33 默认改为不动】一段话答贴牌规则 + 三款价 + 一问（㉙）",
-   "one_question": "Eugene — answering your January question properly this time: white-label is available on every switch we ship — your logo, model name, MAC range, login IP and SNMP OID at no charge, from 1 unit; front-panel PVC overlay is tooled per batch (MOQ 300); colour box $2.5/set from 200. Reference prices (USD EXW, 15-day validity): 8-PoE + 2 SFP L2+ managed STC-28DGGPM $87.4, 24-PoE + 4×10G L2+ STC-424XGGPM-280W $180 (August mail said $170; that round closed in September), DIN-rail 8-PoE + 2 SFP managed STI-288GPM $85.5. KC certification stays on your side. Which model would you white-label first?"
+   "when": "2027-03（新学年预算前）",
+   "channel": "邮件（Alan）",
+   "action": "一封短信：问校园楼层 PoE 换新是否排进 2027 预算；不发目录（第 75 批(am) 2026-10-25：英文信稿已写 `draft_en`；Alan 署名；不附目录）",
+   "one_question": "Is a PoE refresh for the school buildings on your 2027 list, or is that handled by an integrator you already work with?"
   },
   "facts": [
    {
-    "date": "2025-08-11",
-    "dir": "内",
-    "who": "Gmail 退信（A 邮箱）",
-    "quote": "svc@mcss.co.kr 永久退信：550 sorry, no mailbox (#5.1.1)",
-    "why": "该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职",
-    "k": "gmail_a e1c1f2f36ab7e6a5"
-   },
-   {
-    "date": "2025-08-11",
-    "dir": "内",
-    "who": "Gmail 退信（A 邮箱）",
-    "quote": "svc@mcss.co.kr 退信：550 sorry, no mailbox (#5.1.1)",
-    "why": "该地址当天收不到信；同日的「Opened」记录是退信触发，不算打开",
-    "k": "gmail_a e1c1f2f36ab7e6a5"
-   },
-   {
-    "date": "2026-01-16",
-    "dir": "来",
-    "who": "MCSS（노현진 Eugene，support@mcss.co.kr）",
-    "quote": "Could you please send us a list of products and related materials that support your OEM / white-label services (such as branding and model name customization)? Additionally, please share information about your company and your website.",
-    "why": "对 CENTEC 核心机群发的真人回复——问 OEM 清单 + 公司介绍；Alan 20 天后才回链接",
-    "k": "gmail_a 4d792eebebf6a404"
-   },
-   {
-    "date": "2026-02-05",
+    "date": "2026-09-29",
     "dir": "去",
-    "who": "Saga（Alan）",
-    "quote": "Hi, Eugene, Sorry for the late reply. 1. We updated our product links, please see attached info. Just to let you know, there will be another update about the features soon. 2. There is also info about CENTEC switches. But the prices are not available yet. Memory prices have risen too much recently,…",
-    "why": "Saga 实质答复原文（主题「Re: Fw: OEM Core Switching Solution」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
-    "k": "497037e504e55533"
+    "who": "Alan → Alain Casault",
+    "quote": "This is a Marvell AC5 Managed PoE Switch featuring 1, DI/DO/RS485 for smart monitoring 2, PoE af/at/bt compliant 3, 1G/2.5G/10G fiber speed, customizable Web UI. Do you need some samples for testing?",
+    "why": "单发介绍（附 L3 Managed.jpg），无价",
+    "k": "gmail_a 4a6e6a456e4bae81"
+   },
+   {
+    "date": "2026-09-30",
+    "dir": "来",
+    "who": "Alain Casault",
+    "quote": "Not for the moment, but I'll keep your Email for futur reference.",
+    "why": "真人回信，礼貌留门；邮件系统横幅为法语外部邮件警示（CSPE）",
+    "k": "gmail_a cae10af242e8d3f8"
    }
   ],
-  "proof_gaps": [],
+  "proof_gaps": [
+   "机构全称与规模（educationhmo.com 未爬）",
+   "Alain 的职务"
+  ],
   "draft_en": {
-   "subject": "Re: Fw: OEM Core Switching Solution — white-label terms and three prices",
-   "body": "Hi Eugene,\n\nIn January you asked which of our products support OEM / white-label and how it works; my February reply only gave links, so here is the actual answer.\n\n- White-label is available on every switch we ship: your logo, model name, MAC range, login IP and SNMP OID, at no charge, from 1 unit.\n- Front-panel PVC overlay is tooled per batch (MOQ 300); a colour box with your artwork is $2.5/set from 200 sets.\n- KC certification stays on your side; we supply CE / FCC / RoHS files and test reports.\n\nReference prices (USD EXW, 15-day validity, MOQ 1):\n- STC-28DGGPM — 8 × PoE+ + 2 × 1G/2.5G SFP, L2+ managed (Marvell AC5): $87.4\n- STC-424XGGPM-280W — 24 × PoE+ + 4 × 10G SFP+, L2+ managed, 280 W: $180 (our August mail said $170 — that round closed in September)\n- STI-288GPM — DIN-rail 8 × PoE + 2 × SFP, managed, −40~75 °C: $85.5\n\nOne question: which model would you white-label first, and for which customer type (SI projects or your online shop)?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+   "subject": "A short one for 2027 planning - PoE refresh for the school buildings?",
+   "body": "Hello Alain,\n\nYou said in September \"not for the moment, but I will keep your email\" - so this is the one follow-up, timed for next year's budget, with no catalogue attached.\n\nOne question: is a PoE refresh for the school buildings (floor switches with 10G uplinks) on your 2027 list, or is that handled by an integrator you already work with? If the latter, a name is enough and I will not write again.\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
  }

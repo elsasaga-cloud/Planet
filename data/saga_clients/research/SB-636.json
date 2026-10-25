@@ -1,138 +1,126 @@
 {
- "code": "SB-636",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（cozzmic.com，快照 2026-10-21）",
- "summary": "加拿大 Cozzmic Communications & Security（企业与住宅电信、安防（监控/门禁）、基础设施方案「Business Technology Made Simple」；表内「安防」；KP Sachinder Singh（Network and VoIP Engineer）、Rob Simmons（Chief Do-er））；表内未跟进。",
- "type": "电信/安防集成商（加拿大）",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：Cozzmic Communications & Security | Trusted Solutions；品类词 安防监控（CCTV / 门禁） / 电信 / FTTH / ISP 设备 / 无线 / WiFi / 布线 / 线缆 / 网络交换 / PoE",
-   "quote": "Cozzmic Offers Seamless Telecommunications Solutions for Businesses. Enhance Communication, Security, and Infrastructure for Your Business",
-   "url": "https://cozzmic.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "安防",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "Cozzmic 定位",
-   "quote": "Cozzmic Communications & Security | Trusted Solutions ; Seamless Telecommunications Solutions for Businesses. Enhance Communication, Security, and Infrastructure",
-   "url": "https://cozzmic.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "安防",
-   "quote": "安防",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Sachinder Singh",
-   "title": "Network and VoIP Engineer",
-   "email": "sachinders@cozzmic.com",
-   "phone": "",
-   "source": "用户表"
-  },
-  {
-   "name": "Rob Simmons",
-   "title": "Chief Do-er",
-   "email": "sales@cozzmic.com",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "加拿大",
-  "other": "官网 cozzmic.com，语言 en-US，快照状态 ok；角色判定来源：用户表"
- },
- "business_lines": [
-  "电信 / 安防 / 基础设施集成（加拿大）"
- ],
- "channels": {
-  "role": "电信/安防集成商（加拿大）",
-  "region": "加拿大",
-  "contact": "sales@cozzmic.com、sachinders@cozzmic.com"
- },
- "signals": [
-  "官网：Cozzmic Offers Seamless Telecommunications Solutions for Businesses. Enhance Communication, Security, and Infrastructure；kw access control 40 / surveillance 37 / wifi 37 / switch 13",
-  "表内：安防；KP Sachinder Singh / Network and VoIP Engineer；Rob Simmons / Chief Do-er"
- ],
- "risks": [
-  "小型集成商（量小）；未跟进过"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 25,
-  "why": "监控/门禁/Wi-Fi 项目配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）；24 口 STC-424DGGPM-280W（$140.1）"
- },
- "email_hook": "Sachinder, for the PoE switches in your surveillance, access-control and Wi-Fi installs, we supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ models from single units, FCC/CE/RoHS, EXW USD — which port count do your business sites use most?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A 邮箱 11 封 2026，无记录打开，0 回；收件 rob@cozzmic.com, sachinders@cozzmic.com；主题多为「OEM Core Switching Solution、Marvell Industrial Alert System」；Elsa 箱：`to:cozzmic.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 11 / 来 0）（第 74 批(h)））",
-   "type": "电信/安防集成商（加拿大）",
-   "sieve": "1（只收到群发）",
-   "stop": "11 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "CA 主攻",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 11；用户表：「安防」；研究档 risks：小型集成商（量小）；未跟进过"
-  },
-  "situation": "加拿大 Cozzmic Communications & Security（企业与住宅电信、安防（监控/门禁）、基础设施方案「Business Technology Made Simple」；表内「安防」；KP Sachinder Singh（Network and VoIP Engineer）、Rob Simmons（Chief Do-er））；表内未跟进。",
-  "need": "监控/门禁/Wi-Fi 项目配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）；24 口 STC-424DGGPM-280W（$140.1）",
-  "breakpoint": "小型集成商（量小）；未跟进过",
-  "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 25,
-   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-06 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2026-05-14 $280（10G Enterprise SFP Switch）",
-   "why": "监控/门禁/Wi-Fi 项目配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）；24 口 STC-424DGGPM-280W（$140.1）",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开",
-   "one_question": "Sachinder, for the PoE switches in your surveillance, access-control and Wi-Fi installs, we supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ models from single units, FCC/CE/RoHS, EXW USD — which port count do your business sites use most?"
-  },
-  "facts": [
-   {
-    "date": "2026-09-21",
-    "dir": "去",
-    "who": "A 群发",
-    "quote": "OEM Core Switching Solution、Marvell Industrial Alert System",
-    "why": "11 封 / 0 次打开 / 0 回｜首封 2026-01-05 → 末封 2026-09-21（11 去 / 0 来）",
-    "k": "gmail_digest"
-   },
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "安防",
-    "why": "表内备注",
-    "k": "用户表"
-   }
+  "code": "SB-636",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "快照失败（parked_or_empty）",
+  "summary": "南非 MARZETEK (Pty) Ltd（marzetek.com；表内需求「4+24、4+48 10G 光」；KP Lloyd Thembani Moyo（Sales Engineer），电话 27 61 836 5820 未尝试加；官网快照为主机托管占位页）；群发 7 次无回复。",
+  "type": "IT/网络方案商（南非，24/48 口 + 4×10G 需求）",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "4+24, 4+48 10G光；27 61 836 5820 没尝试加",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "4+24 4+48 10G 光",
+      "quote": "4+24, 4+48 10G光",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "kp": [
+    {
+      "name": "Lloyd Thembani Moyo",
+      "title": "Sales Engineer",
+      "email": "procurement@marzetek.com",
+      "phone": "",
+      "source": "用户表"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "南非",
+    "other": "官网 marzetek.com，语言 en，快照状态 parked_or_empty；角色判定来源：待核"
+  },
+  "business_lines": [
+    "IT / 网络方案（南非）"
+  ],
+  "channels": {
+    "role": "IT/网络方案商（南非，24/48 口 + 4×10G 需求）",
+    "region": "南非",
+    "contact": "procurement@marzetek.com"
+  },
+  "signals": [
+    "表内：4+24, 4+48 10G 光；KP Lloyd Thembani Moyo / Sales Engineer；27 61 836 5820 没尝试加",
+    "快照：VE Host - vehost.co.za（托管占位页）"
+  ],
+  "risks": [
+    "非主攻区（T5，南非）；官网快照为托管占位页（经营状态待核）；7 次无回复 → 改向 Sales Engineer 具名续谈；WhatsApp 未尝试"
+  ],
+  "saga_fit": {
+    "p1": "STC-424XGGM",
+    "tier": 25,
+    "why": "4×10G + 24 GE → STC-424XGGM（$132.7 @25%）；4×10G + 48 口 PoE STC-448XGGPM（$335）；24 口 PoE 10G 上联 STC-424XGGPM-280W（$180）"
+  },
+  "email_hook": "Lloyd, following your interest in 24/48-port switches with 4 × 10G uplinks: we offer Marvell-based 24-GE + 4×10G and 48-PoE + 4×10G L2+ models from single units, CE/RoHS, EXW USD, 10–15 days — is PoE needed on the access ports, and how many units per configuration?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A 邮箱 17 封 2025→2026，无记录打开，0 回；收件 procurement@marzetek.com；主题多为「Industrial PoE Switch、48 Port PoE Managed Switch」）；Elsa 1:1 去信 1 封（2025-02-27「48 Port PoE Managed Switch」；To 仅本户 procurement@marzetek.com；Bcc 未逐封读头；同类名单抽读 24 封均无 Bcc；此后再未进 Elsa 任何名单——全箱 `from:e.sagatelecom to:procurement@marzetek.com` 仅此 1 条，complete）（第 74 批(m)）",
+      "type": "IT/网络方案商（南非，24/48 口 + 4×10G 需求）",
+      "sieve": "1（只收到群发）",
+      "stop": "17 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+      "revive": "保持季度群发到 2027-Q1；无打开即停",
+      "lane": "南非 非主攻",
+      "cadence": "季度",
+      "evidence": "gmail_digest：out 17；用户表：「4+24, 4+48 10G光；27 61 836 5820 没尝试加」；研究档 risks：非主攻区（T5，南非）；官网快照为托管占位页（经营状态待核）；7 次无回复 → 改向 Sales Engineer 具名续谈；WhatsApp 未尝试"
+    },
+    "situation": "南非 MARZETEK (Pty) Ltd（marzetek.com；表内需求「4+24、4+48 10G 光」；KP Lloyd Thembani Moyo（Sales Engineer），电话 27 61 836 5820 未尝试加；官网快照为主机托管占位页）；群发 7 次无回复。",
+    "need": "4×10G + 24 GE → STC-424XGGM（$132.7 @25%）；4×10G + 48 口 PoE STC-448XGGPM（$335）；24 口 PoE 10G 上联 STC-424XGGPM-280W（$180）",
+    "breakpoint": "非主攻区（T5，南非）；官网快照为托管占位页（经营状态待核）；7 次无回复 → 改向 Sales Engineer 具名续谈；WhatsApp 未尝试",
+    "saga_now": {
+      "p1": "STC-424XGGM",
+      "tier": 25,
+      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-07 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-03-26 $300（48 Port PoE Managed Switch）、2025-09-01 $240（24 Port Fiber Switch）、2025-10-01 $280（10G Enterprise SFP Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-02-27 $300（48 Port PoE Managed Switch = STC-448XGGPM，Elsa 箱 1 轮 2025-02-27；现表 $335.4@20%、Drive 老表 $335——同款写 $335 要先说 2025 群发是 $300、汇率 7.2→6.7）（㉕ ②：STC-424XGGPM-280W / STC-448XGGPM 文本价改为群发现价 $180 / $335；第 75 批 2026-10-25）",
+      "why": "4×10G + 24 GE → STC-424XGGM（$132.7 @25%）；4×10G + 48 口 PoE STC-448XGGPM（$335）；24 口 PoE 10G 上联 STC-424XGGPM-280W（$180）",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "群发节奏",
+      "channel": "A 邮箱",
+      "action": "首封前知悉：Elsa 仅 2025-02-27 单发过 1 封「48 Port PoE Managed Switch」，之后没再碰他（第 74 批(m)）；观察打开",
+      "one_question": "Lloyd, following your interest in 24/48-port switches with 4 × 10G uplinks: we offer Marvell-based 24-GE + 4×10G and 48-PoE + 4×10G L2+ models from single units, CE/RoHS, EXW USD, 10–15 days — is PoE needed on the access ports, and how many units per configuration?"
+    },
+    "facts": [
+      {
+        "date": "2025-02-27",
+        "dir": "out",
+        "who": "Elsa → procurement@marzetek.com",
+        "quote": "48 Port PoE Managed Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次；正文价 300usd/pc，第 74 批(p) 读稿 msg 194eff1f9bf46879 / 1973a613b8166b58）",
+        "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
+        "k": "elsa_1to1",
+        "msg_id": "19547998bf6a8404"
+      },
+      {
+        "date": "2026-10-06",
+        "dir": "去",
+        "who": "A 群发",
+        "quote": "Industrial PoE Switch、48 Port PoE Managed Switch",
+        "why": "17 封 / 0 次打开 / 0 回｜首封 2025-03-26 → 末封 2026-10-06（17 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "4+24, 4+48 10G光；27 61 836 5820 没尝试加",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

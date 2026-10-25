@@ -1,66 +1,166 @@
-# SB-684 artsistem.com · news_2 · https://www.artsistem.com/duyurular · fetched 2026-10-25T07:41:18Z · HTTP 200
-Duyurular · Art Sistem
-📍 İstanbul · Ankara · Gaziantep · (0212) 552 52 42
-destek@artsistem.com · Bayi Başvurusu · B2B Giriş · TR EN
-Kurumsal Markalar Ürün Kategorileri Çözümler Araçlar E-Hizmetler Haberler İletişim
-B2B Giriş
-Bilgisayar
-Bilgisayar Parçaları
-Hard disk, monitör, bellek, işlemci
-Taşınabilir Bilgisayar
-Notebook, aksesuar ve yedek parça
-Masaüstü Bilgisayar
-All in one, masaüstü, mini PC
-Kurumsal Ürünler
-Sunucu, iş istasyonu, veri depolama
-Güvenlik, Ağ & Baskı
-Güvenlik Ürünleri
-Kamera, kayıt cihazı, alarm
-Ağ Ürünleri
-Switch, access point, router
-Baskı Çözümleri
-Lazer ve mürekkep yazıcı, tarayıcı
-Barkod Ürünleri
-Barkod yazıcı, POS PC, okuyucu
-Yazılım, Enerji & Görüntü
-Yazılım
-OEM ve kutu lisans, güvenlik yazılımı
-Kesintisiz Güç Kaynağı
-Online ve line interactive UPS, akü
-Tüketici Elektroniği
-Ev teknolojileri, sağlık teknolojisi
-Projeksiyon
-Projeksiyon cihazı, perde
-Sarf & İletişim
-Tüketim Malzemeleri
-Kartuş, toner, şerit
-Kablo & Dönüştürücüler
-KVM, çoklayıcı, görüntü kablosu
-Telefon
-IP telefon, akıllı telefon
-Tüm Kategoriler
-Öne Çıkan Markalarımız
-Kendi Markalarımız
-Artes
-2006 · Tablet, aksesuar
-Uranium
-2010 · PSU, kasa
-Sensei
-2010 · Çevre birimi
-135 markanın tamamı A'dan Z'ye.
-Tüm Markalar
-Kurumsal Markalar Ürün Kategorileri Çözümler Faydalı Araçlar E-Hizmetler Haberler İletişim B2B Giriş Bayi Başvurusu
-Ana Sayfa / Duyurular Duyurular
-Art Sistem resmi duyuruları — bayilik fırsatları, kampanyalar, yeni ürünler ve etkinlikler ( 0 duyuru).
-Henüz duyuru yayınlanmadı.
-22 yıldır Türkiye'nin lider teknoloji dağıtıcısı. 5.000+ bayi, 3 şube.
-Facebook Instagram LinkedIn YouTube WhatsApp
-Kurumsal
-Hakkımızda Genel Müdürün Mesajı Tarihçe Ödüllerimiz Duyurular Banka Hesaplarımız İletişim
-Kategoriler
-Bilgisayar Parçaları Güvenlik Ürünleri Ağ Ürünleri Baskı Çözümleri Tüm Kategoriler Ürün Kataloğu Faydalı Araçlar
-Bayi
-Bayi Başvurusu Evraklar B2B Portal (pcbayi.com) SSS Destek Talep Et
-Yasal
-KVKK Gizlilik Bildirimi Çerez Politikası Kullanım Şartları
-© 2026 Art Sistem · Tüm Hakları Saklıdır
+# SB-684 technics-india.com · news_2 · https://www.technics-india.com/projects-services/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+Projects & Services – Technics Infosolutions Pvt. Ltd.
+DOWNLOAD
+CAREER
+CONTACT
+E-WASTE
+SUPPORT
+Menu
+Products
+Educational
+Electrical & ICE
+Classical Control
+Automation
+Industrial
+Industrial Computers
+Rugged Computers
+Desktop Computers
+Industrial Chassis
+Rackmount/Wallmount
+Industrial MotherBoards
+Cost Effective Min itx Motherboard
+ATX Motherboards
+Slot SBC & Backplanes
+Server Board
+Mini ITX & Micro ATX
+Universal Network Controllers
+bis-approved-pre-configured-systems
+Industrial Touch PCs and Panel PCs BIS Approved
+Embedded Computing
+Ultra Embedded Computers
+BIS Approved Embedded Box PCs
+Industrial Automation
+Remote I/O Modules
+EtherNet/IP Modules
+Ethernet I/O Modules
+RS 485 I/O Modules
+ADAM-5000 Series
+PROFINET Modules
+Ethernet IO Modules with Daisy Chain ADAM-6200
+IoT Wireless IO Modules WISE-4000
+IEEE802.15.4 Wireless IO Modules ADAM-2000
+IoT Ethernet IO Modules WISE-4000LAN
+Data Acquisition (DAQ) & Communication Cards
+PC104 Modules
+PCI Express Cards
+Serial Communication Cards
+Signal Conditioning Modules and Terminal Boards
+IO Wiring Cable (PCL Series)
+IO Wiring Terminal Boards (ADAM-3900 & PCLD Series)
+Isolated Digital IO Terminals
+Signal Conditioning Modules
+Serial Converters & Repeaters
+USB Based DAQ Modules
+Power & Energy
+Industrial Communication Gateway
+Icx Gateway
+FRTU|RTU/Protocol Gateway Solution
+Automatic Meter Reading Solutions
+Rackmountable Fanless Box PCs (UNO-4000 Series)
+Energy Data Acquisition Energy Controller
+Protocol Simulator
+Remote Terminal Units (RTU’s)
+Gateway Application
+RsS DataSheet
+Software
+Web-enabled HMI/ SCADA Software
+Automation Studio Education
+Remote Maintenance Software
+HMI Development Kit based on Visual Studio
+WebAccess+ Solutions
+Projects & Services
+Application
+Download
+Career
+About Us
+Awards & Achievements
+BIS Certification
+ISO 9001:2015
+Contacts
+E-Waste
+Support
+Projects & Services
+Technics Infosolutions Pvt. Ltd. > Projects & Services
+DACS for IR DIAL LASER for LIDAR data processing
+Rack Mounted Computer Based System Control Unit
+Data Acquisition Hardware and Software For Laser Application
+Automatic Material Testing System
+Compact Mill Rugged DAQ Console system for 256 IO
+Automation of Wheel Press Assembly
+Automation of Test Rigs
+Winding Vibration Monitoring System
+Centuary Instruments Chandigarh
+Compression Testing Machine for testing of Packing Material
+Fluid Control System for Calibration of Flow Meters
+Fluid Friction Apparatus System
+Online Di-Electric Parameter Monitoring System
+Data Acquisition and Sequence Control System using ADAM-4000 series
+PC based Wheel Balancing Machine
+Temperature and Wind-Speed Logger
+PC based Data Acquisition, Monitoring and Control System for Laser Application
+Data Acquisition and Sequence Control System using ADAM-5000 series
+Impact Absorption Test for Helmet
+Temperature and Humidity Logger
+Displacement Measurement System
+Data Acquisition and Logger in manufacturing of Gas cylinders
+Clutch and Brake Test for Diesel Locomotive
+System for Performance Testing of Electric Locomotive
+System for Performance Testing of Diesel Locomotive
+Voter’s Identity Cards
+Products
+Educational
+Electrical & ICE
+Electronics & communications
+Industrial
+EmbeddedComputing
+Industrial Computers
+Ultra Embedded Computers
+Industrial Automation
+Embedded Computing
+Industrial Touch PCs and Panel PCs BIS Approved
+Industrial Networking
+Power & Energy
+Industrial Communication Gateway
+Icx Gateway
+FRTU|RTU/Protocol Gateway Solution
+Automatic Meter Reading Solutions
+Rackmountable Fanless Box PCs (UNO-4000 Series)
+Energy Data Acquisition Energy Controller
+Protocol Simulator
+Remote Terminal Units (RTU's)
+Gateway Application
+RsS DataSheet
+Software
+Web-enabled HMI/ SCADA Software
+Automation Studio Education
+Remote Maintenance Software
+HMI Development Kit based on Visual Studio
+WebAccess+ Solutions
+Information
+Home
+About Us
+Projects & Services
+Download
+Career
+Contacts
+Support
+E-Waste Collection Center
+Products
+Educational
+Industrial
+Power & Energy
+Software
+Latest Products
+Applications
+Automated Test Systems for Electrical Appliances
+Controlling Card Access with UNO-2160
+Tube Bending Machine
+Tracking Industrial Waste
+Industrial Computers for Automatic Ticketing System
+Water-level Monitoring System in the Brunei River
+Follow Us
+Google+
+Twitter
+Facebook
+Linked in
+Copyright © 2024, Technics India. All Right Reserved. Web Developed by Abacus Desk

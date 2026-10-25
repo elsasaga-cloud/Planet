@@ -1,0 +1,73 @@
+{
+ "code": "SC-222",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（shoguncctv.com，快照 2026-10-21）",
+ "summary": "香港 Shogun Technology Co., Ltd（贸易商：ONV 工业 FS / MC 换 PVC 膜贴 SG- 型号（SG-IPS33148PFM / SG-POE31024PFM / SG-EC2701）、无源产品、摄像机；表内无邮箱）；表内无跟进记录。",
+ "type": "香港贸易商（转卖 ONV 贴标，同行）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Shogun Technology Co.,Ltd；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "Welcome for visit our website.",
+   "url": "https://shoguncctv.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "ONV的工业FS；工业FS MC 换了PVC膜 无源产品 摄像头",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Shogun 站内型号",
+   "quote": "Shogun Technology Co.,Ltd ; Welcome for visit our website. ; SG-IPS33148PFM ; SG-POE31024PFM ; SG-EC2701",
+   "url": "https://shoguncctv.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "ONV 工业 FS 换 PVC 膜",
+   "quote": "ONV的工业FS / 工业FS MC 换了PVC膜 无源产品 摄像头；ONV的很多产品",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "同行：香港贸易商（Shogun Technology，ONV 产品贴标出口），非海外渠道，表内无邮箱；c_sub=同行/贸易商",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "香港",
+  "other": "官网 shoguncctv.com，语言 en，快照状态 ok；角色判定来源：用户表"
+ },
+ "business_lines": [
+  "网络/安防产品贸易（ONV 贴标）"
+ ],
+ "channels": {
+  "role": "香港贸易商（转卖 ONV 贴标，同行）",
+  "region": "香港",
+  "contact": "（表内无邮箱）"
+ },
+ "signals": [
+  "站内 SG-IPS33148PFM / SG-POE31024PFM / SG-EC2701（ONV 同款编号规律）；kw camera 66 / switch 34 / poe 22",
+  "表内：ONV 的工业 FS / 工业 FS MC 换了 PVC 膜 / 无源产品 摄像头；ONV 的很多产品"
+ ],
+ "risks": [
+  "同行：香港贸易商（ONV 产品换 PVC 膜出口），非海外渠道客户；表内无邮箱"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 30,
+  "why": "港资贸易商转卖深圳 ONV 贴标 = 同行出口商，非海外渠道；且表内无邮箱 → 改 C"
+ },
+ "email_hook": "（不发送：同行）"
+}

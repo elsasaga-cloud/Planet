@@ -1,35 +1,51 @@
 {
  "code": "SB-572",
- "name_official": "ALTVISION (22opt.ru，巴尔瑙尔)",
+ "name_official": "Fourline / Özel Elektronik（Bursa Yıldırım, TR；fourline.com.tr；卫星/CCTV/报警批发，自有品牌）",
  "researched_at": "2026-10-21",
- "website_status": "在线（22opt.ru，快照 2026-10-21，俄语）",
- "summary": "俄罗斯巴尔瑙尔（阿尔泰边疆区，+7 3852）安防系统批发网店（IP 摄像机、NVR、PoE 交换机品类页、Wi-Fi 网桥；8-800 热线），Gorodilov Pavel；需求工业级 PoE 交换机，问过 GPON（Saga 无）；WA 21 次无实质回复。",
+ "website_status": "在线（B2B 经销商登录）",
+ "summary": "布尔萨 Yıldırım 的天线/卫星与 CCTV/报警批发零售商 Özel Elektronik（2007 年注册「FOURLINE」品牌；自有品牌产品：Fourline 卫星接收机、楼宇对讲主机、FRL 系列摄像机、电源适配器；经销商登录体系；参考工程为住宅楼卫星/摄像系统；Şükraniye Mah. Ankara Cad. No:242 Yıldırım/Bursa；0224 364 1888 / 0555 995 5442；info@fourline.com.tr）。ISAF 记录：不会英文，要 catalog；WhatsApp 加不上（0224 座机）；无后续跟进。自有品牌批发商 → 交换机可贴 Fourline 牌 → OEM 30%（低价非管理 PoE 为主）。",
  "type": "",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Fourline（自有品牌）"
+ ],
  "evidence": [
   {
-   "kind": "官网快照",
-   "claim": "安防系统批发 + 网店；PoE 交换机品类；关键词 poe 107 / camera 46 / switch 24；+7 (3852) 99-79-59、8-800-700-10-76；zakaz@22opt.ru",
-   "quote": "ALTVISION - поставщик систем безопасности в Российской Федерации… /catalog/kommutatory_poe_/… +7 (3852) 99‒79‒59 8-800-700-10-76",
-   "url": "https://22opt.ru/",
+   "kind": "官网",
+   "claim": "公司定位与品牌",
+   "quote": "ÖZEL ELEKTRONİK — Anten ve uydu sistemeri üzerine odaklanmış fırmayız. 2007 yılında markasının isim hakkını alarak ürünlerimizi toptan ve parakende olarak müşterilerimize hizmet vermekteyiz",
+   "url": "https://www.fourline.com.tr/hakkimizda.asp",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "地址、电话、邮箱、参考工程",
+   "quote": "şükraniye mah ankara cad no 242 yıldırım / BURSA · 0(555) 995 5442 · 0(224) 364 1888 · info@fourline.com.tr … lion inşaat bursa yıldırım 175 yıl mah … reform inşaat degirmen park evler",
+   "url": "https://www.fourline.com.tr/referanslar.asp",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "自有品牌产品",
+   "quote": "Bayi Girişi … fourline 10/32 santral kaskatlı … FRL2042 M GECE GÖRÜŞLÜ KAMAMERA … fourline hd uydu alıcı",
+   "url": "https://www.fourline.com.tr/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "工业级 POE switch，问了 Gpon",
-   "quote": "兴趣：工业级POE switch 问了Gpon",
+   "claim": "ISAF：不会英文，要 catalog；WA 加不上",
+   "quote": "不会英文， 要catalog / 0(224) 364 1888 加不上",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
  "kp": [
   {
-   "name": "Gorodilov Pavel (Городилов Павел)",
-   "title": "（表内联系人）",
-   "email": "22opt@mail.ru",
-   "phone": "+7 983 177 0188",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
+   "name": "（姓名未记录）",
+   "role": "业主/采购（待核）",
+   "email": "info@fourline.com.tr（用户表 = 官网公开）",
+   "phone": "+90 555 995 5442（官网 GSM，可试 WhatsApp）",
+   "source": "https://www.fourline.com.tr/referanslar.asp"
   }
  ],
  "grade_override": null,
@@ -37,82 +53,81 @@
  "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照核对）"
+  "level": "B 级加厚 v1（官网核对）"
  },
  "company_facts": {
-  "legal_name": "（待核，ООО «Алтвижен»）",
-  "founded": "",
-  "hq": "Барнаул, Алтайский край, Россия",
-  "size": "中小型安防批发 / 网店",
-  "other": "8-800 全俄热线"
+  "legal_name": "Özel Elektronik（FOURLINE 品牌，Setbaşı 税务所 2360002288）",
+  "founded": "品牌 2007",
+  "hq": "Şükraniye Mah. Ankara Cad. No:242 Yıldırım / Bursa（0224 364 1888；0555 995 5442；info@fourline.com.tr）",
+  "size": "小型批发商",
+  "other": "自有品牌 Fourline（卫星、对讲、摄像机、适配器）；经销商登录"
  },
  "business_lines": [
-  "视频监控批发 / 网店",
-  "PoE 交换机 / 无线网桥 / 门禁"
+  "天线/卫星系统批发零售",
+  "CCTV 与报警产品（自有品牌 Fourline）",
+  "住宅楼弱电工程"
  ],
  "channels": {
-  "role": "区域批发商 + 网店",
-  "region": "俄罗斯（西伯利亚）"
+  "网站": "https://www.fourline.com.tr/",
+  "电话": "+90 224 364 1888 / +90 555 995 5442（公开）",
+  "邮箱（公开）": "info@fourline.com.tr"
  },
  "signals": [
-  "PoE 交换机为其品类 → 工业 PoE 可上架",
-  "全俄热线 → 批发规模"
+  "已有自有品牌 + 经销网 → 4/8 口 PoE 贴 Fourline 牌是自然延伸；官网 GSM 0555 995 5442 可补加 WhatsApp"
  ],
  "risks": [
-  "俄罗斯收款 / 制裁 / 物流（经哈萨克斯坦或中欧班列）",
-  "GPON 需求不供"
+  "低价卫星/CCTV 市场极度比价；语言；无后续跟进"
  ],
  "saga_fit": {
-  "p1": "STI-288GP",
-  "tier": 20,
-  "why": "工业 PoE 上架款 → STI-288GP（$57.4 @20%）；商用 8/16/24 PoE 配套 STC-28DGGPM / STC-424DGGPM-280W。"
+  "p1": "STC-028GP",
+  "tier": 30,
+  "why": "OEM 30% 档：STC-028GP（8 GE PoE + 2 GE 上联非管理，Saga Realtek 线列表 $24.2）/ STC-114GP（4 PoE + SFP，$16.5）贴 Fourline 牌走经销网；管理型 STC-28DGGPM（$87.4）"
  },
- "email_hook": "Павел, по промышленным PoE: 8×PoE + 2×SFP, DIN-рейка, −40~75 ℃ — $57 EXW за 1 шт. (оптом дешевле), GPON не делаем; прислать прайс и фото для карточек на 22opt.ru?",
+ "email_hook": "Merhaba, ISAF'ta istediğiniz katalog ektedir; Fourline markanızla 8 port PoE + 2 uplink switch (EXW 27,2 USD) ve 4 port PoE (18,5 USD) üretebiliyoruz, logo baskı MOQ'suz — bayilerinize hangi port sayısı daha çok soruluyor?",
  "mail_review": {
   "binding": {
-   "level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：工业级POE switch 问了Gpon」；Elsa 箱：`to:22opt.ru` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(l)））",
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「不会英文， 要catalog / 0(224) 364 1888 加不上」；Elsa 箱：`to:fourline.com.tr` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(i)））",
    "type": "—",
    "sieve": "—（未入筛）",
    "stop": "从未触达",
-   "revive": "首封（具名 KP 优先，用研究档 email_hook）；WhatsApp 已加 → 唤醒走 WhatsApp 一句话，不走邮件",
-   "lane": "RU 次级（Simon 2026-08 点名）",
+   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+   "lane": "TR 主攻（四主）",
    "cadence": "首封后看打开",
-   "evidence": "gmail_digest：out 0；用户表：「兴趣：工业级POE switch 问了Gpon」；研究档 risks：俄罗斯收款 / 制裁 / 物流（经哈萨克斯坦或中欧班列）"
+   "evidence": "gmail_digest：out 0；用户表：「不会英文， 要catalog / 0(224) 364 1888 加不上」；研究档 risks：低价卫星/CCTV 市场极度比价；语言；无后续跟进"
   },
-  "situation": "俄罗斯巴尔瑙尔（阿尔泰边疆区，+7 3852）安防系统批发网店（IP 摄像机、NVR、PoE 交换机品类页、Wi-Fi 网桥；8-800 热线），Gorodilov Pavel；需求工业级 PoE 交换机，问过 GPON（Saga 无）；WA 21 次无实质回复。",
-  "need": "工业 PoE 上架款 → STI-288GP（$57.4 @20%）；商用 8/16/24 PoE 配套 STC-28DGGPM / STC-424DGGPM-280W。",
-  "breakpoint": "俄罗斯收款 / 制裁 / 物流（经哈萨克斯坦或中欧班列）",
+  "situation": "布尔萨 Yıldırım 的天线/卫星与 CCTV/报警批发零售商 Özel Elektronik（2007 年注册「FOURLINE」品牌；自有品牌产品：Fourline 卫星接收机、楼宇对讲主机、FRL 系列摄像机、电源适配器；经销商登录体系；参考工程为住宅楼卫星/摄像系统；Şükraniye Mah. Ankara Cad. No:242 Yıldırım/Bursa；0224 364 1888 / 0555 995 5442；info@fourline.com.tr）。ISAF 记录：不会英文，要 catalog；WhatsApp 加不上（0224 座机）；无后续跟进。自有品牌批发商 → 交换机可贴 Fourline 牌 → OEM 30%（低价非管理 PoE 为主）。",
+  "need": "OEM 30% 档：STC-028GP（8 GE PoE + 2 GE 上联非管理，Saga Realtek 线列表 $24.2）/ STC-114GP（4 PoE + SFP，$16.5）贴 Fourline 牌走经销网；管理型 STC-28DGGPM（$87.4）",
+  "breakpoint": "低价卫星/CCTV 市场极度比价；语言；无后续跟进",
   "saga_now": {
-   "p1": "STI-288GP",
-   "tier": 20,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "工业 PoE 上架款 → STI-288GP（$57.4 @20%）；商用 8/16/24 PoE 配套 STC-28DGGPM / STC-424DGGPM-280W。",
+   "p1": "STC-028GP",
+   "tier": 30,
+   "price": "Realtek 线按 HRUI 2026-09-30 进价 +30% 现算（Q-47 默认，不用 Drive 旧表价）：STC-114GP $16.5→$18.5；STC-208GP $24.2→$27.2；按主表（研究档 saga_fit）",
+   "why": "OEM 30% 档：STC-028GP（8 GE PoE + 2 GE 上联非管理，Saga Realtek 线列表 $24.2）/ STC-114GP（4 PoE + SFP，$16.5）贴 Fourline 牌走经销网；管理型 STC-28DGGPM（$87.4）",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
    "when": "待 Simon 排期（首封）",
-   "channel": "A 邮箱 → 22opt@mail.ru（Gorodilov Pavel (Городилов Павел)）",
-   "action": "首封：按 email_hook 一问（第 74 批(r) 2026-10-25：英文信稿已写 `draft_en`（= 客户语言钩子句的英文版，客户语言一句话留在备注里））（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
-   "one_question": "Павел, по промышленным PoE: 8×PoE + 2×SFP, DIN-рейка, −40~75 ℃ — $57 EXW за 1 шт. (оптом дешевле), GPON не делаем; прислать прайс и фото для карточек на 22opt.ru?"
+   "channel": "A 邮箱 → info@fourline.com.tr（无具名 KP；公用地址）",
+   "action": "首封：按 email_hook 一问（第 74 批(r) 2026-10-25：对方不会英文、电话加不上 → 土耳其语整段邮件；「katalog ektedir」= 要附 ISAF 彩页 PDF；价与研究档一致，15 天有效）",
+   "one_question": "Merhaba, ISAF'ta istediğiniz katalog ektedir; Fourline markanızla 8 port PoE + 2 uplink switch (EXW 27,2 USD) ve 4 port PoE (18,5 USD) üretebiliyoruz, logo baskı MOQ'suz — bayilerinize hangi port sayısı daha çok soruluyor?"
   },
   "facts": [
    {
     "date": "2026-10-21",
     "dir": "用户表",
     "who": "Simon",
-    "quote": "兴趣：工业级POE switch 问了Gpon",
+    "quote": "不会英文， 要catalog / 0(224) 364 1888 加不上",
     "why": "表内备注",
     "k": "用户表"
    }
   ],
   "proof_gaps": [
-   "无邮件往来",
-   "用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+   "无邮件往来"
   ],
   "draft_en": {
-   "subject": "Industrial PoE switch for the 22opt.ru listings - $57 per unit, photos available",
-   "body": "Hi Pavel,\n\nFollowing your interest in industrial PoE switches (and the GPON question - GPON we do not make): the unit that fits a wholesale listing is a DIN-rail 8 x Gigabit PoE+ + 2 x SFP industrial switch, -40 to 75 C, unmanaged, model STI-288GP - $57.4 USD EXW per unit (MOQ 1, 15-day validity; lower in carton quantities). Product photos and a short spec sheet for the 22opt.ru product cards are ready.\n\nOne question: shall I send the price list and the photos for the listings?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+   "subject": "Türkçe 整段单发（对方不读英文；邮件/WhatsApp 复制即发，不混英文）",
+   "body": "Merhaba, ISAF'ta istediğiniz katalog ektedir. Fourline markanızla 8 port gigabit PoE + 2 uplink switch (27,2 USD EXW) ve 4 port PoE + 1 SFP (18,5 USD EXW) üretebiliyoruz; logo baskı için MOQ yok, renkli kutu 200 setten itibaren. Bayilerinize hangi port sayısı daha çok soruluyor?\n\nSaygılarımla,\nSimon\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
  }

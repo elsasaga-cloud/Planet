@@ -1,207 +1,236 @@
 {
   "code": "SA-089",
-  "name_official": "Born SPb LLC（ООО «Борн СПб»，圣彼得堡）",
-  "website_status": "未单独检索（仅用户记录）",
-  "summary": "俄罗斯圣彼得堡网络产品贸易商（用户记录：销售多品牌 MC/SFP/VC/FS，含多家国内品牌），长期互动：39 次跟进中 5 次实质回复，最近 2025 年。",
-  "type": "多品牌贸易商/分销",
-  "size": "待补证",
+  "name_official": "LANCOMAT s.r.o.",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（lancomat.cz；并档 Planet 渠道档案 PA-018）",
+  "summary": "布拉格的结构化布线 / 光纤 / 机柜分销商，有源类目在售 7 款 PLANET 工业 / PoE 交换机，总经理与销售团队邮箱全部公开。类型：结构化布线 / 光纤 / 机柜分销商兼电商（「vše pro strukturované kabeláže, optické sítě a rozvaděče」；另有 IP 对讲、有源设备、UPS、OEM 组件、租赁服务）；PLANET 为其工业 / 商用交换机在售品牌。信号：lancomat.cz 商品页「Výrobce PLANET TECHNOLOGY」：IGS-1820TF 8 383 Kč（OutOfStock，36 měsíců）、IGS-12040MT 9 588 Kč bez DPH / 11 601 s DPH、IGS-624HPT、GSD-908HP（24 months）、IGS-5225-4T2S（60 months 保修）、IGS-10020PT（8×GE PoE 130 W managed）、IGS-6325-20T4C4X（L3 24 GLAN + 4 SFP）。Planet 渠道档案 PA-018 评级 A（需求：7 款 PLANET 工业 / PoE 交换机商品页带 CZK 价与保修（IGS-5225-4T2S 60 个月）→ 有源类目采购真实且含管理型工业款；触达：/podrobne-kontakty/ 公开 jednatel Tomáš Jahoda tjahoda@lancomat.cz +420 724 825 435、Zdeněk Zíta zzita@、销售专员 Jan Raboch jraboch@ 等 11 名具名 + 直线 → 决策人直达；体量：布拉格布线分销（IČO 27929795，约 11 名员工公开名单）→ 可赢；Gmail：Elsa 账号 2025-04-12 → 2026-08-28 以 BCC 群发 10 封至 info@lancomat.cz，0 回复 → 非首触，但具名通道未用过；Mikrotik 仓无此户 → A）。并档说明：Saga 表内本条 SA-089（捷克）自动评 C（原因：；Saga 群发已推送 0 次无回复）。",
+  "type": "",
+  "size": "",
   "brands_seen": [
-    "多家国内品牌（用户记录）",
-    "SNR",
-    "NSGate"
+    "PLANET"
   ],
   "evidence": [
     {
-      "kind": "用户记录",
-      "claim": "卖多品牌 MC/SFP/VC/FS；5 次回复 / 39 次跟进；地址圣彼得堡 Mebelnaya 12",
-      "quote": "有很多牌子的产品 卖别人的MC SFP VC FS / 国内好几个牌子的；Address: 197374, St. Petersburg, Mebelnaya str., 12（用户 Clients 表摘录）",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
+      "kind": "官网（搜索快照）",
+      "claim": "法律实体 / 地址 / 总机",
+      "quote": "LANCOMAT s.r.o. Poděbradská 520/24 190 00, Praha 9 - Vysočany Česká republika IČO: 27929795 DIČ: CZ27929795 … telefon +420 284 680 755 … email info@lancomat.cz (dotazy, poptávky, objednávky)",
+      "url": "https://www.lancomat.cz/kontakt/",
+      "date": "2026-10-20"
     },
     {
-      "kind": "注册",
-      "claim": "法人、注册日、负责人、规模",
-      "quote": "ООО «Борн СПБ» зарегистрировано 17 апреля 2009 года в Санкт-Петербурге … оптовой торговли электронным и телекоммуникационным оборудованием … генеральным директором с момента основания является Сергей Иванович Федотов, он же выступает единственным учредителем … ИНН/КПП: 7841406851",
-      "url": "https://www.rusprofile.ru/id/2395878",
-      "date": "2026-10-21"
+      "kind": "官网（搜索快照）",
+      "claim": "具名负责人与销售团队（邮箱 / 直线）",
+      "quote": "Obchodní oddělení … Jan Raboch | obchodní specialista | +420 774 411 618 | jraboch@lancomat.cz … Vedení společnosti … Tomáš Jahoda | jednatel | +420 724 825 435 | tjahoda@lancomat.cz | Zdeněk Zíta | jednatel | +420 602 345 900 | zzita@lancomat.cz",
+      "url": "https://www.lancomat.cz/podrobne-kontakty/",
+      "date": "2026-10-20"
     },
     {
-      "kind": "注册",
-      "claim": "员工数与 2025 利润",
-      "quote": "Численность персонала: · 9 … За 2025 год прибыль компании составила 1474 тыс.",
-      "url": "https://www.list-org.com/company/5674467",
-      "date": "2026-10-21"
+      "kind": "官网（搜索快照）",
+      "claim": "IGS-1820TF 商品页（品牌 / 价 / 库存 / 保修）",
+      "quote": "Switch průmyslový 16x 1Gb + 2x SFP, dual 12-48V DC / 24V AC, -40..75 °C, fanless … Výrobce PLANET TECHNOLOGY … 8 383 Kč … OutOfStock … 36 měsíců",
+      "url": "https://www.lancomat.cz/switch-prumyslovy-16x-1gb-2x-sfp-dual-12-48v-dc-24v-ac-40-75-c-fanless-p166247/",
+      "date": "2026-10-20"
     },
     {
-      "kind": "网店",
-      "claim": "品类与联系方式",
-      "quote": "Сетевое оборудование Коммутаторы Маршрутизаторы Медиаконвертеры SFP модули SFP-трансиверы PoE-инжекторы Точки доступа Телекоммуникационные шкафы … Телефон: · 8 (800) 302-15-41 Электронная почта: · sales@born-spb.ru Санкт-Петербург Москва Екатеринбург Пермь",
-      "url": "https://born-shop.ru/",
-      "date": "2026-10-21"
+      "kind": "官网（搜索快照）",
+      "claim": "IGS-12040MT 商品页带价",
+      "quote": "IGS-12040MT … 9 588 Kč bez DPH … 11 601 Kč s DPH",
+      "url": "https://www.lancomat.cz/igs-12040mt-p17438/",
+      "date": "2026-10-20"
     },
     {
-      "kind": "伙伴名录",
-      "claim": "SNR 官方合作伙伴与地址",
-      "quote": "ООО «Борн СПб» Адрес: 192236, г. Санкт-Петербург, ул. Софийская, дом 8, кор. 1",
-      "url": "https://snr.systems/ru/partners/ooo-born-spb",
-      "date": "2026-10-21"
+      "kind": "官网（搜索快照）",
+      "claim": "IGS-10020PT 商品页",
+      "quote": "Switch L2 průmyslový 8x 10/100/1000 + 2x 100/1000 SFP, PoE 130 W, managed … PLANET",
+      "url": "https://www.lancomat.cz/switch-l2-prumyslovy-8x-10-100-1000-2x-100-1000-sfp-poe-130-w-managed-p164802/",
+      "date": "2026-10-20"
+    },
+    {
+      "kind": "官网（搜索快照）",
+      "claim": "IGS-624HPT / GSD-908HP / IGS-5225-4T2S 商品页",
+      "quote": "Switch 4-port 10/100/1000T 802.3at PoE + 2-port 100/1000X SFP（IGS-624HPT）｜ Switch 9x 10/100/1000Base-T, 8x PoE 100W（GSD-908HP，24 months）｜ Průmyslový switch L2/L3 static 4 GLAN + 2 SFP（IGS-5225-4T2S，60 months）",
+      "url": "https://www.lancomat.cz/switch-4-port-10-100-1000t-802-3at-poe-2-port-100-1000x-sfp-p15824/",
+      "date": "2026-10-20"
+    },
+    {
+      "kind": "官网",
+      "claim": "主营口径",
+      "quote": "Vše pro strukturované kabeláže, optické sítě a rozvaděče … Specializujeme se na strukturované kabeláže, telekomunikační rozvaděče, vláknovou optiku, IP interkomy, aktivní prvky, záložní zdroje a doplňující sortiment.",
+      "url": "https://www.lancomat.cz/",
+      "date": "2026-10-20"
     }
   ],
   "kp": [
     {
-      "name": "Федотов Сергей Иванович（Sergey I. Fedotov）",
-      "role": "Генеральный директор / 唯一股东（注册信息）",
-      "email": "sales@born-spb.ru（公司公开）",
-      "phone": "+7 812 458-85-86",
-      "source": "https://www.rusprofile.ru/id/2395878"
+      "name": "Tomáš Jahoda",
+      "title": "jednatel（总经理 / 执行董事）；公开（/podrobne-kontakty/ 「Vedení společnosti」）；具名通道未被群发触达",
+      "email": "tjahoda@lancomat.cz",
+      "phone": "+420 724 825 435",
+      "source": "https://www.lancomat.cz/podrobne-kontakty/"
+    },
+    {
+      "name": "Jan Raboch",
+      "title": "obchodní specialista（销售专员）；公开（同页「Obchodní oddělení」）；备用入口",
+      "email": "jraboch@lancomat.cz",
+      "phone": "+420 774 411 618",
+      "source": "https://www.lancomat.cz/podrobne-kontakty/"
     }
   ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "5 次实质回复 = 真实互动，品类（MC/FS）对位 STI-110GE / 工业 FS。俄罗斯非主攻区且收款路径需核（T/T 受限时走第三方/人民币结算，报价前确认）。P1：STI-110GE 介质转换器 + STI-288GP 非管理工业 PoE，分销价阶 20%。",
-  "researched_at": "2026-10-21",
+  "grade_override": "A",
+  "override_reason": "Planet 渠道档案 PA-018 评 A（PLANET 主力经销 + 具名联系人 + 可赢体量）；Saga 表内仅因群发冷名单无回应自动评 C，按调研提升",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
   "deep": {
     "done_at": "2026-10-21",
-    "level": "深挖 v2（注册信息 + 网店 + 伙伴名录核对）"
+    "level": "B 级加厚 v1（并档 Planet 渠道档案 PA-018，W 批次调研 2026-10-19/20）"
   },
   "company_facts": {
-    "legal_name": "ООО «Борн СПб»（ИНН 7841406851，ОГРН 1097847113814）",
-    "hq": "192236, Санкт-Петербург, ул. Софийская, д. 8, корп. 1（+7 812 458-85-86；8 800 302-15-41；sales@born-spb.ru）；另列 Москва / Екатеринбург / Пермь",
-    "other": "电子与电信设备批发（ОКВЭД 46.5x）；网店 born-shop.ru / born-spb.ru：交换机、路由器、MC、SFP/SFP+/QSFP、PoE 注入器、AP、机柜/热柜、KVM、防火墙、光缆；SNR.SYSTEMS 官方合作伙伴（SNR = 俄罗斯 NAG 自有标）；在售 NSGate NFG-SFP MC 2,200 ₽",
-    "founded": "2009-04-17",
-    "staff": "9（list-org）；2025 年利润 147.4 万 ₽；注册资本 10 万 ₽；总经理兼唯一股东 Федотов Сергей Иванович"
+    "legal_name": "LANCOMAT s.r.o.",
+    "founded": "",
+    "hq": "Praha 9 – Vysočany（Poděbradská 520/24, 190 00）, 捷克",
+    "size": "",
+    "other": "Planet 渠道档案 PA-018（2026-10-20_W21_矿脉⑤BCC域反查批2_CZ-DE-IT-HU-FI.json）；自有品牌：否（布线件用 Solarix / 自编码，交换机无自有品牌）；最大未知：PLANET 有源类目年量与库存深度（IGS-1820TF 缺货暗示小批量进货）；是否要求捷克语文档；总经理 vs 销售专员谁决定新供应商"
   },
   "business_lines": [
-    "MC / SFP / VC / FS 多品牌贸易",
-    "网络设备/光模块/MC 批发与网店（SNR、NSGate 等多品牌）",
-    "机柜/热柜/KVM/光缆",
-    "B2B 对公结算（безналичная оплата）"
+    "结构化布线 / 光纤 / 机柜分销商兼电商（「vše pro strukturované kabeláže, optické sítě a rozvaděče」；另有 IP 对讲、有源设备、UPS、OEM 组件、租赁服务）；PLANET 为其工业 / 商用交换机在售品牌"
   ],
   "products_seen": [
     {
-      "brand": "多家国内品牌",
-      "model": "MC / SFP / VC / FS",
-      "spec": "卖别人的",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "用户表",
-      "saga": "STI-110GE / STC-28DGGPM"
+      "brand": "PLANET",
+      "model": "IGS-10020PT",
+      "spec": "工业 8×GE PoE+ + 2×SFP 管理 → Saga 同口型 $78.9 USD EXW",
+      "saga": "STI-288GPM",
+      "url": "https://lancomat.cz",
+      "date": "2026-10-19"
     },
     {
-      "brand": "NSGate",
-      "model": "NFG-SFP",
-      "spec": "千兆 SFP 媒体转换器，2,200 ₽，12 个月保",
-      "url": "https://born-shop.ru/catalog/136567.html",
-      "date": "2026-10-21",
-      "saga": "STI-110GE（SFP 版需核）"
+      "brand": "PLANET",
+      "model": "IGS-624HPT",
+      "spec": "工业 4×GE PoE+ + 2×SFP 非管理 → Saga 同口型（4×GE PoE + 2×SFP）$35.2 USD EXW",
+      "saga": "STI-244GP",
+      "url": "https://lancomat.cz",
+      "date": "2026-10-19"
+    },
+    {
+      "brand": "PLANET",
+      "model": "GSD-908HP",
+      "spec": "桌面 8×GE PoE + 1×GE 上行 → Saga 8×GE PoE + 2×SFP 管理 $80.7 USD EXW",
+      "saga": "STC-28DGGPM",
+      "url": "https://lancomat.cz",
+      "date": "2026-10-19"
+    },
+    {
+      "brand": "PLANET",
+      "model": "IGS-12040MT",
+      "spec": "工业 8×GE + 4×SFP 管理 → Saga 8×GE + 2×SFP 管理 $68.2 USD EXW（SFP 口数 2 vs 4，需说明）",
+      "saga": "STI-280GM",
+      "url": "https://lancomat.cz",
+      "date": "2026-10-19"
+    },
+    {
+      "brand": "PLANET",
+      "model": "IGS-5225-4T2S",
+      "spec": "工业 L2+/L3 4×GE + 2×SFP 管理 → Saga 最近为 STI-240GE 非管理 $28.0 USD EXW（非对等，仅作参考，不进首触）",
+      "saga": "STI-240GE",
+      "url": "https://lancomat.cz",
+      "date": "2026-10-19"
+    },
+    {
+      "brand": "PLANET",
+      "model": "IGS-1820TF",
+      "spec": "工业 16×GE + 2×SFP 非管理：Saga 16 口位为管理型 STI-2160XGGM（非对等，不报）",
+      "saga": "—",
+      "url": "https://lancomat.cz",
+      "date": "2026-10-19"
+    },
+    {
+      "brand": "PLANET",
+      "model": "IGS-6325-20T4C4X",
+      "spec": "工业 L3 20×GE + 4 Combo + 4×10G：Saga 工业线无 L3 28 口款",
+      "saga": "—",
+      "url": "https://lancomat.cz",
+      "date": "2026-10-19"
     }
   ],
   "channels": {
-    "网站": "https://born-spb.ru/",
-    "直邮": "sales@born-spb.ru（用户表）",
-    "网站/网店": "https://born-shop.ru/ / https://www.born-spb.ru/",
-    "电话": "+7 812 458-85-86 / 8 800 302-15-41（官网公开）",
-    "邮箱（公开）": "sales@born-spb.ru",
-    "伙伴名录": "https://snr.systems/ru/partners/ooo-born-spb"
+    "role": "结构化布线 / 光纤 / 机柜分销商兼电商（「vše pro strukturované kabeláže, optické sítě a rozvaděče」；另有 IP 对讲、有源设备、UPS、OEM 组件、租赁服务）；PLANET 为其工业 / 商用交换机在售品牌",
+    "region": "捷克"
   },
   "signals": [
-    "39 次跟进 5 次实质回复（最近 2025）——长期活跃",
-    "多品牌小型批发商（9 人）、SNR 伙伴——MC/SFP 为走量品类；Saga MC（STI-110GE）与 SFP/工业机可作白牌补充（2026-10-21）"
+    "布线分销商的有源设备类目靠 PLANET 工业 / PoE 交换机补齐，客户是布线安装商与楼宇弱电集成商 → Saga STI 工业 PoE 管理型同口型、中性包装 EXW，作其有源类目的第二来源；总经理（jednatel）与销售团队姓名 / 邮箱 / 直线全部公开"
   ],
   "risks": [
-    "俄罗斯结算；多品牌比价",
-    "规模小（9 人、年利 ≈1.5M ₽）——单笔金额有限；39 次跟进 5 次实质回复，保持低频"
+    "PLANET 有源类目年量与库存深度（IGS-1820TF 缺货暗示小批量进货）；是否要求捷克语文档；总经理 vs 销售专员谁决定新供应商"
   ],
   "saga_fit": {
-    "p1": "STI-110GE",
+    "p1": "STI-288GPM",
     "tier": 20,
-    "why": "贸易商走量品：STI-110GE（MC）+ STC-28DGGPM；分销 20% 档"
+    "why": "其在售 IGS-10020PT（工业 8×GE PoE+ + 2×SFP 管理，130 W）→ Saga STI-288GPM 同口型（IP30、-40~75 °C、冗余 DC、L2 管理、240 W），20% 档 $78.9 USD EXW；IGS-624HPT / GSD-908HP 由 STI-244GP / STC-28DGGPM 第二封对位；布线分销商 / 电商（走量）→ 20%（沿用 Planet 档案 PA-018）；需求："
   },
-  "email_hook": "For the media converter and 8-port PoE lines you trade, the gigabit SFP media converter and the Marvell-based 8-port PoE+ 2 SFP managed switch are the two EXW prices I am sending for your next comparison.",
+  "email_hook": "Your active-equipment range carries PLANET industrial units (IGS-10020PT, IGS-624HPT, GSD-908HP) for cabling installers — a Marvell-based, neutral-packed STI line at EXW gives those slots a second source with margin you set yourself. Among your industrial PoE switches, is the 8-port Gigabit PoE+ managed class (IGS-10020PT) the one installers order most, or the 4-port IGS-624HPT — so I send the right sample first?",
   "mail_review": {
     "binding": {
-      "level": "未绑定（邮件 18 封 0 回，Opened 1 次 2024-12-18；用户表「5 次实质回复」渠道不明；Elsa 箱：`to:born-shop.ru OR to:born-spb.ru` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 18 / 来 0）（第 74 批(g)））",
-      "type": "圣彼得堡多品牌贸易（Born SPb）",
-      "sieve": "0（邮件层无人工回复）",
-      "stop": "2026-01 后未再发",
-      "revive": "—",
-      "lane": "RU",
-      "cadence": "不主动",
-      "evidence": "邮件：去信 18 封（2024-07-01 → 2026-01-13），来信 0；Opened 标签 1 次（2024-12-18）；收件人 sales@born-spb.ru"
+      "level": "未触达（A/S 邮箱 0 封；来源为 Planet 渠道反查 PA-018——Q-33「不碰，标记」：PLANET 在售经销商）；Elsa 群发 BCC 已触达 2026-08-28「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，CZ 批次 To office@ergate.cz，0 回（第 73 批(o) Bcc 头核对 msg 1a04798efe1a50d8）",
+      "type": "布拉格结构化布线/光纤/机柜分销（LANCOMAT；在售 7 款 PLANET 工业/PoE 交换机；总经理 Tomáš Jahoda 邮箱公开）",
+      "sieve": "—",
+      "stop": "Q-33：Planet 渠道客户不碰",
+      "revive": "Simon 解除 Q-33 后：以 PLANET 工业款对位 STI 系列的一页表",
+      "lane": "CZ/EU",
+      "cadence": "不动",
+      "evidence": "无邮件；研究档官网证据 + Planet 渠道档案 PA-018；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To office@ergate.cz）2025-04-12→2026-08-28 共 10 轮群发（Marvell Alleycat5 Solution、16 Port Ethernet Switch、Industrial PoE Switch、90W PoE Managed Switch、Mini Industrial PoE Switch、10G Enterprise SFP Switch、OEM Core Switching Solution、Updated Ethernet Switches Links、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断"
     },
-    "situation": "18 封被打开 1 次。",
-    "need": "MC / 工业 FS。",
-    "breakpoint": "—",
+    "situation": "Planet 渠道挖矿（已暂停）中反查出来的捷克经销商，位于 A 目录但从未触达；按 Q-33 标记不碰。",
+    "need": "PLANET 工业/PoE 在售 SKU 的替代（若有一天要碰）。",
+    "breakpoint": "Q-33。",
     "saga_now": {
-      "p1": "STI-110GE",
+      "p1": "STI-288DGGPM 对位 PLANET IGS 系列（备用）",
       "tier": 20,
-      "price": "锚价：STI-110GE $26.5 / STC-28DGGPM $80.7（20% 档）（第 72 批 2026-10-24）；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-20 $300（48 port poe managed switch）、2024-09-24 $65（10G Media Converter）；群发里他已看到的价（续，第 66 批全量复核）：2025-01-10 $240（24 Port Fiber Switch）、2025-10-02 $280（10G Enterprise SFP Switch）",
-      "why": "已打开的主题（1/18 封有打开记录）：「90W PoE Managed Switch」(2024-12-18) → 读者兴趣偏「PoE 接入」；当前 P1 属「10G 汇聚/L3」，下一封按「PoE 接入」给，不按 P1",
+      "price": "—；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-28；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
+      "why": "—",
       "repeat": [],
       "gaps": []
     },
     "next_move": {
-      "when": "2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）",
-      "channel": "S 邮箱 → sales@born-spb.ru（Федотов Сергей Иванович（Sergey I. Fedotov））（Born SPb；用户表 5 次回复渠道不明）",
-      "action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(q) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））",
-      "one_question": "For the media converter and 8-port PoE lines you trade, the gigabit SFP media converter and the Marvell-based 8-port PoE+ 2 SFP managed switch are the two EXW prices I am sending for your next comparison. Shall I send both for your next comparison? Reference: STI-110GE at $26.5 / STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
+      "when": "不动",
+      "channel": "—",
+      "action": "—（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
+      "one_question": ""
     },
     "facts": [
       {
-        "date": "2023-12-09",
-        "dir": "来",
-        "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
-        "quote": "用户表跟进：推「发了30的商业POE价格册」→ 对方「thanks」",
-        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
-        "k": "Clients/A/DONE/优质俄罗斯客户 2.9.xlsx no.47 2023.12.9"
-      },
-      {
-        "date": "2024-01-08",
-        "dir": "来",
-        "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
-        "quote": "用户表跟进：推「发了最新的工业电源价格册」→ 对方「thanks」",
-        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
-        "k": "Clients/A/DONE/优质俄罗斯客户 2.9.xlsx no.47 2024.1.8"
-      },
-      {
-        "date": "2024-04-16",
-        "dir": "来",
-        "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
-        "quote": "用户表跟进：推「发了商业PoE 128信息」→ 对方「hi」",
-        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
-        "k": "Clients/A/DONE/优质俄罗斯客户 2.9.xlsx no.47 2024.4.16"
-      },
-      {
-        "date": "2024-11-11",
-        "dir": "来",
-        "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
-        "quote": "用户表跟进：推「电口」→ 对方「问了一个不太相关的」",
-        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
-        "k": "Clients/A/DONE/优质俄罗斯客户 2.9.xlsx no.47 1111"
-      },
-      {
-        "date": "2024-12-18",
+        "date": "2025-04-12",
         "dir": "去",
-        "who": "Saga（群发）",
-        "quote": "「90W PoE Managed Switch」被打开（Mailtrack Opened 标签）",
-        "why": "唯一的互动痕迹",
-        "k": "3af24011688d7cd2"
+        "who": "Elsa 群发（BCC；To office@ergate.cz，CZ 批次）",
+        "quote": "Marvell Alleycat5 Solution — We are doing Marvell Alleycat5 chip for tailored networking solutions. 1, Support Web GUI change(Logo, model name, MAC, SN, SNMP, OID) 2, Added intere",
+        "why": "Elsa 箱群发 BCC 触达证据（命中地址 info@lancomat.cz, lancomat.cz）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+        "k": "elsa_bcc"
       },
       {
-        "date": "2025-06-21",
-        "dir": "来",
-        "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
-        "quote": "用户表跟进：推「工业非管理组合图」→ 对方「用switches」",
-        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
-        "k": "Clients/A/DONE/优质俄罗斯客户 2.9.xlsx no.47 621"
+        "date": "2025-04-12",
+        "dir": "去",
+        "who": "Elsa 箱群发 Bcc",
+        "quote": "Marvell Alleycat5 Solution｜Hi, How are you? We are doing Marvell Alleycat5 chip for tai",
+        "why": "Elsa 群发命中（批 CZ，锚 To office@ergate.cz）",
+        "k": "196298c90e618602"
+      },
+      {
+        "date": "2026-08-28",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To office@ergate.cz，CZ 批次）",
+        "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
+        "why": "Elsa 箱群发 BCC 触达证据（命中地址 info@lancomat.cz, lancomat.cz）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+        "k": "elsa_bcc"
+      },
+      {
+        "date": "2026-08-28",
+        "dir": "去",
+        "who": "Elsa 箱群发 Bcc",
+        "quote": "24 Port PoE Managed Switch｜Price: 170USD/PC",
+        "why": "Elsa 群发命中（批 CZ，锚 To office@ergate.cz）",
+        "k": "1a04798efe1a50d8"
       }
     ],
-    "proof_gaps": [
-      "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 从未去信、Replied 索引亦无此户），仓库未见原文"
-    ],
-    "draft_en": {
-      "subject": "Two EXW numbers for your next comparison - converter and 8-port PoE",
-      "body": "Hello Sergey,\n\nOver the years we exchanged a few short messages and you had our product mails; nothing in them needed an answer. For the media-converter and 8-port PoE lines you trade, the two numbers for your next comparison: industrial Gigabit media converter, 1 x RJ45 + 1 x SFP slot - model STI-110GE - $26.5 USD EXW at distributor price (MOQ 1, 15-day validity); 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based - STC-28DGGPM - $80.7. CE/RoHS files supplied; EAC stays on your side.\n\nOne question: which of the two moves more volume in your shop today, so I keep the comparison to that one?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
-    },
-    "as_of": "2026-10-24"
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-25"
   }
 }

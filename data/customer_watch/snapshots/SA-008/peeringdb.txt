@@ -1,0 +1,9 @@
+# SA-008 NYNEX satellite OHG / fiberONE（达姆施塔特）—— GitHub 部分见 scripts/github_watch · peeringdb · https://www.peeringdb.com/api/net?asn=200519 · fetched 2026-10-25T07:41:18Z · HTTP 200
+{
+ "data.0.info_prefixes4": 0,
+ "data.0.info_prefixes6": 0,
+ "data.0.name": "fiberONE.de",
+ "data.0.netfac_updated": null,
+ "data.0.netixlan_updated": null,
+ "data.0.updated": "2022-07-27T05:35:51Z"
+}

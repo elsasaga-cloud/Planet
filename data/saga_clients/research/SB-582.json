@@ -2,72 +2,132 @@
  "code": "SB-582",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "在线（altronix.com，快照 2026-10-21）",
- "summary": "美国 Altronix（「The Global Leader In Power and Data Transmission Solutions」安防/门禁/监控/消防电源与数据传输制造商，美国设计制造；自有多品牌含 PoE 交换机、FireSwitch、EoC 交换机；表内「有很多自己的品牌」「switch」）；表内未跟进。",
- "type": "美国电源/PoE 自研制造商（同行/自研）",
+ "website_status": "在线（smartintercom.eu，快照 2026-10-21）",
+ "summary": "SmartIntercom（smartintercom.eu：与 Akuvox 合作的室内外门禁对讲高端分销商；表内国别未填（.eu，联系人 Ronald；国别待核）；表内「4 口工业级 PoE 交换机报价」；KP Ronald（roh@））；表内 6 次跟进无回复。",
+ "type": "对讲/门禁分销商（欧洲，4 口工业 PoE 报价）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Akuvox"
+ ],
  "evidence": [
   {
    "kind": "官网快照",
-   "claim": "官网标题：Altronix Home；品类词 安防监控（CCTV / 门禁） / 网络交换 / PoE",
-   "quote": "Altronix Home Page. Product information. Interactive tools.",
-   "url": "https://altronix.com/",
+   "claim": "官网标题：Home • SmartIntercom；品类词 安防监控（CCTV / 门禁） / 网络交换 / PoE",
+   "quote": "Premium distributor of indoor & outdoor (home) entry systems in cooperation with Akuvox",
+   "url": "https://smartintercom.eu/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
    "claim": "表内兴趣/备注",
-   "quote": "switch",
+   "quote": "4口工业级PoE交换机报价",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   },
   {
    "kind": "官网快照",
-   "claim": "Altronix 首页",
-   "quote": "Altronix ® ...The Global Leader In Power and Data Transmission Solutions ; Security | Access Control | Surveillance | Fire ; Altronix Brands ; /categories/poe_switches ; /brands/fireswitch",
-   "url": "https://altronix.com/",
+   "claim": "SmartIntercom 定位",
+   "quote": "Home • SmartIntercom ; Premium distributor of indoor & outdoor (home) entry systems in cooperation with Akuvox",
+   "url": "https://smartintercom.eu/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "有很多自己的品牌",
-   "quote": "有很多自己的品牌；switch",
+   "claim": "4 口工业级 PoE 报价",
+   "quote": "4口工业级PoE交换机报价",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
- "kp": [],
- "grade_override": "C",
- "override_reason": "同行/自研：Altronix 美国自研自产 PoE/EoC 交换机品牌，非 ODM 采购方；c_sub=同行/自研厂商",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "kp": [
+  {
+   "name": "Ronald",
+   "title": "（负责人）",
+   "email": "roh@smartintercom.eu",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "美国",
-  "other": "官网 altronix.com，语言 ?，快照状态 ok；角色判定来源：官网文案"
+  "hq": "未填",
+  "other": "官网 smartintercom.eu，语言 en-US，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "安防电源 / PoE / EoC 交换机（自研制造，多品牌）"
+  "门禁对讲系统分销（Akuvox）"
  ],
  "channels": {
-  "role": "美国电源/PoE 自研制造商（同行/自研）",
-  "region": "美国",
-  "contact": "info@altronix.com"
+  "role": "对讲/门禁分销商（欧洲，4 口工业 PoE 报价）",
+  "region": "未填",
+  "contact": "roh@smartintercom.eu"
  },
  "signals": [
-  "首页 Altronix ® …The Global Leader In Power and Data Transmission Solutions ; Security | Access Control | Surveillance | Fire ; Altronix Brands；页面 /categories/poe_switches、/brands/fireswitch、/categories/eoc_switches",
-  "表内：有很多自己的品牌；switch"
+  "官网：Premium distributor of indoor & outdoor (home) entry systems in cooperation with Akuvox ; 99.9% uptime ; RONALD, SMARTINTERCOM；kw poe 9 / distributor 7",
+  "表内：4 口工业级 PoE 交换机报价"
  ],
  "risks": [
-  "同行/自研：Altronix 在美国自研自产电源与 PoE/EoC 交换机（多自有品牌），非白牌采购方；仅 info@"
+  "国别待核（表内未填，.eu 域名）；分销商（Akuvox 自带 PoE 配件）；6 次无回复"
  ],
  "saga_fit": {
-  "p1": null,
-  "tier": 30,
-  "why": "自研自产（美国制造）PoE/EoC 交换机品牌，非 ODM 采购对象 → 改 C"
+  "p1": "STI-154GP",
+  "tier": 20,
+  "why": "询价 4 口工业 PoE → 工业 4 PoE + 1 SFP STI-154GP（$37.7 @20%）/ 4 PoE + 1 GE STI-054GP（$31.2）；室内 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7）"
  },
- "email_hook": "（不发送：同行/自研）"
+ "email_hook": "Ronald, following your request for a 4-port industrial PoE switch: we supply DIN-rail 4-PoE + 1 SFP and 4-PoE + 1 GE units (−40~75 °C, 12–57 V, 802.3at, CE/RoHS) from single units, EXW USD — how many units, and do your Akuvox door stations need 802.3bt power?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 15 封 2025→2026，无记录打开，0 回；收件 roh@smartintercom.eu；主题多为「Industrial PoE Switch、48 Port PoE Managed Switch」；Elsa 箱：`to:smartintercom.eu` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 15 / 来 0）（第 74 批(n)））",
+   "type": "对讲/门禁分销商（欧洲，4 口工业 PoE 报价）",
+   "sieve": "1（只收到群发）",
+   "stop": "15 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "未填 非主攻",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 15；用户表：「4口工业级PoE交换机报价」；研究档 risks：国别待核（表内未填，.eu 域名）；分销商（Akuvox 自带 PoE 配件）；6 次无回复"
+  },
+  "situation": "SmartIntercom（smartintercom.eu：与 Akuvox 合作的室内外门禁对讲高端分销商；表内国别未填（.eu，联系人 Ronald；国别待核）；表内「4 口工业级 PoE 交换机报价」；KP Ronald（roh@））；表内 6 次跟进无回复。",
+  "need": "询价 4 口工业 PoE → 工业 4 PoE + 1 SFP STI-154GP（$37.7 @20%）/ 4 PoE + 1 GE STI-054GP（$31.2）；室内 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7）",
+  "breakpoint": "国别待核（表内未填，.eu 域名）；分销商（Akuvox 自带 PoE 配件）；6 次无回复",
+  "saga_now": {
+   "p1": "STI-154GP",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-05-30 $300（48 Port PoE Managed Switch）、2025-10-08 $280（10G Enterprise SFP Switch）、2026-06-18 $16000（32 Port 400GB DC Switch）",
+   "why": "询价 4 口工业 PoE → 工业 4 PoE + 1 SFP STI-154GP（$37.7 @20%）/ 4 PoE + 1 GE STI-054GP（$31.2）；室内 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Ronald, following your request for a 4-port industrial PoE switch: we supply DIN-rail 4-PoE + 1 SFP and 4-PoE + 1 GE units (−40~75 °C, 12–57 V, 802.3at, CE/RoHS) from single units, EXW USD — how many units, and do your Akuvox door stations need 802.3bt power?"
+  },
+  "facts": [
+   {
+    "date": "2026-09-14",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "Industrial PoE Switch、48 Port PoE Managed Switch",
+    "why": "15 封 / 0 次打开 / 0 回｜首封 2025-03-20 → 末封 2026-09-14（15 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "4口工业级PoE交换机报价",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

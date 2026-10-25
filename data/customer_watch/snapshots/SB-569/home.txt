@@ -1,299 +1,646 @@
-# SB-569 vipausa.com · home · https://vipausa.com/ · fetched 2026-10-25T07:41:18Z · HTTP 200
-VIPA ControlsAmerica
-Skip to main content
-close
-Free shipping on U.S. Orders over $98
-Best Prices + Free, Awesome Support
-Toggle menu
-Search
-Your Account
-Access account and manage orders
-Sign in
+# SB-569 cablematic.com · home · https://cablematic.com/en/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+Cablematic
++33 975170126
 Register
-Compare
-Project
-close
-Fieldbus
-PROFIBUS
-PLCs
-Remote IO
-HMI
-Accessories
-PROFINET
-PLCs
-Remote IO
-HMI
-Accessories
-Modbus
-PLCs
-Remote IO
-HMI
-Accessories
-EtherCAT
-PLCs
-Remote IO
-HMI
-Accessories
-EtherNet/IP
-Remote IO
-Accessories
-OPC UA
-DeviceNet
-Remote IO
-Accessories
-CANopen
-Products
-Control Systems
-MICRO
-SLIO
-300S+
-100V
-200V
-Remote IO
-SLIO
-300S+
-100V
-200V
-Yaskawa Smart Series Remote IO
-Software
-Programming
-SPEED7 Studio
-VIPA/S5/S7 - PLC Tools
-Virtual PLCs
-Movicon HMI/SCADA
-OPC UA
-Accessories
-Industrial Ethernet Patch Cables
-Industrial Ethernet Switches
-Memory Cards
-PROFIBUS Testers
-PROFIBUS Repeaters
-PROFIBUS Connectors
-PROFINET Connectors
-PROFIBUS/PROFINET Cable
-Programming Cables
-S5/S7 Interfaces
-S5 to S7 Conversion
-Troubleshooting Toolkits
-HMI
-Touch Screens
-Key Panels
-Accessories
-Obsolete
-MICRO
-SLIO
-100V
-200V
-300S
-500S
-HMI
-Software
-Remote Access Routers
-Accessories
-Siemens S7-300 PLC Replacement Modules
-StarterKits
-Miscellaneous
-Remote Access Routers
-300S+
-Contact Us
-Contact
-Request a Quote
-Apply for Field Service Technician
-Apply for Senior Support Engineer
-Downloads
-Brochures
-CAD Files
-Datasheets
-Firmware
-Manuals
-Newsletters
-Software
-About
-About VIPA USA
-Line Card
-Blog
-Newsletters
-Product Videos
-VIPA Quality
-Accreditation & Certificates
-Terms & Conditions
-Distributors - Central America
-References
-Automotive
-Building Technology
-Food & Beverage
-Material Handling
-Packaging
-Renewable Energy
-Water
-References: At a Glance
-Support
-RMA Form
-FAQ
-File Upload
-How-To Videos
-Submit A Case
-Sign in
-Register
-Free Shipping
-On U.S. Orders of $98 or More + Same Day Shipping!
-Genuine VIPA Products
-Buy direct and enjoy our best-in-class warranty
-Performance Guarantee
-Complimentary 3-Year Warranty on qualifed products
-Free Awesome Support
-By email or phone, Monday-Friday -
-PLC and I/O Systems
-Control systems for your industrial application
-Extensive Fieldbus Protocol Options
-Network and Teleservice
-Remote Access
-Industrial Data Solutions
-Software
-Integrated Engineering Tools
-Connectors
-Integrated diagnostic LEDs
-Cables and more
-PROFIBUS, PROFINET
-Most Popular Products
-VIPA
-VIPA 972-0DP10 | EasyConn PROFIBUS Connector w/ Diagnostic LEDs - 90°
-90° PROFIBUS Connector w/ Diagnostic LEDs
-Ordercode: VIPA 972-0DP10
-The bus connector connects PROFIBUS user knots or complete PROFIBUS net components to the PROFIBUS line. VIPA's PROFIBUS...
-$78.32
-Quick view
-add to cart
-VIPA
-PROFINET/Industrial Ethernet RJ45 Connector | VIPA 972-0PN00
-VIPA PROFINET Cable Connector (single)
-Part number: VIPA 972-0PN00
-Field-terminable RJ45 plug for PROFINET and industrial Ethernet. All eight cores land, so the same connector serves 100 Mbit/s...
-$23.29
-Quick view
-add to cart
-VIPA
-VIPA 972-0DP20 | EasyConn PROFIBUS Connector w/ LEDs - 45°
-45° PROFIBUS Connector w/ Diagnostic LEDs
-Ordercode: VIPA 972-0DP20
-Connects PROFIBUS net components to a PROFIBUS line
-This PROFIBUS connector is oriented at a 45 degree angle to the PROFIBUS...
-$78.32
-Quick view
-add to cart
-VIPA
-VIPA 972-0DP30 | EasyConn PROFIBUS Connector w/ Diagnostic LEDs - 0/180°
-0° PROFIBUS CONNECTOR w/ Diagnostic LEDs
-Ordercode: VIPA 972-0DP30
-The bus connector connects PROFIBUS user knots or complete PROFIBUS net components to the PROFIBUS line. VIPA's PROFIBUS...
-$78.32
-Quick view
-add to cart
-VIPA
-VIPA 972-0DP01 | EasyConn PROFIBUS Connector - 90°
-90° PROFIBUS Connector
-Ordercode: VIPA 972-0DP01
-The bus connector connects PROFIBUS user knots or complete PROFIBUS net components to the PROFIBUS line. VIPA's PROFIBUS connectors feature an...
-$61.23
-Quick view
-add to cart
-VIPA
-VIPA 972-0DP10-M | ModbusRTU/ASCII D-Sub Connector w/ LEDs - 90 Degrees
-VIPA ModbusRTU/ASCII D-Sub DE9 Bus Connector w/ Diagnostic LEDs
-VIPAs ModbusRTU/ASCII Connectors feature an all-metal-housing and diagnostic LEDs for quick and simple evaluation of ModbusRTU system...
-$78.32
-Quick view
-add to cart
-VIPA
-VIPA 021-1BF00 - SM 021 SLIO Digital Input Module, 8DI, 24VDC
-SLIO SM 021 - Digital Input Module
-Ordercode: VIPA 021-1BF00SAP-No.: 100-220-800
-8 Digital Inputs
-24VDC
-Technical Details
-Current consum
-$98.39
-Quick view
-add to cart
-VIPA
-VIPA 253-1CA01 - IM 253 Interface Module, CANopen I/O
-System 200V – End of Life notification
-We would like to recommend using our system SLIO as successor for your 200V components. For additional information, please call or email us at +1(678) 880-6910...
-Quick view
-OBSOLETE | VIPA 000-0DN00 - SLIO DeviceNet Jack for 053-1DN00
-THIS ITEM IS OBSOLETE
-PLEASE CONTACT US FOR AN ALTERNATIVE OPTION +1.678.880.6910 or sales@vipausa.com
-SLIO DeviceNET Connector
-Ordercode: VIPA 000-0DN00
-1 piece
-For
-Quick view
-VIPA
-VIPA 390-0AA00 - 300S / S7-300 Bus Connector
-Replacement bus connector for VIPA 300S and Siemens S7-300 systems. One is included with all new VIPA 300S I/O modules.
-Replacement For:
-Siemens 6ES7 390-0AA00-0AA0
-$6.76
-Quick view
-add to cart
-VIPA 953-0KX10 - MMC Card, Blank
-200V Multi Media Card
-Ordercode: VIPA 953-0KX10SAP-No.: 10110633
-512KB
-MMC for VIPA CPUs 11x, 21x, 24x, 31x and 51x
-MMC for 208-1DP01 and CC 03
-Downloads
-$174.00
-Quick view
-add to cart
-VIPA
-VIPA 022-1BF00 - SM 022 SLIO Digital Output Module, 8DO, 24VDC, 0.5A
-SLIO SM022 Digital Output Module
-Ordercode: VIPA 022-1BF00SAP-No.: 100-220-845
-8 Digital Outputs
-24VDC
-0.5A
-Technical Details
-$106.00
-Quick view
-add to cart
-We want to be your go-to service for industrial spare parts
-Our customer service team is waiting to assist you. Benefit from a free, no-obligation consultation to find out more about the advantages of VIPA Controls.
-Contact Us
-Close
-×
-OK
-Footer Start
-Products
-Control Systems
-I/O Systems
-Visualization
-Remote Access
-Software
-Accessories
-Pages
-300S+
-Contact Us
-Downloads
-About
-References
-Support
-Sitemap
-Social Media
-about us
-980 Birmingham Rd. #721
-Alpharetta, GA 30004 USA
-USA: +1 (678) 880-6910
-MEX: +52 (55) 8526-6442
-info@vipausa.com
-ventas@vipausa.com
-Copyright © 2026 VIPA ControlsAmerica. | Privacy Statement | Shipping Policy
-x
-Compare
-Item Successfully added to comparison list.
-x
-Compare
-Item Successfully removed from comparison list.
-x
-Compare
-At least 2 products are needed to make a valid comparison.
+Log in
+/ EUR /
+en
+0
+You have reached the maximum number of references on offer in your order. You can continue to add products not on offer or place another order.
+Sorry. This product is currently out of stock.
+News
+Trademarks
+Refurbished
+Outlet
+Help
+WeekEnd Loco
+3X2
+Oferta Cat.5e
+CablematicDay
+Cablematicweek
+Black Friday
+Cybermonday
+Christmas special
+Rack Week
+Hospitality Special
+Hospitality supplies
+Semana del Rack
+Black Friday
+Bollards and posts
+🛠️ Rack Configurator
+Oferta Cat.5e
+0
+You have reached the maximum number of references on offer in your order. You can continue to add products not on offer or place another order.
+Sorry. This product is currently out of stock.
+Open Orders
+Completed Orders
+Settings
+Change password
+Log out
+0
+You have reached the maximum number of references on offer in your order. You can continue to add products not on offer or place another order.
+Sorry. This product is currently out of stock.
+/ EUR /
+en
+News
+Trademarks
+Refurbished
+Outlet
+Help
+WeekEnd Loco
+3X2
+Oferta Cat.5e
+CablematicDay
+Cablematicweek
+Black Friday
+Cybermonday
+Christmas special
+Rack Week
+Hospitality Special
+Hospitality supplies
+Semana del Rack
+Black Friday
+Bollards and posts
+🛠️ Rack Configurator
+Oferta Cat.5e
+Cables and networks
++
+-
+Accessories M.2 SSD SATA SAS HDD
++
+-
+Adapter CF SD SSD HDD NGFF
+SATA Storage
++
+-
+SATA External Enclosure
+SAS Cable and Adapter
++
+-
+SAS Bracket
+External 26 pin MiniSAS cable
+36 pin MiniSAS Cable
+MiniSAS HD Cable SFF
+QSFP + SFP and SFP + Cable
+SATA Cable and adapter
++
+-
+SATA Adapter
+SATA Power Adapter
+MicroSATA Adapter
+SATA power and data
+SATA Bracket
+Sata Slimline Cable
+SATA Data Cable
+SATA 3 Cable
+ESATA data cable
+ESATA and USB hybrid cable
+Hard drive Cases
+Interface M.2 NGFF
+SATA Interface
+SATA2 Interface
+FireWire Card Accessories
++
+-
+FireWire 400 Adapter
+Retractable FireWire 400 Cable
+FireWire to Motherboard Cable
+FireWire 800 Super Cable
+ATA IDE adapter and accessories
++
+-
+IDE to memoria Flash Adapter
+1.8" and 2.5" 3.5" Adapter
+ATA133 ATA100 ATA66 Cable
+4pin MOLEX Power Cable
+ATA cable and connector
+Hard drive case
+Bluetooth adapter and accessories
++
+-
+Bluetooth serial port
+Bluetooth Interface
+Parallel port adapter
++
+-
+Parallel to USB Adapter
+Parallel Adapter and cable
++
+-
+Centronics Adapter
+DB25 Adapter
+Parallel DB25 Cable M/F
+Parallel DB25 Cable M/M
+PCI Parallel Card
+Parallel and Serial PCI Card
+Parallel and serial PCIe Card
+Serial Port Adapter Card
++
+-
+Serial Accessories
+RS232 to Bluetooth Adapter
+RS422 RS485 to USB Adapter
+RS232 to USB serial adapter
+Bus serial CAN
+Serial Cable and adapter
++
+-
+RJ11 and RJ45 adapter
+DB9 and DB25 Adapter
+Breakout boards
+DB9 null modem adapter
+null módem DB9 Cable
+DB9 to DB25 Null modem cable
+Serial Cable DB25 M/F
+Serial Cable DB25 M/M
+Serial Cable DB9 F/F
+Serial Cable DB9 M/F
+Serial Cable DB9 M/M
+DB9 to DB25 Serial Cable
+EMI and EMC filters
+RS232 to RS422 and RS485 Converter
+RS485 inputs and outputs
+RS232, RS422 and RS485 Extender
+Serial Module USR IOT
++
+-
+GPRS to serial IP module
+UART module E45
+UART serial to 802.11 module
+RS422 RS232 RS485 to Fiber
+RS232 to PCMCIA, CardBus
+RS232/422/485 to Expresscard
+PCIe RS232 Parallel and Serial
+TCP/IP RS232 Server
+TCP/IP Serial RS422/485 Server
+RS232 PCI Serial Card
+RS232 PCIe serial card
+RS485 RS422 PCI Serial Card
+Serial and Parallel PCI Card
+Cable BCC
++
+-
+BCC adapter M12 5P
+BCC Cable M8 3P
+MIDI Cable and adapter
++
+-
+MIDI Cable
+USB Cables and accessories
++
+-
+USB to PS2 Adapter
+USB to RS232 Adapter
+USB to RS422 RS485 Adaptador
+Powered USB
+USB Bluetooth
+USB 2.0 Cable and adapter
++
+-
+USB Adapter
+USB to motherboard adapter
+USB adapter with light
+Rotating USB adapter
+AM to AF USB Cable
+AM to AM USB Cable
+AM to BM USB Cable
+USB AM to MicroUSB Cable
+USB AM to miniUSBM Cable
+USB Cable BM to BF
+MicroUSB to MicroUSB Cable
+MicroUSB to MiniUSB Cable
+Retractable USB Cable
+Diverse USB Cables
+USB Custom cable
+USB and eSATA hybrid Cable
+Digital Camera Cable
+Cable and USB adapters type C
+USB Super cable AM to AF
+USB Super Cable AM to BM
+USB Super cable AM to MiniUSB
+USB 3.0, 3.1 and 3.2 Cable and Adapter
++
+-
+USB 3.0 to USB 2.0 Adapter
+USB 3.0 to video adapter
+USB 3.0 or 3.1 adapter
+USB 3.1 Adapter
+USB 3.0 Cable AM to AF
+USB 3.0 Cable AM to AM
+USB 3.0 Cable AM to BM
+USB 3.0 Cable AM-MicroUSB-M
+USB 3.0 / 3.1 MicroUSB-M / M cable
+USB 3.0 / 3.1 Type-C Cable
+USB 3.2 and 3.1 Type C cable
+USB 3.0 20 pin cable and adapter
+Docking Station USB-C HDMI VGA Ethernet
+USB 3.0 slot to motherboard
+USB lightning cables
+USB 4.0 cables and adapters
++
+-
+USB 4.0 adapter
+USB Hub
+USB Cable Extender
++
+-
+USB Extender
+USB Gadgets
+USB Interface
+USB memory card readers
+Powered USB
++
+-
+24V Powered USB Cable
+5V Powered USB Cable
+Diverse USB products
+USB Sound
+USB External Drive
+VGA, DVI and HDMI over USB
+USB Fan
+CISCO Systems cables
++
+-
+10GbE CX4 Cable
+RJ48 Cable
+Phone Cables and Accessories
++
+-
+Phone accessories and adapter
+3G, GSM and GPRS Adapter
+Mobile Power Adapter
+Irda Adapter
+Adaptadors SIM microSIM nanoSIM
+Headset Microphones
++
+-
+Phone headset Accessories
+Dual Watch Cable
+GN Netcom cable and adapter
+Plantronics Cable and adapter
+Mobile Phone Batteries
++
+-
+HTC Batterie
+Motorola Battery
+Samsung Battery
+PABX 110 Adapter
++
+-
+TB110 to TB110 Cable
+Type 110 Connector
+Telephone Cable
++
+-
+Phone cable Reel
+Retractable Phone Cord
+Phone Cable
+Telephone cable - retractable
+RJ11 Surface Mounting Boxes
+Phone Tools
+Phone surge protector
+Ethernet products
++
+-
+CX4 10GbE Cable
+MiniSAS HD Cable
+SFP SFP+ QSFP+ Cable
+LAN Cable and connector
++
+-
+Coaxial RG58 cable
+Cat.8.1 Network Cable
++
+-
+Cat.8.1 Accessories
+SFTP Cat.8.1 network cable
+Cat.5e FTP Network cable
++
+-
+Cat.5e FTP Accessories
+Cat.5e FTP Reel
+Cat.5e FTP cable
++
+-
+Cat.5e FTP cable grey
+Cat.5e FTP Faceplates
+Cat.5e FTP LSHF Network cable
++
+-
+Cat.5e FTP LSHF cable
+Cat.6 / cat6.A FTP Network cable
++
+-
+Cat.6 / cat6.A FTP Accessories
+Cat.6 / cat6.A FTP Reel
+Cat.6 / cat.6A FTP cable
++
+-
+Cat.6 FTP cable yellow
+Cat.6 FTP cable blue
+Cat.6 FTP cable white
+Cat.6 FTP cable grey
+FTP cable cat.6 orange
+Cat.6 FTP cable black
+Cat.6 FTP cable red
+Cat.6 FTP cable green
+Cat.6A FTP cable yellow
+Cat.6A FTP cable blue
+Cat.6A FTP cable white
+Cat.6A FTP cable grey
+Cat.6A FTP cable black
+Cat.6A FTP cable red
+Cat.6A FTP cable green
+Cat.6 FTP Faceplates
+Cat.6 FTP LSHF Network cable
++
+-
+Cat.6 FTP LSHF Reel
+Cat.6 FTP LSHF cable
+Cat.6A SFTP LSHF Network cable
++
+-
+SFTP cable cat.6A Yellow
+SFTP cable cat.6A Blue
+Cable SFTP cat.6A Blanco
+SFTP cable cat.6A Red
+SFTP cable cat.6A Green
+SFTP cable cat.6A gray
+SFTP cat.7 LSHF network cable
++
+-
+Cat 7 SFTP Accessories
+SFTP coil cat.7
+Cat 7 SFTP Network cable
++
+-
+SFTP cable cat.7 yellow LSHF
+SFTP cable cat.7 blue LSHF
+SFTP cable cat.7 white LSHF
+SFTP cable cat.7 gray LSHF
+SFTP cable cat.7 black LSZH
+SFTP cable cat.7 red LSHF
+SFTP cable cat.7 green LSHF
+Network cable SFTP cat.8 LSHF
++
+-
+Cable SFTP cat.8 LSHF
+SSTP cat.7 network cable
++
+-
+SSTP coil cat.7
+Cat 7 SSTP Network cable
+Cat.5e UTP network cable
++
+-
+Cat.5e UTP Accessories
+Cat.5e UTP reel
+Cat.5e UTP cable
++
+-
+Yellow cat.5e UTP cable
+Blue UTP cat.5e cable
+White cat.5e UTP cable
+UTP cable cat.5e gray
+Black cat.5e UTP cable
+red cat.5e UTP cable
+Green cat.5e UTP cable
+Cat.5e UTP crossover cable
+Cat.5e UTP Faceplates
+Cat.6 / cat.6A UTP Network cable
++
+-
+Cat.6 UTP Accessories
+Cat.6 / cat.6A UTP reel
+Cat 6 UTP Network cable / cat.6A
++
+-
+Cat.6 UTP Network cable yellow
+Cat.6 UTP Network cable blue
+Cavo Cat.5e UTP bianco
+Cat.6 UTP cable grey
+Orange cat.6 UTP cable
+Cat.6 UTP Network cable black
+Cat.6 UTP Network cable red
+Cat.6 UTP Network cable green
+Cat.6A UTP cable yellow
+Cat.6A UTP cable blue
+Cat.6A UTP cable white
+Cat.6A UTP cable gray
+Cat.6A UTP cable black
+Cat.6A UTP cable red
+Cat.6A UTP cable green
+Cat.6 UTP Faceplates
+Cat.6 UTP LSHF Network cable
++
+-
+Cat.6 UTP LSHF Reel
+Cat.6 UTP LSHF cable
+Several cables
+LAN Cable Tools
+Patch panel configurable
++
+-
+Patch panel connector
+Keystone type 110
+Patch panel Frame
+Patch panel Rack 19" 10"
+Ethernet network hub
++
+-
+10, 100 and 1000Mbps Switch
+Commutateur PoE
+UTP to fiber optic Converter
++
+-
+MMF to SMF converter
+Fiber optic converter 100 SC
+Fiber optic converter 100 ST
+100 var fiber optic converter
+fibra óptica 1000 LC Converter
+Fiber Optic Converter 1000 SC
+Ethernet Extender
+HDMI via HDBaseT HDBT
+Fiber optic module GBIC SFP SFP+ QSFP i X2
+Power over Ethernet PoE
+Network protector
+TCP/IP Server
++
+-
+RS232 422 485 VSCOM Server
+RS485 RS422 RS232 Server
+VGA Video Server
+LAN Card and Adapter
++
+-
+Card and adapter 1000Mps
+Aviation connector
++
+-
+Female Aviation connector
+Male aviation connectors
+Male aviation connector
+Modular Connectors 80x80mm
++
+-
+Configurable modular connectors
++
+-
+Surface Box - 80x80mm
+Wall plate 80x80mm
+Module 45x22, 5mm RJ11 and RJ45
+Module 45x22, 5mm USB, VGA and HDMI
+Module 45x22, 5mm audio and video
+Module 45x22 5mm optical fiber
+80x80mm audio and video extender
+RJ45 wall plate - 80x80mm
+VGA wall faceplate 80x80mm
+KVM switch
++
+-
+KVM Cable
++
+-
+KVM VGA PS2 Cable M/M 3:1
+PS2 KVM VGA Cable M/F
+KVM PS2 VGA Cable M/M
+KVM Switch Uniclass
++
+-
+Uniclass KVM Cables
+KVM PS2 VGA Switch
+USB DVI KVM Switch
+USB DisplayPort KVM Switch
+KVM USB HDMI Switch
+VGA USB KVM Switch
+Dual UTP KVM console
+KVM rack 19" DYLINK switch
+Basic KVM Switch
+CPU Swtich
+Console KVM Switch 19"
+KVM Extender
+Video Extenders
+Optical fiber
++
+-
+Fiber Optic Coupler
++
+-
+FC fiber optic Adapter
+LC Fiber Optic Adapters
+SC Fiber Optic Coupler
+ST Fiber Optic Adapter
+Fiber Optic Attenuator
++
+-
+Fiber Optic Attenuator SC PC
+Fiber optic Reel
++
+-
+Duplex 9 singlemode Reel
+Singlemode 9 Reel
+Simplex 9 singlemode Reel
+Duplex 50 multimode Reel
+Duplex 62.5 Multimode Reel
+Multimode 62.5 Reel
+Simplex 50 multimode 50 Reel
+Simplex 62.5 multimode Reel
+Toslink Audio Digital Cable
+Fiber optic Splitters
+Fiber Optic Connector
++
+-
+FC Fiber optic Adapter
+LC Fiber Optic Adapter
+MTRJ Fiber optic Adapter
+MU Fiber optic Adapter
+SC fiber optic Adapter
+ST Fiber Optic Adapter
+Quick connector Fiber Optic
+Fiber optic to UTP converter
++
+-
+SMF to MMF converter
+UTP to fiber converter 100 SC
+UTP to fiber converter 100 ST
+UTP to fiber converter 100 var
+UTP to fibra 1000 LC Converter
+UTP to Fiber Converter SC 1000
+Fiber Optic tools
++
+-
+Fiber optic testers
+Fiber optic cutters
+Fiber optic fusion machines
+Cleaning and polishing fiber optic
+Fiber optic cases
+Fiber optic stripper
+Fiber optic cable
++
+-
+Cable Fanout MTP-LC MM 50/125 PC
+Duplex MM 50/125 PC Cable
++
+-
+Duplex 50 LC to LC Cable
+Duplex OM3 50 LC to LC Cable
+Duplex OM4 50 LC-LC Cable
+Cable duplex 50 LC-LC OM5
+Duplex OM3 50 LC to SC Cable
+Duplex OM4 50 LC-SC Cable
+Cable duplex 50 LC-SC OM5
+Duplex 50 LC to ST Cable
+Duplex OM3 50 LC to ST Cable
+Duplex OM4 50 LC-ST Cable
+Cable duplex 50 LC-ST OM5
+Duplex OM3 50 SC to SC Cable
+Duplex OM4 50 SC-SC Cable
+Cable duplex 50 SC-SC OM5
+Duplex 50 ST to SC Cable
+Duplex OM3 50 ST to SC Cable
+Duplex OM4 50 ST-SC Cable
+Cable duplex 50 ST-SC OM5
+Duplex 50 ST to ST Cable
+Duplex OM3 50 ST to ST Cable
+Duplex OM4 50 ST-ST Cable
+Cable duplex 50 ST-ST OM5
+Duplex MM 62.5/125 PC Cable
++
+-
+Duplex 62.5 FC to FC Cable
+Duplex 62.5 FC to LC Cable
+Duplex 62.5 FC to SC Cable
+Duplex 62.5 FC to ST Cable
+Duplex 62.5 LC to LC Cable
+Duplex 62.5 SC to SC Cable
+Duplex 62.5 ST to SC Cable
+Duplex SM 9/125 APC Cable
++
+-
+Duplex 9/125 FC/PC to SC/APC Cable
+Duplex 9/125 LC/PC to SC/APC Cable
+Duplex 9/125 SC/APC to SC/APC Cable
+9/125 SC / PC or SC / UPC to SC / APC Duplex Cable
+Duplex 9/125 ST/PC to ST/APC Cable
+Duplex SM 9/125 PC Cable
++
+-
+Duplex 9/125 FC to FC Cable
+Duplex 9/125 LC to LC Cable
+Duplex 9/125 LC to SC Cable
+Duplex 9/125 LC to ST Cable
+Duplex 9/125 SC to SC Cable
+Duplex 9/125 ST to SC Cable
+Duplex 9/125 ST to ST Cable
+APC Simplex SM 9/125 Cable
++
+-
+Simplex 9/125 FC/PC to SC/APC Cable
+Simplex 9/125 LC/APC to SC/APC Cable
+Simplex 9/125 LC/PC to SC/APC Cable
+Cable Simplex 9/125 SC/APC G657A2
+Simplex 9/125 SC/APC to SC/APC Cable
+Simplex 9/125 SC/PC to SC/APC Cable
+Simplex 9/125 ST/APC to ST/APC Cable
+Simplex 9/125 ST/PC to ST/APC Cable
+Sim

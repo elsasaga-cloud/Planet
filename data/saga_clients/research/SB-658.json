@@ -2,72 +2,119 @@
  "code": "SB-658",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "在线（dektron.gr，快照 2026-10-21）",
- "summary": "希腊 Dektron Ltd（广播/视频设备网店「Shoot more, Pay less」；表内「2 对 HD-SDI」；KP Dimitrios Fragkoulis（CEO）；yahoo 邮箱 + info@）；表内 7 次跟进无回复。",
- "type": "广播视频设备商（HD-SDI 需求，品类不符）",
+ "website_status": "在线（ekingen.com.tr，快照 2026-10-21）",
+ "summary": "土耳其 Ekingen Elektronik（安防产品分销：Uniview、Ajax；产品目录与品牌页）；表内 1 次跟进无回复。",
+ "type": "安防分销商（土耳其，Uniview/Ajax）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Uniview",
+  "Ajax"
+ ],
  "evidence": [
   {
    "kind": "官网快照",
-   "claim": "官网标题：Dektron.gr | Cooporate website | Page CloudFW",
-   "quote": "Shoot more, Pay less.；Σύντομος Χαιρετισμός；Πελατες",
-   "url": "https://dektron.gr/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "2对HD-SDI",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "claim": "官网标题：Ekingen Elektronik - Resmi Web Sitesi",
+   "quote": "Ekingen Elektronik Resmi Web Sayfasına Hoşgeldiniz. Burada tüm markalarımız hakkında detaylı bilgi alabilirsiniz. İletişim kurabilirsiniz.",
+   "url": "https://ekingen.com.tr/",
    "date": "2026-10-21"
   },
   {
    "kind": "官网快照",
-   "claim": "Dektron 定位",
-   "quote": "Dektron.gr | Cooporate website ; Shoot more, Pay less.",
-   "url": "https://dektron.gr/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "2 对 HD-SDI",
-   "quote": "2对HD-SDI",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "claim": "Ekingen 定位",
+   "quote": "Ekingen Elektronik - Resmi Web Sitesi ; tüm markalarımız hakkında detaylı bilgi ; /kataloglar/",
+   "url": "https://ekingen.com.tr/",
    "date": "2026-10-21"
   }
  ],
  "kp": [],
- "grade_override": "C",
- "override_reason": "品类不符（HD-SDI/广播视频）；c_sub=品类不符",
+ "grade_override": null,
+ "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "希腊",
-  "other": "官网 dektron.gr，语言 en-US，快照状态 ok；角色判定来源：官网文案"
+  "hq": "土耳其",
+  "other": "官网 ekingen.com.tr，语言 tr-TR，快照状态 ok；角色判定来源：待核"
  },
  "business_lines": [
-  "广播 / 视频设备网店（希腊）"
+  "安防产品分销（土耳其）"
  ],
  "channels": {
-  "role": "广播视频设备商（HD-SDI 需求，品类不符）",
-  "region": "希腊",
-  "contact": "laser379@yahoo.com、info@dektron.gr"
+  "role": "安防分销商（土耳其，Uniview/Ajax）",
+  "region": "土耳其",
+  "contact": "info@ekingen.com.tr、enes@ekingen.com.tr"
  },
  "signals": [
-  "官网：Dektron.gr | Cooporate website ; Shoot more, Pay less.；站内 WASP3D-SWIT",
-  "表内：2 对 HD-SDI；KP Demis / Dimitrios Fragkoulis CEO"
+  "官网：Ekingen Elektronik Resmi Web Sayfasına Hoşgeldiniz. Burada tüm markalarımız hakkında detaylı bilgi alabilirsiniz；页面 /kataloglar/、/urun-gruplari/；brands Uniview / Ajax",
+  "表内：无兴趣备注"
  ],
  "risks": [
-  "品类不符：HD-SDI/广播视频设备（Saga 不供）；7 次无回复；主联系邮箱为 yahoo"
+  "Uniview 自带 PoE 交换机（价格基准低）；土耳其汇率敏感；1 次无回复"
  ],
  "saga_fit": {
-  "p1": null,
+  "p1": "STC-28DGGPM",
   "tier": 20,
-  "why": "需求 HD-SDI 延长器（Saga 不供）、广播视频品类 → 改 C"
+  "why": "Uniview 配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）；非管理 4/8 PoE 位 HRUI（列表价，注明）"
  },
- "email_hook": "（不发送：品类不符）"
+ "email_hook": "Alongside the Uniview and Ajax lines you distribute, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches from small lots, CE/RoHS, EXW USD — which PoE port count do your installer customers order most?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 5 封 2025→2026，无记录打开，0 回；收件 enes@ekingen.com.tr, info@ekingen.com.tr；主题多为「10G Enterprise SFP Switch、Booster PoE Switch」；Elsa 箱：`to:ekingen.com.tr` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 5 / 来 0）（第 74 批(i)））",
+   "type": "安防分销商（土耳其，Uniview/Ajax）",
+   "sieve": "1（只收到群发）",
+   "stop": "5 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "TR 主攻（四主）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 5；研究档 risks：Uniview 自带 PoE 交换机（价格基准低）；土耳其汇率敏感；1 次无回复"
+  },
+  "situation": "土耳其 Ekingen Elektronik（安防产品分销：Uniview、Ajax；产品目录与品牌页）；表内 1 次跟进无回复。",
+  "need": "Uniview 配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）；非管理 4/8 PoE 位 HRUI（列表价，注明）",
+  "breakpoint": "Uniview 自带 PoE 交换机（价格基准低）；土耳其汇率敏感；1 次无回复",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-30 $280（10G Enterprise SFP Switch）",
+   "why": "Uniview 配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）；非管理 4/8 PoE 位 HRUI（列表价，注明）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
+   "one_question": "Alongside the Uniview and Ajax lines you distribute, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches from small lots, CE/RoHS, EXW USD — which PoE port count do your installer customers order most?"
+  },
+  "facts": [
+   {
+    "date": "2025-10-30",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "10G Enterprise SFP Switch",
+    "why": "首封去信（邮箱索引；去信共 5 封）",
+    "k": "7a0b31eb6dbd72cc"
+   },
+   {
+    "date": "2026-03-11",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "10G Enterprise SFP Switch、Booster PoE Switch",
+    "why": "5 封 / 0 次打开 / 0 回｜首封 2025-10-30 → 末封 2026-03-11（5 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-03-11",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "Updated Ethernet Switches Links",
+    "why": "最近一封去信（邮箱索引；去信共 5 封）",
+    "k": "00d8c20483778e23"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

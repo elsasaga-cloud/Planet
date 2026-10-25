@@ -1,0 +1,40 @@
+{
+ "code": "SC-114",
+ "name_official": "Siklu by Ceragon（毫米波设备厂商；表内黎巴嫩名单）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（siklu.com → Ceragon）",
+ "summary": "Siklu（2024 年并入以色列上市公司 Ceragon）为毫米波 PtP/PtMP 无线设备厂商，表内仅 marketing@ 邮箱，问过 10G 工业 MC 未成；设备厂商 / 上市公司且无具名联系人 → 降 C。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "Siklu by Ceragon 毫米波方案",
+   "quote": "Discover Siklu by Ceragon's mmWave solutions for ultra-fast, cost-effective wireless connectivity",
+   "url": "https://www.siklu.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "问了 10G 工业级 MC 没成；需要 10G 品比较多",
+   "quote": "兴趣：问了10G工业级MC　没成 需要10G品比较多",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "设备厂商（Ceragon 上市公司）、仅 marketing@ 无具名联系人、需求为 10G MC（价目外）",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（身份判断 → 设备厂商降 C）"
+ },
+ "saga_fit": {
+  "p1": null,
+  "tier": 30,
+  "why": "不主动跟进。"
+ },
+ "email_hook": "（不主动发送）"
+}

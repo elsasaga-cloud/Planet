@@ -1,129 +1,151 @@
 {
  "code": "SB-566",
- "name_official": "",
+ "name_official": "PCG Bilgisayar Sistemleri Paz. San. ve Tic. Ltd. Şti.（İstanbul Kartal, TR；pcgbilgisayar.com；Gigabyte Enterprise 土耳其分销商）",
  "researched_at": "2026-10-21",
- "website_status": "在线（ubitron.co.kr，快照 2026-10-21）",
- "summary": "韩国 UBITRON（CCTV 与计算机/周边设备制造；站内 IPC522 / UIS3842 型号；表内「PoE core switch 工业 FS 有 ONV 的工业 FS」「质量高」）；群发 23 次无回复。",
- "type": "CCTV/计算机制造商（韩国，PoE 为配套）",
+ "website_status": "在线",
+ "summary": "伊斯坦布尔 Kartal 的企业 IT 分销商/集成商 PCG Bilgisayar（1998 年起，法人 2004-06-04；11–50 人（ZoomInfo 17）；Gigabyte Enterprise（服务器/工作站）土耳其独家分销商（2016 起）、NVIDIA Compute Partner、Rejitek 工业电脑/显示器土耳其独家分销（2026）、E-View、Terramaster、Thecus；HPC/AI/数据中心方案；Baltacı Mehmet Paşa Sok. No:4 Moment İstanbul B Blok D:77 Soğanlık Kartal；+90 216 441 07 24；info@pcgbilgisayar.com）。用户表：珊姐转来，询 network appliance；联系人 Nalan；WhatsApp 已加；无跟进。分销商 → 20%，工业交换机可与 Rejitek 工业 PC 捆绑。",
+ "type": "",
  "size": "",
  "brands_seen": [
-  "ONV"
+  "Gigabyte Enterprise（独家分销）",
+  "NVIDIA（Compute Partner）",
+  "Rejitek（独家分销）",
+  "E-View",
+  "Terramaster"
  ],
  "evidence": [
   {
-   "kind": "官网快照",
-   "claim": "官网标题：UBITRON",
-   "quote": "ì ìì í / íìíë¡ CCTV / ì»´í¨í° ë° ì£¼ë³ê¸°ê¸° ë± ì»´í¨í° ì ì¡° ì ë¬¸",
-   "url": "https://ubitron.co.kr/kr/index.php",
-   "date": "2026-10-21"
+   "kind": "官网",
+   "claim": "定位与品牌",
+   "quote": "1998 yılından bu yana … PCG Bilgisayar, Gigabyte Enterprise Türkiye distribütörü ve NVIDIA Compute Partner olarak yüksek performanslı sunucu, workstation ve AI altyapı çözümleri sunuyor.",
+   "url": "https://pcgbilgisayar.com/",
+   "date": "2026-07-28"
+  },
+  {
+   "kind": "官网",
+   "claim": "Rejitek 工业 PC 独家分销",
+   "quote": "PCG Bilgisayar, Rejitek markası ile 2026 yılında yapmış olduğu anlaşma çerçevesinde Türkiye'deki tek resmi distribütörü olarak endüstriyel bilgisayar ve görüntüleme çözümlerini … Endüstriyel Monitörler, Panel PC'ler, Endüstriyel Box PC'ler",
+   "url": "https://pcgbilgisayar.com/rejitek",
+   "date": "2026-03-23"
+  },
+  {
+   "kind": "官网",
+   "claim": "地址与电话",
+   "quote": "Tel : 0216 441 0 PCG (724) … Adres : BALTACI MEHMET PAŞA SOK. NO:4 MOMENT İSTANBUL B BLOK D:77 SOĞANLIK KARTAL / İSTANBUL",
+   "url": "https://pcgbilgisayar.com/bize-ulasin",
+   "date": "2025-10-27"
+  },
+  {
+   "kind": "LinkedIn",
+   "claim": "规模",
+   "quote": "PCG Bilgisayar Sistemleri Paz.San.ve Tic.Ltd.Sti. … Şirket büyüklüğü: 11 - 50 çalışan … Kuruluş: 1998 … Uzmanlık Alanları: GPU Sunucular, HPC Sunucular",
+   "url": "https://tr.linkedin.com/company/pcgbilltd",
+   "date": "2024-02-08"
   },
   {
    "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "POE core switch 工业FS 有ONV的工业FS",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "PoE core switch；ONV 工业 FS",
-   "quote": "POE core switch 工业FS 有ONV的工业FS；质量高",
+   "claim": "network appliance 询盘（珊姐转）",
+   "quote": "network appliance / from: 珊姐转 / nalan@pcgbilgisayar.com",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Nalan（姓待核）",
+   "role": "（用户表联系人）",
+   "email": "nalan@pcgbilgisayar.com（用户表）",
+   "phone": "—（WhatsApp 已加）",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（官网核对）"
  },
  "company_facts": {
-  "hq": "韩国",
-  "other": "官网 ubitron.co.kr，语言 ko，快照状态 ok；角色判定来源：官网文案"
+  "legal_name": "PCG Bilgisayar Sistemleri Pazarlama San. ve Tic. Ltd. Şti.",
+  "founded": "1998（业务）/ 2004-06-04（法人）",
+  "hq": "Baltacı Mehmet Paşa Sok. No:4 Moment İstanbul B Blok D:77, Soğanlık, Kartal / İstanbul（+90 216 441 07 24；info@pcgbilgisayar.com）",
+  "size": "11–50（LinkedIn）；17（ZoomInfo）",
+  "other": "Gigabyte Enterprise 独家分销；NVIDIA Compute Partner；Rejitek 工业 PC 独家分销（2026）"
  },
  "business_lines": [
-  "CCTV / 计算机及周边制造（韩国）"
+  "服务器/工作站/GPU/HPC 分销（Gigabyte、NVIDIA、E-View）",
+  "工业电脑与显示器分销（Rejitek，2026 起）",
+  "NAS（Terramaster/Thecus）"
  ],
  "channels": {
-  "role": "CCTV/计算机制造商（韩国，PoE 为配套）",
-  "region": "韩国",
-  "contact": "ubitron@ubitron.co.kr"
+  "网站": "https://pcgbilgisayar.com/",
+  "电话": "+90 216 441 07 24（公开）",
+  "邮箱（公开）": "info@pcgbilgisayar.com",
+  "LinkedIn": "https://tr.linkedin.com/company/pcgbilltd"
  },
  "signals": [
-  "官网 desc：전자제품 / 하이테크 CCTV / 컴퓨터 및 주변기기 등 컴퓨터 제조 전문（乱码还原）；站内 IPC522 / UIS3842-F",
-  "表内：POE core switch 工业 FS 有 ONV 的工业 FS；质量高"
+  "2026 年新增 Rejitek 工业 PC 线 → 工业 DIN 交换机是天然搭配 SKU；服务器机柜项目需 10G L3 ToR"
  ],
  "risks": [
-  "非主攻区（T5，韩国；KC 由客户侧）；现供 ONV 价格基准低；23 次无回复，仅 ubitron@"
+  "主业服务器，交换机为新品类；「network appliance」需求待澄清；无后续跟进"
  ],
  "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 30,
-  "why": "PoE 配套（工业 FS 现 ONV）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 口 STC-424DGGPM-280W（$145.7）、工业 8 PoE + 2 SFP STI-288GP（$62.2）贴 UBITRON 标"
+  "p1": "STI-288DGGPM",
+  "tier": 20,
+  "why": "分销 20% 档：STI-288DGGPM（DIN 8 GE PoE+ 2 SFP L2+ 管理，$137.5）与 Rejitek 工业 PC 捆绑；机柜 ToR STC-424XGGM(L3)（24 GE + 4×10G，$269.1）"
  },
- "email_hook": "For the PoE switches shipped with your UBITRON camera and NVR systems, we can supply Marvell-based 8/24-PoE L2+ and DIN-rail 8-PoE industrial units in your packaging from small lots, CE/RoHS; KC by your side — which PoE SKU do you ship most with camera kits?",
+ "email_hook": "Nalan Hanım, Rejitek endüstriyel PC hattınızın yanına DIN ray 8 port PoE+ + 2 SFP L2+ endüstriyel switch (−40/+75 °C) distribütör fiyatı EXW 137,5 USD, sunucu kabinleri için 24 port + 4×10G L3 switch 269,1 USD — 'network appliance' talebiniz bu iki gruptan hangisine yakın?",
  "mail_review": {
   "binding": {
-   "level": "未触达（A/S 邮箱 35 封 2024→2026，1 次记录打开，0 回；收件 ubitron@ubitron.co.kr；主题多为「8 Port Industrial PoE Switch、Industrial PoE Switch」；Elsa 箱：`to:ubitron.co.kr` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 35 / 来 0）（第 74 批(n)））",
-   "type": "CCTV/计算机制造商（韩国，PoE 为配套）",
-   "sieve": "1~2（1 次打开）",
-   "stop": "35 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
-   "lane": "KR 次级（点名）",
-   "cadence": "一封",
-   "evidence": "gmail_digest：out 35，Opened 标签 1（Simon 群发追踪）；用户表：「POE core switch 工业FS 有ONV的工业FS」；研究档 risks：非主攻区（T5，韩国；KC 由客户侧）；现供 ONV 价格基准低；23 次无回复，仅 ubitron@"
+   "level": "未触达（S 邮箱 1 封 2024，无记录打开，0 回；收件 nalan@pcgbilgisayar.com；主题多为「16 Port Ethernet Switch」；Elsa 箱：`to:pcgbilgisayar.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 1 / 来 0）（第 74 批(i)））",
+   "type": "—",
+   "sieve": "1（只收到群发）",
+   "stop": "1 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停；WhatsApp 已加 → 唤醒走 WhatsApp 一句话，不走邮件",
+   "lane": "TR 主攻（四主）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 1；用户表：「network appliance / from: 珊姐转 / nalan@pcgbilgisayar.com」；研究档 risks：主业服务器，交换机为新品类；「network appliance」需求待澄清；无后续跟进"
   },
-  "situation": "韩国 UBITRON（CCTV 与计算机/周边设备制造；站内 IPC522 / UIS3842 型号；表内「PoE core switch 工业 FS 有 ONV 的工业 FS」「质量高」）；群发 23 次无回复。",
-  "need": "PoE 配套（工业 FS 现 ONV）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 口 STC-424DGGPM-280W（$145.7）、工业 8 PoE + 2 SFP STI-288GP（$62.2）贴 UBITRON 标",
-  "breakpoint": "非主攻区（T5，韩国；KC 由客户侧）；现供 ONV 价格基准低；23 次无回复，仅 ubitron@",
+  "situation": "伊斯坦布尔 Kartal 的企业 IT 分销商/集成商 PCG Bilgisayar（1998 年起，法人 2004-06-04；11–50 人（ZoomInfo 17）；Gigabyte Enterprise（服务器/工作站）土耳其独家分销商（2016 起）、NVIDIA Compute Partner、Rejitek 工业电脑/显示器土耳其独家分销（2026）、E-View、Terramaster、Thecus；HPC/AI/数据中心方案；Baltacı Mehmet Paşa Sok. No:4 Moment İstanbul B Blok D:77 Soğanlık Kartal；+90 216 441 07 24；info@pcgbilgisayar.com）。用户表：珊姐转来，询 network appliance；联系人 Nalan；WhatsApp 已加；无跟进。分销商 →",
+  "need": "分销 20% 档：STI-288DGGPM（DIN 8 GE PoE+ 2 SFP L2+ 管理，$137.5）与 Rejitek 工业 PC 捆绑；机柜 ToR STC-424XGGM(L3)（24 GE + 4×10G，$269.1）",
+  "breakpoint": "主业服务器，交换机为新品类；「network appliance」需求待澄清；无后续跟进",
   "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 30,
-   "price": "换人再触锚价 STC-28DGGPM $87.4 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-19 $300（48 port poe managed switch）、2024-11-20 $65（10G Media Converter）、2024-12-16 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-07-24 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-29 $280（10G Enterprise SFP Switch）、2026-06-09 $16000（32 Port 400GB DC Switch）",
-   "why": "PoE 配套（工业 FS 现 ONV）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 口 STC-424DGGPM-280W（$145.7）、工业 8 PoE + 2 SFP STI-288GP（$62.2）贴 UBITRON 标。已打开的主题（1/35 封有打开记录）：「Industrial PoE Switch」(2025-02-06) → 读者兴趣偏「工业」；与 P1 同类，继续",
+   "p1": "STI-288DGGPM",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）（㉕ 封顶：STI-288DGGPM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25）",
+   "why": "分销 20% 档：STI-288DGGPM（DIN 8 GE PoE+ 2 SFP L2+ 管理，$137.5）与 Rejitek 工业 PC 捆绑；机柜 ToR STC-424XGGM(L3)（24 GE + 4×10G，$269.1）",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "2027-Q1（换人后）",
-   "channel": "A 邮箱 → 具名 KP",
-   "action": "换收件人再发一封（第 75 批(ae) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用；KC stays on your side））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
-   "one_question": "For the PoE switches shipped with your UBITRON camera and NVR systems, we can supply Marvell-based 8/24-PoE L2+ and DIN-rail 8-PoE industrial units in your packaging from small lots, CE/RoHS; KC by your side — which PoE SKU do you ship most with camera kits? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity)."
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Nalan Hanım, Rejitek endüstriyel PC hattınızın yanına DIN ray 8 port PoE+ + 2 SFP L2+ endüstriyel switch (−40/+75 °C) distribütör fiyatı EXW 137,5 USD, sunucu kabinleri için 24 port + 4×10G L3 switch 269,1 USD — 'network appliance' talebiniz bu iki gruptan hangisine yakın?"
   },
   "facts": [
    {
-    "date": "2026-09-14",
+    "date": "2024-12-10",
     "dir": "去",
-    "who": "A/S 群发",
-    "quote": "8 Port Industrial PoE Switch、Industrial PoE Switch",
-    "why": "35 封 / 1 次打开 / 0 回｜首封 2024-06-19 → 末封 2026-09-14（35 去 / 0 来）",
+    "who": "S 群发",
+    "quote": "16 Port Ethernet Switch",
+    "why": "1 封 / 0 次打开 / 0 回｜首封 2024-12-10 → 末封 2024-12-10（1 去 / 0 来）",
     "k": "gmail_digest"
    },
    {
     "date": "2026-10-21",
     "dir": "用户表",
     "who": "Simon",
-    "quote": "POE core switch 工业FS 有ONV的工业FS",
+    "quote": "network appliance / from: 珊姐转 / nalan@pcgbilgisayar.com",
     "why": "表内备注",
     "k": "用户表"
-   },
-   {
-    "date": "2026-09-14",
-    "dir": "去",
-    "who": "A 箱（Alan）",
-    "quote": "16 Port Industrial PoE Switch",
-    "why": "本日去信真实主题（邮箱索引 76d020debb820650；信稿开头句引用此封；此前稿内写的「8 Port Industrial PoE Switch」是线程列表首题，不是本封）",
-    "k": "76d020debb820650"
    }
   ],
-  "proof_gaps": [],
-  "draft_en": {
-   "subject": "PoE switches shipped with UBITRON camera and NVR systems - in your packaging",
-   "body": "Hello UBITRON team,\n\nOver the past months you had a steady stream of product mails from us - most recently \"16 Port Industrial PoE Switch\" on 14 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the PoE switches shipped with your camera and NVR systems (industrial units ONV-built today), in your packaging from small lots, CE/RoHS: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based - model STC-28DGGPM - $87.4 USD EXW with your logo (MOQ 1, 15-day validity); 24 x Gigabit PoE+ (280 W) + 4 x SFP, L2+ managed - STC-424DGGPM-280W - $145.7; DIN-rail industrial 8 x PoE+ + 2 x SFP, unmanaged, -40 to 75 C - STI-288GP - $62.2. KC stays on your side.\n\nOne question: which PoE SKU do you ship most with camera kits - commercial 8-port, or the industrial one?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
-  },
+  "proof_gaps": [
+   "用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+  ],
+  "draft_en": null,
   "as_of": "2026-10-24"
  }
 }

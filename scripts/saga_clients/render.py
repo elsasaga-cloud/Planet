@@ -853,7 +853,7 @@ ELSA_SEEN = {  # 群发主题 → (型号, 稿内价)
     '10G Enterprise SFP Switch': ('STC-4168XGGCM', 280),
     '24 Port Fiber Switch': ('STC-4168XGGCM', 240),
 }
-ELSA_LIVE = {'STC-424XGGPM-280W': 180, 'STC-448XGGPM': 335, 'STC-4168XGGCM': 300}  # 同款见过群发价的户：4168 群发 $280（2025-09→2026-05，≈进价）已停，按 FX 7.2→6.7 写 $300（SB-973 口径）
+ELSA_LIVE = {'STC-424XGGPM-280W': 180, 'STC-448XGGPM': 335, 'STC-4168XGGCM': 300}  # 同款见过群发价的户：4168 群发 $280（2025-09→2026-05，≈进价）已停，按 FX 7.2→6.7 写 $300（SB-865 口径）
 ELSA_LIVE_NOW = {'STC-424XGGPM-280W': 180, 'STC-448XGGPM': 335}  # 仍在发 / 现行对外价：没见过群发的户也不高于它（㉕ ②）
 
 

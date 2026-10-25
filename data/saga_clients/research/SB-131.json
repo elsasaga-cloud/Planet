@@ -1,39 +1,48 @@
 {
  "code": "SB-131",
- "name_official": "Katalita UAB（立陶宛）",
+ "name_official": "Desecure Technology / Desecure Özel Güvenlik（Denizli + İstanbul, TR；desecuretechnology.com · desecure.com.tr）",
  "researched_at": "2026-10-21",
- "website_status": "在线（katalita.lt，快照 2026-10-21）",
- "summary": "立陶宛网络设备分销商（Ubiquiti、MikroTik、TP-Link、Teltonika；poe 363 / sfp 107 / oem 117；+370 603 03213），CFO Robertas Zubenas；表内「Extralink 是他们的品牌（存疑，Extralink 属 Batna24）；有点像洪瑞的」；群发 4 次无回复。小国名单（不主动挖）但表内已有 → 低优先。",
+ "website_status": "在线",
+ "summary": "土耳其代尼兹利的大型保安集团 Desecure（2008 年起；私人保安服务 LinkedIn 规模 1,001–5,000 人；技术公司 Desecure Technology 约 60 名工程/软件人员，自研太阳能移动安防塔、远程监控中心（AİM），服务风电/光伏/储能、工业设施与港口；总部 Vadistanbul（İstanbul Sarıyer），运营与技术中心 Desecure Plaza Denizli；444 76 49；bilgi@desecuretechnology.com）。ISAF 记录：Serdar Türker——想要工业级 8 口 PoE 交换机（30 W），英文不太好，要含当地 20% 关税的报价；无后续跟进。保安集团体量大，但技术公司自产移动安防设备 = 真实硬件采购方 → 保留 B。",
  "type": "",
  "size": "",
- "brands_seen": [
-  "Ubiquiti",
-  "MikroTik",
-  "TP-Link",
-  "Teltonika"
- ],
+ "brands_seen": [],
  "evidence": [
   {
-   "kind": "官网快照",
-   "claim": "品牌 Ubiquiti / MikroTik / TP-Link / Teltonika；oem 117；+370 603 03213",
-   "quote": "Katalita.lt… brands Ubiquiti, MikroTik, TP-Link, Teltonika",
-   "url": "https://katalita.lt/",
+   "kind": "官网",
+   "claim": "技术公司定位与地址",
+   "quote": "Proaktif teknolojiler, Desecure Technology'nin kendi ürünleri olan saha bileşenleridir: elektrik ve internet altyapısı olmayan sahalarda çalışan mobil güvenlik sistemleri … Mobil sistemler güneş enerjisiyle çalışır … Genel Müdürlük Vadistanbul, Ayazağa Mah. Azerbaycan Cad. 3/I 2A Blok No: 89, Sarıyer 34396 İstanbul - Operasyon ve Teknoloji Merkezi Desecure Plaza, Topraklık Mah. İzmir Bulvarı No: 17, Pamukkale 20150 Denizli 444 76 49 bilgi@desecuretechnology.com",
+   "url": "https://desecuretechnology.com/proaktif-teknolojiler/",
    "date": "2026-10-21"
   },
   {
+   "kind": "名录",
+   "claim": "规模（技术团队）",
+   "quote": "Desecure, Turkey's leader in proactive security … ensures the highest level of security for hundreds of facilities across Turkey using cutting-edge technologies, supported by a management, software, and engineering team of over 60 of the industry's most competent experts.",
+   "url": "https://rocketreach.co/desecure-technology-profile_b6830726c9f653a6",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "LinkedIn",
+   "claim": "保安集团规模",
+   "quote": "Desecure Özel Güvenlik … Şirket büyüklüğü: 1.001-5.000 çalışan Genel Merkez: Denizli, Pamukkale … Kuruluş: 2008",
+   "url": "https://tr.linkedin.com/company/desecure",
+   "date": "2020-08-28"
+  },
+  {
    "kind": "用户表",
-   "claim": "extralink 是他们的品牌（待核）；有点像洪瑞的",
-   "quote": "兴趣：extralink是他们的品牌 有点像洪瑞的",
+   "claim": "ISAF 互动：工业 8 口 PoE 30 W；含 20% 关税报价",
+   "quote": "想要工业级8口POE交换机， 30w, 英文不是很好， 想要报价加上当地20%关税的价格",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
  "kp": [
   {
-   "name": "Robertas Zubenas",
-   "title": "Chief Financial Officer",
-   "email": "robertas@katalita.lt",
-   "phone": "+370 603 03213",
+   "name": "Serdar Türker",
+   "role": "（ISAF 名片；职务待核）",
+   "email": "serdar.turker@desecure.com.tr（用户表）",
+   "phone": "—",
    "source": "（本地 Clients/ 表格，无公开 URL）"
   }
  ],
@@ -42,82 +51,82 @@
  "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照核对 + 表内）"
+  "level": "B 级加厚 v1（官网核对）"
  },
  "company_facts": {
-  "legal_name": "Katalita UAB",
-  "founded": "",
-  "hq": "Lithuania",
-  "size": "中小型分销",
-  "other": "OEM 词频 117 → 自有标产品"
+  "legal_name": "Desecure Technology（Desecure 集团）",
+  "founded": "2008（集团）",
+  "hq": "Vadistanbul, Ayazağa Mah. Azerbaycan Cad. 3/I 2A Blok No:89, Sarıyer İstanbul；运营技术中心 Desecure Plaza, Topraklık Mah. İzmir Bulvarı No:17, Pamukkale Denizli（444 76 49；bilgi@desecuretechnology.com）",
+  "size": "集团保安人员 1,001–5,000；技术团队 60+",
+  "other": "自研太阳能移动安防系统（无电无网场地）、AI 视频分析、热成像、远程监控；客户 RES/GES/BESS、工业、港口"
  },
  "business_lines": [
-  "网络设备分销（ISP / 无线）"
+  "私人保安服务（大体量）",
+  "Desecure Technology：移动安防塔、远程监控、CCTV/门禁集成（自研硬件集成）"
  ],
  "channels": {
-  "role": "分销商（自有标）",
-  "region": "立陶宛（小国名单）"
+  "网站": "https://desecuretechnology.com/ · https://desecure.com.tr/",
+  "电话": "444 76 49（公开）",
+  "邮箱（公开）": "bilgi@desecuretechnology.com"
  },
  "signals": [
-  "OEM 词频高 → 自有标 PoE 产品（类 HRUI）→ 贴牌可能"
+  "太阳能移动安防塔 = DC 供电、宽温、8 口 PoE 30 W 工业交换机的标准场景 → 持续性采购（每塔一台）",
+  "要求含 20% 关税的报价 → 需给 DDP/到岸估算"
  ],
  "risks": [
-  "小国；4 次群发无回复"
+  "集团采购流程；英文沟通弱（用土耳其语）；无后续跟进"
  ],
  "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 30,
-  "why": "自有标商用 PoE → STC-28DGGPM（$87.4 @30%）；HRUI 低价线 STC-028GP。"
+  "p1": "STI-288GP",
+  "tier": 25,
+  "why": "项目 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，每口 30 W，DC 44–57 V，−40~+75 ℃，$59.8）对应「工业 8 口 PoE 30 W」；需管理则 STI-288DGGPM（$137.5）；报价附土耳其关税/KDV 估算"
  },
- "email_hook": "Robertas, for the own-label PoE switches you list — Marvell L2+ 8-PoE + 2-SFP and budget unmanaged 8-PoE under your brand from small lots; which price band sells best in the Baltics?",
+ "email_hook": "Serdar Bey, güneş enerjili mobil güvenlik kuleleriniz için 8 port PoE (port başı 30 W) + 2 SFP endüstriyel switch EXW 59,8 USD; gümrük vergisi ve KDV dahil kapıya teslim tahmini fiyatı da ekleyeyim — bir kulede kaç switch kullanıyorsunuz?",
  "mail_review": {
   "binding": {
-   "level": "未触达（A 邮箱 14 封 2025→2026，1 次记录打开，0 回；收件 robertas@katalita.lt；主题多为「Industrial PoE Switch、90W PoE Managed Switch」；Elsa 箱：`to:katalita.lt` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 14 / 来 0）（第 74 批(k)））",
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「想要工业级8口POE交换机， 30w, 英文不是很好， 想要报价加上当地20%关税的价格」；Elsa 箱：`to:desecuretechnology.com OR to:desecure.com.tr` 逐户查 0（2026-10-24 第 73 批(o)，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(g)））",
    "type": "—",
-   "sieve": "1~2（1 次打开）",
-   "stop": "14 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱；Q-33 供应商渠道客户",
-   "revive": "不动（Q-33）",
-   "lane": "立陶宛（欧洲全域主攻）",
-   "cadence": "不动",
-   "evidence": "gmail_digest：out 14，Opened 标签 1（Simon 群发追踪）；用户表：「兴趣：extralink是他们的品牌 有点像洪瑞的」；研究档 risks：小国；4 次群发无回复"
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+   "lane": "TR 主攻（四主）",
+   "cadence": "首封后看打开",
+   "evidence": "gmail_digest：out 0；用户表：「想要工业级8口POE交换机， 30w, 英文不是很好， 想要报价加上当地20%关税的价格」；研究档 risks：集团采购流程；英文沟通弱（用土耳其语）；无后续跟进"
   },
-  "situation": "立陶宛网络设备分销商（Ubiquiti、MikroTik、TP-Link、Teltonika；poe 363 / sfp 107 / oem 117；+370 603 03213），CFO Robertas Zubenas；表内「Extralink 是他们的品牌（存疑，Extralink 属 Batna24）；有点像洪瑞的」；群发 4 次无回复。小国名单（不主动挖）但表内已有 → 低优先。",
-  "need": "自有标商用 PoE → STC-28DGGPM（$87.4 @30%）；HRUI 低价线 STC-028GP。",
-  "breakpoint": "小国；4 次群发无回复",
+  "situation": "土耳其代尼兹利的大型保安集团 Desecure（2008 年起；私人保安服务 LinkedIn 规模 1,001–5,000 人；技术公司 Desecure Technology 约 60 名工程/软件人员，自研太阳能移动安防塔、远程监控中心（AİM），服务风电/光伏/储能、工业设施与港口；总部 Vadistanbul（İstanbul Sarıyer），运营与技术中心 Desecure Plaza Denizli；444 76 49；bilgi@desecuretechnology.com）。ISAF 记录：Serdar Türker——想要工业级 8 口 PoE 交换机（30 W），英文不太好，要含当地 20% 关税的报价；无后续跟进。保安集团体量大，但技术公司自产移动安防设备 = 真实硬件采购方 → 保留 B。",
+  "need": "项目 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，每口 30 W，DC 44–57 V，−40~+75 ℃，$59.8）对应「工业 8 口 PoE 30 W」；需管理则 STI-288DGGPM（$137.5）；报价附土耳其关税/KDV 估算",
+  "breakpoint": "集团采购流程；英文沟通弱（用土耳其语）；无后续跟进",
   "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 30,
-   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-29 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-07-16 $300（48 Port PoE Managed Switch）、2025-09-23 $280（10G Enterprise SFP Switch）、2026-06-18 $16000（32 Port 400GB DC Switch）",
-   "why": "自有标商用 PoE → STC-28DGGPM（$87.4 @30%）；HRUI 低价线 STC-028GP。已打开的主题（1/14 封有打开记录）：「16 Port Industrial PoE Switch」(2026-09-14) → 读者兴趣偏「工业」；与 P1 同类，继续",
+   "p1": "STI-288GP",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）（㉕ 封顶：STI-288DGGPM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25）",
+   "why": "项目 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，每口 30 W，DC 44–57 V，−40~+75 ℃，$59.8）对应「工业 8 口 PoE 30 W」；需管理则 STI-288DGGPM（$137.5）；报价附土耳其关税/KDV 估算",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—",
-   "one_question": ""
+   "when": "待 Simon 排期（首封）",
+   "channel": "A 邮箱 → serdar.turker@desecure.com.tr（Serdar Türker）",
+   "action": "首封：按 email_hook 一问（第 74 批(r) 2026-10-25：对方英文不好、要含 20% 关税的到门价 → 土耳其语整段发；DDP 估算按其回的数量再做；价与研究档一致，15 天有效）",
+   "one_question": "Serdar Bey, güneş enerjili mobil güvenlik kuleleriniz için 8 port PoE (port başı 30 W) + 2 SFP endüstriyel switch EXW 59,8 USD; gümrük vergisi ve KDV dahil kapıya teslim tahmini fiyatı da ekleyeyim — bir kulede kaç switch kullanıyorsunuz?"
   },
   "facts": [
-   {
-    "date": "2026-09-14",
-    "dir": "去",
-    "who": "A 群发",
-    "quote": "Industrial PoE Switch、90W PoE Managed Switch",
-    "why": "14 封 / 1 次打开 / 0 回｜首封 2025-06-20 → 末封 2026-09-14（14 去 / 0 来）",
-    "k": "gmail_digest"
-   },
    {
     "date": "2026-10-21",
     "dir": "用户表",
     "who": "Simon",
-    "quote": "兴趣：extralink是他们的品牌 有点像洪瑞的",
+    "quote": "想要工业级8口POE交换机， 30w, 英文不是很好， 想要报价加上当地20%关税的价格",
     "why": "表内备注",
     "k": "用户表"
    }
   ],
-  "proof_gaps": [],
-  "draft_en": null,
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": {
+   "subject": "Türkçe 整段单发（对方不读英文；邮件/WhatsApp 复制即发，不混英文）",
+   "body": "Serdar Bey, güneş enerjili mobil güvenlik kuleleriniz için: DIN ray endüstriyel switch, 8 port gigabit PoE+ (port başı 30 W) + 2 SFP, −40/+75 °C, 59,8 USD EXW (MOQ 1, 15 gün geçerli). Gümrük vergisi ve KDV dahil kapıya teslim tahmini fiyatı da hazırlayabilirim — bir kulede kaç switch kullanıyorsunuz?\n\nSaygılarımla,\nSimon\nSaga Telecom - sagatele.com"
+  },
   "as_of": "2026-10-24"
  }
 }

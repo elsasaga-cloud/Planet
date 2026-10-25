@@ -1,74 +1,152 @@
 {
  "code": "SB-1122",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（promwad.com，快照 2026-10-21）",
- "summary": "Promwad（德国/立陶宛；嵌入式软件 / 硬件设计 / FPGA / 制造的端到端工程服务商，服务欧美 OEM；表内「MC network switch，看着比较高端一些，质量高」）；群发 17 次无回复。",
- "type": "电子工程设计服务商（非渠道）",
- "size": "",
+ "name_official": "Comtinu（俄罗斯；KP Yaroslav, yb@comtinu.ru）",
+ "researched_at": "2026-10-24",
+ "website_status": "未爬（comtinu.ru）",
+ "summary": "S/A 邮箱 2024-05 起 20 余封；两次真互动都指向高速/数据中心：2024-05-17「Do you have 48x25G + 8x100G and 32x40/100G switches?」（Simon 答「not available… coming soon… can help design」）；2025-12-03 先说没有相关项目，Alan 追问「do you sometimes use data center switches? 100G/10G」后答「Yes, we have 100-25G projects. What is your company website?」——Alan 回「still focusing on access switches… It will be CENTEC based」，没给网站、没给 CENTEC 型号与价（而 2025-01-06 已群发过 8C48XF）。此后只有 2026-03 Product Link 与 2026-08 $170 推送。",
+ "type": "俄罗斯网络项目商（25G/100G 项目）",
+ "size": "（未核）",
  "brands_seen": [],
  "evidence": [
   {
-   "kind": "官网快照",
-   "claim": "官网标题：Embedded Software, Hardware & FPGA Engineering – Promwad；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 无线 / WiFi / 光纤 / 媒体转换 / 网络交换 / PoE",
-   "quote": "Promwad is your end-to-end engineering partner for complex tech products — embedded software, hardware design, FPGA, and manufacturing. Serving OEMs and innovators in the EU and US.",
-   "url": "https://promwad.com/",
-   "date": "2026-10-21"
+   "kind": "邮件",
+   "claim": "2024 即问 48×25G+8×100G / 32×100G",
+   "quote": "Do you have 48x25G + 8x100G and 32x40/100G switches?",
+   "url": "data/gmail_a|gmail_s/messages/<year>/<month>.jsonl",
+   "date": "2024-05-17"
   },
   {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "MC network switch 看着比较高端一些",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
+   "kind": "邮件",
+   "claim": "2025-12 有 100-25G 项目，问公司网站",
+   "quote": "Yes, we have 100-25G projects What is your company website?",
+   "url": "data/gmail_a|gmail_s/messages/<year>/<month>.jsonl",
+   "date": "2025-12-03"
   },
   {
-   "kind": "官网快照",
-   "claim": "嵌入式/硬件/FPGA 工程服务商",
-   "quote": "Promwad is your end-to-end engineering partner for complex tech products — embedded software, hardware design, FPGA, and manufacturing. Serving OEMs and innovators in the EU and US.",
-   "url": "https://promwad.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "MC network switch",
-   "quote": "MC network switch 看着比较高端一些",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
+   "kind": "邮件（去）",
+   "claim": "Alan 的回答没接住",
+   "quote": "For now, we are still focusing on access switches. It will be CENTEC based=a famous Chinese chip… Please let me know if this is acceptable to you.",
+   "url": "data/gmail_a|gmail_s/messages/<year>/<month>.jsonl",
+   "date": "2025-12-03"
   }
  ],
- "kp": [],
- "grade_override": "C",
- "override_reason": "非渠道：电子工程设计服务商（Promwad），不采购成品交换机；c_sub=非渠道（工程服务）",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "kp": [
+  {
+   "name": "Yaroslav",
+   "title": "（未署职务）",
+   "email": "yb@comtinu.ru",
+   "phone": "",
+   "source": "data/gmail_a|gmail_s/messages/<year>/<month>.jsonl"
+  }
+ ],
+ "grade_override": "B",
+ "override_reason": "两次具名真互动均为 25G/100G 数据中心需求（Simon：DC 交换机客户优先）；2025-12 明说「we have 100-25G projects」后被我们一句「still focusing on access」放掉；俄罗斯为次要市场，按 B 慢慢跟进。",
+ "notes": "俄罗斯付款：T/T USD 受限，口径里的「RMB via CN agent」是可行路径——信里不展开，对方问再说。他 2024-05 问的 48×25G+8×100G 正是 STH-8C48DX-HSI（$4,800 EXW）；32×100G = STH-32C-HSI（$6,000）。",
  "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "done_at": "2026-10-24",
+  "level": "邮件证据"
  },
  "company_facts": {
-  "hq": "德国",
-  "other": "官网 promwad.com，语言 en，快照状态 ok；角色判定来源：官网文案"
+  "legal_name": "Comtinu（待核）",
+  "founded": "",
+  "hq": "俄罗斯",
+  "size": "",
+  "other": "comtinu.ru"
  },
- "business_lines": [
-  "嵌入式软硬件 / FPGA 设计服务",
-  "PCB / 制造服务"
- ],
  "channels": {
-  "role": "电子工程设计服务商（非渠道）",
-  "region": "德国",
-  "contact": "info@promwad.com"
+  "role": "项目/采购",
+  "region": "俄罗斯"
  },
- "signals": [
-  "官网：end-to-end engineering partner for complex tech products — embedded software, hardware design, FPGA, and manufacturing"
- ],
  "risks": [
-  "非渠道：工程设计服务商，无成品交换机分销/集成业务",
-  "17 次无回复"
+  "对俄付款/物流（制裁）",
+  "他问「公司网站」我们没答——sagatele.com 要给",
+  "项目时间不明"
  ],
  "saga_fit": {
-  "p1": null,
+  "p1": "STH-8C48DX-HSI（48×25G + 8×100G，$4,800 EXW）/ STH-32C-HSI（32×100G，$6,000）",
   "tier": 25,
-  "why": "工程设计服务商（为 OEM 做设计/代工），不采购成品交换机转售 → 改 C"
+  "why": "他要的型号 Saga 现在真有价；一封信把 2024 的问题和 2025 的项目接回来"
  },
- "email_hook": "（不发送：非渠道）"
+ "email_hook": "（见 mail_review.draft_en）",
+ "mail_review": {
+  "as_of": "2026-10-24",
+  "binding": {
+   "level": "轻度触达（S/A 邮箱 20+ 去 3 来：2024-05-17 问 48×25G+8×100G / 32×100G；2025-12-03「we have 100-25G projects」+ 问网站——两次都没被接住；Elsa 箱：`to:comtinu.ru` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 20 / 来 3）（第 74 批(l)））",
+   "type": "DC 项目商",
+   "sieve": "3（型号层面，无数量）",
+   "stop": "2025-12-03 Alan 答「still focusing on access switches」——把一个主动说有 25G/100G 项目的人放掉了；网站也没答",
+   "revive": "一封对表信：网站 + 他 2024 问的两款的现价；问项目时间与台数",
+   "lane": "俄罗斯（次要市场）；DC 客户优先",
+   "cadence": "先一封，看回信",
+   "evidence": "gmail_s 2024-05-17 ×3；gmail_a 2025-12-03 ×5、2026-03-12、2026-08-10；digest in 3"
+  },
+  "situation": "Yaroslav 2024-05 直接问 48×25G+8×100G 和 32×100G，当时没有；2025-12 说手上有 100/25G 项目并问公司网站，Alan 回「还在专注接入交换机、将来 CENTEC」——既没给网站也没给已有的 CENTEC 型号。至今 10 个月只收到群发。",
+  "need": "25G/100G 数据中心/核心交换（48×25G+8×100G；32×100G）。",
+  "breakpoint": "2025-12-03 我们的回答自己把门关了；他要的东西其实 2025-01 就已在群发里（8C48XF）。",
+  "saga_now": {
+   "p1": "STH-8C48DX-HSI（48×25G + 8×100G）；STH-32C-HSI（32×100G）",
+   "tier": 25,
+   "price": "2026 Q2：8C48DX $4,800 / 32C $6,000 / 2C6QX $1,200 EXW",
+   "why": "需求台账 #13：他是仓内最早（2024-05）明确要 48×25G+8×100G 的人；对俄付款问题在他回信后再谈（RMB via CN agent）｜已发资料（勿重发）：8C48XF.png(2025-01-06)、Product Link_2026Q2(2026-03-12)｜档位说明（原 tier 字段文字「集成商/项目 25%；CENTEC 底线 ≥35% 并行」移此）：集成商/项目 25%；CENTEC 底线 ≥35% 并行",
+   "repeat": "项目制；DC 客户单价高",
+   "gaps": "项目时间/台数；付款路径；公司规模"
+  },
+  "next_move": {
+   "when": "2026-11",
+   "channel": "A 邮箱 → yb@comtinu.ru（回 2025-12-03 原线程「Booster PoE Switch」或新主题「48x25G + 8x100G — the two models you asked for in 2024」）",
+   "action": "一封对表信：①网站 sagatele.com（他问过没答）；②他 2024-05-17 问的两款现在的型号与 EXW 价；③只问一个问题：100/25G 项目的时间与台数（第 76 批(b) 2026-10-25：audit_ab 硬错误修正：tier 字段规范为数字）",
+   "one_question": "Yaroslav — in May 2024 you asked for 48x25G + 8x100G and 32x100G; both exist now on our CENTEC-based line (STH-8C48DX-HSI $4,800, STH-32C-HSI $6,000 USD EXW, 2026 Q2 list). When is the 100/25G project you mentioned in December due, and how many units?"
+  },
+  "facts": [
+   {
+    "date": "2024-05-17",
+    "dir": "来",
+    "who": "Yaroslav",
+    "quote": "Do you have 48x25G + 8x100G and 32x40/100G switches?",
+    "why": "精确到端口的 DC 需求",
+    "k": "rfq"
+   },
+   {
+    "date": "2024-05-17",
+    "dir": "去",
+    "who": "Simon",
+    "quote": "Sorry, it is not available at the moment. We have below ones coming soon. We can help design it for you if it is OK for you.",
+    "why": "当时无货",
+    "k": "reply"
+   },
+   {
+    "date": "2025-12-03",
+    "dir": "来",
+    "who": "Yaroslav",
+    "quote": "We are not having appropriate projects so far that will include such switches.（对 Booster PoE 推送）",
+    "why": "接入产品不对他",
+    "k": "neg"
+   },
+   {
+    "date": "2025-12-03",
+    "dir": "来",
+    "who": "Yaroslav",
+    "quote": "Yes, we have 100-25G projects What is your company website?",
+    "why": "DC 项目在手 + 要网站",
+    "k": "need"
+   },
+   {
+    "date": "2025-12-03",
+    "dir": "去",
+    "who": "Alan",
+    "quote": "For now, we are still focusing on access switches. It will be CENTEC based=a famous Chinese chip… Please let me know if this is acceptable to you.",
+    "why": "断点：没给网站、没给型号价",
+    "k": "reply"
+   }
+  ],
+  "proof_gaps": [
+   "公司实体/规模（comtinu.ru 未爬）",
+   "项目时间与台数",
+   "付款路径"
+  ],
+  "draft_en": {
+   "subject": "48x25G + 8x100G and 32x100G — the two models you asked for in 2024",
+   "body": "Hi, Yaroslav,\n\nTwo things I owe you from our December exchange.\n\nOur website: https://sagatele.com/\n\nAnd the two switches you asked about in May 2024 both exist now on our CENTEC-based line:\n- STH-8C48DX-HSI: 48 x 25G SFP28 + 8 x 100G QSFP28, L3 with VXLAN-EVPN, MPLS, MLAG, hot-swap PSUs — $4,800 USD EXW\n- STH-32C-HSI: 32 x 100G QSFP28 — $6,000 USD EXW\n(2026 Q2 list, valid 15 days from this mail; your logo and model name possible.)\n\nOne question: when is the 100/25G project you mentioned in December due, and roughly how many units? With that I can confirm lead time and the payment route that works for you.\n\nThank you.\nAlan\nSaga Telecom - sagatele.com"
+  }
+ }
 }

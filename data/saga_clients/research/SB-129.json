@@ -1,149 +1,144 @@
 {
  "code": "SB-129",
- "name_official": "EURODIGITAL UAB（e-shop ExtraDigital.eu，Kaunas, Lithuania）",
+ "name_official": "Addon Technology Ltd（Co. 04256748，London N11；addon-tech.com；自有品牌 ADDON）",
  "researched_at": "2026-10-21",
  "website_status": "在线",
- "summary": "立陶宛考纳斯的泛欧电子/安防电商与分销商（EURODIGITAL UAB，公司代码 300638881，VAT LT100002890717；经营 15 年以上）：智能电子、安防与视频监控、光伏设备、EV 充电桩；自称「欧洲最佳 Dahua CCTV 分销商 / 欧洲最大仓库 / 当日发货全欧」。用户表：区域登记为「欧洲（国别未填）」→ 实为立陶宛；1 次实质回复，11 次跟进。",
+ "summary": "伦敦北部的自有品牌网络产品商（2001-07 注册；ADDON 品牌 ADSL 路由器、WiFi 扩展器、有线网络、无线网卡、硬盘盒、Travelmate 配件；通过分销商、系统组装商、VAR 与电商覆盖欧洲；ZoomInfo 营收 <$5M；自称「UK Manufacturer」实为贴牌）。典型 SOHO 级 OEM 买家，可补 PoE 交换机 SKU。用户表：17 次跟进 0 回复。",
  "type": "",
  "size": "",
  "brands_seen": [
-  "Dahua"
+  "ADDON（自有品牌）"
  ],
  "evidence": [
   {
    "kind": "官网",
-   "claim": "业务范围与年限",
-   "quote": "We are one of the largest suppliers of smart electronics, security, video surveillance systems, solar PV eqipement and EV charging stations in Europe, successfully operating more then 15 years.",
-   "url": "https://www.extradigital.eu/about-us",
+   "claim": "品牌与产品线",
+   "quote": "Since 2001 ADDON has been providing our loyal customers a personal service with quality products at market-leading prices … UK Manufacturer of Networking and Accessories. - Networking - ADSL & Routers - Wifi Range Extenders - Wired Networking - Wireless Adapters",
+   "url": "https://www.addon-tech.com/",
    "date": "2026-10-21"
   },
   {
    "kind": "官网",
-   "claim": "法人、公司代码、VAT",
-   "quote": "Seller – … registered private legal entity EURODIGITAL UAB. Company code 300638881, VAT payer code LT100002890717, registered office address Žemaičių str. 31, LT-44175, Kaunas",
-   "url": "https://www.extradigital.eu/purchasing-rules",
+   "claim": "渠道",
+   "quote": "Addon Technology Ltd., founded in the year 2001, has been providing high quality networking products to customers across Europe through distributors, system builders, VARS and e-traders.",
+   "url": "https://addon-tech.com/browse/information/about-us/",
    "date": "2026-10-21"
   },
   {
-   "kind": "官网",
-   "claim": "办公地址与电话",
-   "quote": "EURODIGITAL, UAB Savanoriu ave. 235 Kaunas 50184 Lithuania … Call us: +370-671-30065",
-   "url": "https://www.extradigital.eu/contacts",
+   "kind": "登记",
+   "claim": "法人登记",
+   "quote": "ADDON TECHNOLOGY LTD … Ground Floor Building 3 Oakleigh Road South, North London Business Centre, London, England, N11 1GN … Incorporated on: 23 July 2001",
+   "url": "https://find-and-update.company-information.service.gov.uk/company/04256748",
    "date": "2026-10-21"
   },
   {
-   "kind": "官网",
-   "claim": "Dahua 分销定位",
-   "quote": "Best DAHUA CCTV distributor in Europe. IP CVI cameras. NVR HCVR best cheap price. Largest warehouse in Europe. Fastest shipping same day. UAB EURODIGITAL. Ship across Europe.",
-   "url": "https://www.extradigital.eu/news",
+   "kind": "名录",
+   "claim": "营收规模",
+   "quote": "Addon Technology … Revenue <$5 Million … Industry Manufacturing, Telecommunication Equipment",
+   "url": "https://www.zoominfo.com/c/addon-technology-ltd/354088490",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "1 次实质回复；11 次跟进；国别未填",
+   "claim": "17 次跟进 0 回复",
    "quote": "（用户表字段）",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
- "kp": [
-  {
-   "name": "Austėja（EURODIGITAL）",
-   "role": "来信署名人（职务未在邮件署名里出现）",
-   "email": "info@extradigital.eu",
-   "phone": "",
-   "source": "S/A 邮箱来信 2024-08-13 来信 3 封（第 72 批从邮件表头补）"
-  }
- ],
+ "kp": [],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网核对 · 国别补齐）"
+  "level": "B 级加厚 v1（官网 + Companies House 核对）"
  },
  "company_facts": {
-  "legal_name": "EURODIGITAL, UAB",
-  "registry": "公司代码 300638881 · VAT LT100002890717（注册地址 Žemaičių g. 31, LT-44175 Kaunas）",
-  "hq": "Savanorių pr. 235, Kaunas 50184, Lithuania（+370 671 30065）",
-  "other": "品类：智能电子、安防/CCTV（Dahua 为主）、光伏、EV 充电；B2C+B2B 跨欧发货"
+  "legal_name": "Addon Technology Ltd（Companies House 04256748，2001-07-23；SIC 62090）",
+  "hq": "Ground Floor, Building 3, North London Business Park, Oakleigh Road South, London N11 1GN（+44 844 801 1286）",
+  "size": "<$5M（ZoomInfo）；小型",
+  "other": "渠道：distributors / system builders / VARs / e-traders across Europe"
  },
  "business_lines": [
-  "泛欧电商（电子、安防、光伏、EV 充电）",
-  "Dahua CCTV 分销"
+  "ADDON 品牌 SOHO 网络产品（路由器、WiFi 扩展器、网卡、有线网络）",
+  "电脑配件与 Travelmate 移动配件"
  ],
  "channels": {
-  "网店": "https://www.extradigital.eu/",
-  "电话": "+370 671 30065（官网公开）"
+  "网站": "https://www.addon-tech.com/",
+  "电话": "+44 844 801 1286（官网公开）"
  },
  "signals": [
-  "Dahua 分销 + 全欧电商 → PoE 交换机为 CCTV 配套常规品类，可上架 Saga 8/16/24 口作自有价位带"
+  "自有品牌 + 欧洲分销网络 → 贴 ADDON 标的 5/8 口千兆与 PoE 桌面交换机可直接进其目录"
  ],
  "risks": [
-  "立陶宛为非主动挖掘国家（INH），仅跟现有线索；电商比价激烈，需以 20% 档"
+  "SOHO 价位极低（Realtek 线更合适）；17 次推送 0 回复"
  ],
  "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 20,
-  "why": "电商/分销 20% 档：STC-28DGGPM（8 PoE+ + 2 SFP 管理）配 Dahua 套装；16 口 STI-21616GP；24 口 STC-424DGGPM-280W"
+  "p1": "STC-028GP",
+  "tier": 30,
+  "why": "OEM 30% 档：STC-028GP（Saga Realtek 线，2 GE 上联 + 8 GE PoE 非管理 120W，列表 $24.2）与 STC-08GE（$10.5）贴 ADDON 标；管理型 STC-28DGGPM 作高端 SKU"
  },
- "email_hook": "For the Dahua kits you ship across Europe, an 8-port PoE+ managed switch with 2 SFP uplinks at $80.7 EXW gives you a house-brand price band under the Dahua PFS range; shall I send carton quantities?",
+ "email_hook": "For the ADDON wired-networking range, an 8-port gigabit PoE desktop switch (120 W, your label and box) is $27.2 EXW and the plain 8-port gigabit at $10.5; which carton size do your e-traders prefer?",
  "mail_review": {
   "binding": {
-   "level": "轻度触达→明确拒（2024-08-13 Austėja 三封：「If your products made in China we are not interested」「nobody anymore want a China products for security due to regulations」「We have our brand which Chinese making, but we looking for… new from Europe」；Elsa 箱：`to:extradigital.eu` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 24 / 来 3）（第 74 批(n)））",
-   "type": "立陶宛安防电商（Eurodigital / ExtraDigital；卖 Dahua/Hikvision）",
-   "sieve": "1",
-   "stop": "欧盟安防「去中国化」市场信号——值得记入概念层",
-   "revive": "不动",
-   "lane": "LT",
-   "cadence": "不动",
-   "evidence": "k=6b922fcb12a900af / 94cc7dd92c05aaa7 / 51990c10603c5511"
+   "level": "未触达（A/S 邮箱 27 封 2024→2026，1 次记录打开，0 回；收件 purchase@addon-tech.com；主题多为「Industrial PoE Switch、10G Enterprise SFP Switch」；Elsa 箱：`to:addon-tech.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 27 / 来 0）（第 74 批(j)））",
+   "type": "—",
+   "sieve": "1~2（1 次打开）",
+   "stop": "27 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+   "lane": "UK 主攻（四主）",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 27，Opened 标签 1（Simon 群发追踪）；用户表：「（用户表字段）」；研究档 risks：SOHO 价位极低（Realtek 线更合适）；17 次推送 0 回复"
   },
-  "situation": "明确的拒绝，也是明确的市场信号：波罗的海安防渠道对中国产品的监管顾虑。",
-  "need": "—",
-  "breakpoint": "原产地。",
+  "situation": "伦敦北部的自有品牌网络产品商（2001-07 注册；ADDON 品牌 ADSL 路由器、WiFi 扩展器、有线网络、无线网卡、硬盘盒、Travelmate 配件；通过分销商、系统组装商、VAR 与电商覆盖欧洲；ZoomInfo 营收 <$5M；自称「UK Manufacturer」实为贴牌）。典型 SOHO 级 OEM 买家，可补 PoE 交换机 SKU。用户表：17 次跟进 0 回复。",
+  "need": "OEM 30% 档：STC-028GP（Saga Realtek 线，2 GE 上联 + 8 GE PoE 非管理 120W，列表 $24.2）与 STC-08GE（$10.5）贴 ADDON 标；管理型 STC-28DGGPM 作高端 SKU",
+  "breakpoint": "SOHO 价位极低（Realtek 线更合适）；17 次推送 0 回复",
   "saga_now": {
-   "p1": "—",
-   "tier": 20,
-   "price": "—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-06-17 $65（10G media converter）、2024-08-09 $220（48 port managed switch）；群发里他已看到的价（续）：2026-09-01 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-03 $280（10G Enterprise SFP Switch）",
-   "why": "已打开的主题（2/24 封有打开记录）：「Passive PoE Switch」(2024-08-13)、「Re: Passive PoE Switch」(2024-08-13) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
+   "p1": "STC-028GP",
+   "tier": 30,
+   "price": "STC-028GP $27.2（洪瑞 2026-09-30 进价 140 CNY +30%，Q-47；Drive 旧表 $24.2 不用；第 73 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-08 $65（10G Media Converter）、2024-12-05 $300（48 Port PoE Managed Switch）、2025-01-31 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-08-19 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-30 $280（10G Enterprise SFP Switch）",
+   "why": "OEM 30% 档：STC-028GP（Saga Realtek 线，2 GE 上联 + 8 GE PoE 非管理 120W，列表 $24.2）与 STC-08GE（$10.5）贴 ADDON 标；管理型 STC-28DGGPM 作高端 SKU。已打开的主题（1/27 封有打开记录）：「Web managed switch」(2024-09-03) → 读者兴趣主题类别不明（看原主题）",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—",
-   "one_question": ""
+   "when": "2027-Q1（换人后）",
+   "channel": "A 邮箱 → 具名 KP",
+   "action": "换收件人再发一封（第 75 批(x) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用）；STC-204GP/028GP/2216GPM/08GE 为 HRUI，不写 Marvell）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
+   "one_question": "For the ADDON wired-networking range, an 8-port gigabit PoE desktop switch (120 W, your label and box) is $27.2 EXW and the plain 8-port gigabit at $10.5; which carton size do your e-traders prefer?"
   },
   "facts": [
    {
-    "date": "2024-08-13",
-    "dir": "来",
-    "who": "Austėja Matulaitytė",
-    "quote": "in Lithuania and Europe nobody anymore want a China products for security due to regulations",
-    "why": "市场信号",
-    "k": "94cc7dd92c05aaa7"
+    "date": "2026-08-19",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Industrial PoE Switch、10G Enterprise SFP Switch",
+    "why": "27 封 / 1 次打开 / 0 回｜首封 2024-07-11 → 末封 2026-08-19（27 去 / 0 来）",
+    "k": "gmail_digest"
    },
    {
-    "date": "2024-08-13",
-    "dir": "去",
-    "who": "Saga（Simon）",
-    "quote": "Hi, Austeja, Thanks for your information. I understand your concerns, it seems that you do not do OEM, right? Many European companies are importing from China, but they will ask for Chinese suppliers to do some customization(change the logo, model name etc.). This is popular now. We can also do this…",
-    "why": "Saga 实质答复原文（主题「Re: Passive PoE Switch」；第 20 批从 gmail_s 回补）——承诺/口径以此为准",
-    "k": "e8fb7d7801aaff8c"
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "（用户表字段）",
+    "why": "表内备注",
+    "k": "用户表"
    },
    {
-    "date": "2024-12-12",
+    "date": "2026-08-19",
     "dir": "去",
-    "who": "Saga（Simon）",
-    "quote": "Hi, Austėja, How are you? Previously we had a discussion on brand and import issues. Fact 1: you now prefer a supplier from EU countries. Fact 2: you now have a Chinese partner for OEM manufacturing. This email is about, If possible to try our models if we have a strategic partner in Turkey? This pa…",
-    "why": "Saga 实质答复原文（主题「Re: Passive PoE Switch」；第 20 批从 gmail_s 回补）——承诺/口径以此为准",
-    "k": "ed973dfae5902353"
+    "who": "A 箱（Alan）",
+    "quote": "24 Port PoE Managed Switch",
+    "why": "本日去信真实主题（邮箱索引 f6ba377572887e78；信稿开头句引用此封；此前稿内写的「Industrial PoE Switch」是线程列表首题，不是本封）",
+    "k": "f6ba377572887e78"
    }
   ],
   "proof_gaps": [],
-  "draft_en": null,
+  "draft_en": {
+   "subject": "Two PoE / non-PoE 8-port SKUs for the ADDON wired range - your label and box",
+   "body": "Hello ADDON team,\n\nOver the past months you had a few product mails from us - most recently \"24 Port PoE Managed Switch\" on 19 August 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the ADDON wired-networking range, two desktop SKUs in your label and box from small lots, CE/RoHS/UKCA: 8 x Gigabit PoE+ + 2 x Gigabit uplinks, unmanaged, 120 W - model STC-028GP - $27.2 USD EXW (MOQ 1, 15-day validity); plain 8 x Gigabit desktop - STC-08GE - $10.5. If you want a managed SKU at the top of the range, 8 x PoE+ + 2 x SFP L2+ on a Marvell platform - STC-28DGGPM - $87.4. Logo on the unit is free; colour box from 200 sets.\n\nOne question: which carton size do your e-trader customers prefer - single retail box, or 10-pack brown carton?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+  },
   "as_of": "2026-10-24"
  }
 }

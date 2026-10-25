@@ -1,0 +1,59 @@
+{
+ "code": "SC-219",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "快照失败（timeout）",
+ "summary": "美国 Molex（跨国连接器巨头（Koch 旗下），自有品牌工业网络产品；表内「工业 5/8 电口 一些光派（Fiberplex？）产品」「大公司 / 自己的品牌」；KP Fred Bell）；群发 18 次无回复。",
+ "type": "跨国巨头（Molex）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "工业5 8电口 一些光派产品",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "大公司 自己的品牌",
+   "quote": "工业5 8电口 一些光派产品；Fred Bell 大公司 / 自己的品牌",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "巨头（Molex）；c_sub=体量过大",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "美国",
+  "other": "官网 molex.com，语言 ?，快照状态 timeout；角色判定来源：待核"
+ },
+ "business_lines": [
+  "连接器 / 工业网络（跨国巨头）"
+ ],
+ "channels": {
+  "role": "跨国巨头（Molex）",
+  "region": "美国",
+  "contact": "fred.bell@molex.com"
+ },
+ "signals": [
+  "表内：工业 5 8 电口 一些光派产品；Fred Bell 大公司 / 自己的品牌",
+  "快照：timeout"
+ ],
+ "risks": [
+  "体量：跨国巨头（Koch 旗下）；自有品牌；18 次无回复"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 30,
+  "why": "跨国巨头、自有品牌与供应链体系 → 改 C"
+ },
+ "email_hook": "（不发送：巨头）"
+}

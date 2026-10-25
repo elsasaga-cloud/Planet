@@ -1,229 +1,298 @@
 {
- "code": "SA-050",
- "name_official": "BlueWARRIOR（bluewarrior.com, USA）",
- "website_status": "在线（产品页 2026-01 更新）",
- "summary": "美国自有品牌工业以太网供应商：BW 系列机架/DIN 网管与非网管工业交换机、工业 bypass 交换机、工业 MC，官网明码标价（BW2026 26 口 $308、BW3020G $662、BW7212G $500），宣称 UL Class 1 Div 2、Tesla 工厂案例；用户表判断「几乎全线武汉迈威」贴牌。用户表：A 优质名单(US)，1 次回复，18 次跟进；AI 评 40% A。",
- "type": "品牌商（白牌贴牌，OEM 目标）",
- "size": "未见人数（小型品牌）",
- "brands_seen": [
-  "BlueWARRIOR",
-  "武汉迈威(Maiwe)"
- ],
- "evidence": [
-  {
-   "kind": "官网",
-   "claim": "自有品牌产品线与零售价",
-   "quote": "BW2026 Series $308.00 - 26 Port - Layer 2 Certified for Industrial Control Systems - 19″ Rack Mount Un-Managed … BW3020G-4GF-16GT-AD220 $662.00 … BW7212G-4GF-8GT $500.38 … Industrial By-Pass Ethernet Switches · Industrial Media Converters",
-   "url": "https://bluewarrior.com/products/layer-2-rack-un-managed-ethernet-switches/bw2026-series/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "宣称 UL C1D2 与 Tesla 案例（我方只报 CE/FCC，不承诺 UL）",
-   "quote": "Our products are UL Class 1 Division 2 (HazLoc) Hazardous Location. American Certified Ethernet. The BlueWARRIOR IP Switch was chosen for its rugged construction",
-   "url": "https://bluewarrior.com/solutions/factory-automation/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "BW7212G-4GF-8GT 规格与价格；描述残留 MISCOM7212G（迈威）",
-   "quote": "BW7212G-4GF-8GT $500.38 … 10 Port Layer 2 Industrial Ethernet (Din-Rail Managed) … Supports (8 x 10/100/1000M RJ-45 + 4 Gigabit SFP Ports) … MISCOM7212G supports 4 Gigabit Fx ports + 8 Gigabit Tx ports",
-   "url": "https://bluewarrior.com/products/layer-2-din-rail-managed-ethernet-switches/bw7212g-4gf-8gt/",
-   "date": "2026-01-16"
-  },
-  {
-   "kind": "官网",
-   "claim": "工业 PoE 类目：BW7212GP-4GT-8GTPOE $987.80",
-   "quote": "Surge Protected with Relay Contact / (Ground / Bonding) ( DC 48-52 Volts). $987.80 View Product - BW7212GP-4GT-8GTPOE - 24 Port - (Layer 2 Managed) - Temperature Hardened",
-   "url": "https://bluewarrior.com/product-category/industrial-poe-switches/",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Thomas West",
-   "role": "联系人（用户表）",
-   "email": "sales@bluewarrior.com",
-   "phone": "",
-   "source": "Clients/A/DONE/US.xlsx"
-  }
- ],
- "notes": "A 确认（美国自有品牌 + 全线中国白牌 + 已回复）：对位 BW7212G-4GF-8GT ≈ STI-488DGGM 类（8GE+4SFP 工业网管），30% OEM 档；切入点 = 迈威替代/补充 SKU + Marvell 方案 + 10–15 天交期；不承诺 UL/C1D2。",
- "researched_at": "2026-10-21",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "深挖 v2（官网产品目录逐型号核对）"
- },
- "company_facts": {
-  "legal_name": "BlueWARRIOR（bluewarrior.com）",
-  "hq": "USA",
-  "other": "官网 WooCommerce 目录明码标价（2026-01 更新）；BW7212G 产品描述内残留「MISCOM7212G」字样 → 证实为武汉迈威 MISCOM 系列贴牌"
- },
- "business_lines": [
-  "工业交换机（DIN/机架、L2/L3、PoE）",
-  "工业 bypass 交换机",
-  "工业 MC"
- ],
- "products_seen": [
-  {
-   "brand": "BlueWARRIOR",
-   "model": "BW2026（26 口机架）",
-   "spec": "官网标价 $308",
-   "url": "https://bluewarrior.com/",
-   "date": "2026-10（首轮调研）",
-   "saga": "STC-424DGGPM-280W（PoE 版）"
-  },
-  {
-   "brand": "BlueWARRIOR",
-   "model": "BW3020G",
-   "spec": "官网标价 $662",
-   "url": "https://bluewarrior.com/",
-   "date": "2026-10（首轮调研）",
-   "saga": "STC-424XGGPM-280W（待核口型）"
-  },
-  {
-   "brand": "BlueWARRIOR",
-   "model": "BW7212G",
-   "spec": "官网标价 $500",
-   "url": "https://bluewarrior.com/",
-   "date": "2026-10（首轮调研）",
-   "saga": "STI-288DGGPM（待核口型）"
-  },
-  {
-   "brand": "BlueWARRIOR",
-   "model": "BW7212G-4GF-8GT",
-   "spec": "DIN L2 管理 8×GE + 4 SFP，-45~85℃，IP40，双输入 12–48VDC，继电器；$500.38",
-   "url": "https://bluewarrior.com/products/layer-2-din-rail-managed-ethernet-switches/bw7212g-4gf-8gt/",
-   "date": "2026-01-16",
-   "saga": "STI-288DGGPM（非 PoE 版需核）"
-  },
-  {
-   "brand": "BlueWARRIOR",
-   "model": "BW7212GP-4GT-8GTPOE",
-   "spec": "DIN L2 管理工业 PoE，48–52VDC；$987.80",
-   "url": "https://bluewarrior.com/product-category/industrial-poe-switches/",
-   "date": "2026-10-21",
-   "saga": "STI-288DGGPM"
-  },
-  {
-   "brand": "BlueWARRIOR",
-   "model": "BW6220 Series",
-   "spec": "DIN L2 管理 18–20 口；$520.08–585.09",
-   "url": "https://bluewarrior.com/products/layer-2-din-rail-managed-ethernet-switches/bw6220-series/",
-   "date": "2026-01-16",
-   "saga": "STI-21616GP（PoE 位）"
-  },
-  {
-   "brand": "BlueWARRIOR",
-   "model": "BW5205 Series",
-   "spec": "DIN 7 口（2F+3T / 1F+4T，另有 2×10G SFP+4 SFP+8 GE 配置 $589.03）；$327.60–522.60",
-   "url": "https://bluewarrior.com/products/layer-2-din-rail-managed-ethernet-switches/bw5205-series/",
-   "date": "2026-10-21",
-   "saga": "STI-144GP"
-  },
-  {
-   "brand": "BlueWARRIOR",
-   "model": "BW2208 Series / BW2220 Series",
-   "spec": "DIN 非管理 8 口 $75.62–278.60 / 20 口 $469.64",
-   "url": "https://bluewarrior.com/products/layer-2-din-rail-un-managed-ethernet-switches/bw2208-series/",
-   "date": "2026-10-21",
-   "saga": "STI-144GP（PoE 升级位）"
-  },
-  {
-   "brand": "BlueWARRIOR",
-   "model": "BW2026 / BW3020G-4GF-16GT-AD220 / BW3024",
-   "spec": "机架非管理 26 口 $308 / 20 口（4 SFP+16 GE，AC）$662 / 24 口",
-   "url": "https://bluewarrior.com/product-category/layer-2-rack-un-managed-ethernet-switches/",
-   "date": "2026-10-21",
-   "saga": "STC-424DGGPM-280W（PoE 管理升级位）"
-  }
- ],
- "channels": {
-  "网站": "https://bluewarrior.com/（明码标价）",
-  "直邮": "sales@bluewarrior.com（用户表）"
- },
- "signals": [
-  "用户表：几乎全线迈威贴牌——已有成熟中国 ODM 来源；对 Saga 是「第二来源 + Marvell 平台」机会",
-  "产品页更新至 2026-01-16——目录活跃；DIN 管理型 8+4 定价 $500 → Saga STI-288DGGPM EXW ≈ $152 @30%，价差空间大"
- ],
- "risks": [
-  "UL Class 1 Div 2 宣称：Saga 无 UL，不能承接要求 UL 的型号",
-  "迈威为 Saga 同行，价格战风险"
- ],
- "saga_fit": {
-  "p1": "STI-288DGGPM",
-  "tier": 30,
-  "why": "DIN 8 PoE + 2 SFP 管理型是迈威线中最走量位，Saga STI-288DGGPM 可做 BW 贴牌二供；机架位 STC-424DGGPM-280W；30% 档"
- },
- "email_hook": "For the DIN-rail 8-port PoE managed slot in the BW range, a Marvell-based second source in BlueWARRIOR packing with CE/FCC files is the unit I can quote today, and the 24-port rack PoE version follows the same logic.",
- "mail_review": {
-  "binding": {
-   "level": "未绑定（一次询价：2024-05-28 要价 → Simon 140 USD STI-288DGGPM-2BT → 无回音；Elsa 箱：`to:bluewarrior.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 29 / 来 3）（第 74 批(g)））",
-   "type": "美国自有品牌工业以太网（BW 系列，官网明码标价；用户表判「几乎全线武汉迈威贴牌」）——第一档类型；**sales@bluewarrior.com 的自动回复 = Tom West / Thom Sherer / DYMEC 电话 → 与 SA-068 DYMEC 同一组织**",
-   "sieve": "2",
-   "stop": "2024-05-28 两句「Picture and description do not match」「What is the price?」→ Simon 140 USD → 无下文；白牌来源已固定（迈威），资料不严谨被一眼看出",
-   "revive": "与 DYMEC 合并处理：只发工业温度款 + 规格书图文一致",
-   "lane": "US",
-   "cadence": "2024-05 → 2026-09 去信 29 封；最后人工来信 2024-05-28",
-   "evidence": "k=b9f498bd4277c351 / 9a4567efd0384ac8 / 9a5fb90a606c4680 / 84ff2d24a5322ed7"
-  },
-  "situation": "BlueWarrior 2024-05-28 回了两句话：图文不符、多少钱。Simon 报 STI-288DGGPM-2BT 140 USD（2 SFP + 8 PoE，L2+，240W，DI/DO/RS485），没有下文。2025-03 sales@bluewarrior.com 的自动回复署名 Tom West、转 Thom Sherer（DYMEC）——两家是同一组织，29 封群发等于对 DYMEC 重复发。",
-  "need": "同 DYMEC：工业温度 L2+/L3 DIN/机架（其零售价 BW7212G $500、BW3020G $662）。",
-  "breakpoint": "重复触达同一组织两套邮箱，且第一封资料图文不符——信任成本已付。",
-  "saga_now": {
-   "p1": "并入 SA-068 的那一封（STI-480XGGM $163.2 @30%）",
-   "tier": 30,
-   "price": "同 SA-068；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-14 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-20 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-07 $280（10G Enterprise SFP Switch）",
-   "why": "去重。已打开的主题（4/29 封有打开记录）：「Industrial poe managed switch」(2024-05-28)、「Re: Industrial poe managed switch」(2024-05-28)、「Re: Industrial poe managed switch」(2024-07-01)、「10G L3 Managed Switch」(2026-05-29) → 读者兴趣偏「工业」；与 P1 同类，继续",
-   "repeat": [],
-   "gaps": [
-    "BW7212G-4GF-8GT 对位的 Saga 型号与现价（2024 报 140 USD 的 STI-288DGGPM-2BT）"
-   ]
-  },
-  "next_move": {
-   "when": "不单独发；随 SA-068",
-   "channel": "—",
-   "action": "群发名单里 bluewarrior 与 dymec 合并为一户",
-   "one_question": ""
-  },
-  "facts": [
-   {
-    "date": "2024-05-28",
-    "dir": "来",
-    "who": "sales@bluewarrior.com",
-    "quote": "Picture and description do not match",
-    "why": "资料问题",
-    "k": "b9f498bd4277c351"
-   },
-   {
-    "date": "2024-05-28",
-    "dir": "来",
-    "who": "sales@bluewarrior.com",
-    "quote": "What is the price?",
-    "why": "询价",
-    "k": "9a4567efd0384ac8"
-   },
-   {
-    "date": "2024-05-28",
-    "dir": "去",
-    "who": "Simon",
-    "quote": "140usd/pc STI-288DGGPM-2BT 2*100M/1G/2.5G SFP+8*10/100/1000M PoE Marvell Chip, L2+ Managed… Din Rail, Redundant DC44V~57V",
-    "why": "报价",
-    "k": "9a5fb90a606c4680"
-   },
-   {
-    "date": "2025-03-19",
-    "dir": "来",
-    "who": "sales@bluewarrior.com（自动回复）",
-    "quote": "Tom West Out of Office… Thom Sherer can be contacted at (713) 826-0739… Email: thom.sherer@dymec.com",
-    "why": "与 DYMEC 同组织的证据",
-    "k": "84ff2d24a5322ed7"
-   }
+  "code": "SA-050",
+  "name_official": "Impakt S.A.（Mosina，波兰；自有品牌 Genesis / Lanberg / Natec / Fury / Armac / Audictus）",
+  "website_status": "在线",
+  "summary": "波兰 IT 硬件'制造商+分销商'，自有品牌组合含网络品牌 Lanberg；>150 员工，2025 年营收 1.52 亿 PLN（约 3,500 万欧元），3,500+ 自有品牌 SKU，销往 40+ 国；联系人为 Product Dev Manager，曾就'一个定制品'回复。",
+  "type": "品牌商（自有品牌 OEM 采购）+ 分销商",
+  "size": "中型（>150 人，营收 ≈1.52 亿 PLN/2025）",
+  "brands_seen": [
+    "Genesis",
+    "Lanberg",
+    "Natec",
+    "Fury",
+    "Armac",
+    "Audictus"
   ],
-  "proof_gaps": [
-   "两家的法律关系未在官网交叉印证"
+  "evidence": [
+    {
+      "kind": "官网",
+      "claim": ">150 员工、>3,500 自有品牌 SKU、7,395 m² 仓储、40+ 国销售",
+      "quote": ">150 employees… >3500 brand product indexes… 7395 m^2 storage space… We sell in more than 40 countries around the world!",
+      "url": "https://en.impakt.com.pl/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "企业登记",
+      "claim": "2025 年营收 1.52 亿 PLN，净利 860 万 PLN",
+      "quote": "Organizacja Impakt osiągnęła 152 188 554 zł przychodów… Zysk netto wyniósł 8 624 996 zł",
+      "url": "https://www.bizraport.pl/krs/0000585900/impakt-spolka-akcyjna",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "LinkedIn",
+      "claim": "品牌组合含 Lanberg（网络/布线品牌），51–200 人，1997 年创立",
+      "quote": "w naszym portfolio znajdują się takie marki jak: Genesis, Lanberg, Natec, Fury, Armac oraz Audictus… Wielkość firmy: 51-200 pracowników",
+      "url": "https://pl.linkedin.com/company/impakt-s-a",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网",
+      "claim": "Lanberg RSGE-24P-2GE-2S-250 规格",
+      "quote": "RSGE-24P-2GE-2S-250 … 28 portów, w tym 24 porty PoE+ (Gigabit Ethernet), 2 Uplink (Gigabit Ethernet) oraz 2 Uplink (SFP Gigabit) … REALNY BUDŻET POE: 250 W",
+      "url": "https://lanberg.pl/produkt/RSGE-24P-2GE-2S-250",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网",
+      "claim": "RSGE-24P-2GE-2S-360 规格与 EAN/保修",
+      "quote": "Manufacturer code: RSGE-24P-2GE-2S-360 EAN: 5901969438697 Warranty: 24m Number of Ethernet ports: 26 Number of fiber ports: 2 Number of POE ports: 24 … Total budget for PoE 360 W … Bandwith 56 Gbps",
+      "url": "https://pl.lanberg.eu/produkt/switch-lanberg-rsge-24p-2ge-2s-360-24x-1gb-poe-2x-gb-2x-sfp-rack-19-gigabit-ethernet-360w",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "零售",
+      "claim": "制造商/进口商信息公开（Impakt S.A. 地址与 product@ 邮箱）",
+      "quote": "LANBERG Impakt S.A. Stanisława Lema 16 62-050 Mosina Polska PL Email: product@impakt.com.pl",
+      "url": "https://www.komputronik.pl/product/825019/lanberg-rsge-24p-2ge-2s-250.html",
+      "date": "2026-10-21"
+    }
   ],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "kp": [
+    {
+      "name": "Łukasz Gąsiewicz",
+      "role": "Product Dev Manager",
+      "email": "lukasz.gasiewicz@impakt.com.pl",
+      "phone": "",
+      "source": "用户 Clients 表（已回复）"
+    },
+    {
+      "name": "Bartosz Krawczyk",
+      "role": "（用户记录）",
+      "email": "bartosz.krawczyk@impakt.com.pl",
+      "phone": "",
+      "source": "用户 Clients 表"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "体量偏大但不在巨头名单，且是典型'自有品牌找中国工厂贴牌'模型：Lanberg 品牌有交换机/PoE/机柜线 → Saga 以 SmartByte Marvell 管理型/PoE 机型做 Lanberg 的 OEM 补充 SKU 最对路。KP 为产品开发经理（决策链正确）。价阶 30%（OEM）；需准备神秘包装/无 logo + CE/RoHS/REACH 文件。注意其直接找工厂的可能 → 强调 MOQ 1、10–15 天交期、混 SKU 小批量。",
+  "researched_at": "2026-10-21",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "深挖 v1"
+  },
+  "company_facts": {
+    "legal_name": "Impakt S.A.",
+    "hq": "ul. Stanisława Lema 16, 62-050 Mosina, Poland（product@impakt.com.pl）",
+    "staff": ">150",
+    "revenue": "1.52 亿 PLN（2025）",
+    "other": "自有品牌 Lanberg（网络）、Genesis、Natec、Fury、Armac、Audictus；3,500+ SKU，40+ 国；Lanberg 交换机 24 个月保修，通过 Komputronik/iVolta 等零售"
+  },
+  "business_lines": [
+    "Lanberg 网络产品：机架 PoE 交换机 RSGE 系列（24 口 250/360W）、桌面交换机、布线/机柜",
+    "其他自有品牌消费 IT"
+  ],
+  "products_seen": [
+    {
+      "brand": "Lanberg",
+      "model": "RSGE-24P-2GE-2S-250",
+      "spec": "24×GE PoE+ + 2 GE + 2 SFP，250W，56Gbps，8K MAC，风扇，Extend 250 m，4kV 防雷，320×207×45 mm，24 个月保",
+      "url": "https://lanberg.pl/produkt/RSGE-24P-2GE-2S-250",
+      "date": "2026-10-21",
+      "saga": "STC-424DGGPM-280W"
+    },
+    {
+      "brand": "Lanberg",
+      "model": "RSGE-24P-2GE-2S-360",
+      "spec": "24×GE PoE+ + 2 GE + 2 SFP，360W（EAN 5901969438697）",
+      "url": "https://pl.lanberg.eu/produkt/switch-lanberg-rsge-24p-2ge-2s-360-24x-1gb-poe-2x-gb-2x-sfp-rack-19-gigabit-ethernet-360w",
+      "date": "2026-10-21",
+      "saga": "STC-424DGGPM-280W"
+    },
+    {
+      "brand": "Lanberg",
+      "model": "RSGE-24P-2S-250 / RSGE-24P-2S-360",
+      "spec": "24 PoE+ + 2 SFP，250W（16K MAC 无风扇）/ 360W（FE PoE 口）",
+      "url": "https://lanberg.pl/en/produkt/RSGE-24P-2S-250",
+      "date": "2026-10-21",
+      "saga": "STC-424DGGPM-280W"
+    }
+  ],
+  "channels": {
+    "网站": "https://lanberg.pl/ · https://www.impakt.com.pl/",
+    "直邮": "lukasz.gasiewicz@impakt.com.pl / bartosz.krawczyk@impakt.com.pl（Product Dev Manager，用户表）；product@impakt.com.pl（零售页公开）"
+  },
+  "signals": [
+    "Lanberg RSGE 24 口 PoE 为非管理机型——管理型（L2+）与 8 口 PoE+2 SFP 是其线上的空位（2026-10-21）",
+    "用户表：曾就「一个定制品」回复——有定制采购流程"
+  ],
+  "risks": [
+    "大型品牌商：EAN/包装/波兰语手册/WEEE/保修 24 个月与退货率要求；首单需样机验证",
+    "价格导向强（零售 24 口 PoE 约 1,000 PLN）"
+  ],
+  "saga_fit": {
+    "p1": "STC-424DGGPM-280W",
+    "tier": 30,
+    "why": "Lanberg RSGE-24P 系列（24 PoE+ + 2 GE + 2 SFP）→ STC-424DGGPM-280W（管理型升级）；8 口位 STC-28DGGPM；贴 Lanberg 标 30% 档，体量可 25%"
+  },
+  "email_hook": "The RSGE-24P series is unmanaged today, so a Marvell-based 24-port PoE+ L2+ managed unit with 4 SFP in Lanberg packing is the gap I would fill first, and I can quote it with the 8-port PoE+ 2 SFP model as a second line.",
+  "mail_review": {
+    "binding": {
+      "level": "未绑定（询问阶段，但决策链正确：产品开发经理 Łukasz 2025-10 主动要「带 CE 电源的 MC」价格与 MOQ）；Elsa 群发 BCC 已触达 6 轮 2025-04-03→2025-08-25（锚 To info@axuse.com，本户在 Bcc）→ 08-25「90W PoE Managed Switch」那轮 Łukasz 回信 → Elsa 08-26 / 09-25 Re:（已入库）→ 之后剔出 Bcc（10-09 头 199c8653559f6d15 Bcc 27 人已无 impakt）；即 Impakt 的线索源头是 Elsa 群发 Bcc，不是 A 邮箱",
+      "type": "波兰自有品牌集团（Lanberg / Genesis / Natec…）+ 分销——第一档 OEM 类型；波兰 = 次重点市场；Elsa 曾先接触（Alan 2025-09-29 原话）",
+      "sieve": "2",
+      "stop": "2025-10-03 Alan 报 1G SFP MC 13 USD/pc（MOQ 1）→ 10-15 追问无回；此后群发只发给 Bartosz（不是 Łukasz）",
+      "revive": "Łukasz 的 Lanberg MC/交换机补 SKU 立项；给他一张 MC + 8/16 口 PoE 的 CE 版对位表",
+      "lane": "PL/EU（CE 有）",
+      "cadence": "2024-06 → 2026-09 去信 30 封；最后来信 2025-10-03",
+      "evidence": "k=93d83062626fac30 / 897f6d9873002938 / c220bcc3035956bf / 43168b7db932dd31"
+    },
+    "situation": "Impakt 的产品开发经理 Łukasz Gąsiewicz 2025-09-29 主动转发同事 Bartosz 收到的群发并要「actual offer」，10-03 贴图说「We looking for devices like this with CE power supply. Prices? MOQ?」——是 1G SFP 媒体转换器。Alan 报 13 USD/pc、MOQ 1、附规格书，10-15 追问后无回。之后的群发全部发回 Bartosz，Łukasz 再没收到针对性内容。",
+    "need": "Lanberg 品牌的 MC（CE 电源）与小型交换机补 SKU；价格敏感（自有品牌比价）。",
+    "breakpoint": "决策人找对了、产品找对了、价格给了，停在「没有第二封针对性的信」——群发名单没有把 Łukasz 设为主收件人。",
+    "saga_now": {
+      "p1": "STI-110GE 类 1G SFP MC（CE 电源版）+ STC-28DGGPM 8 口 PoE 对位表",
+      "tier": 30,
+      "price": "Elsa 2025-09-25 实报 STC-4168XGGCM 双 AC $280（= 群发价，≈ 进价，Łukasz 未接）；按 30% 自有标档（MC 13 USD 为 2025-10 报价，需按现价表重算）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-05 $65（10G media converter）；群发里他已看到的价（续）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-06-15 $220（48 port managed switch）、2025-05-26 $300（48 Port PoE Managed Switch）、2025-10-21 $280（10G Enterprise SFP Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-05-25 $300（48 Port PoE Managed Switch = STC-448XGGPM，Elsa 箱 2 轮 2025-04-28→2025-05-25；现表 $335.4@20%、Drive 老表 $335——同款写 $335 要先说 2025 群发是 $300、汇率 7.2→6.7）",
+      "why": "J2：波兰次重点 + 自有品牌 + 决策人在手 = 少数值得写第二封的户。已打开的主题（5/30 封有打开记录）：「Industrial PoE Switch」(2025-09-16)、「Re: FW: [EXTERNAL] Industrial PoE Swit」(2025-09-29)、「Re: FW: [EXTERNAL] Industrial PoE Swit」(2025-10-03)、「Re: FW: [EXTERNAL] Industrial PoE Swit」(2025-10-15) → 读者兴趣偏「工业」；当前 P1 属「10G 汇聚/L3」，下一封按「工业」给，不按 P1 最近一封去信是 2026-09-28 A 邮箱 AC5 管理 PoE 模板（在本档最后一条事实之后）——下一封必须回到真人线程、不再叠模板｜已发资料（勿重发）：Download Link_Alan(2025-09-29)、STC-110GE(2025-10-03)、Product Link_2026Q2(2026-03-30)、Product Link_2026Q3(2026-07-16)、Saga Feature List_7.5.x_L2+(2026-07-20)；7.5 Feature List 与 2026Q3 链接都已给过 → 下一封不能再是资料推送，只能是针对其需求的一句话/一个问题",
+      "repeat": [],
+      "gaps": [
+        "Lanberg 现有 MC 型号与售价（官网可查，未做）",
+        "13 USD MC 属于哪条线（Realtek/HRUI？）——报前核"
+      ]
+    },
+    "next_move": {
+      "when": "2026-11",
+      "channel": "A 邮箱 → lukasz.gasiewicz@impakt.com.pl（主收件人），抄 bartosz.krawczyk@impakt.com.pl",
+      "action": "一张对位表 + 一句话问 Lanberg 2027 年 SKU 计划",
+      "one_question": "Is the Lanberg media-converter refresh still planned for 2027, and would a CE-PSU 1G SFP MC at the 13-USD class go into it?"
+    },
+    "facts": [
+      {
+        "date": "2025-04-03",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To info@axuse.com）",
+        "quote": "Mini Industrial PoE Switch（Elsa 群发第 1/6 轮；本户在 Bcc，锚 To info@axuse.com）",
+        "why": "第 74 批(o) `from:e.sagatelecom to:impakt.com.pl` 全程 complete：6 行；To=info@axuse.com ⇒ 本户在该锚 Bcc 名单",
+        "k": "elsa_bcc",
+        "msg_id": "195fb17dc4cbfd9e"
+      },
+      {
+        "date": "2025-04-28",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To info@axuse.com）",
+        "quote": "48 Port PoE Managed Switch（Elsa 群发第 2/6 轮；本户在 Bcc，锚 To info@axuse.com；正文价 300usd/pc，第 74 批(p) 读稿 msg 194eff1f9bf46879 / 1973a613b8166b58）",
+        "why": "第 74 批(o) `from:e.sagatelecom to:impakt.com.pl` 全程 complete：6 行；To=info@axuse.com ⇒ 本户在该锚 Bcc 名单",
+        "k": "elsa_bcc",
+        "msg_id": "1967c1b82fddb7e4"
+      },
+      {
+        "date": "2025-05-25",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To info@axuse.com）",
+        "quote": "48 Port PoE Managed Switch（Elsa 群发第 3/6 轮；本户在 Bcc，锚 To info@axuse.com；正文价 300usd/pc，第 74 批(p) 读稿 msg 194eff1f9bf46879 / 1973a613b8166b58）",
+        "why": "第 74 批(o) `from:e.sagatelecom to:impakt.com.pl` 全程 complete：6 行；To=info@axuse.com ⇒ 本户在该锚 Bcc 名单",
+        "k": "elsa_bcc",
+        "msg_id": "19706f048da10720"
+      },
+      {
+        "date": "2025-06-25",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To info@axuse.com）",
+        "quote": "Marvell Alleycat5 Solution（Elsa 群发第 4/6 轮；本户在 Bcc，锚 To info@axuse.com）",
+        "why": "第 74 批(o) `from:e.sagatelecom to:impakt.com.pl` 全程 complete：6 行；To=info@axuse.com ⇒ 本户在该锚 Bcc 名单",
+        "k": "elsa_bcc",
+        "msg_id": "197a6ac511c9c568"
+      },
+      {
+        "date": "2025-07-25",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To info@axuse.com）",
+        "quote": "16 Port Ethernet Switch（Elsa 群发第 5/6 轮；本户在 Bcc，锚 To info@axuse.com）",
+        "why": "第 74 批(o) `from:e.sagatelecom to:impakt.com.pl` 全程 complete：6 行；To=info@axuse.com ⇒ 本户在该锚 Bcc 名单",
+        "k": "elsa_bcc",
+        "msg_id": "1984103b880e1257"
+      },
+      {
+        "date": "2025-08-25",
+        "dir": "来（E 邮箱）",
+        "who": "support@lanberg.pl → lukasz.gasiewicz@impakt.com.pl",
+        "quote": "RE: [EXTERNAL] 90W PoE Managed Switch",
+        "why": "Lanberg（SB-574）支持邮箱把 Saga 的信转到 Impakt 采购——两户同一体系",
+        "k": "gmail_e/index_replied"
+      },
+      {
+        "date": "2025-08-26",
+        "dir": "去",
+        "who": "Elsa",
+        "quote": "Please see attached file and check on the links.（附 Download Link_Alan.pdf；抄 support@lanberg.pl）",
+        "why": "Elsa 首回只给下载链接",
+        "k": "gmail_e 198e64376d9fa3ca"
+      },
+      {
+        "date": "2025-09-16",
+        "dir": "来",
+        "who": "用户表（Simon 跟进记录；渠道 A）",
+        "quote": "用户表跟进：推「24PoE」→ 对方「INFO」",
+        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+        "k": "Clients/A Replied 09.04.xlsx no.25 2025.9.16"
+      },
+      {
+        "date": "2025-09-25",
+        "dir": "去",
+        "who": "Elsa",
+        "quote": "This is our 24-port Marvell-based managed SFP switch. 1, 4 port 1G SFP+8-port 1G SFP/RJ45 Combo +4*10G SFP+ 2, Dual AC input 3, Support fan monitoring/dual PSU status monitoring 4, Customizable Web GUI It is a price-competitive aggregation switch(280usd/pc) Is it useful to you?",
+        "why": "Elsa 主动推 STC-4168XGGCM 双 AC $280（= 当时群发价）；Łukasz 没接这款，转而问 MC → 他要的是低价 MC，不是汇聚机",
+        "k": "gmail_e 19980d386ab668ed"
+      },
+      {
+        "date": "2025-09-29",
+        "dir": "来",
+        "who": "Łukasz Gąsiewicz（Product Development Manager）",
+        "quote": "I cooworking with Bartosz pls send me you actual offer",
+        "why": "决策人出现",
+        "k": "93d83062626fac30"
+      },
+      {
+        "date": "2025-09-29",
+        "dir": "去",
+        "who": "Saga（Alan）",
+        "quote": "Hi, Lukasz, 1, please see attached info, there are links about rich info. 2, my colleague Elsa talked with you before, I will take over. She recommended an interesting model(see attached photos), it is our promotion now. Let's discuss.…",
+        "why": "Saga 实质答复原文（主题「Re: FW: [EXTERNAL] Industrial PoE Switch」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
+        "k": "06d7d26794647364"
+      },
+      {
+        "date": "2025-10-03",
+        "dir": "来",
+        "who": "Łukasz",
+        "quote": "We looking for devices like this 😉 with CE power supply Prices ? MOQ ?",
+        "why": "需求（1G SFP MC）",
+        "k": "897f6d9873002938"
+      },
+      {
+        "date": "2025-10-03",
+        "dir": "去",
+        "who": "Alan",
+        "quote": "MoQ is 1 piece… price: 13usd/pc, 1*100/1000M SFP Fiber+1*10/100/1000M RJ45, WITHOUT optical module… DC5V input",
+        "why": "报价",
+        "k": "c220bcc3035956bf"
+      },
+      {
+        "date": "2025-10-15",
+        "dir": "去",
+        "who": "Alan",
+        "quote": "Any news about the 1G media converter? Need to order or something?",
+        "why": "追问无回",
+        "k": "43168b7db932dd31"
+      }
+    ],
+    "proof_gaps": [
+      "（已核 2026-10-24，第 73 批）Elsa 邮箱 2 封回复已读：08-26 下载链接；09-25 推 STC-4168XGGCM 双 AC $280 无回；之后 MC 话题在 A 邮箱（09-29 → 10-15）"
+    ],
+    "draft_en": {
+      "subject": "1G SFP media converter for Lanberg — CE PSU version",
+      "body": "Hi, Lukasz,\n\nIn October 2025 we quoted the 1G SFP media converter (1x SFP + 1x GbE, DC 5 V) at $13 USD, MOQ 1, and then did not follow up properly. Copying Bartosz.\n\nFor a Lanberg SKU the relevant version is with a CE-marked PSU and your carton; the price is re-quoted on the 2026 table on request (same class, MOQ 100 for branded).\n\nOne question: is the Lanberg media-converter refresh still planned for 2027, and would a CE-PSU 1G SFP MC in the 13-USD class go into it?\n\nThank you.\nAlan\nSaga Telecom - sagatele.com"
+    },
+    "as_of": "2026-10-24"
+  }
 }

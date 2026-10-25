@@ -1,73 +1,106 @@
 {
  "code": "SB-903",
- "name_official": "",
+ "name_official": "Necdet Şenkaya（bilecik@hotmail.com，TR；无域名）",
  "researched_at": "2026-10-21",
- "website_status": "在线（habibo.mg，快照 2026-10-21）",
- "summary": "马达加斯加 HABIBO Group（农产品食品生产与分销集团；自建站询盘「2 个品牌的交换机」；KP Flavien Rabialahy）；表内未跟进。",
- "type": "食品集团（马达加斯加，终端自用）",
+ "website_status": "无域名",
+ "summary": "ISAF 记录：Necdet Şenkaya（bilecik@hotmail.com）——要工业级 PoE 交换机；无电话、无公司名；无跟进。Hotmail + 邮箱名「bilecik」（比莱吉克省）→ 疑为该省的个体安装商；仅表内信息。",
+ "type": "",
  "size": "",
  "brands_seen": [],
  "evidence": [
   {
-   "kind": "官网快照",
-   "claim": "官网标题：HABIBO Group | Société de production et de distribution de produits agroalimentaires.",
-   "quote": "Le meilleur pour vous；Slide 0；Slide 1；Slide 2；Slide 3；Slide 4",
-   "url": "https://habibo.mg/",
-   "date": "2026-10-21"
-  },
-  {
    "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "2个品牌的交换机 / from: 自建站",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "HABIBO 定位",
-   "quote": "HABIBO Group | Société de production et de distribution de produits agroalimentaires",
-   "url": "https://habibo.mg/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "2 个品牌的交换机",
-   "quote": "2个品牌的交换机 / from: 自建站",
+   "claim": "ISAF：要工业级 PoE 交换机；仅 Hotmail",
+   "quote": "要工业级POE交换机 / NECDET SENKACAYC / bilecik@hotmail.com",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
- "kp": [],
- "grade_override": "C",
- "override_reason": "终端自用且区域外；c_sub=区域外/终端用户",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "kp": [
+  {
+   "name": "Necdet Şenkaya",
+   "role": "（ISAF 名片）",
+   "email": "bilecik@hotmail.com（用户表）",
+   "phone": "—",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "无域名 · 仅表内信息"
  },
  "company_facts": {
-  "hq": "马达加斯加",
-  "other": "官网 habibo.mg，语言 fr-FR，快照状态 ok；角色判定来源：官网文案"
+  "legal_name": "（待核）",
+  "hq": "Türkiye（疑 Bilecik）",
+  "size": "待核",
+  "other": "仅 Hotmail"
  },
  "business_lines": [
-  "农产品食品生产 / 分销（马达加斯加）"
+  "（待核）"
  ],
  "channels": {
-  "role": "食品集团（马达加斯加，终端自用）",
-  "region": "马达加斯加",
-  "contact": "flavien.rabialahy@habibo.mg"
+  "邮箱": "bilecik@hotmail.com（用户表）"
  },
  "signals": [
-  "官网：HABIBO Group | Société de production et de distribution de produits agroalimentaires",
-  "表内：2 个品牌的交换机 / from: 自建站；KP Flavien Rabialahy"
+  "明确要工业 PoE → 发土耳其语报价"
  ],
  "risks": [
-  "非渠道：食品生产分销集团自用；区域外（马达加斯加）"
+  "无公司信息；无后续跟进"
  ],
  "saga_fit": {
-  "p1": null,
+  "p1": "STI-288GP",
   "tier": 25,
-  "why": "非渠道终端（食品集团自用采购）、区域外 → 改 C"
+  "why": "默认 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP，$59.8）；4 口 STI-144GP（$35.5）"
  },
- "email_hook": "（不发送：终端/区域外）"
+ "email_hook": "Necdet Bey, ISAF'ta istediğiniz endüstriyel PoE switch: DIN ray 8 PoE + 2 SFP 59,8 USD, 4 PoE + 1 SFP 35,5 USD EXW — firma adınız ve adet bilgisini yazarsanız resmi teklif göndereyim.",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「要工业级POE交换机 / NECDET SENKACAYC / bilecik@hotmail.com」；Elsa 箱：`to:bilecik@hotmail.com` 逐户查 0（2026-10-24 第 73 批(o)，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(g)））",
+   "type": "—",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+   "lane": "TR 主攻（四主）",
+   "cadence": "首封后看打开",
+   "evidence": "gmail_digest：out 0；用户表：「要工业级POE交换机 / NECDET SENKACAYC / bilecik@hotmail.com」；研究档 risks：无公司信息；无后续跟进"
+  },
+  "situation": "ISAF 记录：Necdet Şenkaya（bilecik@hotmail.com）——要工业级 PoE 交换机；无电话、无公司名；无跟进。Hotmail + 邮箱名「bilecik」（比莱吉克省）→ 疑为该省的个体安装商；仅表内信息。",
+  "need": "默认 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP，$59.8）；4 口 STI-144GP（$35.5）",
+  "breakpoint": "无公司信息；无后续跟进",
+  "saga_now": {
+   "p1": "STI-288GP",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "默认 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP，$59.8）；4 口 STI-144GP（$35.5）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "待 Simon 排期（首封）",
+   "channel": "A 邮箱 → bilecik@hotmail.com（Necdet Şenkaya）",
+   "action": "首封：按 email_hook 一问（第 74 批(r) 2026-10-25：英文信稿已写 `draft_en`，内容 = 土耳其语钩子句的英文版；土耳其语一句话仍在研究档备注里，对方若不读英文就整段单发）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
+   "one_question": "Necdet Bey, ISAF'ta istediğiniz endüstriyel PoE switch: DIN ray 8 PoE + 2 SFP 59,8 USD, 4 PoE + 1 SFP 35,5 USD EXW — firma adınız ve adet bilgisini yazarsanız resmi teklif göndereyim."
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "要工业级POE交换机 / NECDET SENKACAYC / bilecik@hotmail.com",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": {
+   "subject": "Industrial PoE switch prices from ISAF",
+   "body": "Hi Necdet,\n\nWe met at ISAF 2025 in Istanbul last October - this picks up what we discussed at the booth.\n\nThe industrial PoE switches you asked for: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, unmanaged, model STI-288GP - $59.8 USD EXW; 4 x PoE + 1 x SFP, model STI-144GP - $35.5 USD EXW (MOQ 1, 15-day validity, CE/RoHS).\n\nOne question: if you send me your company name and the quantity, I will issue a formal quotation - how many units is the first project?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+  },
+  "as_of": "2026-10-24"
+ }
 }

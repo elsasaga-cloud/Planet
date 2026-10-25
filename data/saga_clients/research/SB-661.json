@@ -1,159 +1,118 @@
 {
-  "code": "SB-661",
-  "name_official": "",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（hlc.vn，快照 2026-10-21）",
-  "summary": "越南 Hoàng Long JSC（hlc.vn；自述「专业生产工业通信网络产品：工业交换机、光电转换器，FCC/CE/RoHS」= 贴牌制造；同时经销 Lantronix SISPM1040 工业 PoE 24 口 / L3 28 口；表内「和三旺有合作，工业 FS / MC / VC」，阿里巴巴询盘 **16 槽收发器机架**；KP Hoang Nguyen Anh）；表内无跟进记录。",
-  "type": "越南工业网络品牌/贸易商（3onedata 合作，自有标）",
-  "size": "",
-  "brands_seen": [
-    "Lantronix",
-    "3onedata"
-  ],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "官网标题：CÔNG TY CỔ PHẦN XUẤT NHẬP KHẨU VÀ THƯƠNG MẠI HOÀNG LONG；品类词 电信 / FTTH / ISP 设备 / 无线 / WiFi / 光纤 / 媒体转换 / 网络交换 / PoE",
-      "quote": "Công ty chuyên sản xuất các sản phẩm mạng truyền thông công nghiệp Switch công nghiệp, bộ chuyển đổi quang, sản phẩm của chúng tôi thu được nhiều chứng thực quốc tế như FCC, CE và tuân thủ RoHS, chúng tôi là một công ty ISO9001: 2008, hầu h",
-      "url": "https://hlc.vn/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "和3旺有合作 工业FS MC VC；16槽收发器机架 / from: 阿里巴巴询盘",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网快照",
-      "claim": "专业生产工业交换机与光电转换器，FCC/CE/RoHS",
-      "quote": "Công ty chuyên sản xuất các sản phẩm mạng truyền thông công nghiệp Switch công nghiệp, bộ chuyển đổi quang, sản phẩm của chúng tôi thu được nhiều chứng thực quốc tế như FCC, CE và tuân thủ RoHS",
-      "url": "https://hlc.vn/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "与 3onedata 合作；询盘 16 槽机架",
-      "quote": "和3旺有合作 工业FS MC VC；16槽收发器机架 / from: 阿里巴巴询盘",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Hoang Nguyen Anh",
-      "title": "（表内联系人）",
-      "email": "nguyenhoang@hlc.vn",
-      "phone": "",
-      "source": "用户表"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
-  },
-  "company_facts": {
-    "hq": "越南",
-    "other": "官网 hlc.vn，语言 vi，快照状态 ok；角色判定来源：用户表"
-  },
-  "business_lines": [
-    "工业交换机 / 光电转换器（自有标）",
-    "Lantronix 工业 PoE 经销"
-  ],
-  "channels": {
-    "role": "越南工业网络品牌/贸易商（3onedata 合作，自有标）",
-    "region": "越南",
-    "contact": "nguyenhoang@hlc.vn、hlctelecom@gmail.com"
-  },
-  "signals": [
-    "官网：Công ty chuyên sản xuất … Switch công nghiệp, bộ chuyển đổi quang … FCC, CE, RoHS",
-    "首页在售 Lantronix SISPM1040-3166-L（24 口工业 PoE）、SISPM1040-3000-L3",
-    "表内：阿里巴巴询盘 16 槽收发器机架；KP Hoang Nguyen Anh"
-  ],
-  "risks": [
-    "MC 机架（16 槽）Saga 价目无 SKU：需向 SmartByte/HRUI 询价后再报（Q-32 类配件缺口）",
-    "现合作 3onedata：价格基准低；非主攻区（T5）",
-    "表内 gmail 备用邮箱（hlctelecom@gmail.com）：只用企业邮箱"
-  ],
-  "saga_fit": {
-    "p1": "STI-110GE",
-    "tier": 30,
-    "why": "询盘为 16 槽 MC 机架（Saga 价目无机架，待核）→ 先以工业 MC STI-110GE（$24.3 @30%）/ PoE MC STI-111GP 切入；工业交换机位 STI-288GPM；Lantronix SISPM1040 位 STI-21616GP（16 PoE）"
-  },
-  "email_hook": "Following your enquiry on the 16-slot media-converter rack: we supply DIN-rail gigabit industrial media converters (SFP and fixed-fiber) and 8/16-port industrial PoE switches under your label from small lots, CE/RoHS/FCC — is the rack intended for SFP-based or fixed single-mode converters?",
-  "products_seen": [
-    {
-      "brand": "Lantronix",
-      "model": "SISPM1040-3166-L",
-      "spec": "工业 24 口 PoE 管理",
-      "saga": "（工业 24 口 Saga 无标准型；16 口位 STI-21616GP）",
-      "url": "https://hlc.vn/",
-      "date": "2026-10-21"
-    },
-    {
-      "brand": "Lantronix",
-      "model": "SISPM1040-3000-L3",
-      "spec": "工业 L3 28 口",
-      "saga": "（Saga 无对应）",
-      "url": "https://hlc.vn/",
-      "date": "2026-10-21"
-    }
-  ],
-  "mail_review": {
-    "binding": {
-      "level": "未发信（S/A 邮箱均无往来；来源：用户表「和3旺有合作 工业FS MC VC；16槽收发器机架 / from: 阿里巴巴询盘」）；Elsa 群发 BCC 已触达 1 轮 2026-09-09（锚 To info@hoangvanco.com.vn 1 轮 2026-09-09；本户在 Bcc；主题 24 Port PoE Managed Switch；0 回（Elsa 箱 Replied 索引 + 第 73 批真人来信逐户比对均无此户）；该行仅在 widened_to_spam_trash 后出现（已进垃圾箱/垃圾邮件）；S/A digest 看不到 Elsa 的去信，之前据此写的「未发信」是 S/A 口径）（第 74 批(n) `from:e.sagatelecom to:hlc.vn` 全程 complete：命中 1 行、To 均为锚地址 ⇒ 本户在锚的 Bcc 名单）",
-      "type": "越南工业网络品牌/贸易商（3onedata 合作，自有标）",
-      "sieve": "—（未入筛）",
-      "stop": "从未触达",
-      "revive": "不动（非主攻区；J5：有证据再动）",
-      "lane": "越南 非主攻",
-      "cadence": "不动",
-      "evidence": "gmail_digest：out 0；用户表：「和3旺有合作 工业FS MC VC；16槽收发器机架 / from: 阿里巴巴询盘」；研究档 risks：MC 机架（16 槽）Saga 价目无 SKU：需向 SmartByte/HRUI 询价后再报（Q-32 类配件缺口）"
-    },
-    "situation": "越南 Hoàng Long JSC（hlc.vn；自述「专业生产工业通信网络产品：工业交换机、光电转换器，FCC/CE/RoHS」= 贴牌制造；同时经销 Lantronix SISPM1040 工业 PoE 24 口 / L3 28 口；表内「和三旺有合作，工业 FS / MC / VC」，阿里巴巴询盘 **16 槽收发器机架**；KP Hoang Nguyen Anh）；表内无跟进记录。",
-    "need": "询盘为 16 槽 MC 机架（Saga 价目无机架，待核）→ 先以工业 MC STI-110GE（$24.3 @30%）/ PoE MC STI-111GP 切入；工业交换机位 STI-288GPM；Lantronix SISPM1040 位 STI-21616GP（16 PoE）",
-    "breakpoint": "MC 机架（16 槽）Saga 价目无 SKU：需向 SmartByte/HRUI 询价后再报（Q-32 类配件缺口）",
-    "saga_now": {
-      "p1": "STI-110GE",
-      "tier": 30,
-      "price": "按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-09-09 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-09；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
-      "why": "询盘为 16 槽 MC 机架（Saga 价目无机架，待核）→ 先以工业 MC STI-110GE（$24.3 @30%）/ PoE MC STI-111GP 切入；工业交换机位 STI-288GPM；Lantronix SISPM1040 位 STI-21616GP（16 PoE）",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "不动",
-      "channel": "—",
-      "action": "—",
-      "one_question": ""
-    },
-    "facts": [
-      {
-        "date": "2026-09-09",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To info@hoangvanco.com.vn）",
-        "quote": "24 Port PoE Managed Switch（Elsa 群发第 1/1 轮；本户在 Bcc，锚 To info@hoangvanco.com.vn；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:hlc.vn` 命中行 To=info@hoangvanco.com.vn ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
-        "k": "elsa_bcc",
-        "msg_id": "1a08466ba46c221c"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "和3旺有合作 工业FS MC VC；16槽收发器机架 / from: 阿里巴巴询盘",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [
-      "无来信（Elsa 去信 1 轮见 facts；S/A 箱无往来）"
-    ],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+ "code": "SB-661",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（goldnet.com.tr，快照 2026-10-21）",
+ "summary": "土耳其 Goldnet（官网快照空，业务待核；联系人 murat@）；表内 1 次跟进无回复。",
+ "type": "IT/网络公司（土耳其，待核）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：goldnet.com.tr",
+   "quote": "",
+   "url": "https://goldnet.com.tr/",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Murat",
+   "title": "（职务待核）",
+   "email": "murat@goldnet.com.tr",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "土耳其",
+  "other": "官网 goldnet.com.tr，语言 ?，快照状态 ok；角色判定来源：待核"
+ },
+ "business_lines": [
+  "（待核）"
+ ],
+ "channels": {
+  "role": "IT/网络公司（土耳其，待核）",
+  "region": "土耳其",
+  "contact": "murat@goldnet.com.tr"
+ },
+ "signals": [
+  "快照：内容为空",
+  "表内：murat@goldnet.com.tr"
+ ],
+ "risks": [
+  "官网快照空（经营状态待核）；表内无兴趣备注；1 次无回复"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 20,
+  "why": "业务待核 → 通用首触：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）"
+ },
+ "email_hook": "Murat, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and 24-PoE + 4 SFP switches plus DIN-rail industrial units from single units, CE/RoHS, EXW USD — does Goldnet resell or install network switches, and which port count do your customers ask for most?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 5 封 2025→2026，无记录打开，0 回；收件 murat@goldnet.com.tr；主题多为「10G Enterprise SFP Switch、Booster PoE Switch」；Elsa 箱：`to:goldnet.com.tr` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 5 / 来 0）（第 74 批(i)））",
+   "type": "IT/网络公司（土耳其，待核）",
+   "sieve": "1（只收到群发）",
+   "stop": "5 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "TR 主攻（四主）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 5；研究档 risks：官网快照空（经营状态待核）；表内无兴趣备注；1 次无回复"
+  },
+  "situation": "土耳其 Goldnet（官网快照空，业务待核；联系人 murat@）；表内 1 次跟进无回复。",
+  "need": "业务待核 → 通用首触：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）",
+  "breakpoint": "官网快照空（经营状态待核）；表内无兴趣备注；1 次无回复",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-30 $280（10G Enterprise SFP Switch）",
+   "why": "业务待核 → 通用首触：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
+   "one_question": "Murat, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and 24-PoE + 4 SFP switches plus DIN-rail industrial units from single units, CE/RoHS, EXW USD — does Goldnet resell or install network switches, and which port count do your customers ask for most?"
+  },
+  "facts": [
+   {
+    "date": "2025-10-30",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "10G Enterprise SFP Switch",
+    "why": "首封去信（邮箱索引；去信共 5 封）",
+    "k": "6aa92ffbca137432"
+   },
+   {
+    "date": "2026-03-11",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "10G Enterprise SFP Switch、Booster PoE Switch",
+    "why": "5 封 / 0 次打开 / 0 回｜首封 2025-10-30 → 末封 2026-03-11（5 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-03-11",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "Updated Ethernet Switches Links",
+    "why": "最近一封去信（邮箱索引；去信共 5 封）",
+    "k": "1f62bfa2b7c2948e"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

@@ -1,0 +1,69 @@
+{
+ "code": "SC-169",
+ "name_official": "Hafya Technologies（Hafya Teknoloji，İstanbul Şişli, TR；hafya.com.tr）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线",
+ "summary": "伊斯坦布尔 Şişli 的电子安防与弱电集成商 Hafya Technologies（CCTV、IT 基础设施、火灾探测、门禁、对讲、舞台灯光音响；+90 212 221 16 72；info@hafya.com.tr）。ISAF 记录（Evelyn 加了 WhatsApp，3 人同来）：主要要防水交换机规格书、工业级 4 光 8 电 PoE 网管，做军队项目会用到防水交换机，拍了合照；联系人 Emre Makili。军队项目 → 守界 C（资料保留；若其民用项目需要 IP40 DIN 机型可重开）。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "业务与联系方式",
+   "quote": "Firmamız, elektronik güvenlik ve zayıf akım sistemleri alanında entegre çözümler sunmak amacıyla kurulmuş … Güvenlik kamera sistemlerinden bilişim altyapılarına, yangın algılama ve geçiş kontrol çözümlerine kadar … +90 212 221 16 72 Şişli - İstanbul … İnfo@hafya.com.tr",
+   "url": "https://hafya.com.tr/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "ISAF 互动：防水交换机、4 光 8 电 PoE 网管、军队项目",
+   "quote": "Evelyn 加了WhatsApp  3个人， 主要要防水交换机的规格书， 工业级4光8电POE网管， 做军队项目， 会用到防水交换机， 合照",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Emre Makili",
+   "role": "（ISAF 名片；职务待核）",
+   "email": "emre.makili@hafya.com.tr（用户表）",
+   "phone": "—",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": "C",
+ "override_reason": "守界：ISAF 记录明确「做军队项目、会用到防水交换机」，所询工业 4 光 8 电 PoE 网管 + 防水机用于军方项目——军用/国防项目不供；且 Saga 无 IP67 防水机型",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网核对 → 守界降 C）"
+ },
+ "company_facts": {
+  "legal_name": "Hafya Teknoloji（Hafya Technologies）",
+  "hq": "Şişli / İstanbul（+90 212 221 16 72；info@hafya.com.tr）",
+  "size": "待核（中小型集成商）",
+  "other": "业务：CCTV、IT 基础设施、火灾探测、门禁、对讲、舞台灯光"
+ },
+ "business_lines": [
+  "电子安防与弱电系统集成",
+  "舞台灯光音响系统"
+ ],
+ "channels": {
+  "网站": "https://hafya.com.tr/",
+  "电话": "+90 212 221 16 72（公开）",
+  "邮箱（公开）": "info@hafya.com.tr"
+ },
+ "signals": [
+  "需求为军方项目防水交换机 → 不供"
+ ],
+ "risks": [
+  "军用项目守界 → C；无 IP67 机型"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 25,
+  "why": "不推进（守界）；民用项目可报 STI-448DGGGM（8 GE + 4 SFP + 4×2.5G SFP，$205.5）"
+ },
+ "email_hook": "（不主动发送）"
+}

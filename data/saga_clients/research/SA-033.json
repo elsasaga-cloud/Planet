@@ -1,239 +1,229 @@
 {
  "code": "SA-033",
- "name_official": "Optiview, Inc.（Jacksonville, FL）",
- "website_status": "在线",
- "summary": "美国佛州杰克逊维尔的 CCTV 批发分销商/品牌商（1999 年成立，11–50 人，营收约 $5.3M），25,000 平方英尺仓库 600+ SKU，面向安装商/经销商/集成商直至财富 500 强客户，产品自行测试并定制（自有品牌），类目含 NDAA 合规摄像机、NVR/DVR、Networking/PoE、太阳能监控。用户表：S 重点，兴趣 VC/HDMI/FS/商业 PoE/光模块，1 次实质回复，邮件中有详细联系信息。",
- "type": "分销商/品牌商（CCTV 批发，自有品牌 OEM 采购）",
- "size": "11–50 人；$5.3M（ZoomInfo/RocketReach）",
+ "name_official": "BlueWARRIOR（bluewarrior.com, USA）",
+ "website_status": "在线（产品页 2026-01 更新）",
+ "summary": "美国自有品牌工业以太网供应商：BW 系列机架/DIN 网管与非网管工业交换机、工业 bypass 交换机、工业 MC，官网明码标价（BW2026 26 口 $308、BW3020G $662、BW7212G $500），宣称 UL Class 1 Div 2、Tesla 工厂案例；用户表判断「几乎全线武汉迈威」贴牌。用户表：A 优质名单(US)，1 次回复，18 次跟进；AI 评 40% A。",
+ "type": "品牌商（白牌贴牌，OEM 目标）",
+ "size": "未见人数（小型品牌）",
  "brands_seen": [
-  "Optiview"
+  "BlueWARRIOR",
+  "武汉迈威(Maiwe)"
  ],
  "evidence": [
   {
    "kind": "官网",
-   "claim": "定位与客户群；产品自测与定制",
-   "quote": "Optiview has been a part of the surveillance industry for over 25 years … for our network of Clients, Dealers, & Integrators. Every product brought into Optiview’s 25,000 square foot warehouse is extensively tested by our R&D team, and customized to fit the needs of our client base.",
-   "url": "https://optiviewusa.com/about/",
+   "claim": "自有品牌产品线与零售价",
+   "quote": "BW2026 Series $308.00 - 26 Port - Layer 2 Certified for Industrial Control Systems - 19″ Rack Mount Un-Managed … BW3020G-4GF-16GT-AD220 $662.00 … BW7212G-4GF-8GT $500.38 … Industrial By-Pass Ethernet Switches · Industrial Media Converters",
+   "url": "https://bluewarrior.com/products/layer-2-rack-un-managed-ethernet-switches/bw2026-series/",
    "date": "2026-10-21"
   },
   {
    "kind": "官网",
-   "claim": "类目含 Networking/PoE 与 NDAA 合规摄像机",
-   "quote": "Some of our most popular products include: - HD over COAX Cameras - IP/network cameras - NDAA-compliant cameras - Network video recorders (NVR) … - Networking/POE",
-   "url": "https://optiviewusa.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "第三方（ZoomInfo）",
-   "claim": "总裁与规模",
-   "quote": "Optiview $5.3M · Private · 1999 · Stephen Lebowitz President",
-   "url": "https://www.zoominfo.com/c/optiview-inc/344525981",
+   "claim": "宣称 UL C1D2 与 Tesla 案例（我方只报 CE/FCC，不承诺 UL）",
+   "quote": "Our products are UL Class 1 Division 2 (HazLoc) Hazardous Location. American Certified Ethernet. The BlueWARRIOR IP Switch was chosen for its rugged construction",
+   "url": "https://bluewarrior.com/solutions/factory-automation/",
    "date": "2026-10-21"
   },
   {
    "kind": "官网",
-   "claim": "OVPOE 系列型号表（8/16/24 口、DIN SFP、CAT6）与 5 年保修",
-   "quote": "Warranty | 5 Years … OVPOE8-125 | OVPOE8G-DR-SFP | OVPOE16-250 | OVPOE24-370-2GC … 8 Port 240W PoE Switch … 16 Port PoE + 2GB Switch … 24 Port PoE + 2GB Switch",
-   "url": "https://optiviewusa.com/wp-content/uploads/2024/03/Optiview_OVPOE12V-8-210_SalesSpecSheet.pdf",
-   "date": "2026-10-21"
+   "claim": "BW7212G-4GF-8GT 规格与价格；描述残留 MISCOM7212G（迈威）",
+   "quote": "BW7212G-4GF-8GT $500.38 … 10 Port Layer 2 Industrial Ethernet (Din-Rail Managed) … Supports (8 x 10/100/1000M RJ-45 + 4 Gigabit SFP Ports) … MISCOM7212G supports 4 Gigabit Fx ports + 8 Gigabit Tx ports",
+   "url": "https://bluewarrior.com/products/layer-2-din-rail-managed-ethernet-switches/bw7212g-4gf-8gt/",
+   "date": "2026-01-16"
   },
   {
    "kind": "官网",
-   "claim": "OVPOE24X-400-2GC 24×GE PoE 400W",
-   "quote": "24 Port 10/100/1000Base-TX PoE Switch with 2 x Gigabit combo's. Provides 24 x PoE injectors, 400W built-in power supply. 52Gbps",
-   "url": "https://optiviewusa.com/product/ovpoe24-400-24-port-poe-switch/",
+   "claim": "工业 PoE 类目：BW7212GP-4GT-8GTPOE $987.80",
+   "quote": "Surge Protected with Relay Contact / (Ground / Bonding) ( DC 48-52 Volts). $987.80 View Product - BW7212GP-4GT-8GTPOE - 24 Port - (Layer 2 Managed) - Temperature Hardened",
+   "url": "https://bluewarrior.com/product-category/industrial-poe-switches/",
    "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "OVPOE12V-8+4-160-M 8+2 千兆 L2 管理 30W/口",
-   "quote": "OVPOE12V-8+4-160-M – 8 + 2 Port Gigabit Layer 2 Managed Switch with 30W PoE per Port … 240W Power over Ethernet … 12V / 24V DC Output Ports",
-   "url": "https://optiviewusa.com/product/ovpoe12v-8-4-160-m/",
-   "date": "2026-06-11"
   }
  ],
  "kp": [
   {
-   "name": "Stephen Lebowitz",
-   "role": "President（ZoomInfo 口径）",
-   "email": "sales@optiviewusa.com（Crunchbase 公开）",
-   "phone": "+1 904-805-1581",
-   "source": "https://www.zoominfo.com/c/optiview-inc/344525981 ; https://www.crunchbase.com/organization/optiview-d25f"
-  },
-  {
-   "name": "Silvia Flores",
-   "role": "来信署名人（职务未在邮件署名里出现）；地址 2026-07-20 永久退信（550 5.1.1 Address not found）→ 已离职/停用，改问 purchasing@ 接替人",
-   "email": "silvia.flores@optiviewusa.com",
+   "name": "Thomas West",
+   "role": "联系人（用户表）",
+   "email": "sales@bluewarrior.com",
    "phone": "",
-   "source": "S/A 邮箱来信 2024-10-29 来信 2 封（第 72 批从邮件表头补）"
+   "source": "Clients/A/DONE/US.xlsx"
   }
  ],
- "notes": "A 确认：美国 CCTV 批发商 + 自有品牌 + S 重点；P1 = STC-28DGGPM（8 口商业 PoE，安防主力）→ STC-424DGGPM-280W；注意 NDAA：交换机不在 NDAA 889 覆盖范围（摄像机/视频设备为主），但避免华为海思方案表述，强调 Marvell。",
+ "notes": "A 确认（美国自有品牌 + 全线中国白牌 + 已回复）：对位 BW7212G-4GF-8GT ≈ STI-488DGGM 类（8GE+4SFP 工业网管），30% OEM 档；切入点 = 迈威替代/补充 SKU + Marvell 方案 + 10–15 天交期；不承诺 UL/C1D2。",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "深挖 v1"
+  "level": "深挖 v2（官网产品目录逐型号核对）"
  },
  "company_facts": {
-  "legal_name": "Optiview, Inc.",
-  "founded": "1999",
-  "hq": "Jacksonville, Florida, USA（电话 904.805.1581）",
-  "staff": "11–50",
-  "revenue": "约 $5.3M",
-  "other": "自有品牌 OVPOE 系列交换机（5 年保修），面向安装商/经销商/集成商；网站需登录看价"
+  "legal_name": "BlueWARRIOR（bluewarrior.com）",
+  "hq": "USA",
+  "other": "官网 WooCommerce 目录明码标价（2026-01 更新）；BW7212G 产品描述内残留「MISCOM7212G」字样 → 证实为武汉迈威 MISCOM 系列贴牌"
  },
  "business_lines": [
-  "CCTV 批发（NDAA 合规摄像机、NVR/DVR）",
-  "Networking/PoE：OVPOE 系列商用与工业 PoE 交换机、户外 NEMA3 PoE 箱",
-  "太阳能监控、线缆"
+  "工业交换机（DIN/机架、L2/L3、PoE）",
+  "工业 bypass 交换机",
+  "工业 MC"
  ],
  "products_seen": [
   {
-   "brand": "Optiview",
-   "model": "OVPOE8-125 / OVPOE8-125V",
-   "spec": "8×GE PoE + 2 GE（或 1 GE + 1 SFP），125W 外置电源，20G，5 年保",
-   "url": "https://optiviewusa.com/product/ovpoe8-125v/",
-   "date": "2026-10-21",
-   "saga": "STC-28DGGPM"
+   "brand": "BlueWARRIOR",
+   "model": "BW2026（26 口机架）",
+   "spec": "官网标价 $308",
+   "url": "https://bluewarrior.com/",
+   "date": "2026-10（首轮调研）",
+   "saga": "STC-424DGGPM-280W（PoE 版）"
   },
   {
-   "brand": "Optiview",
-   "model": "OVPOE8G-DR-SFP",
-   "spec": "8 口 240W PoE 千兆（DIN，SFP）",
-   "url": "https://optiviewusa.com/wp-content/uploads/2024/03/Optiview_OVPOE12V-8-210_SalesSpecSheet.pdf",
+   "brand": "BlueWARRIOR",
+   "model": "BW3020G",
+   "spec": "官网标价 $662",
+   "url": "https://bluewarrior.com/",
+   "date": "2026-10（首轮调研）",
+   "saga": "STC-424XGGPM-280W（待核口型）"
+  },
+  {
+   "brand": "BlueWARRIOR",
+   "model": "BW7212G",
+   "spec": "官网标价 $500",
+   "url": "https://bluewarrior.com/",
+   "date": "2026-10（首轮调研）",
+   "saga": "STI-288DGGPM（待核口型）"
+  },
+  {
+   "brand": "BlueWARRIOR",
+   "model": "BW7212G-4GF-8GT",
+   "spec": "DIN L2 管理 8×GE + 4 SFP，-45~85℃，IP40，双输入 12–48VDC，继电器；$500.38",
+   "url": "https://bluewarrior.com/products/layer-2-din-rail-managed-ethernet-switches/bw7212g-4gf-8gt/",
+   "date": "2026-01-16",
+   "saga": "STI-288DGGPM（非 PoE 版需核）"
+  },
+  {
+   "brand": "BlueWARRIOR",
+   "model": "BW7212GP-4GT-8GTPOE",
+   "spec": "DIN L2 管理工业 PoE，48–52VDC；$987.80",
+   "url": "https://bluewarrior.com/product-category/industrial-poe-switches/",
    "date": "2026-10-21",
    "saga": "STI-288DGGPM"
   },
   {
-   "brand": "Optiview",
-   "model": "OVPOE12V-8-210",
-   "spec": "8 口工业 PoE+ 非管理 10/100，12V",
-   "url": "https://optiviewusa.com/wp-content/uploads/2024/03/Optiview_OVPOE12V-8-210_SalesSpecSheet.pdf",
-   "date": "2024-03",
-   "saga": "STI-288DGGPM（千兆升级位）"
+   "brand": "BlueWARRIOR",
+   "model": "BW6220 Series",
+   "spec": "DIN L2 管理 18–20 口；$520.08–585.09",
+   "url": "https://bluewarrior.com/products/layer-2-din-rail-managed-ethernet-switches/bw6220-series/",
+   "date": "2026-01-16",
+   "saga": "STI-21616GP（PoE 位）"
   },
   {
-   "brand": "Optiview",
-   "model": "OVPOE12V-8+4-160-M",
-   "spec": "8+2 口千兆 L2 管理，30W/口 240W，12/24V DC 输出口（2026-06-11 页）",
-   "url": "https://optiviewusa.com/product/ovpoe12v-8-4-160-m/",
-   "date": "2026-06-11",
-   "saga": "STI-288DGGPM"
-  },
-  {
-   "brand": "Optiview",
-   "model": "OVPOE16-250",
-   "spec": "16×FE PoE + 2 GE combo，250W",
-   "url": "https://optiviewusa.com/product/ovpoe16-250/",
-   "date": "2024-10-14",
-   "saga": "STI-21616GP（千兆升级位）"
-  },
-  {
-   "brand": "Optiview",
-   "model": "OVPOE24-370-2GC / OVPOE24X-400-2GC",
-   "spec": "24×FE PoE 370W / 24×GE PoE 400W + 2 GE combo（52Gbps）",
-   "url": "https://optiviewusa.com/product/ovpoe24-400-24-port-poe-switch/",
-   "date": "2026-07-23",
-   "saga": "STC-424DGGPM-280W"
-  },
-  {
-   "brand": "Optiview",
-   "model": "WPNS-8-LED",
-   "spec": "NEMA3 户外防水箱 8 口 PoE 30W/口",
-   "url": "https://optiviewusa.com/poe/8/",
+   "brand": "BlueWARRIOR",
+   "model": "BW5205 Series",
+   "spec": "DIN 7 口（2F+3T / 1F+4T，另有 2×10G SFP+4 SFP+8 GE 配置 $589.03）；$327.60–522.60",
+   "url": "https://bluewarrior.com/products/layer-2-din-rail-managed-ethernet-switches/bw5205-series/",
    "date": "2026-10-21",
-   "saga": "STC-28DGGPM（箱内机）"
+   "saga": "STI-144GP"
+  },
+  {
+   "brand": "BlueWARRIOR",
+   "model": "BW2208 Series / BW2220 Series",
+   "spec": "DIN 非管理 8 口 $75.62–278.60 / 20 口 $469.64",
+   "url": "https://bluewarrior.com/products/layer-2-din-rail-un-managed-ethernet-switches/bw2208-series/",
+   "date": "2026-10-21",
+   "saga": "STI-144GP（PoE 升级位）"
+  },
+  {
+   "brand": "BlueWARRIOR",
+   "model": "BW2026 / BW3020G-4GF-16GT-AD220 / BW3024",
+   "spec": "机架非管理 26 口 $308 / 20 口（4 SFP+16 GE，AC）$662 / 24 口",
+   "url": "https://bluewarrior.com/product-category/layer-2-rack-un-managed-ethernet-switches/",
+   "date": "2026-10-21",
+   "saga": "STC-424DGGPM-280W（PoE 管理升级位）"
   }
  ],
  "channels": {
-  "网站": "https://optiviewusa.com/（登录看价，经销商制）",
-  "直邮": "purchasing@optiviewusa.com（用户表）；sales@optiviewusa.com；Stephen Lebowitz（Crunchbase）",
-  "电话": "904.805.1581"
+  "网站": "https://bluewarrior.com/（明码标价）",
+  "直邮": "sales@bluewarrior.com（用户表）"
  },
  "signals": [
-  "2026-06/07 仍在更新 OVPOE 产品页（8+4 管理型、24X-400）——自有品牌 PoE 线活跃（2026-10-21）",
-  "OVPOE16/24 仍为百兆 PoE 口——千兆升级是明确空位",
-  "用户表：S 重点，1 次实质回复，兴趣 VC/HDMI/FS/商业 PoE/光模块"
+  "用户表：几乎全线迈威贴牌——已有成熟中国 ODM 来源；对 Saga 是「第二来源 + Marvell 平台」机会",
+  "产品页更新至 2026-01-16——目录活跃；DIN 管理型 8+4 定价 $500 → Saga STI-288DGGPM EXW ≈ $152 @30%，价差空间大"
  ],
  "risks": [
-  "美国 CCTV 渠道强调 NDAA——交换机不在 NDAA 889 范围但客户可能要求非中资芯片表述（Marvell 是美国芯片，可用）",
-  "UL：机架 PoE 电源类客户可能要 UL 列名，Saga 只有 CE/FCC"
+  "UL Class 1 Div 2 宣称：Saga 无 UL，不能承接要求 UL 的型号",
+  "迈威为 Saga 同行，价格战风险"
  ],
  "saga_fit": {
-  "p1": "STC-424DGGPM-280W",
+  "p1": "STI-288DGGPM",
   "tier": 30,
-  "why": "OVPOE24-370-2GC（24×FE PoE）升级位 = STC-424DGGPM-280W（24 GE PoE + 4 SFP）；OVPOE8-125 对位 STC-28DGGPM；OVPOE8G-DR-SFP/12V-8+4 对位 STI-288DGGPM；贴 Optiview 标 30% 档"
+  "why": "DIN 8 PoE + 2 SFP 管理型是迈威线中最走量位，Saga STI-288DGGPM 可做 BW 贴牌二供；机架位 STC-424DGGPM-280W；30% 档"
  },
- "email_hook": "Your OVPOE24-370-2GC is still 10/100 on the PoE ports, so the Marvell-based 24-port gigabit PoE+ with 4 SFP uplinks in Optiview packing is the natural upgrade SKU and the one I am pricing first, alongside the 8-port unit that matches the OVPOE8-125.",
+ "email_hook": "For the DIN-rail 8-port PoE managed slot in the BW range, a Marvell-based second source in BlueWARRIOR packing with CE/FCC files is the unit I can quote today, and the 24-port rack PoE version follows the same logic.",
  "mail_review": {
   "binding": {
-   "level": "未绑定（采购员 2024-10-29 要 4/8 口工业 PoE 规格书 + 价格 → 给了资料 → 无下文；Elsa 箱：`to:optiviewusa.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 24 / 来 2）（第 74 批(g)））",
-   "type": "美国 CCTV 批发商 + 自有品牌——第一档类型；Silvia Flores（Purchasing Agent）",
+   "level": "未绑定（一次询价：2024-05-28 要价 → Simon 140 USD STI-288DGGPM-2BT → 无回音；Elsa 箱：`to:bluewarrior.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 29 / 来 3）（第 74 批(g)））",
+   "type": "美国自有品牌工业以太网（BW 系列，官网明码标价；用户表判「几乎全线武汉迈威贴牌」）——第一档类型；**sales@bluewarrior.com 的自动回复 = Tom West / Thom Sherer / DYMEC 电话 → 与 SA-044 DYMEC 同一组织**",
    "sieve": "2",
-   "stop": "2024-10-30 Simon「Please see attached information」后无回；此后 20 封群发（含 US 关税期）无回；2026-07-20 起 silvia.flores@ 退信（人已不在），之后群发只到 purchasing@",
-   "revive": "其 PoE 交换机 SKU 换源；NDAA 不涉交换机但要说清芯片",
+   "stop": "2024-05-28 两句「Picture and description do not match」「What is the price?」→ Simon 140 USD → 无下文；白牌来源已固定（迈威），资料不严谨被一眼看出",
+   "revive": "与 DYMEC 合并处理：只发工业温度款 + 规格书图文一致",
    "lane": "US",
-   "cadence": "2024-06 → 2026-09 去信 24 封；最后来信 2024-10-29",
-   "evidence": "k=3967a837c3bedff6 / 7f7e16f255ec5fae / 54932716b5166fad"
+   "cadence": "2024-05 → 2026-09 去信 29 封；最后人工来信 2024-05-28",
+   "evidence": "k=b9f498bd4277c351 / 9a4567efd0384ac8 / 9a5fb90a606c4680 / 84ff2d24a5322ed7"
   },
-  "situation": "Optiview 采购 Silvia 2024-10-29 两封：要 4 口/8 口工业 PoE 的规格书、要两款价格。Simon 次日一封「see attached information」（价格是否在附件内不可考）。此后无回。",
-  "need": "4/8 口工业 PoE（CCTV 批发 SKU）。",
-  "breakpoint": "采购员要的是「规格 + 价格 + 交期」三件套，回复只给了附件；无跟进问题。",
+  "situation": "BlueWarrior 2024-05-28 回了两句话：图文不符、多少钱。Simon 报 STI-288DGGPM-2BT 140 USD（2 SFP + 8 PoE，L2+，240W，DI/DO/RS485），没有下文。2025-03 sales@bluewarrior.com 的自动回复署名 Tom West、转 Thom Sherer（DYMEC）——两家是同一组织，29 封群发等于对 DYMEC 重复发。",
+  "need": "同 DYMEC：工业温度 L2+/L3 DIN/机架（其零售价 BW7212G $500、BW3020G $662）。",
+  "breakpoint": "重复触达同一组织两套邮箱，且第一封资料图文不符——信任成本已付。",
   "saga_now": {
-   "p1": "STI-154GP（4 口）/ STI-288DGGPM 或非管理 8 口（按价格主表）",
+   "p1": "并入 SA-044 的那一封（STI-480XGGM $163.2 @30%）",
    "tier": 30,
-   "price": "按 30% 自有标档；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-06-25 $220（48 port managed switch）、2024-11-15 $300（Re: Industrial PoE Switch）、2025-08-27 $240（24 Port Fiber Switch）、2025-10-29 $280（10G Enterprise SFP Switch）、2026-09-08 $170（24 Port PoE Managed Switch）；**第 63 批基准统一（规则 ㉕）**：STI-154GP 列表价 $51.7 → 老表 $47（非管理工业线）；STI-288DGGPM $137.5 封顶保留；他 2026-09-08 收过 24 口 $170 群发——若谈到 STC-424XGGPM-280W 写 $180 并点明；群发里他已看到的价（续，第 66 批全量复核）：2026-07-20 $1500（24 Port 10G SFP+ Switch）；STI-154GP 文本价 $47（来源不明，任何价表无此数）→ $40.8（30% 档，主表；列表价 51.7）",
-   "why": "J2：补一封三件套。已打开的主题（2/24 封有打开记录）：「Re: Industrial PoE Switch」(2024-10-30)、「24 Port 10G SFP+ Switch」(2026-07-20) → 读者兴趣偏「工业」；与 P1 同类，继续｜已发资料（勿重发）：STI-244GP(2024-10-30)、STI-154GP(2024-10-30)、STI-288GP(2024-10-30)、Saga Software Function List-release 7.(2025-03-28)、Product Link_2026Q2(2026-03-02)；已发单据：Quotation(2024-10-30)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）",
+   "price": "同 SA-044；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-14 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-20 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-07 $280（10G Enterprise SFP Switch）",
+   "why": "去重。已打开的主题（4/29 封有打开记录）：「Industrial poe managed switch」(2024-05-28)、「Re: Industrial poe managed switch」(2024-05-28)、「Re: Industrial poe managed switch」(2024-07-01)、「10G L3 Managed Switch」(2026-05-29) → 读者兴趣偏「工业」；与 P1 同类，继续",
    "repeat": [],
    "gaps": [
-    "2024-10-30 附件是否含价格"
+    "BW7212G-4GF-8GT 对位的 Saga 型号与现价（2024 报 140 USD 的 STI-288DGGPM-2BT）"
    ]
   },
   "next_move": {
-   "when": "2026-11",
-   "channel": "S 邮箱 → purchasing@optiviewusa.com（silvia.flores@ 2026-07-20 已「Address not found」，先问接替的采购是谁）",
-   "action": "先一句话问 purchasing@ 现在谁接 Silvia 的工作；再给三件套一页：4 口 / 8 口价格、交期、FCC（第 76 批(b) 2026-10-25：audit_ab 硬错误修正：STI-154GP $47 → $40.8）",
-   "one_question": "For your private-label PoE line, is the 4-port or the 8-port DIN unit the volume SKU, and what landed cost do you need to switch source?"
+   "when": "不单独发；随 SA-044",
+   "channel": "—",
+   "action": "群发名单里 bluewarrior 与 dymec 合并为一户",
+   "one_question": ""
   },
   "facts": [
    {
-    "date": "2024-10-29",
+    "date": "2024-05-28",
     "dir": "来",
-    "who": "Silvia Flores（Purchasing Agent）",
-    "quote": "Could you please send me the specifications (data sheet) for both the 4-port and 8-port versions?",
-    "why": "规格",
-    "k": "3967a837c3bedff6"
+    "who": "sales@bluewarrior.com",
+    "quote": "Picture and description do not match",
+    "why": "资料问题",
+    "k": "b9f498bd4277c351"
    },
    {
-    "date": "2024-10-29",
+    "date": "2024-05-28",
     "dir": "来",
-    "who": "Silvia",
-    "quote": "Also, provide us with the prices for both models",
-    "why": "价格",
-    "k": "7f7e16f255ec5fae"
+    "who": "sales@bluewarrior.com",
+    "quote": "What is the price?",
+    "why": "询价",
+    "k": "9a4567efd0384ac8"
    },
    {
-    "date": "2024-10-30",
+    "date": "2024-05-28",
     "dir": "去",
     "who": "Simon",
-    "quote": "Please see attached information and let me know.",
-    "why": "回复后停",
-    "k": "54932716b5166fad"
+    "quote": "140usd/pc STI-288DGGPM-2BT 2*100M/1G/2.5G SFP+8*10/100/1000M PoE Marvell Chip, L2+ Managed… Din Rail, Redundant DC44V~57V",
+    "why": "报价",
+    "k": "9a5fb90a606c4680"
    },
    {
-    "date": "2026-07-20",
-    "dir": "内",
-    "who": "Gmail 退信（S 邮箱）",
-    "quote": "silvia.flores@optiviewusa.com 永久退信：** Address not found ** ** Address not found ** Your message wasn't delivered to silvia.flores@optiviewusa.com because t",
-    "why": "该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职",
-    "k": "gmail_s 2c8ed94835972a47"
+    "date": "2025-03-19",
+    "dir": "来",
+    "who": "sales@bluewarrior.com（自动回复）",
+    "quote": "Tom West Out of Office… Thom Sherer can be contacted at (713) 826-0739… Email: thom.sherer@dymec.com",
+    "why": "与 DYMEC 同组织的证据",
+    "k": "84ff2d24a5322ed7"
    }
   ],
-  "proof_gaps": [],
-  "draft_en": {
-   "subject": "4-port and 8-port industrial PoE — spec, price, lead time",
-   "body": "Hi, Silvia,\n\nIn October 2024 you asked for data sheets and prices for the 4-port and 8-port industrial PoE units and we sent the attachments without the three things a buyer actually needs in the body. Here they are:\n\n- STI-154GP: 4x GbE PoE + 1x SFP + 1x GbE uplink, 120 W, DIN, -40 to +75 C — $40.8 USD EXW\n- STI-288DGGPM: 8x GbE PoE + 2x SFP, L2+ managed, DIN, -40 to +75 C — $137.5 USD EXW\n(2026-10 price table, valid 15 days from this mail)\n- Lead time: 4-7 working days ex-works; private label (Optiview logo, model name, GUI) from 50 pcs.\n\nOne question: for your private-label PoE line, is the 4-port or the 8-port DIN unit the volume SKU, and what landed cost would make you switch source?\n\nThank you.\nSimon\nSaga Telecom - sagatele.com"
-  },
+  "proof_gaps": [
+   "两家的法律关系未在官网交叉印证"
+  ],
+  "draft_en": null,
   "as_of": "2026-10-24"
  }
 }

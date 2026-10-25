@@ -6,7 +6,7 @@
 
 - **BEST OFFER ≈ 列表价 −4%～−7%**（RMB 口径 −5.6% 左右）。这是 Simon 对「整线试样单」给的折让幅度——对别的客户的首单可以照此尺度，不必更多。
 - 列表 RMB = USD × 7.0（2024-10 汇率口径）；2026 Q3 Drive 版 Realtek 线 USD 列表价（`data/hrui_realtek_价格表_Drive2026Q3.csv`）与 2024-10 相比在 **−11%～+7%** 之间、多数 0～+4%（STC-24XGDGWE 降到 $40、STC-18XGDGPW 降到 $66），见末列。报价时以 2026 Q3 版为准，2024-10 这张只用来解释「为什么 PBA 的价比现行表低」。
-- 这条线是 HRUI（Realtek）代工，PBA 第 1 单标签印的是 HRUI 的 ZX 型号；ZX ↔ STC 对照见 `data/hrui_STC对照表.csv`。进价与毛利（≈16–17%，低于 Realtek 20% 底线）见 SA-171 研究档与《毛利复盘》。
+- 这条线是 HRUI（Realtek）代工，PBA 第 1 单标签印的是 HRUI 的 ZX 型号；ZX ↔ STC 对照见 `data/hrui_STC对照表.csv`。进价与毛利（≈16–17%，低于 Realtek 20% 底线）见 SA-080 研究档与《毛利复盘》。
 
 ## 表（USD EXW，2024-10-12）
 
@@ -40,6 +40,6 @@
 
 ## 关联
 
-- SA-171 PBA 研究档（`data/saga_clients/research/SA-171.json`）：第 1 单 21 台 ¥13,083、采购 HRUI ¥10,850；后续 5 单都从这张表挑型号复购。
+- SA-080 PBA 研究档（`data/saga_clients/research/SA-080.json`）：第 1 单 21 台 ¥13,083、采购 HRUI ¥10,850；后续 5 单都从这张表挑型号复购。
 - 口径 #16「多千兆铜口」：这条线有 2.5G/10G 铜口（Realtek），Marvell 线没有——客户点名 2.5G 铜口时报这条线并注明 Realtek。
 - `docs/reference/价格表_HRUI_三档加价_USD.md`：HRUI 2026-09-30 新进价对 Saga 现行列表价的隐含加价预警（自动生成，勿手改）。

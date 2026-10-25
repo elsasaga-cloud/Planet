@@ -2,44 +2,52 @@
  "code": "SB-638",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "在线（handsonsecurity.co.za，快照 2026-10-21）",
- "summary": "南非 Hands On Security（CCTV 方案与网店：家庭/商业/办公与工业安防；表内「比较多的外壳 有 Utepo 的 switch 销售平台」「可以多跟进一下」）；群发 8 次无回复。",
- "type": "CCTV 网店/安装商（南非，Utepo 在售）",
+ "website_status": "在线（opl-sfp.by，快照 2026-10-21）",
+ "summary": "白俄罗斯 OPATOV / OPL（opl-sfp.by 网店「Сетевые устройства OPL」：网络设备、跳线制作、电信网络建设服务；站内 SFP 363 / 10G 245 / 2.5G 164 / PoE 308，Ruijie；表内：阿里巴巴询盘 **Bypass 模块**；KP Igor Dashchinski（Director，dia@opatov.ru））；表内无跟进记录。",
+ "type": "网络设备网店 + 电信网络工程（白俄罗斯）",
  "size": "",
  "brands_seen": [
-  "Utepo"
+  "Ruijie"
  ],
  "evidence": [
   {
    "kind": "官网快照",
-   "claim": "官网标题：Hands On – Security；品类词 安防监控（CCTV / 门禁） / 无线 / WiFi",
-   "quote": "CCTV；Welcome To Hands On Security；Get Best CCTV Solutions For House；What We Provide；Individual CCTV Solution；Commercial CCTV System",
-   "url": "https://www.handsonsecurity.co.za/",
+   "claim": "官网标题：Сетевые устройства OPL；品类词 工业自动化 / OT 网络 / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "Интернет-магазин",
+   "url": "https://opl-sfp.by/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
    "claim": "表内兴趣/备注",
-   "quote": "比较多的外壳 有utepo的 switch 销售平台",
+   "quote": "Bypass模块 / from: 阿里巴巴询盘",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   },
   {
    "kind": "官网快照",
-   "claim": "Hands On 定位",
-   "quote": "Hands On – Security ; Individual CCTV Solution ; Commercial CCTV System ; Office & Industrial Security",
-   "url": "https://www.handsonsecurity.co.za/",
+   "claim": "OPL 网络设备网店：跳线制作、电信网络建设",
+   "quote": "Сетевые устройства OPL ; Изготовление патч-кордов ; Услуги по построению телекоммуникационных сетей",
+   "url": "https://opl-sfp.by/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "有 Utepo 的 switch",
-   "quote": "比较多的外壳 有utepo的 switch 销售平台",
+   "claim": "阿里巴巴询盘 Bypass 模块",
+   "quote": "Bypass模块；from: 阿里巴巴询盘",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Igor Dashchinski",
+   "title": "Director",
+   "email": "dia@opatov.ru",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
@@ -48,78 +56,79 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "南非",
-  "other": "官网 handsonsecurity.co.za，语言 en-US，快照状态 ok；角色判定来源：用户表"
+  "hq": "白俄罗斯",
+  "other": "官网 opl-sfp.by，语言 ru，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "CCTV 方案 / 网店（南非）"
+  "网络设备网店（SFP / PoE / 10G / 2.5G）",
+  "跳线制作 / 电信网络建设服务"
  ],
  "channels": {
-  "role": "CCTV 网店/安装商（南非，Utepo 在售）",
-  "region": "南非",
-  "contact": "info@handsonsecurity.co.za"
+  "role": "网络设备网店 + 电信网络工程（白俄罗斯）",
+  "region": "白俄罗斯",
+  "contact": "info@opatov.by、dia@opatov.ru"
  },
  "signals": [
-  "官网：Hands On – Security ; Get Best CCTV Solutions For House ; Commercial CCTV System ; Office & Industrial Security；kw camera 56 / cctv 25",
-  "表内：比较多的外壳 有 utepo 的 switch 销售平台；可以多跟进一下"
+  "官网：Изготовление патч-кордов；Услуги по построению телекоммуникационных сетей",
+  "站内 kw：sfp 363 / poe 308 / 10g 245 / 2.5g 164 / industrial 53",
+  "表内：阿里巴巴询盘 Bypass 模块；KP Igor Dashchinski / Director"
  ],
  "risks": [
-  "非主攻区（T5，南非）；现供 Utepo 等国内货价格基准低；8 次无回复，仅 info@"
+  "白俄罗斯：制裁/结算/物流通道受限，需经第三国；非主攻区（T5）",
+  "bypass 机型仅 SmartByte 原型号（4 SFP 版），无 2 SFP 版；MD 中已注明 SmartByte 型号",
+  "SFP 模块/10G 需求 Saga 无价目（Q-32）"
  ],
  "saga_fit": {
-  "p1": "STC-28DGGPM",
+  "p1": "LT-IS6312GP-4GX8GT-FBP",
   "tier": 20,
-  "why": "CCTV 配套 PoE（现 Utepo 等）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；工业 8 PoE + 2 SFP STI-288GP（$57.4）；非管理 4/8 PoE 位 HRUI（列表价，注明）"
+  "why": "阿里巴巴询盘为 Bypass → 唯一可直接报价的 bypass 机为 SmartByte 型号 LT-IS6312GP-4GX8GT-FBP（工业 4 SFP + 8 GE PoE 带 bypass，$186.5 @20%；**SmartByte 型号，Saga 暂无对应名**）；非 PoE 版 LT-IS6312G-4GX8GT-FBP（$172.2）"
  },
- "email_hook": "For the PoE switches you sell with CCTV systems, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and DIN-rail 8-PoE industrial units from single units, CE/RoHS, EXW USD — which PoE port count do your installer customers buy most?",
+ "email_hook": "Igor, following your enquiry on bypass switches: we supply an industrial managed 4-SFP + 8-GE model with hardware bypass (PoE and non-PoE versions, −40~75 °C) from small lots — is the bypass needed on the copper ports or on the fiber uplinks in your design?",
  "mail_review": {
   "binding": {
-   "level": "未触达（A/S 邮箱 18 封 2025→2026，无记录打开，0 回；收件 info@handsonsecurity.co.za；主题多为「Industrial PoE Switch、48 Port PoE Managed Switch」；Elsa 箱：`to:handsonsecurity.co.za` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 18 / 来 0）（第 74 批(n)））",
-   "type": "CCTV 网店/安装商（南非，Utepo 在售）",
-   "sieve": "1（只收到群发）",
-   "stop": "只打通用邮箱，无记录打开",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "南非 非主攻",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 18；用户表：「比较多的外壳 有utepo的 switch 销售平台」；研究档 risks：非主攻区（T5，南非）；现供 Utepo 等国内货价格基准低；8 次无回复，仅 info@"
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「Bypass模块 / from: 阿里巴巴询盘」；Elsa 箱：`to:opl-sfp.by OR to:opatov.by` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(k)））",
+   "type": "网络设备网店 + 电信网络工程（白俄罗斯）",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+   "lane": "白俄罗斯（欧洲全域主攻）",
+   "cadence": "首封后看打开",
+   "evidence": "gmail_digest：out 0；用户表：「Bypass模块 / from: 阿里巴巴询盘」；研究档 risks：白俄罗斯：制裁/结算/物流通道受限，需经第三国；非主攻区（T5）"
   },
-  "situation": "南非 Hands On Security（CCTV 方案与网店：家庭/商业/办公与工业安防；表内「比较多的外壳 有 Utepo 的 switch 销售平台」「可以多跟进一下」）；群发 8 次无回复。",
-  "need": "CCTV 配套 PoE（现 Utepo 等）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；工业 8 PoE + 2 SFP STI-288GP（$57.4）；非管理 4/8 PoE 位 HRUI（列表价，注明）",
-  "breakpoint": "非主攻区（T5，南非）；现供 Utepo 等国内货价格基准低；8 次无回复，仅 info@",
+  "situation": "白俄罗斯 OPATOV / OPL（opl-sfp.by 网店「Сетевые устройства OPL」：网络设备、跳线制作、电信网络建设服务；站内 SFP 363 / 10G 245 / 2.5G 164 / PoE 308，Ruijie；表内：阿里巴巴询盘 **Bypass 模块**；KP Igor Dashchinski（Director，dia@opatov.ru））；表内无跟进记录。",
+  "need": "阿里巴巴询盘为 Bypass → 唯一可直接报价的 bypass 机为 SmartByte 型号 LT-IS6312GP-4GX8GT-FBP（工业 4 SFP + 8 GE PoE 带 bypass，$186.5 @20%；**SmartByte 型号，Saga 暂无对应名**）；非 PoE 版 LT-IS6312G-4GX8GT-FBP（$172.2）",
+  "breakpoint": "白俄罗斯：制裁/结算/物流通道受限，需经第三国；非主攻区（T5）",
   "saga_now": {
-   "p1": "STC-28DGGPM",
+   "p1": "LT-IS6312GP-4GX8GT-FBP",
    "tier": 20,
-   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-06 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-03-21 $300（48 Port PoE Managed Switch）、2025-10-01 $280（10G Enterprise SFP Switch）",
-   "why": "CCTV 配套 PoE（现 Utepo 等）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；工业 8 PoE + 2 SFP STI-288GP（$57.4）；非管理 4/8 PoE 位 HRUI（列表价，注明）",
+   "price": "首触锚价 LT-IS6312GP-4GX8GT-FBP $186.5 EXW（主表档位（Saga 暂无对应型号；信里不写 SmartByte 型号）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
+   "why": "阿里巴巴询盘为 Bypass → 唯一可直接报价的 bypass 机为 SmartByte 型号 LT-IS6312GP-4GX8GT-FBP（工业 4 SFP + 8 GE PoE 带 bypass，$186.5 @20%；**SmartByte 型号，Saga 暂无对应名**）；非 PoE 版 LT-IS6312G-4GX8GT-FBP（$172.2）",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开",
-   "one_question": "For the PoE switches you sell with CCTV systems, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and DIN-rail 8-PoE industrial units from single units, CE/RoHS, EXW USD — which PoE port count do your installer customers buy most?"
+   "when": "待 Simon 排期（首封）",
+   "channel": "A 邮箱 → dia@opatov.ru（Igor Dashchinski）",
+   "action": "首封：按 email_hook 一问（第 75 批(l) 2026-10-25：英文信稿已写 `draft_en`；bypass 整机为 SmartByte 型号，信稿只描述不写型号）（第 76 批(c) 2026-10-25：audit_ab 软项修正：证书口径 CE/RoHS → CE/RoHS (EAC stays on your side)）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
+   "one_question": "Igor, following your enquiry on bypass switches: we supply an industrial managed 4-SFP + 8-GE model with hardware bypass (PoE and non-PoE versions, −40~75 °C) from small lots — is the bypass needed on the copper ports or on the fiber uplinks in your design? Reference: the bypass unit at $186.5 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
-   {
-    "date": "2026-10-02",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "Industrial PoE Switch、48 Port PoE Managed Switch",
-    "why": "18 封 / 0 次打开 / 0 回｜首封 2025-01-30 → 末封 2026-10-02（18 去 / 0 来）",
-    "k": "gmail_digest"
-   },
    {
     "date": "2026-10-21",
     "dir": "用户表",
     "who": "Simon",
-    "quote": "比较多的外壳 有utepo的 switch 销售平台",
+    "quote": "Bypass模块 / from: 阿里巴巴询盘",
     "why": "表内备注",
     "k": "用户表"
    }
   ],
-  "proof_gaps": [],
-  "draft_en": null,
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": {
+   "subject": "Your bypass-switch enquiry on Alibaba - industrial managed unit with hardware bypass",
+   "body": "Hi Igor,\n\nYou asked on Alibaba about bypass modules and did not get a proper answer from us - apologies, here it is.\n\nWe do not sell the bypass module on its own; we supply it built into an industrial switch: DIN-rail L2+ managed, 8 x Gigabit RJ45 (PoE+ version) + 4 x SFP, hardware optical bypass on the fibre uplinks, -40 to 75 C, CE/RoHS (EAC stays on your side) - $186.5 USD EXW (MOQ 1, 15-day validity); the non-PoE version - $172.2. Alongside it, the regular DIN-rail 8 x Gigabit + 2 x SFP L2 managed unit, STI-280GM, $68.2.\n\nOne question: is the bypass needed on the copper ports or on the fibre uplinks in your design?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+  },
   "as_of": "2026-10-24"
  }
 }

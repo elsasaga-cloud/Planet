@@ -1,209 +1,145 @@
-# SA-029 allnet.de · home · https://www.allnet.de/de/allnet-brand/ · fetched 2026-10-25T07:41:18Z · HTTP 200
-ALLNET GmbH -ALLNET Produktwelt
-Tel.: +49 (0)89 / 89422222
-Bitte wählen Sie Ihr Land:
-Sprache wählen
-en
-de
-es
-fr
-hu
-Wir sind Entwickler und Hersteller moderner Netzwerk- und Kommunikationstechnologie und viele innovative Produkte aus den Bereichen, Netzwerk, Storage, Security und Home Automation werden in unseren eigenen Labors konzipiert und in zahlreichen europäischen Ländern vertrieben.
-Kontakt
-WhatsApp
-Und so funktioniert´s:
-Einfach einen neuen Kontakt im Smartphone anlegen unter der Nummer 089 894 2220 und dem Namen ALLNET.
-In Whatsapp nach ALLNET suchen und ab sofort mit uns chatten!
-Toggle navigation
-Produkte ALLNET Neuheiten
-19" Gehäuse & Schränke 10" Wandgehäuse 4/6/9 HE
-10" Zubehör
-19" Wandwinkel
-19" Wandgehäuse 3 HE
-19" Wandgehäuse 4 HE
-19" Wandgehäuse 5 HE
-19" Wandgehäuse 6 HE
-19" Wandgehäuse 9 HE
-19" Wandgehäuse 12 HE
-19" Wandgehäuse 15 HE
-19" Wandgehäuse 18 HE
-19" Wandgehäuse 22 HE
-19" Wandgehäuse 27 HE
-19" Grundgestell 12,22, 32 und 42 Höheneinheiten
-19" Standschränke 12HE
-19" Standschränke 22HE
-19" Standschränke 32HE
-19" Standschränke 42HE
-19" Standschränke Zubehör
-19" Zubehör
-Displays/Digital Signage High Performance Displays RK3588
-ALLSIGNAGE - Digitales Marketing aus der Cloud
-Medizinische Tablets
-Meetingraum Tablet
-Android PoE Tablets
-Intel X86 ALL-IN-ONE
-Kiosk Boards
-DIN-Rail/Hutschienen-PC´s
-ALLNET 4duino - Arduino™ Sets
-Desktop Virtualisierung
-Messen, Steuern, Regeln über IP Die Basis - Zentralen & Gateways
-IP Powermeter
-Steuerbare IP-Steckdosen, Relais
-CO2 Smart-Ampel / CO2-Luftampel
-IP-basierte RGBW-Signalleuchte mit Buzzer
-Zubehör - Sensoren / Aktoren
-Softwaremodule
-DIY-Maker-Home-Automation
-FAQ - Häufig gestellte Fragen zu Home-Automation
-Industrie Produkte Switche
-Medienkonverter
-Mini-GBICs
-PoE Injektoren
-Power Booster 24V to 48~55V
-LED
-Medienkonverter & GBICS SFPs & Mini-GBIC Module
-Point to Point - Netzwerk über 2 Drähte
-Netzwerk über Coax-Kabel - Point to Point
-Mobilfunk (3G / 4G LTE / 5G) GSM-Antennen
-GSM Antennen-Zubehör
-xDSL Modems & Router & xPONs ADSL2+ Modems nach Annex B / J
-VDSL2 Modem / Router
-Supervectoring 35 Bridge Modems
-G.fast
-VPN
-Wireless Router mit integriertem Modem
-xPON - Passive Optical Network
-OpenWrt Routers
-Powerline 1200 Mbit Powerline Adapter SmartLink
-500Mbit Powerline Adapter
-Powerline Zubehör
-Power over Ethernet (PoE) LT PoE 90W
-PoE Midspan/Injektor
-PoE Switches
-PoE Splitter
-PoE Powered Switche (PD)
-PoE Medienkonverter
-PoE Repeater
-LT PoE 90W
-PoE PowerBooster DC-DC Konverter
-PoE Displays
-PoE Lampe
-PoE Überspannungschutz
-Punkt-zu-Punkt Verbindung G.fast Modems & Point to Point
-G.hn - LAN over 2-wire and coaxial
-EOC - Netzwerk über Coax Kabel
-VDSL2 - Netzwerk über 2 Drähte - Point to Point
-PoE über 2 Drähte
-Server Plattformen
-Switches & Netzwerkkarten SoHo Line - Layer2 / Smart Managed & Unamanged
-Professional Line - Smart Managed 19" / Rackmount Core Switche
-Professional Line - Layer2+ / Full Managed Switche
-Industrie Switche
-Outdoor Switche
-Netzwerkverteiler direkt im Schaltschrank
-PD Switche
-SFP / Mini-GBIC Module
-Netzwerkkarten PC/Server
-TP Überspannungsschutz
-USB Adapter Netzwerkadapter
-Network Splitter/Switch
-Bluetooth USB Adapter
-USB Konverter/Module/Schnittstellenkarten
-Serial Device Server Serial Device Server
-USVs / Powerbanks / Netzteile Smarte Powerbanks
-USV Systeme
-TP Überspannungschutz
-ALLNET USB Power Supply QC/PD/GaN Technologie
-Videoüberwachung Bullet-Type
-Fix-Domes
-PTZ Kameras
-Allgemeines Zubehör
-WLAN Wireless Controller & AP
-Wireless Router
-Access Points & Bridges Consumer INDOOR
-Access Points & Bridges Business INDOOR
-Access Points OUTDOOR
-Wireless Clients - WLAN-zu-LAN-Adapter
-Wireless Adapter
-Hotspot Gateway
-Punkt zu Punkt Bundles
-Antennen
-Zubehör
-TP surge protection
-Lösungen Technologie Lösungen ALL-IP Umstellung
-PoE
-PoE PD
-Powerline
-G.hn
-VDSL2
-IEEE 1588 Zeit-Syncronisation
-DHCP Snooping
-VLAN-Virtual Local Area Network
-Dynamic ARP Inspection
-Komplett Lösungen WLAN
-Punkt-zu-Punkt Verbindungen
-PoE PD Repeater
-PoE Injektoren und Splitter
-PoE Switche und Router
-Kombinierte Automation
-Videoüberwachung
-Gebäude Automation
-Arbeitsplatz der Zukunft
-Zeiterfassung
-News News
-Awards
-Kataloge ALLNET Kataloge
-ALLDAQ Kataloge
-Synergy21 Kataloge
-Presse
-Kataloge
-Support Service Portal
-Downloads Suche
-GPL Sourcecode
-FAQ - Downloads
-Installation
-Partner Partner finden
-Partnerprogramm
-Training
-Unternehmen Karriere
-Philosophie
-Events
-Weltweit
-Meilensteine
-AGB
-Datenschutz
-Impressum
-Kontakt
-Brand News
-Events
-10. - 13.11.26, Halle A4, Stand 149, Messe München
-27. - 29.10.26, Halle 6, 6-432, Messe Nürnberg
-Lösungen
-WLAN Internet immer und überall! Wir ermöglichen Ihnen diesen Wunsch mit den ALLNET WLAN Lösungen.
-PoE Strom und Daten über ein Netzwerkkabel: Das ist die ALLNET PoE Lösung!
-Videoüberwachung Überwachung von Stadien, Zufahrten, Flughäfen, Supermärkten und mehr.
-Gebäudesteuerung Messen, steuern, regeln: All das ist möglich mit der ALLENT Gebäude Automation.
-Arbeitsplatz 4.0 Die Zukunftvision wird mit ALLNET Realität.
-Powerline Netzwerk Verkabelung nicht möglich? Nutzen Sie einfach die vorhandene Stromleitung zur Datenübertragung mit Hilfe von unseren Powerline Produkten.
-VDSL2 Mit der ALLNET VDSL Lösung können Sie eine Internetanbindung ermöglichen, selbst wenn keine Möglichkeit besteht, Netzwerkkabel zu verlegen.
-G.hn Die nächste Generation der Heimnetzwerktechnologie heißt G.hn und wir erklären Ihnen, wie alles funktioniert.
-Unternehmen
-Weltweit Hier finden Sie alle ALLNET Brands, weltweite Büros und Logistikzentren mit den wichtigsten Kontakt Informationen.
-Meilensteine Seit der Gründung von ALLNET im Jahr 1991 hat sich sehr viel verändert. Hier können Sie alles darüber lesen.
-Philosophie Unsere Werte, Ziele und Überzeugungen - zusammengefasst für Sie.
-Karriere Sie wollen ein Teil von ALLNET werden? Wir bieten immer interessante Stellen, sowie Ausbildungen an und freuen uns auf Ihre Bewerbung.
-Partner
-Partner finden Sie sind Endkunde oder Reseller und möchten unsere Produkte finden? Hier finden zertifizierte Fachhändler, Online Shops und Distributoren.
-Schulungen In unserem Schulungszentrum in Allershausen bieten wir Zertifizierungen, Workshops, Online Seminare und Schulungen an.
-Partnerprogramm Werden Sie Teil unseres Netzwerks und profitieren Sie von unserem Partnerprogramm.
-Paint your network blue!
-ALLNET - der Brand für innovative IT-Produkte
-Unter unserer Marke ALLNET ist es unsere Zielsetzung, Produkte zu entwickeln und herzustellen, die mehr als nur State-of-the-Art sind...
-Wir sind Entwickler und Hersteller moderner Netzwerk- und Kommunikationstechnologie und viele innovative Produkte aus den Bereichen, Netzwerk, Storage, Security und Gebäude-Automation werden in unseren eigenen Labors konzipiert und in zahlreichen europäischen Ländern vertrieben.
-Von Anfang an war es unser Bestreben kunden- und anforderungsgerechte Produkte nah und schnell am Markt zu etablieren. Bis heute wird dies vom Rest des Marktes nicht gewährleistet. Durch Flexibilität, Schnelligkeit und Innovationskraft entwickelt ALLNET eigene Lösungen, Produkte und Geschäftsmodelle, die die Marktanforderungen von heute und morgen erfüllen.
-Support
-Support Wir helfen Ihnen.
-Downloads Suchen Sie einfach nach der Hersteller Nummer und schon finden Sie Handbücher, Treiber und Firmware für viele ALLNET Produkte.
-FAQ Die Knowledgebase der ALLNET Produkte!
-GPL Sourcecode Lizenzen, Garantien und Geschäftsbedingungen.
-Startseite Shop Kontakt Impressum AGB Datenschutz WEEE: DE13101093
+# SA-029 gtwave.co.kr · home · https://gtwave.co.kr/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+GTWAVE Co.,Ltd
+MENU
+ABOUT US
+Overview
+Philosophy
+Certification
+Specificity
+Location
+PRODUCTS
+PoE Switch
+- Non-Managed PoE
+- Managed(intelligent) PoE
+- Lite Managed PoE
+- industrial PoE
+- Bypass PoE
+- 4port PoE
+- 8port PoE
+- 16port PoE
+- 24port PoE
+- 48port PoE
+Network Switch
+- Managed(intelligent) Switch
+- Non-Managed Switch
+- Bypass Switch
+- industrial Switch
+- Fiber Opric Switch
+PoE Injector
+PoE Extender (repeater)
+SFP Module
+Wireless CCTV
+Wireless bridge - 11ac 1.7Gbps
+Wireless bridge 300Mbps
+WiFi 6 / Industrial AP
+Video Transmitter for Drone
+Nework Surge Protector
+Antenna
+Antenna Stand
+Auto-Recovery Principle
+INSTALLATION CASE
+Installation Case
+SUPPORT
+Download
+FAQ
+Notice
+KR ㅣ EN contact
+LANGUAGE
+Korean
+English
+ABOUT US
+Overview
+Philosophy
+Specificity
+Location
+PRODUCTS
+Wireless CCTV
+Wireless bridge - 11ac 1.7Gbps
+Wireless bridge 300Mbps
+WiFi 6 / Industrial AP
+Video Transmitter for Drone
+PoE Switch
+PoE Injector
+PoE Extender (repeater)
+Network Switch
+Nework Surge Protector
+Antenna
+Antenna Stand
+INSTALLATION CASE
+Installation Case
+CONTACT
+Inquiry
+Download
+FAQ
+Notice
+SNS
+Close
+방문해 주셔서 감사합니다.
+Close
+SEARCH
+검색어 입력 필수
+Close
+Intelligent PoE Switch / Outdoor AP /
+Public WiFi / Antenna / Wireless CCTV /
+Video Transmission for Drones
+MORE >
+GT WAVE is an innovative company that seeks to impress customers
+MORE >
+GT WAVE is an innovative company that seeks to impress customers
+MORE >
+GT WAVE
+INNOVATIVE ENTERPRISE
+A company that does its best for accountability and trust
+I will be a Global Innovation Leader who will reward your support and encouragement and expand globally.
+VIEW >
+OUR SERVICE
+Promising success in your business
+PRODUCTS
+Introducing GTWAVE products
+Wireless CCTV
+Wireless bridge - 11ac 1.7Gbps
+Wireless bridge 300Mbps
+WiFi 6 / Industrial AP
+Video Transmitter for Drone
+PoE Switch
+PoE Injector
+PoE Extender (repeater)
+Network Switch
+Nework Surge Protector
+Antenna
+Antenna Stand
+CUSTOMERS
+Customer support
+Contact
++82-31-707-4670
+Location >
+DOWNLOAD
+VIEW >
+INSTALLATION CASE
+VIEW >
+NOTICE
+VIEW >
+INQUIRY
+VIEW >
+Privacy Policy
+No-email
+GTWAVE Co.LTD
+13511 #804-2, 723, Pangyo-ro, Bundang-gu, Seongnam-si 804-2
+T. 031-707-4670 | F. 02-6008-5366 | E-mail : master@gtwave.co.kr
+Copyright ©GTWAVE Co.LTD. All Rights Reserved.
+×
+전체 게시판 검색
+검색어 입력 필수
+검색
+×
+사용후기 작성하기
+닫기
+×
+상품문의 작성하기
+닫기
+×
+쿠폰 내역
+닫기
+×
+투표 결과 보기
+닫기

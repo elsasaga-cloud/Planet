@@ -1,145 +1,189 @@
-# SA-044 gtwave.co.kr · home · https://gtwave.co.kr/ · fetched 2026-10-25T07:41:18Z · HTTP 200
-GTWAVE Co.,Ltd
-MENU
-ABOUT US
-Overview
-Philosophy
-Certification
-Specificity
-Location
-PRODUCTS
-PoE Switch
-- Non-Managed PoE
-- Managed(intelligent) PoE
-- Lite Managed PoE
-- industrial PoE
-- Bypass PoE
-- 4port PoE
-- 8port PoE
-- 16port PoE
-- 24port PoE
-- 48port PoE
-Network Switch
-- Managed(intelligent) Switch
-- Non-Managed Switch
-- Bypass Switch
-- industrial Switch
-- Fiber Opric Switch
-PoE Injector
-PoE Extender (repeater)
-SFP Module
-Wireless CCTV
-Wireless bridge - 11ac 1.7Gbps
-Wireless bridge 300Mbps
-WiFi 6 / Industrial AP
-Video Transmitter for Drone
-Nework Surge Protector
-Antenna
-Antenna Stand
-Auto-Recovery Principle
-INSTALLATION CASE
-Installation Case
-SUPPORT
-Download
-FAQ
-Notice
-KR ㅣ EN contact
-LANGUAGE
-Korean
-English
-ABOUT US
-Overview
-Philosophy
-Specificity
-Location
-PRODUCTS
-Wireless CCTV
-Wireless bridge - 11ac 1.7Gbps
-Wireless bridge 300Mbps
-WiFi 6 / Industrial AP
-Video Transmitter for Drone
-PoE Switch
-PoE Injector
-PoE Extender (repeater)
-Network Switch
-Nework Surge Protector
-Antenna
-Antenna Stand
-INSTALLATION CASE
-Installation Case
-CONTACT
-Inquiry
-Download
-FAQ
-Notice
-SNS
-Close
-방문해 주셔서 감사합니다.
-Close
-SEARCH
-검색어 입력 필수
-Close
-Intelligent PoE Switch / Outdoor AP /
-Public WiFi / Antenna / Wireless CCTV /
-Video Transmission for Drones
-MORE >
-GT WAVE is an innovative company that seeks to impress customers
-MORE >
-GT WAVE is an innovative company that seeks to impress customers
-MORE >
-GT WAVE
-INNOVATIVE ENTERPRISE
-A company that does its best for accountability and trust
-I will be a Global Innovation Leader who will reward your support and encouragement and expand globally.
-VIEW >
-OUR SERVICE
-Promising success in your business
-PRODUCTS
-Introducing GTWAVE products
-Wireless CCTV
-Wireless bridge - 11ac 1.7Gbps
-Wireless bridge 300Mbps
-WiFi 6 / Industrial AP
-Video Transmitter for Drone
-PoE Switch
-PoE Injector
-PoE Extender (repeater)
-Network Switch
-Nework Surge Protector
-Antenna
-Antenna Stand
-CUSTOMERS
-Customer support
-Contact
-+82-31-707-4670
-Location >
-DOWNLOAD
-VIEW >
-INSTALLATION CASE
-VIEW >
-NOTICE
-VIEW >
-INQUIRY
-VIEW >
-Privacy Policy
-No-email
-GTWAVE Co.LTD
-13511 #804-2, 723, Pangyo-ro, Bundang-gu, Seongnam-si 804-2
-T. 031-707-4670 | F. 02-6008-5366 | E-mail : master@gtwave.co.kr
-Copyright ©GTWAVE Co.LTD. All Rights Reserved.
-×
-전체 게시판 검색
-검색어 입력 필수
-검색
-×
-사용후기 작성하기
-닫기
-×
-상품문의 작성하기
-닫기
-×
-쿠폰 내역
-닫기
-×
-투표 결과 보기
-닫기
+# SA-044 dymec.com · home · https://www.dymec.com/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+Industrial Ethernet Solutions | Secure Networks | Rugged Ethernet | Dymec
+Products
+TraffiClair AI Traffic Detection and Optimization System
+Economy Switches
+3170® Industrial Ethernet Switches
+DIN-Rail & Rack Layer 2 Switches
+DIN-Rail & Rack Layer 3 Switches/Routers
+Un-managed MISC Products
+EN50155 Switches
+IEC61850-3 Layer 2 & Layer 3 Switches
+SFP Fiber Optic Modules
+Power Supplies
+DYMEC® Serial Links / Media Converters
+Optical Star Series for SCADA Installations
+Fiber Patch Cables
+System Cabling
+Ethernet Embedded Modules
+Sales Specials
+All Products
+Industries
+All Industries
+Key Solutions
+Intelligent Transportation Systems (ITS)
+Smart Cities Connectivity
+Power Substation
+Industrial SCADA
+Water & Waste Treatment
+Transportation & Railway
+Factory & Building Automation
+Security
+Telecommunications
+Support
+Resources
+Customer Service
+RMA Service Request
+Software
+Government Contracts
+Terms & Conditions
+Warranty Policy
+BABA Compliance
+Partners
+Partner Program
+Become A Partner
+Trade-In Sales Offers
+About
+About The Company
+Recent News
+Join Newsletter
+Contact Us
+Products
+TraffiClair AI Traffic Detection and Optimization System
+Economy Switches
+3170® Industrial Ethernet Switches
+DIN-Rail & Rack Layer 2 Switches
+DIN-Rail & Rack Layer 3 Switches/Routers
+Un-managed MISC Products
+EN50155 Switches
+IEC61850-3 Layer 2 & Layer 3 Switches
+SFP Fiber Optic Modules
+Power Supplies
+DYMEC® Serial Links / Media Converters
+Optical Star Series for SCADA Installations
+Fiber Patch Cables
+System Cabling
+Ethernet Embedded Modules
+Sales Specials
+All Products
+Industries
+All Industries
+Key Solutions
+Intelligent Transportation Systems (ITS)
+Smart Cities Connectivity
+Power Substation
+Industrial SCADA
+Water & Waste Treatment
+Transportation & Railway
+Factory & Building Automation
+Security
+Telecommunications
+Support
+Resources
+Customer Service
+RMA Service Request
+Software
+Government Contracts
+Terms & Conditions
+Warranty Policy
+BABA Compliance
+Partners
+Partner Program
+Become A Partner
+Trade-In Sales Offers
+About
+About The Company
+Recent News
+Join Newsletter
+Contact Us
+Dymec®
+Network Solutions
+Providing Your Business with Products for the Industrial Internet of Things
+Shop Products Watch Video
+Explore DYMEC’s New TraffiClair A.I. Traffic Detection and Optimization System
+Product Catalog
+Request Quote
+sales@dymec.com
+(816) 988-7861
+Industrial Ethernet Products That Provide Savings, Safety, and Security
+At a time when the operational complexity of networks is growing exponentially, the need for adaptive and secure network solutions is more vital than ever. To meet this need, we’ve developed a broad line of industrial ethernet products as part of the DYMEC® Secure Network. These products make use of automation and autonomy to take the heavy lifting off of IT personnel, and offer a truly personalized experience for end users in a wide array of industries.
+DIN-Rail & Rack Layer 2 Industrial Ethernet Switches (36)
+3170® ITS Industrial Ethernet Switches (4)
+DIN-Rail & Rack Layer 3 Industrial Ethernet Switches/Routers (28)
+SHOP OUR PRODUCTS
+Download Dymec’s Product Selection Guide
+Download Now
+Rugged Performance for the Most Demanding Environments
+DYMEC’s industrial ethernet products are engineered to be hardened and flexible enough to operate in even the harshest conditions – without sacrificing performance.
+Hardened
+DYMEC’s rugged industrial ethernet switches deliver the performance you need even under rough industrial conditions, i.e. shock, vibration, and temperatures fluctuating between -40C and +85C. They are built to take the punishment in power generation and distribution, marine, rail, road and a wide range of transportation applications.
+Fiber-optic rail networks
+Factory and building automation
+Flexibility
+DYMEC offers dual redundant power inputs, EN50121-4 Railway Standards Certification, extended Mean Time Between Failure (certified), Altitude Certification to 5,000 Meters (GB4943.1-2011), IEC61850-3, and NEMA TS-2 Certification. DYMEC has the widest line of Gigabit and Ten Gigabit Switches in the industry.
+15, 30, 60, 95 Watt PoE+
+Meets IEEE802.3bt standard
+Input Power Options
+DYMEC Industrial Ethernet Switches allow for the maximum flexibility of power supplies. The DYMEC switches can be configured with wide-voltage power supplies from 12-48 Volts DC or 18-36 / 36-75 Volts DC and 90-264 Volts AC. DYMEC Industrial Ethernet Switches & Routers also support Super Booster Technology for Power over Ethernet.
+Perfect for solar battery systems
+Boost 12v/24v inputs to 48v DC
+Trusted by the Network Security Community
+We’re committed to building strong relationships with interested members of the network security community. By partnering with DYMEC, you’ll enjoy the many benefits and services we offer to help enhance your business, including dedicated marketing and sales support, product training and information, and powerful, easy-to-use product portfolios.
+Learn More
+DYMEC Industrial Ethernet – Automation, Power & Utility Distributors
+DYMEC® Protects Against the Full Range of Threats to Your Industrial Ethernet Network
+Only complete visibility into all network traffic and activity will keep your network security ahead of targeted attacks that bypass traditional controls, exploit network vulnerabilities, and ransom or steal sensitive data, communications, and intellectual property.
+The DYMEC NSA security solution provides best-of-breed security to protect against the full range of threats at wire speed anywhere on your network to protect your critical data and reputation. DYMEC’s NSA Certified Endpoint Switches and Routers lock out unwanted and unauthorized intruders – both internal and external, and include a locked console port and locked reset button, as well as a secure chassis. Download our NSA Recommendations PDF .
+Cyber-Lock Data Backup Units
+Encryption, Port Lockout, and NAT
+Cyber-Secure Video
+Access Control List Security Package
+IEEE802.1x / Radius / TACACs+ / SSL / SSH
+Cyber-Secure Clean Code Technology
+Real-World Ethernet Solutions
+Our industrial ethernet products have been utilized in a wide range of industry applications, and reliably serve as the backbone of the most complex network solutions. In addition, their rugged, temperature-hardened features allow them to be used in some of the harshest environments on the planet, with no sacrifice to reliability or security. Tour our portfolio of real-world solutions to learn more.
+Rural Telecom
+Driverless Innovia Monorail
+Secure Power Utility Solutions
+Smart Street Light Solutions
+Eagle Ford Shale Formation Oilfield
+Tejar Power Substation
+Wichita Traffic Control Systems
+Westchester Reservoir
+Eagle Ford Shale Formation Oilfield
+Tejar Power Substation
+Wichita Traffic Control Systems
+Westchester Reservoir
+Real-World Network Solutions
+Our industrial ethernet products have been utilized in a wide range of industry applications, and reliably serve as the backbone of the most complex network solutions. In addition, their rugged, temperature-hardened features allow them to be used in some of the harshest environments on the planet, with no sacrifice to reliability or security. Tour our portfolio of real-world solutions to learn more.
+Tour our portfolio of real-world network solutions to learn more:
+Solutions Industries
+Your path to the best network solution starts with Dymec.
+Get Started
+The Latest News From Dymec
+The Difference Between Industrial and Enterprise Ethernet - Industrial Ethernet requires specialty knowledge and practices, unlike Ethernet for home and office. If you are installing or operating an… Read More
+Evolution of Industrial Ethernet Networks – Layer 2 vs Layer 3 - The computer revolution continues to move on and present-day networks continue to expand into access networks and access protocols never… Read More
+We are Proudly Veteran Owned
+Founded, owned, and operated by veterans of the United States military, we have remained dedicated to several core values which allow us to succeed in our company’s mission, and fulfill our vision for the future.
+Our Story
+Request Quote
+BABA Compliance
+(816) 988-7861
+DYMEC® is Proudly Owned and Operated by Veterans of the United States Military
+Contact Us
+2243 N. Mason Rd, Suite 402, Katy, Texas 77449
+Phone: (816) 988-7861, (713) 826-0739
+E-Mail: sales@dymec.com
+Explore
+Home
+Industrial Ethernet Product Catalog
+Industries
+Support
+Partners
+About
+Join Our Newsletter
+© 2026 - Dymec® | All Rights Reserved
+Terms of Use | Privacy Policy | Return Policy
+Dymec has been awarded TIPS vendor contract 220105 .
+Fully Compliant with the California Consumer Privacy Act. We never disclose or sell customer information.
+Kansas City Web Designers

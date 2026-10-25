@@ -1,200 +1,212 @@
 {
  "code": "SB-003",
- "name_official": "Thor Fiber / Thor Broadcast（thorfiber.com · thorbroadcast.com；用户表名「DIGI Group」，联系人 Stan）",
- "researched_at": "2026-10-21",
- "website_status": "在线（thorbroadcast.com 为主站，thorfiber.com 同公司）",
- "summary": "美国加州 Torrance 的光纤传输/广播设备品牌商（2006 年起，LinkedIn 51–200 人），自有品牌销售光端机、以太网光纤延长器（F-GET-TRS-POE+ 千兆单纤 PoE+ 30W）、IP 二线延长器（H-IP-TP-TX/RX 500 m PoE）、机箱等——产品形态为 OEM 贴牌型。用户表：S 重点，2 次实质回复 + WhatsApp + 样品记录，22 次跟进。",
- "type": "",
- "size": "",
+ "name_official": "ООО «РИО-ИМПОРТ»（RIO Group, Krasnoyarsk）",
+ "website_status": "在线",
+ "summary": "俄罗斯克拉斯诺亚尔斯克工业自动化设备供应商，自称本地区最大的 АСУТП（工业控制系统）设备、机柜设备、电子元件供应商之一（2009 年注册 ОГРН 1092468006047）。用户表：成单客户，A 优质俄罗斯名单。（2026-10-24 并入曾用编号 旧B-1335：PI 包补录行 rio-popov@mail.ru / Igor Popov，同一公司）",
+ "type": "分销商/经销商（工业自动化）",
+ "size": "未见人数；地区性大型供应商（自述）",
  "brands_seen": [
-  "Thor Fiber（自有品牌）"
+  "Delta Electronics",
+  "Phoenix Contact"
  ],
  "evidence": [
   {
    "kind": "官网",
-   "claim": "延长器产品与 PoE 规格",
-   "quote": "F-GET-TRS-POE+A 10/100/100Base-T to 1000Base-FX Single Fiber / Side A -1310nm / PoE+ 802.3 /30W … 14 Slot Chassis available PN: F-Chassis -14",
-   "url": "https://thorbroadcast.com/product/10-100-1000-mbps-fast-and-gigabit-ethernet-over-1-fiber-media-8230.html",
+   "claim": "自述：克拉斯诺亚尔斯克地区 АСУТП 全系设备最大供应商之一",
+   "quote": "Группа компаний РИО — одна из крупнейших поставщиков в Красноярском регионе полного спектра оборудования для АСУТП, шкафного оборудования электронных компонентов.",
+   "url": "http://www.rio-krsk.ru/",
    "date": "2026-10-21"
   },
   {
    "kind": "官网",
-   "claim": "IP 二线延长器规格",
-   "quote": "Thor Fiber H-IP-TP-TX/RX is a high-performance IP over 2-Wire Copper Extender with PoE … PoE transmission up to 500 m (1,640 ft) … Delivers up to 30 W PoE … Input Power 48–57 VDC or PoE Input",
-   "url": "https://thorbroadcast.com/es/producto/ip-over-2-wire-copper-extender-with-poe.html",
+   "claim": "法人与注册号",
+   "quote": "Полное наименование: Общество с ограниченной ответственностью «РИО-ИМПОРТ» … ОГРН 1092468006047 · ИНН 2460214069",
+   "url": "https://www.rio-krsk.ru/company/requisites/",
    "date": "2026-10-21"
   },
   {
-   "kind": "LinkedIn",
-   "claim": "规模、地址、成立年",
-   "quote": "Thor Fiber specializes in manufacture of fiber optic transport equipment and Digital T.V. equipment … Company size: 51-200 employees Headquarters: Torrance, CA … Founded: 2009 … 2421 W 205th St. Torrance, CA 90501",
-   "url": "https://www.linkedin.com/company/thor-fiber",
+   "kind": "官网",
+   "claim": "官网目录品牌与产品线（Delta、SUPU、Dinkle、Hongfa；PLC/HMI/变频/电源/连接器）",
+   "quote": "DELTA ELECTRONICS … SUPU ELECTRONICS … DINKLE ENTERPRISE … HONGFA … Преобразователи сигналов · Источники питания · ПЧ · УПП · Панели оператора · ПЛК · ТК · Сервоситемы",
+   "url": "http://www.rio-krsk.ru/",
    "date": "2026-10-21"
   },
   {
-   "kind": "用户表",
-   "claim": "S 重点；2 次实质回复、WhatsApp、样品记录；联系人 Stan（stan@thorfiber.com）",
-   "quote": "（用户表字段：实质回复 2 / WA / 样品 / 跟进 22）",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "kind": "官网",
+   "claim": "官网新闻介绍工业 PoE 交换机（Phoenix Contact 1000 系列）",
+   "quote": "Phoenix Contact дополняет свой ассортимент промышленных коммутаторов PoE новыми управляемыми и неуправляемыми коммутаторами … бюджету мощности PoE в 30 Вт на порт и наличию вариантов со стекловолоконными портами SFP",
+   "url": "http://www.rio-krsk.ru/info/news/prochnye-kommutatory-poe/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "电话与邮箱公开",
+   "quote": "(391) 291-14-24 rio-import2003@mail.ru",
+   "url": "http://www.rio-krsk.ru/contacts/",
    "date": "2026-10-21"
   }
  ],
  "kp": [
   {
-   "name": "Stan Sochur",
-   "role": "来信署名人（职务未在邮件署名里出现）",
-   "email": "stan@thorfiber.com",
-   "phone": "",
-   "source": "S/A 邮箱来信 2025-06-26 → 11-28 来信 3 封（显示名 Thor Fiber）（第 72 批从邮件表头补）"
+   "name": "—",
+   "role": "中央办公室",
+   "email": "rio-import2003@mail.ru",
+   "phone": "+7 (391) 291-14-24",
+   "source": "http://www.rio-krsk.ru/contacts/"
   }
  ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "A 级确认：工业自动化分销 + 成单；主推 STI 工业 DIN L2+ 系列（俄语区付款/物流由用户侧按现有通道）。",
+ "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网目录核对）"
+  "level": "深挖 v1"
  },
  "company_facts": {
-  "legal_name": "Thor Fiber（Thor Broadcast）",
-  "hq": "2421 W 205th St, Torrance, CA 90501, USA",
-  "founded": "2006（LinkedIn 记 2009）",
-  "size": "51–200（LinkedIn 自报）",
-  "other": "由广播工程师创立，主打光纤传输（L-band、头端、卫星电视）与以太网延长；产品页风格为贴牌目录（型号前缀 F-/H-），Markertek 等分销有售"
+  "legal_name": "ООО «РИО-ИМПОРТ»（RIO Group）",
+  "founded": "2009（ОГРН 1092468006047）",
+  "hq": "Krasnoyarsk, Russia",
+  "other": "自述克拉斯诺亚尔斯克地区最大的 АСУТП/机柜/电子元件供应商之一；官网目录品牌：Delta Electronics、SUPU、Dinkle、Hongfa、UPUN、Optimus Drive、WAIN"
  },
  "business_lines": [
-  "广播/头端光纤传输设备",
-  "以太网光纤 / 二线 延长器（含 PoE/PoE+）",
-  "光纤机箱与配件（14 槽机箱）"
+  "工业自动化元件分销（PLC、HMI、变频器、软启、伺服、温控、电源）",
+  "工业连接器（M8/M12/M17/M23/M40）与端子",
+  "信号转换器、继电器",
+  "工业 PoE 交换机（官网新闻介绍 Phoenix Contact PoE 1000 系列）"
  ],
  "products_seen": [
   {
-   "brand": "Thor Fiber",
-   "model": "F-GET-TRS-POE+A/B",
-   "spec": "10/100/1000T ↔ 1000Base-FX 单纤 A/B 端，PoE+ 802.3at 30W；14 槽机箱 F-Chassis-14",
-   "url": "https://thorbroadcast.com/product/10-100-1000-mbps-fast-and-gigabit-ethernet-over-1-fiber-media-8230.html",
+   "brand": "Phoenix Contact（官网新闻介绍）",
+   "model": "工业 PoE 1000 系列（非管理/管理）",
+   "spec": "全千兆、宽温、30W/口、SFP 变体；面向视频监控与楼宇/机器自动化",
+   "url": "http://www.rio-krsk.ru/info/news/prochnye-kommutatory-poe/",
    "date": "2026-10-21",
-   "saga": "STI-110GE（同类 MC）/ STC-28DGGPM（含 SFP 上联的 PoE 汇聚）"
+   "saga": "STI-288DGGPM"
   },
   {
-   "brand": "Thor Fiber",
-   "model": "H-IP-TP-TX/RX",
-   "spec": "IP over 2-wire 延长器，500 m，PoE 30W，物理层 240 Mbps / 实际 90 Mbps，48–57 VDC 或 PoE 供电",
-   "url": "https://thorbroadcast.com/es/producto/ip-over-2-wire-copper-extender-with-poe.html",
+   "brand": "Delta Electronics",
+   "model": "工业电源（DIN）",
+   "spec": "官网目录 Источники питания",
+   "url": "http://www.rio-krsk.ru/",
    "date": "2026-10-21",
-   "saga": "—（Saga 无同类；可配 STC-28DGGPM 作局端 PoE 源）"
+   "saga": "—（配套）"
   }
  ],
  "channels": {
-  "网站": "https://thorbroadcast.com/ · thorfiber.com",
-  "分销": "Markertek（brand/thor-fiber）",
-  "LinkedIn": "https://www.linkedin.com/company/thor-fiber"
+  "网站": "http://www.rio-krsk.ru/",
+  "电话": "(391) 291-14-24（官网）",
+  "直邮": "rio-import2003@mail.ru（官网）/ rio-2003@mail.ru / rio-pavel@mail.ru（用户表）",
+  "联系人": "Igor（成单，用户表）"
  },
  "signals": [
-  "贴牌型品牌商 + 已有样品/WA 互动（用户表）→ 适合以 Thor 标 OEM 切入 PoE 汇聚交换机（其目录缺 8/24 口管理 PoE）"
+  "官网目录以 Delta/SUPU/Dinkle 等中国台湾/大陆品牌为主——已习惯采购亚洲品牌（2026-10-21）",
+  "用户表：成单客户"
  ],
  "risks": [
-  "美国品牌商可能要求 UL 列名或 TAA 来源——Saga 仅 CE/RoHS/FCC，需在二封前问清（INH 规则：US 客户第二封前核 UL/TAA）"
+  "俄罗斯：结算（T/T 受限）、物流、制裁合规——只做民用工业自动化，不碰军工/铁路",
+  "俄语区非主攻，不额外投入"
  ],
  "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 30,
-  "why": "自有品牌 OEM：目录只有延长器/MC，缺 PoE 交换机——STC-28DGGPM（8 PoE+ + 2 SFP）与其 F-GET 光纤产品成套；中性/Thor 标，OEM 30% 档"
+  "p1": "STI-288DGGPM",
+  "tier": 20,
+  "why": "自动化柜内 DIN 导轨 PoE（替代其介绍的 Phoenix Contact 1000 系列位）：STI-288DGGPM / STI-144GP，分销 20% 档；配 Delta 电源无需 Saga 供电源"
  },
- "email_hook": "Your F-GET PoE+ fiber extenders pair naturally with an 8-port PoE+ 2-SFP managed switch in Thor packing; one question before I quote: does the switch need FCC only, or UL/TAA as well for your federal buyers?",
+ "email_hook": "For the DIN-rail PoE slot you cover with the Phoenix Contact 1000 series, the 8-port gigabit managed unit at distributor EXW is the one Igor's last order came from, so I am refreshing that price plus the 4+1 compact version.",
  "mail_review": {
   "binding": {
-   "level": "轻度绑定（3 封实质来信：2025-06-26 明确「We might be interesting to OEM those switches and add them to our offer and catalog」→ IGMP 是硬要求 → 2025-11-28 问 Booster OEM 价 → Simon 2025-12-01 报 STI-488XGGBPM $215；2026-01 CENTEC 核心 OEM 信后无回；Elsa 箱：`to:thorfiber.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 23 / 来 3）（第 74 批(h)））",
-   "type": "美国视频/广播光传输品牌商（Thor Fiber / Thor Broadcast；Stan = 产品负责人）——第一档 OEM 品牌商，video over IP 必须 IGMP",
-   "sieve": "3（两次问 OEM 价、一次技术门槛）",
-   "stop": "两处：① 2025-06 Stan 要「best OEM prices for all those models」，Simon 答「OEM 价等样品测试后再谈，大概 10% 折扣」——把 OEM 报价推后了；② 2025-12-01 报了 $215 后无回，2026-01 的 CENTEC 信也无回",
-   "revive": "一张「OEM 价格表」直接给（管理型 + IGMP Snooping/Querier 标注），不要再等样品",
-   "lane": "US 主攻；品牌商 OEM = 目标顺位第一",
-   "cadence": "现在一封 OEM 价表；之后季度",
-   "evidence": "k=809f837f36d8ac93（OEM 意向 + IGMP 问）；785f5e7be824e94b（OEM 价推后）；dc22cb3479825c92（IGMP mandatory）；2603220c608ffb88（IGMP 仅管理型）；92ccd99bae9b2cff（问 Booster 价）；822038afc07c951e（$215）；8806668f9e0f8399（CENTEC OEM 信）；第 19 批回补来信原文 1 条（gmail_s/gmail_a）"
+   "level": "轻度绑定（1 张样品单 2024-05-23：STI-050GE ×2 $24 + STI-080GE ×2 $31 = $110；PI 包标「gg」= 难复购；邮件 0 往来；Elsa 箱：`to:rio-krsk.ru` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(l)））",
+   "type": "克拉斯诺亚尔斯克工业自动化分销（РИО-ИМПОРТ，Igor Popov）——俄罗斯非主攻，收款路径特殊",
+   "sieve": "5（付样付款）",
+   "stop": "样品后 17 个月无下文（PI 包「gg」）",
+   "revive": "其对 STI-050GE/080GE 的复测结果；RU 收款通道",
+   "lane": "RU",
+   "cadence": "半年一句话（WhatsApp/邮件由 Simon 定）",
+   "evidence": "PI STSC20240523008（2024-05-23，Quotation.xls：STI-050GE 2×24、STI-080GE 2×31，Sample Testing）；出货照片 STI-050GE/080GE；成本统计 / 货款支付记录 / 运费 在 PI 包；曾用编号 旧B-1335（rio-popov@mail.ru）2026-10-24 并入"
   },
-  "situation": "Stan 两次开口都是「OEM 价格表」，Saga 两次都没有给整表：第一次推到样品后，第二次只报了一款。对一个做 video over IP 的品牌商，IGMP 是门槛而不是加分项，所以整表应只列管理型并标注 IGMP v2/v3 Snooping + Querier。",
-  "need": "OEM 品牌化的管理型工业 PoE（IGMP 必备）+ 光传输配套。",
-  "breakpoint": "OEM 价格表未给全。",
+  "situation": "2024-05 买了两款最小的工业非管理样机（5 口/8 口），之后无邮件、无复购；Simon 在 PI 包里标了「gg」。",
+  "need": "工业 DIN 非管理小口数（自动化分销）。",
+  "breakpoint": "样品后无反馈；俄罗斯付款/物流摩擦。",
   "saga_now": {
-   "p1": "STI-488XGGBPM / STI-288DGGPM / STI-42424XGGPM 管理型 OEM 价表",
-   "tier": 30,
-   "price": "按主表 OEM 30% 档；IGMP 标注；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-06-18 $65（10G fiber media converter）、2024-12-11 $300（48 Port PoE Managed Switch）、2025-01-06 $240（24 Port Fiber Switch）、2025-10-29 $280（10G Enterprise SFP Switch）、2026-07-20 $1500（24 Port 10G SFP+ Switch）、2026-09-08 $170（24 Port PoE Managed Switch）；**第 63 批基准统一（规则 ㉕）**：修掉「$137 EXW.5」「$423 EXW.5」排版错；三价均为列表价封顶（30% 档 $151.6 / $427.5 / $524.7 更高）",
-   "why": "品牌商 + 明确 OEM 意向 + 美国｜已发资料（勿重发）：Download Link_Simon(2025-06-26)、STI-488XGGBPM(2025-12-01)、Product Link_2026Q2(2026-03-02)、Saga Feature List_7.5.x_L2+(2026-06-22)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）",
-   "repeat": [],
+   "p1": "STI-050GE / STI-080GE（已测）→ STI-288DGGPM 管理型",
+   "tier": 20,
+   "price": "按现价表",
+   "why": "样品在其手上｜毛利复盘：一单 45.1%——高毛利一单客，不主动降价",
+   "repeat": [
+    "2024-05-23 唯一一单：STI-050GE + STI-080GE $1,140（Simon 利润 RMB 514；PI 复盘 #8，Simon 标 gg）"
+   ],
    "gaps": [
-    "Thor 目标量",
-    "品牌化范围（logo/固件 GUI/包装）"
+    "样品测试反馈从未记录"
    ]
   },
   "next_move": {
-   "when": "现在",
-   "channel": "S 邮箱 → stan@thorfiber.com",
-   "action": "发整表 + 问首批型号；附件：OEM 档价目（从三档表摘 STI-288DGGPM $137.5 / STI-42424XGGPM $423.5 L2+ · $517 L3 两行成一页，不发整表 PDF）",
-   "one_question": "Stan — here is the OEM price table for all managed industrial models with IGMP v2/v3 snooping + querier; which two SKUs would you want to brand first for the catalog?"
+   "when": "2027-Q1",
+   "channel": "Simon 原通道",
+   "action": "一句话问样机下落（第 75 批(am) 2026-10-25：英文信稿已写 `draft_en`；WhatsApp 一句话）",
+   "one_question": "The two STI-050GE/080GE samples from May 2024 — did they go into a project, and what stopped a second order?"
   },
   "facts": [
    {
-    "date": "2024-01-25",
+    "date": "2024-02-21",
     "dir": "来",
-    "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
-    "quote": "用户表跟进：推「发了工业收发器系列」→ 对方「发full info」",
+    "who": "用户表（Simon 跟进记录；渠道 Email）",
+    "quote": "用户表跟进：推「发了2光4小壳相关信息」→ 对方「想测样，价格 模块暂不确定单双纤」",
     "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
-    "k": "Clients/S 09.08.xlsx no.6 2024.1.25"
+    "k": "Clients/A/DONE/优质俄罗斯客户 2.9.xlsx no.7 2024.2.21"
    },
    {
-    "date": "2025-06-26",
+    "date": "2024-05-16",
     "dir": "来",
-    "who": "Stan Sochur",
-    "quote": "We might be interesting to OEM those switches and add them to our offer and catalog. Could you please email me best OEM prices for all those models… Do those switches support IGMP protocol?",
-    "why": "OEM 意向",
-    "k": "809f837f36d8ac93"
+    "who": "用户表（Simon 跟进记录；渠道 Email）",
+    "quote": "用户表跟进：推「发了2层2光8poE管理信息」→ 对方「成单电口设备」",
+    "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+    "k": "Clients/A/DONE/优质俄罗斯客户 2.9.xlsx no.7 2024.5.16"
    },
    {
-    "date": "2025-06-26",
+    "date": "2024-05-22",
     "dir": "去",
-    "who": "Simon",
-    "quote": "For OEM prices, maybe lets discuss this after sample testing? Probably a 10% discount",
-    "why": "OEM 价推后",
-    "k": "785f5e7be824e94b"
+    "who": "Simon → Igor Popov（Quotation，EXW Russia）",
+    "quote": "STI-050GE (5×GE, DIP, DC12~58V, -40~75℃, DIN, w/o PSU) 2 pcs × $24; STI-080GE (8×GE) 2 pcs × $31 = $110, \"Sample Testing\". Price validity 15 days; leadtime 4~7 working days; warranty 3 years; neutral device, non-brand packing.",
+    "why": "样品价锚：STI-050GE $24 / STI-080GE $31（2024-05，老汇率）；工业非管理 3 年保修口径的书面先例",
+    "k": "PI 包 `8_俄罗斯_Igor_gg/Quotation.xls`"
    },
    {
-    "date": "2025-06-28",
-    "dir": "来",
-    "who": "Stan",
-    "quote": "We species with video over IP , we must have IGMP protocol, it is mandatory.",
-    "why": "硬门槛",
-    "k": "dc22cb3479825c92"
+    "date": "2024-05-23",
+    "dir": "PI",
+    "who": "Simon → Igor Popov",
+    "quote": "STI-050GE … 2 pcs 24 USD; STI-080GE … 2 pcs 31 USD; Sample Testing",
+    "why": "样品单",
+    "k": "PI STSC20240523008"
    },
    {
-    "date": "2025-06-28",
-    "dir": "去",
-    "who": "Saga（Simon）",
-    "quote": "Hi, Stan, Thanks for your info. 1, IGMP protocol is a management feature, it is not available on unmanaged switches. 2, We have managed switches. You can see this in the downlink link file I shared with you. *Marvell Based Industrial Managed Switch* In the datasheet, there is IGMP info.…",
-    "why": "Saga 实质答复原文（主题「Re: Industrial PoE Switch」；第 20 批从 gmail_s 回补）——承诺/口径以此为准",
-    "k": "2603220c608ffb88"
+    "date": "2024-05-23",
+    "dir": "内",
+    "who": "Simon 成本表（PI 包）",
+    "quote": "内部《成本统计.xlsx》：STSC20240523008：成本 626 / 收款 1,140 / 利润 514（45.1%）",
+    "why": "利润率 = 利润÷收款；对照 20/25/30 加价 = 16.7%/20%/23% 毛利；详见 docs/成单客户_毛利复盘_内部_2026-10-24.md",
+    "k": "cost_sheet"
    },
    {
-    "date": "2025-11-28",
-    "dir": "来",
-    "who": "stan@thorfiber.com",
-    "quote": "Thank you for your email How much is that ? please email me the OEM prices - On Thu, Nov 27, 2025 at 6:37 AM Simon from Saga Telecom < s.sagatelecom@g",
-    "why": "来信原文（主题「Re: Booster PoE Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
-    "k": "92ccd99bae9b2cff"
+    "date": "2024-05-23",
+    "dir": "PI",
+    "who": "Simon → Igor Popov（PI STSC20240523008，**人民币结算**）",
+    "quote": "TOTAL RMB 1,140 = 货 780（4 台）+ \"Shipping Cost 360RMB for about 4Kg volume weight to Russia by Express door-to-door\"。",
+    "why": "这张 PI 是 RMB 不是 USD（旧B-1335 旧档写「USD 1,140」有误）；俄罗斯客户走人民币收款——与《EXW 对私收款模式》一致；成本表 45.1% 的利润里含 360 RMB 运费收入 vs 实付国内快递 28 RMB",
+    "k": "PI 包 `STSC20240523008.xls` + `成本统计.xlsx`"
    },
    {
-    "date": "2025-12-01",
-    "dir": "去",
-    "who": "Simon",
-    "quote": "STI-488XGGBPM 215usd/pc Industrial PoE Managed Switch 4*1G/2.5G/10G SFP+8*10/100/1000M RJ45/PoE… With internal power booster",
-    "why": "单款报价",
-    "k": "822038afc07c951e"
+    "date": "2024-05-25",
+    "dir": "内",
+    "who": "出货记录（PI 包《运费.jpg》京东快递面单）",
+    "quote": "寄件：惠州惠阳镇隆（供应商仓，谢广浓）→ 收件：义乌稠城 兴港小区 80 栋 799 库房「迪马 周军」，3.0 kg，基础运费 ¥28，2024-05-25 揽件。",
+    "why": "Igor 的物流线：**义乌俄货集运（迪马）**，不是广州货代——U28 两条物流线之外的第三种（俄罗斯客户自有集运点）；Saga 只付国内段 ¥28",
+    "k": "PI 包 `运费.jpg`（OCR）"
    }
   ],
-  "proof_gaps": [],
+  "proof_gaps": [
+   "无邮件往来（A/S 两箱 0 封）"
+  ],
   "draft_en": {
-   "subject": "OEM prices — managed industrial PoE with IGMP",
-   "body": "Hi, Stan,\n\nYou asked in June 2025 for OEM prices on the managed industrial PoE models (IGMP mandatory for your video-over-IP work). Here is the table, attached, for the models we discussed:\n\n- STI-488XGGBPM — 8x GbE PoE + 4x 1G/2.5G/10G SFP+, internal booster PSU — $215 USD EXW/pc (quoted 1 Dec 2025, re-confirmed today, valid 15 days)\n- STI-288DGGPM — 8x GbE PoE + 2x SFP, L2+ — $137.5 USD EXW (OEM tier on the sheet)\n- STI-42424XGGPM — 24x GbE PoE + 4x 10G SFP+, L2+/L3 — $423.5 (L2+) / $517 (L3) USD EXW (OEM tier on the sheet)\n\nAll three: IGMP v2/v3 snooping + querier, OEM logo/model name/web GUI, neutral packaging, MOQ 50 for branded units.\n\nOne question: which two SKUs do you want to brand first for the Thor catalog?\n\nThank you.\nSimon\nSaga Telecom - sagatele.com"
+   "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+   "body": "Igor, Simon from Saga Telecom (the STI-050GE / STI-080GE samples, May 2024). One question: did the two pairs go into a project, and what stopped a second order - price, a spec gap, or no project? If it is the Phoenix Contact 1000-series slot you cover, the 8-port Gigabit DIN unit is $32.5 USD EXW today and the 5-port $17.0, EAC on your side."
   },
   "as_of": "2026-10-24"
  }

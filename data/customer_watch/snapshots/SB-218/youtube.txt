@@ -1,16 +1,16 @@
-# SB-218 dodicelettronica.it · youtube · https://www.youtube.com/@dodicelettronica · fetched 2026-10-25T07:41:18Z · HTTP 200
-2022-09-30T08:31:14+00:00	La nostra nuova sede Dodic di Roma Sud!	https://www.youtube.com/watch?v=c1OpPEq7SbY
-2021-04-29T14:33:14+00:00	Uniview ColorHunter, una nuova era per la Videosorveglianza!	https://www.youtube.com/watch?v=SsIGxWPnIH0
-2020-05-15T15:54:30+00:00	Demo OET-213H Terminale Termometrico di controllo accessi UNV presso Dodic	https://www.youtube.com/watch?v=3Mqj1xL1UeA
-2020-04-30T10:52:45+00:00	OET-213H-BTS1 - Funzionamento	https://www.youtube.com/watch?v=4l1yO2Cz_KA
-2020-04-28T14:00:39+00:00	ZKTeco Touchless Biometrics Solutions with Body Temperature Detection	https://www.youtube.com/watch?v=K_mkwmkxqE4
-2020-04-23T14:46:11+00:00	Touchless Biometrics Solution with Body Temperature Crowd Control and Masked Individual Recognition	https://www.youtube.com/watch?v=0OJx_0jNVxQ
-2020-04-23T14:45:04+00:00	ZKTeco's Body Temperature Crowd Control Product Series	https://www.youtube.com/watch?v=Hal28lRL0B4
-2020-04-23T14:43:53+00:00	Hikvision Temperature Screening Solutions	https://www.youtube.com/watch?v=RRhUXYDcv7Q
-2020-04-23T14:42:26+00:00	Safer, Faster, Smarter Hikvision Temperature Screening Thermal Solutions	https://www.youtube.com/watch?v=THRT1JkLABc
-2020-04-23T14:40:19+00:00	CW180 Temperature Measurement Kit （Italian）	https://www.youtube.com/shorts/wXUeasPfm2g
-2020-04-23T14:37:52+00:00	Face Recognition Terminal with Temperature Measurement Module Italian）	https://www.youtube.com/shorts/6UTEuutEKIk
-2020-04-23T14:36:35+00:00	Heat Tracker Series Successful Cases Italian Verison	https://www.youtube.com/watch?v=ay18qnCcvl0
-2020-04-23T14:34:28+00:00	UNV Heat Tracker Series Products and Solution in Chinese National Level Museums Italian Version	https://www.youtube.com/shorts/fg32gtKGuSY
-2020-04-23T14:32:31+00:00	The pandemic prevention solution for hospitals ITALIAN	https://www.youtube.com/watch?v=KtfAYVP3LMk
-2020-04-23T14:31:25+00:00	UNV Pandemic Prevention Solutions for Public Transportation italian	https://www.youtube.com/watch?v=vmGbwHqh6f8
+# SB-218 nag.ru · youtube · https://www.youtube.com/user/Navuhod · fetched 2026-10-25T07:41:18Z · HTTP 200
+2026-10-08T10:07:03+00:00	Внутренняя точка доступа Wi-Fi 6 SNR для малого и среднего бизнеса: возможности, решения и проекты	https://www.youtube.com/watch?v=VAjdUOTtEFM
+2026-10-06T10:25:43+00:00	Новые требования, штрафы, обязанности и регуляторные риски оператора связи. Олег Емельянов (КАОС)	https://www.youtube.com/watch?v=QhYVMSE8yTk
+2026-10-06T10:25:43+00:00	Доступ операторов к инфраструктуре. Антон Шин	https://www.youtube.com/watch?v=RySkcaQr27M
+2026-10-06T10:25:43+00:00	ИБ за ноль*: боевой стек на бесплатном self-hosted софте. Денис Ухов (НАГ)	https://www.youtube.com/watch?v=S1rWnB4Epcc
+2026-10-06T10:25:43+00:00	Как оператору запустить облако без большого стартового CAPEX. Евгений Карпов (vStack)	https://www.youtube.com/watch?v=Sde5vLopSZg
+2026-10-06T10:25:43+00:00	Wi-Fi дома и в офисе: в чем различия? Михаил Ваняшкин (НАГ)	https://www.youtube.com/watch?v=TQYVUGyBMHU
+2026-10-06T10:25:43+00:00	Новые правила игры на телеком-рынке Казахстана. Олег Емельянов (КАОС)	https://www.youtube.com/watch?v=klUWZfkydlg
+2026-10-06T10:25:43+00:00	ИИ в работе оператора связи. Владислав Пахомов (АйсРок)	https://www.youtube.com/watch?v=s4u1H1cQ4ig
+2026-10-06T10:25:43+00:00	Сравнение телеком-законодательства отдельных стран СНГ. Дмитрий Галушко (Ордерком)	https://www.youtube.com/watch?v=wH51FJDlt7A
+2026-10-06T10:25:43+00:00	Рост трафика. Управление трафиком. Нурлан Мейрманов (Казахтелеком)	https://www.youtube.com/watch?v=zKIvispaDGs
+2026-10-06T10:25:40+00:00	Идеальная закупка глазами интегратора. Денис Ухов (НАГ)	https://www.youtube.com/watch?v=1TBNrs7t2D0
+2026-10-06T10:25:40+00:00	Сеть — это ещё не бизнес: как монетизировать абонентскую базу в 2026 году Павел Савасин (LANBilling)	https://www.youtube.com/watch?v=2wH4uTCElJw
+2026-10-06T10:25:40+00:00	Сквозной процесс в телекоме: как связать услуги, инциденты и разработку. Вячеслав Ханько (SimpleOne)	https://www.youtube.com/watch?v=2z0ZCkN4Vt8
+2026-10-06T10:25:40+00:00	Когда телеком - критическая инфраструктура: работа с командой. Алексей Джураев (Beeline Uzbekistan)	https://www.youtube.com/watch?v=653A0Gj7WQA
+2026-10-06T10:25:40+00:00	PON vs Ethernet: Что развернуть в корпоративной сети?. Владимир Ревенко (TOO Наг Казахстан)	https://www.youtube.com/watch?v=6BIWjKCUcYU

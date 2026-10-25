@@ -1,0 +1,124 @@
+{
+ "code": "SC-158",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（kontron.com，快照 2026-10-21）",
+ "summary": "德国 Kontron（上市嵌入式/IoT 巨头：5G、边缘计算、工业嵌入式系统、智慧铁路 FRMCS；表内「TSN 工业通讯 电口」「质量高」）；群发 14 次无回复。",
+ "type": "上市嵌入式巨头",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：The Power of IoT | Kontron；品类词 工业自动化 / OT 网络",
+   "quote": "Discover Kontron’s global expertise in IoT, 5G, edge computing and industrial embedded systems — powering smart industries and connected infrastructure.",
+   "url": "https://www.kontron.com/en",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "TSN 工业通讯 电口",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Kontron 定位",
+   "quote": "The Power of IoT | Kontron ; Discover Kontron’s global expertise in IoT, 5G, edge computing and industrial embedded systems — powering smart industries and connected infrastructure",
+   "url": "https://www.kontron.com/en",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "TSN 工业通讯 电口",
+   "quote": "TSN 工业通讯 电口；质量高",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "上市巨头：Kontron（自研工业通信/TSN 产品线），非渠道客户；c_sub=巨头/上市（非渠道）",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "德国",
+  "other": "官网 kontron.com，语言 en，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "嵌入式 / IoT / 5G / 铁路通信（集团）"
+ ],
+ "channels": {
+  "role": "上市嵌入式巨头",
+  "region": "德国",
+  "contact": "info@kontron.com"
+ },
+ "signals": [
+  "官网：Discover Kontron’s global expertise in IoT, 5G, edge computing and industrial embedded systems；首页 We create FRMCS ; Smart Railway Solutions；kw industrial 20 / odm 5",
+  "表内：TSN 工业通讯 电口；质量高"
+ ],
+ "risks": [
+  "上市巨头：Kontron（法兰克福上市），自研 TSN/工业通信产品线；铁路方向守界；14 次无回复，仅 info@"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 30,
+  "why": "上市巨头（自研工业通信产品线，含铁路），非 Saga 可承接 → 改 C"
+ },
+ "email_hook": "（不发送：上市巨头）",
+ "mail_review": {
+  "as_of": "2026-10-25",
+  "binding": {
+   "level": "已发未回（无人工回复、无打开记录；S 6 封 2024-07-09→2024-12-05、A 11 封 2025-03-20→2026-03-06，共 17 封群发，0 真实回复；Elsa 单发去信 1 封（2025-02-10「48 Port SFP Switch」→ info@kontron.com，未见回复（Elsa 箱 Replied 标签无）））（第 74 批(e)：S/A mail_dump + Elsa 箱 in:sent 排锚扫描 2026-10-25）",
+   "type": "上市嵌入式巨头（轨交/TSN）",
+   "sieve": "1",
+   "stop": "读",
+   "evidence": [
+    "mail_dump.py SC-158（S/A 全量）",
+    "data/gmail_e/elsa_sent_nonanchor_2026-10-25.json（Elsa 1:1 普查）"
+   ]
+  },
+  "situation": "德国 Kontron（上市嵌入式/IoT 巨头：TSN 工业通讯、FRMCS 铁路）",
+  "need": "巨头自研 + 轨交主营 → 守界",
+  "breakpoint": "info@ 17 封 0 回；巨头准入不走 info@",
+  "saga_now": {
+   "p1": null,
+   "tier": null,
+   "price": null,
+   "why": "巨头自研 + 轨交主营 → 守界",
+   "repeat": "无成单；不动",
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "不动：巨头自研 + 轨交",
+   "one_question": null
+  },
+  "facts": [
+   {
+    "date": "2026-03-06",
+    "dir": "去",
+    "who": "S/A 群发",
+    "quote": "Industrial PoE Switch, Marvell Industrial Alert System, 24 port managed switch, 8 port Network Switch",
+    "why": "S 6 封 2024-07-09→2024-12-05、A 11 封 2025-03-20→2026-03-06，共 17 封群发，0 真实回复｜首封 2024-07-09 → 末封 2026-03-06",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2025-02-10",
+    "dir": "out",
+    "who": "Elsa → info@kontron.com",
+    "quote": "48 Port SFP Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+    "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
+    "k": "elsa_1to1",
+    "msg_id": "194efd68011655a8"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null
+ }
+}

@@ -1,0 +1,80 @@
+{
+ "code": "SC-211",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（linksys.com，快照 2026-10-21）",
+ "summary": "Linksys（消费/SMB 网络品牌，富士康旗下；全球多办事处；表内「大口 FS / PoE injector 产品较少，自己的 logo」，备注「有比较多的办事处」；邮箱 linksyscares@）；群发 14 次无回复。",
+ "type": "消费级网络巨头品牌",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Linksys | Networking & WiFi Technology；品类词 无线 / WiFi",
+   "quote": "Experience fast, reliable, secure and easy to use WiFi when you level up with connectivity solutions made for home, business, and enterprise from Linksys.",
+   "url": "https://www.linksys.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "大口FS POE injector 产品较少 自己的logo；有比较多的办事处",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Linksys | Networking & WiFi Technology；品类词 无线 / WiFi / 网络交换 / PoE",
+   "quote": "Experience fast, reliable, secure and easy to use WiFi when you level up with connectivity solutions made for home, business, and enterprise from Linksys.",
+   "url": "https://www.linksys.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Linksys 定位",
+   "quote": "Linksys | Networking & WiFi Technology ; connectivity solutions made for home, business, and enterprise from Linksys",
+   "url": "https://www.linksys.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "自己的 logo；多办事处",
+   "quote": "大口FS POE injector 产品较少 自己的logo；有比较多的办事处",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "巨头/消费级：Linksys（富士康旗下消费网络品牌），非渠道客户；c_sub=巨头/消费级",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "美国",
+  "other": "官网 linksys.com，语言 en，快照状态 ok；角色判定来源：用户表"
+ },
+ "business_lines": [
+  "消费 / SMB 网络设备（品牌）"
+ ],
+ "channels": {
+  "role": "消费级网络巨头品牌",
+  "region": "美国",
+  "contact": "linksyscares@linksys.com"
+ },
+ "signals": [
+  "官网：Experience fast, reliable, secure and easy to use WiFi … for home, business, and enterprise from Linksys；首页 Velop Micro 7 / Velop Pro 7；kw wifi 15",
+  "表内：大口 FS PoE injector 产品较少 自己的 logo；有比较多的办事处"
+ ],
+ "risks": [
+  "巨头/消费级：Linksys（富士康旗下），ODM 体系封闭；邮箱为客服邮箱"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 30,
+  "why": "消费级巨头品牌（富士康旗下），ODM 体系封闭 → 改 C"
+ },
+ "email_hook": "（不发送：巨头/消费级）"
+}

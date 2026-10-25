@@ -1,144 +1,107 @@
 {
  "code": "SB-074",
- "name_official": "Optiwatch Ltd（Co. 09595034，Enfield, London；optiwatchgroup.com；Optimum Group 成员）",
- "researched_at": "2026-10-21",
- "website_status": "在线",
- "summary": "伦敦 Enfield 的远程监控安防服务商（2015-05 注册；创办人 Tim Chege；11–50 人 / RocketReach 15 人；营业额 <£1M 口径）：面向建筑工地的远程视频监控（AI 入侵检测、音频喊话、虚拟巡更）、门禁、入侵检测、火灾预防，自有 24/7 监控中心；隶属 Optimum Group（optimum-group.co.uk）。工地临时监控塔/柜需宽温 PoE 交换机——STI 系列直接适用。用户表：17 次跟进 0 回复。",
- "type": "",
- "size": "",
+ "name_official": "Bilge Security Systems（土耳其；ISAF 2025）",
+ "website_status": "未单独检索（仅用户记录）",
+ "summary": "土耳其安防公司，ISAF 2025 现场：不懂英文，拿了彩页，表示要 PoE 交换机；WA 已加，尚无邮件跟进。",
+ "type": "安防安装/经销商",
+ "size": "待补证",
  "brands_seen": [],
  "evidence": [
   {
-   "kind": "官网",
-   "claim": "业务与地址",
-   "quote": "Remotely monitored video surveillance or CCTV services that use intelligent alarm enabled video recording systems … Unit 5 Industrial Trading Estate 240-242 Lincoln Road, London, EN1 1SP, United Kingdom. +44 (0) 208 443 0077 marketing@optiwatchgroup.com",
-   "url": "https://www.optiwatchgroup.com/videosurveillance/videosurveillance.html",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "LinkedIn",
-   "claim": "定位与规模",
-   "quote": "Optiwatch Limited was established in 2015 to provide remotely monitored Video Surveillance solutions primarily for the construction industry … Company size: 11-50 employees Headquarters: Enfield, Greater London … Founded: 2015",
-   "url": "https://www.linkedin.com/company/optiwatchlimited",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "登记",
-   "claim": "法人登记",
-   "quote": "OPTIWATCH LTD … Registered office address: Optiwatch Ltd, Unit 5, Martinbridge Trading Estate, Lincoln Road, Enfield, Middlesex, England, EN1 1SP … Incorporated on: 18 May 2015",
-   "url": "https://find-and-update.company-information.service.gov.uk/company/09595034",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "名录",
-   "claim": "创办人与联系邮箱",
-   "quote": "Optiwatch provide remotely monitored Video Surveillance solutions primarily for the construction industry … Founders Tim Chege … Contact Email marketing@optiwatchgroup.com Phone Number 44 (0) 208 443 0077",
-   "url": "https://www.crunchbase.com/organization/optiwatch",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "17 次跟进 0 回复",
-   "quote": "（用户表字段）",
+   "kind": "用户记录",
+   "claim": "不懂英文、拿彩页、要 PoE switch；WA 已加",
+   "quote": "不懂英文， 拿了彩页， 说了要POE SWITCH；90 53212 02931 已加（用户 Clients 表摘录）",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
  "kp": [
   {
-   "name": "Tim Chege",
-   "role": "Founder（Crunchbase 公开）",
-   "email": "marketing@optiwatchgroup.com（公司公开）",
-   "phone": "+44 20 8443 0077",
-   "source": "https://www.crunchbase.com/organization/optiwatch"
+   "name": "（见 Clients 表联系人）",
+   "role": "",
+   "email": "",
+   "phone": "+90 532 120 2931（WA）",
+   "source": "用户 Clients 表（ISAF 2025）"
   }
  ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "grade_override": "B",
+ "override_reason": "需求泛（'要 PoE switch'）、语言障碍、无后续互动 → B 慢跟（土耳其在主攻区故保留）。",
+ "notes": "WA 用土耳其语模板（机器翻译）发 STC-28DGGPM / STC-21616GP 图片+价格，一次。",
+ "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网 + Companies House 核对）"
+  "level": "B 级加厚 v1（基于用户表整理 + 需求映射）"
  },
  "company_facts": {
-  "legal_name": "Optiwatch Ltd（Companies House 09595034，2015-05-18）",
-  "hq": "Unit 5, Martinbridge Trading Estate, 240-242 Lincoln Road, Enfield EN1 1SP, UK（+44 20 8443 0077；marketing@optiwatchgroup.com）",
-  "size": "11–50（LinkedIn）/ 15（RocketReach）；营业额 <£1M（Endole）",
-  "other": "创办人 Tim Chege；Optimum Group 成员；24/7 自营监控中心；主攻建筑工地"
+  "legal_name": "Bilge Güvenlik Sistemleri（Bilge Security Systems，bilgeguvenlik.com）",
+  "hq": "土耳其",
+  "size": "小型安防安装/经销",
+  "other": "ISAF 2025 现场：不懂英文，取彩页，表示要 PoE 交换机；WA 已加，尚无邮件跟进"
  },
  "business_lines": [
-  "建筑工地远程视频监控（AI 检测 + 喊话 + 虚拟巡更）",
-  "远程门禁 / 入侵检测 / 火灾预防监控（守界：火灾主系统不供）",
-  "钥匙托管、报警响应、巡逻与驻守"
+  "安防系统安装与经销（土耳其）"
  ],
  "channels": {
-  "网站": "https://optiwatchgroup.com/",
-  "电话": "+44 20 8443 0077（官网公开）",
-  "邮箱（公开）": "marketing@optiwatchgroup.com",
-  "LinkedIn": "https://www.linkedin.com/company/optiwatchlimited"
+  "网站": "bilgeguvenlik.com",
+  "WhatsApp": "已加"
  },
  "signals": [
-  "工地监控塔/柜户外部署、4G 回传 → 每套 1 台宽温 DIN PoE 交换机（4–8 口）；自营服务商，设备自购自用、重复采购"
+  "现场明确要 PoE 交换机；语言障碍 → 用土耳其语短消息 + 图片报价"
  ],
  "risks": [
-  "多采用整套移动监控塔（第三方整机）；17 次推送 0 回复"
+  "不懂英文；规模小"
  ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
+  "p1": "STC-28DGGPM",
   "tier": 25,
-  "why": "终端服务商 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP，−40~+75 ℃，$137.5）用于工地监控柜；4 口 STI-144GP（$35.5）用于单塔；室内机房 STC-424DGGPM-280W"
+  "why": "安装商 25% 档：STC-28DGGPM（$84.1）；低价位 Realtek 线 STC-028GP（$24.2）；WhatsApp 用土耳其语图片报价"
  },
- "email_hook": "For the site cabinets behind your remotely monitored cameras, a DIN-rail 4-port gigabit PoE switch rated −40 to +75 °C is $35.5 EXW and the managed 8-port version $145.7; do your towers run 48 V or 24 V DC inside?",
+ "email_hook": "ISAF'ta görüştüğümüz PoE switch için: 8 port gigabit PoE+ yönetilebilir, 2 SFP, $84.1 EXW; yönetilemeyen 8 port PoE $26.2. Kaç kamera için planlıyorsunuz?",
  "mail_review": {
   "binding": {
-   "level": "读而不回（A/S 邮箱 28 封 2024→2026，其中 2 封被打开，0 回；收件 muhassin@optiwatchgroup.com, shiffin@optiwatchgroup.com；被打开主题「Managed Optical Bypass Switch、Industrial PoE Switch」；Elsa 箱：`to:optiwatchgroup.com OR to:optimumgroupcompanies.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 28 / 来 0）（第 74 批(j)））",
-   "type": "—",
-   "sieve": "2（有人在读，无人回）",
-   "stop": "读而不回 = 内容未命中或没有当下需求",
-   "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
-   "lane": "UK 主攻（四主）",
-   "cadence": "一封；回了再说",
-   "evidence": "gmail_digest：out 28，Opened 标签 2（Simon 群发追踪）；用户表：「（用户表字段）」；研究档 risks：多采用整套移动监控塔（第三方整机）；17 次推送 0 回复"
+   "level": "未发信（S/A 邮箱均无往来；来源：调研建档；Elsa 箱：`to:bilgeguvenlik.com` 逐户查 0（2026-10-24 第 73 批(o)，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(g)））",
+   "type": "安防安装/经销商",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "首封（具名 KP 优先，用研究档 email_hook）；WhatsApp 已加 → 唤醒走 WhatsApp 一句话，不走邮件",
+   "lane": "TR 主攻（四主）",
+   "cadence": "首封后看打开",
+   "evidence": "gmail_digest：out 0；研究档 risks：不懂英文；规模小"
   },
-  "situation": "伦敦 Enfield 的远程监控安防服务商（2015-05 注册；创办人 Tim Chege；11–50 人 / RocketReach 15 人；营业额 <£1M 口径）：面向建筑工地的远程视频监控（AI 入侵检测、音频喊话、虚拟巡更）、门禁、入侵检测、火灾预防，自有 24/7 监控中心；隶属 Optimum Group（optimum-group.co.uk）。工地临时监控塔/柜需宽温 PoE 交换机——STI 系列直接适用。用户表：17 次跟进 0 回复。",
-  "need": "终端服务商 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP，−40~+75 ℃，$137.5）用于工地监控柜；4 口 STI-144GP（$35.5）用于单塔；室内机房 STC-424DGGPM-280W",
-  "breakpoint": "多采用整套移动监控塔（第三方整机）；17 次推送 0 回复",
+  "situation": "土耳其安防公司，ISAF 2025 现场：不懂英文，拿了彩页，表示要 PoE 交换机；WA 已加，尚无邮件跟进。",
+  "need": "安装商 25% 档：STC-28DGGPM（$84.1）；低价位 Realtek 线 STC-028GP（$24.2）；WhatsApp 用土耳其语图片报价",
+  "breakpoint": "不懂英文；规模小",
   "saga_now": {
-   "p1": "STI-288DGGPM",
+   "p1": "STC-28DGGPM",
    "tier": 25,
-   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-09 $220（48 port managed switch）、2024-11-11 $65（10G Media Converter）；**封顶**：STI-288DGGPM 25% 档 $145.7 高于 2026-06-22 自家列表价 $137.5，信稿按 $137.5 写（规则 ㉔：档位价不得高于自家公开列表价）；群发里他已看到的价（续）：2026-08-19 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-03-04 $240（24 Port Fiber Switch）、2025-09-30 $280（10G Enterprise SFP Switch）（㉕ 封顶：STI-288DGGPM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25）",
-   "why": "终端服务商 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP，−40~+75 ℃，$137.5）用于工地监控柜；4 口 STI-144GP（$35.5）用于单塔；室内机房 STC-424DGGPM-280W。已打开的主题（2/28 封有打开记录）：「Industrial poe switch」(2024-09-03)、「24 Port Fiber Switch」(2025-03-04) → 读者兴趣偏「工业」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-03-03)、Product Link_2026Q3(2026-07-14)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）",
+   "price": "Realtek 线按 HRUI 2026-09-30 进价 +25% 现算（Q-47 默认，不用 Drive 旧表价）：STC-208GP $24.2→$26.2；按主表（研究档 saga_fit）",
+   "why": "安装商 25% 档：STC-28DGGPM（$84.1）；低价位 Realtek 线 STC-028GP（$24.2）；WhatsApp 用土耳其语图片报价",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "2026-11",
-   "channel": "A 邮箱 → muhassin@optiwatchgroup.com",
-   "action": "短信一问（email_hook）",
-   "one_question": "For the site cabinets behind your remotely monitored cameras, a DIN-rail 4-port gigabit PoE switch rated −40 to +75 °C is $35.5 EXW and the managed 8-port version $137.5; do your towers run 48 V or 24 V DC inside?"
+   "when": "待 Simon 排期（首封）",
+   "channel": "A 邮箱 → bilge.guvenlik@hotmail.com",
+   "action": "首封：按 email_hook 一问（第 74 批(r) 2026-10-25：对方不懂英文、WA 已加 → 土耳其语整段 WhatsApp 单发；价与研究档一致，15 天有效）（第 76 批(c) 2026-10-25：0 事实户补时间线事实）",
+   "one_question": "ISAF'ta görüştüğümüz PoE switch için: 8 port gigabit PoE+ yönetilebilir, 2 SFP, $84.1 EXW; yönetilemeyen 8 port PoE $26.2. Kaç kamera için planlıyorsunuz?"
   },
   "facts": [
    {
-    "date": "2026-08-19",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "Managed Optical Bypass Switch、Industrial PoE Switch",
-    "why": "28 封 / 2 次打开 / 0 回｜首封 2024-06-13 → 末封 2026-08-19（28 去 / 0 来）",
-    "k": "gmail_digest"
-   },
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "（用户表字段）",
-    "why": "表内备注",
-    "k": "用户表"
+    "date": "2025-10",
+    "dir": "面",
+    "who": "ISAF 2025 现场（用户 Clients 表记录）",
+    "quote": "不懂英文， 拿了彩页， 说了要POE SWITCH；90 53212 02931 已加（用户 Clients 表摘录）",
+    "why": "展会面谈记录（录入 2026-10-21）",
+    "k": "clients_table"
    }
   ],
-  "proof_gaps": [],
+  "proof_gaps": [
+   "无邮件往来",
+   "用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+  ],
   "draft_en": {
-   "subject": "One question — Managed Optical Bypass Switch",
-   "body": "Hello,\n\nWe have sent you a few mails on \"Managed Optical Bypass Switch\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor the site cabinets behind your remotely monitored cameras, a DIN-rail 4-port gigabit PoE switch rated −40 to +75 °C is $35.5 EXW and the managed 8-port version $137.5; do your towers run 48 V or 24 V DC inside?\n\nPrices are USD EXW, 2026-10-17 snapshot, valid 15 days.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+   "subject": "Türkçe 整段单发（对方不读英文；邮件/WhatsApp 复制即发，不混英文）",
+   "body": "ISAF'ta görüştüğümüz PoE switch için: 8 port gigabit PoE+ yönetilebilir + 2 SFP, 84,1 USD EXW; yönetilemeyen 8 port PoE 26,2 USD EXW (MOQ 1, 15 gün geçerli). Kaç kamera için planlıyorsunuz?\n\nSaygılarımla,\nSimon\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
  }

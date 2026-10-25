@@ -1,167 +1,164 @@
 {
- "code": "SB-528",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（dmsimfg.com，快照 2026-10-21）",
- "summary": "美国 DMSI Manufacturing（官网快照为空页；表内「自己的 logo MC 周边产品」；KP Dustin Hall、Randy Harris（Director, Data Center & Broadband Sales）、Iylin Flock（General Manager）；备注 info@）；群发 19 次无回复。",
- "type": "网络配件品牌商（美国，自有标 MC；官网待核）",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：dmsimfg.com",
-   "quote": "",
-   "url": "https://dmsimfg.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "自己的logo MC 周边产品；info@dmsimfg.com",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "自己的 logo MC 周边产品",
-   "quote": "自己的logo MC 周边产品；info@dmsimfg.com",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Randy Harris",
-   "title": "Director, Data Center & Broadband Sales",
-   "email": "（用户表把 dustin@ 记在他名下——同址属 Dustin Hall，Randy 本人地址待核）",
-   "phone": "",
-   "source": "用户表"
-  },
-  {
-   "name": "Dustin Hall",
-   "title": "（职务待核）",
-   "email": "dustin@dmsimfg.com",
-   "phone": "",
-   "source": "用户表"
-  },
-  {
-   "name": "Iylin Flock",
-   "title": "General Manager",
-   "email": "evan@dmsimfg.com",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "美国",
-  "other": "官网 dmsimfg.com，语言 ?，快照状态 ok；角色判定来源：用户表"
- },
- "business_lines": [
-  "网络配件 / MC（自有品牌 DMSI）"
- ],
- "channels": {
-  "role": "网络配件品牌商（美国，自有标 MC；官网待核）",
-  "region": "美国",
-  "contact": "dustin@dmsimfg.com、evan@dmsimfg.com"
- },
- "signals": [
-  "表内：自己的 logo MC 周边产品；KP Dustin Hall；Randy Harris / Director, Data Center & Broadband Sales；Iylin Flock / General Manager；info@dmsimfg.com",
-  "快照：标题/描述/栏目均为空（dmsimfg.com）"
- ],
- "risks": [
-  "官网快照空页（站点状态待核）；19 次无回复 → 改向销售总监具名首触"
- ],
- "saga_fit": {
-  "p1": "STI-110GE",
-  "tier": 30,
-  "why": "自有 logo MC → 工业千兆 MC STI-110GE（$24.3 @30%）/ PoE MC STI-111GP；桌面 MC 用 HRUI（列表价，注明）"
- },
- "email_hook": "Randy, for the media converters sold under the DMSI label to your data-center and broadband customers, we can supply gigabit and PoE MCs (industrial or desktop) and 8-GE + 2 SFP switches in your packaging from small lots, FCC/CE/RoHS — which MC configuration sells most in your range?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（3 封来信 = Kelly 休假/退休自动回复；Elsa 箱：`to:dmsimfg.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 30 / 来 3）（第 74 批(h)））",
-   "type": "美国网络配件品牌商（DMSI）",
-   "sieve": "0",
-   "stop": "联系人已退休（2024-05-23 自动回复）",
-   "revive": "改发 sales@dmsimfg.com",
-   "lane": "US",
-   "cadence": "一封",
-   "evidence": "k=02e8365a9e7d02a0（RETIRED）"
-  },
-  "situation": "—",
-  "need": "—",
-  "breakpoint": "—",
-  "saga_now": {
-   "p1": "—",
-   "tier": 30,
-   "price": "—；群发里他已看到的价（续）：2026-07-27 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-11-21 $300（48 Port PoE Managed Switch）、2025-10-08 $280（10G Enterprise SFP Switch）",
-   "why": "已打开的主题（2/30 封有打开记录）：「48 Port PoE Managed Switch」(2024-11-21)、「Managed Optical Bypass Switch」(2025-04-23) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续 最近一封去信是 2026-09-28 A 邮箱模板（在本档最后一条事实之后）——下一封必须回到真人线程、不再叠模板｜已发资料（勿重发）：Saga Software Function List-release 7.(2025-03-21)、Product Link_2026Q2(2026-02-26)、Saga Feature List_7.5.x_L2+(2026-06-27)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）",
-   "repeat": [],
-   "gaps": [
-    "新联系人"
-   ]
-  },
-  "next_move": {
-   "when": "2026-11",
-   "channel": "A 邮箱 → dustin@dmsimfg.com（Dustin Hall；Kelly 已退休，sales@ 只回自动信；evan@dmsimfg.com 备用）",
-   "action": "换人（第 76 批(c) 2026-10-25：audit_ab 软项修正：署名「Alan Yan」→「Alan」（A 箱实际署名））（第 76 批(c) 2026-10-25：0 事实户补时间线事实）",
-   "one_question": "Do you resell switches alongside your DC hardware, or only source them for your own builds?"
-  },
-  "facts": [
-   {
-    "date": "2024-06-24",
-    "dir": "去",
-    "who": "S 箱（Simon）",
-    "quote": "Industrial PoE Managed Switch",
-    "why": "首封去信（邮箱索引；去信共 30 封）",
-    "k": "3fc9871299c44094"
-   },
-   {
-    "date": "2026-09-28",
-    "dir": "去",
-    "who": "A 箱（Alan）",
-    "quote": "Managed PoE Switches",
-    "why": "最近一封去信（邮箱索引；去信共 30 封）",
-    "k": "10091d622fd77f9a"
-   },
-   {
-    "date": "2024-05-02",
-    "dir": "来",
-    "who": "kelly@dmsimfg.com",
-    "quote": "Vacation｜Monday April 29, 2024 I’ll be on vacation the rest of today returning Wednesday May 8.  Please see contacts below while ",
-    "why": "自动回复/退信（机器，不算人工回复）",
-    "k": "89918dafbe1936c9"
-   },
-   {
-    "date": "2024-05-23",
-    "dir": "来",
-    "who": "kelly@dmsimfg.com",
-    "quote": "Vacation｜If you are seeing this message then I have officially RETIRED!  Please redirect your email to the contacts listed below ",
-    "why": "自动回复/退信（机器，不算人工回复）",
-    "k": "02e8365a9e7d02a0"
-   },
-   {
-    "date": "2025-01-02",
-    "dir": "来",
-    "who": "brandon@dmsimfg.com",
-    "quote": "Automatic reply: 48 Port 10G Core Switch｜December 25th through January 5th DMSI facilities are closed.  We will re-open on Monday January 6th.   The sales team i",
-    "why": "自动回复/退信（机器，不算人工回复）",
-    "k": "ed65b17afbbc82ba"
-   }
+  "code": "SB-528",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（commfront.com，快照 2026-10-21）",
+  "summary": "美国 CommFront（工业以太网交换机 / USB-RS232-RS485-RS422 串口 / 光纤转换器 / 隔离器 / Modbus 网关自有品牌网店，「industrial ruggedness proven since 2005」、RoHS；表内「工业 FS（小壳）、工业 MC、串口；标价高」）；群发 10 次无回复。",
+  "type": "工业通信配件自有品牌网店（美国，高标价）",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：Industrial Ethernet Switch USB RS232 RS485 RS422 Fiber Optic Converter – CommFront；品类词 工业自动化 / OT 网络 / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
+      "quote": "Industrial Ethernet Switches, Industrial USB RS232 RS485 RS422 TTL Serial Fast and Gigabit Ethernet Fiber Optic Converters / Isolators / Extenders / Hubs, Mobus RTU to TCP, Serial to Ethernet Converters, SGS/TUV/ISO-9001 Certified, 5-Yr War",
+      "url": "https://www.commfront.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "工业FS（小壳） 工业MC 串口 标价高",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "工业以太网交换机与串口/光纤转换器",
+      "quote": "Industrial Ethernet Switches, Industrial USB RS232 RS485 RS422 TTL Serial Fast and Gigabit Ethernet Fiber Optic Converters / Isolators / Extenders / Hubs, Mobus RTU to TCP",
+      "url": "https://www.commfront.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "工业 FS 小壳 / 工业 MC / 串口，标价高",
+      "quote": "工业FS（小壳） 工业MC 串口；标价高",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [],
-  "draft_en": {
-   "subject": "For Randy Harris — 100G / 25G data-center switches, priced",
-   "body": "Hello DMSI team,\n\nEarlier mails went to a mailbox that now auto-replies as retired, so this is addressed to sales@ for Randy Harris (Data Center & Broadband Sales).\n\nThree data-center SKUs are priced today, all EXW (2026 Q2 list): 32× 100G QSFP28 USD 6,000; 6× 40G + 2× 100G USD 1,200; 48× 25G + 8× 100G USD 4,800. CENTEC silicon, SONiC-ready on request, neutral or your label.\n\nOne question: do you resell switches alongside your DC hardware, or only source them for your own builds?\n\nAlan\nSaga Telecom - sagatele.com"
+  "kp": [],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
   },
-  "as_of": "2026-10-24"
- }
+  "company_facts": {
+    "hq": "美国",
+    "other": "官网 commfront.com，语言 ?，快照状态 ok；角色判定来源：官网文案"
+  },
+  "business_lines": [
+    "工业串口转换 / 隔离器 / Modbus 网关（自有品牌）",
+    "工业以太网交换机 / 光纤转换器"
+  ],
+  "channels": {
+    "role": "工业通信配件自有品牌网店（美国，高标价）",
+    "region": "美国",
+    "contact": "sales@commfront.com"
+  },
+  "signals": [
+    "官网：Industrial Ethernet Switches, Industrial USB RS232 RS485 RS422 TTL Serial Fast and Gigabit Ethernet Fiber Optic Converters / Isolators / Extenders",
+    "博客 /blogs/keys/69888835-industrial-ruggedness-proven-since-2005、/lead-free-rohs-compliant-products",
+    "站内 kw：fiber 182 / ethernet 201 / industrial 119"
+  ],
+  "risks": [
+    "串口/隔离器为主业：交换机为配套线",
+    "现货源未知（表内「标价高」= 疑为深圳贴牌加价）；10 次无回复，无具名 KP"
+  ],
+  "saga_fit": {
+    "p1": "STI-050GE",
+    "tier": 30,
+    "why": "自有标小壳工业交换机 → 工业 5 GE 非管理 STI-050GE（$18.5 @30%）、8 GE STI-080GE（$34.0）；工业 MC 位 STI-110GE（$24.3）；高标价 = 贴标毛利空间大"
+  },
+  "email_hook": "For the compact industrial Ethernet switches and gigabit fiber converters in your range, we build 5/8-port DIN-rail units and SFP media converters under your label from small lots (−40~75 °C, CE/RoHS/FCC) — which of the two would you want a sample quote on first?",
+  "products_seen": [
+    {
+      "brand": "CommFront（自有）",
+      "model": "工业以太网交换机（小壳）",
+      "spec": "5/8 口工业非管理（推断）",
+      "saga": "STI-050GE / STI-080GE",
+      "url": "https://www.commfront.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "brand": "CommFront（自有）",
+      "model": "千兆光纤转换器",
+      "spec": "工业 MC",
+      "saga": "STI-110GE",
+      "url": "https://www.commfront.com/",
+      "date": "2026-10-21"
+    }
+  ],
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A/S 邮箱 22 封 2025→2026，无记录打开，0 回；收件 sales@commfront.com；主题多为「Managed Optical Bypass Switch、10G Enterprise SFP Switch」）；Elsa 1:1 去信 1 封（2025-02-23「Industrial PoE Switch」；To 仅本户 sales@commfront.com；Bcc 未逐封读头；同类名单抽读 24 封均无 Bcc；此后再未进 Elsa 任何名单——全箱 `from:e.sagatelecom to:sales@commfront.com` 仅此 1 条，complete）（第 74 批(m)）",
+      "type": "工业通信配件自有品牌网店（美国，高标价）",
+      "sieve": "1（只收到群发）",
+      "stop": "只打通用邮箱，无记录打开",
+      "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+      "lane": "US 主攻（四主）",
+      "cadence": "一封",
+      "evidence": "gmail_digest：out 22；用户表：「工业FS（小壳） 工业MC 串口 标价高」；研究档 risks：串口/隔离器为主业：交换机为配套线"
+    },
+    "situation": "美国 CommFront（工业以太网交换机 / USB-RS232-RS485-RS422 串口 / 光纤转换器 / 隔离器 / Modbus 网关自有品牌网店，「industrial ruggedness proven since 2005」、RoHS；表内「工业 FS（小壳）、工业 MC、串口；标价高」）；群发 10 次无回复。",
+    "need": "自有标小壳工业交换机 → 工业 5 GE 非管理 STI-050GE（$18.5 @30%）、8 GE STI-080GE（$34.0）；工业 MC 位 STI-110GE（$24.3）；高标价 = 贴标毛利空间大",
+    "breakpoint": "串口/隔离器为主业：交换机为配套线",
+    "saga_now": {
+      "p1": "STI-050GE",
+      "tier": 30,
+      "price": "换人再触锚价 STI-050GE $18.5（30% 档） EXW（12–36 V 标准款按档位；宽压 12–58 V 款最近实报 $25（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-07-11 $300（48 Port PoE Managed Switch）、2025-09-30 $280（10G Enterprise SFP Switch）",
+      "why": "自有标小壳工业交换机 → 工业 5 GE 非管理 STI-050GE（$18.5 @30%）、8 GE STI-080GE（$34.0）；工业 MC 位 STI-110GE（$24.3）；高标价 = 贴标毛利空间大",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "2027-Q1（换人后）",
+      "channel": "A 邮箱 → 具名 KP",
+      "action": "首封前知悉：Elsa 仅 2025-02-23 单发过 1 封「Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(u) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（第 76 批(d) 2026-10-25：锚价按稿内 12–36 V 款改为档位价，宽压 $25 保留说明）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
+      "one_question": "For the compact industrial Ethernet switches and gigabit fiber converters in your range, we build 5/8-port DIN-rail units and SFP media converters under your label from small lots (−40~75 °C, CE/RoHS/FCC) — which of the two would you want a sample quote on first? Reference: STI-050GE at $25 USD EXW (MOQ 1, 15-day validity)."
+    },
+    "facts": [
+      {
+        "date": "2025-02-23",
+        "dir": "out",
+        "who": "Elsa → sales@commfront.com",
+        "quote": "Industrial PoE Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+        "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
+        "k": "elsa_1to1",
+        "msg_id": "1952eb579f39a107"
+      },
+      {
+        "date": "2026-09-10",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "Managed Optical Bypass Switch、10G Enterprise SFP Switch",
+        "why": "22 封 / 0 次打开 / 0 回｜首封 2025-01-17 → 末封 2026-09-10（22 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "工业FS（小壳） 工业MC 串口 标价高",
+        "why": "表内备注",
+        "k": "用户表"
+      },
+      {
+        "date": "2026-09-10",
+        "dir": "去",
+        "who": "A 箱（Alan）",
+        "quote": "16 Port Industrial PoE Switch",
+        "why": "本日去信真实主题（邮箱索引 865c6b67d614c4c9；信稿开头句引用此封；此前稿内写的「Managed Optical Bypass Switch」是线程列表首题，不是本封）",
+        "k": "865c6b67d614c4c9"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": {
+      "subject": "Compact industrial switches and gigabit fibre converters under the CommFront label",
+      "body": "Hello CommFront team,\n\nOver the past months you had a few product mails from us - most recently \"16 Port Industrial PoE Switch\" on 10 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nSerial and Modbus are yours; for the compact industrial Ethernet switches and gigabit fibre converters in the range, under the CommFront label from small lots, -40 to 75 C, CE/RoHS/FCC: DIN-rail 5 x Gigabit unmanaged, 12-36 V DC - model STI-050GE - $18.5 USD EXW (MOQ 1, 15-day validity; wide 12-58 V version $25); 8 x Gigabit - STI-080GE - $34.0; Gigabit media converter, 1 x RJ45 + 1 x SFP slot - STI-110GE - $26.5.\n\nOne question: which of the two - the 5/8-port switch or the converter - would you want a sample quote on first?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+    },
+    "as_of": "2026-10-24"
+  }
 }

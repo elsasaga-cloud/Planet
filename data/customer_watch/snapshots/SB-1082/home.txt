@@ -1,2 +1,798 @@
-# SB-1082 nemon.co.kr · home · http://nemon.co.kr/ · fetched 2026-10-25T07:41:18Z · HTTP 200
-Nemon
+# SB-1082 standardaudio.se · home · https://www.standardaudio.se/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+Standard Audio Systems AB - Ledande systemleverantör av AV-teknik, talat utrymningslarm, inrymningslarm
+Nyheter
+Service & Support
+Offerthjälp
+Tjänster
+Medarbetare
+Om Standard Audio Systems
+Kontakta oss
+Inloggning
+Den här webbplatsen använder sina egna och tredjepartscookies för att förbättra våra tjänster och analysera användarnas upplevelse. För att ge ditt samtycke till dess användning, tryck på knappen Jag accepterar.
+Mer information
+Customize cookies
+Neka alla
+Jag accepterar
+Cookie preferences
+Consent
+Functional cookies
+Technical
+No
+Ja
+Beskrivning and cookies
+Functional cookies are strictly necessary to provide the services of the shop, as well as for its proper functioning, so it is not possible to refuse their use. They allow the user to browse through our website and use the different options or services that exist on it.
+Cookie
+Provider
+Purpose
+Expiry
+PHP_SESSID
+www.standardaudio.se
+The  the website it is used to establish a user session and to pass state data through a temporary cookie, which is commonly known as a session cookie. These Cookies will only remain on your computer until you close your browser.
+Session
+PrestaShop-#
+www.standardaudio.se
+This is a cookie used by Prestashop to store information and keep the user's session open. It stores information such as currency, language, customer ID, among other data necessary for the proper functioning of the shop.
+1 hours
+Advertising Cookies
+No
+Ja
+Beskrivning
+These are cookies that collect information about the advertisements shown to users of the website. They can be anonymous, if they only collect information about the advertising spaces shown without identifying the user, or personalised, if they collect personal information about the user of the shop by a third party, for the personalisation of these advertising spaces.
+Analytics cookies
+No
+Ja
+Beskrivning and cookies
+Collect information about the user's browsing experience in the shop, usually anonymously, although sometimes they also allow the user to be uniquely and unequivocally identified in order to obtain reports on the user's interests in the products or services offered by the shop.
+Cookie
+Provider
+Purpose
+Expiry
+_ga
+Google
+Registers a unique ID that is used to generate statistical data on how the visitor uses the website.
+2 years
+_gat
+Google
+Used by Google Analytics to throttle request rate
+1 day
+_ga_MVH59YEXX3
+Google
+Used by Google Analytics to identify and track an individual session with your device.
+One year
+_gid
+Google
+Registers a unique ID that is used to generate statistical data on how the visitor uses the website.
+1 day
+Performance cookies
+No
+Ja
+Beskrivning
+These are used to improve the browsing experience and optimize the operation of the shop.
+Other cookies
+No
+Ja
+Beskrivning
+These are cookies without a clear purpose or those that we are still in the process of classifying.
+Avbryt
+Reject all
+Accept selection
+Accept all
+Ljud
+Audio Integration
+ARC / eARC
+Audio Delay
+Audio over CAT
+Bluetooth
+Converters
+HDMI Embedding / De-embedding
+DJ/Club
+Case & stativ
+Controller
+DJ-mixers
+Inspelning
+Interface
+Möbler & förvaring
+Pickuper
+Skivspelare
+Tillbehör
+Förförstärkare
+Linje
+Mikrofon
+Förstärkare/Slutsteg
+50/70/100 V
+Hörlursförstärkare
+Lågohm
+Linjeförstärkare
+Slingförstärkare
+Tillbehör
+Högtalare
+50/70/100 V
+Aktiva
+IP/Nätverk
+Passiva
+Tillbehör
+Hörlurar
+DJ
+Lättvikts
+Med mikrofon för telefoner
+Proppar
+Studio
+Tillbehör
+Hörselhjälpmedel
+Slingförstärkare
+WIFI
+IP Audio
+Konferenssystem
+Bosch CCS 1000 D
+Bosch CCS 900
+Bosch DCN
+Bosch Dicentis
+Bosch Dicentis Wireless
+Bosch Integrus
+Ljudkällor/spelare
+CD
+Chime/ringsignaler
+Digital repeater
+Kassett
+Multikälla
+Skivspelare
+Streaming
+Tillbehör
+Tuner
+Mätinstrument
+Nivå
+Mikrofoner
+Array
+Bommikrofon
+Bords
+Hand
+Headset
+Instrument
+Intercom
+Mätmik
+Mygga
+Shotgun
+Studio
+Svanhals
+Tak
+Tillbehör
+Tryckzon
+Utrop
+Mixerförstärkare
+50/70/100 V
+Lågohm, mono
+Lågohm, stereo
+Tillbehör
+Zon
+Mixers
+Linjemixer
+Mixerbord
+Rackmixer
+Små installationsmixers
+Tillbehör
+Zonmixer
+Signalbehandling
+Delay
+Delningsfilter
+Distribution
+DSP-matris
+Eq
+In/out Interface
+Ingångsväljare
+Konverter
+Limiter/compr/gate
+Matrix
+Nivåhållare
+Tillbehör
+Stativ/fästen
+Högtalare
+Mikrofon
+Tillbehör
+Trådlösa mikrofonsystem
+Ficksändare
+Ficksändarsystem utan mikrofon
+Handsändare
+Handsystem
+Headsetsystem
+Instrument
+Kamerasystem
+Konferens
+Mottagare
+Myggsystem
+Tillbehör
+Transformatorer
+Brumlösare
+Linjenivå
+Mikrofon
+Tillbehör
+Bild
+AV over IP
+1080p Video over IP (H.265)
+4K Uncompressed Video over IP (SDVoE)
+4K Video over IP (JPEG2000)
+Dante
+Video over IP Accessories
+Digital Signage
+Digital Signage Player
+Display
+Stativ & Kiosker
+Display
+Interaktiva skärmar
+LED-vägg
+PC-moduler
+Skärmar
+Stativ & Fästen
+Tillbehör Display
+Touch
+HDBaseT Extender
+100m HDBaseT Extender
+150m HDBaseT Extender
+70m HDBaseT Extender
+HDBaseT Power Injectors
+HDBaseT Receivers
+HDBaseT Splitters
+HDBaseT Switch
+HDBaseT Transmitters
+HDBaseT USB Extenders
+HDBaseT Wallplates
+Uncompressed 18Gbps Extender
+USB / KVM
+HDBaseT Matrix
+16x16 HDBaseT Matrix
+4x2 HDBaseT Matrix
+4x4 HDBaseT Matrix
+4x8 HDBaseT Matrix
+6x6 HDBaseT Matrix
+8x8 HDBaseT Matrix
+Custom Pro Modular 4k 60Hz 4:4:4 Matrix
+Uncompressed 18Gbps HDBaseT Matrix
+HDMI
+HDMI 8K
+HDMI Automation
+HDMI Matrix
+HDMI Multi-viewer
+HDMI Presentation Devices
+HDMI Signal Management
+HDMI Splitters
+HDMI Switchers
+Kamera
+Fast
+Konferens
+Paket med högt/mik
+PTZ
+Stativ & Fästen
+Kompositvideo
+Möbler
+Förvaring
+Kiosk
+Talarstol
+Tillbehör
+Presentation & BYOD
+HDMI Multi-viewer
+Multi-format Extenders
+Multi-format Switchers
+Video wall
+Wireless / BYOD
+Projektionsyta
+Motor
+Tillbehör Projektionsyta
+Projektor
+Installation
+Large venue
+Portabel
+Short throw
+Tillbehör Projektor
+Scaler
+Tillbehör
+IR
+Strömförsörjning
+Trådlös skärmdelning
+USB / KVM
+USB Extenders
+USB KVM Matrix
+USB3.2 Extenders
+Video over IP
+Säkerhet
+Inrymningslarm
+IP System
+Lockdown Alert System
+Trådlöst system
+Talat Utrymningslarm
+Baldwin Boxal Vigil 2
+Baldwin Boxal Vigil 3
+Bosch Paviro
+Bosch Plena
+Bosch Praesensa
+Bosch Praesideo
+Brandsäker kabel
+Dynacord Promatix 6000
+Dynacord Promatrix 8000
+Högtalare EN54-24
+RCF
+Tidgivning
+Huvudur
+Tillbehör
+Urverk
+Utrymningsplats
+Baldvin Boxall CARE2
+Baldvin Boxall OMNICALL
+Sport
+Resultattavlor
+Inomhustavlor
+Tillbehör Resultattavlor
+Utomhustavlor
+Dante
+AV
+AV over IP
+DSP-matris
+Förstärkare
+70/100V förstärkare
+Hörlursförstärkare
+Lågohmiga förstärkare
+Slingförstärkare
+Tillbehör
+Högtalare
+Line array
+Monitor
+Pelare/Line Source
+Pendelhögtalare
+Soundbar
+Subbas
+Takhögtalare
+Vägghögtalare
+In/out Interface
+AES3
+AES67
+Bluetooth
+HDMI
+Linje
+Mikrofoner
+RDL Formate A
+S/PDIF
+Tillbehör
+USB
+Mikrofoner
+Mixers
+Trådlösa Mikrofoner
+Styrsystem
+Endpoints
+Audio Interface
+Förstärkare
+I/O
+Intagspaneler och Uttagspaneler
+Mikrofoner och Intercom
+Rackmontage
+Interface
+Kontrollpaneler
+Handkontroll
+Knappaneler
+Touchpanel
+Kontrollprocessorer
+Tillbehör Kontrollprocessorer
+Tillbehör
+Distansmöten
+Videomöten
+Display
+Högtalarmikrofon
+Kamera
+Trådlös skärmdelning
+Porttelefoni & Intercom
+Porttelefoni och Intercom
+Audio
+Tillbehör
+Audio Video
+Tillbehör
+Hardwired
+Tillbehör
+Nätverk
+Tillbehör
+Nätverk
+Högtalare
+Fullrange
+Line array
+Pelare/Line Source
+Pendel
+Soundbar
+Subbas
+Tak (infällnad)
+Vägghögtalare
+Switch
+18-24 portar
+4-16 portar
+48- portar
+Tillbehör
+WiFi
+Accesspunkt
+Installation
+Fästen/Stativ
+Displayfästen
+Displaystativ
+DJ-stativ
+Högtalarfästen
+Högtalarstativ
+Kamera
+Mikrofonstativ
+Mixerstativ
+Multimediastativ
+Övriga
+Tillbehör
+In- och uttagspaneler
+Bord
+Golv
+Väggkanaler
+Väggpaneler
+Kabel
+Kontakterade
+Rullar
+Kontaktdon
+Adaptrar
+Plintar
+Speakon
+Tele
+XLR
+Rackskåp
+Bord
+Golv
+Tillbehör
+Vägg
+Strömförsörjning
+AC/DC
+Batterier
+PoE
+Strömdistribution
+UPS
+Kampanj
+Outlet
+Varumärken
+Hem
+Produkter
+Bild
+AV over IP
+1080p Video over IP (H.265)
+4K Uncompressed Video over IP (SDVoE)
+4K Video over IP (JPEG2000)
+Dante
+Video over IP Accessories
+Digital Signage
+Digital Signage Player
+Display
+Stativ & Kiosker
+Tillbehör
+Display
+Interaktiva skärmar
+LED-vägg
+PC-moduler
+Skärmar
+Stativ & Fästen
+Golv
+Tak
+Tillbehör
+Vägg
+Tillbehör Display
+Touch
+HDBaseT Extender
+100m HDBaseT Extender
+150m HDBaseT Extender
+70m HDBaseT Extender
+HDBaseT Power Injectors
+HDBaseT Receivers
+HDBaseT Splitters
+HDBaseT Switch
+HDBaseT Transmitters
+HDBaseT USB Extenders
+HDBaseT Wallplates
+Uncompressed 18Gbps Extender
+USB / KVM
+HDBaseT Matrix
+16x16 HDBaseT Matrix
+4x2 HDBaseT Matrix
+4x4 HDBaseT Matrix
+4x8 HDBaseT Matrix
+6x6 HDBaseT Matrix
+8x8 HDBaseT Matrix
+Custom Pro Modular 4k 60Hz 4:4:4 Matrix
+Uncompressed 18Gbps HDBaseT Matrix
+HDMI
+HDMI 8K
+HDMI Automation
+HDMI Matrix
+HDMI Multi-viewer
+HDMI Presentation Devices
+HDMI Signal Management
+HDMI Splitters
+HDMI Switchers
+Kamera
+Fast
+Konferens
+Paket med högt/mik
+PTZ
+Stativ & Fästen
+Golv
+Skärm
+Vägg
+Kompositvideo
+Möbler
+Förvaring
+Kiosk
+Talarstol
+Tillbehör
+Presentation & BYOD
+HDMI Multi-viewer
+Multi-format Extenders
+Multi-format Switchers
+Video wall
+Wireless / BYOD
+Projektionsyta
+Motor
+Tillbehör Projektionsyta
+Projektor
+Installation
+Large venue
+Portabel
+Short throw
+Tillbehör Projektor
+Scaler
+Tillbehör
+IR
+Strömförsörjning
+Trådlös skärmdelning
+USB / KVM
+USB Extenders
+USB KVM Matrix
+USB3.2 Extenders
+Video over IP
+Dante
+AV
+AV over IP
+DSP-matris
+Förstärkare
+70/100V förstärkare
+Hörlursförstärkare
+Lågohmiga förstärkare
+Slingförstärkare
+Tillbehör
+Högtalare
+Line array
+Monitor
+Pelare/Line Source
+Pendelhögtalare
+Soundbar
+Subbas
+Takhögtalare
+Vägghögtalare
+In/out Interface
+AES3
+AES67
+Bluetooth
+HDMI
+Linje
+Mikrofoner
+RDL Formate A
+S/PDIF
+Tillbehör
+USB
+Mikrofoner
+Mixers
+Trådlösa Mikrofoner
+Distansmöten
+Videomöten
+Display
+Högtalarmikrofon
+Kamera
+Trådlös skärmdelning
+Installation
+Fästen/Stativ
+Displayfästen
+Displaystativ
+DJ-stativ
+Högtalarfästen
+Högtalarstativ
+Bord
+Distansstång
+Golv
+Tillbehör
+Kamera
+Mikrofonstativ
+Bomarm
+Bord
+Golv
+Hållare
+Svanhals
+Tak
+Tillbehör
+Mixerstativ
+Multimediastativ
+Övriga
+Tillbehör
+In- och uttagspaneler
+Bord
+Kompletta
+LAN
+Ljudmoduler
+Monteringsboxar bord
+Golv
+Golvkanaler
+Strömförsörjningsmofuler
+Tillbehör
+Väggkanaler
+Väggpaneler
+Bild
+Blåtand
+BNC
+Cloud
+Crape Ramar
+Dante
+Fjärrkontroll
+Fjärrvolymkontroll
+Högtalare
+Hörlursförstärkare
+Ljudförstärkare
+Monteringsboxar
+RCA/Phono
+RDL Ramar
+Täckramar Decora
+Teleplugg 3,5mm
+Teleplugg 6,3mm
+Tillbehör
+Typ D
+Typ F
+USB
+VGA
+XLR
+Kabel
+Kontakterade
+Adapter
+BNC
+CAT
+HDMI Aktiv
+HDMI Passiv
+Högtalare
+Mikrofon/linje
+Multi
+Optisk Toslink
+USB
+USB A - USB B
+USB-C
+Rullar
+CAT
+Folie för hörselslingor
+Högtalare
+Mikrofon/linje
+Multi
+Kontaktdon
+Adaptrar
+Plintar
+Speakon
+Tele
+XLR
+Chassi
+Sladd
+Rackskåp
+Bord
+Golv
+Tillbehör
+Vägg
+Strömförsörjning
+AC/DC
+Batterier
+PoE
+Strömdistribution
+UPS
+Kampanj
+Ljud
+Audio Integration
+ARC / eARC
+Audio Delay
+Audio over CAT
+Bluetooth
+Converters
+HDMI Embedding / De-embedding
+DJ/Club
+Case & stativ
+Controller
+Tillbehör Controllers
+DJ-mixers
+Tillbehör Mixers
+Inspelning
+Interface
+Möbler & förvaring
+DJ-bås & studiobord
+Förvaring
+Pickuper
+Uybytesnålar,mm
+Skivspelare
+Tillbehör skivspelare
+Tillbehör
+Förförstärkare
+Linje
+Mikrofon
+Förstärkare/Slutsteg
+50/70/100 V
+Bord/vägg/tak
+Hörlursförstärkare
+Lågohm
+Linjeförstärkare
+Slingförstärkare
+Tillbehör
+Högtalare
+50/70/100 V
+Driver/element
+Fullrange
+Horn, fullrange
+Horn, musik
+Horn, tal
+Korridor
+Line array
+Pelare/Line Source
+Pendel
+Point source
+Projektor
+Subbas
+Tak, utanpåliggande
+Takinfällnad
+Takinfällnad subwoofer
+Utomhus
+Vägg, infällnad
+Vägghögtalare
+Aktiva
+Batteri
+Fullrange
+Horn, fullrange
+Horn, tal
+Line array
+Medlyssning
+Pelare/Line Source
+Pendel
+Point source
+Scenmonitor
+Soundbar
+Studiomonitor
+Subbas
+Tak, infällnad
+Tak, utanpåliggande
+Utomhus
+Vägghögtalare
+IP/Nätverk
+Fullrange PA
+Line array
+Pelare/Line Source
+Pendel
+Soundbar
+Subbas
+Tak (infällnad)
+Tak, infällnad subwoofer
+Utomhus
+Vägghögtalare
+Passiva
+Driver/element
+Fullrange/PA/Topp
+Horn, CD (tal)
+Horn, fullrange
+Horn, musik
+Horn, tal
+Korridor
+Line array
+Pelare/Line Source
+Pendel
+Point source
+Projektor
+Scenmonitor
+Subbas
+Tak, infällnad
+Tak, utanpåliggande
+Utomhus
+Vägg, infällnad
+Vägghögtalare
+Tillbehör
+Hörlurar
+DJ
+Lättvikts
+Med mikrofon för telefoner
+Proppar
+Studio
+Tillbehör
+Hörselhjälpmedel
+Slingförstärkare
+Tillbehör
+WIFI
+IP Audi

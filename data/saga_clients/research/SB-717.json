@@ -1,130 +1,132 @@
 {
- "code": "SB-717",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（monkas.com.tr，快照 2026-10-21）",
- "summary": "土耳其 Monkas / apronX（安防与网络网店：TP-Link、Hikvision、Dahua、ZKTeco，NVR/Wi-Fi/光纤配件；KP Murat）；表内 1 次跟进无回复。",
- "type": "安防/网络网店（土耳其）",
- "size": "",
- "brands_seen": [
-  "TP-Link",
-  "Hikvision",
-  "Dahua",
-  "ZKTeco"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：apronX；品类词 安防监控（CCTV / 门禁） / 无线 / WiFi / 光纤 / 媒体转换 / 网络交换 / PoE",
-   "quote": "Yeni Ürünler；Fırsatı Kaçırma!；MAİL BÜLTENİ",
-   "url": "https://www.apronx.com.tr/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "apronX 站点",
-   "quote": "apronX ; Yeni Ürünler ; Fırsatı Kaçırma! ; NTC-5220 ; DVR-208G-K1",
-   "url": "https://www.apronx.com.tr/",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Murat",
-   "title": "（姓氏/职务待核）",
-   "email": "murat@monkas.com.tr",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "土耳其",
-  "other": "官网 monkas.com.tr，语言 tr，快照状态 ok；角色判定来源：待核"
- },
- "business_lines": [
-  "安防 / 网络产品网店"
- ],
- "channels": {
-  "role": "安防/网络网店（土耳其）",
-  "region": "土耳其",
-  "contact": "murat@monkas.com.tr"
- },
- "signals": [
-  "站点标题 apronX；首页 Yeni Ürünler ; Fırsatı Kaçırma! ; MAİL BÜLTENİ；站内品牌 TP-Link / Hikvision / Dahua / ZKTeco；站内 NTC-5220 / DVR-208G-K1",
-  "KP Murat（murat@monkas.com.tr）"
- ],
- "risks": [
-  "网店/多品牌（TP-Link 价格基准低）；土耳其汇率敏感；1 次跟进无回复；KP 姓氏/职务待核"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 20,
-  "why": "网店 PoE 位 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理 8 PoE 位 HRUI STC-028GP（列表价，注明）"
- },
- "email_hook": "Murat, alongside the TP-Link and Hikvision lines in your shop, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switches and budget 8-port PoE units from small lots, CE/RoHS, EXW USD — which port count do your camera-kit customers buy most?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A 邮箱 5 封 2025→2026，无记录打开，0 回；收件 murat@monkas.com.tr；主题多为「10G Enterprise SFP Switch、Booster PoE Switch」；Elsa 箱：`to:monkas.com.tr` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 5 / 来 0）（第 74 批(i)））",
-   "type": "安防/网络网店（土耳其）",
-   "sieve": "1（只收到群发）",
-   "stop": "5 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "TR 主攻（四主）",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 5；研究档 risks：网店/多品牌（TP-Link 价格基准低）；土耳其汇率敏感；1 次跟进无回复；KP 姓氏/职务待核"
-  },
-  "situation": "土耳其 Monkas / apronX（安防与网络网店：TP-Link、Hikvision、Dahua、ZKTeco，NVR/Wi-Fi/光纤配件；KP Murat）；表内 1 次跟进无回复。",
-  "need": "网店 PoE 位 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理 8 PoE 位 HRUI STC-028GP（列表价，注明）",
-  "breakpoint": "网店/多品牌（TP-Link 价格基准低）；土耳其汇率敏感；1 次跟进无回复；KP 姓氏/职务待核",
-  "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 20,
-   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-29 $280（10G Enterprise SFP Switch）",
-   "why": "网店 PoE 位 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理 8 PoE 位 HRUI STC-028GP（列表价，注明）",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
-   "one_question": "Murat, alongside the TP-Link and Hikvision lines in your shop, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switches and budget 8-port PoE units from small lots, CE/RoHS, EXW USD — which port count do your camera-kit customers buy most?"
-  },
-  "facts": [
-   {
-    "date": "2025-10-29",
-    "dir": "去",
-    "who": "A 箱（Alan）",
-    "quote": "10G Enterprise SFP Switch",
-    "why": "首封去信（邮箱索引；去信共 5 封）",
-    "k": "53b0fc50d1092947"
-   },
-   {
-    "date": "2026-03-10",
-    "dir": "去",
-    "who": "A 群发",
-    "quote": "10G Enterprise SFP Switch、Booster PoE Switch",
-    "why": "5 封 / 0 次打开 / 0 回｜首封 2025-10-29 → 末封 2026-03-10（5 去 / 0 来）",
-    "k": "gmail_digest"
-   },
-   {
-    "date": "2026-03-10",
-    "dir": "去",
-    "who": "A 箱（Alan）",
-    "quote": "Updated Ethernet Switches Links",
-    "why": "最近一封去信（邮箱索引；去信共 5 封）",
-    "k": "82bba2d751bcdd1e"
-   }
+  "code": "SB-717",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（skyware.com.hk，快照 2026-10-21）",
+  "summary": "香港 SkyWare（2001 年起 IP 技术创新商：可编程/可配置联网设备（楼宇/自动化，HMP200）；表内「工业 FS 周边产品」）；群发 8 次无回复。",
+  "type": "IP 设备方案商（香港，工业 FS 为周边）",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：skyware - more than solution；品类词 工业自动化 / OT 网络 / 无线 / WiFi / 数据中心 / 企业 IT / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
+      "quote": "SkyWare is a leading innovator offering IP-based technology. Founded in 2001 and based in HK, all products are programmable, configurable and devices which can be connected via local network or via the internet, offering cost effective, rel",
+      "url": "http://www.skyware.com.hk/en/index.php",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "工业FS 周边产品",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "SkyWare 定位",
+      "quote": "skyware - more than solution ; SkyWare is a leading innovator offering IP-based technology. Founded in 2001 and based in HK, all products are programmable, configurable",
+      "url": "http://www.skyware.com.hk/en/index.php",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "工业 FS 周边产品",
+      "quote": "工业FS 周边产品",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "kp": [],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "香港",
+    "other": "官网 skyware.com.hk，语言 ?，快照状态 ok；角色判定来源：官网文案"
+  },
+  "business_lines": [
+    "IP 联网设备 / 楼宇自动化方案"
+  ],
+  "channels": {
+    "role": "IP 设备方案商（香港，工业 FS 为周边）",
+    "region": "香港",
+    "contact": "sales@skyware.com.hk"
+  },
+  "signals": [
+    "官网：SkyWare is a leading innovator offering IP-based technology. Founded in 2001 and based in HK, all products are programmable, configurable and devices which can be connected via local network；kw ethernet 15 / switch 12 / industrial 9",
+    "表内：工业 FS 周边产品"
+  ],
+  "risks": [
+    "非主攻区（T5，香港）；交换机为周边品类，量小；8 次无回复，仅 sales@"
+  ],
+  "saga_fit": {
+    "p1": "STI-288GPM",
+    "tier": 30,
+    "why": "自有方案配套工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ 非 PoE STI-280GE（$50.5）贴 SkyWare 标"
+  },
+  "email_hook": "For the industrial switches that accompany your IP-based building and automation devices, we can supply Marvell-based DIN-rail 8-GE/8-PoE + 2 SFP managed units under your label from small lots (−40~75 °C, CE/RoHS) — which configuration do your projects use most?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A 邮箱 19 封 2025→2026，1 次记录打开，0 回；收件 sales@skyware.com.hk；主题多为「Industrial PoE Switch、10G Enterprise SFP Switch」）；Elsa 1:1 去信 1 封（2025-02-12「8 Port Industrial PoE Switch」；To 仅本户 sales@skyware.com.hk；Bcc 未逐封读头；同类名单抽读 24 封均无 Bcc；此后再未进 Elsa 任何名单——全箱 `from:e.sagatelecom to:sales@skyware.com.hk` 仅此 1 条，complete）（第 74 批(m)）",
+      "type": "IP 设备方案商（香港，工业 FS 为周边）",
+      "sieve": "1~2（1 次打开）",
+      "stop": "只打通用邮箱，无记录打开",
+      "revive": "保持季度群发到 2027-Q1；无打开即停",
+      "lane": "香港 非主攻",
+      "cadence": "季度",
+      "evidence": "gmail_digest：out 19，Opened 标签 1（Simon 群发追踪）；用户表：「工业FS 周边产品」；研究档 risks：非主攻区（T5，香港）；交换机为周边品类，量小；8 次无回复，仅 sales@"
+    },
+    "situation": "香港 SkyWare（2001 年起 IP 技术创新商：可编程/可配置联网设备（楼宇/自动化，HMP200）；表内「工业 FS 周边产品」）；群发 8 次无回复。",
+    "need": "自有方案配套工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ 非 PoE STI-280GE（$50.5）贴 SkyWare 标",
+    "breakpoint": "非主攻区（T5，香港）；交换机为周边品类，量小；8 次无回复，仅 sales@",
+    "saga_now": {
+      "p1": "STI-288GPM",
+      "tier": 30,
+      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-06-05 $300（48 Port PoE Managed Switch）、2025-08-05 $240（24 Port Fiber Switch）、2025-10-14 $280（10G Enterprise SFP Switch）",
+      "why": "自有方案配套工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ 非 PoE STI-280GE（$50.5）贴 SkyWare 标。已打开的主题（1/19 封有打开记录）：「Mini Industrial PoE Switch」(2025-05-07) → 读者兴趣偏「工业」；与 P1 同类，继续",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "群发节奏",
+      "channel": "A 邮箱",
+      "action": "首封前知悉：Elsa 仅 2025-02-12 单发过 1 封「8 Port Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；观察打开",
+      "one_question": "For the industrial switches that accompany your IP-based building and automation devices, we can supply Marvell-based DIN-rail 8-GE/8-PoE + 2 SFP managed units under your label from small lots (−40~75 °C, CE/RoHS) — which configuration do your projects use most?"
+    },
+    "facts": [
+      {
+        "date": "2025-02-12",
+        "dir": "out",
+        "who": "Elsa → sales@skyware.com.hk",
+        "quote": "8 Port Industrial PoE Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+        "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
+        "k": "elsa_1to1",
+        "msg_id": "194f86bc5a7e00f2"
+      },
+      {
+        "date": "2026-10-08",
+        "dir": "去",
+        "who": "A 群发",
+        "quote": "Industrial PoE Switch、10G Enterprise SFP Switch",
+        "why": "19 封 / 1 次打开 / 0 回｜首封 2025-03-14 → 末封 2026-10-08（19 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "工业FS 周边产品",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

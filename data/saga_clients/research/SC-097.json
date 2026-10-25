@@ -1,0 +1,100 @@
+{
+ "code": "SC-097",
+ "name_official": "3Lines Advanced Technologies Company（利雅得）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（3lines.com.sa，快照 2026-10-21）",
+ "summary": "沙特 2019 年成立的「愿景 2030」军民服务本地化公司（供应链与技术服务，AS9110/AS9120 航空维修资质，地面保障设备、电子诊断维修车间），采购 Eng. Mohamed Ismail 要堆叠交换机 + 整套配件、光模块 / MC，「其实是需要其他品牌的」；军工属性 → 守界降 C。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "2019 年成立，对齐愿景 2030，本地化军事与民用服务；AS9110 / AS9120B；地面保障设备",
+   "quote": "3Lines Advanced Technologies Group was established in 2019 in alignment with Saudi Vision 2030 to localize military and civilian services within the Kingdom… AS9110, AS9120B… Ground Support Equipment",
+   "url": "https://www.3lines.com.sa/en",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "堆叠 switch + 整套配件；光模块 MC；其实是需要其他品牌的",
+   "quote": "兴趣：堆叠switch+整套配件;光模块 MC 其实是需要其他品牌的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Eng. Mohamed Ismail",
+   "title": "Procurement",
+   "email": "ismail@3lines.com.sa",
+   "phone": "+966 56 974 7353",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": "C",
+ "override_reason": "守界：军事服务本地化公司（军工 / 国防客户），且需求为其他品牌堆叠交换机",
+ "notes": "（无首轮调研；由 deepen.py 建档）｜2026-10-24（第 73 批，Elsa 邮箱连接器）：Eng. Mohamed Ismail 又发过两次 RFQ 且 Elsa 均未回——2025-10-02 航空地面设备备件清单（trackball / AOS computer / SCU assy，与 Saga 无关）；2026-02-08 RFQ-3L-NR-080226 + 02-15 追问，附件已拉（data/gmail_e/attachments/SC-097_RFQ-NR_080226_2026-02-08.xlsx）= HPE DL360/MSA 服务器 + Cisco Catalyst 9300L 48p PoE + C8200 路由器 + 42U 机柜 + 100 寸屏的整套项目 BOM，唯一交换机是 Cisco 9300L 指定件 → 采购部对所有供应商群发 RFQ，守界 C 不变，不回",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（身份判断 → 军工守界降 C）"
+ },
+ "saga_fit": {
+  "p1": null,
+  "tier": 25,
+  "why": "守界不供；需求亦为品牌原装。"
+ },
+ "email_hook": "（不主动发送）",
+ "mail_review": {
+  "as_of": "2026-10-25",
+  "binding": {
+   "level": "仅 Elsa 单发（S/A 邮箱 0 封；Elsa 单发去信 1 封（2026-05-11「10G Enterprise SFP Switch」→ ismail@3lines.com.sa，未见回复（Elsa 箱 Replied 标签无）））（第 74 批(e)：S/A mail_dump + Elsa 箱 in:sent 排锚扫描 2026-10-25）；另 Elsa 单发 1 封（2025-12-29「Marvell Industrial Alert System」）",
+   "type": "军民服务本地化公司（沙特，守界）",
+   "sieve": "—",
+   "stop": "界",
+   "evidence": [
+    "mail_dump.py SC-097（S/A 全量）",
+    "data/gmail_e/elsa_sent_nonanchor_2026-10-25.json（Elsa 1:1 普查）"
+   ]
+  },
+  "situation": "沙特 3Lines Advanced Technologies（愿景 2030 军民服务本地化；Eng. Mohamed Ismail 曾要堆叠交换机 + 配件，「其实是需要其他品牌的」；军工属性 → 守界）",
+  "need": "守界（军工）；且要的是他牌堆叠",
+  "breakpoint": "S/A 0 封；Elsa 2026-05 10G 单发无回；军工",
+  "saga_now": {
+   "p1": null,
+   "tier": null,
+   "price": null,
+   "why": "守界（军工）；且要的是他牌堆叠",
+   "repeat": "无成单；不动",
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "首封前知悉：Elsa 2025-12-29 单发过「Marvell Industrial Alert System」（未见回复（Elsa 箱 Replied 标签无））；不动：守界（军工）+ 指定他牌",
+   "one_question": null
+  },
+  "facts": [
+   {
+    "date": "2026-05-11",
+    "dir": "out",
+    "who": "Elsa → ismail@3lines.com.sa",
+    "quote": "10G Enterprise SFP Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+    "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
+    "k": "elsa_1to1",
+    "msg_id": "19e16b19fc662d79"
+   },
+   {
+    "date": "2025-12-29",
+    "dir": "out",
+    "who": "Elsa → ismail@3lines.com.sa",
+    "quote": "Marvell Industrial Alert System（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+    "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
+    "k": "elsa_1to1",
+    "msg_id": "19b68e818f5b3782"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null
+ }
+}

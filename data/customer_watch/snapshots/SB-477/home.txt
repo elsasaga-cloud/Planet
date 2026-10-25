@@ -1,68 +1,336 @@
-# SB-477 portel.com.tr · home · https://www.portel.com.tr/ · fetched 2026-10-25T07:41:18Z · HTTP 200
-Portel Teknoloji A.Ş. - Ana Sayfa
-bilgi@industrialnetworkcenter.com
-+90 216 464 44 50
-Ana Sayfa
-Hakkımızda
-Hizmetlerimiz
-İletişim
-Menu
-Ana Sayfa
-Hakkımızda
-Hizmetlerimiz
-İletişim
-PORTELSHOP
-Biz Kimiz?
-Portel Teknoloji
-Portel Teknoloji, global bakış açısı ile yarı iletken ve ağ bileşenleri konusunda lider firmalar arasına girme hedefine sahip genç ve dinamik bir firmadır. Temel faaliyetlerimiz, her türlü endüstriyel network ürünleri ve yarı iletken ürünlerin temini odaklıdır.
-Hakkımızda
-0
-+
-Yıllık Tecrübe
-Portel Teknoloji, dinamik kadrosu ile önde gelen bir teknolojik ürün sağlayıcısı olmasının yanısıra 20 yılı aşkın tecrübesi ile elektronik üretim sektörüne yönelik yarı iletken ürün temini konusunda uzmandır.
-Hizmetlerimiz
-E-Ticaret Sektörü
-Detaylı Bilgi
-Enerji Sektörü
-Detaylı Bilgi
-Denizcilik Sektörü
-Detaylı Bilgi
-Çözümlerimiz
-Çözümlerimize Göz Atın
-Demiryolu Ağ Oluşturma ve Kontrol Birimi Çözümleri
-Demiyolu boyunca kullanılan yol kenarı sinyalleri ve telekomünikasyon sistemleri kontrol merkezleriyle olan veri alışverişini düzgün bir şekilde sağlayabilmek için büyük ağ sistemlerine ihtiyaç duyar.
-Detaylı Bilgi
-Şebeke Otomasyonu
-Sahip olduğumuz ürün portföyümüz, kamu ve özel sektörde şebeke otomasyonu ve besleyici otomasyonu uygulamaları alanlarında son teknoloji çözümlere ulaşılmasını sağlar.
-Detaylı Bilgi
-Yenilenebilir Enerji
-Endüstriyel nesnelerin interneti çözümleri, güneş ve rüzgardan elde edilen yenilenebilir enerjinin kullanışlı bir şekilde üretimi ve dağıtımını mümkün kılar.
-Detaylı Bilgi
-Kritik Güç
-Kritik güç yönetimi çözümleri ile güç kaynaklarından güvenilir bir güç akışı sağlandığından emin olunmak zorundadır.
-Detaylı Bilgi
-Köprü
-Denizcilik entegreli navigasyon sistemleri (ENS) yerleşik çeşitli modüler sistemlerin akıllı konsolidasyonu ile gemilerin navigasyonunu ve güvenliğini yükseltir.
-Detaylı Bilgi
-Kontrol Odası
-Bir geminin kumanda merkezini ele alacak olursak, kontrol odası geminin içerisindeki tesislerin takibi ve kontrolüyle görevlidir.
-Detaylı Bilgi
-Portel Teknoloji Hakkında
-Portel Teknoloji, global bakış açısı ile yarı iletken ve ağ bileşenleri konusunda lider firmalar arasına girme hedefine sahip genç ve dinamik bir firmadır. Temel faaliyetlerimiz, her türlü endüstriyel network ürünleri ve yarı iletken ürünlerin temini odaklıdır.
-Devamını oku
-Portel Teknoloji, global bakış açısı ile yarı iletken ve ağ bileşenleri konusunda lider firmalar arasına girme hedefine sahip genç ve dinamik bir firmadır. Temel faaliyetlerimiz, her türlü endüstriyel network ürünleri ve yarı iletken ürünlerin temini odaklıdır.
-Facebook-f
-Instagram
-Linkedin
-Hızlı Linkler
-Hakkımızda
-Hizmetlerimiz
-İletişim
-PortelShop
-İletişim
-Yalı Mah.,Kadir Sk, No:14 Helis More Residence 34873 Kat:7 Daire:82, Kartal / İstanbul
-+90 216 464 44 50
-bilgi@industrialnetworkcenter.com
-© Portel Teknoloji San. Ve Tic. A.Ş.- Tüm hakları saklıdır.
-Gizlilik Politikası
-Tasarım ve Uygulama BCWorks
+# SB-477 eminnovate.com · home · https://www.eminnovate.com/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+HOME | EM Innovations
+top of page
+Call: 503-883-7055
+DEALER LOG-IN
+CLOUD LOG-IN
+Log In
+HOME
+PRODUCTS
+LAN SWITCHES
+POWER OVER ETHERNET
+INDUSTRIAL ETHERNET
+MEDIA CONVERSION
+NETWORK SECURITY OVERVIEW
+LONG-REACH POE
+HIGH-POWERED DEVICES
+CLOUD
+SHOP
+ALL PRODUCTS
+LAN SWITCHES PRODUCTS
+POWER OVER ETHERNET PRODUCTS
+INDUSTRIAL ETHERNET
+MEDIA CONVERSION PRODUCTS
+NETWORK SECURITY PRODUCTS
+LONG REACH PoE SOLUTIONS
+CLOUD PRODUCTS
+HIGH POWERED DEVICES
+Layer 3 Managed Ethernet Switches
+Layer 3 Telecom Switch
+Layer 3 Aggregation Switch with LCD Touch Screen
+Home/SOHO Switches
+SOHO Gigabit Ethernet Switch
+SOHO Fast Ethernet Switch
+Layer L2/L4 Managed Ethernet Switches
+Layer 3 Enterprise Switch
+L2/L4 Gigabit Ethernet Switch
+Unmanaged Ethernet Switches
+L2/L4 Fast Ethernet Switch
+Gigabit Ethernet Switches
+Gigabit PoE Switch
+Fast Ethernet Switch
+Switch Accessories
+Fast Ethernet PoE Switch
+100G/40G/10G Transceiver
+L2+ 10G Ethernet Switch with LCD Touch Screen
+L2+ 10G Ethernet Switch
+L2+ Stackable Gigabit Ethernet Switch
+Layer 2+ Managed Ethernet Switches
+L2+ Metro Ethernet Switch
+Layer 3 Managed PoE Switches
+L2+ Gigabit Ethernet Switch
+Layer 2/2+ Managed PoE Switches
+PoE Injector/Splitter
+PoE Injector Hubs
+PoE Media Converter
+Unmanaged PoE Switches
+PoE Extender
+Industrial Power over Ethernet
+802.3at PoE+ L3 Managed Switch
+802.3bt PoE++/Ultra PoE L3 Managed Switch
+LCD PoE Switches
+802.3bt Ultra PoE L2/L4 Gigabit Switch
+802.3at PoE+ L2+ Gigabit Switch
+802.3at PoE+ L2/L4 Gigabit Switch
+802.3at PoE+ L2/L4 Fast Ethernet Switch
+802.3bt PoE++/Ultra PoE Managed Switch
+802.3at PoE+ Managed Switch
+802.3at PoE+ Gigabit Switch
+802.3at PoE+ Fast Ethernet Switch
+802.3at PoE+ Gigabit Unmanaged Switch
+802.3at PoE+ Fast Ethernet Unmanaged Switch
+802.3bt Ultra PoE L2+ Gigabit Switch
+Power over Coaxial Extender
+Power over Coaxial/UTP Extender
+802.3at PoE+ Injector Hub
+802.3bt Ultra PoE Injector Hub
+802.3bt Ultra PoE Injector
+802.3at PoE+ Injector
+802.3at PoE+ Splitter
+802.3bt Ultra PoE Extender
+802.3at PoE+ Extender
+802.3at PoE+ Media Converter
+802.3bt PoE++ Media Converter
+802.3bt Ultra PoE Splitter
+Rack-mount L3 Ring Managed Gigabit PoE Switches
+DIN-rail L2+ Ring Managed Gigabit PoE Switches
+DIN-rail L3 Ring Managed Gigabit PoE Switches
+DIN-rail L2/L4 Managed Gigabit PoE Switches
+DIN-rail Managed Fast Ethernet PoE Switch
+DIN-rail Unmanaged Gigabit PoE Switch
+PoE Injector/Splitter/Extenders
+Rack-mount Ethernet Switches
+PoE Media Converters
+Power over Coaxial Managed Switch
+Rack-mount L3 Managed Ethernet Switch
+Rack-mount Managed Ethernet Switch
+DIN-rail Managed Ethernet Switches
+L3 Ring Managed Ethernet Switch
+L2+ Ring Managed Gigabit Ethernet Switch
+L2/L4 Managed Gigabit Ethernet Switch
+DIN-rail Unmanaged Ethernet Switches
+Gigabit Ethernet Switch
+Industrial Fast Ethernet Switch
+Industrial Power over Ethernet
+DIN-rail L3 Ring Managed Gigabit PoE Switches
+DIN-rail L2+ Ring Managed Gigabit PoE Switch
+DIN-rail L2/L4 Managed Gigabit PoE Switches
+Industrial DIN-rail Unmanaged Gigabit PoE Switch
+Industrial DIN-rail Managed Fast Ethernet PoE Sw
+DIN-rail Unmanaged Fast Ethernet PoE Switch
+PoE Injector/Splitter/Extenders
+Industrial PoE Media Converter
+Industrial Flat-type Ethernet
+Gigabit Router
+L2+ Managed PoE Switch
+L2/L4 Managed PoE Switch
+Industrial L2/L4 Managed Gigabit Ethernet Switch
+EN50155 Ethernet Switches
+Industrial L2+ Ring Managed Gigabit Ethernet Sw
+Unmanaged Fast Ethernet Switch
+Industrial Wireless and Cellular Gateway
+Industrial Secure Routers
+Renewable Energy PoE System
+Industrial Media Converter
+DIN-rail Gigabit PoE Converter
+DIN-rail Power Supplies
+DIN-rail Gigabit Ethernet Converter
+48V DC
+24V DC
+2-channel Optical Fiber Bypass Switch
+Chassis Managed Fast Ethernet Media Converter
+DIN-rail Fast Ethernet Converter
+Fast Ethernet Media Converter
+Gigabit Media Converter
+Industrial Media Conversion Converter
+Media Conv 100G/40G/10G Transceiver
+Media Conv DIN-rail Gigabit Ethernet Converter
+Media Conv DIN-rail Gigabit PoE Converter
+Media Conv Video Optical Transmission
+Media Converter Chassis
+Optical Fiber Bypass Switch
+SFP/SFP+/QSFP Transceiver
+Standard Fast Ethernet Media Converter
+Video Optical Transmission
+Unmanaged Media Converter Chassis
+Chassis Managed Gigabit Media Converter
+Standard Gigabit Media Converter
+Standard PoE Fast Ethernet Media Converter
+DIN-Rail Fast Ethernet POE Switch HP
+Industrial Flat Ethernet Solution HP
+Unmanaged POE Switches with LCD Monitoring HP
+Layer 3 Aggregation Switch
+Unmanaged Ethernet Switches
+Switch Accessories
+Home/SOHO Switches
+DIN-rail Fast Ethernet Converter
+Cellular Gateway
+WARRANTIES
+ABOUT
+CONTACT
+BECOME A DEALER
+DOWNLOADS
+More
+Use tab to navigate through the menu items.
+Networking and Communication
+Comprehensive and integrated networking solutions
+EXPLORE OUR PRODUCT LINES
+LAN Switches
+Media Conversion
+Cloud
+Power over Ethernet (PoE)
+Network Security
+High Powered Devices
+Industrial Ethernet
+Long Reach PoE Solutions
+All Products
+HOME
+PRODUCTS
+LAN SWITCHES
+POWER OVER ETHERNET
+INDUSTRIAL ETHERNET
+MEDIA CONVERSION
+NETWORK SECURITY OVERVIEW
+LONG-REACH POE
+HIGH-POWERED DEVICES
+CLOUD
+SHOP
+ALL PRODUCTS
+LAN SWITCHES PRODUCTS
+POWER OVER ETHERNET PRODUCTS
+INDUSTRIAL ETHERNET
+MEDIA CONVERSION PRODUCTS
+NETWORK SECURITY PRODUCTS
+LONG REACH PoE SOLUTIONS
+CLOUD PRODUCTS
+HIGH POWERED DEVICES
+Layer 3 Managed Ethernet Switches
+Layer 3 Telecom Switch
+Layer 3 Aggregation Switch with LCD Touch Screen
+Home/SOHO Switches
+SOHO Gigabit Ethernet Switch
+SOHO Fast Ethernet Switch
+Layer L2/L4 Managed Ethernet Switches
+Layer 3 Enterprise Switch
+L2/L4 Gigabit Ethernet Switch
+Unmanaged Ethernet Switches
+L2/L4 Fast Ethernet Switch
+Gigabit Ethernet Switches
+Gigabit PoE Switch
+Fast Ethernet Switch
+Switch Accessories
+Fast Ethernet PoE Switch
+100G/40G/10G Transceiver
+L2+ 10G Ethernet Switch with LCD Touch Screen
+L2+ 10G Ethernet Switch
+L2+ Stackable Gigabit Ethernet Switch
+Layer 2+ Managed Ethernet Switches
+L2+ Metro Ethernet Switch
+Layer 3 Managed PoE Switches
+L2+ Gigabit Ethernet Switch
+Layer 2/2+ Managed PoE Switches
+PoE Injector/Splitter
+PoE Injector Hubs
+PoE Media Converter
+Unmanaged PoE Switches
+PoE Extender
+Industrial Power over Ethernet
+802.3at PoE+ L3 Managed Switch
+802.3bt PoE++/Ultra PoE L3 Managed Switch
+LCD PoE Switches
+802.3bt Ultra PoE L2/L4 Gigabit Switch
+802.3at PoE+ L2+ Gigabit Switch
+802.3at PoE+ L2/L4 Gigabit Switch
+802.3at PoE+ L2/L4 Fast Ethernet Switch
+802.3bt PoE++/Ultra PoE Managed Switch
+802.3at PoE+ Managed Switch
+802.3at PoE+ Gigabit Switch
+802.3at PoE+ Fast Ethernet Switch
+802.3at PoE+ Gigabit Unmanaged Switch
+802.3at PoE+ Fast Ethernet Unmanaged Switch
+802.3bt Ultra PoE L2+ Gigabit Switch
+Power over Coaxial Extender
+Power over Coaxial/UTP Extender
+802.3at PoE+ Injector Hub
+802.3bt Ultra PoE Injector Hub
+802.3bt Ultra PoE Injector
+802.3at PoE+ Injector
+802.3at PoE+ Splitter
+802.3bt Ultra PoE Extender
+802.3at PoE+ Extender
+802.3at PoE+ Media Converter
+802.3bt PoE++ Media Converter
+802.3bt Ultra PoE Splitter
+Rack-mount L3 Ring Managed Gigabit PoE Switches
+DIN-rail L2+ Ring Managed Gigabit PoE Switches
+DIN-rail L3 Ring Managed Gigabit PoE Switches
+DIN-rail L2/L4 Managed Gigabit PoE Switches
+DIN-rail Managed Fast Ethernet PoE Switch
+DIN-rail Unmanaged Gigabit PoE Switch
+PoE Injector/Splitter/Extenders
+Rack-mount Ethernet Switches
+PoE Media Converters
+Power over Coaxial Managed Switch
+Rack-mount L3 Managed Ethernet Switch
+Rack-mount Managed Ethernet Switch
+DIN-rail Managed Ethernet Switches
+L3 Ring Managed Ethernet Switch
+L2+ Ring Managed Gigabit Ethernet Switch
+L2/L4 Managed Gigabit Ethernet Switch
+DIN-rail Unmanaged Ethernet Switches
+Gigabit Ethernet Switch
+Industrial Fast Ethernet Switch
+Industrial Power over Ethernet
+DIN-rail L3 Ring Managed Gigabit PoE Switches
+DIN-rail L2+ Ring Managed Gigabit PoE Switch
+DIN-rail L2/L4 Managed Gigabit PoE Switches
+Industrial DIN-rail Unmanaged Gigabit PoE Switch
+Industrial DIN-rail Managed Fast Ethernet PoE Sw
+DIN-rail Unmanaged Fast Ethernet PoE Switch
+PoE Injector/Splitter/Extenders
+Industrial PoE Media Converter
+Industrial Flat-type Ethernet
+Gigabit Router
+L2+ Managed PoE Switch
+L2/L4 Managed PoE Switch
+Industrial L2/L4 Managed Gigabit Ethernet Switch
+EN50155 Ethernet Switches
+Industrial L2+ Ring Managed Gigabit Ethernet Sw
+Unmanaged Fast Ethernet Switch
+Industrial Wireless and Cellular Gateway
+Industrial Secure Routers
+Renewable Energy PoE System
+Industrial Media Converter
+DIN-rail Gigabit PoE Converter
+DIN-rail Power Supplies
+DIN-rail Gigabit Ethernet Converter
+48V DC
+24V DC
+2-channel Optical Fiber Bypass Switch
+Chassis Managed Fast Ethernet Media Converter
+DIN-rail Fast Ethernet Converter
+Fast Ethernet Media Converter
+Gigabit Media Converter
+Industrial Media Conversion Converter
+Media Conv 100G/40G/10G Transceiver
+Media Conv DIN-rail Gigabit Ethernet Converter
+Media Conv DIN-rail Gigabit PoE Converter
+Media Conv Video Optical Transmission
+Media Converter Chassis
+Optical Fiber Bypass Switch
+SFP/SFP+/QSFP Transceiver
+Standard Fast Ethernet Media Converter
+Video Optical Transmission
+Unmanaged Media Converter Chassis
+Chassis Managed Gigabit Media Converter
+Standard Gigabit Media Converter
+Standard PoE Fast Ethernet Media Converter
+DIN-Rail Fast Ethernet POE Switch HP
+Industrial Flat Ethernet Solution HP
+Unmanaged POE Switches with LCD Monitoring HP
+Layer 3 Aggregation Switch
+Unmanaged Ethernet Switches
+Switch Accessories
+Home/SOHO Switches
+DIN-rail Fast Ethernet Converter
+Cellular Gateway
+WARRANTIES
+ABOUT
+CONTACT
+BECOME A DEALER
+DOWNLOADS
+More
+Use tab to navigate through the menu items.
+Copyright 2020 EM Innovations
+All Rights Reserved
+bottom of page

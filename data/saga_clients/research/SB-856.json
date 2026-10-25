@@ -2,124 +2,135 @@
  "code": "SB-856",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "在线（promeshswitch.com，快照 2026-10-21）",
- "summary": "德国 PROmesh（Indu-Sol GmbH 的工业交换机品牌站：PROmesh B8 compact / B12 PoE / P9+ / U3 三大家族，「Bestpreise für Netzwerkprofis」；与 SB-314 InduSol America 同一集团；表内「工业 FS，质量高」）；群发 14 次无回复。",
- "type": "同行厂商（Indu-Sol PROmesh 自产）",
+ "website_status": "在线（o-tc.co.uk，快照 2026-10-21）",
+ "summary": "英国 Omond-Tong Consultancy Ltd（O-TC：Eplan P8 电气设计服务与自动化咨询，Siemens 自动化与 IoT 方案、培训；表内询盘「2 个 24V 百兆工业 MC FC/SC」；KP Martin Omond Tong；电话加不上；「可以多跟进一下」）；群发 18 次无回复。",
+ "type": "电气设计/自动化咨询（英国，工业 MC 小量询盘）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Siemens"
+ ],
  "evidence": [
   {
    "kind": "官网快照",
-   "claim": "官网标题：PROmesh；品类词 工业自动化 / OT 网络 / 光纤 / 媒体转换 / 网络交换 / PoE",
-   "quote": "Die Serie der PROmesh Switches umfasst drei Familien leistungsfähiger Switches für alle industriellen Anwendungen.",
-   "url": "https://promeshswitch.com/",
+   "claim": "官网标题：Electrical Design using Eplan P8 2024 - Omond-Tong Consultancy Ltd；品类词 工业自动化 / OT 网络 / 无线 / WiFi / 网络交换 / PoE",
+   "quote": "O-TC Ltd provide electrical design services and solutions to companies requiring Eplan P8 expertise when changing from other Electrical CAD systems",
+   "url": "https://www.o-tc.co.uk/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
    "claim": "表内兴趣/备注",
-   "quote": "工业FS",
+   "quote": "2个 24V百兆工业MC FC/SC；44-1507-311002 加不上",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   },
   {
    "kind": "官网快照",
-   "claim": "PROmesh 三大工业交换机家族",
-   "quote": "Die Serie der PROmesh Switches umfasst drei Familien leistungsfähiger Switches für alle industriellen Anwendungen.",
-   "url": "https://promeshswitch.com/",
+   "claim": "O-TC 定位",
+   "quote": "Electrical Design using Eplan P8 2024 - Omond-Tong Consultancy Ltd ; O-TC Ltd provide electrical design services and solutions to companies requiring Eplan P8 expertise",
+   "url": "https://www.o-tc.co.uk/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "工业 FS，质量高",
-   "quote": "工业FS；质量高",
+   "claim": "24V 百兆工业 MC ×2",
+   "quote": "2个 24V百兆工业MC FC/SC；44-1507-311002 加不上",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
- "kp": [],
- "grade_override": "C",
- "override_reason": "同行厂商：Indu-Sol GmbH 自产 PROmesh 工业交换机品牌站，非 OEM 买家；c_sub=厂商办事处/同行",
+ "kp": [
+  {
+   "name": "Martin Omond Tong",
+   "title": "（负责人）",
+   "email": "martin@o-tc.co.uk",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "德国",
-  "other": "官网 promeshswitch.com，语言 de-DE，快照状态 ok；角色判定来源：官网文案"
+  "hq": "英国",
+  "other": "官网 o-tc.co.uk，语言 en，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "工业交换机（PROmesh 自有品牌）"
+  "Eplan 电气设计 / 自动化咨询（英国）"
  ],
  "channels": {
-  "role": "同行厂商（Indu-Sol PROmesh 自产）",
-  "region": "德国",
-  "contact": "info@indu-sol.com"
+  "role": "电气设计/自动化咨询（英国，工业 MC 小量询盘）",
+  "region": "英国",
+  "contact": "martin@o-tc.co.uk"
  },
  "signals": [
-  "产品页 /product/promesh-b12-poe/、/promesh-p9/、/promesh-b8/、/promesh-u3/",
-  "官网：Die Serie der PROmesh Switches umfasst drei Familien"
+  "官网：O-TC Ltd provide electrical design services and solutions to companies requiring Eplan P8 expertise；首页 Automation Consultancy ; Siemens Automation & IOT Solutions；kw automation 71",
+  "表内：2 个 24V 百兆工业 MC FC/SC；44-1507-311002 加不上；KP Martin Omond Tong；可以多跟进一下"
  ],
  "risks": [
-  "同行厂商：PROmesh 自研自产（德国），不会采购中国白牌",
-  "与 SB-314 InduSol America 同集团，两档均 C"
+  "小型咨询公司、询盘仅 2 台（低量）；FC 口型 Saga 列表无（注明）；18 次无回复、电话不通"
  ],
  "saga_fit": {
-  "p1": null,
+  "p1": "STI-110FE",
   "tier": 25,
-  "why": "PROmesh 为 Indu-Sol 自研自产工业交换机（德国）→ 非 OEM 买家 → 改 C（与 SB-314 同口径）"
+  "why": "询盘 2 台 24 V 百兆工业 MC（FC/SC）→ 工业 FE MC STI-110FE（$20.6 @25%，SFP/SC 口——FC 口型待核，注明）；千兆版 STI-110GE（$23.4）"
  },
- "email_hook": "（不发送：同行厂商）",
+ "email_hook": "Martin, regarding the two 24 V industrial fast-Ethernet media converters: we supply DIN-rail FE and gigabit MCs (12–57 V input, −40~75 °C, SC/SFP fibre ports, UKCA/CE/RoHS) from single units, EXW USD — is an SC-connector unit acceptable, or must it be FC?",
  "mail_review": {
-  "as_of": "2026-10-25",
   "binding": {
-   "level": "已发未回（无人工回复、无打开记录；S 6 封 2024-07-11→2024-12-05、A 11 封 2025-03-20→2026-03-06，共 17 封群发，0 真实回复；Elsa 单发去信 1 封（2025-02-10「24 Port Fiber Switch」→ info@indu-sol.com，未见回复（Elsa 箱 Replied 标签无）））（第 74 批(e)：S/A mail_dump + Elsa 箱 in:sent 排锚扫描 2026-10-25）",
-   "type": "同行厂商（Indu-Sol PROmesh 自产）",
-   "sieve": "1",
-   "stop": "读",
-   "evidence": [
-    "mail_dump.py SB-856（S/A 全量）",
-    "data/gmail_e/elsa_sent_nonanchor_2026-10-25.json（Elsa 1:1 普查）"
-   ]
+   "level": "未触达（A/S 邮箱 27 封 2024→2026，1 次记录打开，0 回；收件 martin@o-tc.co.uk；主题多为「Managed Optical Bypass Switch、Industrial PoE Switch」；Elsa 箱：`to:.uk` 穷举 34 条（2026-10-25，锚批 Bcc 头已读）未见 o-tc.co.uk → Elsa 箱从未发过本户，往来只在 S/A 箱（去 27 / 来 0）（第 74 批(f)））",
+   "type": "电气设计/自动化咨询（英国，工业 MC 小量询盘）",
+   "sieve": "1~2（1 次打开）",
+   "stop": "27 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+   "lane": "UK 主攻（四主）",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 27，Opened 标签 1（Simon 群发追踪）；用户表：「2个 24V百兆工业MC FC/SC；44-1507-311002 加不上」；研究档 risks：小型咨询公司、询盘仅 2 台（低量）；FC 口型 Saga 列表无（注明）；18 次无回复、电话不通"
   },
-  "situation": "德国 PROmesh / Indu-Sol（自产工业交换机品牌；与 SB-314 InduSol America 同集团；同行）",
-  "need": "同行厂商，无外采口",
-  "breakpoint": "同行；info@ 17 封 0 回",
+  "situation": "英国 Omond-Tong Consultancy Ltd（O-TC：Eplan P8 电气设计服务与自动化咨询，Siemens 自动化与 IoT 方案、培训；表内询盘「2 个 24V 百兆工业 MC FC/SC」；KP Martin Omond Tong；电话加不上；「可以多跟进一下」）；群发 18 次无回复。",
+  "need": "询盘 2 台 24 V 百兆工业 MC（FC/SC）→ 工业 FE MC STI-110FE（$20.6 @25%，SFP/SC 口——FC 口型待核，注明）；千兆版 STI-110GE（$23.4）",
+  "breakpoint": "小型咨询公司、询盘仅 2 台（低量）；FC 口型 Saga 列表无（注明）；18 次无回复、电话不通",
   "saga_now": {
-   "p1": null,
-   "tier": null,
-   "price": null,
-   "why": "同行厂商，无外采口",
-   "repeat": "无成单；不动",
+   "p1": "STI-110FE",
+   "tier": 25,
+   "price": "换人再触锚价 STI-110FE $20.6 EXW（主表档位（无实报；PDF 上限 $23.1）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-30 $65（10G Media Converter）、2024-11-07 $300（48 Port PoE Managed Switch）、2025-02-06 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-08-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-09 $280（10G Enterprise SFP Switch）、2026-06-12 $16000（32 Port 400GB DC Switch）",
+   "why": "询盘 2 台 24 V 百兆工业 MC（FC/SC）→ 工业 FE MC STI-110FE（$20.6 @25%，SFP/SC 口——FC 口型待核，注明）；千兆版 STI-110GE（$23.4）。已打开的主题（1/27 封有打开记录）：「Marvell Industrial Alert System」(2025-12-12) → 读者兴趣偏「工业」；与 P1 同类，继续",
+   "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "不动：同行厂商（与 SB-314 同线）",
-   "one_question": null
+   "when": "2027-Q1（换人后）",
+   "channel": "A 邮箱 → 具名 KP",
+   "action": "换收件人再发一封（第 75 批(y) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用）；「欠答」开头（用户表询盘 2 台 24 V 百兆 MC）；FC 口型写 on request，发前核）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
+   "one_question": "Martin, regarding the two 24 V industrial fast-Ethernet media converters: we supply DIN-rail FE and gigabit MCs (12–57 V input, −40~75 °C, SC/SFP fibre ports, UKCA/CE/RoHS) from single units, EXW USD — is an SC-connector unit acceptable, or must it be FC? Reference: STI-110FE at $20.6 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
    {
-    "date": "2026-03-06",
+    "date": "2026-08-28",
     "dir": "去",
-    "who": "S/A 群发",
-    "quote": "8 port network switch, Industrial poe switch, Rack Managed Switch, 10G Media Converter",
-    "why": "S 6 封 2024-07-11→2024-12-05、A 11 封 2025-03-20→2026-03-06，共 17 封群发，0 真实回复｜首封 2024-07-11 → 末封 2026-03-06",
+    "who": "A/S 群发",
+    "quote": "Managed Optical Bypass Switch、Industrial PoE Switch",
+    "why": "27 封 / 1 次打开 / 0 回｜首封 2024-06-30 → 末封 2026-08-28（27 去 / 0 来）",
     "k": "gmail_digest"
    },
    {
-    "date": "2025-02-10",
-    "dir": "out",
-    "who": "Elsa → info@indu-sol.com",
-    "quote": "24 Port Fiber Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
-    "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
-    "k": "elsa_1to1",
-    "msg_id": "194ef68a4707fa73"
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "2个 24V百兆工业MC FC/SC；44-1507-311002 加不上",
+    "why": "表内备注",
+    "k": "用户表"
    }
   ],
   "proof_gaps": [],
-  "draft_en": null
+  "draft_en": {
+   "subject": "Your enquiry for two 24 V industrial Fast Ethernet media converters - the answer you did not get",
+   "body": "Hi Martin,\n\nYou asked us for two 24 V industrial Fast Ethernet media converters with FC/SC fibre ports and did not get a proper answer from us - apologies, here it is (the product mails you had since were general ones).\n\nDIN-rail industrial Fast Ethernet media converter, 1 x 10/100 RJ45 + 1 x 100M fibre, 12-58 V DC (24 V is fine), -40 to 75 C, UKCA/CE/RoHS - model STI-110FE - $20.6 USD EXW each (MOQ 1, 15-day validity); SC connector as standard, FC on request; the Gigabit version - STI-110GE - $26.5. Two units ship as a parcel by courier.\n\nOne question: is an SC-connector unit acceptable, or must it be FC - and single-mode or multimode?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+  },
+  "as_of": "2026-10-24"
  }
 }

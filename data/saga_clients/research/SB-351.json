@@ -2,44 +2,64 @@
  "code": "SB-351",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "在线（canacctv.com，快照 2026-10-21）",
- "summary": "加拿大 CANACCTV（视频监控供应网店：摄像机、NVR、监视器、HDMI/KVM 延长器；Hikvision；表内「主要是 CCTV 少量商业 PoE」「用的国内的」）；群发 15 次无回复。",
- "type": "CCTV 供应网店（加拿大）",
+ "website_status": "在线（enetusa.com，快照 2026-10-21）",
+ "summary": "美国 ENETUSA（OEM 兼容光模块、DAC、AOC（至 1.6T OSFP）、光纤线缆组件，面向 AI/HPC 与超大规模；表内「MC cabling 自己的 logo」「可以尝试多跟进一下」；KP Jason Barrette（CEO）、Gordon Judson（Product Manager）、Aaron S（Purchasing Manager））；群发 10 次无回复。",
+ "type": "光模块/线缆品牌商（美国，MC 为副线）",
  "size": "",
- "brands_seen": [
-  "Hikvision"
- ],
+ "brands_seen": [],
  "evidence": [
   {
    "kind": "官网快照",
-   "claim": "官网标题：CANACCTV – Supply for Video Surveillance；品类词 安防监控（CCTV / 门禁） / 无线 / WiFi / 布线 / 线缆 / 网络交换 / PoE",
-   "quote": "BEST SELLER；CCTV Pro-Monitor 24″ Up to 1080P Built-in Speakers + Wall mount；CHE-66B (FullHD HDMI/USB KVM Extender Over a CAT.5e cable up to 60M)；DB-35-WF (AI WiFi Doorbell ) 5MP；HE60 (Finger size HDMI Extender 1080P Over a CAT.5e cable up t",
-   "url": "https://canacctv.com/",
+   "claim": "官网标题：ENETUSA；品类词 数据中心 / 企业 IT / 布线 / 线缆 / 光纤 / 媒体转换",
+   "quote": "ENETUSA",
+   "url": "https://enetusa.com/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
    "claim": "表内兴趣/备注",
-   "quote": "主要是CCTV 少量商业POE",
+   "quote": "MC cabling 自己的logo",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   },
   {
    "kind": "官网快照",
-   "claim": "CANACCTV 定位",
-   "quote": "CANACCTV – Supply for Video Surveillance ; BEST SELLER ; CCTV Pro-Monitor 24″",
-   "url": "https://canacctv.com/",
+   "claim": "ENETUSA 首页",
+   "quote": "ENETUSA ; OEM Compatible Transceivers, DACs, and AOCs ; POWERING THE FUTURE OF CONNECTIVITY ; Powering AI/HPC and Hyperscale Technology",
+   "url": "https://enetusa.com/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "CCTV 少量商业 PoE 用国内的",
-   "quote": "主要是CCTV 少量商业POE；用的国内的",
+   "claim": "MC cabling 自己的 logo",
+   "quote": "MC cabling 自己的logo；可以尝试多跟进一下",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Gordon Judson",
+   "title": "Product Manager",
+   "email": "sales@enetusa.com",
+   "phone": "",
+   "source": "用户表"
+  },
+  {
+   "name": "Jason Barrette",
+   "title": "CEO",
+   "email": "jason@enetusa.com",
+   "phone": "",
+   "source": "用户表"
+  },
+  {
+   "name": "Aaron S",
+   "title": "Purchasing Manager",
+   "email": "",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
@@ -48,80 +68,89 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "加拿大",
-  "other": "官网 canacctv.com，语言 en-US，快照状态 ok；角色判定来源：用户表"
+  "hq": "美国",
+  "other": "官网 enetusa.com，语言 en，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "视频监控设备网店（加拿大）"
+  "OEM 兼容光模块 / DAC / AOC / 线缆（自有品牌 ENET）"
  ],
  "channels": {
-  "role": "CCTV 供应网店（加拿大）",
-  "region": "加拿大",
-  "contact": "admin@canacctv.com"
+  "role": "光模块/线缆品牌商（美国，MC 为副线）",
+  "region": "美国",
+  "contact": "sales@enetusa.com、jason@enetusa.com"
  },
  "signals": [
-  "官网：CANACCTV – Supply for Video Surveillance ; BEST SELLER ; CCTV Pro-Monitor 24″ ; CHE-66B (FullHD HDMI/USB KVM Extender)；kw camera 120 / nvr 110 / hikvision 16",
-  "表内：主要是 CCTV 少量商业 PoE；用的国内的"
+  "首页 OEM Compatible Transceivers, DACs, and AOCs ; Powering AI/HPC and Hyperscale Technology ; 1.6T DR8 OSFP224 Transceivers；kw cable 55 / fiber 18 / oem 7",
+  "表内：MC cabling 自己的 logo；可以尝试多跟进一下；KP Jason Barrette / CEO；Gordon Judson / Product Manager；Aaron S / Purchasing Manager"
  ],
  "risks": [
-  "现用国内货（价格基准低）；PoE 用量少；15 次无回复，仅 admin@"
+  "主业光模块/线缆（Saga 不供）：MC 为副线，契合度低",
+  "10 次无回复 → 改向 Product Manager / Purchasing Manager 具名首触"
  ],
  "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 20,
-  "why": "CCTV 配套 PoE（现国内货）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理 4/8/16 PoE 位 HRUI（列表价，注明）"
+  "p1": "STI-110GE",
+  "tier": 30,
+  "why": "自有 logo MC → 工业千兆 MC STI-110GE（$24.3 @30%）/ PoE MC STI-111GP 贴 ENET 标；桌面 MC 用 HRUI（列表价，注明）；光模块/DAC Saga 不供（Q-32）"
  },
- "email_hook": "For the PoE switches you list with cameras and NVRs, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ (and budget 4/8/16-PoE unmanaged) from single units, FCC/CE/RoHS, EXW USD — which PoE port count do your installer customers buy most?",
+ "email_hook": "Gordon, for the media converters carried under the ENET label alongside your transceivers and cable assemblies, we can supply industrial gigabit and PoE MCs (and 8-GE + 2 SFP switches) in your packaging from small lots, FCC/CE/RoHS — which MC configuration do your customers order most with fibre links?",
  "mail_review": {
   "binding": {
-   "level": "读而不回（A/S 邮箱 25 封 2024→2026，其中 2 封被打开，0 回；收件 admin@canacctv.com；被打开主题「Industrial PoE Switch、10G Enterprise SFP Switch」；Elsa 箱：`to:canacctv.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 25 / 来 0）（第 74 批(h)））",
-   "type": "CCTV 供应网店（加拿大）",
-   "sieve": "2（有人在读，无人回）",
-   "stop": "读而不回 = 内容未命中或没有当下需求",
-   "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
-   "lane": "CA 主攻",
-   "cadence": "一封；回了再说",
-   "evidence": "gmail_digest：out 25，Opened 标签 2（Simon 群发追踪）；用户表：「主要是CCTV 少量商业POE」；研究档 risks：现用国内货（价格基准低）；PoE 用量少；15 次无回复，仅 admin@"
+   "level": "未触达（A/S 邮箱 22 封 2025→2026，无记录打开，0 回；收件 aaron@enetusa.com, gordon@enetusa.com；主题多为「Managed Optical Bypass Switch、Marvell Industrial Alert System」；Elsa 箱：`to:enetusa.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 22 / 来 0）（第 74 批(h)））",
+   "type": "光模块/线缆品牌商（美国，MC 为副线）",
+   "sieve": "1（只收到群发）",
+   "stop": "22 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+   "lane": "US 主攻（四主）",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 22；用户表：「MC cabling 自己的logo」；研究档 risks：主业光模块/线缆（Saga 不供）：MC 为副线，契合度低"
   },
-  "situation": "加拿大 CANACCTV（视频监控供应网店：摄像机、NVR、监视器、HDMI/KVM 延长器；Hikvision；表内「主要是 CCTV 少量商业 PoE」「用的国内的」）；群发 15 次无回复。",
-  "need": "CCTV 配套 PoE（现国内货）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理 4/8/16 PoE 位 HRUI（列表价，注明）",
-  "breakpoint": "现用国内货（价格基准低）；PoE 用量少；15 次无回复，仅 admin@",
+  "situation": "美国 ENETUSA（OEM 兼容光模块、DAC、AOC（至 1.6T OSFP）、光纤线缆组件，面向 AI/HPC 与超大规模；表内「MC cabling 自己的 logo」「可以尝试多跟进一下」；KP Jason Barrette（CEO）、Gordon Judson（Product Manager）、Aaron S（Purchasing Manager））；群发 10 次无回复。",
+  "need": "自有 logo MC → 工业千兆 MC STI-110GE（$24.3 @30%）/ PoE MC STI-111GP 贴 ENET 标；桌面 MC 用 HRUI（列表价，注明）；光模块/DAC Saga 不供（Q-32）",
+  "breakpoint": "主业光模块/线缆（Saga 不供）：MC 为副线，契合度低",
   "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 20,
-   "price": "首触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-08 $65（10G fiber media converter）；群发里他已看到的价（续）：2026-08-06 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-24 $280（10G Enterprise SFP Switch）",
-   "why": "CCTV 配套 PoE（现国内货）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理 4/8/16 PoE 位 HRUI（列表价，注明）。已打开的主题（2/25 封有打开记录）：「90W PoE Managed Switch」(2025-08-28)、「WiFi 7 Ready Access Switch」(2026-08-24) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-03-05)、Product Link_2026Q3(2026-07-06)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）",
+   "p1": "STI-110GE",
+   "tier": 30,
+   "price": "换人再触锚价 STI-110GE $26.5 EXW（最近实报 SA-001 2025-11-27 $26.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-19 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-01-22 $240（24 Port Fiber Switch）、2025-06-10 $300（48 Port PoE Managed Switch）、2025-10-01 $280（10G Enterprise SFP Switch）",
+   "why": "自有 logo MC → 工业千兆 MC STI-110GE（$24.3 @30%）/ PoE MC STI-111GP 贴 ENET 标；桌面 MC 用 HRUI（列表价，注明）；光模块/DAC Saga 不供（Q-32）",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "2026-11",
-   "channel": "A 邮箱 → admin@canacctv.com",
-   "action": "短信一问（email_hook）",
-   "one_question": "For the PoE switches you list with cameras and NVRs, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ (and budget 4/8/16-PoE unmanaged) from single units, FCC/CE/RoHS, EXW USD — which PoE port count do your installer customers buy most? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
+   "when": "2027-Q1（换人后）",
+   "channel": "A 邮箱 → 具名 KP",
+   "action": "换收件人再发一封（第 75 批(t) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用；具名 KP 见 channel））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
+   "one_question": "Gordon, for the media converters carried under the ENET label alongside your transceivers and cable assemblies, we can supply industrial gigabit and PoE MCs (and 8-GE + 2 SFP switches) in your packaging from small lots, FCC/CE/RoHS — which MC configuration do your customers order most with fibre links? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
    {
-    "date": "2026-09-21",
+    "date": "2026-09-16",
     "dir": "去",
     "who": "A/S 群发",
-    "quote": "Industrial PoE Switch、10G Enterprise SFP Switch",
-    "why": "25 封 / 2 次打开 / 0 回｜首封 2024-07-03 → 末封 2026-09-21（25 去 / 0 来）",
+    "quote": "Managed Optical Bypass Switch、Marvell Industrial Alert System",
+    "why": "22 封 / 0 次打开 / 0 回｜首封 2025-01-22 → 末封 2026-09-16（22 去 / 0 来）",
     "k": "gmail_digest"
    },
    {
     "date": "2026-10-21",
     "dir": "用户表",
     "who": "Simon",
-    "quote": "主要是CCTV 少量商业POE",
+    "quote": "MC cabling 自己的logo",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-09-16",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "16 Port Industrial PoE Switch",
+    "why": "本日去信真实主题（邮箱索引 a5c067a67df20ff8；信稿开头句引用此封；此前稿内写的「Managed Optical Bypass Switch」是线程列表首题，不是本封）",
+    "k": "a5c067a67df20ff8"
    }
   ],
   "proof_gaps": [],
   "draft_en": {
-   "subject": "One question — Industrial PoE Switch",
-   "body": "Hello,\n\nWe have sent you a few mails on \"Industrial PoE Switch\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor the PoE switches you list with cameras and NVRs, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ (and budget 4/8/16-PoE unmanaged) from single units, FCC/CE/RoHS, EXW USD — which PoE port count do your installer customers buy most?\n\nReference price: 8-PoE + 2 × 1G/2.5G SFP L2+ managed switch (Marvell AC5), 120 W (STC-28DGGPM) $80.7 USD EXW, MOQ 1 pc, 15-day validity, 1-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+   "subject": "Media converters under the ENET label - next to the transceivers and cable assemblies",
+   "body": "Hi Gordon,\n\nOver the past months you had a few product mails from us - most recently \"16 Port Industrial PoE Switch\" on 16 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nTransceivers, DAC and AOC are yours and we do not touch them. For the media converters carried under the ENET label alongside them, in your packaging from small lots, -40 to 75 C, FCC/CE/RoHS: industrial Gigabit converter, 1 x RJ45 + 1 x SFP slot - model STI-110GE - $26.5 USD EXW (MOQ 1, 15-day validity); PoE version - STI-111GP - $30.1; and an 8 x Gigabit + 2 x SFP unmanaged DIN switch - STI-280GE - $46.\n\nOne question: which converter configuration do your customers order most with a fibre link - SFP-slot or fixed-fibre?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
  }

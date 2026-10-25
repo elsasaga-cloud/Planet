@@ -1,0 +1,11 @@
+# SB-453 gmtcontrol.com · feed_auto · https://gmtcontrol.com/feed/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+Thu, 01 Oct 2026 13:08:47 +0000	GMTCNT, TÜBİTAK 1501 Destekli FPGA I/O Yapılı CANBUS Tabanlı PLC Projesiyle Yerli Teknolojide Yeni Bir Adım Attı	https://gmtcontrol.com/gmtcnt-tubitak-1501-destekli-fpga-io-yapili-canbus-tabanli-plc-projesiyle-yerli-teknolojide-yeni-bir-adim-atti/
+Tue, 08 Sep 2026 10:50:36 +0000	GMTScada Sistemine Genel Bakış	https://gmtcontrol.com/gmtscada-sistemlerine-genel-bakis/
+Thu, 03 Sep 2026 10:36:58 +0000	PLC Nedir? Endüstriyel Otomasyonda PLC Seçim Rehberi ve Yerli Çözümler	https://gmtcontrol.com/plc-nedir-endustriyel-otomasyonda-plc-secim-rehberi-ve-yerli-cozumler/
+Wed, 22 Jul 2026 05:56:52 +0000	GMTCNT’den Yeni Nesil SPIN2 Solar Pompa Sürücüleri	https://gmtcontrol.com/gmtcntden-yeni-nesil-spin2-solar-pompa-suruculeri/
+Wed, 22 Jul 2026 05:40:40 +0000	Endüstriyel Otomasyonda Yerli Güç: GSR-244L İle Tanışın	https://gmtcontrol.com/endustriyel-otomasyonda-yerli-guc-gsr-244l-ile-tanisin/
+Mon, 16 Feb 2026 11:00:27 +0000	FUAR TAKVİMİ 2026	https://gmtcontrol.com/gmtcnt-2026-yili-fuar-etkinlik-takvimi-yayinlandi/
+Tue, 03 Feb 2026 12:50:35 +0000	ENDÜSTRİYEL PLC’DE YERLİ ÜRETİM GÜCÜ	https://gmtcontrol.com/endustriyel-plcde-yerli-uretim-gucu/
+Thu, 25 Dec 2025 09:25:33 +0000	Yüksek Performanslı Yeni Nesil Servo Çözümleri	https://gmtcontrol.com/yeni-nesil-sd7-serisi-servo-cozumleri/
+Thu, 25 Dec 2025 09:16:14 +0000	Yeni GSR-276TC Mini PLC Kullanıma Sunuldu	https://gmtcontrol.com/yeni-gsr-276tc-mini-plc-kullanima-sunuldu/
+Thu, 25 Dec 2025 09:02:38 +0000	GMT’DEN YENİ NESİL PLC ÇÖZÜMLERİ	https://gmtcontrol.com/gmtden-yeni-nesil-plc-cozumleri/

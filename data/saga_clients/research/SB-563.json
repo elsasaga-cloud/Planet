@@ -1,73 +1,106 @@
 {
- "code": "SB-563",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（telco.com，快照 2026-10-21）",
- "summary": "Telco Systems / BATM Networks（40+ 年电信通信方案厂商，BATM Advanced Communications（伦敦上市）旗下；运营商/政府与关键基础设施/企业，10G/CE 产品线；表内「L2/L3 Enterprise Networks」「下边都发过 CENTEC 了」；KP Eran Shalev（Director of Products）、Ziv Koren（CPO））；群发 9 次无回复。",
- "type": "上市电信设备厂商（BATM 集团）",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：BATM Networks；品类词 工业自动化 / OT 网络 / 数据中心 / 企业 IT / 光纤 / 媒体转换 / 网络交换 / PoE",
-   "quote": "Telco Systems, a global telecom leader with 40+ years of experience in the design and development of high-performance network communications solutions. With its advanced software and hardware solutions, BATM NetworksBATM Networks provides a",
-   "url": "https://www.telco.com/",
-   "date": "2026-10-21"
+  "code": "SB-563",
+  "name_official": "Holil（ISAF 名片，TR；无域名、无邮箱，仅 WhatsApp）",
+  "researched_at": "2026-10-21",
+  "website_status": "无域名",
+  "summary": "ISAF 记录：Holil（+90 538 985 94 29，WhatsApp 已加）——要 PoE 交换机、拿了彩页；无邮箱、无公司名/域名；无跟进。仅 WhatsApp 可达 → 仅表内信息，B 托底（有明确 PoE 需求 + 可达渠道）。",
+  "type": "",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "用户表",
+      "claim": "ISAF：要 PoE 交换机，拿彩页；仅电话",
+      "quote": "要PoE交换机 拿了彩页 / 90 538 985 9429 已加",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [
+    {
+      "name": "Holil",
+      "role": "（ISAF 名片）",
+      "email": "—",
+      "phone": "+90 538 985 94 29（用户表，WhatsApp 已加）",
+      "source": "（本地 Clients/ 表格，无公开 URL）"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "无域名 · 仅表内信息"
   },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "L2/L3 Enterprise Networks",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
+  "company_facts": {
+    "legal_name": "（待核）",
+    "hq": "Türkiye（城市待核）",
+    "size": "待核",
+    "other": "仅 WhatsApp"
   },
-  {
-   "kind": "官网快照",
-   "claim": "Telco Systems 定位",
-   "quote": "BATM Networks ; Telco Systems, a global telecom leader with 40+ years of experience in the design and development of high-performance network communications solutions",
-   "url": "https://www.telco.com/",
-   "date": "2026-10-21"
+  "business_lines": [
+    "（待核）"
+  ],
+  "channels": {
+    "电话": "+90 538 985 94 29（用户表，WhatsApp 已加）"
   },
-  {
-   "kind": "用户表",
-   "claim": "L2/L3 Enterprise；已发 CENTEC",
-   "quote": "L2/L3 Enterprise Networks；下边都发过CETENC了",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
+  "signals": [
+    "明确要 PoE 交换机 → WhatsApp 发 8 口 PoE 报价并问公司名"
+  ],
+  "risks": [
+    "无邮箱/公司信息；无后续跟进"
+  ],
+  "saga_fit": {
+    "p1": "STC-228GP",
+    "tier": 25,
+    "why": "默认 25% 档：STC-228GP（Saga Realtek 线 2 SFP + 8 GE PoE 非管理，列表 $30.8）；管理型 STC-28GPM（$62.2）"
+  },
+  "email_hook": "Holil Bey, ISAF'ta istediğiniz PoE switch için: 8 port gigabit PoE + 2 SFP 34,6 USD, yönetilebilir sürüm 74,0 USD EXW — firma adınızı ve kaç adet gerektiğini yazarsanız teklif hazırlayayım.",
+  "mail_review": {
+    "binding": {
+      "level": "轻度触达（展会名片 + WhatsApp 已加，邮件 0 封）：用户表「要PoE交换机 拿了彩页 / 90 538 985 9429 已加」；S/A 邮箱 0 封；Elsa 箱无可查地址（仓内无此户任何邮箱/域名——用户表/WhatsApp/展会名片户，`from:e.sagatelecom to:` 无从下手；Elsa 群发是否碰过他无法判定，不写「未触达」）（第 74 批(o)）",
+      "type": "—",
+      "sieve": "3（已加 WhatsApp，表内有往来）",
+      "stop": "仓库只有用户表一行；往来在 Simon 手机",
+      "revive": "首封邮件（A 邮箱，按 email_hook）+ WhatsApp 一句话",
+      "lane": "土耳其 非主攻",
+      "cadence": "一封",
+      "evidence": "gmail_digest：out 0；用户表：「要PoE交换机 拿了彩页 / 90 538 985 9429 已加」；研究档 risks：无邮箱/公司信息；无后续跟进"
+    },
+    "situation": "ISAF 记录：Holil（+90 538 985 94 29，WhatsApp 已加）——要 PoE 交换机、拿了彩页；无邮箱、无公司名/域名；无跟进。仅 WhatsApp 可达 → 仅表内信息，B 托底（有明确 PoE 需求 + 可达渠道）。",
+    "need": "默认 25% 档：STC-228GP（Saga Realtek 线 2 SFP + 8 GE PoE 非管理，列表 $30.8）；管理型 STC-28GPM（$62.2）",
+    "breakpoint": "无邮箱/公司信息；无后续跟进",
+    "saga_now": {
+      "p1": "STC-228GP",
+      "tier": 25,
+      "price": "Realtek 线按 HRUI 2026-09-30 进价 +25% 现算（Q-47 默认，不用 Drive 旧表价）：STC-228GP $30.8→$34.6；STC-28GPM $62.2→$74.0；按主表（研究档 saga_fit）",
+      "why": "默认 25% 档：STC-228GP（Saga Realtek 线 2 SFP + 8 GE PoE 非管理，列表 $30.8）；管理型 STC-28GPM（$62.2）",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "2026-11（Simon）",
+      "channel": "A 邮箱首封 + WhatsApp（Simon）",
+      "action": "首封 + 一句话",
+      "one_question": "Holil Bey, ISAF'ta istediğiniz PoE switch için: 8 port gigabit PoE + 2 SFP 34,6 USD, yönetilebilir sürüm 74,0 USD EXW — firma adınızı ve kaç adet gerektiğini yazarsanız teklif hazırlayayım."
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "要PoE交换机 拿了彩页 / 90 538 985 9429 已加",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [
+      "WhatsApp 往来未入库"
+    ],
+    "draft_en": {
+      "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+      "body": "Holil Bey, ISAF'ta istediğiniz PoE switch için: 8 port gigabit PoE + 2 SFP 34,6 USD, yönetilebilir sürüm 74,0 USD EXW — firma adınızı ve kaç adet gerektiğini yazarsanız teklif hazırlayayım."
+    },
+    "as_of": "2026-10-24"
   }
- ],
- "kp": [],
- "grade_override": "C",
- "override_reason": "上市厂商：Telco Systems / BATM Networks（自研电信设备），非渠道客户；c_sub=厂商/上市（非渠道）",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "美国",
-  "other": "官网 telco.com，语言 en-US，快照状态 ok；角色判定来源：官网文案"
- },
- "business_lines": [
-  "电信/运营商以太网设备（自研）"
- ],
- "channels": {
-  "role": "上市电信设备厂商（BATM 集团）",
-  "region": "美国",
-  "contact": "sales@telco.com、dlee@telco.com"
- },
- "signals": [
-  "官网：Telco Systems, a global telecom leader with 40+ years of experience in the design and development of high-performance network communications solutions；首页 Government & Critical Infrastructure ; Service Providers & MSPs；站内 XM-8424H / TM-8104；kw 10g 41",
-  "表内：L2/L3 Enterprise Networks；下边都发过 CETENC 了；KP Eran Shalev / Director of Products；Ziv Koren / Chief Product Officer"
- ],
- "risks": [
-  "上市厂商：Telco Systems（BATM Advanced Communications 旗下），自研产品线；政府/关键基础设施客户导向；9 次无回复"
- ],
- "saga_fit": {
-  "p1": null,
-  "tier": 30,
-  "why": "上市电信设备厂商（自研 CE/10G 产品线），非渠道客户 → 改 C"
- },
- "email_hook": "（不发送：上市厂商）"
 }

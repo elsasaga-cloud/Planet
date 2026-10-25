@@ -2,65 +2,124 @@
  "code": "SB-591",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "在线（macnica.co.jp，快照 2026-10-21）",
- "summary": "日本 株式会社マクニカ Macnica（大型半导体/网络产品分销集团；表内「一些 marvell 交换机」；KP Yuji Sekiguchi）；群发 7 次无回复。",
- "type": "半导体分销巨头（日本）",
+ "website_status": "在线（elementuengenharia.com.br，快照 2026-10-21）",
+ "summary": "巴西 Elementu Engenharia e Integração（道路基础设施技术集成：高速动态称重 HS-WIM、龙门架与可变情报板（Ecovias do Araguaia 项目）、工业安装；阿里巴巴 RFQ「90W PoE Injector 外购品」；KP Carlos Gabriel Alonso）；表内未跟进。",
+ "type": "道路 ITS 集成商（巴西，守界备注：民用道路设施）",
  "size": "",
  "brands_seen": [],
  "evidence": [
   {
    "kind": "官网快照",
-   "claim": "官网标题：株式会社マクニカ",
-   "quote": "デジタルテクノロジーの革新は社会課題を解決する可能性をも秘めています。マクニカは、人と技術と経験をつないで、未来の可能性を信じて挑戦し続け、道先案内人としてお客さまに伴走し、共に新たな未来を切り拓いていきます。",
-   "url": "https://www.macnica.co.jp/",
+   "claim": "官网标题：Elementu engenharia e integração | integração | Rua Pedro José Laroca, 1667 Jardim Santa M",
+   "quote": "Nós da Elementu somos especializados em soluções tecnológicas em ambientes de infraestrutura viária com grande experiência em integração de equipamentos periféricos e projetos.",
+   "url": "https://www.elementuengenharia.com.br/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
    "claim": "表内兴趣/备注",
-   "quote": "一些marvell交换机",
+   "quote": "90W PoE Injector外购品 / from: 阿里巴巴RFQ",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   },
   {
    "kind": "官网快照",
-   "claim": "Macnica 页面",
-   "quote": "株式会社マクニカ ; /business/semiconductor/macnica_products/ ; /business/connectivity/products/",
-   "url": "https://www.macnica.co.jp/",
+   "claim": "Elementu 定位",
+   "quote": "Elementu engenharia e integração ; soluções tecnológicas em ambientes de infraestrutura viária ; HS-WIM ; 15 Pórticos e 15 PMV’s",
+   "url": "https://www.elementuengenharia.com.br/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "90W PoE Injector RFQ",
+   "quote": "90W PoE Injector外购品 / from: 阿里巴巴RFQ",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
- "kp": [],
- "grade_override": "C",
- "override_reason": "巨头（Macnica）；c_sub=体量过大",
+ "kp": [
+  {
+   "name": "Carlos Gabriel Alonso",
+   "title": "（职务待核）",
+   "email": "carlos@elementuengenharia.com.br",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "日本",
-  "other": "官网 macnica.co.jp，语言 ja，快照状态 ok；角色判定来源：官网文案"
+  "hq": "巴西",
+  "other": "官网 elementuengenharia.com.br，语言 pt，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "半导体 / 网络产品分销（日本，集团）"
+  "道路基础设施 / ITS 集成（巴西）"
  ],
  "channels": {
-  "role": "半导体分销巨头（日本）",
-  "region": "日本",
-  "contact": "sekiguchi-y@macnica.co.jp"
+  "role": "道路 ITS 集成商（巴西，守界备注：民用道路设施）",
+  "region": "巴西",
+  "contact": "carlos@elementuengenharia.com.br"
  },
  "signals": [
-  "官网：株式会社マクニカ ; デジタルテクノロジーの革新は社会課題を解決する可能性をも秘めています；页面 /business/semiconductor/macnica_products/、/business/connectivity/products/",
-  "表内：一些 marvell 交换机；KP Yuji Sekiguchi"
+  "官网：Nós da Elementu somos especializados em soluções tecnológicas em ambientes de infraestrutura viária ; Sistema de Pesagem em Movimento de Alta Velocidade (HS-WIM) ; Implantação de 15 Pórticos e 15 PMV’s",
+  "表内：90W PoE Injector 外购品 / from: 阿里巴巴 RFQ；KP Carlos Gabriel Alonso"
  ],
  "risks": [
-  "体量：日本大型分销集团；非主攻区（日本）；7 次无回复"
+  "PoE 注入器品类 Saga 不供（Q-32）；守界备注：道路 ITS（民用收费道路运营商项目，非执法/军事）；非主攻区（T5，巴西；进口税高）；未跟进过"
  ],
  "saga_fit": {
-  "p1": null,
-  "tier": 20,
-  "why": "大型半导体/网络分销集团（巨头）→ 改 C"
+  "p1": "STI-288DGGPM-2BT",
+  "tier": 25,
+  "why": "90W PoE 注入器 Saga 不供（Q-32）→ 以 bt 口工业交换机替代：8 PoE（2 口 bt 90W）+ 2 SFP STI-288DGGPM-2BT（$154.0 @25%）、常规 STI-288GPM（$82.2）"
  },
- "email_hook": "（不发送：巨头）"
+ "email_hook": "Carlos, following your request for 90 W PoE injectors: we do not carry injectors, but our DIN-rail 8-PoE + 2 SFP industrial switch with two 802.3bt 90 W ports (−40~75 °C, 12–58 V redundant, CE/RoHS) can power VMS panels and cameras at your gantries from single units, EXW USD — how many bt ports does each roadside cabinet need?",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「90W PoE Injector外购品 / from: 阿里巴巴RFQ」；Elsa 箱：`to:elementuengenharia.com.br` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(n)））",
+   "type": "道路 ITS 集成商（巴西，守界备注：民用道路设施）",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "不动（非主攻区；J5：有证据再动）",
+   "lane": "巴西 非主攻",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 0；用户表：「90W PoE Injector外购品 / from: 阿里巴巴RFQ」；研究档 risks：PoE 注入器品类 Saga 不供（Q-32）；守界备注：道路 ITS（民用收费道路运营商项目，非执法/军事）；非主攻区（T5，巴西；进口税高）；未跟进过"
+  },
+  "situation": "巴西 Elementu Engenharia e Integração（道路基础设施技术集成：高速动态称重 HS-WIM、龙门架与可变情报板（Ecovias do Araguaia 项目）、工业安装；阿里巴巴 RFQ「90W PoE Injector 外购品」；KP Carlos Gabriel Alonso）；表内未跟进。",
+  "need": "90W PoE 注入器 Saga 不供（Q-32）→ 以 bt 口工业交换机替代：8 PoE（2 口 bt 90W）+ 2 SFP STI-288DGGPM-2BT（$154.0 @25%）、常规 STI-288GPM（$82.2）",
+  "breakpoint": "PoE 注入器品类 Saga 不供（Q-32）；守界备注：道路 ITS（民用收费道路运营商项目，非执法/军事）；非主攻区（T5，巴西；进口税高）；未跟进过",
+  "saga_now": {
+   "p1": "STI-288DGGPM-2BT",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）（㉕ 封顶：STI-288DGGPM-2BT 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25）",
+   "why": "90W PoE 注入器 Saga 不供（Q-32）→ 以 bt 口工业交换机替代：8 PoE（2 口 bt 90W）+ 2 SFP STI-288DGGPM-2BT（$154.0 @25%）、常规 STI-288GPM（$82.2）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "90W PoE Injector外购品 / from: 阿里巴巴RFQ",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

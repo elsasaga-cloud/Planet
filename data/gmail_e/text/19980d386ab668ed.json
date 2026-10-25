@@ -11,7 +11,7 @@
  "text": "Hi, Lukasz,\n\nHow are you?\n\nThis is our 24-port Marvell-based managed SFP switch.\n\n1, 4 port 1G SFP+8-port 1G SFP/RJ45 Combo +4*10G SFP+\n\n*2, Dual AC input*\n\n*3, Support fan monitoring/dual PSU status monitoring*\n\n4, Customizable Web GUI\n\nIt is a price-competitive aggregation switch(280usd/pc)\n\nIs it useful to you?\n\nThank you.\n[image: Dual AC.jpg]\n--\n\nElsa\n\nSaga Telecom/OEM Factory\n\nConnecting, Converting, Creating\n\nTailored Marvell Managed Networking Solutions Provider",
  "char_count": "597",
  "attachments": "[{'filename': 'image002.jpg', 'mime_type': 'image/jpeg', 'size': 36654}, {'filename': '13_lanberg_7ff23ee5-d5d0-4b9a-8a6c-472a817f5390.jpg', 'mime_type': 'image/jpeg', 'size': 34849}, {'filename': 'Dual AC.jpg', 'mime_type': 'image/jpeg', 'size': 435914}]",
- "note": "SA-076：Elsa 2025-09-25 主动推 24 口 Marvell 汇聚机（4 SFP + 8 Combo + 4×10G SFP+，双 AC，= STC-4168XGGCM 双电源款）$280/pc——这是 Saga 给 Impakt 的唯一实价",
+ "note": "SA-050：Elsa 2025-09-25 主动推 24 口 Marvell 汇聚机（4 SFP + 8 Combo + 4×10G SFP+，双 AC，= STC-4168XGGCM 双电源款）$280/pc——这是 Saga 给 Impakt 的唯一实价",
  "text_source": "text/plain",
  "fetched": "2026-10-24T16:04Z",
  "method": "Arena Gmail connector get_message_text(include_quoted=false)"

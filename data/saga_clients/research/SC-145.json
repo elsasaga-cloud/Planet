@@ -1,0 +1,66 @@
+{
+ "code": "SC-145",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（draytek.com.au，快照 2026-10-21）",
+ "summary": "DrayTek 澳大利亚分销站（draytek.com.au；备注链接 draytek.de VigorSwitch G2280）：DrayTek 为台湾厂商，澳/德站为其区域分销/办事处；表内「大口 FS PoE 周边产品 自己的 logo」「质量高」）；群发 22 次无回复。",
+ "type": "台湾厂商区域分销/办事处（DrayTek）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：draytek.com.au",
+   "quote": "",
+   "url": "https://draytek.com.au/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "大口FS POE 周边产品 自己的logo；https://www.draytek.de/vigorswitch-g2280.html",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "DrayTek 自己的 logo 大口 FS",
+   "quote": "大口FS POE 周边产品 自己的logo；https://www.draytek.de/vigorswitch-g2280.html",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "台湾厂商区域办事处/分销站：DrayTek（自研 VigorSwitch），非渠道客户；c_sub=厂商办事处/台湾厂商",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "澳大利亚",
+  "other": "官网 draytek.com.au，语言 ?，快照状态 ok；角色判定来源：用户表"
+ },
+ "business_lines": [
+  "网络设备（DrayTek 品牌，区域分销）"
+ ],
+ "channels": {
+  "role": "台湾厂商区域分销/办事处（DrayTek）",
+  "region": "澳大利亚",
+  "contact": "sales@draytek.com.au"
+ },
+ "signals": [
+  "表内：大口 FS PoE 周边产品 自己的 logo；https://www.draytek.de/vigorswitch-g2280.html；质量高",
+  "快照：draytek.com.au 内容为空"
+ ],
+ "risks": [
+  "台湾厂商区域办事处/分销站：DrayTek 自研 VigorSwitch（G2280 等），非 ODM 采购方；22 次无回复"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 30,
+  "why": "DrayTek（台湾厂商）自研 VigorSwitch 线，区域分销站非采购决策方 → 改 C"
+ },
+ "email_hook": "（不发送：台湾厂商/办事处）"
+}

@@ -1,37 +1,62 @@
 {
  "code": "SB-132",
- "name_official": "Kore Konect（波兰）",
+ "name_official": "F.A.S.T. — Fabrika Aygıtları Sistem Teknolojisi A.Ş.（İstanbul Ataşehir, TR；fasttr.com；工厂自动化分销商）",
  "researched_at": "2026-10-21",
- "website_status": "在线（korekonect.com，快照 2026-10-21）",
- "summary": "波兰网络设备经销（poe 113 / switch 104 / industrial 54 / sfp 62 / distributor 6），info@ + gmail；表内「有 E-wind 的」；群发 3 次无回复。",
+ "website_status": "在线",
+ "summary": "伊斯坦布尔 Ataşehir 的工厂自动化分销商 F.A.S.T.（1994 年成立；约 30 人（工程师/技师）；Meanwell 电源、Shihlin 变频、Renu PLC/HMI、RASCH HMI、Texcomputer、Siboni 的土耳其分销商；全国 16 个区域经销网络；技术论坛与培训；总经理 Şener Üstbaş；Küçükbakkalköy Mah. Dereyolu Sok. No:4 Ataşehir；+90 216 574 94 34；satis@fasttr.com）。ISAF 记录：Ercan Erinç——问了工业级 5 口 PoE 交换机，说自己也代理 PLC、IO 模块；无后续跟进。自动化分销商（Meanwell 电源 + PLC）→ DIN 工业交换机天然互补 → 分销 20%。",
  "type": "",
  "size": "",
  "brands_seen": [
-  "E-wind"
+  "Meanwell",
+  "Shihlin",
+  "Renu",
+  "RASCH",
+  "Texcomputer"
  ],
  "evidence": [
   {
-   "kind": "官网快照",
-   "claim": "kore konect；关键词 poe 113 / switch 104 / industrial 54",
-   "quote": "kore konect",
-   "url": "https://korekonect.com/",
-   "date": "2026-10-21"
+   "kind": "官网",
+   "claim": "公司定位与品牌",
+   "quote": "Fabrika Aygıtları Sistem Teknolojisi (FAST), 1994 yılında fabrika otomasyonu konusunda hizmet vermek üzere kuruldu. … Meanwell, RASCH, Shihlin, Renu ve Texcomputer markalarının distribütörü",
+   "url": "https://www.fasttr.com/",
+   "date": "2026-03-24"
+  },
+  {
+   "kind": "官网",
+   "claim": "规模与经销网",
+   "quote": "otomasyon konusunda uzmanlaşmış yaklaşık 30 kişilik deneyimli kadrosu … Türkiye'de 16 bölgeye yayılmış bayi ağı",
+   "url": "https://www.fasttr.com/hakkimizda/",
+   "date": "2024-12-04"
+  },
+  {
+   "kind": "官网",
+   "claim": "地址与联系方式",
+   "quote": "Küçükbakkalköy Mah. Dereyolu Sok. No: 4 – 34750 Ataşehir / İstanbul … 0216 574 9434 … satis@fasttr.com support@fasttr.com",
+   "url": "https://www.fasttr.com/iletisim/",
+   "date": "2020-12-15"
   },
   {
    "kind": "用户表",
-   "claim": "有 Ewind 的",
-   "quote": "兴趣：有Ewind的",
+   "claim": "ISAF：工业 5 口 PoE；代理 PLC/IO",
+   "quote": "问了工业级5口POE交换机  说自己也代理PLC  IO模块",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
  "kp": [
   {
-   "name": "（未具名）",
-   "title": "",
-   "email": "info@korekonect.com",
-   "phone": "",
+   "name": "Ercan Erinç",
+   "role": "（ISAF 名片；职务待核）",
+   "email": "ercan@fasttr.com（用户表）",
+   "phone": "+90 216 574 94 34（公司）",
    "source": "（本地 Clients/ 表格，无公开 URL）"
+  },
+  {
+   "name": "Şener Üstbaş",
+   "role": "General Manager（LinkedIn 公开）",
+   "email": "—",
+   "phone": "—",
+   "source": "https://www.linkedin.com/in/senerustbas/"
   }
  ],
  "grade_override": null,
@@ -39,82 +64,81 @@
  "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照核对 + 表内）"
+  "level": "B 级加厚 v1（官网核对）"
  },
  "company_facts": {
-  "legal_name": "Kore Konect（待核）",
-  "founded": "",
-  "hq": "Poland",
-  "size": "小型经销",
-  "other": "已售 E-wind"
+  "legal_name": "Fabrika Aygıtları Sistem Teknolojisi A.Ş.（F.A.S.T.）",
+  "founded": "1994",
+  "hq": "Küçükbakkalköy Mah. Dereyolu Sok. No:4, 34750 Ataşehir / İstanbul（+90 216 574 94 34；satis@fasttr.com）",
+  "size": "约 30 人（官网）；11–50（Crunchbase）",
+  "other": "分销 Meanwell/Shihlin/Renu/RASCH/Texcomputer；16 区域经销网"
  },
  "business_lines": [
-  "网络设备经销"
+  "工厂自动化元器件分销（PLC、HMI、变频、电源）",
+  "技术支持/培训（FAST Teknik Destek）"
  ],
  "channels": {
-  "role": "经销商（已售中国同行）",
-  "region": "波兰"
+  "网站": "https://www.fasttr.com/",
+  "电话": "+90 216 574 94 34（公开）",
+  "邮箱（公开）": "satis@fasttr.com / support@fasttr.com"
  },
  "signals": [
-  "已售 E-wind → 同类替换"
+  "明确询工业 5 口 PoE → STI-054GP；Meanwell DIN 电源 + Renu PLC 的客户正是 DIN 交换机用户；16 个区域经销商 = 二级分销放大"
  ],
  "risks": [
-  "无具名；3 次群发无回复"
+  "分销商比价；工业交换机为新增品类需技术支持材料（土耳其语）；无后续跟进"
  ],
  "saga_fit": {
-  "p1": "STI-110GE",
+  "p1": "STI-054GP",
   "tier": 20,
-  "why": "对位 E-wind MC / 工业 FS → STI-110GE（$22.4 @20%）+ STI-288GP。"
+  "why": "分销 20% 档：STI-054GP（DIN 4 GE PoE + 1 GE 上联，−40~+75 ℃，$31.2）对应「工业级 5 口 PoE」；带 SFP 的 STI-144GP（$34.1）；8 口 STI-288GP（$57.4）"
  },
- "email_hook": "For the E-wind converters and industrial switches you stock — DIN gigabit MC at $22 and 2-SFP + 8-PoE at $57 EXW, CE/RoHS; want a comparison sample?",
+ "email_hook": "Ercan Bey, ISAF'ta sorduğunuz 5 port endüstriyel PoE switch: DIN ray 4 PoE + 1 uplink, 48 V DC giriş (Meanwell DIN kaynaklarınızla uyumlu), −40/+75 °C, distribütör fiyatı EXW 31,2 USD — bayi ağınız için ilk sipariş 50 adet olur mu?",
  "mail_review": {
   "binding": {
-   "level": "未触达（A 邮箱 13 封 2025→2026，无记录打开，0 回；收件 info@korekonect.com；主题多为「10G Enterprise SFP Switch、Mini Industrial PoE Switch」；Elsa 箱：`to:korekonect.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 13 / 来 0）（第 74 批(k)））",
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「问了工业级5口POE交换机  说自己也代理PLC  IO模块」；Elsa 箱：`to:fasttr.com` 逐户查 0（2026-10-24 第 73 批(o)，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(g)））",
    "type": "—",
-   "sieve": "1（只收到群发）",
-   "stop": "只打通用邮箱，无记录打开",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "PL 次级重点",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 13；用户表：「兴趣：有Ewind的」；研究档 risks：无具名；3 次群发无回复"
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+   "lane": "TR 主攻（四主）",
+   "cadence": "首封后看打开",
+   "evidence": "gmail_digest：out 0；用户表：「问了工业级5口POE交换机  说自己也代理PLC  IO模块」；研究档 risks：分销商比价；工业交换机为新增品类需技术支持材料（土耳其语）；无后续跟进"
   },
-  "situation": "波兰网络设备经销（poe 113 / switch 104 / industrial 54 / sfp 62 / distributor 6），info@ + gmail；表内「有 E-wind 的」；群发 3 次无回复。",
-  "need": "对位 E-wind MC / 工业 FS → STI-110GE（$22.4 @20%）+ STI-288GP。",
-  "breakpoint": "无具名；3 次群发无回复",
+  "situation": "伊斯坦布尔 Ataşehir 的工厂自动化分销商 F.A.S.T.（1994 年成立；约 30 人（工程师/技师）；Meanwell 电源、Shihlin 变频、Renu PLC/HMI、RASCH HMI、Texcomputer、Siboni 的土耳其分销商；全国 16 个区域经销网络；技术论坛与培训；总经理 Şener Üstbaş；Küçükbakkalköy Mah. Dereyolu Sok. No:4 Ataşehir；+90 216 574 94 34；satis@fasttr.com）。ISAF 记录：Ercan Erinç——问了工业级 5 口 PoE 交换机，说自己也代理 PLC、IO 模块；无后续跟进。自动化分销商（Meanwell 电源 + PLC）→ DIN 工业交换机天然互补 → 分销 20%。",
+  "need": "分销 20% 档：STI-054GP（DIN 4 GE PoE + 1 GE 上联，−40~+75 ℃，$31.2）对应「工业级 5 口 PoE」；带 SFP 的 STI-144GP（$34.1）；8 口 STI-288GP（$57.4）",
+  "breakpoint": "分销商比价；工业交换机为新增品类需技术支持材料（土耳其语）；无后续跟进",
   "saga_now": {
-   "p1": "STI-110GE",
+   "p1": "STI-054GP",
    "tier": 20,
-   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-19 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-24 $280（10G Enterprise SFP Switch）",
-   "why": "对位 E-wind MC / 工业 FS → STI-110GE（$22.4 @20%）+ STI-288GP。",
+   "price": "按主表（研究档 saga_fit）",
+   "why": "分销 20% 档：STI-054GP（DIN 4 GE PoE + 1 GE 上联，−40~+75 ℃，$31.2）对应「工业级 5 口 PoE」；带 SFP 的 STI-144GP（$34.1）；8 口 STI-288GP（$57.4）",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开",
-   "one_question": "For the E-wind converters and industrial switches you stock — DIN gigabit MC at $22 and 2-SFP + 8-PoE at $57 EXW, CE/RoHS; want a comparison sample?"
+   "when": "待 Simon 排期（首封）",
+   "channel": "A 邮箱 → ercan@fasttr.com（Ercan Erinç）",
+   "action": "首封：按 email_hook 一问（第 74 批(r) 2026-10-25：英文信稿已写 `draft_en`，内容 = 土耳其语钩子句的英文版；土耳其语一句话仍在研究档备注里，对方若不读英文就整段单发）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
+   "one_question": "Ercan Bey, ISAF'ta sorduğunuz 5 port endüstriyel PoE switch: DIN ray 4 PoE + 1 uplink, 48 V DC giriş (Meanwell DIN kaynaklarınızla uyumlu), −40/+75 °C, distribütör fiyatı EXW 31,2 USD — bayi ağınız için ilk sipariş 50 adet olur mu?"
   },
   "facts": [
-   {
-    "date": "2026-09-24",
-    "dir": "去",
-    "who": "A 群发",
-    "quote": "10G Enterprise SFP Switch、Mini Industrial PoE Switch",
-    "why": "13 封 / 0 次打开 / 0 回｜首封 2025-08-21 → 末封 2026-09-24（13 去 / 0 来）",
-    "k": "gmail_digest"
-   },
    {
     "date": "2026-10-21",
     "dir": "用户表",
     "who": "Simon",
-    "quote": "兴趣：有Ewind的",
+    "quote": "问了工业级5口POE交换机  说自己也代理PLC  IO模块",
     "why": "表内备注",
     "k": "用户表"
    }
   ],
-  "proof_gaps": [],
-  "draft_en": null,
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": {
+   "subject": "5-port industrial PoE switch from ISAF - distributor price for F.A.S.T.",
+   "body": "Hi Ercan,\n\nWe met at ISAF 2025 in Istanbul last October - this picks up what we discussed at the booth.\n\nThe 5-port industrial PoE switch you asked about: DIN-rail, 4 x Gigabit PoE+ + 1 x Gigabit uplink, 48 V DC input (so it runs from the MEAN WELL DIN supplies you already distribute), -40 to 75 C, model STI-054GP - distributor price $31.2 USD EXW (MOQ 1, 15-day validity). The version with an SFP uplink, STI-144GP, is $34.1; the 8-port PoE+ + 2 SFP unit, STI-288GP, is $57.4. CE/RoHS, 3-year warranty with the DIN power supply, neutral packaging or your label.\n\nOne question: for your 16-region dealer network, would a first order of 50 units be the right size for a test, or smaller?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+  },
   "as_of": "2026-10-24"
  }
 }

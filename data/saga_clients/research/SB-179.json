@@ -1,140 +1,121 @@
 {
  "code": "SB-179",
- "name_official": "",
+ "name_official": "（表内名 CRISPY CREPES，印度尼西亚；Ade Tj）",
  "researched_at": "2026-10-21",
- "website_status": "在线（innowatt.it，快照 2026-10-21）",
- "summary": "意大利 Innowatt（意大利电气/技术/安防材料自有品牌网店：Hikvision（35）、Uniview、Ruijie RG-NBS3200-24GT4XS、光纤配线、Anker；表内「工业 FS，中科德能的」「可以尝试多跟进一下」；邮箱 commerciale@）；群发 12 次无回复。",
- "type": "电气/安防材料自有品牌网店（意大利，OEM 采购）",
+ "website_status": "无域名（yahoo；仅表内信息）",
+ "summary": "印尼客户 Ade Tj（已加微信），问 SFP 兼容性、工业 MC 反馈、要工业 16/24 口机 datasheet；2025-04 回复「用锐捷」（Ruijie 为现用品牌）。表内公司名「CRISPY CREPES」疑为个人微信名/误录，主体待核。",
+ "type": "",
  "size": "",
- "brands_seen": [
-  "Ruijie",
-  "Hikvision",
-  "中科德能",
-  "Uniview"
- ],
+ "brands_seen": [],
  "evidence": [
   {
-   "kind": "官网快照",
-   "claim": "官网标题：Innowatt - Tecnologia innovativa al tuo servizio；品类词 安防监控（CCTV / 门禁） / 无线 / WiFi / 光纤 / 媒体转换 / 网络交换 / PoE",
-   "quote": "Innowatt è un brand italiano di materiale elettrico, tecnologico e di sicurezza. La mission di Innowatt è di migliorare lo stile di vita delle persone, fornendo soluzioni innovative che semplificano l'utilizzo della tecnologia con particola",
-   "url": "https://www.innowatt.it/",
-   "date": "2026-10-21"
-  },
-  {
    "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "工业FS 中科德能的",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "Innowatt 品牌定位",
-   "quote": "Innowatt è un brand italiano di materiale elettrico, tecnologico e di sicurezza. La mission di Innowatt è di migliorare lo stile di vita delle persone",
-   "url": "https://www.innowatt.it/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "工业 FS 中科德能的",
-   "quote": "工业FS 中科德能的；可以尝试多跟进一下",
+   "claim": "兴趣 SFP 收发器兼容性；2025-03 工业 16/24 口出货图→要 datasheet；2025-04 Marvell 商用组合→「用锐捷」",
+   "quote": "兴趣：SFP收发器 我们的SFP兼容别的品牌SFP吗；回复：datasheet；用锐捷",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Ade Tj",
+   "title": "（表内联系人，已加微信）",
+   "email": "adren_tj@yahoo.com",
+   "phone": "+62 812 2212 3997",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "无域名 · 仅表内信息"
  },
  "company_facts": {
-  "hq": "意大利",
-  "other": "官网 innowatt.it，语言 it，快照状态 ok；角色判定来源：官网文案"
+  "legal_name": "（待核；表内名疑误录）",
+  "founded": "",
+  "hq": "印度尼西亚（表内）",
+  "size": "",
+  "other": "现用品牌 Ruijie（锐捷）"
  },
- "business_lines": [
-  "电气 / 技术 / 安防材料网店（自有品牌 Innowatt）"
- ],
  "channels": {
-  "role": "电气/安防材料自有品牌网店（意大利，OEM 采购）",
-  "region": "意大利",
-  "contact": "commerciale@innowatt.it"
+  "role": "（未知，疑工程商）",
+  "region": "印度尼西亚"
  },
  "signals": [
-  "官网：Innowatt è un brand italiano di materiale elettrico, tecnologico e di sicurezza；站内 RG-NBS3200-24GT4XS / AX3000；kw hikvision 35 / poe 29",
-  "表内：工业 FS 中科德能的"
+  "要过工业 16/24 口机 datasheet",
+  "问 SFP 兼容（配件需求）"
  ],
  "risks": [
-  "现代工中科德能（深圳）价格基准低；网店量小",
-  "12 次无回复，仅 commerciale@，无具名 KP"
+  "主体不明（公司名疑误录）",
+  "商用层已用 Ruijie"
  ],
  "saga_fit": {
-  "p1": "STI-288GP",
-  "tier": 30,
-  "why": "自有 Innowatt 标工业 FS（现中科德能）→ 工业 8 PoE + 2 SFP 非管理 STI-288GP（$62.2 @30%）/ 管理 STI-288GPM（$85.5）贴标；商用位 STC-28DGGPM"
+  "p1": "STI-21616GP",
+  "tier": 25,
+  "why": "其索要 datasheet 的工业 16/24 口机 → Saga STI-21616GP（16 PoE + 2 SFP 工业，$170.4/177.5/184.6）；SFP 模块 Saga 价目无（Q-32）。"
  },
- "email_hook": "For the Innowatt-branded industrial PoE switches, we can be a second ODM source (DIN-rail 8-PoE + 2 SFP unmanaged/managed, −40~75 °C, CE/RoHS) from small lots in your packaging, EXW USD — which model do you reorder most often?",
+ "email_hook": "Ade, you asked for the datasheet of our 16-port industrial PoE unit (2 SFP uplinks) — since Ruijie covers your office layer, is the industrial/outdoor cabinet side where you'd test ours? One sample ships from 1 pc.",
  "mail_review": {
   "binding": {
-   "level": "未触达（A/S 邮箱 22 封 2024→2026，1 次记录打开，0 回；收件 commerciale@innowatt.it；主题多为「Industrial PoE Switch、Marvell Industrial Alert System」；Elsa 箱：`to:innowatt.it` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 22 / 来 0）（第 74 批(j)））",
-   "type": "电气/安防材料自有品牌网店（意大利，OEM 采购）",
-   "sieve": "1~2（1 次打开）",
-   "stop": "22 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
-   "lane": "意大利（欧洲全域主攻）",
-   "cadence": "一封",
-   "evidence": "gmail_digest：out 22，Opened 标签 1（Simon 群发追踪）；用户表：「工业FS 中科德能的」；研究档 risks：现代工中科德能（深圳）价格基准低；网店量小"
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：SFP收发器 我们的SFP兼容别的品牌SFP吗；回复：datasheet；用锐捷」；Elsa 箱：`to:adren_tj@yahoo.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(n)））",
+   "type": "—",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "不动（非主攻区；J5：有证据再动）",
+   "lane": "印度尼西亚 非主攻",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 0；用户表：「兴趣：SFP收发器 我们的SFP兼容别的品牌SFP吗；回复：datasheet；用锐捷」；研究档 risks：主体不明（公司名疑误录）"
   },
-  "situation": "意大利 Innowatt（意大利电气/技术/安防材料自有品牌网店：Hikvision（35）、Uniview、Ruijie RG-NBS3200-24GT4XS、光纤配线、Anker；表内「工业 FS，中科德能的」「可以尝试多跟进一下」；邮箱 commerciale@）；群发 12 次无回复。",
-  "need": "自有 Innowatt 标工业 FS（现中科德能）→ 工业 8 PoE + 2 SFP 非管理 STI-288GP（$62.2 @30%）/ 管理 STI-288GPM（$85.5）贴标；商用位 STC-28DGGPM",
-  "breakpoint": "现代工中科德能（深圳）价格基准低；网店量小",
+  "situation": "印尼客户 Ade Tj（已加微信），问 SFP 兼容性、工业 MC 反馈、要工业 16/24 口机 datasheet；2025-04 回复「用锐捷」（Ruijie 为现用品牌）。表内公司名「CRISPY CREPES」疑为个人微信名/误录，主体待核。",
+  "need": "其索要 datasheet 的工业 16/24 口机 → Saga STI-21616GP（16 PoE + 2 SFP 工业，$170.4/177.5/184.6）；SFP 模块 Saga 价目无（Q-32）。",
+  "breakpoint": "主体不明（公司名疑误录）",
   "saga_now": {
-   "p1": "STI-288GP",
-   "tier": 30,
-   "price": "换人再触锚价 STI-288GP $62.2 EXW（本户贴标 OEM 30% 档；最近实报 $60（SA-100 2025-03-18；SB-1276 / SA-030 同价）（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-19 $65（10G media converter）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-15 $280（10G Enterprise SFP Switch）",
-   "why": "自有 Innowatt 标工业 FS（现中科德能）→ 工业 8 PoE + 2 SFP 非管理 STI-288GP（$62.2 @30%）/ 管理 STI-288GPM（$85.5）贴标；商用位 STC-28DGGPM。已打开的主题（1/22 封有打开记录）：「OEM Core Switching Solution」(2026-01-28) → 读者兴趣偏「DC 核心/CENTEC」；与 P1 同类，继续",
+   "p1": "STI-21616GP",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "其索要 datasheet 的工业 16/24 口机 → Saga STI-21616GP（16 PoE + 2 SFP 工业，$170.4/177.5/184.6）；SFP 模块 Saga 价目无（Q-32）。",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "2027-Q1（换人后）",
-   "channel": "A 邮箱 → 具名 KP",
-   "action": "换收件人再发一封（第 75 批(ab) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用；英文稿，不混意大利语））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（第 76 批(d) 2026-10-25：锚价文本与稿价对齐：OEM 30% 档 $62.2，实报 $60 留作下限）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
-   "one_question": "For the Innowatt-branded industrial PoE switches, we can be a second ODM source (DIN-rail 8-PoE + 2 SFP unmanaged/managed, −40~75 °C, CE/RoHS) from small lots in your packaging, EXW USD — which model do you reorder most often? Reference: STI-288GP at $60 USD EXW (MOQ 1, 15-day validity)."
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
   },
   "facts": [
    {
-    "date": "2026-09-16",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "Industrial PoE Switch、Marvell Industrial Alert System",
-    "why": "22 封 / 1 次打开 / 0 回｜首封 2024-06-28 → 末封 2026-09-16（22 去 / 0 来）",
-    "k": "gmail_digest"
+    "date": "2024-04-18",
+    "dir": "来",
+    "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+    "quote": "用户表跟进：推「—」→ 对方「让加微信」",
+    "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+    "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.17 2024.4.18"
+   },
+   {
+    "date": "2024-04-22",
+    "dir": "来",
+    "who": "用户表（Simon 跟进记录；渠道 微信）",
+    "quote": "用户表跟进：推「问工业MC的feedback」→ 对方「问了一个周边产品」",
+    "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+    "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.17 2024.4.22"
    },
    {
     "date": "2026-10-21",
     "dir": "用户表",
     "who": "Simon",
-    "quote": "工业FS 中科德能的",
+    "quote": "兴趣：SFP收发器 我们的SFP兼容别的品牌SFP吗；回复：datasheet；用锐捷",
     "why": "表内备注",
     "k": "用户表"
-   },
-   {
-    "date": "2026-09-16",
-    "dir": "去",
-    "who": "A 箱（Alan）",
-    "quote": "16 Port Industrial PoE Switch",
-    "why": "本日去信真实主题（邮箱索引 3016573139791dd0；信稿开头句引用此封；此前稿内写的「Industrial PoE Switch」是线程列表首题，不是本封）",
-    "k": "3016573139791dd0"
    }
   ],
-  "proof_gaps": [],
-  "draft_en": {
-   "subject": "A second ODM source for the Innowatt-branded industrial PoE switches",
-   "body": "Hello Innowatt team,\n\nOver the past months you had a few product mails from us - most recently \"16 Port Industrial PoE Switch\" on 16 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the Innowatt-branded industrial PoE switches, a second ODM source in your packaging from small lots, -40 to 75 C, CE/RoHS: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, unmanaged - model STI-288GP - $62.2 USD EXW with your logo (MOQ 1, 15-day validity); the same L2 managed, Marvell-based - STI-288GPM - $85.5; commercial 8 x PoE+ + 2 x SFP L2+ - STC-28DGGPM - $87.4.\n\nOne question: which model do you reorder most often from your current source - that is the one worth a side-by-side?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
-  },
+  "proof_gaps": [
+   "无邮件往来",
+   "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+  ],
+  "draft_en": null,
   "as_of": "2026-10-24"
  }
 }

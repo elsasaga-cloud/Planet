@@ -1,0 +1,73 @@
+{
+ "code": "SC-244",
+ "name_official": "irtibatmerkezi.com（İrtibat Merkezi 公益信息平台，Kadıköy İstanbul；询盘人 Mehmet Bora）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（非企业站）",
+ "summary": "用户表（谷歌来源）记录：Mehmet Bora，商业 PoE，问的很多产品较相关，2017 年加入阿里国际站，WhatsApp 已加；无跟进。加厚核对：irtibatmerkezi.com 是「Türkiye'nin irtibat merkezi」——汇集全国 STK/公益组织信息、市政选举候选名单、在线教育的 Moodle 平台（管理员 Mehmet Boru，Kadıköy），不是网络设备公司。采购主体不明 → C（资料保留；若其提供公司名/发票主体可重开）。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "平台性质",
+   "quote": "Türkiye'nin irtibat merkezi … Ülkemiz genelinde toplum yararına çalışanlara, tek bir yerden ulaşılabilmesi hedefi ile İrtibat Merkezi platformunu oluşturduk. … STK'lar Sivil Toplum Kuruluşları … Belediye Seçimi 2024 Yılı Belediye Başkanı Adayları",
+   "url": "https://irtibatmerkezi.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "管理员",
+   "quote": "Belediye Seçimi … Yönetici: Mehmet Boru … STK Bilgi Bankası - Yönetici: Mehmet Boru",
+   "url": "https://irtibatmerkezi.com/course/index.php",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "商业 PoE 询盘；WhatsApp 已加",
+   "quote": "商业POE 问的很多产品较相关 2017年加入国际站",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Mehmet Bora / Mehmet Boru",
+   "role": "平台管理员（站内公开）；询盘人",
+   "email": "mehmet@irtibatmerkezi.com（用户表）",
+   "phone": "+90 534 247 6268（用户表，WhatsApp 已加）",
+   "source": "https://irtibatmerkezi.com/course/index.php"
+  }
+ ],
+ "grade_override": "C",
+ "override_reason": "行业外/主体不明：域名 irtibatmerkezi.com 为面向 STK（民间组织）的公益信息平台（Moodle 站，管理员 Mehmet Boru），非企业采购主体；询盘人身份与公司无法确认",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（域名核对 → 主体不明降 C）"
+ },
+ "company_facts": {
+  "legal_name": "（无企业主体）İrtibat Merkezi 平台",
+  "hq": "Kadıköy, İstanbul（LinkedIn）",
+  "size": "—",
+  "other": "Moodle 公益信息站；管理员 Mehmet Boru"
+ },
+ "business_lines": [
+  "公益组织信息平台（非商业）"
+ ],
+ "channels": {
+  "网站": "https://irtibatmerkezi.com/"
+ },
+ "signals": [
+  "个人/平台性质询盘；需先确认采购公司"
+ ],
+ "risks": [
+  "主体不明 → C"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 25,
+  "why": "主体确认前不推进"
+ },
+ "email_hook": "（不主动发送）"
+}

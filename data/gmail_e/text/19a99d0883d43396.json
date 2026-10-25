@@ -11,7 +11,7 @@
  "text": "Hi, Edgar,\nYes, let's talk here.\n1, I shared some links before, including full info.\n2, Any interested models or any project available?\nThank you.",
  "char_count": "235",
  "attachments": "[]",
- "note": "SB-971：Edgar 11-19 换 gmail 再来（原文未入库），Elsa 答「就在邮件谈」+ 反问型号/项目 → 无下文",
+ "note": "SC-190：Edgar 11-19 换 gmail 再来（原文未入库），Elsa 答「就在邮件谈」+ 反问型号/项目 → 无下文",
  "text_source": "text/plain",
  "fetched": "2026-10-24T16:22Z",
  "method": "Arena Gmail connector get_message_text(include_quoted=false)"

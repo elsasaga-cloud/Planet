@@ -1,139 +1,117 @@
-# SB-274 Blackbear TechHive · home · https://blackbear-ics.com/ · fetched 2026-10-25T07:41:18Z · HTTP 200
-Home｜BlackBear Cyber Security - Your Security isOur Duty
-Skip to content
-WHY BlackBear
-SOLUTIONS
-RESOURCES
-CONTACT
-English
-中文 (台灣)
-日本語
-Español
-Menu
-WHY BlackBear
-SOLUTIONS
-RESOURCES
-CONTACT
-English
-中文 (台灣)
-日本語
-Español
-Your Security is Our Duty
-We offer customized services and will guide you step by step along your journey to achieve your goals.
-We Protect You from Unknown Threats
-We provide solid protection to your networks and critical infrastructures. The best choice for your utilities business.
-Formidable Defense at a Friendly Price
-We deliver first-rate OT Cyber Security solutions at a cost that doesn’t break your budget.
-Your Security is Our Duty
-We offer customized services and will guide you step by step along your journey to achieve your goals.
-We Protect You from Unknown Threats
-We provide absolute protection to your networks and critical infrastructures. The best choice for your utilities business.
-Formidable Defense at a Friendly Price
-We deliver first-rate OT Cyber Security solutions at a cost that doesn’t break your budget.
-Are we secure?
-Understanding the hidden risks in our utilities,
-infrastructure and connected factories.
-Short answer is no.
-We are all more vulnerable than we think. Every piece of technology that is part of a Cyber Security program has undoubtedly brought added value over time, but these solutions introduced intrinsic vulnerabilities of their own, while at the same time making us so confident in our own security that we started worrying less.
-Crisis
-What happens every day should remind us that all systems —even the closed ones— are vulnerable to cyber attacks coming from within or from outside.
-Solution
-Our technology turns this around, introducing a physical barrier to non-authorized communication.
-Are we secure?​
-Understanding the Risks
-How can BlackBear help?​
-No door, no vulnerability​
-Our Customizable OT Security Solutions ​
-How do Our Solutions Work?​
-Application Stories​
-Credentials​
-Understanding the risks
-Connected industries enable opportunities, but every connection opportunity, especially if always-on, introduces security threats.
-Threats to your utility up-time, threats to your business and dangers to your customers.
-Ransomware and Virus
-Eavesdropping and unauthorized information sniffing
-Unauthorized actions through impersonation
-Malware injection through legacy or plug-on devices
-Hidden threats or backdoors inside the connected devices
-Coordinated DDoS or Cyber Attacks
-How can BlackBear help?
-To protect your assets and your processes,
-we deliver military-grade and industrial cyber-security solutions.
-No door, no vulnerability
-What are unidirectional secure gateways?
-To protect critical assets or utilities, the quickest and most efficient way is isolating your secured network from external networks.
-However, with IIoT4.0, transferring information out from a secured network is unavoidable. How do we send the data without compromising network integrity?
-A Unidirectional Gateway is the optimal solution for high-assurance applications.
-A Unidirectional Gateway is a hardware device placed between two networks of
-different security levels, and controls the flow of information.
-Unidirectional Gateways:
-the only Cyber Security solution that ensures traffic can only travel in one direction.
-Our customizable OT Security solutions
-Physical protection for
-Asset
-Avoid down-time and protect critical equipment by establishing unidirectional communication at OSI layer 1
-Subnet
-Enable different critical assets to communicate between each other and with upper networks by introducing a physical separation.
-System
-Allow communication to happen between critical assets or sub-systems and each other up until the cloud. An ultimate Security Solution
-Learn More
-How do our solutions work?
-On top of compliance with industry standards, our solutions are being thoroughly challenged and tested in more than 10 professional laboratories worldwide.
-We stand by you to help you achieve solid and reliable security.
-Application stories
-Substation
-Cyber attacks on power systems has made Cyber Security a fundamental engineering issue for SCADA and substation automation. NERC recognizes hardware-enforced unidirectional communication—such as BlackBear solutions—as the right match for strong security.
-Factory
-IIoT4.0 networks require reliable, secure data links. Although any network is prone to cyber attacks, the Unidirectional Gateway, a hardware-software integrated device, introduces an air gap and a physical block to bi-directional communication.
-Read about our real cases
+# SB-274 fiberix.com.tr · home · https://www.fiberix.com.tr/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+Fiberix | Cebinize Dost İnternet
+0850 333 27 00
+Ana sayfa
+Kurumsal
+Biz Kimiz ?
+Neden Fiberix ?
+Değerlerimiz
+İnsan Kaynakları
+İş Başvuru Formu
+Hizmetlerimiz
+ADSL İnternet Hizmeti
+AirFiber İnternet Hizmeti
+Metro Ethernet Hizmeti
+Tarifelerimiz
+Kampanyalarımız
+Destek
+Modem ayarları nasıl yapılır?
+Kablosuz modem şifresini nasıl değiştiririm?
+S.S.S.
+Hız testi
+WhatsApp
+Fiberix avantajlar dünyasına siz de katılın..
+Limitsiz internetin keyfine varın.
+Fatura Öde
+Hız Testi Yap
+Ödeme Kanalları
+Modem Ayarları
+Fiberix ile
+ucuz
+sınırsız
+hızlı
+mutlu
+yeni nesil
+internet
+Fiberix olarak kendi altyapımız ve son teknoloji ürünlerle sizlere özel internet hizmeti sunuyoruz. Farklı paketlerimizden biri tam size göre.
+Öne çıkan paketlerimiz
+SADECE 519 TL
+FULL 20 LİMİTSİZ
+519 TL
+Bireysel
+Sınırsız Fiber İnternet
+AKN ve Kota Yok
+20 MBPS'e kadar Download
+3 MBPS Upload
+Aktivasyon Ücreti Yok!
+Taahhütlü veya Taahhütsüz
+Detay
+Hemen Başvur
+SADECE 539 TL
+FULL 35 LİMİTSİZ
+539 TL
+Bireysel
+Sınırsız Fiber İnternet
+AKN ve Kota Yok
+35 MBPS'e kadar Download
+5 MBPS Upload
+Aktivasyon Ücreti Yok!
+Taahhütlü veya Taahhütsüz
+Detay
+Hemen Başvur
+SADECE 569 TL
+FULL 50 LİMİTSİZ
+569 TL
+Bireysel
+Sınırsız Fiber İnternet
+AKN ve Kota Yok
+50 MBPS'e kadar Download
+15 MBPS Upload
+Aktivasyon Ücreti Yok!
+Taahhütlü veya Taahhütsüz
+Detay
+Hemen Başvur
+SADECE 619 TL
+FULL 100 LİMİTSİZ
+619 TL
+Bireysel
+Sınırsız Fiber İnternet
+AKN ve Kota Yok
+100 MBPS'e kadar Download
+20 MBPS Upload
+Aktivasyon Ücreti Yok!
+Taahhütlü veya Taahhütsüz
+Detay
+Hemen Başvur
+Bu firmalar yanılıyor olamaz
 0
-+
-years
-experience in
-industrial networks
+Mutlu müşteri
 0
-+
-pentests
-validated by renowned
-OT cyber security labs
+Farklı paket
 0
-offices
-around the world
+Gün, sorunsuz hizmet
 0
-+
-engineers
-for software and hardware
-Validated by
-Your Security is Our Duty
-Contact Info
-Phone: +886-3-5501898
-Address: No. 146, Sec. 1, Dongxing Rd., Zhubei City, Hsinchu County , Taiwan
-Email: sales@blackbear-ics.com
-COMPANY
-About Us
-Careers
-BlackBear TechHive
-LEGAL
-Social Responsibility
-Privacy Policy
-CONTACT
-Contact Us
-© 2021-2026 BlackBear (Taiwan) Industrial Networking Security Ltd.｜by BlackBear TechHive
-Scroll to Top
-WHY BlackBear
-SOLUTIONS
-RESOURCES
-CONTACT
-English
-中文 (台灣)
-日本語
-Español
-Menu
-WHY BlackBear
-SOLUTIONS
-RESOURCES
-CONTACT
-English
-中文 (台灣)
-日本語
-Español
+Müşteri memnuniyeti
+Hemen siz de Fiberix dünyasına katılın.
+Hemen başvurun İhtiyaçlarınızı birlikte değerlendirelim.
+Hemen başvur
+WhatsApp Destek
+Müşteri Temsilcisi
+Genellikle hemen yanıtlar
+×
+Merhaba
+Size nasıl yardımcı olabiliriz? WhatsApp üzerinden bize hemen ulaşabilirsiniz.
+Temsilciye bağlan
+Numaranızı gönderin
+En kısa sürede, özel müşteri temsilciniz sizinle iletişime geçsin.
+Success! You've been added to our email list.
+Gönder
+Bize ulaşın
+Fiberix İletişim Hizmetleri Ltd. Şti., BTK tarafından Alt yapı ve İnternet Servis sağlayıcı olarak yetkilendirilmiştir.
+© 2026 Tüm hakları saklıdır.
+Tarifelerimiz
+S.S.S.
+İletişim
+İş başvurusu |
+Şikayetleriniz / Talepleriniz |
+Gizlilik

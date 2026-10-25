@@ -1,183 +1,201 @@
 {
   "code": "SA-038",
-  "name_official": "Cable Distribution Services（CDS, Malaga/Perth, Western Australia）",
+  "name_official": "DNC Technosolutions Pvt. Ltd.（Ernakulam, Kerala, India）",
   "website_status": "在线",
-  "summary": "西澳珀斯的电缆与电缆附件库存分销商（1999 年成立，11–50 人，营收口径 $4.7M–$39M），服务矿业、油气、通信、泵送排水等行业，有光纤与数据线缆类目。用户表：2 次实质回复，WhatsApp 已加，兴趣 1 光 4 电工业 PoE，比较过中科德能和 Ewind，问了价格。",
-  "type": "分销商（工业线缆；拓展工业交换机）",
-  "size": "11–50 人（LinkedIn）；24 人/$4.7M（Datanyze）",
+  "summary": "喀拉拉邦的光纤产品制造/方案商（2011 年），自有 DNC 品牌：跳线/尾纤/连接器/分路器、数据 MC（MC-10100G 等）、视频/电话光端机、SFP、MPO。用户表：WhatsApp 跟进，2 次实质回复，18 次跟进；兴趣 MC / FS / HDMI / SFP / VC，要求质量较高，用自己的 logo。",
+  "type": "品牌商（光纤配套，MC 贴牌）",
+  "size": "未见人数（小型）",
   "brands_seen": [
-    "中科德能",
-    "Ewind"
+    "DNC"
   ],
   "evidence": [
     {
-      "kind": "第三方（LinkedIn）",
-      "claim": "定位与规模",
-      "quote": "Established in 1999, Cable Distribution Services is a stockist and distributor of a wide range of cable and cable accessory products for the Industrial, Commercial, Mining, Offshore, Automotive and Marine Industries … Company size: 11-50 employees",
-      "url": "https://au.linkedin.com/company/cable-distribution-services",
+      "kind": "官网",
+      "claim": "定位与产品线",
+      "quote": "Established in the year 2011, DNC Technosolutions Pvt. Ltd. is one of the well recognized Manufacturers and Solution makers of Fiber Optic Products … Data to Fiber converters, Video to Fiber Converter, Telephone to Fiber Converters, SFP Modules, MPO Systems",
+      "url": "https://www.dncsolutions.co.in/",
       "date": "2026-10-21"
     },
     {
       "kind": "官网",
-      "claim": "联系方式与行业",
-      "quote": "51 Boulder Rd Malaga, WA 6090 · sales@cabledistribution.com.au · +61 (08) 9375 6522 … Industries - Mining - Oil & Gas - Communication - Pumping & Dewatering",
-      "url": "https://cabledistribution.com.au/",
+      "claim": "自有品牌 MC 零售价与电话（与用户表一致）",
+      "quote": "10/100/1000 Mbps Duplex Data Media Converter … Part Number MC-10100G … +91-9656123414 Binanipuram … Brand DNC",
+      "url": "https://www.dncsolutions.co.in/101001000mbpsduplexdatamediaconverter/pid-2010203631",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "IndiaMART",
+      "claim": "DNC 自有标 4-PoE + 1-FX 交换机",
+      "quote": "DNC 4-PoE With 1-Fixed FX Switch - Number of Ports · 4PoE+ 1FX … Power Consumption (watt) · 15.5W / 25.5W … Brand · DNC · Availability · In Stock",
+      "url": "https://www.indiamart.com/proddetail/4-poe-with-1-fixed-fx-switch-18538470891.html",
       "date": "2026-10-21"
     },
     {
       "kind": "官网",
-      "claim": "地址 / 电话 / 品类 / 行业",
-      "quote": "51 Boulder Rd Malaga, WA 6090 - sales@cabledistribution.com.au - +61 (08) 9375 6522 - 1800 GET CABLE (1800 438 222) … Products - Power Cables - Communication Cables - Fibre Optic - Data … Industries - Mining - Oil & Gas - Communication - Pumping & Dewatering",
-      "url": "https://cabledistribution.com.au/",
-      "date": "2026-09-10"
+      "claim": "MC-10100G 规格与价格、电话、地址",
+      "quote": "10/100/1000 Mbps Duplex Data Media Converter … +91-9656123414 Binanipuram … 3,379 … Part Number MC-10100G Temperature 0 to 50",
+      "url": "https://www.dncsolutions.co.in/101001000-mbps-duplex-data-media-converter/pid-2010203631",
+      "date": "2026-10-21"
     },
     {
       "kind": "官网",
-      "claim": "自有光纤端接工厂与 Dataflow 合作",
-      "quote": "In partnership with Dataflow since 2014, we provide end-to-end solutions using Australian-manufactured fibre, bend-insensitive Corning Glass and pre-tested components",
-      "url": "https://cabledistribution.com.au/industries/data-communications/",
-      "date": "2025-08-18"
-    },
-    {
-      "kind": "目录",
-      "claim": "规模口径",
-      "quote": "51 Boulder Rd, Malaga, Western Australia, 6090 … Revenue $4.7 M … Employees 24 … Founded 1999",
-      "url": "https://www.datanyze.com/companies/cable-distribution-services/398327759",
+      "claim": "2011 年成立与产品范围",
+      "quote": "Established in the year 2011, DNC Technosolutions Pvt. Ltd. is one of the well recognized Manufacturers and Solution makers of Fiber Optic Products and Technology … Data to Fiber converters, Video to Fiber Converter , Telephone to Fiber Converters , SFP Modules , MPO Systems",
+      "url": "https://www.dncsolutions.co.in/",
       "date": "2026-10-21"
     }
   ],
   "kp": [
     {
-      "name": "Ross W.",
-      "role": "创始人（官网「About」）",
-      "email": "sales@cabledistribution.com.au",
-      "phone": "+61 8 9375 6522",
-      "source": "https://cabledistribution.com.au/about/"
+      "name": "—",
+      "role": "官网公开电话（WhatsApp 已加）",
+      "email": "",
+      "phone": "+91 96561 23414",
+      "source": "https://www.dncsolutions.co.in/"
     }
   ],
-  "notes": "A 确认（2 次实质回复 + 问价 + 工业分销渠道）；澳洲不在重点区但互动真实；P1 = STI-144GP（1 光 4 电工业 PoE，若价格表无则标 SmartByte 型号），20% 分销档，强调矿业宽温。",
+  "notes": "A 维持（2 次实质回复 + 自有品牌 + 官网电话即 WhatsApp）；主需求 MC 与 VC：P1 = STI-110GE（MC）贴牌 30%；VC/HDMI 光端机 Saga 不做，如实说明。",
   "researched_at": "2026-10-21",
   "deep": {
     "done_at": "2026-10-21",
-    "level": "深挖 v2（官网核对）"
+    "level": "深挖 v2（官网 dncsolutions.co.in + IndiaMART 核对）"
   },
   "company_facts": {
-    "legal_name": "Cable Distribution Services（CDS）",
-    "founded": "1999",
-    "hq": "51 Boulder Rd, Malaga, WA 6090（+61 8 9375 6522；1800 438 222；sales@cabledistribution.com.au）；另 Kewdale/Maylands 3 Reggio Rd、Morley 办公",
-    "staff": "24（Datanyze）/ 11–50",
-    "revenue": "$4.7M（Datanyze）",
-    "other": "电缆库存分销 + 自有光纤端接工厂（FOBOT、预端接，与 Dataflow 合作自 2014，Corning 玻璃）；品类：电力/通信/数据/光纤/附件；行业：矿业、油气、通信、泵送排水、工业（含军事基地、医院——守界：军事不供）；官网 2025-08～2026-09 更新"
+    "legal_name": "DNC Technosolutions Pvt. Ltd.",
+    "founded": "2011（IndiaMART 另见 2013）",
+    "hq": "Binanipuram P.O., Edayar, Ernakulam, Kerala（+91 96561 23414）；另见 48/425-P, Raghavan Pillai Road, Edappally, Ernakulam 682026",
+    "other": "自有品牌 DNC 光纤产品制造商：跳线/尾纤/适配器/分路器/配线架/MPO 系统、数据 MC（MC-10100G 千兆双纤 ₹3,379）、视频光端机（4ch TVI/CVI/AHD）、电话光端机、HDMI+USB KVM 光端机（DNC-KVM-HV，FCC/CE）、SFP、**DNC 4-PoE + 1-FX 交换机（IndiaMART 在售）**"
   },
   "business_lines": [
-    "工业电缆与附件（矿业、油气、泵送）",
-    "光纤/数据线缆",
-    "（拓展）1 光 4 电工业 PoE",
-    "电力/通信/仪表/矿用电缆分销",
-    "光纤产品与自有端接（FOBOT、预端接）",
-    "数据产品（机柜、跳线）",
-    "（拓展）工业 PoE 交换机"
+    "光纤无源（跳线、分路器、MPO）",
+    "DNC 品牌 MC / 光端机 / SFP",
+    "（兴趣）FS、HDMI、VC",
+    "光纤无源（跳线/尾纤/MPO/配线架/分路器）制造",
+    "DNC 品牌光端机 / MC / SFP",
+    "DNC 品牌小口数 PoE 光纤交换机"
   ],
   "products_seen": [
     {
-      "brand": "中科德能 / Ewind（比价中）",
-      "model": "1 光 4 电 PoE 工业交换机",
-      "spec": "有意向，问了价格",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "用户表",
-      "saga": "STI-144GP"
+      "brand": "DNC",
+      "model": "MC-10100G 等 MC",
+      "spec": "自有 logo，「质量较高」要求",
+      "url": "https://dncsolutions.co.in/",
+      "date": "2026-10（首轮调研）",
+      "saga": "STI-110GE"
+    },
+    {
+      "brand": "DNC（自有标）",
+      "model": "4-PoE With 1-Fixed FX Switch",
+      "spec": "4 PoE+ + 1 FX 固定光口，15.5/25.5W，DC 适配器",
+      "url": "https://www.indiamart.com/proddetail/4-poe-with-1-fixed-fx-switch-18538470891.html",
+      "date": "2026-10-21",
+      "saga": "STI-144GP（4 GE PoE + 1 SFP，直接对位）"
+    },
+    {
+      "brand": "DNC（自有标）",
+      "model": "MC-10100G",
+      "spec": "10/100/1000 双纤 MC，150×100×30 mm，5W，0–50℃，₹3,379",
+      "url": "https://www.dncsolutions.co.in/101001000-mbps-duplex-data-media-converter/pid-2010203631",
+      "date": "2026-10-21",
+      "saga": "STI-110GE"
     }
   ],
   "channels": {
-    "网站": "https://cabledistribution.com.au/",
-    "直邮": "paul@cabledistribution.com.au（用户表）",
-    "WhatsApp": "已加（用户表）",
-    "电话": "+61 8 9375 6522 / 1800 438 222（官网）",
-    "邮箱（公开）": "sales@cabledistribution.com.au",
-    "LinkedIn": "https://au.linkedin.com/company/cable-distribution-services"
+    "网站": "https://www.dncsolutions.co.in/",
+    "直邮": "coo@dncsolutions.co.in（COO，用户表）",
+    "WhatsApp": "跟进中（用户表）",
+    "电话/WA": "+91 96561 23414（官网公开）",
+    "IndiaMART": "https://www.indiamart.com/dncsolutions/"
   },
   "signals": [
-    "用户表：2 次实质回复，明确型号与比价对象（中科德能/Ewind）——处于选型期",
-    "光纤端接自有工厂 + 矿业客户——1 光 4 电工业 PoE 是其光纤方案的自然配套（2026-10-21）"
+    "用户表：2 次实质回复，18 次跟进；兴趣 MC/FS/HDMI/SFP/VC，强调质量",
+    "DNC 自有标已有 4 PoE + 1 FX 机——STI-144GP 为同口型 Marvell 替代，可按 DNC 命名贴牌；MC 位 STI-110GE（2026-10-21）"
   ],
   "risks": [
-    "澳洲 RCM 合规（Saga 无 RCM，需说明 CE 等效或客户自认）；矿业场景可能要求更高防护"
+    "MC 单价低、印度价格敏感；VC/HDMI 不在 Saga 型谱"
   ],
   "saga_fit": {
     "p1": "STI-144GP",
-    "tier": 20,
-    "why": "明确需求 1 光 4 电工业 PoE → STI-144GP（EXW $35.5 @25%，分销 20% 档更低）；比价对象为同行低价品，用 Marvell 平台 + 一致性说话"
+    "tier": 30,
+    "why": "自有标 DNC 4-PoE+1-FX 的同口型 = STI-144GP；MC-10100G 位 = STI-110GE；8 口升级 STI-288DGGPM；按 DNC 命名 OEM 30% 档"
   },
-  "email_hook": "For the 1-fibre 4-copper industrial PoE unit you were pricing, here is the 4-port gigabit PoE + 1 SFP DIN switch (STI-144GP) at EXW, with the datasheet so you can line it up against the two quotes you already have.",
+  "email_hook": "For your DNC 4-PoE + 1-FX switch and the MC-10100G converter, I can supply the 4-port gigabit PoE+ with SFP (STI-154GP) and the gigabit media converter (STI-110GE) in DNC packing, EXW, with CE/RoHS files.",
   "mail_review": {
     "binding": {
-      "level": "未绑定（邮件 28 封 0 回，Opened 2 次（2024-06-21 当天）；用户表「2 次实质回复 + 问价」应在 WhatsApp）；Elsa 1:1 去信 1 封（2025-02-25「Industrial PoE Switch」；To 仅本户 paul@cabledistribution.com.au；Bcc 未逐封读头；同类名单抽读 24 封均无 Bcc；此后再未进 Elsa 任何名单——全箱 `from:e.sagatelecom to:paul@cabledistribution.com.au` 仅此 1 条，complete）（第 74 批(m)）",
-      "type": "澳洲工业线缆分销（CDS）",
+      "level": "未绑定（邮件 3 封 0 回、Opened 0；Elsa 箱：`to:dncsolutions.co.in` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 3 / 来 0）（第 74 批(g)））",
+      "type": "印度光纤配套品牌（DNC，MC 贴牌）",
       "sieve": "0（邮件层无人工回复）",
-      "stop": "首封被打开后两年静默",
+      "stop": "—",
       "revive": "—",
-      "lane": "AU 非主攻",
+      "lane": "IN",
       "cadence": "不主动",
-      "evidence": "邮件：去信 28 封（2024-06-21 → 2026-09-30），来信 0；Opened 标签 2 次（2025-11-19、2024-06-21）；收件人 paul@cabledistribution.com.au, ross.wasserman@cabledistribution.com.au"
+      "evidence": "邮件：去信 3 封（2024-06-19 → 2024-12-11），来信 0；Opened 标签 0 次；收件人 coo@dncsolutions.co.in"
     },
-    "situation": "首日打开两次之后 27 封无动静。",
-    "need": "1 光 4 电工业 PoE。",
+    "situation": "3 封无互动。",
+    "need": "MC 贴牌。",
     "breakpoint": "—",
     "saga_now": {
-      "p1": "STI-144GP",
-      "tier": 20,
-      "price": "锚价：STI-144GP $34.1（20% 档；无实报）（第 72 批 2026-10-24）；—；群发里他已看到的价（续）：2026-08-17 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-07-16 $300（48 Port PoE Managed Switch）、2025-09-24 $280（10G Enterprise SFP Switch）",
-      "why": "已打开的主题（2/28 封有打开记录）：「CCTV poe switch」(2024-06-21)、「Optional Marvell Chipset Solutions」(2025-11-19) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
+      "p1": "STI-110GE",
+      "tier": 30,
+      "price": "锚价：STI-154GP $40.8（30% 档）/ STI-110GE $26.5（第 72 批 2026-10-24）；—；群发里他已看到的价（续，第 66 批全量复核）：2024-06-19 $220（48 port managed switch）",
+      "why": "MC 贴牌（DNC）→ 千兆转换器 + 4 PoE + SFP 两款先问",
       "repeat": [],
       "gaps": []
     },
     "next_move": {
       "when": "2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）",
-      "channel": "A 邮箱 → paul@cabledistribution.com.au（用户表称实质回复在 WhatsApp → 由 Simon 决定走 WA）",
-      "action": "首封前知悉：Elsa 仅 2025-02-25 单发过 1 封「Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(p) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；信里写「datasheet on request」而非 attached）（第 76 批(c) 2026-10-25：audit_ab 软项修正：证书口径 CE/RoHS → CE/RoHS (RCM stays on your side)）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
-      "one_question": "For the 1-fibre 4-copper industrial PoE unit you were pricing, here is the 4-port gigabit PoE + 1 SFP DIN switch (STI-144GP) at EXW, with the datasheet so you can line it up against the two quotes you already have. Is that project still open? Reference: STI-144GP at $34.1 USD EXW (MOQ 1, 15-day validity)."
+      "channel": "A 邮箱 → DNC 具名 KP 待找",
+      "action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(p) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；具名 KP 待找）（第 76 批(c) 2026-10-25：audit_ab 软项修正：证书口径 CE/RoHS → CE/RoHS (BIS stays on your side)）（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
+      "one_question": "For your DNC 4-PoE + 1-FX switch and the MC-10100G converter, I can supply the 4-port gigabit PoE+ with SFP (STI-154GP) and the gigabit media converter (STI-110GE) in DNC packing, EXW, with CE/RoHS files. Which one first — the 4-PoE + SFP switch or the gigabit converter? Reference: STI-154GP at $40.8 / STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
     },
     "facts": [
       {
-        "date": "2024-06-21",
-        "dir": "去",
-        "who": "Saga（群发）",
-        "quote": "「CCTV poe switch」被打开（Mailtrack Opened 标签）",
-        "why": "唯一的互动痕迹",
-        "k": "b135d2a3fa4dece3"
+        "date": "2024-06-18",
+        "dir": "来",
+        "who": "用户表（Simon 跟进记录；渠道 Whatsapp/Email）",
+        "quote": "用户表跟进：推「发了几个商业交换机图」→ 对方「Email发了48口引流信息」",
+        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+        "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.74 2024.6.18"
       },
       {
-        "date": "2024-11-19",
+        "date": "2024-06-19",
+        "dir": "去",
+        "who": "S 箱（Simon）",
+        "quote": "48 port managed switch",
+        "why": "首封去信（邮箱索引；去信共 3 封）",
+        "k": "8313d2e91f1c946c"
+      },
+      {
+        "date": "2024-06-19",
+        "dir": "去",
+        "who": "S 箱（Simon）报价",
+        "quote": "48 port managed switch｜ $220（原句：Price is very competitive, 220usd/pc）",
+        "why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
+        "k": "8313d2e91f1c946c"
+      },
+      {
+        "date": "2024-12-09",
         "dir": "来",
         "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
-        "quote": "用户表跟进：推「引流机型」→ 对方「1121email发了8电口」",
+        "quote": "用户表跟进：推「引流」→ 对方「1211: 22迷你」",
         "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
-        "k": "Clients/A/DONE/AU.xlsx no.29 1119"
+        "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.74 1209"
       },
       {
-        "date": "2025-02-25",
-        "dir": "out",
-        "who": "Elsa → paul@cabledistribution.com.au",
-        "quote": "Industrial PoE Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
-        "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
-        "k": "elsa_1to1",
-        "msg_id": "1953a6740e1c2132"
-      },
-      {
-        "date": "2025-11-19",
+        "date": "2024-12-11",
         "dir": "去",
-        "who": "Saga（群发）",
-        "quote": "「Optional Marvell Chipset Solutions」被打开（Mailtrack Opened 标签）",
-        "why": "唯一的互动痕迹",
-        "k": "be9998111900ae04"
+        "who": "S 箱（Simon）",
+        "quote": "Mini Industrial PoE Switch",
+        "why": "最近一封去信（邮箱索引；去信共 3 封）",
+        "k": "a6946d60c14d3655"
       }
     ],
     "proof_gaps": [
-      "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 去信 1 轮、0 回），仓库未见原文"
+      "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 从未去信、Replied 索引亦无此户），仓库未见原文"
     ],
     "draft_en": {
-      "subject": "The 1-fibre + 4-copper industrial PoE you were pricing - our number, with datasheet",
-      "body": "Hi Paul,\n\nYou were pricing a 1-fibre + 4-copper industrial PoE switch and had two quotes already; here is ours to line up against them: DIN-rail 4 x Gigabit PoE+ + 1 x SFP, unmanaged, 44-57 V DC, -40 to 75 C, CE/RoHS (RCM stays on your side) - model STI-144GP - $34.1 USD EXW at distributor price (MOQ 1, 15-day validity). Datasheet goes with this mail on request - say the word and it follows in the same thread.\n\nOne question: for the mining and pumping sites you supply, is the 4-port unit going into existing cabinets with 48 V available, or do you need the version with a wide 12-58 V input?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+      "subject": "DNC packing - the 4-PoE + SFP switch and the gigabit converter",
+      "body": "Hello DNC team,\n\nFor the DNC 4-PoE + 1-FX switch and the MC-10100G converter slots, two units in DNC packing from small lots, CE/RoHS (BIS stays on your side): DIN-rail 4 x Gigabit PoE+ + 1 x Gigabit RJ45 + 1 x SFP, unmanaged, -40 to 75 C - model STI-154GP - $40.8 USD EXW with your logo (MOQ 1, 15-day validity); industrial Gigabit media converter, 1 x RJ45 + 1 x SFP slot (or fixed SC 20 km) - STI-110GE - $26.5. Logo on the unit is free; colour box from 200 sets.\n\nOne question: which of the two do you ship more of today - the 4-PoE switch or the converter?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
     },
     "as_of": "2026-10-24"
   }

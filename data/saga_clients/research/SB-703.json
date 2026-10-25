@@ -2,65 +2,124 @@
  "code": "SB-703",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "在线（globalcarrier.de，快照 2026-10-21）",
- "summary": "德国 globalcarrier telecom GmbH（电信整体方案：规划、光纤、施工监理、物流；90 余名员工、6 个分支；表内「Networking」）；表内 2 次跟进无回复。",
- "type": "光纤建设/工程服务商（德国）",
+ "website_status": "在线（engitel.com.mx，快照 2026-10-21）",
+ "summary": "墨西哥 Engitel S.A. de C.V.（面向中小企业的 IT 咨询与方案实施，15 年以上；自建站询盘「2 光 10 电」；KP Enrique Camberos）；表内未跟进。",
+ "type": "IT 方案商（墨西哥，2 光 10 电询盘）",
  "size": "",
  "brands_seen": [],
  "evidence": [
   {
    "kind": "官网快照",
-   "claim": "官网标题：globalcarrier - Ganzheitliche Telekommunikationslösungen",
-   "quote": "Die globalcarrier telecom GmbH ist mit über 90 mitarbeitenden Menschen und 6 Niederlassungen in Hessen und Nordrhein-Westfalen ein klassisches mittelständisches Unternehmen.",
-   "url": "https://www.globalcarrier.de/",
+   "claim": "官网标题：Engitel S.A de C.V；品类词 电信 / FTTH / ISP 设备",
+   "quote": "Brindar servicios de consultoría e implementación de soluciones a pequeñas y medianas empresas",
+   "url": "https://www.engitel.com.mx/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
    "claim": "表内兴趣/备注",
-   "quote": "Networking",
+   "quote": "2光10电 / from: 自建站",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   },
   {
    "kind": "官网快照",
-   "claim": "globalcarrier 定位",
-   "quote": "globalcarrier - Ganzheitliche Telekommunikationslösungen ; über 90 mitarbeitenden Menschen und 6 Niederlassungen ; Planung ; Glasfaser ; Bauleitung ; Logistik",
-   "url": "https://www.globalcarrier.de/",
+   "claim": "Engitel 定位",
+   "quote": "Engitel S.A de C.V ; servicios de consultoría e implementación de soluciones a pequeñas y medianas empresas",
+   "url": "https://www.engitel.com.mx/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "2 光 10 电询盘",
+   "quote": "2光10电 / from: 自建站",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
- "kp": [],
- "grade_override": "C",
- "override_reason": "工程服务公司（光纤规划/施工），非硬件渠道；c_sub=品类不符（工程服务）",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "kp": [
+  {
+   "name": "Enrique Camberos",
+   "title": "（职务待核）",
+   "email": "ecamberos@engitel.com.mx",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "德国",
-  "other": "官网 globalcarrier.de，语言 de-DE，快照状态 ok；角色判定来源：官网文案"
+  "hq": "墨西哥",
+  "other": "官网 engitel.com.mx，语言 ?，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "电信 / 光纤网络规划与施工（德国）"
+  "IT 咨询 / 方案实施（墨西哥）"
  ],
  "channels": {
-  "role": "光纤建设/工程服务商（德国）",
-  "region": "德国",
-  "contact": "info@globalcarrier.de"
+  "role": "IT 方案商（墨西哥，2 光 10 电询盘）",
+  "region": "墨西哥",
+  "contact": "ecamberos@engitel.com.mx"
  },
  "signals": [
-  "官网：Die globalcarrier telecom GmbH ist mit über 90 mitarbeitenden Menschen und 6 Niederlassungen in Hessen und Nordrhein-Westfalen ein klassisches mittelständisches Unternehmen ; Planung ; Glasfaser ; Bauleitung ; Logistik",
-  "表内：Networking"
+  "官网：Engitel S.A de C.V ; Brindar servicios de consultoría e implementación de soluciones a pequeñas y medianas empresas ; ¡ Con mas de 15 años de experiencia !",
+  "表内：2 光 10 电 / from: 自建站；KP Enrique"
  ],
  "risks": [
-  "品类不符：光纤规划/施工监理/物流服务（非交换机渠道）；2 次无回复"
+  "非主攻区（T5，墨西哥）；2 光 10 电非标准口数（以 8+2 或 16+2 替代，待确认）；询盘时效待核"
  ],
  "saga_fit": {
-  "p1": null,
+  "p1": "STC-28DGGPM",
   "tier": 25,
-  "why": "光纤网络规划与施工服务（工程服务，非硬件渠道）→ 改 C（品类不符）"
+  "why": "2 光 10 电 → 最近配置 8 GE PoE + 2 SFP L2+ STC-28DGGPM（$84.1 @25%）或 16 口 PoE（待核型号）；工业 8 GE + 2 SFP STI-280GE（$48.6）"
  },
- "email_hook": "（不发送：工程服务）"
+ "email_hook": "Enrique, following your enquiry for a 2-fibre + 10-copper switch: we can offer 8-GE (PoE) + 2 SFP L2+ or 16-GE + 2 SFP configurations from single units, CE/RoHS, EXW USD, 10–15 days — are the 10 copper ports needed with PoE, and how many units?",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「2光10电 / from: 自建站」；Elsa 箱：`to:engitel.com.mx` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(n)））",
+   "type": "IT 方案商（墨西哥，2 光 10 电询盘）",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "不动（非主攻区；J5：有证据再动）",
+   "lane": "墨西哥 非主攻",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 0；用户表：「2光10电 / from: 自建站」；研究档 risks：非主攻区（T5，墨西哥）；2 光 10 电非标准口数（以 8+2 或 16+2 替代，待确认）；询盘时效待核"
+  },
+  "situation": "墨西哥 Engitel S.A. de C.V.（面向中小企业的 IT 咨询与方案实施，15 年以上；自建站询盘「2 光 10 电」；KP Enrique Camberos）；表内未跟进。",
+  "need": "2 光 10 电 → 最近配置 8 GE PoE + 2 SFP L2+ STC-28DGGPM（$84.1 @25%）或 16 口 PoE（待核型号）；工业 8 GE + 2 SFP STI-280GE（$48.6）",
+  "breakpoint": "非主攻区（T5，墨西哥）；2 光 10 电非标准口数（以 8+2 或 16+2 替代，待确认）；询盘时效待核",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "2 光 10 电 → 最近配置 8 GE PoE + 2 SFP L2+ STC-28DGGPM（$84.1 @25%）或 16 口 PoE（待核型号）；工业 8 GE + 2 SFP STI-280GE（$48.6）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "2光10电 / from: 自建站",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

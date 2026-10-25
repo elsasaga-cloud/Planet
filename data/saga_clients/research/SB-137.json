@@ -1,28 +1,59 @@
 {
  "code": "SB-137",
- "name_official": "PT. Suryatama（印度尼西亚；gmail）",
+ "name_official": "Oral Güvenlik Sistemleri（Oral Companies，Lefkoşa/Nicosia, 北塞浦路斯；oralguvenlik.com）",
  "researched_at": "2026-10-21",
- "website_status": "无域名（免费邮箱/仅电话）",
- "summary": "印尼公司 PT. Suryatama（Dedi Suryo Nugroho，gmail，WA 已加）。兴趣工业级交换机，2024-04 对 2 层 2 光 8 PoE 管理信息回「4 光 16 电 2 层管理」；18 次推送 1 次实质回复。工业管理型需求具体 → B 25%。",
+ "website_status": "在线（网店）",
+ "summary": "北塞浦路斯（KKTC）尼科西亚的安防系统零售/安装商 Oral Güvenlik Sistemleri（Oral Companies 旗下，2008 年设立；约 6 人；业主 Metin Oral；经理 Muhammad Azeem；网店销售 Hikvision NVR/摄像机、Ttec 机柜等；+90 392 228 33 30；info@oralguvenlik.com）。ISAF 记录：Muhammad Azeem Ullah——问工业级 PoE 带网管、bypass；问 12 光 12 电带 PoE 网管报价 $150；2 光 8 电带 PoE 管理（Vitesse）报价 $90 觉得贵（备注：后面可报瑞昱方案价格）；问多模收发器价格；无后续跟进。按 T06 规则北塞计入土耳其。",
  "type": "",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Hikvision（零售）",
+  "Ttec"
+ ],
  "evidence": [
   {
+   "kind": "名录",
+   "claim": "公司、成立年、人员",
+   "quote": "Oral Güvenlik Sistemleri Overview … Website: oralguvenlik.com … Founded: 2008 … Metin Oral Oral Companies Şirketinde Business Owner … Muhammad Azeem Manager at Oral Güvenlik Sistemleri … numberOfEmployees 6",
+   "url": "https://aeroleads.com/c/oralguvenliksistemleri",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "厂商名录",
+   "claim": "地址与联系方式",
+   "quote": "ORAL GÜVENLİK SİSTEMLERİ Lefkoşa/K.K.T.C (0392) 228 33 30 info@oralguvenlik.com www.oralguvenlik.com",
+   "url": "https://ninova.com/ic/bayilerimiz",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "集团官网",
+   "claim": "集团归属",
+   "quote": "Markalarımız ve Kuruluş Yılları - Oral Güvenlik Sistemleri (2008): Güvenlik teknolojilerinde lider çözümler sunarak",
+   "url": "https://www.oralcompanies.com/hakkimizda",
+   "date": "2026-10-21"
+  },
+  {
    "kind": "用户表",
-   "claim": "表内需求与回复",
-   "quote": "工业级交换机；2024.4.22 发了2层2光8POE管理信息 → 4光16电 2层管理",
+   "claim": "ISAF 互动：报价 $150/$90，嫌贵；收发器",
+   "quote": "问了工业级POE带网管， bypas, 问了12光12电带POE网管 报价150usd  2光8电带POE管理 （Vitesse) 报价 90usd, 觉得贵了(后面可报一下瑞昱方案的价格）  收发器多模价格",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
  "kp": [
   {
-   "name": "Dedi Suryo Nugroho",
-   "role": "（表内 Mr.）",
-   "email": "dedi.suryonugroho@gmail.com",
-   "phone": "+62 813 2507 6161（WA 已加）",
-   "source": "用户 Clients 表"
+   "name": "Muhammad Azeem (Ullah)",
+   "role": "Manager（名录公开）",
+   "email": "info@oralguvenlik.com（用户表）",
+   "phone": "+90 392 228 33 30",
+   "source": "https://aeroleads.com/c/oralguvenliksistemleri"
+  },
+  {
+   "name": "Metin Oral",
+   "role": "Business Owner（名录公开）",
+   "email": "—",
+   "phone": "—",
+   "source": "https://aeroleads.com/c/oralguvenliksistemleri"
   }
  ],
  "grade_override": null,
@@ -30,78 +61,81 @@
  "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "无域名 · 仅表内信息"
+  "level": "B 级加厚 v1（官网核对）"
  },
  "company_facts": {
-  "legal_name": "待核",
-  "founded": "待核",
-  "hq": "待核",
-  "size": "待核",
-  "other": "+62 813 2507 6161；gmail"
+  "legal_name": "Oral Güvenlik Sistemleri（Oral Companies）",
+  "founded": "2008",
+  "hq": "Lefkoşa (Nicosia), KKTC（+90 392 228 33 30；info@oralguvenlik.com）",
+  "size": "约 6 人（AeroLeads/RocketReach）",
+  "other": "Hikvision 零售；Ttec 机柜；SambaPOS 经销；网店"
  },
  "business_lines": [
-  "待核（见表内需求）"
+  "安防摄像/NVR 零售与安装（Hikvision）",
+  "POS/IT 配件"
  ],
- "products_seen": [],
  "channels": {
-  "contact": "Dedi Suryo Nugroho dedi.suryonugroho@gmail.com，+62 813 2507 6161（WA 已加）"
+  "网店": "https://www.oralguvenlik.com/",
+  "电话": "+90 392 228 33 30（公开）",
+  "邮箱（公开）": "info@oralguvenlik.com"
  },
  "signals": [
-  "2024-04 明确需求：4 光 16 电 L2 管理工业交换机"
+  "对 $90 的 Vitesse 2 光 8 PoE 管理机嫌贵 → 用 Saga Realtek 线 STC-28GPM（2 SFP + 8 PoE L2 管理，列表 $62.2）重报；收发器多模可一并报"
  ],
  "risks": [
-  "gmail、公司资料未核",
-  "4 光 + 16 电精确规格在 Saga 为 10G 上联高价款"
+  "北塞小市场、零售规模；价格敏感；无后续跟进"
  ],
  "saga_fit": {
-  "p1": "STI-21616XGGPM",
-  "tier": 25,
-  "why": "「4 光 16 电 L2 管理」→ 最近为 STI-21616XGGPM（16 PoE + 2×10G SFP+，L2+）；4 光版为 STI-41616XGGPM（L3，$450+）——按预算二选一"
+  "p1": "STC-28GPM",
+  "tier": 20,
+  "why": "零售/分销 20% 档：STC-28GPM（Saga Realtek 线，2 SFP + 8 GE PoE L2 管理，列表 $62.2）替代被嫌贵的 $90 Vitesse 机；非管理 STC-228GP（$30.8）；工业 bypass 版另议"
  },
- "email_hook": "You asked for an industrial L2-managed switch with 16 copper and 4 fiber ports — we have a 16-PoE + 2×10G SFP+ unit and a 4×10G version; is PoE needed on the 16 ports, and what is the budget band per unit?",
+ "email_hook": "Azeem Bey, ISAF'ta 90 USD'yi pahalı bulduğunuz 2 SFP + 8 port PoE yönetilebilir switch'in Realtek tabanlı sürümü fiyatıyla 71,0 USD EXW; yanına multimode SFP fiyatını da ekleyeyim mi?",
  "mail_review": {
   "binding": {
-   "level": "未发信（S/A 邮箱均无往来；来源：用户表「工业级交换机；2024.4.22 发了2层2光8POE管理信息 → 4光16电 2层管理」；Elsa 箱：`to:dedi.suryonugroho@gmail.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(n)））",
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「问了工业级POE带网管， bypas, 问了12光12电带POE网管 报价150usd  2光8电带POE管理 （Vit」；Elsa 箱：`to:oralcompanies.com OR to:oralguvenlik.com` 逐户查 0（2026-10-24 第 73 批(o)，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(g)））",
    "type": "—",
    "sieve": "—（未入筛）",
    "stop": "从未触达",
-   "revive": "不动（非主攻区；J5：有证据再动）",
-   "lane": "印度尼西亚 非主攻",
-   "cadence": "不动",
-   "evidence": "gmail_digest：out 0；用户表：「工业级交换机；2024.4.22 发了2层2光8POE管理信息 → 4光16电 2层管理」；研究档 risks：gmail、公司资料未核"
+   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+   "lane": "TR 主攻（四主）",
+   "cadence": "首封后看打开",
+   "evidence": "gmail_digest：out 0；用户表：「问了工业级POE带网管， bypas, 问了12光12电带POE网管 报价150usd  2光8电带POE管理 （Vitesse) 报价 90usd, 觉得贵了」；研究档 risks：北塞小市场、零售规模；价格敏感；无后续跟进"
   },
-  "situation": "印尼公司 PT. Suryatama（Dedi Suryo Nugroho，gmail，WA 已加）。兴趣工业级交换机，2024-04 对 2 层 2 光 8 PoE 管理信息回「4 光 16 电 2 层管理」；18 次推送 1 次实质回复。工业管理型需求具体 → B 25%。",
-  "need": "「4 光 16 电 L2 管理」→ 最近为 STI-21616XGGPM（16 PoE + 2×10G SFP+，L2+）；4 光版为 STI-41616XGGPM（L3，$450+）——按预算二选一",
-  "breakpoint": "gmail、公司资料未核",
+  "situation": "北塞浦路斯（KKTC）尼科西亚的安防系统零售/安装商 Oral Güvenlik Sistemleri（Oral Companies 旗下，2008 年设立；约 6 人；业主 Metin Oral；经理 Muhammad Azeem；网店销售 Hikvision NVR/摄像机、Ttec 机柜等；+90 392 228 33 30；info@oralguvenlik.com）。ISAF 记录：Muhammad Azeem Ullah——问工业级 PoE 带网管、bypass；问 12 光 12 电带 PoE 网管报价 $150；2 光 8 电带 PoE 管理（Vitesse）报价 $90 觉得贵（备注：后面可报瑞昱方案价格）；问多模收发器价格；无后续跟进。按 T06 规则北塞计入土耳其。",
+  "need": "零售/分销 20% 档：STC-28GPM（Saga Realtek 线，2 SFP + 8 GE PoE L2 管理，列表 $62.2）替代被嫌贵的 $90 Vitesse 机；非管理 STC-228GP（$30.8）；工业 bypass 版另议",
+  "breakpoint": "北塞小市场、零售规模；价格敏感；无后续跟进",
   "saga_now": {
-   "p1": "STI-21616XGGPM",
-   "tier": 25,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "「4 光 16 电 L2 管理」→ 最近为 STI-21616XGGPM（16 PoE + 2×10G SFP+，L2+）；4 光版为 STI-41616XGGPM（L3，$450+）——按预算二选一",
+   "p1": "STC-28GPM",
+   "tier": 20,
+   "price": "Realtek 线按 HRUI 2026-09-30 进价 +20% 现算（Q-47 默认，不用 Drive 旧表价）：STC-28GPM $62.2→$71.0；按主表（研究档 saga_fit）",
+   "why": "零售/分销 20% 档：STC-28GPM（Saga Realtek 线，2 SFP + 8 GE PoE L2 管理，列表 $62.2）替代被嫌贵的 $90 Vitesse 机；非管理 STC-228GP（$30.8）；工业 bypass 版另议",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—",
-   "one_question": ""
+   "when": "待 Simon 排期（首封）",
+   "channel": "A 邮箱 → info@oralguvenlik.com（Muhammad Azeem (Ullah)）",
+   "action": "首封：按 email_hook 一问（第 74 批(r) 2026-10-25：英文信稿已写 `draft_en`，内容 = 土耳其语钩子句的英文版；土耳其语一句话仍在研究档备注里，对方若不读英文就整段单发）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
+   "one_question": "Azeem Bey, ISAF'ta 90 USD'yi pahalı bulduğunuz 2 SFP + 8 port PoE yönetilebilir switch'in Realtek tabanlı sürümü fiyatıyla 71,0 USD EXW; yanına multimode SFP fiyatını da ekleyeyim mi?"
   },
   "facts": [
    {
     "date": "2026-10-21",
     "dir": "用户表",
     "who": "Simon",
-    "quote": "工业级交换机；2024.4.22 发了2层2光8POE管理信息 → 4光16电 2层管理",
+    "quote": "问了工业级POE带网管， bypas, 问了12光12电带POE网管 报价150usd  2光8电带POE管理 （Vitesse) 报价 90usd, 觉得贵了(后面可报一下瑞昱方案的价格）  收发器多模价格",
     "why": "表内备注",
     "k": "用户表"
    }
   ],
   "proof_gaps": [
-   "无邮件往来",
-   "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+   "无邮件往来"
   ],
-  "draft_en": null,
+  "draft_en": {
+   "subject": "The 2-SFP + 8-PoE managed switch you found expensive at $90 - a $71 version",
+   "body": "Hi Azeem,\n\nWe met at ISAF 2025 in Istanbul last October - this picks up what we discussed at the booth.\n\nAt the booth the 2 SFP + 8-port PoE managed switch was $90 and you found it expensive. There is a lower-cost version on our Realtek-based commercial line, same port layout (2 x SFP + 8 x Gigabit PoE+, L2 managed, web GUI), model STC-28GPM - $71.0 USD EXW (MOQ 1, 15-day validity). The unmanaged 2 SFP + 8 PoE unit is $33.2.\n\nOne question: shall I add multimode SFP modules to the quote, or do you source optics locally?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+  },
   "as_of": "2026-10-24"
  }
 }

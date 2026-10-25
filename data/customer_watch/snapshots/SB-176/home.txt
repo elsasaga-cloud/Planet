@@ -1,0 +1,437 @@
+# SB-176 oksa.co.uk · home · https://oksa.co.uk/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+Industrial Automation Solutions | OKSA Automation Limited
+Skip to content
+020 3997 6277
+sales@oksa.co.uk
+support@oksa.co.uk
+Search for products...
+Search
+0
+Sub-Total: £ 0.00
+No products in the cart.
+100% Secure Checkout!
+Log-in/Register
+Home
+Products
+Automation Controllers/PLCs
+Compact Programmable Automation Controllers (PACs)
+I/O Modules for PAC Series
+ODOT C3351 Programmable Automation Controller
+ViewPAC Series
+WinPAC Series
+XPAC Series
+Converters & Gateways
+Cellular Routers
+Programmable Device Servers
+Fieldbus Gateways
+BACnet/IP to Modbus RTU/TCP
+CAN Bus to Modbus gateway
+DNP3 Master to Modbus TCP Server Gateway
+EtherCAT to Modbus RTU gateway
+EtherNet/IP to Modbus RTU/TCP
+HART to Modbus gateway
+J1939 to Modbus gateway
+M-BUS to Modbus gateway
+Modbus TCP to IEC-61850 Gateway
+Modbus TCP/UDP to RTU/ASCII
+PROFIBUS to Modbus RTU/TCP
+PROFINET to Modbus RTU/TCP
+Industrial LoRaWAN Gateways
+RS-232/RS-485 Repeaters
+RS-232/RS-485 Converters
+PCIe Series – Multi-port Serial Cards
+tM-7520U/7521/7522
+tSH-700 Series
+RS-232/RS-485 Repeaters
+Serial to Ethernet Converters/Device Servers
+Ethernet Switches
+EN50155 Ethernet Switches
+Industrial PoE Switches
+Industrial VPN Routers
+Industrial Wireless/Wi-Fi
+Serial to WiFi Converters/Controllers
+Cellular Gateways & Wi-Fi Access Points
+Managed Ethernet Switches
+ATOP EHG/RHG Series
+ICP DAS FSM/MSM Series
+Media Converters
+Redundant Ethernet Switches
+Unmanaged Ethernet Switches
+ATOP EH/EHG Series
+ICP DAS NS/NSM Series
+ODOT MS100T Series
+HMI/Panel Instruments
+Digital Panel Meters
+FEMA BAR series
+FEMA C40-D series
+FEMA M40-A/T/P/D Series
+FEMA M60-LC series – Load Cell
+FEMA S40-P/D/A series
+Large LED displays
+TouchPAD Series
+Industrial Computing
+Fanless Embedded Computers
+EN50155 Certified Computers
+Industrial Monitors
+Industrial Panel PCs
+Industrial (Android) Panel PCs
+Industrial (Windows) Panel PCs
+IP65/66 Waterproof Panel PCs
+KVM Switches & Extenders
+Human Machine Interfaces
+Rugged Tablets
+PC Based Data Acquisition
+PCI DAQ Boards
+PCIe DAQ Boards
+Industrial IoT
+Controllers/Servers
+Compact IIoT Controllers
+Modular IIoT Controllers
+IIoT I/O modules
+Atop IO5202 Series Industrial IoT Remote I/O Modules
+OPC UA I/O Modules
+Industrial SSD & Memory Cards
+Industrial Memory Cards
+Industrial SSD Cards
+IoTstar IIoT Software
+IP Cameras & Sensors
+Smart Lighting Control Modules
+Remote I/O Units
+Accelerometer Datalogger Modules
+Ethernet I/O Modules
+PET/ET-2200 Series Ethernet I/O modules with Modbus TCP/UDP & MQTT protocols
+tET/PET Series Compact Ethernet Remote I/O Modules with Modbus TCP & UDP protocols
+WISE Remote I/O Modules with Logic Control Function
+WISE IIoT Edge Controllers
+Fieldbus I/O Modules
+ODOT AIOBOX-16/32 Modbus/ProfiNet/ProfibusDP/EtherCAT/CANopen
+ODOT B Series Integrated I/O Modules
+ODOT CN-8012 Profibus-DP Network Adapter
+ODOT CN-8021 CANopen I/O Network Adapter
+ODOT CN-8032 Profinet Network Adapter
+ODOT CN-8033 EtherCAT Network Adapter
+ODOT CN-8034 EtherNET/IP Network Adapter
+Serial I/O Modules
+M-2000 Series Compact Modbus RTU Remote I/O Modules
+M-7000/I-7000 Series Modbus RTU Remote I/O Modules
+ODOT CN-8011 Modbus-RTU I/O Network Adapter
+tM series Compact Remote Modbus RTU I/O Modules
+USB I/O Modules
+MQTT protocol remote I/O Modules
+Remote Motion Control Modules
+OPC UA I/O Modules
+USB I/O Modules
+Smart Power Meters
+iWSN Series Wireless 3-Phase Smart Power Meters
+PM-311x Series Single-Phase Smart Power Meters, Smart Power Meters
+PM-3133 Series 3-Phase Smart Power Meters, Smart Power Meters
+PMC/PMD Series Power Meter Concentrators
+Signal Conditioning
+DNM-800 Series Voltage Attenuators & Current Transformers
+FEMA I3 Series Signal Converters & Isolators for Process signals
+FEMA I4 Series Signal Converters & Isolators for Load cell signals
+SG-3000 Series
+Software
+eLogger HMI, Web HMI & Data Logger Software
+InduSoft Web Studio
+ISaGRAF (PLC Software)
+Solutions
+Tech Support
+About Us
+News & Events
+Partners
+Contact Us
+×
+Home
+Products
+Automation Controllers/PLCs
+Compact Programmable Automation Controllers (PACs)
+I/O Modules for PAC Series
+ODOT C3351 Programmable Automation Controller
+ViewPAC Series
+WinPAC Series
+XPAC Series
+Converters & Gateways
+Cellular Routers
+Programmable Device Servers
+Fieldbus Gateways
+BACnet/IP to Modbus RTU/TCP
+CAN Bus to Modbus gateway
+DNP3 Master to Modbus TCP Server Gateway
+EtherCAT to Modbus RTU gateway
+EtherNet/IP to Modbus RTU/TCP
+HART to Modbus gateway
+J1939 to Modbus gateway
+M-BUS to Modbus gateway
+Modbus TCP to IEC-61850 Gateway
+Modbus TCP/UDP to RTU/ASCII
+PROFIBUS to Modbus RTU/TCP
+PROFINET to Modbus RTU/TCP
+Industrial LoRaWAN Gateways
+RS-232/RS-485 Repeaters
+RS-232/RS-485 Converters
+PCIe Series – Multi-port Serial Cards
+tM-7520U/7521/7522
+tSH-700 Series
+RS-232/RS-485 Repeaters
+Serial to Ethernet Converters/Device Servers
+Ethernet Switches
+EN50155 Ethernet Switches
+Industrial PoE Switches
+Industrial VPN Routers
+Industrial Wireless/Wi-Fi
+Serial to WiFi Converters/Controllers
+Cellular Gateways & Wi-Fi Access Points
+Managed Ethernet Switches
+ATOP EHG/RHG Series
+ICP DAS FSM/MSM Series
+Media Converters
+Redundant Ethernet Switches
+Unmanaged Ethernet Switches
+ATOP EH/EHG Series
+ICP DAS NS/NSM Series
+ODOT MS100T Series
+HMI/Panel Instruments
+Digital Panel Meters
+FEMA BAR series
+FEMA C40-D series
+FEMA M40-A/T/P/D Series
+FEMA M60-LC series – Load Cell
+FEMA S40-P/D/A series
+Large LED displays
+TouchPAD Series
+Industrial Computing
+Fanless Embedded Computers
+EN50155 Certified Computers
+Industrial Monitors
+Industrial Panel PCs
+Industrial (Android) Panel PCs
+Industrial (Windows) Panel PCs
+IP65/66 Waterproof Panel PCs
+KVM Switches & Extenders
+Human Machine Interfaces
+Rugged Tablets
+PC Based Data Acquisition
+PCI DAQ Boards
+PCIe DAQ Boards
+Industrial IoT
+Controllers/Servers
+Compact IIoT Controllers
+Modular IIoT Controllers
+IIoT I/O modules
+Atop IO5202 Series Industrial IoT Remote I/O Modules
+OPC UA I/O Modules
+Industrial SSD & Memory Cards
+Industrial Memory Cards
+Industrial SSD Cards
+IoTstar IIoT Software
+IP Cameras & Sensors
+Smart Lighting Control Modules
+Remote I/O Units
+Accelerometer Datalogger Modules
+Ethernet I/O Modules
+PET/ET-2200 Series Ethernet I/O modules with Modbus TCP/UDP & MQTT protocols
+tET/PET Series Compact Ethernet Remote I/O Modules with Modbus TCP & UDP protocols
+WISE Remote I/O Modules with Logic Control Function
+WISE IIoT Edge Controllers
+Fieldbus I/O Modules
+ODOT AIOBOX-16/32 Modbus/ProfiNet/ProfibusDP/EtherCAT/CANopen
+ODOT B Series Integrated I/O Modules
+ODOT CN-8012 Profibus-DP Network Adapter
+ODOT CN-8021 CANopen I/O Network Adapter
+ODOT CN-8032 Profinet Network Adapter
+ODOT CN-8033 EtherCAT Network Adapter
+ODOT CN-8034 EtherNET/IP Network Adapter
+Serial I/O Modules
+M-2000 Series Compact Modbus RTU Remote I/O Modules
+M-7000/I-7000 Series Modbus RTU Remote I/O Modules
+ODOT CN-8011 Modbus-RTU I/O Network Adapter
+tM series Compact Remote Modbus RTU I/O Modules
+USB I/O Modules
+MQTT protocol remote I/O Modules
+Remote Motion Control Modules
+OPC UA I/O Modules
+USB I/O Modules
+Smart Power Meters
+iWSN Series Wireless 3-Phase Smart Power Meters
+PM-311x Series Single-Phase Smart Power Meters, Smart Power Meters
+PM-3133 Series 3-Phase Smart Power Meters, Smart Power Meters
+PMC/PMD Series Power Meter Concentrators
+Signal Conditioning
+DNM-800 Series Voltage Attenuators & Current Transformers
+FEMA I3 Series Signal Converters & Isolators for Process signals
+FEMA I4 Series Signal Converters & Isolators for Load cell signals
+SG-3000 Series
+Software
+eLogger HMI, Web HMI & Data Logger Software
+InduSoft Web Studio
+ISaGRAF (PLC Software)
+Solutions
+Tech Support
+About Us
+News & Events
+Partners
+Contact Us
+0
+Sub-Total: £ 0.00
+No products in the cart.
+100% Secure Checkout!
+020 3997 6277
+sales@oksa.co.uk
+support@oksa.co.uk
+Home
+Products
+Automation Controllers/PLCs
+Compact Programmable Automation Controllers (PACs)
+I/O Modules for PAC Series
+ODOT C3351 Programmable Automation Controller
+ViewPAC Series
+WinPAC Series
+XPAC Series
+Converters & Gateways
+Cellular Routers
+Programmable Device Servers
+Fieldbus Gateways
+BACnet/IP to Modbus RTU/TCP
+CAN Bus to Modbus gateway
+DNP3 Master to Modbus TCP Server Gateway
+EtherCAT to Modbus RTU gateway
+EtherNet/IP to Modbus RTU/TCP
+HART to Modbus gateway
+J1939 to Modbus gateway
+M-BUS to Modbus gateway
+Modbus TCP to IEC-61850 Gateway
+Modbus TCP/UDP to RTU/ASCII
+PROFIBUS to Modbus RTU/TCP
+PROFINET to Modbus RTU/TCP
+Industrial LoRaWAN Gateways
+RS-232/RS-485 Repeaters
+RS-232/RS-485 Converters
+PCIe Series – Multi-port Serial Cards
+tM-7520U/7521/7522
+tSH-700 Series
+RS-232/RS-485 Repeaters
+Serial to Ethernet Converters/Device Servers
+Ethernet Switches
+EN50155 Ethernet Switches
+Industrial PoE Switches
+Industrial VPN Routers
+Industrial Wireless/Wi-Fi
+Serial to WiFi Converters/Controllers
+Cellular Gateways & Wi-Fi Access Points
+Managed Ethernet Switches
+ATOP EHG/RHG Series
+ICP DAS FSM/MSM Series
+Media Converters
+Redundant Ethernet Switches
+Unmanaged Ethernet Switches
+ATOP EH/EHG Series
+ICP DAS NS/NSM Series
+ODOT MS100T Series
+HMI/Panel Instruments
+Digital Panel Meters
+FEMA BAR series
+FEMA C40-D series
+FEMA M40-A/T/P/D Series
+FEMA M60-LC series – Load Cell
+FEMA S40-P/D/A series
+Large LED displays
+TouchPAD Series
+Industrial Computing
+Fanless Embedded Computers
+EN50155 Certified Computers
+Industrial Monitors
+Industrial Panel PCs
+Industrial (Android) Panel PCs
+Industrial (Windows) Panel PCs
+IP65/66 Waterproof Panel PCs
+KVM Switches & Extenders
+Human Machine Interfaces
+Rugged Tablets
+PC Based Data Acquisition
+PCI DAQ Boards
+PCIe DAQ Boards
+Industrial IoT
+Controllers/Servers
+Compact IIoT Controllers
+Modular IIoT Controllers
+IIoT I/O modules
+Atop IO5202 Series Industrial IoT Remote I/O Modules
+OPC UA I/O Modules
+Industrial SSD & Memory Cards
+Industrial Memory Cards
+Industrial SSD Cards
+IoTstar IIoT Software
+IP Cameras & Sensors
+Smart Lighting Control Modules
+Remote I/O Units
+Accelerometer Datalogger Modules
+Ethernet I/O Modules
+PET/ET-2200 Series Ethernet I/O modules with Modbus TCP/UDP & MQTT protocols
+tET/PET Series Compact Ethernet Remote I/O Modules with Modbus TCP & UDP protocols
+WISE Remote I/O Modules with Logic Control Function
+WISE IIoT Edge Controllers
+Fieldbus I/O Modules
+ODOT AIOBOX-16/32 Modbus/ProfiNet/ProfibusDP/EtherCAT/CANopen
+ODOT B Series Integrated I/O Modules
+ODOT CN-8012 Profibus-DP Network Adapter
+ODOT CN-8021 CANopen I/O Network Adapter
+ODOT CN-8032 Profinet Network Adapter
+ODOT CN-8033 EtherCAT Network Adapter
+ODOT CN-8034 EtherNET/IP Network Adapter
+Serial I/O Modules
+M-2000 Series Compact Modbus RTU Remote I/O Modules
+M-7000/I-7000 Series Modbus RTU Remote I/O Modules
+ODOT CN-8011 Modbus-RTU I/O Network Adapter
+tM series Compact Remote Modbus RTU I/O Modules
+USB I/O Modules
+MQTT protocol remote I/O Modules
+Remote Motion Control Modules
+OPC UA I/O Modules
+USB I/O Modules
+Smart Power Meters
+iWSN Series Wireless 3-Phase Smart Power Meters
+PM-311x Series Single-Phase Smart Power Meters, Smart Power Meters
+PM-3133 Series 3-Phase Smart Power Meters, Smart Power Meters
+PMC/PMD Series Power Meter Concentrators
+Signal Conditioning
+DNM-800 Series Voltage Attenuators & Current Transformers
+FEMA I3 Series Signal Converters & Isolators for Process signals
+FEMA I4 Series Signal Converters & Isolators for Load cell signals
+SG-3000 Series
+Software
+eLogger HMI, Web HMI & Data Logger Software
+InduSoft Web Studio
+ISaGRAF (PLC Software)
+Solutions
+Tech Support
+About Us
+News & Events
+Partners
+Contact Us
+×
+Home
+Products
+Automation Controllers/PLCs
+Compact Programmable Automation Controllers (PACs)
+I/O Modules for PAC Series
+ODOT C3351 Programmable Automation Controller
+ViewPAC Series
+WinPAC Series
+XPAC Series
+Converters & Gateways
+Cellular Routers
+Programmable Device Servers
+Fieldbus Gateways
+BACnet/IP to Modbus RTU/TCP
+CAN Bus to Modbus gateway
+DNP3 Master to Modbus TCP Server Gateway
+EtherCAT to Modbus RTU gateway
+EtherNet/IP to Modbus RTU/TCP
+HART to Modbus gateway
+J1939 to Modbus gateway
+M-BUS to Modbus gateway
+Modbus TCP to IEC-61850 Gateway
+Modbus TCP/UDP to RTU/ASCII
+PROFIBUS to Modbus RTU/TCP
+PROFINET to Modbus RTU/

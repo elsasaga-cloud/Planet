@@ -2,45 +2,50 @@
  "code": "SB-599",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "在线（sheildify.com，快照 2026-10-21）",
- "summary": "迪拜安防 / 医疗 / 消防设备网店 Shieldify（官网：Dubai’s trusted store for CCTV, biometric readers, smart door locks, fire safety & medical equipment；站内 Hikvision / Dahua / Ubiquiti / D-Link / TP-Link / Teltonika / Hanwha / ZKTeco，交换机页面 Dahua PFS3005-4ET-60、Hikvision DS-3E0105P-E；表内「很多牌子的 switch」）；群发 3 次无回复。",
- "type": "电商/网店（安防 + 弱电，迪拜）",
+ "website_status": "在线（symanitron.ru，快照 2026-10-21）",
+ "summary": "俄罗斯 SYMANITRON（symanitron.ru / s-avt.ru；「俄罗斯工业网络与电信设备制造商」+ 合同制造：PoE 交换机 SWMP-82GC-AT、SWDGP-22（24V）；表内「工业 FS（带光开关）、SFP、工业 MC，自己的 logo」；KP Massov（地推），回执来自 koe@s-avt.ru）；群发 18 次无回复。",
+ "type": "俄罗斯工业网络品牌/合同制造（自有 logo，OEM 采购）",
  "size": "",
- "brands_seen": [
-  "Hikvision",
-  "Ubiquiti",
-  "D-Link",
-  "Teltonika",
-  "Hanwha",
-  "TP-Link",
-  "Dahua",
-  "Huawei",
-  "ZKTeco"
- ],
+ "brands_seen": [],
  "evidence": [
   {
    "kind": "官网快照",
-   "claim": "官网标题：Security, Medical & Safety Equipment Store in Dubai, UAE.；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 无线 / WiFi / 数据中心 / 企业 IT / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
-   "quote": "Dubai's trusted store for CCTV, biometric readers, smart door locks, fire safety & medical equipment. Best brands & prices. Shop Shieldify now!",
-   "url": "https://sheildify.com/",
+   "claim": "官网标题：Российский производитель сетевого и телекоммуникационного оборудования SYMANITRON；品类词 电信 / FTTH / ISP 设备 / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "Российский производитель сетевого и телекоммуникационного оборудования SYMANITRON /> <meta http-equiv=",
+   "url": "https://symanitron.ru/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
    "claim": "表内兴趣/备注",
-   "quote": "很多牌子的switch",
+   "quote": "工业FS（带光开关） SFP 工业MC 自己的logo；koe@s-avt.ru 回复回执的是这个email",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   },
   {
    "kind": "官网快照",
-   "claim": "迪拜安防/医疗/消防设备网店",
-   "quote": "Dubai’s trusted store for CCTV, biometric readers, smart door locks, fire safety & medical equipment. Best brands & prices. Shop Shieldify now!",
-   "url": "https://sheildify.com/",
+   "claim": "SYMANITRON 俄罗斯工业网络制造商",
+   "quote": "Российский производитель сетевого и телекоммуникационного оборудования SYMANITRON ; Российский производитель промышленного сетевого оборудования",
+   "url": "https://symanitron.ru/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "工业 FS（带光开关）SFP 工业 MC，自己的 logo",
+   "quote": "工业FS（带光开关） SFP 工业MC 自己的logo；koe@s-avt.ru 回复回执的是这个email",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Massov",
+   "title": "（表内：地推）",
+   "email": "massov@symanitron.ru",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
@@ -49,98 +54,112 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "阿联酋",
-  "other": "官网 sheildify.com，语言 en-US，快照状态 ok；角色判定来源：官网文案"
+  "hq": "俄罗斯",
+  "other": "官网 symanitron.ru，语言 ru，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "安防 / 门禁 / 消防 / 医疗设备网店",
-  "数据网络方案（配套）"
+  "工业网络设备（自有品牌）",
+  "合同制造"
  ],
  "channels": {
-  "role": "电商/网店（安防 + 弱电，迪拜）",
-  "region": "阿联酋",
-  "contact": "sales@sheildify.com"
+  "role": "俄罗斯工业网络品牌/合同制造（自有 logo，OEM 采购）",
+  "region": "俄罗斯",
+  "contact": "massov@symanitron.ru、info@symanitron.ru"
  },
  "signals": [
-  "官网 kw：cable 560 / camera 509 / switch 427 / poe 228 / industrial 81",
-  "产品页 /product/data-networking-solutions-dubai-uae-2xx/ → 有「数据网络方案」品类"
+  "官网：Российский производитель промышленного сетевого оборудования；栏目 Контрактное производство",
+  "站内型号 SWMP-82GC-AT / SWDGP-22-24V / SWDGP-22；kw poe 86 / sfp 47",
+  "表内：massov@ 地推；koe@s-avt.ru 回复回执"
  ],
  "risks": [
-  "综合网店（安防 + 医疗 + 消防）：交换机为配套品类，量小",
-  "非主攻区（T5）；无具名联系人（sales@）"
+  "俄罗斯：结算/物流受限，非主攻区（T5）",
+  "「俄罗斯制造」口径（本地化）：可能只接受 SKD/板级；18 次无回复，回执邮箱 koe@s-avt.ru"
  ],
  "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 20,
-  "why": "网店在卖 Dahua/Hik 5 口非管理 PoE（$20–30 价带）→ Saga 对价位 HRUI STC-204GP（$20.4 列表价）/ STC-028GP（$24.2）；管理位 STC-28DGGPM（$80.7 @20%）作升级款"
+  "p1": "STI-288GPM",
+  "tier": 30,
+  "why": "自有 logo 工业 PoE（SWMP-82GC = 8 PoE + 2 SFP）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ 非管理 STI-288GP 作二供；光开关版 Saga 无；MC 位 STI-110GE"
  },
- "email_hook": "Next to the Dahua PFS and Hikvision DS-3E PoE switches on your store, we can list a neutral-brand 8-port PoE+ L2+ managed switch (2 SFP) plus a budget 4/8-port unmanaged PoE line, shipped from small lots — which price band moves more for you, unmanaged or managed?",
+ "email_hook": "For the SWMP-82GC-class industrial PoE switches under the SYMANITRON label, we can supply DIN-rail 8-PoE + 2 SFP managed (Marvell L2+) or unmanaged units and gigabit media converters from small lots in your housing — which model do you ship most, so we quote its equivalent first?",
  "products_seen": [
   {
-   "brand": "Dahua",
-   "model": "DH-PFS3005-4ET-60",
-   "spec": "4 口百兆 PoE + 1 上联 非管理 60W",
-   "saga": "STC-204GP（HRUI 列表价 $20.4，非 SmartByte）",
-   "url": "https://sheildify.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "brand": "Hikvision",
-   "model": "DS-3E0105P-E",
-   "spec": "4 口百兆 PoE 非管理",
-   "saga": "STC-204GP（HRUI 列表价 $20.4，非 SmartByte）",
-   "url": "https://sheildify.com/",
+   "brand": "SYMANITRON（自有）",
+   "model": "SWMP-82GC-AT",
+   "spec": "工业 8 PoE + 2 SFP 管理（推断）",
+   "saga": "STI-288GPM",
+   "url": "https://symanitron.ru/",
    "date": "2026-10-21"
   }
  ],
  "mail_review": {
   "binding": {
-   "level": "未触达（A 邮箱 6 封 2025→2026，无记录打开，0 回；收件 sales@sheildify.com；主题多为「8 Port Industrial PoE Switch、Mini Industrial PoE Switch」；Elsa 箱：`to:sheildify.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 6 / 来 0）（第 74 批(n)））",
-   "type": "电商/网店（安防 + 弱电，迪拜）",
-   "sieve": "1（只收到群发）",
-   "stop": "只打通用邮箱，无记录打开",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "阿联酋 非主攻",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 6；用户表：「很多牌子的switch」；研究档 risks：综合网店（安防 + 医疗 + 消防）：交换机为配套品类，量小"
+   "level": "未触达（2 封俄语休假自动回复，转 ion@symanitron.ru；Elsa 箱：`to:symanitron.ru OR to:s-avt.ru` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 27 / 来 2）（第 74 批(l)））",
+   "type": "俄罗斯工业网络品牌/合同制造（Symanitron）",
+   "sieve": "0",
+   "stop": "自动回复/机器人，无人工回复",
+   "revive": "改发 ion@symanitron.ru",
+   "lane": "RU",
+   "cadence": "2026-12",
+   "evidence": "k=3a5b900fd44405f5 / 8f1a2192a4db3fa3"
   },
-  "situation": "迪拜安防 / 医疗 / 消防设备网店 Shieldify（官网：Dubai’s trusted store for CCTV, biometric readers, smart door locks, fire safety & medical equipment；站内 Hikvision / Dahua / Ubiquiti / D-Link / TP-Link / Teltonika / Hanwha / ZKTeco，交换机页面 Dahua PFS3005-4ET-60、Hikvision DS-3E0105P-E；表内「很多牌子的 switch」）；群发 3 次无回复。",
-  "need": "网店在卖 Dahua/Hik 5 口非管理 PoE（$20–30 价带）→ Saga 对价位 HRUI STC-204GP（$20.4 列表价）/ STC-028GP（$24.2）；管理位 STC-28DGGPM（$80.7 @20%）作升级款",
-  "breakpoint": "综合网店（安防 + 医疗 + 消防）：交换机为配套品类，量小",
+  "situation": "来信全部为机器回复；无人读信或无人回信。",
+  "need": "—",
+  "breakpoint": "—",
   "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 20,
-   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-27 $280（10G Enterprise SFP Switch）",
-   "why": "网店在卖 Dahua/Hik 5 口非管理 PoE（$20–30 价带）→ Saga 对价位 HRUI STC-204GP（$20.4 列表价）/ STC-028GP（$24.2）；管理位 STC-28DGGPM（$80.7 @20%）作升级款",
+   "p1": "—",
+   "tier": 30,
+   "price": "—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-19 $65（10G media converter）、2024-08-21 $65（10G media converter）、2024-11-20 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-24 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-25 $280（10G Enterprise SFP Switch）；第 76 批(c)：俄语整稿改英文（无语言障碍证据；按 INH 规则对客户用英文）",
+   "why": "已打开的主题（2/27 封有打开记录）：「Marvell Industrial Alert System」(2025-07-17)、「Optional Marvell Chipset Solutions」(2025-12-04) → 读者兴趣偏「工业」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-03-23)、Product Link_2026Q3(2026-07-03)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）",
    "repeat": [],
-   "gaps": []
+   "gaps": [
+    "具名联系人"
+   ]
   },
   "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开",
-   "one_question": "Next to the Dahua PFS and Hikvision DS-3E PoE switches on your store, we can list a neutral-brand 8-port PoE+ L2+ managed switch (2 SFP) plus a budget 4/8-port unmanaged PoE line, shipped from small lots — which price band moves more for you, unmanaged or managed?"
+   "when": "2026-12",
+   "channel": "A 邮箱 → ion@symanitron.ru",
+   "action": "换人（第 76 批(c) 2026-10-25：audit_ab 软项修正：署名「Alan Yan」→「Alan」（A 箱实际署名））（第 76 批(c) 2026-10-25：audit_ab 软项修正：俄语整稿 → 英文稿）（第 76 批(c) 2026-10-25：0 事实户补时间线事实）",
+   "one_question": "Do you consider third-party platforms for your line, or build everything in-house?"
   },
   "facts": [
    {
-    "date": "2026-02-02",
+    "date": "2024-06-24",
     "dir": "去",
-    "who": "A 群发",
-    "quote": "8 Port Industrial PoE Switch、Mini Industrial PoE Switch",
-    "why": "6 封 / 0 次打开 / 0 回｜首封 2025-08-21 → 末封 2026-02-02（6 去 / 0 来）",
-    "k": "gmail_digest"
+    "who": "S 箱（Simon）",
+    "quote": "8 port Network Switch",
+    "why": "首封去信（邮箱索引；去信共 27 封）",
+    "k": "a1922de633dd3fe3"
    },
    {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "很多牌子的switch",
-    "why": "表内备注",
-    "k": "用户表"
+    "date": "2026-08-24",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "24 Port PoE Managed Switch",
+    "why": "最近一封去信（邮箱索引；去信共 27 封）",
+    "k": "c313f931d33bd3fd"
+   },
+   {
+    "date": "2024-07-01",
+    "dir": "来",
+    "who": "marina@s-avt.ru",
+    "quote": "Автоматический ответ: Commercial poe switch｜Добрый день! Я нахожусь в отпуске до 15.07.2024г. Ваше сообщение автоматически перенаправлено Измайлову Олегу Николаевич",
+    "why": "自动回复/退信（机器，不算人工回复）",
+    "k": "3a5b900fd44405f5"
+   },
+   {
+    "date": "2024-09-10",
+    "dir": "来",
+    "who": "marina@s-avt.ru",
+    "quote": "Автоматический ответ: 2.5G Web Managed Switch｜Добрый день! Я нахожусь в отпуске до 12.09.2024г. Ваше сообщение автоматически перенаправлено Измайлову Олегу Николаевич",
+    "why": "自动回复/退信（机器，不算人工回复）",
+    "k": "8f1a2192a4db3fa3"
    }
   ],
   "proof_gaps": [],
-  "draft_en": null,
+  "draft_en": {
+   "subject": "Industrial managed switches on Marvell for the Symanitron line - one question",
+   "body": "Hello Symanitron team,\n\nWriting to this address because earlier mails to your general mailbox came back with holiday auto-replies pointing here.\n\nSaga Telecom supplies industrial managed switches on the Marvell AC5 platform - 8 x Gigabit PoE+ + 2 x SFP, DIN-rail, -40 to 75 C, L2+ - under a neutral label or your brand, from small lots. Reference price: model STI-288DGGPM - $137.5 USD EXW (MOQ 1, 15-day validity). CE/RoHS; EAC stays on your side.\n\nOne question: do you consider third-party platforms for your line, or is everything built in-house?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+  },
   "as_of": "2026-10-24"
  }
 }

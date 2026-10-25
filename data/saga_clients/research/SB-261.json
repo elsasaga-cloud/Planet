@@ -2,116 +2,130 @@
  "code": "SB-261",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "在线（atwtechnology.com，快照 2026-10-21）",
- "summary": "台湾 ATW Technology（工业通讯/交换机；KP Hill）；表内未跟进。",
- "type": "台湾工业通讯厂商（同行）",
+ "website_status": "在线（rectec.cz，快照 2026-10-21）",
+ "summary": "捷克 RecTec servis, s.r.o.（回收生产线（破碎/热解/精炼/清洗）与工业自动化供应商；2023 年阿里巴巴 RFQ「BIDI 千兆光模块」；KP Viktor Fojt）；表内 6 次跟进无回复。",
+ "type": "工业自动化/回收线集成商（捷克，光模块 RFQ）",
  "size": "",
  "brands_seen": [],
  "evidence": [
   {
    "kind": "官网快照",
-   "claim": "官网标题：atwtechnology.com",
-   "quote": "",
-   "url": "https://atwtechnology.com/",
+   "claim": "官网标题：Rec Tec | Váš dodavatel automatizace",
+   "quote": "Recyklační linky；[ DRCENÍ ]；[ PYROLÝZA ]；[ RAFINACE ]；[ ČIŠTĚNÍ ]；Výrobní linky",
+   "url": "https://www.rectec.cz/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
    "claim": "表内兴趣/备注",
-   "quote": "Switch 工业通讯",
+   "quote": "BIDI千兆光模块；420 - 608 - 767676；420 - 608 - 767676 2023年使用国际站；BIDI千兆光模块 / from: 阿里巴巴RFQ",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   },
   {
+   "kind": "官网快照",
+   "claim": "RecTec 定位",
+   "quote": "Rec Tec | Váš dodavatel automatizace ; Recyklační linky ; Průmyslová automatizace",
+   "url": "https://www.rectec.cz/",
+   "date": "2026-10-21"
+  },
+  {
    "kind": "用户表",
-   "claim": "Switch 工业通讯",
-   "quote": "Switch 工业通讯",
+   "claim": "BiDi 千兆光模块 RFQ",
+   "quote": "2023年使用国际站 / BIDI千兆光模块 / from: 阿里巴巴RFQ",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
- "kp": [],
- "grade_override": "C",
- "override_reason": "台湾厂商（同行）；c_sub=同行/台湾厂商",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "kp": [
+  {
+   "name": "Viktor Fojt",
+   "title": "（职务待核）",
+   "email": "fojt@rectec.cz",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "台湾",
-  "other": "官网 atwtechnology.com，语言 ?，快照状态 ok；角色判定来源：待核"
+  "hq": "捷克",
+  "other": "官网 rectec.cz，语言 cs-CZ，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "工业通讯设备（台湾）"
+  "回收生产线 / 工业自动化（捷克）"
  ],
  "channels": {
-  "role": "台湾工业通讯厂商（同行）",
-  "region": "台湾",
-  "contact": "hill@atwtechnology.com"
+  "role": "工业自动化/回收线集成商（捷克，光模块 RFQ）",
+  "region": "捷克",
+  "contact": "fojt@rectec.cz"
  },
  "signals": [
-  "表内：Switch 工业通讯；KP Hill",
-  "快照：内容为空"
+  "官网：Rec Tec | Váš dodavatel automatizace ; Recyklační linky ; [ DRCENÍ ] ; [ PYROLÝZA ] ; Výrobní linky ; Průmyslová automatizace",
+  "表内：BIDI 千兆光模块 / from: 阿里巴巴 RFQ；2023 年使用国际站；KP Viktor Fojt"
  ],
  "risks": [
-  "同行/台湾厂商"
+  "RFQ 品类（BiDi 光模块）Saga 不供；机器制造商自用（量取决于项目）；6 次无回复"
  ],
  "saga_fit": {
-  "p1": null,
-  "tier": 30,
-  "why": "台湾厂商（工业通讯产品），非渠道客户 → 改 C"
+  "p1": "STI-280GE",
+  "tier": 25,
+  "why": "RFQ 品类 BiDi 光模块（Saga 不供，Q-32）→ 顺带推生产线用工业 8 GE + 2 SFP 管理 STI-280GE（$48.6 @25%）、5 GE STI-050GE（$17.8）"
  },
- "email_hook": "（不发送：台湾厂商）",
+ "email_hook": "Viktor, following your enquiry for gigabit BiDi modules: we do not carry optics, but we supply DIN-rail 8-GE + 2 SFP managed and 5-GE unmanaged industrial switches (−40~75 °C, CE/RoHS) for machine and line networks from single units, EXW USD — do your recycling lines use fibre links between cabinets?",
  "mail_review": {
-  "as_of": "2026-10-25",
   "binding": {
-   "level": "已发未回（无人工回复、无打开记录；S 8 封 2024-07-08→2025-01-13，共 8 封群发，0 真实回复；Elsa 单发去信 1 封（2026-05-11「10G Enterprise SFP Switch」→ hill@atwtechnology.com，未见回复（Elsa 箱 Replied 标签无）））（第 74 批(e)：S/A mail_dump + Elsa 箱 in:sent 排锚扫描 2026-10-25）",
-   "type": "台湾工业通讯厂商（同行）",
-   "sieve": "1",
-   "stop": "读",
-   "evidence": [
-    "mail_dump.py SB-261（S/A 全量）",
-    "data/gmail_e/elsa_sent_nonanchor_2026-10-25.json（Elsa 1:1 普查）"
-   ]
+   "level": "未触达（A 邮箱 14 封 2025→2026，无记录打开，0 回；收件 fojt@rectec.cz；主题多为「Booster PoE Switch、OEM Core Switching Solution」；Elsa 箱：`to:.cz` 穷举 1 条（2026-10-25，锚批 Bcc 头已读）未见 rectec.cz → Elsa 箱从未发过本户，往来只在 S/A 箱（去 14 / 来 0）（第 74 批(f)））",
+   "type": "工业自动化/回收线集成商（捷克，光模块 RFQ）",
+   "sieve": "1（只收到群发）",
+   "stop": "14 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "捷克（欧洲全域主攻）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 14；用户表：「BIDI千兆光模块；420 - 608 - 767676；420 - 608 - 767676 2023年使用国际站；BIDI千兆光模块 / from: 阿里巴」；研究档 risks：RFQ 品类（BiDi 光模块）Saga 不供；机器制造商自用（量取决于项目）；6 次无回复"
   },
-  "situation": "台湾 ATW Technology（工业通讯/交换机厂商，KP Hill；同行）",
-  "need": "同行厂商，无外采口",
-  "breakpoint": "同行；S 8 封 0 回；Elsa 2026-05 10G 单发无回",
+  "situation": "捷克 RecTec servis, s.r.o.（回收生产线（破碎/热解/精炼/清洗）与工业自动化供应商；2023 年阿里巴巴 RFQ「BIDI 千兆光模块」；KP Viktor Fojt）；表内 6 次跟进无回复。",
+  "need": "RFQ 品类 BiDi 光模块（Saga 不供，Q-32）→ 顺带推生产线用工业 8 GE + 2 SFP 管理 STI-280GE（$48.6 @25%）、5 GE STI-050GE（$17.8）",
+  "breakpoint": "RFQ 品类（BiDi 光模块）Saga 不供；机器制造商自用（量取决于项目）；6 次无回复",
   "saga_now": {
-   "p1": null,
-   "tier": null,
-   "price": null,
-   "why": "同行厂商，无外采口",
-   "repeat": "无成单；不动",
+   "p1": "STI-280GE",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-06-04 $300（48 Port PoE Managed Switch）",
+   "why": "RFQ 品类 BiDi 光模块（Saga 不供，Q-32）→ 顺带推生产线用工业 8 GE + 2 SFP 管理 STI-280GE（$48.6 @25%）、5 GE STI-050GE（$17.8）",
+   "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "不动：台系同行厂商",
-   "one_question": null
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Viktor, following your enquiry for gigabit BiDi modules: we do not run a standalone optics line at the moment (modules are quoted and shipped together with our switches), but we supply DIN-rail 8-GE + 2 SFP managed and 5-GE unmanaged industrial switches (−40~75 °C, CE/RoHS) for machine and line networks from single units, EXW USD — do your recycling lines use fibre links between cabinets?"
   },
   "facts": [
    {
-    "date": "2025-01-13",
+    "date": "2026-02-27",
     "dir": "去",
-    "who": "S/A 群发",
-    "quote": "48 port managed switch, Industrial switch, Mini industrial switch, 2.5G Web Managed Switch",
-    "why": "S 8 封 2024-07-08→2025-01-13，共 8 封群发，0 真实回复｜首封 2024-07-08 → 末封 2025-01-13",
+    "who": "A 群发",
+    "quote": "Booster PoE Switch、OEM Core Switching Solution",
+    "why": "14 封 / 0 次打开 / 0 回｜首封 2025-03-25 → 末封 2026-02-27（14 去 / 0 来）",
     "k": "gmail_digest"
    },
    {
-    "date": "2026-05-11",
-    "dir": "out",
-    "who": "Elsa → hill@atwtechnology.com",
-    "quote": "10G Enterprise SFP Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
-    "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
-    "k": "elsa_1to1",
-    "msg_id": "19e14deb41eb339a"
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "BIDI千兆光模块；420 - 608 - 767676；420 - 608 - 767676 2023年使用国际站；BIDI千兆光模块 / from: 阿里巴巴RFQ",
+    "why": "表内备注",
+    "k": "用户表"
    }
   ],
   "proof_gaps": [],
-  "draft_en": null
+  "draft_en": null,
+  "as_of": "2026-10-24"
  }
 }

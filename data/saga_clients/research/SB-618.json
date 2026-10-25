@@ -2,65 +2,154 @@
  "code": "SB-618",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "在线（phicus.es，快照 2026-10-21）",
- "summary": "西班牙 Phicus Tecnología（面向电信运营商的 GPON/DOCSIS/WiMAX 网络供给与监控软件及工程；KP Ignacio Sebastián（CEO）；表内「Networking」）；表内 4 次跟进无回复。",
- "type": "运营商网络软件/工程公司（软件品类）",
+ "website_status": "在线（jeatech.com.au，快照 2026-10-21）",
+ "summary": "澳大利亚 JEA Technologies（工业电子外设分销：4G/5G 工业蜂窝路由（Teltonika / Milesight）、工业面板 PC、电子纸、HMI；在售 ORing IDGPS-C1042GP（表内「卖 ORing 的」）；KP Craig Kinder（Manager，craigk@）、Tony Ioannidis（Operations Manager））；群发 7 次无回复。",
+ "type": "工业电子分销商（澳洲，ORing 工业线）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "ORing",
+  "Teltonika",
+  "Milesight"
+ ],
  "evidence": [
   {
    "kind": "官网快照",
-   "claim": "官网标题：Phicus Tecnología - Software de aprovisionamiento y monitoreo de redes；品类词 电信 / FTTH / ISP 设备",
-   "quote": "Servicios avanzados para operadores de telecomunicación que hacen crecer su negocio",
-   "url": "https://phicus.es/",
+   "claim": "官网标题：JEA Technologies；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 无线 / WiFi / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "Discover a range of industrial tech solutions at JEA Technologies, an Australian leading electronic peripherals distributor",
+   "url": "https://jeatech.com.au/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
    "claim": "表内兴趣/备注",
-   "quote": "Networking",
+   "quote": "卖Oring的",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   },
   {
    "kind": "官网快照",
-   "claim": "Phicus 定位",
-   "quote": "Phicus Tecnología - Software de aprovisionamiento y monitoreo de redes ; Ingeniería para redes GPON, DOCSIS y WiMAX",
-   "url": "https://phicus.es/",
+   "claim": "澳洲工业电子外设分销商",
+   "quote": "Discover a range of industrial tech solutions at JEA Technologies, an Australian leading electronic peripherals distributor",
+   "url": "https://jeatech.com.au/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "卖 ORing 的",
+   "quote": "卖Oring的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
- "kp": [],
- "grade_override": "C",
- "override_reason": "软件/工程服务公司（不经销硬件）；c_sub=品类不符（软件）",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "kp": [
+  {
+   "name": "Craig Kinder",
+   "title": "Manager",
+   "email": "craigk@jeatech.com.au",
+   "phone": "",
+   "source": "用户表"
+  },
+  {
+   "name": "Tony Ioannidis",
+   "title": "Operations Manager",
+   "email": "",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "西班牙",
-  "other": "官网 phicus.es，语言 es-ES，快照状态 ok；角色判定来源：表内早期 AI 描述"
+  "hq": "澳大利亚",
+  "other": "官网 jeatech.com.au，语言 en-AU，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "运营商网络软件 / 工程（西班牙）"
+  "工业蜂窝路由 / 面板 PC / 电子纸 / HMI 分销",
+  "工业交换机（ORing）"
  ],
  "channels": {
-  "role": "运营商网络软件/工程公司（软件品类）",
-  "region": "西班牙",
-  "contact": "phicus@phicus.es、irojo@phicus.es"
+  "role": "工业电子分销商（澳洲，ORing 工业线）",
+  "region": "澳大利亚",
+  "contact": "sales@jeatech.com.au、craigk@jeatech.com.au"
  },
  "signals": [
-  "官网：Phicus Tecnología - Software de aprovisionamiento y monitoreo de redes ; Ingeniería para redes GPON, DOCSIS y WiMAX",
-  "表内：Networking；KP Ignacio Sebastian / CEO"
+  "官网：Discover a range of industrial tech solutions at JEA Technologies, an Australian leading electronic peripherals distributor",
+  "栏目：4G/5G Industrial Cellular Modems Routers Gateways M2M IoT (27)；站内 IDGPS-C1042GP（ORing）",
+  "KP：Craig Kinder / Manager；Tony Ioannidis / Operations Manager（表内）"
  ],
  "risks": [
-  "品类不符：运营商网络软件与工程服务；4 次无回复"
+  "非主攻区（T5）；RCM 合规由客户申报",
+  "现有 ORing（台湾）供货稳定：需以价格/交期切入；7 次无回复"
  ],
  "saga_fit": {
-  "p1": null,
-  "tier": 25,
-  "why": "网络供给/监控软件公司（不经销硬件）→ 改 C（品类不符）"
+  "p1": "STI-288GPM",
+  "tier": 20,
+  "why": "在售 ORing IDGPS-C1042GP（工业 PoE 管理）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-288GP 同口型替换"
  },
- "email_hook": "（不发送：软件公司）"
+ "email_hook": "Craig, alongside the ORing industrial PoE switches you carry with your Teltonika and Milesight routers, we supply DIN-rail 8-PoE + 2 SFP managed (Marvell L2+) or unmanaged units (−40~75 °C, neutral packing) from small lots, EXW — which ORing model moves most for you, so we quote its equivalent?",
+ "products_seen": [
+  {
+   "brand": "ORing",
+   "model": "IDGPS-C1042GP",
+   "spec": "工业 PoE 管理（4 PoE + 2 SFP，推断）",
+   "saga": "STI-288GPM / STI-154GP",
+   "url": "https://jeatech.com.au/",
+   "date": "2026-10-21"
+  }
+ ],
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 19 封 2025→2026，1 次记录打开，0 回；收件 craigk@jeatech.com.au, sales@jeatech.com.au；主题多为「8 Port Industrial PoE Switch、Industrial PoE Switch」；Elsa 箱：`to:jeatech.com.au` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 19 / 来 0）（第 74 批(n)））",
+   "type": "工业电子分销商（澳洲，ORing 工业线）",
+   "sieve": "1~2（1 次打开）",
+   "stop": "19 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "澳大利亚 非主攻",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 19，Opened 标签 1（Simon 群发追踪）；用户表：「卖Oring的」；研究档 risks：非主攻区（T5）；RCM 合规由客户申报"
+  },
+  "situation": "澳大利亚 JEA Technologies（工业电子外设分销：4G/5G 工业蜂窝路由（Teltonika / Milesight）、工业面板 PC、电子纸、HMI；在售 ORing IDGPS-C1042GP（表内「卖 ORing 的」）；KP Craig Kinder（Manager，craigk@）、Tony Ioannidis（Operations Manager））；群发 7 次无回复。",
+  "need": "在售 ORing IDGPS-C1042GP（工业 PoE 管理）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-288GP 同口型替换",
+  "breakpoint": "非主攻区（T5）；RCM 合规由客户申报",
+  "saga_now": {
+   "p1": "STI-288GPM",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-27 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-04 $300（48 Port PoE Managed Switch）、2025-09-26 $280（10G Enterprise SFP Switch）、2026-06-17 $16000（32 Port 400GB DC Switch）",
+   "why": "在售 ORing IDGPS-C1042GP（工业 PoE 管理）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-288GP 同口型替换。已打开的主题（1/19 封有打开记录）：「Optional Marvell Chipset Solutions」(2025-11-24) → 读者兴趣主题类别不明（看原主题）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Craig, alongside the ORing industrial PoE switches you carry with your Teltonika and Milesight routers, we supply DIN-rail 8-PoE + 2 SFP managed (Marvell L2+) or unmanaged units (−40~75 °C, neutral packing) from small lots, EXW — which ORing model moves most for you, so we quote its equivalent?"
+  },
+  "facts": [
+   {
+    "date": "2026-08-27",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "8 Port Industrial PoE Switch、Industrial PoE Switch",
+    "why": "19 封 / 1 次打开 / 0 回｜首封 2025-07-03 → 末封 2026-08-27（19 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "卖Oring的",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

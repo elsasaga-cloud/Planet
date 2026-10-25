@@ -1,245 +1,311 @@
-# SB-965 areskom.com.tr · home · https://areskom.com.tr/ · fetched 2026-10-25T07:41:18Z · HTTP 200
-Areskom İletişim LTD – Teknoloji Ortağınız
-+90 216 428 78 78
-info(at)areskom.com.tr
-MARKALAR
-WESTERMO
-Endüstriyel Ethernet Switch
-Endüstriyel Yönetilemez Switch
-Endüstriyel Yönetilebilir Layer 2 Switch
-Endüstriyel Yönetilebilir Layer 3 Switch
-Endüstriyel Yönetilebilir Device Server Switch
-Endüstriyel Rack Tipi Switch
-Endüstriyel EN50155 Switch
-Endüstriyel IEC 61850-3 Switch
-Endüstriyel PoE Switch
-Endüstriyel Ethernet Uzatıcılar
-Yönetilemez Ethernet Endüstriyel Uzatıcılar
-Yönetilebilir Ethernet Endüstriyel Uzatıcılar
-Endüstriyel Medya Çeviriciler
-Endüstriyel Seri Çevirici ve Tekrarlayıcılar
-Endüstriyel Ethernet – Fiber Medya Dönüştürücüler
-Endüstriyel Fiber Optik Çeviriciler
-Endüstriyel 20mA RS-232 Current Loop Çeviriciler
-Endüstriyel PROFIBUS DP ve M-Bus Seri Çeviriciler
-Endüstriyel GPRS / EDGE / HSPA+ / 3G / 4G / LTE / 5G Modem Router
-Endüstriyel Kablosuz LAN
-Endüstriyel ADSL/VDSL Router
-Endüstriyel Modemler
-Endüstriyel Fiber Optik Modemler
-Endüstriyel Leased Line/PSTN Modemler
-Endüstriyel Multidrop ( Atlamalı ) Modemler
-Endüstriyel Noktadan Noktaya Short-haul Modemler
-Endüstriyel Modüler Bilgi İşlem Platformu
-Yazılımlar & Çözümler
-WeOS
-WeConfig
-WeConnect
-Endüstriyel Siber Güvenlik
-Edge Network Çözümleri
-Etherneti Uzatma
-Fiber Bağlantı / Fiber Optik Çözümler
-Legacy Seri ( RS-232 / RS-485 ) Bağlantı
-Protokol Dönüştürme
-Aksesuarlar
-Endüstriyel Güç Kaynakları
-Fiber ve Bakır SFP Çeviriciler
-USB-M12 EN50155 Konfigürasyon Yedekleme Cihazı
-Antenler ve Kablolar
-TELTONIKA
-3G Modem Router
-4.5G LTE Modem Router
-Gateways
-IoT Platformlar / RMS ( Uzaktan Yönetim Sistemi )
-Aksesuar & Antenler
-GSM 3G 4G / WiFi / GPS Antenler
-Aksesuarlar ( Din Ray Montaj )
-ETIC TELECOM
-RAS Serisi
-IPL Serisi
-XSLAN / XELAN Serisi ( Ethernet Uzatıcı )
-SIG Serisi Endüstriyel VPN Concentrator
-Yazılımlar ve Çözümler
-M2Me – Uzak Erişim / İzleme / Gözetim / Yönetim
-Endüstriyel Network – SCADA VPN WAN
-Alarm Uyarı ve Veri Toplama
-Etic Display – Web Dashboard Görüntüleme
-ACROMAG
-Endüstriyel Network I/O, Sinyal Conditioning, 4-20mA
-Ethernet I/O Modüller
-Profibus-DP I/O Modüller
-Matematiksel Hesaplama Modüller
-4-20mA Signal Isolators
-Proses Limit Alarmlar
-Modbus-RTU I/O Modüller
-RS485-to-RS485 Network Repeater
-Sinyal Çevirici / Transmitter
-Sıcaklık Transmitter
-Gömülü I/O ve Proses Çözümleri
-AcroPack Mini PCIe-Based Interface I/O Boards
-COM Express Products
-PCIe Products
-Carrier Boards and Carrier Cards
-Compact PCI Serial I/O
-PCI I/O Boards
-Reconfigurable FPGA Boards
-CompactPCI Boards
-Embedded Computers
-Industry Pack Mezzanine I/O Modules
-VME Boards & VME Carriers
-WELOTEC
-Trafo Merkezleri İçin Endüstriyel Bilgisayarlar
-Rugged Substation Automation Computer RSAPC Mk2
-Rugged Substation Automation Virtualization Platform
-Rugged Substation Automation Computer RSAPC
-TEKTELIC
-Gateways
-Sensörler
-Çözümler
-Uygulamalar
-Cloud Servisleri
-ATOP
-Endüstriyel Ethernet Switchler
-Endüstriyel Profinet Ethernet Switchler
-Endüstriyel PoE Ethernet Switchler
-Endüstriyel NEMA TS-2 Ethernet Switchler
-Endüstriyel IEC61850-3 Ethernet Switchler
-Seri Ethernet Cihaz Sunucuları
-Endüstriyel Wireless Çözümler
-Endüstriyel Edge Computing ( SDK – Gömülü )
-Endustriyel Ethernet & Fieldbus Gateways
-Modbus ( TCP / RTU / ASCII ) Gateway
-Protokol ( Ethernet, DNP3.0, Modbus, IEC 60870-5-101/103/104, IEC 61850 ) Gateway
-Endustriyel Fiber Ethernet Medya Çeviriciler
-IoT ( Nesnelerin İnterneti ) Çözümler
-Precision Timing Ürünler ve Çözümler
-Aksesuarlar
-SENA NETWORKS
-Bluetooth USB Adaptör
-Bluetooth Seri RS-232/ RS-422 / RS-485 Adaptör
-Endüstriyel Bluetooth Access Point Gateway
-Bluetooth Aksesuarlar
-SYSTEMBASE
-ÜRÜNLER
-Endüstriyel Ethernet
-Endüstriyel Ethernet Switchler
-Endüstriyel Ethernet Uzatıcılar – SHDSL / VDSL Modemler
-Endüstriyel Routerlar – VPN / Firewall
-3G / 4.5G LTE Modem Router / IoT
-3G / 4.5G LTE Modem Router
-3G / 4.5G LTE Antenler / Aksesuarlar
-IoT / IIoT Ürün ve Çözümler
-Uzaktan Erişim Modem Router / Bulut ( M2Me )
-RAS Serisi
-Bulut / M2Me – Uzak Erişim / İzleme / Gözetim / Yönetim
-Endüstriyel Kablosuz Haberleşme
-WLAN ( EN50121/EN50155 )
-802.11 a/b/g/n AP, Client, Bridge
-802.11 a/b/g/n Seri (RS-232 / RS-485) Cihaz Sunucu
-3G / 4.5G LTE Mobil Modem Router
-Wi-Fi Kablosuz Antenler
-Seri / USB Haberleşme
-Endüstriyel Modemler ve Çeviriciler
-Endüstriyel IT / Network / Siber Güvenlik
-Gömülü ( Embedded ) Çözümler
-Proses Otomasyon Çözümleri
-Ethernet & Modbus&Profibus I/O
-4-20mA Isolator & Splitters
-Signal Conditioners & Convertors
-Aksesuarlar
-3G 4.5G LTE GSM Antenler
-Wi-Fi Kablosuz Antenler
-Ray Tipi Power Adaptörler
-Fiber Ethernet SFP Modüller
-ÇÖZÜMLER
-3G 4.5G LTE 5G Mobil Geniş Bant
-Endüstri 4.0 / Dijital Dönüşüm
-Endüstriyel IT / Endüstriyel Network
-OT Network
-Endüstriyel Kontrol Sistemi (EKS) Siber Güvenliği
-Etherneti Uzatma
-Nesnelerin İnterneti / Endüstriyel Nesnelerin İnterneti
-Uzaktan Erişim & M2M
-SEKTÖRLER
-Kamera & Güvenlik & Akıllı Bina
-Enerji & Akıllı Şebekeler
-Fabrika & Proses Otomasyonu
-Gemi İnşa & Denizcilik
-Petrol & Doğalgaz & Petrokimya
-Demiryolu & Tren Otomasyonu
-Madencilik & Ağır Sanayi & Demir Çelik
-Su & Atık Su & Arıtma
-Makine Üretimi & Üreticileri
-IT & Parakende & Finans
-Ulaşım & Akıllı Trafik Sistemleri
-Savunma & Havacılık
-KURUMSAL
-Hakkımızda
-İletişim
-EN
-Çözümler
-3G 4.5G LTE 5G Mobil Geniş Bant
-Uzaktan Erişim & M2M
-IoT / IIoT
-OT Network
-Dijital Dönüşüm / Endüstri 4.0
-Endüstriyel Network / IT
-OT & ICS Cybersecurity
-Etherneti Uzatma
-Areskom İletişim Hakkında ( Kuruluş Yılı : 2004 )
-Areskom İletişim; Kurumsal / Endüstriyel IT - Network - Telekomünikasyon - Endüstriyel Ethernet - Uzak Erişim, M2M - 3G 4.5G LTE - IoT - Endüstri 4.0 Entegrasyonu gibi teknoloji - uygulama ve çözümleri, ilgili kurumların ihtiyaçları ile birlikde değerlendirip sunmaktadır.
-Areskom İletişim; Westermo, Teltonika, Etic Telecom, Acromag, Lanner, Atop, Sena Network, vb.. global markaların temsilciliğini yapmaktadır.
-Areskom İletişim; Endüstriyel Tesislerin / Kurumların mevcut telekomünikasyon, network ve endüstriyel data haberleşme altyapılarını site-survey ve denetlemeler ile tespit ederek, fayda-maliyet-verimlilik kriterleri kapsamında, sektörlerinde rekabet üstünlüğü sağlayacak çözümler sunmayı temel prensip edinmiştir.
-Areskom İletişim; Uygun ve Maliyet-Efektif Ürün Seçimi, Kurulum - Konfigürasyon - Devreye Alma, Proje Tasarımı desteği de sunmaktadır.
-Ürün Gruplarından Bazıları
-Westermo Endüstriyel Rack Switch ler
-Westermo RedFox-5528-F16G-T12G-LV
-Westermo Endüstriyel EN50155 Switch ler
-Westermo Viper-220A-P8-LV EN 50155
-Etic Telecom XSLAN / XELAN Ethernet Uzatıcılar
-XELAN-110
-Etic Telecom M2Me RAS Serisi
-Etic RAS-ECW-220-LE Machine Access Box
-Westermo IEC 61850-3 Switch ler
-Westermo Lynx 5612-F4G-T8G-LV
-Tektelic LoRaWAN® Gateway Serisi
-TEKTELIC KONA Photon IOT Gateway
-Tektelic LoRaWAN® Sensörler
-TUNDRA Soğuk Oda Isı ve Nem Sensörü
-Acromag 4-20 mA Çift Kanal Isolator ler
-Acromag 631T, 632T: Isolator
-Teknoloji Haberleri & Uygulamalar
-- Virtual Access Westermo Grup Şirketi Oluyor
-- Welotec Westermo Grup Şirketi Oluyor
-- 2.RAIL INDUSTRY SHOW ( Raylı Sistemler, Altyapı ve Teknolojileri Zirve & Fuarı )
-- Gömülü Sistemler Fuarı ( Embedded World Nürnberg )
-- Westermo Endüstriyel PoE+ 4,5G LTE Mobil Router
-- Westermo Ibex RT Serisi CAT-12 ( Max. 600Mbit ) LTE-A / 4,5G Routerlar
-- Teknoloji Haberleri & Uygulamalar
-- Westermo, Virtual Access Şirketini Satın Aldığını Duyurdu
-- Westermo, Neratec Şirketini Satın Aldığını Duyurdu
-- Teltonika RUT Serisi 3G 4.5G LTE Routerlarının Dizaynını Yeniledi
-→ WESTERMO
-→ TELTONIKA
-→ ACROMAG
-→ SENA NETWORKS
-→ ATOP
-→ ETIC TELECOM
-→ SOLLAE SYSTEMS
-→ SYSTEMBASE
-→ WELOTEC
-→ HAKKIMIZDA
-→ ÜRÜNLER
-→ ÇÖZÜMLER VE TRENDLER
-→ SEKTÖRLER
-→ TEKNOLOJİ HABERLERİ/UYGULAMALAR
-→ GLOBAL BAŞARI HİKAYELERİ
-→ SEKTÖR DERGİLERİ MAKALELER
-→ TEKNİK YAZILAR ve BLOG
-Areskom İletişim Sistemleri Tic. Ltd. Şti.
-Altunizade Mh. Kısıklı Cd. No:35/1 Kat1
-Üsküdar / İSTANBUL / Türkiye
-info(at)areskom.com.tr
-+90 (216) 428 78 78
-2004-2026 Areskom İletişim Sistemleri Tic. Ltd. Şti l Tüm Hakları Saklıdır.
-EN
+# SB-965 vidcom.uz · home · https://vidcom.uz/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+VIDCOM-Системы безопасности, камеры видеонаблюдения, энергосистемы
++998 71 277 01 93
++998 99 791 01 50
+Telegram
+ПН-СБ 09.00-18.00
+Главная
+Продукция
+Видеонаблюдение
+IP камеры
+IP видеорегистраторы
+HD-TVI камеры
+HD-TVI видеорегистраторы
+Комплекты камер
+Мониторы
+Контроль доступа
+Домофоны
+Контроллеры доступа
+Замки и комплектующие
+Турникеты
+Шлагбаумы
+Металлодетекторы
+Комплектующие
+Жесткие диски
+Блоки питания
+Кабель
+Сетевое оборудование
+ОПС
+Охранно-Пожарная сигнализация
+Порошковые огнетушители - ОП
+Углекислотные огнетушители - ОУ
+Пожарные шкафы
+Пожарные рукава, комплектующие
+Монтаж
+Установка видеонаблюдения
+Охранно-пожарная безопасность
+Домофоны и системы контроля
+Монтаж СКС, ЛВС
+Аналитика
+Видеоаналитика для камер
+Видеоналитика MACROSCOP
+Для торговли
+На производстве
+Для банка
+Вокзалы и аэропорты
+Медицина и образование
+Безопасный город
+Контакты Доставка
+Гарантия
+Фото объектов
+Поиск
+0
+Каталог
+Видеоаналитика Geovision
+Ivideon
+Macroscop
+Автомаршал
+Счётчики посетителей MEGACOUNT
+Видеонаблюдение Dahua IP видеорегистраторы DAHUA
+IP камеры DAHUA
+PTZ камеры DAHUA
+WiFi и 4G камеры Dahua
+Проектное оборудование Dahua
+Ezviz Видеонаблюдение
+Умный дом Ezviz
+Hikvision HD-TVI видеорегистраторы
+HD-TVI камеры
+IP сетевые видеорегистраторы Hikvision
+IP сетевые камеры Hikvision
+PTZ камеры IP PTZ камеры
+Джойстики и сетевые клавиатуры для PTZ-камер
+Камеры на солнечных батареях
+Проектное оборудование IP камеры
+Видеостены
+Сетевые видеорегистраторы
+Транспортный мониторинг
+IMOU камеры для дома и офиса
+Tiandy Technologies IP видеорегистраторы Tiandy
+IP камеры Tiandy
+WiFi камеры Tiandy
+Комплектующие для видеонаблюдения Блоки питания 12V-24V
+Кабель для видеонаблюдения
+Накопители HDD, SSD
+Домофоны IP домофоны Dahua IP домофоны
+Ezviz домофоны
+Hikvision IP домофоны
+Аналоговые домофоны
+Комплектующие
+Многоквартирные домофоны
+Защита от протечек
+Контроль доступа Cчитыватели, кнопки выхода
+Автоматика для распашных ворот
+Контроллеры доступа
+Металлодетекторы
+Турникеты
+Шлагбаумы
+Электрозамки
+Мониторы маркированные
+Оборудование звукоусиления
+Охранно-пожарная сигнализация AJAX сигнализация для дома и офиса
+Адресная пожарная сигнализация DAHUA
+Адресная пожарная сигнализация Астра-А
+Адресная система BOLID
+Беспроводная охранно-пожарная сигнализация Астра-РИ-М
+Газоанализаторы
+Источники бесперебойного питания
+Охранные извещатели Датчики движения ИК
+Датчики ИК + разбития стекла
+Датчики разбития стекла
+Периметральные извещатели
+Пожарные извещатели
+Приемно-контрольные приборы
+Светильники аварийного освещения
+Световые оповещатели
+Парковочное оборудование Автоматические шлагбаумы
+Парковочные барьеры, отбойники, столбики, конусы
+Пожарное оборудование Гидранты, колонки, пеногенераторы
+Модули порошкового пожаротушения
+Перезарядка, заправка, ремонт огнетушителей
+Пожарная арматура
+Пожарные рукава
+Пожарный инвентарь
+Порошковые огнетушители
+Противопожарные двери
+Самосрабатывающие огнетушители
+Средства защиты, лестницы
+Углекислотные огнетушители
+Шкафы, щиты пожарные
+Сетевое оборудование WiFI маршрутизаторы
+Волоконно-оптический кабель
+Инструменты Lan
+Коммутаторы неуправляемые POE
+Коммутаторы неуправляемые десктоп
+Коммутаторы управляемые
+Коммутационные шкафы
+Медный кабель (витая пара)
+Патч-панель (медь)
+Розетки, модули, разъемы
+Шнуры соединительные
+Энергосистемы Cтабилизаторы напряжения
+UPS-источники бесперебойного питания
+Аккумуляторные батареи
+Зарядные станции для электромобилей
+Сетевая защита 220В (УЗИП)
+Солнечные инверторы
+Солнечные панели
+Солнечные электростанции
+Vidcom.uz
+Гарантия качества
+Весь товар сертифицирован и проверен на знак качества
+Быстрая доставка
+По всей стране, на следующий день
+Клиентский сервис
+Служба поддержки клиентов 24/7 без выходных
+Бонусы за покупки
+Начисление бонусных баллов за каждую покупку
+Доступные цены
+Лучшие цены на рынке благодаря прямым поставкам
+Удобная оплата
+Перечислением, UZCard, наличными
+IP Видеокамеры Hikvision
+Prev
+Next
+DS-2CD2483G2-I
+1 217 200 сум
+В корзину
+DS-2CD1043G2-LIUF
+650 100 сум
+В корзину
+DS-2CD1043G2-LIUF/SL
+691 600 сум
+В корзину
+DS-2CD1043G2-LIDUF/4G/SL
+760 800 сум
+В корзину
+DS-2CD2343G2P-LISU/SL
+1 383 200 сум
+В корзину
+DS-2CD2663G2-LIZS2U/SRB
+2 628 100 сум
+В корзину
+DS-2CD1T47G3-LIUF/LSL
+1 244 900 сум
+В корзину
+DS-2CD2T87G2P-LSU/SL
+3 070 700 сум
+В корзину
+DS-2CFSP8-D/4G
+1 936 500 сум
+В корзину
+DS-2CD2783G2-IZS
+2 766 400 сум
+В корзину
+DS-2CV2Q21G1-IDW
+442 600 сум
+В корзину
+DS-2CD4635FWD-IZHS
+3 705 000 сум
+В корзину
+DS-2CD2683G2-IZS
+3 319 700 сум
+В корзину
+DS-2CD2T83G2-2I
+1 659 800 сум
+В корзину
+DS-2CD2T63G2-4I
+1 521 500 сум
+В корзину
+iDS-2CD7547G0-XZHS
+6 224 400 сум
+В корзину
+iDS-2CD7146G0-IZS
+6 224 400 сум
+В корзину
+iDS-2CD7A46G0-IZHS(Y)
+6 777 700 сум
+В корзину
+2 558 900 сум
+В корзину
+DS-2DE2C400MWG-4G
+1 009 700 сум
+В корзину
+Видеорегистраторы Hikvision
+Prev
+Next
+DS-7104NI-Q1/M
+525 600 сум
+В корзину
+DS-7632NXI-K2
+2 766 400 сум
+В корзину
+Рабочая
+В корзину
+DS-96128NI-I24
+В корзину
+DS-96128NI-M16
+В корзину
+DS-9664NI-М16
+24 897 600 сум
+В корзину
+DS-7764NI-M4
+7 192 600 сум
+В корзину
+DS-7732NXI-I4/S
+5 532 800 сум
+В корзину
+DS-7716NXI-I4/S
+5 256 200 сум
+В корзину
+DS-7716NI-М4(B)
+4 564 600 сум
+В корзину
+DS-7716NI-I4(B)
+3 873 000 сум
+В корзину
+DS-7616NI-E2/8P
+1 009 700 сум
+В корзину
+DS-7616NXI-K2
+1 590 700 сум
+В корзину
+DS-7616NXI-K1
+1 065 100 сум
+В корзину
+DS-7616NI-K1
+1 037 400 сум
+В корзину
+DS-7608NXI-K1
+816 100 сум
+В корзину
+DS-7608NI-К1
+788 400 сум
+В корзину
+DS-7604NXI-K1
+760 800 сум
+В корзину
+DS-7732NI-М4
+5 394 500 сум
+В корзину
+DS-9632NI-М8
+10 789 000 сум
+В корзину
+Наши бренды
+Контакты
++998 71 277 01 93
++998 99 791 01 50
+Telegram
+ПН-СБ 09.00-18.00
+Меню
+Установка видеонаблюдения
+Охранно-пожарная сигнализация
+Установка домофонов
+Монтаж СКС (ЛВС)
+Информация
+Контакты
+Доставка и оплата
+Гарантия
+Политика конфиденциальности
+Навигация
+Главная
+Поиск
+Карта сайта
+© 2015-2026 Vidcom.uz. Все права защищены
+Главная
+Продукция
+Монтаж
+Аналитика
+Контакты Доставка
+Гарантия
+Фото объектов
+Поиск

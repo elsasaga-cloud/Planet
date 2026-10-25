@@ -1,0 +1,66 @@
+{
+ "code": "SC-102",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（mindseyes.co.kr，快照 2026-10-21）",
+ "summary": "韩国 Mindseyes（自建站询盘「I/O 模块」；KP Jo Hang Soo；官网为防爬验证页）；表内未跟进。",
+ "type": "自动化公司（韩国，I/O 模块询盘）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：mindseyes.co.kr",
+   "quote": "ìëë±ë¡ë°©ì§ë¥¼ ìí´ ë³´ìì ì°¨ë¥¼ ê±°ì¹ê³ ììµëë¤.",
+   "url": "http://mindseyes.co.kr/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "I/O模块 / from: 自建站",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "I/O 模块询盘",
+   "quote": "I/O模块 / from: 自建站",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "询盘品类 I/O 模块（Saga 不供）；c_sub=品类不符",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "韩国",
+  "other": "官网 mindseyes.co.kr，语言 ko，快照状态 ok；角色判定来源：待核"
+ },
+ "business_lines": [
+  "自动化（韩国）"
+ ],
+ "channels": {
+  "role": "自动化公司（韩国，I/O 模块询盘）",
+  "region": "韩国",
+  "contact": "hangsoo.cho@mindseyes.co.kr"
+ },
+ "signals": [
+  "表内：I/O 模块 / from: 自建站；KP Jo Hang Soo",
+  "快照：자동등록방지를 위해 보안절차를 거치고 있습니다（验证页）"
+ ],
+ "risks": [
+  "品类不符：I/O 模块（Saga 不供）；非主攻区（韩国）；官网为验证页"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 25,
+  "why": "询盘品类 I/O 模块（Saga 不供）、非主攻区 → 改 C（品类不符）"
+ },
+ "email_hook": "（不发送：品类不符）"
+}

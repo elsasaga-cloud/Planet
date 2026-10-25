@@ -1,0 +1,75 @@
+{
+ "code": "SC-063",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（stgm.com.tr，快照 2026-10-21）",
+ "summary": "土耳其 STG Engineering（国防工程：遥控武器站、遥控射击单元、多功能操作台、加固以太网交换机 RMES/RLES、MIL-STD-810/1275；表内「Cisco 的工业交换机」）；群发 2 次无回复。",
+ "type": "国防工程公司（军工）",
+ "size": "",
+ "brands_seen": [
+  "Cisco"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：STG Engineering；品类词 工业自动化 / OT 网络 / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "Reliable Technology；STG Engineering；Remote Controlled Weapon Station；43″ Display；MULTI FUNCTION OPERATOR CONSOLES；Remote Firing Unit",
+   "url": "https://www.stgm.com.tr/en/home/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "Cisco的工业交换机",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "STG Engineering 国防产品",
+   "quote": "STG Engineering ; Remote Controlled Weapon Station ; 43″ Display ; MULTI FUNCTION OPERATOR CONSOLES ; Remote Firing Unit",
+   "url": "https://www.stgm.com.tr/en/home/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "Cisco 的工业交换机",
+   "quote": "Cisco的工业交换机",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "守界：土耳其国防工程公司（遥控武器站、军用加固以太网）；c_sub=守界：军工",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "土耳其",
+  "other": "官网 stgm.com.tr，语言 en-US，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "国防工程（武器站 / 操作台 / 加固以太网）"
+ ],
+ "channels": {
+  "role": "国防工程公司（军工）",
+  "region": "土耳其",
+  "contact": "info@stgm.com.tr"
+ },
+ "signals": [
+  "首页：Remote Controlled Weapon Station / Remote Firing Unit / MULTI FUNCTION OPERATOR CONSOLES；MIL-STD-810G/H、MIL-STD-1275E",
+  "页面 /en/rmes-ethernet-switch/、/en/rles-ethernet-switch/"
+ ],
+ "risks": [
+  "守界：国防工程（遥控武器站、加固军用以太网）"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 25,
+  "why": "遥控武器站等军工产品 = 守界 → 改 C"
+ },
+ "email_hook": "（不发送：军工守界）"
+}

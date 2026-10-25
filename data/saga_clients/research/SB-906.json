@@ -2,65 +2,131 @@
  "code": "SB-906",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "在线（ieiworld.com，快照 2026-10-21）",
- "summary": "台湾 IEI Integration 威强电（工业电脑制造商，多国分公司；表内「有 marvell 交换机 其他国家有分公司」）；群发 5 次无回复。",
- "type": "台湾工业电脑厂商（同行）",
+ "website_status": "在线（avizio.pl，快照 2026-10-21）",
+ "summary": "波兰 Avizio（官网快照为空页；表内「N-net 的工业 FS 刷了自己的标，主要做安防的」；邮箱 inquiries@）；表内未跟进。",
+ "type": "安防方案商/自有标（波兰，N-net 工业 FS 贴标；官网待核）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "N-net"
+ ],
  "evidence": [
   {
    "kind": "官网快照",
-   "claim": "官网标题：ieiworld.com",
+   "claim": "官网标题：avizio.pl",
    "quote": "",
-   "url": "https://www.ieiworld.com/",
+   "url": "https://avizio.pl/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
    "claim": "表内兴趣/备注",
-   "quote": "有marvell交换机 其他国家有分公司",
+   "quote": "N-net的工业FS 刷了自己的标 主要做安防的",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "有 marvell 交换机",
-   "quote": "有marvell交换机 其他国家有分公司",
+   "claim": "N-net 工业 FS 刷了自己的标",
+   "quote": "N-net的工业FS 刷了自己的标 主要做安防的",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
  "kp": [],
- "grade_override": "C",
- "override_reason": "台湾厂商（同行）；c_sub=同行/台湾厂商",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "台湾",
-  "other": "官网 ieiworld.com，语言 ?，快照状态 ok；角色判定来源：待核"
+  "hq": "波兰",
+  "other": "官网 avizio.pl，语言 ?，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "工业电脑 / 嵌入式（台湾）"
+  "安防系统（自有标工业 PoE 交换机）"
  ],
  "channels": {
-  "role": "台湾工业电脑厂商（同行）",
-  "region": "台湾",
-  "contact": "sales@ieiworld.com"
+  "role": "安防方案商/自有标（波兰，N-net 工业 FS 贴标；官网待核）",
+  "region": "波兰",
+  "contact": "inquiries@avizio.pl"
  },
  "signals": [
-  "表内：有 marvell 交换机 其他国家有分公司",
-  "快照：内容为空"
+  "表内：N-net 的工业 FS 刷了自己的标 主要做安防的",
+  "快照：标题/描述/栏目均为空（avizio.pl）"
  ],
  "risks": [
-  "同行/台湾厂商（自有产品线）；5 次无回复，仅 sales@"
+  "官网快照空页（站点状态待核）；现供 N-net（深圳）价格基准低",
+  "未跟进过，仅 inquiries@"
  ],
  "saga_fit": {
-  "p1": null,
+  "p1": "STI-288GPM",
   "tier": 30,
-  "why": "台湾厂商（自有工业网络产品线），非渠道客户 → 改 C"
+  "why": "现 N-net（深圳）工业 FS 贴 Avizio 标 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ 非管理 STI-288GP（$62.2）作替代"
  },
- "email_hook": "（不发送：台湾厂商）"
+ "email_hook": "For the industrial PoE switches you sell under the Avizio label with your security systems, we can be a second ODM source (DIN-rail 8-PoE + 2 SFP managed on Marvell L2+, or unmanaged, −40~75 °C, CE/RoHS) from small lots in your packaging — which model do your installers use most?",
+ "mail_review": {
+  "binding": {
+   "level": "地址失效（S 邮箱 2024-07-09 唯一一封发 inquiries@avizio.pl 当即永久退信「550 No such recipient here」；此后未再发——「1 次打开」记录无效；Elsa 箱：`to:.pl` 穷举 24 条（2026-10-25，锚批 Bcc 头已读）未见 avizio.pl → Elsa 箱从未发过本户，往来只在 S/A 箱（去 1 / 来 0）（第 74 批(f)））",
+   "type": "安防方案商/自有标（波兰，N-net 工业 FS 贴标；官网待核）",
+   "sieve": "0（信没到）",
+   "stop": "地址错了：inquiries@ 不存在；官网联系邮箱待核后才能算第一封",
+   "revive": "先从 avizio.pl 官网/LinkedIn 找到有效邮箱（biuro@ / 具名），再发首封——不要把这户继续算在群发名单里",
+   "lane": "PL 次级重点",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 1，Opened 标签 1（Simon 群发追踪）；用户表：「N-net的工业FS 刷了自己的标 主要做安防的」；研究档 risks：官网快照空页（站点状态待核）；现供 N-net（深圳）价格基准低"
+  },
+  "situation": "波兰 Avizio（官网快照为空页；表内「N-net 的工业 FS 刷了自己的标，主要做安防的」；邮箱 inquiries@）；表内未跟进。",
+  "need": "现 N-net（深圳）工业 FS 贴 Avizio 标 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ 非管理 STI-288GP（$62.2）作替代",
+  "breakpoint": "官网快照空页（站点状态待核）；现供 N-net（深圳）价格基准低",
+  "saga_now": {
+   "p1": "STI-288GPM",
+   "tier": 30,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "现 N-net（深圳）工业 FS 贴 Avizio 标 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ 非管理 STI-288GP（$62.2）作替代。已打开的主题（1/1 封有打开记录）：「Industrial poe switch」(2024-07-09) → 读者兴趣偏「工业」；与 P1 同类，继续",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2026-11（先找地址）",
+   "channel": "A 邮箱 → 官网核到的有效邮箱（inquiries@ 已失效）",
+   "action": "核 avizio.pl 当前联系邮箱 → 首封用研究档一句话；核不到就不发（第 75 批(d) 2026-10-25：英文信稿已写 `draft_en`；地址失效——核到新邮箱再发）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
+   "one_question": "For the industrial PoE switches you sell under the Avizio label with your security systems, we can be a second ODM source (DIN-rail 8-PoE + 2 SFP managed on Marvell L2+, or unmanaged, −40~75 °C, CE/RoHS) from small lots in your packaging — which model do your installers use most?"
+  },
+  "facts": [
+   {
+    "date": "2024-07-09",
+    "dir": "去",
+    "who": "S 群发",
+    "quote": "Industrial poe switch",
+    "why": "1 封 / 1 次打开 / 0 回｜首封 2024-07-09 → 末封 2024-07-09（1 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2024-07-09",
+    "dir": "内",
+    "who": "Gmail 退信",
+    "quote": "** Address not found ** Your message wasn't delivered to inquiries@avizio.pl… 550 No such recipient here",
+    "why": "本户唯一一封去信没有送达；绑定行原写「1 次记录打开」为误（退信不会触发打开）",
+    "k": "gmail_s 5feee0c19da3d4b7"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "N-net的工业FS 刷了自己的标 主要做安防的",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "avizio.pl 当前有效邮箱（inquiries@ 2024-07 已 550）"
+  ],
+  "draft_en": {
+   "subject": "Second source for the Avizio-label industrial PoE switches",
+   "body": "Hello Avizio team,\n\nFor the industrial PoE switches you sell under the Avizio label with your security systems, we can be a second ODM source in your packaging from small lots:\n\n- DIN-rail 8 x Gigabit PoE+ + 2 x SFP, L2 managed (VLAN, QoS, IGMP), Marvell-based, -40 to 75 C, CE/RoHS - model STI-288GPM - $85.5 USD EXW (MOQ 1, 15-day validity)\n- the same footprint unmanaged, STI-288GP - $62.2 USD EXW\n\nOne question: which of the two do your installers use most - managed or unmanaged?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+  },
+  "as_of": "2026-10-24"
+ }
 }

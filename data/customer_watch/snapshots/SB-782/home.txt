@@ -1,86 +1,105 @@
-# SB-782 skyware.com.hk · home · http://www.skyware.com.hk/en/index.php · fetched 2026-10-25T07:41:18Z · HTTP 200
-skyware - more than solution
-home •
-about •
-contact •
-reference
-Vuilian
-2 to 1 serial combiner
-Viutron
-Touch Control Wallmount Panel (4 inch)
-Touch Control Wallmount Panel (10 inch)
-Touch Control Desktop Panel (10 inch)
-Network Serial Controller (1 serial)
-Network Serial Controller (4 serial)
-Imoware
-Digital Infrared Distribution System
-Chassis Matrix 4-channel
-HDBaseT Matrix/Splitter/Extender with Standard Receiver
-HDBaseT Faceplate with Poster Receiver
-HDBaseT Extender with Poster Receiver
-HDBaseT Splitter 1 to 2 with Poster Receiver
-HDBaseT Splitter 1 to 4 with Poster Receiver
-HDBaseT Splitter 1 to 8 with Poster Receiver
-HDBaseT Splitter 2 to 8 with Poster Receiver
-HDMI to USB-C Converter
-HDMI Splitter 1 to 2
-HDMI Splitter 1 to 4
-HDMI Matrix 4x4
-HDMI Multiviewer 4 to 1
-HDMI Multiviewer 4 to 2
-HDMI Audio Embedder
-IP Based HDMI KVM
-IP Based HDMI NDI
-USB extender 2.0
-USB extender 3.0
-Pinoten
-Unmanaged 4-port PoE Ethernet Switch
-Unmanaged 8-port PoE Ethernet Switch
-Unmanaged 24-port PoE Ethernet Switch
-Industrial Din-Rail Unmanaged Media Converter
-Industrial Din-Rail Unmanaged 8-port Ethernet Switch
-Time Server
-Anysync
-FHD
-4K
-touch
-Barix
-Automation Control
-AudioPoint
-Background Music
-Intercom & Paging
-NETIO
-PowerDIN
-PowerPDU
-PowerBOX
-PowerCABLE
-SpinetiX
-Players
-Players - HMP200
-Players - Diva
-OS
-Coud
-Software
-Edgecore
-Open Data Center
-Enterprise Networking
-Controller WiFi
-Netsys
-Long Reach
-Last Mile
-Industrial
-1
-2
-3
-4
-automation control •
-audio signage •
-paging intercom •
-power control •
-digital signage
-open networking •
-enterprise networking •
-wireless networking •
-cloud wifi •
-ethernet extender
-COPYRIGHT SKYWARE PROTECH LIMITED 2021. ALL RIGHTS RESERVED
+# SB-782 simpleuk.com · home · https://www.simpleuk.com/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+Simple Technology. Simple Technology
+Call Sales and Service : +44 (0)1925 414028
+Vendors
+3COM ADTRAN ADVA ALCATEL / LUCENT ALLIED TELESYN ALLNET ARISTA ASANTE AVAYA BROCADE/FOUNDRY CALIX CIENA CISCO COMPAQ D-LINK DELL ENTERASYS EXTREME NETWORKS FINISAR FLUKE NETWORKS FORCE 10 FUJITSU H3C HP HUAWEI IBM INTEL JUNIPER LINKSYS MARCONI McAFEE MELLANOX MERAKI MILAN TECHNOLOGY MOXA NETGEAR NORTEL PALO ALTO NETWORKS Q-LOGIC REDBACK RIVERSTONE NETWORKS SMC SUN TRANSITION NETWORKS TRENDNET ZTE ZYXEL
+CATEGORY
+Cables
+Active Optical Cables Direct Attach Cables Ethernet Patch Leads Fibre Patch Leads MPO/MTP Cables QSFP+ 40G DAC CFP-100G Cisco Memory
+COMPACT FLASH DRAM MODULES FLASH MODULES PC ATA FLASH DISK CWDM Mux/Demux CWDM DWDM Fibre Media Converters Fibre NIC GBIC Network Switches 400G QSFP-DD QSFP+ Transceivers QSFP28 100G SFP SFP+ Xenpak XFP X2
+About
+About Us Blog Contact us News
+Menu
+Vendors
+3COM ADTRAN ADVA ALCATEL / LUCENT ALLIED TELESYN ALLNET ARISTA ASANTE AVAYA BROCADE/FOUNDRY CALIX CIENA CISCO COMPAQ D-LINK DELL ENTERASYS EXTREME NETWORKS FINISAR FLUKE NETWORKS FORCE 10 FUJITSU H3C HP HUAWEI IBM INTEL JUNIPER LINKSYS MARCONI McAFEE MELLANOX MERAKI MILAN TECHNOLOGY MOXA NETGEAR NORTEL PALO ALTO NETWORKS Q-LOGIC REDBACK RIVERSTONE NETWORKS SMC SUN TRANSITION NETWORKS TRENDNET ZTE ZYXEL
+Category
+Cables
+Active Optical Cables Direct Attach Cables Ethernet Patch Leads Fibre Patch Leads MPO/MTP Cables QSFP+ 40G DAC CFP-100G Cisco Memory
+COMPACT FLASH DRAM MODULES FLASH MODULES PC ATA FLASH DISK CWDM Mux/Demux CWDM DWDM Fibre Media Converters Fibre NIC GBIC Network Switches 400G QSFP-DD QSFP+ Transceivers QSFP28 100G SFP SFP+ Xenpak XFP X2 Blog Contact us
+Search
+Shopping basket (0)
+You have no items in your shopping cart.
+Register Log in Worklist (0)
+MPO/MTP Cables
+Network Switches
+QSFP+ Transceivers
+QSFP28 100G
+QSFP+ 40G DAC
+SFP+
+Bestsellers
+. ACTIVE OPTICAL CABLES
+View All
+T Optics GLC-T Compatible
+£42.00 incl VAT
+£35.00 excl VAT
+Add to cart
+T Optics GLC-SX-MM Compatible
+£24.00 incl VAT
+£20.00 excl VAT
+Add to cart
+T Optics GLC-LH-SM Compatible
+£33.59 incl VAT
+£27.99 excl VAT
+Add to cart
+T Optics AGM731F Compatible
+£24.00 incl VAT
+£20.00 excl VAT
+Add to cart
+T Optics SFP-GIG-SX Compatible
+£32.96 incl VAT
+£27.47 excl VAT
+Add to cart
+OM3 LC to LC Patch Cables
+£12.16 incl VAT
+£10.13 excl VAT
+Add to cart
+Featured products
+. View All
+T Optics SFP-H10GB-CU2M Compatible
+£34.80 incl VAT
+£29.00 excl VAT
+Add to cart
+T Optics SFP-10G-LR Compatible
+£66.00 incl VAT
+£55.00 excl VAT
+Add to cart
+T Optics SFP-10G-SR Compatible
+£34.20 incl VAT
+£28.50 excl VAT
+Add to cart
+4 channel CWDM Duplex Mux/Demux, 19'' 1U Rack Mount Chassis
+£261.60 incl VAT
+£218.00 excl VAT
+Add to cart
+T Optics SFP-10G-T Compatible SFP+ Transceiver
+£70.80 incl VAT
+£59.00 excl VAT
+Add to cart
+T Optics Generic 400G, 100m, QSFP-DD SR8 Transceiver
+£860.40 incl VAT
+£717.00 excl VAT
+Add to cart
+DEAL OF THE MONTH
+Simple networking devices that make it possible
+Dell Precision 7740
+Description : Ultra Powerful Dell Precision 7740, RTX 5000, Intel® Xeon E2286M, 8 Core Xeon, 16M Cache, 2.40GHz up to 5.00GHz Turbo, 45W, vPro, Windows 10 Pro, 32GB RAM, 2TB NVMe SSD, 17.3" HD Screen, Mobile Workstation - Only 2 left...buy today! £4,698.00 excl VAT £3,120.00 incl VAT
+£2,600.00 excl VAT
+- +
+Add to cart
+FREE SHIPPING ON ORDERS OVER £70.00 HAVE A QUESTION? CALL 01925 414028 100% MONEY BACK GUARANTEE NO QUIBBLE RETURNS
+Information
+Sitemap Privacy Policy Contact us Certificate number 12647
+Customer service
+Search News New products Trade Accounts Returns Policy Subscribe to Newsletter
+My account
+My account Orders Addresses Shopping basket Worklist
+Contact Us
+Dallam Court
+Dallam Lane
+Warrington
+Cheshire WA2 7LT sales@simpleuk.com
+© 2023 Simple Technology. All rights reserved.
+Facebook Twitter RSS
+Powered by nopCommerce
+Cookies help us deliver our services. By using our services, you agree to our use of cookies.
+OK Learn more

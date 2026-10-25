@@ -1,301 +1,239 @@
 {
  "code": "SA-021",
- "name_official": "ALFA Network Inc.（Taipei）",
+ "name_official": "Optiview, Inc.（Jacksonville, FL）",
  "website_status": "在线",
- "summary": "台湾无线网络设备厂商（2002 年成立，11–50 人），产品：无线路由/AP/USB 网卡/天线、PoE 模块与 PoE 交换机（APS08G、APS1602E、APS104G-EX 等）、PoE 注入器。用户表：S 重点，商业 PoE 想用自己的 logo，有人在卖他们的产品，1 次实质回复。",
- "type": "品牌商（台系无线网络品牌，PoE 交换机外采贴牌）",
- "size": "11–50 人（LinkedIn）",
+ "summary": "美国佛州杰克逊维尔的 CCTV 批发分销商/品牌商（1999 年成立，11–50 人，营收约 $5.3M），25,000 平方英尺仓库 600+ SKU，面向安装商/经销商/集成商直至财富 500 强客户，产品自行测试并定制（自有品牌），类目含 NDAA 合规摄像机、NVR/DVR、Networking/PoE、太阳能监控。用户表：S 重点，兴趣 VC/HDMI/FS/商业 PoE/光模块，1 次实质回复，邮件中有详细联系信息。",
+ "type": "分销商/品牌商（CCTV 批发，自有品牌 OEM 采购）",
+ "size": "11–50 人；$5.3M（ZoomInfo/RocketReach）",
  "brands_seen": [
-  "ALFA"
+  "Optiview"
  ],
  "evidence": [
   {
    "kind": "官网",
-   "claim": "自有品牌 PoE 交换机产品线（16 口 PoE+2G、PoE 延长交换机等）",
-   "quote": "APS1602E is a high-performance 16-ports Ethernet with 2-ports Gigabit unmanaged PoE switch … APS104G-EX_PoE 60W Ultra PoE to 4-Port 802.3af/at Gigabit PoE Extender Switch",
-   "url": "https://www.alfa.com.tw/collections/power-over-ethernet-poe-switch",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "第三方（LinkedIn）",
-   "claim": "规模与定位",
-   "quote": "ALFA Network Inc. designs and manufacturers high-performance wireless network equipment … Company size: 11-50 employees · Headquarters: Taipei City · Founded: 2002 · Specialties: Wireless Routers, Wireless AP, Outdoor Wireless, USB Wireless Adapters, Antennas, PoE",
-   "url": "https://www.linkedin.com/company/alfanetwork",
+   "claim": "定位与客户群；产品自测与定制",
+   "quote": "Optiview has been a part of the surveillance industry for over 25 years … for our network of Clients, Dealers, & Integrators. Every product brought into Optiview’s 25,000 square foot warehouse is extensively tested by our R&D team, and customized to fit the needs of our client base.",
+   "url": "https://optiviewusa.com/about/",
    "date": "2026-10-21"
   },
   {
    "kind": "官网",
-   "claim": "APS1602E 规格",
-   "quote": "APS1602E is a high-performance 16-ports Ethernet with 2-ports Gigabit unmanaged PoE switch … 16x 10/100 Mbps Ethernet ports 2x 10/100/1000 Mbps Gigabit ports … Total PoE Power Budget · 250 W … Operating Temperature · 0 °C to 45 °C",
-   "url": "https://www.alfa.com.tw/products/aps1602e",
+   "claim": "类目含 Networking/PoE 与 NDAA 合规摄像机",
+   "quote": "Some of our most popular products include: - HD over COAX Cameras - IP/network cameras - NDAA-compliant cameras - Network video recorders (NVR) … - Networking/POE",
+   "url": "https://optiviewusa.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "第三方（ZoomInfo）",
+   "claim": "总裁与规模",
+   "quote": "Optiview $5.3M · Private · 1999 · Stephen Lebowitz President",
+   "url": "https://www.zoominfo.com/c/optiview-inc/344525981",
    "date": "2026-10-21"
   },
   {
    "kind": "官网",
-   "claim": "APS08G 规格",
-   "quote": "APS08G … 802.3af/at Power over Ethernet compliant, Max. 30W per port … Fanless … Fit on Desktop or Bring It to Rackmount",
-   "url": "https://www.alfa.com.tw/products/aps08g",
+   "claim": "OVPOE 系列型号表（8/16/24 口、DIN SFP、CAT6）与 5 年保修",
+   "quote": "Warranty | 5 Years … OVPOE8-125 | OVPOE8G-DR-SFP | OVPOE16-250 | OVPOE24-370-2GC … 8 Port 240W PoE Switch … 16 Port PoE + 2GB Switch … 24 Port PoE + 2GB Switch",
+   "url": "https://optiviewusa.com/wp-content/uploads/2024/03/Optiview_OVPOE12V-8-210_SalesSpecSheet.pdf",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "OVPOE24X-400-2GC 24×GE PoE 400W",
+   "quote": "24 Port 10/100/1000Base-TX PoE Switch with 2 x Gigabit combo's. Provides 24 x PoE injectors, 400W built-in power supply. 52Gbps",
+   "url": "https://optiviewusa.com/product/ovpoe24-400-24-port-poe-switch/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "OVPOE12V-8+4-160-M 8+2 千兆 L2 管理 30W/口",
+   "quote": "OVPOE12V-8+4-160-M – 8 + 2 Port Gigabit Layer 2 Managed Switch with 30W PoE per Port … 240W Power over Ethernet … 12V / 24V DC Output Ports",
+   "url": "https://optiviewusa.com/product/ovpoe12v-8-4-160-m/",
+   "date": "2026-06-11"
   }
  ],
- "notes": "A 维持（用户 S 重点 + 自有品牌 PoE 交换机 = OEM 采购方，非竞争对手）；INH「台湾厂商非客户」针对 Planet 同业，此处为 OEM 买家，特此说明。P1 = STC-21616GP 类 16 口 PoE 非网管（如价格表无则标注 SmartByte 型号），30% 档。",
+ "kp": [
+  {
+   "name": "Stephen Lebowitz",
+   "role": "President（ZoomInfo 口径）",
+   "email": "sales@optiviewusa.com（Crunchbase 公开）",
+   "phone": "+1 904-805-1581",
+   "source": "https://www.zoominfo.com/c/optiview-inc/344525981 ; https://www.crunchbase.com/organization/optiview-d25f"
+  },
+  {
+   "name": "Silvia Flores",
+   "role": "来信署名人（职务未在邮件署名里出现）；地址 2026-07-20 永久退信（550 5.1.1 Address not found）→ 已离职/停用，改问 purchasing@ 接替人",
+   "email": "silvia.flores@optiviewusa.com",
+   "phone": "",
+   "source": "S/A 邮箱来信 2024-10-29 来信 2 封（第 72 批从邮件表头补）"
+  }
+ ],
+ "notes": "A 确认：美国 CCTV 批发商 + 自有品牌 + S 重点；P1 = STC-28DGGPM（8 口商业 PoE，安防主力）→ STC-424DGGPM-280W；注意 NDAA：交换机不在 NDAA 889 覆盖范围（摄像机/视频设备为主），但避免华为海思方案表述，强调 Marvell。",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
   "level": "深挖 v1"
  },
  "company_facts": {
-  "legal_name": "ALFA Network Inc.",
-  "founded": "2002",
-  "hq": "Taipei, Taiwan",
+  "legal_name": "Optiview, Inc.",
+  "founded": "1999",
+  "hq": "Jacksonville, Florida, USA（电话 904.805.1581）",
   "staff": "11–50",
-  "other": "无线网络品牌，PoE 交换机线为外采：APS08G（8 GE PoE 150W）、APS1602E（16 FE PoE + 2 GE 250W，VLAN/CCTV 250 m）、APS104G-EX（bt 入 4 口 PoE 延长）、APOE08G 注入器；欧洲二级渠道（Alfa Distribution、EVX、wifi-highpower.it）"
+  "revenue": "约 $5.3M",
+  "other": "自有品牌 OVPOE 系列交换机（5 年保修），面向安装商/经销商/集成商；网站需登录看价"
  },
  "business_lines": [
-  "无线路由/AP/USB 网卡/天线",
-  "PoE 交换机 APS 系列与 PoE 注入/延长器（外采贴牌）"
+  "CCTV 批发（NDAA 合规摄像机、NVR/DVR）",
+  "Networking/PoE：OVPOE 系列商用与工业 PoE 交换机、户外 NEMA3 PoE 箱",
+  "太阳能监控、线缆"
  ],
  "products_seen": [
   {
-   "brand": "ALFA",
-   "model": "APS08G",
-   "spec": "8×GE PoE at 30W/150W，无风扇，桌面/机架",
-   "url": "https://www.alfa.com.tw/products/aps08g",
+   "brand": "Optiview",
+   "model": "OVPOE8-125 / OVPOE8-125V",
+   "spec": "8×GE PoE + 2 GE（或 1 GE + 1 SFP），125W 外置电源，20G，5 年保",
+   "url": "https://optiviewusa.com/product/ovpoe8-125v/",
    "date": "2026-10-21",
-   "saga": "STC-28DGGPM（管理型升级）"
+   "saga": "STC-28DGGPM"
   },
   {
-   "brand": "ALFA",
-   "model": "APS1602E",
-   "spec": "16×FE PoE at + 2 GE，250W/270W PSU，VLAN/CCTV 模式 250 m，0–45℃",
-   "url": "https://www.alfa.com.tw/products/aps1602e",
+   "brand": "Optiview",
+   "model": "OVPOE8G-DR-SFP",
+   "spec": "8 口 240W PoE 千兆（DIN，SFP）",
+   "url": "https://optiviewusa.com/wp-content/uploads/2024/03/Optiview_OVPOE12V-8-210_SalesSpecSheet.pdf",
    "date": "2026-10-21",
-   "saga": "STI-21616GP（千兆升级）"
+   "saga": "STI-288DGGPM"
   },
   {
-   "brand": "ALFA",
-   "model": "APS104G-EX",
-   "spec": "60W bt 入 → 4 口 af/at GE PoE 延长交换机",
-   "url": "https://www.alfa.com.tw/collections/all?page=17",
-   "date": "2026-10-21",
-   "saga": "—"
+   "brand": "Optiview",
+   "model": "OVPOE12V-8-210",
+   "spec": "8 口工业 PoE+ 非管理 10/100，12V",
+   "url": "https://optiviewusa.com/wp-content/uploads/2024/03/Optiview_OVPOE12V-8-210_SalesSpecSheet.pdf",
+   "date": "2024-03",
+   "saga": "STI-288DGGPM（千兆升级位）"
   },
   {
-   "brand": "ALFA",
-   "model": "APOE08G",
-   "spec": "8 口无源 PoE 注入器 12–48VDC",
-   "url": "https://www.alfa.com.tw/products/apoe08g",
+   "brand": "Optiview",
+   "model": "OVPOE12V-8+4-160-M",
+   "spec": "8+2 口千兆 L2 管理，30W/口 240W，12/24V DC 输出口（2026-06-11 页）",
+   "url": "https://optiviewusa.com/product/ovpoe12v-8-4-160-m/",
+   "date": "2026-06-11",
+   "saga": "STI-288DGGPM"
+  },
+  {
+   "brand": "Optiview",
+   "model": "OVPOE16-250",
+   "spec": "16×FE PoE + 2 GE combo，250W",
+   "url": "https://optiviewusa.com/product/ovpoe16-250/",
+   "date": "2024-10-14",
+   "saga": "STI-21616GP（千兆升级位）"
+  },
+  {
+   "brand": "Optiview",
+   "model": "OVPOE24-370-2GC / OVPOE24X-400-2GC",
+   "spec": "24×FE PoE 370W / 24×GE PoE 400W + 2 GE combo（52Gbps）",
+   "url": "https://optiviewusa.com/product/ovpoe24-400-24-port-poe-switch/",
+   "date": "2026-07-23",
+   "saga": "STC-424DGGPM-280W"
+  },
+  {
+   "brand": "Optiview",
+   "model": "WPNS-8-LED",
+   "spec": "NEMA3 户外防水箱 8 口 PoE 30W/口",
+   "url": "https://optiviewusa.com/poe/8/",
    "date": "2026-10-21",
-   "saga": "—"
+   "saga": "STC-28DGGPM（箱内机）"
   }
  ],
  "channels": {
-  "网站": "https://www.alfa.com.tw/（Shopify 目录）",
-  "直邮": "johnson@alfa.com.tw（用户表）",
-  "二级渠道": "alfadistribution.com、evxab.com（SE）、wifi-highpower.it（IT）、instantbyte.com"
+  "网站": "https://optiviewusa.com/（登录看价，经销商制）",
+  "直邮": "purchasing@optiviewusa.com（用户表）；sales@optiviewusa.com；Stephen Lebowitz（Crunchbase）",
+  "电话": "904.805.1581"
  },
  "signals": [
-  "APS 线仅非管理且 16 口仍为百兆——管理型 8 口与千兆 16 口是空位（2026-10-21）",
-  "用户表：S 重点；商业 PoE，自己 logo，PoE 配件；「有人在卖他们的」"
+  "2026-06/07 仍在更新 OVPOE 产品页（8+4 管理型、24X-400）——自有品牌 PoE 线活跃（2026-10-21）",
+  "OVPOE16/24 仍为百兆 PoE 口——千兆升级是明确空位",
+  "用户表：S 重点，1 次实质回复，兴趣 VC/HDMI/FS/商业 PoE/光模块"
  ],
  "risks": [
-  "台系品牌商：TW 规则下上限 B，本条靠 S 重点 + 实质互动留 A；采购决策看成本，货源可能在台/大陆已有 ODM",
-  "欧洲渠道要求 CE/RoHS 文件齐全（Saga 具备）"
+  "美国 CCTV 渠道强调 NDAA——交换机不在 NDAA 889 范围但客户可能要求非中资芯片表述（Marvell 是美国芯片，可用）",
+  "UL：机架 PoE 电源类客户可能要 UL 列名，Saga 只有 CE/FCC"
  ],
  "saga_fit": {
-  "p1": "STC-28DGGPM",
+  "p1": "STC-424DGGPM-280W",
   "tier": 30,
-  "why": "APS08G 的管理型升级位 STC-28DGGPM（8 PoE + 2 SFP）与 APS1602E 的千兆升级位 STI-21616GP；ALFA 贴牌 30% 档"
+  "why": "OVPOE24-370-2GC（24×FE PoE）升级位 = STC-424DGGPM-280W（24 GE PoE + 4 SFP）；OVPOE8-125 对位 STC-28DGGPM；OVPOE8G-DR-SFP/12V-8+4 对位 STI-288DGGPM；贴 Optiview 标 30% 档"
  },
- "email_hook": "Next to the APS08G, a Marvell-based managed 8-port gigabit PoE+ with 2 SFP uplinks in ALFA packing fills the managed slot your PoE line does not have yet, and the 16-port gigabit version upgrades the APS1602E footprint.",
+ "email_hook": "Your OVPOE24-370-2GC is still 10/100 on the PoE ports, so the Marvell-based 24-port gigabit PoE+ with 4 SFP uplinks in Optiview packing is the natural upgrade SKU and the one I am pricing first, alongside the 8-port unit that matches the OVPOE8-125.",
  "mail_review": {
   "binding": {
-   "level": "未绑定（2024-08 要公司资料与 2.5G 机型报价 → 50 / 65 USD → 无下文；2025-07 一句「Thanks」；Elsa 箱：`to:alfa.com.tw` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 26 / 来 2）（第 74 批(g)））",
-   "type": "台系无线网络品牌（PoE/2.5G 交换机外采）——OEM 买家而非同业（INH 台湾厂商条款的例外说明已在档）",
+   "level": "未绑定（采购员 2024-10-29 要 4/8 口工业 PoE 规格书 + 价格 → 给了资料 → 无下文；Elsa 箱：`to:optiviewusa.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 24 / 来 2）（第 74 批(g)））",
+   "type": "美国 CCTV 批发商 + 自有品牌——第一档类型；Silvia Flores（Purchasing Agent）",
    "sieve": "2",
-   "stop": "2024-08-15 报 STC-18XGDGE 50 USD / STC-108XGDGP 65 USD（HRUI/Realtek 线 2.5G）后无回；Johnson 要「company information」—— 身份核验",
-   "revive": "其 2.5G 产品线补 SKU；台湾客户非主攻",
-   "lane": "TW",
-   "cadence": "2024-06 → 2026-09 去信 26 封；最后实质来信 2024-08-15",
-   "evidence": "k=a3c986b6ffa372aa / 1d7b74c6c5e4034f / f8c4407a865d3647；第 19 批回补来信原文 1 条（gmail_s/gmail_a）"
+   "stop": "2024-10-30 Simon「Please see attached information」后无回；此后 20 封群发（含 US 关税期）无回；2026-07-20 起 silvia.flores@ 退信（人已不在），之后群发只到 purchasing@",
+   "revive": "其 PoE 交换机 SKU 换源；NDAA 不涉交换机但要说清芯片",
+   "lane": "US",
+   "cadence": "2024-06 → 2026-09 去信 24 封；最后来信 2024-10-29",
+   "evidence": "k=3967a837c3bedff6 / 7f7e16f255ec5fae / 54932716b5166fad"
   },
-  "situation": "Johnson（ALFA）2024-08-15 回：请提供公司资料、非 PoE 与 PoE 的价格。Simon 当天报 2.5G 8 口 +1×10G SFP 非 PoE 50 USD / PoE 65 USD（Realtek 线），并附公司简介；对方静默。2025-07 Sandy Chien 回了一个「Thanks」。",
-  "need": "2.5G 家用/SMB 交换机（8×2.5G + 10G SFP）贴 ALFA 标。",
-  "breakpoint": "身份核验 + 价格两件事同时发生后停；台系品牌对大陆供应商的尽调门槛高。",
+  "situation": "Optiview 采购 Silvia 2024-10-29 两封：要 4 口/8 口工业 PoE 的规格书、要两款价格。Simon 次日一封「see attached information」（价格是否在附件内不可考）。此后无回。",
+  "need": "4/8 口工业 PoE（CCTV 批发 SKU）。",
+  "breakpoint": "采购员要的是「规格 + 价格 + 交期」三件套，回复只给了附件；无跟进问题。",
   "saga_now": {
-   "p1": "STC-18XGDGE（Saga 对外价 $50.1 EXW，`hrui_STC对照表`）/ STC-108XGDGP",
+   "p1": "STI-154GP（4 口）/ STI-288DGGPM 或非管理 8 口（按价格主表）",
    "tier": 30,
-   "price": "换人再触锚价 STC-18XGDGE $50.1 EXW（Saga 对外价 $50.1（hrui_STC对照表；研究档 P1 注）；第 72 批 2026-10-24）；按 30% 自有标档复核对外价；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-12-11 $300（48 Port PoE Managed Switch）、2025-01-06 $240（24 Port Fiber Switch）、2025-10-29 $280（10G Enterprise SFP Switch）、2026-09-08 $170（24 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2024-07-22 $65（10g fiber media converter）、2026-07-20 $1500（24 Port 10G SFP+ Switch）",
-   "why": "只保活。已打开的主题（8/26 封有打开记录）：「8 Port Ethernet Switch」(2024-10-24)、「90W PoE Managed Switch」(2025-02-20)、「16 Port Ethernet Switch」(2025-07-28)、「24 Port 10G SFP+ Switch」(2026-07-20) → 读者兴趣偏「2.5G」；与 P1 同类，继续",
+   "price": "按 30% 自有标档；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-06-25 $220（48 port managed switch）、2024-11-15 $300（Re: Industrial PoE Switch）、2025-08-27 $240（24 Port Fiber Switch）、2025-10-29 $280（10G Enterprise SFP Switch）、2026-09-08 $170（24 Port PoE Managed Switch）；**第 63 批基准统一（规则 ㉕）**：STI-154GP 列表价 $51.7 → 老表 $47（非管理工业线）；STI-288DGGPM $137.5 封顶保留；他 2026-09-08 收过 24 口 $170 群发——若谈到 STC-424XGGPM-280W 写 $180 并点明；群发里他已看到的价（续，第 66 批全量复核）：2026-07-20 $1500（24 Port 10G SFP+ Switch）；STI-154GP 文本价 $47（来源不明，任何价表无此数）→ $40.8（30% 档，主表；列表价 51.7）",
+   "why": "J2：补一封三件套。已打开的主题（2/24 封有打开记录）：「Re: Industrial PoE Switch」(2024-10-30)、「24 Port 10G SFP+ Switch」(2026-07-20) → 读者兴趣偏「工业」；与 P1 同类，继续｜已发资料（勿重发）：STI-244GP(2024-10-30)、STI-154GP(2024-10-30)、STI-288GP(2024-10-30)、Saga Software Function List-release 7.(2025-03-28)、Product Link_2026Q2(2026-03-02)；已发单据：Quotation(2024-10-30)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）",
    "repeat": [],
-   "gaps": []
+   "gaps": [
+    "2024-10-30 附件是否含价格"
+   ]
   },
   "next_move": {
-   "when": "2027-Q1",
-   "channel": "S 邮箱 → johnson@",
-   "action": "一句话问 2.5G 线是否仍外采（第 75 批(o) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用；换人/一问口径）；2.5G PoE 版（STC-108XGDGP）今价未核，信里写 on request）（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
-   "one_question": "Is the 8×2.5G + 10G SFP class still outsourced at ALFA, and what certification file do you need from a supplier before a sample? Reference: STC-18XGDGE at $50.1 USD EXW (MOQ 1, 15-day validity)."
+   "when": "2026-11",
+   "channel": "S 邮箱 → purchasing@optiviewusa.com（silvia.flores@ 2026-07-20 已「Address not found」，先问接替的采购是谁）",
+   "action": "先一句话问 purchasing@ 现在谁接 Silvia 的工作；再给三件套一页：4 口 / 8 口价格、交期、FCC（第 76 批(b) 2026-10-25：audit_ab 硬错误修正：STI-154GP $47 → $40.8）",
+   "one_question": "For your private-label PoE line, is the 4-port or the 8-port DIN unit the volume SKU, and what landed cost do you need to switch source?"
   },
   "facts": [
    {
-    "date": "2024-06-26",
-    "dir": "去",
-    "who": "S 箱（Simon）",
-    "quote": "Industrial poe switch",
-    "why": "首封去信（邮箱索引；去信共 26 封）",
-    "k": "c9f3259296f7e835"
-   },
-   {
-    "date": "2024-07-22",
-    "dir": "去",
-    "who": "S 箱（Simon）",
-    "quote": "10G fiber media converter｜稿内价 $65",
-    "why": "去信正文含价（邮箱索引）",
-    "k": "aeadae1ed076a531"
-   },
-   {
-    "date": "2024-07-22",
-    "dir": "去",
-    "who": "S 箱（Simon）报价",
-    "quote": "10G fiber media converter｜ $65（原句：Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unma）",
-    "why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
-    "k": "aeadae1ed076a531"
-   },
-   {
-    "date": "2024-08-15",
+    "date": "2024-10-29",
     "dir": "来",
-    "who": "Johnson（ALFA Network）",
-    "quote": "Please provide your company information. And what's the price for non-PoE and PoE model.",
-    "why": "核验 + 询价",
-    "k": "a3c986b6ffa372aa"
+    "who": "Silvia Flores（Purchasing Agent）",
+    "quote": "Could you please send me the specifications (data sheet) for both the 4-port and 8-port versions?",
+    "why": "规格",
+    "k": "3967a837c3bedff6"
    },
    {
-    "date": "2024-08-15",
+    "date": "2024-10-29",
+    "dir": "来",
+    "who": "Silvia",
+    "quote": "Also, provide us with the prices for both models",
+    "why": "价格",
+    "k": "7f7e16f255ec5fae"
+   },
+   {
+    "date": "2024-10-30",
     "dir": "去",
     "who": "Simon",
-    "quote": "non-PoE model, 50Usd/pc STC-18XGDGE… PoE model, 65usd/pc STC-108XGDGP… Company information Please see attached profile",
-    "why": "报价",
-    "k": "1d7b74c6c5e4034f"
-   },
-   {
-    "date": "2024-08-15",
-    "dir": "去",
-    "who": "S 箱（Simon）",
-    "quote": "Re: 2.5G network switch｜稿内价 $50",
-    "why": "去信正文含价（邮箱索引）",
-    "k": "1d7b74c6c5e4034f"
-   },
-   {
-    "date": "2024-08-15",
-    "dir": "来",
-    "who": "johnson@alfa.com.tw",
-    "quote": "RE: 2.5G network switch｜Hello, Simon     Please provide your company information.   And what’s the price for non-PoE and PoE model.  Thank you     Johnson ALFA NETWORK Inc. W",
-    "why": "来信（邮箱索引；原文见 k；是否人工回复以原文为准）",
-    "k": "a3c986b6ffa372aa"
-   },
-   {
-    "date": "2024-08-15",
-    "dir": "去",
-    "who": "S 箱（Simon）报价",
-    "quote": "Re: 2.5G network switch｜STC-18XGDGE $50（原句：non-PoE model, 50Usd/pc）",
-    "why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
-    "k": "1d7b74c6c5e4034f"
-   },
-   {
-    "date": "2024-08-15",
-    "dir": "去",
-    "who": "S 箱（Simon）报价",
-    "quote": "Re: 2.5G network switch｜STC-18XGDGE $65（原句：PoE model, 65usd/pc）",
-    "why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
-    "k": "1d7b74c6c5e4034f"
-   },
-   {
-    "date": "2024-12-11",
-    "dir": "去",
-    "who": "S 箱（Simon）报价",
-    "quote": "48 Port PoE Managed Switch｜ $300（原句：*Price is very competitive, 300usd/pc*）",
-    "why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
-    "k": "f8d0149031fb24a1"
-   },
-   {
-    "date": "2025-01-06",
-    "dir": "去",
-    "who": "S 箱（Simon）",
-    "quote": "24 Port Fiber Switch｜稿内价 $240",
-    "why": "去信正文含价（邮箱索引）",
-    "k": "fd39a313fd38118a"
-   },
-   {
-    "date": "2025-01-06",
-    "dir": "去",
-    "who": "S 箱（Simon）报价",
-    "quote": "24 Port Fiber Switch｜ $240（原句：Price: 240usd/pc）",
-    "why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
-    "k": "fd39a313fd38118a"
-   },
-   {
-    "date": "2025-07-28",
-    "dir": "来",
-    "who": "sandy_chien@alfa.com.tw",
-    "quote": "Thanks With Best Regards, SANDY CHIEN 誠釱科技股份有限公司 台北市114內湖區瑞光路106號4樓之1 TEL: (02)2796-8477 # 332 FAX: (02)2796-8478 Web: www.alfa.com.tw <https://apc01.",
-    "why": "来信原文（主题「Re: 16 Port Ethernet Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
-    "k": "f8c4407a865d3647"
-   },
-   {
-    "date": "2025-07-28",
-    "dir": "来",
-    "who": "sandy_chien@alfa.com.tw",
-    "quote": "Re: 16 Port Ethernet Switch｜Thanks With Best Regards,   SANDY CHIEN  誠釱科技股份有限公司 台北市114內湖區瑞光路106號4樓之1 TEL: (02)2796-8477 # 332 FAX: (02)2796-8478 Web: www.alfa.com.tw <https://apc",
-    "why": "来信（邮箱索引；原文见 k；是否人工回复以原文为准）",
-    "k": "f8c4407a865d3647"
-   },
-   {
-    "date": "2025-10-29",
-    "dir": "去",
-    "who": "S 箱（Simon）报价",
-    "quote": "10G Enterprise SFP Switch｜ $280（原句：It is a price-competitive aggregation switch(280usd/pc)）",
-    "why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
-    "k": "2cc3b444c4714d74"
+    "quote": "Please see attached information and let me know.",
+    "why": "回复后停",
+    "k": "54932716b5166fad"
    },
    {
     "date": "2026-07-20",
-    "dir": "去",
-    "who": "S 箱（Simon）报价",
-    "quote": "24 Port 10G SFP+ Switch｜ $1500（原句：*Price: 1500USD/PC*）",
-    "why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
-    "k": "b6adec4516d15445"
-   },
-   {
-    "date": "2026-09-08",
-    "dir": "去",
-    "who": "S 箱（Simon）",
-    "quote": "24 Port PoE Managed Switch",
-    "why": "最近一封去信（邮箱索引；去信共 26 封）",
-    "k": "416daea2221fc20d"
-   },
-   {
-    "date": "2026-09-08",
-    "dir": "去",
-    "who": "S 箱（Simon）报价",
-    "quote": "24 Port PoE Managed Switch｜ $170（原句：*Price: 170USD/PC*）",
-    "why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
-    "k": "416daea2221fc20d"
+    "dir": "内",
+    "who": "Gmail 退信（S 邮箱）",
+    "quote": "silvia.flores@optiviewusa.com 永久退信：** Address not found ** ** Address not found ** Your message wasn't delivered to silvia.flores@optiviewusa.com because t",
+    "why": "该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职",
+    "k": "gmail_s 2c8ed94835972a47"
    }
   ],
   "proof_gaps": [],
   "draft_en": {
-   "subject": "The 2.5G models we quoted in August 2024 - still bought in?",
-   "body": "Hi Johnson,\n\nIn August 2024 you asked for our company information and prices for the 8 x 2.5G + 10G SFP+ models, and we quoted $50 non-PoE / $65 PoE. Since then only general product mails from us - no reason to answer those.\n\nThe non-PoE unit (1 x 10G SFP+ + 8 x 2.5G, desktop, unmanaged) is $50.1 USD EXW today (MOQ 1, 15-day validity); the PoE version I re-quote on request. Next to the APS08G, a managed 8 x Gigabit PoE+ + 2 x SFP in ALFA packing, Marvell-based, is $87.4.\n\nOne question: is the 2.5G line still bought in, and is the non-PoE or the PoE version the one that moves?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+   "subject": "4-port and 8-port industrial PoE — spec, price, lead time",
+   "body": "Hi, Silvia,\n\nIn October 2024 you asked for data sheets and prices for the 4-port and 8-port industrial PoE units and we sent the attachments without the three things a buyer actually needs in the body. Here they are:\n\n- STI-154GP: 4x GbE PoE + 1x SFP + 1x GbE uplink, 120 W, DIN, -40 to +75 C — $40.8 USD EXW\n- STI-288DGGPM: 8x GbE PoE + 2x SFP, L2+ managed, DIN, -40 to +75 C — $137.5 USD EXW\n(2026-10 price table, valid 15 days from this mail)\n- Lead time: 4-7 working days ex-works; private label (Optiview logo, model name, GUI) from 50 pcs.\n\nOne question: for your private-label PoE line, is the 4-port or the 8-port DIN unit the volume SKU, and what landed cost would make you switch source?\n\nThank you.\nSimon\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
- },
- "kp": [
-  {
-   "name": "Johnson Wang",
-   "role": "来信署名人（职务未在邮件署名里出现）",
-   "email": "johnson@alfa.com.tw",
-   "phone": "",
-   "source": "S/A 邮箱来信 2024-08-15 来信 1 封（署名 ALFA Network Inc.）（第 72 批从邮件表头补）"
-  }
- ]
+ }
 }

@@ -1,134 +1,125 @@
 {
  "code": "SB-322",
- "name_official": "",
+ "name_official": "BlackBear TechHive（BlackBear Cyber Security）",
  "researched_at": "2026-10-21",
- "website_status": "在线（meridian-tech.com，快照 2026-10-21）",
- "summary": "美国 Meridian Technologies（光纤传输系统公司：视频/数据/音频光端机、分路器/交换机/复用器配件；表内「工业 FS / MC / VC（较多）自己的牌子，很多公司卖他们的产品」；KP Denise Shay（dshay@））；群发 20 次无回复。",
- "type": "光纤传输系统自有品牌商（美国，OEM 采购）",
+ "website_status": "在线（blackbear-ics.com，快照 2026-10-21）",
+ "summary": "工业网络安全（单向网闸 / 数据二极管 DD9000、BIG9000，公用事业关键基础设施防护）公司，President Takashi Eki（易傑，日本人，会中文），产品台湾生产（站内邮箱含 Atop），韩国有代理，SECON 2023 问 Saga 是否做 OEM/ODM；33 次跟进无实质回复。",
+ "type": "",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Atop"
+ ],
  "evidence": [
   {
    "kind": "官网快照",
-   "claim": "官网标题：Meridian Technologies - fiber optic transmission systems company；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 光纤 / 媒体转换 / 网络交换 / PoE",
-   "quote": "meridian-technologies",
-   "url": "https://meridian-tech.com/",
+   "claim": "工业网络安全 / 关键基础设施防护；型号 DD9000、BIG9000；多语言（中/日/西）；站内邮箱含 dewa@atop.com.tw",
+   "quote": "BlackBear Cyber Security: Unbreakable networks, critical infrastructure protection. Ideal solution for utilities' industrial cybersecurity… models DD9000, BIG9000… emails dewa@atop.com.tw",
+   "url": "https://blackbear-ics.com/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "工业FS MC VC(较多)自己的牌子 很多公司卖他们的产品",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "Meridian 定位",
-   "quote": "Meridian Technologies - fiber optic transmission systems company ; /products/accessories/splitters-switches-mux-demux",
-   "url": "https://meridian-tech.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "工业 FS MC VC 自己的牌子",
-   "quote": "工业FS MC VC(较多)自己的牌子 很多公司卖他们的产品",
+   "claim": "日本人会中文；POE switch；韩国有代理商；产品在台湾生产；问了是否有 OEM ODM",
+   "quote": "兴趣：日本的，会中文，POE switch，在韩国有代理商，产品在台湾生产，问了我们是否有OEM ODM",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
  "kp": [
   {
-   "name": "Denise Shay",
-   "title": "（表内联系人，职务待核）",
-   "email": "dshay@meridian-tech.com",
-   "phone": "",
-   "source": "用户表"
+   "name": "Takashi Eki（易傑）",
+   "title": "President",
+   "email": "eki@blackbear-ics.com",
+   "phone": "+81 90 8493 5120",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
   }
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（官网快照核对：OEM 意向）"
  },
  "company_facts": {
-  "hq": "美国",
-  "other": "官网 meridian-tech.com，语言 ?，快照状态 ok；角色判定来源：用户表"
+  "legal_name": "BlackBear TechHive（待核：台湾 / 日本）",
+  "founded": "（待核）",
+  "hq": "台湾（生产）/ 日本（+81 3 4530 3390）",
+  "size": "小型安全设备商",
+  "other": "Atop 代工关联"
  },
  "business_lines": [
-  "光纤传输系统（自有品牌 Meridian：VC / 工业 FS / MC）"
+  "工业网络安全设备（数据二极管 / 网闸）",
+  "配套 PoE / 工业交换机（OEM 采购）"
  ],
  "channels": {
-  "role": "光纤传输系统自有品牌商（美国，OEM 采购）",
-  "region": "美国",
-  "contact": "sales@meridian-tech.com、dshay@meridian-tech.com"
+  "role": "设备品牌商（OEM/ODM 采购）",
+  "region": "日本 / 韩国 / 台湾 / 拉美"
  },
  "signals": [
-  "官网：Meridian Technologies - fiber optic transmission systems company；页面 /products/accessories/splitters-switches-mux-demux、/news/new-products；kw fiber 45 / switch 17",
-  "表内：工业 FS MC VC（较多）自己的牌子 很多公司卖他们的产品"
+  "主动问 OEM/ODM → 配套工业 PoE 可贴 BlackBear 标",
+  "中文沟通无障碍"
  ],
  "risks": [
-  "主业 VC 光端机（Saga 不做）：交换机/MC 为副线",
-  "20 次无回复 → 改向 Denise Shay 具名首触（职务待核）"
+  "公用事业关键基础设施客户（守界：仅供配套交换机，不涉军政）",
+  "33 次跟进无回复"
  ],
  "saga_fit": {
   "p1": "STI-288GPM",
   "tier": 30,
-  "why": "自有 Meridian 标工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ 非管理 STI-288GP 贴标；MC 位 STI-110GE（$24.3）；VC（光端机）Saga 不做"
+  "why": "配套工业管理 PoE → STI-288GPM（$85.5 @30%）贴 BlackBear 标；OEM 口径。"
  },
- "email_hook": "Denise, for the industrial switches and media converters you offer under the Meridian label alongside your video-over-fibre range, we can be a second ODM source (DIN-rail 8-PoE + 2 SFP managed on Marvell L2+, or unmanaged, gigabit MC) from small lots in your housing, FCC/CE/RoHS — which model do your dealers reorder most?",
+ "email_hook": "易傑先生，您在 SECON 问过我们是否做 OEM/ODM —— 是的：工业 2 光 8 PoE 管理机（Marvell，-40~75 ℃）可贴 BlackBear 标、小批量起订；请问配套贵司网闸的交换机需要几个端口、是否要 BT 大功率？",
  "mail_review": {
   "binding": {
-   "level": "读而不回（A/S 邮箱 31 封 2024→2026，其中 2 封被打开，0 回；收件 dshay@meridian-tech.com, sales@meridian-tech.com；被打开主题「Marvell Industrial Alert System、10G Enterprise SFP Switch」；Elsa 箱：`to:meridian-tech.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 31 / 来 0）（第 74 批(h)））",
-   "type": "光纤传输系统自有品牌商（美国，OEM 采购）",
-   "sieve": "2（有人在读，无人回）",
-   "stop": "读而不回 = 内容未命中或没有当下需求",
-   "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
-   "lane": "US 主攻（四主）",
-   "cadence": "一封；回了再说",
-   "evidence": "gmail_digest：out 31，Opened 标签 2（Simon 群发追踪）；用户表：「工业FS MC VC(较多)自己的牌子 很多公司卖他们的产品」；研究档 risks：主业 VC 光端机（Saga 不做）：交换机/MC 为副线"
+   "level": "未触达（A/S 邮箱 34 封 2024→2026，1 次记录打开，0 回；收件 eki@blackbear-ics.com；主题多为「90W PoE Managed Switch、Managed Optical Bypass Switch」；Elsa 箱：`to:blackbear-ics.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 34 / 来 0）（第 74 批(n)））",
+   "type": "—",
+   "sieve": "1~2（1 次打开）",
+   "stop": "34 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+   "lane": "KR 次级（点名）",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 34，Opened 标签 1（Simon 群发追踪）；用户表：「兴趣：日本的，会中文，POE switch，在韩国有代理商，产品在台湾生产，问了我们是否有OEM ODM」；研究档 risks：公用事业关键基础设施客户（守界：仅供配套交换机，不涉军政）"
   },
-  "situation": "美国 Meridian Technologies（光纤传输系统公司：视频/数据/音频光端机、分路器/交换机/复用器配件；表内「工业 FS / MC / VC（较多）自己的牌子，很多公司卖他们的产品」；KP Denise Shay（dshay@））；群发 20 次无回复。",
-  "need": "自有 Meridian 标工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ 非管理 STI-288GP 贴标；MC 位 STI-110GE（$24.3）；VC（光端机）Saga 不做",
-  "breakpoint": "主业 VC 光端机（Saga 不做）：交换机/MC 为副线",
+  "situation": "工业网络安全（单向网闸 / 数据二极管 DD9000、BIG9000，公用事业关键基础设施防护）公司，President Takashi Eki（易傑，日本人，会中文），产品台湾生产（站内邮箱含 Atop），韩国有代理，SECON 2023 问 Saga 是否做 OEM/ODM；33 次跟进无实质回复。",
+  "need": "配套工业管理 PoE → STI-288GPM（$85.5 @30%）贴 BlackBear 标；OEM 口径。",
+  "breakpoint": "公用事业关键基础设施客户（守界：仅供配套交换机，不涉军政）",
   "saga_now": {
    "p1": "STI-288GPM",
    "tier": 30,
-   "price": "首触锚价 STI-288GPM $85.5 EXW（主表档位（PDF 上限 $88；SA-026 2025-07 实报 $72 为分销量价）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-21 $300（48 Port PoE Managed Switch）、2025-01-31 $65（10G Media Converter）；群发里他已看到的价（续）：2026-07-27 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-08 $280（10G Enterprise SFP Switch）",
-   "why": "自有 Meridian 标工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ 非管理 STI-288GP 贴标；MC 位 STI-110GE（$24.3）；VC（光端机）Saga 不做。已打开的主题（2/31 封有打开记录）：「90W PoE Managed Switch」(2025-01-02)、「OEM Core Switching Solution」(2026-01-07) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-02-26)、Saga Feature List_7.5.x_L2+(2026-06-30)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）",
+   "price": "换人再触锚价 STI-288GPM $85.5 EXW（主表档位（PDF 上限 $88；SA-016 2025-07 实报 $72 为分销量价）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-07 $65（10G media converter）、2025-01-07 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-09-03 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-07-18 $300（48 Port PoE Managed Switch）、2025-09-26 $280（10G Enterprise SFP Switch）、2026-06-23 $16000（32 Port 400GB DC Switch）",
+   "why": "配套工业管理 PoE → STI-288GPM（$85.5 @30%）贴 BlackBear 标；OEM 口径。已打开的主题（1/34 封有打开记录）：「Marvell Industrial Alert System」(2025-06-04) → 读者兴趣偏「工业」；与 P1 同类，继续",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "2026-11",
-   "channel": "A 邮箱 → dshay@meridian-tech.com",
-   "action": "短信一问（email_hook）",
-   "one_question": "Denise, for the industrial switches and media converters you offer under the Meridian label alongside your video-over-fibre range, we can be a second ODM source (DIN-rail 8-PoE + 2 SFP managed on Marvell L2+, or unmanaged, gigabit MC) from small lots in your housing, FCC/CE/RoHS — which model do your dealers reorder most? Reference: STI-288GPM at $85.5 USD EXW (MOQ 1, 15-day validity)."
+   "when": "2027-Q1（换人后）",
+   "channel": "A 邮箱 → 具名 KP",
+   "action": "换收件人再发一封（第 75 批(ae) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用；KC stays on your side）；SECON OEM 问题「欠答」开头；中文钩子改英文稿）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
+   "one_question": "易傑先生，您在 SECON 问过我们是否做 OEM/ODM —— 是的：工业 2 光 8 PoE 管理机（Marvell，-40~75 ℃）可贴 BlackBear 标、小批量起订；请问配套贵司网闸的交换机需要几个端口、是否要 BT 大功率？ Reference: STI-288GPM at $85.5 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
    {
-    "date": "2026-09-28",
+    "date": "2026-10-01",
     "dir": "去",
     "who": "A/S 群发",
-    "quote": "Marvell Industrial Alert System、10G Enterprise SFP Switch",
-    "why": "31 封 / 2 次打开 / 0 回｜首封 2024-06-25 → 末封 2026-09-28（31 去 / 0 来）",
+    "quote": "90W PoE Managed Switch、Managed Optical Bypass Switch",
+    "why": "34 封 / 1 次打开 / 0 回｜首封 2024-07-09 → 末封 2026-10-01（34 去 / 0 来）",
     "k": "gmail_digest"
    },
    {
     "date": "2026-10-21",
     "dir": "用户表",
     "who": "Simon",
-    "quote": "工业FS MC VC(较多)自己的牌子 很多公司卖他们的产品",
+    "quote": "兴趣：日本的，会中文，POE switch，在韩国有代理商，产品在台湾生产，问了我们是否有OEM ODM",
     "why": "表内备注",
     "k": "用户表"
    }
   ],
   "proof_gaps": [],
   "draft_en": {
-   "subject": "One question — Marvell Industrial Alert System",
-   "body": "Hi Denise,\n\nWe have sent you a few mails on \"Marvell Industrial Alert System\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor the industrial switches and media converters you offer under the Meridian label alongside your video-over-fibre range, we can be a second ODM source (DIN-rail 8-PoE + 2 SFP managed on Marvell L2+, or unmanaged, gigabit MC) from small lots in your housing, FCC/CE/RoHS — which model do your dealers reorder most?\n\nReference price: DIN-rail 8-PoE + 2 SFP L2 managed industrial switch, 240 W (STI-288GPM) $85.5 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+   "subject": "Your SECON question - yes, we do OEM/ODM; the industrial PoE switch next to your data diodes",
+   "body": "Dear Mr. Eki,\n\nAt SECON you asked whether we do OEM/ODM, and the mails you had from us since were general product mails rather than an answer - so, the answer: yes. For the industrial switch that sits next to your DD9000 / BIG9000 units, under the BlackBear label from small lots, -40 to 75 C, CE/RoHS: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, L2 managed, Marvell-based - model STI-288GPM - $85.5 USD EXW (MOQ 1, 15-day validity); the L2+ version with ring redundancy - STI-288DGGPM - $137.5; 802.3bt ports on request. Standard industrial units - no security-product claims. KC for the Korean channel stays on your side. Happy to continue in Chinese if easier.\n\nOne question: how many ports does the switch next to the diode need, and is 802.3bt power required?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
  }

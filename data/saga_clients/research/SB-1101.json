@@ -1,125 +1,202 @@
 {
- "code": "SB-1101",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（integrated-ps.com，快照 2026-10-21）",
- "summary": "埃及 IPS – Integrated Premium Solutions（安防与业务方案集成：CCTV、门禁、自动化、证卡打印机（Edikio/Agilia）、BENTSAI 手持喷码；自建站询盘「4V1D 1080P」；KP Ahmed）；表内未跟进。",
- "type": "安防/业务方案集成商（埃及）",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：IPS – Integrated Premium Solutions；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络",
-   "quote": "We protect your property, enhance service, improve safety & security；What We Do?；Introducing Our New Solution；Digital Signature Pad；Edikio Card Printer；Agilia Card Printer",
-   "url": "https://integrated-ps.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "4V1D 1080P / from: 自建站",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "IPS 定位",
-   "quote": "IPS – Integrated Premium Solutions ; We protect your property, enhance service, improve safety & security",
-   "url": "https://integrated-ps.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "4V1D 1080P 自建站询盘",
-   "quote": "4V1D 1080P / from: 自建站",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Ahmed",
-   "title": "（职务待核）",
-   "email": "ahmed@integrated-ps.com",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "埃及",
-  "other": "官网 integrated-ps.com，语言 en-US，快照状态 ok；角色判定来源：官网文案"
- },
- "business_lines": [
-  "安防 / 门禁 / 业务方案集成（埃及）"
- ],
- "channels": {
-  "role": "安防/业务方案集成商（埃及）",
-  "region": "埃及",
-  "contact": "ahmed@integrated-ps.com"
- },
- "signals": [
-  "官网：IPS – Integrated Premium Solutions ; We protect your property, enhance service, improve safety & security ; Edikio Card Printer ; BENTSAI Inkjet Printer；kw camera 33 / access control 23 / automation 25",
-  "表内：4V1D 1080P / from: 自建站；KP Ahmed"
- ],
- "risks": [
-  "非主攻区（T5，埃及）；询盘品类（4V1D 1080P 视频光端机）Saga 不供；未跟进过"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 25,
-  "why": "CCTV/门禁配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424DGGPM-280W（$140.1）；4V1D 视频光端机 Saga 不供"
- },
- "email_hook": "Ahmed, following your enquiry on our site: for the PoE switches behind your camera and access-control installations we supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ models from single units, CE/RoHS, EXW USD — which port count does your current project need?",
- "mail_review": {
-  "binding": {
-   "level": "未发信（S/A 邮箱均无往来；来源：用户表「4V1D 1080P / from: 自建站」；Elsa 箱：`to:integrated-ps.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(n)））",
-   "type": "安防/业务方案集成商（埃及）",
-   "sieve": "—（未入筛）",
-   "stop": "从未触达",
-   "revive": "不动（非主攻区；J5：有证据再动）",
-   "lane": "埃及 非主攻",
-   "cadence": "不动",
-   "evidence": "gmail_digest：out 0；用户表：「4V1D 1080P / from: 自建站」；研究档 risks：非主攻区（T5，埃及）；询盘品类（4V1D 1080P 视频光端机）Saga 不供；未跟进过"
-  },
-  "situation": "埃及 IPS – Integrated Premium Solutions（安防与业务方案集成：CCTV、门禁、自动化、证卡打印机（Edikio/Agilia）、BENTSAI 手持喷码；自建站询盘「4V1D 1080P」；KP Ahmed）；表内未跟进。",
-  "need": "CCTV/门禁配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424DGGPM-280W（$140.1）；4V1D 视频光端机 Saga 不供",
-  "breakpoint": "非主攻区（T5，埃及）；询盘品类（4V1D 1080P 视频光端机）Saga 不供；未跟进过",
-  "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 25,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "CCTV/门禁配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424DGGPM-280W（$140.1）；4V1D 视频光端机 Saga 不供",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—",
-   "one_question": ""
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "4V1D 1080P / from: 自建站",
-    "why": "表内备注",
-    "k": "用户表"
-   }
+  "code": "SB-1101",
+  "name_official": "Power Logic（巴基斯坦；Waseem Shah，gmail）",
+  "researched_at": "2026-10-21",
+  "website_status": "无域名（gmail）",
+  "summary": "巴基斯坦联系人 Waseem Shah（powerlogic1965@gmail），要目录，2025-02 对 2 光 2 电 mini 回复「need info to promote」= 想代推；身份不明。",
+  "type": "",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "用户表",
+      "claim": "兴趣 catalog；2025-02 22 迷你→need info to promote...",
+      "quote": "回复：need info to promote...",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [
-   "无邮件往来"
+  "kp": [
+    {
+      "name": "Waseem Shah",
+      "title": "（表内联系人）",
+      "email": "powerlogic1965@gmail.com",
+      "phone": "",
+      "source": "（本地 Clients/ 表格，无公开 URL）"
+    }
   ],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "无域名 · 仅表内信息"
+  },
+  "company_facts": {
+    "legal_name": "（待核，Power Logic？）",
+    "founded": "",
+    "hq": "巴基斯坦",
+    "size": "",
+    "other": "gmail"
+  },
+  "channels": {
+    "role": "（疑经销 / 代推）",
+    "region": "巴基斯坦"
+  },
+  "risks": [
+    "身份不明；只要资料推广"
+  ],
+  "saga_fit": {
+    "p1": "STI-220GE",
+    "tier": 25,
+    "why": "其回应的 2 光 2 电 mini → STI-220GE。"
+  },
+  "email_hook": "Waseem, to promote the mini industrial switch you'll need the datasheet and dealer price — which customers would you pitch it to (CCTV installers, ISPs, factories)? I'll send the matching pack.",
+  "mail_review": {
+    "binding": {
+      "level": "轻度触达（2024-05-24 Waseem「send me your website」→ Drive 链接；2025-02-28 Elsa 邮箱再回「no need sample… we promote your product in Pakistan」= 想做推广不是买）；Elsa 1:1 去信 9 轮 2025-02-28→2026-08-04（To 仅本户 powerlogic1965@gmail.com；头 msg 19fcc129f517e2e1 核对无 Bcc，称呼「Hi, Waseem」= 个性化逐月 1:1 名单；主题 Updated Ethernet Switches Links、Industrial PoE Switch、10G Enterprise SFP Switch、24 Port PoE Managed Switch…；客户来过信：Elsa 回 2025-04-08 Re:「Mini Industrial PoE Switch」）（第 74 批(m) `from:e.sagatelecom to:` 全程 complete，直收 10 条）",
+      "type": "巴基斯坦电源/工程（Power Logic；Gmail）",
+      "sieve": "1",
+      "stop": "—",
+      "revive": "不动",
+      "lane": "PK",
+      "cadence": "不动",
+      "evidence": "k=53639b11bc8d96b5；第 19 批回补来信原文 1 条（gmail_s/gmail_a）；gmail_e 2025-02-28 回信 + Elsa 2025-04-08 再回（正文已入库，第 73 批：只给下载链接）"
+    },
+    "situation": "—",
+    "need": "—",
+    "breakpoint": "—",
+    "saga_now": {
+      "p1": "—",
+      "tier": 20,
+      "price": "—；群发里他已看到的价（续，第 66 批全量复核）：2024-09-30 $65（10G Media Converter）、2024-12-05 $300（48 Port PoE Managed Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-05-11 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2026-05-11；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-08-04 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-04；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
+      "why": "已打开的主题（4/9 封有打开记录）：「Industrial Ethernet Switch」(2024-05-22)、「Re: Industrial Ethernet Switch」(2024-05-25)、「Re: Industrial Ethernet Switch」(2024-06-30)、「Re: Industrial Ethernet Switch」(2024-07-31) → 读者兴趣偏「工业」；与 P1 同类，继续",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "不动",
+      "channel": "—",
+      "action": "首封前知悉：Elsa 已 1:1 去信 9 轮（2025-02-28→2026-08-04，客户回过信（2025-04-08））（第 74 批(m)）；—",
+      "one_question": ""
+    },
+    "facts": [
+      {
+        "date": "2024-05-24",
+        "dir": "来",
+        "who": "powerlogic1965@gmail.com",
+        "quote": "hello good morning thankyou for the email . please send me your website i want to see what product you are making very best regard waseem zafar",
+        "why": "来信原文（主题「Re: Industrial Ethernet Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+        "k": "53639b11bc8d96b5"
+      },
+      {
+        "date": "2024-05-25",
+        "dir": "去",
+        "who": "Saga（Simon）",
+        "quote": "Hi, Waseem, Please see below link. *https://drive.google.com/drive/folders/10pI-PIGftC6UVEngjg_cLlC8-X14fA9A?usp=drive_link* <https://drive.google.com/drive/folders/10pI-PIGftC6UVEngjg_cLlC8-X14fA9A?usp=drive_link> In the *PROFILE*, there are some download links(on page 13). It contains FULL informa…",
+        "why": "Saga 实质答复原文（主题「Re: Industrial Ethernet Switch」；第 20 批从 gmail_s 回补）——承诺/口径以此为准",
+        "k": "e8ccb44bae99d13f"
+      },
+      {
+        "date": "2025-02-28",
+        "dir": "来",
+        "who": "Wasim Zafar / Waseem Shah（FM Electric Company，巴基斯坦；powerlogic1965@gmail.com）",
+        "quote": "Right now no need sample. We requested to you if you want we promote your product in Pakistan it's owned for us. First of all please guide us your product function and how to used it. Then we introduced your product to our clients",
+        "why": "Elsa 邮箱 2025-02-28「Mini Industrial PoE Switch」群发的回信：不是买家，是想做巴基斯坦推广/代理、要先学产品；Elsa 04-08 再回（正文未入库）。与 2024-05「send me your website」一致 = 两次都停在「给我资料」。用户表「有回复·跟进中」的来源就是这两封；没有任何询价/数量 → 维持不动，除非他报出一个具体项目",
+        "k": "gmail_e index_replied 2025-02-28 / 2025-04-08"
+      },
+      {
+        "date": "2025-02-28",
+        "dir": "out",
+        "who": "Elsa → powerlogic1965@gmail.com",
+        "quote": "Mini Industrial PoE Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+        "why": "本户在 Elsa 的 1:1 名单里；之后 Elsa 箱 Replied 标签见 2025-02-28 来信",
+        "k": "elsa_1to1",
+        "msg_id": "1954aecfd9609f11"
+      },
+      {
+        "date": "2025-04-08",
+        "dir": "去",
+        "who": "Elsa",
+        "quote": "Please see attached download link file. Each link contains full information about our products. Please check and let me know the interested models.（附 Download Link.pdf + MINI.png）",
+        "why": "对 02-28「想做推广不是买」隔 39 天只回下载链接 → 无下文；不动不变",
+        "k": "gmail_e 19614d7a8d5db131"
+      },
+      {
+        "date": "2025-05-12",
+        "dir": "out",
+        "who": "Elsa → powerlogic1965@gmail.com",
+        "quote": "16 Port Ethernet Switch（Elsa 1:1 逐月名单第 2/9 轮；To 仅本户）",
+        "why": "第 74 批(m) `from:e.sagatelecom to:powerlogic1965@gmail.com` 全程 complete：9 轮直收；客户曾来信（见 Re: 行）",
+        "k": "elsa_1to1",
+        "msg_id": "196c3668d7f50bcd"
+      },
+      {
+        "date": "2025-06-22",
+        "dir": "out",
+        "who": "Elsa → powerlogic1965@gmail.com",
+        "quote": "8 Port Industrial PoE Switch（Elsa 1:1 逐月名单第 3/9 轮；To 仅本户）",
+        "why": "第 74 批(m) `from:e.sagatelecom to:powerlogic1965@gmail.com` 全程 complete：9 轮直收；客户曾来信（见 Re: 行）",
+        "k": "elsa_1to1",
+        "msg_id": "1979638e2101cb76"
+      },
+      {
+        "date": "2025-12-04",
+        "dir": "out",
+        "who": "Elsa → powerlogic1965@gmail.com",
+        "quote": "Booster PoE Switch（Elsa 1:1 逐月名单第 4/9 轮；To 仅本户）",
+        "why": "第 74 批(m) `from:e.sagatelecom to:powerlogic1965@gmail.com` 全程 complete：9 轮直收；客户曾来信（见 Re: 行）",
+        "k": "elsa_1to1",
+        "msg_id": "19ae8291c87941ef"
+      },
+      {
+        "date": "2025-12-29",
+        "dir": "out",
+        "who": "Elsa → powerlogic1965@gmail.com",
+        "quote": "Marvell Industrial Alert System（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+        "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
+        "k": "elsa_1to1",
+        "msg_id": "19b693156c34b0f3"
+      },
+      {
+        "date": "2026-03-02",
+        "dir": "out",
+        "who": "Elsa → powerlogic1965@gmail.com",
+        "quote": "Updated Ethernet Switches Links（Elsa 1:1 逐月名单第 6/9 轮；To 仅本户）",
+        "why": "第 74 批(m) `from:e.sagatelecom to:powerlogic1965@gmail.com` 全程 complete：9 轮直收；客户曾来信（见 Re: 行）",
+        "k": "elsa_1to1",
+        "msg_id": "19cadf6362f58fc8"
+      },
+      {
+        "date": "2026-04-03",
+        "dir": "out",
+        "who": "Elsa → powerlogic1965@gmail.com",
+        "quote": "Industrial PoE Switch（Elsa 1:1 逐月名单第 7/9 轮；To 仅本户）",
+        "why": "第 74 批(m) `from:e.sagatelecom to:powerlogic1965@gmail.com` 全程 complete：9 轮直收；客户曾来信（见 Re: 行）",
+        "k": "elsa_1to1",
+        "msg_id": "19d5248dd7612eb0"
+      },
+      {
+        "date": "2026-05-11",
+        "dir": "out",
+        "who": "Elsa → powerlogic1965@gmail.com",
+        "quote": "10G Enterprise SFP Switch（Elsa 2026 年 1:1 名单重发；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
+        "why": "本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无）",
+        "k": "elsa_1to1",
+        "msg_id": "19e1643c261fdf64"
+      },
+      {
+        "date": "2026-08-04",
+        "dir": "out",
+        "who": "Elsa → powerlogic1965@gmail.com",
+        "quote": "24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 9/9 轮；To 仅本户；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f）",
+        "why": "第 74 批(m) `from:e.sagatelecom to:powerlogic1965@gmail.com` 全程 complete：9 轮直收；客户曾来信（见 Re: 行）",
+        "k": "elsa_1to1",
+        "msg_id": "19fcc129f517e2e1"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

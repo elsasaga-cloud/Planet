@@ -1,136 +1,123 @@
 {
  "code": "SB-301",
- "name_official": "",
+ "name_official": "Ebatek Bilişim Teknolojileri（Gaziantep, TR；ebatek.com）",
  "researched_at": "2026-10-21",
- "website_status": "在线（andcorp.com.au，快照 2026-10-21）",
- "summary": "澳大利亚 Andcorp / Yamasaki OT（andcorp.com.au / yamasakiot.com：Utepo 工业 FS、SFP、自有 logo MC、OEO、国内工业 FS（博客「how to use a media converter」）；表内「可以多跟进一下」；KP Philip Anderson（CEO）、Gautam Bohra（Owner））；群发 45 次无回复。",
- "type": "网络/光纤配件品牌商（澳大利亚，Utepo + 自有标 MC）",
+ "website_status": "在线",
+ "summary": "加济安泰普的 IT 方案商 Ebatek Bilişim（2005 年成立；软件产品 + 电脑/耗材供应 + 咨询培训；为公共与私营机构做 MIS 项目的系统分析/设计/应用开发；İncilipınar Mh. 36001 Nolu Sk. Emir İş Merkezi No:8/B Şehitkamil；+90 342 215 13 22；info@ebatek.com）。ISAF 记录：S. Coşkun Balkış——没做过多交谈，拿了彩页，让用 WhatsApp 联系；无后续跟进。",
+ "type": "",
  "size": "",
- "brands_seen": [
-  "Utepo"
- ],
+ "brands_seen": [],
  "evidence": [
   {
-   "kind": "官网快照",
-   "claim": "官网标题：andcorp.com.au",
-   "quote": "",
-   "url": "https://andcorp.com.au/",
+   "kind": "官网",
+   "claim": "公司定位与地址",
+   "quote": "Ebatek Bilişim Teknolojileri, 2005'te Gaziantep'te kurulmuş olup bilgisayar ve bilişim konusunda faaliyet gösterirken aynı zamanda kendi yazılım ürünleri, bilgisayar sarf malzemeleri danışmanlık ve eğitim hizmetleri … İncilipınar Mh. 36001 Nolu Sk. Emir İş Merkezi No:8/B Şehitkamil / Gaziantep … Tel: +90 342 215 13 22 … info@ebatek.com",
+   "url": "https://www.ebatek.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "MIS 项目业务",
+   "quote": "önemli kamusal ve özel kuruluşların Yönetim Bilişim Sistemleri (MIS) projelerinde sistem çözümleme/tasarım ve uygulama yazılımı geliştirme uzmanlığını",
+   "url": "https://www.ebatek.com/page.asp?s=hakkimizda",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "Utepo的工业FS；SFP MC 自己的logo 周边产品 有光路的OEO 国内的工业FS；https://www.andcorp.com.au/how-to-use-a-media-converter-in-your-network/",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "Utepo 工业 FS；自有 logo MC；OEO",
-   "quote": "Utepo的工业FS / SFP MC 自己的logo 周边产品 有光路的OEO 国内的工业FS；可以多跟进一下",
+   "claim": "ISAF：拿彩页；要求 WhatsApp",
+   "quote": "没做过多交谈，拿了彩页 让用WhatsApp联系 / S.Coskun BALKIS",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
  "kp": [
   {
-   "name": "Philip Anderson",
-   "title": "Chief Executive Officer",
-   "email": "sales@andcorp.com.au",
-   "phone": "",
-   "source": "用户表"
-  },
-  {
-   "name": "Gautam Bohra",
-   "title": "Owner",
-   "email": "sales@yamasakiot.com",
-   "phone": "",
-   "source": "用户表"
+   "name": "S. Coşkun Balkış",
+   "role": "（ISAF 名片；负责人推测）",
+   "email": "scbalkis@ebatek.com（用户表）",
+   "phone": "—（要求用 WhatsApp 联系）",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
   }
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（官网核对）"
  },
  "company_facts": {
-  "hq": "澳大利亚",
-  "other": "官网 andcorp.com.au，语言 ?，快照状态 ok；角色判定来源：用户表"
+  "legal_name": "Ebatek Bilişim Teknolojileri",
+  "founded": "2005",
+  "hq": "İncilipınar Mh. 36001 Nolu Sk. Emir İş Merkezi No:8/B, Şehitkamil / Gaziantep（+90 342 215 13 22；info@ebatek.com）",
+  "size": "小型（「genç, güçlü ve dinamik ekip」）",
+  "other": "软件 + 硬件供应 + MIS 项目（公共机构项目按个案守界）"
  },
  "business_lines": [
-  "网络 / 光纤配件（自有品牌 Yamasaki；Utepo 工业 FS）"
+  "IT 硬件/耗材供应与技术服务",
+  "自有软件产品与 MIS 项目开发"
  ],
  "channels": {
-  "role": "网络/光纤配件品牌商（澳大利亚，Utepo + 自有标 MC）",
-  "region": "澳大利亚",
-  "contact": "sales@andcorp.com.au、sales@yamasakiot.com"
+  "网站": "https://www.ebatek.com/",
+  "电话": "+90 342 215 13 22 / 35 66（公开）",
+  "邮箱（公开）": "info@ebatek.com"
  },
  "signals": [
-  "表内：Utepo 的工业 FS / SFP MC 自己的 logo 周边产品 有光路的 OEO 国内的工业 FS；https://www.andcorp.com.au/how-to-use-a-media-converter-in-your-network/；KP Philip Anderson / Chief Executive Officer；Gautam Bohra / Owner",
-  "快照：andcorp.com.au 内容为空"
+  "IT 项目商在 MIS/硬件项目里顺带供网络设备 → 8/24 口 L2 PoE；要求 WhatsApp 沟通"
  ],
  "risks": [
-  "45 次群发无回复（极低响应，可能已屏蔽）→ 换渠道/换联系人",
-  "非主攻区（T5，澳大利亚）；现供 Utepo（深圳）价格基准低；快照为空"
+  "需求未表达；公共项目守界按个案；无后续跟进"
  ],
  "saga_fit": {
-  "p1": "STI-288GPM",
-  "tier": 30,
-  "why": "现 Utepo 工业 FS + 自有 logo MC → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ MC STI-110GE（$24.3）贴 Yamasaki 标；OEO/SFP Saga 不供（Q-32）"
+  "p1": "STC-28DGGPM",
+  "tier": 25,
+  "why": "项目 25% 档：STC-28DGGPM（8 GE PoE+ 2 SFP L2+ 管理，$84.1）作办公/CCTV 接入；24 口 STC-424DGGPM-280W（$140.1）"
  },
- "email_hook": "Philip, for the industrial switches and media converters under the Yamasaki label, we can supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units and gigabit MCs (−40~75 °C, CE/RoHS; RCM by your side) in your packaging from small lots — which model do your Australian resellers reorder most?",
+ "email_hook": "Coşkun Bey, WhatsApp üzerinden kısaca: bilişim projeleriniz için 2 SFP + 8 port PoE+ L2+ yönetilebilir switch EXW 84,1 USD, 24 port 280 W sürümü 140,1 USD — yakın dönemde kamera veya ağ altyapısı içeren bir projeniz var mı?",
  "mail_review": {
   "binding": {
-   "level": "读而不回（A/S 邮箱 61 封 2024→2026，其中 5 封被打开，0 回；收件 panderson@andcorp.com.au, sales@andcorp.com.au；被打开主题「Industrial PoE Switch、Managed Optical Bypass Switch」；Elsa 箱：`to:andcorp.com.au OR to:yamasakiot.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 61 / 来 0）（第 74 批(n)））",
-   "type": "网络/光纤配件品牌商（澳大利亚，Utepo + 自有标 MC）",
-   "sieve": "2（有人在读，无人回）",
-   "stop": "读而不回 = 内容未命中或没有当下需求",
-   "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
-   "lane": "澳大利亚 非主攻",
-   "cadence": "一封；回了再说",
-   "evidence": "gmail_digest：out 61，Opened 标签 5（Simon 群发追踪）；用户表：「Utepo的工业FS；SFP MC 自己的logo 周边产品 有光路的OEO 国内的工业FS；https://www.andcorp.com.au/how-to」；研究档 risks：45 次群发无回复（极低响应，可能已屏蔽）→ 换渠道/换联系人"
+   "level": "轻度触达（展会名片 + WhatsApp 已加，邮件 0 封）：用户表「没做过多交谈，拿了彩页 让用WhatsApp联系 / S.Coskun BALKIS」；S/A 邮箱 0 封；Elsa 箱：`to:ebatek.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(i)）",
+   "type": "—",
+   "sieve": "3（已加 WhatsApp，表内有往来）",
+   "stop": "仓库只有用户表一行；往来在 Simon 手机",
+   "revive": "首封邮件（A 邮箱，按 email_hook）+ WhatsApp 一句话",
+   "lane": "土耳其 非主攻",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 0；用户表：「没做过多交谈，拿了彩页 让用WhatsApp联系 / S.Coskun BALKIS」；研究档 risks：需求未表达；公共项目守界按个案；无后续跟进"
   },
-  "situation": "澳大利亚 Andcorp / Yamasaki OT（andcorp.com.au / yamasakiot.com：Utepo 工业 FS、SFP、自有 logo MC、OEO、国内工业 FS（博客「how to use a media converter」）；表内「可以多跟进一下」；KP Philip Anderson（CEO）、Gautam Bohra（Owner））；群发 45 次无回复。",
-  "need": "现 Utepo 工业 FS + 自有 logo MC → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ MC STI-110GE（$24.3）贴 Yamasaki 标；OEO/SFP Saga 不供（Q-32）",
-  "breakpoint": "45 次群发无回复（极低响应，可能已屏蔽）→ 换渠道/换联系人",
+  "situation": "加济安泰普的 IT 方案商 Ebatek Bilişim（2005 年成立；软件产品 + 电脑/耗材供应 + 咨询培训；为公共与私营机构做 MIS 项目的系统分析/设计/应用开发；İncilipınar Mh. 36001 Nolu Sk. Emir İş Merkezi No:8/B Şehitkamil；+90 342 215 13 22；info@ebatek.com）。ISAF 记录：S. Coşkun Balkış——没做过多交谈，拿了彩页，让用 WhatsApp 联系；无后续跟进。",
+  "need": "项目 25% 档：STC-28DGGPM（8 GE PoE+ 2 SFP L2+ 管理，$84.1）作办公/CCTV 接入；24 口 STC-424DGGPM-280W（$140.1）",
+  "breakpoint": "需求未表达；公共项目守界按个案；无后续跟进",
   "saga_now": {
-   "p1": "STI-288GPM",
-   "tier": 30,
-   "price": "首触锚价 STI-288GPM $85.5 EXW（主表档位（PDF 上限 $88；SA-026 2025-07 实报 $72 为分销量价）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-30 $300（48 port poe managed switch）、2024-09-12 $65（10G Media Converter）、2024-11-05 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-07-27 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-06 $280（10G Enterprise SFP Switch）",
-   "why": "现 Utepo 工业 FS + 自有 logo MC → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ MC STI-110GE（$24.3）贴 Yamasaki 标；OEO/SFP Saga 不供（Q-32）。已打开的主题（5/61 封有打开记录）：「90W PoE Managed Switch」(2025-08-17)、「Optional Marvell Chipset Solutions」(2025-12-04)、「OEM Core Switching Solution」(2026-01-13)、「16 Port Industrial PoE Switch」(2026-09-15) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续｜已发资料（勿重发）：Saga Feature List_7.5.x_L2+(2026-06-29)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）",
+   "p1": "STC-28DGGPM",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "项目 25% 档：STC-28DGGPM（8 GE PoE+ 2 SFP L2+ 管理，$84.1）作办公/CCTV 接入；24 口 STC-424DGGPM-280W（$140.1）",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "2026-11",
-   "channel": "A 邮箱 → panderson@andcorp.com.au",
-   "action": "短信一问（email_hook）",
-   "one_question": "Philip, for the industrial switches and media converters under the Yamasaki label, we can supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units and gigabit MCs (−40~75 °C, CE/RoHS; RCM by your side) in your packaging from small lots — which model do your Australian resellers reorder most? Reference: STI-288GPM at $85.5 USD EXW (MOQ 1, 15-day validity)."
+   "when": "2026-11（Simon）",
+   "channel": "A 邮箱首封 + WhatsApp（Simon）",
+   "action": "首封 + 一句话",
+   "one_question": "Coşkun Bey, WhatsApp üzerinden kısaca: bilişim projeleriniz için 2 SFP + 8 port PoE+ L2+ yönetilebilir switch EXW 84,1 USD, 24 port 280 W sürümü 140,1 USD — yakın dönemde kamera veya ağ altyapısı içeren bir projeniz var mı?"
   },
   "facts": [
-   {
-    "date": "2026-09-15",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "Industrial PoE Switch、Managed Optical Bypass Switch",
-    "why": "61 封 / 5 次打开 / 0 回｜首封 2024-06-19 → 末封 2026-09-15（61 去 / 0 来）",
-    "k": "gmail_digest"
-   },
    {
     "date": "2026-10-21",
     "dir": "用户表",
     "who": "Simon",
-    "quote": "Utepo的工业FS；SFP MC 自己的logo 周边产品 有光路的OEO 国内的工业FS；https://www.andcorp.com.au/how-to-use-a-media-converter-in-your-network/",
+    "quote": "没做过多交谈，拿了彩页 让用WhatsApp联系 / S.Coskun BALKIS",
     "why": "表内备注",
     "k": "用户表"
    }
   ],
-  "proof_gaps": [],
+  "proof_gaps": [
+   "WhatsApp 往来未入库"
+  ],
   "draft_en": {
-   "subject": "One question — Industrial PoE Switch",
-   "body": "Hi Philip,\n\nWe have sent you a few mails on \"Industrial PoE Switch\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor the industrial switches and media converters under the Yamasaki label, we can supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units and gigabit MCs (−40~75 °C, CE/RoHS; RCM by your side) in your packaging from small lots — which model do your Australian resellers reorder most?\n\nReference price: DIN-rail 8-PoE + 2 SFP L2 managed industrial switch, 240 W (STI-288GPM) $85.5 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+   "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+   "body": "Coşkun Bey, WhatsApp üzerinden kısaca: bilişim projeleriniz için 2 SFP + 8 port PoE+ L2+ yönetilebilir switch EXW 84,1 USD, 24 port 280 W sürümü 140,1 USD — yakın dönemde kamera veya ağ altyapısı içeren bir projeniz var mı?"
   },
   "as_of": "2026-10-24"
  }

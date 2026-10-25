@@ -1,0 +1,75 @@
+{
+ "code": "SC-122",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（alticelabs.com，快照 2026-10-21）",
+ "summary": "葡萄牙 Altice Labs（Altice 集团研发与产品公司：OLT/PON（50G-PON Ready）、CPE、OSS NOSSIS；表内「Networking」）；表内 1 次跟进无回复。",
+ "type": "运营商集团研发/设备公司（巨头）",
+ "size": "",
+ "brands_seen": [
+  "Ubiquiti"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Altice Labs – Enabling Digital Society；品类词 工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 无线 / WiFi / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "Highlights Highlights #Ultra-FastBroadband #OLTs #AGORA OLT System Platforms High level of flexibility, Multi PON Modules which fully supports next generation 10G PON architectures. End-to-end solution",
+   "url": "https://www.alticelabs.com",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "Networking",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Altice Labs 定位",
+   "quote": "Altice Labs – Enabling Digital Society ; Highlights #Ultra-FastBroadband #OLTs #AGORA OLT System Platforms ; 50G-PON Ready",
+   "url": "https://www.alticelabs.com",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "Networking",
+   "quote": "Networking",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "巨头/运营商集团：Altice Labs（自研 PON/OLT），非渠道客户；c_sub=巨头/运营商",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "葡萄牙",
+  "other": "官网 alticelabs.com，语言 en-US，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "OLT / PON / CPE / OSS（运营商集团自研）"
+ ],
+ "channels": {
+  "role": "运营商集团研发/设备公司（巨头）",
+  "region": "葡萄牙",
+  "contact": "contact@alticelabs.com"
+ },
+ "signals": [
+  "官网：Altice Labs – Enabling Digital Society ; #Ultra-FastBroadband #OLTs #AGORA OLT System Platforms ; 50G-PON Ready ; CPEs ; NOSSIS One；kw automation 28 / ftth 10",
+  "表内：Networking"
+ ],
+ "risks": [
+  "巨头/运营商集团：Altice Labs（Altice 旗下），自研 OLT/PON/CPE，非 Saga 可承接"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 30,
+  "why": "运营商集团（Altice）旗下自研 PON/OLT 厂商，非渠道客户 → 改 C"
+ },
+ "email_hook": "（不发送：巨头/运营商集团）"
+}

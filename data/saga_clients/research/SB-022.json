@@ -1,132 +1,149 @@
 {
  "code": "SB-022",
- "name_official": "Denso Electronics（densoelectronics.com，赞比亚；Wix 网店）",
- "researched_at": "2026-10-21",
- "website_status": "在线（快照 2026-10-21 ok；Wix 建站）",
- "summary": "赞比亚电子/ICT 综合供应商 Denso Electronic Solutions（Wix 网店，卖 Philips 听写设备、会议麦克风、DVT 录音笔等，另有 ICT 方案与解决方案栏目；电话 +260 212 615190/615367 为铜带省座机）。表内 Mr. Joedy Snafu（sales@densoelectronics.com，+260 977 823 625，WA 已加）为转售商，兴趣工业 MC，用户备注「网站卖的比较杂」；2024-01 对 2 光 4 信息「点了一个赞」、2024-03 问了不相关产品；18 次推送 1 次实质回复。泛电子转售商 → B 20% 低优先。",
- "type": "",
- "size": "",
+ "name_official": "DESK Sicherheit GmbH（Karlsruhe, DE；desk-sicherheit.de；HRB 717686 Mannheim）",
+ "website_status": "在线",
+ "summary": "德国卡尔斯鲁厄的安保服务 + 安防技术公司 DESK Sicherheit GmbH（2017-02 以 UG 注册、2022-12 转 GmbH，注册资本 €25,000；HRB 717686；CEO Daniel Salim Rupp，前联邦国防军；业务：安保勤务、视频监控/AI 视频分析、安防技术、无人机巡检与反无人机、物理渗透测试；自称服务数据中心、银行与集团客户，网店 shop.desk-sicherheit.de）。展会（埃森 2024）记录：CEO 直接沟通，与当地警方有项目联系，关注 IP67 户外交换机（布线 60–80 m），曾被报 $80/台，问 OEM 与样品；7 次推送 0 回复。Saga 无 IP67 机型——仅在需求转为机柜/IP40 DIN 工业 PoE 时重启。",
+ "type": "安防集成/项目商",
+ "size": "小型（待补证）",
  "brands_seen": [],
  "evidence": [
   {
-   "kind": "官网快照",
-   "claim": "定位与联系方式",
-   "quote": "Denso Electronic Solutions stands at the forefront of innovation, harnessing the power of Technology and the Internet of Things (IoT)… Your Premium ICT Solution Pro… +260212615190, +260212615367, +260977823625; sales@densoelectronics.com",
-   "url": "https://www.densoelectronics.com/",
+   "kind": "用户记录",
+   "claim": "CEO 直接沟通；兴趣点为 IP67 户外交换机与 OEM；已报价 $80；之后 0 回复 / 7 次推送",
+   "quote": "Daniel Rupp / CEO；police projects；IP67 interest；OEM ask；$80 quote（用户 Clients 表摘录）",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   },
   {
-   "kind": "官网快照",
-   "claim": "网店品类",
-   "quote": "子页：Philips DPM 7000 / DPM 8000-8200 / DPM 8900 conference Kit / Conference Microphone 9172；型号串 DVT8110、DVT4110、DVT2110、PSM6000",
-   "url": "https://www.densoelectronics.com/about-the-company",
+   "kind": "官网 Impressum",
+   "claim": "法人、登记、代表",
+   "quote": "DESK SICHERHEIT GmbH Roonstraße 25 76137 Karlsruhe Handelsregister: 717686 Registergericht: Mannheim Vertreten durch: Daniel Rupp Kontakt Telefon: 072182101964 E-Mail: info@desk-sicherheit.de … DESK Sicherheit verbindet klassischen Sicherheitsdienst mit intelligenter Videoüberwachung, KI-Videoanalyse, moderner Sicherheitstechnik und Drohnenabwehr.",
+   "url": "https://desk-sicherheit.de/impressum",
+   "date": "2023-07-14"
+  },
+  {
+   "kind": "官网新闻",
+   "claim": "CEO 公开直邮",
+   "quote": "DESK SICHERHEIT GmbH Daniel Rupp – CEO Telefon: +49 721 1812642-0 | +49 173 1590372 E-Mail: dr@desk-sicherheit.de",
+   "url": "https://desk-sicherheit.de/news/physische-penetrationstest",
+   "date": "2025-04-15"
+  },
+  {
+   "kind": "登记",
+   "claim": "UG→GmbH、注册资本",
+   "quote": "Desk Sicherheit GmbH 28.12.2022 Geschäftsführer: Daniel Salim Rupp · Kapital: 25.000 € … 22.02.2017 als Desk Sicherheit UG",
+   "url": "https://www.northdata.de/Rupp,%20Daniel%20Salim,%20Karlsruhe/ptu",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "需求与回复",
-   "quote": "reseller 网站卖的比较杂 工业MC；2024.1.18 发了2光4相关信息 → 点了一个赞；2024.3.14 → 问了一个不相关的产品",
+   "claim": "展会互动：警方项目、IP67、$80 报价、OEM、样品；7 次推送 0 回复",
+   "quote": "和当地警察局有联系，他们会按照项目找产品，对IP67有兴趣，配线大约需要60-80米，报价80美金一台，能否OEM，想买样品测试IP67",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
  "kp": [
   {
-   "name": "Joedy Snafu",
-   "role": "（表内 Mr.）",
-   "email": "sales@densoelectronics.com",
-   "phone": "+260 977 823 625（WA 已加）",
+   "name": "Daniel Rupp",
+   "role": "CEO",
+   "email": "dr@desk-sicherheit.de",
+   "phone": "",
    "source": "用户 Clients 表"
+  },
+  {
+   "name": "Daniel Salim Rupp",
+   "role": "CEO / Geschäftsführer（Impressum + 新闻稿公开）",
+   "email": "dr@desk-sicherheit.de（官网新闻稿公开）",
+   "phone": "+49 721 1812642-0 / +49 173 1590372（官网新闻稿公开）",
+   "source": "https://desk-sicherheit.de/news/physische-penetrationstest"
   }
  ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "grade_override": "B",
+ "override_reason": "核心需求 IP67 户外机 —— Saga 三家供应商均无 IP67 产品线（Saga 不做 IP67）；且报价后 0 回复/7 次推送。警务项目属公共安全边缘 → 守界慢跟。",
+ "notes": "若未来需求转为室内/机柜工业 PoE（IP30/IP40 DIN 导轨），可用 STI-288DGGPM 重启；不要承诺 IP67。待补证：公司注册与规模。",
+ "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照核对）"
+  "level": "B 级加厚 v1（Impressum + 登记核对）"
  },
  "company_facts": {
-  "legal_name": "Denso Electronics / Denso Electronic Solutions（赞比亚）",
-  "founded": "待核",
-  "hq": "赞比亚（+260 212 区号 = 铜带省 Ndola/Kitwe 一带）；+260 212 615190 / 615367；sales@densoelectronics.com",
-  "size": "待核（小型）",
-  "other": "与日本 DENSO 无关；网店品类：Philips DPM 7000/8000/8900 听写与会议、DVT 系列录音笔、PSM6000"
+  "legal_name": "DESK Sicherheit GmbH（HRB 717686 Amtsgericht Mannheim；USt-ID DE291361315）",
+  "founded": "2017-02-22（UG）→ 2022-12 GmbH",
+  "hq": "Roonstraße 25, 76137 Karlsruhe, Germany（+49 721 82101964；info@desk-sicherheit.de）",
+  "size": "小型（注册资本 €25k；人数待核）",
+  "other": "CEO Daniel Salim Rupp（2013 起）；业务含反无人机、渗透测试；网店"
  },
  "business_lines": [
-  "办公电子与会议/听写设备零售（Philips）",
-  "ICT 方案与网络设备转售",
-  "IoT/技术方案（官网自述）"
- ],
- "products_seen": [
-  {
-   "brand": "Philips",
-   "model": "DPM 8000 / DVT8110",
-   "spec": "听写与录音设备（网店主力）",
-   "saga": "（无关；仅说明其品类杂）",
-   "url": "https://www.densoelectronics.com/",
-   "date": "2026-10-21"
-  }
+  "安保勤务（Sicherheitsdienst）",
+  "视频监控 / KI 视频分析 / 安防技术集成",
+  "无人机巡检与反无人机、物理渗透测试"
  ],
  "channels": {
-  "official": "sales@densoelectronics.com；+260 212 615190",
-  "contact": "Joedy Snafu，+260 977 823 625（WA 已加）"
+  "网站": "https://desk-sicherheit.de/",
+  "电话": "+49 721 1812642-0（新闻稿公开）",
+  "邮箱（公开）": "info@desk-sicherheit.de；dr@desk-sicherheit.de（新闻稿公开 CEO 直邮）"
  },
  "signals": [
-  "2024-01 对 2 光 4 小机点赞"
+  "项目型采购（警方/数据中心周界）→ 户外柜 DIN 工业 PoE（IP40）+ 户外防水箱方案可替代 IP67 需求",
+  "曾问 OEM 与样品 → 对贴牌开放"
  ],
  "risks": [
-  "品类杂、非网络专业商，单量小",
-  "赞比亚物流与外汇"
+  "Saga 无 IP67 机型（不要承诺）；警务/公共项目守界按个案；7 次推送 0 回复"
  ],
  "saga_fit": {
-  "p1": "STI-110GE",
-  "tier": 20,
-  "why": "表内兴趣工业 MC → STI-110GE（1 GE + 1 SFP，DIN）起手；转售 20% 档"
+  "p1": "STI-288DGGPM",
+  "tier": 25,
+  "why": "项目 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理，IP40，−40~+75 ℃，$137.5）置于 IP66 户外箱替代 IP67 整机；非管理 STI-288GP（$59.8）；明示无 IP67"
  },
- "email_hook": "You liked the 2 SFP + 4 port compact switch post — for the industrial media converters you asked about, the gigabit DIN model is $22–24 EXW in small lots; want both on one sheet for your Copperbelt customers?",
+ "email_hook": "Herr Rupp, for the 60–80 m outdoor camera runs you described in Essen: we do not build IP67 switches, but the DIN-rail 8-port PoE+ managed unit (IP40, −40 to +75 °C, $137.5 EXW) fitted in an IP66 pole box is what our integrators use — would a sample of that configuration help your next police-site tender?",
  "mail_review": {
   "binding": {
-   "level": "未发信（S/A 邮箱均无往来；来源：用户表「reseller 网站卖的比较杂 工业MC；2024.1.18 发了2光4相关信息 → 点了一个赞；2024.3.14 」；Elsa 箱：`to:densoelectronics.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(n)））",
-   "type": "—",
-   "sieve": "—（未入筛）",
-   "stop": "从未触达",
-   "revive": "不动（非主攻区；J5：有证据再动）",
-   "lane": "赞比亚 非主攻",
-   "cadence": "不动",
-   "evidence": "gmail_digest：out 0；用户表：「reseller 网站卖的比较杂 工业MC；2024.1.18 发了2光4相关信息 → 点了一个赞；2024.3.14 → 问了一个不相关的产品」；研究档 risks：品类杂、非网络专业商，单量小"
+   "level": "未触达（A 邮箱 15 封 2025→2026，无记录打开，0 回；收件 dr@desk-sicherheit.de；主题多为「10G Enterprise SFP Switch、8 Port Industrial PoE Switch」；Elsa 箱：`to:.de` 穷举 29 条（2026-10-25，锚批 Bcc 头已读）未见 desk-sicherheit.de → Elsa 箱从未发过本户，往来只在 S/A 箱（去 15 / 来 0）（第 74 批(f)））",
+   "type": "安防集成/项目商",
+   "sieve": "1（只收到群发）",
+   "stop": "15 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "DE 主攻（四主）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 15；用户表：「和当地警察局有联系，他们会按照项目找产品，对IP67有兴趣，配线大约需要60-80米，报价80美金一台，能否OEM，想买样品测试IP67」；研究档 risks：Saga 无 IP67 机型（不要承诺）；警务/公共项目守界按个案；7 次推送 0 回复"
   },
-  "situation": "赞比亚电子/ICT 综合供应商 Denso Electronic Solutions（Wix 网店，卖 Philips 听写设备、会议麦克风、DVT 录音笔等，另有 ICT 方案与解决方案栏目；电话 +260 212 615190/615367 为铜带省座机）。表内 Mr. Joedy Snafu（sales@densoelectronics.com，+260 977 823 625，WA 已加）为转售商，兴趣工业 MC，用户备注「网站卖的比较杂」；2024-01 对 2 光 4 信息「点了一个赞」、2024-03 问了不相关产品；18 次推送 1 次实质回复。泛电子转售商 → B 20% 低优先。",
-  "need": "表内兴趣工业 MC → STI-110GE（1 GE + 1 SFP，DIN）起手；转售 20% 档",
-  "breakpoint": "品类杂、非网络专业商，单量小",
+  "situation": "德国卡尔斯鲁厄的安保服务 + 安防技术公司 DESK Sicherheit GmbH（2017-02 以 UG 注册、2022-12 转 GmbH，注册资本 €25,000；HRB 717686；CEO Daniel Salim Rupp，前联邦国防军；业务：安保勤务、视频监控/AI 视频分析、安防技术、无人机巡检与反无人机、物理渗透测试；自称服务数据中心、银行与集团客户，网店 shop.desk-sicherheit.de）。展会（埃森 2024）记录：CEO 直接沟通，与当地警方有项目联系，关注 IP67 户外交换机（布线 60–80 m），曾被报 $80/台，问 OEM 与样品；7 次推送 0 回复。Saga 无 IP67 机型——仅在需求转为机柜/IP40 DIN 工业 PoE 时重启。",
+  "need": "项目 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理，IP40，−40~+75 ℃，$137.5）置于 IP66 户外箱替代 IP67 整机；非管理 STI-288GP（$59.8）；明示无 IP67",
+  "breakpoint": "Saga 无 IP67 机型（不要承诺）；警务/公共项目守界按个案；7 次推送 0 回复",
   "saga_now": {
-   "p1": "STI-110GE",
-   "tier": 20,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "表内兴趣工业 MC → STI-110GE（1 GE + 1 SFP，DIN）起手；转售 20% 档",
+   "p1": "STI-288DGGPM",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-18 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-06-09 $300（48 Port PoE Managed Switch）、2025-10-06 $280（10G Enterprise SFP Switch）（㉕ 封顶：STI-288DGGPM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25）",
+   "why": "项目 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理，IP40，−40~+75 ℃，$137.5）置于 IP66 户外箱替代 IP67 整机；非管理 STI-288GP（$59.8）；明示无 IP67",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—",
-   "one_question": ""
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Herr Rupp, for the 60–80 m outdoor camera runs you described in Essen: we do not build IP67 switches, but the DIN-rail 8-port PoE+ managed unit (IP40, −40 to +75 °C, $137.5 EXW) fitted in an IP66 pole box is what our integrators use — would a sample of that configuration help your next police-site tender?"
   },
   "facts": [
+   {
+    "date": "2026-09-24",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "10G Enterprise SFP Switch、8 Port Industrial PoE Switch",
+    "why": "15 封 / 0 次打开 / 0 回｜首封 2025-04-14 → 末封 2026-09-24（15 去 / 0 来）",
+    "k": "gmail_digest"
+   },
    {
     "date": "2026-10-21",
     "dir": "用户表",
     "who": "Simon",
-    "quote": "reseller 网站卖的比较杂 工业MC；2024.1.18 发了2光4相关信息 → 点了一个赞；2024.3.14 → 问了一个不相关的产品",
+    "quote": "和当地警察局有联系，他们会按照项目找产品，对IP67有兴趣，配线大约需要60-80米，报价80美金一台，能否OEM，想买样品测试IP67",
     "why": "表内备注",
     "k": "用户表"
    }
   ],
-  "proof_gaps": [
-   "无邮件往来",
-   "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
-  ],
+  "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-24"
  }

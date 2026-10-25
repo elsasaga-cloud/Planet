@@ -1,41 +1,52 @@
 {
  "code": "SB-294",
- "name_official": "Max Protect（突尼斯）",
+ "name_official": "Viva Bilgisayar（Hikvision Hatay Silver Partner，Antakya/Defne, Hatay, TR；vivabilgisayar.net · hisvisionhatay.com）",
  "researched_at": "2026-10-21",
- "website_status": "在线（max-protect.com，快照 2026-10-21，法语）",
- "summary": "突尼斯视频监控 / 报警 / 消防探测分销与安装商（Dahua、Uniview、Imou、Ajax、Elkron；两家门店；surveillance 162、poe 38），Manager Aymen Gabsi：很在意价格，曾以 $40 卖给他一台 VSC 2 光 8 电管理 PoE 样品；6 次跟进无实质回复。",
+ "website_status": "在线",
+ "summary": "土耳其哈塔伊（安塔基亚）的 IT/安防服务商 Viva Bilgisayar（2000/2002 年起；1–10 人（RocketReach 4 人）；Hikvision Hatay Silver Partner、项目集成商与经销商，兼 Dahua；业务：IP 摄像集成、网络基础设施、软件/网页设计、短信服务；业主 İsmet Yavuz；Sümerler Mah. 16. Sk. No:16/3 Defne/Hatay；+90 544 649 11 42；info@vivabilgisayar.net）。ISAF 记录：要工业级交换机；WhatsApp 已加；无后续跟进。",
  "type": "",
  "size": "",
  "brands_seen": [
-  "Dahua",
-  "Uniview",
-  "Imou",
-  "Ajax",
-  "Hikvision"
+  "Hikvision（Silver Partner）",
+  "Dahua"
  ],
  "evidence": [
   {
-   "kind": "官网快照",
-   "claim": "监控摄像机、报警、可视门铃、火灾探测；品牌 Dahua / Uniview / Imou / Ajax / Elkron；两家门店；72 324 111",
-   "quote": "Caméras de surveillance, alarmes, visiophones et détection incendie Dahua, Uniview, Imou, Ajax, Elkron. Installation et livraison partout en Tunisie… Nos 2 magasins",
-   "url": "https://max-protect.com/",
+   "kind": "官网",
+   "claim": "公司定位",
+   "quote": "Viva Bilgisayar; yazılım geliştirme, kurumsal bilgisayar ve donanım tedariği, güvenlik sistemleri alanında Hatay ve çevresine uçtan uca hizmet veren bir teknoloji firmasıdır … IP kamera entegrasyonları, network altyapıları … 25+ yıllık sektör tecrübesi - Hikvision yetkili satıcı ve servis … Telefon Numarası 0544 649 11 42 E-Posta Adresi is_ya@hotmail.com",
+   "url": "https://vivabilgisayar.net/kurumsal/",
+   "date": "2026-07-29"
+  },
+  {
+   "kind": "官网",
+   "claim": "地址",
+   "quote": "Sümerler Mahallesi, 16. Sk. No:16/3 Defne/Hatay, Türkiye - info@vivabilgisayar.net - 0544 649 1142",
+   "url": "https://vivabilgisayar.net/index.php/iletisim/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "名录",
+   "claim": "规模与成立",
+   "quote": "VİVA BİLGİSAYAR HIKVISION HATAY SILVER PARTNER … Employees · 4 … Founded · 2000",
+   "url": "https://rocketreach.co/viva-bilgisayar-hikvision-hatay-silver-partner-profile_b7f11a0fc25dee31",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "很在意价格；便宜卖了一台 VSC 2 光 8 电带网管带 PoE 的样品 40 美金",
-   "quote": "兴趣：很在意价格，便宜卖了一台VSC2光8电带网管，带PoE的样品给他 40美金",
+   "claim": "ISAF：要工业级交换机；WhatsApp 已加",
+   "quote": "要工业级交换机 / 90 54464 91142 已加",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
  "kp": [
   {
-   "name": "Aymen Gabsi",
-   "title": "Manager",
-   "email": "direction@max-protect.com",
-   "phone": "+216 98 508 507",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
+   "name": "İsmet Yavuz",
+   "role": "Boss / 业主（用户表 + LinkedIn）",
+   "email": "is_ya@hotmail.com（公开 + 用户表）",
+   "phone": "+90 544 649 11 42（公开，WhatsApp 已加）",
+   "source": "https://www.linkedin.com/in/ismet-yavuz-608269100/"
   }
  ],
  "grade_override": null,
@@ -43,84 +54,82 @@
  "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照核对：已购样）"
+  "level": "B 级加厚 v1（官网核对）"
  },
  "company_facts": {
-  "legal_name": "Max Protect（待核）",
-  "founded": "（待核）",
-  "hq": "Tunisia（+216 72 = Nabeul/Bizerte 区）",
-  "size": "小型安防分销 + 门店",
-  "other": "已购 Saga 样品（$40）"
+  "legal_name": "Viva Bilgisayar Bilgisayar & Güvenlik Sistemleri",
+  "founded": "2000（RocketReach）/ 2002（官网）",
+  "hq": "Sümerler Mahallesi 16. Sk. No:16/3, Defne / Hatay（+90 544 649 11 42；info@vivabilgisayar.net）",
+  "size": "1–10（Lusha）；4（RocketReach）",
+  "other": "Hikvision Hatay Silver Partner；Dahua；Haikon 区域经销"
  },
  "business_lines": [
-  "视频监控 / 报警 / 消防探测分销与安装"
+  "Hikvision/Dahua CCTV 项目集成与经销",
+  "网络基础设施、IT 硬件、软件/网页/短信服务"
  ],
  "channels": {
-  "role": "安防分销 + 安装商",
-  "region": "突尼斯"
+  "网站": "https://vivabilgisayar.net/",
+  "电话": "+90 544 649 11 42（公开）",
+  "邮箱（公开）": "info@vivabilgisayar.net / is_ya@hotmail.com",
+  "LinkedIn": "https://www.linkedin.com/in/ismet-yavuz-608269100/"
  },
  "signals": [
-  "已购一台 2 光 8 管理 PoE 样品（$40 特价）→ 评估结果可追",
-  "PoE 为配套品类"
+  "Hikvision 项目集成商明确要工业级交换机 → 户外/工地 CCTV 柜用 DIN 8 PoE；哈塔伊灾后重建期户外监控需求"
  ],
  "risks": [
-  "极度价格敏感（$40 样品价不可持续）",
-  "突尼斯外汇审批、法语沟通"
+  "微型团队、单量小；无后续跟进"
  ],
  "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 20,
-  "why": "已测样品同口型 → STC-28DGGPM（$80.7 @20%）；低价非管理 HRUI STC-028GP（$24.2）作走量。"
+  "p1": "STI-288GP",
+  "tier": 25,
+  "why": "集成商 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，−40~+75 ℃，$59.8）作 Hikvision 户外柜标配；管理型 STI-288DGGPM（$137.5）；4 口 STI-144GP（$35.5）"
  },
- "email_hook": "Aymen, comment s'est passé le test du switch 2 SFP + 8 PoE managé que vous avez reçu ? Pour un premier carton (10 pcs) je peux faire un prix de lancement — version managée ou non managée ($25.1) pour vos chantiers Dahua ?",
+ "email_hook": "İsmet Bey, ISAF'ta sorduğunuz endüstriyel switch: DIN ray 8 port gigabit PoE+ + 2 SFP, −40/+75 °C, EXW 59,8 USD (yönetilebilir sürüm 137,5 USD); Hikvision saha panolarınız için ilk etapta kaç adet lazım?",
  "mail_review": {
   "binding": {
-   "level": "未触达（A 邮箱 16 封 2025→2026，无记录打开，0 回；收件 direction@max-protect.com；主题多为「Industrial PoE Switch、16 Port Ethernet Switch」；Elsa 箱：`to:max-protect.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 16 / 来 0）（第 74 批(n)））",
+   "level": "轻度触达（邮件无证，WhatsApp/WeChat 已加）：用户表「要工业级交换机 / 90 54464 91142 已加」；S/A 邮箱 0 封；Elsa 箱：`to:hisvisionhatay.com OR to:vivabilgisayar.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(i)）",
    "type": "—",
-   "sieve": "1（只收到群发）",
-   "stop": "16 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "突尼斯 非主攻",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 16；用户表：「兴趣：很在意价格，便宜卖了一台VSC2光8电带网管，带PoE的样品给他 40美金」；研究档 risks：极度价格敏感（$40 样品价不可持续）"
+   "sieve": "3（已加 WhatsApp，表内有往来）",
+   "stop": "仓库只有用户表一行；往来在 Simon 手机",
+   "revive": "首封邮件（A 邮箱，按 email_hook）+ WhatsApp 一句话",
+   "lane": "土耳其 非主攻",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 0；用户表：「要工业级交换机 / 90 54464 91142 已加」；研究档 risks：微型团队、单量小；无后续跟进"
   },
-  "situation": "突尼斯视频监控 / 报警 / 消防探测分销与安装商（Dahua、Uniview、Imou、Ajax、Elkron；两家门店；surveillance 162、poe 38），Manager Aymen Gabsi：很在意价格，曾以 $40 卖给他一台 VSC 2 光 8 电管理 PoE 样品；6 次跟进无实质回复。",
-  "need": "已测样品同口型 → STC-28DGGPM（$80.7 @20%）；低价非管理 HRUI STC-028GP（$24.2）作走量。",
-  "breakpoint": "极度价格敏感（$40 样品价不可持续）",
+  "situation": "土耳其哈塔伊（安塔基亚）的 IT/安防服务商 Viva Bilgisayar（2000/2002 年起；1–10 人（RocketReach 4 人）；Hikvision Hatay Silver Partner、项目集成商与经销商，兼 Dahua；业务：IP 摄像集成、网络基础设施、软件/网页设计、短信服务；业主 İsmet Yavuz；Sümerler Mah. 16. Sk. No:16/3 Defne/Hatay；+90 544 649 11 42；info@vivabilgisayar.net）。ISAF 记录：要工业级交换机；WhatsApp 已加；无后续跟进。",
+  "need": "集成商 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，−40~+75 ℃，$59.8）作 Hikvision 户外柜标配；管理型 STI-288DGGPM（$137.5）；4 口 STI-144GP（$35.5）",
+  "breakpoint": "微型团队、单量小；无后续跟进",
   "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 20,
-   "price": "第 73 批 2026-10-24：无管理款按洪瑞 2026-09-30 进价 +20%（028GP $25.1 / 228GP $33.2），旧表 $24/$31 不用；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-29 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-06-17 $300（48 Port PoE Managed Switch）、2025-10-08 $280（10G Enterprise SFP Switch）、2026-06-18 $16000（32 Port 400GB DC Switch）",
-   "why": "已测样品同口型 → STC-28DGGPM（$80.7 @20%）；低价非管理 HRUI STC-028GP（$24.2）作走量。",
+   "p1": "STI-288GP",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）（㉕ 封顶：STI-288DGGPM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25）",
+   "why": "集成商 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，−40~+75 ℃，$59.8）作 Hikvision 户外柜标配；管理型 STI-288DGGPM（$137.5）；4 口 STI-144GP（$35.5）",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开",
-   "one_question": "Aymen, comment s'est passé le test du switch 2 SFP + 8 PoE managé que vous avez reçu ? Pour un premier carton (10 pcs) je peux faire un prix de lancement — version managée ou non managée ($25.1) pour vos chantiers Dahua ?"
+   "when": "2026-11（Simon）",
+   "channel": "A 邮箱首封 + WhatsApp（Simon）",
+   "action": "首封 + 一句话",
+   "one_question": "İsmet Bey, ISAF'ta sorduğunuz endüstriyel switch: DIN ray 8 port gigabit PoE+ + 2 SFP, −40/+75 °C, EXW 59,8 USD (yönetilebilir sürüm 137,5 USD); Hikvision saha panolarınız için ilk etapta kaç adet lazım?"
   },
   "facts": [
-   {
-    "date": "2026-09-14",
-    "dir": "去",
-    "who": "A 群发",
-    "quote": "Industrial PoE Switch、16 Port Ethernet Switch",
-    "why": "16 封 / 0 次打开 / 0 回｜首封 2025-03-20 → 末封 2026-09-14（16 去 / 0 来）",
-    "k": "gmail_digest"
-   },
    {
     "date": "2026-10-21",
     "dir": "用户表",
     "who": "Simon",
-    "quote": "兴趣：很在意价格，便宜卖了一台VSC2光8电带网管，带PoE的样品给他 40美金",
+    "quote": "要工业级交换机 / 90 54464 91142 已加",
     "why": "表内备注",
     "k": "用户表"
    }
   ],
-  "proof_gaps": [],
-  "draft_en": null,
+  "proof_gaps": [
+   "WhatsApp 往来未入库"
+  ],
+  "draft_en": {
+   "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+   "body": "İsmet Bey, ISAF'ta sorduğunuz endüstriyel switch: DIN ray 8 port gigabit PoE+ + 2 SFP, −40/+75 °C, EXW 59,8 USD (yönetilebilir sürüm 137,5 USD); Hikvision saha panolarınız için ilk etapta kaç adet lazım?"
+  },
   "as_of": "2026-10-24"
  }
 }

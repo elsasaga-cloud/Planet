@@ -1,34 +1,48 @@
 {
  "code": "SB-1005",
- "name_official": "Telcofusion（墨西哥；Jose Gregorio）",
+ "name_official": "ASIT S.r.l.（意大利）",
  "researched_at": "2026-10-21",
- "website_status": "域名不可达（telcofusion.com.mx）",
- "summary": "墨西哥电信承包商 Telcofusion（Jose Gregorio，gmail），需求 reverse PoE 板（Saga 无），2024-08 对 10G MC 要 4 台（SmartByte 10G MC 另询）；WA 15 次无实质回复。",
+ "website_status": "在线（asit.it，快照 2026-10-21）",
+ "summary": "意大利 CCTV / 网络分销商（在线商店；Ubiquiti、Dahua、D-Link、Huawei、Netgear、Zyxel；switch 86 / poe 39），Owner & CEO Jacopo Ganz、VP Sales Marco Gabriele；表内 CCTV 分销商；群发 4 次无回复。",
  "type": "",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Ubiquiti",
+  "Dahua",
+  "D-Link",
+  "Huawei",
+  "Netgear",
+  "Zyxel"
+ ],
  "evidence": [
   {
    "kind": "官网快照",
-   "claim": "telcofusion.com.mx 不可达",
-   "quote": "status unreachable",
-   "url": "http://telcofusion.com.mx/",
+   "claim": "Asit Online Store；品牌 Ubiquiti / Dahua / D-Link / Huawei / Netgear / Zyxel",
+   "quote": "Asit Online Store – Innovation Delivered… brands Ubiquiti, Dahua, D-Link, Huawei, Netgear, Zyxel",
+   "url": "https://asit.it/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "兴趣 reverse POE 板子；2024-08 10G MC→4 个",
-   "quote": "兴趣：reverse POE板子；回复：4个",
+   "claim": "CCTV 分销商",
+   "quote": "兴趣：CCTV 分销商",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
  "kp": [
   {
-   "name": "Jose Gregorio",
-   "title": "（表内联系人）",
-   "email": "telcofusion1@gmail.com",
-   "phone": "+52 916 105 1657",
+   "name": "Jacopo Ganz",
+   "title": "Owner & CEO",
+   "email": "jacopo.ganz@asit.it",
+   "phone": "",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  },
+  {
+   "name": "Marco Gabriele",
+   "title": "VP Sales",
+   "email": "marco.gabriele@asit.it",
+   "phone": "",
    "source": "（本地 Clients/ 表格，无公开 URL）"
   }
  ],
@@ -37,74 +51,81 @@
  "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（快照不可达 + 表内）"
+  "level": "B 级加厚 v1（官网快照核对 + 表内）"
  },
  "company_facts": {
-  "legal_name": "Telcofusion（待核）",
+  "legal_name": "ASIT S.r.l.（待核）",
   "founded": "",
-  "hq": "墨西哥",
-  "size": "小型",
-  "other": "gmail；域名失效"
+  "hq": "Italy",
+  "size": "中小型分销 / 电商",
+  "other": ""
  },
+ "business_lines": [
+  "CCTV / 网络设备分销（电商）"
+ ],
  "channels": {
-  "role": "电信承包 / ISP 配套",
-  "region": "墨西哥"
+  "role": "分销商",
+  "region": "意大利"
  },
  "signals": [
-  "曾要 4 台 10G MC（小单可成）"
+  "CEO / VP Sales 具名"
  ],
  "risks": [
-  "reverse PoE 板 / 10G MC 均不在 Saga 价目（SmartByte 另询）",
-  "域名失效"
+  "品牌分销为主；群发无回复"
  ],
  "saga_fit": {
-  "p1": null,
+  "p1": "STC-424XGGM",
   "tier": 20,
-  "why": "10G MC / reverse PoE 板不在价目（按 SmartByte 型号另询并注明）；无 Saga 主推型。"
+  "why": "10G/2.5G 词频 → 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）；CCTV 配套 STC-424DGGPM-280W。"
  },
- "email_hook": "Jose, for the 4 × 10G media converters — SFP+ to 10G RJ45, desktop, ~$60 class EXW; still needed? Reverse-PoE boards we don't make.",
+ "email_hook": "Marco, for the CCTV and SMB channel — Marvell L2+ 24-PoE + 4 uplinks at $135 and 24-GE + 4×10G at $127 EXW, neutral box; would a 2-unit test next to the Netgear/Zyxel units you list make sense?",
  "mail_review": {
   "binding": {
-   "level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：reverse POE板子；回复：4个」；Elsa 箱：`to:telcofusion.com.mx` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(n)））",
+   "level": "未触达（A/S 邮箱 16 封 2025→2026，无记录打开，0 回；收件 asit@asit.it, jacopo.ganz@asit.it；主题多为「Industrial PoE Switch、Commercial PoE Switch」；Elsa 箱：`to:asit.it` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 16 / 来 0）（第 74 批(j)））",
    "type": "—",
-   "sieve": "—（未入筛）",
-   "stop": "从未触达",
-   "revive": "不动（非主攻区；J5：有证据再动）；WhatsApp 已加 → 唤醒走 WhatsApp 一句话，不走邮件",
-   "lane": "墨西哥 非主攻",
-   "cadence": "不动",
-   "evidence": "gmail_digest：out 0；用户表：「兴趣：reverse POE板子；回复：4个」；研究档 risks：reverse PoE 板 / 10G MC 均不在 Saga 价目（SmartByte 另询）"
+   "sieve": "1（只收到群发）",
+   "stop": "16 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "意大利（欧洲全域主攻）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 16；用户表：「兴趣：CCTV 分销商」；研究档 risks：品牌分销为主；群发无回复"
   },
-  "situation": "墨西哥电信承包商 Telcofusion（Jose Gregorio，gmail），需求 reverse PoE 板（Saga 无），2024-08 对 10G MC 要 4 台（SmartByte 10G MC 另询）；WA 15 次无实质回复。",
-  "need": "10G MC / reverse PoE 板不在价目（按 SmartByte 型号另询并注明）；无 Saga 主推型。",
-  "breakpoint": "reverse PoE 板 / 10G MC 均不在 Saga 价目（SmartByte 另询）",
+  "situation": "意大利 CCTV / 网络分销商（在线商店；Ubiquiti、Dahua、D-Link、Huawei、Netgear、Zyxel；switch 86 / poe 39），Owner & CEO Jacopo Ganz、VP Sales Marco Gabriele；表内 CCTV 分销商；群发 4 次无回复。",
+  "need": "10G/2.5G 词频 → 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）；CCTV 配套 STC-424DGGPM-280W。",
+  "breakpoint": "品牌分销为主；群发无回复",
   "saga_now": {
-   "p1": "—",
+   "p1": "STC-424XGGM",
    "tier": 20,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "10G MC / reverse PoE 板不在价目（按 SmartByte 型号另询并注明）；无 Saga 主推型。",
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2026-09-30 $180（24 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2025-09-23 $280（10G Enterprise SFP Switch）",
+   "why": "10G/2.5G 词频 → 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）；CCTV 配套 STC-424DGGPM-280W。",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—",
-   "one_question": ""
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Marco, for the CCTV and SMB channel — Marvell L2+ 24-PoE + 4 uplinks at $135 and 24-GE + 4×10G at $127 EXW, neutral box; would a 2-unit test next to the Netgear/Zyxel units you list make sense?"
   },
   "facts": [
+   {
+    "date": "2026-10-07",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Industrial PoE Switch、Commercial PoE Switch",
+    "why": "16 封 / 0 次打开 / 0 回｜首封 2025-06-20 → 末封 2026-10-07（16 去 / 0 来）",
+    "k": "gmail_digest"
+   },
    {
     "date": "2026-10-21",
     "dir": "用户表",
     "who": "Simon",
-    "quote": "兴趣：reverse POE板子；回复：4个",
+    "quote": "兴趣：CCTV 分销商",
     "why": "表内备注",
     "k": "用户表"
    }
   ],
-  "proof_gaps": [
-   "无邮件往来",
-   "用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
-  ],
+  "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-24"
  }

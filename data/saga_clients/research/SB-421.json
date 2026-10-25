@@ -1,116 +1,133 @@
 {
   "code": "SB-421",
-  "name_official": "Metal Union（波兰；邮箱 pro.onet.pl；电话 +48 34 Częstochowa 区号）",
+  "name_official": "Distributed Business Solutions（迪拜）",
   "researched_at": "2026-10-21",
-  "website_status": "无域名（仅表内信息）",
-  "summary": "波兰 Częstochowa 一带（+48 34）的金属加工/工业企业 Metal Union（onet 企业邮箱）：已成交——购买 2 个光模块 + 1 个光电转换器 €50；WhatsApp 加不上；无跟进记录。工业终端小客户，复购路径为车间光纤链路。",
+  "website_status": "在线（distribolutions.com，快照 2026-10-21）",
+  "summary": "迪拜 IT 方案商（路由交换、网络安全、网管、大数据分析；Ubiquiti），2021 年自建站询盘 10G 双纤 LC 10 km 模块，报价后称要 100G；需求 = 光模块（Q-32 缺口）。",
   "type": "",
   "size": "",
   "brands_seen": [],
   "evidence": [
     {
+      "kind": "官网快照",
+      "claim": "业务：路由交换 / 网络安全 / 网管 / 分析；+971 4 3886508",
+      "quote": "ROUTING & SWITCHING… NETWORK SECURITY… NETWORK MANAGEMENT… Analytics On Big Fast Data",
+      "url": "https://distribolutions.com/",
+      "date": "2026-10-21"
+    },
+    {
       "kind": "用户表",
-      "claim": "购买 2 个模块 + 1 个 MC，€50（成交）；WhatsApp 加不上",
-      "quote": "买了2个模块+1个MC 50Euros … 4834/3661300 加不上",
+      "claim": "兴趣 10G 双纤 LC 10 公里模块；2021-10 发了价格问要多少个→要 100G 的",
+      "quote": "兴趣：10G 双纤 LC 10公里模块；回复：要100G的",
       "url": "（本地 Clients/ 表格，无公开 URL）",
       "date": "2026-10-21"
     }
   ],
-  "kp": [],
+  "kp": [
+    {
+      "name": "Ajith Rajan",
+      "title": "（表内联系人）",
+      "email": "ajithpr@distribolutions.com",
+      "phone": "+971 4 388 6508",
+      "source": "（本地 Clients/ 表格，无公开 URL）"
+    }
+  ],
   "grade_override": null,
   "override_reason": "",
   "notes": "（无首轮调研；由 deepen.py 建档）",
   "deep": {
     "done_at": "2026-10-21",
-    "level": "无域名 · 仅表内信息（已成交）"
+    "level": "B 级加厚 v1（官网快照 + 表内）"
   },
   "company_facts": {
-    "legal_name": "Metal Union（表内；未能核实法人）",
-    "hq": "波兰（+48 34 区号）",
-    "size": "微型/小型"
+    "legal_name": "Distributed Business Solutions（待核）",
+    "founded": "",
+    "hq": "Dubai, UAE",
+    "size": "小型方案商",
+    "other": ""
   },
   "business_lines": [
-    "金属加工（据名称推断）",
-    "车间网络自建"
+    "企业网络 / 安全 / 网管方案"
   ],
   "channels": {
-    "邮箱": "（表内 onet.pl）"
+    "role": "IT 方案商",
+    "region": "阿联酋"
   },
-  "signals": [
-    "已成交 €50（模块 + MC）→ 车间扩展时需要 DIN 工业交换机"
-  ],
   "risks": [
-    "单量小；WhatsApp 加不上；0 次跟进记录"
+    "需求为 10G/100G 光模块（Saga 无）；2021 年后无互动"
   ],
   "saga_fit": {
-    "p1": "STI-240GE",
+    "p1": null,
     "tier": 25,
-    "why": "工业终端 25% 档：车间加几条光纤落点 → 非管理 DIN 4 GE + 2 SFP STI-240GE（$29.1 @25%，与钩子句一致；第 74 批(r) 2026-10-25 由 STI-280DGGM $130.8 改——小机加工厂用不上 L2+ 2.5G）；备选 8 GE + 2 SFP 非管理 STI-280GE $48.6"
+    "why": "光模块需求不在价目（Q-32）；无主推型。"
   },
-  "email_hook": "Following the two SFP modules and media converter you bought, if the shop floor needs more fibre drops a DIN-rail 4-port gigabit switch with 2 SFP is $29.1 EXW; how many machines are you linking?",
+  "email_hook": "（待 Q-32；不主动发送）",
   "mail_review": {
     "binding": {
-      "level": "未触达（S 邮箱 6 封 2024，无记录打开，0 回；收件 42810730@pro.onet.pl；主题多为「5 port industrial switch、24 port poe switch」）；Elsa 群发 BCC 已触达 2026-09-01「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，PL 批次 To biuro@zintronic.pl，0 回（第 73 批(o) Bcc 头核对 msg 1a05bfb71364077f）",
+      "level": "Elsa 群发 BCC 已触达 2026-08-12「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，非洲/中亚/中东散户-2（锚 2026 起 jango KZ） 批次 To jango.94.94@gmail.com，首见 2025-12-09，0 回（第 74 批 Bcc 头核对 msg 19ff56a1da83b526）；S/A 箱：S/A 邮箱均无往来；来源：用户表「兴趣：10G 双纤 LC 10公里模块；回复：要100G的」）",
       "type": "—",
-      "sieve": "1（只收到群发）",
-      "stop": "6 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-      "revive": "保持季度群发到 2027-Q1；无打开即停",
-      "lane": "PL 次级重点",
-      "cadence": "季度",
-      "evidence": "gmail_digest：out 6；用户表：「买了2个模块+1个MC 50Euros … 4834/3661300 加不上」；研究档 risks：单量小；WhatsApp 加不上；0 次跟进记录；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To biuro@zintronic.pl）2025-04-03→2026-09-01 共 10 轮群发（Marvell Alleycat5 Solution、16 Port Ethernet Switch、Mini Industrial PoE Switch、Managed Optical Bypass Switch、8 Port Industrial PoE Switch、Industrial PoE Switch、10G Enterprise SFP Switch、OEM Core Switching Solution、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断"
+      "sieve": "—（未入筛）",
+      "stop": "从未触达",
+      "revive": "不动（非主攻区；J5：有证据再动）",
+      "lane": "阿联酋 非主攻",
+      "cadence": "不动",
+      "evidence": "gmail_digest：out 0；用户表：「兴趣：10G 双纤 LC 10公里模块；回复：要100G的」；研究档 risks：需求为 10G/100G 光模块（Saga 无）；2021 年后无互动；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To sibandaprofp@gmail.com）2025-04-15→2025-12-09 共 8 轮群发（Booster PoE Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断；该批次最早 2025-03-02 起共 9 轮，更早轮次 Bcc 未读；同批次（To jango.94.94@gmail.com）本户见于 2026-08-12 名单；该批次最早 2026-05-12 起共 2 轮，更早轮次 Bcc 未读"
     },
-    "situation": "波兰 Częstochowa 一带（+48 34）的金属加工/工业企业 Metal Union（onet 企业邮箱）：已成交——购买 2 个光模块 + 1 个光电转换器 €50；WhatsApp 加不上；无跟进记录。工业终端小客户，复购路径为车间光纤链路。",
-    "need": "工业终端 25% 档：车间加几条光纤落点 → 非管理 DIN 4 GE + 2 SFP STI-240GE（$29.1 @25%，与钩子句一致；第 74 批(r) 2026-10-25 由 STI-280DGGM $130.8 改——小机加工厂用不上 L2+ 2.5G）；备选 8 GE + 2 SFP 非管理 STI-280GE $48.6",
-    "breakpoint": "单量小；WhatsApp 加不上；0 次跟进记录",
+    "situation": "迪拜 IT 方案商（路由交换、网络安全、网管、大数据分析；Ubiquiti），2021 年自建站询盘 10G 双纤 LC 10 km 模块，报价后称要 100G；需求 = 光模块（Q-32 缺口）。",
+    "need": "光模块需求不在价目（Q-32）；无主推型。",
+    "breakpoint": "需求为 10G/100G 光模块（Saga 无）；2021 年后无互动",
     "saga_now": {
-      "p1": "STI-240GE",
+      "p1": "—",
       "tier": 25,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-11-05 $300（48 Port PoE Managed Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-09-01 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-01；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
-      "why": "工业终端 25% 档：车间加几条光纤落点 → 非管理 DIN 4 GE + 2 SFP STI-240GE（$29.1 @25%，与钩子句一致；第 74 批(r) 2026-10-25 由 STI-280DGGM $130.8 改——小机加工厂用不上 L2+ 2.5G）；备选 8 GE + 2 SFP 非管理 STI-280GE $48.6",
+      "price": "按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-12 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-12；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
+      "why": "光模块需求不在价目（Q-32）；无主推型。",
       "repeat": [],
       "gaps": []
     },
     "next_move": {
-      "when": "群发节奏",
-      "channel": "A 邮箱",
-      "action": "观察打开",
-      "one_question": "Following the two SFP modules and media converter you bought, if the shop floor needs more fibre drops a DIN-rail 4-port gigabit switch with 2 SFP is $29.1 EXW; how many machines are you linking?"
+      "when": "不动",
+      "channel": "—",
+      "action": "—",
+      "one_question": ""
     },
     "facts": [
       {
-        "date": "2024-12-03",
+        "date": "2025-04-15",
         "dir": "去",
-        "who": "S 群发",
-        "quote": "5 port industrial switch、24 port poe switch",
-        "why": "6 封 / 0 次打开 / 0 回｜首封 2024-06-21 → 末封 2024-12-03（6 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2025-04-03",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To biuro@zintronic.pl，PL 批次）",
-        "quote": "Marvell Alleycat5 Solution — We are doing Marvell Alleycat5 chip for tailored networking solutions. 1, Support Web GUI change(Logo, model name, MAC, SN, SNMP, OID) 2, Added intere",
-        "why": "Elsa 箱群发 BCC 触达证据（命中地址 42810730@pro.onet.pl）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+        "who": "Elsa 群发（BCC；To sibandaprofp@gmail.com，非洲/中亚/中东散户-2（锚 2025 sibanda ZW） 批次）",
+        "quote": "Marvell Alleycat5 Solution — （头部未取正文；见 Elsa 箱）",
+        "why": "Elsa 箱群发 BCC 触达证据（命中地址 ajithpr@distribolutions.com, distribolutions.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
         "k": "elsa_bcc"
       },
       {
-        "date": "2026-09-01",
+        "date": "2025-12-09",
         "dir": "去",
-        "who": "Elsa 群发（BCC；To biuro@zintronic.pl，PL 批次）",
+        "who": "Elsa 群发（BCC；To sibandaprofp@gmail.com，非洲/中亚/中东散户-2（锚 2025 sibanda ZW） 批次）",
+        "quote": "Booster PoE Switch — This is about our Marvell based managed switch with power boosting feature. 1, Fiber: 4*100M/1G/2.5G/10G 2, Copper: 8*1G RJ45/PoE, max 240W budget 3, ",
+        "why": "Elsa 箱群发 BCC 触达证据（命中地址 ajithpr@distribolutions.com, distribolutions.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+        "k": "elsa_bcc"
+      },
+      {
+        "date": "2026-08-12",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To jango.94.94@gmail.com，非洲/中亚/中东散户-2（锚 2026 起 jango KZ） 批次）",
         "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
-        "why": "Elsa 箱群发 BCC 触达证据（命中地址 42810730@pro.onet.pl）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+        "why": "Elsa 箱群发 BCC 触达证据（命中地址 ajithpr@distribolutions.com, distribolutions.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
         "k": "elsa_bcc"
       },
       {
         "date": "2026-10-21",
         "dir": "用户表",
         "who": "Simon",
-        "quote": "买了2个模块+1个MC 50Euros … 4834/3661300 加不上",
+        "quote": "兴趣：10G 双纤 LC 10公里模块；回复：要100G的",
         "why": "表内备注",
         "k": "用户表"
       }
     ],
-    "proof_gaps": [],
+    "proof_gaps": [
+      "无邮件往来",
+      "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+    ],
     "draft_en": null,
     "as_of": "2026-10-25"
   }

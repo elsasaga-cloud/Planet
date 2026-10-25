@@ -1,582 +1,564 @@
 {
  "code": "SA-006",
- "name_official": "Resonant Networks Pte. Ltd.（Singapore）",
+ "name_official": "Vilink Communications, Inc.（Vi-Link, Irvine/Brea, CA）",
  "website_status": "在线",
- "summary": "新加坡光网络工程公司（2013 年起运营，现公司 2020 年注册，11–50 人，约 $3M 营收），为数据中心/电信/云运营商做光网络设计与部署（海缆 SLTE：ADC、AAE-1），2025 年主营业务代码改为「供应数据中心网络系统与专业服务」。用户表：买过光纤周边（MPO 等），也能用到交换机。",
- "type": "系统集成/工程商（数据中心·光网络）",
- "size": "11–50 人；约 $3M 营收（LinkedIn / RocketReach）",
- "brands_seen": [],
+ "summary": "美国加州光纤数字传输产品制造商（1993 年成立，1–10/11–50 人口径不一，营收约 $11–12M 口径），自有品牌 Vi-Link：视频光端机、光复用器、工业以太网交换机、工业光纤收发器（交通控制应用）。用户表：S 重点名单，兴趣 光猫/3G-SDI/VC/SFP/DAC/MC，1 次实质回复。",
+ "type": "品牌商/贴牌需求（OEM/ODM）——光传输+工业以太网自有品牌",
+ "size": "1–10 人（Crunchbase）/ 11–50（LinkedIn）；营收 $11.2M（ZoomInfo 口径，待核）",
+ "brands_seen": [
+  "Vi-Link"
+ ],
  "evidence": [
   {
-   "kind": "第三方（公司注册信息）",
-   "claim": "主营：供应数据中心网络系统与专业服务；从 2013 年起建光网络，海缆项目经验",
-   "quote": "Its principal activity is SUPPLY NETWORK SYSTEMS AND PROFESSIONAL SERVICES FOR DATA CENTRE … Resonant Networks is a Singapore-based network engineering company specializing in optical network solutions for Data Centres, Telecommunications, and Cloud Operators",
-   "url": "https://recordowl.com/company/pat-management-services-pte-ltd",
+   "kind": "第三方（ZoomInfo）",
+   "claim": "产品线含工业以太网交换机与工业光纤收发器——与 Saga STI 线直接对位",
+   "quote": "Their offerings include Optical Multiplexers … and Unmanaged Industrial Fast Ethernet switches for Traffic Control appli… Vi-Link also produces Industrial Fiber Optic Media Converters and robust Industrial Ethernet network switches",
+   "url": "https://www.zoominfo.com/c/vilink-communications-inc/40928131",
    "date": "2026-10-21"
   },
   {
-   "kind": "第三方（LinkedIn）",
-   "claim": "规模 11–50 人，2013 年成立",
-   "quote": "Industry: Telecommunications · Company size: 11-50 employees · Headquarters: Singapore · Founded: 2013",
-   "url": "https://sg.linkedin.com/company/resonant-networks-pte-ltd",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "地址电话邮箱与业务",
-   "quote": "Build subsea networks in the Asia Pacific region - Build Optical Networks to connect Data Centres … Fibre Characterisation (OLTS, OTDR, PMD, CD) … Address: 81 Ubi Avenue 4 # 09-28 UB.One Singapore 408830 Telephone: +65 6871 4128 E-mail: 11101110@resonantnetworks.com",
-   "url": "https://resonantnetworks.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "注册",
-   "claim": "UEN / 注册日 / 行业分类变更 / 海缆项目",
-   "quote": "Resonant Networks Pte. Ltd. … Live Company … principal activity is SUPPLY NETWORK SYSTEMS AND PROFESSIONAL SERVICES FOR DATA CENTRE … deploying Submarine Line Terminal Equipment for the ADC subsea cable system across Singapore, Hong Kong, and Japan, and building the AAE-1 subsea cable system linking Penang … 20 Feb 2020 Company founded Registered in Singapore under UEN 202005761Z",
-   "url": "https://recordowl.com/company/pat-management-services-pte-ltd",
+   "kind": "第三方（Crunchbase）",
+   "claim": "成立 1993，Irvine CA，1–10 人，sales@vi-link.net",
+   "quote": "Vilink Communications is a manufacturer of fiber optic digital transmission products. Founded Jan 1, 1993 · Irvine, California · 1-10 · sales@vi-link.net",
+   "url": "https://www.crunchbase.com/organization/vilink-communications",
    "date": "2026-10-21"
   },
   {
    "kind": "官网",
-   "claim": "产品清单",
-   "quote": "1-RU 48 channels C-band Mux-Demux - Variable Optical Attenuator in SFP form factor … DWDM Open Line Systems, DWDM with PQC and QKD - Ethernet-over-Copper (2-wire) Extender in SFP form factor",
-   "url": "https://resonantnetworks.com/products/",
+   "claim": "vilinknet.com 已跳转到 vilink.us，产品类目含工业以太网交换机、MC、SFP、AOC/DAC",
+   "quote": "AI Video · Broadcast Video Fiber Extension · Air Fiber · … · Media Converter · Industrial Ethernet Network Switches · Optical Transponder · ITS Data Transceiver · Telephone Extension · SFP module · AOC/DOC",
+   "url": "https://vilink.us/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "工业非管理交换机系列型号 IE5…IE216、IEN10…IEN84，定位智能交通控制",
+   "quote": "Central to these systems are industrial Ethernet switches like the Vi-Link Industrial Unmanaged Ethernet Switches … IE5 IE8 IE10 IE12 IE14 IE18 IE24 IE28 IE216 IEN10 IEN21 IEN41 IEN42 IEN81 IEN82 IEN84",
+   "url": "https://vilink.us/industrial-ethernet-switch/",
    "date": "2026-10-21"
   },
   {
    "kind": "PI",
-   "claim": "成交单据 STSC20240821011（CI，2024-09-06）：Commercial Switch 共 1 台，USD 185.0；采购 HRUI RMB 1040.0；Simon 成本表利润 RMB 336.63",
+   "claim": "成交单据 STSC20240418006（CI，2024-04-18）：STC-4168XGGCM 共 1 台，USD 452.0；采购 SmartByte RMB 2100.0；Simon 成本表利润 RMB 120.16",
    "quote": "",
-   "url": "PI.zip:11 新加坡 Au gg/普通快递发票.xlsx",
-   "date": "2024-09-06"
+   "url": "PI.zip:6 美国 Thu 可发展/CI.xls",
+   "date": "2024-04-18"
   },
   {
    "kind": "PI",
-   "claim": "PI 包文件夹「新加坡 Au gg」：Simon 标签 gg；单号 1 个，2024-09-06 → 2024-09-06，销售 USD 185.0 / RMB 0，Simon 成本统计利润合计 RMB 336.63",
+   "claim": "成交单据 STSC20241119006（PI，2024-11-19）：STC-110XGE、STC-14DUR 共 5 台，USD 530.0；采购 SmartByte RMB 1750.0；Simon 成本表利润 RMB 437.12",
    "quote": "",
-   "url": "PI.zip:11 新加坡 Au gg",
+   "url": "PI.zip:6 美国 Thu 可发展/STSC20241119006.xls",
+   "date": "2024-11-19"
+  },
+  {
+   "kind": "PI",
+   "claim": "成交单据 STSC-20260821-001（Quotation，2026-08-21）：STC-110FE 共 10 台，USD 325.0",
+   "quote": "",
+   "url": "PI.zip:6 美国 Thu 可发展/STSC-20260821-001.xlsx",
+   "date": "2026-08-21"
+  },
+  {
+   "kind": "PI",
+   "claim": "成交单据 STSC20260903006（CI，2026-09-24）：Fiber Media Converter 共 10 台，USD 165.0；采购 SmartByte RMB 0；Simon 成本表利润 RMB 192.61",
+   "quote": "",
+   "url": "PI.zip:6 美国 Thu 可发展/普通快递发票_STSC20260903006.xlsx",
+   "date": "2026-09-24"
+  },
+  {
+   "kind": "PI",
+   "claim": "PI 包文件夹「美国 Thu 可发展」：Simon 标签 可发展；单号 4 个，2024-04-18 → 2026-09-24，销售 USD 1147.0 / RMB 0，Simon 成本统计利润合计 RMB 749.89",
+   "quote": "",
+   "url": "PI.zip:6 美国 Thu 可发展",
    "date": "2026-10-22"
   },
   {
    "kind": "公开平台核查（T29-U18）",
-   "claim": "GitHub 组织 Resonant-Networks：2026-08-31 创建；仓库 zpenodegrid（2026-10-09）、containerlab、aiagentsrepo、adtran-alm、rm1dev-proxmox、fntsolution（均 2026-10-06）；提交者 acestraxionweb（Kuala Lumpur，\"nope. im not a coder. just a problem solver\"）",
-   "quote": "feat: initialize ZPE Systems Nodegrid documentation and tool … feat: initialize Adtran ALM fiber monitoring and license ser… feat: initialize FNT documentation repository as source of t…",
-   "url": "https://github.com/Resonant-Networks",
+   "claim": "vilink.us 产品 sitemap：/shop lastmod 2026-08-06；产品含 IE5/IE8/IE10/IE12/IE14/IE18/IE24/IE28/IE216（工业非网管）、ME12…ME216（网管）、EN12…EN48、MC10/12/13/14/15/100/10G 媒体转换器、VL/HL/DL 系列视频光端机、10G–100G AOC/DAC",
+   "quote": "https://vilink.us/shop/ 2026-08-06T03:32:25+00:00 … /product/ie28/ … /product/me28/ … /product/mc10g/",
+   "url": "https://vilink.us/product-sitemap.xml",
    "date": "2026-10-23"
   },
   {
    "kind": "公开平台核查（T29-U18）",
-   "claim": "adtran-alm README：「documents the official Adtran order 31018123 (PO: OID-537157) for Resonant Networks Pte Ltd」；containerlab README 含 access-comparison.md「Singapore vs Malaysia DC」；zpenodegrid = 裸金属数据中心带外管理与 RS-232 控制台",
-   "quote": "This repository documents the official Adtran order **`31018123`** (PO: `OID-537157`) for **Resonant Networks Pte Ltd** … access-comparison.md # Access Architecture: Singapore vs Malaysia DC",
-   "url": "https://github.com/Resonant-Networks/adtran-alm",
-   "date": "2026-10-23"
-  },
-  {
-   "kind": "公开平台核查（T29-U18）",
-   "claim": "官网联系页：马来西亚办公室 Unit C-1-13 CoPlace 2, Cyberjaya；邮箱 11101110@resonantnetworks.com；+65 6871 4128",
-   "quote": "Malaysia Office Unit C-1-13 CoPlace 2, Block 2260, Jalan Usahawan 1, 63000 Cyberjaya, Selangor",
-   "url": "https://resonantnetworks.com/contact-us/",
+   "claim": "IM28 工业网管千兆交换机 8×RJ45 + 2×SFP，DIN 导轨 10~47 VDC，-40~85°C，4KV 浪涌，SW-Ring 环网 <20ms，标价 $395.00",
+   "quote": "IM28 $395.00 Industrial Gigabits Managed Ethernet Switch, 8* 10/100/1000M TX RJ45, 2* 1000M SX SFP, DIN Rail 10~47 VDC … SW-Ring ring network patent technology (Fault recovery time<20ms)",
+   "url": "https://vilink.us/product/im28/",
    "date": "2026-10-23"
   }
  ],
  "kp": [
   {
-   "name": "—",
-   "role": "销售邮箱（Crunchbase 公开）",
-   "email": "sales@resonantnetworks.com",
-   "phone": "+65 6871 4128",
-   "source": "https://www.crunchbase.com/organization/resonant-networks"
+   "name": "Robin Sun",
+   "role": "联系人（ProcessRegister 名录口径）",
+   "email": "sales@vilinknet.com（产品 PDF 页脚公开）",
+   "phone": "+1 714-312-0654",
+   "source": "https://www.processregister.com/Vilink_Communications_Inc/Supplier/sid161883.htm ; https://vilink.us/wp-content/uploads/2024/08/MC12.pdf"
   },
   {
-   "name": "Au Wai Choon",
+   "name": "Thu Pham",
    "role": "单据联系人",
-   "email": "auwc@resonantnetworks.com（本人来信地址，30 封 2024-07→2026-06）；sales-inf@resonantnetworks.com",
-   "phone": "+65 9734 0606（2024-07-02 签名 M:）",
-   "source": "PI.zip 单据；S/A 邮箱来信表头"
-  },
-  {
-   "name": "Andrea Chew",
-   "role": "来信署名人（职务未在邮件署名里出现）",
-   "email": "andreachewyy@resonantnetworks.com",
-   "phone": "+65 9188 0860（2024-08 签名 M:）",
-   "source": "S/A 邮箱来信 2024-08-21 → 08-30 来信 2 封（第 72 批从邮件表头补）"
-  },
-  {
-   "name": "Bernard Song",
-   "role": "来信署名人（职务未在邮件署名里出现）",
-   "email": "bernardsongyw@resonantnetworks.com",
+   "email": "thupvilink16@gmail.com",
    "phone": "",
-   "source": "S/A 邮箱来信 2024-09-06 来信 2 封（第 72 批从邮件表头补）"
-  },
-  {
-   "name": "Hairomee",
-   "role": "来信署名人（职务未在邮件署名里出现）",
-   "email": "hairomee@resonantnetworks.com",
-   "phone": "",
-   "source": "S/A 邮箱来信 2025-07-08 → 07-28 来信 2 封（第 72 批从邮件表头补）"
+   "source": "PI.zip 单据"
   }
  ],
- "notes": "A 级确认（成单 + 数据中心网络集成）；对位 Hohunet/CENTEC 线 10G/25G（STH 系列）与 STC L3 48 口，而非 PoE 接入。",
+ "notes": "A 确认：美国自有品牌工业交换机/MC 厂商 = 最佳 OEM 对象；P1 应改为 STI 工业系列（非 PoE 商用）。",
  "researched_at": "2026-10-22",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "深挖 v2（官网 + ACRA 注册核对）"
+  "level": "深挖 v1"
  },
  "company_facts": {
-  "legal_name": "Resonant Networks Pte. Ltd.（UEN 202005761Z，2020-02-20 注册；品牌 R~Nets，前身实体 2013-06-14 起）",
-  "founded": "2013 起运营；现公司 2020 注册",
-  "hq": "81 Ubi Avenue 4 #09-28 UB.One, Singapore 408830（+65 6871 4128）",
-  "staff": "11（2025-03 ACRA 变更：3 → 11）/ 10–50",
-  "revenue": "约 $3M（RocketReach 口径）",
-  "other": "主业：数据中心/电信/云运营商光网络工程（设计、部署、光纤特性测试 OLTS/OTDR/PMD/CD、运维）；海缆项目（ADC SLTE 新加坡/香港/日本，AAE-1 槟城—新加坡）；AI-Ready 数据中心（机器人光纤交叉连接、OCS、数字孪生）；产品销售：MTP/MPO 跳线、分路器、1RU 48ch C 波段 Mux/Demux、SFP 形态 VOA、SFP 形态 2 线铜缆以太网延长器、DWDM OLS（PQC/QKD）、测试仪、ODF、DC PDU；2025-07 SSIC 改为「数据中心网络系统供应与专业服务」"
+  "legal_name": "Vilink Communications, Inc.（品牌 Vi-Link）",
+  "founded": "1993（Crunchbase/ZoomInfo 口径）",
+  "hq": "Irvine/Brea, California, USA",
+  "staff": "1–10 / 11–50（口径不一）",
+  "revenue": "约 $11–12M（ZoomInfo 口径，待核）",
+  "other": "2024 年起新站 vilink.us（WooCommerce 直销），vilinknet.com 跳转至此"
  },
  "business_lines": [
-  "数据中心/电信/云运营商光网络设计与部署（海缆 SLTE：ADC、AAE-1）",
-  "数据中心网络系统供应与专业服务",
-  "光纤周边（MPO 等，用户表已成单）",
-  "光网络工程（DC 互联、回传、海缆）",
-  "光纤配件 / DWDM / 测试设备销售",
-  "AI-Ready DC（光交叉、OCS、数字孪生）"
+  "AI 视频",
+  "广播级视频光纤延长",
+  "Air Fiber",
+  "Mini/Compact/Daisy-chain 视频光端机",
+  "HD 模拟视频（TVI/CVI/AHD）",
+  "音频光纤延长",
+  "媒体转换器",
+  "工业以太网交换机（非管理，ITS 交通控制）",
+  "光转发器",
+  "ITS 数据收发器",
+  "电话延长",
+  "SFP 模块",
+  "AOC/DAC 有源光缆"
  ],
  "products_seen": [
   {
-   "brand": "（项目采购）",
-   "model": "MPO/光纤周边；数据中心机柜侧交换机",
-   "spec": "用户表：买过光纤周边，也能用到交换机",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "用户表",
-   "saga": "STC-448XGGM(L3)"
+   "brand": "Vi-Link",
+   "model": "IE5 / IE8 / IE10 / IE12 / IE14 / IE18 / IE24 / IE28 / IE216",
+   "spec": "工业非管理以太网交换机系列（5–16 口，部分带 SFP），面向智能交通控制 ITCS",
+   "url": "https://vilink.us/industrial-ethernet-switch/",
+   "date": "2026-10-21",
+   "saga": "STI-144GP"
+  },
+  {
+   "brand": "Vi-Link",
+   "model": "IEN10 / IEN21 / IEN41 / IEN42 / IEN81 / IEN82 / IEN84",
+   "spec": "工业以太网交换机（IEN 系列，口数/光口组合不同）",
+   "url": "https://vilink.us/industrial-ethernet-switch/",
+   "date": "2026-10-21",
+   "saga": "STI-288DGGPM"
+  },
+  {
+   "brand": "Vi-Link",
+   "model": "Media Converter 类目 + SFP 模块类目",
+   "spec": "MC 与 SFP 为独立类目，与其光端机配套销售",
+   "url": "https://vilink.us/media-converter/",
+   "date": "2026-10-21",
+   "saga": "STI-110GE"
   }
  ],
  "channels": {
-  "直邮": "trevorloijt@resonantnetworks.com（Trevor Loi，成单）/ sales@resonantnetworks.com",
-  "LinkedIn": "https://sg.linkedin.com/company/resonant-networks-pte-ltd",
-  "网站": "https://resonantnetworks.com/",
-  "电话": "+65 6871 4128（官网公开）",
-  "邮箱（公开）": "11101110@resonantnetworks.com（官网通用）",
-  "公开动态平台（监控中，T29-U18）": "GitHub 组织 Resonant-Networks（2026-08-31 建；6 仓库 2026-10-06/09 推送，唯一提交者 acestraxionweb 吉隆坡）；LinkedIn 公司页 138 followers / 8 员工；官网 resonantnetworks.com（WordPress，2025-03 改版后 RSS 无新文）；SG UEN 202005761Z"
+  "网站/网店": "https://vilink.us/（直销 + 购物车）",
+  "直邮": "sales@vilinknet.com / thup@vilinknet.com（用户表，成单联系人 Thu Pham）",
+  "公开动态平台（监控中，T29-U18）": "新站 vilink.us（WooCommerce 网店，2024-07 建；product-sitemap /shop lastmod 2026-08-06；80+ SKU：IE/ME/EN 工业交换机、MC 媒体转换器、VL/HL/DL 视频光端机、AOC/DAC、IL10 OEO）；老站 vilinknet.com；ZoomInfo 11-50 人"
  },
  "signals": [
-  "⬆ 2026-10-23 核查：Simon 标 gg 的 Resonant Networks 其实正处在扩张期——2026-08-31 开 GitHub 组织，10 月初连推 6 个「source of truth」仓库（ZPE Nodegrid 带外管理、Containerlab + Nokia SR Linux 园区拓扑、Adtran/ADVA FSP 3000 ALM 光纤监测、Proxmox 裸金属、FNT Command DCIM、AI 运维 agent），README 写明 Resonant Networks Pte Ltd、「Singapore vs Malaysia DC」、Adtran 订单 31018123；2025-07-08 ACRA 主业改为「数据中心网络系统供应与专业服务」；马来西亚 Cyberjaya 有办公室。建议：从 gg 提回 B（人工定级由 Simon 决定），切入点 = 实验室/testbed 与 DC 带外管理网的接入交换机（STC-4168XGGCM / STC-448XGGPM / 10G 上联款）",
-  "2025：主营业务代码变更为数据中心网络系统供应——从光网络工程向 DC 设备供应延伸（recordowl 2026-10 快照）",
-  "用户表：成单（Trevor Loi，solution provider）",
-  "官网产品页有「Ethernet-over-Copper Extender in SFP form factor」等小众 SFP 形态产品——与 Saga 光模块/MC/DWDM 边缘位（Hohunet CENTEC 线）相邻；接入层交换机非其主业",
-  "2025-03 员工 3 → 11、行业分类变更——在扩张"
+  "2026-10-23 核查：Vi-Link 2024-07 上线 vilink.us 网店并持续维护（/shop 2026-08-06 更新），标价 IM28 工业网管 8T+2SFP $395、IL10 OEO $445——Saga STI-288DGGPM 报 137.5（列表价封顶） USD 有 2.5 倍空间；其产品线（交通路口→TOC 工业环网、SW-Ring <20ms）正是 Saga 工业系列的贴牌对象",
+  "2026-09：工业交换机页面图片全部更新（上传日期 2026/09）——仍在维护该产品线（https://vilink.us/industrial-ethernet-switch/ 2026-10-21）",
+  "用户表：S 重点名单，已成单（Thu Pham），兴趣 光猫/3G-SDI/VC/SFP/DAC/MC"
  ],
  "risks": [
-  "数据中心项目多指定品牌（Cisco/Arista/Juniper），Saga 只能进带外管理网/机柜 TOR 以下的低成本位",
-  "新加坡人工贵、单量小"
+  "ITS/交通控制项目在美国常要求 NEMA TS2 与 Buy America/TAA——Saga 不做 UL/NEMA 认证，只能供非政府/商业项目",
+  "其交换机为自有品牌贴牌 → 30% OEM 档，且要求中性包装"
  ],
  "saga_fit": {
-  "p1": "STC-448XGGM(L3)",
-  "tier": 25,
-  "why": "DC 项目的管理网/带外网与非关键 TOR：48 口千兆 + 10G 上联 L3（STC-448XGGM(L3)）与 24 口 10G 上联（STC-424XGGPM-280W）；MPO/光纤周边继续配套供货"
+  "p1": "STI-288DGGPM",
+  "tier": 30,
+  "why": "自有品牌 IE/IEN 工业交换机系列（5–16 口）与 Saga STI 工业线一一对应：IE5→STI-144GP（4+1 PoE）/ IE8·IEN82·IEN84→STI-288DGGPM（8 PoE + 2 SFP 管理型）；MC 类目→STI-110GE；按 OEM 贴牌 30% 档报价"
  },
- "email_hook": "For the out-of-band and management layer on data-centre jobs a 48-port L3 unit with 10G uplinks at EXW pricing is where we are usually slotted in, so I am sending that alongside the MPO assemblies Trevor ordered before.",
+ "email_hook": "Your IE/IEN industrial series sits exactly on the port counts we build as OEM (4+1, 8+2 SFP, 16+2), so I can quote the 8-port DIN managed unit in Vi-Link neutral packing alongside the media converters Thu already ordered.",
  "deal_pi": {
-  "folder": "11 新加坡 Au gg",
-  "simon_label": "gg",
+  "folder": "6 美国 Thu 可发展",
+  "simon_label": "可发展",
   "pay": "",
   "bind": "",
-  "buyer": "Resonant Networks Pte Ltd",
-  "orders": 1,
-  "first": "2024-09-06",
-  "last": "2024-09-06",
-  "usd": 185.0,
+  "buyer": "Vi-Link, Inc.",
+  "orders": 4,
+  "first": "2024-04-18",
+  "last": "2026-09-24",
+  "usd": 1147.0,
   "rmb": 0.0,
-  "profit_rmb": 336.63,
-  "models": "Commercial Switch"
+  "profit_rmb": 749.89,
+  "models": "Fiber Media Converter、STC-110FE、STC-110XGE、STC-14DUR、STC-4168XGGCM"
  },
- "watch": {
-  "as_of": "2026-10-23",
-  "github_watch": [
-   "Resonant-Networks",
-   "acestraxionweb"
-  ],
-  "web_watch_targets": "scripts/web_watch/targets.json#SA-006",
-  "status": "data/customer_watch/当前状态.md",
-  "log": "data/customer_watch/变化日志.md"
- },
+ "grade_override": "A",
+ "override_reason": "PI 包成单客户，Simon 标签 可发展 → A",
  "mail_review": {
-  "binding": {
-   "level": "轻度（ISP 已测试通过 1 台 10G MultiGig；无批量成交；Elsa 箱：`to:resonantnetworks.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 43 / 来 36）（第 74 批(n)））",
-   "type": "新加坡 ISP 渠道集成商（混合：技术验证过，最终败于价格）",
-   "sieve": "3（样机测试、与 ISP 谈到捆绑 IP 摄像头「thousands」）",
-   "stop": "价格——2025-11-11「we lost to TP-Link. Their price is much lower than our costs (about half the buy price from you)」；Simon：「about 100usd/pc, we cannot make it」",
-   "revive": "ISP 下一代（10G/2.5G 接入）招标时 Saga 有 Realtek 多千兆低价机（HRUI 线）或 CENTEC 高速机可报；2026-06-22 对方礼貌回复仍在线",
-   "lane": "SG 已通（PayPal/T/T、顺丰/DHL）",
-   "cadence": "最后 2026-09-21 Simon 推 24 口 PoE $180（无回）；对方最后实质来信 2025-11-11；实质往来 2024 → 2025-11，来 36 封",
-   "evidence": "S 邮箱 k=fd9c27052dfa1bd1 / a28f30c8f3795eea / 2c2282af0677f30a / c277ca62ea0df0da / b26aafe834fa3423；第 19 批回补来信原文 8 条（gmail_s/gmail_a）"
-  },
-  "situation": "新加坡 Resonant Networks（Au Wai Choon、Hairomee）2025-03 ISP 测试 10G MultiGig 通过，要捆绑低价 IP 摄像头「thousands together with the switch」；7 月客户评估拖延、嫌贵（附 TP-Link 多千兆零售价）；11-11「lost to TP-Link… about half the buy price from you」；Simon 答 $100/台做不到。2026-02/06/09 Simon 三次推送，6-22 对方仅礼貌回复。**B 级里来信最多的户，走完了验证却败在 Marvell 与 TP-Link 的价差上。**",
-  "need": "ISP 家用/SOHO 10G MultiGig（100M–10G）接入交换机 + 捆绑摄像头，量级千台，目标成本 ≈ TP-Link 零售价的一半以下。",
-  "breakpoint": "C6：Marvell 线做不到 ISP 零售级价格；这是「芯片线 ≠ 市场」而非谈判失误。",
+  "as_of": "2026-10-24",
+  "situation": "Vi-Link 是 S 邮箱里最稳定的**美国 OEM 复购客户**：2024-04 一台 L3 光口交换机（STC-4168XGGCM，$452，印 Vi-Link logo）→ 2024-11 五台 10G/1G 媒体转换器 OEM（MC10G / MC1400，$530）→ 2026-09 十台千兆媒体转换器 OEM（MC1000SC03 = LT-MC80G-SC20，$165，T/T 已付、DHL 8604097423 已发）。联系人 Thu Pham 每次都亲自对丝印、字体、PI；单量小（1–10 台）但三次全部成交、零拖欠。2026-09-24 Simon 顺手推了 STC-424XGGPM-280W（1200 RMB/台），Thu 09-25 回「It looks good. I will take a look at the switch. What would be our cost?」，Simon 09-27 只回了「1300RMB/PC」——**一个正在等报价细节的商用 PoE 交换机机会，停在这里 25 天**。",
+  "need": "① 给自家 Vi-Link 品牌补齐 OEM 产品线：媒体转换器（10/100、千兆、10G）、机架（MC1400 14 槽）、光口交换机；② 终端客户不要 DIP 拨码（2026-09-01：『My customer didn't like the DIP switches』）→ 要**纯净外观 + 全白顶盖可丝印**；③ 刚表达对商用 24 口 PoE 交换机（STC-424XGGPM-280W）的兴趣，问的是「our cost」= 经销成本价。",
+  "breakpoint": "09-27 的回复只给了 RMB 单价，没有 USD、没有 MOQ/样品/交期、没有问用途；之后 S 邮箱无来往。另一个隐患：2026-09-08 新批次外壳顶盖带印刷字（『It will look like I use some one products, and it will be off the OEM purposed』）——下次下单前要先确认外壳是否仍为全白。",
   "saga_now": {
-   "p1": "Realtek/HRUI 多千兆机已经卖过他 1 台（STC-08XGWE $185，PO SGP250051 2024-08）；2026-10 对外价 STC-05XGWE 5×10G 网管 $138 / STC-08XGWE $193 / STC-08XGE 非管理 $181.5 / STC-18XGDGE 1×10G + 8×2.5G $50.1（`data/hrui_STC对照表.csv`）——比 2024 报的 $145/$200/$170 还高，ISP 价格敏感无解，不推；等有 ≤$100 多千兆方案再触达",
-   "tier": 25,
-   "price": "不报价（当前线做不到 $100）；历史报价（邮件原话，老汇率）：2024-07-21 STC-08XGE 170usd / 200usd；2024-07-03 ；2024-07-02 STC-18XGDGE 50usd；2024-08-21 185usd；2024-09 客户复述的 Saga 报价：5 口管理 $145 / 8 口管理 $200 / 8 口非管理 $170（STC-08XGWE 演示机 $185）；群发里他已看到的价（续，第 66 批全量复核）：2024-12-11 $300（48 Port PoE Managed Switch）",
-   "why": "C3：ISP 千台级是「拼命单」且价格主导｜毛利复盘：一单 22.6%（ZX-SWTGW2C80N 成本 1,040，代采）——正常",
+   "p1": "STC-424XGGPM-280W",
+   "tier": 20,
+   "price": "Simon 已口头报 1300 RMB/台（≈$194 USD EXW @6.69）；仓内 20% 档为 $181.2（CNY 1010 ×1.2 ÷6.69，2026-10-17 快照）→ 以 Simon 口头价为准，邮件里写 USD $194 EXW 并注明 15 天有效；历史报价（邮件原话，老汇率）：2024-11-16 ；2024-11-14 ；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2026-07-20 $1500（24 Port 10G SFP+ Switch）；群发里他已看到的价（续，第 66 批全量复核）：2024-11-13 $65（10G Media Converter）、2025-10-30 $280（10G Enterprise SFP Switch）（㉕ 封顶：STI-288DGGPM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25）",
+   "why": "对方刚主动问价，且是能自己贴牌卖的美国品牌商 → 20% 档（经销/贴牌转售）；首单按 1–2 台样机 + OEM 丝印走，和他过去三单一样的节奏｜毛利复盘：三单 3.8% / 11.4% / 8.4%，利润合计 750 RMB——丝印固定费 + 运费摊在 4–10 台上；以后丝印单收一次性费（2024-11 收过 $50）或 MOQ 20 台，否则只维持不追",
    "repeat": [
-    "2024-09-06 唯一一单：Commercial Switch 样品级 $185（Simon 利润 RMB 337）；此后 Au Wai Choon 30 封来信全是技术/询价往来，无第二单（PI 复盘 #11）"
+    "STC-110GE（纯净版千兆 MC，Vi-Link 型号 MC1000SC03）：已成交 10 台，确认顶盖全白后可随时复购",
+    "STC-110XGE 10G MC + STC-14DUR 14 槽机架（Vi-Link MC10G / MC1400）：2024-11 成交 5 台",
+    "STC-110FE（MC100SC03，带 DIP）：2026-08 报过 $32.5/台，终端客户拒绝 DIP 版 → 只在客户明确接受 DIP 时再推"
    ],
    "gaps": [
-    "HRUI 线是否有 2.5G/10G MultiGig 低价机型可对 TP-Link——查 `价格主表_HRUI.csv`/规格书后再定",
-    "无风扇版 5/8 口 10G 多千兆（2024-09-04 问过，Saga 未答）"
+    "外壳顶盖是否恢复全白（SmartByte 2026 新批次有印刷字）——下次 PI 前先向 SmartByte 确认",
+    "Vi-Link 要的『no DIP』纯净 MC 在 Saga 价格主表里没有商用 MC 条目 → 继续用 SmartByte LT-MC80G 系列报价并在 MD 标注",
+    "Vi-Link 主业是 SFP 模块（2024-05-31 自述）——交换机/MC 是其副线，复购节奏取决于其美国客户项目"
    ]
   },
   "next_move": {
-   "when": "2027-Q1（ISP 年度预算）",
-   "channel": "S 邮箱 → andreachewyy@resonantnetworks.com（Andrea Chew）",
-   "action": "只在 Saga 有 ≤$100 多千兆方案时再触达；否则季度群发即可（第 75 批(am) 2026-10-25：不写信稿——按 action 只在有 ≤$100 多千兆方案时再触达；季度群发由模板覆盖）",
-   "one_question": "（有低价方案时）Is the ISP's multi-gig access refresh still open for 2027, and what is the target unit cost this time?"
+   "when": "立即（距 09-27 已 25 天）",
+   "channel": "S 邮箱回复同一线程「Re: Fw: T/T Payment」或新主题",
+   "action": "补一封完整的 STC-424XGGPM-280W 报价：USD $194 EXW、OEM 丝印免费、1 台样机即可、交期 7–10 天；顺带确认 MC1000SC03 到货反馈（第 75 批(n)：信稿去掉 CLI（未核实）",
+   "one_question": "Is this 24-port PoE switch for your own Vi-Link label (same OEM printing as the converters), or for a specific end-customer project?"
   },
   "facts": [
    {
-    "date": "2024-07-02",
+    "date": "2024-04-16",
     "dir": "来",
-    "who": "auwc@resonantnetworks.com",
-    "quote": "Hi Simon, How much is it? Best regards, Wai Choon, Au Resonant Networks Pte Ltd | M: +65 9734 0606 | W: www.resonantnetworks.com<http://www.resonantne",
-    "why": "来信原文（主题「Re: 2.5G switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
-    "k": "e14599fb95e788eb"
+    "who": "Thu Pham（Vi-Link, Yorba Linda CA）",
+    "quote": "Do you provide OEM Private label for this product? If yes, What is the cost of sample unit with our Logo and shipping to California? And can you accept PayPal payment?",
+    "why": "第一封回信就是三件事：OEM 贴牌、样机到加州的成本、PayPal——Vi-Link 从一开始就是「自有品牌 + 小单 + PayPal」画像；04-17「For the sample and evaluation I just need 1 unit. I will introduce this product to our customers and see if we can sell it in the US」",
+    "k": "gmail_s（thupvilink16@gmail.com / tonypvilink@outlook.com；Thu 的回信为顶部引用格式，早期脚本漏抓）"
    },
    {
-    "date": "2024-07-02",
+    "date": "2024-04-17",
+    "dir": "来",
+    "who": "Thu Pham（Vi-Link，thupvilink16@gmail.com）",
+    "quote": "For the sample and evaluation I just need 1 unit. I will introduce this product to our customers and see if we can sell it in the US… please send me the total invoice included shipping cost and PayPal payment account（附 Vilink Logo 2440.pdf）",
+    "why": "首单的起点：1 台样机、PayPal、带 logo——美国 OEM 复购客户的第一步",
+    "k": "gmail_s 4c859aea7c100a66"
+   },
+   {
+    "date": "2024-04-17",
+    "dir": "来",
+    "who": "Thu Pham（Vi-Link，thupvilink16@gmail.com）",
+    "quote": "For the Marvell chip type OEM will you print our Logo on the front chassis and change the Logo in the management software?",
+    "why": "OEM 两件事：前面板丝印 + 管理软件 logo——后来每单都照此",
+    "k": "gmail_s cce072ccb2fc537f"
+   },
+   {
+    "date": "2024-04-18",
+    "dir": "去",
+    "who": "Simon → Thu",
+    "quote": "PI STSC20240418006：1× STC-4168XGGCM $452，Vi-Link logo 丝印（Visio 源文件往返 6 轮）",
+    "why": "首单即 OEM，证明对方接受贴牌与中国货源",
+    "k": "c99c94abd0c7eed6"
+   },
+   {
+    "date": "2024-04-18",
+    "dir": "来",
+    "who": "Thu Pham",
+    "quote": "For the Logo on the front panel I would need you to print the Logo and model number on the panel not using the label or sticker. I will send you the payment now",
+    "why": "贴牌要求是「面板印刷不是贴纸」（Visio 源文件、Arial 字体、6 轮确认）；04-25「I did not see any Vi-Link logo in the software?」→ Web GUI 也要换 logo；04-25「We are re-building our website and will look for more products in the Data Center area」",
+    "k": "gmail_s（thupvilink16@gmail.com / tonypvilink@outlook.com；Thu 的回信为顶部引用格式，早期脚本漏抓）"
+   },
+   {
+    "date": "2024-04-19",
+    "dir": "来",
+    "who": "Thu Pham（Vi-Link，thupvilink16@gmail.com）",
+    "quote": "With Visio file you can change the fonts to whatever you want. In this case the Vi-Link font is \"Arial\"… Yes, Option 2 is OK for now（附 Vi-Link Logo EN2440.pdf / Vi-Link Logo.vsd）",
+    "why": "logo 源文件只有 Visio/PDF，Simon 要 AI/PS——丝印文件格式问题从首单起就有，2026-09 又出现一次",
+    "k": "gmail_s 2e79f01cb18ff639"
+   },
+   {
+    "date": "2024-04-20",
+    "dir": "来",
+    "who": "Thu（Vilink_Models.pdf，1st order）",
+    "quote": "VL Vi-Link / Fiber Optic Communications / Model MC100 · MC100SFP · MC1000 · MC10G / Fiber Optic Media Converter / Ethernet 10/100M Base-TX To Ethernet 100M SC Conversion…",
+    "why": "Vi-Link 自有型号体系（MC100/MC100SFP/MC1000/MC10G/MC1000SC03）与丝印版式从首单就定稿，Saga 手里有 Visio/XPS/DWG 源文件——换供应商要重做全部丝印文件",
+    "k": "Drive PI 文件夹（data/pi_2026-10/text） 6_Thu"
+   },
+   {
+    "date": "2024-04-25",
+    "dir": "来",
+    "who": "Thu Pham（Vi-Link，thupvilink16@gmail.com）",
+    "quote": "It looks good. But I did not see any Vi-Link logo in the software? Shipping address: Thu Pham, 5160 Avenida De Despacio, Yorba Linda, CA 92887… We are re-building our website and will look for more products in the Data Center area",
+    "why": "出货前验收抓到软件 logo 没改；收货地（加州 Yorba Linda）；预告要看数据中心产品",
+    "k": "gmail_s 9c5a64c2246332a8"
+   },
+   {
+    "date": "2024-05-14",
+    "dir": "来",
+    "who": "Thu Pham",
+    "quote": "We received the Switch and did not see the Operation Software CD come with in. Don't we always provide the Software CD with the product?… We are using the old style CD. Can I download and create a CD somehow?",
+    "why": "美国小品牌商的交付习惯：要随机光盘/下载包（Simon 给了 Google Drive 下载链接）；05-31「Our engineers are testing the product. We are kind of busy in the SFP modules project」→ Vi-Link 主业是 SFP 模块，交换机是副线",
+    "k": "gmail_s（thupvilink16@gmail.com / tonypvilink@outlook.com；Thu 的回信为顶部引用格式，早期脚本漏抓）"
+   },
+   {
+    "date": "2024-05-15",
+    "dir": "来",
+    "who": "Thu Pham（Vi-Link，thupvilink16@gmail.com）",
+    "quote": "Yes. We are using the old style CD. Can I download and create a CD somehow?",
+    "why": "客户还在用光盘式资料——老派美国小公司",
+    "k": "gmail_s 202a39ac28c427b5"
+   },
+   {
+    "date": "2024-05-16",
+    "dir": "去",
+    "who": "Simon（S 邮箱）",
+    "quote": "What content are you planning to write in the CD?… we really do not do CD for quite a few years… a client uses marvell L3 switches is professional and does CLI log-in",
+    "why": "老客户要光盘资料，Saga 多年不做 CD——资料改走 Google Drive 文件夹（04-29 已给专属链接）",
+    "k": "gmail_s d4d10442c4af1c47"
+   },
+   {
+    "date": "2024-05-31",
+    "dir": "来",
+    "who": "Thu Pham（Vi-Link，thupvilink16@gmail.com）",
+    "quote": "Our engineers are testing the product. We are kind of busy in the SFP modules project so it will take us sometimes to finish the testing",
+    "why": "首台 L3 光口机测试拖了很久；Vi-Link 主业是光模块",
+    "k": "gmail_s d0f2bc51cd5b6a4b"
+   },
+   {
+    "date": "2024-06-01",
+    "dir": "来",
+    "who": "用户表（Simon 跟进记录；渠道 Email）",
+    "quote": "用户表跟进：推「问测试结果」→ 对方「在忙其他的」",
+    "why": "Simon 跟进表里的回应记录（邮箱看不到的渠道）；按原文留存",
+    "k": "Clients/S 09.08.xlsx no.13 2024.6.1"
+   },
+   {
+    "date": "2024-11-13",
+    "dir": "来",
+    "who": "Thu Pham",
+    "quote": "Can you send me the details information of this 10G Media Converter and the 14 Slot rack Plus rack cards. Questions the Rack cards: I have 16 slots Web-managed rack for 100M and 1000M MC Rack cards. Why do you use 14 Slots rack chassis instead of 16 slots chassis?",
+    "why": "第二单（STSC20241119006：4 台 10G MC + 1 机架）由 Simon 群发「10G Media Converter」触发；客户已有 16 槽网管机架 → 14 槽是 Saga 的产品差异点要解释",
+    "k": "gmail_s（thupvilink16@gmail.com / tonypvilink@outlook.com；Thu 的回信为顶部引用格式，早期脚本漏抓）"
+   },
+   {
+    "date": "2024-11-14",
     "dir": "去",
     "who": "Saga（Simon）",
-    "quote": "Hi, Au, Thanks for your interest. 50usd/pc STC-18XGDGE 1*10G SFP slot+8*100M/1000M/2.5G Copper, unmanaged, non-PoE, DC input, with power cable, without sfp module. Please see attached datasheet for more information. Thank you. On Tue, Jul 2, 2024 at 10:22 AM A",
-    "why": "历史报价点（主题「Re: 2.5G switch」；第 20 批从 gmail_s 回补）：STC-18XGDGE 50usd",
-    "k": "90a2996a99eb6cc2"
+    "quote": "Hi, Thu, Thanks for your information. 1, please see attached datasheets. 2, for this 14-slot rack, it is housing the standalone units, not cards. Pros: Easier to insert or plug out for other purposes(directly use it elsewhere, while cards are not that easy), a",
+    "why": "历史报价点（主题「Re: 10G Media Converter」；第 20 批从 gmail_s 回补）：",
+    "k": "aa5bd145269a4a45"
    },
    {
-    "date": "2024-07-03",
+    "date": "2024-11-15",
     "dir": "来",
-    "who": "auwc@resonantnetworks.com",
-    "quote": "Hi Simon, Do you have tests done that it can switch automatically between 1G, 2.5, 5 and 10G when it connects to different type of devices? If yes, pl",
-    "why": "来信原文（主题「Re: 10G MultiGig switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
-    "k": "0c1c68685677a0aa"
+    "who": "Thu Pham",
+    "quote": "I will need to do Silkscreen on the equipment… I also increase the resolution of the logos so you can do Laser print (another technique)… It does not look right. Can you just use the top part and… add the \"Ethernet 10G Base-TX to Ethernet 10G SFP Conversion\" with the same Font… and a line between them",
+    "why": "丝印细节反复 4 轮（11-14 两版 logo、11-18、11-19、11-21 Visio 定稿、12-03「It looks good」）——每单都要走一遍丝印确认，是 Vi-Link 的固定成本，也是绑定点（模板已在 Saga 手里）",
+    "k": "gmail_s（thupvilink16@gmail.com / tonypvilink@outlook.com；Thu 的回信为顶部引用格式，早期脚本漏抓）"
    },
    {
-    "date": "2024-07-03",
-    "dir": "来",
-    "who": "auwc@resonantnetworks.com",
-    "quote": "Hi Simon, Excellent! I’m looking forward to the 5-port Multi-Gig switch. We intend to sell to ISP (Internet Service Providers) in Singapore and Malays",
-    "why": "来信原文（主题「10G MultiGig switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
-    "k": "28da2be220e94209"
-   },
-   {
-    "date": "2024-07-03",
-    "dir": "来",
-    "who": "auwc@resonantnetworks.com",
-    "quote": "Hi Simon, Thank you for your fast response. Kindly confirm the ports can support 5Gbps too. I check your specs, see below (orange highlight say can su",
-    "why": "来信原文（主题「Re: 2.5G switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
-    "k": "a943a224caffa1ed"
-   },
-   {
-    "date": "2024-07-03",
-    "dir": "来",
-    "who": "auwc@resonantnetworks.com",
-    "quote": "Hi Simon, 1) Purpose: We are looking for 2x10G Ethernet UTP (Copper) port with 2 x2.5G Ethernet UTP ports switch. See here: https://shopee.sg/OWC-THUN",
-    "why": "来信原文（主题「Re: 2.5G switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
-    "k": "ce207bc45a47a708"
-   },
-   {
-    "date": "2024-07-03",
+    "date": "2024-11-16",
     "dir": "去",
     "who": "Saga（Simon）",
-    "quote": "Hi, Au, Thanks for your information. Requirement 1 2*10G+2*1G/2.5G, full UTP ports Requirement 2 2*10G+4*1G/2.5/5G, full UTP ports We have a model for both, 8*10G UTP. I know the specification is higher, this is the closest model we have. As far as I know, ver",
-    "why": "历史报价点（主题「Re: 2.5G switch」；第 20 批从 gmail_s 回补）：",
-    "k": "af564e63f6de5441"
+    "quote": "Hi, Thu, Thanks for your information. After confirmation, its OK to move on. 1, Please PS/AI source file that contains *detailed description* of your logo. *Especially the white part as I marked.* If you proceed with the photo you shared in last email, the eff",
+    "why": "历史报价点（主题「Re: 10G Media Converter」；第 20 批从 gmail_s 回补）：",
+    "k": "9b26b8e5f17f8e5c"
    },
    {
-    "date": "2024-07-04",
-    "dir": "来",
-    "who": "auwc@resonantnetworks.com",
-    "quote": "Thank you Simon! Best regards, Wai Choon, Au Resonant Networks Pte Ltd | M: +65 9734 0606 | W: www.resonantnetworks.com<http://www.resonantnetworks.co",
-    "why": "来信原文（主题「Re: 10G MultiGig switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
-    "k": "2bdbd0b1a6955e9b"
-   },
-   {
-    "date": "2024-07-04",
-    "dir": "来",
-    "who": "auwc@resonantnetworks.com",
-    "quote": "Hi Simon, Impressive and comprehensive test doc. Thank you so much. The 5-port 10GE UTP switch, what will be the FOB price? As for the 8-port 10G UTP",
-    "why": "来信原文（主题「Re: 10G MultiGig switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
-    "k": "ae618b2e793c520d"
-   },
-   {
-    "date": "2024-07-04",
+    "date": "2024-11-19",
     "dir": "去",
-    "who": "Simon → Au Wai Choon",
-    "quote": "For 5-port model, it is not launched yet, so no pricing for now… roughly in mid-autumn. For the lead time, it takes about 40 calendar days for 1K pieces… We did a thorough test for one important domestic client, yesterday we talked with this client for authorization to share the test report (some confidential information is erased)",
-    "why": "2024-07 的产能口径：1K 台 40 天；拿国内客户的测试报告（脱敏）当背书——这个「国内重要客户」= Hohunet/SmartByte 线的国内单，对外只能脱敏引用",
-    "k": "gmail_s 2024-07-04 Re: 10G MultiGig switch"
+    "who": "Simon → Thu",
+    "quote": "PI STSC20241119006：5 台 MC10G（STC-110XGE）+ MC1400 机架（STC-14DUR），$530",
+    "why": "第二单，品类从交换机扩到 MC + 机架",
+    "k": "5421b6cec88fe6fc"
    },
    {
-    "date": "2024-07-19",
+    "date": "2024-11-19",
     "dir": "来",
-    "who": "auwc@resonantnetworks.com",
-    "quote": "Hi Simon, Do you have managed switch for 8 x 10G RJ45? As for STC-08XGE: 8x10G RJ45, downward compatible(100M/1G/2.5G/5G), Non-PoE, unmanaged, AC inpu",
-    "why": "来信原文（主题「Re: 10G MultiGig switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
-    "k": "3df6ebcc3c4bfc5f"
+    "who": "Thu Pham",
+    "quote": "It is a lot of better for me to pay if you have PayPal account… The payment by wire transfer is done.",
+    "why": "两次要求 PayPal（2024-04-16 / 2024-11-19），最终仍电汇；PayPal 5% 规则对这类小单客户是真实摩擦",
+    "k": "gmail_s（thupvilink16@gmail.com / tonypvilink@outlook.com；Thu 的回信为顶部引用格式，早期脚本漏抓）"
    },
    {
-    "date": "2024-07-21",
+    "date": "2024-11-21",
     "dir": "去",
     "who": "Saga（Simon）",
-    "quote": "Hi, Au, Thanks for your offer. STC-08XGE 170usd/pc 8*10G RJ45, downward compatible(100M/1G/2.5G/5G), Non-PoE, unmanaegd, AC input, with power cable, with mounting hangers(rack compatible) I quoted this model before. For the managed version, yes, we have it, pl",
-    "why": "历史报价点（主题「Re: 10G MultiGig switch」；第 20 批从 gmail_s 回补）：STC-08XGE 170usd / 200usd",
-    "k": "fa2d4aedda431ffa"
+    "quote": "Hi, Thu, Please see attached photos for labels. Is this format OK? As you said, add the \" Ethernet 10GBase-TX to Ethernet 10G SFP Conversion\" with the same Font with your \" 10G Ethernet Media Converter\" and a line between them. It will be Arial then. *Is there a source file for both logos?(PS/AI/Vis…",
+    "why": "Saga 实质答复原文（主题「Re: 10G Media Converter」；第 20 批从 gmail_s 回补）——承诺/口径以此为准",
+    "k": "c42b730eadf0bfa6"
    },
    {
-    "date": "2024-07-22",
-    "dir": "来",
-    "who": "Au Wai Choon（Resonant Networks，新加坡）",
-    "quote": "Wow, it looks like Cisco SMB Switch GUI interface. Let me get back to you on this.",
-    "why": "第一反应是 Web GUI 像 Cisco SMB——对东南亚集成商，「界面像大牌」本身就是卖点；可直接用在给 ISP/集成商的首封里",
-    "k": "gmail_s 2024-07-22 Re: 10G MultiGig switch"
-   },
-   {
-    "date": "2024-07-23",
+    "date": "2024-11-22",
     "dir": "去",
-    "who": "Saga（Simon）",
-    "quote": "Hi, Au, Yes, most suppliers are approaching some famous brands from the GUI interface and product outlook. This is trendy, its about replacement(similar features, similar outlook, but much lower prices). Please let me know if there is news from your side.…",
-    "why": "Saga 实质答复原文（主题「Re: 10G MultiGig switch」；第 20 批从 gmail_s 回补）——承诺/口径以此为准",
-    "k": "7dd13e7c8f2a221e"
+    "who": "Simon→Thu《Option_Explanation.docx》（与 2024-11-22 丝印需求同批）",
+    "quote": "Option 1: Print logo and model name on the front chassis… all will be white color… Option 2: a customized PVC mask covering the whole front panel… fonts and colors exactly copied… I know you are printing the logo and models on the case like MC100. We can do this but this will be costly for a sample unit. Our advice: take option 2 for testing and demonstration. If all is OK, in next order, we can customize a batch of chassis",
+    "why": "Vi-Link 的品牌化路径 Saga 早就给过两条（丝印 vs PVC 面膜）；2026-09 他仍选丝印小批（10 台 MC，丝印 500 RMB）——下次直接按「PVC 面膜一次开版、后续免费」报，省掉每单丝印费",
+    "k": "pi_doc"
    },
    {
-    "date": "2024-08-20",
+    "date": "2024-12-04",
     "dir": "来",
-    "who": "Au Wai Choon",
-    "quote": "We spoke to an ISP in SG. They are selling very well XGPON services using 10G TP-Link routers (about 50 per day). I would like to show them a demo unit of 8*10G RJ45, downward compatible (100M/1G/2.5G/5G), Non-PoE, Web managed…",
-    "why": "演示机的目标客户 = 新加坡 XGPON ISP（每天卖 50 台 10G 路由器）；8×10G 多千兆交换机是给 ISP 用户侧/机房的配套——这条线后来输给 TP-Link（2025-11-11「lost to TP-Link… about half the price」）",
-    "k": "gmail_s 2024-08-20 Re: 10G MultiGig switch"
+    "who": "Thu Pham（Vi-Link，thupvilink16@gmail.com）",
+    "quote": "They are OK, please send them（10G 媒体转换器 OEM 样品）",
+    "why": "第二单放行",
+    "k": "gmail_s ac63d6becafb0620"
    },
    {
-    "date": "2024-08-21",
+    "date": "2025-05-09",
+    "dir": "来",
+    "who": "Thu Pham",
+    "quote": "Can you send me the full price list of your products?",
+    "why": "唯一一次主动要全价目表（Simon 05-17 回「Download Link.pdf」）；之后 2025-05 → 2026-07 Saga 发了 9 封群发无回，直到 2026-08 第三单 MC1000SC03",
+    "k": "gmail_s（thupvilink16@gmail.com / tonypvilink@outlook.com；Thu 的回信为顶部引用格式，早期脚本漏抓）"
+   },
+   {
+    "date": "2026-08-18",
+    "dir": "来",
+    "who": "Thu Pham（Vi-Link，thupvilink16@gmail.com）",
+    "quote": "I am changing our company logo. I want to check with you to see if you can print it on the new purchase order.（附新 logo）",
+    "why": "第三单起点：新 logo 丝印",
+    "k": "gmail_s 5b7a42c6815a9dcd"
+   },
+   {
+    "date": "2026-08-19",
+    "dir": "来",
+    "who": "Thu Pham（Vi-Link，thupvilink16@gmail.com）",
+    "quote": "I am looking for 10 pcs of 10/100M Fast Ethernet SM SC connectors. Please see the attached information（MC100SC03.pdf）",
+    "why": "第三单需求原文：10 台百兆单模 SC 媒体转换器——后来按千兆款 MC1000SC03 成交",
+    "k": "gmail_s b3e051f99d40baba"
+   },
+   {
+    "date": "2026-08-20",
+    "dir": "来",
+    "who": "Thu Pham",
+    "quote": "Yes, it is [a confirmed order]. Can you let me know the cost and time?",
+    "why": "2026 年第三单起点：10 台 10/100M SM SC MC（MC100SC03）",
+    "k": "ef4bc37cb17aebbf"
+   },
+   {
+    "date": "2026-08-21",
+    "dir": "来",
+    "who": "Thu Pham（Vi-Link，thupvilink16@gmail.com）",
+    "quote": "Thanks for the quote. Can you explain the function of the DIP switches? I haven't seen this type of Media Converter.",
+    "why": "报价后技术追问（DIP）——下一封「My customer didn't like the DIP switches」的前因",
+    "k": "gmail_s f3802ab4ac196997"
+   },
+   {
+    "date": "2026-08-22",
     "dir": "去",
-    "who": "Saga（Simon）",
-    "quote": "Hi, Au, Thanks for your information. For the managed models, let's do 185usd/pc, OK? This is the bulk price. Just would like to work out something together. Please see attached quotation and send me PO if everything is OK. Thank you, On Wed, Aug 21, 2024 at 12",
-    "why": "历史报价点（主题「Re: 10G MultiGig switch」；第 20 批从 gmail_s 回补）：185usd",
-    "k": "112e99f1af79b68a"
+    "who": "Simon（S 邮箱）",
+    "quote": "It is an ON / OFF dialing function… A similar example is Lantronix SGETF series: SW1 Remote Fiber Fault Detect / SW2 Symmetric Pause / SW3 Asymmetric Pause / SW4 Transparent Link Pass Through / SW5 Fiber Auto-Negotiation / SW6 Loopback… Most media converters are unmanaged, DIP features are the primary way to configure",
+    "why": "DIP 开关的标准解释（拿 Lantronix / LevelOne 作对照）——之后 Thu 说「客户不喜欢 DIP」，改无 DIP 款",
+    "k": "gmail_s d813f53529c41717"
    },
    {
-    "date": "2024-08-21",
+    "date": "2026-09-01",
     "dir": "来",
-    "who": "Resonant Networks PO SGP250051（Au Wai Choon；经 Andrea Chew 发来）",
-    "quote": "Purchase Order SGP250051, Date 21-Aug-24, Attn: Simon Cheng；Quote Ref: Demo Unit；1 × STC-08XGWE（8×10G RJ45 downward compatible, Web managed, Non-PoE, 1U, internal AC-DC）USD 185.00 + Freight UPS air door-to-door USD 25.00 = Grand Total USD 210.00；Payment Terms: 30 Days upon invoice；Bill to finops@resonantnetworks.com；Warranty: 1 year, lifetime technical support",
-    "why": "客户出具的正式 PO 原文（S 邮箱附件 + PI 文件夹）：客户单上写「30 天账期」，Saga PI STSC20240821011 写「T/T in advance」——成交按 PI 预付执行；PO 把保修写成 1 年（Saga 标准 3 年），下次报价把 3 年保修写进去",
-    "k": "gmail_s 2024-08-21 att SGP250051-Zhengzhou Saga Telecom.pdf"
+    "who": "Thu Pham",
+    "quote": "My customer didn't like the DIP switches. Do you have 10/100/1000M converters without DIP switches? Our part number is MC1000SC03.",
+    "why": "终端客户偏好：纯净无拨码 → 以后 MC 一律先推无 DIP 版",
+    "k": "8422e68589333f40"
    },
    {
-    "date": "2024-08-21",
+    "date": "2026-09-02",
+    "dir": "来",
+    "who": "Thu Pham（Vi-Link，thupvilink16@gmail.com）",
+    "quote": "Attached is the silkscreen for MC1000SC03. Can you send me the new PI",
+    "why": "丝印定稿 + 要新 PI → 09-03 付 T/T",
+    "k": "gmail_s d9d43c891cfc6622"
+   },
+   {
+    "date": "2026-09-03",
+    "dir": "来",
+    "who": "Thu Pham",
+    "quote": "Here is the T/T payment. Can you send me the user manual?",
+    "why": "PI STSC20260903006 当天付款，信用极好",
+    "k": "32504609055f4294"
+   },
+   {
+    "date": "2026-09-03",
     "dir": "内",
     "who": "Simon 成本表（PI 包）",
-    "quote": "内部《成本统计.xlsx》：STSC20240821011：成本 1,151 / 收款 1,487 / 利润 337（22.6%）",
+    "quote": "内部《成本统计.xlsx》：STSC20240418006：成本 3,044 / 收款 3,164 / 利润 120（3.8%） · STSC20241119006：成本 3,383 / 收款 3,820 / 利润 437（11.4%） · STSC20260903006：成本 2,087 / 收款 2,280 / 利润 193（8.4%）",
     "why": "利润率 = 利润÷收款；对照 20/25/30 加价 = 16.7%/20%/23% 毛利；详见 docs/成单客户_毛利复盘_内部_2026-10-24.md",
     "k": "cost_sheet"
    },
    {
-    "date": "2024-08-22",
+    "date": "2026-09-08",
     "dir": "来",
-    "who": "Au Wai Choon",
-    "quote": "Model Name: R ~Nets 10U-MG. There is a space between R and ~ Example: R~Nets is wrong, R~nets is wrong. This is correct: R ~Nets. BTW, my customer chased me for the demo unit. Can you ship tomorrow? My Finance will pay you in the next payment cycle, which is next week.（09-12）We've sent the demo switch for customer testing. Hope to secure the volume before TP Link flood the market with even lower price.",
-    "why": "OEM 品牌写法到空格级别（R ~Nets）——丝印/标签/型号名三处都要照抄；「先发货、下个付款周期付款」被 Simon 以「公司政策：收款后生产」挡回（08-22 去信）；09-12 一句「赶在 TP-Link 低价淹没市场前」就是后来 2025-11 输给 TP-Link 的预告",
-    "k": "gmail_s 2024-08-22 / 2024-09-12 Re: PO | SGP250051"
+    "who": "Thu Pham",
+    "quote": "This does not look good. It will look like I use some one products, and it will be off the OEM purposed. Can you fine the way to remove those letters.",
+    "why": "OEM 红线：外壳不能带第三方印字；Simon 09-12 改为整面重新丝印解决",
+    "k": "2b79994c6f5315f7"
    },
    {
-    "date": "2024-08-30",
+    "date": "2026-09-14",
     "dir": "来",
-    "who": "Andrea Chew（Resonant Networks）",
-    "quote": "回传签署版「Zhengzhou Saga Telecom.pdf」（Re: PO | SGP250051 10G MultiGig switch）",
-    "why": "PI 双签闭环；成本统计：ZX-SWTGW2C80N 采购 ¥1,040 + 运费 ¥110.51 = ¥1,150.51，收款 ¥1,487.14，利润 ¥336.63（这是 Saga 在新加坡的唯一成交，样机级）",
-    "k": "gmail_s 2024-08-30"
+    "who": "Thu Pham（Vi-Link，thupvilink16@gmail.com）",
+    "quote": "1. Vi-Link = Arial - B ; Fiber Optic Communications = Segoe UL Light ; Model = Segoe UL… 2. Can your converter auto-negotiate at 10/100/1000M speeds on the copper side?",
+    "why": "丝印字体规范（下次直接照用）+ 自协商确认（Simon 答 yes）",
+    "k": "gmail_s 70aed6db373006bd"
    },
    {
-    "date": "2024-09-04",
+    "date": "2026-09-18",
     "dir": "去",
-    "who": "Saga（Simon）",
-    "quote": "Hi, Au, While waiting for the shipment of your order, I would like to let you know that, 5-port model is now available. 1, with fan 2, web managed 3, smaller size So it will be similar to this 8-port model, better test this 8-port switch and decide what is for",
-    "why": "历史报价点（主题「Re: PO | SGP250051 10G MultiGig switch」；第 20 批从 gmail_s 回补）：145usd",
-    "k": "c7034f814c362836"
-   },
-   {
-    "date": "2024-09-04",
-    "dir": "来",
-    "who": "Au Wai Choon",
-    "quote": "The 8-port switch is with fan too? If yes, do you have a model without fan for either 5 and 8 port switch?… (09-05) Manufacturer: Resonant Networks (R ~Nets)… (08-22) Model Name: R ~Nets 10U-MG, There is a space between R and ~",
-    "why": "贴牌细节：R ~Nets 品牌（空格位置都要对）、型号 10U-MG、Manufacturer 写 Resonant；对风扇噪音敏感（后来 09-09「The fan is quiet」）——无风扇版 5/8 口 10G 是一个明确的产品缺口",
-    "k": "gmail_s 2024-09-04 Re: PO | SGP250051"
-   },
-   {
-    "date": "2024-09-05",
-    "dir": "来",
-    "who": "Au Wai Choon（Resonant Networks）",
-    "quote": "All good, except change this: Manufacturer: Resonant Networks (R ~Nets). Ok?… Yes! Pls proceed.",
-    "why": "PO SGP250051 样机标签：制造商栏写 Resonant Networks（R ~Nets）——OEM 标签口径先例",
-    "k": "gmail_s 1729cb59f0e8f3ef"
-   },
-   {
-    "date": "2024-09-06",
-    "dir": "来",
-    "who": "Bernard Song（Resonant Networks）",
-    "quote": "May I know if the unit will be ready to ship out tomorrow?… Kindly share the tracking number once shipment booked.",
-    "why": "采购/物流窗口第二人",
-    "k": "gmail_s 257652cf8dcedfc5"
-   },
-   {
-    "date": "2024-09-09",
-    "dir": "来",
-    "who": "Au Wai Choon",
-    "quote": "Received. The switch is good, it can support ERPS and Loopback! The fan is quiet. BTW regarding the loopback feature, is it Layer 2 (Ethernet Loopback), meaning it automatically swap the source and destination MAC address?",
-    "why": "演示机验收通过（ERPS/环回/风扇静音），追问环回是否 L2 MAC 交换——ISP 侧做链路测试的习惯问法",
-    "k": "gmail_s 2024-09-09 Re: PO | SGP250051"
-   },
-   {
-    "date": "2024-09-10",
-    "dir": "去",
-    "who": "Saga（Simon）",
-    "quote": "Hi, Au, 1, please check the google drive link I shared. it is about the information of this order. 2, yes, the fan is not noisy according to the feedback from different clients. On the market, for 10G ethernet switches, most suppliers do fans for better dissipation. In our product list, all 10G Ethe…",
-    "why": "Saga 实质答复原文（主题「Re: PO | SGP250051 10G MultiGig switch」；第 20 批从 gmail_s 回补）——承诺/口径以此为准",
-    "k": "d1c2643f199d1be2"
-   },
-   {
-    "date": "2024-09-11",
-    "dir": "去",
-    "who": "Saga（Simon）",
-    "quote": "Hi, Au, Thanks for your information. Below is the unit price we can do for you. USD$140: 5-port managed USD$195: 8-port managed USD$170: 8-port unmanaged For a bulk order, lets discuss. Example: its 185usd for the sample unit(8-port managed), as I explained be",
-    "why": "历史报价点（主题「Re: 10G MultiGig Price」；第 20 批从 gmail_s 回补）：$140 / $195 / $170",
-    "k": "ee373c9b9e537f8e"
-   },
-   {
-    "date": "2024-09-11",
-    "dir": "来",
-    "who": "Au Wai Choon",
-    "quote": "Kindly confirm your price to us for 10G MultiGig switch: 1. USD$145: 5-port managed 2. USD$200: 8-port managed 3. USD$170: 8-port unmanaged. Separately TP-Link equivalent switch has arrived in Singapore. The prices in Singapore Dollar (dealer price from Singapore distributor) are as follows…（09-12）We've sent the demo switch for customer testing. Hope to secure the volume before TP Link flood the market with even lower price.",
-    "why": "2024-09 价格锚：5 口管理 $145 / 8 口管理 $200 / 8 口非管理 $170（客户复述 Saga 报价）；同一天给出 TP-Link 新加坡经销价作对照——价格战从一开始就明牌",
-    "k": "gmail_s 2024-09-11 10G MultiGig Price"
-   },
-   {
-    "date": "2024-09-12",
-    "dir": "去",
-    "who": "Simon → Au Wai Choon",
-    "quote": "1, your business plan 2, local market information… any new ideas like online sales? deep customization? testing depot (one Turkey client got some samples to build a local network system in their testing lab to show their partners)… it seems that TP-Link is your main competitor. Perhaps some local prices… we can draft a proposal… recommend some models because we got more features at the same price level, and avoid some models because the prices are not competitive",
-    "why": "Simon 把给 Angora 的「分销伙伴」思路复制到新加坡（测试仓、本地价对照、挑型号打）；Resonant 没有接（最终输给 TP-Link 半价）——同一套路第二次未落地，Q-51 的旁证",
-    "k": "gmail_s 2024-09-12 Re: 10G MultiGig Price"
-   },
-   {
-    "date": "2024-10-28",
-    "dir": "来",
-    "who": "Au Wai Choon",
-    "quote": "Yes we do (industrial PoE) but not at the moment. BTW, do you have a factory manufacture the switches or you are a reseller?",
-    "why": "「你是工厂还是转售」被直接问——按 Saga.md 口径答「Engineering-led trade & customization」而不是回避；此户已知道答案，后续不必再包装",
-    "k": "gmail_s 2024-10-28 Re: Industrial PoE Switch"
-   },
-   {
-    "date": "2024-12-11",
-    "dir": "来",
-    "who": "Au Wai Choon",
-    "quote": "We are still working on the opportunity of the 10/100/1000/2500/5000/10000 Mbps switch. The ISP is still testing it.… (2025-04-08) We are bundling the IP camera with the switch. Hence need to buy the IP camera for them to test first.… (2025-07-08 Hairomee) the customer's evaluation took longer than anticipated. Hopefully, the requirement will be expected this month.",
-    "why": "ISP 评估从 2024-09 拖到 2025-07（中间还要配 IP 摄像头一起测）→ 2025-11 输给 TP-Link。周期 14 个月、结果为负——给「ISP 年度预算」类客户的节奏参考",
-    "k": "gmail_s 2024-12-11 Re: 48 Port PoE Managed Switch / 10G MultiGig Price"
-   },
-   {
-    "date": "2025-03-14",
-    "dir": "来",
-    "who": "Au Wai Choon",
-    "quote": "ISP tested ok the switch but they want us to bundle with smart home devices or IP camera",
-    "why": "技术验证通过",
-    "k": "fd9c27052dfa1bd1"
-   },
-   {
-    "date": "2025-03-14",
-    "dir": "来",
-    "who": "Au Wai Choon",
-    "quote": "The quantity will be thousands together with the switch… Move fast, pls.",
-    "why": "量级",
-    "k": "a28f30c8f3795eea"
-   },
-   {
-    "date": "2025-03-14",
-    "dir": "去",
-    "who": "Saga（Simon）",
-    "quote": "Hi, Au, 1, Got a problem checking the details. Do not have this app on my phone or apple store, maybe its the region or something? 2, Possible to give me some screenshots? The brand, model name or something? Or just copy the specs and share. 3, Just this device?…",
-    "why": "Saga 实质答复原文（主题「Re: 10G MultiGig Price」；第 20 批从 gmail_s 回补）——承诺/口径以此为准",
-    "k": "a39c837e568b25c4"
-   },
-   {
-    "date": "2025-04-08",
-    "dir": "来",
-    "who": "Au Wai Choon（Resonant Networks）",
-    "quote": "We are bundling the IP camera with the switch. Hence need to buy the IP camera for them to test first.",
-    "why": "「几千台」项目的前置条件：先买 IP 摄像头给终端客户测",
-    "k": "gmail_s 8e2b18b16fa080bf"
-   },
-   {
-    "date": "2025-04-09",
-    "dir": "去",
-    "who": "Simon → Au Wai Choon",
-    "quote": "Please let us know if we can help in any way. I mean, maybe something else, H3C switches, data center switches... Just like the IP cameras, we will see what we can do for you.",
-    "why": "Saga 愿意为老客户代采 H3C/DC 交换机/IP 摄像头（「资源库」角色，同 Proposal 里对 Angora 的承诺）——这是真实存在的增值服务，但不写进外宣（Saga.md：不做贸易商叙事）",
-    "k": "gmail_s 2025-04-09 Re: 10G MultiGig Price"
-   },
-   {
-    "date": "2025-07-08",
-    "dir": "来",
-    "who": "Hairomee（Resonant Networks）",
-    "quote": "Sincere apologies as the customer's evaluation took longer than anticipated.. Hopefully, the requirement will be expected this month. Till then please bear with us.",
-    "why": "项目拖期的正式说法；此后再无数量",
-    "k": "gmail_s ce309a03337e8ab8"
-   },
-   {
-    "date": "2025-07-28",
-    "dir": "来",
-    "who": "Hairomee",
-    "quote": "the customer expressed concerns about our pricing being slightly on the high side. I've attached the retail pricing for the TP-Link Multi-Gig switch",
-    "why": "竞品锚点",
-    "k": "2c2282af0677f30a"
-   },
-   {
-    "date": "2025-07-28",
-    "dir": "去",
-    "who": "Saga（Simon）",
-    "quote": "Hi, Hairomee, Thanks for your information, glad to know there is some progress. 1. In last order, it is 210usd(product cost and shipping cost) Considering customs clearance cost and your profit, AND your customer's profit, let's say 30% each, this will make it",
-    "why": "历史报价点（主题「Re: 10G MultiGig Price」；第 20 批从 gmail_s 回补）：210usd / 360usd",
-    "k": "f7a668d6ff8fbc71"
-   },
-   {
-    "date": "2025-11-11",
-    "dir": "来",
-    "who": "Au Wai Choon",
-    "quote": "Unfortunately we lost to TP-Link. Their price is much lower than our costs (about half the buy price from you)",
-    "why": "失单原话",
-    "k": "c277ca62ea0df0da"
-   },
-   {
-    "date": "2025-11-12",
-    "dir": "去",
-    "who": "Simon",
-    "quote": "that will be about 100usd/pc, we cannot make it. Maybe next time.",
-    "why": "Saga 底线",
-    "k": "b26aafe834fa3423"
-   },
-   {
-    "date": "2026-06-22",
-    "dir": "来",
-    "who": "Au Wai Choon（Resonant Networks）",
-    "quote": "Thank you for reaching out.（回 Simon 固件 7.5 发布通知）",
-    "why": "礼貌确认，无需求——关系还在",
-    "k": "gmail_s 8481f7580addd6d7"
+    "who": "Saga 内部（丝印需求_2026.09.18.docx，第三单 MC1000SC03）",
+    "quote": "2个颜色，红色和白色…Vi-Link = Arial Black；Fiber Optic Communications / Fiber Optic Media Converter = Segoe UL Light；Model = Segoe UL…一定要注意大小写，千万不能错了；下方的字体的横线要稍微凸出来一些",
+    "why": "第三单（P20260904-01 未税 ¥900，STSC-20260821-001）仍是逐字体核对的丝印活；利润薄但复购稳定（2024-04 / 2024-11 / 2026-08）；09-08 Thu「This does not look good. It will look like I use some one products」= 丝印稍有偏差她就拒收，这是她的底线",
+    "k": "Drive PI 文件夹（data/pi_2026-10/text） 6_Thu"
    },
    {
     "date": "2026-09-21",
+    "dir": "来",
+    "who": "Thu Pham（Vi-Link，thupvilink16@gmail.com）",
+    "quote": "Yes, it looks good. Thank you",
+    "why": "丝印样照确认 → 09-24 发货信息 → 09-27 DHL 8604097423",
+    "k": "gmail_s 473fef5b3fe4d820"
+   },
+   {
+    "date": "2026-09-24",
     "dir": "去",
-    "who": "Saga（Simon）",
-    "quote": "Hi, Au, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI *Price: 180USD/PC* Do you need some samples for testing? Thank you. [ima",
-    "why": "历史报价点（主题「Re: Optional Marvell Chipset Solutions」；第 20 批从 gmail_s 回补）：180USD",
-    "k": "059803e2ac308b24"
+    "who": "Simon → Thu",
+    "quote": "Are you interested in commercial Ethernet switches? I am recommending a popular model. 1200 RMB/PC（附 STC-424XGGPM-280W.docx）",
+    "why": "交叉销售起点",
+    "k": "6d28c798fba082a8"
+   },
+   {
+    "date": "2026-09-25",
+    "dir": "来",
+    "who": "Thu Pham",
+    "quote": "Thank you - It looks good. I will take a look at the switch. What would be our cost?",
+    "why": "明确的购买意向问句",
+    "k": "0ff9007ca6a811e5"
+   },
+   {
+    "date": "2026-09-27",
+    "dir": "去",
+    "who": "Simon → Thu",
+    "quote": "DHL / 8604097423  1300RMB/PC",
+    "why": "最后一封：只给了 RMB 价（且比三天前高 100 RMB），无 USD / 条件 / 问题 → 断点",
+    "k": "1da8981202e67e90"
    }
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
+  "proof_gaps": [
+   "A 邮箱是否也在联系 Vi-Link（PI 包标签在 Simon 名下，推测没有）",
+   "MC1000SC03 到货后的使用反馈（10 月后无邮件）"
+  ],
+  "draft_en": {
+   "subject": "STC-424XGGPM-280W for Vi-Link - price and sample option",
+   "body": "Hi Thu,\n\nFollowing up on the 24-port PoE switch I mentioned when the MC1000SC03 converters shipped (DHL 8604097423 - please let me know they arrived in good shape).\n\nSTC-424XGGPM-280W: 24 x 10/100/1000 PoE+ (802.3af/at, 280 W budget) + 4 x 1G/2.5G/10G SFP+, L2+ managed (Web/SNMP), Marvell AC5. Price: $194 USD EXW per unit (snapshot 2026-10-22, valid 15 days). Vi-Link logo and front-panel printing are free, same as the converters, and a single sample unit is fine to start - sample cost is credited to your first order.\n\nOne question: is this switch for your own Vi-Link label, or for a specific end-customer project?\n\nBest regards,\nSimon\nSaga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)\nhttps://sagatele.com/"
+  },
+  "binding": {
+   "level": "中度（三单 OEM 复购、以 Vi-Link 品牌出货；Elsa 箱：`to:vilinknet.com OR to:vi-link.net` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 69 / 来 42）（第 74 批(g)））",
+   "type": "美国 OEM 品牌商 / 转售（技术 + 价格混合）",
+   "sieve": "3（多次 PI、品牌定制）",
+   "stop": "2025-09-25 问 24 口 PoE「our cost」，Simon 只回 RMB 价后停 25 天（T29-U11 复盘）",
+   "revive": "补 USD 报价 + 样机（草稿已备）",
+   "lane": "US 已通（PayPal/T/T、DHL/UPS DAP）",
+   "cadence": "最后 2025-09-25 来信；复盘 2026-10-22",
+   "evidence": "S 邮箱往来 + PI 包（见下表 facts）；第 19 批回补来信原文 0 条（gmail_s/gmail_a）；S 邮箱 2024-04 → 2024-12 Thu 的 27 封回信（顶部引用格式）已补读：OEM 面板印刷 + GUI logo + 随机光盘 + PayPal 诉求"
+  }
+ },
+ "watch": {
+  "as_of": "2026-10-23",
+  "github_watch": [],
+  "web_watch_targets": "scripts/web_watch/targets.json#SA-006",
+  "status": "data/customer_watch/当前状态.md",
+  "log": "data/customer_watch/变化日志.md"
  }
 }

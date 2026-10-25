@@ -11,7 +11,7 @@
  "text": "Hi Amol,\nThank you for your interest.\nFor detailed CENTEC-based product information(specifications and\ndatasheets), we usually provide them directly to partners via email, as we\ncontinuously update our offerings.\nTo better understand your needs:\n1. Are you working on a project or developing your own brand?\n2. Is this regarding MII compliance, or just a regular import?\nWe'd be happy to discuss further and explore how we can support your plans.\nThank you.",
  "char_count": "466",
  "attachments": "[{'filename': '8C48XF.png', 'mime_type': 'image/png', 'size': 191947}]",
- "note": "SA-023 Impulse CCTV（印度，Amol Kumar）：Elsa 2026-01-08 回 CENTEC 询问——没给规格书，反问「项目还是自有品牌 / 是否 MII 合规」，附 8C48XF 图",
+ "note": "SA-014 Impulse CCTV（印度，Amol Kumar）：Elsa 2026-01-08 回 CENTEC 询问——没给规格书，反问「项目还是自有品牌 / 是否 MII 合规」，附 8C48XF 图",
  "text_source": "text/plain",
  "fetched": "2026-10-24T16:04Z",
  "method": "Arena Gmail connector get_message_text(include_quoted=false)"

@@ -1,272 +1,855 @@
-# SB-1031 mro-tek.com · home · https://www.mro-tek.com/ · fetched 2026-10-25T07:41:18Z · HTTP 200
-MRO‑TEK — Integrating Next Generation Networks
-Skip to main content
-+91 9821558696
-info@mro-tek.com
-Partner Registration
-BSE/NSE: MROTEK
+# SB-1031 findcontrols.com · home · https://ralakde.com/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+Your partner in automation
+– Ralakde Automation
+Home
+Components
+& Parts
+Sell
+to Us
+Manufacturers
 About
-Products
-Solutions
-Engineering
-Careers we are hiring
+Us
+Request
+a Repair
+USD
+AFN
+EUR
+ALL
+DZD
+EUR
+GBP
+XCD
+GBP
+AMD
+AWG
+SHP
+AUD
+EUR
+AZN
+BSD
+GBP
+BDT
+BBD
+GBP
+EUR
+BZD
+XOF
+USD
+GBP
+BOB
+BAM
+BWP
+GBP
+USD
+BND
+EUR
+XOF
+BIF
+KHR
+XAF
+CAD
+CVE
+USD
+KYD
+XAF
+GBP
+CNY
+AUD
+GBP
+KMF
+XAF
+CDF
+NZD
+CRC
+XOF
+EUR
+ANG
+EUR
+CZK
+DKK
+DJF
+XCD
+DOP
+USD
+EGP
+USD
+XAF
+GBP
+EUR
+GBP
+ETB
+FKP
+DKK
+FJD
+EUR
+XPF
+EUR
+XOF
+GMD
+GBP
+EUR
+GBP
+EUR
+DKK
+XCD
+EUR
+GTQ
+GBP
+GNF
+XOF
+GYD
+GBP
+HNL
+HKD
+HUF
+ISK
+INR
+IDR
+GBP
+EUR
+GBP
+ILS
+EUR
+JMD
+JPY
+GBP
+KZT
+KES
+GBP
+EUR
+GBP
+KGS
+LAK
+EUR
+LBP
+GBP
+CHF
+EUR
+MOP
+GBP
+MWK
+MYR
+MVR
+XOF
+EUR
+GBP
+MUR
+EUR
+MXN
+MDL
+EUR
+MNT
+EUR
+XCD
+MAD
+GBP
+MMK
+GBP
+AUD
+NPR
+EUR
+XPF
+NZD
+NIO
+XOF
+NGN
+NZD
+AUD
+MKD
+NOK
+GBP
+PKR
+ILS
+USD
+PGK
+PYG
+PEN
+PHP
+NZD
+PLN
+EUR
+QAR
+EUR
+RON
+GBP
+RWF
+WST
+EUR
+STD
+SAR
+XOF
+RSD
+GBP
+SLL
+SGD
+ANG
+EUR
+SBD
+GBP
+KRW
+GBP
+EUR
+LKR
+EUR
+SHP
+XCD
+EUR
+XCD
+GBP
+NOK
+SEK
+CHF
+TWD
+TJS
+TZS
+THB
+USD
+XOF
+NZD
+TOP
+TTD
+GBP
+USD
+AUD
+USD
+UGX
+UAH
+AED
+GBP
+USD
+UYU
+UZS
+VUV
+EUR
+USD
+VND
+XPF
+MAD
+YER
+GBP
+USD
+Contact
+Get
+Quote
+sales@ralakde.com
+Critical Breakdown? Ralakde Emergency Response: +44 1782 982393 • Day Support • Same-day repairs •
+9+
+years expertise
+Start Live Chat
+R
+Ralakde
+Automations
+Industrial Solutions
+Worldwide
+Home Components
+& Parts Sell
+to Us Manufacturers About
+Us Request
+a Repair
+USD
+AFN
+EUR
+ALL
+DZD
+EUR
+GBP
+XCD
+GBP
+AMD
+AWG
+SHP
+AUD
+EUR
+AZN
+BSD
+GBP
+BDT
+BBD
+GBP
+EUR
+BZD
+XOF
+USD
+GBP
+BOB
+BAM
+BWP
+GBP
+USD
+BND
+EUR
+XOF
+BIF
+KHR
+XAF
+CAD
+CVE
+USD
+KYD
+XAF
+GBP
+CNY
+AUD
+GBP
+KMF
+XAF
+CDF
+NZD
+CRC
+XOF
+EUR
+ANG
+EUR
+CZK
+DKK
+DJF
+XCD
+DOP
+USD
+EGP
+USD
+XAF
+GBP
+EUR
+GBP
+ETB
+FKP
+DKK
+FJD
+EUR
+XPF
+EUR
+XOF
+GMD
+GBP
+EUR
+GBP
+EUR
+DKK
+XCD
+EUR
+GTQ
+GBP
+GNF
+XOF
+GYD
+GBP
+HNL
+HKD
+HUF
+ISK
+INR
+IDR
+GBP
+EUR
+GBP
+ILS
+EUR
+JMD
+JPY
+GBP
+KZT
+KES
+GBP
+EUR
+GBP
+KGS
+LAK
+EUR
+LBP
+GBP
+CHF
+EUR
+MOP
+GBP
+MWK
+MYR
+MVR
+XOF
+EUR
+GBP
+MUR
+EUR
+MXN
+MDL
+EUR
+MNT
+EUR
+XCD
+MAD
+GBP
+MMK
+GBP
+AUD
+NPR
+EUR
+XPF
+NZD
+NIO
+XOF
+NGN
+NZD
+AUD
+MKD
+NOK
+GBP
+PKR
+ILS
+USD
+PGK
+PYG
+PEN
+PHP
+NZD
+PLN
+EUR
+QAR
+EUR
+RON
+GBP
+RWF
+WST
+EUR
+STD
+SAR
+XOF
+RSD
+GBP
+SLL
+SGD
+ANG
+EUR
+SBD
+GBP
+KRW
+GBP
+EUR
+LKR
+EUR
+SHP
+XCD
+EUR
+XCD
+GBP
+NOK
+SEK
+CHF
+TWD
+TJS
+TZS
+THB
+USD
+XOF
+NZD
+TOP
+TTD
+GBP
+USD
+AUD
+USD
+UGX
+UAH
+AED
+GBP
+USD
+UYU
+UZS
+VUV
+EUR
+USD
+VND
+XPF
+MAD
+YER
+GBP
+USD
+Contact
+Us Get
+Quote
+Close
+Your Automation Solutions Partner
+3 Million+ parts with fast shipping, expert support & maintenance services from over 5000 manufacturers.
+🏆 9+ Years Experience
+⚡ Same Day Dispatch
 Search
-Dark
-Enquiry
-Company
-About MRO‑TEK
-Board of Directors
-Leadership Team
-Partners
-Business Partners
-R&D Collaboration
-Investors
-Policies
-Media & Events
-News & Press
-Events
-Awards and Recognitions
-Routers
-Enterprise Router
-SD-WAN Router
-Secure Router
-Media Converters & Transceivers
-Media Converters
-SFP Module
+Get A Quote
+Why Choose Ralakde Automations?
+Industry-leading expertise and reliability you can count on
+9+
+Years Experience
+Trusted industry expertise
+3M+
+Parts in Stock
+Ready for immediate dispatch
+5000+
+Manufacturers
+Global supplier network
+24/7
+Emergency Support
+Always available when you need us
+Quality Assurance & Service Guarantees
+Certified excellence and unmatched customer confidence
+24 Month Repair Warranty
+Comprehensive coverage guarantee
+No-Fix, No-Fee Policy
+Risk-free repair commitment
+Same Day Delivery
+Express service available
+Founded 2015
+10,000+ Satisfied Customers
+99.8% Success Rate
+We've Got You Covered — Always
+Comprehensive automation solutions and support services for your industrial needs
+Submit Critical Stock List
+Ensure your high-priority parts are ready when you need them.
+Learn More →
+Emergency Breakdown Response
+Rapid dispatch for critical failures, 24/7 service line active.
+Get Emergency Help →
+Request Area Sales Manager Visit
+Book a consultation at your site to explore solutions.
+Schedule Visit →
+Request Repair Collection
+We'll collect faulty parts and process them for service.
+Schedule Collection →
+Request a Repair Quote
+Receive detailed, transparent pricing with quick turnaround.
+Get Quote →
+Clearance & Discount Codes
+Access exclusive offers and stock clearance deals.
+View Offers →
+Complete Solutions Provider
+All your industrial automation requirements met under one roof
+New Equipment
+Global partnerships with leading manufacturers enabling competitive pricing
+Original manufacturer warranty
+Competitive pricing
+Immediate availability
+Refurbished Equipment
+High-quality refurbished parts including hard-to-find or obsolete components
+Service exchange program
+Cost-effective solutions
+Quality guaranteed
+Repair Service
+Expert repair services with comprehensive testing and validation
+24-month warranty
+No-fix, no-fee policy
+Fast turnaround
+Business Solutions
+Order Cancelled by Supplier?
+We match your supplier's price — just provide the part number and your target price.
+Learn More
+Factory Decommissioning Support
+We handle full dismantling, logistics, and asset recovery.
+Learn More
+Factory Stock Clearance
+Quick monetization of idle, excess, or obsolete stock.
+Learn More
+Obsolescence Management
+Proactive monitoring and solutions for end-of-life automation components.
+Learn More
+Service Exchange
+Exchange faulty components for working units to minimize downtime and costs.
+Learn More
+Selling & Recovery
+Request Electronics Bin
+We provide bins for broken/damaged electronics — get paid upon collection.
+Learn More
+Recycle with Us
+Join us in reducing carbon footprint with responsible disposal practices.
+Learn More
+Sell Us Your Inventory
+We buy surplus stock directly — fast offers and quick payouts.
+Learn More
+Consignment Selling
+Send us your stock — we sell, you earn. Hassle-free.
+Learn More
+Asset Recovery
+Turn unused machinery and parts into valuable returns.
+Learn More
+Popular Categories
+Comprehensive industrial automation solutions across all categories
+Automation and Control Systems
+Explore →
+Building Maintenance and Safety
+Explore →
+Data Communications
+Explore →
+Electrical and Power Systems
+Explore →
+Electronic Parts and Devices
+Explore →
+Heating and Cooling Solutions
+Explore →
+Motors & Motor Controls
+Explore →
+PLCs & HMIs
+Explore →
+Pneumatic and Hydraulic Solutions
+Explore →
+Power Transmission Components
+Explore →
+Sensors
+Explore →
 Switches
-Enterprise Switches
-Industrial Switches
-Data Center
-Switches
-Telecom
-Modems
-Maple Series
-PDH Fiber Multiplexer
-TDM over IP
-PINE Series
-Service & Support
-Product Support
-Professional Services
-Premium Support
-Solutions
-Enterprise Network
-Data Center Networking
-Managed Network Services
-Private 5G
-Case Studies
-Projects
-Capabilities
-Manufacturing
-Future Tech
-Research & Development
-Knowledge Center
-White Papers
-Projects
-Certifications
-Partner Registration
-About
-Company
-About MRO‑TEK
-Board of Directors
-Leadership Team
-Partners
-Business Partners
-R&D Collaboration
-Investors
-Policies
-Media & Events
-News & Press
-Events
-Awards and Recognitions
-Products
-Routers
-Enterprise Router
-SD-WAN Router
-Secure Router
-Switches
-Enterprise Switches
-Industrial Switches
-Data Center
-Switches
-Telecom
-Modems
-Maple Series
-PDH Fiber Multiplexer
-TDM over IP
-PINE Series
-Service & Support
-Product Support
-Professional Services
-Premium Support
-Media Converters & Transceivers
-Media Converters
-SFP Module
-Solutions
-Enterprise Network
-Data Center Networking
-Managed Network Services
-Private 5G
-Case Studies
-Projects
-Engineering
-Capabilities
-Manufacturing
-Future Tech
-Research & Development
-Knowledge Center
-White Papers
-Projects
-Certifications
-Careers we are hiring
-Enquiry
-Network Products Built in India for India
-One of India's Pioneering Networking OEMs — Est. 1984
-Enterprise routers, switches, firewalls, and SD-WAN — Made in India.
-42+
-Years
-2M+
-Devices Deployed
-450+
-Branches Connected
-26+
-Years on BSE/NSE (Since 2000)
-Designed & Manufactured in India
-Quick Access
-Everything You Need
-Products
-50+ models across routers, switches, firewalls & SD-WAN
-Solutions
-Enterprise, data center, managed services, SD-WAN, and VNF
-R&D
-100+ engineers, DSIR-approved in-house R&D centre
-Manufacturing
-SMT & PCB assembly, ISO 9001 certified, Bengaluru
+Explore →
+Testing and Measurement
+Explore →
+Tools & Hardware
+Explore →
+5.0
+Trusted by 5,000+ Companies
+Real customer experiences across industries
+💯
+98%
+Satisfaction
+⚡
+24/7
 Support
-2M+ devices deployed with nationwide field support
-Why MRO‑TEK
-Trusted Since 1984 — Designed, Built & Certified in India
-Four decades of serving Indian customers, backed by in-house R&D, manufacturing, trusted certifications and nationwide support.
-Customer Trusted Since 1984
-Four decades of engagement with Telecom, Government, Defence, Railways, PSUs and Enterprises have shaped our understanding of evolving customer requirements.
-End-to-End In-House R&D
-Our in-house R&D team manages the complete product lifecycle, from concept and design to development, validation and deployment.
-State-of-the-Art Manufacturing
-Products developed by MRO‑TEK are manufactured and tested at our own facility in Electronics City, Bengaluru, ensuring quality, consistency and reliability.
-TEC & Trusted Telecom Certified
-Our products undergo rigorous testing and verification to meet applicable Indian telecom and regulatory requirements, including TEC and ITSAR standards.
-Proven at Scale
-With 2M+ devices deployed and 450+ branches connected, MRO‑TEK solutions operate across India, backed by nationwide network expertise and support.
-Transparent Corporate Governance
-Listed on the BSE and NSE since 2000, MRO‑TEK operates with transparency, regulatory compliance and disciplined corporate governance.
-Products
-The Hardware Behind India's Critical Networks
-Every router, switch, and firewall is designed by our engineers, built in our factory, and certified to Indian government standards.
-Enterprise
-FALCON Router Series
-Enterprise
-LAVENDER Switch Series
-Data Center
-Allium Switch Series
-View All Products >
-Regulatory Compliance
-Solutions
-From Branch Office to Data Center Core
-One trusted partner. Everything you need to design, run, and manage your network.
-Enterprise Network
-Branch office, campus, and HQ connectivity
-Data Center Networking
-Leaf-spine fabric for modern data centers and cloud infrastructure
-Managed Network Services
-End-to-end network monitoring, maintenance, and support for your infrastructure
-Projects
-Proven in the Field — Real Deployments, Real Results
-From state IT backbones to mining and power utility networks, MRO‑TEK routers and switches run in production across government, PSU, and enterprise deployments nationwide — backed by Pan India support.
-View All Projects >
-Government
-PSWAN — Puducherry State Wide Area Network
-Established core backbone enabling seamless government online services across Puducherry.
-Mining / PSU
-BCCL WAN — Bharat Coking Coal Limited
-304 BCCL locations across Jharkhand and West Bengal connected on a secure, redundant MPLS-VPN…
-Mining / PSU
-WCL — Western Coalfields Limited Connectivity
-450+ branches successfully connected across two states using MPLS with RF Backhaul.
-Power / Utility
-APEPDCL — Power Distribution MPLS Network
-180+ sites connected across 5 districts of Andhra Pradesh with MPLS networking.
-Work With Us
-Partner with MRO‑TEK
-Two ways to work with us — resell our products or collaborate on next-generation networking research.
-Business Partner Programme >
-R&D Collaboration >
-Trusted by Government & Enterprise
-Latest from MRO‑TEK
-News & Insights
-13 Oct 2026
-MRO‑TEK Networks Ltd reports Q2 FY27 performance; products segment records 56.86% YoY revenue growth
-As featured in The Economic Times
-21 Sep 2026
-How India's Data Centre Boom Is Creating a New Networking Challenge
-As featured in TelecomDrive
-31 Aug 2026
-MRO‑TEK Networks Ltd: Umiya Buildcon Changes Company Name, Strengthens Focus on Telecom, Networking and Digital Infrastructure
-As featured in Electronics Media
-View All News >
-BSE/NSE: MROTEK
-MRO‑TEK Networks Limited
-Listed Company
-Est. 1984
-Investor Relations >
-Careers at MRO‑TEK
-Be Part of India's Networking Backbone
-Build the Network OS, firewalls, and SD-WAN running in 2 million Indian networks — from R&D lab to real hardware, shipped across the country.
-Build Network OS, NMS, EMS from the ground up
-Design hardware — PCB, FPGA, embedded systems
-Work on SD-WAN, next-gen firewalls, industrial networking
-State-of-the-art R&D lab with full hardware tooling
-Your product runs in government, banking, railways
-View Careers >
-Get Started
-Find the Right Fit for Your Network
-Whether it is one router or an entire network overhaul — our engineers will design, deploy, and support the solution that works for you.
-Talk to Our Team
-BSE/NSE Listed · CIN: L28112KA1984PLC005873
-Sy No: 140/17/338
-Umiya Velociti, 12th Floor, Bellary Road, Hebbal, Bangalore – 560 024
-Products
-Routers
-Switches
-Firewalls
-SD-WAN
-Solutions
-Enterprise Networks
-Data Center Networks
-Managed Network Services
+🚀
+4hr
+Response
+🔧
+3M+
+Parts
+Automotive Manufacturing
+"Ralakde saved our production line when we had a critical PLC failure. Their emergency response team had us back online w..."
+DJ
+Plant Manager
+Manufacturing Solutions Ltd
+Aerospace
+"We've been working with Ralakde for over 3 years. Their inventory is incredible - they always have the obsolete parts we..."
+SC
+Maintenance Director
+Precision Engineering Co
+Food & Beverage
+"Excellent repair services! They completely refurbished our servo drives at half the cost of buying new ones. Quality wor..."
+MT
+Chief Engineer
+Global Food Processing
+Packaging
+"Their global reach is impressive. We needed parts shipped to our facility in Germany on short notice, and they delivered..."
+AS
+Technical Manager
+European Packaging Systems
+Oil & Gas
+"Ralakde's technical support team is top-notch. They helped us troubleshoot a complex HMI issue remotely and provided the..."
+RK
+Operations Manager
+Industrial Automation Group
+Pharmaceutical
+"Their obsolescence management service is a game-changer. They proactively identify end-of-life components in our systems..."
+LR
+Facility Manager
+Pharma Manufacturing Inc
+👥
+See All Reviews
+Read more success stories from our customers
+View All
+⚡ LIMITED TIME: Free assessment ends soon
+URGENT:
+Don't Miss Out!
+OFFER EXPIRES IN:
+00
+HOURS
+00
+MINS
+00
+SECS
+MOST POPULAR
+FREE £500 Assessment
+£0
+Was £500
+Complete system audit
+Optimisation recommendations
+ROI analysis report
+Priority support access
+Claim FREE Assessment
+⏰ 23 slots remaining today
+24/7 GUARANTEE
+4-Hour Response
+GUARANTEED
+Or Money Back
+4-hour response guarantee
+Direct engineer hotline
+Same-day on-site service
+100% satisfaction guarantee
+Get Emergency Support
+🔥 Active for 47 clients today
+BULK SAVINGS
+Volume Discount
+30% OFF
+Orders £10,000+
+Immediate 30% discount
+Extended warranty included
+Priority shipping
+Dedicated account manager
+Calculate Savings
+💰 Average saving: £8,750
+10000+
+Happy Clients
+4.9/5
+Customer Rating
+15 min
+Avg Response
+98%
+Success Rate
+Don't Wait - Act Now!
+Join 5000+ companies who've transformed their automation systems with Ralakde
+Claim FREE Assessment
+Call Emergency Line
+✅ No obligation • ✅ 15-minute response guarantee • ✅ Free consultation
+Claim FREE Assessment
+Close modal
+Name
 Company
-About
-R&D
-Careers
-Investors & Partners
-Investors
-Policies
-Awards and Recognitions
-Partners
+Phone number
+Email
+Claim
+Global Reach, Local Service
+Serving industrial automation customers worldwide with localized support, multi-currency pricing, and fast international shipping.
+Europe
+Countries Served:
+United Kingdom, Germany, Czech Republic
++3 more
+Shipping: 1-3 Days
+Our Offices:
+• Stoke On Trent, UK
+• Waldsassen, Germany
+• Stará Voda, Czech Republic
+• Hooksett, NH, USA
+Currencies: EUR, GBP, CZK
+Languages: English, German, Czech, French, Italian, Spanish
+North America
+Countries Served:
+United States, Canada, Mexico
+Shipping: 3-7 Days
+Our Offices:
+• Nashua, NH, USA
+Currencies: USD, CAD
+Languages: English, Spanish
+Asia Pacific
+Countries Served:
+India, Japan, South Korea
++3 more
+Shipping: 5-10 Days
+Our Offices:
+• Siliguri, India
+Currencies: INR, JPY, KRW, CNY, AUD
+Languages: English, Hindi, Japanese, Korean, Chinese
+Middle East
+Countries Served:
+UAE, Saudi Arabia, Qatar
++1 more
+Shipping: 4-8 Days
+Currencies: AED, SAR
+Languages: English, Arabic
+24/7 Global Support
+Round-the-clock technical support in multiple languages across all time zones.
+International Warranty
+Comprehensive warranty coverage and repair services available globally.
+Express Worldwide Shipping
+Fast, reliable shipping with tracking and customs handling included.
+Ready to Transform Your Operations?
+Get Started in
+60 Seconds
+Choose your preferred way to connect with our automation experts and get your solution started today
+Most Popular
+Instant Quote
+Get a detailed quote for your automation needs in under 5 minutes. No waiting, no hassle.
+Immediate pricing estimate
+Custom solution recommendations
+Technical feasibility assessment
+Get Instant Quote
+24/7 Available
+Emergency Support
+Urgent breakdown? Get immediate assistance from our emergency response team.
+Average 4-hour response time
+Same-day on-site service
+Global coverage available
+Call Emergency Line
+Expert Level
+Expert Consultation
+Schedule a detailed consultation with our senior automation engineers.
+One-on-one technical review
+Custom solution design
+Implementation roadmap
+Book Consultation
+Not Ready Yet?
+Get our automation insights and industry updates delivered to your inbox
+Subscribe
+Thank you for subscribing!
+Trusted by 5000+ companies worldwide
+GDPR Compliant
+24/7 Support
+Same Day Service
+Global Coverage
+sales@ralakde.com
+EMERGENCY
+BREAKDOWN? CALL: +44 1782
+982393
+Day Hours (8AM-6PM UK) • 24/7 Global
 Support
-Contact Support
-Warranty Policy
-RMA Process
-Enquiry
-Proudly Made in India
-Designed, developed, and manufactured in India since 1984.
-Copyright © 2026 MRO‑TEK Networks Limited. All rights reserved.
+Start Live Chat
+Services
+Emergency
+Repairs
+Parts
+Sourcing
+Technical
+Support
+Obsolescence
+Management
+Industry News
+Contact
++44
+1782 982393
+sales@ralakde.com
+8 Industrial Park Dr, Unit 18
+Hooksett, NH 03106-1806, USA
+Legal
 Privacy Policy
-Disclaimer
-Terms and Conditions
-TTP Listed
-TEC
+Terms
+of Use
+Shipping
+Policy
+Return
+& Warranty
+Credit Terms
+All
+Policies
+Cookie
+Policy Accessibility
+Policy Terms
+of Sale Usage
+Policy Location
+Specific
+Global Presence
+🇬🇧
+United Kingdom
+Stoke On Trent
+🇺🇸
+United States
+Nashua,
+NH
+🇩🇪
+Germany
+Waldsassen
+🇨🇿
+Czech Republic
+Stará
+Voda
+🇮🇳
+India
+Siliguri
+© 2025 Ralakde Limited. All rights
+reserved.
+Founded 2015
+GDPR
 ISO 9001
-We use cookies and similar technologies to improve your browsing experience, analyse site traffic, and personalise content. By clicking 'Accept All', you consent to the use of all cookies. Privacy Policy
-Accept All
-Essential Only
-ESC
-Type to search across products, solutions, case studies, and news.
+Legal Disclaimer
+Layout, design, and compilation of content on this website are Copyright © 2025 Ralakde Ltd. All rights reserved. Ralakde Ltd sells new, used, and surplus industrial automation products and sources these through various independent channels.
+This website is not sanctioned or approved by any manufacturer or trademark owner listed herein. Ralakde Ltd is not an authorized distributor, affiliate, or representative for the listed manufacturers unless explicitly stated otherwise.
+All designated trademarks, brand names, and logos are the property of their respective owners.
+Manufacturer Disclaimer (e.g., Rockwell Automation)
+Products sold by Ralakde Ltd may be used or surplus items. Ralakde Ltd is not an authorized surplus dealer or affiliate for the manufacturer 

@@ -1,166 +1,146 @@
 {
- "code": "SB-092",
- "name_official": "ООО «СКЕО» (SKEO)",
- "researched_at": "2026-10-21",
- "website_status": "在线（skeo.ru，快照 2026-10-21，俄语）",
- "summary": "俄罗斯圣彼得堡 / 莫斯科 / 顿河畔罗斯托夫光通信设备制造商与供应商：CWDM/DWDM 复用器、光模块 SFP/SFP+/XFP/QSFP/CFP（自有 SKEO 品牌，5 年保）、媒体转换器、熔接机、测试仪、网络设备；面向运营商、ISP、政府通信部门；与 Juniper/Cisco 有直接合作。表内 Account Manager Nikolay Podoroga，2024-09 对 8 电口「有兴趣」。光模块 / MC = 同行（自有品牌），交换机 = 缺口。",
- "type": "",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "官网",
-   "claim": "定位：俄罗斯光通信设备制造商与供应商；CWDM/DWDM、光模块、MC、熔接",
-   "quote": "\"СКЕО\" - российский производитель и поставщик оборудования для волоконно-оптических линий связи… Модули SFP… SFP+… QSFP28… Медиаконвертеры",
-   "url": "https://skeo.ru/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "客户群：运营商、ISP、政府通信部门；与 Juniper / Cisco 直接伙伴；SKEO 品牌 5 年保",
-   "quote": "нацелена на удовлетворение потребностей операторов связи, интернет-провайдеров, департаментов связи государственных организаций… Juniper Networks и Cisco Systems… гарантийной поддержкой продолжительностью до 5 лет",
-   "url": "https://skeo.ru/info/about",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "三地邮箱 msk@ / rostov@ / sales@skeo.ru；电话 +7 812（圣彼得堡）、+7 863（罗斯托夫）；关键词 sfp 30 / oem 7",
-   "quote": "emails msk@skeo.ru, rostov@skeo.ru, sales@skeo.ru; phones +7 (812) 200-89-90, +7 (863) 303-35-37",
-   "url": "https://skeo.ru/contact",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "主要是光模块、部分 MC、WDM 配件多；2024-09 8 电口→有兴趣；2025-11→有需求会说",
-   "quote": "兴趣：主要是光模块 有一部分MC 有光路的;WDM配件较多；回复：有兴趣；有需求会说的",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Nikolay Podoroga",
-   "title": "Account Manager",
-   "email": "npa@skeo.ru",
-   "phone": "+7 903 486 5077",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照 + 官网核对）"
- },
- "company_facts": {
-  "legal_name": "ООО «СКЕО»",
-  "founded": "（待核；物流团队「15 年以上」）",
-  "hq": "Санкт-Петербург（+ 莫斯科、罗斯托夫办事处）",
-  "size": "中小型制造 + 分销",
-  "other": "自有品牌 SKEO 光模块 / MC；OEM 词频 7"
- },
- "business_lines": [
-  "CWDM / DWDM 波分复用（自产）",
-  "光模块 SFP/SFP+/XFP/QSFP/CFP、DAC",
-  "媒体转换器（SKEO 品牌）",
-  "熔接机 / 测试仪 / 无源器件",
-  "网络设备、IPTV 机顶盒"
- ],
- "products_seen": [
-  {
-   "brand": "SKEO",
-   "model": "SK-SFP-C1-xx-80L-D",
-   "spec": "CWDM SFP 1.25G 80 km",
-   "saga": "同行（Saga 不做模块）",
-   "url": "https://skeo.ru/katalog/optical-modules/sfp",
-   "date": "2026-10-21"
-  },
-  {
-   "brand": "SKEO",
-   "model": "MC 2×SFP / RJ45-SFP+ 10G",
-   "spec": "媒体转换器",
-   "saga": "同行（Saga STI-110GE 仅工业款）",
-   "url": "https://skeo.ru/katalog/optical-modules/mediakonvertery",
-   "date": "2026-10-21"
-  }
- ],
- "channels": {
-  "role": "制造商 + 分销（运营商 / ISP 渠道）",
-  "region": "俄罗斯"
- },
- "signals": [
-  "对 8 电口交换机有兴趣（其目录「Сетевое оборудование」缺自有交换机）",
-  "有 OEM 经验 → 可做 SKEO 贴牌交换机"
- ],
- "risks": [
-  "俄罗斯：制裁与收款（T/T 第三国 / 人民币结算），物流合规自核",
-  "光模块 / MC 为其自有品牌 → 只推交换机"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 30,
-  "why": "其缺交换机线、有 OEM 能力 → 以 SKEO 贴牌 8 PoE + 2 SFP 管理机（STC-28DGGPM）切入，OEM 30% 档；工业线 STI-288GP 备选。"
- },
- "email_hook": "Николай, в 2024 вы сказали, что 8-портовые коммутаторы интересны — у SKEO нет собственной линейки коммутаторов; мы делаем 8×PoE + 2×SFP (L2+, Marvell) под вашим брендом с MOQ от 1 шт. Прислать спецификацию и цену EXW?",
- "mail_review": {
-  "binding": {
-   "level": "轻度触达（2024-09-06 Nikolay 两封：「can you send it to the test」→「price? how to send?」→ $33 STI-080GE + 运输说明；之后无回；2026-04 群发无回；Elsa 箱：`to:skeo.ru` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 8 / 来 2）（第 74 批(l)））",
-   "type": "俄罗斯工业/系统公司（СКЕО）",
-   "sieve": "3（要样 + 问价）",
-   "stop": "付样 + 对俄物流（百运网不走俄？）后无回",
-   "revive": "不动",
-   "lane": "RU（Simon 点名「一些俄罗斯客户」）",
-   "cadence": "不动",
-   "evidence": "k=46b6696538cc7288 / 01bcd6732964d044 / 8884a81a60ecbdb4"
-  },
-  "situation": "—",
-  "need": "8 口工业非管理。",
-  "breakpoint": "物流/付款。",
-  "saga_now": {
-   "p1": "STI-080GE",
-   "tier": 20,
-   "price": "$33（2024-09）；历史报价（邮件原话，老汇率）：2024-09-06 STI-080GE 33usd；群发里他已看到的价（续，第 66 批全量复核）：2024-07-11 $65（10G Media Converter）、2026-05-11 $280（10G Enterprise SFP Switch）",
-   "why": "已打开的主题（1/8 封有打开记录）：「Re: 8 port unmanaged switch」(2024-09-06) → 读者兴趣主题类别不明（看原主题）",
-   "repeat": [],
-   "gaps": [
-    "对俄付款/物流通道"
-   ]
-  },
-  "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—",
-   "one_question": ""
-  },
-  "facts": [
-   {
-    "date": "2024-09-06",
-    "dir": "来",
-    "who": "Nikolay",
-    "quote": "What is the price for them? And how do you want to send them to us?",
-    "why": "要样问价",
-    "k": "01bcd6732964d044"
-   },
-   {
-    "date": "2024-09-06",
-    "dir": "去",
-    "who": "Saga（Simon）",
-    "quote": "Hi, Nikolay, 33usd/pc STI-080GE 8*10/100/1000M Ethernet, without fiber port, non-PoE, unmanaged, Support DIP function, DC12V~DC58V(Removable 4 PIN Industrial Terminal Block), -40℃ to 75℃, Din mounted, with mounting hanger, without power supply About the shipme",
-    "why": "历史报价点（主题「Re: 8 port unmanaged switch」；第 20 批从 gmail_s 回补）：STI-080GE 33usd",
-    "k": "8884a81a60ecbdb4"
-   },
-   {
-    "date": "2024-11-19",
-    "dir": "来",
-    "who": "用户表（Simon 跟进记录；渠道 微信）",
-    "quote": "用户表跟进：推「引流机型」→ 对方「有需求会说的」",
-    "why": "Simon 跟进表里的**婉拒/无需求**记录——这是 stop 原因的直接证据，节奏按「不动，等他开口」",
-    "k": "Clients/A/DONE/优质俄罗斯客户 2.9.xlsx no.13 1119"
-   }
+  "code": "SB-092",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（spacetronik.pl，快照 2026-10-21）",
+  "summary": "波兰 Spacetronik（自有品牌电子/安装/办公人体工学产品官方商店：24 口 2.5G + 10G SFP+ 交换机 SP-SGT124S、LAN PoE 与光纤测试仪、KVM、传感器；表内「HRUI（洪瑞）的，贴了自己的 logo；工商 switch」「质量一般」）；表内 1 次跟进无回复。",
+  "type": "波兰自有品牌电子商店（交换机现由 HRUI 代工 → Q-33 口径）",
+  "size": "",
+  "brands_seen": [
+    "HRUI"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：Spacetronik.pl - Official Brand Store | Electronics & Technology.；品类词 安防监控（CCTV / 门禁） / 无线 / WiFi / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
+      "quote": "A complete range of technological, installation, and ergonomic solutions in one place. Everything for a modern home and a professional office. Discover the world of the Spacetronik brand!",
+      "url": "https://spacetronik.pl/en/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "洪瑞的 贴了自己的logo；工商Switch",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "Spacetronik 官方品牌商店",
+      "quote": "Spacetronik.pl - Official Brand Store | Electronics & Technology ; 24-Port 2.5G RJ45 Switch with 10G SFP+ Port SP-SGT124S",
+      "url": "https://spacetronik.pl/en/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "HRUI 代工贴自己 logo，工商 switch",
+      "quote": "洪瑞的 贴了自己的logo / 工商Switch；质量一般",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "波兰",
+    "other": "官网 spacetronik.pl，语言 en，快照状态 ok；角色判定来源：用户表"
+  },
+  "business_lines": [
+    "自有品牌电子/安装/办公产品商店",
+    "网络交换机（HRUI 代工贴标）"
+  ],
+  "channels": {
+    "role": "波兰自有品牌电子商店（交换机现由 HRUI 代工 → Q-33 口径）",
+    "region": "波兰",
+    "contact": "store@spacetronik.eu"
+  },
+  "signals": [
+    "首页：24-Port 2.5G RJ45 Switch with 10G SFP+ Port SP-SGT124S；Spacetronik LAN PoE & Fiber Optic Tester",
+    "官网：A complete range of technological, installation, and ergonomic solutions … Discover the world of the Spacetronik brand",
+    "表内：洪瑞的 贴了自己的 logo / 工商 Switch"
+  ],
+  "risks": [
+    "现 ODM 为 HRUI（Saga 供应商之一）：按 Q-33 口径不以 HRUI 同型号竞价，只推 SmartByte/Marvell 差异化线",
+    "自有品牌商店：价格基准低；1 次跟进无回复，无具名 KP（store@）"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 30,
+    "why": "现由 HRUI 代工贴 Spacetronik 标 → 按 Q-33 口径只推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 GE + 4×10G STC-424XGGM（$138.0）作差异化上位；不碰其 HRUI 现货型号"
+  },
+  "email_hook": "For the Spacetronik-branded switch range, we can add a Marvell-based tier above your current models — 8-PoE + 2 SFP L2+ and 24-GE + 4×10G L2+ — from small lots in your housing and packaging, CE/RoHS; which of the two would fit your catalogue first?",
+  "products_seen": [
+    {
+      "brand": "Spacetronik（自有）",
+      "model": "SP-SGT124S",
+      "spec": "24 口 2.5G + 10G SFP+",
+      "saga": "（Saga 24×2.5G 待核；近位 STC-424XGGM）",
+      "url": "https://spacetronik.pl/en/",
+      "date": "2026-10-21"
+    }
+  ],
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A/S 邮箱 17 封 2024→2026，无记录打开，0 回；收件 store@spacetronik.eu；主题多为「10G Enterprise SFP Switch、Booster PoE Switch」）；Elsa 群发 BCC 已触达 2025-04-03「Marvell Alleycat5 Solution」（稿内无价，第 74 批(p) 已读稿），PL 批次 To biuro@zintronic.pl，0 回（第 74 批 Bcc 头核对 msg 195fa8e899dc2e6f）",
+      "type": "波兰自有品牌电子商店（交换机现由 HRUI 代工 → Q-33 口径）",
+      "sieve": "1（只收到群发）",
+      "stop": "17 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱；Q-33 供应商渠道客户",
+      "revive": "不动（Q-33）",
+      "lane": "PL 次级重点",
+      "cadence": "不动",
+      "evidence": "gmail_digest：out 17；用户表：「洪瑞的 贴了自己的logo；工商Switch」；研究档 risks：现 ODM 为 HRUI（Saga 供应商之一）：按 Q-33 口径不以 HRUI 同型号竞价，只推 SmartByte/Marvell 差异化线；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To biuro@zintronic.pl）本户见于 2025-04-03 名单；2026-09-01 最新一轮名单已不含此地址 → 中途被剔除（退信 / 退订 / 手工）"
+    },
+    "situation": "波兰 Spacetronik（自有品牌电子/安装/办公人体工学产品官方商店：24 口 2.5G + 10G SFP+ 交换机 SP-SGT124S、LAN PoE 与光纤测试仪、KVM、传感器；表内「HRUI（洪瑞）的，贴了自己的 logo；工商 switch」「质量一般」）；表内 1 次跟进无回复。",
+    "need": "现由 HRUI 代工贴 Spacetronik 标 → 按 Q-33 口径只推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 GE + 4×10G STC-424XGGM（$138.0）作差异化上位；不碰其 HRUI 现货型号",
+    "breakpoint": "现 ODM 为 HRUI（Saga 供应商之一）：按 Q-33 口径不以 HRUI 同型号竞价，只推 SmartByte/Marvell 差异化线",
+    "saga_now": {
+      "p1": "STC-28DGGPM",
+      "tier": 30,
+      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-08 $65（10G media converter）、2024-12-05 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-19 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-20 $280（10G Enterprise SFP Switch）",
+      "why": "现由 HRUI 代工贴 Spacetronik 标 → 按 Q-33 口径只推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 GE + 4×10G STC-424XGGM（$138.0）作差异化上位；不碰其 HRUI 现货型号",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "不动",
+      "channel": "—",
+      "action": "—",
+      "one_question": ""
+    },
+    "facts": [
+      {
+        "date": "2025-04-03",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To biuro@zintronic.pl，PL 批次）",
+        "quote": "Marvell Alleycat5 Solution — We are doing Marvell Alleycat5 chip for tailored networking solutions. 1, Support Web GUI change(Logo, model name, MAC, SN, SNMP, OID) 2, Added intere",
+        "why": "Elsa 箱群发 BCC 触达证据（命中地址 spacetronik.eu, store@spacetronik.eu）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+        "k": "elsa_bcc"
+      },
+      {
+        "date": "2026-09-24",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "10G Enterprise SFP Switch、Booster PoE Switch",
+        "why": "17 封 / 0 次打开 / 0 回｜首封 2024-07-11 → 末封 2026-09-24（17 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "洪瑞的 贴了自己的logo；工商Switch",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-25"
+  }
 }

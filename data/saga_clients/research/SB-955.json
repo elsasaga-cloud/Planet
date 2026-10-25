@@ -2,37 +2,30 @@
  "code": "SB-955",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "在线（ssd.ru，快照 2026-10-21）",
- "summary": "俄罗斯 ССД Связьстройдеталь（通信线路建设与维修材料研发制造商（光缆接头盒、管道、钢筋混凝土制品等），电信网络方案市场领导者；表内「MC 似乎是自己的牌子；switch 电源等」）；群发 17 次无回复。",
- "type": "俄罗斯通信建设材料制造商（MC 为边缘品类）",
+ "website_status": "在线（omctech.com，快照 2026-10-21）",
+ "summary": "泰国 OMC Tech（omctech.com：视频转换器/光端机与 MC 为主，「基本没有 switch」；多个办事处邮箱（sales@ / rugged@）；「可以尝试多跟进一下」）；群发 9 次无回复。",
+ "type": "光端机/MC 供应商（泰国，多办事处）",
  "size": "",
  "brands_seen": [],
  "evidence": [
   {
    "kind": "官网快照",
-   "claim": "官网标题：ССД - Разработка и производство материалов для строительства и ремонта линий связи",
-   "quote": "Компания СВЯЗЬСТРОЙДЕТАЛЬ - разрабатываем и производим высокотехнологичные решения для строительства и ремонта линий связи и энергетики. Выгодные условия сотрудничества для юр. лиц и ИП. Оптовые поставки оборудования по всей России",
-   "url": "https://ssd.ru/",
+   "claim": "官网标题：omctech.com",
+   "quote": "",
+   "url": "https://omctech.com/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
    "claim": "表内兴趣/备注",
-   "quote": "MC 似乎是自己的牌子 switch 电源等",
+   "quote": "VC MC 基本没有switch；好几个办事处的邮箱",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   },
   {
-   "kind": "官网快照",
-   "claim": "ССД 定位",
-   "quote": "ССД - Разработка и производство материалов для строительства и ремонта линий связи ; СВЯЗЬСТРОЙДЕТАЛЬ — лидер рынка решений для телекоммуникационных сетей",
-   "url": "https://ssd.ru/",
-   "date": "2026-10-21"
-  },
-  {
    "kind": "用户表",
-   "claim": "MC 似乎自己的牌子",
-   "quote": "MC 似乎是自己的牌子 switch 电源等",
+   "claim": "VC MC 基本没有 switch",
+   "quote": "VC MC 基本没有switch；好几个办事处的邮箱",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
@@ -46,50 +39,49 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "俄罗斯",
-  "other": "官网 ssd.ru，语言 ru，快照状态 ok；角色判定来源：用户表"
+  "hq": "泰国",
+  "other": "官网 omctech.com，语言 ?，快照状态 ok；角色判定来源：待核"
  },
  "business_lines": [
-  "通信线路建设 / 维修材料制造（俄罗斯）"
+  "视频光端机 / MC（泰国）"
  ],
  "channels": {
-  "role": "俄罗斯通信建设材料制造商（MC 为边缘品类）",
-  "region": "俄罗斯",
-  "contact": "mail@ssd.ru"
+  "role": "光端机/MC 供应商（泰国，多办事处）",
+  "region": "泰国",
+  "contact": "sales@omctech.com、rugged@omctech.com"
  },
  "signals": [
-  "官网：Компания СВЯЗЬСТРОЙДЕТАЛЬ - разрабатываем и производим высокотехнологичные решения для строительства и ремонта …；首页 лидер рынка решений для телекоммуникационных сетей；页面 /catalog/stroitelstvo-obektov-infrastruktury-svyazi/",
-  "表内：MC 似乎是自己的牌子 switch 电源等"
+  "表内：VC MC 基本没有 switch；好几个办事处的邮箱；可以尝试多跟进一下",
+  "快照：内容为空"
  ],
  "risks": [
-  "主业无源通信建设材料（Saga 不做），有源为边缘品类；俄罗斯：结算/物流/合规风险",
-  "17 次无回复，仅 mail@"
+  "视频光端机为主（Saga 不供）；基本不卖 switch；非主攻区（T5，泰国）；9 次无回复；官网快照空"
  ],
  "saga_fit": {
   "p1": "STI-110GE",
-  "tier": 30,
-  "why": "MC（自有标可能）→ 工业千兆 MC STI-110GE（$24.3 @30%）/ 桌面 MC 用 HRUI（列表价，注明）；低期望"
+  "tier": 20,
+  "why": "MC 位 → 工业千兆 MC STI-110GE（$22.4 @20%）、工业 PoE MC STI-111GP（$27.8）；视频光端机 Saga 不供"
  },
- "email_hook": "For the media converters and small switches carried under your label alongside your fibre closures and line-construction products, we can supply gigabit MCs and 8-GE + 2 SFP switches in your packaging from small lots, CE/RoHS; EAC by your side — which active SKU do your telecom customers order most?",
+ "email_hook": "For the media-converter positions in your fibre transmission offer, we supply neutral-brand industrial gigabit and PoE MCs (−40~75 °C, CE/RoHS) from single units, EXW USD — which MC configuration do your customers order most alongside your video converters?",
  "mail_review": {
   "binding": {
-   "level": "未触达（A/S 邮箱 18 封 2024→2026，1 次记录打开，0 回；收件 mail@ssd.ru；主题多为「16 Port Ethernet Switch、Marvell Alleycat5 Solution」；Elsa 箱：`to:ssd.ru` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 18 / 来 0）（第 74 批(l)））",
-   "type": "俄罗斯通信建设材料制造商（MC 为边缘品类）",
-   "sieve": "1~2（1 次打开）",
-   "stop": "只打通用邮箱，无记录打开",
+   "level": "未触达（A 邮箱 13 封 2025→2026，无记录打开，0 回；收件 apac@omctech.com, rugged@omctech.com；主题多为「10G Media Converter、16 Port Ethernet Switch」；Elsa 箱：`to:omctech.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 13 / 来 0）（第 74 批(n)））",
+   "type": "光端机/MC 供应商（泰国，多办事处）",
+   "sieve": "1（只收到群发）",
+   "stop": "13 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
    "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "RU 次级（Simon 2026-08 点名）",
+   "lane": "泰国 非主攻",
    "cadence": "季度",
-   "evidence": "gmail_digest：out 18，Opened 标签 1（Simon 群发追踪）；用户表：「MC 似乎是自己的牌子 switch 电源等」；研究档 risks：主业无源通信建设材料（Saga 不做），有源为边缘品类；俄罗斯：结算/物流/合规风险"
+   "evidence": "gmail_digest：out 13；用户表：「VC MC 基本没有switch；好几个办事处的邮箱」；研究档 risks：视频光端机为主（Saga 不供）；基本不卖 switch；非主攻区（T5，泰国）；9 次无回复；官网快照空"
   },
-  "situation": "俄罗斯 ССД Связьстройдеталь（通信线路建设与维修材料研发制造商（光缆接头盒、管道、钢筋混凝土制品等），电信网络方案市场领导者；表内「MC 似乎是自己的牌子；switch 电源等」）；群发 17 次无回复。",
-  "need": "MC（自有标可能）→ 工业千兆 MC STI-110GE（$24.3 @30%）/ 桌面 MC 用 HRUI（列表价，注明）；低期望",
-  "breakpoint": "主业无源通信建设材料（Saga 不做），有源为边缘品类；俄罗斯：结算/物流/合规风险",
+  "situation": "泰国 OMC Tech（omctech.com：视频转换器/光端机与 MC 为主，「基本没有 switch」；多个办事处邮箱（sales@ / rugged@）；「可以尝试多跟进一下」）；群发 9 次无回复。",
+  "need": "MC 位 → 工业千兆 MC STI-110GE（$22.4 @20%）、工业 PoE MC STI-111GP（$27.8）；视频光端机 Saga 不供",
+  "breakpoint": "视频光端机为主（Saga 不供）；基本不卖 switch；非主攻区（T5，泰国）；9 次无回复；官网快照空",
   "saga_now": {
    "p1": "STI-110GE",
-   "tier": 30,
-   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-26 $65（10G Media Converter）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-02 $280（10G Enterprise SFP Switch）",
-   "why": "MC（自有标可能）→ 工业千兆 MC STI-110GE（$24.3 @30%）/ 桌面 MC 用 HRUI（列表价，注明）；低期望。已打开的主题（1/18 封有打开记录）：「Marvell Alleycat5 Solution」(2025-04-15) → 读者兴趣偏「其他」；当前 P1 属「10G 汇聚/L3」，下一封按「其他」给，不按 P1",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-01-28 $65（10G Media Converter）、2025-07-10 $300（48 Port PoE Managed Switch）、2025-10-09 $280（10G Enterprise SFP Switch）",
+   "why": "MC 位 → 工业千兆 MC STI-110GE（$22.4 @20%）、工业 PoE MC STI-111GP（$27.8）；视频光端机 Saga 不供",
    "repeat": [],
    "gaps": []
   },
@@ -97,22 +89,22 @@
    "when": "群发节奏",
    "channel": "A 邮箱",
    "action": "观察打开",
-   "one_question": "For the media converters and small switches carried under your label alongside your fibre closures and line-construction products, we can supply gigabit MCs and 8-GE + 2 SFP switches in your packaging from small lots, CE/RoHS; EAC by your side — which active SKU do your telecom customers order most?"
+   "one_question": "For the media-converter positions in your fibre transmission offer, we supply neutral-brand industrial gigabit and PoE MCs (−40~75 °C, CE/RoHS) from single units, EXW USD — which MC configuration do your customers order most alongside your video converters?"
   },
   "facts": [
    {
-    "date": "2026-01-12",
+    "date": "2026-02-17",
     "dir": "去",
-    "who": "A/S 群发",
-    "quote": "16 Port Ethernet Switch、Marvell Alleycat5 Solution",
-    "why": "18 封 / 1 次打开 / 0 回｜首封 2024-07-01 → 末封 2026-01-12（18 去 / 0 来）",
+    "who": "A 群发",
+    "quote": "10G Media Converter、16 Port Ethernet Switch",
+    "why": "13 封 / 0 次打开 / 0 回｜首封 2025-01-28 → 末封 2026-02-17（13 去 / 0 来）",
     "k": "gmail_digest"
    },
    {
     "date": "2026-10-21",
     "dir": "用户表",
     "who": "Simon",
-    "quote": "MC 似乎是自己的牌子 switch 电源等",
+    "quote": "VC MC 基本没有switch；好几个办事处的邮箱",
     "why": "表内备注",
     "k": "用户表"
    }

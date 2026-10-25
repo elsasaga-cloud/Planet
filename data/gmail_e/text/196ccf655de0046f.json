@@ -11,7 +11,7 @@
  "text": "Hi, Neal,\n\nThis is about a typical model in this series.\n\n1, STI-288DGGPM-2BT: 140usd/pc\n\n2*100M/1G/2.5G SFP+8*10/100/1000M PoE, L2+ Managed\n\n6*PoE af/at+2*PoE af/at/bt, 240W budget, Din Rail, Redundant DC44V~57V Input\n,\n\nExcluding optical module and power supply\n\n2, Please see attached datasheet and let me know.\n\nThank you.",
  "char_count": "341",
  "attachments": "[{'filename': 'image001.jpg', 'mime_type': 'image/jpeg', 'size': 25235}, {'filename': 'STI-288DGGPM-2BT.pdf', 'mime_type': 'application/pdf', 'size': 2649058}]",
- "note": "SA-081 Soft Networks（美国，Neal C）：Elsa 2025-05-14 报 STI-288DGGPM-2BT $140/pc（2 SFP + 8 PoE L2+，6 at + 2 bt，240 W，冗余 DC）+ 规格书",
+ "note": "SA-054 Soft Networks（美国，Neal C）：Elsa 2025-05-14 报 STI-288DGGPM-2BT $140/pc（2 SFP + 8 PoE L2+，6 at + 2 bt，240 W，冗余 DC）+ 规格书",
  "text_source": "text/plain",
  "fetched": "2026-10-24T16:05Z",
  "method": "Arena Gmail connector get_message_text(include_quoted=false)"

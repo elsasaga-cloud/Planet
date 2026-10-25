@@ -2,28 +2,50 @@
  "code": "SB-680",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "在线（apresteknoloji.com.tr，快照 2026-10-21）",
- "summary": "土耳其 Apres Teknoloji（官网快照仅标题，业务范围待核；表内无兴趣备注）；表内 1 次跟进无回复。",
- "type": "IT/技术公司（土耳其，待核）",
+ "website_status": "在线（schrack.cz，快照 2026-10-21）",
+ "summary": "捷克 Schrack Technik（奥地利 Schrack Technik 集团捷克公司：电气安装材料制造与分销 30 余年，含网络/数据产品线；表内「销售平台 工商业 台湾厂商的」「可以尝试多跟进一下」；KP Jakub Drbohlav；邮箱 p.simek@ / v.jurek@）；表内 7 次跟进无回复。",
+ "type": "电气材料集团分销商（捷克，自有标网络线来自台湾 ODM）",
  "size": "",
  "brands_seen": [],
  "evidence": [
   {
    "kind": "官网快照",
-   "claim": "官网标题：Apres Teknoloji",
-   "quote": "Apres Teknoloji",
-   "url": "https://apresteknoloji.com.tr/",
+   "claim": "官网标题：Schrack Technik | Výrobce elektroinstalačních materiálů；品类词 网络交换 / PoE",
+   "quote": "Nejvhodnější elektromateriály již více jak 30 let v ČR. S námi nakupujete kvalitu, kterou nám i Vy pomáháte stále zlepšovat svou praxí.",
+   "url": "https://www.schrack.cz/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "销售平台 工商业 台湾厂商的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   },
   {
    "kind": "官网快照",
-   "claim": "Apres 快照",
-   "quote": "Apres Teknoloji",
-   "url": "https://apresteknoloji.com.tr/",
+   "claim": "Schrack 定位",
+   "quote": "Schrack Technik | Výrobce elektroinstalačních materiálů ; Nejvhodnější elektromateriály již více jak 30 let v ČR",
+   "url": "https://www.schrack.cz/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "台湾厂商的 销售平台",
+   "quote": "销售平台 工商业 台湾厂商的；可以尝试多跟进一下",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Jakub Drbohlav",
+   "title": "（职务待核）",
+   "email": "p.simek@schrack.cz",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
@@ -32,86 +54,82 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "土耳其",
-  "other": "官网 apresteknoloji.com.tr，语言 ?，快照状态 ok；角色判定来源：官网文案"
+  "hq": "捷克",
+  "other": "官网 schrack.cz，语言 cs，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "（待核）"
+  "电气安装材料制造与分销（集团）",
+  "网络 / 数据产品线（自有标）"
  ],
  "channels": {
-  "role": "IT/技术公司（土耳其，待核）",
-  "region": "土耳其",
-  "contact": "info@apresteknoloji.com.tr"
+  "role": "电气材料集团分销商（捷克，自有标网络线来自台湾 ODM）",
+  "region": "捷克",
+  "contact": "p.simek@schrack.cz、v.jurek@schrack.cz"
  },
  "signals": [
-  "快照：Apres Teknoloji（内容空）",
-  "表内：无兴趣备注"
+  "官网：Schrack Technik | Výrobce elektroinstalačních materiálů ; Nejvhodnější elektromateriály již více jak 30 let v ČR",
+  "表内：销售平台 工商业 台湾厂商的；KP Jakub Drbohlav；可以尝试多跟进一下"
  ],
  "risks": [
-  "业务范围待核（快照仅标题、表内无兴趣备注）；仅 info@，1 次无回复"
+  "体量：Schrack Technik 集团（集团采购、供应商准入流程长）——用户标「可以尝试多跟进一下」，保留 B；现有台湾 ODM 供应链；7 次无回复"
  ],
  "saga_fit": {
-  "p1": "STC-28DGGPM",
+  "p1": "STI-280GE",
   "tier": 20,
-  "why": "业务待核 → 通用首触：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）"
+  "why": "Schrack 标网络产品（现台湾 ODM）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、商用 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7）、24 口 STC-424DGGPM-280W（$134.5）"
  },
- "email_hook": "We supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and 24-PoE + 4 SFP switches plus DIN-rail industrial units from single units, CE/RoHS, EXW USD — does your business carry or install network switches, and if so which port count do your customers ask for most?",
+ "email_hook": "Jakub, for the Schrack-branded network switches sourced from Taiwanese ODMs, we can offer an alternative (8-PoE + 2 SFP L2+ and 24-PoE 280 W on a Marvell platform, DIN-rail 8-GE + 2 SFP) in your packaging from small lots, CE/RoHS — who in the group evaluates new network-hardware suppliers?",
  "mail_review": {
   "binding": {
-   "level": "未触达（A 邮箱 5 封 2025→2026，无记录打开，0 回；收件 info@apresteknoloji.com.tr；主题多为「10G Enterprise SFP Switch、Booster PoE Switch」；Elsa 箱：`to:apresteknoloji.com.tr` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 5 / 来 0）（第 74 批(i)））",
-   "type": "IT/技术公司（土耳其，待核）",
-   "sieve": "1（只收到群发）",
-   "stop": "只打通用邮箱，无记录打开",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "TR 主攻（四主）",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 5；研究档 risks：业务范围待核（快照仅标题、表内无兴趣备注）；仅 info@，1 次无回复"
+   "level": "读而不回（A 邮箱 12 封 2025→2026，其中 3 封被打开，0 回；收件 j.drbohlav@schrack.cz, j.mynar@schrack.cz；被打开主题「Managed Optical Bypass Switch、8 Port Industrial PoE Switch」；Elsa 箱：`to:.cz` 穷举 1 条（2026-10-25，锚批 Bcc 头已读）未见 schrack.cz → Elsa 箱从未发过本户，往来只在 S/A 箱（去 12 / 来 0）（第 74 批(f)））",
+   "type": "电气材料集团分销商（捷克，自有标网络线来自台湾 ODM）",
+   "sieve": "2（有人在读，无人回）",
+   "stop": "读而不回 = 内容未命中或没有当下需求",
+   "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
+   "lane": "捷克（欧洲全域主攻）",
+   "cadence": "一封；回了再说",
+   "evidence": "gmail_digest：out 12，Opened 标签 3（Simon 群发追踪）；用户表：「销售平台 工商业 台湾厂商的」；研究档 risks：体量：Schrack Technik 集团（集团采购、供应商准入流程长）——用户标「可以尝试多跟进一下」，保留 B；现有台湾 ODM 供应链；7 次无回复"
   },
-  "situation": "土耳其 Apres Teknoloji（官网快照仅标题，业务范围待核；表内无兴趣备注）；表内 1 次跟进无回复。",
-  "need": "业务待核 → 通用首触：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）",
-  "breakpoint": "业务范围待核（快照仅标题、表内无兴趣备注）；仅 info@，1 次无回复",
+  "situation": "捷克 Schrack Technik（奥地利 Schrack Technik 集团捷克公司：电气安装材料制造与分销 30 余年，含网络/数据产品线；表内「销售平台 工商业 台湾厂商的」「可以尝试多跟进一下」；KP Jakub Drbohlav；邮箱 p.simek@ / v.jurek@）；表内 7 次跟进无回复。",
+  "need": "Schrack 标网络产品（现台湾 ODM）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、商用 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7）、24 口 STC-424DGGPM-280W（$134.5）",
+  "breakpoint": "体量：Schrack Technik 集团（集团采购、供应商准入流程长）——用户标「可以尝试多跟进一下」，保留 B；现有台湾 ODM 供应链；7 次无回复",
   "saga_now": {
-   "p1": "STC-28DGGPM",
+   "p1": "STI-280GE",
    "tier": 20,
-   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-30 $280（10G Enterprise SFP Switch）",
-   "why": "业务待核 → 通用首触：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）",
+   "price": "首触锚价 STI-280GE $46 EXW（Saga 2025 Realtek 工业线对外价 $46（非管理工业线不用档位价 ㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-04-18 $300（48 Port PoE Managed Switch）、2025-10-08 $280（10G Enterprise SFP Switch）",
+   "why": "Schrack 标网络产品（现台湾 ODM）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、商用 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7）、24 口 STC-424DGGPM-280W（$134.5）。已打开的主题（3/12 封有打开记录）：「10G Enterprise SFP Switch」(2025-10-08)、「Booster PoE Switch」(2025-11-13)、「Managed Optical Bypass Switch」(2026-02-09) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
-   "one_question": "We supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and 24-PoE + 4 SFP switches plus DIN-rail industrial units from single units, CE/RoHS, EXW USD — does your business carry or install network switches, and if so which port count do your customers ask for most?"
+   "when": "2026-11",
+   "channel": "A 邮箱 → j.drbohlav@schrack.cz",
+   "action": "短信一问（email_hook）",
+   "one_question": "Jakub, for the Schrack-branded network switches sourced from Taiwanese ODMs, we can offer an alternative (8-PoE + 2 SFP L2+ and 24-PoE 280 W on a Marvell platform, DIN-rail 8-GE + 2 SFP) in your packaging from small lots, CE/RoHS — who in the group evaluates new network-hardware suppliers? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
    {
-    "date": "2025-10-30",
-    "dir": "去",
-    "who": "A 箱（Alan）",
-    "quote": "10G Enterprise SFP Switch",
-    "why": "首封去信（邮箱索引；去信共 5 封）",
-    "k": "362191717a902f72"
-   },
-   {
-    "date": "2026-03-11",
+    "date": "2026-02-09",
     "dir": "去",
     "who": "A 群发",
-    "quote": "10G Enterprise SFP Switch、Booster PoE Switch",
-    "why": "5 封 / 0 次打开 / 0 回｜首封 2025-10-30 → 末封 2026-03-11（5 去 / 0 来）",
+    "quote": "Managed Optical Bypass Switch、8 Port Industrial PoE Switch",
+    "why": "12 封 / 3 次打开 / 0 回｜首封 2025-01-28 → 末封 2026-02-09（12 去 / 0 来）",
     "k": "gmail_digest"
    },
    {
-    "date": "2026-03-11",
-    "dir": "去",
-    "who": "A 箱（Alan）",
-    "quote": "Updated Ethernet Switches Links",
-    "why": "最近一封去信（邮箱索引；去信共 5 封）",
-    "k": "601ab8dcfb544389"
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "销售平台 工商业 台湾厂商的",
+    "why": "表内备注",
+    "k": "用户表"
    }
   ],
   "proof_gaps": [],
-  "draft_en": null,
+  "draft_en": {
+   "subject": "One question — Managed Optical Bypass Switch",
+   "body": "Hi Jakub,\n\nWe have sent you a few mails on \"Managed Optical Bypass Switch\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor the Schrack-branded network switches sourced from Taiwanese ODMs, we can offer an alternative (8-PoE + 2 SFP L2+ and 24-PoE 280 W on a Marvell platform, DIN-rail 8-GE + 2 SFP) in your packaging from small lots, CE/RoHS — who in the group evaluates new network-hardware suppliers?\n\nReference price: DIN-rail 8-GE + 2 SFP unmanaged industrial switch (STI-280GE) $46 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+  },
   "as_of": "2026-10-24"
  }
 }

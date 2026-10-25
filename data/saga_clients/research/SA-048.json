@@ -1,221 +1,322 @@
 {
-  "code": "SA-048",
-  "name_official": "Trường Sơn Solutions Co., Ltd.（Công ty TNHH Giải pháp và Xây lắp Trường Sơn, HCMC, Vietnam）",
-  "website_status": "在线（truongsonsolutions.vn / switchcongnghiep.com）",
-  "summary": "胡志明市的工业交换机专营分销商（2019 年注册，登记员工 5 人；另有河内办公室），分销 ONV 工业 PoE 交换机、Advantech EKI、韩国 GTWave（主打 Non-China/NDAA）、三星/HUNT 摄像机；域名 switchcongnghiep = 「工业交换机」。用户表：A 已回复 1 次，17 次跟进；兴趣 OEM/ODM、MC/FS/机架/工业 FS、ONV 全线引进；多家 AI 评 30%–80%。",
-  "type": "分销商/电商（工业交换机垂直）",
-  "size": "5 人（dauthau.asia 登记）",
-  "brands_seen": [
-    "ONV",
-    "Advantech",
-    "GTWave",
-    "Sambo",
-    "HUNT",
-    "PLANET",
-    "3Onedata"
-  ],
-  "evidence": [
-    {
-      "kind": "官网（博客）",
-      "claim": "分销 ONV 工业 PoE 交换机",
-      "quote": "Truong Son Solutions Co.,Ltd là đơn vị phân phối Switch PoE công nghiệp ONV, Camera Sambo Hàn Quốc, Camera HUNT Taiwan … Email : info@truongsonsolutions.com 090949007",
-      "url": "https://truongsonsolutions.wordpress.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网",
-      "claim": "同时引入韩国 GTWave Non-China 线（说明客户有非中国产线需求）",
-      "quote": "Switch công nghiệp có quản lý 8 cổng GTWave Non-China đạt NDAA GTW-D08M2",
-      "url": "https://truongsonsolutions.vn/thuong-hieu/gtwave/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "第三方（dauthau.asia）",
-      "claim": "注册信息与规模",
-      "quote": "TRUONG SON SOLUTIONS AND CONTRUCTIONS COMPANY LIMITED, tax code 0315784421 … Company Establishment Date 12/07/2019 · The number of workers 5",
-      "url": "https://dauthau.asia/en/businesslistings/detail/TRUONG-SON-SOLUTIONS-AND-CONTRUCTIONS-COMPANY-LIMITED-137944/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网",
-      "claim": "ONV-IPS33054PF 规格",
-      "quote": "ONV-IPS33054PF series là dòng sản phẩm Switch PoE công nghiệp unmanaged tốc độ gigabit … 4×10/100/1000M RJ45 và 1x1000M SFP, Port 1->4 (PoE) hổ trợ chuẩn PoE IEEE802.3af/at",
-      "url": "https://truongsonsolutions.vn/san-pham/switch-poe-cong-nghiep-4-port-ips33054pf/",
-      "date": "2020-06-13"
-    },
-    {
-      "kind": "官网",
-      "claim": "ONV-IPS31004PF 售价",
-      "quote": "IPS31004PF Switch PoE công nghiệp 4 Port 4,159,500₫ … 4 Port RJ45 tốc độ 10/100M … 1 Port Uplink quang SC",
-      "url": "https://truongsonsolutions.vn/san-pham/ips31004pf-switch-poe-cong-nghiep-4-cong-1-sfp/",
-      "date": "2020-06-23"
-    }
-  ],
-  "kp": [
-    {
-      "name": "—",
-      "role": "总机/销售（官网）",
-      "email": "info@truongsonsolutions.com",
-      "phone": "+84 909 490 007",
-      "source": "https://truongsonsolutions.vn/lien-he/"
-    }
-  ],
-  "notes": "A 维持（垂直工业交换机分销 + 已回复 + 对深圳供应链开放），但规模小（5 人）；P1 = STI-288DGGPM 对位 ONV IPS33xx 系列，20% 分销档；注意它同时在推 Non-China 线，报价不提产地。",
-  "researched_at": "2026-10-21",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "深挖 v1"
+ "code": "SA-048",
+ "name_official": "Al Rajhi Telecom Company / Silkroad Business Solutions（eKhalas 电商平台）",
+ "website_status": "在线",
+ "summary": "沙特利雅得电信承包商（2005 年起）+ ICT 系统集成（2015 年起）+ 自营 B2B 电商 ekhalas.com；自称全沙特 3,000+ 客户，并有自有品牌进入零售；平台卖 Vivotek PoE 交换机、TP-Link Omada、华为 eKit、Dahua 等。",
+ "type": "系统集成商+电商分销",
+ "size": "中型（承包+集成+电商，具体人数未披露）",
+ "brands_seen": [
+  "Vivotek",
+  "TP-Link Omada",
+  "Huawei eKit",
+  "Dahua",
+  "Legrand",
+  "OTS（用户记录：工业FS在用）"
+ ],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "2005 年成立的电信承包商，2015 年设 ICT 部门，自有品牌进零售，3,000+ 客户",
+   "quote": "Established in the year 2005 as a telecom contracting company, Silkroad Business Solutions Company operates across all the regions of Saudi Arabia and has an extensive network of more than 3000+ customers… to introducing our own brands into the retail market",
+   "url": "https://www.ekhalas.com/about-us/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "legal_name": "Công ty TNHH Giải pháp và Xây lắp Trường Sơn（Truong Son Solutions Co., Ltd.）",
-    "founded": "2019 注册",
-    "hq": "Ho Chi Minh City（另河内办公室）",
-    "staff": "5（登记）",
-    "other": "工业交换机垂直分销：ONV 工业 PoE 全线、PLANET（IGUP-1205AT）、3Onedata（IES5028G）、Advantech EKI、GTWave（Non-China/NDAA 卖点）、Sambo/HUNT 摄像机；站点 truongsonsolutions.vn + switchcongnghiep.com + wordpress；热线 0916.799.345"
+  {
+   "kind": "官网",
+   "claim": "eKhalas 为集成商/客户/厂商的 B2B 市场平台，品类含 Routers and Switches",
+   "quote": "‘eKhalas’ a marketspace platform for our system integrators, customers & Vendors all across Saudi Arabia… Routers and Switches, UPS and invertors, Satellite, Safety and Security",
+   "url": "https://www.ekhalas.com/about-us/",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "ONV 工业 PoE 交换机分销（IPS31004PF、IPS33054PF、IPS31064PF、IPS33168PFM、IPS36368PFM…）",
-    "PLANET / 3Onedata / Advantech / GTWave 工业网络",
-    "韩国/台湾摄像机"
-  ],
-  "products_seen": [
-    {
-      "brand": "ONV",
-      "model": "ONV-IPS33054PF",
-      "spec": "工业非管理 4×GE PoE + 1 SFP",
-      "url": "https://truongsonsolutions.vn/san-pham/switch-poe-cong-nghiep-4-port-ips33054pf/",
-      "date": "2020-06-13",
-      "saga": "STI-144GP"
-    },
-    {
-      "brand": "ONV",
-      "model": "ONV-IPS31004PF",
-      "spec": "工业 4×FE PoE + 1 SC，4,159,500 VND",
-      "url": "https://truongsonsolutions.vn/san-pham/ips31004pf-switch-poe-cong-nghiep-4-cong-1-sfp/",
-      "date": "2020-06-23",
-      "saga": "STI-144GP（千兆升级）"
-    },
-    {
-      "brand": "ONV",
-      "model": "ONV-IPS33168PFM",
-      "spec": "工业管理 8 GE PoE（+SFP）",
-      "url": "https://truongsonsolutions.vn/san-pham/switch-poe-cong-nghiep-4-port-ips33054pf/",
-      "date": "2020-06",
-      "saga": "STI-288DGGPM"
-    },
-    {
-      "brand": "ONV",
-      "model": "ONV-IPS36368PFM",
-      "spec": "工业 L2+ 10G 上联 36 口（8 GE + 24 SFP + 4 SFP+）",
-      "url": "https://truongsonsolutions.vn/san-pham/10g-uplink-36-port-l2-managed-industrial-poe-switch/",
-      "date": "2020-09-20",
-      "saga": "—"
-    },
-    {
-      "brand": "PLANET",
-      "model": "IGUP-1205AT",
-      "spec": "工业 2 SFP → 1 bt 95W MC",
-      "url": "https://switchcongnghiep.com/san-pham/switch-cong-nghiep-planet-igup-1205at/",
-      "date": "2020-10-28",
-      "saga": "—"
-    },
-    {
-      "brand": "3Onedata",
-      "model": "IES5028G-8GC-4GS",
-      "spec": "工业 16 GE + 8 combo + 4 SFP",
-      "url": "https://switchcongnghiep.com/san-pham/ies5028g-8gc-4gs/",
-      "date": "2020-09-22",
-      "saga": "—"
-    }
-  ],
-  "channels": {
-    "网站": "https://truongsonsolutions.vn/ · https://switchcongnghiep.com/",
-    "直邮": "info@truongsonsolutions.com（用户表）",
-    "电话": "0916.799.345（官网公开）"
+  {
+   "kind": "官网",
+   "claim": "运营主体 Al Rajhi Telecom Company，利雅得地址与电话",
+   "quote": "Al Rajhi Telecom Company… 7687 King Fahad Branch Road, Al Murabba Dist… +966114221089",
+   "url": "https://www.ekhalas.com/contact-us/",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "多品牌工业交换机垂直分销——有现成客户群与品类知识；用户表：OEM/ODM、ONV 全线引进、MaiWe",
-    "GTWave 分销主打 Non-China/NDAA——同时经营中国 ONV，说明按客户分层卖"
-  ],
-  "risks": [
-    "ONV 全线在手，Saga 为同类替代；越南不在主攻区；5 人小公司"
-  ],
-  "saga_fit": {
-    "p1": "STI-144GP",
-    "tier": 20,
-    "why": "其最走量型 IPS33054PF/IPS31004PF（4 PoE + 1 光）= STI-144GP；IPS33168PFM = STI-288DGGPM；分销 20% 档"
+  {
+   "kind": "官网",
+   "claim": "平台在售 Vivotek PoE 交换机",
+   "quote": "VIVOTEK – POE-SWITCH AW-GEL-105A-110 EU… 705.00 + VAT",
+   "url": "https://www.ekhalas.com/",
+   "date": "2026-10-21"
   },
-  "email_hook": "Against your ONV-IPS33054PF and IPS33168PFM listings, the 4+1 and 8+2 industrial PoE units (managed versions on a Marvell platform) are the two I can quote at EXW today as an alternative line under your own label.",
-  "mail_review": {
-    "binding": {
-      "level": "未绑定（询问阶段，但 2026-07-15 有带型号的 CENTEC 询价：STH-8C24XF-HSI ×2 + 24×10G Base-T/2×100G ×2）；Elsa 群发 BCC 已触达 2026-09-10「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，越南（锚 vienthonghanoi VN） 批次 To inbox.vienthonghanoi@gmail.com，0 回（第 74 批 Bcc 头核对 msg 1a08a3bf37753529）",
-      "type": "胡志明市工业交换机垂直分销/电商（5 人），同时推 Non-China 线——第三档",
-      "sieve": "2",
-      "stop": "2026-07-15 Alan 报 STH-8C24DX-HSI 2,200 USD（24×25G 可配 10G，有现货）/ STH-2C24XE-HSI 1,700 USD 后无回音；2025-12 要「OEM/ODM price list」只给了链接",
-      "revive": "其数据中心项目落地；VN 非主攻",
-      "lane": "VN",
-      "cadence": "2024-07 → 2026-09 去信 29 封；最后来信 2026-07-15",
-      "evidence": "k=cf6dcab93221d2af / 43477f95c8d2e436 / 8ef6fe719128cb52；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To inbox.vienthonghanoi@gmail.com）本户见于 2026-09-10 名单"
-    },
-    "situation": "2025-12-19 对 Alert System 群发回「Pls share me your price list for OEM/ODM」，2026-07-15 对 Q3 链接回具体 RFQ（2 台 STH-8C24XF-HSI + 2 台 24×10G Base-T/2×100G），Alan 同日报 2,200 / 1,700 USD。此后 5 封 PoE 群发无回。",
-    "need": "CENTEC 10G/25G 数据中心交换机 2+2 台（项目）；OEM/ODM 价表。",
-    "breakpoint": "报价后项目窗口关闭；发去的后续全是无关 PoE。",
-    "saga_now": {
-      "p1": "STH-8C24DX-HSI / STH-2C24XE-HSI（2026-07 报价 2,200 / 1,700 USD）",
-      "tier": 25,
-      "price": "按 CENTEC ≥35% 底线复核；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-13 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-03-04 $65（10G Media Converter）、2025-08-11 $240（24 Port Fiber Switch）、2025-10-09 $280（10G Enterprise SFP Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-09-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-10；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
-      "why": "J5：只问项目，不发 PoE。已打开的主题（5/29 封有打开记录）：「Re: Marvell Industrial Alert System」(2025-12-19)、「Updated Ethernet Switches Links」(2026-02-16)、「Re: Saga Q3 Product Links」(2026-07-15)、「Saga Q3 Product Links」(2026-07-15) → 读者兴趣偏「工业」；与 P1 同类，继续 最近一封去信是 2026-09-24 A 邮箱 AC5 管理 PoE 模板（在本档最后一条事实之后）——下一封必须回到真人线程、不再叠模板｜已发资料（勿重发）：DIN Power Adapter(2024-08-06)、Download Link_Alan(2025-12-19)、Product Link_2026Q2(2026-02-16)、Saga Feature List_7.5.x_L2+(2026-06-24)、Product Link_2026Q3(2026-07-15)；7.5 Feature List 与 2026Q3 链接都已给过 → 下一封不能再是资料推送，只能是针对其需求的一句话/一个问题",
-      "repeat": [],
-      "gaps": [
-        "STH-8C24XF-HSI 现货状态（Alan 说无货）",
-        "CENTEC 交期：群发/7 月邮件写「ex-stock / Ready in stock」，正式报价单（iTM 2026-03）写 12~15 周——再报时交期按口径 #7「下单时确认」"
-      ]
-    },
-    "next_move": {
-      "when": "2026-11",
-      "channel": "A 邮箱 → info@truongsonsolutions.com",
-      "action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-09-10「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 一句话问 7 月 RFQ 的项目结果",
-      "one_question": "Did the July RFQ (2× 24×10G/25G + 2× 24×10GBASE-T) close with another vendor, or is it still open?"
-    },
-    "facts": [
-      {
-        "date": "2025-12-19",
-        "dir": "来",
-        "who": "Truong Son",
-        "quote": "Pls share me your price list for OEM/ODM.",
-        "why": "价表请求",
-        "k": "cf6dcab93221d2af"
-      },
-      {
-        "date": "2026-07-15",
-        "dir": "来",
-        "who": "Truong Son",
-        "quote": "Pls quote me model STH-8C24XF-HSI and (2pcs) and 2pcs 24 x 10G Base-T, 2 x 100GQSFP28",
-        "why": "RFQ",
-        "k": "43477f95c8d2e436"
-      },
-      {
-        "date": "2026-07-15",
-        "dir": "去",
-        "who": "Alan",
-        "quote": "STH-8C24XF-HSI (2pcs) No stock We recommend STH-8C24DX-HSI (ready in stock)… Price: 2200USD/PC 2. STH-2C24XE-HSI (2pcs) Ready in stock Price: 1700USD/PC",
-        "why": "报价",
-        "k": "8ef6fe719128cb52"
-      },
-      {
-        "date": "2026-09-10",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To inbox.vienthonghanoi@gmail.com，越南（锚 vienthonghanoi VN） 批次）",
-        "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
-        "why": "Elsa 箱群发 BCC 触达证据（命中地址 info@truongsonsolutions.com, truongsonsolutions.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-        "k": "elsa_bcc"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": {
-      "subject": "STH-8C24DX-HSI / STH-2C24XE-HSI — July RFQ",
-      "body": "Hi,\n\nIn July we quoted STH-8C24DX-HSI (24x25G + 8x100G) at $2,200 USD and STH-2C24XE-HSI (24x10GBASE-T + 2x100G) at $1,700 USD (availability as quoted then; lead time to be confirmed at order). We then sent you general PoE mail, which was not what you asked for; apologies.\n\nBoth prices are re-confirmed for 15 days from this mail, MA license pre-installed, hot-swap PSU.\n\nOne question: did the July RFQ (2 + 2 units) close with another vendor, or is it still open? If closed, which price did it close at — that helps us set the OEM/ODM list you asked for in December.\n\nThank you.\nAlan\nSaga Telecom - sagatele.com"
-    },
-    "as_of": "2026-10-25"
+  {
+   "kind": "官网",
+   "claim": "成立、母公司、业务范围",
+   "quote": "Established in 2014 as a subsidiary of Al Rajhi Building & Construction Al Rajhi Telecom Company is a Saudi-based technology solutions provider serving government, commercial, industrial, and telecommunications sectors. Specializing in ICT infrastructure, MEP systems, ELV solutions, software development, cybersecurity, telecommunications, and data center and power services",
+   "url": "https://www.alrajhitel.com/",
+   "date": "2025-08-17"
+  },
+  {
+   "kind": "官网",
+   "claim": "2024 成立 Al Rajhi Distribution、第三家展厅",
+   "quote": "2024 We have expanded our presence in the Eastern Province by opening our third showroom in Jubail. Additionally, we have successfully established a new entity called Al Rajhi Distribution, allowing us to enter the distribution business",
+   "url": "https://alrajhitel.odoo.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "关联公司官网",
+   "claim": "Silkroad：2005 起、3,000+ 客户、自有品牌零售",
+   "quote": "Established in the year 2005 as a telecom contracting company, Silkroad Business Solutions Company operates across all the regions of Saudi Arabia and has an extensive network of more than 3000+ customers … to introducing our own brands into the retail market",
+   "url": "https://www.ekhalas.com/about-us/",
+   "date": "2026-08-08"
+  },
+  {
+   "kind": "LinkedIn",
+   "claim": "规模与专长",
+   "quote": "Company size: 501-1,000 employees … Specialties: Cyber Security, Low Current, Telecommunication … CCTV, Public Address System, Access Control System, IPTV, Fire Alarm System, Data Passive System, Cisco Premium Partners",
+   "url": "https://www.linkedin.com/company/alrajhitel/",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Inam",
+   "role": "（用户记录联系人）",
+   "email": "info@ekhalas.com",
+   "phone": "+966 11 4221089",
+   "source": "用户 Clients 表 + 官网联系页"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "有 1 次实质回复；工业 FS 在用 OTS（用户记录）。集成+电商双身份、且做自有品牌 → 可谈 OEM 贴牌或平台铺货。中东非主攻区但客户规模与贴牌意愿值得长期跟。P1 建议 STI-288DGGPM（工业 PoE 对位 OTS），电商/分销价阶 20%；若走自有品牌 30%。",
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "深挖 v2（官网 + LinkedIn + 关联公司核对）"
+ },
+ "company_facts": {
+  "legal_name": "Al Rajhi Telecom Company（Al Rajhi Building & Construction 子公司）；关联 Silkroad Business Solutions Company（2005 电信承包商，ekhalas.com 运营方）",
+  "founded": "2014（官网时间线；LinkedIn 2013）",
+  "hq": "7687 King Fahad Branch Road, Al Murabba Dist., Unit 147, Riyadh 12612",
+  "other": "业务：ICT 基础设施、MEP、ELV（CCTV/门禁/PA/IPTV/消防/主时钟）、软件、网络安全、电信 OSP/ISP、数据中心与电源；Cisco Premium Partner；展厅 Riyadh / Al Khobar / Jeddah / Jubail（2024 第三家）；**2024 成立 Al Rajhi Distribution 进入分销**；电商 ekhalas.com；2024-07 与 Mobi Egypt 成立数据中心合资；Silkroad 自述「3,000+ 客户」并「向零售市场推出自有品牌」；高管：CEO Mohammed Abdul Majid、Director of Group Sales Mohamed W Telfah、Sales Director Mohamad Hejazi、GM Mohammed Naser Al Sultan（ContactOut 名录）",
+  "staff": "501–1,000（LinkedIn，3,078 followers）"
+ },
+ "business_lines": [
+  "电信承包 / ICT 集成",
+  "B2B 电商分销（多品牌）",
+  "自有品牌零售",
+  "ICT / ELV 系统集成（政府、商业、工业、电信）",
+  "电信 OSP/ISP 承包（STC、Mobily、Tahakom 等项目）",
+  "数据中心（Mobi Egypt 合资）",
+  "Al Rajhi Distribution 分销 + ekhalas.com 电商 + Silkroad 自有品牌零售"
+ ],
+ "products_seen": [
+  {
+   "brand": "Vivotek / TP-Link Omada / Huawei eKit（在售）",
+   "model": "商用 PoE 交换机",
+   "spec": "电商平台",
+   "url": "https://ekhalas.com/",
+   "date": "2026-10（首轮调研）",
+   "saga": "STC-424DGGPM-280W"
+  },
+  {
+   "brand": "OTS（现工业来源）",
+   "model": "工业 FS",
+   "spec": "用户表",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "用户表",
+   "saga": "STI-288DGGPM"
+  }
+ ],
+ "channels": {
+  "网站": "https://www.alrajhitel.com/ / https://www.ekhalas.com/",
+  "直邮": "info@ekhalas.com（用户表）",
+  "LinkedIn": "https://www.linkedin.com/company/alrajhitel/"
+ },
+ "signals": [
+  "有自有品牌 + 电商 + 3,000 客户——白牌切入渠道现成",
+  "2024 新设 Al Rajhi Distribution + Silkroad「自有品牌进零售」——白牌 PoE 交换机走分销/自有品牌线比走集成项目更对口（2026-10-21）"
+ ],
+ "risks": [
+  "沙特 SASO/SABER 认证由进口方办理；电商价带低",
+  "规模 501–1,000 人、消防/主时钟/公共部门项目多——按 INH「too big」与公共部门守界，只做其分销 / 自有品牌零售线，不做政府集成项目配套"
+ ],
+ "saga_fit": {
+  "p1": "STC-424DGGPM-280W",
+  "tier": 20,
+  "why": "走 Al Rajhi Distribution / ekhalas 自有品牌线：STC-424DGGPM-280W 与 STC-28DGGPM 为零售主力口型，自有品牌包装；分销 20% 档（若按自有品牌 OEM 则 30%）"
+ },
+ "email_hook": "With Al Rajhi Distribution and the ekhalas own-brand range now live, the Marvell-based 8- and 24-port PoE+ managed switches in your packing at EXW cost are the two SKUs I would start with; I can send the spec sheets and MOQ-1 samples.",
+ "mail_review": {
+  "binding": {
+   "level": "未绑定（唯一一次人工来信 = 要样品，止于付样规则；Elsa 箱：`to:ekhalas.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 28 / 来 11）（第 74 批(g)））",
+   "type": "沙特电信承包 + ICT 集成 + 自营 B2B 电商（ekhalas）；Inam Ahmed（Data Center Division Manager）",
+   "sieve": "2（主动要样）→ 付样门槛停",
+   "stop": "2024-10-22 Inam「Please send me a sample to test」→ Simon 同日「It is NOT free samples. 36usd/pc STI-154GP」→ 无下文；此后 21 封去信全部发到 info@ekhalas.com（电商机器人自动回复 10 次），再没有发给 inam@",
+   "revive": "中东非主攻；若要复活，成本只是把收件人改回 inam@alrajhitel.com 并一句话问样品",
+   "lane": "SA：PayPal/T/T 可",
+   "cadence": "2024-06 → 2026-09 去信 26 封；人工来信 1 封（2024-10-22）",
+   "evidence": "k=2291cc97643c8854 / 775f9ed585dd20d5 / 3b9a30d69e46d2e7"
+  },
+  "situation": "利雅得 Al Rajhi Telecom 的数据中心部经理 Inam 在 2024-10-22 回「送个样品测试」，Simon 按规则答「不免费，36 USD/台 STI-154GP」，对方静默。之后两年 Saga 的 21 封群发全部寄到 ekhalas 电商平台的 info@，收回 10 封「Thank you for contacting us」机器人信，研究档里的「1 次实质回复」就是那次要样。",
+  "need": "4 口工业 PoE（当时）；其平台在售 Vivotek PoE / TP-Link Omada / 华为 eKit / Dahua。",
+  "breakpoint": "付样规则本身是筛子（C 层不改），但收件人错了两年——投入都花在机器人身上。",
+  "saga_now": {
+   "p1": "STI-154GP（1 SFP + 1 GE 上联 + 4 PoE，120W，非管理）——2024 报 36 USD，现价按 `价格主表` 20/25/30 规则重算后再报",
+   "tier": 25,
+   "price": "按 25% 集成档，格式 `$xx USD EXW（快照日期，15 天有效）`；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-24 $65（10G media converter）、2024-12-12 $300（48 Port PoE Managed Switch）；**第 63 批基准统一（规则 ㉕）**：STI-154GP 列表价 $51.7 → 老表 $47（非管理工业线）；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-02-27 $240（24 Port Fiber Switch）、2025-09-23 $280（10G Enterprise SFP Switch）；STI-154GP 文本价 $47（任何价表无此数）→ $39.2（25% 档，主表）+ 对他 2024 实报 $36 的汇率说明",
+   "why": "一次性修正收件人 + 一句话，成本≈0；中东非主攻，不追加。已打开的主题（1/26 封有打开记录）：「Industrial PoE Switch」(2024-10-22) → 读者兴趣偏「工业」；当前 P1 属「PoE 接入」，下一封按「工业」给，不按 P1｜已发资料（勿重发）：Saga Feature List_7.5.x_L2+(2026-07-02)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）",
+   "repeat": [],
+   "gaps": [
+    "36 USD 的 STI-154GP 当年属于哪条线（Marvell 非管理？）——核 `价格主表` 后再报",
+    "用户表「工业 FS 在用 OTS」出处（邮件无）"
+   ]
+  },
+  "next_move": {
+   "when": "2026-11（一次）",
+   "channel": "A 邮箱 → inam@alrajhitel.com（不再发 info@ekhalas.com）",
+   "action": "一句话问 2024 的样品需求是否仍在、口数是否变了（第 76 批(b) 2026-10-25：audit_ab 硬错误修正：STI-154GP $47 → $39.2）（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
+   "one_question": "Your 2024 sample request for the 4-port industrial PoE (STI-154GP, 36 USD then) — still relevant for a current site, or has the need moved to 8/16 ports?"
+  },
+  "facts": [
+   {
+    "date": "2024-06-05",
+    "dir": "来",
+    "who": "info@ekhalas.com",
+    "quote": "Thank you for contacting us!Dear｜Thank you for reaching out to us regarding your query. We appreciate you taking the time to contact our team, and we want to assure you that we are wo",
+    "why": "来信（邮箱索引；原文见 k；是否人工回复以原文为准）",
+    "k": "9a3a665f4d154a32"
+   },
+   {
+    "date": "2024-06-27",
+    "dir": "去",
+    "who": "S 箱（Simon）",
+    "quote": "Industrial PoE managed switch",
+    "why": "首封去信（邮箱索引；去信共 26 封）",
+    "k": "2025501e175a33bc"
+   },
+   {
+    "date": "2024-06-27",
+    "dir": "来",
+    "who": "info@ekhalas.com",
+    "quote": "Thank you for contacting us!Dear｜Thank you for reaching out to us regarding your query. We appreciate you taking the time to contact our team, and we want to assure you that we are wo",
+    "why": "来信（邮箱索引；原文见 k；是否人工回复以原文为准）",
+    "k": "a509263771a57f10"
+   },
+   {
+    "date": "2024-07-24",
+    "dir": "去",
+    "who": "S 箱（Simon）",
+    "quote": "10G media converter｜稿内价 $65",
+    "why": "去信正文含价（邮箱索引）",
+    "k": "8978e4f7fbab6a08"
+   },
+   {
+    "date": "2024-07-24",
+    "dir": "来",
+    "who": "info@ekhalas.com",
+    "quote": "Thank you for contacting us!Dear｜Thank you for reaching out to us regarding your query. We appreciate you taking the time to contact our team, and we want to assure you that we are wo",
+    "why": "来信（邮箱索引；原文见 k；是否人工回复以原文为准）",
+    "k": "a5b2a2a03d63d4a8"
+   },
+   {
+    "date": "2024-07-24",
+    "dir": "去",
+    "who": "S 箱（Simon）报价",
+    "quote": "10G media converter｜ $65（原句：Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unma）",
+    "why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
+    "k": "8978e4f7fbab6a08"
+   },
+   {
+    "date": "2024-08-19",
+    "dir": "来",
+    "who": "info@ekhalas.com",
+    "quote": "Thank you for contacting us!Dear｜Thank you for reaching out to us regarding your query. We appreciate you taking the time to contact our team, and we want to assure you that we are wo",
+    "why": "来信（邮箱索引；原文见 k；是否人工回复以原文为准）",
+    "k": "703cae2282ea3bc3"
+   },
+   {
+    "date": "2024-10-22",
+    "dir": "来",
+    "who": "Inam Ahmed（Data Center Division Manager）",
+    "quote": "Please send me a sample to test",
+    "why": "唯一人工来信",
+    "k": "2291cc97643c8854"
+   },
+   {
+    "date": "2024-10-22",
+    "dir": "去",
+    "who": "Simon",
+    "quote": "It is NOT free samples. 36usd/pc STI-154GP… Please let me know if you are ready to order.",
+    "why": "付样规则生效",
+    "k": "775f9ed585dd20d5"
+   },
+   {
+    "date": "2024-10-22",
+    "dir": "来",
+    "who": "info@ekhalas.com",
+    "quote": "Thank you for contacting us!Dear｜Thank you for reaching out to us regarding your query. We appreciate you taking the time to contact our team, and we want to assure you that we are wo",
+    "why": "来信（邮箱索引；原文见 k；是否人工回复以原文为准）",
+    "k": "4fa3c4d06fe1dbad"
+   },
+   {
+    "date": "2024-12-12",
+    "dir": "去",
+    "who": "S 箱（Simon）报价",
+    "quote": "48 Port PoE Managed Switch｜ $300（原句：*Price is very competitive, 300usd/pc*）",
+    "why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
+    "k": "29773944aefa6480"
+   },
+   {
+    "date": "2025-02-27",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "24 Port Fiber Switch｜稿内价 $240",
+    "why": "去信正文含价（邮箱索引）",
+    "k": "0c82437aea35daea"
+   },
+   {
+    "date": "2025-02-27",
+    "dir": "来",
+    "who": "info@ekhalas.com",
+    "quote": "Thank you for contacting us!Dear｜Thank you for reaching out to us regarding your query. We appreciate you taking the time to contact our team, and we want to assure you that we are wo",
+    "why": "来信（邮箱索引；原文见 k；是否人工回复以原文为准）",
+    "k": "924030a08d2f1ca6"
+   },
+   {
+    "date": "2025-03-31",
+    "dir": "来",
+    "who": "info@ekhalas.com",
+    "quote": "Thank you for contacting us!Dear｜Thank you for reaching out to us regarding your query. We appreciate you taking the time to contact our team, and we want to assure you that we are wo",
+    "why": "来信（邮箱索引；原文见 k；是否人工回复以原文为准）",
+    "k": "f6a72456865c11f8"
+   },
+   {
+    "date": "2025-04-28",
+    "dir": "来",
+    "who": "info@ekhalas.com",
+    "quote": "Thank you for contacting us!Dear｜Thank you for reaching out to us regarding your query. We appreciate you taking the time to contact our team, and we want to assure you that we are wo",
+    "why": "来信（邮箱索引；原文见 k；是否人工回复以原文为准）",
+    "k": "4e36da1a6de4b051"
+   },
+   {
+    "date": "2026-09-22",
+    "dir": "来",
+    "who": "info@ekhalas.com（机器人）",
+    "quote": "Thank you for reaching out to us regarding your query…",
+    "why": "第 10 封机器人回复——两年群发都寄错了收件人",
+    "k": "3b9a30d69e46d2e7"
+   },
+   {
+    "date": "2026-09-22",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "16 Port Industrial PoE Switch",
+    "why": "最近一封去信（邮箱索引；去信共 26 封）",
+    "k": "5a95d0e149d90de0"
+   }
+  ],
+  "proof_gaps": [
+   "用户表「有 1 次实质回复 / 工业 FS 在用 OTS」——OTS 一说邮件无证据"
+  ],
+  "draft_en": {
+   "subject": "4-port industrial PoE sample — still relevant?",
+   "body": "Hi, Inam,\n\nIn October 2024 you asked for a sample of the 4-port industrial PoE (STI-154GP) and we answered with the 36 USD price and the paid-sample rule. Nothing since, and our later mails went to a general mailbox, so this is the first one addressed to you.\n\nCurrent price: STI-154GP — $39.2 USD EXW (2026-10 price table, valid 15 days from this mail; up from the 36 USD you had because the RMB/USD rate moved from 7.2 to 6.7); samples are paid, credited against the first order.\n\nOne question: is a 4-port industrial PoE still relevant for a current site, or has the need moved to 8/16 ports?\n\nThank you.\nAlan\nSaga Telecom - sagatele.com"
+  },
+  "as_of": "2026-10-24"
+ }
 }

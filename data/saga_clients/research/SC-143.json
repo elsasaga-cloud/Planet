@@ -1,0 +1,73 @@
+{
+ "code": "SC-143",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（billion.com，快照 2026-10-21）",
+ "summary": "台湾 Billion Electric 盛达电业（上市：智慧能源基础设施与储能、PoE 注入器系列、路由器；表内「工业 FS 自己的 logo」）；群发 9 次无回复。",
+ "type": "台湾上市厂商（自有品牌）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Welcome to Billion Electric | The Future is Now；品类词 工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 无线 / WiFi / 网络交换 / PoE",
+   "quote": "Billion Electric provides smart energy infrastructure & storage systems. Contact us to learn about our innovative solutions.",
+   "url": "https://www.billion.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "工业FS 自己的logo",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Billion Electric 定位",
+   "quote": "Welcome to Billion Electric | The Future is Now ; Billion Electric provides smart energy infrastructure & storage systems.",
+   "url": "https://www.billion.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "工业 FS 自己的 logo",
+   "quote": "工业FS 自己的logo",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "台湾上市厂商（Billion Electric，自有品牌），非渠道客户；c_sub=厂商/台湾（非渠道）",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "台湾",
+  "other": "官网 billion.com，语言 en，快照状态 ok；角色判定来源：用户表"
+ },
+ "business_lines": [
+  "智慧能源 / PoE 注入器 / 路由器（自有品牌 Billion）"
+ ],
+ "channels": {
+  "role": "台湾上市厂商（自有品牌）",
+  "region": "台湾",
+  "contact": "sales@billion.com"
+ },
+ "signals": [
+  "官网：Billion Electric provides smart energy infrastructure & storage systems；页面 /power/poe-injector-series/30W、/35W；站内 SG6400NXL / MX-600",
+  "表内：工业 FS 自己的 logo；9 次无回复"
+ ],
+ "risks": [
+  "台湾上市厂商：自有品牌与既定供应链，非渠道客户（INH：台湾厂商不作客户）"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 30,
+  "why": "台湾上市厂商（自研网络与电源产品），非渠道客户 → 改 C"
+ },
+ "email_hook": "（不发送：台湾厂商/上市）"
+}

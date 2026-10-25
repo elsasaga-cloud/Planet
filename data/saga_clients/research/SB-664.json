@@ -1,126 +1,140 @@
 {
-  "code": "SB-664",
-  "name_official": "",
-  "researched_at": "2026-10-21",
-  "website_status": "快照失败（parked_or_empty）",
-  "summary": "南非 MARZETEK (Pty) Ltd（marzetek.com；表内需求「4+24、4+48 10G 光」；KP Lloyd Thembani Moyo（Sales Engineer），电话 27 61 836 5820 未尝试加；官网快照为主机托管占位页）；群发 7 次无回复。",
-  "type": "IT/网络方案商（南非，24/48 口 + 4×10G 需求）",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "4+24, 4+48 10G光；27 61 836 5820 没尝试加",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "4+24 4+48 10G 光",
-      "quote": "4+24, 4+48 10G光",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Lloyd Thembani Moyo",
-      "title": "Sales Engineer",
-      "email": "procurement@marzetek.com",
-      "phone": "",
-      "source": "用户表"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ "code": "SB-664",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（jm.pl，快照 2026-10-21）",
+ "summary": "波兰 JM elektronik（工业计算机、自动化、元件（电池/电容/变压器/LED 模块）与 LoRaWAN 设备分销，Linecard 制；新闻 ICP DAS NSM-208PSE-M12 交换机；Teltonika / D-Link；表内「InHand 的，试试跟进」）；群发 6 次无回复。",
+ "type": "工业电子与自动化分销商（波兰，ICP DAS / InHand 线）",
+ "size": "",
+ "brands_seen": [
+  "Teltonika",
+  "D-Link",
+  "ICP DAS",
+  "InHand"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Komputery przemysłowe, automatyka, komponenty, LoRaWAN；品类词 工业自动化 / OT 网络 / 无线 / WiFi / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "JM elektronik - dystrybucja komputerów przemysłowych, automatyki, ogniw, kondensatorów, transformatorów, modułów LED oraz urządzeń LoRaWAN",
+   "url": "https://jm.pl/pl/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "hq": "南非",
-    "other": "官网 marzetek.com，语言 en，快照状态 parked_or_empty；角色判定来源：待核"
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "inhand的 试试跟进",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "IT / 网络方案（南非）"
-  ],
-  "channels": {
-    "role": "IT/网络方案商（南非，24/48 口 + 4×10G 需求）",
-    "region": "南非",
-    "contact": "procurement@marzetek.com"
+  {
+   "kind": "官网快照",
+   "claim": "JM elektronik 工业电子分销",
+   "quote": "Komputery przemysłowe, automatyka, komponenty, LoRaWAN ; JM elektronik - dystrybucja komputerów przemysłowych, automatyki",
+   "url": "https://jm.pl/pl/",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "表内：4+24, 4+48 10G 光；KP Lloyd Thembani Moyo / Sales Engineer；27 61 836 5820 没尝试加",
-    "快照：VE Host - vehost.co.za（托管占位页）"
-  ],
-  "risks": [
-    "非主攻区（T5，南非）；官网快照为托管占位页（经营状态待核）；7 次无回复 → 改向 Sales Engineer 具名续谈；WhatsApp 未尝试"
-  ],
-  "saga_fit": {
-    "p1": "STC-424XGGM",
-    "tier": 25,
-    "why": "4×10G + 24 GE → STC-424XGGM（$132.7 @25%）；4×10G + 48 口 PoE STC-448XGGPM（$335）；24 口 PoE 10G 上联 STC-424XGGPM-280W（$180）"
-  },
-  "email_hook": "Lloyd, following your interest in 24/48-port switches with 4 × 10G uplinks: we offer Marvell-based 24-GE + 4×10G and 48-PoE + 4×10G L2+ models from single units, CE/RoHS, EXW USD, 10–15 days — is PoE needed on the access ports, and how many units per configuration?",
-  "mail_review": {
-    "binding": {
-      "level": "未触达（A 邮箱 17 封 2025→2026，无记录打开，0 回；收件 procurement@marzetek.com；主题多为「Industrial PoE Switch、48 Port PoE Managed Switch」）；Elsa 1:1 去信 1 封（2025-02-27「48 Port PoE Managed Switch」；To 仅本户 procurement@marzetek.com；Bcc 未逐封读头；同类名单抽读 24 封均无 Bcc；此后再未进 Elsa 任何名单——全箱 `from:e.sagatelecom to:procurement@marzetek.com` 仅此 1 条，complete）（第 74 批(m)）",
-      "type": "IT/网络方案商（南非，24/48 口 + 4×10G 需求）",
-      "sieve": "1（只收到群发）",
-      "stop": "17 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-      "revive": "保持季度群发到 2027-Q1；无打开即停",
-      "lane": "南非 非主攻",
-      "cadence": "季度",
-      "evidence": "gmail_digest：out 17；用户表：「4+24, 4+48 10G光；27 61 836 5820 没尝试加」；研究档 risks：非主攻区（T5，南非）；官网快照为托管占位页（经营状态待核）；7 次无回复 → 改向 Sales Engineer 具名续谈；WhatsApp 未尝试"
-    },
-    "situation": "南非 MARZETEK (Pty) Ltd（marzetek.com；表内需求「4+24、4+48 10G 光」；KP Lloyd Thembani Moyo（Sales Engineer），电话 27 61 836 5820 未尝试加；官网快照为主机托管占位页）；群发 7 次无回复。",
-    "need": "4×10G + 24 GE → STC-424XGGM（$132.7 @25%）；4×10G + 48 口 PoE STC-448XGGPM（$335）；24 口 PoE 10G 上联 STC-424XGGPM-280W（$180）",
-    "breakpoint": "非主攻区（T5，南非）；官网快照为托管占位页（经营状态待核）；7 次无回复 → 改向 Sales Engineer 具名续谈；WhatsApp 未尝试",
-    "saga_now": {
-      "p1": "STC-424XGGM",
-      "tier": 25,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-07 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-03-26 $300（48 Port PoE Managed Switch）、2025-09-01 $240（24 Port Fiber Switch）、2025-10-01 $280（10G Enterprise SFP Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-02-27 $300（48 Port PoE Managed Switch = STC-448XGGPM，Elsa 箱 1 轮 2025-02-27；现表 $335.4@20%、Drive 老表 $335——同款写 $335 要先说 2025 群发是 $300、汇率 7.2→6.7）（㉕ ②：STC-424XGGPM-280W / STC-448XGGPM 文本价改为群发现价 $180 / $335；第 75 批 2026-10-25）",
-      "why": "4×10G + 24 GE → STC-424XGGM（$132.7 @25%）；4×10G + 48 口 PoE STC-448XGGPM（$335）；24 口 PoE 10G 上联 STC-424XGGPM-280W（$180）",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "群发节奏",
-      "channel": "A 邮箱",
-      "action": "首封前知悉：Elsa 仅 2025-02-27 单发过 1 封「48 Port PoE Managed Switch」，之后没再碰他（第 74 批(m)）；观察打开",
-      "one_question": "Lloyd, following your interest in 24/48-port switches with 4 × 10G uplinks: we offer Marvell-based 24-GE + 4×10G and 48-PoE + 4×10G L2+ models from single units, CE/RoHS, EXW USD, 10–15 days — is PoE needed on the access ports, and how many units per configuration?"
-    },
-    "facts": [
-      {
-        "date": "2025-02-27",
-        "dir": "out",
-        "who": "Elsa → procurement@marzetek.com",
-        "quote": "48 Port PoE Managed Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次；正文价 300usd/pc，第 74 批(p) 读稿 msg 194eff1f9bf46879 / 1973a613b8166b58）",
-        "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
-        "k": "elsa_1to1",
-        "msg_id": "19547998bf6a8404"
-      },
-      {
-        "date": "2026-10-06",
-        "dir": "去",
-        "who": "A 群发",
-        "quote": "Industrial PoE Switch、48 Port PoE Managed Switch",
-        "why": "17 封 / 0 次打开 / 0 回｜首封 2025-03-26 → 末封 2026-10-06（17 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "4+24, 4+48 10G光；27 61 836 5820 没尝试加",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "InHand 的，试试跟进",
+   "quote": "inhand的 试试跟进",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "波兰",
+  "other": "官网 jm.pl，语言 pl，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "工业计算机 / 自动化 / 元件 / LoRaWAN 分销"
+ ],
+ "channels": {
+  "role": "工业电子与自动化分销商（波兰，ICP DAS / InHand 线）",
+  "region": "波兰",
+  "contact": "jm@jm.pl"
+ },
+ "signals": [
+  "官网：JM elektronik - dystrybucja komputerów przemysłowych, automatyki, ogniw, kondensatorów, transformatorów, modułów LED oraz urządzeń LoRaWAN",
+  "新闻 /pl/nsm-208pse-m12_-nowa-wersja-popularnego-ethernetowego-switcha-produkcji-icp-das_…；站内 NS-205 / NS-208PSE-IP67",
+  "表内：inhand 的 试试跟进"
+ ],
+ "risks": [
+  "现有 ICP DAS（台湾）/ InHand（北京）线价格基准中低",
+  "M12 / IP67 需求 Saga 不做；6 次无回复，无具名 KP（jm@）"
+ ],
+ "saga_fit": {
+  "p1": "STI-288GP",
+  "tier": 20,
+  "why": "在售 ICP DAS NS-208PSE / InHand 工业交换机 → 工业非管理 8 PoE + 2 SFP STI-288GP（$57.4 @20%）/ 管理型 STI-288GPM 同口型替换；M12/IP67 版不做"
+ },
+ "email_hook": "Alongside the ICP DAS and InHand industrial switches on your linecard, we supply DIN-rail 8-PoE + 2 SFP unmanaged/managed units (RJ45, −40~75 °C, neutral packing, CE/RoHS) from small lots — which model do your industrial-IT customers order most, so we quote its equivalent?",
+ "products_seen": [
+  {
+   "brand": "ICP DAS",
+   "model": "NS-208PSE-IP67",
+   "spec": "工业 8 口 PoE 非管理（IP67 版）",
+   "saga": "STI-288GP（RJ45 版，非 IP67）",
+   "url": "https://jm.pl/pl/",
+   "date": "2026-10-21"
+  }
+ ],
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 10 封 2025→2026，1 次记录打开，0 回；收件 jm@jm.pl；主题多为「Marvell Industrial Alert System、48 Port PoE Managed Switch」；Elsa 箱：`to:.pl` 穷举 24 条（2026-10-25，锚批 Bcc 头已读）未见 jm.pl → Elsa 箱从未发过本户，往来只在 S/A 箱（去 10 / 来 0）（第 74 批(f)））",
+   "type": "工业电子与自动化分销商（波兰，ICP DAS / InHand 线）",
+   "sieve": "1~2（1 次打开）",
+   "stop": "10 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "PL 次级重点",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 10，Opened 标签 1（Simon 群发追踪）；用户表：「inhand的 试试跟进」；研究档 risks：现有 ICP DAS（台湾）/ InHand（北京）线价格基准中低"
+  },
+  "situation": "波兰 JM elektronik（工业计算机、自动化、元件（电池/电容/变压器/LED 模块）与 LoRaWAN 设备分销，Linecard 制；新闻 ICP DAS NSM-208PSE-M12 交换机；Teltonika / D-Link；表内「InHand 的，试试跟进」）；群发 6 次无回复。",
+  "need": "在售 ICP DAS NS-208PSE / InHand 工业交换机 → 工业非管理 8 PoE + 2 SFP STI-288GP（$57.4 @20%）/ 管理型 STI-288GPM 同口型替换；M12/IP67 版不做",
+  "breakpoint": "现有 ICP DAS（台湾）/ InHand（北京）线价格基准中低",
+  "saga_now": {
+   "p1": "STI-288GP",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-05-20 $300（48 Port PoE Managed Switch）、2025-09-19 $240（24 Port Fiber Switch）、2025-10-10 $280（10G Enterprise SFP Switch）",
+   "why": "在售 ICP DAS NS-208PSE / InHand 工业交换机 → 工业非管理 8 PoE + 2 SFP STI-288GP（$57.4 @20%）/ 管理型 STI-288GPM 同口型替换；M12/IP67 版不做。已打开的主题（1/10 封有打开记录）：「Marvell Industrial Alert System」(2025-07-16) → 读者兴趣偏「工业」；与 P1 同类，继续",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Alongside the ICP DAS and InHand industrial switches on your linecard, we supply DIN-rail 8-PoE + 2 SFP unmanaged/managed units (RJ45, −40~75 °C, neutral packing, CE/RoHS) from small lots — which model do your industrial-IT customers order most, so we quote its equivalent?"
+  },
+  "facts": [
+   {
+    "date": "2026-03-12",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "Marvell Industrial Alert System、48 Port PoE Managed Switch",
+    "why": "10 封 / 1 次打开 / 0 回｜首封 2025-05-20 → 末封 2026-03-12（10 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "inhand的 试试跟进",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

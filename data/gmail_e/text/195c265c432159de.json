@@ -11,7 +11,7 @@
  "text": "I am\n\nOn Sun, 23 Mar 2025, 11:00 Elsa from Saga Telecom, <e.sagatelecom@gmail.com> wrote:",
  "char_count": "92",
  "attachments": "[{'filename': 'Customization after log-in.jpg', 'mime_type': 'image/jpeg', 'size': 138179}]",
- "note": "SC-2857（津巴布韦 gmail，C）回 Elsa 03-23「Marvell Alleycat5 Solution」群发两个字「I am」，抄 khmisti39@gmail.com（SC-2355 阿尔及利亚，C）；非 Replied → Elsa 未回；不动",
+ "note": "SC-3073（津巴布韦 gmail，C）回 Elsa 03-23「Marvell Alleycat5 Solution」群发两个字「I am」，抄 khmisti39@gmail.com（SC-2576 阿尔及利亚，C）；非 Replied → Elsa 未回；不动",
  "text_source": "text/plain",
  "fetched": "2026-10-24T16:17Z",
  "method": "Arena Gmail connector get_message_text(include_quoted=false)"

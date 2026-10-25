@@ -1,0 +1,74 @@
+{
+ "code": "SC-218",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（hms-networks.com，快照 2026-10-21）",
+ "summary": "瑞典 HMS Networks AB（工业 ICT 集团「Hardware Meets Software」：Anybus / Ewon / Ixxat / Intesis / Red Lion 等品牌，上市公司、全球分销；表内「一些工业 FS，工业物联网，看着专业，之前跟过」，备注与荷兰 Procentec 合作；KP Tom McKinney）；群发 9 次无回复。",
+ "type": "工业通信上市集团（多品牌厂商）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：HMS Networks - Hardware Meets Software™ | Industrial ICT；品类词 工业自动化 / OT 网络 / 无线 / WiFi / 数据中心 / 企业 IT / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "HMS creates products that enable industrial equipment to communicate and share information with software and systems. In short: Hardware Meets Software™.",
+   "url": "https://www.hms-networks.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "一些工业FS；工业FS；工业物联网 看着比较专业；https://procentec.com/ 在和这家荷兰公司合作",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "HMS：让工业设备与软件系统通信，Hardware Meets Software",
+   "quote": "HMS creates products that enable industrial equipment to communicate and share information with software and systems. In short: Hardware Meets Software™.",
+   "url": "https://www.hms-networks.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "工业 FS / 工业物联网，之前跟过",
+   "quote": "一些工业FS / 工业FS / 工业物联网 看着比较专业；质量不错 之前跟过；在和这家荷兰公司合作",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "体量过大/品牌厂商：HMS Networks 上市集团，自有多品牌（含 Red Lion 工业交换机）；c_sub=体量过大/品牌厂商/运营商",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "瑞典",
+  "other": "官网 hms-networks.com，语言 en，快照状态 ok；角色判定来源：用户表"
+ },
+ "business_lines": [
+  "工业通信网关 / 远程访问 / 工业网络（Anybus、Ewon、Ixxat、Red Lion）"
+ ],
+ "channels": {
+  "role": "工业通信上市集团（多品牌厂商）",
+  "region": "瑞典",
+  "contact": "tom.mckinney@hms-networks.com、info@hms.se"
+ },
+ "signals": [
+  "官网：HMS product brands；Three ways to buy products（全球渠道）",
+  "表内：与 Procentec（荷兰，HMS 旗下）合作"
+ ],
+ "risks": [
+  "体量过大：HMS 为纳斯达克斯德哥尔摩上市工业通信集团，自有 Red Lion 等交换机品牌",
+  "9 次无回复"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 25,
+  "why": "上市集团、自有多品牌（含 Red Lion 工业交换机）、全球分销体系 → 体量过大/品牌厂商 → 改 C"
+ },
+ "email_hook": "（不发送：上市集团/品牌厂商）"
+}

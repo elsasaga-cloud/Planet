@@ -1,0 +1,66 @@
+{
+ "code": "SC-031",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（abcmailbox.net，快照 2026-10-21）",
+ "summary": "美国 abcmailbox.net（个人邮箱域（whatsinthesoil@）；Shopify 订单「2 光 4 PoE + BIDI 模块」；KP Alvin Hoover；快照为登录页）；表内未跟进。",
+ "type": "个人零售买家（Shopify）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Login",
+   "quote": "",
+   "url": "https://mail.emypeople.net:59367/webmail/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "2光4PoE+BIDI模块 / from: Shopify",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "Shopify 订单 2 光 4 PoE",
+   "quote": "2光4PoE+BIDI模块 / from: Shopify",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "个人零售买家（Shopify 单次订单），非渠道；c_sub=品类不符/终端用户",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "美国",
+  "other": "官网 abcmailbox.net，语言 ?，快照状态 ok；角色判定来源：用户表"
+ },
+ "business_lines": [
+  "（个人买家）"
+ ],
+ "channels": {
+  "role": "个人零售买家（Shopify）",
+  "region": "美国",
+  "contact": "whatsinthesoil@abcmailbox.net"
+ },
+ "signals": [
+  "快照：Login",
+  "表内：2 光 4PoE + BIDI 模块 / from: Shopify；KP Alvin Hoover；whatsinthesoil@abcmailbox.net"
+ ],
+ "risks": [
+  "个人零售买家（非渠道）；邮箱为邮箱服务域；快照为登录页"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 20,
+  "why": "个人零售买家（邮箱域为邮箱服务，快照为登录页），非渠道 → 改 C"
+ },
+ "email_hook": "（不发送：个人买家）"
+}

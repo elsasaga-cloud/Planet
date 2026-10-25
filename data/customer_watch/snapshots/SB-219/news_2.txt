@@ -1,0 +1,70 @@
+# SB-219 sieraelectronics.com · news_2 · https://sieraelectronics.com/important-notice-service-update/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+Important Notice · Service update | Siera Electronics Cloud
+Languages
+Log In
+Contact
+About Us
+Solutions
+Products
+News
+Warranty
+RMA Apply for a new RMA Ticket
+Ticket Status
+Cloud
+Languages
+Log In
+Contact
+About Us
+Solutions
+Products
+News
+Warranty
+RMA Apply for a new RMA Ticket
+Ticket Status
+28 Oct, 2025
+English | Information
+Important Notice · Service update
+Dear customers,
+We would like to inform you that starting from Monday, December 8, 2025 , the database service associated with the “Cloud 1” server of the iSMS 5.0 App will be discontinued.
+This update applies only to IPL IP cameras and DVRs manufactured until the year 2020, inclusive.
+What’s changing?
+• Cloud Web Browser access to devices via the web browser will no longer be available.
+• Direct access via IP/DDNS to DVRs or IP cameras will continue to function normally.
+• In the iSMS 5.0 mobile app, you will need to change the access type from “user account” to “local account”.
+Important
+👉 This change will not affect the operation of your devices.
+Video and audio streaming will continue to work normally from the app, simply using local account access.
+To facilitate the transition, we are providing step-by-step guides and videos for the update:
+Android Guide
+Android Video
+iPhone Guide
+iPhone Video
+We appreciate your understanding and cooperation during this continuous improvement process.
+Our support team is available to assist you at any time.
+Sieco Cameras Compatible with Alexa and Google Home
+Jul 15, 2025
+Starting with firmware 5.6.6.200606, all Sieco Wi-Fi cameras can be linked to voice assistants. Compatible Features“Alexa, show me the entrance” → Live view on Echo Show.“Hey Google, activate the garage alarm” → Activates motion notification.IFTTT...
+New Security Feature on UHF SAC 3690 Readers
+Jun 20, 2025
+Starting from firmware version 3.76, the SAC 3690-6M, SAC 3690, and SAC 3692IP models include a powerful new security feature: the ability to set passwords on UHF TAGs (e.g., model SAC 4103) and on the readers themselves. With this update, TAGs and...
+IP Audio Speakers with ONVIF Support
+May 2, 2025
+Starting this year, our IP speakers running Firmware v1.5.9 now support the ONVIF v20.12 protocol, simplifying integration with third-party systems for receiving broadcasts and calls over local networks (LAN). Key Features Enabled via ONVIF: •...
+Home
+About Us
+Solutions
+Products
+News
+General Conditions of Sales
+Warranty
+RMA
+Cloud
+Login
+Contact
+Search for:
+2025 All rights reserved Siera Electronics
+Privacy Policy
+Cookies
+Terms & Conditions
+Designed by Elegant Themes | Powered by WordPress
+imunify-bot-check

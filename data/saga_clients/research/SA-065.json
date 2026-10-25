@@ -1,136 +1,190 @@
 {
  "code": "SA-065",
- "name_official": "Loop Telecommunication International, Inc.（Loop Telecom，台湾上市 3025；EMEA 销售 VP 驻法国）",
+ "name_official": "SMBIT Ltd（Mazkeret Batya，以色列，2012 年）",
  "website_status": "在线",
- "summary": "台湾电信/工业网络设备制造商（1991 年创立，台交所 3025），自研 TDMoIP、PTN/MPLS-TP、以太网接入、工业与铁路 EN50121-4 交换机（IP6820/IP6828/IP6830 等）。用户表登记为法国（Eric Piaget, V.P. Sales EMEA & India），A 已回复 + A 台湾名单，兴趣工业 FS / MC / 工业物联网。",
- "type": "台系品牌制造商（可能的低端 OEM 采购方）",
- "size": "上市公司（台湾）",
+ "summary": "以色列 ICT 集成商（2012 年起，约 14 人，ISO 认证）：路由交换、企业 WiFi（Ubiquiti 经销商，装机 1 万+ AP）、毫米波无线、LoRa IoT、GPON、智慧城市平台 EKRON；中标耶路撒冷全市毫米波网络；自建站询盘：IM-FS480GW 4 台、2025 年约 150 台，WA 已加，邮件 0 回复 / 5 次。",
+ "type": "ICT 系统集成商（含市政智慧城市项目）",
+ "size": "小型（≈14 人）",
  "brands_seen": [
-  "Loop"
+  "Ubiquiti",
+  "EKRON（自有软件）"
  ],
  "evidence": [
   {
    "kind": "官网",
-   "claim": "公司性质",
-   "quote": "In 1991, a group of established professionals from the communications industry founded Loop Telecom. It is currently traded on the Taiwan Stock Exchange Corp., or TSEC (3025).",
-   "url": "https://www.looptelecom.com/en/about/Company-Overview",
+   "claim": "2012 年起的 ICT 服务商：路由交换、WiFi、毫米波、IoT、GPON、智慧城市",
+   "quote": "SMBIT has been operating in the field of ICT since 2012… Routing, switching and consolidation of lines… Wireless links in millimeter waves… Fiber optic GPON",
+   "url": "https://www.smbit.co.il/?lang=en",
    "date": "2026-10-21"
   },
   {
    "kind": "官网",
-   "claim": "自研工业/铁路交换机线（与 Saga 产品重叠）",
-   "quote": "Loop-IP6828 Industrial Rack-Mount L2/L3 Managed Gigabit Ethernet PoE/PoE+ Switch … Rugged industrial design for -40~75°C harsh environment operation",
-   "url": "https://www.looptelecom.com/en/pswitch/Ethernet-Access-and-Switch/Railway-EN50121-4-Switch-L2-L3/Loop_IP6828__Industrial_Rack_Mount__L2_L3_Managed_Gigabit_Ethernet_PoE_PoE__Switch",
+   "claim": "中标耶路撒冷全市毫米波网络（连接市政/学校/路口摄像）",
+   "quote": "SMBIT has won a tender to set up a millimeter-wave communications network covering all of Jerusalem… connecting municipal offices, educational institutions, and security cameras",
+   "url": "https://www.smbit.co.il/post/holy-city-to-become-smart-city",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "RocketReach",
+   "claim": "约 14 人，2012 年创立，ICT 集成",
+   "quote": "SMBIT LTD is an ICT integration company… Employees · 14… Founded · 2012",
+   "url": "https://rocketreach.co/smbitltd-profile_b42615b5ff38c478",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "Ubiquiti",
+   "claim": "Ubiquiti 以色列经销商，电话 +972 77 6001070",
+   "quote": "SMBIT Ltd 13 Haim Meler St Mazkeret Batya… +972 77 6001070",
+   "url": "https://www.ui.com/distributors/?country_state=IL&region=mid-e",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "业务范围与联系方式",
+   "quote": "SMBIT has been operating in the field of ICT since 2012 … Routing, switching and consolidation of lines - High-performance WIFI for a business environment - Wireless links in millimeter waves - Deployment of IoT networks … Fiber optic GPON … PO Box 1399 Mazkeret Batya 7680400 Tel.: +972.77.6001070 Email: info@smbit.co.il",
+   "url": "https://www.smbit.co.il/?lang=en",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "原厂名录",
+   "claim": "Ubiquiti 官方以色列经销名录列出 SMBIT",
+   "quote": "SMBIT Ltd 13 Haim Meler St Mazkeret Batya 7680400 Israel",
+   "url": "https://www.ui.com/distributors/?country_state=IL&region=mid-e",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "Ubiquiti 授权经销，含 PoE 交换机",
+   "quote": "SMBIT is an authorized reseller of UBIQUITI products … The company's products include: POE switches, access points, wireless links and a control and management system",
+   "url": "https://www.smbit.co.il/ubiquiti-wifi?lang=en",
    "date": "2026-10-21"
   }
  ],
  "kp": [
   {
-   "name": "Eric Piaget",
-   "role": "V.P. Sales EMEA & India（用户表）",
-   "email": "eric-piaget@looptelecom.com",
-   "phone": "+33 6 6767 1045",
-   "source": "Clients/A/Taiwan.xlsx"
+   "name": "（自建站询盘联系人，见 Clients 表）",
+   "role": "",
+   "email": "",
+   "phone": "+972 54 493 7099（WA）",
+   "source": "用户 Clients 表（自建站询盘）"
   }
  ],
- "grade_override": "B",
- "override_reason": "台系品牌制造商（INH 规则：台系品牌商最高 B；其铁路/EN50121 主线 Saga 不做）；仅在其明确要低端白牌补位时按 OEM 30% 报价。",
- "notes": "",
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "入站询盘 + 年量预估（≈150 台工业 PoE）= 可追溯真实需求；集成商尺寸可赢。市政/学校项目属公共部门边缘，但 Saga 卖给集成商为商业交易，可做；不参与投标主体。P1：STI-288DGGPM（IM-FS480GW 对位：8 电 + 光口工业 PoE，核对现行型号），项目价阶 25%。邮件不回 → WA。",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（基于首轮调研整理 + 身份判断）"
+  "level": "深挖 v2（官网 + Ubiquiti 经销名录核对）"
  },
  "company_facts": {
-  "legal_name": "Loop Telecommunication International, Inc.（Loop Telecom；台湾上市 3025）",
-  "hq": "台湾新竹；EMEA & India 销售 VP Eric Piaget 驻法国",
-  "size": "上市公司",
-  "other": "自研 TDMoIP、PTN/MPLS-TP、以太网接入、工业与铁路 EN50121-4 交换机（IP6820/IP6828/IP6830）"
+  "legal_name": "SMBIT Ltd（SMBIT.LTD）",
+  "founded": "2012",
+  "hq": "13 Haim Meler St / PO Box 1399, Mazkeret Batya 7680400, Israel（+972 77 600 1070；info@smbit.co.il）",
+  "staff": "14–16",
+  "other": "ICT 集成商：路由交换、企业 Wi-Fi（**Ubiquiti 官方授权经销，列于 ui.com 以色列经销名录**；Ubiquiti 以色列总代为 Lan-Tech）、毫米波无线链路、LoRaWAN IoT、GPON 光纤、安防摄像机、PBX；自有智慧城市平台 EKRON（ekron.city，带网管/网安）；客户：企业、地方政府、教育系统"
  },
  "business_lines": [
-  "电信接入与传输设备制造（自有品牌 Loop）",
-  "工业/铁路以太网交换机（自研，与 Saga 重叠）"
+  "企业 WiFi / 路由交换",
+  "毫米波无线 / GPON",
+  "智慧城市平台 EKRON",
+  "Ubiquiti Wi-Fi / 交换 / 控制器 经销与实施",
+  "毫米波点对点链路、GPON",
+  "LoRaWAN IoT + EKRON 智慧城市/校园平台",
+  "安防摄像机、PBX"
+ ],
+ "products_seen": [
+  {
+   "brand": "（询价）",
+   "model": "IM-FS480GW（用户表型号）",
+   "spec": "工业 48 口？需核对用户表型号含义",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "用户表",
+   "saga": "STC-448XGGM(L3) / STC-424XGGPM-280W（待核）"
+  }
  ],
  "channels": {
-  "网站": "https://www.looptelecom.com/",
-  "联系人": "Eric Piaget, V.P. Sales EMEA & India（用户表）"
+  "网站": "https://www.smbit.co.il/?lang=en",
+  "直邮": "yoav@smbit.co.il（用户表）",
+  "电话": "+972 77 600 1070（官网公开）",
+  "邮箱（公开）": "info@smbit.co.il",
+  "Facebook": "https://www.facebook.com/smbiteam"
  },
  "signals": [
-  "兴趣点为工业 FS / MC / 工业物联网 → 可能为低端补线 OEM 采购（Loop 自研线偏高端）"
+  "智慧城市/市政项目——守界：仅供商业部分；Ubiquiti 生态偏好",
+  "Ubiquiti 授权经销 + 自有 EKRON 网管——需要可被第三方 SNMP 管理的白牌 PoE 交换机作 Ubiquiti 之外的价格位（2026-10-21）"
  ],
  "risks": [
-  "台系品牌制造商（规则：台湾厂商/办事处原则上非客户）；同行采购风险（比价/套方案）；仅在明确 OEM 补线意向时推进"
+  "以色列市政项目守界；Ubiquiti 价格锚",
+  "以色列：物流/支付路径需先确认（EXW 不受影响，货代由客户指定）"
  ],
  "saga_fit": {
-  "p1": "STI-110GE",
-  "tier": 30,
-  "why": "OEM 30% 档（仅限补线）：STI-110GE 工业光电转换（$24.3）与 STI-140GE 非管理（$29.1）作 Loop 低端补充；管理型不供（与其自研线竞争）"
+  "p1": "STC-424XGGPM-280W",
+  "tier": 25,
+  "why": "IM-FS480GW 询价对位 48 口/10G 上联机型（STC-448XGGM(L3) 或 STC-424XGGPM-280W），需核；集成商 25% 档"
  },
- "email_hook": "If Loop needs an entry-level industrial media converter and 5-port unmanaged switch to sit below the IP68xx range in EMEA, our DIN units start at $24.3 EXW with your label; is a low-end complement on the 2026 roadmap?",
+ "email_hook": "On the IM-FS480GW enquiry, the closest Marvell-based platforms are the 24-port PoE+ with four 10G SFP+ uplinks and the 48-port L3 unit, so I am sending both datasheets with EXW pricing for you to confirm the port mix.",
  "mail_review": {
   "binding": {
-   "level": "未绑定（EMEA 销售 VP 2025-11 问 Booster 原理并要手册，12-04「No need now, just for information」；Elsa 箱：`to:looptelecom.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 26 / 来 2）（第 74 批(k)））",
-   "type": "台湾上市电信设备商（MPLS-TP/工业以太网自研）——Saga 只可能是其低端 OEM 来源；Eric Piaget（VP EMEA & India）",
-   "sieve": "1",
-   "stop": "2025-12-04「No need now, just for information」",
-   "revive": "对方主动",
-   "lane": "FR/TW",
-   "cadence": "2024-06 → 2026-09 去信 26 封；最后来信 2025-12-04",
-   "evidence": "k=d90350574a564aa4 / fbde4352065d43fb"
+   "level": "未绑定（邮件 16 封 0 回，Opened 1 次 2026-02-02；用户表「入站询盘 + 年量 ≈150 台工业 PoE」；Elsa 箱：`to:smbit.co.il` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 16 / 来 0）（第 74 批(g)））",
+   "type": "以色列 ICT 集成（SMBIT，Yoav）",
+   "sieve": "0（邮件层无人工回复）",
+   "stop": "—",
+   "revive": "对 150 台/年问一次",
+   "lane": "IL",
+   "cadence": "一次",
+   "evidence": "邮件：去信 16 封（2025-06-04 → 2026-10-07），来信 0；Opened 标签 1 次（2026-02-02）；收件人 yoav@smbit.co.il"
   },
-  "situation": "Eric Piaget 对 Booster PoE 群发问「你是说 12V 供电也能输出 PoE？发 brochure」，Alan 发 STI-488XGGBPM 资料并追问样品，Eric 答「No need now, just for information」。",
-  "need": "信息收集；无采购。",
-  "breakpoint": "同业信息收集，不是采购。",
+  "situation": "邮件被打开 1 次（2026-02）；150 台/年的询盘在邮件无痕。",
+  "need": "工业 PoE 150 台/年（市政/学校）。",
+  "breakpoint": "—",
   "saga_now": {
-   "p1": "无",
-   "tier": 30,
-   "price": "历史报价（邮件原话，老汇率）：2025-12-01 STI-488XGGBPM 215usd；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-25 $300（48 Port PoE Managed Switch）、2024-12-18 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-22 $280（10G Enterprise SFP Switch）",
-   "why": "不投入。已打开的主题（9/26 封有打开记录）：「Re: Booster PoE Switch」(2025-12-01)、「Re: Booster PoE Switch」(2025-12-04)、「Re: Booster PoE Switch」(2026-01-12)、「Re: Booster PoE Switch」(2026-02-05) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续",
+   "p1": "STI-288DGGPM",
+   "tier": 25,
+   "price": "—；群发里他已看到的价（续）：2026-08-13 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-07-03 $300（48 Port PoE Managed Switch）、2025-10-27 $280（10G Enterprise SFP Switch）",
+   "why": "已打开的主题（1/16 封有打开记录）：「OEM Core Switching Solution」(2026-02-02) → 读者兴趣偏「DC 核心/CENTEC」；与 P1 同类，继续 最近一封去信是 2026-10-07 A 邮箱模板（在本档最后一条事实之后）——下一封必须回到真人线程、不再叠模板｜已发资料（勿重发）：Product Link_2026Q2(2026-04-02)、Product Link_2026Q3(2026-07-13)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—",
-   "one_question": ""
+   "when": "2026-11",
+   "channel": "A 邮箱 → yoav@smbit.co.il",
+   "action": "一句话（第 76 批(c) 2026-10-25：audit_ab 软项修正：署名「Alan Yan」→「Alan」（A 箱实际署名））（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
+   "one_question": "Is the ~150-unit/year industrial PoE requirement still live, and which spec did it settle on?"
   },
   "facts": [
    {
-    "date": "2025-11-28",
-    "dir": "来",
-    "who": "Eric Piaget（VP Marketing Sales EMEA & India）",
-    "quote": "Do you mean that you can power feed the switch at 12V and this support PoE? Pleas send me your brochure.",
-    "why": "技术好奇",
-    "k": "d90350574a564aa4"
-   },
-   {
-    "date": "2025-12-01",
+    "date": "2025-06-04",
     "dir": "去",
-    "who": "Saga（Alan）",
-    "quote": "Hi, Eric, 1, yes, we can supply a demo unit for your study and testing. 2, please see attached datasheet(2026/Q1 version). STI-488XGGBPM 215usd/pc Industrial PoE Managed Switch 4*1G/2.5G/10G SFP+8*10/100/1000M RJ45/PoE +1*Console Port+1*USB Port 8*PoE af/at, 2",
-    "why": "历史报价点（主题「Re: Booster PoE Switch」；第 20 批从 gmail_a 回补）：STI-488XGGBPM 215usd",
-    "k": "90c5981a276812c1"
+    "who": "A 箱（Alan）",
+    "quote": "Industrial PoE Switch",
+    "why": "首封去信（邮箱索引；去信共 16 封）",
+    "k": "6c169e28e08ceac7"
    },
    {
-    "date": "2025-12-04",
-    "dir": "来",
-    "who": "Eric",
-    "quote": "No need now, just for information.",
-    "why": "停点",
-    "k": "fbde4352065d43fb"
-   },
-   {
-    "date": "2026-01-12",
+    "date": "2026-02-02",
     "dir": "去",
-    "who": "Saga（Alan）",
-    "quote": "Hi, Eric, How are you? I am introducing our CENTEC-based core and aggregation switches. 1, A cost-effective alternative to Cisco or Huawei models 2, Multiple models(10G~800G) available for various network scales 3, Full L3 features(VXLAN, EVPN, MPLS, Stacking etc.) suitable for core and aggregation…",
-    "why": "Saga 实质答复原文（主题「Re: Booster PoE Switch」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
-    "k": "0378ea2dc053e4ce"
+    "who": "Saga（群发）",
+    "quote": "「OEM Core Switching Solution」被打开（Mailtrack Opened 标签）",
+    "why": "唯一的互动痕迹",
+    "k": "b55e88e2576e6c73"
+   },
+   {
+    "date": "2026-10-07",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "Managed PoE Switches",
+    "why": "最近一封去信（邮箱索引；去信共 16 封）",
+    "k": "4ea04edc08c2cc81"
    }
   ],
-  "proof_gaps": [],
-  "draft_en": null,
+  "proof_gaps": [
+   "「150 台/年」出处未见"
+  ],
+  "draft_en": {
+   "subject": "Industrial PoE for municipal / school sites",
+   "body": "Yoav,\n\nYou once mentioned roughly 150 industrial PoE units a year for municipal and school sites. One question only: is that requirement still live, and which spec did it settle on (8-port or 16-port, 1G or 2.5G uplinks)?\n\nFor reference our 8× GbE PoE + 2× SFP industrial managed unit (STI-288DGGPM, Marvell AC5, -40~75°C) is USD 137.5 EXW (snapshot 2026-10-17, valid 15 days). A paid evaluation unit ships in 4–7 working days.\n\nAlan\nSaga Telecom - sagatele.com"
+  },
   "as_of": "2026-10-24"
  }
 }

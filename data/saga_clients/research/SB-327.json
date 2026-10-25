@@ -1,38 +1,56 @@
 {
  "code": "SB-327",
- "name_official": "Welotec GmbH（德国拉尔）",
+ "name_official": "Techno Tower Sarl（Jdeideh/Bauchrieh, Metn，黎巴嫩；technotower-lb.com）",
  "researched_at": "2026-10-21",
- "website_status": "在线（welotec.com，快照 2026-10-21）",
- "summary": "德国变电站计算与网络方案商（IEC 61850-3 认证服务器 / 交换机 / 路由，保护、自动化、SCADA、vPAC；Westermo；industrial 183 / automation 49 / switch 57），Managing Director / CTO Jos Zenner（表内「可着重跟」）；表内「工业 FS PoE 好几个牌子，也有自己的牌子，有小壳」；群发 15 次无回复。电力变电站 = 关键基础设施（民用公用事业，守界按单核）。",
+ "website_status": "在线但为 2011 年老站（用户备注「打不开」；Kompass/FB 仍在）",
+ "summary": "黎巴嫩自动化与安防承包商 Techno Tower Sarl（1989 年贝鲁特创立；自动门/道闸/门禁、可视对讲、CCTV、火警与灭火系统、防雷；海关记录为电信设备批发进口商）。业主 Amine / Fadi / Grace Abou-Jaoudeh；表内联系人 Amine Abou Jaoude / GM（amine@technotower-lb.com，+961 3 839 839，WA 已加）2024-04 回「pls me the price for 8 16 & 24」= 要 8/16/24 口 PoE 报价；19 次推送 1 次实质回复。安防安装商、需求明确 → B 25%（黎巴嫩局势与付款风险注明）。",
  "type": "",
  "size": "",
- "brands_seen": [
-  "Westermo",
-  "Welotec（自有）"
- ],
+ "brands_seen": [],
  "evidence": [
   {
-   "kind": "官网快照",
-   "claim": "数字变电站坚固计算与网络：IEC 61850-3 认证服务器、交换机、路由；保护 / 自动化 / SCADA / vPAC",
-   "quote": "Rugged computing and networking for digital substations. IEC 61850-3 certified servers, switches and routers for protection, automation, SCADA and vPAC deployments… brands Westermo",
-   "url": "https://welotec.com/",
+   "kind": "官网",
+   "claim": "定位与历史",
+   "quote": "Techno Tower is a Lebanese company founded in Beirut in 1989… active in different types of Automation and Security Systems… Sliding & Swinging gates… Barriers - access control. - Videophone & Interphone systems",
+   "url": "http://www.technotower-lb.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "联系方式",
+   "quote": "Gf., Abou Karam 1 ctr., Near Mar Youhana church, Jdeideh Phone : +961 1 875725 Mobile : +961 3 870252 +961 3 839839 … Email : info@technotower-lb.com",
+   "url": "http://www.technotower-lb.com/contact_us.html",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "第三方",
+   "claim": "业主与业务分类",
+   "quote": "Main owners: Mr. Amine J Abou-Jaoudeh (Owner) · Mr. Fadi J Abou-Jaoudeh (Owner) · Ms. Grace Y Abou-Jaoudeh (Owner)… Television systems, closed circuit (CCTV)… Automatic fire alarm and extinguisher system installation contractors",
+   "url": "https://lb.kompass.com/c/techno-tower-sarl/lb015188/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "第三方",
+   "claim": "海关进口记录",
+   "quote": "Importer: Techno Tower Sarl; Product description: Telecommunication equipment (wholesale); City: Bauchrieh (Metn); Contact: Amine Abou-Jaoudeh",
+   "url": "https://www.tradesns.com/en/data/buyer/Lebanon/4448673/Techno%20Tower%20Sarl",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "工业 FS POE 有好几个牌子，也有自己的牌子，有小壳；可以着重跟一下",
-   "quote": "兴趣：工业FS POE 有好几个牌子 也有他们自己的牌子 有小壳",
+   "claim": "需求与回复",
+   "quote": "HDMI NB 网站：打不开；2024.4.17 发了商业POE 128信息 → pls me the price for 8 16 & 24",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
  "kp": [
   {
-   "name": "Jos Zenner",
-   "title": "Managing Director / CTO",
-   "email": "j.zenner@welotec.com",
-   "phone": "",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
+   "name": "Amine Abou Jaoude (Abou-Jaoudeh)",
+   "role": "GM / 业主",
+   "email": "amine@technotower-lb.com",
+   "phone": "+961 3 839 839（WA 已加）",
+   "source": "用户 Clients 表 + Kompass"
   }
  ],
  "grade_override": null,
@@ -40,95 +58,83 @@
  "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照核对 + 表内）"
+  "level": "B 级加厚 v1（官网 + Kompass/海关记录核对）"
  },
  "company_facts": {
-  "legal_name": "Welotec GmbH",
-  "founded": "1998（待核）",
-  "hq": "Laer, Germany",
-  "size": "中型方案商（自有品牌）",
-  "other": "IEC 61850-3 变电站线"
+  "legal_name": "Techno Tower Sarl",
+  "founded": "1989",
+  "hq": "Ground floor, Block A, Abou-Karam building, Mar Youhanna street, Mar Takla area, Bauchrieh (Metn), P.O.Box 90-1776；+961 1 875725；info@technotower-lb.com",
+  "size": "待核（家族企业，小型）",
+  "other": "Kompass 业主：Amine J / Fadi J / Grace Y Abou-Jaoudeh；tradesns 海关记录「Telecommunication equipment (wholesale)」联系人 Amine Abou-Jaoudeh"
  },
  "business_lines": [
-  "变电站计算 / 网络方案（自有品牌 + Westermo）"
+  "自动门、道闸、门禁与停车系统",
+  "可视对讲、CCTV 视频监控",
+  "火警与自动灭火系统、防雷",
+  "电信/安防设备批发进口"
  ],
+ "products_seen": [],
  "channels": {
-  "role": "方案商 + 自有品牌（OEM 采购）",
-  "region": "德国"
+  "official": "info@technotower-lb.com / +961 1 875725",
+  "contact": "Amine Abou Jaoude（GM/业主）amine@technotower-lb.com，+961 3 839 839（WA 已加）",
+  "facebook": "facebook.com/Techbotower（+961 76 898 916）"
  },
  "signals": [
-  "自有品牌小壳工业 FS → 贴 Welotec 标（非 IEC 61850 场景）",
-  "CTO 具名"
+  "2024-04-17 明确索要 8/16/24 口 PoE 价格"
  ],
  "risks": [
-  "IEC 61850-3 / 电力守界：仅供非关键节点",
-  "15 次群发无回复"
+  "黎巴嫩经济/局势与外汇付款风险（建议 100% 前 T/T）",
+  "官网为 2011 年老站，公司活跃度以 FB/WA 为准"
  ],
  "saga_fit": {
-  "p1": "STI-288GPM",
-  "tier": 30,
-  "why": "自有品牌工业管理 PoE（非 61850 场景）→ STI-288GPM（$85.5 @30%）贴 Welotec 标；mini STI-050GE。"
+  "p1": "STC-28DGGPM",
+  "tier": 25,
+  "why": "其索价 8/16/24 口 PoE → 以 8 PoE + 2 SFP L2+ 起手，同页附 STC-2216GPM（16）与 STC-424DGGPM-280W（24）"
  },
- "email_hook": "Jos, for the Welotec-branded compact industrial switches outside the IEC 61850-3 line — Marvell DIN managed 8-PoE + 2-SFP and 5-port minis under your label from small lots (CE/RoHS, −40~75 ℃); which housing size do you want to standardise?",
+ "email_hook": "You asked for prices on 8-, 16- and 24-port PoE switches for your CCTV/access-control installs — I can send all three on one USD EXW sheet today; roughly how many sites a month do you equip?",
  "mail_review": {
   "binding": {
-   "level": "未触达（A/S 邮箱 23 封 2024→2026，1 次记录打开，0 回；收件 info@welotec.com, j.zenner@welotec.com；主题多为「10G Enterprise SFP Switch、Managed Optical Bypass Switch」；Elsa 箱：`to:welotec.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 23 / 来 0）（第 74 批(j)））",
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「HDMI NB 网站：打不开；2024.4.17 发了商业POE 128信息 → pls me the price fo」；Elsa 箱：`to:technotower-lb.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(n)））",
    "type": "—",
-   "sieve": "1~2（1 次打开）",
-   "stop": "23 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
-   "lane": "DE 主攻（四主）",
-   "cadence": "一封",
-   "evidence": "gmail_digest：out 23，Opened 标签 1（Simon 群发追踪）；用户表：「兴趣：工业FS POE 有好几个牌子 也有他们自己的牌子 有小壳」；研究档 risks：IEC 61850-3 / 电力守界：仅供非关键节点"
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "不动（非主攻区；J5：有证据再动）",
+   "lane": "黎巴嫩 非主攻",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 0；用户表：「HDMI NB 网站：打不开；2024.4.17 发了商业POE 128信息 → pls me the price for 8 16 & 24」；研究档 risks：黎巴嫩经济/局势与外汇付款风险（建议 100% 前 T/T）"
   },
-  "situation": "德国变电站计算与网络方案商（IEC 61850-3 认证服务器 / 交换机 / 路由，保护、自动化、SCADA、vPAC；Westermo；industrial 183 / automation 49 / switch 57），Managing Director / CTO Jos Zenner（表内「可着重跟」）；表内「工业 FS PoE 好几个牌子，也有自己的牌子，有小壳」；群发 15 次无回复。电力变电站 = 关键基础设施（民用公用事业，守界按单核）。",
-  "need": "自有品牌工业管理 PoE（非 61850 场景）→ STI-288GPM（$85.5 @30%）贴 Welotec 标；mini STI-050GE。",
-  "breakpoint": "IEC 61850-3 / 电力守界：仅供非关键节点",
+  "situation": "黎巴嫩自动化与安防承包商 Techno Tower Sarl（1989 年贝鲁特创立；自动门/道闸/门禁、可视对讲、CCTV、火警与灭火系统、防雷；海关记录为电信设备批发进口商）。业主 Amine / Fadi / Grace Abou-Jaoudeh；表内联系人 Amine Abou Jaoude / GM（amine@technotower-lb.com，+961 3 839 839，WA 已加）2024-04 回「pls me the price for 8 16 & 24」= 要 8/16/24 口 PoE 报价；19 次推送 1 次实质回复。安防安装商、需求明确 → B 25%（黎巴嫩局势与付款风险注明）。",
+  "need": "其索价 8/16/24 口 PoE → 以 8 PoE + 2 SFP L2+ 起手，同页附 STC-2216GPM（16）与 STC-424DGGPM-280W（24）",
+  "breakpoint": "黎巴嫩经济/局势与外汇付款风险（建议 100% 前 T/T）",
   "saga_now": {
-   "p1": "STI-288GPM",
-   "tier": 30,
-   "price": "换人再触锚价 STI-288GPM $85.5 EXW（主表档位（PDF 上限 $88；SA-026 2025-07 实报 $72 为分销量价）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-18 $65（10G media converter）、2024-11-21 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-12 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-17 $280（10G Enterprise SFP Switch）",
-   "why": "自有品牌工业管理 PoE（非 61850 场景）→ STI-288GPM（$85.5 @30%）贴 Welotec 标；mini STI-050GE。已打开的主题（1/23 封有打开记录）：「16 Port Ethernet Switch」(2025-07-09) → 读者兴趣主题类别不明（看原主题）",
+   "p1": "STC-28DGGPM",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "其索价 8/16/24 口 PoE → 以 8 PoE + 2 SFP L2+ 起手，同页附 STC-2216GPM（16）与 STC-424DGGPM-280W（24）",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "2027-Q1（换人后）",
-   "channel": "A 邮箱 → 具名 KP",
-   "action": "换收件人再发一封（第 75 批(z) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用）；变电站守界：信里明写「No substation claims」）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
-   "one_question": "Jos, for the Welotec-branded compact industrial switches outside the IEC 61850-3 line — Marvell DIN managed 8-PoE + 2-SFP and 5-port minis under your label from small lots (CE/RoHS, −40~75 ℃); which housing size do you want to standardise? Reference: STI-288GPM at $85.5 USD EXW (MOQ 1, 15-day validity)."
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
   },
   "facts": [
-   {
-    "date": "2026-09-22",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "10G Enterprise SFP Switch、Managed Optical Bypass Switch",
-    "why": "23 封 / 1 次打开 / 0 回｜首封 2024-06-25 → 末封 2026-09-22（23 去 / 0 来）",
-    "k": "gmail_digest"
-   },
    {
     "date": "2026-10-21",
     "dir": "用户表",
     "who": "Simon",
-    "quote": "兴趣：工业FS POE 有好几个牌子 也有他们自己的牌子 有小壳",
+    "quote": "HDMI NB 网站：打不开；2024.4.17 发了商业POE 128信息 → pls me the price for 8 16 & 24",
     "why": "表内备注",
     "k": "用户表"
-   },
-   {
-    "date": "2026-09-22",
-    "dir": "去",
-    "who": "A 箱（Alan）",
-    "quote": "16 Port Industrial PoE Switch",
-    "why": "本日去信真实主题（邮箱索引 bc488c3b5cdd48d8；信稿开头句引用此封；此前稿内写的「10G Enterprise SFP Switch」是线程列表首题，不是本封）",
-    "k": "bc488c3b5cdd48d8"
    }
   ],
-  "proof_gaps": [],
-  "draft_en": {
-   "subject": "Welotec-branded compact switches outside the IEC 61850-3 line - which housing size?",
-   "body": "Hi Jos,\n\nOver the past months you had a few product mails from us - most recently \"16 Port Industrial PoE Switch\" on 22 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nOutside the IEC 61850-3 line - for the compact Welotec-branded industrial switches used in ordinary cabinets - under your label from small lots, -40 to 75 C, CE/RoHS: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, L2 managed, Marvell-based - model STI-288GPM - $85.5 USD EXW (MOQ 1, 15-day validity); mini 5 x Gigabit unmanaged, 12-36 V DC - STI-050GE - $18.5; 8 x Gigabit + 2 x SFP unmanaged - STI-280GE - $46. No substation claims - these are standard industrial units.\n\nOne question: which housing size do you want to standardise on for the compact range - the 5-port mini or the 8 + 2?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
-  },
+  "proof_gaps": [
+   "无邮件往来",
+   "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+  ],
+  "draft_en": null,
   "as_of": "2026-10-24"
  }
 }

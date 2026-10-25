@@ -1,144 +1,146 @@
 {
   "code": "SB-985",
-  "name_official": "",
+  "name_official": "QNV S.L.（西班牙）",
   "researched_at": "2026-10-21",
-  "website_status": "在线（keno-cctv.ru，快照 2026-10-21）",
-  "summary": "俄罗斯 Keno（keno-cctv.ru / fox-cctv.ru：CCTV 品牌，KN-PRO8/16/32 NVR、KN-J34T 等；表内「商业 PoE 自己的 logo，主要是 CCTV；很多都是 ONV 的；有人卖他们的，看着像新桥的」）；表内未跟进。",
-  "type": "俄罗斯 CCTV 品牌商（自有标 PoE，现 ONV/新桥）",
+  "website_status": "在线（qnv.com，快照 2026-10-21，西语）",
+  "summary": "西班牙工业计算 / AI / 通信 / 机器视觉方案商（Korenix；industrial 447 / switch 210 / poe 100），Roberto Cordeiro（表内「质量高」）；需求 MC、工业 PoE FS、串口、工业电源；群发 15 次无回复。",
+  "type": "",
   "size": "",
   "brands_seen": [
-    "ONV"
+    "Korenix"
   ],
   "evidence": [
     {
       "kind": "官网快照",
-      "claim": "官网标题：Keno；品类词 安防监控（CCTV / 门禁） / 网络交换 / PoE",
-      "quote": "",
-      "url": "https://keno-cctv.ru/",
+      "claim": "工业计算、AI、通信与机器视觉；Korenix；industrial 447 / switch 210",
+      "quote": "Soluciones de informática industrial, IA, comunicaciones y visión artificial… brands Korenix",
+      "url": "https://qnv.com/",
       "date": "2026-10-21"
     },
     {
       "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "商业POE 自己的logo 主要是CCTV类产品；商业POE 自己的logo 有人卖他们的 看着像新桥的",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网快照",
-      "claim": "Keno 站点型号",
-      "quote": "Keno - Главная ; KN-PRO16 ; KN-PRO32 ; KN-J34T",
-      "url": "https://keno-cctv.ru/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "自己的 logo；ONV/新桥",
-      "quote": "商业POE 自己的logo 主要是CCTV类产品；很多都是ONV的；有人卖他们的 看着像新桥的",
+      "claim": "MC 工业 POE FS 串口 工业电源；质量高 Roberto",
+      "quote": "兴趣：MC 工业POE FS 串口 工业电源",
       "url": "（本地 Clients/ 表格，无公开 URL）",
       "date": "2026-10-21"
     }
   ],
-  "kp": [],
+  "kp": [
+    {
+      "name": "Roberto Cordeiro",
+      "title": "（表内联系人）",
+      "email": "roberto.cordeiro@qnv.com",
+      "phone": "",
+      "source": "（本地 Clients/ 表格，无公开 URL）"
+    }
+  ],
   "grade_override": null,
   "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
   "deep": {
     "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+    "level": "B 级加厚 v1（官网快照核对 + 表内）"
   },
   "company_facts": {
-    "hq": "俄罗斯",
-    "other": "官网 keno-cctv.ru，语言 ru，快照状态 ok；角色判定来源：用户表"
+    "legal_name": "QNV S.L.（待核）",
+    "founded": "",
+    "hq": "Spain",
+    "size": "中小型工业方案分销",
+    "other": "Korenix（台系 Beijer）工业线在售"
   },
   "business_lines": [
-    "CCTV / NVR / PoE（自有品牌 Keno）"
+    "工业计算 / 通信 / 视觉方案"
   ],
   "channels": {
-    "role": "俄罗斯 CCTV 品牌商（自有标 PoE，现 ONV/新桥）",
-    "region": "俄罗斯",
-    "contact": "info@keno-cctv.ru"
+    "role": "工业方案分销商",
+    "region": "西班牙"
   },
   "signals": [
-    "站内 KN-PRO16 / KN-PRO32 / KN-J34T / KN-PRO8 / KN-100Q；kw cctv 15 / poe 5",
-    "表内：商业 PoE 自己的 logo 主要是 CCTV 类产品；很多都是 ONV 的；有人卖他们的 看着像新桥的"
+    "Korenix 之下的价位带空缺",
+    "具名联系人"
   ],
   "risks": [
-    "俄罗斯：结算/物流/合规风险（EAC 由客户申报）；现供 ONV/新桥（深圳）价格基准低",
-    "未跟进过，仅 info@"
+    "15 次群发无回复；串口 / 电源不供"
   ],
   "saga_fit": {
-    "p1": "STC-28DGGPM",
-    "tier": 30,
-    "why": "自有 Keno 标商用 PoE（现 ONV/新桥）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；非管理 8/16 PoE 位 HRUI STC-028GP / STC-2216GPM（列表价，注明）"
+    "p1": "STI-288GPM",
+    "tier": 20,
+    "why": "Korenix JetNet 之下 → STI-288GPM（$78.9 @20%）；MC STI-110GE。"
   },
-  "email_hook": "For the Keno-branded PoE switches bundled with your NVRs and cameras, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 16/24-PoE) in your packaging from small lots, CE/RoHS; EAC by your side — which port count do your dealers order most?",
+  "email_hook": "Roberto, under the Korenix JetNet price points — Marvell DIN managed 8-PoE + 2-SFP at $79 and gigabit MC at $22 EXW; one evaluation set for the QNV lab?",
   "mail_review": {
     "binding": {
-      "level": "Elsa 群发 BCC 已触达 2026-08-26「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，俄罗斯-4（锚 soyuzsp.ru；2025-02-20 起月轮，13 轮） 批次 To sales@soyuzsp.ru，首见 2025-12-15，0 回（第 74 批 Bcc 头核对 msg 1a03cf9d14adefe7）；S/A 箱：S/A 邮箱均无往来；来源：用户表「商业POE 自己的logo 主要是CCTV类产品；商业POE 自己的logo 有人卖他们的 看着像新桥的」）",
-      "type": "俄罗斯 CCTV 品牌商（自有标 PoE，现 ONV/新桥）",
-      "sieve": "—（未入筛）",
-      "stop": "从未触达",
-      "revive": "不动（Q-33 供应商渠道客户）",
-      "lane": "RU 次级（Simon 2026-08 点名）",
-      "cadence": "不动",
-      "evidence": "gmail_digest：out 0；用户表：「商业POE 自己的logo 主要是CCTV类产品；商业POE 自己的logo 有人卖他们的 看着像新桥的」；研究档 risks：俄罗斯：结算/物流/合规风险（EAC 由客户申报）；现供 ONV/新桥（深圳）价格基准低；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To sales@soyuzsp.ru）2025-12-15→2026-08-26 共 5 轮群发（Booster PoE Switch、OEM Core Switching Solution、Updated Ethernet Switches Links、Marvell Managed Commercial Switches、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断；该批次最早 2025-02-20 起共 13 轮，更早轮次 Bcc 未读；同批次（To sales@cmd-sec.ru）2026-01-22→2026-08-26 共 5 轮群发（OEM Core Switching Solution、Updated Ethernet Switches Links、Industrial PoE Switch、10G Enterprise SFP Switch、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断；该批次最早 2025-02-21 起共 15 轮，更早轮次 Bcc 未读"
+      "level": "未触达（A/S 邮箱 16 封 2024→2026，0 次有效打开（1 次「打开」与退信同日 2025-06-06，是退信触发的像素，不算；真实打开 0 次），0 回；收件 angelng@qnv.com, info@qnv.com；主题多为「Marvell Industrial Alert System、Marvell Alleycat5 Solution」）；Elsa 1:1 去信 1 封（2025-02-10「90W PoE Managed Switch」；To 仅本户 angelng@qnv.com；Bcc 未逐封读头；同类名单抽读 24 封均无 Bcc；此后再未进 Elsa 任何名单——全箱 `from:e.sagatelecom to:angelng@qnv.com` 仅此 1 条，complete）（第 74 批(m)）",
+      "type": "—",
+      "sieve": "1~2（1 次打开）",
+      "stop": "16 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+      "revive": "保持季度群发到 2027-Q1；无打开即停",
+      "lane": "西班牙（欧洲全域主攻）",
+      "cadence": "季度",
+      "evidence": "gmail_digest：out 16，Opened 标签 1（Simon 群发追踪）；用户表：「兴趣：MC 工业POE FS 串口 工业电源」；研究档 risks：15 次群发无回复；串口 / 电源不供"
     },
-    "situation": "俄罗斯 Keno（keno-cctv.ru / fox-cctv.ru：CCTV 品牌，KN-PRO8/16/32 NVR、KN-J34T 等；表内「商业 PoE 自己的 logo，主要是 CCTV；很多都是 ONV 的；有人卖他们的，看着像新桥的」）；表内未跟进。",
-    "need": "自有 Keno 标商用 PoE（现 ONV/新桥）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；非管理 8/16 PoE 位 HRUI STC-028GP / STC-2216GPM（列表价，注明）",
-    "breakpoint": "俄罗斯：结算/物流/合规风险（EAC 由客户申报）；现供 ONV/新桥（深圳）价格基准低",
+    "situation": "西班牙工业计算 / AI / 通信 / 机器视觉方案商（Korenix；industrial 447 / switch 210 / poe 100），Roberto Cordeiro（表内「质量高」）；需求 MC、工业 PoE FS、串口、工业电源；群发 15 次无回复。",
+    "need": "Korenix JetNet 之下 → STI-288GPM（$78.9 @20%）；MC STI-110GE。",
+    "breakpoint": "15 次群发无回复；串口 / 电源不供",
     "saga_now": {
-      "p1": "STC-28DGGPM",
-      "tier": 30,
-      "price": "按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-26 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-26；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
-      "why": "自有 Keno 标商用 PoE（现 ONV/新桥）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；非管理 8/16 PoE 位 HRUI STC-028GP / STC-2216GPM（列表价，注明）",
+      "p1": "STI-288GPM",
+      "tier": 20,
+      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-01 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-02 $280（10G Enterprise SFP Switch）",
+      "why": "Korenix JetNet 之下 → STI-288GPM（$78.9 @20%）；MC STI-110GE。已打开的主题（1/16 封有打开记录）：「Marvell Industrial Alert System」(2025-06-06) → 读者兴趣偏「工业」；与 P1 同类，继续",
       "repeat": [],
       "gaps": []
     },
     "next_move": {
-      "when": "不动",
-      "channel": "—",
-      "action": "—",
-      "one_question": ""
+      "when": "群发节奏",
+      "channel": "A 邮箱",
+      "action": "首封前知悉：Elsa 仅 2025-02-10 单发过 1 封「90W PoE Managed Switch」，之后没再碰他（第 74 批(m)）；观察打开",
+      "one_question": "Roberto, under the Korenix JetNet price points — Marvell DIN managed 8-PoE + 2-SFP at $79 and gigabit MC at $22 EXW; one evaluation set for the QNV lab?"
     },
     "facts": [
       {
-        "date": "2025-12-15",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To sales@soyuzsp.ru，俄罗斯-4（锚 soyuzsp.ru；2025-02-20 起月轮，13 轮） 批次）",
-        "quote": "Booster PoE Switch — This is about our Marvell based managed switch with power boosting feature. 1, Fiber: 4*100M/1G/2.5G/10G 2, Copper: 8*1G RJ45/PoE, max 240W budget 3, ",
-        "why": "Elsa 箱群发 BCC 触达证据（命中地址 info@keno-cctv.ru, keno-cctv.ru）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-        "k": "elsa_bcc"
+        "date": "2025-02-10",
+        "dir": "out",
+        "who": "Elsa → angelng@qnv.com",
+        "quote": "90W PoE Managed Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+        "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
+        "k": "elsa_1to1",
+        "msg_id": "194efbb0a8202565"
       },
       {
-        "date": "2026-01-22",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To sales@cmd-sec.ru，俄罗斯-3（锚 cmd-sec.ru；2025-02-21 起月轮，15 轮） 批次）",
-        "quote": "OEM Core Switching Solution — I am introducing our CENTEC-based core and aggregation switches. 1, A cost-effective alternative to Cisco or Huawei models 2, Multiple models(10G~800G",
-        "why": "Elsa 箱群发 BCC 触达证据（命中地址 info@keno-cctv.ru, keno-cctv.ru）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-        "k": "elsa_bcc"
+        "date": "2025-06-06",
+        "dir": "内",
+        "who": "Gmail 退信（A 邮箱）",
+        "quote": "angelng@qnv.com 永久退信：550 5.1.1 <angelng@qnv.com>: Recipient address rejected: User unknown in virtual mailbox table",
+        "why": "该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职",
+        "k": "gmail_a eb586e333a46833b"
       },
       {
-        "date": "2026-08-26",
+        "date": "2025-06-06",
+        "dir": "内",
+        "who": "Gmail 退信（A 邮箱）",
+        "quote": "angelng@qnv.com 退信：550 5.1.1 <angelng@qnv.com>: Recipient address rejected: User unknown in virtual mailbox table",
+        "why": "该地址当天收不到信；同日的「Opened」记录是退信触发，不算打开",
+        "k": "gmail_a eb586e333a46833b"
+      },
+      {
+        "date": "2026-02-11",
         "dir": "去",
-        "who": "Elsa 群发（BCC；To sales@cmd-sec.ru，俄罗斯-3（锚 cmd-sec.ru；2025-02-21 起月轮，15 轮） 批次）",
-        "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
-        "why": "Elsa 箱群发 BCC 触达证据（命中地址 info@keno-cctv.ru, keno-cctv.ru）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-        "k": "elsa_bcc"
+        "who": "A/S 群发",
+        "quote": "Marvell Industrial Alert System、Marvell Alleycat5 Solution",
+        "why": "16 封 / 1 次打开 / 0 回｜首封 2024-07-04 → 末封 2026-02-11（16 去 / 0 来）",
+        "k": "gmail_digest"
       },
       {
         "date": "2026-10-21",
         "dir": "用户表",
         "who": "Simon",
-        "quote": "商业POE 自己的logo 主要是CCTV类产品；商业POE 自己的logo 有人卖他们的 看着像新桥的",
+        "quote": "兴趣：MC 工业POE FS 串口 工业电源",
         "why": "表内备注",
         "k": "用户表"
       }
     ],
-    "proof_gaps": [
-      "无邮件往来"
-    ],
+    "proof_gaps": [],
     "draft_en": null,
-    "as_of": "2026-10-25"
+    "as_of": "2026-10-24"
   }
 }

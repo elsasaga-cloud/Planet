@@ -1,158 +1,100 @@
 {
- "code": "SB-735",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（serverblink.com，快照 2026-10-21）",
- "summary": "美国 IT 硬件网店 Server Blink（PC / 服务器配件与网络设备，全美发货；站内 Zyxel XGS2220-30F / XGS2220-30HP / XS3800-28 / XMG-105HP 等多千兆与 10G 型号，PLANET、MikroTik、Ubiquiti、TP-Link、Cisco；表内「卖几个牌子的，有 Marvell 方案」）；群发 5 次无回复。",
- "type": "IT 硬件电商（多品牌）",
- "size": "",
- "brands_seen": [
-  "Zyxel",
-  "PLANET",
-  "MikroTik",
-  "Ubiquiti",
-  "TP-Link"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：PC, Computer & Server Parts | IT Hardware Store | Server Blink；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 数据中心 / 企业 IT / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
-   "quote": "Shop IT hardware, computer hardware, PC & server parts at Server Blink. Get genuine products, affordable prices, and fast shipping across the US.",
-   "url": "https://www.serverblink.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "卖几个牌子的 有marvell方案",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "IT 硬件 / 服务器配件电商，全美发货",
-   "quote": "Shop IT hardware, computer hardware, PC & server parts at Server Blink. Get genuine products, affordable prices, and fast shipping across the US.",
-   "url": "https://www.serverblink.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "多品牌，有 Marvell 方案",
-   "quote": "卖几个牌子的 有marvell方案",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "美国",
-  "other": "官网 serverblink.com，语言 en，快照状态 ok；角色判定来源：用户表"
- },
- "business_lines": [
-  "PC / 服务器配件电商",
-  "网络设备（交换机 / 无线 / 光模块）"
- ],
- "channels": {
-  "role": "IT 硬件电商（多品牌）",
-  "region": "美国",
-  "contact": "sales@serverblink.com"
- },
- "signals": [
-  "站内型号 XGS2220-30F / XGS2220-30HP / XS3800-28 / XMG-105HP（Zyxel）",
-  "站内 kw：switch 313 / cable 338 / 10g 87 / gigabit 103"
- ],
- "risks": [
-  "IT 硬件电商：以正品品牌为卖点（genuine products），白牌需单独品类",
-  "无具名 KP（sales@）",
-  "2.5G 多千兆位 Saga 无标准型"
- ],
- "saga_fit": {
-  "p1": "STC-424XGGM",
-  "tier": 20,
-  "why": "在售 Zyxel XGS2220（24 GE + 4×10G）类 → 同口型 STC-424XGGM（$127.4 @20%）；PoE 位 STC-424XGGPM-280W / STC-28DGGPM；2.5G XMG-105 位 Saga 无标准型"
- },
- "email_hook": "Next to the Zyxel XGS2220 and XMG lines you list, we can supply Marvell-based 24-GE + 4×10G SFP+ L2+ switches and the 24-PoE+ version in neutral packing from small lots — would a listed price band under the Zyxel equivalents work for your store, and which of the two first?",
- "products_seen": [
-  {
-   "brand": "Zyxel",
-   "model": "XGS2220-30HP",
-   "spec": "24 口 PoE + 4×10G L3 Lite",
-   "saga": "STC-424XGGPM-280W",
-   "url": "https://www.serverblink.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "brand": "Zyxel",
-   "model": "XGS2220-30F",
-   "spec": "24 SFP + 4×10G",
-   "saga": "（Saga 无商用 24 SFP 标准型）",
-   "url": "https://www.serverblink.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "brand": "Zyxel",
-   "model": "XMG-105HP",
-   "spec": "5 口 2.5G PoE++",
-   "saga": "（Saga 无 2.5G 全端口标准型）",
-   "url": "https://www.serverblink.com/",
-   "date": "2026-10-21"
-  }
- ],
- "mail_review": {
-  "binding": {
-   "level": "未触达（A 邮箱 10 封 2025→2026，1 次记录打开，0 回；收件 sales@serverblink.com；主题多为「Marvell Alleycat5 Solution、90W PoE Managed Switch」；Elsa 箱：`to:serverblink.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 10 / 来 0）（第 74 批(h)））",
-   "type": "IT 硬件电商（多品牌）",
-   "sieve": "1~2（1 次打开）",
-   "stop": "只打通用邮箱，无记录打开；Q-33 供应商渠道客户",
-   "revive": "不动（Q-33）",
-   "lane": "US 主攻（四主）",
-   "cadence": "不动",
-   "evidence": "gmail_digest：out 10，Opened 标签 1（Simon 群发追踪）；用户表：「卖几个牌子的 有marvell方案」；研究档 risks：IT 硬件电商：以正品品牌为卖点（genuine products），白牌需单独品类"
-  },
-  "situation": "美国 IT 硬件网店 Server Blink（PC / 服务器配件与网络设备，全美发货；站内 Zyxel XGS2220-30F / XGS2220-30HP / XS3800-28 / XMG-105HP 等多千兆与 10G 型号，PLANET、MikroTik、Ubiquiti、TP-Link、Cisco；表内「卖几个牌子的，有 Marvell 方案」）；群发 5 次无回复。",
-  "need": "在售 Zyxel XGS2220（24 GE + 4×10G）类 → 同口型 STC-424XGGM（$127.4 @20%）；PoE 位 STC-424XGGPM-280W / STC-28DGGPM；2.5G XMG-105 位 Saga 无标准型",
-  "breakpoint": "IT 硬件电商：以正品品牌为卖点（genuine products），白牌需单独品类",
-  "saga_now": {
-   "p1": "STC-424XGGM",
-   "tier": 20,
-   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-09-18 $240（24 Port Fiber Switch）、2025-10-20 $280（10G Enterprise SFP Switch）",
-   "why": "在售 Zyxel XGS2220（24 GE + 4×10G）类 → 同口型 STC-424XGGM（$127.4 @20%）；PoE 位 STC-424XGGPM-280W / STC-28DGGPM；2.5G XMG-105 位 Saga 无标准型。已打开的主题（1/10 封有打开记录）：「10G Enterprise SFP Switch」(2025-10-20) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—",
-   "one_question": ""
-  },
-  "facts": [
-   {
-    "date": "2026-02-09",
-    "dir": "去",
-    "who": "A 群发",
-    "quote": "Marvell Alleycat5 Solution、90W PoE Managed Switch",
-    "why": "10 封 / 1 次打开 / 0 回｜首封 2025-06-18 → 末封 2026-02-09（10 去 / 0 来）",
-    "k": "gmail_digest"
-   },
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "卖几个牌子的 有marvell方案",
-    "why": "表内备注",
-    "k": "用户表"
-   }
+  "code": "SB-735",
+  "name_official": "Steve（+63 917；表内国家印度尼西亚，电话为菲律宾）",
+  "researched_at": "2026-10-21",
+  "website_status": "无域名、无邮箱",
+  "summary": "WhatsApp 联系人 Steve（电话 +63 为菲律宾号，表内国家印尼 — 待核），问过 2 光 4 电 PoE 未成；WA 4 次无实质回复。",
+  "type": "",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "用户表",
+      "claim": "问过 2 光 4 电 POE 没成；电话 639178552172（菲律宾国码）",
+      "quote": "兴趣：问过2光4电 POE 没成",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "kp": [
+    {
+      "name": "Steve",
+      "title": "（表内联系人）",
+      "email": "",
+      "phone": "+63 917 855 2172",
+      "source": "（本地 Clients/ 表格，无公开 URL）"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "无域名 · 仅表内信息"
+  },
+  "company_facts": {
+    "legal_name": "（未知）",
+    "founded": "",
+    "hq": "（菲律宾？表内印尼，待核）",
+    "size": "",
+    "other": "仅 WhatsApp"
+  },
+  "channels": {
+    "role": "（未知）",
+    "region": "东南亚"
+  },
+  "risks": [
+    "无邮箱；国别待核"
+  ],
+  "saga_fit": {
+    "p1": "STI-244GP",
+    "tier": 25,
+    "why": "2 光 4 电 PoE = STI-244GP（$36.6 @25%）。"
+  },
+  "email_hook": "（无邮箱；WhatsApp 报 STI-244GP $36.6）",
+  "mail_review": {
+    "binding": {
+      "level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：问过2光4电 POE 没成」）；Elsa 箱无可查地址（仓内无此户任何邮箱/域名——用户表/WhatsApp/展会名片户，`from:e.sagatelecom to:` 无从下手；Elsa 群发是否碰过他无法判定，不写「未触达」）（第 74 批(o)）",
+      "type": "—",
+      "sieve": "—（未入筛）",
+      "stop": "从未触达",
+      "revive": "不动（非主攻区；J5：有证据再动）；WhatsApp 已加 → 唤醒走 WhatsApp 一句话，不走邮件",
+      "lane": "印度尼西亚 非主攻",
+      "cadence": "不动",
+      "evidence": "gmail_digest：out 0；用户表：「兴趣：问过2光4电 POE 没成」；研究档 risks：无邮箱；国别待核"
+    },
+    "situation": "WhatsApp 联系人 Steve（电话 +63 为菲律宾号，表内国家印尼 — 待核），问过 2 光 4 电 PoE 未成；WA 4 次无实质回复。",
+    "need": "2 光 4 电 PoE = STI-244GP（$36.6 @25%）。",
+    "breakpoint": "无邮箱；国别待核",
+    "saga_now": {
+      "p1": "STI-244GP",
+      "tier": 25,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "2 光 4 电 PoE = STI-244GP（$36.6 @25%）。",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "不动",
+      "channel": "—",
+      "action": "—",
+      "one_question": ""
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "兴趣：问过2光4电 POE 没成",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [
+      "无邮件往来",
+      "用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

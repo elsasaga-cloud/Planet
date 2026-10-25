@@ -1,138 +1,120 @@
 {
  "code": "SB-640",
- "name_official": "",
+ "name_official": "Technoverse Business Solutions（孟买）",
  "researched_at": "2026-10-21",
- "website_status": "在线（ipc2u.com，快照 2026-10-21）",
- "summary": "德国 IPC2U（工业计算机系统国际供应商与制造商，20 年以上、EMEA 14 国办事处；站内 Moxa / Advantech，DIN 导轨 PC 配置器；表内「MaiWe」；KP Arthur Barasch（Managing Director，barasch@ipc2u.de））；表内 1 次跟进无回复。",
- "type": "工业计算机供应商/制造商（德国，EMEA 多国；在售 Maiwe）",
+ "website_status": "在线（technoversebs.com，快照 2026-10-21）",
+ "summary": "孟买 IT 硬件与网络产品经销商（Ubiquiti、Cisco、TP-Link、Aruba、Juniper、Netgear；switch 37、sfp 16），Suyash Mishra；询盘表来源，无兴趣描述；WA 无实质回复。",
+ "type": "",
  "size": "",
  "brands_seen": [
-  "Moxa",
-  "Advantech",
-  "Maiwe"
+  "Ubiquiti",
+  "Cisco",
+  "TP-Link",
+  "Aruba",
+  "Juniper",
+  "Netgear"
  ],
  "evidence": [
   {
    "kind": "官网快照",
-   "claim": "官网标题：IPC2U Worldwide | Professional solutions for Industrial Automation；品类词 工业自动化 / OT 网络",
-   "quote": "IPC2U is an international supplier and manufacturer of industrial computer systems with more than 20 years of experience and is represented in more than 14 countries in the EMEA space with offices, qualified partners and distributors.",
-   "url": "https://ipc2u.com/",
+   "claim": "IT 与网络产品经销；品牌 Ubiquiti / Cisco / TP-Link / Aruba / Juniper / Netgear；+91 98194 92971",
+   "quote": "Unlock a world of I.T & Networking Products at Technoverse Business Solutions… brands Ubiquiti, Cisco, TP-Link, Aruba, Juniper, Netgear",
+   "url": "https://technoversebs.com/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "MaiWe",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "工业计算机系统国际供应商与制造商",
-   "quote": "IPC2U is an international supplier and manufacturer of industrial computer systems with more than 20 years of experience and is represented in more than 14 countries in the EMEA space",
-   "url": "https://ipc2u.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "MaiWe",
-   "quote": "MaiWe",
+   "claim": "询盘统计表来源，无兴趣描述",
+   "quote": "（空）",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
  "kp": [
   {
-   "name": "Arthur Barasch",
-   "title": "Managing Director",
-   "email": "barasch@ipc2u.de",
-   "phone": "",
-   "source": "用户表"
+   "name": "Suyash Mishra",
+   "title": "（表内联系人）",
+   "email": "sales@technoversebs.com",
+   "phone": "+91 74001 75292",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
   }
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（官网快照 + 表内）"
  },
  "company_facts": {
-  "hq": "德国",
-  "other": "官网 ipc2u.com，语言 en，快照状态 ok；角色判定来源：官网文案"
+  "legal_name": "Technoverse Business Solutions",
+  "founded": "",
+  "hq": "Mumbai, India",
+  "size": "小型 IT 经销",
+  "other": ""
  },
  "business_lines": [
-  "工业计算机系统（Box PC / DIN 导轨 PC / 面板 PC）",
-  "工业自动化组件分销（Moxa / Advantech / Maiwe）"
+  "IT 硬件 / 网络产品经销（多品牌）"
  ],
  "channels": {
-  "role": "工业计算机供应商/制造商（德国，EMEA 多国；在售 Maiwe）",
-  "region": "德国",
-  "contact": "sales@ipc2u.com、barasch@ipc2u.de"
+  "role": "经销商",
+  "region": "印度（孟买）"
  },
- "signals": [
-  "官网：international supplier and manufacturer of industrial computer systems with more than 20 years of experience … more than 14 countries in the EMEA",
-  "配置器 /catalog/configurator/embedded-box-systems/c-industrial-dinrail-pc/",
-  "KP：Arthur Barasch / Managing Director（表内）"
- ],
  "risks": [
-  "现货源 Maiwe（武汉）价格基准低：需以 Marvell 平台/欧洲文档切入",
-  "多国办事处的中型供应商：导入流程较长；1 次跟进无回复"
+  "品牌经销为主，白牌接受度待验证"
  ],
  "saga_fit": {
-  "p1": "STI-288GPM",
+  "p1": "STC-28DGGPM",
   "tier": 20,
-  "why": "在售 Maiwe 工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-280GE（$46.6）同口型替换，配套 DIN 导轨 PC 项目"
+  "why": "经销补白牌 PoE 线 → STC-28DGGPM（$80.7 @20%）。"
  },
- "email_hook": "Arthur, next to the Maiwe industrial switches in your automation range, we supply DIN-rail 8-PoE + 2 SFP managed and 8-GE unmanaged units (−40~75 °C, neutral packing, CE/RoHS) from small lots — which Maiwe model do your IPC projects use most, so we quote its equivalent?",
+ "email_hook": "Suyash, next to the TP-Link / Netgear PoE lines you resell — a Marvell L2+ 8-PoE + 2-SFP at $81 EXW (neutral box, 1-year warranty (commercial line)); worth a 5-pc trial for SMB CCTV jobs?",
  "mail_review": {
   "binding": {
-   "level": "未触达（A/S 邮箱 12 封 2025→2026，无记录打开，0 回；收件 barasch@ipc2u.de, sales@ipc2u.com；主题多为「10G Enterprise SFP Switch、24 Port PoE Managed Switch」；Elsa 箱：`to:ipc2u.com OR to:ipc2u.de` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 12 / 来 0）（第 74 批(j)））",
-   "type": "工业计算机供应商/制造商（德国，EMEA 多国；在售 Maiwe）",
-   "sieve": "1（只收到群发）",
-   "stop": "12 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "DE 主攻（四主）",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 12；用户表：「MaiWe」；研究档 risks：现货源 Maiwe（武汉）价格基准低：需以 Marvell 平台/欧洲文档切入"
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「（空）」；Elsa 箱：`to:technoversebs.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(n)））",
+   "type": "—",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "首封（具名 KP 优先，用研究档 email_hook）；WhatsApp 已加 → 唤醒走 WhatsApp 一句话，不走邮件",
+   "lane": "IN 次级（点名）",
+   "cadence": "首封后看打开",
+   "evidence": "gmail_digest：out 0；用户表：「（空）」；研究档 risks：品牌经销为主，白牌接受度待验证"
   },
-  "situation": "德国 IPC2U（工业计算机系统国际供应商与制造商，20 年以上、EMEA 14 国办事处；站内 Moxa / Advantech，DIN 导轨 PC 配置器；表内「MaiWe」；KP Arthur Barasch（Managing Director，barasch@ipc2u.de））；表内 1 次跟进无回复。",
-  "need": "在售 Maiwe 工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-280GE（$46.6）同口型替换，配套 DIN 导轨 PC 项目",
-  "breakpoint": "现货源 Maiwe（武汉）价格基准低：需以 Marvell 平台/欧洲文档切入",
+  "situation": "孟买 IT 硬件与网络产品经销商（Ubiquiti、Cisco、TP-Link、Aruba、Juniper、Netgear；switch 37、sfp 16），Suyash Mishra；询盘表来源，无兴趣描述；WA 无实质回复。",
+  "need": "经销补白牌 PoE 线 → STC-28DGGPM（$80.7 @20%）。",
+  "breakpoint": "品牌经销为主，白牌接受度待验证",
   "saga_now": {
-   "p1": "STI-288GPM",
+   "p1": "STC-28DGGPM",
    "tier": 20,
-   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-10-06 $180（24 Port PoE Managed Switch = STC-424XGGPM-280W，Alan 2026-09-21 起的现价轮）——同款信稿只能写 $180；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-28 $280（10G Enterprise SFP Switch）",
-   "why": "在售 Maiwe 工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-280GE（$46.6）同口型替换，配套 DIN 导轨 PC 项目",
+   "price": "按主表（研究档 saga_fit）",
+   "why": "经销补白牌 PoE 线 → STC-28DGGPM（$80.7 @20%）。",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开",
-   "one_question": "Arthur, next to the Maiwe industrial switches in your automation range, we supply DIN-rail 8-PoE + 2 SFP managed and 8-GE unmanaged units (−40~75 °C, neutral packing, CE/RoHS) from small lots — which Maiwe model do your IPC projects use most, so we quote its equivalent?"
+   "when": "待 Simon 排期（首封）",
+   "channel": "A 邮箱 → sales@technoversebs.com（Suyash Mishra）",
+   "action": "首封：按 email_hook 一问（第 75 批(m) 2026-10-25：英文信稿已写 `draft_en`）（第 76 批(c) 2026-10-25：audit_ab 软项修正：证书口径 CE/RoHS → CE/RoHS (BIS stays on your side)）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
+   "one_question": "Suyash, next to the TP-Link / Netgear PoE lines you resell — a Marvell L2+ 8-PoE + 2-SFP at $81 EXW (neutral box, 1-year warranty (commercial line)); worth a 5-pc trial for SMB CCTV jobs?"
   },
   "facts": [
-   {
-    "date": "2026-10-06",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "10G Enterprise SFP Switch、24 Port PoE Managed Switch",
-    "why": "12 封 / 0 次打开 / 0 回｜首封 2025-10-28 → 末封 2026-10-06（12 去 / 0 来）",
-    "k": "gmail_digest"
-   },
    {
     "date": "2026-10-21",
     "dir": "用户表",
     "who": "Simon",
-    "quote": "MaiWe",
+    "quote": "（空）",
     "why": "表内备注",
     "k": "用户表"
    }
   ],
-  "proof_gaps": [],
-  "draft_en": null,
+  "proof_gaps": [
+   "无邮件往来",
+   "用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+  ],
+  "draft_en": {
+   "subject": "A neutral-box 8-PoE L2+ next to the TP-Link and Netgear lines you resell",
+   "body": "Hi Suyash,\n\nNext to the TP-Link and Netgear PoE lines you resell, a neutral-box unit for SMB CCTV jobs: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based, CE/RoHS (BIS stays on your side), 1-year warranty - model STC-28DGGPM - $80.7 USD EXW at distributor price (MOQ 1, 15-day validity).\n\nOne question: worth a 5-pc trial for your SMB CCTV jobs, or is the brand name decisive for your customers?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+  },
   "as_of": "2026-10-24"
  }
 }

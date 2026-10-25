@@ -1,48 +1,37 @@
 {
  "code": "SB-250",
- "name_official": "Çamsan Ordu Ağaç Sanayi ve Ticaret A.Ş.（Ordu 工厂 / Ankara 总部, TR；camsanordu.com；MDF 制造商）",
+ "name_official": "PF Electronic Sp. z o.o.（波兰卡托维兹）",
  "researched_at": "2026-10-21",
- "website_status": "在线",
- "summary": "土耳其最大 MDF/强化地板制造商之一 Çamsan Ordu（1984 年在奥尔杜建厂，土耳其/中东/巴尔干首家 MDF 厂；2011 年分立为 Çamsan Ordu；2019 年投资 7,000 万欧元建 MDF3 线；厂区 26 万 m²；员工 780（2026）/ LinkedIn 501–1,000；总部 Ankara Çankaya YDA Center；工厂 Uzunisa Kökenli Köyü, Ordu；+90 312 446 92 92 / 工厂 +90 452 225 53 00；info@camsanordu.com）。ISAF 记录：拿了彩页、没做交谈；邮箱 sclcule.o@camsanordu.com 需与客户再确认；无后续跟进。大型工厂终端用户（非渠道）→ 工业交换机自用机会，B 25%。",
+ "website_status": "在线（pf-electronic.pl，快照 2026-10-21，波兰语）",
+ "summary": "波兰工业自动化元件官方分销商（传感器、连接器、交换机、控制系统、编码器；Advantech、Hirschmann；poe 151 / switch 112 / sfp 53；+48 32 256 25 33），Dariusz Piwowar（表内「可着重跟」）；表内「外壳比较特别」；群发 8 次无回复。",
  "type": "",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Advantech",
+  "Hirschmann"
+ ],
  "evidence": [
   {
-   "kind": "官网",
-   "claim": "公司历史与总部",
-   "quote": "1984 yılında Türkiye, Orta Doğu ve Balkanların ilk, Avrupa'nın dördüncü MDF üreticisi olarak Ordu'da kurulan … 2011 yılından itibaren ÇAMSAN ORDU … 0 312 446 92 92 … info@camsanordu.com … Kızılırmak Mah. Dumlupınar Bul. A Blok No: 9A İç Kapı No: 685 (YDA Center 17. Kat) Çankaya / ANKARA",
-   "url": "https://camsanordu.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "名录",
-   "claim": "员工数",
-   "quote": "Camsan Ordu Agac A.S. … incorporated on February 25, 2011. The total number of employees is currently 780 (2026).",
-   "url": "https://www.emis.com/php/company-profile/TR/Camsan_Ordu_Agac_AS_en_3324679.html",
-   "date": "2026-05-27"
-  },
-  {
-   "kind": "名录",
-   "claim": "MDF3 投资",
-   "quote": "Çamsan Ordu made a huge investment of 70 million Euros for the new MDF 3 facility in 2019",
-   "url": "https://www.tradeatlas.com/en/company-hs-codes/camsan-ordu-agac-sanayi-ve-tic-as/turkey?company-code=3YcDF5He",
+   "kind": "官网快照",
+   "claim": "工业自动化元件官方分销：传感器、连接器、交换机、控制系统、编码器；Advantech / Hirschmann；+48 32 256 25 33",
+   "quote": "Oficjalny dystrybutor podzespołów i elementów automatyki przemysłowej. Czujniki, sensoryka, złącza, switche, systemy sterowania, enkodery, elektronika… brands Advantech, Hirschmann",
+   "url": "https://pf-electronic.pl/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "ISAF：拿彩页未交谈；邮箱待核",
-   "quote": "拿了彩页，没做交谈(邮箱可和客户再确认一遍） / sclcule.o@camsanordu.com",
+   "claim": "外壳比较特别；可以着重跟一下",
+   "quote": "兴趣：外壳比较特别",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
  "kp": [
   {
-   "name": "（姓名待核；邮箱前缀 sclcule.o）",
-   "role": "（ISAF 名片；用户表注：邮箱需与客户再确认）",
-   "email": "sclcule.o@camsanordu.com（用户表，待核）",
-   "phone": "—",
+   "name": "Dariusz Piwowar",
+   "title": "（表内联系人）",
+   "email": "dariusz.piwowar@pf-electronic.pl",
+   "phone": "+48 32 256 25 33",
    "source": "（本地 Clients/ 表格，无公开 URL）"
   }
  ],
@@ -51,81 +40,82 @@
  "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网 + 名录核对）"
+  "level": "B 级加厚 v1（官网快照核对 + 表内）"
  },
  "company_facts": {
-  "legal_name": "Çamsan Ordu Ağaç Sanayi ve Ticaret A.Ş.",
-  "founded": "1984（工厂）/ 2011-02-25（现法人）",
-  "hq": "Kızılırmak Mah. Dumlupınar Bul. A Blok No:9A İç Kapı 685 (YDA Center K:17) Çankaya / Ankara；工厂 Uzunisa Kökenli Köyü, Ordu（+90 452 225 53 00）",
-  "size": "780 人（EMIS 2026）；501–1,000（LinkedIn）",
-  "other": "MDF、MDFLAM、强化地板；MDF3 投资 7,000 万欧元（2019）；参股 Kolçam 刨花板厂"
+  "legal_name": "PF Electronic Sp. z o.o.",
+  "founded": "",
+  "hq": "Katowice, Poland（+48 32）",
+  "size": "中小型工业分销",
+  "other": ""
  },
  "business_lines": [
-  "MDF / 层压板 / 强化地板制造与出口"
+  "工业自动化元件分销"
  ],
  "channels": {
-  "网站": "https://camsanordu.com/",
-  "电话": "+90 312 446 92 92（总部，公开）",
-  "邮箱（公开）": "info@camsanordu.com"
+  "role": "工业分销商",
+  "region": "波兰"
  },
  "signals": [
-  "大型木业工厂（粉尘/宽温/长距离光纤）= 工业 DIN 交换机与 MC 的典型自用场景；MDF3 新线 = 新建网络点位",
-  "工厂采购走 IT/电气部门 → 需先确认联系人"
+  "Hirschmann / Advantech 之下价位带；具名联系人"
  ],
  "risks": [
-  "终端用户非渠道、采购流程长；邮箱待核；ISAF 未交谈"
+  "8 次群发无回复"
  ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
-  "tier": 25,
-  "why": "终端项目 25% 档：STI-288DGGPM（DIN 8 GE PoE+ 2 SFP L2+ 管理，−40~+75 ℃，$137.5）作车间环网接入；MC STI-110GE（$23.4）；汇聚 STC-424XGGM(L3)（$280.3）"
+  "p1": "STI-288GPM",
+  "tier": 20,
+  "why": "工业管理 PoE → STI-288GPM（$78.9 @20%）；mini STI-050GE。"
  },
- "email_hook": "Merhaba, ISAF'ta aldığınız broşürün devamı olarak: Ordu fabrikanızdaki üretim hatları için DIN ray 8 PoE+ + 2 SFP L2+ endüstriyel switch (−40/+75 °C, tozlu ortam için fansız) EXW 137,5 USD — bu konuyu fabrika IT/elektrik ekibinizden kime iletmeliyim?",
+ "email_hook": "Dariusz, under the Hirschmann/Advantech lines — Marvell DIN managed 8-PoE + 2-SFP at $79 and 5-port mini at $17 EXW (CE/RoHS, −40~75 ℃); one evaluation unit for Katowice?",
  "mail_review": {
   "binding": {
-   "level": "未发信（S/A 邮箱均无往来；来源：用户表「拿了彩页，没做交谈(邮箱可和客户再确认一遍） / sclcule.o@camsanordu.com」；Elsa 箱：`to:camsanordu.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(i)））",
+   "level": "未触达（A/S 邮箱 16 封 2025→2026，1 次记录打开，0 回；收件 dariusz.piwowar@pf-electronic.pl, sklep@pf-electronic.pl；主题多为「Managed Optical Bypass Switch、L3 Managed Switch」；Elsa 箱：`to:.pl` 穷举 24 条（2026-10-25，锚批 Bcc 头已读）未见 pf-electronic.pl → Elsa 箱从未发过本户，往来只在 S/A 箱（去 16 / 来 0）（第 74 批(f)））",
    "type": "—",
-   "sieve": "—（未入筛）",
-   "stop": "从未触达",
-   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
-   "lane": "TR 主攻（四主）",
-   "cadence": "首封后看打开",
-   "evidence": "gmail_digest：out 0；用户表：「拿了彩页，没做交谈(邮箱可和客户再确认一遍） / sclcule.o@camsanordu.com」；研究档 risks：终端用户非渠道、采购流程长；邮箱待核；ISAF 未交谈"
+   "sieve": "1~2（1 次打开）",
+   "stop": "16 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "PL 次级重点",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 16，Opened 标签 1（Simon 群发追踪）；用户表：「兴趣：外壳比较特别」；研究档 risks：8 次群发无回复"
   },
-  "situation": "土耳其最大 MDF/强化地板制造商之一 Çamsan Ordu（1984 年在奥尔杜建厂，土耳其/中东/巴尔干首家 MDF 厂；2011 年分立为 Çamsan Ordu；2019 年投资 7,000 万欧元建 MDF3 线；厂区 26 万 m²；员工 780（2026）/ LinkedIn 501–1,000；总部 Ankara Çankaya YDA Center；工厂 Uzunisa Kökenli Köyü, Ordu；+90 312 446 92 92 / 工厂 +90 452 225 53 00；info@camsanordu.com）。ISAF 记录：拿了彩页、没做交谈；邮箱 sclcule.o@camsanordu.com 需与客户再确认；无后续跟进。大型工厂终端用户（非渠道）→ 工业交换机自用机会，B 25%。",
-  "need": "终端项目 25% 档：STI-288DGGPM（DIN 8 GE PoE+ 2 SFP L2+ 管理，−40~+75 ℃，$137.5）作车间环网接入；MC STI-110GE（$23.4）；汇聚 STC-424XGGM(L3)（$280.3）",
-  "breakpoint": "终端用户非渠道、采购流程长；邮箱待核；ISAF 未交谈",
+  "situation": "波兰工业自动化元件官方分销商（传感器、连接器、交换机、控制系统、编码器；Advantech、Hirschmann；poe 151 / switch 112 / sfp 53；+48 32 256 25 33），Dariusz Piwowar（表内「可着重跟」）；表内「外壳比较特别」；群发 8 次无回复。",
+  "need": "工业管理 PoE → STI-288GPM（$78.9 @20%）；mini STI-050GE。",
+  "breakpoint": "8 次群发无回复",
   "saga_now": {
-   "p1": "STI-288DGGPM",
-   "tier": 25,
-   "price": "按主表（研究档 saga_fit）（㉕ 封顶：STI-288DGGPM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25）",
-   "why": "终端项目 25% 档：STI-288DGGPM（DIN 8 GE PoE+ 2 SFP L2+ 管理，−40~+75 ℃，$137.5）作车间环网接入；MC STI-110GE（$23.4）；汇聚 STC-424XGGM(L3)（$280.3）",
+   "p1": "STI-288GPM",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-21 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-21 $280（10G Enterprise SFP Switch）",
+   "why": "工业管理 PoE → STI-288GPM（$78.9 @20%）；mini STI-050GE。已打开的主题（1/16 封有打开记录）：「Mini Industrial PoE Switch」(2025-02-05) → 读者兴趣偏「工业」；与 P1 同类，继续",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "待 Simon 排期（首封）",
-   "channel": "A 邮箱 → sclcule.o@camsanordu.com",
-   "action": "首封：按 email_hook 一问（第 74 批(r) 2026-10-25：英文信稿已写 `draft_en`，内容 = 土耳其语钩子句的英文版；土耳其语一句话仍在研究档备注里，对方若不读英文就整段单发）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
-   "one_question": "Merhaba, ISAF'ta aldığınız broşürün devamı olarak: Ordu fabrikanızdaki üretim hatları için DIN ray 8 PoE+ + 2 SFP L2+ endüstriyel switch (−40/+75 °C, tozlu ortam için fansız) EXW 137,5 USD — bu konuyu fabrika IT/elektrik ekibinizden kime iletmeliyim?"
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Dariusz, under the Hirschmann/Advantech lines — Marvell DIN managed 8-PoE + 2-SFP at $79 and 5-port mini at $17 EXW (CE/RoHS, −40~75 ℃); one evaluation unit for Katowice?"
   },
   "facts": [
+   {
+    "date": "2026-09-25",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Managed Optical Bypass Switch、L3 Managed Switch",
+    "why": "16 封 / 1 次打开 / 0 回｜首封 2025-02-05 → 末封 2026-09-25（16 去 / 0 来）",
+    "k": "gmail_digest"
+   },
    {
     "date": "2026-10-21",
     "dir": "用户表",
     "who": "Simon",
-    "quote": "拿了彩页，没做交谈(邮箱可和客户再确认一遍） / sclcule.o@camsanordu.com",
+    "quote": "兴趣：外壳比较特别",
     "why": "表内备注",
     "k": "用户表"
    }
   ],
-  "proof_gaps": [
-   "无邮件往来"
-  ],
-  "draft_en": {
-   "subject": "Industrial switch for the production lines at Ordu - following the ISAF brochure",
-   "body": "Hello,\n\nWe met at ISAF 2025 in Istanbul last October - this picks up what we discussed at the booth.\n\nFollowing the brochure you picked up: for the production lines at the Ordu plant we supply a DIN-rail industrial switch, 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, fanless (dusty environment), -40 to 75 C, model STI-288DGGPM - $137.5 USD EXW (MOQ 1, 15-day validity). CE/RoHS, 3-year warranty with our DIN power supply.\n\nOne question: who in the plant IT / electrical team should I send this to?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
-  },
+  "proof_gaps": [],
+  "draft_en": null,
   "as_of": "2026-10-24"
  }
 }

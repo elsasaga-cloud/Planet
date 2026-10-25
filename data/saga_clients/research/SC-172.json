@@ -1,0 +1,75 @@
+{
+ "code": "SC-172",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（cop-security.com，快照 2026-10-21）",
+ "summary": "台湾 COP Security System Corp.（1992 年设计制造 CCTV、2007 年起网络方案；「We build quality products from Taiwan!」OEM/ODM；EoC/PoE 配件 EA-EOC101PH / EA-POE101W；表内「工业交换机 ONV 的」）；表内 2 次跟进无回复。",
+ "type": "台湾安防/网络厂商（同行）",
+ "size": "",
+ "brands_seen": [
+  "ONV"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：COP Security - We are the Specialist in Network Connection | COP SECURITY SYSTEM CORP.；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 网络交换 / PoE",
+   "quote": "Cop Security was established in 2007, we are about providing the right solution for your CCTV and Networking needs. We build quality products from Taiwan! COP SECURITY was established in 1992 to design, develop and manufacture products of t",
+   "url": "https://cop-security.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "工业交换机 ONV的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "COP Security 定位",
+   "quote": "COP Security - We are the Specialist in Network Connection | COP SECURITY SYSTEM CORP. ; We build quality products from Taiwan! COP SECURITY was established in 1992",
+   "url": "https://cop-security.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "工业交换机 ONV 的",
+   "quote": "工业交换机 ONV的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "同行/台湾厂商：COP Security（自产 CCTV/网络，OEM/ODM），非渠道客户；c_sub=同行/台湾厂商",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "台湾",
+  "other": "官网 cop-security.com，语言 en，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "CCTV / 网络产品制造（台湾）"
+ ],
+ "channels": {
+  "role": "台湾安防/网络厂商（同行）",
+  "region": "台湾",
+  "contact": "sales@cop-security.com"
+ },
+ "signals": [
+  "官网：Cop Security was established in 2007, we are about providing the right solution for your CCTV and Networking needs. We build quality products from Taiwan! COP SECURITY was established in 1992 to desig…；kw oem 7 / odm 6 / poe 13",
+  "表内：工业交换机 ONV 的"
+ ],
+ "risks": [
+  "同行/台湾厂商：COP Security 自产 CCTV 与网络产品（OEM/ODM），非渠道客户"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 30,
+  "why": "台湾厂商（自产 CCTV/网络产品，OEM/ODM 身份），非渠道客户 → 改 C"
+ },
+ "email_hook": "（不发送：台湾厂商/同行）"
+}

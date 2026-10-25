@@ -1,164 +1,204 @@
-# SB-147 kti.de · home · https://kti.de/ · fetched 2026-10-25T07:41:18Z · HTTP 200
-Ihr Partner für aktive Netzwerktechnik - KTI Distribution GmbH
-document.getElementById(forward)?.focus());
-return;
-}
-if(backward != '' && event.shiftKey) {
-event.preventDefault();
-$nextTick(() => document.getElementById(backward)?.focus());
-return;
-}
-},
-}" x-init="mobileDetection.detectMobile(), getLocation()" @mouseleave="dropdownOpen = null">
-English
-Service & Downloads
-Home
-this.currentPage.startsWith(page) || this.currentPage.startsWith('/ueber-uns'));
-}
-}" x-init="currentPageMatch()"
-x-bind:class="dropdownOpen === '1' ? 'border-b-2 border-kti-blue' : ''">
-Unternehmen
-this.currentPage.startsWith(page) || this.currentPage.startsWith('/produkte'));
-}
-}" x-init="currentPageMatch()"
-x-bind:class="dropdownOpen === '2' ? 'border-b-2 border-kti-blue' : ''">
-Produkte
-Lösungen
-this.currentPage.startsWith(page) || this.currentPage.startsWith('/leistungen'));
-}
-}" x-init="currentPageMatch()"
-x-bind:class="dropdownOpen === '4' ? 'border-b-2 border-kti-blue' : ''">
-Leistungen
-Aktuelles
-Kontakt
-Shop
-English
-Home
-this.currentPage.startsWith(page));
-}
-}" x-init="currentPageMatch()">
-Unternehmen
-Über Uns
-Team
-Karriere
-this.currentPage.startsWith(page));
-}
-}" x-init="currentPageMatch()">
-Produkte
-KTI Networks
-Konverter
-Switches
-Industrial Ethernet
-SFPs
-Netsys
-Edgecore
-Ubiquiti
-SlimWire
-Lösungen
-this.currentPage.startsWith(page));
-}
-}" x-init="currentPageMatch()">
-Leistungen
-Planung & Beratung
+# SB-147 genieproducts.co.uk · home · https://genieproducts.co.uk/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+Home - Genie Products
+Skip to content
+Solutions
+About Genie Solutions
+Video Solutions
+Access Control Solutions
+CADIP8NEBVAF
+8MP NDAA PSTI IP Active Deterrent Eyeball Camera, Auto Focus Varifocal Lens
+Two Way Audio, Intelligent Analytics, White Light, Red and Blue Warning Lights
+Learn more
+Access control & biometrics
+Door Controllers
+Biometric Readers
+Enrolment Readers
+Keypads & Readers
+Exit Buttons
+Enclosures
+Accessories
+WIP2FRTMTP
+Professional robust high quality Full HD camera system designed to utilise any combination of human body temperature sensing, facial recognition and mask detection screening for secure and safe access control and monitoring.
+See more
+CCTV
+AHD
+Body Worn
+HD-SDI
+Network IP
+Wireless Video Transmission
+Housings & Illuminators
+Lenses
+Monitors
+Recorders
+Test Equipment
+Smart Cabling
+Miscellaneous
+WIPX4NMVDVAF
+4MP IP IR vandal dome camera with a 2.8-12mm auto focus lens. The camera features facial recognition and Video Metadata functionality when paired with any Genie AI NVR.
+See more
+Software
+All software
+Recent software updates
+GenieVMS
+GenieVMS Standard for Windows. Free 32 channel license included, but can be expanded to support up to 2048 channels, and is suitable for the Genie Xpert range, Focus range, and Onvif compliant devices.
+See more
 Support
-Schulungen
-OEM & ODM
-Aktuelles
-Kontakt
-Shop
-Neu
-Über Uns
-|
-Team
-|
-Karriere
-KTI Networks
-Konverter
-Switches
-Industrial Ethernet
-SFPs
-|
-Netsys
-|
-Edgecore
-|
-Ubiquiti
-|
-SlimWire
-Planung & Beratung
-|
+Contact Us
+Cybersecurity
+Technical Documents
+F.A.Q's
+Contact
+General
++44(0)1707 330541
+[email protected]
 Support
-|
-Schulungen
-|
-OEM & ODM
-Aktive Netzwerktechnik direkt vom Hersteller.
-KTI – Wir schaffen Verbindungen.
-Aktive Netzwerktechnik ist unsere Kernkompetenz: Wenn es um die Übertragung oder Verteilung von Datenströmen im IT-Netzwerk geht, sind Ethernet-Geräte von KTI Networks genau die richtige Wahl. Ob Kupfer- oder Glasfaserverbindung - mit Medienkonvertern, Switches oder optischen Transceivern von KTI ist auf eine gute Verbindung Verlass. Dank der soliden Verarbeitung bilden KTI-Produkte eine langlebige, verlässliche Konstante in Ihrem Netzwerk. Auch, wenn’s mal richtig zur Sache geht: anspruchsvolle, industrielle Bedingungen sind erstrecht unser Spezialgebiet. Die Geräte der Industrial Ethernet Reihe sind gemacht für Extreme und halten einiges aus.
-Seit über 25 Jahren bringen wir als KTI Distribution die Produkte direkt vom Hersteller auf den europäischen Markt. Wir sind unmittelbar an der Produktentwicklung beteiligt - und können so auf einen sich ständig verändernden Bedarf optimal reagieren. Von unserem Standort in Bielefeld aus bieten wir Ihnen eine erstklassige – und vor allem persönliche – Beratung für Ihre Netzwerkinfrastruktur. Mit unserem Support bieten wir Ihnen bei Bedarf auch umfassende Unterstützung an.
-Wir sind genau der richtige Ansprechpartner für Netzwerk-Lösungen!
-Produktkatalog
-Einfach online blättern
-In unserem aktuellen Produktkatalog zeigen wir Ihnen, was wir können. Produkte, Dienstleistungen, Schulungen - alles auf einen Klick:
-Schauen Sie mal rein!
-Aktuelles
-Fast Ethernet in der Industriellen Automation – 24/7 vernetzt
-In Produktionshallen kommt es selten auf riesige Bandbreiten an, sondern vielmehr auf hohe Störsicherheit, Robustheit und extreme Zuverlässigkeit.
-Drei Jahrzehnte aktiv vernetzt - KTI wird 30!
-KTI Distribution feiert 30 Jahre: Seit 1996 steht KTI für zuverlässige Netzwerkkomponenten und persönliche Beratung – und wächst mit einem erweiterten Portfolio und neuem Firmengebäude in die Zukunft.
-Dr. Lan erklärt: SlimWire+ vs. SlimWire Ultra 7
-Welches Patchkabel passt wirklich zu Ihrer Anwendung?
-Newsletter
-Jetzt anmelden
-Fertigung nach Maß OEM & ODM
-Sie haben individuelle Ansprüche? Kti berät Sie und setzt Ihren Auftrag
-entsprechend Ihrer Anforderungen um.
-Mehr über OEM & ODM erfahren
-Netzwerk Bestseller
-KGS-1060
-DER Industrie-Switch
-KGS-2422
-DER Allrounder
-KGC-310M
-Von KUPFER auf GLASFASER
-Mit KTI werden Sie selbst zum Experten
-Entweder in unseren modernen Schulungsräumen in Bielefeld - oder bei Ihnen vor Ort. Unsere Workshops sind die Antwort auf den wachsenden Bedarf an Know How im Bereich Netzwerk!
-Zu den Schulungen
-{
-this.changing = !this.changing
-}, 2500)
-setInterval(() => {
-this.text = this.text === 'In 360° ansehen' ? 'Besuchen Sie uns digital' : 'In 360° ansehen'
-}, 5000)
-}
-}" x-init="changeText()" aria-label="In 360° ansehen" class="bg-kti-blue text-white font-bold py-2 px-4 rounded-sm group-hover:scale-105 transition-all mx-auto block
-lg:w-96 lg:h-14 lg:translate-x-[54.75%] lg:translate-y-[20%] lg:-mb-14
-md:w-80 md:h-[3rem] md:translate-x-[53.5%] md:translate-y-[15%] md:-mb-[3rem]
-sm:w-64 h-[2.5rem] sm:translate-x-[54.5%] sm:translate-y-[10%] -mb-[2.5rem]
-w-full max-w-[60%] translate-y-[20%] z-10 relative">
-✕
-Über Mitarbeiter
-verbindet Leidenschaft für Netzwerktechnik zu einem großartigen Team. Egal ob hochspezialisiert, technisch begabt oder kreatives Mastermind.
-Wir sind für Sie da.
-Seit
-begleiten wir von unserem Standort im ostwestfälischen Bielefeld regionale, nationale und internationale Kundenprojekte.
-Vor Ort und aus der Ferne.
-Partner
-Kontakt:
-Mo - Fr  - Uhr
-0521 96680 0
-info@kti.de
-Oder über unser Kontaktformular
-Anschrift:
-Meisenstraße 79a - 33607 Bielefeld
-Impressum
-AGB
-Datenschutz
-Kontakt
-Newsletter
-Händler finden
-DIN ISO 9001 Zertifikat
-Google Rezensionen:
-Sehr schneller und fachlich kompetenter Service! Zudem auch sehr professionell und super freundlich.
-Rezension schreiben
-WIR SCHAFFEN VERBINDUNGEN!
++44(0)1707 330541
+[email protected]
+Company
+Genie
+About Genie
+Case Studies
+News
+All News
+Latest
+How Surveillance Helps Reduce Employee and Customer Theft
+What Is a PTZ Camera and When Should You Use One?
+How Many CCTV Cameras Do I Need for My Property?
+Shop
+Shop All
+CCTV
+Access Control
+GCN4000
+NDAA and PSTI compliant Video Intercom Entry Station IP67 supporting Face Recognition, Keypad, Proximity, and Wi-fi communication
+See more
+{ $refs.search_input.focus() })"
+>
+Search for:
+My account
+Email address
+Password
+Sign in
+Forgot password?
+Don’t have an account?
+Register now
+Total (GBP)
+0
+items
+£ 0.00
+No products in the basket.
+Open menu
+Back
+Solutions
+About Genie Solutions
+Video Solutions
+Access Control Solutions
+Access control & biometrics
+Door Controllers
+Biometric Readers
+Enrolment Readers
+Keypads & Readers
+Exit Buttons
+Enclosures
+Accessories
+CCTV
+AHD
+Body Worn
+HD-SDI
+Network IP
+Wireless Video Transmission
+Housings & Illuminators
+Lenses
+Monitors
+Recorders
+Test Equipment
+Smart Cabling
+Miscellaneous
+Software
+All software
+Support
+Contact Us
+Cybersecurity
+Technical Documents
+F.A.Q's
+Company
+About Genie
+Case Studies
+All News
+Shop
+CCTV
+Access Control
+Genie Solutions
+Smart, safe and secure. Leading edge CCTV and Access Control system solutions to protect and future proof your business today.
+Learn more
+Confidence Installed
+– Supporting Installers throughout the UK – Trade Only
+Supporting Installers across the United Kingdom
+We’ve been keeping UK businesses secure for over 20 years. That’s why installers keep coming back.
+Learn More About Genie
+Helping businesses through Covid
+From flow controlled areas, to live temperature scanning, find out how Genie helped installers and their customers during lockdown.
+View Our Range
+Access Control and Biometric Products
+Learn more
+View our Marine Range
+Learn more
+View our Xpert Range
+Learn more
+Products
+Browse the complete range
+AHD
+Body Worn
+HD-SDI
+Network IP
+Housings & Illuminators
+Wireless Video Transmission
+Lenses
+Monitors
+Recorders
+Test Equipment
+Smart Cabling
+Miscellaneous
+Whether you need one camera, or 1001, simple constant recording or smart recording using modern intelligent analytics, Genie can oblige. Perhaps a total solution, including integration with fully functional biometric access control systems? Absolutely.
+Whatever you need, we have the talent, the experience and the tenacity to exceed your expectations. Get in touch today.
+Suppliers to
+Bio Access
+Case Study
+Base jump
+Base Jump is the biggest trampoline park in the South East of England…
+Learn more
+Access Control
+Case Study
+The Old Tollgate Hotel
+Based in Steyning, West Sussex, and just 10 miles north of Brighton, the Best Western Plus Old Tollgate Hotel is one of the finest hotels within the area. The Challenge Due to the current circumstance of COVID-19, the hotel needed to put procedures in place in order to re-open their doors. With many other measures … Continued
+Learn more
+Keep up to date with
+the latest from Genie
+Sign up today and keep up to date with the latest Genie CCTV and access control news and product announcements.
+Email (Required)
+CAPTCHA
+Submit
+Home
+News
+Privacy Policy
+About Genie Solutions
+Genie Case Studies
+CCTV
+Access Control
+Support
+Cybersecurity
+Contact
+About Us
+F.A.Q’s
+Shop
+My Account
+Terms & Conditions
+Warranty Statement & Returns Procedure
+Sales
++44(0)1707 330541
+Enquiries
+[email protected]
+Returns
+[email protected]
+© Bioaccess Sales Ltd
+Registered Office : c/o Becktech Limited, Terminus Road, Chichester, West Sussex, PO19 8DW | Registered in
+England 12058650 | VAT Number: 325 6941 88

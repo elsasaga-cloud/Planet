@@ -2,51 +2,32 @@
  "code": "SB-509",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "在线（starlink.co.kr，快照 2026-10-21）",
- "summary": "韩国 유비큐넷 Ubiqnet / Starlink（网络方案与分销专业企业：Starlink 自有品牌、HP、Cisco、Netgear、Soltech，综合布线；表内「工业 FS MC EoC 自己的标；也卖一些思科 HPE 交换机」「和 Soltech 有合作」「质量高」；KP Jaesik Lee）；群发 23 次无回复。",
- "type": "韩国网络分销商（自有 Starlink 标，Soltech 合作）",
+ "website_status": "快照失败（http_error）",
+ "summary": "韩国 iOne Tech（ionetech.com / ione.kr；表内「在找工业管理」、阿里巴巴询盘「8 光 8 管理」；KP CEO Kim「可以尝试多跟进一下」；官网 http_error）；群发 19 次无回复。",
+ "type": "工业网络公司（韩国，8 光 8 管理询盘）",
  "size": "",
- "brands_seen": [
-  "Soltech",
-  "Cisco",
-  "HPE",
-  "Netgear"
- ],
+ "brands_seen": [],
  "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：유비큐넷 네트워크솔루션 전문기업",
-   "quote": "스타링크, HP, 시스코, 넷기어, 솔텍, 네트워크장비,통합배선, 유통전문업체",
-   "url": "https://starlink.co.kr/",
-   "date": "2026-10-21"
-  },
   {
    "kind": "用户表",
    "claim": "表内兴趣/备注",
-   "quote": "工业FS MC EOC 自己的标 也卖一些思科 HPE交换机；和Soltech有合作",
+   "quote": "在找工业管理；8光8管理 / from: 阿里巴巴询盘",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   },
   {
-   "kind": "官网快照",
-   "claim": "Ubiqnet 定位",
-   "quote": "유비큐넷 네트워크솔루션 전문기업 ; 스타링크, HP, 시스코, 넷기어, 솔텍, 네트워크장비,통합배선, 유통전문업체",
-   "url": "https://starlink.co.kr/",
-   "date": "2026-10-21"
-  },
-  {
    "kind": "用户表",
-   "claim": "自己的标 工业 FS MC EoC；Soltech 合作",
-   "quote": "工业FS MC EOC 自己的标 也卖一些思科 HPE交换机；和Soltech有合作；质量高",
+   "claim": "8 光 8 管理询盘",
+   "quote": "在找工业管理；8光8管理 / from: 阿里巴巴询盘",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
  "kp": [
   {
-   "name": "Jaesik Lee",
-   "title": "（职务待核）",
-   "email": "help@ubiqnet.co.kr",
+   "name": "Kim",
+   "title": "CEO",
+   "email": "cjkim@ione.kr",
    "phone": "",
    "source": "用户表"
   }
@@ -60,79 +41,79 @@
  },
  "company_facts": {
   "hq": "韩国",
-  "other": "官网 starlink.co.kr，语言 ?，快照状态 ok；角色判定来源：用户表"
+  "other": "官网 ionetech.com，语言 ?，快照状态 http_error；角色判定来源：待核"
  },
  "business_lines": [
-  "网络设备分销（自有品牌 Starlink；HP / Cisco / Netgear / Soltech）",
-  "综合布线"
+  "工业网络（韩国）"
  ],
  "channels": {
-  "role": "韩国网络分销商（自有 Starlink 标，Soltech 合作）",
+  "role": "工业网络公司（韩国，8 光 8 管理询盘）",
   "region": "韩国",
-  "contact": "help@ubiqnet.co.kr、ubiqnet@ubiqnet.co.kr"
+  "contact": "cjkim@ione.kr"
  },
  "signals": [
-  "官网：스타링크, HP, 시스코, 넷기어, 솔텍, 네트워크장비,통합배선, 유통전문업체；표内：工业 FS MC EoC 自己的标 也卖一些思科 HPE 交换机；和 Soltech 有合作；质量高"
+  "表内：在找工业管理；8 光 8 管理 / from: 阿里巴巴询盘；KP CEO Kim；可以尝试多跟进一下",
+  "快照：http_error"
  ],
  "risks": [
-  "与 Soltech（韩国厂商）有合作（既定供应）；非主攻区（T5，韩国）；23 次无回复 → 改向 Jaesik Lee 具名首触（职务待核）"
+  "非主攻区（T5，韩国；KC 由客户侧）；官网 http_error；询盘时效待核；19 次无回复 → 改向 CEO 具名续谈"
  ],
  "saga_fit": {
-  "p1": "STI-288GPM",
-  "tier": 30,
-  "why": "自有 Starlink 标工业 FS/MC → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ MC STI-110GE（$24.3）贴标；EoC Saga 不供"
+  "p1": "STI-448DGGGM",
+  "tier": 25,
+  "why": "询盘 8 SFP + 8 GE 管理 → 工业 L2+ 8 GE + 4×1G SFP + 4×2.5G SFP STI-448DGGGM（$205.5 @25%）；PoE 版 STI-448DGGGPM（$220.5）"
  },
- "email_hook": "Mr. Lee, for the industrial switches and media converters under the Starlink label, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed, gigabit MC; CE/RoHS; KC by your side) in your packaging from small lots — which model do your distribution customers reorder most?",
+ "email_hook": "Mr. Kim, following your enquiry for an 8-fibre + 8-copper managed industrial switch: our L2+ model offers 8 × GE with 4 × 1G SFP + 4 × 1G/2.5G SFP (−40~75 °C, 12–58 V redundant, CE/RoHS; PoE version available) from single units, EXW USD, 10–15 days; KC by your side — how many units, and is PoE needed on the copper ports?",
  "mail_review": {
   "binding": {
-   "level": "读而不回（A/S 邮箱 35 封 2024→2026，其中 5 封被打开，0 回；收件 help@ubiqnet.co.kr, ubiqnet@ubiqnet.co.kr；被打开主题「Industrial PoE Switch、Managed Optical Bypass Switch」；Elsa 箱：`to:starlink.co.kr OR to:ubiqnet.co.kr` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 35 / 来 0）（第 74 批(n)））",
-   "type": "韩国网络分销商（自有 Starlink 标，Soltech 合作）",
-   "sieve": "2（有人在读，无人回）",
-   "stop": "读而不回 = 内容未命中或没有当下需求",
-   "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
+   "level": "未触达（A/S 邮箱 32 封 2024→2026，无记录打开，0 回；收件 cjkim@ione.kr；主题多为「Managed Optical Bypass Switch、Marvell Industrial Alert System」；Elsa 箱：`to:ionetech.com OR to:ione.kr` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 32 / 来 0）（第 74 批(n)））",
+   "type": "工业网络公司（韩国，8 光 8 管理询盘）",
+   "sieve": "1（只收到群发）",
+   "stop": "32 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
    "lane": "KR 次级（点名）",
-   "cadence": "一封；回了再说",
-   "evidence": "gmail_digest：out 35，Opened 标签 5（Simon 群发追踪）；用户表：「工业FS MC EOC 自己的标 也卖一些思科 HPE交换机；和Soltech有合作」；研究档 risks：与 Soltech（韩国厂商）有合作（既定供应）；非主攻区（T5，韩国）；23 次无回复 → 改向 Jaesik Lee 具名首触（职务待核）"
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 32；用户表：「在找工业管理；8光8管理 / from: 阿里巴巴询盘」；研究档 risks：非主攻区（T5，韩国；KC 由客户侧）；官网 http_error；询盘时效待核；19 次无回复 → 改向 CEO 具名续谈"
   },
-  "situation": "韩国 유비큐넷 Ubiqnet / Starlink（网络方案与分销专业企业：Starlink 自有品牌、HP、Cisco、Netgear、Soltech，综合布线；表内「工业 FS MC EoC 自己的标；也卖一些思科 HPE 交换机」「和 Soltech 有合作」「质量高」；KP Jaesik Lee）；群发 23 次无回复。",
-  "need": "自有 Starlink 标工业 FS/MC → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ MC STI-110GE（$24.3）贴标；EoC Saga 不供",
-  "breakpoint": "与 Soltech（韩国厂商）有合作（既定供应）；非主攻区（T5，韩国）；23 次无回复 → 改向 Jaesik Lee 具名首触（职务待核）",
+  "situation": "韩国 iOne Tech（ionetech.com / ione.kr；表内「在找工业管理」、阿里巴巴询盘「8 光 8 管理」；KP CEO Kim「可以尝试多跟进一下」；官网 http_error）；群发 19 次无回复。",
+  "need": "询盘 8 SFP + 8 GE 管理 → 工业 L2+ 8 GE + 4×1G SFP + 4×2.5G SFP STI-448DGGGM（$205.5 @25%）；PoE 版 STI-448DGGGPM（$220.5）",
+  "breakpoint": "非主攻区（T5，韩国；KC 由客户侧）；官网 http_error；询盘时效待核；19 次无回复 → 改向 CEO 具名续谈",
   "saga_now": {
-   "p1": "STI-288GPM",
-   "tier": 30,
-   "price": "首触锚价 STI-288GPM $85.5 EXW（主表档位（PDF 上限 $88；SA-026 2025-07 实报 $72 为分销量价）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-19 $65（10G media converter）；群发里他已看到的价（续）：2026-07-24 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-06-21 $220（48 port managed switch）、2025-02-06 $240（24 Port Fiber Switch）、2025-09-29 $280（10G Enterprise SFP Switch）",
-   "why": "自有 Starlink 标工业 FS/MC → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ MC STI-110GE（$24.3）贴标；EoC Saga 不供。已打开的主题（5/35 封有打开记录）：「24 port poe switch」(2024-07-19)、「24 Port Fiber Switch」(2025-02-06)、「Industrial PoE Switch」(2025-07-22)、「Marvell Managed Commercial Switches」(2026-03-18) → 读者兴趣主题类别不明（看原主题）｜已发资料（勿重发）：Product Link_2026Q2(2026-04-03)、Saga Feature List_7.5.x_L2+(2026-06-30)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）",
+   "p1": "STI-448DGGGM",
+   "tier": 25,
+   "price": "换人再触锚价 STI-448DGGGM $205.5 EXW（主表档位（PDF 上限 $220）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-29 $65（10G media converter）；群发里他已看到的价（续）：2026-09-01 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-06-24 $300（48 Port PoE Managed Switch）、2025-09-02 $240（24 Port Fiber Switch）、2025-09-25 $280（10G Enterprise SFP Switch）、2026-06-22 $16000（32 Port 400GB DC Switch）",
+   "why": "询盘 8 SFP + 8 GE 管理 → 工业 L2+ 8 GE + 4×1G SFP + 4×2.5G SFP STI-448DGGGM（$205.5 @25%）；PoE 版 STI-448DGGGPM（$220.5）",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "2026-11",
-   "channel": "A 邮箱 → help@ubiqnet.co.kr",
-   "action": "短信一问（email_hook）",
-   "one_question": "Mr. Lee, for the industrial switches and media converters under the Starlink label, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed, gigabit MC; CE/RoHS; KC by your side) in your packaging from small lots — which model do your distribution customers reorder most? Reference: STI-288GPM at $85.5 USD EXW (MOQ 1, 15-day validity)."
+   "when": "2027-Q1（换人后）",
+   "channel": "A 邮箱 → 具名 KP",
+   "action": "换收件人再发一封（第 75 批(ae) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用；KC stays on your side）；阿里询盘「欠答」开头；PoE 版写 on request；钩子「10–15 days」不写）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
+   "one_question": "Mr. Kim, following your enquiry for an 8-fibre + 8-copper managed industrial switch: our L2+ model offers 8 × GE with 4 × 1G SFP + 4 × 1G/2.5G SFP (−40~75 °C, 12–58 V redundant, CE/RoHS; PoE version available) from single units, EXW USD, 10–15 days; KC by your side — how many units, and is PoE needed on the copper ports? Reference: STI-448DGGGM at $205.5 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
    {
-    "date": "2026-09-11",
+    "date": "2026-09-29",
     "dir": "去",
     "who": "A/S 群发",
-    "quote": "Industrial PoE Switch、Managed Optical Bypass Switch",
-    "why": "35 封 / 5 次打开 / 0 回｜首封 2024-06-21 → 末封 2026-09-11（35 去 / 0 来）",
+    "quote": "Managed Optical Bypass Switch、Marvell Industrial Alert System",
+    "why": "32 封 / 0 次打开 / 0 回｜首封 2024-06-28 → 末封 2026-09-29（32 去 / 0 来）",
     "k": "gmail_digest"
    },
    {
     "date": "2026-10-21",
     "dir": "用户表",
     "who": "Simon",
-    "quote": "工业FS MC EOC 自己的标 也卖一些思科 HPE交换机；和Soltech有合作",
+    "quote": "在找工业管理；8光8管理 / from: 阿里巴巴询盘",
     "why": "表内备注",
     "k": "用户表"
    }
   ],
   "proof_gaps": [],
   "draft_en": {
-   "subject": "One question — Industrial PoE Switch",
-   "body": "Hi Jaesik,\n\nWe have sent you a few mails on \"Industrial PoE Switch\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nMr. Lee, for the industrial switches and media converters under the Starlink label, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed, gigabit MC; CE/RoHS; KC by your side) in your packaging from small lots — which model do your distribution customers reorder most?\n\nReference price: DIN-rail 8-PoE + 2 SFP L2 managed industrial switch, 240 W (STI-288GPM) $85.5 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+   "subject": "Your Alibaba enquiry - 8 fibre + 8 copper managed industrial switch, the proper answer",
+   "body": "Dear Mr. Kim,\n\nYou asked on Alibaba for an 8-fibre + 8-copper managed industrial switch and did not get a proper answer from us - apologies, here it is (the product mails since were general ones).\n\nDIN-rail industrial L2+ managed switch, 8 x Gigabit RJ45 + 4 x 1G SFP + 4 x 1G/2.5G SFP, Marvell-based, -40 to 75 C, redundant 12-58 V DC input, ring redundancy, CE/RoHS - model STI-448DGGGM - $205.5 USD EXW (MOQ 1, 15-day validity); PoE on the copper ports on request. KC stays on your side.\n\nOne question: how many units is the project, and is PoE needed on the copper ports?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
  }

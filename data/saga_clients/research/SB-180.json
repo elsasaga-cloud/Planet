@@ -1,61 +1,42 @@
 {
  "code": "SB-180",
- "name_official": "Iotech-Italia di L. Donato（iotech-italia.net，San Donato Milanese, IT；P.IVA IT-13362610969）",
+ "name_official": "Foline Bilişim Teknolojileri San. ve Tic. Ltd. Şti.（İstanbul Kağıthane, TR；foline.com.tr）",
  "researched_at": "2026-10-21",
  "website_status": "在线",
- "summary": "米兰 San Donato 的工业 IoT/M2M 元器件**分销与技术代表**（个体企业，1 人，2019 年成立、自述 30 年经验；原 L2-Consulting di Luca Sivori 同址）：产品线含 Modbus 数据记录仪、I/O 模块、4G/5G 工业路由器（Wlink）、RFID（Inveo）、串口-以太网转换器、PDU、能量表、**工业以太网交换机**等，代理 egnite、DLM、Infinite 等品牌；「不是电商，是顾问与技术商务支持」。用户表：WhatsApp 已加，13 次跟进 0 回复。",
+ "summary": "伊斯坦布尔 Kağıthane 的数据中心/弱电工程商 Foline Bilişim（业务：数据中心与集装箱数据中心、弱电系统、结构化布线的工程/咨询/实施；CCTV、电话交换机、考勤门禁、紧急广播、火灾探测、维保；销售办公室 Premier Kampüs Kağıthane İmrahor Cd. No:29 B Blok K3/302；0 212 535 00 33；info@foline.com.tr；总经理 Mahmut Cesur）。ISAF 记录：没做交谈、拿了名片；WhatsApp 已加（+90 507 225 27 28）；无后续跟进。",
  "type": "",
  "size": "",
- "brands_seen": [
-  "Wlink",
-  "Inveo",
-  "egnite",
-  "DLM"
- ],
+ "brands_seen": [],
  "evidence": [
   {
    "kind": "官网",
-   "claim": "业务定位与品类（含工业交换机）",
-   "quote": "Prodotti e soluzioni per la progettazione, la realizzazione, la conduzione e la manutenzione di macchine e impianti, industriali, M2M, IOT, IIOT, Industria 4.0 … - Switch Ethernet Industriali … - Router & Modem 4G, 5G industriali … NON SIAMO un sito e-commerce, cerchiamo di essere prima di tutto un CONSULENTE per i nostri clienti e un SUPPORTO TECNICO-COMMERCIALE in Italia per i brand che promuoviamo e distribuiamo.",
-   "url": "https://www.iotech-italia.net/",
+   "claim": "业务范围",
+   "quote": "FOLINE BİLİŞİM TEKNOLOJİLERi Deneyimli Kadrosu İle Veri Merkezleri, Konteyner Veri Merkezleri, Zayıf Akım Sistemleri ve Yapısal Kablolama Sistemleri konularında mühendislik, danışmanlık ve uygulama hizmetleri vermektedir … CCTV Çözümleri … Telefon Santrali … Personel Takip Ve Geçiş Sistemleri … Acil Anons … Yangın Algılama",
+   "url": "https://foline.com.tr/",
    "date": "2026-10-21"
   },
   {
    "kind": "官网",
    "claim": "地址与联系方式",
-   "quote": "IOTECH-ITALIA Via G. di Vittorio 19 - 20097 San Donato M.se Tel: +39 339 2514 712 eMail: info@iotech-italia.net - admin@iotech-italia.net",
-   "url": "https://www.iotech-italia.net/contatti",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "法人与税号",
-   "quote": "Iotech-Italia di L. Donato - P.IVA IT-13362610969 - Via G. Di Vittorio 19 - 20097 - San Donato Milanese (Mi) - Italia",
-   "url": "https://www.iotech-italia.net/wlink-tech",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "LinkedIn",
-   "claim": "规模与成立年",
-   "quote": "Iotech-Italia è un DISTRIBUTORE di PRODOTTI e SOLUZIONI destinati principalmente ad APPLICAZIONI PROFESSIONALI & INDUSTRIALI … Dimensioni dell'azienda: 1 dipendente Sede principale: Milano Tipo: Ditta individuale Data di fondazione: 2019",
-   "url": "https://it.linkedin.com/company/iotech-italia",
+   "quote": "Telefon : 0 212 535 00 33 … info@foline.com.tr … Satış Ofisi: Premier Kampüs Kağıthane Gürsel, İmrahor Cd. No: 29, B Blok Kat 3/302 34400 Kağıthane/İstanbul",
+   "url": "https://foline.com.tr/iletisim/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "WhatsApp 已加；13 次跟进 0 回复",
-   "quote": "（用户表字段）",
+   "claim": "ISAF：拿名片未交谈；WhatsApp 已加",
+   "quote": "没做交谈， 拿了名片 / 90 50722 52728 已加",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
  "kp": [
   {
-   "name": "L. Donato",
-   "role": "业主（官网版权栏「Iotech-Italia di L. Donato」）",
-   "email": "info@iotech-italia.net（公司公开）",
-   "phone": "+39 339 2514 712",
-   "source": "https://www.iotech-italia.net/wlink-tech"
+   "name": "Mahmut Cesur",
+   "role": "Genel Müdür（用户表名片）",
+   "email": "mahmut.cesur@foline.com.tr（用户表）",
+   "phone": "+90 507 225 27 28（用户表，WhatsApp 已加）",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
   }
  ],
  "grade_override": null,
@@ -66,93 +47,76 @@
   "level": "B 级加厚 v1（官网核对）"
  },
  "company_facts": {
-  "legal_name": "Iotech-Italia di L. Donato（ditta individuale；P.IVA IT-13362610969）",
-  "founded": "2019（LinkedIn）",
-  "hq": "Via G. di Vittorio 19, 20097 San Donato Milanese (MI), Italia（+39 339 2514 712；info@iotech-italia.net / admin@iotech-italia.net）",
-  "size": "1 人",
-  "other": "面向机器/设备设计者、制造商、安装与维护商；品类列表含「Switch Ethernet Industriali」、「Router & Modem 4G, 5G industriali」、「Convertitori Seriale - Ethernet」"
+  "legal_name": "Foline Bilişim Teknolojileri San. ve Tic. Ltd. Şti.",
+  "hq": "Premier Kampüs, Kağıthane Gürsel, İmrahor Cd. No:29 B Blok Kat 3/302, 34400 Kağıthane / İstanbul（+90 212 535 00 33；info@foline.com.tr）",
+  "size": "待核（中小型工程商）",
+  "other": "数据中心 + 集装箱数据中心 + 弱电 + 结构化布线；守界：火灾探测主系统不供"
  },
  "business_lines": [
-  "工业 IoT/M2M 元器件分销（数据记录、I/O、RFID、路由器、交换机）",
-  "国外品牌在意技术代表（egnite、DLM、Infinite、Wlink、Inveo、Hi-Flying）"
+  "数据中心/集装箱数据中心工程",
+  "弱电系统（CCTV、门禁考勤、广播、电话交换机）与结构化布线"
  ],
  "channels": {
-  "网站": "https://www.iotech-italia.net/",
-  "电话": "+39 339 2514 712（官网公开）",
-  "邮箱（公开）": "info@iotech-italia.net"
+  "网站": "https://foline.com.tr/",
+  "电话": "+90 212 535 00 33（公开）",
+  "邮箱（公开）": "info@foline.com.tr"
  },
  "signals": [
-  "目录已有「工业以太网交换机」类目 + 代理模式 → 可作 Saga STI 系列在意大利的技术代表/小分销；配合其 4G 路由器成套"
+  "数据中心/集装箱 DC 项目需机架式 24 口 + 10G 上联 L2/L3 与 PoE 接入（CCTV/门禁）→ 一次项目 BOM 即可成单；总经理直接可达（WhatsApp）"
  ],
  "risks": [
-  "一人公司，量小；13 次跟进 0 回复——需以「代理 STI 工业系列」而非单台报价切入"
+  "ISAF 仅交换名片、需求未表达；无后续跟进"
  ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
-  "tier": 20,
-  "why": "分销/代表 20% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理，−40~+75 ℃）入其工业交换机类目；非 PoE STI-280DGGM；4 口 STI-144GP"
+  "p1": "STC-424DGGPM-280W",
+  "tier": 25,
+  "why": "工程 25% 档：STC-424DGGPM-280W（24 GE PoE+ 4 SFP L2+，280 W，$140.1）作弱电机柜标准接入；DC 汇聚 STC-424XGGM(L3)（24 GE + 4×10G，$280.3）；工业柜 STI-288GP（$59.8）"
  },
- "email_hook": "For the Switch Ethernet Industriali line on iotech-italia.net, a Marvell-based DIN 8-port PoE+ managed switch with 2 SFP (−40 to +75 °C, 12–58 V) at $137.5 EXW complements the Wlink routers you represent; would a datasheet in Italian-ready format help?",
+ "email_hook": "Mahmut Bey, ISAF'ta kartvizit alışverişinden sonra: konteyner veri merkezi ve zayıf akım projeleriniz için 24 port PoE+ (280 W) + 4 SFP L2+ switch EXW 140,1 USD — önümüzdeki projede kaç adet erişim switch'i gerekiyor, BOM üzerinden fiyatlandırayım mı?",
  "mail_review": {
   "binding": {
-   "level": "未触达（A/S 邮箱 21 封 2024→2026，无记录打开，0 回；收件 info@iotech-italia.net；主题多为「Marvell Industrial Alert System、48 Port 10G Core Switch」；Elsa 箱：`to:iotech-italia.net` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 21 / 来 0）（第 74 批(j)））",
+   "level": "轻度触达（展会名片 + WhatsApp 已加，邮件 0 封）：用户表「没做交谈， 拿了名片 / 90 50722 52728 已加」；S/A 邮箱 0 封；Elsa 箱：`to:foline.com.tr` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(i)）",
    "type": "—",
-   "sieve": "1（只收到群发）",
-   "stop": "只打通用邮箱，无记录打开",
-   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句；WhatsApp 已加 → 唤醒走 WhatsApp 一句话，不走邮件",
-   "lane": "意大利（欧洲全域主攻）",
+   "sieve": "3（已加 WhatsApp，表内有往来）",
+   "stop": "仓库只有用户表一行；往来在 Simon 手机",
+   "revive": "首封邮件（A 邮箱，按 email_hook）+ WhatsApp 一句话",
+   "lane": "土耳其 非主攻",
    "cadence": "一封",
-   "evidence": "gmail_digest：out 21；用户表：「（用户表字段）」；研究档 risks：一人公司，量小；13 次跟进 0 回复——需以「代理 STI 工业系列」而非单台报价切入"
+   "evidence": "gmail_digest：out 0；用户表：「没做交谈， 拿了名片 / 90 50722 52728 已加」；研究档 risks：ISAF 仅交换名片、需求未表达；无后续跟进"
   },
-  "situation": "米兰 San Donato 的工业 IoT/M2M 元器件**分销与技术代表**（个体企业，1 人，2019 年成立、自述 30 年经验；原 L2-Consulting di Luca Sivori 同址）：产品线含 Modbus 数据记录仪、I/O 模块、4G/5G 工业路由器（Wlink）、RFID（Inveo）、串口-以太网转换器、PDU、能量表、**工业以太网交换机**等，代理 egnite、DLM、Infinite 等品牌；「不是电商，是顾问与技术商务支持」。用户表：WhatsApp 已加，13 次跟进 0 回复。",
-  "need": "分销/代表 20% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理，−40~+75 ℃）入其工业交换机类目；非 PoE STI-280DGGM；4 口 STI-144GP",
-  "breakpoint": "一人公司，量小；13 次跟进 0 回复——需以「代理 STI 工业系列」而非单台报价切入",
+  "situation": "伊斯坦布尔 Kağıthane 的数据中心/弱电工程商 Foline Bilişim（业务：数据中心与集装箱数据中心、弱电系统、结构化布线的工程/咨询/实施；CCTV、电话交换机、考勤门禁、紧急广播、火灾探测、维保；销售办公室 Premier Kampüs Kağıthane İmrahor Cd. No:29 B Blok K3/302；0 212 535 00 33；info@foline.com.tr；总经理 Mahmut Cesur）。ISAF 记录：没做交谈、拿了名片；WhatsApp 已加（+90 507 225 27 28）；无后续跟进。",
+  "need": "工程 25% 档：STC-424DGGPM-280W（24 GE PoE+ 4 SFP L2+，280 W，$140.1）作弱电机柜标准接入；DC 汇聚 STC-424XGGM(L3)（24 GE + 4×10G，$280.3）；工业柜 STI-288GP（$59.8）",
+  "breakpoint": "ISAF 仅交换名片、需求未表达；无后续跟进",
   "saga_now": {
-   "p1": "STI-288DGGPM",
-   "tier": 20,
-   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-05 $65（10G media converter）；群发里他已看到的价（续，第 66 批全量复核）：2024-07-04 $220（48 port managed switch）、2025-10-16 $280（10G Enterprise SFP Switch）（㉕ 封顶：STI-288DGGPM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25）",
-   "why": "分销/代表 20% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理，−40~+75 ℃）入其工业交换机类目；非 PoE STI-280DGGM；4 口 STI-144GP",
+   "p1": "STC-424DGGPM-280W",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "工程 25% 档：STC-424DGGPM-280W（24 GE PoE+ 4 SFP L2+，280 W，$140.1）作弱电机柜标准接入；DC 汇聚 STC-424XGGM(L3)（24 GE + 4×10G，$280.3）；工业柜 STI-288GP（$59.8）",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "2027-Q1（换人后）",
-   "channel": "A 邮箱 → 具名 KP",
-   "action": "换收件人再发一封（第 75 批(ab) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用；英文稿，不混意大利语）；意文一页摘要是提议，Simon 决定）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
-   "one_question": "For the Switch Ethernet Industriali line on iotech-italia.net, a Marvell-based DIN 8-port PoE+ managed switch with 2 SFP (−40 to +75 °C, 12–58 V) at $137.5 EXW complements the Wlink routers you represent; would a datasheet in Italian-ready format help?"
+   "when": "2026-11（Simon）",
+   "channel": "A 邮箱首封 + WhatsApp（Simon）",
+   "action": "首封 + 一句话",
+   "one_question": "Mahmut Bey, ISAF'ta kartvizit alışverişinden sonra: konteyner veri merkezi ve zayıf akım projeleriniz için 24 port PoE+ (280 W) + 4 SFP L2+ switch EXW 140,1 USD — önümüzdeki projede kaç adet erişim switch'i gerekiyor, BOM üzerinden fiyatlandırayım mı?"
   },
   "facts": [
-   {
-    "date": "2026-09-16",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "Marvell Industrial Alert System、48 Port 10G Core Switch",
-    "why": "21 封 / 0 次打开 / 0 回｜首封 2024-07-04 → 末封 2026-09-16（21 去 / 0 来）",
-    "k": "gmail_digest"
-   },
    {
     "date": "2026-10-21",
     "dir": "用户表",
     "who": "Simon",
-    "quote": "（用户表字段）",
+    "quote": "没做交谈， 拿了名片 / 90 50722 52728 已加",
     "why": "表内备注",
     "k": "用户表"
-   },
-   {
-    "date": "2026-09-16",
-    "dir": "去",
-    "who": "A 箱（Alan）",
-    "quote": "16 Port Industrial PoE Switch",
-    "why": "本日去信真实主题（邮箱索引 2b872db780701b81；信稿开头句引用此封；此前稿内写的「Marvell Industrial Alert System」是线程列表首题，不是本封）",
-    "k": "2b872db780701b81"
    }
   ],
   "proof_gaps": [
-   "用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+   "WhatsApp 往来未入库"
   ],
   "draft_en": {
-   "subject": "For the industrial switch line on iotech-italia.net - next to the Wlink routers",
-   "body": "Hello Luca,\n\nOver the past months you had a few product mails from us - most recently \"16 Port Industrial PoE Switch\" on 16 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the industrial Ethernet switch line you represent next to the Wlink routers, at representative/distributor price, EXW, MOQ 1, 15-day validity, -40 to 75 C, CE/RoHS: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, L2+ managed with ring redundancy, Marvell-based - model STI-288DGGPM - $137.5 USD; the non-PoE version - STI-280DGGM - $121; compact 4 x PoE+ + 1 x SFP, unmanaged - STI-144GP - $34.1. English datasheets; an Italian one-page summary I can prepare from your wording.\n\nOne question: do your customers buy the industrial switch with the router as a kit, or separately per cabinet?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+   "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+   "body": "Mahmut Bey, ISAF'ta kartvizit alışverişinden sonra: konteyner veri merkezi ve zayıf akım projeleriniz için 24 port PoE+ (280 W) + 4 SFP L2+ switch EXW 140,1 USD — önümüzdeki projede kaç adet erişim switch'i gerekiyor, BOM üzerinden fiyatlandırayım mı?"
   },
   "as_of": "2026-10-24"
  }

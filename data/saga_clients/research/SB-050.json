@@ -1,125 +1,184 @@
 {
- "code": "SB-050",
- "name_official": "IZUX（瓦伦西亚）",
- "researched_at": "2026-10-21",
- "website_status": "在线（izux.es，快照 2026-10-21，西语）",
- "summary": "西班牙瓦伦西亚安防电商（摄像机、AJAX 报警、可视门铃、门禁、酒店锁；Hikvision、Dahua、Uniview、Ajax；poe 260 / switch 167 / sfp 73；+34 963 320 337），Manager Igor Guimerá；表内「商用 PoE，CCTV 为主很多配件，有 ONV 的」；群发 6 次无回复。",
- "type": "",
- "size": "",
- "brands_seen": [
-  "ONV",
-  "Hikvision",
-  "Dahua",
-  "Uniview",
-  "Ajax"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "安防摄像机、AJAX 报警、可视门铃、门禁、电子锁电商；品牌 Hikvision / Dahua / Uniview / Ajax；+34 963 320 337",
-   "quote": "Compra cámaras de seguridad y vigilancia, alarmas AJAX, videoporteros, control de acceso… brands Hikvision, Dahua, Uniview, Ajax",
-   "url": "https://izux.es/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "商业 POE CCTV 为主 很多配件 有 ONV 的；网站上有 WA 按钮",
-   "quote": "兴趣：商业POE CCTV为主 很多配件 有ONV的",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Igor Guimerá",
-   "title": "Manager",
-   "email": "comercial@izux.es",
-   "phone": "+34 963 320 337",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照核对 + 表内）"
- },
- "company_facts": {
-  "legal_name": "IZUX（待核）",
-  "founded": "",
-  "hq": "Valencia, Spain",
-  "size": "中小型安防电商",
-  "other": "已售 ONV 商用 PoE"
- },
- "business_lines": [
-  "安防电商"
- ],
- "channels": {
-  "role": "电商（已售 ONV）",
-  "region": "西班牙"
- },
- "signals": [
-  "已售 ONV → 同类替换",
-  "Manager 具名"
- ],
- "risks": [
-  "6 次群发无回复"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 20,
-  "why": "对位 ONV 商用 8 PoE → STC-28DGGPM（$80.7 @20%）；24 PoE STC-424DGGPM-280W。"
- },
- "email_hook": "Igor, junto a los switches ONV que vendéis — 8 PoE + 2 SFP L2+ (Marvell) a $81 y 24 PoE a $135 EXW, caja neutra y fichas CE; ¿probamos 2 unidades para la tienda?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A 邮箱 17 封 2025→2026，无记录打开，0 回；收件 comercial@izux.es；主题多为「Managed Optical Bypass Switch、24 Port PoE Managed Switch」；Elsa 箱：`to:.es` 穷举 15 条（2026-10-25，锚批 Bcc 头已读）未见 izux.es → Elsa 箱从未发过本户，往来只在 S/A 箱（去 17 / 来 0）（第 74 批(f)））",
-   "type": "—",
-   "sieve": "1（只收到群发）",
-   "stop": "17 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "西班牙（欧洲全域主攻）",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 17；用户表：「兴趣：商业POE CCTV为主 很多配件 有ONV的」；研究档 risks：6 次群发无回复"
-  },
-  "situation": "西班牙瓦伦西亚安防电商（摄像机、AJAX 报警、可视门铃、门禁、酒店锁；Hikvision、Dahua、Uniview、Ajax；poe 260 / switch 167 / sfp 73；+34 963 320 337），Manager Igor Guimerá；表内「商用 PoE，CCTV 为主很多配件，有 ONV 的」；群发 6 次无回复。",
-  "need": "对位 ONV 商用 8 PoE → STC-28DGGPM（$80.7 @20%）；24 PoE STC-424DGGPM-280W。",
-  "breakpoint": "6 次群发无回复",
-  "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 20,
-   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-22 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-06-06 $300（48 Port PoE Managed Switch）、2025-10-02 $280（10G Enterprise SFP Switch）",
-   "why": "对位 ONV 商用 8 PoE → STC-28DGGPM（$80.7 @20%）；24 PoE STC-424DGGPM-280W。",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开",
-   "one_question": "Igor, junto a los switches ONV que vendéis — 8 PoE + 2 SFP L2+ (Marvell) a $81 y 24 PoE a $135 EXW, caja neutra y fichas CE; ¿probamos 2 unidades para la tienda?"
-  },
-  "facts": [
-   {
-    "date": "2026-09-30",
-    "dir": "去",
-    "who": "A 群发",
-    "quote": "Managed Optical Bypass Switch、24 Port PoE Managed Switch",
-    "why": "17 封 / 0 次打开 / 0 回｜首封 2025-04-04 → 末封 2026-09-30（17 去 / 0 来）",
-    "k": "gmail_digest"
-   },
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "兴趣：商业POE CCTV为主 很多配件 有ONV的",
-    "why": "表内备注",
-    "k": "用户表"
-   }
+  "code": "SB-050",
+  "name_official": "PT. Anugerah（印度尼西亚）",
+  "website_status": "未单独检索（仅用户记录）",
+  "summary": "印尼公司，2011 年买过 12 台延长器，E 冷名单 1 次跟进 0 回复。",
+  "type": "经销/集成商",
+  "size": "待补证",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "用户记录",
+      "claim": "2011 年买过 12 台延长器",
+      "quote": "2011年买过12台延长器（用户 Clients 表摘录）",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "kp": [
+    {
+      "name": "（见 Clients 表联系人）",
+      "role": "",
+      "email": "",
+      "phone": "",
+      "source": "用户 Clients 表"
+    }
+  ],
+  "grade_override": "B",
+  "override_reason": "2011 年一次小额成交后沉寂 14 年、公司名不完整（PT. Anugerah 为常见前缀，主体待核）→ B 待机。",
+  "notes": "回访一封；待补证：完整公司名与网站。",
+  "researched_at": "2026-10-21",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（基于首轮调研整理 + 需求映射）"
+  },
+  "company_facts": {
+    "legal_name": "PT. Anugerah（pt-aag.co.id；全称待核）",
+    "hq": "Indonesia",
+    "size": "待核",
+    "other": "2011 年买过 12 台延长器；E 冷名单 1 次跟进"
+  },
+  "business_lines": [
+    "（待核）网络/安防设备贸易"
+  ],
+  "channels": {
+    "邮箱": "gunawan@pt-aag.co.id（用户表）"
+  },
+  "signals": [
+    "老客户（2011 延长器 12 台）→ 延长器类不在 Saga 现 SKU（Q-32），改推 PoE 交换机"
+  ],
+  "risks": [
+    "延长器 SKU 缺口；亚太非主攻区；1 次跟进无回复"
+  ],
+  "saga_fit": {
+    "p1": "STC-228GP",
+    "tier": 25,
+    "why": "默认 25% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，$30.8）替代延长器做远端接入（光纤 + PoE）；延长器待 Q-32"
+  },
+  "email_hook": "Pak Nur / Pak Gunawan, after the 12 extenders in 2011: for long-reach camera links we now recommend a 2× SFP + 8× PoE switch at $34.6 EXW (fibre instead of extenders) — are your current projects still copper-extender based, or moving to fibre?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（S 邮箱 6 封 2024，无记录打开，0 回；收件 gunawan@pt-aag.co.id；主题多为「48 port managed switch、Industrial poe switch」）；Elsa 1:1 去信 9 轮 2025-04-30→2026-08-10（To 仅本户 gunawan@pt-aag.co.id；Bcc 未逐封读头；同类名单抽读 24 封均无 Bcc；主题 Marvell Industrial Alert System、Updated Ethernet Switches Links、Marvell Managed Commercial Switches、24 Port PoE Managed Switch…；0 回（Elsa 箱无 Re: 行））（第 74 批(m) `from:e.sagatelecom to:` 全程 complete，直收 9 条）",
+      "type": "经销/集成商",
+      "sieve": "1（只收到群发）",
+      "stop": "6 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+      "revive": "保持季度群发到 2027-Q1；无打开即停",
+      "lane": "印度尼西亚 非主攻",
+      "cadence": "季度",
+      "evidence": "gmail_digest：out 6；研究档 risks：延长器 SKU 缺口；亚太非主攻区；1 次跟进无回复"
+    },
+    "situation": "印尼公司，2011 年买过 12 台延长器，E 冷名单 1 次跟进 0 回复。",
+    "need": "默认 25% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，$30.8）替代延长器做远端接入（光纤 + PoE）；延长器待 Q-32",
+    "breakpoint": "延长器 SKU 缺口；亚太非主攻区；1 次跟进无回复",
+    "saga_now": {
+      "p1": "STC-228GP",
+      "tier": 25,
+      "price": "Realtek 线按 HRUI 2026-09-30 进价 +25% 现算（Q-47 默认，不用 Drive 旧表价）：STC-228GP $30.8→$34.6；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-06 $65（10G Media Converter）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-06-09 $300（48 Port PoE Managed Switch = STC-448XGGPM，Elsa 箱 1 轮 2025-06-09；现表 $335.4@20%、Drive 老表 $335——同款写 $335 要先说 2025 群发是 $300、汇率 7.2→6.7）；2026-05-07 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 2 轮 2025-10-08→2026-05-07；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-08-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-10；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
+      "why": "默认 25% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，$30.8）替代延长器做远端接入（光纤 + PoE）；延长器待 Q-32",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "群发节奏",
+      "channel": "A 邮箱",
+      "action": "首封前知悉：Elsa 已 1:1 去信 9 轮（2025-04-30→2026-08-10，0 回）（第 74 批(m)）；观察打开",
+      "one_question": "Pak Nur / Pak Gunawan, after the 12 extenders in 2011: for long-reach camera links we now recommend a 2× SFP + 8× PoE switch at $34.6 EXW (fibre instead of extenders) — are your current projects still copper-extender based, or moving to fibre?"
+    },
+    "facts": [
+      {
+        "date": "2024-12-04",
+        "dir": "去",
+        "who": "S 群发",
+        "quote": "48 port managed switch、Industrial poe switch",
+        "why": "6 封 / 0 次打开 / 0 回｜首封 2024-07-05 → 末封 2024-12-04（6 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
+        "date": "2025-04-30",
+        "dir": "out",
+        "who": "Elsa → gunawan@pt-aag.co.id",
+        "quote": "8 Port Industrial PoE Switch（Elsa 1:1 逐月名单第 1/9 轮；To 仅本户）",
+        "why": "第 74 批(m) `from:e.sagatelecom to:gunawan@pt-aag.co.id` 全程 complete：9 轮直收；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "1968675f6ca5bda1"
+      },
+      {
+        "date": "2025-06-09",
+        "dir": "out",
+        "who": "Elsa → gunawan@pt-aag.co.id",
+        "quote": "48 Port PoE Managed Switch（Elsa 1:1 逐月名单第 2/9 轮；To 仅本户；正文价 300usd/pc，第 74 批(p) 读稿 msg 194eff1f9bf46879 / 1973a613b8166b58）",
+        "why": "第 74 批(m) `from:e.sagatelecom to:gunawan@pt-aag.co.id` 全程 complete：9 轮直收；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "1975285f4c7542e4"
+      },
+      {
+        "date": "2025-10-08",
+        "dir": "out",
+        "who": "Elsa → gunawan@pt-aag.co.id",
+        "quote": "10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 3/9 轮；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
+        "why": "第 74 批(m) `from:e.sagatelecom to:gunawan@pt-aag.co.id` 全程 complete：9 轮直收；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "199c30357d1039cb"
+      },
+      {
+        "date": "2025-12-11",
+        "dir": "out",
+        "who": "Elsa → gunawan@pt-aag.co.id",
+        "quote": "Booster PoE Switch（Elsa 1:1 逐月名单第 4/9 轮；To 仅本户）",
+        "why": "第 74 批(m) `from:e.sagatelecom to:gunawan@pt-aag.co.id` 全程 complete：9 轮直收；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "19b0ba3256e36607"
+      },
+      {
+        "date": "2026-01-06",
+        "dir": "out",
+        "who": "Elsa → gunawan@pt-aag.co.id",
+        "quote": "Marvell Industrial Alert System（Elsa 1:1 逐月名单第 5/9 轮；To 仅本户）",
+        "why": "第 74 批(m) `from:e.sagatelecom to:gunawan@pt-aag.co.id` 全程 complete：9 轮直收；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "19b921af926e863f"
+      },
+      {
+        "date": "2026-02-27",
+        "dir": "out",
+        "who": "Elsa → gunawan@pt-aag.co.id",
+        "quote": "Updated Ethernet Switches Links（Elsa 1:1 逐月名单第 6/9 轮；To 仅本户）",
+        "why": "第 74 批(m) `from:e.sagatelecom to:gunawan@pt-aag.co.id` 全程 complete：9 轮直收；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "19c9de5a86f668ee"
+      },
+      {
+        "date": "2026-03-30",
+        "dir": "out",
+        "who": "Elsa → gunawan@pt-aag.co.id",
+        "quote": "Marvell Managed Commercial Switches（Elsa 1:1 逐月名单第 7/9 轮；To 仅本户）",
+        "why": "第 74 批(m) `from:e.sagatelecom to:gunawan@pt-aag.co.id` 全程 complete：9 轮直收；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "19d3e0afaa0a98e5"
+      },
+      {
+        "date": "2026-05-07",
+        "dir": "out",
+        "who": "Elsa → gunawan@pt-aag.co.id",
+        "quote": "10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 8/9 轮；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
+        "why": "第 74 批(m) `from:e.sagatelecom to:gunawan@pt-aag.co.id` 全程 complete：9 轮直收；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "19e009894d0351a5"
+      },
+      {
+        "date": "2026-08-10",
+        "dir": "out",
+        "who": "Elsa → gunawan@pt-aag.co.id",
+        "quote": "24 Port PoE Managed Switch … Price: 170USD/PC（第 9 轮；此前 2025-04-30 / 06-09 / 10-08 / 12-11、2026-01-06 / 02-27 / 03-30 / 05-07）",
+        "why": "本户不是 BCC 群发对象，而是 Elsa 的 1:1 月度序列收件人（9 轮无 Bcc）；S 箱 6 封 + Elsa 9 封 = 15 封 0 回 → 「未触达」应改读为「读而不回/地址冷」",
+        "k": "elsa_1to1",
+        "msg_id": "19fea7899c2e971b"
+      }
+    ],
+    "proof_gaps": [
+      "Elsa 9 轮 1:1 是否有打开记录未核（Elsa 箱无 Opened 标签）"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

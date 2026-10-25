@@ -1,0 +1,73 @@
+{
+ "code": "SC-131",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（metatronix.it，快照 2026-10-21）",
+ "summary": "意大利 Metatronix（公共交通 ITS 方案：车载集成 ITS、后台系统，供应主要客车制造商与公交运营商；表内「Public transport」）；表内 4 次跟进无回复。",
+ "type": "车载 ITS 方案商（公共交通，守界）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Home；品类词 安防监控（CCTV / 门禁） / 布线 / 线缆 / 网络交换 / PoE",
+   "quote": "Metatronix Web site",
+   "url": "https://www.metatronix.it/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "Public transport",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Metatronix 定位",
+   "quote": "Innovative ITS solutions for Public Transport ; Integrated ITS Systems ; We supply our solutions to the main Bus Manufacturers ; PTOs using our technologies",
+   "url": "https://www.metatronix.it/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "Public transport",
+   "quote": "Public transport",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "守界：Metatronix 车载公共交通 ITS（车规认证要求），Saga 不做车载；c_sub=守界（车载/轨道）",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "意大利",
+  "other": "官网 metatronix.it，语言 ?，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "公共交通车载 ITS"
+ ],
+ "channels": {
+  "role": "车载 ITS 方案商（公共交通，守界）",
+  "region": "意大利",
+  "contact": "info@metatronix.it"
+ },
+ "signals": [
+  "首页 Innovative ITS solutions for Public Transport ; Integrated ITS Systems ; Back-office Systems ; We supply our solutions to the main Bus Manufacturers ; PTOs using our technologies；站内 IP66-67",
+  "表内：Public transport"
+ ],
+ "risks": [
+  "守界：车载公共交通 ITS（客车制造商供应链，车规认证 E-mark / EN 50155 类），Saga 不做车载"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 25,
+  "why": "车载（客车）ITS 设备需 E-mark/EN 50155 类车规认证——Saga 不做车载 → 改 C（守界）"
+ },
+ "email_hook": "（不发送：车载守界）"
+}

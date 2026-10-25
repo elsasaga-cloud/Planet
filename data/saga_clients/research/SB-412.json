@@ -1,124 +1,106 @@
 {
- "code": "SB-412",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（steplockaccess.se，快照 2026-10-21）",
- "summary": "瑞典 StepLock Access（门禁/锁具系统公司；表内「云管理 PoE，能支持 PoE 状态和开/关；给客户演示了 2 光 10 电的网管界面，客户比较专业」；KP Peter）；表内 6 次跟进无回复。",
- "type": "门禁系统公司（瑞典，网管 PoE 配套）",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：StepLock",
-   "quote": "",
-   "url": "https://steplock.com/SE/sv/access",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "云管理PoE 能支持PoE状态和开/关 给客户演示了2光10电的网管界面，客户比较专业",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "云管理 PoE 演示网管界面",
-   "quote": "云管理PoE 能支持PoE状态和开/关 给客户演示了2光10电的网管界面，客户比较专业",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Peter",
-   "title": "（职务待核）",
-   "email": "peter@steplockaccess.se",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "瑞典",
-  "other": "官网 steplockaccess.se，语言 en，快照状态 ok；角色判定来源：待核"
- },
- "business_lines": [
-  "门禁 / 锁具系统（瑞典）"
- ],
- "channels": {
-  "role": "门禁系统公司（瑞典，网管 PoE 配套）",
-  "region": "瑞典",
-  "contact": "peter@steplockaccess.se"
- },
- "signals": [
-  "表内：云管理 PoE 能支持 PoE 状态和开/关 给客户演示了 2 光 10 电的网管界面，客户比较专业；KP Peter",
-  "快照：StepLock（内容空）"
- ],
- "risks": [
-  "需求含云管理（Saga 不做，仅本地 Web/SNMP）；6 次无回复 → 跟进演示后续；官网快照空"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 30,
-  "why": "PoE 口状态/开关控制 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%，Web 管理每口 PoE 开关）贴 StepLock 标；云管理 Saga 不做（注明）"
- },
- "email_hook": "Peter, following the web-UI demo of the 2-fibre + 10-copper switch: our Marvell-based 8-PoE + 2 SFP L2+ supports per-port PoE status and remote on/off via web/SNMP (no cloud, local management) and can carry the StepLock label from small lots, CE/RoHS — would per-port PoE scheduling and reset meet your access-control use case?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A 邮箱 10 封 2025→2026，无记录打开，0 回；收件 peter@steplockaccess.se；主题多为「90W PoE Managed Switch、Marvell Industrial Alert System」；Elsa 箱：`to:.se` 穷举 12 条（2026-10-25，锚批 Bcc 头已读）未见 steplockaccess.se → Elsa 箱从未发过本户，往来只在 S/A 箱（去 10 / 来 0）（第 74 批(f)））",
-   "type": "门禁系统公司（瑞典，网管 PoE 配套）",
-   "sieve": "1（只收到群发）",
-   "stop": "10 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "瑞典（欧洲全域主攻）",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 10；用户表：「云管理PoE 能支持PoE状态和开/关 给客户演示了2光10电的网管界面，客户比较专业」；研究档 risks：需求含云管理（Saga 不做，仅本地 Web/SNMP）；6 次无回复 → 跟进演示后续；官网快照空"
-  },
-  "situation": "瑞典 StepLock Access（门禁/锁具系统公司；表内「云管理 PoE，能支持 PoE 状态和开/关；给客户演示了 2 光 10 电的网管界面，客户比较专业」；KP Peter）；表内 6 次跟进无回复。",
-  "need": "PoE 口状态/开关控制 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%，Web 管理每口 PoE 开关）贴 StepLock 标；云管理 Saga 不做（注明）",
-  "breakpoint": "需求含云管理（Saga 不做，仅本地 Web/SNMP）；6 次无回复 → 跟进演示后续；官网快照空",
-  "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 30,
-   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-08 $280（10G Enterprise SFP Switch）",
-   "why": "PoE 口状态/开关控制 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%，Web 管理每口 PoE 开关）贴 StepLock 标；云管理 Saga 不做（注明）",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开",
-   "one_question": "Peter, following the web-UI demo of the 2-fibre + 10-copper switch: our Marvell-based 8-PoE + 2 SFP L2+ supports per-port PoE status and remote on/off via web/SNMP (no cloud, local management) and can carry the StepLock label from small lots, CE/RoHS — would per-port PoE scheduling and reset meet your access-control use case?"
-  },
-  "facts": [
-   {
-    "date": "2026-02-26",
-    "dir": "去",
-    "who": "A 群发",
-    "quote": "90W PoE Managed Switch、Marvell Industrial Alert System",
-    "why": "10 封 / 0 次打开 / 0 回｜首封 2025-03-20 → 末封 2026-02-26（10 去 / 0 来）",
-    "k": "gmail_digest"
-   },
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "云管理PoE 能支持PoE状态和开/关 给客户演示了2光10电的网管界面，客户比较专业",
-    "why": "表内备注",
-    "k": "用户表"
-   }
+  "code": "SB-412",
+  "name_official": "InterConnectivity Computer Solutions（菲律宾；表内名）",
+  "researched_at": "2026-10-21",
+  "website_status": "无域名（仅表内信息）",
+  "summary": "菲律宾小型网络工程商（Ronald Dumaguing），2020 年起接触，需求 = 百兆单纤 20 km 小外电收发器，2024 年问 PoE 传输距离、谈 DIP 拨码功能；无邮箱。",
+  "type": "",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "用户表",
+      "claim": "兴趣：百兆小外电单纤 20 公里（2020-11）；2024-02 问 PoE 距离；谈工业 MC DIP 拨码",
+      "quote": "兴趣：20.11.2 百兆小外电单纤20公里；回复：Poe distance；谈了DIP拨码功能",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "kp": [
+    {
+      "name": "Ronald Dumaguing",
+      "title": "（表内联系人）",
+      "email": "",
+      "phone": "+63 998 593 5820",
+      "source": "（本地 Clients/ 表格，无公开 URL）"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "无域名 · 仅表内信息"
+  },
+  "company_facts": {
+    "legal_name": "（待核）",
+    "founded": "",
+    "hq": "菲律宾（表内）",
+    "size": "小型（推断）",
+    "other": "仅 WhatsApp"
+  },
+  "business_lines": [
+    "网络 / 光纤接入工程（推断）"
+  ],
+  "channels": {
+    "role": "工程商 / 安装商",
+    "region": "菲律宾"
+  },
+  "signals": [
+    "明确型号级需求：100M 单纤 20 km MC + PoE 距离（长距 PoE）"
+  ],
+  "risks": [
+    "无邮箱；需求偏低价 MC"
+  ],
+  "saga_fit": {
+    "p1": "STI-110FE",
+    "tier": 25,
+    "why": "百兆单纤 20 km 外置电源收发器 → Saga 工业 STI-110FE（$19.7/20.6/21.4）；商用桌面 mini MC Saga 价目无，需按 SmartByte 型号报并注明。"
+  },
+  "email_hook": "（无邮箱；WhatsApp：For your 100M single-fibre 20 km links we have a DIN-rail/desktop MC with DIP-switch options — want the datasheet and a 1-pc sample price?）",
+  "mail_review": {
+    "binding": {
+      "level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：20.11.2 百兆小外电单纤20公里；回复：Poe distance；谈了DIP拨码功能」）；Elsa 箱无可查地址（仓内无此户任何邮箱/域名——用户表/WhatsApp/展会名片户，`from:e.sagatelecom to:` 无从下手；Elsa 群发是否碰过他无法判定，不写「未触达」）（第 74 批(o)）",
+      "type": "—",
+      "sieve": "—（未入筛）",
+      "stop": "从未触达",
+      "revive": "不动（非主攻区；J5：有证据再动）",
+      "lane": "菲律宾 非主攻",
+      "cadence": "不动",
+      "evidence": "gmail_digest：out 0；用户表：「兴趣：20.11.2 百兆小外电单纤20公里；回复：Poe distance；谈了DIP拨码功能」；研究档 risks：无邮箱；需求偏低价 MC"
+    },
+    "situation": "菲律宾小型网络工程商（Ronald Dumaguing），2020 年起接触，需求 = 百兆单纤 20 km 小外电收发器，2024 年问 PoE 传输距离、谈 DIP 拨码功能；无邮箱。",
+    "need": "百兆单纤 20 km 外置电源收发器 → Saga 工业 STI-110FE（$19.7/20.6/21.4）；商用桌面 mini MC Saga 价目无，需按 SmartByte 型号报并注明。",
+    "breakpoint": "无邮箱；需求偏低价 MC",
+    "saga_now": {
+      "p1": "STI-110FE",
+      "tier": 25,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "百兆单纤 20 km 外置电源收发器 → Saga 工业 STI-110FE（$19.7/20.6/21.4）；商用桌面 mini MC Saga 价目无，需按 SmartByte 型号报并注明。",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "不动",
+      "channel": "—",
+      "action": "—",
+      "one_question": ""
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "兴趣：20.11.2 百兆小外电单纤20公里；回复：Poe distance；谈了DIP拨码功能",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [
+      "无邮件往来",
+      "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

@@ -1,0 +1,58 @@
+{
+ "code": "SC-103",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "无域名",
+ "summary": "斯洛文尼亚「Kimax」（2014 年阿里巴巴 RFQ「8 口商业 PoE」；KP Miroslav Kral，仅 gmail（kingslovakia@）；无公司域名）；表内未跟进。",
+ "type": "陈旧个人 RFQ（2014，免费邮箱）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "8口商业PoE；2014年使用国际站；8口商业PoE / from: 阿里巴巴RFQ",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "2014 8 口商业 PoE RFQ",
+   "quote": "2014年使用国际站 / 8口商业PoE / from: 阿里巴巴RFQ",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "陈旧询盘（2014）且免费邮箱；c_sub=陈旧询盘/个人买家",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "斯洛文尼亚",
+  "other": "无官网快照；角色判定来源：待核"
+ },
+ "business_lines": [
+  "（陈旧 RFQ）"
+ ],
+ "channels": {
+  "role": "陈旧个人 RFQ（2014，免费邮箱）",
+  "region": "斯洛文尼亚",
+  "contact": "kingslovakia@gmail.com"
+ },
+ "signals": [
+  "表内：2014 年使用国际站 / 8 口商业 PoE / from: 阿里巴巴 RFQ；KP Miroslav Kral；kingslovakia@gmail.com"
+ ],
+ "risks": [
+  "陈旧询盘（2014 年）；仅 gmail 免费邮箱、无公司域名；小国"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 20,
+  "why": "2014 年陈旧 RFQ、仅免费邮箱、无公司域名 → 改 C"
+ },
+ "email_hook": "（不发送：陈旧个人 RFQ）"
+}

@@ -1,0 +1,66 @@
+{
+ "code": "SC-061",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "快照失败（parked_or_empty）",
+ "summary": "丹麦 Karsten Gill（gill.dk 为个人网站：摄影/铁路照片；阿里巴巴 RFQ「2+16 商业 Passive PoE」）；表内未跟进。",
+ "type": "个人买家（丹麦）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "2+16商业Passive PoE / from: 阿里巴巴RFQ",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "gill.dk",
+   "quote": "Karsten Gill ; About me ; Photography ; Railway photos",
+   "url": "https://gill.dk/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "2+16 Passive PoE RFQ",
+   "quote": "2+16商业Passive PoE / from: 阿里巴巴RFQ",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "个人买家（个人网站）；c_sub=个人买家",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "丹麦",
+  "other": "官网 gill.dk，语言 en，快照状态 parked_or_empty；角色判定来源：待核"
+ },
+ "business_lines": [
+  "（个人）"
+ ],
+ "channels": {
+  "role": "个人买家（丹麦）",
+  "region": "丹麦",
+  "contact": "mail@gill.dk"
+ },
+ "signals": [
+  "官网：Karsten Gill ; About me ; Photography ; Railway photos（parked_or_empty）",
+  "表内：2+16 商业 Passive PoE / from: 阿里巴巴 RFQ"
+ ],
+ "risks": [
+  "个人买家（个人摄影网站）；Passive PoE 款不在 Saga 列表"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 20,
+  "why": "个人网站/个人 RFQ（Passive PoE 款 Saga 列表无）→ 改 C（个人买家）"
+ },
+ "email_hook": "（不发送：个人）"
+}

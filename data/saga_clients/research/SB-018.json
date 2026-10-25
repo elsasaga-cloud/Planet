@@ -1,148 +1,145 @@
 {
  "code": "SB-018",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（telkolink.com，快照 2026-10-21）",
- "summary": "土耳其 Telkolink Kurumsal Bilgi Teknolojileri（IT 产品供应商：PoE 交换机 / 网络设备 / 光纤系统 / RF 线缆 / 结构化布线 / 工业自动化产品，站内 Katalog PDF；表内「VC 刷了自己的标，合作很密切：FS、机架、MC、SFP 模块；还有三旺、TG-NET、一家台湾公司；在用 CLR（深圳）的 VC；整体外观一般」；KP Yusuf Olcer（Sales Manager））；群发 2 次无回复。",
- "type": "IT 产品分销商 + 自有标（VC 已贴标；FS/MC/SFP 多源）",
- "size": "",
+ "name_official": "Walker Security Systems UG (haftungsbeschränkt)（原 SMART+ Communications UG / smart-protect.nrw，Nettetal, Germany）",
+ "website_status": "在线（新域名 walker-security.systems）",
+ "summary": "德国 Nettetal/Mönchengladbach 的微型安防安装商（UG，2018 年注册，注册资本 6,000 €），Dahua / Jablotron / Ajax 认证安装商，业务：报警、视频监控、门禁、Smart Security、电话系统；CEO Andrew Walker。用户表：A 已回复 1 次（告知更名），「没交流太多，说了做 video system」。",
+ "type": "安防安装商（微型）",
+ "size": "UG，注册资本 6,000 €（2 名管理人员）",
  "brands_seen": [
-  "CLR",
-  "3onedata",
-  "TG-NET"
+  "Dahua",
+  "Jablotron",
+  "Ajax"
  ],
  "evidence": [
   {
-   "kind": "官网快照",
-   "claim": "官网标题：Telkolink Kurumsal Bilgi Teknolojileri；品类词 工业自动化 / OT 网络 / 无线 / WiFi / 光纤 / 媒体转换 / 网络交换 / PoE",
-   "quote": "POE Switch â Network cihazlarÄ± â Fiber Optik Sistemler â RF Kablo â YapÄ±sal Kablolama â EndÃ¼striyel Otomasyon ÃrÃ¼nleri",
-   "url": "http://www.telkolink.com/",
+   "kind": "官网 Impressum",
+   "claim": "法人与联系方式",
+   "quote": "Walker Security Systems UG (haftungsbeschränkt) Geschäftsführer: Andrew Walker Ritzbruch 22, 41334 Nettetal Telefonnummer: +49 2153 909 7740 Mobil: +49 177 322 4215 … Registergericht: Krefeld Registernummer: HRB 20953",
+   "url": "https://walker-security.systems/impressum",
    "date": "2026-10-21"
   },
   {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "VC 刷了自己的标 合作很密切 FS 机架 MC SFP模块；VC 刷了自己的标 合作很密切 FS 机架 MC SFP模块 还有3旺 tg-net 上面的一个台湾公司 整体上看着外观都一般；在用ClR公司的 深圳公司 http://www.clrnetworks.com/products/CLR-HDV-A51_main.html",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "PoE 交换机、网络设备、光纤系统、布线、工业自动化产品",
-   "quote": "POE Switch · Network cihazları · Fiber Optik Sistemler · RF Kablo · Yapısal Kablolama · Endüstriyel Otomasyon Ürünleri",
-   "url": "http://www.telkolink.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "VC 刷了自己的标，FS/机架/MC/SFP 合作密切",
-   "quote": "VC 刷了自己的标 合作很密切 FS 机架 MC SFP模块 还有3旺 tg-net 上面的一个台湾公司；在用ClR公司的 深圳公司",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "kind": "第三方（openregister）",
+   "claim": "规模",
+   "quote": "Gründungsdatum 13.09.2018 · Aktiv · Register Amtsgericht Krefeld HRB 20953 … Kapital 6.000,00 €",
+   "url": "https://openregister.de/company/DE-HRB-R3306-95644",
    "date": "2026-10-21"
   }
  ],
  "kp": [
   {
-   "name": "Yusuf Olcer",
-   "title": "Sales Manager",
-   "email": "info@telkolink.com",
-   "phone": "",
-   "source": "用户表"
+   "name": "Andrew Walker",
+   "role": "Geschäftsführer/CEO",
+   "email": "info@walker-security.systems",
+   "phone": "+49 177 322 4215",
+   "source": "https://walker-security.systems/impressum"
   }
  ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "grade_override": "B",
+ "override_reason": "微型安装商（UG，单人决策但单量极小），仅一次礼节性回复；B 慢跟即可。",
+ "notes": "",
+ "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（基于首轮调研整理 + 需求映射）"
  },
  "company_facts": {
-  "hq": "土耳其",
-  "other": "官网 telkolink.com，语言 ?，快照状态 ok；角色判定来源：用户表"
+  "legal_name": "Walker Security Systems UG (haftungsbeschränkt)（原 SMART+ Communications UG / smart-protect.nrw）",
+  "hq": "Nettetal / Mönchengladbach, Germany",
+  "size": "微型 UG（注册资本 €6,000；2 名管理人员）",
+  "other": "CEO Andrew Walker；Dahua / Jablotron / Ajax 认证安装商；业务：报警、视频监控、门禁、Smart Security、电话系统"
  },
  "business_lines": [
-  "PoE 交换机 / 网络设备 / 光纤系统 / 布线 / 工业自动化产品分销",
-  "自有标视频转换器（VC）"
+  "视频监控 / 入侵报警 / 门禁安装（Dahua、Jablotron、Ajax）",
+  "电话系统与智能安防"
  ],
  "channels": {
-  "role": "IT 产品分销商 + 自有标（VC 已贴标；FS/MC/SFP 多源）",
-  "region": "土耳其",
-  "contact": "info@telkolink.com"
+  "网站": "https://walker-security.systems/",
+  "Impressum": "https://walker-security.systems/impressum"
  },
  "signals": [
-  "官网：POE Switch · Network cihazları · Fiber Optik Sistemler · RF Kablo · Yapısal Kablolama · Endüstriyel Otomasyon Ürünleri",
-  "站内 Katalog PDF（/Katalog/BFA.pdf、/1100.pdf、/1200.pdf、/3012.pdf）",
-  "表内：VC 刷了自己的标，合作很密切；KP Yusuf Olcer / Sales Manager"
+  "Dahua 认证安装商 → 现用 Dahua PFS 系列 PoE；A 邮箱已有 1 次回复（告知更名）"
  ],
  "risks": [
-  "现有多源（CLR / 3onedata / TG-NET / 台湾厂）价格基准低",
-  "SFP 模块与机架 Saga 价目无 SKU（Q-32）",
-  "土耳其：汇率敏感，报 EXW 美元"
+  "微型、单量小；偏好品牌原厂 PoE"
  ],
  "saga_fit": {
-  "p1": "STI-288GPM",
-  "tier": 30,
-  "why": "已给 VC 贴自有标、FS 走 3onedata/TG-NET → 自有标工业 PoE 管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）、商用位 STC-28DGGPM（$87.4）；MC 位 STI-110GE；SFP/机架 Saga 价目无（Q-32）"
+  "p1": "STC-28DGGPM",
+  "tier": 25,
+  "why": "安装商 25% 档：STC-28DGGPM（$84.1）替代 Dahua PFS 8 口管理机；16 口 STI-21616GP；Ajax/Jablotron 报警主机旁的小 PoE 用 STI-144GP"
  },
- "email_hook": "Yusuf, since Telkolink already carries its own label on converters, we can add Marvell-based industrial 8-PoE + 2 SFP managed and commercial 8-PoE + 2 SFP L2+ switches under the same label from small lots — which of the two lines would you want a sample quote on first?",
+ "email_hook": "For the Dahua video systems you install, a Marvell-based 8-port gigabit PoE+ managed switch with 2 SFP is $84.1 EXW and works with the Dahua NVR auto-discovery; shall I send one unit to Nettetal for a test install?",
  "mail_review": {
   "binding": {
-   "level": "未触达（A/S 邮箱 17 封 2024→2026，无记录打开，0 回；收件 info@telkolink.com；主题多为「10G Enterprise SFP Switch、Industrial PoE Switch」；Elsa 箱：`to:telkolink.com OR to:clrnetworks.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 17 / 来 0）（第 74 批(i)））",
-   "type": "IT 产品分销商 + 自有标（VC 已贴标；FS/MC/SFP 多源）",
-   "sieve": "1（只收到群发）",
-   "stop": "只打通用邮箱，无记录打开",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "TR 主攻（四主）",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 17；用户表：「VC 刷了自己的标 合作很密切 FS 机架 MC SFP模块；VC 刷了自己的标 合作很密切 FS 机架 MC SFP模块 还有3旺 tg-net 上面的一个台」；研究档 risks：现有多源（CLR / 3onedata / TG-NET / 台湾厂）价格基准低"
+   "level": "未绑定（要免费样机被付样规则筛掉；Elsa 箱：`to:smart-protect.nrw OR to:walker-security.systems` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 14 / 来 3）（第 74 批(j)））",
+   "type": "德国微型安防安装商（UG，注册资本 6,000 €；Dahua/Ajax 认证）——第四档",
+   "sieve": "2（「we need to replace a lot of switches」）",
+   "stop": "2025-05-13 Alan「We do not do FREE samples」→ 2025-06-10 只问「Are the switches manageable?」→ 之后无回；2026-08-11 起域名 smart-protect.nrw 解析不到（公司可能已停业/换域名）",
+   "revive": "付样 1 台 8 口 PoE 管理型；微型客户复利低，不追",
+   "lane": "DE",
+   "cadence": "2025-04 → 2026-09 去信 14 封；最后来信 2025-06-10",
+   "evidence": "k=7136278ff3be94f4 / 444284f57e12d0d2 / f66547fc66c47b76 / 5ed6cfdaf428d52c"
   },
-  "situation": "土耳其 Telkolink Kurumsal Bilgi Teknolojileri（IT 产品供应商：PoE 交换机 / 网络设备 / 光纤系统 / RF 线缆 / 结构化布线 / 工业自动化产品，站内 Katalog PDF；表内「VC 刷了自己的标，合作很密切：FS、机架、MC、SFP 模块；还有三旺、TG-NET、一家台湾公司；在用 CLR（深圳）的 VC；整体外观一般」；KP Yusuf Olcer（Sales Manager））；群发 2 次无回复。",
-  "need": "已给 VC 贴自有标、FS 走 3onedata/TG-NET → 自有标工业 PoE 管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）、商用位 STC-28DGGPM（$87.4）；MC 位 STI-110GE；SFP/机架 Saga 价目无（Q-32）",
-  "breakpoint": "现有多源（CLR / 3onedata / TG-NET / 台湾厂）价格基准低",
+  "situation": "Andrew Walker（CEO）2025-05-13 回「要一台免费交换机测试，我们要换一大批」，Alan 按规则拒绝免费样并给热销型号；06-10 他只问了一句「可管理吗」，Alan 答「那是非管理，也有管理系列」后对话结束。",
+  "need": "替换一批（数量不明）安防用 PoE 交换机，要管理型。",
+  "breakpoint": "付样规则是筛子，筛掉了一个微型安装商——符合设计；不改。",
   "saga_now": {
-   "p1": "STI-288GPM",
-   "tier": 30,
-   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-14 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-26 $280（10G Enterprise SFP Switch）",
-   "why": "已给 VC 贴自有标、FS 走 3onedata/TG-NET → 自有标工业 PoE 管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）、商用位 STC-28DGGPM（$87.4）；MC 位 STI-110GE；SFP/机架 Saga 价目无（Q-32）",
+   "p1": "STC-28DGGPM 类 8 口 PoE 管理型付样价（按 25% 集成档）",
+   "tier": 25,
+   "price": "按规则；群发里他已看到的价（续）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-05-13 $300（48 Port PoE Managed Switch）、2025-10-06 $280（10G Enterprise SFP Switch）",
+   "why": "来信再答，不主动。已打开的主题（6/14 封有打开记录）：「Industrial PoE Switch」(2025-06-10)、「Re: Industrial PoE Switch」(2025-06-10)、「Re: Industrial PoE Switch」(2025-09-09)、「24 Port PoE Managed Switch」(2026-08-11) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开",
-   "one_question": "Yusuf, since Telkolink already carries its own label on converters, we can add Marvell-based industrial 8-PoE + 2 SFP managed and commercial 8-PoE + 2 SFP L2+ switches under the same label from small lots — which of the two lines would you want a sample quote on first?"
+   "when": "不主动",
+   "channel": "A 邮箱 → info@walker-security.systems（Andrew Walker）",
+   "action": "先核 smart-protect.nrw 是否还在（2026-08 域名失效）；在则来信时一次报 8 口 PoE 管理型付样价",
+   "one_question": ""
   },
   "facts": [
    {
-    "date": "2024-11-05",
-    "dir": "去",
-    "who": "Simon → Angora Networks（SA-168）附件 Turkey Client List.xlsx",
-    "quote": "名单行：「switch info@telkolink.com http://www.telkolink.com/」",
-    "why": "Saga 2024-11-05 把本户列入交给 Angora（安卡拉，Saga 提议的欧盟/土耳其分销伙伴）的 64 家起步名单；此后 Saga 仍直发本户。若 Angora 已接触过本户，Saga 直发会与自己提议的渠道打架 → Q-51（默认：直发继续，Angora 报了价的户 Saga 只做技术支持）",
-    "k": "gmail_s 2024-11-05 Re: Invoice_5pcs STC-424DGGPM-280W（附件）+ Drive PI 7_土耳其 Turkey_Client_List.xlsx"
+    "date": "2025-05-13",
+    "dir": "来",
+    "who": "Andrew Walker（CEO）",
+    "quote": "We would like a free switch for Testing, we need to replace a lot of switches an if your switches confirm our quality standard we would ordert hem.",
+    "why": "免费样请求",
+    "k": "7136278ff3be94f4"
    },
    {
-    "date": "2026-09-17",
+    "date": "2025-05-13",
     "dir": "去",
-    "who": "A/S 群发",
-    "quote": "10G Enterprise SFP Switch、Industrial PoE Switch",
-    "why": "17 封 / 0 次打开 / 0 回｜首封 2024-06-26 → 末封 2026-09-17（17 去 / 0 来）",
-    "k": "gmail_digest"
+    "who": "Alan",
+    "quote": "We do not do FREE samples.",
+    "why": "付样规则",
+    "k": "444284f57e12d0d2"
    },
    {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "VC 刷了自己的标 合作很密切 FS 机架 MC SFP模块；VC 刷了自己的标 合作很密切 FS 机架 MC SFP模块 还有3旺 tg-net 上面的一个台湾公司 整体上看着外观都一般；在用ClR公司的 深圳公司 http://www.",
-    "why": "表内备注",
-    "k": "用户表"
+    "date": "2025-06-10",
+    "dir": "来",
+    "who": "Andrew",
+    "quote": "Are the switches manageable ?",
+    "why": "最后一问",
+    "k": "f66547fc66c47b76"
+   },
+   {
+    "date": "2025-06-10",
+    "dir": "去",
+    "who": "Alan → Andrew Walker（Re: Industrial PoE Switch；附 DIN Managed.jpg）",
+    "quote": "「They are unmanaged ones. We also have managed series, see attached photo」——只给了一张图，没给型号/价/datasheet。",
+    "why": "Andrew 两次都在问「可管理吗 / 能不能测」：05-13 要免费样机被拒（「We do not do FREE samples」），06-10 问可管理 → 一张图。德国安防集成商「need to replace a lot of switches」的需求没有被接住——下一步给 STI-288DGGPM / STI-244GPM 的 datasheet + 付费样机价 + 退款条款",
+    "k": "k=5ed6cfdaf428d52c（A 邮箱 2025-06-10 08:32Z）"
+   },
+   {
+    "date": "2026-08-11",
+    "dir": "内",
+    "who": "Gmail 退信（A 邮箱）",
+    "quote": "info@smart-protect.nrw 永久退信：** Address not found ** ** Address not found ** Your message wasn't delivered to info@smart-protect.nrw because the doma",
+    "why": "该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职",
+    "k": "gmail_a 21cca18c5a54024d"
    }
   ],
-  "proof_gaps": [
-   "在 Saga 给 Angora 的 Turkey Client List（2024-11-05）里——Angora 是否接触过本户无记录（Q-51）"
-  ],
+  "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-24"
  }

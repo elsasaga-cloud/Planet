@@ -1,531 +1,490 @@
-# SB-365 netiks.rs · home · http://www.netiks.rs/ · fetched 2026-10-25T07:41:18Z · HTTP 200
-Netiks
-NETIKS cenovnik
-POČETNA dobrodošli
-PRODAVNICA kupujte online
-Uputstvo za registraciju
-Uputstvo za naručivanje
-Uputstvo za pretragu proizvoda
-PODRŠKA I DOKUMENTACIJA uputstva i linkovi
-Cudy
-Wireless routers
-IP video / audio oprema
-Routerboards
-Draka kablovi
-Kablovi
-Optički kablovi
-Energetski kablovi
-Low loss antenski kablovi
-Rek ormani
-Oprema za rek ormane
-Kompleti alata
-SERVIS reklamacije
-O NAMA netiks
-KONTAKT prodajna mesta
-ZAPOSLENJE pridružite nam se
-Skip to content
-Prodavnica
-Svi proizvodi (3962)
-Kablovi (467)
-UTP, FTP, SFTP (216)
-Puna žica - solid (24)
-Patch - licnasti (12)
-Patch cordovi sa RJ-45 (124)
-Eksterni - industrijski (7)
-Samonoseći kablovi (2)
-Kablovi bez halogena (46)
-Hibridni kablovi (1)
-HDMI, VGA, DVI, KVM (37)
-Fiber optički (110)
-Multi-mode fiber (7)
-Single-mode fiber (15)
-Fiber patch cordovi (66)
-Fiber pigtail-ovi (7)
-Samonoseći kablovi (8)
-Kablovi bez halogena
-Telefonski kablovi (5)
-Koaksijalni kablovi (66)
-50-omski koaksijalni (4)
-75-omski koaksijalni (13)
-Kablovi sa konektorima (44)
-Samonoseći kablovi (2)
-Hibridni kablovi (2)
-Kablovi bez halogena
-Energetski - strujni (2)
-PC strujni i razvodnici (2)
-Alarmni i signalni (2)
-Audio kablovi (1)
-USB i COM serijski (12)
-Samonoseći kablovi (12)
-Multi-parični kablovi
-Hibridni kablovi (2)
-Kanali i bužiri (557)
-PVC plastični kanali (254)
-Zidni kanali (133)
-Parapetni zidni (54)
-Podni kanali (14)
-Samolepljivi (46)
-Boje drveta (6)
-Šlicovani kanali (1)
-Bezhalogeni kanali (65)
-Zidni kanali (28)
-Parapetni zidni (13)
-Samolepljivi kanali (45)
-Podni kanali (20)
-Parapetni kanali (67)
-Metalni pod-kanal (3)
-Alati za montažu
-Bužir creva (15)
-PVC bužiri (5)
-Halogen free bužiri
-Pocinkovani regali (62)
-Potrošni materijal (26)
-Ormani i kućišta (173)
-Rek ormani 19" (108)
-Rek ormani 10" (8)
-Indoor kućišta (35)
-Eksterni ormani (19)
-Elektro materijal (822)
-Energetski kablovi
-PVC strujni kablovi
-N2XH bez halogena
-Hibridni kablovi
-Strujni razvodnici (15)
-Razvodnici 220V-50Hz (7)
-Rack 19" razvodnici (7)
-Eksterni ormani (6)
-Indoor kućišta (55)
-Uzidne dozne (11)
-Upodne kutije (2)
-Aluminijumski stubići (3)
-PC strujni kablovi
-Prekidači i utičnice (177)
-Italijanski standard (35)
-Francuski legrand (104)
-Art S serija (15)
-Art F serija pantone (12)
-Art H serija (3)
-Logus 90
-Šuko utikači
-PVC plastični kanali (253)
-Zidni kanali (133)
-Parapetni zidni (54)
-Podni kanali (14)
-Samolepljivi (45)
-Boje drveta (6)
-Šlicovani kanali (1)
-Bezhalogeni kanali (24)
-Šlicovani kanali
-Lepljive trake (2)
-Podni kanali (19)
-Parapetni kanali (65)
-Metalni pod-kanal (3)
-Bužir creva (20)
-PVC bužiri (5)
-Halogen free bužiri
-Pocinkovani regali (61)
-Potrošni materijal (26)
-IP power control (3)
-Samolepljivi kanali (50)
-Šlicovani kanali (50)
-Energetski - strujni (6)
-PVC strujni kablovi (6)
-Moduli za kabliranje (84)
-Keystone RJ-45 moduli (36)
-UTP - Unshielded (5)
-STP - Shielded (6)
-Kategorija 5E (1)
-Kategorija 6 i 6A (15)
-Tooless - bez alata (9)
-Keystone telefonski (1)
-Keystone koaksijalni (3)
-Keystone fiber optički
-HDMI, USB, RCA (4)
-Moduli 45x45 (31)
-Šuko moduli 220V (2)
-Blanko i ostali mod. (7)
-Utičnice (223)
-Nazidne utičnice (45)
-Kategorija 5E
-Kategorija 6 i 6A
-Modularne - bez modula (37)
-Telefonske utičnice (2)
-Uzidne utičnice (46)
-Kategorija 5E
-Kategorija 6 i 6A (4)
-Modularne - bez modula (39)
-Uzidne dozne (4)
-Upodne utičnice (2)
-Aluminijumski stubići (3)
-Fiber optičke utičnice
-Utičnice HDMI, USB..
-Kombinovane utičnice (18)
-Šuko utičnice
-Pojedinačni elementi (99)
-Telefonske utičnice (3)
-Tooless - bez alata
-Konektori (68)
-RJ konektori (28)
-Fiber konektori
-Koaks konektori (34)
-Šuko utikači (6)
-Patch paneli (111)
-Patch paneli 10" (1)
-8-14 portova (1)
-Patch paneli 19" (23)
-Kategorija 5E (2)
-Kategorija 6 i 6A (2)
-Modularni - bez modula (15)
-Telefonski p. paneli (3)
-Patch paneli nazidni (1)
-Kategorija 5E (1)
-Kategorija 6 i 6A
-Modularni - bez modula
-Patch paneli combo (41)
-Fiber patch paneli 19" (23)
-Fiber patch paneli 19"
-Fiber adapteri
-Fiber kutije (ZOK) (21)
-Fiber kutije (ZOK)
-Fiber adapteri
-Tooless - bez alata
-Telefonske komponente (32)
-Telefonski kablovi (5)
-Multi-parični kablovi
-LSA reglete (3)
-Kabineti za reglete (1)
-19" nosači regleta (1)
-Telefonski p. paneli (12)
-Telefonske utičnice (4)
-Telefonski konektori (4)
-Ostale komponente (2)
-Fiber komponente (181)
-Fiber patch paneli 19" (23)
-Fiber patch paneli 19"
-Fiber adapteri
-Fiber kutije (ZOK) (21)
-Fiber kutije (ZOK)
-Fiber adapteri
-Fiber spojnice (4)
-Fiber pigtail kablovi (12)
-Multi-mode fiber (2)
-Single-mode fiber (5)
-Fiber patch cordovi (62)
-Multi-mode fiber (7)
-Single-mode fiber (26)
-Fiber adapteri (14)
-Ostala fiber pasiva (8)
-Fiber optički kabl (37)
-Multi-mode fiber (7)
-Single-mode fiber (15)
-Samonoseći kablovi (8)
-Ostala pasiva (10)
-Ostale komponente (3)
-Potrošni materijal (5)
-Alati i instrumenti (157)
-Krimp klješta (22)
-Razni alati (47)
-Kompleti alata (35)
-Test instrumenti (39)
-Multimetri (1)
-Ostali instrumenti (3)
-Fiber alati (2)
-Analizatori spektra
-ADSL oprema (17)
-Ekstenderi i modemi (45)
-VDSL, SHDSL, HPNA modemi (23)
-G.703, X.21, E1 itd (6)
-Telefonske centrale, Call centri (126)
-Telefonske centrale (9)
-do 100 lokala (7)
-do 250 lokala
-do 1000 lokala
-do 2000 lokala
-Call centri
-do 30 operatera
-do 60 operatera
-do 250 operatera
-Dodatne kartice
-Kartice analogne
-Kartice ISDN PRI
-Kartice ISDN BRI
-HW echo cancelation
-Analogni VoIP gejtveji (17)
-1-3 porta (5)
-4 porta
-8 portova (1)
-24 porta
-FXO portovi (1)
-FXS portovi (10)
-ISDN PRI VoIP gejtveji
-ISDN BRI VoIP gejtveji
-GSM VoIP gejtveji
-VoIP telefoni (69)
-sa 1 linijom
-sa 2 linije (4)
-sa 4 linije (17)
-sa 6 linija (5)
-PoE VoIP telefoni (32)
-sa dodatnim konzolama (2)
-Video IP telefoni (4)
-PoE svičevi
-PoE komponente
-USB telefoni i gejtveji (4)
-VoIP kartice analogne (6)
-PCI
-PCI Express (1)
-miniPCI
-VoIP kartice ISDN PRI (4)
-PCI (1)
-PCI Express (1)
-miniPCI
-HW echo cancelation (1)
-VoIP kartice ISDN BRI (10)
-PCI (5)
-PCI Express (1)
-miniPCI (2)
-Failover kutije (3)
-VoIP - Voice over IP (137)
-VoIP telefoni (79)
-sa 1 linijom
-sa 2 linije (7)
-sa 4 linije (17)
-sa 6 linija (5)
-PoE VoIP telefoni (38)
-sa dodatnim konzolama (2)
-Video IP telefoni (4)
-Analogni VoIP gejtveji (19)
-1-3 porta (6)
-4 porta (1)
-8 portova (1)
-24 porta
-FXO portovi (1)
-FXS portovi (10)
-ISDN PRI VoIP gejtveji
-ISDN BRI VoIP gejtveji
-GSM VoIP gejtveji
-VoIP kartice analogne (6)
-PCI
-PCI Express (1)
-miniPCI
-VoIP kartice ISDN PRI (4)
-PCI (1)
-PCI Express (1)
-miniPCI
-HW echo cancelation (1)
-VoIP kartice ISDN BRI (10)
-PCI (5)
-PCI Express (1)
-miniPCI (2)
-Failover kutije (3)
-PoE svičevi
-PoE komponente
-USB telefoni i gejtveji (4)
-Ethernet svičevi (619)
-Neupravljivi svičevi (79)
-24 porta (1)
-8 portova (8)
-16 portova (1)
-6-8 portova (7)
-Upravljivi svičevi (152)
-8 portova
-16 portova (1)
-24 porta
-Fiber svičevi (27)
-Layer 3 svičevi (73)
-Industrijski svičevi (62)
-PoE svičevi (77)
-Fiber moduli (78)
-Šasije - modularne (35)
-SFP+ i QSFP+ kablovi (10)
-L3 svicevi - ruteri (21)
-PoE (Power-over-Ethernet) (71)
-Ekstenderi dometa
-Mreža preko struje (4)
-Fiber optička aktivna oprema (146)
-Fiber svičevi (26)
-Fiber moduli (78)
-Fiber konverteri (37)
-Fiber šasije
-Fiber-coax konverteri
-Industrijska oprema (5)
-GPON / EPON Fiber (2)
-Kartice - PC adapteri (163)
-10/100Mb/s kartice (4)
-PCI (3)
-USB (1)
-PCMCIA
-10/100/1000 Gigabit (17)
-PCI
-PCI Express (11)
-PCI-X / PCI
-PCMCIA
-Serverske kartice
-Dual i Quad kartice (2)
-10GB mrežne kartice
-Fiber optičke kartice
-Fibre Channel kartice
-E1, V.35, HPNA i dr (3)
-Serijske multiport (6)
-Wireless - bežične (48)
-Wireless PCI Express (2)
-Wireless PCI
-Wireless USB kartice (21)
-Wireless minPCI (3)
-Wireless PCMCIA
-High Power kartice (6)
-Wireless 54Mb/s (1)
-Wireless 108Mb/s
-Wireless 150Mb/s (2)
-Wireless 300Mb/s (10)
-Wireless 802.11a 5GHz (2)
-PCI Express (3)
-PCI-X / PCI (10)
-USB adapteri (41)
-Ostali adapteri (5)
-RAID & storage (1)
-Asterisk VoIP kartice (18)
-PCI (10)
-HW echo cancelation (1)
-PCI Express (4)
-miniPCI (2)
-miniPCI (5)
-Wireless kartice
-Wireless minPCI
-Wireless 300Mb/s
-Wireless 802.11a 5GHz
-High Power kartice
-UPS-ovi, inverteri i ispravljači (298)
-UPS-ovi standardni (124)
-On-line UPS-ovi (65)
-Rek UPS-ovi 19" (51)
-Inverteri (10)
-DC napajanja (28)
-Punjači (1)
-Baterije (22)
-Prenaponske zaštite, AC/DC i sl (38)
-Razvodnici 220V-50Hz (1)
-Rack 19" razvodnici (7)
-PC napajanja (2)
-AC/DC adapteri (8)
-Punjači
-PoE svičevi
-PoE komponente
-Prenaponske zaštite (4)
-NAS Storage i HDD kućišta (18)
-Print serveri
-Ruter ploče i kućišta (47)
-Voki toki Motorola (8)
-Antene i komponente (167)
-Antene 2.4GHz (36)
-Antene 0.8-2.5GHz (2)
-Antene 3.5GHz (2)
-Antene 5GHz (18)
-Dual band antene (2)
-Dual polarisane ant. (11)
-Antene sa kućištem (6)
-Kućišta (9)
-Antenski držači (10)
-Antenski spliteri (2)
-Prenaponske zaštite (4)
-Antenski kablovi (32)
-Konektori i adapateri (33)
-Wireless WiFi 2.4 - 5GHz (369)
-WiFi ruteri indoor (94)
-Access pointi indoor (89)
-High Power oprema (28)
-Ekstenderi dometa (12)
-WiFi adapteri (28)
-Eksterni HotSpot-ovi (33)
-WiFi CPE klijenti (26)
-Industrijski wireless (31)
-Eksterni linkovi (25)
-3G, LTE, GSM, EDGE (54)
-Serveri x86 i komponente (14)
-KVM svičevi PS/2, USB, IP (27)
-HDMI, VGA, DVI oprema (66)
-HDMI oprema (37)
-VGA oprema (18)
-DVI oprema (11)
-Remote Power & Boot Management (8)
-Cisco mrežna oprema (25)
-Softver (5)
-SuSE i RedHat Linux
-Mikrotik RouterOS
-Microsoft i dr. softver
-Ruteri, VPN, Firewall (36)
-Industrijska i serijska oprema (229)
-Industrijski Ethernet - svičevi, ruteri, konverteri (50)
-Serijska oprema RS232/ 422/ 485/ Modbus/ CAN bus/ USB (15)
-Industrijska wireless oprema (24)
-Industrijski i Embedded računari i Remote I/O (10)
-Industrijsko kabliranje (26)
-IIndustrijska oprema
-Industrijska oprema
-Solarni paneli i vetro generatori (6)
-Pametne kuće i automatizacija zgrada (120)
-iNELS CIB (31)
-RF Control (7)
-BUS kablovi
-Prekidači i utičnice (72)
-Konvencionalne centrale, detektori i oprema (3)
-Video nadzor (193)
-Fiksne IP kamere (72)
-Pokretne IP kamere (17)
-Video serveri i risiveri (7)
-NVR snimači HW (12)
-DVR snimači (6)
-Analogne kamere (9)
-DVR PC kartice (1)
-Ostala i prateća oprema (65)
-Softver i video analitika (2)
-Vivotek ST7501
-Vivotek VAST (1)
-AxxonSmart Start
-AxxonSmart Pro
-Intellect Lite
-Intellect Enterprise
-Detekcija vatre i gasa (112)
-Adresabilne centrale i detektori (70)
-Konvencionalne centrale, detektori i oprema (25)
-Pojedinačni detektori (standalone) (3)
-Protivpožarni kablovi
-Explosion Proof Products (3)
-Voice & Fire Telephone System EN Compliant (3)
-Gas Release Control System (3)
-SAFIE Smoke & Flame Intelligent Eye camera system (3)
-Alarmne centrale (41)
-Torbe i rančevi (10)
-Ostala oprema (44)
-WiFi CPE klijenti
-Eksterni linkovi
-Industrijski wireless
-High Power Oprema
-Prekidači i utičnice (75)
-L3 svicevi - ruteri
-Radno vreme
-Ponedeljak - Petak:  -
-Subota - Nedelja: neradni dani
-Izdavanje opreme je do h
-NETIKS d.o.o. Bregalnička 9a
-11000 Beograd
-Kursna lista
-EUR = 126
-USD = 118
-odnos USD/EUR 0.937
-Dinar
-Euro
-US Dollar
-Mailing lista
-Prijavite se na našu mailing listu.
-Ime
-Email
-Vi ste ovde:
-Početna
-Netiks
-MikroTik Gigabit outdoor PtP / PtMP wireless 802.11ay/ad na 60GHz + 5GHz do 2.4km
-Skrećemo pažnju na MikroTik Cube 60Pro uređaje koji omogućavaju ultra brze veze na 60GHz uz automatski 5GHz backup tako da u praksi dobijate Gigabit brzine i nivo pouzdanosti kao da ste postavili fiber optičke kablove ('Wireless Wire'). Uređaji rade u skladu sa 802.11ay/ad 60GHz i 802.11ac 5GHz standardima, malih su dimenzija, neupadljivi, uz vrhunski praktičnu i robusnu izradu (npr. radna temperatura -40º do +70ºC).
-Wireless Wire Cube Pro 60GHz + 5GHz se isporučuje pojedinačno, ali i u paru kao u potpunosti spreman 'plug & play' gigabit AES kriptovani link dometa 1km na 60GHz i do 2.4km na 5GHz. Potrebno je samo da usmerite antene i uključite uređaje ! MikroTik CubeSA 60Pro ac je 802.11ay/ad 60GHz +ac 5GHz dual band RouterOS L4 bazna stanica sa sektor antenom 60° koja omogućava umrežavanje do osam lokacija udaljenih do 800m. Cene su više nego povoljne !
-Ovde možete pogledati detaljnu dokumentaciju, a ovde video sa srpskim prevodom (uključite cc). - https://www.youtube.com/watch?v=IRf0TRVwXG0
-TP-Link Omada cloud biznis mrežna rešenja
-TP
+# SB-365 robofiber.com · home · https://robofiber.com/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+ROBOfiber, Inc. - Your complete store for optical transceivers and hardened industrial Ethernet networking devices
+Toggle menu
+Toll-free: 888-27-FIBER * We're open 9-5 Pacific Time, Monday to Friday
+Login or Sign Up
+0
+Search
+×
+Search
+×
+Main Menu
+Store
+About ROBOfiber
+Contact Us
+Product Chart Source
+Customer Service
+Payment methods
+Privacy & Security
+Returns
+Shipping
+Government and Education
+Reseller Program
+Shop By Category
+400G QSFP-DD
+100G QSFP28
+40G QSFP+
+25G SFP28
+10G SFP+
+Dual Fiber
+Bi-Directional
+CWDM
+DWDM
+Copper
+10G XFP
+Dual Fiber
+Bi-Directional
+DWDM
+2.67G and 4.25G SFP
+1.25G SFP (Gigabit)
+Dual Fiber
+Bi-Directional
+CWDM
+DWDM
+Copper
+622M SFP (OC12)
+155M SFP (Fast Ethernet)
+DAC & AOC
+400G cables
+100G cables
+40G cables
+25G cables
+10G cables
+Fiber Networking
+Fiber Media Converters
+POTS(phone) over fiber
+Serial-Datacom-USB to fiber
+Video over fiber
+XLR Audio over fiber
+Fiber Chassis
+Fiber Switches
+Industrial Ethernet
+PoE Industrial Switches
+Managed Switches
+Unmanaged Switches
+PoE Injectors
+Fiber Tools
+Optical Power Meters
+OTDR
+VFL, Fiber Identifiers
+Fiber Cleaning Tools
+PoE Extenders
+Surge Protectors
+Shop By Brand
+ROBOfiber
+View all Brands
+Gift Certificates
+Login or Sign Up
+Search
+×
+Main Menu
+Store
+About ROBOfiber
+Contact Us
+Product Chart Source
+Customer Service
+Payment methods
+Privacy & Security
+Returns
+Shipping
+Government and Education
+Reseller Program
+Shop By Category
+400G QSFP-DD
+100G QSFP28
+40G QSFP+
+25G SFP28
+10G SFP+
+Dual Fiber
+Bi-Directional
+CWDM
+DWDM
+Copper
+10G XFP
+Dual Fiber
+Bi-Directional
+DWDM
+2.67G and 4.25G SFP
+1.25G SFP (Gigabit)
+Dual Fiber
+Bi-Directional
+CWDM
+DWDM
+Copper
+622M SFP (OC12)
+155M SFP (Fast Ethernet)
+DAC & AOC
+400G cables
+100G cables
+40G cables
+25G cables
+10G cables
+Fiber Networking
+Fiber Media Converters
+POTS(phone) over fiber
+Serial-Datacom-USB to fiber
+Video over fiber
+XLR Audio over fiber
+Fiber Chassis
+Fiber Switches
+Industrial Ethernet
+PoE Industrial Switches
+Managed Switches
+Unmanaged Switches
+PoE Injectors
+Fiber Tools
+Optical Power Meters
+OTDR
+VFL, Fiber Identifiers
+Fiber Cleaning Tools
+PoE Extenders
+Surge Protectors
+Shop By Brand
+ROBOfiber
+View all Brands
+Gift Certificates
+Login or Sign Up
+Shop by Category
+400G QSFP-DD
+100G QSFP28
+40G QSFP+
+25G SFP28
+10G SFP+
+Dual Fiber
+Bi-Directional
+CWDM
+DWDM
+Copper
+10G XFP
+Dual Fiber
+Bi-Directional
+DWDM
+2.67G and 4.25G SFP
+1.25G SFP (Gigabit)
+Dual Fiber
+Bi-Directional
+CWDM
+DWDM
+Copper
+622M SFP (OC12)
+155M SFP (Fast Ethernet)
+DAC & AOC
+400G cables
+100G cables
+40G cables
+25G cables
+10G cables
+Fiber Networking
+Fiber Media Converters
+POTS(phone) over fiber
+Serial-Datacom-USB to fiber
+Video over fiber
+XLR Audio over fiber
+Fiber Chassis
+Fiber Switches
+Industrial Ethernet
+PoE Industrial Switches
+Managed Switches
+Unmanaged Switches
+PoE Injectors
+Fiber Tools
+Optical Power Meters
+OTDR
+VFL, Fiber Identifiers
+Fiber Cleaning Tools
+PoE Extenders
+Surge Protectors
+Shop by Brand
+ROBOfiber
+View all Brands
+Featured Products
+Quick view
+Details
+ROBOfiber
+|
+sku:
+SFP-2500-SR
+SR 100m multi-mode 25G rate SFP28 850nm
+MSRP:
+Now:
+$48.00
+Add to Cart
+Quick view
+Details
+ROBOfiber
+|
+sku:
+SFP-10G-01C
+SFP-10G-01C SFP+ 10G direct attach passive copper cable, 1m length
+MSRP:
+Now:
+$18.00
+Add to Cart
+Quick view
+Details
+ROBOfiber
+|
+sku:
+SFP-5002-31
+155M (FE / OC3/ STM-1) 2Km multi-mode SFP 1310nm
+MSRP:
+Now:
+$22.00
+Add to Cart
+Quick view
+Details
+ROBOfiber
+|
+sku:
+QSFP-4000-SR4
+SR4 100m multi-mode 40G rate QSFP+ MPO connector 850nm
+MSRP:
+Now:
+$41.00
+Add to Cart
+Quick view
+Details
+ROBOfiber
+|
+sku:
+SFP-2510-LR
+LR 10Km single-mode 25G/28G rate SFP28 1310nm
+MSRP:
+Now:
+$87.00
+Add to Cart
+Quick view
+Details
+ROBOfiber
+|
+sku:
+SFP-1020-LR
+LR 20Km single-mode 10G rate SFP+ 1310nm
+MSRP:
+Now:
+$39.00
+Add to Cart
+Quick view
+Details
+ROBOfiber
+|
+sku:
+XFP-1040-ER
+ER 40Km single-mode 10G rate XFP 1550nm
+MSRP:
+Now:
+$420.00
+Add to Cart
+Quick view
+Details
+ROBOfiber
+|
+sku:
+SFP-5020-WA
+155M (FE / OC3/ STM-1) 20Km BiDi single strand SFP A type Tx:1310nm
+MSRP:
+Now:
+$35.00
+Add to Cart
+Current Top Sellers
+Quick view
+Details
+ROBOfiber
+|
+sku:
+SFP-7020-WB
+Gigabit 1.25G 20Km BiDi single strand SFP B type Tx:1550nm
+MSRP:
+Now:
+$24.00
+Add to Cart
+Quick view
+Details
+ROBOfiber
+|
+sku:
+SFP-7020-WA
+Gigabit 1.25G 20Km BiDi single strand SFP A type Tx:1310nm
+MSRP:
+Now:
+$18.00
+Add to Cart
+Quick view
+Details
+ROBOfiber
+|
+sku:
+SFP-7020-31
+1000Base-LX 20Km single-mode Gigabit SFP
+MSRP:
+Now:
+$12.00
+Add to Cart
+Quick view
+Details
+ROBOfiber
+|
+sku:
+SFP-7000-85
+1000Base-SX 550m multi-mode Gigabit SFP 850nm
+MSRP:
+Now:
+$9.90
+Add to Cart
+Quick view
+Details
+ROBOfiber
+|
+sku:
+SFP-7002-WB
+Gigabit 1.25G 2Km BiDi single strand SFP B type Tx:1550nm
+MSRP:
+Now:
+$15.00
+Add to Cart
+Quick view
+Details
+ROBOfiber
+|
+sku:
+SFP-7002-WA
+Gigabit 1.25G 2Km BiDi single strand SFP A type Tx:1310nm
+MSRP:
+Now:
+$15.00
+Add to Cart
+Quick view
+Details
+ROBOfiber
+|
+sku:
+SFP-7000-RJ45A
+10/100/1000Base-TX RJ45 copper Gigabit SFP
+MSRP:
+Now:
+$37.00
+Add to Cart
+Quick view
+Details
+ROBOfiber
+|
+sku:
+SFP-1000-SR
+SR 300m multi-mode 10G rate SFP+ 850nm
+MSRP:
+Now:
+$24.00
+Add to Cart
+New Products
+Quick view
+Details
+ROBOfiber
+|
+sku:
+QSFP-4080-ZR4
+QSFP+ 40G ZR4 optical module, single-mode, CWDM 4 aggregate 10G channels, 80Km
+MSRP:
+Now:
+$2,499.00
+Add to Cart
+Quick view
+Details
+ROBOfiber
+|
+sku:
+QSFP-10040-WB
+QSFP-10040-WB - QSFP28 100G BiDi ER1 optical transceiver, single-mode single strand, 1309/1304nm, 40Km, one LC/UPC connector
+MSRP:
+Now:
+$1,380.00
+Add to Cart
+Quick view
+Details
+ROBOfiber
+|
+sku:
+QSFP-10040-WA
+QSFP-10040-WA - QSFP28 100G BiDi ER1 optical transceiver, single-mode single strand, 1304/1309nm, 40Km, one LC/UPC connector
+MSRP:
+Now:
+$1,380.00
+Add to Cart
+Quick view
+Details
+ROBOfiber
+|
+sku:
+QSFP-10020-WB
+QSFP-10020-WB - QSFP28 100G BiDi LR1 optical transceiver, single-mode single strand, 1331/1271nm, 20Km, one LC/UPC connector
+MSRP:
+Now:
+$630.00
+Add to Cart
+Quick view
+Details
+ROBOfiber
+|
+sku:
+QSFP-10020-WA
+QSFP-10020-WA - QSFP28 100G BiDi LR1 optical transceiver, single-mode single strand, 1271/1331nm, 20Km, one LC/UPC connector
+MSRP:
+Now:
+$630.00
+Add to Cart
+Quick view
+Details
+ROBOfiber
+|
+sku:
+QSFP-10010-WB
+QSFP-10010-WB - QSFP28 100G BiDi LR1 optical transceiver, single-mode single strand, 1331/1271nm, 10Km, one LC/UPC connector
+MSRP:
+Now:
+$570.00
+Add to Cart
+Quick view
+Details
+ROBOfiber
+|
+sku:
+QSFP-10010-WA
+QSFP-10010-WA - QSFP28 100G BiDi LR1 optical transceiver, single-mode single strand, 1271/1331nm, 10Km, one LC/UPC connector
+MSRP:
+Now:
+$570.00
+Add to Cart
+Quick view
+Details
+ROBOfiber
+|
+sku:
+QSFP-10100-ZR4
+QSFP28 100G eZR4 optical transceiver, single-mode, KR-4, 4 aggregate 25G channels, 100Km, QSFP-10100-ZR4
+MSRP:
+Now:
+$2,799.00
+Add to Cart
+×
+OK
+Join Our Mailing List for special offers!
+Email Address
+Contact Us
+3000F Danville Blvd., Ste 300
+Alamo, CA 94507, USA
+ph: 888-27-FIBER
+www.robofiber.com
+Accounts & Orders
+Wishlist
+Login
+or Sign Up
+Shipping & Returns
+Quick Links
+Store
+About ROBOfiber
+Customer Service
+Reseller Program
+© ROBOfiber, Inc.
+|
+Sitemap
+|
+Premium BigCommerce Theme by Lone Star Templates

@@ -1,128 +1,128 @@
 {
-  "code": "SB-846",
-  "name_official": "",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（lanode.com，快照 2026-10-21）",
-  "summary": "英国 Lanode（lanode.co.uk：光通信/数据通信分销——MC、VC、串口、工业 FS、10G MC、大端口 FS、C/DWDM 复用器；Transition Networks 与 CTC Union 为主，bypass 用 CTC Union；KP Donal McDonnell；lanode.com 快照为个人天文摄影站（域名误判，待重抓））；群发 19 次无回复。",
-  "type": "光/数据通信分销商（英国，Transition/CTC Union）",
-  "size": "",
-  "brands_seen": [
-    "Transition Networks",
-    "CTC Union"
-  ],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "官网标题：don4L's hobbies",
-      "quote": "Home；Latest Post；Autumn Wildlife；Terrestial；Recent Images；NGC Catalogue",
-      "url": "https://lanode.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "MC VC 串口 工业FS 10GMC 大口FS Transition和CTCU的较多；https://www.lanode.co.uk/optical-transport/c-dwdm-multiplexers",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "Transition/CTCU 较多；bypass CTCU",
-      "quote": "MC VC 串口 工业FS 10GMC 大口FS Transition和CTCU的较多；bypass用的CTCU的",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网快照",
-      "claim": "lanode.co.uk 产品页",
-      "quote": "optical-transport/c-dwdm-multiplexers",
-      "url": "https://www.lanode.co.uk/optical-transport/c-dwdm-multiplexers",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Donal McDonnell",
-      "title": "（职务待核）",
-      "email": "donal@lanode.com",
-      "phone": "",
-      "source": "用户表"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ "code": "SB-846",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（qualicam.de，快照 2026-10-21）",
+ "summary": "德国 Qualicam / ueberwachung.tv（Braunsbedra 视频监控网店：Hikvision（121）NVR 含 PoE 交换机套装、Ubiquiti 被动 PoE、PoE 注入器、刺激气体防盗装置、报警；表内「主要是安防」）；群发 8 次无回复。",
+ "type": "CCTV 网店/安装（德国，Hikvision 为主）",
+ "size": "",
+ "brands_seen": [
+  "Hikvision",
+  "Ajax",
+  "Ubiquiti"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Videoüberwachung, Sicherheitstechnik und Alarmanlagen；品类词 安防监控（CCTV / 门禁） / 网络交换 / PoE",
+   "quote": "Online-Shop zur Videoüberwachung mit Überwachungskameras, Sicherheitstechnik, Reizgasanlagen, Alarmanlagen und Überwachungssystemen in Braunsbedra.",
+   "url": "https://www.qualicam.de/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "hq": "英国",
-    "other": "官网 lanode.com，语言 en，快照状态 ok；角色判定来源：待核"
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "主要是安防",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "光通信 / 数据通信产品分销（英国）"
-  ],
-  "channels": {
-    "role": "光/数据通信分销商（英国，Transition/CTC Union）",
-    "region": "英国",
-    "contact": "sales@lanode.com、donal@lanode.com"
+  {
+   "kind": "官网快照",
+   "claim": "Qualicam 定位",
+   "quote": "Videoüberwachung, Sicherheitstechnik und Alarmanlagen ; Online-Shop zur Videoüberwachung mit Überwachungskameras, Sicherheitstechnik, Reizgasanlagen, Alarmanlagen und Überwachungssystemen in Braunsbedra.",
+   "url": "https://www.qualicam.de/",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "表内：MC VC 串口 工业 FS 10GMC 大口 FS Transition 和 CTCU 的较多；bypass 用的 CTCU 的；备注 https://www.lanode.co.uk/optical-transport/c-dwdm-multiplexers；KP Donal McDonnell",
-    "快照：Home | don4L’s hobbies（与实体不符）"
-  ],
-  "risks": [
-    "快照域名误判（lanode.com 为个人站，实际 lanode.co.uk 待重抓）；品牌分销导向（Transition/CTCU 粘性）；10G MC/C-DWDM/串口需求 Saga 不供；19 次无回复"
-  ],
-  "saga_fit": {
-    "p1": "STI-110GE",
-    "tier": 20,
-    "why": "MC/工业 FS（现 Transition/CTCU）→ 工业千兆 MC STI-110GE（$22.4 @20%）、工业 PoE MC STI-111GP（$27.8）、工业 8 GE + 2 SFP STI-280GE（$46.6）、24 GE + 4×10G STC-424XGGM（$127.4）；10G MC/C-DWDM/串口 Saga 不供"
-  },
-  "email_hook": "Donal, alongside the Transition Networks and CTC Union lines you carry, we supply neutral-brand gigabit/PoE media converters and Marvell-based DIN-rail 8-GE + 2 SFP managed switches from single units, CE/RoHS/UKCA, EXW USD — is there a budget MC or industrial switch position your customers ask for below the branded lines?",
-  "site_mismatch": true,
-  "mail_review": {
-    "binding": {
-      "level": "未触达（1 封自动回复）；Elsa 1:1 去信 1 封（2025-02-21「16 Port PoE Managed Switch」；To 仅本户 sales@lanode.com；Bcc 未逐封读头；同类名单抽读 24 封均无 Bcc；此后再未进 Elsa 任何名单——全箱 `from:e.sagatelecom to:sales@lanode.com` 仅此 1 条，complete）（第 74 批(m)）",
-      "type": "英国光/数据通信分销（Lanode；Transition/CTC Union）",
-      "sieve": "0",
-      "stop": "自动回复/机器人，无人工回复",
-      "revive": "不动",
-      "lane": "UK",
-      "cadence": "不动",
-      "evidence": "k=a647b42a1513993c"
-    },
-    "situation": "来信全部为机器回复；无人读信或无人回信。",
-    "need": "—",
-    "breakpoint": "—",
-    "saga_now": {
-      "p1": "—",
-      "tier": 20,
-      "price": "—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-05 $220（48 port managed switch）、2024-11-25 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-05 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-12-18 $240（24 Port Fiber Switch）、2025-10-10 $280（10G Enterprise SFP Switch）",
-      "why": "已打开的主题（1/27 封有打开记录）：「24 Port Fiber Switch」(2024-12-18) → 读者兴趣偏「MC/光电」；与 P1 同类，继续",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "不动",
-      "channel": "—",
-      "action": "首封前知悉：Elsa 仅 2025-02-21 单发过 1 封「16 Port PoE Managed Switch」，之后没再碰他（第 74 批(m)）；—",
-      "one_question": ""
-    },
-    "facts": [
-      {
-        "date": "2025-02-21",
-        "dir": "out",
-        "who": "Elsa → sales@lanode.com",
-        "quote": "16 Port PoE Managed Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
-        "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
-        "k": "elsa_1to1",
-        "msg_id": "195292140589153c"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "主要是安防",
+   "quote": "主要是安防",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "德国",
+  "other": "官网 qualicam.de，语言 de，快照状态 ok；角色判定来源：用户表"
+ },
+ "business_lines": [
+  "视频监控 / 安防技术网店与项目"
+ ],
+ "channels": {
+  "role": "CCTV 网店/安装（德国，Hikvision 为主）",
+  "region": "德国",
+  "contact": "qcall@ueberwachung.tv"
+ },
+ "signals": [
+  "页面 /videoueberwachung/hikvision-nvr-16-kanal-inkl-poe-switch-5-mp-aufnahme.html、/videoueberwachung/poe-injector-48v-steckernetzteil-400ma.html；kw hikvision 121 / poe 37 / nvr 20",
+  "官网：Online-Shop zur Videoüberwachung mit Überwachungskameras, Sicherheitstechnik, Reizgasanlagen, Alarmanlagen"
+ ],
+ "risks": [
+  "Hikvision 套装自带 PoE NVR：外置 PoE 量小",
+  "8 次无回复，仅 qcall@，无具名 KP"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 20,
+  "why": "Hikvision 配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）；注入器 Saga 不做"
+ },
+ "email_hook": "For the PoE switches you sell and install with Hikvision NVR kits, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port unmanaged PoE units from small lots, CE/RoHS, EXW USD — which size do your projects use most?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 18 封 2025→2026，1 次记录打开，0 回；收件 qcall@ueberwachung.tv；主题多为「10G Enterprise SFP Switch、24 Port Fiber Switch」；Elsa 箱：`to:qualicam.de OR to:ueberwachung.tv` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 18 / 来 0）（第 74 批(j)））",
+   "type": "CCTV 网店/安装（德国，Hikvision 为主）",
+   "sieve": "1~2（1 次打开）",
+   "stop": "18 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "DE 主攻（四主）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 18，Opened 标签 1（Simon 群发追踪）；用户表：「主要是安防」；研究档 risks：Hikvision 套装自带 PoE NVR：外置 PoE 量小"
+  },
+  "situation": "德国 Qualicam / ueberwachung.tv（Braunsbedra 视频监控网店：Hikvision（121）NVR 含 PoE 交换机套装、Ubiquiti 被动 PoE、PoE 注入器、刺激气体防盗装置、报警；表内「主要是安防」）；群发 8 次无回复。",
+  "need": "Hikvision 配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）；注入器 Saga 不做",
+  "breakpoint": "Hikvision 套装自带 PoE NVR：外置 PoE 量小",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-17 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-02-21 $240（24 Port Fiber Switch）、2025-04-09 $300（48 Port PoE Managed Switch）、2025-09-25 $280（10G Enterprise SFP Switch）",
+   "why": "Hikvision 配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）；注入器 Saga 不做。已打开的主题（1/18 封有打开记录）：「10G Enterprise SFP Switch」(2025-09-25) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "For the PoE switches you sell and install with Hikvision NVR kits, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port unmanaged PoE units from small lots, CE/RoHS, EXW USD — which size do your projects use most?"
+  },
+  "facts": [
+   {
+    "date": "2026-09-23",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "10G Enterprise SFP Switch、24 Port Fiber Switch",
+    "why": "18 封 / 1 次打开 / 0 回｜首封 2025-02-21 → 末封 2026-09-23（18 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "主要是安防",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

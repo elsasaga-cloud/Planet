@@ -11,7 +11,7 @@
  "text": "Hi, IIdar,\nPlease see attached software list.\nOur switch supports standard BGP (Border Gateway Protocol), including both\neBGP and iBGP.\nIt supports IPv4 and IPv6 unicast address families, with flexible routing\npolicy control such as prefix-list, route-map, AS-path and community.\n1, Could you please confirm whether this meets your requirements?\n2, Please let us know if you have any specific BGP features or deployment\nscenarios in mind.\nThank you.",
  "char_count": "543",
  "attachments": "[{'filename': 'Saga Software Function List_EN_V2.4.pptx', 'mime_type': 'application/vnd.openxmlformats-officedocument.presentationml.presentation', 'size': 153293}]",
- "note": "SB-960 Ildar Salimov（私邮）：问 BGP；Elsa 2026-01-20 答 CENTEC 线支持 eBGP/iBGP、IPv4/IPv6、prefix-list/route-map（这是 CENTEC 核心机口径，不是 AC5）",
+ "note": "SC-189 Ildar Salimov（私邮）：问 BGP；Elsa 2026-01-20 答 CENTEC 线支持 eBGP/iBGP、IPv4/IPv6、prefix-list/route-map（这是 CENTEC 核心机口径，不是 AC5）",
  "text_source": "text/plain",
  "fetched": "2026-10-24T16:06Z",
  "method": "Arena Gmail connector get_message_text(include_quoted=false)"

@@ -1,207 +1,182 @@
 {
   "code": "SB-257",
-  "name_official": "Saxco Marketing Sdn Bhd（马来西亚）",
+  "name_official": "",
   "researched_at": "2026-10-21",
-  "website_status": "在线（saxco.com.my；快照 HTTP 错误）",
-  "summary": "马来西亚安防产品分销商 Saxco Marketing（采购 Heng Lee Sun，purchaser5/6@），主动联系问网络交换机；无跟进记录。",
-  "type": "",
+  "website_status": "在线（voxplus.it，快照 2026-10-21）",
+  "summary": "意大利 VOXplus（系统集成商：网络安全 / 网络与 VoIP / 数据中心与布线 / 楼宇自动化与 IoT；站内 Maiwe 工业交换机产品页 MIEN2205P-4T（5 口工业 PoE）、MISCOM8212GP-4XGF（8 PoE 90W + 4×10G L3）、ADMAS2024 M12、EtherCAT；表内「工业 FS / MC / 串口，有小壳但比较大；供应商 Maiwe」；KP Gianni Scandroglio（CEO，gianni.scandroglio@）、Fabio Frigerio（Project Manager））；群发 13 次无回复。",
+  "type": "系统集成商（意大利，工业线用 Maiwe）",
   "size": "",
-  "brands_seen": [],
+  "brands_seen": [
+    "Maiwe"
+  ],
   "evidence": [
     {
       "kind": "官网快照",
-      "claim": "saxco.com.my HTTP 错误",
-      "quote": "status http_error",
-      "url": "http://saxco.com.my/",
+      "claim": "官网标题：VOXplus - Innovazione Integrazione Connessione；品类词 工业自动化 / OT 网络 / 无线 / WiFi / 数据中心 / 企业 IT / 网络交换 / PoE",
+      "quote": "VOXplus è un System Integrator in grado di fornire ai propri clienti, soluzioni e competenze che permettano loro di massimizzare le...",
+      "url": "https://www.voxplus.it/",
       "date": "2026-10-21"
     },
     {
       "kind": "用户表",
-      "claim": "主动联系问了 network switch；security products distributor",
-      "quote": "兴趣：主动联系 问了network switch security products distributor",
+      "claim": "表内兴趣/备注",
+      "quote": "工业FS MC 串口 有小壳但比较大；工业FS MC 串口 有小壳但比较大 供应商Maiwe",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "VOXplus 系统集成商",
+      "quote": "VOXplus è un System Integrator in grado di fornire ai propri clienti, soluzioni e competenze",
+      "url": "https://www.voxplus.it/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "工业 FS MC 串口，供应商 Maiwe",
+      "quote": "工业FS MC 串口 有小壳但比较大；供应商Maiwe",
       "url": "（本地 Clients/ 表格，无公开 URL）",
       "date": "2026-10-21"
     }
   ],
   "kp": [
     {
-      "name": "Heng Lee Sun",
-      "title": "Purchaser",
-      "email": "purchaser5@saxco.com.my",
-      "phone": "+60 12 418 8623",
-      "source": "（本地 Clients/ 表格，无公开 URL）"
+      "name": "Gianni Scandroglio",
+      "title": "CEO",
+      "email": "gianni.scandroglio@voxplus.it",
+      "phone": "",
+      "source": "用户表"
+    },
+    {
+      "name": "Fabio Frigerio",
+      "title": "Project Manager",
+      "email": "",
+      "phone": "",
+      "source": "用户表"
     }
   ],
   "grade_override": null,
   "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
   "deep": {
     "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（快照 HTTP 错误 + 表内）"
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
   },
   "company_facts": {
-    "legal_name": "Saxco Marketing Sdn Bhd",
-    "founded": "（待核）",
-    "hq": "Malaysia（+60 3 7880 2299）",
-    "size": "中小型安防分销",
-    "other": ""
+    "hq": "意大利",
+    "other": "官网 voxplus.it，语言 it-IT，快照状态 ok；角色判定来源：官网文案"
   },
   "business_lines": [
-    "安防产品分销"
+    "系统集成（网络安全 / 网络 VoIP / 数据中心布线 / 楼宇自动化 IoT）",
+    "工业交换机（Maiwe）"
   ],
   "channels": {
-    "role": "安防分销商",
-    "region": "马来西亚"
+    "role": "系统集成商（意大利，工业线用 Maiwe）",
+    "region": "意大利",
+    "contact": "info@voxplus.it、gianni.scandroglio@voxplus.it"
   },
   "signals": [
-    "主动询交换机（采购部）"
+    "产品页 /mien2205p-4tpoe-switch-poe-industriale-5-porte/、/switch-industriale-poe-10g-layer-3-miscom8212gp-4xgf-8gtpoe90-dc48/、/switch-ethernet-industriale-admas2024-m12/",
+    "官网：VOXplus è un System Integrator … Cybersecurity / Networking & Voip / Data Center & Cabling / Building Automation & IOT",
+    "KP：Gianni Scandroglio / CEO；Fabio Frigerio / Project Manager（表内）"
   ],
   "risks": [
-    "无跟进记录"
+    "现用 Maiwe（武汉）价格基准低",
+    "L3 10G / M12 / EtherCAT 需求 Saga 不覆盖",
+    "13 次无回复 → 改向 CEO 具名首触"
   ],
   "saga_fit": {
-    "p1": "STC-28DGGPM",
-    "tier": 20,
-    "why": "安防分销配套 8 PoE 管理机（$80.7 @20%）。"
+    "p1": "STI-154GP",
+    "tier": 25,
+    "why": "现用 Maiwe MIEN2205P-4T（5 口工业 PoE）→ 工业 4 PoE + 1 GE STI-154GP（$39.2 @25%）；8 PoE + 4×10G 位 STI-488XGGPM（L2+，非 L3）；M12/EtherCAT 不做"
   },
-  "email_hook": "Ms. Heng, following your switch enquiry — 8-PoE + 2-SFP managed $81, 16-PoE $137.5, 24-PoE $135 EXW (Marvell L2+ on the 8/24); which sizes do your CCTV dealers pull most?",
+  "email_hook": "Gianni, next to the Maiwe industrial switches you specify, we supply DIN-rail 5-port and 8-PoE + 4×10G industrial units (−40~75 °C, neutral packing; the latter L2+ managed on a Marvell platform) from small lots for your building-automation and IoT projects — which model do you use most often, so we quote its equivalent?",
+  "products_seen": [
+    {
+      "brand": "Maiwe",
+      "model": "MIEN2205P-4T",
+      "spec": "工业 5 口 PoE（4 PoE + 1）",
+      "saga": "STI-154GP",
+      "url": "https://www.voxplus.it/mien2205p-4tpoe-switch-poe-industriale-5-porte/",
+      "date": "2026-10-21"
+    },
+    {
+      "brand": "Maiwe",
+      "model": "MISCOM8212GP-4XGF",
+      "spec": "工业 8 PoE 90W + 4×10G L3",
+      "saga": "STI-488XGGPM（L2+，非 L3）",
+      "url": "https://www.voxplus.it/",
+      "date": "2026-10-21"
+    }
+  ],
   "mail_review": {
     "binding": {
-      "level": "未触达（S 邮箱 7 封 2024，1 次记录打开，0 回；收件 purchaser5@saxco.com.my；主题多为「Industrial fiber switch、Industrial poe switch」）；Elsa 群发 BCC 已触达 9 轮 2025-04-11→2026-09-08（锚 To sofyan@mutiara-teknologi.com.my 9 轮 2025-04-11→2026-09-08；本户在 Bcc；主题 Industrial PoE Switch、OEM Core Switching Solution、Updated Ethernet Switches Links、24 Port PoE Managed Switch…；0 回（Elsa 箱 Replied 索引 + 第 73 批真人来信逐户比对均无此户）；S/A digest 看不到 Elsa 的去信，之前据此写的「未触达」是 S/A 口径）（第 74 批(n) `from:e.sagatelecom to:saxco.com.my` 全程 complete：命中 9 行、To 均为锚地址 ⇒ 本户在锚的 Bcc 名单）",
-      "type": "—",
+      "level": "未触达（A/S 邮箱 20 封 2024→2026，1 次记录打开，0 回；收件 fabio.frigerio@voxplus.it, gianni.scandroglio@voxplus.it；主题多为「Industrial PoE Switch、Marvell Networking Solutions」）；Elsa 1:1 去信 1 封（2025-02-17「8 Port Industrial PoE Switch」；To 仅本户 info@voxplus.it；Bcc 未逐封读头；同类名单抽读 24 封均无 Bcc；此后再未进 Elsa 任何名单——全箱 `from:e.sagatelecom to:info@voxplus.it` 仅此 1 条，complete）（第 74 批(m)）",
+      "type": "系统集成商（意大利，工业线用 Maiwe）",
       "sieve": "1~2（1 次打开）",
-      "stop": "7 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-      "revive": "保持季度群发到 2027-Q1；无打开即停",
-      "lane": "马来西亚 非主攻",
-      "cadence": "季度",
-      "evidence": "gmail_digest：out 7，Opened 标签 1（Simon 群发追踪）；用户表：「兴趣：主动联系 问了network switch security products distributor」；研究档 risks：无跟进记录"
+      "stop": "20 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+      "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+      "lane": "意大利（欧洲全域主攻）",
+      "cadence": "一封",
+      "evidence": "gmail_digest：out 20，Opened 标签 1（Simon 群发追踪）；用户表：「工业FS MC 串口 有小壳但比较大；工业FS MC 串口 有小壳但比较大 供应商Maiwe」；研究档 risks：现用 Maiwe（武汉）价格基准低"
     },
-    "situation": "马来西亚安防产品分销商 Saxco Marketing（采购 Heng Lee Sun，purchaser5/6@），主动联系问网络交换机；无跟进记录。",
-    "need": "安防分销配套 8 PoE 管理机（$80.7 @20%）。",
-    "breakpoint": "无跟进记录",
+    "situation": "意大利 VOXplus（系统集成商：网络安全 / 网络与 VoIP / 数据中心与布线 / 楼宇自动化与 IoT；站内 Maiwe 工业交换机产品页 MIEN2205P-4T（5 口工业 PoE）、MISCOM8212GP-4XGF（8 PoE 90W + 4×10G L3）、ADMAS2024 M12、EtherCAT；表内「工业 FS / MC / 串口，有小壳但比较大；供应商 Maiwe」；KP Gianni Scandroglio（CEO，gianni.scandroglio@）、Fabio Frigerio（Project Manager））；群发 13 次无回复。",
+    "need": "现用 Maiwe MIEN2205P-4T（5 口工业 PoE）→ 工业 4 PoE + 1 GE STI-154GP（$39.2 @25%）；8 PoE + 4×10G 位 STI-488XGGPM（L2+，非 L3）；M12/EtherCAT 不做",
+    "breakpoint": "现用 Maiwe（武汉）价格基准低",
     "saga_now": {
-      "p1": "STC-28DGGPM",
-      "tier": 20,
-      "price": "Realtek 线按 HRUI 2026-09-30 进价 +20% 现算（Q-47 默认，不用 Drive 旧表价）：STC-2216GPM $137.5→$141.7；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-30 $65（10G Media Converter）；群发里他已看到的价（续，第 66 批全量复核）：2024-12-23 $300（48 Port PoE Managed Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-05-04 $300（48 Port PoE Managed Switch = STC-448XGGPM，Elsa 箱 1 轮 2025-05-04；现表 $335.4@20%、Drive 老表 $335——同款写 $335 要先说 2025 群发是 $300、汇率 7.2→6.7）；2025-10-06 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2025-10-06；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-09-08 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-08；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
-      "why": "安防分销配套 8 PoE 管理机（$80.7 @20%）。已打开的主题（1/7 封有打开记录）：「8 Port Industrial PoE Switch」(2024-11-05) → 读者兴趣偏「工业」；与 P1 同类，继续",
+      "p1": "STI-154GP",
+      "tier": 25,
+      "price": "换人再触锚价 STI-154GP $39.2 EXW（主表档位（2024 实报 $36–38 低于档位，可用档位；PDF 上限 $51.7）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-23 $65（10G media converter）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-15 $280（10G Enterprise SFP Switch）",
+      "why": "现用 Maiwe MIEN2205P-4T（5 口工业 PoE）→ 工业 4 PoE + 1 GE STI-154GP（$39.2 @25%）；8 PoE + 4×10G 位 STI-488XGGPM（L2+，非 L3）；M12/EtherCAT 不做。已打开的主题（1/20 封有打开记录）：「24 port poe switch」(2024-08-05) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
       "repeat": [],
       "gaps": []
     },
     "next_move": {
-      "when": "群发节奏",
-      "channel": "A 邮箱",
-      "action": "首封前知悉：Elsa 群发 BCC 已触达 9 轮（2025-04-11→2026-09-08，锚 To sofyan@mutiara-teknologi.com.my，0 回）（第 74 批(n)）；观察打开",
-      "one_question": "Ms. Heng, following your switch enquiry — 8-PoE + 2-SFP managed $81, 16-PoE $141.7, 24-PoE $135 EXW (Marvell L2+ on the 8/24); which sizes do your CCTV dealers pull most?"
+      "when": "2027-Q1（换人后）",
+      "channel": "A 邮箱 → 具名 KP",
+      "action": "首封前知悉：Elsa 仅 2025-02-17 单发过 1 封「8 Port Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(ac) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用）；STI-488XGGPM 明写 L2+ 非 L3）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
+      "one_question": "Gianni, next to the Maiwe industrial switches you specify, we supply DIN-rail 5-port and 8-PoE + 4×10G industrial units (−40~75 °C, neutral packing; the latter L2+ managed on a Marvell platform) from small lots for your building-automation and IoT projects — which model do you use most often, so we quote its equivalent? Reference: STI-154GP at $39.2 USD EXW (MOQ 1, 15-day validity)."
     },
     "facts": [
       {
-        "date": "2023-07-01",
-        "dir": "备",
-        "who": "Saga 内部马来西亚线索表 Client_List_待决定.xlsx（XSPec/Sugito 文件夹）",
-        "quote": "名单行：「56 Saxco Marketing Sdn Bhd www.saxco.com.my 马来西亚 Heng Lee Sun Malaysia fair 主动联系 问了network switch security products distributor purchaser5@saxco.com.my Skype: saxco225 Add: No 8, Jalan SS4C/5 , Taman Rasa Sayang, 47301 P」",
-        "why": "Saga 自己的线索表里对本户的一手备注（来源/兴趣点/是否已加 WhatsApp/展会现场对话）（名单无日期；条目为 Mitec 2023 展会现场记录，按 2023-07 归期）——比群发打开率更硬的证据；写下一封邮件时直接引用这里的兴趣点",
-        "k": "Drive PI 文件夹 9_马来西亚_Sugito"
+        "date": "2025-02-17",
+        "dir": "out",
+        "who": "Elsa → info@voxplus.it",
+        "quote": "8 Port Industrial PoE Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+        "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
+        "k": "elsa_1to1",
+        "msg_id": "195137528e25f9a3"
       },
       {
-        "date": "2024-12-23",
+        "date": "2026-09-16",
         "dir": "去",
-        "who": "S 群发",
-        "quote": "Industrial fiber switch、Industrial poe switch",
-        "why": "7 封 / 1 次打开 / 0 回｜首封 2024-06-30 → 末封 2024-12-23（7 去 / 0 来）",
+        "who": "A/S 群发",
+        "quote": "Industrial PoE Switch、Marvell Networking Solutions",
+        "why": "20 封 / 1 次打开 / 0 回｜首封 2024-07-05 → 末封 2026-09-16（20 去 / 0 来）",
         "k": "gmail_digest"
-      },
-      {
-        "date": "2025-04-11",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
-        "quote": "16 Port Ethernet Switch（Elsa 群发第 1/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:saxco.com.my` 命中行 To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
-        "k": "elsa_bcc",
-        "msg_id": "19623a5f07b9a5bf"
-      },
-      {
-        "date": "2025-05-04",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
-        "quote": "48 Port PoE Managed Switch（Elsa 群发第 2/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my；正文价 300usd/pc，第 74 批(p) 读稿 msg 194eff1f9bf46879 / 1973a613b8166b58）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:saxco.com.my` 命中行 To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
-        "k": "elsa_bcc",
-        "msg_id": "19699a96e93d4ea9"
-      },
-      {
-        "date": "2025-06-05",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
-        "quote": "8 Port Industrial PoE Switch（Elsa 群发第 3/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:saxco.com.my` 命中行 To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
-        "k": "elsa_bcc",
-        "msg_id": "1973f4fbd2176398"
-      },
-      {
-        "date": "2025-07-04",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
-        "quote": "Mini Industrial PoE Switch（Elsa 群发第 4/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:saxco.com.my` 命中行 To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
-        "k": "elsa_bcc",
-        "msg_id": "197d44f5b17bb6b9"
-      },
-      {
-        "date": "2025-10-06",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
-        "quote": "10G Enterprise SFP Switch（Elsa 群发第 5/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:saxco.com.my` 命中行 To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
-        "k": "elsa_bcc",
-        "msg_id": "199b7cd286b8997d"
-      },
-      {
-        "date": "2025-11-20",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
-        "quote": "Industrial PoE Switch（Elsa 群发第 6/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:saxco.com.my` 命中行 To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
-        "k": "elsa_bcc",
-        "msg_id": "19a9f3c99302ff20"
-      },
-      {
-        "date": "2026-02-05",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
-        "quote": "OEM Core Switching Solution（Elsa 群发第 7/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:saxco.com.my` 命中行 To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
-        "k": "elsa_bcc",
-        "msg_id": "19c2c14168a821f5"
-      },
-      {
-        "date": "2026-04-29",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
-        "quote": "Updated Ethernet Switches Links（Elsa 群发第 8/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:saxco.com.my` 命中行 To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
-        "k": "elsa_bcc",
-        "msg_id": "19dd7f65aff0636e"
-      },
-      {
-        "date": "2026-09-08",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
-        "quote": "24 Port PoE Managed Switch（Elsa 群发第 9/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:saxco.com.my` 命中行 To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
-        "k": "elsa_bcc",
-        "msg_id": "1a07fb58f139416e"
       },
       {
         "date": "2026-10-21",
         "dir": "用户表",
         "who": "Simon",
-        "quote": "兴趣：主动联系 问了network switch security products distributor",
+        "quote": "工业FS MC 串口 有小壳但比较大；工业FS MC 串口 有小壳但比较大 供应商Maiwe",
         "why": "表内备注",
         "k": "用户表"
+      },
+      {
+        "date": "2026-09-16",
+        "dir": "去",
+        "who": "A 箱（Alan）",
+        "quote": "16 Port Industrial PoE Switch",
+        "why": "本日去信真实主题（邮箱索引 aabd5d262f145b05；信稿开头句引用此封；此前稿内写的「Industrial PoE Switch」是线程列表首题，不是本封）",
+        "k": "aabd5d262f145b05"
       }
     ],
     "proof_gaps": [],
-    "draft_en": null,
+    "draft_en": {
+      "subject": "Next to the Maiwe units you specify - the 5-port PoE and the 8-PoE + 4 x 10G, honestly compared",
+      "body": "Hi Gianni,\n\nWe wrote to you once in February 2025 about an 8-port industrial PoE switch, and since then only general product mails - most recently \"16 Port Industrial PoE Switch\" on 16 September 2026 - none of which needed an answer. This one is specific.\n\nNext to the Maiwe units you specify, two equivalents from small lots, neutral packing, -40 to 75 C, CE/RoHS: MIEN2205P-4T position - DIN-rail 4 x Gigabit PoE+ + 1 x Gigabit + 1 x SFP, unmanaged - model STI-154GP - $39.2 USD EXW (MOQ 1, 15-day validity); MISCOM8212GP-4XGF position - 8 x Gigabit PoE+ + 4 x 10G SFP+, L2+ managed with ring redundancy, Marvell-based - STI-488XGGPM - $171.9 - L2+, not L3, said up front. M12 and EtherCAT we do not do.\n\nOne question: which Maiwe model do you use most often in the building-automation jobs, so I quote that equivalent properly?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+    },
     "as_of": "2026-10-24"
   }
 }

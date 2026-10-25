@@ -1,144 +1,148 @@
 {
  "code": "SB-031",
- "name_official": "Nivox Technologies（Bengaluru）",
- "researched_at": "2026-10-21",
- "website_status": "在线（nivoxtech.com，快照 2026-10-21，首页近空）",
- "summary": "班加罗尔工业以太网 / 坚固光纤产品供应商（合伙企业，≤10 人 IndiaMART；Crunchbase 51–100 存疑），**Lantech（台湾）印度分销**（工业 PoE 4–16 口、管理 8/16/24 口），自有品牌 IVEONET（光配线、网线），站内邮箱含 info@lantechcom.tw；总监 Hemanth Kumar 2024 年要工业 MC 价格与证书，2025-05 问 **EN50155**（铁路认证，Saga 无 → 守界）。表内注「Atop 的工业 MC」。",
- "type": "",
- "size": "",
- "brands_seen": [
-  "Lantech",
-  "Atop",
-  "IVEONET"
- ],
+ "name_official": "OM Telecom S.R.L.（RUC 20600792858，Lima，秘鲁；om-telecom.com）",
+ "website_status": "在线（单页，快照仅标语）",
+ "summary": "秘鲁利马的工业电信集成商 OM Telecom S.R.L.（2015-11 成立，2–10 人；为能源自动化、矿业、油气、工业提供光网络、载波、SDH/PDH 复用、远动保护、IP 电话、CCTV、结构化布线等设计与实施；登记为秘鲁政府供应商 RNP）。联系人 Clyver Ore M. / Sales Manager（clyver.ore@om-telecom.com，+51 989 144 163，WA 已加）：2023-11 问「L3 industrial managed switch with PoE?」、2024-03 要「price and model list」；表内「客户找光猫 + 工业 MC」；18 次推送 1 次实质回复。需求与 Saga 工业线高度对口 → B 25%（拉美非主攻区）。",
+ "type": "电信设备经销商",
+ "size": "待补证",
+ "brands_seen": [],
  "evidence": [
   {
-   "kind": "IndiaMART",
-   "claim": "Lantech 工业 PoE 4–16 口、管理 8/16/24 口分销；合伙企业 ≤10 人，GST 2017",
-   "quote": "Industrial POE Ethernet Switches… Brand LANTECH - Taiwan… Industrial Managed Ethernet Switch… 8 Port, 16 Port, 24 Port… Nature of Business: Manufacturer… Total Number of Employees: Upto 10 People… Legal Status of Firm: Partnership",
-   "url": "https://www.indiamart.com/nivoxtechnologies/about-us.html",
+   "kind": "用户记录",
+   "claim": "需求光猫 + 工业 MC；WA 已加；2 次回复 / 18 次跟进",
+   "quote": "客户找光猫+工业MC；51 989 144163 已加（用户 Clients 表摘录）",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   },
   {
-   "kind": "官网快照",
-   "claim": "定位：工业以太网与坚固光纤产品供应商；邮箱含 info@lantechcom.tw / nmarketing@iveonet.com / support@iinvsys.com",
-   "quote": "A leading supplier of Industrial Ethernet products, Rugged Fiber Optic Products… emails info@lantechcom.tw, info@nivoxtech.com, nmarketing@iveonet.com",
-   "url": "https://nivoxtech.com/",
+   "kind": "第三方",
+   "claim": "公司定位与规模",
+   "quote": "Somos una empresa especializada en la venta de servicios y suministros de sistemas de telecomunicaciones para la automatización de energía, industrias, minería, hidrocarburos, oil&gas… Tamaño: De 2 a 10 empleados; Sede: Lima; Fundación: 2015",
+   "url": "https://pe.linkedin.com/company/omtelecomperu",
    "date": "2026-10-21"
   },
   {
-   "kind": "官网",
-   "claim": "Iveonet 产品线并入 Nivox；地址 Nandini Layout, Bangalore 560096",
-   "quote": "Iveonet ™ Products are now part of Nivox Technologies… 105, Dollars Scheme, Nandini Layout Bangalore – 560096",
-   "url": "https://www.iveonet.com/contact.html",
+   "kind": "第三方",
+   "claim": "登记信息",
+   "quote": "RUC: 20600792858; Razón Social: OM TELECOM S.R.L.; Condición: Activo; Fecha Inicio Actividades: 02/Noviembre/2015; Actividad: Telecomunicaciones… Empadronada en el Registro Nacional de Proveedores",
+   "url": "https://www.universidadperu.com/empresas/om-telecom.php",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "第三方",
+   "claim": "业务描述与人员",
+   "quote": "soluciones de telecomunicaciones industriales… redes ópticas, sistemas de onda portadora y sistemas de telecomunicaciones para la automatización de industrias y energía… Joel Ore CFO",
+   "url": "https://connectamericas.com/company/om-telecom-srl?language=es%3Flanguage%3Des",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "第三方",
+   "claim": "进口记录",
+   "quote": "Imports of Om Telecom Srl are driven by Digital Telecommunication… AEREA DEL CALLAO 100%",
+   "url": "https://www.exportgenius.in/company/om-telecom-srl/899c851fa725b25a9f339b938bf04fd3",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "2024-04 工业 MC→price 证书；2025-05 4/8/16 口工业 PoE→EN50155；备注 Atop 的工业 MC",
-   "quote": "回复：price 证书；EN50155；Hemanth Kumar 总监 / Atop的工业MC",
+   "claim": "需求与回复",
+   "quote": "客户找光猫+工业MC；2023.11.29 发了商业POE价格册 → L3 industrial managed switch with POE?；2024.3.15 发了L3管理poE型号 → price and model list",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
  "kp": [
   {
-   "name": "Hemanth Kumar",
-   "title": "Director",
-   "email": "hemanth@nivoxtech.com",
-   "phone": "+91 98455 04242",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
+   "name": "Clyver Ore M.",
+   "role": "Sales Manager",
+   "email": "clyver.ore@om-telecom.com",
+   "phone": "+51 989 144 163（WA 已加）",
+   "source": "用户 Clients 表"
+  },
+  {
+   "name": "Joel Ore",
+   "role": "CFO",
+   "email": "",
+   "phone": "",
+   "source": "connectamericas.com"
   }
  ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "grade_override": "B",
+ "override_reason": "南美非主攻区；需求一半（ONU）Saga 不供，另一半工业 MC 为低客单价；2 次回复后 16 次推送无果 → 慢跟。",
+ "notes": "WA 一次性报 STI-110GE 工业 MC（分销 20%），不做 ONU。",
+ "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照 + IndiaMART 核对）"
+  "level": "B 级加厚 v1（登记 + LinkedIn/ConnectAmericas 核对）"
  },
  "company_facts": {
-  "legal_name": "Nivox Technologies（Partnership）",
-  "founded": "约 2017（GST）",
-  "hq": "Nandini Layout, Bengaluru 560096, Karnataka, India",
-  "size": "≤10 人（IndiaMART）",
-  "other": "Lantech 印度分销；自有品牌 IVEONET / IINVSYS"
+  "legal_name": "OM TELECOM S.R.L.（RUC 20600792858）",
+  "founded": "2015-11-02",
+  "hq": "Calle Rocca de Vergallo 263, Of. 101, Magdalena/Lima（法定：Av. Ramón Castilla 1120 Int. 503A, Santiago de Surco）；+51 1 711 3192",
+  "size": "LinkedIn 2–10 人；ConnectAmericas 7 人；ZoomInfo 营收口径 $7.1M（存疑）",
+  "other": "CFO Joel Ore；登记于秘鲁国家供应商名录（可参与政府采购）；进口经 Callao 空运（电信设备、转换器）"
  },
  "business_lines": [
-  "工业以太网交换机（Lantech 分销）",
-  "工业 MC（Atop）",
-  "坚固光纤配线 / 网线（IVEONET 自有品牌）"
+  "工业电信：光网络、载波、SDH/PDH 复用、远动保护（电力自动化）",
+  "矿业/油气/工业通信系统设计、配置、测试与开通",
+  "IP 电话、CCTV、火灾探测、结构化布线",
+  "接头盒/连接器/适配器等无源供应"
  ],
- "products_seen": [
-  {
-   "brand": "Lantech",
-   "model": "工业 PoE 4–16 口 / 管理 8–24 口",
-   "spec": "-40~75 ℃，5 年保",
-   "saga": "Saga STI-288GPM / STI-21616GP 对位（价差大）",
-   "url": "https://www.indiamart.com/proddetail/industrial-poe-ethernet-switches-24903781255.html",
-   "date": "2026-10-21"
-  }
- ],
+ "products_seen": [],
  "channels": {
-  "role": "工业网络分销 + 自有品牌",
-  "region": "印度"
+  "official": "+51 1 711 3192；om-telecom.com",
+  "contact": "Clyver Ore M.（Sales Manager）clyver.ore@om-telecom.com，+51 989 144 163（WA 已加）",
+  "linkedin": "pe.linkedin.com/company/omtelecomperu"
  },
  "signals": [
-  "有自有品牌 IVEONET → 可贴牌工业 MC / 小交换机（OEM 30）",
-  "Lantech 高价 → 需要低价第二品牌"
+  "2023-11 明确问 L3 工业管理型 PoE 交换机",
+  "2024-03 要价格与型号清单",
+  "变电站/矿山项目型采购（DIN 导轨 + 冗余电源刚需）"
  ],
  "risks": [
-  "守界：问 EN50155 = 铁路项目；Saga 无 EN50155，不供铁路",
-  "与 Lantech 分销身份冲突（需走自有品牌）"
+  "小团队、项目驱动，单量不定",
+  "秘鲁清关与西语沟通；拉美非主攻区",
+  "变电站/油气场景可能要求 IEC 61850-3/IEEE 1613 认证（Saga 仅 CE/RoHS/FCC，须如实说明）"
  ],
  "saga_fit": {
-  "p1": "STI-110GE",
-  "tier": 30,
-  "why": "其最初询价对象 = 工业 MC（要证书）→ Saga STI-110GE（$22.4/23.4/24.3，CE/FCC/RoHS）贴 IVEONET 品牌，OEM 30% 档；工业 PoE 备选 STI-288GP；EN50155 需求不接。"
+  "p1": "STI-448XGGGPM(L3)",
+  "tier": 25,
+  "why": "其问「L3 工业管理 PoE」→ STI-448XGGGPM(L3)（8 GE PoE + 4 SFP + 4×10G SFP+，DIN）；走量配 STI-288DGGPM（L2+）与 STI-110GE 工业 MC"
  },
- "email_hook": "Hemanth, for the IVEONET line — our DIN-rail gigabit media converter (−40~75 ℃, CE/FCC/RoHS, no EN50155) can carry your brand from 1 pc; which fibre option do you move most, SFP slot or fixed SC 20 km?",
+ "email_hook": "You asked for an L3 industrial managed PoE switch and a model list — our DIN-rail L3 unit has 8 PoE+ ports, 4 SFP and 4×10G SFP+; shall I send it together with the L2+ 8-port and the industrial media converters you were sourcing for the ONT project?",
  "mail_review": {
   "binding": {
-   "level": "未发信（S/A 邮箱均无往来；来源：用户表「回复：price 证书；EN50155；Hemanth Kumar 总监 / Atop的工业MC」；Elsa 箱：`to:nivoxtech.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(n)））",
-   "type": "—",
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「客户找光猫+工业MC；2023.11.29 发了商业POE价格册 → L3 industrial managed swi」；Elsa 箱：`to:om-telecom.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(n)））",
+   "type": "电信设备经销商",
    "sieve": "—（未入筛）",
    "stop": "从未触达",
-   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
-   "lane": "IN 次级（点名）",
-   "cadence": "首封后看打开",
-   "evidence": "gmail_digest：out 0；用户表：「回复：price 证书；EN50155；Hemanth Kumar 总监 / Atop的工业MC」；研究档 risks：守界：问 EN50155 = 铁路项目；Saga 无 EN50155，不供铁路"
+   "revive": "不动（非主攻区；J5：有证据再动）",
+   "lane": "秘鲁 非主攻",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 0；用户表：「客户找光猫+工业MC；2023.11.29 发了商业POE价格册 → L3 industrial managed switch with POE?；2024.3」；研究档 risks：小团队、项目驱动，单量不定"
   },
-  "situation": "班加罗尔工业以太网 / 坚固光纤产品供应商（合伙企业，≤10 人 IndiaMART；Crunchbase 51–100 存疑），**Lantech（台湾）印度分销**（工业 PoE 4–16 口、管理 8/16/24 口），自有品牌 IVEONET（光配线、网线），站内邮箱含 info@lantechcom.tw；总监 Hemanth Kumar 2024 年要工业 MC 价格与证书，2025-05 问 **EN50155**（铁路认证，Saga 无 → 守界）。表内注「Atop 的工业 MC」。",
-  "need": "其最初询价对象 = 工业 MC（要证书）→ Saga STI-110GE（$22.4/23.4/24.3，CE/FCC/RoHS）贴 IVEONET 品牌，OEM 30% 档；工业 PoE 备选 STI-288GP；EN50155 需求不接。",
-  "breakpoint": "守界：问 EN50155 = 铁路项目；Saga 无 EN50155，不供铁路",
+  "situation": "秘鲁利马的工业电信集成商 OM Telecom S.R.L.（2015-11 成立，2–10 人；为能源自动化、矿业、油气、工业提供光网络、载波、SDH/PDH 复用、远动保护、IP 电话、CCTV、结构化布线等设计与实施；登记为秘鲁政府供应商 RNP）。联系人 Clyver Ore M. / Sales Manager（clyver.ore@om-telecom.com，+51 989 144 163，WA 已加）：2023-11 问「L3 industrial managed switch with PoE?」、2024-03 要「price and model list」；表内「客户找光猫 + 工业 MC」；18 次推送 1 次实质回复。需求与 Saga 工业线高度对口 → B 25%（拉美非主攻区）。",
+  "need": "其问「L3 工业管理 PoE」→ STI-448XGGGPM(L3)（8 GE PoE + 4 SFP + 4×10G SFP+，DIN）；走量配 STI-288DGGPM（L2+）与 STI-110GE 工业 MC",
+  "breakpoint": "小团队、项目驱动，单量不定",
   "saga_now": {
-   "p1": "STI-110GE",
-   "tier": 30,
-   "price": "首触锚价 STI-110GE $26.5 EXW（最近实报 SA-001 2025-11-27 $26.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
-   "why": "其最初询价对象 = 工业 MC（要证书）→ Saga STI-110GE（$22.4/23.4/24.3，CE/FCC/RoHS）贴 IVEONET 品牌，OEM 30% 档；工业 PoE 备选 STI-288GP；EN50155 需求不接。",
+   "p1": "STI-448XGGGPM(L3)",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "其问「L3 工业管理 PoE」→ STI-448XGGGPM(L3)（8 GE PoE + 4 SFP + 4×10G SFP+，DIN）；走量配 STI-288DGGPM（L2+）与 STI-110GE 工业 MC",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "待 Simon 排期（首封）",
-   "channel": "A 邮箱 → hemanth@nivoxtech.com（Hemanth Kumar）",
-   "action": "首封：按 email_hook 一问（第 75 批(m) 2026-10-25：英文信稿已写 `draft_en`）（第 76 批(c) 2026-10-25：audit_ab 软项修正：证书口径 CE/FCC/RoHS → CE/RoHS (BIS stays on your side)）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
-   "one_question": "Hemanth, for the IVEONET line — our DIN-rail gigabit media converter (−40~75 ℃, CE/FCC/RoHS, no EN50155) can carry your brand from 1 pc; which fibre option do you move most, SFP slot or fixed SC 20 km? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
   },
   "facts": [
-   {
-    "date": "2024-10-22",
-    "dir": "来",
-    "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
-    "quote": "用户表跟进：推「电口」→ 对方「有需求时会说」",
-    "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
-    "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.63 1022"
-   },
    {
     "date": "2026-10-21",
     "dir": "用户表",
     "who": "Simon",
-    "quote": "回复：price 证书；EN50155；Hemanth Kumar 总监 / Atop的工业MC",
+    "quote": "客户找光猫+工业MC；2023.11.29 发了商业POE价格册 → L3 industrial managed switch with POE?；2024.3.15 发了L3管理poE型号 → price and model list",
     "why": "表内备注",
     "k": "用户表"
    }
@@ -147,10 +151,7 @@
    "无邮件往来",
    "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
   ],
-  "draft_en": {
-   "subject": "A DIN-rail gigabit media converter under the IVEONET brand",
-   "body": "Hi Hemanth,\n\nIn 2024 you asked us for industrial media-converter prices and certificates, and in 2025 about EN 50155 - straight answer on that one: we have no EN 50155 line, so nothing for the rail projects.\n\nFor the IVEONET line, the industrial Gigabit media converter can carry your brand from small lots: 1 x RJ45 + 1 x SFP slot (or fixed SC 20 km), DIN-rail, -40 to 75 C, CE/RoHS (BIS stays on your side) - model STI-110GE - $26.5 USD EXW (MOQ 1, 15-day validity); the industrial 8 x PoE+ + 2 x SFP unmanaged switch - STI-288GP - $62.2.\n\nOne question: which fibre option do you move most - SFP slot, or fixed SC 20 km?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
-  },
+  "draft_en": null,
   "as_of": "2026-10-24"
  }
 }

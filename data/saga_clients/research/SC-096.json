@@ -1,0 +1,73 @@
+{
+ "code": "SC-096",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（rapsodo.com，快照 2026-10-21）",
+ "summary": "新加坡 Rapsodo Pte Ltd（运动表现分析设备（高尔夫/棒球雷达）厂商；表内「问工业交换机是否为 L2、光口速率，给名片时好像说是给他朋友问的」；KP Kelvin Yeo（Engineering Manager））；群发 7 次无回复。",
+ "type": "运动科技厂商（新加坡，代问非渠道）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Rapsodo® - Sports Performance & Analytics Technology；品类词 安防监控（CCTV / 门禁） / 无线 / WiFi / 布线 / 线缆 / 网络交换 / PoE",
+   "quote": "Launch and flight monitors for baseball, softball and golf that are affordable, portable and easy to use backed by data-driven technology trusted by the best players in the game. Play without limits with Rapsodo®",
+   "url": "https://rapsodo.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "问工业交换机是否为L2，光口速率 给名片时好像说是给他朋友问的；65-9649 9726 地址：Blk 20 Ayer Rajah Crescent, #08-05, Singapore 139964",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Rapsodo 定位",
+   "quote": "Rapsodo® - Sports Performance & Analytics Technology",
+   "url": "https://rapsodo.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "代朋友问",
+   "quote": "问工业交换机是否为L2，光口速率 给名片时好像说是给他朋友问的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "非渠道（代朋友询问）；c_sub=品类不符/非渠道",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "新加坡",
+  "other": "官网 rapsodo.com，语言 en-US，快照状态 ok；角色判定来源：待核"
+ },
+ "business_lines": [
+  "运动表现分析设备（新加坡）"
+ ],
+ "channels": {
+  "role": "运动科技厂商（新加坡，代问非渠道）",
+  "region": "新加坡",
+  "contact": "kelvin.yeo@rapsodo.com"
+ },
+ "signals": [
+  "官网：Rapsodo® - Sports Performance & Analytics Technology ; Launch and flight monitors for baseball, softball and golf",
+  "表内：问工业交换机是否为 L2，光口速率 给名片时好像说是给他朋友问的；KP Kelvin Yeo / Engineering Manager"
+ ],
+ "risks": [
+  "非渠道：运动分析设备厂商，询问为代他人所问；7 次无回复"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 25,
+  "why": "非渠道（运动科技公司，询问系代朋友所问）→ 改 C"
+ },
+ "email_hook": "（不发送：非渠道代问）"
+}

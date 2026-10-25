@@ -1,0 +1,59 @@
+{
+ "code": "SC-104",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "快照失败（timeout）",
+ "summary": "美国 Amphenol Aerospace（Amphenol 集团航空航天/国防事业部；表内「工业 FS / Ethernet 10GMC SDI，不过和公司的产品外观不一样」「质量不错」；KP Jared Sibrava）；群发 5 次无回复。",
+ "type": "航空航天/国防巨头事业部（守界）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "工业FS；Ethernet 10GMC SDI 不过和公司的产品外观不一样！！",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "工业 FS 10G MC SDI",
+   "quote": "工业FS / Ethernet 10GMC SDI 不过和公司的产品外观不一样！！",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "巨头事业部且国防守界；c_sub=体量过大/守界",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "美国",
+  "other": "官网 amphenol-aerospace.com，语言 ?，快照状态 timeout；角色判定来源：待核"
+ },
+ "business_lines": [
+  "航空航天 / 国防互连（集团事业部）"
+ ],
+ "channels": {
+  "role": "航空航天/国防巨头事业部（守界）",
+  "region": "美国",
+  "contact": "jsibrava@amphenol-aao.com"
+ },
+ "signals": [
+  "表内：工业 FS / Ethernet 10GMC SDI 不过和公司的产品外观不一样！！；质量不错；KP Jared Sibrava",
+  "快照：timeout"
+ ],
+ "risks": [
+  "体量：Amphenol 集团；守界：航空航天/国防；5 次无回复"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 30,
+  "why": "跨国巨头航空航天/国防事业部 → 改 C（巨头 + 守界）"
+ },
+ "email_hook": "（不发送：巨头/守界）"
+}

@@ -1,0 +1,178 @@
+# SB-794 wut.de · home · https://www.wut.de/e-wwwww-ww-hpus-000.php · fetched 2026-10-25T07:41:18Z · HTTP 200
+Wiesemann & Theis GmbH - WuT connects
+Wiesemann & Theis GmbH
+Networking, sensors and interface technology for industry, office and IT
+Products
+Our product range
+Web-IO
+Introduction
+Digital 24V
+Digital 230V
+Analog 0-10V/0-20mA
+Web Thermometers
+Time Switch and SIP Ring Switch
+Switching via iCal
+Switching via SIP/:VoIP
+Networking
+IT security / Microwall
+Edge computing
+rule.box / Node-RED
+MQTT broker
+logic.hub
+Node-RED | MQTT | logic.hub
+IP Watcher
+Network memory
+transfer.box
+data.station
+Industrial Switches
+Single Pair Ethernet (SPE)
+Serial / USB to Ethernet
+Com-Server
+USB Device Server
+transfer.box
+Serial interfaces
+Converters, buffers and switches
+USB for industrial use
+Isolators and Fiber Optics
+PCI, PCI-Express, ISA
+Centronics
+Services
+Software Development
+Hardware Development
+Electronics production (EMS)
+Fulfillment
+Other
+Services
+Accessories
+Other
+Accessories
+Older devices
+Support
+Service
+Downloads
+Background information
+Promotional literature
+Compliance
+Security
+Press
+Newsletter
+About us
+Contact
+Contact persons
+Distributors
+Imprint
+Schüler & Studis
+Jobs
+Log in
+deutsch
+english
+español
+italiano
+W&T connects
+At Wiesemann & Theis we have been producing and marketing electronic hardware for 45 years.
+Our offering ranges from serial interface converters to I/O controller to edge computing and IT security solutions.
+In addition to our short delivery times, we are especially proud of the long service life and reliability of our products (Made in Wuppertal) and our fast, constructive and technically expert support.
+Learn more about us ...
+oder
+Teil des Teams werden (Jobs)
+Web-IO
+Digital 24V
+Switching, monitoring and counting
+Digital 230V
+Determining and switching mains voltage
+Analog 0-10V/0-20mA
+Measuring and setting levels
+Web Thermometers
+Measuring, logging and visualizing
+Time Switch and SIP Ring Switch
+Switching via calendar or phone call
+Networking
+IT security / Microwall
+Firewalls, VPN and islandization
+Edge computing / rule.box
+Node-RED | MQTT broker | logic.hub
+IP Watcher
+Check and send alarms for availability
+Network memory
+transfer.box | data.station
+Single Pair Ethernet (SPE)
+Thermo-Hygro | SPE network extender
+Web-IO Digital SPE
+Serial / USB to Ethernet
+Com-Server
+Serial Device Server for
+RS232, RS422/485 & 20mA
+USB Device Server
+Make USB devices available anywhere
+e.g. dongles, scanners, cameras
+transfer.box
+USB Stick with network connection
+Serial interfaces
+Converters, buffers and switches
+RS232, RRS422, RS485 & 20mA/TTY
+USB for industrial use
+Converting and connecting
+Isolators and Fiber Optics
+Safely isolate serial devices
+PC cards
+for PCI-Express, PCI & ISA
+Service - made in Wuppertal
+Benefit from our experience - in addition to marketing our own products, we also offer services:
+Software Development
+From individualized automation to Industry 4.0 application,
+Hardware Development
+From circuit design and board layout to compliance
+Electronics production (EMS)
+Printed circuit board assembly
+for prototypes and small lots
+Fulfillment
+Warehousing, order picking and shipping
+News
+USB-Buddy
+Turn Any Windows PC into a USB Server
+data.station
+Safe Retrofitting: Securing Existing Systems
+WLAN-IO Digital
+Switching, monitoring and
+counting via WLAN
+Web-IO Digital SPE
+Switching, monitoring and
+counting with 2-conductor cable
+Newsletter
+Stay informed:
+New products, features, valuable applications and the latest tools
+Product Finder
+Find the right W&T box:
+Enter interfaces and get device suggestions
+Success stories
+W&T devices in use:
+A collection of interesting solutions from various industries
+Topics & Technology
+Technology-specific accounts:
+General examples and interesting background knowledge
+Secure connection:
+I found this page
+Thank you for your feedback!
+Are you satisfied with our site but still have suggestions for improvement?
+If you wish, you can tell us here in greater detail
+what bothers you,
+what we should be doing differently.
+No solution to my problem found
+A different page content expected
+Navigation too complicated
+Visually unattractive
+Leave your comments here:
+Email address: (optional)
+Send
+We are available to you in person:
+Wiesemann & Theis GmbH
+Porschestr. 12
+42279 Wuppertal
+Phone: +49 202/2680-110 (Mon.-Fri. 8 a.m. to 5 p.m.)
+Fax: +49 202/2680-265
+info@wut.de
+Imprint
+Data Privacy
+Newsletter
+© Wiesemann & Theis GmbH, subject to mistakes and changes: Since we can make mistakes, none of our statements should be applied without verification. Please let us know of any errors or misunderstandings you find so that we can become aware of and eliminate them.
+^

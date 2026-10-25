@@ -1,138 +1,128 @@
 {
  "code": "SB-291",
- "name_official": "INTERCOAX Co., Ltd.（인터코엑스，韩国）",
+ "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "在线（intercoax.com，快照 2026-10-21，内容空）",
- "summary": "韩国同轴 / 以太网延长（EoC）设备厂商 INTERCOAX（SECON 2023；此前买过样品的韩国客户），Byron / Jongmin 多次交谈并拿目录，问 2+2+8（2 SFP + 2 GE 上联 + 8 PoE）型号；44 次跟进无实质回复。自有品牌厂商 → OEM 30%。",
- "type": "",
+ "website_status": "在线（technosources.ca，快照 2026-10-21）",
+ "summary": "加拿大 Technosources（CCTV 网店与安装：摄像机（289）/ NVR（225）Hikvision / Dahua 套装，PoE 66；表内「小口商业 Switch；BDCOM」）；表内 1 次跟进无回复。",
+ "type": "CCTV 网店/安装商（加拿大，BDCOM 小口交换机）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Hikvision",
+  "Dahua",
+  "BDCOM"
+ ],
  "evidence": [
   {
    "kind": "官网快照",
-   "claim": "intercoax.com 首页无内容抓取",
-   "quote": "status ok, empty",
-   "url": "https://intercoax.com/",
+   "claim": "官网标题：Home；品类词 安防监控（CCTV / 门禁） / 无线 / WiFi / 布线 / 线缆 / 网络交换 / PoE",
+   "quote": "New Arrival；Packages；Our Recent Work；Brands；About Us；Information",
+   "url": "https://technosources.ca/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "之前买样的韩国客户；看了产品聊了几次拿了 catalog；问了 2+2+8 上联 2 光 2 网的型号；备注可以尝试多跟进一下",
-   "quote": "兴趣：之前联系的那个韩国买样客户… 问了2+2+8，上联2个光2个网的型号",
+   "claim": "表内兴趣/备注",
+   "quote": "小口商业Switch；小口商业Switch BDCOM",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Technosources 首页",
+   "quote": "Home ; New Arrival ; Packages ; Our Recent Work ; Brands ; About Us",
+   "url": "https://technosources.ca/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "小口商业 Switch；BDCOM",
+   "quote": "小口商业Switch BDCOM",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
- "kp": [
-  {
-   "name": "Byron",
-   "title": "（表内联系人，可多跟进）",
-   "email": "byron@intercoax.com",
-   "phone": "+82 10 3605 5714",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
-  },
-  {
-   "name": "Jongmin",
-   "title": "（表内联系人）",
-   "email": "jongmin@intercoax.com",
-   "phone": "+82 31 365 3133",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
-  }
- ],
+ "kp": [],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（快照空页 + 表内：设备厂商 OEM）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "legal_name": "INTERCOAX Co., Ltd.",
-  "founded": "（待核）",
-  "hq": "Gyeonggi-do, Korea（+82 31 365）",
-  "size": "中小型设备厂商",
-  "other": "EoC / 以太网延长产品品牌；曾购样"
+  "hq": "加拿大",
+  "other": "官网 technosources.ca，语言 ?，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "以太网 over 同轴 / 延长设备（自有品牌）",
-  "配套 PoE 交换机（外购）"
+  "CCTV 套装网店与安装"
  ],
  "channels": {
-  "role": "设备厂商（OEM 采购配套）",
-  "region": "韩国 + 出口"
+  "role": "CCTV 网店/安装商（加拿大，BDCOM 小口交换机）",
+  "region": "加拿大",
+  "contact": "info@technosources.ca、technosources.ca@gmail.com"
  },
  "signals": [
-  "曾购样 + 问具体口型 2+2+8 → 贴牌配套可能",
-  "Byron 可多跟进"
+  "首页栏目：New Arrival ; Packages ; Our Recent Work ; Brands；kw camera 289 / nvr 225 / poe 66 / hikvision 41",
+  "表内：小口商业 Switch；BDCOM"
  ],
  "risks": [
-  "韩国 KC 认证；44 次跟进无回复"
+  "小店（含 gmail 备用邮箱）：量小",
+  "1 次跟进无回复，仅 info@"
  ],
  "saga_fit": {
-  "p1": "STC-228GP",
-  "tier": 30,
-  "why": "2 SFP + 2 GE + 8 PoE = HRUI 列表 STC-228GP（$30.8，非管理）；管理型升级 STC-28DGGPM（$87.4 @30%）；OEM 口径。"
+  "p1": "STC-28DGGPM",
+  "tier": 20,
+  "why": "小口商用 PoE（现 BDCOM）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）/ STC-204GP"
  },
- "email_hook": "Byron, the 2-SFP + 2-GE uplink + 8-PoE unit you asked about exists in unmanaged ($35.9) and Marvell L2+ managed ($87) versions, and can carry the INTERCOAX label from small lots; which one matches the EoC kits you ship?",
+ "email_hook": "Alongside the BDCOM PoE switches you bundle with Hikvision and Dahua kits, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ model and budget 4/8-port unmanaged PoE units from small lots, FCC/CE/RoHS, EXW USD — which size do your camera kits ship with most?",
  "mail_review": {
   "binding": {
-   "level": "未触达（A/S 邮箱 35 封 2024→2026，1 次记录打开，0 回；收件 byron@intercoax.com；主题多为「Industrial PoE Switch、Marvell Industrial Alert System」；Elsa 箱：`to:intercoax.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 35 / 来 0）（第 74 批(n)））",
-   "type": "—",
-   "sieve": "1~2（1 次打开）",
-   "stop": "35 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
-   "lane": "KR 次级（点名）",
-   "cadence": "一封",
-   "evidence": "gmail_digest：out 35，Opened 标签 1（Simon 群发追踪）；用户表：「兴趣：之前联系的那个韩国买样客户… 问了2+2+8，上联2个光2个网的型号」；研究档 risks：韩国 KC 认证；44 次跟进无回复"
+   "level": "未触达（A 邮箱 13 封 2025→2026，无记录打开，0 回；收件 info@technosources.ca, technosources.ca@gmail.com；主题多为「10G Enterprise SFP Switch、Booster PoE Switch」；Elsa 箱：`to:.ca` 穷举 13 条（2026-10-25，锚批 Bcc 头已读）未见 technosources.ca → Elsa 箱从未发过本户，往来只在 S/A 箱（去 13 / 来 0）（第 74 批(f)））",
+   "type": "CCTV 网店/安装商（加拿大，BDCOM 小口交换机）",
+   "sieve": "1（只收到群发）",
+   "stop": "13 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "CA 主攻",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 13；用户表：「小口商业Switch；小口商业Switch BDCOM」；研究档 risks：小店（含 gmail 备用邮箱）：量小"
   },
-  "situation": "韩国同轴 / 以太网延长（EoC）设备厂商 INTERCOAX（SECON 2023；此前买过样品的韩国客户），Byron / Jongmin 多次交谈并拿目录，问 2+2+8（2 SFP + 2 GE 上联 + 8 PoE）型号；44 次跟进无实质回复。自有品牌厂商 → OEM 30%。",
-  "need": "2 SFP + 2 GE + 8 PoE = HRUI 列表 STC-228GP（$30.8，非管理）；管理型升级 STC-28DGGPM（$87.4 @30%）；OEM 口径。",
-  "breakpoint": "韩国 KC 认证；44 次跟进无回复",
+  "situation": "加拿大 Technosources（CCTV 网店与安装：摄像机（289）/ NVR（225）Hikvision / Dahua 套装，PoE 66；表内「小口商业 Switch；BDCOM」）；表内 1 次跟进无回复。",
+  "need": "小口商用 PoE（现 BDCOM）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）/ STC-204GP",
+  "breakpoint": "小店（含 gmail 备用邮箱）：量小",
   "saga_now": {
-   "p1": "STC-228GP",
-   "tier": 30,
-   "price": "第 73 批 2026-10-24：无管理款按洪瑞 2026-09-30 进价 +30%（028GP $27.2 / 228GP $35.9），旧表 $24/$31 不用；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-16 $65（10G media converter）；群发里他已看到的价（续）：2026-07-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-12-18 $300（48 Port PoE Managed Switch）、2025-02-28 $240（24 Port Fiber Switch）、2025-10-01 $280（10G Enterprise SFP Switch）、2026-06-11 $16000（32 Port 400GB DC Switch）",
-   "why": "2 SFP + 2 GE + 8 PoE = HRUI 列表 STC-228GP（$30.8，非管理）；管理型升级 STC-28DGGPM（$87.4 @30%）；OEM 口径。已打开的主题（1/35 封有打开记录）：「48 Port PoE Managed Switch」(2024-12-18) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
+   "p1": "STC-28DGGPM",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-07 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-20 $280（10G Enterprise SFP Switch）",
+   "why": "小口商用 PoE（现 BDCOM）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）/ STC-204GP",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "2027-Q1（换人后）",
-   "channel": "A 邮箱 → 具名 KP",
-   "action": "换收件人再发一封（第 75 批(ae) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用；KC stays on your side）；管理版明写 2 上联非 2+2；STC-228GP 为 HRUI）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
-   "one_question": "Byron, the 2-SFP + 2-GE uplink + 8-PoE unit you asked about exists in unmanaged ($35.9) and Marvell L2+ managed ($87) versions, and can carry the INTERCOAX label from small lots; which one matches the EoC kits you ship?"
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Alongside the BDCOM PoE switches you bundle with Hikvision and Dahua kits, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ model and budget 4/8-port unmanaged PoE units from small lots, FCC/CE/RoHS, EXW USD — which size do your camera kits ship with most?"
   },
   "facts": [
    {
-    "date": "2026-09-17",
+    "date": "2026-09-24",
     "dir": "去",
-    "who": "A/S 群发",
-    "quote": "Industrial PoE Switch、Marvell Industrial Alert System",
-    "why": "35 封 / 1 次打开 / 0 回｜首封 2024-06-26 → 末封 2026-09-17（35 去 / 0 来）",
+    "who": "A 群发",
+    "quote": "10G Enterprise SFP Switch、Booster PoE Switch",
+    "why": "13 封 / 0 次打开 / 0 回｜首封 2025-10-20 → 末封 2026-09-24（13 去 / 0 来）",
     "k": "gmail_digest"
    },
    {
     "date": "2026-10-21",
     "dir": "用户表",
     "who": "Simon",
-    "quote": "兴趣：之前联系的那个韩国买样客户… 问了2+2+8，上联2个光2个网的型号",
+    "quote": "小口商业Switch；小口商业Switch BDCOM",
     "why": "表内备注",
     "k": "用户表"
-   },
-   {
-    "date": "2026-09-17",
-    "dir": "去",
-    "who": "A 箱（Alan）",
-    "quote": "16 Port Industrial PoE Switch",
-    "why": "本日去信真实主题（邮箱索引 1496a3a1ed5acd75；信稿开头句引用此封；此前稿内写的「Industrial PoE Switch」是线程列表首题，不是本封）",
-    "k": "1496a3a1ed5acd75"
    }
   ],
   "proof_gaps": [],
-  "draft_en": {
-   "subject": "The 2 + 2 + 8 unit you asked about - unmanaged exists exactly, managed is 2 SFP + 8",
-   "body": "Hi Byron,\n\nOver the past months you had a steady stream of product mails from us - most recently \"16 Port Industrial PoE Switch\" on 17 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nYou bought samples from us before and asked about a 2 x SFP + 2 x Gigabit uplink + 8 x PoE unit. Exactly that layout exists unmanaged: 8 x Gigabit PoE+ + 2 x Gigabit + 2 x SFP - model STC-228GP - $35.9 USD EXW with the INTERCOAX label (MOQ 1, 15-day validity). The managed version is 8 x Gigabit PoE+ + 2 x SFP, L2+ on a Marvell platform - STC-28DGGPM - $87.4 - two uplinks, not four, said up front. CE/RoHS; KC stays on your side.\n\nOne question: which one matches the EoC kits you ship - the unmanaged 2 + 2 + 8, or managed?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
-  },
+  "draft_en": null,
   "as_of": "2026-10-24"
  }
 }

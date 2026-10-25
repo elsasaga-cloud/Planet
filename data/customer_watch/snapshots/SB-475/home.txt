@@ -1,157 +1,71 @@
-# SB-475 npotelecom.ru · home · https://npotelecom.ru/ · fetched 2026-10-24T07:26:33Z · HTTP 200
-Производство телекоммуникационного оборудования - НПО Телеком
-Пн-пт с до  (МСК+1)
-sale@npotelecom.ru
-+7 (3412) 573-040 Оставить заявку
-Меню
-Меню Меню
-Главная
-Продукция
-Маршрутизаторы
-Коммутаторы 100G/ЦОД
-Уличные коммутаторы PoE
-Коммутаторы без UPS
-Коммутаторы с UPS
-Платы коммутатора
-Wi-Fi оборудование
-Indoor
-Outdoor
-Пассивные мультиплексоры CWDM\DWDM
-Пассивные мультиплексоры CWDM
-Пассивные мультиплексоры CWDM Demux LGX
-Пассивные мультиплексоры OADM
-Пассивные мультиплексоры CWDM Mux/Demux 19" 1U
-Пассивные мультиплексоры CWDM Mux/Demux ABS
-Пассивные мультиплексоры DWDM
-Пассивные мультиплексоры DWDM Demux 19" 1U
-Пассивные мультиплексоры DWDM Mux/Demux 19" 1U
-Пассивные CWDM фильтры
-Программные решения
-PoE инжекторы
-Инверсные мультиплексоры
-Модули оптические SFP, SFP+, XFP, QSFP, CFP
-SFP (155M)
-Одноволоконные (Bi Di) SFP (155M)
-SFP (GE)
-Одноволоконные (Bi Di) SFP (GE)
-Двухволоконные SFP (GE)
-Электрические SFP (GE)
-DWDM SFP (GE)
-CWDM SFP (GE)
-SFP (2,5G)
-Одноволоконные (Bi Di) SFP (2,5G)
-Двухволоконные SFP (2,5G)
-CWDM SFP (2,5G)
-DWDM SFP (2,5G)
-SFP (4G)
-CWDM SFP (4G)
-SFP+ (10G)
-Одноволоконные (Bi Di) SFP+
-Двухволоконные SFP+
-Электрические SFP+
-CWDM SFP+
-DWDM SFP+
-XFP (10G)
-Одноволоконные (Bi Di) XFP
-Двухволоконные XFP
-CWDM XFP
-DWDM XFP
-SFP+ (16G)
-SFP28 (25G)
-Двухволоконные модули SFP28 (25G)
-Одноволоконные модули (BI DI) SFP28 (25G)
-Модули CWDM SFP28 (25G)
-Модули DWDM SFP28 (25G)
-Модули LWDM SFP28 (25G)
-Модули MWDM SFP28 (25G)
-QSFP+ (40G)
-QSFP28 (50G)
-CFP (100G)
-CFP2 (100G)
-CFP4 (100G)
-QSFP28 (100G)
-QSFP-DD (200G)
-QSFP-DD (400G)
-Tunable DWDM
-Активные кабели
-Кабели 10G SFP+
-Кабели 40G QSFP
-Конвертеры интерфейсов
-Радиаторы охлаждения
-Ethernet коммутаторы
-Коммутаторы агрегации
-Коммутаторы доступа
-Индустриальные коммутаторы
-Индустриальные коммутаторы с PoE
-Индустриальные коммутаторы без PoE
-Мультиплексоры TDM over IP
-Оптик 16-32E1 TOP
-Оптик 1-8E1 TOP
-Оптик 1-2E1 SFP ToP
-САТС/РАТС
-Первичные мультиплексоры
-Транковые шлюзы
-Модули питания
-Оптические коммутаторы
-Коммутаторы агрегации
-Коммутаторы агрегации 10G
-VoIP оборудование
-VoIP-шлюзы многопортовые
-VoIP-шлюзы малопортовые
-VoIP-GSM шлюз
-Комплектующие VOIP
-Активные мультиплексоры CWDM\DWDM
-Оптический мультиплексор WDM-16 Транзит
-Усилители мощности
-Линейные усилители
-Предусилители
-Компенсаторы дисперсии
-PDH мультиплексоры
-Оптик NGE 1-4E1
-PDH мультиплексор на 4Е1 с ТЧ каналами
-Оптик NGE 8-32E1
-Оптик NGE 1-4E1-FX
-Услуги
-Разработка программного обеспечения
-Учебные программы
-Тех. поддержка
-Обращение в техподдержку
-Центр загрузки
-Программное обеспечение
-Как заказать
-Контакты
-Поиск
-sale@npotelecom.ru
-+7 (3412) 573-040
-Оставить заявку
-Поиск
-НПО "ТЕЛЕКОМ"
-РАЗРАБАТЫВАЕМ И ПРОИЗВОДИМ В РОССИИ
-ТЕЛЕКОММУНИКАЦОННОЕ ОБОРУДОВАНИЕ
-Работаем с 1991 года, входим в Ассоциацию Производителей Оборудования Связи РФ
-Опытные сотрудники: инженеры-программисты, радиотехники, магистры
-Контроль качества и обязательные испытания - высоконадежное оборудование
-Поставка оборудования за счет компании, в любой регион России и за рубеж
-О компании
-ЗАО НПО «Телеком» работает на телекоммуникационном рынке с 1991 года. Все выпускаемое оборудование разрабатывается ресурсами Конструкторского бюро предприятия, работа которого нацелена на поиск и внедрение передовых технологий и разработок в соответствии с современными тенденциями развития рынка. В составе предприятия работают высококвалифицированные инженеры. Производство предприятия оснащено современным оборудование монтажа и сбора продукции.
-Наши контакты
-Адрес
-426039, Ижевск, ул. Воткинское шоссе, 31
-Телефон
-+7 (3412) 573-040
-E-mail
-sale@npotelecom.ru
-Посмотреть нас
-на большой карте
-sale@npotelecom.ru
-+7 (3412) 573-040
-Информационный блок партнера
-Создание сайта - Webfaza
-Оставить заявку
-Оставьте ваши контакты, и наш менеджер
-свяжется с Вами в ближайшее время.
-Я согласен на обработку персональных данных
-Консультация по услугам
-Оставьте ваши контакты, и наш менеджер
-свяжется с Вами в ближайшее время.
-Я согласен на обработку персональных данных
+# SB-475 cctvdepo.com · home · https://cctvdepo.com/bayi/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+CCTV Depo A.Ş.
+İletişim WhatsApp Teknik Destek Teknik Servis
+49.69
+Güvenlik Sistemleri
+Tüketici Elektroniği
+Hakkımızda
+Bayimiz Olun
+Bayi Girişi
+Ara
+Sorun, Öneri ve Şikayet
+Geri Bildiriminiz
+Sorun
+Öneri
+Şikayet
+Teşekkür
+Adınız Soyadınız
+Telefon Numaranız
+E-posta Adresiniz
+Mesajınız
+Mesajınızı sadece yönetim görecektir
+Gönder
+Üzgünüz, kullandığınız web tarayıcı video desteklemiyor.
+Devam Et
+Üzgünüz, kullandığınız web tarayıcı video desteklemiyor.
+Devam Et
+Kamera Sistemleri
+AHD Kameralar
+DVR Kayıt Cihazları
+IP Kameralar
+NVR Kayıt Cihazları
+Proje Ürünleri
+Bilgisayar Aksesuarları
+Mini PC
+Gaming Ürünler
+Mouse & Klavye
+Type-C Hublar
+Bilgisayar Monitörleri
+Network Ürünleri
+PoE Ürünler
+Network Switchler
+Fiber Optik
+Kablosuz Aktarım
+Mobil Tel Aksesuarları
+Kulaklık & Speaker
+Şarj Ürünleri
+Montaj Malzemeleri
+Adaptör
+Konnektör
+Kablo
+Kabinet
+Montaj Ekipmanı
+Akıllı Güvenlik
+Araç Kameraları
+4G / Solar Kameralar
+Wifi Kameralar
+Alarm Sistemleri
+PIR Dedektör
+Şirket Bilgileri
+Hakkımızda
+Bize Ulaşın
+Yasal Bilgilendirme
+Gizlilik ve Güvenlik
+İptal ve İade Koşulları
+Teslimat Bilgileri
+Mesafeli Satış Sözleşmesi
+İletişim Bilgilerimiz
+0850 303 03 17
+info@cctvdepo.com
+© 2026 Dokuzbit™ All Rights Reserved. v3.0.0 @ 10/25/2026
+Ana Sayfa Giriş Yap Ürünler İletişim Sepet

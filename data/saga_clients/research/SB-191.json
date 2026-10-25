@@ -1,179 +1,170 @@
 {
-  "code": "SB-191",
-  "name_official": "Switchtec Ltd（Co. 01613368，Stone, Staffordshire, UK；switchtec.com）",
-  "researched_at": "2026-10-21",
-  "website_status": "在线",
-  "summary": "英国斯塔福德郡 Stone 的工业电气/电子元器件分销商（1982 年成立，Alan Lester 创办，CEO Jeremy Lester；11–50 人；7,000+ 现货品类；无最小订量；FedEx/Royal Mail 发货）：继电器、定时器、接触器、SCL/Meanwell 电源、变压器、传感器、电机起动器，并新近代理 Kyland 工业以太网交换机（非管理 Opal 系列、管理型、EN50155 系列）。工业自动化渠道、已有中国品牌工业交换机线 → Saga STI 为价格替代/补充。用户表：17 次跟进 0 回复。",
-  "type": "",
-  "size": "",
-  "brands_seen": [
-    "Kyland",
-    "MEAN WELL",
-    "SCL"
-  ],
-  "evidence": [
-    {
-      "kind": "官网",
-      "claim": "公司定位与规模",
-      "quote": "Switchtec Ltd operates as a UK franchisee for world-wide manufacturers of quality components … For more 40 years … carries over seven thousand product lines ex-stock",
-      "url": "https://www.switchtec.com/About_Us",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网",
-      "claim": "Kyland 工业交换机品类",
-      "quote": "Unmanaged Ethernet Switches … EN50155 Ethernet Switches … Managed Ethernet Switches … Kyland Industrial Ethernet Switches",
-      "url": "https://www.switchtec.com/Products/kyland-Industrial-Ethernet-Switch",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网",
-      "claim": "地址、电话、邮箱",
-      "quote": "Switchtec Ltd, Brooms Road, Stone Business Park, Stone, Staffordshire ST15 0SH Telephone: 01785 818600 … Email: sales@switchtec.com … No minimum order quantity",
-      "url": "https://www.switchtec.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "行业媒体",
-      "claim": "CEO 与 Kyland 引入",
-      "quote": "Says CEO Jeremy Lester, \"… we have many new products coming through including solutions from leading global innovator in industrial internet technology Kyland.\"",
-      "url": "https://www.controlsdrivesautomation.com/Switchtec-celebrates-40-years",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "登记",
-      "claim": "法人登记",
-      "quote": "SWITCHTEC LIMITED … Brooms Road, Stone Business Park, Stone, Staffordshire, ST15 0SH … Incorporated on: 12 February 1982",
-      "url": "https://find-and-update.company-information.service.gov.uk/company/01613368",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "17 次跟进 0 回复",
-      "quote": "（用户表字段）",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Jeremy Lester",
-      "role": "CEO（行业媒体公开）",
-      "email": "sales@switchtec.com（公司公开）",
-      "phone": "+44 1785 818600",
-      "source": "https://www.controlsdrivesautomation.com/Switchtec-celebrates-40-years"
-    },
-    {
-      "name": "Mark Stevens",
-      "role": "Southern Area Sales Manager（官网新闻公开）",
-      "email": "—（未公开）",
-      "phone": "+44 1785 818600",
-      "source": "https://www.switchtec.com/ProductGrp/unmanaged-ethernet-switches"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（官网 + Companies House 核对）"
+ "code": "SB-191",
+ "name_official": "ООО «Астком»（Astkom；联系人 Гордеев Владислав — 彼尔姆 2006 与圣彼得堡 2016 两家同名公司均列其为负责人，待核）",
+ "researched_at": "2026-10-21",
+ "website_status": "无官网（mail.ru 邮箱）",
+ "summary": "俄罗斯贸易公司 ООО «Астком»：登记库显示两家——彼尔姆（2006 年，批发代理，总经理 Гордеев В.В.）与圣彼得堡（2016 年，ИНН 7838051581，2025 营收 7.58 亿 ₽、50 人，Гордеев В.В. 为负责人之一）；表内 Mr. Vladislav（gordeev.inntel@mail.ru，WA 已加）与之匹配。兴趣 SFP，陆续对 10G MC、mini 工业交换机、passive PoE 手册回「checking/OK」，2025 问「是工厂吗？卖俄罗斯吗？」，其余多为「有需求会说/暂时无需求」；19 次推送 3 次实质回复。俄语区贸易商 → B 20%，俄语沟通、人民币结算与制裁风险须注明。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "第三方",
+   "claim": "圣彼得堡实体登记与规模",
+   "quote": "ООО \"АСТКОМ\" … Дата создания: 25.03.2016; ИНН: 7838051581 … Количество сотрудников: 50 (2025) … ООО \"АСТКОМ\", Владислав Владиславович Гордеев",
+   "url": "https://vbankcenter.ru/contragent/1167847150910",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "legal_name": "Switchtec Limited（Companies House 01613368，1982-02-12）",
-    "founded": "1982",
-    "hq": "Brooms Road, Stone Business Park, Stone, Staffordshire ST15 0SH, UK（+44 1785 818600；sales@switchtec.com）",
-    "size": "11–50（LinkedIn）；7,000+ 现货品类",
-    "other": "CEO Jeremy Lester（创办人 Alan Lester 之子）；2024/25 新任南区销售经理 Mark Stevens；Kyland 英国渠道"
+  {
+   "kind": "第三方",
+   "claim": "彼尔姆实体登记",
+   "quote": "«АСТКОМ», ООО, г. Пермь … Основным видом деятельности является: \"Оптовая торговля через агентов\" … Генеральный директор ООО \"АСТКОМ\" — Гордеев Владислав Владиславович; Дата регистрации 1 декабря 2006",
+   "url": "http://neotorg.com/%D0%BF%D0%B5%D1%80%D0%BC%D1%8C/node/%D0%B0%D1%81%D1%82%D0%BA%D0%BE%D0%BC/1743332",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "工业电气/电子元器件分销（继电器、定时器、接触器、电源、传感器）",
-    "工业以太网交换机（Kyland：非管理 Opal、管理型、EN50155）",
-    "现场技术选型支持（销售工程师）"
-  ],
-  "products_seen": [
-    {
-      "brand": "Kyland",
-      "model": "Opal 系列（非管理）",
-      "spec": "4×10/100 RJ45 + 1 光/电口，冗余电源，IP30 金属壳，SC/ST/SFP 可选",
-      "url": "https://www.switchtec.com/ProductGrp/unmanaged-ethernet-switches",
-      "date": "2026-10-21",
-      "saga": "STI-140FE（4 FE + 1 SFP，$24.3）/ STI-140GE（$28.0）"
-    },
-    {
-      "brand": "Kyland",
-      "model": "EN50155 / 管理型系列",
-      "spec": "铁路与管理型工业交换机",
-      "url": "https://www.switchtec.com/Products/kyland-Industrial-Ethernet-Switch",
-      "date": "2026-10-21",
-      "saga": "STI-280DGGM（管理 8 GE + 2 SFP）；EN50155 守界不供"
-    }
-  ],
-  "channels": {
-    "网站": "https://www.switchtec.com/",
-    "电话": "+44 1785 818600（官网公开）",
-    "邮箱（公开）": "sales@switchtec.com",
-    "LinkedIn": "https://www.linkedin.com/company/switchtec-ltd"
+  {
+   "kind": "第三方",
+   "claim": "财务",
+   "quote": "Выручка снизилась до 758,1 млн руб. -53%; Чистая прибыль 823 тыс. руб.; Активы 601,3 млн руб.（2025）",
+   "url": "https://checko.ru/company/astkom-1167847150910",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "已建工业以太网品类（Kyland）但仅一家品牌 → 可作第二来源/价格线；无 MOQ、7,000 品类现货模式适合小批量 STI"
-  ],
-  "risks": [
-    "与 Kyland 代理关系（同为中国品牌，需差异化：Marvell 芯片、−40~+75 ℃、价格）；EN50155 铁路线守界；17 次跟进 0 回复"
-  ],
-  "saga_fit": {
-    "p1": "STI-280DGGM",
-    "tier": 20,
-    "why": "分销 20% 档：STI-280DGGM（DIN 8 GE + 2 SFP 管理，$121.0）与 STI-140GE（4 GE + 1 SFP 非管理，$26.9）作 Kyland 之外的第二工业线；PoE 版 STI-288DGGPM"
-  },
-  "email_hook": "Alongside the Kyland range you stock, a second industrial line at a lower price point — DIN 4-port gigabit with SFP from $26.9 and 8-port managed with 2 SFP at $121.0 EXW, −40 to +75 °C — may suit your no-MOQ model; would you like two evaluation units?",
-  "mail_review": {
-    "binding": {
-      "level": "未触达（1 封自动回复）；Elsa 群发 BCC 已触达 2026-09-04「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，UK 批次 To sales@cablenet.co.uk，0 回（第 73 批(o) Bcc 头核对 msg 1a06ba5722292bab）",
-      "type": "英国电气/网络分销（Switchtec）",
-      "sieve": "0",
-      "stop": "自动回复/机器人，无人工回复",
-      "revive": "不动",
-      "lane": "UK",
-      "cadence": "不动",
-      "evidence": "k=0fe645b425d2839a；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To sales@cablenet.co.uk）2025-03-30→2026-09-04 共 11 轮群发（Marvell Alleycat5 Solution、90W PoE Managed Switch、8 Port Industrial PoE Switch、48 Port PoE Managed Switch、16 Port Ethernet Switch、Mini Industrial PoE Switch、10G Enterprise SFP Switch、Industrial PoE Switch、OEM Core Switching Solution、Updated Ethernet Switches Links、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断"
-    },
-    "situation": "来信全部为机器回复；无人读信或无人回信。",
-    "need": "—",
-    "breakpoint": "—",
-    "saga_now": {
-      "p1": "—",
-      "tier": 20,
-      "price": "—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-07 $65（10G fiber media converter）、2024-12-24 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-20 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-01 $280（10G Enterprise SFP Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-09-04 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-04；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）（㉕ 封顶：STI-280DGGM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25）",
-      "why": "已打开的主题（1/28 封有打开记录）：「Passive poe switch」(2024-09-03) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "不动",
-      "channel": "—",
-      "action": "—",
-      "one_question": ""
-    },
-    "facts": [
-      {
-        "date": "2025-03-30",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To sales@cablenet.co.uk，UK 批次）",
-        "quote": "Marvell Alleycat5 Solution — We are doing Marvell Alleycat5 chip for tailored networking solutions. 1, Support Web GUI change(Logo, model name, MAC, SN, SNMP, OID) 2, Added intere",
-        "why": "Elsa 箱群发 BCC 触达证据（命中地址 sales@switchtec.com, switchtec.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-        "k": "elsa_bcc"
-      },
-      {
-        "date": "2026-09-04",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To sales@cablenet.co.uk，UK 批次）",
-        "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
-        "why": "Elsa 箱群发 BCC 触达证据（命中地址 sales@switchtec.com, switchtec.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-        "k": "elsa_bcc"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-25"
+  {
+   "kind": "用户表",
+   "claim": "回复记录",
+   "quote": "2024.4.25 10G MC → will check and reply；2024.5.17 mini工业交换机 → checking；2024.7.16 passive poe手册 → OK；2025.4.14 → 有需求会说 是工厂吗 卖俄罗斯吗？",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Гордеев Владислав Владиславович (Mr. Vladislav)",
+   "role": "总经理/负责人（登记库）",
+   "email": "gordeev.inntel@mail.ru",
+   "phone": "+7 950 469 9922（WA 已加）",
+   "source": "用户 Clients 表 + vbankcenter.ru / neotorg.com"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（登记库核对 · 身份待二选一）"
+ },
+ "company_facts": {
+  "legal_name": "ООО «АСТКОМ»（两家同名：ИНН 5902834780 彼尔姆 / ИНН 7838051581 圣彼得堡）",
+  "founded": "2006-12-01（彼尔姆）/ 2016-03-25（圣彼得堡）",
+  "hq": "彼尔姆（Пермь）/ 圣彼得堡 ул. Касимовская д. 5 литер А",
+  "size": "圣彼得堡实体：50 人（2025），营收 2025 758.1 млн ₽（-53%）、2022 1,119 млн ₽",
+  "other": "主营「通过代理的批发贸易」；负责人 Гордеев Владислав Владиславович（与表内 gordeev@mail.ru 匹配）"
+ },
+ "business_lines": [
+  "批发贸易（代理/佣金）与其他批发零售",
+  "网络/通信设备采购转售（表内：SFP、10G MC、工业交换机、passive PoE）"
+ ],
+ "products_seen": [],
+ "channels": {
+  "contact": "Mr. Vladislav (Гордеев В.В.) gordeev.inntel@mail.ru，+7 950 469 9922（WA 已加）"
+ },
+ "signals": [
+  "2025-04 问「是工厂吗？卖俄罗斯吗？」= 在筛选可对俄供货的源头",
+  "2024-07 passive PoE 手册回 OK"
+ ],
+ "risks": [
+  "对俄结算/物流合规风险（人民币结算、第三国中转需用户自行判断）",
+  "两家同名公司身份待核；mail.ru 个人信箱",
+  "主需求 SFP（Saga 价目无光模块，Q-32）"
+ ],
+ "saga_fit": {
+  "p1": "STI-288GP",
+  "tier": 20,
+  "why": "贸易商 20% 档；其对 mini 工业交换机/10G MC 曾回 checking → 以 DIN 8 PoE+ 2 SFP 走量工业款起手；SFP 需另询"
+ },
+ "email_hook": "Вы спрашивали, являемся ли мы производителем и поставляем ли в Россию: мы — торговая компания с собственными марками STI/STC (промышленные DIN-коммутаторы 8×PoE + 2×SFP от $57 EXW), расчёт в USD или CNY — прислать актуальный прайс?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 1 封 2026，无记录打开，0 回；收件 gordeev.inntel@mail.ru；主题多为「24 Port PoE Managed Switch」；Elsa 箱：`to:gordeev.inntel@mail.ru` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 1 / 来 0）（第 74 批(l)））",
+   "type": "—",
+   "sieve": "1（只收到群发）",
+   "stop": "1 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "RU 次级（Simon 2026-08 点名）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 1；用户表：「2024.4.25 10G MC → will check and reply；2024.5.17 mini工业交换机 → checking；2024.7.16」；研究档 risks：对俄结算/物流合规风险（人民币结算、第三国中转需用户自行判断）"
+  },
+  "situation": "俄罗斯贸易公司 ООО «Астком»：登记库显示两家——彼尔姆（2006 年，批发代理，总经理 Гордеев В.В.）与圣彼得堡（2016 年，ИНН 7838051581，2025 营收 7.58 亿 ₽、50 人，Гордеев В.В. 为负责人之一）；表内 Mr. Vladislav（gordeev.inntel@mail.ru，WA 已加）与之匹配。兴趣 SFP，陆续对 10G MC、mini 工业交换机、passive PoE 手册回「checking/OK」，2025 问「是工厂吗？卖俄罗斯吗？」，其余多为「有需求会说/暂时无需求」；19 次推送 3 次实质回复。俄语区贸易商 → B 20%，俄语沟通、人民币结算与制裁风险须注明。",
+  "need": "贸易商 20% 档；其对 mini 工业交换机/10G MC 曾回 checking → 以 DIN 8 PoE+ 2 SFP 走量工业款起手；SFP 需另询",
+  "breakpoint": "对俄结算/物流合规风险（人民币结算、第三国中转需用户自行判断）",
+  "saga_now": {
+   "p1": "STI-288GP",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-09-04 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170",
+   "why": "贸易商 20% 档；其对 mini 工业交换机/10G MC 曾回 checking → 以 DIN 8 PoE+ 2 SFP 走量工业款起手；SFP 需另询",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Вы спрашивали, являемся ли мы производителем и поставляем ли в Россию: коммутаторы STI/STC — наша собственная разработка на чипах Marvell (прошивка, Web-GUI и OEM-брендинг делаем сами), производство в Китае; в Россию отгружаем через вашего экспедитора в Гуанчжоу/Шэньчжэне, расчёт в USD или CNY. Прислать актуальный прайс на DIN-коммутаторы 8×PoE + 2×SFP?"
+  },
+  "facts": [
+   {
+    "date": "2024-04-25",
+    "dir": "来",
+    "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+    "quote": "用户表跟进：推「发了10G MC信息」→ 对方「Hello!  will check and reply」",
+    "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+    "k": "Clients/A/DONE/优质俄罗斯客户 2.9.xlsx no.10 2024.4.25"
+   },
+   {
+    "date": "2024-09-26",
+    "dir": "来",
+    "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+    "quote": "用户表跟进：推「2.5G ethernet」→ 对方「暂时无需求」",
+    "why": "Simon 跟进表里的回应记录（邮箱看不到的渠道）；按原文留存",
+    "k": "Clients/A/DONE/优质俄罗斯客户 2.9.xlsx no.10 926"
+   },
+   {
+    "date": "2025-04-14",
+    "dir": "来",
+    "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+    "quote": "用户表跟进：推「发了10G MC信息」→ 对方「有需求会说 是工厂吗 卖俄罗斯吗？」",
+    "why": "Simon 跟进表里的**婉拒/无需求**记录——这是 stop 原因的直接证据，节奏按「不动，等他开口」",
+    "k": "Clients/A/DONE/优质俄罗斯客户 2.9.xlsx no.10 414"
+   },
+   {
+    "date": "2025-08-28",
+    "dir": "来",
+    "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+    "quote": "用户表跟进：推「洪瑞商业PoE」→ 对方「暂时无需求」",
+    "why": "Simon 跟进表里的回应记录（邮箱看不到的渠道）；按原文留存",
+    "k": "Clients/A/DONE/优质俄罗斯客户 2.9.xlsx no.10 828"
+   },
+   {
+    "date": "2026-09-04",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "24 Port PoE Managed Switch",
+    "why": "1 封 / 0 次打开 / 0 回｜首封 2026-09-04 → 末封 2026-09-04（1 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "2024.4.25 10G MC → will check and reply；2024.5.17 mini工业交换机 → checking；2024.7.16 passive poe手册 → OK；2025.4.14 → 有需求会说 是工",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

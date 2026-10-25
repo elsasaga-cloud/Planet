@@ -1,126 +1,125 @@
 {
  "code": "SB-467",
- "name_official": "",
+ "name_official": "Nortel İletişim（Antalya, TR；norteliletisim.com）",
  "researched_at": "2026-10-21",
- "website_status": "在线（itegra.lt，快照 2026-10-21）",
- "summary": "立陶宛 ITEGRA（设计与安装安防系统：视频监控摄像机、报警、消防系统与智能家居；表内国别「意大利」有误（.lt 域名、立陶宛业务）；表内「有 Utepo 的」）；表内 1 次跟进无回复。",
- "type": "安防安装商（立陶宛，PoE 现 Utepo）",
+ "website_status": "在线",
+ "summary": "安塔利亚的通信/网络集成商 Nortel İletişim（与 Nortel Networks 无关；业务：Avaya IP 电话交换机、LAN、结构化布线与机房、光纤骨干与熔接、CCTV、火灾探测、紧急广播；7/24 支持；Varlık Mah. Piri Reis Cad. No:19/B Muratpaşa + Yükseliş Mah. 2116 Sk. 26/A Kepez；+90 242 237 27 27；info@/nortel@norteliletisim.com）。ISAF 记录：项目经理 Bayram Tatlı——没说什么、要 catalog；WhatsApp 已加（+90 530 136 94 07）；无后续跟进。安塔利亚酒店/旅游业弱电项目 → 25%。",
+ "type": "",
  "size": "",
  "brands_seen": [
-  "Utepo"
+  "Avaya（电话系统）"
  ],
  "evidence": [
   {
-   "kind": "官网快照",
-   "claim": "官网标题：Apsaugos sistemos, išmanūs namai ir signalizacija | ITEGRA",
-   "quote": "ITEGRA projektuoja ir montuoja apsaugos sistemos, vaizdo stebėjimo kameras, signalizacijas, priešgaisrines sistemas ir išmaniųjų namų sprendimus Lietuvoje.",
-   "url": "https://itegra.lt/",
+   "kind": "官网",
+   "claim": "业务与地址",
+   "quote": "Santral Sistemleri Telekomünikasyon sistemlerinde AVAYA IP Santraller … Network LAN … Data Pasif component çözümlerinde Cabling Systems ve Sistem Odası … Kamera Kapalı Devre Kamera Sistemleri … 0242 237 27 27 Varlık Mah. Piri Reis Cad. M.B.ngöl Apt. No:19/B Muratpaşa /ANTALYA … nortel@norteliletisim.com",
+   "url": "http://norteliletisim.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "服务与第二地址",
+   "quote": "Nortel İletişim Antalya – Fiber optik altyapı, telefon santrali kurulumu, güvenlik kamerası sistemleri, data kablolama, yangın algılama … Yükseliş Mahallesi 2116 Sokak 26/A Kepez /ANTALYA … Email: info@norteliletisim.com",
+   "url": "http://norteliletisim.com/Default/HizmetDetay/9",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "有Utepo的",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "ITEGRA 定位",
-   "quote": "Apsaugos sistemos, išmanūs namai ir signalizacija | ITEGRA ; projektuoja ir montuoja apsaugos sistemos, vaizdo stebėjimo kameras, signalizacijas, priešgaisrines sistemas ; Lietuvoje",
-   "url": "https://itegra.lt/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "有 Utepo 的",
-   "quote": "有Utepo的",
+   "claim": "ISAF：要目录；WhatsApp 已加",
+   "quote": "没说什么，要catalog / 90 53013 69407 已加",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Bayram Tatlı",
+   "role": "Project Manager（用户表名片）",
+   "email": "bayram@norteliletisim.com（用户表）",
+   "phone": "+90 530 136 94 07（用户表，WhatsApp 已加）",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（官网核对）"
  },
  "company_facts": {
-  "hq": "意大利",
-  "other": "官网 itegra.lt，语言 en-US，快照状态 ok；角色判定来源：官网文案"
+  "legal_name": "Nortel İletişim",
+  "hq": "Varlık Mah. Piri Reis Cad. M.Bingöl Apt. No:19/B Muratpaşa / Antalya；Yükseliş Mah. 2116 Sk. 26/A Kepez / Antalya（+90 242 237 27 27；info@norteliletisim.com）",
+  "size": "小型集成商（人数待核）",
+  "other": "Avaya 电话系统 + 布线 + 光纤 + CCTV；守界：火灾探测主系统不供"
  },
  "business_lines": [
-  "安防 / 视频监控 / 消防 / 智能家居安装（立陶宛）"
+  "电话交换机（Avaya IP PBX）与数据网络",
+  "结构化布线、光纤骨干、CCTV、广播"
  ],
  "channels": {
-  "role": "安防安装商（立陶宛，PoE 现 Utepo）",
-  "region": "立陶宛",
-  "contact": "pagalba@itegra.lt"
+  "网站": "http://norteliletisim.com/",
+  "电话": "+90 242 237 27 27（公开）",
+  "邮箱（公开）": "info@norteliletisim.com / nortel@norteliletisim.com"
  },
  "signals": [
-  "官网：ITEGRA projektuoja ir montuoja apsaugos sistemos, vaizdo stebėjimo kameras, signalizacijas, priešgaisrines sistemas ir išmaniųjų namų sprendimus Lietuvoje",
-  "表内：有 Utepo 的"
+  "酒店/旅游区 IP 电话 + CCTV + 光纤骨干 → 24 口 PoE+ 与 2 光 8 电接入是标准 BOM；项目经理直达"
  ],
  "risks": [
-  "小国（立陶宛，非主动开拓区）；国别已更正（表内误填意大利）；安装商（单项目量小）；现供 Utepo 价格基准低"
+  "ISAF 只要了目录；无后续跟进"
  ],
  "saga_fit": {
-  "p1": "STC-28DGGPM",
+  "p1": "STC-424DGGPM-280W",
   "tier": 25,
-  "why": "监控配套 PoE（现 Utepo）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）；工业 8 PoE + 2 SFP STI-288GP（$59.8）；非管理 4/8 PoE 位 HRUI（列表价，注明）"
+  "why": "集成商 25% 档：STC-424DGGPM-280W（24 GE PoE+ 4 SFP L2+，280 W，$140.1）给 IP 话机 + 摄像机混合接入；楼层 STC-28DGGPM（$84.1）；光纤骨干配 SFP"
  },
- "email_hook": "For the PoE switches in your camera and alarm installations, we supply Marvell-based 8-PoE + 2 SFP L2+ and DIN-rail 8-PoE + 2 SFP industrial units from single units, CE/RoHS, EXW USD — which PoE port count do your Lithuanian sites use most alongside Utepo?",
- "country_fix": "立陶宛",
+ "email_hook": "Bayram Bey, istediğiniz kataloğun yanında: otel/işyeri projelerinizde IP telefon + kamera için 24 port PoE+ (280 W) + 4 SFP L2+ switch EXW 140,1 USD, kat switch'i 2 SFP + 8 PoE 84,1 USD — yaklaşan projede toplam kaç port PoE gerekiyor?",
  "mail_review": {
   "binding": {
-   "level": "未触达（A 邮箱 12 封 2025→2026，无记录打开，0 回；收件 pagalba@itegra.lt；主题多为「10G Enterprise SFP Switch、Booster PoE Switch」；Elsa 箱：`to:itegra.lt` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 12 / 来 0）（第 74 批(k)））",
-   "type": "安防安装商（立陶宛，PoE 现 Utepo）",
-   "sieve": "1（只收到群发）",
-   "stop": "12 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "立陶宛（欧洲全域主攻）",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 12；用户表：「有Utepo的」；研究档 risks：小国（立陶宛，非主动开拓区）；国别已更正（表内误填意大利）；安装商（单项目量小）；现供 Utepo 价格基准低"
+   "level": "轻度触达（邮件无证，WhatsApp/WeChat 已加）：用户表「没说什么，要catalog / 90 53013 69407 已加」；S/A 邮箱 0 封；Elsa 箱：`to:norteliletisim.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(i)）",
+   "type": "—",
+   "sieve": "3（已加 WhatsApp，表内有往来）",
+   "stop": "仓库只有用户表一行；往来在 Simon 手机",
+   "revive": "首封邮件（A 邮箱，按 email_hook）+ WhatsApp 一句话",
+   "lane": "土耳其 非主攻",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 0；用户表：「没说什么，要catalog / 90 53013 69407 已加」；研究档 risks：ISAF 只要了目录；无后续跟进"
   },
-  "situation": "立陶宛 ITEGRA（设计与安装安防系统：视频监控摄像机、报警、消防系统与智能家居；表内国别「意大利」有误（.lt 域名、立陶宛业务）；表内「有 Utepo 的」）；表内 1 次跟进无回复。",
-  "need": "监控配套 PoE（现 Utepo）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）；工业 8 PoE + 2 SFP STI-288GP（$59.8）；非管理 4/8 PoE 位 HRUI（列表价，注明）",
-  "breakpoint": "小国（立陶宛，非主动开拓区）；国别已更正（表内误填意大利）；安装商（单项目量小）；现供 Utepo 价格基准低",
+  "situation": "安塔利亚的通信/网络集成商 Nortel İletişim（与 Nortel Networks 无关；业务：Avaya IP 电话交换机、LAN、结构化布线与机房、光纤骨干与熔接、CCTV、火灾探测、紧急广播；7/24 支持；Varlık Mah. Piri Reis Cad. No:19/B Muratpaşa + Yükseliş Mah. 2116 Sk. 26/A Kepez；+90 242 237 27 27；info@/nortel@norteliletisim.com）。ISAF 记录：项目经理 Bayram Tatlı——没说什么、要 catalog；WhatsApp 已加（+90 530 136 94 07）；无后续跟进。安塔利亚酒店/旅游业弱电项目 → 25%。",
+  "need": "集成商 25% 档：STC-424DGGPM-280W（24 GE PoE+ 4 SFP L2+，280 W，$140.1）给 IP 话机 + 摄像机混合接入；楼层 STC-28DGGPM（$84.1）；光纤骨干配 SFP",
+  "breakpoint": "ISAF 只要了目录；无后续跟进",
   "saga_now": {
-   "p1": "STC-28DGGPM",
+   "p1": "STC-424DGGPM-280W",
    "tier": 25,
-   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-09-24 $280（10G Enterprise SFP Switch）",
-   "why": "监控配套 PoE（现 Utepo）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）；工业 8 PoE + 2 SFP STI-288GP（$59.8）；非管理 4/8 PoE 位 HRUI（列表价，注明）",
+   "price": "按主表（研究档 saga_fit）",
+   "why": "集成商 25% 档：STC-424DGGPM-280W（24 GE PoE+ 4 SFP L2+，280 W，$140.1）给 IP 话机 + 摄像机混合接入；楼层 STC-28DGGPM（$84.1）；光纤骨干配 SFP",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开",
-   "one_question": "For the PoE switches in your camera and alarm installations, we supply Marvell-based 8-PoE + 2 SFP L2+ and DIN-rail 8-PoE + 2 SFP industrial units from single units, CE/RoHS, EXW USD — which PoE port count do your Lithuanian sites use most alongside Utepo?"
+   "when": "2026-11（Simon）",
+   "channel": "A 邮箱首封 + WhatsApp（Simon）",
+   "action": "首封 + 一句话",
+   "one_question": "Bayram Bey, istediğiniz kataloğun yanında: otel/işyeri projelerinizde IP telefon + kamera için 24 port PoE+ (280 W) + 4 SFP L2+ switch EXW 140,1 USD, kat switch'i 2 SFP + 8 PoE 84,1 USD — yaklaşan projede toplam kaç port PoE gerekiyor?"
   },
   "facts": [
-   {
-    "date": "2026-10-07",
-    "dir": "去",
-    "who": "A 群发",
-    "quote": "10G Enterprise SFP Switch、Booster PoE Switch",
-    "why": "12 封 / 0 次打开 / 0 回｜首封 2025-09-24 → 末封 2026-10-07（12 去 / 0 来）",
-    "k": "gmail_digest"
-   },
    {
     "date": "2026-10-21",
     "dir": "用户表",
     "who": "Simon",
-    "quote": "有Utepo的",
+    "quote": "没说什么，要catalog / 90 53013 69407 已加",
     "why": "表内备注",
     "k": "用户表"
    }
   ],
-  "proof_gaps": [],
-  "draft_en": null,
+  "proof_gaps": [
+   "WhatsApp 往来未入库"
+  ],
+  "draft_en": {
+   "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+   "body": "Bayram Bey, istediğiniz kataloğun yanında: otel/işyeri projelerinizde IP telefon + kamera için 24 port PoE+ (280 W) + 4 SFP L2+ switch EXW 140,1 USD, kat switch'i 2 SFP + 8 PoE 84,1 USD — yaklaşan projede toplam kaç port PoE gerekiyor?"
+  },
   "as_of": "2026-10-24"
  }
 }

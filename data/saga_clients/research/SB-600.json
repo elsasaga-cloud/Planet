@@ -2,103 +2,96 @@
  "code": "SB-600",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "在线（smartintercom.eu，快照 2026-10-21）",
- "summary": "SmartIntercom（smartintercom.eu：与 Akuvox 合作的室内外门禁对讲高端分销商；表内国别未填（.eu，联系人 Ronald；国别待核）；表内「4 口工业级 PoE 交换机报价」；KP Ronald（roh@））；表内 6 次跟进无回复。",
- "type": "对讲/门禁分销商（欧洲，4 口工业 PoE 报价）",
+ "website_status": "在线（t1nexus.com，快照 2026-10-21）",
+ "summary": "美国 T1 Nexus（OEM 兼容光模块与线缆品牌（ISO/TL9000，终身保修），兼售 MC（18 处）与交换机（T1-DS2024G）；表内「MC 光路的」）；表内 3 次跟进无回复。",
+ "type": "兼容光模块/线缆品牌商（美国，MC/交换机副线）",
  "size": "",
  "brands_seen": [
-  "Akuvox"
+  "Cisco",
+  "Juniper"
  ],
  "evidence": [
   {
    "kind": "官网快照",
-   "claim": "官网标题：Home • SmartIntercom；品类词 安防监控（CCTV / 门禁） / 网络交换 / PoE",
-   "quote": "Premium distributor of indoor & outdoor (home) entry systems in cooperation with Akuvox",
-   "url": "https://smartintercom.eu/",
+   "claim": "官网标题：Affordable OEM Transceivers and OEM Cable；品类词 数据中心 / 企业 IT / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "Access cost-effective, quality-checked next-gen switches, compatible coded oem transceivers, oem cables, and advanced end-user and production coding solutions.",
+   "url": "https://t1nexus.com/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
    "claim": "表内兴趣/备注",
-   "quote": "4口工业级PoE交换机报价",
+   "quote": "MC 光路的",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   },
   {
    "kind": "官网快照",
-   "claim": "SmartIntercom 定位",
-   "quote": "Home • SmartIntercom ; Premium distributor of indoor & outdoor (home) entry systems in cooperation with Akuvox",
-   "url": "https://smartintercom.eu/",
+   "claim": "T1 Nexus 定位",
+   "quote": "Affordable OEM Transceivers and OEM Cable ; quality-checked next-gen switches, compatible coded oem transceivers ; /product/t1-ds2024g/",
+   "url": "https://t1nexus.com/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "4 口工业级 PoE 报价",
-   "quote": "4口工业级PoE交换机报价",
+   "claim": "MC 光路的",
+   "quote": "MC 光路的",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
- "kp": [
-  {
-   "name": "Ronald",
-   "title": "（负责人）",
-   "email": "roh@smartintercom.eu",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
+ "kp": [],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "未填",
-  "other": "官网 smartintercom.eu，语言 en-US，快照状态 ok；角色判定来源：官网文案"
+  "hq": "美国",
+  "other": "官网 t1nexus.com，语言 en-US，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "门禁对讲系统分销（Akuvox）"
+  "兼容光模块 / 线缆 / MC / 交换机（自有品牌 T1）"
  ],
  "channels": {
-  "role": "对讲/门禁分销商（欧洲，4 口工业 PoE 报价）",
-  "region": "未填",
-  "contact": "roh@smartintercom.eu"
+  "role": "兼容光模块/线缆品牌商（美国，MC/交换机副线）",
+  "region": "美国",
+  "contact": "info@t1nexus.com"
  },
  "signals": [
-  "官网：Premium distributor of indoor & outdoor (home) entry systems in cooperation with Akuvox ; 99.9% uptime ; RONALD, SMARTINTERCOM；kw poe 9 / distributor 7",
-  "表内：4 口工业级 PoE 交换机报价"
+  "官网：Access cost-effective, quality-checked next-gen switches, compatible coded oem transceivers, oem cables ; ISO and TL9000 Quality with a Lifetime Warranty；页面 /product/t1-ds2024g/、/product/t1-sfp-1g-lx/；kw media converter 18 / sfp 25 / cable 83",
+  "表内：MC 光路的"
  ],
  "risks": [
-  "国别待核（表内未填，.eu 域名）；分销商（Akuvox 自带 PoE 配件）；6 次无回复"
+  "主业兼容光模块（Saga 不供），MC/交换机为副线；3 次无回复，仅 info@"
  ],
  "saga_fit": {
-  "p1": "STI-154GP",
-  "tier": 20,
-  "why": "询价 4 口工业 PoE → 工业 4 PoE + 1 SFP STI-154GP（$37.7 @20%）/ 4 PoE + 1 GE STI-054GP（$31.2）；室内 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7）"
+  "p1": "STI-110GE",
+  "tier": 30,
+  "why": "T1 标 MC → 工业千兆 MC STI-110GE（$24.3 @30%）、工业 PoE MC STI-111GP（$30.1）；T1 标接入交换机 24 GE + 4×10G STC-424XGGM（$138.0）；光模块/线缆 Saga 不供"
  },
- "email_hook": "Ronald, following your request for a 4-port industrial PoE switch: we supply DIN-rail 4-PoE + 1 SFP and 4-PoE + 1 GE units (−40~75 °C, 12–57 V, 802.3at, CE/RoHS) from single units, EXW USD — how many units, and do your Akuvox door stations need 802.3bt power?",
+ "email_hook": "For the media converters and access switches sold under the T1 label alongside your optics, we can supply gigabit/PoE MCs and Marvell-based 24-GE + 4×10G L2+ switches in your packaging from small lots, FCC/CE/RoHS — which MC configuration do your data-center and telecom customers order most?",
  "mail_review": {
   "binding": {
-   "level": "未触达（A 邮箱 15 封 2025→2026，无记录打开，0 回；收件 roh@smartintercom.eu；主题多为「Industrial PoE Switch、48 Port PoE Managed Switch」；Elsa 箱：`to:smartintercom.eu` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 15 / 来 0）（第 74 批(n)））",
-   "type": "对讲/门禁分销商（欧洲，4 口工业 PoE 报价）",
+   "level": "未触达（A/S 邮箱 8 封 2024→2026，无记录打开，0 回；收件 info@t1nexus.com；主题多为「Industrial PoE Switch、10G Enterprise SFP Switch」；Elsa 箱：`to:t1nexus.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 8 / 来 0）（第 74 批(h)））",
+   "type": "兼容光模块/线缆品牌商（美国，MC/交换机副线）",
    "sieve": "1（只收到群发）",
-   "stop": "15 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "stop": "只打通用邮箱，无记录打开",
    "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "未填 非主攻",
+   "lane": "US 主攻（四主）",
    "cadence": "季度",
-   "evidence": "gmail_digest：out 15；用户表：「4口工业级PoE交换机报价」；研究档 risks：国别待核（表内未填，.eu 域名）；分销商（Akuvox 自带 PoE 配件）；6 次无回复"
+   "evidence": "gmail_digest：out 8；用户表：「MC 光路的」；研究档 risks：主业兼容光模块（Saga 不供），MC/交换机为副线；3 次无回复，仅 info@"
   },
-  "situation": "SmartIntercom（smartintercom.eu：与 Akuvox 合作的室内外门禁对讲高端分销商；表内国别未填（.eu，联系人 Ronald；国别待核）；表内「4 口工业级 PoE 交换机报价」；KP Ronald（roh@））；表内 6 次跟进无回复。",
-  "need": "询价 4 口工业 PoE → 工业 4 PoE + 1 SFP STI-154GP（$37.7 @20%）/ 4 PoE + 1 GE STI-054GP（$31.2）；室内 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7）",
-  "breakpoint": "国别待核（表内未填，.eu 域名）；分销商（Akuvox 自带 PoE 配件）；6 次无回复",
+  "situation": "美国 T1 Nexus（OEM 兼容光模块与线缆品牌（ISO/TL9000，终身保修），兼售 MC（18 处）与交换机（T1-DS2024G）；表内「MC 光路的」）；表内 3 次跟进无回复。",
+  "need": "T1 标 MC → 工业千兆 MC STI-110GE（$24.3 @30%）、工业 PoE MC STI-111GP（$30.1）；T1 标接入交换机 24 GE + 4×10G STC-424XGGM（$138.0）；光模块/线缆 Saga 不供",
+  "breakpoint": "主业兼容光模块（Saga 不供），MC/交换机为副线；3 次无回复，仅 info@",
   "saga_now": {
-   "p1": "STI-154GP",
-   "tier": 20,
-   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-05-30 $300（48 Port PoE Managed Switch）、2025-10-08 $280（10G Enterprise SFP Switch）、2026-06-18 $16000（32 Port 400GB DC Switch）",
-   "why": "询价 4 口工业 PoE → 工业 4 PoE + 1 SFP STI-154GP（$37.7 @20%）/ 4 PoE + 1 GE STI-054GP（$31.2）；室内 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7）",
+   "p1": "STI-110GE",
+   "tier": 30,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-15 $280（10G Enterprise SFP Switch）",
+   "why": "T1 标 MC → 工业千兆 MC STI-110GE（$24.3 @30%）、工业 PoE MC STI-111GP（$30.1）；T1 标接入交换机 24 GE + 4×10G STC-424XGGM（$138.0）；光模块/线缆 Saga 不供",
    "repeat": [],
    "gaps": []
   },
@@ -106,22 +99,22 @@
    "when": "群发节奏",
    "channel": "A 邮箱",
    "action": "观察打开",
-   "one_question": "Ronald, following your request for a 4-port industrial PoE switch: we supply DIN-rail 4-PoE + 1 SFP and 4-PoE + 1 GE units (−40~75 °C, 12–57 V, 802.3at, CE/RoHS) from single units, EXW USD — how many units, and do your Akuvox door stations need 802.3bt power?"
+   "one_question": "For the media converters and access switches sold under the T1 label alongside your optics, we can supply gigabit/PoE MCs and Marvell-based 24-GE + 4×10G L2+ switches in your packaging from small lots, FCC/CE/RoHS — which MC configuration do your data-center and telecom customers order most?"
   },
   "facts": [
    {
-    "date": "2026-09-14",
+    "date": "2026-02-06",
     "dir": "去",
-    "who": "A 群发",
-    "quote": "Industrial PoE Switch、48 Port PoE Managed Switch",
-    "why": "15 封 / 0 次打开 / 0 回｜首封 2025-03-20 → 末封 2026-09-14（15 去 / 0 来）",
+    "who": "A/S 群发",
+    "quote": "Industrial PoE Switch、10G Enterprise SFP Switch",
+    "why": "8 封 / 0 次打开 / 0 回｜首封 2024-06-27 → 末封 2026-02-06（8 去 / 0 来）",
     "k": "gmail_digest"
    },
    {
     "date": "2026-10-21",
     "dir": "用户表",
     "who": "Simon",
-    "quote": "4口工业级PoE交换机报价",
+    "quote": "MC 光路的",
     "why": "表内备注",
     "k": "用户表"
    }

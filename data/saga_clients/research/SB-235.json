@@ -1,131 +1,131 @@
 {
  "code": "SB-235",
- "name_official": "Rima Elektronik Bilişim ve Güvenlik Sistemleri San. ve Dış Tic. Ltd. Şti.",
+ "name_official": "Bos Italy S.r.l.（意大利维琴察）",
  "researched_at": "2026-10-21",
- "website_status": "在线（rimaelektronik.com；并档 Planet 渠道档案 PB-032）",
- "summary": "伊斯坦布尔的安防集成商，自己设计安装校园/企业监控系统并在线销售 PLANET PoE 交换机。类型：安防集成商/经销（2000 年起；CCTV/IP 监控系统设计、安装、技术服务 + 产品销售；兼工业自动化方案；Turkcell 数字业务合作伙伴）。信号：网店在售 Planet PL-GS-4210-8P2S、IGS-5225-8P4S（「IP Ekipmanları › PoE Switch」类目）。Planet 渠道档案 PB-032 评级 B（需求：PLANET PoE/工业 PoE 在售 + 自装监控项目；触达：bilgi@rimaelektronik.com 官网公开，无具名；体量小型 Ltd.，可赢；区域土耳其（T05 新增））。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-235，土耳其，Saga 群发已推送 2 次无回复）与 Planet 渠道挖掘名单，首触邮件此前未发送。",
+ "website_status": "在线（bositaly.it，快照 2026-10-21）",
+ "summary": "意大利网络 / 安防分销商 Bos Italy（+39 0444 868678；poe 101 / switch 99 / industrial 22），info@（表内「可多跟进」）；表内「工业 FS，Hasivo 的」；群发 13 次无回复。",
  "type": "",
  "size": "",
  "brands_seen": [
-  "PLANET"
+  "Hasivo"
  ],
  "evidence": [
   {
-   "kind": "卖方目录",
-   "claim": "PLANET PoE 在售",
-   "quote": "8 Port: Planet PL GS 4210 8P2S PoE Switch - IP Kamera Güvenlik Sistemleri … 12 Port: Planet IGS 5225 8P4S Endüstriyel PoE Switch",
-   "url": "https://www.rimaelektronik.com/ip-ekipmanlari/poe-switch/8-port/planet-pl-gs-4210-8p2s-poe-switch.html",
-   "date": "2026-10-19"
+   "kind": "官网快照",
+   "claim": "Bos Italy S.r.l.；+39 0444 868678",
+   "quote": "Bos Italy S.r.l.",
+   "url": "https://bositaly.it/",
+   "date": "2026-10-21"
   },
   {
-   "kind": "公司自述",
-   "claim": "联系与业务；客户评价证明自装项目",
-   "quote": "bilgi@rimaelektronik.com … 1. İnönü Cad. No:18 Kat:1 Beşyol / Florya İSTANBUL … Dört farklı lokasyonda yer alan kampüslerimiz için yapmış oldukları güvenlik kamera sisteminin projelendirilmesi, kurulum ve devreye alınması",
-   "url": "https://www.rimaelektronik.com/iletisim",
-   "date": "2026-10-19"
-  },
-  {
-   "kind": "第三方",
-   "claim": "业务描述",
-   "quote": "Rima Elektronik is a Turkish company specialize primarily in security systems and solutions also industrial automation solutions … Sales and Installation of Security Equipment（ensun）",
-   "url": "https://ensun.io/company/rima-elektronik-bilisim-ve-guvenlik-sistemleri-san-ve-dis-tic-ltd-sti-6831d40abb221e8f64779ca4-managed",
-   "date": "2026-10-19"
+   "kind": "用户表",
+   "claim": "工业 FS Hasivo 的；可以尝试多跟进一下",
+   "quote": "兴趣：工业FS Hasivo的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "（未具名）",
+   "title": "",
+   "email": "info@bositaly.it",
+   "phone": "+39 0444 868678",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（并档 Planet 渠道档案 PB-032，W 批次调研 2026-10-19/20）"
+  "level": "B 级加厚 v1（官网快照核对 + 表内）"
  },
  "company_facts": {
-  "legal_name": "Rima Elektronik Bilişim ve Güvenlik Sistemleri San. ve Dış Tic. Ltd. Şti.",
+  "legal_name": "Bos Italy S.r.l.",
   "founded": "",
-  "hq": "İstanbul（Florya）, 土耳其",
-  "size": "",
-  "other": "Planet 渠道档案 PB-032（2026-10-19_W04_土耳其与北美并档_TR-US-CA-CZ-DE-AT-IT-NL.json）；自有品牌：否；最大未知：年项目数与交换机台数；是否也转售给其他安装商"
+  "hq": "Vicenza, Italy（+39 0444）",
+  "size": "小型分销",
+  "other": "已售 Hasivo 工业 FS"
  },
  "business_lines": [
-  "安防集成商/经销（2000 年起；CCTV/IP 监控系统设计、安装、技术服务 + 产品销售；兼工业自动化方案；Turkcell 数字业务合作伙伴）"
- ],
- "products_seen": [
-  {
-   "brand": "PLANET",
-   "model": "PL-GS-4210-8P2S",
-   "spec": "8×GE PoE+ + 2 SFP",
-   "saga": "STC-28DGGPM",
-   "url": "https://rimaelektronik.com",
-   "date": "2026-10-19"
-  },
-  {
-   "brand": "PLANET",
-   "model": "IGS-5225-8P4S",
-   "spec": "工业 8 口 PoE + 4 SFP",
-   "saga": "STI-488DGGPM",
-   "url": "https://rimaelektronik.com",
-   "date": "2026-10-19"
-  }
+  "网络 / 安防分销"
  ],
  "channels": {
-  "role": "安防集成商/经销（2000 年起；CCTV/IP 监控系统设计、安装、技术服务 + 产品销售；兼工业自动化方案；Turkcell 数字业务合作伙伴）",
-  "region": "土耳其"
+  "role": "分销商（已售中国同行）",
+  "region": "意大利"
  },
  "signals": [
-  "自己做校园级监控项目（客户评价：四个校区的监控系统设计与安装）→ PoE 交换机是其每个项目的标配；小公司 bilgi@ 直达"
+  "已售 Hasivo 工业 FS → 同类替换"
  ],
  "risks": [
-  "年项目数与交换机台数；是否也转售给其他安装商",
-  "Planet 首触邮件未发送（Elsa 账号待定）",
-  "Saga 群发已推送 2 次无回复 → 改用具名收件人与新钩子（勿再用群发模板）"
+  "13 次群发无回复；无具名"
  ],
  "saga_fit": {
-  "p1": "STC-424DGGPM-280W",
-  "tier": 25,
-  "why": "监控项目最走量的 24 口 PoE；其在售 8 口 PL-GS-4210-8P2S 对位 STC-28DGGPM 作第二台阶；集成/安装型 → 25%（沿用 Planet 档案 PB-032）；需求："
+  "p1": "STI-288GP",
+  "tier": 20,
+  "why": "对位 Hasivo 工业 2 光 8 PoE → STI-288GP（$57.4 @20%）。"
  },
- "email_hook": "Every multi-campus camera project you deliver needs PoE switching; a 24-port PoE+ at integrator pricing lowers your bill of materials without changing the design. On a typical campus camera project, do you deploy one 24-port PoE+ per building or several 8-port units per floor?",
+ "email_hook": "Buongiorno — beside the Hasivo industrial switches: DIN 2-SFP + 8-PoE at $57 and Marvell managed at $79 EXW, CE/RoHS; shall I send a sample to Vicenza?",
  "mail_review": {
   "binding": {
-   "level": "未触达（A 邮箱 12 封 2025→2026，无记录打开，0 回；收件 bilgi@rimaelektronik.com, salih.senyurt@rimaelektronik.com；主题多为「10G Enterprise SFP Switch、Industrial PoE Switch」；Elsa 箱：`to:rimaelektronik.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 12 / 来 0）（第 74 批(i)））",
+   "level": "未触达（A/S 邮箱 22 封 2024→2026，无记录打开，0 回；收件 info@bositaly.it；主题多为「Industrial PoE Switch、24 Port Fiber Switch」；Elsa 箱：`to:bositaly.it` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 22 / 来 0）（第 74 批(j)））",
    "type": "—",
    "sieve": "1（只收到群发）",
-   "stop": "12 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱；Q-33 供应商渠道客户",
-   "revive": "不动（Q-33）",
-   "lane": "TR 主攻（四主）",
-   "cadence": "不动",
-   "evidence": "gmail_digest：out 12；研究档 risks：年项目数与交换机台数；是否也转售给其他安装商"
+   "stop": "只打通用邮箱，无记录打开",
+   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+   "lane": "意大利（欧洲全域主攻）",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 22；用户表：「兴趣：工业FS Hasivo的」；研究档 risks：13 次群发无回复；无具名"
   },
-  "situation": "伊斯坦布尔的安防集成商，自己设计安装校园/企业监控系统并在线销售 PLANET PoE 交换机。类型：安防集成商/经销（2000 年起；CCTV/IP 监控系统设计、安装、技术服务 + 产品销售；兼工业自动化方案；Turkcell 数字业务合作伙伴）。信号：网店在售 Planet PL-GS-4210-8P2S、IGS-5225-8P4S（「IP Ekipmanları › PoE Switch」类目）。Planet 渠道档案 PB-032 评级 B（需求：PLANET PoE/工业 PoE 在售 + 自装监控项目；触达：bilgi@rimaelektronik.com 官网公开，无具名；体量小型 Ltd.，可赢；区域土耳其（T05 新增））。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-235，土耳其，Saga 群发已推送 2 次无回复）与 Planet 渠道挖掘名单，首",
-  "need": "监控项目最走量的 24 口 PoE；其在售 8 口 PL-GS-4210-8P2S 对位 STC-28DGGPM 作第二台阶；集成/安装型 → 25%（沿用 Planet 档案 PB-032）；需求：",
-  "breakpoint": "年项目数与交换机台数；是否也转售给其他安装商",
+  "situation": "意大利网络 / 安防分销商 Bos Italy（+39 0444 868678；poe 101 / switch 99 / industrial 22），info@（表内「可多跟进」）；表内「工业 FS，Hasivo 的」；群发 13 次无回复。",
+  "need": "对位 Hasivo 工业 2 光 8 PoE → STI-288GP（$57.4 @20%）。",
+  "breakpoint": "13 次群发无回复；无具名",
   "saga_now": {
-   "p1": "STC-424DGGPM-280W",
-   "tier": 25,
-   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-30 $280（10G Enterprise SFP Switch）",
-   "why": "监控项目最走量的 24 口 PoE；其在售 8 口 PL-GS-4210-8P2S 对位 STC-28DGGPM 作第二台阶；集成/安装型 → 25%（沿用 Planet 档案 PB-032）；需求：",
+   "p1": "STI-288GP",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-11 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2024-06-28 $65（10G Media Converter）、2025-03-06 $240（24 Port Fiber Switch）、2025-10-16 $280（10G Enterprise SFP Switch）",
+   "why": "对位 Hasivo 工业 2 光 8 PoE → STI-288GP（$57.4 @20%）。",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—",
-   "one_question": ""
+   "when": "2027-Q1（换人后）",
+   "channel": "A 邮箱 → 具名 KP",
+   "action": "换收件人再发一封（第 75 批(ab) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用；英文稿，不混意大利语））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
+   "one_question": "Buongiorno — beside the Hasivo industrial switches: DIN 2-SFP + 8-PoE at $57 and Marvell managed at $79 EXW, CE/RoHS; shall I send a sample to Vicenza?"
   },
   "facts": [
    {
-    "date": "2026-10-06",
+    "date": "2026-09-16",
     "dir": "去",
-    "who": "A 群发",
-    "quote": "10G Enterprise SFP Switch、Industrial PoE Switch",
-    "why": "12 封 / 0 次打开 / 0 回｜首封 2025-09-30 → 末封 2026-10-06（12 去 / 0 来）",
+    "who": "A/S 群发",
+    "quote": "Industrial PoE Switch、24 Port Fiber Switch",
+    "why": "22 封 / 0 次打开 / 0 回｜首封 2024-06-28 → 末封 2026-09-16（22 去 / 0 来）",
     "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：工业FS Hasivo的",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026-09-16",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "16 Port Industrial PoE Switch",
+    "why": "本日去信真实主题（邮箱索引 e599db7ae211ede6；信稿开头句引用此封；此前稿内写的「Industrial PoE Switch」是线程列表首题，不是本封）",
+    "k": "e599db7ae211ede6"
    }
   ],
   "proof_gaps": [],
-  "draft_en": null,
+  "draft_en": {
+   "subject": "Beside the Hasivo industrial switches - two DIN numbers and a sample to Vicenza",
+   "body": "Hello Bos Italy team,\n\nOver the past months you had a few product mails from us - most recently \"16 Port Industrial PoE Switch\" on 16 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nBeside the Hasivo industrial switches in your range, at distributor price, EXW, MOQ 1, 15-day validity, -40 to 75 C, CE/RoHS: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, unmanaged - model STI-288GP - $60 USD; the same L2 managed, Marvell-based - STI-288GPM - $78.9. Samples are paid at the same price and ship by courier.\n\nOne question: shall I send one of each to Vicenza, or only the unmanaged?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+  },
   "as_of": "2026-10-24"
  }
 }

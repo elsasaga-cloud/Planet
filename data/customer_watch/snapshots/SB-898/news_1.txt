@@ -1,80 +1,312 @@
-# SB-898 deponet.com.tr · news_1 · https://deponet.com.tr/haberler/ · fetched 2026-10-25T07:41:18Z · HTTP 200
-Haberler – Deponet Elektronik Mamulleri A.Ş.
-Bayi Girişi
-Ödeme Yap
-İstanbul : Kozyatağı Sok. Parlarbaşoğlu Apt. No:28/B Kadıköy +90 (216) 384 36 37
-Ankara : Mutlukent Mahallesi 2065.Sokak No:4/1 İç Kapı No :2 +90 (312) 417 24 70
-Ana Sayfa
-Kurumsal
-Hakkımızda
-Ekibimiz
-Sıkça Sorulan Sorular
-Ürünler
-Markalar
-Medya
-Haberler
-Başarı Öyküleri
-İletişim
-Bizi Şimdi Arayın
-+90 (216) 384 36 37
-Haberler
-Ana Sayfa
-Haberler
-+
-Bizi Arayın
-+90 (216) 384 36 37
-Cart Items
+# SB-898 xvi.ru · news_1 · https://xvi.ru/blog/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+Блог XVI о видеонаблюдении
+Про XVI
+Новости
+Прайсы
+Поддержка
+Контакты
+Форум
+Старая версия сайта
+...
+Войти
+8 800 555-72-00
++7 (499) 709-77-70
+Сравнение 0
+Отложенные
 0
-+
-No products in the cart.
-DepoNet
-Haberler & Duyurular
-Haberler
-Rujie “2023 Global Channel Partner Summit” etkinliği bu sene İstanbul’da yapıldı. DepoNet, Ruijie’nin bütün ülkeler içindeki en iyi distribütörü olarak ödüle layık görüldü. Best Value Added Distributor ödülünü gururla almış bulunuyor.
-18-05-2023
-Haberler
-2022 Ruijie ve Reyee “Yılın En Yüksek Ciro” ödüllerini Türkiye genelindeki tüm distribütörler arasında DepoNet’e verdi
-26-12-2022
-Haberler
-ICX 7850 CRN TARAFINDAN YILIN AĞ ÜRÜNÜ SEÇİLDİ
-CRN, her yıl kazananları belirlemek için yeni teknolojiyi “teknoloji, gelir, kâr fırsatları ve müşteri talebi”…
-18-12-2019
-Haberler
-2018 Ruijie “En İyi Katma Değerli Distribütör” ödülünü dünya genelindeki tüm distribütörler arasında DepoNet’e verdi
-30-04-2018
-Haberler
-Buluttaki varlığı yönetim kolaylığı
-Saha keşfi, katma değerli pazarlama, konum bilgileri (LBS) ve pazarlama özelliklerini destekleyen bulut yönetim platformu…
-18-09-2017
-Haberler
-DepoNet, Çin’in En Büyük Network Üreticisini Conrad Otel’de Ağırladı, Güncel Teknolojiler Anlatıldı
-4000+ çalışanına, 5 Ar-Ge merkezine sahip, Çin’in önde gelen network çözümleri üreticisi Ruijie Networks; ürün…
-20-04-2017
-Haberler
-Tanınmış Uluslararası Fırın Ruckus Wireless’dan Aldığı Eşsiz Hizmet ve Destek Sayesinde Yeni Tarifler Yaratıyor
-Le Pain Quotidien Müşterilerine 21. yy’a Özgü Perakendecilik Tecrübesini Sunarken Operasyonel Süreçlerin Smart Wi-Fi Üzerinden…
-14-10-2013
-Haberler
-Ruckus Wireless Süratli ve Güvenilir Kablosuz İnternet Hizmetlerini Şehir Merkezine Ulaştırmak Amacıyla Düzenlenen San Jose Şehri Wi-Fi İhalesini Kazandı
-Wi-Fi Teknolojisinde Katedilen Gelişmeler Ülkenin Kamuya Açık En Hızlı Wi-Fi Ağının Oluşumuna Yönelik Tasarının Hayata…
-12-03-2012
-Haberler
-Akıllı Nesiller İçin Wi-Fi
-Amaç ; Leicester Üniversitesi bünyesinde 4,500 yurt odasını kapsayabilen geniş ölçekli, güvenilir ve tasarruflu kablolu…
-03-03-2012
-Daha Fazla Gör
-Deponet Elektronik Mamulleri San. Paz. A.Ş.
-Hakkımızda
-Ana Sayfa
-Hakkımızda
-Ürünler
-Medya
-Haberler
-İletişim
-Logo Kullanımı
-info@deponet.com.tr
-İstanbul : Kozyatağı Sok. Parlarbaşoğlu Apt. No:28/B Kadıköy +90 (216) 384 36 37
-Ankara : Mutlukent Mahallesi 2065.Sokak No:4/1 İç Kapı No :2 +90 (312) 417 24 70
-IG IN
-© 2026 DepoNet — Tasarım: 91 Ajans
-İnternet sitesinin yayın hakları, tüm görsel malzeme ve bilgilerin elektronik ortamlar dahil kullanım hakkı sadece Deponet Elektronik Mamulleri San. Paz. A.Ş.'ne aittir. İzinsiz kullanmak, kopyalamak ve alıntı yapmak yasal kovuşturma hakkı doğurur.
+пуста
+0
+IP-камеры
+Купольные пластиковые
+Уличные
+Купольные антивандальные
+Стандартные
+Сертификат СТ-1, Реестр РЭП
+Бюджетная серия Select
+Проектные
+Распродажа
+AHD камеры
+Купольные пластиковые
+Купольные антивандальные
+Уличные
+Проектные камеры
+Распродажа
+PoE оборудование
+Неуправляемые коммутаторы
+Промышленные коммутаторы
+Управляемые коммутаторы
+Сплиттеры
+Удлинители
+Инжекторы
+Аксессуары
+Кабели и разъемы
+Микрофоны
+Термокожухи и кронштейны
+Блоки питания
+Объективы вариофокальные CS
+Объективы фиксированные CS
+Объективы фиксированные М12
+Архив
+AHD камеры
+IP камеры
+Камеры поворотные
+Разъемы и аксессуары
+Объективы
+PoE коммутаторы
+Источники питания
+Камеры аналоговые (2009-2017г)
+Дополнительное оборудование
+Программное обеспечение
+VMS
+Ещё
+Каталог
+IP-камеры
+Купольные пластиковые
+Уличные
+Купольные антивандальные
+Стандартные
+Сертификат СТ-1, Реестр РЭП
+Бюджетная серия Select
+Проектные
+Распродажа
+AHD камеры
+Купольные пластиковые
+Купольные антивандальные
+Уличные
+Проектные камеры
+Распродажа
+PoE оборудование
+Неуправляемые коммутаторы
+Промышленные коммутаторы
+Управляемые коммутаторы
+Сплиттеры
+Удлинители
+Инжекторы
+Аксессуары
+Кабели и разъемы
+Микрофоны
+Термокожухи и кронштейны
+Блоки питания
+Объективы вариофокальные CS
+Объективы фиксированные CS
+Объективы фиксированные М12
+Архив
+AHD камеры
+IP камеры
+Камеры поворотные
+Разъемы и аксессуары
+Объективы
+PoE коммутаторы
+Источники питания
+Камеры аналоговые (2009-2017г)
+Дополнительное оборудование
+Программное обеспечение
+VMS
+Акции
+Поддержка
+Угол обзора AHD-камер в зависимости от фокусного расстояния объектива
+Прайс-листы XVI на оборудование видеонаблюдения
+Программы и ПО для оборудования XVI
+Прошивки для камер и оборудования XVI
+Материалы и изображения XVI
+Углы обзора объективов IP-камер XVI
+Расшифровка названий и артикулов камер XVI
+Сервисный центр и гарантия
+Техническая поддержка XVI
+Как купить
+Условия оплаты
+Условия доставки
+Гарантия на товар
+Магазины
+О компании
+Новости
+Проектные камеры
+Вакансии
+Сертификаты и декларации
+Политика
+Программы
+Партнеры
+Контакты
+Ещё
+Сравнение 0
+Отложенные
+0
+Сравнение 0
+Отложенные
+0
+Телефоны
+8 800 555-72-00
++7 (499) 709-77-70
+Личный кабинет
+Главная
+Назад
+Главная
+Блог
+Вопрос-ответ
+Каталог
+Назад
+Каталог
+IP-камеры
+Назад
+IP-камеры
+Купольные пластиковые
+Уличные
+Купольные антивандальные
+Стандартные
+Сертификат СТ-1, Реестр РЭП
+Бюджетная серия Select
+Проектные
+Распродажа
+AHD камеры
+Назад
+AHD камеры
+Купольные пластиковые
+Купольные антивандальные
+Уличные
+Проектные камеры
+Распродажа
+PoE оборудование
+Назад
+PoE оборудование
+Неуправляемые коммутаторы
+Промышленные коммутаторы
+Управляемые коммутаторы
+Сплиттеры
+Удлинители
+Инжекторы
+Аксессуары
+Назад
+Аксессуары
+Кабели и разъемы
+Микрофоны
+Термокожухи и кронштейны
+Блоки питания
+Объективы вариофокальные CS
+Объективы фиксированные CS
+Объективы фиксированные М12
+Архив
+Назад
+Архив
+AHD камеры
+IP камеры
+Камеры поворотные
+Разъемы и аксессуары
+Объективы
+PoE коммутаторы
+Источники питания
+Камеры аналоговые (2009-2017г)
+Дополнительное оборудование
+Программное обеспечение
+Назад
+Программное обеспечение
+VMS
+Акции
+Поддержка
+Назад
+Поддержка
+Угол обзора AHD-камер в зависимости от фокусного расстояния объектива
+Прайс-листы XVI на оборудование видеонаблюдения
+Программы и ПО для оборудования XVI
+Прошивки для камер и оборудования XVI
+Материалы и изображения XVI
+Углы обзора объективов IP-камер XVI
+Расшифровка названий и артикулов камер XVI
+Сервисный центр и гарантия
+Техническая поддержка XVI
+Как купить
+Назад
+Как купить
+Условия оплаты
+Условия доставки
+Гарантия на товар
+Магазины
+О компании
+Назад
+О компании
+Новости
+Проектные камеры
+Вакансии
+Сертификаты и декларации
+Политика
+Программы
+Партнеры
+Контакты
+Отложенные 0
+Сравнение товаров 0
+8 800 555-72-00
+Назад
+Телефоны
+8 800 555-72-00
++7 (499) 709-77-70
+Контактная информация
+г.Воронеж, пр.Труда 46И
+sales@dexi.ru
+Главная
+- Блог
+Блог XVI о видеонаблюдении
+Почему не работает камера видеонаблюдения: основные причины
+8 июля 2015
+IP vs AHD Какую камеру видеонаблюдения выбрать?
+29 ноября 2013
+WDR и DWDR: в чём разница в камерах видеонаблюдения
+Обзор программного обеспечения "Линия" и IVISET
+28 февраля 2024
+Что такое PoE: стандарты, мощность и подключение IP-камер
+PoE-инжектор и сплиттер: в чём разница и как выбрать
+16 мая 2022
+Показать еще
+1
+2
+Категории
+Обзоры товаров 2
+Советы покупателям 3
+Технологии 2
+Облако тегов
+AHD камеры
+DWDR
+IP камеры
+LED
+PoE
+TN
+WDR
+Видеокамеры
+Видеонаблюдение
+ЖК-дисплеи
+Инжекторы
+Коммутаторы
+Питание PoE
+Сетевое оборудование
+Сетевое подключение
+Сплиттеры
+О компании
+Новости
+Сотрудники
+Вакансии
+Магазины
+Политика
+Акции
+Партнеры
+Техподдержка
+Прошивки
+Программы
+Сервисный центр
+Углы обзора объективов
+Структура названий
+Информация
+Как купить
+Гарантия на товар
+Помощь
+Блог
+Вопрос-ответ
+Партнеры
+Обзоры
+Будьте всегда в курсе!
+Узнавайте о скидках и акциях первым
+Новости магазина
+Наши контакты
+8 800 555-72-00
++7 (499) 709-77-70
+sales@dexi.ru
+г.Воронеж, пр.Труда 46И
+2009 - 2026 © Компания Dexi. Все права защищены.
+Найти

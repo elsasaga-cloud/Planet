@@ -1,203 +1,253 @@
 {
-  "code": "SA-020",
-  "name_official": "WIDEN Co., Ltd.（Nonthaburi, Thailand）",
-  "website_status": "在线",
-  "summary": "泰国暖武里的光纤产品进口分销商（Fiber Optic 全线：跳线、适配器、接头盒、MC、视频光端机、光纤交换机、FTTx、CATV），官网公开 info@/thawat@ 邮箱与 LINE。用户表：FS/MC/VC 都用自己的标（自有 logo），CommunicAsia 展会上问了交换机/HDMI 光端机，联系人 Thawat，早期 AI 评 50% A。",
-  "type": "分销商/品牌商（光纤产品自有 logo，OEM 采购）",
-  "size": "未见人数（中小分销商）",
-  "brands_seen": [
-    "WIDEN"
-  ],
-  "evidence": [
-    {
-      "kind": "官网",
-      "claim": "定位：光纤设备进口分销；类目含 Fiber Optic Switch / Media Converter",
-      "quote": "บริษัทนำเข้าและจัดจำหน่ายด้าน Fiber Optic และอุปกรณ์ครบวงจร … Fiber Optic Media Converter · Fiber Optic Switch · Fiber Optic Video Converter … Email : info@widen.co.th, thawat@widen.co.th LINE ID :@widencompany",
-      "url": "http://www.widen.co.th/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网",
-      "claim": "网店自述：光纤与配套设备进口分销商，ISO 9001:2015，2026-10-07 更新；电话/LINE/Messenger 公开",
-      "quote": "WIDEN NETWORK SOLUTIONS เราเป็นบริษัทนำเข้าและจัดจำหน่ายด้าน Fiber Optic และอุปกรณ์ครบวงจร ได้การรับรองมาตรฐานการบริหารองค์กร ISO 9001 ปี 2015 Last update 07/10/2026 … 088-9498799 … @widencompany",
-      "url": "https://www.shop-widen.com/en",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "经销商",
-      "claim": "WIDEN 品牌产品线：SFP MC、PoE MC、机架机箱、工业 WDM MC（10/100 与千兆，1/2/4/8 口 PoE）、PoE 延长器",
-      "quote": "WIDEN SFP Gigabit Ethernet Media Converter · WIDEN Optic Media Converter with POE · WIDEN Rack mountable Chassis … WIDEN Fiber Optic Industrial WDM Media Converter 10/100 8 Port RJ45 PoE · … 10/100/1000 2 Port RJ45 PoE · WIDEN Fiber Optic PoE Extender W-PoEEx 1,950.00 บาท",
-      "url": "https://www.telepart.net/",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Thawat",
-      "role": "负责人（官网公开直邮）",
-      "email": "thawat@widen.co.th",
-      "phone": "+66 81-285-4599 / 02-149-3922",
-      "source": "http://www.widen.co.th/"
-    }
-  ],
-  "notes": "A 确认：自有 logo 的光纤分销商，Saga MC/光纤交换机可直接贴牌；P1 = STI-110GE（MC）或 STC-28DGGPM 光口款，30% 档；泰国区可提 LINE 跟进。",
-  "researched_at": "2026-10-21",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "深挖 v1"
+ "code": "SA-020",
+ "name_official": "BitStream S.A.（Lublin, Poland）",
+ "website_status": "在线",
+ "summary": "波兰卢布林的工业网络与时间同步设备制造商（15+ 年，2023 年改制股份公司），自研自产：Hyperion 系列工业以太网交换机（DIN/机架、PoE、L2/L3、PRP/HSR 冗余）、MC、接口转换器、PTP/NTP 时间服务器、加密路由器；出口西欧/北欧/北美/南美/澳洲，政府出口名录公开联系人 mbeczek@bitstream.pl。用户表：A 已回复，自己的牌子，工业 FS/SFP/MC 及其他产品，有人卖他们的，回复中有详细联系方式。",
+ "type": "品牌商/制造商（工业网络自有品牌；MC/SFP/部分交换机可能外采贴牌）",
+ "size": "小型（trade.gov.pl「Size Small」）",
+ "brands_seen": [
+  "BitStream",
+  "Hyperion"
+ ],
+ "evidence": [
+  {
+   "kind": "第三方（trade.gov.pl 官方出口名录）",
+   "claim": "定位、产品线与公开联系人",
+   "quote": "BitStream S.A. is a leading Polish technology company specializing in the design and manufacturing of advanced data transmission, time synchronization, and industrial networking equipment … Industrial Networking & Ethernet Switches: Managed and unmanaged DIN-rail/rack Ethernet switches supporting zero-failover redundancy protocols (PRP/HSR) … E-mail: mbeczek@bitstream.pl",
+   "url": "https://www.trade.gov.pl/en/polish-companies/bitstream-spolka-akcyjna",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "legal_name": "WIDEN Co., Ltd.（Widen Trading / WIDEN NETWORK SOLUTIONS）",
-    "hq": "Nonthaburi, Thailand",
-    "other": "自称光纤与配套设备进口分销商，ISO 9001:2015；网店 shop-widen.com 2026-10-07 更新；电话 088-9498799，LINE @widencompany，Messenger Widentradingcompany"
+  {
+   "kind": "官网",
+   "claim": "产品类目含 PoE/L2/L3 交换机与光纤 MC",
+   "quote": "PoE, Przełącznik L3, Przełączniki Ethernet, Przełączniki L2 HYPERION-402 … Mediakonwertery, konwertery interfejsów",
+   "url": "https://bitstream.pl/technologie/technika-swiatlowodowa/",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "光纤全线（跳线、适配器、接头盒、FTTx 皮线光缆、CATV）",
-    "WIDEN 品牌 MC：SFP 千兆 MC、PoE MC、机架式 MC 机箱、工业 WDM MC（10/100 与千兆，1/2/4/8 口 PoE）",
-    "WIDEN PoE 光纤延长器（W-PoEEx）",
-    "交换机/HDMI 光端机（展会上询问）"
-  ],
-  "products_seen": [
-    {
-      "brand": "WIDEN",
-      "model": "Fiber Optic Industrial WDM Media Converter 10/100/1000 1 Port / 2 Port RJ45 PoE",
-      "spec": "工业 WDM 千兆 1/2 口 PoE MC（经销商 telepart.net 列表）",
-      "url": "https://www.telepart.net/",
-      "date": "2026-10-21",
-      "saga": "STI-110GE（PoE 版待核）"
-    },
-    {
-      "brand": "WIDEN",
-      "model": "Industrial WDM Media Converter 10/100 4 Port / 8 Port RJ45 PoE",
-      "spec": "工业 4/8 口 PoE 小交换机（百兆）",
-      "url": "https://www.telepart.net/",
-      "date": "2026-10-21",
-      "saga": "STI-144GP / STI-288DGGPM（千兆升级位）"
-    },
-    {
-      "brand": "WIDEN",
-      "model": "W-PoEEx PoE Extender",
-      "spec": "PoE 延长 80–100 m，售价 1,950 THB",
-      "url": "https://www.telepart.net/",
-      "date": "2026-10-21",
-      "saga": "—"
-    },
-    {
-      "brand": "WIDEN",
-      "model": "SFP Gigabit Ethernet Media Converter / Rack mountable Chassis",
-      "spec": "千兆 SFP MC 与机架机箱",
-      "url": "https://www.telepart.net/",
-      "date": "2026-10-21",
-      "saga": "STI-110GE"
-    }
-  ],
-  "channels": {
-    "网站/网店": "http://www.widen.co.th/ · https://www.shop-widen.com/en",
-    "直邮": "thawat@widen.co.th（Thawat）/ info@widen.co.th",
-    "电话": "088-9498799",
-    "LINE": "@widencompany",
-    "Messenger": "Widentradingcompany"
+  {
+   "kind": "官网",
+   "claim": "Hyperion 105 规格",
+   "quote": "Industrial managed switch with 8/4x RJ45 10/100Mbps or 4x RJ45 10/100/1000Mbps and 2/4x SFP 100M/1000M/2.5Gbps … PoE ÷ PoE++/High PoE (802.3bt) support up to 90W per UTP port (max. 240W on all ports)",
+   "url": "https://bitstream.pl/en/products/hyperion-105/",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "网店 2026-10-07 更新——活跃（https://www.shop-widen.com/en 2026-10-21）",
-    "泰国经销商 telepart.net 在售 WIDEN 全系 MC/PoE 产品——WIDEN 有二级渠道，自有 logo 量稳定",
-    "用户表：FS/MC/VC 都贴自有标；CommunicAsia 问过交换机/HDMI 光端机"
-  ],
-  "risks": [
-    "泰国本地价格极低（8+2 工业 PoE 零售 2,350 THB ≈ $65），对 Marvell 平台溢价接受度有限",
-    "自有 logo = 30% 档，但分销体量可按 25% 谈"
-  ],
-  "saga_fit": {
-    "p1": "STI-288DGGPM",
-    "tier": 30,
-    "why": "WIDEN 已卖 4/8 口百兆工业 PoE MC/交换机 → 千兆升级位 STI-288DGGPM（8+2 SFP 管理）与 STI-144GP；千兆 MC 对位 STI-110GE；贴 WIDEN logo"
+  {
+   "kind": "官网",
+   "claim": "Hyperion 402 机架 L2+ 规格",
+   "quote": "Industrial managed L2 + switches with 4x 10 / 2.5 / 1G and 8/16/24/32 ports 10M / 100M / 1G RJ45 PoE ÷ High PoE or SFP 100 / 1000M slots … 19 ”1U chassis … maximum total PoE power is 500W",
+   "url": "https://bitstream.pl/en/products/hyperion-402/",
+   "date": "2026-10-21"
   },
-  "email_hook": "Your WIDEN industrial PoE converters are still 10/100 on the 4- and 8-port versions, so the gigabit 8-port DIN unit with two SFP uplinks in WIDEN packing is the obvious next SKU, and I can quote it together with the gigabit SFP converter you already brand.",
-  "mail_review": {
-    "binding": {
-      "level": "未绑定（邮件 27 封 0 回、Opened 0；Elsa 箱：`to:widen.co.th` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 27 / 来 0）（第 74 批(g)））",
-      "type": "泰国光纤分销（自有 logo，WIDEN）",
-      "sieve": "0（邮件层无人工回复）",
-      "stop": "27 封从未打开",
-      "revive": "—",
-      "lane": "TH",
-      "cadence": "不主动",
-      "evidence": "邮件：去信 27 封（2024-06-24 → 2026-09-28），来信 0；Opened 标签 0 次；收件人 info@widen.co.th, thawat@widen.co.th"
-    },
-    "situation": "两年 27 封邮件 0 打开：地址 info@/thawat@ 很可能不看外部邮件。",
-    "need": "MC/光口交换机贴牌（用户表）。",
-    "breakpoint": "触达无效。",
-    "saga_now": {
-      "p1": "STI-110GE",
-      "tier": 30,
-      "price": "锚价：STI-288GP $60 / STI-110GE $26.5（最近实报）（第 72 批 2026-10-24）；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-12-17 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-07-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-02-03 $240（24 Port Fiber Switch）、2025-10-15 $280（10G Enterprise SFP Switch）、2026-06-26 $16000（32 Port 400GB DC Switch）",
-      "why": "MC / 光口交换机贴牌（WIDEN）→ 千兆 SFP 转换器 + 8 PoE DIN 两款 WIDEN 包装",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）",
-      "channel": "A 邮箱 → thawat@widen.co.th（具名但 27 封 0 回、0 打开——先核地址是否还活；不活就在 widen.co.th 找第二个人）",
-      "action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(o) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用；换人/一问口径））（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
-      "one_question": "Your WIDEN industrial PoE converters are still 10/100 on the 4- and 8-port versions, so the gigabit 8-port DIN unit with two SFP uplinks in WIDEN packing is the obvious next SKU, and I can quote it together with the gigabit SFP converter you already brand. Shall I quote the gigabit 8-port PoE DIN unit with 2 SFP in WIDEN packing together with the gigabit SFP converter you already brand? Reference: STI-288GP at $60 / STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
-    },
-    "facts": [
-      {
-        "date": "2024-06-24",
-        "dir": "去",
-        "who": "Saga（Simon）",
-        "quote": "「5 port industrial switch」——S 邮箱对 thawat@widen.co.th + info@widen.co.th 的第 1 封",
-        "why": "两个地址并发 27 封（2024-06→2026-09），0 回、0 打开记录",
-        "k": "b43d00bf4155c428"
-      },
-      {
-        "date": "2024-06-24",
-        "dir": "去",
-        "who": "S 箱（Simon）",
-        "quote": "5 port industrial switch",
-        "why": "首封去信（邮箱索引；去信共 27 封）",
-        "k": "b43d00bf4155c428"
-      },
-      {
-        "date": "2024-12-17",
-        "dir": "去",
-        "who": "S 箱（Simon）报价",
-        "quote": "48 Port PoE Managed Switch｜ $300（原句：*Price is very competitive, 300usd/pc*）",
-        "why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
-        "k": "e0d09f1b5653a95f"
-      },
-      {
-        "date": "2025-02-03",
-        "dir": "去",
-        "who": "A 箱（Alan）",
-        "quote": "24 Port Fiber Switch｜稿内价 $240",
-        "why": "去信正文含价（邮箱索引）",
-        "k": "1f829f9328c49ed2"
-      },
-      {
-        "date": "2026-09-28",
-        "dir": "去",
-        "who": "Saga（Alan）",
-        "quote": "「Managed PoE Switches」——最后一封群发",
-        "why": "thawat@ 是具名地址但两年不回 → 要么地址死了要么人不对；先核再换人",
-        "k": "f68e0de76ea765a6"
-      },
-      {
-        "date": "2026-09-28",
-        "dir": "去",
-        "who": "A 箱（Alan）",
-        "quote": "Managed PoE Switches",
-        "why": "最近一封去信（邮箱索引；去信共 27 封）",
-        "k": "f68e0de76ea765a6"
-      }
-    ],
-    "proof_gaps": [
-      "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 从未去信、Replied 索引亦无此户），仓库未见原文"
-    ],
-    "draft_en": {
-      "subject": "The gigabit 8-port DIN switch in WIDEN packing - next to the converters you already brand",
-      "body": "Hi Thawat,\n\nWe met at CommunicAsia and spoke about switches and HDMI-over-fibre; since then you had only general product mails from us, which did not need an answer. This one is specific.\n\nYour WIDEN industrial PoE converters are still 10/100 on the 4- and 8-port versions. The gigabit step in WIDEN packing from small lots: DIN-rail 8 x Gigabit PoE+ + 2 x SFP unmanaged, -40 to 75 C, CE/RoHS - model STI-288GP - $60 USD EXW (MOQ 1, 15-day validity); together with the gigabit SFP-slot converter you already brand, STI-110GE, $26.5. Logo on the unit is free; colour box from 200 sets.\n\nOne question: is the 8-port gigabit PoE the SKU you would add first, or the 4-port?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
-    },
-    "as_of": "2026-10-24"
+  {
+   "kind": "官网",
+   "claim": "Hyperion 200 含 PTPv2 服务器、4×10G",
+   "quote": "Managed industrial Ethernet switch with PTPv2 time synchronization server function and 4x 1/2,5/10 Gbps i 8/16x 10M/100M/1G RJ45 PoE÷High PoE IEEE802.3bt … Power supply 36-60 VDC or 80-360 VDC / 75-270 V AC",
+   "url": "https://bitstream.pl/en/products/hyperion-200/",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "M. Beczek（mbeczek@）",
+   "role": "出口/商务联系人（官方名录公开）",
+   "email": "mbeczek@bitstream.pl",
+   "phone": "+48 691 161 866",
+   "source": "https://www.trade.gov.pl/en/polish-companies/bitstream-spolka-akcyjna"
+  },
+  {
+   "name": "Katarzyna Surowiec",
+   "role": "来信署名人（职务未在邮件署名里出现）",
+   "email": "ksurowiec@bitstream.pl",
+   "phone": "",
+   "source": "S/A 邮箱来信 2025-01-30 来信 1 封（第 72 批从邮件表头补）"
+  }
+ ],
+ "notes": "A 确认：欧洲工业网络品牌商，已回复并给了详细联系方式；切入点 = 其非核心 SKU（非管理工业交换机、MC、SFP）贴牌，30% 档；避免与其自研 PRP/HSR 高端线正面竞争。",
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "深挖 v1"
+ },
+ "company_facts": {
+  "legal_name": "BitStream S.A.",
+  "founded": "15+ 年（2023 改制股份公司）",
+  "hq": "Lublin, Poland",
+  "staff": "小型（trade.gov.pl）",
+  "other": "自研自产 Hyperion 工业交换机（PTPv2、PROFINET A、DNP3、OAM、PRP/HSR），DIN 与 19\" 机架，36–60VDC/80–360VDC/AC 宽电源——技术自研型厂商，非纯贴牌"
+ },
+ "business_lines": [
+  "Hyperion 工业交换机（105/200/300/402：4–32 口，PoE/bt 90W，2.5G/10G SFP+）",
+  "MC、接口转换器",
+  "PTP/NTP 时间服务器、加密路由器",
+  "出口西欧/北欧/北美/南美/澳洲"
+ ],
+ "products_seen": [
+  {
+   "brand": "BitStream",
+   "model": "Hyperion 105",
+   "spec": "工业管理 8/4×RJ45（FE 或 4×GE）+ 2/4×SFP（2×2.5G），PoE~bt 90W/口（总 240W），ITU K.44 4kV",
+   "url": "https://bitstream.pl/en/products/hyperion-105/",
+   "date": "2026-10-21",
+   "saga": "STI-288DGGPM / STI-144GP"
+  },
+  {
+   "brand": "BitStream",
+   "model": "Hyperion 200",
+   "spec": "工业管理 + PTPv2 服务器，4×1/2.5/10G + 8/16×GE PoE~bt（总 500W）或 SFP，DIN，-40~85℃",
+   "url": "https://bitstream.pl/en/products/hyperion-200/",
+   "date": "2026-10-21",
+   "saga": "STI-21616GP（16 口位，10G 上联待核）"
+  },
+  {
+   "brand": "BitStream",
+   "model": "Hyperion 300",
+   "spec": "工业 12/10 口（2×2.5G SFP + 6 SFP + 2 RJ45 或 8×GE PoE），RS232/485、DI/DO、1-wire，DIN IP-30",
+   "url": "https://bitstream.pl/en/products/hyperion-300/",
+   "date": "2026-10-21",
+   "saga": "STI-288DGGPM"
+  },
+  {
+   "brand": "BitStream",
+   "model": "Hyperion 402",
+   "spec": "19\" 1U L2+ 4×10/2.5/1G + 8/16/24/32×GE PoE~bt（总 500W）",
+   "url": "https://bitstream.pl/en/products/hyperion-402/",
+   "date": "2026-10-21",
+   "saga": "STC-424XGGPM-280W / STC-448XGGM(L3)"
+  }
+ ],
+ "channels": {
+  "网站": "https://bitstream.pl/en/",
+  "直邮": "mbeczek@bitstream.pl（出口名录）/ ahyz@bitstream.pl / dpietrzyk@bitstream.pl（用户表）"
+ },
+ "signals": [
+  "Hyperion 全线规格远高于公版（PTPv2、PROFINET、OAM、500W bt）——自研能力强，Saga 可供的是其入门/非管理与机架 PoE 的成本位，而非替换 Hyperion（2026-10-21）",
+  "用户表：A 已回复，自己的牌子，有人卖他们的；回复中有详细联系方式"
+ ],
+ "risks": [
+  "自研厂商对二供要求固件透明度/长期供货承诺（5–10 年）",
+  "竞品定位：若 Saga 以低价工业机切入可能被视为冲突其高端线——定位为「入门级/项目配套」"
+ ],
+ "saga_fit": {
+  "p1": "STC-424XGGPM-280W",
+  "tier": 30,
+  "why": "Hyperion 402 机架 24 口 PoE + 4×10G 位对位 STC-424XGGPM-280W（成本型项目配套）；DIN 入门位 STI-288DGGPM/STI-144GP；贴 BitStream 标 30% 档"
+ },
+ "email_hook": "Below the Hyperion 402 class, a cost-optimised 24-port gigabit PoE rack switch with 4x 10G SFP+ uplinks is the slot where a Marvell-based second line usually earns its place for project work, so that is the unit I am quoting in BitStream packing first.",
+ "mail_review": {
+  "binding": {
+   "level": "未绑定（2025-01-30 助理问价 → STI-288DGGPM-2BT 140 USD → 无下文；Elsa 箱：`to:.pl` 穷举 24 条（2026-10-25，锚批 Bcc 头已读）未见 bitstream.pl → Elsa 箱从未发过本户，往来只在 S/A 箱（去 20 / 来 2）（第 74 批(f)））",
+   "type": "波兰工业网络自有品牌制造商（PRP/HSR 高端自研）——第一档类型但 Saga 只适合其非核心 SKU",
+   "sieve": "2",
+   "stop": "140 USD 报价后无回；2026-08 群发只收到休假自动回复",
+   "revive": "其非核心 SKU（非管理工业/MC）补源",
+   "lane": "PL/EU",
+   "cadence": "2024-06 → 2026-09 去信 20 封；最后人工来信 2025-01-30",
+   "evidence": "k=ab20a2586535bf26 / 627139dd3ba20af7 / 97cffda9f4680ebc"
+  },
+  "situation": "Katarzyna（管理层助理）2025-01-30 问「What is the price?」，Alan 报 STI-288DGGPM-2BT 140 USD 并说明 Marvell、有 L3 版；无回。2026-08 发给生产技术员 Aleksander Hyz 得到休假回复（备用联系人 Tomasz Jargieło）。",
+  "need": "工业 L2+ PoE（bt）——但 BitStream 自研线覆盖此段。",
+  "breakpoint": "同业型品牌商：Saga 的管理型正是其自研段；只有非核心 SKU 有空间。",
+  "saga_now": {
+   "p1": "STI-244GP / STI-110GE（非管理工业 / MC）",
+   "tier": 30,
+   "price": "换人再触锚价 STI-244GP $35 EXW（最近实报 $35（㉕）；第 72 批 2026-10-24）；按 30%；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-22 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-08-17 $65（10G Media Converter）、2025-10-10 $280（10G Enterprise SFP Switch）",
+   "why": "换到非核心 SKU 问一次。已打开的主题（5/20 封有打开记录）：「90W PoE Managed Switch」(2025-01-30)、「Re: 90W PoE Managed Switch」(2025-01-30)、「Re: 90W PoE Managed Switch」(2025-03-20)、「Re: 90W PoE Managed Switch」(2025-04-21) → 读者兴趣偏「PoE 接入」；当前 P1 属「10G 汇聚/L3」，下一封按「PoE 接入」给，不按 P1",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1",
+   "channel": "A 邮箱 → tjargielo@ / ahyz@",
+   "action": "一句话问其外采的非核心 SKU（第 75 批(o) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用；换人/一问口径））（第 76 批(b) 2026-10-25：audit_ab 硬错误修正：同款群发价 $170→$180 补汇率说明（㉟））（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
+   "one_question": "Which part of the BitStream catalogue is bought-in today (unmanaged DIN, MC, SFP), and would an externally sourced unmanaged DIN line (and a Marvell L2+ managed tier above it) be considered? Reference: STI-244GP at $35 USD EXW (MOQ 1, 15-day validity)."
+  },
+  "facts": [
+   {
+    "date": "2024-06-24",
+    "dir": "去",
+    "who": "S 箱（Simon）",
+    "quote": "industrial PoE Switch",
+    "why": "首封去信（邮箱索引；去信共 20 封）",
+    "k": "22105ed97d7fc03d"
+   },
+   {
+    "date": "2024-08-17",
+    "dir": "去",
+    "who": "S 箱（Simon）",
+    "quote": "10G media converter｜稿内价 $65",
+    "why": "去信正文含价（邮箱索引）",
+    "k": "5a4481b7a50bac3f"
+   },
+   {
+    "date": "2024-08-17",
+    "dir": "去",
+    "who": "S 箱（Simon）报价",
+    "quote": "10G media converter｜ $65（原句：Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unma）",
+    "why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
+    "k": "5a4481b7a50bac3f"
+   },
+   {
+    "date": "2024-11-22",
+    "dir": "去",
+    "who": "S 箱（Simon）报价",
+    "quote": "48 Port PoE Managed Switch｜ $300（原句：*Price is very competitive, 300usd/pc*）",
+    "why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
+    "k": "4c3cbe3a33e8be4e"
+   },
+   {
+    "date": "2025-01-30",
+    "dir": "来",
+    "who": "Katarzyna Surowiec",
+    "quote": "What is the price?",
+    "why": "询价",
+    "k": "ab20a2586535bf26"
+   },
+   {
+    "date": "2025-01-30",
+    "dir": "去",
+    "who": "Alan",
+    "quote": "140usd/pc STI-288DGGPM-2BT… L3 managed version si also available",
+    "why": "报价后停",
+    "k": "627139dd3ba20af7"
+   },
+   {
+    "date": "2025-01-30",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "Re: 90W PoE Managed Switch｜稿内价 $140",
+    "why": "去信正文含价（邮箱索引）",
+    "k": "627139dd3ba20af7"
+   },
+   {
+    "date": "2025-01-30",
+    "dir": "来",
+    "who": "ksurowiec@bitstream.pl",
+    "quote": "Re: 90W PoE Managed Switch｜What is the price?  -- Pozdrawiam,    *Katarzyna Surowiec*Asystentka Zarządu  *Phone* +48 81 743 86 43 *Web* www.bitstream.pl *Email* ksurowiec@bitstr",
+    "why": "来信（邮箱索引；原文见 k；是否人工回复以原文为准）",
+    "k": "ab20a2586535bf26"
+   },
+   {
+    "date": "2026-08-11",
+    "dir": "来",
+    "who": "ahyz@bitstream.pl",
+    "quote": "Nieobecność Re: 24 Port PoE Managed Switch｜W dniach 07-21.08.2026 jestem na urlopie. W sprawach pilnych proszę kontaktować się z Tomaszem Jargieło na adres mailowy tjargielo@bitstream.pl  --   ",
+    "why": "来信（邮箱索引；原文见 k；是否人工回复以原文为准）",
+    "k": "97cffda9f4680ebc"
+   },
+   {
+    "date": "2026-09-07",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "16 Port Industrial PoE Switch",
+    "why": "最近一封去信（邮箱索引；去信共 20 封）",
+    "k": "559de04d8706b132"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": {
+   "subject": "Below the Hyperion line - the non-core SKUs BitStream buys in",
+   "body": "Hi Tomasz,\n\nIn January 2025 your colleague asked the price of our 8-port industrial PoE++ managed switch and we answered $140; nothing since, which is fair - that segment is exactly what BitStream builds itself. (Aleksander's auto-reply named you as the contact.)\n\nWhere a second line from us usually fits a manufacturer like you is the non-core SKU: DIN-rail 4 x Gigabit PoE+ + 2 x SFP unmanaged, -40 to 75 C, CE/RoHS - model STI-244GP - $35 USD EXW (MOQ 1, 15-day validity); or a cost-optimised 24 x PoE+ + 4 x 10G SFP+ rack unit for project work, L2+ managed, Marvell-based - STC-424XGGPM-280W - $180 (the summer mails said $170; the RMB/USD rate has moved from 7.2 to 6.7 since).\n\nOne question: which non-core SKUs does BitStream buy in rather than build?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+  },
+  "as_of": "2026-10-24"
+ }
 }

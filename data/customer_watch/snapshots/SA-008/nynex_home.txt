@@ -1,0 +1,171 @@
+# SA-008 NYNEX satellite OHG / fiberONE（达姆施塔特）—— GitHub 部分见 scripts/github_watch · nynex_home · https://www.nynex.de/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+NYNEX – Expand your business. We connect it. · Satellit, Glasfaser & IP-Transit
+Zum Inhalt springen
+Menü
+Leistungen
+Netz
+Unternehmen
+Geschichte
+Kontakt
+06151 500 74 0
+DE / EN
+> _ Terminal Mode
+01 Start
+02 fiberONE
+03 Leistungen
+04 KI
+05 Netz
+06 Branchen
+07 Vorgehen
+08 Kontakt
+Netzbetreiber aus Darmstadt Satellit · Glasfaser · IP-Transit
+Expand your business.
+We connect it
+Satellit, Glasfaser und IP-Transit in einem Netz – geplant, gebaut und betrieben aus Darmstadt. Für Standorte in Europa, im Nahen und Mittleren Osten, in Afrika und auf See.
+Projekt besprechen →
+Leistungen ↓
+02 fiberONE
+Glasfaser für ganz Deutschland. Eigenes Netz in Rhein-Main.
+Unter unserer Marke fiberONE bieten wir Glasfaseranschlüsse für Privat- und Geschäftskunden in ganz Deutschland an. Im Rhein-Main-Gebiet – in Frankfurt und Darmstadt – betreiben wir ein eigenes Glasfasernetz: echte Glasfaser bis in die Wohnung (FTTH), symmetrisch bis 10 Gbit/s, direkt an den DE-CIX in Frankfurt angebunden.
+Im Überblick
+Privat- und Geschäftskunden: echte Glasfaser (FTTH), symmetrisch bis 10 Gbit/s
+Für Ihr Unternehmen: dedizierte Glasfaser bis 100 Gbit/s, Standortvernetzung über Wellenlängen oder Dark Fiber, schlüsselfertige Büronetze
+Bundesweit: Außerhalb unseres eigenen Netzes realisieren wir Anschlüsse nahtlos über Vorleistungen der Deutschen Telekom und anderer Carrier
+Städte auf dem Globus sind symbolisch.
+Mehr erfahren · fiberone.de ↗ (öffnet in neuem Tab)
+03 Leistungen
+Wo die Leitung endet,
+beginnt unser Netz.
+Von der Glasfaser an der Zentrale bis zur Baustelle in der Wüste oder zum Schiff auf See: Wir verbinden jeden Standort über das passende Medium – und betreiben das Netz dauerhaft für Sie.
+Bahn 01 / 06
+Satelliten­konnektivität
+VSAT im Ku- und Ka-Band – unabhängig von terrestrischer Infrastruktur. Als Shared Service mit garantierter Mindestbandbreite (CIR) oder mit dedizierter Kapazität (SCPC), bis hin zu Trunking und Backhaul.
+VSAT · Ku / Ka · Shared / CIR · SCPC · Backhaul
+Bahn 02 / 06
+Unternehmens­netze
+Standortvernetzung als Managed Service – hybrid aus Glasfaser, Richtfunk, Satellit und Mobilfunk. Ein Netz und ein Ansprechpartner für alle Standorte.
+Standortvernetzung · Richtfunk · Hybrid · Managed Service
+Bahn 03 / 06
+IP-Transit & Peering
+Internetzugang über unser eigenes autonomes System – mit BGP, IPv4 und IPv6. Für Unternehmen und andere Netzbetreiber.
+BGP · IPv4 · IPv6 · Peering
+Bahn 04 / 06
+Glasfaser & Festnetz
+Glasfaseranschlüsse für Geschäftsstandorte und die terrestrische Anbindung Ihrer Zentrale an das NYNEX-Netz – auf Wunsch gebündelt mit Satellit.
+Geschäftskunden · Glasfaser · Festnetz
+Bahn 05 / 06
+Backup & Ausfall­sicherheit
+Ein Bagger reicht, um eine Glasfaser zu kappen. Der Satellit ist ein unabhängiger Zweitweg – für Standorte, die erreichbar bleiben müssen.
+Zweitweg · Unabhängig vom Boden
+Bahn 06 / 06
+Maritime & mobile Einsätze
+Konnektivität, die mitkommt: für Schiffe und Offshore-Plattformen, für Baustellen, Camps und temporäre Standorte.
+Schifffahrt · Offshore · Temporär
++ Rund um die Verbindung
+Monitoring & Kundenportal
+Sprache & VoIP
+Hub- & Teleport-Services
+Satcom-Beratung & Audits
+Mehr erfahren · Alle Leistungen →
+04 Künstliche Intelligenz · nynex.ai
+KI, die im eigenen Netz bleibt.
+Unter unserer Marke nynex.ai betreiben wir KI-Modelle lokal auf eigener Infrastruktur in Deutschland, beraten Unternehmen beim Einsatz von KI und bauen ein dezentrales KI-Netz auf – als Gesamtlösung aus einer Hand, ohne Fremdanbieter.
+Lokale KI-Modelle auf eigener Infrastruktur in Deutschland
+Beratung, Hosting, Training und Integration aus einer Hand
+Gesamtlösung ohne Fremdanbieter – dezentrales KI-Netz im Aufbau
+Mehr erfahren · Künstliche Intelligenz →
+05 Netz
+Ein Netz. Ein autonomes System.
+Satellit, Glasfaser und IP-Transit laufen bei NYNEX in einem eigenen autonomen System zusammen: AS62023. Ein Netz, ein Betrieb, ein Ansprechpartner – egal, wie ein Standort angebunden ist.
+Der Signalweg
+Internet Upstreams und Peering
+NYNEX Core NOC in Darmstadt
+Teleports & Hubs Usingen · Ruppichteroth · Perl · Ottobrunn · Zypern – Uplink im Ku- und Ka-Band
+Satellit Shared oder dediziert (SCPC)
+Ihre Standorte Europa · Nahost · Afrika · See
+Parallel vom Core: Glasfaser zu Geschäftsstandorten.
+Peering & Betrieb
+Informationen zu Peering mit AS62023 finden Sie in der PeeringDB. Anfragen gern an info@nynex.de .
+Eckdaten
+Protokolle IPv4 · IPv6 · BGP
+Satellit Ku- und Ka-Band · Shared und dediziert
+Betrieb NOC in Darmstadt · Monitoring & Kundenportal
+Community Mitglied im NLNOG RING
+Partner In mehr als 60 Ländern
+PeeringDB ↗ (öffnet in neuem Tab) Speedtest ↗ (öffnet in neuem Tab)
+Mehr erfahren · Netz & AS62023 →
+06 Branchen
+Für alle, die nicht offline gehen dürfen.
+Unsere Kunden betreiben Standorte, an denen ein Ausfall teuer, gefährlich oder keine Option ist – oft weit weg von der nächsten Glasfaser.
+01 Unternehmen & Industrie
+02 Öl, Gas & Energie
+03 NGOs & Hilfs­organisationen
+04 Behörden
+05 Sicherheit & Verteidigung
+06 Bau & Infrastruktur
+07 Schifffahrt & Offshore
+08 Internet Service Provider
+Positionen auf dem Globus sind symbolisch.
+07 Vorgehen
+Mission in vier Phasen.
+Vom ersten Gespräch bis zum laufenden Betrieb – mit einem Team, das Ihr Netz kennt.
+Die vier Phasen
+Phase 01 Beratung & Planung
+Wir klären Standorte, Bandbreiten und Budget – und wählen das passende Medium.
+Phase 02 Aufbau
+Installation und Inbetriebnahme Ihrer Anbindung – per Satellit, Glasfaser oder beidem.
+Phase 03 Betrieb
+Unser Network Operations Center (NOC) in Darmstadt überwacht Ihre Verbindungen laufend.
+Phase 04 Weiter­entwicklung
+Neue Standorte, mehr Bandbreite, zusätzliche Wege: Ihr Netz wächst mit.
+08 Kontakt · NOC Darmstadt
+Sprechen wir über Ihr Netz.
+Nennen Sie uns Standorte, Koordinaten oder Adressen. Wir prüfen das passende Medium und melden uns mit einem Vorschlag.
+Direkt anrufen 06151 500 74 0
+Projekt anfragen →
+info@nynex.de
+Vertrieb
+sales@nynex.de
+Telefon
++49 6151 500 74 0
+Adresse
+NYNEX satellite OHG
+SPACE 20
+Robert-Bosch-Straße 20
+64293 Darmstadt
+Mehr erfahren · Kontakt & Anfrage →
+Satellit, Glasfaser und IP-Transit in einem Netz – geplant, gebaut und betrieben aus Darmstadt.
+Kontakt
+NYNEX satellite OHG
+SPACE 20
+Robert-Bosch-Straße 20
+64293 Darmstadt
+06151 500 74 0
+info@nynex.de
+Seiten
+Start
+Leistungen
+Netz
+Unternehmen
+Geschichte
+Kontakt
+Netz
+AS62023
+PeeringDB ↗ (öffnet in neuem Tab)
+Speedtest ↗ (öffnet in neuem Tab)
+Mitglied im NLNOG RING
+Marken
+fiberONE
+Glasfaser deutschlandweit
+fiberone.de ↗ (öffnet in neuem Tab)
+nynex.ai
+Künstliche Intelligenz
+nynex.ai ↗ (öffnet in neuem Tab)
+eAutoCash
+THG-Quoten
+eauto-cash.de ↗ (öffnet in neuem Tab)
+Partner & Mitgliedschaften
+Hessen in Space – Mitglied
+© 2026 NYNEX satellite OHG · Gesellschafter: Andreas Buxbaum, Gunter Frank
+Impressum
+Datenschutz

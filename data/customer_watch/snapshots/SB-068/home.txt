@@ -1,217 +1,226 @@
-# SB-068 digicomm.de · home · https://www.addsecure.de/kritische-infrastrukturen/?digicomm · fetched 2026-10-25T07:41:18Z · HTTP 200
-Kritische Infrastrukturen - Germany
-Skip to content
-Weitere Infos +4921596937535
-Kontaktieren Sie uns
-Lösungen Toggle "Lösungen" menu
-IoT Konnektivität Toggle "IoT Konnektivität" menu
-IoT Konnektivität Übersicht
-Lösungen Toggle "Lösungen" menu
-IoT Konnektivitätsmanagement, Link Manager
-Globale Konnektivität
-Sicherheitsmanagement
-Apps Toggle "Apps" menu
-Link Manager Mobile
-Service Activator App
-Alarme Toggle "Alarme" menu
-Alarm Übersicht
-Alarm Produkte Toggle "Alarm Produkte" menu
-Alarmübertragung
-Notfallkonferenzen Toggle "Notfallkonferenzen" menu
-Notfallkonferenzen Übersicht
-Notfallkonferenz Produkte Toggle "Notfallkonferenz Produkte" menu
-Telefonkonferenzen
-Fuhrparkmanagement Toggle "Fuhrparkmanagement" menu
-Fuhrparkmanagement Übersicht
-Lösungen Toggle "Lösungen" menu
-Zugriff auf Flottendaten
-Transportprozessoptimierung
-Erhöhung der Fahrer- und Flottensicherheit
-Einhaltung der Flottenvorschriften
-Kontrolle über den Kraftstoff
-Produkte Toggle "Produkte" menu
-Flottenmanagementsystem
-Videotelematiksysteme
-Transportmanagementsystem
-Branchen Toggle "Branchen" menu
-Transport und Logistik
-Gefahrguttransport
-Transporter-Flotten
-Mobile Arbeitskräfte
-Personenbeförderung
-Fuhrparkmanagement im Bauwesen
-Express- und Kurierdienste
-Schüttgut- und Tanktransport
-Temperaturüberwachte Transporte
-Unser Team
-Kritische Infrastrukturen Toggle "Kritische Infrastrukturen" menu
-Kritische Infrastrukturen Übersicht
-Sektoren Lösungen Toggle "Sektoren Lösungen" menu
-Energieversorgung
-Verkehr
-Industrie
-Automatisierung
-Städte und Gemeinden
-Erneuerbare Energien
-Produkte Toggle "Produkte" menu
-LWL/Glasfaser
-Kupfer
-Funknetze
-Software/Security
-AddSecure Link
-Professionelle Services
-Unser Team
-Push-to-talk Toggle "Push-to-talk" menu
-Push-to-talk Übersicht
-Lösungen Toggle "Lösungen" menu
-Push-to-talk
-Backup-Lösung für Gruppenkommunikation
-Produkte Toggle "Produkte" menu
-GroupTalk
-Persönliche Sicherheit Toggle "Persönliche Sicherheit" menu
-Persönliche Sicherheit Übersicht​
-Lösungen Toggle "Lösungen" menu
-Alleinarbeiterschutz
-Schulen & Bildungseinrichtungen
-Einzelhandel & Einkaufszentren
-Behörden & Öffentliche Einrichtungen
-Gesundheits- & Pflegeeinrichtungen
-Sicherheitsbehörden
-Produkte Toggle "Produkte" menu
-AddAlert Notfallalarme – Cloud
-Notfallalarme – On Premise
-GroupTalk – Push to Talk
-Hardware
-Partner werden
-Ressourcen Toggle "Ressourcen" menu
-Ressourcen Übersicht
-Ressourcen Toggle "Ressourcen" menu
-Kunden-Referenzen
-E-Books
-Webinare
-Blog Toggle "Blog" menu
-AddSecure
-IoT und Sichere Kommunikation
-Transport und Logistik
-Kritische Infrastrukturen
-Events Toggle "Events" menu
-PMRExpo 2026
-E-world 2027
-Kontakt und Support Toggle "Kontakt und Support" menu
-Kontakt und Support
-Technischer Support
-Partner
-Unsere Büros
-Kontaktieren Sie uns
-Über Uns Toggle "Über Uns" menu
-Das ist AddSecure
-ISO-Zertifizierungen
-Nachhaltigkeit
-Newsroom
-Whistleblowing Dienst
-Datenschutz
-Karriere
+# SB-068 ict-integrators.com · home · https://ict-integrators.com/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+ICT Integrators | Your Digital Transformation Partner
+MENU
+CLOSE
+Home
+About Us
+Partners
+Products & Solutions
+Professional Services
+Application Development Services
+Resource Outsourcing
+Gallery
+Our Team
+Software Services
+Trainings
+Support
+Clients
+Contact Us
+Enterprise
+Industrial
+Service Provider
+Networking
+We supply, design, build, optimize and maintain networking infrastructures for organisations.
+Interested
+Wireless
+In wireless communications, we offer our customers supply, solution designs, integration and customization services ...
+Interested
+Collaboration
+We have extensive expertise in the supply, design and implementation of secure and innovative collaboration solutions.
+Interested
+Cyber Security
+Our solutions provide a broad portfolio of intelligent, integrated and adaptive security offerings.
+Interested
+Data Center
+We supply, design and deliver modern datacenter that is composed of Unified Networking, Unified Storage and Unified Servers ...
+Interested
+Cloud & IoT
+We help organizations digitally transform via the utilization of innovative technologies such as Cloud and Internet of Things (IoT) ...
+Interested
+Monitoring
+Through our solutions we help our customers to instantly understand app & infra performance, dependencies, and bottlenecks ...
+Interested
+Video Surveillance
+Our solutions help protecting what matters to make customer facilities safer by delivering the lab-validated world class solutions ...
+Interested
+Structured Cabling
+We offer well-designed structured cabling solutions that increase up-time and minimize operating expenses...
+Interested
+Power Backup
+We supply, install, evaluate and recommend power backup solutions to enterprises for higher service up-time ...
+Interested
+Building Management Systems
+We supply and install integrated access control, fire and HVAC solutions that are easy to operate & integrate ...
+Interested
+Ethernet Switching
+We supply and install multi speed Ethernet solutions with rapid recovery and high temp. support for critical industrial installations ...
+Interested
+PoE
+We provide PoE+ solutions with power boosting technology that can use any standard DC voltage source of 12VDC or 24VDC ...
+Interested
+Wireless
+Our industrial WiFi solutions can transform your plant and in parallel reduce downtime of industrial communication infrastructure ...
+Interested
+Security
+We provide secure connectivity solutions to your industrial network remote communication needs ...
+Interested
+Industrial IoT
+We provide gateways, I/O modules, smart antennas, cloud services that result in a practical industrial IIoT platform ...
+Interested
+Media & Interface Converters
+We supply serial and Ethernet media converters with link fault pass through technology that is key for mission critical networks ...
+Interested
+Access
+We supply innovative solutions to enable multi service access network both in terms wired and wireless connectivity ...
+Interested
+Transmission
+SDH and Metro backhaul solutions with ultra low latency, rapid recovery and high throughputs to meet the demands of 4G/5G networks ...
+Interested
+Edge / Aggregation
+We offer solutions with mix of high-density, high-performance, routed/switched capabilities that allow smooth delivery of content ...
+Interested
+Core
+We supply, design and install cores ready for mass scale networking with simplification at scale supporting 100GE and 400GE speeds ...
+Interested
+Data Center
+Deploy business & web applications, data analytics and cloud solutions faster using our proven multi tera-bits software driven solutions ...
+Interested
+Cloud
+We offer combination of technologies that help building a public cloud and orchestrate across hybrid IT environments ...
+Interested
+Carrier Grade Telephony
+We offer feature rich NGN solution including C4 & C5 Softswitches, MGWs and SGWs with reliability factor of 99.999% ...
+Interested
+Contact Center
+We offer state of the art omni-channel solutions that drive better customer engagement across marketing, sales and service ...
+Interested
+IoT
+From integrating the right sensors to choosing the best-fit platform, we provide comprehensive IoT services to service providers ...
+Interested
+Video Surveillance
+We offer intelligent IP video surveillance solution ranging from cameras to true cloud enabled multi-tenant video management systems ...
+Interested
+Performance Monitoring
+Our cloud and infrastructure monitoring solutions allow service providers to take proactive measures for better user experience ...
+Interested
+Test Tools
+We provide test equipment to large service providers for cable, wireless, fiber optics and telecommunications ...
+Interested
+Structured Cabling
+We supply and install horizontal, vertical cabling system that supports various uses and is suitable for today's and future needs ...
+Interested
+Optical Transceivers
+We supply telco grade optical transceiver products that include CFP, CFP2, CFP4, CXP, QSFP, QSFP28, SFP, SFP+, XFP, FC, FCOE and X2 etc.
+Interested
+Media/Interface & Protocol Converters
+We supply telco grade copper-optical media, interface and protocol converters such as TDMoIP, SIPtoPRI ...
+Interested
+Power Backup
+We supply, install, evaluate and recommend power backup solutions to service providers for higher service up-time ...
+Interested
+Toggle Navigation
+ICT Integrators
+Professional Services
+Application Development Services
+Resource Outsourcing
+Gallery
+Our Team
 Login
-Germany
-Toggle navigation
-Login
-Kritische Infrastrukturen
-Mit einer fast 40jährigen Expertise von Übertragungstechniken in den kritischen Infrastrukturen in der DACH-Region sind wir der Ansprechpartner für Lösungen zur sicheren Daten-Kommunikation in den Bereichen Energieversorgung, Verkehr, Städte und Gemeinden, Industrie und Automation.
-Vertrieb kontaktieren
-AddSecure Workshop – Advanced Security SHDTU am 22. bis 23. September 2026 in Mönchengladbach
-Vertiefen Sie Ihr Wissen rund um SHDSL, VLAN, VPN und Security in einem zweitägigen Praxisworkshop. Am 22.–23. September 2026 im Borussia-Park Mönchengladbach erwarten Sie Hands-on-Übungen und intensiver Fachaustausch – die Teilnehmerzahl ist auf 30 Personen begrenzt.
-Mehr erfahren
-Unsere Lösungen für Ihre sichere Datenkommunikation​
-Sie suchen sichere Kommunikationslösungen für Ihr Unternehmen oder kritische Infrastrukturen, inklusive strukturiertem Management? Kontaktieren Sie uns – wir kümmern uns um Ihre individuelle Lösung.
-Wir entwickeln mit Ihnen Anwendungsszenarien und Umsetzungskonzepte
-Profitieren Sie von unseren technischen und wirtschaftlichen Machbarkeits-Analysen
-Entdecken Sie, warum wir im Bereich KRITIS-Security Ihre Experten sind.
-Mit Sicherheit: Unsere Produkte für Ihre OT-Anwendungen
-LWL / Glasfaser
-Kombinieren und konvertieren Sie im Glasfaser-Netz!
-Kupfer
-Unsere Hardware, um Ihre Kupferleitungen effizient zu nutzen!
-Funknetze
-Überbrücken Sie Strecken mit unseren Funk-Routern!
-Software/Security
-Nutzen Sie intelligente Management-Tools und VPN-Lösungen!
-AddSecure LINK
-Verwalten Sie Ihre zuverlässigen und flexiblen IoT-Konnektivitätslösungen selber!
-Professionelle Services
-Testen Sie uns und unsere Produkte!
-Sprechen Sie mit uns!
-Unsere Experten helfen Ihnen, die richtige Lösungen für Ihre Anforderungen zu finden!
-Vertrieb kontaktieren
-Unser Angebot
-Fuhrparkmanagement
-Alarmübertragung
-Kritische Infrastrukturen
-Notfallalarme
-Notfallkonferenzen
-Kontakt und Support
-Kontaktiere uns
-Unsere Büros
-Technische Dokumente und Downloads
-Statusseiten
-Karriere
-Über uns
-Das ist AddSecure Nachhaltigkeit ISO-Zertifizierungen und Umweltmanagementsystem Impressum Datenschutz Cookies Newsroom
-© Copyright 2026 Germany all rights reserved
-[email protected]
-Hauptsitz:
-+49 49507753990
-Select location
-AddSecure Group
-Belgium
-Denmark
-Finland
-France
-Germany
-Italy
-Norway
-Poland
-Spain
-Sweden
-Switzerland
-The Netherlands
-UK and Global
-Continue
-Close
-Loading
-Back
-Close
-Select Option
-Search
-Available Options
-No Results
-Matching Options
-Matching Sub Options
-No Results
-Cookie-Zustimmung verwalten
-Wir verwenden Cookies
-Unsere Website verwendet Cookies, die für den Betrieb der Website und die Bereitstellung der von Ihnen angeforderten Dienste erforderlich sind. Wir möchten auch die folgenden optionalen Cookies auf Ihrem Gerät platzieren. Für weitere Informationen lesen Sie bitte unsere Cookie-Richtlinie. Cookie Policy
-Functional
-Immer aktiv
-Die technische Speicherung oder der Zugang ist unbedingt erforderlich für den rechtmäßigen Zweck, die Nutzung eines bestimmten Dienstes zu ermöglichen, der vom Teilnehmer oder Nutzer ausdrücklich gewünscht wird, oder für den alleinigen Zweck, die Übertragung einer Nachricht über ein elektronisches Kommunikationsnetz durchzuführen.
-Preferences
-The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.
-Statistics
-The technical storage or access that is used exclusively for statistical purposes.
-Die technische Speicherung oder der Zugriff, der ausschließlich zu anonymen statistischen Zwecken verwendet wird. Ohne eine Vorladung, die freiwillige Zustimmung deines Internetdienstanbieters oder zusätzliche Aufzeichnungen von Dritten können die zu diesem Zweck gespeicherten oder abgerufenen Informationen allein in der Regel nicht dazu verwendet werden, dich zu identifizieren.
-Marketing
-Die technische Speicherung oder der Zugriff ist erforderlich, um Nutzerprofile zu erstellen, um Werbung zu versenden oder um den Nutzer auf einer Website oder über mehrere Websites hinweg zu ähnlichen Marketingzwecken zu verfolgen.
-Optionen verwalten
-Dienste verwalten
-Verwalten von {vendor_count}-Lieferanten
-Lese mehr über diese Zwecke
-Alle akzeptieren
-Ablehnen
-Einstellungen
-Save preferences
-Einstellungen
-{title}
-Zustimmung verwalten
-DigiComm ist nun AddSecure
-Die DigiComm, schon seit November 2023 Teil der AddSecure Gruppe aus Stockholm, firmiert nun unter AddSecure. Mit dieser Umbenennung stärken wir unser Angebot für sie und bieten noch bessere Lösungen für unsere Kunden in den Bereichen öffentliche Einrichtungen, Versorgungsunternehmen, Smart Cities und industrielles IoT an.
-Schließen
-Mehr lesen
+Contact
+Value Added Resellers
+Supplying Best-of-Breed Technology
+Adopting new technologies means overcoming often complicated integration challenges. With long standing expertise of 30+ man-years, we are on hand to handle your integration needs, from architecture design to execution to testing
+Interested
+Professional Services
+You’re in Good Hands
+A high-end IT company providing niche professional services considering the ever-evolving consumer demands and market requirement
+Interested
+Application Development Services
+Folium Technologies
+At FOLIUM, we deliver bespoke AI, ML, and application development solutions, specializing in data engineering, dashboarding and resource outsourcing for FinTech, Banking, Telecom, and Healthcare industries.
+Interested
+PRODUCTS & SOLUTIONS
+PROFESSIONAL SERVICES
+AWS CONSULTNG
+RESOURCE OUTSOURCING
+SOFTWARE SERVICES
+TRAININGS
+PARTNERS
+SUPPORT
+Why ICT Integrators?
+Our service business model seeks to improve the quality of service process and meet customer expectation outputs by identifying and removing the causes of downtime, system failures, equipment defects, minimizing revenue loss and infrastructure / system outages
+As AWS Consulting Partner, our task is to understand existing or new business / application landscape and extend guidance to build managed cloud architecture that suits your organizational needs. We help you understand and utilize Amazon Web Services (AWS) in the most efficient and cost effective way.
+ICT Integrators works closely with AWS ensuring that your migration plans are executed flawles...
+More
+AWS Cloud Solutions
+×
+ICT Integrators - Your Digital Transformation Partner
+I'm Interested
+AWS Cloud Solutions
+As AWS Consulting Partner, our task is to understand existing or new business / application landscape and extend guidance to build managed cloud architecture that suits your organizational needs. We help you understand and utilize Amazon Web Services (AWS) in the most efficient and cost effective way.
+ICT Integrators works closely with AWS ensuring that your migration plans are executed flawlessly and design is in compliance to AWS well architected frameworks. We have developed expertise in understanding, creating and migrating business critical systems using AWS as a platform. Our certified AWS consultants are readily accessible in case you have questions regarding how the cloud adoption may benefit your organization!
+Following are the key AWS cloud consulting areas we deal in:
+Planning & Assessment
+Proof of Concept Testing
+Design, Deployment, and Migration
+Windows Workloads
+Linux Workloads
+Databases
+Networking
+Storage
+Security
+DR/Backup on AWS
+Managed AWS Operations
+AWS Cost and Performance Management
+Software-defined WAN is a new approach to network connectivity that lowers operational costs and improves resource usage for multisite deployments. Network administrators can use bandwidth more efficiently and can help ensure the highest level of performance for critical applications without sacrifi...
+More
+SD-WAN
+×
+ICT Integrators - Your Digital Transformation Partner
+I'm Interested
+SD-WAN
+Software-defined WAN is a new approach to network connectivity that lowers operational costs and improves resource usage for multisite deployments. Network administrators can use bandwidth more efficiently and can help ensure the highest level of performance for critical applications without sacrificing security or data privacy.
+ICT Integrators allows you to liberate your applications with the unified SD-WAN edge platform, and realize the true transformational promise of the cloud.
+Our SD-WAN solution offerings include:
+Enterprise SD-WAN
+Service Provider SD-WAN
+Hybrid WAN
+WAN Edge Security
+WAN Optimization
+As AWS Consulting Partner, our task is to understand existing or new business / application landscape and extend guidance to build managed cloud architecture that suits your organizational needs. We help you understand and utilize Amazon Web Services (AWS) in the most efficient and cost effective wa...
+More
+AWS Cloud Solutions
+×
+ICT Integrators - Your Digital Transformation Partner
+I'm Interested
+AWS Cloud Solutions
+As AWS Consulting Partner, our task is to understand existing or new business / application landscape and extend guidance to build managed cloud architecture that suits your organizational needs. We help you understand and utilize Amazon Web Services (AWS) in the most efficient and cost effective way.
+ICT Integrators works closely with AWS ensuring that your migration plans are executed flawlessly and design is in compliance to AWS well architected frameworks. We have developed expertise in understanding, creating and migrating business critical systems using AWS as a platform. Our certified AWS consultants are readily accessible in case you have questions regarding how the cloud adoption may benefit your organization!
+Following are the key AWS cloud consulting areas we deal in:
+Planning & Assessment
+Proof of Concept Testing
+Design, Deployment, and Migration
+Windows Workloads
+Linux Workloads
+Databases
+Networking
+Storage
+Security
+DR/Backup on AWS
+Managed AWS Operations
+AWS Cost and Performance Management
+“Do more with less” is the new adage creating a positive impact in the virtualization landscape.
+ICT Integrators virtualization services are designed to fully virtualize and modernize legacy systems for superior performance, reliability and disaster recovery. We understand security an...
+More
+Virtualization
+×
+ICT Integrators - Your Digital Transformation Partner
+I'm Interested
+Virtualization
+“Do more with less” is the new adage creating a positive impact in the virtualization landscape.
+ICT Integrators virtualization services are designed to fully virtualize and modernize legacy systems for superior performance, reliability and disaster recovery. We understand security and add value while ensuring the system runs efficiently. The installation will be clean, professional and completed in a timely manner.
+By acquiring the server virtualization services from the qualified team of ICT Integrators, customers could experience the following benefits:
+Decentralization. Virtual systems can be accessed from more devices, resulting in a faster, more flexible workflow—especially in collaborative settings.
+Increased uptime. Being less dependent on hardware, virtualized systems enjoy superior uptime and all-around performance.
+Disaster recovery. Virtual systems “get up and running” faster than older, outdated systems- thanks to operating without being “tied down” to physical hardware.
+Scalability. The workload and space needed by your business month to month may ch

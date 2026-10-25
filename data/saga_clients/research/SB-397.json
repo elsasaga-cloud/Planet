@@ -2,39 +2,42 @@
  "code": "SB-397",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "在线（es-france.com，快照 2026-10-21）",
- "summary": "法国 ES France（1963 年起增值分销：元器件、仪器、IT 与网络四大部门，样品/借测/演示；站内 ORing 工业交换机与电源 IGPS-1080-24V-I；表内「ORing 的工业 FS」）；表内 2 次跟进无回复。",
- "type": "增值技术分销商（法国，ORing 工业 FS）",
+ "website_status": "在线（netiks.rs，快照 2026-10-21）",
+ "summary": "塞尔维亚 Netiks（计算机网络与通信商店：光纤 361、自有「NT」光模块 SFP/SFP+/XFP/QSFP+/GPON、TP-Link Omada、MikroTik、Grandstream、PoE 设备页；表内「有 DCN 的」）；表内无跟进记录。",
+ "type": "网络产品商店（塞尔维亚，自有标光模块）",
  "size": "",
  "brands_seen": [
-  "ORing"
+  "TP-Link",
+  "MikroTik",
+  "Grandstream",
+  "DCN"
  ],
  "evidence": [
   {
    "kind": "官网快照",
-   "claim": "官网标题：ES France | Distributeur à valeur ajoutée depuis 1963 : Composants, Instrumentation, Infor；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 无线 / WiFi / 数据中心 / 企业 IT / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
-   "quote": "Faites confiance à un spécialiste renommé en France. Contactez nos experts techniques dans ces 4 domaines : Composants, Instrumentation, Informatique et Réseaux. Echantillons, prêts, démonstrations de produits possibles.",
-   "url": "https://www.es-france.com/",
+   "claim": "官网标题：Netiks；品类词 安防监控（CCTV / 门禁） / 无线 / WiFi / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "NETIKS - računarske mreže i komunikacije",
+   "url": "http://www.netiks.rs/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
    "claim": "表内兴趣/备注",
-   "quote": "Oring的工业FS",
+   "quote": "有DCN的",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   },
   {
    "kind": "官网快照",
-   "claim": "ES France 增值分销",
-   "quote": "ES France | Distributeur à valeur ajoutée depuis 1963 : Composants, Instrumentation, Informatique et Réseaux",
-   "url": "https://www.es-france.com/",
+   "claim": "Netiks 计算机网络与通信",
+   "quote": "NETIKS - računarske mreže i komunikacije ; Netiks ‘NT‘ transiver moduli SFP / SFP+ / XFP / SFP28 / QSFP+ Ethernet i GPON",
+   "url": "http://www.netiks.rs/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "ORing 的工业 FS",
-   "quote": "Oring的工业FS",
+   "claim": "有 DCN 的",
+   "quote": "有DCN的",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
@@ -48,60 +51,50 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "法国",
-  "other": "官网 es-france.com，语言 fr-fr，快照状态 ok；角色判定来源：官网文案"
+  "hq": "塞尔维亚",
+  "other": "官网 netiks.rs，语言 sr-yu，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "元器件 / 仪器 / IT 与网络增值分销"
+  "网络与通信产品商店（光模块自有标）"
  ],
  "channels": {
-  "role": "增值技术分销商（法国，ORing 工业 FS）",
-  "region": "法国",
-  "contact": "contact@es-france.com"
+  "role": "网络产品商店（塞尔维亚，自有标光模块）",
+  "region": "塞尔维亚",
+  "contact": "info@netiks.rs、netiks@gmail.com"
  },
  "signals": [
-  "官网：Distributeur à valeur ajoutée depuis 1963 : Composants, Instrumentation, Informatique et Réseaux ; Echantillons, prêts, démonstrations",
-  "站内 ORing / IGPS-1080-24V-I；kw ethernet 51 / fibre 31 / switch 29 / poe 25"
+  "首页：Netiks ‘NT‘ transiver moduli SFP / SFP+ / XFP / SFP28 / QSFP+ Ethernet i GPON；TP-Link Omada",
+  "页面 /poe-power-over-ethernet-oprema；kw fiber 361 / wireless 143"
  ],
  "risks": [
-  "ORing（台湾）既定代理线：白牌为补充预算线",
-  "2 次跟进无回复，仅 contact@；分销部门多、决策人未知"
+  "小国（RS）非主动开发区；小商店量小",
+  "表内副邮箱为 gmail：只用企业邮箱；无具名 KP"
  ],
  "saga_fit": {
-  "p1": "STI-288GPM",
+  "p1": "STC-28DGGPM",
   "tier": 20,
-  "why": "在售 ORing 工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-280GE（$46.6）作预算线"
+  "why": "在售 DCN / TP-Link → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；自有 NT 光模块可配 Saga SFP 口（Saga 不供模块，Q-32）"
  },
- "email_hook": "Alongside the ORing industrial switches in your Réseaux department, we supply DIN-rail 8-PoE + 2 SFP managed and 8-GE + 2 SFP unmanaged units (−40~75 °C, CE/RoHS, neutral packing) from small lots as a budget line — which ORing port count do your customers order most?",
- "products_seen": [
-  {
-   "brand": "ORing",
-   "model": "IGPS-1080-24V-I",
-   "spec": "工业电源（ORing 线）",
-   "saga": "—（Saga 不做电源）",
-   "url": "https://www.es-france.com/",
-   "date": "2026-10-21"
-  }
- ],
+ "email_hook": "Next to the DCN and TP-Link switches in your shop, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch (pairs with your own NT SFP modules) from small lots, CE/RoHS — would a budget L2+ PoE model fit your range?",
  "mail_review": {
   "binding": {
-   "level": "未触达（A 邮箱 5 封 2025→2026，1 次记录打开，0 回；收件 contact@es-france.com；主题多为「Industrial PoE Switch、10G Enterprise SFP Switch」；Elsa 箱：`to:es-france.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 5 / 来 0）（第 74 批(k)））",
-   "type": "增值技术分销商（法国，ORing 工业 FS）",
-   "sieve": "1~2（1 次打开）",
-   "stop": "只打通用邮箱，无记录打开",
+   "level": "未触达（A 邮箱 9 封 2025→2026，无记录打开，0 回；收件 info@netiks.rs, netiks@gmail.com；主题多为「Optional Marvell Chipset Solutions、OEM Core Switching Solution」；Elsa 箱：`to:netiks.rs` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 9 / 来 0）（第 74 批(k)））",
+   "type": "网络产品商店（塞尔维亚，自有标光模块）",
+   "sieve": "1（只收到群发）",
+   "stop": "9 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
    "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "法国（欧洲全域主攻）",
+   "lane": "塞尔维亚（欧洲全域主攻）",
    "cadence": "季度",
-   "evidence": "gmail_digest：out 5，Opened 标签 1（Simon 群发追踪）；用户表：「Oring的工业FS」；研究档 risks：ORing（台湾）既定代理线：白牌为补充预算线"
+   "evidence": "gmail_digest：out 9；用户表：「有DCN的」；研究档 risks：小国（RS）非主动开发区；小商店量小"
   },
-  "situation": "法国 ES France（1963 年起增值分销：元器件、仪器、IT 与网络四大部门，样品/借测/演示；站内 ORing 工业交换机与电源 IGPS-1080-24V-I；表内「ORing 的工业 FS」）；表内 2 次跟进无回复。",
-  "need": "在售 ORing 工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-280GE（$46.6）作预算线",
-  "breakpoint": "ORing（台湾）既定代理线：白牌为补充预算线",
+  "situation": "塞尔维亚 Netiks（计算机网络与通信商店：光纤 361、自有「NT」光模块 SFP/SFP+/XFP/QSFP+/GPON、TP-Link Omada、MikroTik、Grandstream、PoE 设备页；表内「有 DCN 的」）；表内无跟进记录。",
+  "need": "在售 DCN / TP-Link → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；自有 NT 光模块可配 Saga SFP 口（Saga 不供模块，Q-32）",
+  "breakpoint": "小国（RS）非主动开发区；小商店量小",
   "saga_now": {
-   "p1": "STI-288GPM",
+   "p1": "STC-28DGGPM",
    "tier": 20,
-   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-22 $280（10G Enterprise SFP Switch）",
-   "why": "在售 ORing 工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-280GE（$46.6）作预算线。已打开的主题（1/5 封有打开记录）：「Industrial PoE Switch」(2025-09-18) → 读者兴趣偏「工业」；与 P1 同类，继续",
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2026-06-18 $16000（32 Port 400GB DC Switch）",
+   "why": "在售 DCN / TP-Link → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；自有 NT 光模块可配 Saga SFP 口（Saga 不供模块，Q-32）",
    "repeat": [],
    "gaps": []
   },
@@ -109,22 +102,22 @@
    "when": "群发节奏",
    "channel": "A 邮箱",
    "action": "观察打开",
-   "one_question": "Alongside the ORing industrial switches in your Réseaux department, we supply DIN-rail 8-PoE + 2 SFP managed and 8-GE + 2 SFP unmanaged units (−40~75 °C, CE/RoHS, neutral packing) from small lots as a budget line — which ORing port count do your customers order most?"
+   "one_question": "Next to the DCN and TP-Link switches in your shop, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch (pairs with your own NT SFP modules) from small lots, CE/RoHS — would a budget L2+ PoE model fit your range?"
   },
   "facts": [
    {
-    "date": "2026-01-29",
+    "date": "2026-09-15",
     "dir": "去",
     "who": "A 群发",
-    "quote": "Industrial PoE Switch、10G Enterprise SFP Switch",
-    "why": "5 封 / 1 次打开 / 0 回｜首封 2025-09-18 → 末封 2026-01-29（5 去 / 0 来）",
+    "quote": "Optional Marvell Chipset Solutions、OEM Core Switching Solution",
+    "why": "9 封 / 0 次打开 / 0 回｜首封 2025-12-11 → 末封 2026-09-15（9 去 / 0 来）",
     "k": "gmail_digest"
    },
    {
     "date": "2026-10-21",
     "dir": "用户表",
     "who": "Simon",
-    "quote": "Oring的工业FS",
+    "quote": "有DCN的",
     "why": "表内备注",
     "k": "用户表"
    }

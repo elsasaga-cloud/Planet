@@ -1,2 +1,518 @@
-# SB-491 cetsingapore.com · home · https://cetsingapore.com/ · fetched 2026-10-25T07:41:18Z · HTTP 202
-
+# SB-491 raskpreke.lt · home · https://www.raskpreke.lt/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+Apsaugos sistemos - Elektros prekės - Rask Prekę
+slapuk\u0173 nuostat\u0173 puslapyje .","acceptAllBtn":"Leisti visus","acceptNecessaryBtn":"Atmesti visus neb\u016btinus","showPreferencesBtn":"Slapuk\u0173 pasirinkimai"},"preferencesModal":{"title":"Slapuk\u0173 pasirinkimai","acceptAllBtn":"Leisti visus","acceptNecessaryBtn":"Atmesti visus neb\u016btinus","savePreferencesBtn":"I\u0161saugoti pasirinkimus","closeIconLabel":"U\u017edaryti","sections":[{"description":"Galite pasirinkti, su kuriomis slapuk\u0173 kategorijomis sutikti. Susipa\u017einti su apra\u0161ymais ir pakeisti pasirinkimus galite spustel\u0117j\u0119 ant konkre\u010dios slapuk\u0173 kategorijos. U\u017eblokavus kai kuri\u0173 tip\u0173 slapukus gali sutrikti Jums svetain\u0117je teikiamos funkcijos ir paslaugos. Daugiau informacijos rasite slapuk\u0173 nuostat\u0173 puslapyje ."},{"title":"B\u016btinieji slapukai","description":"\u0160ie slapukai yra b\u016btini tinkamam svetain\u0117s veikimui u\u017etikrinti. B\u016btinieji slapukai sudaro galimyb\u0119 nar\u0161yti svetain\u0117je, naudotis svetain\u0117s teikiamomis paslaugomis ir funkcijomis. \u0160i\u0173 slapuk\u0173 i\u0161jungti negalima.","linkedCategory":"necessary"},{"title":"Funkciniai slapukai","description":"\u0160ie slapukai \u012fgalina naudingas funkcijas, pagerinan\u010dias lankytojo nar\u0161ymo patirt\u012f - atsimena lankytojo nustatymus ir pasirinkimus. \u0160ie slapukai yra anoniminiai ir neseka nar\u0161ymo veiklos kitose interneto svetain\u0117se. I\u0161jungus funkcinius slapukus, kai kurios svetain\u0117s funkcijos gali neveikti tinkamai.","linkedCategory":"functionality"},{"title":"Analitiniai slapukai","description":"\u0160ie slapukai renka informacij\u0105 apie tai, kaip lankytojai naudojasi svetaine, ir padeda mums tobulinti klient\u0173 patirt\u012f, analizuojant lankytoj\u0173 srautus ir veiksm\u0173 tendencijas svetain\u0117je, vertinant puslapi\u0173 populiarum\u0105 ir pan. Informacija yra anonimin\u0117 ir apibendrinta.","linkedCategory":"analytics"},{"title":"Rinkodaros slapukai","description":"Rinkodaros slapukai naudojami steb\u0117ti lankytojus internete, \u012fvertinti reklamos efektyvum\u0105, taip pat tikslinei rinkodarai, siekiant parodyti suasmenintus reklaminius prane\u0161imus lankytojui \u0161ioje ar kitose svetain\u0117se.","linkedCategory":"marketing"}]}}}}}' data-google-recaptcha-enabled='1' data-post-code-validation-rules='{"LT":{"regexp":"^(?:LT(?:-|\\W{1,})?)?([a-z0-9]{5})$","regexp_flags":"i","short_message":"LT-XXXXX"},"LV":{"regexp":"^(?:LV(?:-|\\W{1,})?)?([a-z0-9]{4})$","regexp_flags":"i","short_message":"LV-XXXX"},"EE":{"regexp":"^(?:EE(?:-|\\W{1,})?)?([a-z0-9]{5})$","regexp_flags":"i","short_message":"EE-XXXXX"}}' data-user-wishlist-enabled='1' >
+LT
+EN
+RU
+Prisijungimas
+Palyginti prekes ( 0 )
+Prisijungti
+LT
+EN
+RU
+Prekių krepšelis
+Krepšelis tuščias.
+Krepšelis
+Iki nemokamo pristatymo liko 250 €
+Iki minimalios užsakymo sumos liko 10 €
+Krepšelis tuščias.
+Uždaryti
++3706 4575 015 Parašykite mums
+Vaizdo, garso, apsaugos ir įeigos sistemos
+IP vaizdo apsauga
+IP kameros
+NVR
+Papildoma įranga
+Analoginė vaizdo apsauga
+Analoginės kameros
+DVR
+Papildoma įranga
+Apsaugos sistemos
+Laidinės
+Bevielės
+AJAX
+GSM
+Radio
+Priedai
+Sargų kontrolės sistema
+Priešgaisrinės sistemos
+Konvencinės
+Adresinės
+Testavimo įranga
+Priedai
+Įeigos kontrolė
+Roger įeigos kontrolė
+Hikvision įeigos kontrolė
+Kantech įeigos kontrolė
+Ubiquiti įeigos kontrolė
+Vartų automatika
+Telefonspynės
+IP vaizdo telefonspynės
+Audio telefonspynės
+Analoginės vaizdo telefonspynės
+Garsiakalbiai
+IP garsiakalbiai
+Analoginiai garsiakalbiai
+Stiprintuvai
+Elektros prekės ir maitinimo šaltiniai
+Maitinimo šaltiniai
+12 V AC/DC
+24 V AC/DC
+48 V AC/DC
+Transformatoriai
+INIM SmartLoop maitinimo šaltiniai
+Kištukai ir priedai
+UPS nepertraukiamo maitinimo šaltiniai
+Akumuliatoriai ir baterijos
+Baterijos
+Akumuliatoriai
+Saulės energetika
+Saulės moduliai
+Inverteriai
+Laidai ir jungtys
+Įrankiai
+Tvirtinimo detalės
+Instaliacinės medžiagos
+Ilgikliai ir kištukai
+Jungikliai, kištukiniai lizdai
+Pramoniniai lizdai ir kištukai
+Instaliaciniai vamzdžiai
+Izoliacija
+Šviestuvai ir priedai
+Šviestuvai
+Priedai
+Judesio davikliai
+Lemputės
+Prožektoriai
+LED juostos
+Tvirtinimo medžiagos
+Varžtai
+Kaiščiai
+Kabelių tvirtinimas
+Dirželiai
+Grąžtai
+Skydai ir montavimo dėžutės
+Hermetinės dėžutės
+Instaliacinės dėžutės
+Moduliniai skydai
+Plastikiniai skydai
+Metaliniai skydai
+Skydų komponentai, gnybtai
+Skydai su pramoniniais lizdais
+Grindinės dėžutės
+Valdymo ir kontrolės modulinė įranga
+Automatiniai jungikliai
+Automatiniai srovės nuotėkio jungikliai
+Priedai automatams
+Kontaktoriai, rėlės moduliai
+Viršįtampių apsaugos
+Moduliniai kirtikliai, lemputės, mygtukai
+Elektros energijos skaitikliai
+Programuojami laikrodžiai ir termostatai
+Kabelių loveliai ir kopėčios
+Kabelių kanalai
+Kabelių loveliai BAKS
+Kabelių kopėčios
+Tvirtinimo elementai
+Vaizdo, garso ir scenos jranga
+Apšvietimas
+Tinklų įranga ir WiFi
+Komutavimo įranga
+Komutatoriai
+Maršrutizatoriai
+Belaidės prieigos taškai (access points)
+Antenos
+Ryšio praplėtėjai (range extenders)
+Valdikliai (controllers)
+Tinklo kartotuvai
+PoE adapteriai (injectors)
+Tinklo sąsajos ir sietuvai
+Komutavimo įrangos priedai
+Patch kabeliai
+Optiniai kabeliai ir adapteriai
+Optiniai keitikliai
+Kištukai
+Lizdai, aklės, virštinkinės rozetės, dėžutės
+Maitinimo šaltiniai
+Kita tinklų įranga
+Tinklo spintos
+Pastatomos spintos
+Pakabinamos spintos
+Serverio spintos
+Atviri rėmai
+Lentynos
+Komutacinės panelės
+Rozečių maitinimo panelės (PDU)
+Aušinimo įranga
+Kabelių montavimo įranga
+Kita spintų įranga
+Ubiquiti UniFi
+UniFi tinklo debesų sąsajos
+Priedai
+Ubiquiti UISP
+Kabeliai ir laidai
+Kabeliai
+Tinklo kabeliai
+Apsaugos kabeliai
+Koaksialiniai kabeliai
+Gaisriniai kabeliai
+Maitinimo kabeliai
+Optiniai kabeliai
+Audio kabeliai
+Priedai
+Sieniniai kištukai
+Sujungimo įranga
+Antgaliai
+Gnybtai
+Sandarikliai
+Įspėjamieji ženklai ir juostos
+Kabelių movos, termovamzdeliai, pirštinės
+Telefonų aksesuarai
+Laidai
+Įrankiai ir priedai
+Rankiniai įrankiai
+Atsuktuvai
+Replės
+Kandyklės
+Kabelių nužievintojai
+Antgalių presavimo replės
+Plaktukai
+Atsuktuvų antgaliai
+Peiliai
+L-Formos raktai
+Kabelių pratraukėjai
+Kiti įrankiai
+Matavimo įrankiai
+Ruletės
+Gulsčiukai
+Lazeriniai atstumo matuokliai
+Įrankių priedai
+Įrankių dėžės
+Grąžtai ir pjovimo diskai
+Žymėjimo priemonės
+Apsaugos priemonės
+Pirštinės
+Akiniai
+Šalmai
+Liemenės
+Striukės
+Batai
+Kelnės
+Kepurės
+Elektriniai įrankiai
+Prožektoriai
+Matavimo prietaisai
+Akumuliatoriniai įrankiai
+Akumuliatoriai - Pakrovėjai
+Kampiniai šlifuokliai
+Matavimo prietaisai
+Perforatoriai
+Pjūklai
+Prožektoriai
+Siurbliai
+Suktuvai-Gręžtuvai
+Kiti įrankiai
+Išmanioji technologija
+Išmanieji elektros prietaisai
+Automobilių krovimo stotelės
+Išmanieji valdikliai
+Išmanūs namai - SmartHome
+Ajax
+Slaugos ir sveikatos priežiūros sistemos
+Slaugių iškvietimo sistema
+Prekių katalogas
+Vaizdo, garso, apsaugos ir įeigos sistemos
+IP vaizdo apsauga
+IP kameros
+Dome kameros
+Box kameros
+Cube kameros
+Bullet kameros
+PTZ kameros
+Fisheye kameros
+Pinhole kameros
+Ajax
+Ajax Dome kameros
+Ajax Bullet kameros
+Ajax kamerų priedai
+HiLook
+EZVIZ
+Ubiquiti
+AVTECH
+Internetinės kameros
+PanoVu kameros
+Kameros su saulės panele
+Šiluminės kameros
+Temperatūros matavimo sprendimai
+Dahua vaizdo kameros
+Dahua Dome kameros
+Dahua Bullet kameros
+Dahua PTZ
+NVR
+4 kanalų NVR
+8 kanalų NVR
+16 kanalų NVR
+32 kanalų NVR
+64 kanalų NVR
+128 kanalų NVR
+Ajax NVR
+Dahua NVR
+Papildoma įranga
+Kronšteinai
+Kietieji diskai
+SD kortelės
+Monitoriai
+HDMI laidai, ilgikliai
+Numerių atpažinimo įranga
+IR prožektoriai
+Signalų perdavimas
+Objektyvai
+Priedai
+Analoginė vaizdo apsauga
+Analoginės kameros
+Bullet kameros
+Dome kameros
+PTZ kameros
+Box kameros
+DVR
+4 kanalų DVR
+8 kanalų DVR
+16 kanalų DVR
+32 kanalų DVR
+Papildoma įranga
+Kamerų objektyvai
+Signalų perdavimas
+Viršįtampių apsauga
+Monitoriai
+Kietieji diskai
+IR apšvietimas
+Korpusai-nameliai
+Kronšteinai
+Priedai
+Apsaugos sistemos
+Laidinės
+Centralės
+Klaviatūros
+Išplėtimo moduliai
+PIR jutikliai
+Stikladūžiai detektoriai
+Perimetro apsauga
+Smūgio jutikliai
+Magnetiniai kontaktai
+Sirenos
+Pavojaus mygtukai
+Komunikatoriai
+Korpusai
+Maitinimo šaltiniai
+Priedai
+Uždūminimo įranga
+Bevielės
+HIKVISION AX PRO
+EZVIZ belaidė apsauga
+Centralės
+Siųstuvai ir Imtuvai
+Klaviatūra
+Jutikliai ir detektoriai
+Stikladūžiai ir smūgio jutikliai
+Išplėtimo moduliai
+Nuotolinio valdymo pultai
+Sirenos
+Komunikatoriai
+Korpusai
+Maitinimo šaltiniai
+Priedai
+AJAX
+Ajax
+GSM
+Centralės
+Klaviatūra
+Išplėtimo moduliai
+Komunikatoriai
+Jutikliai ir detektoriai
+Nuotolinio valdymo pultai
+Sirenos
+Kartotuvai
+Radio
+GSN
+GORKE
+Trikdis
+Kiti
+Priedai
+Sargų kontrolės sistema
+Priešgaisrinės sistemos
+Konvencinės
+Centralės
+Išplėtimo moduliai
+Jutikliai
+Dūminiai barjerai
+Temperatūros kabeliai
+Sirenos
+Pavojaus mygtukai
+Kita įranga
+Adresinės
+Centralės
+Išplėtimo moduliai
+Sąsajos
+Jutikliai
+Sirenos
+Pavojaus mygtukai
+Kita įranga
+Ajax
+Testavimo įranga
+Priedai
+Įeigos kontrolė
+Autonominiai kontroleriai, klaviatūros, pirštų antspaudų skaitytuvai
+Kortelės
+Pakabukai
+Elektromagnetinės sklendės
+Elektromagnetinės spynos
+Elektromagnetinės strypinės spynos
+Išėjimo mygtukai
+Sargų kontrolės sistema
+Kita įranga
+FoxSec
+PARADOX įeigos kontrolė
+Roger įeigos kontrolė
+Valdikliai
+Sudėtingi valdikliai
+Skaitytuvai
+Moduliai
+Sąsajos
+Kortelės
+Programinė įranga
+Priedai
+Hikvision įeigos kontrolė
+Kantech įeigos kontrolė
+Ubiquiti įeigos kontrolė
+Vartų automatika
+Telefonspynės
+IP vaizdo telefonspynės
+IP vaizdo ir garso skirstytuvai
+Iškvietimo moduliai
+Monitoriai
+Priedai
+Telefonspynių komplektai
+Audio telefonspynės
+Iškvietimo moduliai
+Rageliai
+Kita
+Analoginės vaizdo telefonspynės
+Garsiakalbiai
+IP garsiakalbiai
+Lubiniai garsiakalbiai
+Ruporiniai garsiakalbiai
+Pastatomi garsiakalbiai
+Analoginiai garsiakalbiai
+Lubiniai garsiakalbiai
+Sieniniai garsiakalbiai
+Stiprintuvai
+Elektros prekės ir maitinimo šaltiniai
+Maitinimo šaltiniai
+12 V AC/DC
+24 V AC/DC
+48 V AC/DC
+Transformatoriai
+INIM SmartLoop maitinimo šaltiniai
+Kištukai ir priedai
+UPS nepertraukiamo maitinimo šaltiniai
+Akumuliatoriai ir baterijos
+Baterijos
+Akumuliatoriai
+Saulės energetika
+Saulės moduliai
+Inverteriai
+Laidai ir jungtys
+Įrankiai
+Tvirtinimo detalės
+Instaliacinės medžiagos
+Ilgikliai ir kištukai
+Jungikliai, kištukiniai lizdai
+Pramoniniai lizdai ir kištukai
+Instaliaciniai vamzdžiai
+Izoliacija
+Šviestuvai ir priedai
+Šviestuvai
+Priedai
+Judesio davikliai
+Lemputės
+Prožektoriai
+LED juostos
+Tvirtinimo medžiagos
+Varžtai
+Kaiščiai
+Kabelių tvirtinimas
+Dirželiai
+Grąžtai
+Skydai ir montavimo dėžutės
+Hermetinės dėžutės
+Instaliacinės dėžutės
+Moduliniai skydai
+Plastikiniai skydai
+Metaliniai skydai
+Skydų komponentai, gnybtai
+Skydai su pramoniniais lizdais
+Grindinės dėžutės
+Valdymo ir kontrolės modulinė įranga
+Automatiniai jungikliai
+Automatiniai srovės nuotėkio jungikliai
+Priedai automatams
+Kontaktoriai, rėlės moduliai
+Viršįtampių apsaugos
+Moduliniai kirtikliai, lemputės, mygtukai
+Elektros energijos skaitikliai
+Programuojami laikrodžiai ir termostatai
+Kabelių loveliai ir kopėčios
+Kabelių kanalai
+Kabelių loveliai BAKS
+Kabelių kopėčios
+Tvirtinimo elementai
+Vaizdo, garso ir scenos jranga
+Apšvietimas
+Judantys prožektoriai
+LED BAR prožektoriai
+LED PAR prožektoriai
+LED šviesos
+RETRO prožektoriai
+Teatrinis apšvietimas
+Tinklų įranga ir WiFi
+Komutavimo įranga
+Komutatoriai
+Maršrutizatoriai
+Belaidės prieigos taškai (access points)
+Antenos
+Ryšio praplėtėjai (range extenders)
+Valdikliai (controllers)
+Tinklo kartotuvai
+PoE adapteriai (injectors)
+Tinklo sąsajos ir sietuvai
+Komutavimo įrangos priedai
+Patch kabeliai
+Optiniai kabeliai ir adapteriai
+Optiniai keitikliai
+Kištukai
+Lizdai, aklės, virštinkinės rozetės, dėžutės
+Maitinimo šaltiniai
+Kita tinklų įranga
+Tinklo spintos
+Pastatomos spintos
+Pakabinamos spintos
+Serverio spintos
+Atviri rėmai
+Lentynos
+Komutacinės panelės
+Rozečių maitinimo panelės (PDU)
+Aušinimo įranga
+Kabelių montavimo įranga
+Kita spintų įranga
+Ubiquiti UniFi
+UniFi tinklo debesų sąsajos
+Priedai
+Ubiquiti UISP
+Kabeliai ir laidai
+Kabeliai
+Tinklo kabeliai
+Apsaugos kabeliai
+Koaksialiniai kabeliai
+Gaisriniai kabeliai
+Maitinimo kabeliai
+Optini

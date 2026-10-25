@@ -1,130 +1,135 @@
 {
  "code": "SB-021",
- "name_official": "АВИКАМ ООД / AVICAM Ltd.（Sofia, BG；avicam-bg.com）",
- "researched_at": "2026-10-21",
- "website_status": "在线（网店）",
- "summary": "保加利亚索菲亚的视频监控与安防系统进口商/分销商兼设计安装商（2001 年成立；ул. Братя Миладинови 60；+359 2 832 7084；sales@avicam-bg.com；RaySharp 保加利亚官方代表（2019 起）；自有 AVICAM 品牌线缆等配件；RocketReach 营收口径极小）。展会记录：CCTV 产品、PoE 交换机；WhatsApp 已加；6 次跟进 0 回复。",
- "type": "",
- "size": "",
+ "name_official": "Loop Telecommunication International, Inc.（Loop Telecom，台湾上市 3025；EMEA 销售 VP 驻法国）",
+ "website_status": "在线",
+ "summary": "台湾电信/工业网络设备制造商（1991 年创立，台交所 3025），自研 TDMoIP、PTN/MPLS-TP、以太网接入、工业与铁路 EN50121-4 交换机（IP6820/IP6828/IP6830 等）。用户表登记为法国（Eric Piaget, V.P. Sales EMEA & India），A 已回复 + A 台湾名单，兴趣工业 FS / MC / 工业物联网。",
+ "type": "台系品牌制造商（可能的低端 OEM 采购方）",
+ "size": "上市公司（台湾）",
  "brands_seen": [
-  "RaySharp（代理）",
-  "AVICAM（自有品牌配件）"
+  "Loop"
  ],
  "evidence": [
   {
    "kind": "官网",
-   "claim": "定位与联系方式",
-   "quote": "АВИКАМ ООД e един от водещите български дистрибутори на системи за видеонаблюдение и контрол. Имаме вече над 15 годишен опит във вноса … +359 2 8327084 … sales@avicam-bg.com Ул. \"Братя Миладинови\" № 60 1202 София",
-   "url": "https://avicam-bg.com/",
-   "date": "2026-07-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "成立年与业务",
-   "quote": "AVICAM е бранд на „АВИКАМ\" ООД, основана през 2001 в град София. Дейността на фирмата е цялостно проектиране и монтаж на системи за видеонаблюдение, внос и търговия.",
-   "url": "https://avicam-bg.com/product-category/brands/avicam-%D0%BC%D0%B0%D1%80%D0%BA%D0%B8/",
+   "claim": "公司性质",
+   "quote": "In 1991, a group of established professionals from the communications industry founded Loop Telecom. It is currently traded on the Taiwan Stock Exchange Corp., or TSEC (3025).",
+   "url": "https://www.looptelecom.com/en/about/Company-Overview",
    "date": "2026-10-21"
   },
   {
    "kind": "官网",
-   "claim": "RaySharp 代理",
-   "quote": "От месец юли 2019 година фирма Авикам ООД е официален представител на продуктите с марката RaySharp за България.",
-   "url": "https://avicam-bg.com/product-category/kameri-za-videonabliudenie/videonabludenie-raysharp/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "CCTV / PoE 交换机；WhatsApp 已加；6 次跟进 0 回复",
-   "quote": "CCTV products PoE switch",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "claim": "自研工业/铁路交换机线（与 Saga 产品重叠）",
+   "quote": "Loop-IP6828 Industrial Rack-Mount L2/L3 Managed Gigabit Ethernet PoE/PoE+ Switch … Rugged industrial design for -40~75°C harsh environment operation",
+   "url": "https://www.looptelecom.com/en/pswitch/Ethernet-Access-and-Switch/Railway-EN50121-4-Switch-L2-L3/Loop_IP6828__Industrial_Rack_Mount__L2_L3_Managed_Gigabit_Ethernet_PoE_PoE__Switch",
    "date": "2026-10-21"
   }
  ],
- "kp": [],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "kp": [
+  {
+   "name": "Eric Piaget",
+   "role": "V.P. Sales EMEA & India（用户表）",
+   "email": "eric-piaget@looptelecom.com",
+   "phone": "+33 6 6767 1045",
+   "source": "Clients/A/Taiwan.xlsx"
+  }
+ ],
+ "grade_override": "B",
+ "override_reason": "台系品牌制造商（INH 规则：台系品牌商最高 B；其铁路/EN50121 主线 Saga 不做）；仅在其明确要低端白牌补位时按 OEM 30% 报价。",
+ "notes": "",
+ "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网核对）"
+  "level": "B 级加厚 v1（基于首轮调研整理 + 身份判断）"
  },
  "company_facts": {
-  "legal_name": "АВИКАМ ООД（AVICAM Ltd.）",
-  "founded": "2001",
-  "hq": "ул. „Братя Миладинови\" № 60, 1202 София, България（+359 2 832 7084 / 832 5757；sales@avicam-bg.com）",
-  "size": "小型（营收口径 $200k，RocketReach）",
-  "other": "RaySharp 官方代表；AVICAM 自有品牌配件；网店 + 安装"
+  "legal_name": "Loop Telecommunication International, Inc.（Loop Telecom；台湾上市 3025）",
+  "hq": "台湾新竹；EMEA & India 销售 VP Eric Piaget 驻法国",
+  "size": "上市公司",
+  "other": "自研 TDMoIP、PTN/MPLS-TP、以太网接入、工业与铁路 EN50121-4 交换机（IP6820/IP6828/IP6830）"
  },
  "business_lines": [
-  "视频监控与安防设备进口分销（网店）",
-  "系统设计与安装"
+  "电信接入与传输设备制造（自有品牌 Loop）",
+  "工业/铁路以太网交换机（自研，与 Saga 重叠）"
  ],
  "channels": {
-  "网店": "https://avicam-bg.com/",
-  "电话": "+359 2 832 7084（公开）",
-  "邮箱（公开）": "sales@avicam-bg.com"
+  "网站": "https://www.looptelecom.com/",
+  "联系人": "Eric Piaget, V.P. Sales EMEA & India（用户表）"
  },
  "signals": [
-  "已有 AVICAM 自有品牌配件 → PoE 交换机贴 AVICAM 标可行；RaySharp（中国）代理说明接受中国供应链"
+  "兴趣点为工业 FS / MC / 工业物联网 → 可能为低端补线 OEM 采购（Loop 自研线偏高端）"
  ],
  "risks": [
-  "规模小；保加利亚非主动开拓；6 次跟进 0 回复"
+  "台系品牌制造商（规则：台湾厂商/办事处原则上非客户）；同行采购风险（比价/套方案）；仅在明确 OEM 补线意向时推进"
  ],
  "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 20,
-  "why": "分销 20% 档：STC-28DGGPM（$80.7）；AVICAM 标白牌用 Realtek 线 STC-028GP（$24.2）/ STC-024GP（$18.7）"
+  "p1": "STI-110GE",
+  "tier": 30,
+  "why": "OEM 30% 档（仅限补线）：STI-110GE 工业光电转换（$24.3）与 STI-140GE 非管理（$29.1）作 Loop 低端补充；管理型不供（与其自研线竞争）"
  },
- "email_hook": "Alongside the RaySharp recorders you represent, an 8-port gigabit PoE switch under the AVICAM label is $25.1 EXW (managed with 2 SFP $80.7); would you like the label mock-up and a 5-unit trial price?",
+ "email_hook": "If Loop needs an entry-level industrial media converter and 5-port unmanaged switch to sit below the IP68xx range in EMEA, our DIN units start at $24.3 EXW with your label; is a low-end complement on the 2026 roadmap?",
  "mail_review": {
   "binding": {
-   "level": "未触达（A 邮箱 16 封 2025→2026，1 次记录打开，0 回；收件 sales@avicam-bg.com；主题多为「Industrial PoE Switch、90W PoE Managed Switch」；Elsa 箱：`to:avicam-bg.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 16 / 来 0）（第 74 批(k)））",
-   "type": "—",
-   "sieve": "1~2（1 次打开）",
-   "stop": "只打通用邮箱，无记录打开",
-   "revive": "保持季度群发到 2027-Q1；无打开即停；WhatsApp 已加 → 唤醒走 WhatsApp 一句话，不走邮件",
-   "lane": "保加利亚（欧洲全域主攻）",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 16，Opened 标签 1（Simon 群发追踪）；用户表：「CCTV products PoE switch」；研究档 risks：规模小；保加利亚非主动开拓；6 次跟进 0 回复"
+   "level": "未绑定（EMEA 销售 VP 2025-11 问 Booster 原理并要手册，12-04「No need now, just for information」；Elsa 箱：`to:looptelecom.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 26 / 来 2）（第 74 批(k)））",
+   "type": "台湾上市电信设备商（MPLS-TP/工业以太网自研）——Saga 只可能是其低端 OEM 来源；Eric Piaget（VP EMEA & India）",
+   "sieve": "1",
+   "stop": "2025-12-04「No need now, just for information」",
+   "revive": "对方主动",
+   "lane": "FR/TW",
+   "cadence": "2024-06 → 2026-09 去信 26 封；最后来信 2025-12-04",
+   "evidence": "k=d90350574a564aa4 / fbde4352065d43fb"
   },
-  "situation": "保加利亚索菲亚的视频监控与安防系统进口商/分销商兼设计安装商（2001 年成立；ул. Братя Миладинови 60；+359 2 832 7084；sales@avicam-bg.com；RaySharp 保加利亚官方代表（2019 起）；自有 AVICAM 品牌线缆等配件；RocketReach 营收口径极小）。展会记录：CCTV 产品、PoE 交换机；WhatsApp 已加；6 次跟进 0 回复。",
-  "need": "分销 20% 档：STC-28DGGPM（$80.7）；AVICAM 标白牌用 Realtek 线 STC-028GP（$24.2）/ STC-024GP（$18.7）",
-  "breakpoint": "规模小；保加利亚非主动开拓；6 次跟进 0 回复",
+  "situation": "Eric Piaget 对 Booster PoE 群发问「你是说 12V 供电也能输出 PoE？发 brochure」，Alan 发 STI-488XGGBPM 资料并追问样品，Eric 答「No need now, just for information」。",
+  "need": "信息收集；无采购。",
+  "breakpoint": "同业信息收集，不是采购。",
   "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 20,
-   "price": "STC-028GP $25.1（洪瑞 2026-09-30 进价 140 CNY +20%，Q-47；Drive 旧表 $24.2 不用；第 73 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-06-16 $300（48 Port PoE Managed Switch）、2025-07-31 $240（24 Port Fiber Switch）、2025-10-08 $280（10G Enterprise SFP Switch）、2026-06-17 $16000（32 Port 400GB DC Switch）",
-   "why": "分销 20% 档：STC-28DGGPM（$80.7）；AVICAM 标白牌用 Realtek 线 STC-028GP（$24.2）/ STC-024GP（$18.7）。已打开的主题（1/16 封有打开记录）：「Optional Marvell Chipset Solutions」(2025-12-10) → 读者兴趣主题类别不明（看原主题）",
+   "p1": "无",
+   "tier": 30,
+   "price": "历史报价（邮件原话，老汇率）：2025-12-01 STI-488XGGBPM 215usd；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-25 $300（48 Port PoE Managed Switch）、2024-12-18 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-22 $280（10G Enterprise SFP Switch）",
+   "why": "不投入。已打开的主题（9/26 封有打开记录）：「Re: Booster PoE Switch」(2025-12-01)、「Re: Booster PoE Switch」(2025-12-04)、「Re: Booster PoE Switch」(2026-01-12)、「Re: Booster PoE Switch」(2026-02-05) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开",
-   "one_question": "Alongside the RaySharp recorders you represent, an 8-port gigabit PoE switch under the AVICAM label is $25.1 EXW (managed with 2 SFP $80.7); would you like the label mock-up and a 5-unit trial price?"
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
   },
   "facts": [
    {
-    "date": "2026-09-14",
-    "dir": "去",
-    "who": "A 群发",
-    "quote": "Industrial PoE Switch、90W PoE Managed Switch",
-    "why": "16 封 / 1 次打开 / 0 回｜首封 2025-03-19 → 末封 2026-09-14（16 去 / 0 来）",
-    "k": "gmail_digest"
+    "date": "2025-11-28",
+    "dir": "来",
+    "who": "Eric Piaget（VP Marketing Sales EMEA & India）",
+    "quote": "Do you mean that you can power feed the switch at 12V and this support PoE? Pleas send me your brochure.",
+    "why": "技术好奇",
+    "k": "d90350574a564aa4"
    },
    {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "CCTV products PoE switch",
-    "why": "表内备注",
-    "k": "用户表"
+    "date": "2025-12-01",
+    "dir": "去",
+    "who": "Saga（Alan）",
+    "quote": "Hi, Eric, 1, yes, we can supply a demo unit for your study and testing. 2, please see attached datasheet(2026/Q1 version). STI-488XGGBPM 215usd/pc Industrial PoE Managed Switch 4*1G/2.5G/10G SFP+8*10/100/1000M RJ45/PoE +1*Console Port+1*USB Port 8*PoE af/at, 2",
+    "why": "历史报价点（主题「Re: Booster PoE Switch」；第 20 批从 gmail_a 回补）：STI-488XGGBPM 215usd",
+    "k": "90c5981a276812c1"
+   },
+   {
+    "date": "2025-12-04",
+    "dir": "来",
+    "who": "Eric",
+    "quote": "No need now, just for information.",
+    "why": "停点",
+    "k": "fbde4352065d43fb"
+   },
+   {
+    "date": "2026-01-12",
+    "dir": "去",
+    "who": "Saga（Alan）",
+    "quote": "Hi, Eric, How are you? I am introducing our CENTEC-based core and aggregation switches. 1, A cost-effective alternative to Cisco or Huawei models 2, Multiple models(10G~800G) available for various network scales 3, Full L3 features(VXLAN, EVPN, MPLS, Stacking etc.) suitable for core and aggregation…",
+    "why": "Saga 实质答复原文（主题「Re: Booster PoE Switch」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
+    "k": "0378ea2dc053e4ce"
    }
   ],
-  "proof_gaps": [
-   "用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
-  ],
+  "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-24"
  }

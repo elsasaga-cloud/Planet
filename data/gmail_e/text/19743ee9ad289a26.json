@@ -11,7 +11,7 @@
  "text": "Hi, VInod,\nPlease see attached file and check the full information.\nThank you.",
  "char_count": "80",
  "attachments": "[{'filename': 'Download Link_Alan.pdf', 'mime_type': 'application/pdf', 'size': 108874}]",
- "note": "SB-099 AGS Plus（印度，Vinod）：Elsa 2025-06-06 只回下载链接 PDF——他 6 月问的 24-PoE 价没答",
+ "note": "SB-169 AGS Plus（印度，Vinod）：Elsa 2025-06-06 只回下载链接 PDF——他 6 月问的 24-PoE 价没答",
  "text_source": "text/plain",
  "fetched": "2026-10-24T16:04Z",
  "method": "Arena Gmail connector get_message_text(include_quoted=false)"

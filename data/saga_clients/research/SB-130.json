@@ -1,44 +1,42 @@
 {
  "code": "SB-130",
- "name_official": "Intellisystem Technologies S.r.l.（意大利）",
+ "name_official": "BONMAG INTERNATIONAL SRL（品牌 OmniSecurity，omnisecurity.ro）",
  "researched_at": "2026-10-21",
- "website_status": "在线（intellisystem.it，快照 2026-10-21）",
- "summary": "意大利工业网络 / 监控 / 自动化方案商（camera 240 / poe 377 / switch 225 / industrial 208 / oem 14），Engineer Walter Randieri、Sales Manager Clelia Randieri（家族企业）；表内「三旺的」（在售 3onedata）；群发 6 次无回复。",
+ "website_status": "在线",
+ "summary": "罗马尼亚 Dâmbovița 县 Voinești 的小型安防/自动化安装商（CUI 37299107，J15/334/2017，2017 年成立；统计口径为批发 CAEN 4690），品牌 OmniSecurity：IP 视频监控（Full HD–5K）、门禁考勤、道闸/门自动化、对讲、电气与弱电安装。用户表：A 优质名单（其他欧洲），2 次实质回复 + WhatsApp，21 次跟进；联系人 Bogdan（bogdan@omnisecurity.ro）。",
  "type": "",
  "size": "",
- "brands_seen": [
-  "3onedata（三旺）"
- ],
+ "brands_seen": [],
  "evidence": [
   {
-   "kind": "官网快照",
-   "claim": "Intellisystem Technologies；关键词 camera 240 / poe 377 / industrial 208 / oem 14",
-   "quote": "Welcome on the Homepage of Intellisystem Technologies",
-   "url": "https://intellisystem.it/",
+   "kind": "官网",
+   "claim": "业务范围与联系方式",
+   "quote": "Omnisecurity este o companie ce furnizeaza servicii de supraveghere video si automatizari … Full HD, Full HD, 3K, 4K, 5K camere IP zi/noapte … Sisteme de acces control și pontaj, Bariere și automatizări porți, Interfon și videointerfon … +4 0723 64 94 49 contact@omnisecurity.ro",
+   "url": "https://www.omnisecurity.ro/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "注册名录",
+   "claim": "法人、CUI、注册号、成立年",
+   "quote": "BONMAG INTERNATIONAL SRL Fiscal Code 37299107 Registry No. J15/334/2017 … Date of establishment 2017 … First place in Top Profit Romania - UAT VOINESTI city, activity 4690: Non-specialised wholesale trade … Web Address omnisecurity",
+   "url": "https://www.romanian-companies.eu/bonmag-international-srl-37299107/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "三旺的",
-   "quote": "兴趣：三旺的",
+   "claim": "A 优质名单（其他欧洲）；2 次实质回复 + WhatsApp；21 次跟进",
+   "quote": "（用户表字段）",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
  "kp": [
   {
-   "name": "Walter Randieri",
-   "title": "Engineer",
-   "email": "randieri@intellisystem.it",
-   "phone": "",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
-  },
-  {
-   "name": "Clelia Randieri",
-   "title": "Sales Manager",
-   "email": "info@intellisystem.it",
-   "phone": "",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
+   "name": "Bogdan（姓未公开）",
+   "role": "联系人（用户表）",
+   "email": "bogdan@omnisecurity.ro",
+   "phone": "+40 723 64 94 49（公司公开号）",
+   "source": "用户表 + https://www.omnisecurity.ro/"
   }
  ],
  "grade_override": null,
@@ -46,54 +44,56 @@
  "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照核对 + 表内）"
+  "level": "B 级加厚 v1（官网 + 注册核对）"
  },
  "company_facts": {
-  "legal_name": "Intellisystem Technologies S.r.l.",
-  "founded": "",
-  "hq": "Italy（西西里，待核）",
-  "size": "小型家族方案商",
-  "other": "已进口中国同行 3onedata；OEM 词频 14"
+  "legal_name": "BONMAG INTERNATIONAL SRL",
+  "registry": "CUI 37299107 · J15/334/2017（EUID ROONRC.J15/334/2017）",
+  "founded": "2017",
+  "hq": "Voinești, Dâmbovița, România",
+  "other": "2024 年 Voinești 镇 CAEN 4690（非专业批发）利润榜第一（小镇口径）；官网自述团队有安防系统与技术背景，供应商培训/技术支持渠道完整"
  },
  "business_lines": [
-  "工业网络 / 监控 / 自动化方案"
+  "IP 视频监控安装（Full HD / 3K / 4K / 5K）",
+  "门禁考勤、道闸与门自动化、对讲",
+  "电气（中低压）与通信/弱电安装"
  ],
  "channels": {
-  "role": "方案商 / 经销（已售中国同行）",
-  "region": "意大利"
+  "网站": "https://www.omnisecurity.ro/",
+  "电话": "+40 723 64 94 49（官网公开）",
+  "邮箱（公开）": "contact@omnisecurity.ro"
  },
  "signals": [
-  "已售 3onedata → 直采中国习惯成熟",
-  "家族企业决策快"
+  "小型安装商、CCTV+门禁项目型——8/16 口 PoE 为常规耗材；WA 已通（用户表）→ 适合低频项目式报价"
  ],
  "risks": [
-  "6 次群发无回复"
+  "规模小（村镇注册、2017 年成立），单次量以 2–10 台计；罗马尼亚不在主动挖掘国家（INH 规则）但已是回复客户，按现有线索慢跟"
  ],
  "saga_fit": {
-  "p1": "STI-288GPM",
-  "tier": 20,
-  "why": "对位 3onedata IES 系列 → STI-288GPM（$78.9 @20%，Marvell 差异）。"
+  "p1": "STC-28DGGPM",
+  "tier": 25,
+  "why": "安装商自用：STC-28DGGPM 8 PoE+ + 2 SFP 管理机为主，16 口位 STI-21616GP；集成商 25% 档"
  },
- "email_hook": "Walter, beside the 3onedata units you carry — our DIN managed 8-PoE + 2-SFP is Marvell-based (ERPS <20 ms) at $79 EXW, same import flow you already use; one sample for a side-by-side?",
+ "email_hook": "For the 4K and 5K camera sites you install, the 8-port PoE+ managed switch gives 30 W on every port plus 2 SFP uplinks; if a project is coming up I can quote EXW with 15-day validity.",
  "mail_review": {
   "binding": {
-   "level": "未触达（A 邮箱 17 封 2025→2026，无记录打开，0 回；收件 info@intellisystem.it, randieri@intellisystem.it；主题多为「Industrial PoE Switch、16 Port PoE Managed Switch」；Elsa 箱：`to:intellisystem.it` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 17 / 来 0）（第 74 批(j)））",
+   "level": "未触达（A 邮箱 4 封 2026，无记录打开，0 回；收件 bogdan@omnisecurity.ro；主题多为「24 Port PoE Managed Switch、10G L3 Managed Switch」；Elsa 箱：`to:.ro` 穷举 22 条（2026-10-25，锚批 Bcc 头已读）未见 omnisecurity.ro → Elsa 箱从未发过本户，往来只在 S/A 箱（去 4 / 来 0）（第 74 批(f)））",
    "type": "—",
    "sieve": "1（只收到群发）",
-   "stop": "17 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "stop": "4 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
    "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "意大利（欧洲全域主攻）",
+   "lane": "罗马尼亚（欧洲全域主攻）",
    "cadence": "季度",
-   "evidence": "gmail_digest：out 17；用户表：「兴趣：三旺的」；研究档 risks：6 次群发无回复"
+   "evidence": "gmail_digest：out 4；用户表：「（用户表字段）」；研究档 risks：规模小（村镇注册、2017 年成立），单次量以 2–10 台计；罗马尼亚不在主动挖掘国家（INH 规则）但已是回复客户，按现有线索慢跟"
   },
-  "situation": "意大利工业网络 / 监控 / 自动化方案商（camera 240 / poe 377 / switch 225 / industrial 208 / oem 14），Engineer Walter Randieri、Sales Manager Clelia Randieri（家族企业）；表内「三旺的」（在售 3onedata）；群发 6 次无回复。",
-  "need": "对位 3onedata IES 系列 → STI-288GPM（$78.9 @20%，Marvell 差异）。",
-  "breakpoint": "6 次群发无回复",
+  "situation": "罗马尼亚 Dâmbovița 县 Voinești 的小型安防/自动化安装商（CUI 37299107，J15/334/2017，2017 年成立；统计口径为批发 CAEN 4690），品牌 OmniSecurity：IP 视频监控（Full HD–5K）、门禁考勤、道闸/门自动化、对讲、电气与弱电安装。用户表：A 优质名单（其他欧洲），2 次实质回复 + WhatsApp，21 次跟进；联系人 Bogdan（bogdan@omnisecurity.ro）。",
+  "need": "安装商自用：STC-28DGGPM 8 PoE+ + 2 SFP 管理机为主，16 口位 STI-21616GP；集成商 25% 档",
+  "breakpoint": "规模小（村镇注册、2017 年成立），单次量以 2–10 台计；罗马尼亚不在主动挖掘国家（INH 规则）但已是回复客户，按现有线索慢跟",
   "saga_now": {
-   "p1": "STI-288GPM",
-   "tier": 20,
-   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-08-07 $300（48 Port PoE Managed Switch）、2025-10-13 $280（10G Enterprise SFP Switch）",
-   "why": "对位 3onedata IES 系列 → STI-288GPM（$78.9 @20%，Marvell 差异）。",
+   "p1": "STC-28DGGPM",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-23 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2026-06-15 $16000（32 Port 400GB DC Switch）",
+   "why": "安装商自用：STC-28DGGPM 8 PoE+ + 2 SFP 管理机为主，16 口位 STI-21616GP；集成商 25% 档",
    "repeat": [],
    "gaps": []
   },
@@ -101,27 +101,37 @@
    "when": "群发节奏",
    "channel": "A 邮箱",
    "action": "观察打开",
-   "one_question": "Walter, beside the 3onedata units you carry — our DIN managed 8-PoE + 2-SFP is Marvell-based (ERPS <20 ms) at $79 EXW, same import flow you already use; one sample for a side-by-side?"
+   "one_question": "For the 4K and 5K camera sites you install, the 8-port PoE+ managed switch gives 30 W on every port plus 2 SFP uplinks; if a project is coming up I can quote EXW with 15-day validity."
   },
   "facts": [
    {
-    "date": "2026-10-07",
+    "date": "2023-02-07",
+    "dir": "来",
+    "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+    "quote": "用户表跟进：推「发了2光10电图 价格 没发规格书」→ 对方「要便宜的/洪瑞的就行 4/8 poe+2 lan」",
+    "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+    "k": "Clients/A/DONE/其他优质欧洲客户 2.26.xlsx no.58 2023.2.7"
+   },
+   {
+    "date": "2026-09-03",
     "dir": "去",
     "who": "A 群发",
-    "quote": "Industrial PoE Switch、16 Port PoE Managed Switch",
-    "why": "17 封 / 0 次打开 / 0 回｜首封 2025-01-29 → 末封 2026-10-07（17 去 / 0 来）",
+    "quote": "24 Port PoE Managed Switch、10G L3 Managed Switch",
+    "why": "4 封 / 0 次打开 / 0 回｜首封 2026-05-19 → 末封 2026-09-03（4 去 / 0 来）",
     "k": "gmail_digest"
    },
    {
     "date": "2026-10-21",
     "dir": "用户表",
     "who": "Simon",
-    "quote": "兴趣：三旺的",
+    "quote": "（用户表字段）",
     "why": "表内备注",
     "k": "用户表"
    }
   ],
-  "proof_gaps": [],
+  "proof_gaps": [
+   "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+  ],
   "draft_en": null,
   "as_of": "2026-10-24"
  }

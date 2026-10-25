@@ -1,140 +1,119 @@
 {
  "code": "SB-562",
- "name_official": "",
+ "name_official": "ALTVISION (22opt.ru，巴尔瑙尔)",
  "researched_at": "2026-10-21",
- "website_status": "在线（tacel.ca，快照 2026-10-21）",
- "summary": "加拿大 Tacel（交通管理、道路安全与智能交通系统（ITS）方案商，安大略/魁北克/阿尔伯塔/BC 四办公室；表内「Etherwan 的工业 FS」「可以多跟进一下」；KP Gil Marques（President）、George Soares（General Manager）、Gabor Szabo）；群发 8 次无回复。",
- "type": "ITS/交通方案集成商（加拿大，EtherWAN 在用）",
+ "website_status": "在线（22opt.ru，快照 2026-10-21，俄语）",
+ "summary": "俄罗斯巴尔瑙尔（阿尔泰边疆区，+7 3852）安防系统批发网店（IP 摄像机、NVR、PoE 交换机品类页、Wi-Fi 网桥；8-800 热线），Gorodilov Pavel；需求工业级 PoE 交换机，问过 GPON（Saga 无）；WA 21 次无实质回复。",
+ "type": "",
  "size": "",
- "brands_seen": [
-  "EtherWAN"
- ],
+ "brands_seen": [],
  "evidence": [
   {
    "kind": "官网快照",
-   "claim": "官网标题：Tacel - Traffic Management & Road Safety Solutions",
-   "quote": "Tacel is a Canadian leader in providing traffic management, road safety, and intelligent transportation systems.",
-   "url": "https://www.tacel.ca/en",
+   "claim": "安防系统批发 + 网店；PoE 交换机品类；关键词 poe 107 / camera 46 / switch 24；+7 (3852) 99-79-59、8-800-700-10-76；zakaz@22opt.ru",
+   "quote": "ALTVISION - поставщик систем безопасности в Российской Федерации… /catalog/kommutatory_poe_/… +7 (3852) 99‒79‒59 8-800-700-10-76",
+   "url": "https://22opt.ru/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "Etherwan的工业FS",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "Tacel 定位",
-   "quote": "Tacel - Traffic Management & Road Safety Solutions ; Tacel is a Canadian leader in providing traffic management, road safety, and intelligent transportation systems",
-   "url": "https://www.tacel.ca/en",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "EtherWAN 的工业 FS",
-   "quote": "Etherwan的工业FS；可以多跟进一下",
+   "claim": "工业级 POE switch，问了 Gpon",
+   "quote": "兴趣：工业级POE switch 问了Gpon",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
  "kp": [
   {
-   "name": "Gabor Szabo",
-   "title": "（职务待核）",
-   "email": "gabor.szabo@tacel.ca",
-   "phone": "",
-   "source": "用户表"
-  },
-  {
-   "name": "Gil Marques",
-   "title": "President",
-   "email": "gil.marques@tacel.ca",
-   "phone": "",
-   "source": "用户表"
-  },
-  {
-   "name": "George Soares",
-   "title": "General Manager",
-   "email": "",
-   "phone": "",
-   "source": "用户表"
+   "name": "Gorodilov Pavel (Городилов Павел)",
+   "title": "（表内联系人）",
+   "email": "22opt@mail.ru",
+   "phone": "+7 983 177 0188",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
   }
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（官网快照核对）"
  },
  "company_facts": {
-  "hq": "加拿大",
-  "other": "官网 tacel.ca，语言 en，快照状态 ok；角色判定来源：官网文案"
+  "legal_name": "（待核，ООО «Алтвижен»）",
+  "founded": "",
+  "hq": "Барнаул, Алтайский край, Россия",
+  "size": "中小型安防批发 / 网店",
+  "other": "8-800 全俄热线"
  },
  "business_lines": [
-  "交通管理 / 道路安全 / ITS 方案"
+  "视频监控批发 / 网店",
+  "PoE 交换机 / 无线网桥 / 门禁"
  ],
  "channels": {
-  "role": "ITS/交通方案集成商（加拿大，EtherWAN 在用）",
-  "region": "加拿大",
-  "contact": "gabor.szabo@tacel.ca、gil.marques@tacel.ca"
+  "role": "区域批发商 + 网店",
+  "region": "俄罗斯（西伯利亚）"
  },
  "signals": [
-  "官网：Tacel is a Canadian leader in providing traffic management, road safety, and intelligent transportation systems；首页 Ontario Office ; Quebec Office ; Alberta Office ; British Columbia Office；站内品牌 EtherWAN",
-  "表内：Etherwan 的工业 FS；可以多跟进一下；KP Gil Marques / President；George Soares / General Manager；Gabor Szabo"
+  "PoE 交换机为其品类 → 工业 PoE 可上架",
+  "全俄热线 → 批发规模"
  ],
  "risks": [
-  "交通路侧场景常要求 NEMA TS2 / 公共项目指定品牌（EtherWAN 既定）；公共部门采购口径（守界备注：仅通用交换机）",
-  "8 次无回复 → 改向 Gabor Szabo 具名首触（职务待核）"
+  "俄罗斯收款 / 制裁 / 物流（经哈萨克斯坦或中欧班列）",
+  "GPON 需求不供"
  ],
  "saga_fit": {
-  "p1": "STI-288GPM",
-  "tier": 25,
-  "why": "路侧机柜工业 PoE（现 EtherWAN）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）/ 非 PoE STI-280GE（$48.6）；NEMA TS2 认证 Saga 无（注明）"
+  "p1": "STI-288GP",
+  "tier": 20,
+  "why": "工业 PoE 上架款 → STI-288GP（$57.4 @20%）；商用 8/16/24 PoE 配套 STC-28DGGPM / STC-424DGGPM-280W。"
  },
- "email_hook": "Gabor, for the industrial switches in your roadside and intersection cabinets, we supply Marvell-based DIN-rail 8-PoE + 2 SFP and 8-GE + 2 SFP managed units (−40~75 °C, redundant input, FCC/CE/RoHS) from single units, EXW USD — which configuration do your ITS projects standardise on alongside EtherWAN?",
+ "email_hook": "Павел, по промышленным PoE: 8×PoE + 2×SFP, DIN-рейка, −40~75 ℃ — $57 EXW за 1 шт. (оптом дешевле), GPON не делаем; прислать прайс и фото для карточек на 22opt.ru?",
  "mail_review": {
   "binding": {
-   "level": "未触达（1 封自动回复；Elsa 箱：`to:.ca` 穷举 13 条（2026-10-25，锚批 Bcc 头已读）未见 tacel.ca → Elsa 箱从未发过本户，往来只在 S/A 箱（去 19 / 来 1）（第 74 批(f)））",
-   "type": "加拿大 ITS/交通集成（Tacel；EtherWAN 在用）",
-   "sieve": "0",
-   "stop": "自动回复/机器人，无人工回复",
-   "revive": "不动；备用具名邮箱：yassine.benamghar@tacel.ca（自动回复指定代理人 Yassine Benamghar，2025-01-16，k=3f49bc512bb93c92；从未发过）",
-   "lane": "CA",
-   "cadence": "不动",
-   "evidence": "k=3f49bc512bb93c92"
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：工业级POE switch 问了Gpon」；Elsa 箱：`to:22opt.ru` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(l)））",
+   "type": "—",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "首封（具名 KP 优先，用研究档 email_hook）；WhatsApp 已加 → 唤醒走 WhatsApp 一句话，不走邮件",
+   "lane": "RU 次级（Simon 2026-08 点名）",
+   "cadence": "首封后看打开",
+   "evidence": "gmail_digest：out 0；用户表：「兴趣：工业级POE switch 问了Gpon」；研究档 risks：俄罗斯收款 / 制裁 / 物流（经哈萨克斯坦或中欧班列）"
   },
-  "situation": "来信全部为机器回复；无人读信或无人回信。",
-  "need": "—",
-  "breakpoint": "—",
+  "situation": "俄罗斯巴尔瑙尔（阿尔泰边疆区，+7 3852）安防系统批发网店（IP 摄像机、NVR、PoE 交换机品类页、Wi-Fi 网桥；8-800 热线），Gorodilov Pavel；需求工业级 PoE 交换机，问过 GPON（Saga 无）；WA 21 次无实质回复。",
+  "need": "工业 PoE 上架款 → STI-288GP（$57.4 @20%）；商用 8/16/24 PoE 配套 STC-28DGGPM / STC-424DGGPM-280W。",
+  "breakpoint": "俄罗斯收款 / 制裁 / 物流（经哈萨克斯坦或中欧班列）",
   "saga_now": {
-   "p1": "—",
-   "tier": 25,
-   "price": "—；群发里他已看到的价（续）：2026-08-18 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-06-25 $300（48 Port PoE Managed Switch）、2025-09-23 $280（10G Enterprise SFP Switch）",
-   "why": "—",
+   "p1": "STI-288GP",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "工业 PoE 上架款 → STI-288GP（$57.4 @20%）；商用 8/16/24 PoE 配套 STC-28DGGPM / STC-424DGGPM-280W。",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "不动",
-   "channel": "—；备用具名邮箱 → yassine.benamghar@tacel.ca",
-   "action": "—",
-   "one_question": ""
+   "when": "待 Simon 排期（首封）",
+   "channel": "A 邮箱 → 22opt@mail.ru（Gorodilov Pavel (Городилов Павел)）",
+   "action": "首封：按 email_hook 一问（第 74 批(r) 2026-10-25：英文信稿已写 `draft_en`（= 客户语言钩子句的英文版，客户语言一句话留在备注里））（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
+   "one_question": "Павел, по промышленным PoE: 8×PoE + 2×SFP, DIN-рейка, −40~75 ℃ — $57 EXW за 1 шт. (оптом дешевле), GPON не делаем; прислать прайс и фото для карточек на 22opt.ru?"
   },
   "facts": [
    {
-    "date": "2025-01-16",
-    "dir": "来",
-    "who": "自动回复",
-    "quote": "自动回复里给出代理人/同事邮箱 yassine.benamghar@tacel.ca（Yassine Benamghar）",
-    "why": "群发一直发给休假/离职的人；这个地址从未发过，是换具名邮箱的现成入口",
-    "k": "3f49bc512bb93c92"
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：工业级POE switch 问了Gpon",
+    "why": "表内备注",
+    "k": "用户表"
    }
   ],
-  "proof_gaps": [],
-  "draft_en": null,
+  "proof_gaps": [
+   "无邮件往来",
+   "用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+  ],
+  "draft_en": {
+   "subject": "Industrial PoE switch for the 22opt.ru listings - $57 per unit, photos available",
+   "body": "Hi Pavel,\n\nFollowing your interest in industrial PoE switches (and the GPON question - GPON we do not make): the unit that fits a wholesale listing is a DIN-rail 8 x Gigabit PoE+ + 2 x SFP industrial switch, -40 to 75 C, unmanaged, model STI-288GP - $57.4 USD EXW per unit (MOQ 1, 15-day validity; lower in carton quantities). Product photos and a short spec sheet for the 22opt.ru product cards are ready.\n\nOne question: shall I send the price list and the photos for the listings?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+  },
   "as_of": "2026-10-24"
  }
 }

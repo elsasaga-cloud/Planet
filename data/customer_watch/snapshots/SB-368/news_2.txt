@@ -1,0 +1,367 @@
+# SB-368 welotec.com · news_2 · https://welotec.com/en-us/blogs/knowledge · fetched 2026-10-25T07:41:18Z · HTTP 200
+Welotec Knowledge Center: Energy & Machinery Insights
+customer.current_location.name:
+customer.current_company.name:
+$t(Zum Inhalt springen)
+Your inquiry list
+Item number
+Configuration code
+Amount
+Total
+Contact
+a
+company
+Contact
+a
+company
+Welotec
+Products
+Industries
+Knowledge
+Company
+Career
+Search
+Account
+Wishlist
+United States
+Austria (EUR €)
+Belgium (EUR €)
+Bulgaria (EUR €)
+Croatia (EUR €)
+Cyprus (EUR €)
+Czechia (EUR €)
+Denmark (EUR €)
+Estonia (EUR €)
+Finland (EUR €)
+France (EUR €)
+Germany (EUR €)
+Greece (EUR €)
+Hungary (EUR €)
+Ireland (EUR €)
+Italy (EUR €)
+Latvia (EUR €)
+Lithuania (EUR €)
+Luxembourg (EUR €)
+Malta (EUR €)
+Netherlands (EUR €)
+Poland (EUR €)
+Portugal (EUR €)
+Romania (EUR €)
+Slovakia (EUR €)
+Slovenia (EUR €)
+Spain (EUR €)
+Sweden (EUR €)
+United states (USD $)
+English
+Products
+Overview of Products
+IoT Edge Gateways
+Industrial Computer
+Digital Substation Solutions
+Industrial Router
+Software
+Industrial Ethernet Switches
+Radio Modems
+Industrial Antennas
+Starter Packages
+End-to-End Partner Solutions
+Industries
+Overview of Industries
+Digital Grid
+Machinery & Manufacturing
+Trackside
+Knowledge
+Overview of Knowledge
+Knowledge
+Events
+Whitepaper
+Case Studies
+Company
+Overview of Company
+Service
+About us
+Our Responsibility
+News
+Onsite Events & Tradeshows
+Partners
+Career
+Overview of Career
+Working at Welotec
+Students
+Jobs
+Welotec
+US | EN
+Language
+Location
+Austria (AT)
+Belgium (BE)
+Bulgaria (BG)
+Croatia (HR)
+Cyprus (CY)
+Czechia (CZ)
+Denmark (DK)
+Estonia (EE)
+Finland (FI)
+France (FR)
+Germany (DE)
+Greece (GR)
+Hungary (HU)
+Ireland (IE)
+Italy (IT)
+Latvia (LV)
+Lithuania (LT)
+Luxembourg (LU)
+Malta (MT)
+Netherlands (NL)
+Poland (PL)
+Portugal (PT)
+Romania (RO)
+Slovakia (SK)
+Slovenia (SI)
+Spain (ES)
+Sweden (SE)
+Products
+IoT Edge Gateways
+Industrial Computer
+Digital Substation Solutions
+Industrial Router
+Software
+Industrial Ethernet Switches
+Radio Modems
+Industrial Antennas
+Starter Packages
+End-to-End Partner Solutions
+Industries
+Digital Grid
+Machinery & Manufacturing
+Trackside
+Knowledge
+Events
+Whitepaper
+Case Studies
+Company
+Service
+About us
+Our Responsibility
+News
+Onsite Events & Tradeshows
+Partners
+Career
+Working at Welotec
+Students
+Jobs
+Open Menu
+Welotec
+Close
+Reset
+0 Results
+View all
+Search
+Account
+Wishlist
+Items in cart view bag
+)
+Close panel
+Total
+Price excl. VAT and shipping
+Close
+Request offer
+Homepage
+Blogs
+Knowledge
+450MHz
+4g
+5g
+ai
+antenna
+azure
+cigre
+cloud
+connectivity
+CyberResilienceAct
+cybersecurity
+edge
+edgecomputing
+eg500
+eg600
+EN50155
+energy
+firewall
+flecs
+fortigate
+fortinet
+gea
+gridtogreat
+IEC61850
+IIot
+industrialcomputer
+industry4.0
+iot
+locamation
+LTE
+opensource
+OperatingSystem
+partner
+poe
+productivity
+railway
+realtime
+Redhat
+router
+rsapc
+rsapcmk2
+RSAVP
+sealman
+SEAPATH
+secondarysubstation
+smartems
+softwaredefined
+substation
+substationautomation
+Virtualization
+vpac
+vpac-alliance
+vpn
+webinar
+IEC61850
+substation
+substationautomation
+25 Sep, 2026
+What Is a Merging Unit? IEC 61850 Sampled Values, SAMUs, and the Process Bus
+As utilities modernize substations and adopt digital protection architectures, merging units have become a foundation...
+0 min
+Continue reading
+IEC61850
+softwaredefined
+substation
+substationautomation
+vpac
+12 Aug, 2026
+Software-Defined Substation: Why vPAC Is Only the First Layer
+A Software-Defined Substation (SDS) goes beyond virtualizing protection, automation, and control functions: it change...
+0 min
+Continue reading
+IEC61850
+rsapc
+rsapcmk2
+secondarysubstation
+substation
+substationautomation
+12 Aug, 2026
+IEC 61850 in Substation Automation
+Editor's note: Updated August 2026
+IEC 61850 is the international standard that defines how devices in a substation e...
+0 min
+Continue reading
+rsapcmk2
+RSAVP
+substation
+vpac
+vpac-alliance
+11 Aug, 2026
+RSAPC Mk2 or RSAVP? Choosing the Right vPAC Platform for Your Substation
+Choosing between the RSAPC Mk2 and the RSAVP is not a matter of selecting the "better" platform, but the right platf...
+0 min
+Continue reading
+cigre
+IEC61850
+substation
+vpac
+vpac-alliance
+05 Aug, 2026
+What is the difference between vPAC, the vPAC Alliance, LF Energy, and SEAPATH?
+The terms vPAC, vPAC Alliance, LF Energy, and SEAPATH are often used together, but they describe very different thin...
+0 min
+Continue reading
+cigre
+IEC61850
+substation
+vpac
+vpac-alliance
+05 Aug, 2026
+Who is working on vPAC standardization?
+Work on vPAC (Virtual Protection, Automation and Control) is divided among several organizations with clearly define...
+0 min
+Continue reading
+1
+2
+3
+…
+9
+Weiter
+Technical Knowledge for Digital Substations and Industrial Edge Computing
+The Knowledge Center collects the technical background behind our work: explainers on digital substation architecture and IEC 61850, practical guidance on industrial edge computing, and what regulation like the Cyber Resilience Act and EN 50155 actually means for the hardware you deploy. Most of it is written by the engineers who design and support these systems.
+On the grid side you'll find material on vPAC and virtualized protection, process bus and station bus design, PRP and HSR redundancy, time synchronization to IEEE 1588, and OT security in substation networks. On the industrial side, edge computing and IIoT architecture, operating system and lifecycle questions, and the requirements that rugged computing hardware has to meet in the field.
+We publish when we have something worth saying, not on a schedule. If a topic you're working on isn't covered here, ask us directly .
+Experts
+Jan Hille
+Head of Technical Competence Center / Solutions Architect @ Welotec GmbH
+Anton Krupskii
+Vice President Digital Substation @ Welotec GmbH
+Max Lülff
+Vice President Productivity @ Welotec GmbH
+Jos Zenner
+Chief Technology Officer @ Welotec GmbH
+Daniel Maurice
+Director Global Accounts @ Welotec
+Footer
+Your partner for mission-critical computing
+Follow us!
+Linkedin
+Xing
+Facebook
+Youtube
+Instagram
+Company
+Service
+Career
+Firmware Updates
+Brand Guidelines
+Contact
+Solutions
+Digital Substation Solutions
+Secondary Substation Solutions
+Primary Substations Solutions
+Industrial Edge Computing
+Products
+IoT Edge Gateways
+Industrial Computer
+Substation Devices
+Industrial Router
+Download Service
+Legal
+Imprint
+Terms of Service
+Cookie Settings
+Privacy Policy
+Coordinated Vulnerability Disclosure Policy
+ElektroG Take-Back Concept
+Packaging Take-Back Concept
+Whistleblower Tool
+Company
+Service
+Career
+Firmware Updates
+Brand Guidelines
+Contact
+Solutions
+Digital Substation Solutions
+Secondary Substation Solutions
+Primary Substations Solutions
+Industrial Edge Computing
+Products
+IoT Edge Gateways
+Industrial Computer
+Substation Devices
+Industrial Router
+Download Service
+Legal
+Imprint
+Terms of Service
+Cookie Settings
+Privacy Policy
+Coordinated Vulnerability Disclosure Policy
+ElektroG Take-Back Concept
+Packaging Take-Back Concept
+Whistleblower Tool
+© Copyright Welotec GmbH

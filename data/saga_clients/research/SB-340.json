@@ -1,133 +1,107 @@
 {
- "code": "SB-340",
- "name_official": "Proves Bilgi Teknolojileri（İzmir Bayraklı, TR；proves.com.tr；系统集成商）",
- "researched_at": "2026-10-21",
- "website_status": "在线",
- "summary": "伊兹密尔 Bayraklı 的 IT/安防系统集成商 Proves Bilgi Teknolojileri（2020-02 由 Serdar Karasu 创立；IT 安全、基础设施、网络安全、服务器/备份、系统集成；Hanwha Vision 案例：为代尼兹利 Pamukkale 市政部署 150 台 Q 系列摄像机 + 3 台 NVR）。ISAF 记录：Serdar Karasu（bilgi@proves.com.tr）——要工业级交换机报价单；无后续跟进。创始人直接要报价 → 发工业机价目。市政项目为公共部门 → 按个案守界（民用 CCTV 可做）。",
- "type": "",
- "size": "",
- "brands_seen": [
-  "Hanwha Vision（集成）"
- ],
- "evidence": [
-  {
-   "kind": "名录",
-   "claim": "KP 职务与公司定位",
-   "quote": "Serdar KARASU is the Founder at Proves Bilgi Teknolojileri, a leading technology company based in Bayrakli, Izmir, Turkey … information technology solutions including security, infrastructure, and cybersecurity … physical and virtual server installations, network security, backup solutions, and system integration",
-   "url": "https://www.zoominfo.com/p/Serdar-Karasu/8496040136",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "LinkedIn",
-   "claim": "Hanwha 市政项目",
-   "quote": "Denizli Pamukkale Municipality in Turkey required a reliable way to monitor its headquarters and surrounding areas around the clock. In collaboration with system integrator Proves Bilgi Teknolojileri, the municipality deployed 150 Hanwha Vision Q series cameras along with three NVRs.",
-   "url": "https://www.linkedin.com/in/serdar-karasu-ba433b1a4/",
-   "date": "2024-05-14"
-  },
-  {
-   "kind": "LinkedIn",
-   "claim": "成立时间",
-   "quote": "Founder Proves Bilgi Teknolojileri Feb 2020 - Present",
-   "url": "https://co.linkedin.com/in/serdar-karasu-ba433b1a4?_l=en",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "ISAF：要工业级交换机报价单",
-   "quote": "要工业级交换机报价单 / Serdar KARASU / bilgi@proves.com.tr",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Serdar Karasu",
-   "role": "Founder（LinkedIn/ZoomInfo 公开）",
-   "email": "bilgi@proves.com.tr（用户表）",
-   "phone": "—",
-   "source": "https://www.zoominfo.com/p/Serdar-Karasu/8496040136"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（名录 + LinkedIn 核对）"
- },
- "company_facts": {
-  "legal_name": "Proves Bilgi Teknolojileri",
-  "founded": "2020-02",
-  "hq": "Bayraklı / İzmir（ZoomInfo 地址 286/1 Sok. No:15）",
-  "size": "小型集成商（ZoomInfo「334 人」疑为错误数据，待核）",
-  "other": "Hanwha Vision 合作集成商；YouTube 频道 @provesbilgiteknolojileri"
- },
- "business_lines": [
-  "IT 基础设施与网络安全集成",
-  "视频监控项目（Hanwha Vision）"
- ],
- "channels": {
-  "网站": "https://www.proves.com.tr/",
-  "邮箱": "bilgi@proves.com.tr（用户表）",
-  "LinkedIn": "https://www.linkedin.com/in/serdar-karasu-ba433b1a4/"
- },
- "signals": [
-  "创始人亲自要工业交换机报价单 → 直接给价目表；150 台摄像机级别项目说明有 24 口 PoE 与工业环网需求"
- ],
- "risks": [
-  "市政项目公共部门（按个案守界）；无后续跟进"
- ],
- "saga_fit": {
-  "p1": "STI-288GP",
-  "tier": 25,
-  "why": "集成 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，$59.8）为价目首项；L2 管理 STI-288GPM（$82.2）；L2+ STI-288DGGPM（$137.5）；24 口 PoE 汇聚 STC-424DGGPM-280W（$140.1）"
- },
- "email_hook": "Serdar Bey, ISAF'ta istediğiniz endüstriyel switch fiyat listesi: DIN ray 8 PoE + 2 SFP yönetilemez 59,8 USD, L2 yönetilebilir 82,2 USD, L2+ 145,7 USD (EXW, 15 gün geçerli) — Hanwha kamera projelerinizde halka (ring) topolojisi kullanıyor musunuz, ERPS'li modeli mi önereyim?",
- "mail_review": {
-  "binding": {
-   "level": "未发信（S/A 邮箱均无往来；来源：用户表「要工业级交换机报价单 / Serdar KARASU / bilgi@proves.com.tr」；Elsa 箱：`to:proves.com.tr` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(i)））",
-   "type": "—",
-   "sieve": "—（未入筛）",
-   "stop": "从未触达",
-   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
-   "lane": "TR 主攻（四主）",
-   "cadence": "首封后看打开",
-   "evidence": "gmail_digest：out 0；用户表：「要工业级交换机报价单 / Serdar KARASU / bilgi@proves.com.tr」；研究档 risks：市政项目公共部门（按个案守界）；无后续跟进"
-  },
-  "situation": "伊兹密尔 Bayraklı 的 IT/安防系统集成商 Proves Bilgi Teknolojileri（2020-02 由 Serdar Karasu 创立；IT 安全、基础设施、网络安全、服务器/备份、系统集成；Hanwha Vision 案例：为代尼兹利 Pamukkale 市政部署 150 台 Q 系列摄像机 + 3 台 NVR）。ISAF 记录：Serdar Karasu（bilgi@proves.com.tr）——要工业级交换机报价单；无后续跟进。创始人直接要报价 → 发工业机价目。市政项目为公共部门 → 按个案守界（民用 CCTV 可做）。",
-  "need": "集成 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，$59.8）为价目首项；L2 管理 STI-288GPM（$82.2）；L2+ STI-288DGGPM（$137.5）；24 口 PoE 汇聚 STC-424DGGPM-280W（$140.1）",
-  "breakpoint": "市政项目公共部门（按个案守界）；无后续跟进",
-  "saga_now": {
-   "p1": "STI-288GP",
-   "tier": 25,
-   "price": "按主表（研究档 saga_fit）（㉕ 封顶：STI-288DGGPM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25）",
-   "why": "集成 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，$59.8）为价目首项；L2 管理 STI-288GPM（$82.2）；L2+ STI-288DGGPM（$137.5）；24 口 PoE 汇聚 STC-424DGGPM-280W（$140.1）",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "待 Simon 排期（首封）",
-   "channel": "A 邮箱 → bilgi@proves.com.tr（Serdar Karasu）",
-   "action": "首封：按 email_hook 一问（第 74 批(r) 2026-10-25：英文信稿已写 `draft_en`，内容 = 土耳其语钩子句的英文版；土耳其语一句话仍在研究档备注里，对方若不读英文就整段单发）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
-   "one_question": "Serdar Bey, ISAF'ta istediğiniz endüstriyel switch fiyat listesi: DIN ray 8 PoE + 2 SFP yönetilemez 59,8 USD, L2 yönetilebilir 82,2 USD, L2+ 137,5 USD (EXW, 15 gün geçerli) — Hanwha kamera projelerinizde halka (ring) topolojisi kullanıyor musunuz, ERPS'li modeli mi önereyim?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "要工业级交换机报价单 / Serdar KARASU / bilgi@proves.com.tr",
-    "why": "表内备注",
-    "k": "用户表"
-   }
+  "code": "SB-340",
+  "name_official": "ROCKBIOS Limited（加纳；仅电话）",
+  "researched_at": "2026-10-21",
+  "website_status": "无域名（免费邮箱/仅电话）",
+  "summary": "加纳转售商 ROCKBIOS Limited（Abraham Sam，仅 WA 电话）。此前想要光端机（视频光端机，Saga 不做），转问 PoE 交换机；2023-12 要产品清单（已发商业与电源价格册），2024-02 对 24 光 combo 出货信息回「price」；19 次推送 1 次实质回复。→ B 20%（转售）。",
+  "type": "",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "用户表",
+      "claim": "表内需求与回复",
+      "quote": "之前想要光端机 不能做 POE switch；2023.12.15 → product list(给他发了商业和电源价格册)；2024.2.27 发了24光combo出货信息 → price",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [
-   "无邮件往来"
+  "kp": [
+    {
+      "name": "Abraham Sam",
+      "role": "（表内联系人）",
+      "email": "",
+      "phone": "+233 26 465 3169（WA 已加）",
+      "source": "用户 Clients 表"
+    }
   ],
-  "draft_en": {
-   "subject": "Industrial switch price list from ISAF - for the Hanwha camera projects",
-   "body": "Hi Serdar,\n\nWe met at ISAF 2025 in Istanbul last October - this picks up what we discussed at the booth.\n\nThe industrial switch prices you asked for, all DIN-rail 8 x Gigabit PoE+ + 2 x SFP, -40 to 75 C, CE/RoHS, MOQ 1, 15-day validity:\n\n- Unmanaged, model STI-288GP - $59.8 USD EXW\n- L2 managed, model STI-288GPM - $82.2 USD EXW\n- L2+ managed with ring redundancy, model STI-288DGGPM - $137.5 USD EXW\n\nFor the head end of a 150-camera deployment like Pamukkale, the 24 x PoE+ (280 W) + 4 x SFP L2+ rack unit STC-424DGGPM-280W is $140.1.\n\nOne question: do your Hanwha projects use a ring topology in the field - in which case I would recommend the ring-capable model?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "无域名 · 仅表内信息"
   },
-  "as_of": "2026-10-24"
- }
+  "company_facts": {
+    "legal_name": "待核",
+    "founded": "待核",
+    "hq": "待核",
+    "size": "待核",
+    "other": "+233 26 465 3169；无邮箱"
+  },
+  "business_lines": [
+    "待核（见表内需求）"
+  ],
+  "products_seen": [],
+  "channels": {
+    "contact": "Abraham Sam，+233 26 465 3169（WA 已加）"
+  },
+  "signals": [
+    "2024-02 对 24 光 combo 回 price"
+  ],
+  "risks": [
+    "无邮箱与公司资料",
+    "加纳小额订单物流/付款"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 20,
+    "why": "PoE 交换机泛需求 → 8 PoE + 2 SFP L2+ 起手；24 光 combo 可报 STC-424XGGM 类（光口版待核）"
+  },
+  "email_hook": "You asked the price of the 24-port fiber combo switch after we sent the catalog — I can quote it with the 8-port PoE model on one sheet; how many units would a first order be?",
+  "mail_review": {
+    "binding": {
+      "level": "未发信（S/A 邮箱均无往来；来源：用户表「之前想要光端机 不能做 POE switch；2023.12.15 → product list(给他发了商业和电源价格」）；Elsa 箱无可查地址（仓内无此户任何邮箱/域名——用户表/WhatsApp/展会名片户，`from:e.sagatelecom to:` 无从下手；Elsa 群发是否碰过他无法判定，不写「未触达」）（第 74 批(o)）",
+      "type": "—",
+      "sieve": "—（未入筛）",
+      "stop": "从未触达",
+      "revive": "不动（非主攻区；J5：有证据再动）",
+      "lane": "加纳 非主攻",
+      "cadence": "不动",
+      "evidence": "gmail_digest：out 0；用户表：「之前想要光端机 不能做 POE switch；2023.12.15 → product list(给他发了商业和电源价格册)；2024.2.27 发了24光co」；研究档 risks：无邮箱与公司资料"
+    },
+    "situation": "加纳转售商 ROCKBIOS Limited（Abraham Sam，仅 WA 电话）。此前想要光端机（视频光端机，Saga 不做），转问 PoE 交换机；2023-12 要产品清单（已发商业与电源价格册），2024-02 对 24 光 combo 出货信息回「price」；19 次推送 1 次实质回复。→ B 20%（转售）。",
+    "need": "PoE 交换机泛需求 → 8 PoE + 2 SFP L2+ 起手；24 光 combo 可报 STC-424XGGM 类（光口版待核）",
+    "breakpoint": "无邮箱与公司资料",
+    "saga_now": {
+      "p1": "STC-28DGGPM",
+      "tier": 20,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "PoE 交换机泛需求 → 8 PoE + 2 SFP L2+ 起手；24 光 combo 可报 STC-424XGGM 类（光口版待核）",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "不动",
+      "channel": "—",
+      "action": "—",
+      "one_question": ""
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "之前想要光端机 不能做 POE switch；2023.12.15 → product list(给他发了商业和电源价格册)；2024.2.27 发了24光combo出货信息 → price",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [
+      "无邮件往来",
+      "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

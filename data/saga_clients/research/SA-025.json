@@ -1,137 +1,223 @@
 {
- "code": "SA-025",
- "name_official": "Sicurmax S.n.c. di Marzari Massimo & C.（Bovolone, Verona）",
- "website_status": "在线",
- "summary": "意大利维罗纳省的民用/工业安防集成商（1992 年起，ISO 9001、SOA OS5/OS19/OS30 资质，具备意大利军方与 NATO 场所施工资格），业务：防盗、视频监控（含城市/交通）、消防、门禁。用户表：WhatsApp 已加，兴趣工业 PoE 配件，17 次推送无回复。",
- "type": "安防集成商（含军方/NATO 场所资质）",
- "size": "未见人数（S.n.c. 合伙制小企业）",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "官网",
-   "claim": "定位、历史与资质",
-   "quote": "SICURMAX è specializzata in sistemi di sicurezza civili ed industriali. Dal 1992 opera con successo in tutto il Nord Italia … Certificazione del sistema di gestione Qualità ISO 9001-2015 · Attestazione SOA per le categorie OS5- OS19- OS30 … abilitazioni per realizzazioni presso Enti e Organizzazioni Militari Italiani e NATO",
-   "url": "https://sicurmax.com/azienda",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "公司法人、地址、电话、邮箱、资质",
-   "quote": "Sicurmax S.n.c., con sede a Bovolone (VR), è specializzata in sistemi di sicurezza civili e industriali. Con oltre 30 anni di esperienza, offre soluzioni personalizzate, certificazioni ISO 9001 e abilitazioni per realizzazioni presso Enti e Organizzazioni Militari Italiani e NATO … legalName SICURMAX S.R.L. vatID 02360600239 … Via del ciclamino, 7 … info@sicurmax.com … +39 045 690 0922",
-   "url": "https://sicurmax.com/azienda",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "公共机构业务与 SOA",
-   "quote": "Certificata ISO 9001 e SOA, collabora con enti locali e istituzioni militari per la messa in sicurezza di strutture pubbliche.",
-   "url": "https://sicurmax.com/sistemi-di-sicurezza-per-enti-pubblici-a-bovolone-verona-sicurmax-33/soluzioni",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Massimo Marzari",
-   "role": "合伙人（法人名称所示）",
-   "email": "info@sicurmax.com",
-   "phone": "+39 045 690 0922",
-   "source": "https://sicurmax.com/azienda"
-  },
-  {
-   "name": "Massimo Marzari",
-   "role": "创始合伙人（原 S.n.c. 名称「di Marzari Massimo & C.」）",
-   "email": "info@sicurmax.com（公司公开）",
-   "phone": "+39 045 690 0922",
-   "source": "https://sicurmax.com/azienda"
-  }
- ],
- "grade_override": "B",
- "override_reason": "17 次推送无任何回复（仅 WhatsApp 加上），小型集成商、项目型采购、且部分业务涉军方/NATO 场所（INH 守界）；B 慢跟。",
- "notes": "",
- "researched_at": "2026-10-21",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网核对）"
- },
- "company_facts": {
-  "legal_name": "SICURMAX S.r.l.（原 Sicurmax S.n.c. di Marzari Massimo & C.；P.IVA 02360600239）",
-  "founded": "1992",
-  "hq": "Via del Ciclamino 7, 37051 Bovolone (VR), Italia（+39 045 690 0922；info@sicurmax.com）",
-  "other": "北意大利民用/工业安防集成商（30+ 年）：防盗、视频监控、消防、门禁、无线系统；ISO 9001 + SOA；有意大利军方/NATO 设施施工资质（守界：不参与军方项目配套）；面向公共机构（学校、医疗）与工地"
- },
- "business_lines": [
-  "防盗 / 视频监控 / 门禁 安装（民用+工业）",
-  "公共机构与工地安防",
-  "消防"
- ],
- "channels": {
-  "网站": "https://sicurmax.com/",
-  "电话": "+39 045 690 0922（官网公开）",
-  "邮箱（公开）": "info@sicurmax.com"
- },
- "signals": [
-  "已成交 + WA（用户表）；公共机构/工地项目持续——PoE 交换机复购型；军方/NATO 资质只作背景，不供军用项目"
- ],
- "risks": [
-  "守界：客户持军方/NATO 施工资质——仅供民用/工业项目用通用交换机"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 25,
-  "why": "集成商项目自用：STC-28DGGPM / STC-424DGGPM-280W 商用管理 PoE；工地/户外机柜位 STI-288DGGPM；25% 档"
- },
- "email_hook": "For the school and municipal CCTV jobs you run around Verona, the Marvell-based 8- and 24-port PoE+ managed switches ship within 3–5 working days EXW, and the DIN-rail 8-port version covers the site cabins.",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A/S 邮箱 24 封 2024→2026，1 次记录打开，0 回；收件 info@sicurmax.com, massimo@sicurmax.com；主题多为「Industrial PoE Switch、16 Port PoE Managed Switch」；Elsa 箱：`to:sicurmax.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 24 / 来 0）（第 74 批(j)））",
-   "type": "安防集成商（含军方/NATO 场所资质）",
-   "sieve": "1~2（1 次打开）",
-   "stop": "24 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
-   "lane": "意大利（欧洲全域主攻）",
-   "cadence": "一封",
-   "evidence": "gmail_digest：out 24，Opened 标签 1（Simon 群发追踪）；研究档 risks：守界：客户持军方/NATO 施工资质——仅供民用/工业项目用通用交换机"
-  },
-  "situation": "意大利维罗纳省的民用/工业安防集成商（1992 年起，ISO 9001、SOA OS5/OS19/OS30 资质，具备意大利军方与 NATO 场所施工资格），业务：防盗、视频监控（含城市/交通）、消防、门禁。用户表：WhatsApp 已加，兴趣工业 PoE 配件，17 次推送无回复。",
-  "need": "集成商项目自用：STC-28DGGPM / STC-424DGGPM-280W 商用管理 PoE；工地/户外机柜位 STI-288DGGPM；25% 档",
-  "breakpoint": "守界：客户持军方/NATO 施工资质——仅供民用/工业项目用通用交换机",
-  "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 25,
-   "price": "换人再触锚价 STC-28DGGPM $84.1 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-14 $65（10G media converter）、2024-11-19 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-13 $280（10G Enterprise SFP Switch）",
-   "why": "集成商项目自用：STC-28DGGPM / STC-424DGGPM-280W 商用管理 PoE；工地/户外机柜位 STI-288DGGPM；25% 档。已打开的主题（1/24 封有打开记录）：「90W poe managed switch」(2024-06-18) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "2027-Q1（换人后）",
-   "channel": "A 邮箱 → 具名 KP",
-   "action": "换收件人再发一封（第 75 批(al) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；军方/NATO 守界明写；交期写 4–7 工作日）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
-   "one_question": "For the school and municipal CCTV jobs you run around Verona, the Marvell-based 8- and 24-port PoE+ managed switches ship within 3–5 working days EXW, and the DIN-rail 8-port version covers the site cabins. Reference: STC-28DGGPM at $84.1 USD EXW (MOQ 1, 15-day validity)."
-  },
-  "facts": [
-   {
-    "date": "2026-10-08",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "Industrial PoE Switch、16 Port PoE Managed Switch",
-    "why": "24 封 / 1 次打开 / 0 回｜首封 2024-06-18 → 末封 2026-10-08（24 去 / 0 来）",
-    "k": "gmail_digest"
-   },
-   {
-    "date": "2026-10-08",
-    "dir": "去",
-    "who": "A 箱（Alan）",
-    "quote": "Managed PoE Switches",
-    "why": "本日去信真实主题（邮箱索引 6c4f80b1fd99441a；信稿开头句引用此封；此前稿内写的「Industrial PoE Switch」是线程列表首题，不是本封）",
-    "k": "6c4f80b1fd99441a"
-   }
+  "code": "SA-025",
+  "name_official": "Avenger Security / Security Tekton（Austin & Hutto, Texas）",
+  "website_status": "在线",
+  "summary": "德州奥斯汀的员工持股安防监控服务商（商业/住宅报警、消防报警、门禁、云视频监控、UL 中心站监控），服务奥斯汀/休斯敦/达拉斯/圣安东尼奥，<$5M 营收。用户表：A 已回复，2 次实质回复，兴趣商业 PoE，电话 (512) 563-5361。",
+  "type": "安防集成/安装商（小型，自装自用采购）",
+  "size": "<$5M（ZoomInfo）",
+  "brands_seen": [
+    "Eagle Eye Networks",
+    "Brivo",
+    "Alula",
+    "Honeywell"
   ],
-  "proof_gaps": [],
-  "draft_en": {
-   "subject": "For the school and municipal CCTV jobs around Verona - three units, civil projects only",
-   "body": "Hi Massimo,\n\nOver the past months you had a few product mails from us - most recently \"Managed PoE Switches\" on 8 October 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the civil jobs - schools, municipal CCTV, traffic - around Verona (your military and NATO sites are outside what we quote), EXW, MOQ 1, 15-day validity, CE/RoHS: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based - model STC-28DGGPM - $84.1 USD; 24 x PoE+ (280 W) + 4 x SFP, L2+ managed - STC-424DGGPM-280W - $140.1; for the site cabins, DIN-rail 8 x PoE+ + 2 x SFP, L2+ with ring redundancy, -40 to 75 C - STI-288DGGPM - $137.5. Lead time 4-7 working days from order; WhatsApp works as well.\n\nOne question: on the current municipal jobs, is it the rack unit or the cabin unit you buy more of?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+  "evidence": [
+    {
+      "kind": "官网",
+      "claim": "业务与联系方式",
+      "quote": "Austin commercial security: access control, fire alarms, video surveillance, and UL-listed 24/7 monitoring … email: info@getsecurityalarm.com",
+      "url": "https://getsecurityalarm.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网（关联站）",
+      "claim": "员工持股，双牌照，电话与用户表一致",
+      "quote": "Learn about Avenger Security, Austin’s employee-owned security monitoring company. Dual licensed for private security & fire alarm. … 512-563-5361 … Email: info@getsecurityalarm.com",
+      "url": "https://securitytekton.com/pages/about-us",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网",
+      "claim": "公司背景 / 执照 / 地址 / 电话 / 创始人",
+      "quote": "Avenger Security is a private, employee-owned and operated security monitoring service provider based in Austin, Texas. Since 2004 … Texas Private Security License: B12519 & B03064001 … Texas Fire Alarm License: ACR 2370373 … Established: 2004 by Brandon Walter Adams … Address: 501 West Creekbend Cove, Hutto, Texas 78634 … Phone: 512-610-2698",
+      "url": "https://securitytekton.com/pages/about-us",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网",
+      "claim": "云视频 = Eagle Eye Networks + PoE IP 摄像机",
+      "quote": "Avenger Security delivers professional cloud video surveillance powered by Eagle Eye Networks. Replace legacy DVR/NVR limitations with a secure, flexible, and scalable cloud VMS that supports leading PoE IP cameras and many existing analog systems via bridge.",
+      "url": "https://securitytekton.com/pages/video-surveillance-austin",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网",
+      "claim": "门禁 = Brivo OnAir 与 Eagle Eye 联动",
+      "quote": "Avenger Security integrates Brivo OnAir with Eagle Eye Networks cloud video surveillance to attach door video clips to activity logs",
+      "url": "https://securitytekton.com/pages/access-control-service",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [
+    {
+      "name": "—",
+      "role": "总机",
+      "email": "info@getsecurityalarm.com",
+      "phone": "+1 512-563-5361",
+      "source": "https://securitytekton.com/pages/about-us"
+    },
+    {
+      "name": "Brandon Walter Adams",
+      "role": "Founder / Owner（2004 创立，官网 About）",
+      "email": "—（未公开）",
+      "phone": "+1 512-610-2698（公司）",
+      "source": "https://securitytekton.com/pages/about-us"
+    }
+  ],
+  "notes": "A 维持（美国本土集成商 + 2 次实质回复），但单量小（自装项目用 8/16 口 PoE）；P1 = STC-28DGGPM，25% 集成商档；注意 UL：仅报 CE/FCC（Saga 无 UL）。",
+  "researched_at": "2026-10-21",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "深挖 v2（官网 securitytekton.com + 目录核对）"
   },
-  "as_of": "2026-10-24"
- }
+  "company_facts": {
+    "legal_name": "Avenger Security Services（Central Security 同族）",
+    "hq": "501 West Creekbend Cove, Hutto, TX 78634（+1 512-610-2698）；休斯敦分部 11200 Broadway St Ste 2743, Pearland TX 77584（+1 281-954-3400）",
+    "revenue": "<$5M（ZoomInfo）",
+    "other": "员工持股；德州双证（私人安防 B12519 & B03064001；消防报警 ACR 2370373）；云视频 = Eagle Eye Networks（PoE IP 摄像机 + 旧模拟桥接），门禁 = Brivo OnAir，报警 Alula/Honeywell Vista；「无长期合同、无信用审查」；官网 securitytekton.com（2025-10 仍更新）与 getsecurityalarm.com / avengersecurityhouston.com 并行",
+    "founded": "2004（创始人 Brandon Walter Adams；LinkedIn/Yelp 口径 2010）",
+    "staff": "11–50"
+  },
+  "business_lines": [
+    "商业/住宅入侵报警与 UL 中心站监控",
+    "消防报警",
+    "门禁",
+    "云视频监控（IP 摄像机 → 需 PoE 接入）",
+    "云视频监控安装（Eagle Eye Networks，PoE IP 摄像机）",
+    "云门禁（Brivo OnAir，$10–20/门/月）",
+    "盗警/消防报警 + UL 中心站监控（消防部分守界：不供生命安全链路设备）"
+  ],
+  "products_seen": [
+    {
+      "brand": "（安装商自用）",
+      "model": "商业 PoE 交换机（用户表兴趣）",
+      "spec": "摄像机/门禁点位供电",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "用户表",
+      "saga": "STC-28DGGPM"
+    }
+  ],
+  "channels": {
+    "网站": "https://securitytekton.com/",
+    "直邮": "brandon@getsecurityalarm.com / info@getsecurityalarm.com（用户表）",
+    "电话": "+1 512-610-2698（奥斯汀）/ +1 281-954-3400（休斯敦）",
+    "LinkedIn": "https://www.linkedin.com/company/central-security（322 followers）"
+  },
+  "signals": [
+    "用户表：A 已回复，2 次实质回复，兴趣商业 PoE",
+    "Eagle Eye 云 VMS 模式每站点仍需本地 PoE 交换机（桥接器 + 摄像机）——8/24 口 PoE 为标配耗材；两城运营、2025-10 仍在发博客（活跃）"
+  ],
+  "risks": [
+    "安装商自用量小（每项目 1–3 台）；美国商业楼宇低压安装常要求 UL 列名设备（Saga 无 UL）→ 只能供非强制场景",
+    "消防报警部分守界（生命安全）",
+    "消防报警/UL 监控为其业务一部分——Saga 只供摄像机/门禁侧 PoE 交换机，不进入消防链路（守界）"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 25,
+    "why": "安装商每站点 8–24 口 PoE 自用：STC-28DGGPM（8 PoE+2 SFP）为主，STC-424DGGPM-280W 为大站点；集成商 25% 档"
+  },
+  "email_hook": "For the Eagle Eye bridge and PoE camera drops you install around Austin and Houston, the Marvell-based 8-port PoE+ with 2 SFP uplinks at EXW cost is the unit I am quoting, 24-port for the larger sites.",
+  "mail_review": {
+    "binding": {
+      "level": "轻度触达（A 邮箱 2 次真人回复，都从私人 gmail brandonwadams@gmail.com「Avenger Security」发来：2025-06-12 要 16 口 DIN 千兆价、2025-09-09 要 STI-244GP 价与发货地并说「used this PoE in solar configurations」；Alan 09-09 报 $35 后沉默；此后 9 封群发无回）；Elsa 1:1 去信 1 封（2025-02-28「Mini Industrial PoE Switch」；To 仅本户 info@getsecurityalarm.com；Bcc 未逐封读头；同类名单抽读 24 封均无 Bcc；此后再未进 Elsa 任何名单——全箱 `from:e.sagatelecom to:info@getsecurityalarm.com` 仅此 1 条，complete）（第 74 批(m)）",
+      "type": "奥斯汀安防安装商（Avenger Security / getsecurityalarm.com），太阳能供电站点用工业 PoE",
+      "sieve": "2（两次问价）",
+      "stop": "第一次问价（06-12）Alan 只回了下载链接 PDF、没在正文给价；第二次（09-09）给了 $35 与「从中国发」后他没再回——小安装商、单次需求量小，$35 + 国际运费对 4 口机不划算是最可能的原因",
+      "revive": "直接写到他的 gmail（公司邮箱 brandon@/info@ 从没回过）：把 4 口与 16 口两款价和运费档位写在正文里，问他这一季有几个太阳能站点，建议 2 台样机 DHL",
+      "lane": "US 主攻",
+      "cadence": "一次针对性信 → 再无回则回到季度群发",
+      "evidence": "gmail_a a3355bc71b5e758d / 1ac6cb596346a3a9 / 88fd4f417fdf19ba / 2c55cbead61c8075；私人邮箱 2026-10-24 第 70 批并入实体（补录行 AS-补录-2026-10-24-03）"
+    },
+    "situation": "德州奥斯汀的安防安装商 Avenger Security（getsecurityalarm.com；Brandon Walter Adams，Owner，2004 年创立；报警/门禁/视频监控，服务奥斯汀/休斯敦/达拉斯/圣安东尼奥）。他用的是私人 gmail 回信，所以之前被记成「0 来信」——实际两次开口都是问价：2025-06 问 16 口 DIN 千兆（Alan 只给了链接），2025-09 问 2 光 4 PoE 工业机 STI-244GP，并说自己在太阳能配置里用过这类 PoE、喜欢过流保护；Alan 答 $35/pc、从中国 DHL/UPS/FedEx 发、输入 3A max、DC44–57V、带 DIP。之后他没下文，Saga 又群发了 9 封（2025-10 → 2026-09）。",
+    "need": "太阳能/离网安防站点用的小口数 DIN PoE 交换机（2 SFP + 4 GE PoE，DC 44–57V，过流保护，-40~75℃）；偶尔 16 口 DIN 千兆（车载/工业自动化那封引出的）。单量小（安装商按项目买）。",
+    "breakpoint": "两次问价都没形成「价 + 运费 + 交期」一封信：06-12 没给价，09-09 给了价没给运费档位——对美国小安装商，4 口机 $35 之外的 DHL 运费才是决定项。",
+    "saga_now": {
+      "p1": "STI-244GP",
+      "tier": 25,
+      "price": "STI-244GP $35 EXW（Alan 2025-09-09 已报；主表 25% 档 $36.6、列表 $49.5——沿用 $35）；STI-0160GE 16 口 DIN 千兆非管理 $100（Alan 2025-05-28 对加拿大 SC-2150 实报；SA-010 2025-02 $105；规则 ㉕ 非管理工业线不用档位价 $95.3）；备选 STI-054GP（4 PoE + 1 GE）$39 更省；群发里他已看到的价：2026-08-10 $170（24 Port PoE Managed = STC-424XGGPM-280W，现价轮 $180）、2025-10-02 $280（10G Enterprise SFP Switch）",
+      "why": "他点名的就是 STI-244GP 这档；安装商 25%；太阳能站点 → 强调 44–57V 宽压 + 过流/DIP",
+      "repeat": [
+        "06-12 问 16 口 DIN GE 价",
+        "09-09 问 STI-244GP 价与发货地"
+      ],
+      "gaps": [
+        "运费档位（2 台 / 10 台 DHL 到 Austin）要先查，不然这封信又只剩价"
+      ]
+    },
+    "next_move": {
+      "when": "现在（一封针对性信）",
+      "channel": "A 邮箱 → brandonwadams@gmail.com（抄 brandon@getsecurityalarm.com）",
+      "action": "首封前知悉：Elsa 仅 2025-02-28 单发过 1 封「Mini Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；把 09-09 那封补完整：价 + 2 台/10 台 DHL 运费 + 3–5 工作日交期，问太阳能站点数量",
+      "one_question": "Brandon — picking up your September note on the solar sites: STI-244GP (2 SFP + 4 GbE PoE, 44–57 V DC, DIP, −40 to +75 °C) is $35 EXW; 2 pcs by DHL to Austin lands in about a week — how many solar/off-grid sites are you fitting this season, and shall I send two for the next one?"
+    },
+    "facts": [
+      {
+        "date": "2025-02-28",
+        "dir": "out",
+        "who": "Elsa → info@getsecurityalarm.com",
+        "quote": "Mini Industrial PoE Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+        "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
+        "k": "elsa_1to1",
+        "msg_id": "19548ac3433d0709"
+      },
+      {
+        "date": "2025-06-11",
+        "dir": "去",
+        "who": "Saga（群发）",
+        "quote": "「16 Port Ethernet Switch」被打开（Mailtrack Opened 标签）",
+        "why": "唯一的互动痕迹",
+        "k": "ea72575dc36805b9"
+      },
+      {
+        "date": "2025-06-12",
+        "dir": "来",
+        "who": "Brandon（Avenger Security，brandonwadams@gmail.com）",
+        "quote": "Alan, Hope all is well, Can you send me the pricing, Let me know（答「16 Port Ethernet Switch」DIN 千兆群发）",
+        "why": "第一次开口就是问价——来自私人 gmail，之前未归属本户",
+        "k": "gmail_a a3355bc71b5e758d"
+      },
+      {
+        "date": "2025-06-12",
+        "dir": "去",
+        "who": "Saga（Alan）",
+        "quote": "Please see attached downlink links which contain full information. Photos, datasheets, user manuals, prices etc.（附 Download Link_Alan.pdf）",
+        "why": "问价只回了链接包、正文没有价——第一次断点",
+        "k": "gmail_a 1ac6cb596346a3a9"
+      },
+      {
+        "date": "2025-09-08",
+        "dir": "去",
+        "who": "Saga（群发）",
+        "quote": "「Industrial PoE Switch」被打开（Mailtrack Opened 标签）",
+        "why": "唯一的互动痕迹",
+        "k": "a993a01057d0d553"
+      },
+      {
+        "date": "2025-09-09",
+        "dir": "来",
+        "who": "Brandon（brandonwadams@gmail.com）",
+        "quote": "I have used this POE in solar configurations, I like the overcurrent protection. Can you send pricing, Where is the product located, shipped from?（答「Industrial PoE Switch」STI-244GP 群发）",
+        "why": "点明用途（太阳能配置）与在意点（过流保护）+ 两个采购问题（价、发货地）——这是本户最实的一句话",
+        "k": "gmail_a 88fd4f417fdf19ba"
+      },
+      {
+        "date": "2025-09-09",
+        "dir": "去",
+        "who": "Saga（Alan）",
+        "quote": "1, yes, it is 3A max for input current. For over-current protection, its bigger than this… DIP is also an interesting function. 2, it will be shipped from China via DHL/UPS/FedEx. 3, price is 35usd/pc. STI-244GP: 2*Gigabit SFP+4*10/100/1000M RJ45, PoE af/at, 120W, Unmanaged, Support DIP, DC44V~DC57V (Removable 4 PIN Terminal Block), -40℃ to 75℃, Din mounted, Without optical module, without power adapter",
+        "why": "给了价没给运费档位；此后 Brandon 沉默，Saga 再群发 9 封无回",
+        "k": "gmail_a 2c55cbead61c8075"
+      }
+    ],
+    "proof_gaps": [
+      "DHL 2 台/10 台到 Austin 的运费档位（发信前查）",
+      "他 2025-09 说「used this PoE in solar configurations」——用的是谁家的（没问）"
+    ],
+    "draft_en": {
+      "subject": "Re: Industrial PoE Switch — the solar-site switch, with price and shipping this time",
+      "body": "Hi Brandon,\n\nLast September you asked about the DIN-rail PoE switch for your solar configurations and I only half-answered, so here is the whole thing in one place.\n\nSTI-244GP — 2 x gigabit SFP + 4 x gigabit PoE+ (120 W), 44–57 V DC input on a removable terminal block, over-current protection, DIP switch, −40 to +75 °C, DIN mount: $35 USD EXW per unit.\nShipping: from China by DHL/UPS/FedEx, about a week door to door to Austin; I will put the exact freight for 2 pcs and for 10 pcs on the quote.\nIf you also still want the 16-port DIN gigabit switch you asked about in June: $100 USD EXW (unmanaged, 12–58 V DC).\n\nPrices valid 15 days; CE/FCC/RoHS; 3-year warranty on the industrial units.\n\nOne question: how many solar or off-grid sites are you fitting this season? If there is one coming up, I will send two units so you can put one on the bench and one on a site.\n\nThank you.\nAlan\nSaga Telecom - sagatele.com"
+    },
+    "as_of": "2026-10-24"
+  }
 }

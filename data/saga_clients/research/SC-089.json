@@ -1,0 +1,66 @@
+{
+ "code": "SC-089",
+ "name_official": "New World Polo（男装品牌/纺织，İstanbul；newworldpolo.com；联系人 Piperis Christos，希腊）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（服装电商）",
+ "summary": "ISAF 记录：Piperis Christos（CEO，nwpolo1@yahoo.com，+30 26930 71000 / +30 697 251 1415，WhatsApp 已加）——没说什么、看了一眼工业级交换机；无跟进。域名为土耳其男装品牌 New World Polo 电商站 → 行业外 C（资料保留）。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网/名录",
+   "claim": "品牌性质",
+   "quote": "New World Polo Tekstil, 30 yılı aşkın süredir zamansız tasarımları ile tekstil sektöründe faaliyet göstermektedir. Erkek giyim kategorisinde başta polo yaka t-shirt, hoodie ve sweatshirt … İstanbul merkezli … Romanya, Bulgaristan, Yunanistan, İtalya, ABD ve Almanya başta olmak üzere toplamda 16 ülkeye",
+   "url": "https://open-sklad.moscow/companies/company/24278-new-world-polo.html",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "ISAF：看了一眼工业级交换机",
+   "quote": "没说什么 看了一眼工业级交换机 / 0030 26930 71000 / 0030 6972 511415 已加",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Piperis Christos",
+   "role": "CEO（用户表名片）",
+   "email": "nwpolo1@yahoo.com（用户表）",
+   "phone": "+30 697 251 1415（用户表，WhatsApp 已加）",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": "C",
+ "override_reason": "行业外：newworldpolo.com 为伊斯坦布尔男装品牌 New World Polo（30+ 年纺织，出口 16 国含希腊）的电商站；希腊联系人 Piperis Christos（Yahoo 邮箱）应为其服装经销商——与网络设备无关，ISAF 仅「看了一眼工业级交换机」",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（域名核对 → 行业外降 C）"
+ },
+ "company_facts": {
+  "legal_name": "New World Polo Tekstil（品牌方，İstanbul）；希腊经销主体待核",
+  "hq": "İstanbul（品牌）；希腊（联系人，区号 26930 = 扎金索斯）",
+  "size": "—",
+  "other": "男装：polo 衫、卫衣；出口罗马尼亚/保加利亚/希腊/意大利/美国/德国等 16 国"
+ },
+ "business_lines": [
+  "男装设计/生产/批发零售（行业外）"
+ ],
+ "channels": {
+  "网站": "https://www.newworldpolo.com/"
+ },
+ "signals": [
+  "无网络设备业务"
+ ],
+ "risks": [
+  "行业外 → C"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 25,
+  "why": "不推进"
+ },
+ "email_hook": "（不主动发送）"
+}

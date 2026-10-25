@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """把某个客户在 S 邮箱里的全部往来按时间顺序倒出来，供「针对性复盘」时逐封阅读（只读，不改任何仓库文件）。
 
-用法：python3 mail_dump.py SA-011 [--chars 700] [--out /tmp/elsa/SA-011.txt]
+用法：python3 mail_dump.py SA-006 [--chars 700] [--out /tmp/elsa/SA-006.txt]
 匹配规则与 gmail_digest.py 一致：实体域名 / 实体邮箱 / 邮箱别名.csv。
 输出每封：序号 | 日期 | 方向 | 发件人 → 收件人 | 主题 | 附件名 | 正文前 N 字（去引用）。
 """

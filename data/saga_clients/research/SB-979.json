@@ -1,51 +1,127 @@
 {
  "code": "SB-979",
- "name_official": "Garland Technology（USA；garlandtechnology.com）",
+ "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "在线",
- "summary": "美国网络可视化硬件厂商 Garland Technology（网络 TAP、Bypass、分流器）。展会记录：「高速模块卡！SFP DAC 等，Bypass 也比较多」；联系邮箱 sales@；无跟进。同行型厂商，归 C（资料保留）。",
- "type": "",
+ "website_status": "在线（ioneresources.net，快照 2026-10-21）",
+ "summary": "菲律宾 iOne Resources, Inc.（「Solutions That Drive Progress」关键任务运营就绪：现场部署与技术运营、托管 ICT 服务、网络安全合规；TP-Link；表内「from: 阿里巴巴主动推送的」；KP Alberto Catangui（CEO））；表内未跟进。",
+ "type": "ICT 服务/集成商（菲律宾）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "TP-Link"
+ ],
  "evidence": [
   {
+   "kind": "官网快照",
+   "claim": "官网标题：iOne Resources, Inc | Solutions That Drive Progress；品类词 网络交换 / PoE",
+   "quote": "Mission-Critical Operations Readiness；Our Services；Solutions that Drive Progress；Our Lifecycle of Technology Operations；Field Deployment & Technical Operations；Managed ICT Services",
+   "url": "https://ioneresources.net/",
+   "date": "2026-10-21"
+  },
+  {
    "kind": "用户表",
-   "claim": "关注高速模块卡、SFP/DAC、Bypass",
-   "quote": "高速模块卡！ SFP DAC等 Bypass也比较多",
+   "claim": "表内兴趣/备注",
+   "quote": "from: 阿里巴巴主动推送的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "iOne Resources 定位",
+   "quote": "iOne Resources, Inc | Solutions That Drive Progress ; Mission-Critical Operations Readiness ; Field Deployment & Technical Operations ; Managed ICT Services",
+   "url": "https://ioneresources.net/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "阿里巴巴推送",
+   "quote": "from: 阿里巴巴主动推送的",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
- "kp": [],
- "grade_override": "C",
- "override_reason": "行业外/同行：网络 TAP / Bypass / 分流器厂商（Buffalo, NY），关注高速模块卡、SFP/DAC、Bypass——自有硬件产品线，非交换机渠道",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "kp": [
+  {
+   "name": "Alberto Catangui",
+   "title": "CEO",
+   "email": "acatangui@ioneresources.net",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（身份判断 → 行业外降 C）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "legal_name": "Garland Technology, LLC",
-  "hq": "Buffalo, NY, USA",
-  "size": "待核（中型）",
-  "other": "网络 TAP / Bypass / Packet Broker 厂商"
+  "hq": "菲律宾",
+  "other": "官网 ioneresources.net，语言 en-US，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "网络 TAP、Bypass、分流器硬件"
+  "ICT 现场部署 / 托管服务 / 网络安全（菲律宾）"
  ],
  "channels": {
-  "网站": "https://www.garlandtechnology.com/"
+  "role": "ICT 服务/集成商（菲律宾）",
+  "region": "菲律宾",
+  "contact": "acatangui@ioneresources.net"
  },
  "signals": [
-  "仅 SFP/DAC 模块有少量采购可能"
+  "首页 Mission-Critical Operations Readiness ; Field Deployment & Technical Operations ; Managed ICT Services ; Cybersecurity & Compliance；kw tp-link 14",
+  "表内：from: 阿里巴巴主动推送的；KP Alberto Catangui, CEO"
  ],
  "risks": [
-  "同行/行业外 → C"
+  "非主攻区（T5，菲律宾）；阿里巴巴推送来源（需求未确认）；TP-Link 价格基准低"
  ],
  "saga_fit": {
-  "p1": null,
+  "p1": "STC-28DGGPM",
   "tier": 25,
-  "why": "不推进（可报 SFP/DAC 模块）"
+  "why": "现场部署/托管 ICT 配套 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）；24 口 STC-424DGGPM-280W（$140.1）"
  },
- "email_hook": "（不主动发送）"
+ "email_hook": "Alberto, for the access switches in your field deployments and managed-ICT sites, we supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ models from single units, CE/RoHS, EXW USD — which port count do your deployments standardise on alongside TP-Link?",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「from: 阿里巴巴主动推送的」；Elsa 箱：`to:ioneresources.net` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(n)））",
+   "type": "ICT 服务/集成商（菲律宾）",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "不动（非主攻区；J5：有证据再动）",
+   "lane": "菲律宾 非主攻",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 0；用户表：「from: 阿里巴巴主动推送的」；研究档 risks：非主攻区（T5，菲律宾）；阿里巴巴推送来源（需求未确认）；TP-Link 价格基准低"
+  },
+  "situation": "菲律宾 iOne Resources, Inc.（「Solutions That Drive Progress」关键任务运营就绪：现场部署与技术运营、托管 ICT 服务、网络安全合规；TP-Link；表内「from: 阿里巴巴主动推送的」；KP Alberto Catangui（CEO））；表内未跟进。",
+  "need": "现场部署/托管 ICT 配套 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）；24 口 STC-424DGGPM-280W（$140.1）",
+  "breakpoint": "非主攻区（T5，菲律宾）；阿里巴巴推送来源（需求未确认）；TP-Link 价格基准低",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "现场部署/托管 ICT 配套 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）；24 口 STC-424DGGPM-280W（$140.1）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "from: 阿里巴巴主动推送的",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

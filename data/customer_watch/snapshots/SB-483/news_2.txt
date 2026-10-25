@@ -1,63 +1,222 @@
-# SB-483 teleone.com.tr · news_2 · https://www.teleone.com.tr/category/duyurular/ · fetched 2026-10-25T07:41:18Z · HTTP 200
-Duyurular – Teleone: Think bigger, make better
-0850 221 95 95
-info@teleone.com.tr
-Anasayfa
-Kurumsal
-Hakkımızda
-Yol Haritası
-Kalite Anlayışımız
-Çözüm Ortaklarımız
-Çözümlerimiz
-Ürünlerimiz
-Paylaşımlar
-Haberler
-Duyurular
-İ.K.
-İletişim
-BAYİ GİRİŞİ
-Duyurular
-3 Aralık 2017
-Yayınlayan okajans - 3 Aralık 2017
-Kategoriler
-Duyurular
-Devlet Malzeme Ofisi IP Kamera Sistemi
-Firmamız, dünyaca seçlik ve uygun fiyatlı ürün grupları ile her büyüklükteki IP Kamera Sistemi projelerinizi katalog ürünleri ile uçtan uca ve anahtar teslimi çözmektedir. DMO Katalog […]
-Bunu sevdiniz mi? 0
-Daha Fazla
-3 Aralık 2017
-Yayınlayan okajans - 3 Aralık 2017
-Kategoriler
-Duyurular
-Personel Alımı
-Teleone İnsan Kaynakları stratejileri, Yeni Neslin Teleone’ı vizyonu doğrultusunda sektöründe “En Çok Tercih Edilen İşveren” olma hedefini destekleyecek şekilde tasarlanmıştır. İnsan Kaynakları yönetim ve uygulamalarının hedefi; […]
-Bunu sevdiniz mi? 0
-Daha Fazla
-3 Aralık 2017
-Yayınlayan okajans - 3 Aralık 2017
-Kategoriler
-Duyurular
-Web Sitelerimiz Yenilendi
-Değerli müşterilerimiz ve iş ortaklarımız. Kullanmakta olduğumuz web sitelerimiz yenilenme sürecindedir. Bu süreçte tüm içerikler demo ve beta konumundadır. Anlayışınız için teşekkür ederiz.
-Bunu sevdiniz mi? 0
-Daha Fazla
-Kurumsal
-Teleone
-Vizyon & Misyon
-Ekibimiz
-Kalite Anlayışımız
-Çözüm Ortaklarımız
-Yardımcı Linkler
-Duyurular
-Haberler
-Çözümlerimiz
-İnsan Kaynakları
-Bize Ulaşın
-Ürünler
-Duyurular
-Haberler
-Çözümlerimiz
-İnsan Kaynakları
-Bize Ulaşın
-E-Bülten Kaydı
-E-Posta Adresiniz
+# SB-483 melbyefiber.com · news_2 · https://melbyefibre.com/Blog · fetched 2026-10-25T07:41:18Z · HTTP 200
+Blog | Melbye
+GDPR and Cookies
+We use cookies to improve your user experience. A cookie is a text file that when visited, or interacted with, a website is stored in the internal memory of your browser. Cookies can be easily deleted by accessing the settings in your browser.
+Read more
+Adjust settings
+Hide settings
+Yes
+No
+Are we allowed to collect analytics?
+We collect data for analytics to further improve your browsing experience.
+Yes
+No
+Are we allowed social media tracking?
+We use social media tracking to improve how we serve you ads.
+Yes
+No
+Do you want personalised marketing?
+We use personalized marketing to show you more relevant ads
+Save choices
+Accept all
+Deny all
+Log in
+en
+Melbye.se – melbye.se
+Melbye.no – melbye.no
+Melbye.fi – melbye.fi
+Part of Critical Infrastructure Since 1907
+Product solutions
+News
+Career
+Sustainability
+About us
+Contact us
+Fibre Optic Cables
+Air blown Fibre Singlemode
+Air blown Fibre Multimode
+Micro Cables
+Cables for outdoor duct installation
+Show all
+Microducts & accessories
+Direct Bury - Thick Wall Microducts
+Direct Bury - Locatable Thick Wall Microducts
+In-Duct - Thin Wall Microducts
+UV resistant microducts
+Show all
+Fibre Optic Assemblies
+Patch Cords Singlemode simplex
+Patch Cords Singlemode duplex
+Patch Cords Multimode duplex
+Patch Cords customer leadin Singlemode
+Show all
+Fibre Optic Termination Accessories
+Splice closures (splice domes)
+Street side cabinets and pillars
+Fibre Termination Boxes outdoor
+Fibre Termination Boxes indoor
+Show all
+Tools, equipment and cleaning
+Fiber tools
+Midspan tools
+Microducts tools
+Fiber Cleaning Products
+Show all
+Test and Inspection Equipment
+Optical Time Domain Reflectometer (OTDR)
+Optical Loss Test Kits (OLT)
+Light sources
+Power Meters
+Show all
+Fusion Splicers and Accessories
+Mini-3S
+Mini-5C+ Core Alignment
+Mini-6S+ Core Alignment
+Mini-4R Ribbon 4 and single fibre
+Show all
+Active Equipment
+Media Converters
+Industrial Ethernet (DIN)
+Transceivers
+Switches
+Show all
+myaccount.signin
+myaccount.signin-text
+myaccount.signin-error
+E-mail address
+Password
+Log in
+Forgot password?
+×
+Forgot password?
+myaccount.signin-text
+myaccount.forgot-success
+E-mail address
+Reset password
+myaccount.back-to-signin
+×
+Melbye Ltd
+Blog
+Menu
+×
+About Us
+History
+Our values
+Available positions
+Privacy Policy
+Career
+Employees
+Standard Terms and Conditions of Sale
+Contact us
+Complete Optical Fibre Solutions
+Fibre Optic Cables
+Air blown Fibre Singlemode
+Air blown Fibre Multimode
+Micro Cables
+Cables for outdoor duct installation
+Cables for aerial installation (ULW)
+Cables for aerial installation (ADSS)
+Cables for direct buried installation
+Cables for under water installation
+Cables for outdoor-indoor installation
+Cables for indoor installation
+Circuit integrity cables
+Microducts & accessories
+Direct Bury - Thick Wall Microducts
+Direct Bury - Locatable Thick Wall Microducts
+In-Duct - Thin Wall Microducts
+UV resistant microducts
+Microducts for indoor installation (LSZH)
+Microduct Accessories
+Optoducts for indoor installation
+Microducts for underwater installation
+Fibre Optic Assemblies
+Patch Cords Singlemode simplex
+Patch Cords Singlemode duplex
+Patch Cords Multimode duplex
+Patch Cords customer leadin Singlemode
+Patch Cords Armoured
+Pigtails Singlemode
+Pigtails Multimode
+Ribbon fanouts Singlemode
+Splitters
+ODF pre-terminated
+EPSU pre-terminated on reel
+External Overhead/Underground drop cables
+Dual jacket drop cable
+Fibre Optic Termination Accessories
+Splice closures (splice domes)
+Street side cabinets and pillars
+Fibre Termination Boxes outdoor
+Fibre Termination Boxes indoor
+Fibre outlets indoor
+Optical Distribution Frames (ODF)
+Adaptors
+Splice trays
+Splice protection sleeves
+Attenuators
+Tools, equipment and cleaning
+Fiber tools
+Midspan tools
+Microducts tools
+Fiber Cleaning Products
+Fibre Blowing Equipment and Accessories
+Cable Trailer
+Test and Inspection Equipment
+Optical Time Domain Reflectometer (OTDR)
+Optical Loss Test Kits (OLT)
+Light sources
+Power Meters
+Visible laser pen (Visual Fault Locator)
+Fibre Microscope
+Live fiber detector
+Fusion Splicers and Accessories
+Mini-3S
+Mini-5C+ Core Alignment
+Mini-6S+ Core Alignment
+Mini-4R Ribbon 4 and single fibre
+Mini-12R Ribbon 4, 8, 12 and single fibre
+High Precision Fiber Optic Cleavers
+Thermal Stripper
+Electrodes
+Fiber Holders
+Active Equipment
+Media Converters
+Industrial Ethernet (DIN)
+Transceivers
+Switches
+News
+search
+Account
+Dashboard
+Contact information
+Order history
+Sustainability
+The UN Sustainable Development Goals at Melbye
+Open and transparent player in sustainability
+An attractive, inclusive and safe workplace
+Reducing climate and environmental impact
+Whistleblowing
+Due Diligence
+Product configurator
+Ultima Connect
+Checkout
+Cart
+Thanks!
+Blog
+Melbye.se – melbye.se
+Melbye.no – melbye.no
+Melbye.fi – melbye.fi
+Find us
+Call us
+Mail us
++ 44 1728 726559
+Contact us
+A supplier of complete solutions for essential infrastructure
+About Melbye
+Whistleblowing
+Sustainability
+Contact us
+About us
+Our values
+Quality & Environment

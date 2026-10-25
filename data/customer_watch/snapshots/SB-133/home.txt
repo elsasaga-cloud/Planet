@@ -1,420 +1,258 @@
-# SB-133 sysnetcenter.com · home · https://sysnetcenter.com/ · fetched 2026-10-25T07:41:18Z · HTTP 200
-Sysnet Center จำหน่าย ติดตั้ง ระบบเครือข่าย อุปกรณ์ Network Line: @sysnet Line: @sysnet
-Contact Phone: 02-102-4284, 083-199-7002, 089-489-5970, 080-080-1115 Email: info@sysnetcenter.com
-เข้าสู่ระบบ
-Create an account
-Welcome, เข้าสู่ระบบ or Create an account
-shopping_cart รถเข็น: 0 Products - ฿0.00
-ไม่มีสินค้าในตะกร้าของคุณแล้ว
-จัดส่ง
-รวมทั้งสิ้น ฿0.00
-Check Out 
-
-
-
-หน้าหลัก
-  ร้าน SysNet Center แผนที่ Office Sysnet
-ราคาสินค้า Project
-Our Customer
-การรับประกันสินค้า
-สั่งซื้อสินค้า
-  บริการงานติดตั้ง ระบบ Network, Internet WIFI Hotspot, VOIP
-Config ติดตั้ง ระบบโทรศัพท์ VOIP, IP-PBX, โทรศัพท์ผ่านเครือข่ายระหว่างสาขา
-บริการ Config, ติดตั้ง VPN-Virtual Private Network เชื่อมต่อเครือข่ายระหว่างสาขา
-บทความ/Review/งานติดตั้ง
-Webboard คู่มือ Config
-แจ้งเคลมสินค้า Online
-เกี่ยวกับเรา
-แบรนด์
-ทุกแบรนด์
-ACTi
-AKUVOX
-ALLNET
-Amp
-APC
-Aruba
-Asus
-BDCOM
-Cisco
-CyberPower
-Cybrey
-D-Link
-dahua
-DrayTek
-EdgeCore
-Edimax
-EnGenius
-Ezviz
-Fanvil
-Four-Faith
-Grandstream
-H3C
-Handlink
-Hewlett Packard Enterprise (HPE)
-Hikvision
-Huawei
-IMOU
-IP-COM
-Level One
-Link
-Linksys
-Mercusys
-MikroTik
-NetGear
-NETIS
-NVK
-Peplink
-Planet
-Ruijie Networks
-Syndome
-Synology
-SysNet Center
-TELTONIKA NETWORKS
-Tenda
-TOTOLINK
-TP-Link
-Ubiquiti
-Uniarch
-Uniview
-Wi-Tek
-Yamaha
-Yealink
-Yeastar
-ZIRCON
-Zycoo
-ZyXel
-ประเภทสินค้า
-อุปกรณ์ Network Accessories ตัวรับสัญญาณ WiFi USB Adapter
-Print Server พิมพ์ผ่านระบบ Network
-POE Injector
-ปลั๊กป้องกันไฟกระชาก
-ป้องกันฟ้าผ่า Surge/Lightning Protector
-Ethernet Adapter/การ์ด Lan
-Adapter Power Supply
-PowerLine Adapter
-VDSL Converter
-KVM Switch
-Smart Home Security HIKVISION AX Pro Alarm System AX PRO Gateway Hub
-Akuvox
-Access Point (แอคเซสพอยต์) งานติดตั้งระบบ Wifi Hotspot
-แบบภายในอาคาร
-แบบภายนอกอาคาร
-MESH WIFI / Repeater เพิ่มระยะสัญญาณ
-Switch เชื่อมเครือข่ายแบบสาย Unmanaged Switches
-Managed Switches L2
-Managed Switches L3
-POE Switch POE Switch 4-8 Port
-POE Switch 16-24 Port
-Passive POE Switch 24VDC
-Industrial Switches
-PON Switch
-Router/ Firewall/ VPN/ Loadbalance VPN Router
-Load Balance / SD-WAN
-Wireless Router
-3G/4G Wireless Router
-5G Router
-ระบบ WIFI Hotspot /เก็บ Log Internet
-ระบบ CCTV/ IP Camera / NVR IP-Camera IP-Camera Wireless
-Cloud IP-Camera
-Network Video Recorder
-VIGI Network Camera VIGI Network Video Recorder
-VIGI Network Camera
-VIGI Solar Power
-UNV Uniview
-Uniarch
-Hikvision Hikvision กล้องระบบ IP Network
-Hikvision เครื่องบันทึก NVR
-ACTi
-VOIP / IP-PBX ระบบโทรศัพท์แบบ IP IP-Phone เครื่องโทรศัพท์แบบ IP
-IP-PBX ตู้โทรศัพท์แบบ IP
-FXS-FXO VOIP Gateway
-SIP Speaker
-อุปกรณ์เสริม
-ตู้ Rack / อุปกรณ์เสริมตู้ Rack Cabinet Rack
-Wall Rack
-Server Rack
-Open Rack
-Outdoor Cabinet
-Cable Management แผงจัดสาย
-อุปกรณ์ประกอบตู้ Rack
-Heavy Duty Fan พัดลม
-Component Shelf ถาด
-AC Power Distribution รางไฟ
-สาย Lan/ Tools/ Connector สาย LAN แบบ Cat 5E
-สาย LAN แบบ Cat 6
-สาย LAN แบบ Cat 6A
-สาย LAN UTP/FTP สำเร็จรูป Patch Cord
-Connector หัวต่อ LAN RJ45
-UTP Cabling Tools & Testers
-สาย Fiber Optic/ Media Converter สาย Fiber Optic Cable สาย Fiber เข้าหัวสำเร็จ
-Patch Cord Fiber Optic Cable
-หัวต่อ Fiber Optic Connector
-SFP Module
-Media Converter
-Fiber Optic Tools & Testers
-อุปกรณ์จัดเก็บข้อมูล (NAS)
-UPS เครื่องสำรองไฟ UPS APC APC Back UPS
-APC Back UPS Pro
-APC Smart UPS
-APC Easy UPS
-Syndome
-ZIRCON UPS เครื่องสำรองไฟ Zircon
-Cybrey (ไซเบอร์รี่) Cybrey Cloud-Managed Firewalls
-Cybrey Cloud-Managed Routers
-Cybrey Cloud-Managed Switches
-Cybrey Cloud-Managed Wireless
-Ruijie Networks (รุ้ยเจี๋ย เน็ตเวิร์ค) Ruijie Accessories
-Ruijie Access Point
-Ruijie Gateway
-Ruijie Switches RG-S5315-E Switch Series
-RG-CS83 Switch Series
-RG-CS85 Switch Series
-RG-CS86 Series Multi-GE
-RG-S2900G-E V3 Switch Series
-RG-S2915 Switch Series
-RG-ES100 Switch Series
-RG-S1800 Switch Series
-RG-S2910XS-E Switch Series
-RG-S2910-H Switch Series
-RG-S5300-E Switch Series
-RG-S5750-H Switch Series
-RG-S5760-X Series
-XS-S1930J Switch Series
-RG-S6120 Switch Series
-RG-SF2920 Series
-Ruijie Next-Gen Firewall
-Ruijie Wireless Controller
-Reyee Network (รียี่ เน็ตเวิร์ค) Reyee Access Point
-Reyee Gateway Router
-Reyee Network Switch Reyee Unmanaged Switch
-Reyee Cloud Managed Smart Switch
-Reyee L2 Cloud Managed Switch
-Reyee L3 Cloud Managed Switch
-Reyee Industrial Grade Switch
-Reyee MESH WIFI
-Reyee Home WIFI
-Network Access Control (NAC)
-Reyee Wireless Bridge
-Reyee e-Lighten Optical e-Lighten Core Switches
-e-Lighten Access Switches
-e-Lighten Access Points
-e-Lighten Accessories
-TP-Link (ทีพี-ลิ้งค์) สินค้างาน Project
-MERCUSYS by TP-Link
-Omada Cloud Solution Omada WIFI
-Omada Switches L2-Managed Switch
-L3-Managed Switch
-POE Switches
-Industrial Switch
-Omada Router
-Omada Controller
-TP-Link Wireless Router
-TP-Link SOHO Switches
-Whole Home Mesh Wi-Fi
-SFP Module, Media-Converter
-Tapo Smart Home
-Wireless USB Adapter
-TP-Link GPON
-Ubiquiti (ยูบิคิวตี้) Ubiquiti Accessories
-Unifi Enterprise WiFi
-Ubiquiti Unifi Switch
-Ubiquiti UniFi Security Gateway
-Ubiquiti Unifi Controller
-Ubiquiti Unifi Video Camera
-Engenius (เอ็นจีเนียส) EnGenius Cloud Cloud-Managed Access Point
-Cloud-Managed Switch
-Cloud-Managed Router
-EnGenius Fit
-Wireless Access Point
-Managed Switch POE
-อุปกรณ์เสริม
-Mikrotik (ไมโครติก) Mikrotik Router Router Level4 (20 Users)
-Router Level5 (50 Users)
-Router Level6 (Unlimit)
-Mikrotik Access Point
-Mikrotik Switch
-Accessories/ สาย DAC/ Power Adapter
-DrayTek (เดรเทค) DrayTek Firewall Router
-Draytek Network Switches
-DrayTek Wireless AP
-Draytek Web Content Filtering
-Huawei eKit Access Point
-Network Switch L2-Managed Switch
-L2+ Managed Switch
-L3-Managed Switch
-Router
-IP-COM (ไอพีคอม) Wireless LAN
-Switches
-Gateway Router
-Access Controller
-BDCOM (บีดีคอม) Network Switch S2900 L3-lite Series
-S3900 L3-10G-Series
-GPON OLT
-xPON ONU
-EPON OLT
-Optical Module
-HPE / Aruba Aruba (อรูบ้า) Aruba Instant On AP
-Aruba Instant Wi-Fi AP
-Aruba Accessories
-Cisco (ซิสโก้) Cisco CBS Switch Series Cisco Business 110 Series
-Cisco Business 220 Series
-Cisco Business 250 Series
-Cisco Business 350 Series
-Cisco CBW Access Point Series Cisco CBW 100&200 Series
-Cisco SMB Switch Cisco SMB 95 Series
-Cisco SMB 200 Series
-Cisco SMB 220 Series
-Cisco SMB 250 Series
-Cisco SMB 300 Series
-Cisco SMB 350 Series
-Cisco SMB 350X Series
-Cisco SMB 500 Series
-Cisco SMB 550X Series
-POE Switch
-Cisco SMB VPN Router
-Cisco SMB Accesspoint
-Cisco Enterprise Accesspoint Cisco Aironet 1800 Series
-Cisco Aironet 2800 Series
-Cisco Catalyst Series Switches
-Zyxel (ไซเซล) Switches GS1100 Series
-GS1300 Series
-GS1350 Series
-GS1900 Series
-GS1920 Series
-GS2220 Series
-XS1930 Series
-XGS1010/1210 Series
-XGS1930 Series
-RGS Series
-Access Point & Controller
-Security Firewalls
-Payment
-RSS Feed
-การนำทางบล็อก
-ค้นหาในบล็อก
-หมวดหมู่บล็อก
-บริการงานติดตั้ง WIFI, CCTV, ระบบเครือข่าย (40)
-Review อุปกรณ์ Network (89)
-การตั้งค่าอุปกรณ์ Networtk (42)
-Network Tools / Software (9)
-Network Solutions (12)
-ดูหมวดหมู่ทั้งหมด
-โพสต์ล่าสุด
-ป้องกัน Malware และ Ransomware เข้าถึง NAS / Server ด้วย Cybrey Firewall โพสต์ใน : Review อุปกรณ์ Network , Network Solutions
-2026-07-17
-71 มุมมอง 2 ชอบ
-บทความนี้จำลอง LAB การป้องกัน Malware และ Ransomware เข้าถึง NAS/SERVER ด้วย Cybrey Firewall...
-อ่านเพิ่มเติม
-ดูโพสต์ล่าสุดทั้งหมด
-กระทู้ยอดนิยม
-ต้องการเชื่อมเครือข่าย Network ระหว่างสำนักงานด้วย VPN โพสต์ใน : Review อุปกรณ์ Network
-2021-01-15
-57376 มุมมอง 19 ชอบ
-ต้องการเชื่อมเครือข่าย Network ระหว่างสำนักงาน ให้สามารถใช้ Resource ต่างๆร่วมกัน หรือ ให้ Client เชื่อมต่อเข้ามาใช้...
-อ่านเพิ่มเติม
-กระทู้ยอดนิยมทั้งหมด
-Blog tags
-reyee engenius ruijie controller security zyxel wifi hotspot loadbalance mesh access point log internet repeater ubiquiti synology งานติดตั้ง mikrotik cloud aruba poe switch software
-Blog RSS
-หมวดหมู่สินค้าแนะนำ
-POE Switch
-POE Switch 4-8 Port
-POE Switch 16-24 Port
-Passive POE Switch 24VDC
-Router/ Firewall/ VPN/ Loadbalance
-VPN Router
-Load Balance / SD-WAN
-Wireless Router
-3G/4G Wireless Router
-Reyee Network Switch
-Reyee Unmanaged Switch
-Reyee Cloud Managed Smart Switch
-Reyee L2 Cloud Managed Switch
-Reyee L3 Cloud Managed Switch
-Omada Cloud Solution
-Omada WIFI
-Omada Switches
-Omada Router
-Omada Controller
-Ubiquiti (ยูบิคิวตี้)
-Ubiquiti Accessories
-Unifi Enterprise WiFi
-Ubiquiti Unifi Switch
-Ubiquiti UniFi Security Gateway
-สินค้ายอดนิยม
-สินค้าใหม่
-สินค้ายอดนิยม
-รหัสสินค้า: RG-NBS3300-8MG2XS-P
-แบรนด์: Ruijie Networks
-RG-NBS3300-8MG2XS-P Ruijie Reyee Layer 2+ Managed PoE Switch 8-Port 2.5G Multi-Gigabit, 2×10G SFP+, PoE Budget 240W
-(0)
-RG-NBS3300-8MG2XS-P Reyee Layer 2+ Managed PoE Switch มี 8 Port 2.5G RJ45 PoE/PoE+, 2 Port 10G SFP+, PoE Budget 240W รองรับ Ruijie Cloud, Reyee App, VLAN, LACP, ERPS, Static Route, DHCP Relay, PoE Watchdog, Camera Detection
-฿0.00
- หยิบใส่ตะกร้า More
-รหัสสินค้า: RG-ES228GS-P-V2
-แบรนด์: Ruijie Networks
-RG-ES228GS-P-V2 Ruijie Reyee 28-Port Gigabit Cloud Managed PoE Switch, 370W, 2×SFP
-(0)
-RG-ES228GS-P-V2 Reyee Cloud Managed PoE Switch ขนาด 28 พอร์ต สำหรับระบบ Network สำนักงาน กล้อง IP Camera และ Access Point รองรับ 24 พอร์ต PoE/PoE+ รวม PoE Budget 370W, 2 พอร์ต Gigabit RJ45 Uplink, 2 พอร์ต 1GE SFP และบริหารจัดการผ่าน Ruijie Cloud
-฿9,250.00
- หยิบใส่ตะกร้า More
-รหัสสินค้า: RG-EG710XS
-แบรนด์: Ruijie Networks
-RG-EG710XS Ruijie Reyee Cloud Managed Router 3Gbps, 700 Clients, 2×10G SFP+, VPN, SD-WAN
-(0)
-RG-EG710XS Reyee Cloud Managed Router สำหรับสำนักงาน โรงแรม และองค์กรหลายสาขา รองรับ Throughput 3Gbps, 700 Clients, 8 Port RJ45, 2 Port 10G SFP+, VPN 300 Branches, SD-WAN, Load Balance, Captive Portal และจัดการผ่าน Ruijie Cloud / Reyee App
-฿10,860.00
- หยิบใส่ตะกร้า More
-รหัสสินค้า: ES210X-M2
-แบรนด์: TP-Link
-TP-LINK ES210X-M2 Omada 8-Port 2.5G Easy Managed Switch SFP+
-(0)
-TP-LINK ES210X-M2 Omada Easy Managed Switch, 8-Port 2.5G, 2 SFP+ รองรับ VLAN 802.1q, Port Mirroring, Loop Prevention, IGMP Snooping สามารถ Manage ผ่าน Omada Cloud Controller
-฿2,890.00
- หยิบใส่ตะกร้า More
-ใหม่
-รหัสสินค้า: RG-ES103F-P
-แบรนด์: Ruijie Networks
-RG-ES103F-P Ruijie Reyee 3-Port 10/100Mbps PoE-In Unmanaged Switch 2-Port PoE+ Out
-(0)
-RG-ES103F-P Ruijie Reyee Unmanaged Switch ขนาดเล็ก 3× 10/100BASE-T Port แบ่งเป็น 1× PoE/PoE+ In และ 2× PoE/PoE+ Out พร้อม PoE Budget 30 W รองรับกล้อง IP พร้อมกันสูงสุด 2 ตัว ติดตั้งได้ทั้ง Wall และ Desk เหมาะสำหรับขยาย Port และระยะเชื่อมต่อในระบบกล้องวงจรปิด
-฿390.00
- หยิบใส่ตะกร้า More
-รหัสสินค้า: RG-ES210GS-P
-แบรนด์: Ruijie Networks
-RG-ES210GS-P Reyee PoE Switch 8 Port Gigabit 120W SFP Combo Cloud Managed
-(0)
-RG-ES210GS-P Reyee Cloud Managed PoE Switch สำหรับสำนักงาน ร้านค้า และระบบ CCTV ขนาดเล็ก มี 8 พอร์ต Gigabit PoE/PoE+, PoE Budget 120W, 1 Combo Port, รองรับ Ruijie Cloud, Reyee App, IP Camera Recognition, Automatic Loop Prevention และ PoE Watchdog
-฿3,150.00
- หยิบใส่ตะกร้า More
-รหัสสินค้า: U7-Lite
-แบรนด์: Ubiquiti
-U7-Lite Ubiquiti UniFi Wi-Fi 7 Access Point, 5.0Gbps, 2.5GbE, PoE
-(0)
-U7-Lite Ubiquiti UniFi Access Point มาตรฐาน Wi-Fi 7 แบบ Dual-Band ความเร็วสูงสุด 5GHz 4.3Gbps และ 2.4GHz 688Mbps รวมประมาณ 5.0Gbps ตามสเปก ครอบคลุมสูงสุด 115 ตร.ม. รองรับผู้ใช้ 200+ พร้อมพอร์ต 2.5GbE ใช้ไฟผ่าน PoE และจัดการผ่าน UniFi Network
-฿3,990.00
- หยิบใส่ตะกร้า More
-รหัสสินค้า: DS425+
-แบรนด์: Synology
-NAS Synology DiskStation DS425+ Network Attatch Storage 4Bay CPU Intel
-(0)
-Synology DiskStation DS425+ Network Attatch Storage (NAS) 4Bay CPU Intel Celeron J4125 4-Core 2.7GHz Ram 2GB สำหรับ Backup และ Share ข้อมูลผ่านระบบเครือข่าย มีความสเถียร ปกป้องข้อมูล
-฿0.00
- หยิบใส่ตะกร้า More
-รหัสสินค้า: UX7
-แบรนด์: Ubiquiti
-UX7 Ubiquiti UniFi Express 7 Cloud Gateway Wi-Fi 7 Router, 10GbE WAN, IDS/IPS 2.3Gbps
-(0)
-UX7 Ubiquiti UniFi Express 7 เป็น Cloud Gateway พร้อม Wi-Fi 7 ในตัว รองรับ 6GHz 5.7Gbps, 5GHz 4.3Gbps และ 2.4GHz 688Mbps รวมประมาณ 10.7Gbps ตามสเปก มี 10GbE WAN, IDS/IPS 2.3Gbps, รองรับผู้ใช้ 300+ และจัดการ UniFi Devices ได้ 30+
-฿8,550.00
- หยิบใส่ตะกร้า More
-รหัสสินค้า: ER703WP-4G-Outdoor
-แบรนด์: TP-Link
-ER703WP-4G-Outdoor TP-Link Omada 4G+ Cat6 AX3000 WiFi 6 Outdoor Gateway
-(0)
-ER703WP-4G-Outdoor TP-Link Omada 4G+ Cat6 AX3000 Wi-Fi 6 Outdoor/Indoor Gateway รองรับเครือข่าย 4G ทุกเครือข่าย, WIFI AX Dual-Band, 3 Port Gigabit, รองรับ IPSec VPN, POE In/Out, รองรับ Omada Controller
-฿6,900.00
- หยิบใส่ตะกร้า More
-รหัสสินค้า: RG-RAP72
-แบรนด์: Ruijie Networks
-RG-RAP72 Ruijie Re
+# SB-133 Gigalight Pte ltd · home · https://gigalight.com.sg/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+Gigalight Pte. Ltd. – Structured Cabling, Fiber Optic Distributor
+Contact Gigalight Today!
+If you are interested in any of our services , Cabling Solution, Data Networking/Telecommunication or a wide range of products, like Softing WireXpert, Giga-Maxx Structured Cabling Solution, please feel free to contact us !
+Contact Info
++65 6353 3679
+enquiry@gigalight.com.sg
+970 Toa Payoh North, #02-04, Singapore 318992
+Address
+970 Toa Payoh North, #02-04, Singapore 318992
+Mon-Fri
+9.00am to 6.00pm
++65 6353 3679
+enquiry@gigalight.com.sg
+HOME
+ABOUT US
+PRODUCTS
+SOLUTIONS
+NEWS
+CONTACT US
+HOME
+ABOUT US
+PRODUCTS
+SOLUTIONS
+NEWS
+CONTACT US
+Fiber Optic Product for LAN/Data Centre
+Rail Signalling and control networks
+Gigalight Products
+Find Out More
+Leading distributor for Cabling Solution,
+Data Networking/Telecommunication
+Gigalight Solutions
+Find Out More
+Follow Us :
+Welcome to Gigalight
+Structured Cabling, Fiber Optic Distributor
+Today Gigalight Pte Ltd has transformed and established ourselves as a leading distributor for Cabling Solution, Data Networking/Telecommunication , services in the region. We carry a wide range of brands/product from leading manufacturers like Softing WireXpert Cable Tester, Giga-Maxx Structured cabling solution, Fiber Optic Product for LAN/Data Centre, Rail Signalling and control networks, Oil and Gas sector and many more.
+Gigalight Pte Ltd also specialized in providing cabling infrastructures, complete range of Interconnection and distribution solution for copper and fibre optic telecom networks, This expertise is available in cables, interconnection components, installation and infrastructure.
+Web Designer
+Artificial Intelligence
+Analysis
+Machine Learning
+Technology
+Cognitive Insights
+30
+0
+Happy Client
+About us
+Our Vision and Future
+Globalization is our vision, we believe the success of our suppliers, and business partners and customers will define our future. Through strategic alliance with leading manufacturers and business partners, we want to support our customers needs in location within the Asia region, we also want to serve as a gateway for both local and foreign companies to expand their business around this region.
+More than 20 aggregated years of experience.
+A leading distributor for Cabling Solution, Data Networking/Telecommunication
+View More
+About Us
+Technology
+Elevate business success with technology
+Artificial Intelligence
+73
+Machine Learning
+79
+Augmented Reality
+85
+Virtual Reality
+64
+Technical Skill
+300
++
+Client Base
+100
++
+Projects Completed
+20
++
+Years of Experience
+How It’s Work
+How does it work?
+01
+Identify Problem
+The very first step to develop a superior product is to identify the problem.
+02
+Requirement Gathering
+After the identification of problem, we gather all the information to craft a solution.
+03
+Brainstorm Ideas
+Keeping in mind the pain point and available information, it goes to brainstorming.
+04
+Solution Architect
+After eliminating all the weak ideas, we work on developing the solution on idea.
+How It Works
+Workflow Management
+Software
+It is a long established fact that a reader will be distracted.
+Read More
+Data Machine Learning
+Marketing
+It is a long established fact that a reader will be distracted.
+Read More
+Web Development
+Technology
+It is a long established fact that a reader will be distracted.
+Read More
+Product Engineering
+Event
+It is a long established fact that a reader will be distracted.
+Read More
+Analytic Solutions
+Technology
+It is a long established fact that a reader will be distracted.
+Read More
+Innovative Interfaces
+Software
+It is a long established fact that a reader will be distracted.
+Read More
+Our Solutions
+Copper Interconnect - Fiber Interconnect Solution
+Cabling Solution
+Electronics Cable / Building & Home Automation Cable / Telecom Cable
+Cabling Solution Accessories
+Telecom Network Accessories
+Optical Fiber Cable
+Optical Distribution Frame
+Fiber Optic Connector / Patchcord Assemblies
+Test Equipment
+Project Management
+View more
+Our Solutions
+Our Clientele
+We are technology partners for the long run.
+Our customers fall under a spectrum of categories ranging from Contractors & System Integrators to Consultants, Building developer and End-Users. Our serves industries as diverse as Building, Banking & Finance, Industrial, Military, Education, Commercial, Oil and Gas, Transportation and Telecom Operators.
+Clients
+Our Team
+Our Experienced Experts
+Team
+Tom Hanks
+Ceo & Founder
+Elissa Garlin
+UI / UX Designer
+Laura Harrier
+Web Devloper
+Albert Martin
+Client Manager
+Rose Leslie
+Business, Phd
+Raymond Bright
+Web Designer
+Pricing Plan
+Choose your pricing plan
+Standard
+$
+10
+/ Month
+10 Keywords
+3 Users
+Structured Data Analysis
+White Label
+Email & Chat Support
+Request Demo
+Advance
+$
+15
+/ Month
+20 Keywords
+5 Users
+Structured Data Analysis
+Email & Chat Support
+White Label
+Request Demo
+Elite
+$
+30
+/ Month
+40 Keywords
+Unlimited User
+Structured Data Analysis
+White Label
+24x7 Phone Support
+Request Demo
+Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Rose Leslie
+CEO
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Albert Martin
+CEO
+We are here to find the best solution for your IT problems.
+Let’s Talk
+Latest News
+NEWS
+Read our latest insights
+26 February, 2025
+New Product
+Introducing the New WireXpert MP Series!
+admin
+0 Comments
+28 February, 2022
+Highlights
+Success Story – LTA approved and installed Giga-Maxx Cat6A S/FTP installation cable
+admin
+0 Comments
+2 July, 2021
+Sales Promotion
+Promotion! Giga-Maxx Mini-type Industrial PoE Media Converter 10/100/1000Base-T to 1000Base-F,IEEE802.3af/at, PoE Power
+admin
+0 Comments
+25 June, 2021
+Termination
+How to terminate Giga-Maxx Cat6A/Cat7 Shielded RJ45 Plug and Giga-Maxx Cat6A 180° FTP Shielded Keystone Jack, Tool less
+admin
+0 Comments
+16 June, 2021
+General
+Giga-Maxx New DIN Rail Mounted Fiber Optic Enclosure is available now!
+admin
+0 Comments
+12 June, 2021
+General
+Introducing A New affordable All in one Multi-functions CCTV Tester
+admin
+0 Comments
+11 June, 2021
+Highlights
+A wide range of 19″ 0.5U/0.65U/1U 24/48 port panel ready in stock
+admin
+0 Comments
+2 June, 2021
+General
+40G/Class FA – Testing high performance twisted pair cabling
+admin
+0 Comments
+1 June, 2021
+Highlights
+Now you can own the WireXpert WX4500 – The first cable certifier with capability to certify the highest performance cabling systems
+admin
+0 Comments
+11 January, 2021
+Highlights
+New Arrival Stock – Giga-Maxx 1U 48 port Cat.6 Unshielded High Density Patch Panel with shutter and Schneider 1U 24 port Patch Panel
+admin
+0 Comments
+Authorized Distributor For
+Gigalight Pte Ltd have a management team with more than 20 aggregated years of experience in the IT cabling, Fiber Optic and Networking sector.
+Home
+About Us
+Products
+Solutions
+News
+Contact Us
+Recent News
+Introducing the New WireXpert MP Series!
+26 February, 2025
+Success Story – LTA approved and installed Giga-Maxx Cat6A S/FTP installation cable
+28 February, 2022
+Contact Us
++65 6353 3679
+enquiry@gigalight.com.sg
+970 Toa Payoh North, #02-04, Singapore 318992
+© 2024 Gigalight Pte. Ltd. | All Rights Reserved | Web Design Smarlling.sg
+Open chat

@@ -1,74 +1,116 @@
 {
- "code": "SB-1110",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（diamondsystems.com，快照 2026-10-21）",
- "summary": "美国 Diamond Systems（小尺寸嵌入式计算：SBC / COM 载板 / PC/104 / 数据采集；以太网交换机为板级产品（EPS-12000-CM 等）；表内「ethernet switch 都是板子，整体是 I/O，优质公司」）；群发 20 次无回复。",
- "type": "嵌入式板级计算制造商（交换机为板卡）",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：Small form factor embedded computing: Single board computer, SBC, Carrier board, COM carri；品类词 工业自动化 / OT 网络 / 无线 / WiFi / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
-   "quote": "3.5\" Form Factor；Jasper；Rugged COM Express carrier board and SBC with 11th Gen Core i7 processor；PC/104；Athena IV；COM-based PC/104 SBC with Data Acquisition",
-   "url": "https://www.diamondsystems.com/",
-   "date": "2026-10-21"
+  "code": "SB-1110",
+  "name_official": "Amine Achoura（阿尔及利亚；个人 gmail）",
+  "researched_at": "2026-10-21",
+  "website_status": "无域名",
+  "summary": "阿尔及利亚联系人（LinkedIn 来源），2023-09 要 WDM 资料（Saga 无 WDM / 光模块，Q-32）；无公司。",
+  "type": "",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "用户表",
+      "claim": "2023-09 发了 WDM 手册和网页→WDM information",
+      "quote": "兴趣：WDM information",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [
+    {
+      "name": "Amine Achoura",
+      "title": "（表内联系人）",
+      "email": "amineachoura21@gmail.com",
+      "phone": "+213 669 116 595",
+      "source": "（本地 Clients/ 表格，无公开 URL）"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "无域名 · 仅表内信息"
   },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "ethernet switch 都是板子 整体是I/O 优质公司",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
+  "company_facts": {
+    "legal_name": "（未知）",
+    "founded": "",
+    "hq": "阿尔及利亚",
+    "size": "",
+    "other": "gmail"
   },
-  {
-   "kind": "官网快照",
-   "claim": "小尺寸嵌入式计算：SBC、载板、COM",
-   "quote": "Small form factor embedded computing: Single board computer, SBC, Carrier board, COM carri…",
-   "url": "https://www.diamondsystems.com/",
-   "date": "2026-10-21"
+  "channels": {
+    "role": "（未知）",
+    "region": "阿尔及利亚"
   },
-  {
-   "kind": "用户表",
-   "claim": "交换机都是板子",
-   "quote": "ethernet switch 都是板子 整体是I/O 优质公司",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
+  "risks": [
+    "需求 WDM（缺口）；身份不明"
+  ],
+  "saga_fit": {
+    "p1": null,
+    "tier": 25,
+    "why": "WDM 不在 Saga 线；无主推型。"
+  },
+  "email_hook": "（不主动发送）",
+  "mail_review": {
+    "binding": {
+      "level": "Elsa 群发 BCC 已触达 2026-05-12「10G Enterprise SFP Switch」（正文「Price: 280usd/pc」，第 74 批(p) 读稿），misc(TR/TN/TZ/NL/SA/BE/RU) 批次 To info@andasis.com，0 回（第 73 批(o) Bcc 头核对 msg 19e1b893e9c06378）；S/A 箱：S/A 邮箱均无往来；来源：用户表「兴趣：WDM information」",
+      "type": "—",
+      "sieve": "—（未入筛）",
+      "stop": "Elsa 群发 BCC 触达过（最近 2026-05-12）无回；S/A 箱从未单独发过",
+      "revive": "不动（非主攻区；J5：有证据再动）",
+      "lane": "阿尔及利亚 非主攻",
+      "cadence": "不动",
+      "evidence": "gmail_digest：out 0；用户表：「兴趣：WDM information」；研究档 risks：需求 WDM（缺口）；身份不明；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To info@andasis.com）2025-03-01→2026-05-12 共 14 轮群发（8 Port Industrial PoE Switch、Marvell Alleycat5 Solution、Commercial Network Switch、Industrial PoE Switch、16 Port Ethernet Switch、48 Port PoE Managed Switch、Mini Industrial PoE Switch、10G Enterprise SFP Switch、Booster PoE Switch、OEM Core Switching Solution、Updated Ethernet Switches Links、Marvell Managed Commercial Switches），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断"
+    },
+    "situation": "阿尔及利亚联系人（LinkedIn 来源），2023-09 要 WDM 资料（Saga 无 WDM / 光模块，Q-32）；无公司。",
+    "need": "WDM 不在 Saga 线；无主推型。",
+    "breakpoint": "需求 WDM（缺口）；身份不明",
+    "saga_now": {
+      "p1": "—",
+      "tier": 25,
+      "price": "按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-05-12 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2026-05-12；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）",
+      "why": "WDM 不在 Saga 线；无主推型。",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "不动",
+      "channel": "—",
+      "action": "—",
+      "one_question": ""
+    },
+    "facts": [
+      {
+        "date": "2025-03-01",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To info@andasis.com，misc(TR/TN/TZ/NL/SA/BE/RU) 批次）",
+        "quote": "8 Port Industrial PoE Switch — This is a Marvell based unmanaged 8 Port Gigabit PoE switch. 1. 30W per port for outdoor IP cameras 2. Support 250-meter PoE distance, PoE watchdog an",
+        "why": "Elsa 箱群发 BCC 触达证据（命中地址 amineachoura21@gmail.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+        "k": "elsa_bcc"
+      },
+      {
+        "date": "2026-05-12",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To info@andasis.com，misc(TR/TN/TZ/NL/SA/BE/RU) 批次）",
+        "quote": "10G Enterprise SFP Switch — 24×1G SFP + 8 combo + 4×10G SFP+ managed, dual AC（价格不在摘要里；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
+        "why": "Elsa 箱群发 BCC 触达证据（命中地址 amineachoura21@gmail.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+        "k": "elsa_bcc"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "兴趣：WDM information",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [
+      "无邮件往来",
+      "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-25"
   }
- ],
- "kp": [],
- "grade_override": "C",
- "override_reason": "品类不符：嵌入式板级制造商（以太网交换机为 PC/104 板卡自研），非整机买家；c_sub=品类不符（板级嵌入式）",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "美国",
-  "other": "官网 diamondsystems.com，语言 ?，快照状态 ok；角色判定来源：待核"
- },
- "business_lines": [
-  "嵌入式 SBC / 载板 / 数据采集 / 板级以太网交换"
- ],
- "channels": {
-  "role": "嵌入式板级计算制造商（交换机为板卡）",
-  "region": "美国",
-  "contact": "safnani@diamondsystems.com、gkochno@diamondsystems.com"
- },
- "signals": [
-  "官网：Single board computer, SBC, Carrier board, COM carrier；产品 Jasper / Athena IV / Helios",
-  "站内型号 EPS-12000-CM / DS-MPE-GE210 / E104-MPE"
- ],
- "risks": [
-  "品类不符：以太网交换机为板级自研产品（EPS 系列），不采购整机",
-  "20 次无回复"
- ],
- "saga_fit": {
-  "p1": null,
-  "tier": 25,
-  "why": "交换机均为板级（PC/104 / COM 载板）自研产品，非整机采购 → 品类不符 → 改 C"
- },
- "email_hook": "（不发送：板级嵌入式产品，品类不符）"
 }

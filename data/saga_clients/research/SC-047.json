@@ -1,0 +1,75 @@
+{
+ "code": "SC-047",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（indusolamerica.com，快照 2026-10-21）",
+ "summary": "美国 InduSol America LLC（德国 Indu-Sol GmbH 的美国公司：OT 网络诊断 / 预测性维护工具，PROFINET / PROFIBUS / EtherNet/IP；自有 PROMESH 工业交换机为 Indu-Sol 德国自产；表内「工业 FS 都是 Promesh 这个牌子，可能是他们自己的品牌」）；群发 10 次无回复。",
+ "type": "厂商海外公司（Indu-Sol PROMESH，自产）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：OT Network Troubleshooting & Predictive Maintenance | InduSol America LLC；品类词 工业自动化 / OT 网络 / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "Stop unplanned downtime. PROFINET, PROFIBUS, EtherNet/IP, ASi and more troubleshooting tools and permanent network monitoring to find faults before they halt production.",
+   "url": "https://indusolamerica.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "工业FS 都是Promesh这个牌子 可能是他们自己的品牌",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "OT 网络故障诊断与预测性维护",
+   "quote": "Stop unplanned downtime. PROFINET, PROFIBUS, EtherNet/IP, ASi and more troubleshooting tools and permanent network monitoring",
+   "url": "https://indusolamerica.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "工业 FS 全是 PROMESH 自有品牌",
+   "quote": "工业FS 都是Promesh这个牌子 可能是他们自己的品牌",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "厂商海外公司：德国 Indu-Sol GmbH 自产 PROMESH 工业交换机，美国公司为销售/服务机构，非 OEM 买家；c_sub=厂商办事处/同行",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "美国",
+  "other": "官网 indusolamerica.com，语言 en，快照状态 ok；角色判定来源：用户表"
+ },
+ "business_lines": [
+  "OT 网络诊断 / 监测工具",
+  "PROMESH 工业交换机（自产）"
+ ],
+ "channels": {
+  "role": "厂商海外公司（Indu-Sol PROMESH，自产）",
+  "region": "美国",
+  "contact": "info@indusolamerica.com、rufo.rincon@indusolamerica.com"
+ },
+ "signals": [
+  "官网：OT 网络诊断与预测性维护（PROFINET/PROFIBUS/EtherNet/IP/ASi）",
+  "站内型号 P28-RL / B28-RL（PROMESH）"
+ ],
+ "risks": [
+  "厂商办事处非客户（INH 规则）：Indu-Sol GmbH 自产 PROMESH 工业交换机",
+  "群发 10 次无回复"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 25,
+  "why": "Indu-Sol 自产 PROMESH 工业交换机（德国），美国公司为其销售/服务机构 → 非 OEM 买家，无对位；按「厂商办事处非客户」口径改 C"
+ },
+ "email_hook": "（不发送：厂商海外公司，自产 PROMESH 交换机）"
+}

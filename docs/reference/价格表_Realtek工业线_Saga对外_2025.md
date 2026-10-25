@@ -7,7 +7,7 @@
 ## 0. 怎么用（口径）
 
 - **价是 2025-04 的 USD 列表价（汇率约 7.2）**，再报前按当日汇率与 Realtek ≥20% 线重核（@6.69 大约 +8%）；格式仍是 `$xx USD EXW（快照日期，15 天有效）`。
-- **不是主推**：Simon 自己在 Netaş 线程里的判断（2026-02-27 Alan 原话）「For Realtek, it is even far from enough, the management functions are even worse than Marvell」——所以只在客户**自己说出 Realtek / 要低价 / 功能要求简单**时给（SA-052 型），L3 要 PIM-SM/DM、RIPng、PBR、IS-IS 的项目不要拿它顶。
+- **不是主推**：Simon 自己在 Netaş 线程里的判断（2026-02-27 Alan 原话）「For Realtek, it is even far from enough, the management functions are even worse than Marvell」——所以只在客户**自己说出 Realtek / 要低价 / 功能要求简单**时给（SA-035 型），L3 要 PIM-SM/DM、RIPng、PBR、IS-IS 的项目不要拿它顶。
 - **保修 3 年**（工业线规则，见口径表 #6）；**电源与光模块不含**；GUI 加客户型号名免费 MOQ 1，加 Logo 免费 MOQ 50；<50 台交期 5~7 个工作日。
 - **PoE 机型共性（列表原话）**：2 个 bt 口 + 2 个口自动识别 24V/48V PD（passive-PoE 项目有用——WISP / MikroTik / Ubiquiti 用户的 24V 设备）；`-UP` 款 12V 输入仍可供 PoE（升压，最大 120W）。
 - 和 Marvell 线同名撞车：**STI-480XGGM** 在 Realtek 工业表 $145（L3，4×10G SFP + 8 GE），在 Marvell 价格主表 $253（L3）——报价前写清是哪条线，别让同一客户看到两个价。
@@ -61,15 +61,15 @@
 | STI-220DGGE | 2×2.5G SFP + 2×GE | $32 | |
 | STI-240DGGE | 2×2.5G SFP + 4×GE | $38 | |
 
-共性（目录原话）：双 DC12~57V 输入、-40~+75℃、IP40、6KV 浪涌 / 8KV ESD、CE-EMC/LVD、FCC Part 15 B、RoHS、**Warranty 3 Years**、每 100 台送 2 台备机代替 RMA；SFP 与电源不含。**同名撞车**：价格主表（SmartByte 线）也有 STI-110GE $29.7、STI-050GE 等——Thu（SA-011）2026-09 PI 的 STI-110GE 走的是哪条线，看 PI 单价。
+共性（目录原话）：双 DC12~57V 输入、-40~+75℃、IP40、6KV 浪涌 / 8KV ESD、CE-EMC/LVD、FCC Part 15 B、RoHS、**Warranty 3 Years**、每 100 台送 2 台备机代替 RMA；SFP 与电源不含。**同名撞车**：价格主表（SmartByte 线）也有 STI-110GE $29.7、STI-050GE 等——Thu（SA-006）2026-09 PI 的 STI-110GE 走的是哪条线，看 PI 单价。
 
 ## 3. 这页对谁有用（已写进各户 `saga_now.gaps`）
 
-- **SA-052 FARADAY（圣彼得堡）**：2024-05-21「We use Realtek… not hi-end, but reliable」、要 DIN 8 口 L3 管理 PoE 带 watchdog——Marvell STI-488XGGPM 报 $350 被一句「350USD?」顶回。**对位款：STI-488XGGPM-2BT（L3，$170）/ STI-288GPM-2BT（L2，$110）**，watchdog 列表未写（待核）。是否对俄开这条线仍是 Simon 定。
-- **SC-1483 DEALER Co（俄罗斯）**：L2 DIN 2×SFP + 8×PoE 240W 项目，2024 报 Marvell $120 → 对位 STI-288GPM-2BT $110（量产再核）。
-- **SB-089 Linxcom（500 台项目）**：100 台「8 口 2BT 管理 PoE」有对位（STI-288GPM-2BT $110 vs Marvell STI-288DGGPM-2BT $154）；400 台「24 口 10G 上联 L3 PoE」**没有对位**（Realtek 线最大 16 PoE 且无 L3 PoE 24 口）——只能半套。
-- **SB-459 Andy（「我有更便宜的」）**：L3 DIN 24 PoE 无对位；8 口 L3 PoE 有（$170）——但他要的是 24 口，别硬塞。
-- **SB-473 Netaş**：2026-02-27 已看过并问过这三款 L3，Alan 已答「功能比 Marvell 还弱」；车载 L3（PIM-SM/DM、RIPng、PBR、IS-IS）不要再拿它答。
+- **SA-035 FARADAY（圣彼得堡）**：2024-05-21「We use Realtek… not hi-end, but reliable」、要 DIN 8 口 L3 管理 PoE 带 watchdog——Marvell STI-488XGGPM 报 $350 被一句「350USD?」顶回。**对位款：STI-488XGGPM-2BT（L3，$170）/ STI-288GPM-2BT（L2，$110）**，watchdog 列表未写（待核）。是否对俄开这条线仍是 Simon 定。
+- **SB-1135 DEALER Co（俄罗斯）**：L2 DIN 2×SFP + 8×PoE 240W 项目，2024 报 Marvell $120 → 对位 STI-288GPM-2BT $110（量产再核）。
+- **SB-160 Linxcom（500 台项目）**：100 台「8 口 2BT 管理 PoE」有对位（STI-288GPM-2BT $110 vs Marvell STI-288DGGPM-2BT $154）；400 台「24 口 10G 上联 L3 PoE」**没有对位**（Realtek 线最大 16 PoE 且无 L3 PoE 24 口）——只能半套。
+- **SB-474 Andy（「我有更便宜的」）**：L3 DIN 24 PoE 无对位；8 口 L3 PoE 有（$170）——但他要的是 24 口，别硬塞。
+- **SA-086 Netaş**：2026-02-27 已看过并问过这三款 L3，Alan 已答「功能比 Marvell 还弱」；车载 L3（PIM-SM/DM、RIPng、PBR、IS-IS）不要再拿它答。
 - **passive-PoE 24V 场景（WISP / MikroTik / Ubiquiti 用户）**：PoE 款 2 口自动识别 24V/48V PD 是这条线独有的一句话卖点；口径 #17 里对 MikroTik 用户可加这半句（仅限工业 DIN 场景）。
 
 ## 4. 不要做的

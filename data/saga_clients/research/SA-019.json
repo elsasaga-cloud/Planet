@@ -1,297 +1,267 @@
 {
  "code": "SA-019",
- "name_official": "CXR Networks（CXR Anderson Jacobson, Abondant, France）",
+ "name_official": "ALLNET GmbH Computersysteme（Germering bei München）",
  "website_status": "在线",
- "summary": "法国电信设备厂商（1974 年成立，曾属 EMRISE 集团），面向地方政府、国防、能源、运营商、交通市场，自有品牌工业加固交换机 SWMD-H / SWMDL-H / FOCD-H 系列（DIN 导轨 PoE+、10G 工业管理型，2026-08 仍在发新品）。用户表：S 重点，兴趣 MC/机架/工业 FS（很多设备）/周边，用自己的牌子，1 次实质回复。（2026-10-24 并入曾用编号 SB-1340：补录时按 cxr.fr 另建的重复档）",
- "type": "品牌商/贴牌需求（OEM/ODM）——工业网络设备自有品牌",
- "size": "未见人数；历史悠久的中型设备商",
+ "summary": "德国增值分销商 + 自有品牌厂商（1991 年成立，Wolfgang Marcus Bauer），分销网络/无线/UCC/视频监控/安全/测量产品，并以 ALLNET 品牌自产网络、电信、WLAN、视频监控产品；2013 年营收 €5,800 万（德国分销商第 27 位）。用户表：A 已回复，自己的 logo、工业 FS/MC/SFP/周边，有 E-link 的产品。",
+ "type": "分销商 + 自有品牌（ALLNET，OEM 采购）",
+ "size": "€58M 营收（2013，channelpartner）",
  "brands_seen": [
-  "CXR"
+  "ALLNET",
+  "E-link"
  ],
  "evidence": [
   {
-   "kind": "官网（新闻）",
-   "claim": "2026-08 发布自有品牌 DIN 导轨 PoE+ 工业交换机 SWMDL-H-4GPS-2USF-B 与 10G 工业交换机 SWMD-H-16TG-4GSF-4SFP+",
-   "quote": "Reduce your infrastructure costs with the SWMDL-H-4GPS-2USF-B switch 18/08/2026 … Compact DIN-rail form factor … Discover the CXR SWMD-H-16TG-4GSF-4SFP+ industrial switch",
-   "url": "https://www.cxr.com/en/news/",
+   "kind": "第三方（Wikipedia）",
+   "claim": "定位：增值分销 + 自产 ALLNET 品牌产品",
+   "quote": "Die ALLNET GmbH Computersysteme ist ein deutscher Value add Distributor für Produkte im Bereich der Netzwerktechnik … Das Unternehmen produziert und vermarktet und dem Namen \"ALLNET\" zudem Produkte",
+   "url": "https://de.wikipedia.org/wiki/ALLNET",
    "date": "2026-10-21"
   },
   {
-   "kind": "第三方（Tracxn）",
-   "claim": "产品组合含工业 PoE/L3 以太网交换机",
-   "quote": "Its product portfolio includes Ethernet switch, carrier Ethernet, Gigabit Ethernet Level 3 or Ethernet Industrial, Gigabit POE Industrial, Industrial DIN or l POE",
-   "url": "https://tracxn.com/d/companies/cxr/__05FT_y-RdFCUpyaLxwaVCJCPXWWwu7lYSUFd9KdNeTs",
+   "kind": "第三方（channelpartner）",
+   "claim": "体量",
+   "quote": "Platz 27: Allnet · Unternehmen: Allnet GmbH Computersysteme Schwerpunkt: Netzwerke Umsatz: 58 Mio. Euro (2013)",
+   "url": "https://www.channelpartner.de/g/die-groessten-distributoren-in-deutschland-rangliste-nach-umsatz,109904,5",
    "date": "2026-10-21"
   },
   {
-   "kind": "第三方（eTesters）",
-   "claim": "地址与总机邮箱",
-   "quote": "CXR ANDERSON JACOBSON · Phone:33(0)237 628 800 · Email:contact@cxr.com · Address:17 Rue de l'Ornette Abondant, 28410 France",
-   "url": "https://www.etesters.com/catalog/0008F00E-1422-08DF-AABB-60B5947A8C9F/cxr-larus-corporation",
+   "kind": "官网",
+   "claim": "销售/新客户邮箱",
+   "quote": "Neukundenbetreuung Mail: neukunde(at)allnet.de · Vertrieb allgemein (Sales) Mail: sales(at)allnet.de Tel.: (089) 894-222-22",
+   "url": "https://distribution.allnet.de/contact-allnet-distribution.html",
    "date": "2026-10-21"
   },
   {
-   "kind": "官网 PDF",
-   "claim": "SWMD-H 系列型号表（4/8/10 口，PoE 120/240W，-40~75/85℃）",
-   "quote": "SWMD-H-4TG-2GSF | SWMD-H-8TG-2GSF | SWMD-H-10TG-2GSF … Dual DC 12 ~ 55V … -40 ~ 85°C … SWMD-H-4TGPS-2GSF | SWMD-H-8TGPS-2GSF | SWMD-H-8TGPS-2TG-2GSF … PoE Power 120W 240W 240W … Dual DC 48 ~ 55V … -40 ~ 75°C",
-   "url": "https://www.cxr.com/documents/brochures/swmd_h_series_uk.pdf",
+   "kind": "官网",
+   "claim": "ALL-SGI8004P 工业 4 口 bt + 2 SFP 180W DIN",
+   "quote": "ALLNET switch unmanaged industrial 4-port Gigabit 180W / 2x PoE bt / 2x SFP / fanless / DIN / IP40 / ALL-SGI8004P … 2x HighPower PoE ports, up to 90 Watt per port",
+   "url": "https://www.allnet.de/en/allnet-brand/produkte/industrial-switches/switches/p/allnet-switch-unmanaged-industrial-4-port-gigabit-120w-2x-poe-2x-sfp-luefterlos-din-ip40/",
    "date": "2026-10-21"
   },
   {
-   "kind": "官网 PDF",
-   "claim": "SWMD-H-8TPG-2GSF 满载 246W@52V，30W/口，163×110×46.5 mm，-40~75℃",
-   "quote": "No-load power: 6W@52V DC Full load power: 246W@52V DC (POE full load output) Max. power for single port: 30W … Installation：DIN-Rail Dimension（LxWxH）：163mm×110mm×46.5mm … Operating Temperature：-40〜75°C",
-   "url": "https://www.cxr.com/documents/brochures/swmd_h_8tpg_2gsf_uk.pdf",
+   "kind": "官网",
+   "claim": "ALL-SGI8016PM 工业 L3 PoE 16 口（12 PoE + 4 SFP）",
+   "quote": "ALLNET ALL-SGI8016PM is a professional yet affordable industrial L3 PoE switch with 16 Gigabit ports, supporting up to 12*10/100/1000M PoE downlink ports and 4* 1000M SFP ports",
+   "url": "https://www.allnet.de/en/allnet-brand/produkte/industrial-switches/switches/p/allnet-switch-managed-l2-l3-industrial-12-port-gigabit-12/",
    "date": "2026-10-21"
   },
   {
-   "kind": "官网 PDF",
-   "claim": "SWMDH-3016 16 口 DIN PoE 管理平台",
-   "quote": "CXR's SWMDH-3016 Series is a hardened DIN-rail mounted 16-port Gigabit switching platform … 12 x 10/100/1000BASE-TX (8 x PoE … SWMDH-3016-12P-4S-2D … (44～57VDC), DIN mount, -40°~75°operating",
-   "url": "https://www.cxr.com/documents/brochures/swmdh_3016_uk.pdf",
+   "kind": "零售渠道",
+   "claim": "2025-05-26 新品 ALL-SGI8112PM-BT（JSON API）",
+   "quote": "ALLNET Industrial Switch fully managed Layer 2+ with 12 ports GbE or PoE, budget 240W, 8x PoE BT, 4x SFP, fanless, DIN, JSON API, model ALL-SGI8112PMJ-BT … Release date · 26.5.2025",
+   "url": "https://www.galaxus.ch/en/s1/product/allnet-switch-industrial-full-managed-layer2-gbe-poe-budget-240w-8x-bt-12-ports-network-switches-58884553",
    "date": "2026-10-21"
   }
  ],
  "kp": [
   {
-   "name": "—",
-   "role": "总机",
-   "email": "contact@cxr.com",
-   "phone": "+33 2 37 62 88 00",
-   "source": "https://www.etesters.com/catalog/0008F00E-1422-08DF-AABB-60B5947A8C9F/cxr-larus-corporation"
+   "name": "Wolfgang Marcus Bauer",
+   "role": "Geschäftsführer",
+   "email": "",
+   "phone": "+49 89 894 222-22",
+   "source": "https://www.allnet.de/impressum.html"
   },
   {
-   "name": "Marco Di Valerio",
+   "name": "Gerhard Zerwes",
    "role": "来信署名人（职务未在邮件署名里出现）",
-   "email": "marco.divalerio@cxr.fr",
+   "email": "zerwes@allnet.de",
    "phone": "",
-   "source": "S/A 邮箱来信 2024-05-30 来信 1 封（第 72 批从邮件表头补）"
+   "source": "S/A 邮箱来信 2024-06-04 → 2025-07-10 来信 3 封（第 72 批从邮件表头补）"
   }
  ],
- "notes": "A 确认（欧洲自有品牌工业交换机厂商 = OEM 目标）；注意其终端市场含国防，Saga 只做 ODM 供货不涉项目。P1 = STI-288DGGPM（DIN 工业 L2+ PoE）或 STI-488XGGPM，30% OEM 档。",
+ "notes": "A 维持（用户 A 已回复 + 自有品牌已从中国 E-link 采购）；体量偏大但贴牌采购决策在产品经理层，可做。P1 = STI-288DGGPM（工业 PoE 贴牌），30% 档；强调 Marvell 方案与 L2+ 固件差异化。",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
   "level": "深挖 v1"
  },
  "company_facts": {
-  "legal_name": "CXR Networks（CXR Anderson Jacobson）",
-  "founded": "1974",
-  "hq": "Abondant, France",
-  "other": "自有 BDROS 平台的工业交换机品牌（SWMD-H 系列为典型华南 ODM 公版贴牌：IP40、6KV 防雷、DIN、-40~75/85℃）"
+  "legal_name": "ALLNET GmbH Computersysteme",
+  "founded": "1991（Wolfgang Marcus Bauer）",
+  "hq": "Germering bei München, Germany",
+  "revenue": "€58M（2013 口径，待更新）",
+  "other": "自有品牌 ALLNET 工业交换机全线（ALL-SGI 系列：Entry Line 非管理 / smart managed / full managed L2+，含 bt 90W、JSON API），2025-05 仍在发新品；也供应 Reichelt、Galaxus 等零售渠道"
  },
  "business_lines": [
-  "工业加固交换机 SWMD-H（DIN，4/8/10 口千兆 ±PoE，2 SFP；L3-lite 版）",
-  "SWMDH-3016 16 口 DIN PoE 管理型",
-  "SWMD-H-8TPS-2GX 百兆 PoE DIN",
-  "加密路由/传输/MC（地方政府、国防、能源、运营商、交通）"
+  "增值分销（网络/无线/UCC/视频监控/安全/测量）",
+  "ALLNET 品牌：工业 DIN 交换机 ALL-SGI 系列、商用交换机、WLAN、监控、电信",
+  "欧洲渠道（ALLNET Italia 等子公司）"
  ],
  "products_seen": [
   {
-   "brand": "CXR",
-   "model": "SWMD-H-8TGPS-2GSF / 8TPG-2GSF",
-   "spec": "DIN 8×GE PoE + 2 SFP，240W（246W@52V 满载），-40~75℃，IP40，6KV；163×110×46.5 mm",
-   "url": "https://www.cxr.com/documents/brochures/swmd_h_8tpg_2gsf_uk.pdf",
-   "date": "2026-10-21",
-   "saga": "STI-288DGGPM"
-  },
-  {
-   "brand": "CXR",
-   "model": "SWMD-H-4TGPS-2GSF",
-   "spec": "DIN 4×GE PoE + 2 SFP，120W",
-   "url": "https://www.cxr.com/documents/brochures/swmd_h_series_uk.pdf",
+   "brand": "ALLNET",
+   "model": "ALL-SGI8004P",
+   "spec": "工业非管理 4×GE（2×PoE bt 90W）+ 2 SFP，180W，无风扇，DIN，IP40（Art. 189228）",
+   "url": "https://www.allnet.de/en/allnet-brand/produkte/industrial-switches/switches/p/allnet-switch-unmanaged-industrial-4-port-gigabit-120w-2x-poe-2x-sfp-luefterlos-din-ip40/",
    "date": "2026-10-21",
    "saga": "STI-144GP"
   },
   {
-   "brand": "CXR",
-   "model": "SWMD-H-8TG-2GSF-L",
-   "spec": "8 GE + 2 SFP L3-lite 管理，双 12–55VDC，-40~85℃，MTBF 80 万小时",
-   "url": "https://www.cxr.com/documents/brochures/swmd_h_8tg_2gsf_l_uk.pdf",
+   "brand": "ALLNET",
+   "model": "ALL-SGI8206v2P",
+   "spec": "工业非管理 4×GE PoE（3 at + 1 bt）+ 2 combo，150W，-40~75℃，110×163×46 mm",
+   "url": "https://www.allnet.de/en/allnet-brand/produkte/industrial-switches/switches/p/allnet-all-sgi8206pm-unmanaged-industrial-switch-4-port-hpoe-gigabit-2x-combo-tpsfp/",
+   "date": "2026-10-21",
+   "saga": "STI-144GP"
+  },
+  {
+   "brand": "ALLNET",
+   "model": "ALL-SGI8108v2",
+   "spec": "工业非管理 8×GE + 2 SFP，DIN，IP40",
+   "url": "https://www.allnet.de/en/allnet-brand/produkte/industrial-switches/switches/",
    "date": "2026-10-21",
    "saga": "STI-288DGGPM（非 PoE 版待核）"
   },
   {
-   "brand": "CXR",
-   "model": "SWMDH-3016-12P-4S-2D",
-   "spec": "DIN 12×GE（8 PoE，60W）+ 4 SFP，44–57VDC 双电源，-40~75℃",
-   "url": "https://www.cxr.com/documents/brochures/swmdh_3016_uk.pdf",
+   "brand": "ALLNET",
+   "model": "ALL-SGI8104PM",
+   "spec": "工业管理 4×GE PoE af/at + 2 SFP，DIN（Art. 174877）",
+   "url": "https://cdn-reichelt.de/documents/datenblatt/E910/ALLNET_SGI8104PM_DB-DE.pdf",
    "date": "2026-10-21",
-   "saga": "STI-21616GP（16 口位）"
+   "saga": "STI-144GP（管理版待核）"
   },
   {
-   "brand": "CXR",
-   "model": "SWMD-H-8TPS-2GX",
-   "spec": "DIN 8×FE PoE + 2 GE/SFP，180W",
-   "url": "https://www.cxr.com/en/produits/swmd-h-8tps-2gx-169.html",
+   "brand": "ALLNET",
+   "model": "ALL-SGI8016PM",
+   "spec": "工业 L2+/L3 管理 12×GE PoE+ + 4 SFP，360W，DIN（Art. 189896）",
+   "url": "https://www.allnet.de/en/allnet-brand/produkte/industrial-switches/switches/p/allnet-switch-managed-l2-l3-industrial-12-port-gigabit-12/",
    "date": "2026-10-21",
-   "saga": "STI-288DGGPM（千兆升级位）"
+   "saga": "STI-21616GP"
+  },
+  {
+   "brand": "ALLNET",
+   "model": "ALL-SGI8112PM-BT（JSON API）",
+   "spec": "工业 full managed L2+ 12 口，8×bt，240W，4 SFP，2025-05-26 上市",
+   "url": "https://www.galaxus.ch/en/s1/product/allnet-switch-industrial-full-managed-layer2-gbe-poe-budget-240w-8x-bt-12-ports-network-switches-58884553",
+   "date": "2026-10-21",
+   "saga": "STI-288DGGPM（bt 版待核）"
   }
  ],
  "channels": {
-  "网站": "https://www.cxr.com/（型号页 + PDF 手册）",
-  "直邮": "contact@cxr.com；marco.divalerio@cxr.com（用户表）"
+  "网站": "https://www.allnet.de/en/allnet-brand/produkte/industrial-switches/switches/",
+  "直邮": "zerwes@allnet.de（用户表，A 已回复）",
+  "零售渠道": "Reichelt / Galaxus / ALLNET Italia 网店"
  },
  "signals": [
-  "SWMD-H 系列手册「Version 1.0」+ 2026-08 新品——仍在扩充 ODM 来源的工业线（用户首轮调研 + 2026-10-21）",
-  "用户表：S 重点，1 次实质回复，用自己的牌子，「很多设备」"
+  "2025-05-26：新品 ALL-SGI8112PM-BT 上市（JSON API）——ALLNET 工业线仍在迭代、持续 ODM 采购（Galaxus 2026-10-21）",
+  "用户表：A 已回复，自己的 logo，工业 FS/MC/SFP/周边，有 E-link 的产品"
  ],
  "risks": [
-  "客户面向国防/交通/能源——国防项目守界，只供民用 ITS/能源/市政",
-  "已有 ODM 来源（规格与华南公版一致），Saga 需以 Marvell 平台 + 固件可定制（BDROS 风格 CLI）切入"
+  "大型分销商 + 成熟 ODM 供应链（E-link 等），切入门槛是价格与 ERP/EAN/包装合规（德语说明书、WEEE、CE 文件）",
+  "对 Marvell 平台无特殊偏好，需以某一空缺型号（如 8 口 bt 管理 DIN）切入而非整线替换"
  ],
  "saga_fit": {
   "p1": "STI-288DGGPM",
   "tier": 30,
-  "why": "SWMD-H-8TGPS-2GSF（8 GE PoE + 2 SFP DIN 240W）与 STI-288DGGPM 同规格同位；4 口版→STI-144GP；16 口→STI-21616GP；贴 CXR 标 30% 档"
+  "why": "ALLNET ALL-SGI 系列从 4 口到 16 口与 Saga STI 工业线一一对应（SGI8004P/8206v2P→STI-144GP；SGI8108v2/8112PM→STI-288DGGPM；SGI8016PM→STI-21616GP）；贴 ALLNET 标 30% 档，但分销体量按 25% 谈"
  },
- "email_hook": "Your SWMD-H-8TGPS-2GSF sits on the same 8-port gigabit PoE + 2 SFP DIN footprint we build on a Marvell switch core, so I am quoting that unit in CXR packing first, with the 4-port 120 W version as the second SKU.",
+ "email_hook": "Across the ALL-SGI line the 8-port gigabit PoE managed DIN unit with 2 SFP is where a Marvell-based second source makes the most sense, so I am quoting that in ALLNET packing with full CE/RoHS documentation, and can add the 4-port bt version if useful.",
  "mail_review": {
   "binding": {
-   "level": "未绑定（COO 2024-05-30 要 10G MC 规格书 → 65 USD → 无下文；Elsa 箱：`to:cxr.com OR to:cxr.fr` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 26 / 来 1）（第 74 批(g)））",
-   "type": "法国自有品牌工业网络厂商（含国防终端市场——只 ODM 供货）；Marco Di Valerio（COO）",
-   "sieve": "2",
-   "stop": "65 USD 10G MC 报价后无回；此后 25 封群发无回",
-   "revive": "其工业线补 SKU（非 MC）",
-   "lane": "FR/EU",
-   "cadence": "2024-05 → 2026-09 去信 26 封；最后来信 2024-05-30",
-   "evidence": "k=afbdeb9d5505018c / 696d6a213ad761ca；曾用编号 SB-1340（cxr.fr 补录重复档）2026-10-24 并入"
+   "level": "未绑定（产品经理 Gerhard Zerwes 明确「we have our solution」；Elsa 箱：`to:.de` 穷举 29 条（2026-10-25，锚批 Bcc 头已读）未见 allnet.de → Elsa 箱从未发过本户，往来只在 S/A 箱（去 21 / 来 3）（第 74 批(f)））",
+   "type": "德国分销 + 自有品牌 ALLNET（€58M）——既有白牌来源（E-link 等）",
+   "sieve": "1",
+   "stop": "2025-07-10「sorry we have our solution with SFP Slots and Managed Versions」——供给已满足",
+   "revive": "其现供应商断供/涨价；或要 Marvell L2+ 特定功能（ERPS/PIM-SM/IPv6）",
+   "lane": "DE（主攻区）",
+   "cadence": "2024-06 → 2026-10 去信 21 封；最后来信 2025-07-10；Gerhard 每年 5–6 月在亚洲（Computex 台北）",
+   "evidence": "k=3bed67df76fec9ba / 27176790332e9c58 / 15f87700ebc70348"
   },
-  "situation": "COO 亲自回信要规格书，Simon 报 65 USD。之后两年群发无回——COO 不是群发收件对象的合适层级。",
-  "need": "10G MC（当时）。",
-  "breakpoint": "MC 价格流 + 层级错配。",
+  "situation": "ALLNET 的产品经理 Gerhard Zerwes 是真人回复：2025-07-10 对 16 口 DIN 群发回「我们已有带 SFP 槽和管理型的方案」。他每年 5–6 月去 Computex 并在亚洲停留一个月（2024 自动回复）。Saga 之后继续每月一封群发到 sales@/zerwes@，无回。",
+  "need": "自有品牌 ALLNET 工业/商用交换机货源——目前已满足。",
+  "breakpoint": "对方不是没需求而是已有供给；只有「供给侧变化」才是入口，不是更多产品图。",
   "saga_now": {
-   "p1": "STI-288DGGPM / STI-488XGGPM（工业 L2+）",
+   "p1": "STI-288DGGPM（若其 E-link 线出现缺口）",
    "tier": 30,
-   "price": "换人再触锚价 STI-288DGGPM $137.5 EXW（2026-06 PDF 上限 $137.5（档位 139.9–151.6 超上限；Angora/Astel 实报 $125 为成单户价）；第 72 批 2026-10-24）；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-19 $300（48 Port PoE Managed Switch）、2025-10-29 $280（10G Enterprise SFP Switch）、2026-07-20 $1500（24 Port 10G SFP+ Switch）、2026-09-08 $170（24 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2025-08-27 $240（24 Port Fiber Switch）",
-   "why": "保活。已打开的主题（7/26 封有打开记录）：「Re: 10g media converter」(2024-07-23)、「Mini Industrial PoE Switch」(2024-12-11)、「Industrial PoE Switch」(2025-09-30)、「Updated Ethernet Switches Links」(2026-03-02) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续",
+   "price": "换人再触锚价 STI-288DGGPM $137.5 EXW（2026-06 PDF 上限 $137.5（档位 139.9–151.6 超上限；Angora/Astel 实报 $125 为成单户价）；第 72 批 2026-10-24）；按 30% 自有标档；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-05 $220（48 port managed switch）、2026-10-08 $180（24 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-17 $280（10G Enterprise SFP Switch）",
+   "why": "保活不推销。已打开的主题（2/21 封有打开记录）：「16 Port Ethernet Switch」(2025-07-09)、「Re: 16 Port Ethernet Switch」(2025-07-11) → 读者兴趣主题类别不明（看原主题）",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "2027-Q1",
-   "channel": "S 邮箱 → marco.divalerio@cxr.fr",
-   "action": "一句话问外采范围（第 75 批(o) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用；换人/一问口径）；10G MC $65 = Simon 2024 实报，仍按 $65）（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
-   "one_question": "Which CXR industrial SKUs are bought-in rather than built in Abondant, and would a Marvell L2+ DIN unit be considered? Reference: STI-288DGGPM at $137.5 USD EXW (MOQ 1, 15-day validity)."
+   "when": "2027-Q1（之前只保活）；或 2027-05 Computex 期间当面",
+   "channel": "S 邮箱 → zerwes@allnet.de",
+   "action": "一句话问其工业线最难采购的 SKU（第 75 批(o) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用；换人/一问口径）；无价、只一问（对方已明说有方案））（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
+   "one_question": "Which SKU in the ALLNET industrial line is hardest to source today — lead time or price? Reference: STI-288DGGPM at $137.5 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
    {
-    "date": "2024-05-30",
+    "date": "2024-06-04",
     "dir": "来",
-    "who": "Marco Di Valerio（COO）",
-    "quote": "please could you send data sheet please",
-    "why": "要规格书",
-    "k": "afbdeb9d5505018c"
+    "who": "Gerhard Zerwes（自动回复）",
+    "quote": "business trip in Asia from 24.05.2024 to 23.06.24 inclusive with a trade fair in Taiwan \"Computex\"",
+    "why": "每年亚洲行",
+    "k": "3bed67df76fec9ba"
    },
    {
-    "date": "2024-05-30",
-    "dir": "去",
-    "who": "Simon",
-    "quote": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged",
-    "why": "报价后停",
-    "k": "696d6a213ad761ca"
+    "date": "2024-06-04",
+    "dir": "来",
+    "who": "zerwes@allnet.de",
+    "quote": "Automatische Antwort: 10G media converter｜Sehr geehrte Partner,  vielen Dank f?r Ihre Email. Ich bin vom 24.05.2024 bis einschl. 23.06.24 auf Gesch?ftsreise in Asien mit Messe in Taiwan \"Compu",
+    "why": "自动回复/退信/工单（机器，不算人工回复）",
+    "k": "3bed67df76fec9ba"
    },
    {
-    "date": "2024-05-30",
+    "date": "2024-07-03",
     "dir": "去",
     "who": "S 箱（Simon）",
-    "quote": "10g media converter",
-    "why": "首封去信（邮箱索引；去信共 26 封）",
-    "k": "ae8dc264c029716e"
+    "quote": "24 port managed switch",
+    "why": "首封去信（邮箱索引；去信共 21 封）",
+    "k": "8c23e12b3ebab7af"
    },
    {
-    "date": "2024-05-30",
-    "dir": "去",
-    "who": "S 箱（Simon）",
-    "quote": "Re: 10g media converter｜稿内价 $65",
-    "why": "去信正文含价（邮箱索引）",
-    "k": "696d6a213ad761ca"
-   },
-   {
-    "date": "2024-05-30",
+    "date": "2024-08-05",
     "dir": "来",
-    "who": "marco.divalerio@cxr.fr",
-    "quote": "Re: 10g media converter｜Hi Simon,  Thanks, please could you send data sheet please  Marco Di Valerio COO  Regards   Le jeu. 30 mai 2024, 11:02, Simon <s.sagatelecom@gmail.com",
+    "who": "zerwes@allnet.de",
+    "quote": "Automatische Antwort: 48 port managed switch｜Sehr geehrte Partner,  vielen Dank f?r Ihre Email. Ich bin vom 26.07.2024 bis einschl. 09.08.24 im Urlaub.  Ihre Email wird in der zwischenzeit nicht ",
+    "why": "自动回复/退信/工单（机器，不算人工回复）",
+    "k": "2f53ef9e4553a91a"
+   },
+   {
+    "date": "2024-08-05",
+    "dir": "去",
+    "who": "S 箱（Simon）报价",
+    "quote": "48 port managed switch｜ $220（原句：Price is very competitive, 220usd/pc）",
+    "why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
+    "k": "345bbc1b97f18eb4"
+   },
+   {
+    "date": "2025-07-10",
+    "dir": "来",
+    "who": "Gerhard Zerwes",
+    "quote": "sorry we have our solution with SFP Slots and Managed Versions.",
+    "why": "停点原话",
+    "k": "27176790332e9c58"
+   },
+   {
+    "date": "2025-07-10",
+    "dir": "来",
+    "who": "zerwes@allnet.de",
+    "quote": "AW: 16 Port Ethernet Switch｜Hallo Alan,  sorry we have our solution with SFP Slots and Managed Versions.  Thanks Gerhard  Von: Alan from Saga Telecom <a.sagatelecom@gmail.com> Ge",
     "why": "来信（邮箱索引；原文见 k；是否人工回复以原文为准）",
-    "k": "afbdeb9d5505018c"
+    "k": "27176790332e9c58"
    },
    {
-    "date": "2024-05-30",
-    "dir": "去",
-    "who": "S 箱（Simon）报价",
-    "quote": "Re: 10g media converter｜ $65（原句：Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unma）",
-    "why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
-    "k": "696d6a213ad761ca"
-   },
-   {
-    "date": "2024-06-25",
-    "dir": "去",
-    "who": "Saga（Simon）",
-    "quote": "Hi, Marco, How are you? Last time we discussed 10G media converter, do you need some units for testing? And I would like to recommend a new model. This is a Marvell based layer 2 managed PoE switch. 1. Highly programmable GUI 2. 2*PoE af/at/bt+6*PoE af/at, 240W budget 3. Support DI/DO/RS485 function…",
-    "why": "Saga 实质答复原文（主题「Re: 10g media converter」；第 20 批从 gmail_s 回补）——承诺/口径以此为准",
-    "k": "d3deca09f7f9a22b"
-   },
-   {
-    "date": "2024-11-19",
-    "dir": "去",
-    "who": "S 箱（Simon）报价",
-    "quote": "48 Port PoE Managed Switch｜ $300（原句：*Price is very competitive, 300usd/pc*）",
-    "why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
-    "k": "4b98c00a19e0083f"
-   },
-   {
-    "date": "2025-08-27",
-    "dir": "去",
-    "who": "S 箱（Simon）",
-    "quote": "24 Port Fiber Switch｜稿内价 $240",
-    "why": "去信正文含价（邮箱索引）",
-    "k": "327a21504f3b8ee9"
-   },
-   {
-    "date": "2025-08-27",
-    "dir": "去",
-    "who": "S 箱（Simon）报价",
-    "quote": "24 Port Fiber Switch｜ $240（原句：Price: 240usd/pc）",
-    "why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
-    "k": "327a21504f3b8ee9"
-   },
-   {
-    "date": "2025-10-29",
-    "dir": "去",
-    "who": "S 箱（Simon）报价",
-    "quote": "10G Enterprise SFP Switch｜ $280（原句：It is a price-competitive aggregation switch(280usd/pc)）",
-    "why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
-    "k": "a93909c35addd96e"
-   },
-   {
-    "date": "2026-07-20",
-    "dir": "去",
-    "who": "S 箱（Simon）报价",
-    "quote": "24 Port 10G SFP+ Switch｜ $1500（原句：*Price: 1500USD/PC*）",
-    "why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
-    "k": "00f989b452b62e8b"
-   },
-   {
-    "date": "2026-09-08",
+    "date": "2026-10-08",
     "dir": "去",
     "who": "S 箱（Simon）",
     "quote": "24 Port PoE Managed Switch",
-    "why": "最近一封去信（邮箱索引；去信共 26 封）",
-    "k": "31c3846e3e090787"
+    "why": "最近一封去信（邮箱索引；去信共 21 封）",
+    "k": "15f87700ebc70348"
    },
    {
-    "date": "2026-09-08",
+    "date": "2026-10-08",
     "dir": "去",
     "who": "S 箱（Simon）报价",
-    "quote": "24 Port PoE Managed Switch｜ $170（原句：*Price: 170USD/PC*）",
+    "quote": "24 Port PoE Managed Switch｜ $180（原句：*Price: 180USD/PC*）",
     "why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
-    "k": "31c3846e3e090787"
+    "k": "15f87700ebc70348"
    }
   ],
   "proof_gaps": [],
   "draft_en": {
-   "subject": "The 10G media converter from May 2024 - and the parts of your range you buy in",
-   "body": "Hi Marco,\n\nIn May 2024 you asked for the datasheet of our 10G media converter and we quoted $65; the mails you had since were general product mails - no reason to answer those.\n\nThe converter is still $65 USD EXW (1 x 10G SFP+ + 1 x 100M/1G/2.5G/10G RJ45, unmanaged; MOQ 1, 15-day validity). On the switch side, your SWMD-H-8TGPS-2GSF sits on the same 8 x Gigabit PoE+ + 2 x SFP DIN footprint we build on a Marvell switch core - in CXR packing, L2+ managed with ring redundancy, -40 to 75 C, CE/RoHS - model STI-288DGGPM - $137.5 USD EXW.\n\nOne question: which parts of the CXR range do you buy in rather than build - media converters, DIN PoE switches, or neither at the moment?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+   "subject": "One question on the ALL-SGI industrial line - no product pictures",
+   "body": "Hi Gerhard,\n\nYou said it clearly in July 2025: ALLNET has its solution with SFP slots and managed versions. Noted - so no more product pictures from us.\n\nOne question, and only that: across the ALL-SGI industrial line, which SKU is the hardest to source on your side today - lead time, MOQ or price? If there is one, that is the one where a Marvell-based second source from small lots could be worth a look; if there is none, I will leave it until Computex.\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
  }

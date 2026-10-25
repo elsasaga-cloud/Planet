@@ -1,146 +1,120 @@
 {
-  "code": "SB-400",
-  "name_official": "",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（gsginternational.com，快照 2026-10-21）",
-  "summary": "意大利 GSG International（安防技术分销：视频监控、门禁、入侵、人脸识别与视频分析；品牌 barox / ComNet / Lantech（2018 目录）、自有 Euklis NVR（KLIS 32 路 16 PoE）、Nettosecurity 奥特莱斯；表内「几个知名牌子的工业 FS / VC 很多牌子；经销商 KBC、barox 等」「质量一般」；KP Ludovico Fontana（CEO，ludovico.paveri@））；表内 1 次跟进无回复。",
-  "type": "安防技术分销商（意大利，barox/ComNet/Lantech + 自有 Euklis）",
-  "size": "",
-  "brands_seen": [
-    "barox",
-    "ComNet",
-    "Lantech",
-    "KBC"
-  ],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "官网标题：Distributore di Tecnologie per la Sicurezza - Controllo Accessi；品类词 光纤 / 媒体转换 / 网络交换 / PoE",
-      "quote": "Ingegneria, prodotti e servizi per la sicurezza delle persone e delle infrastrutture critiche. Videosorveglianza, controllo accessi, antintrusione, riconoscimento facciale e analisi video.",
-      "url": "https://www.gsginternational.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "几个知名牌子的工业FS；工业FS VC 很多牌子 经销商 KBC Barox等",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网快照",
-      "claim": "GSG International 定位",
-      "quote": "Distributore di Tecnologie per la Sicurezza - Controllo Accessi ; Ingegneria, prodotti e servizi per la sicurezza delle persone e delle infrastrutture critiche",
-      "url": "https://www.gsginternational.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "工业 FS 很多牌子；KBC barox 经销",
-      "quote": "几个知名牌子的工业FS / 工业FS　VC   很多牌子 经销商 KBC Barox等；质量一般",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Ludovico Fontana",
-      "title": "Chief Executive Officer",
-      "email": "ludovico.paveri@gsginternational.com",
-      "phone": "",
-      "source": "用户表"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ "code": "SB-400",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "快照失败（http_error）",
+ "summary": "阿联酋 Safa Networks（safanetworks.com；表内「Switch APs」；官网 http_error）；群发 7 次无回复。",
+ "type": "网络产品经销商（阿联酋）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "Switch APs",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "hq": "意大利",
-    "other": "官网 gsginternational.com，语言 en，快照状态 ok；角色判定来源：用户表"
-  },
-  "business_lines": [
-    "安防技术分销（CCTV / 门禁 / 入侵 / 分析）",
-    "自有品牌 Euklis NVR"
-  ],
-  "channels": {
-    "role": "安防技术分销商（意大利，barox/ComNet/Lantech + 自有 Euklis）",
-    "region": "意大利",
-    "contact": "info@gsginternational.com、ludovico.paveri@gsginternational.com"
-  },
-  "signals": [
-    "页面 /it/euklis-klis-nvr-32-16poe-n-168.html、/it/lantech-2018-catalogo-n-169.html；站内品牌 barox / ComNet；kw integrator 10",
-    "官网：Distributore di tecnologie per la sicurezza ; Videosorveglianza, controllo accessi, antintrusione, riconoscimento facciale"
-  ],
-  "risks": [
-    "barox/ComNet/Lantech 既定品牌线：白牌为预算补充；表内「质量一般」",
-    "1 次跟进无回复 → 改向 CEO 具名首触"
-  ],
-  "saga_fit": {
-    "p1": "STI-288GPM",
-    "tier": 20,
-    "why": "在售 barox/ComNet/Lantech 工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）作预算线；Euklis 自有 NVR 配套 PoE 可贴标 STC-28DGGPM"
-  },
-  "email_hook": "Ludovico, alongside the barox, ComNet and Lantech industrial switches you distribute, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units and commercial 8-PoE + 2 SFP L2+ models (also under your Euklis label) from small lots, CE/RoHS, EXW USD — which port count do your integrators order most?",
-  "mail_review": {
-    "binding": {
-      "level": "未触达（A 邮箱 11 封 2025→2026，无记录打开，0 回；收件 info@gsginternational.com, ludovico.paveri@gsginternational.com；主题多为「10G Enterprise SFP Switch、Booster PoE Switch」）；Elsa 群发 BCC 已触达 2025-04-01「Marvell Alleycat5 Solution」（稿内无价，第 74 批(p) 已读稿），IT 批次 To INFO@sarcitalia.it，0 回（第 74 批 Bcc 头核对 msg 195f09436b3ed616）",
-      "type": "安防技术分销商（意大利，barox/ComNet/Lantech + 自有 Euklis）",
-      "sieve": "1（只收到群发）",
-      "stop": "11 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-      "revive": "保持季度群发到 2027-Q1；无打开即停",
-      "lane": "意大利（欧洲全域主攻）",
-      "cadence": "季度",
-      "evidence": "gmail_digest：out 11；用户表：「几个知名牌子的工业FS；工业FS VC 很多牌子 经销商 KBC Barox等」；研究档 risks：barox/ComNet/Lantech 既定品牌线：白牌为预算补充；表内「质量一般」；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To INFO@sarcitalia.it）本户见于 2025-04-01 名单；2026-08-31 最新一轮名单已不含此地址 → 中途被剔除（退信 / 退订 / 手工）"
-    },
-    "situation": "意大利 GSG International（安防技术分销：视频监控、门禁、入侵、人脸识别与视频分析；品牌 barox / ComNet / Lantech（2018 目录）、自有 Euklis NVR（KLIS 32 路 16 PoE）、Nettosecurity 奥特莱斯；表内「几个知名牌子的工业 FS / VC 很多牌子；经销商 KBC、barox 等」「质量一般」；KP Ludovico Fontana（CEO，ludovico.paveri@））；表内 1 次跟进无回复。",
-    "need": "在售 barox/ComNet/Lantech 工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）作预算线；Euklis 自有 NVR 配套 PoE 可贴标 STC-28DGGPM",
-    "breakpoint": "barox/ComNet/Lantech 既定品牌线：白牌为预算补充；表内「质量一般」",
-    "saga_now": {
-      "p1": "STI-288GPM",
-      "tier": 20,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-16 $280（10G Enterprise SFP Switch）、2026-06-25 $16000（32 Port 400GB DC Switch）",
-      "why": "在售 barox/ComNet/Lantech 工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）作预算线；Euklis 自有 NVR 配套 PoE 可贴标 STC-28DGGPM",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "群发节奏",
-      "channel": "A 邮箱",
-      "action": "观察打开",
-      "one_question": "Ludovico, alongside the barox, ComNet and Lantech industrial switches you distribute, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units and commercial 8-PoE + 2 SFP L2+ models (also under your Euklis label) from small lots, CE/RoHS, EXW USD — which port count do your integrators order most?"
-    },
-    "facts": [
-      {
-        "date": "2025-04-01",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To INFO@sarcitalia.it，IT 批次）",
-        "quote": "Marvell Alleycat5 Solution — We are doing Marvell Alleycat5 chip for tailored networking solutions. 1, Support Web GUI change(Logo, model name, MAC, SN, SNMP, OID) 2, Added intere",
-        "why": "Elsa 箱群发 BCC 触达证据（命中地址 gsginternational.com, info@gsginternational.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-        "k": "elsa_bcc"
-      },
-      {
-        "date": "2026-10-07",
-        "dir": "去",
-        "who": "A 群发",
-        "quote": "10G Enterprise SFP Switch、Booster PoE Switch",
-        "why": "11 封 / 0 次打开 / 0 回｜首封 2025-10-16 → 末封 2026-10-07（11 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "几个知名牌子的工业FS；工业FS VC 很多牌子 经销商 KBC Barox等",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-25"
+  {
+   "kind": "用户表",
+   "claim": "Switch APs",
+   "quote": "Switch APs",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "阿联酋",
+  "other": "官网 safanetworks.com，语言 ?，快照状态 http_error；角色判定来源：待核"
+ },
+ "business_lines": [
+  "网络产品经销（阿联酋）"
+ ],
+ "channels": {
+  "role": "网络产品经销商（阿联酋）",
+  "region": "阿联酋",
+  "contact": "sales@safanetworks.com"
+ },
+ "signals": [
+  "表内：Switch APs",
+  "快照：http_error"
+ ],
+ "risks": [
+  "非主攻区（T5，阿联酋）；官网 http_error；7 次无回复，仅 sales@"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 20,
+  "why": "Switch → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%，为 AP 供电）、24 口 STC-424DGGPM-280W（$134.5）"
+ },
+ "email_hook": "For the PoE switches you sell with access points, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches from small lots, CE/RoHS, EXW USD — which port count do your UAE customers order most?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 23 封 2025→2026，1 次记录打开，0 回；收件 sales@safanetworks.com；主题多为「10G Enterprise SFP Switch、Industrial PoE Switch」；Elsa 箱：`to:safanetworks.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 23 / 来 0）（第 74 批(n)））",
+   "type": "网络产品经销商（阿联酋）",
+   "sieve": "1~2（1 次打开）",
+   "stop": "只打通用邮箱，无记录打开",
+   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+   "lane": "阿联酋 非主攻",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 23，Opened 标签 1（Simon 群发追踪）；用户表：「Switch APs」；研究档 risks：非主攻区（T5，阿联酋）；官网 http_error；7 次无回复，仅 sales@"
+  },
+  "situation": "阿联酋 Safa Networks（safanetworks.com；表内「Switch APs」；官网 http_error）；群发 7 次无回复。",
+  "need": "Switch → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%，为 AP 供电）、24 口 STC-424DGGPM-280W（$134.5）",
+  "breakpoint": "非主攻区（T5，阿联酋）；官网 http_error；7 次无回复，仅 sales@",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 20,
+   "price": "换人再触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-24 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-05-20 $300（48 Port PoE Managed Switch）、2025-09-23 $280（10G Enterprise SFP Switch）",
+   "why": "Switch → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%，为 AP 供电）、24 口 STC-424DGGPM-280W（$134.5）。已打开的主题（1/23 封有打开记录）：「Marvell Alleycat5 Solution」(2025-05-27) → 读者兴趣主题类别不明（看原主题）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1（换人后）",
+   "channel": "A 邮箱 → 具名 KP",
+   "action": "换收件人再发一封（第 75 批(aj) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
+   "one_question": "For the PoE switches you sell with access points, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches from small lots, CE/RoHS, EXW USD — which port count do your UAE customers order most? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
+  },
+  "facts": [
+   {
+    "date": "2026-09-29",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "10G Enterprise SFP Switch、Industrial PoE Switch",
+    "why": "23 封 / 1 次打开 / 0 回｜首封 2025-04-17 → 末封 2026-09-29（23 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "Switch APs",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026-09-29",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "Managed PoE Switches",
+    "why": "本日去信真实主题（邮箱索引 f0ceba3cf7577894；信稿开头句引用此封；此前稿内写的「10G Enterprise SFP Switch」是线程列表首题，不是本封）",
+    "k": "f0ceba3cf7577894"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": {
+   "subject": "PoE switches to power the access points you sell - 8 or 24 ports?",
+   "body": "Hello Safa Networks team,\n\nOver the past months you had a few product mails from us - most recently \"Managed PoE Switches\" on 29 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the PoE switches you sell with access points, neutral-brand units at distributor price, EXW, MOQ 1, 15-day validity, CE/RoHS: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based - model STC-28DGGPM - $80.7 USD; 24 x Gigabit PoE+ (280 W) + 4 x SFP, L2+ managed - STC-424DGGPM-280W - $134.5.\n\nOne question: which port count do your UAE customers order most with the APs - 8 or 24?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+  },
+  "as_of": "2026-10-24"
+ }
 }

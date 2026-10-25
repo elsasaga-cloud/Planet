@@ -1,164 +1,133 @@
 {
  "code": "SB-621",
- "name_official": "",
+ "name_official": "LANshack（Tecra Tools Inc.，美国）",
  "researched_at": "2026-10-21",
- "website_status": "在线（symanitron.ru，快照 2026-10-21）",
- "summary": "俄罗斯 SYMANITRON（symanitron.ru / s-avt.ru；「俄罗斯工业网络与电信设备制造商」+ 合同制造：PoE 交换机 SWMP-82GC-AT、SWDGP-22（24V）；表内「工业 FS（带光开关）、SFP、工业 MC，自己的 logo」；KP Massov（地推），回执来自 koe@s-avt.ru）；群发 18 次无回复。",
- "type": "俄罗斯工业网络品牌/合同制造（自有 logo，OEM 采购）",
+ "website_status": "在线（lanshack.com，快照 2026-10-21）",
+ "summary": "美国光纤 / 铜缆组件制造与网店（ISO 9001；sfp 1028 / poe 239 / industrial 180 / media converter 99），President Andrea Damiano；表内「E-wind 产品较多」（在售中国同行 E-wind 的 MC / 交换机）；群发 19 次无回复。",
+ "type": "",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "E-wind"
+ ],
  "evidence": [
   {
    "kind": "官网快照",
-   "claim": "官网标题：Российский производитель сетевого и телекоммуникационного оборудования SYMANITRON；品类词 电信 / FTTH / ISP 设备 / 光纤 / 媒体转换 / 网络交换 / PoE",
-   "quote": "Российский производитель сетевого и телекоммуникационного оборудования SYMANITRON /> <meta http-equiv=",
-   "url": "https://symanitron.ru/",
+   "claim": "光纤与铜缆组件制造 / 网店，ISO 9001；关键词 sfp 1028 / poe 239 / media converter 99",
+   "quote": "LANshack offers premium fiber optic cable & copper wire assemblies… ISO 9001 Certified",
+   "url": "https://lanshack.com/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "工业FS（带光开关） SFP 工业MC 自己的logo；koe@s-avt.ru 回复回执的是这个email",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "SYMANITRON 俄罗斯工业网络制造商",
-   "quote": "Российский производитель сетевого и телекоммуникационного оборудования SYMANITRON ; Российский производитель промышленного сетевого оборудования",
-   "url": "https://symanitron.ru/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "工业 FS（带光开关）SFP 工业 MC，自己的 logo",
-   "quote": "工业FS（带光开关） SFP 工业MC 自己的logo；koe@s-avt.ru 回复回执的是这个email",
+   "claim": "Ewind 产品较多",
+   "quote": "兴趣：Ewind产品较多",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
  "kp": [
   {
-   "name": "Massov",
-   "title": "（表内：地推）",
-   "email": "massov@symanitron.ru",
+   "name": "Andrea Damiano",
+   "title": "President",
+   "email": "andrea@lanshack.com",
    "phone": "",
-   "source": "用户表"
+   "source": "（本地 Clients/ 表格，无公开 URL）"
   }
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（官网快照核对 + 表内）"
  },
  "company_facts": {
-  "hq": "俄罗斯",
-  "other": "官网 symanitron.ru，语言 ru，快照状态 ok；角色判定来源：用户表"
+  "legal_name": "Tecra Tools, Inc. (LANshack)",
+  "founded": "（待核）",
+  "hq": "USA（宾州 / 新泽西，待核）",
+  "size": "中小型制造 + 电商",
+  "other": "在售 E-wind MC / 交换机"
  },
  "business_lines": [
-  "工业网络设备（自有品牌）",
-  "合同制造"
+  "光纤 / 铜缆组件制造",
+  "网络有源设备电商（E-wind 等）"
  ],
  "channels": {
-  "role": "俄罗斯工业网络品牌/合同制造（自有 logo，OEM 采购）",
-  "region": "俄罗斯",
-  "contact": "massov@symanitron.ru、info@symanitron.ru"
+  "role": "制造商 + 电商（已售中国同行）",
+  "region": "美国"
  },
  "signals": [
-  "官网：Российский производитель промышленного сетевого оборудования；栏目 Контрактное производство",
-  "站内型号 SWMP-82GC-AT / SWDGP-22-24V / SWDGP-22；kw poe 86 / sfp 47",
-  "表内：massov@ 地推；koe@s-avt.ru 回复回执"
+  "已售 E-wind → 同类替换（MC / 工业 FS）",
+  "President 具名"
  ],
  "risks": [
-  "俄罗斯：结算/物流受限，非主攻区（T5）",
-  "「俄罗斯制造」口径（本地化）：可能只接受 SKD/板级；18 次无回复，回执邮箱 koe@s-avt.ru"
+  "美国：零售 / 项目常要求 UL 列名（Saga 无 UL，仅 FCC/CE）→ 首触即说明",
+  "19 次群发无回复"
  ],
  "saga_fit": {
-  "p1": "STI-288GPM",
-  "tier": 30,
-  "why": "自有 logo 工业 PoE（SWMP-82GC = 8 PoE + 2 SFP）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ 非管理 STI-288GP 作二供；光开关版 Saga 无；MC 位 STI-110GE"
+  "p1": "STI-110GE",
+  "tier": 20,
+  "why": "对位 E-wind 工业 MC → STI-110GE（$22.4 @20%）；工业 FS STI-288GP。"
  },
- "email_hook": "For the SWMP-82GC-class industrial PoE switches under the SYMANITRON label, we can supply DIN-rail 8-PoE + 2 SFP managed (Marvell L2+) or unmanaged units and gigabit media converters from small lots in your housing — which model do you ship most, so we quote its equivalent first?",
- "products_seen": [
-  {
-   "brand": "SYMANITRON（自有）",
-   "model": "SWMP-82GC-AT",
-   "spec": "工业 8 PoE + 2 SFP 管理（推断）",
-   "saga": "STI-288GPM",
-   "url": "https://symanitron.ru/",
-   "date": "2026-10-21"
-  }
- ],
+ "email_hook": "Andrea, beside the E-wind converters on lanshack.com — our DIN gigabit MC is $22.4 and the 2-SFP + 8-PoE industrial $57 EXW (FCC/CE, no UL listing); would a 2-piece sample help you compare build quality?",
  "mail_review": {
   "binding": {
-   "level": "未触达（2 封俄语休假自动回复，转 ion@symanitron.ru；Elsa 箱：`to:symanitron.ru OR to:s-avt.ru` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 27 / 来 2）（第 74 批(l)））",
-   "type": "俄罗斯工业网络品牌/合同制造（Symanitron）",
-   "sieve": "0",
-   "stop": "自动回复/机器人，无人工回复",
-   "revive": "改发 ion@symanitron.ru",
-   "lane": "RU",
-   "cadence": "2026-12",
-   "evidence": "k=3a5b900fd44405f5 / 8f1a2192a4db3fa3"
+   "level": "未触达（A/S 邮箱 29 封 2024→2026，无记录打开，0 回；收件 andrea@lanshack.com, sales@lanshack.com；主题多为「Marvell Industrial Alert System、10G Enterprise SFP Switch」；Elsa 箱：`to:lanshack.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 29 / 来 0）（第 74 批(h)））",
+   "type": "—",
+   "sieve": "1（只收到群发）",
+   "stop": "29 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+   "lane": "US 主攻（四主）",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 29；用户表：「兴趣：Ewind产品较多」；研究档 risks：美国：零售 / 项目常要求 UL 列名（Saga 无 UL，仅 FCC/CE）→ 首触即说明"
   },
-  "situation": "来信全部为机器回复；无人读信或无人回信。",
-  "need": "—",
-  "breakpoint": "—",
+  "situation": "美国光纤 / 铜缆组件制造与网店（ISO 9001；sfp 1028 / poe 239 / industrial 180 / media converter 99），President Andrea Damiano；表内「E-wind 产品较多」（在售中国同行 E-wind 的 MC / 交换机）；群发 19 次无回复。",
+  "need": "对位 E-wind 工业 MC → STI-110GE（$22.4 @20%）；工业 FS STI-288GP。",
+  "breakpoint": "美国：零售 / 项目常要求 UL 列名（Saga 无 UL，仅 FCC/CE）→ 首触即说明",
   "saga_now": {
-   "p1": "—",
-   "tier": 30,
-   "price": "—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-19 $65（10G media converter）、2024-08-21 $65（10G media converter）、2024-11-20 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-24 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-25 $280（10G Enterprise SFP Switch）；第 76 批(c)：俄语整稿改英文（无语言障碍证据；按 INH 规则对客户用英文）",
-   "why": "已打开的主题（2/27 封有打开记录）：「Marvell Industrial Alert System」(2025-07-17)、「Optional Marvell Chipset Solutions」(2025-12-04) → 读者兴趣偏「工业」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-03-23)、Product Link_2026Q3(2026-07-03)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）",
+   "p1": "STI-110GE",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-24 $220（48 port managed switch）、2024-12-19 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-08-20 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-03 $280（10G Enterprise SFP Switch）",
+   "why": "对位 E-wind 工业 MC → STI-110GE（$22.4 @20%）；工业 FS STI-288GP。",
    "repeat": [],
-   "gaps": [
-    "具名联系人"
-   ]
+   "gaps": []
   },
   "next_move": {
-   "when": "2026-12",
-   "channel": "A 邮箱 → ion@symanitron.ru",
-   "action": "换人（第 76 批(c) 2026-10-25：audit_ab 软项修正：署名「Alan Yan」→「Alan」（A 箱实际署名））（第 76 批(c) 2026-10-25：audit_ab 软项修正：俄语整稿 → 英文稿）（第 76 批(c) 2026-10-25：0 事实户补时间线事实）",
-   "one_question": "Do you consider third-party platforms for your line, or build everything in-house?"
+   "when": "2027-Q1（换人后）",
+   "channel": "A 邮箱 → 具名 KP",
+   "action": "换收件人再发一封（第 75 批(v) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
+   "one_question": "Andrea, beside the E-wind converters on lanshack.com — our DIN gigabit MC is $22.4 and the 2-SFP + 8-PoE industrial $57 EXW (FCC/CE, no UL listing); would a 2-piece sample help you compare build quality?"
   },
   "facts": [
    {
-    "date": "2024-06-24",
+    "date": "2026-09-17",
     "dir": "去",
-    "who": "S 箱（Simon）",
-    "quote": "8 port Network Switch",
-    "why": "首封去信（邮箱索引；去信共 27 封）",
-    "k": "a1922de633dd3fe3"
+    "who": "A/S 群发",
+    "quote": "Marvell Industrial Alert System、10G Enterprise SFP Switch",
+    "why": "29 封 / 0 次打开 / 0 回｜首封 2024-06-20 → 末封 2026-09-17（29 去 / 0 来）",
+    "k": "gmail_digest"
    },
    {
-    "date": "2026-08-24",
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：Ewind产品较多",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026-09-17",
     "dir": "去",
     "who": "A 箱（Alan）",
-    "quote": "24 Port PoE Managed Switch",
-    "why": "最近一封去信（邮箱索引；去信共 27 封）",
-    "k": "c313f931d33bd3fd"
-   },
-   {
-    "date": "2024-07-01",
-    "dir": "来",
-    "who": "marina@s-avt.ru",
-    "quote": "Автоматический ответ: Commercial poe switch｜Добрый день! Я нахожусь в отпуске до 15.07.2024г. Ваше сообщение автоматически перенаправлено Измайлову Олегу Николаевич",
-    "why": "自动回复/退信（机器，不算人工回复）",
-    "k": "3a5b900fd44405f5"
-   },
-   {
-    "date": "2024-09-10",
-    "dir": "来",
-    "who": "marina@s-avt.ru",
-    "quote": "Автоматический ответ: 2.5G Web Managed Switch｜Добрый день! Я нахожусь в отпуске до 12.09.2024г. Ваше сообщение автоматически перенаправлено Измайлову Олегу Николаевич",
-    "why": "自动回复/退信（机器，不算人工回复）",
-    "k": "8f1a2192a4db3fa3"
+    "quote": "16 Port Industrial PoE Switch",
+    "why": "本日去信真实主题（邮箱索引 e80448ad9eb1c719；信稿开头句引用此封；此前稿内写的「Marvell Industrial Alert System」是线程列表首题，不是本封）",
+    "k": "e80448ad9eb1c719"
    }
   ],
   "proof_gaps": [],
   "draft_en": {
-   "subject": "Industrial managed switches on Marvell for the Symanitron line - one question",
-   "body": "Hello Symanitron team,\n\nWriting to this address because earlier mails to your general mailbox came back with holiday auto-replies pointing here.\n\nSaga Telecom supplies industrial managed switches on the Marvell AC5 platform - 8 x Gigabit PoE+ + 2 x SFP, DIN-rail, -40 to 75 C, L2+ - under a neutral label or your brand, from small lots. Reference price: model STI-288DGGPM - $137.5 USD EXW (MOQ 1, 15-day validity). CE/RoHS; EAC stays on your side.\n\nOne question: do you consider third-party platforms for your line, or is everything built in-house?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+   "subject": "Beside the E-wind converters on lanshack.com - two numbers and a 2-piece sample",
+   "body": "Hi Andrea,\n\nOver the past months you had a few product mails from us - most recently \"16 Port Industrial PoE Switch\" on 17 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nBeside the E-wind converters and switches on lanshack.com, at distributor price, EXW, MOQ 1, 15-day validity: industrial Gigabit media converter, DIN-rail, 1 x RJ45 + 1 x SFP slot, -40 to 75 C - model STI-110GE - $26.5 USD; industrial 8 x Gigabit PoE+ + 2 x SFP unmanaged - STI-288GP - $60. FCC/CE/RoHS, no UL listing - said up front. Samples are paid at the same price.\n\nOne question: would a 2-piece sample help you compare build quality against the E-wind units you already stock?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
  }

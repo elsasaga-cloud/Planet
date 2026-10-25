@@ -1,155 +1,131 @@
 {
  "code": "SB-858",
- "name_official": "",
+ "name_official": "Areskom İletişim Ltd（伊斯坦布尔）",
  "researched_at": "2026-10-21",
- "website_status": "在线（pyramid.lt，快照 2026-10-21）",
- "summary": "立陶宛 Pyramid Electronics（pyramid.lt；监控摄像机、报警、对讲、Wi-Fi 与网络设备、门禁、线缆网店；Hikvision 67 / Dahua 40；表内「商业 PoE 及周边；卖 Longse 的」；KP Arunas Ramonas（General Manager，arunas@）、Mattheos Dimitras（business manager））；群发 15 次无回复。",
- "type": "安防网店/分销（立陶宛，Longse / Hikvision）",
+ "website_status": "在线（areskom.com.tr，快照 2026-10-21，土耳其语）",
+ "summary": "土耳其工业通信 / 控制分销商（2004 年起；Westermo、Teltonika；switch 326 / poe 266 / automation 21；+90 216 428 78 78），仅 info@；表内「很多有名的牌子；工业 MC FS 工业控制」；群发 2 次。",
+ "type": "",
  "size": "",
  "brands_seen": [
-  "Longse",
-  "Hikvision",
-  "Dahua"
+  "Westermo",
+  "Teltonika"
  ],
  "evidence": [
   {
    "kind": "官网快照",
-   "claim": "官网标题：Stebėjimo kameros, signalizacijos, apsaugos sistemos | Pyramid.lt；品类词 安防监控（CCTV / 门禁） / 无线 / WiFi / 光纤 / 媒体转换 / 网络交换 / PoE",
-   "quote": "Vaizdo stebėjimo sistemos gera kaina - Apsaugos kameros, stebėjimo kameros, ip kameros, irašymo įrenginiai, priedai",
-   "url": "https://www.pyramid.lt/",
+   "claim": "Areskom İletişim – 技术伙伴；品牌 Westermo / Teltonika；+90 (216) 428 78 78；2004–2026",
+   "quote": "Areskom İletişim LTD – Teknoloji Ortağınız… brands Westermo, Teltonika",
+   "url": "https://areskom.com.tr/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "商业PoE及周边产品；商业PoE及周边产品 卖Longse的",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "Pyramid.lt 安防设备网店",
-   "quote": "Vaizdo stebėjimo sistemos gera kaina - Apsaugos kameros, stebėjimo kameros, ip kameros, irašymo įrenginiai, priedai",
-   "url": "https://www.pyramid.lt/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "商业 PoE 及周边，卖 Longse 的",
-   "quote": "商业PoE及周边产品；卖Longse的",
+   "claim": "很多有名的牌子；工业 MC FS 工业控制",
+   "quote": "兴趣：很多有名的牌子 工业MC FS 工业控制",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
  "kp": [
   {
-   "name": "Arunas Ramonas",
-   "title": "General Manager",
-   "email": "arunas@pyramid.lt",
-   "phone": "",
-   "source": "用户表"
-  },
-  {
-   "name": "Mattheos Dimitras",
-   "title": "Business Manager",
-   "email": "info@pyramid-electronics.com",
-   "phone": "",
-   "source": "用户表"
+   "name": "（未具名）",
+   "title": "",
+   "email": "info@areskom.com.tr",
+   "phone": "+90 216 428 78 78",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
   }
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（官网快照核对 + 表内）"
  },
  "company_facts": {
-  "hq": "立陶宛",
-  "other": "官网 pyramid.lt，语言 lt-LT，快照状态 ok；角色判定来源：待核"
+  "legal_name": "Areskom İletişim Ltd. Şti.",
+  "founded": "2004",
+  "hq": "Istanbul (Anadolu), Türkiye",
+  "size": "中小型工业通信分销",
+  "other": "Westermo 土耳其渠道"
  },
  "business_lines": [
-  "安防设备网店（摄像机 / 报警 / 对讲 / 网络）"
+  "工业通信 / 控制产品分销"
  ],
  "channels": {
-  "role": "安防网店/分销（立陶宛，Longse / Hikvision）",
-  "region": "立陶宛",
-  "contact": "info@pyramid-electronics.com、arunas@pyramid.lt"
+  "role": "工业分销商",
+  "region": "土耳其"
  },
  "signals": [
-  "栏目：Stebėjimo kameros / Kamerų komplektai / Apsaugos sistemos / Domofonai / Wifi ir tinklo įranga",
-  "站内 kw：wifi 138 / poe 84 / hikvision 67 / dahua 40",
-  "KP：Arunas Ramonas / General Manager；Mattheos Dimitras / business manager（表内）"
+  "Westermo 之下价位带；PoE / switch 词频高"
  ],
  "risks": [
-  "小国（LT）市场量小；现卖 Longse（深圳）价格基准低",
-  "15 次无回复 → 改向 GM 具名首触"
+  "仅 info@"
  ],
  "saga_fit": {
-  "p1": "STC-28DGGPM",
+  "p1": "STI-288GPM",
   "tier": 20,
-  "why": "Longse/Hikvision 套装配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）"
+  "why": "Westermo 之下工业管理 PoE → STI-288GPM（$78.9 @20%）；MC STI-110GE。"
  },
- "email_hook": "Arunas, for the PoE switches behind your Longse and Hikvision kits, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port unmanaged PoE units from small lots, CE/RoHS, EU shipping — which band do your installers buy most?",
+ "email_hook": "Merhaba — under the Westermo price points, a Marvell DIN managed 8-PoE + 2-SFP at $79 and gigabit MC at $22 EXW (CE/RoHS, −40~75 ℃); who is the product manager for industrial Ethernet at Areskom?",
  "mail_review": {
   "binding": {
-   "level": "未触达（A/S 邮箱 24 封 2024→2026，无记录打开，0 回；收件 arunas@pyramid.lt, info@pyramid-electronics.com；主题多为「Industrial PoE Switch、90W PoE Managed Switch」；Elsa 箱：`to:pyramid.lt OR to:pyramid-electronics.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 24 / 来 0）（第 74 批(k)））",
-   "type": "安防网店/分销（立陶宛，Longse / Hikvision）",
+   "level": "未触达（A/S 邮箱 15 封 2024→2026，无记录打开，0 回；收件 info@areskom.com.tr；主题多为「10G Enterprise SFP Switch、Industrial PoE Switch」；Elsa 箱：`to:areskom.com.tr` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 15 / 来 0）（第 74 批(i)））",
+   "type": "—",
    "sieve": "1（只收到群发）",
-   "stop": "24 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
-   "lane": "立陶宛（欧洲全域主攻）",
-   "cadence": "一封",
-   "evidence": "gmail_digest：out 24；用户表：「商业PoE及周边产品；商业PoE及周边产品 卖Longse的」；研究档 risks：小国（LT）市场量小；现卖 Longse（深圳）价格基准低"
+   "stop": "只打通用邮箱，无记录打开",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "TR 主攻（四主）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 15；用户表：「兴趣：很多有名的牌子 工业MC FS 工业控制」；研究档 risks：仅 info@"
   },
-  "situation": "立陶宛 Pyramid Electronics（pyramid.lt；监控摄像机、报警、对讲、Wi-Fi 与网络设备、门禁、线缆网店；Hikvision 67 / Dahua 40；表内「商业 PoE 及周边；卖 Longse 的」；KP Arunas Ramonas（General Manager，arunas@）、Mattheos Dimitras（business manager））；群发 15 次无回复。",
-  "need": "Longse/Hikvision 套装配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）",
-  "breakpoint": "小国（LT）市场量小；现卖 Longse（深圳）价格基准低",
+  "situation": "土耳其工业通信 / 控制分销商（2004 年起；Westermo、Teltonika；switch 326 / poe 266 / automation 21；+90 216 428 78 78），仅 info@；表内「很多有名的牌子；工业 MC FS 工业控制」；群发 2 次。",
+  "need": "Westermo 之下工业管理 PoE → STI-288GPM（$78.9 @20%）；MC STI-110GE。",
+  "breakpoint": "仅 info@",
   "saga_now": {
-   "p1": "STC-28DGGPM",
+   "p1": "STI-288GPM",
    "tier": 20,
-   "price": "换人再触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-09 $220（48 port managed switch）、2024-09-06 $65（10G media converter）、2024-12-27 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-07-24 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-07 $280（10G Enterprise SFP Switch）、2026-06-16 $16000（32 Port 400GB DC Switch）",
-   "why": "Longse/Hikvision 套装配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）",
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-26 $280（10G Enterprise SFP Switch）",
+   "why": "Westermo 之下工业管理 PoE → STI-288GPM（$78.9 @20%）；MC STI-110GE。",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "2027-Q1（换人后）",
-   "channel": "A 邮箱 → 具名 KP",
-   "action": "换收件人再发一封（第 75 批(af) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用）；DAP Vilnius 需百运网算后再报）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
-   "one_question": "Arunas, for the PoE switches behind your Longse and Hikvision kits, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port unmanaged PoE units from small lots, CE/RoHS, EU shipping — which band do your installers buy most? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Merhaba — under the Westermo price points, a Marvell DIN managed 8-PoE + 2-SFP at $79 and gigabit MC at $22 EXW (CE/RoHS, −40~75 ℃); who is the product manager for industrial Ethernet at Areskom?"
   },
   "facts": [
    {
-    "date": "2026-09-09",
+    "date": "2024-11-05",
+    "dir": "去",
+    "who": "Simon → Angora Networks（SA-077）附件 Turkey Client List.xlsx",
+    "quote": "名单行：「industrial network info@areskom.com.tr https://areskom.com.tr/」",
+    "why": "Saga 2024-11-05 把本户列入交给 Angora（安卡拉，Saga 提议的欧盟/土耳其分销伙伴）的 64 家起步名单；此后 Saga 仍直发本户。若 Angora 已接触过本户，Saga 直发会与自己提议的渠道打架 → Q-51（默认：直发继续，Angora 报了价的户 Saga 只做技术支持）",
+    "k": "gmail_s 2024-11-05 Re: Invoice_5pcs STC-424DGGPM-280W（附件）+ Drive PI 7_土耳其 Turkey_Client_List.xlsx"
+   },
+   {
+    "date": "2026-09-21",
     "dir": "去",
     "who": "A/S 群发",
-    "quote": "Industrial PoE Switch、90W PoE Managed Switch",
-    "why": "24 封 / 0 次打开 / 0 回｜首封 2024-06-15 → 末封 2026-09-09（24 去 / 0 来）",
+    "quote": "10G Enterprise SFP Switch、Industrial PoE Switch",
+    "why": "15 封 / 0 次打开 / 0 回｜首封 2024-06-29 → 末封 2026-09-21（15 去 / 0 来）",
     "k": "gmail_digest"
    },
    {
     "date": "2026-10-21",
     "dir": "用户表",
     "who": "Simon",
-    "quote": "商业PoE及周边产品；商业PoE及周边产品 卖Longse的",
+    "quote": "兴趣：很多有名的牌子 工业MC FS 工业控制",
     "why": "表内备注",
     "k": "用户表"
-   },
-   {
-    "date": "2026-09-09",
-    "dir": "去",
-    "who": "A 箱（Alan）",
-    "quote": "16 Port Industrial PoE Switch",
-    "why": "本日去信真实主题（邮箱索引 0dd073c109bed56b；信稿开头句引用此封；此前稿内写的「Industrial PoE Switch」是线程列表首题，不是本封）",
-    "k": "0dd073c109bed56b"
    }
   ],
-  "proof_gaps": [],
-  "draft_en": {
-   "subject": "PoE behind your Longse and Hikvision kits - managed and budget bands, shipped within the EU",
-   "body": "Hi Arunas,\n\nOver the past months you had a few product mails from us - most recently \"16 Port Industrial PoE Switch\" on 9 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the PoE switches behind your Longse and Hikvision kits, neutral-brand units at distributor price, EXW Shenzhen, MOQ 1, 15-day validity, CE/RoHS: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based - model STC-28DGGPM - $80.7 USD; budget unmanaged 8 x PoE+ + 2 x Gigabit - STC-028GP - $25.1. Shipping is by courier or your forwarder; we quote DAP Vilnius on request.\n\nOne question: which band do your installers buy most - managed, or the unmanaged under 30 dollars?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
-  },
+  "proof_gaps": [
+   "在 Saga 给 Angora 的 Turkey Client List（2024-11-05）里——Angora 是否接触过本户无记录（Q-51）"
+  ],
+  "draft_en": null,
   "as_of": "2026-10-24"
  }
 }

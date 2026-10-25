@@ -1,0 +1,16 @@
+# SB-1046 ivolta.pl · youtube · https://www.youtube.com/user/VoltaCCTV · fetched 2026-10-25T07:41:18Z · HTTP 200
+2026-06-01T14:25:23+00:00	Radiacode field test - strage rogue radiation source found	https://www.youtube.com/shorts/Fc-8f1XeIbM
+2026-02-02T11:48:24+00:00	Thermal Camera vs Standard Visual Camera Bonkers test	https://www.youtube.com/watch?v=4svfU7-s91M
+2026-01-29T17:09:09+00:00	From an exposed camera to Home NAS and Google Drive leak #cctv #vulnerability #leak	https://www.youtube.com/shorts/oX_wtkJan3U
+2026-01-29T10:56:30+00:00	Hikivsion "backdoor" - dlaczego aktualizacje są OBLIGATORYJNE	https://www.youtube.com/watch?v=dzADqWwNKIQ
+2026-01-16T15:08:20+00:00	Dahua Login bypass CVE-2021-33044	https://www.youtube.com/watch?v=Aruw7RS7DVE
+2024-04-14T07:38:46+00:00	Brute-force on IP camera using hydra.	https://www.youtube.com/shorts/ahvSeuZtDnI
+2024-02-29T13:50:22+00:00	iSentryMMS - PS5 Controller support	https://www.youtube.com/watch?v=0VCFSfsJBEc
+2023-09-27T10:07:39+00:00	iSentryMMS Platform Basic Object Counting	https://www.youtube.com/watch?v=iunpv3GSn0c
+2023-09-21T11:14:57+00:00	Hidden Dangers in Our Streets? How AI Stops Garbage Truck Fires	https://www.youtube.com/watch?v=TiyJ1QAmNOA
+2023-09-08T14:21:50+00:00	Hidden Dangers in Our Streets? How AI Stops Garbage Truck Fires Before They Start!	https://www.youtube.com/watch?v=Bli6bQjCshk
+2023-08-02T08:09:41+00:00	Scylla.ai Smoke and Fire detection vs "fake" AI solutions	https://www.youtube.com/watch?v=HAp9dnx4ERA
+2023-06-12T13:43:57+00:00	Thermal camera grill time-lapse	https://www.youtube.com/watch?v=u3j8-oX2t9Q
+2022-09-19T14:44:12+00:00	VMS systems be like	https://www.youtube.com/watch?v=R_aSSc_WEtQ
+2022-04-06T15:18:59+00:00	Vivotek CC9380 time lapse	https://www.youtube.com/watch?v=2f8TrWWFvxg
+2022-02-15T11:44:41+00:00	Luxriot - time line and time lapse	https://www.youtube.com/watch?v=isHEONPs454

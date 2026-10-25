@@ -2,44 +2,36 @@
  "code": "SB-321",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "在线（maintechconnect.com，快照 2026-10-21）",
- "summary": "美国网络配件网店 Main Tech Connect（Shopify 站：电脑/网络配件、AV、机柜、光缆、工业以太网、大量 PoE；在售 Intellinet 与自有型号 IPS-16GM02-518W / IPS-24GM02-518W（深圳式工业 PoE 管理型命名）；表内「看着像是深圳公司的外壳，自己的 logo/型号，产品较少」；站内邮箱 aschlieck@icintracom.com（IC Intracom = Intellinet 母公司）→ 疑为 IC Intracom 关联渠道）；群发 23 次无回复。",
- "type": "网店 + 自有型号（OEM 采购，疑 IC Intracom 关联）",
+ "website_status": "快照失败（http_error）",
+ "summary": "德国 BWsystems（bwsystems.de；阿里巴巴 RFQ「2+8 千兆商业 PoE」；KP Hans Georg Werner；官网 http_error）；表内未跟进。",
+ "type": "系统集成商（德国，2+8 PoE RFQ）",
  "size": "",
- "brands_seen": [
-  "Intellinet"
- ],
+ "brands_seen": [],
  "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：Main Tech Connect – Maintechconnect.com；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
-   "quote": "Main Tech Connect is your one-stop-shop for computer and networking accessories, audio and video products, TV mounts, barcode scanners, and networking switches and a vast selection of PoE Power over Ethernet products.",
-   "url": "https://maintechconnect.com/",
-   "date": "2026-10-21"
-  },
   {
    "kind": "用户表",
    "claim": "表内兴趣/备注",
-   "quote": "看着像是深圳公司的外壳 自己的logo/型号 产品较少",
+   "quote": "2+8千兆商业PoE / from: 阿里巴巴RFQ",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   },
   {
-   "kind": "官网快照",
-   "claim": "一站式电脑/网络配件 + PoE 网店",
-   "quote": "Main Tech Connect is your one-stop-shop for computer and networking accessories … networking switches and a vast selection of PoE Power over Ethernet",
-   "url": "https://maintechconnect.com/",
-   "date": "2026-10-21"
-  },
-  {
    "kind": "用户表",
-   "claim": "自有 logo/型号，深圳式外壳",
-   "quote": "看着像是深圳公司的外壳 自己的logo/型号 产品较少",
+   "claim": "2+8 千兆商业 PoE RFQ",
+   "quote": "2+8千兆商业PoE / from: 阿里巴巴RFQ",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Hans Georg Werner",
+   "title": "（职务待核）",
+   "email": "service@bwsystems.de",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
@@ -48,119 +40,74 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "美国",
-  "other": "官网 maintechconnect.com，语言 en，快照状态 ok；角色判定来源：用户表"
+  "hq": "德国",
+  "other": "官网 bwsystems.de，语言 ?，快照状态 http_error；角色判定来源：待核"
  },
  "business_lines": [
-  "电脑 / 网络配件网店",
-  "工业以太网 / PoE 交换机（自有型号 IPS 系列）",
-  "机柜 / 光缆"
+  "系统集成（德国，待核）"
  ],
  "channels": {
-  "role": "网店 + 自有型号（OEM 采购，疑 IC Intracom 关联）",
-  "region": "美国",
-  "contact": "sales@maintechconnect.com"
+  "role": "系统集成商（德国，2+8 PoE RFQ）",
+  "region": "德国",
+  "contact": "service@bwsystems.de"
  },
  "signals": [
-  "站内型号 IPS-16GM02-518W / IPS-24GM02-518W / SFP28",
-  "站内邮箱 aschlieck@icintracom.com、sales@maintechconnect.com",
-  "表内「自己的 logo/型号」→ OEM 30% 档"
+  "表内：2+8 千兆商业 PoE / from: 阿里巴巴 RFQ；KP Hans georg Werner",
+  "快照：http_error"
  ],
  "risks": [
-  "疑为 IC Intracom（Intellinet 母公司）关联网店：若由母公司统一采购，决策不在此站",
-  "群发 23 次无回复：换角度首触（自有型号对位）",
-  "自有型号产品少（表内）→ 量未知"
+  "RFQ 时效待核；官网 http_error（业务范围待核）；未跟进过"
  ],
  "saga_fit": {
-  "p1": "STI-21616GP",
-  "tier": 30,
-  "why": "自有型号 IPS-16GM02-518W = 16 口千兆工业 PoE 管理型（518W）→ Saga 对位 STI-21616GP（工业 16 PoE + 2 SFP，$184.6 @30%，L2 管理为 STI-21616XGGPM 待核）；8 口位 STI-288GPM"
+  "p1": "STC-28DGGPM",
+  "tier": 25,
+  "why": "RFQ 8 PoE + 2 SFP 千兆 → 恰为 STC-28DGGPM（$84.1 @25%）；待核时效"
  },
- "email_hook": "For your IPS-series industrial PoE switches (16/24-port), we build DIN/rack industrial 16-PoE + 2 SFP units under your label from small lots, CE/RoHS/FCC, neutral packing — which of the two, the 16-port or the 24-port, do you reorder more often?",
- "products_seen": [
-  {
-   "brand": "Main Tech Connect（自有）",
-   "model": "IPS-16GM02-518W",
-   "spec": "16 口千兆工业 PoE 管理型，518W",
-   "saga": "STI-21616GP（非管理）/ 管理型待核",
-   "url": "https://maintechconnect.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "brand": "Main Tech Connect（自有）",
-   "model": "IPS-24GM02-518W",
-   "spec": "24 口千兆工业 PoE 管理型",
-   "saga": "（工业 24 口 Saga 无标准型，待核）",
-   "url": "https://maintechconnect.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "brand": "Intellinet",
-   "model": "—",
-   "spec": "PoE 交换机（在售品牌）",
-   "saga": "STC-28DGGPM",
-   "url": "https://maintechconnect.com/",
-   "date": "2026-10-21"
-  }
- ],
+ "email_hook": "Hans Georg, following your request for a gigabit 8-PoE + 2-SFP commercial switch: our Marvell-based L2+ model (8 × PoE+ 120 W budget, 2 × SFP, VLAN/QoS, CE/RoHS) ships from single units, EXW USD, 10–15 days — is the requirement still open, and how many units?",
  "mail_review": {
   "binding": {
-   "level": "未触达（A/S 邮箱 29 封 2024→2026，无记录打开，0 回；收件 sales@maintechconnect.com；主题多为「Managed Optical Bypass Switch、10G Enterprise SFP Switch」；Elsa 箱：`to:maintechconnect.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 29 / 来 0）（第 74 批(h)））",
-   "type": "网店 + 自有型号（OEM 采购，疑 IC Intracom 关联）",
-   "sieve": "1（只收到群发）",
-   "stop": "只打通用邮箱，无记录打开",
-   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
-   "lane": "US 主攻（四主）",
-   "cadence": "一封",
-   "evidence": "gmail_digest：out 29；用户表：「看着像是深圳公司的外壳 自己的logo/型号 产品较少」；研究档 risks：疑为 IC Intracom（Intellinet 母公司）关联网店：若由母公司统一采购，决策不在此站"
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「2+8千兆商业PoE / from: 阿里巴巴RFQ」；Elsa 箱：`to:.de` 穷举 29 条（2026-10-25，锚批 Bcc 头已读）未见 bwsystems.de → 三箱（S/A/E）均未发（第 74 批(f)））",
+   "type": "系统集成商（德国，2+8 PoE RFQ）",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+   "lane": "DE 主攻（四主）",
+   "cadence": "首封后看打开",
+   "evidence": "gmail_digest：out 0；用户表：「2+8千兆商业PoE / from: 阿里巴巴RFQ」；研究档 risks：RFQ 时效待核；官网 http_error（业务范围待核）；未跟进过"
   },
-  "situation": "美国网络配件网店 Main Tech Connect（Shopify 站：电脑/网络配件、AV、机柜、光缆、工业以太网、大量 PoE；在售 Intellinet 与自有型号 IPS-16GM02-518W / IPS-24GM02-518W（深圳式工业 PoE 管理型命名）；表内「看着像是深圳公司的外壳，自己的 logo/型号，产品较少」；站内邮箱 aschlieck@icintracom.com（IC Intracom = Intellinet 母公司）→ 疑为 IC Intracom 关联渠道）；群发 23 次无回复。",
-  "need": "自有型号 IPS-16GM02-518W = 16 口千兆工业 PoE 管理型（518W）→ Saga 对位 STI-21616GP（工业 16 PoE + 2 SFP，$184.6 @30%，L2 管理为 STI-21616XGGPM 待核）；8 口位 STI-288GPM",
-  "breakpoint": "疑为 IC Intracom（Intellinet 母公司）关联网店：若由母公司统一采购，决策不在此站",
+  "situation": "德国 BWsystems（bwsystems.de；阿里巴巴 RFQ「2+8 千兆商业 PoE」；KP Hans Georg Werner；官网 http_error）；表内未跟进。",
+  "need": "RFQ 8 PoE + 2 SFP 千兆 → 恰为 STC-28DGGPM（$84.1 @25%）；待核时效",
+  "breakpoint": "RFQ 时效待核；官网 http_error（业务范围待核）；未跟进过",
   "saga_now": {
-   "p1": "STI-21616GP",
-   "tier": 30,
-   "price": "换人再触锚价 STI-21616GP $185 EXW（最近实报 $185（㉕；档位 170.4 低于实报不用）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-12 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-07-28 $240（24 Port Fiber Switch）、2025-09-22 $280（10G Enterprise SFP Switch）",
-   "why": "自有型号 IPS-16GM02-518W = 16 口千兆工业 PoE 管理型（518W）→ Saga 对位 STI-21616GP（工业 16 PoE + 2 SFP，$184.6 @30%，L2 管理为 STI-21616XGGPM 待核）；8 口位 STI-288GPM",
+   "p1": "STC-28DGGPM",
+   "tier": 25,
+   "price": "首触锚价 STC-28DGGPM $84.1 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
+   "why": "RFQ 8 PoE + 2 SFP 千兆 → 恰为 STC-28DGGPM（$84.1 @25%）；待核时效",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "2027-Q1（换人后）",
-   "channel": "A 邮箱 → 具名 KP",
-   "action": "换收件人再发一封（第 75 批(u) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用）；STI-21616XGGPM 30% 档 $322.6（上限 $324.5））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
-   "one_question": "For your IPS-series industrial PoE switches (16/24-port), we build DIN/rack industrial 16-PoE + 2 SFP units under your label from small lots, CE/RoHS/FCC, neutral packing — which of the two, the 16-port or the 24-port, do you reorder more often? Reference: STI-21616GP at $185 USD EXW (MOQ 1, 15-day validity)."
+   "when": "待 Simon 排期（首封）",
+   "channel": "A 邮箱 → service@bwsystems.de（Hans Georg Werner）",
+   "action": "首封：按 email_hook 一问（第 75 批(e) 2026-10-25：英文信稿已写 `draft_en`）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
+   "one_question": "Hans Georg, following your request for a gigabit 8-PoE + 2-SFP commercial switch: our Marvell-based L2+ model (8 × PoE+ 120 W budget, 2 × SFP, VLAN/QoS, CE/RoHS) ships from single units, EXW USD, 10–15 days — is the requirement still open, and how many units? Reference: STC-28DGGPM at $84.1 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
-   {
-    "date": "2026-08-28",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "Managed Optical Bypass Switch、10G Enterprise SFP Switch",
-    "why": "29 封 / 0 次打开 / 0 回｜首封 2024-06-17 → 末封 2026-08-28（29 去 / 0 来）",
-    "k": "gmail_digest"
-   },
    {
     "date": "2026-10-21",
     "dir": "用户表",
     "who": "Simon",
-    "quote": "看着像是深圳公司的外壳 自己的logo/型号 产品较少",
+    "quote": "2+8千兆商业PoE / from: 阿里巴巴RFQ",
     "why": "表内备注",
     "k": "用户表"
-   },
-   {
-    "date": "2026-08-28",
-    "dir": "去",
-    "who": "A 箱（Alan）",
-    "quote": "24 Port PoE Managed Switch",
-    "why": "本日去信真实主题（邮箱索引 9f91c2b8a60a05bb；信稿开头句引用此封；此前稿内写的「Managed Optical Bypass Switch」是线程列表首题，不是本封）",
-    "k": "9f91c2b8a60a05bb"
    }
   ],
-  "proof_gaps": [],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
   "draft_en": {
-   "subject": "Your IPS-16GM02 / IPS-24GM02 industrial PoE units - under your label from small lots",
-   "body": "Hello Main Tech Connect team,\n\nOver the past months you had a few product mails from us - most recently \"24 Port PoE Managed Switch\" on 28 August 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nYour IPS-16GM02-518W / IPS-24GM02-518W are Shenzhen-built industrial PoE units under your own model numbers. The same class from us, under your label from small lots, -40 to 75 C, FCC/CE/RoHS: industrial 16 x Gigabit PoE+ + 2 x SFP, unmanaged - model STI-21616GP - $185 USD EXW (MOQ 1, 15-day validity); the L2+ managed version with 2 x 10G SFP+ uplinks on a Marvell platform - STI-21616XGGPM - $322.6; 8-port, DIN-rail, L2 managed - STI-288GPM - $85.5.\n\nOne question: of the 16-port and the 24-port, which one do you reorder more often?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+   "subject": "Your Alibaba request for a gigabit 8-PoE + 2-SFP switch - price and lead time",
+   "body": "Hi Hans Georg,\n\nYou asked on Alibaba for a gigabit 8-PoE + 2-SFP commercial switch and did not get a proper answer from us - apologies, here it is.\n\nThe matching unit: 8 x Gigabit PoE+ (120 W budget) + 2 x SFP, L2+ managed (VLAN, QoS, IGMP, web GUI), Marvell-based, CE/RoHS - model STC-28DGGPM - $84.1 USD EXW (MOQ 1, 15-day validity), lead time 4-7 working days from order.\n\nOne question: is the requirement still open, and for how many units?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
  }

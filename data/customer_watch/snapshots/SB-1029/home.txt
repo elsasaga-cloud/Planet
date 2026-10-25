@@ -1,0 +1,142 @@
+# SB-1029 fibersystem.com · home · https://www.fibersystem.com/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+Fibersystem AB, Data Diodes | Fibersystem
+Skip to content
+Search for:
+Product Areas
+C Computers
+Converters/Extenders
+Copiers
+D Data Diodes
+Data Tap
+Document Cameras
+F Fiber optical switches
+H HDBaseT Solutions
+I IP Phones
+K KVM Solutions
+M Monitors
+P Printers
+Projectors
+R Rack Modules
+Rack System
+Routers
+T TEMPEST Level A/RÖS U1
+TEMPEST Level B/ RÖS U2
+U USB Disconnect
+V Video Teleconference System
+TEMPEST/RÖS
+News
+Pressrelease
+Contact
+About us
+Search for:
+Precision Security for Mission-Critical Systems
+We provide state-of-the-art solutions developed to meet all standards of TEMPEST and RÖS certifications, offering unmatched protection for your classified data. Designed and manufactured in Sweden, our products deliver military-grade security backed by the precision and reliability of Swedish engineering.
+Product news
+View all products
+Thin Client 27" TEMPEST Level A & RÖS U1
+Fibersystem’s 27” 4K Thin Client is built for modern, security-critical work environments. With an integrated 27” 4K display, card reader, fiber-optic Ethernet, and multiple fiber-optic USB ports, it delivers fast, secure, and flexible connectivity for all essential peripherals. The Thin Workstation has support for IGEL OS and connections for fiber-optic USB, 1 Gbps fiber network, fiber-optic video output, headset, mouse, and keyboard,...
+View product
+HDMI Diode TEMPEST Level B & RÖS U2
+The Fibersystem HDMI Diode protects sensitive systems by ensuring that video and audio can only travel in one direction, completely blocking any two-way communication between computers, displays, and shared peripherals. By isolating the source from the presentation surface, it eliminates the risk of data leakage and is ideal for high-security environments such as meeting rooms with shared AV equipment. The unit includes...
+View product
+Secure USB Disconnect Conference
+The Fibersystem Secure USB Disconnect is a hardware-based security switch that ensures high isolation during (“positive”) disconnection of USB ports — providing uncompromising protection against unauthorized data transfer and intrusion.
+View product
+Secure USB Disconnect Desktop
+The Fibersystem Secure USB Disconnect is a hardware-based security switch that ensures high isolation during (“positive”) disconnection of USB ports — providing uncompromising protection against unauthorized data transfer and intrusion.
+View product
+Monitor 75" TEMPEST Level B
+The 75” TEMPEST Level B and RÖS U2 Display is a 4K UHD monitor with two HDMI inputs, designed for secure environments and ideal for use with Fibersystem’s video conferencing systems or as an external display for Fibersystem computers. Security features include RÖS U2, TEMPEST Level B (SDIP-27) certification, and a strict No-Radio design with no wireless or Bluetooth functionality. Despite its...
+View product
+Fiber Optical Switch 1×6 LC
+The area of use of the Fiber Optic Switch is to be able to switch between 6 different channels (sources/destinations). For example, you can switch between different sources, networks (red/black), or different destinations such as an additional screen or projector. There is no electrical conversion in the switch, it is 100% optical. Fibersystems Fiber Optic Switches are built to meet the most...
+View product
+Advanced Security and Communication
+Solutions for Demanding Environments
+TEMPEST
+TEMPEST Level A certification refers to a standard concerned with preventing electronic eavesdropping and securing electronic systems from information leakage via electromagnetic emissions.
+RÖS
+The term Electromagnetic Emanation (EME) refers to the electromagnetic radiation emitted by electrical components.
+DATA DIODE
+Secure and Rugged Data Transfer with Fibersystem Data Diodes. Experience unmatched security and reliability with Fibersystem Data Diodes, certified with TEMPEST Level A and RÖS U1 and designed for use in the most demanding environments.
+FIBER OPTIC SWITCH
+Pioneering Network Flexibility and Reliability. Maximize your network’s performance and adaptability with Fibersystem Fiber Optical Switches.
+Explore our products
+VIEW ALL PRODUCT AREAS
+Tower Workstation 21" TEMPEST Level A & RÖS U1
+The Tower Workstation 21” B13V0 is a TEMPEST Level A and RÖS U1 certified all-in-one computer featuring an integrated 21” monitor, webcam, Blu-Ray, removable hard drive, keyboard, and mouse. Designed for high-security environments, the system supports easy expansion with external monitors, a projector, or a fiber switch to meet operational needs. It provides secure connectivity through fiber-optic USB, 100/1000 Mbps fiber network,...
+View product
+Data Diode 1Gbit Secure TEMPEST Level A+ & RÖS U1
+The Fibersystem Data Diode 1Gbit Secure is a TEMPEST Level A+ and RÖS U1 certified hardware-based unidirectional communication solution (Simplex) that completely eliminates the risk of data leakage or reverse transmission. The system operates fully transparently for all data types and supports key network protocols such as Syslog, NTP Broadcast, SNMP traps, and all forms of UDP communication — including Unicast, Broadcast,...
+View product
+VTC 55” Internal Codec EQ TEMPEST Level A & RÖS U1
+VTC with internal Codec EQ U1/LA is a fully certified video conferencing solution meeting both TEMPEST Level A and RÖS U1 requirements. It is based on the Cisco Room Kit EQ and includes an internal display, codec, camera, integrated speakers, external microphones, and a Cisco Room Navigator control panel. The system provides a complete and secure conferencing setup that can be expanded...
+View product
+TEMPEST
+TEMPEST certification refers to a standard concerned with preventing electronic eavesdropping and securing electronic systems from information leakage via electromagnetic emissions. Products that are TEMPEST Level A certified adhere to the highest level of these stringent security standards, which are primarily defined and required by NATO and various national security agencies.
+Read more about TEMPEST
+Latest news
+SEE ALL NEWS
+Fibersystem is now a certified supplier of TEMPEST equipment to NATO!
+16
+Feb
+FIBERSYSTEM LAUNCHES VTC 24”, A TEMPEST LEVEL A ALL-IN-ONE VIDEO CONFERENCE SOLUTION FOR SECURE MEETINGS
+14
+May
+Fibersystem Unveils Enhanced Website and Premieres Advanced Tempest Level A and RÖS U1 Certified Products
+04
+Sep
+RÖS
+RÖS is a swedish standard for the electromagnetic radiation electrical components emit. If the radiation is revealed there is a risk that the information carried by the radiaton leaks to unauthorizeds.
+Read more about RÖS
+Made in Sweden
+– A Mark of Quality
+Swedish Precision: At Fibersystem, every product benefits from the precision and advanced engineering that Swedish manufacturing is known for worldwide. Our commitment to excellence is evident in every piece we create, from development through to production.
+Sustainable Practices: We pride ourselves on integrating sustainable methods into our manufacturing processes, reflecting our dedication to environmental responsibility alongside technological innovation.
+Read more about us
+Explore
+Our Products
+Desktop Solutions: Secure computing with a range of desktop enclosures and integrated systems designed for sensitive environments.
+Networking Devices: From secure routers to encrypted network switches, ensure your communications are protected at every layer.
+Custom Solutions: Tailor-made security solutions designed to meet the specific needs of your organization.
+Explore the products
+Why Choose Fibersystem?
+Certified Security: With TEMPEST Level A and RÖS U1 certifications, we offer the highest standard of security.
+Swedish Quality: Manufactured in Sweden, our products represent durability, precision, and innovation.
+Expert Support: Our team of experts is here to assist you every step of the way, from selection to installation.
+Connect with Us
+Discover how Fibersystem can transform your organization’s security. Contact us today for a consultation or to learn more about our products.
+Contact us
+Ensure your communications are protected with our high-assurance IT-products, tailored for companies, military command centers, headquarters, and offices. Designed for both stationary and mobile deployments, our solutions provide unparalleled security and peace of mind, wherever your mission takes you.
+Pages
+Product Areas
+TEMPEST
+RÖS
+News
+Contact
+About us
+Our Customers
+Press
+Recruiting
+Support
+Sustainability
+Policies
+Customer Code of Conduct
+Personal Data Management Policy
+Supplier Code of Conduct
+Whistleblowing
+Conflict Mineral Policy
+ISO Certifications
+Terms and Conditions
+Get in touch
+By phone
++46 8 564 828 80 (landline)
+By e-mail
++46 8 564 828 80
+Copyright 2026 © Fibersystem
+Product Areas
+TEMPEST/RÖS
+News
+Pressrelease
+Contact
+About us

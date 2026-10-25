@@ -1,0 +1,11 @@
+# SB-576 matrix.es · feed_auto · https://www.matrix.es/feed · fetched 2026-10-25T07:41:18Z · HTTP 200
+Mon, 21 Sep 2026 08:43:44 +0000	Axiomtek & Matrix Solution Day	https://www.matrix.es/novedades-y-formacion/axiomtek-solution-day-barcelona
+Tue, 21 Jul 2026 11:33:45 +0000	GPU dedicada vs SoC con NPU integrada	https://www.matrix.es/novedades-y-formacion/gpu-dedicada-vs-soc-con-npu-integrada-workshop-tecnico
+Wed, 10 Jun 2026 10:24:46 +0000	Catálogo de Antenas 2026	https://www.matrix.es/novedades-y-formacion/catalogo-de-antenas-2026
+Mon, 02 Mar 2026 11:30:04 +0000	Arquitecturas AIoT: Del Cloud al Edge para una Industria Inteligente	https://www.matrix.es/novedades-y-formacion/ultimas-novedades/soluciones-arquitecturas-aiot-edge-computing
+Tue, 17 Feb 2026 11:39:24 +0000	Informe de Mercado 2026: Perspectivas Críticas de Suministro y Estrategia de Compras	https://www.matrix.es/novedades-y-formacion/ultimas-novedades/informe-mercado-suministro-tecnologia-estrategia-compras-2026
+Fri, 06 Feb 2026 08:31:40 +0000	Ciberseguridad Industrial y NIS2: Cómo asegurar tu red industrial	https://www.matrix.es/novedades-y-formacion/ultimas-novedades/ciberseguridad-industrial-normativa-nis2
+Mon, 02 Feb 2026 08:24:36 +0000	Switch de Capa 2 vs Switch de Capa 3 ¿Qué Switch elegir? (Guía Actualizada 2026)	https://www.matrix.es/novedades-y-formacion/ultimas-novedades/switch-de-capa-2-y-switch-de-capa-3-que-switch-elegir
+Sun, 07 Sep 2025 22:00:18 +0000	Más Allá de la Nube: Desbloqueando el Poder de la IA en el Edge	https://www.matrix.es/novedades/que-es-edge-ai-guia-de-hardware-para-ia-industrial
+Tue, 05 Aug 2025 06:39:06 +0000	DDR4 vs. DDR5 ¿Por qué este es el momento de la transición?	https://www.matrix.es/novedades/ddr4-vs-ddr5-por-que-este-es-el-momento-de-la-transicion
+Mon, 10 Mar 2025 11:55:51 +0000	AGV y AMR, la Clave de la Automatización Inteligente	https://www.matrix.es/novedades-y-formacion/agv-y-amr-la-clave-de-la-automatizacion-inteligente

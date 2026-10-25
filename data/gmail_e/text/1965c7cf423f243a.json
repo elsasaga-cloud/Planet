@@ -11,7 +11,7 @@
  "text": "Hi, Azad,\nAny feedback about our product and offer?\nDo you need some samples for testing?\nThank you.",
  "char_count": "197",
  "attachments": "[{'filename': 'image001.jpg', 'mime_type': 'image/jpeg', 'size': 277893}]",
- "note": "SB-427：Elsa 2025-04-22 追问样机，之后无回",
+ "note": "SB-447：Elsa 2025-04-22 追问样机，之后无回",
  "text_source": "text/plain",
  "fetched": "2026-10-24T16:03Z",
  "method": "Arena Gmail connector get_message_text(include_quoted=false)"

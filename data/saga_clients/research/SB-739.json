@@ -1,55 +1,36 @@
 {
  "code": "SB-739",
- "name_official": "Techsouq Computers L.L.C.（Dubai）",
+ "name_official": "Arcdyn（美国北卡阿什维尔）",
  "researched_at": "2026-10-21",
- "website_status": "在线（techsouq.com；快照 HTTP 错误，web 可达）",
- "summary": "迪拜老牌 IT 电商（1999 年起，约 8 人，营收约 $1M），服务政府 / 企业 / 消费者，专长「难找的 IT 产品」采购，Garmin 等经销；MD Ahmad Pervez（+971 4 355 0600），沙特热线；表内兴趣 MC / 机架 / 周边，2024-09 对电源转换器群发回复 interesting。表内国家沙特 → 实为阿联酋（沙特为分站），待核不改。",
+ "website_status": "在线（arcdyn.com，快照 2026-10-21）",
+ "summary": "美国安防摄像机供应商 / 分销（NDAA 选项，IP 摄像机、NVR、门禁；Uniview；camera 232 / poe 164 / switch 66），President Justin Bowman；表内「主要是 CCTV，商用 PoE，PoE extender」；群发 19 次无回复。",
  "type": "",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Uniview"
+ ],
  "evidence": [
   {
-   "kind": "名录",
-   "claim": "迪拜 IT 网店，1999 年，8 人，$948K；MD Ahmad Pervez",
-   "quote": "Techsouq Computers is an online IT store based in Dubai, UAE… Revenue $948 K… Employees 8… Founded 1999… Ahmad Pervez Managing Director",
-   "url": "https://www.datanyze.com/companies/techsouq/355182071",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "联系：+971 4 3550 600 / +966 800 850 1559 / info@techsouq.com；Bayan Business Center, DIP",
-   "quote": "Contact +971 4 3550600 (+966) 800 850 1559… Techsouq Computers L.L.C. Bayan Business Center, Dubai Investments Park First",
-   "url": "https://techsouq.com/contact-us/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "LinkedIn",
-   "claim": "MD 自述：中东最早的在线技术商店之一，专长难找 IT 产品，B2C + B2B",
-   "quote": "Techsouq.com is one of the first & foremost on-line technology stores in the Middle East. We specialize in sourcing hard to find IT products & accessories",
-   "url": "https://aeroleads.com/in/ahmadpervez",
+   "kind": "官网快照",
+   "claim": "安防摄像机供应商与分销，NDAA 选项；阿什维尔",
+   "quote": "Arcdyn Security Supplier sells affordable professional grade IP Security Cameras, NVR Surveillance Systems, & Access Control Systems Nation Wide and In Asheville, NC… NDAA Options… brands Uniview",
+   "url": "https://arcdyn.com/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "MC 机架 周边产品；2024-09 群发 power converter→interesting",
-   "quote": "兴趣：MC 机架 周边产品；回复：interesting",
+   "claim": "主要是 CCTV 商业 PoE PoE extender",
+   "quote": "兴趣：主要是CCTV 商业PoE PoE extender",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
  "kp": [
   {
-   "name": "Ahmad Pervez",
-   "title": "Managing Director",
-   "email": "ahmad@techsouq.com",
-   "phone": "+971 50 653 4953",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
-  },
-  {
-   "name": "Shifan Shivani",
-   "title": "Co-Founder",
-   "email": "info@techsouq.com",
-   "phone": "+971 4 355 0600",
+   "name": "Justin Bowman",
+   "title": "President",
+   "email": "jbowman@arcdyn.com",
+   "phone": "",
    "source": "（本地 Clients/ 表格，无公开 URL）"
   }
  ],
@@ -58,84 +39,87 @@
  "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（名录 + 官网核对）"
+  "level": "B 级加厚 v1（官网快照核对 + 表内）"
  },
  "company_facts": {
-  "legal_name": "Techsouq Computers L.L.C.",
-  "founded": "1999",
-  "hq": "Bayan Business Center, Dubai Investments Park 1, Dubai, UAE（PO Box 27570）",
-  "size": "约 8 人，营收约 $1M",
-  "other": "WooCommerce 电商；沙特免费热线"
+  "legal_name": "Arcdyn LLC（待核）",
+  "founded": "",
+  "hq": "Asheville, NC, USA",
+  "size": "中小型安防分销",
+  "other": "NDAA 合规选项"
  },
  "business_lines": [
-  "IT 产品电商（服务器、网络、外设）",
-  "B2B 采购 / AMC"
+  "安防摄像机 / NVR 分销"
  ],
  "channels": {
-  "role": "电商 / 经销",
-  "region": "阿联酋 + 沙特"
+  "role": "安防分销商",
+  "region": "美国"
  },
  "signals": [
-  "对 MC 机架（周边）有兴趣"
+  "President 具名；PoE 为配套品类"
  ],
  "risks": [
-  "电商小单、价格透明",
-  "MC 机架 Saga 价目无（按 SmartByte 另询）"
+  "美国：常要求 UL 列名（Saga 无 UL，仅 FCC/CE）→ 首触即说明",
+  "NDAA 合规（芯片来源）敏感 → Marvell 平台需说明",
+  "PoE 延长器 Saga 无；19 次群发无回复"
  ],
  "saga_fit": {
-  "p1": "STI-110GE",
+  "p1": "STC-424DGGPM-280W",
   "tier": 20,
-  "why": "MC 需求 → STI-110GE 起手；16 槽 MC 机架按 SmartByte 型号另询并注明。"
+  "why": "CCTV 走量 24 PoE → STC-424DGGPM-280W（$134.5 @20%）；8 PoE STC-28DGGPM。"
  },
- "email_hook": "Ahmad, you flagged the media-converter rack and accessories as interesting — do you want to list a gigabit MC (single-fibre 20 km) with a 16-slot rack as a bundle? I'll quote both EXW from 1 set.",
+ "email_hook": "Justin, for the camera channel — Marvell L2+ 24-PoE (280 W) at $135 and 8-PoE + 2-SFP at $81 EXW, FCC/CE (no UL), Marvell switching silicon; would a 2-unit test next to your current PoE line help?",
  "mail_review": {
   "binding": {
-   "level": "轻度触达（2024-09-08 Ahmad「Looks good」→ $33.5 + 问样；无后续；Elsa 箱：`to:techsouq.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 20 / 来 1）（第 74 批(n)））",
-   "type": "迪拜 IT 分销（Techsouq）",
-   "sieve": "2",
-   "stop": "问样后无回",
-   "revive": "不动",
-   "lane": "AE",
-   "cadence": "不动",
-   "evidence": "k=a0ca6fa7bfe03f08；第 19 批回补来信原文 1 条（gmail_s/gmail_a）"
+   "level": "读而不回（A/S 邮箱 21 封 2024→2026，其中 3 封被打开，0 回；收件 jbowman@arcdyn.com, support@arcdyn.com；被打开主题「Industrial PoE Switch、Managed Optical Bypass Switch」；Elsa 箱：`to:arcdyn.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 21 / 来 0）（第 74 批(h)））",
+   "type": "—",
+   "sieve": "2（有人在读，无人回）",
+   "stop": "读而不回 = 内容未命中或没有当下需求",
+   "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
+   "lane": "US 主攻（四主）",
+   "cadence": "一封；回了再说",
+   "evidence": "gmail_digest：out 21，Opened 标签 3（Simon 群发追踪）；用户表：「兴趣：主要是CCTV 商业PoE PoE extender」；研究档 risks：美国：常要求 UL 列名（Saga 无 UL，仅 FCC/CE）→ 首触即说明"
   },
-  "situation": "—",
-  "need": "—",
-  "breakpoint": "—",
+  "situation": "美国安防摄像机供应商 / 分销（NDAA 选项，IP 摄像机、NVR、门禁；Uniview；camera 232 / poe 164 / switch 66），President Justin Bowman；表内「主要是 CCTV，商用 PoE，PoE extender」；群发 19 次无回复。",
+  "need": "CCTV 走量 24 PoE → STC-424DGGPM-280W（$134.5 @20%）；8 PoE STC-28DGGPM。",
+  "breakpoint": "美国：常要求 UL 列名（Saga 无 UL，仅 FCC/CE）→ 首触即说明",
   "saga_now": {
-   "p1": "—",
+   "p1": "STC-424DGGPM-280W",
    "tier": 20,
-   "price": "历史报价（邮件原话，老汇率）：2024-09-09 33.5usd；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-12-11 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2025-02-27 $65（10G Media Converter）、2025-09-23 $280（10G Enterprise SFP Switch）",
-   "why": "已打开的主题（3/20 封有打开记录）：「Re: Power Converter」(2024-09-09)、「Re: Power Converter」(2024-10-03)、「Re: Power Converter」(2024-10-24) → 读者兴趣偏「MC/光电」；与 P1 同类，继续",
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-22 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-07-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-06-25 $65（10g fiber media converter）、2026-05-05 $280（10G Enterprise SFP Switch）",
+   "why": "CCTV 走量 24 PoE → STC-424DGGPM-280W（$134.5 @20%）；8 PoE STC-28DGGPM。已打开的主题（3/21 封有打开记录）：「Marvell Alleycat5 Solution」(2025-03-25)、「Managed Optical Bypass Switch」(2025-04-25)、「Commercial Network Switch」(2025-05-23) → 读者兴趣主题类别不明（看原主题）｜已发资料（勿重发）：Product Link_2026Q2(2026-02-27)、Saga Feature List_7.5.x_L2+(2026-07-01)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—",
-   "one_question": ""
+   "when": "2026-11",
+   "channel": "A 邮箱 → jbowman@arcdyn.com",
+   "action": "短信一问（email_hook）",
+   "one_question": "Justin, for the camera channel — Marvell L2+ 24-PoE (280 W) at $135 and 8-PoE + 2-SFP at $81 EXW, FCC/CE (no UL), Marvell switching silicon; would a 2-unit test next to your current PoE line help?"
   },
   "facts": [
    {
-    "date": "2024-09-08",
-    "dir": "来",
-    "who": "info@techsouq.com",
-    "quote": "Looks good. With best regards, Ahmad Pervez, Techsouq Computers L.L.C. Bayan Business Center, Dubai Investments Park First, Dubai, United Arab Emirate",
-    "why": "来信原文（主题「Re: Power Converter」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
-    "k": "a0ca6fa7bfe03f08"
+    "date": "2026-10-01",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Industrial PoE Switch、Managed Optical Bypass Switch",
+    "why": "21 封 / 3 次打开 / 0 回｜首封 2024-06-25 → 末封 2026-10-01（21 去 / 0 来）",
+    "k": "gmail_digest"
    },
    {
-    "date": "2024-09-09",
-    "dir": "去",
-    "who": "Saga（Simon）",
-    "quote": "Hi, Ahmed, Its 33.5usd/pc. Please see attached datasheet. Do you need some samples for testing? Thank you,",
-    "why": "历史报价点（主题「Re: Power Converter」；第 20 批从 gmail_s 回补）：33.5usd",
-    "k": "82968785e232fd55"
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：主要是CCTV 商业PoE PoE extender",
+    "why": "表内备注",
+    "k": "用户表"
    }
   ],
   "proof_gaps": [],
-  "draft_en": null,
+  "draft_en": {
+   "subject": "One question — Industrial PoE Switch",
+   "body": "Hi Justin,\n\nWe have sent you a few mails on \"Industrial PoE Switch\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor the camera channel — Marvell L2+ 24-PoE (280 W) at $135 and 8-PoE + 2-SFP at $81 EXW, FCC/CE (no UL), Marvell switching silicon; would a 2-unit test next to your current PoE line help?\n\nPrices are USD EXW, 2026-10-17 snapshot, valid 15 days.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+  },
   "as_of": "2026-10-24"
  }
 }

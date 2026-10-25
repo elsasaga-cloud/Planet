@@ -1,74 +1,140 @@
 {
- "code": "SB-1067",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（enercon.co.il，快照 2026-10-21）",
- "summary": "以色列 Enercon Technologies Ltd（军用电源 / 军用 PDU / 加固网络设备设计制造商，MIL-STD-810/461/1275/704，航空电子等军事应用；表内「工业 FS / MC，外观和平时看到的不太一样」，KP Tsahi Sucher、Hanita Atzmoni 等）；群发 16 次无回复。",
- "type": "军工制造商（军用电源与加固网络）",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：Enercon Technologies, Ltd. | Military Power Supplies and Networking Field-Proven Solutions；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
-   "quote": "Enercon Technologies Ltd is a leading designer and manufacturer of military power supplies, military PDU and rugged networking solutions for a wide variety of military applications, including avionics, UAV’s, aircraft, C4ISR, electronic war",
-   "url": "https://enercon.co.il/",
-   "date": "2026-10-21"
+  "code": "SB-1067",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（raytelsecurity.com，快照 2026-10-21）",
+  "summary": "英国 Raytel Security Systems（门禁与门口机厂商/库存商：Elvox、Soyal、自有 AR- 系列读卡器，CCTV 与配套 PoE；表内「主要是 CCTV 少量商业 PoE」「质量一般」）；表内未跟进。",
+  "type": "门禁/CCTV 分销商（英国）",
+  "size": "",
+  "brands_seen": [
+    "Elvox",
+    "Soyal"
+  ],
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：Access Control and Door Entry Systems and Associated Products - Elvox - Soyal - Raytel | R；品类词 安防监控（CCTV / 门禁） / 无线 / WiFi / 布线 / 线缆 / 网络交换 / PoE",
+      "quote": "Access Control and Door Entry systems manufacturers and stockists including proximity readers, biometric readers, access keypads, audio and video door entry handsets and audio and video entrance panels. We are Vimar Elvox, Soyal and Raytel ",
+      "url": "https://www.raytelsecurity.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "主要是CCTV 少量商业POE",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "Raytel 定位",
+      "quote": "Access Control and Door Entry Systems and Associated Products - Elvox - Soyal - Raytel ; manufacturers and stockists including proximity readers, biometric readers, access keypads",
+      "url": "https://www.raytelsecurity.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "主要是 CCTV 少量商业 PoE",
+      "quote": "主要是CCTV 少量商业POE；质量一般",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
   },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "工业FS MC 和平时看到的外观不太一样；Sagit Pesach-Mualem Hanita Atzmoni Guy Grabarsky",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
+  "company_facts": {
+    "hq": "英国",
+    "other": "官网 raytelsecurity.com，语言 en，快照状态 ok；角色判定来源：用户表"
   },
-  {
-   "kind": "官网快照",
-   "claim": "军用电源、军用 PDU 与加固网络方案设计制造商",
-   "quote": "Enercon Technologies Ltd is a leading designer and manufacturer of military power supplies, military PDU and rugged networking solutions for a wide variety of military applications, including avionics",
-   "url": "https://enercon.co.il/",
-   "date": "2026-10-21"
+  "business_lines": [
+    "门禁 / 门口机（Elvox / Soyal / 自有 AR 系列）",
+    "CCTV 与配套"
+  ],
+  "channels": {
+    "role": "门禁/CCTV 分销商（英国）",
+    "region": "英国",
+    "contact": "info@raytelsecurity.com"
   },
-  {
-   "kind": "用户表",
-   "claim": "工业 FS / MC",
-   "quote": "工业FS MC 和平时看到的外观不太一样",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
+  "signals": [
+    "官网：Access Control and Door Entry systems manufacturers and stockists including proximity readers, biometric readers, access keypads；站内 AR-888 / AR-TAGK73 / IP-MW7；kw access control 76 / switch 21",
+    "表内：主要是 CCTV 少量商业 PoE；质量一般"
+  ],
+  "risks": [
+    "PoE 为副线（少量商业 PoE）；表内「质量一般」；仅 info@，未跟进过"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 20,
+    "why": "门禁/对讲配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；4 口位 HRUI STC-114GP（列表价，注明）"
+  },
+  "email_hook": "Alongside the Elvox and Soyal door-entry systems you stock, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switches and budget 4/8-port PoE units for IP intercom and camera installs, CE/RoHS/UKCA, EXW USD — which port count do your installers buy most?",
+  "mail_review": {
+    "binding": {
+      "level": "Elsa 群发 BCC 已触达 2026-09-04「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，UK 批次 To sales@cablenet.co.uk，0 回（第 73 批(o) Bcc 头核对 msg 1a06ba5722292bab）；S/A 箱：S/A 邮箱均无往来；来源：用户表「主要是CCTV 少量商业POE」",
+      "type": "门禁/CCTV 分销商（英国）",
+      "sieve": "—（未入筛）",
+      "stop": "Elsa 群发 BCC 触达过（最近 2026-09-04）无回；S/A 箱从未单独发过",
+      "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+      "lane": "UK 主攻（四主）",
+      "cadence": "首封后看打开",
+      "evidence": "gmail_digest：out 0；用户表：「主要是CCTV 少量商业POE」；研究档 risks：PoE 为副线（少量商业 PoE）；表内「质量一般」；仅 info@，未跟进过；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To sales@luxritesecurity.com）本户见于 2025-03-30 名单；同批次（To sales@cablenet.co.uk）本户见于 2026-09-04 名单；2025-03-30 首轮名单无此地址 → 中途加入"
+    },
+    "situation": "英国 Raytel Security Systems（门禁与门口机厂商/库存商：Elvox、Soyal、自有 AR- 系列读卡器，CCTV 与配套 PoE；表内「主要是 CCTV 少量商业 PoE」「质量一般」）；表内未跟进。",
+    "need": "门禁/对讲配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；4 口位 HRUI STC-114GP（列表价，注明）",
+    "breakpoint": "PoE 为副线（少量商业 PoE）；表内「质量一般」；仅 info@，未跟进过",
+    "saga_now": {
+      "p1": "STC-28DGGPM",
+      "tier": 20,
+      "price": "首触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-09-04 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-04；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
+      "why": "门禁/对讲配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；4 口位 HRUI STC-114GP（列表价，注明）",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "待 Simon 排期（首封）",
+      "channel": "A 邮箱 → info@raytelsecurity.com（无具名 KP；公用地址）",
+      "action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-09-04「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 75 批(f) 2026-10-25：英文信稿已写 `draft_en`）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
+      "one_question": "Alongside the Elvox and Soyal door-entry systems you stock, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switches and budget 4/8-port PoE units for IP intercom and camera installs, CE/RoHS/UKCA, EXW USD — which port count do your installers buy most? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
+    },
+    "facts": [
+      {
+        "date": "2025-03-30",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To sales@luxritesecurity.com，UK-安防分销（一轮） 批次）",
+        "quote": "8 Port Industrial PoE Switch — This is a Marvell based unmanaged 8 Port Gigabit PoE switch. 1. 30W per port for outdoor IP cameras 2. Support 250-meter PoE distance, PoE watchdog an",
+        "why": "Elsa 箱群发 BCC 触达证据（命中地址 info@raytelsecurity.com, raytelsecurity.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+        "k": "elsa_bcc"
+      },
+      {
+        "date": "2026-09-04",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To sales@cablenet.co.uk，UK 批次）",
+        "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
+        "why": "Elsa 箱群发 BCC 触达证据（命中地址 info@raytelsecurity.com, raytelsecurity.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+        "k": "elsa_bcc"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "主要是CCTV 少量商业POE",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [
+      "无邮件往来"
+    ],
+    "draft_en": {
+      "subject": "PoE switches for the IP intercom and camera installs behind Elvox and Soyal",
+      "body": "Hello Raytel team,\n\nOver the past months you had a few product mails from us - most recently \"24 Port PoE Managed Switch\" on 4 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nAlongside the Elvox and Soyal door-entry systems you stock, two neutral-brand PoE switches for IP intercom and camera installs, UKCA/CE/RoHS, from single units: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based - model STC-28DGGPM - $80.7 USD EXW at distributor price (MOQ 1, 15-day validity); a budget 4-PoE + 2 uplink unmanaged unit for single-door jobs, STC-114GP - $17.0.\n\nOne question: which port count do your installers buy most - 4 or 8?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+    },
+    "as_of": "2026-10-25"
   }
- ],
- "kp": [],
- "grade_override": "C",
- "override_reason": "守界：以色列军工制造商（军用电源与加固网络，MIL-STD，航空电子应用）；c_sub=守界：军工",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "以色列",
-  "other": "官网 enercon.co.il，语言 en-il，快照状态 ok；角色判定来源：官网文案"
- },
- "business_lines": [
-  "军用电源 / PDU",
-  "加固网络设备（军事应用）"
- ],
- "channels": {
-  "role": "军工制造商（军用电源与加固网络）",
-  "region": "以色列",
-  "contact": "tsahi.sucher@enercon.co.il、hanita.atzmoni@enercon.co.il"
- },
- "signals": [
-  "官网：Military Power Supplies and Networking Field-Proven Solutions；MIL-STD-810 / 461 / 1275 / 704"
- ],
- "risks": [
-  "守界：军用电源与军用加固网络设备制造商，应用为军事/航空电子",
-  "16 次无回复"
- ],
- "saga_fit": {
-  "p1": null,
-  "tier": 25,
-  "why": "军事应用（MIL-STD、航空电子）= 守界（INH：military 不做）→ 改 C"
- },
- "email_hook": "（不发送：军工守界）"
 }

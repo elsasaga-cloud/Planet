@@ -2,65 +2,129 @@
  "code": "SB-478",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "在线（pultar.org，快照 2026-10-21）",
- "summary": "法国 pultar.org（个人网站「Pultars’ Website」；Alibaba RTS 订单「2 个 D4*4B bypass」；KP Giray Pultar）；表内未跟进。",
- "type": "个人买家（RTS 订单）",
+ "website_status": "在线（eurocamguvenlik.com.tr，快照 2026-10-21）",
+ "summary": "土耳其 Eurocam Güvenlik（安防摄像机、CCTV 与 IP 摄像机进口商；栏目 CCTV IP、广播音响、车牌识别、人员考勤、消防、报警；Hikvision / Dahua / Ruijie；KP Gökhan Demir（CEO））；表内 1 次跟进无回复。",
+ "type": "安防进口分销商（土耳其）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Hikvision",
+  "Dahua",
+  "Ruijie"
+ ],
  "evidence": [
   {
    "kind": "官网快照",
-   "claim": "官网标题：Pultars' Website",
-   "quote": "",
-   "url": "https://www.pultar.org/",
+   "claim": "官网标题：Eurocam Güvenlik | Güvenlik Kameraları, CCTV & IP Kamera İthalatçısı；品类词 安防监控（CCTV / 门禁） / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "Profesyonel güvenlik kamerası, CCTV ve IP kamera çözümleri. Türkiye'nin güvenilir ithalatçısı.",
+   "url": "https://eurocamguvenlik.com.tr/",
    "date": "2026-10-21"
   },
   {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "2个D4*4B bypass / from: Alibaba RTS订单",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "bypass ×2 RTS",
-   "quote": "2个D4*4B bypass / from: Alibaba RTS订单",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "kind": "官网快照",
+   "claim": "Eurocam 定位",
+   "quote": "Eurocam Güvenlik | Güvenlik Kameraları, CCTV & IP Kamera İthalatçısı ; Profesyonel güvenlik kamerası, CCTV ve IP kamera çözümleri. Türkiye’nin güvenilir ithalatçısı",
+   "url": "https://eurocamguvenlik.com.tr/",
    "date": "2026-10-21"
   }
  ],
- "kp": [],
- "grade_override": "C",
- "override_reason": "个人零售买家，非渠道；c_sub=品类不符/终端用户",
+ "kp": [
+  {
+   "name": "Gökhan Demir",
+   "title": "CEO",
+   "email": "gokhandemir@eurocamguvenlik.com.tr",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "法国",
-  "other": "官网 pultar.org，语言 ?，快照状态 ok；角色判定来源：待核"
+  "hq": "土耳其",
+  "other": "官网 eurocamguvenlik.com.tr，语言 tr，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "（个人买家）"
+  "安防摄像机 / CCTV 进口分销",
+  "弱电系统（广播、车牌识别、消防、报警）"
  ],
  "channels": {
-  "role": "个人买家（RTS 订单）",
-  "region": "法国",
-  "contact": "giray@pultar.org、mustafa@pultar.org"
+  "role": "安防进口分销商（土耳其）",
+  "region": "土耳其",
+  "contact": "info@eurocamguvenlik.com.tr、gokhandemir@eurocamguvenlik.com.tr"
  },
  "signals": [
-  "快照：Pultars’ Website",
-  "表内：2 个 D4*4B bypass / from: Alibaba RTS 订单；KP Giray Pultar"
+  "官网：Profesyonel güvenlik kamerası, CCTV ve IP kamera çözümleri. Türkiye’nin güvenilir ithalatçısı；首页 CCTV IP Sistemleri ; Plaka Tanıma Geçiş Sistemleri ; Yangın Sistemleri；站内品牌 Hikvision / Dahua / Ruijie",
+  "KP Gokhan DEMİR / CEO（表内）"
  ],
  "risks": [
-  "个人零售买家（非渠道）"
+  "土耳其：汇率敏感；多品牌进口商（Hikvision/Dahua 自带 PoE）；1 次跟进无回复 → 改向 CEO 具名首触"
  ],
  "saga_fit": {
-  "p1": null,
+  "p1": "STC-28DGGPM",
   "tier": 20,
-  "why": "个人网站域、零售订单，非渠道 → 改 C"
+  "why": "CCTV 进口配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理 8/16 PoE 位 HRUI STC-028GP / STC-2216GPM（列表价，注明）"
  },
- "email_hook": "（不发送：个人买家）"
+ "email_hook": "Gökhan, alongside the Hikvision and Dahua systems you import, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switches and budget 8/16-port PoE units for camera kits from small lots, CE/RoHS, EXW USD — which port count do your dealers order most?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 11 封 2025→2026，无记录打开，0 回；收件 gokhandemir@eurocamguvenlik.com.tr, info@eurocamguvenlik.com.tr；主题多为「10G Enterprise SFP Switch、Booster PoE Switch」；Elsa 箱：`to:eurocamguvenlik.com.tr` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 11 / 来 0）（第 74 批(i)））",
+   "type": "安防进口分销商（土耳其）",
+   "sieve": "1（只收到群发）",
+   "stop": "11 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "TR 主攻（四主）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 11；研究档 risks：土耳其：汇率敏感；多品牌进口商（Hikvision/Dahua 自带 PoE）；1 次跟进无回复 → 改向 CEO 具名首触"
+  },
+  "situation": "土耳其 Eurocam Güvenlik（安防摄像机、CCTV 与 IP 摄像机进口商；栏目 CCTV IP、广播音响、车牌识别、人员考勤、消防、报警；Hikvision / Dahua / Ruijie；KP Gökhan Demir（CEO））；表内 1 次跟进无回复。",
+  "need": "CCTV 进口配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理 8/16 PoE 位 HRUI STC-028GP / STC-2216GPM（列表价，注明）",
+  "breakpoint": "土耳其：汇率敏感；多品牌进口商（Hikvision/Dahua 自带 PoE）；1 次跟进无回复 → 改向 CEO 具名首触",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-30 $280（10G Enterprise SFP Switch）",
+   "why": "CCTV 进口配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理 8/16 PoE 位 HRUI STC-028GP / STC-2216GPM（列表价，注明）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
+   "one_question": "Gökhan, alongside the Hikvision and Dahua systems you import, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switches and budget 8/16-port PoE units for camera kits from small lots, CE/RoHS, EXW USD — which port count do your dealers order most?"
+  },
+  "facts": [
+   {
+    "date": "2025-10-30",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "10G Enterprise SFP Switch",
+    "why": "首封去信（邮箱索引；去信共 11 封）",
+    "k": "e58549f8f147fe00"
+   },
+   {
+    "date": "2026-10-06",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "10G Enterprise SFP Switch、Booster PoE Switch",
+    "why": "11 封 / 0 次打开 / 0 回｜首封 2025-10-30 → 末封 2026-10-06（11 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-06",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "Managed PoE Switches",
+    "why": "最近一封去信（邮箱索引；去信共 11 封）",
+    "k": "ac4266285c010758"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

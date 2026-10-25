@@ -1,27 +1,44 @@
 {
   "code": "SB-1009",
-  "name_official": "Musine（肯尼亚；个人 gmail）",
+  "name_official": "Batna24 Sp. z o.o.（波兰 / 意大利站）",
   "researched_at": "2026-10-21",
-  "website_status": "无域名",
-  "summary": "肯尼亚联系人 Musine，需求千兆 PoE 媒体转换器，2025-04 对芯片介绍回复 interested；无公司名。",
+  "website_status": "在线（batna24.com，快照 2026-10-21）",
+  "summary": "波兰 Batna24（+48 34 361 04 48；意大利语站点被归入意大利名单）—— 欧洲 Ubiquiti / MikroTik / Extralink / LigoWave / TP-Link / RF elements / Totolink 主要分销商之一（switch 301 / camera 231 / poe 92 / media converter 17）；表内 SFP 周边、PoE 电源、MC（多 TP-Link）；无跟进。实际公司在波兰（表内国家意大利 → country_fix 波兰）。",
   "type": "",
   "size": "",
-  "brands_seen": [],
+  "brands_seen": [
+    "Ubiquiti",
+    "MikroTik",
+    "Extralink",
+    "LigoWave",
+    "TP-Link",
+    "RF elements",
+    "Totolink",
+    "Teltonika",
+    "Huawei"
+  ],
   "evidence": [
     {
+      "kind": "官网快照",
+      "claim": "欧洲 Ubiquiti / MikroTik / Extralink / LigoWave / TP-Link / RF-Elements / Totolink 主分销商；+48 34 361 04 48；sklep@batna24.com",
+      "quote": "Batna24 is the main distributor in Europe of brands such as Ubiquiti Networks and Mikrotik, Extralink, Ligowave, TP-Link, RF-Elements, Totolink… +48 34 361 04 48",
+      "url": "https://batna24.com/",
+      "date": "2026-10-21"
+    },
+    {
       "kind": "用户表",
-      "claim": "兴趣千兆 PoE MC；回复 interested",
-      "quote": "兴趣：千兆PoE MC；回复：interested",
+      "claim": "SFP 周边产品；POE 电源 MC（多是 tp-link 的）",
+      "quote": "兴趣：SFP 周边产品 POE电源 MC（多是tp-link的）",
       "url": "（本地 Clients/ 表格，无公开 URL）",
       "date": "2026-10-21"
     }
   ],
   "kp": [
     {
-      "name": "Musine",
-      "title": "（表内联系人）",
-      "email": "wafulamusine@gmail.com",
-      "phone": "+254 758 361 672",
+      "name": "（网店）",
+      "title": "Shop",
+      "email": "shop@batna24.com",
+      "phone": "+48 34 361 04 48",
       "source": "（本地 Clients/ 表格，无公开 URL）"
     }
   ],
@@ -30,186 +47,97 @@
   "notes": "（无首轮调研；由 deepen.py 建档）",
   "deep": {
     "done_at": "2026-10-21",
-    "level": "无域名 · 仅表内信息"
+    "level": "B 级加厚 v1（官网快照核对 + 表内）"
   },
   "company_facts": {
-    "legal_name": "（未知）",
+    "legal_name": "Batna24 Sp. z o.o.",
     "founded": "",
-    "hq": "肯尼亚",
-    "size": "",
-    "other": "gmail"
+    "hq": "Częstochowa, Poland（+48 34）",
+    "size": "大型网络分销商（泛欧电商）",
+    "other": "Extralink 为其自有品牌（含 MC / PoE 配件）"
   },
+  "business_lines": [
+    "ISP / 无线 / 网络设备泛欧分销（电商）"
+  ],
   "channels": {
-    "role": "（未知，疑安装商）",
-    "region": "肯尼亚"
+    "role": "大型分销商 + 自有品牌 Extralink",
+    "region": "波兰 / 欧洲"
   },
   "signals": [
-    "明确口型：千兆 PoE MC"
+    "自有品牌 Extralink 覆盖 MC / PoE 配件 / 交换机 → 贴牌采购方（OEM 30%）"
   ],
   "risks": [
-    "身份不明；东非付款 T/T 预付"
+    "规模大、直接对接中国原厂的可能性高",
+    "仅 shop@ 邮箱"
   ],
   "saga_fit": {
-    "p1": "STI-111GP",
-    "tier": 25,
-    "why": "千兆 PoE MC = Saga 工业 STI-111GP（$27.8/29.0/30.1）。"
+    "p1": "STI-288GP",
+    "tier": 30,
+    "why": "Extralink 工业 PoE 线补 SKU → STI-288GP（$62.2 @30%）贴牌；商用 STC-28DGGPM。"
   },
-  "email_hook": "Musine, the gigabit PoE media converter you asked about (1 SFP + 1 PoE port, DIN/desktop) ships from 1 pc — want the EXW price and datasheet?",
+  "email_hook": "For the Extralink range — we build DIN 2-SFP + 8-PoE industrial and Marvell L2+ 8/24-PoE commercial switches under your label from small lots; who handles Extralink product sourcing so I can send specs to the right desk?",
+  "country_fix": "波兰",
   "mail_review": {
     "binding": {
-      "level": "未发信→一句「interested」（Elsa 邮箱 2025-04-16 wafulamusine@gmail.com 回「Am good… Am interested」；S/A 邮箱 0 封；个人 gmail、肯尼亚）；Elsa 1:1 去信 9 轮 2025-05-12→2026-08-04（To 仅本户 wafulamusine@gmail.com；头 msg 19fcc6e2b389afed 核对无 Bcc，称呼「Hi, Musine」= 个性化逐月 1:1 名单；主题 Marvell Industrial Alert System、Updated Ethernet Switches Links、Industrial PoE Switch、24 Port PoE Managed Switch…；客户来过信：Elsa 回 2025-04-17 Re:「Marvell Alleycat5 Solution」、2025-04-22 Re:「Marvell Alleycat5 Solution」；此前经 锚 sibandaprofp@gmail.com 的 Bcc 收到 2 轮（2025-03-02→2025-04-15）→ 回信后被 Elsa 从 Bcc 名单剔出、转入 1:1 名单）（第 74 批(m) `from:e.sagatelecom to:` 全程 complete，直收 11 条）；Elsa 群发 BCC 已触达 2025-04-15「Marvell Alleycat5 Solution」（稿内无价，第 74 批(p) 已读稿），非洲/中亚/中东散户-2（锚 2025 sibanda ZW） 批次 To sibandaprofp@gmail.com，0 回（第 74 批 Bcc 头核对 msg 1963891c7a76ab19）",
+      "level": "Elsa 群发 BCC 已触达 2026-08-31「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，IT 批次 To INFO@sarcitalia.it，0 回（第 73 批(o) Bcc 头核对 msg 1a057bf756774b15）；S/A 箱：S/A 邮箱均无往来；来源：用户表「兴趣：SFP 周边产品 POE电源 MC（多是tp-link的）」",
       "type": "—",
       "sieve": "—（未入筛）",
-      "stop": "从未触达",
-      "revive": "不动（非主攻区；一句兴趣无需求）",
-      "lane": "肯尼亚 非主攻",
-      "cadence": "不动",
-      "evidence": "gmail_digest：out 0；用户表：「兴趣：千兆PoE MC；回复：interested」；研究档 risks：身份不明；东非付款 T/T 预付；Elsa 邮箱 `data/gmail_e/text/`（Replied 线程，客户→Elsa 正文；Elsa 回复正文已入库（第 73 批））；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To sibandaprofp@gmail.com）本户见于 2025-04-15 名单；2025-12-09 最新一轮名单已不含此地址 → 中途被剔除（退信 / 退订 / 手工）；该批次最早 2025-03-02 起共 9 轮，更早轮次 Bcc 未读"
+      "stop": "Elsa 群发 BCC 触达过（最近 2026-08-31）无回；S/A 箱从未单独发过",
+      "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+      "lane": "PL 次级重点",
+      "cadence": "首封后看打开",
+      "evidence": "gmail_digest：out 0；用户表：「兴趣：SFP 周边产品 POE电源 MC（多是tp-link的）」；研究档 risks：规模大、直接对接中国原厂的可能性高；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To INFO@sarcitalia.it）2025-04-01→2026-08-31 共 9 轮群发（Marvell Alleycat5 Solution、8 Port Industrial PoE Switch、Commercial PoE Switch、48 Port PoE Managed Switch、16 Port Ethernet Switch、10G Enterprise SFP Switch、Industrial PoE Switch、OEM Core Switching Solution、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断"
     },
-    "situation": "肯尼亚联系人 Musine，需求千兆 PoE 媒体转换器，2025-04 对芯片介绍回复 interested；无公司名。",
-    "need": "千兆 PoE MC = Saga 工业 STI-111GP（$27.8/29.0/30.1）。",
-    "breakpoint": "身份不明；东非付款 T/T 预付",
+    "situation": "波兰 Batna24（+48 34 361 04 48；意大利语站点被归入意大利名单）—— 欧洲 Ubiquiti / MikroTik / Extralink / LigoWave / TP-Link / RF elements / Totolink 主要分销商之一（switch 301 / camera 231 / poe 92 / media converter 17）；表内 SFP 周边、PoE 电源、MC（多 TP-Link）；无跟进。实际公司在波兰（表内国家意大利 → country_fix 波兰）。",
+    "need": "Extralink 工业 PoE 线补 SKU → STI-288GP（$62.2 @30%）贴牌；商用 STC-28DGGPM。",
+    "breakpoint": "规模大、直接对接中国原厂的可能性高",
     "saga_now": {
-      "p1": "STI-111GP",
-      "tier": 25,
-      "price": "按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-05-12 $300（48 Port PoE Managed Switch = STC-448XGGPM，Elsa 箱 1 轮 2025-05-12；现表 $335.4@20%、Drive 老表 $335——同款写 $335 要先说 2025 群发是 $300、汇率 7.2→6.7）；2026-05-11 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 2 轮 2025-10-01→2026-05-11；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-08-04 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-04；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
-      "why": "千兆 PoE MC = Saga 工业 STI-111GP（$27.8/29.0/30.1）。",
+      "p1": "STI-288GP",
+      "tier": 30,
+      "price": "首触锚价 STI-288GP $60 EXW（最近实报 $60（SB-034 2025-03-18；SB-1102 / SB-010 同价）（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-31；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
+      "why": "Extralink 工业 PoE 线补 SKU → STI-288GP（$62.2 @30%）贴牌；商用 STC-28DGGPM。",
       "repeat": [],
       "gaps": []
     },
     "next_move": {
-      "when": "不动",
-      "channel": "—",
-      "action": "首封前知悉：Elsa 已 1:1 去信 9 轮（2025-05-12→2026-08-04，客户回过信（2025-04-17、2025-04-22）），此前还经锚 Bcc 触达（第 74 批(m)）；—",
-      "one_question": ""
+      "when": "待 Simon 排期（首封）",
+      "channel": "A 邮箱 → shop@batna24.com（无具名 KP；公用地址）",
+      "action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-31「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 75 批(d) 2026-10-25：英文信稿已写 `draft_en`）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
+      "one_question": "For the Extralink range — we build DIN 2-SFP + 8-PoE industrial and Marvell L2+ 8/24-PoE commercial switches under your label from small lots; who handles Extralink product sourcing so I can send specs to the right desk? Reference: STI-288GP at $60 USD EXW (MOQ 1, 15-day validity)."
     },
     "facts": [
       {
-        "date": "2025-04-15",
+        "date": "2025-04-01",
         "dir": "去",
-        "who": "Elsa 群发（BCC；To sibandaprofp@gmail.com，非洲/中亚/中东散户-2（锚 2025 sibanda ZW） 批次）",
-        "quote": "Marvell Alleycat5 Solution — （头部未取正文；见 Elsa 箱）",
-        "why": "Elsa 箱群发 BCC 触达证据（命中地址 wafulamusine@gmail.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+        "who": "Elsa 群发（BCC；To INFO@sarcitalia.it，IT 批次）",
+        "quote": "Marvell Alleycat5 Solution — We are doing Marvell Alleycat5 chip for tailored networking solutions. 1, Support Web GUI change(Logo, model name, MAC, SN, SNMP, OID) 2, Added intere",
+        "why": "Elsa 箱群发 BCC 触达证据（命中地址 batna24.com, shop@batna24.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
         "k": "elsa_bcc"
       },
       {
-        "date": "2025-04-16",
-        "dir": "来",
-        "who": "Musine（肯尼亚，个人 gmail）",
-        "quote": "Am good .... Am interested",
-        "why": "一句兴趣，无需求细节；非主攻区",
-        "k": "gmail_e"
-      },
-      {
-        "date": "2025-04-17",
+        "date": "2026-08-31",
         "dir": "去",
-        "who": "Elsa",
-        "quote": "Thanks for your interest. Please see attached links for all information.（附 Download Link.pdf）",
-        "why": "对「Am interested」只给链接",
-        "k": "gmail_e 19642de7fdf8791b"
-      },
-      {
-        "date": "2025-04-22",
-        "dir": "去",
-        "who": "Elsa",
-        "quote": "Did you check the product information? Any interested models?",
-        "why": "追问一次，之后无回 → 一句兴趣到此为止",
-        "k": "gmail_e 1965c9c762c8b5a9"
-      },
-      {
-        "date": "2025-05-12",
-        "dir": "out",
-        "who": "Elsa → wafulamusine@gmail.com",
-        "quote": "48 Port PoE Managed Switch（Elsa 1:1 逐月名单第 1/9 轮；To 仅本户；正文价 300usd/pc，第 74 批(p) 读稿 msg 194eff1f9bf46879 / 1973a613b8166b58）",
-        "why": "第 74 批(m) `from:e.sagatelecom to:wafulamusine@gmail.com` 全程 complete：9 轮直收；客户曾来信（见 Re: 行）",
-        "k": "elsa_1to1",
-        "msg_id": "196c3efe17fedaa1"
-      },
-      {
-        "date": "2025-06-21",
-        "dir": "out",
-        "who": "Elsa → wafulamusine@gmail.com",
-        "quote": "16 Port Ethernet Switch（Elsa 1:1 逐月名单第 2/9 轮；To 仅本户）",
-        "why": "第 74 批(m) `from:e.sagatelecom to:wafulamusine@gmail.com` 全程 complete：9 轮直收；客户曾来信（见 Re: 行）",
-        "k": "elsa_1to1",
-        "msg_id": "197919830e738e88"
-      },
-      {
-        "date": "2025-10-01",
-        "dir": "out",
-        "who": "Elsa → wafulamusine@gmail.com",
-        "quote": "10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 3/9 轮；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
-        "why": "第 74 批(m) `from:e.sagatelecom to:wafulamusine@gmail.com` 全程 complete：9 轮直收；客户曾来信（见 Re: 行）",
-        "k": "elsa_1to1",
-        "msg_id": "1999fd7c73965cb6"
-      },
-      {
-        "date": "2025-12-03",
-        "dir": "out",
-        "who": "Elsa → wafulamusine@gmail.com",
-        "quote": "Booster PoE Switch（Elsa 1:1 逐月名单第 4/9 轮；To 仅本户）",
-        "why": "第 74 批(m) `from:e.sagatelecom to:wafulamusine@gmail.com` 全程 complete：9 轮直收；客户曾来信（见 Re: 行）",
-        "k": "elsa_1to1",
-        "msg_id": "19ae3f0cb24510aa"
-      },
-      {
-        "date": "2025-12-29",
-        "dir": "out",
-        "who": "Elsa → wafulamusine@gmail.com",
-        "quote": "Marvell Industrial Alert System（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
-        "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
-        "k": "elsa_1to1",
-        "msg_id": "19b68fa6941a54fc"
-      },
-      {
-        "date": "2026-03-02",
-        "dir": "out",
-        "who": "Elsa → wafulamusine@gmail.com",
-        "quote": "Updated Ethernet Switches Links（Elsa 1:1 逐月名单第 6/9 轮；To 仅本户）",
-        "why": "第 74 批(m) `from:e.sagatelecom to:wafulamusine@gmail.com` 全程 complete：9 轮直收；客户曾来信（见 Re: 行）",
-        "k": "elsa_1to1",
-        "msg_id": "19cadcdec0ee73bb"
-      },
-      {
-        "date": "2026-04-03",
-        "dir": "out",
-        "who": "Elsa → wafulamusine@gmail.com",
-        "quote": "Industrial PoE Switch（Elsa 1:1 逐月名单第 7/9 轮；To 仅本户）",
-        "why": "第 74 批(m) `from:e.sagatelecom to:wafulamusine@gmail.com` 全程 complete：9 轮直收；客户曾来信（见 Re: 行）",
-        "k": "elsa_1to1",
-        "msg_id": "19d527fcae4de9d9"
-      },
-      {
-        "date": "2026-05-11",
-        "dir": "out",
-        "who": "Elsa → wafulamusine@gmail.com",
-        "quote": "10G Enterprise SFP Switch（Elsa 2026 年 1:1 名单重发；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
-        "why": "本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无）",
-        "k": "elsa_1to1",
-        "msg_id": "19e169629b5e1b3c"
-      },
-      {
-        "date": "2026-08-04",
-        "dir": "out",
-        "who": "Elsa → wafulamusine@gmail.com",
-        "quote": "24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 9/9 轮；To 仅本户；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f）",
-        "why": "第 74 批(m) `from:e.sagatelecom to:wafulamusine@gmail.com` 全程 complete：9 轮直收；客户曾来信（见 Re: 行）",
-        "k": "elsa_1to1",
-        "msg_id": "19fcc6e2b389afed"
+        "who": "Elsa 群发（BCC；To INFO@sarcitalia.it，IT 批次）",
+        "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
+        "why": "Elsa 箱群发 BCC 触达证据（命中地址 batna24.com, shop@batna24.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+        "k": "elsa_bcc"
       },
       {
         "date": "2026-10-21",
         "dir": "用户表",
         "who": "Simon",
-        "quote": "兴趣：千兆PoE MC；回复：interested",
+        "quote": "兴趣：SFP 周边产品 POE电源 MC（多是tp-link的）",
         "why": "表内备注",
         "k": "用户表"
       }
     ],
     "proof_gaps": [
-      "（已核 2026-10-24，第 73 批）Elsa 邮箱完整往来：04-15 群发 → 04-16「Am good… Am interested」→ 04-17 Elsa 给下载链接 → 04-22 追问 → 无回；用户表「有回复·跟进中」= 这条；不动不变"
+      "无邮件往来"
     ],
-    "draft_en": null,
+    "draft_en": {
+      "subject": "Industrial PoE switches for the Extralink range - who handles product sourcing?",
+      "body": "Hello Batna24 team,\n\nOver the past months you had a few product mails from us - most recently \"24 Port PoE Managed Switch\" on 31 August 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the Extralink range we can build under your label from small lots: a DIN-rail industrial 8 x Gigabit PoE+ + 2 x SFP unmanaged switch, -40 to 75 C, CE/RoHS - model STI-288GP - $60 USD EXW (MOQ 1, 15-day validity); managed and 24-port commercial versions on the same basis. SFP optics and PoE power supplies we do not make.\n\nOne question: who handles Extralink product sourcing, so I send the specs to the right desk?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+    },
     "as_of": "2026-10-25"
   }
 }

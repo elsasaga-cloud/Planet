@@ -1,0 +1,60 @@
+{
+ "code": "SC-226",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "快照失败（unreachable）",
+ "summary": "保加利亚 BGTRONICA LTD（表内国别格鲁吉亚为误记，地址索非亚；2010 年阿里巴巴 RFQ「无人机」；KP Teodor Kazandjiev（Sales Representative），仅 gmail；电话加不上；官网 unreachable）；表内未跟进。",
+ "type": "陈旧询盘（2010，无人机，免费邮箱）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "无人机；2010年使用国际站 359 - 884 - 213695 加不上 BG , Sofia , Sofia , 5 Tzar Kaloyan；无人机 / from: 阿里巴巴RFQ",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "2010 无人机 RFQ",
+   "quote": "2010年使用国际站 ... 无人机 / from: 阿里巴巴RFQ",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "陈旧询盘（2010）且品类不符；c_sub=陈旧询盘/品类不符",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "格鲁吉亚",
+  "other": "官网 bgtronica.com，语言 ?，快照状态 unreachable；角色判定来源：待核"
+ },
+ "business_lines": [
+  "（陈旧询盘，保加利亚）"
+ ],
+ "channels": {
+  "role": "陈旧询盘（2010，无人机，免费邮箱）",
+  "region": "保加利亚",
+  "contact": "teodorkazandjiev87@gmail.com"
+ },
+ "signals": [
+  "表内：2010 年使用国际站；BG, Sofia, 5 Tzar Kaloyan；无人机 / from: 阿里巴巴 RFQ；KP Teodor Kazandjiev, Sales Representative",
+  "快照：unreachable"
+ ],
+ "risks": [
+  "陈旧询盘（2010 年）；品类不符（无人机）；仅 gmail 免费邮箱；官网 unreachable；小国"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 20,
+  "why": "2010 年陈旧询盘、品类无人机、仅免费邮箱、官网不可达 → 改 C；国别改保加利亚"
+ },
+ "email_hook": "（不发送：陈旧询盘）",
+ "country_fix": "保加利亚"
+}

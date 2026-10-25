@@ -1,0 +1,296 @@
+# SB-915 radwin.com · news_1 · https://www.radwin.com/blog · fetched 2026-10-25T07:41:18Z · HTTP 200
+Blog Posts | RADWIN Website
+Skip to Content
+Home
+Solutions
+PtMP Base Stations
+Carrier-grade sub-6GHz base stations delivering reliable, high-capacity wireless connectivity for business, residential, and industrial deployments.
+Subscriber Units
+Versatile, high-performance Subscriber Units designed for seamless integration with RADWIN’s PtMP base stations.
+PtP Solutions
+Long-range, high-throughput Point-to-Point radios built for fiber-like backhaul and last-mile access.
+Mobility & Transportation Solutions
+Robust wireless solutions enabling train-to-ground, intra-train, and data offload connectivity for uninterrupted mobility.
+Networking
+Compact Layer 2 and Layer 3 switches tailored for secure, high-performance network infrastructure.
+Network Management Tools
+Cloud and on-premises tools that simplify wireless network design, deployment, monitoring, and lifecycle management.
+Markets
+Carriers
+Smart Cities
+WISPs
+Oil & Gas
+Transportation
+Power Utilities
+Mining
+Forestry
+Seaports
+Insights Hub
+WINCare Services
+Professional Services
+Annual Maintenance
+Managed Services
+Academy
+Company
+About Us
+Management
+Board of Directors
+Partners
+RADWIN Portal
+Careers
+Stay Connected
+Let’s stay in touch—follow us on social media for the latest updates, stories, and insights.
+Social Media
+Contact us
+0
+Portal Login
+0
+Home
+Solutions
+Markets
+Insights Hub
+WINCare Services
+Company
+Contact us
+Portal Login
+Insights Hub
+The Insights Hub brings together the latest updates, customer success stories, expert articles, videos, and press coverage in one central resource. It’s designed to keep you informed and inspired with content that highlights innovation, achievement, and industry leadership.
+Blogs:
+All
+Videos
+Articles
+What's New
+PR Archive
+Customer Success
+​
+Blogs
+All
+Videos
+Articles
+What's New
+PR Archive
+Customer Success
+​
+Cambium Networks Administration: FAQ for Partners & ISPs
+Who Bought Cambium Networks? Product Status for Partners and ISPs Last updated: October 21, 2026. We update this page as new public information becomes available. Cambium Networks went into administra...
+Cambium
+Free Assessment
+Migration
+PMP
+PTP
+PtMP
+QORA
+ePMP
+Oct 21, 2026
+Articles
+ePMP and PMP 450 Alternatives
+Looking for an ePMP or PMP 450 Alternative? Here's What Moving to RADWIN Looks Like. Last updated: October 21, 2026 RADWIN's JET family is built for the same point-to-multipoint access networks many o...
+Cambium
+Free Assessment
+Migration
+PMP
+PtMP
+QORA
+ePMP
+Oct 21, 2026
+Articles
+Cambium PtP Alternative: RADWIN Alpha PRO and 2000E
+Looking for a Cambium Point-to-Point Alternative? Meet RADWIN Alpha PRO and 2000E Last updated: October 21, 2026 RADWIN has two point-to-point families that cover the links most operators run on Cambi...
+2000 E
+Alpha PRO
+Cambium
+Free Assessment
+Migration
+PMP
+PTP
+ePMP
+Oct 21, 2026
+Articles
+Introducing QORA, A New Standard for Deterministic Wireless Networks
+QORA delivers up to 10 Gbps per sector, coverage of up to 40 km, and fiber-grade performance, engineered to change the economics of wireless broadband. General availability is planned for Q1 2027. Aug...
+10 Gbps
+Beamforming
+Deterministic Wireless
+PR
+PtMP
+QORA
+Aug 31, 2026
+PR Archive
+From Legacy Cabling to a Smarter, Connected Poultry Farm
+Working with Tinsky Communications, the farm replaced legacy infrastructure to connect poultry houses across three sites in under two weeks...
+Broadband Access
+Business Access
+MultiSector
+PtMP
+Aug 12, 2026
+Customer Success
+Delivering Reliable Connectivity for UK Horse Racing Course Betting Operations
+When thousands of racegoers gather and every second counts, reliable connectivity is critical for real-time betting operations...
+Broadband Access
+Business Access
+PtMP
+PtP
+TerraNet
+Jul 8, 2026
+Customer Success
+WINManage v8.2: Fewer Clicks. More Control. Complete Network Visibility.
+WINManage v8.2: The Smarter Way to Manage RADWIN Networks RADWIN is pleased to announce the release of WINManage v8.2, the latest evolution of our Network Management System (NMS), built to simplify op...
+Network Management Tools
+Professional Services
+WINManage
+Apr 20, 2026
+What's New
+Built-In AI Support: How RADWIN’s Chatbot Transforms the 2000E Setup Experience
+Faster Deployments. Fewer Errors. Smarter Support, Directly Inside the Web UI. Deploying a wireless link shouldn’t require jumping between manuals, PDFs, and support tickets. Yet in real-world install...
+2000 E
+PtP
+Feb 25, 2026
+What's New
+RADWIN and Aircom Global Team Up to Power Next-Gen Wireless Broadband in Tanzania and Uganda
+Strengthening wireless broadband connectivity for service providers and critical infrastructure across East Africa January 22, 2026 – RADWIN ( www.radwin.com ), a global leader in wireless broadband s...
+MMWave
+PR
+Partnership
+PtMP
+PtP
+Jan 24, 2026
+PR Archive
+Introducing Dynamic Channel Switching (DCS) for RADWIN 2000E
+Stronger Control. Smarter Spectrum Use. Continuous Service Quality. RADWIN is excited to introduce powerful new capabilities for the RADWIN 2000E. This update brings Dynamic Channel Switching (DCS) an...
+2000 E
+PtP
+Jan 13, 2026
+What's New
+Keeping Columbus Connected and Secure with WINcare Managed Services
+The Columbus Police Department operates one of Ohio’s largest neighborhood safety camera networks, crucial for community safety and rapid response...
+Managed Services
+Professional Services
+WINCare
+Nov 30, 2025
+Customer Success
+Extending the TerraNet mmWave Series: Introducing the New V90
+High-Capacity Wireless. Zero Compromise. RADWIN continues to deliver high-performance wireless connectivity with the expansion of the TerraNet 60 GHz mmWave Series ,now featuring the new TerraNet V90 ...
+MMWave
+PtMP
+PtP
+TerraNet
+Oct 24, 2025
+What's New
+1
+2
+3
+4
+…
+9
+About us
+Discover the RADWIN Insight Hub — a dynamic space packed with relevant product and market information, expert perspectives, and real-world success to fuel your journey forward.
+Tags
+Application
+ARTGs
+Autonomous Drilling
+Autonomous Drills
+Autonomous Operations
+Broadband Access
+Business Access
+CBTC
+CCTV
+Crane Operations
+Data Offload
+Digital Mining
+Fleet Management
+Inter-Carriage
+Mobility
+Onboard Entertainment
+Onboard Wi-Fi
+PA System
+Passenger Information Systems
+Passenger Wi-Fi
+Public Safety
+Railway Safety
+Railway Signaling
+Residential Access
+Rural Access
+Teleoperations
+Train-to-Ground
+Market
+Carrier
+Electric COOP
+Forestry
+Mining
+Oil & Gas
+Port
+Seaport
+Telephone COOP
+Transportation
+WISP
+Other
+Professional Services
+Press Release
+Logistics
+PR
+Partnership
+Product
+2000 E
+FiberinMotion
+JET
+JET AIR
+JET DUO
+JET PRO
+Managed Services
+MultiSector
+Network Management Tools
+PtMP
+PtP
+TerraBridge
+TerraNet
+WINCare
+WINManage
+WINPlan
+Technology
+Beamforming
+MMWave
+Others
+10 Gbps
+Alpha PRO
+Cambium
+Deterministic Wireless
+ePMP
+Free Assessment
+Migration
+PMP
+PTP
+QORA
+About us​
+RADWIN connects people, businesses, and critical infrastructure with reliable, secure, and scalable wireless solutions, keeping the world connected, resilient, and ready for what’s next.
+Social Media
+Contact​
+​ Contact us
+Solutions
+PtMP Base Stations
+Subscriber Units
+PtP Solutions
+Mobile & Transportation Solutions
+Networking ​​
+OSS Applications
+Markets
+Carriers
+WISPs
+Transportation
+Mining
+Seaports
+Smart Cities
+Oil & Gas
+Power Utilities
+Forestry
+Company
+About
+Management
+Board of Directors
+Partners
+Careers
+Business Hub
+Terms of Use
+Privacy Policy
+Cookie Policy
+We use cookies to provide you a better user experience on this website. Cookie Policy
+Only essentials I agree

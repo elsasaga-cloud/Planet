@@ -1,0 +1,538 @@
+# SB-751 engeniustech.com · news_2 · https://www.engeniustech.com/in-the-news.html · fetched 2026-10-25T07:41:18Z · HTTP 200
+EnGenius News | EnGenius
+Products
+VPN Routers
+Small / Medium / Enterprise VPN Routers >
+SecuPoint VPN Client Software >
+Network Switches
+Small / Medium / Enterprise Network Switches >
+Residential Network Switches >
+Wi-Fi
+Small / Medium / Enterprise Wireless >
+Residential Indoor Wireless >
+Outdoor Point to Point
+Enterprise PtP Wireless Bridges >
+Residential PtP Wireless Bridges >
+AI Surveillance
+Small / Medium / Enterprise AI Cloud Cameras >
+Small / Medium / Enterprise AI Cloud NVS >
+Power Distribution Units
+Small / Medium / Enterprise PDUs >
+Phones
+SIP Phones >
+Analog Phones >
+Phone Accessories >
+Edge AI Computing
+Industrial Edge AI Platform >
+Data Center
+OCP DC-MHS Servers >
+Networking Accessories
+PoE Injectors >
+Power Adapters >
+SFP Modules >
+Redundant Power Supplies >
+Open Frame Power Supplies >
+Solutions
+Small / Medium / Enterprise
+Overview
+Management: Cloud
+EnGenius Management is a unified platform for simple deployment and real-time management of networking and security solutions with enterprise-grade control and visibility.
+EnGenius Cloud delivers centralized, real-time network management from anywhere with zero-touch provisioning and no mandatory licensing fees.
+Explore >
+Hardware
+Management: On-Premises
+Design and build a unified network with access points, switches, routers, power solutions, and AI-powered surveillance.
+EnGenius Private Cloud delivers powerful, scalable on-premises network management—fully under your control.
+Explore >
+AI Surveillance
+AI Cloud Surveillance Solution
+EnGenius Edge AI cameras that think, equipped with built-in NPUs and NVS-based AI processing compatible with third-party cameras, convert bulky video into streamlined metadata, enabling instant object detection and recognition at the source. No bandwidth strain, just smart security.
+Explore >
+Residential
+Overview
+Management: FitXpress
+EnGenius delivers simple, secure, business-grade Wi-Fi for homes and self-starters—with affordable hardware that’s easy to set up in minutes.
+FitXpress delivers simple, app-based network control for homes and micro-businesses—with secure Wi-Fi that’s easy to manage from anywhere.
+Explore >
+Hardware
+Management: On-Premises
+Build a reliable network with Wi-Fi access points, PoE switches, and routers—designed for homes and micro-businesses that need simple, dependable connectivity.
+On-Premises Management delivers secure, local network control through FitController or EnGenius Private Cloud—with centralized visibility and simplified administration.
+Explore >
+Outdoor Point-to-Point Wireless
+Enterprise PtP Wireless Solution >
+EnGenius Outdoor EOC series offers WISPs an unparalleled outdoor PtP & PtMP networking solution with integrated SkyPoint NMS for efficient last-mile and backhaul connectivity, ideal for applications in urban, rural areas, and more.
+Explore >
+Voice Communications
+DuraFon Ruggedized Phones
+FreeStyl Phones
+In fast-paced workplaces, effective communication is crucial. Standard cordless phones lack range, Wi-Fi phones use vital bandwidth, and cell phones can’t withstand drops. This leads to delays, frustrations, and inefficiencies.
+Offering an unprecedented range of up to 100,000 square feet, this isn't your ordinary cordless phone. Ideal for hotels, retail stores, and large offices, the FreeStyl 2 empowers staff to stay connected across vast spaces.
+Explore >
+Data Center
+Data Center Servers
+EnGenius S Server Series features high-core Intel® Xeon® 6 CPUs, a modular DC-MHS architecture, and powerful I/O expansion capabilities. From compute density and memory bandwidth to SmartNIC offload and centralized management, they deliver a robust foundation built on performance, manageability, and energy efficiency.
+Explore >
+Industries
+Multi-Dwelling Units
+MDU Networking Solution >
+Hospitality
+Hotel Wi-Fi Solution >
+Healthcare
+Assisted Living Communications Solution >
+Education
+Primary K-12 Solution >
+E-Rate Solution >
+Campground
+Campground / RV Park Outdoor Solution >
+Resources
+Training
+Case Studies
+EnGenius Blog
+In the News
+Press Releases
+Events & Webinars
+Technical Papers
+Doctor EnGenius
+Customer Support
+Partners
+Partner Overview
+Partner Portal Login
+Alliance Partners
+Buy
+Distribution Partners
+EnGenius Store
+Certified Partner Locator
+Contact Sales
+Americas
+United States - English >
+Latin America - Spanish >
+Asia Pacific
+Singapore - English >
+Taiwan - 繁體中文 >
+Japan – 日本語 >
+Thailand – แบบไทย >
+Vietnam - Việt >
+Europe
+Europe - English >
+Spain - Español >
+France – Français >
+Italy - Italiano >
+Solutions
+EnGenius Cloud
+EnSky On-Premises
+Home Wi-Fi
+Voice
+Case Studies
+Industries
+Assisted Living
+Campground WiFi Solutions
+Education: WiFi for Schools
+Hospitality
+Managed Network Services
+Products
+SkyKey
+Security Gateway
+Switches
+Indoor Wireless
+Outdoor Wireless
+Accessories
+Telephony
+Software
+Cloud
+Mobile Apps
+ezWiFi Planner
+ezMaster
+Buy
+Distributors
+EnGenius Store
+Partners
+Partner Program
+Training
+Search for:
+Language
+English
+Spanish
+×
+Solutions
+EnGenius Cloud
+EnSky On-Premises
+Home Wi-Fi
+Voice
+Case Studies
+Industries
+Assisted Living
+Campground WiFi Solutions
+Education: WiFi for Schools
+Hospitality
+Managed Network Services
+Products
+SkyKey
+Security Gateway
+Switches
+Indoor Wireless
+Outdoor Wireless
+Accessories
+Telephony
+Software
+Cloud
+Mobile Apps
+ezWiFi Planner
+ezMaster
+Buy
+Distributors
+EnGenius Store
+Partners
+Partner Program
+Training
+EnGenius News
+Product Categories
+AI Surveillance
+Indoor Wireless
+Outdoor Wireless
+Phone Systems
+Software
+Switches
+VPN Routers
+Product Families
+Broadband Outdoor
+Cloud
+On-Premises
+Voice
+Forbes
+EnGenius AI Surveillance Camera Has Built-In Facial And License Plate Recognition
+November 26, 2025
+Hardware Busters
+EnGenius ECW520 Wi-Fi 7 Access Point Review
+November 16, 2025
+SamsTechStuff
+The EnGenius ECS2510FP Switch – 2.5Gbps/10GBps + 240w of PoE!
+November 13, 2025
+guru3d
+EnGenius ECW520 Cloud7 Review – A Proper value Wi-Fi7 (2x2x2) Access Point
+October 15, 2025
+MBReviews
+EnGenius ECW520 Cloud7 2x2x2 Test and Review
+September 29, 2025
+Level1Techs
+Is Wi-Fi 7 Ready for Prime Time? Checking out the EnGenius ECW520 Wireless Access Point
+September 24, 2025
+The Gadgeteer
+EnGenius ECW270 Review – Cloud managed 4×4 Wi-Fi 6 Outdoor Access Point
+July 1, 2025
+TechRadar
+I tested the EnGenius EOC655 bridge, an innovative product that combines Bluetooth and GPS
+June 27, 2025
+The Gadgeteer
+EnGenius Cloud Managed ESG620 VPN Router Review
+May 6, 2025
+RickMakes
+EnGenius ECW516L Wifi 7 Access Point Review
+April 7, 2025
+ITPro
+EnGenius ECW526 review: A fast business Wi-Fi 7 access point at a good price
+April 2, 2025
+PC PRO
+Upgrade to Wi-Fi 7 Buyer’s Guide: PC PRO Reviews Four Business-class Wi-Fi 7 Access Points
+February 23, 2025
+The IT Nerd
+Review: EnGenius ECW516L WiFi 7 Access Point
+February 17, 2025
+Mighty Gadget
+EnGenius ECW536 WiFi 7 Access Point Review – The most affordable 10GbE 4×4 MIMO WiFi 7 AP
+June 11, 2024
+Wi-Fi NOW
+EnGenius takes aim at the SME share of a multi-billion-dollar Wi-Fi 7 growth market
+August, 2023
+Forbes
+EnGenius Wireless Networking Offers Remote Management And Cyberattack Protection
+March, 2022
+Crosstalk Solutions
+Extreme Long Range Cordless – EnGenius FreeStyl 2
+September 2021
+AdoredTV
+ECS2512FP Multi-Gig PoE++ Switch Review
+September 2021
+SpaceRex
+Can it Replace UniFi? – EnGenius ECS1008P PoE Switch
+August 2021
+MBReviews.com
+ECW220 WiFi 6 Access Point Review: A Small Powerhouse
+August 2021
+TechTunerLife
+SkyKey – Network Controller Manage Up to 100 EnGenius Access Points
+August 2021
+Mactelecom Networks
+WiFi 6 Outdoor Access Point
+August 2021
+NASCompares
+ECS1008P 8-Port PoE Switch Review
+July 2021
+Upgrade
+8-Port Gigabit PoE Switch: ECS1008P
+July 2021
+Ultimate Tech Hub
+Top Managed Switch 2021: EnGenius Cloud ECS1008P
+June 2021
+1
+2
+3
+›
+Search for:
+Company
+About EnGenius
+Careers
+Contact Us
+News
+Press Releases
+Blog
+EnGenius News
+Support
+Customer Support
+Help Center
+RMA Service
+Resources
+Case Studies
+Videos
+Webinars
+Technical Papers
+Partners
+Partner Program
+Training
+Become A Reseller
+Contact Sales
+Home
+Products
+VPN Routers
+Small / Medium / Enterprise VPN Routers
+SecuPoint VPN Client Software
+Back
+Network Switches
+Small / Medium / Enterprise Network Switches
+Residential Network Switches
+Back
+Wi-Fi
+Small / Medium / Enterprise Wireless
+Residential Indoor Wireless
+Back
+Outdoor Point to Point
+Enterprise PtP Wireless Bridges
+Residential PtP Wireless Bridges
+Back
+AI Surveillance
+Small / Medium / Enterprise AI Cloud Cameras
+Small / Medium / Enterprise AI Cloud NVS
+Back
+Power Distribution Units
+Small / Medium / Enterprise PDUs
+Back
+Phones
+SIP Phones
+Analog Phones
+Phone Accessories
+Back
+Edge AI Computing
+Industrial Edge AI Platform
+Back
+Data Center
+OCP DC-MHS Servers
+Back
+Networking Accessories
+PoE Injectors
+Power Adapters
+SFP Modules
+Redundant Power Supplies
+Open Frame Power Supplies
+Back
+Solutions
+Small / Medium / Enterprise
+Overview
+Management: Cloud
+Management: On-Premises
+Hardware
+Back
+AI Surveillance
+AI Cloud Surveillance Solution
+Back
+Residential
+Overview
+Management: FitXpress
+Management: On-Premises
+Hardware
+Back
+Outdoor Point-to-Point Wireless
+Enterprise PtP Wireless Solution >
+Back
+Voice Communications
+DuraFon Ruggedized Phones
+FreeStyl Phones
+Back
+Data Center
+Data Center Servers
+Back
+Industries
+Multi-Dwelling Units
+Hospitality
+Healthcare
+Education: Primary K-12
+Education: E-Rate
+Campground
+Back
+Resources
+Training
+Case Studies
+EnGenius Blog
+In the News
+Press Releases
+Events & Webinars
+Technical Papers
+Doctor EnGenius
+Customer Support
+Back
+Partners
+Partner Overview
+Partner Portal Login
+Alliance Partners
+Back
+Buy
+Distribution Partners
+EnGenius Store
+Certified Partner Locator
+Back
+Region
+Americas
+United States – English
+Latin America – Spanish
+Back
+Asia Pacific
+Singapore – English
+Taiwan – 繁體中文
+Japan – 日本語
+Thailand – แบบไทย
+Vietnam – Việt
+Back
+Europe
+Europe – English
+Spain – Español
+France – Français
+Italy – Italiano
+Back
+× Close Panel
+Contact Sales
+Home
+Products
+VPN Routers
+Small / Medium / Enterprise VPN Routers
+SecuPoint VPN Client Software
+Back
+Network Switches
+Small / Medium / Enterprise Network Switches
+Residential Network Switches
+Back
+Wi-Fi
+Small / Medium / Enterprise Wireless
+Residential Indoor Wireless
+Back
+Outdoor Point to Point
+Enterprise PtP Wireless Bridges
+Residential PtP Wireless Bridges
+Back
+AI Surveillance
+Small / Medium / Enterprise AI Cloud Cameras
+Small / Medium / Enterprise AI Cloud NVS
+Back
+Power Distribution Units
+Small / Medium / Enterprise PDUs
+Back
+Phones
+SIP Phones
+Analog Phones
+Phone Accessories
+Back
+Edge AI Computing
+Industrial Edge AI Platform
+Back
+Data Center
+OCP DC-MHS Servers
+Back
+Networking Accessories
+PoE Injectors
+Power Adapters
+SFP Modules
+Redundant Power Supplies
+Open Frame Power Supplies
+Back
+Solutions
+Small / Medium / Enterprise
+Overview
+Management: Cloud
+Management: On-Premises
+Hardware
+Back
+AI Surveillance
+AI Cloud Surveillance Solution
+Back
+Residential
+Overview
+Management: FitXpress
+Management: On-Premises
+Hardware
+Back
+Outdoor Point-to-Point Wireless
+Enterprise PtP Wireless Solution >
+Back
+Voice Communications
+DuraFon Ruggedized Phones
+FreeStyl Phones
+Back
+Data Center
+Data Center Servers
+Back
+Industries
+Multi-Dwelling Units
+Hospitality
+Healthcare
+Education: Primary K-12
+Education: E-Rate
+Campground
+Back
+Resources
+Training
+Case Studies
+EnGenius Blog
+In the News
+Press Releases
+Events & Webinars
+Technical Papers
+Doctor EnGenius
+Customer Support
+Back
+Partners
+Partner Overview
+Partner Portal Login
+Alliance Partners
+Back
+Buy
+Distribution Partners
+EnGenius Store
+Certified Partner Locator
+Back
+Region
+Americas
+United States – English
+Latin America – Spanish
+Back
+Asia Pacific
+Singapore – English
+Taiwan – 繁體中文
+Japan – 日本語
+Thailand – แบบไทย
+Vietnam – Việt
+Back
+Europe
+Europe – English
+Spain – Español
+France – Français
+Italy – Italiano
+Back
+× Close Panel

@@ -1,0 +1,122 @@
+# SB-349 dualcomm.com · home · https://www.dualcomm.com/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+Network Taps for Capturing and Monitoring Network Traffic
+– Dualcomm
+Skip to content
+Submit
+Close search
+Need Help? Email to info@dualcomm.com or Call (925) 658-4824.
+Submit
+Search
+Log in
+Cart
+NETWORK TAP
+ETHERNET OVER COAX
+OTHER STUFF
+WHERE TO BUY
+BLOGS
+ABOUT US
+NETWORK TAP
+ETHERNET OVER COAX
+OTHER STUFF
+WHERE TO BUY
+BLOGS
+ABOUT US
+Network TAP For Less
+20+ YEARS IN BUSINESS
+&
+20000+ CUSTOMERS WORLDWIDE
+PRODUCTS & SOLUTIONS
+NETWORK TAP
+Dualcomm is renowned for its long-standing reputation of developing Network TAPs with innovative and distinctive features that set them apart in the industry. Combining affordability with exceptional reliability, Dualcomm Network TAPs have gained the trust of tens of thousands of IT professionals worldwide, solidifying their position as a top choice for dependable and efficient network monitoring solutions.
+Read More
+ETHERNET-OVER-COAX
+Dualcomm specializes in developing patented Ethernet-over-Coax products and solutions that enable the transmission of Ethernet packets over existing coaxial cables, offering a highly cost-effective option for applications such as IP video security surveillance and home networking. These innovative solutions provide an efficient and economical way to extend network connectivity using existing coax infrastructure, reducing installation costs while maintaining high performance.
+READ MORE
+The First 10G-25G Network TAP Below $1000
+Price: $799 each.
+Patented and Ready To Ship.
+Order Now
+Blog posts
+Dualcomm DECA-100/DECA-200 EoC Kit Installation Guide
+November 19, 2025
+This installation guide explains proper installation and safe handling practices for Dualcomm’s DECA series of Ethernet-over-Coax (EoC) adapters.
+A...
+Read more
+3 comments
+Do You Really Need Failsafe Network TAPs?
+October 01, 2025
+Network TAPs are critical tools in network monitoring, providing a passive method to capture and analyze network traffic without disrupting data flow. One feature often highlighted in network TAP specifications is the failsafe or failover feature , which ensures that the Ethernet link remains operational during a power outage. However, in high-availability (HA) network setups, where backup links are typically employed to handle scenarios like power outages, the necessity of this failsafe feature becomes questionable. This article explores the role of network TAP failsafe features, their relevance in HA environments, and why they may not always be essential.
+Read more
+TAP vs SPAN: Their Pros and Cons
+November 09, 2023
+TAP (Test Access Point) and SPAN (Switched Port Analyzer) are two methods used to capture network traffic. They both have advantages and disadvanta...
+Read more
+Featured Network Taps
+PCIe 1G-10G Network TAP Card
+Regular price
+$1,195.00
+Sale price
+$1,195.00
+Sale
+Raspberry Pi Network TAP Appliance
+Regular price
+$799.00
+Sale price
+$799.00
+Sale
+10G Network TAP
+Regular price
+$799.00
+Sale price
+$799.00
+Sale
+10/100/1000Base-T Network TAP
+Regular price
+$209.95
+Sale price
+$209.95
+Sale
+Dual-Mode Failsafe 10/100/1000Base-T Network TAP
+Regular price
+$1,099.00
+Sale price
+$1,099.00
+Sale
+Zero-Delay 100M/1G SFP Network TAP
+Regular price
+$899.00
+Sale price
+$899.00
+Sale
+Customer Reviews on Amazon.com
+Performance Impact of this TAP Is nil. I am blown away. I've used several other "consumer" grade 1Gbe taps and notice anywhere from 5-25% decrease in speed. So for the price this is badass! VERY pleased.
+The Dualcomm Gigabit Network TAP's price point made the purchase a no-brainer when comparing other products.
+Very nice network TAP that avoids the need to set up SPAN ports. We use it to capture VoIP traffic and have been very pleased
+There's really no substitute for a tool like this. And this one is petite, lightweight, and easily powered without finding another outlet. Win!
+Perfect for Wireshark
+Great product. Easy to use. Doesn't get too hot. This unit and WireShark go hand-in-hand. I recommend it to any Network Technician. Big time saver with the zero configuration style.
+Dualcomm makes great devices and it met my needs to practicing with the Wireshark software. Excellent device! Worth the every penny!
+In-Kind Sponsor for Security Onion Conferences Since 2014
+Date: October 4, 2024
+Location:
+Augusta University
+Augusta, GA 30901
+Read More
+In-Kind Sponsor for BSides Augusta Since 2014
+Date: Saturday, October 5, 2023
+Location:
+Augusta University
+Augusta, GA 30901
+READ MORE
+Network TAPs Trusted by Wireshark Users
+Meet us at SharkFest'19 US. Dualcomm has been a proud sponsor of the annual Wireshark Users and Developers Conference every year since 2010.
+Read More
+Join Our Mailing List
+Be the first to receive product news, promotions and deals.
+Subscribe
+Shipping Policy
+Refund Policy
+Privacy Policy
+Terms of Service
+Twitter
+© 2005-2026 Dualcomm Technology, Inc.

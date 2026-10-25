@@ -1,37 +1,56 @@
 {
  "code": "SB-274",
- "name_official": "BlackBear TechHive（BlackBear Cyber Security）",
+ "name_official": "Fiberix İletişim Hizmetleri Ltd. Şti.（Gaziantep, TR；fiberix.com.tr；BTK 授权 ISP，AS205768）",
  "researched_at": "2026-10-21",
- "website_status": "在线（blackbear-ics.com，快照 2026-10-21）",
- "summary": "工业网络安全（单向网闸 / 数据二极管 DD9000、BIG9000，公用事业关键基础设施防护）公司，President Takashi Eki（易傑，日本人，会中文），产品台湾生产（站内邮箱含 Atop），韩国有代理，SECON 2023 问 Saga 是否做 OEM/ODM；33 次跟进无实质回复。",
+ "website_status": "在线",
+ "summary": "土耳其加济安泰普的本地光纤 ISP Fiberix（BTK 授权基础设施与互联网服务商；RIPE 成员 AS205768（1,024 IPv4，2017 年分配）；Gazi Mah. Zübeyde Hanım Bulvarı No:74/A Şehitkamil；+90 850 333 27 00；info@fiberix.com.tr；规模口径 1–20 至 51–200 不一；套餐 20–35 Mbps 家庭宽带；联系人 Zafer Yılmaz（RIPE 联系 zafery@））。ISAF 记录：Karasu——在广州有合作伙伴，最主要找商业级交换机与 SFP 收发器，PoE 不常用；WhatsApp 已加；无后续跟进。运营商终端用户，小型 → B 25%。",
  "type": "",
  "size": "",
- "brands_seen": [
-  "Atop"
- ],
+ "brands_seen": [],
  "evidence": [
   {
-   "kind": "官网快照",
-   "claim": "工业网络安全 / 关键基础设施防护；型号 DD9000、BIG9000；多语言（中/日/西）；站内邮箱含 dewa@atop.com.tw",
-   "quote": "BlackBear Cyber Security: Unbreakable networks, critical infrastructure protection. Ideal solution for utilities' industrial cybersecurity… models DD9000, BIG9000… emails dewa@atop.com.tw",
-   "url": "https://blackbear-ics.com/",
+   "kind": "官网",
+   "claim": "ISP 身份",
+   "quote": "Fiberix İletişim Hizmetleri Ltd. Şti., BTK tarafından Alt yapı ve İnternet Servis sağlayıcı olarak yetkilendirilmiştir.",
+   "url": "https://www.fiberix.com.tr/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "应用商店",
+   "claim": "法人地址",
+   "quote": "FIBERIX ILETISIM HIZMETLERI LIMITED SIRKETI destek@fiberix.com.tr NO:74-A GAZI MAHALLESI ZUBEYDE HANIM BULVARI, SEHITKAMIL 27001 Gaziantep Türkiye … +908503332700",
+   "url": "https://play.google.com/store/apps/details?id=co.fiberix_oim_app.android&hl=en_US",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "RIPE",
+   "claim": "RIPE 成员与联系人",
+   "quote": "FIBERIX ILETISIM HIZMETLERI LTD. STI. … 27060 GAZIANTEP TURKEY Phone: +903422151693 … Email: zafery@fiberix.com.tr",
+   "url": "https://www.ripe.net/membership/member-support/list-of-members/tr/fiberixinternet/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "日本人会中文；POE switch；韩国有代理商；产品在台湾生产；问了是否有 OEM ODM",
-   "quote": "兴趣：日本的，会中文，POE switch，在韩国有代理商，产品在台湾生产，问了我们是否有OEM ODM",
+   "claim": "ISAF 互动：商业交换机 + SFP；广州伙伴；PoE 不常用",
+   "quote": "在广州有合作伙伴 最主要找商业级交换机 SFP Transceiver  POE不常用",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
  "kp": [
   {
-   "name": "Takashi Eki（易傑）",
-   "title": "President",
-   "email": "eki@blackbear-ics.com",
-   "phone": "+81 90 8493 5120",
+   "name": "Karasu",
+   "role": "（ISAF 名片；职务待核）",
+   "email": "karasu@fiberix.com.tr（用户表）",
+   "phone": "+90 554 154 0100（用户表，WhatsApp 已加）",
    "source": "（本地 Clients/ 表格，无公开 URL）"
+  },
+  {
+   "name": "Zafer Yılmaz",
+   "role": "RIPE 技术/管理联系人（公开）",
+   "email": "zafery@fiberix.com.tr（RIPE 公开）",
+   "phone": "+90 342 215 16 93",
+   "source": "https://www.ripe.net/membership/member-support/list-of-members/tr/fiberixinternet/"
   }
  ],
  "grade_override": null,
@@ -39,87 +58,79 @@
  "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照核对：OEM 意向）"
+  "level": "B 级加厚 v1（官网 + RIPE 核对）"
  },
  "company_facts": {
-  "legal_name": "BlackBear TechHive（待核：台湾 / 日本）",
-  "founded": "（待核）",
-  "hq": "台湾（生产）/ 日本（+81 3 4530 3390）",
-  "size": "小型安全设备商",
-  "other": "Atop 代工关联"
+  "legal_name": "Fiberix İletişim Hizmetleri Ltd. Şti.",
+  "hq": "Gazi Mah. Zübeyde Hanım Bulvarı No:74/A, Şehitkamil 27001 Gaziantep（+90 850 333 27 00；info@fiberix.com.tr）",
+  "size": "1–20（selling.com）～51–200（ZoomInfo）；AS205768 1,024 IPv4",
+  "other": "BTK 授权 ISP；家庭光纤宽带；手机 App"
  },
  "business_lines": [
-  "工业网络安全设备（数据二极管 / 网闸）",
-  "配套 PoE / 工业交换机（OEM 采购）"
+  "本地光纤宽带 ISP（Gaziantep）"
  ],
  "channels": {
-  "role": "设备品牌商（OEM/ODM 采购）",
-  "region": "日本 / 韩国 / 台湾 / 拉美"
+  "网站": "https://www.fiberix.com.tr/",
+  "电话": "+90 850 333 27 00（公开）",
+  "邮箱（公开）": "info@fiberix.com.tr；zafery@fiberix.com.tr（RIPE 公开）"
  },
  "signals": [
-  "主动问 OEM/ODM → 配套工业 PoE 可贴 BlackBear 标",
-  "中文沟通无障碍"
+  "ISP 汇聚/接入需要 24 口 + 10G 上联 L2/L3 交换机与 SFP 模块 → STC-424XGGM；已有广州伙伴 = 价格比较基准明确"
  ],
  "risks": [
-  "公用事业关键基础设施客户（守界：仅供配套交换机，不涉军政）",
-  "33 次跟进无回复"
+  "已有中国采购渠道（广州）；小 ISP 预算有限；无后续跟进"
  ],
  "saga_fit": {
-  "p1": "STI-288GPM",
-  "tier": 30,
-  "why": "配套工业管理 PoE → STI-288GPM（$85.5 @30%）贴 BlackBear 标；OEM 口径。"
+  "p1": "STC-424XGGM",
+  "tier": 25,
+  "why": "运营商终端 25% 档：STC-424XGGM（24 GE + 4×10G SFP+ L2+，$132.7；L3 档 $280.3——第 74 批(r) 更正：$132.7 是 L2+ 档价，不是 L3）作小 ISP 汇聚；接入 STC-28GM（Realtek 线 2 SFP + 8 GE L2 管理，列表 $50.6）；SFP 模块随单报"
  },
- "email_hook": "易傑先生，您在 SECON 问过我们是否做 OEM/ODM —— 是的：工业 2 光 8 PoE 管理机（Marvell，-40~75 ℃）可贴 BlackBear 标、小批量起订；请问配套贵司网闸的交换机需要几个端口、是否要 BT 大功率？",
+ "email_hook": "Karasu Bey, Gaziantep ağınız için 24 port gigabit + 4×10G SFP+ L2+ switch EXW 132,7 USD (L3 sürümü 280,3 USD), yanında 1G/10G SFP modülleri de aynı faturada; Guangzhou'daki tedarikçinizin fiyatıyla karşılaştırmanız için teknik föyü göndereyim mi?",
  "mail_review": {
   "binding": {
-   "level": "未触达（A/S 邮箱 34 封 2024→2026，1 次记录打开，0 回；收件 eki@blackbear-ics.com；主题多为「90W PoE Managed Switch、Managed Optical Bypass Switch」；Elsa 箱：`to:blackbear-ics.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 34 / 来 0）（第 74 批(n)））",
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「在广州有合作伙伴 最主要找商业级交换机 SFP Transceiver  POE不常用」；Elsa 箱：`to:fiberix.com.tr` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(i)））",
    "type": "—",
-   "sieve": "1~2（1 次打开）",
-   "stop": "34 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
-   "lane": "KR 次级（点名）",
-   "cadence": "一封",
-   "evidence": "gmail_digest：out 34，Opened 标签 1（Simon 群发追踪）；用户表：「兴趣：日本的，会中文，POE switch，在韩国有代理商，产品在台湾生产，问了我们是否有OEM ODM」；研究档 risks：公用事业关键基础设施客户（守界：仅供配套交换机，不涉军政）"
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "首封（具名 KP 优先，用研究档 email_hook）；WhatsApp 已加 → 唤醒走 WhatsApp 一句话，不走邮件",
+   "lane": "TR 主攻（四主）",
+   "cadence": "首封后看打开",
+   "evidence": "gmail_digest：out 0；用户表：「在广州有合作伙伴 最主要找商业级交换机 SFP Transceiver  POE不常用」；研究档 risks：已有中国采购渠道（广州）；小 ISP 预算有限；无后续跟进"
   },
-  "situation": "工业网络安全（单向网闸 / 数据二极管 DD9000、BIG9000，公用事业关键基础设施防护）公司，President Takashi Eki（易傑，日本人，会中文），产品台湾生产（站内邮箱含 Atop），韩国有代理，SECON 2023 问 Saga 是否做 OEM/ODM；33 次跟进无实质回复。",
-  "need": "配套工业管理 PoE → STI-288GPM（$85.5 @30%）贴 BlackBear 标；OEM 口径。",
-  "breakpoint": "公用事业关键基础设施客户（守界：仅供配套交换机，不涉军政）",
+  "situation": "土耳其加济安泰普的本地光纤 ISP Fiberix（BTK 授权基础设施与互联网服务商；RIPE 成员 AS205768（1,024 IPv4，2017 年分配）；Gazi Mah. Zübeyde Hanım Bulvarı No:74/A Şehitkamil；+90 850 333 27 00；info@fiberix.com.tr；规模口径 1–20 至 51–200 不一；套餐 20–35 Mbps 家庭宽带；联系人 Zafer Yılmaz（RIPE 联系 zafery@））。ISAF 记录：Karasu——在广州有合作伙伴，最主要找商业级交换机与 SFP 收发器，PoE 不常用；WhatsApp 已加；无后续跟进。运营商终端用户，小型 → B 25%。",
+  "need": "运营商终端 25% 档：STC-424XGGM（24 GE + 4×10G SFP+ L2+，$132.7；L3 档 $280.3——第 74 批(r) 更正：$132.7 是 L2+ 档价，不是 L3）作小 ISP 汇聚；接入 STC-28GM（Realtek 线 2 SFP + 8 GE L2 管理，列表 $50.6）；SFP 模块随单报",
+  "breakpoint": "已有中国采购渠道（广州）；小 ISP 预算有限；无后续跟进",
   "saga_now": {
-   "p1": "STI-288GPM",
-   "tier": 30,
-   "price": "换人再触锚价 STI-288GPM $85.5 EXW（主表档位（PDF 上限 $88；SA-026 2025-07 实报 $72 为分销量价）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-07 $65（10G media converter）、2025-01-07 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-09-03 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-07-18 $300（48 Port PoE Managed Switch）、2025-09-26 $280（10G Enterprise SFP Switch）、2026-06-23 $16000（32 Port 400GB DC Switch）",
-   "why": "配套工业管理 PoE → STI-288GPM（$85.5 @30%）贴 BlackBear 标；OEM 口径。已打开的主题（1/34 封有打开记录）：「Marvell Industrial Alert System」(2025-06-04) → 读者兴趣偏「工业」；与 P1 同类，继续",
+   "p1": "STC-424XGGM",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "运营商终端 25% 档：STC-424XGGM（24 GE + 4×10G SFP+ L2+，$132.7；L3 档 $280.3——第 74 批(r) 更正：$132.7 是 L2+ 档价，不是 L3）作小 ISP 汇聚；接入 STC-28GM（Realtek 线 2 SFP + 8 GE L2 管理，列表 $50.6）；SFP 模块随单报",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "2027-Q1（换人后）",
-   "channel": "A 邮箱 → 具名 KP",
-   "action": "换收件人再发一封（第 75 批(ae) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用；KC stays on your side）；SECON OEM 问题「欠答」开头；中文钩子改英文稿）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
-   "one_question": "易傑先生，您在 SECON 问过我们是否做 OEM/ODM —— 是的：工业 2 光 8 PoE 管理机（Marvell，-40~75 ℃）可贴 BlackBear 标、小批量起订；请问配套贵司网闸的交换机需要几个端口、是否要 BT 大功率？ Reference: STI-288GPM at $85.5 USD EXW (MOQ 1, 15-day validity)."
+   "when": "待 Simon 排期（首封）",
+   "channel": "A 邮箱 → karasu@fiberix.com.tr（Karasu）",
+   "action": "首封：按 email_hook 一问（第 74 批(r) 2026-10-25：英文信稿已写 `draft_en`，内容 = 土耳其语钩子句的英文版；土耳其语一句话仍在研究档备注里，对方若不读英文就整段单发）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
+   "one_question": "Karasu Bey, Gaziantep ağınız için 24 port gigabit + 4×10G SFP+ L2+ switch EXW 132,7 USD (L3 sürümü 280,3 USD), yanında 1G/10G SFP modülleri de aynı faturada; Guangzhou'daki tedarikçinizin fiyatıyla karşılaştırmanız için teknik föyü göndereyim mi?"
   },
   "facts": [
-   {
-    "date": "2026-10-01",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "90W PoE Managed Switch、Managed Optical Bypass Switch",
-    "why": "34 封 / 1 次打开 / 0 回｜首封 2024-07-09 → 末封 2026-10-01（34 去 / 0 来）",
-    "k": "gmail_digest"
-   },
    {
     "date": "2026-10-21",
     "dir": "用户表",
     "who": "Simon",
-    "quote": "兴趣：日本的，会中文，POE switch，在韩国有代理商，产品在台湾生产，问了我们是否有OEM ODM",
+    "quote": "在广州有合作伙伴 最主要找商业级交换机 SFP Transceiver  POE不常用",
     "why": "表内备注",
     "k": "用户表"
    }
   ],
-  "proof_gaps": [],
+  "proof_gaps": [
+   "无邮件往来",
+   "用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+  ],
   "draft_en": {
-   "subject": "Your SECON question - yes, we do OEM/ODM; the industrial PoE switch next to your data diodes",
-   "body": "Dear Mr. Eki,\n\nAt SECON you asked whether we do OEM/ODM, and the mails you had from us since were general product mails rather than an answer - so, the answer: yes. For the industrial switch that sits next to your DD9000 / BIG9000 units, under the BlackBear label from small lots, -40 to 75 C, CE/RoHS: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, L2 managed, Marvell-based - model STI-288GPM - $85.5 USD EXW (MOQ 1, 15-day validity); the L2+ version with ring redundancy - STI-288DGGPM - $137.5; 802.3bt ports on request. Standard industrial units - no security-product claims. KC for the Korean channel stays on your side. Happy to continue in Chinese if easier.\n\nOne question: how many ports does the switch next to the diode need, and is 802.3bt power required?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+   "subject": "24 x Gigabit + 4 x 10G aggregation switch for the Gaziantep network",
+   "body": "Hi Karasu,\n\nWe met at ISAF 2025 in Istanbul last October - this picks up what we discussed at the booth.\n\nFor the Fiberix network: a 24 x Gigabit + 4 x 10G SFP+ L2+ managed switch (Marvell-based, VLAN / QoS / IGMP, web GUI), model STC-424XGGM - $132.7 USD EXW (MOQ 1, 15-day validity). An L3 version (static + dynamic routing) is $280.3 USD EXW. 1G / 10G SFP modules can go on the same invoice.\n\nOne question: shall I send the datasheet so you can compare it with your Guangzhou supplier's price - and which uplink optics do you use, 10 km or 20 km?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
  }

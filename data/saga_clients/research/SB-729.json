@@ -1,74 +1,173 @@
 {
- "code": "SB-729",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（pfsw.com，快照 2026-10-21）",
- "summary": "瑞典 PacketFront Software（网络编排与服务管理软件 BECS；表内「Networking」）；表内 1 次跟进无回复。",
- "type": "网络软件公司（品类不符）",
- "size": "",
- "brands_seen": [
-  "Ubiquiti"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：PacketFront Software；品类词 工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 网络交换 / PoE",
-   "quote": "Network orchestration and service management for complex environments. Automate workflows, strengthen control and reduce costs.",
-   "url": "https://pfsw.com/",
-   "date": "2026-10-21"
+  "code": "SB-729",
+  "name_official": "HeiTech Padu Berhad（马来西亚，上市）",
+  "researched_at": "2026-10-21",
+  "website_status": "停放（secure-x.my 空；heitech.com.my 待核）",
+  "summary": "马来西亚上市 ICT 集成商 HeiTech Padu（政府 / 企业系统集成，Shah Alam HeiTech Village），网络安全顾问 Ts. Rizaki bin Napi 展会对 PoE 很有兴趣，拿了彩页，主要看工业级并问电源接线，也看了商用；无跟进。大型集成商 → 项目型。",
+  "type": "",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "secure-x.my 为空页",
+      "quote": "status parked_or_empty",
+      "url": "http://secure-x.my/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "对 POE 很有兴趣，拿了彩页，主要看工业级，问电源口接线，也看了商业级；地址 HeiTech Village 2, Jalan Astaka U8/8",
+      "quote": "兴趣：对于POE很有兴趣，拿了Hisource的彩页，主要看了工业级的，问了一下电源口的接线，也看了商业级的",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [
+    {
+      "name": "Ts. Rizaki bin Napi",
+      "title": "Cybersecurity Consultant",
+      "email": "rizaki@heitech.com.my",
+      "phone": "+60 19 620 1681",
+      "source": "（本地 Clients/ 表格，无公开 URL）"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（快照空页 + 表内）"
   },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "Networking",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
+  "company_facts": {
+    "legal_name": "HeiTech Padu Berhad",
+    "founded": "1994（待核）",
+    "hq": "HeiTech Village 2, No. 1, Jalan Astaka U8/8, Bukit Jelutong, Shah Alam, Malaysia",
+    "size": "大型上市 ICT 集成商",
+    "other": "政府项目多（守界：按单核）"
   },
-  {
-   "kind": "官网快照",
-   "claim": "PacketFront Software 定位",
-   "quote": "Home - PacketFront Software ; Network orchestration and service management for complex environments",
-   "url": "https://pfsw.com/",
-   "date": "2026-10-21"
+  "business_lines": [
+    "政府 / 企业 ICT 系统集成",
+    "网络安全"
+  ],
+  "channels": {
+    "role": "大型系统集成商",
+    "region": "马来西亚"
   },
-  {
-   "kind": "用户表",
-   "claim": "Networking",
-   "quote": "Networking",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
+  "signals": [
+    "顾问级联系人对工业 PoE 兴趣具体（电源接线）"
+  ],
+  "risks": [
+    "大型上市公司采购流程长、倾向品牌；政府项目守界",
+    "无跟进记录"
+  ],
+  "saga_fit": {
+    "p1": "STI-288GPM",
+    "tier": 25,
+    "why": "工业管理 PoE → STI-288GPM（$82.2 @25%，12–48 V 端子供电）。"
+  },
+  "email_hook": "Rizaki, to your power-input question from the show: the industrial PoE units take 48–57 V DC on a removable terminal block (dual input, reverse-polarity protected); happy to send the wiring sheet and a 1-pc sample for your lab.",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（S 邮箱 8 封 2024，1 次记录打开，0 回；收件 rizaki@heitech.com.my；主题多为「Industrial PoE Switch、Passive PoE Switch」）；Elsa 群发 BCC 已触达 5 轮 2025-04-11→2025-10-06（锚 To sofyan@mutiara-teknologi.com.my 5 轮 2025-04-11→2025-10-06；锚至少发到 2026-09-08，本户 2025-10-06 后不再在 Bcc（Elsa 剔出）；本户在 Bcc；主题 48 Port PoE Managed Switch、8 Port Industrial PoE Switch、Mini Industrial PoE Switch、10G Enterprise SFP Switch…；0 回（Elsa 箱 Replied 索引 + 第 73 批真人来信逐户比对均无此户）；S/A digest 看不到 Elsa 的去信，之前据此写的「未触达」是 S/A 口径）（第 74 批(n) `from:e.sagatelecom to:secure-x.my OR to:heitech.com.my` 全程 complete：命中 5 行、To 均为锚地址 ⇒ 本户在锚的 Bcc 名单）",
+      "type": "—",
+      "sieve": "1~2（1 次打开）",
+      "stop": "8 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+      "revive": "保持季度群发到 2027-Q1；无打开即停",
+      "lane": "马来西亚 非主攻",
+      "cadence": "季度",
+      "evidence": "gmail_digest：out 8，Opened 标签 1（Simon 群发追踪）；用户表：「兴趣：对于POE很有兴趣，拿了Hisource的彩页，主要看了工业级的，问了一下电源口的接线，也看了商业级的」；研究档 risks：大型上市公司采购流程长、倾向品牌；政府项目守界"
+    },
+    "situation": "马来西亚上市 ICT 集成商 HeiTech Padu（政府 / 企业系统集成，Shah Alam HeiTech Village），网络安全顾问 Ts. Rizaki bin Napi 展会对 PoE 很有兴趣，拿了彩页，主要看工业级并问电源接线，也看了商用；无跟进。大型集成商 → 项目型。",
+    "need": "工业管理 PoE → STI-288GPM（$82.2 @25%，12–48 V 端子供电）。",
+    "breakpoint": "大型上市公司采购流程长、倾向品牌；政府项目守界",
+    "saga_now": {
+      "p1": "STI-288GPM",
+      "tier": 25,
+      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-12 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2024-09-04 $65（10G Media Converter）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-05-04 $300（48 Port PoE Managed Switch = STC-448XGGPM，Elsa 箱 1 轮 2025-05-04；现表 $335.4@20%、Drive 老表 $335——同款写 $335 要先说 2025 群发是 $300、汇率 7.2→6.7）；2025-10-06 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2025-10-06；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）",
+      "why": "工业管理 PoE → STI-288GPM（$82.2 @25%，12–48 V 端子供电）。已打开的主题（1/8 封有打开记录）：「10G media converter」(2024-09-04) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "群发节奏",
+      "channel": "A 邮箱",
+      "action": "首封前知悉：Elsa 群发 BCC 已触达 5 轮（2025-04-11→2025-10-06，锚 To sofyan@mutiara-teknologi.com.my，0 回）（第 74 批(n)）；观察打开",
+      "one_question": "Rizaki, to your power-input question from the show: the industrial PoE units take 48–57 V DC on a removable terminal block (dual input, reverse-polarity protected); happy to send the wiring sheet and a 1-pc sample for your lab."
+    },
+    "facts": [
+      {
+        "date": "2023-07-01",
+        "dir": "备",
+        "who": "Saga 内部马来西亚线索表 Client_List_待决定.xlsx（XSPec/Sugito 文件夹）",
+        "quote": "名单行：「37 Heitech Padu Berhad www.secure-x.my Ts. Rizaki Bin Napi Cybersecurity Consultant Mitec 2023 对于POE很有兴趣，拿了Hisource的彩页，主要看了工业级的，问了一下电源口的接线，也看了商业级的 公司地址：HeiTech Village 2, No. 1, Jalan Astaka U8/81,Seksyen U8, 40150 Shah 」",
+        "why": "Saga 自己的线索表里对本户的一手备注（来源/兴趣点/是否已加 WhatsApp/展会现场对话）（名单无日期；条目为 Mitec 2023 展会现场记录，按 2023-07 归期）——比群发打开率更硬的证据；写下一封邮件时直接引用这里的兴趣点；Mitec 2023 现场见过面 = 可用「we met at MITEC 2023」开头",
+        "k": "Drive PI 文件夹 9_马来西亚_Sugito"
+      },
+      {
+        "date": "2024-12-26",
+        "dir": "去",
+        "who": "S 群发",
+        "quote": "Industrial PoE Switch、Passive PoE Switch",
+        "why": "8 封 / 1 次打开 / 0 回｜首封 2024-06-14 → 末封 2024-12-26（8 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
+        "date": "2025-04-11",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
+        "quote": "16 Port Ethernet Switch（Elsa 群发第 1/5 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:secure-x.my OR to:heitech.com.my` 命中行 To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+        "k": "elsa_bcc",
+        "msg_id": "19623a5f07b9a5bf"
+      },
+      {
+        "date": "2025-05-04",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
+        "quote": "48 Port PoE Managed Switch（Elsa 群发第 2/5 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my；正文价 300usd/pc，第 74 批(p) 读稿 msg 194eff1f9bf46879 / 1973a613b8166b58）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:secure-x.my OR to:heitech.com.my` 命中行 To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+        "k": "elsa_bcc",
+        "msg_id": "19699a96e93d4ea9"
+      },
+      {
+        "date": "2025-06-05",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
+        "quote": "8 Port Industrial PoE Switch（Elsa 群发第 3/5 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:secure-x.my OR to:heitech.com.my` 命中行 To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+        "k": "elsa_bcc",
+        "msg_id": "1973f4fbd2176398"
+      },
+      {
+        "date": "2025-07-04",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
+        "quote": "Mini Industrial PoE Switch（Elsa 群发第 4/5 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:secure-x.my OR to:heitech.com.my` 命中行 To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+        "k": "elsa_bcc",
+        "msg_id": "197d44f5b17bb6b9"
+      },
+      {
+        "date": "2025-10-06",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
+        "quote": "10G Enterprise SFP Switch（Elsa 群发第 5/5 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:secure-x.my OR to:heitech.com.my` 命中行 To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+        "k": "elsa_bcc",
+        "msg_id": "199b7cd286b8997d"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "兴趣：对于POE很有兴趣，拿了Hisource的彩页，主要看了工业级的，问了一下电源口的接线，也看了商业级的",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
   }
- ],
- "kp": [],
- "grade_override": "C",
- "override_reason": "品类不符：PacketFront Software 纯软件公司；c_sub=品类不符（软件）",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "瑞典",
-  "other": "官网 pfsw.com，语言 en-US，快照状态 ok；角色判定来源：官网文案"
- },
- "business_lines": [
-  "网络编排 / 服务管理软件"
- ],
- "channels": {
-  "role": "网络软件公司（品类不符）",
-  "region": "瑞典",
-  "contact": "info@pfsw.com"
- },
- "signals": [
-  "官网：Network orchestration and service management for complex environments. Automate workflows, strengthen control and reduce costs；首页 BECS Security Module；kw automation 41 / telecom 32"
- ],
- "risks": [
-  "品类不符：网络编排软件公司（BECS），无硬件采购"
- ],
- "saga_fit": {
-  "p1": null,
-  "tier": 25,
-  "why": "纯软件公司（网络编排/OSS），不采购交换机 → 改 C"
- },
- "email_hook": "（不发送：品类不符）"
 }

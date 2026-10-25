@@ -1,140 +1,95 @@
 {
  "code": "SB-236",
- "name_official": "",
+ "name_official": "Công ty Minh Phước（congtyminhphuoc.vn，Vietnam；光纤产品贸易；Gmail）",
  "researched_at": "2026-10-21",
- "website_status": "在线（sea-srl.it，快照 2026-10-21）",
- "summary": "意大利 S&A srl（安防电子批发：入侵报警、消防、自动化、视频监控、楼宇对讲、门禁、供电系统；Tenda；表内「商业 PoE」；KP Mauro Brunazzo（CEO，mauro.brunazzo@）、Sandro Succi（Executive Director））；表内 1 次跟进无回复。",
- "type": "安防电子批发商（意大利）",
+ "website_status": "未单独核对",
+ "summary": "越南光纤产品贸易商 Minh Phước（congtyminhphuoc.vn；tmphuocvn@gmail.com）。用户表（富通天下外贸数据）：「从 BTON 买了很多；各种光产品，也有有名的牌子」= 从同行大量进口光产品，非 Saga 成交；群发无互动。多品牌光产品贸易商 → 分销 20%。",
+ "type": "",
  "size": "",
- "brands_seen": [
-  "Tenda"
- ],
+ "brands_seen": [],
  "evidence": [
   {
-   "kind": "官网快照",
-   "claim": "官网标题：S&A - Distribuzione all'ingrosso di prodotti elettronici per la sicurezza；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 光纤 / 媒体转换 / 网络交换 / PoE",
-   "quote": "Vendita all'ingrosso di prodotti elettronici per la sicurezza. Qui troverai tutto per l'antintrusione, antincendio, automazione, videosorveglianza, controllo accessi e molto altro.",
-   "url": "https://www.sea-srl.it/",
-   "date": "2026-10-21"
-  },
-  {
    "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "商业PoE",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "S&A 批发定位",
-   "quote": "S&A - Distribuzione all’ingrosso di prodotti elettronici per la sicurezza ; antintrusione, antincendio, automazione, videosorveglianza, controllo accessi",
-   "url": "https://www.sea-srl.it/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "商业 PoE",
-   "quote": "商业PoE",
+   "claim": "富通天下：从 BTON 买了很多；各种光产品",
+   "quote": "各种光产品 也有有名的牌子 / 从BTON买了很多 / 富通天下",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
- "kp": [
-  {
-   "name": "Mauro Brunazzo",
-   "title": "CEO",
-   "email": "mauro.brunazzo@sea-srl.it",
-   "phone": "",
-   "source": "用户表"
-  },
-  {
-   "name": "Sandro Succi",
-   "title": "Executive Director",
-   "email": "",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
+ "kp": [],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（基于用户表整理 + 需求映射；「成交」为富通天下外贸数据）"
  },
  "company_facts": {
-  "hq": "意大利",
-  "other": "官网 sea-srl.it，语言 it，快照状态 ok；角色判定来源：官网文案"
+  "legal_name": "Công ty TNHH Minh Phước（全称待核）",
+  "hq": "Vietnam",
+  "size": "待核",
+  "other": "Gmail 联系；多品牌光产品"
  },
  "business_lines": [
-  "安防电子批发（入侵 / 消防 / CCTV / 门禁 / 对讲）"
+  "光纤/网络产品贸易"
  ],
  "channels": {
-  "role": "安防电子批发商（意大利）",
-  "region": "意大利",
-  "contact": "customer.service@sea-srl.it、mauro.brunazzo@sea-srl.it"
+  "网站": "https://congtyminhphuoc.vn/（未核）",
+  "邮箱": "tmphuocvn@gmail.com（用户表）"
  },
  "signals": [
-  "官网：Vendita all’ingrosso di prodotti elettronici per la sicurezza … antintrusione, antincendio, automazione, videosorveglianza, controllo accessi；栏目 Sistemi alimentazione",
-  "kw poe 34 / media converter 7；站内 Tenda"
+  "已从 BTON 大量进口 → 价格带熟悉；2 SFP 交换机/MC 可配套"
  ],
  "risks": [
-  "批发多品类：交换机为配套品类",
-  "1 次跟进无回复 → 改向 CEO 具名首触"
+  "亚太非主攻区；Gmail；无互动"
  ],
  "saga_fit": {
-  "p1": "STC-28DGGPM",
+  "p1": "STC-228GP",
   "tier": 20,
-  "why": "CCTV 配套商用 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）；MC 位 STI-110GE"
+  "why": "分销 20% 档：STC-228GP（2 SFP + 8 GE PoE，$33.2 = 洪瑞 2026-09-30 成本 +20%，列表 $30.8 低于底线，第 73 批口径）；MC STI-110GE（$22.4）；SFP 待 Q-32"
  },
- "email_hook": "Mauro, for the PoE switches you wholesale with your CCTV and NVR lines, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ model and budget 4/8-port unmanaged PoE units from small lots, CE/RoHS, EXW USD — which band do your installers buy most?",
+ "email_hook": "Chào anh/chị Minh Phước, next to the optical products you import: 2× SFP + 8× PoE switches at $33.2 EXW and gigabit media converters at $22.4, neutral packing, MOQ 1 — which items move fastest for you, so I can quote a first lot?",
  "mail_review": {
   "binding": {
-   "level": "未触达（A 邮箱 12 封 2025→2026，无记录打开，0 回；收件 customer.service@sea-srl.it, mauro.brunazzo@sea-srl.it；主题多为「10G Enterprise SFP Switch、Booster PoE Switch」；Elsa 箱：`to:sea-srl.it` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 12 / 来 0）（第 74 批(j)））",
-   "type": "安防电子批发商（意大利）",
-   "sieve": "1（只收到群发）",
-   "stop": "12 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "意大利（欧洲全域主攻）",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 12；用户表：「商业PoE」；研究档 risks：批发多品类：交换机为配套品类"
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「各种光产品 也有有名的牌子 / 从BTON买了很多 / 富通天下」；Elsa 箱：`to:congtyminhphuoc.vn` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(n)））",
+   "type": "—",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "不动（非主攻区；J5：有证据再动）",
+   "lane": "越南 非主攻",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 0；用户表：「各种光产品 也有有名的牌子 / 从BTON买了很多 / 富通天下」；研究档 risks：亚太非主攻区；Gmail；无互动"
   },
-  "situation": "意大利 S&A srl（安防电子批发：入侵报警、消防、自动化、视频监控、楼宇对讲、门禁、供电系统；Tenda；表内「商业 PoE」；KP Mauro Brunazzo（CEO，mauro.brunazzo@）、Sandro Succi（Executive Director））；表内 1 次跟进无回复。",
-  "need": "CCTV 配套商用 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）；MC 位 STI-110GE",
-  "breakpoint": "批发多品类：交换机为配套品类",
+  "situation": "越南光纤产品贸易商 Minh Phước（congtyminhphuoc.vn；tmphuocvn@gmail.com）。用户表（富通天下外贸数据）：「从 BTON 买了很多；各种光产品，也有有名的牌子」= 从同行大量进口光产品，非 Saga 成交；群发无互动。多品牌光产品贸易商 → 分销 20%。",
+  "need": "分销 20% 档：STC-228GP（2 SFP + 8 GE PoE，$33.2 = 洪瑞 2026-09-30 成本 +20%，列表 $30.8 低于底线，第 73 批口径）；MC STI-110GE（$22.4）；SFP 待 Q-32",
+  "breakpoint": "亚太非主攻区；Gmail；无互动",
   "saga_now": {
-   "p1": "STC-28DGGPM",
+   "p1": "STC-228GP",
    "tier": 20,
-   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-15 $280（10G Enterprise SFP Switch）",
-   "why": "CCTV 配套商用 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）；MC 位 STI-110GE",
+   "price": "按主表（研究档 saga_fit）",
+   "why": "分销 20% 档：STC-228GP（2 SFP + 8 GE PoE，$33.2 = 洪瑞 2026-09-30 成本 +20%，列表 $30.8 低于底线，第 73 批口径）；MC STI-110GE（$22.4）；SFP 待 Q-32",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开",
-   "one_question": "Mauro, for the PoE switches you wholesale with your CCTV and NVR lines, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ model and budget 4/8-port unmanaged PoE units from small lots, CE/RoHS, EXW USD — which band do your installers buy most?"
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
   },
   "facts": [
-   {
-    "date": "2026-10-08",
-    "dir": "去",
-    "who": "A 群发",
-    "quote": "10G Enterprise SFP Switch、Booster PoE Switch",
-    "why": "12 封 / 0 次打开 / 0 回｜首封 2025-10-15 → 末封 2026-10-08（12 去 / 0 来）",
-    "k": "gmail_digest"
-   },
    {
     "date": "2026-10-21",
     "dir": "用户表",
     "who": "Simon",
-    "quote": "商业PoE",
+    "quote": "各种光产品 也有有名的牌子 / 从BTON买了很多 / 富通天下",
     "why": "表内备注",
     "k": "用户表"
    }
   ],
-  "proof_gaps": [],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
   "draft_en": null,
   "as_of": "2026-10-24"
  }

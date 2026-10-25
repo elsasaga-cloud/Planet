@@ -2,42 +2,30 @@
   "code": "SB-1094",
   "name_official": "",
   "researched_at": "2026-10-21",
-  "website_status": "在线（vidcom.uz，快照 2026-10-21）",
-  "summary": "乌兹别克斯坦 VIDCOM（塔什干安防系统商：视频监控、门禁、消防报警、配件；Dahua（97）/ Hikvision（66）/ Ajax；表内「海康威视 / H3C 产品较多」）；表内无跟进记录。",
-  "type": "安防系统经销商（乌兹别克斯坦，Hikvision/Dahua/H3C）",
+  "website_status": "在线（videobits.co.uk，快照 2026-10-21）",
+  "summary": "英国 Videobits（MC、SFP、switch 经销；官网快照空；表内「质量一般」）；表内未跟进。",
+  "type": "网络产品经销（英国，站点待核）",
   "size": "",
-  "brands_seen": [
-    "Dahua",
-    "Hikvision",
-    "Ajax",
-    "H3C"
-  ],
+  "brands_seen": [],
   "evidence": [
     {
       "kind": "官网快照",
-      "claim": "官网标题：VIDCOM-Системы безопасности, камеры видеонаблюдения, энергосистемы；品类词 无线 / WiFi / 光纤 / 媒体转换 / 网络交换 / PoE",
-      "quote": "Камеры видеонаблюдения, охранно-пожарное оборудование, контроль доступа в Ташкенте, Узбекистане.",
-      "url": "https://vidcom.uz/",
+      "claim": "官网标题：videobits.co.uk",
+      "quote": "",
+      "url": "https://videobits.co.uk/",
       "date": "2026-10-21"
     },
     {
       "kind": "用户表",
       "claim": "表内兴趣/备注",
-      "quote": "海康威视 H3C产品较多",
+      "quote": "MC SFP switch",
       "url": "（本地 Clients/ 表格，无公开 URL）",
       "date": "2026-10-21"
     },
     {
-      "kind": "官网快照",
-      "claim": "VIDCOM 定位",
-      "quote": "VIDCOM-Системы безопасности, камеры видеонаблюдения, энергосистемы ; Камеры видеонаблюдения, охранно-пожарное оборудование, контроль доступа в Ташкенте, Узбекистане.",
-      "url": "https://vidcom.uz/",
-      "date": "2026-10-21"
-    },
-    {
       "kind": "用户表",
-      "claim": "海康威视 H3C 较多",
-      "quote": "海康威视 H3C产品较多",
+      "claim": "MC SFP switch",
+      "quote": "MC SFP switch；质量一般",
       "url": "（本地 Clients/ 表格，无公开 URL）",
       "date": "2026-10-21"
     }
@@ -45,148 +33,97 @@
   "kp": [],
   "grade_override": null,
   "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
   "deep": {
     "done_at": "2026-10-21",
     "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
   },
   "company_facts": {
-    "hq": "乌兹别克斯坦",
-    "other": "官网 vidcom.uz，语言 ru-ru，快照状态 ok；角色判定来源：官网文案"
+    "hq": "英国",
+    "other": "官网 videobits.co.uk，语言 ?，快照状态 ok；角色判定来源：待核"
   },
   "business_lines": [
-    "安防系统经销（CCTV / 门禁 / 消防报警）"
+    "MC / SFP / 交换机经销（英国）"
   ],
   "channels": {
-    "role": "安防系统经销商（乌兹别克斯坦，Hikvision/Dahua/H3C）",
-    "region": "乌兹别克斯坦",
-    "contact": "info@vidcom.uz"
+    "role": "网络产品经销（英国，站点待核）",
+    "region": "英国",
+    "contact": "sales@videobits.co.uk"
   },
   "signals": [
-    "官网：Камеры видеонаблюдения, охранно-пожарное оборудование, контроль доступа в Ташкенте；kw dahua 97 / hikvision 66 / poe 67 / wifi 33",
-    "表内：海康威视 H3C 产品较多"
+    "表内：MC SFP switch；质量一般",
+    "快照：内容为空"
   ],
   "risks": [
-    "非主攻区（T5，中亚）：物流/结算路径待核；H3C/Hikvision 品牌货为主",
-    "无具名 KP（info@）；无跟进记录"
+    "官网快照空（经营状态待核）；表内「质量一般」；仅 sales@"
   ],
   "saga_fit": {
     "p1": "STC-28DGGPM",
     "tier": 20,
-    "why": "Hikvision/Dahua 配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）"
+    "why": "MC/switch → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、工业千兆 MC STI-110GE（$22.4）；SFP Saga 不供"
   },
-  "email_hook": "For the PoE switches you install with Hikvision and Dahua cameras, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port unmanaged PoE units from small lots, CE/RoHS, EXW USD — which band do your Tashkent projects use most?",
+  "email_hook": "For the switches and media converters you supply, we offer neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switches and gigabit MCs from single units, CE/RoHS/UKCA, EXW USD — which of these do your customers order most?",
   "mail_review": {
     "binding": {
-      "level": "未触达（A/S 邮箱 18 封 2024→2026，无记录打开，0 回；收件 info@vidcom.uz；主题多为「Booster PoE Switch、Marvell Industrial Alert System」）；Elsa 群发 BCC 已触达 7 轮 2025-04-08→2025-11-18（锚 To sales-one@setevoe.com.ua 7 轮 2025-04-08→2025-11-18；本户在 Bcc；主题 Mini Industrial PoE Switch、24 Port Fiber Switch、10G Enterprise SFP Switch、Industrial PoE Switch…；0 回（Elsa 箱 Replied 索引 + 第 73 批真人来信逐户比对均无此户）；S/A digest 看不到 Elsa 的去信，之前据此写的「未触达」是 S/A 口径）（第 74 批(n) `from:e.sagatelecom to:vidcom.uz` 全程 complete：命中 7 行、To 均为锚地址 ⇒ 本户在锚的 Bcc 名单）",
-      "type": "安防系统经销商（乌兹别克斯坦，Hikvision/Dahua/H3C）",
-      "sieve": "1（只收到群发）",
-      "stop": "只打通用邮箱，无记录打开",
-      "revive": "保持季度群发到 2027-Q1；无打开即停",
-      "lane": "乌兹别克斯坦 非主攻",
-      "cadence": "季度",
-      "evidence": "gmail_digest：out 18；用户表：「海康威视 H3C产品较多」；研究档 risks：非主攻区（T5，中亚）：物流/结算路径待核；H3C/Hikvision 品牌货为主"
+      "level": "Elsa 群发 BCC 已触达 2026-09-04「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，UK 批次 To sales@cablenet.co.uk，0 回（第 73 批(o) Bcc 头核对 msg 1a06ba5722292bab）；S/A 箱：S/A 邮箱均无往来；来源：用户表「MC SFP switch」",
+      "type": "网络产品经销（英国，站点待核）",
+      "sieve": "—（未入筛）",
+      "stop": "Elsa 群发 BCC 触达过（最近 2026-09-04）无回；S/A 箱从未单独发过",
+      "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+      "lane": "UK 主攻（四主）",
+      "cadence": "首封后看打开",
+      "evidence": "gmail_digest：out 0；用户表：「MC SFP switch」；研究档 risks：官网快照空（经营状态待核）；表内「质量一般」；仅 sales@；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To sales@luxritesecurity.com）本户见于 2025-03-30 名单；同批次（To sales@cablenet.co.uk）本户见于 2026-09-04 名单；2025-03-30 首轮名单无此地址 → 中途加入"
     },
-    "situation": "乌兹别克斯坦 VIDCOM（塔什干安防系统商：视频监控、门禁、消防报警、配件；Dahua（97）/ Hikvision（66）/ Ajax；表内「海康威视 / H3C 产品较多」）；表内无跟进记录。",
-    "need": "Hikvision/Dahua 配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）",
-    "breakpoint": "非主攻区（T5，中亚）：物流/结算路径待核；H3C/Hikvision 品牌货为主",
+    "situation": "英国 Videobits（MC、SFP、switch 经销；官网快照空；表内「质量一般」）；表内未跟进。",
+    "need": "MC/switch → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、工业千兆 MC STI-110GE（$22.4）；SFP Saga 不供",
+    "breakpoint": "官网快照空（经营状态待核）；表内「质量一般」；仅 sales@",
     "saga_now": {
       "p1": "STC-28DGGPM",
       "tier": 20,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-22 $65（10G media converter）、2024-11-12 $300（48 Port PoE Managed Switch）、2024-12-31 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-08-06 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2026-05-04 $280（10G Enterprise SFP Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-04-08 $300（48 Port PoE Managed Switch = STC-448XGGPM，Elsa 箱 1 轮 2025-04-08；现表 $335.4@20%、Drive 老表 $335——同款写 $335 要先说 2025 群发是 $300、汇率 7.2→6.7）；2025-08-04 $240（24 Port Fiber Switch = STC-4168XGGCM 单 AC 稿，Elsa 箱 1 轮 2025-08-04；同款 2025-09 起群发 $280（双 AC 稿）——再提这款说 $280）；2025-10-06 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2025-10-06；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）",
-      "why": "Hikvision/Dahua 配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）",
+      "price": "首触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-09-04 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-04；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
+      "why": "MC/switch → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、工业千兆 MC STI-110GE（$22.4）；SFP Saga 不供",
       "repeat": [],
       "gaps": []
     },
     "next_move": {
-      "when": "群发节奏",
-      "channel": "A 邮箱",
-      "action": "首封前知悉：Elsa 群发 BCC 已触达 7 轮（2025-04-08→2025-11-18，锚 To sales-one@setevoe.com.ua，0 回）（第 74 批(n)）；观察打开",
-      "one_question": "For the PoE switches you install with Hikvision and Dahua cameras, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port unmanaged PoE units from small lots, CE/RoHS, EXW USD — which band do your Tashkent projects use most?"
+      "when": "待 Simon 排期（首封）",
+      "channel": "A 邮箱 → sales@videobits.co.uk（无具名 KP；公用地址）",
+      "action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-09-04「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 75 批(f) 2026-10-25：英文信稿已写 `draft_en`）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
+      "one_question": "For the switches and media converters you supply, we offer neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switches and gigabit MCs from single units, CE/RoHS/UKCA, EXW USD — which of these do your customers order most? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
     },
     "facts": [
       {
-        "date": "2025-04-08",
+        "date": "2025-03-30",
         "dir": "去",
-        "who": "Elsa 群发（BCC；To sales-one@setevoe.com.ua）",
-        "quote": "48 Port PoE Managed Switch（Elsa 群发第 1/7 轮；本户在 Bcc，锚 To sales-one@setevoe.com.ua；正文价 300usd/pc，第 74 批(p) 读稿 msg 194eff1f9bf46879 / 1973a613b8166b58）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:vidcom.uz` 命中行 To=sales-one@setevoe.com.ua ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
-        "k": "elsa_bcc",
-        "msg_id": "19614f320d125490"
+        "who": "Elsa 群发（BCC；To sales@luxritesecurity.com，UK-安防分销（一轮） 批次）",
+        "quote": "8 Port Industrial PoE Switch — This is a Marvell based unmanaged 8 Port Gigabit PoE switch. 1. 30W per port for outdoor IP cameras 2. Support 250-meter PoE distance, PoE watchdog an",
+        "why": "Elsa 箱群发 BCC 触达证据（命中地址 sales@videobits.co.uk, videobits.co.uk）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+        "k": "elsa_bcc"
       },
       {
-        "date": "2025-05-01",
+        "date": "2026-09-04",
         "dir": "去",
-        "who": "Elsa 群发（BCC；To sales-one@setevoe.com.ua）",
-        "quote": "8 Port Industrial PoE Switch（Elsa 群发第 2/7 轮；本户在 Bcc，锚 To sales-one@setevoe.com.ua）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:vidcom.uz` 命中行 To=sales-one@setevoe.com.ua ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
-        "k": "elsa_bcc",
-        "msg_id": "1968b64790f67a7a"
-      },
-      {
-        "date": "2025-06-02",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To sales-one@setevoe.com.ua）",
-        "quote": "16 Port Ethernet Switch（Elsa 群发第 3/7 轮；本户在 Bcc，锚 To sales-one@setevoe.com.ua）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:vidcom.uz` 命中行 To=sales-one@setevoe.com.ua ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
-        "k": "elsa_bcc",
-        "msg_id": "1972f70a00586abf"
-      },
-      {
-        "date": "2025-07-01",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To sales-one@setevoe.com.ua）",
-        "quote": "Mini Industrial PoE Switch（Elsa 群发第 4/7 轮；本户在 Bcc，锚 To sales-one@setevoe.com.ua）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:vidcom.uz` 命中行 To=sales-one@setevoe.com.ua ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
-        "k": "elsa_bcc",
-        "msg_id": "197c50ccc65174dd"
-      },
-      {
-        "date": "2025-08-04",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To sales-one@setevoe.com.ua）",
-        "quote": "24 Port Fiber Switch（Elsa 群发第 5/7 轮；本户在 Bcc，锚 To sales-one@setevoe.com.ua；正文价 240usd/pc，第 74 批(p) 读稿 msg 19628286dc08373a / 19874a707c2ed712）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:vidcom.uz` 命中行 To=sales-one@setevoe.com.ua ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
-        "k": "elsa_bcc",
-        "msg_id": "19874a707c2ed712"
-      },
-      {
-        "date": "2025-10-06",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To sales-one@setevoe.com.ua）",
-        "quote": "10G Enterprise SFP Switch（Elsa 群发第 6/7 轮；本户在 Bcc，锚 To sales-one@setevoe.com.ua；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:vidcom.uz` 命中行 To=sales-one@setevoe.com.ua ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
-        "k": "elsa_bcc",
-        "msg_id": "199b8f2203ffa6e8"
-      },
-      {
-        "date": "2025-11-18",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To sales-one@setevoe.com.ua）",
-        "quote": "Industrial PoE Switch（Elsa 群发第 7/7 轮；本户在 Bcc，锚 To sales-one@setevoe.com.ua）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:vidcom.uz` 命中行 To=sales-one@setevoe.com.ua ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
-        "k": "elsa_bcc",
-        "msg_id": "19a9636b94815489"
-      },
-      {
-        "date": "2026-10-07",
-        "dir": "去",
-        "who": "A/S 群发",
-        "quote": "Booster PoE Switch、Marvell Industrial Alert System",
-        "why": "18 封 / 0 次打开 / 0 回｜首封 2024-07-05 → 末封 2026-10-07（18 去 / 0 来）",
-        "k": "gmail_digest"
+        "who": "Elsa 群发（BCC；To sales@cablenet.co.uk，UK 批次）",
+        "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
+        "why": "Elsa 箱群发 BCC 触达证据（命中地址 sales@videobits.co.uk, videobits.co.uk）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+        "k": "elsa_bcc"
       },
       {
         "date": "2026-10-21",
         "dir": "用户表",
         "who": "Simon",
-        "quote": "海康威视 H3C产品较多",
+        "quote": "MC SFP switch",
         "why": "表内备注",
         "k": "用户表"
       }
     ],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+    "proof_gaps": [
+      "无邮件往来"
+    ],
+    "draft_en": {
+      "subject": "Switches and media converters for Videobits - two neutral-brand items",
+      "body": "Hello Videobits team,\n\nOver the past months you had a few product mails from us - most recently \"24 Port PoE Managed Switch\" on 4 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the switches and media converters you supply, two neutral-brand items from single units, UKCA/CE/RoHS: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based - model STC-28DGGPM - $80.7 USD EXW at distributor price (MOQ 1, 15-day validity); industrial mini Gigabit media converter with SFP slot - STI-110GE - $26.5. SFP optics we do not supply.\n\nOne question: which of the two do your customers order most - the PoE switch or the media converter?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+    },
+    "as_of": "2026-10-25"
   }
 }

@@ -2,142 +2,126 @@
  "code": "SB-265",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "在线（intellcom.net，快照 2026-10-21）",
- "summary": "格鲁吉亚第比利斯分销商 Intellcom Group（官网格鲁吉亚语：供电 / 安防系统 / LAN & WAN / 光网络 / 音视频 / 存储；站内 MikroTik CSS610-8P-2S、Ubiquiti、Uniview；PoE 词频 816；表内「MC、Switch 等」，KP Ekvtime Kheredinashvili（Head of Product Management）+ Samson Khaduri（Head of Procurement），有 1 次回复）。",
- "type": "分销商（IT / 安防 / 供电，格鲁吉亚）",
+ "website_status": "在线（videotronic.ch，快照 2026-10-21）",
+ "summary": "瑞士 Videotronic AG（视频安防、门禁、门口通信与智能安防系统方案商（分销/集成）；表内「找 switch」；KP Christos Sgouros）；表内 6 次跟进无回复。",
+ "type": "视频安防/门禁方案商（瑞士）",
  "size": "",
- "brands_seen": [
-  "Ubiquiti"
- ],
+ "brands_seen": [],
  "evidence": [
   {
    "kind": "官网快照",
-   "claim": "官网标题：ინტელკომ ჯგუფი - ოპტიმალური გადაწყვეტები；品类词 安防监控（CCTV / 门禁） / 无线 / WiFi / 光纤 / 媒体转换 / 网络交换 / PoE",
-   "quote": "ენერგო უზრუნველყოფა；უსაფრთხოების სისტემები；LAN & WAN；ოპტიკური ქსელი；აუდიო ვიდეო；მონაცემთა შენახვა",
-   "url": "https://intellcom.net/",
+   "claim": "官网标题：Videotronic | Videosicherheit & Zutrittskontrolle Schweiz",
+   "quote": "Videotronic bietet professionelle Lösungen für Videosicherheit, Zutrittskontrolle, Türkommunikation und intelligente Sicherheitssysteme in der Schweiz.",
+   "url": "https://videotronic.ch/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
    "claim": "表内兴趣/备注",
-   "quote": "MC Switch等；995 32298 9849 (537)",
+   "quote": "找switch；41 79 419 66 18 T 41 44 843 9000",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   },
   {
    "kind": "官网快照",
-   "claim": "格鲁吉亚语官网品类：供电 / 安防 / LAN & WAN / 光网络 / AV / 存储",
-   "quote": "ენერგო უზრუნველყოფა ; უსაფრთხოების სისტემები ; LAN & WAN ; ოპტიკური ქსელი ; აუდიო ვიდეო ; მონაცემთა შენახვა",
-   "url": "https://intellcom.net/",
+   "claim": "Videotronic 定位",
+   "quote": "Videotronic | Videosicherheit & Zutrittskontrolle Schweiz ; professionelle Lösungen für Videosicherheit, Zutrittskontrolle, Türkommunikation",
+   "url": "https://videotronic.ch/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "MC / Switch 需求 + 具名 KP",
-   "quote": "MC Switch等；Ekvtime Kheredinashvili / Head of Product Management / Samson Khaduri / Head of Procurement",
+   "claim": "找 switch",
+   "quote": "找switch",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
  "kp": [
   {
-   "name": "Ekvtime Kheredinashvili",
-   "title": "Head of Product Management",
-   "email": "ekvtime@intellcom.net",
-   "phone": "",
-   "source": "用户表"
-  },
-  {
-   "name": "Samson Khaduri",
-   "title": "Head of Procurement",
-   "email": "soso@intellcom.net",
+   "name": "Christos Sgouros",
+   "title": "（职务待核）",
+   "email": "c.sgouros@videotronic.ch",
    "phone": "",
    "source": "用户表"
   }
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "格鲁吉亚",
-  "other": "官网 intellcom.net，语言 ka，快照状态 ok；角色判定来源：待核"
+  "hq": "瑞士",
+  "other": "官网 videotronic.ch，语言 de，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "供电 / UPS / 电池",
-  "安防系统",
-  "LAN & WAN / 光网络",
-  "音视频 / 存储"
+  "视频安防 / 门禁 / 门口通信方案（瑞士）"
  ],
  "channels": {
-  "role": "分销商（IT / 安防 / 供电，格鲁吉亚）",
-  "region": "格鲁吉亚",
-  "contact": "ekvtime@intellcom.net、soso@intellcom.net"
+  "role": "视频安防/门禁方案商（瑞士）",
+  "region": "瑞士",
+  "contact": "c.sgouros@videotronic.ch"
  },
  "signals": [
-  "站内 PoE 词频 816、MikroTik 42、Ubiquiti 82、Uniview 44",
-  "KP：Head of Product Management + Head of Procurement 具名（表内）→ 决策链完整",
-  "表内有回复记录 → 升 A 候选，待下一轮回复后定"
+  "官网：Videotronic bietet professionelle Lösungen für Videosicherheit, Zutrittskontrolle, Türkommunikation und intelligente Sicherheitssysteme in der Schweiz ; Unsere Marken",
+  "表内：找 switch；KP Christos Sgouros"
  ],
  "risks": [
-  "格鲁吉亚（T5 非主攻区）：物流经土耳其/黑海，交期需加 1–2 周",
-  "已回复 1 次但未报量：下一封只问一个问题"
+  "瑞士市场品牌导向（价格敏感度低）；6 次无回复 → 改向 Christos 具名首触"
  ],
  "saga_fit": {
   "p1": "STC-28DGGPM",
-  "tier": 20,
-  "why": "在售 MikroTik CSS610-8P-2S（8 PoE + 2 SFP）→ 同口型 STC-28DGGPM（$80.7 @20%）；MC 位 STI-110GE；A 候选（具名产品与采购负责人 + 已回复）"
+  "tier": 25,
+  "why": "安防项目 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424DGGPM-280W（$140.1）"
  },
- "email_hook": "Ekvtime, next to the CSS610-8P-2S you list, we supply a Marvell-based 8-port PoE+ L2+ switch with 2 SFP (and a DIN-rail gigabit media converter) in neutral packing from small lots — would a sample pair for your bench test be useful, and which uplink do you prefer, SFP or 2.5G?",
- "products_seen": [
-  {
-   "brand": "MikroTik",
-   "model": "CSS610-8P-2S",
-   "spec": "8 口千兆 PoE-out + 2 SFP+ SwOS",
-   "saga": "STC-28DGGPM",
-   "url": "https://intellcom.net/",
-   "date": "2026-10-21"
-  }
- ],
+ "email_hook": "Christos, for the PoE switches in your video-security and access-control projects, we supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ models (VLAN, 802.3at/bt options) from single units, CE/RoHS, EXW USD — which port count do your Swiss installations use most?",
  "mail_review": {
   "binding": {
-   "level": "轻度触达（2025-06-12 工单客服「How can i help you?」→ Alan 一句推荐；无后续；Elsa 箱：`to:intellcom.net` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 22 / 来 1）（第 74 批(k)））",
-   "type": "格鲁吉亚 IT/安防分销（Intellcom）",
-   "sieve": "1",
-   "stop": "客服",
-   "revive": "不动",
-   "lane": "GE",
-   "cadence": "不动",
-   "evidence": "k=d0ac14f05dc4281e"
+   "level": "未触达（A 邮箱 16 封 2025→2026，无记录打开，0 回；收件 c.sgouros@videotronic.ch；主题多为「Industrial PoE Switch、48 Port PoE Managed Switch」；Elsa 箱：`to:videotronic.ch` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 16 / 来 0）（第 74 批(k)））",
+   "type": "视频安防/门禁方案商（瑞士）",
+   "sieve": "1（只收到群发）",
+   "stop": "16 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "瑞士（欧洲全域主攻）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 16；用户表：「找switch；41 79 419 66 18 T 41 44 843 9000」；研究档 risks：瑞士市场品牌导向（价格敏感度低）；6 次无回复 → 改向 Christos 具名首触"
   },
-  "situation": "—",
-  "need": "—",
-  "breakpoint": "—",
+  "situation": "瑞士 Videotronic AG（视频安防、门禁、门口通信与智能安防系统方案商（分销/集成）；表内「找 switch」；KP Christos Sgouros）；表内 6 次跟进无回复。",
+  "need": "安防项目 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424DGGPM-280W（$140.1）",
+  "breakpoint": "瑞士市场品牌导向（价格敏感度低）；6 次无回复 → 改向 Christos 具名首触",
   "saga_now": {
-   "p1": "—",
-   "tier": 20,
-   "price": "—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-24 $65（10G Media Converter）、2024-11-01 $300（48 Port PoE Managed Switch）、2024-12-17 $240（24 Port Fiber Switch）、2026-10-09 $180（24 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-07 $280（10G Enterprise SFP Switch）",
-   "why": "已打开的主题（1/22 封有打开记录）：「Re: Managed Optical Bypass Switch [#29」(2025-06-12) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续",
+   "p1": "STC-28DGGPM",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-03-20 $300（48 Port PoE Managed Switch）、2025-10-08 $280（10G Enterprise SFP Switch）、2026-06-18 $16000（32 Port 400GB DC Switch）",
+   "why": "安防项目 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424DGGPM-280W（$140.1）",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—",
-   "one_question": ""
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Christos, for the PoE switches in your video-security and access-control projects, we supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ models (VLAN, 802.3at/bt options) from single units, CE/RoHS, EXW USD — which port count do your Swiss installations use most?"
   },
   "facts": [
    {
-    "date": "2025-06-12",
-    "dir": "来",
-    "who": "用户表（Simon 跟进记录；渠道 A）",
-    "quote": "用户表跟进：推「Bypass」→ 对方「有啥事?」",
-    "why": "Simon 跟进表里的回应记录（邮箱看不到的渠道）；按原文留存",
-    "k": "Clients/A Replied 09.04.xlsx no.4 2025.6.12"
+    "date": "2026-09-14",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "Industrial PoE Switch、48 Port PoE Managed Switch",
+    "why": "16 封 / 0 次打开 / 0 回｜首封 2025-03-20 → 末封 2026-09-14（16 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "找switch；41 79 419 66 18 T 41 44 843 9000",
+    "why": "表内备注",
+    "k": "用户表"
    }
   ],
   "proof_gaps": [],

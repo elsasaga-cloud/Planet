@@ -1,0 +1,75 @@
+{
+ "code": "SC-155",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（ecrin.com，快照 2026-10-21）",
+ "summary": "法国 ECRIN Systems（加固计算机、嵌入式服务器与极端环境工业 IT 设计制造商：国防/航空（MIL-STD-810/461、DO-160、MIL-DTL-38999），Quartz 加固交换机；表内「几个品牌的交换机」）；群发 8 次无回复。",
+ "type": "国防/航空加固计算制造商（军工）",
+ "size": "",
+ "brands_seen": [
+  "D-Link"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：ECRIN Systems, l'innovation embarquée au coeur de vos systèmes !；品类词 工业自动化 / OT 网络 / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "Concepteur et fabricant de calculateurs durcis, serveurs embarqués et solutions informatiques industrielles adaptés aux environnements les plus extrêmes.",
+   "url": "https://ecrin.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "几个品牌的交换机",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "ECRIN Systems 加固计算制造商",
+   "quote": "Concepteur et fabricant de calculateurs durcis, serveurs embarqués et solutions informatiques industrielles adaptés aux environnements les plus extrêmes.",
+   "url": "https://ecrin.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "几个品牌的交换机",
+   "quote": "几个品牌的交换机",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "守界：法国国防/航空加固计算制造商（ECRIN Systems）；c_sub=守界：军工",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "法国",
+  "other": "官网 ecrin.com，语言 fr，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "加固计算机 / 嵌入式服务器 / 加固交换机（国防航空）"
+ ],
+ "channels": {
+  "role": "国防/航空加固计算制造商（军工）",
+  "region": "法国",
+  "contact": "sales@ecrin.com"
+ },
+ "signals": [
+  "官网：Concepteur et fabricant de calculateurs durcis, serveurs embarqués et solutions informatiques industrielles adaptés aux environnements les plus extrêmes；首页 Défense",
+  "页面 /quartz-switch-durcis、/en/quartz-rugged-switch；站内 MIL-DTL-38999 / DO-160 / MIL-STD-810 / MIL-STD-461"
+ ],
+ "risks": [
+  "守界：国防/航空加固计算与交换机（MIL-STD / DO-160）"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 25,
+  "why": "国防与航空加固设备制造商 = 守界 → 改 C"
+ },
+ "email_hook": "（不发送：军工守界）"
+}

@@ -1,73 +1,103 @@
 {
- "code": "SB-518",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（remoteham.com，快照 2026-10-21）",
- "summary": "加拿大 LEGF / remoteham.com（业余无线电爱好者站点「Amateur radio on the internet」；阿里巴巴 RFQ「1X2 光开关」；KP Guy Fleurant；gmail 邮箱）；表内未跟进。",
- "type": "个人爱好者（RFQ）",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：remoteham；品类词 网络交换 / PoE",
-   "quote": "Amateur radio on the internet, SDR interface for transmitting purpose.",
-   "url": "https://remoteham.com/",
-   "date": "2026-10-21"
+  "code": "SB-518",
+  "name_official": "Info Systems（拉合尔；Malik Yousaf Mahmood）",
+  "researched_at": "2026-10-21",
+  "website_status": "无域名（仅表内信息）",
+  "summary": "巴基斯坦拉合尔 IT 商 Malik Yousaf Mahmood，2023 年在光模块帖下留电话，要 2G/4FE、2 光 8 管理 PoE 价格，2025-09 2.5G「稍后谈」；无邮箱。",
+  "type": "",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "用户表",
+      "claim": "在光模块下评论手机号；回复 2G/4FE；price；稍后谈",
+      "quote": "兴趣：在光模块下评论了手机号；回复：2G/4FE；price；稍后谈",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [
+    {
+      "name": "Malik Yousaf Mahmood",
+      "title": "（经营者）",
+      "email": "",
+      "phone": "+92 336 166 5953",
+      "source": "（本地 Clients/ 表格，无公开 URL）"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "无域名 · 仅表内信息"
   },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "1X2光开关 / from: 阿里巴巴RFQ",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
+  "company_facts": {
+    "legal_name": "（待核）",
+    "founded": "",
+    "hq": "Lahore, Pakistan",
+    "size": "小型",
+    "other": "仅 WhatsApp"
   },
-  {
-   "kind": "官网快照",
-   "claim": "remoteham 定位",
-   "quote": "remoteham ; Amateur radio on the internet, SDR interface for transmitting purpose",
-   "url": "https://remoteham.com/",
-   "date": "2026-10-21"
+  "channels": {
+    "role": "IT 经销（推断）",
+    "region": "巴基斯坦（拉合尔）"
   },
-  {
-   "kind": "用户表",
-   "claim": "1X2 光开关 RFQ",
-   "quote": "1X2光开关 / from: 阿里巴巴RFQ",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
+  "signals": [
+    "问过 2 光 8 管理 PoE 价格"
+  ],
+  "risks": [
+    "无邮箱；低价市场"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 20,
+    "why": "其问价对象 2 光 8 管理 PoE → Saga STC-28DGGPM；2G/4FE 低端款按 HRUI STC-024FP 报。"
+  },
+  "email_hook": "（无邮箱；WhatsApp：The 8-PoE + 2-SFP managed unit you priced in 2023 is now Marvell-based at the same EXW level — want the 2026 sheet?）",
+  "mail_review": {
+    "binding": {
+      "level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：在光模块下评论了手机号；回复：2G/4FE；price；稍后谈」）；Elsa 箱无可查地址（仓内无此户任何邮箱/域名——用户表/WhatsApp/展会名片户，`from:e.sagatelecom to:` 无从下手；Elsa 群发是否碰过他无法判定，不写「未触达」）（第 74 批(o)）",
+      "type": "—",
+      "sieve": "—（未入筛）",
+      "stop": "从未触达",
+      "revive": "不动（非主攻区；J5：有证据再动）",
+      "lane": "巴基斯坦 非主攻",
+      "cadence": "不动",
+      "evidence": "gmail_digest：out 0；用户表：「兴趣：在光模块下评论了手机号；回复：2G/4FE；price；稍后谈」；研究档 risks：无邮箱；低价市场"
+    },
+    "situation": "巴基斯坦拉合尔 IT 商 Malik Yousaf Mahmood，2023 年在光模块帖下留电话，要 2G/4FE、2 光 8 管理 PoE 价格，2025-09 2.5G「稍后谈」；无邮箱。",
+    "need": "其问价对象 2 光 8 管理 PoE → Saga STC-28DGGPM；2G/4FE 低端款按 HRUI STC-024FP 报。",
+    "breakpoint": "无邮箱；低价市场",
+    "saga_now": {
+      "p1": "STC-28DGGPM",
+      "tier": 20,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "其问价对象 2 光 8 管理 PoE → Saga STC-28DGGPM；2G/4FE 低端款按 HRUI STC-024FP 报。",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "不动",
+      "channel": "—",
+      "action": "—",
+      "one_question": ""
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "兴趣：在光模块下评论了手机号；回复：2G/4FE；price；稍后谈",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [
+      "无邮件往来",
+      "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-24"
   }
- ],
- "kp": [],
- "grade_override": "C",
- "override_reason": "个人买家 + 免费邮箱 + 品类不符；c_sub=品类不符/终端用户",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "加拿大",
-  "other": "官网 remoteham.com，语言 ?，快照状态 ok；角色判定来源：待核"
- },
- "business_lines": [
-  "（个人爱好者）"
- ],
- "channels": {
-  "role": "个人爱好者（RFQ）",
-  "region": "加拿大",
-  "contact": "guyfleurant@gmail.com"
- },
- "signals": [
-  "官网：remoteham ; Amateur radio on the internet, SDR interface for transmitting purpose",
-  "表内：1X2 光开关 / from: 阿里巴巴 RFQ；KP Guy Fleurant；guyfleurant@gmail.com"
- ],
- "risks": [
-  "个人买家（非渠道）；免费邮箱；RFQ 品类光开关 Saga 不供"
- ],
- "saga_fit": {
-  "p1": null,
-  "tier": 20,
-  "why": "个人业余无线电爱好者（gmail），RFQ 光开关（Saga 不供）→ 改 C"
- },
- "email_hook": "（不发送：个人买家）"
 }

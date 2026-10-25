@@ -1,134 +1,128 @@
 {
  "code": "SB-105",
- "name_official": "M. Al Barghash Trading & Contracting Co. (MBTC)（沙特东部省）",
+ "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "在线（mbtc.com.sa，快照 2026-10-21，仅欢迎页）",
- "summary": "沙特东部省 1976 年成立的 100% 沙资贸易与承包公司（关联 AAM Industrial，ei-telcomlead@ 邮箱 = 电气仪表 / 电信项目组），项目型采购；表内 Project Manager Prabhu Manickam 与 Wasi Akthar，2024-01 对 2 光 4 工业机「有用但现在没需求」，WhatsApp 24 次跟进无实质回复。",
- "type": "",
+ "website_status": "快照失败（http_error）",
+ "summary": "土耳其 Cenova（CCTV 产品为主，PoE 交换机与工业 FS 为 Ewind 代工；KP Rifat Baydemir（General Manager）；官网 http_error）；表内 2 次跟进无回复。",
+ "type": "CCTV 分销商（土耳其，PoE 现 Ewind）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Ewind"
+ ],
  "evidence": [
   {
-   "kind": "官网快照",
-   "claim": "1976 年成立、东部省、100% 沙资",
-   "quote": "M-AL Barghash Company was established in the year 1976 in Eastern Province of Saudi Arabia, is a 100% Saudi Owned Company.",
-   "url": "https://mbtc.com.sa/",
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "POE switch 工业FS CCTV产品还是主要的；POE switch 工业FS E-wind的 CCTV产品还是主要的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "做项目的，问了几个产品；2024-01 2 光 4→有用但现在没需求",
-   "quote": "兴趣：做项目的 问了几个产品；回复：有用但现在没需求",
+   "claim": "PoE switch 工业 FS Ewind；CCTV 主要",
+   "quote": "POE switch 工业FS E-wind的 CCTV产品还是主要的",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
  "kp": [
   {
-   "name": "Prabhu Manickam",
-   "title": "Project Manager",
-   "email": "prabhu@mbtc.com.sa",
-   "phone": "+966 57 201 2594",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
-  },
-  {
-   "name": "Wasi Akthar",
-   "title": "（E&I / Telecom lead）",
-   "email": "ei-telcomlead@aamindustrial.com",
-   "phone": "0572012594（2023-06-19 签名；与用户表记在 Prabhu 名下的 +966 57 201 2594 同号——同一手机，谁在用待核）",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
+   "name": "Rifat Baydemir",
+   "title": "General Manager",
+   "email": "rifat@cenova.com.tr",
+   "phone": "",
+   "source": "用户表"
   }
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照 + 表内）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "legal_name": "M. Al Barghash Trading & Contracting Co.",
-  "founded": "1976",
-  "hq": "Eastern Province, Saudi Arabia（Dammam/Al Khobar，待核）",
-  "size": "中型承包商",
-  "other": "关联 AAM Industrial（aamindustrial.com）"
+  "hq": "土耳其",
+  "other": "官网 cenova.com.tr，语言 ?，快照状态 http_error；角色判定来源：用户表"
  },
  "business_lines": [
-  "工业 / 油气项目承包（电气仪表、电信）",
-  "贸易"
+  "CCTV / PoE 分销（土耳其）"
  ],
  "channels": {
-  "role": "项目承包商（EPC 分包）",
-  "region": "沙特东部省（油气区）"
+  "role": "CCTV 分销商（土耳其，PoE 现 Ewind）",
+  "region": "土耳其",
+  "contact": "info@cenova.com.tr、rifat@cenova.com.tr"
  },
  "signals": [
-  "项目型：曾问多款产品；工业 2 光 4 有用"
+  "表内：POE switch 工业 FS E-wind 的 CCTV 产品还是主要的；KP Rifat Baydemir / General Manager",
+  "快照：http_error"
  ],
  "risks": [
-  "沙特油气项目通常要求 Aramco 认证 / 厂牌清单，白牌难入",
-  "24 次 WA 跟进无回复 → 低响应"
+  "现供 Ewind 价格基准低；官网 http_error（待核）；土耳其汇率敏感；2 次无回复 → 改向 GM 具名首触"
  ],
  "saga_fit": {
-  "p1": "STI-244GP",
-  "tier": 25,
-  "why": "项目工业小壳 2 光 4 PoE → STI-244GP（$36.6 @25%）；项目 25%。"
+  "p1": "STC-28DGGPM",
+  "tier": 20,
+  "why": "PoE（现 Ewind）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）；工业 8 PoE + 2 SFP STI-288GP（$57.4）"
  },
- "email_hook": "Prabhu, when the next E&I package comes up — the 2-SFP + 4-PoE DIN unit you found useful is CE/FCC/RoHS, −40~75 ℃, ships from 1 pc; do your specs call for IEC 61850 or plain industrial grade?",
+ "email_hook": "Rifat, for the PoE switches you sell with CCTV systems, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches plus DIN-rail 8-PoE industrial units from small lots, CE/RoHS, EXW USD — which PoE SKU do your dealers reorder most?",
  "mail_review": {
   "binding": {
-   "level": "误归属（3 封 2023-06 来信为 AAM Industrial（沙特）对 Simon 前东家 olycom 邮箱的 RFQ 转发；MBTC 本身无往来；Elsa 箱：`to:mbtc.com.sa OR to:aamindustrial.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 5 / 来 3）（第 74 批(n)））",
-   "type": "沙特贸易承包（MBTC）",
-   "sieve": "0",
-   "stop": "误归属/前东家时期",
-   "revive": "不动",
-   "lane": "SA",
-   "cadence": "不动",
-   "evidence": "k=2ff1477327f64427；第 19 批回补来信原文 2 条（gmail_s/gmail_a）"
+   "level": "未触达（A/S 邮箱 18 封 2024→2026，无记录打开，0 回；收件 info@cenova.com.tr, rifat@cenova.com.tr；主题多为「10G Enterprise SFP Switch、Industrial PoE Switch」；Elsa 箱：`to:cenova.com.tr` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 18 / 来 0）（第 74 批(i)））",
+   "type": "CCTV 分销商（土耳其，PoE 现 Ewind）",
+   "sieve": "1（只收到群发）",
+   "stop": "18 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "TR 主攻（四主）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 18；用户表：「POE switch 工业FS CCTV产品还是主要的；POE switch 工业FS E-wind的 CCTV产品还是主要的」；研究档 risks：现供 Ewind 价格基准低；官网 http_error（待核）；土耳其汇率敏感；2 次无回复 → 改向 GM 具名首触"
   },
-  "situation": "—",
-  "need": "—",
-  "breakpoint": "—",
+  "situation": "土耳其 Cenova（CCTV 产品为主，PoE 交换机与工业 FS 为 Ewind 代工；KP Rifat Baydemir（General Manager）；官网 http_error）；表内 2 次跟进无回复。",
+  "need": "PoE（现 Ewind）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）；工业 8 PoE + 2 SFP STI-288GP（$57.4）",
+  "breakpoint": "现供 Ewind 价格基准低；官网 http_error（待核）；土耳其汇率敏感；2 次无回复 → 改向 GM 具名首触",
   "saga_now": {
-   "p1": "—",
+   "p1": "STC-28DGGPM",
    "tier": 20,
-   "price": "—；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2026-05-12 $280（10G Enterprise SFP Switch）",
-   "why": "—",
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-11 $65（10G Media Converter）；群发里他已看到的价（续）：2026-08-13 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-25 $280（10G Enterprise SFP Switch）",
+   "why": "PoE（现 Ewind）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）；工业 8 PoE + 2 SFP STI-288GP（$57.4）",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—",
-   "one_question": ""
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Rifat, for the PoE switches you sell with CCTV systems, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches plus DIN-rail 8-PoE industrial units from small lots, CE/RoHS, EXW USD — which PoE SKU do your dealers reorder most?"
   },
   "facts": [
    {
-    "date": "2023-06-19",
-    "dir": "来",
-    "who": "ei-telcomlead@aamindustrial.com",
-    "quote": "Dear Sir, Greetings from AAM! Please provide your technical quotes for electrical items ASAP Best Regards, Wasi Akthar E&I- Telecom Lead AAM Industria",
-    "why": "来信原文（主题「RFQ FOR ELECTRICAL ITEMS MCB」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
-    "k": "2ff1477327f64427"
+    "date": "2024-11-05",
+    "dir": "去",
+    "who": "Simon → Angora Networks（SA-077）附件 Turkey Client List.xlsx",
+    "quote": "名单行：「POE switch industrial network info@cenova.com.tr https://www.cenova.com.tr/dl-end3308pfg」",
+    "why": "Saga 2024-11-05 把本户列入交给 Angora（安卡拉，Saga 提议的欧盟/土耳其分销伙伴）的 64 家起步名单；此后 Saga 仍直发本户。若 Angora 已接触过本户，Saga 直发会与自己提议的渠道打架 → Q-51（默认：直发继续，Angora 报了价的户 Saga 只做技术支持）",
+    "k": "gmail_s 2024-11-05 Re: Invoice_5pcs STC-424DGGPM-280W（附件）+ Drive PI 7_土耳其 Turkey_Client_List.xlsx"
    },
    {
-    "date": "2023-06-19",
-    "dir": "来",
-    "who": "ei-telcomlead@aamindustrial.com",
-    "quote": "Dear sir, Greetings from AAM! Please provide your techno quotes for telecom materials ASAP. Please find the attached file & provide your best quotes.",
-    "why": "来信原文（主题「RFQ for telecom items」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
-    "k": "0c993be0c8b28c1b"
+    "date": "2026-09-17",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "10G Enterprise SFP Switch、Industrial PoE Switch",
+    "why": "18 封 / 0 次打开 / 0 回｜首封 2024-06-27 → 末封 2026-09-17（18 去 / 0 来）",
+    "k": "gmail_digest"
    },
    {
-    "date": "2024-01-18",
-    "dir": "来",
-    "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
-    "quote": "用户表跟进：推「发了2光4相关信息」→ 对方「有用但现在没需求」",
-    "why": "Simon 跟进表里的**婉拒/无需求**记录——这是 stop 原因的直接证据，节奏按「不动，等他开口」",
-    "k": "Clients/A/DONE/阿联酋 沙特阿拉伯  2.3.xlsx no.13 2024.1.18"
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "POE switch 工业FS CCTV产品还是主要的；POE switch 工业FS E-wind的 CCTV产品还是主要的",
+    "why": "表内备注",
+    "k": "用户表"
    }
   ],
-  "proof_gaps": [],
+  "proof_gaps": [
+   "在 Saga 给 Angora 的 Turkey Client List（2024-11-05）里——Angora 是否接触过本户无记录（Q-51）"
+  ],
   "draft_en": null,
   "as_of": "2026-10-24"
  }

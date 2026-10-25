@@ -1,8 +1,2 @@
-# SB-826 eu.com · sitemap · https://eu.com/sitemap.xml · fetched 2026-10-25T07:41:18Z · HTTP 200
-	https://eu.com/
-	https://eu.com/whois
-	https://eu.com/privacy-policy
-	https://eu.com/terms-of-use
-	https://eu.com/registry-policies
-	https://eu.com/abuse
-	https://eu.com/sitemap
+# SB-826 versitron.com · sitemap · https://www.versitron.com/sitemap.xml · fetched 2026-10-25T07:41:18Z · HTTP 200
+

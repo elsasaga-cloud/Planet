@@ -1,11 +1,671 @@
-# SB-479 radioteknoloji.com.tr · home · https://www.radioteknoloji.com.tr/en/ · fetched 2026-10-25T07:41:18Z · HTTP 200
-Radio Technology | Future-Shaping Communication Technologies 🇺🇸 English
-Leveraging our extensive industry experience and competent operations team, we consistently deliver the best service, cutting-edge technologies and functional products to our target customers, ensuring lasting satisfaction and pioneering innovative projects across Turkey and worldwide.
-Quick Links
-Ürünler
-Markalar
-Kategoriler
-Policies
-Contact
-Free Consultation
-WhatsApp Support
+# SB-479 ezy.hr · home · https://ezy.hr/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+EZY Infotech d.o.o.
+" />
+AUTORIZACIJA
+*
+Registrirajte se
+PRETRAŽIVANJE
+*
+Početna
+O nama
+Ponuda
+Podrška
+Kontakti
+Partner info
+PREGLED KATALOGA
+OUTLET
+Outlet
+RAČUNALA
+PC Računala
+Nettop
+All In One računala
+Lenovo reThink prijenosna računala
+Notebook 12" i manji
+Notebook 14"
+Notebook 15"
+Notebook 16" i veći
+Refurbished računala
+Desktop
+Prijenosna računala
+Serveri
+Apple
+KOMPONENTE RAČUNALA
+Procesori i Pribor
+Intel LGA1200
+Intel LGA1700
+Intel LGA1851
+AMD AM4
+AMD AM5
+Hladnjaci za Procesore
+Pribor za CPU
+Memorije i Pribor
+DDRAM-DDR3 1600
+DDRAM-SO-DIMM
+DDRAM-DDR4 3200
+DDRAM-DDR5 4800
+DDRAM.DDR5 5200
+DDRAM-DDR5 5600
+DDRAM-DDR5 6000
+DDRAM-DDR5 6400
+DDRECC-DDR5
+Matične Ploče
+Intel CPU onboard
+Socket AM4
+Socket LGA2066
+Socket LGA1700
+Socket AM5
+Pribor za Matične Ploče
+Socket LGA1200
+Socket LGA1851
+Grafičke Kartice
+ATI Grafičke Kartice
+Intel ARC
+NVIDIA Grafičke Kartice
+Razne Kartice
+I/O Kartice
+Tvrdi Diskovi
+SATA / 2.5"
+SATA / 3.5"
+SATA / 3,5" NAS
+SATA / 3,5" SURVEILLANCE
+SATA / 3,5" ENTERPRISE
+Vanjski Diskovi
+SAS
+Optički Uređaji
+DVD / DVD R/W
+Ostali Uređaji za Pohranu Podataka
+Čitači Kartica
+Kućišta
+Big Tower
+Micro ATX
+Midi Tower ATX
+Mini ITX
+HDD i SSD
+Ventilatori za kućišta
+Napajanja
+ATX PSU
+SSD
+2.5"
+NVMe PCIe 3.0x4
+NVMe PCIe 4.0x4
+NVMe PCIe 5.0x4
+M.2
+USB SSD
+PERIFERNI UREĐAJI RAČUNALA
+KVM
+Switch
+Hubovi i Dockovi
+USB hub
+Docking Station
+Miševi i Mišne Podloge
+Miš USB
+Miš Wireless
+Mišne Podloge
+Oprema za Igre
+Gamepad
+Pribor za Računala
+Razni dodaci i pribor
+Tipkovnice
+USB
+Wireless
+Zvučnici , Slušalice i Mikrofoni za Računala
+Zvučnici 2.0
+Zvučnici 2.1
+Slušalice
+Mikrofoni
+Web Kamere
+Web Kamere Visoke Razlučivosti
+Ostali Periferni Uređaji
+Konferencijski sustavi
+MONITORI, PROJEKTORI I DISPLEJI
+LCD Monitori
+22" LCD
+24" LCD
+27" LCD
+32" LCD
+34" LCD
+Pribor za Čišćenje
+UREĐAJI I MEDIJI ZA POHRANU PODATAKA
+Flash Memorije
+USB FLASH memorije
+Micro SD kartice
+ŠTAMPAČI I SKENERI
+Multifunkcionalni Uređaji
+Inkjet
+3D Štampači
+3D Olovka
+Niti za 3D Štampanje
+POTROŠNI MATERIJAL
+Ink Jet Tinte
+Tinte za CANON Ink Jet Štampače
+Tinte za HP Ink Jet Štampače
+Toneri
+Toneri za HP Laserske Štampače
+Toneri za Samsung Laserske Štampače
+Toneri za Brother Laserske Štampače
+Toneri za Lexmark Laserske Štampače
+POS potrošni materijal
+Papirnate termo role
+POS UREĐAJI
+POS Monitori
+Touch Screen
+POS Štampači
+Termo Printeri
+Bar Code Čitači
+Laserski
+PROGRAMSKA OPREMA
+Microsoft Operativni Sistemi
+Microsoft OS
+Microsoft Aplikacije
+MS Office
+OPREMA ZA PRIJENOSNA RAČUNALA
+Cooling Station
+Pribor za Prijenosna računala
+Pribor
+Pribor za Tablet računala
+Touch Screen Stylus Pen
+Torbe, ruksaci, navlake
+Torbe i navlake 13"-14"
+ŽIČANA MREŽNA OPREMA
+Switch
+Fast Ethernet 5-Port
+Fast Ethernet 8-Port
+Fast Ethernet 16-Port
+Fast Ethernet 24-Port
+Gigabit 5-6 Ports
+Gigabit 8-12 Ports
+Gigabit 16-22 Ports
+Gigabit 24-28 Ports
+Gigabit 48-52 Ports
+2.5G
+10G 5-8 Ports
+10G 16-20 Ports
+10G 24-32 Ports
+PoE 5-6 Ports
+PoE 8-12 Ports
+PoE 16-20 Ports
+PoE 24-28 Ports
+PoE 48-52 Ports
+PoE Passive
+Outdoor
+Pribor
+Optical Switch
+Routeri
+1-8 Ports
+8-28 Ports
+Pribor
+Network Interface kartice
+LAN Cards
+Smart Home
+Z-Wave uređaji
+Lora Gateway
+Interkomi
+NAS
+Network Storage Device
+POE i Power adapteri
+POE Injector/Splitter
+Aktivni PoE Injector/Splitter
+Pasivni PoE Injector/Splitter
+PoE Extender
+Long Range PoE
+Power adapteri
+Print Server
+USB
+HomePlug powerline
+HomePlug AV Standard
+Security Gateway
+Controllers
+Gateway And Firewals
+Multi Wan Gateway
+VOIP Oprema
+Gateway/Routeri
+TelefonI
+Hotspot
+Account Generator
+Širokopojasna komunikacija
+VDSL2 Bridge/Modem
+Industrijska automatizacija
+Media Converters
+Rack-Mount Switches
+Din-Rail Switches
+Flat wall-mount switches
+PoE Injector/Splitter/Extender
+Din Rail Power Supply
+Serial over Ethernet
+Fiber bypass switches
+Antene i Kabeli
+Kablovi za Antene
+2.4 GHz Omnidirectional
+5 GHz Directional/Client
+5 GHz Omnidirectional
+5 GHz Base Station/Sector
+Pribor
+Oprema za montažu
+Kabeli za Antene
+Nadzor i Sigurnost
+IP kamere 3.0 MP
+Sigurnosni Senzori
+Wired Uređaji
+Lan Kartice
+Wireless Indoor
+3G/4G Routeri
+3G / 4G Pribor
+802.11ac
+USB Adapteri
+Mikrotik
+Kućišta
+Pribor
+Ormari i oprema
+Ormari
+WIRELESS OPREMA
+Antene i kabeli
+3G/4G/LTE Antene
+2.4 GHz Directional/Client antene
+2.4 GHz Omnidirectional antene
+2.4 GHz Basestation/Sector antene
+3GHz Antene
+5 GHz Directional/Client antene
+5 GHz Omnidirectional antene
+5 GHz Basestation/Sector antene
+Oprema za montažu antena
+Kabeli za antene
+Konektori za antene
+Pribor za antene
+Unutrašnja wireless oprema
+Home Mesh ruteri
+3G/4G/LTE routeri
+5G routeri
+3G/4G/LTE/5G pribor
+11ac Dual Band routeri
+11ax Dual Band routeri
+WiFi7 802.11be routeri
+2.4 GHz routeri
+Access Points/Repeaters
+Powerline adapteri
+PCI/PCI-E adapteri
+USB adapteri
+MikroTik Routerboard
+Pribor
+Vanjska Wireless oprema
+3G/4G/LTE
+2.4 GHz 802.11 b/g/n
+2.4 GHz 802.11 ac
+5 GHz 802.11 a/an
+5 GHz 802.11 ac
+Dual Band 802.11 a/b/g/n/ac/ax/be
+11 GHz
+24 GHz
+60 GHz
+900 MHz
+PCI-E adapteri
+Vanjska Kućišta i pribor
+Nosači
+Stupovi
+Industrijske Wireless oprema
+LTE Cellular Gateway
+OPTIČKE MREŽE AKTIVNE
+GEPON FTTx
+GEPON
+SFP Transceiver
+Single-Mode
+Multi-Mode
+SFP-BIDI WDM
+Open SFP Slot
+SFP-Copper
+10G SFP+
+Chassis
+SFP Dual Fiber
+DAC kabeli
+SFP/SFP+
+Medija konverteri
+Single-Mode
+Multi-Mode
+Open SFP Slot
+OPTIČKE MREŽE PASIVNE
+Patch kabeli Simplex
+Single Mode
+Patch kabeli Duplex
+OM3
+OM4
+Single Mode
+Pigtails
+LC
+SC
+Adapteri/Poveznice
+LC
+SC
+Ostalo
+Konektori
+SC
+Atenuatori
+SC
+Kabineti, paneli i kućišta
+Patch paneli
+Splice Closures/Spojnice
+Distribucijske kutije-metalne
+Distribucijske kutije-plastične
+Splice ladice/kazete
+Pribor/drugo
+Razdjelnici
+1:2
+1:4
+1:8
+Ostali
+Alat i pribor
+Fusion Splice navlake
+Kitovi za čišćenje
+Oprema za testiranje
+Držači / stezaljke / kuke za kablove
+Uređenje kablova
+Fusion Splicers
+Alat
+Ostalo
+Fiber optički kabeliSM
+2 Fiber
+4 Fiber
+8 Fiber
+12 Fiber
+24 Fiber
+36 Fiber
+48 Fiber
+72 Fiber
+96 Fiber
+144 Fiber
+Ostali Fiber optički SM kabeli
+NADZOR I SIGURNOST
+IP kamere
+IP Kamere 1.0 MP 720P
+IP Kamere 2.0 MP
+IP Kamere 3.0 MP
+IP kamere 4.0 MP
+IP Kamere 5.0 MP
+IP Kamere 6.0 MP
+IP kamere 8.0 MP
+IP Kamere Pribor
+Pametna zvona
+Integrirana pametna zvona
+Video rekorderi za nadzor
+Network Video Recorder
+KOMUNIKACIJSKI ORMARI I PRIBOR
+Zidni mrežni ormari
+4U do 12U
+15U do 27U
+Podni mrežni ormari
+15U do 29U
+30U do 48U
+Zidni nosači
+2U do 4U
+Otvoreni podni ormari
+29U do 48U
+Oprema za ormare
+PDU
+APC PDU
+Police
+Vodilice kabela
+Ventilatori
+KVM preklopnici
+Pribor
+NEPREKIDNO NAPAJANJE
+Akumulatorske Baterije
+Baterije za Produženi Rad
+Zamjenske Baterije
+Back-UPS
+Line Interactive
+Standby Sistem
+Smart-UPS
+Rack/Tower
+Rackmount
+Tower
+SNMP Management module
+Symmetra
+Pribor
+3 Fazni UPS
+Easy UPS 3S
+Galaxy 3500
+Smart-UPS VT
+Symmetra
+Uređaji za Zaštitu Linije
+Protect Net-Ddata Line
+Surge Arrest
+Netbotz
+Netbotz 200
+Netbotz 300
+Netbotz 400
+Netbotz 500
+Netbotz senzori
+Netbotz sigurnosne kamere
+Netbotz software
+Netbotz pribor
+ATS Switches
+Bypas/Transfer Switch
+Pribor
+Usluge
+Produžena Garancija za UPS
+Instalacija
+KABELI, KONEKTORI I ALAT
+Alat i pribor
+Cable Management
+Mjerni Instrumenti
+Lemilice i Pribor
+Alat Ručni
+Audio/Stereo kabeli
+Audio Fiber Optic
+3.5mm Audio kablovi
+3.5mm Audio - 6.35mm TRS
+3.5mm Audio - RCA
+RCA Kabel
+Audio adapteri
+Ostali Audio kablovi
+Kabeli za Napajanje
+IEC na Euro/Schuko utičnice
+Produžni kablovi
+Power Strips
+Kablovi za Data Centre
+Locking Data Center Cables
+Industrijski kablovi za napajanje
+LAN kabeli
+Cat5e UTP 0-2 m
+Cat5e UTP 3-9 m
+Cat5e UTP 10-50 m
+Cat5e FTP
+Cat5e S-FTP 0-3m
+Cat5e S-FTP 5-50 m
+Cat6 UTP 0-2 m
+Cat6 UTP 3-9 m
+Cat6 UTP 10-50 m
+Cat6 FTP
+Cat6 S-FTP 0-2m
+Cat6 S-FTP 3-20 m
+Cat6a S-FTP
+Cat6a UTP
+Cat6 Flat
+Cat7 PIMF
+Cat 8.1
+Crossover
+Konektori
+Cat5e kabeli u kolutu/kutija
+Cat6 kabeli u kolutu/kutija
+Cat6a kabeli u kolutu
+Cat7 kabeli u kolutu/kutija
+Patch paneli
+Keystone zakvačke
+Modularne zidne utičnice
+Monitor / TV kabeli
+DisplayPort - DisplayPort
+DisplayPort - HDMI
+DisplayPort - DVI
+DisplayPort - VGA
+HDMI - HDMI
+HDMI - DisplayPort
+HDMI - DVI
+HDMI - VGA
+HDMI A to Mini/Micro
+DVI kabeli i adapteri
+VGA-VGA
+VGA-HDMI
+USB - DisplayPort
+USB - HDMI
+USB - VGA
+Display Splitter/Switch
+TV/SAT F Plug
+Scart
+Adapteri
+SATA/USB/Firewire kabeli
+USB A - USB A
+USB A - USB B
+USB A to Mini/Micro
+USB A - USB C
+USB C - USB C
+USB C - USB B/USB micro B
+USB Adapter/Extender/Konverter
+SATA
+Firewire
+Lightning 8-pin, Apple
+Telefonski kabeli
+Telefonski Kablovi
+Konektori
+Serijski kabeli
+Printer kabel
+BATERIJE I PUNJAČI
+Baterije Standardnih Formata
+Alkalne Baterije
+Dugmaste Baterije
+NiMh Aku. Baterije
+Li-Ion baterije
+Punjači za baterije
+Ponjači NiMH/NiCD
+Punjači Li.Ion baterija
+Aku punjači
+KUĆNA I PROFI ELEKTRONIKA
+Smarthome oprema
+Kamere
+Pametne utičnice
+Pametna rasvjeta
+Senzori i dodaci
+Interkomi
+Usisavači i ostali uređaji
+Nosači
+Nosači Projektora
+Pribor
+Samostojeći Nosač LCD Monitora
+Stalci za Zvučnike
+Stolni Držač LCD Monitora
+Stropni Nosač LCD Monitora
+Zidni Nosač LCD Monitora
+Zidni Nosači za CRT TV
+Rasvjeta
+LED svjetiljke
+LED Profi svjetiljke
+TELEFONI, SMARTPHONE I DODACI
+Mobilni Telefoni
+Dodaci za mobilne telefone
+Gadgeti
+Slušalice
+Zvučnici
+Punjači
+Powerbank
+Pametni satovi i narukvice
+RAČUNALNE USLUGE
+Instalacija
+Postavljanje Wireless mreža
+POPRAVLJENA ROBA
+Popravljena roba
+ADRESAR
+EZY Infotech - Čakovec
+Čakovec, HR-40000, M. Krleže 28
+tel: +385 (0) 40 363 888
+fax: +385 (0) 40 363 770
+EZY Infotech - Zagreb
+Zagreb, HR-10000, Slavonska avenija 19
+tel: +385 (0)1 23 05 818
+fax: +385 (0)1 23 05 817
+Prodaja:
+prodaja@ezy.hr
+Tehnička podrška:
+servis@ezy.hr
+Pregled svih kontakata
+Mailing lista
+* !
+1
+2
+3
+4
+5
+6
+ARTIKLI NA AKCIJI
+LEN-R20T0004MGE-B
+Lenovo reThink ThinkPad T14s G1 i5-10210U/16G...
+--,-- EUR
+RFB-81M07EA
+Refurbished HP Envy x360 2-in-1 Ryzen 5 7530U...
+--,-- EUR
+NTC-NOC-NH-D15-CHBL
+Noctua NH-D15 chromax.black, CPU Cooler
+--,-- EUR
+XIA-BHR9186GL
+Xiaomi LED Desk Lamp 2
+--,-- EUR
+ASR-PGO27QFV
+ASRock Gaming Monitor PGO27QFV, 27", QHD, QD-...
+--,-- EUR
+ASR-PGO27QFS
+ASRock Gaming Monitor PGO27QFS, 27", QHD, Fla...
+--,-- EUR
+ASR-PG27FFX2A
+ASRock Gaming Monitor PG27FFX2A, 27", FHD, IP...
+--,-- EUR
+ASR-PG27QFT2A
+ASRock Gaming Monitor PG27QFT2A, 27", QHD, IP...
+--,-- EUR
+NOVI ARTIKLI
+XIA-BHR9462EU
+Xiaomi 120W HyperCharge Combo (TYPE-A) EU
+--,-- EUR
+XIA-76065
+Xiaomi Smart Band 10 Pro NFC, Midnight Black
+--,-- EUR
+XIA-66962
+Xiaomi Soundbar Pro 2.0 ch
+--,-- EUR
+XIA-65687
+Xiaomi Band 10 Ceramic Edition, Pearl White
+--,-- EUR
+XIA-70274
+Xiaomi Watch S5 46mm, Ceramic Blue
+--,-- EUR
+XIA-68699
+Xiaomi Redmi Watch 6, Obsidian Black
+--,-- EUR
+XIA-76067
+Xiaomi Smart Band 10 Pro NFC, Glacier Silver
+--,-- EUR
+XIA-66954
+Xiaomi Soundbar Pro 2.1 ch
+--,-- EUR
+IZDVOJENI ARTIKLI
+FDS-FD-C-EPO1A-05
+Fractal Design Epoch White TG RGB Clear Tint,...
+--,-- EUR
+ASR-Z890I NOVA WIFI
+Asrock Intel LGA1851 Z890I NOVA WIFI
+--,-- EUR
+XIA-M2319E1
+Xiaomi OpenWear Stereo, Cosmic Gray
+--,-- EUR
+ASR-Z890 PRO RS
+Asrock Intel LGA1851 Z890 PRO RS
+--,-- EUR
+XIA-59561
+Xiaomi Redmi Buds 6 Pro, Glacier White
+--,-- EUR
+ASR-B860 PRO RS WIFI
+Asrock Intel LGA1851 B860 PRO RS WIFI
+--,-- EUR
+XIA-MJKDDYJ02HT
+Xiaomi Portable Photo Printer 1S
+--,-- EUR
+TRN-HL66-1L
+Transmedia Monitor mount with eye-level heigh...
+--,-- EUR
+Copyright EZY Infotech d.o.o.
+2026. Sva prava pridržana.

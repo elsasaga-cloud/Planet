@@ -1,131 +1,129 @@
 {
  "code": "SB-654",
- "name_official": "",
+ "name_official": "Desarrollos Avanzados en Telecomunicaciones S.L. (DAVANTEL)（巴塞罗那）",
  "researched_at": "2026-10-21",
- "website_status": "在线（bright.net.my，快照 2026-10-21）",
- "summary": "马来西亚 Brightnet Services Sdn Bhd（一站式系统集成：业务自动化、电脑硬件、网络与安防、现场支持；在售 Cisco（Catalyst 3850 等）/ HPE Aruba / Huawei / Ubiquiti，含翻新；阿里巴巴即时对话询「光模块」；KP Diana Wang（Inside Sales & Administrative，diana.wang@））；表内无跟进记录。",
- "type": "系统集成商（马来西亚，企业级品牌为主）",
+ "website_status": "在线（davantel.com，快照 2026-10-21，西语）",
+ "summary": "西班牙巴塞罗那（+34 93 340 8712）电信接入 / 传输方案公司（面向运营商、工程公司与集成商；Teltonika；switch 130 / poe 165 / industrial 137），CTO Jose Salvador Collado；表内「外购 10G MC、工业 FS 管理型」；群发 14 次无回复。",
+ "type": "",
  "size": "",
  "brands_seen": [
-  "Cisco",
-  "Huawei",
-  "Ubiquiti",
-  "Aruba"
+  "Teltonika"
  ],
  "evidence": [
   {
    "kind": "官网快照",
-   "claim": "官网标题：BRIGHT.NET.MY；品类词 安防监控（CCTV / 门禁） / 无线 / WiFi / 数据中心 / 企业 IT / 光纤 / 媒体转换 / 网络交换 / PoE",
-   "quote": "One stop system integration solutions provide business automation, computer hardware, network and security solution, on-site support and cost effective IT....",
-   "url": "https://bright.net.my/",
+   "claim": "面向运营商 / 工程公司 / 集成商的接入与传输方案；+34 93 3408712",
+   "quote": "DESARROLLOS AVANZADOS EN TELECOMUNICACIONES, S.L. (DAVANTEL) es una empresa orientada a ofrecer soluciones avanzadas de acceso y transporte a los operadores, ingenierías",
+   "url": "https://davantel.com/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "光模块 / from: 阿里巴巴即时对话",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "一站式系统集成方案",
-   "quote": "One stop system integration solutions provide business automation, computer hardware, network and security solution, on-site support",
-   "url": "https://bright.net.my/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "光模块询盘（阿里巴巴）",
-   "quote": "光模块 / from: 阿里巴巴即时对话",
+   "claim": "外购 10G MC；工业 FS 管理",
+   "quote": "兴趣：外购10G MC 工业FS 管理",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
  "kp": [
   {
-   "name": "Diana Wang",
-   "title": "Inside Sales & Administrative",
-   "email": "diana.wang@bright.net.my",
-   "phone": "",
-   "source": "用户表"
+   "name": "Jose Salvador Collado",
+   "title": "CTO - Director",
+   "email": "jrsalvador@davantel.com",
+   "phone": "+34 93 340 8712",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
   }
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（官网快照核对 + 表内）"
  },
  "company_facts": {
-  "hq": "马来西亚",
-  "other": "官网 bright.net.my，语言 en-US，快照状态 ok；角色判定来源：官网文案"
+  "legal_name": "Desarrollos Avanzados en Telecomunicaciones, S.L.",
+  "founded": "",
+  "hq": "Barcelona, Spain",
+  "size": "中小型电信方案商（自有产品 + 外购）",
+  "other": "外购 10G MC"
  },
  "business_lines": [
-  "系统集成（企业网络 / 安防 / 硬件 / 翻新）"
+  "电信接入 / 传输方案（运营商）",
+  "工业网络产品（部分外购）"
  ],
  "channels": {
-  "role": "系统集成商（马来西亚，企业级品牌为主）",
-  "region": "马来西亚",
-  "contact": "diana.wang@bright.net.my"
+  "role": "方案商 / 品牌商（OEM 采购）",
+  "region": "西班牙"
  },
  "signals": [
-  "官网：One stop system integration solutions provide business automation, computer hardware, network and security solution",
-  "首页：CISCO / HPE ARUBA / HUAWEI / Refurbished；站内 WS-C3850-48P-S 等",
-  "表内：光模块 / from: 阿里巴巴即时对话；KP Diana Wang"
+  "CTO 具名 + 明确外购 10G MC 与工业管理 FS → OEM 入口"
  ],
  "risks": [
-  "询盘品类为光模块：Saga 价目无 SKU（Q-32），需另询报价",
-  "企业级品牌（Cisco/Aruba/Huawei）为主的 SI：白牌仅边缘补充；非主攻区（T5）"
+  "10G MC 不在 Saga 价目（SmartByte 另询）",
+  "14 次群发无回复"
  ],
  "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 25,
-  "why": "询盘为光模块（Saga 价目无，Q-32）→ 以接入层补充位切入：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424XGGM；企业核心仍走 Cisco/Aruba"
+  "p1": "STI-288GPM",
+  "tier": 30,
+  "why": "工业管理 FS → STI-288GPM（$85.5 @30%）贴 Davantel 标；10G MC 按 SmartByte 型号另询注明。"
  },
- "email_hook": "Diana, following your enquiry on optical modules: for the access-layer edge of your Cisco/Aruba projects, we supply Marvell-based 8-PoE + 2 SFP L2+ and 24-GE + 4×10G switches in neutral packing from small lots, and can check module pricing alongside — which port count comes up most in your SME projects?",
+ "email_hook": "Jose, for the industrial managed switches and 10G media converters you source — Marvell-based DIN 8-PoE + 2-SFP managed under your label from small lots, and 10G SFP+/RJ45 MCs on request; which of the two is up for re-sourcing first?",
  "mail_review": {
   "binding": {
-   "level": "未发信（S/A 邮箱均无往来；来源：用户表「光模块 / from: 阿里巴巴即时对话」；Elsa 箱：`to:bright.net.my` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(n)））",
-   "type": "系统集成商（马来西亚，企业级品牌为主）",
-   "sieve": "—（未入筛）",
-   "stop": "从未触达",
-   "revive": "不动（非主攻区；J5：有证据再动）",
-   "lane": "马来西亚 非主攻",
+   "level": "未触达（2 封自动回复；Elsa 箱：`to:davantel.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 23 / 来 2）（第 74 批(k)））",
+   "type": "巴塞罗那电信方案商（Davantel）",
+   "sieve": "0",
+   "stop": "自动回复/机器人，无人工回复",
+   "revive": "不动",
+   "lane": "ES",
    "cadence": "不动",
-   "evidence": "gmail_digest：out 0；用户表：「光模块 / from: 阿里巴巴即时对话」；研究档 risks：询盘品类为光模块：Saga 价目无 SKU（Q-32），需另询报价"
+   "evidence": "k=3e83fe6bdfdeb580 / f3e06f468c9f4dc0"
   },
-  "situation": "马来西亚 Brightnet Services Sdn Bhd（一站式系统集成：业务自动化、电脑硬件、网络与安防、现场支持；在售 Cisco（Catalyst 3850 等）/ HPE Aruba / Huawei / Ubiquiti，含翻新；阿里巴巴即时对话询「光模块」；KP Diana Wang（Inside Sales & Administrative，diana.wang@））；表内无跟进记录。",
-  "need": "询盘为光模块（Saga 价目无，Q-32）→ 以接入层补充位切入：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424XGGM；企业核心仍走 Cisco/Aruba",
-  "breakpoint": "询盘品类为光模块：Saga 价目无 SKU（Q-32），需另询报价",
+  "situation": "来信全部为机器回复；无人读信或无人回信。",
+  "need": "—",
+  "breakpoint": "—",
   "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 25,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "询盘为光模块（Saga 价目无，Q-32）→ 以接入层补充位切入：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424XGGM；企业核心仍走 Cisco/Aruba",
+   "p1": "—",
+   "tier": 20,
+   "price": "—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-10-18 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-07-22 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-02 $280（10G Enterprise SFP Switch）",
+   "why": "已打开的主题（1/23 封有打开记录）：「Unmanaged switch」(2024-08-05) → 读者兴趣主题类别不明（看原主题）",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
    "when": "不动",
    "channel": "—",
-   "action": "—",
+   "action": "—（第 76 批(c) 2026-10-25：0 事实户补时间线事实）（第 76 批(d) 2026-10-25：事实去重）",
    "one_question": ""
   },
   "facts": [
    {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "光模块 / from: 阿里巴巴即时对话",
-    "why": "表内备注",
-    "k": "用户表"
+    "date": "2024-07-05",
+    "dir": "去",
+    "who": "S 箱（Simon）",
+    "quote": "8 port 2.5G switch",
+    "why": "首封去信（邮箱索引；去信共 23 封）",
+    "k": "c753d218c8e5db62"
+   },
+   {
+    "date": "2026-09-30",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "Managed PoE Switches",
+    "why": "最近一封去信（邮箱索引；去信共 23 封）",
+    "k": "818c97f0babf9c11"
+   },
+   {
+    "date": "2024-08-05",
+    "dir": "来",
+    "who": "jrsalvador@davantel.com",
+    "quote": "Ausente - Out of office｜Estaré fuera de la oficina con acceso limitado al email hasta el 19 de  Agosto. En caso de urgencia llamar al 933408712.",
+    "why": "自动回复/退信（机器，不算人工回复）",
+    "k": "3e83fe6bdfdeb580"
    }
   ],
-  "proof_gaps": [
-   "无邮件往来"
-  ],
+  "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-24"
  }

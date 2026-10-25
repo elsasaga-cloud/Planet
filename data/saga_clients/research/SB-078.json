@@ -1,74 +1,134 @@
 {
  "code": "SB-078",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（felixdronarfoto.se，快照 2026-10-21）",
- "summary": "瑞典 Felix Drönarfoto AB（斯德哥尔摩无人机航拍/巡检服务商；2023 年阿里国际站询盘「商业级 48V 0.5A 1G PoE injector」；KP Felix Lanestrand（CEO）；表内国别「瑞士」有误（.se、Stockholm 地址））；表内未跟进。",
- "type": "无人机服务终端用户（瑞典，PoE 注入器询盘）",
- "size": "",
+ "name_official": "SITIS Sàrl（Genève, CH；sitis.ch；CHE-150.026.203）",
+ "website_status": "在线",
+ "summary": "日内瓦的小型 IT/电信/安防服务公司 SITIS Sàrl（2012-01 登记；资本 CHF 20,000；合伙经理 Arno Freudenreich；Rue Rousseau 15；+41 22 510 21 51；业务：IT 支持、布线与 VoIP/云 PBX、混合视频监控服务器、防盗/火灾探测；1–10 人）。展会（埃森 2024）记录：只看了 M12 交换机、拿彩页、未沟通；联系人 afcn@sitis.ch；6 次推送 0 回复。低优先 B。",
+ "type": "待补证",
+ "size": "待补证",
  "brands_seen": [],
  "evidence": [
   {
-   "kind": "官网快照",
-   "claim": "官网标题：Drönarpilot | Felix Drönarfoto AB | Stockholm",
-   "quote": "Felix Drönarfoto är din professionella partner när det gäller drönare. Med över 5 års erfarenhet erbjuder vi alla typer av drönartjänster som Drönarfotografering, Drönarfilm och inspektioner över hela Sverige.",
-   "url": "https://www.felixdronarfoto.se/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "商业级 48V 0.5A 1G PoE injector；2023年使用国际站 46 7051 30708 Addr: SE , 11458 , Stockholm , Kommendorsgatan 39；商业级 48V 0.5A 1G PoE injector / from: 阿里巴巴RFQ",
+   "kind": "用户记录",
+   "claim": "看了 M12 交换机，没做其他沟通；0 回复 / 6 次",
+   "quote": "看了M12交换机，没做其他沟通，拿了彩页（用户 Clients 表摘录）",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   },
   {
-   "kind": "官网快照",
-   "claim": "Felix Drönarfoto 定位",
-   "quote": "Drönarpilot | Felix Drönarfoto AB | Stockholm ; Felix Drönarfoto är din professionella partner när det gäller drönare",
-   "url": "https://www.felixdronarfoto.se/",
+   "kind": "商业登记",
+   "claim": "法人、资本、经理",
+   "quote": "SITIS Sàrl … Capital: CHF 20'000 … Associé-gérant: Freudenreich Arno … foundingDate 2012-01-04 … Rue Rousseau 15 1201 Genève",
+   "url": "https://www.moneyhouse.ch/en/company/sitis-sarl-5661522431",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "名录",
+   "claim": "业务范围",
+   "quote": "SITIS Sàrl is an information technology service company that provides services to IT services, telecom, security … voice-over IP, virtual or cloud PBX solutions … Hybrid video surveillance servers for both analog and IP cameras, wired or wireless anti-burglar systems, fire detection",
+   "url": "https://www.crunchbase.com/organization/sitis-s%C3%A0rl",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "PoE injector 询盘",
-   "quote": "商业级 48V 0.5A 1G PoE injector；2023年使用国际站 Addr: SE , 11458 , Stockholm",
+   "claim": "只看 M12；6 次推送 0 回复",
+   "quote": "看了M12交换机，没做其他沟通，拿了彩页",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
- "kp": [],
- "grade_override": "C",
- "override_reason": "非渠道终端小用户 + 询盘品类（PoE 注入器）Saga 不供；c_sub=品类不符/终端用户",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "kp": [
+  {
+   "name": "Arno Freudenreich",
+   "role": "Associé-gérant（商业登记公开）",
+   "email": "afcn@sitis.ch（用户表）",
+   "phone": "+41 22 510 21 51",
+   "source": "https://www.moneyhouse.ch/en/company/sitis-sarl-5661522431"
+  }
+ ],
+ "grade_override": "B",
+ "override_reason": "兴趣点为 M12 接口（轨道/车载类，Saga 不做 EN50155/M12 线），无其他需求、无回复 → B 待机。",
+ "notes": "不主动投入。",
+ "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（登记核对）"
  },
  "company_facts": {
-  "hq": "瑞士",
-  "other": "官网 felixdronarfoto.se，语言 sv，快照状态 ok；角色判定来源：官网文案"
+  "legal_name": "SITIS Sàrl（CHE-150.026.203）",
+  "founded": "2012-01-04",
+  "hq": "Rue Rousseau 15, 1201 Genève, Switzerland（+41 22 510 21 51）",
+  "size": "1–10；资本 CHF 20,000",
+  "other": "合伙经理 Arno Freudenreich；IT/电信/安防三线服务"
  },
  "business_lines": [
-  "无人机航拍 / 巡检服务（瑞典）"
+  "IT 支持与托管",
+  "布线、VoIP / 云 PBX",
+  "视频监控、防盗、火灾探测安装"
  ],
  "channels": {
-  "role": "无人机服务终端用户（瑞典，PoE 注入器询盘）",
-  "region": "瑞典",
-  "contact": "info@felixdronarfoto.se、felixlanestrand@hotmail.com"
+  "网站": "https://www.sitis.ch/fr/index.html",
+  "电话": "+41 22 510 21 51（公开）"
  },
  "signals": [
-  "官网：Felix Drönarfoto är din professionella partner när det gäller drönare. Med över 5 års erfarenhet erbjuder vi alla typer av drönartjänster",
-  "表内：商业级 48V 0.5A 1G PoE injector；2023 年使用国际站；Addr: SE, 11458, Stockholm, Kommendorsgatan 39；KP Felix Lanestrand, CEO"
+  "M12 兴趣 Saga 不供（无 M12 机型）；其 CCTV/VoIP 小项目可用桌面/DIN PoE"
  ],
  "risks": [
-  "非渠道终端小用户；询盘品类 PoE 注入器 Saga 不供（Q-32）；国别已更正为瑞典"
+  "规模极小、瑞士非欧盟（需 CE 即可，关税另计）；6 次推送 0 回复"
  ],
  "saga_fit": {
-  "p1": null,
-  "tier": 20,
-  "why": "终端小用户（无人机服务），询盘品类为 PoE 注入器（Saga 不供，Q-32）→ 改 C"
+  "p1": "STC-28DGGPM",
+  "tier": 25,
+  "why": "项目 25% 档（低优先）：STC-28DGGPM（$84.1）用于 CCTV/VoIP 小项目；DIN STI-144GP（$35.5）；M12 不供"
  },
- "email_hook": "（不发送：终端小用户/品类不供）",
- "country_fix": "瑞典"
+ "email_hook": "Arno, we do not make the M12 switch you looked at in Essen, but for your Geneva CCTV and IP-phone installs the 8-port gigabit PoE+ managed switch with 2 SFP is $84.1 EXW — is there a current site where a sample would be tested?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 16 封 2025→2026，无记录打开，0 回；收件 afcn@sitis.ch；主题多为「Industrial PoE Switch、16 Port Ethernet Switch」；Elsa 箱：`to:sitis.ch` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 16 / 来 0）（第 74 批(k)））",
+   "type": "待补证",
+   "sieve": "1（只收到群发）",
+   "stop": "16 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "瑞士（欧洲全域主攻）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 16；用户表：「看了M12交换机，没做其他沟通，拿了彩页」；研究档 risks：规模极小、瑞士非欧盟（需 CE 即可，关税另计）；6 次推送 0 回复"
+  },
+  "situation": "日内瓦的小型 IT/电信/安防服务公司 SITIS Sàrl（2012-01 登记；资本 CHF 20,000；合伙经理 Arno Freudenreich；Rue Rousseau 15；+41 22 510 21 51；业务：IT 支持、布线与 VoIP/云 PBX、混合视频监控服务器、防盗/火灾探测；1–10 人）。展会（埃森 2024）记录：只看了 M12 交换机、拿彩页、未沟通；联系人 afcn@sitis.ch；6 次推送 0 回复。低优先 B。",
+  "need": "项目 25% 档（低优先）：STC-28DGGPM（$84.1）用于 CCTV/VoIP 小项目；DIN STI-144GP（$35.5）；M12 不供",
+  "breakpoint": "规模极小、瑞士非欧盟（需 CE 即可，关税另计）；6 次推送 0 回复",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-06-17 $300（48 Port PoE Managed Switch）、2025-09-04 $240（24 Port Fiber Switch）、2025-10-08 $280（10G Enterprise SFP Switch）、2026-06-18 $16000（32 Port 400GB DC Switch）",
+   "why": "项目 25% 档（低优先）：STC-28DGGPM（$84.1）用于 CCTV/VoIP 小项目；DIN STI-144GP（$35.5）；M12 不供",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Arno, we do not make the M12 switch you looked at in Essen, but for your Geneva CCTV and IP-phone installs the 8-port gigabit PoE+ managed switch with 2 SFP is $84.1 EXW — is there a current site where a sample would be tested?"
+  },
+  "facts": [
+   {
+    "date": "2026-09-14",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "Industrial PoE Switch、16 Port Ethernet Switch",
+    "why": "16 封 / 0 次打开 / 0 回｜首封 2025-03-20 → 末封 2026-09-14（16 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "看了M12交换机，没做其他沟通，拿了彩页",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

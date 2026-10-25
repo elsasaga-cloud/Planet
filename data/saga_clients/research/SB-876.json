@@ -1,140 +1,121 @@
 {
- "code": "SB-876",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（weltronproducts.com，快照 2026-10-21）",
- "summary": "美国 Weltron® / Winston Electronics（1968 年起网络基础设施制造商：线缆（词频 182）、光纤、MC、PoE 交换机、工业；表内「商业 PoE」；邮箱 robwinston@ / awinston@winstonele.com、info@weltron.us）；群发 19 次无回复。",
- "type": "美国网络基础设施自有品牌商（OEM 采购）",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：Weltron® | Networking Infrastructure Manufacturer；品类词 工业自动化 / OT 网络 / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
-   "quote": "Weltron® Company was started in 1968 as an idea and concept ahead of the times. The space-age radio was designed and manufactured as the Model 2001. It was one of the original self-contained boom box stereo radios.",
-   "url": "https://weltronproducts.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "商业PoE；info@weltron.us",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "Weltron 公司历史",
-   "quote": "Weltron® | Networking Infrastructure Manufacturer ; Weltron® Company was started in 1968 as an idea and concept ahead of the times.",
-   "url": "https://weltronproducts.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "商业 PoE",
-   "quote": "商业PoE；info@weltron.us",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Rob Winston",
-   "title": "（表内邮箱，职务待核）",
-   "email": "robwinston@winstonele.com",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "美国",
-  "other": "官网 weltronproducts.com，语言 en，快照状态 ok；角色判定来源：官网文案"
- },
- "business_lines": [
-  "网络基础设施（线缆 / 光纤 / MC / PoE 交换机，自有品牌 Weltron）"
- ],
- "channels": {
-  "role": "美国网络基础设施自有品牌商（OEM 采购）",
-  "region": "美国",
-  "contact": "robwinston@winstonele.com、awinston@winstonele.com"
- },
- "signals": [
-  "官网：Weltron® Company was started in 1968 … Networking Infrastructure Manufacturer；kw cable 182 / fiber 68 / switch 37 / poe 26 / media converter 8",
-  "表内：商业 PoE；info@weltron.us"
- ],
- "risks": [
-  "线缆为主业：交换机为副线；19 次无回复",
-  "邮箱为关联公司 Winston Electronics 个人邮箱（表内），称呼待核"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 30,
-  "why": "自有 Weltron 标商用 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴标；24 口位 STC-424DGGPM-280W；MC 位 STI-110GE"
- },
- "email_hook": "For the Weltron-branded PoE switches and media converters in your catalogue, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE + 4 SFP) from small lots in your packaging, FCC/CE/RoHS — which size do your distributors reorder most?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（1 封自动回复；Elsa 箱：`to:weltronproducts.com OR to:winstonele.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 34 / 来 1）（第 74 批(h)））",
-   "type": "美国网络基础设施自有品牌商（Weltron）",
-   "sieve": "0",
-   "stop": "自动回复/机器人，无人工回复",
-   "revive": "不动；备用具名邮箱：gelliott@winstonele.com（自动回复中出现的同司具名邮箱，2024-07-19，k=9270e602f2e97c34；从未发过）；jkhicks@winstonele.com（自动回复中出现的同司具名邮箱，2024-07-19，k=9270e602f2e97c34；从未发过）；sj@winstonele.com（自动回复中出现的同司具名邮箱，2024-07-19，k=9270e602f2e97c34；从未发过）",
-   "lane": "US",
-   "cadence": "不动",
-   "evidence": "k=9270e602f2e97c34"
-  },
-  "situation": "来信全部为机器回复；无人读信或无人回信。",
-  "need": "—",
-  "breakpoint": "—",
-  "saga_now": {
-   "p1": "—",
-   "tier": 30,
-   "price": "—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-15 $220（10G managed switch）、2024-09-11 $65（10G Media Converter）；群发里他已看到的价（续）：2026-07-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-09 $280（10G Enterprise SFP Switch）",
-   "why": "已打开的主题（2/34 封有打开记录）：「industrial poe switch」(2024-06-26)、「24 Port Passive PoE Switch」(2024-10-30) → 读者兴趣偏「工业」；与 P1 同类，继续",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "不动",
-   "channel": "—；备用具名邮箱 → gelliott@winstonele.com, jkhicks@winstonele.com, sj@winstonele.com",
-   "action": "—",
-   "one_question": ""
-  },
-  "facts": [
-   {
-    "date": "2024-07-19",
-    "dir": "来",
-    "who": "自动回复",
-    "quote": "自动回复里给出代理人/同事邮箱 gelliott@winstonele.com",
-    "why": "群发一直发给休假/离职的人；这个地址从未发过，是换具名邮箱的现成入口",
-    "k": "9270e602f2e97c34"
-   },
-   {
-    "date": "2024-07-19",
-    "dir": "来",
-    "who": "自动回复",
-    "quote": "自动回复里给出代理人/同事邮箱 jkhicks@winstonele.com",
-    "why": "群发一直发给休假/离职的人；这个地址从未发过，是换具名邮箱的现成入口",
-    "k": "9270e602f2e97c34"
-   },
-   {
-    "date": "2024-07-19",
-    "dir": "来",
-    "who": "自动回复",
-    "quote": "自动回复里给出代理人/同事邮箱 sj@winstonele.com",
-    "why": "群发一直发给休假/离职的人；这个地址从未发过，是换具名邮箱的现成入口",
-    "k": "9270e602f2e97c34"
-   }
+  "code": "SB-876",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（lilin.vn，快照 2026-10-21）",
+  "summary": "越南 LILIN Vietnam / Silversea HCM（lilin.vn / silverseahcm.vn：台湾 LILIN CCTV 品牌的越南分销商，表内「自己的 logo」「工业交换机」）；表内未跟进。",
+  "type": "CCTV 分销商（越南，自有 logo 工业交换机）",
+  "size": "",
+  "brands_seen": [
+    "LILIN"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：lilin.vn",
+      "quote": "",
+      "url": "https://silverseahcm.vn/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "工业交换机",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "工业交换机 自己的 logo",
+      "quote": "工业交换机；自己的logo",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "越南",
+    "other": "官网 lilin.vn，语言 ?，快照状态 ok；角色判定来源：待核"
+  },
+  "business_lines": [
+    "CCTV 分销（LILIN，越南）"
+  ],
+  "channels": {
+    "role": "CCTV 分销商（越南，自有 logo 工业交换机）",
+    "region": "越南",
+    "contact": "marketing@silverseahcm.vn"
+  },
+  "signals": [
+    "表内：工业交换机；自己的 logo；marketing@silverseahcm.vn",
+    "快照：内容为空"
+  ],
+  "risks": [
+    "非主攻区（T5，越南）；未跟进过，仅 marketing@；官网快照空"
+  ],
+  "saga_fit": {
+    "p1": "STI-288GP",
+    "tier": 30,
+    "why": "自有 logo 工业交换机 → 工业 8 PoE + 2 SFP STI-288GP（$62.2 @30%）/ 管理 STI-288GPM（$85.5）、室内 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4）贴标"
+  },
+  "email_hook": "For the industrial PoE switches you sell under your own logo alongside LILIN cameras, we can supply DIN-rail 8-PoE + 2 SFP (managed on Marvell L2+, or unmanaged) and commercial 8-PoE L2+ units in your packaging from small lots, CE/RoHS — which PoE SKU do your dealers reorder most?",
+  "mail_review": {
+    "binding": {
+      "level": "未发信（S/A 邮箱均无往来；来源：用户表「工业交换机」）；Elsa 群发 BCC 已触达 1 轮 2026-09-09（锚 To thuanan.sales1@gmail.com 1 轮 2026-09-09；本户在 Bcc；主题 24 Port PoE Managed Switch；0 回（Elsa 箱 Replied 索引 + 第 73 批真人来信逐户比对均无此户）；S/A digest 看不到 Elsa 的去信，之前据此写的「未发信」是 S/A 口径）（第 74 批(n) `from:e.sagatelecom to:lilin.vn OR to:silverseahcm.vn` 全程 complete：命中 1 行、To 均为锚地址 ⇒ 本户在锚的 Bcc 名单）",
+      "type": "CCTV 分销商（越南，自有 logo 工业交换机）",
+      "sieve": "—（未入筛）",
+      "stop": "从未触达",
+      "revive": "不动（非主攻区；J5：有证据再动）",
+      "lane": "越南 非主攻",
+      "cadence": "不动",
+      "evidence": "gmail_digest：out 0；用户表：「工业交换机」；研究档 risks：非主攻区（T5，越南）；未跟进过，仅 marketing@；官网快照空"
+    },
+    "situation": "越南 LILIN Vietnam / Silversea HCM（lilin.vn / silverseahcm.vn：台湾 LILIN CCTV 品牌的越南分销商，表内「自己的 logo」「工业交换机」）；表内未跟进。",
+    "need": "自有 logo 工业交换机 → 工业 8 PoE + 2 SFP STI-288GP（$62.2 @30%）/ 管理 STI-288GPM（$85.5）、室内 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4）贴标",
+    "breakpoint": "非主攻区（T5，越南）；未跟进过，仅 marketing@；官网快照空",
+    "saga_now": {
+      "p1": "STI-288GP",
+      "tier": 30,
+      "price": "按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-09-09 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-09；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
+      "why": "自有 logo 工业交换机 → 工业 8 PoE + 2 SFP STI-288GP（$62.2 @30%）/ 管理 STI-288GPM（$85.5）、室内 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4）贴标",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "不动",
+      "channel": "—",
+      "action": "—",
+      "one_question": ""
+    },
+    "facts": [
+      {
+        "date": "2026-09-09",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To thuanan.sales1@gmail.com）",
+        "quote": "24 Port PoE Managed Switch（Elsa 群发第 1/1 轮；本户在 Bcc，锚 To thuanan.sales1@gmail.com；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:lilin.vn OR to:silverseahcm.vn` 命中行 To=thuanan.sales1@gmail.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+        "k": "elsa_bcc",
+        "msg_id": "1a08556982baed33"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "工业交换机",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [
+      "无来信（Elsa 去信 1 轮见 facts；S/A 箱无往来）"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

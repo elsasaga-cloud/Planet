@@ -1,80 +1,135 @@
 {
- "code": "SB-674",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（actia.com，快照 2026-10-21）",
- "summary": "法国 ACTIA（1986 年起的嵌入式电子集团（上市）：车载、航空、航天、能源、工业；自研 AES-3 车载以太网交换机；拓展铁路；表内「public transport」；KP Adam Ramouni）；表内 4 次跟进无回复。",
- "type": "上市嵌入式电子集团（车载/轨道，自研交换机）",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：L’électronique en mouvement au service des industries innovantes；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络",
-   "quote": "Depuis 1986, ACTIA développe des solutions d’électronique embarquée pour la mobilité, l’aéronautique, le spatial, l’énergie et l’industrie.",
-   "url": "https://www.actia.com/",
-   "date": "2026-10-21"
+  "code": "SB-674",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（noxel.pl，快照 2026-10-21）",
+  "summary": "波兰 Noxel.pl（IP 监控网店：IP 摄像机 / 录像机 / 机柜 / UPS / 热成像 / 可视对讲；Dahua 词频 356（Dahua 为主）；表内「Cudy 的，销售平台，质量一般」）；表内 1 次跟进无回复。",
+  "type": "安防网店（波兰，Dahua 为主）",
+  "size": "",
+  "brands_seen": [
+    "Dahua",
+    "Cudy"
+  ],
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：Noxel.pl | Monitoring IP, szafy rack, termowizja, wideodomofony；品类词 安防监控（CCTV / 门禁） / 网络交换 / PoE",
+      "quote": "Sklep internetowy Noxel z rozwiązaniami do wideomonitoringu. Kamery IP, rejestratory, akcesoria - wszystko w jednym miejscu. Sprawdź ofertę!",
+      "url": "https://noxel.pl/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "Cudy的；销售平台",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "视频监控方案网店：IP 摄像机、录像机、配件",
+      "quote": "Sklep internetowy Noxel z rozwiązaniami do wideomonitoringu. Kamery IP, rejestratory, akcesoria - wszystko w jednym miejscu.",
+      "url": "https://noxel.pl/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "Cudy 的，销售平台",
+      "quote": "Cudy的 / 销售平台；质量一般",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
   },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "public transport",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
+  "company_facts": {
+    "hq": "波兰",
+    "other": "官网 noxel.pl，语言 pl-PL，快照状态 ok；角色判定来源：用户表"
   },
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：L’électronique en mouvement au service des industries innovantes；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 网络交换 / PoE",
-   "quote": "Depuis 1986, ACTIA développe des solutions d’électronique embarquée pour la mobilité, l’aéronautique, le spatial, l’énergie et l’industrie.",
-   "url": "https://www.actia.com/",
-   "date": "2026-10-21"
+  "business_lines": [
+    "IP 监控 / 机柜 / UPS / 对讲网店"
+  ],
+  "channels": {
+    "role": "安防网店（波兰，Dahua 为主）",
+    "region": "波兰",
+    "contact": "kontakt@noxel.pl"
   },
-  {
-   "kind": "官网快照",
-   "claim": "ACTIA 定位",
-   "quote": "Depuis 1986, ACTIA développe des solutions d’électronique embarquée pour la mobilité, l’aéronautique, le spatial, l’énergie et l’industrie ; /en/actia-presents-aes-3-automotive-ethernet-switch-3/",
-   "url": "https://www.actia.com/",
-   "date": "2026-10-21"
+  "signals": [
+    "官网：Sklep internetowy Noxel z rozwiązaniami do wideomonitoringu",
+    "站内 kw：dahua 356 / poe 197；Racktel 机柜"
+  ],
+  "risks": [
+    "Dahua 为主的网店：PoE 多随 Dahua 套装走",
+    "现卖 Cudy（低价带）；无具名 KP（kontakt@）"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 20,
+    "why": "Dahua 套装配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）"
   },
-  {
-   "kind": "用户表",
-   "claim": "public transport",
-   "quote": "public transport",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
+  "email_hook": "For the PoE switches behind your Dahua camera kits, we supply a neutral-brand 8-PoE + 2 SFP L2+ switch and a budget unmanaged 4/8-PoE line from small lots, CE/RoHS — which band do your installer customers buy most, unmanaged or managed PoE?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A 邮箱 10 封 2025→2026，无记录打开，0 回；收件 kontakt@noxel.pl；主题多为「10G Enterprise SFP Switch、Booster PoE Switch」）；Elsa 群发 BCC 已触达 2025-04-03「L3 Managed Switch」（稿内无价，第 74 批(p) 已读稿），PL-2 批次 To j.zaczek@mbs-systems.pl，0 回（第 74 批 Bcc 头核对 msg 195fba131b824d36）",
+      "type": "安防网店（波兰，Dahua 为主）",
+      "sieve": "1（只收到群发）",
+      "stop": "只打通用邮箱，无记录打开",
+      "revive": "保持季度群发到 2027-Q1；无打开即停",
+      "lane": "PL 次级重点",
+      "cadence": "季度",
+      "evidence": "gmail_digest：out 10；用户表：「Cudy的；销售平台」；研究档 risks：Dahua 为主的网店：PoE 多随 Dahua 套装走；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To j.zaczek@mbs-systems.pl）本户见于 2025-04-03 名单；2026-09-01 最新一轮名单已不含此地址 → 中途被剔除（退信 / 退订 / 手工）"
+    },
+    "situation": "波兰 Noxel.pl（IP 监控网店：IP 摄像机 / 录像机 / 机柜 / UPS / 热成像 / 可视对讲；Dahua 词频 356（Dahua 为主）；表内「Cudy 的，销售平台，质量一般」）；表内 1 次跟进无回复。",
+    "need": "Dahua 套装配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）",
+    "breakpoint": "Dahua 为主的网店：PoE 多随 Dahua 套装走",
+    "saga_now": {
+      "p1": "STC-28DGGPM",
+      "tier": 20,
+      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-20 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-21 $280（10G Enterprise SFP Switch）",
+      "why": "Dahua 套装配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "群发节奏",
+      "channel": "A 邮箱",
+      "action": "观察打开",
+      "one_question": "For the PoE switches behind your Dahua camera kits, we supply a neutral-brand 8-PoE + 2 SFP L2+ switch and a budget unmanaged 4/8-PoE line from small lots, CE/RoHS — which band do your installer customers buy most, unmanaged or managed PoE?"
+    },
+    "facts": [
+      {
+        "date": "2025-04-03",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To j.zaczek@mbs-systems.pl，PL-2 批次）",
+        "quote": "L3 Managed Switch — This is a Marvell-based L3 Managed 24 port DIN PoE Switch. 1, PoE af/at/bt, 370W budget, max 60℃ 2, Support DI/DO/RS485, USB, Alarm 3, Customizable We",
+        "why": "Elsa 箱群发 BCC 触达证据（命中地址 kontakt@noxel.pl, noxel.pl）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+        "k": "elsa_bcc"
+      },
+      {
+        "date": "2026-09-25",
+        "dir": "去",
+        "who": "A 群发",
+        "quote": "10G Enterprise SFP Switch、Booster PoE Switch",
+        "why": "10 封 / 0 次打开 / 0 回｜首封 2025-10-21 → 末封 2026-09-25（10 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "Cudy的；销售平台",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-25"
   }
- ],
- "kp": [],
- "grade_override": "C",
- "override_reason": "上市集团 + 车载/轨道守界 + 自研车载以太网交换机（同行）；c_sub=体量过大/守界",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "法国",
-  "other": "官网 actia.com，语言 fr-FR，快照状态 ok；角色判定来源：官网文案"
- },
- "business_lines": [
-  "车载 / 航空 / 能源嵌入式电子（上市集团）"
- ],
- "channels": {
-  "role": "上市嵌入式电子集团（车载/轨道，自研交换机）",
-  "region": "法国",
-  "contact": "aramouni@actia.com、sales@actia.com"
- },
- "signals": [
-  "官网：Depuis 1986, ACTIA développe des solutions d’électronique embarquée pour la mobilité, l’aéronautique, le spatial, l’énergie et l’industrie；页面 /en/actia-presents-aes-3-automotive-ethernet-switch-3/；首页 ACTIA transpose son expertise multi-mobilités au ferroviaire",
-  "表内：public transport；KP Adam Ramouni"
- ],
- "risks": [
-  "上市集团体量 + 车载/轨道守界 + 自研 AES-3 车载以太网交换机（同行）"
- ],
- "saga_fit": {
-  "p1": null,
-  "tier": 30,
-  "why": "上市集团、车载/轨道场景、自研车载以太网交换机（同行）→ 改 C"
- },
- "email_hook": "（不发送：上市集团/车载守界/同行）"
 }

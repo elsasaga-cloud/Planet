@@ -11,7 +11,7 @@
  "text": "Hi, Shantanu,\n\n1, Please check attached info.\nIt is about a typical model and our operation system.\nThis will help you roughly understand our technical capabilities.\n\n2, About MII\n2.1. Start with SKD units for initial testing – simple and quick.\n2.2. Progress to CKD if deeper localization is needed.\n3.3. Software and other compliance details can be handled as the project\nadvances.\n\n3. We need to know your plans about MII.\nAre you doing your own brand or just introducing some certain models for\nlocal projects?\netc.\n\n4. We suggest starting with sample testing. This helps you evaluate the\nhardware, WEB UI, and confirm your MII requirements.\n\nThank you.",
  "char_count": "760",
  "attachments": "[{'filename': '8C48XF.png', 'mime_type': 'image/png', 'size': 191947}, {'filename': 'Saga Software Function List_EN_V2.4.pdf', 'mime_type': 'application/pdf', 'size': 249017}, {'filename': 'Performance of PeakNetX Platform_EN_V3.1.pdf', 'mime_type': 'application/pdf', 'size': 173712}, {'filename': 'STH100G Series.pdf', 'mime_type': 'application/pdf', 'size': 790795}, {'filename': 'REAR.png', 'mime_type': 'image/png', 'size': 6742878}, {'filename': 'FRONT.png', 'mime_type': 'image/png', 'size': 5955488}, {'filename': 'CENTEC WEB UI.jpg', 'mime_type': 'image/jpeg', 'size': 521752}]",
- "note": "SB-178 HFCL：Elsa 2026-01-08 第二封附 CENTEC 资料包（Software Function List V2.4、PeakNetX 性能 V3.1、STH100G Series.pdf、前后面板图、CENTEC WEB UI）",
+ "note": "SB-243 HFCL：Elsa 2026-01-08 第二封附 CENTEC 资料包（Software Function List V2.4、PeakNetX 性能 V3.1、STH100G Series.pdf、前后面板图、CENTEC WEB UI）",
  "text_source": "text/plain",
  "fetched": "2026-10-24T16:05Z",
  "method": "Arena Gmail connector get_message_text(include_quoted=false)"

@@ -2,41 +2,48 @@
  "code": "SB-479",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "在线（radioteknoloji.com.tr，快照 2026-10-21）",
- "summary": "土耳其 Radio Technology（2015 年起通信、国防、能源、智慧城市领域的无线电系统与数据传输基础设施：站内 Quanta Q5/Q6、WB-3P PTP 无线网桥、E6-ST 系列；KP Salih Yildirim（Project Manager，salih.yildirim@）、Abdurrahman Pehlivanoglu（General Manager））；表内 1 次跟进无回复。",
- "type": "无线通信方案商（土耳其，含国防领域 → 仅民用口径）",
+ "website_status": "在线（ezy.hr，快照 2026-10-21）",
+ "summary": "克罗地亚 EZY Infotech d.o.o.（IT 设备分销：网络（Planet 词频 12、MikroTik）、光纤、无线、PC 组件；表内「分销商」；KP Petra Novosel（Managing Director，petra@）、David Dolenec（Product Manager））；群发 6 次无回复。",
+ "type": "IT 设备分销商（克罗地亚，在售 PLANET）",
  "size": "",
  "brands_seen": [
-  "Quanta",
-  "Axis"
+  "PLANET",
+  "MikroTik"
  ],
  "evidence": [
   {
    "kind": "官网快照",
-   "claim": "官网标题：Radio Technology | Future-Shaping Communication Technologies；品类词 工业自动化 / OT 网络 / 无线 / WiFi / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
-   "quote": "Expert solutions in communication, defense, energy and smart city sectors. Radio systems and data transmission infrastructure since 2015.",
-   "url": "https://www.radioteknoloji.com.tr/en/",
+   "claim": "官网标题：EZY Infotech d.o.o.；品类词 无线 / WiFi / 数据中心 / 企业 IT / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "Distribucija informatičke opreme",
+   "url": "https://ezy.hr/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "分销商",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   },
   {
    "kind": "官网快照",
-   "claim": "Radio Technology 定位",
-   "quote": "Radio Technology | Future-Shaping Communication Technologies ; Expert solutions in communication, defense, energy and smart city sectors. Radio systems and data transmission infrastructure since 2015.",
-   "url": "https://www.radioteknoloji.com.tr/en/",
+   "claim": "EZY Infotech 分销",
+   "quote": "EZY Infotech d.o.o. ; Distribucija informatičke opreme",
+   "url": "https://ezy.hr/",
    "date": "2026-10-21"
   }
  ],
  "kp": [
   {
-   "name": "Salih Yildirim",
-   "title": "Project Manager",
-   "email": "salih.yildirim@radioteknoloji.com.tr",
+   "name": "Petra Novosel",
+   "title": "Managing Director",
+   "email": "petra@ezy.hr",
    "phone": "",
    "source": "用户表"
   },
   {
-   "name": "Abdurrahman Pehlivanoglu",
-   "title": "General Manager",
+   "name": "David Dolenec",
+   "title": "Product Manager",
    "email": "",
    "phone": "",
    "source": "用户表"
@@ -50,83 +57,75 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "土耳其",
-  "other": "官网 radioteknoloji.com.tr，语言 tr，快照状态 ok；角色判定来源：官网文案"
+  "hq": "克罗地亚",
+  "other": "官网 ezy.hr，语言 ?，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "无线电系统 / 数据传输基础设施方案"
+  "IT 设备分销（网络 / 光纤 / 无线 / PC 组件）"
  ],
  "channels": {
-  "role": "无线通信方案商（土耳其，含国防领域 → 仅民用口径）",
-  "region": "土耳其",
-  "contact": "info@radioteknoloji.com.tr、salih.yildirim@radioteknoloji.com.tr"
+  "role": "IT 设备分销商（克罗地亚，在售 PLANET）",
+  "region": "克罗地亚",
+  "contact": "prodaja@ezy.hr、petra@ezy.hr"
  },
  "signals": [
-  "官网：Expert solutions in communication, defense, energy and smart city sectors. Radio systems and data transmission infrastructure since 2015；页面 /products/wb-3p-ptp6/、/products/quanta-q5-23/；kw wireless 62",
-  "KP：Salih Yildirim / Project Manager；Abdurrahman Pehlivanoglu / General Manager（表内）"
+  "官网：Distribucija informatičke opreme；kw planet 12 / mikrotik 6 / switch 42 / poe 39 / fiber 45",
+  "KP：Petra Novosel / Managing Director；David Dolenec / Product Manager（表内）"
  ],
  "risks": [
-  "守界备注：业务含国防领域——只供民用能源/智慧城市站点通用交换机，不涉国防项目",
-  "土耳其：汇率敏感；1 次跟进无回复 → 改向 Project Manager 具名首触"
+  "小国（克罗地亚）：量有限；6 次无回复 → 改向 Managing Director 具名首触",
+  "在售 PLANET / MikroTik 品牌货：白牌需靠价差"
  ],
  "saga_fit": {
-  "p1": "STI-288GPM",
-  "tier": 25,
-  "why": "无线回传站点配套工业 PoE（给网桥/AP 供电）→ 工业 8 PoE + 2 SFP 管理 STI-288GPM（$82.2 @25%）/ 4 PoE STI-154GP（$39.2）；国防项目不涉（守界）"
+  "p1": "STC-28DGGPM",
+  "tier": 20,
+  "why": "在售 PLANET 商用交换机 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）对位 GS-4210-8P2S；24 口位 STC-424DGGPM-280W"
  },
- "email_hook": "Salih, for the PoE switches at your PTP/PTMP radio sites and smart-city poles, we supply DIN-rail 4-PoE + 1 GE and 8-PoE + 2 SFP units (−40~75 °C, 90 W PoE++ option, CE/RoHS, neutral packing; the 8-PoE managed version on a Marvell platform) from small lots, EXW USD — which port count do your energy and smart-city sites use most?",
+ "email_hook": "Petra, alongside the PLANET and MikroTik switches you distribute, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ model and 24-PoE + 4 SFP from small lots, CE/RoHS, EXW USD — which PLANET PoE model do your resellers order most, so we quote its equivalent first?",
  "mail_review": {
   "binding": {
-   "level": "未触达（A 邮箱 11 封 2025→2026，无记录打开，0 回；收件 abdurrahman.pehlivanoglu@radioteknoloji.com.tr, info@radioteknoloji.com.tr；主题多为「10G Enterprise SFP Switch、Booster PoE Switch」；Elsa 箱：`to:radioteknoloji.com.tr` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 11 / 来 0）（第 74 批(i)））",
-   "type": "无线通信方案商（土耳其，含国防领域 → 仅民用口径）",
+   "level": "未触达（A/S 邮箱 17 封 2025→2026，无记录打开，0 回；收件 david@ezy.hr, petra@ezy.hr；主题多为「Industrial PoE Switch、24 Port PoE Managed Switch」；Elsa 箱：`to:ezy.hr` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 17 / 来 0）（第 74 批(k)））",
+   "type": "IT 设备分销商（克罗地亚，在售 PLANET）",
    "sieve": "1（只收到群发）",
-   "stop": "11 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "TR 主攻（四主）",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 11；研究档 risks：守界备注：业务含国防领域——只供民用能源/智慧城市站点通用交换机，不涉国防项目"
+   "stop": "17 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱；Q-33 供应商渠道客户",
+   "revive": "不动（Q-33）",
+   "lane": "克罗地亚（欧洲全域主攻）",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 17；用户表：「分销商」；研究档 risks：小国（克罗地亚）：量有限；6 次无回复 → 改向 Managing Director 具名首触"
   },
-  "situation": "土耳其 Radio Technology（2015 年起通信、国防、能源、智慧城市领域的无线电系统与数据传输基础设施：站内 Quanta Q5/Q6、WB-3P PTP 无线网桥、E6-ST 系列；KP Salih Yildirim（Project Manager，salih.yildirim@）、Abdurrahman Pehlivanoglu（General Manager））；表内 1 次跟进无回复。",
-  "need": "无线回传站点配套工业 PoE（给网桥/AP 供电）→ 工业 8 PoE + 2 SFP 管理 STI-288GPM（$82.2 @25%）/ 4 PoE STI-154GP（$39.2）；国防项目不涉（守界）",
-  "breakpoint": "守界备注：业务含国防领域——只供民用能源/智慧城市站点通用交换机，不涉国防项目",
+  "situation": "克罗地亚 EZY Infotech d.o.o.（IT 设备分销：网络（Planet 词频 12、MikroTik）、光纤、无线、PC 组件；表内「分销商」；KP Petra Novosel（Managing Director，petra@）、David Dolenec（Product Manager））；群发 6 次无回复。",
+  "need": "在售 PLANET 商用交换机 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）对位 GS-4210-8P2S；24 口位 STC-424DGGPM-280W",
+  "breakpoint": "小国（克罗地亚）：量有限；6 次无回复 → 改向 Managing Director 具名首触",
   "saga_now": {
-   "p1": "STI-288GPM",
-   "tier": 25,
-   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-30 $280（10G Enterprise SFP Switch）",
-   "why": "无线回传站点配套工业 PoE（给网桥/AP 供电）→ 工业 8 PoE + 2 SFP 管理 STI-288GPM（$82.2 @25%）/ 4 PoE STI-154GP（$39.2）；国防项目不涉（守界）",
+   "p1": "STC-28DGGPM",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-10-08 $180（24 Port PoE Managed Switch = STC-424XGGPM-280W，Alan 2026-09-21 起的现价轮）——同款信稿只能写 $180；群发里他已看到的价（续）：2026-07-29 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-06-19 $300（48 Port PoE Managed Switch）、2025-09-19 $240（24 Port Fiber Switch）、2026-06-18 $16000（32 Port 400GB DC Switch）",
+   "why": "在售 PLANET 商用交换机 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）对位 GS-4210-8P2S；24 口位 STC-424DGGPM-280W",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
-   "one_question": "Salih, for the PoE switches at your PTP/PTMP radio sites and smart-city poles, we supply DIN-rail 4-PoE + 1 GE and 8-PoE + 2 SFP units (−40~75 °C, 90 W PoE++ option, CE/RoHS, neutral packing; the 8-PoE managed version on a Marvell platform) from small lots, EXW USD — which port count do your energy and smart-city sites use most?"
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
   },
   "facts": [
    {
-    "date": "2025-10-30",
+    "date": "2026-10-08",
     "dir": "去",
-    "who": "A 箱（Alan）",
-    "quote": "10G Enterprise SFP Switch",
-    "why": "首封去信（邮箱索引；去信共 11 封）",
-    "k": "e63f7c6afb1eca1b"
-   },
-   {
-    "date": "2026-10-06",
-    "dir": "去",
-    "who": "A 群发",
-    "quote": "10G Enterprise SFP Switch、Booster PoE Switch",
-    "why": "11 封 / 0 次打开 / 0 回｜首封 2025-10-30 → 末封 2026-10-06（11 去 / 0 来）",
+    "who": "A/S 群发",
+    "quote": "Industrial PoE Switch、24 Port PoE Managed Switch",
+    "why": "17 封 / 0 次打开 / 0 回｜首封 2025-05-02 → 末封 2026-10-08（17 去 / 0 来）",
     "k": "gmail_digest"
    },
    {
-    "date": "2026-10-06",
-    "dir": "去",
-    "who": "A 箱（Alan）",
-    "quote": "Managed PoE Switches",
-    "why": "最近一封去信（邮箱索引；去信共 11 封）",
-    "k": "493d8da7280e84d8"
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "分销商",
+    "why": "表内备注",
+    "k": "用户表"
    }
   ],
   "proof_gaps": [],

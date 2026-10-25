@@ -1,180 +1,127 @@
 {
-  "code": "SB-183",
-  "name_official": "Kyma Srl",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（kyma.it；并档 Planet 渠道档案 PA-006）",
-  "summary": "雷焦艾米利亚的三人家族进口商，30 年卖 PLANET、近年加卖中国 3onedata，业主自己回邮件。类型：分销商/进口商（PLANET + 3onedata 工业网络，家族企业 3 人）。信号：官网自述 1994 年起进口分销 PLANET；同时代理中国品牌 3onedata（已直接从中国进口工业交换机）。Planet 渠道档案 PA-006 评级 A（需求面：PLANET 进口分销 30 年 + 已进口中国品牌；触达：info@kyma.it 直达业主（3 人公司，业主具名）；体量 €3.52M 营收（2024）可赢；区域意大利（一线））。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-183，意大利，Saga 群发已推送 12 次无回复）与 Planet 渠道挖掘名单，首触邮件此前未发送。",
-  "type": "",
-  "size": "",
-  "brands_seen": [
-    "PLANET",
-    "3onedata"
-  ],
-  "evidence": [
-    {
-      "kind": "公司自述",
-      "claim": "1994 年起进口分销 PLANET 与 3onedata",
-      "quote": "importatore e distributore … PLANET … 3onedata（检索摘要，原文待 fetch 核对）",
-      "url": "https://www.kyma.it/",
-      "date": "2026-10-19"
-    },
-    {
-      "kind": "第三方",
-      "claim": "员工 3 人，2024 营收 €3.52M，家族经营（Zisios）",
-      "quote": "ufficiocamerale 摘要：3 dipendenti；fatturato 2024 €3,52M（检索摘要）",
-      "url": "https://www.ufficiocamerale.it/",
-      "date": "2026-10-19"
-    },
-    {
-      "kind": "公司自述",
-      "claim": "联系方式",
-      "quote": "info@kyma.it · +39 0522 232208 · Via Masaccio 6 / Via Zacchetti 31, 42124 Reggio Emilia",
-      "url": "https://www.kyma.it/contatti-2/",
-      "date": "2026-10-19"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Davide Zisios",
-      "title": "Titolare（业主，家族企业）；具名（官网/工商摘要）；邮箱为公司通用 info@（3 人公司）",
-      "email": "info@kyma.it",
-      "phone": "+39 0522 232208",
-      "source": "https://www.kyma.it/contatti-2/"
-    }
-  ],
-  "grade_override": "A",
-  "override_reason": "Planet 渠道档案 PA-006 评 A（真实需求 + 具名联系人 + 体量可赢，规则 INH）；Saga 表内未互动故自动评 B，按调研提升",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（并档 Planet 渠道档案 PA-006，W 批次调研 2026-10-19/20）"
-  },
-  "company_facts": {
-    "legal_name": "Kyma Srl",
-    "founded": "",
-    "hq": "Reggio Emilia, 意大利",
-    "size": "",
-    "other": "Planet 渠道档案 PA-006（2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json）；自有品牌：否；最大未知：3onedata 是否独家/排他；年进口台数"
-  },
-  "business_lines": [
-    "分销商/进口商（PLANET + 3onedata 工业网络，家族企业 3 人）"
-  ],
-  "products_seen": [
-    {
-      "brand": "PLANET",
-      "model": "IGS-4215-8P2T2S",
-      "spec": "工业 8 口 PoE + 2 SFP",
-      "saga": "STI-288DGGPM",
-      "url": "https://kyma.it",
-      "date": "2026-10-19"
-    },
-    {
-      "brand": "PLANET",
-      "model": "GS-4210-24P4C",
-      "spec": "24 口 PoE 商用",
-      "saga": "STC-424DGGPM-280W",
-      "url": "https://kyma.it",
-      "date": "2026-10-19"
-    }
-  ],
-  "channels": {
-    "role": "分销商/进口商（PLANET + 3onedata 工业网络，家族企业 3 人）",
-    "region": "意大利"
-  },
-  "signals": [
-    "已习惯从中国直接进口（3onedata）；3 人公司 info@ 直达业主 Davide/Mara Zisios；PLANET 在其线上是高价档",
-    "第二货源对位：与 3onedata 同价位带但 Marvell 芯片 + ERPS<20ms；直采流程他们已熟",
-    "样机到 Reggio Emilia：30 天并行测试，不要求承诺；兼容其在用 SFP"
-  ],
-  "risks": [
-    "3onedata 是否独家/排他；年进口台数",
-    "Planet 首触邮件未发送（Elsa 账号待定）",
-    "Saga 群发已推送 12 次无回复 → 改用具名收件人与新钩子（勿再用群发模板）"
-  ],
-  "saga_fit": {
-    "p1": "STI-288DGGPM",
-    "tier": 20,
-    "why": "其 3onedata/PLANET 双线均以工业 DIN 交换机为主，8×GE PoE + 2 SFP 是入门走量款；分销走量 → 20%（沿用 Planet 档案 PA-006）；需求：工业 DIN PoE、ERPS、宽温；商用 24 口 PoE"
-  },
-  "email_hook": "Kyma has imported PLANET since 1994 and now also carries 3onedata, so direct sourcing from Asia is already part of how you run the business. Which industrial PoE configuration do your customers ask for most: 8-port PoE+ with 2 SFP, or the 4 SFP version?",
-  "mail_review": {
-    "binding": {
-      "level": "未绑定（邮件 20 封 0 回、Opened 0）；Elsa 1:1 去信 1 封（2025-02-17「16 Port Ethernet Switch」；To 仅本户 info@kyma.it；Bcc 未逐封读头；同类名单抽读 24 封均无 Bcc；此后再未进 Elsa 任何名单——全箱 `from:e.sagatelecom to:info@kyma.it` 仅此 1 条，complete）（第 74 批(m)）",
-      "type": "意大利 Kyma Srl",
-      "sieve": "0（邮件层无人工回复）",
-      "stop": "—",
-      "revive": "—",
-      "lane": "IT/EU",
-      "cadence": "不主动",
-      "evidence": "邮件：去信 20 封（2024-06-27 → 2026-09-16），来信 0；Opened 标签 0 次；收件人 info@kyma.it, mara@kyma.it"
-    },
-    "situation": "20 封 0 打开。",
-    "need": "8 PoE+ + 2 SFP 或 4 SFP 版工业 PoE（二选一先问）",
-    "breakpoint": "—",
-    "saga_now": {
-      "p1": "STI-288GPM（8 PoE+ + 2 SFP）",
-      "tier": 20,
-      "price": "锚价：STI-288GPM $78.9（20% 档）（第 72 批 2026-10-24）；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-20 $65（10G media converter）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-15 $280（10G Enterprise SFP Switch）",
-      "why": "自 1994 进口 PLANET、现兼营 3onedata → 直采流程已熟；与 3onedata 同价位带但 Marvell + ERPS",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）",
-      "channel": "A 邮箱 → info@kyma.it（Davide Zisios）",
-      "action": "首封前知悉：Elsa 仅 2025-02-17 单发过 1 封「16 Port Ethernet Switch」，之后没再碰他（第 74 批(m)）；一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(al) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
-      "one_question": "Kyma has imported PLANET since 1994 and now also carries 3onedata, so direct sourcing from Asia is already part of how you run the business. Which industrial PoE configuration do your customers ask for most: 8-port PoE+ with 2 SFP, or the 4 SFP version? Reference: STI-288GPM at $78.9 USD EXW (MOQ 1, 15-day validity)."
-    },
-    "facts": [
-      {
-        "date": "2024-06-27",
-        "dir": "去",
-        "who": "S 箱（Simon）",
-        "quote": "Industrial Ethernet Switch",
-        "why": "首封去信（邮箱索引；去信共 20 封）",
-        "k": "d7db4293491aa104"
-      },
-      {
-        "date": "2024-08-20",
-        "dir": "去",
-        "who": "S 箱（Simon）",
-        "quote": "10G media converter｜稿内价 $65",
-        "why": "去信正文含价（邮箱索引）",
-        "k": "135bc0edf19035a0"
-      },
-      {
-        "date": "2024-08-20",
-        "dir": "去",
-        "who": "S 箱（Simon）报价",
-        "quote": "10G media converter｜ $65（原句：Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unma）",
-        "why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
-        "k": "135bc0edf19035a0"
-      },
-      {
-        "date": "2025-02-17",
-        "dir": "out",
-        "who": "Elsa → info@kyma.it",
-        "quote": "16 Port Ethernet Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
-        "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
-        "k": "elsa_1to1",
-        "msg_id": "19512ebd4c3c6228"
-      },
-      {
-        "date": "2026-09-16",
-        "dir": "去",
-        "who": "A 箱（Alan）",
-        "quote": "16 Port Industrial PoE Switch",
-        "why": "本日去信真实主题（邮箱索引 dfebdad691c2481a；信稿开头句引用此封；此前稿内写的「Industrial PoE Switch」是线程列表首题，不是本封）",
-        "k": "dfebdad691c2481a"
-      }
-    ],
-    "proof_gaps": [
-      "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 去信 1 轮、0 回），仓库未见原文"
-    ],
-    "draft_en": {
-      "subject": "Kyma imports PLANET and 3onedata already - 8-PoE + 2 SFP or the 4-SFP version?",
-      "body": "Hello Davide,\n\nWe wrote to you once in February 2025 about a 16-port Ethernet switch, and since then only general product mails - most recently \"16 Port Industrial PoE Switch\" on 16 September 2026 - none of which needed an answer. This one is specific.\n\nKyma has imported PLANET since 1994 and now carries 3onedata, so buying industrial switches direct from Asia is already how you work. At distributor price, EXW, MOQ 1, 15-day validity, -40 to 75 C, CE/RoHS: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, L2 managed, Marvell-based - model STI-288GPM - $78.9 USD; the L2+ version with ring redundancy - STI-288DGGPM - $137.5; 8 x Gigabit PoE+ + 4 x SFP, L2+ with ring - STI-488DGGPM - $147.1. Neutral brand, English web GUI.\n\nOne question: which industrial PoE configuration do your customers ask for most - 8-port PoE+ with 2 SFP, or the 4-SFP version?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
-    },
-    "as_of": "2026-10-24"
+ "code": "SB-183",
+ "name_official": "Onyx Technology Solutions Limited（乌干达）",
+ "researched_at": "2026-10-21",
+ "website_status": "无域名（gmail；仅表内信息）",
+ "summary": "乌干达 WISP / 网络集成商（Steven Ntengo），用 Cambium Force 200/190 无线，需求工业 PoE 注入器（Saga 价目无，Q-32）；2024 年问工业交换机价格、48 口 / 228 价格，对 154（1 SFP + 1 GE + 4 PoE 工业）有兴趣，要价目表。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "Cambium"
+ ],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "兴趣：工业 POE injector 用于 cambium radios like force 200/190；回复：price product info；price for 48 port, 228；对 154 有兴趣；price list",
+   "quote": "兴趣：工业POE injector 用于cambium radios like force 200 and 190 etc；回复：对154有兴趣；price list",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Steven Ntengo",
+   "title": "（表内联系人）",
+   "email": "onyxtechnologysolutionsltd@gmail.com",
+   "phone": "+256 704 803 724",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "无域名 · 仅表内信息"
+ },
+ "company_facts": {
+  "legal_name": "Onyx Technology Solutions Limited",
+  "founded": "",
+  "hq": "乌干达",
+  "size": "小型",
+  "other": "gmail；Cambium 用户"
+ },
+ "business_lines": [
+  "无线接入 / WISP 工程（Cambium）",
+  "网络集成"
+ ],
+ "channels": {
+  "role": "WISP / 集成商",
+  "region": "乌干达"
+ },
+ "signals": [
+  "对 STI-154GP 同口型明确有兴趣",
+  "多次要价目 → 比价采购"
+ ],
+ "risks": [
+  "注入器需求 Saga 无（Q-32）",
+  "东非付款：T/T 预付"
+ ],
+ "saga_fit": {
+  "p1": "STI-154GP",
+  "tier": 25,
+  "why": "其明确感兴趣的「154」= Saga STI-154GP（1 SFP + 1 GE 上行 + 4 PoE 工业，$37.7/39.2/40.8），可直接给 Cambium Force 供电（802.3at/bt 需核）。"
+ },
+ "email_hook": "Steven, you liked the 154 unit (1 SFP + 1 GE uplink + 4 PoE) — Force 200/190 radios take 802.3at from it directly, so you may not need separate injectors; shall I send the datasheet plus 1-pc and 10-pc EXW prices?",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：工业POE injector 用于cambium radios like force 200 and 190 et」；Elsa 箱：`to:onyxtechnologysolutionsltd@gmail.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(n)））",
+   "type": "—",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "不动（非主攻区；J5：有证据再动）",
+   "lane": "乌干达 非主攻",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 0；用户表：「兴趣：工业POE injector 用于cambium radios like force 200 and 190 etc；回复：对154有兴趣；price l」；研究档 risks：注入器需求 Saga 无（Q-32）"
+  },
+  "situation": "乌干达 WISP / 网络集成商（Steven Ntengo），用 Cambium Force 200/190 无线，需求工业 PoE 注入器（Saga 价目无，Q-32）；2024 年问工业交换机价格、48 口 / 228 价格，对 154（1 SFP + 1 GE + 4 PoE 工业）有兴趣，要价目表。",
+  "need": "其明确感兴趣的「154」= Saga STI-154GP（1 SFP + 1 GE 上行 + 4 PoE 工业，$37.7/39.2/40.8），可直接给 Cambium Force 供电（802.3at/bt 需核）。",
+  "breakpoint": "注入器需求 Saga 无（Q-32）",
+  "saga_now": {
+   "p1": "STI-154GP",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "其明确感兴趣的「154」= Saga STI-154GP（1 SFP + 1 GE 上行 + 4 PoE 工业，$37.7/39.2/40.8），可直接给 Cambium Force 供电（802.3at/bt 需核）。",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2024-04-29",
+    "dir": "来",
+    "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+    "quote": "用户表跟进：推「发了工业交换机图」→ 对方「price  product info」",
+    "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+    "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.28 2024.4.29"
+   },
+   {
+    "date": "2024-06-20",
+    "dir": "来",
+    "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+    "quote": "用户表跟进：推「发了几个商业交换机图」→ 对方「price for 48 port,228」",
+    "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+    "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.28 2024.6.20"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：工业POE injector 用于cambium radios like force 200 and 190 etc；回复：对154有兴趣；price list",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来",
+   "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

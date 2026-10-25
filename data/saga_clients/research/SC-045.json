@@ -1,0 +1,76 @@
+{
+ "code": "SC-045",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（atexshop.com，快照 2026-10-21）",
+ "summary": "ATEXshop（2008 年起防爆/本安设备网店：1,800+ ATEX/IECEx 认证产品——防爆手机、平板、摄像机、照明；电话 +31（荷兰），表内国别捷克；Hikvision / Bosch Ex 摄像机；KP Christian Pleijsier（Company Owner））；表内 4 次跟进无回复。",
+ "type": "防爆设备网店（ATEX 认证品类，Saga 不做）",
+ "size": "",
+ "brands_seen": [
+  "Hikvision",
+  "Bosch"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：ATEXshop | Explosion Proof & Intrinsically Safe Equipment；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "Online since 2008: more than 1,800 ATEX and IECEx certified products, from explosion proof phones and tablets to cameras and lighting. Advice and quotes.",
+   "url": "https://www.atexshop.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "Switch",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "ATEXshop 定位",
+   "quote": "ATEXshop | Explosion Proof & Intrinsically Safe Equipment ; Online since 2008: more than 1,800 ATEX and IECEx certified products ; Call Us Now: +31 85 044 1152",
+   "url": "https://www.atexshop.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "Switch",
+   "quote": "Switch",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "品类不符：ATEXshop 防爆认证设备专营（Saga 无 ATEX 产品）；c_sub=品类不符（防爆认证）",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "捷克",
+  "other": "官网 atexshop.com，语言 en，快照状态 ok；角色判定来源：表内早期 AI 描述"
+ },
+ "business_lines": [
+  "防爆 / 本安设备网店"
+ ],
+ "channels": {
+  "role": "防爆设备网店（ATEX 认证品类，Saga 不做）",
+  "region": "捷克",
+  "contact": "info@atexshop.com"
+ },
+ "signals": [
+  "官网：Online since 2008: more than 1,800 ATEX and IECEx certified products, from explosion proof phones and tablets to cameras and lighting；首页 Call Us Now: +31 85 044 1152；kw camera 105 / cctv 19",
+  "表内：Switch；KP Christian Pleijsier / Company Owner"
+ ],
+ "risks": [
+  "品类不符：防爆（ATEX/IECEx）认证设备专营，Saga 无防爆认证产品；国别待核（电话 +31 荷兰，表内捷克）"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 20,
+  "why": "全品类要求 ATEX/IECEx 认证（Saga 无防爆认证）→ 品类不符，改 C"
+ },
+ "email_hook": "（不发送：品类不符）"
+}

@@ -1,0 +1,58 @@
+{
+ "code": "SC-194",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "无域名",
+ "summary": "Farnell（element14 / Avnet 旗下全球电子元件分销巨头；表内联系为芬兰销售邮箱 myynti@ 与 sales@；表内「大型分销商」；国别记为法国）；群发 7 次无回复。",
+ "type": "电子分销巨头（Farnell）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "大型分销商",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "大型分销商",
+   "quote": "大型分销商",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "巨头（Farnell/Avnet）；c_sub=体量过大",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "法国",
+  "other": "无官网快照；角色判定来源：用户表"
+ },
+ "business_lines": [
+  "电子元件分销（跨国巨头）"
+ ],
+ "channels": {
+  "role": "电子分销巨头（Farnell）",
+  "region": "法国",
+  "contact": "myynti@farnell.com、sales@farnell.com"
+ },
+ "signals": [
+  "表内：大型分销商；myynti@farnell.com / sales@farnell.com"
+ ],
+ "risks": [
+  "体量：Farnell / Avnet 集团；仅通用销售邮箱；7 次无回复；国别待核（联系为芬兰邮箱，总部英国）"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 20,
+  "why": "全球分销巨头（供应商准入体系）→ 改 C"
+ },
+ "email_hook": "（不发送：巨头）"
+}

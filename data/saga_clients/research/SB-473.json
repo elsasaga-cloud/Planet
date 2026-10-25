@@ -1,586 +1,133 @@
 {
  "code": "SB-473",
- "name_official": "Netaş Telekomünikasyon A.Ş.（İstanbul, TR；netas.com.tr；BIST: NETAS）",
- "researched_at": "2026-10-22",
- "website_status": "在线",
- "summary": "土耳其电信设备与系统集成上市公司 Netaş（1967 年成立，1993 年上市；2025 年末员工 1,264 人、年均 1,368 人；ZTE Cooperatief U.A. 持股 48.05%，Türk Silahlı Kuvvetleri Güçlendirme Vakfı 持股 15%，其余流通；总经理 Sinan Dumlu；业务：电信运营商网络产品、本土基站、系统集成）。Saga 自建站询盘：Ender Bulut 询 OM6X2424(2)-PSE-GW（型号疑为他牌 PoE 交换机/网关）；无跟进。按规则归 C（资料保留）。",
- "type": "",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（bturesearch.com，快照 2026-10-21）",
+ "summary": "美国 BTU Research / Intepo（现以 INTEPO「Sovereign Infrastructure」AI 物理基础设施平台为定位——工厂集成、现场就绪的边缘基础设施；表内「户外安防 感觉比较专业」；KP Michael Kanarellis（Chief Executive））；表内 4 次跟进无回复。",
+ "type": "边缘基础设施平台商（美国，定位转型待核）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Aruba"
+ ],
  "evidence": [
   {
-   "kind": "年报",
-   "claim": "员工数与股东",
-   "quote": "Netaş'ta 2025 yıl sonu itibarıyla çalışan sayısı 1.264'e ulaştı … ZTE, Netaş'ın yüzde 48,04 hissesini ZTE Cooperatief U.A. kanalıyla satın aldı.",
-   "url": "https://netas.com.tr/docs/tr/faaliyet_raporlari/2025/Netas%20Faaliyet%20Raporu%202025.pdf",
-   "date": "2026-03-10"
-  },
-  {
-   "kind": "官网 IR",
-   "claim": "股权结构",
-   "quote": "ZTE Cooperatief U.A. is the controlling shareholder of Netaş with 48.05%. 15% of shares owned by Turkish Armed Forces Foundation and remaining 36.95% of shares is listed on Istanbul Stock Exchange.",
-   "url": "https://netas.com.tr/investor-relations/share-and-investor-information?lang=en",
-   "date": "2021-03-16"
+   "kind": "官网快照",
+   "claim": "官网标题：Intepo",
+   "quote": "INTEPO Sovereign Infrastructure The AI revolution requires a fundamentally more advanced form of physical infrastructure. Modern infrastructure for modern intelligence.Factory integrated. Field ready. Learn More The INTEPO Infrastructure Pl",
+   "url": "https://intepo.com",
+   "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "自建站询盘型号",
-   "quote": "OM6X2424(2)-PSE-GW / from: 自建站",
+   "claim": "表内兴趣/备注",
+   "quote": "户外安防 感觉比较专业",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   },
   {
-   "kind": "PI",
-   "claim": "成交单据 STAG20251224020（PI，2025-12-24）：STI-488DGGPM-2BT 共 3 台，USD 545.0；采购 SmartByte RMB 2616.0；Simon 成本表利润 RMB 903.53",
-   "quote": "",
-   "url": "PI.zip:20 土耳其 Burak 活跃 Xtransfer 轻度绑定/STAG20251224020.xls",
-   "date": "2025-12-24"
+   "kind": "官网快照",
+   "claim": "Intepo 定位",
+   "quote": "Home - Intepo ; INTEPO Sovereign Infrastructure ; Factory integrated. Field ready",
+   "url": "https://intepo.com",
+   "date": "2026-10-21"
   },
   {
-   "kind": "PI",
-   "claim": "PI 包文件夹「土耳其 Burak 活跃 Xtransfer 轻度绑定」：Simon 标签 活跃，收款 Xtransfer，轻度绑定；单号 1 个，2025-12-24 → 2025-12-24，销售 USD 545.0 / RMB 0，Simon 成本统计利润合计 RMB 903.53",
-   "quote": "",
-   "url": "PI.zip:20 土耳其 Burak 活跃 Xtransfer 轻度绑定",
-   "date": "2026-10-22"
-  },
-  {
-   "kind": "公开平台核查（T29-U18）",
-   "claim": "H1 2026 业绩：订单 110 亿 TL（+96%），销售 86 亿 TL（+55%），税前利 2.02 亿 TL",
-   "quote": "2026’nın ilk yarısında siparişlerini yüzde 96 artışla 11 milyar TL’ye, satış gelirleri ise yüzde 55 artışla 8,6 milyar TL’ye çıkaran Netaş, 202 milyon TL vergi öncesi kâr elde etti",
-   "url": "https://www.capital.com.tr/sirket-panosu/sirket-panosu-haberleri/netas-2026nin-ilk-yarisinda-gelirlerini-ve-karliligini-artirdi",
-   "date": "2026-08-14"
-  },
-  {
-   "kind": "公开平台核查（T29-U18）",
-   "claim": "2026-08-03 董事长任命 Zhi Ling；Turkcell 与 ZTE/Netaş 合作 5G + Wi-Fi 7 新一代 Superbox",
-   "quote": "Netaş’ta Üst Düzey Atama: Yönetim Kurulu Başkanlığı Görevine Zhi Ling Getirildi 3 Ağustos 2026 … Turkcell ve ZTE/Netaş’tan 5G ve Wi-Fi 7 Destekli Yeni Nesil Superbox İş Birliği",
-   "url": "https://netas.com.tr/medya-merkezi",
-   "date": "2026-08-03"
-  },
-  {
-   "kind": "公开平台核查（T29-U18）",
-   "claim": "2026-06 KAP 披露：来自土耳其头部运营商 19,584,122 美元服务器订单，2026 年内交付，售后 7 年",
-   "quote": "müşterisinden sunucu satışına ilişkin olarak 19.584.122 ABD Doları tutarında sipariş almıştır",
-   "url": "https://www.cnbce.com/borsa/netas-duyurdu-turkiyenin-onde-gelen-telekom-operatorunden-195-milyon-dolarlik-sunucu-siparisi-h31685",
-   "date": "2026-06-16"
-  },
-  {
-   "kind": "Simon 文档",
-   "claim": "绑定等级：轻度绑定——「SmartByte 也背书了」",
-   "quote": "土耳其 Netas　轻度绑定 = Smartbyte也背书了",
-   "url": "Extra Info.zip 根目录《客户绑定情况分析.docx》（data/extra_info_2026-10/text/Extra_Info__客户绑定情况分析.docx__6d196b92.json）",
-   "date": "2026-10-22"
+   "kind": "用户表",
+   "claim": "户外安防 比较专业",
+   "quote": "户外安防 感觉比较专业",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [
   {
-   "name": "Ender Bulut",
-   "role": "（自建站询盘人；职务待核）",
-   "email": "ebulut@netas.com.tr（本人来信 15 封 2025-10→2026-03）；endearbulut@gmail.com（2026-01-23 他主动给的私人邮箱）",
-   "phone": "—",
-   "source": "A 邮箱来信表头 + 用户表"
-  },
-  {
-   "name": "Burak Ozdemir",
-   "role": "单据联系人",
-   "email": "buozdemir@netas.com.tr",
+   "name": "Michael Kanarellis",
+   "title": "Chief Executive",
+   "email": "mkanarellis@bturesearch.com",
    "phone": "",
-   "source": "PI.zip 单据"
-  },
-  {
-   "name": "Özlem Şahin (Uçak)",
-   "role": "Netaş 同事，2026-01-23 / 01-27 两封来信（同串抄送/代答；职务待核）",
-   "email": "ozlem.ucak@netas.com.tr",
-   "phone": "",
-   "source": "A 邮箱 2026-01 来信表头"
-  },
-  {
-   "name": "Netaş Compliance（合规部）",
-   "role": "2026-02→08 六封合规/供应商文件往来（供应商合规流程的发件方，非采购）",
-   "email": "compliance@netas.com.tr",
-   "phone": "",
-   "source": "A 邮箱 2026-02-09→08-12 来信表头"
+   "source": "用户表"
   }
  ],
- "grade_override": "A",
- "override_reason": "规模大 + 守界：BIST 上市电信设备/系统集成巨头（1967 年成立；约 1,264–1,403 名员工；ZTE 持股 48.05%、土耳其武装部队基金会持股 15%）——集团级采购、ZTE 供应链关联且军方基金会股东，超出 Saga 可赢范围；PI 包成单客户，Simon 标签 活跃 → A",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（年报核对 → 规模大降 C）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "legal_name": "Netaş Telekomünikasyon A.Ş.",
-  "founded": "1967-03-31",
-  "hq": "İstanbul, Türkiye",
-  "size": "1,264 人（2025 年末）；BIST 上市",
-  "other": "ZTE 48.05%、TSKGV 15%；总经理 Sinan Dumlu"
+  "hq": "美国",
+  "other": "官网 bturesearch.com，语言 en-US，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "电信运营商网络产品与本土基站",
-  "系统集成与 IT 服务"
+  "AI 边缘物理基础设施平台（美国）"
  ],
  "channels": {
-  "网站": "https://netas.com.tr/",
-  "公开动态平台（监控中，T29-U18）": "官网媒体中心 netas.com.tr/medya-merkezi（季报/任命/合作新闻，持续更新）；KAP 公开披露（BIST: NETAS）；LinkedIn 公司页；土耳其财经媒体聚合（hurriyet / capital / cnbce）"
+  "role": "边缘基础设施平台商（美国，定位转型待核）",
+  "region": "美国",
+  "contact": "info@bturesearch.com、mkanarellis@bturesearch.com"
  },
  "signals": [
-  "2026-08-14 H1 2026：订单 +96% 至 110 亿 TL，营收 +55% 至 86 亿 TL，税前利润 2.02 亿 TL；2026-08-03 董事长改任 Zhi Ling（ZTE 系）；2026-06 获国内头部运营商 1,958 万美元服务器订单（2026 年内交付，7 年售后）——公司景气、采购活跃；监控其媒体中心即可知新项目方向",
-  "询盘型号 OM6X2424(2)-PSE-GW 非 Saga 型号 → 可能为比价/替代件询价"
+  "官网：INTEPO Sovereign Infrastructure The AI revolution requires a fundamentally more advanced form of physical infrastructure ; Factory integrated. Field ready ; A governance platform embodied in hardware",
+  "表内：户外安防 感觉比较专业；KP Michael Kanarellis / Chief Executive"
  ],
  "risks": [
-  "集团采购 + ZTE 关联 + 军方基金会股东 → C"
+  "公司定位转型（户外安防 → AI 边缘基础设施），需求待核；4 次无回复 → 改向 CEO 具名首触"
  ],
  "saga_fit": {
-  "p1": null,
+  "p1": "STI-288GPM",
   "tier": 25,
-  "why": "不推进"
+  "why": "户外/边缘节点配套 → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）、4 PoE + 1 SFP STI-154GP（$39.2）；原户外安防方向待核"
  },
- "email_hook": "（不主动发送）",
- "deal_pi": {
-  "folder": "20 土耳其 Burak 活跃 Xtransfer 轻度绑定",
-  "simon_label": "活跃",
-  "pay": "Xtransfer",
-  "bind": "轻度绑定",
-  "buyer": "NETAŞ Telekomünikasyon A.Ş.",
-  "orders": 1,
-  "first": "2025-12-24",
-  "last": "2025-12-24",
-  "usd": 545.0,
-  "rmb": 0.0,
-  "profit_rmb": 903.53,
-  "models": "STI-488DGGPM-2BT"
- },
- "watch": {
-  "as_of": "2026-10-23",
-  "github_watch": [],
-  "web_watch_targets": "scripts/web_watch/targets.json#SB-473",
-  "status": "data/customer_watch/当前状态.md",
-  "log": "data/customer_watch/变化日志.md"
- },
- "binding_level": "轻度",
- "binding_src": "Simon《客户绑定情况分析.docx》（Extra Info，2026-10-22 入库）",
+ "email_hook": "Michael, for the networking inside your field-ready edge infrastructure units, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed and 4-PoE + 1 SFP industrial switches (−40~75 °C, 12–57 V, FCC/CE/RoHS) from small lots, EXW USD — which port and PoE budget do your integrated cabinets need?",
  "mail_review": {
   "binding": {
-   "level": "中度（正式供应商入库 + PO 2600011146 + 付款 $545 + 3 台样机交付；1 台留在终端客户处；止于 L3 组播/宽温功能上限；Elsa 箱：`to:netas.com.tr` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 32 / 来 35）（第 74 批(g)））",
-   "type": "系统集成商 / 国防通信项目承包（技术流）",
-   "sieve": "3（NDA·ECCN 供应商表、PO、PI、付款、报关、样机）",
-   "stop": "功能上限——终端客户要 L3 组播 PIM-SM **和** PIM-DM + RIPng/PBR + IP SLA；CENTEC 线 0~40 °C 不够（要 -40~+71 °C）",
-   "revive": "固件 7.5（AC5）已支持 PIM-SM（仅 CLI）；若客户能接受「PIM-SM 无 PIM-DM」或出现新的 L2 需求即可重开；车载容器网络另需宽温 L3 接入机",
-   "lane": "TR 已通（USD T/T、DHL；Netaş 自有报关与合规流程）",
-   "cadence": "最后 2026-07-17 Alan 发 AC5 特性表（无回）；实质往来 2025-10-13 → 2026-03-02，约 9 轮；Netaş 合规部季度群发仍在抄 Saga",
-   "evidence": "A 邮箱 k=221f4293f7917453 / 575f6cc1f5d1c75d / 10e6fdf62c477b46 / bbdc059bf34b2fbc / 2b615482de0608a5；第 19 批回补来信原文 8 条（gmail_s/gmail_a）；第 22 批回补附件原文：PO、CI STAG20251224020、Garanti 付款回单、UPS 发票、供应商入库包、ZTE 合规信"
+   "level": "未触达（A 邮箱 15 封 2025→2026，无记录打开，0 回；收件 info@bturesearch.com, mkanarellis@bturesearch.com；主题多为「10G Enterprise SFP Switch、90W PoE Managed Switch」；Elsa 箱：`to:bturesearch.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 15 / 来 0）（第 74 批(h)））",
+   "type": "边缘基础设施平台商（美国，定位转型待核）",
+   "sieve": "1（只收到群发）",
+   "stop": "15 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "US 主攻（四主）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 15；用户表：「户外安防 感觉比较专业」；研究档 risks：公司定位转型（户外安防 → AI 边缘基础设施），需求待核；4 次无回复 → 改向 CEO 具名首触"
   },
-  "situation": "土耳其 Netaş（国防/运营商系统集成商，KAP 上市）采购专家 Ender Bulut 2025-10 经 Simon 转给 Alan；2025-12-01 决定以 **STI-488DGGPM-2BT** 作 L2 方案，走完 NDA/ECCN 供应商开户 → 12-23 PO → 12-24 PI 批准 → 2026-01-13 付款（3 台，$545）→ 1 月发货报关；2026-02-26/27 终端客户（车载容器网络）转向 **L3 组播**，Alan 明示 PIM-SM/DM、RIPng/PBR、IP SLA「NOT available with the current chipset」、CENTEC 温度不够，3-02 Ender 留 1 台样机在客户处并「等新 L2 机会」；此后只有 Alan 7-17 单向更新。",
-  "need": "① 已买：工业 L2+ 8 口 PoE（2×BT）3 台做实验室 + POC；② 真正的项目需求（2026-02-27 原话）：车载容器内多网络整合，2–4 台交换机/车，非核心汇聚，但**必须 L3 + PIM-SM/PIM-DM**，工作温度 **-40~+71 °C**，Netaş 自己做加固外壳；③ 2025-10-17 曾要 Marvell 模组 PCBA 的年量阶梯价（1–10 / 11–25 / 26–…）——说明他们考虑自制整机。",
-  "breakpoint": "不是价格、不是信任（PO/付款/报关都走完了），是**芯片方案的功能上限 + 温度**。Alan 2026-02-27 原话「PIM-SM/DM, problem; RIPng/PBR, big problem; IP SLA, problem. It is really hard to move on: R&D, ROI etc.」——属于 C10 边界，不设计绕路。但 7.5 固件已补 PIM-SM（仅 CLI、无 PIM-DM、无 IP SLA，见微信 Peter 2026 原话），边界比 2 月时小了一格。",
+  "situation": "美国 BTU Research / Intepo（现以 INTEPO「Sovereign Infrastructure」AI 物理基础设施平台为定位——工厂集成、现场就绪的边缘基础设施；表内「户外安防 感觉比较专业」；KP Michael Kanarellis（Chief Executive））；表内 4 次跟进无回复。",
+  "need": "户外/边缘节点配套 → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）、4 PoE + 1 SFP STI-154GP（$39.2）；原户外安防方向待核",
+  "breakpoint": "公司定位转型（户外安防 → AI 边缘基础设施），需求待核；4 次无回复 → 改向 CEO 具名首触",
   "saga_now": {
-   "p1": "STI-488DGGPM-2BT（在手样机）→ 若重开则 STI 系列 L3 型 + 固件 7.5",
+   "p1": "STI-288GPM",
    "tier": 25,
-   "price": "成交价 STI-488DGGPM-2BT $150/台 DAP（不含清关）+ UPS $70（2025-12-24 CI）；下次按 `列表价 $154 USD EXW（2026-10-17 快照，15 天有效）` 不低于此",
-   "why": "集成商档 25%；对方已有 Saga 供应商账号与报关记录，复购的行政成本为零（C3 顺手单）｜已发资料（勿重发）：Supplier Entry Form(English)_signed(2025-12-04)、1400-T-002 Annex 5 Defense Business Pa(2025-12-04)、CI(2026-01-23)、AWB(2026-01-23)、Warranty Certificate_STAG20251224020(2026-02-09)、Product Link_2026Q2(2026-02-09)、Saga Feature List_7.5.x_L2+(2026-07-17)；已发单据：Quotation_2025.12.09(2025-12-09)、STAG20251224020(2025-12-24)、PL_STAG20251224020(2026-01-23)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）｜对外统一口径（#2/#3）：Netaş 版「source code NEVER」「PIM-SM/DM/IP SLA/BFD/GR 不做」= 基准口径；7.5 的 PIM-SM（CLI）若提，注明是对 2025-10-15 的更新；CENTEC 对外不写 Stacking（Q2 价表无此项）｜毛利复盘：首单 23.8%（3 × STI-488DGGPM-2BT 成本 872，DAP 运费 270）——正常｜CENTEC STOS V2.4 功能表（2026/Q2，sha b07db6026b63a527）：PIM-SM/DM、RIPng、PBR、IP SLA、BFD、VRRP 均 ◯（MS/MA 许可）——Ender 2026-02 要的四样在 CENTEC 线上全有，卡的只是 0~40℃（他 2026-02-27 已点名）；信里把这层说出来，让他自己判断机柜是否控温",
-   "repeat": [
-    "STI-488DGGPM-2BT 样机 3 台（2026-01 付款）"
-   ],
-   "gaps": [
-    "PIM-DM、IP SLA、RIPng/PBR：7.5 仍不支持（Peter 微信明确）——只能老实说",
-    "-40~+71 °C L3 机型：Marvell 工业线温度范围需查规格书后再承诺，不猜",
-    "不替 Simon 向 SmartByte 问 PCBA 阶梯价（U29）；若 Netaş 再提 PCBA，由 Simon 决定是否开这条线"
-   ]
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-26 $280（10G Enterprise SFP Switch）",
+   "why": "户外/边缘节点配套 → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）、4 PoE + 1 SFP STI-154GP（$39.2）；原户外安防方向待核",
+   "repeat": [],
+   "gaps": []
   },
   "next_move": {
-   "when": "2026-11 第一周（距 7-17 单向更新满 3 个月）",
-   "channel": "A 邮箱（Alan 主线，抄 Ender 的 gmail endearbulut@gmail.com——他 2026-01-23 主动给的）",
-   "action": "一封三行：7.5 固件 PIM-SM 已可用（CLI）、PIM-DM 仍无、问客户的 L3 组播是否 PIM-SM 即可；顺带问留在客户处那台样机的测试结论",
-   "one_question": "Does your end customer's multicast design actually require PIM-DM, or would PIM-SM (now available in firmware 7.5 via CLI) be sufficient for the vehicle network?"
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Michael, for the networking inside your field-ready edge infrastructure units, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed and 4-PoE + 1 SFP industrial switches (−40~75 °C, 12–57 V, FCC/CE/RoHS) from small lots, EXW USD — which port and PoE budget do your integrated cabinets need?"
   },
   "facts": [
    {
-    "date": "2025-10-13",
-    "dir": "来",
-    "who": "ebulut@netas.com.tr",
-    "quote": "Thank you, Alan. I will review the documents and return you. May be Simon has already told you, but I want to make sure you got the specification that",
-    "why": "来信原文（主题「RE: Industrial L2/L3 Managed Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
-    "k": "2eb80e0c4181c468"
-   },
-   {
-    "date": "2025-10-14",
-    "dir": "来",
-    "who": "ebulut@netas.com.tr",
-    "quote": "Thanks Alan. It’s great to hear this information from you, everything looks good on our side. We’ll now proceed with our internal and client-side eval",
-    "why": "来信原文（主题「RE: Industrial L2/L3 Managed Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
-    "k": "15eb128dc8f7b999"
-   },
-   {
-    "date": "2025-10-14",
-    "dir": "来",
-    "who": "ebulut@netas.com.tr",
-    "quote": "Hi Alan, Your shared directories includes L2 and L3 Switch Solutions. Do you have Router Solutions that you can advise me? And we can also chat from w",
-    "why": "来信原文（主题「RE: Industrial L2/L3 Managed Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
-    "k": "f917cf82272856d3"
-   },
-   {
-    "date": "2025-10-14",
+    "date": "2026-08-31",
     "dir": "去",
-    "who": "Alan → Ender Bulut",
-    "quote": "1, We do not have routers, just focus on Marvell based managed switches. 2, It is OK to just offer PCBA with your enclosure design, actually we think this is the best solution… IP40-rated cases, standard… Since this is for military use, great to have your ruggedized design. 3, SKD is fine with us, BUT source code mode is NEVER an option. 4, fine to provide the products/PCBA under your brand. 5, -40~75℃ tested and proven",
-    "why": "对 Netaş 的五条总规则（PCBA + 对方加固外壳为最佳方案、SKD 可、源码绝不、贴牌可、宽温已证）——后来 NETAS绑定.docx 说「基于你 PCBA 做测试」就是这条路线；「source code NEVER」与 2025-11-26 对 ITM 说的「SDK/Source Code 属 TTC 服务、看项目」口径不一致，对外要统一（默认按 Netaş 口径：不给源码）",
-    "k": "gmail_a 2025-10-14 Re: Industrial L2/L3 Managed Switch"
+    "who": "A 群发",
+    "quote": "10G Enterprise SFP Switch、90W PoE Managed Switch",
+    "why": "15 封 / 0 次打开 / 0 回｜首封 2025-09-03 → 末封 2026-08-31（15 去 / 0 来）",
+    "k": "gmail_digest"
    },
    {
-    "date": "2025-10-15",
-    "dir": "来",
-    "who": "ebulut@netas.com.tr",
-    "quote": "It is understandable that not support to Cisco private protocols. But you are able to support VRRP, aren’t you? l “Layer 3 features: Supports static a",
-    "why": "来信原文（主题「RE: Industrial L2/L3 Managed Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
-    "k": "f64748099f1ca29a"
-   },
-   {
-    "date": "2025-10-15",
-    "dir": "去",
-    "who": "Alan → Ender Bulut",
-    "quote": "1, ALL the Cisco private protocols are NOT supported. e.g.: CDP, HSRP 2, There are SOME features unavailable, and we are NOT going to develop it. It is too complicated. PIM-SM, PIM-DM, IPSLA, BFD, Graceful Restart 3, For the other features, we are good for now.",
-    "why": "2025-10 就书面说了「PIM-SM/DM、IP SLA、BFD、GR 不做」；2026-02 Ender 再问 PIM 时 Alan 答「problem/big problem」一致；2026-06 固件 7.5 PIM-SM 只有 CLI——下一封若提 PIM-SM 可用，要先说明这是对 10-15 说法的更新",
-    "k": "gmail_a 2025-10-15 Re: Industrial L2/L3 Managed Switch"
-   },
-   {
-    "date": "2025-10-17",
-    "dir": "来",
-    "who": "ebulut@netas.com.tr",
-    "quote": "Hi Alan, We are interested in your solutions and have already shared some initial information with our clients. We are currently awaiting their feedba",
-    "why": "来信原文（主题「RE: Industrial L2/L3 Managed Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
-    "k": "37d0a18adaf6e108"
-   },
-   {
-    "date": "2025-10-17",
-    "dir": "去",
-    "who": "Saga（Alan）",
-    "quote": "Hi, Ender, Thanks for your information. 1. The prices in the Google Drive folders are standard. 2. For PCBA, we mean a complete piece without enclosure, it is ready to use and easy for your own enclosure. This is our understanding, please let us know if you have a different idea. 3. Let’s split the…",
-    "why": "Saga 实质答复原文（主题「Re: Industrial L2/L3 Managed Switches」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
-    "k": "b74b59ea19377fe5"
-   },
-   {
-    "date": "2025-11-04",
-    "dir": "来",
-    "who": "ebulut@netas.com.tr",
-    "quote": "Hi Alan, I’d like to start as soon as possible, but our internal processes are still ongoing. We’re also in contact with our clients and waiting for t",
-    "why": "来信原文（主题「RE: Industrial L2/L3 Managed Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
-    "k": "3f142194cba5d187"
-   },
-   {
-    "date": "2025-12-01",
-    "dir": "来",
-    "who": "Ender Bulut（Netaş）",
-    "quote": "We have decided to move forward with your STI-488DGGPM-2BT as our L2 switch solution… colleagues… will assist with the NDA and compliance process",
-    "why": "正式选型 + 进入供应商开户流程（筛子第 3 道）",
-    "k": "221f4293f7917453"
-   },
-   {
-    "date": "2025-12-02",
-    "dir": "来",
-    "who": "buozdemir@netas.com.tr",
-    "quote": "Hello Alan, We are currently proceeding with the creation of your supplier account in our system. For this purpose, could you please review and sign t",
-    "why": "来信原文（主题「Request for NDA and ECCN form Compl」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
-    "k": "ff3d41beaad53936"
-   },
-   {
-    "date": "2025-12-02",
-    "dir": "来",
-    "who": "Burak Özdemir（Netaş 采购）附件",
-    "quote": "供应商入库包 6 件：Supplier Entry Form(English).xlsx、Bank-information-template.xlsx、NETAS-Standard-NDA.DOCX、533-IY-003 SCM Ethical Principles Rules.docx、1400-T-002 Annex 5 Defense Business Partners Export…、Netas DRAFT Supplier Export Classification Request Form（ECCN 申报）；12-04 回收已填表（SUPPLIER NAME Zhengzhou Saga Telecom）",
-    "why": "Saga 已走完 Netaş 正式供应商入库（含国防业务合规附件、出口分类）——这是「深绑定」的制度性证据，不是一次样品单",
-    "k": "gmail_a att 2025-12-02/04"
-   },
-   {
-    "date": "2025-12-03",
-    "dir": "来",
-    "who": "buozdemir@netas.com.tr",
-    "quote": "Hello Alan, Thanks for information, I am sharing the documents. I will inform you if there are any missing items. Could you also send me the dimension",
-    "why": "来信原文（主题「RE: Request for NDA and ECCN form C」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
-    "k": "ec7219c7266d38b6"
-   },
-   {
-    "date": "2025-12-03",
-    "dir": "内",
-    "who": "Saga 填回 Netaş 的出口分类表（PI 包「Netas Info Filled 2025.12.03」）",
-    "quote": "Product Classification Table：STI-488DGGPM-2BT · Industrial Ethernet Switch · Export Classification **EAR99** · License Exception **NLR (No License Required), per EAR §734** · CCATS Not applied · HTS 8517622990 · Country of Origin China。证明句仍是模板原文「I hereby certify that on behalf of (Company Name) JERA ELEKTRONİK TİC. SAN. LTD. ŞTİ.…」，签名 Zhengzhou Saga",
-    "why": "Saga 对 Netaş 的出口管制口径已落字：EAR99 / NLR / 原产中国——以后任何土耳其国防相关客户问 ECCN 就照这个答。瑕疵：certify 句里留着模板上别家供应商 JERA ELEKTRONİK 的名字（邮箱里查无此公司），下次 Netaş 要更新表时把公司名改成 Zhengzhou Saga Telecom",
-    "k": "data/pi_2026-10/text/…20_土耳其_Burak…Netas_-_DRAFT_Supplier_Export_Classification_Request_Form"
-   },
-   {
-    "date": "2025-12-03",
-    "dir": "内",
-    "who": "Netaş《Annex 1 – Additional Protocol on the Protection of Personal Data》（PI 包，8,048 字）",
-    "quote": "executed by NETAŞ TELEKOMÜNİKASYON A.Ş. and Zhengzhou Saga Telecom Co., Ltd. … obligations of the COMPANY regarding personal data in accordance with The Personal Data Protection Law no. 6698 (KVKK) … may not transfer this data to any third parties … or transfer to abroad",
-    "why": "Netaş 供应商包里的 KVKK 个人数据附加协议——Saga 作为境外供应商签了「不得把 Netaş 个人数据转第三方/出境」的义务；意味着 Netaş 项目联系人信息不能进群发名单、不能转给 SmartByte/HRUI（CENTEC 工程对接只给型号与技术问题，不给人名邮箱）",
-    "k": "data/pi_2026-10/text/…20_土耳其_Burak…Annex_1_-_Protection_of_Personal_Data"
-   },
-   {
-    "date": "2025-12-09",
-    "dir": "去",
-    "who": "Saga Quotation_2025.12.09（Alan → Ender Bulut）",
-    "quote": "Price Term: T/T in advance, DAP but without customs clearance；Destination Turkey；STI-488DGGPM-2BT 3 pcs × $150 = $450.0；Freight UPS door-to-door $70.00（4~6 calendar days to local customs）；Bank Cost Standard Charge in EACH Order $25.00；TOTAL $545.00；Remark: Please do make sure client side could handle import customs clearance",
-    "why": "报价单原文 = 后来 PO/付款的 $545 来源；「每单 $25 银行费」与「客户自行清关」是写进单据的标准条款",
-    "k": "gmail_a att Quotation_2025.12.09.pdf"
-   },
-   {
-    "date": "2025-12-09",
-    "dir": "来",
-    "who": "Ender Bulut（Netaş，技术）",
-    "quote": "We would like to request three sample units. Ideally, two of them can be the industrial version and one can be the rugged version… We plan to use these units for our laboratory tests and subsequently for POC activities with our clients… Please disregard my previous note about the rugged version — I mixed up the related solutions. The industrial-grade model is fine for us… Yes, I mean quotation, including product and shipping cost etc.",
-    "why": "3 台样机的用途是「实验室测试 → 客户 POC」，不是自用；Ender 把 rugged（加固）和 industrial 搞混后自行更正——说明 Netaş 内部同时在看别家加固方案；Burak 12-24「The PI is approved… We don't require any logo or anything else at the outset」= 首单中性机",
-    "k": "gmail_a 2025-12-09 / 12-24 RE: Industrial L2/L3 Managed Switch"
-   },
-   {
-    "date": "2025-12-23",
-    "dir": "来",
-    "who": "Burak Özdemir（采购）",
-    "quote": "Please find in the attachment the PO",
-    "why": "PO 落地；12-24「The PI is approved… We don't require any logo」",
-    "k": "575f6cc1f5d1c75d"
-   },
-   {
-    "date": "2025-12-23",
-    "dir": "来",
-    "who": "Netaş PO 2600011146（Buyer Burak Ozdemir, Narflow 2266494）",
-    "quote": "ITEM 00010 QTY 3 ADT Industrial PoE Managed Switch STI-488DGGPM-2BT ECCN:EAR99 Export Licence(Y/N):N DEL.DATE 27.01.2026 U.PRICE 181,66 EXTENSION 544,98 TOTAL (USD) 544,98；交货点 Orhanlı Mah. İrfanlı Cad. 28, Tuzla İstanbul",
-    "why": "正式采购订单（含 ECCN EAR99 申报与交期 2026-01-27）；PO 单价 $181.66 = CI 单价 $150 + UPS 运费 $70/3 + T/T 手续费 $25/3 → 口径：Netaş 的 PO 把运费与银行费摊进单价",
-    "k": "gmail_a att 2600011146_saga.pdf"
-   },
-   {
-    "date": "2025-12-24",
-    "dir": "去",
-    "who": "Saga 商业发票 STAG20251224020",
-    "quote": "PO No. 2600011146；Payment Term: T/T in advance, DAP but without customs clearance；STI-488DGGPM-2BT 3 pcs × $150 = $450.0（Without DI/DO/RS485；-40~+75℃@240W PoE；HS 8517622990；158×115×54mm 1.2/1.4kg）；Freight 70usd for about 5kg volume weight to Turkey by UPS",
-    "why": "成交价锚：STI-488DGGPM-2BT $150/台 DAP（不含清关）+ UPS $70；主表 -2BT 列表价 $154 → 此单约在 30% 档略下",
-    "k": "gmail_a att 0550_001.pdf"
-   },
-   {
-    "date": "2025-12-24",
-    "dir": "去",
-    "who": "Saga 内部（NETAS绑定.docx）",
-    "quote": "你不是从 0 开始绑定，他们已经被动绑定了一大半：NDA / 清关 / 样品测试排期 / 内部评审流程…基于你 PCBA 做测试…CC 多人，你是\"这个型号的来源\"。主动再加：Configuration Control（BOM 冻结、PCB Layout 冻结、SN 规则、固件版本留档、Web UI 截图留档）；和供应商再确认「这个型号已经进了海外大型通信/准军工客户测试流程，Form/Fit/Function 改动提前同步」；MIB / SNMP 是「对，但必须等」——等他们主动问…你绑定 Netas 靠的是\"风险缓冲\"",
-    "why": "Saga 对 Netaş 的绑定策略已成文：配置控制 + 供应商侧锁定 + 不主动推 MIB + 把自己定位成缓冲层。等级「中度」与此一致；下一步动作（2027-01 质保/复购一问）不要违背「不 push 功能」",
-    "k": "Drive PI 文件夹（data/pi_2026-10/text） 20_Burak"
-   },
-   {
-    "date": "2025-12-24",
-    "dir": "去",
-    "who": "Saga 内部（基于Netas的推广计划.docx）",
-    "quote": "第一梯队：Krontech（主攻 CENTEC 高速，「We can provide a testing sample of our 10G/40G switches, already evaluated by a Tier-1 Turkish integrator」）、Karel（老牌军工通信，PoE 大户，「你推了 3 轮，他们已经熟悉你」，低频强存在）；第二梯队：KocSistem、Teknoser、NGN、Tellcom、Berqnet、Probil、Biznet、Havelsan 下游",
-    "why": "Netaş 成单的复利用法 = 土耳其同级集成商背书名单；计划里的 Krontech/Karel/KocSistem 等在客户库里要逐个核对是否建档（多数未建档或在 C）——这是 2027 土耳其线的现成清单，但「already evaluated by a Tier-1 Turkish integrator」不能点名 Netaş（NDA）",
-    "k": "Drive PI 文件夹（data/pi_2026-10/text） 20_Burak"
-   },
-   {
-    "date": "2025-12-24",
-    "dir": "去",
-    "who": "Saga 内部（TR重点公司.xlsx，PI 根目录）",
-    "quote": "1 Krontech 主推 Centec 高速；2 Karel 商业 PoE，用的丰润达的，老牌通信/军工电子厂，国防/政府项目的国产化替代；3 Netaş Ender BULUT 在谈了 L2/L3 Switches 系统集成商，对 CENTEC 接受度也 OK；4 Turkcell 和 Netas 关系紧密 不主动推；5 Vodafone TR 可多介绍与 Netas 的关系，认可 Marvell CENTEC 也能推；6 KocSistem IT 服务商 分销不错；7 Aselsan 军工，Netas 和 Karel 都是它的供应商；8 Havelsan 推数据中心交换机",
-    "why": "Simon 自己的土耳其 8 家重点名单（表内 19 个跟进 sheet 全空 = 还没开始跟）。与客户库冲突：Karel = SC-2557「用户判定不行」，这里却是重点；Turkcell/Aselsan 等未建档。土耳其线开工前先把这 8 家与客户库对齐",
-    "k": "data/pi_2026-10/text/PI__PI__TR重点公司.xlsx"
-   },
-   {
-    "date": "2025-12-24",
-    "dir": "内",
-    "who": "Simon 成本表（PI 包）",
-    "quote": "内部《成本统计.xlsx》：STAG20251224020：成本 2,886 / 收款 3,789 / 利润 904（23.8%）",
-    "why": "利润率 = 利润÷收款；对照 20/25/30 加价 = 16.7%/20%/23% 毛利；详见 docs/成单客户_毛利复盘_内部_2026-10-24.md",
-    "k": "cost_sheet"
-   },
-   {
-    "date": "2026-01-13",
-    "dir": "来",
-    "who": "Burak Özdemir",
-    "quote": "The payment has been made. Could you help me with the delivery of the products?",
-    "why": "3 台样机 $545 付清（A 总览 §3）",
-    "k": "c1778580f27190ae"
-   },
-   {
-    "date": "2026-01-13",
-    "dir": "来",
-    "who": "Garanti BBVA 付款回单（Dekont）",
-    "quote": "İTHALAT BEDELİ TRANSFERİ 13/01/2026 NETAŞ TELEKOMÜNİKASYON A.Ş. → 545,00 USD（TBF ID 26000000620887000006713，DOSYA REF 6003833900604）",
-    "why": "付款证据：$545 到账 2026-01-13（PO 后 21 天）——Netaş 付款周期约 3 周，T/T 预付无拖延",
-    "k": "gmail_a att Dekont-2026-01-13"
-   },
-   {
-    "date": "2026-01-14",
-    "dir": "去",
-    "who": "Alan（A 邮箱）",
-    "quote": "yes, we got the payment. 2, your order is being processed and expected to be ready for shipment next week. As I shared, sample testing MUST last for 5 working days before shipment to ensure stable performance according to our company policy.",
-    "why": "对 Netaş 说明的出货前 5 个工作日老化测试政策——以后交期都要把这 5 天算进去",
-    "k": "gmail_a 917809e3aa72885e"
-   },
-   {
-    "date": "2026-01-15",
-    "dir": "来",
-    "who": "Ender Bulut（Netaş）",
-    "quote": "Once we receive the switches, we will carry out our laboratory tests and then schedule a demo with our customers. If they confirm that the products meet their requirements, we plan to proceed with th[e project]… (2026-02-25) Tomorrow, we will have a meeting with our customer, during which we expect to collect any new requirements and address their questions. We will also provide a short demonstration of your product. At this stage, we do not yet have a defined plan or sol[ution]",
-    "why": "成单后的真实状态：样机在 Netaş 实验室过了，2026-02-26 给其客户做演示，「还没有确定的方案/计划」——此后到 2026-10 没有项目消息（只有季度合规信）。下一步问的就是这次客户演示的后续，不是推新品",
-    "k": "gmail_a 2026-01-15 / 2026-02-25"
-   },
-   {
-    "date": "2026-01-21",
-    "dir": "来",
-    "who": "Ender Bulut",
-    "quote": "IGMPv2, IGMPv3, and IPv4 Multicast (PIM-SM, PIM-DM) specifications are necessary for a Layer-3 switch",
-    "why": "第一次提出组播硬需求",
-    "k": "bbbaee1e4e6d88df"
-   },
-   {
-    "date": "2026-01-21",
-    "dir": "去",
-    "who": "Alan → Ender Bulut",
-    "quote": "1, It is not easy actually, it will take a long while to get it ready! Let's send the samples for testing first. 2, For the CENTEC-based switches, it will be released in Q2. We are still wor[king]…（01-29 → Burak）Our shipping forwarder represents us to handle the shipment, that is why there is a charge item shipping cost. They typically use their own information for customs.",
-    "why": "承诺「CENTEC 系列 Q2 发布」（Q2 价表只有 3 型号有价，承诺只兑现了一半）；「two invoices」疑问的答案 = 货代以自己名义报关（U28 两条物流线）——土耳其合规客户每单都会问，PI 备注里写明",
-    "k": "gmail_a 2026-01-21 / 2026-01-29"
-   },
-   {
-    "date": "2026-01-23",
-    "dir": "去",
-    "who": "UPS 商业发票（发货人 SHENZHEN ZY FF TRADING CO.,LTD / SONG LIANG，宝安福永）",
-    "quote": "Waybill 1Z0E64G86728428159, Shipment ID OE64G8CBSG4, Reason for Export: SAMPLE, SHIP TO Burak Ozdemir NETAS Tuzla；Netaş 01-29 问「invoice from SAGA TELECOM; however… an invoice from SONG LIANG. Why were two different invoices?」",
-    "why": "物流口径：Saga 走深圳货代（SHENZHEN ZY FF TRADING）UPS 直发，货代名出现在报关发票上 → 对合规型客户（Netaş）会引起「两张发票」质询；下次出货前先告知客户货代名称",
-    "k": "gmail_a att ordino ekinde çıkan ft.pdf"
-   },
-   {
-    "date": "2026-01-24",
-    "dir": "去",
-    "who": "Alan（A 邮箱）",
-    "quote": "Hi, Ender, [Google Drive folder]… it will contain information about your EVERY order. 2, please just revise the editor list when necessary. 3, if possible, please upload your testing report (if non-confidential)",
-    "why": "Netaş 专属 Drive 订单文件夹（Ender 为编辑）+ 请对方上传测试报告——跟 Angora / Vi-Link / James 同一套做法",
-    "k": "gmail_a c789901e48963dab"
-   },
-   {
-    "date": "2026-01-27",
-    "dir": "来",
-    "who": "Özlem Şahin（Netaş 物流/清关）",
-    "quote": "We kindly ask you to provide the following information required for customs clearance; Brand: Manufacturer:",
-    "why": "清关要「品牌 + 制造商」两栏——中性机报什么品牌/制造商是每个土耳其订单都会遇到的问题，应在 PI 阶段预先写好（与 Angora TronX 单「buyer's model for customs」同一类）",
-    "k": "gmail_a 2026-01-27 YNT: Industrial L2/L3 Managed Switch"
-   },
-   {
-    "date": "2026-01-29",
-    "dir": "来",
-    "who": "Burak Özdemir",
-    "quote": "The invoice you sent us is from SAGA TELECOM; however… an invoice from SONG LIANG. Why were two different invoices sent?",
-    "why": "报关单据暴露了货代/出口主体与 Saga 不一致——下次出口前统一单据口径（物流两条线，U28）",
-    "k": "2a8ead0c64c4f045"
-   },
-   {
-    "date": "2026-02-06",
-    "dir": "去",
-    "who": "Saga Warranty Certificate（PI STAG20251224020 / PO 2600011146）",
-    "quote": "Model STI-488DGGPM-2BT（箱标误写 STC-488DGGPM-2BT）Serial 202601140001–202601140003, 3 Pieces；Warranty Three (3) years 06 Feb 2026 → 05 Feb 2029；Tracking UPS 1Z0E64G86728428159 DELIVERED；Acceptance: deemed accepted if no written notice of defects within two (2) months",
-    "why": "交付闭环文件：序列号段、3 年保修到 2029-02-05、2 个月验收条款；箱标型号前缀 STC/STI 不一致是文档瑕疵（下次出证前校对）",
-    "k": "gmail_a att Warranty Certificate_STAG20251224020.pdf"
-   },
-   {
-    "date": "2026-02-09",
-    "dir": "去",
-    "who": "Saga（Alan）",
-    "quote": "Hi, Burak, Good to know that the materials have been delivered. Thank you for your efforts along the way. Hi, Ender, 1, I have uploaded the warranty certificate to the drive folder. Please see the attached information. And we updated the product links for 2026/Q2, there will be a new version of feat…",
-    "why": "Saga 实质答复原文（主题「Re: Industrial L2/L3 Managed Switches」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
-    "k": "86c8bd8b1a70cc5d"
-   },
-   {
-    "date": "2026-02-09",
-    "dir": "来",
-    "who": "Netaş 合规部群发（ZTE Chief Export Compliance Officer letter，EN/TR）",
-    "quote": "\"Dear Business Partner, ZTE believes that export compliance is of critical importance to the sustainable development of our partnership…\"；2026-03-02 附 2025-2026 ZTE Export Compliance Policy and Commitment；05-05、08-12 续发",
-    "why": "Netaş = ZTE 控股；Saga 已在其「业务伙伴」合规名单上按季收信 → 供应商身份持续有效；也意味着 Netaş 对供应商有出口管制审查",
-    "k": "gmail_a att 2026-02-09/03-02/05-05/08-12"
-   },
-   {
-    "date": "2026-02-26",
-    "dir": "来",
-    "who": "Ender Bulut",
-    "quote": "Do you have any idea when L3 Multicast PIM-SM and PIM-DM will be ready? Our costumer wants to go with layer-3 solution and must be include PIM-SM and PIM DM",
-    "why": "停点原话",
-    "k": "10e6fdf62c477b46"
-   },
-   {
-    "date": "2026-02-26",
-    "dir": "去",
-    "who": "Saga（Alan）",
-    "quote": "Hi, Ender, Thanks for your information. 1, Please let me know if there is any update. 2, As you see from the roadmap, we are sewing the entire portfolio together, ensuring a coherent evolution from Access to Aggregation & Core. In 2026, our directions will be, *2.1: Improve existing features, OS and…",
-    "why": "Saga 实质答复原文（主题「Re: Industrial L2/L3 Managed Switches」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
-    "k": "73a52f3522d0d516"
-   },
-   {
-    "date": "2026-02-27",
-    "dir": "来",
-    "who": "Ender Bulut",
-    "quote": "For the CENTEC-based solutions, the operating temperature range (0°C to 40°C) does not seem enough… Our requirement is -40°C to +71°C",
-    "why": "CENTEC 替代路线被温度否决",
-    "k": "bbdc059bf34b2fbc"
-   },
-   {
-    "date": "2026-02-27",
-    "dir": "去",
-    "who": "Alan",
-    "quote": "PIM-SM/DM, problem; RIPng/PBR, big problem; IP SLA, problem. It is really hard to move on: R&D, ROI etc.",
-    "why": "Saga 明确划边界（C10）",
-    "k": "7adbcd07a050e85a"
-   },
-   {
-    "date": "2026-02-27",
-    "dir": "来",
-    "who": "Ender Bulut",
-    "quote": "I checked the Realtek-based solutions, the temperature range seems acceptable what do you think about the STI-488XGGPM-2BT, STI-0288XGGPM-2BT and STI-2288XGGGPM-2BT modules? What were the limitations or constraints related to our use of Realtek-based solutions?",
-    "why": "Netaş 从 Drive 看到了 Saga 的 Realtek 工业 L3 表（第四张表）并点名三款；证明这条线对客户可见",
-    "k": "bbdc059bf34b2fbc"
-   },
-   {
-    "date": "2026-02-27",
-    "dir": "去",
-    "who": "Saga（Alan）",
-    "quote": "For Realtek, it is even far from enough, the management functions are even worse than Marvell. What you need is an industrial access switch(L3) with a wide-range temperature range… I am afraid that we have to let it go.",
-    "why": "Saga 自己对 Realtek 工业 L3 的定性——车载 L3（PIM/RIPng/PBR）不能拿它答",
-    "k": "03c82403b3c7d367"
-   },
-   {
-    "date": "2026-03-02",
-    "dir": "来",
-    "who": "Ender Bulut",
-    "quote": "We have left one STI-488DGGGPM-2BT sample with our customer for basic testing… If we receive new requests for Layer-2 switches… we will contact you",
-    "why": "轻度绑定证据 + 复活条件由对方说出",
-    "k": "2b615482de0608a5"
-   },
-   {
-    "date": "2026-03-02",
-    "dir": "去",
-    "who": "Saga（Alan）",
-    "quote": "Hi, Ender, Thanks for your information. 1. For those 3 units, it is Layer 2+, not L3 We can provide L3 models as you may notice from the links. But still PIM-SM/DM and RIPng/PBR are the main issue. It is just NOT available with the current chipset solution. This info can be found in Saga Software Fu…",
-    "why": "Saga 实质答复原文（主题「Re: Industrial L2/L3 Managed Switches」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
-    "k": "812cebfaec6cbb12"
-   },
-   {
-    "date": "2026-07-17",
-    "dir": "去",
-    "who": "Alan",
-    "quote": "We updated our feature list. 1. Our models are now Marvell AC5 based. 2. This update focuses on L2+ features",
-    "why": "最后一次触达，未提 7.5 已有 PIM-SM（对 Go Green IT 7-10 的邮件提了）",
-    "k": "a323d408b374a3d1"
-   },
-   {
-    "date": "2026-08-12",
-    "dir": "来",
-    "who": "compliance@netas.com.tr（季度群发）",
-    "quote": "Q4/2025（02-09）、Q1/2026（05-05）、Q2/2026（08-12）三期《A Letter from Chief Export Compliance Officer to Business Partners》+ 2026-03-02《2025-2026 ZTE 出口管制合规政策与管理承诺》均发到 A 邮箱",
-    "why": "Saga 仍在 Netaş「业务伙伴」合规分发名单上（最近一期 2026-08-12）——供应商账号没有被清理，是被动绑定仍在的硬证据；Netaş 是 ZTE 参股公司，其合规口径跟 ZTE 走：下次报 CENTEC（国产芯片）或任何含美国成分的型号前，ECCN/EAR99 表要和 2025-12 那份一致",
-    "k": "gmail_a 2026-02-09 / 2026-03-02 / 2026-05-05 / 2026-08-12"
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "户外安防 感觉比较专业",
+    "why": "表内备注",
+    "k": "用户表"
    }
   ],
-  "proof_gaps": [
-   "两箱核对完毕（A 箱 20,521 封全入）：Netaş 最早往来 = 2025-10-13 Alan 开发信 → Emre Bulut 当天回「May be Simon has already told you」；S 邮箱 0 封——Simon 与 Emre 的「更早接触」不在邮件里（LinkedIn/展会/电话），仓内无记录，不去猜",
-   "留在客户处那台样机的测试结论（对方未反馈）",
-   "《基于Netas的推广计划》9 家目标中只有 Karel 建档（SC-2557，C 级 = 用户表「用户判定不行」，S 邮箱 2024-07 → 2025-11 去 8 封 0 回）；Krontech / KocSistem / Teknoser / NGN / Tellcom / Berqnet / Probil / Biznet 未建档——土耳其 2027 线开工前要先建档（编号冻结期不新建）"
-  ],
-  "draft_en": {
-   "subject": "Vehicle network L3 requirement — PIM-SM now in firmware 7.5",
-   "body": "Hi, Ender,\n\nIn February we had to say \"problem\" to PIM-SM/DM, RIPng/PBR and IP SLA for the vehicle container network. One of those has moved: PIM-SM is now available in firmware 7.5 (CLI). PIM-DM, RIPng, PBR and IP SLA are still not on the Marvell L3 units, and I will not pretend otherwise. They are all on our CENTEC STOS line (PIM-SM/DM, RIPng, PBR, IP SLA, BFD, VRRP — MS license), but that line is rated 0 to 40 C, so it only fits the container if the cabinet is climate-controlled.\n\nTemperature: the industrial units are rated -40 to +75 C, so your -40 to +71 C spec is covered; the hardened enclosure stays on your side as discussed.\n\nOne question: does your end customer's multicast design actually require PIM-DM, or would PIM-SM be sufficient for the 2-4 switches per vehicle?\n\nThank you.\nAlan\nSaga Telecom - sagatele.com"
-  },
+  "proof_gaps": [],
+  "draft_en": null,
   "as_of": "2026-10-24"
  }
 }

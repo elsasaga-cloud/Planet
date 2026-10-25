@@ -2,141 +2,155 @@
  "code": "SB-949",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "在线（osbornsalessolutions.com，快照 2026-10-21）",
- "summary": "美国 Osborn Sales Solutions（制造商销售代表公司：工业网络、通信、安防；表内「网站上没啥东西 sales 公司」「可以尝试多跟进一下」；KP Kyle Desouza（Managing Partner）、William O（President））；群发 10 次无回复。",
- "type": "制造商销售代表公司（美国，代理性质）",
+ "website_status": "快照失败（unreachable）",
+ "summary": "澳大利亚 KSM（ksm.com.au：工业 MC「很多外壳 有像国内的」、常总的工业 FS、商业 FS、SFP；产品页 industrial-grade-managed-l2-ethernet-switch-l2t4m；KP Kevin（质量高）；官网 unreachable）；群发 22 次无回复。",
+ "type": "工业网络经销商（澳大利亚，国内货源在供）",
  "size": "",
  "brands_seen": [],
  "evidence": [
   {
-   "kind": "官网快照",
-   "claim": "官网标题：Osborn Sales Solutions",
-   "quote": "",
-   "url": "https://www.osbornsalessolutions.com/",
-   "date": "2026-10-21"
-  },
-  {
    "kind": "用户表",
    "claim": "表内兴趣/备注",
-   "quote": "Industrial Networking Communications Security",
+   "quote": "工业MC 很多外壳 有像国内的 常总的工业FS 商业FS SFP；https://www.ksm.com.au/industrial-grade-managed-l2-ethernet-switch-l2t4m",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   },
   {
+   "kind": "官网快照",
+   "claim": "KSM 产品页",
+   "quote": "ksm.com.au/industrial-grade-managed-l2-ethernet-switch-l2t4m",
+   "url": "https://www.ksm.com.au/industrial-grade-managed-l2-ethernet-switch-l2t4m",
+   "date": "2026-10-21"
+  },
+  {
    "kind": "用户表",
-   "claim": "sales 公司 工业网络 通信 安防",
-   "quote": "Industrial Networking Communications Security；网站上没啥东西 sales公司；可以尝试多跟进一下",
+   "claim": "常总的工业 FS",
+   "quote": "工业MC 很多外壳 有像国内的 常总的工业FS 商业FS SFP",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
  "kp": [
   {
-   "name": "Kyle Desouza",
-   "title": "Managing Partner",
-   "email": "sales@osbornsalessolutions.com",
-   "phone": "",
-   "source": "用户表"
-  },
-  {
-   "name": "William O",
-   "title": "President",
-   "email": "bill@osbornsalessolutions.com",
+   "name": "Kevin",
+   "title": "（职务待核）",
+   "email": "kevin@ksm.com.au",
    "phone": "",
    "source": "用户表"
   }
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "美国",
-  "other": "官网 osbornsalessolutions.com，语言 en-US，快照状态 ok；角色判定来源：用户表"
+  "hq": "澳大利亚",
+  "other": "官网 ksm.com.au，语言 ?，快照状态 unreachable；角色判定来源：待核"
  },
  "business_lines": [
-  "制造商销售代表（工业网络 / 通信 / 安防）"
+  "工业网络产品经销（澳大利亚）"
  ],
  "channels": {
-  "role": "制造商销售代表公司（美国，代理性质）",
-  "region": "美国",
-  "contact": "sales@osbornsalessolutions.com、bill@osbornsalessolutions.com"
+  "role": "工业网络经销商（澳大利亚，国内货源在供）",
+  "region": "澳大利亚",
+  "contact": "sales@ksm.com.au、kevin@ksm.com.au"
  },
  "signals": [
-  "表内：Industrial Networking Communications Security；网站上没啥东西 sales 公司；KP Kyle Desouza / Managing Partner；William O / President；可以尝试多跟进一下",
-  "快照：Osborn Sales Solutions（内容空）"
+  "表内：工业 MC 很多外壳 有像国内的 常总的工业 FS 商业 FS SFP；备注 https://www.ksm.com.au/industrial-grade-managed-l2-ethernet-switch-l2t4m；KP Kevin 质量高",
+  "快照：unreachable"
  ],
  "risks": [
-  "代理性质（佣金制，非采购方；合作模式待定）；10 次无回复 → 改向 Managing Partner 具名首触"
+  "非主攻区（T5，澳大利亚；RCM 由客户侧）；已有国内供应商（比价激烈）；官网 unreachable；22 次无回复"
  ],
  "saga_fit": {
   "p1": "STI-280GE",
-  "tier": 25,
-  "why": "代表公司（非直接采购）→ 以代理合作切入：工业 8 GE + 2 SFP 管理 STI-280GE（$48.6 @25%）、工业 8 PoE + 2 SFP STI-288GPM（$82.2）、商用 STC-28DGGPM（$84.1）"
+  "tier": 20,
+  "why": "工业 L2 管理交换机位（现国内货源）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、8 PoE + 2 SFP STI-288GPM（$78.9）、工业千兆 MC STI-110GE（$22.4）"
  },
- "email_hook": "Kyle, as a rep firm covering industrial networking and security, would you consider adding a neutral-brand industrial PoE switch line (DIN-rail 8-GE/8-PoE + 2 SFP, managed versions on a Marvell platform, −40~75 °C, FCC/CE/RoHS, small-lot EXW USD) to your bag — and which territories do you cover?",
+ "email_hook": "Kevin, for the industrial managed switch and MC positions on your site, we supply Marvell-based DIN-rail 8-GE/8-PoE + 2 SFP managed switches and gigabit MCs (−40~75 °C, CE/RoHS) from single units, EXW USD; RCM by your side — which SKU do your Australian customers reorder most?",
  "mail_review": {
   "binding": {
-   "level": "未触达（A/S 邮箱 23 封 2025→2026，无记录打开，0 回；收件 bill@osbornsalessolutions.com, derek@osbornsalessolutions.com；主题多为「Managed Optical Bypass Switch、10G Enterprise SFP Switch」；Elsa 箱：`to:osbornsalessolutions.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 23 / 来 0）（第 74 批(h)））",
-   "type": "制造商销售代表公司（美国，代理性质）",
-   "sieve": "1（只收到群发）",
-   "stop": "23 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
-   "lane": "US 主攻（四主）",
-   "cadence": "一封",
-   "evidence": "gmail_digest：out 23；用户表：「Industrial Networking Communications Security」；研究档 risks：代理性质（佣金制，非采购方；合作模式待定）；10 次无回复 → 改向 Managing Partner 具名首触"
+   "level": "未触达（15 封来信全部是 sales@ksm.com.au 的「please select from one of the options」自动回复；Elsa 箱：`to:ksm.com.au` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 32 / 来 15）（第 74 批(n)））",
+   "type": "澳大利亚工业网络经销（KSM）",
+   "sieve": "0",
+   "stop": "自动回复/机器人，无人工回复",
+   "revive": "不动",
+   "lane": "AU",
+   "cadence": "不动",
+   "evidence": "k=20a1ffdbfe080423 等"
   },
-  "situation": "美国 Osborn Sales Solutions（制造商销售代表公司：工业网络、通信、安防；表内「网站上没啥东西 sales 公司」「可以尝试多跟进一下」；KP Kyle Desouza（Managing Partner）、William O（President））；群发 10 次无回复。",
-  "need": "代表公司（非直接采购）→ 以代理合作切入：工业 8 GE + 2 SFP 管理 STI-280GE（$48.6 @25%）、工业 8 PoE + 2 SFP STI-288GPM（$82.2）、商用 STC-28DGGPM（$84.1）",
-  "breakpoint": "代理性质（佣金制，非采购方；合作模式待定）；10 次无回复 → 改向 Managing Partner 具名首触",
+  "situation": "来信全部为机器回复；无人读信或无人回信。",
+  "need": "—",
+  "breakpoint": "—",
   "saga_now": {
-   "p1": "STI-280GE",
-   "tier": 25,
-   "price": "换人再触锚价 STI-280GE $46 EXW（Saga 2025 Realtek 工业线对外价 $46（非管理工业线不用档位价 ㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-13 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-01-16 $300（48 Port PoE Managed Switch）、2025-09-29 $280（10G Enterprise SFP Switch）",
-   "why": "代表公司（非直接采购）→ 以代理合作切入：工业 8 GE + 2 SFP 管理 STI-280GE（$48.6 @25%）、工业 8 PoE + 2 SFP STI-288GPM（$82.2）、商用 STC-28DGGPM（$84.1）",
+   "p1": "—",
+   "tier": 20,
+   "price": "—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-06-25 $65（10G fiber media converter）、2024-11-22 $300（48 Port PoE Managed Switch）、2024-12-23 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-09-04 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-30 $280（10G Enterprise SFP Switch）",
+   "why": "已打开的主题（1/32 封有打开记录）：「Industrial PoE Switch」(2025-08-12) → 读者兴趣偏「工业」；与 P1 同类，继续",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "2027-Q1（换人后）",
-   "channel": "A 邮箱 → 具名 KP",
-   "action": "换收件人再发一封（第 75 批(w) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用）；代理条款（佣金、无库存义务）是对外承诺，Simon 发前确认）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
-   "one_question": "Kyle, as a rep firm covering industrial networking and security, would you consider adding a neutral-brand industrial PoE switch line (DIN-rail 8-GE/8-PoE + 2 SFP, managed versions on a Marvell platform, −40~75 °C, FCC/CE/RoHS, small-lot EXW USD) to your bag — and which territories do you cover? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity)."
+   "when": "不动",
+   "channel": "—",
+   "action": "—（第 76 批(c) 2026-10-25：0 事实户补时间线事实）",
+   "one_question": ""
   },
   "facts": [
    {
-    "date": "2026-09-09",
+    "date": "2024-06-25",
     "dir": "去",
-    "who": "A/S 群发",
-    "quote": "Managed Optical Bypass Switch、10G Enterprise SFP Switch",
-    "why": "23 封 / 0 次打开 / 0 回｜首封 2025-01-16 → 末封 2026-09-09（23 去 / 0 来）",
-    "k": "gmail_digest"
+    "who": "S 箱（Simon）",
+    "quote": "10G fiber media converter",
+    "why": "首封去信（邮箱索引；去信共 32 封）",
+    "k": "75736e8b4d9ebc48"
    },
    {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "Industrial Networking Communications Security",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2026-09-09",
+    "date": "2026-09-04",
     "dir": "去",
     "who": "A 箱（Alan）",
-    "quote": "16 Port Industrial PoE Switch",
-    "why": "本日去信真实主题（邮箱索引 9c876dbe6b6b8064；信稿开头句引用此封；此前稿内写的「Managed Optical Bypass Switch」是线程列表首题，不是本封）",
-    "k": "9c876dbe6b6b8064"
+    "quote": "24 Port PoE Managed Switch",
+    "why": "最近一封去信（邮箱索引；去信共 32 封）",
+    "k": "44647e08d8340ed5"
+   },
+   {
+    "date": "2024-04-29",
+    "dir": "来",
+    "who": "sales@ksm.com.au",
+    "quote": "Thank you for your email, please select from one of the options below?｜In order to best service your inquiry, please make a selection:   For immediate attention please call reception: 02 8003",
+    "why": "自动分流回复（「please select from one of the options」，机器）",
+    "k": "20a1ffdbfe080423"
+   },
+   {
+    "date": "2024-05-23",
+    "dir": "来",
+    "who": "sales@ksm.com.au",
+    "quote": "Thank you for your email, please select from one of the options below?｜In order to best service your inquiry, please make a selection:   For immediate attention please call reception: 02 8003",
+    "why": "自动分流回复（「please select from one of the options」，机器）",
+    "k": "8c52c7e804df5e5b"
+   },
+   {
+    "date": "2024-06-25",
+    "dir": "来",
+    "who": "sales@ksm.com.au",
+    "quote": "Thank you for your email, please select from one of the options below?｜In order to best service your inquiry, please make a selection:   For immediate attention please call reception: 02 8003",
+    "why": "自动分流回复（「please select from one of the options」，机器）",
+    "k": "c09ebf5a9eef70eb"
+   },
+   {
+    "date": "2024-07-19",
+    "dir": "来",
+    "who": "sales@ksm.com.au",
+    "quote": "Thank you for your email, please select from one of the options below?｜In order to best service your inquiry, please make a selection:   For immediate attention please call reception: 02 8003",
+    "why": "自动分流回复（「please select from one of the options」，机器）",
+    "k": "44c06ef904f344a1"
    }
   ],
   "proof_gaps": [],
-  "draft_en": {
-   "subject": "For a rep firm in industrial networking - a neutral-brand industrial switch line for the bag",
-   "body": "Hi Kyle,\n\nOver the past months you had a few product mails from us - most recently \"16 Port Industrial PoE Switch\" on 9 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nYou represent manufacturers in industrial networking and security; we build industrial switches in Shenzhen and have no US representation. The line, neutral-brand, -40 to 75 C, FCC/CE/RoHS, small lots, EXW USD, 15-day validity: DIN-rail 8 x Gigabit + 2 x SFP unmanaged - model STI-280GE - $46; 8 x Gigabit PoE+ + 2 x SFP, L2 managed, Marvell-based - STI-288GPM - $82.2; commercial 8 x PoE+ + 2 x SFP L2+ - STC-28DGGPM - $84.1. Rep terms: commission on invoiced sales in your territory, no stock obligation.\n\nOne question: which territories do you cover, and would an industrial switch line fit next to what you already carry?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
-  },
+  "draft_en": null,
   "as_of": "2026-10-24"
  }
 }

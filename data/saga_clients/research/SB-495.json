@@ -1,143 +1,234 @@
 {
- "code": "SB-495",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（elprotech.com，快照 2026-10-21）",
- "summary": "澳大利亚 ELPRO Technologies（elpro.com.au：35 年以上工业无线通信与 I/O 连接（远程站点）；表内「白色外壳 自己的 logo 工业 FS，工业控制」「可以多跟进一下」；KP Harry Courtice（Engineering Manager）、Karen McLauchlan（Production Manager））；群发 22 次无回复。",
- "type": "工业无线厂商（澳大利亚，自有标工业 FS）",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：Industrial Wireless Communication & Control Systems；品类词 工业自动化 / OT 网络 / 无线 / WiFi / 布线 / 线缆 / 网络交换 / PoE",
-   "quote": "Secure industrial wireless and I/O connectivity. We have been connecting remote sites in challenging environments for over 35 years.",
-   "url": "https://elprotech.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "白色外壳 自己的logo 工业FS 工业控制",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "ELPRO 定位",
-   "quote": "Industrial Wireless Communication & Control Systems ; Secure industrial wireless and I/O connectivity. We have been connecting remote sites in challenging environments for over 35 years.",
-   "url": "https://elprotech.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "白色外壳 自己的 logo 工业 FS",
-   "quote": "白色外壳 自己的logo 工业FS 工业控制；可以多跟进一下",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Harry Courtice",
-   "title": "Engineering Manager",
-   "email": "harry.courtice@elpro.com.au",
-   "phone": "",
-   "source": "用户表"
-  },
-  {
-   "name": "Karen McLauchlan",
-   "title": "Production Manager",
-   "email": "",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "澳大利亚",
-  "other": "官网 elprotech.com，语言 en-US，快照状态 ok；角色判定来源：用户表"
- },
- "business_lines": [
-  "工业无线通信 / I/O（自有品牌 ELPRO）",
-  "配套工业以太网交换机"
- ],
- "channels": {
-  "role": "工业无线厂商（澳大利亚，自有标工业 FS）",
-  "region": "澳大利亚",
-  "contact": "sales@elprotech.com、harry.courtice@elpro.com.au"
- },
- "signals": [
-  "官网：Secure industrial wireless and I/O connectivity. We have been connecting remote sites in challenging environments for over 35 years；页面 /products/、/shop-2/；kw ethernet 83 / wireless 85 / industrial 19",
-  "表内：白色外壳 自己的 logo 工业 FS 工业控制；可以多跟进一下；KP Harry Courtice / Engineering Manager；Karen McLauchlan / Production Manager"
- ],
- "risks": [
-  "非主攻区（T5，澳大利亚）；白色外壳定制需起订量；RCM 由客户申报",
-  "22 次无回复 → 改向 Engineering Manager 具名首触"
- ],
- "saga_fit": {
-  "p1": "STI-288GPM",
-  "tier": 30,
-  "why": "自有 logo 白色外壳工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ 非 PoE STI-280GE（$50.5）定制外壳颜色（起订量另议）"
- },
- "email_hook": "Harry, for the ELPRO-branded industrial Ethernet switches that accompany your wireless I/O range, we can supply Marvell-based DIN-rail 8-GE/8-PoE + 2 SFP managed units in your white housing and label from small lots (−40~75 °C, CE/RoHS; RCM by your side) — which configuration do your remote-site kits use most?",
- "mail_review": {
-  "binding": {
-   "level": "读而不回（A/S 邮箱 31 封 2024→2026，其中 3 封被打开，0 回；收件 harry.courtice@elpro.com.au, karen.mclauchlan@elprotech.com；被打开主题「Managed Optical Bypass Switch、10G Enterprise SFP Switch」；Elsa 箱：`to:elprotech.com OR to:elpro.com.au` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 31 / 来 0）（第 74 批(n)））",
-   "type": "工业无线厂商（澳大利亚，自有标工业 FS）",
-   "sieve": "2（有人在读，无人回）",
-   "stop": "读而不回 = 内容未命中或没有当下需求",
-   "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
-   "lane": "澳大利亚 非主攻",
-   "cadence": "一封；回了再说",
-   "evidence": "gmail_digest：out 31，Opened 标签 3（Simon 群发追踪）；用户表：「白色外壳 自己的logo 工业FS 工业控制」；研究档 risks：非主攻区（T5，澳大利亚）；白色外壳定制需起订量；RCM 由客户申报"
-  },
-  "situation": "澳大利亚 ELPRO Technologies（elpro.com.au：35 年以上工业无线通信与 I/O 连接（远程站点）；表内「白色外壳 自己的 logo 工业 FS，工业控制」「可以多跟进一下」；KP Harry Courtice（Engineering Manager）、Karen McLauchlan（Production Manager））；群发 22 次无回复。",
-  "need": "自有 logo 白色外壳工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ 非 PoE STI-280GE（$50.5）定制外壳颜色（起订量另议）",
-  "breakpoint": "非主攻区（T5，澳大利亚）；白色外壳定制需起订量；RCM 由客户申报",
-  "saga_now": {
-   "p1": "STI-288GPM",
-   "tier": 30,
-   "price": "首触锚价 STI-288GPM $85.5 EXW（主表档位（PDF 上限 $88；SA-026 2025-07 实报 $72 为分销量价）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-10-23 $65（10G Media Converter）、2024-12-24 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-09-03 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-10 $240（24 Port Fiber Switch）、2025-10-01 $280（10G Enterprise SFP Switch）",
-   "why": "自有 logo 白色外壳工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ 非 PoE STI-280GE（$50.5）定制外壳颜色（起订量另议）。已打开的主题（3/31 封有打开记录）：「Commercial PoE Switch」(2025-04-30)、「Marvell Industrial Alert System」(2025-07-08)、「24 Port PoE Managed Switch」(2026-09-03) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q3(2026-07-17)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "2026-11",
-   "channel": "A 邮箱 → harry.courtice@elpro.com.au",
-   "action": "短信一问（email_hook）",
-   "one_question": "Harry, for the ELPRO-branded industrial Ethernet switches that accompany your wireless I/O range, we can supply Marvell-based DIN-rail 8-GE/8-PoE + 2 SFP managed units in your white housing and label from small lots (−40~75 °C, CE/RoHS; RCM by your side) — which configuration do your remote-site kits use most? Reference: STI-288GPM at $85.5 USD EXW (MOQ 1, 15-day validity)."
-  },
-  "facts": [
-   {
-    "date": "2026-09-03",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "Managed Optical Bypass Switch、10G Enterprise SFP Switch",
-    "why": "31 封 / 3 次打开 / 0 回｜首封 2024-06-24 → 末封 2026-09-03（31 去 / 0 来）",
-    "k": "gmail_digest"
-   },
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "白色外壳 自己的logo 工业FS 工业控制",
-    "why": "表内备注",
-    "k": "用户表"
-   }
+  "code": "SB-495",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（topnetdistribution.com，快照 2026-10-21）",
+  "summary": "阿联酋 Topnet Distribution（ICT 分销：经 SI / 电信安装商 / VAR 落地项目；产品含工业光纤交换机（B+B）、MC、PoE、数据中心；表内「分销很多牌子（三旺、Nsgate）」；KP Kandasamy Ganesan（Managing Director，ganesan@）、Athira Babu（Sales Engineer））；群发 2 次无回复。",
+  "type": "ICT 分销商（阿联酋，3onedata / Nsgate / B+B 工业线）",
+  "size": "",
+  "brands_seen": [
+    "3onedata",
+    "Nsgate",
+    "B+B SmartWorx"
   ],
-  "proof_gaps": [],
-  "draft_en": {
-   "subject": "One question — Managed Optical Bypass Switch",
-   "body": "Hi Harry,\n\nWe have sent you a few mails on \"Managed Optical Bypass Switch\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor the ELPRO-branded industrial Ethernet switches that accompany your wireless I/O range, we can supply Marvell-based DIN-rail 8-GE/8-PoE + 2 SFP managed units in your white housing and label from small lots (−40~75 °C, CE/RoHS; RCM by your side) — which configuration do your remote-site kits use most?\n\nReference price: DIN-rail 8-PoE + 2 SFP L2 managed industrial switch, 240 W (STI-288GPM) $85.5 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：Topnet Distribution | information and communication technology；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 无线 / WiFi / 数据中心 / 企业 IT / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
+      "quote": "We work through systems integrator, telecom installers and value added re sellers who work with the end users to implement projects in the information and communication technology industry.",
+      "url": "https://www.topnetdistribution.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "分销商 3旺等；分销很多牌子（3旺、Nsgate）",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "经 SI/安装商/VAR 的 ICT 分销",
+      "quote": "We work through systems integrator, telecom installers and value added re sellers who work with the end users to implement projects in the information and communication technology industry.",
+      "url": "https://www.topnetdistribution.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "分销很多牌子（三旺、Nsgate）",
+      "quote": "分销商 3旺等 / 分销很多牌子（3旺、Nsgate）",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [
+    {
+      "name": "Kandasamy Ganesan",
+      "title": "Managing Director",
+      "email": "ganesan@topnet.ae",
+      "phone": "",
+      "source": "用户表"
+    },
+    {
+      "name": "Athira Babu",
+      "title": "Sales Engineer",
+      "email": "",
+      "phone": "",
+      "source": "用户表"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
   },
-  "as_of": "2026-10-24"
- }
+  "company_facts": {
+    "hq": "阿联酋",
+    "other": "官网 topnetdistribution.com，语言 en-US，快照状态 ok；角色判定来源：用户表"
+  },
+  "business_lines": [
+    "ICT 分销（工业光纤交换机 / MC / PoE / 数据中心 / 无线）"
+  ],
+  "channels": {
+    "role": "ICT 分销商（阿联酋，3onedata / Nsgate / B+B 工业线）",
+    "region": "阿联酋",
+    "contact": "info@topnet.ae、ganesan@topnet.ae"
+  },
+  "signals": [
+    "官网：We work through systems integrator, telecom installers and value added re sellers",
+    "栏目 /products/fiber-optics/industrial-fo-switches/b-b/、/media-converters-3/、/power-over-ethernet-2/",
+    "KP：Kandasamy Ganesan / Managing Director；Athira Babu / Sales Engineer（表内）"
+  ],
+  "risks": [
+    "非主攻区（T5，阿联酋）",
+    "多品牌分销（含 3onedata 低价基准）：白牌同质化；2 次无回复"
+  ],
+  "saga_fit": {
+    "p1": "STI-288GPM",
+    "tier": 20,
+    "why": "在售 3onedata / Nsgate 工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-288GP 同口型替换；MC 位 STI-110GE"
+  },
+  "email_hook": "Mr. Ganesan, alongside the 3onedata and Nsgate industrial switches you distribute, we supply DIN-rail 8-PoE + 2 SFP managed (Marvell L2+) or unmanaged units and gigabit media converters (−40~75 °C, neutral packing) from small lots, EXW — which industrial model moves most through your SI partners?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A 邮箱 12 封 2025→2026，无记录打开，0 回；收件 athira@topnet.ae, ganesan@topnet.ae；主题多为「Industrial PoE Switch、10G Enterprise SFP Switch」）；Elsa 群发 BCC 已触达 10 轮 2025-03-14→2026-08-19（锚 To mail@techzoneme.com 10 轮 2025-03-14→2026-08-19；本户在 Bcc；主题 Updated Ethernet Switches Links、Marvell Managed Commercial Switches、10G Enterprise SFP Switch、24 Port PoE Managed Switch…；0 回（Elsa 箱 Replied 索引 + 第 73 批真人来信逐户比对均无此户）；S/A digest 看不到 Elsa 的去信，之前据此写的「未触达」是 S/A 口径）（第 74 批(n) `from:e.sagatelecom to:topnetdistribution.com OR to:topnet.ae` 全程 complete：命中 10 行、To 均为锚地址 ⇒ 本户在锚的 Bcc 名单）",
+      "type": "ICT 分销商（阿联酋，3onedata / Nsgate / B+B 工业线）",
+      "sieve": "1（只收到群发）",
+      "stop": "12 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+      "revive": "保持季度群发到 2027-Q1；无打开即停",
+      "lane": "阿联酋 非主攻",
+      "cadence": "季度",
+      "evidence": "gmail_digest：out 12；用户表：「分销商 3旺等；分销很多牌子（3旺、Nsgate）」；研究档 risks：非主攻区（T5，阿联酋）"
+    },
+    "situation": "阿联酋 Topnet Distribution（ICT 分销：经 SI / 电信安装商 / VAR 落地项目；产品含工业光纤交换机（B+B）、MC、PoE、数据中心；表内「分销很多牌子（三旺、Nsgate）」；KP Kandasamy Ganesan（Managing Director，ganesan@）、Athira Babu（Sales Engineer））；群发 2 次无回复。",
+    "need": "在售 3onedata / Nsgate 工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-288GP 同口型替换；MC 位 STI-110GE",
+    "breakpoint": "非主攻区（T5，阿联酋）",
+    "saga_now": {
+      "p1": "STI-288GPM",
+      "tier": 20,
+      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-21 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-27 $280（10G Enterprise SFP Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-04-22 $65（10G Media Converter = 10G 媒体转换器，Elsa 箱 1 轮 2025-04-22；Simon 实报就是 $65）；2026-05-16 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2026-05-16；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-08-19 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-19；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
+      "why": "在售 3onedata / Nsgate 工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-288GP 同口型替换；MC 位 STI-110GE",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "群发节奏",
+      "channel": "A 邮箱",
+      "action": "首封前知悉：Elsa 群发 BCC 已触达 10 轮（2025-03-14→2026-08-19，锚 To mail@techzoneme.com，0 回）（第 74 批(n)）；观察打开",
+      "one_question": "Mr. Ganesan, alongside the 3onedata and Nsgate industrial switches you distribute, we supply DIN-rail 8-PoE + 2 SFP managed (Marvell L2+) or unmanaged units and gigabit media converters (−40~75 °C, neutral packing) from small lots, EXW — which industrial model moves most through your SI partners?"
+    },
+    "facts": [
+      {
+        "date": "2025-03-14",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To mail@techzoneme.com）",
+        "quote": "8 Port Industrial PoE Switch（Elsa 群发第 1/10 轮；本户在 Bcc，锚 To mail@techzoneme.com）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:topnetdistribution.com OR to:topnet.ae` 命中行 To=mail@techzoneme.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+        "k": "elsa_bcc",
+        "msg_id": "19593586b3b65bc6"
+      },
+      {
+        "date": "2025-04-22",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To mail@techzoneme.com）",
+        "quote": "10G Media Converter（Elsa 群发第 2/10 轮；本户在 Bcc，锚 To mail@techzoneme.com；正文价 65usd/pc，第 74 批(p) 读稿 msg 19501dcc2221e96f）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:topnetdistribution.com OR to:topnet.ae` 命中行 To=mail@techzoneme.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+        "k": "elsa_bcc",
+        "msg_id": "1965cd539d995bd2"
+      },
+      {
+        "date": "2025-05-19",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To mail@techzoneme.com）",
+        "quote": "Commercial PoE Switch（Elsa 群发第 3/10 轮；本户在 Bcc，锚 To mail@techzoneme.com）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:topnetdistribution.com OR to:topnet.ae` 命中行 To=mail@techzoneme.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+        "k": "elsa_bcc",
+        "msg_id": "196e7d333c363476"
+      },
+      {
+        "date": "2025-06-19",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To mail@techzoneme.com）",
+        "quote": "16 Port Ethernet Switch（Elsa 群发第 4/10 轮；本户在 Bcc，锚 To mail@techzoneme.com）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:topnetdistribution.com OR to:topnet.ae` 命中行 To=mail@techzoneme.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+        "k": "elsa_bcc",
+        "msg_id": "1978731d755d376a"
+      },
+      {
+        "date": "2025-07-19",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To mail@techzoneme.com）",
+        "quote": "Industrial PoE Switch（Elsa 群发第 5/10 轮；本户在 Bcc，锚 To mail@techzoneme.com）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:topnetdistribution.com OR to:topnet.ae` 命中行 To=mail@techzoneme.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+        "k": "elsa_bcc",
+        "msg_id": "19821de669457e56"
+      },
+      {
+        "date": "2025-11-06",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To mail@techzoneme.com）",
+        "quote": "Industrial PoE Switch（Elsa 群发第 6/10 轮；本户在 Bcc，锚 To mail@techzoneme.com）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:topnetdistribution.com OR to:topnet.ae` 命中行 To=mail@techzoneme.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+        "k": "elsa_bcc",
+        "msg_id": "19a57d4426a7fd89"
+      },
+      {
+        "date": "2026-03-10",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To mail@techzoneme.com）",
+        "quote": "Updated Ethernet Switches Links（Elsa 群发第 7/10 轮；本户在 Bcc，锚 To mail@techzoneme.com）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:topnetdistribution.com OR to:topnet.ae` 命中行 To=mail@techzoneme.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+        "k": "elsa_bcc",
+        "msg_id": "19cd6a9d22c40df9"
+      },
+      {
+        "date": "2026-04-13",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To mail@techzoneme.com）",
+        "quote": "Marvell Managed Commercial Switches（Elsa 群发第 8/10 轮；本户在 Bcc，锚 To mail@techzoneme.com）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:topnetdistribution.com OR to:topnet.ae` 命中行 To=mail@techzoneme.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+        "k": "elsa_bcc",
+        "msg_id": "19d863f78ea1f42b"
+      },
+      {
+        "date": "2026-05-16",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To mail@techzoneme.com）",
+        "quote": "10G Enterprise SFP Switch（Elsa 群发第 9/10 轮；本户在 Bcc，锚 To mail@techzoneme.com；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:topnetdistribution.com OR to:topnet.ae` 命中行 To=mail@techzoneme.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+        "k": "elsa_bcc",
+        "msg_id": "19e2fe816657562c"
+      },
+      {
+        "date": "2026-08-19",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To mail@techzoneme.com）",
+        "quote": "24 Port PoE Managed Switch（Elsa 群发第 10/10 轮；本户在 Bcc，锚 To mail@techzoneme.com；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:topnetdistribution.com OR to:topnet.ae` 命中行 To=mail@techzoneme.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+        "k": "elsa_bcc",
+        "msg_id": "1a019368be177be6"
+      },
+      {
+        "date": "2026-10-01",
+        "dir": "去",
+        "who": "A 群发",
+        "quote": "Industrial PoE Switch、10G Enterprise SFP Switch",
+        "why": "12 封 / 0 次打开 / 0 回｜首封 2025-09-22 → 末封 2026-10-01（12 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "分销商 3旺等；分销很多牌子（3旺、Nsgate）",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

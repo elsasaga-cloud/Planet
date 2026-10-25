@@ -1,219 +1,305 @@
 {
   "code": "SB-164",
-  "name_official": "TESCOM Company Limited（坦桑尼亚）",
+  "name_official": "",
   "researched_at": "2026-10-21",
-  "website_status": "在线（tescom.co.tz，快照 2026-10-21）",
-  "summary": "坦桑尼亚 ICT 服务与安防设备安装 / 办公设备供应商（Mossad Masheu；+255 712 565 698），询盘表来源，需求 1 光 2 电千兆 MC；WA 1 次无实质回复。",
-  "type": "",
+  "website_status": "在线（unea-x.com，快照 2026-10-21）",
+  "summary": "日本 UNEAX 株式会社（高速存储、通信、IoT 方案、精密金属加工；站内 /switch/ 产品页；表内「工业 switch 国内的外壳」）；表内 2 次跟进无回复。",
+  "type": "IT/工业产品贸易商（日本，工业 switch 现国内货）",
   "size": "",
   "brands_seen": [],
   "evidence": [
     {
       "kind": "官网快照",
-      "claim": "服务：ICT 服务、安防设备安装、办公设备供应；+255 712 565698",
-      "quote": "ICT Services Installations of Security Equipment Supply of Off[ice]… +255 712 565698",
-      "url": "https://tescom.co.tz/",
+      "claim": "官网标题：UNEAX株式会社 | ビジネスを加速させるリーディングカンパニー",
+      "quote": "未来をつくるテクノロジーで、あなたのビジネスに革命を。高速ストレージ、信頼性のある通信、先進のIoTソリューション、精密金属加工。お客様の問題を定義し、解決へと導きます。詳細はお気軽にお問い合わせください。",
+      "url": "https://unea-x.com/",
       "date": "2026-10-21"
     },
     {
       "kind": "用户表",
-      "claim": "MC 1 光 2 电千兆",
-      "quote": "兴趣：MC1光2电千兆",
+      "claim": "表内兴趣/备注",
+      "quote": "工业switch 国内的外壳",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：UNEAX株式会社 | ビジネスを加速させるリーディングカンパニー；品类词 网络交换 / PoE",
+      "quote": "未来をつくるテクノロジーで、あなたのビジネスに革命を。高速ストレージ、信頼性のある通信、先進のIoTソリューション、精密金属加工。お客様の問題を定義し、解決へと導きます。詳細はお気軽にお問い合わせください。",
+      "url": "https://unea-x.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "UNEAX 定位",
+      "quote": "UNEAX株式会社 ; 高速ストレージ、信頼性のある通信、先進のIoTソリューション、精密金属加工 ; /switch/",
+      "url": "https://unea-x.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "工业 switch 国内的外壳",
+      "quote": "工业switch 国内的外壳",
       "url": "（本地 Clients/ 表格，无公开 URL）",
       "date": "2026-10-21"
     }
   ],
   "kp": [
     {
-      "name": "Mossad Masheu",
-      "title": "（表内联系人）",
-      "email": "samuisso@tescom.co.tz",
-      "phone": "+255 712 565 698",
-      "source": "（本地 Clients/ 表格，无公开 URL）"
+      "name": "Ryosuke Osako（大迫）",
+      "role": "首位联系人（2026-04-22 来问看门狗 PoE、要样；签名 UNEAX株式会社 大迫）",
+      "email": "ryosuke.osako@unea-x.com",
+      "phone": "",
+      "source": "A 邮箱签名 k=01650dadfc0d13bc / 044e800de1232d47"
+    },
+    {
+      "name": "Mari Inoue（井上）",
+      "role": "技术/合规对接（2026-05-01 起 17 问、PSE 电源、Alibaba 采购问题；大迫 04-28「discuss this with Inoue at CC」）",
+      "email": "inoue.mari@unea-x.com",
+      "phone": "",
+      "source": "A 邮箱签名（2026-05-01 → 05-08 来信 6 封）"
     }
   ],
   "grade_override": null,
   "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
   "deep": {
     "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（官网快照 + 表内）"
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
   },
   "company_facts": {
-    "legal_name": "TESCOM Company Limited",
-    "founded": "",
-    "hq": "Tanzania",
-    "size": "小型 ICT / 安防服务商",
-    "other": ""
+    "hq": "日本",
+    "other": "官网 unea-x.com，语言 ja，快照状态 ok；角色判定来源：官网文案"
   },
   "business_lines": [
-    "ICT 服务 / 安防安装 / 办公设备"
+    "存储 / 通信 / IoT / 金属加工（日本）"
   ],
   "channels": {
-    "role": "安装 / 服务商",
-    "region": "坦桑尼亚"
+    "role": "IT/工业产品贸易商（日本，工业 switch 现国内货）",
+    "region": "日本",
+    "contact": "info@unea-x.com"
   },
   "signals": [
-    "明确口型 1 光 2 电千兆 MC"
+    "官网：UNEAX株式会社 | ビジネスを加速させるリーディングカンパニー ; 高速ストレージ、信頼性のある通信、先進のIoTソリューション、精密金属加工；页面 /switch/、/products/",
+    "表内：工业 switch 国内的外壳"
   ],
   "risks": [
-    "东非付款 T/T 预付；小量"
+    "非主攻区（T5，日本；PSE/VCCI 由客户侧）；现供国内货价格基准低；2 次无回复，仅 info@"
   ],
   "saga_fit": {
-    "p1": "STI-110GE",
+    "p1": "STI-280GE",
     "tier": 25,
-    "why": "1 光 2 电千兆 MC：Saga 价目为 1 光 1 电 STI-110GE（$23.4 @25%）；1 光 2 电按 SmartByte LT-IMC 型号另询并注明。"
+    "why": "工业 switch（现国内外壳）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$48.6 @25%）、8 PoE + 2 SFP STI-288GPM（$82.2）、5 GE STI-050GE（$17.8）"
   },
-  "email_hook": "Mossad, for the 1-fibre + 2-copper gigabit converter — do you need both copper ports active at once (a mini switch) or one as backup? I'll quote the right unit, from 1 pc.",
+  "email_hook": "For the industrial switches on your /switch/ page, we supply DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP units (−40~75 °C, CE/RoHS; neutral packing; managed versions on a Marvell platform) from single units, EXW USD — which configuration do your Japanese customers order most?",
   "mail_review": {
     "binding": {
-      "level": "轻度触达（Elsa 邮箱 2025-10-01 samuisso@tescom.co.tz 回「you have only 24 port and how many types of switch you have」——那封信是 unilink 锚轮的群发，samuisso@tescom.co.tz 在 Bcc 名单里（第 74 批(m) 头 msg 1999e5b2e63ea7b6 核对），不是转发；回信后 Elsa 把他从 Bcc 名单剔出（2026-08-13 头 msg 19ffadf35e0679b0 已无此址）、转入 1:1 名单；S/A 邮箱 0 封）；补核（第 73 批）：Elsa 当天回 5 张照片 + 反问，无型号无价，之后无回；补核（第 73 批）：08-23 第一问无人答，10-01 第二问只得照片 → 两次都没拿到型号/价；Elsa 1:1 去信 6 轮 2025-12-03→2026-08-04（To 仅本户 samuisso@tescom.co.tz；头 msg 19fcc807ba11176c 核对无 Bcc，称呼「Hi, Mr.Mossad」= 个性化逐月 1:1 名单；主题 Updated Ethernet Switches Links、Industrial PoE Switch、10G Enterprise SFP Switch、24 Port PoE Managed Switch…；客户来过信：Elsa 回 2025-08-26 Re:「24 Port Fiber Switch」、2025-10-01 Re:「10G Enterprise SFP Switch」；此前经 锚 sales@unilinkcommunication.com 的 Bcc 收到 7 轮（2025-03-07→2025-10-01）→ 回信后被 Elsa 从 Bcc 名单剔出、转入 1:1 名单）（第 74 批(m) `from:e.sagatelecom to:` 全程 complete，直收 8 条）；Elsa 群发 BCC 已触达 2025-10-01「10G Enterprise SFP Switch」（正文「Price: 280usd/pc」，第 74 批(p) 读稿），BE/NZ/BG/TR/IE/MD/RO+非洲散户 批次 To sales@unilinkcommunication.com，0 回（第 74 批 Bcc 头核对 msg 1999e5b2e63ea7b6）",
-      "type": "—",
-      "sieve": "—（未入筛）",
-      "stop": "从未触达",
-      "revive": "一封目录信（8/16/24/48 口 + 工业款）即可；不追",
-      "lane": "坦桑尼亚 非主攻",
-      "cadence": "不动",
-      "evidence": "gmail_digest：out 0；用户表：「兴趣：MC1光2电千兆」；研究档 risks：东非付款 T/T 预付；小量；Elsa 邮箱 `data/gmail_e/text/`（Replied 线程，客户→Elsa 正文；Elsa 回复正文未入库）；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To sales@unilinkcommunication.com）本户见于 2025-10-01 名单；2026-08-13 最新一轮名单已不含此地址 → 中途被剔除（退信 / 退订 / 手工）；该批次最早 2025-02-15 起共 14 轮，更早轮次 Bcc 未读"
+      "level": "未绑定（询问阶段；Alan 2026-04-24 已允诺**免费借样**测试「lending a piece is OK… how will you send it back?」，对方未接、未给中国货代地址）；Elsa 1:1 去信 2 轮 2025-05-02→2025-06-23（To 仅本户 info@unea-x.com；头 msg 1979adf13b0bbff3 核对无 Bcc，称呼「Hi,」= 无称呼逐月单发名单；主题 Mini Industrial PoE Switch、16 Port Ethernet Switch；0 回（Elsa 箱 Replied 索引 + 第 73 批真人来信逐户比对均无此户））（第 74 批(n) `from:e.sagatelecom to:unea-x.com` 全程 complete，直收 2 条、无 Re: 行）",
+      "type": "日本商社/集成商 UNEAX（技术 + 合规流：看门狗、VCCI/JIS 认证、PSE 电源、Alibaba 采购可能性）",
+      "sieve": "2（细读规格、提问清单；未进 Template）",
+      "stop": "日本合规：EMC 要 VCCI 认可实验室报告、JIS C 62368-1、PSE 电源；成本：MEAN WELL 太贵要 Plan B；采购习惯：问能否从 Alibaba 买「Made in China」",
+      "revive": "他们的看门狗 PoE 项目选型落地且接受「认证自担 + MEAN WELL PSE 桌面电源」；Alan 2026-09-14 推 16 口 DIN PoE 无回",
+      "lane": "JP 部分（PSE 电源有 MEAN WELL GST 系列；VCCI/JIS 报告 Saga 无，需客户自担）",
+      "cadence": "最后 2026-09-14 Alan 推送（无回）；实质往来 2026-04-22 → 05-08，10 封来信两周内",
+      "evidence": "A 邮箱 k=01650dadfc0d13bc / b1cd35734a880b12 / 18a11c4b61a88233 / d591c419c309c81c / 3ee1098f834e6f04；A 邮箱附件正文 `data/gmail_a/attachments/text/`（2026-10-24 对表）；A 邮箱外发报价单正文（`data/gmail_a/attachments/text/`，2026-10-24 对表）；第 19 批回补来信原文 2 条（gmail_s/gmail_a）"
     },
-    "situation": "坦桑尼亚 ICT 服务与安防设备安装 / 办公设备供应商（Mossad Masheu；+255 712 565 698），询盘表来源，需求 1 光 2 电千兆 MC；WA 1 次无实质回复。",
-    "need": "1 光 2 电千兆 MC：Saga 价目为 1 光 1 电 STI-110GE（$23.4 @25%）；1 光 2 电按 SmartByte LT-IMC 型号另询并注明。",
-    "breakpoint": "东非付款 T/T 预付；小量",
+    "situation": "UNEAX（大迫 Osako、井上 Inoue）2026-04-22 回群发问「PoE Switch with Watchdog」能否借样；4-24 要公司概况与看门狗产品销售业绩；4-30 要 JIS C 62368-1 / EN 55032/55024 或 VCCI / RoHS 报告；5-04 问能否从 Alibaba 买；5-05 问 4 口机标签英文/无 logo（Alan：英文、中性）；5-06 电源 Plan B（现用 48V/2A ¥1,100）、租样多久；5-08 问推荐电源是否 PSE。Alan 的回答构成了 Saga「日本问法」的标准答案（摘读 D 系列引用）：只推 MEAN WELL、GST120/240/280A48 桌面型有 PSE、DIN 型 NDR 无 PSE。此后对方沉默。",
+    "need": "带 PoE 看门狗的小口数 PoE 交换机（4 口起）+ 日本可用电源（PSE）+ 日本合规报告；低成本优先（电源 ¥1,100 级）。",
+    "breakpoint": "合规与成本双重：Saga 不做 VCCI/JIS（认证自担，INH 规则），电源只认 MEAN WELL（GST 桌面型有 PSE、NDR DIN 型无）；对方「Alibaba 采购」的问法说明预算与渠道偏低端。最后一封是 2026-05-08 Alan 答完 PSE 并让对方「把问题攒一起问」——此后 UNEAX 零来信，09-14 单推 16 口 DIN PoE 也无回。",
     "saga_now": {
-      "p1": "STI-110GE",
+      "p1": "STI-140GE/STI-244DGGPM 级 4–8 口 DIN PoE 看门狗机 + MEAN WELL GST120A48-P1M（PSE）",
       "tier": 25,
-      "price": "再触锚价 STI-110GE $26.5（最近实报；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-05-11 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 2 轮 2025-10-01→2026-05-11；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-08-04 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-04；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
-      "why": "1 光 2 电千兆 MC：Saga 价目为 1 光 1 电 STI-110GE（$23.4 @25%）；1 光 2 电按 SmartByte LT-IMC 型号另询并注明。",
+      "price": "按 CNY ×1.25 ÷ 汇率快照另写；电源按 MEAN WELL 市价；群发里他已看到的价（续，第 66 批全量复核）：2025-10-08 $280（10G Enterprise SFP Switch）",
+      "why": "集成商 25% 档；若成，日本通路（PSE 电源 + 中性英文标签）就打通了（C7）。已打开的主题（9/18 封有打开记录）：「Re: Marvell Managed Commercial Switche」(2026-05-04)、「Re: Marvell Managed Commercial Switche」(2026-05-05)、「Re: Marvell Managed Commercial Switche」(2026-05-06)、「Re: Marvell Managed Commercial Switche」(2026-05-08) → 读者兴趣偏「其他」；当前 P1 属「工业」，下一封按「其他」给，不按 P1｜已发资料（勿重发）：Product Link_2026Q2(2026-03-13)、Requirements_2026.05.05(2026-05-05)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）",
       "repeat": [],
-      "gaps": []
+      "gaps": [
+        "VCCI/JIS 报告：无，客户自担——不承诺",
+        "租样：Saga 规则是付费样品，不出借"
+      ]
     },
     "next_move": {
-      "when": "2026-11（顺手）",
-      "channel": "Elsa 邮箱回原线程",
-      "action": "首封前知悉：Elsa 已 1:1 去信 6 轮（2025-12-03→2026-08-04，客户回过信（2025-08-26、2025-10-01）），此前还经锚 Bcc 触达（第 74 批(m)）；目录 + 一问；回原串沿用原主题（邮件客户端自动加 Re:），上面的主题只在另起新信时用",
-      "one_question": "We have 8/16/24/48-port commercial and 4-24-port industrial PoE switches plus media converters — which project size are you quoting for in Tanzania? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
+      "when": "2026-11 中（若无回音，季度一问）",
+      "channel": "A 邮箱 → inoue.mari@unea-x.com（抄 ryosuke.osako@unea-x.com；回原串）",
+      "action": "首封前知悉：Elsa 已 1:1 去信 2 轮（2025-05-02→2025-06-23，0 回）（第 74 批(n)）；一句话问看门狗项目是否选定，并重申 4 月已给的三条：借样仍可（寄回即可）/ 认证以贵司名义办费用自担 / PSE 电源配 MEAN WELL GST 桌面款——不要改口成「付费样品」；回原串沿用原主题（邮件客户端自动加 Re:），上面的主题只在另起新信时用",
+      "one_question": "Has your watchdog PoE project selected a supplier yet — and is the loan unit we offered in April (STI-054GP with a MEAN WELL GST PSE adapter, returned after testing) still useful for your evaluation?"
     },
     "facts": [
       {
-        "date": "2025-08-18",
-        "dir": "去",
-        "who": "Elsa（群发，发给 sales@unilinkcommunication.com）",
-        "quote": "I would like to recommend a switch, 24 port 1G SFP+8 port 1G SFP/RJ45 combo +4*10G SFP+. It is a price-competitive aggregation switch. Price: 240usd/pc",
-        "why": "Tescom 第一次来信回的是这封——所以他看过的 24 SFP 汇聚机价 = $240（2025-08，老汇率），不是 10 月那轮",
-        "k": "gmail_e 198d7414a2738d97（引用）"
+        "date": "2025-05-02",
+        "dir": "out",
+        "who": "Elsa → info@unea-x.com",
+        "quote": "Mini Industrial PoE Switch（Elsa 1:1 逐月名单第 1/2 轮；To 仅本户）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:unea-x.com` 全程 complete：2 轮直收（头 msg 1979adf13b0bbff3 无 Bcc，称呼「Hi,」）；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "1968eefc3e3def56"
       },
       {
-        "date": "2025-08-23",
+        "date": "2025-06-23",
+        "dir": "out",
+        "who": "Elsa → info@unea-x.com",
+        "quote": "16 Port Ethernet Switch（Elsa 1:1 逐月名单第 2/2 轮；To 仅本户）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:unea-x.com` 全程 complete：2 轮直收（头 msg 1979adf13b0bbff3 无 Bcc，称呼「Hi,」）；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "1979adf13b0bbff3"
+      },
+      {
+        "date": "2026-04-22",
         "dir": "来",
-        "who": "mmedad（samuisso@tescom.co.tz）",
-        "quote": "Hello thanks for your recomendation please what is the type of switch",
-        "why": "比 10-01 那封早 5 周的第一问；没有 Replied 标签、线程里无 Elsa 回信 → 这封没人答，他 10-01 又问一次「how many types」，Elsa 才回 5 张照片",
-        "k": "gmail_e 198d7414a2738d97"
+        "who": "大迫（UNEAX）",
+        "quote": "Does your company have a PoE Switch with Watchdog? And Can I lend a sample for testing?",
+        "why": "需求 + 借样习惯",
+        "k": "01650dadfc0d13bc"
       },
       {
-        "date": "2025-08-26",
-        "dir": "out",
-        "who": "Elsa → samuisso@tescom.co.tz",
-        "quote": "Re: 24 Port Fiber Switch（Elsa 回客户来信）",
-        "why": "Elsa 箱 Re: 行 = 客户在此之前来过信；内容见 Elsa 箱线程（第 74 批(m)）",
-        "k": "elsa_reply",
-        "msg_id": "198e6463532db63e"
+        "date": "2026-04-23",
+        "dir": "去",
+        "who": "Alan",
+        "quote": "STI-054GP: 33USD/PC · STI-088GP: 50USD/PC · STI-01616GP: 128USD/PC；100 pcs: 31 / 45 / 120 USD；DAP 34.5 / 48.5 / 127 USD（邮件正文内混入中文「请注意…」三条备注）",
+        "why": "对 UNEAX 的价格锚；同一封客户信里带中文内部备注 = 外发纪律漏洞（Saga.md：对外英文）",
+        "k": "gmail_a 2026-04-23"
       },
       {
-        "date": "2025-10-01",
+        "date": "2026-04-23",
         "dir": "来",
-        "who": "Samuisso（TESCOM，坦桑尼亚）",
-        "quote": "you have only 24 port and how many types of switch you have",
-        "why": "问产品线广度 = 想要目录；非主攻区",
-        "k": "gmail_e"
+        "who": "Ryosuke Osako（UNEAX，日本）",
+        "quote": "I am interested in WATCH DOG, and one of our partner companies has proposed a product that incorporates WATCH DOG. We are currently evaluating the balance between cost and performance, which is why we are reaching out to your company.",
+        "why": "日本客户的真实动机 = PoE 看门狗 + 性价比对比（已有合作方案）；Saga 的 PoE watchdog 是标配，应直接给对比表而不是全线目录",
+        "k": "gmail_a 2026-04-23 Re: Marvell Managed Commercial Switches"
       },
       {
-        "date": "2025-10-01",
+        "date": "2026-04-24",
+        "dir": "来",
+        "who": "ryosuke.osako@unea-x.com",
+        "quote": "Hi. Alan I am Osako from UNEAX. Thank you for your email. If possible, could you please provide an overview of your company, describe your current mai",
+        "why": "来信原文（主题「Re: Marvell Managed Commercial Swit」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+        "k": "044e800de1232d47"
+      },
+      {
+        "date": "2026-04-24",
         "dir": "去",
-        "who": "Elsa",
-        "quote": "We have many switches covering 1G/2.5G/10G speed and 4/8/16/24/48 port. Please see attached some photos. Which type do you most need?（附 Dual AC.jpg / MINI.png / L3 Managed.jpg / 1U Umanaged.jpg / Marvell Series.jpg）",
-        "why": "Elsa 当天只回 5 张照片 + 反问，没型号没价 → 无下文",
-        "k": "gmail_e 1999fd227ad22507"
+        "who": "Saga（Alan）",
+        "quote": "Hi, Ryosuke, Thanks for your info. I talked with Simon, he thinks testing is important in this discussion. So, lending a piece is OK, please use it for your test or promotion. Question where do we ship it, maybe your shipping agent in China? And how will you send it back? Please let me know.…",
+        "why": "Saga 实质答复原文（主题「Re: Marvell Managed Commercial Switches」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
+        "k": "91a2b01ba897536b"
       },
       {
-        "date": "2025-10-01",
+        "date": "2026-04-28",
         "dir": "去",
-        "who": "Elsa 群发（BCC；To sales@unilinkcommunication.com，BE/NZ/BG/TR/IE/MD/RO+非洲散户 批次）",
-        "quote": "10G Enterprise SFP Switch — This is our 24-port Marvell-based managed SFP switch. 1, 4 port 1G SFP+8-port 1G SFP/RJ45 Combo +4*10G SFP+ 2, Dual AC input 3, Support fan monitoring（正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
-        "why": "Elsa 箱群发 BCC 触达证据（命中地址 samuisso@tescom.co.tz, tescom.co.tz）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-        "k": "elsa_bcc"
+        "who": "Saga（Alan）",
+        "quote": "Hi, Osako, Thanks for your information. 1. Please check attached file to know more about us. *Please read \"must know“ info!!*2. Company history: we are a small company founded in 2023, though short, we have our own business rules and mature product portfolio. About sales performance, we only focus o…",
+        "why": "Saga 实质答复原文（主题「Re: Marvell Managed Commercial Switches」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
+        "k": "9016d7390bff035d"
       },
       {
-        "date": "2025-12-03",
-        "dir": "out",
-        "who": "Elsa → samuisso@tescom.co.tz",
-        "quote": "Booster PoE Switch（Elsa 1:1 逐月名单第 1/6 轮；To 仅本户）",
-        "why": "第 74 批(m) `from:e.sagatelecom to:samuisso@tescom.co.tz` 全程 complete：6 轮直收；客户曾来信（见 Re: 行）",
-        "k": "elsa_1to1",
-        "msg_id": "19ae4156ad6ea12e"
+        "date": "2026-04-30",
+        "dir": "来",
+        "who": "大迫",
+        "quote": "For EMC testing, test results from a VCCI-accredited testing facility are required… JIS C 62368-1… EN 55032/55024 or VCCI Class A/B… RoHS",
+        "why": "日本合规清单",
+        "k": "b1cd35734a880b12"
       },
       {
-        "date": "2025-12-29",
-        "dir": "out",
-        "who": "Elsa → samuisso@tescom.co.tz",
-        "quote": "Marvell Industrial Alert System（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
-        "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
-        "k": "elsa_1to1",
-        "msg_id": "19b690cb8b8fd5ff"
+        "date": "2026-05-01",
+        "dir": "来",
+        "who": "inoue.mari@unea-x.com",
+        "quote": "Hi.Alan I am Inoue from UNEAX. Please let us know the status of your company’s certification. This is for internal consideration regarding implementat",
+        "why": "来信原文（主题「Re: Marvell Managed Commercial Swit」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+        "k": "567917bc0a22f8a7"
       },
       {
-        "date": "2026-03-02",
-        "dir": "out",
-        "who": "Elsa → samuisso@tescom.co.tz",
-        "quote": "Updated Ethernet Switches Links（Elsa 1:1 逐月名单第 3/6 轮；To 仅本户）",
-        "why": "第 74 批(m) `from:e.sagatelecom to:samuisso@tescom.co.tz` 全程 complete：6 轮直收；客户曾来信（见 Re: 行）",
-        "k": "elsa_1to1",
-        "msg_id": "19cade2101b401d1"
+        "date": "2026-05-02",
+        "dir": "去",
+        "who": "Saga（Alan）",
+        "quote": "Hi, Inoue, Sorry for the late reply, it is holiday here. About certification, please check info from below link. https://drive.google.com/drive/folders/17PUHesmpgS-0SpWytsokeC7nLrUF38S3?usp=sharing It is uploaded in the \"MUST KNOW\" folder.…",
+        "why": "Saga 实质答复原文（主题「Re: Marvell Managed Commercial Switches」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
+        "k": "b0ab7872d3dde48a"
       },
       {
-        "date": "2026-04-03",
-        "dir": "out",
-        "who": "Elsa → samuisso@tescom.co.tz",
-        "quote": "Industrial PoE Switch（Elsa 1:1 逐月名单第 4/6 轮；To 仅本户）",
-        "why": "第 74 批(m) `from:e.sagatelecom to:samuisso@tescom.co.tz` 全程 complete：6 轮直收；客户曾来信（见 Re: 行）",
-        "k": "elsa_1to1",
-        "msg_id": "19d52eda875bf98f"
+        "date": "2026-05-04",
+        "dir": "来",
+        "who": "井上",
+        "quote": "is it possible to purchase \"Made in China\" items from the Alibaba platform?",
+        "why": "渠道/预算信号",
+        "k": "18a11c4b61a88233"
       },
       {
-        "date": "2026-05-11",
-        "dir": "out",
-        "who": "Elsa → samuisso@tescom.co.tz",
-        "quote": "10G Enterprise SFP Switch（Elsa 2026 年 1:1 名单重发；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
-        "why": "本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无）",
-        "k": "elsa_1to1",
-        "msg_id": "19e16cd173a59698"
+        "date": "2026-05-04",
+        "dir": "去",
+        "who": "Saga（Alan）",
+        "quote": "1. Maybe we can start with sample testing, this is prior to any solid commercial frameworks. 2. We do offline deals.（答井上「is it possible to purchase Made in China items from the Alibaba platform?」）",
+        "why": "明确不走阿里平台、只做线下直接交易——对日本公司这是采购合规问题，后续若重启要先把「如何付款/谁清关」说清",
+        "k": "gmail_a 549f14740ffcd8c1"
       },
       {
-        "date": "2026-08-04",
-        "dir": "out",
-        "who": "Elsa → samuisso@tescom.co.tz",
-        "quote": "24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 6/6 轮；To 仅本户；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f）",
-        "why": "第 74 批(m) `from:e.sagatelecom to:samuisso@tescom.co.tz` 全程 complete：6 轮直收；客户曾来信（见 Re: 行）",
-        "k": "elsa_1to1",
-        "msg_id": "19fcc807ba11176c"
+        "date": "2026-05-05",
+        "dir": "来",
+        "who": "UNEAX Inoue（附件 Requirements.xlsx，17 问）",
+        "quote": "1 Certification FCC, RoHS · 2 Can we obtain the necessary certifications for sale in Japan under our company name? · 3 label translated into Japanese? · 5–7 logo on sample/packaging/product? · 8 PSE-certified power supply mandatory · 9–12 RMA / warranty years / post-warranty policy / tech support duration · 13–14 Sales track record in Japan & to date · 15 failure rate · 16 how to verify AI WATCH DOG · 17 transmission speed at 250 m",
+        "why": "日本商社的尽调清单：合规自担 + 日文标签 + PSE 电源 + 故障率/保修制度 —— Saga 能答的是 8/9/10/16/17，答不了的是 2/13/15（无日本先例、无故障率统计）",
+        "k": "gmail_a att 2026-05-05"
       },
       {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "兴趣：MC1光2电千兆",
-        "why": "表内备注",
-        "k": "用户表"
+        "date": "2026-05-05",
+        "dir": "去",
+        "who": "Alan（Requirements_2026.05.05.xlsx 逐条作答）",
+        "quote": "2 日本认证可以以贵司名义办但费用自担 · 3 日文标签由贵司提供译文 · 5/6 样品与包装中性无 logo · 7 正式订单 logo 只印标签（印机身/包装另加费）· 8 PSE 电源 GST120A48-P1M / GST240A48-P1M（MEAN WELL）· 10 Warranty 3 years, lifetime technical support · 11 过保只提供技术支持 · 13 「Have you sold in Japan before? — No. our focus is on EU market」· 15 故障率「Never… not received any negative feedback yet」· 16 看门狗验证「Turn on DIP 4… power off the camera, it will automatically restart it」· 17 250 m 速率 10Mb/s",
+        "why": "Saga 对日本商社的承诺边界已成文：认证自担、3 年保、日本零先例、250 m 降到 10M",
+        "k": "gmail_a att 2026-05-05"
+      },
+      {
+        "date": "2026-05-06",
+        "dir": "来",
+        "who": "井上",
+        "quote": "MEANWELL products are expensive, so we need a Plan B… 48V/2A model with a purchase price of 1,100 yen",
+        "why": "成本锚点",
+        "k": "d591c419c309c81c"
+      },
+      {
+        "date": "2026-05-06",
+        "dir": "去",
+        "who": "Saga（Alan）",
+        "quote": "Hi, Inoue, 1. About Power Supply *From our perspective,* we ONLY recommend MEANWELL models. 1.1: MEANWELL is a reputable brand, we use it for quite a long time, it is good. *1.2: Actually we do not trust or want to use any other brands unless it is famous.*In industrial applications, most after-sale…",
+        "why": "Saga 实质答复原文（主题「Re: Marvell Managed Commercial Switches」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
+        "k": "5baf0e8e96978608"
+      },
+      {
+        "date": "2026-05-08",
+        "dir": "去",
+        "who": "Alan",
+        "quote": "GST120A48-P1M, GST240A48-P1M or GST280A48-P1M, MEANWELL original models, PSE-certified… desktop type, NOT DIN type",
+        "why": "日本电源标准答案",
+        "k": "3ee1098f834e6f04"
+      },
+      {
+        "date": "2026-05-08",
+        "dir": "来",
+        "who": "Inoue（UNEAX）",
+        "quote": "Has the power supply you suggested already obtained PSE certification? Please confirm this.",
+        "why": "日本市场硬门槛：电源要 PSE 认证——Meanwell 多数型号有 PSE，但 Saga 要给出具体型号的 PSE 证书，否则日本线走不通（与 INH 证书规则 CE/RoHS/FCC/REACH/UKCA 之外新增一项地区要求）",
+        "k": "gmail_a 2026-05-08 Re: Marvell Managed Commercial Switches"
+      },
+      {
+        "date": "2026-05-08",
+        "dir": "去",
+        "who": "Saga（Alan）",
+        "quote": "Yes, they all are PSE-certified, desktop type, NOT DIN type. I checked why MEANWELL is not issuing PSE certification for DIN models (NDR-120 series and NDR-240 series)… 1.3: MEANWELL is just not issuing it, gotta passively accept this. 2. Please try to gather all questions together, so we can answer together. This is more efficient.",
+        "why": "PSE 问题的最终答复（GST 桌面型有、NDR DIN 型无）；同一封里让对方「把问题攒一起问」——这是井上此后再没来信的最后一封。日本客户逐条追问是常态，这句话可能被读成不耐烦",
+        "k": "gmail_a 2026-05-08T08:35 → inoue.mari@unea-x.com"
+      },
+      {
+        "date": "2026-09-14",
+        "dir": "去",
+        "who": "Saga（Alan）",
+        "quote": "This is our 16-port DIN PoE switch featuring 1. 2*1G SFP slots with PoE af/at capability, 240W budget 2. Support PoE watchdog and 250-meter PoE 3. Ideal in CCTV cabinet solutions. Do you need some units for testing?",
+        "why": "4 个月后单推 16 口 DIN PoE（他们 4 月问的就是带看门狗的 PoE）——无回；若再动，先接回 5 月那串问题（PSE 电源 Plan B 1,100 日元、标签、认证费用）而不是再推新机",
+        "k": "gmail_a 2026-09-14T01:30 → inoue.mari@unea-x.com"
       }
     ],
-    "proof_gaps": [
-      "（已核 2026-10-24，第 73 批）Elsa 2025-10-01 回 5 张产品照片 + 「which type do you most need」，无型号无价，之后无回",
-      "（已核 2026-10-24，第 73 批）Tescom 其实问过两次：08-23「what is the type of switch」（无人答）→ 10-01「how many types」（Elsa 回 5 张照片无型号）；他看过的 24 SFP 汇聚机价 = $240（2025-08-18 群发）"
-    ],
+    "proof_gaps": [],
     "draft_en": {
-      "subject": "How many types of switch — TESCOM",
-      "body": "Hi Samuisso,\n\nYou asked \"you have only 24 port and how many types of switch you have\"; Elsa sent five product photos in October 2025 and we did not hear back, so here is the answer in words: commercial switches 5 to 48 ports (PoE and non-PoE, managed and unmanaged), industrial DIN-rail switches 4 to 24 ports, and gigabit / 10G media converters. The 1-fibre + 2-copper gigabit media converter you were interested in is available as well.\n\nOne question: which project size are you quoting in Tanzania right now (how many switches, PoE or not), so I send one page instead of the whole catalog?\n\nReference price: STI-110GE (1× SFP + 1× GE gigabit media converter, DIN-rail) at $26.5 USD EXW, MOQ 1 pc, 15-day validity; the 1-fibre + 2-copper version is a few dollars above that and I will quote it once you confirm the quantity.\n\nBest regards,\nElsa\nSaga Telecom - sagatele.com"
+      "subject": "PoE watchdog project — one question",
+      "body": "Hi Inoue-san,\n\nIn May we answered your 17 questions (certification at your cost, Japanese label text from your side, MEAN WELL GST-series PSE adapters, 3-year warranty, DIP 4 for the watchdog, 10 Mb/s at 250 m). Since then we have not heard whether the watchdog PoE project selected a supplier.\n\nOne question: is the test unit we offered to lend in April (STI-054GP, neutral English label, MEAN WELL GST PSE adapter — returned after your test) still useful for your evaluation, or has the project gone to the partner who proposed it originally? Either answer is fine — I would rather know than keep sending product mails.\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
     },
-    "as_of": "2026-10-25"
+    "as_of": "2026-10-24"
   }
 }

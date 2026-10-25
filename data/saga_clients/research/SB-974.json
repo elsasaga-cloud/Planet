@@ -1,127 +1,96 @@
 {
  "code": "SB-974",
- "name_official": "Egemen Elektronik Güvenlik Bilgisayar Sistemleri San. ve Tic. Ltd. Şti.（İstanbul Ümraniye, TR；egemenelektronik.com）",
+ "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "在线（含交换机品类页与价目表）",
- "summary": "伊斯坦布尔 Ümraniye 的电子安防分销商 Egemen Elektronik（2013-07 成立；10–50 人；Uniview 土耳其官方分销商、Hikvision Platinum 合作伙伴，另分销 Ajax、Honeywell、Dahua、Wisenet、ZKTeco、Netgear、Seagate/WD 等；网站设交换机品类页与价目表；Egemen Plaza 自有办公楼；satis@egemenelektronik.com；+90 216 611 61 00）。用户表（谷歌来源，土耳其 A 名单 2 类）：商业 PoE、CCTV 为主、很多配件；联系人 Belkız Çınar / Levent Pişman（Co-Owner）；WhatsApp 已加；2 次跟进 0 回复。",
- "type": "",
+ "website_status": "在线（b-plus.com，快照 2026-10-21）",
+ "summary": "德国 b-plus 集团（1996 年起「新出行」开发伙伴：自动驾驶/ADAS 与移动机械自动化的数据采集、分析与存储工具，车载 10G/25G 以太网、IEC 62443；表内「工业 FS 周边产品」「可以着重跟一下」）；群发 15 次无回复。",
+ "type": "汽车测试/数据采集技术公司（德国；车载场景守界，仅实验室网络可谈）",
  "size": "",
- "brands_seen": [
-  "Uniview（官方分销）",
-  "Hikvision（Platinum）",
-  "Ajax",
-  "Dahua",
-  "Netgear"
- ],
+ "brands_seen": [],
  "evidence": [
   {
-   "kind": "官网",
-   "claim": "法人、地址、联系方式",
-   "quote": "Egemen Elektronik Güvenlik Bilgisayar Sis. San. ve Tic. Ltd. Şti. - Ihlamurkuyu Mh. Malazgirt Cd. Şendal Sk. No:1 EGEMEN PLAZA ÜMRANİYE / İSTANBUL 0216 611 61 00 … satis@egemenelektronik.com … Vergi Numarası : 325 056 57 50",
-   "url": "https://www.egemenelektronik.com/tr/iletisim",
+   "kind": "官网快照",
+   "claim": "官网标题：Die b-plus Gruppe ist Wegbereiter für neue Moblität seit 1996；品类词 工业自动化 / OT 网络 / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "b-plus ist Entwicklungspartner um Technologien des autonomen Fahrens, Fahrerassistenzsysteme und Automatisierung von mobilen Maschinen voranzutreiben.",
+   "url": "https://www.b-plus.com/de/home",
    "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "成立与品牌",
-   "quote": "Egemen Elektronik … 2013 Temmuz Ayında Faaliyetine Başlamıştır … Şirketimiz HIKVISION , Haikon, HiLook , Ttec, Formrack, LigoWave, Netgear, Seagate, WD, Canavote, Dahua , Wisenet Samsung, Ajax , Westa, Decon Maxlogic & Mavigard markalarının dağıtıcısıdır.",
-   "url": "https://www.egemenelektronik.com/tr/hakkimizda",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "LinkedIn",
-   "claim": "Uniview 官方分销与规模",
-   "quote": "Uniview Resmî Distribütör , Hikvision Platinum Dpp Partner , Ajax Kablosuz Alarm Sistemleri … Şirket büyüklüğü: 11 - 50 çalışan Genel Merkez: İSTANBUL, ÜMRANİYE … Kuruluş: 2013",
-   "url": "https://tr.linkedin.com/company/egemenelektronik",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "名录",
-   "claim": "成立日期与增长",
-   "quote": "Egemen Elektronik Guvenlik Bilgisayar Sistemleri San. was incorporated on July 25, 2013. 10 (2025) employees … reported a net sales revenue increase of 201.3% in 2023.",
-   "url": "https://www.emis.com/php/company-profile/TR/Egemen_Elektronik_Guvenlik_Bilgisayar_Sistemleri_San_Ve_Tic_Ltd_Sti_en_14288247.html",
-   "date": "2026-03-05"
   },
   {
    "kind": "用户表",
-   "claim": "商业 PoE、CCTV、配件；WhatsApp 已加；2 次跟进",
-   "quote": "商业POE CCTV为主 很多配件 … 90 53260 57018 网站上的 已加",
+   "claim": "表内兴趣/备注",
+   "quote": "工业FS 周边产品",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "b-plus：自动驾驶与移动机械开发伙伴",
+   "quote": "Die b-plus Gruppe ist Wegbereiter für neue Moblität seit 1996 ; b-plus ist Entwicklungspartner um Technologien des autonomen Fahrens, Fahrerassistenzsysteme und Automatisierung von mobilen Maschinen voranzutreiben.",
+   "url": "https://www.b-plus.com/de/home",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "工业 FS 周边产品，可着重跟",
+   "quote": "工业FS 周边产品；可以着重跟一下",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
- "kp": [
-  {
-   "name": "Belkız Çınar",
-   "role": "Co-Owner（用户表）",
-   "email": "satis@egemenelektronik.com",
-   "phone": "+90 532 605 7018（用户表，WhatsApp 已加）",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
-  },
-  {
-   "name": "Levent Pişman",
-   "role": "Co-Owner（用户表）",
-   "email": "satis@egemenelektronik.com",
-   "phone": "—",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
-  }
- ],
+ "kp": [],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网核对）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "legal_name": "Egemen Elektronik Güvenlik Bilgisayar Sistemleri San. ve Tic. Ltd. Şti.（VKN 325 056 57 50 Alemdağ）",
-  "founded": "2013-07-25",
-  "hq": "Ihlamurkuyu Mh. Malazgirt Cd. Şendal Sk. No:1 Egemen Plaza, 34771 Ümraniye / İstanbul（+90 216 611 61 00；satis@egemenelektronik.com）",
-  "size": "11–50（LinkedIn）/ 10（EMIS 2025）；2023 年净销售额 +201%",
-  "other": "Uniview 官方分销；Hikvision Platinum；Ajax、Honeywell、Dahua、Wisenet、ZKTeco、Netgear 分销；B2B 网店 egemendepo.com"
+  "hq": "德国",
+  "other": "官网 b-plus.com，语言 de，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "CCTV / 门禁 / 报警 / 消防报警分销（多品牌）",
-  "网络配件与交换机（品类页）"
+  "自动驾驶/ADAS 数据采集与存储工具",
+  "移动机械自动化"
  ],
  "channels": {
-  "网站": "https://www.egemenelektronik.com/（交换机品类 /tr/kategori/switchler）",
-  "B2B 网店": "http://www.egemendepo.com/",
-  "电话": "+90 216 611 61 00（公开）",
-  "邮箱（公开）": "satis@egemenelektronik.com"
+  "role": "汽车测试/数据采集技术公司（德国；车载场景守界，仅实验室网络可谈）",
+  "region": "德国",
+  "contact": "services@b-plus.com"
  },
  "signals": [
-  "多品牌 CCTV 分销商自设交换机品类 → 白牌/自有标 PoE 交换机进其价目表（配 Uniview/Hikvision）",
-  "高增长（2023 +201%）、自有大楼 → 有库存采购能力"
+  "官网：b-plus ist Entwicklungspartner um Technologien des autonomen Fahrens, Fahrerassistenzsysteme und Automatisierung von mobilen Maschinen voranzutreiben",
+  "站内 kw：10g 39 / ethernet 53 / sfp 17；IEC62443-4-2 / QSFP28"
  ],
  "risks": [
-  "已有 Netgear 等品牌交换机；土耳其进口关税与汇率波动；2 次跟进 0 回复"
+  "车载/自动驾驶测试设备：Saga 无 E-mark/车规，仅实验室网络可谈",
+  "15 次无回复，仅 services@，无具名 KP；用户表「可以着重跟一下」但产品错位"
  ],
  "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 20,
-  "why": "分销 20% 档：STC-28DGGPM（8 PoE+ 2 SFP 管理，$80.7）配 Uniview NVR；低价位 Realtek 线 STC-028GP（$24.2）/ STC-2024GP（24 PoE，$93.5）进价目表"
+  "p1": "STI-488XGGPM",
+  "tier": 25,
+  "why": "主业车载数据记录（E-mark/车规 Saga 不做）→ 仅实验室/台架网络位：工业 8 PoE + 4×10G STI-488XGGPM（$178.7 @30% 档价参考，此处 25%）、STI-280GE；预期低"
  },
- "email_hook": "Belkız Hanım, Uniview ve Hikvision NVR'larınızla eşleşen 8 port gigabit PoE+ yönetilebilir switch (2 SFP) EXW 80,7 USD, yönetilemeyen 8 port PoE 25,1 USD; fiyat listenize eklemek için 10 adetlik deneme fiyatı göndereyim mi?",
+ "email_hook": "For the bench and lab networks around your data-logging systems (outside the in-vehicle scope), we supply Marvell-based DIN-rail 8-PoE + 4×10G and 8-GE industrial switches (−40~75 °C, CE/RoHS) from small lots — is there a lab-side switch requirement we could quote?",
  "mail_review": {
   "binding": {
-   "level": "未触达（A/S 邮箱 18 封 2024→2026，1 次记录打开，0 回；收件 satis@egemenelektronik.com；主题多为「10G Enterprise SFP Switch、Industrial PoE Switch」；Elsa 箱：`to:egemenelektronik.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 18 / 来 0）（第 74 批(i)））",
-   "type": "—",
-   "sieve": "1~2（1 次打开）",
-   "stop": "只打通用邮箱，无记录打开",
-   "revive": "保持季度群发到 2027-Q1；无打开即停；WhatsApp 已加 → 唤醒走 WhatsApp 一句话，不走邮件",
-   "lane": "TR 主攻（四主）",
+   "level": "未触达（A/S 邮箱 17 封 2024→2026，无记录打开，0 回；收件 services@b-plus.com；主题多为「Marvell Industrial Alert System、Marvell Alleycat5 Solution」；Elsa 箱：`to:b-plus.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 17 / 来 0）（第 74 批(j)））",
+   "type": "汽车测试/数据采集技术公司（德国；车载场景守界，仅实验室网络可谈）",
+   "sieve": "1（只收到群发）",
+   "stop": "17 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "DE 主攻（四主）",
    "cadence": "季度",
-   "evidence": "gmail_digest：out 18，Opened 标签 1（Simon 群发追踪）；用户表：「商业POE CCTV为主 很多配件 … 90 53260 57018 网站上的 已加」；研究档 risks：已有 Netgear 等品牌交换机；土耳其进口关税与汇率波动；2 次跟进 0 回复"
+   "evidence": "gmail_digest：out 17；用户表：「工业FS 周边产品」；研究档 risks：车载/自动驾驶测试设备：Saga 无 E-mark/车规，仅实验室网络可谈"
   },
-  "situation": "伊斯坦布尔 Ümraniye 的电子安防分销商 Egemen Elektronik（2013-07 成立；10–50 人；Uniview 土耳其官方分销商、Hikvision Platinum 合作伙伴，另分销 Ajax、Honeywell、Dahua、Wisenet、ZKTeco、Netgear、Seagate/WD 等；网站设交换机品类页与价目表；Egemen Plaza 自有办公楼；satis@egemenelektronik.com；+90 216 611 61 00）。用户表（谷歌来源，土耳其 A 名单 2 类）：商业 PoE、CCTV 为主、很多配件；联系人 Belkız Çınar / Levent Pişman（Co-Owner）；WhatsApp 已加；2 次跟进 0 回复。",
-  "need": "分销 20% 档：STC-28DGGPM（8 PoE+ 2 SFP 管理，$80.7）配 Uniview NVR；低价位 Realtek 线 STC-028GP（$24.2）/ STC-2024GP（24 PoE，$93.5）进价目表",
-  "breakpoint": "已有 Netgear 等品牌交换机；土耳其进口关税与汇率波动；2 次跟进 0 回复",
+  "situation": "德国 b-plus 集团（1996 年起「新出行」开发伙伴：自动驾驶/ADAS 与移动机械自动化的数据采集、分析与存储工具，车载 10G/25G 以太网、IEC 62443；表内「工业 FS 周边产品」「可以着重跟一下」）；群发 15 次无回复。",
+  "need": "主业车载数据记录（E-mark/车规 Saga 不做）→ 仅实验室/台架网络位：工业 8 PoE + 4×10G STI-488XGGPM（$178.7 @30% 档价参考，此处 25%）、STI-280GE；预期低",
+  "breakpoint": "车载/自动驾驶测试设备：Saga 无 E-mark/车规，仅实验室网络可谈",
   "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 20,
-   "price": "Realtek 线按 HRUI 2026-09-30 进价 +20% 现算（Q-47 默认，不用 Drive 旧表价）：STC-208GP $24.2→$25.1；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-27 $65（10G Media Converter）；群发里他已看到的价（续）：2026-08-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-06-21 $220（48 port managed switch）、2025-09-26 $280（10G Enterprise SFP Switch）",
-   "why": "分销 20% 档：STC-28DGGPM（8 PoE+ 2 SFP 管理，$80.7）配 Uniview NVR；低价位 Realtek 线 STC-028GP（$24.2）/ STC-2024GP（24 PoE，$93.5）进价目表。已打开的主题（1/18 封有打开记录）：「Marvell Industrial Alert System」(2026-01-02) → 读者兴趣偏「工业」；与 P1 同类，继续",
+   "p1": "STI-488XGGPM",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-18 $65（10G media converter）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-16 $280（10G Enterprise SFP Switch）",
+   "why": "主业车载数据记录（E-mark/车规 Saga 不做）→ 仅实验室/台架网络位：工业 8 PoE + 4×10G STI-488XGGPM（$178.7 @30% 档价参考，此处 25%）、STI-280GE；预期低",
    "repeat": [],
    "gaps": []
   },
@@ -129,38 +98,27 @@
    "when": "群发节奏",
    "channel": "A 邮箱",
    "action": "观察打开",
-   "one_question": "Belkız Hanım, Uniview ve Hikvision NVR'larınızla eşleşen 8 port gigabit PoE+ yönetilebilir switch (2 SFP) EXW 80,7 USD, yönetilemeyen 8 port PoE 25,1 USD; fiyat listenize eklemek için 10 adetlik deneme fiyatı göndereyim mi?"
+   "one_question": "For the bench and lab networks around your data-logging systems (outside the in-vehicle scope), we supply Marvell-based DIN-rail 8-PoE + 4×10G and 8-GE industrial switches (−40~75 °C, CE/RoHS) from small lots — is there a lab-side switch requirement we could quote?"
   },
   "facts": [
    {
-    "date": "2024-11-05",
-    "dir": "去",
-    "who": "Simon → Angora Networks（SA-168）附件 Turkey Client List.xlsx",
-    "quote": "名单行：「Commercial PoE CCTV satis@egemenelektronik.com 90 53260 57018 https://www.egemenelektronik.com/tr/kategori/switchler」",
-    "why": "Saga 2024-11-05 把本户列入交给 Angora（安卡拉，Saga 提议的欧盟/土耳其分销伙伴）的 64 家起步名单；此后 Saga 仍直发本户。若 Angora 已接触过本户，Saga 直发会与自己提议的渠道打架 → Q-51（默认：直发继续，Angora 报了价的户 Saga 只做技术支持）",
-    "k": "gmail_s 2024-11-05 Re: Invoice_5pcs STC-424DGGPM-280W（附件）+ Drive PI 7_土耳其 Turkey_Client_List.xlsx"
-   },
-   {
-    "date": "2026-09-21",
+    "date": "2026-03-06",
     "dir": "去",
     "who": "A/S 群发",
-    "quote": "10G Enterprise SFP Switch、Industrial PoE Switch",
-    "why": "18 封 / 1 次打开 / 0 回｜首封 2024-06-21 → 末封 2026-09-21（18 去 / 0 来）",
+    "quote": "Marvell Industrial Alert System、Marvell Alleycat5 Solution",
+    "why": "17 封 / 0 次打开 / 0 回｜首封 2024-06-25 → 末封 2026-03-06（17 去 / 0 来）",
     "k": "gmail_digest"
    },
    {
     "date": "2026-10-21",
     "dir": "用户表",
     "who": "Simon",
-    "quote": "商业POE CCTV为主 很多配件 … 90 53260 57018 网站上的 已加",
+    "quote": "工业FS 周边产品",
     "why": "表内备注",
     "k": "用户表"
    }
   ],
-  "proof_gaps": [
-   "用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码",
-   "在 Saga 给 Angora 的 Turkey Client List（2024-11-05）里——Angora 是否接触过本户无记录（Q-51）"
-  ],
+  "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-24"
  }

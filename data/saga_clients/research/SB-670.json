@@ -1,120 +1,130 @@
 {
  "code": "SB-670",
- "name_official": "Technoverse Business Solutions（孟买）",
+ "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "在线（technoversebs.com，快照 2026-10-21）",
- "summary": "孟买 IT 硬件与网络产品经销商（Ubiquiti、Cisco、TP-Link、Aruba、Juniper、Netgear；switch 37、sfp 16），Suyash Mishra；询盘表来源，无兴趣描述；WA 无实质回复。",
- "type": "",
+ "website_status": "在线（monkas.com.tr，快照 2026-10-21）",
+ "summary": "土耳其 Monkas / apronX（安防与网络网店：TP-Link、Hikvision、Dahua、ZKTeco，NVR/Wi-Fi/光纤配件；KP Murat）；表内 1 次跟进无回复。",
+ "type": "安防/网络网店（土耳其）",
  "size": "",
  "brands_seen": [
-  "Ubiquiti",
-  "Cisco",
   "TP-Link",
-  "Aruba",
-  "Juniper",
-  "Netgear"
+  "Hikvision",
+  "Dahua",
+  "ZKTeco"
  ],
  "evidence": [
   {
    "kind": "官网快照",
-   "claim": "IT 与网络产品经销；品牌 Ubiquiti / Cisco / TP-Link / Aruba / Juniper / Netgear；+91 98194 92971",
-   "quote": "Unlock a world of I.T & Networking Products at Technoverse Business Solutions… brands Ubiquiti, Cisco, TP-Link, Aruba, Juniper, Netgear",
-   "url": "https://technoversebs.com/",
+   "claim": "官网标题：apronX；品类词 安防监控（CCTV / 门禁） / 无线 / WiFi / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "Yeni Ürünler；Fırsatı Kaçırma!；MAİL BÜLTENİ",
+   "url": "https://www.apronx.com.tr/",
    "date": "2026-10-21"
   },
   {
-   "kind": "用户表",
-   "claim": "询盘统计表来源，无兴趣描述",
-   "quote": "（空）",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "kind": "官网快照",
+   "claim": "apronX 站点",
+   "quote": "apronX ; Yeni Ürünler ; Fırsatı Kaçırma! ; NTC-5220 ; DVR-208G-K1",
+   "url": "https://www.apronx.com.tr/",
    "date": "2026-10-21"
   }
  ],
  "kp": [
   {
-   "name": "Suyash Mishra",
-   "title": "（表内联系人）",
-   "email": "sales@technoversebs.com",
-   "phone": "+91 74001 75292",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
+   "name": "Murat",
+   "title": "（姓氏/职务待核）",
+   "email": "murat@monkas.com.tr",
+   "phone": "",
+   "source": "用户表"
   }
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照 + 表内）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "legal_name": "Technoverse Business Solutions",
-  "founded": "",
-  "hq": "Mumbai, India",
-  "size": "小型 IT 经销",
-  "other": ""
+  "hq": "土耳其",
+  "other": "官网 monkas.com.tr，语言 tr，快照状态 ok；角色判定来源：待核"
  },
  "business_lines": [
-  "IT 硬件 / 网络产品经销（多品牌）"
+  "安防 / 网络产品网店"
  ],
  "channels": {
-  "role": "经销商",
-  "region": "印度（孟买）"
+  "role": "安防/网络网店（土耳其）",
+  "region": "土耳其",
+  "contact": "murat@monkas.com.tr"
  },
+ "signals": [
+  "站点标题 apronX；首页 Yeni Ürünler ; Fırsatı Kaçırma! ; MAİL BÜLTENİ；站内品牌 TP-Link / Hikvision / Dahua / ZKTeco；站内 NTC-5220 / DVR-208G-K1",
+  "KP Murat（murat@monkas.com.tr）"
+ ],
  "risks": [
-  "品牌经销为主，白牌接受度待验证"
+  "网店/多品牌（TP-Link 价格基准低）；土耳其汇率敏感；1 次跟进无回复；KP 姓氏/职务待核"
  ],
  "saga_fit": {
   "p1": "STC-28DGGPM",
   "tier": 20,
-  "why": "经销补白牌 PoE 线 → STC-28DGGPM（$80.7 @20%）。"
+  "why": "网店 PoE 位 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理 8 PoE 位 HRUI STC-028GP（列表价，注明）"
  },
- "email_hook": "Suyash, next to the TP-Link / Netgear PoE lines you resell — a Marvell L2+ 8-PoE + 2-SFP at $81 EXW (neutral box, 1-year warranty (commercial line)); worth a 5-pc trial for SMB CCTV jobs?",
+ "email_hook": "Murat, alongside the TP-Link and Hikvision lines in your shop, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switches and budget 8-port PoE units from small lots, CE/RoHS, EXW USD — which port count do your camera-kit customers buy most?",
  "mail_review": {
   "binding": {
-   "level": "未发信（S/A 邮箱均无往来；来源：用户表「（空）」；Elsa 箱：`to:technoversebs.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(n)））",
-   "type": "—",
-   "sieve": "—（未入筛）",
-   "stop": "从未触达",
-   "revive": "首封（具名 KP 优先，用研究档 email_hook）；WhatsApp 已加 → 唤醒走 WhatsApp 一句话，不走邮件",
-   "lane": "IN 次级（点名）",
-   "cadence": "首封后看打开",
-   "evidence": "gmail_digest：out 0；用户表：「（空）」；研究档 risks：品牌经销为主，白牌接受度待验证"
+   "level": "未触达（A 邮箱 5 封 2025→2026，无记录打开，0 回；收件 murat@monkas.com.tr；主题多为「10G Enterprise SFP Switch、Booster PoE Switch」；Elsa 箱：`to:monkas.com.tr` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 5 / 来 0）（第 74 批(i)））",
+   "type": "安防/网络网店（土耳其）",
+   "sieve": "1（只收到群发）",
+   "stop": "5 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "TR 主攻（四主）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 5；研究档 risks：网店/多品牌（TP-Link 价格基准低）；土耳其汇率敏感；1 次跟进无回复；KP 姓氏/职务待核"
   },
-  "situation": "孟买 IT 硬件与网络产品经销商（Ubiquiti、Cisco、TP-Link、Aruba、Juniper、Netgear；switch 37、sfp 16），Suyash Mishra；询盘表来源，无兴趣描述；WA 无实质回复。",
-  "need": "经销补白牌 PoE 线 → STC-28DGGPM（$80.7 @20%）。",
-  "breakpoint": "品牌经销为主，白牌接受度待验证",
+  "situation": "土耳其 Monkas / apronX（安防与网络网店：TP-Link、Hikvision、Dahua、ZKTeco，NVR/Wi-Fi/光纤配件；KP Murat）；表内 1 次跟进无回复。",
+  "need": "网店 PoE 位 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理 8 PoE 位 HRUI STC-028GP（列表价，注明）",
+  "breakpoint": "网店/多品牌（TP-Link 价格基准低）；土耳其汇率敏感；1 次跟进无回复；KP 姓氏/职务待核",
   "saga_now": {
    "p1": "STC-28DGGPM",
    "tier": 20,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "经销补白牌 PoE 线 → STC-28DGGPM（$80.7 @20%）。",
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-29 $280（10G Enterprise SFP Switch）",
+   "why": "网店 PoE 位 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理 8 PoE 位 HRUI STC-028GP（列表价，注明）",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "待 Simon 排期（首封）",
-   "channel": "A 邮箱 → sales@technoversebs.com（Suyash Mishra）",
-   "action": "首封：按 email_hook 一问（第 75 批(m) 2026-10-25：英文信稿已写 `draft_en`）（第 76 批(c) 2026-10-25：audit_ab 软项修正：证书口径 CE/RoHS → CE/RoHS (BIS stays on your side)）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
-   "one_question": "Suyash, next to the TP-Link / Netgear PoE lines you resell — a Marvell L2+ 8-PoE + 2-SFP at $81 EXW (neutral box, 1-year warranty (commercial line)); worth a 5-pc trial for SMB CCTV jobs?"
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
+   "one_question": "Murat, alongside the TP-Link and Hikvision lines in your shop, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switches and budget 8-port PoE units from small lots, CE/RoHS, EXW USD — which port count do your camera-kit customers buy most?"
   },
   "facts": [
    {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "（空）",
-    "why": "表内备注",
-    "k": "用户表"
+    "date": "2025-10-29",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "10G Enterprise SFP Switch",
+    "why": "首封去信（邮箱索引；去信共 5 封）",
+    "k": "53b0fc50d1092947"
+   },
+   {
+    "date": "2026-03-10",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "10G Enterprise SFP Switch、Booster PoE Switch",
+    "why": "5 封 / 0 次打开 / 0 回｜首封 2025-10-29 → 末封 2026-03-10（5 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-03-10",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "Updated Ethernet Switches Links",
+    "why": "最近一封去信（邮箱索引；去信共 5 封）",
+    "k": "82bba2d751bcdd1e"
    }
   ],
-  "proof_gaps": [
-   "无邮件往来",
-   "用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
-  ],
-  "draft_en": {
-   "subject": "A neutral-box 8-PoE L2+ next to the TP-Link and Netgear lines you resell",
-   "body": "Hi Suyash,\n\nNext to the TP-Link and Netgear PoE lines you resell, a neutral-box unit for SMB CCTV jobs: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based, CE/RoHS (BIS stays on your side), 1-year warranty - model STC-28DGGPM - $80.7 USD EXW at distributor price (MOQ 1, 15-day validity).\n\nOne question: worth a 5-pc trial for your SMB CCTV jobs, or is the brand name decisive for your customers?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
-  },
+  "proof_gaps": [],
+  "draft_en": null,
   "as_of": "2026-10-24"
  }
 }

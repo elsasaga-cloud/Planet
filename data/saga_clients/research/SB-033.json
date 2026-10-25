@@ -1,151 +1,136 @@
 {
-  "code": "SB-033",
-  "name_official": "ООО «РЕГИОН-ПРОФ»（St. Petersburg, Russia；regionprof.ru；ПРОСОФТ 集团旗下批发商）",
-  "researched_at": "2026-10-21",
-  "website_status": "在线",
-  "summary": "圣彼得堡的计算机/外设与电子设备批发商 ООО «Регион-Проф»（2006-11-02 注册；唯一股东 ООО «Прософт»（ProSoft，俄罗斯大型工业自动化与嵌入式设备分销集团）100%；2025 营收 16 亿 ₽、净利 1.18 亿 ₽、员工 84；总经理 Коровина Марина Григорьевна；+7 495 232-29-55；info@regionprof.ru；官网有产品目录与区域网络）。用户表（富通天下外贸数据）：「买了迈威的」= 进口 Maiwe 工业交换机，非 Saga 成交；备注「一个大型公司」；群发无互动。ProSoft 系工业自动化分销 → 工业 DIN 交换机分销 20%。",
-  "type": "",
-  "size": "",
-  "brands_seen": [
-    "Maiwe 迈威（外贸数据在采）",
-    "ProSoft（母公司）"
-  ],
-  "evidence": [
-    {
-      "kind": "登记名录",
-      "claim": "法人、股东、业务",
-      "quote": "ООО \"Регион-Проф\" зарегистрировано в Санкт-Петербурге в ноябре 2006 года и работает на рынке оптовой торговли компьютерами, периферийными устройствами и программным обеспечением. С июля 2020 года компанией руководит генеральный директор Коровина Марина Григорьевна. Единственным учредителем выступает юридическое лицо — ООО \"Прософт\", владеющее 100% долей",
-      "url": "https://www.rusprofile.ru/id/4358680",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "登记名录",
-      "claim": "营收与员工",
-      "quote": "2025 | 1.6 млрд ₽ | 118 млн ₽ … Численность персонала: 84",
-      "url": "https://www.list-org.com/company/4497434",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网",
-      "claim": "联系方式",
-      "quote": "© 2010-2026 ООО «РЕГИОН-ПРОФ» | Тел: +7 (495) 232-29-55 E-mail: info@regionprof.ru",
-      "url": "https://www.regionprof.ru/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "富通天下：买了迈威的；大型公司",
-      "quote": "买了迈威的 / 一个大型公司 / 富通天下",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Коровина Марина Григорьевна",
-      "role": "Генеральный директор（登记公开）",
-      "email": "info@regionprof.ru（公司）",
-      "phone": "+7 495 232-29-55（公司）",
-      "source": "https://www.rusprofile.ru/id/4358680"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（官网 + 登记核对；「成交」为富通天下外贸数据）"
+ "code": "SB-033",
+ "name_official": "Marvel IT Solutions / Marvel Business Consultants（Bahrain）",
+ "website_status": "在线（marvelitcs.com，快照 2026-10-21）",
+ "summary": "巴林托管 IT 服务商（自称服务 500+ 本地企业）：数据网络、Wi-Fi 门户、机房、点对点无线、CCTV、门禁、IP 电话、SOPHOS 防火墙、数字营销；表内 Nasir 要「Cisco 同款型号」，2024-07 Passive PoE 手册回复 OK。",
+ "type": "IT 经销/集成商",
+ "size": "待补证",
+ "brands_seen": [
+  "Cisco（需求）",
+  "Sophos"
+ ],
+ "evidence": [
+  {
+   "kind": "用户记录",
+   "claim": "需要 Cisco 型号；WA 已加；2 次回复 / 15 次跟进",
+   "quote": "需要Cisco model；973361 70186 已加（用户 Clients 表摘录）",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "legal_name": "ООО «РЕГИОН-ПРОФ»（ИНН 7728599583；ОГРН 1067759114675）",
-    "founded": "2006-11-02",
-    "hq": "198095, Санкт-Петербург, ул. Ивана Черных, д. 29, лит. А（+7 495 232-29-55；info@regionprof.ru）",
-    "size": "84 人；2025 营收 1.6 亿 ₽ 级（16 亿 ₽）",
-    "other": "股东 ООО «Прософт» 100%；批发计算机/外设/音视频设备"
+  {
+   "kind": "官网快照",
+   "claim": "定位：巴林托管 IT 与安防；关键词 cctv 34 / access control 45 / wireless 45 / data center 18 / poe 4",
+   "quote": "Marvel IT is the Leading IT Solution Company in Bahrain. We offer end-to-end Managed IT & Support Services… TRUSTED BY MORE THAN 500+ LOCAL BUSINESSES",
+   "url": "https://marvelitcs.com/",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "工业/IT 设备批发（ProSoft 集团渠道）",
-    "区域经销网络"
-  ],
-  "channels": {
-    "网站": "https://www.regionprof.ru/",
-    "电话": "+7 495 232-29-55（公开）",
-    "邮箱（公开）": "info@regionprof.ru"
+  {
+   "kind": "官网快照",
+   "claim": "服务清单含数据网络 / 数据中心搭建 / 点对点无线 / CCTV / IP 电话 / SOPHOS",
+   "quote": "Data Networking WiFi Captive Portal Data Center Setup & Maintenance Point-to-Point Wireless… CCTV Systems IP Telephony Solutions… SOPHOS Security",
+   "url": "https://marvelitcs.com/",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "ProSoft 集团 = 俄罗斯工业自动化头部分销 → 已进口 Maiwe 工业交换机，Saga STI 线可作第二来源",
-    "营收 16 亿 ₽ → 批量能力强"
-  ],
-  "risks": [
-    "俄罗斯结算/制裁合规；大集团供应商准入；无互动记录"
-  ],
-  "saga_fit": {
-    "p1": "STI-288DGGPM",
-    "tier": 20,
-    "why": "分销 20% 档：STI-288DGGPM（DIN 2 SFP + 8 GE PoE+ L2+ ERPS，$137.5）对位 Maiwe 管理型工业机；非 PoE STI-280GM（$68.2）；非管理 STI-288GP（$57.4）"
-  },
-  "email_hook": "Здравствуйте, вы импортируете промышленные коммутаторы Maiwe — предлагаем второй источник той же конфигурации: DIN-rail 2 SFP + 8 GbE L2+ с ERPS 137,5 USD EXW (без PoE 68,2 USD), −40/+75 °C, расчёт в CNY. Какие модели Maiwe у вас в наибольшем обороте, чтобы подготовить прямое сопоставление?",
-  "mail_review": {
-    "binding": {
-      "level": "Elsa 群发 BCC 已触达 2026-08-21「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，IS/SE/BG/RU/LT 批次 To icecom@icecom.is，0 回（第 73 批(o) Bcc 头核对 msg 1a023557cf116242）；S/A 箱：S/A 邮箱均无往来；来源：用户表「买了迈威的 / 一个大型公司 / 富通天下」",
-      "type": "—",
-      "sieve": "—（未入筛）",
-      "stop": "Elsa 群发 BCC 触达过（最近 2026-08-21）无回；S/A 箱从未单独发过",
-      "revive": "首封（具名 KP 优先，用研究档 email_hook）",
-      "lane": "RU 次级（Simon 2026-08 点名）",
-      "cadence": "首封后看打开",
-      "evidence": "gmail_digest：out 0；用户表：「买了迈威的 / 一个大型公司 / 富通天下」；研究档 risks：俄罗斯结算/制裁合规；大集团供应商准入；无互动记录；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To icecom@icecom.is）2025-03-05→2026-08-21 共 14 轮群发（Mini Industrial PoE Switch、Marvell Alleycat5 Solution、16 Port Ethernet Switch、10G Media Converter、8 Port Industrial PoE Switch、Industrial PoE Switch、10G Enterprise SFP Switch、Booster PoE Switch、OEM Core Switching Solution、Updated Ethernet Switches Links、Marvell Managed Commercial Switches、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断"
-    },
-    "situation": "圣彼得堡的计算机/外设与电子设备批发商 ООО «Регион-Проф»（2006-11-02 注册；唯一股东 ООО «Прософт»（ProSoft，俄罗斯大型工业自动化与嵌入式设备分销集团）100%；2025 营收 16 亿 ₽、净利 1.18 亿 ₽、员工 84；总经理 Коровина Марина Григорьевна；+7 495 232-29-55；info@regionprof.ru；官网有产品目录与区域网络）。用户表（富通天下外贸数据）：「买了迈威的」= 进口 Maiwe 工业交换机，非 Saga 成交；备注「一个大型公司」；群发无互动。ProSoft 系工业自动化分销 → 工业 DIN 交换机分销 20%。",
-    "need": "分销 20% 档：STI-288DGGPM（DIN 2 SFP + 8 GE PoE+ L2+ ERPS，$137.5）对位 Maiwe 管理型工业机；非 PoE STI-280GM（$68.2）；非管理 STI-288GP（$57.4）",
-    "breakpoint": "俄罗斯结算/制裁合规；大集团供应商准入；无互动记录",
-    "saga_now": {
-      "p1": "STI-288DGGPM",
-      "tier": 20,
-      "price": "按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-21 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-21；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）（㉕ 封顶：STI-288DGGPM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25）",
-      "why": "分销 20% 档：STI-288DGGPM（DIN 2 SFP + 8 GE PoE+ L2+ ERPS，$137.5）对位 Maiwe 管理型工业机；非 PoE STI-280GM（$68.2）；非管理 STI-288GP（$57.4）",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "待 Simon 排期（首封）",
-      "channel": "A 邮箱 → info@regionprof.ru（Коровина Марина Григорьевна）",
-      "action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-21「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 74 批(r) 2026-10-25：英文信稿已写 `draft_en`（= 客户语言钩子句的英文版，客户语言一句话留在备注里））（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
-      "one_question": "Здравствуйте, вы импортируете промышленные коммутаторы Maiwe — предлагаем второй источник той же конфигурации: DIN-rail 2 SFP + 8 GbE L2+ с ERPS 137,5 USD EXW (без PoE 68,2 USD), −40/+75 °C, расчёт в CNY. Какие модели Maiwe у вас в наибольшем обороте, чтобы подготовить прямое сопоставление?"
-    },
-    "facts": [
-      {
-        "date": "2025-03-05",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To icecom@icecom.is，IS/SE/BG/RU/LT 批次）",
-        "quote": "Mini Industrial PoE Switch — This is about our MINI Din unmanaged switches for you. 1. 100/1000M auto-adaptive SFP fiber 2. support DIP for flexible configuration 3. PoE optional,",
-        "why": "Elsa 箱群发 BCC 触达证据（命中地址 info@regionprof.ru, regionprof.ru）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-        "k": "elsa_bcc"
-      },
-      {
-        "date": "2026-08-21",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To icecom@icecom.is，IS/SE/BG/RU/LT 批次）",
-        "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
-        "why": "Elsa 箱群发 BCC 触达证据（命中地址 info@regionprof.ru, regionprof.ru）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-        "k": "elsa_bcc"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "买了迈威的 / 一个大型公司 / 富通天下",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [
-      "无邮件往来"
-    ],
-    "draft_en": {
-      "subject": "A second source for the Maiwe-class industrial switches you import",
-      "body": "Hello,\n\nSome time ago you had a product mail from us - \"24 Port PoE Managed Switch\" on 21 August - and there was no reason to answer a mass mail. This one is specific to Region-Prof.\n\nYou import Maiwe industrial switches. We supply the same configurations as a second source, DIN-rail, -40 to 75 C, from single units, with settlement in CNY if that is easier than USD:\n\n- 2 x SFP + 8 x Gigabit PoE+, L2+ managed with ring redundancy, model STI-288DGGPM - $137.5 USD EXW (distributor price, MOQ 1, 15-day validity)\n- Same chassis without PoE, L2 managed, model STI-280GM - $68.2 USD EXW\n- Unmanaged 8 x PoE+ + 2 x SFP, model STI-288GP - $57.4 USD EXW\n\nNeutral housing and packaging; your own label is possible.\n\nOne question: which Maiwe models move most in your catalogue - I will prepare a direct one-to-one comparison for those?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
-    },
-    "as_of": "2026-10-25"
+  {
+   "kind": "用户表",
+   "claim": "兴趣：需要 Cisco model；2024-07 passive poe 手册→OK；2025-12 mini→hi",
+   "quote": "兴趣：需要Cisco model；回复：OK；hi",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Nasir",
+   "title": "（表内联系人）",
+   "email": "info@marvelitcs.com",
+   "phone": "+973 3617 0186",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": "B",
+ "override_reason": "需求指向 Cisco 原厂型号（Saga 不供原厂 Cisco），只能以替代方案切入；中东非主攻区 → 慢跟。",
+ "notes": "WA 一次性给'Cisco CBS/SG 对位 → STC 系列'替代表（分销 20%）；无回应即停。",
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照核对）"
+ },
+ "company_facts": {
+  "legal_name": "Marvel Business Consultants W.L.L.（官网 About 页名；待核）",
+  "founded": "",
+  "hq": "Bahrain",
+  "size": "小型 MSP（<50 人推断）",
+  "other": "sales@marvelitcs.com；+973 3988 5090"
+ },
+ "business_lines": [
+  "托管 IT / 数据网络 / 机房",
+  "CCTV / 门禁 / 人流统计",
+  "IP 电话 / 视频会议",
+  "网络安全（SOPHOS）",
+  "数字营销 / 软件开发"
+ ],
+ "channels": {
+  "role": "MSP / 安防集成（中小企业客户）",
+  "region": "巴林 + 沙特"
+ },
+ "signals": [
+  "CCTV + 门禁业务量大（页面词频）→ PoE 接入层需求稳定",
+  "曾要 Cisco 等价型号 → 可给 Cisco CBS 对照表"
+ ],
+ "risks": [
+  "偏好 Cisco 品牌，白牌需以价格 + 对照说服",
+  "MSP 单次量小"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 25,
+  "why": "CCTV/门禁集成的 8 口 PoE 管理型入口；附 Cisco CBS250-8P 对照（其曾要 Cisco model）。"
+ },
+ "email_hook": "Nasir, you asked which of ours maps to a Cisco model — our 8-PoE + 2-SFP managed unit sits against the CBS250-8P-E-2G at roughly a third of the street price; want the one-page comparison for your CCTV / access-control sites?",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：需要Cisco model；回复：OK；hi」；Elsa 箱：`to:marvelitcs.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(n)））",
+   "type": "IT 经销/集成商",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "不动（非主攻区；J5：有证据再动）",
+   "lane": "巴林 非主攻",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 0；用户表：「兴趣：需要Cisco model；回复：OK；hi」；研究档 risks：偏好 Cisco 品牌，白牌需以价格 + 对照说服"
+  },
+  "situation": "巴林托管 IT 服务商（自称服务 500+ 本地企业）：数据网络、Wi-Fi 门户、机房、点对点无线、CCTV、门禁、IP 电话、SOPHOS 防火墙、数字营销；表内 Nasir 要「Cisco 同款型号」，2024-07 Passive PoE 手册回复 OK。",
+  "need": "CCTV/门禁集成的 8 口 PoE 管理型入口；附 Cisco CBS250-8P 对照（其曾要 Cisco model）。",
+  "breakpoint": "偏好 Cisco 品牌，白牌需以价格 + 对照说服",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "CCTV/门禁集成的 8 口 PoE 管理型入口；附 Cisco CBS250-8P 对照（其曾要 Cisco model）。",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：需要Cisco model；回复：OK；hi",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来",
+   "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

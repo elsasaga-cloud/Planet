@@ -1,142 +1,109 @@
-# SB-059 Metalog International DMCC · home · https://www.metalogint.com/ · fetched 2026-10-25T07:41:18Z · HTTP 200
-Metalog -
-Any questions? Call us
-+971 4 558 6930
-Email us
-jaideep@metalogint.com
-Menu
+# SB-059 avanca.com.sg · home · https://avanca.com.sg/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+Industrial 4G/5G Routers Modems Singapore - Avanca Technologies
+Allied Solutions
+Search for:
 Home
-COMPANY PROFILE
-PRODUCT VERTICALS
-Oil & Gas Industries
-Mechanical
-Electricals & Instrumentation
-Structural
-Process
-Equipment & Consumables
-Marine Industries
-Engine
-Electrical
-Signalling
-Communication
-Infrastructure Development
-Power Transmission
-CIVIL
-Water & Waste
-Mining Industries
-Conveying System
-Earth Moving Equipment
-Cable Management
-Electricals & Instrumentation
-OEMS
-MARKETS
-QUALITY
-CONTACT
-We started our journey in 2008
-With single client and multi sourcing activities for Nigerian Oil and Gas. Today we are present in 8 African countries providing procurement services to Oil and Gas, Marine, Mining and Infrastructure Development.
-LEARN MORE
-We started our journey in 2008
-Foot print in 8 countries making enroute to other East African & South East Asian countries in 2017.
-LEARN MORE
-We started our journey in 2008
-Setting up office in India for cost effective supply chain solution in 2017. Rolling out office in Nigeria with warehouse facility in 2018.
-LEARN MORE
-We started our journey in 2008
-Aggressive business development activities in infrastructure development. Rolling out pumping solution & services in mid 2017.
-LEARN MORE
-We started our journey in 2008
-Offering mixed bag supply solution to end client reducing overall cost of production and better inventory management.
-LEARN MORE
-We started our journey in 2008
-We value our Human Resources and attribute every success to the team performance. A young and Dynamic team trained to interface with OEM and Client with the support of ERP package. We are system driven and committed to our customer’s needs.
-LEARN MORE
-Services we offer
-Oil & Gas Industries
-Industries
-Marine Industries
-Industries
-Infrastructure Development
-Industries
-Mining Industries
-Industries
-Welcome to Metalog International
-We started our journey in 2008 with single client and multi sourcing activities for Nigerian Oil and Gas. Today we are present in 8 African countries providing procurement services to Oil and Gas, Marine, Mining and Infrastructure Development.
-We are having more than 25 years experience in sourcing and inventory management. A strong team in UAE and Nigeria to service our client requirement. We are recognized for our on-time supply with quality material with competitive prices has given us International Buying House status from many tier one subcontractors of International Oil Companies like Shell, Chevron, Exxon, TOTAL etc.
-READ MORE
-All
-Oil & Gas Industries
-Marine Industries
-Infrastructure Development
-Mining Industries
-Tower Design & Fabrication
-VIEW DETAIL
-Welding Electrode
-VIEW DETAIL
-Cutting & Grinding
-VIEW DETAIL
-PQR and PWHT
-VIEW DETAIL
-Lights and Fittings
-VIEW DETAIL
-GRP Pipes
-VIEW DETAIL
-Welding Electrode
-VIEW DETAIL
-Cutting & Grinding
-VIEW DETAIL
-PQR and PWHT
-VIEW DETAIL
-Lights and Fittings
-VIEW DETAIL
-GRP Pipes
-VIEW DETAIL
-GRP Fittings
-VIEW DETAIL
-Marine Lights and Fittings
-VIEW DETAIL
-Marine Generators
-VIEW DETAIL
-SS items and Fittings
-VIEW DETAIL
-Marine Engine
-VIEW DETAIL
-Spare Parts Management
-VIEW DETAIL
-Tower Design & Fabrication
-VIEW DETAIL
-HVAC and Its Complete Solution
-VIEW DETAIL
-Re Bars & Sections
-VIEW DETAIL
-Building Materials
-VIEW DETAIL
-Scaffolding
-VIEW DETAIL
-Construction Equipment
-VIEW DETAIL
-Conveying System
-VIEW DETAIL
-Erath moving Machineries and its spare parts
-VIEW DETAIL
-Abrasion/ Wear Resistant Steel Plates
-VIEW DETAIL
-our oems
-Metalog
-Home
-Company Profile
+About Us
+Company
+Avanca Technologies Pte Ltd
+Our Parent Company
+Allied Solutions Pte Ltd
+Knowledge & Expertise
+Our Voices
+Our Partners
+Career
 Products
-OEMs
-Markets
-Quality
+Device Networking
+External Device Networking
+Embedded Device Networking
+IT Management
+IT / Data Center Management
+KVM-over-IP
+Print Servers
+Audio Over IP
+Automation
+Industrial Ethernet Switches & Media Converters
+Industrial Unmanaged Ethernet Switches
+Industrial Managed Ethernet Switches
+Media Converters
+Industrial Wireless M2M
+Industrial Edge Computing Gateway
+5G Industrial Routers
+Global IoT Router
+Industrial Cellular Routers
+LoRaWAN Gateways
+Smart Industrial IoT Gateway
+Cellular Modems
+Embedded 3G/4G Routers
+RCMS
+Modbus Gateway
+Support
+Contact Us
+Avanca Technologies work closely with the world’s leading manufacturers to deliver best industrial communication products in various industrial applications .
+Increasing data transaction of industrial applications that rely on wireless network demands for better connectivity, higher bandwidth, and faster network responsiveness.
+5G wireless technology offers some inherent advantages over previous generation of mobile communications which makes it improves connectivity performance for industrial machine to machine (M2M) applications:
+Higher bandwidth, improved data speeds in comparison to 4G
+Lower latency, improved network responsiveness
+Higher spectrum efficiency, increasing overall network capacity
+Backwards compatibility and future-proofing
+Enhancements to security and Quality of Service differentiation
+5G cellular networks offer much more coverage than other systems such as WiFi, which forces users to depend upon access points in each area. Since 5G offers widespread coverage, users would be assured of complete connectivity at all times.
+We work closely with Robustel , the world’s leading manufacturers to deliver a wide range of Industrial 4G/5G routers and modems to our customers. Our industrial modem and industrial router products are industrial grade, easy-to-deploy, rugged and reliable designed for M2M/IoT applications.
+Industrial 5G Router
+R5020
+R5020 is Robustel’s first 5G-capable router supporting global 5G, 4G and 3G bands in a compact industrial form factor. R5020 is equipped with 4x Gigabit Ethernet ports, dual-band 802.11ac Wi-Fi and GNSS (GPS/GLONASS/BeiDou/Galileo). It enables rapid deployment of high-speed IoT applications in verticals as diverse as Transportation, Enterprise Connectivity and Digital Signage.
+R5020 Lite
+R5020 Lite is Robustel’s new 5G capable router supporting global 5G, 4G and 3G bands with a powerful Cat-18 LTE (4G) fallback. R5020 Lite is equipped with 2x Gigabit Ethernet ports and dual-band 802.11ac Wi-Fi for low latency and reliable data transfer.
+Smart Industrial 4G Modem
+M1200
+Robustel M1200 Smart Industrial IoT Gateway is a compact industrial cellular modem/gateway based on GSM/GPRS/EDGE/UMTS/WCDMA/HSDPA/HSUPA/HSPA+/FDD LTE/TDD LTE/Cat.M1/Cat.NB1 networks.
+M1200 enables remote data transmission of local serial ports and I/O, and supports such interfaces as RS-232, RS-485 and mini-USB. This dual-SIM gateway provides users with stable network connectivity and data transmission.
+Industrial 4G Router
+R2010
+Robustel R2010 Industrial Dual SIM Cellular VPN Router is a rugged cellular router with built-in WiFi offering state-of-the-art mobile connectivity for machine to machine (M2M) applications.
+R3000 Lite
+Robustel R3000 Lite Industrial Dual SIM Cellular VPN Router is a cost effective, industrial-grade VPN gateway designed for cost-sensitive M2M applications.
+R3000
+Robustel R3000 Industrial Dual SIM Cellular VPN Router is a rugged cellular router with optional Wifi and GPS offering state-of-the-art mobile connectivity for M2M applications.
+About Avanca Technologies
+Headquartered in Singapore, Avanca Technologies Pte Ltd is a privately owned company with its key operational footprint over Asia. Established in 2002, Avanca has grown strength by strength and we strive to become the leading solution provider of providing innovative, industrial grade networking products and solutions:
+Device Networking
+IT Management
+Audio Over IP
+Automation
+Industrial Ethernet Switches & Media Converters
+Industrial Wireless M2M
+Our key strength lies in our in-depth understanding of our products, and our team of highly qualified technical experts.
+With experience more than ten years in industrial automation, IT networking and communications, we are able to provide end-to-end solutions; from infrastructure planning, procurement, to after-sales support.
+Many MNCs and established firms rely on top quality poducts and solutions by Avanca for their day-to-day, mission critical operations.
+News & Events
+Robustel Release High Speed Smart 5G Router R5020 Lite
+Visit Us at Data Centre World 2017
+Visit us at Data Centre World 2016
+Visit us at CommunicAsia 2014
+Products Highlights
+R5020 Lite
+Dual SIM Industrial Cellular 5G VPN Router with 802.11ac Wi-Fi and Dual Gigabit Ethernet
+R5020
+Dual SIM Industrial Cellular 5G VPN Router with 802.11ac Wi-Fi, 4x Gb Eth, GNSS (GPS/GLONASS/BeiDou/Galileo)
+R2010
+Dual SIM Industrial Cellular 4G VPN Router with Wi-Fi and Dual Ethernet
+R3000 Lite
+Dual SIM Industrial Cellular 4G VPN Router
+R3000
+Dual SIM Industrial Cellular 4G VPN Router with Wi-Fi, GPS, Dual Ethernet
+SLC 8000
+Out of Band Management solution with modular Secure Console Server
+SGX 5150
+High Performance, Dual Band (2.4/5GHz) Application Server For Wi-Fi Connectivity
+Barionet
+Universal network-enabled automation interface for control and monitoring applications
+About ●
+Support ●
 Contact
-Product Verticals
-Oil & Gas Industries
-Marine Industries
-Infrastructure Development
-Mining Industries
-Follow Us
-Useful Links
-Terms & Conditions
-Privacy Policy
-Help
-© Copyright All Rights Reserved, Metalog International 2016.
+© 2026 Avanca Technologies Pte Ltd
++65 6242 5108
+[email protected]
+23 New Industrial Road #07-06/07
+Solstice Business Center
+Singapore 536209

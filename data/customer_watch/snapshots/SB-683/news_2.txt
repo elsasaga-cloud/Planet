@@ -1,0 +1,199 @@
+# SB-683 spectra.de · news_2 · https://spectra.de/news/tipp-des-monats · fetched 2026-10-25T07:41:18Z · HTTP 200
+Tipp des Monats von Spectra
+Zum Hauptinhalt springen
+Zur Suche springen
+Zur Hauptnavigation springen
+Info Preisentwicklung bei RAM + SSD + CPU
+Deutsch
+English
+Navigation
+Suche
+Merkzettel
+Mein Konto
+Menü schließen
+Ihr Konto
+Anmelden
+oder
+registrieren
+Übersicht
+Persönliches Profil
+Adressen
+Bestellungen
+Warenkorb
+0,00 €
+Produkte
+Anwendungen
+Technologien
+Individualisierung
+Kontakt
+News
+Über Uns
+Industrie-PC Systeme
+Panel-PC Systeme
+Box-PC Systeme
+Kompakt-PC Systeme
+19"-Rack Systeme
+Tower-PC Systeme
+KI Edge Devices
+IPC Komponenten
+Displays & Monitore
+Industrielle PC-Boards
+PC-Erweiterungskarten & Module
+RAM Speichermodule
+SSD
+... mehr
+Industrielle Kommunikation
+Ethernet Switch
+Gateway
+Konverter
+Router
+Device Server
+... mehr
+Automation
+Steuerungen
+HMI
+E/A Module
+Sensoren
+Energiemessgeräte
+... mehr
+Der Spectra Brand
+Spectra PowerBox
+Spectra PowerTwin
+Spectra Silent w
+Dienstleistungen
+Konfiguration
+Abwicklung
+Schulung
+Support
+Anwendungsbereich
+Bildverarbeitung
+Digital Signage
+Fertigungsautomation
+Forschung & Lehre
+Gebäudeautomation
+Industrielle Robotik
+Echtzeit Automation
+Use Cases
+Höchste Lebensmittelsicherheit mit Insort
+Intelligente Steuerungen für Alfred Schneider
+Mehr Wachstum durch Rechenleistung mit RoBoTec
+Panel-PC für raue Industrieumgebungen
+So steuert Aircare Reinräume mit Unitronics
+Branchen
+Lebensmittelindustrie
+Pharmaindustrie
+Medizintechnik
+Verteidigung & Sicherheit
+Logistik
+Automotive
+Railway
+Trendthemen
+Industrie 4.0 & IIoT
+Produkte IIoT
+Technologie
+Künstliche Intelligenz
+Produkte KI
+RFID
+Power over Ethernet (PoE)
+Lichtwellenleiter (LWL)
+Feldbusse
+CANBus
+Profibus
+Profinet
+EtherCAT
+EtherNet/IP
+Normen und Zertifikate
+UL 62368-1
+UL 508
+Cyber Resilience Act ready
+Sicherheitshinweise
+PPWR
+REACH
+Betriebssysteme
+Kontakt Sales
+Kontakt After Sales
+Service - Downloads | RMA
+Tipp des Monats
+Messen & Seminare
+Presse Center
+Newsletter abonnieren
+Newsletter Archiv
+Über uns
+Philosophie
+Nachhaltigkeit
+Engagement
+Historie
+Competence Center
+Beratung
+Produktion
+Logistikzentrum
+Glossar
+Karriere
+Arbeiten bei Spectra
+Jobs bei Spectra
+Ausbildung bei Spectra
+Partner & Hersteller
+Partner
+Hersteller
+Menü schließen
+Deutsch
+English
+News
+Tipp des Monats
+Unter der Rubrik "Tipp des Monats" stellen wir Ihnen Produkte vor, die von unseren Experten aus dem Produktmanagement für Sie ausgewählt werden. Dabei kann das Augenmerk auf neuen Technologien, Lösungen für spezielle Anwendungen oder auch einem besonders attraktiven Marktpreis liegen.
+USB Generationen
+USB-Anschlüsse (Universal Serial Bus) bieten eine schnelle, einfache und universelle Möglichkeit, verschiedene Geräte miteinander zu verbinden und Daten zu übertragen. Sie sind kostengünstig und weit verbreitet und somit eine wirtschaftliche Lösung für die Konnektivität in der Industrie. Periphere USB-Geräte sind in der Regel einfach zu installieren und zu verwenden. Sie erfordern im Normalfall keine komplexen Treiberinstallationen und unterstützen das sogenannte "Plug-and-Play", was den Einsatz in der Industrie erleichtert ...
+>> USB Standards
+Alternativen zu Windows 10 Pro
+Microsoft hat den Verkauf des Betriebssystem Windows 10 in sämtlichen Consumer-Editionen (Home, Pro und für Workstations) seit dem 31. Januar 2023 eingestellt. Dies betrifft die Vollversionen und die Versionen vom Download-Bereich der Microsoft Webseite sowie die sogenannten OEM- oder Systembuilder-Versionen, die über den Distribution-Channel vertrieben werden. Der Support durch Microsoft besteht bis zum 14. Oktober 2025 weiter, solange liefert Microsoft regelmäßige Sicherheits-Updates ...
+>> Windows 10 Pro Abkündigung
+UniCloud Jetzt mit ISO Zertifizierung
+UniCloud ist eine vollständige No-Code IIoT-Plattform für Hersteller und Betreiber von Geräten, Maschinen und Automaten! Das Online-Portal von Unitronics bietet Ihnen die Möglichkeit zur Visualisierung, Speicherung und Analyse aller Prozessdaten, die an beliebigen Orten auf Unitronics-Steuerungen verarbeitet werden. Der Charme dieses neuartigen Portals liegt in der einfachen Konfiguration der eigenen IIoT-Anwendung ...
+>> UniCloud
+Alternative Profinet-IO Lieferbar!
+Die PROFINET Remote I/O der PFN-2000 Serie bieten Ihnen eine hervorragende Wahl für PROFINET-I/O Anwendungen, in denen z.B. eine SIEMENS S7 oder kompatible SPS als zentrale Steuereinheit agiert und in denen weitere analoge und digitale Signale dezentral verarbeitet werden müssen. Die I/O-Module entsprechen der Conformance Class B und RT Class 1 und eignen sich von daher insbesondere für Anwendungen ...
+>> PFN-2000-Serie
+Die Passende SSD für Ihre Anwendung
+Industrielle SSD haben sowohl in der Industrie als auch in Rechenzentren (Enterprise-Einsatz) eine wichtige Rolle als Speichermedium eingenommen. Bei der Auswahl der passenden SSD für Ihre Anwendung müssen Sie einige technische Kriterien beachten. In unserem Tipp des Monats haben wir alle wichtigen technischen Kriterien, die Ihnen helfen die richtige Entscheidung für Ihre Anwendung zu treffen, für Sie zusammengetragen ...
+>> Rund um SSD
+3G Abschaltung! Betrifft mich das?
+Das 3G-Mobilfunknetz wird zum 30.06.2021 abgeschaltet, auch wenn der tatsächliche Termin abhängig vom Provider (Telekom, Vodafone, O2) und je nach Region noch etwas früher oder auch später sein kann. Somit steht für alle Anwender der 3G-Technologie fest: Das Ende ist da - jetzt! Während wir im privaten Bereich davon kaum etwas spüren, weil unsere Smartphones alle ziemlich neu sind und schon längst 4G (LTE) unterstützen, sieht das im industriellen Bereich durchaus anders aus ...
+>> 3G Alternative
+Der richtige Provider für Fernwartung
+Die Anbindung von Maschinen und Anlagen an das Internet über Mobilfunk erfolgt oft per industriellem 4G-Router oder einem als Gateway eingerichteten Industrie-PC mit SIM-Karten-Interface. Welche Hardware auch immer zum Einsatz kommt, in jedem Fall ist für die erfolgreiche Datenverbindung eine SIM-Karte eines Providers notwendig. Während sich in großen Firmen und Konzernen die Frage nach dem „richtigen“ Provider oft gar nicht stellt, weil dies von entsprechenden Abteilungen bereits langfristig geregelt ist, steht der mittelständische Maschinenbauer, der kleine Anlagenbetreiber und jeder lokale Systemintegrator ...
+>> Partnerschaft mdex
+Grafikschnittstellen im Überblick
+Für die Verbindung zwischen PC bzw. Grafikkarte und Monitor kommen standardisierte Schnittstellen zum Einsatz. Im Wesentlichen wird zwischen analogen und digitalen Signalübertragungsarten unterschieden, wobei heutzutage die digitalen Schnittstellen überwiegen. Ursprünglich wurden die Signale aber rein analog übertragen. Diese Übertragungsart wird durch den VGA-Anschluss unterstützt ...
+>> Grafikauflösungen
+Unverzichtbare Helferlein für die serielle Schnittstelle
+Die serielle Schnittstelle ist noch lange nicht tot und immer noch als RS-232 oder RS-485 in Millionen von Geräten im Einsatz. Sie dient als Schnittstelle zur gelegentlichen Geräte-Parametrierung, zum Anschluss von Frequenzumrichter oder Laborwaage oder auch zur Datenübertragung von Endgeräten zu einem Host-PC. Verfügt der Host-PC oder das Service-Notebook des Technikers vor Ort über keine eigene physikalische COM-Schnittstelle ...
+>> USB-Seriell Adapter
+Grafikschnittstellen einfach anpassen
+Wahrscheinlich kennen Sie diese Situation: Jahrelang haben Sie Ihren Computer und Monitor gemeinsam im Einsatz. Nun muss eine Komponente ausgetauscht werden und die übrige Hardware bleibt unverändert. Und plötzlich passen die Grafikschnittstellen nicht mehr zueinander. Für diesen Fall bieten wir Ihnen eine einfache Lösung: Durch den Einsatz von entsprechenden Adaptern ...
+>> Interfaces
+Spectra GmbH & Co. KG
+Unterstützung und Beratung unter: +49 7121 1432-10 info@spectra.de
+Service
+Kontaktformular
+Downloads
+Retouren (RMA)
+Seriennummer finden
+Zahlung und Versand
+AGB
+Über Uns
+Über Spectra
+Impressum
+Datenschutz
+ISO 9001:2015
+Kontaktformular
+Downloads
+Retouren (RMA)
+Seriennummer finden
+Zahlung und Versand
+AGB
+Alle Preise exkl. gesetzl. Mehrwertsteuer zzgl. Versandkosten und ggf. Nachnahmegebühren, wenn nicht anders angegeben.
+© 2026 Spectra - Alle Rechte vorbehalten.
+Loading...
+Dateien werden hochgeladen, bitte warten...
+Anfrage erfolgreich abgeschickt
+Anfrage konnte nicht abgeschickt werden da ein Problem aufgetreten ist. Bitte versuchen Sie es erneut.

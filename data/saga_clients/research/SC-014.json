@@ -1,0 +1,74 @@
+{
+ "code": "SC-014",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（felixdronarfoto.se，快照 2026-10-21）",
+ "summary": "瑞典 Felix Drönarfoto AB（斯德哥尔摩无人机航拍/巡检服务商；2023 年阿里国际站询盘「商业级 48V 0.5A 1G PoE injector」；KP Felix Lanestrand（CEO）；表内国别「瑞士」有误（.se、Stockholm 地址））；表内未跟进。",
+ "type": "无人机服务终端用户（瑞典，PoE 注入器询盘）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Drönarpilot | Felix Drönarfoto AB | Stockholm",
+   "quote": "Felix Drönarfoto är din professionella partner när det gäller drönare. Med över 5 års erfarenhet erbjuder vi alla typer av drönartjänster som Drönarfotografering, Drönarfilm och inspektioner över hela Sverige.",
+   "url": "https://www.felixdronarfoto.se/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "商业级 48V 0.5A 1G PoE injector；2023年使用国际站 46 7051 30708 Addr: SE , 11458 , Stockholm , Kommendorsgatan 39；商业级 48V 0.5A 1G PoE injector / from: 阿里巴巴RFQ",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Felix Drönarfoto 定位",
+   "quote": "Drönarpilot | Felix Drönarfoto AB | Stockholm ; Felix Drönarfoto är din professionella partner när det gäller drönare",
+   "url": "https://www.felixdronarfoto.se/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "PoE injector 询盘",
+   "quote": "商业级 48V 0.5A 1G PoE injector；2023年使用国际站 Addr: SE , 11458 , Stockholm",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "非渠道终端小用户 + 询盘品类（PoE 注入器）Saga 不供；c_sub=品类不符/终端用户",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "瑞士",
+  "other": "官网 felixdronarfoto.se，语言 sv，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "无人机航拍 / 巡检服务（瑞典）"
+ ],
+ "channels": {
+  "role": "无人机服务终端用户（瑞典，PoE 注入器询盘）",
+  "region": "瑞典",
+  "contact": "info@felixdronarfoto.se、felixlanestrand@hotmail.com"
+ },
+ "signals": [
+  "官网：Felix Drönarfoto är din professionella partner när det gäller drönare. Med över 5 års erfarenhet erbjuder vi alla typer av drönartjänster",
+  "表内：商业级 48V 0.5A 1G PoE injector；2023 年使用国际站；Addr: SE, 11458, Stockholm, Kommendorsgatan 39；KP Felix Lanestrand, CEO"
+ ],
+ "risks": [
+  "非渠道终端小用户；询盘品类 PoE 注入器 Saga 不供（Q-32）；国别已更正为瑞典"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 20,
+  "why": "终端小用户（无人机服务），询盘品类为 PoE 注入器（Saga 不供，Q-32）→ 改 C"
+ },
+ "email_hook": "（不发送：终端小用户/品类不供）",
+ "country_fix": "瑞典"
+}

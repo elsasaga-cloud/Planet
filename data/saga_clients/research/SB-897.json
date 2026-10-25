@@ -1,111 +1,115 @@
 {
  "code": "SB-897",
- "name_official": "",
+ "name_official": "（肯尼亚 · Peter Weru，gmail）",
  "researched_at": "2026-10-21",
- "website_status": "在线（datastream.by，快照 2026-10-21）",
- "summary": "白俄罗斯 Датастрим ДЕП / datastream.by（明斯克网络与电信设备分销：零售与批发，站内 Zyxel / Vivotek、PoE 注入器 INJ-101GT、NS-EX-1GP 延长器；表内无兴趣记录；表内国别「保加利亚」有误——.by 域名 + 「доставка по Минску и Беларуси」→ 更正为白俄罗斯）；表内无跟进记录。",
- "type": "网络与电信设备分销商（白俄罗斯）",
+ "website_status": "无域名（免费邮箱/仅电话）",
+ "summary": "肯尼亚小型安装/转售商 Peter Weru（gmail，WA 已加，2016 年起用国际站）。需求「百兆单纤小外电 50 对」（100M 单纤迷你收发器、外置电源，50 对）；2024-06 发商业交换机图后要「price list」；19 次推送 2 次实质回复。→ B 25%。",
+ "type": "",
  "size": "",
- "brands_seen": [
-  "Zyxel",
-  "Vivotek"
- ],
+ "brands_seen": [],
  "evidence": [
   {
-   "kind": "官网快照",
-   "claim": "官网标题：Сетевое и телекоммуникационное оборудование — Датастрим ДЕП；品类词 光纤 / 媒体转换 / 网络交换 / PoE",
-   "quote": "Оборудование для сетей и связи — розница и опт. Профессиональная консультация, широкий ассортимент, доставка по Минску и Беларуси.",
-   "url": "https://datastream.by/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "明斯克网络与电信设备分销（零售与批发）",
-   "quote": "Оборудование для сетей и связи — розница и опт. Профессиональная консультация, широкий ассортимент, доставка по Минску и Беларуси.",
-   "url": "https://datastream.by/",
+   "kind": "用户表",
+   "claim": "表内需求与回复",
+   "quote": "百兆单纤小外电 50对 16年使用国际站；2024.6.21 发了几个商业交换机图 → Email发了2光6小壳信息；4.7 发了洪瑞商业交换机图 → price list",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Peter Weru",
+   "role": "（职位未核）",
+   "email": "wellspeter8@gmail.com",
+   "phone": "+254 725 011 213（WA 已加）",
+   "source": "用户 Clients 表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "无域名 · 仅表内信息"
  },
  "company_facts": {
-  "hq": "保加利亚",
-  "other": "官网 datastream.by，语言 ru，快照状态 ok；角色判定来源：官网文案"
+  "legal_name": "待核",
+  "founded": "待核",
+  "hq": "待核",
+  "size": "待核",
+  "other": "+254 725 011 213；无公司名"
  },
  "business_lines": [
-  "网络与电信设备分销（零售 + 批发）"
+  "待核（见表内需求）"
  ],
+ "products_seen": [],
  "channels": {
-  "role": "网络与电信设备分销商（白俄罗斯）",
-  "region": "白俄罗斯",
-  "contact": "info@datastream.by"
+  "contact": "Peter Weru wellspeter8@gmail.com / pweruh@gmail.com，+254 725 011 213（WA 已加）"
  },
  "signals": [
-  "官网：Оборудование для сетей и связи — розница и опт … доставка по Минску и Беларуси",
-  "站内 kw：poe 148 / ethernet 54；品牌 Zyxel / Vivotek"
+  "50 对单纤 MC 为明确数量需求",
+  "2025-04 要价格表"
  ],
  "risks": [
-  "白俄罗斯：结算/物流受限，非主攻区",
-  "无具名 KP（info@）；表内无兴趣记录"
+  "商用迷你外电 MC 不在 Saga 价目（只有工业 DIN 款）",
+  "单纤需 BiDi SFP（Q-32）"
  ],
  "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 20,
-  "why": "分销商 PoE 品类 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）"
+  "p1": "STI-110FE",
+  "tier": 25,
+  "why": "百兆单纤 MC → Saga 仅有工业款 STI-110FE（$19.7–21.4）；若坚持商用迷你外电款需向 SmartByte/HRUI 另索价并标注"
  },
- "email_hook": "For the PoE switch section of your Minsk catalogue, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port unmanaged PoE units from small lots, EXW — which band do your partners order most, unmanaged or managed PoE?",
- "country_fix": "白俄罗斯",
+ "email_hook": "For the 50 pairs of 100M single-fiber converters you mentioned: our DIN-rail 100M model is $20–21 EXW; if you need the low-cost desktop type with external adapter I can quote that separately — which do you prefer?",
  "mail_review": {
   "binding": {
-   "level": "未发信（S/A 邮箱均无往来；来源：调研建档；Elsa 箱：`to:datastream.by` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(k)））",
-   "type": "网络与电信设备分销商（白俄罗斯）",
-   "sieve": "—（未入筛）",
-   "stop": "从未触达",
-   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
-   "lane": "白俄罗斯（欧洲全域主攻）",
-   "cadence": "首封后看打开",
-   "evidence": "gmail_digest：out 0；研究档 risks：白俄罗斯：结算/物流受限，非主攻区"
+   "level": "未触达（S 邮箱 1 封 2024，无记录打开，0 回；收件 pweruh@gmail.com, wellspeter8@gmail.com；主题多为「8 port fiber switch」；Elsa 箱：`to:wellspeter8@gmail.com OR to:pweruh@gmail.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 1 / 来 0）（第 74 批(n)））",
+   "type": "—",
+   "sieve": "1（只收到群发）",
+   "stop": "1 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "肯尼亚 非主攻",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 1；用户表：「百兆单纤小外电 50对 16年使用国际站；2024.6.21 发了几个商业交换机图 → Email发了2光6小壳信息；4.7 发了洪瑞商业交换机图 → pric」；研究档 risks：商用迷你外电 MC 不在 Saga 价目（只有工业 DIN 款）"
   },
-  "situation": "白俄罗斯 Датастрим ДЕП / datastream.by（明斯克网络与电信设备分销：零售与批发，站内 Zyxel / Vivotek、PoE 注入器 INJ-101GT、NS-EX-1GP 延长器；表内无兴趣记录；表内国别「保加利亚」有误——.by 域名 + 「доставка по Минску и Беларуси」→ 更正为白俄罗斯）；表内无跟进记录。",
-  "need": "分销商 PoE 品类 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）",
-  "breakpoint": "白俄罗斯：结算/物流受限，非主攻区",
+  "situation": "肯尼亚小型安装/转售商 Peter Weru（gmail，WA 已加，2016 年起用国际站）。需求「百兆单纤小外电 50 对」（100M 单纤迷你收发器、外置电源，50 对）；2024-06 发商业交换机图后要「price list」；19 次推送 2 次实质回复。→ B 25%。",
+  "need": "百兆单纤 MC → Saga 仅有工业款 STI-110FE（$19.7–21.4）；若坚持商用迷你外电款需向 SmartByte/HRUI 另索价并标注",
+  "breakpoint": "商用迷你外电 MC 不在 Saga 价目（只有工业 DIN 款）",
   "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 20,
-   "price": "首触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
-   "why": "分销商 PoE 品类 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）",
+   "p1": "STI-110FE",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "百兆单纤 MC → Saga 仅有工业款 STI-110FE（$19.7–21.4）；若坚持商用迷你外电款需向 SmartByte/HRUI 另索价并标注",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "待 Simon 排期（首封）",
-   "channel": "A 邮箱 → info@datastream.by（无具名 KP；公用地址）",
-   "action": "首封：按 email_hook 一问（第 75 批(l) 2026-10-25：英文信稿已写 `draft_en`）（第 76 批(c) 2026-10-25：0 事实户补时间线事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
-   "one_question": "For the PoE switch section of your Minsk catalogue, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port unmanaged PoE units from small lots, EXW — which band do your partners order most, unmanaged or managed PoE? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "For the 50 pairs of 100M single-fiber converters you mentioned: our DIN-rail 100M model is $20–21 EXW; if you need the low-cost desktop type with external adapter I can quote that separately — which do you prefer?"
   },
   "facts": [
    {
+    "date": "2024-06-22",
+    "dir": "去",
+    "who": "S 群发",
+    "quote": "8 port fiber switch",
+    "why": "1 封 / 0 次打开 / 0 回｜首封 2024-06-22 → 末封 2024-06-22（1 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
     "date": "2026-10-21",
-    "dir": "研",
-    "who": "官网快照",
-    "quote": "官网标题：Сетевое и телекоммуникационное оборудование — Датастрим ДЕП；品类词 光纤 / 媒体转换 / 网络交换 / PoE：Оборудование для сетей и связи — розница и опт. Профессиональная консультация, широкий ассортимент, доставка по Минску и Беларус",
-    "why": "无任何邮件往来；唯一证据为研究/用户表记录",
-    "k": "https://datastream.by/"
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "百兆单纤小外电 50对 16年使用国际站；2024.6.21 发了几个商业交换机图 → Email发了2光6小壳信息；4.7 发了洪瑞商业交换机图 → price list",
+    "why": "表内备注",
+    "k": "用户表"
    }
   ],
   "proof_gaps": [
-   "无邮件往来"
+   "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
   ],
-  "draft_en": {
-   "subject": "PoE switch section of your Minsk catalogue - two neutral-brand SKUs",
-   "body": "Hello Datastream team,\n\nFor the PoE switch section of your Minsk catalogue, two neutral-brand SKUs from small lots: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based - model STC-28DGGPM - $80.7 USD EXW at distributor price (MOQ 1, 15-day validity); budget 8-PoE + 2 uplink unmanaged - STC-028GP - $25.1. CE/RoHS files supplied; EAC stays on your side; PoE injectors and extenders we leave to your current sources.\n\nOne question: which band do your partners order most - unmanaged or managed PoE?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
-  },
+  "draft_en": null,
   "as_of": "2026-10-24"
  }
 }

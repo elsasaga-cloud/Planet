@@ -1,265 +1,223 @@
-# SB-265 intellcom.net · home · https://intellcom.net/ · fetched 2026-10-25T07:41:18Z · HTTP 200
-ინტელკომ ჯგუფი - ოპტიმალური გადაწყვეტები
-მომხმარებელი არ არის ვერიფიცირებული
-ვერიფიკაცია
-კომპანია
-სერვისები
-პირობები
-ზოგადი პირობები
-მიწოდების პირობები
-გადახდის პირობები
-საგარანტიო მომსახურების პირობები
-კონფიდენციალურობის პოლიტიკა
-დაბრუნების პოლიტიკა
-ვაკანსია 3
-ტრენინგები
-ვებინარები
-კონტაქტი
-ქარ
-ქართული
-ENGLISH
-შესვლა
-/
-რეგისტრაცია
-ენერგო უზრუნველყოფა
-მზის ენერგია
-მზის პანელები
-On-Grid ინვერტორები
-Off-Grid ინვერტორები
-ჰიბრიდული ინვერტორები
-MPPT კონტროლერები
-აქსესუარები მზის ენერგიისთვის
-უწყვეტი კვების წყაროები UPS
-Line Interactive UPS
-On-Line UPS
-მოდულარული UPS
-UPS აქსესუარები
-აკუმულატორები
-ტყვია-მჟავას აკუმულატორები
-ლითიუმის აკუმულატორები
-აკუმულატორების კაბინეტები
-აკუმულატორის აქსესუარები
-ელექტროდამცავი მოწყობილობები
-დენის იმპულსისგან დაცვა
-აკუმულატორის განმუხტვის კონტროლერები
-ავტომატური ამომრთველები
-დიფერენციალური ავტომატები
-DC ავტომატური ამომრთველები
-Bypass ავტომატური ამომრთველები
-დნობადი მცველები
-გაჟონვის რელეები
-DC-AC ინვერტორები
-PoE კვება
-ადაპტერები
-ინდუსტრიული კვების ბლოკები
-უსაფრთხოების სისტემები
-ვიდეო-მეთვალყურეობა
-IP კამერები
-IP ვიდეო-ჩამწერები (NVR)
-ანალოგური კამერები
-ანალოგური ვიდეო-ჩამწერები (DVR/XVR)
-კვების ბლოკები ანალოგური კამერებისათვის
-სამაგრები და აქსესუარები
-სახანძრო სიგნალიზაცია
-სამისამართო სახანძრო სიგნალიზაცია
-არასამისამართო სახანძრო სიგნალიზაცია
-სახანძრო კაბელი
-გახმოვანების სისტემები
-ხმამაღლამოლაპარაკეები
-ხმის გამაძლიერებლები
-აქსესუარები
-დაშვების სისტემა და დომოფონები
-დაშვების სისტემა
-დომოფონები
-მყარი დისკები
-სვიჩები
-არამართვადი PoE სვიჩები
-მართვადი PoE სვიჩები
-LAN & WAN
-კორპორატიული WiFi
-დაშვების წერტილები Access Points
-UniFi Cloud Gateway
-UniFi Advanced Hosting
-PoE კვება
-როუტერები და Firewall-ები
-ეზერნეტ როუტერები
-Firewall-ები
-WiFi როუტერები
-LTE როუტერები
-ლიცენზიები
-სვიჩები
-მართვადი სვიჩები
-მართვადი PoE სვიჩები
-არამართვადი სვიჩები
-არამართვადი PoE სვიჩები
-ინდუსტრიული ქსელური მოწყობილობები
-ინდუსტრიული სვიჩები
-ინდუსტრიული LTE როუტერები
-აქსესუარები
-საპროვაიდერო WiFi
-სააბონენტო მოწყობილობები
-დაშვების წერტილები
-ანტენები
-აქსესუარები
-მაგისტრალური უსადენო ქსელები
-საკომუნიკაციო კარადები
-დასადგამი კარადები
-სასერვერო კარადები
-კედლის კარადები
-გარე გამოყენების კარადები
-აქსესუარები
-LAN კაბელები
-LAN კაბელები 100% სპილენძით
-LAN კაბელები 20% სპილენძით
-LAN კომპონენტები
-ჯეკები
-ქისტონები
-LAN როზეტები
-პაჩ-პანელები
-პაჩკორდები
-LAN ინსტრუმენტები
-ოპტიკური ქსელი
-მედია კონვერტორები
-SFP მოდულები
-GEPON/EPON
-ოპტიკური კაბელები
-კაბელის სამაგრები
-პასიური კომპონენტები
-ODF
-ქუროები
-პაჩკორდები და პიგტეილები
-ადაპტერები და კონექტორები
-PLC სპლიტერები
-სპლიტერების ყუთები
-აქსესუარები
-შედუღების აპარატები და აქსესუარები
-საზომი მოწყობილობები
-ოპტიკის ინსტრუმენტები
-აუდიო-ვიდეო
-ვიდეო-მეთვალყურეობა
-IP კამერები
-IP ვიდეო-ჩამწერები (NVR)
-ანალოგური კამერები
-ანალოგური ვიდეო-ჩამწერები (DVR)
-სამაგრები და აქსესუარები
-გახმოვანების სისტემები
-ხმამაღლამოლაპარაკეები
-ხმის გამაძლიერებლები
-აქსესუარები
-VoIP
-IP ტელეფონები
-DECT ტელეფონები
-ტელეფონის აქსესუარები
-სატელეფონო სადგურები და კარიბჭეები
-სატელეფონო სადგურების მოდულები
-საკონფერენციო სისტემები
-ინტერაქტიური ეკრანები
-მონიტორები
-დომოფონები
-Android TV Box
-მონაცემთა შენახვა
-NAS სერვერები
-მყარი დისკები
-SSD დისკები
-SD ბარათები
-ენერგო უზრუნველყოფა
-უსაფრთხოების სისტემები
-LAN & WAN
-ოპტიკური ქსელი
-აუდიო ვიდეო
-მონაცემთა შენახვა
-ახალი პროდუქტები
-ყველას ნახვა
-რეკის სამაგრი 1U 1HDD ჩამწერებისთვის
-RM-1U-260
-#04066
-14.58 ₾
-მარაგშია
-32 არხიანი IP ვიდეო ჩამწერი NVR - 2 მყარი დისკი, HiLook
-NVR-232MH-K
-#04094
-947.06 ₾
-გზაშია, სავარაუდო ჩამოსვლა:
-30.10.2026
-LTU Extreme-Range
-LTU-XR-EU
-#03571
-604.66 ₾
-მარაგშია
-LTE როუტერი - SXT LTE7 kit
-SXTR&R11e-LTE7
-#03809
-364.71 ₾
-მარაგშია
-5G როუტერი - ATL 5G R16, GbE, IP66, eSIM, 4x4 MIMO, 16dBi, MikroTik
-ATLGM&RG520F-EU
-#03693
-1203.74 ₾
-მარაგშია
-არამართვადი სვიჩი - 24 x გიგაბიტ პორტით, 2x SFP, BDCOM
-S1500-24T2S
-#03339
-283.46 ₾
-გზაშია, სავარაუდო ჩამოსვლა:
-30.10.2026
-როუტერი - EdgeRouter 6 PoE, Ubiquiti
-ER-6P-EU
-#03635
-1026.43 ₾
-მარაგშია
-როუტერი - hEX S, E60iUGS, MikroTik
-E60iUGS
-#03639
-247.75 ₾
-მარაგშია
-საინფორმაციო ბლოკი
-ყველას ნახვა
-შეხვედრა BTU-ს სტუდენტებთან
-6.10.2026.
-6 ოქტომბერს, ბიზნესისა და ტექნოლოგიების უნივერსიტეტში, კარიერული განვითარების ცენტრის ორგანიზებით, „საინფორმაციო ტექნოლოგიების“ პროგრამის სტუდენტებისთვის პროფესიული ორიენტაციის შეხვედრა გაიმართა, რომე
-„ინტელკომ ჯგუფი“ ქართული ინტერნეტ-ინდუსტრიის ფორუმზე
-24.09.2026
-24–26 სექტემბერს, კვარიათში, სასტუმრო „ლიც რეზორტში“, „საქართველოს სატელეკომუნიკაციო ოპერატორების ასოციაციის“ ორგანიზებით, „ქართული ინტერნეტ-ინდუსტრიის ფორუმი 2026“ გაიმართა.
-DSPPA - ოფიციალური პარტნიორი პროფესიონალური გახმოვანების მიმართულებით
-15.09.2026
-ინტელკომ ჯგუფი წარმოგიდგენთ ახალ ოფიციალურ პარტნიორს შენობების გახმოვანების სისტემების მიმართულებით - DSPPA.
-BTU-ს სტუდენტების სამთვიანი სტაჟირების პროგრამა წარმატებით დასრულდა
-1.07.2026.
-ინტელკომ ჯგუფსა და ბიზნესისა და ტექნოლოგიების უნივერსიტეტს (BTU) შორის გაფორმებული ურთიერთთანამშრომლობის მემორანდუმის ფარგლებში, კომპანიის ტექნიკურ დეპარტამენტში სამთვიანი სტაჟირება განხორციელდა, შემდ
-შესრულებული პროექტები
-ყველას ნახვა
-IT აუდიტი და საიმედო ქსელის მოწყობა
-სასტუმრო New Gudauri (გუდაური, 20.03.2026)
-“ინტელკომ ჯგუფმა“ სრულად გაანახლა სასტუმრო „New Gudauri“-ის შიდა IT ინფრასტრუქტურა.
-მზის Off-grid სადგურის რეაბილიტაცია ,,ალტიჰატ 3014“- სთვის
-ალტიჰატი 3014 (ყაზბეგის მუნიციპალიტეტი, 25.07.2026)
-ინტელკომ ჯგუფმა წარმატებით დაასრულა ყაზბეგის მუნიციპალიტეტში პოპულარულ ტურისტულ ზონაში მდებარე ალპური ქოხის,
-,,ალტიჰატ 3014“-ის, ენერგოსისტემის განახლების სამუშაო.
-Moby-ს კონცერტისთვის ქსელური ინფრასტრუქტურა მოეწყო
-სელფი (რუსთავი, 30.07.)
-MobyLive 26-ის ექსკლუზიური სატელეკომუნიკაციო პარტნიორის, კომპანია „სელფის“, დაკვეთით, ინტელკომ ჯგუფმა რუსთავის საერთაშორისო ავტოდრომზე გამართული Moby-ს კონცერტისთვის საჭირო ქსელური ინფრასტრუქტურა მოაწყო.
-მაღალი საიმედოობის ქსელი „Tbilisi Open Air 2026“-სთვის
-სელფი (4.07.2026)
-Tbilisi Open Air 2026-ის ტელეკომ პარტნიორის „სელფის“ დაკვეთით ინტელკომ ჯგუფმა“ განახორციელა რეგიონში ერთ-ერთი ყველაზე მასშტაბური მუსიკალური ფესტივალის, ქსელური ინფრასტრუქტურის მოწყობის პროექტი.
-ჩვენს შესახებ
-კომპანია
-პარტნიორები
-საინფორმაციო ბლოკი
-შესრულებული პროექტები
-სერვისები
-WiFi ქსელი MikroTik-ის კონფიგურაცია მაღალი საიმედოობის ქსელის მოწყობა ქსელის აუდიტი ოპტიკური ქსელი ყველას ნახვა
-წესები და პირობები
-ზოგადი პირობები
-მიწოდების პირობები
-გადახდის პირობები
-საგარანტიო მომსახურების პირობები
-კონფიდენციალურობის პოლიტიკა
-დაბრუნების პოლიტიკა
-საკონტაქტო ინფორმაცია
-+995 32 2 98 98 49
-sale@intellcom.net
-ტერევერკოს ქ. 42 (შოურუმი, ოფისი, სერვის-ცენტრი, საწყობი)
-სამუშაო დღეები: ორშაბათი-პარასკევი
-სამუშაო საათები: 10.00-18.00 სთ.
-© Intellcom Group, 2008-2026
-მობილური ვერსია
+# SB-265 Vdeotronic AG · home · https://videotronic.ch/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+Videotronic | Videosicherheit & Zutrittskontrolle Schweiz
+Skip to Content
+Site Suche
+{
+const searchInput = document.querySelector('#search');
+searchInput.focus();
+searchInput.select();
+});
+">
+Search
+Menu
+Produkte
+View All
+Mobile Überwachung
+Perimeterschutz
+Biometrische Zutrittskontrolle
+Intercom
+Digital Signage
+EVAK
+Smart Home
+Dienstleistungen
+View All
+Beratung und Planung
+Umsetzung und Inbetriebnahme
+Service und Support
+Sicherheitskontrollen und Audits
+Produktion und Lackierservice
+Auswertungen
+Lösungen
+View All
+Sicherheit im Bankensektor
+Cloudbasierte Videoüberwachung
+Sicherheit im Energiesektor
+Videoüberwachung für Gemeinden
+Sicherheit zu Hause
+Sicherheit in der Hotellerie
+Sicherheit in der Landwirtschaft
+Sicherheit in der Schifffahrt
+Sicherheit im Strassenverkehr
+Mobile Videoüberwachung
+Sicherheit an Tankstellen
+Sicherheit in Lagerhallen
+Sicherheit an Bus- und Bahnhöfen
+Wissen & Aktuelles
+View All
+News
+Schulungen
+Newsletter
+Download
+Unternehmen
+View All
+Über uns
+Ansprechpartner
+Karriere
+Partner und Zertifizierungen
+Unsere Marken
+Webshop
+Compare
+Wishlist
+VIDEOTRONIC
+DE/AT/CH
+International
+Schließen
+{
+$dispatch('unset-category-image');
+openSubmenuId = '810';
+$dispatch('set-category-image');
+}, 400);
+"
+@mouseleave="
+clearTimeout(this.openSubmenuTimeout);
+"
+@keydown.escape="onSubmenuEscape"
+>
+Produkte
+Toggle submenu for Produkte
+Mobile Überwachung
+Perimeterschutz
+Biometrische Zutrittskontrolle
+Intercom
+Digital Signage
+EVAK
+Smart Home
+{
+$dispatch('unset-category-image');
+openSubmenuId = '819';
+$dispatch('set-category-image');
+}, 400);
+"
+@mouseleave="
+clearTimeout(this.openSubmenuTimeout);
+"
+@keydown.escape="onSubmenuEscape"
+>
+Dienstleistungen
+Toggle submenu for Dienstleistungen
+Beratung und Planung
+Umsetzung und Inbetriebnahme
+Service und Support
+Sicherheitskontrollen und Audits
+Produktion und Lackierservice
+Auswertungen
+{
+$dispatch('unset-category-image');
+openSubmenuId = '837';
+$dispatch('set-category-image');
+}, 400);
+"
+@mouseleave="
+clearTimeout(this.openSubmenuTimeout);
+"
+@keydown.escape="onSubmenuEscape"
+>
+Lösungen
+Toggle submenu for Lösungen
+Sicherheit im Bankensektor
+Cloudbasierte Videoüberwachung
+Sicherheit im Energiesektor
+Videoüberwachung für Gemeinden
+Sicherheit zu Hause
+Sicherheit in der Hotellerie
+Sicherheit in der Landwirtschaft
+Sicherheit in der Schifffahrt
+Sicherheit im Strassenverkehr
+Mobile Videoüberwachung
+Sicherheit an Tankstellen
+Sicherheit in Lagerhallen
+Sicherheit an Bus- und Bahnhöfen
+{
+$dispatch('unset-category-image');
+openSubmenuId = '827';
+$dispatch('set-category-image');
+}, 400);
+"
+@mouseleave="
+clearTimeout(this.openSubmenuTimeout);
+"
+@keydown.escape="onSubmenuEscape"
+>
+Wissen & Aktuelles
+Toggle submenu for Wissen & Aktuelles
+News
+Schulungen
+Newsletter
+Download
+{
+$dispatch('unset-category-image');
+openSubmenuId = '821';
+$dispatch('set-category-image');
+}, 400);
+"
+@mouseleave="
+clearTimeout(this.openSubmenuTimeout);
+"
+@keydown.escape="onSubmenuEscape"
+>
+Unternehmen
+Toggle submenu for Unternehmen
+Über uns
+Ansprechpartner
+Karriere
+Partner und Zertifizierungen
+Unsere Marken
+{
+$dispatch('unset-category-image');
+openSubmenuId = '820';
+$dispatch('set-category-image');
+}, 400);
+"
+@mouseleave="
+clearTimeout(this.openSubmenuTimeout);
+"
+@keydown.escape="onSubmenuEscape"
+>
+Webshop
+Kompetenz und Erfahrung im Bereich Videoüberwachung und Intercom seit 1976
+Die Videotronic AG ist seit über 50 Jahren Ihr erfahrener Partner für Videosicherheits- und Intercom-Lösungen.
+Mit herstellerunabhängiger Beratung, fundierter Projektexpertise und umfassenden Services von der Planung bis zur Inbetriebnahme entwickeln wir passgenaue Lösungen für Ihre Anforderungen. Unsere Stärke liegt in der Verbindung aus langjähriger Erfahrung, technischer Kompetenz und individueller Betreuung für Ihren nachhaltigen Projekterfolg im Schweizer Markt.
+Seit 2026 gehört Videotronic mehrheitlich zur VIDEOR E. Hartig GmbH (www.videor.com) .
+Unser Leistungsspektrum
+Produktvielfalt, die überzeugt
+Verfügbar. Pünktlich. Vollständig.
+Webshop
+Dienstleistungen rund um Ihr Projekt
+Erfahren. Vernetzt. Kompetent.
+Support
+Das sagen unsere Kunden
+Was uns überzeugt hat: Die Kombination aus tiefem Know-how, ehrlicher Beratung und maßgeschneiderten Lösungen – bei der Videotronic AG fühlt man sich von Anfang an richtig verstanden.
+Ob Support, Schulung oder Umsetzung – auf die Videotronic AG ist jederzeit Verlass. Genau so stellt man sich einen langfristigen Partner vor.
+Mit der Videotronic AG haben wir nicht nur Produkte bezogen, sondern einen Partner gewonnen, der unser Projekt von der ersten Idee bis zur Inbetriebnahme mit echter Expertise begleitet hat.
+Unsere Marken
+Weitere Marken entdecken
+Öffnungszeiten
+Montag – Donnerstag
+– und  –
+Freitag
+– und  –
+Kontakt
+Moosäckerstrasse 73
+8105 Regensdorf
+Tel.
++41 44 843 90 00
+info@videotronic.ch
+Info & Hilfe
+Service und Support
+Ansprechpartner
+Videotronic
+Karriere
+Newsletter abonnieren
+© Videor E. Hartig GmbH
+Allgemeine Geschäftsbedingungen
+Videotronic Faktenindex
+Impressum und Datenschutz
+Cookie-Einstellungen
+{
+onInputName();
+})"
+x-bind="eventListeners">
+$refs.inputadd.focus());">
++ Neue Merkliste anlegen
+Hinzufügen
+A List With The Same Name Already Exist.

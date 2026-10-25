@@ -1,40 +1,127 @@
 {
  "code": "SB-468",
- "name_official": "IT Telecom（ittelecom.ir，伊朗）",
+ "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "在线（快照 2026-10-21，波斯语网店）",
- "summary": "伊朗网络 / CCTV / 光纤产品网店（SFP 134、PoE 58、switch 14；在售丰润达、宇航同类产品），产品线与 Saga 高度相似；伊朗 → 守界降 C。",
- "type": "",
+ "website_status": "在线（ninhthanh.com，快照 2026-10-21）",
+ "summary": "越南 Ninh Thanh Production and Trading Co., Ltd.（电信、数字化转型方案、数字地图；分销/批发；阿里巴巴 RFQ「商业千兆 1 光 4 电」；KP Đinh Tú Vũ（CEO））；表内未跟进。",
+ "type": "电信/数字化贸易商（越南，1 光 4 电 RFQ）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Aruba"
+ ],
  "evidence": [
   {
    "kind": "官网快照",
-   "claim": "伊朗网络、CCTV、光纤产品评测与销售网店",
-   "quote": "مرجع نقد و بررسی و فروش محصولات شبکه ، دوربین مدار بسته و فیبرنوری",
-   "url": "https://ittelecom.ir/",
+   "claim": "官网标题：NINH THANH PRODUCTION AND TRADING CO., LTD.；品类词 工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 网络交换 / PoE",
+   "quote": "Ninh Thanh",
+   "url": "https://ninhthanh.com/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "产品线很相似；有一款丰润达的，也有宇航的",
-   "quote": "兴趣：产品线很相似",
+   "claim": "表内兴趣/备注",
+   "quote": "商业千兆1光4电 / from: 阿里巴巴RFQ",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Ninh Thanh 定位",
+   "quote": "NINH THANH PRODUCTION AND TRADING CO., LTD. ; Telecommunication ; Digital Transformation Solutions",
+   "url": "https://ninhthanh.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "商业千兆 1 光 4 电 RFQ",
+   "quote": "商业千兆1光4电 / from: 阿里巴巴RFQ",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
- "kp": [],
- "grade_override": "C",
- "override_reason": "伊朗（制裁 / 守界）",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "kp": [
+  {
+   "name": "Đinh Tú Vũ",
+   "title": "CEO",
+   "email": "dinhtu.vu@ninhthanh.com",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（身份判断 → 伊朗降 C）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
+ "company_facts": {
+  "hq": "越南",
+  "other": "官网 ninhthanh.com，语言 en，快照状态 ok；角色判定来源：用户表"
+ },
+ "business_lines": [
+  "电信 / 数字化方案贸易（越南）"
+ ],
+ "channels": {
+  "role": "电信/数字化贸易商（越南，1 光 4 电 RFQ）",
+  "region": "越南",
+  "contact": "dinhtu.vu@ninhthanh.com"
+ },
+ "signals": [
+  "官网：NINH THANH PRODUCTION AND TRADING CO., LTD. ; Telecommunication ; Digital Transformation Solutions ; Digital Map；kw automation 10 / distributor 3 / wholesale 2",
+  "表内：商业千兆 1 光 4 电 / from: 阿里巴巴 RFQ；KP DinhTu Vu, CEO"
+ ],
+ "risks": [
+  "非主攻区（T5，越南）；1 光 4 电非 PoE 商用款不在 Saga 列表（以 HRUI/工业款替代，注明）；RFQ 时效待核；未跟进过"
+ ],
  "saga_fit": {
-  "p1": null,
-  "tier": 20,
-  "why": "不供伊朗。"
+  "p1": "STC-114GP",
+  "tier": 25,
+  "why": "RFQ 商业千兆 1 光 4 电 → Saga 列表无非 PoE 1 SFP + 4 GE 商用款，以 HRUI STC-114GP（1 SFP + 4 PoE，列表价 $16.5，注明）或工业 STI-154GP（$39.2 @25%）替代；8 口 STC-28DGGPM（$84.1）"
  },
- "email_hook": "（不主动发送）"
+ "email_hook": "Đinh Tú, following your request for a gigabit 1-SFP + 4-GE switch: we can supply a 1 SFP + 4 GE (PoE) desktop model or a DIN-rail 1 SFP + 4 PoE industrial unit from single units, CE/RoHS, EXW USD — how many units do you need, and is PoE required on the copper ports?",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「商业千兆1光4电 / from: 阿里巴巴RFQ」；Elsa 箱：`to:ninhthanh.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(n)））",
+   "type": "电信/数字化贸易商（越南，1 光 4 电 RFQ）",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "不动（非主攻区；J5：有证据再动）",
+   "lane": "越南 非主攻",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 0；用户表：「商业千兆1光4电 / from: 阿里巴巴RFQ」；研究档 risks：非主攻区（T5，越南）；1 光 4 电非 PoE 商用款不在 Saga 列表（以 HRUI/工业款替代，注明）；RFQ 时效待核；未跟进过"
+  },
+  "situation": "越南 Ninh Thanh Production and Trading Co., Ltd.（电信、数字化转型方案、数字地图；分销/批发；阿里巴巴 RFQ「商业千兆 1 光 4 电」；KP Đinh Tú Vũ（CEO））；表内未跟进。",
+  "need": "RFQ 商业千兆 1 光 4 电 → Saga 列表无非 PoE 1 SFP + 4 GE 商用款，以 HRUI STC-114GP（1 SFP + 4 PoE，列表价 $16.5，注明）或工业 STI-154GP（$39.2 @25%）替代；8 口 STC-28DGGPM（$84.1）",
+  "breakpoint": "非主攻区（T5，越南）；1 光 4 电非 PoE 商用款不在 Saga 列表（以 HRUI/工业款替代，注明）；RFQ 时效待核；未跟进过",
+  "saga_now": {
+   "p1": "STC-114GP",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "RFQ 商业千兆 1 光 4 电 → Saga 列表无非 PoE 1 SFP + 4 GE 商用款，以 HRUI STC-114GP（1 SFP + 4 PoE，列表价 $16.5，注明）或工业 STI-154GP（$39.2 @25%）替代；8 口 STC-28DGGPM（$84.1）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "商业千兆1光4电 / from: 阿里巴巴RFQ",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

@@ -1,149 +1,134 @@
 {
-  "code": "SB-150",
-  "name_official": "",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（ltsecurityinc.com.au，快照 2026-10-21）",
-  "summary": "澳大利亚 LTS Security（LT Security 产品澳洲授权进口分销：CCTV、对讲、Ajax、PRO-X，KNX 认证，Trade Account；表内「工业 FS / MC / 周边；Utepo 的工业 FS，自己的型号」；KP George Lu（Technical Support Specialist，george@））；群发 21 次无回复。",
-  "type": "安防分销商（澳洲，LTS 线；自有型号工业 FS 由 Utepo 代工）",
-  "size": "",
-  "brands_seen": [
-    "Ajax",
-    "Utepo",
-    "LTS"
-  ],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "官网标题：Security Cameras & CCTV Distributor Australia | LTS Security；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
-      "quote": "Authorised Australian importer and distributor of LTS security products, CCTV cameras, intercoms, Ajax alarms, and PRO-X solutions for security professionals.",
-      "url": "https://www.ltsecurityinc.com.au/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "工业FS MC 周边产品 Upeto的工业FS 自己的型号",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网快照",
-      "claim": "LTS Security 澳洲授权分销",
-      "quote": "Authorised Australian importer and distributor of LTS security products, CCTV cameras, intercoms, Ajax alarms, and PRO-X solutions for security professionals.",
-      "url": "https://www.ltsecurityinc.com.au/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "Utepo 的工业 FS 自己的型号",
-      "quote": "工业FS MC 周边产品；Upeto的工业FS 自己的型号",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "George Lu",
-      "title": "Technical Support Specialist",
-      "email": "george@ltsecurityinc.com.au",
-      "phone": "",
-      "source": "用户表"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ "code": "SB-150",
+ "name_official": "Nexxus（nexxus.cc，美国）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（nexxus.cc，快照 2026-10-21）",
+ "summary": "美国网络方案 / 品牌 Nexxus（switch 157 / industrial 80），info@；表内「ONV 的工业 FS 带了自己的标」；群发 18 次无回复。自有标（ONV 代工）→ OEM 30%。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "ONV",
+  "Nexxus（自有）",
+  "Ubiquiti"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "Nexxus 网络方案与产品",
+   "quote": "Discover why customers love Nexxus networking services. With our high-quality products and exceptional support",
+   "url": "https://nexxus.cc/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "hq": "澳大利亚",
-    "other": "官网 ltsecurityinc.com.au，语言 en，快照状态 ok；角色判定来源：用户表"
-  },
-  "business_lines": [
-    "安防分销（LTS CCTV / 对讲 / Ajax / KNX）",
-    "工业 PoE 交换机（自有型号，Utepo 代工）"
-  ],
-  "channels": {
-    "role": "安防分销商（澳洲，LTS 线；自有型号工业 FS 由 Utepo 代工）",
-    "region": "澳大利亚",
-    "contact": "george@ltsecurityinc.com.au、info@ltsecurityinc.com.au"
-  },
-  "signals": [
-    "官网：Authorised Australian importer and distributor of LTS security products, CCTV cameras, intercoms, Ajax alarms, and PRO-X solutions",
-    "表内：Utepo 的工业 FS 自己的型号；KP George Lu / Technical Support Specialist"
-  ],
-  "risks": [
-    "非主攻区（T5）；RCM 合规由客户申报",
-    "现代工 Utepo（深圳）价格基准低；21 次无回复 → 改向具名技术支持首触，预期低"
-  ],
-  "saga_fit": {
-    "p1": "STI-288GP",
-    "tier": 30,
-    "why": "自有型号工业 FS 现由 Utepo 代工 → 工业非管理 8 PoE + 2 SFP STI-288GP（$62.2 @30%）/ 管理型 STI-288GPM 作二供；商用位 STC-28DGGPM"
-  },
-  "email_hook": "George, for the industrial PoE switches you carry under your own model numbers, we can be a second ODM source (DIN-rail 8-PoE + 2 SFP, −40~75 °C; managed versions on a Marvell platform) from small lots in your housing, CE/RoHS — would a sample against your current Utepo unit be useful?",
-  "mail_review": {
-    "binding": {
-      "level": "读而不回（A/S 邮箱 30 封 2024→2026，其中 4 封被打开，0 回；收件 george@ltsecurityinc.com.au, info@ltsecurityinc.com.au；被打开主题「Marvell Industrial Alert System、Industrial PoE Switch」）；Elsa 1:1 去信 1 封（2025-02-14「24 Port Fiber Switch」；To 仅本户 george@ltsecurityinc.com.au；Bcc 未逐封读头；同类名单抽读 24 封均无 Bcc；此后再未进 Elsa 任何名单——全箱 `from:e.sagatelecom to:george@ltsecurityinc.com.au` 仅此 1 条，complete）（第 74 批(m)）",
-      "type": "安防分销商（澳洲，LTS 线；自有型号工业 FS 由 Utepo 代工）",
-      "sieve": "2（有人在读，无人回）",
-      "stop": "读而不回 = 内容未命中或没有当下需求",
-      "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
-      "lane": "澳大利亚 非主攻",
-      "cadence": "一封；回了再说",
-      "evidence": "gmail_digest：out 30，Opened 标签 4（Simon 群发追踪）；用户表：「工业FS MC 周边产品 Upeto的工业FS 自己的型号」；研究档 risks：非主攻区（T5）；RCM 合规由客户申报"
-    },
-    "situation": "澳大利亚 LTS Security（LT Security 产品澳洲授权进口分销：CCTV、对讲、Ajax、PRO-X，KNX 认证，Trade Account；表内「工业 FS / MC / 周边；Utepo 的工业 FS，自己的型号」；KP George Lu（Technical Support Specialist，george@））；群发 21 次无回复。",
-    "need": "自有型号工业 FS 现由 Utepo 代工 → 工业非管理 8 PoE + 2 SFP STI-288GP（$62.2 @30%）/ 管理型 STI-288GPM 作二供；商用位 STC-28DGGPM",
-    "breakpoint": "非主攻区（T5）；RCM 合规由客户申报",
-    "saga_now": {
-      "p1": "STI-288GP",
-      "tier": 30,
-      "price": "首触锚价 STI-288GP $60 EXW（最近实报 $60（SA-100 2025-03-18；SB-1276 / SA-030 同价）（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-01 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-08 $280（10G Enterprise SFP Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-02-14 $240（24 Port Fiber Switch = STC-4168XGGCM 单 AC 稿，Elsa 箱 1 轮 2025-02-14；同款 2025-09 起群发 $280（双 AC 稿）——再提这款说 $280）",
-      "why": "自有型号工业 FS 现由 Utepo 代工 → 工业非管理 8 PoE + 2 SFP STI-288GP（$62.2 @30%）/ 管理型 STI-288GPM 作二供；商用位 STC-28DGGPM。已打开的主题（4/30 封有打开记录）：「Commercial Network Switch」(2025-05-07)、「Industrial PoE Switch」(2025-06-24)、「Managed Optical Bypass Switch」(2025-07-14)、「L3 Managed Switch」(2025-10-27) → 读者兴趣主题类别不明（看原主题）｜已发资料（勿重发）：Saga Feature List_7.5.x_L2+(2026-07-01)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "2026-11",
-      "channel": "A 邮箱 → george@ltsecurityinc.com.au",
-      "action": "首封前知悉：Elsa 仅 2025-02-14 单发过 1 封「24 Port Fiber Switch」，之后没再碰他（第 74 批(m)）；短信一问（email_hook）（第 76 批(c) 2026-10-25：audit_ab 软项修正：证书口径 CE/RoHS → CE/RoHS (RCM stays on your side)）",
-      "one_question": "George, for the industrial PoE switches you carry under your own model numbers, we can be a second ODM source (DIN-rail 8-PoE + 2 SFP, −40~75 °C; managed versions on a Marvell platform) from small lots in your housing, CE/RoHS — would a sample against your current Utepo unit be useful? Reference: STI-288GP at $60 USD EXW (MOQ 1, 15-day validity)."
-    },
-    "facts": [
-      {
-        "date": "2025-02-14",
-        "dir": "out",
-        "who": "Elsa → george@ltsecurityinc.com.au",
-        "quote": "24 Port Fiber Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次；正文价 240usd/pc，第 74 批(p) 读稿 msg 19628286dc08373a / 19874a707c2ed712）",
-        "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
-        "k": "elsa_1to1",
-        "msg_id": "19501c14dd72e51f"
-      },
-      {
-        "date": "2026-09-18",
-        "dir": "去",
-        "who": "A/S 群发",
-        "quote": "Marvell Industrial Alert System、Industrial PoE Switch",
-        "why": "30 封 / 4 次打开 / 0 回｜首封 2024-07-01 → 末封 2026-09-18（30 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "工业FS MC 周边产品 Upeto的工业FS 自己的型号",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": {
-      "subject": "One question — Marvell Industrial Alert System",
-      "body": "Hi George,\n\nWe have sent you a few mails on \"Marvell Industrial Alert System\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor the industrial PoE switches you carry under your own model numbers, we can be a second ODM source (DIN-rail 8-PoE + 2 SFP, −40~75 °C; managed versions on a Marvell platform) from small lots in your housing, CE/RoHS (RCM stays on your side) — would a sample against your current Utepo unit be useful?\n\nReference price: DIN-rail 8-PoE + 2 SFP unmanaged industrial switch, 240 W (STI-288GP) $60 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
-    },
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "ONV 的工业 FS 带了自己的标",
+   "quote": "兴趣：ONV的工业FS 带了自己的标",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "（未具名）",
+   "title": "",
+   "email": "info@nexxus.cc",
+   "phone": "",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照核对 + 表内）"
+ },
+ "company_facts": {
+  "legal_name": "Nexxus（待核）",
+  "founded": "",
+  "hq": "USA",
+  "size": "小型品牌商",
+  "other": "ONV 代工贴标"
+ },
+ "business_lines": [
+  "网络交换机（自有标）"
+ ],
+ "channels": {
+  "role": "品牌商（OEM 采购，现 ONV）",
+  "region": "美国"
+ },
+ "signals": [
+  "已贴标 ONV 工业 FS → 同规格替换"
+ ],
+ "risks": [
+  "美国：常要求 UL 列名（Saga 无 UL，仅 FCC/CE）→ 首触即说明",
+  "18 次群发无回复；无具名"
+ ],
+ "saga_fit": {
+  "p1": "STI-288GP",
+  "tier": 30,
+  "why": "替换 ONV 工业 2 光 8 PoE → STI-288GP（$62.2 @30%）贴 Nexxus 标。"
+ },
+ "email_hook": "For the Nexxus-labelled industrial switches (ONV-built today) — like-for-like 2-SFP + 8-PoE DIN units, plus a Marvell managed version, under your label from small lots; send me the ONV part number and I'll quote it directly.",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 31 封 2024→2026，1 次记录打开，0 回；收件 info@nexxus.cc；主题多为「Industrial PoE Switch、Marvell Industrial Alert System」；Elsa 箱：`to:nexxus.cc` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 31 / 来 0）（第 74 批(h)））",
+   "type": "—",
+   "sieve": "1~2（1 次打开）",
+   "stop": "只打通用邮箱，无记录打开",
+   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+   "lane": "US 主攻（四主）",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 31，Opened 标签 1（Simon 群发追踪）；用户表：「兴趣：ONV的工业FS 带了自己的标」；研究档 risks：美国：常要求 UL 列名（Saga 无 UL，仅 FCC/CE）→ 首触即说明"
+  },
+  "situation": "美国网络方案 / 品牌 Nexxus（switch 157 / industrial 80），info@；表内「ONV 的工业 FS 带了自己的标」；群发 18 次无回复。自有标（ONV 代工）→ OEM 30%。",
+  "need": "替换 ONV 工业 2 光 8 PoE → STI-288GP（$62.2 @30%）贴 Nexxus 标。",
+  "breakpoint": "美国：常要求 UL 列名（Saga 无 UL，仅 FCC/CE）→ 首触即说明",
+  "saga_now": {
+   "p1": "STI-288GP",
+   "tier": 30,
+   "price": "换人再触锚价 STI-288GP $62.2 EXW（本户贴标 OEM 30% 档；最近实报 $60（SB-034 2025-03-18；SB-1102 / SB-010 同价）（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-10-08 $65（10G Media Converter）；群发里他已看到的价（续）：2026-07-22 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-06 $280（10G Enterprise SFP Switch）",
+   "why": "替换 ONV 工业 2 光 8 PoE → STI-288GP（$62.2 @30%）贴 Nexxus 标。已打开的主题（1/31 封有打开记录）：「Marvell Alleycat5 Solution」(2025-03-18) → 读者兴趣主题类别不明（看原主题）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1（换人后）",
+   "channel": "A 邮箱 → 具名 KP",
+   "action": "换收件人再发一封（第 75 批(t) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用；具名 KP 见 channel））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（第 76 批(d) 2026-10-25：锚价文本与稿价对齐：OEM 30% 档 $62.2，实报 $60 留作下限）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
+   "one_question": "For the Nexxus-labelled industrial switches (ONV-built today) — like-for-like 2-SFP + 8-PoE DIN units, plus a Marvell managed version, under your label from small lots; send me the ONV part number and I'll quote it directly. Reference: STI-288GP at $60 USD EXW (MOQ 1, 15-day validity)."
+  },
+  "facts": [
+   {
+    "date": "2026-09-18",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Industrial PoE Switch、Marvell Industrial Alert System",
+    "why": "31 封 / 1 次打开 / 0 回｜首封 2024-06-27 → 末封 2026-09-18（31 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：ONV的工业FS 带了自己的标",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026-09-18",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "16 Port Industrial PoE Switch",
+    "why": "本日去信真实主题（邮箱索引 251124c5a74f5627；信稿开头句引用此封；此前稿内写的「Industrial PoE Switch」是线程列表首题，不是本封）",
+    "k": "251124c5a74f5627"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": {
+   "subject": "The Nexxus-labelled industrial switches - like-for-like, under your label, from small lots",
+   "body": "Hello Nexxus team,\n\nOver the past months you had a few product mails from us - most recently \"16 Port Industrial PoE Switch\" on 18 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nYour Nexxus-labelled industrial switches are ONV-built today. Like-for-like from us, under the Nexxus label from small lots, -40 to 75 C, FCC/CE/RoHS: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, unmanaged - model STI-288GP - $62.2 USD EXW with your logo (MOQ 1, 15-day validity); the same footprint L2+ managed with ring redundancy on a Marvell platform - STI-288DGGPM - $137.5. Logo on the unit is free; colour box from 200 sets.\n\nOne question: which ONV part number is your volume item - send it and I quote that one directly?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+  },
+  "as_of": "2026-10-24"
+ }
 }

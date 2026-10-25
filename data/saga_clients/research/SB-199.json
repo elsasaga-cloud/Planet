@@ -1,88 +1,91 @@
 {
  "code": "SB-199",
- "name_official": "",
+ "name_official": "Kore Konect（波兰）",
  "researched_at": "2026-10-21",
- "website_status": "快照失败（http_error）",
- "summary": "德国 HK GmbH（hk-systeme.de；表内「有时候需要 PoE，需要用到带光口的交换机」；KP Lukas Gierlirg；官网 http_error）；表内 7 次跟进无回复。",
- "type": "系统集成商（德国，PoE + 光口需求）",
+ "website_status": "在线（korekonect.com，快照 2026-10-21）",
+ "summary": "波兰网络设备经销（poe 113 / switch 104 / industrial 54 / sfp 62 / distributor 6），info@ + gmail；表内「有 E-wind 的」；群发 3 次无回复。",
+ "type": "",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "E-wind"
+ ],
  "evidence": [
   {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "有时候需要POE，需要用到带光口的交换机",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "kind": "官网快照",
+   "claim": "kore konect；关键词 poe 113 / switch 104 / industrial 54",
+   "quote": "kore konect",
+   "url": "https://korekonect.com/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "有时候需要 PoE 带光口交换机",
-   "quote": "有时候需要POE，需要用到带光口的交换机",
+   "claim": "有 Ewind 的",
+   "quote": "兴趣：有Ewind的",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
  "kp": [
   {
-   "name": "Lukas Gierlirg",
-   "title": "（职务待核）",
-   "email": "lg@hk-systeme.de",
+   "name": "（未具名）",
+   "title": "",
+   "email": "info@korekonect.com",
    "phone": "",
-   "source": "用户表"
+   "source": "（本地 Clients/ 表格，无公开 URL）"
   }
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（官网快照核对 + 表内）"
  },
  "company_facts": {
-  "hq": "德国",
-  "other": "官网 hk-systeme.de，语言 ?，快照状态 http_error；角色判定来源：待核"
+  "legal_name": "Kore Konect（待核）",
+  "founded": "",
+  "hq": "Poland",
+  "size": "小型经销",
+  "other": "已售 E-wind"
  },
  "business_lines": [
-  "系统集成（德国）"
+  "网络设备经销"
  ],
  "channels": {
-  "role": "系统集成商（德国，PoE + 光口需求）",
-  "region": "德国",
-  "contact": "lg@hk-systeme.de"
+  "role": "经销商（已售中国同行）",
+  "region": "波兰"
  },
  "signals": [
-  "表内：有时候需要 POE，需要用到带光口的交换机；KP Lukas Gierlirg",
-  "快照：http_error"
+  "已售 E-wind → 同类替换"
  ],
  "risks": [
-  "需求为间歇性（量小）；官网 http_error；7 次无回复"
+  "无具名；3 次群发无回复"
  ],
  "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 25,
-  "why": "PoE + 光口 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、工业 8 PoE + 2 SFP STI-288GPM（$82.2）、4 PoE + 1 SFP STI-154GP（$39.2）"
+  "p1": "STI-110GE",
+  "tier": 20,
+  "why": "对位 E-wind MC / 工业 FS → STI-110GE（$22.4 @20%）+ STI-288GP。"
  },
- "email_hook": "Lukas, for the projects where you need PoE switches with fibre uplinks, we supply Marvell-based 8-PoE + 2 SFP L2+ (commercial) and DIN-rail 4/8-PoE + SFP industrial units from single units, CE/RoHS, EXW USD — which port count and uplink type does your typical installation use?",
+ "email_hook": "For the E-wind converters and industrial switches you stock — DIN gigabit MC at $22 and 2-SFP + 8-PoE at $57 EXW, CE/RoHS; want a comparison sample?",
  "mail_review": {
   "binding": {
-   "level": "未触达（A 邮箱 15 封 2025→2026，1 次记录打开，0 回；收件 lg@hk-systeme.de；主题多为「10G Enterprise SFP Switch、90W PoE Managed Switch」；Elsa 箱：`to:.de` 穷举 29 条（2026-10-25，锚批 Bcc 头已读）未见 hk-systeme.de → Elsa 箱从未发过本户，往来只在 S/A 箱（去 15 / 来 0）（第 74 批(f)））",
-   "type": "系统集成商（德国，PoE + 光口需求）",
-   "sieve": "1~2（1 次打开）",
-   "stop": "15 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "level": "未触达（A 邮箱 13 封 2025→2026，无记录打开，0 回；收件 info@korekonect.com；主题多为「10G Enterprise SFP Switch、Mini Industrial PoE Switch」；Elsa 箱：`to:korekonect.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 13 / 来 0）（第 74 批(k)））",
+   "type": "—",
+   "sieve": "1（只收到群发）",
+   "stop": "只打通用邮箱，无记录打开",
    "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "DE 主攻（四主）",
+   "lane": "PL 次级重点",
    "cadence": "季度",
-   "evidence": "gmail_digest：out 15，Opened 标签 1（Simon 群发追踪）；用户表：「有时候需要POE，需要用到带光口的交换机」；研究档 risks：需求为间歇性（量小）；官网 http_error；7 次无回复"
+   "evidence": "gmail_digest：out 13；用户表：「兴趣：有Ewind的」；研究档 risks：无具名；3 次群发无回复"
   },
-  "situation": "德国 HK GmbH（hk-systeme.de；表内「有时候需要 PoE，需要用到带光口的交换机」；KP Lukas Gierlirg；官网 http_error）；表内 7 次跟进无回复。",
-  "need": "PoE + 光口 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、工业 8 PoE + 2 SFP STI-288GPM（$82.2）、4 PoE + 1 SFP STI-154GP（$39.2）",
-  "breakpoint": "需求为间歇性（量小）；官网 http_error；7 次无回复",
+  "situation": "波兰网络设备经销（poe 113 / switch 104 / industrial 54 / sfp 62 / distributor 6），info@ + gmail；表内「有 E-wind 的」；群发 3 次无回复。",
+  "need": "对位 E-wind MC / 工业 FS → STI-110GE（$22.4 @20%）+ STI-288GP。",
+  "breakpoint": "无具名；3 次群发无回复",
   "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 25,
-   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-18 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-06-10 $300（48 Port PoE Managed Switch）、2025-10-06 $280（10G Enterprise SFP Switch）",
-   "why": "PoE + 光口 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、工业 8 PoE + 2 SFP STI-288GPM（$82.2）、4 PoE + 1 SFP STI-154GP（$39.2）。已打开的主题（1/15 封有打开记录）：「10G L3 Managed Switch」(2026-06-02) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续",
+   "p1": "STI-110GE",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-19 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-24 $280（10G Enterprise SFP Switch）",
+   "why": "对位 E-wind MC / 工业 FS → STI-110GE（$22.4 @20%）+ STI-288GP。",
    "repeat": [],
    "gaps": []
   },
@@ -90,22 +93,22 @@
    "when": "群发节奏",
    "channel": "A 邮箱",
    "action": "观察打开",
-   "one_question": "Lukas, for the projects where you need PoE switches with fibre uplinks, we supply Marvell-based 8-PoE + 2 SFP L2+ (commercial) and DIN-rail 4/8-PoE + SFP industrial units from single units, CE/RoHS, EXW USD — which port count and uplink type does your typical installation use?"
+   "one_question": "For the E-wind converters and industrial switches you stock — DIN gigabit MC at $22 and 2-SFP + 8-PoE at $57 EXW, CE/RoHS; want a comparison sample?"
   },
   "facts": [
    {
     "date": "2026-09-24",
     "dir": "去",
     "who": "A 群发",
-    "quote": "10G Enterprise SFP Switch、90W PoE Managed Switch",
-    "why": "15 封 / 1 次打开 / 0 回｜首封 2025-04-15 → 末封 2026-09-24（15 去 / 0 来）",
+    "quote": "10G Enterprise SFP Switch、Mini Industrial PoE Switch",
+    "why": "13 封 / 0 次打开 / 0 回｜首封 2025-08-21 → 末封 2026-09-24（13 去 / 0 来）",
     "k": "gmail_digest"
    },
    {
     "date": "2026-10-21",
     "dir": "用户表",
     "who": "Simon",
-    "quote": "有时候需要POE，需要用到带光口的交换机",
+    "quote": "兴趣：有Ewind的",
     "why": "表内备注",
     "k": "用户表"
    }

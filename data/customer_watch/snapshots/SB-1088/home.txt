@@ -1,529 +1,239 @@
-# SB-1088 silarius.com · home · https://silarius.com/ · fetched 2026-10-25T07:41:18Z · HTTP 200
-Security Cameras, Surveillance, IT and Access Control Superstore – Silarius
+# SB-1088 tipteh.com · home · https://tipteh.com/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+Tipteh - your automation partner Search for: Search Button
 Skip to content
-Plan my system Free
-Surveillance
-View all Surveillance
-Black Color Cameras
-Box Cameras
-Bullet Cameras
-Dome Cameras
-DVR Camera Systems
-Fish-Eye/360 Cameras
-In-Ceiling/Flush-Mount Cameras
-LPR (License Plate Recognition)
-Mobile DVR
-NVR Camera Systems
-Panoramic Cameras
-PTZ Cameras
-Specialty Cameras
-Wedge Cameras
-Wi-Fi Surveillance
-XVR
-Thermal Cameras
-Perimeter Radar & Detection
-Aerial Surveillance
-Drones
-Analog Cameras
-Camera Mounts & Brackets
-Camera Housings, Lenses & Accessories
-Coax & CCTV Cable
-VMS & Video Analytics Licenses
-Milestone Systems
-Network
-View all Network
-Network Switches
-Firewalls & Routers
-Wireless Access Points
-Wireless Bridges & Point-to-Point
-SFP Modules & Transceivers
-Media Converters & Extenders
-PoE Injectors & Splitters
-Network & Cellular Adapters
-Network Cables & Patch Cords
-Fiber Optic Cable & Accessories
-Patch Panels, Jacks & Faceplates
-Testers, Meters & Work Tools
-Racks & Cabinets
-Rack Accessories & Shelves
-Cable Management
-Network & Installation Accessories
-UPS & Battery Backup
-PDUs & Surge Protection
-Power Strips, Batteries & Power Accessories
-Power Supplies & Adapters
-NAS & Backup Storage
-VoIP Phones & PBX
-Cellular Signal Boosters
-Network Licenses & Support
-Computers
-View all Computers
-Laptops
-Mobile Workstations
-Chromebooks & 2-in-1s
-Desktops
-Workstations
-All-in-One PCs
-Gaming PCs & Laptops
-Servers
-NAS & Backup Storage
-Hard Drives & SSDs
-Computer Monitors
-Keyboards & Mice
-Docks, Cables & Accessories
-KVM Switches & Consoles
-Software & Licenses
-Graphics Cards
-Audio
-View all Audio
-Speakers
-Subwoofers
-Amplifiers, Mixers & Receivers
-Audio Processors & DSP
-Microphones & Wireless Mics
-Conference Room Audio
-Headsets & Headphones
-Paging & Mass Notification
-Assistive Listening
-IP Audio & Security Microphones
-Speaker Mounts & Audio Accessories
-Audio Cables
-Smart Speakers & Streaming
-Shop all Audio
-Video
-View all Video
-TVs
-Commercial Displays & Digital Signage
-Interactive & Touch Displays
-LED Video Walls
-Computer & Video Monitors
-Projectors
-Projector Lenses, Lamps & Mounts
-Projection Screens
-Video Conferencing
-HDMI Extenders, Switchers & Matrix
-AV over IP & Streaming
-TV & Display Mounts
-AV & Display Accessories
-HDMI & AV Cables
-AV Furniture & Carts
-AV Software, Licenses & Warranties
-Marine
-View all Marine
-Marine Surveillance
-Marine Audio
-Chartplotters
-Transducers
-Autopilots
-Radar
-Panoptix
-Sonar Black Boxes
-Instruments & Instruments Packs
-VHF & AIS
-Marine Cameras
-Antennas & Sensors
-Fishfinders
-Ice Fishing Bundles & Kits
-Trolling Motors
-Marine Speakers
-Marine Subwoofers
-Marine Amplifiers
-Marine Stereo
-Marine GPS
-Automotive
-View all Automotive
-Automotive Cameras
-Automotive Stereo
-Automotive Speakers
-Automotive Subwoofers
-Automotive Amplifiers
-Automotive GPS
-Automotive Wiring
-Access Control
-View all Access Control
-Card Readers & Biometrics
-Keypads
-Cards, Fobs & Credentials
-Controllers & Panels
-Electric Strikes
-Magnetic Locks
-Electrified & Wireless Locks
-Exit Devices & Request-to-Exit
-Door Hardware & Operators
-Intercoms & Entry Systems
-Gate Operators & Barriers
-Emergency Phones & Call Stations
+Search for: Search Button
+Toggle Navigation Products Sensors Fork Sensors
+High Precision Sensors
+Optical Sensors
+Position Sensors
+Process Sensors
+Proximity Sensors
+Special Sensors
+Machine safety AS-Interface
+Electromechanical Machine Safety Equipment
+Safety Signal Processing Equipment
+Optoelectronic Machine Safety Equipment
+Identification and logistics Bar and 2D code readers
+RFID systems
+Optical Positioners
+Machine vision Industrial cameras
+Vision Sensors
+Motor drives
+PLC controllers I/O Modules for Industrial Fieldbus
+Industrial PCs & networking Industrial Ethernet Switches
+EX Equipment EX Safety Barriers
+Other automation devices Cables
+Connectors
+Contactors
 Power Supplies
-Software & Licenses
-Time Clocks & Attendance
-ID Badge Printers & Supplies
-Wander Management
-Access Control Parts & Accessories
-Low-Voltage & Security Wire
-Pedestals & Reader Posts
-Nurse Call Systems
-Shop all Access Control
-Smart Home
-View all Smart Home
-Silarius Home Edition
-Lighting Controls & Dimmers
-Smart Plugs, Relays & Bulbs
-Smart Shades & Blinds
-Smart Locks & Garage
-Video Doorbells & Smart Cameras
-Smart Thermostats
-Alarm Systems & Sensors
-Smart Speakers & Streaming Audio
-Wi-Fi & Mesh Systems
-Remotes, Hubs & Control
-Shop all Smart Home
-Fire & Life Safety
-View all Fire & Life Safety
-Fire Alarm Panels & Power
-Smoke, Heat & Duct Detectors
-Smoke & CO Alarms
-Horns, Strobes & Speakers
-Pull Stations & Protective Covers
-Modules & Relays
-Voice Evacuation & Mass Notification
-Fire Alarm Communicators
-Sprinkler Monitoring & Suppression
-Gas & Flame Detection
-Emergency Lighting & Exit Signs
-Detector Testing & Maintenance
-Fire Alarm Cable
-Fire Alarm Accessories
-Shop all Fire & Life Safety
-Brands
-Silarius
-Hanwha
-Axis
-HID
-APC
-Middle Atlantic
-All 500+ brands →
-Services
-View all Services
-Silarius Mobility Solutions
-Services and Installations
-Milestone Systems Pricings
-Telecomm Carrier Services
-Cybersecurity Solutions
-IT Professional Services & Consulting
-Managed IT Services
-VoIP Services and Solutions
-Live Video Monitoring
-Clearance
-Contact Us
-Account
-Cart
-Spend $200.00 more and get free shipping!
-Your cart is empty
+Visual and Audible Signalling Equipment
+Switchgear Cam Switches
+Circuit Breakers
+Main Switches
+Manual Motor Starters
+Push Buttons
+Control equipment
+IoT devices
+Technologies IO-Link
+Industry 4.0
+MQTT
+OPC UA Standard for communication in industrial automation
+Stepper Motors
+Manufacturers
+Solutions Machine Vision Solutions
+Identification Solutions
+Workplace Safety
+Motion Control
+IoT Solutions
+Condition Monitoring
+Augmented Reality
+Webinars
+Company About Tipteh
+Tipteh contact
+Newsletter subscription
+General sales conditions
+Current News
+Cookies
+Career
+Privacy Policy
+EN EN
+SLO
+BiH
+SRB
+MKD
+HRV
+ALB
+Search for: Search Button
+Tipteh – English Simona Prevorčnik 2026-07-23T10:+
+AUTOMATION: Our passion, your success!
+Tipteh is a leading Distribution Sales Representative of industrial automation components, systems, and solutions.
+Let's create your competitive advantage
+For 30 years, we’ve helped 14,000+ customers outperform competitors across industries.
+Having problem? We got solution!
+Wide range of automation products and our skilled engineers will overmaster your most demanding applications.
+In Tipteh, automation is our passion and your success!
+Tipteh is a leading Distribution Sales Representative of industrial automation components, systems, and solutions. In 30 years of experience we helped more then 14.000 partners develop new competitive advantage. Our wide range of automation products and our skilled engineers will help you solve your most demanding applications.
+Be on top of industrial automation. Stay informed!
+Check out the latest news to gain experience, identify opportunities and get a competitive edge.
+XDR-E DIN Rail Power Supplies MEAN WELL
+The XDR-E Series is economical power supply solution for industrial applications. Benefit from its slim design and save space inside cabinets.
+Basler 10GigE Cameras and Components for High-Speed Machine Vision
+Discover Basler ace 2 10GigE cameras with RDMA and PoE for high-speed machine vision, reduced CPU load and easier integration.
+Basler Stereo mini 3D Camera for Robotics and Logistics
+Compact Basler Stereo mini 3D camera provides reliable depth data for navigation, obstacle detection, dimensioning and warehouse automation.
+Unitronics UniLogic AI for Faster PLC Programming
+Unitronics UniLogic AI turns machine requirements into PLC logic in minutes. Generate, review and modify code faster with AI.
+More News
+Subscribe to our newsletter!
+You will receive only quality news and webinar reminders about leading automation equipment so you can crush your competition.
+I have read and agree with terms.
 ×
-Silarius app
-Shop faster, track orders, get help
-Free on the App Store
-Get
-Silarius Security Cameras · Cloud · Monitoring
-Silarius Store 150,000+ products · You are here
-New here? Meet Silarius Security. Our own brand site: Silarius cameras, cloud recording for any camera and live video monitoring.
-Take a look →
-Got it
-Cloud
-Silarius Cloud records any IP camera to the cloud, from $6.99/camera/mo
-→
-Live
-Live Monitoring real operators watch your cameras, from $69.99/camera/mo
-→
-New
-Silarius X cameras go straight to the cloud, no NVR needed
-→
-FREE SHIPPING IN THE US (FOR ORDERS TOTALING $200 OR MORE)! EXCLUSIONS APPLY**** CLICK HERE FOR OUR INTERNATIONAL SHIPPING POLICY!
-Surveillance Surveillance
-Dome Cameras
-Bullet Cameras
-PTZ Cameras
-NVR Camera Systems
-Wi-Fi Surveillance
-Fish-Eye/360 Cameras
-Also in Surveillance
-Black Color Cameras
-Box Cameras
-DVR Camera Systems
-In-Ceiling/Flush-Mount Cameras
-LPR (License Plate Recognition)
-Mobile DVR
-Panoramic Cameras
-Specialty Cameras
-Wedge Cameras
-XVR
-Thermal Cameras
-Perimeter Radar & Detection
-Aerial Surveillance
-Drones
-Analog Cameras
-Camera Mounts & Brackets
-Camera Housings, Lenses & Accessories
-Coax & CCTV Cable
-VMS & Video Analytics Licenses
-Milestone Systems
-Talk to a specialist
-Spec a system with someone who knows the catalogue.
-Chat with us
-Silarius Pro Series
-NDAA-compliant cameras and AI NVRs, built in-house.
-Shop the range
-Network Network
-Network Switches
-Firewalls & Routers
-Wireless Access Points
-Racks & Cabinets
-UPS & Battery Backup
-Network Cables & Patch Cords
-Also in Network
-Wireless Bridges & Point-to-Point
-SFP Modules & Transceivers
-Media Converters & Extenders
-PoE Injectors & Splitters
-Network & Cellular Adapters
-Fiber Optic Cable & Accessories
-Patch Panels, Jacks & Faceplates
-Testers, Meters & Work Tools
-Rack Accessories & Shelves
-Cable Management
-Network & Installation Accessories
-PDUs & Surge Protection
-Power Strips, Batteries & Power Accessories
-Power Supplies & Adapters
-NAS & Backup Storage
-VoIP Phones & PBX
-Cellular Signal Boosters
-Network Licenses & Support
-Talk to a specialist
-Spec a system with someone who knows the catalogue.
-Chat with us
-Silarius Pro Series
-NDAA-compliant cameras and AI NVRs, built in-house.
-Shop the range
-Computers Computers
-Laptops
-Mobile Workstations
-Desktops
-Workstations
-Servers
-Hard Drives & SSDs
-Also in Computers
-Chromebooks & 2-in-1s
-All-in-One PCs
-Gaming PCs & Laptops
-NAS & Backup Storage
-Computer Monitors
-Keyboards & Mice
-Docks, Cables & Accessories
-KVM Switches & Consoles
-Software & Licenses
-Graphics Cards
-Talk to a specialist
-Spec a system with someone who knows the catalogue.
-Chat with us
-Silarius Pro Series
-NDAA-compliant cameras and AI NVRs, built in-house.
-Shop the range
-Audio Audio
-Speakers
-Subwoofers
-Amplifiers, Mixers & Receivers
-Microphones & Wireless Mics
-Conference Room Audio
-Paging & Mass Notification
-Also in Audio
-Audio Processors & DSP
-Headsets & Headphones
-Assistive Listening
-IP Audio & Security Microphones
-Speaker Mounts & Audio Accessories
-Audio Cables
-Smart Speakers & Streaming
-Shop all Audio
-Talk to a specialist
-Spec a system with someone who knows the catalogue.
-Chat with us
-Silarius Pro Series
-NDAA-compliant cameras and AI NVRs, built in-house.
-Shop the range
-Video Video
-TVs
-Commercial Displays & Digital Signage
-Interactive & Touch Displays
-LED Video Walls
-Projectors
-Video Conferencing
-Also in Video
-Computer & Video Monitors
-Projector Lenses, Lamps & Mounts
-Projection Screens
-HDMI Extenders, Switchers & Matrix
-AV over IP & Streaming
-TV & Display Mounts
-AV & Display Accessories
-HDMI & AV Cables
-AV Furniture & Carts
-AV Software, Licenses & Warranties
-Talk to a specialist
-Spec a system with someone who knows the catalogue.
-Chat with us
-Silarius Pro Series
-NDAA-compliant cameras and AI NVRs, built in-house.
-Shop the range
-Marine Marine
-Marine Surveillance
-Marine Cameras
-Marine Audio
-Marine GPS
-Radars
-Chartplotters
-Also in Marine
-Transducers
-Autopilots
-Panoptix
-Sonar Black Boxes
-Instruments & Instruments Packs
-VHF & AIS
-Antennas & Sensors
-Fishfinders
-Ice Fishing Bundles & Kits
-Trolling Motors
-Marine Speakers
-Marine Subwoofers
-Marine Amplifiers
-Marine Stereo
-Talk to a specialist
-Spec a system with someone who knows the catalogue.
-Chat with us
-Silarius Pro Series
-NDAA-compliant cameras and AI NVRs, built in-house.
-Shop the range
-Automotive Automotive
-Automotive Cameras
-Automotive Stereo
-Automotive Speakers
-Automotive Subwoofers
-Automotive Amplifiers
-Automotive Wiring
-Also in Automotive
-Automotive GPS
-Talk to a specialist
-Spec a system with someone who knows the catalogue.
-Chat with us
-Silarius Pro Series
-NDAA-compliant cameras and AI NVRs, built in-house.
-Shop the range
-Access Control Access Control
-Card Readers & Biometrics
-Electric Strikes
-Magnetic Locks
-Electrified & Wireless Locks
-Exit Devices & Request-to-Exit
-Intercoms & Entry Systems
-Also in Access Control
-Keypads
-Cards, Fobs & Credentials
-Controllers & Panels
-Door Hardware & Operators
-Gate Operators & Barriers
-Emergency Phones & Call Stations
-Power Supplies
-Software & Licenses
-Time Clocks & Attendance
-ID Badge Printers & Supplies
-Wander Management
-Access Control Parts & Accessories
-Low-Voltage & Security Wire
-Pedestals & Reader Posts
-Nurse Call Systems
-Shop all Access Control
-Talk to a specialist
-Spec a system with someone who knows the catalogue.
-Chat with us
-Silarius Pro Series
-NDAA-compliant cameras and AI NVRs, built in-house.
-Shop the range
-Smart Home Smart Home
-Silarius Home Edition
-Lighting Controls & Dimmers
-Smart Locks & Garage
-Video Doorbells & Smart Cameras
-Smart Thermostats
-Smart Speakers & Streaming Audio
-Also in Smart Home
-Smart Plugs, Relays & Bulbs
-Smart Shades & Blinds
-Alarm Systems & Sensors
-Wi-Fi & Mesh Systems
-Remotes, Hubs & Control
-Shop all Smart Home
-Talk to a specialist
-Spec a system with someone who knows the catalogue.
-Chat with us
-Silarius Pro Series
-NDAA-compliant cameras and AI NVRs, built in-house.
-Shop the range
-Fire & Life Safety Fire & Life Safety
-Smoke, Heat & Duct Detectors
-Horns, Strobes & Speakers
-Pull Stations & Protective Covers
-Fire Alarm Panels & Power
-Smoke & CO Alarms
-Gas & Flame Detection
-Also in Fire & Life Safety
-Modules & Relays
-Voice Evacuation & Mass Notification
-Fire Alarm Communicators
-Sprinkler Monitoring & Suppression
-Emergency Lighting & Exit Signs
-Detector Testing & Maintenance
-Fire Alarm Cable
-Fire Alarm Accessories
-Shop all Fire & Life Safety
-Talk to a specialist
-Spec a system with someone who knows the catalogue.
-Chat with us
-Silarius Pro Series
-NDAA-compliant cameras and AI NVRs, built in-house.
-Shop the range
-Brands
-Silarius
-Hanwha
-Axis
-HID
-APC
-Middle Atlantic
-All 500+ brands →
-Services Services
-Services & Installations
-Built by our own trained installers
-Managed IT Services
-A fully outsourced IT department
-IT Consulting
-IT experts for any job
-Cybersecurity Solutions
-Protection from network to inbox
-VoIP Solutions
-White-glove installation and support
-Telecom Carrier Services
-A liaison between you and your carrier
-Mobility Solutions
-IoT solutions to keep you connected
-Milestone Systems Pricing
-Compare VMS plans and licensing
-Clearance Clearance
-Contact Us Contact Us
-Contact Us
-Talk to someone who knows the catalogue
-Spec a system, chase an order, or get a quote for a multi-site deployment.
-Send us a message
-Chat Chat with a specialist
-Email info@silarius.com
-Hours Mon–Fri, 8am–4pm
-Quotes Volume and multi-site pricing on request
-Surveillance, IT, 
+Choose from a wide range of top products
+Take advantage of our wide range of products to develop your perfect-fit solution.
+Machine Vision
+Vision sensors & Systems, Deep Learning, Software, 2D/3D Laser Profilers, Industrial Cameras, …
+Identification and Logistics
+1D & 2D Barcode Readers, Verifiers, RFID, Optical Positioners, Data Transmission, …
+Sensors
+Optical, Proximity, Position, High Precision, Sensor Accessories, …
+Machine Safety
+Optoelectronic, Radar, Electromechanical, As-i, Two-hand Controls, Signal Processing, …
+IoT Devices
+AR smart glasses, Smart Sensors, Cloud Gateways, Production Controllers, IoT Networking, …
+ATEX Equipment
+EX- Sensors, Switches, Safety Equipment, Isolating Amplifiers, Signalling, Field Buses, …
+Industrial PCs & Networking
+Embedded PCs, Ethernet Switches, WIFI, Secure Remote Access, Modems, Routers, Gateways, …
+Other Automation Devices
+Industrial LED Lighting, Power Supplies, Cables, Connectors, Visual & Audible Signalling, …
+Switchgear
+Electromechanical, Wireless, Low Voltage, Command Devices, …
+Motor Drivers
+Frequency-, Servo-, Stepper-motors and Drivers, Motion Controllers, …
+PLCs and Peripherals
+PLC controllers, I/O Modules, HMI, Accessories, …
+Control Equipment
+Industrial Counters & Controllers, Control Stations, Joysticks, …
+Click here to visit our B2B store
+World-renown manufacturers that entrust Tipteh
+Develop a long-term competitive advantage with the highest quality equipment.
+Take a look at all our manufacturers
+Rely on our expertise
+We invest in lifelong learning to empower our engineers to become creative problem solvers that address even your most demanding processes.
+Solutions for industrial automation
+Follow us here as well
+Tipteh d.o.o.
+Ulica Ivana Roba 23
+1000 Ljubljana
+Slovenia
++386 (0)1 200 5150
+info@tipteh.si
+tipteh.com/si
+Tipteh d.o.o. Beograd
+Moše Pijade 17a
+11224 Vrčin, Belgrade
+Serbia
++381 (0)11 8053 628
+info@tipteh.rs
+tipteh.com/rs
+Tipteh d.o.o. Sarajevo
+Ramiza Salčina 246
+71000 Sarajevo
+Bosnia and Hercegovina
++387 33 452 427
+info@tipteh.ba
+tipteh.com/ba
+Tipteh d.o.o. Skopje
+Bul. Partizanski оdredi 80 lok.5, 1000 Skopje
+North Macedonia
++389 2 31 74 197
+info@tipteh.mk
+tipteh.com/mk
+Tipteh Zagreb d.o.o.
+Štrokinec 7
+10000 Zagreb
+Croatia
++385 (0)1 314 1550‎
+tipteh@tipteh.hr
+tipteh.com/hr
+Contact us
+Home
+Products
+Toggle Navigation Sensors
+Machine vision
+Identification & logistics
+PLC controllers
+Motor drives
+Industrial PCs & networking
+IoT devices
+Control equipment
+EX equipment
+Machine safety
+Switchgear
+Other automation devices
+Technologies
+Toggle Navigation Industry 4.0
+MQTT
+OPC UA Standard for communication in industrial automation
+Stepper Motors
+Solutions
+Toggle Navigation Machine Vision Solutions
+Internet of Things Solutions
+Identification Solutions
+Motion Control
+Workplace Safety
+Augmented Reality
+Pick-to-Light Solution
+Other
+Toggle Navigation Manufacturers
+Webinars
+Current News
+Newsletter
+About Tipteh
+Contact us
+Career – join the team
+General sales conditions
+Privacy Policy
+Cookies
+Page load link
+Get professional answers
+Complete the form and we will contact you shortly.
+×
+By submitting you agree with our terms .
+Pridobite odgovore strokovnjakov
+Vnesite svoje podatke in kontaktirali Vas bomo čim prej.
+Prijavljam se na Tipteh e-novice
+×
+Z oddajo se strinjate z našimi pogoji .
+Dovolite, da vam pomagamo
+Vnesite email in po želji na kratko opišite aplikacijo, ki jo želite razviti. Kontaktirali vas bomo takoj ko bo mogoče.
+×
+Z oddajo se strinjate z našimi pogoji .
+Powered by Convert Plus
+Dobijte odgovore stručnjaka
+Ispunite formular i kontaktirat ćemo Vas što prije.
+Prijavljujem se na Tipteh e-novosti
+×
+Slanjem se slažete s uvjetima .
+Powered by Convert Plus
+Dobijte odgovore stručnjaka
+Popunite formular i kontaktiraćemo Vas što prije.
+×
+Slanjem se slažete sa našim uslovima .
+Добијте бесплатна консултација
+Внесете ја вашата е-пошта и ние ќе ве контактираме што е можно поскоро.
+×
+Со поднесување се согласувате со нашите услови .
+Dobijte odgovore stručnjaka
+Popunite formular i mi ćemo Vas kontaktirati što prije.
+Prijavljujem se na Tipteh e-novosti
+×
+Slanjem se slažete sa našim uslovima .
+Merrni konsultë falas
+Shkruani emailin tuaj dhe ne do t'ju kontaktojmë sa më shpejt të jetë e mundur.
+×
+Duke dorëzuar ju jeni dakord me kushtet tona.
+Need help? Let us help you.
+Get professional answers
+By submitting you agree with the terms.
+×

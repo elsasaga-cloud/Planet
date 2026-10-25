@@ -1,0 +1,82 @@
+{
+ "code": "SC-183",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（zenlayer.com，快照 2026-10-21）",
+ "summary": "美国 Zenlayer（全球分布式云/边缘云服务商：云网络、加速、IP 传输、连接，AI 基础设施；表内「DC Switch」；KP Craig K（EVP Business Growth）、Joe Z（Founder/CEO））；表内未跟进。",
+ "type": "云服务运营商（体量过大）",
+ "size": "",
+ "brands_seen": [
+  "Ubiquiti"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Distributed Cloud for AI - Zenlayer；品类词 工业自动化 / OT 网络 / 数据中心 / 企业 IT",
+   "quote": "The Distributed Cloud for AI Deploy and scale intelligence globally, powered by the world’s most distributed cloud. Get started Deploy and scale AI",
+   "url": "https://www.zenlayer.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "DC Switch",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Distributed Cloud for AI - Zenlayer；品类词 工业自动化 / OT 网络 / 数据中心 / 企业 IT / 网络交换 / PoE",
+   "quote": "The Distributed Cloud for AI Deploy and scale intelligence globally, powered by the world’s most distributed cloud. Get started Deploy and scale AI",
+   "url": "https://www.zenlayer.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Zenlayer 定位",
+   "quote": "Distributed Cloud for AI - Zenlayer ; The Distributed Cloud for AI Deploy and scale intelligence globally, powered by the world’s most distributed cloud",
+   "url": "https://www.zenlayer.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "DC Switch",
+   "quote": "DC Switch",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "体量过大/运营商：Zenlayer 全球云服务商，DC 交换机非 Saga 可承接；c_sub=运营商/体量过大",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "美国",
+  "other": "官网 zenlayer.com，语言 en-US，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "分布式云 / 边缘云服务"
+ ],
+ "channels": {
+  "role": "云服务运营商（体量过大）",
+  "region": "美国",
+  "contact": "kap@zenlayer.com、joe@zenlayer.com"
+ },
+ "signals": [
+  "官网：The Distributed Cloud for AI Deploy and scale intelligence globally；首页 Cloud Networking ; Acceleration ; IP Transit ; Connectivity ; APAC ; EMEA ; Americas；kw data center 13",
+  "表内：DC Switch；KP Craig K / Executive VP, Business Growth；Joe Z / Founder / CEO"
+ ],
+ "risks": [
+  "体量过大/运营商：Zenlayer 全球分布式云（数据中心交换机走大型 ODM/品牌采购）；未跟进过"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 30,
+  "why": "全球分布式云运营商（数据中心交换机采购为企业级大批量/品牌化），非 Saga 可承接 → 改 C"
+ },
+ "email_hook": "（不发送：体量过大/运营商）"
+}

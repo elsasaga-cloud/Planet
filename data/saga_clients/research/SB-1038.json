@@ -1,128 +1,171 @@
 {
- "code": "SB-1038",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "快照失败（http_error）",
- "summary": "泰国 Bismon Co., Ltd（泰国网络产品品牌：MC/交换机等，「产品线很相似」；KP Anek Thongdee（Chief Executive Officer）；「可以尝试多跟进一下」；官网 http_error）；群发 16 次无回复。",
- "type": "网络产品品牌商（泰国，产品线相似）",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "产品线很相似",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "产品线很相似",
-   "quote": "产品线很相似；可以尝试多跟进一下",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Anek Thongdee",
-   "title": "Chief Executive Officer",
-   "email": "sale@bismon.com",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "泰国",
-  "other": "官网 bismon.com，语言 ?，快照状态 http_error；角色判定来源：待核"
- },
- "business_lines": [
-  "网络产品（自有品牌 Bismon，泰国）"
- ],
- "channels": {
-  "role": "网络产品品牌商（泰国，产品线相似）",
-  "region": "泰国",
-  "contact": "sale@bismon.com、info@bismon.com"
- },
- "signals": [
-  "表内：产品线很相似；KP Anek Thongdee / Chief Executive Officer；可以尝试多跟进一下",
-  "快照：http_error"
- ],
- "risks": [
-  "非主攻区（T5，泰国）；既有 ODM 供应链（产品线相似，国内货源）；官网 http_error；16 次无回复 → 改向 CEO 具名首触"
- ],
- "saga_fit": {
-  "p1": "STI-110GE",
-  "tier": 30,
-  "why": "Bismon 标 MC/工业 FS → 工业千兆 MC STI-110GE（$24.3 @30%）、PoE MC STI-111GP（$30.1）、工业 8 GE + 2 SFP STI-280GE（$50.5）、商用 8 口 PoE+ 2 SFP STC-28DGGPM（$87.4）贴标作二供"
- },
- "email_hook": "Anek, for the media converters and switches sold under the Bismon label, we can be a second ODM source (gigabit/PoE MCs, DIN-rail 8-GE + 2 SFP managed, commercial 8-PoE L2+ on a Marvell platform) in your packaging from small lots, CE/RoHS — which SKU would you want sampled first?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A/S 邮箱 24 封 2024→2026，1 次记录打开，0 回；收件 anek@bismon.com, info@bismon.com；主题多为「Marvell Industrial Alert System、Industrial PoE Switch」；Elsa 箱：`to:bismon.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 24 / 来 0）（第 74 批(n)））",
-   "type": "网络产品品牌商（泰国，产品线相似）",
-   "sieve": "1~2（1 次打开）",
-   "stop": "24 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
-   "lane": "泰国 非主攻",
-   "cadence": "一封",
-   "evidence": "gmail_digest：out 24，Opened 标签 1（Simon 群发追踪）；用户表：「产品线很相似」；研究档 risks：非主攻区（T5，泰国）；既有 ODM 供应链（产品线相似，国内货源）；官网 http_error；16 次无回复 → 改向 CEO 具名首触"
-  },
-  "situation": "泰国 Bismon Co., Ltd（泰国网络产品品牌：MC/交换机等，「产品线很相似」；KP Anek Thongdee（Chief Executive Officer）；「可以尝试多跟进一下」；官网 http_error）；群发 16 次无回复。",
-  "need": "Bismon 标 MC/工业 FS → 工业千兆 MC STI-110GE（$24.3 @30%）、PoE MC STI-111GP（$30.1）、工业 8 GE + 2 SFP STI-280GE（$50.5）、商用 8 口 PoE+ 2 SFP STC-28DGGPM（$87.4）贴标作二供",
-  "breakpoint": "非主攻区（T5，泰国）；既有 ODM 供应链（产品线相似，国内货源）；官网 http_error；16 次无回复 → 改向 CEO 具名首触",
-  "saga_now": {
-   "p1": "STI-110GE",
-   "tier": 30,
-   "price": "换人再触锚价 STI-110GE $26.5 EXW（最近实报 SA-001 2025-11-27 $26.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-27 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-07-02 $65（10G Media Converter）、2025-08-11 $240（24 Port Fiber Switch）、2025-10-10 $280（10G Enterprise SFP Switch）、2026-06-25 $16000（32 Port 400GB DC Switch）",
-   "why": "Bismon 标 MC/工业 FS → 工业千兆 MC STI-110GE（$24.3 @30%）、PoE MC STI-111GP（$30.1）、工业 8 GE + 2 SFP STI-280GE（$50.5）、商用 8 口 PoE+ 2 SFP STC-28DGGPM（$87.4）贴标作二供。已打开的主题（1/24 封有打开记录）：「16 Port Ethernet Switch」(2025-03-06) → 读者兴趣偏「其他」；当前 P1 属「10G 汇聚/L3」，下一封按「其他」给，不按 P1",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "2027-Q1（换人后）",
-   "channel": "A 邮箱 → 具名 KP",
-   "action": "换收件人再发一封（第 75 批(ai) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
-   "one_question": "Anek, for the media converters and switches sold under the Bismon label, we can be a second ODM source (gigabit/PoE MCs, DIN-rail 8-GE + 2 SFP managed, commercial 8-PoE L2+ on a Marvell platform) in your packaging from small lots, CE/RoHS — which SKU would you want sampled first? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
-  },
-  "facts": [
-   {
-    "date": "2026-09-25",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "Marvell Industrial Alert System、Industrial PoE Switch",
-    "why": "24 封 / 1 次打开 / 0 回｜首封 2024-07-02 → 末封 2026-09-25（24 去 / 0 来）",
-    "k": "gmail_digest"
-   },
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "产品线很相似",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2026-09-25",
-    "dir": "去",
-    "who": "A 箱（Alan）",
-    "quote": "Managed PoE Switches",
-    "why": "本日去信真实主题（邮箱索引 2432f4a1c0b56415；信稿开头句引用此封；此前稿内写的「Marvell Industrial Alert System」是线程列表首题，不是本封）",
-    "k": "2432f4a1c0b56415"
-   }
+  "code": "SB-1038",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（icecom.is，快照 2026-10-21）",
+  "summary": "冰岛 IceCom ehf.（企业与机构的计算机与通信系统整体方案；站内 IES-2710C、EM-C107CSC / GM-C301ASC（MC）、Teltonika RUT951、Cambium；表内「switch」）；表内无跟进记录。",
+  "type": "IT/通信系统集成商（冰岛）",
+  "size": "",
+  "brands_seen": [
+    "Teltonika",
+    "Cambium"
   ],
-  "proof_gaps": [],
-  "draft_en": {
-   "subject": "Converters and switches under the Bismon label - a second ODM source, which SKU sampled first?",
-   "body": "Hi Anek,\n\nOver the past months you had a few product mails from us - most recently \"Managed PoE Switches\" on 25 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nOur product lines overlap closely, which is the point: for the converters and switches sold under the Bismon label, a second ODM source in your packaging from small lots, CE/RoHS: industrial Gigabit media converter, 1 x RJ45 + 1 x SFP slot, -40 to 75 C - model STI-110GE - $26.5 USD EXW with your logo (MOQ 1, 15-day validity); PoE version - STI-111GP - $30.1; DIN-rail 8 x Gigabit + 2 x SFP unmanaged - STI-280GE - $46; commercial 8 x PoE+ + 2 x SFP, L2+ managed, Marvell-based - STC-28DGGPM - $87.4.\n\nOne question: which SKU would you want sampled first - the one where your current source gives you the most trouble?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：IceCom ehf. – Vörur og þjónusta；品类词 网络交换 / PoE",
+      "quote": "IceCom ehf veitir fyrirtækjum og stofnunum；heildarlausnir í tölvu- og fjarskiptakerfum.",
+      "url": "https://www.icecom.is/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "switch",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "IceCom 定位",
+      "quote": "IceCom ehf veitir fyrirtækjum og stofnunum heildarlausnir í tölvu- og fjarskiptakerfum.",
+      "url": "https://www.icecom.is/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "switch",
+      "quote": "switch",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
   },
-  "as_of": "2026-10-24"
- }
+  "company_facts": {
+    "hq": "冰岛",
+    "other": "官网 icecom.is，语言 is，快照状态 ok；角色判定来源：待核"
+  },
+  "business_lines": [
+    "计算机与通信系统整体方案"
+  ],
+  "channels": {
+    "role": "IT/通信系统集成商（冰岛）",
+    "region": "冰岛",
+    "contact": "icecom@icecom.is"
+  },
+  "signals": [
+    "官网：IceCom ehf veitir fyrirtækjum og stofnunum heildarlausnir í tölvu- og fjarskiptakerfum；站内 IES-2710C / EM-C107CSC / GM-C301ASC / RUT951 / BBP37"
+  ],
+  "risks": [
+    "小国（冰岛，非主动挖掘范围）：量有限",
+    "无具名 KP（icecom@）；无跟进记录"
+  ],
+  "saga_fit": {
+    "p1": "STI-288GPM",
+    "tier": 25,
+    "why": "站内工业交换机（IES-2710C）与 MC → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）/ 非管理 STI-280GE；MC 位 STI-110GE（$23.4）"
+  },
+  "email_hook": "For the industrial switches and media converters you deploy with Teltonika and Cambium links, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units and gigabit MCs (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your installations use most?",
+  "products_seen": [
+    {
+      "brand": "（站内）",
+      "model": "IES-2710C",
+      "spec": "工业交换机",
+      "saga": "STI-288GPM",
+      "url": "https://www.icecom.is/",
+      "date": "2026-10-21"
+    },
+    {
+      "brand": "（站内）",
+      "model": "GM-C301ASC",
+      "spec": "千兆 MC",
+      "saga": "STI-110GE",
+      "url": "https://www.icecom.is/",
+      "date": "2026-10-21"
+    }
+  ],
+  "mail_review": {
+    "binding": {
+      "level": "读而不回（A/S 邮箱 2 封 2025，其中 2 封被打开，0 回；收件 icecom@icecom.is；被打开主题「Industrial PoE Switch」）；Elsa 群发 To 直收 14 轮 2025-03-05→2026-08-21（本户是「IS/SE/BG/RU/LT」批次的锚：每轮 To 本户、其余客户 Bcc；最近 2026-08-21「24 Port PoE Managed Switch」，最近一封正文「Price: 170USD/PC」），0 回（第 74 批核对 msg 1a023557cf116242）",
+      "type": "IT/通信系统集成商（冰岛）",
+      "sieve": "2（有人在读，无人回）",
+      "stop": "读而不回 = 内容未命中或没有当下需求",
+      "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
+      "lane": "冰岛（欧洲全域主攻）",
+      "cadence": "一封；回了再说",
+      "evidence": "gmail_digest：out 2，Opened 标签 2（Simon 群发追踪）；用户表：「switch」；研究档 risks：小国（冰岛，非主动挖掘范围）：量有限；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To icecom@icecom.is）2025-03-05→2026-08-21 共 14 轮群发（Mini Industrial PoE Switch、Marvell Alleycat5 Solution、16 Port Ethernet Switch、10G Media Converter、8 Port Industrial PoE Switch、Industrial PoE Switch、10G Enterprise SFP Switch、Booster PoE Switch、OEM Core Switching Solution、Updated Ethernet Switches Links、Marvell Managed Commercial Switches、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断"
+    },
+    "situation": "冰岛 IceCom ehf.（企业与机构的计算机与通信系统整体方案；站内 IES-2710C、EM-C107CSC / GM-C301ASC（MC）、Teltonika RUT951、Cambium；表内「switch」）；表内无跟进记录。",
+    "need": "站内工业交换机（IES-2710C）与 MC → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）/ 非管理 STI-280GE；MC 位 STI-110GE（$23.4）",
+    "breakpoint": "小国（冰岛，非主动挖掘范围）：量有限",
+    "saga_now": {
+      "p1": "STI-288GPM",
+      "tier": 25,
+      "price": "首触锚价 STI-288GPM $82.2 EXW（主表档位（PDF 上限 $88；SA-016 2025-07 实报 $72 为分销量价）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-21 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-21；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
+      "why": "站内工业交换机（IES-2710C）与 MC → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）/ 非管理 STI-280GE；MC 位 STI-110GE（$23.4）。已打开的主题（2/2 封有打开记录）：「Industrial PoE Switch」(2025-01-09)、「Industrial PoE Switch」(2025-02-09) → 读者兴趣偏「工业」；与 P1 同类，继续",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "2026-11",
+      "channel": "A 邮箱 → icecom@icecom.is",
+      "action": "首封前知悉：Elsa 已 To 直发 14 轮（2025-03-05→2026-08-21）（最近 2026-08-21「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 短信一问（email_hook）",
+      "one_question": "For the industrial switches and media converters you deploy with Teltonika and Cambium links, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units and gigabit MCs (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your installations use most? Reference: STI-288GPM at $82.2 USD EXW (MOQ 1, 15-day validity)."
+    },
+    "facts": [
+      {
+        "date": "2025-02-09",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "Industrial PoE Switch",
+        "why": "2 封 / 2 次打开 / 0 回｜首封 2025-01-09 → 末封 2025-02-09（2 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
+        "date": "2025-03-05",
+        "dir": "去",
+        "who": "Elsa 群发（To 直收：本户是「IS/SE/BG/RU/LT」批次的锚，其余客户在 Bcc）",
+        "quote": "Mini Industrial PoE Switch — This is about our MINI Din unmanaged switches for you. 1. 100/1000M auto-adaptive SFP fiber 2. support DIP for flexible configuration 3. PoE optional,",
+        "why": "Elsa 箱群发直达证据（To icecom@icecom.is）；该批次 14 轮 2025-03-05→2026-08-21 每轮都以本户为 To；S/A digest 看不到 Elsa 的发信",
+        "k": "elsa_bcc"
+      },
+      {
+        "date": "2026-08-21",
+        "dir": "去",
+        "who": "Elsa（e.sagatelecom，Gmail 连接器实时查询）",
+        "quote": "Elsa 邮箱群发「24 Port PoE Managed Switch」→ icecom@icecom.is（截至 2026-10-24 无回复）",
+        "why": "仓库 gmail_e 只收录有回复的线程，Elsa 2026-08-19 → 09-15 的 201 封群发不在库里；本户在前 100 封内。意义：S/A 邮箱的「未发信/未触达」判断不等于 Elsa 没碰过——三个邮箱对同一户的触达要合看；Elsa 群发无回 = 再加一次「读而不回/未触达」证据",
+        "k": "Gmail 连接器 list_messages newer_than:70d from:e.sagatelecom（2026-10-24 07:3x Z）"
+      },
+      {
+        "date": "2026-08-21",
+        "dir": "去",
+        "who": "Elsa 群发（To 直收：本户是「IS/SE/BG/RU/LT」批次的锚，其余客户在 Bcc）",
+        "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
+        "why": "Elsa 箱群发直达证据（To icecom@icecom.is）；该批次 14 轮 2025-03-05→2026-08-21 每轮都以本户为 To；S/A digest 看不到 Elsa 的发信",
+        "k": "elsa_bcc"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "switch",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": {
+      "subject": "One question — Industrial PoE Switch",
+      "body": "Hi Icecom,\n\nWe have sent you a few mails on \"Industrial PoE Switch\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor the industrial switches and media converters you deploy with Teltonika and Cambium links, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units and gigabit MCs (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your installations use most?\n\nReference price: DIN-rail 8-PoE + 2 SFP L2 managed industrial switch, 240 W (STI-288GPM) $82.2 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+    },
+    "as_of": "2026-10-25"
+  }
 }

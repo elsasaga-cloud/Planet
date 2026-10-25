@@ -2,137 +2,134 @@
  "code": "SB-781",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "在线（radioparts.com.au，快照 2026-10-21）",
- "summary": "澳大利亚 Radio Parts（1935 年起的电子产品供应商：HiFi/TV、AV 分配、专业音响、天线卫星、CB 电台、CCTV/对讲/报警、家电照明；站内 Ubiquiti / TP-Link；表内「MC switch 销售平台」；KP Daniel H（Purchasing））；群发 14 次无回复。",
- "type": "电子产品综合分销商（澳洲，含 CCTV 品类）",
+ "website_status": "快照失败（http_error）",
+ "summary": "英国 Silvernet（无线/工业网络品牌：自有标工业 FS（73208MP-BT，光路新品）、SFP 与周边；KP C. DiPrima、K. Newton；官网 http_error）；群发 16 次无回复。",
+ "type": "网络品牌商（英国，工业 FS 现光路）",
  "size": "",
  "brands_seen": [
-  "Ubiquiti",
-  "TP-Link"
+  "光路"
  ],
  "evidence": [
   {
-   "kind": "官网快照",
-   "claim": "官网标题：Trusted Supplier of Electronics Since 1935 | Audio, Communication, Security & More - Radio；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
-   "quote": "Since 1935, Radio Parts has been a trusted supplier of high-quality electronics, audio, communication, and security solutions. Offering expert support and top brands for businesses and consumers.",
-   "url": "https://radioparts.com.au/",
-   "date": "2026-10-21"
-  },
-  {
    "kind": "用户表",
    "claim": "表内兴趣/备注",
-   "quote": "MC switch 销售平台",
+   "quote": "工业FS SFP 一些周边产品 光路的新品工业FS；https://silvernet.com/products/73208mp-bt/",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   },
   {
    "kind": "官网快照",
-   "claim": "1935 年起的电子产品供应商",
-   "quote": "Since 1935, Radio Parts has been a trusted supplier of high-quality electronics, audio, communication, and security solutions.",
-   "url": "https://radioparts.com.au/",
+   "claim": "Silvernet 产品页",
+   "quote": "silvernet.com/products/73208mp-bt/",
+   "url": "https://silvernet.com/products/73208mp-bt/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "MC switch 销售平台",
-   "quote": "MC switch 销售平台",
+   "claim": "光路的新品工业 FS",
+   "quote": "工业FS SFP 一些周边产品 光路的新品工业FS",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
  "kp": [
   {
-   "name": "Daniel H",
-   "title": "Purchasing",
-   "email": "info@radioparts.com.au",
+   "name": "C. DiPrima",
+   "title": "（职务待核）",
+   "email": "cdiprima@silvernet.com",
+   "phone": "",
+   "source": "用户表"
+  },
+  {
+   "name": "K. Newton",
+   "title": "（职务待核）",
+   "email": "knewton@silvernet.com",
    "phone": "",
    "source": "用户表"
   }
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "澳大利亚",
-  "other": "官网 radioparts.com.au，语言 en，快照状态 ok；角色判定来源：用户表"
+  "hq": "英国",
+  "other": "官网 silvernet.com，语言 ?，快照状态 http_error；角色判定来源：待核"
  },
  "business_lines": [
-  "电子产品综合分销（AV / 音响 / 天线 / 电台 / CCTV / 家电）"
+  "无线 / 工业网络产品（自有品牌 Silvernet）"
  ],
  "channels": {
-  "role": "电子产品综合分销商（澳洲，含 CCTV 品类）",
-  "region": "澳大利亚",
-  "contact": "info@radioparts.com.au、bilgin@radioparts.com.au"
+  "role": "网络品牌商（英国，工业 FS 现光路）",
+  "region": "英国",
+  "contact": "cdiprima@silvernet.com、knewton@silvernet.com"
  },
  "signals": [
-  "官网：Since 1935, Radio Parts has been a trusted supplier of high-quality electronics, audio, communication, and security solutions",
-  "栏目 CCTV, INTERCOM & ALARM；站内 kw：cctv 94 / camera 71 / switch 146",
-  "KP：Daniel H / Purchasing（表内）"
+  "表内：工业 FS SFP 一些周边产品 光路的新品工业 FS；备注 https://silvernet.com/products/73208mp-bt/；KP Cdiprima；knewton@",
+  "快照：http_error"
  ],
  "risks": [
-  "综合分销商：交换机为配套品类，量小",
-  "非主攻区（T5）；RCM 合规由客户申报；14 次无回复"
+  "现供光路（深圳）价格基准低且为新品；官网 http_error；16 次无回复"
  ],
  "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 20,
-  "why": "CCTV/对讲品类配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）"
+  "p1": "STI-288DGGPM-2BT",
+  "tier": 30,
+  "why": "Silvernet 标 bt 工业 FS（现光路 73208MP-BT）→ 8 PoE（2 口 bt 90W）+ 2 SFP STI-288DGGPM-2BT（$154.0 @30%）、常规 STI-288GPM（$85.5）贴标作二供；SFP Saga 不供"
  },
- "email_hook": "Daniel, for the PoE switches behind your CCTV and intercom category, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port unmanaged PoE units from small lots, EXW — which band do your trade customers buy most?",
+ "email_hook": "For the Silvernet industrial PoE switch line (e.g. the 73208MP-BT position), we can be a second ODM source on a Marvell L2+ platform (8-PoE with 802.3bt ports + 2 SFP, −40~75 °C, CE/RoHS/UKCA) in your packaging from small lots — which SKU would you want sampled against your current unit?",
  "mail_review": {
   "binding": {
-   "level": "读而不回（A/S 邮箱 28 封 2024→2026，其中 4 封被打开，0 回；收件 bilgin@radioparts.com.au, danielh@radioparts.com.au；被打开主题「Industrial PoE Switch、Marvell Industrial Alert System」；Elsa 箱：`to:radioparts.com.au` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 28 / 来 0）（第 74 批(n)））",
-   "type": "电子产品综合分销商（澳洲，含 CCTV 品类）",
+   "level": "读而不回（A/S 邮箱 25 封 2024→2026，其中 2 封被打开，0 回；收件 cdiprima@silvernet.com, knewton@silvernet.com；被打开主题「Marvell Industrial Alert System、10G Enterprise SFP Switch」；Elsa 箱：`to:silvernet.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 25 / 来 0）（第 74 批(j)））",
+   "type": "网络品牌商（英国，工业 FS 现光路）",
    "sieve": "2（有人在读，无人回）",
    "stop": "读而不回 = 内容未命中或没有当下需求",
    "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
-   "lane": "澳大利亚 非主攻",
+   "lane": "UK 主攻（四主）",
    "cadence": "一封；回了再说",
-   "evidence": "gmail_digest：out 28，Opened 标签 4（Simon 群发追踪）；用户表：「MC switch 销售平台」；研究档 risks：综合分销商：交换机为配套品类，量小"
+   "evidence": "gmail_digest：out 25，Opened 标签 2（Simon 群发追踪）；用户表：「工业FS SFP 一些周边产品 光路的新品工业FS；https://silvernet.com/products/73208mp-bt/」；研究档 risks：现供光路（深圳）价格基准低且为新品；官网 http_error；16 次无回复"
   },
-  "situation": "澳大利亚 Radio Parts（1935 年起的电子产品供应商：HiFi/TV、AV 分配、专业音响、天线卫星、CB 电台、CCTV/对讲/报警、家电照明；站内 Ubiquiti / TP-Link；表内「MC switch 销售平台」；KP Daniel H（Purchasing））；群发 14 次无回复。",
-  "need": "CCTV/对讲品类配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）",
-  "breakpoint": "综合分销商：交换机为配套品类，量小",
+  "situation": "英国 Silvernet（无线/工业网络品牌：自有标工业 FS（73208MP-BT，光路新品）、SFP 与周边；KP C. DiPrima、K. Newton；官网 http_error）；群发 16 次无回复。",
+  "need": "Silvernet 标 bt 工业 FS（现光路 73208MP-BT）→ 8 PoE（2 口 bt 90W）+ 2 SFP STI-288DGGPM-2BT（$154.0 @30%）、常规 STI-288GPM（$85.5）贴标作二供；SFP Saga 不供",
+  "breakpoint": "现供光路（深圳）价格基准低且为新品；官网 http_error；16 次无回复",
   "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 20,
-   "price": "首触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-21 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-11-02 $65（10G Media Converter）、2025-04-24 $300（48 Port PoE Managed Switch）、2025-08-06 $240（24 Port Fiber Switch）、2025-09-25 $280（10G Enterprise SFP Switch）、2026-06-15 $16000（32 Port 400GB DC Switch）",
-   "why": "CCTV/对讲品类配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）。已打开的主题（4/28 封有打开记录）：「10G Media Converter」(2024-11-02)、「Industrial PoE Switch」(2024-11-30)、「Managed Optical Bypass Switch」(2025-04-02)、「16 Port Ethernet Switch」(2025-06-04) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-03-02)、Saga Feature List_7.5.x_L2+(2026-07-09)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）",
+   "p1": "STI-288DGGPM-2BT",
+   "tier": 30,
+   "price": "首触锚价 STI-288DGGPM-2BT $154 EXW（2026-06 PDF 上限 $154（档位 157.8–171 超上限；SB-160 500 台项目实报 $130）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-02 $65（10G media converter）、2024-11-13 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-18 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-02-07 $240（24 Port Fiber Switch）、2025-09-29 $280（10G Enterprise SFP Switch）（㉕ 封顶：STI-288DGGPM-2BT 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25）",
+   "why": "Silvernet 标 bt 工业 FS（现光路 73208MP-BT）→ 8 PoE（2 口 bt 90W）+ 2 SFP STI-288DGGPM-2BT（$154.0 @30%）、常规 STI-288GPM（$85.5）贴标作二供；SFP Saga 不供。已打开的主题（2/25 封有打开记录）：「16 Port PoE Managed Switch」(2025-02-28)、「Optional Marvell Chipset Solutions」(2025-11-27) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-02-12)、Product Link_2026Q3(2026-07-13)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
    "when": "2026-11",
-   "channel": "A 邮箱 → bilgin@radioparts.com.au",
+   "channel": "A 邮箱 → cdiprima@silvernet.com",
    "action": "短信一问（email_hook）",
-   "one_question": "Daniel, for the PoE switches behind your CCTV and intercom category, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port unmanaged PoE units from small lots, EXW — which band do your trade customers buy most? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
+   "one_question": "For the Silvernet industrial PoE switch line (e.g. the 73208MP-BT position), we can be a second ODM source on a Marvell L2+ platform (8-PoE with 802.3bt ports + 2 SFP, −40~75 °C, CE/RoHS/UKCA) in your packaging from small lots — which SKU would you want sampled against your current unit? Reference: STI-288DGGPM-2BT at $154 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
    {
-    "date": "2026-10-07",
+    "date": "2026-08-18",
     "dir": "去",
     "who": "A/S 群发",
-    "quote": "Industrial PoE Switch、Marvell Industrial Alert System",
-    "why": "28 封 / 4 次打开 / 0 回｜首封 2024-11-02 → 末封 2026-10-07（28 去 / 0 来）",
+    "quote": "Marvell Industrial Alert System、10G Enterprise SFP Switch",
+    "why": "25 封 / 2 次打开 / 0 回｜首封 2024-07-04 → 末封 2026-08-18（25 去 / 0 来）",
     "k": "gmail_digest"
    },
    {
     "date": "2026-10-21",
     "dir": "用户表",
     "who": "Simon",
-    "quote": "MC switch 销售平台",
+    "quote": "工业FS SFP 一些周边产品 光路的新品工业FS；https://silvernet.com/products/73208mp-bt/",
     "why": "表内备注",
     "k": "用户表"
    }
   ],
   "proof_gaps": [],
   "draft_en": {
-   "subject": "One question — Industrial PoE Switch",
-   "body": "Hi Daniel,\n\nWe have sent you a few mails on \"Industrial PoE Switch\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor the PoE switches behind your CCTV and intercom category, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port unmanaged PoE units from small lots, EXW — which band do your trade customers buy most?\n\nReference price: 8-PoE + 2 × 1G/2.5G SFP L2+ managed switch (Marvell AC5), 120 W (STC-28DGGPM) $80.7 USD EXW, MOQ 1 pc, 15-day validity, 1-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+   "subject": "One question — Marvell Industrial Alert System",
+   "body": "Hello Mr. DiPrima,\n\nWe have sent you a few mails on \"Marvell Industrial Alert System\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor the Silvernet industrial PoE switch line (e.g. the 73208MP-BT position), we can be a second ODM source on a Marvell L2+ platform (8-PoE with 802.3bt ports + 2 SFP, −40~75 °C, CE/RoHS/UKCA) in your packaging from small lots — which SKU would you want sampled against your current unit?\n\nReference price: DIN-rail 8-PoE (2 × bt 90 W) + 2 × 2.5G SFP L2+ managed industrial switch (STI-288DGGPM-2BT) $154 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
  }

@@ -1,234 +1,205 @@
-# SB-145 een.com · news_2 · https://www.een.com/blog-categories/ · fetched 2026-10-25T07:41:18Z · HTTP 200
-Video Surveillance & AI Analytics Blog - Eagle Eye Networks
+# SB-145 digicomm.de · news_2 · https://www.addsecure.de/resource/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+Customer Cases Archive - Germany
 Skip to content
-Search for:
-Login
-Cloud VMS
-CameraManager
-English
-Nederlands
-Français
-Deutsch
-Italiano
-日本語
-Polski
-Español
-Português
-1 408 869 5959
-Products
-AI Video Surveillance
-Eagle Eye Cloud VMS
-Video API Platform
-Camera Direct
-Eagle Eye Complete
-Additional Features
-Gun Detection
-911 Camera Sharing
-Remote Video Monitoring
-Face Match
-License Plate Recognition
-Precision Person & Vehicle Detection
-Point of Sale Integration
+Lösungen Toggle "Lösungen" menu
+IoT Konnektivität Toggle "IoT Konnektivität" menu
+IoT Konnektivität Übersicht
+Lösungen Toggle "Lösungen" menu
+IoT Konnektivitätsmanagement, Link Manager
+Globale Konnektivität
+Sicherheitsmanagement
+Apps Toggle "Apps" menu
+Link Manager Mobile
+Service Activator App
+Alarme Toggle "Alarme" menu
+Alarm Übersicht
+Alarm Produkte Toggle "Alarm Produkte" menu
+Alarmübertragung
+Notfallkonferenzen Toggle "Notfallkonferenzen" menu
+Notfallkonferenzen Übersicht
+Notfallkonferenz Produkte Toggle "Notfallkonferenz Produkte" menu
+Telefonkonferenzen
+Fuhrparkmanagement Toggle "Fuhrparkmanagement" menu
+Fuhrparkmanagement Übersicht
+Lösungen Toggle "Lösungen" menu
+Zugriff auf Flottendaten
+Transportprozessoptimierung
+Erhöhung der Fahrer- und Flottensicherheit
+Einhaltung der Flottenvorschriften
+Kontrolle über den Kraftstoff
+Produkte Toggle "Produkte" menu
+Flottenmanagementsystem
+Videotelematiksysteme
+Transportmanagementsystem
+Branchen Toggle "Branchen" menu
+Transport und Logistik
+Gefahrguttransport
+Transporter-Flotten
+Mobile Arbeitskräfte
+Personenbeförderung
+Fuhrparkmanagement im Bauwesen
+Express- und Kurierdienste
+Schüttgut- und Tanktransport
+Temperaturüberwachte Transporte
+Unser Team
+Kritische Infrastrukturen Toggle "Kritische Infrastrukturen" menu
+Kritische Infrastrukturen Übersicht
+Sektoren Lösungen Toggle "Sektoren Lösungen" menu
+Energieversorgung
+Verkehr
+Industrie
+Automatisierung
+Städte und Gemeinden
+Erneuerbare Energien
+Produkte Toggle "Produkte" menu
+LWL/Glasfaser
+Kupfer
+Funknetze
+Software/Security
+AddSecure Link
+Professionelle Services
+Unser Team
+Push-to-talk Toggle "Push-to-talk" menu
+Push-to-talk Übersicht
+Lösungen Toggle "Lösungen" menu
+Push-to-talk
+Backup-Lösung für Gruppenkommunikation
+Produkte Toggle "Produkte" menu
+GroupTalk
+Persönliche Sicherheit Toggle "Persönliche Sicherheit" menu
+Persönliche Sicherheit Übersicht​
+Lösungen Toggle "Lösungen" menu
+Alleinarbeiterschutz
+Schulen & Bildungseinrichtungen
+Einzelhandel & Einkaufszentren
+Behörden & Öffentliche Einrichtungen
+Gesundheits- & Pflegeeinrichtungen
+Sicherheitsbehörden
+Produkte Toggle "Produkte" menu
+AddAlert Notfallalarme – Cloud
+Notfallalarme – On Premise
+GroupTalk – Push to Talk
 Hardware
-Security Cameras
-Bridges
-CMVRs
-Switches
-IP Audio & I/O
-Cabinet Systems
-Sensors
-Camera Support
-Supported Device List
-Solutions
-Industries
-Education
-Multifamily
-Banking
-Retail
-EV Charging
-Restaurants
-Hotels
-Car Dealerships
-Parking
-Healthcare
-Cities
-Smart Buildings
-Cannabis
-Logistics
-Self Storage
-Integrations
-Integration Partners
-Access Control
-Alarm Management
-Advanced AI
-Smart Parking
-Smart Building Management
-Customers
-Success Stories
-Resources
-Documents
-Blog
-Events
-Webinars
-Partners
-Become a Certified Reseller
-EE University
-Project Registration
-Support
-A&E Consultants
-Integration Partners
-Support
-Contact Support
-Supported Device List
-Knowledge Base
-Submit/Manage Tickets
-Company
-About us
+Partner werden
+Ressourcen Toggle "Ressourcen" menu
+Ressourcen Übersicht
+Ressourcen Toggle "Ressourcen" menu
+Kunden-Referenzen
+E-Books
+Webinare
+Blog Toggle "Blog" menu
+AddSecure
+IoT und Sichere Kommunikation
+Transport und Logistik
+Kritische Infrastrukturen
+Events Toggle "Events" menu
+PMRExpo 2026
+E-world 2027
+Kontakt und Support Toggle "Kontakt und Support" menu
+Kontakt und Support
+Technischer Support
+Partner
+Unsere Büros
+Kontaktieren Sie uns
+Über Uns Toggle "Über Uns" menu
+Das ist AddSecure
+ISO-Zertifizierungen
+Nachhaltigkeit
 Newsroom
-Careers
-Request Demo
-Contact Us
-Overview
-Tech Specs
-Better Together
-Brivo and Eagle Eye Networks have merged to create the world's largest AI-cloud native physical security company.
-While we work to update our website, you can go to Brivo.com to learn more about the Brivo Security Suite.
-See our vision for the future
-Eagle Eye Networks Blog
-Security
-Trends 2026: Video Surveillance is no longer just recording
-February 3, 2026 Timothy Lord
-Company
-Eagle Eye Networks and Brivo: Integration at every level
-January 8, 2026 Eagle Eye Networks
-Product
-Why AI Gun Detection is Essential for Proactive Crisis Prevention
-December 30, 2025 Jozh Martinez
-Latest Posts
-Category
-Technology
-Product
-Company
-Channel Partners
-Developers
-Security
-Company
-Eagle Eye Updates: The architecture of proactive safety
-Security is no longer focused on passively recording events; it’s about proactive intervention to mitigate harm and save lives. This fundamental shift requires moving beyond basic motion detection to systems…
-December 23, 2025 Rachel Abrams
-Technology
-Comparing Eagle Eye Cabinet Systems: Choosing the right fit for your site
-Selecting the right setup for your security cameras can be a huge headache. Luckily, Eagle Eye Networks makes it super simple with their range of cabinet systems! Whether you need…
-December 18, 2025 Stacy Crain
-Security
-Can video surveillance brighten the holiday season for your business?
-You've probably been in a situation like this one: A crowded store, where shelves are in disarray, crowds are jostling, and it seems like no one knows where to find…
-December 10, 2025 Timothy Lord
-Security
-Breaking the chains: How Templeton USD escaped the “Hostage-as-a-Service” security trap
-Templeton initially implemented a security system to monitor their four campuses, but over time, reliability and performance degraded severely. The system was "platform-locked," meaning the district felt held captive by…
-December 2, 2025 Rachel Abrams
-Security
-Louvre lesson: Security is a complex, not only a process
-Last month's news footage could have come from an over-the-top movie, with a stolen cherry picker brazenly on the street outside one of the most important museums in the world,…
-November 28, 2025 Timothy Lord
-Security
-The camera never lies — until the supply chain does
-Intelligent, connected cameras have become essential infrastructure across a wide range of businesses, from retailers and landlords to manufacturers and energy producers, as well as private transportation and public transit…
-November 25, 2025 Antoinette Hodes
-Channel Partners
-How Local Search Marketing program drove a 550% increase in impressions
-In today's digital landscape, having exceptional service and expertise is only half the battle. For local businesses like security system integrators and resellers, being the best in your field doesn't…
-November 22, 2025 Arye Zucker
-Security
-Surveillance 101: Forensic vs. proactive video security
-For decades, the primary goal of a video surveillance system was clear: record, document, and review. If an incident occurred — a break-in, a liability claim, or an accident —…
-November 18, 2025 Timothy Lord
-Company
-Upgrading school security with the Drako Smart Video Security Grant
-Parents, teachers, and administrators know that schools are in a quandary, amid increasingly visible security threats, including serious violence. With limited budgets, decisions have to be made based on best…
-November 13, 2025 Timothy Lord
-Technology
-xbv2
-Video Surveillance 101: Field of view, distortion, and dewarping
-When you select a camera for video surveillance, an important aspect that you're actually choosing is the camera's lens. Just like typical cameras you use to take snapshots, surveillance cameras…
-November 11, 2025 Timothy Lord
-Company
-Congratulations to the 2025 Cloud Summit award winners
-We've just concluded the ninth Cloud Security Summit — which recognizes and amplifies that both Eagle Eye Networks and Brivo are as much about a robust community as they are…
-November 5, 2025 Timothy Lord
-Company
-Looking forward to this year’s Cloud Security Summit
-For video surveillance and access control technology specialists, whether they're resellers, integrators, or software developers, the annual Cloud Security Summit is one of the best, most focused ways to see…
-October 27, 2025 Timothy Lord
-Product
-Eagle Eye 911 Camera Sharing: Protecting communities nationwide
-Emergencies are rarely clear-cut and neat: It takes time to figure out exactly what's going on, how many people are at risk, and what hazards may be present for responders. …
-October 23, 2025 Rich Pizzo
-Product
-AI-informed human response: Meet Eagle Eye Remote Video Monitoring
-We're thrilled to say that Eagle Eye Remote Video Monitoring is officially launched, bringing an essential human layer to AI-powered surveillance for organizations everywhere, whether they're looking for 24-hour monitoring,…
-October 21, 2025 Timothy Lord
-Product
-Introducing Eagle Eye’s Pro Series cameras: Simplicity and strength
-Security doesn't have to be complicated. That's the thinking behind the new Eagle Eye Pro Series cameras — a streamlined lineup that gives you professional-grade surveillance without the confusion of…
-October 17, 2025 Matt Webster
+Whistleblowing Dienst
+Datenschutz
+Karriere
+Login
+Germany
+Toggle navigation
+Login
+Customer Cases
+Topics
+Alarmübertragung
+Fuhrparkmanagement
+Kunden-referenzen
+Rescue
+Secure critical communications
+Vineta Verkehrsgesellschaft mbH
+Transparenz für Bohmann und Bürger
+Spedition Beste GmbH & Co KG, cool und transparent
+Reinert Logistic GmbH, die Datenveredler
+Biotrans GmbH, Container mit Hirn
+Zimmerbeutel GmbH, Offen und ehrlich
+BC Catering optimiert ihre Transportaktivitäten und ist mit der Temperaturüberwachung in der Lage, die gesamte Kühlkette zu steuern.
+Eine Remote-Lösung für eine der größten Fischereianlagen der Welt
+Die Betriebsabteilung der Stadtverwaltung hat mit AddView die volle Kontrolle
+1
+Go to next page
 1
 2
-3
-…
-10
-Next »
-© 2026 Eagle Eye Networks. All rights reserved.
-United States
-+1-512-473-0500
+Go to next page
+Unser Angebot
+Fuhrparkmanagement
+Alarmübertragung
+Kritische Infrastrukturen
+Notfallalarme
+Notfallkonferenzen
+Kontakt und Support
+Kontaktiere uns
+Unsere Büros
+Technische Dokumente und Downloads
+Statusseiten
+Karriere
+Über uns
+Das ist AddSecure Nachhaltigkeit ISO-Zertifizierungen und Umweltmanagementsystem Impressum Datenschutz Cookies Newsroom
+© Copyright 2026 Germany all rights reserved
 [email protected]
-Latin America/Caribbean
-+52 55 8526 4926
-[email protected]
-Europe
-+31 20 26 10 460
-[email protected]
-Japan Office
-03-6868-5527
-[email protected]
-Products
-Eagle Eye Cloud VMS
-Video API Platform
-CameraManager
-Contract Vault
-Solutions
-Education
-Multifamily
-Banking
-Cannabis
-Cities
-Healthcare
-Hotels
-Logistics
-Restaurant
-Retail
-Buildings
-Success Stories
-Resources
-Supported Device List
-On-Demand Webinars
-Webinars
-Documents
-FAQS
-Blog
-White Papers
-Customer Videos
-Drako School Grant
-Eagle Eye University
-Partners
-Become a Certified Reseller
-Project Registration
-Specifier Resources
-Technology Partners
-Company
-In the News
-Careers
-Security
-Privacy Policy
-Eagle Eye Events
+Hauptsitz:
++49 49507753990
+Select location
+AddSecure Group
+Belgium
+Denmark
+Finland
+France
+Germany
+Italy
+Norway
+Poland
+Spain
+Sweden
+Switzerland
+The Netherlands
+UK and Global
+Continue
+Close
+Loading
+Back
+Close
+Select Option
+Search
+Available Options
+No Results
+Matching Options
+Matching Sub Options
+No Results
+Cookie-Zustimmung verwalten
+Wir verwenden Cookies
+Unsere Website verwendet Cookies, die für den Betrieb der Website und die Bereitstellung der von Ihnen angeforderten Dienste erforderlich sind. Wir möchten auch die folgenden optionalen Cookies auf Ihrem Gerät platzieren. Für weitere Informationen lesen Sie bitte unsere Cookie-Richtlinie. Cookie Policy
+Functional
+Immer aktiv
+Die technische Speicherung oder der Zugang ist unbedingt erforderlich für den rechtmäßigen Zweck, die Nutzung eines bestimmten Dienstes zu ermöglichen, der vom Teilnehmer oder Nutzer ausdrücklich gewünscht wird, oder für den alleinigen Zweck, die Übertragung einer Nachricht über ein elektronisches Kommunikationsnetz durchzuführen.
+Preferences
+The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.
+Statistics
+The technical storage or access that is used exclusively for statistical purposes.
+Die technische Speicherung oder der Zugriff, der ausschließlich zu anonymen statistischen Zwecken verwendet wird. Ohne eine Vorladung, die freiwillige Zustimmung deines Internetdienstanbieters oder zusätzliche Aufzeichnungen von Dritten können die zu diesem Zweck gespeicherten oder abgerufenen Informationen allein in der Regel nicht dazu verwendet werden, dich zu identifizieren.
+Marketing
+Die technische Speicherung oder der Zugriff ist erforderlich, um Nutzerprofile zu erstellen, um Werbung zu versenden oder um den Nutzer auf einer Website oder über mehrere Websites hinweg zu ähnlichen Marketingzwecken zu verfolgen.
+Optionen verwalten
+Dienste verwalten
+Verwalten von {vendor_count}-Lieferanten
+Lese mehr über diese Zwecke
+Alle akzeptieren
+Ablehnen
+Einstellungen
+Save preferences
+Einstellungen
+{title}
+Zustimmung verwalten

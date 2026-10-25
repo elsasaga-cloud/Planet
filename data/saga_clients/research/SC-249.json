@@ -1,0 +1,66 @@
+{
+ "code": "SC-249",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（sartura.hr，快照 2026-10-21）",
+ "summary": "克罗地亚 Sartura（嵌入式 Linux/OpenWrt 工程服务公司：电信/网络设备软件开发，合作伙伴与客户展示；站内 PUZZLE-M801（Marvell 平台板）；表内「Marvell」）；表内未跟进。",
+ "type": "嵌入式软件工程服务商（克罗地亚）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Sartura；品类词 电信 / FTTH / ISP 设备",
+   "quote": "Our services；Partners & Customers；Latest News All news；We're working with",
+   "url": "https://www.sartura.hr/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "Marvell",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Sartura 定位",
+   "quote": "Sartura ; Our services ; Partners & Customers ; PUZZLE-M801",
+   "url": "https://www.sartura.hr/",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "工程/软件服务公司，不经销硬件；c_sub=品类不符（软件/工程服务）",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "克罗地亚",
+  "other": "官网 sartura.hr，语言 en，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "嵌入式 Linux / 网络软件工程服务（克罗地亚）"
+ ],
+ "channels": {
+  "role": "嵌入式软件工程服务商（克罗地亚）",
+  "region": "克罗地亚",
+  "contact": "info@sartura.hr"
+ },
+ "signals": [
+  "官网：Sartura ; Our services ; Partners & Customers ; We’re working with；站内 PUZZLE-M801；kw telecom 12",
+  "表内：Marvell"
+ ],
+ "risks": [
+  "品类不符：嵌入式软件工程服务（不经销交换机）；小国（克罗地亚）"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 25,
+  "why": "工程/软件服务公司（不经销硬件）→ 改 C（品类不符）；小国"
+ },
+ "email_hook": "（不发送：工程服务公司）"
+}

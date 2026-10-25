@@ -1,0 +1,226 @@
+# SB-758 fossfibreoptics.com · news_2 · https://www.fossfibreoptics.com/product-article-hawke · fetched 2026-10-25T07:41:18Z · HTTP 200
+Hawke - fiber Ex connectors
+Skip to main content
+To top
+Card payment
+International Shipping
+Customer Service
+Norwegian website
+|
+Contact us
+Language
+English
+Slovak
+German
+Company
+Favourites
+Log in
+Amount
+All products
+News
+Company
+Fiber optic systems
+Fiber racks/cabinets
+Rack
+Accessories
+Data Cabinets
+Fiber Panels
+Fiber patch panels
+Modular panels
+Splitters installed in panels/modules
+xWDM installed in panels/modular
+Accessories for panels
+Patch cords
+Pigtails
+Fiber optic Patch cords
+Subscriber cable
+Master patch cords
+Fiber optic cables
+Cables
+Terminated cable
+Tactical cable
+Industry/offshore
+Cable management frame
+Foss wall boxes
+Flexi wall box
+Wall box
+Wall box DIN
+Wall cabinet 24
+Trunk and wall outlet
+MPO
+Terminated cable with MPO
+Fan-Out with MPO
+Panels and modules with MPO
+Wall box DIN Mini with MPO
+Cable management frame
+Rugged Fiber
+Ruggedized connectors
+ProBeam-series
+D38999
+IP-series
+HARTING Han
+Hawke-series
+MPO-PLUS Bayonet Connector
+MPO Field connector
+LC Field-connector
+UAV SPOOL
+Cables for harsh environment
+Tactical cable
+Industry/offshore
+Pre-terminated cable
+Cable reel
+Rotary joint
+Foss Data Center systems
+Data Cabinets
+Accessories for cabinets
+Patch Cable
+Duplex patch cords UniBoot
+Fiber patch panels
+Copper trunk cables
+MPO
+Terminated cable with MPO
+Fan-Out with MPO
+Panels and modules with MPO
+Wall box DIN Mini with MPO
+Plug & play solutions
+Pre-terminated cable
+Terminated cable with MPO
+Fan-Out with MPO
+Panels and modules with MPO
+Wall box DIN Mini with MPO
+Other fiber products
+Splice box
+Splice closures - CommScope
+Cable management frame
+Instruments
+Measuring
+Polishing Machine
+Measurement/inspection equipment
+Fiber Sensing
+Components
+Splitters
+CWDM Components
+Electronics
+Network Electronics
+Transceivers
+Tools
+Toggle navigation
+Language
+English
+Slovak
+German
+Toggle navigation
+Hawke - fiber Ex connectors
+Digitalization is relevant in industrial environments. Equipment and processes can be remotely controlled and monitored. This places great demands on the communication equipment. Fiber optic cables are immune to electromagnetic noise and have high transmission capacity. This makes fiber optics the natural solution for modern and robust communication.
+- Fibre Ex connectors make communication in hazardous areas possible
+- Pre-terminated cables make the installation easy and reliable
+The Hawke connector combines the strength of market leading connection range with the latest in Ex Fiber Optic specifications. It is designed to meet the latest BS EN 60079- 28:2015 standard for protection of equipment using fibre optics in explosive atmospheres. The FibreEx offers an easy-to-install solution that will keep the network running, even in the world’s most arduous environments.
+Fiber Ex features
+1. Keyed Positions
+A secondary keying guide on the insert body of the FibreEx connector guarantees correct alignment, every time. This prevents pin damage in the short term, and expands the FibreEx’s lifespan in the long term for lowest lifetime costs.
+2. Integral Keying
+Our machined keys and insert keyway ensures perfect connector alignment without damage to pins or contacts for fast installation and a longer product lifespan.
+3. Pre-Terminated
+All bulkhead connectors are supplied pre-terminated with encapsulated tails to suit your requirements. Whether for use in industrial, Exd, Exe or other applications, the versatile FibreEx will provide a solution to support your project’s unique needs. CP and CR connectors are also available pre-terminated.
+4. Quick Connect
+Our unique 4 start ACME thread offers a smooth and quick fully mating action in less than two turns, for fast and simple installation. Earth continuity is achieved via a 360° contact clip.
+5. The Original Reversible Armour Clamp
+Invented nearly 20 years ago, Hawks industry-leading, RAC clamping system provides a fully inspecatable method of accommodating a variety of different armour or braided cable types, with zero cable damage. Trusted by some of the industry’s leading names, the FibreEx incorporates this patented technology for easy installation and inspection.
+6. Anti Rotation
+The FibreEx’s profiled spigot and connector body prevent cable rotation to eliminate cable damage for an increased product lifespan.
+7. Cable Clamp
+A cable clamp, in nickel plated brass will be suppled with every CP and CR to reduce cable damage during installation and improve lifespan.
+8. Contacts
+The M29504 series Pin and socket termini utilizes proven, harsh environment ceramic ferrule technology and a ceramic alignment sleeve to reduce insertion (signal) loss in some of the world’s most arduous environments.
+Pin and socket
+The pin end sockets design has been to incorporate the latest in fibre technology and precision engineering to provide an easy-to-install.
+Precision fiber optic ceramic ferrules
+Precision “press fit” stainless steel design
+Accurate ferrule alignment system
+Solid reliable connectivity through a wide range of harsh environmental conditions
+Reliable, repeatable and durable connections
+Easy to clean
+Connector plug and receptacle
+The Hawke fiber connector can be delivered with a specified length of cable. The connector may be in one or both ends. If Hawke is used only in one end the other end may be ordered with a specified length of break-out cable fitted with standard connectors (SC, LC, etc.)
+The bulkhead receptacle
+This connector is for mounting in fibreoptic panels/cabinets and is available with patch cords with standard connectors (SC, LC, etc.) in the other end.
+Technical Data
+Fibre Ex
+Attenuation/Insertion Loss
+0.5 typical (measured with
+9/125mm fiber @ 1310nm/1550nm
+Mating Durability
+500 cycles
+Back Reflection
+Better than -40dB - PC polish
+Ingress Protection
+IP66/67
+Fibre Types
+Singlemode 9/125μm
+Multimode 50/125μm
+Multimode 62.5/ 125
+Other options available on request
+Contact Technology
+Low loss ceramic PC technology
+in both multimode and
+singlemode
+Termination Method
+Anaerobic as standard
+Materials
+Nickel Plated or Stainless Steel
+Termination Range
+-40°C to + 60°C
+T Ratings at different power
+T6 + 60
+Certification
+Ex II 2GD Ex op pr IIC T6 Gb, Ex tb IIIC T85°C Db (Tamb 0 -40°C to +60°C) IP66/67
+Ex [dbe] op pr IIC T6 Gb - for bulkhead/box mount version
+Ex [op is] IIC T* Ga - with separately certified ‘op is’ source
+ATEX
+All aspects of work preventing explosions follow common norms and regulations (EX-norm). The European ATEX-directive (ATmosphères EXplosibles) are the basis for the European norm EN.
+The ATEX-directive are devided into a product directive and a user directive. The product directive ensures that all products are manufactured and labelled correctly. The product directive are relevant for all manufacturers of products and solutions for explosive areas.
+Several other norms and regulations exist outside of Europe, but products that comply with the ATEX-directive are often compliant to these aswell.
+Foss Fiber Optics
+About Us
+Company
+Contact us
+News and Articles
+Customer Service
+Sale and delivery conditions
+Data protection policy
+Download
+NORWAY
+Foss Fiber Optics AS
+Box 3614, 3007 Drammen,
+Norway
+☎︎ +47 32 21 08 00
+✉ info@fossfiberoptics.no
+SLOVAK REPUBLIC
+Foss Fibre Optics s.r.o
+Odborárska 52, 831 02 Bratislava
+Slovak Republic
+☎︎ +421 2 48 205 200
+✉ office.sk@fossfibreoptics.com
+Company id: NO936010229MVA
+©2026 Foss Fiber Optics AS. Alle rettigheter reservert.
+Gurusoft
+Go back
+Fiber optic systems
+Rugged Fiber
+Foss Data Center systems
+Plug & play solutions
+Other fiber products
+News
+Company
+Links
+Norwegian website
+Contact us
+Language
+English
+Slovak
+German
+Favourites ( )
+My account
+Your session has expired!
+Your session has now expired. Please click "OK" to refresh the page and avoid any loss of unsaved data. If you were logged in, you will need to log in again.
+OK

@@ -2,126 +2,146 @@
  "code": "SB-871",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "在线（tronteq.com，快照 2026-10-21）",
- "summary": "德国 TRONTEQ（公共交通车载以太网交换机制造商：ROQSTAR M12 非管理/管理/千兆/PoE 交换机「Made in Germany」，面向公交车与有轨电车数字化；表内「轨道交通 switch 比较多，看着比较专业」）；群发 8 次无回复。",
- "type": "同行厂商（车载 M12 交换机，自产）",
+ "website_status": "在线（intenet.com.tr，快照 2026-10-21）",
+ "summary": "土耳其 INTENET（变电站交钥匙方案：TEİAŞ 通信系统、变电站自动化/SCADA、光纤产品与基础设施、开关柜保护控制；站内工业交换机方案页、ISCOM3052G、EN50121-4；表内「工业交换机」；KP Ercan Ozturk（General Manager-Owner，ercan.ozturk@））；群发 2 次无回复。",
+ "type": "电力/变电站系统集成商（土耳其，守界）",
  "size": "",
  "brands_seen": [
-  "Ubiquiti"
+  "Cisco",
+  "Raisecom"
  ],
  "evidence": [
   {
    "kind": "官网快照",
-   "claim": "官网标题：TRONTEQ • Ethernet Switches for Public Transport；品类词 安防监控（CCTV / 门禁） / 网络交换 / PoE",
-   "quote": "TRONTEQ is your specialist for Ethernet Switches 'Made in Germany' and onboard networks for the digitalization of buses and trams.",
-   "url": "https://www.tronteq.com/en",
+   "claim": "官网标题：INTENET İnternet, Telekominikasyon, Network ve Bilişim Sistemleri, Teiaş, Eneri Santral Ha；品类词 工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 无线 / WiFi / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "Substations Turnkey Solutions INTENET transformer centers and power plants (HES, RES and Thermal power plants) are equipped with turnkey high voltage protection control, Scada- Automation and communication system installations. It provides ",
+   "url": "https://intenet.com.tr/en/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
    "claim": "表内兴趣/备注",
-   "quote": "轨道交通switch比较多 看着比较专业",
+   "quote": "工业交换机",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   },
   {
    "kind": "官网快照",
-   "claim": "德国制造的以太网交换机，公交与有轨电车车载网络",
-   "quote": "TRONTEQ is your specialist for Ethernet Switches Made in Germany and onboard networks for the digitalization of buses and trams.",
-   "url": "https://www.tronteq.com/en",
+   "claim": "变电站交钥匙方案与 SCADA",
+   "quote": "Substations Turnkey Solutions INTENET transformer centers and power plants (HES, RES and Thermal power plants) are equipped with turnkey high voltage protection control, Scada- Automation and communic…",
+   "url": "https://intenet.com.tr/en/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "轨道交通交换机为主",
-   "quote": "轨道交通switch比较多 看着比较专业",
+   "claim": "工业交换机",
+   "quote": "工业交换机",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
- "kp": [],
- "grade_override": "C",
- "override_reason": "同行厂商（自产 ROQSTAR M12 车载交换机，Made in Germany）+ 轨道/车载 EN50155 品类不符；c_sub=品类不符（轨道/车载）",
+ "kp": [
+  {
+   "name": "Ercan Ozturk",
+   "title": "General Manager-Owner",
+   "email": "ercan.ozturk@intenet.com.tr",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "德国",
-  "other": "官网 tronteq.com，语言 en，快照状态 ok；角色判定来源：官网文案"
+  "hq": "土耳其",
+  "other": "官网 intenet.com.tr，语言 en-US，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "公共交通车载以太网交换机（M12）"
+  "变电站自动化 / SCADA / 通信系统集成",
+  "光纤产品与基础设施"
  ],
  "channels": {
-  "role": "同行厂商（车载 M12 交换机，自产）",
-  "region": "德国",
-  "contact": "info@tronteq.com"
+  "role": "电力/变电站系统集成商（土耳其，守界）",
+  "region": "土耳其",
+  "contact": "info@intenet.com.tr、ercan.ozturk@intenet.com.tr"
  },
  "signals": [
-  "官网：Ethernet Switches Made in Germany, onboard networks for buses and trams",
-  "产品线 ROQSTAR Unmanaged / Managed / Gigabit / PoE M12"
+  "官网：Substations Turnkey Solutions INTENET transformer centers and power plants (HES, RES and Thermal power plants) … Scada- Automation and communication",
+  "页面 /en/our-solution/industrial-switch/；站内 ISCOM3052G / EN50121-4",
+  "KP：Ercan Ozturk / General Manager-Owner（表内）"
  ],
  "risks": [
-  "同行厂商：ROQSTAR 系列自产，Made in Germany 定位与中国白牌不兼容",
-  "品类：公交/有轨电车车载网络（EN50155）= Saga 不做"
+  "守界：变电站/电力公用事业（TEİAŞ）核心网络不做；Saga 无 IEC 61850-3 / EN50121-4",
+  "公用事业项目周期长、认证门槛高；2 次无回复"
  ],
  "saga_fit": {
-  "p1": null,
+  "p1": "STI-288GPM",
   "tier": 25,
-  "why": "自产 M12 车载交换机（EN50155 场景）且标榜德国制造 → 非 OEM 买家；品类为 Saga 不做的轨道/车载 → 改 C"
+  "why": "变电站/SCADA 为主 → 守界：IEC 61850-3 节点不报；仅非关键节点/园区网络位 STI-288GPM（$82.2 @25%）、STI-280GE"
  },
- "email_hook": "（不发送：同行厂商 + 轨道/车载品类不符）",
+ "email_hook": "Mr. Ozturk, for the non-critical network nodes in your fiber and SCADA projects (site LAN, camera and office segments outside the IEC 61850 zone), we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed switches (−40~75 °C, CE/RoHS) from small lots — is there such a layer in your current projects?",
  "mail_review": {
-  "as_of": "2026-10-25",
   "binding": {
-   "level": "已发未回（无人工回复、无打开记录；A 11 封 2025-04-08→2026-03-10，共 11 封群发，0 真实回复；Elsa 单发去信 1 封（2025-02-19「16 Port Ethernet Switch」→ info@tronteq.com，未见回复（Elsa 箱 Replied 标签无）））（第 74 批(e)：S/A mail_dump + Elsa 箱 in:sent 排锚扫描 2026-10-25）",
-   "type": "同行厂商（车载 M12，轨交）",
-   "sieve": "1",
-   "stop": "读",
-   "evidence": [
-    "mail_dump.py SB-871（S/A 全量）",
-    "data/gmail_e/elsa_sent_nonanchor_2026-10-25.json（Elsa 1:1 普查）"
-   ]
+   "level": "未触达（A/S 邮箱 17 封 2024→2026，无记录打开，0 回；收件 ercan.ozturk@intenet.com.tr, info@intenet.com.tr；主题多为「10G Enterprise SFP Switch、Industrial PoE Switch」；Elsa 箱：`to:intenet.com.tr` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 17 / 来 0）（第 74 批(i)））",
+   "type": "电力/变电站系统集成商（土耳其，守界）",
+   "sieve": "1（只收到群发）",
+   "stop": "17 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "TR 主攻（四主）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 17；用户表：「工业交换机」；研究档 risks：守界：变电站/电力公用事业（TEİAŞ）核心网络不做；Saga 无 IEC 61850-3 / EN50121-4"
   },
-  "situation": "德国 TRONTEQ（公交/有轨电车车载 M12 交换机制造商，Made in Germany；同行 + 轨交）",
-  "need": "同行 + 轨交主营 → 守界",
-  "breakpoint": "同行；A 11 封 0 回",
+  "situation": "土耳其 INTENET（变电站交钥匙方案：TEİAŞ 通信系统、变电站自动化/SCADA、光纤产品与基础设施、开关柜保护控制；站内工业交换机方案页、ISCOM3052G、EN50121-4；表内「工业交换机」；KP Ercan Ozturk（General Manager-Owner，ercan.ozturk@））；群发 2 次无回复。",
+  "need": "变电站/SCADA 为主 → 守界：IEC 61850-3 节点不报；仅非关键节点/园区网络位 STI-288GPM（$82.2 @25%）、STI-280GE",
+  "breakpoint": "守界：变电站/电力公用事业（TEİAŞ）核心网络不做；Saga 无 IEC 61850-3 / EN50121-4",
   "saga_now": {
-   "p1": null,
-   "tier": null,
-   "price": null,
-   "why": "同行 + 轨交主营 → 守界",
-   "repeat": "无成单；不动",
+   "p1": "STI-288GPM",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-21 $300（48 port switch）、2024-09-24 $65（10G Media Converter）；群发里他已看到的价（续）：2026-08-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-26 $280（10G Enterprise SFP Switch）",
+   "why": "变电站/SCADA 为主 → 守界：IEC 61850-3 节点不报；仅非关键节点/园区网络位 STI-288GPM（$82.2 @25%）、STI-280GE",
+   "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "不动：同行 + 轨交",
-   "one_question": null
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Mr. Ozturk, for the non-critical network nodes in your fiber and SCADA projects (site LAN, camera and office segments outside the IEC 61850 zone), we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed switches (−40~75 °C, CE/RoHS) from small lots — is there such a layer in your current projects?"
   },
   "facts": [
    {
-    "date": "2026-03-10",
+    "date": "2024-11-05",
     "dir": "去",
-    "who": "S/A 群发",
-    "quote": "Marvell Alleycat5 Solution, Commercial PoE Switch, 48 Port PoE Managed Switch, Mini Industrial PoE Switch",
-    "why": "A 11 封 2025-04-08→2026-03-10，共 11 封群发，0 真实回复｜首封 2025-04-08 → 末封 2026-03-10",
+    "who": "Simon → Angora Networks（SA-077）附件 Turkey Client List.xlsx",
+    "quote": "名单行：「industrial network info@intenet.com.tr https://intenet.com.tr/en/our-solution/industrial-switch/」",
+    "why": "Saga 2024-11-05 把本户列入交给 Angora（安卡拉，Saga 提议的欧盟/土耳其分销伙伴）的 64 家起步名单；此后 Saga 仍直发本户。若 Angora 已接触过本户，Saga 直发会与自己提议的渠道打架 → Q-51（默认：直发继续，Angora 报了价的户 Saga 只做技术支持）",
+    "k": "gmail_s 2024-11-05 Re: Invoice_5pcs STC-424DGGPM-280W（附件）+ Drive PI 7_土耳其 Turkey_Client_List.xlsx"
+   },
+   {
+    "date": "2026-09-21",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "10G Enterprise SFP Switch、Industrial PoE Switch",
+    "why": "17 封 / 0 次打开 / 0 回｜首封 2024-06-29 → 末封 2026-09-21（17 去 / 0 来）",
     "k": "gmail_digest"
    },
    {
-    "date": "2025-02-19",
-    "dir": "out",
-    "who": "Elsa → info@tronteq.com",
-    "quote": "16 Port Ethernet Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
-    "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
-    "k": "elsa_1to1",
-    "msg_id": "1951dc1e1cae2410"
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "工业交换机",
+    "why": "表内备注",
+    "k": "用户表"
    }
   ],
-  "proof_gaps": [],
-  "draft_en": null
+  "proof_gaps": [
+   "在 Saga 给 Angora 的 Turkey Client List（2024-11-05）里——Angora 是否接触过本户无记录（Q-51）"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
  }
 }

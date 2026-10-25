@@ -1,138 +1,208 @@
 {
- "code": "SB-1090",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（top-fa.com，快照 2026-10-21）",
- "summary": "韩国 TOP-FA / Factos（「자동화의 모든것」工业自动化网店：串口/采集（ICP DAS I-7520AR、PCI-7432）、D-Link、PoE、线缆；表内「工业自动化 serial 比较专业；在用台湾的 ICP DAS 牌子」「可以尝试多跟进一下」）；群发 23 次无回复。",
- "type": "工业自动化网店（韩国，ICP DAS 在售）",
- "size": "",
- "brands_seen": [
-  "D-Link",
-  "ICP DAS"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：자동화의 모든것 TOP-FA!；品类词 工业自动化 / OT 网络 / 布线 / 线缆 / 网络交换 / PoE",
-   "quote": "팝업레이어 알림；NOTICE；MAIN PRODUCTS；APPLICATION；NEWS；제품정보",
-   "url": "https://top-fa.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "工业自动化 serial 比较专业 在用台湾的IPDAS牌子",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "TOP-FA 首页",
-   "quote": "자동화의 모든것 TOP-FA! ; MAIN PRODUCTS ; APPLICATION ; 빠른견적요청 ; I-7520AR",
-   "url": "https://top-fa.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "在用台湾 ICP DAS",
-   "quote": "工业自动化 serial 比较专业 在用台湾的IPDAS牌子；可以尝试多跟进一下",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "韩国",
-  "other": "官网 top-fa.com，语言 ko，快照状态 ok；角色判定来源：用户表"
- },
- "business_lines": [
-  "工业自动化产品网店（串口 / 采集 / 网络 / 线缆）"
- ],
- "channels": {
-  "role": "工业自动化网店（韩国，ICP DAS 在售）",
-  "region": "韩国",
-  "contact": "master@factos.co.kr"
- },
- "signals": [
-  "首页 자동화의 모든것 TOP-FA! ; MAIN PRODUCTS ; 빠른견적요청；站内 I-7520AR / PCI-7432 / GH-402ATXR；kw poe 14 / cable 12",
-  "表内：工业自动化 serial 比较专业 在用台湾的 IPDAS 牌子；可以尝试多跟进一下"
- ],
- "risks": [
-  "非主攻区（T5，韩国）；KC 由客户申报；ICP DAS（台湾）价格基准与品牌认知强",
-  "23 次无回复，仅 master@"
- ],
- "saga_fit": {
-  "p1": "STI-280GE",
-  "tier": 20,
-  "why": "在售 ICP DAS 工业网络 → 工业 8 GE + 2 SFP 非管理 STI-280GE（$46.6 @20%）/ 5 GE STI-050GE（$17.0）作预算线；PoE 位 STI-288GP（$57.4）"
- },
- "email_hook": "Alongside the ICP DAS and D-Link networking you list for automation panels, we supply DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP switches (−40~75 °C, CE/RoHS, neutral packing; managed versions on a Marvell platform) from small lots, EXW USD; KC by your side — which port count do your automation customers buy most?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A/S 邮箱 36 封 2024→2026，1 次记录打开，0 回；收件 master@factos.co.kr；主题多为「Booster PoE Switch、Industrial PoE Switch」；Elsa 箱：`to:top-fa.com OR to:factos.co.kr` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 36 / 来 0）（第 74 批(n)））",
-   "type": "工业自动化网店（韩国，ICP DAS 在售）",
-   "sieve": "1~2（1 次打开）",
-   "stop": "36 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
-   "lane": "KR 次级（点名）",
-   "cadence": "一封",
-   "evidence": "gmail_digest：out 36，Opened 标签 1（Simon 群发追踪）；用户表：「工业自动化 serial 比较专业 在用台湾的IPDAS牌子」；研究档 risks：非主攻区（T5，韩国）；KC 由客户申报；ICP DAS（台湾）价格基准与品牌认知强"
-  },
-  "situation": "韩国 TOP-FA / Factos（「자동화의 모든것」工业自动化网店：串口/采集（ICP DAS I-7520AR、PCI-7432）、D-Link、PoE、线缆；表内「工业自动化 serial 比较专业；在用台湾的 ICP DAS 牌子」「可以尝试多跟进一下」）；群发 23 次无回复。",
-  "need": "在售 ICP DAS 工业网络 → 工业 8 GE + 2 SFP 非管理 STI-280GE（$46.6 @20%）/ 5 GE STI-050GE（$17.0）作预算线；PoE 位 STI-288GP（$57.4）",
-  "breakpoint": "非主攻区（T5，韩国）；KC 由客户申报；ICP DAS（台湾）价格基准与品牌认知强",
-  "saga_now": {
-   "p1": "STI-280GE",
-   "tier": 20,
-   "price": "换人再触锚价 STI-280GE $46 EXW（Saga 2025 Realtek 工业线对外价 $46（非管理工业线不用档位价 ㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-20 $300（48 port switch）、2024-10-18 $65（10G Media Converter）；群发里他已看到的价（续）：2026-07-27 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-07-01 $240（24 Port Fiber Switch）、2025-09-30 $280（10G Enterprise SFP Switch）、2026-06-10 $16000（32 Port 400GB DC Switch）",
-   "why": "在售 ICP DAS 工业网络 → 工业 8 GE + 2 SFP 非管理 STI-280GE（$46.6 @20%）/ 5 GE STI-050GE（$17.0）作预算线；PoE 位 STI-288GP（$57.4）。已打开的主题（1/36 封有打开记录）：「Marvell Alleycat5 Solution」(2025-04-14) → 读者兴趣主题类别不明（看原主题）",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "2027-Q1（换人后）",
-   "channel": "A 邮箱 → 具名 KP",
-   "action": "换收件人再发一封（第 75 批(ad) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用；KC stays on your side））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
-   "one_question": "Alongside the ICP DAS and D-Link networking you list for automation panels, we supply DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP switches (−40~75 °C, CE/RoHS, neutral packing; managed versions on a Marvell platform) from small lots, EXW USD; KC by your side — which port count do your automation customers buy most? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity)."
-  },
-  "facts": [
-   {
-    "date": "2026-09-15",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "Booster PoE Switch、Industrial PoE Switch",
-    "why": "36 封 / 1 次打开 / 0 回｜首封 2024-06-19 → 末封 2026-09-15（36 去 / 0 来）",
-    "k": "gmail_digest"
-   },
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "工业自动化 serial 比较专业 在用台湾的IPDAS牌子",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2026-09-15",
-    "dir": "去",
-    "who": "A 箱（Alan）",
-    "quote": "16 Port Industrial PoE Switch",
-    "why": "本日去信真实主题（邮箱索引 29f725ce36f815ea；信稿开头句引用此封；此前稿内写的「Booster PoE Switch」是线程列表首题，不是本封）",
-    "k": "29f725ce36f815ea"
-   }
+  "code": "SB-1090",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（tramaweb.com.br，快照 2026-10-21）",
+  "summary": "巴西 tramaweb.com.br（官网快照为公关传播公司 Grupo Trama Reputale（1995 年起公共关系/数字营销），与表内「MC FS 自己的 logo，别人在卖他们的 MC，很多周边产品」业务不符——站点错配/域名易主待核；KP Fabio）；表内未跟进。",
+  "type": "待核实体（巴西，MC 自有标；站点错配）",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：Grupo Trama Reputale | Agência de Comunicação Corporativa em SP；品类词 电信 / FTTH / ISP 设备",
+      "quote": "Grupo Trama Reputale: formado pela Trama Comunicação, fundada em 1995, e pela Reputale Digital. Relações Públicas, Comunicação Interna e Marketing Digital.",
+      "url": "https://www.tramaweb.com.br/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "MC FS 自己的logo 别人在卖他们的MC",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "tramaweb 快照（错配）",
+      "quote": "Grupo Trama Reputale | Agência de Comunicação Corporativa em SP ; formado pela Trama Comunicação, fundada em 1995",
+      "url": "https://www.tramaweb.com.br/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "MC FS 自己的 logo",
+      "quote": "MC FS 自己的logo 别人在卖他们的MC；很多周边产品",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [],
-  "draft_en": {
-   "subject": "Alongside ICP DAS and D-Link in your automation panels - a budget industrial line",
-   "body": "Hello TOP-FA team,\n\nOver the past months you had a steady stream of product mails from us - most recently \"16 Port Industrial PoE Switch\" on 15 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nAlongside the ICP DAS and D-Link networking you list for automation panels, a budget industrial line, neutral-brand, at distributor price, EXW, from single pieces, 15-day validity, -40 to 75 C, CE/RoHS: DIN-rail 5 x Gigabit unmanaged - model STI-050GE - $17.0 USD; 8 x Gigabit + 2 x SFP unmanaged - STI-280GE - $46; 8 x Gigabit PoE+ + 2 x SFP unmanaged - STI-288GP - $60. Serial gateways stay with ICP DAS - we do not do them. KC stays on your side.\n\nOne question: which port count do your automation customers buy most - 5 or 8?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+  "kp": [
+    {
+      "name": "Fabio",
+      "title": "（姓氏/职务待核）",
+      "email": "fabio@tramaweb.com.br",
+      "phone": "",
+      "source": "用户表"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
   },
-  "as_of": "2026-10-24"
- }
+  "company_facts": {
+    "hq": "巴西",
+    "other": "官网 tramaweb.com.br，语言 pt-BR，快照状态 ok；角色判定来源：用户表"
+  },
+  "business_lines": [
+    "（待核）MC / 网络配件"
+  ],
+  "channels": {
+    "role": "待核实体（巴西，MC 自有标；站点错配）",
+    "region": "巴西",
+    "contact": "fabio@tramaweb.com.br"
+  },
+  "signals": [
+    "快照：Grupo Trama Reputale | Agência de Comunicação Corporativa em SP ; Relações Públicas, Comunicação Interna e Marketing Digital",
+    "表内：MC FS 自己的 logo 别人在卖他们的 MC；很多周边产品；KP fabio@"
+  ],
+  "risks": [
+    "站点错配：tramaweb.com.br 当前为公关公司 Grupo Trama Reputale，与表内 MC/FS 业务不符（实体/域名待核）",
+    "非主攻区（T5，巴西）；未跟进过"
+  ],
+  "saga_fit": {
+    "p1": "STI-110GE",
+    "tier": 30,
+    "why": "若 MC 业务仍在 → 工业千兆 MC STI-110GE（$24.3 @30%）/ 桌面 MC 用 HRUI（列表价，注明）贴标；先核实实体"
+  },
+  "email_hook": "Fabio, for the media converters you sell under your own label, we can supply gigabit MCs (desktop or industrial) and small SFP-uplink switches in your packaging from small lots, CE/RoHS — are you still carrying the MC line?",
+  "site_mismatch": true,
+  "mail_review": {
+    "binding": {
+      "level": "未发信（S/A 邮箱均无往来；来源：用户表「MC FS 自己的logo 别人在卖他们的MC」）；Elsa 群发 BCC 已触达 9 轮 2025-02-13→2026-09-03（锚 To flavioprogramado@gmail.com 9 轮 2025-02-13→2026-09-03；本户在 Bcc；主题 10G Enterprise SFP Switch、Industrial PoE Switch、Updated Ethernet Switches Links、24 Port PoE Managed Switch…；0 回（Elsa 箱 Replied 索引 + 第 73 批真人来信逐户比对均无此户）；S/A digest 看不到 Elsa 的去信，之前据此写的「未发信」是 S/A 口径）（第 74 批(n) `from:e.sagatelecom to:tramaweb.com.br` 全程 complete：命中 9 行、To 均为锚地址 ⇒ 本户在锚的 Bcc 名单）",
+      "type": "待核实体（巴西，MC 自有标；站点错配）",
+      "sieve": "—（未入筛）",
+      "stop": "从未触达",
+      "revive": "不动（非主攻区；J5：有证据再动）",
+      "lane": "巴西 非主攻",
+      "cadence": "不动",
+      "evidence": "gmail_digest：out 0；用户表：「MC FS 自己的logo 别人在卖他们的MC」；研究档 risks：站点错配：tramaweb.com.br 当前为公关公司 Grupo Trama Reputale，与表内 MC/FS 业务不符（实体/域名待核）"
+    },
+    "situation": "巴西 tramaweb.com.br（官网快照为公关传播公司 Grupo Trama Reputale（1995 年起公共关系/数字营销），与表内「MC FS 自己的 logo，别人在卖他们的 MC，很多周边产品」业务不符——站点错配/域名易主待核；KP Fabio）；表内未跟进。",
+    "need": "若 MC 业务仍在 → 工业千兆 MC STI-110GE（$24.3 @30%）/ 桌面 MC 用 HRUI（列表价，注明）贴标；先核实实体",
+    "breakpoint": "站点错配：tramaweb.com.br 当前为公关公司 Grupo Trama Reputale，与表内 MC/FS 业务不符（实体/域名待核）",
+    "saga_now": {
+      "p1": "STI-110GE",
+      "tier": 30,
+      "price": "按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-02-13 $300（48 Port PoE Managed Switch = STC-448XGGPM，Elsa 箱 1 轮 2025-02-13；现表 $335.4@20%、Drive 老表 $335——同款写 $335 要先说 2025 群发是 $300、汇率 7.2→6.7）；2025-04-06 $65（10G Media Converter = 10G 媒体转换器，Elsa 箱 1 轮 2025-04-06；Simon 实报就是 $65）；2025-10-05 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2025-10-05；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-09-03 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-03；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
+      "why": "若 MC 业务仍在 → 工业千兆 MC STI-110GE（$24.3 @30%）/ 桌面 MC 用 HRUI（列表价，注明）贴标；先核实实体",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "不动",
+      "channel": "—",
+      "action": "—",
+      "one_question": ""
+    },
+    "facts": [
+      {
+        "date": "2025-02-13",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To flavioprogramado@gmail.com）",
+        "quote": "48 Port PoE Managed Switch（Elsa 群发第 1/9 轮；本户在 Bcc，锚 To flavioprogramado@gmail.com；正文价 300usd/pc，第 74 批(p) 读稿 msg 194eff1f9bf46879 / 1973a613b8166b58）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:tramaweb.com.br` 命中行 To=flavioprogramado@gmail.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+        "k": "elsa_bcc",
+        "msg_id": "194ff9bfacafefef"
+      },
+      {
+        "date": "2025-04-06",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To flavioprogramado@gmail.com）",
+        "quote": "10G Media Converter（Elsa 群发第 2/9 轮；本户在 Bcc，锚 To flavioprogramado@gmail.com；正文价 65usd/pc，第 74 批(p) 读稿 msg 19501dcc2221e96f）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:tramaweb.com.br` 命中行 To=flavioprogramado@gmail.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+        "k": "elsa_bcc",
+        "msg_id": "1960b66ab9d80621"
+      },
+      {
+        "date": "2025-05-01",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To flavioprogramado@gmail.com）",
+        "quote": "Mini Industrial PoE Switch（Elsa 群发第 3/9 轮；本户在 Bcc，锚 To flavioprogramado@gmail.com）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:tramaweb.com.br` 命中行 To=flavioprogramado@gmail.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+        "k": "elsa_bcc",
+        "msg_id": "19687ef2808b4ecd"
+      },
+      {
+        "date": "2025-06-04",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To flavioprogramado@gmail.com）",
+        "quote": "16 Port Ethernet Switch（Elsa 群发第 4/9 轮；本户在 Bcc，锚 To flavioprogramado@gmail.com）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:tramaweb.com.br` 命中行 To=flavioprogramado@gmail.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+        "k": "elsa_bcc",
+        "msg_id": "1973b74cc55eff6d"
+      },
+      {
+        "date": "2025-07-03",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To flavioprogramado@gmail.com）",
+        "quote": "8 Port Industrial PoE Switch（Elsa 群发第 5/9 轮；本户在 Bcc，锚 To flavioprogramado@gmail.com）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:tramaweb.com.br` 命中行 To=flavioprogramado@gmail.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+        "k": "elsa_bcc",
+        "msg_id": "197d0a7b02136c41"
+      },
+      {
+        "date": "2025-10-05",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To flavioprogramado@gmail.com）",
+        "quote": "10G Enterprise SFP Switch（Elsa 群发第 6/9 轮；本户在 Bcc，锚 To flavioprogramado@gmail.com；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:tramaweb.com.br` 命中行 To=flavioprogramado@gmail.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+        "k": "elsa_bcc",
+        "msg_id": "199b4f9e4d2823b4"
+      },
+      {
+        "date": "2025-11-13",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To flavioprogramado@gmail.com）",
+        "quote": "Industrial PoE Switch（Elsa 群发第 7/9 轮；本户在 Bcc，锚 To flavioprogramado@gmail.com）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:tramaweb.com.br` 命中行 To=flavioprogramado@gmail.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+        "k": "elsa_bcc",
+        "msg_id": "19a7db8474e327dd"
+      },
+      {
+        "date": "2026-04-24",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To flavioprogramado@gmail.com）",
+        "quote": "Updated Ethernet Switches Links（Elsa 群发第 8/9 轮；本户在 Bcc，锚 To flavioprogramado@gmail.com）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:tramaweb.com.br` 命中行 To=flavioprogramado@gmail.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+        "k": "elsa_bcc",
+        "msg_id": "19dbb7fadfe109d6"
+      },
+      {
+        "date": "2026-09-03",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To flavioprogramado@gmail.com）",
+        "quote": "24 Port PoE Managed Switch（Elsa 群发第 9/9 轮；本户在 Bcc，锚 To flavioprogramado@gmail.com；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:tramaweb.com.br` 命中行 To=flavioprogramado@gmail.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+        "k": "elsa_bcc",
+        "msg_id": "1a067dcd0eaeabe3"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "MC FS 自己的logo 别人在卖他们的MC",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [
+      "无来信（Elsa 去信 9 轮见 facts；S/A 箱无往来）"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

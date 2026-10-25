@@ -1,0 +1,74 @@
+{
+ "code": "SC-220",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（promwad.com，快照 2026-10-21）",
+ "summary": "Promwad（德国/立陶宛；嵌入式软件 / 硬件设计 / FPGA / 制造的端到端工程服务商，服务欧美 OEM；表内「MC network switch，看着比较高端一些，质量高」）；群发 17 次无回复。",
+ "type": "电子工程设计服务商（非渠道）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Embedded Software, Hardware & FPGA Engineering – Promwad；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 无线 / WiFi / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "Promwad is your end-to-end engineering partner for complex tech products — embedded software, hardware design, FPGA, and manufacturing. Serving OEMs and innovators in the EU and US.",
+   "url": "https://promwad.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "MC network switch 看着比较高端一些",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "嵌入式/硬件/FPGA 工程服务商",
+   "quote": "Promwad is your end-to-end engineering partner for complex tech products — embedded software, hardware design, FPGA, and manufacturing. Serving OEMs and innovators in the EU and US.",
+   "url": "https://promwad.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "MC network switch",
+   "quote": "MC network switch 看着比较高端一些",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "非渠道：电子工程设计服务商（Promwad），不采购成品交换机；c_sub=非渠道（工程服务）",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "德国",
+  "other": "官网 promwad.com，语言 en，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "嵌入式软硬件 / FPGA 设计服务",
+  "PCB / 制造服务"
+ ],
+ "channels": {
+  "role": "电子工程设计服务商（非渠道）",
+  "region": "德国",
+  "contact": "info@promwad.com"
+ },
+ "signals": [
+  "官网：end-to-end engineering partner for complex tech products — embedded software, hardware design, FPGA, and manufacturing"
+ ],
+ "risks": [
+  "非渠道：工程设计服务商，无成品交换机分销/集成业务",
+  "17 次无回复"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 25,
+  "why": "工程设计服务商（为 OEM 做设计/代工），不采购成品交换机转售 → 改 C"
+ },
+ "email_hook": "（不发送：非渠道）"
+}

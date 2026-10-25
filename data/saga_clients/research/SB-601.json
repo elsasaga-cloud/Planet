@@ -1,118 +1,138 @@
 {
  "code": "SB-601",
- "name_official": "（巴基斯坦 · Usman，hotmail/gmail）",
+ "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "无域名（免费邮箱/仅电话）",
- "summary": "巴基斯坦小型贸易/工程买家 Usman（hotmail + gmail，WA 已加）。2023-08 问 2 光 8 管理 50/100 台价格，之后对 2 光 4 小壳、24 光 combo、工业 mini 均要「best price in RMB」，2025-05 对 4/8/16 口工业 PoE 回「L2 managed」；20 次推送 6 次实质回复——互动最多但始终压价、要人民币价。→ B 20%（贸易商），人民币报价需用户决定。",
- "type": "",
+ "website_status": "在线（visus.pt，快照 2026-10-21）",
+ "summary": "葡萄牙 Optivisus / Visus（语音、数据与图像方案：visus telecom / visus video；Vivotek / Uniview / Ubiquiti；表内「CCTV 为主 有 Utepo 的」；KP Rui Jorge（Product & Technical Manager））；表内 4 次跟进无回复。",
+ "type": "电信/CCTV 分销商（葡萄牙，Utepo 在售）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Vivotek",
+  "Uniview",
+  "Ubiquiti",
+  "Utepo"
+ ],
  "evidence": [
   {
+   "kind": "官网快照",
+   "claim": "官网标题：OPTIVISUS；品类词 电信 / FTTH / ISP 设备 / 网络交换 / PoE",
+   "quote": "OPTIVISUS - Solu��es reais para voz, dados e imagem.；visus telecom；visus video；Notícias & Updates；Telecom；Vídeo",
+   "url": "https://visus.pt/",
+   "date": "2026-10-21"
+  },
+  {
    "kind": "用户表",
-   "claim": "表内需求与回复",
-   "quote": "2023.8.29 → 问了2光8管理价格 50/100个；2024.2.28 → 问了2光4小壳的价格；2024.4.16/5.15 → best price in RMB；510 4 8 16口工业PoE → L2 managed",
+   "claim": "表内兴趣/备注",
+   "quote": "CCTV为主 有Utepo的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Optivisus 首页",
+   "quote": "OPTIVISUS - Home ; OPTIVISUS - Soluções reais para voz, dados e imagem. ; visus telecom ; visus video",
+   "url": "https://visus.pt/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "CCTV 为主 有 Utepo 的",
+   "quote": "CCTV为主 有Utepo的",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
  "kp": [
   {
-   "name": "Usman",
-   "role": "（职位未核）",
-   "email": "usman2c@hotmail.com",
-   "phone": "+92 331 471 3140（WA 已加）",
-   "source": "用户 Clients 表"
+   "name": "Rui Jorge",
+   "title": "Product & Technical Manager",
+   "email": "rjorge@visus.pt",
+   "phone": "",
+   "source": "用户表"
   }
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "无域名 · 仅表内信息"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "legal_name": "待核",
-  "founded": "待核",
-  "hq": "待核",
-  "size": "待核",
-  "other": "+92 331 471 3140；无公司名"
+  "hq": "葡萄牙",
+  "other": "官网 visus.pt，语言 en-gb，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "待核（见表内需求）"
+  "电信 / 视频监控分销（葡萄牙）"
  ],
- "products_seen": [],
  "channels": {
-  "contact": "Usman usman2c@hotmail.com / usman65@gmail.com，+92 331 471 3140（WA 已加）"
+  "role": "电信/CCTV 分销商（葡萄牙，Utepo 在售）",
+  "region": "葡萄牙",
+  "contact": "encomendas@visus.pt、rjorge@visus.pt"
  },
  "signals": [
-  "6 次实质回复，反复询 50/100 台级价格",
-  "2025-05 明确要 L2 managed 工业 PoE"
+  "首页 OPTIVISUS - Soluções reais para voz, dados e imagem. ; visus telecom ; visus video；站内品牌 Vivotek / Uniview / Ubiquiti；kw 2.5g 4",
+  "表内：CCTV 为主 有 Utepo 的；KP Rui Jorge / Product & Technical Manager"
  ],
  "risks": [
-  "只要 RMB 最低价，利润薄",
-  "无公司实体信息，付款能力待核"
+  "现供 Utepo（深圳）价格基准低；4 次跟进无回复 → 改向 Product & Technical Manager 具名首触"
  ],
  "saga_fit": {
   "p1": "STC-28DGGPM",
   "tier": 20,
-  "why": "首问「2 光 8 管理 50/100 台」→ 8 PoE + 2 SFP L2+ 管理（$80.7 @20%）；工业 L2 管理需求用 STI-288GPM"
+  "why": "现售 Utepo PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；2.5G 位 SmartByte 2.5G 系列（注明）；非管理 8 PoE 位 HRUI STC-028GP"
  },
- "email_hook": "You asked for L2-managed industrial PoE in 4/8/16-port sizes and for 50–100 pcs pricing on the 8-port + 2 SFP managed switch — I can quote USD EXW at the 100-pc tier; is RMB settlement via a Chinese forwarder what you need?",
+ "email_hook": "Rui, alongside the Utepo PoE switches you supply with Vivotek and Uniview cameras, we offer neutral-brand Marvell-based 8-PoE + 2 SFP L2+ models and 2.5G PoE options from small lots, CE/RoHS, EXW USD — which port count do your installers order most?",
  "mail_review": {
   "binding": {
-   "level": "读而不回（S 邮箱 2 封 2024，其中 2 封被打开，0 回；收件 usman2c@hotmail.com, usman65@gmail.com；被打开主题「Information」；Elsa 箱：`to:usman2c@hotmail.com OR to:usman65@gmail.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 2 / 来 0）（第 74 批(n)））",
-   "type": "—",
-   "sieve": "2（有人在读，无人回）",
-   "stop": "读而不回 = 内容未命中或没有当下需求",
-   "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
-   "lane": "巴基斯坦 非主攻",
-   "cadence": "一封；回了再说",
-   "evidence": "gmail_digest：out 2，Opened 标签 2（Simon 群发追踪）；用户表：「2023.8.29 → 问了2光8管理价格 50/100个；2024.2.28 → 问了2光4小壳的价格；2024.4.16/5.15 → best price」；研究档 risks：只要 RMB 最低价，利润薄"
+   "level": "未触达（A 邮箱 14 封 2025→2026，无记录打开，0 回；收件 encomendas@visus.pt, rjorge@visus.pt；主题多为「8 Port Industrial PoE Switch、48 Port PoE Managed Switch」；Elsa 箱：`to:visus.pt` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 14 / 来 0）（第 74 批(k)））",
+   "type": "电信/CCTV 分销商（葡萄牙，Utepo 在售）",
+   "sieve": "1（只收到群发）",
+   "stop": "14 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "葡萄牙（欧洲全域主攻）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 14；用户表：「CCTV为主 有Utepo的」；研究档 risks：现供 Utepo（深圳）价格基准低；4 次跟进无回复 → 改向 Product & Technical Manager 具名首触"
   },
-  "situation": "巴基斯坦小型贸易/工程买家 Usman（hotmail + gmail，WA 已加）。2023-08 问 2 光 8 管理 50/100 台价格，之后对 2 光 4 小壳、24 光 combo、工业 mini 均要「best price in RMB」，2025-05 对 4/8/16 口工业 PoE 回「L2 managed」；20 次推送 6 次实质回复——互动最多但始终压价、要人民币价。→ B 20%（贸易商），人民币报价需用户决定。",
-  "need": "首问「2 光 8 管理 50/100 台」→ 8 PoE + 2 SFP L2+ 管理（$80.7 @20%）；工业 L2 管理需求用 STI-288GPM",
-  "breakpoint": "只要 RMB 最低价，利润薄",
+  "situation": "葡萄牙 Optivisus / Visus（语音、数据与图像方案：visus telecom / visus video；Vivotek / Uniview / Ubiquiti；表内「CCTV 为主 有 Utepo 的」；KP Rui Jorge（Product & Technical Manager））；表内 4 次跟进无回复。",
+  "need": "现售 Utepo PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；2.5G 位 SmartByte 2.5G 系列（注明）；非管理 8 PoE 位 HRUI STC-028GP",
+  "breakpoint": "现供 Utepo（深圳）价格基准低；4 次跟进无回复 → 改向 Product & Technical Manager 具名首触",
   "saga_now": {
    "p1": "STC-28DGGPM",
    "tier": 20,
-   "price": "首触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
-   "why": "首问「2 光 8 管理 50/100 台」→ 8 PoE + 2 SFP L2+ 管理（$80.7 @20%）；工业 L2 管理需求用 STI-288GPM。已打开的主题（2/2 封有打开记录）：「Information」(2024-11-11)、「Re: Information」(2024-11-11) → 读者兴趣主题类别不明（看原主题）｜已发资料（勿重发）：Marvell Based CLI Manual(2024-11-11)、Marvell Based Web Manual(2024-11-11)、STC-448DGGM(2024-11-11)、STI-4480DGGM-U(2024-11-11)；已发单据：Quotation(2024-11-11)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）",
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-07-16 $300（48 Port PoE Managed Switch）、2025-09-23 $280（10G Enterprise SFP Switch）、2026-06-18 $16000（32 Port 400GB DC Switch）",
+   "why": "现售 Utepo PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；2.5G 只在 SFP 笼子（DG）；多千兆铜口 PoE 只有 CENTEC 24 口机架机（无价），对安防安装商不推；非管理 8 PoE 位 HRUI STC-028GP",
    "repeat": [],
-   "gaps": []
+   "gaps": [
+    "Simon《STH计划》：铜口 CENTEC 机（STH1G/2.5G/5G，含 Multi-Gig PoE++）暂不宣传、点名才给；主推 10G/25G/XLite/100G/400G/800G"
+   ]
   },
   "next_move": {
-   "when": "2026-11",
-   "channel": "S 邮箱 → usman2c@hotmail.com",
-   "action": "短信一问（email_hook）",
-   "one_question": "You asked for L2-managed industrial PoE in 4/8/16-port sizes and for 50–100 pcs pricing on the 8-port + 2 SFP managed switch — I can quote USD EXW at the 100-pc tier; is RMB settlement via a Chinese forwarder what you need? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Rui, alongside the Utepo PoE switches you supply with Vivotek and Uniview cameras, we offer neutral-brand Marvell-based 8-PoE + 2 SFP L2+ models (2.5G/10G fiber uplinks; copper access is 1G PoE) from small lots, CE/RoHS, EXW USD — which port count do your installers order most?"
   },
   "facts": [
    {
-    "date": "2024-11-11",
+    "date": "2026-09-15",
     "dir": "去",
-    "who": "S 群发",
-    "quote": "Information",
-    "why": "2 封 / 2 次打开 / 0 回｜首封 2024-11-11 → 末封 2024-11-11（2 去 / 0 来）",
+    "who": "A 群发",
+    "quote": "8 Port Industrial PoE Switch、48 Port PoE Managed Switch",
+    "why": "14 封 / 0 次打开 / 0 回｜首封 2025-06-20 → 末封 2026-09-15（14 去 / 0 来）",
     "k": "gmail_digest"
    },
    {
     "date": "2026-10-21",
     "dir": "用户表",
     "who": "Simon",
-    "quote": "2023.8.29 → 问了2光8管理价格 50/100个；2024.2.28 → 问了2光4小壳的价格；2024.4.16/5.15 → best price in RMB；510 4 8 16口工业PoE → L2 managed",
+    "quote": "CCTV为主 有Utepo的",
     "why": "表内备注",
     "k": "用户表"
    }
   ],
-  "proof_gaps": [
-   "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「读而不回」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
-  ],
-  "draft_en": {
-   "subject": "One question — Information",
-   "body": "Hi Usman,\n\nWe have sent you a few mails on \"Information\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nYou asked for L2-managed industrial PoE in 4/8/16-port sizes and for 50–100 pcs pricing on the 8-port + 2 SFP managed switch — I can quote USD EXW at the 100-pc tier; is RMB settlement via a Chinese forwarder what you need?\n\nReference price: 8-PoE + 2 × 1G/2.5G SFP L2+ managed switch (Marvell AC5), 120 W (STC-28DGGPM) $80.7 USD EXW, MOQ 1 pc, 15-day validity, 1-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
-  },
+  "proof_gaps": [],
+  "draft_en": null,
   "as_of": "2026-10-24"
  }
 }

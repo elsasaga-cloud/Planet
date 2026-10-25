@@ -1,142 +1,395 @@
-# SB-890 aurcore.net · home · https://www.aurcore.net/ · fetched 2026-10-25T07:41:18Z · HTTP 200
-AurCore Technology
-About Us
-Solutions
-Products
-Support & Services
-Resources
-Partner
-More
-Where to buy Contact Us
-Loading...
-Network infrastructure company headquartered in Lake Forest, California, delivering enterprise and data center solutions engineered for the AI era.
-Subscribe to Newsletter
-Submit
-Products
-Data Center Switches
-Enterprise Switches
-Industrial Switches
-Accessories
-Company
-About Us
-Partners
-Contact Us
-Resources
-News
+# SB-890 technopc.com.tr · home · https://technopc.com.tr/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+Technopc
+Destek
+Teknik Destek Talep Formu
+Ürün Talep Formu
+Destek & Servis Noktaları
+Sürücü ve Dokümanlar
+Sürücüler FTP
+Ürün Destek Sayfası
+Haberler
 Blog
-Webinars
-Contact
-info@aurcore.net
-20472 Crescent Bay Dr #102
-Lake Forest, CA 92630
-Subscribe to Newsletter
-Submit
-Copyright © 2026 AURCORE TECHNOLOGY . All rights reserved.
-Terms of service Privacy policy
-AI Networking, Your Way.
-Open, flexible, and built around your AI infrastructure—from enterprise deployments to large-scale GPU clusters.
-Learn more
-Scale AI with 400G Ethernet
-Purpose-built switching that delivers the bandwidth and efficiency modern AI workloads demand—without vendor lock-in.
-Explore now
-Your Network. Your Choice.
-Choose open-source SONiC or our enterprise-ready AURCNOS to match your operational model and business needs.
-Read more
-Take AurCore for a 60-Day Test Drive
-A limited program for U.S.-based SI and Reseller partners — field-test our next-gen AES and AIS switch platforms in your own deployment, free for 60 days, with a direct line to our product team.
-View Details
-Our Partner Ecosystem
-About Us
-Powering the networks behind AI innovation.
-AurCore Technology is a network infrastructure company headquartered in Lake Forest, California, delivering enterprise and data center solutions engineered for the AI era.
-Partner-Driven Growth
-Success is built on strong relationships. We invest in lasting partnerships with our suppliers, customers, and channel partners, because your growth drives ours.
-AI-Ready Infrastructure
-Power your AI workloads with high-performance switching. Deliver the speed and reliability your training, inference, and storage clusters demand.
-Support at Every Stage
-Your success is our priority. We offer pre- and post-sales support at every level, backed by a ticketing system designed for fast, reliable response times.
-Solutions
-Scalable Network Architectures
-Explore our comprehensive range of networking solutions designed for the AI era
-AI Networks
-AurCore provides a zero-loss, high-radix networking foundation purpose-built for AI and Machine Learning. By eliminating fabric bottlenecks, we ensure your data moves at the speed of innovation while maximizing the ROI of every GPU.
-Data Center Networks
-AurCore provides a high-density, open networking foundation engineered for the demands of modern hyperscale and enterprise data centers. By delivering a scalable, high-bandwidth fabric, we eliminate connectivity bottlenecks and lower the total cost of ownership (TCO) for your digital infrastructure.
-Enterprise Networks
-AurCore delivers a secure, L3-intelligent foundation for modern campus environments. We provide seamless 1G, 2.5G, and 10G connectivity optimized for high-density IoT, Wi-Fi 7, and hybrid work.
-Industrial Networks
-AurCore delivers a rugged, deterministic networking foundation purpose-built for the transition to Industrial AI. We provide unbreakable 1G/10G connectivity from the factory floor to the control room, managed via our unified ACC Cloud or ACN On-Prem platforms.
-AurCore AES8001 400G Data Center Switch
-This flagship 400G switch is engineered for spine-layer deployments, delivering the throughput and resilience required for modern AI, cloud-native, and high-performance computing (HPC) environments.
-Play Video
-Products
-Featured Products
-Explore our cutting-edge network infrastructure solutions designed for the AI era
-Featured
-Data Center Switches AES8001 | 32 x 400GE, 2 x SFP+
-32 x 400GE QSFP-DD, 2 x 10GE SFP+, Front to Rear, AURC-NOS, SONiC, 3 Years Warranty
-Learn More
-Data Center Switches AES6101 | 48 x 25G SFP28, 6 x 100G QSFP28
-48 x 25GE SFP28, 6 x 100GE QSFP28, AURC-NOS, 3 Years Warranty
-Learn More
-Data Center Switches AES6002 | 48 x 10G SFP+, 6 x 100G QSFP28
-48 x 10GE SFP+, 6 x 100GE QSFP28, AURC-NOS, 3 Years Warranty
-Learn More
-Enterprise Switches AES4002P | 48 x GE, 6 x 10 GE SFP+, L3 PoE+
-48 × GE PoE+ RJ45 ports | 6 × 10GE SFP+ Uplink ports
-Learn More
-Enterprise Switches AES4001P | 24 x GE, 4 x 10 GE SFP+, L3 PoE+
-24 × GE PoE+ RJ45 ports | 4 × 10GE SFP+ Uplink ports
-Learn More
-Featured
-Enterprise Switches AES2012P | 24 x GE, 2 x GE Base-T/SFP Combo, 2 x GE SFP, LCD, PoE++
-24 × GE PoE++ RJ45 ports | 2 x GE Combo ports | 2 × GE SFP Uplink ports
-Learn More
-Enterprise Switches AES2001P | 8 x GE, 2 x GE, 2 x GE SFP, PoE+
-8 × GE PoE+ RJ45 ports | 2 × GE RJ45 ports | 2 × GE SFP uplink ports
-Learn More
-Industrial Switches AIS4001P | 8 x GE, 4 x 10 GE SFP+, L3 PoE+
-8 x GE PoE+ RJ45 ports + 4 x 10GE SFP+ uplink ports
-Learn More
-Industrial Switches AIS2002P | 8 x GE, 2 x GE SFP, PoE+
-8 x GE PoE+ RJ45 ports + 2 x GE SFP uplink ports
-Learn More
-AURC-NOS
-AurCore Networking Operating System
-Intelligent automation, lossless performance, and always-on reliability for modern data centers
-Intelligent Automation
-Zero-touch provisioning and VXLAN-EVPN overlay networks enable rapid, scalable deployment across data centers and enterprise environments.
-Lossless Performance
-RoCEv2, ECN, and priority flow control deliver the low-latency, congestion-free forwarding that AI and HPC workloads demand.
-Always-On Reliability
-MLAG, VRRP, and sub-50ms ERPS failover ensure continuous operations with seamless redundancy.
-Device Intelligence Meets Centralized Control
-AURC-NOS
-AURC-NOS is a high-performance, modular network OS purpose-built for AI and cloud. It delivers deterministic performance, ultra-low latency, and lossless Ethernet for resilient, large-scale fabrics.
-ACC Cloud & ACN On-Prem Platforms
-AurCore’s ACC and ACN platforms provide a unified network management ecosystem, offering flexible cloud-based oversight and secure on-premises operations for our entire 1G to 400G portfolio
-SONiC
-AurCore offers a production-ready SONiC solution validated by PalC Networks, providing a scalable, disaggregated alternative to proprietary systems for high performance switching infrastructures.
-Latest Updates
-AurCore in the News
-Stay informed about our latest innovations, industry events, and technical insights
-Press Release
-March 24, 2026
-AurCore Bolsters Open, Scalable AI Networking with New High-Bandwidth Switches New Models powered with Marvell and SONiC solutions from PalC Networks
-AurCore Technology introduces the AES8000 Series 400G AI-Ready Switch and the AES9000 Series 800G Ultra-Performance switch featuring Marvell switch ASICs and partnership with PalC Networks to ensure open scalable AI at OFC 2026
-Read More
-Press Release
-February 9, 2026
-AurCore partners with DVCOM Technology to accelerate digital transformation across Middle East and Africa
-AurCore, a U.S.-based network technology innovator, has officially signed a Master Distribution agreement with DVCOM Technology, a leading value-added distributor (VAD) in the Middle East and Africa (MEA).
-Read More
-Events
-February 9, 2026
-Meet the AurCore Team at OFC 2026 – West Hall 5151
-Visit AurCore at OFC 2026 in Los Angeles, March 17-19. Meet our team at Booth 5151 (West Hall) to explore our 100G/400G data center networking solutions for optical infrastructure and AI workloads.
-Read More
-View All News
-Let's Connect
-Ready to transform your network infrastructure?
-Let's discuss how AurCore can support your infrastructure goals and accelerate your AI initiatives.
-Contact Us
+Kariyer
+Kurumsal Hakkımızda
+Politikalarımız
+Yönetim Kurulu
+İş Ortakları
+Sürdürülebilirlik
+Referanslar Özel Sektör
+Kamu
+Sertifikalar
+Katalog
+DMO Katalog
+Donanım Çözümleri Kurumsal Ürünler
+Mini PC
+Masaüstü PC
+Dizüstü Bilgisayar
+Tablet
+All In One
+Monitör
+İş İstasyonu
+Server&Storage
+POS PC
+Thin Client&Zero Client
+Endüstriyel Ürünler
+Endüstriyel PC
+Endüstriyel Tablet
+Endüstriyel Notebook
+Panel PC
+NAS/NVR
+Endüstriyel Araç PC Serisi
+Endüstriyel Monitör Serisi
+Digital Signage Serisi
+Rugged El Terminali
+Network Çözümleri
+Biyometrik Ürünler
+Medikal Çözümler
+Medikal İş İstasyonu
+Medikal Tablet
+Medikal AIO
+Medikal El Terminali
+Özel Sipariş Ürünleri
+Kurumsal Ürünler
+Endüstriyel Ürünler
+Yapay Zeka (AI) Donanım Çözümleri
+AI Workstation
+AI Server
+AI Workstation Notebook
+AI Endüstriyel Ürünler
+AI Medikal Endüstriyel PC
+Profesyonel Ekran Kartları
+Sektöre Özel Çözümler Sağlık Sektörü
+Eğitim Sektörü
+Finans Sektörü
+Savunma Sanayi
+Perakende Sektörü
+Saha & Satış Sektörü
+Üretim & Otomasyon
+Akıllı Şehir
+Kargo & Lojistik
+Ar-Ge Tasarım Merkezi
+NVIDIA ile Yapay Zeka ve Veri Merkezi
+Altyapılarınızı Geleceğe Taşıyın!
+Detaylı Bilgi
+Technopc Signtech 12NS 11.97
+Teknolojinin En Zarif Hali
+Detaylı Bilgi
+Technopc Notebook TB154 15.6
+Verimliliğin Yeni Standardı
+Technopc All In One M24-L250B
+Şık Tasarım Üstün Performans
+Technopc All in One Luna H610 23.8
+Estetik ve Verimlililk
+Technopc Panel PC PP15C3
+Teknolojide Sınırları Zorlayın
+Detaylı Bilgi
+NVIDIA ile Yapay Zeka ve Veri Merkezi
+Technopc Signtech 12NS 11.97
+Technopc Notebook TB154 15.6
+Technopc All In One M24-L250B
+Technopc All in One Luna H610 23.8
+Technopc Panel PC PP15C3
+Technopc
+Hakkımızda
+Geleceği Şekillendiren Misyonumuz
+Yenilikçi teknolojilerle donatılmış güvenilir çözümler sunarak iş ortaklarımız ve müşterilerimizin başarılarını artırmaktır.
+Global Teknolojilere Uzanan Vizyonumuz
+Teknoloji öncüsü olarak, müşterilerimize katma değerli projeler sunup, yenilikçi çözümlerle global başarıyı hedefliyoruz.
+Projeler
+İstanbul Havaalanı - İGA
+2018’den bu yana İstanbul Havalimanı’nda uyguladığımız e-Gate çözümleri ile yolcuların pasaport geçişlerini hızlı, güvenli ve kesintisiz hâle getiriyor; operasyonel verimliliği maksimum seviyeye taşıyoruz.
+Projeyi İncele
+Projeler
+Selçuk Ecza Deposu
+İlaç dağıtımının lideri Selçuk Ecza, Technopc çözümleri ile tüm depo, paketleme, dağıtım ve saha işlemlerini hızlı, kesintisiz ve farklı IT altyapılarıyla uyumlu şekilde yürütüyor. Türkiye genelindeki 120 dağıtım noktasından 10.000’lerce noktaya yapılan operasyonlarda Technopc ürünleri güvenilir teknoloji ortağı olarak kullanılmaya devam ediyor.
+Projeyi İncele
+Projeler
+Garanti BBVA Araç İçi Güvenlik Çözümü
+Technopc tarafından geliştirilen araç içi donanım çözümü, Garanti BBVA’nın zırhlı araçlarında para transferlerinin güvenli ve anlık olarak izlenmesini sağlıyor. Zorlu saha koşullarına dayanıklı sistem, alarm durumlarına hızlı tepki vererek operasyonların kesintisiz ve kontrollü gerçekleşmesine katkı sunuyor.
+Projeyi İncele
+Projeler
+Abdi İbrahim MES Dijital Dönüşüm Projesi
+Abdi İbrahim’in üretim alanında dijital dönüşümünü destekleyen Technopc, MES projesi kapsamında 500’den fazla dayanıklı cihazı sahaya entegre etti. Proje, özel koşullara uygun donanımlar ve başarılı POC süreçleriyle yüksek uyumluluk ve verimlilik sağladı.
+Projeyi İncele
+Projeler
+Atasun Optik Mağazalarında Dijital Dönüşüm
+Atasun Optik, Türkiye genelindeki 500’den fazla mağazasında uçtan uca sanallaştırma çözümü kapsamında Technopc ile mağaza içi donanım altyapısını modern, güvenilir ve yüksek performanslı hâle getirdi. Monitör, client, klavye ve mouse çözümleri, hızlı ve eksiksiz kurulumla her mağazaya özel olarak sunuldu.
+Projeyi İncele
+Projeler
+Türk Traktör
+Türk Traktörleri için projelendirilen Technopc Rugged GPS Tablet ile tarımsal işlemler (ekme, sürme, biçme, ilaçlama) otomatik ve hassas şekilde yürütülüyor. Dayanıklı tablet ve özel tasarım askı aparatı, sahada güvenilir kullanım sağlarken, tüm sistem dünya standartlarında sertifikalandırılmıştır.
+Projeyi İncele
+Projeler
+CarrefourSA
+CarrefourSA mağazalarında hayata geçirilen VDI Thin Client / masaüstü sanallaştırma projesi ile Technopc cihazları, uzaktan yönetim, sürekli çalışma ve merkezi güncelleme desteği sunarak IT birimlerinin hızlı ve etkin müdahalesini mümkün kılıyor.
+Projeyi İncele
+Sektöre Özel Çözümler
+Eğitim, sağlık, savunma, perakende ve birçok sektöre özel bilişim çözümleri sunuyoruz. Uzman ekibimizle, her sektörün kendine özgü ihtiyaçlarını analiz ederek dijital dönüşüm süreçlerine rehberlik ediyoruz. Geliştirdiğimiz yenilikçi yazılım ve sistem çözümleriyle, kurumların verimliliğini artırıyor, süreçlerini optimize ediyor ve rekabet avantajı elde etmelerini sağlıyoruz.
+Sağlık Sektörü
+Eğitim Sektörü
+Finans Sektörü
+Savunma Sanayi
+Perakende Sektörü
+Saha & Satış Sektörü
+Üretim & Otomasyon
+Akıllı Şehir
+Kargo & Lojistik
+Referanslarımız
+Technopc
+Gündem
+Eğitim, sağlık, savunma, perakende ve birçok sektöre özel bilişim çözümleri sunuyoruz. Uzman ekibimizle, her sektörün kendine özgü ihtiyaçlarını analiz ederek dijital dönüşüm süreçlerine rehberlik ediyoruz. Geliştirdiğimiz yenilikçi yazılım ve sistem çözümleriyle, kurumların verimliliğini artırıyor, süreçlerini optimize ediyor ve rekabet avantajı elde etmelerini sağlıyoruz.
+29 Haziran 2026
+Technopc, TETZ Fuarı'nda Yapay Zekâ Destekli Eğitim Teknolojileriyle Yoğun İlgi Gördü
+Devamını Oku
+Saha Expo Ziyaretçilerimiz
+10 Mayıs 2026
+Devamını Oku
+Technopc, İleri Teknoloji Çözümleriyle SAHA Expo’da Yerini Aldı
+10 Mayıs 2026
+Devamını Oku
+Millî Savunma Bakanı Sayın Yaşar Güler Standımızı Ziyaret Etti
+20 Nisan 2026
+Devamını Oku
+Technopc E-bülten
+E-posta Adresiniz
+Bu formu göndererek, paylaştığım kişisel verilerin KVKK Aydınlatma Metni ,
+Çerez politikası ve Gizlilik politikası kapsamında işlenmesine
+ve saklanmasına izin verdiğimi kabul ediyorum.
+Teknik Destek
+Telefon:
++90 (850) 533 39 99
+E-posta:
+[email protected]
+Diğer Talepleriniz İçin
+Telefon:
++90 216 329 39 99
+Fax:
++90 (216) 481 40 00
+E-posta:
+[email protected]
+Technopc
+Anasayfa
+Yönetim Kurulu
+Haberler & Medya
+Bize Ulaşın
+Kariyer
+Kurumsal Ürünler
+Mini PC
+Masaüstü PC
+Dizüstü Bilgisayar
+Tablet
+All In One
+Monitör
+İş İstasyonu
+Server&Storage
+POS PC
+Network Çözümleri
+Biyometrik Ürünler
+Endüstriyel Ürünler
+Endüstriyel PC
+Endüstriyel Tablet
+Endüstriyel Notebook
+Panel PC
+NAS/NVR
+Endüstriyel Araç PC Serisi
+Endüstriyel Monitör Serisi
+Digital Signage Serisi
+Rugged El Terminali
+Medikal Çözümler
+Medikal İş İstasyonu
+Medikal Tablet
+Medikal AIO
+Medikal El Terminali
+Özel Sipariş Ürünleri
+Kurumsal Ürünler
+Endüstriyel Ürünler
+Yapay Zeka (AI) Donanım Çözümleri
+AI Workstation
+AI Server
+AI GPU Server
+AI Workstation Notebook
+AI Endüstriyel Ürünler
+AI Medikal Endüstriyel PC
+Copyright 2025 All rights reserved. | KVKK Metni | Gizlilik Politikası | Çerez Politikası
+FNP
+Kurumsal Ürünler
+Endüstriyel Ürünler
+Medikal Çözümler
+Özel Sipariş Ürünleri
+Yapay Zeka (AI) Donanım Çözümleri
+İletişim Bilgileri
+Mini PC
+Mini PC H Serisi
+Mini PC M Serisi
+Mini PC Nano Serisi
+Mini PC TS Serisi
+Masaüstü PC
+Pro PC Serisi
+SFF PC Serisi
+USFF PC Serisi
+Dizüstü Bilgisayar
+Technopc Notebook Magna Air 14N550
+Technopc Notebook TB154
+Technopc Nortex 15
+Technopc Valens 14
+Technopc Notebook TA15BR5
+Technopc Notebook TH15TU7
+Technopc Notebook TI15S3
+Technopc Notebook TW15TU
+Technopc Technobook TB15
+Tablet
+Technopc Ultrapad Tablet - UP07.S21GA
+Technopc Ultrapad Tablet - UP10.S43LA
+Technopc Ultrapad Tablet - UP10.SI21WA
+Technopc Ultrapad Piqsell 11LT01
+Technopc Ultrapad Tablet - UP10.SS23WA
+Technopc T80P Tablet
+Technopc Signtech 12NS İmza Tableti
+Technopc Ultrapad Tablet - UP10.S36LA
+Quantum Elise T80P Tablet
+Quantum Elise T90A Tablet
+All In One
+Technopc Pro Velox D300- Intel i3
+Technopc Pro Velox D300- Intel i5
+Technopc Pro Velox D300- Intel i7
+Technopc AIO Luna D100- Intel i3
+Technopc AIO Luna D100- Intel i5
+Technopc AIO Luna D100- Intel i7
+AIO Green Terra Serisi
+AIO Pro Luna Serisi
+Technopc AIO Luna M24-L250B
+Technopc AIO Luna M27-L400B
+Monitör
+Monitör TPL22V Serisi
+Monitör TPL24V Serisi
+Monitör TPL27 Serisi
+Monitör Quantum Serisi
+İş İstasyonu
+Quantum Workstation QW1250
+Technopc Pro Workstation WS4125
+Technopc İş İstasyonu Intel Serisi
+Technopc İş İstasyonu AMD Serisi
+Dizayn - Mühendislik - Üretim
+Oyun - 3D - Sanal Gerçeklik
+Mobil Workstation Notebook
+Modelleme - Animasyon - Görsel Tasarım
+Video Düzenleme
+Server&Storage
+Technopc Pro Server R284-S
+Technopc Server SRV.72762400F
+Technopc Server SRV.72252408F
+Technopc Server SRV.72252402F
+Technopc SRV626448
+Technopc SRV512503
+TP Quantum PRO SRV 6448QS
+POS PC
+Technopc POS - El Terminali TM-T05UR
+Technopc 5
+Technopc Pro Pos - 15MT20
+Technopc Pro Pos - 15PL10
+Technopc 17
+Technopc POS PC - PO15F20R04A1
+Technopc POS PC - TPP250T
+Technopc POS PC - TPJ663T
+Technopc POS PC - TPP750T
+Technopc POS PC - PO15CR11U
+Technopc Fiyat Gör POS PC 10
+Technopc Fiyat Gör POS PC 10.95
+Technopc POS PC PRICE CHECKER Windows Fiyat Kontrol Terminali
+Technopc POS PC PRICE CHECKER Android Fiyat Kontrol Terminali
+Thin Client&Zero Client
+Technopc Thin Client TP-PRO-N100
+İstanbul Genel Müdürlüğü
++90 216 329 39 99
+[email protected]
+Ferhatpaşa Mah. 53. Sk. Technopc Plaza No:41, 34764 Ataşehir/İstanbul
+Ankara Bölge Müdürlüğü
++90 549 737 11 70
+[email protected]
+Mustafa Kemal Mah. 2140. Sk. Gökçen Life Plaza A Blok Daire:2, No:17, 06510 Çankaya/Ankara
+Özbekistan
++99 877 707 22 20
+[email protected]
+29/2 Niyazbek Road ,Yunusabod, Tashkent, Uzbekistan
+Endüstriyel PC
+Technopc Endüstriyel PC TPC5510
+Technopc Endüstriyel PC TPC638
+Technopc Endüstriyel PC TPC2701
+Technopc Endüstriyel PC TPC3020
+Technopc Endüstriyel PC TPC5310
+Technopc Endüstriyel PC TPC088
+Technopc Endüstriyel PC TPC105F
+Technopc Endüstriyel PC IND X5C
+Technopc Endüstriyel PC IND RQ87
+Technopc Endüstriyel PC TPC302B
+Technopc Endüstriyel PC TPC191
+Endüstriyel Tablet
+Technopc Endüstriyel Tablet TM-T Serisi
+Technopc Endüstriyel Tablet Expad Serisi
+Technopc Rugtab RT1205
+Technopc RugTab TM-T08QM
+Technopc RugTab TM-T10QM
+Technopc RugTab TM-T10TX
+Technopc RugTab TM-T08EJ
+Technopc RugTab TM-T08TX
+Technopc RugTab TM-T10EA
+Technopc Endüstriyel Tablet Genius TM-T08 Eco 332A
+Technopc Endüstriyel Tablet Platinium TM-T10
+Technopc Endüstriyel Tablet TM-T07WM
+Technopc Endüstriyel Tablet TM-T10WM-EX
+Technopc Expad 10TB10ICAZ8
+Technopc Expad 10TB10ICCN5
+Technopc Expad 08TB10ICAZ8
+Technopc TM-T08ZO
+Technopc Ultrapad Endüstriyel Tablet TM-T12EA
+Technopc Ultrapad Tablet TM-T08EJ
+Technopc Ultrapad Tablet TM-T08ER
+Technopc Ultrapad Tablet TM-T10EA
+Technopc Ultrapad Tablet TM-T10ER
+Technopc Ultrapad TM-T07
+Technopc Ultrapad TM-T07AT
+Technopc Ultrapad TM-T08QEM
+Technopc Ultrapad TM-T08SE9
+Technopc Ultrapad TM-T08ZS
+Technopc Ultrapad TM-T10E
+Technopc Ultrapad TM-T10EM
+Technopc Ultrapad TM-T10QEM
+Technopc Ultrapad TM-T10SE
+Technopc Ultrapad TM-T10SEV2
+Endüstriyel Notebook
+Technopc Endüstriyel Notebook TPN14-EMX
+Technopc Endüstriyel Notebook TPN15-EMX
+Technopc Endüstriyel Notebook TPN14AW
+Technopc Endüstriyel Notebook TPN14TW
+Panel PC
+Technopc Panel PC TP Serisi
+Technopc Panel PC Unipane Serisi
+NAS/NVR
+Technopc NVR-48 HS
+Technopc NAS - 8HS
+Technopc NVR-24 HS
+Technopc NAS - 4HS
+Technopc NVR - 4HS
+Endüstriyel Araç PC Serisi
+Technopc Araç Yönetim Sistemi AKS 170
+Technopc Endüstriyel Box PC IND-9060
+Technopc Endüstriyel Box PC IND-7050
+Technopc Endüstriyel Box PC IND-760
+Technopc Endüstriyel Araç PC IND 20T
+Technopc Endüstriyel Araç PC IND 10T
+Technopc Tümleşik Araç Yönetim Sistemi AKS-200
+Endüstriyel Monitör Serisi
+Technopc Endüstriyel Monitör TPM Serisi
+Technopc Endüstriyel Monitör TPL Serisi
+Digital Signage Serisi
+Technopc OPS G5860S
+Technopc OPS PC TPOG12
+Technopc TE-625
+Technopc TE-525
+Technopc TE-325
+Rugged El Terminali
+Technopc Rugged El Terminali TM-T04 Serisi
+Technopc Rugged El Terminali TM-T05 Serisi
+Technopc Endüstriyel Telefon RawPhone RP05NLA
+Technopc TM-T04 Genius Endüstriyel El Terminali
+Technopc TM-T04U

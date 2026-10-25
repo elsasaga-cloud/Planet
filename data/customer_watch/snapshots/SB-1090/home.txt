@@ -1,124 +1,339 @@
-# SB-1090 top-fa.com · home · https://top-fa.com/ · fetched 2026-10-25T07:41:18Z · HTTP 200
-자동화의 모든것 TOP-FA!
-팝업레이어 알림
-팝업레이어 알림이 없습니다.
-CART
-HOME
-CONTACT US
-ADMIN
-Products Category
-DAQ, DIO, AIO 카드
-I/O 모듈
-모션 컨트롤러
-비젼 시스템
-산업용컴퓨터 & 메인보드
-임베디드시스템 & 소형컴퓨터
-컨버터 & 게이트웨이
-IoT 관련 제품군
-PAC
-Compact PCI & PXI
-Computer On Module
-Cable & Accessory
-COMPANY
-ADLINK
-데이터수집(DAQ) 보드
-산업용 컴퓨터
-모션 컨트롤러
-비전 시스템
-임베디드 PC
-Compact PCI & PXI
-PC/104 & Small Form Factor
-Computer-On-Modules
-기타(GPIB 등)
-Terminal Board
-ICP DAS
-PAC (PC기반의 PLC 제품)
-Remote I/O 모듈
-DAQ 보드
-산업용 통신 제품
-산업용 무선 통신 제품
-이더넷/광 스위치
-Intelligence Power Meter & Signal Conditioning
-VECOW
-고성능 임베디드 시스템
-슬롯 확장형 임베디드 시스템
-초소형 임베디드 시스템
-PoE+ 임베디드 시스템
-프레임그래버
-Summit Card
-USB 확장 카드 & 인/디코더(CODEC)
-DFI
-산업용 마더보드
-Computer-On-Modules
-임베디드 시스템
-SUPPORT
-다운로드
-교육자료
-A/S신청
-공지사항
-news
-Shop by Industry
-견적요청
-Q&A
-NOTICE
-MAIN PRODUCTS
-PCIe-GIE72/74
-2/4-CH PCI Express® GigE Vision PoE+ Frame Grabber…
-GH-402ATXR/SR
-4U 19인치 SBC/마더보드 렉마운트
-I-7018Z/M-7018Z
-10-channel Thermocouple Input Module
-PCI-7432/7433/7434
-64-CH Isolated Digital I/O PCI Cards
-I-7520/I-7520A/I-7520R/I-7520AR
-RS-232 to Isolated RS-422/485 Converter
-DAQ-2204
-64채널, 12/16-Bit, Up to 3 MS/s Multi-Function DAQ
-I-7055
-8채널 디지털 Input & output 모듈
-CMS631-H420E
-10th Gen Intel® Core Processors
-APPLICATION
-Factory Automation
-Building Automation
-Machine Vision
-Railway System
-Internet of Things
-Energy Management
-Transportation
-Medical System
-NEWS
-[03/25] ADCSYSTEM 자체 제작 임베디드 시스템
-[03/22] 2016 오토메이션월드 인터뷰 영상
-[02/23] 홈페이지 오픈예정 안내(3월 2일)
-[02/11] 2016 Aimex 전시회참가 안내(3월 9일~3월 11일)
-제품정보
-DAQ, DIO, AIO 카드
-I/O 모듈
-모션 컨트롤러
-비젼 시스템
-산업용컴퓨터 & 메인보드
-임베디드시스템 & 소형컴퓨터
-컨버터 & 게이트웨이
-IoT 관련 제품군
-PAC
-Compact PCI & PXI
-Computer On Module
-Cable & Accessory
-빠른견적요청
-견적요청
-이름/상호
-연락처
-제품명
-E-mail
-상담내용
-이용약관
-개인정보처리방침
-개인정보취급방침
-이메일무단수집거부
-묻고답하기
-이메일문의
-패밀리 사이트
-팩토스 대표이사 : 정기조 사업자등록번호 :708-35-00450 경기도 안양시 동안구 엘에스로 116번길 25-32, 10층 1003호(호계동, 안양 SK V1 센터)
-Tel : 031-990-7755 Fax : 031-990-7759 E-mail : master@factos.co.kr
-Copyright © ADC System, Specification and product names are trademarks or trade names of their respective companies or organizations.
+# SB-1090 tramaweb.com.br · home · https://www.tramaweb.com.br/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+Grupo Trama Reputale | Agência de Comunicação Corporativa em SP Grupo Trama Reputale | Agência de Comunicação Corporativa em SP
+Ir para o menu do site
+Ir para o conteúdo do site
+Menu
+Quem somos
+O Grupo Trama Reputale
+Sobre o Grupo
+Código de Ética e Conduta
+Canal de Denúncias
+Guia de Compras de Serviços de Comunicação Corporativa
+A Agência
+Sobre a Agência
+Nosso Propósito
+Lideranças
+Grupo Trama Reputale integra a WEConnect International
+O que fazemos
+Inteligência
+Reputação Algorítmica
+Planejamento de Relações Públicas
+Diagnóstico e Planejamento de Comunicação Interna
+Planejamento de Marketing Digital
+Planejamento de Endobranding
+Design da Narrativa®
+Diagnóstico e Monitoramento de Imagem
+Treinamento de Aculturamento
+Comunicação Integrada
+Relações Públicas
+Assessoria de Imprensa
+Liderança de Pensamento
+Relacionamento com Influenciadores
+Prevenção e Gestão de Crises
+Media Training
+Treinamentos em Comunicação Corporativa
+Relacionamento com Stakeholders
+Eventos Corporativos
+Relatórios de Sustentabilidade
+Comunicação Interna
+Radar Pulse
+Rede de Multiplicadores
+Campanhas de Comunicação Interna
+Endomarketing
+Employer Branding
+Conteúdo e Design
+Conteúdo
+Publicações
+Identidade Visual
+Branded Content
+Audiovisual
+Digital
+Inbound PR
+Inbound Marketing
+Gestão de Redes Sociais
+Mentoria para Executivos nas Redes Sociais
+Cases
+Clientes
+Depoimentos
+Sala de Imprensa
+Insights
+Área do Conhecimento
+Blog
+Cultura e Carreira
+Jeito de Ser
+Nossa Cultura e Valores
+Venha ser um Repper
+Estágio 360º
+Contato
+Acesse nosso Facebook
+Acesse nosso Instagram
+Acesse nosso Linkedin
+Acesse nosso Whatsapp
+Grupo Trama Reputale: Relações Públicas, Comunicação Interna e Digital.
+Um Ecossistema de Comunicação Integrada para fortalecer a reputação da sua marca e gerar impacto real nos negócios.
+Conheça o Grupo Trama Reputale
+Grupo Trama Reputale integra a WEConnect International
+Desde 2025, somos integrantes da WEConnect International, organização global que fortalece empresas lideradas por mulheres ao conectá-las a grandes compradores corporativos, governos e instituições multilaterais.
+Veja mais aqui
+Sua marca aparece nos resultados de buscas feitas nas IAs?
+Entenda o que é Reputação Algorítmica, como a IA influencia a confiança nas marcas e por que comunicação, RP e conteúdo passaram a definir credibilidade.
+Clique e saiba mais!
+Estamos entre as melhores agências de Comunicação Corporativa
+O Grupo Trama Reputale está entre as 20 principais agências do Ranking Mega Brasil Comunicação, do Anuário da Comunicação Corporativa 2026!
+Conheça nossos serviços
+Agência de Marketing Digital
+Campanhas Digitais, Gestão e Monitoramento de Redes Sociais com foco na Visibilidade em Ambientes de IA. Metodologia e Mentoria Exclusivas para Executivos atuarem no LinkedIn. Pense o Digital 360!
+Saiba mais
+Construa uma Marca Empregadora que Engaja e Retém Talentos
+Estratégias para RH e Comunicação criarem, juntos, uma Marca Empregadora que alinha sua empresa com os valores que os colaboradores realmente desejam.
+Baixar o E-book
+Diversidade em 8 dimensões: ﻿Um olhar necessário sobre inclusão nas organizações
+A diversidade é mais do que um tema: é uma lente para enxergar o mundo e transformar o ambientede trabalho.Neste e-book exclusivo, produzido pela ECA-USP,em parceria com o Grupo Trama Reputale,você vai descobrir como a comunicação podeser agente de inclusão real, indo além dos discursose construindo culturas verdadeiramente plurais.
+Baixe o e-book grátis aqui.
+Grupo Trama Reputale
+Comunicação corporativa desde 1995, com Trama Comunicação e Reputale Digital integrando RP, CI e Marketing Digital.
+Conheça nosso Propósito
+Nossos trabalhos
+Infância no centro da notícia
+Vote pela Educação
+Diversidade em 8 dimensões
+Guardiões da Floresta Wickbold
+Cadê a água do Ratinho?
+Cada Passo Conta
+E Alguns de nossos clientes
+Veja todos os trabalhos
+' Blog da Trama
+Assessoria de Imprensa
+Assessoria de imprensa: Grupo Trama Reputale leva Instituto Mauá ao Jornal Nacional
+Trabalho de Relações Públicas conquistou espaço no telejornal para divulgar a contribuição de pesquisadores brasileiros à missão espacial Plato, da Agência Espacial Europeia.
+21 outubro 2026
+Eventos
+Grupo Trama Reputale participa do WEConnect Brasil Summit 2026 em São Paulo
+Representado por Leila Gasparindo, Helen Garcia e Karina Belo, grupo acompanhou encontro dedicado ao empreendedorismo feminino, à diversidade de fornecedores e às oportunidades de negócios.
+20 outubro 2026
+Comunicação Corporativa
+Como contratar uma agência de comunicação? 10 boas práticas para uma concorrência justa
+Guia atualizado da Abracom e da ABA orienta profissionais de Comunicação e Compras sobre briefings, exercícios criativos, critérios de avaliação e seleção de agências.
+19 outubro 2026
+Veja o blog completo
+Treinamentos em Comunicação Corporativa
+A competência comunicativa é cada vez mais exigida de todos os empregados e, principalmente, das lideranças. Oferecemos um amplo portfólio de treinamentos para melhorar o desempenho comunicacional do seu time. Atuamos com um casting de profissionais (mestres e doutores da USP, Top Voices do LinkedIn) altamente especializado em diversos temas.
+Conheça nosso cardápio de treinamentos
+Fale com a gente
+Peça uma proposta
+Venha trabalhar com a gente
+Informação para a mídia
+Nossos projetos inspiram pessoas e negócios a se moverem rumo ao futuro. Quer ser um cliente do Grupo Trama Reputale? Entre em contato com a gente!
+X/Twitter
+Este campo é para fins de validação e não deve ser alterado.
+Nome *
+E-mail *
+Nome da empresa *
+Telefone *
+Mensagem *
+Enviar
+Somos uma equipe de especialistas em construir engajamento e confiança, e estamos sempre procurando novas habilidades, desafios e oportunidades.
+Cultura e Carreira Deseja trabalhar conosco? Envie seu currículo!
+Se você é jornalista ou influenciador digital e precisa conversar com algum dos nossos clientes, temos o canal para isso.
+Conheça nossa sala de imprensa Ou então selecione diretamente a empresa desejada:
+Selecione
+Abai
+ABBrasil
+Absolut Technologies
+Acciona
+AEF – Associação de Educação Financeira do Brasil
+Air Liquide
+Alares
+Allonda
+Amanco Wavin
+AMIB
+Amigos do Bem
+Antena 1
+Apabex
+APABEX
+Arcor
+Ardagh Group
+Arklok
+Atlas Schindler
+Atlas Transportes & Logística
+AVG
+Aymoré
+B.Braun
+BASF
+Bayer
+BenCorp
+Bilheteria Digital
+Biogen
+Bluey
+BMW
+Boehringer Ingelheim
+Bombril
+Borzo
+bp bioenergy
+brasilagro
+Brasilseg
+Brasscom
+BRF
+BTB Telecom
+build 4 you
+C&M Software
+Casa Hope
+Casio
+Castrol
+Chevrolet Serviços Financeiros
+CHS Incorporated
+Cietec
+Cisp
+ClarkeModet
+Claro
+ClubSaúde
+CMPC
+Convenção Brazil Mobile
+Cubos Academy
+Cubos Tecnologia
+Datablink
+Dazz
+DEKRA
+Desenvolve SP
+Drift Brasil
+Drogaria São Paulo
+Duas Rodas
+Ecogen
+EDC Group
+Engrenar
+Entertainment One
+EVER Trade Marketing
+Extra Consult
+Extra Hipermercados
+Fitness Brasil
+Focus Têxtil
+FONIF
+Fórmula Animal
+Fujitsu General do Brasil
+Fundação Grupo Volkswagen
+Gimba
+GPAtiva
+Gree
+Grendene
+Grupo DGS
+Grupo Rodonaves
+Grupo SEB – Escolas Premium
+Guzzini
+HCOR
+Hospital das Clínicas
+Hoya
+Hughes
+I4PRO
+ICLT – Instituto Camila e Luiz Taliberti
+IHRSA
+Infiniti Bank
+Influency.me
+Instituto de Engenharia
+Instituto Mauá de Tecnologia
+Instituto MPD
+Intelbras
+Interior Lifestyle South America
+Inventti
+Jamef
+Kearney
+KIIR
+Kodak
+Kuehne-Nagel
+Kurier
+Lactalis
+Linear Softwares Matemáticos
+Liquigas
+Mangos
+Martin Brower
+Maxprint
+MeuCashCard
+Mexichem
+MGA Entertainment
+Midea Carrier
+Mimo Live Sales
+Mococa
+MoveEdu
+MultiMais
+Multivarejo
+Mundial Logistics Group
+NielsenIQ
+NovaDax
+ONG Banco de Alimentos
+Ontex
+Oracle
+Pamplona Alimentos
+Pão de Açúcar
+Patricia Totaro
+Penalty
+Porsche
+Porto Digital
+Poupa Água
+Precor
+Propay
+Pundi X
+Raia Drogasil
+Reckitt
+Rentank
+Sanofi
+SBED – Sociedade Brasileira de Estudo da Dor
+Seagems
+Seguros Unimed
+Senac
+SESI
+Seven Boys
+SH
+Sienge
+SINGER
+Smart Fit
+Sodexo
+SoftwareONE
+Solenis
+Soluções Consultoria
+Supera Holdings
+Supertroco
+Tallento Engenharia
+Tate & Lyle
+Thoughtworks
+TP-LINK
+Trama Comunicação
+UNICEF
+Unimed Fesp
+Unipar
+UnitedHealth Group
+Univar Solutions
+Universidade Cruzeiro do Sul
+Varcare
+Veracel
+Verdi Natural
+Vesuvius
+Vialaser
+Vigo Video
+Vitalin
+Vivara
+Vocação
+Volkswagen Financial Services
+Votorantim Cimentos
+Votorantim Metais
+VTEX DAY
+Wella
+Weplace
+Wickbold
+Windie
+Zambon
+Quem somos
+O que fazemos
+Cases
+Clientes
+Insights
+Cultura e Carreira
+Rua Cubatão, 86, cj. 1005 - Vila Mariana
+São Paulo - SP - Brasil - CEP 04013-000
+Código de ética
+Canal de denúncias
+(11) 3388.3040
+Acesse nosso Facebook
+Acesse nosso Instagram
+Acesse nosso Linkedin
+Acesse nosso Whatsapp
+Acesse nosso Twitter
+Acesse nosso Canal do Youtube

@@ -2,32 +2,52 @@
  "code": "SB-345",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "在线（accessofranco.com，快照 2026-10-21）",
- "summary": "泰国 Accessofranco（「Trusted Energy Intelligence」：能源智能方案与技术生态；站内 Advantech ADAM 模块、Siemens、MaiWe IR302/IR315 工业路由器与 MIEN2205/2208 L2 交换机；表内 KP「MaiWe」为品牌备注）；表内 1 次跟进无回复。",
- "type": "能源智能方案商（泰国，MaiWe 工业 FS 在用）",
+ "website_status": "在线（andcorp.com.au，快照 2026-10-21）",
+ "summary": "澳大利亚 Andcorp / Yamasaki OT（andcorp.com.au / yamasakiot.com：Utepo 工业 FS、SFP、自有 logo MC、OEO、国内工业 FS（博客「how to use a media converter」）；表内「可以多跟进一下」；KP Philip Anderson（CEO）、Gautam Bohra（Owner））；群发 45 次无回复。",
+ "type": "网络/光纤配件品牌商（澳大利亚，Utepo + 自有标 MC）",
  "size": "",
  "brands_seen": [
-  "Advantech",
-  "Siemens",
-  "MaiWe"
+  "Utepo"
  ],
  "evidence": [
   {
    "kind": "官网快照",
-   "claim": "官网标题：Accessofranco；品类词 工业自动化 / OT 网络 / 网络交换 / PoE",
-   "quote": "Trusted Energy Intelligence；Technology Ecosystem；Our Services；Intelligence Solutions",
-   "url": "https://accessofranco.com/",
+   "claim": "官网标题：andcorp.com.au",
+   "quote": "",
+   "url": "https://andcorp.com.au/",
    "date": "2026-10-21"
   },
   {
-   "kind": "官网快照",
-   "claim": "Accessofranco 首页",
-   "quote": "Home - Accessofranco ; Trusted Energy Intelligence ; Technology Ecosystem ; Our Services ; Intelligence Solutions",
-   "url": "https://accessofranco.com/",
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "Utepo的工业FS；SFP MC 自己的logo 周边产品 有光路的OEO 国内的工业FS；https://www.andcorp.com.au/how-to-use-a-media-converter-in-your-network/",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "Utepo 工业 FS；自有 logo MC；OEO",
+   "quote": "Utepo的工业FS / SFP MC 自己的logo 周边产品 有光路的OEO 国内的工业FS；可以多跟进一下",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Philip Anderson",
+   "title": "Chief Executive Officer",
+   "email": "sales@andcorp.com.au",
+   "phone": "",
+   "source": "用户表"
+  },
+  {
+   "name": "Gautam Bohra",
+   "title": "Owner",
+   "email": "sales@yamasakiot.com",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
@@ -36,113 +56,82 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "泰国",
-  "other": "官网 accessofranco.com，语言 en-US，快照状态 ok；角色判定来源：表内早期 AI 描述"
+  "hq": "澳大利亚",
+  "other": "官网 andcorp.com.au，语言 ?，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "能源智能 / 工业物联网方案"
+  "网络 / 光纤配件（自有品牌 Yamasaki；Utepo 工业 FS）"
  ],
  "channels": {
-  "role": "能源智能方案商（泰国，MaiWe 工业 FS 在用）",
-  "region": "泰国",
-  "contact": "sales@accessofranco.com"
+  "role": "网络/光纤配件品牌商（澳大利亚，Utepo + 自有标 MC）",
+  "region": "澳大利亚",
+  "contact": "sales@andcorp.com.au、sales@yamasakiot.com"
  },
  "signals": [
-  "页面 /product/mien2205-layer-2-5-port-switch/、/product/mien2208-layer-2-8-port-switch/、/product/ir302-industrial-router/；站内 ADAM-4017 / ADAM-6050-D",
-  "首页：Trusted Energy Intelligence ; Technology Ecosystem ; Intelligence Solutions"
+  "表内：Utepo 的工业 FS / SFP MC 自己的 logo 周边产品 有光路的 OEO 国内的工业 FS；https://www.andcorp.com.au/how-to-use-a-media-converter-in-your-network/；KP Philip Anderson / Chief Executive Officer；Gautam Bohra / Owner",
+  "快照：andcorp.com.au 内容为空"
  ],
  "risks": [
-  "非主攻区（T5，泰国）；MaiWe（迈威，北京）既定线",
-  "1 次跟进无回复，仅 sales@"
+  "45 次群发无回复（极低响应，可能已屏蔽）→ 换渠道/换联系人",
+  "非主攻区（T5，澳大利亚）；现供 Utepo（深圳）价格基准低；快照为空"
  ],
  "saga_fit": {
-  "p1": "STI-050GE",
-  "tier": 25,
-  "why": "在用 MaiWe MIEN2205/2208（5/8 口 L2）→ 工业 5 GE STI-050GE（$17.8 @25%）/ 8 GE STI-080GE（$32.7）；管理位 STI-288GPM；工业路由 Saga 不做"
+  "p1": "STI-288GPM",
+  "tier": 30,
+  "why": "现 Utepo 工业 FS + 自有 logo MC → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ MC STI-110GE（$24.3）贴 Yamasaki 标；OEO/SFP Saga 不供（Q-32）"
  },
- "email_hook": "Alongside the MaiWe MIEN2205 / MIEN2208 switches in your energy-monitoring cabinets, we supply DIN-rail 5/8-GE unmanaged and 8-PoE + 2 SFP managed units (−40~75 °C, 12–58 VDC, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your sites use most?",
- "products_seen": [
-  {
-   "brand": "MaiWe",
-   "model": "MIEN2205",
-   "spec": "工业 5 口 L2 交换机",
-   "saga": "STI-050GE",
-   "url": "https://accessofranco.com/product/mien2205-layer-2-5-port-switch/",
-   "date": "2026-10-21"
-  },
-  {
-   "brand": "MaiWe",
-   "model": "MIEN2208",
-   "spec": "工业 8 口 L2 交换机",
-   "saga": "STI-080GE",
-   "url": "https://accessofranco.com/product/mien2208-layer-2-8-port-switch/",
-   "date": "2026-10-21"
-  }
- ],
+ "email_hook": "Philip, for the industrial switches and media converters under the Yamasaki label, we can supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units and gigabit MCs (−40~75 °C, CE/RoHS; RCM by your side) in your packaging from small lots — which model do your Australian resellers reorder most?",
  "mail_review": {
   "binding": {
-   "level": "未触达（A 邮箱 12 封 2025→2026，1 次记录打开，0 回；收件 sales@accessofranco.com；主题多为「10G Enterprise SFP Switch、Booster PoE Switch」；Elsa 箱：`to:accessofranco.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 12 / 来 0）（第 74 批(n)））",
-   "type": "能源智能方案商（泰国，MaiWe 工业 FS 在用）",
-   "sieve": "1~2（1 次打开）",
-   "stop": "只打通用邮箱，无记录打开",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "泰国 非主攻",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 12，Opened 标签 1（Simon 群发追踪）；研究档 risks：非主攻区（T5，泰国）；MaiWe（迈威，北京）既定线"
+   "level": "读而不回（A/S 邮箱 61 封 2024→2026，其中 5 封被打开，0 回；收件 panderson@andcorp.com.au, sales@andcorp.com.au；被打开主题「Industrial PoE Switch、Managed Optical Bypass Switch」；Elsa 箱：`to:andcorp.com.au OR to:yamasakiot.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 61 / 来 0）（第 74 批(n)））",
+   "type": "网络/光纤配件品牌商（澳大利亚，Utepo + 自有标 MC）",
+   "sieve": "2（有人在读，无人回）",
+   "stop": "读而不回 = 内容未命中或没有当下需求",
+   "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
+   "lane": "澳大利亚 非主攻",
+   "cadence": "一封；回了再说",
+   "evidence": "gmail_digest：out 61，Opened 标签 5（Simon 群发追踪）；用户表：「Utepo的工业FS；SFP MC 自己的logo 周边产品 有光路的OEO 国内的工业FS；https://www.andcorp.com.au/how-to」；研究档 risks：45 次群发无回复（极低响应，可能已屏蔽）→ 换渠道/换联系人"
   },
-  "situation": "泰国 Accessofranco（「Trusted Energy Intelligence」：能源智能方案与技术生态；站内 Advantech ADAM 模块、Siemens、MaiWe IR302/IR315 工业路由器与 MIEN2205/2208 L2 交换机；表内 KP「MaiWe」为品牌备注）；表内 1 次跟进无回复。",
-  "need": "在用 MaiWe MIEN2205/2208（5/8 口 L2）→ 工业 5 GE STI-050GE（$17.8 @25%）/ 8 GE STI-080GE（$32.7）；管理位 STI-288GPM；工业路由 Saga 不做",
-  "breakpoint": "非主攻区（T5，泰国）；MaiWe（迈威，北京）既定线",
+  "situation": "澳大利亚 Andcorp / Yamasaki OT（andcorp.com.au / yamasakiot.com：Utepo 工业 FS、SFP、自有 logo MC、OEO、国内工业 FS（博客「how to use a media converter」）；表内「可以多跟进一下」；KP Philip Anderson（CEO）、Gautam Bohra（Owner））；群发 45 次无回复。",
+  "need": "现 Utepo 工业 FS + 自有 logo MC → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ MC STI-110GE（$24.3）贴 Yamasaki 标；OEO/SFP Saga 不供（Q-32）",
+  "breakpoint": "45 次群发无回复（极低响应，可能已屏蔽）→ 换渠道/换联系人",
   "saga_now": {
-   "p1": "STI-050GE",
-   "tier": 25,
-   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-17 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-13 $280（10G Enterprise SFP Switch）、2026-06-23 $16000（32 Port 400GB DC Switch）",
-   "why": "在用 MaiWe MIEN2205/2208（5/8 口 L2）→ 工业 5 GE STI-050GE（$17.8 @25%）/ 8 GE STI-080GE（$32.7）；管理位 STI-288GPM；工业路由 Saga 不做。已打开的主题（1/12 封有打开记录）：「Marvell Managed Commercial Switches」(2026-03-16) → 读者兴趣主题类别不明（看原主题）",
+   "p1": "STI-288GPM",
+   "tier": 30,
+   "price": "首触锚价 STI-288GPM $85.5 EXW（主表档位（PDF 上限 $88；SA-016 2025-07 实报 $72 为分销量价）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-30 $300（48 port poe managed switch）、2024-09-12 $65（10G Media Converter）、2024-11-05 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-07-27 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-06 $280（10G Enterprise SFP Switch）",
+   "why": "现 Utepo 工业 FS + 自有 logo MC → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ MC STI-110GE（$24.3）贴 Yamasaki 标；OEO/SFP Saga 不供（Q-32）。已打开的主题（5/61 封有打开记录）：「90W PoE Managed Switch」(2025-08-17)、「Optional Marvell Chipset Solutions」(2025-12-04)、「OEM Core Switching Solution」(2026-01-13)、「16 Port Industrial PoE Switch」(2026-09-15) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续｜已发资料（勿重发）：Saga Feature List_7.5.x_L2+(2026-06-29)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
-   "one_question": "Alongside the MaiWe MIEN2205 / MIEN2208 switches in your energy-monitoring cabinets, we supply DIN-rail 5/8-GE unmanaged and 8-PoE + 2 SFP managed units (−40~75 °C, 12–58 VDC, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your sites use most?"
+   "when": "2026-11",
+   "channel": "A 邮箱 → panderson@andcorp.com.au",
+   "action": "短信一问（email_hook）",
+   "one_question": "Philip, for the industrial switches and media converters under the Yamasaki label, we can supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units and gigabit MCs (−40~75 °C, CE/RoHS; RCM by your side) in your packaging from small lots — which model do your Australian resellers reorder most? Reference: STI-288GPM at $85.5 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
    {
-    "date": "2025-10-13",
+    "date": "2026-09-15",
     "dir": "去",
-    "who": "A 箱（Alan）",
-    "quote": "10G Enterprise SFP Switch",
-    "why": "首封去信（邮箱索引；去信共 12 封）",
-    "k": "f96b0d925a6e19ca"
-   },
-   {
-    "date": "2026-08-17",
-    "dir": "去",
-    "who": "A 箱（Alan）",
-    "quote": "24 Port PoE Managed Switch｜稿内价 $170",
-    "why": "去信正文含价（邮箱索引）",
-    "k": "bf3bc46b37a11a29"
-   },
-   {
-    "date": "2026-09-24",
-    "dir": "去",
-    "who": "A 群发",
-    "quote": "10G Enterprise SFP Switch、Booster PoE Switch",
-    "why": "12 封 / 1 次打开 / 0 回｜首封 2025-10-13 → 末封 2026-09-24（12 去 / 0 来）",
+    "who": "A/S 群发",
+    "quote": "Industrial PoE Switch、Managed Optical Bypass Switch",
+    "why": "61 封 / 5 次打开 / 0 回｜首封 2024-06-19 → 末封 2026-09-15（61 去 / 0 来）",
     "k": "gmail_digest"
    },
    {
-    "date": "2026-09-24",
-    "dir": "去",
-    "who": "A 箱（Alan）",
-    "quote": "Managed PoE Switches",
-    "why": "最近一封去信（邮箱索引；去信共 12 封）",
-    "k": "e6599ebb77c27855"
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "Utepo的工业FS；SFP MC 自己的logo 周边产品 有光路的OEO 国内的工业FS；https://www.andcorp.com.au/how-to-use-a-media-converter-in-your-network/",
+    "why": "表内备注",
+    "k": "用户表"
    }
   ],
   "proof_gaps": [],
-  "draft_en": null,
+  "draft_en": {
+   "subject": "One question — Industrial PoE Switch",
+   "body": "Hi Philip,\n\nWe have sent you a few mails on \"Industrial PoE Switch\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor the industrial switches and media converters under the Yamasaki label, we can supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units and gigabit MCs (−40~75 °C, CE/RoHS; RCM by your side) in your packaging from small lots — which model do your Australian resellers reorder most?\n\nReference price: DIN-rail 8-PoE + 2 SFP L2 managed industrial switch, 240 W (STI-288GPM) $85.5 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+  },
   "as_of": "2026-10-24"
  }
 }

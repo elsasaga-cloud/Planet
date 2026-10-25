@@ -1,73 +1,118 @@
 {
  "code": "SB-578",
- "name_official": "",
+ "name_official": "NIAAR（Niaar Industrial Procurement，Dubai）",
  "researched_at": "2026-10-21",
- "website_status": "在线（rapsodo.com，快照 2026-10-21）",
- "summary": "新加坡 Rapsodo Pte Ltd（运动表现分析设备（高尔夫/棒球雷达）厂商；表内「问工业交换机是否为 L2、光口速率，给名片时好像说是给他朋友问的」；KP Kelvin Yeo（Engineering Manager））；群发 7 次无回复。",
- "type": "运动科技厂商（新加坡，代问非渠道）",
+ "website_status": "在线（niaar.net，快照 2026-10-21）",
+ "summary": "迪拜工业采购与供应平台（能源、制造、基建、海事、技术；品牌页 ABB、Advantech、Schneider、Moxa、Hikvision、Dahua；ISO 9001），Pouriya Najafabadi（伊朗裔，+971 50 858 0255）；需求收发器，2024-01 对 2 光 4「暂时没需求」；WA 23 次无回复。采购平台 = 项目驱动、比价。",
+ "type": "",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Advantech",
+  "Schneider",
+  "ABB",
+  "Moxa"
+ ],
  "evidence": [
   {
    "kind": "官网快照",
-   "claim": "官网标题：Rapsodo® - Sports Performance & Analytics Technology；品类词 安防监控（CCTV / 门禁） / 无线 / WiFi / 布线 / 线缆 / 网络交换 / PoE",
-   "quote": "Launch and flight monitors for baseball, softball and golf that are affordable, portable and easy to use backed by data-driven technology trusted by the best players in the game. Play without limits with Rapsodo®",
-   "url": "https://rapsodo.com/",
+   "claim": "工业采购平台；行业能源 / 制造 / 基建 / 海事；品牌 Advantech、Schneider、ABB、Moxa；Office 109, Al Wasl Building, SZR, Dubai；+971 4 254 0929",
+   "quote": "NIAAR connects industrial buyers with trusted brands and suppliers across energy, manufacturing, infrastructure, marine and technology sectors… Office 109, Al wasl Building, Al Wasl, Sheikh Zayed Road, Dubai",
+   "url": "https://niaar.net/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "问工业交换机是否为L2，光口速率 给名片时好像说是给他朋友问的；65-9649 9726 地址：Blk 20 Ayer Rajah Crescent, #08-05, Singapore 139964",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "Rapsodo 定位",
-   "quote": "Rapsodo® - Sports Performance & Analytics Technology",
-   "url": "https://rapsodo.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "代朋友问",
-   "quote": "问工业交换机是否为L2，光口速率 给名片时好像说是给他朋友问的",
+   "claim": "兴趣收发器；2024-01 2 光 4→暂时没需求",
+   "quote": "兴趣：收发器；回复：暂时没需求",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
- "kp": [],
- "grade_override": "C",
- "override_reason": "非渠道（代朋友询问）；c_sub=品类不符/非渠道",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "kp": [
+  {
+   "name": "Pouriya Najafabadi",
+   "title": "（负责人）",
+   "email": "pouriya@niaar.net",
+   "phone": "+971 50 858 0255",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（官网快照核对 + 守界标注）"
  },
  "company_facts": {
-  "hq": "新加坡",
-  "other": "官网 rapsodo.com，语言 en-US，快照状态 ok；角色判定来源：待核"
+  "legal_name": "NIAAR（待核）",
+  "founded": "（待核）",
+  "hq": "Office 109, Al Wasl Building, Sheikh Zayed Road, Dubai",
+  "size": "小型采购平台",
+  "other": "ISO 9001；伊朗裔经营（注意最终用户去向，守界：不供伊朗）"
  },
  "business_lines": [
-  "运动表现分析设备（新加坡）"
+  "工业品采购 / 供应（电气、自动化、IT 通信）"
  ],
  "channels": {
-  "role": "运动科技厂商（新加坡，代问非渠道）",
-  "region": "新加坡",
-  "contact": "kelvin.yeo@rapsodo.com"
+  "role": "采购平台 / 贸易商",
+  "region": "阿联酋 + 中东（注意再出口）"
  },
  "signals": [
-  "官网：Rapsodo® - Sports Performance & Analytics Technology ; Launch and flight monitors for baseball, softball and golf",
-  "表内：问工业交换机是否为 L2，光口速率 给名片时好像说是给他朋友问的；KP Kelvin Yeo / Engineering Manager"
+  "IT 通信品类页含工业交换机 → 询价会来"
  ],
  "risks": [
-  "非渠道：运动分析设备厂商，询问为代他人所问；7 次无回复"
+  "守界：迪拜伊朗裔贸易商，货物可能再出口伊朗 → 每单核最终用户",
+  "平台比价、无品牌忠诚"
  ],
  "saga_fit": {
-  "p1": null,
-  "tier": 25,
-  "why": "非渠道（运动科技公司，询问系代朋友所问）→ 改 C"
+  "p1": "STI-110GE",
+  "tier": 20,
+  "why": "收发器需求 → STI-110GE（工业 MC $22.4 @20%）；贸易商 20%；报价前核最终用户。"
  },
- "email_hook": "（不发送：非渠道代问）"
+ "email_hook": "Pouriya, for transceiver / media-converter RFQs — we quote industrial gigabit MC and DIN switches EXW within a day, with end-user and destination stated on each quote; send the next spec sheet when it comes in.",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：收发器；回复：暂时没需求」；Elsa 箱：`to:niaar.net` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(n)））",
+   "type": "—",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "不动（非主攻区；J5：有证据再动）",
+   "lane": "阿联酋 非主攻",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 0；用户表：「兴趣：收发器；回复：暂时没需求」；研究档 risks：守界：迪拜伊朗裔贸易商，货物可能再出口伊朗 → 每单核最终用户"
+  },
+  "situation": "迪拜工业采购与供应平台（能源、制造、基建、海事、技术；品牌页 ABB、Advantech、Schneider、Moxa、Hikvision、Dahua；ISO 9001），Pouriya Najafabadi（伊朗裔，+971 50 858 0255）；需求收发器，2024-01 对 2 光 4「暂时没需求」；WA 23 次无回复。采购平台 = 项目驱动、比价。",
+  "need": "收发器需求 → STI-110GE（工业 MC $22.4 @20%）；贸易商 20%；报价前核最终用户。",
+  "breakpoint": "守界：迪拜伊朗裔贸易商，货物可能再出口伊朗 → 每单核最终用户",
+  "saga_now": {
+   "p1": "STI-110GE",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "收发器需求 → STI-110GE（工业 MC $22.4 @20%）；贸易商 20%；报价前核最终用户。",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：收发器；回复：暂时没需求",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

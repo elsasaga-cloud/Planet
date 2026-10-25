@@ -1,0 +1,59 @@
+{
+ "code": "SC-165",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "快照失败（http_error）",
+ "summary": "美国 TE Connectivity（连接器巨头；联系仅 socialmedia@；表内「switch」「可以尝试多跟进一下」）；群发 10 次无回复。",
+ "type": "跨国巨头（TE）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "switch",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "switch",
+   "quote": "switch；可以尝试多跟进一下",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "巨头（TE Connectivity）；c_sub=体量过大",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "美国",
+  "other": "官网 te.com，语言 ?，快照状态 http_error；角色判定来源：待核"
+ },
+ "business_lines": [
+  "连接器（跨国巨头）"
+ ],
+ "channels": {
+  "role": "跨国巨头（TE）",
+  "region": "美国",
+  "contact": "socialmedia@te.com"
+ },
+ "signals": [
+  "表内：switch；可以尝试多跟进一下；socialmedia@te.com",
+  "快照：http_error"
+ ],
+ "risks": [
+  "体量：跨国巨头；仅 socialmedia@ 邮箱；10 次无回复"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 30,
+  "why": "跨国巨头、仅社媒邮箱 → 改 C"
+ },
+ "email_hook": "（不发送：巨头）"
+}

@@ -1,0 +1,66 @@
+{
+ "code": "SC-110",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（tss.co.th，快照 2026-10-21）",
+ "summary": "泰国 TSS（瘦客户机、POS 收款、生物识别设备；阿里巴巴 RFQ「无人机」；KP Worrawee Veerakachen）；表内未跟进。",
+ "type": "IT 设备商（泰国，无人机 RFQ）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：TSS",
+   "quote": "มั่นใจกับผลิตภัณฑ์และบริการ；ธินไคลแอนต์ สมรรถนะสูง! ใช้งานแอปพลิเคชั่นได้มากกว่า；Q161；ผู้ช่วยรับชำระเงินสำหรับร้านค้า；ไบโอเมตริกซ์ ลายนิ้วมือ การจดจำใบหน้า 3 มิติ；Parallels®️ RAS",
+   "url": "https://tss.co.th/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "无人机 / from: 阿里巴巴RFQ",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "无人机 RFQ",
+   "quote": "无人机 / from: 阿里巴巴RFQ",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "品类不符（无人机 RFQ）；c_sub=品类不符",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "泰国",
+  "other": "官网 tss.co.th，语言 en，快照状态 ok；角色判定来源：待核"
+ },
+ "business_lines": [
+  "瘦客户机 / POS / 生物识别（泰国）"
+ ],
+ "channels": {
+  "role": "IT 设备商（泰国，无人机 RFQ）",
+  "region": "泰国",
+  "contact": "worrawee@tss.co.th"
+ },
+ "signals": [
+  "官网：TSS ; ธินไคลแอนต์ สมรรถนะสูง ; ผู้ช่วยรับชำระเงินสำหรับร้านค้า ; ไบโอเมตริก",
+  "表内：无人机 / from: 阿里巴巴 RFQ；KP Worrawee Veerakachen"
+ ],
+ "risks": [
+  "品类不符：无人机 RFQ；主业瘦客户机/POS；非主攻区（泰国）"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 20,
+  "why": "RFQ 品类无人机（Saga 不供）、主业与交换机无关 → 改 C（品类不符）"
+ },
+ "email_hook": "（不发送：品类不符）"
+}

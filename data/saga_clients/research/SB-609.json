@@ -2,145 +2,136 @@
  "code": "SB-609",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "在线（bydemes.com，快照 2026-10-21）",
- "summary": "西班牙 By Demes Group（安防技术头部分销商/批发：视频监控、CCTV、报警、入侵、门禁、消防；Dahua / Hikvision / Paradox / TP-Link，在售 Wi-Tek 工商业交换机与 Cudy；表内「Wi-tek 的工商业 switch，也有大华的 / Cudy 的」「可以尝试多跟进一下」；KP Ricardo Rubi、Liana Barragan）；表内 7 次跟进无回复。",
- "type": "安防头部分销商（西班牙，Wi-Tek/Cudy 预算线在售；体量大）",
+ "website_status": "在线（ablelink.co.th，快照 2026-10-21）",
+ "summary": "泰国 ABLELINK（Network & Security Distributor Thailand：面向 SI 与承包商的 IT 网络与安防分销；表内「好几个牌子的产品 Witek、Oring；MC 工业 FS SFP 等」「可以尝试多跟进一下」）；群发 18 次无回复。",
+ "type": "网络/安防分销商（泰国，Witek/Oring）",
  "size": "",
  "brands_seen": [
-  "Dahua",
-  "Hikvision",
-  "Paradox",
-  "TP-Link",
-  "Wi-Tek",
-  "Cudy"
+  "Witek",
+  "ORing"
  ],
  "evidence": [
   {
    "kind": "官网快照",
-   "claim": "官网标题：The leading distributor in security technologies | By Demes Group；品类词 安防监控（CCTV / 门禁） / 无线 / WiFi / 布线 / 线缆 / 网络交换 / PoE",
-   "quote": "The leading distributor in security technologies. Wholesaler of video surveillance, security cameras, CCTV, alarm systems, intrusion, access control and fire detection.",
-   "url": "https://bydemes.com/",
+   "claim": "官网标题：ABLELINK — Network & Security Distributor Thailand；品类词 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "ABLELINK (Thailand) — ตัวแทนจำหน่ายอุปกรณ์ IT Network & Security ครบวงจรสำหรับ System Integrators (SI) และผู้รับเหมาทั่วประเทศ สินค้าแท้ประกันศูนย์ บริการเทคนิคครบวงจร",
+   "url": "https://ablelink.co.th/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
    "claim": "表内兴趣/备注",
-   "quote": "Wi-tek的工商业swith 也有大华 的；Cudy的",
+   "quote": "好几个牌子的产品 Witek Oring MC 工业FS SFP等",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   },
   {
    "kind": "官网快照",
-   "claim": "By Demes 定位",
-   "quote": "The leading distributor in security technologies | By Demes Group ; Wholesaler of video surveillance, security cameras, CCTV, alarm systems, intrusion, access control and fire detection",
-   "url": "https://bydemes.com/",
+   "claim": "ABLELINK 定位",
+   "quote": "ABLELINK — Network & Security Distributor Thailand ; สำหรับ System Integrators (SI)",
+   "url": "https://ablelink.co.th/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "Wi-Tek 工商业 switch；Dahua/Cudy",
-   "quote": "Wi-tek的工商业swith 也有大华 的 / Cudy的；可以尝试多跟进一下",
+   "claim": "Witek Oring MC 工业 FS",
+   "quote": "好几个牌子的产品 Witek Oring MC 工业FS SFP等",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
- "kp": [
-  {
-   "name": "Ricardo Rubi",
-   "title": "（职务待核）",
-   "email": "bydemes@bydemes.com",
-   "phone": "",
-   "source": "用户表"
-  },
-  {
-   "name": "Liana Barragan",
-   "title": "（职务待核）",
-   "email": "",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
+ "kp": [],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "西班牙",
-  "other": "官网 bydemes.com，语言 en，快照状态 ok；角色判定来源：表内早期 AI 描述"
+  "hq": "泰国",
+  "other": "官网 ablelink.co.th，语言 th，快照状态 ok；角色判定来源：表内早期 AI 描述"
  },
  "business_lines": [
-  "安防技术分销（CCTV / 报警 / 门禁 / 消防 / 网络）"
+  "IT 网络 / 安防分销（泰国）"
  ],
  "channels": {
-  "role": "安防头部分销商（西班牙，Wi-Tek/Cudy 预算线在售；体量大）",
-  "region": "西班牙",
-  "contact": "bydemes@bydemes.com、almacenbcn@bydemes.com"
+  "role": "网络/安防分销商（泰国，Witek/Oring）",
+  "region": "泰国",
+  "contact": "info@ablelink.co.th"
  },
  "signals": [
-  "官网：The leading distributor in security technologies. Wholesaler of video surveillance, security cameras, CCTV, alarm systems, intrusion, access control and fire detection；页面 /es/productos/networking/switching/…/TPLINK-327；kw installer 21 / dahua 20 / hikvision 13",
-  "表内：Wi-tek 的工商业 swith 也有大华的 / Cudy 的；可以尝试多跟进一下；KP Ricardo Rubi / Liana Barragan"
+  "官网：ABLELINK — Network & Security Distributor Thailand ; ตัวแทนจำหน่ายอุปกรณ์ IT Network & Security ครบวงจรสำหรับ System Integrators (SI)；页面 /products/sp-pc40-3854/",
+  "表内：好几个牌子的产品 Witek Oring MC 工业 FS SFP 等；可以尝试多跟进一下"
  ],
  "risks": [
-  "体量大（西班牙头部安防分销，多国仓库）：供应商准入流程长；Wi-Tek/Cudy 价格基准低",
-  "7 次无回复 → 改向 Ricardo Rubi 具名首触（职务待核）"
+  "非主攻区（T5，泰国）；多品牌分销（Oring 价格基准中等、Witek 低）；18 次无回复，仅 info@"
  ],
  "saga_fit": {
-  "p1": "STC-28DGGPM",
+  "p1": "STI-280GE",
   "tier": 20,
-  "why": "在售 Wi-Tek 工商业交换机 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）作 Marvell 预算线；工业位 STI-288GPM（$78.9）；非管理 8 PoE 位 HRUI STC-028GP（列表价，注明）"
+  "why": "工业 FS（现 Oring/Witek）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、8 PoE + 2 SFP STI-288GPM（$78.9）、工业千兆 MC STI-110GE（$22.4）作白牌预算位"
  },
- "email_hook": "Ricardo, alongside the Wi-Tek and Cudy switches you stock for installers, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and DIN-rail industrial PoE models from small lots, CE/RoHS, EXW USD — is there a port count or price band your installers ask for between Wi-Tek and the Dahua/Hikvision lines?",
+ "email_hook": "Alongside the ORing and Witek lines you distribute to system integrators, we supply neutral-brand Marvell-based DIN-rail 8-GE/8-PoE + 2 SFP managed switches and gigabit MCs from small lots, CE/RoHS, EXW USD — is there a budget industrial position your SI customers ask for?",
  "mail_review": {
   "binding": {
-   "level": "未触达（A/S 邮箱 15 封 2025→2026，1 次记录打开，0 回；收件 almacenbcn@bydemes.com, bydemes@bydemes.com；主题多为「Managed Optical Bypass Switch、24 Port PoE Managed Switch」；Elsa 箱：`to:bydemes.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 15 / 来 0）（第 74 批(k)））",
-   "type": "安防头部分销商（西班牙，Wi-Tek/Cudy 预算线在售；体量大）",
-   "sieve": "1~2（1 次打开）",
-   "stop": "15 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "西班牙（欧洲全域主攻）",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 15，Opened 标签 1（Simon 群发追踪）；用户表：「Wi-tek的工商业swith 也有大华 的；Cudy的」；研究档 risks：体量大（西班牙头部安防分销，多国仓库）：供应商准入流程长；Wi-Tek/Cudy 价格基准低"
+   "level": "未触达（A/S 邮箱 27 封 2024→2026，无记录打开，0 回；收件 info@ablelink.co.th；主题多为「Industrial PoE Switch、24 Port PoE Managed Switch」；Elsa 箱：`to:ablelink.co.th` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 27 / 来 0）（第 74 批(n)））",
+   "type": "网络/安防分销商（泰国，Witek/Oring）",
+   "sieve": "1（只收到群发）",
+   "stop": "只打通用邮箱，无记录打开",
+   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+   "lane": "泰国 非主攻",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 27；用户表：「好几个牌子的产品 Witek Oring MC 工业FS SFP等」；研究档 risks：非主攻区（T5，泰国）；多品牌分销（Oring 价格基准中等、Witek 低）；18 次无回复，仅 info@"
   },
-  "situation": "西班牙 By Demes Group（安防技术头部分销商/批发：视频监控、CCTV、报警、入侵、门禁、消防；Dahua / Hikvision / Paradox / TP-Link，在售 Wi-Tek 工商业交换机与 Cudy；表内「Wi-tek 的工商业 switch，也有大华的 / Cudy 的」「可以尝试多跟进一下」；KP Ricardo Rubi、Liana Barragan）；表内 7 次跟进无回复。",
-  "need": "在售 Wi-Tek 工商业交换机 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）作 Marvell 预算线；工业位 STI-288GPM（$78.9）；非管理 8 PoE 位 HRUI STC-028GP（列表价，注明）",
-  "breakpoint": "体量大（西班牙头部安防分销，多国仓库）：供应商准入流程长；Wi-Tek/Cudy 价格基准低",
+  "situation": "泰国 ABLELINK（Network & Security Distributor Thailand：面向 SI 与承包商的 IT 网络与安防分销；表内「好几个牌子的产品 Witek、Oring；MC 工业 FS SFP 等」「可以尝试多跟进一下」）；群发 18 次无回复。",
+  "need": "工业 FS（现 Oring/Witek）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、8 PoE + 2 SFP STI-288GPM（$78.9）、工业千兆 MC STI-110GE（$22.4）作白牌预算位",
+  "breakpoint": "非主攻区（T5，泰国）；多品牌分销（Oring 价格基准中等、Witek 低）；18 次无回复，仅 info@",
   "saga_now": {
-   "p1": "STC-28DGGPM",
+   "p1": "STI-280GE",
    "tier": 20,
-   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-22 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-06-06 $300（48 Port PoE Managed Switch）、2025-10-02 $280（10G Enterprise SFP Switch）",
-   "why": "在售 Wi-Tek 工商业交换机 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）作 Marvell 预算线；工业位 STI-288GPM（$78.9）；非管理 8 PoE 位 HRUI STC-028GP（列表价，注明）。已打开的主题（1/15 封有打开记录）：「16 Port Ethernet Switch」(2025-07-16) → 读者兴趣主题类别不明（看原主题）",
+   "price": "换人再触锚价 STI-280GE $46 EXW（Saga 2025 Realtek 工业线对外价 $46（非管理工业线不用档位价 ㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-14 $65（10G media converter）、2024-09-09 $300（48 port switch）、2024-12-17 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-07-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-15 $280（10G Enterprise SFP Switch）、2026-06-26 $16000（32 Port 400GB DC Switch）",
+   "why": "工业 FS（现 Oring/Witek）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、8 PoE + 2 SFP STI-288GPM（$78.9）、工业千兆 MC STI-110GE（$22.4）作白牌预算位",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开",
-   "one_question": "Ricardo, alongside the Wi-Tek and Cudy switches you stock for installers, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and DIN-rail industrial PoE models from small lots, CE/RoHS, EXW USD — is there a port count or price band your installers ask for between Wi-Tek and the Dahua/Hikvision lines?"
+   "when": "2027-Q1（换人后）",
+   "channel": "A 邮箱 → 具名 KP",
+   "action": "换收件人再发一封（第 75 批(ai) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
+   "one_question": "Alongside the ORing and Witek lines you distribute to system integrators, we supply neutral-brand Marvell-based DIN-rail 8-GE/8-PoE + 2 SFP managed switches and gigabit MCs from small lots, CE/RoHS, EXW USD — is there a budget industrial position your SI customers ask for? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
    {
-    "date": "2026-09-30",
+    "date": "2026-09-28",
     "dir": "去",
     "who": "A/S 群发",
-    "quote": "Managed Optical Bypass Switch、24 Port PoE Managed Switch",
-    "why": "15 封 / 1 次打开 / 0 回｜首封 2025-01-30 → 末封 2026-09-30（15 去 / 0 来）",
+    "quote": "Industrial PoE Switch、24 Port PoE Managed Switch",
+    "why": "27 封 / 0 次打开 / 0 回｜首封 2024-06-25 → 末封 2026-09-28（27 去 / 0 来）",
     "k": "gmail_digest"
    },
    {
     "date": "2026-10-21",
     "dir": "用户表",
     "who": "Simon",
-    "quote": "Wi-tek的工商业swith 也有大华 的；Cudy的",
+    "quote": "好几个牌子的产品 Witek Oring MC 工业FS SFP等",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-09-28",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "Managed PoE Switches",
+    "why": "本日去信真实主题（邮箱索引 f122b36e6b4b44ea；信稿开头句引用此封；此前稿内写的「Industrial PoE Switch」是线程列表首题，不是本封）",
+    "k": "f122b36e6b4b44ea"
    }
   ],
   "proof_gaps": [],
-  "draft_en": null,
+  "draft_en": {
+   "subject": "A budget industrial position next to ORing and Witek for your SI customers",
+   "body": "Hello ABLELINK team,\n\nOver the past months you had a few product mails from us - most recently \"Managed PoE Switches\" on 28 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nAlongside the ORing and Witek lines you distribute to system integrators, a budget industrial position, neutral-brand, at distributor price, EXW, MOQ 1, 15-day validity, -40 to 75 C, CE/RoHS: DIN-rail 8 x Gigabit + 2 x SFP, unmanaged - model STI-280GE - $46 USD; 8 x Gigabit PoE+ + 2 x SFP, L2 managed, Marvell-based - STI-288GPM - $78.9; Gigabit media converter, 1 x RJ45 + 1 x SFP slot - STI-110GE - $26.5. SFPs stay with your current source.\n\nOne question: is there a budget industrial position your SI customers ask for that ORing prices too high?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+  },
   "as_of": "2026-10-24"
  }
 }

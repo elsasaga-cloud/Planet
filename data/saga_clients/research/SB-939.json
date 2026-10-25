@@ -1,177 +1,127 @@
 {
  "code": "SB-939",
- "name_official": "Fiberworks AS（fiberworks.no）",
+ "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "在线（fiberworks.no；并档 Planet 渠道档案 PB-073）",
- "summary": "奥斯陆一家光纤产品专业分销商（收发器/WDM/光缆/仪表），有源设备货架同时上 PLANET 全线（9 子类）与 ORing 工业交换机。类型：分销/网店（光纤网络产品专业分销：收发器 / WDM / 光缆 / 仪表 + 有源设备；有源类目下「PLANET nettverksprodukter」独立类目 9 子类 + 「ORing Industrial Switches」类目；ISO 9001:2015 / 14001:2015；Org. nr. 959 977 046）。信号：fiberworks.no 「PLANET nettverksprodukter」类目（筛选：PoE output (PSE) 17 件、For DIN-skinne 13 件、Industriell temp. 2 件）；商品页 IGS-510TF（Product nr MC-PLANET-IGS-510TF，2240 NOK）、SGS-6310-24T4X（L3 24×GE + 4×10G 可堆叠）、TSN-5225-4T2S、IGS-6325-4T2X、GS-5220-16S8CR、IGS-6325-20T4C4X、GSD-1022UP、「L2+ 8x GE RJ45 802.3at PoE+ 2x 2.5G SFP wall-mount Ind. Switch w/LCD」；并列「ORing Industrial Switches」类目。Planet 渠道档案 PB-073 评级 B（需求：PLANET 独立类目 9 子类（工业 DIN 13 件、PoE 17 件）+ ORing 类目 → 工业/PoE 槽位真实且已双品牌；触达：salg@fiberworks.no + +47 23 03 53 30 公开（官网页脚），无具名 KP；体量：Oslo 单仓、ISO 9001/14001 的光纤专业分销 → 可赢；Mikrotik 仓 B-517（ORing 名录导入，R49 补到邮箱回升 B）→ 并档，首触以 Mikrotik 仓库为准 → B ★★）。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-939，挪威，Saga 群发已推送 15 次无回复）与 Planet 渠道挖掘名单，首触邮件此前未发送。",
- "type": "",
+ "website_status": "在线（cleverkey.ru，快照 2026-10-21）",
+ "summary": "俄罗斯 CleverKey Ру（服务器/存储/网络设备经销：HP、Cisco、Huawei、H3C、Ruijie、Extreme、Juniper、Allied Telesis；表内「有很多知名小品牌的」）；表内未跟进。",
+ "type": "IT 设备经销商（俄罗斯，品牌导向）",
  "size": "",
  "brands_seen": [
-  "PLANET",
-  "ORing"
+  "Ruijie",
+  "Extreme",
+  "Juniper",
+  "Cisco",
+  "Huawei",
+  "H3C",
+  "Allied Telesis"
  ],
  "evidence": [
   {
-   "kind": "官网",
-   "claim": "PLANET 独立类目及筛选计数（PoE 17 / DIN 13 / 工业温度 2）",
-   "quote": "PLANET leverer en bred portefølje av nettverksprodukter som svitsjer, rutere og aksesspunkter. Her presenterer vi noen få av dem. For komplett utvalg, gå til https://www.planet.com.tw/en … Ja, PoE output (PSE) (17) … For DIN-skinne (13) … Industriell temp. (2)",
-   "url": "https://www.fiberworks.no/en-us/produkter/aktivt-utstyr/planet-nettverksprodukter",
-   "date": "2026-10-20"
+   "kind": "官网快照",
+   "claim": "官网标题：Серверное оборудование от Клеверкей Ру - продажа серверов, СХД, сетевого оборудования и ко；品类词 网络交换 / PoE",
+   "quote": "Компания Клеверкей РУ CleverKey предлагает серверное оборудование, сетевую инфраструктуру, системы хранения данных, комплектующие IBM, Dell, HP, Cisco, Juniper, Fujitsu, Huawei, Eaton, APC и многих других производителей.",
+   "url": "https://www.cleverkey.ru/",
+   "date": "2026-10-21"
   },
   {
-   "kind": "官网",
-   "claim": "PLANET IGS-510TF 商品页与价格",
-   "quote": "IGS-510TF DC IP30 GigEthernet Switch 1x SFP - 4x RJ45, 12-48V DC, ind. temp. … Product nr: MC-PLANET-IGS-510TF … 2240.0",
-   "url": "https://www.fiberworks.no/en/planet/mc-planet-igs-510tf/igs-510tf-dc-ip30-gigethernet-switch-1x-sfp-4x-rj45-12-48v-dc-ind-temp",
-   "date": "2026-10-20"
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "有很多知名小品牌的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
   {
-   "kind": "官网",
-   "claim": "PLANET SGS-6310-24T4X 商品页",
-   "quote": "PLANET L3 24x GE RJ45, 4x 10G SFP+ Stackable Managed Switch",
-   "url": "https://www.fiberworks.no/en-us/planet/pln-sgs-6310-24t4x/planet-l3-24x-ge-rj45-4x-10g-sfp-plus--stackable-managed-switch",
-   "date": "2026-10-20"
+   "kind": "官网快照",
+   "claim": "CleverKey 定位",
+   "quote": "Серверное оборудование от Клеверкей Ру - продажа серверов, СХД, сетевого оборудования ; серверное оборудование, сетевую инфраструктуру, системы хранения",
+   "url": "https://www.cleverkey.ru/",
+   "date": "2026-10-21"
   },
   {
-   "kind": "官网",
-   "claim": "公司法务信息、联系方式、ISO 认证（页脚）",
-   "quote": "+47 23 03 53 30 · salg@fiberworks.no · Eikenga 11 0579 Oslo · Fiberworks AS Org. nr. 959 977 046 · ISO 9001:2015 … ISO 14001:2015",
-   "url": "https://www.fiberworks.no/",
-   "date": "2026-10-20"
+   "kind": "用户表",
+   "claim": "很多知名小品牌",
+   "quote": "有很多知名小品牌的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（并档 Planet 渠道档案 PB-073，W 批次调研 2026-10-19/20）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "legal_name": "Fiberworks AS（fiberworks.no）",
-  "founded": "",
-  "hq": "Oslo（Eikenga 11, 0579 Oslo）, 挪威",
-  "size": "",
-  "other": "Planet 渠道档案 PB-073（2026-10-20_W17_OR组假阴性逐域复核_CZ-FR-NO-GR-ES.json）；自有品牌：否；最大未知：PLANET 类目哪些 SKU 真有库存（默认只列在库品，价格多需登录）；工业/PoE 的终端客群（offshore / infrastruktur？）；Forsvar（国防）方案占比（守界）；选品负责人；Mikrotik 仓 B-517 首触是否已发（本仓不发）"
+  "hq": "俄罗斯",
+  "other": "官网 cleverkey.ru，语言 en，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "分销/网店（光纤网络产品专业分销：收发器 / WDM / 光缆 / 仪表 + 有源设备；有源类目下「PLANET nettverksprodukter」独立类目 9 子类 + 「ORing Industrial Switches」类目；ISO 9001:2015 / 14001:2015；Org. nr. 959 977 046）"
- ],
- "products_seen": [
-  {
-   "brand": "PLANET",
-   "model": "IGS-510TF",
-   "spec": "PLANET 工业 4×GE + 1×SFP 非管理（2240 NOK）；Saga 工业 4×GE + 2×SFP 非管理，同槽位",
-   "saga": "STI-240GE",
-   "url": "https://fiberworks.no",
-   "date": "2026-10-19"
-  },
-  {
-   "brand": "PLANET",
-   "model": "SGS-6310-24T4X",
-   "spec": "PLANET 为 L3 可堆叠；Saga STC-424XGGM 另有 L3 档（$269.1），不支持堆叠",
-   "saga": "STC-424XGGM",
-   "url": "https://fiberworks.no",
-   "date": "2026-10-19"
-  },
-  {
-   "brand": "PLANET",
-   "model": "TSN-5225-4T2S",
-   "spec": "PLANET 为 TSN 工业 4×GE + 2×SFP；Saga 为 L2+ 同口型，无 TSN，功能下位",
-   "saga": "STI-240DGGM",
-   "url": "https://fiberworks.no",
-   "date": "2026-10-19"
-  },
-  {
-   "brand": "PLANET",
-   "model": "IGS-6325-4T2X",
-   "spec": "工业 L3 4×GE + 2×10G SFP+：Saga 工业 10G 上行款为 8×GE + 4×10G（STI-480XGGM），口型不同，不硬凑",
-   "saga": "—",
-   "url": "https://fiberworks.no",
-   "date": "2026-10-19"
-  },
-  {
-   "brand": "PLANET",
-   "model": "GS-5220-16S8CR",
-   "spec": "16×SFP + 8 combo + 4×10G 全光：Saga 对位 STC-4168XGGCM 为 L3（$376.7），PLANET 为 L2+，仅作参考",
-   "saga": "—",
-   "url": "https://fiberworks.no",
-   "date": "2026-10-19"
-  },
-  {
-   "brand": "PLANET",
-   "model": "IGS-6325-20T4C4X",
-   "spec": "PLANET 工业 L3 20×GE + 4 combo + 4×10G；Saga 工业 16×GE + 2×10G SFP+（L2+ $269.1 / L3 $358.7）作近位",
-   "saga": "STI-2160XGGM",
-   "url": "https://fiberworks.no",
-   "date": "2026-10-19"
-  },
-  {
-   "brand": "PLANET",
-   "model": "GSD-1022UP",
-   "spec": "8×PoE++ 非管理商用：Saga 商用线无非管理型号，不硬凑",
-   "saga": "—",
-   "url": "https://fiberworks.no",
-   "date": "2026-10-19"
-  }
+  "服务器 / 存储 / 网络设备经销（俄罗斯）"
  ],
  "channels": {
-  "role": "分销/网店（光纤网络产品专业分销：收发器 / WDM / 光缆 / 仪表 + 有源设备；有源类目下「PLANET nettverksprodukter」独立类目 9 子类 + 「ORing Industrial Switches」类目；ISO 9001:2015 / 14001:2015；Org. nr. 959 977 046）",
-  "region": "挪威"
+  "role": "IT 设备经销商（俄罗斯，品牌导向）",
+  "region": "俄罗斯",
+  "contact": "mail@cleverkey.ru"
  },
  "signals": [
-  "光纤专业分销的有源货架同时上 PLANET 全线（工业 DIN 13 件、PoE 17 件）与 ORing → 工业 PoE DIN 槽位两家都在它架上；Saga 工业 8×GE PoE+ + 2×SFP 管理型（STI-288GPM，$78.9 EXW）对位其 PLANET 工业 PoE 管理款与 ORing IGPS 级，SFP 上行与它的收发器主业天然搭配；工业 4×GE + 2×SFP 非管理（STI-240GE，$28.0）对位 IGS-510TF（2240 NOK）",
-  "PLANET 侧预案（并档，不从本仓发）：工业 8×GE PoE+ + 2 SFP 管理 vs PLANET IGS-10020 级 / ORing IGPS 级；EXW",
-  "样机：1 台到 Oslo 仓做入库测试（其有 ISO 9001 流程）"
+  "官网：Компания Клеверкей РУ CleverKey предлагает серверное оборудование, сетевую инфраструктуру, системы хранения；站内品牌 Ruijie / Extreme / Juniper / Cisco / Huawei / H3C / Allied Telesis；页面 /catalog/hp/serveri-hp",
+  "表内：有很多知名小品牌的"
  ],
  "risks": [
-  "PLANET 类目哪些 SKU 真有库存（默认只列在库品，价格多需登录）；工业/PoE 的终端客群（offshore / infrastruktur？）；Forsvar（国防）方案占比（守界）；选品负责人；Mikrotik 仓 B-517 首触是否已发（本仓不发）",
-  "Planet 首触邮件未发送（Elsa 账号待定）",
-  "Saga 群发已推送 15 次无回复 → 改用具名收件人与新钩子（勿再用群发模板）"
+  "俄罗斯：结算/物流/合规风险；品牌经销导向（白牌契合度低）；未跟进过，仅 mail@"
  ],
  "saga_fit": {
-  "p1": "STI-288GPM",
+  "p1": "STC-424XGGM",
   "tier": 20,
-  "why": "其 PLANET 类目筛选 PoE PSE 17 件 + DIN 导轨 13 件 → 工业 PoE 管理型是其 PLANET 侧主量；STI-288GPM（8×GE PoE+ + 2×SFP，L2 管理，-40~75°C）同时对位 PLANET IGS-10020 级与 ORing IGPS-9084 级；分销/网店 → 20%（沿用 Planet 档案 PB-073）；需求："
+  "why": "品牌经销（Ruijie/H3C 等）→ 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）/ PoE 版 STC-424XGGPM-280W（$180）作白牌预算位"
  },
- "email_hook": "Your active-equipment shelf already carries both PLANET industrial/PoE units and ORing; a Marvell-based industrial PoE line with SFP uplinks at EXW gives you a third price point in the same DIN-rail slot, and it pairs with your transceiver business. For the industrial PoE DIN-rail units you list under PLANET and ORing, is the demand mostly 8-port Gigabit PoE+ with two SFP uplinks, or are customers asking for 10G SFP+ uplinks now?",
+ "email_hook": "Alongside the Ruijie and H3C switches you resell, we supply neutral-brand Marvell-based 24-GE + 4×10G L2+ (PoE 280 W option) and 8-PoE + 2 SFP models from small lots, CE/RoHS; EAC by your side — is there a price band your SMB customers ask for below the branded lines?",
  "mail_review": {
   "binding": {
-   "level": "读而不回（A/S 邮箱 24 封 2024→2026，其中 2 封被打开，0 回；收件 jonkjetilgrimsrud@gmail.com, roger@fiberworks.no；被打开主题「Industrial PoE Switch、24 Port PoE Managed Switch」；Elsa 箱：`to:fiberworks.no OR to:fiberworks.net` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 24 / 来 0）（第 74 批(k)））",
-   "type": "—",
-   "sieve": "2（有人在读，无人回）",
-   "stop": "读而不回 = 内容未命中或没有当下需求；Q-33 供应商渠道客户",
-   "revive": "不动（Q-33）",
-   "lane": "挪威（欧洲全域主攻）",
-   "cadence": "不动",
-   "evidence": "gmail_digest：out 24，Opened 标签 2（Simon 群发追踪）；研究档 risks：PLANET 类目哪些 SKU 真有库存（默认只列在库品，价格多需登录）；工业/PoE 的终端客群（offshore / infrastruktur？）；For"
+   "level": "未触达（A 邮箱 6 封 2025→2026，无记录打开，0 回；收件 mail@cleverkey.ru；主题多为「Marvell Industrial Alert System、OEM Core Switching Solution」；Elsa 箱：`to:cleverkey.ru` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 6 / 来 0）（第 74 批(l)））",
+   "type": "IT 设备经销商（俄罗斯，品牌导向）",
+   "sieve": "1（只收到群发）",
+   "stop": "只打通用邮箱，无记录打开",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "RU 次级（Simon 2026-08 点名）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 6；用户表：「有很多知名小品牌的」；研究档 risks：俄罗斯：结算/物流/合规风险；品牌经销导向（白牌契合度低）；未跟进过，仅 mail@"
   },
-  "situation": "奥斯陆一家光纤产品专业分销商（收发器/WDM/光缆/仪表），有源设备货架同时上 PLANET 全线（9 子类）与 ORing 工业交换机。类型：分销/网店（光纤网络产品专业分销：收发器 / WDM / 光缆 / 仪表 + 有源设备；有源类目下「PLANET nettverksprodukter」独立类目 9 子类 + 「ORing Industrial Switches」类目；ISO 9001:2015 / 14001:2015；Org. nr. 959 977 046）。信号：fiberworks.no 「PLANET nettverksprodukter」类目（筛选：PoE output (PSE) 17 件、For DIN-skinne 13 件、Industriell temp. 2 件）；商品页 IGS-510TF（Product nr MC-PLANET-IGS-510TF，2",
-  "need": "其 PLANET 类目筛选 PoE PSE 17 件 + DIN 导轨 13 件 → 工业 PoE 管理型是其 PLANET 侧主量；STI-288GPM（8×GE PoE+ + 2×SFP，L2 管理，-40~75°C）同时对位 PLANET IGS-10020 级与 ORing IGPS-9084 级；分销/网店 → 20%（沿用 Planet 档案 PB-073）；需求：",
-  "breakpoint": "PLANET 类目哪些 SKU 真有库存（默认只列在库品，价格多需登录）；工业/PoE 的终端客群（offshore / infrastruktur？）；Forsvar（国防）方案占比（守界）；选品负责人；Mikrotik 仓 B-517 首触是否已发（本仓不发）",
+  "situation": "俄罗斯 CleverKey Ру（服务器/存储/网络设备经销：HP、Cisco、Huawei、H3C、Ruijie、Extreme、Juniper、Allied Telesis；表内「有很多知名小品牌的」）；表内未跟进。",
+  "need": "品牌经销（Ruijie/H3C 等）→ 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）/ PoE 版 STC-424XGGPM-280W（$180）作白牌预算位",
+  "breakpoint": "俄罗斯：结算/物流/合规风险；品牌经销导向（白牌契合度低）；未跟进过，仅 mail@",
   "saga_now": {
-   "p1": "STI-288GPM",
+   "p1": "STC-424XGGM",
    "tier": 20,
-   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-23 $65（10G media converter）、2024-12-27 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-10-10 $180（24 Port PoE Managed Switch = STC-424XGGPM-280W，Alan 2026-09-21 起的现价轮）——同款信稿只能写 $180；群发里他已看到的价（续）：2026-07-27 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-08 $280（10G Enterprise SFP Switch）、2026-06-17 $16000（32 Port 400GB DC Switch）",
-   "why": "其 PLANET 类目筛选 PoE PSE 17 件 + DIN 导轨 13 件 → 工业 PoE 管理型是其 PLANET 侧主量；STI-288GPM（8×GE PoE+ + 2×SFP，L2 管理，-40~75°C）同时对位 PLANET IGS-10020 级与 ORing IGPS-9084 级；分销/网店 → 20%（沿用 Planet 档案 PB-073）；需求：。已打开的主题（2/24 封有打开记录）：「8 port poe switch」(2024-08-05)、「90W PoE Managed Switch」(2025-09-04) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-09-04 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170（㉕ ②：STC-424XGGPM-280W / STC-448XGGPM 文本价改为群发现价 $180 / $335；第 75 批 2026-10-25）",
+   "why": "品牌经销（Ruijie/H3C 等）→ 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）/ PoE 版 STC-424XGGPM-280W（$180）作白牌预算位",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—",
-   "one_question": ""
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Alongside the Ruijie and H3C switches you resell, we supply neutral-brand Marvell-based 24-GE + 4×10G L2+ (PoE 280 W option) and 8-PoE + 2 SFP models from small lots, CE/RoHS; EAC by your side — is there a price band your SMB customers ask for below the branded lines?"
   },
   "facts": [
    {
-    "date": "2026-10-10",
+    "date": "2026-09-04",
     "dir": "去",
-    "who": "A/S 群发",
-    "quote": "Industrial PoE Switch、24 Port PoE Managed Switch",
-    "why": "24 封 / 2 次打开 / 0 回｜首封 2024-07-05 → 末封 2026-10-10（24 去 / 0 来）",
+    "who": "A 群发",
+    "quote": "Marvell Industrial Alert System、OEM Core Switching Solution",
+    "why": "6 封 / 0 次打开 / 0 回｜首封 2025-12-15 → 末封 2026-09-04（6 去 / 0 来）",
     "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "有很多知名小品牌的",
+    "why": "表内备注",
+    "k": "用户表"
    }
   ],
   "proof_gaps": [],

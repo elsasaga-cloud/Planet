@@ -1,0 +1,59 @@
+{
+ "code": "SC-170",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "快照失败（http_error）",
+ "summary": "塞内加尔 SynchubsHVSS SAS（synchubs.net；自建站询盘「1G 电口模块」（SFP 电口模块，Saga 不供）；KP Henry Okoroafor；官网 http_error）；表内未跟进。",
+ "type": "IT 公司（塞内加尔，SFP 模块询盘）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "1G电口模块 / from: 自建站",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "1G 电口模块询盘",
+   "quote": "1G电口模块 / from: 自建站",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "区域外且品类不供；c_sub=区域外/品类不符",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "塞内加尔",
+  "other": "官网 synchubs.net，语言 ?，快照状态 http_error；角色判定来源：待核"
+ },
+ "business_lines": [
+  "IT（塞内加尔）"
+ ],
+ "channels": {
+  "role": "IT 公司（塞内加尔，SFP 模块询盘）",
+  "region": "塞内加尔",
+  "contact": "henry@synchubs.net"
+ },
+ "signals": [
+  "表内：1G 电口模块 / from: 自建站；KP Mr.Henry Okoroafor",
+  "快照：http_error"
+ ],
+ "risks": [
+  "区域外（塞内加尔）；SFP 模块品类 Saga 不供（Q-32）；官网 http_error"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 20,
+  "why": "区域外、询盘品类 SFP 电口模块（Saga 不供）→ 改 C"
+ },
+ "email_hook": "（不发送：区域外/品类）"
+}

@@ -1,186 +1,144 @@
 {
   "code": "SB-874",
-  "name_official": "Vulsan X Sdn Bhd（马来西亚）",
+  "name_official": "",
   "researched_at": "2026-10-21",
-  "website_status": "在线（vulsanx.com，快照 2026-10-21）",
-  "summary": "马来西亚网络安全公司 Vulsan X（Kepayang/Seremban，+60 6 851 5911），OSINT 研究员 Annamery Raja：问 PoE 交换机，在用知名品牌，主要 24/48 口，4/8 口用得少；无跟进。安全公司硬件量小。",
-  "type": "",
+  "website_status": "在线（keno-cctv.ru，快照 2026-10-21）",
+  "summary": "俄罗斯 Keno（keno-cctv.ru / fox-cctv.ru：CCTV 品牌，KN-PRO8/16/32 NVR、KN-J34T 等；表内「商业 PoE 自己的 logo，主要是 CCTV；很多都是 ONV 的；有人卖他们的，看着像新桥的」）；表内未跟进。",
+  "type": "俄罗斯 CCTV 品牌商（自有标 PoE，现 ONV/新桥）",
   "size": "",
-  "brands_seen": [],
+  "brands_seen": [
+    "ONV"
+  ],
   "evidence": [
     {
       "kind": "官网快照",
-      "claim": "Vulsan X – Cyber Security Expert；infosec@vulsanx.com；+606 851 5911",
-      "quote": "Vulsan X – Cyber Security Expert",
-      "url": "https://vulsanx.com/",
+      "claim": "官网标题：Keno；品类词 安防监控（CCTV / 门禁） / 网络交换 / PoE",
+      "quote": "",
+      "url": "https://keno-cctv.ru/",
       "date": "2026-10-21"
     },
     {
       "kind": "用户表",
-      "claim": "问了 POE switch，在用有名的牌子，主要是 24 48 口，4 8 口用得少；地址 No 59-1 & 59-2 Jalan MPK, Medan Perdagangan Kepayang",
-      "quote": "兴趣：问了POE switch,在用一些有名的牌子 主要是用24 48口的 4 8口的用的比较少",
+      "claim": "表内兴趣/备注",
+      "quote": "商业POE 自己的logo 主要是CCTV类产品；商业POE 自己的logo 有人卖他们的 看着像新桥的",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "Keno 站点型号",
+      "quote": "Keno - Главная ; KN-PRO16 ; KN-PRO32 ; KN-J34T",
+      "url": "https://keno-cctv.ru/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "自己的 logo；ONV/新桥",
+      "quote": "商业POE 自己的logo 主要是CCTV类产品；很多都是ONV的；有人卖他们的 看着像新桥的",
       "url": "（本地 Clients/ 表格，无公开 URL）",
       "date": "2026-10-21"
     }
   ],
-  "kp": [
-    {
-      "name": "Annamery Raja",
-      "title": "OSINT Researcher",
-      "email": "mery@vulsanx.com",
-      "phone": "+60 11 5652 8663",
-      "source": "（本地 Clients/ 表格，无公开 URL）"
-    }
-  ],
+  "kp": [],
   "grade_override": null,
   "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
   "deep": {
     "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（官网快照 + 表内）"
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
   },
   "company_facts": {
-    "legal_name": "Vulsan X Sdn Bhd",
-    "founded": "（待核）",
-    "hq": "Seremban, Negeri Sembilan, Malaysia",
-    "size": "小型网络安全公司",
-    "other": ""
+    "hq": "俄罗斯",
+    "other": "官网 keno-cctv.ru，语言 ru，快照状态 ok；角色判定来源：用户表"
   },
   "business_lines": [
-    "网络安全服务"
+    "CCTV / NVR / PoE（自有品牌 Keno）"
   ],
   "channels": {
-    "role": "安全服务商（项目配套）",
-    "region": "马来西亚"
+    "role": "俄罗斯 CCTV 品牌商（自有标 PoE，现 ONV/新桥）",
+    "region": "俄罗斯",
+    "contact": "info@keno-cctv.ru"
   },
+  "signals": [
+    "站内 KN-PRO16 / KN-PRO32 / KN-J34T / KN-PRO8 / KN-100Q；kw cctv 15 / poe 5",
+    "表内：商业 PoE 自己的 logo 主要是 CCTV 类产品；很多都是 ONV 的；有人卖他们的 看着像新桥的"
+  ],
   "risks": [
-    "硬件非主业；品牌偏好"
+    "俄罗斯：结算/物流/合规风险（EAC 由客户申报）；现供 ONV/新桥（深圳）价格基准低",
+    "未跟进过，仅 info@"
   ],
   "saga_fit": {
-    "p1": "STC-424DGGPM-280W",
-    "tier": 25,
-    "why": "24 口 PoE 主用 → STC-424DGGPM-280W（$140.1 @25%）；48 口 STC-448DGGPM。"
+    "p1": "STC-28DGGPM",
+    "tier": 30,
+    "why": "自有 Keno 标商用 PoE（现 ONV/新桥）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；非管理 8/16 PoE 位 HRUI STC-028GP / STC-2216GPM（列表价，注明）"
   },
-  "email_hook": "Annamery, for the 24/48-port PoE sizes you use — Marvell L2+ 24-PoE at $140 and 48-PoE at $321 EXW; if a client project allows a non-big-brand switch, I can send 1 unit for your lab first.",
+  "email_hook": "For the Keno-branded PoE switches bundled with your NVRs and cameras, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 16/24-PoE) in your packaging from small lots, CE/RoHS; EAC by your side — which port count do your dealers order most?",
   "mail_review": {
     "binding": {
-      "level": "未触达（S 邮箱 9 封 2024→2025，1 次记录打开，0 回；收件 mery@vulsanx.com；主题多为「PoE switch、48 port managed switch」）；Elsa 群发 BCC 已触达 7 轮 2025-04-12→2026-09-08（锚 To desmond@multitradepac.com 7 轮 2025-04-12→2026-09-08；本户在 Bcc；主题 48 Port PoE Managed Switch、10G Enterprise SFP Switch、Industrial PoE Switch、24 Port PoE Managed Switch…；0 回（Elsa 箱 Replied 索引 + 第 73 批真人来信逐户比对均无此户）；S/A digest 看不到 Elsa 的去信，之前据此写的「未触达」是 S/A 口径）（第 74 批(n) `from:e.sagatelecom to:vulsanx.com` 全程 complete：命中 7 行、To 均为锚地址 ⇒ 本户在锚的 Bcc 名单）",
-      "type": "—",
-      "sieve": "1~2（1 次打开）",
-      "stop": "9 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-      "revive": "保持季度群发到 2027-Q1；无打开即停",
-      "lane": "马来西亚 非主攻",
-      "cadence": "季度",
-      "evidence": "gmail_digest：out 9，Opened 标签 1（Simon 群发追踪）；用户表：「兴趣：问了POE switch,在用一些有名的牌子 主要是用24 48口的 4 8口的用的比较少」；研究档 risks：硬件非主业；品牌偏好"
+      "level": "Elsa 群发 BCC 已触达 2026-08-26「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，俄罗斯-4（锚 soyuzsp.ru；2025-02-20 起月轮，13 轮） 批次 To sales@soyuzsp.ru，首见 2025-12-15，0 回（第 74 批 Bcc 头核对 msg 1a03cf9d14adefe7）；S/A 箱：S/A 邮箱均无往来；来源：用户表「商业POE 自己的logo 主要是CCTV类产品；商业POE 自己的logo 有人卖他们的 看着像新桥的」）",
+      "type": "俄罗斯 CCTV 品牌商（自有标 PoE，现 ONV/新桥）",
+      "sieve": "—（未入筛）",
+      "stop": "从未触达",
+      "revive": "不动（Q-33 供应商渠道客户）",
+      "lane": "RU 次级（Simon 2026-08 点名）",
+      "cadence": "不动",
+      "evidence": "gmail_digest：out 0；用户表：「商业POE 自己的logo 主要是CCTV类产品；商业POE 自己的logo 有人卖他们的 看着像新桥的」；研究档 risks：俄罗斯：结算/物流/合规风险（EAC 由客户申报）；现供 ONV/新桥（深圳）价格基准低；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To sales@soyuzsp.ru）2025-12-15→2026-08-26 共 5 轮群发（Booster PoE Switch、OEM Core Switching Solution、Updated Ethernet Switches Links、Marvell Managed Commercial Switches、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断；该批次最早 2025-02-20 起共 13 轮，更早轮次 Bcc 未读；同批次（To sales@cmd-sec.ru）2026-01-22→2026-08-26 共 5 轮群发（OEM Core Switching Solution、Updated Ethernet Switches Links、Industrial PoE Switch、10G Enterprise SFP Switch、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断；该批次最早 2025-02-21 起共 15 轮，更早轮次 Bcc 未读"
     },
-    "situation": "马来西亚网络安全公司 Vulsan X（Kepayang/Seremban，+60 6 851 5911），OSINT 研究员 Annamery Raja：问 PoE 交换机，在用知名品牌，主要 24/48 口，4/8 口用得少；无跟进。安全公司硬件量小。",
-    "need": "24 口 PoE 主用 → STC-424DGGPM-280W（$140.1 @25%）；48 口 STC-448DGGPM。",
-    "breakpoint": "硬件非主业；品牌偏好",
+    "situation": "俄罗斯 Keno（keno-cctv.ru / fox-cctv.ru：CCTV 品牌，KN-PRO8/16/32 NVR、KN-J34T 等；表内「商业 PoE 自己的 logo，主要是 CCTV；很多都是 ONV 的；有人卖他们的，看着像新桥的」）；表内未跟进。",
+    "need": "自有 Keno 标商用 PoE（现 ONV/新桥）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；非管理 8/16 PoE 位 HRUI STC-028GP / STC-2216GPM（列表价，注明）",
+    "breakpoint": "俄罗斯：结算/物流/合规风险（EAC 由客户申报）；现供 ONV/新桥（深圳）价格基准低",
     "saga_now": {
-      "p1": "STC-424DGGPM-280W",
-      "tier": 25,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-10 $220（48 port managed switch）、2024-08-07 $65（10G fiber media converter）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-04-12 $240（24 Port Fiber Switch = STC-4168XGGCM 单 AC 稿，Elsa 箱 1 轮 2025-04-12；同款 2025-09 起群发 $280（双 AC 稿）——再提这款说 $280）；2025-07-04 $300（48 Port PoE Managed Switch = STC-448XGGPM，Elsa 箱 1 轮 2025-07-04；现表 $335.4@20%、Drive 老表 $335——同款写 $335 要先说 2025 群发是 $300、汇率 7.2→6.7）；2025-10-06 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2025-10-06；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-09-08 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-08；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
-      "why": "24 口 PoE 主用 → STC-424DGGPM-280W（$140.1 @25%）；48 口 STC-448DGGPM。已打开的主题（1/9 封有打开记录）：「24 port poe switch」(2024-09-03) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
+      "p1": "STC-28DGGPM",
+      "tier": 30,
+      "price": "按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-26 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-26；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
+      "why": "自有 Keno 标商用 PoE（现 ONV/新桥）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；非管理 8/16 PoE 位 HRUI STC-028GP / STC-2216GPM（列表价，注明）",
       "repeat": [],
       "gaps": []
     },
     "next_move": {
-      "when": "群发节奏",
-      "channel": "A 邮箱",
-      "action": "首封前知悉：Elsa 群发 BCC 已触达 7 轮（2025-04-12→2026-09-08，锚 To desmond@multitradepac.com，0 回）（第 74 批(n)）；观察打开",
-      "one_question": "Annamery, for the 24/48-port PoE sizes you use — Marvell L2+ 24-PoE at $140 and 48-PoE at $321 EXW; if a client project allows a non-big-brand switch, I can send 1 unit for your lab first."
+      "when": "不动",
+      "channel": "—",
+      "action": "—",
+      "one_question": ""
     },
     "facts": [
       {
-        "date": "2023-07-01",
-        "dir": "备",
-        "who": "Saga 内部马来西亚线索表 Client_List_待决定.xlsx（XSPec/Sugito 文件夹）",
-        "quote": "名单行：「25 www.vulsanx.com Annamery Raja Osint Researcher Mitec 2023 问了POE switch,在用一些有名的牌子 主要是用24 48口的 4 8口的用的比较少 公司地址：No 59-1 & 59-2 Jalan MPK了,Medan Perdagangan Kepayang,70200 Seremban, Negeri Sembilar mery@vulsanx.com 6011-5」",
-        "why": "Saga 自己的线索表里对本户的一手备注（来源/兴趣点/是否已加 WhatsApp/展会现场对话）（名单无日期；条目为 Mitec 2023 展会现场记录，按 2023-07 归期）——比群发打开率更硬的证据；写下一封邮件时直接引用这里的兴趣点；Mitec 2023 现场见过面 = 可用「we met at MITEC 2023」开头",
-        "k": "Drive PI 文件夹 9_马来西亚_Sugito"
+        "date": "2025-12-15",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To sales@soyuzsp.ru，俄罗斯-4（锚 soyuzsp.ru；2025-02-20 起月轮，13 轮） 批次）",
+        "quote": "Booster PoE Switch — This is about our Marvell based managed switch with power boosting feature. 1, Fiber: 4*100M/1G/2.5G/10G 2, Copper: 8*1G RJ45/PoE, max 240W budget 3, ",
+        "why": "Elsa 箱群发 BCC 触达证据（命中地址 info@keno-cctv.ru, keno-cctv.ru）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+        "k": "elsa_bcc"
       },
       {
-        "date": "2025-01-22",
+        "date": "2026-01-22",
         "dir": "去",
-        "who": "S 群发",
-        "quote": "PoE switch、48 port managed switch",
-        "why": "9 封 / 1 次打开 / 0 回｜首封 2024-06-14 → 末封 2025-01-22（9 去 / 0 来）",
-        "k": "gmail_digest"
+        "who": "Elsa 群发（BCC；To sales@cmd-sec.ru，俄罗斯-3（锚 cmd-sec.ru；2025-02-21 起月轮，15 轮） 批次）",
+        "quote": "OEM Core Switching Solution — I am introducing our CENTEC-based core and aggregation switches. 1, A cost-effective alternative to Cisco or Huawei models 2, Multiple models(10G~800G",
+        "why": "Elsa 箱群发 BCC 触达证据（命中地址 info@keno-cctv.ru, keno-cctv.ru）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+        "k": "elsa_bcc"
       },
       {
-        "date": "2025-04-12",
+        "date": "2026-08-26",
         "dir": "去",
-        "who": "Elsa 群发（BCC；To desmond@multitradepac.com）",
-        "quote": "24 Port Fiber Switch（Elsa 群发第 1/7 轮；本户在 Bcc，锚 To desmond@multitradepac.com；正文价 240usd/pc，第 74 批(p) 读稿 msg 19628286dc08373a / 19874a707c2ed712）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:vulsanx.com` 命中行 To=desmond@multitradepac.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
-        "k": "elsa_bcc",
-        "msg_id": "19628286dc08373a"
-      },
-      {
-        "date": "2025-05-04",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To desmond@multitradepac.com）",
-        "quote": "8 Port Industrial PoE Switch（Elsa 群发第 2/7 轮；本户在 Bcc，锚 To desmond@multitradepac.com）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:vulsanx.com` 命中行 To=desmond@multitradepac.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
-        "k": "elsa_bcc",
-        "msg_id": "19699410e40c0aa2"
-      },
-      {
-        "date": "2025-06-05",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To desmond@multitradepac.com）",
-        "quote": "Mini Industrial PoE Switch（Elsa 群发第 3/7 轮；本户在 Bcc，锚 To desmond@multitradepac.com）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:vulsanx.com` 命中行 To=desmond@multitradepac.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
-        "k": "elsa_bcc",
-        "msg_id": "1973ef1711c6bc51"
-      },
-      {
-        "date": "2025-07-04",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To desmond@multitradepac.com）",
-        "quote": "48 Port PoE Managed Switch（Elsa 群发第 4/7 轮；本户在 Bcc，锚 To desmond@multitradepac.com；正文价 300usd/pc，第 74 批(p) 读稿 msg 194eff1f9bf46879 / 1973a613b8166b58）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:vulsanx.com` 命中行 To=desmond@multitradepac.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
-        "k": "elsa_bcc",
-        "msg_id": "197d3e094a95cda2"
-      },
-      {
-        "date": "2025-10-06",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To desmond@multitradepac.com）",
-        "quote": "10G Enterprise SFP Switch（Elsa 群发第 5/7 轮；本户在 Bcc，锚 To desmond@multitradepac.com；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:vulsanx.com` 命中行 To=desmond@multitradepac.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
-        "k": "elsa_bcc",
-        "msg_id": "199b78040ff23e1c"
-      },
-      {
-        "date": "2025-11-19",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To desmond@multitradepac.com）",
-        "quote": "Industrial PoE Switch（Elsa 群发第 6/7 轮；本户在 Bcc，锚 To desmond@multitradepac.com）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:vulsanx.com` 命中行 To=desmond@multitradepac.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
-        "k": "elsa_bcc",
-        "msg_id": "19a9a0dfef96747f"
-      },
-      {
-        "date": "2026-09-08",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To desmond@multitradepac.com）",
-        "quote": "24 Port PoE Managed Switch（Elsa 群发第 7/7 轮；本户在 Bcc，锚 To desmond@multitradepac.com；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:vulsanx.com` 命中行 To=desmond@multitradepac.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
-        "k": "elsa_bcc",
-        "msg_id": "1a07f2e0ee8e17c2"
+        "who": "Elsa 群发（BCC；To sales@cmd-sec.ru，俄罗斯-3（锚 cmd-sec.ru；2025-02-21 起月轮，15 轮） 批次）",
+        "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
+        "why": "Elsa 箱群发 BCC 触达证据（命中地址 info@keno-cctv.ru, keno-cctv.ru）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+        "k": "elsa_bcc"
       },
       {
         "date": "2026-10-21",
         "dir": "用户表",
         "who": "Simon",
-        "quote": "兴趣：问了POE switch,在用一些有名的牌子 主要是用24 48口的 4 8口的用的比较少",
+        "quote": "商业POE 自己的logo 主要是CCTV类产品；商业POE 自己的logo 有人卖他们的 看着像新桥的",
         "why": "表内备注",
         "k": "用户表"
       }
     ],
-    "proof_gaps": [],
+    "proof_gaps": [
+      "无邮件往来"
+    ],
     "draft_en": null,
-    "as_of": "2026-10-24"
+    "as_of": "2026-10-25"
   }
 }

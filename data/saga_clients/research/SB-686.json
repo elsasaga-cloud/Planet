@@ -1,124 +1,124 @@
 {
  "code": "SB-686",
- "name_official": "",
+ "name_official": "Tek Nokta Destek Güvenlik Sistemleri（İnegöl/Bursa, TR；teknoktadestek.com）",
  "researched_at": "2026-10-21",
- "website_status": "在线（atelekom.com.tr，快照 2026-10-21）",
- "summary": "土耳其 A Telekomünikasyon（弱电方案：Siemens / Karel 电话交换机、Hikvision 安防（Hikvision 259：DS-3E2528P-H / DS-3E0505P-E PoE 交换机）、对讲、视频会议；表内无兴趣记录）；表内 1 次跟进无回复。",
- "type": "弱电方案商/经销（土耳其，Hikvision 为主）",
+ "website_status": "在线（含网店）",
+ "summary": "布尔萨 İnegöl 的安防与网络方案商 Tek Nokta Destek（CCTV、防盗报警、智能家居、网络；自述 11 个全球品牌、500+ 产品、120+ 品类；勘察-安装-服务一站式，面向全国供货；Fatih Mh. Kıvırcık Sk. No:9/1 İnegöl；+90 224 719 08 00；GSM/WhatsApp +90 532 315 72 58；info@teknoktadestek.com）。ISAF 记录：Rıfat Bende（站内社媒为 Rıfat Yıldız——姓氏待核）拿了彩页、没说什么；WhatsApp 已加（号码与官网 GSM 一致）；无后续跟进。",
+ "type": "",
  "size": "",
- "brands_seen": [
-  "Hikvision",
-  "Ruijie",
-  "Bosch",
-  "Siemens",
-  "Karel"
- ],
+ "brands_seen": [],
  "evidence": [
   {
-   "kind": "官网快照",
-   "claim": "官网标题：A Telekomünikasyon | Zayıf Akımda En İyi Çözüm；品类词 安防监控（CCTV / 门禁） / 无线 / WiFi / 网络交换 / PoE",
-   "quote": "A Telekomünikasyon, Siemens, Karel ve Hikvision gibi markaların telefon santralleri ile Hikvision güvenlik teknolojilerini sunan öncü bir firmadır.",
-   "url": "https://atelekom.com.tr/",
+   "kind": "官网",
+   "claim": "业务与地址",
+   "quote": "Tek Nokta Destek Güvenlik Sistemleri … İnegöl/Bursa merkezli güvenlik ve ağ çözümleri: kamera sistemleri, hırsız alarmı, akıllı ev, network. 11 global marka, keşif-kurulum-servis tek noktada. Türkiye geneline tedarik. … Fatih Mh. Kıvırcık Sk. No:9/1 İnegöl / Bursa 0 224 719 0 800 … info@teknoktadestek.com",
+   "url": "https://teknoktadestek.com/",
    "date": "2026-10-21"
   },
   {
-   "kind": "官网快照",
-   "claim": "A Telekomünikasyon 弱电方案",
-   "quote": "A Telekomünikasyon, Siemens, Karel ve Hikvision gibi markaların telefon santralleri ile Hikvision güvenlik teknolojilerini sunan öncü bir firmadır.",
-   "url": "https://atelekom.com.tr/",
+   "kind": "官网",
+   "claim": "GSM/WhatsApp 与用户表号码一致",
+   "quote": "GSM / WhatsApp 0532 315 7258 … E-posta info@teknoktadestek.com",
+   "url": "https://teknoktadestek.com/index.php?route=information%2Fcontact",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "ISAF：拿彩页；WhatsApp 已加",
+   "quote": "拿了彩页，没说什么 / 90 53231 57258 已加",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Rıfat Bende（官网社媒：Rıfat Yıldız，待核）",
+   "role": "业主（推测）",
+   "email": "info@teknoktadestek.com（公开）",
+   "phone": "+90 532 315 72 58（公开，WhatsApp 已加）",
+   "source": "https://teknoktadestek.com/index.php?route=information%2Fcontact"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（官网核对）"
  },
  "company_facts": {
-  "hq": "土耳其",
-  "other": "官网 atelekom.com.tr，语言 tr，快照状态 ok；角色判定来源：官网文案"
+  "legal_name": "Tek Nokta Destek Güvenlik Sistemleri",
+  "hq": "Fatih Mh. Kıvırcık Sk. No:9/1, İnegöl / Bursa（+90 224 719 08 00；GSM +90 532 315 72 58；info@teknoktadestek.com）",
+  "size": "小型（本地 + 网店）",
+  "other": "11 个品牌、500+ 产品的网店；İnegöl = 家具产业城（工厂 CCTV 需求）"
  },
  "business_lines": [
-  "弱电方案（PBX / CCTV / 对讲 / 视频会议）"
+  "CCTV / 报警 / 智能家居安装",
+  "网络设备与安防产品网店（全国供货）"
  ],
  "channels": {
-  "role": "弱电方案商/经销（土耳其，Hikvision 为主）",
-  "region": "土耳其",
-  "contact": "info@atelekom.com.tr"
+  "网站": "https://teknoktadestek.com/",
+  "电话": "+90 224 719 08 00（公开）",
+  "WhatsApp": "+90 532 315 72 58（公开）",
+  "邮箱（公开）": "info@teknoktadestek.com"
  },
  "signals": [
-  "官网：Siemens, Karel ve Hikvision gibi markaların telefon santralleri ile Hikvision güvenlik teknolojilerini sunan",
-  "站内型号 DS-3E2528P-H / DS-3E0505P-E（Hikvision PoE）；kw hikvision 259"
+  "网店 + 安装双渠道 → 8 口 PoE 与 2 光 8 电可同时上架与自用；İnegöl 家具工厂监控 → 工业 PoE 机会"
  ],
  "risks": [
-  "Hikvision 为主：PoE 多随 Hikvision 套装（DS-3E 系列）走",
-  "土耳其：汇率敏感；无具名 KP（info@）"
+  "小型；ISAF 未表达需求；无后续跟进"
  ],
  "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 20,
-  "why": "Hikvision 套装配套 PoE（现 DS-3E 系列）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）"
+  "p1": "STC-228GP",
+  "tier": 25,
+  "why": "安装商 25% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，列表 $30.8）作网店/自装主力；工厂车间用 STI-288GP（$59.8）"
  },
- "email_hook": "For the PoE switches you install with Hikvision cameras and Karel PBX systems, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port unmanaged PoE units from small lots, CE/RoHS, EXW USD — which band do your projects use most?",
+ "email_hook": "Rıfat Bey, mağazanız ve kurulumlarınız için 2 SFP + 8 port gigabit PoE switch fiyatı 34,6 USD EXW, İnegöl'deki fabrika sahaları için DIN ray endüstriyel 8 PoE sürümü 59,8 USD — 10'ar adetlik ilk parti için teklif göndereyim mi?",
  "mail_review": {
   "binding": {
-   "level": "未触达（A 邮箱 5 封 2025→2026，无记录打开，0 回；收件 info@atelekom.com.tr；主题多为「10G Enterprise SFP Switch、Booster PoE Switch」；Elsa 箱：`to:atelekom.com.tr` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 5 / 来 0）（第 74 批(i)））",
-   "type": "弱电方案商/经销（土耳其，Hikvision 为主）",
-   "sieve": "1（只收到群发）",
-   "stop": "只打通用邮箱，无记录打开",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "TR 主攻（四主）",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 5；研究档 risks：Hikvision 为主：PoE 多随 Hikvision 套装（DS-3E 系列）走"
+   "level": "轻度触达（展会名片 + WhatsApp 已加，邮件 0 封）：用户表「拿了彩页，没说什么 / 90 53231 57258 已加」；S/A 邮箱 0 封；Elsa 箱：`to:teknoktadestek.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(i)）",
+   "type": "—",
+   "sieve": "3（已加 WhatsApp，表内有往来）",
+   "stop": "仓库只有用户表一行；往来在 Simon 手机",
+   "revive": "首封邮件（A 邮箱，按 email_hook）+ WhatsApp 一句话",
+   "lane": "土耳其 非主攻",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 0；用户表：「拿了彩页，没说什么 / 90 53231 57258 已加」；研究档 risks：小型；ISAF 未表达需求；无后续跟进"
   },
-  "situation": "土耳其 A Telekomünikasyon（弱电方案：Siemens / Karel 电话交换机、Hikvision 安防（Hikvision 259：DS-3E2528P-H / DS-3E0505P-E PoE 交换机）、对讲、视频会议；表内无兴趣记录）；表内 1 次跟进无回复。",
-  "need": "Hikvision 套装配套 PoE（现 DS-3E 系列）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）",
-  "breakpoint": "Hikvision 为主：PoE 多随 Hikvision 套装（DS-3E 系列）走",
+  "situation": "布尔萨 İnegöl 的安防与网络方案商 Tek Nokta Destek（CCTV、防盗报警、智能家居、网络；自述 11 个全球品牌、500+ 产品、120+ 品类；勘察-安装-服务一站式，面向全国供货；Fatih Mh. Kıvırcık Sk. No:9/1 İnegöl；+90 224 719 08 00；GSM/WhatsApp +90 532 315 72 58；info@teknoktadestek.com）。ISAF 记录：Rıfat Bende（站内社媒为 Rıfat Yıldız——姓氏待核）拿了彩页、没说什么；WhatsApp 已加（号码与官网 GSM 一致）；无后续跟进。",
+  "need": "安装商 25% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，列表 $30.8）作网店/自装主力；工厂车间用 STI-288GP（$59.8）",
+  "breakpoint": "小型；ISAF 未表达需求；无后续跟进",
   "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 20,
-   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-30 $280（10G Enterprise SFP Switch）",
-   "why": "Hikvision 套装配套 PoE（现 DS-3E 系列）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）",
+   "p1": "STC-228GP",
+   "tier": 25,
+   "price": "Realtek 线按 HRUI 2026-09-30 进价 +25% 现算（Q-47 默认，不用 Drive 旧表价）：STC-228GP $30.8→$34.6；按主表（研究档 saga_fit）",
+   "why": "安装商 25% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，列表 $30.8）作网店/自装主力；工厂车间用 STI-288GP（$59.8）",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
-   "one_question": "For the PoE switches you install with Hikvision cameras and Karel PBX systems, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port unmanaged PoE units from small lots, CE/RoHS, EXW USD — which band do your projects use most?"
+   "when": "2026-11（Simon）",
+   "channel": "A 邮箱首封 + WhatsApp（Simon）",
+   "action": "首封 + 一句话",
+   "one_question": "Rıfat Bey, mağazanız ve kurulumlarınız için 2 SFP + 8 port gigabit PoE switch fiyatı 34,6 USD EXW, İnegöl'deki fabrika sahaları için DIN ray endüstriyel 8 PoE sürümü 59,8 USD — 10'ar adetlik ilk parti için teklif göndereyim mi?"
   },
   "facts": [
    {
-    "date": "2025-10-30",
-    "dir": "去",
-    "who": "A 箱（Alan）",
-    "quote": "10G Enterprise SFP Switch",
-    "why": "首封去信（邮箱索引；去信共 5 封）",
-    "k": "bd84a89f43da79c4"
-   },
-   {
-    "date": "2026-03-11",
-    "dir": "去",
-    "who": "A 群发",
-    "quote": "10G Enterprise SFP Switch、Booster PoE Switch",
-    "why": "5 封 / 0 次打开 / 0 回｜首封 2025-10-30 → 末封 2026-03-11（5 去 / 0 来）",
-    "k": "gmail_digest"
-   },
-   {
-    "date": "2026-03-11",
-    "dir": "去",
-    "who": "A 箱（Alan）",
-    "quote": "Updated Ethernet Switches Links",
-    "why": "最近一封去信（邮箱索引；去信共 5 封）",
-    "k": "f1a2fef21eb60ac3"
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "拿了彩页，没说什么 / 90 53231 57258 已加",
+    "why": "表内备注",
+    "k": "用户表"
    }
   ],
-  "proof_gaps": [],
-  "draft_en": null,
+  "proof_gaps": [
+   "WhatsApp 往来未入库"
+  ],
+  "draft_en": {
+   "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+   "body": "Rıfat Bey, mağazanız ve kurulumlarınız için 2 SFP + 8 port gigabit PoE switch fiyatı 34,6 USD EXW, İnegöl'deki fabrika sahaları için DIN ray endüstriyel 8 PoE sürümü 59,8 USD — 10'ar adetlik ilk parti için teklif göndereyim mi?"
+  },
   "as_of": "2026-10-24"
  }
 }

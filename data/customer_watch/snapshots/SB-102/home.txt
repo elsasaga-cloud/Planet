@@ -1,491 +1,72 @@
-# SB-102 consteel-electronics.com · home · https://consteel-electronics.com/ · fetched 2026-10-25T07:41:18Z · HTTP 200
-Automatyka i elektronika przemysłowa - CONSTEEL Electronics
-Menu
-Twój koszyk
-Usługi
-E-katalogi
-O firmie
-Ceny i waluty
-Metody płatności
-Regulamin
-Koszty wysyłki i odbiór osobisty
-Serwis
-Misja Diplomatic Council
-Polski
-English
-Español
-Polski
-zł
-Złoty
-PLN
-€
-Euro
-EUR
-$
-US Dollar
-USD
-zł
-Złoty
-PLN
-+48 58 380 36 44 Zadzwoń do eksperta
-Kontakt e-mail Napisz do nas
-Tańszy zamiennik Dobierz odpowiednik specyfikacja 1:1
-Darmowe testy Przetestuj przed zakupem
-Blog Artykuły techniczne
-CZEGO SZUKASZ?
-Switche przemysłowe
-Niezarządzalne
-Zarządzalne
-Kolejowe
-Światłowodowe
-PoE
-IEC 61850
-Embedded
-Urządzenia bezprzewodowe
-Routery
-Modemy
-Wi-Fi
-Komputery przemysłowe
-Box PC
-Karty PCI
-Wyświetlanie
-PC panelowe
-Monitory
-HMI
-Klawiatury
-Silikonowe
-Stalowe
-Numeryczne
-Touchpady
-Trackballe
-Konwertery protokołów
-Bacnet IP
-Bacnet MSTP
-CAN
-DALI
-Devicenet
-DLMS
-EtherCAT
-Ethernet TCP
-Ethernet/IP
-HART
-IEC 61850
-IO-link
-J1939
-KNX
-LoraWan
-M-Bus
-M-Bus wireless
-Modbus RTU
-Modbus TCP
-MQTT
-NMEA 2000
-OPC UA
-OCPP
-Profibus
-Profinet
-RS-232
-RS-485
-s7comm
-SNMP
-USB
-Moduły do klimatyzatorów
-Wszystkie
-Daikin
-Hisense
-Hitachi
-LG
-Midea
-Mitsubishi
-Panasonic
-Samsung
-Toshiba
-Konwertery światłowodowe
-CAN
-Ethernet
-Profibus
-RS-232/RS-485
-Repeatery i separatory
-CAN
-M-Bus
-Profibus
-RJ-45
-RS-232
-RS-485
-Popularne
-Switche
-Routery
-Komputery
-PC panelowe
-Monitory
-Klawiatury
-Konwertery
-Bramy Modbus
-Serwery portów
-Światłowodowe
-Kontakt
-E-mail
-Login
-Logowanie
-Rejestracja
-Porównanie 0
-Polubione 0
-0 szt. - 0,00 zł
-0
-Twój koszyk jest pusty!
-Zaloguj
-Rejestracja
-Kontakt
-Blog
-0
-Odpowiadamy za rozwiązania, które rekomendujemy.
-Popularne
-Komputery panelowe
-Konwertery protokołów
-Switche przemysłowe
-Routery przemysłowe
-Serwery portów szeregowych
-Konwertery światłowodowe
-#topserwer
-Dowiedz się więcej #topserwer
-IES2100SL
-Kup teraz
-IES2100SL-5T
-Poznaj następcę IES20025
-zapisz się do newslettera
-ZNAJDŹ I ZAOSZCZĘDŹ
-Sprawdź ofertę komputerów panelowych
-Dobierz odpowiedni konwerter protokołów
-BACnet IP
-Konwerter BACnet IP – Efektywna Integracja Systemów AutomatykiK..
-Więcej
-BACnet MSTP
-Przemysłowy konwerter BACnet MSTP – uniwersalne rozwiązania dla automatyki ..
-Więcej
-CAN/CANopen
-Konwerter CAN oraz CANopen – Kompleksowe rozwiązanie dla nowoczesnych syste..
-Więcej
-DALI
-Przemysłowy konwerter DALI – Kompleksowe rozwiązanie do sterowania oświetle..
-Więcej
-DeviceNet
-Przemysłowe konwertery DeviceNet – nowoczesne rozwiązania dla automatyki pr..
-Więcej
-DLMS
-Przemysłowe konwertery DLMSTa kategoria zawiera konwertery komunikujące się..
-Więcej
-DMX
-Przemysłowe konwertery DMX512Ta kategoria zawiera konwertery komunikujące s..
-Więcej
-EnOcean
-Przemysłowe konwertery EnOceanKategoria ta obejmuje konwertery, które komun..
-Więcej
-EtherCat
-Przemysłowe konwertery EtherCat Ta kategoria zawiera konwertery komunikują..
-Więcej
-Ethernet
-Przemysłowe konwertery EthernetTa kategoria zawiera konwertery komunikujące..
-Więcej
-EtherNet/IP
-Przemysłowe konwertery Ethernet/IPTa kategoria zawiera konwertery komunikuj..
-Więcej
-HART
-Przemysłowe konwertery HARTTa kategoria zawiera konwertery komunikujące się..
-Więcej
-HTTP
-Konwertery przemysłowe HTTP umożliwiają bezpieczną i stabilną wymianę danyc..
-Więcej
-IEC 61850
-Przemysłowe konwertery IEC 61850Ta kategoria zawiera konwertery komunikując..
-Więcej
-IO-Link
-Przemysłowe konwertery IO-LinkTa kategoria zawiera konwertery komunikujące ..
-Więcej
-J1939
-Przemysłowe konwertery SAE J1939Ta kategoria zawiera konwertery komunikując..
-Więcej
-KNX
-Przemysłowe konwertery KNXTa kategoria zawiera konwertery komunikujące się ..
-Więcej
-LonWorks
-Przemysłowe konwertery LonWorksTa kategoria zawiera konwertery komunikujące..
-Więcej
-LoRaWAN
-Konwertery przemysłowe dla sieci dalekiego zasięgu LoRaWANW tej części nasz..
-Więcej
-M-Bus
-Konwertery M-Bus
-Ta kategoria zawiera konwertery posiadające interfejs M-B..
-Więcej
-M-Bus Wireless
-Przemysłowe konwertery M-Bus Wireless
-Ta kategoria zawiera bezprzewodowe k..
-Więcej
-Modbus RTU
-Przemysłowe konwertery Modbus RTU
-Ta kategoria zawiera konwertery komuniku..
-Więcej
-Modbus TCP
-Przemysłowe konwertery Modbus TCP
-Ta kategoria zawiera konwertery komuniku..
-Więcej
-MQTT
-Konwertery protokołów MQTTW tej kategorii znajdziesz przemysłowe konwertery..
-Więcej
-NMEA 2000/0183
-Przemysłowe konwertery NMEA 2000 oraz NMEA 0183Ta kategoria zawiera konwert..
-Więcej
-OCPP
-..
-Więcej
-OPC UA
-Przemysłowe konwertery OPC UAKategoria ta obejmuje konwertery OPC Unified A..
-Więcej
-PROFIBUS
-Przemysłowe konwertery PROFIBUSTa kategoria zawiera konwertery komunikujące..
-Więcej
-PROFINET
-Przemysłowe konwertery PROFINETTa kategoria zawiera konwertery komunikujące..
-Więcej
-RS-232
-Przemysłowe konwertery RS-232Ta kategoria zawiera konwertery komunikujące s..
-Więcej
-RS-422
-Przemysłowe konwertery RS-422Ta kategoria zawiera konwertery komunikujące s..
-Więcej
-RS-485
-Przemysłowe konwertery RS-485Ta kategoria zawiera konwertery komunikujące s..
-Więcej
-S7comm
-..
-Więcej
-SNMP
-Przemysłowe konwertery SNMPTa kategoria zawiera konwertery komunikujące się..
-Więcej
-TTL
-Przemysłowe konwertery TTL Ta kategoria zawiera konwertery wykorzystujące s..
-Więcej
-USB
-Przemysłowe konwertery USBTa kategoria zawiera konwertery komunikujące się ..
-Więcej
-Nowości
-Podgląd
-Nowość
-5-7 dni
-IRSC Plus – uniwersalny sterownik KNX IR do klimatyzacji split z obsługą scen Zennio
-IRSC Plus – uniwersalny sterownik KNX do klimatyzacji przez podczerwień IR.IRSC Plus firmy Zennio to uniwersalny sterownik KNX przeznaczony do int..
-838,49 zł
-Kup teraz! "> Kup teraz!
-Dodaj do listy życzeń
-Porównaj ten produkt
-Negocjuj cenę ">
-Negocjuj cenę
-Podgląd
-Nowość
-5-7 dni
-KLIC-DD v3 – bramka KNX do klimatyzacji Daikin ze złączem S21 i kontrolą nawiewu, Zennio
-KLIC-DD v3 – bramka KNX do klimatyzacji domowej Daikin ze złączem S21 i sterowaniem nawiewem.KLIC-DD v3 firmy Zennio to bramka komunikacyjna KNX p..
-812,15 zł
-Kup teraz! "> Kup teraz!
-Dodaj do listy życzeń
-Porównaj ten produkt
-Negocjuj cenę ">
-Negocjuj cenę
-Podgląd
-Nowość
-5-7 dni
-KLIC-LG1 – bramka KNX do klimatyzacji LG z interfejsem R/Y/B i 3 wejściami, Zennio
-KLIC-LG1 – bramka KNX do klimatyzacji LG z interfejsem R/Y/B i sterowaniem nawiewem.KLIC-LG1 firmy Zennio to bramka komunikacyjna KNX przeznaczona..
-812,15 zł
-Kup teraz! "> Kup teraz!
-Dodaj do listy życzeń
-Porównaj ten produkt
-Negocjuj cenę ">
-Negocjuj cenę
-Podgląd
-Nowość
-5-7 dni
-KLIC-PA – bramka KNX do klimatyzacji Panasonic z interfejsem R1/R2 i 3 wejściami Zennio
-KLIC-PA – bramka KNX do klimatyzacji Panasonic z interfejsem R1/R2 i sterowaniem nawiewem.KLIC-PA firmy Zennio to bramka komunikacyjna KNX przezna..
-812,15 zł
-Kup teraz! "> Kup teraz!
-Dodaj do listy życzeń
-Porównaj ten produkt
-Negocjuj cenę ">
-Negocjuj cenę
-Podgląd
-Nowość
-5-7 dni
-KLIC-TS – bramka KNX do klimatyzacji Toshiba z interfejsem A/B i 3 wejściami, Zennio
-KLIC-TS – bramka KNX do klimatyzacji Toshiba z interfejsem A/B i sterowaniem nawiewem.KLIC-TS firmy Zennio to bramka komunikacyjna KNX przeznaczon..
-812,15 zł
-Kup teraz! "> Kup teraz!
-Dodaj do listy życzeń
-Porównaj ten produkt
-Negocjuj cenę ">
-Negocjuj cenę
-Podgląd
-Nowość
-5-7 dni
-KLIC-FJ – bramka KNX do klimatyzacji Fujitsu, General i Hiyasu z interfejsem RWB Zennio
-KLIC-FJ – bramka KNX do klimatyzacji Fujitsu, General i Hiyasu z interfejsem RWB.KLIC-FJ firmy Zennio to bramka komunikacyjna KNX przeznaczona do ..
-812,15 zł
-Kup teraz! "> Kup teraz!
-Dodaj do listy życzeń
-Porównaj ten produkt
-Negocjuj cenę ">
-Negocjuj cenę
-Podgląd
-Nowość
-5-7 dni
-KLIC-FJT – bramka KNX do klimatyzacji Fujitsu, General i Hiyasu ze złączem CN65, Zennio
-KLIC-FJT – bramka KNX do klimatyzacji Fujitsu, General i Hiyasu z interfejsem UART CN65.KLIC-FJT firmy Zennio to bramka komunikacyjna KNX przeznac..
-812,15 zł
-Kup teraz! "> Kup teraz!
-Dodaj do listy życzeń
-Porównaj ten produkt
-Negocjuj cenę ">
-Negocjuj cenę
-Podgląd
-Nowość
-5-7 dni
-KLIC-SG – bramka KNX do klimatyzacji Samsung VRF i przemysłowej z interfejsem F3/F4, Zennio
-KLIC-SG – bramka KNX do sterowania klimatyzacją Samsung VRF przez interfejs F3/F4.KLIC-SG firmy Zennio to bramka komunikacyjna KNX przeznaczona do..
-917,51 zł
-Kup teraz! "> Kup teraz!
-Dodaj do listy życzeń
-Porównaj ten produkt
-Negocjuj cenę ">
-Negocjuj cenę
-Podgląd
-Nowość
-5-7 dni
-KLIC-MITT v3 – bramka KNX do klimatyzacji Mitsubishi Electric ze złączem CN105 i CN92
-KLIC-MITT v3 – bramka KNX do klimatyzacji Mitsubishi Electric z interfejsem IT Terminal.KLIC-MITT v3 firmy Zennio to bramka komunikacyjna KNX prze..
-812,15 zł
-Kup teraz! "> Kup teraz!
-Dodaj do listy życzeń
-Porównaj ten produkt
-Negocjuj cenę ">
-Negocjuj cenę
-Podgląd
-Nowość
-5-7 dni
-KLIC-MDI – bramka KNX do klimatyzacji Midea VRF V6 i V8 z portem X1X2, 2 wejścia, Zennio
-KLIC-MDI – bramka KNX do klimatyzacji Midea VRF z portem X1X2, sterowaniem i monitoringiem.KLIC-MDI firmy Zennio to bramka komunikacyjna KNX przez..
-917,51 zł
-Kup teraz! "> Kup teraz!
-Dodaj do listy życzeń
-Porównaj ten produkt
-Negocjuj cenę ">
-Negocjuj cenę
-Podgląd
-Nowość
-2 lata gwarancji
-3-4 dni
-HD67G33-B2 konwerter EtherNet/IP Master do HTTP/REST Server z Ethernetem RJ45 i montażem DIN
-HD67G33-B2 konwerter EtherNet/IP Master / HTTP/REST Server z Ethernetem RJ45 10/100 Mbps i montażem na szynie DIN.
-HD67G33-B2 to przemy..
-2 892,57 zł
-Kup teraz! "> Kup teraz!
-Dodaj do listy życzeń
-Porównaj ten produkt
-Negocjuj cenę ">
-Negocjuj cenę
-Podgląd
-Nowość
-2 lata gwarancji
-3-4 dni
-HD67G32-G43-VPN-B2 konwerter EtherNet/IP Master do HTTP/REST Client z LAN, LTE SIM, VPN i DIN
-HD67G32-G43-VPN-B2 konwerter EtherNet/IP Master / HTTP/REST Client z Ethernetem LAN, LTE SIM, VPN Service i montażem na szynie DIN.
-HD6..
-3 375,47 zł
-Kup teraz! "> Kup teraz!
-Dodaj do listy życzeń
-Porównaj ten produkt
-Negocjuj cenę ">
-Negocjuj cenę
-Podgląd
-Nowość
-2 lata gwarancji
-3-4 dni
-HD67G32-G43-B2 konwerter EtherNet/IP Master do HTTP/REST Client z LAN, LTE SIM i montażem DIN
-HD67G32-G43-B2 konwerter EtherNet/IP Master / HTTP/REST Client z Ethernetem LAN, LTE SIM i montażem na szynie DIN.
-HD67G32-G43-B2 to pr..
-3 713,02 zł
-Kup teraz! "> Kup teraz!
-Dodaj do listy życzeń
-Porównaj ten produkt
-Negocjuj cenę ">
-Negocjuj cenę
-Podgląd
-Nowość
-2 lata gwarancji
-3-4 dni
-HD67G32-G43-E-B2 konwerter EtherNet/IP Master do HTTP/REST Client z LAN, LTE SIM, eSIM i DIN
-HD67G32-G43-E-B2 konwerter EtherNet/IP Master / HTTP/REST Client z Ethernetem LAN, LTE SIM, eSIM i montażem na szynie DIN.
-HD67G32-G43-..
-3 819,26 zł
-Kup teraz! "> Kup teraz!
-Dodaj do listy życzeń
-Porównaj ten produkt
-Negocjuj cenę ">
-Negocjuj cenę
-Podgląd
-Nowość
-2 lata gwarancji
-3-4 dni
-HD67G32-B2 konwerter EtherNet/IP Master do HTTP/REST Client z Ethernetem RJ45 i montażem DIN
-HD67G32-B2 konwerter EtherNet/IP Master / HTTP/REST Client z Ethernetem RJ45 10/100 Mbps i montażem na szynie DIN.
-HD67G32-B2 to przemy..
-3 181,83 zł
-Kup teraz! "> Kup teraz!
-Dodaj do listy życzeń
-Porównaj ten produkt
-Negocjuj cenę ">
-Negocjuj cenę
-Podgląd
-Nowość
-2 lata gwarancji
-3-4 dni
-HD67G31-G43-E-VPN-B2 konwerter DMX do HTTP/REST Server z LAN, LTE SIM, eSIM i VPN
-HD67G31-G43-E-VPN-B2 konwerter DMX do HTTP/REST Server z RS-485, Ethernetem LAN, LTE SIM, eSIM, usługą VPN i montażem na szynie DIN.
-HD..
-3 819,26 zł
-Kup teraz! "> Kup teraz!
-Dodaj do listy życzeń
-Porównaj ten produkt
-Negocjuj cenę ">
-Negocjuj cenę
-Podgląd
-Nowość
-2 lata gwarancji
-3-4 dni
-HD67G31-G43-VPN-B2 konwerter DMX do HTTP/REST Server z RS-485, LAN, LTE SIM, VPN i montażem DIN
-HD67G31-G43-VPN-B2 konwerter DMX do HTTP/REST Server z RS-485, Ethernetem LAN, LTE SIM, usługą VPN i montażem na szynie DIN.
-HD67G31-G4..
-3 713,02 zł
-Kup teraz! "> Kup teraz!
-Dodaj do listy życzeń
-Porównaj ten produkt
-Negocjuj cenę ">
-Negocjuj cenę
-Podgląd
-Nowość
-2 lata gwarancji
-3-4 dni
-HD67G31-G43-E-B2 konwerter DMX do HTTP/REST Server z RS-485, LAN, LTE SIM, eSIM i montażem DIN
-HD67G31-G43-E-B2 konwerter DMX do HTTP/REST Server z RS-485, Ethernetem LAN, LTE SIM, eSIM i montażem na szynie DIN.
-HD67G31-G43-E-B2 t..
-3 819,26 zł
-Kup teraz! "> Kup teraz!
-Dodaj do listy życzeń
-Porównaj ten produkt
-Negocjuj cenę ">
-Negocjuj cenę
-Podgląd
-Nowość
-2 lata gwarancji
-3-4 dni
-HD67G31-G43-B2 konwerter DMX do HTTP/REST Server z RS-485, LAN, LTE SIM i montażem DIN
-HD67G31-G43-B
+# SB-102 Denso Electronics Ltd · home · https://www.densoelectronics.com/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+Electronics Supplier & Services | Denso Electronics | Zambia
+top of page
+Home
+About Us
+Contact Us
+Shop
+Brands
+ICT News
+Solutions
+Careers
+Book Online
+Quality Control
+Social Responsibility
+Certifications
+More
+Use tab to navigate through the menu items.
+Log In
+Welcome! Denso Electronic Solutions stands at the forefront of innovation, harnessing the power of Technology and the Internet of Things (IoT) to revolutionize the industry.
+Your Premium ICT Solution Provider.
+Denso Electronics, based in Ndola Copper Belt, is known for its quality and integrity. They provide top electronic supplies and ICT solutions, ensuring all products meet high standards. Their commitment to customer satisfaction is reflected in their safety policy and diverse product range serving both business and educational needs with professionalism and efficiency.
+Quick View
+Dragon NaturallySpeaking 15 Professional
+Price US$1,004.50
+Quick View
+Best Seller
+Philips DPM 8900 conference Kit
+Price US$1,467.90
+Quick View
+Philips DPM 7000
+Price US$863.60
+Quick View
+New
+Philips DPM 8000 / 8200
+Price US$849.60
+Quick View
+Best Seller
+Philips Conference Microphone 9172
+Price US$309.60
+Quick View
+Philips DVT8110 for Meeting Recording
+Price US$414.10
+Quick View
+Philips DVT4110 for Lectures & Interviews
+Price US$264.30
+Quick View
+Philips DVT2110 for Interviews & Notes
+Price US$213.60
+Quick View
+Philips SpeechAir PSP 2200 Voice Recorder
+Price US$831.40
+Quick View
+New Arrival
+Philips SpeechExec Pro 7277 Transcriber
+Regular Price US$399.60 Sale Price US$379.62
+Quick View
+Philips SpeechOne Dictation Headset
+Regular Price US$542.30 Sale Price US$515.19
+About Us
+In the bustling heart of Zambia's Copperbelt, Ndola stands out as a hub for electronics and ICT solutions
+Denso Electronic Solutions, based in Ndola CB, has been a trusted source for electronic supplies since 1997. Renowned for their integrity and quality, they provideively priced products while prioritizing customer satisfaction. Their dedicated team is prepared to assist with any home or office needs, ensuring smooth interactions. Denso is more than a supplier; they are a partner in your success.
+Get in Touch
+Contact
+Interested in doing business with us? Our business hours are M-F: 8am-5pm. Get in touch with us today.
+Add: Suite 02-37 Compensation House - Broadway/ Moffat Roads, Ndola - Zambia
+Email: Sales@densoelectronics.com
+Tell: +260212615190 WhatsApp: +260977823625
+Tell: +260212615367
+Submit
+Thanks for submitting!
+Copyright © 2026 Denso Electronics All Rights Reserved.
+bottom of page

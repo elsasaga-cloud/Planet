@@ -1,297 +1,162 @@
 {
   "code": "SA-076",
-  "name_official": "Impakt S.A.（Mosina，波兰；自有品牌 Genesis / Lanberg / Natec / Fury / Armac / Audictus）",
-  "website_status": "在线",
-  "summary": "波兰 IT 硬件'制造商+分销商'，自有品牌组合含网络品牌 Lanberg；>150 员工，2025 年营收 1.52 亿 PLN（约 3,500 万欧元），3,500+ 自有品牌 SKU，销往 40+ 国；联系人为 Product Dev Manager，曾就'一个定制品'回复。",
-  "type": "品牌商（自有品牌 OEM 采购）+ 分销商",
-  "size": "中型（>150 人，营收 ≈1.52 亿 PLN/2025）",
+  "name_official": "TBI – Telemobil Bilgi İletişim Hizmetleri San. ve Tic. A.Ş.（tbi.com.tr，Üsküdar/İstanbul）",
+  "website_status": "在线（telemobil.com.tr；用户记录称网站打不开，本次检索可见）",
+  "summary": "用户联系人邮箱域 tbi.com.tr 对应 TBI Telemobil Bilgi İletişim Hizmetleri A.Ş.（2005-01-14 注册，Üsküdar/İstanbul，LinkedIn 51–200 人）：电气承包、弱电与自动化、数据中心（自称建成土耳其最大数据中心、Uptime 认证）、环境安防、X 光、港口方案、工业/楼宇自动化、网络方案、Mobese 城市监控、OTVT/OSOS/SCADA。与同名的 telemobil.com.tr（Ltd Şti，2004，中小企业 IT 服务）为不同主体，首轮调研误用后者。ISAF 2025 现场有具体项目：2 光 2 电带 PoE，索价并问交期；用户标注「可重点跟进」。",
+  "type": "IT/网络系统集成商",
+  "size": "小型（待补证）",
   "brands_seen": [
-    "Genesis",
-    "Lanberg",
-    "Natec",
-    "Fury",
-    "Armac",
-    "Audictus"
+    "Microsoft",
+    "Symantec"
   ],
   "evidence": [
     {
       "kind": "官网",
-      "claim": ">150 员工、>3,500 自有品牌 SKU、7,395 m² 仓储、40+ 国销售",
-      "quote": ">150 employees… >3500 brand product indexes… 7395 m^2 storage space… We sell in more than 40 countries around the world!",
-      "url": "https://en.impakt.com.pl/",
+      "claim": "2004 年创立，向企业客户提供网络与电信服务；布线、网络、安防、摄像方案",
+      "quote": "Bilişim sektöründe kurumsal müşterilerine Network ve Telekomünikasyon hizmetleri vermek amacıyla 2004 yılında kurulan TELEMOBİL… yapısal kablolama, network hizmetleri, güvenlik çözümleri, kamera çözümleri",
+      "url": "http://www.telemobil.com.tr/",
       "date": "2026-10-21"
     },
     {
-      "kind": "企业登记",
-      "claim": "2025 年营收 1.52 亿 PLN，净利 860 万 PLN",
-      "quote": "Organizacja Impakt osiągnęła 152 188 554 zł przychodów… Zysk netto wyniósł 8 624 996 zł",
-      "url": "https://www.bizraport.pl/krs/0000585900/impakt-spolka-akcyjna",
+      "kind": "官网",
+      "claim": "法人全称与电话",
+      "quote": "Telemobil Bilgi ve İletişim Hizmetleri Sanayi ve Ticaret Limited Şirketi Telefon: 0216 520 1224",
+      "url": "http://www.telemobil.com.tr/iletisim.html",
       "date": "2026-10-21"
     },
     {
       "kind": "LinkedIn",
-      "claim": "品牌组合含 Lanberg（网络/布线品牌），51–200 人，1997 年创立",
-      "quote": "w naszym portfolio znajdują się takie marki jak: Genesis, Lanberg, Natec, Fury, Armac oraz Audictus… Wielkość firmy: 51-200 pracowników",
-      "url": "https://pl.linkedin.com/company/impakt-s-a",
+      "claim": "TBI Telemobil：IT 服务，51–200 人，Üsküdar，2005 年",
+      "quote": "TBI - Telemobil … Sektör: BT Hizmetleri ve BT Danışmanlığı Şirket büyüklüğü: 51 - 200 çalışan Genel Merkez: ISTANBUL, Üsküdar … Kuruluş: 2005",
+      "url": "https://tr.linkedin.com/company/tbitelemobil",
       "date": "2026-10-21"
     },
     {
       "kind": "官网",
-      "claim": "Lanberg RSGE-24P-2GE-2S-250 规格",
-      "quote": "RSGE-24P-2GE-2S-250 … 28 portów, w tym 24 porty PoE+ (Gigabit Ethernet), 2 Uplink (Gigabit Ethernet) oraz 2 Uplink (SFP Gigabit) … REALNY BUDŻET POE: 250 W",
-      "url": "https://lanberg.pl/produkt/RSGE-24P-2GE-2S-250",
+      "claim": "自称建成土耳其最大数据中心；弱电与自动化；电气承包",
+      "quote": "TÜRKİYE’NİN EN BÜYÜK VERİ MERKEZİNİ BİZ YAPTIK … ZAYIF AKIM VE OTOMASYON … uçtan uca veri merkezi yapımında, projelendirmeden uygulamaya uptime sertifikalandırma dahil … Elektrik Taahhüt",
+      "url": "https://tbi.com.tr/",
       "date": "2026-10-21"
     },
     {
-      "kind": "官网",
-      "claim": "RSGE-24P-2GE-2S-360 规格与 EAN/保修",
-      "quote": "Manufacturer code: RSGE-24P-2GE-2S-360 EAN: 5901969438697 Warranty: 24m Number of Ethernet ports: 26 Number of fiber ports: 2 Number of POE ports: 24 … Total budget for PoE 360 W … Bandwith 56 Gbps",
-      "url": "https://pl.lanberg.eu/produkt/switch-lanberg-rsge-24p-2ge-2s-360-24x-1gb-poe-2x-gb-2x-sfp-rack-19-gigabit-ethernet-360w",
+      "kind": "目录",
+      "claim": "业务范围（Devex）",
+      "quote": "Since 2005, Telemobil Bilgi İletişim Hizmetleri A.Ş. … Electric Contracting, Weak Current Systems, Data Center Solutions, Environmental Security Systems, X-Ray Solutions, Port Solutions, Industrial Automation, Building Automation, Network Solutions, Mobese Solutions, OTVT Solutions, OSOS Solutions and SCADA / DMS Solutions",
+      "url": "https://www.devex.com/organizations/telemobil-88634",
       "date": "2026-10-21"
     },
     {
-      "kind": "零售",
-      "claim": "制造商/进口商信息公开（Impakt S.A. 地址与 product@ 邮箱）",
-      "quote": "LANBERG Impakt S.A. Stanisława Lema 16 62-050 Mosina Polska PL Email: product@impakt.com.pl",
-      "url": "https://www.komputronik.pl/product/825019/lanberg-rsge-24p-2ge-2s-250.html",
+      "kind": "EMIS",
+      "claim": "注册日期与地址",
+      "quote": "Headquarters Camlica Evleri Sitesi No:13-4 Kucuk Camlica Mahallesi Cilehane Yolu Caddesi Uskudar Istanbul … Incorporation Date: January 14, 2005",
+      "url": "https://www.emis.com/php/company-profile/TR/Telemobil_Bilgi_Iletisim_Hizmetleri_AS_en_3350443.html",
       "date": "2026-10-21"
     }
   ],
   "kp": [
     {
-      "name": "Łukasz Gąsiewicz",
-      "role": "Product Dev Manager",
-      "email": "lukasz.gasiewicz@impakt.com.pl",
-      "phone": "",
-      "source": "用户 Clients 表（已回复）"
-    },
-    {
-      "name": "Bartosz Krawczyk",
-      "role": "（用户记录）",
-      "email": "bartosz.krawczyk@impakt.com.pl",
-      "phone": "",
-      "source": "用户 Clients 表"
+      "name": "（见 Clients 表联系人）",
+      "role": "",
+      "email": "",
+      "phone": "+90 533 086 6289（WA）/ 0216 547 6700（用户记录）",
+      "source": "用户 Clients 表（ISAF 2025）"
     }
   ],
   "grade_override": null,
   "override_reason": "",
-  "notes": "体量偏大但不在巨头名单，且是典型'自有品牌找中国工厂贴牌'模型：Lanberg 品牌有交换机/PoE/机柜线 → Saga 以 SmartByte Marvell 管理型/PoE 机型做 Lanberg 的 OEM 补充 SKU 最对路。KP 为产品开发经理（决策链正确）。价阶 30%（OEM）；需准备神秘包装/无 logo + CE/RoHS/REACH 文件。注意其直接找工厂的可能 → 强调 MOQ 1、10–15 天交期、混 SKU 小批量。",
+  "notes": "土耳其主攻区 + 具体项目（2 光 2 电 PoE）+ 问交期 = 临门一脚。P1：STI 工业 2 光 2 电 PoE（按 SmartByte 工业目录核对型号；现场展示过 2 光 4 电可作替代），项目价阶 25%，交期 10–15 天。走 WA 直接报价。 ｜ T27 深挖更正：首轮调研把 telemobil.com.tr（Ltd Şti）当作主体；按联系人邮箱域 tbi.com.tr 应为 TBI Telemobil A.Ş.（51–200 人）。首轮引文保留作对照，以本条为准。",
   "researched_at": "2026-10-21",
   "deep": {
     "done_at": "2026-10-21",
-    "level": "深挖 v1"
+    "level": "深挖 v1（更正主体）"
   },
   "company_facts": {
-    "legal_name": "Impakt S.A.",
-    "hq": "ul. Stanisława Lema 16, 62-050 Mosina, Poland（product@impakt.com.pl）",
-    "staff": ">150",
-    "revenue": "1.52 亿 PLN（2025）",
-    "other": "自有品牌 Lanberg（网络）、Genesis、Natec、Fury、Armac、Audictus；3,500+ SKU，40+ 国；Lanberg 交换机 24 个月保修，通过 Komputronik/iVolta 等零售"
+    "legal_name": "Telemobil Bilgi İletişim Hizmetleri San. ve Tic. A.Ş.（TBI）",
+    "founded": "2005-01-14（EMIS）",
+    "hq": "Çamlıca Evleri Sitesi No:13-4, Küçük Çamlıca Mah., Cilehane Yolu Cad., Üsküdar, İstanbul 34696",
+    "staff": "51–200（LinkedIn）",
+    "other": "业务：电气承包、弱电/自动化、数据中心建设（Uptime）、环境安防、X 光、港口、工业与楼宇自动化、网络、Mobese、OTVT、OSOS、SCADA/DMS"
   },
   "business_lines": [
-    "Lanberg 网络产品：机架 PoE 交换机 RSGE 系列（24 口 250/360W）、桌面交换机、布线/机柜",
-    "其他自有品牌消费 IT"
+    "数据中心 EPC（自称建成土耳其最大数据中心）",
+    "弱电与楼宇/工业自动化",
+    "网络方案（LAN/WAN/无线/安全：VLAN、802.1x、QoS、BGP/OSPF/MPLS）",
+    "Mobese 城市监控与环境安防",
+    "港口/X 光/OSOS/SCADA 项目"
   ],
   "products_seen": [
     {
-      "brand": "Lanberg",
-      "model": "RSGE-24P-2GE-2S-250",
-      "spec": "24×GE PoE+ + 2 GE + 2 SFP，250W，56Gbps，8K MAC，风扇，Extend 250 m，4kV 防雷，320×207×45 mm，24 个月保",
-      "url": "https://lanberg.pl/produkt/RSGE-24P-2GE-2S-250",
-      "date": "2026-10-21",
-      "saga": "STC-424DGGPM-280W"
-    },
-    {
-      "brand": "Lanberg",
-      "model": "RSGE-24P-2GE-2S-360",
-      "spec": "24×GE PoE+ + 2 GE + 2 SFP，360W（EAN 5901969438697）",
-      "url": "https://pl.lanberg.eu/produkt/switch-lanberg-rsge-24p-2ge-2s-360-24x-1gb-poe-2x-gb-2x-sfp-rack-19-gigabit-ethernet-360w",
-      "date": "2026-10-21",
-      "saga": "STC-424DGGPM-280W"
-    },
-    {
-      "brand": "Lanberg",
-      "model": "RSGE-24P-2S-250 / RSGE-24P-2S-360",
-      "spec": "24 PoE+ + 2 SFP，250W（16K MAC 无风扇）/ 360W（FE PoE 口）",
-      "url": "https://lanberg.pl/en/produkt/RSGE-24P-2S-250",
-      "date": "2026-10-21",
-      "saga": "STC-424DGGPM-280W"
+      "brand": "（项目需求）",
+      "model": "2 光 2 电带 PoE 工业交换机（ISAF 2025 现场项目）",
+      "spec": "索价 + 交期；现场展示 2 光 4 电 PoE",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "ISAF 2025",
+      "saga": "STI-144GP（4+1；2 光 2 电需 SmartByte 核型）"
     }
   ],
   "channels": {
-    "网站": "https://lanberg.pl/ · https://www.impakt.com.pl/",
-    "直邮": "lukasz.gasiewicz@impakt.com.pl / bartosz.krawczyk@impakt.com.pl（Product Dev Manager，用户表）；product@impakt.com.pl（零售页公开）"
+    "网站": "https://tbi.com.tr/",
+    "直邮": "kkisacik@tbi.com.tr（用户表）",
+    "LinkedIn": "https://tr.linkedin.com/company/tbitelemobil"
   },
   "signals": [
-    "Lanberg RSGE 24 口 PoE 为非管理机型——管理型（L2+）与 8 口 PoE+2 SFP 是其线上的空位（2026-10-21）",
-    "用户表：曾就「一个定制品」回复——有定制采购流程"
+    "ISAF 2025：有具体项目（2 光 2 电 PoE），问交期——短期可成交信号",
+    "公司规模 51–200、数据中心/Mobese 项目型——单项目量可观"
   ],
   "risks": [
-    "大型品牌商：EAN/包装/波兰语手册/WEEE/保修 24 个月与退货率要求；首单需样机验证",
-    "价格导向强（零售 24 口 PoE 约 1,000 PLN）"
+    "Mobese/港口/SCADA 多为公共/关键基础设施项目——守界：仅供商业楼宇/数据中心弱电部分",
+    "大型项目型公司，付款账期长"
   ],
   "saga_fit": {
-    "p1": "STC-424DGGPM-280W",
-    "tier": 30,
-    "why": "Lanberg RSGE-24P 系列（24 PoE+ + 2 GE + 2 SFP）→ STC-424DGGPM-280W（管理型升级）；8 口位 STC-28DGGPM；贴 Lanberg 标 30% 档，体量可 25%"
+    "p1": "STI-144GP",
+    "tier": 25,
+    "why": "现场需求 2 光 2 电 PoE 工业机：最近标准型 STI-144GP（4 PoE + 1 SFP）/ STI-288DGGPM（8 PoE + 2 SFP）；2 光 2 电专用型向 SmartByte 核；项目 25% 档"
   },
-  "email_hook": "The RSGE-24P series is unmanaged today, so a Marvell-based 24-port PoE+ L2+ managed unit with 4 SFP in Lanberg packing is the gap I would fill first, and I can quote it with the 8-port PoE+ 2 SFP model as a second line.",
+  "email_hook": "For the 2-fibre 2-copper PoE requirement you showed us at ISAF, the closest units we can ship in 10–15 days are the 4-port PoE + 1 SFP DIN switch and the 8-port + 2 SFP managed model, so I am quoting both with lead time confirmed.",
   "mail_review": {
     "binding": {
-      "level": "未绑定（询问阶段，但决策链正确：产品开发经理 Łukasz 2025-10 主动要「带 CE 电源的 MC」价格与 MOQ）；Elsa 群发 BCC 已触达 6 轮 2025-04-03→2025-08-25（锚 To info@axuse.com，本户在 Bcc）→ 08-25「90W PoE Managed Switch」那轮 Łukasz 回信 → Elsa 08-26 / 09-25 Re:（已入库）→ 之后剔出 Bcc（10-09 头 199c8653559f6d15 Bcc 27 人已无 impakt）；即 Impakt 的线索源头是 Elsa 群发 Bcc，不是 A 邮箱",
-      "type": "波兰自有品牌集团（Lanberg / Genesis / Natec…）+ 分销——第一档 OEM 类型；波兰 = 次重点市场；Elsa 曾先接触（Alan 2025-09-29 原话）",
-      "sieve": "2",
-      "stop": "2025-10-03 Alan 报 1G SFP MC 13 USD/pc（MOQ 1）→ 10-15 追问无回；此后群发只发给 Bartosz（不是 Łukasz）",
-      "revive": "Łukasz 的 Lanberg MC/交换机补 SKU 立项；给他一张 MC + 8/16 口 PoE 的 CE 版对位表",
-      "lane": "PL/EU（CE 有）",
-      "cadence": "2024-06 → 2026-09 去信 30 封；最后来信 2025-10-03",
-      "evidence": "k=93d83062626fac30 / 897f6d9873002938 / c220bcc3035956bf / 43168b7db932dd31"
+      "level": "未绑定（A/S 邮箱 0 封；用户表：2 光 2 电 PoE 项目 + 问交期 = 临门一脚；Elsa 箱：`to:tbi.com.tr` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(g)））",
+      "type": "土耳其 IT 集成（TBI Telemobil）——主攻区",
+      "sieve": "0（邮件层无人工回复）",
+      "stop": "—",
+      "revive": "Simon 原通道",
+      "lane": "TR",
+      "cadence": "一次",
+      "evidence": "邮件：A/S 两箱均无发信记录（0 去 / 0 来）"
     },
-    "situation": "Impakt 的产品开发经理 Łukasz Gąsiewicz 2025-09-29 主动转发同事 Bartosz 收到的群发并要「actual offer」，10-03 贴图说「We looking for devices like this with CE power supply. Prices? MOQ?」——是 1G SFP 媒体转换器。Alan 报 13 USD/pc、MOQ 1、附规格书，10-15 追问后无回。之后的群发全部发回 Bartosz，Łukasz 再没收到针对性内容。",
-    "need": "Lanberg 品牌的 MC（CE 电源）与小型交换机补 SKU；价格敏感（自有品牌比价）。",
-    "breakpoint": "决策人找对了、产品找对了、价格给了，停在「没有第二封针对性的信」——群发名单没有把 Łukasz 设为主收件人。",
+    "situation": "仓库无邮件；若「问交期」属实，渠道在 WA。",
+    "need": "2 光 2 电工业 PoE。",
+    "breakpoint": "—",
     "saga_now": {
-      "p1": "STI-110GE 类 1G SFP MC（CE 电源版）+ STC-28DGGPM 8 口 PoE 对位表",
-      "tier": 30,
-      "price": "Elsa 2025-09-25 实报 STC-4168XGGCM 双 AC $280（= 群发价，≈ 进价，Łukasz 未接）；按 30% 自有标档（MC 13 USD 为 2025-10 报价，需按现价表重算）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-05 $65（10G media converter）；群发里他已看到的价（续）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-06-15 $220（48 port managed switch）、2025-05-26 $300（48 Port PoE Managed Switch）、2025-10-21 $280（10G Enterprise SFP Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-05-25 $300（48 Port PoE Managed Switch = STC-448XGGPM，Elsa 箱 2 轮 2025-04-28→2025-05-25；现表 $335.4@20%、Drive 老表 $335——同款写 $335 要先说 2025 群发是 $300、汇率 7.2→6.7）",
-      "why": "J2：波兰次重点 + 自有品牌 + 决策人在手 = 少数值得写第二封的户。已打开的主题（5/30 封有打开记录）：「Industrial PoE Switch」(2025-09-16)、「Re: FW: [EXTERNAL] Industrial PoE Swit」(2025-09-29)、「Re: FW: [EXTERNAL] Industrial PoE Swit」(2025-10-03)、「Re: FW: [EXTERNAL] Industrial PoE Swit」(2025-10-15) → 读者兴趣偏「工业」；当前 P1 属「10G 汇聚/L3」，下一封按「工业」给，不按 P1 最近一封去信是 2026-09-28 A 邮箱 AC5 管理 PoE 模板（在本档最后一条事实之后）——下一封必须回到真人线程、不再叠模板｜已发资料（勿重发）：Download Link_Alan(2025-09-29)、STC-110GE(2025-10-03)、Product Link_2026Q2(2026-03-30)、Product Link_2026Q3(2026-07-16)、Saga Feature List_7.5.x_L2+(2026-07-20)；7.5 Feature List 与 2026Q3 链接都已给过 → 下一封不能再是资料推送，只能是针对其需求的一句话/一个问题",
+      "p1": "STI-222GP",
+      "tier": 25,
+      "price": "—",
+      "why": "ISAF 现场看的 2 光 2 电 PoE → STI-222GP 对位；10–15 天能发的替代是 4 PoE + 1 SFP DIN 与 8+2 管理款",
       "repeat": [],
-      "gaps": [
-        "Lanberg 现有 MC 型号与售价（官网可查，未做）",
-        "13 USD MC 属于哪条线（Realtek/HRUI？）——报前核"
-      ]
+      "gaps": []
     },
     "next_move": {
-      "when": "2026-11",
-      "channel": "A 邮箱 → lukasz.gasiewicz@impakt.com.pl（主收件人），抄 bartosz.krawczyk@impakt.com.pl",
-      "action": "一张对位表 + 一句话问 Lanberg 2027 年 SKU 计划",
-      "one_question": "Is the Lanberg media-converter refresh still planned for 2027, and would a CE-PSU 1G SFP MC at the 13-USD class go into it?"
+      "when": "按 WA 节奏",
+      "channel": "WhatsApp",
+      "action": "WA 一句话（用 one_question 这句，WhatsApp 直接发，不附资料）（第 75 批(r) 2026-10-25：WhatsApp 一句话版已写 `draft_en`（Simon 按 WA 节奏自发）；「10–15 天」交期是对外承诺，发前确认）（第 76 批(c) 2026-10-25：0 事实户补时间线事实）",
+      "one_question": "For the 2-fibre 2-copper PoE requirement you showed us at ISAF, the closest units we can ship in 10–15 days are the 4-port PoE + 1 SFP DIN switch and the 8-port + 2 SFP managed model, so I am quoting both with lead time confirmed."
     },
     "facts": [
       {
-        "date": "2025-04-03",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To info@axuse.com）",
-        "quote": "Mini Industrial PoE Switch（Elsa 群发第 1/6 轮；本户在 Bcc，锚 To info@axuse.com）",
-        "why": "第 74 批(o) `from:e.sagatelecom to:impakt.com.pl` 全程 complete：6 行；To=info@axuse.com ⇒ 本户在该锚 Bcc 名单",
-        "k": "elsa_bcc",
-        "msg_id": "195fb17dc4cbfd9e"
-      },
-      {
-        "date": "2025-04-28",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To info@axuse.com）",
-        "quote": "48 Port PoE Managed Switch（Elsa 群发第 2/6 轮；本户在 Bcc，锚 To info@axuse.com；正文价 300usd/pc，第 74 批(p) 读稿 msg 194eff1f9bf46879 / 1973a613b8166b58）",
-        "why": "第 74 批(o) `from:e.sagatelecom to:impakt.com.pl` 全程 complete：6 行；To=info@axuse.com ⇒ 本户在该锚 Bcc 名单",
-        "k": "elsa_bcc",
-        "msg_id": "1967c1b82fddb7e4"
-      },
-      {
-        "date": "2025-05-25",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To info@axuse.com）",
-        "quote": "48 Port PoE Managed Switch（Elsa 群发第 3/6 轮；本户在 Bcc，锚 To info@axuse.com；正文价 300usd/pc，第 74 批(p) 读稿 msg 194eff1f9bf46879 / 1973a613b8166b58）",
-        "why": "第 74 批(o) `from:e.sagatelecom to:impakt.com.pl` 全程 complete：6 行；To=info@axuse.com ⇒ 本户在该锚 Bcc 名单",
-        "k": "elsa_bcc",
-        "msg_id": "19706f048da10720"
-      },
-      {
-        "date": "2025-06-25",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To info@axuse.com）",
-        "quote": "Marvell Alleycat5 Solution（Elsa 群发第 4/6 轮；本户在 Bcc，锚 To info@axuse.com）",
-        "why": "第 74 批(o) `from:e.sagatelecom to:impakt.com.pl` 全程 complete：6 行；To=info@axuse.com ⇒ 本户在该锚 Bcc 名单",
-        "k": "elsa_bcc",
-        "msg_id": "197a6ac511c9c568"
-      },
-      {
-        "date": "2025-07-25",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To info@axuse.com）",
-        "quote": "16 Port Ethernet Switch（Elsa 群发第 5/6 轮；本户在 Bcc，锚 To info@axuse.com）",
-        "why": "第 74 批(o) `from:e.sagatelecom to:impakt.com.pl` 全程 complete：6 行；To=info@axuse.com ⇒ 本户在该锚 Bcc 名单",
-        "k": "elsa_bcc",
-        "msg_id": "1984103b880e1257"
-      },
-      {
-        "date": "2025-08-25",
-        "dir": "来（E 邮箱）",
-        "who": "support@lanberg.pl → lukasz.gasiewicz@impakt.com.pl",
-        "quote": "RE: [EXTERNAL] 90W PoE Managed Switch",
-        "why": "Lanberg（SB-590）支持邮箱把 Saga 的信转到 Impakt 采购——两户同一体系",
-        "k": "gmail_e/index_replied"
-      },
-      {
-        "date": "2025-08-26",
-        "dir": "去",
-        "who": "Elsa",
-        "quote": "Please see attached file and check on the links.（附 Download Link_Alan.pdf；抄 support@lanberg.pl）",
-        "why": "Elsa 首回只给下载链接",
-        "k": "gmail_e 198e64376d9fa3ca"
-      },
-      {
-        "date": "2025-09-16",
-        "dir": "来",
-        "who": "用户表（Simon 跟进记录；渠道 A）",
-        "quote": "用户表跟进：推「24PoE」→ 对方「INFO」",
-        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
-        "k": "Clients/A Replied 09.04.xlsx no.25 2025.9.16"
-      },
-      {
-        "date": "2025-09-25",
-        "dir": "去",
-        "who": "Elsa",
-        "quote": "This is our 24-port Marvell-based managed SFP switch. 1, 4 port 1G SFP+8-port 1G SFP/RJ45 Combo +4*10G SFP+ 2, Dual AC input 3, Support fan monitoring/dual PSU status monitoring 4, Customizable Web GUI It is a price-competitive aggregation switch(280usd/pc) Is it useful to you?",
-        "why": "Elsa 主动推 STC-4168XGGCM 双 AC $280（= 当时群发价）；Łukasz 没接这款，转而问 MC → 他要的是低价 MC，不是汇聚机",
-        "k": "gmail_e 19980d386ab668ed"
-      },
-      {
-        "date": "2025-09-29",
-        "dir": "来",
-        "who": "Łukasz Gąsiewicz（Product Development Manager）",
-        "quote": "I cooworking with Bartosz pls send me you actual offer",
-        "why": "决策人出现",
-        "k": "93d83062626fac30"
-      },
-      {
-        "date": "2025-09-29",
-        "dir": "去",
-        "who": "Saga（Alan）",
-        "quote": "Hi, Lukasz, 1, please see attached info, there are links about rich info. 2, my colleague Elsa talked with you before, I will take over. She recommended an interesting model(see attached photos), it is our promotion now. Let's discuss.…",
-        "why": "Saga 实质答复原文（主题「Re: FW: [EXTERNAL] Industrial PoE Switch」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
-        "k": "06d7d26794647364"
-      },
-      {
-        "date": "2025-10-03",
-        "dir": "来",
-        "who": "Łukasz",
-        "quote": "We looking for devices like this 😉 with CE power supply Prices ? MOQ ?",
-        "why": "需求（1G SFP MC）",
-        "k": "897f6d9873002938"
-      },
-      {
-        "date": "2025-10-03",
-        "dir": "去",
-        "who": "Alan",
-        "quote": "MoQ is 1 piece… price: 13usd/pc, 1*100/1000M SFP Fiber+1*10/100/1000M RJ45, WITHOUT optical module… DC5V input",
-        "why": "报价",
-        "k": "c220bcc3035956bf"
-      },
-      {
-        "date": "2025-10-15",
-        "dir": "去",
-        "who": "Alan",
-        "quote": "Any news about the 1G media converter? Need to order or something?",
-        "why": "追问无回",
-        "k": "43168b7db932dd31"
+        "date": "2026-10-21",
+        "dir": "研",
+        "who": "官网",
+        "quote": "2004 年创立，向企业客户提供网络与电信服务；布线、网络、安防、摄像方案：Bilişim sektöründe kurumsal müşterilerine Network ve Telekomünikasyon hizmetleri vermek amacıyla 2004 yılında kurulan TELEMOBİL… yapısal kablolama, network hizmetleri, güvenlik çözüm",
+        "why": "无任何邮件往来；唯一证据为研究/用户表记录",
+        "k": "http://www.telemobil.com.tr/"
       }
     ],
     "proof_gaps": [
-      "（已核 2026-10-24，第 73 批）Elsa 邮箱 2 封回复已读：08-26 下载链接；09-25 推 STC-4168XGGCM 双 AC $280 无回；之后 MC 话题在 A 邮箱（09-29 → 10-15）"
+      "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 从未去信、Replied 索引亦无此户），仓库未见原文"
     ],
     "draft_en": {
-      "subject": "1G SFP media converter for Lanberg — CE PSU version",
-      "body": "Hi, Lukasz,\n\nIn October 2025 we quoted the 1G SFP media converter (1x SFP + 1x GbE, DC 5 V) at $13 USD, MOQ 1, and then did not follow up properly. Copying Bartosz.\n\nFor a Lanberg SKU the relevant version is with a CE-marked PSU and your carton; the price is re-quoted on the 2026 table on request (same class, MOQ 100 for branded).\n\nOne question: is the Lanberg media-converter refresh still planned for 2027, and would a CE-PSU 1G SFP MC in the 13-USD class go into it?\n\nThank you.\nAlan\nSaga Telecom - sagatele.com"
+      "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+      "body": "Hi, Simon from Saga Telecom - ISAF follow-up on the 2-fibre + 2-copper PoE requirement. Closest units, EXW, MOQ 1, 15-day validity, 10-15 days from order: DIN-rail 4 x Gigabit PoE+ + 2 x SFP, unmanaged, -40 to 75 C - STI-244GP - $35; 8 x PoE+ + 2 x SFP, L2+ managed with ring redundancy, Marvell-based - STI-288DGGPM - $137.5. Is the project still live, and how many units?"
     },
     "as_of": "2026-10-24"
   }

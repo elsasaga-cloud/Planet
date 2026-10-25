@@ -2,154 +2,157 @@
   "code": "SB-938",
   "name_official": "",
   "researched_at": "2026-10-21",
-  "website_status": "在线（fiberopticsupply.com，快照 2026-10-21）",
-  "summary": "美国 FiberOptic Supply（光纤材料网店：测试仪、光缆、熔接机、工具、跳线、耗材；有源组件分类（SFP 29 / MC 29 处）；表内「SFP MC 周边产品 / 卖别人的 MC」）；表内 2 次跟进无回复。",
-  "type": "光纤材料网店（美国，MC 为有源副线）",
+  "website_status": "在线（c4line.com，快照 2026-10-21）",
+  "summary": "韩国 C4Line（IP 延长器与通信设备先驱：自研自产 Ethernet over Coax/UTP/2-Wire 工业调制解调器，千兆/百兆/无线混合延长器；KP Sung Kim（President）、Gun Kim（OEM/ODM Product Manager）；表内「PoE 相关」「可以尝试多跟进一下」）；群发 23 次无回复。",
+  "type": "IP 延长器制造商（韩国，PoE 交换机为配套）",
   "size": "",
   "brands_seen": [],
   "evidence": [
     {
       "kind": "官网快照",
-      "claim": "官网标题：FiberOptic Supply；品类词 电信 / FTTH / ISP 设备 / 布线 / 线缆 / 光纤 / 媒体转换",
-      "quote": "We offer fiber optic materials from Test Equipment, Bulk Cable and Fusion Splicers to Tools, Patch Cables and Consumables.",
-      "url": "https://fiberopticsupply.com/",
+      "claim": "官网标题：C4Line；品类词 无线 / WiFi / 网络交换 / PoE",
+      "quote": "C4Line is the pioneer technology company for the IP Extender & Communication devices. 씨포라인은 IP Ethernet over Coax/UTP/2Wire 제품등 IP 디바이스의 장거리 전송에 필요한 산업용 모뎀을 자체 개발, 생산 하는 전문업체 입니다. 해외 유수의 업체들과 글로벌 파트너십을 맺고 있으며 탄탄한 기술력을 바탕으로 현재 미래 전송장비를 선도적으로",
+      "url": "https://c4line.com/",
       "date": "2026-10-21"
     },
     {
       "kind": "用户表",
       "claim": "表内兴趣/备注",
-      "quote": "SFP MC 周边产品；卖别人的MC",
+      "quote": "PoE相关",
       "url": "（本地 Clients/ 表格，无公开 URL）",
       "date": "2026-10-21"
     },
     {
       "kind": "官网快照",
-      "claim": "FiberOptic Supply 定位",
-      "quote": "FiberOptic Supply ; We offer fiber optic materials from Test Equipment, Bulk Cable and Fusion Splicers to Tools, Patch Cables and Consumables ; Active Components",
-      "url": "https://fiberopticsupply.com/",
+      "claim": "C4Line 定位",
+      "quote": "C4Line is the pioneer technology company for the IP Extender & Communication devices ; Gigabit Extenders (1Gbps)",
+      "url": "https://c4line.com/",
       "date": "2026-10-21"
     },
     {
       "kind": "用户表",
-      "claim": "卖别人的 MC",
-      "quote": "SFP MC 周边产品 / 卖别人的MC",
+      "claim": "PoE 相关",
+      "quote": "PoE相关；可以尝试多跟进一下",
       "url": "（本地 Clients/ 表格，无公开 URL）",
       "date": "2026-10-21"
     }
   ],
-  "kp": [],
+  "kp": [
+    {
+      "name": "Gun Kim",
+      "title": "OEM/ODM Product Manager",
+      "email": "shkim@c4line.com",
+      "phone": "",
+      "source": "用户表"
+    },
+    {
+      "name": "Sung Kim",
+      "title": "President",
+      "email": "info@c4line.com",
+      "phone": "",
+      "source": "用户表"
+    }
+  ],
   "grade_override": null,
   "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
   "deep": {
     "done_at": "2026-10-21",
     "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
   },
   "company_facts": {
-    "hq": "美国",
-    "other": "官网 fiberopticsupply.com，语言 en，快照状态 ok；角色判定来源：官网文案"
+    "hq": "韩国",
+    "other": "官网 c4line.com，语言 ko-kr，快照状态 ok；角色判定来源：待核"
   },
   "business_lines": [
-    "光纤材料 / 工具 / 有源组件网店（美国）"
+    "IP 延长器 / EoC / 工业调制解调器（自有品牌 C4Line）"
   ],
   "channels": {
-    "role": "光纤材料网店（美国，MC 为有源副线）",
-    "region": "美国",
-    "contact": "sales@fiberopticsupply.com"
+    "role": "IP 延长器制造商（韩国，PoE 交换机为配套）",
+    "region": "韩国",
+    "contact": "info@c4line.com、shkim@c4line.com"
   },
   "signals": [
-    "官网：We offer fiber optic materials from Test Equipment, Bulk Cable and Fusion Splicers to Tools, Patch Cables and Consumables ; Active Components；kw media converter 29 / sfp 29 / fiber 739",
-    "表内：SFP MC 周边产品 / 卖别人的 MC"
+    "官网：C4Line is the pioneer technology company for the IP Extender & Communication devices ; Gigabit Extenders (1Gbps) ; Fast Ethernet Extenders (100Mbps) ; Wireless & Wired Extenders (Hybrid)；站内 C4L2000G-WB6E-2E",
+    "表内：PoE 相关；KP Sung Kim / President；Gun Kim / Oem/odm Product Manager；可以尝试多跟进一下"
   ],
   "risks": [
-    "主业光纤无源材料（Saga 不做）；SFP 需求 Saga 不供；2 次无回复，仅 sales@"
+    "非主攻区（T5，韩国；KC 由客户侧）；自研厂商（PoE 交换机仅为配套）；23 次无回复 → 改向 OEM/ODM PM 具名首触"
   ],
   "saga_fit": {
-    "p1": "STI-110GE",
-    "tier": 20,
-    "why": "有源组件分类 MC → 工业千兆 MC STI-110GE（$22.4 @20%）、工业 PoE MC STI-111GP（$27.8）；商用桌面 MC 以 HRUI 列表价（注明）；SFP Saga 不供"
+    "p1": "STC-28DGGPM",
+    "tier": 30,
+    "why": "延长器配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、工业 4 PoE + 1 SFP STI-154GP（$40.8）贴 C4Line 标；延长器类 Saga 不供（Q-32）"
   },
-  "email_hook": "For the media converters in your active-components category, we supply neutral-brand gigabit and PoE MCs (industrial DIN-rail and desktop) from single units, FCC/CE/RoHS, EXW USD — which MC configuration do your fibre-installer customers order most?",
+  "email_hook": "Gun, to complement the C4Line extender range, we can supply Marvell-based 8-PoE + 2 SFP L2+ and DIN-rail 4-PoE + 1 SFP industrial switches under your label from small lots, CE/RoHS; KC by your side — is a PoE switch SKU something your OEM/ODM roadmap covers?",
   "mail_review": {
     "binding": {
-      "level": "未触达（2 封自动回复）；Elsa 群发 BCC 已触达 2026-09-08「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，US-3 批次 To sales@solimedia.net，0 回（第 73 批(o) Bcc 头核对 msg 1a08138d20436870）",
-      "type": "美国光纤材料网店（Fiber Optic Supply）",
-      "sieve": "0",
-      "stop": "自动回复/机器人，无人工回复",
-      "revive": "不动；备用具名邮箱：bhogan@fiberopticsupply.com（自动回复中出现的同司具名邮箱，2023-12-20，k=5fe850467aa7251b；从未发过）；bturner@fiberopticsupply.com（自动回复中出现的同司具名邮箱，2024-09-27，k=f88a1716b68677f2；从未发过）；gcharlton@fiberopticsupply.com（自动回复中出现的同司具名邮箱，2023-12-20，k=5fe850467aa7251b；从未发过）",
-      "lane": "US",
-      "cadence": "不动",
-      "evidence": "k=5fe850467aa7251b / f88a1716b68677f2；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To sales@solimedia.net）2025-04-05→2026-09-08 共 10 轮群发（Marvell Alleycat5 Solution、Mini Industrial PoE Switch、16 Port Ethernet Switch、48 Port PoE Managed Switch、Managed Optical Bypass Switch、Industrial PoE Switch、10G Enterprise SFP Switch、Updated Ethernet Switches Links、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断"
+      "level": "未触达（A/S 邮箱 34 封 2024→2026，无记录打开，0 回；收件 gunkim@c4line.com, info@c4line.com；主题多为「Managed Optical Bypass Switch、Industrial PoE Switch」）；Elsa 1:1 去信 1 封（2025-02-13「Industrial PoE Switch」；To 仅本户 info@c4line.com；Bcc 未逐封读头；同类名单抽读 24 封均无 Bcc；此后再未进 Elsa 任何名单——全箱 `from:e.sagatelecom to:info@c4line.com` 仅此 1 条，complete）（第 74 批(m)）",
+      "type": "IP 延长器制造商（韩国，PoE 交换机为配套）",
+      "sieve": "1（只收到群发）",
+      "stop": "34 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+      "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+      "lane": "KR 次级（点名）",
+      "cadence": "一封",
+      "evidence": "gmail_digest：out 34；用户表：「PoE相关」；研究档 risks：非主攻区（T5，韩国；KC 由客户侧）；自研厂商（PoE 交换机仅为配套）；23 次无回复 → 改向 OEM/ODM PM 具名首触"
     },
-    "situation": "来信全部为机器回复；无人读信或无人回信。",
-    "need": "—",
-    "breakpoint": "—",
+    "situation": "韩国 C4Line（IP 延长器与通信设备先驱：自研自产 Ethernet over Coax/UTP/2-Wire 工业调制解调器，千兆/百兆/无线混合延长器；KP Sung Kim（President）、Gun Kim（OEM/ODM Product Manager）；表内「PoE 相关」「可以尝试多跟进一下」）；群发 23 次无回复。",
+    "need": "延长器配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、工业 4 PoE + 1 SFP STI-154GP（$40.8）贴 C4Line 标；延长器类 Saga 不供（Q-32）",
+    "breakpoint": "非主攻区（T5，韩国；KC 由客户侧）；自研厂商（PoE 交换机仅为配套）；23 次无回复 → 改向 OEM/ODM PM 具名首触",
     "saga_now": {
-      "p1": "—",
-      "tier": 20,
-      "price": "—；群发里他已看到的价（续，第 66 批全量复核）：2025-09-22 $280（10G Enterprise SFP Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-06-29 $300（48 Port PoE Managed Switch = STC-448XGGPM，Elsa 箱 1 轮 2025-06-29；现表 $335.4@20%、Drive 老表 $335——同款写 $335 要先说 2025 群发是 $300、汇率 7.2→6.7）；2026-09-08 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-08；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
-      "why": "—",
+      "p1": "STC-28DGGPM",
+      "tier": 30,
+      "price": "换人再触锚价 STC-28DGGPM $87.4 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-10-30 $65（10G Media Converter）；群发里他已看到的价（续）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-06-27 $220（48 port managed switch）、2025-06-23 $300（48 Port PoE Managed Switch）、2025-09-23 $280（10G Enterprise SFP Switch）、2026-06-19 $16000（32 Port 400GB DC Switch）",
+      "why": "延长器配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、工业 4 PoE + 1 SFP STI-154GP（$40.8）贴 C4Line 标；延长器类 Saga 不供（Q-32）",
       "repeat": [],
       "gaps": []
     },
     "next_move": {
-      "when": "不动",
-      "channel": "—；备用具名邮箱 → bhogan@fiberopticsupply.com, bturner@fiberopticsupply.com, gcharlton@fiberopticsupply.com",
-      "action": "—",
-      "one_question": ""
+      "when": "2027-Q1（换人后）",
+      "channel": "A 邮箱 → 具名 KP",
+      "action": "首封前知悉：Elsa 仅 2025-02-13 单发过 1 封「Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(ad) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用；KC stays on your side））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
+      "one_question": "Gun, to complement the C4Line extender range, we can supply Marvell-based 8-PoE + 2 SFP L2+ and DIN-rail 4-PoE + 1 SFP industrial switches under your label from small lots, CE/RoHS; KC by your side — is a PoE switch SKU something your OEM/ODM roadmap covers? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity)."
     },
     "facts": [
       {
-        "date": "2023-12-20",
-        "dir": "来",
-        "who": "自动回复",
-        "quote": "自动回复里给出代理人/同事邮箱 bhogan@fiberopticsupply.com",
-        "why": "群发一直发给休假/离职的人；这个地址从未发过，是换具名邮箱的现成入口",
-        "k": "5fe850467aa7251b"
+        "date": "2025-02-13",
+        "dir": "out",
+        "who": "Elsa → info@c4line.com",
+        "quote": "Industrial PoE Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+        "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
+        "k": "elsa_1to1",
+        "msg_id": "194fcb6663d15d80"
       },
       {
-        "date": "2023-12-20",
-        "dir": "来",
-        "who": "自动回复",
-        "quote": "自动回复里给出代理人/同事邮箱 gcharlton@fiberopticsupply.com",
-        "why": "群发一直发给休假/离职的人；这个地址从未发过，是换具名邮箱的现成入口",
-        "k": "5fe850467aa7251b"
-      },
-      {
-        "date": "2024-09-27",
-        "dir": "来",
-        "who": "自动回复",
-        "quote": "自动回复里给出代理人/同事邮箱 bturner@fiberopticsupply.com",
-        "why": "群发一直发给休假/离职的人；这个地址从未发过，是换具名邮箱的现成入口",
-        "k": "f88a1716b68677f2"
-      },
-      {
-        "date": "2025-04-05",
+        "date": "2026-09-25",
         "dir": "去",
-        "who": "Elsa 群发（BCC；To sales@solimedia.net，US-3 批次）",
-        "quote": "Marvell Alleycat5 Solution — We are doing Marvell Alleycat5 chip for tailored networking solutions. 1, Support Web GUI change(Logo, model name, MAC, SN, SNMP, OID) 2, Added intere",
-        "why": "Elsa 箱群发 BCC 触达证据（命中地址 fiberopticsupply.com, sales@fiberopticsupply.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-        "k": "elsa_bcc"
+        "who": "A/S 群发",
+        "quote": "Managed Optical Bypass Switch、Industrial PoE Switch",
+        "why": "34 封 / 0 次打开 / 0 回｜首封 2024-06-27 → 末封 2026-09-25（34 去 / 0 来）",
+        "k": "gmail_digest"
       },
       {
-        "date": "2025-06-29",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To sales@solimedia.net，US-3 批次）",
-        "quote": "48 Port PoE Managed Switch — There is a Marvell based 52 port Rack network switch for you. 4*1G/2.5G/10G SFP+48*10/100/1000M Copper, L2+ Managed, PoE af/at, 400W budget Support ST（正文价 300usd/pc，第 74 批(p) 读稿 msg 194eff1f9bf46879 / 1973a613b8166b58）",
-        "why": "Elsa 箱群发 BCC 触达证据（命中地址 fiberopticsupply.com, sales@fiberopticsupply.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-        "k": "elsa_bcc"
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "PoE相关",
+        "why": "表内备注",
+        "k": "用户表"
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-25",
         "dir": "去",
-        "who": "Elsa 群发（BCC；To sales@solimedia.net，US-3 批次）",
-        "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
-        "why": "Elsa 箱群发 BCC 触达证据（命中地址 fiberopticsupply.com, sales@fiberopticsupply.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-        "k": "elsa_bcc"
+        "who": "A 箱（Alan）",
+        "quote": "Managed PoE Switches",
+        "why": "本日去信真实主题（邮箱索引 0522f76078a28b2d；信稿开头句引用此封；此前稿内写的「Managed Optical Bypass Switch」是线程列表首题，不是本封）",
+        "k": "0522f76078a28b2d"
       }
     ],
     "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-25"
+    "draft_en": {
+      "subject": "A PoE switch SKU next to the C4Line extender range - under your label",
+      "body": "Hi Gun,\n\nWe wrote to you once in February 2025 about an industrial PoE switch, and since then only general product mails - most recently \"Managed PoE Switches\" on 25 September 2026 - none of which needed an answer. This one is specific.\n\nExtenders are yours and we do not build them. To sit next to the C4Line range under your label from small lots, CE/RoHS: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based - model STC-28DGGPM - $87.4 USD EXW with your logo (MOQ 1, 15-day validity); DIN-rail industrial 4 x Gigabit PoE+ + 1 x Gigabit + 1 x SFP, unmanaged, -40 to 75 C - STI-154GP - $40.8. KC stays on your side.\n\nOne question: is a PoE switch SKU something your OEM/ODM roadmap covers for 2027, or do you keep the range extender-only?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+    },
+    "as_of": "2026-10-24"
   }
 }

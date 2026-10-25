@@ -2,128 +2,115 @@
  "code": "SB-645",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "在线（market-telecom.kz，快照 2026-10-21）",
- "summary": "哈萨克斯坦 Авантаж Маркет / market-telecom.kz（多品牌 IT 基础设施与安防设备供应商：办公/企业/仓库/住宅项目；站内 TP-Link 38 / Dahua 42 / Hikvision 35 / Ubiquiti 18 / MikroTik 6，博客 PoE/ONV；表内「ONV、Witech、Planet 及其他牌子；工业 FS / SFP / MC」）；群发 18 次无回复。",
- "type": "多品牌 IT/安防设备供应商（哈萨克斯坦）",
+ "website_status": "在线（arthaberlesme.com，快照 2026-10-21）",
+ "summary": "土耳其 ART Haberleşme ve Güvenlik Sistemleri（Karel 授权经销与服务；通信与安防系统：IP 网关 IPG500/1000、MPLS VPN、e-Fax、二手设备；Dahua）；表内 1 次跟进无回复。",
+ "type": "通信/安防集成商（土耳其，Karel 经销）",
  "size": "",
  "brands_seen": [
-  "ONV",
-  "Witech",
-  "Planet",
-  "TP-Link",
   "Dahua",
-  "Hikvision",
-  "Ubiquiti",
-  "MikroTik"
+  "Karel"
  ],
  "evidence": [
   {
    "kind": "官网快照",
-   "claim": "官网标题：Сетевое и телекоммуникационное оборудование в Казахстане；品类词 电信 / FTTH / ISP 设备 / 无线 / WiFi / 数据中心 / 企业 IT / 光纤 / 媒体转换 / 网络交换 / PoE",
-   "quote": "«Авантаж Маркет» — мультибрендовый поставщик оборудования для IT-инфраструктуры и систем безопасности. Решения для офисов, предприятий, складов, ЖК и коммерческих объектов с официальной гарантией и доставкой по Казахстану.",
-   "url": "https://market-telecom.kz/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "ONV Witech planet 以及其他牌子 工业FS SFP MC",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "claim": "官网标题：ART Haberleşme ve Güvenlik Sistemleri | Karel Yetkili Satıcı ve Servisi；品类词 网络交换 / PoE",
+   "quote": "Ürünler；Blog；Duyurular；Teknolojiyi Takip Edin；Bağlantılar；Hakkımızda",
+   "url": "https://www.arthaberlesme.com/",
    "date": "2026-10-21"
   },
   {
    "kind": "官网快照",
-   "claim": "多品牌 IT 基础设施与安防设备供应商",
-   "quote": "«Авантаж Маркет» — мультибрендовый поставщик оборудования для IT-инфраструктуры и систем безопасности.",
-   "url": "https://market-telecom.kz/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "ONV / Witech / Planet；工业 FS / SFP / MC",
-   "quote": "ONV Witech planet 以及其他牌子；工业FS SFP MC",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "claim": "ART 定位",
+   "quote": "ART Haberleşme ve Güvenlik Sistemleri | Karel Yetkili Satıcı ve Servisi ; /urun/mpls-vpn/",
+   "url": "https://www.arthaberlesme.com/",
    "date": "2026-10-21"
   }
  ],
  "kp": [],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "哈萨克斯坦",
-  "other": "官网 market-telecom.kz，语言 ru，快照状态 ok；角色判定来源：官网文案"
+  "hq": "土耳其",
+  "other": "官网 arthaberlesme.com，语言 ?，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "IT 基础设施 / 安防设备多品牌供应"
+  "通信 / 安防系统集成（土耳其）"
  ],
  "channels": {
-  "role": "多品牌 IT/安防设备供应商（哈萨克斯坦）",
-  "region": "哈萨克斯坦",
-  "contact": "info@market-telecom.kz"
+  "role": "通信/安防集成商（土耳其，Karel 经销）",
+  "region": "土耳其",
+  "contact": "info@arthaberlesme.com"
  },
  "signals": [
-  "官网：мультибрендовый поставщик оборудования для IT-инфраструктуры и систем безопасности",
-  "博客 /blog/poe-onv、/blog/4k-switch-poe；站内 kw：poe 223"
+  "官网：ART Haberleşme ve Güvenlik Sistemleri | Karel Yetkili Satıcı ve Servisi；页面 /urun/mpls-vpn/、/urun/e-fax/；站内 IPG1000 / IPG500；kw ethernet 21",
+  "表内：无兴趣备注"
  ],
  "risks": [
-  "非主攻区（T5）；中亚物流/结算需按单核",
-  "多品牌供应商：白牌同质化；18 次无回复，无具名 KP"
+  "Karel 生态（配套交换机可能随品牌方案）；土耳其汇率敏感；仅 info@，1 次无回复"
  ],
  "saga_fit": {
   "p1": "STC-28DGGPM",
-  "tier": 20,
-  "why": "在售 ONV / Witech / Planet → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）对位 ONV/Planet 8 口 PoE；工业位 STI-288GP（$57.4）"
+  "tier": 25,
+  "why": "IP 话机/CCTV 配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424DGGPM-280W（$140.1）"
  },
- "email_hook": "Alongside the ONV and Planet PoE switches you carry, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and DIN-rail industrial PoE models from small lots, EXW — which band moves more for your projects, commercial or industrial PoE?",
+ "email_hook": "For the PoE switches behind your Karel IP telephony and Dahua camera installations, we supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ models (QoS/VLAN for voice) from single units, CE/RoHS, EXW USD — which port count do your projects use most?",
  "mail_review": {
   "binding": {
-   "level": "未触达（A/S 邮箱 28 封 2024→2026，1 次记录打开，0 回；收件 info@market-telecom.kz；主题多为「10G Enterprise SFP Switch、10G Media Converter」；Elsa 箱：`to:market-telecom.kz` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 28 / 来 0）（第 74 批(n)））",
-   "type": "多品牌 IT/安防设备供应商（哈萨克斯坦）",
-   "sieve": "1~2（1 次打开）",
-   "stop": "只打通用邮箱，无记录打开；Q-33 供应商渠道客户",
-   "revive": "不动（Q-33）",
-   "lane": "哈萨克斯坦 非主攻",
-   "cadence": "不动",
-   "evidence": "gmail_digest：out 28，Opened 标签 1（Simon 群发追踪）；用户表：「ONV Witech planet 以及其他牌子 工业FS SFP MC」；研究档 risks：非主攻区（T5）；中亚物流/结算需按单核"
+   "level": "未触达（A 邮箱 5 封 2025→2026，无记录打开，0 回；收件 info@arthaberlesme.com；主题多为「10G Enterprise SFP Switch、Booster PoE Switch」；Elsa 箱：`to:arthaberlesme.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 5 / 来 0）（第 74 批(i)））",
+   "type": "通信/安防集成商（土耳其，Karel 经销）",
+   "sieve": "1（只收到群发）",
+   "stop": "只打通用邮箱，无记录打开",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "TR 主攻（四主）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 5；研究档 risks：Karel 生态（配套交换机可能随品牌方案）；土耳其汇率敏感；仅 info@，1 次无回复"
   },
-  "situation": "哈萨克斯坦 Авантаж Маркет / market-telecom.kz（多品牌 IT 基础设施与安防设备供应商：办公/企业/仓库/住宅项目；站内 TP-Link 38 / Dahua 42 / Hikvision 35 / Ubiquiti 18 / MikroTik 6，博客 PoE/ONV；表内「ONV、Witech、Planet 及其他牌子；工业 FS / SFP / MC」）；群发 18 次无回复。",
-  "need": "在售 ONV / Witech / Planet → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）对位 ONV/Planet 8 口 PoE；工业位 STI-288GP（$57.4）",
-  "breakpoint": "非主攻区（T5）；中亚物流/结算需按单核",
+  "situation": "土耳其 ART Haberleşme ve Güvenlik Sistemleri（Karel 授权经销与服务；通信与安防系统：IP 网关 IPG500/1000、MPLS VPN、e-Fax、二手设备；Dahua）；表内 1 次跟进无回复。",
+  "need": "IP 话机/CCTV 配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424DGGPM-280W（$140.1）",
+  "breakpoint": "Karel 生态（配套交换机可能随品牌方案）；土耳其汇率敏感；仅 info@，1 次无回复",
   "saga_now": {
    "p1": "STC-28DGGPM",
-   "tier": 20,
-   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-06 $65（10G Media Converter）；群发里他已看到的价（续）：2026-08-06 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-07-08 $220（48 port managed switch）、2024-12-31 $240（24 Port Fiber Switch）、2025-07-21 $300（48 Port PoE Managed Switch）、2025-10-17 $280（10G Enterprise SFP Switch）",
-   "why": "在售 ONV / Witech / Planet → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）对位 ONV/Planet 8 口 PoE；工业位 STI-288GP（$57.4）。已打开的主题（1/28 封有打开记录）：「24 Port Fiber Switch」(2024-12-31) → 读者兴趣偏「MC/光电」；与 P1 同类，继续",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-30 $280（10G Enterprise SFP Switch）",
+   "why": "IP 话机/CCTV 配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424DGGPM-280W（$140.1）",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—",
-   "one_question": ""
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
+   "one_question": "For the PoE switches behind your Karel IP telephony and Dahua camera installations, we supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ models (QoS/VLAN for voice) from single units, CE/RoHS, EXW USD — which port count do your projects use most?"
   },
   "facts": [
    {
-    "date": "2026-10-07",
+    "date": "2025-10-30",
     "dir": "去",
-    "who": "A/S 群发",
-    "quote": "10G Enterprise SFP Switch、10G Media Converter",
-    "why": "28 封 / 1 次打开 / 0 回｜首封 2024-07-08 → 末封 2026-10-07（28 去 / 0 来）",
+    "who": "A 箱（Alan）",
+    "quote": "10G Enterprise SFP Switch",
+    "why": "首封去信（邮箱索引；去信共 5 封）",
+    "k": "c91b02b7dbd6c401"
+   },
+   {
+    "date": "2026-03-11",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "10G Enterprise SFP Switch、Booster PoE Switch",
+    "why": "5 封 / 0 次打开 / 0 回｜首封 2025-10-30 → 末封 2026-03-11（5 去 / 0 来）",
     "k": "gmail_digest"
    },
    {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "ONV Witech planet 以及其他牌子 工业FS SFP MC",
-    "why": "表内备注",
-    "k": "用户表"
+    "date": "2026-03-11",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "Updated Ethernet Switches Links",
+    "why": "最近一封去信（邮箱索引；去信共 5 封）",
+    "k": "95a32fcad90818d1"
    }
   ],
   "proof_gaps": [],

@@ -1,37 +1,28 @@
 {
  "code": "SB-007",
- "name_official": "Winsonic Electronics Co., Ltd.（台湾）",
+ "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "在线（ewinsonic.com，快照 2026-10-21）",
- "summary": "台湾工业面板 PC / 无风扇工控机 / 工业显示器制造商，站内含「Industrial Switch」网络与边缘连接品类（PoE、SFP、EN50155 关键词）；表内 Rex 在用 **UniPoE（优力普）**工业 FS，2025-11 对升压 PoE 回复 INFO。工控机配套工业交换机 = 贴牌采购 → OEM 30%。台湾厂商口径：按继承规则台系品牌商不是「渠道客户」，但作为 OEM/贴牌采购方可按 OEM 30% 档跟进（其产品多在深圳采购）。",
+ "website_status": "",
+ "summary": "（加厚挖掘建档，摘要见下文加厚块）",
  "type": "",
  "size": "",
- "brands_seen": [
-  "UniPoE"
- ],
+ "brands_seen": [],
  "evidence": [
   {
-   "kind": "官网快照",
-   "claim": "定位：工业面板 PC / 工控机 / 显示器；站内 Industrial Switch 品类；关键词 industrial 119 / switch 60 / automation 37 / poe 18 / sfp 21",
-   "quote": "Industrial all in one PC touch screen monitors, Panel PC, Rugged Computing… Industrial Switch",
-   "url": "https://ewinsonic.com/",
-   "date": "2026-10-21"
-  },
-  {
    "kind": "用户表",
-   "claim": "在用 UniPoE 的工业 FS；2025-11 升压→INFO",
-   "quote": "兴趣：在用UniPoE的工业FS;工业FS 优力普的；回复：INFO",
+   "claim": "S 重点；之前谈了工业 FS；CEO；WA 加不上",
+   "quote": "之前谈了工业FS / Sergey Khodun CEO / tel: 38(044)59 37976 加不上 / germany24.com.ua / planet.kiev.ua",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
  "kp": [
   {
-   "name": "Rex Lin",
-   "title": "（采购 / 产品，表内联系人）",
-   "email": "rex.lin@ewinsonic.com",
+   "name": "Sergiy Khodun",
+   "role": "Deutsche Import 负责人 / 唯一来信人（2024-11 发 DI order #1 样品单，NSI- 贴牌型号表）",
+   "email": "sergiy.khodun@gmail.com",
    "phone": "",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
+   "source": "S 邮箱 2024 来信表头 + 附件 DI order #1.xls"
   }
  ],
  "grade_override": null,
@@ -39,95 +30,146 @@
  "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照：台系工控 OEM）"
+  "level": "B 级加厚 v1（基于首轮调研整理 + 需求映射；乌克兰守界）"
  },
  "company_facts": {
-  "legal_name": "Winsonic Electronics Co., Ltd.",
-  "founded": "（待核）",
-  "hq": "台湾",
-  "size": "中型工控制造商",
-  "other": "sales@ewinsonic.com"
+  "legal_name": "Germany24 / planet.kiev.ua 运营主体（待核）",
+  "hq": "Kyiv, Ukraine（+380 44 593 7976，WA 加不上）",
+  "size": "待核",
+  "other": "域名 planet.kiev.ua 表明其为 PLANET 品牌在乌克兰的经销/推广站；S 重点名单；22 次跟进、1 次实质回复"
  },
  "business_lines": [
-  "工业面板 PC / 无风扇 PC / 工业显示",
-  "配套工业交换机（外购贴牌，现 UniPoE）"
+  "网络设备经销（PLANET 线）",
+  "（待核）德国商品代购站 germany24"
  ],
  "channels": {
-  "role": "工控制造商（配套外购）",
-  "region": "全球"
+  "网站": "germany24.com.ua · planet.kiev.ua（未抓取）",
+  "邮箱": "info@germany24.com.ua（用户表）"
  },
  "signals": [
-  "现用中国同行 UniPoE 工业 FS → 可同规格替换（Marvell 差异）",
-  "对升压 PoE 有兴趣（Saga 升压款待核 Q-32）"
+  "曾谈工业 FS（光纤交换机）→ 对位 PLANET 工业 DIN 系列；S 重点名单；CEO Sergey Khodun 直达"
  ],
  "risks": [
-  "台系厂商口径；EN50155 车载线不供",
-  "UniPoE 价格基准低"
+  "乌克兰：战时物流/保险/付款与最终用途不可控 → 守界（只被动响应、不主动推送军用可用品类）；WA 加不上"
  ],
  "saga_fit": {
   "p1": "STI-288GP",
-  "tier": 30,
-  "why": "替换 UniPoE 同口型工业 2 光 8 PoE → Saga STI-288GP（$57.4/59.8/62.2）贴 Winsonic 标；升压款按 SmartByte 另询。"
+  "tier": 20,
+  "why": "分销 20% 档（被动）：STI-288GP（DIN 8 GE PoE+ 2 SFP，$57.4）对应曾谈的工业 FS；管理型 STI-288DGGPM（$137.5）。乌克兰守界：仅在对方来询且用途为民用基础设施时报价"
  },
- "email_hook": "Rex, for the industrial PoE switches you bundle with panel PCs — if you send the UniPoE part number you use most, I'll quote the like-for-like unit (Marvell platform on the managed versions) under the Winsonic label, 1-pc sample first.",
+ "email_hook": "（守界：不主动发送；若对方来询——Sergey, for the industrial fibre switch we discussed: DIN-rail 8× GbE PoE+ + 2× SFP at $57.4 EXW, managed L2+ at $137.5; please confirm the civil end-use and delivery route so I can quote shipping.）",
  "mail_review": {
   "binding": {
-   "level": "轻度触达（Rex Lin 2 封：2025-03「interested in the Marvell solution… could you do Qualcomm, MTK or Realtek?」；2025-11 要 Booster 详细规格与价表 → 链接；Elsa 箱：`to:ewinsonic.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 20 / 来 2）（第 74 批(n)））",
-   "type": "台湾网络设备制造商（Winsonic；Rex = 采购/产品）——同行制造商，二供口径",
-   "sieve": "2",
-   "stop": "要价表给链接；多平台问题未答",
-   "revive": "一封：Realtek 线有（STC 商用）、Qualcomm/MTK 无",
-   "lane": "TW",
-   "cadence": "一封",
-   "evidence": "k=6a176ba292b92e65 / a1d6d7a7e1d0a1f5 / 26e3057cfa079fbf；第 19 批回补来信原文 1 条（gmail_s/gmail_a）"
+   "level": "未绑定（订单意向止于身份追问）——曾递交首张测试订单 BO（2024-11-20；Elsa 箱：`to:germany24.com.ua OR to:planet.kiev.ua` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 28 / 来 4）（第 74 批(k)））",
+   "type": "乌克兰进口商 + 自有标（要印自己品牌/型号/序列号，每型号常规 20–30 台）；Sergiy Khodun——第二档「有进口经验者」+ 贴牌",
+   "sieve": "3（BO 已发：DI order #1.xls；问交期/标签样/GUI logo）",
+   "stop": "2024-11-22「your company is not a manufacturer and does not have its own production facilities… right?」→ Simon「We are a manufacturer, at the same time, we trade. Marvell… manufacture, Realtek from other suppliers」→ 再无来信；BO 疑含 Realtek 低价款（他 5 月问过 STI-050FE/080FE 25/40 USD 的价差）",
+   "revive": "以 sagatele.com 现口径（Engineering & Supply-Chain-First）重述身份一次 + 问 2024 BO 是否仍有效；UA 物流/付款需先核",
+   "lane": "UA（战时物流/付款待核；对方 2024 要普通快递）",
+   "cadence": "2024-05 → 2026-09 去信 28 封；最后来信 2024-11-22",
+   "evidence": "k=ce8e1aaaf377b7e8 / 510ef3ba6b343873 / fbd001897a47c982 / eaa8056ace798022 / d6c3e30a8869b4c6"
   },
-  "situation": "—",
-  "need": "Booster PoE 管理型 + 多芯片平台。",
-  "breakpoint": "回法。",
+  "situation": "Deutsche Import 是 A 级里唯一真正递交过订单表的乌克兰客户：2024-05 就问能否按其品牌印标签/型号/序列号（每型号 20–30 台常规量），2024-11-20 发来「first order for testing」BO，问交期（Simon：7–10 工作日）、标签样、GUI 加 logo（Simon：免费）。两天后他问「你们不是制造商、没有自己的产线对吧？」，Simon 答「既制造也贸易，Marvell 自产、Realtek 来自其他供应商」，对话终止。",
+  "need": "小批量自有标：Marvell 管理型 + Realtek 低价非管理（DIN 5/8 口），GUI 带 logo。",
+  "breakpoint": "身份问题是真实停点（摘读 D12/D13）：对方要的是「厂」的确定性，Saga 当时的回答把 Realtek 线的「贸易」属性摆在了订单前面。现口径「Engineering & Supply-Chain-First」正好是对这个问题的答案。",
   "saga_now": {
-   "p1": "STI-488XGGBPM",
+   "p1": "BO 内 Marvell 款（具体型号在 DI order #1.xls，附件未入库）；Realtek 款按 Simon 是否开线",
    "tier": 30,
-   "price": "$215（2025-12 对 Thor 报价）；群发里他已看到的价（续）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-17 $280（10G Enterprise SFP Switch）",
-   "why": "制造商二供。已打开的主题（7/20 封有打开记录）：「Re: Booster PoE Switch」(2025-11-25)、「Re: Booster PoE Switch」(2025-12-15)、「Re: Booster PoE Switch」(2026-01-06)、「Re: Booster PoE Switch」(2026-01-29) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续｜已发资料（勿重发）：Download Link_Alan(2025-11-25)、Product Link_2026Q2(2026-03-30)、Product Link_2026Q3(2026-07-20)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）",
+   "price": "他见过/自填的价：Simon 2024-05 STI-050FE $25 / 050FE-M $20 / 080FE $40；他 BO 自填 NSI-500F $19 / 800F $24 / 820GP $53 / NSIM-420G $60 / 820G $70 / 820GP $80（2024-11-20）；按 30% 自有标档（㉕ 封顶：STI-288DGGPM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25）",
+   "why": "J3：一次性回答身份 + 问旧 BO，成本一封信；UA 风险另核｜已发资料（勿重发）：Saga Feature List_7.5.x_L2+(2026-06-22)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）",
    "repeat": [],
-   "gaps": []
+   "gaps": [
+    "DI order #1.xls 内容未入库",
+    "UA 物流（百运网能否到基辅）与付款（T/T 可否）"
+   ]
   },
   "next_move": {
-   "when": "2026-11",
-   "channel": "A 邮箱 → rex.lin@ewinsonic.com",
-   "action": "给价表",
-   "one_question": "Rex — Booster PoE managed (STI-488XGGBPM) is $215 EXW in OEM lots; on platforms: Marvell AC5 and Realtek yes, Qualcomm/MTK no."
+   "when": "被动（乌克兰守界：build 规则「封顶 B · 不主动投入，仅被动响应」；备稿留用，他若来信即用）（全量审计 2026-10-25 U57）",
+   "channel": "S 邮箱 → sergiy.khodun@gmail.com",
+   "action": "【原计划 2026-11（一次）主动去信，与乌克兰守界规则冲突，改为被动；Simon 若要主动发一次，这封稿可直接用】两段：Saga 现身份一句话；2024 BO 的 Marvell 项是否仍要、7–10 天交期不变",
+   "one_question": "Your Nov-2024 test order (DI order #1) — is it still worth shipping the Marvell items with your label, 7–10 days after payment?"
   },
   "facts": [
    {
-    "date": "2025-03-19",
+    "date": "2024-04-26",
     "dir": "来",
-    "who": "rex.lin@ewinsonic.com",
-    "quote": "Dear Alan, Yes, I am insterested in the Marvell solution. We are doing networking Switch, Router and Gateway. Except Marvell, could you do Qualcomm, M",
-    "why": "来信原文（主题「轉寄: Marvell Alleycat5 Solution」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
-    "k": "6a176ba292b92e65"
+    "who": "用户表（Simon 跟进记录；渠道 Email）",
+    "quote": "用户表跟进：推「发了2光4小壳信息」→ 对方「sergiy.khodun@gmail.com」",
+    "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+    "k": "Clients/S 09.08.xlsx no.16 2024.4.26"
    },
    {
-    "date": "2025-11-24",
-    "dir": "来",
-    "who": "Rex Lin",
-    "quote": "Coule you provide detial spec and price list?",
-    "why": "要价表",
-    "k": "a1d6d7a7e1d0a1f5"
-   },
-   {
-    "date": "2026-01-29",
+    "date": "2024-05-27",
     "dir": "去",
-    "who": "Saga（Alan）",
-    "quote": "Hi, Rex, How are you? I am introducing our CENTEC-based core and aggregation switches. 1, A cost-effective alternative to Cisco or Huawei models 2, Multiple models(10G~800G) available for various network scales 3, Full L3 features(VXLAN, EVPN, MPLS, Stacking etc.) suitable for core and aggregation l…",
-    "why": "Saga 实质答复原文（主题「Re: Booster PoE Switch」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
-    "k": "83397972ba8367d6"
+    "who": "Simon → Sergiy（Re: L3 managed switch）",
+    "quote": "STI-050FE-M（M = mini）：STI-050FE 的无 DIP 变体，DC12~36V，85×85×30 mm 0.4 kg，**$20/pc**（STI-050FE 本体 $25、STI-080FE $40——Sergiy 5-29 嫌 5 口→8 口差价太大「PLANET 只差 10%」）。",
+    "why": "Sergiy 一直拿 PLANET 当基准（他同时经营 planet.kiev.ua）——对他报价要按「PLANET 同档 −x%」而不是按我们自己的阶梯",
+    "k": "S 邮箱 2024-05-27（在 05-29 来信引用中）"
+   },
+   {
+    "date": "2024-05-29",
+    "dir": "来",
+    "who": "Sergiy Khodun",
+    "quote": "Do you print labels with our BRAND name, model's name and serial number if we'll be do order regularly about 20-30pcs per models?",
+    "why": "自有标 + 常规量",
+    "k": "ce8e1aaaf377b7e8"
+   },
+   {
+    "date": "2024-05-29",
+    "dir": "去",
+    "who": "Simon → Sergiy（附 Miscellaneous Fee_Saga Telecom.pdf + Label_Saga Telecom.pdf，05-30 补发）",
+    "quote": "① STI-080FE 只有 DIP 版（不用可忽略）；② 「that price is just for reference only… For the unit price, we could discuss」；③ 自有 logo 印 PVC 面膜：**$150 / 300 片（MoQ）**（随附《Miscellaneous Fee》写的是 PVC mask MoQ 300 pcs @ $1/pc；COO 产地证 $15/份、发货前 ≥2 个工作日）；型号名 + 序列号印标签**免费**；「we are doing a simple, standard business… serious discussions before finalizing, then things are very easy」。",
+    "why": "OEM 小费用口径的出处之一（`Saga商务条款速查.md` 同源）；注意邮件 $150/300 与 PDF $1/pc×300 = $300 不一致——再报时统一按 PDF",
+    "k": "S 邮箱 2024-05-29 14:22Z / 05-30 05:29Z；附件 sha=6c630744e13c20e8 / 5acc4883e9071d46"
+   },
+   {
+    "date": "2024-11-20",
+    "dir": "来",
+    "who": "Sergiy",
+    "quote": "We are going to do our first order for testing your products. Pls refer to our current BO attached.",
+    "why": "BO 递交",
+    "k": "510ef3ba6b343873"
+   },
+   {
+    "date": "2024-11-20",
+    "dir": "去",
+    "who": "Simon",
+    "quote": "For the listed quantity and models, 7~10 working days… logo… free of cost",
+    "why": "交期与贴牌答复",
+    "k": "fbd001897a47c982"
+   },
+   {
+    "date": "2024-11-20",
+    "dir": "来",
+    "who": "Sergiy（DI order #1.xls，「Samples order form DI」）",
+    "quote": "首张测试订单 BO 全文（Saga 型号 → **他的品牌型号 NSI-/NSIM-**，数量 × 他填的目标价）：Realtek 线 STI-050FE→NSI-500F ×20 @$19；STI-054GP-BT→NSI-500GP ×2 @$25；STI-080FE→NSI-800F ×10 @$24；STI-088GP-BT→NSI-800GP ×2 @$41；STI-240GE→NSI-420G ×5 @$31；STI-280GE→NSI-820G ×3 @$46；STI-288GP-BT→NSI-820GP ×2 @$53；Marvell 管理线 STI-240GM→NSIM-420G ×5 @$60；STI-280GM→NSIM-820G ×3 @$70；STI-288GP-BT(管理)→NSIM-820GP ×2 @$80。合计 54 台 ≈ **$1,821**；另附 7 份已改成 NSI 型号名的 datasheet。",
+    "why": "这是一张**客户自己填价的 OEM 样单**：他给的 050FE $19 / 080FE $24 比 Simon 5 月的 $25 / $40 低 24%~40%——Simon 11-20 回了交期/标签/GUI 但**没有对价格表态**，11-22 他转问「你们是不是工厂」后断了。重启时的两件事：按 BO 逐行回价（可接受/不可接受），并回答工厂问题（口径：Marvell 自研 + 深圳/惠州合作产线，不说贸易商）",
+    "k": "S 邮箱 2024-11-20 13:34Z / 13:52Z；附件 sha=4ad29aabfbcdad16（DI order #1.xls）+ 35edfc3e529f14ca 等 7 份"
+   },
+   {
+    "date": "2024-11-22",
+    "dir": "来",
+    "who": "Sergiy",
+    "quote": "As far as I understand, your company is not a manufacturer and does not have its own production facilities. You operate in cooperation with other manufacturers, right?",
+    "why": "身份追问 = 停点",
+    "k": "eaa8056ace798022"
+   },
+   {
+    "date": "2024-11-22",
+    "dir": "去",
+    "who": "Simon",
+    "quote": "We are a manufacturer, at the same time, we trade. Marvell solution is what we do/manufacture, while Realtek is from other suppliers(trading).",
+    "why": "当时口径",
+    "k": "d6c3e30a8869b4c6"
    }
   ],
-  "proof_gaps": [],
+  "proof_gaps": [
+   "BO 具体型号/数量",
+   "对方 2026 年是否仍在营业（战时）——官网未核"
+  ],
   "draft_en": {
-   "subject": "Detailed spec and price — Booster PoE managed",
-   "body": "Hi, Rex,\n\nYour November request for spec and prices — here is the concrete answer:\n\n- STI-488XGGBPM: 8x GbE PoE + 4x 1G/2.5G/10G SFP+, L2+ managed, internal power booster — $215 USD EXW in OEM lots (2026-10 price table, valid 15 days from this mail)\n- Platforms we build on: Marvell AC5 (managed) and Realtek (entry); no Qualcomm/MTK.\n- OEM: logo, model name, GUI, packaging from 50 pcs.\n\nOne question: is the booster-PoE managed unit for your own catalogue, or a project where I should quote a specific quantity?\n\nThank you.\nAlan\nSaga Telecom - sagatele.com"
+   "subject": "DI order #1 (Nov 2024) — still worth shipping?",
+   "body": "Hi Sergiy,\n\nTwo years ago your first test order (DI order #1, 20 Nov 2024) stopped on the question of who we are. The plain answer today: Saga is an engineering-led supplier — the Marvell managed line is our own platform (firmware, web GUI with your logo, feature roadmap), the low-cost unmanaged items are sourced from partner factories under our QC. We do not pretend to own the SMT line.\n\nOne question: are the Marvell items in that BO still worth shipping with your label, 7–10 working days after payment, as quoted then? If yes, I will re-issue the proforma at current prices; if no, I will close the file.\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
  }

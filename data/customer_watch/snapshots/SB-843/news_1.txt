@@ -1,140 +1,77 @@
-# SB-843 kbvdatacom.rs · news_1 · http://www.kbvdatacom.rs/sr/portfolio.html · fetched 2026-10-25T07:41:18Z · HTTP 200
-Portfolio KBV DATACOM
-latinica | ћирилица
-Početna
-Mapa sajta
-Kontakt
-Proizvodi Telekomunikaciona infrastruktura
-Strukturno kabliranje
-SINOP
-Sistemi obezbeđenja
-Elektroenergetski sistemi
-Usluge Projektovanje
-Inženjering
-Merenja CD i PMD
-Konsalting
-Projektantski i izvođački nadzor
-Tehnički pregled objekata
-Portfolio Reference firme
-Reference zaposlenih Telekomunikaciona infrastruktura
-Saobraćajna infrastruktura
-Energetska infrastruktura
-Mediji Novosti
-Galerija
-Press
-O nama Profil firme
-Reference
-Misija i vizija
-Društvena odgovornost
-Finansijski pokazatelji
-Završni račun 2012
-Završni račun 2013
-Bilans stanja 2014
-Bilans uspeha 2014
-Statistički izveštaj 2014
-Bilans stanja 2015
-Bilans uspeha 2015
-Statistički izveštaj 2015
-Kreditni izvestaj KBV DATACOM doo Podgorica
-Sertifikati i licence
-Posao
-Kontakt
-Reference firme
-Objavljeno u Portfolio
-Navedene su samo najznačajnije reference.
-Projektovanje i izgradnja optičkog kabla za povezivanje baznih stanica u Smederevu (ključ u ruke) - ( TELENOR)
-Projektovanje i izgradnja optičkog kabla u Inđiji (ključ u ruke) - ( TELENOR)
-Projektovanje i izgradnja optičkog kabla za povezivanje baznih stanica u Surčinu (ključ u ruke) - ( TELENOR)
-Projektovanje i izgradnja optičkog kabla u Velikoj Plani (ključ u ruke) - (TELENOR)
-Projektovanje i izgradnja optičkog kabla u Dimitrovgradu (ključ u ruke) – ( TELENOR)
-Projektovanje i izgradnja telekomunikacione hibridno optičko-koaksijalne mreže u Bijelom Polju (MTEL CRNA GORA)
-Projektovanje i izgradnja telekomunikacione optičke mreže za povezivanje baznih stanica na području Subotice (32km) (TELENOR)
-Projektovanje i izgradnja telekomunikacione pristupne mreže i optičkog kabla na području naselja Busije (TELEKOM SRBIJA)
-Projektovanje i izgradnja telekomunikacione pristupne mreže i optičkog kabla na području naselja Plavi Horizonti (TELEKOM SRBIJA)
-Projektovanje i izgradnja telekomunikacione optičke mreže za povezivanje baznih stanica na području Inđije,S tare Pazove, Nove Pazove i Batajnice (TELENOR)
-Projektovanje i izgradnja privodnog optičkog kabla za Sava Centar i hotel Crowne Plaza (TELENOR)
-Projektovanje i izgradnja telekomunikacione optičke mreže za povezivanje baznih stanica na relaciji TK Kontejner Umčari (Autoput (E75)) – Pudarci – Grocka – Begaljica (18km) (TELENOR)
-Projektovanje i izgradnja telekomunikacionog privodnog optičkog kabla za RBS Kovačica, RBS Plandište, RBS Vršac (TELENOR)
-Izgradnja optičkog kabla Beograd-Mladenovac - ( TELEKOM SRBIJA)
-Izgradnja optičkog kabla ATC Karaburma-MSAN Ćalije i ATC Karaburma-ATC Mirjevo - ( TELEKOM SRBIJA)
-Izgradnja mreže optičkih kablova na relaciji Beograd-Valjevo- ( SBB)
-Izgradnja optičkih i koaksijalnih kablova (HFC mreža) u Beogradu- ( SBB)
-Izgradnja optičkog kabla prilikom izmeštanju energetskog koridora severno od autoputa E75 u Novom Sadu – (TRANSNAFTA)
-Izgradnja privodnog optičkog kabla za Vetropark Kula (Vetropark Kula)
-Izgradnja SPOK ATC Loncari – ATC Obudovac – ATC D.Slatina (MTEL BIH)
-Izgradnja optičkog kabla na relaciji ATC Modriča –Šešlije (MTEL BIH)
-Izgradnja optičkog kabla na relaciji Preljina- Mrčajevci (TELEKOM SRBIJA)
-Izgradnja pristupne mreže i optičkog kabla za mIPAN Umčari -(TELEKOM SRBIJA)
-Izmeštanje, zaštita i izgradnja nove telekomunikacione infrastrukture, TTK kanalizacije i telekomunikacionih kablova za potrebe izgradnje mosta preko Ade u Beogradu –( PORR)
-Izgradnja optičkog kabla Pančevo-Kovin-Autoput E75 – ( TELENOR)
-Instalacija i puštanje u rad Alcatel-Lucent DSLAM uređaja, ISAM 7302, na 25 indoor lokacija (TELEKOM SRBIJA)
-Izgradnja tri lokacije za mobilnog operatera M-TEL iz Crne Gore na principu „turn-key“, (BD25 Petrovac, PG08 Plavnica i PG95 Vitoja), od kojih je jedna roof top, jedna raw land sa cevastim stubom od 12m i jedna kolokacija (MTEL GG)
-Izgradnja N28I (OK Beograd-Paraćin)-ATC Požarevac (mikro kabl) (TELEKOM SRBIJA)
-Glavni projekat uređenja lokacije za smještaj Data centra u Bijelom Polju (MTEL Crna Gora)
-Glavni projekti uređenja lokacija i Glavni projekat RBS na lokacijama BA32 Dapsići, BD25 Petrovac, CT09 Njeguši, PG08 Plavnica, PG82 Dinoša i PG95 Vitoja (MTEL Crna Gora)
-Glavni projekat svetlosne signalizacije za postavljanje semafora na raskrnicama u Kruševcu, investitor JP "Direkcijaza urbanizam i izgradnju", Kruševac
-Idejno rešenje za postavljanje Led displeja i portala u Čitluku, u gornjem Stepošui u VelikimKupcima, investitor JP "Direkcija za urbanizam i izgradnju", Kruševac
-Glavni projekat za obnovu glavnom opravkom deonice pruge tunel Straževica (ulaz) - Jajinci - Mala Krsna (isključivo) od km 9+896 do km 67+800 knjiga 10 – Projekat glavne opravke elektroenergetskih postrojenja (Železnice Srbije)
-Glavni projekat rekonstrukcije glavnom opravkom pruge na deonici Resnik – Valjevo od km 0+425 do km 78+050, dužine 77,625m knjiga 14 – Projekat glavne opravke elektroenergetskih postrojenja (Železnice Srbije)
-Glavni projekat za izgradnju optičkog kabla na relaciji Autoput E75-Šabac –(SBB)
-Glavni projekat za izgradnju i integraciju FS/CDN IPTV MIDDLEWARE platforme –(INTRACOM )
-Glavni projekat povezivanja Telenorovih baznih stanica u Železari Smederevo –(TELENOR)
-Glavni projekat za izgradnju optičkog kabla na relaciji ATC Golubac – ATC Dobra i ATC Ljig-ATC Slavkovica – (TELEKOM SRBIJA)
-Projektovanje magistralnog gasovoda JUŽNI TOK na teritoriji R. Srbije (deonice od 1 do 8) – tehnološke veze (SOUTH STREAM)
-Projektovanje magistralnog gasovoda JUŽNI TOK na teritoriji R. Srbije (deonice od 1 do 8) – govorne veze (SOUTH STREAM)
-Projektovanje magistralnog gasovoda JUŽNI TOK na teritoriji R. Srbije) – automatizovani sistem upravljanja tehnološkim procesima visokog nivoa (SOUTH STREAM)
-Projektovanje sistema restriktivne kontrole pristupa glavnoj pešačkoj zoni u Zemunu (GRAD BEOGRAD)
-Projektovanje telekomunikacionog optičkog kabla za povezivanje Vetroelektrane Čibuk 1 na telekomunikacionu mrežu (CONTINENTAL WIND SERBIA)
-Projektovanje telekomunikacione infrastrukture na relaciji OK Lapovo – BS KG01 (TELEKOM SRBIJA)
-Projektovanje telekomunikacione infrastrukture na relaciji OK Industrijska zona AR – Radovići (TELEKOM SRBIJA)
-Projektovanje telekomunikacione infrastrukture na relaciji OK Aranđelovac – Tulež (TELEKOM SRBIJA)
-Projektovanje telekomunikacione infrastrukture na relaciji OK Tornik – Dobroselica – NR 21a (TELEKOM SRBIJA)
-Projektovanje telekomunikacione infrastrukture na relaciji OK NL9 – N9/1 (OK Valjevo – Užice) (TELEKOM SRBIJA)
-Projektovanje telekomunikacione infrastrukture na relaciji OK N9/1 (OK Valjevo – Užice)– Tvrdići (TELEKOM SRBIJA)
-Projektovanje telekomunikacione infrastrukture na relaciji TKC Surdulica – Okruglica – Vlasina Rid (TELEKOM SRBIJA)
-SINOP-Sistem digitalnog video nadzora sa ugrađenom video analitikom za perimetarsku zaštitu (Millennium Team)
-SINOP-Sistem infracrvenih i mikrotalasnih detektora i barijera i senzorskih kablova za perimetarsku zaštitu kao i sistem za perimetarsku zaštitu sa detektorima ukopanih ispod zemljine površine i detektorima na ogradi objekta (Millennium Team)
-SINOP-Sistem infracrvenih i mikrotalasnih barijera za perimetarsku zaštitu (Millennium Team)
-SINOP-Instalacija integrisanog sigurnosnog sistema koji integriše perimetarske sisteme, video nadzor, protivprovalne sisteme (Millennium Team)
-Portfolio
-Reference firme
-Reference zaposlenih
-Kontakt
-KBV Datacom d.o.o.
-PIB: 106983968
-Matični broj: 20718749
-Adresa: Vladimira Popovića 6
-11070 Novi Beograd
-Tel: +381 11 41 48 220
-Fax: +381 11 220 620 9
-www.kbvdatacom.rs
-mail: office@kbvdatacom.rs
-KBV Datacom d.o.o. Podgorica
-PIB: 03005534
-PDV: 30/31-13675-9
-Adresa: Džordža Vašingtona 44
-81000 Podgorica
-Crna Gora
-Tel: +382 20 232 344
-Fax: +382 20 232 355
-www.kbvdatacom.me
-mail: office@kbvdatacom.me
-KBV Datacom d.o.o. Banja Luka
-Matični broj: 11130887
-JIB: 4403878620005
-PIB: 403878620005
-Adresa: Petra Kočića 27
-78000 Banja Luka
-Republika Srpska
-Bosna i Hercegovina
-Tel: +387 (0) 51 302 582
-Fax: +387 (0) 51 302 582
-www.kbvdatacom.com
-mail: office@kbvdatacom.com
-Proizvodi
-Usluge
-Portfolio
-Mediji
-O nama
-Kontakt
-Izrada sajta Sky Net d.o.o.
+# SB-843 mir-sb.com · news_1 · https://mir-sb.com/blog · fetched 2026-10-25T07:41:18Z · HTTP 200
+Полезная информация и статьи по системам видеонаблюдения
+Личный кабинет
+Регистрация
+Авторизация
+Закладки (0)
+Оформление заказа
+8(8172)70-38-35
+г. Вологда, ул. Щетинина,6 ,Пн.-Пт с 10.00-19.00, Обед 13.00-14.00
+0 шт.
+Ваша !
+Категории
+IP видеокамеры
+IP видеокамеры 1 Мп (3)
+IP видеокамеры 2 Мп (15)
+IP видеокамеры 3,4,5,8 Мп (32)
+IP Wi-Fi видеокамеры
+IP регистраторы NVR
+Сетевое оборудование
+Кабельная продукция
+Блоки питания
+Статьи
+Блог
+Статьи
+В данном разделе нашего сайта мы будем публиковать информацию полезную для наших пользователей.
+Вы всегда можете ознакомиться с новостями видеонаблюдения, нашими реализованными объектами, задать вопросы по системам видеонаблюдения и получить ответы!
+Выберите категорию:
+Обслуживание систем видеонаблюдения на 2026 год!
+Просмотров: 3741
+ООО «Мир систем безопасности» предлагает организациям, индивидуальным предпринимателям и частным лицам заключить договор на обслуживание систем видеонаблюдения на 2026 год.
+Подробнее
+Видеонаблюдение в Россельхозбанк
+Просмотров: 4572
+Нашей компанией выполнен монтаж видеонаблюдения во всех отделениях Россельхозбанка Вологодской области
+Подробнее
+Видеонаблюдение на заводе ультразвукового оборудования г. Вологда
+Просмотров: 4101
+Новый 2022 год начался интересными проектами, нашей компанией выполнена установка современного IP видеонаблюдения на крупном предприятии по производству ультразвукового оборудования!
+Подробнее
+Видеонаблюдение в офисах продаж Билайн
+Просмотров: 4160
+Установка видеонаблюдения в офисах продаж Билайн
+Подробнее
+Показано с 1 по 4 из 28 (всего 7 страниц)
+1
+2
+3
+4
+5
+6
+7
+>
+>|
+Информация
+Техподдержка
+О нас
+Доставка и оплата
+Политика конфиденциальности и обработки персональных данных
+Условия соглашения
+Контакты
+Служба поддержки
+Контакты
+Возврат товара
+Карта сайта
+Дополнительно
+Производители
+Подарочные сертификаты
+Партнерская программа
+Акции
+Личный Кабинет
+История заказов
+Закладки
+Рассылка
+Интернет магазин IP видеонаблюдения © 2026
+Согласие об использовании файлов Cookies, сервиса Яндекс Метрика и обработки персональных данных в соответствии с требованиями Федерального закона от 27.07.2006. № 152-ФЗ «О персональных данных»
+Продолжая пользоваться сайтом, вы соглашаетесь с Политикой в отношении обработки персональных данных, использования файлов Cookies, а также сервиса Яндекс Метрика. Политика конфиденциальности и обработки персональных данных
+Соглашаюсь

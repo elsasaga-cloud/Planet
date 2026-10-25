@@ -1,0 +1,11 @@
+# SB-397 netiks.rs · feed_auto · http://www.netiks.rs/feed/rss · fetched 2026-10-25T07:41:18Z · HTTP 200
+Fri, 08 Jan 2021 11:36:45 +0000	MikroTik Gigabit outdoor PtP / PtMP wireless 802.11ay/ad na 60GHz + 5GHz do 2.4km	http://www.netiks.rs/nray
+Fri, 23 Dec 2022 11:33:07 +0000	TP-Link Omada cloud biznis mrežna rešenja	http://www.netiks.rs/tp-link-promocija
+Mon, 29 Aug 2022 08:24:27 +0000	Netiks ‘NT‘ transiver moduli SFP / SFP+ / XFP / SFP28 / QSFP+ Ethernet i GPON	http://www.netiks.rs/sfp-moduli
+Tue, 07 Nov 2023 09:02:14 +0000	EverExceed Ultra High Rate baterije sa radnim vekom 12 god i radnom temp -40 ~ +70°C	http://www.netiks.rs/everexceed
+Wed, 14 Oct 2020 10:46:47 +0000	SONOFF SRBIJA - pametna kuća, automatizacija, alarm, video nadzor "sve u jednom"	http://www.netiks.rs/sonoff
+Wed, 20 Jan 2021 09:02:02 +0000	LR-LINK - svi tipovi Ethernet serverskih, desktop i industrijskih mrežnih adaptera	http://www.netiks.rs/lr-link
+Wed, 14 Oct 2020 10:27:30 +0000	ZLAN industrijski & IoT uređaji i rešenja	http://www.netiks.rs/zlan-industrijski-a-iot-ureaji-i-reenja
+Wed, 26 Nov 2014 11:43:48 +0000	RF Elements - antenski sistemi i prateće komponente	http://www.netiks.rs/rf-elements-antenski-sistemi-i-pratece-komponente
+Mon, 24 Nov 2014 22:00:00 +0000	GRANDSTREAM (USA) - integrisana rešenja za IP voice & video telefoniju i video nadzor	http://www.netiks.rs/grandstream-usa-integrisana-reenja-za-ip-voice-a-video-telefoniju-i-video-nadzor
+Mon, 24 Nov 2014 22:00:00 +0000	DCN - 1G, 10G, 40G i 100-Gigabitni L3 BGP, MPLS svičevi sa softverom identičnim Cisco IOS-u	http://www.netiks.rs/dcn-mrena-oprema-sa-softverom-identinim-cisco-ios-u

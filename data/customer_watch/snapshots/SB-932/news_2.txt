@@ -1,0 +1,144 @@
+# SB-932 acceed.com · news_2 · https://acceed.com/de/news/gt-92 · fetched 2026-10-25T07:41:18Z · HTTP 200
+GT-92: Lüfterloses KI-Rack-System für den Dauerbetrieb | Neuigkeiten
+info@acceed.com
++49 211 938898 0
+DE
+|
+EN
+Startseite
+Produkte
+PC Server
+Industrial Computers
+PC Add-On Cards
+Network
+Vision & Video
+Software
+Signal Conditioning
+Sensors and Accessories
+Other
+Filter
+Neuigkeiten
+Kontakt
+Service
+Konto
+Login
+DE
+|
+EN
+0
+Ihr Warenkorb ist leer.
+Gesamt: 0.00 EUR
+Warenkorb ansehen
+Startseite
+Produkte
+PC Server
+Industrial Computers
+PC Add-On Cards
+Network
+Vision & Video
+Software
+Signal Conditioning
+Sensors and Accessories
+Other
+Filter
+Neuigkeiten
+Kontakt
+Service
+Konto
+Login
+SUCHEN SIE DIE PASSENDE
+INDUSTRIELLE LÖSUNG?
+Entdecken Sie Embedded-, Kommunikations- und Automatisierungslösungen für Ihre Anwendung.
+Startseite
+/
+Neuigkeiten
+/
+GT-92: Fanless AI rack system for continuous operation
+GT-92: Lüfterloses KI-Rack-System für den Dauerbetrieb
+Industrielle Anwendungen gieren nach Rechenleistung am Netzwerkrand, dort, wo Daten entstehen. Echtzeitfähige KI-Systeme für Bildverarbeitung, Qualitätskontrolle oder autonome Maschinen sollen große Datenmengen direkt vor Ort auswerten. Das Umgehen von Cloud-Architekturen spart Zeit, Bandbreite und senkt Kosten. Allerdings stellen Edge-Anwendungen besondere Anforderungen: hohe Leistung bei begrenztem Platz, beständige Verfügbarkeit trotz Staub und Vibrationen sowie hohe Toleranz bei der Umgebungstemperatur. Genau auf diese Anforderungen zugeschnitten ist der neue GT-92, ein 19-Zoll-Rack-System, das GPU-Beschleunigung, Multikamera-Anbindung und lüfterloses Chassis-Design kombiniert.
+Ein zentrales Merkmal des Neousys
+GT-92 ist seine Anschlussvielfalt. Für Multikamera-Setups in der
+Qualitätskontrolle, robotischen Führungssystemen oder autonomen
+Fahrzeugen zeigt sich hier ein entscheidender Vorteil. Acht
+Gigabit-Ethernet-Ports mit PoE+ (IEEE 802.3at) versorgen Kameras
+direkt mit Strom, insgesamt bis zu 100 W bei 24 V Eingangsspannung.
+Zusätzlich gibt es einen weiteren GbE-Port, vier USB 3.2 Gen2-Ports
+(10 Gbps) sowie optionale serielle, CAN-Bus- und
+Digital-I/O-Schnittstellen. Damit lassen sich bis zu zwölf Kameras
+gleichzeitig anbinden, acht über Ethernet, vier über USB.
+Im Kern basiert
+der lüfterlose Hochleistungsrechner Neousys GT-92 auf Intels
+Plattform der 12. bis 14. Generation (LGA1700-Sockel) und unterstützt
+CPUs mit 35 W oder 65 W TDP. Für GPU-Aufgaben ist eine NVIDIA RTX
+2000 ADA an Bord, die 70 W Leistung ohne aktive Kühlung bietet. Der
+Rechner verzichtet vollständig auf Lüfter und nutzt stattdessen ein
+ausgefeiltes Heatpipe- und Kühlrippen-Design. Damit arbeitet das
+System zuverlässig zwischen -25 und +55 °C (bei Konfiguration mit
+35 W CPU).
+Beim eigenen
+Datenspeicher setzt der Controller auf aktuelle Standards: Ein
+M.2-Sockel erlaubt NVMe-SSDs mit rund 7 GB/s Transferrate. Zwei
+Schächte für 2,5-Zoll-SATA-Laufwerke ergänzen die
+Speicherkapazität, etwa für RAID-Konfigurationen oder lokale
+Datensicherung. Zwei mPCIe-Slots mit internen SIM-Sockeln ermöglichen
+Modulerweiterungen, etwa für Mobilfunk, WiFi oder zusätzliche
+I/O-Karten. Mit bis zu 64 GB DDR5-RAM ist das System auch
+speicherseitig auf aktuelle Anforderungen vorbereitet.
+Das
+herausragende Alleinstellungsmerkmal des Neousys GT-92 liegt in
+seiner Kombination aus GPU-Beschleunigung und vollständig
+lüfterlosem Design. Gerade im industriellen Dauerbetrieb kann das
+ein entscheidender Faktor sein: Lüfterausfälle zählen zu den
+häufigsten Hardware-Defekten in rauer Umgebung. Ein passiv gekühltes
+System verlängert die Betriebsdauer und reduziert Wartungskosten
+deutlich, was sich nicht zuletzt in den Total Cost of Ownership (TCO)
+niederschlägt. Die Kühlleistung reicht aus, um CPU und GPU
+gleichzeitig bei maximaler Last innerhalb der Spezifikation zu
+halten.
+Der Neousys
+GT-92 zeigt, dass sich hohe GPU-Leistung und robuste
+Industrieausführung nicht ausschließen. Das System ist technisch
+sauber konstruiert, auf Dauerbetrieb ausgelegt und klar auf
+Multikamera- und KI-Anwendungen zugeschnitten. Wer KI-Inference,
+Bildanalyse oder Sensordatenfusion direkt am Ort des Geschehens
+benötigt, erhält damit eine verlässliche Plattform mit Reserven
+für künftige Aufgaben.
+Acceed hält alle Konfigurationen des neuen Neousys GT-92 für
+kundenspezifische Anwendungen bereit, auch in größerer Stückzahl
+und mit angepasstem Zubehör wie Netzteilen oder Anschlussadaptern.
+Zum Produkt: GT-92GC
+×
+Kunden-Login
+Melden Sie sich an, um Ihren Warenkorb wiederherzustellen und Ihre Bestellungen einzusehen.
+Login
+Registrieren
+E-Mail
+Passwort
+Passwort vergessen?
+Anmelden
+Konto erstellen
+Name
+E-Mail
+Passwort
+Das Passwort muss mindestens 12 Zeichen lang sein sowie Gross-, Kleinbuchstaben und eine Zahl enthalten.
+Passwort bestätigen
+Registrieren
+Bereits registriert?
+Kontakt
+acceed GmbH bietet industrielle Kommunikations-, Embedded- und Automatisierungslösungen mit projektspezifischer Beratung und technischem Support.
+Kontakt
+acceed GmbH, Arnoldstr. 19, 40479 Düsseldorf, Germany
++49 211 938898 0
+info@acceed.com
+www.acceed.com
+Service
+Sitemap
+Cookie-Richtlinie
+Kontakt
+Über uns
+Impressum
+DIN EN ISO 9001
+© Copyright 2026. All Rights Reserved.
+Diese Website verwendet Cookies, um grundlegende Funktionen zuverlässig bereitzustellen.
+Weitere Informationen
+Verstanden

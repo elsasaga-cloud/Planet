@@ -2,25 +2,40 @@
  "code": "SB-937",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "快照失败（http_error）",
- "summary": "德国 eneo Security（Videor 旗下 CCTV 品牌 eneo；表内「UTEPO 的」「可以着重跟一下」；官网 http_error）；群发 9 次无回复。",
- "type": "CCTV 品牌商（德国，PoE 现 Utepo，用户着重）",
+ "website_status": "在线（anewtech.net，快照 2026-10-21）",
+ "summary": "新加坡 Anewtech Systems（工业 PC / Edge PC / Supermicro 服务器 / 加固电脑 / 面板 PC / 机器视觉，27 年以上；表内「主要是 ORing 的工业系列」；站内 EN50155、O-IAP-420（ORing AP））；群发 15 次无回复。",
+ "type": "工业计算与自动化分销商（新加坡，ORing 工业线）",
  "size": "",
  "brands_seen": [
-  "Utepo"
+  "ORing",
+  "Supermicro"
  ],
  "evidence": [
   {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "UTEPO的",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "kind": "官网快照",
+   "claim": "官网标题：Anewtech Systems | Industrial PC, Edge PC, Server, Rugged Computer；品类词 工业自动化 / OT 网络 / 无线 / WiFi / 数据中心 / 企业 IT / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "Anewtech Systems delivers industrial PCs, Supermicro servers, rugged computers, panel PCs, and machine vision solutions for Industry 4.0. With 27+ years of expertise, we provide customized platforms, and IoT-ready systems for smart factorie",
+   "url": "https://www.anewtech.net/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "Utepo 的；着重跟",
-   "quote": "UTEPO的；可以着重跟一下",
+   "claim": "表内兴趣/备注",
+   "quote": "主要是Oring的工业系列",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "工业 PC 与服务器方案商，27 年以上",
+   "quote": "Anewtech Systems delivers industrial PCs, Supermicro servers, rugged computers, panel PCs, and machine vision solutions for Industry 4.0.",
+   "url": "https://www.anewtech.net/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "主要是 ORing 的工业系列",
+   "quote": "主要是Oring的工业系列",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
@@ -28,63 +43,64 @@
  "kp": [],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "德国",
-  "other": "官网 eneo-security.com，语言 ?，快照状态 http_error；角色判定来源：待核"
+  "hq": "新加坡",
+  "other": "官网 anewtech.net，语言 en，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "CCTV / 安防产品品牌（eneo，德国）"
+  "工业 PC / 服务器 / 加固电脑 / 机器视觉分销"
  ],
  "channels": {
-  "role": "CCTV 品牌商（德国，PoE 现 Utepo，用户着重）",
-  "region": "德国",
-  "contact": "info@eneo-security.com"
+  "role": "工业计算与自动化分销商（新加坡，ORing 工业线）",
+  "region": "新加坡",
+  "contact": "sales@anewtech.com.sg"
  },
  "signals": [
-  "表内：UTEPO 的；可以着重跟一下",
-  "快照：http_error"
+  "官网：Anewtech Systems delivers industrial PCs, Supermicro servers, rugged computers, panel PCs, and machine vision solutions for Industry 4.0. With 27+ years of expertise",
+  "站内型号 O-IAP-420（ORing）；kw industrial 121"
  ],
  "risks": [
-  "现供 Utepo 价格基准低；品牌方（Videor）供应商准入流程；官网 http_error；9 次无回复，仅 info@——用户标「可以着重跟一下」"
+  "非主攻区（T5）；现有 ORing（台湾）供货稳定",
+  "站内 EN50155（轨道）：Saga 不做轨道；15 次无回复，仅 sales@"
  ],
  "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 30,
-  "why": "eneo 标 PoE（现 Utepo）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 口 STC-424DGGPM-280W（$145.7）贴标；工业 8 PoE + 2 SFP STI-288GP（$62.2）作二供"
+  "p1": "STI-288GPM",
+  "tier": 20,
+  "why": "在售 ORing 工业系列 → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-288GP 同口型替换；EN50155 轨道线不报"
  },
- "email_hook": "For the PoE switches sold under the eneo label, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE 280 W; DIN-rail 8-PoE for Utepo positions) in your packaging from small lots, CE/RoHS — which PoE SKU would you want sampled first?",
+ "email_hook": "Alongside the ORing industrial switches you supply with your IPC platforms, we offer DIN-rail 8-PoE + 2 SFP managed (Marvell L2+) or unmanaged units (−40~75 °C, neutral packing, CE/RoHS) from small lots, EXW — which ORing model do your projects use most, so we quote its equivalent?",
  "mail_review": {
   "binding": {
-   "level": "未触达（A/S 邮箱 18 封 2025→2026，无记录打开，0 回；收件 info@eneo-security.com；主题多为「Marvell Industrial Alert System、Industrial PoE Switch」；Elsa 箱：`to:eneo-security.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 18 / 来 0）（第 74 批(j)））",
-   "type": "CCTV 品牌商（德国，PoE 现 Utepo，用户着重）",
-   "sieve": "1（只收到群发）",
+   "level": "未触达（A/S 邮箱 25 封 2024→2026，1 次记录打开，0 回；收件 sales@anewtech.com.sg；主题多为「Marvell Industrial Alert System、Industrial PoE Switch」；Elsa 箱：`to:anewtech.net OR to:anewtech.com.sg` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 25 / 来 0）（第 74 批(n)））",
+   "type": "工业计算与自动化分销商（新加坡，ORing 工业线）",
+   "sieve": "1~2（1 次打开）",
    "stop": "只打通用邮箱，无记录打开",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "DE 主攻（四主）",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 18；用户表：「UTEPO的」；研究档 risks：现供 Utepo 价格基准低；品牌方（Videor）供应商准入流程；官网 http_error；9 次无回复，仅 info@——用户标「可以着重跟一下」"
+   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+   "lane": "新加坡 非主攻",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 25，Opened 标签 1（Simon 群发追踪）；用户表：「主要是Oring的工业系列」；研究档 risks：非主攻区（T5）；现有 ORing（台湾）供货稳定"
   },
-  "situation": "德国 eneo Security（Videor 旗下 CCTV 品牌 eneo；表内「UTEPO 的」「可以着重跟一下」；官网 http_error）；群发 9 次无回复。",
-  "need": "eneo 标 PoE（现 Utepo）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 口 STC-424DGGPM-280W（$145.7）贴标；工业 8 PoE + 2 SFP STI-288GP（$62.2）作二供",
-  "breakpoint": "现供 Utepo 价格基准低；品牌方（Videor）供应商准入流程；官网 http_error；9 次无回复，仅 info@——用户标「可以着重跟一下」",
+  "situation": "新加坡 Anewtech Systems（工业 PC / Edge PC / Supermicro 服务器 / 加固电脑 / 面板 PC / 机器视觉，27 年以上；表内「主要是 ORing 的工业系列」；站内 EN50155、O-IAP-420（ORing AP））；群发 15 次无回复。",
+  "need": "在售 ORing 工业系列 → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-288GP 同口型替换；EN50155 轨道线不报",
+  "breakpoint": "非主攻区（T5）；现有 ORing（台湾）供货稳定",
   "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 30,
-   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-07 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-08-13 $240（24 Port Fiber Switch）、2025-10-06 $280（10G Enterprise SFP Switch）",
-   "why": "eneo 标 PoE（现 Utepo）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 口 STC-424DGGPM-280W（$145.7）贴标；工业 8 PoE + 2 SFP STI-288GP（$62.2）作二供",
+   "p1": "STI-288GPM",
+   "tier": 20,
+   "price": "换人再触锚价 STI-288GPM $78.9 EXW（主表档位（PDF 上限 $88；SA-016 2025-07 实报 $72 为分销量价）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-22 $300（48 port poe managed switch）、2024-11-28 $65（10G Media Converter）；群发里他已看到的价（续）：2026-07-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-20 $280（10G Enterprise SFP Switch）、2026-06-15 $16000（32 Port 400GB DC Switch）",
+   "why": "在售 ORing 工业系列 → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-288GP 同口型替换；EN50155 轨道线不报。已打开的主题（1/25 封有打开记录）：「16 Port Ethernet Switch」(2025-06-10) → 读者兴趣主题类别不明（看原主题）",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开",
-   "one_question": "For the PoE switches sold under the eneo label, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE 280 W; DIN-rail 8-PoE for Utepo positions) in your packaging from small lots, CE/RoHS — which PoE SKU would you want sampled first?"
+   "when": "2027-Q1（换人后）",
+   "channel": "A 邮箱 → 具名 KP",
+   "action": "换收件人再发一封（第 75 批(ah) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
+   "one_question": "Alongside the ORing industrial switches you supply with your IPC platforms, we offer DIN-rail 8-PoE + 2 SFP managed (Marvell L2+) or unmanaged units (−40~75 °C, neutral packing, CE/RoHS) from small lots, EXW — which ORing model do your projects use most, so we quote its equivalent? Reference: STI-288GPM at $78.9 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
    {
@@ -92,20 +108,31 @@
     "dir": "去",
     "who": "A/S 群发",
     "quote": "Marvell Industrial Alert System、Industrial PoE Switch",
-    "why": "18 封 / 0 次打开 / 0 回｜首封 2025-01-14 → 末封 2026-09-22（18 去 / 0 来）",
+    "why": "25 封 / 1 次打开 / 0 回｜首封 2024-07-01 → 末封 2026-09-22（25 去 / 0 来）",
     "k": "gmail_digest"
    },
    {
     "date": "2026-10-21",
     "dir": "用户表",
     "who": "Simon",
-    "quote": "UTEPO的",
+    "quote": "主要是Oring的工业系列",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-09-22",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "16 Port Industrial PoE Switch",
+    "why": "本日去信真实主题（邮箱索引 1c3b46d610a21c42；信稿开头句引用此封；此前稿内写的「Marvell Industrial Alert System」是线程列表首题，不是本封）",
+    "k": "1c3b46d610a21c42"
    }
   ],
   "proof_gaps": [],
-  "draft_en": null,
+  "draft_en": {
+   "subject": "Alongside the ORing switches you supply with IPC platforms - the equivalent of your most-used model",
+   "body": "Hello Anewtech team,\n\nOver the past months you had a few product mails from us - most recently \"16 Port Industrial PoE Switch\" on 22 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nAlongside the ORing industrial switches you supply with your IPC platforms, neutral packing, at distributor price, EXW, MOQ 1, 15-day validity, -40 to 75 C, CE/RoHS: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, L2 managed, Marvell-based - model STI-288GPM - $78.9 USD; the same unmanaged - STI-288GP - $60. EN 50155 rail positions we do not quote - said up front.\n\nOne question: which ORing model do your projects use most, so I quote its exact equivalent?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+  },
   "as_of": "2026-10-24"
  }
 }

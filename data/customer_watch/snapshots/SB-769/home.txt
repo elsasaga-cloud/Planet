@@ -1,564 +1,294 @@
-# SB-769 eworldme.com · home · https://eworldme.com/ · fetched 2026-10-25T07:41:18Z · HTTP 200
-Industrial Automation & Data Communication Distributor | eWorld
-Easy World Automation L.L.C
-Partners 0
-MOXA 0
-Industrial Network Infrastructure 0
-Industrial Ethernet Switches 775
-Ethernet Embedded Modules 8
-PoE Switches 0
-EDS-4000/G4000 Series 44
-EDS-G205A Series 0
-EDS-G512E Series 4
-EDS-P206A Series 0
-EDS-P500 Series 12
-ICS-G7000 Series 9
-IKS-6728A Series 22
-MDS-G4000 Series 24
-PT-G7000 Series 8
-PWR (Power Modules) Series 0
-RKS/RM-G4000 Series 39
-SDS-3000/G3000 Series 20
-TN-4000/G4000 Series 35
-TN-5000 Series 52
-TN-G6500 Series 2
-Unmanaged Ethernet Switches 0
-EDS-200/G200 Series 34
-EDS-2000-ML Series 12
-EDS-2000/G2000-EL/ELP Series 16
-EDS-300/G300 Series 47
-EDS-G205A Series 4
-EDS-P206A Series 14
-TN-5300A Series 6
-Layer 2 Smart Switches 32
-Layer 2 Managed Switches 0
-EDS-4000/G4000 Series 68
-EDS-400A/500A Series 77
-EDS-500E/G500E Series 24
-EDS-600 Series 16
-EDS-P500 Series 14
-ICS-G7000 Series 15
-IKS-6700 Series 28
-IKS-G6524A Series 6
-MDS-G4000 Series 15
-PT-500/G500 Series 50
-PT-7500 Series 47
-PT-G7728 Series 7
-PWR (Power Modules) Series 11
-RKS/RM-G4000 Series 39
-TN-4000A/B Series 31
-TN-5500A Series 28
-TN-G4500 Series 4
-TN-G6500 Series 2
-TSN-G5000 Series 2
-Layer 3 Managed Switches 0
-ICS-G7800A Series 14
-IKS-G6824A Series 6
-MDS-G4000-L3 Series 19
-MRX-G4064 Series 6
-MRX-Q4064 Series 6
-PM-7500 Module Series 8
-PT-G7828 Series 7
-PWR (Power Modules) Series 0
-EN 50155 Ethernet Switches 88
-TN-4000 Series 0
-TN-4500A Series 24
-TN-4500B Series 7
-TN-5000 Series 59
-TN-5300A Series 6
-TN-5305 Series 2
-TN-5308 Series 16
-TN-5500A Series 28
-TN-5524-8PoE Series 2
-TN-5816A Series 2
-TN-5818A Series 2
-TN-G4500 Series 0
-TN-G6500 Series 0
-Rackmount Ethernet Switches 228
-ICS-G7000A Series 26
-ICS-G7526A Series 5
-ICS-G7528A Series 4
-ICS-G7748A Series 1
-ICS-G7750A Series 1
-ICS-G7752A Series 1
-ICS-G7826A Series 4
-ICS-G7828A Series 4
-ICS-G7848A Series 1
-ICS-G7850A Series 1
-ICS-G7852A Series 1
-IKS-6700A Series 0
-IKS-6726A Series 6
-IKS-G6000A Series 12
-IM Module Series 0
-IM-6700A Series 12
-IM-G7000A Series 3
-LM-7000H Series 6
-MDS-G4000 Series 0
-MRX-G4000 Series 0
-MRX-Q4000 Series 0
-PM-7200 Module Series 26
-PT-7500 Series 0
-PT-7528 Series 39
-PT-7710 Series 4
-PT-7728 Series 30
-PT-7828 Series 1
-PT-G7000 Series 0
-PT-G7509 Series 1
-RKS-G4028 Series 24
-RKS/RM-G4000 Series 0
-RM-G4000 Series 15
-XM-4000 Module Series 5
-DIN-Rail Ethernet Switches 253
-EDS-4008 Series 24
-EDS-4009 Series 12
-EDS-4012 Series 12
-EDS-4014 Series 4
-EDS-510E Series 2
-EDS-518E Series 8
-EDS-528E Series 4
-EDS-608 Series 2
-EDS-611 Series 2
-EDS-616 Series 2
-EDS-619 Series 2
-EDS-728 Series 1
-EDS-828 Series 3
-EDS-G308 Series 4
-EDS-G4008 Series 4
-EDS-G4012 Series 8
-EDS-G4014 Series 4
-EDS-G508E Series 2
-EDS-G509 Series 2
-EDS-G516E Series 2
-EDS-P308 Series 10
-EDS-P506A-4PoE Series 8
-EDS-P506E Series 2
-EDS-P510 Series 2
-EDS-P510A Series 2
-MDS-G4012 Series 2
-MDS-G4012-4XGS Series 1
-MDS-G4012-L3 Series 2
-MDS-G4012-L3-4XGS Series 1
-MDS-G4020 Series 2
-MDS-G4020-4XGS Series 1
-MDS-G4020-L3 Series 2
-MDS-G4020-L3-4XGS Series 1
-MDS-G4028 Series 2
-MDS-G4028-4XGS Series 1
-MDS-G4028-L3 Series 2
-MDS-G4028-L3-4XGS Series 1
-PT-508 Series 15
-PT-510 Series 21
-PT-G503 Series 2
-PT-G510 Series 12
-TN-5305 Series 2
-TN-5308 Series 16
-TSN-G5004 Series 1
-TSN-G5008 Series 1
-IEC 61850-3 Ethernet Switches 127
-PT-508 Series 15
-PT-510 Series 21
-PT-7528 Series 39
-PT-7710 Series 4
-PT-7728 Series 30
-PT-7828 Series 1
-PT-G503 Series 2
-PT-G510 Series 12
-PT-G7509 Series 1
-PT-G7728 Series 1
-PT-G7828 Series 1
-Ethernet Extenders 3
-Two-wire Ethernet Switches (SPE/APL) 0
-TWS-3010-APL Series 1
-TWS-3010-SPE Series 1
-Industrial Secure Routers 50
-Network Security Appliance 40
-Secure Remote Access 11
-Moxa Remote Connect Suite 38
-Wireless AP/Bridge/Client 88
-Rail Wireless Access Controller 4
-Rail Wireless LAN 37
-WLAN AP/Bridge/Client 48
-Industrial Cellular 47
-Cellular Compact Gateways and Modems 9
-Cellular Gateways 6
-Cellular Modems 3
-Industrial Cellular Routers and Gateways 34
-Industrial Cellular Gateways 22
-Industrial Cellular Routers 12
-Zigbee Converters 4
-Industrial Gateways 68
-Industrial Ethernet Gateways 78
-Industrial EtherNet/IP Gateways 21
-Industrial Modbus TCP Gateways 91
-Industrial PROFINET Gateways 12
-Industrial Edge Connectivity 0
-Industrial Converters 610
-Industrial USB Converters 45
-Industrial-grade USB Hubs 14
-USB to Serial Converters 31
-Multiport Serial Cards 105
-Protocol Converters 14
-MGate MB3170-G2/MB3270-G2/MB3470-G2 Series 28
-Serial-to-Ethernet Converters 295
-NPort IA5000-G2 Series 26
-Industrial Media Converters 156
-IP Surveillance 153
-IP Cameras 149
-Box IP Cameras 6
-Compact IP Cameras 95
-Cubic IP Cameras 10
-Dome IP Cameras 96
-Infrared IP Cameras 12
-Onboard IP Cameras 98
-Outdoor IP Cameras 25
-IP Surveillance Software 1
-Video Accessories 11
-IP Camera Housing 2
-IP Camera Lens 3
-IP Camera Mounting Kits 3
-IR Illuminator 2
-Video Servers 6
-Remote Automation 159
-Intelligent Integrated Node 0
-ioPAC 6500 Series 1
-ioPAC 6500 Series (65M) Backplane Modules 10
-ioPAC 6500 Series (65M) Communication Modules 1
-ioPAC 6500 Series (65M) CPU Modules 1
-ioPAC 6500 Series (65M) Expansion Modules 1
-ioPAC 6500 Series (65M) I/O Modules 7
-ioPAC 6500 Series (65M) Power Modules 1
-Remote I/O 60
-Smart Remote I/O 100
-Industrial Computing 0
-Industrial Computers 441
-Compact/Fanless Computers 50
-AIG-100 Series 4
-AIG-300 Series 14
-AIG-500 Series 4
-IA240 Series 1
-IA260 Series 1
-IA261-I Series 1
-MC-3201 Series 8
-MC-4510-C23 Series 1
-MC-7200-DC-CP-T Series 4
-MC-7400 Series 12
-Displays and Panel Computers 94
-Industrial Monitors 12
-Panel Computers 82
-Rcore Software 5
-Specialized by Market 78
-Marine Computers 50
-Oil & Gas Computers 22
-Power Substation Computers 19
-Rail Computers 14
-Solar Computers 11
-Wide Temperature Computers 295
-RISC 84
-x86 199
-BXP-A100 Series 0
-BXP-A101 Series 8
-BXP-C100 Series 0
-BXP-C101 Series 6
-DA-920E Series 5
-DRP-A100 Series 0
-DRP-C100 Series 0
-RKP-A110 Series 1
-RKP-C110 Series 15
-Wireless Computers 84
-Cellular Computers 69
-WLAN Computers 75
-Accessories 368
-Antennas 43
-Backup Configurators 4
-Cables 57
-Ethernet SFP Modules 137
-Fiber Optic Adapters and Bypass Units 5
-Low-noise Amplifiers 1
-Mounting Kits 25
-PoE Injectors 4
-PoE Splitters 2
-Power Adapters 27
-Power Cords 16
-Power Supplies 24
-Surge Arresters 2
-Surge Protectors 4
-Wiring Kits 8
-WESTERMO 0
-Converters 34
-Current Loop Converters 3
-Ethernet Media Converters 10
-Fiber Optic Modems 11
-Protocol Converters 1
-Serial Converters and Repeaters 10
-Modems 33
-Fiber Optic Modems 11
-ISDN Modems 3
-Leased Line / PSTN Modems 6
-Multidrop Modems 9
-Short Haul Modems 3
-Ethernet Switches 238
-Managed 213
-POE 50
-Unmanaged 37
-Routers 117
-Broadband DSL Routers 9
-Layer 3 Switches 55
-Wireless Routers 54
-Accessories 124
-Cables and Antennas 49
-Cables and Antennas for GSM Modems 9
-Cables and Antennas for Radio Modems 16
-Cables for Tele Modem 3
-Ibex Accessories 10
-M12 Cables 9
-Product Configuration Cable 2
-EN50155 USB Configuration Backup Device 2
-Power Supplies 4
-SFP Transceivers 79
-Extenders 20
-Managed 14
-Point-to-Point 6
-Wireless 89
-Wireless Routers 54
-WLAN 57
-BEIJER 0
-Cloud VPN gateway 4
-Operator Panels 0
-X2 Base 9
-X2 Pro 9
-X2 Marine 8
-X2 Control 5
-X2 Motion 0
-X2 Extreme 16
-Other Models 0
-E1000 14
-EXTER 14
-H-Series 11
-iX TxX 0
-iX TxX Operator Panels 12
-iX TxX Operator Panels with Soft Control 6
-iX TxX Operator Panels with Soft Motion 3
-iX TxXM Operator Panels for Marine Applications 6
-Panel PCs 0
-PPC TxC Series 3
-PWS 16
-QTERM 2
-Marine Monitors 0
-Wave II Monitors 6
-Wave II Multitouch Monitors 6
-Protocol Converters - IoT Gateways - Edge Controllers 0
-Protocol Conversion 7
-IoT and Cloud Connectivity 5
-Communication Server for Mobile HMI 7
-Integrated CODESYS Control 2
-BoX2 Base 1
-BoX2 Base v2 1
-BoX2 Extreme 1
-BoX2 Extreme SC 1
-BoX2 Pro 1
-BoX2 Pro SC 1
-Control Systems 0
-Nexto Modular PLC 1
-Nexto Xpress Compact Controller 5
-X2 with CODESYS Control 9
-Distributed Control 0
-Analog Input Modules 17
-Analog Output Modules 9
-Controller Modules 2
-Digital Input Modules 8
-Digital Output Modules 16
-Power Modules 13
-Special Modules 15
-Frequency Inverters 0
-General Purpose 0
-BFI E3, IP20 Inverters 25
-BFI E3, IP66 Inverters 34
-BFI E3, Single Phase Inverters IP20 & IP66 9
-Dedicated HVAC 0
-BFI H3, IP20 Inverters 10
-BFI H3, IP55 Inverters 10
-BFI H3, IP66 Inverters 10
-High Performance 0
-BFI P2, IP20 10
-BFI P2, IP55 10
-BFI P2, IP66 10
-Previous Models 0
-BFI E2, IP20 2
-BFI E2, IP66 2
-BFI H2, IP20 2
-BFI H2, IP55 2
-BFI H2, IP66 2
-Servo and Motion 0
-Servo Drives 0
-BSD-L7NHA Series 4
-BSD-L7NHB Series 5
-BSD-L7PA Series 4
-Servo Motors 0
-BSD-FL Series 4
-BSD-FL Series with Brake 4
-BSD-FP Series 9
-BSD-FP Series with Brake 7
-X2 with CODESYS Motion Control 1
-Distributed IO 0
-Network Adapter Modules 6
-Nexto Jet Distributed IO 0
-Nexto Analog IOs 4
-Nexto Backplanes 4
-Nexto Digital IOs 4
-Digital Input Modules 8
-Digital Output Modules 16
-Analog Input Modules 17
-Analog Output Modules 9
-Special Modules 15
-Power Modules 13
-Data Communication 3
-Ethernet Switches 3
-Managed Ethernet Switches 7
-Unmanaged Ethernet Switches 11
-3G/4G Routers 3
-PoE Switches 0
-Unmanaged PoE Switches 6
-Serial and USB Converters 2
-Wireless 2
-Media Converters and PoE Injectors 3
-Remote Access 4
-Software 0
-Power Supplies 0
-12 VDC 0
-HDR Series 4
-SDR Series 2
-24 VDC 0
-HDR Series 5
-SDR Series 3
-48 VDC 0
-HDR Series 4
-SDR Series 4
-NEXCOM 0
-Intelligent Digital Security 0
-3D Camera 4
-ANPR/LPR 0
-High Speed 1
-Mid Range 2
-Short Range 2
-IP Camera 0
-Box Camera 4
-Indoor Dome Camera 7
-IR Bullet Camera 4
-Mobile Camera 4
-Outdoor Dome Camera 2
-NVR Hardware Platform 0
-Mobile NVR 3
-Rack NVR 3
-Slim NVR 3
-Tower NVR 2
-Panoramic Camera 0
-Intelligent Platform & Services 0
-Appliance Solutions 0
-Central Management Appliance 1
-Media Player Appliance 3
-Digital Signage Player 0
-High-performance Player 7
-Multi-display Player 3
-OPS Player 8
-SDM Player 1
-Value Player 13
-Embedded Computing 3
-3.5'' / 5.25'' SBC 8
-Computer-on-Module 13
-Mini-ITX MB 8
-Starter Kits 1
-Embedded Touch Computer 4
-Fanless Edge Computing System 4
-Industrial Rackmount Computer 0
-Industrial Motherboard 6
-PBOX Rackmount System 6
-PICMG 1.0/1.3 BackPlane 18
-PICMG 1.0/1.3 SBC 7
-Intelligent Kiosk Solution 3
-Interactive Signage Solution Packs 1
-Kiosk Panel PC 7
-Marine Computer 6
-Fanless Computer 12
-Panel PC 3
-Open Frame Panel PC 8
-Passenger Information Panel PC 0
-All-in-one Panel PC 1
-Display 1
-POS 0
-High Performance POS Terminal 3
-Mid-Range POS Terminal 6
-POS Box PC 1
-Touch POS Monitor 1
-Video Wall Signage Solutions 1
-IoT Automation Solutions 0
-Industrial Fanless Computer 0
-Atom Compact 14
-Atom Power 8
-Core-i Performance 26
-Front Access Core-i 2
-Industrial Wireless Solutions 0
-Industrial Wi-Fi 3
-Outdoor Wi-Fi 6
-Remote Network Management 0
-Industry Firewall Solution 3
-IoT Solutions 0
-IoT Gateway 7
-IoT Solution Pack 0
-IoT Studio 0
-IWSN Gateway 6
-Machine Automation 0
-CNC Controller 4
-EtherCAT Motion Controller 8
-EtherCAT Slave Module 6
-EtherCAT-based Robot Solutions 3
-Machine Automation Controller 2
-Panel PC 0
-Applied Panel PC/ Monitor 11
-Human Machine Interface 6
-Industrial Panel PC/ Monitor 13
-Teach Pendant 2
-PC-based Factory Automation 0
-Automation Industrial Computer 11
-Automation Softlogic Controller 10
-Automation Starter Kit 0
-miniPCIe Module - COM 3
-miniPCIe Module - I/O 1
-miniPCIe Module - LAN 4
-miniPCIe Module - Fieldbus 5
-Tray Rackmount 1
-Software Solution 0
-Medical & Healthcare Informatics 0
-HealthCare & Medical 1
-IoT Gateway 2
-Software Package 0
-Video Conference System 0
-Mobile Computing Solutions 1
-Edge AI Telematics Solution 9
-NVIDIA Solution 16
-In-Vehicle Networking 0
-Poe Switch 2
-Mobile NVR 0
-Train NVR w/ VMS Software 1
-Vehicle NVR w/ VMS Software 1
-Modular Vehicle Computer System 0
-First Response Vehicles 3
-Public Transit / Public Works 1
-Security 6
-Railway Computer 0
-Passenger Information System 5
-Security 14
-Security w/ VMS Software 1
-Vehicle Mount Computer 0
-Fleet Management 4
-Port management 8
-Public Transit 1
-Warehouse Management 5
-Vehicle Mount Display 0
-10‌" 1
-7" 2
-8" 3
-Vehicle Telematics Computer 2
-Core™ Power Efficient 3
-First Response Vehicle 11
-Fleet Management 3
-Public Transit / P
+# SB-769 konturm.ru · home · https://konturm.ru/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+Контур-М - мультисервисные сети передачи данных и телевидения: оборудование, проектирование и монтаж.
+БЫСТРЫЙ ПЕРЕХОД ПО САЙТУ
+О компании
+Наши лицензии и награды
+Вакансии
+Наши партнеры
+Как нас найти
+Контакты
+Каталог
+Скачать прайс-лист
+Каталог оборудования
+Новые поступления оборудования
+Товар месяца!
+Распродажа оборудования
+Доставка оборудования
+Акции и спецпредложения
+Производители
+Оператору
+Решения
+Наши проекты
+Вопрос-ответ
+Наши публикации
+Справочник оператора
+Технологии
+Разное
+Новости телекоммуникаций
+Портал техподдержки
+Связь с техподдержкой
+Обучение и семинары
+Cooperation
+Быстрый переход
+Мультисервисные сети передачи данных и телевидения:
+оборудование, проектирование и монтаж.
+Семинары
+О компании
+Лицензии и дипломы
+Наши партнеры
+Контакты
+Как нас найти
+Техподдержка
+Портал техподдержки
+Служба связи
+Оператору
+Наши проекты
+Наши публикации
+Справочник
+Технологии
+Доставка
+Скачать прайс-лист
++7(495) 221-8188
+info@konturm. r u
+Адрес на карте
+Каталог
+Решения
+Акции
+Новинки
+Распродажа
+Проектирование
+Каталог
+Решения
+Акции
+Новинки
+Распродажа
+Проектирование
+по каталогу
+по сайту
+Поиск по сайту
+X
+Услуга обратного звонка доступна только для зарестрированных пользователей!
+Зарегистрироваться
+Товаров: 0 шт.
+На сумму: 0 p
+Наш менеджер перезвонит Вам!
+заказать обратный звонок
+Логин:
+Пароль:
+Войти
+Регистрация
+Забыли пароль?
+Каталог оборудования
+1. ОБОРУДОВАНИЕ ЦИФРОВОГО ТВ ДЛЯ DVB, IPTV, ГОЛОВНЫЕ СТАНЦИИ, КАНАЛООБРАЗУЮЩЕЕ ОБОРУДОВАНИЕ
+LUMINATO, LUMINATO 4X4, TELESTE (Финляндия). Платформа DVB/IP (New!)
+LUMINATO, LUMINATO 4X4
+Шасси и блоки питания для Luminato
+Опции для шасси LCH-D-X и LCH-A
+Шасси и блоки питания Luminato 4x4
+Универсальные приемники DVB-S/S2/S2X/T/T2/C, IP, ISDB-T, ITU-T J.83 A/B/C
+Спутниковые приемники
+IP приемники-десклемблеры
+ASI модули
+IP Мультиплексор
+LQM и LDM. QAM модуляторы LQM-C и LDM-А
+QAM модуляторы высокой канальной плотности для Luminato 4x4
+COFDM модуляторы
+ProMPEGFEC модули
+EPG модуль
+Application модуль
+SFP modules for GE1 and GE2 interfaces
+SFP модули для LUMINATO 4x4
+Сервис
+Appear TV (Норвегия). Головные станции для DVB, IPTV и OTT решений
+Новейшая головная станция AppearTV - платформа X10/X20
+Шасси головных станций AppearTV
+Модули для установки в шасси XC5000 и XC5100
+Net Insight (Швеция). Оборудование для передачи цифрового видео через IP-сети
+ASTRO (ФРГ). Головная станция на базе платформ U100, V16, шлюзы ASI в IP, оборудование и аксессуары для КТВ/CATV
+U100, ASTRO (ФРГ). Головная станция на базе платформы U100 (для создания ГС, получающих MPEG over IP контент через IP-сеть)
+U200, ASTRO (ФРГ). IP в RF/PAL/SECAM модулятор, шлюзы ASI в IP/GigE и IP/GigE в ASI
+ASTRO (ФРГ). Оборудование и аксессуары для CATV сетей
+Dexin (аналог PBI, Sumavision и т.п.). DVB платформы и Standalone устройства для систем цифрового ТВ
+Головные станции DVB/IPTV, платформы DHP300 / DHP400
+Standalone устройства Dexing (Dexin) для систем цифрового ТВ
+Wellav (аналог PBI, Sumavision и т.п.). DVB платформы для систем цифрового ТВ
+Ресивер-декодер UMH160R
+Цифровая мультимедийная платформа DMP 900
+ERICSSON/Tandberg (Великобритания). Профессиональные QAM модуляторы; MPEG-4/MPEG-2 транскодеры; MPEG-2/DVB мультиплексоры
+Энкодеры и ре-энкодеры (транскодеры) MPEG-2/MPEG-4 на базе платформы Ericsson VPC
+MPEG-4/MPEG-2 транскодеры серии SPR для DVB и IPTV (Linear Broadcasting)
+Оборудование Ericsson для решений класса OTT и MULTISCREEN
+RGB Networks (США). Профессиональные DVB/IP платформы
+Модульные ASI/Gigabit Ethernet конвертеры
+DVB/IPTV платформа BNP для обработки цифровых видеопотоков
+Универсальная многофункциональная платформа для транскодирования и мультиплексирования
+TERRA (Литва). Головные станции и другое каналообразующее оборудование
+Модуляторы Standalone
+Головная станция 400-й серии
+Головные станции Stand Alone, CMH3000 и MMH3000
+Castwin (Южная Корея). Видеоскейлеры, видео-конвертеры, HD/SD-SDI видео-кодеры и HD/SD-SDI видео-декодеры
+PSI/SI, EPG. Программные обеспечения для генерации EPG и DVB сервисной информации (PSI/SI)
+TELESTE Broad Cast Manager
+ТЕЛЕТОР TeleTAG
+ТЕЛЕТОР TeleSCREEN
+ТЕЛЕТОР TeleMONITOR
+2. ОБОРУДОВАНИЕ ДЛЯ ПЕРЕДАЧИ ДАННЫХ (маршрутизаторы, коммутаторы, SFP-модули, PON, Wi-Fi)
+Маршрутизаторы и коммутаторы
+Huawei. Маршрутизаторы и коммутаторы
+D-Link. Маршрутизаторы и коммутаторы
+BDCOM. Kоммутаторы
+Модули XFP/SFP+, SFP
+Модули SFP+/XFP 10 Gigabit Ethernet
+Модули SFP/WDM SFP
+Модули SFPxPON
+Оборудование PON, GPON, GEPON
+GPON
+GEPON
+3. ПРОДУКЦИЯ КОМПАНИИ DekTec (анализаторы и проигрыватели транспортных потоков)
+Продукция DekTec (Нидерланды)
+Модуляторы PCI Express
+Приемники PCI Express
+Адаптеры ASI/SDI/IP PCI Express
+Платы PCI
+USB модуляторы
+USB измерители
+USB ASI/SDI адаптеры
+IP конверторы
+Аксессуары
+Дополнительные опции для оборудования DekTec
+4. CAM-МОДУЛИ, STB АБОНЕНТСКИЕ ЦИФРОВЫЕ ПРИЕМНИКИ
+CAM-модули (модули условного доступа)
+PRO CAM-модули для многоканального декодирования (Multichannel descrambling)
+STB (Set Top Box). Цифровые кабельные, эфирные и IP приемники
+5. СИСТЕМЫ УСЛОВНОГО ДОСТУПА (КОДИРОВАНИЯ)
+Система условного доступа CryptoGuard
+Система условного доступа Griffin CAS
+Система условного доступа CONAX CAS CONTEGO
+Система условного доступа IRDETO
+6. ОПТИЧЕСКОЕ ОБОРУДОВАНИЕ КТВ/CATV (оптические передатчики 1310нм и 1550нм, оптические усилители EDFA, оптические приемники)
+Оптические передатчики 1310нм, 1550нм и оптические усилители EDFA
+FiberLabs. Оптические передатчики, усилители и переключатели 1550 нм, 19"
+FiberLabs. Оптические передатчики 1310 нм. Исполнение 1U, 19"
+TERRA. Оптические передатчики КТВ/CATV и SAT ПЧ + CATV (1310 нм и 1550нм). Исполнение 400-й серии
+BKTel. Оптические передатчики, усилители и переключатели 1550нм
+TELESTE. Платформа HDO 19", 2U. Оптические передатчики и усилители 1550 нм, приемники обратного канала
+Оптические приемники
+FiberLabs. Оптические приемники серии OR
+TERRA. Оптические приемники КТВ/CATV и SAT ПЧ
+TELESTE. Оптические приемники серии CXE
+7. УСИЛИТЕЛИ КТВ/CATV
+Усилители компании TERRA
+Домовые и квартирные усилители
+Дистрибуционные усилители серии DA компании TERRA
+Многовходовые и диапазонные усилители
+Усилители компании TELESTE
+Усилители других фирм
+8. КАБЕЛЬ (оптический, коаксиальный, витая пара)
+Витая пара для LAN
+UTP. Неэкранированная витая пара
+FTP. Экранированная витая пара
+Коаксиальный кабель
+Распределительный кабель фирмы CommScope, США
+Распределительный кабель для CATV компании MediaLink
+Коаксиальный кабель других производителей
+Оптический кабель
+Оптический кабель для FTTx сетей (FTTH, FTTB, PON/GPON/GEPON, "бабочка") внутриобектовый и подвесной (с несущей)
+9. ПАССИВНЫЕ КОМПОНЕНТЫ ВОЛС
+Разветвители волоконно-оптические
+Разветвители волоконно-оптические FBT (сварные), двуоконные 1310&1550нм
+Разветвители волоконно-оптические PLC (планарные), диапазон 1260-1650нм
+Разветивтели волоконно-оптические в 19" и настенном исполнении
+PON WDM мультиплексор/демультиплексор
+Пигтейлы и патчкорды (шнуры оптические, соединительные)
+Оптические адаптеры, аттенюаторы, фиксаторы
+10. КОМПОНЕНТЫ СКС, SAT, ДРС КТВ/CATV (ТВ делители, ответвители, фильтры, розетки, шнуры и т.п.)
+Магистральные и субмагистральные делители, ответвители, инжекторы питания КТВ/CATV
+Магистральные делители и ответвители TELESTE. 5-1000МГц, тип разъема –5/8", транзит тока 15А
+Субмагистральные делители и ответвители TELESTE. Тип разъемов: проход – 5/8", отвод - F, транзит тока 6А
+Магистральные делители и ответвители МАКРОТЕЛ. 5-1000 МГц, тип разъема –5/8", транзит тока 10А
+Субмагистральные ответвители МАКРОТЕЛ. Тип разъемов: проход –5/8", отвод-F, транзит тока 6А
+Абонентские делители и ответвители КТВ/CATV
+Делители абонентские TELESTE. Тип разъема "F" (5-1000 МГц)
+Ответвителии абонентские TELESTE. Тип разъема "F" (5-1000 МГц)
+Делители абонентские МАКРОТЕЛ. Тип разъема "F" (5-1000 МГц)
+Ответвителии абонентские МАКРОТЕЛ. Тип разъема "F" (5-1000 МГц)
+Спутниковые делители, изоляторы земли, фильтры, аттенюаторы
+Разъемы и адаптеры КТВ/CATV (LW, Corning, CabelCon и др.)
+Разъемы и адаптеры LAN
+Шнуры UTP, TB, SCART, RCA, BNC, HDMI
+Материалы для монтажа (крепеж, скотчлоки, стяжки, маркеры и др.)
+11. ИНСТРУМЕНТ
+Инструменты для разделки коаксиального кабеля и монтажа разъемов КТВ/CATV
+Инструменты для разделки витой пары и монтажа разъемов RJ
+12. ИЗМЕРИТЕЛЬНОЕ ОБОРУДОВАНИЕ
+Измерители для CATV сетей
+Приборы фирмы DEVISER (КНР)
+Измерители для сетей передачи данных (LAN)
+LAN тестеры
+Измерители для систем видеонаблюдения
+CCTV тестеры
+Измерители для ВОЛС (оптики)
+Оптические измерители
+13. ШКАФЫ и СТОЙКИ 19", ШКАФЫ ИНСТАЛЛЯЦИОННЫЕ, АКСЕССУАРЫ
+Аксессуары для шкафов и стоек 19"
+АНОНС НОВОСТЕЙ
+Компания ASTRO с SES group провела модернизацию сетевого операционного центра с использованием последнего поколения стримеров U144-X и U148-Х.
+EdgeQAM модулятор высокой канальной плотности - модуль U159 в составе платформы U100 немецкой компании ASTRO получил дальнейшее развитие.
+Представляем новый 48-ми канальный QAM модулятор/мультиплексор/скремблер NDS3348D производства компании Dexin/Dexing торговой марки FiberLabs.
+Все новости
+* Отписаться
+Извините, ваш браузер не поддерживает тег video html5.
+Тотальные скидки
+на измерительное оборудование Noyafa!
+Коаксиальный кабель
+по специальным ценам!
+U224 (IP в RF)!
+Акция!
+U224 - высококачественный
+24-х канальный кабельный
+модулятор IP to RF (PAL/SECAM)
+по доступной цене
+в компактном 1 RU конструктиве
+FiberLabs
+обновленная линейка
+оптических приемников
+Современная модульная цифровая ГС
+DVB и IPTV
+Готовое решение для DVB/IPTV операторов любого масштаба!
+ТЕХНИЧЕСКИЕ РЕШЕНИЯ
+Мы постарались собрать ряд технических решений для приема и трансляции телевизионных программ в сетях кабельного телевидения. Вниманию кабельного оператора представлены наиболее надежные и проверенные технические решения.
+Бюджетная головная станция DVB/IPTV от компании DEXIN (DEXING).
+DVB-C + IPTV головная станция. Стартовый комплект.
+DVB-C + IPTV головная станция на 100 каналов.
+IP в QAM-модулятор / мультиплексор / скремблер на 16/32 потока.
+IPTV головная станция на 100 каналов.
+Standalone IP в QAM-модулятор (мультиплексор + скремблер) на 16 или 32 потока.
+Транскодирование MPEG-4 в MPEG-2 (от 2 до 12 каналов).
+Энкодирование ТВ сигналов.
+Standalone IP в QAM-модулятор (мультиплексор + скремблер) на 48 потоков.
+32-x канальный модулятор из IP в аналоговые RF каналы.
+Цифровая головная станция IPTV. Организация трансляции цифрового телевидения в формате IPTV
+Ультракомпактные решения IPTV на 1 шасси
+Головная станция IPTV (DVB в IP) для гостиниц, домов отдыха, жилых комплексов и коттеджей на 100 каналов.
+IPTV головная станция на 100 каналов.
+Головные станции на базе оборудования ASTRO (Германия)
+Мультиформатная головная станция с IP комутацией. Решения на платформе U100.
+Головная станция IP в RF (PAL/SECAM) на 8/16/24 канала.
+Головная станция IP в QAM на 32/64/128 DVB-C потока.
+Бюджетное решение IP в RF (PAL/SECAM) на 24 канала.
+Головная станция DVB/IPTV на базе платформы Luminato от компании TELESTE (Финляндия)
+Головная станция кабельного телевидения и IPTV
+DVB-C + IPTV головная станция. Стартовый комплект
+DVB-C + IPTV головная станция на 120 каналов
+Головная станция для гостиниц, отелей, бизнес-центров, домов отдыха на 100-120 каналов
+EdgeQAM-модулятор (IP to QAM) на 24/48/72/144 QAM потока
+EdgeQAM-модулятор (IP to QAM + MUX) на 24/48/72/144 QAM потока
+EdgeQAM-модулятор (IP to QAM + MUX + CAS/AES) на 24/48/72/144 QAM потока
+Рассчитайте собственную конфигурацию головной станции Teleste Luminato
+Решения от компании TERRA (Литва) на базе головных станций 400 серии, MMH3000 и CMH3000
+Цифровая головная станция DVB-S/S2/T/T2/C в DVB-C для жилых комплексов, домов отдыха, гостиниц и коттеджей на 80 каналов.
+Головная станция IPTV (DVB в IP) для гостиниц, домов отдыха, жилых комплексов и коттеджей на 100 каналов.
+Бюджетное профессиональное решение по приему и распределению сигналов DVB-T2 на 20/30 каналов.
+Цифровая головная станция преобразования DVB-T2 в DVB-C (первый, второй и/или третий мультиплексы).
+Бюджетное решение для организации IP видеонаблюдения в сетях КТВ.
+Решения на базе DVB/IPTV платформы XC5000/XC

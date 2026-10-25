@@ -1,121 +1,133 @@
-# SB-402 longlinenetwork.com · home · https://www.longlinenetwork.com/ · fetched 2026-10-25T07:41:18Z · HTTP 200
-Anasayfa | Longline Network
-Sfp Transceiver 100G QSFP28
-100G CFP/CFP2/CFP4
-40G QSFP+
-25G SFP28
-10G SFP+/XFP
-Nic Solutions Introduction Industrial Automation PoE Ethernet Solutions
-Non-PoE Ethernet Solutions
-Server Ethernet Server Fiber Ethernet Solutions
-Server Copper Ethernet Solutions
-FTTD Ethernet 1 Gigabit FTTD Ethernet Solutions
-10 Gigabit FTTD Ethernet Solutions
-100M FTTD Ethernet Solutions
-Media Converter 10/100M Media Converter
-10/100/1000M Gigabit
-10G Media Converter
-Cable Solutions Fiber Optic Cable
-Fiber Optic Patchcord
-PLC/FBT Splitter
-Switch L2 Managed Switch
-L3 Managed Switch
-POE Switch
-Aggregation Switch
-Industrial Switch Managed Industrial Switch
-Unmanaged Industrial Switch
-Şirket Hakkımızda
-Arıza Takip
-Kurumsal Doküman
-Blog
+# SB-402 sfpturkey.com.tr · home · https://www.sfpturkey.com.tr/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+SFP Turkey - SFP Çözüm Merkeziniz
+0555 090 87 37
+satis@sfpturkey.com.tr
+USD : 49.7285 TL
+Bayi Girişi
+Ara
+0
+KAMPANYALI ÜRÜNLER
+Favori Ekle
+EKİM 2026 KAMPANYASI-1
+Talep Et
+Favori Ekle
+EKİM KAMPANYASI 2026-2
+Talep Et
+Favori Ekle
+EKİM 2026 KAMPANYASI-3
+Talep Et
+EN ÇOK SATAN ÜRÜNLER
+Favori Ekle
+GENERIC Uyumlu Gigabit SFP Modül - 1000Base-LX 1310nm 20Km LR SM LC DDM
+Sepete Ekle
+Favori Ekle
+GENERIC Uyumlu 10 Gigabit SFP+ Modül - 10GBase-SX SR 850nm 300Mt MM LC DDM
+Sepete Ekle
+Favori Ekle
+GENERIC Uyumlu 10 Gigabit Passive Bakır DAC Kablo - 10GBase Copper Twinax Cable 1 Metre, passive
+Sepete Ekle
+Favori Ekle
+GENERIC Uyumlu 10 Gigabit Passive Bakır DAC Kablo - 10GBase Copper Twinax Cable 3 Metre, passive
+Sepete Ekle
+Favori Ekle
+ARUBA - HP Uyumlu 10 Gigabit SFP+ Modül - 10GBase-SX SR 850nm 300Mt MM LC DDM
+Sepete Ekle
+Favori Ekle
+GENERIC Uyumlu Gigabit SFP Modül - 1000Base-SX 850nm 550Mt SR MM LC DDM
+Sepete Ekle
+PAZAR YERLERİ
+WEB SİTELERİMİZ
+ÜCRETSİZ GÖNDERİM (Kurye Gönderimleri Hariç)
+HAFTA İÇİ: 09.00-18.00
+3 YIL %100 DEĞİŞİM GARANTİSİ
+%100 GÜVENLİ ÖDEME
+Koşuyolu Mahallesi Cenap Şahabettin Sokak No.16
+Kadıköy İstanbul
+satis@sfpturkey.com.tr
+0555 090 87 37
+HESABIM
+Hesabım
+Sepetim
+Siparişlerim
+BİLGİLER
+Kurumsal
 İletişim
-Store
-YÜKSEK KALİTE
-YÜKSEK HIZ
-Longline, kaliteli ve yüksek performanslı
-Network çözümleriyle, kolaylaştırıcı ve yüksek hızlı
-teknolojisiyle projelerinizde katma değer oluşturmaya
-devam ediyor.
-NETWORK CARD
-SFP TRANSCEIVER
-YÜKSEK KALİTE YÜKSEK HIZ
-Longline, kaliteli ve yüksek performanslı Network çözümleriyle, kolaylaştırıcı ve
-yüksek hızlı teknolojisiyle projelerinizde katma değer oluşturmaya devam ediyor.
-SFP TRANSCEIVER
-Longline SFP, 10G, 25G, 40G, 100G, 200G ve 400G
-yüksek hızlı optik alıcı-verici üretimi
-Ürünleri İncele
-NIC SOLUTIONS
-INTRODUCTION
-Profesyonel ethernet çözümleri,
-arayüz ethernet adaptörleri üretimi
-Ürünleri İncele
-MEDIA CONVERTER
-10/100M Media, 10/100/1000M Gigabit, 10G
-Media Converter üretimi
-Ürünleri İncele
-CABLE SOLUTIONS
-Fiber Patch Cord, Fiber Cable, PLC Splitter
-fiber optik kablo üretimi
-Ürünleri İncele
-Sfp Transceiver
-10G, 25G, 40G, 100G, 200G ve 400G yüksek hızlı optik alıcı-verici üretimi
-Detaylı Bilgi İçin Tıklayınız
-Nic Solutions Introduction
-Profesyonel ethernet çözümleri, arayüz ethernet adaptörleri üretimi
-Detaylı Bilgi İçin Tıklayınız
+İnsan Kaynakları
+MÜŞTERİ HİZMETLERİ
+Nasıl Bayi Olurum?
+Garanti Kapsamı, Sipariş İptali, Değişim ve İade Prosedürü
+Sipariş Takibi ve Kargo Prosedürü
+KVKK-Açık Rıza ve Aydınlatma Metni
+Mesafeli Satış Sözleşmesi
+SFPTURKEY Fiyat Listesi 2025
+E-TİCARET BİLGİ PLATFORMU
+Telif hakkı © 2026 SFPTURKEY ELEKTRONİK İTH İHR TİC LTD ŞTİ tüm hakları saklıdır.
+Kategoriler
+Marka
+Transceiver
+Network Switch
 Media Converter
-10/100M Media, 10/100/1000M Gigabit, 10G Media Converter üretimi
-Detaylı Bilgi İçin Tıklayınız
-Cable Solutions
-Fiber Patch Cord, Fiber Cable, PLC Splitter fiber optik kablo üretimi
-Detaylı Bilgi İçin Tıklayınız
-Bazı Ürünlerimiz
-LNG5-1L CABLE-3M/5M / LNG5-2L CABLE-3M/5M
-LNG2002PT POE
-CFP ER4 LL 40KM
-LC/UPC-LC/UPC MM DX 2.0mm LSZH 15M
-QSFP+ LR4 LL
-1X32 Fiber Optic PLC Splitter ABS Module 2.0mm
-LC/UPC-LC/UPC SM SX 2.0mm LSZH 3M
-SFP+ Tunable LL 80KM
-2×4 Fiber Optic Splitter 2.0mm with LC/APC Connectors
-SFP+ BIDI LL 10KM
-Blog
-Unmanaged Industrial Switch
-Managed Industrial Switch
-Industrial Switch
-SFP 1.6T Optik Modüllerle Geleceğin Yüksek Hızlı Ağ Altyapısı
-100G QSFP28 Optik Modüller Hakkında Sıkça Sorulan Sorular
-40G SFP’nin Özellikleri ve Avantajları
-İşletmeniz İçin En İyi 1G Çözüm GLC-LH-SMD Modülleri
-SFP Modüllerinin Bakımı ve Sorun Giderme
-XFP ve SFP+ arasındaki fark nedir?
-SFP Transceiver Modüller Hakkında Merak Edilenler
-Şirket
-Hakkımızda
-Kurumsal Doküman
-Arıza Takip
-Blog
-İletişim
-Download
-Longline Network
-Sfp Transceiver
-Nic Solutions Introduction
-Media Converter
-Cable Solutions
-İletişim
-info@longlinenetwork.com
-0 (212) 321 75 15
-0 (212) 321 75 14
-Kartaltepe Mah. Hakan Sok. Longline Plaza No:18, 34040 Bayrampaşa/İstanbul
-Facebook
-Twitter
-LinkedIn
-Instagram
-YouTube
-Longlinenetwork.com Dijital Çözüm Ortağı by Timsah Ajans
-Menü
-☎
-Hemen Ara
-WhatsApp'tan Fiyat Al
+Fiber Ethernet Kartı
+Fiber Çözümler
+Bakır Sistemler
+Yardıma mı ihtiyacınız var?
+0555 090 87 37
+satis@sfpturkey.com.tr
+3COM
+ADTRAN
+ALCATEL LUCENT
+ALLIED TELESIS
+ARISTA
+ARUBA-HP
+AVAYA-NORTEL
+BROADCOM
+BROCADE
+CANOVATE
+CHECKPOINT
+CIENA
+CISCO
+DELL
+DIGITUS
+D-LINK
+ECOLAN
+EDGECORE
+ETHERWAN
+EXTREME NETWORKS
+F5
+FORCE10
+FORTINET
+GEMAXX
+GENERIC
+GIGACOM
+H3C
+HCS
+HP
+HUAWEI
+IBM
+INTEL
+JUNIPER
+LENOVO
+MARCONI
+MELLANOX
+MIKROTIK
+MOXA
+NETAPP
+NETGEAR
+PALO ALTO
+PLANET
+QLOGIC
+QNAP
+RUIJIE
+SFPTURKIYE
+SOPHOS
+SUPERMICRO
+SYNOLOGY
+TP-LINK
+TRANSITION
+TRENDNET
+TYCO
+UBIQUITI-UBNT-UNIFI
+UTEPO
+ZTE
+ZYXEL
+SİTEMİZDE ARAYIN

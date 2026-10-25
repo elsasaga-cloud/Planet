@@ -1,0 +1,16 @@
+# SB-420 cdr.pl · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCpr_pD42oLhqArvw8e6EwdQ · fetched 2026-10-25T07:41:18Z · HTTP 200
+2023-07-26T07:57:08+00:00	MikroTik 5009UPr+S+OUT unboxing	https://www.youtube.com/watch?v=NUy4qpksPt0
+2023-06-15T13:12:27+00:00	MikroTik C53UiG+5HPaxD2HPaxD hAP ax³ unboxing + Ethernet speed test	https://www.youtube.com/watch?v=uDG3IS0HOM8
+2023-04-05T08:13:12+00:00	💡 Poradnik ISP | # 07 | Dodawanie terminala ONT do OLTa	https://www.youtube.com/watch?v=JnDQoNywpp0
+2022-12-07T09:09:47+00:00	Jak używać BBU Pack - Backup Battery Unit Pack	https://www.youtube.com/watch?v=srhjP-i9z2k
+2022-11-03T10:27:29+00:00	Mikrotik hAP ax2 speedtest (RouterBOARD C52iG-5HaxD2HaxD-TC)	https://www.youtube.com/watch?v=qcyCPl_0dt0
+2022-10-24T14:33:57+00:00	MikroTik hAP ax2 C52iG-5HaxD2HaxD-TC | Unboxing	https://www.youtube.com/watch?v=N8WKcD516Ic
+2022-08-29T13:29:45+00:00	MikroTik SR-10U - 📦Unboxing & 🛠️Budowa platformy testowej	https://www.youtube.com/watch?v=KBJfeFTV2HA
+2022-07-26T11:22:48+00:00	💡 Poradnik ISP | # 06 | Zakuwanie konektorów RJ45	https://www.youtube.com/watch?v=hiZaUxc3oH4
+2022-06-20T09:24:56+00:00	Tenda Nova MW5c - Unboxing | Speed test | Mapa zasięgu	https://www.youtube.com/watch?v=0MgMFZzqWgQ
+2022-06-07T08:43:19+00:00	💡 Poradnik ISP | # 05 | Przygotowanie mufy na podłączenie klientów	https://www.youtube.com/watch?v=At04MTLIQHg
+2022-06-03T09:34:50+00:00	MikroTik Cube 60 Pro AC | Unboxing | Speed test | CubeG-5ac60aypair	https://www.youtube.com/watch?v=4f-ej_PkH9I
+2022-03-15T10:21:40+00:00	SIGNAL FIRE AI-9 Spawarka światłowodowa - Unboxing	https://www.youtube.com/watch?v=3aiyKvqrHZE
+2022-02-28T10:57:18+00:00	TUMTEC FST-V5 Spawarka światłowodowa - Unboxing	https://www.youtube.com/watch?v=u9RNtlC7uPc
+2022-02-15T10:46:38+00:00	OCTOMINER X12ULTRA pierwsze uruchomienie | Wejście do świata kryptowalut	https://www.youtube.com/watch?v=auSeuFIMiOE
+2022-02-11T12:34:36+00:00	IP-COM EW12 | AC | MESH | 2,4 i 5,2 i 5,8 GHz | Recenzja i speed testy | Konfiguracja sieci MESH	https://www.youtube.com/watch?v=S3LWphKUAnU

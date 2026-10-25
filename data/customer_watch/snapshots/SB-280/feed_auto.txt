@@ -1,0 +1,11 @@
+# SB-280 metcom.com.tr · feed_auto · https://www.metcom.com.tr/feed/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+Mon, 03 Oct 2022 01:11:58 +0000	ISAF SECURITY	https://www.metcom.com.tr/product-category-pts-trafik-dsp-kameralari.html/
+Tue, 01 Mar 2022 01:36:39 +0000	Hytera PNC360S (PoC) Bas-Konuş Telsiz	https://www.metcom.com.tr/product-hytera-pnc360s-poc-bas-konus-telsiz.html/
+Sun, 22 Nov 2020 19:14:08 +0000	Araç Takip Sistemleri	https://www.metcom.com.tr/arac-takip-sistemleri.html/
+Wed, 03 Jun 2020 19:12:46 +0000	Araç Altı Görüntüleme Sistemi	https://www.metcom.com.tr/arac-alti-goruntuleme-sistemi.html/
+Fri, 22 May 2020 00:05:17 +0000	Metcom Kişi Sayma Sistemi	https://www.metcom.com.tr/metcom-avm-yonergesi-uyumlu-kisi-sayma-sistemi.html/
+Tue, 28 Apr 2020 23:08:17 +0000	CamBox Kamera Montaj Aksesuarları	https://www.metcom.com.tr/http-www-metcom-com-tr-product-category-aksesuarlar-cambox-kamera-montaj-aksesuarlari.html/
+Mon, 03 Feb 2020 18:58:04 +0000	MTC-400 Otopark Plaka Tanıma Sistemi	https://www.metcom.com.tr/mtc-400-otopark-plaka-tanima-sistemi.html/
+Sun, 02 Feb 2020 17:24:30 +0000	AVM KGYS Entegreli Plaka Tanıma Sistemi	https://www.metcom.com.tr/avm-kgys-entegreli-plaka-tanima-sistemi.html/
+Sun, 02 Feb 2020 17:22:23 +0000	MTC-350 Site Plaka Tanıma Sistemi	https://www.metcom.com.tr/mtc-350-site-plaka-tanima-sistemi.html/
+Sun, 02 Feb 2020 17:20:05 +0000	MTC-500 Otoyol Plaka Tanıma Sistemi	https://www.metcom.com.tr/mtc-500-otoyol-plaka-tanima-sistemi.html/

@@ -1,0 +1,59 @@
+{
+ "code": "SC-159",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "快照失败（http_error）",
+ "summary": "波兰 LAPP（LAPP 集团——全球线缆与连接巨头，自有 ETHERLINE 工业交换机线；KP Thierry Nicolas、Radosław Zdanowicz；表内「电口」）；群发 8 次无回复。",
+ "type": "线缆/连接巨头（LAPP）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "电口",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "电口",
+   "quote": "电口",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "巨头（LAPP 集团）；c_sub=体量过大",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "波兰",
+  "other": "官网 lapp.com，语言 ?，快照状态 http_error；角色判定来源：待核"
+ },
+ "business_lines": [
+  "线缆 / 连接 / 工业网络（跨国集团）"
+ ],
+ "channels": {
+  "role": "线缆/连接巨头（LAPP）",
+  "region": "波兰",
+  "contact": "thierry.nicolas@lapp.com、radoslaw.zdanowicz@lapp.com"
+ },
+ "signals": [
+  "表内：电口；KP Thierry Nicolas；radoslaw.zdanowicz@lapp.com",
+  "快照：http_error"
+ ],
+ "risks": [
+  "体量：LAPP 集团（自有 ETHERLINE 线）；8 次无回复"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 30,
+  "why": "跨国巨头（自有工业网络产品线）→ 改 C"
+ },
+ "email_hook": "（不发送：巨头）"
+}

@@ -1,0 +1,59 @@
+{
+ "code": "SC-132",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（mtagrup.com，快照 2026-10-21）",
+ "summary": "土耳其 MTA Grup（安防系统集成，首页「Savunma Sanayi Çözümleri」国防工业方案、ASELSAN NET 合作、Selimiye 军营项目；KP hüseyin@mta.ist）；表内 1 次跟进无回复。",
+ "type": "国防/军营安防集成商（守界）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：MTA Grup",
+   "quote": "MTA Grup",
+   "url": "https://mtagrup.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "MTA 定位",
+   "quote": "MTA Grup ; Savunma Sanayi Çözümleri ; ASELSAN NET İLE ; Selimiye Kışlası",
+   "url": "https://mtagrup.com/",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "守界：国防工业与军营项目；c_sub=守界（军工）",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "土耳其",
+  "other": "官网 mtagrup.com，语言 tr，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "安防系统集成（国防 / 军营）"
+ ],
+ "channels": {
+  "role": "国防/军营安防集成商（守界）",
+  "region": "土耳其",
+  "contact": "huseyin@mta.ist"
+ },
+ "signals": [
+  "官网：MTA Grup ; Savunma Sanayi Çözümleri ; MTA GRUP GÜVENLİK SİSTEMLERİ ASELSAN NET İLE ; Selimiye Kışlası MTA Güvenlik Farkıyla Tamamlandı",
+  "表内：无兴趣备注"
+ ],
+ "risks": [
+  "守界：国防工业方案、军营项目（ASELSAN NET 合作）"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 25,
+  "why": "国防工业方案与军营项目为核心 → 改 C（守界）"
+ },
+ "email_hook": "（不发送：守界）"
+}

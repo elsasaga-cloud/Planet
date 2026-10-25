@@ -1,92 +1,28 @@
 {
  "code": "SB-335",
- "name_official": "Delta Consulting LLC（დელტა კონსალტინგი）",
- "researched_at": "2026-10-22",
- "website_status": "在线（dc.ge / delta-consulting.ge，快照 2026-10-21，格鲁吉亚语）",
- "summary": "第比利斯领先 IT 系统集成商（2014 年成立，约 30 人，营收约 $2M；CEO/合伙人 George Jaliashvili，商务总监 Daviti Giorgadze），伙伴 Cisco / Dell / Juniper / F5 / Cambium / Teltonika / Dahua / Ruckus，有 CCTV 业务线，服务企业与政府机构；表内：从新桥拿货（给看过 CI，价格约为 Saga 一半），懂 WDM，对 1 光 4 / 2 光 4 小壳有兴趣，2025-11 要「small 8 port high PoE」。",
+ "name_official": "Golden Hub Nepal Pvt. Ltd.（尼泊尔）",
+ "researched_at": "2026-10-21",
+ "website_status": "无域名（gmail；仅表内信息）",
+ "summary": "尼泊尔网络商 Golden Hub（Chhatra Puri），需求 2 光 10 电；2025-11 收 10G MC 邮件；无域名。",
  "type": "",
  "size": "",
- "brands_seen": [
-  "Cisco",
-  "Dell",
-  "Juniper",
-  "Cambium",
-  "Teltonika",
-  "Dahua",
-  "Ruckus"
- ],
+ "brands_seen": [],
  "evidence": [
   {
-   "kind": "D&B",
-   "claim": "注册与规模：Tbilisi，30 人，$2.05M，2014 年",
-   "quote": "DELTA CONSULTING, LLC… Tbilisi, Georgia… 30 employees… $2.05 million… Giorgi Jaliashvili Director; Daviti Giorgadze Commercial Director… Year Started: 2014",
-   "url": "https://www.dnb.com/business-directory/company-profiles.delta_consulting_llc.7aa4533b0489d16fd5b3bd6748034f92.html",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "伙伴品牌 Cisco / Dell / F5 / Cambium / Teltonika / Dahua；info@dc.ge +995 32 2 05 00 55",
-   "quote": "პარტნიორები Cisco Dell F5 Cambium Room Alert Teltonika Dahua… info@dc.ge +995 (32) 2 05 00 55",
-   "url": "https://www.delta-consulting.ge/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "定位：格鲁吉亚领先 IT 系统集成商，服务企业与政府",
-   "quote": "Delta Consulting is one of the leading IT system integrator company in Georgia, cooperating with… IBM, Lenovo, Cisco, Dell, Juniper Networks… help businesses and governmental structures",
-   "url": "https://dc.ge/about-us-eng",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "名录",
-   "claim": "George Jaliashvili：2017 至今 CEO（2005–2017 执行董事）",
-   "quote": "2017 - now CEO @ Delta Consulting",
-   "url": "https://rocketreach.co/george-jaliashvili-email_10433094",
-   "date": "2026-10-21"
-  },
-  {
    "kind": "用户表",
-   "claim": "从新桥拿货、CI 价格约对半；懂 WDM；对外壳保护膜误判质量；对 1 光 4 / 2 光 4 小壳有兴趣；2025-11 回复 small 8 port high poe",
-   "quote": "兴趣：从新桥拿货，给我看了一个CI，价格基本是对半砍的，懂WDM… 对1光4 2光4小壳有兴趣；回复：small 8 port high poe",
+   "claim": "兴趣 2 光 10 电；1120 email 发了 10G MC",
+   "quote": "兴趣：2光10电；回复：1120email发了10gmc",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
-  },
-  {
-   "kind": "PI",
-   "claim": "成交单据 STSC20230724001（CI，2023-07-24）：STC-028GFP、STC-128GFP 共 4 台，USD 100.0；采购 HRUI RMB 470.0；Simon 成本表利润 RMB 177.1",
-   "quote": "",
-   "url": "PI.zip:1 格鲁吉亚 George gg/CI.xls",
-   "date": "2023-07-24"
-  },
-  {
-   "kind": "PI",
-   "claim": "PI 包文件夹「格鲁吉亚 George gg」：Simon 标签 gg；单号 1 个，2023-07-24 → 2023-07-24，销售 USD 100.0 / RMB 0，Simon 成本统计利润合计 RMB 177.1",
-   "quote": "",
-   "url": "PI.zip:1 格鲁吉亚 George gg",
-   "date": "2026-10-22"
-  },
-  {
-   "kind": "公开平台核查（T29-U18）",
-   "claim": "RIPE NCC 成员名录：Delta Consulting LLC，Lvov Str 72，0160 Tbilisi，+995577578811，sales@DC.ge；ipinfo AS209786 1,024 IPv4（2018-12 分配）",
-   "quote": "Delta Consulting LLC — RIPE Network Coordination Centre … sales@DC.ge",
-   "url": "https://www.ripe.net/membership/member-support/list-of-members/ge/dc/",
-   "date": "2026-10-23"
   }
  ],
  "kp": [
   {
-   "name": "George Jaliashvili",
-   "title": "CEO / Partner",
-   "email": "george@dc.ge",
-   "phone": "+995 577 578 811",
+   "name": "Chhatra Puri",
+   "title": "（表内联系人）",
+   "email": "pchhatra02@gmail.com",
+   "phone": "+977 985 284 9417",
    "source": "（本地 Clients/ 表格，无公开 URL）"
-  },
-  {
-   "name": "Daviti Giorgadze",
-   "title": "Commercial Director",
-   "email": "sales@dc.ge",
-   "phone": "+995 32 205 0055",
-   "source": "https://www.dnb.com/business-directory/company-profiles.delta_consulting_llc.7aa4533b0489d16fd5b3bd6748034f92.html"
   }
  ],
  "grade_override": null,
@@ -94,150 +30,78 @@
  "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网 + D&B + 名录核对）"
+  "level": "无域名 · 仅表内信息"
  },
  "company_facts": {
-  "legal_name": "Delta Consulting LLC",
-  "founded": "2014",
-  "hq": "72 O. Oniashvili Str., Tbilisi 0160, Georgia",
-  "size": "约 30 人，营收约 $2M",
-  "other": "US SAM 注册（UEI J9LKEG5JR7D6）"
+  "legal_name": "Golden Hub Nepal Pvt. Ltd.",
+  "founded": "",
+  "hq": "尼泊尔",
+  "size": "小型",
+  "other": "gmail"
  },
- "business_lines": [
-  "服务器 / 网络 / 通信集成（Cisco、Dell、Juniper）",
-  "视频监控 CCTV（Dahua）",
-  "无线（Cambium、Ruckus）、IoT 网关（Teltonika）"
- ],
  "channels": {
-  "role": "系统集成商（企业 + 政府项目）",
-  "region": "格鲁吉亚",
-  "公开动态平台（监控中，T29-U18）": "官网 dc.ge / delta-consulting.ge；Facebook deltaconsultingofficial；RIPE 成员 + AS209786（1,024 IPv4，ISP/托管）；美国 SAM 注册（UEI J9LKEG5JR7D6，CAGE SJFH4）"
+  "role": "网络经销 / ISP 配套（推断）",
+  "region": "尼泊尔"
  },
- "signals": [
-  "2026-10-23 核查：Delta Consulting 是第比利斯系统集成商（D&B 30 人、$2.05M、负责人 Giorgi Jaliashvili）+ 自有 AS（RIPE 成员）+ 2020 起美国联邦注册（可能承接美使馆/USAID 本地 IT 项目）；伙伴清单全是 Cisco/Juniper/Dell/Lenovo/Cambium/Teltonika/Dahua 等大牌——Saga 只在「低价项目备选」有机会，gg 维持",
-  "已从中国同行（新桥）采购同类工业小壳机 → 需求真实、在比价",
-  "2025-11 新需求：小型 8 口大功率 PoE",
-  "CEO 直接对接"
- ],
  "risks": [
-  "比价严苛（新桥 CI 价约为 Saga 一半）→ 需用 Marvell 芯片 / 保修 / 现货差异化，不打价格战",
-  "政府项目按单核用途（守界）",
-  "表内「外壳质量不满意」实为保护膜未撕 → 样品需附说明"
+  "尼泊尔进口小量、付款 T/T 预付"
  ],
  "saga_fit": {
-  "p1": "STI-288DGGPM-2BT",
+  "p1": "STC-28DGGPM",
   "tier": 25,
-  "why": "其最新需求「small 8 port high PoE」→ Saga 工业 8 PoE（含 2×BT 90W）+ 2 SFP 管理 STI-288DGGPM-2BT（$154.0（列表价封顶））；低价备选 STI-288GP；1 光 4 / 2 光 4 小壳 = STI-144GP / STI-244GP。"
+  "why": "2 光 10 电 ≈ 8 电 + 2 combo → Saga STC-28DGGPM（8 GE + 2 SFP）；非 PoE 版 STC-28GM。"
  },
- "email_hook": "George, you asked for a small 8-port high-power PoE unit — ours gives 2×90 W (802.3bt) + 6×30 W on a DIN-rail body with 2 SFP uplinks; shall I send the sheet with a 1-pc sample price so you can benchmark it against your current supplier?",
- "deal_pi": {
-  "folder": "1 格鲁吉亚 George gg",
-  "simon_label": "gg",
-  "pay": "",
-  "bind": "",
-  "buyer": "DELTA CONSULTING LLC",
-  "orders": 1,
-  "first": "2023-07-24",
-  "last": "2023-07-24",
-  "usd": 100.0,
-  "rmb": 0.0,
-  "profit_rmb": 177.1,
-  "models": "STC-028GFP、STC-128GFP"
- },
- "watch": {
-  "as_of": "2026-10-23",
-  "github_watch": [],
-  "web_watch_targets": "scripts/web_watch/targets.json#SB-335",
-  "status": "data/customer_watch/当前状态.md",
-  "log": "data/customer_watch/变化日志.md"
- },
+ "email_hook": "Chhatra, for the 2-fibre + 10-copper requirement, do the copper ports need PoE (for cameras/APs) or not? I'll quote the matching 8+2 model either way, from 1 pc.",
  "mail_review": {
   "binding": {
-   "level": "轻度绑定→已冷（一单 $100 样机 2023-07-24：STC-028GFP ×2 @20 + STC-128GFP ×2 @25；PI 包「gg」；2026 年 2 封群发 0 回；Elsa 箱：`to:dc.ge` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 2 / 来 0）（第 74 批(k)））",
-   "type": "第比利斯 IT 集成商（Delta Consulting，30 人，$2M；CEO George Jaliashvili）——从新桥拿货、价格约为 Saga 一半（研究档）",
-   "sieve": "5（付样）",
-   "stop": "价格：其现供新桥约为 Saga 一半（研究档引用 CI）；样机后 3 年无单",
-   "revive": "CENTEC 汇聚/核心（Cisco/Juniper 伙伴 = 懂 L3）——与低价 PoE 不同赛道",
-   "lane": "GE 非主攻",
-   "cadence": "一次",
-   "evidence": "PI STSC20230724001（$100）；A 邮箱 2026-05-15 / 2026-09-01 两封群发（george@dc.ge）0 回"
+   "level": "未触达（S 邮箱 1 封 2024，无记录打开，0 回；收件 pchhatra02@gmail.com；主题多为「10G Media Converter」；Elsa 箱：`to:pchhatra02@gmail.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 1 / 来 0）（第 74 批(n)））",
+   "type": "—",
+   "sieve": "1（只收到群发）",
+   "stop": "1 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "尼泊尔 非主攻",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 1；用户表：「兴趣：2光10电；回复：1120email发了10gmc」；研究档 risks：尼泊尔进口小量、付款 T/T 预付"
   },
-  "situation": "2023-07 买了 4 台百兆 PoE 样机（$100），之后没有下文——它的 PoE 来源是新桥，价格一半。公司本身是 Cisco/Juniper/F5 级别的集成商，PoE 低价赛道不是 Saga 能赢的；CENTEC 汇聚/核心才对得上它的客户（企业 + 政府）。",
-  "need": "2023：百兆 PoE 样机；潜在：企业/政府项目汇聚核心。",
-  "breakpoint": "价格（新桥）。",
+  "situation": "尼泊尔网络商 Golden Hub（Chhatra Puri），需求 2 光 10 电；2025-11 收 10G MC 邮件；无域名。",
+  "need": "2 光 10 电 ≈ 8 电 + 2 combo → Saga STC-28DGGPM（8 GE + 2 SFP）；非 PoE 版 STC-28GM。",
+  "breakpoint": "尼泊尔进口小量、付款 T/T 预付",
   "saga_now": {
-   "p1": "STH 系列 CENTEC 汇聚（10G/25G）",
+   "p1": "STC-28DGGPM",
    "tier": 25,
-   "price": "按 CENTEC ≥35% 底线；群发里他已看到的价（续）：2026-09-01 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2026-05-15 $280（10G Enterprise SFP Switch）（㉕ 封顶：STI-288DGGPM-2BT 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25）",
-   "why": "J5：换赛道一次｜毛利复盘：首单 26.5%（STC-028GFP 115 / STC-128GFP 120）——正常",
-   "repeat": [
-    "2023-07-24 唯一一单：STC-028GFP + STC-128GFP $100（Simon 利润 RMB 177；PI 复盘 #1，Simon 标 gg）"
-   ],
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-11-20 $65（10G Media Converter）",
+   "why": "2 光 10 电 ≈ 8 电 + 2 combo → Saga STC-28DGGPM（8 GE + 2 SFP）；非 PoE 版 STC-28GM。",
+   "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "2027-Q1",
-   "channel": "A 邮箱 → george@dc.ge",
-   "action": "一封只讲 CENTEC 汇聚替代 Cisco 的信（第 75 批(ag) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；2024-11「small 8 port high poe」按 ㉞ 先答（2BT = 2×bt + 6×at），CENTEC STH-2C24XF-HSI $1,500 一行带过）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
-   "one_question": "George — for the enterprise/government core & aggregation you deploy on Cisco/Juniper, would a CENTEC-based L3 (VXLAN/EVPN) at roughly half the TCO be worth one lab unit?"
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Chhatra, for the 2-fibre + 10-copper requirement, do the copper ports need PoE (for cameras/APs) or not? I'll quote the matching 8+2 model either way, from 1 pc."
   },
   "facts": [
    {
-    "date": "2023-07-24",
-    "dir": "PI",
-    "who": "Simon → George Jaliashvili",
-    "quote": "STC-028GFP 2×20；STC-128GFP 2×25；Freight 5；TOTAL 4 / 100 USD",
-    "why": "样机单",
-    "k": "PI STSC20230724001"
-   },
-   {
-    "date": "2023-07-24",
-    "dir": "来",
-    "who": "George（需求.docx / requirement_solution.docx）",
-    "quote": "8个百兆+1个千兆SFP…要有POE看门狗，强制要求…可支持导轨安装…不放电源，放一个DC 24V升48V逆变器…共分为2个单子，1个是样品单（客户已付款），另外是大货单…数量2500个，以ZX901-AF-821GNS为基础来改来报价：板子加看门狗、不带电源及电源线改用逆变器、导轨安装、接线头改、后面板大改",
-    "why": "$100 样机单背后是一个 2,500 台的定制项目（PoE 看门狗 + 24→48V 升压 + DIN + 后面板重做）；样品 4 台 = 2 带看门狗 + 2 不带 × （标准 AC-DC / 升压器）各一台让客户对比。项目没有下文——「PoE 来源是新桥、价格一半」是结果，不是原因：原因是要改后面板/电源的 2,500 台 ODM 在 HRUI 百兆线上成本和风险都不划算",
-    "k": "Drive PI 文件夹（data/pi_2026-10/text） 1_George"
-   },
-   {
-    "date": "2023-07-24",
-    "dir": "内",
-    "who": "Simon 成本表（PI 包）",
-    "quote": "内部《成本统计.xlsx》：STSC20230724001：成本 490 / 收款 667 / 利润 177（26.5%）",
-    "why": "利润率 = 利润÷收款；对照 20/25/30 加价 = 16.7%/20%/23% 毛利；详见 docs/成单客户_毛利复盘_内部_2026-10-24.md",
-    "k": "cost_sheet"
-   },
-   {
-    "date": "2023-07-25",
+    "date": "2024-11-20",
     "dir": "去",
-    "who": "Saga（销售订单 7.25 已签章 + 货代信息.docx）",
-    "quote": "货代：GT32937 DELTA CONSULTING LLC，广州市荔湾区站前路34号711库房，MARK GT32937",
-    "why": "客户自己的广州货代（客户集货线，非 Saga 百运网线）——符合 U28 的两条物流线判断；下次若复活，先问他的广州仓还在不在",
-    "k": "Drive PI 文件夹（data/pi_2026-10/text） 1_George"
+    "who": "S 群发",
+    "quote": "10G Media Converter",
+    "why": "1 封 / 0 次打开 / 0 回｜首封 2024-11-20 → 末封 2024-11-20（1 去 / 0 来）",
+    "k": "gmail_digest"
    },
    {
-    "date": "2024-11-19",
-    "dir": "来",
-    "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
-    "quote": "用户表跟进：推「引流机型」→ 对方「small 8 port high poe」",
-    "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
-    "k": "Clients/A/DONE/其他优质欧洲客户 2.26.xlsx no.6 1119"
-   },
-   {
-    "date": "2026-09-01",
-    "dir": "去",
-    "who": "Alan（群发）",
-    "quote": "24 Port PoE Managed Switch…",
-    "why": "0 回",
-    "k": "c3cd22fd6af847aa"
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：2光10电；回复：1120email发了10gmc",
+    "why": "表内备注",
+    "k": "用户表"
    }
   ],
   "proof_gaps": [
-   "2023 年沟通不在 A/S 邮箱"
+   "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
   ],
-  "draft_en": {
-   "subject": "Your \"small 8-port high PoE\" question, answered - and one line on aggregation",
-   "body": "Hi George,\n\nYou bought two pairs of Fast Ethernet PoE samples from us in 2023, and in November 2024 you asked for a small 8-port high-power PoE unit; what you had from us since were general product mails. The answer: DIN-rail 8 x Gigabit PoE, 2 x 802.3bt (up to 90 W) + 6 x 802.3at, 2 x SFP uplinks, L2+ managed with ring redundancy, Marvell-based, -40 to 75 C - model STI-288DGGPM-2BT - $154 USD EXW (MOQ 1, 15-day validity). I know your current supplier is cheaper on the simple units; this one is for the sites where 90 W and management matter.\n\nOne line on the enterprise and government projects: for aggregation where Cisco is specified by habit rather than by feature, a 24 x 10G SFP+ + 2 x 100G L3 unit is $1,500 - sent against a real port plan, not as a list.\n\nOne question: for the 8-port high-power unit, is it one site or a standard item in your CCTV kits?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
-  },
+  "draft_en": null,
   "as_of": "2026-10-24"
  }
 }

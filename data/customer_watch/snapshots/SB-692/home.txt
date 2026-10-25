@@ -1,550 +1,81 @@
-# SB-692 davantel.com · home · https://www.davantel.com/ · fetched 2026-10-25T07:41:18Z · HTTP 200
-Soluciones avanzadas para telecomunicaciones corporativas - Davantel
-Saltar al contenido
-Menú
-Partners
-Teltonika Networks
-Teltonika Telematics
-Robustel
-Kyland
-Fiberroad
-Raisecom
-Loop Telecom
-Proscend
-FlexDSL
-Elproma
-Gigalight
-Quwireless
-CXR
-COME-STAR
-Digital Instruments
-Pantherun
-Productos
-Cargadores para coches eléctricos
-Módems, gateways y routers
-Routers Teltonika
-Routers 4G
-OTD140 – Router 4G de exterior
-TCR100
-RUT200
-RUT204
-RUT206
-RUT241
-RUT241 eSIM
-RUT260
-RUT360
-RUT901
-RUT951
-RUT951 PoE+
-RUT906
-RUT956
-RUTM09
-RUTX09
-RUTM11
-RUTX11
-RUTX12
-RUTX14
-RUTXR1
-Routers 5G
-RUTM30 – 5G eSIM
-RUTM51
-RUTX50
-RUTC50 – 5G eSIM WiFi 6
-RUTM52
-RUTM54 – 5G eSIM Telit
-Routers eSIM
-RUT241 eSIM
-RUT951 PoE+
-RUTM30
-RUTM54
-RUTC50 – 5G WiFi 6
-Routers Ethernet
-RUT140
-RUT142
-RUT300
-RUT301
-RUTM08
-RUTX08
-RUTX10
-Routers Robustel
-R1500 Lite
-R1500
-R1510
-R1511
-R1520
-R2000
-R2010
-R2011
-R2110
-R3000 Lite
-R3000
-R3000 Quad
-R5010 – Router industrial 5G global
-R5020 Lite
-R5020
-R5030 – router industrial 5G y WiFi 6
-EV8100 Elevator Voice Gateway
-Robustel Cloud Manager Service (RCMS)
-Edge2Cloud
-Smart Roaming V2
-Smart Roaming V3
-Gateways
-TRB140
-TRB141
-TRB142
-TRB143
-TRB145
-TRB245
-TRB255
-TRB500
-OXA – Gateway IoT integrado
-Gateways LoRaWAN
-Módems
-TRM240
-TRM250
-TRM500
-MP1000-MP
-Antenas y routers outdoor
-OTD140 – Router 4G de exterior
-RMS
-Antenas
-Accesorios
-Servicio VPN
-Contratación
-Frequently Asked Questions
-Instalación
-Tarjetas SIM IoT prepago
-Trackers Teltonika
-Domótica y telecontrol GSM
-Industrial edge computing gateways
-Switches industriales
-Modulares en formato rack 19»
-Formato rack 19»
-Gestionados montaje en carril DIN
-Kyland
-Raisecom
-Fiberroad
-Teltonika
-Gestionados PoE para carril DIN
-Raisecom
-Fiberroad
-No gestionados para carril DIN
-Fiberroad
-Teltonika
-Kyland
-No gestionados PoE para carril DIN
-Embarcados EN50155
-Switches PTP
-Switches para minería, petróleo y gas
-Switches para aplicaciones militares
-Kyvision – Software SNMP de Kyland
-AUTBUS
-Industrial Smart Controllers
-PoE
-Access Point WiFi industriales
-Switches de acceso y agregación
-Conversores de medio
-Soluciones para cifrado de datos
-Servidores NTP/PTP
-Optical Transport Network
-iTN8600-I-XT4D
-iTN8600
-iTN8607
-WDM
-CWDM
-DWDM
-TDM over IP
-CIP-2E1T1
-IP6704A
-RAX711-L
-AM3440-E
-Nodos multiservicio TDM/IP
-AM3440-CHA
-AM3440-CHC
-AM3440-CHD
-Ethernet Demarcation Devices
-IP MPLS
-RAX711-C-R – Intelligent 10G Ethernet Demarcation Device
-iTN8800 – IP-MPLS Pre-Aggregation and PE Device
-RAX721 – MPLS Pre-Aggregation Pizza-Box
-Audio sobre IP
-Servidores de terminales
-Transceivers ópticos
-Fibermux
-Módems G.SHDSLbis
-GigaFlex
-Orion3
-MiniFlex
-VoIP Gateways
-5220N – SHDSL EFM / ATM VPN Router
-VDSL2
-100M
-102M
-NetTESTER
-Casos de Uso
-Control remoto de PLC
-Telelectura IP
-Riegos automatizados
-IEC61850
-Recarga eléctrica de vehículos
-Obras y construcción
-Tratamiento de aguas
-Seguridad CCTV
-Clientes
-Testimonios
-Reseñas
-Soporte
-FAQs Teltonika routers
-FAQs SIM IoT prepago
-FAQs Trackers Teltonika
-Manuales
-Catálogos
-RMA
-Blog
-Top10
-Productos Destacados
-Routers Teltonika
-Robustel
-KLG SMARTEC
-Fiberroad
-Trackers Teltonika
-Pantherun Technologies
-How-To
-Tecnología
-Noticias de Empresa
-Case Studies
-Tienda
-Menú
-Partners
-Teltonika Networks
-Teltonika Telematics
-Robustel
-Kyland
-Fiberroad
-Raisecom
-Loop Telecom
-Proscend
-FlexDSL
-Elproma
-Gigalight
-Quwireless
-CXR
-COME-STAR
-Digital Instruments
-Pantherun
-Productos
-Cargadores para coches eléctricos
-Módems, gateways y routers
-Routers Teltonika
-Routers 4G
-OTD140 – Router 4G de exterior
-TCR100
-RUT200
-RUT204
-RUT206
-RUT241
-RUT241 eSIM
-RUT260
-RUT360
-RUT901
-RUT951
-RUT951 PoE+
-RUT906
-RUT956
-RUTM09
-RUTX09
-RUTM11
-RUTX11
-RUTX12
-RUTX14
-RUTXR1
-Routers 5G
-RUTM30 – 5G eSIM
-RUTM51
-RUTX50
-RUTC50 – 5G eSIM WiFi 6
-RUTM52
-RUTM54 – 5G eSIM Telit
-Routers eSIM
-RUT241 eSIM
-RUT951 PoE+
-RUTM30
-RUTM54
-RUTC50 – 5G WiFi 6
-Routers Ethernet
-RUT140
-RUT142
-RUT300
-RUT301
-RUTM08
-RUTX08
-RUTX10
-Routers Robustel
-R1500 Lite
-R1500
-R1510
-R1511
-R1520
-R2000
-R2010
-R2011
-R2110
-R3000 Lite
-R3000
-R3000 Quad
-R5010 – Router industrial 5G global
-R5020 Lite
-R5020
-R5030 – router industrial 5G y WiFi 6
-EV8100 Elevator Voice Gateway
-Robustel Cloud Manager Service (RCMS)
-Edge2Cloud
-Smart Roaming V2
-Smart Roaming V3
-Gateways
-TRB140
-TRB141
-TRB142
-TRB143
-TRB145
-TRB245
-TRB255
-TRB500
-OXA – Gateway IoT integrado
-Gateways LoRaWAN
-Módems
-TRM240
-TRM250
-TRM500
-MP1000-MP
-Antenas y routers outdoor
-OTD140 – Router 4G de exterior
-RMS
-Antenas
-Accesorios
-Servicio VPN
-Contratación
-Frequently Asked Questions
-Instalación
-Tarjetas SIM IoT prepago
-Trackers Teltonika
-Domótica y telecontrol GSM
-Industrial edge computing gateways
-Switches industriales
-Modulares en formato rack 19»
-Formato rack 19»
-Gestionados montaje en carril DIN
-Kyland
-Raisecom
-Fiberroad
-Teltonika
-Gestionados PoE para carril DIN
-Raisecom
-Fiberroad
-No gestionados para carril DIN
-Fiberroad
-Teltonika
-Kyland
-No gestionados PoE para carril DIN
-Embarcados EN50155
-Switches PTP
-Switches para minería, petróleo y gas
-Switches para aplicaciones militares
-Kyvision – Software SNMP de Kyland
-AUTBUS
-Industrial Smart Controllers
-PoE
-Access Point WiFi industriales
-Switches de acceso y agregación
-Conversores de medio
-Soluciones para cifrado de datos
-Servidores NTP/PTP
-Optical Transport Network
-iTN8600-I-XT4D
-iTN8600
-iTN8607
-WDM
-CWDM
-DWDM
-TDM over IP
-CIP-2E1T1
-IP6704A
-RAX711-L
-AM3440-E
-Nodos multiservicio TDM/IP
-AM3440-CHA
-AM3440-CHC
-AM3440-CHD
-Ethernet Demarcation Devices
-IP MPLS
-RAX711-C-R – Intelligent 10G Ethernet Demarcation Device
-iTN8800 – IP-MPLS Pre-Aggregation and PE Device
-RAX721 – MPLS Pre-Aggregation Pizza-Box
-Audio sobre IP
-Servidores de terminales
-Transceivers ópticos
-Fibermux
-Módems G.SHDSLbis
-GigaFlex
-Orion3
-MiniFlex
-VoIP Gateways
-5220N – SHDSL EFM / ATM VPN Router
-VDSL2
-100M
-102M
-NetTESTER
-Casos de Uso
-Control remoto de PLC
-Telelectura IP
-Riegos automatizados
-IEC61850
-Recarga eléctrica de vehículos
-Obras y construcción
-Tratamiento de aguas
-Seguridad CCTV
-Clientes
-Testimonios
-Reseñas
-Soporte
-FAQs Teltonika routers
-FAQs SIM IoT prepago
-FAQs Trackers Teltonika
-Manuales
-Catálogos
-RMA
-Blog
-Top10
-Productos Destacados
-Routers Teltonika
-Robustel
-KLG SMARTEC
-Fiberroad
-Trackers Teltonika
-Pantherun Technologies
-How-To
-Tecnología
-Noticias de Empresa
-Case Studies
-Tienda
-Inicio
-Soluciones para automatización en subestaciones eléctricas
-Bus industrial de comunicaciones multidrop de alta velocidad
-Hyperie8300 – Servidor para automatización eléctrica
-Pantherun – The fastest ever encryption, zero latency even at 10Gbps+ speed
-Recarga eléctrica de vehículos
-DESARROLLOS AVANZADOS EN TELECOMUNICACIONES, S.L. (DAVANTEL) es una empresa orientada a ofrecer soluciones avanzadas de acceso y transporte a los operadores, ingenierías, compañías de suministro y grandes corporaciones.
-NOVEDADES
-IEC61850
-Switches industriales, redbox PRP/HSR y servidores de tiempo son algunas de nuestras soluciones para la ...
-Tarjetas SIM IoT prepago
-Tarjetas SIM multioperador prepago con duración entre 1 a 5 años. Soportan datos y SMS ...
-Soluciones para cifrado de datos
-Cifrado en tiempo real, con cero latencia y a velocidades Gigabit. Solución de encriptación AES ...
-Redes Marítimas y Ciberseguridad
-DAVANTEL distribuye la gama marítima Robustel MG: gateways, reenviadores, switches y computadoras industriales conformes a ...
-PRODUCTOS DESTACADOS
-Módems, gateways y routers celulares y LoRaWAN
-DAVANTEL es distribuidor de las soluciones de Networking del fabricante Teltonika Networks ...
-Industrial edge computing gateways
-Los dispositivos Edge Computing integran comunicaciones 4G o 5G sobre una plataforma hardware potente disponible para almacenar y correr todo ...
-Routers Robustel
-Familia de routers 4G y 5G con diferentes puertos (Ethernet, WiFi y RS232/485). Failover, múltiples VPN y operación remota a ...
-Redes Marítimas y Ciberseguridad
-DAVANTEL distribuye la gama marítima Robustel MG: gateways, reenviadores, switches y computadoras industriales conformes a IACS UR E26/E27 e IEC ...
-Soluciones para cifrado de datos
-Cifrado en tiempo real, con cero latencia y a velocidades Gigabit. Solución de encriptación AES sin repositorio de intercambio de ...
-Transceivers ópticos
-A través de nuestro partner Gigalight disponemos de una amplia gama de transceivers ópticos y eléctricos en formato SFP, XFP ...
-Teltonika Energy
-Teltonika Energy anuncia el lanzamiento al mercado TeltoCharge, una familia de cargadores para coches eléctricos de tipo residencial con alimentación ...
-Switches industriales
-Davantel dispone de una amplia gama de switches industriales gestionables y no gestionables, para montaje en carril DIN y rack ...
-Industrial Smart Controllers NewPre
-Los controladores industriales NewPre inteligentes de KLG Smartec son la última generación en servidores de tipo industrial incluyendo funciones de ...
-Conversores de medio
-Disponemos de modelos tanto en rango comercial en miniatura con alimentador externo a 220Vac como en rango industrial para montaje ...
-Servidores NTP/PTP
-En DAVANTEL disponemos de una amplia gama de servidores NTP con receptor GNSS (GPS/GLONASS) que permiten su funcionamiento como reloj ...
-TDM over IP
-La tecnología TDM over IP permite el transporte de flujos de datos síncronos a través de una red de conmutación ...
-CASOS DE USO
-Control remoto de PLC
-Los dispositivos Teltonika te permiten el acceso remoto de forma segura y económica a tus PLC independientemente de su conexión ...
-Ver Productos
-Telelectura IP
-El apagón de las redes 2G obliga a migrar las soluciones basadas en llamadas de datos a través de módems ...
-Ver Productos
-Conexión a Internet de riegos automatizados
-Solución 'Todo Incluido' para la conexión a Internet de sistemas automatizados de riego para su control y monitorización de forma ...
-Ver Productos
-IEC61850
-Switches industriales, redbox PRP/HSR y servidores de tiempo son algunas de nuestras soluciones para la automatización de subestaciones eléctricas según ...
-Ver Productos
-Recarga eléctrica de vehículos
-Cargadores AC residenciales, routers celulares, switches industriales y AUTBUS como bus multipunto sobre pares para la conexión de múltiples cargadores ...
-Ver Productos
-Obras y construcción
-Las obras de construcción, por su naturaleza temporal y localización muchas veces remota, suelen carecer de la infraestructura necesaria para ...
-Ver Productos
-Tratamiento de aguas
-Los routers celulares son componentes vitales en la modernización del sector del tratamiento y la gestión de aguas, permitiendo la ...
-Ver Productos
-Seguridad CCTV
-Los routers celulares y los switches industriales se han convertido en piezas clave para desplegar sistemas de CCTV y seguridad ...
-Ver Productos
-ARTÍCULOS SOBRE TECNOLOGÍA Y HOW-TO
-Tecnología
-Los 10 mejores artículos de Tecnología de nuestro blog en el 2025
-31/12/2025
-How-To Routers Teltonika
-Los 10 errores más comunes a la hora de poner en marcha un router Teltonika
-11/03/2020
-Tecnología
-Los 11 mejores artículos de tecnología en nuestro blog
-28/11/2018
-Tecnología
-Protocolo NTP – Los Miércoles de Tecnología
-18/04/2018
-How-To Routers Teltonika Top10
-10 Consejos para la puesta en marcha de un router Teltonika
-12/12/2023
-How-To Routers Teltonika
-¿Cuánto cuesta RMS?
-17/05/2023
-Tecnología
-PRP (Parallel Redundancy Protocol) – Los Miércoles de Tecnología
-20/12/2017
-Tecnología
-HSR (High-availability Seamless Redundancy) – Los Miércoles de Tecnología
-10/01/2018
-Trabaja con nosotros
-Contacto
-Soporte
-Certificaciones
-Aviso legal
-Política de Privacidad
-Contenidos e IA
-Revisar Cookies
-Pardo, 8 bajos
-08027 Barcelona (SPAIN)
-Tel: +34 93 3408712
-info@davantel.com
-Por favor, deja este campo vacío Newsletter
-Acepto recibir comunicaciones por email
-Lee nuestra política de privacidad para más información.
-Revisa tu bandeja de entrada o la carpeta de spam para confirmar tu suscripción.
-© 2026 Desarrollos AVANzados en TELecomunicaciones, S.L. - ESB63615553
-Cerrar Partners
-Productos
-Routers Teltonika
-Routers Robustel
-Industrial edge computing gateways
-Tarjetas SIM IoT prepago
-Trackers Teltonika
-Casos de Uso
-Clientes
-Soporte
-Blog
-Tienda
-Contacto
+# SB-692 Anda Telecom · home · https://andatelecom.com/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+Anda Telecom Private Limited
+Welcome to Anda Telecom Private Limited. Your one stop destination for high-quality Telecom grade and fiber optic products.
+Home
+Products
+ACCESS SWITCHES
+Managed
+Industrial
+OPTICAL MULTIPLEXER
+PDH
+CONVERTERS
+Media Converters
+E1 Converters
+Other Interface Converters
+VOIP Products
+EXTENDERS
+Small Form-factor Pluggable
+SURGE PROTECTION
+TESTING EQUIPMENTS
+OTDR
+POWER METER
+SPLICING MACHINE
+TOOLKIT
+ENCRIPSTION DIVICE
+RUGGED EQUIPEMENTS
+UTILITY EQUIPMENTS
+FDMS
+PATCH CODE
+About
+About Us
+Director's Desk
+Certifications
+Enquiry
+Contact us
+WELCOME TO
+ANDA TELECOM PRIVATE LIMITED
+About us
+Contact us
+WELCOME TO
+ANDA TELECOM PRIVATE LIMITED
+About us
+Contact us
+WELCOME TO
+Anda Telecom Private Limited
+Founded in 2004 in New Delhi, India, ANDA TELECOM PVT LTD has remained committed to delivering high-quality Telecom grade and fiber optic products.
+With over two decades of industry experience, we have established ourselves as a reliable provider of communication solutions that meet the evolving needs of modern infrastructure.
+Read More
+Our Clients
+Featured Products
+Our Popular Products
+Access Switches
+Optical Multiplexer
+Media Converters
+E1 Converters
+Void Products
+Extenders
+Power Meter
+Splicing Machine
+Sign up for our newsletter
+Stay up to update with our latest news and products.
+Subscribe
+About Us
+ANDA Telecom Ltd provides innovative, leading edge communications technology products and solutions suitable for a wide range of applications. Our expertise and focus in Data, Voice,Video PoE and Telephony-based applications over Copper and Long Distance Optical fiber which enable us to develop and manufacturer to add value to the customers existing offering and improve overall customer satisfaction.
+Useful Links
+Home
+About us
+Products
+Enquiry
+Contact Us
+Contact Details
+Head Office: E-36, Amar Colony, lajpat Nagar-IV, New Delhi-110024
+Manufacturing Site: E-38, Sec-06, Noida, Uttar Pradesh-201301
+Phone: +91 9871650366, 9350257172/73
+Technical Support Team: +91 9350345252
+Service Center Landline(24*7): +91 120 4109590
+E-Mail: info@andatelecom.com
+info@andatelecomindia.com
+Make in India Initiative
+Disclaimer
+ANDA Telecom Ltd Made In India Products are available in specific part codes
+© 2025 Anda Telecom Private Limited. All Rights Reserved.

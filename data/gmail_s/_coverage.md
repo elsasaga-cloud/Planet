@@ -66,45 +66,45 @@
 | 域名 | 封数 | 客户编号 |
 |---|---|---|
 | angoranetworks.com | 603 |  |
-| resonantnetworks.com | 174 | SA-006 |
+| resonantnetworks.com | 174 | SB-001 |
 | by56.com | 160 |  |
 | service.bank.za.group | 137 |  |
-| nynex.de | 103 | SA-013 |
-| e-saudi.net | 70 | SB-431 |
-| actelis.com | 67 | SB-933 |
+| nynex.de | 103 | SA-008 |
+| e-saudi.net | 70 | SB-451 |
+| actelis.com | 67 | SB-831 |
 | findlight.net | 67 |  |
-| megnet.co.uk | 64 | SA-024 |
+| megnet.co.uk | 64 | SA-015 |
 | service.alibaba.com | 58 |  |
 | message.xtransfer.cn | 56 |  |
 | globalsources.com | 55 |  |
-| telecamera.ru | 52 | SC-397 |
-| optiviewusa.com | 51 | SA-033 |
+| telecamera.ru | 52 | SC-650 |
+| optiviewusa.com | 51 | SA-021 |
 | simrex.com | 50 | SA-002 |
-| alfa.com.tw | 50 | SA-021 |
-| versitron.com | 50 | SB-924 |
-| megatelindustries.com | 46 | SA-135 |
+| alfa.com.tw | 50 | SA-013 |
+| versitron.com | 50 | SB-826 |
+| megatelindustries.com | 46 | SB-061 |
 | alerts.globalsources.com | 46 |  |
-| td-fe.ru | 45 | SA-052 |
-| americanfibertek.com | 44 | SA-030 |
-| etictelecom.com | 43 | SB-1026 |
-| cxr.com | 43 | SA-019 |
-| altus.com.br | 39 | SC-944 |
-| vilinknet.com | 37 | SA-011 |
-| optilinknetwork.com | 37 | SC-087 |
+| td-fe.ru | 45 | SA-035 |
+| americanfibertek.com | 44 | SB-010 |
+| etictelecom.com | 43 | SB-910 |
+| cxr.com | 43 | SA-011 |
+| altus.com.br | 39 | SC-1186 |
+| vilinknet.com | 37 | SA-006 |
+| optilinknetwork.com | 37 | SC-343 |
 | intl.paypal.com | 35 |  |
-| regalsecurity.co.za | 33 | SA-111 |
-| airpro.in | 33 | SB-964 |
-| powertec.com.au | 33 | SC-2271 |
-| datacom.com.br | 32 | SC-2887 |
-| telco.ge | 30 | SC-1489 |
+| regalsecurity.co.za | 33 | SB-042 |
+| airpro.in | 33 | SB-857 |
+| powertec.com.au | 33 | SC-2495 |
+| datacom.com.br | 32 | SC-3103 |
+| telco.ge | 30 | SC-1723 |
 | thomasnet.com | 29 |  |
-| dss-kuwait.com | 29 | SB-529 |
-| digisys.fr | 28 | SC-1252 |
-| intelbras.com.br | 28 | SB-1200 |
-| axis.com | 27 | SC-2199 |
-| texim-europe.com | 27 | SC-986 |
-| thorfiber.com | 26 | SB-003 |
-| antronix.com | 26 | SA-066 |
+| dss-kuwait.com | 29 | SB-530 |
+| digisys.fr | 28 | SC-1490 |
+| intelbras.com.br | 28 | SC-242 |
+| axis.com | 27 | SC-2425 |
+| texim-europe.com | 27 | SC-1226 |
+| thorfiber.com | 26 | SB-085 |
+| antronix.com | 26 | SA-042 |
 
 ## 关联到 Saga Clients 的往来
 

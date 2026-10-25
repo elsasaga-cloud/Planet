@@ -1,0 +1,16 @@
+# SB-1062 odoo.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCkQPikELWZFLgQNHd73jkdg · fetched 2026-10-25T07:41:18Z · HTTP 200
+2026-10-23T23:00:06+00:00	Built to Grow: How Top Seedz Centralized Food Manufacturing and Operations with Odoo	https://www.youtube.com/watch?v=eo2TNenNtYU
+2026-10-23T22:27:35+00:00	Odoo Market Anaylsis for the West Coast	https://www.youtube.com/watch?v=K-YaUKQgNKQ
+2026-10-23T22:26:19+00:00	Odoo Market Analysis for the Midwest	https://www.youtube.com/watch?v=fZAzfcqTevU
+2026-10-23T22:24:35+00:00	Marktanalyse van Odoo voor het Nederlands Caribisch gebied	https://www.youtube.com/watch?v=OmYyYBiUsJY
+2026-10-23T08:24:26+00:00	Chiedilo ai BA	https://www.youtube.com/watch?v=_31VeaVFDQk
+2026-10-22T20:12:50+00:00	Beyond the Books: What's New in Odoo Accounting	https://www.youtube.com/watch?v=JkeWo9nHWBU
+2026-10-22T15:10:21+00:00	Webinar - Odoo 20 - What's new in Services?	https://www.youtube.com/watch?v=S2qCpavdLKk
+2026-10-22T14:01:14+00:00	Das Ende der Insellösungen Folge 6	https://www.youtube.com/watch?v=In7mqruOeZY
+2026-10-22T11:37:29+00:00	Webinaire - Transformez votre cabinet comptable et gérez votre portefeuille clients avec Odoo 20	https://www.youtube.com/watch?v=4UiUHT4vXGo
+2026-10-22T09:58:05+00:00	Webinar - Gestire il business fotovoltaico in modo integrato con un unico ERP	https://www.youtube.com/watch?v=FqLh_lJo67Y
+2026-10-22T09:45:54+00:00	Odoo Insider - Regular Live Q&A with Louis	https://www.youtube.com/watch?v=VsiFyevcbU0
+2026-10-21T14:33:19+00:00	Webinaire - Comment débuter sur Odoo 🔥	https://www.youtube.com/watch?v=JVTdljLHhd0
+2026-10-21T13:39:19+00:00	Webinaire - Configurez votre restaurant rapidement et facilement avec Odoo	https://www.youtube.com/watch?v=AdqwCc51Nao
+2026-10-21T12:04:01+00:00	Webinar - Set Up Your Restaurant Quickly and Easily in Odoo 🍶	https://www.youtube.com/watch?v=vzuKpaSQjng
+2026-10-21T08:25:55+00:00	When Your Odoo Database Explodes: Understanding PG TOAST and How We Reduced 500GB to 60GB	https://www.youtube.com/watch?v=Qf6L8X7_EMA

@@ -1,437 +1,189 @@
-# SB-407 protekna.com · home · https://www.protekna.com/ · fetched 2026-10-25T07:41:18Z · HTTP 200
-Protekna - Prodotti e tecnologie per l'automazione
-ita
-eng
-Spedizione gratuita in Italia con ordini superiori a 200€ - Pagamenti sicuri online e alla consegna
-+39 045 860 0998
-Accedi/Registrati
-Prodotti
-Torna al menu
-PLC
-COMPATTI
-MODULARI
-SERIE DVP
-REMOTE I/O
-ETHERCAT
-REMOTE I/O MODBUS RS485
-REMOTE I/O MODBUS TCPIP
-MOTION
-SERVO MOTORS ECM-B3M 1PH
-SERVO MOTORS ECMA-X 1PH
-SERVO MOTORS ECMA-X 3PH
-SERVO ASD-B3A 1PH
-SERVO ASD-A2 1PH
-SERVO ASD-A2 3PH
-ENCODER CABLE ECMA-X
-ENCODER CABLE ECM-B3M
-POWER CABLE ECMA-X
-POWER CABLE ECM-B3M
-INVERTER PER MOTORI
-INVERTER MONOFASE
-INVERTER MONOFASE IP66
-INVERTER TRIFASE
-INVERTER TRIFASE IP55
-INVERTER TRIFASE IP66
-RESISTENZE DI FRENATURA
-INVERTER ACCESSORI
-FILTRI INVERTER
-PANNELLI OPERATORE
-TOUCH PANEL
-MODULI / PLC DI SICUREZZA
-PLC DI SICUREZZA
-CENTR. DI SICUREZZA PLd/SIL2
-CENTR. DI SICUREZZA PLe/SIL3
-FILTRI EMC E PROTEZIONE MOTORE
-FILTRI MONOFASE
-FILTRI TRIFASE
-FILTRI TRIFASE + NEUTRO
-TOROIDI
-ALIMENTATORI DA BARRA DIN
-ALIMENTATORI MONOFASE
-ALIMENTATORI TRIFASE
-ALIMENTATORI MONOFASE MODULARI
-ALIMENTATORI BIFASE
-SWITCH ETHERNET UNMANEGED
-UNMANEGED 10/100
-UNMANEGED 10/100 + FIBER
-UNMANEGED 10/100 + SFP
-SWITCH ACCESSORIES
-UNMANEGED 1GB
-UNMANEGED 1GB + SFP
-UNMANEGED 1GB + PoE
-UNMANEGED 10/100 + PoE + FIBER
-SWITCH PROFINET
-UNMANEGED 10/100 + PoE
-SWITCH ETHERNET MANEGED
-MANEGED 10/100
-MANEGED 10/100 WITH FIBER
-MANEGED 10/100 + SFP
-MANEGED 10/100 + GIGABIT
-MANEGED 1GB
-MANEGED 1GB POE + SFP
-MANEGED ETHERNET IP
-MANEGED PROFINET
-MANEGED IEC 61850-3
-MANEGED 1GB + SFP
-MODULI SFP
-MODULI SFP 100MB
-MODULI SFP 1GB
-MEDIA CONVERTER
-MEDIA CONVERTER 10/100
-MEDIA CONVERTER 10/100 PoE
-MEDIA CONVERTER 1GB
-SERIAL SERVER
-WIFI SERIAL SERVER
-SECURE SERIAL SERVER
-SERIAL SERVER ACCESSORIES
-SERIAL CONVERTER
-CAN BUS -> FIBER
-PROFIBUS -> FIBER
-CONVERTER RS232/422/485
-RS232 ->RS422/485
-REPEATER
-USB --> RS232/422/485
-HUB USB
-RS232/484/422 -> FIBER
-CONVERTITORI DI SEGNALE
-CONFIGURABILI DA PC
-CONFIGURABILI DA DIP SWITCH
-CONFIGURABILI DA DIP E DA PC
-MODULI DI CALCOLO
-MULTISERIALI
-2 SERIALI RS232
-2 SERIALI RS422/485
-2 SERIALI RS232/422/485
-4 SERIALI RS232
-4 SERIALI RS422/485
-4 SERIALI RS232/422/485
-8 SERIALI RS232
-8 SERIALI RS422/485
-8 SERIALI R232/422/485
-16 SERIALI RS232/422/485
-CAVI PER MULTISERIALI
-WIRELESS
-CLIENT
-ACCESS POINT
-ANTENNAS WIFI
-ANTENNAS WIFI CABLE
-ANTENNAS CELLULAR CABLE
-ANTENNAS CELLULAR
-ROUTER DA BARRA DIN
-SECURE ROUTER
-ROUTER INDUSTRIALI
-GATEWAY
-GATEWAY MODBUS
-GATEWAY FIELDBUS
-GATEWAY MPI - ETH
-GATEWAY FIELDBUS LOW COST
-TELEASSISTENZA / VPN
-MOBI AVIOR
-ROUTER PER TELEASSISTENZA VPN
-TASTIERE INDUSTRIALI
-TASTIERE DA PANNELLO
-BATTERIE
-BATTERIE LITIO PER AZIONAMENTI
-FRONTALINI INTERFACCIA
-INSERTI
-TELAI
-CONNETTORI CABLATI
-CONNETTORI PER SENSORI
-CONNETTORI PER ELETTROVALVOLA
-CONNETTORI A CABLARE
-PERFORAZIONE D'ISOLANTE
-A VITE
-CONNETTORI BUS
-PROTEZIONI ELETTRONICHE
-SERIE MICO
-GESTIONE ENERGIA
-ENERGY METER
-SENSORI
-SENSORE DI PRESSIONE
-SURGE PROTECTOR
-DATA LINE
-INJECTOR PoE
-INJECTOR PoE 10/100
-Download
-Azienda
-Contatti
-Prodotti
-Torna al menu
-PLC
-COMPATTI
-MODULARI
-SERIE DVP
-REMOTE I/O
-ETHERCAT
-REMOTE I/O MODBUS RS485
-REMOTE I/O MODBUS TCPIP
-MOTION
-SERVO MOTORS ECM-B3M 1PH
-SERVO MOTORS ECMA-X 1PH
-SERVO MOTORS ECMA-X 3PH
-SERVO ASD-B3A 1PH
-SERVO ASD-A2 1PH
-SERVO ASD-A2 3PH
-ENCODER CABLE ECMA-X
-ENCODER CABLE ECM-B3M
-POWER CABLE ECMA-X
-POWER CABLE ECM-B3M
-INVERTER PER MOTORI
-INVERTER MONOFASE
-INVERTER MONOFASE IP66
-INVERTER TRIFASE
-INVERTER TRIFASE IP55
-INVERTER TRIFASE IP66
-RESISTENZE DI FRENATURA
-INVERTER ACCESSORI
-FILTRI INVERTER
-PANNELLI OPERATORE
-TOUCH PANEL
-MODULI / PLC DI SICUREZZA
-PLC DI SICUREZZA
-CENTR. DI SICUREZZA PLd/SIL2
-CENTR. DI SICUREZZA PLe/SIL3
-FILTRI EMC E PROTEZIONE MOTORE
-FILTRI MONOFASE
-FILTRI TRIFASE
-FILTRI TRIFASE + NEUTRO
-TOROIDI
-ALIMENTATORI DA BARRA DIN
-ALIMENTATORI MONOFASE
-ALIMENTATORI TRIFASE
-ALIMENTATORI MONOFASE MODULARI
-ALIMENTATORI BIFASE
-SWITCH ETHERNET UNMANEGED
-UNMANEGED 10/100
-UNMANEGED 10/100 + FIBER
-UNMANEGED 10/100 + SFP
-SWITCH ACCESSORIES
-UNMANEGED 1GB
-UNMANEGED 1GB + SFP
-UNMANEGED 1GB + PoE
-UNMANEGED 10/100 + PoE + FIBER
-SWITCH PROFINET
-UNMANEGED 10/100 + PoE
-SWITCH ETHERNET MANEGED
-MANEGED 10/100
-MANEGED 10/100 WITH FIBER
-MANEGED 10/100 + SFP
-MANEGED 10/100 + GIGABIT
-MANEGED 1GB
-MANEGED 1GB POE + SFP
-MANEGED ETHERNET IP
-MANEGED PROFINET
-MANEGED IEC 61850-3
-MANEGED 1GB + SFP
-MODULI SFP
-MODULI SFP 100MB
-MODULI SFP 1GB
-MEDIA CONVERTER
-MEDIA CONVERTER 10/100
-MEDIA CONVERTER 10/100 PoE
-MEDIA CONVERTER 1GB
-SERIAL SERVER
-WIFI SERIAL SERVER
-SECURE SERIAL SERVER
-SERIAL SERVER ACCESSORIES
-SERIAL CONVERTER
-CAN BUS -> FIBER
-PROFIBUS -> FIBER
-CONVERTER RS232/422/485
-RS232 ->RS422/485
-REPEATER
-USB --> RS232/422/485
-HUB USB
-RS232/484/422 -> FIBER
-CONVERTITORI DI SEGNALE
-CONFIGURABILI DA PC
-CONFIGURABILI DA DIP SWITCH
-CONFIGURABILI DA DIP E DA PC
-MODULI DI CALCOLO
-MULTISERIALI
-2 SERIALI RS232
-2 SERIALI RS422/485
-2 SERIALI RS232/422/485
-4 SERIALI RS232
-4 SERIALI RS422/485
-4 SERIALI RS232/422/485
-8 SERIALI RS232
-8 SERIALI RS422/485
-8 SERIALI R232/422/485
-16 SERIALI RS232/422/485
-CAVI PER MULTISERIALI
-WIRELESS
-CLIENT
-ACCESS POINT
-ANTENNAS WIFI
-ANTENNAS WIFI CABLE
-ANTENNAS CELLULAR CABLE
-ANTENNAS CELLULAR
-ROUTER DA BARRA DIN
-SECURE ROUTER
-ROUTER INDUSTRIALI
-GATEWAY
-GATEWAY MODBUS
-GATEWAY FIELDBUS
-GATEWAY MPI - ETH
-GATEWAY FIELDBUS LOW COST
-TELEASSISTENZA / VPN
-MOBI AVIOR
-ROUTER PER TELEASSISTENZA VPN
-TASTIERE INDUSTRIALI
-TASTIERE DA PANNELLO
-BATTERIE
-BATTERIE LITIO PER AZIONAMENTI
-FRONTALINI INTERFACCIA
-INSERTI
-TELAI
-CONNETTORI CABLATI
-CONNETTORI PER SENSORI
-CONNETTORI PER ELETTROVALVOLA
-CONNETTORI A CABLARE
-PERFORAZIONE D'ISOLANTE
-A VITE
-CONNETTORI BUS
-PROTEZIONI ELETTRONICHE
-SERIE MICO
-GESTIONE ENERGIA
-ENERGY METER
-SENSORI
-SENSORE DI PRESSIONE
-SURGE PROTECTOR
-DATA LINE
-INJECTOR PoE
-INJECTOR PoE 10/100
-PLC
-MOTION
-INVERTER PER MOTORI
-PANNELLI OPERATORE
-PLC DI SICUREZZA
-FILTRI EMC E PROTEZIONE MOTORE
-ALIMENTATORI DA BARRA DIN
-SWITCH ETHERNET UNMANEGED
-SERIAL SERVER
-CONVERTITORI DI SEGNALE
-GATEWAY
-MOBI AVIOR
-ROUTER PER TELEASSISTENZA VPN
-TASTIERE INDUSTRIALI
-BATTERIE
-CONNETTORI CABLATI
-Prodotti in offerta
-Offerta
-DRF-24V960W3GBA
-DELTA ELECTRONICS
-Power supply FORCE GT Series 24Vcc 40 Amp 3 x 320-575Vac (3-Phase) or 2 x 340-575Vac (2-Phase) Temperature...
-Prezzo
-€ 391,00
-€ 180,00
-Oltre 5 pezzi:
-€ 377,20
-€ 170,00
-Offerta
-EDS-2008-ELP
-MOXA
-Switch industriale non gestito 5 porte rame 10/100base(x) 12-45vdc -10 +60 C° con contenitore in plastica
-Prezzo
-€ 130,40
-€ 108,00
-Oltre 5 pezzi:
-€ 125,60
-€ 105,00
-Offerta
-NPORT 5110
-MOXA
-Server seriali - convertitori ethernet seriale - 10/100 rj45 , 1 porta rs-232 db9, 12-48vdc - 0 +55°c
-Prezzo
-€ 168,50
-€ 119,00
-Oltre 5 pezzi:
-€ 162,20
-Offerta
-VFD037EL43A
-DELTA ELECTRONICS
-Inverter trifase 3x400Vac serie VFD-EL (0-599Hz), IP20 da 3,7Kw H.D. con filtro EMC - completo di tastiera ...
-Prezzo
-€ 312,20
-€ 190,00
-Oltre 5 pezzi:
-€ 301,20
-€ 175,00
-Offerta
-81.000.6180.0
-WIELAND
-P3 24-20 A ALIMENTATORE TRIFASE 340/575 VAC 20A TEMP. DI LAVORO DA -30°C a+71°C CON DER. A 60°C
-Prezzo
-€ 610,50
-€ 90,00
-Oltre 5 pezzi:
-€ 592,20
-€ 80,00
-Offerta
-NPort W2150A-EU
-dism
-1-port wireless device server, 3-in-1, 802.11a/b/g/n WLAN EU band, 12 to 48 VDC, 0 to 55°C operating temper...
-Prezzo
-€ 367,70
-€ 280,00
-Oltre 5 pezzi:
-€ 354,10
-€ 280,00
-I nostri marchi
-Hai bisogno di aiuto?
-+39 045 860 0998
-Spedizione gratuita
-per ordini superiori a 200€
-Pagamenti sicuri
-online e alla consegna
-Le vostre opinioni
-sono il nostro punto di forza
-Rimani sempre aggiornato, iscriviti alla nostra newsletter
-Iscriviti
-Dichiaro di avere letto e di accettare le condizioni sul trattamento dei dati personali
-Informazioni
-Protekna s.r.l. ©
-Via A.Volta 4/E - 37062
-Dossobuono (VR) - ITALY
-Phone: +39 045 860 0998
-Fax: +39 045 86 18 777
-Email: protekna@protekna.it
-Privacy Policy
-Cookie Policy
-Gestisci cookie
-Azienda
-Chi siamo
-Contatti
-Richiedi un prodotto
-Pagamento rapido
-Assistenza
-+39 045 860 0998
-Termini e condizioni
-Premesse
-Contratto compravendita
-Modalità di pagamento
-Spedizioni
-Garanzie
-Riparazioni e resi
-Diritto di recesso
-Protekna s.r.l. © | P.iva: 03451940237 | REA: VR - 337644 | Cap. sociale: 10.000,00
-Metodi di pagamento
-Bonifico bancario
-Informazioni sui cookie presenti in questo sito
-Questo sito utilizza cookie tecnici e statistici anonimi, necessari al suo funzionamento. Utilizza anche cookie analitici e cookie di marketing, che sono disabilitati di default e vengono attivati solo previo consenso da parte tua.
-Nega tutti Gestisci preferenze Consenti tutti i cookie
-Cookie tecnici
-Non possono essere disattivati in quanto si tratta di cookie necessari al funzionamento del sito.
-Sito web
-Cookie tecnici che non profilano in alcun modo l'utente con finalità pubblicitarie e non vengono condivisi con terze parti.
-Cookie analitici
-Cookie per la raccolta di dati anonimizzati (tramite l'oscuramento di una porzione dell'indirizzo IP) per l'analisi aggregata delle visite al sito.
-Google Analytics
-Vengono condivisi con Google per permettere il funzionamento, ma nè il sito web nè Google li utilizzano a fini di marketing o profilazione.
-Cookie di marketing
-Sono cookie che ci permettono di garantire un'esperienza utente migliore e maggiormente personalizzata, anche tramite l'attivazione di campagne di remarketing. Sono facoltativi e disabilitati di default.
-Google Ads
-Cookie per l'analisi delle performance delle campagne Google Ads e per l'attivazione della raccolta dati sul singolo utente al fine di attivare pubblicità mirate e di remarketing.
-Salva preferenze
-Per saperne di più x
+# SB-407 winnerintertech.com · home · https://www.winnerintertech.com/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+Winner Intertech
+Tel. 081-1100-659 | Email : office@winnerintertech.com
+HOME
+Products
+Adder KVM
+Adder Matrix
+Adder Extenders
+Adder Desktop Switches
+Adder Remote Accress Switches
+KVM Trays and Accressories
+ATCom IP PHONE
+Beijer Electronics
+Korenix unmanaged Switches
+Korenix Managed Switches
+Korenix PoE Switches
+HMI panels
+Moxa Network
+Unmanaged Switches
+Managed switches
+Media Converters
+Protocol Gateways
+Serial to LAN Converters
+Controllers and All products
+EN 50155 Switches
+Neosys Computer Industry
+GPU Computing
+Industrial Computers, Rugged Embedded PC
+Ultra compact
+Use case
+N-net industrial switches
+Products
+Prittec Computer Industry
+Protempis GPS Time Server
+Robustel Router
+IoT edge computing gateway
+POYNTING Antenna
+POYNTING Product
+MARINE & COASTAL
+MINING & TUNNELLING
+URBAN & RURAL
+Accessories
+Solutions
+Smart Factory
+Smart City
+Oil&Gas
+Power&Utility
+Contact Us
+News
+Blog
+Special price items
+เพิ่มเติม
+Tel. 081-1100-659 | Email : office@winnerintertech.com
+HOME
+Products
+Adder KVM
+Adder Matrix
+Adder Extenders
+Adder Desktop Switches
+Adder Remote Accress Switches
+KVM Trays and Accressories
+ATCom IP PHONE
+Beijer Electronics
+Korenix unmanaged Switches
+Korenix Managed Switches
+Korenix PoE Switches
+HMI panels
+Moxa Network
+Unmanaged Switches
+Managed switches
+Media Converters
+Protocol Gateways
+Serial to LAN Converters
+Controllers and All products
+EN 50155 Switches
+Neosys Computer Industry
+GPU Computing
+Industrial Computers, Rugged Embedded PC
+Ultra compact
+Use case
+N-net industrial switches
+Products
+Prittec Computer Industry
+Protempis GPS Time Server
+Robustel Router
+IoT edge computing gateway
+POYNTING Antenna
+POYNTING Product
+MARINE & COASTAL
+MINING & TUNNELLING
+URBAN & RURAL
+Accessories
+Solutions
+Smart Factory
+Smart City
+Oil&Gas
+Power&Utility
+Contact Us
+News
+Blog
+Special price items
+เพิ่มเติม
+Welcome to Winner Intertech
+บริษัท วินเนอร์ อินเตอร์เทค จำกัด ผู้นำเข้าและจัดจำหน่ายสินค้า Industrial IoT โดยตรงจากโรงงานผู้ผลิต เรามีสินค้าหลากหลายชนิดสำหรับงานอุตสาหกรรม เรามุ่งมั่นให้บริการและส่งมอบสิ่งที่ดีที่สุดให้กับลูกค้า ในโรงงานอุตสาหกรรมต่าง ๆ อาทิเช่น อุตสาหกรรมไฟฟ้า อุตสาหกรรมทางทะเล อุตสาหกรรมน้ำมันและก๊าซ อุตสาหกรรมรถราง อุตสาหกรรมสำหรับเมืองอัจฉริยะ เป็นต้น
+อุปกรณ์ระบบเครือข่ายสำหรับงานอุตสาหกรรม (Industrial Network and Media converter)
+อุปกรณ์คอมพิวเตอร์และจอแสดงผล สำหรับงานอุตสาหกรรม (Industrial Computer and Monitor)
+อุปกรณ์สลับสัญญาณภาพ จอ เมาส์ และคีย์บอร์ด (KVM Switch)
+อุปกรณ์รับสัญญาณนาฬิกา NTP/PTP จากดาวเทียม (GPS Time Server)
+เครื่องโทรศัพท์แบบไอพีดิจิตอล (IP Phone)
+อุปกรณ์เราเตอร์อุตสาหกรรม 4G สองซิม (4G Router)
+อุปกรณ์วัดความเร็วและระดับน้ำ (SonTex)
+เราได้มุ่งมั่นที่จะสร้างความพึงพอใจให้แก่ลูกค้าในการเสนอสินค้าและบริการที่มีคุณภาพตลอดระยะเวลาการรับประกันสินค้า ทีมวิศวกรของเราจะคอยให้คำปรึกษา แนะนำสินค้า และ Solution ที่หลากหลาย ให้ตรงกับความต้องการของลูกค้าเพื่อความพึงพอใจสูงสุดของลูกค้า
+OUR SOLUTION FOR YOUR FIELDS
+The Solution for all power Connectivity
+Smart Substation
+Smart Solar Energy
+Smart Wind farm
+Smart Power plant
+Power & Utility
+IEC 61850 Standard / Renewable Energy / Solar
+- Refinery Plant
+- Off Shore Plant
+- Gas Stations
+Oil & Gas
+Ex / ATEX / Hazardous Zone
+Smart Expressway Connectivity
+Industrial Cellular Router
+NTP / PTP Time Synchronization
+KVM Switch for Smart controller
+Railway Solution
+Smart City & Rail
+Expressway / Troll / Rail way / Out door
+Fa cto ry Automation
+Production Line
+IIoT
+Factory Automation
+Modbus / SCADA / RTU / PROFINET / PROFIBUS
+World class quility product for your business.
+ADDER KVM SWITCHS SOLUTION
+PROTEMPIS TIME SERVER
+MOXA NETWORK SOLUTION
+ATcom IP PHONE
+3G/4G INDUSTRIAL ROUTERS
+POYNTING Antenna Solution
+PRITTEC ICT INDUSTRY
+NEOUSYS INDUSTRIAL COMPUTER
+N-NET INDUSTRIAL TECHNOLOGY
+ข่าวประชาสัมพันธ์
+Adder KVM and Winner Intertech Join defense & security 2025
+27 พ.ย. 2568
+Adder KVM ร่วมกับ บริษัท วินเนอร์อินเตอร์เทค จำกัด เข้าร่วม "defense & security 2025" ศูนย์แสดงสินค้าและการประชุมอิมแพ็คเมืองทองธานี
+ดูเพิ่มเติม
+JOIN MENUFACTURING EXPO 2025
+26 มิ.ย. 2568
+บริษัท วินเนอร์ อินเตอร์เทค จำกัด ผู้นำเข้าและจัดจำหน่ายสินค้า Industrial IoT เข้าร่วมงาน "MANUFACTURING EXPO 2025" ที่ศูนย์นิทรรศการและการประชุมไบเทค
+ดูเพิ่มเติม
+Winner Intertech Join Manufacturing Expo 2025
+19 มิ.ย. 2568
+ดูเพิ่มเติม
+Moxa x EGAT Floating Solar POC
+21 มี.ค. 2568
+Moxa ทดสอบ AWK-4252A Series ที่โซลาร์เซลล์ลอยน้ำไฮบริด การไฟฟ้าฝ่ายผลิตแห่งประเทศไทย (EGAT) เขื่อนสิรินธร จังหวัดอุบลราชธานี
+ดูเพิ่มเติม
+CONTACT US
+Winner Intertech company.
+La Uniq tower , 2nd Floor, Soi Thetsaban Rangsan Nuea, Khwaeng Lat Yao, Khet Chatuchak, Bangkok 10900, Thailand
+บริษัท วินเนอร์ อินเตอร์เทค จำกัด
+อาคาร ลา ยูนิค ประชาชื่น ชั้น 2 ถนนเทศบาลรังสรรเหนือ แขวงลาดยาว เขตจตุจักร กรุงเทพมหานคร 10900.
+สอบถามข้อมูลสินค้า ราคาสินค้า ติดต่อฝ่ายขาย : จำหน่ายทั้ง ปลีก-ส่ง
+Tel. 061-4846-771 Email : sales01@winnerintertech.com
+Tel. 081-1013-720 Email : sales-m1@winnerintertech.com
+Tel. 081-3358-042 Email : narathon@winnerintertech.com
+ติดต่อ สอบถามข้อมูลสำนักงาน
+Tel. 081-1100-659 Email : office@winnerintertech.com
+Line Official Account ID : @winner01
+@winner01
+Enhance your solution by Winner Intertech
+ผู้เข้าชมทั้งหมด
+407,913
+ผู้เข้าชมวันนี้
+116
+ผู้เข้าชมขณะนี้
+19
+Powered by
+MakeWebEasy.com
+เว็บไซต์นี้มีการใช้งานคุกกี้ เพื่อเพิ่มประสิทธิภาพและประสบการณ์ที่ดีในการใช้งานเว็บไซต์ของท่าน ท่านสามารถอ่านรายละเอียดเพิ่มเติมได้ที่ นโยบายความเป็นส่วนตัว
+และ นโยบายคุกกี้
+ตั้งค่าคุกกี้
+ยอมรับทั้งหมด

@@ -1,120 +1,172 @@
 {
- "code": "SB-683",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（arthaberlesme.com，快照 2026-10-21）",
- "summary": "土耳其 ART Haberleşme ve Güvenlik Sistemleri（Karel 授权经销与服务；通信与安防系统：IP 网关 IPG500/1000、MPLS VPN、e-Fax、二手设备；Dahua）；表内 1 次跟进无回复。",
- "type": "通信/安防集成商（土耳其，Karel 经销）",
- "size": "",
- "brands_seen": [
-  "Dahua",
-  "Karel"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：ART Haberleşme ve Güvenlik Sistemleri | Karel Yetkili Satıcı ve Servisi；品类词 网络交换 / PoE",
-   "quote": "Ürünler；Blog；Duyurular；Teknolojiyi Takip Edin；Bağlantılar；Hakkımızda",
-   "url": "https://www.arthaberlesme.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "ART 定位",
-   "quote": "ART Haberleşme ve Güvenlik Sistemleri | Karel Yetkili Satıcı ve Servisi ; /urun/mpls-vpn/",
-   "url": "https://www.arthaberlesme.com/",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "土耳其",
-  "other": "官网 arthaberlesme.com，语言 ?，快照状态 ok；角色判定来源：官网文案"
- },
- "business_lines": [
-  "通信 / 安防系统集成（土耳其）"
- ],
- "channels": {
-  "role": "通信/安防集成商（土耳其，Karel 经销）",
-  "region": "土耳其",
-  "contact": "info@arthaberlesme.com"
- },
- "signals": [
-  "官网：ART Haberleşme ve Güvenlik Sistemleri | Karel Yetkili Satıcı ve Servisi；页面 /urun/mpls-vpn/、/urun/e-fax/；站内 IPG1000 / IPG500；kw ethernet 21",
-  "表内：无兴趣备注"
- ],
- "risks": [
-  "Karel 生态（配套交换机可能随品牌方案）；土耳其汇率敏感；仅 info@，1 次无回复"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 25,
-  "why": "IP 话机/CCTV 配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424DGGPM-280W（$140.1）"
- },
- "email_hook": "For the PoE switches behind your Karel IP telephony and Dahua camera installations, we supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ models (QoS/VLAN for voice) from single units, CE/RoHS, EXW USD — which port count do your projects use most?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A 邮箱 5 封 2025→2026，无记录打开，0 回；收件 info@arthaberlesme.com；主题多为「10G Enterprise SFP Switch、Booster PoE Switch」；Elsa 箱：`to:arthaberlesme.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 5 / 来 0）（第 74 批(i)））",
-   "type": "通信/安防集成商（土耳其，Karel 经销）",
-   "sieve": "1（只收到群发）",
-   "stop": "只打通用邮箱，无记录打开",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "TR 主攻（四主）",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 5；研究档 risks：Karel 生态（配套交换机可能随品牌方案）；土耳其汇率敏感；仅 info@，1 次无回复"
-  },
-  "situation": "土耳其 ART Haberleşme ve Güvenlik Sistemleri（Karel 授权经销与服务；通信与安防系统：IP 网关 IPG500/1000、MPLS VPN、e-Fax、二手设备；Dahua）；表内 1 次跟进无回复。",
-  "need": "IP 话机/CCTV 配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424DGGPM-280W（$140.1）",
-  "breakpoint": "Karel 生态（配套交换机可能随品牌方案）；土耳其汇率敏感；仅 info@，1 次无回复",
-  "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 25,
-   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-30 $280（10G Enterprise SFP Switch）",
-   "why": "IP 话机/CCTV 配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424DGGPM-280W（$140.1）",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
-   "one_question": "For the PoE switches behind your Karel IP telephony and Dahua camera installations, we supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ models (QoS/VLAN for voice) from single units, CE/RoHS, EXW USD — which port count do your projects use most?"
-  },
-  "facts": [
-   {
-    "date": "2025-10-30",
-    "dir": "去",
-    "who": "A 箱（Alan）",
-    "quote": "10G Enterprise SFP Switch",
-    "why": "首封去信（邮箱索引；去信共 5 封）",
-    "k": "c91b02b7dbd6c401"
-   },
-   {
-    "date": "2026-03-11",
-    "dir": "去",
-    "who": "A 群发",
-    "quote": "10G Enterprise SFP Switch、Booster PoE Switch",
-    "why": "5 封 / 0 次打开 / 0 回｜首封 2025-10-30 → 末封 2026-03-11（5 去 / 0 来）",
-    "k": "gmail_digest"
-   },
-   {
-    "date": "2026-03-11",
-    "dir": "去",
-    "who": "A 箱（Alan）",
-    "quote": "Updated Ethernet Switches Links",
-    "why": "最近一封去信（邮箱索引；去信共 5 封）",
-    "k": "95a32fcad90818d1"
-   }
+  "code": "SB-683",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（spectra.de，快照 2026-10-21）",
+  "summary": "德国 Spectra GmbH（工业 PC 与自动化：面板 PC / Box PC / 19\" 机架系统 / 工业板卡自产；在售 ORing 工业交换机 RGPS-R9244GP / IGPS-9084GP-LA / IGS-P9812GP-LV / IGS-9168GP、ICP DAS；表内「ICP DAS 的工业 FS；bypass ORing 的；工业 5/8 电口基本都是 ORing 的」；KP Juergen Rauscher（Managing Director，juergen.rauscher@））；群发 3 次无回复。",
+  "type": "工业 PC 制造商 + 自动化分销（德国，ORing 工业线）",
+  "size": "",
+  "brands_seen": [
+    "Schneider",
+    "ORing",
+    "ICP DAS"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：Spectra - Der Partner für Industrie-PC und Automation；品类词 工业自动化 / OT 网络 / 光纤 / 媒体转换 / 网络交换 / PoE",
+      "quote": "Spectra hat langjährige Erfahrungen in der Herstellung von Industrie-PC und der industriellen Automatisierung: ✓ Kompetent ✓ Zuverlässig ✓ Innovativ",
+      "url": "https://spectra.de/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "icpdas的工业FS；bypass Oring的；工业5 8电口 基本都是Oring的",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "工业 PC 与自动化制造商",
+      "quote": "Spectra hat langjährige Erfahrungen in der Herstellung von Industrie-PC und der industriellen Automatisierung",
+      "url": "https://spectra.de/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "ICP DAS / ORing 工业 FS，5/8 电口",
+      "quote": "icpdas的工业FS / bypass Oring的 / 工业5 8电口；基本都是Oring的",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [
+    {
+      "name": "Juergen Rauscher",
+      "title": "Managing Director",
+      "email": "juergen.rauscher@spectra.de",
+      "phone": "",
+      "source": "用户表"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "德国",
+    "other": "官网 spectra.de，语言 de-DE，快照状态 ok；角色判定来源：官网文案"
+  },
+  "business_lines": [
+    "工业 PC（面板 / Box / 机架）制造",
+    "工业自动化组件分销（ORing / ICP DAS / Schneider）"
+  ],
+  "channels": {
+    "role": "工业 PC 制造商 + 自动化分销（德国，ORing 工业线）",
+    "region": "德国",
+    "contact": "info@spectra.de、juergen.rauscher@spectra.de"
+  },
+  "signals": [
+    "官网：Spectra hat langjährige Erfahrungen in der Herstellung von Industrie-PC und der industriellen Automatisierung",
+    "站内型号 RGPS-R9244GP / IGPS-9084GP-LA / IGS-P9812GP-LV / IGS-9168GP（ORing）",
+    "KP：Juergen Rauscher / Managing Director（表内）"
+  ],
+  "risks": [
+    "现有 ORing / ICP DAS（台湾）供货稳定：需以价格/交期切入",
+    "德国工业客户：文档/验证要求高；3 次无回复"
+  ],
+  "saga_fit": {
+    "p1": "STI-080GE",
+    "tier": 20,
+    "why": "需求为工业 5/8 电口（现 ORing）→ 工业 8 GE 非管理 STI-080GE（$31.4 @20%）、5 GE STI-050GE（$17.0）、PoE STI-288GP；bypass 位 SmartByte LT-IS6312GP-4GX8GT-FBP（注明）"
+  },
+  "email_hook": "Juergen, alongside the ORing 5- and 8-port industrial switches you ship with your IPC systems, we supply DIN-rail 5/8-GE units (−40~75 °C, 12–58 VDC, CE/RoHS) in neutral packing from small lots at a lower price tier — would a sample for comparison be useful?",
+  "products_seen": [
+    {
+      "brand": "ORing",
+      "model": "IGS-9168GP",
+      "spec": "工业 16 GE + 8 SFP 管理（推断）",
+      "saga": "（Saga 无对应商用；工业 16 口位 STI-21616GP）",
+      "url": "https://spectra.de/",
+      "date": "2026-10-21"
+    },
+    {
+      "brand": "ORing",
+      "model": "IGPS-9084GP-LA",
+      "spec": "工业 8 PoE + 4 SFP 管理",
+      "saga": "STI-488DGGPM",
+      "url": "https://spectra.de/",
+      "date": "2026-10-21"
+    }
+  ],
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A/S 邮箱 18 封 2024→2026，无记录打开，0 回；收件 info@spectra.de, juergen.rauscher@spectra.de；主题多为「10G Enterprise SFP Switch、16 Port Ethernet Switch」）；Elsa 群发 BCC 已触达 2026-08-31「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，DE 批次 To office@all4fiber.com，0 回（第 73 批(o) Bcc 头核对 msg 1a056d5159d35ca3）",
+      "type": "工业 PC 制造商 + 自动化分销（德国，ORing 工业线）",
+      "sieve": "1（只收到群发）",
+      "stop": "18 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+      "revive": "保持季度群发到 2027-Q1；无打开即停",
+      "lane": "DE 主攻（四主）",
+      "cadence": "季度",
+      "evidence": "gmail_digest：out 18；用户表：「icpdas的工业FS；bypass Oring的；工业5 8电口 基本都是Oring的」；研究档 risks：现有 ORing / ICP DAS（台湾）供货稳定：需以价格/交期切入；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To office@all4fiber.com）2025-03-28→2026-08-31 共 9 轮群发（16 Port Ethernet Switch、8 Port Industrial PoE Switch、48 Port PoE Managed Switch、Managed Optical Bypass Switch、Mini Industrial PoE Switch、Industrial PoE Switch、10G Enterprise SFP Switch、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断"
+    },
+    "situation": "德国 Spectra GmbH（工业 PC 与自动化：面板 PC / Box PC / 19\" 机架系统 / 工业板卡自产；在售 ORing 工业交换机 RGPS-R9244GP / IGPS-9084GP-LA / IGS-P9812GP-LV / IGS-9168GP、ICP DAS；表内「ICP DAS 的工业 FS；bypass ORing 的；工业 5/8 电口基本都是 ORing 的」；KP Juergen Rauscher（Managing Director，juergen.rauscher@））；群发 3 次无回复。",
+    "need": "需求为工业 5/8 电口（现 ORing）→ 工业 8 GE 非管理 STI-080GE（$31.4 @20%）、5 GE STI-050GE（$17.0）、PoE STI-288GP；bypass 位 SmartByte LT-IS6312GP-4GX8GT-FBP（注明）",
+    "breakpoint": "现有 ORing / ICP DAS（台湾）供货稳定：需以价格/交期切入",
+    "saga_now": {
+      "p1": "STI-080GE",
+      "tier": 20,
+      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-22 $280（10G Enterprise SFP Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-31；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
+      "why": "需求为工业 5/8 电口（现 ORing）→ 工业 8 GE 非管理 STI-080GE（$31.4 @20%）、5 GE STI-050GE（$17.0）、PoE STI-288GP；bypass 位 SmartByte LT-IS6312GP-4GX8GT-FBP（注明）",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "群发节奏",
+      "channel": "A 邮箱",
+      "action": "观察打开",
+      "one_question": "Juergen, alongside the ORing 5- and 8-port industrial switches you ship with your IPC systems, we supply DIN-rail 5/8-GE units (−40~75 °C, 12–58 VDC, CE/RoHS) in neutral packing from small lots at a lower price tier — would a sample for comparison be useful?"
+    },
+    "facts": [
+      {
+        "date": "2025-03-28",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To office@all4fiber.com，DE 批次）",
+        "quote": "16 Port Ethernet Switch — There is a 16-port Din Gigabit Ethernet switch for you. It is good for vehicle network and industrial automation. Model choice 1. 5 Port/8 Port/24 Por",
+        "why": "Elsa 箱群发 BCC 触达证据（命中地址 info@spectra.de, spectra.de）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+        "k": "elsa_bcc"
+      },
+      {
+        "date": "2026-08-31",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To office@all4fiber.com，DE 批次）",
+        "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
+        "why": "Elsa 箱群发 BCC 触达证据（命中地址 info@spectra.de, spectra.de）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+        "k": "elsa_bcc"
+      },
+      {
+        "date": "2026-09-23",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "10G Enterprise SFP Switch、16 Port Ethernet Switch",
+        "why": "18 封 / 0 次打开 / 0 回｜首封 2024-07-01 → 末封 2026-09-23（18 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "icpdas的工业FS；bypass Oring的；工业5 8电口 基本都是Oring的",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-25"
+  }
 }

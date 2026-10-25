@@ -1,139 +1,105 @@
 {
  "code": "SB-135",
- "name_official": "EL.SI. S.r.l.（Elsi，Crotone, IT；elsikr.it；P.IVA 01536710799）",
+ "name_official": "Labor Mühendislik（labormuhendislik.com.tr，TR；官网未检索到）",
  "researched_at": "2026-10-21",
- "website_status": "在线",
- "summary": "意大利卡拉布里亚 Crotone 的安防/自动化区域分销商（1985 年起、30+ 年；约 22 人；覆盖 Calabria、Basilicata、Puglia、Sicilia；三条线：Comfort（自动化门、锁、特种设备）、Sicurezza（防盗、视频监控、消防）、能源管理（智能家居）；2021 年起 ZKTeco 分销伙伴）。展会记录：主要用 Uniview 摄像头，问商业 PoE 价目表，介绍了 2 光 10 电，「没太多意愿」；联系人 d.bianco / m.sciumbata；14 次跟进 0 回复。",
+ "website_status": "未检索到（搜索引擎无该域结果）",
+ "summary": "ISAF 记录：Ramazan Daş（info@labormuhendislik.com.tr）——不会英文，要工业级 PoE 交换机，拿了彩页，让发价格表；无后续跟进。域名 labormuhendislik.com.tr 在搜索引擎无结果（同名 labor.com.tr 为实验室耗材公司，非本客户）→ 仅表内信息；需求明确（工业 PoE + 价格表）→ 直接用土耳其语发报价。",
  "type": "",
  "size": "",
- "brands_seen": [
-  "Uniview",
-  "ZKTeco"
- ],
+ "brands_seen": [],
  "evidence": [
   {
-   "kind": "Facebook",
-   "claim": "业务与联系方式",
-   "quote": "Elsi srl, Crotone. Da oltre trent'anni distributori di Impianti di Allarme, Videosorveglianza, Automazione, Videocitofonia e Domotica … Via Enzo Ferrari Loc. Zigari, Crotone, Italy +39 0962 930786 customercare@elsikr.it",
-   "url": "https://www.facebook.com/elsisrl.crotone/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "法人与联系",
-   "quote": "EL.SI. S.r.l. Indirizzo: Via E. Ferrari c/o Zona Industriale 88900 Crotone (KR) - ITALY Tel: +39 0962.930786 … E-mail: info@elsikr.it … P.Iva: 01536710799",
-   "url": "http://www.elsikr.it/contatti.html",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "厂商新闻",
-   "claim": "覆盖区域与 ZKTeco 合作",
-   "quote": "EL.SI SRL è una società di sicurezza leader in Italia, con sede in Calabria, Basilicata e Puglia, specializzata nella distribuzione di prodotti e servizi … ZKTeco Europe annuncia la Partnership di Distribuzione con EL.SI SRL",
-   "url": "https://zkteco.eu/it/news-ed-eventi/notizie/zkteco-europe-annuncia-la-partnership-di-distribuzione-con-elsi-srl",
-   "date": "2021-04-23"
-  },
-  {
-   "kind": "名录",
-   "claim": "人数与成立年",
-   "quote": "Elsi Srl - Sicurezza … Employees 22 … Founded 1985",
-   "url": "https://rocketreach.co/elsi-srl-sicurezza-comfort-profile_b7f3fe2bc25dbb3d",
-   "date": "2026-10-21"
-  },
-  {
    "kind": "用户表",
-   "claim": "用 Uniview；问商业 PoE 价目表；14 次跟进 0 回复",
-   "quote": "主要用国内univew这家的摄像头，处理CCTV security, 问了商业PoE的price list,给他介绍了2光10电，没太多意愿",
+   "claim": "ISAF：不会英文；工业 PoE；要价格表",
+   "quote": "不会英文，要工业级POE交换机， 拿了彩页，让发价格表 / Ramazan DAS / info@labormuhendislik.com.tr",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Ramazan Daş",
+   "role": "（ISAF 名片；职务待核）",
+   "email": "info@labormuhendislik.com.tr（用户表）",
+   "phone": "—",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网核对）"
+  "level": "官网未检索到 · 仅表内信息"
  },
  "company_facts": {
-  "legal_name": "EL.SI. S.r.l.（P.IVA 01536710799）",
-  "founded": "1985",
-  "hq": "Via Enzo Ferrari, Zona Industriale, 88900 Crotone (KR), Italy（+39 0962 930786；info@elsikr.it / customercare@elsikr.it）",
-  "size": "22 人（RocketReach）",
-  "other": "南意四区分销；ZKTeco 分销伙伴（2021）；Uniview 摄像头（用户记录）"
+  "legal_name": "Labor Mühendislik（待核）",
+  "hq": "Türkiye（城市待核）",
+  "size": "待核（工程公司）",
+  "other": "仅 info@ 邮箱；不会英文"
  },
  "business_lines": [
-  "安防（防盗、视频监控、消防）区域分销",
-  "自动化（门、闸、锁）与智能家居"
+  "工程承包（Mühendislik；细分待核）"
  ],
  "channels": {
-  "网站": "https://www.elsikr.it/",
-  "电话": "+39 0962 930786（公开）",
-  "邮箱（公开）": "info@elsikr.it",
-  "Facebook": "https://www.facebook.com/elsisrl.crotone/"
+  "邮箱": "info@labormuhendislik.com.tr（用户表）"
  },
  "signals": [
-  "区域安防分销商 + Uniview 摄像 → 白牌 PoE 作配套 SKU（20%）；曾索要商业 PoE 价目表"
+  "主动要价格表 → 发土耳其语工业 PoE 价目（4/8/16 口）"
  ],
  "risks": [
-  "意向弱（「没太多意愿」）；14 次跟进 0 回复"
+  "无公开资料；语言；无后续跟进"
  ],
  "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 20,
-  "why": "分销 20% 档：STC-28DGGPM（$80.7）配 Uniview；低价位 Realtek 线 STC-028GP（$24.2）/ STC-2024GP（24 PoE，$93.5）"
+  "p1": "STI-288GP",
+  "tier": 25,
+  "why": "工程 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，$59.8）为价格表首项；管理型 STI-288DGGPM（$137.5）；4 口 STI-144GP（$35.5）"
  },
- "email_hook": "Per gli impianti Uniview che distribuite in Calabria: switch PoE+ 8 porte gigabit gestito con 2 SFP a $80.7 EXW, versione non gestita $25.1 — vi invio il listino commerciale PoE in italiano che avevate chiesto in fiera?",
+ "email_hook": "Ramazan Bey, ISAF'ta istediğiniz endüstriyel PoE switch fiyat listesi ektedir: DIN ray 8 PoE + 2 SFP 59,8 USD, 4 PoE + 1 SFP 35,5 USD, yönetilebilir 8 PoE 137,5 USD (EXW) — projeniz için hangi port sayısı öncelikli?",
  "mail_review": {
   "binding": {
-   "level": "未触达（A/S 邮箱 23 封 2024→2026，1 次记录打开，0 回；收件 d.bianco@elsikr.it, m.sciumbata@elsikr.it；主题多为「Marvell Industrial Alert System、Industrial PoE Switch」；Elsa 箱：`to:elsikr.it` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 23 / 来 0）（第 74 批(j)））",
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「不会英文，要工业级POE交换机， 拿了彩页，让发价格表 / Ramazan DAS / info@labormuhend」；Elsa 箱：`to:labormuhendislik.com.tr` 逐户查 0（2026-10-24 第 73 批(o)，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(g)））",
    "type": "—",
-   "sieve": "1~2（1 次打开）",
-   "stop": "23 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
-   "lane": "意大利（欧洲全域主攻）",
-   "cadence": "一封",
-   "evidence": "gmail_digest：out 23，Opened 标签 1（Simon 群发追踪）；用户表：「主要用国内univew这家的摄像头，处理CCTV security, 问了商业PoE的price list,给他介绍了2光10电，没太多意愿」；研究档 risks：意向弱（「没太多意愿」）；14 次跟进 0 回复"
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+   "lane": "TR 主攻（四主）",
+   "cadence": "首封后看打开",
+   "evidence": "gmail_digest：out 0；用户表：「不会英文，要工业级POE交换机， 拿了彩页，让发价格表 / Ramazan DAS / info@labormuhendislik.com.tr」；研究档 risks：无公开资料；语言；无后续跟进"
   },
-  "situation": "意大利卡拉布里亚 Crotone 的安防/自动化区域分销商（1985 年起、30+ 年；约 22 人；覆盖 Calabria、Basilicata、Puglia、Sicilia；三条线：Comfort（自动化门、锁、特种设备）、Sicurezza（防盗、视频监控、消防）、能源管理（智能家居）；2021 年起 ZKTeco 分销伙伴）。展会记录：主要用 Uniview 摄像头，问商业 PoE 价目表，介绍了 2 光 10 电，「没太多意愿」；联系人 d.bianco / m.sciumbata；14 次跟进 0 回复。",
-  "need": "分销 20% 档：STC-28DGGPM（$80.7）配 Uniview；低价位 Realtek 线 STC-028GP（$24.2）/ STC-2024GP（24 PoE，$93.5）",
-  "breakpoint": "意向弱（「没太多意愿」）；14 次跟进 0 回复",
+  "situation": "ISAF 记录：Ramazan Daş（info@labormuhendislik.com.tr）——不会英文，要工业级 PoE 交换机，拿了彩页，让发价格表；无后续跟进。域名 labormuhendislik.com.tr 在搜索引擎无结果（同名 labor.com.tr 为实验室耗材公司，非本客户）→ 仅表内信息；需求明确（工业 PoE + 价格表）→ 直接用土耳其语发报价。",
+  "need": "工程 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，$59.8）为价格表首项；管理型 STI-288DGGPM（$137.5）；4 口 STI-144GP（$35.5）",
+  "breakpoint": "无公开资料；语言；无后续跟进",
   "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 20,
-   "price": "Realtek 线按 HRUI 2026-09-30 进价 +20% 现算（Q-47 默认，不用 Drive 旧表价）：STC-208GP $24.2→$25.1；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-12-06 $300（48 Port PoE Managed Switch）、2025-07-08 $240（24 Port Fiber Switch）、2025-10-16 $280（10G Enterprise SFP Switch）",
-   "why": "分销 20% 档：STC-28DGGPM（$80.7）配 Uniview；低价位 Realtek 线 STC-028GP（$24.2）/ STC-2024GP（24 PoE，$93.5）。已打开的主题（1/23 封有打开记录）：「48 Port PoE Managed Switch」(2024-12-06) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
+   "p1": "STI-288GP",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）（㉕ 封顶：STI-288DGGPM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25）",
+   "why": "工程 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，$59.8）为价格表首项；管理型 STI-288DGGPM（$137.5）；4 口 STI-144GP（$35.5）",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "2027-Q1（换人后）",
-   "channel": "A 邮箱 → 具名 KP",
-   "action": "换收件人再发一封（第 75 批(ab) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用；英文稿，不混意大利语）；展会索价表 → 直接给三行价；HRUI 型号不写 Marvell）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
-   "one_question": "Per gli impianti Uniview che distribuite in Calabria: switch PoE+ 8 porte gigabit gestito con 2 SFP a $80.7 EXW, versione non gestita $25.1 — vi invio il listino commerciale PoE in italiano che avevate chiesto in fiera?"
+   "when": "待 Simon 排期（首封）",
+   "channel": "A 邮箱 → info@labormuhendislik.com.tr（Ramazan Daş）",
+   "action": "首封：按 email_hook 一问（第 74 批(r) 2026-10-25：对方不会英文 → 土耳其语整段发；价目直接写在正文，不说「附件」；价与研究档一致，15 天有效）",
+   "one_question": "Ramazan Bey, ISAF'ta istediğiniz endüstriyel PoE switch fiyat listesi ektedir: DIN ray 8 PoE + 2 SFP 59,8 USD, 4 PoE + 1 SFP 35,5 USD, yönetilebilir 8 PoE 137,5 USD (EXW) — projeniz için hangi port sayısı öncelikli?"
   },
   "facts": [
-   {
-    "date": "2026-09-16",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "Marvell Industrial Alert System、Industrial PoE Switch",
-    "why": "23 封 / 1 次打开 / 0 回｜首封 2024-07-09 → 末封 2026-09-16（23 去 / 0 来）",
-    "k": "gmail_digest"
-   },
    {
     "date": "2026-10-21",
     "dir": "用户表",
     "who": "Simon",
-    "quote": "主要用国内univew这家的摄像头，处理CCTV security, 问了商业PoE的price list,给他介绍了2光10电，没太多意愿",
+    "quote": "不会英文，要工业级POE交换机， 拿了彩页，让发价格表 / Ramazan DAS / info@labormuhendislik.com.tr",
     "why": "表内备注",
     "k": "用户表"
    }
   ],
-  "proof_gaps": [],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
   "draft_en": {
-   "subject": "The commercial PoE price list you asked for at the show - the three numbers that matter for Uniview sites",
-   "body": "Hello,\n\nAt the show you asked for our commercial PoE price list for the Uniview installations you distribute in Calabria and the south; what you had since were general product mails. Here is the short version, at distributor price, EXW, MOQ 1, 15-day validity, CE/RoHS: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based - model STC-28DGGPM - $80.7 USD; unmanaged 8 x PoE+ + 2 x Gigabit - STC-028GP - $25.1; 24 x PoE+ + 2 x Gigabit + 2 x SFP unmanaged - STC-2024GP - $93.5.\n\nOne question: for the Uniview sites, is it the 8-port unmanaged that moves, or do installers ask for VLAN and management?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+   "subject": "Türkçe 整段单发（对方不读英文；邮件/WhatsApp 复制即发，不混英文）",
+   "body": "Ramazan Bey, ISAF'ta istediğiniz endüstriyel PoE switch fiyat listesi: DIN ray 8 port PoE+ + 2 SFP 59,8 USD; 4 port PoE + 1 SFP 35,5 USD; yönetilebilir (L2+) 8 port PoE+ + 2 SFP 137,5 USD (EXW, MOQ 1, 15 gün geçerli). Projeniz için hangi port sayısı öncelikli?\n\nSaygılarımla,\nSimon\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
  }

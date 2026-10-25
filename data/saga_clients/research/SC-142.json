@@ -1,0 +1,73 @@
+{
+ "code": "SC-142",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（araknisnetworks.com，快照 2026-10-21）",
+ "summary": "Araknis Networks（Snap One 旗下集成商网络品牌：Wi-Fi / 路由 / 交换机，OvrC 远程管理；Snap One 2024 年并入 Resideo；表内国别「澳大利亚」（站点为品牌全球站）；表内「Switch 自己的 logo」「可以多跟进一下」）；群发 22 次无回复。",
+ "type": "集团品牌（Snap One / Resideo）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Professional Networking Built for Integrators | Araknis；品类词 网络交换 / PoE",
+   "quote": "Professional-grade Wi-Fi, routing, and switching designed for custom integrators. Reliable installs, remote management via OvrC, and a complete product ecosystem.",
+   "url": "https://araknisnetworks.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "Switch 自己的logo",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Araknis 定位",
+   "quote": "Professional Networking Built for Integrators | Araknis ; Professional-grade Wi-Fi, routing, and switching designed for custom integrators … remote management via OvrC",
+   "url": "https://araknisnetworks.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "Switch 自己的 logo",
+   "quote": "Switch 自己的logo；可以多跟进一下",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "集团品牌：Araknis（Snap One / Resideo 上市集团），既定 ODM + OvrC 云管理；c_sub=厂商/集团品牌（非渠道）",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "澳大利亚",
+  "other": "官网 araknisnetworks.com，语言 ?，快照状态 ok；角色判定来源：用户表"
+ },
+ "business_lines": [
+  "集成商网络产品品牌（AP / 交换机 / 路由）"
+ ],
+ "channels": {
+  "role": "集团品牌（Snap One / Resideo）",
+  "region": "澳大利亚",
+  "contact": "info@araknisnetworks.com"
+ },
+ "signals": [
+  "官网：Professional-grade Wi-Fi, routing, and switching designed for custom integrators. Reliable installs, remote management via OvrC；页面 /switches",
+  "表内：Switch 自己的 logo；可以多跟进一下"
+ ],
+ "risks": [
+  "集团品牌：Snap One（Resideo 上市集团）旗下 Araknis，既定 ODM 与 OvrC 云管理绑定，非 Saga 可承接；22 次无回复"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 30,
+  "why": "上市集团（Resideo）旗下品牌，交换机线有既定大型 ODM 与 OvrC 云管理 → 改 C"
+ },
+ "email_hook": "（不发送：集团品牌）"
+}

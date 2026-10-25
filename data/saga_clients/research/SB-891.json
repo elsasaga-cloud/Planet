@@ -1,90 +1,89 @@
 {
  "code": "SB-891",
- "name_official": "The Baldota Group / MSPL Limited（印度）",
+ "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "在线（baldota.co.in，快照 2026-10-21）",
- "summary": "印度 1961 年成立的大型铁矿开采集团（MSPL Limited，兼营风电、气体、海运），P.S. Vijaykumar（mspllimited.com）询盘；终端用户（矿业）项目型需求；WA 无实质回复。规模大但为终端用户，保留 B 低优先。",
- "type": "",
+ "website_status": "在线（techpoint-gmbh.de，快照 2026-10-21）",
+ "summary": "德国 Tech-Point GmbH（team-techpoint.de：零售业 IT 服务伙伴「Ihr Partner im Retail Service」，多地站点；表内「Networking」）；表内未跟进。",
+ "type": "零售 IT 服务商（德国）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Siemens"
+ ],
  "evidence": [
   {
    "kind": "官网快照",
-   "claim": "1961 年成立，印度领先铁矿开采集团，兼风电等",
-   "quote": "The Baldota Group was established in 1961 and is one of India's leading iron ore mining companies. And various other business areas that includes wind power.",
-   "url": "https://baldota.co.in/",
+   "claim": "官网标题：Tech-Point GmbH",
+   "quote": "Tech-Point；Effizienz trifft Innovation!；Wir stehen Ihnen als Partner zur Seite.；Effizient；Innovativ；Ihr Partner im Retail Service",
+   "url": "https://www.techpoint-gmbh.de/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "询盘统计表来源，无兴趣描述",
-   "quote": "（空）",
+   "claim": "表内兴趣/备注",
+   "quote": "Networking",
    "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Tech-Point 定位",
+   "quote": "Startseite - Tech-Point GmbH ; Effizienz trifft Innovation! ; Ihr Partner im Retail Service ; Standorte",
+   "url": "https://www.techpoint-gmbh.de/",
    "date": "2026-10-21"
   }
  ],
- "kp": [
-  {
-   "name": "P.S. Vijaykumar",
-   "title": "（MSPL，表内联系人）",
-   "email": "ps.vijay@mspllimited.com",
-   "phone": "+91 99160 60959",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
-  }
- ],
+ "kp": [],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照：终端用户）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "legal_name": "MSPL Limited（Baldota Group）",
-  "founded": "1961",
-  "hq": "Hospet, Karnataka / Mumbai, India",
-  "size": "大型集团（终端用户）",
-  "other": "铁矿 / 风电 / 气体 / 海运"
+  "hq": "德国",
+  "other": "官网 techpoint-gmbh.de，语言 de，快照状态 ok；角色判定来源：待核"
  },
  "business_lines": [
-  "铁矿开采（终端用户）",
-  "风电、工业气体、海运"
+  "零售业 IT 服务 / 现场服务（德国）"
  ],
  "channels": {
-  "role": "终端用户（矿业项目）",
-  "region": "印度"
+  "role": "零售 IT 服务商（德国）",
+  "region": "德国",
+  "contact": "service@team-techpoint.de"
  },
  "signals": [
-  "矿业现场工业网络需求（项目型）"
+  "官网：Startseite - Tech-Point GmbH ; Effizienz trifft Innovation! ; Ihr Partner im Retail Service ; Standorte；页面 /produkte/；brands Siemens",
+  "表内：Networking"
  ],
  "risks": [
-  "大集团采购流程长、倾向品牌；无需求描述"
+  "服务型公司（网络硬件采购量待核）；仅 service@ 邮箱，未跟进过"
  ],
  "saga_fit": {
-  "p1": "STI-288GPM",
+  "p1": "STC-28DGGPM",
   "tier": 25,
-  "why": "矿区工业管理 PoE → STI-288GPM（$82.2 @25%）。"
+  "why": "门店网络部署配套 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）；24 口 STC-424DGGPM-280W（$140.1）"
  },
- "email_hook": "（低优先；若其集成商来询再报）",
+ "email_hook": "For the access switches in your retail-site rollouts, we supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ models (VLAN/QoS, 802.3at/bt options) from single units, CE/RoHS, EXW USD — which port count do your store installations standardise on?",
  "mail_review": {
   "binding": {
-   "level": "未触达（S 邮箱 1 封 2024，无记录打开，0 回；收件 ps.vijay@mspllimited.com；主题多为「48 Port PoE Managed Switch」；Elsa 箱：`to:baldota.co.in OR to:mspllimited.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 1 / 来 0）（第 74 批(n)））",
-   "type": "—",
+   "level": "未触达（A 邮箱 4 封 2025→2026，无记录打开，0 回；收件 service@team-techpoint.de；主题多为「Booster PoE Switch、Marvell Industrial Alert System」；Elsa 箱：`to:.de` 穷举 29 条（2026-10-25，锚批 Bcc 头已读）未见 techpoint-gmbh.de / team-techpoint.de → Elsa 箱从未发过本户，往来只在 S/A 箱（去 4 / 来 0）（第 74 批(f)））",
+   "type": "零售 IT 服务商（德国）",
    "sieve": "1（只收到群发）",
-   "stop": "1 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "保持季度群发到 2027-Q1；无打开即停；WhatsApp 已加 → 唤醒走 WhatsApp 一句话，不走邮件",
-   "lane": "IN 次级（点名）",
+   "stop": "只打通用邮箱，无记录打开",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "DE 主攻（四主）",
    "cadence": "季度",
-   "evidence": "gmail_digest：out 1；用户表：「（空）」；研究档 risks：大集团采购流程长、倾向品牌；无需求描述"
+   "evidence": "gmail_digest：out 4；用户表：「Networking」；研究档 risks：服务型公司（网络硬件采购量待核）；仅 service@ 邮箱，未跟进过"
   },
-  "situation": "印度 1961 年成立的大型铁矿开采集团（MSPL Limited，兼营风电、气体、海运），P.S. Vijaykumar（mspllimited.com）询盘；终端用户（矿业）项目型需求；WA 无实质回复。规模大但为终端用户，保留 B 低优先。",
-  "need": "矿区工业管理 PoE → STI-288GPM（$82.2 @25%）。",
-  "breakpoint": "大集团采购流程长、倾向品牌；无需求描述",
+  "situation": "德国 Tech-Point GmbH（team-techpoint.de：零售业 IT 服务伙伴「Ihr Partner im Retail Service」，多地站点；表内「Networking」）；表内未跟进。",
+  "need": "门店网络部署配套 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）；24 口 STC-424DGGPM-280W（$140.1）",
+  "breakpoint": "服务型公司（网络硬件采购量待核）；仅 service@ 邮箱，未跟进过",
   "saga_now": {
-   "p1": "STI-288GPM",
+   "p1": "STC-28DGGPM",
    "tier": 25,
-   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-12-10 $300（48 Port PoE Managed Switch）",
-   "why": "矿区工业管理 PoE → STI-288GPM（$82.2 @25%）。",
+   "price": "按主表（研究档 saga_fit）",
+   "why": "门店网络部署配套 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）；24 口 STC-424DGGPM-280W（$140.1）",
    "repeat": [],
    "gaps": []
   },
@@ -92,29 +91,27 @@
    "when": "群发节奏",
    "channel": "A 邮箱",
    "action": "观察打开",
-   "one_question": ""
+   "one_question": "For the access switches in your retail-site rollouts, we supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ models (VLAN/QoS, 802.3at/bt options) from single units, CE/RoHS, EXW USD — which port count do your store installations standardise on?"
   },
   "facts": [
    {
-    "date": "2024-12-10",
+    "date": "2026-03-10",
     "dir": "去",
-    "who": "S 群发",
-    "quote": "48 Port PoE Managed Switch",
-    "why": "1 封 / 0 次打开 / 0 回｜首封 2024-12-10 → 末封 2024-12-10（1 去 / 0 来）",
+    "who": "A 群发",
+    "quote": "Booster PoE Switch、Marvell Industrial Alert System",
+    "why": "4 封 / 0 次打开 / 0 回｜首封 2025-11-17 → 末封 2026-03-10（4 去 / 0 来）",
     "k": "gmail_digest"
    },
    {
     "date": "2026-10-21",
     "dir": "用户表",
     "who": "Simon",
-    "quote": "（空）",
+    "quote": "Networking",
     "why": "表内备注",
     "k": "用户表"
    }
   ],
-  "proof_gaps": [
-   "用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
-  ],
+  "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-24"
  }

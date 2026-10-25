@@ -1,236 +1,200 @@
 {
- "code": "SA-037",
- "name_official": "FCNet Future Communication Networks / FCNET Sp. z o.o.（Opole, Poland）",
- "website_status": "在线",
- "summary": "波兰奥波莱的网络无源/有源元件分销商与进口商（原合伙制，2024 年改有限公司），Fluke Networks 波兰分销商，提供网络设计、外包、IP 电话；营收约 1,020 万 PLN。用户表：1 次实质回复，兴趣「自己的 logo」。",
- "type": "分销商/进口商（自有 logo 采购）",
- "size": "营收 10.2M PLN、资产 6.2M PLN（bizraport）",
- "brands_seen": [
-  "Fluke Networks"
- ],
- "evidence": [
-  {
-   "kind": "官网",
-   "claim": "定位：无源+有源网络元件综合供应；Fluke Networks 分销商",
-   "quote": "Kompleksowa oferta pasywnych i aktywnych elementów sieci teleinformatycznych … Dystrybutorem na Polskę rozwiązań Fluke Networks jest firma FCNet Future Communication Networks",
-   "url": "https://www.fcnet.pl/o-firmie",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "第三方（bizraport）",
-   "claim": "体量",
-   "quote": "FCNET SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ … aktywa 6,2 mln zł · przychód 10,2 mln zł",
-   "url": "https://www.bizraport.pl/krs/0001095976/fcnet-spolka-z-ograniczona-odpowiedzialnoscia",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "网店交换机目录与净价（TP-Link 8/16/24 口 PoE）",
-   "quote": "TP-Link TL-SG2428P, 24xGE PoE+ 250W, 4xGE SFP, 19\" … Cena netto 1 037,15 PLN … TP-Link TL-SG2210MP, 8xGE PoE+ 150W, 2xGE SFP … Cena netto 543,01 PLN … TL-SG3428MP, 24xGE PoE+ 384W, 4xGE SFP, konsola … 1 311,25 PLN",
-   "url": "https://www.fcnet.pl/sprzet-sieciowy/switche.html",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "目录",
-   "claim": "automatyka.pl 列其类目含工业交换机/路由器/MC/UPS",
-   "quote": "Konwertery magistral i protokołów, mediakonwertery · Huby · Switche przemysłowe, przełączniki rack · Routery przemysłowe",
-   "url": "https://www.automatyka.pl/firmy/fcnet-future-communication-networks-spolka-cywilna-90964-1",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "地址/电话/邮箱公开",
-   "quote": "Adres: Św. Jacka 2; 45-073 Opole, Polska Tel: (+48) 775-418-475 Email: info@fcnet.pl",
-   "url": "https://www.fcnet.pl/o-firmie",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "—",
-   "role": "总机",
-   "email": "info@fcnet.pl",
-   "phone": "+48 77 541 84 75",
-   "source": "https://www.fcnet.pl/o-firmie"
-  }
- ],
- "notes": "A 确认：欧洲中型分销商 + 自有 logo 意向 + 已回复；P1 = STC-28DGGPM / STC-424DGGPM-280W 贴牌，20% 分销档（贴牌另议 30%）。",
- "researched_at": "2026-10-21",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "深挖 v1"
- },
- "company_facts": {
-  "legal_name": "FCNET Sp. z o.o.（原 FCNet Future Communication Networks s.c.；NIP 7542916466，REGON 160150149）",
-  "hq": "ul. Św. Jacka 2, 45-073 Opole, Poland",
-  "revenue": "约 10.2M PLN",
-  "other": "Fluke Networks 波兰分销商；网店卖 TP-Link/Netgear/Cisco/HPE/Ubiquiti/MikroTik 交换机，含 PoE 电源配件；automatyka.pl 类目含工业交换机/工业路由器/MC"
- },
- "business_lines": [
-  "网络有源/无源元件分销（网店）",
-  "网络设计、外包、IP 电话",
-  "工业交换机/路由器/MC（automatyka.pl 目录类目）"
- ],
- "products_seen": [
-  {
-   "brand": "TP-Link（转售）",
-   "model": "TL-SG2428P（24×GE PoE+ 250W + 4 SFP）",
-   "spec": "净价 1,037.15 PLN（≈$270）",
-   "url": "https://www.fcnet.pl/sprzet-sieciowy/switche.html",
-   "date": "2026-10-21",
-   "saga": "STC-424DGGPM-280W"
-  },
-  {
-   "brand": "TP-Link（转售）",
-   "model": "TL-SG2210MP（8×GE PoE+ 150W + 2 SFP）",
-   "spec": "净价 543.01 PLN（≈$140）",
-   "url": "https://www.fcnet.pl/sprzet-sieciowy/switche.html",
-   "date": "2026-10-21",
-   "saga": "STC-28DGGPM"
-  },
-  {
-   "brand": "TP-Link（转售）",
-   "model": "TL-SG3428MP（24×GE PoE+ 384W + 4 SFP，L2+）",
-   "spec": "净价 1,311.25 PLN（≈$340）",
-   "url": "https://www.fcnet.pl/sprzet-sieciowy/switche.html",
-   "date": "2026-10-21",
-   "saga": "STC-424DGGPM-280W"
-  },
-  {
-   "brand": "（配件）",
-   "model": "Zasilacz PoE 48V 0,5A Gigabit 24W",
-   "spec": "PoE 电源 25.20 PLN 起",
-   "url": "https://www.fcnet.pl/sprzet-sieciowy/akcesoria/poe.html",
-   "date": "2026-10-21",
-   "saga": "—"
-  }
- ],
- "channels": {
-  "网站/网店": "https://www.fcnet.pl/",
-  "直邮": "info@fcnet.pl（官网）/ biuro@fcnet.pl（用户表）",
-  "电话": "+48 775-418-475"
- },
- "signals": [
-  "网店交换机价带：8 口 PoE ≈ $140、24 口 PoE+ ≈ $270–340 净价——Saga 同规格 EXW $84/$134–140 有 30–40% 空间供其自有 logo 定价（2026-10-21）",
-  "用户表：1 次实质回复，兴趣「自己的 logo」"
- ],
- "risks": [
-  "TP-Link 价格锚点低，自有 logo 需靠更低进货价 + 本地化（波兰语说明书、CE/WEEE）支撑",
-  "小体量（~1,000 万 PLN 营收）"
- ],
- "saga_fit": {
-  "p1": "STC-424DGGPM-280W",
-  "tier": 20,
-  "why": "其网店主销 TL-SG2428P（24 PoE+ 4 SFP）与 TL-SG2210MP（8 PoE+ 2 SFP）→ Saga 同位 STC-424DGGPM-280W / STC-28DGGPM 可贴 FCNET 标；分销 20% 档"
- },
- "email_hook": "Against the TL-SG2428P and TL-SG2210MP price points on fcnet.pl, a Marvell-based 24-port PoE+ with 4 SFP and the matching 8-port unit under your own label leave a workable margin at EXW, so those are the two I am quoting.",
- "mail_review": {
-  "binding": {
-   "level": "未绑定（价格流：10G MC 65 USD →「much better price from different supplier」；Elsa 箱：`to:.pl` 穷举 24 条（2026-10-25，锚批 Bcc 头已读）未见 fcnet.pl → Elsa 箱从未发过本户，往来只在 S/A 箱（去 24 / 来 2）（第 74 批(f)））",
-   "type": "波兰进口分销（自有 logo 意向，用户表）——第三档；波兰次重点",
-   "sieve": "1",
-   "stop": "2025-04-22「We have much better price for this product from different supplier.」",
-   "revive": "非 MC 品类（管理型 PoE）上再试一次；MC 不再报",
-   "lane": "PL/EU",
-   "cadence": "2025-02 → 2026-09 去信 24 封；最后来信 2025-04-22",
-   "evidence": "k=5f2f240aad79e90d / 9e557e84dc8bdbf1 / 34b75cab2668542d"
-  },
-  "situation": "FCNET 2025-04-18 问 10G MC 价格，Alan 报 65 USD（Marvell 芯片），04-22 回「别家价格好得多」。A 邮箱补齐后的新增线程里 FCNET 也只有这一段。",
-  "need": "10G MC（价格导向）。",
-  "breakpoint": "MC 是最同质化的品类，Marvell 溢价在这里没有故事；筛子正常工作。",
-  "saga_now": {
-   "p1": "STC-424DGGPM-280W（管理型 PoE，差异品）",
-   "tier": 20,
-   "price": "换人再触锚价 STC-424DGGPM-280W $134.5 EXW（主表档位（PDF 上限 $165；SA-145 2025-02 实报 $150）；第 72 批 2026-10-24）；按 20% 分销档；历史报价（邮件原话，老汇率）：2025-04-18 65usd；群发里他已看到的价（续）：2026-08-26 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-04-18 $65（10G Media Converter）、2025-06-19 $300（48 Port PoE Managed Switch）、2025-10-10 $280（10G Enterprise SFP Switch）",
-   "why": "换品类问一次。已打开的主题（5/24 封有打开记录）：「Re: 10G Media Converter」(2025-04-18)、「Re: 10G Media Converter」(2025-04-22)、「10G Enterprise SFP Switch」(2025-10-10)、「Marvell Industrial Alert System」(2025-12-31) → 读者兴趣偏「10G 汇聚/L3」；当前 P1 属「PoE 接入」，下一封按「10G 汇聚/L3」给，不按 P1",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "2027-Q1",
-   "channel": "A 邮箱 → info@fcnet.pl",
-   "action": "一句话问管理型 PoE 的来源（第 75 批(p) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
-   "one_question": "For managed PoE switches (not MC), who is your current source and what is the gap you would switch for? Reference: STC-424DGGPM-280W at $134.5 USD EXW (MOQ 1, 15-day validity)."
-  },
-  "facts": [
-   {
-    "date": "2025-02-04",
-    "dir": "去",
-    "who": "A 箱（Alan）",
-    "quote": "L3 Managed Switch",
-    "why": "首封去信（邮箱索引；去信共 24 封）",
-    "k": "e78dd839307d2620"
-   },
-   {
-    "date": "2025-04-18",
-    "dir": "来",
-    "who": "FCNET",
-    "quote": "And the price is ?",
-    "why": "询价",
-    "k": "5f2f240aad79e90d"
-   },
-   {
-    "date": "2025-04-18",
-    "dir": "去",
-    "who": "Saga（Alan）",
-    "quote": "Hi, Price: 65usd/pc 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, Marvell chip, unmanaged, non-PoE, DC5~12V input, with power adapter Please see attached datasheet. Thank you.",
-    "why": "历史报价点（主题「Re: 10G Media Converter」；第 20 批从 gmail_a 回补）：65usd",
-    "k": "9e557e84dc8bdbf1"
-   },
-   {
-    "date": "2025-04-18",
-    "dir": "去",
-    "who": "A 箱（Alan）",
-    "quote": "10G Media Converter｜稿内价 $65",
-    "why": "去信正文含价（邮箱索引）",
-    "k": "1ec7c5f774ee3065"
-   },
-   {
-    "date": "2025-04-18",
-    "dir": "去",
-    "who": "A 箱（Alan）",
-    "quote": "Re: 10G Media Converter｜稿内价 $65",
-    "why": "去信正文含价（邮箱索引）",
-    "k": "9e557e84dc8bdbf1"
-   },
-   {
-    "date": "2025-04-18",
-    "dir": "来",
-    "who": "info@fcnet.pl",
-    "quote": "Re: 10G Media Converter｜And the price is ?    Pozdrawiam / Best regards  FCNET sp. z o.o. | ul. Św. Jacka 2 45-073 Opole t: +48 775-418-475 | e-mail info@fcnet.pl NIP: 754291",
-    "why": "来信（邮箱索引；原文见 k；是否人工回复以原文为准）",
-    "k": "5f2f240aad79e90d"
-   },
-   {
-    "date": "2025-04-22",
-    "dir": "来",
-    "who": "FCNET",
-    "quote": "We have much better price for this product from different supplier.",
-    "why": "价格流停点",
-    "k": "34b75cab2668542d"
-   },
-   {
-    "date": "2025-04-22",
-    "dir": "来",
-    "who": "info@fcnet.pl",
-    "quote": "Re: 10G Media Converter｜We have much better price for this product from different supplier.    Pozdrawiam / Best regards  FCNET sp. z o.o. | ul. Św. Jacka 2 45-073 Opole t: +",
-    "why": "来信（邮箱索引；原文见 k；是否人工回复以原文为准）",
-    "k": "34b75cab2668542d"
-   },
-   {
-    "date": "2026-09-28",
-    "dir": "去",
-    "who": "A 箱（Alan）",
-    "quote": "Managed PoE Switches",
-    "why": "最近一封去信（邮箱索引；去信共 24 封）",
-    "k": "03690d2c8c5731ec"
-   }
+  "code": "SA-037",
+  "name_official": "AE Connect India Pvt. Ltd.（Ahmedabad, Gujarat, India）",
+  "website_status": "在线",
+  "summary": "印度艾哈迈达巴德的网络产品品牌商（2005 年起，公司 2022 注册 CIN U31200GJ2022PTC132573，11–50 人，营收约 $8.1M），自有品牌 PoE 注入器/交换机、光纤产品、Cat6/6A 布线、机柜、工具，200+ 经销商；自述过去 5 年进口部分产品，现开始在印度自产 PoE 交换机（Make in India）。用户表：WhatsApp 跟进，3 次实质回复，18 次跟进；兴趣 PoE FS / MC / SFP，用自己的 logo。",
+  "type": "品牌商（部分进口贴牌 + 本地组装）",
+  "size": "11–50 人（LinkedIn）；$8.1M（ZoomInfo）",
+  "brands_seen": [
+    "AE Connect"
   ],
-  "proof_gaps": [],
-  "draft_en": {
-   "subject": "Not the media converter again - where do your managed PoE switches come from?",
-   "body": "Hello FCNET team,\n\nIn April 2025 you told us a competitor had a much better price on the 10G media converter - fair, converters are the most price-driven item we carry, and we did not argue. The mails since were general product mails; no reason to answer those.\n\nWhere we are usually worth a look is the managed PoE switch against the TL-SG2428P / TL-SG2210MP price points on fcnet.pl, under your own label: 24 x Gigabit PoE+ (280 W) + 4 x SFP, L2+ managed, Marvell-based, CE/RoHS - model STC-424DGGPM-280W - $134.5 USD EXW at distributor price (MOQ 1, 15-day validity); 8 x PoE+ + 2 x SFP - STC-28DGGPM - $80.7.\n\nOne question: where do your managed PoE switches come from today - a brand, or an own-label source?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+  "evidence": [
+    {
+      "kind": "官网",
+      "claim": "自有品牌 + 200+ 经销商 + 过去进口、现本地自产 PoE 交换机",
+      "quote": "The products have successively entered India and overseas with a wide network of 200+ dealers and distributors … For the last 5 years, we used to import some products from other countries. But now we are proud to announce that we are manufacturing PoE Switches in India.",
+      "url": "https://aeconnect.co.in/about-us/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网",
+      "claim": "联系方式",
+      "quote": "+91 95379 10555 · info@aeconnect.co.in · F/9-10 Balaji Centre, Drive-In Road, Memnagar, Ahmedabad - 380 052",
+      "url": "https://aeconnect.co.in/shop/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网",
+      "claim": "AE-PS8082SFT-M 规格",
+      "quote": "8 Port Managed PoE Switch offers 8 Gigabit PoE+ ports, 2 SFP slots, 150 W power, advanced L2 control (IP-MAC-Port binding, ACL), QoS & VLAN … Backplane Bandwidth · 20Gbps … MAC address · 8k",
+      "url": "https://aeconnect.co.in/8-port-gigabit-l2-managed-poe-switch-ae-ps8082sft-m/",
+      "date": "2026-05-29"
+    },
+    {
+      "kind": "官网",
+      "claim": "管理型 PoE 产品线（含 2.5G bt L3、24 口 L3）",
+      "quote": "AE-PS8082SFT-M 8 Port Gigabit L2 Managed PoE+ Switch … AE250-PS1084SFTM-L3 8 Port 2.5G L3 Managed BT PoE Switch … AE-PS242SFT-M 24 Port Gigabit L2 Managed PoE+ Switch … AE600-24GP4TF-L3 24 Port Gigabit L3 Managed PoE+ Switch",
+      "url": "https://aeconnect.co.in/poe-solutions/managed-poe-switches/",
+      "date": "2026-06-09"
+    },
+    {
+      "kind": "官网",
+      "claim": "工业 AE700-IPS8GE4GF-M 规格",
+      "quote": "AE700-IPS8GE4GF-M is a 12-port Industrial Gigabit Managed Layer 2 PoE+ Switch, featuring 8×10/100/1000Mbps PoE+ ports and 4x1000Mbps SFP slots … Input voltage (DC): 48-56V - Working temperature: -40°C ~ +75°C - Shell: IP40",
+      "url": "https://aeconnect.co.in/8-port-industrial-gigabit-l2-managed-poe-switch-ae700-ips8ge4gf-m/",
+      "date": "2025-09-01"
+    }
+  ],
+  "kp": [
+    {
+      "name": "—",
+      "role": "总机/用户表 WhatsApp",
+      "email": "info@aeconnect.co.in",
+      "phone": "+91 98250 15200（WhatsApp 已加）；+91 95379 10555（官网）",
+      "source": "https://aeconnect.co.in/shop/"
+    }
+  ],
+  "notes": "A 维持（3 次实质回复 + 自有品牌 + 200+ 经销商），风险是其「印度自产」方向可能转向 SKD/PCBA 采购；P1 = STC-28DGGPM / STC-424DGGPM-280W 贴牌，30% OEM 档；MC = STI-110GE。",
+  "researched_at": "2026-10-21",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "深挖 v1"
   },
-  "as_of": "2026-10-24"
- }
+  "company_facts": {
+    "legal_name": "AE Connect India Pvt. Ltd.（CIN U31200GJ2022PTC132573）",
+    "founded": "2005 起（公司 2022 注册）",
+    "hq": "Ahmedabad, Gujarat, India",
+    "staff": "11–50",
+    "revenue": "约 $8.1M",
+    "other": "自有品牌 PoE 全线（非管理/管理/工业/2.5G bt L3）、光纤、Cat6/6A 布线、机柜、工具；「Engineered in India」；2025–2026 产品页持续更新"
+  },
+  "business_lines": [
+    "非管理 PoE（AE-PS8082GU 8 GE PoE+2 GE 120W、AE-PSE8002GU、AEIN-PS24FE2GC 24 FE 250W、AE16PSN2GC）",
+    "管理 PoE（AE-PS8082SFT-M 8 GE PoE+2 SFP 150W L2、AE-PS242SFT-M 24 PoE+4 combo、AE600-24GP4TF-L3、AE250-PS1084SFTM-L3 8×2.5G bt L3）",
+    "工业 PoE（AE700-IPS8GE4GF-M 8 GE PoE + 4 SFP，-40~75℃）"
+  ],
+  "products_seen": [
+    {
+      "brand": "AE Connect",
+      "model": "AE-PS8082SFT-M",
+      "spec": "8×GE PoE+ + 2 SFP，150W，L2（ACL/IP-MAC 绑定/QoS/VLAN），20Gbps",
+      "url": "https://aeconnect.co.in/8-port-gigabit-l2-managed-poe-switch-ae-ps8082sft-m/",
+      "date": "2026-05-29",
+      "saga": "STC-28DGGPM"
+    },
+    {
+      "brand": "AE Connect",
+      "model": "AE-PS242SFT-M",
+      "spec": "24×GE PoE+ + 4 combo，56Gbps，L2 管理",
+      "url": "https://aeconnect.co.in/datasheet/PoE-Solution/Managed-PoE-Switches/AE-PS242SFT-M.pdf",
+      "date": "2026-10-21",
+      "saga": "STC-424DGGPM-280W"
+    },
+    {
+      "brand": "AE Connect",
+      "model": "AE600-24GP4TF-L3 / AE250-PS1084SFTM-L3",
+      "spec": "24 PoE L3 / 8×2.5G bt L3",
+      "url": "https://aeconnect.co.in/poe-solutions/managed-poe-switches/",
+      "date": "2026-06-09",
+      "saga": "STC-424XGGPM-280W（2.5G/10G 需核）"
+    },
+    {
+      "brand": "AE Connect",
+      "model": "AE700-IPS8GE4GF-M",
+      "spec": "工业 8 GE PoE+ + 4 SFP L2，48–56VDC，-40~75℃，IP40",
+      "url": "https://aeconnect.co.in/8-port-industrial-gigabit-l2-managed-poe-switch-ae700-ips8ge4gf-m/",
+      "date": "2025-09-01",
+      "saga": "STI-288DGGPM（2 SFP 版）"
+    },
+    {
+      "brand": "AE Connect",
+      "model": "AE-PS8082GU / AE-PSE8002GU / AEIN-PS24FE2GC",
+      "spec": "非管理 8 GE PoE+2 GE 120W / 8 FE PoE+2 GE 120W / 24 FE PoE+2 GE/SFP 250W，6kV 防雷",
+      "url": "https://aeconnect.co.in/24-port-fast-ethernet-unmanaged-poe-switch-aein-ps24fe2gc/",
+      "date": "2025-09-06",
+      "saga": "STC-28DGGPM / STC-424DGGPM-280W（千兆升级）"
+    }
+  ],
+  "channels": {
+    "网站": "https://aeconnect.co.in/（含 datasheet PDF 库）",
+    "直邮": "info@aeconnect.co.in（用户表）",
+    "B2B": "IndiaMART（imimg 目录）"
+  },
+  "signals": [
+    "2025-09～2026-06 连续上新管理型/工业/2.5G bt L3 机型——产品线快速扩张，进口贴牌 + 本地组装（2026-10-21）",
+    "用户表：PoE/FS/MC/SFP，自己的 logo"
+  ],
+  "risks": [
+    "印度 BIS（CRS）认证——交换机类是否强制需客户确认；本地组装趋势（SKD）",
+    "价格极敏感"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 30,
+    "why": "AE-PS8082SFT-M（8 GE PoE + 2 SFP L2）= STC-28DGGPM；AE-PS242SFT-M = STC-424DGGPM-280W；AE700-IPS8GE4GF-M ≈ STI-288DGGPM；OEM 30% 档"
+  },
+  "email_hook": "Your AE-PS8082SFT-M and AE-PS242SFT-M are the two footprints where a Marvell-based second source in AE Connect packing drops in without datasheet changes, so I am quoting both EXW with the industrial 8-port PoE + SFP model as the third line.",
+  "mail_review": {
+    "binding": {
+      "level": "未绑定（A/S 邮箱 0 封——用户表「3 次实质回复」渠道不明；Elsa 箱：`to:aeconnect.co.in` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(g)））",
+      "type": "印度自有品牌（AE Connect，200+ 经销商）",
+      "sieve": "0（邮件层无人工回复）",
+      "stop": "—",
+      "revive": "—",
+      "lane": "IN 非主攻",
+      "cadence": "不主动",
+      "evidence": "邮件：A/S 两箱均无发信记录（0 去 / 0 来）"
+    },
+    "situation": "仓库无任何邮件。",
+    "need": "贴牌 8/24 口 PoE。",
+    "breakpoint": "—",
+    "saga_now": {
+      "p1": "STC-28DGGPM",
+      "tier": 30,
+      "price": "锚价：STC-28DGGPM $87.4（30% 档）（第 72 批 2026-10-24）；—",
+      "why": "贴牌 8/24 口 PoE → 8 口 L2+ 先做第二货源",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）",
+      "channel": "A 邮箱 → AE Connect 具名 KP 待找（用户表 3 次回复渠道不明）",
+      "action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(p) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；具名 KP 待找）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
+      "one_question": "Your AE-PS8082SFT-M and AE-PS242SFT-M are the two footprints where a Marvell-based second source in AE Connect packing drops in without datasheet changes, so I am quoting both EXW with the industrial 8-port PoE + SFP model as the third line. Which of the two footprints would you second-source first? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity)."
+    },
+    "facts": [
+      {
+        "date": "2024-02-08",
+        "dir": "来",
+        "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+        "quote": "用户表跟进：推「发了工业MC系列相关信息」→ 对方「PoE Injector工业级90W」",
+        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+        "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.58 2024.2.8"
+      },
+      {
+        "date": "2024-04-17",
+        "dir": "来",
+        "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+        "quote": "用户表跟进：推「发了10G MC信息」→ 对方「price」",
+        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+        "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.58 2024.4.17"
+      },
+      {
+        "date": "2025-02-26",
+        "dir": "来",
+        "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+        "quote": "用户表跟进：推「工业16 24口出货图」→ 对方「主要用RTL 有较为成熟的产品了 国内的」",
+        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+        "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.58 2025.2.26"
+      }
+    ],
+    "proof_gaps": [
+      "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 从未去信、Replied 索引亦无此户），仓库未见原文"
+    ],
+    "draft_en": {
+      "subject": "Two AE Connect footprints where a second source drops in without datasheet changes",
+      "body": "Hello AE Connect team,\n\nYou told us in 2025 that your PoE switches are RTL-based and mature, and that part of the range is now made in India - understood. The two footprints where a Marvell-based second source still drops into your range without datasheet changes, in AE Connect packing from small lots: AE-PS8082SFT-M class - 8 x Gigabit PoE+ + 2 x SFP, L2+ managed - model STC-28DGGPM - $87.4 USD EXW with your logo (MOQ 1, 15-day validity); AE-PS242SFT-M class - 24 x PoE+ (280 W) + 4 x SFP - STC-424DGGPM-280W - $145.7. Industrial 8 x PoE+ + 2 x SFP DIN unit as a third line. BIS stays on your side.\n\nOne question: which of the imported SKUs is staying imported after the Make-in-India move? That is the one worth a second source.\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+    },
+    "as_of": "2026-10-24"
+  }
 }

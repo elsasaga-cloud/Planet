@@ -1,106 +1,151 @@
 {
-  "code": "SB-806",
-  "name_official": "Uğur İmre（分销商，TR；无域名）",
-  "researched_at": "2026-10-21",
-  "website_status": "无域名",
-  "summary": "ISAF 记录：Uğur İmre（Ady 客户；无邮箱/域名）——分销商，不需要 OEM；要工业级 PoE 交换机；现场报价「2 光 8 电瑞昱（Realtek）带 PoE 带网管 + 内置 DC48V 电源 $70」，回复 Not bad；微信没通过；无后续跟进。仅表内信息；分销 20%。报价映射：2 SFP + 8 GE PoE 管理型 Realtek 商用 = STC-28GPM（列表 $62.2）；若需工业 DIN 版 = STI-288GPM（$78.9@20%）。",
-  "type": "",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "用户表",
-      "claim": "ISAF：分销商；不需 OEM；$70 报价；Not bad；微信未通过",
-      "quote": "Ady客户  分销商 不需要OEM  要工业级POE交换机  报价2光8瑞昱带POE带网管加一个内置DC48V电源70usd, 回复Not bad(微信没通过） / UGUR IMRE",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Uğur İmre",
-      "role": "分销商（ISAF 记录）",
-      "email": "—",
-      "phone": "—（名片在 Ady 处）",
-      "source": "（本地 Clients/ 表格，无公开 URL）"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "无域名 · 仅表内信息"
+ "code": "SB-806",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（datageneral.co，快照 2026-10-21）",
+ "summary": "美国 Data General（datageneral.co / general-data.com；企业级无线与网络基础设施自有品牌：DG-S1930K-8GP2S-120W（8 PoE + 2 SFP 120W）、DG-S1930K-24GP4S-370W、DG-S5360-48GP4X L3、DG-S6120 10G/25G、AP DG-WS7005，云管理，英/西双语；表内「常规 switch 较多」；KP Paul S（Vice President, Operations，psanborn@））；表内无跟进记录。",
+ "type": "美国自有品牌网络厂商（DG 系列交换机，OEM 采购）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Data General；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "Enterprise-grade wireless and network infrastructure designed for stability, performance and scalability.",
+   "url": "https://datageneral.co/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "legal_name": "（待核）",
-    "hq": "Türkiye（待核）",
-    "size": "分销商（规模待核）",
-    "other": "不需要 OEM；微信未通过"
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "常规Switch较多",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "网络/安防分销（推测）"
-  ],
-  "channels": {
-    "线下": "ISAF 名片（Ady）；微信申请未通过"
+  {
+   "kind": "官网快照",
+   "claim": "Data General 企业级网络基础设施",
+   "quote": "Enterprise-grade wireless and network infrastructure designed for stability, performance and scalability.",
+   "url": "https://datageneral.co/",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "对 $70 报价回复 Not bad → 价格带接受；需从 Ady 名片补邮箱/电话再跟"
-  ],
-  "risks": [
-    "无联系渠道（微信未通过）；无后续跟进"
-  ],
-  "saga_fit": {
-    "p1": "STC-28GPM",
-    "tier": 20,
-    "why": "分销 20% 档：STC-28GPM（Realtek 2 SFP + 8 GE PoE L2 管理，内置电源，列表 $62.2；ISAF 现场报 $70 含 DC48V 内置电源版）；工业 DIN 版 STI-288GPM（$78.9）/ 非管理 STI-288GP（$57.4）"
-  },
-  "email_hook": "Uğur Bey, ISAF'ta 'not bad' dediğiniz 2 SFP + 8 port Realtek PoE yönetilebilir switch: dahili güç kaynaklı sürüm EXW 71,0 USD, DIN ray endüstriyel L2 sürümü 78,9 USD (distribütör fiyatı) — ilk parti için 20 mi 50 adet mi düşünelim?",
-  "mail_review": {
-    "binding": {
-      "level": "轻度触达（展会名片 + WhatsApp 已加，邮件 0 封）：用户表「Ady客户  分销商 不需要OEM  要工业级POE交换机  报价2光8瑞昱带POE带网管加一个内置DC48V电源70usd, 回复Not bad(微信没通过） / UGUR IM」；S/A 邮箱 0 封；Elsa 箱无可查地址（仓内无此户任何邮箱/域名——用户表/WhatsApp/展会名片户，`from:e.sagatelecom to:` 无从下手；Elsa 群发是否碰过他无法判定，不写「未触达」）（第 74 批(o)）",
-      "type": "—",
-      "sieve": "3（已加 WhatsApp，表内有往来）",
-      "stop": "仓库只有用户表一行；往来在 Simon 手机",
-      "revive": "首封邮件（A 邮箱，按 email_hook）+ WhatsApp 一句话",
-      "lane": "土耳其 非主攻",
-      "cadence": "一封",
-      "evidence": "gmail_digest：out 0；用户表：「Ady客户  分销商 不需要OEM  要工业级POE交换机  报价2光8瑞昱带POE带网管加一个内置DC48V电源70usd, 回复Not bad(微信没通过）」；研究档 risks：无联系渠道（微信未通过）；无后续跟进"
-    },
-    "situation": "ISAF 记录：Uğur İmre（Ady 客户；无邮箱/域名）——分销商，不需要 OEM；要工业级 PoE 交换机；现场报价「2 光 8 电瑞昱（Realtek）带 PoE 带网管 + 内置 DC48V 电源 $70」，回复 Not bad；微信没通过；无后续跟进。仅表内信息；分销 20%。报价映射：2 SFP + 8 GE PoE 管理型 Realtek 商用 = STC-28GPM（列表 $62.2）；若需工业 DIN 版 = STI-288GPM（$78.9@20%）。",
-    "need": "分销 20% 档：STC-28GPM（Realtek 2 SFP + 8 GE PoE L2 管理，内置电源，列表 $62.2；ISAF 现场报 $70 含 DC48V 内置电源版）；工业 DIN 版 STI-288GPM（$78.9）/ 非管理 STI-288GP（$57.4）",
-    "breakpoint": "无联系渠道（微信未通过）；无后续跟进",
-    "saga_now": {
-      "p1": "STC-28GPM",
-      "tier": 20,
-      "price": "Realtek 线按 HRUI 2026-09-30 进价 +20% 现算（Q-47 默认，不用 Drive 旧表价）：STC-28GPM $62.2→$71.0；按主表（研究档 saga_fit）",
-      "why": "分销 20% 档：STC-28GPM（Realtek 2 SFP + 8 GE PoE L2 管理，内置电源，列表 $62.2；ISAF 现场报 $70 含 DC48V 内置电源版）；工业 DIN 版 STI-288GPM（$78.9）/ 非管理 STI-288GP（$57.4）",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "2026-11（Simon）",
-      "channel": "A 邮箱首封 + WhatsApp（Simon）",
-      "action": "首封 + 一句话",
-      "one_question": "Uğur Bey, ISAF'ta 'not bad' dediğiniz 2 SFP + 8 port Realtek PoE yönetilebilir switch: dahili güç kaynaklı sürüm EXW 71,0 USD, DIN ray endüstriyel L2 sürümü 78,9 USD (distribütör fiyatı) — ilk parti için 20 mi 50 adet mi düşünelim?"
-    },
-    "facts": [
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "Ady客户  分销商 不需要OEM  要工业级POE交换机  报价2光8瑞昱带POE带网管加一个内置DC48V电源70usd, 回复Not bad(微信没通过） / UGUR IMRE",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [
-      "WhatsApp 往来未入库"
-    ],
-    "draft_en": {
-      "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
-      "body": "Uğur Bey, ISAF'ta 'not bad' dediğiniz 2 SFP + 8 port Realtek PoE yönetilebilir switch: dahili güç kaynaklı sürüm EXW 71,0 USD, DIN ray endüstriyel L2 sürümü 78,9 USD (distribütör fiyatı) — ilk parti için 20 mi 50 adet mi düşünelim?"
-    },
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "常规 switch 较多",
+   "quote": "常规Switch较多",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Paul Sanborn",
+   "title": "Vice President, Operations（表内 Paul S）",
+   "email": "psanborn@general-data.com",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "美国",
+  "other": "官网 datageneral.co，语言 en-US，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "企业无线 / 交换机 / 云管理（自有品牌 DG）"
+ ],
+ "channels": {
+  "role": "美国自有品牌网络厂商（DG 系列交换机，OEM 采购）",
+  "region": "美国",
+  "contact": "psanborn@general-data.com"
+ },
+ "signals": [
+  "产品页 /product/dg-s1930k-8gp2s-120w-poe-switch-8-port-gigabit-poe-sfp/、/product/dg-s5360-48gp4x-740w-layer-3-10g-48-ports-poe-switch-4-sfp/",
+  "官网：Enterprise-grade wireless and network infrastructure designed for stability, performance and scalability；栏目 Cloud Management",
+  "KP：Paul S / Vice President, Operations（表内）"
+ ],
+ "risks": [
+  "现代工疑为锐捷/深圳体系（型号命名近 Ruijie S1930）：价格基准低",
+  "云管理功能由其平台提供：Saga 仅硬件 L2+；表内无跟进 → 向 VP Operations 具名首触"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 30,
+  "why": "自有 DG-S1930K-8GP2S-120W（8 PoE + 2 SFP 120W）→ 同口型 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 DG 标；DG-S1930K-24GP4S-370W → STC-424DGGPM-280W（功率 280W，需注明）/ STC-424XGGPM-280W"
+ },
+ "email_hook": "Paul, for the DG-S1930K-8GP2S-120W and 24GP4S models, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE + 4 SFP) from small lots in your housing, with FCC/CE/RoHS reports — which of the two would you dual-source first?",
+ "products_seen": [
+  {
+   "brand": "Data General（自有）",
+   "model": "DG-S1930K-8GP2S-120W",
+   "spec": "8 PoE + 2 SFP 120W",
+   "saga": "STC-28DGGPM",
+   "url": "https://datageneral.co/product/dg-s1930k-8gp2s-120w-poe-switch-8-port-gigabit-poe-sfp/",
+   "date": "2026-10-21"
+  },
+  {
+   "brand": "Data General（自有）",
+   "model": "DG-S1930K-24GP4S-370W",
+   "spec": "24 PoE + 4 SFP 370W",
+   "saga": "STC-424DGGPM-280W（280W，注明功率差）",
+   "url": "https://datageneral.co/",
+   "date": "2026-10-21"
+  }
+ ],
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 2 封 2026，无记录打开，0 回；收件 info@datageneral.co, psanborn@general-data.com；主题多为「OEM Core Switching Solution、24 Port PoE Managed Switch」；Elsa 箱：`to:datageneral.co OR to:general-data.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 2 / 来 0）（第 74 批(h)））",
+   "type": "美国自有品牌网络厂商（DG 系列交换机，OEM 采购）",
+   "sieve": "1（只收到群发）",
+   "stop": "2 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "US 主攻（四主）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 2；用户表：「常规Switch较多」；研究档 risks：现代工疑为锐捷/深圳体系（型号命名近 Ruijie S1930）：价格基准低"
+  },
+  "situation": "美国 Data General（datageneral.co / general-data.com；企业级无线与网络基础设施自有品牌：DG-S1930K-8GP2S-120W（8 PoE + 2 SFP 120W）、DG-S1930K-24GP4S-370W、DG-S5360-48GP4X L3、DG-S6120 10G/25G、AP DG-WS7005，云管理，英/西双语；表内「常规 switch 较多」；KP Paul S（Vice President, Operations，psanborn@））；表内无跟进记录。",
+  "need": "自有 DG-S1930K-8GP2S-120W（8 PoE + 2 SFP 120W）→ 同口型 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 DG 标；DG-S1930K-24GP4S-370W → STC-424DGGPM-280W（功率 280W，需注明）/ STC-424XGGPM-280W",
+  "breakpoint": "现代工疑为锐捷/深圳体系（型号命名近 Ruijie S1930）：价格基准低",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 30,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170",
+   "why": "自有 DG-S1930K-8GP2S-120W（8 PoE + 2 SFP 120W）→ 同口型 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 DG 标；DG-S1930K-24GP4S-370W → STC-424DGGPM-280W（功率 280W，需注明）/ STC-424XGGPM-280W",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Paul, for the DG-S1930K-8GP2S-120W and 24GP4S models, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE + 4 SFP) from small lots in your housing, with FCC/CE/RoHS reports — which of the two would you dual-source first?"
+  },
+  "facts": [
+   {
+    "date": "2026-08-10",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "OEM Core Switching Solution、24 Port PoE Managed Switch",
+    "why": "2 封 / 0 次打开 / 0 回｜首封 2026-03-11 → 末封 2026-08-10（2 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "常规Switch较多",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

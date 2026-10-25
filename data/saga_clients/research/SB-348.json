@@ -1,147 +1,237 @@
 {
- "code": "SB-348",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（autechcontrol.com.au，快照 2026-10-21）",
- "summary": "澳大利亚 Autech Control Group（自动化产品与服务：Schneider 电表、Horner HMI、COME-STAR 串口服务器、Advantech ECU 网关、Maiwe 5 口 DIN 导轨工业交换机；表内「串口 / 工业 FS」；KP Zifei Li（Automation Products Manager，zli@））；表内 4 次跟进无回复。",
- "type": "自动化产品分销/服务商（澳洲，Maiwe 工业 FS 在售）",
- "size": "",
- "brands_seen": [
-  "Advantech",
-  "Schneider",
-  "Maiwe",
-  "Horner"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：Automation Product and Services Provider in Australia；品类词 工业自动化 / OT 网络 / 无线 / WiFi / 光纤 / 媒体转换 / 网络交换 / PoE",
-   "quote": "An experienced automation product and services provider in Australia, Autech Control Groups is committed to delivering quality solutions. Contact us today.",
-   "url": "https://autechcontrol.com.au/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "串口 工业FS",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "Autech Control 定位",
-   "quote": "An experienced automation product and services provider in Australia, Autech Control Groups is committed to delivering quality solutions.",
-   "url": "https://autechcontrol.com.au/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "串口 工业 FS",
-   "quote": "串口 工业FS",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Zifei Li",
-   "title": "Automation Products Manager",
-   "email": "zli@autechcontrol.com.au",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "澳大利亚",
-  "other": "官网 autechcontrol.com.au，语言 en-AU，快照状态 ok；角色判定来源：官网文案"
- },
- "business_lines": [
-  "自动化产品分销与服务"
- ],
- "channels": {
-  "role": "自动化产品分销/服务商（澳洲，Maiwe 工业 FS 在售）",
-  "region": "澳大利亚",
-  "contact": "sales@autechcontrol.com.au、zli@autechcontrol.com.au"
- },
- "signals": [
-  "页面 /product/maiwe-5-port-10-100m-din-rail-layer-2-industrial-ethernet-switch/、/product/advantech-ecu-1251d-industrial-communication-gateway/",
-  "官网：An experienced automation product and services provider in Australia；KP Zifei Li / Automation Products Manager"
- ],
- "risks": [
-  "非主攻区（T5），RCM 由客户申报；Maiwe/Advantech 既定线",
-  "4 次跟进无回复 → 改向 Automation Products Manager 具名首触（中文姓名，可中文跟进）"
- ],
- "saga_fit": {
-  "p1": "STI-050GE",
-  "tier": 25,
-  "why": "在售 Maiwe 5 口 10/100 DIN → 工业 5 GE STI-050GE（$17.8 @25%）/ 8 GE STI-080GE（$32.7）；管理位 STI-288GPM；串口服务器 Saga 不做"
- },
- "email_hook": "Zifei, alongside the Maiwe 5-port DIN-rail switch you list, we supply DIN-rail 5/8-port gigabit unmanaged and 8-PoE + 2 SFP managed units (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your automation customers order most?",
- "products_seen": [
-  {
-   "brand": "Maiwe",
-   "model": "5-port 10/100M DIN-rail L2 switch",
-   "spec": "工业 5 口百兆",
-   "saga": "STI-050GE",
-   "url": "https://autechcontrol.com.au/product/maiwe-5-port-10-100m-din-rail-layer-2-industrial-ethernet-switch/",
-   "date": "2026-10-21"
-  }
- ],
- "mail_review": {
-  "binding": {
-   "level": "未触达（A 邮箱 15 封 2025→2026，1 次记录打开，0 回；收件 sales@autechcontrol.com.au, zli@autechcontrol.com.au；主题多为「Marvell Industrial Alert System、16 Port Ethernet Switch」；Elsa 箱：`to:autechcontrol.com.au` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 15 / 来 0）（第 74 批(n)））",
-   "type": "自动化产品分销/服务商（澳洲，Maiwe 工业 FS 在售）",
-   "sieve": "1~2（1 次打开）",
-   "stop": "15 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "澳大利亚 非主攻",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 15，Opened 标签 1（Simon 群发追踪）；用户表：「串口 工业FS」；研究档 risks：非主攻区（T5），RCM 由客户申报；Maiwe/Advantech 既定线"
-  },
-  "situation": "澳大利亚 Autech Control Group（自动化产品与服务：Schneider 电表、Horner HMI、COME-STAR 串口服务器、Advantech ECU 网关、Maiwe 5 口 DIN 导轨工业交换机；表内「串口 / 工业 FS」；KP Zifei Li（Automation Products Manager，zli@））；表内 4 次跟进无回复。",
-  "need": "在售 Maiwe 5 口 10/100 DIN → 工业 5 GE STI-050GE（$17.8 @25%）/ 8 GE STI-080GE（$32.7）；管理位 STI-288GPM；串口服务器 Saga 不做",
-  "breakpoint": "非主攻区（T5），RCM 由客户申报；Maiwe/Advantech 既定线",
-  "saga_now": {
-   "p1": "STI-050GE",
-   "tier": 25,
-   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-16 $280（10G Enterprise SFP Switch）、2026-06-18 $16000（32 Port 400GB DC Switch）",
-   "why": "在售 Maiwe 5 口 10/100 DIN → 工业 5 GE STI-050GE（$17.8 @25%）/ 8 GE STI-080GE（$32.7）；管理位 STI-288GPM；串口服务器 Saga 不做。已打开的主题（1/15 封有打开记录）：「16 Port Ethernet Switch」(2025-08-26) → 读者兴趣主题类别不明（看原主题）",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开",
-   "one_question": "Zifei, alongside the Maiwe 5-port DIN-rail switch you list, we supply DIN-rail 5/8-port gigabit unmanaged and 8-PoE + 2 SFP managed units (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your automation customers order most?"
-  },
-  "facts": [
-   {
-    "date": "2026-08-31",
-    "dir": "去",
-    "who": "A 群发",
-    "quote": "Marvell Industrial Alert System、16 Port Ethernet Switch",
-    "why": "15 封 / 1 次打开 / 0 回｜首封 2025-08-26 → 末封 2026-08-31（15 去 / 0 来）",
-    "k": "gmail_digest"
-   },
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "串口 工业FS",
-    "why": "表内备注",
-    "k": "用户表"
-   }
+  "code": "SB-348",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（cloudtronics.com.au，快照 2026-10-21）",
+  "summary": "澳大利亚 Cloudtronics®（澳洲自有公司：兼容光模块（100% 兼容保证）、6 周定制 IoT 电子、网络设备；自有标工业 PoE 交换机 CLD-8POE-2SFP-IND（N-net 代工，备注 URL 印尼站 cloudtronics.co.id）；表内「N-net 的工业 FS 带了自己的标，网页做的不错」「可以多跟进一下」；KP Robert Nathan（Director，rnathan@））；群发 22 次无回复。",
+  "type": "澳洲网络/光模块自有品牌商（工业 PoE 贴标，OEM 采购）",
+  "size": "",
+  "brands_seen": [
+    "N-net"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：Cloudtronics – Network Solutions and Transceivers Home page；品类词 工业自动化 / OT 网络 / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
+      "quote": "Cloudtronics® is proudly an Australian owned and operated company. Cloudtronics provides unique, tailored solutions with built-in cloud support",
+      "url": "https://cloudtronics.com.au/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "N-net的工业FS 带了自己的标；N-net的 网页做的不错；https://cloudtronics.co.id/products-and-solutions/network-device/industrial-unmanaged-poe-switch/",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "Cloudtronics 定位",
+      "quote": "Cloudtronics® is proudly an Australian owned and operated company. Cloudtronics provides unique, tailored solutions with built-in cloud support ; Transceivers 100% Compatibility Guarantee",
+      "url": "https://cloudtronics.com.au/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "N-net 工业 FS 带自己的标",
+      "quote": "N-net的工业FS 带了自己的标 / N-net的 网页做的不错；可以多跟进一下",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [
+    {
+      "name": "Robert Nathan",
+      "title": "Director",
+      "email": "rnathan@cloudtronics.com.au",
+      "phone": "",
+      "source": "用户表"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "澳大利亚",
+    "other": "官网 cloudtronics.com.au，语言 en-AU，快照状态 ok；角色判定来源：用户表"
+  },
+  "business_lines": [
+    "兼容光模块 / 网络设备 / 定制 IoT 电子（自有品牌 Cloudtronics）"
+  ],
+  "channels": {
+    "role": "澳洲网络/光模块自有品牌商（工业 PoE 贴标，OEM 采购）",
+    "region": "澳大利亚",
+    "contact": "sales@cloudtronics.com.au、rnathan@cloudtronics.com.au"
+  },
+  "signals": [
+    "备注 URL：https://cloudtronics.co.id/products-and-solutions/network-device/industrial-unmanaged-poe-switch/；站内 CLD-8POE-2SFP-IND",
+    "官网：Cloudtronics® is proudly an Australian owned and operated company … Transceivers 100% Compatibility Guarantee ; Customised IoT Electronics in 6 WEEKS"
+  ],
+  "risks": [
+    "现代工 N-net（深圳）价格基准低；非主攻区（T5），RCM 由客户申报",
+    "22 次无回复 → 改向 Director 具名首触；主品类光模块 Saga 不供"
+  ],
+  "saga_fit": {
+    "p1": "STI-288GP",
+    "tier": 30,
+    "why": "自有 CLD-8POE-2SFP-IND（8 PoE + 2 SFP 工业非管理，N-net 代工）→ 工业 8 PoE + 2 SFP 非管理 STI-288GP（$62.2 @30%）/ 管理 STI-288GPM（$85.5）贴 Cloudtronics 标"
+  },
+  "email_hook": "Robert, for the CLD-8POE-2SFP-IND industrial PoE switch, we can be a second ODM source (DIN-rail 8-PoE + 2 SFP unmanaged or managed, −40~75 °C, CE/RoHS) from small lots in your housing — would a managed variant be useful for your IoT deployments?",
+  "products_seen": [
+    {
+      "brand": "Cloudtronics（自有标）",
+      "model": "CLD-8POE-2SFP-IND",
+      "spec": "工业 8 PoE + 2 SFP 非管理（N-net 代工）",
+      "saga": "STI-288GP",
+      "url": "https://cloudtronics.co.id/products-and-solutions/network-device/industrial-unmanaged-poe-switch/",
+      "date": "2026-10-21"
+    }
+  ],
+  "mail_review": {
+    "binding": {
+      "level": "读而不回（A/S 邮箱 38 封 2024→2026，其中 3 封被打开，0 回；收件 rnathan@cloudtronics.com.au, sales@cloudtronics.com.au；被打开主题「Marvell Alleycat5 Solution、Managed Optical Bypass Switch」）；Elsa 1:1 去信 10 轮 2025-02-12→2026-08-10（To 仅本户 sales@cloudtronics.com.au / support@cloudtronics.co.id（按地址：sales@cloudtronics.com.au 1 轮 / support@cloudtronics.co.id 9 轮）；头 msg 19fea2f5b896eb46 核对无 Bcc，称呼「Hi,」= 无称呼逐月单发名单；主题 Marvell Industrial Alert System、Updated Ethernet Switches Links、Marvell Managed Commercial Switches、24 Port PoE Managed Switch…；0 回（Elsa 箱无 Re: 行））（第 74 批(m) `from:e.sagatelecom to:` 全程 complete，直收 10 条）",
+      "type": "澳洲网络/光模块自有品牌商（工业 PoE 贴标，OEM 采购）",
+      "sieve": "2（有人在读，无人回）",
+      "stop": "读而不回 = 内容未命中或没有当下需求",
+      "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
+      "lane": "澳大利亚 非主攻",
+      "cadence": "一封；回了再说",
+      "evidence": "gmail_digest：out 38，Opened 标签 3（Simon 群发追踪）；用户表：「N-net的工业FS 带了自己的标；N-net的 网页做的不错；https://cloudtronics.co.id/products-and-solution」；研究档 risks：现代工 N-net（深圳）价格基准低；非主攻区（T5），RCM 由客户申报"
+    },
+    "situation": "澳大利亚 Cloudtronics®（澳洲自有公司：兼容光模块（100% 兼容保证）、6 周定制 IoT 电子、网络设备；自有标工业 PoE 交换机 CLD-8POE-2SFP-IND（N-net 代工，备注 URL 印尼站 cloudtronics.co.id）；表内「N-net 的工业 FS 带了自己的标，网页做的不错」「可以多跟进一下」；KP Robert Nathan（Director，rnathan@））；群发 22 次无回复。",
+    "need": "自有 CLD-8POE-2SFP-IND（8 PoE + 2 SFP 工业非管理，N-net 代工）→ 工业 8 PoE + 2 SFP 非管理 STI-288GP（$62.2 @30%）/ 管理 STI-288GPM（$85.5）贴 Cloudtronics 标",
+    "breakpoint": "现代工 N-net（深圳）价格基准低；非主攻区（T5），RCM 由客户申报",
+    "saga_now": {
+      "p1": "STI-288GP",
+      "tier": 30,
+      "price": "首触锚价 STI-288GP $60 EXW（最近实报 $60（SB-034 2025-03-18；SB-1102 / SB-010 同价）（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-03 $65（10G media converter）、2024-12-16 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2025-07-28 $240（24 Port Fiber Switch）、2025-10-07 $280（10G Enterprise SFP Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-06-09 $300（48 Port PoE Managed Switch = STC-448XGGPM，Elsa 箱 1 轮 2025-06-09；现表 $335.4@20%、Drive 老表 $335——同款写 $335 要先说 2025 群发是 $300、汇率 7.2→6.7）；2026-05-07 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 2 轮 2025-10-08→2026-05-07；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-08-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-10；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
+      "why": "自有 CLD-8POE-2SFP-IND（8 PoE + 2 SFP 工业非管理，N-net 代工）→ 工业 8 PoE + 2 SFP 非管理 STI-288GP（$62.2 @30%）/ 管理 STI-288GPM（$85.5）贴 Cloudtronics 标。已打开的主题（3/38 封有打开记录）：「10G media converter」(2024-08-13)、「8 Port Industrial PoE Switch」(2025-08-22)、「Optional Marvell Chipset Solutions」(2025-12-04) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续｜已发资料（勿重发）：Saga Feature List_7.5.x_L2+(2026-06-30)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "2026-11",
+      "channel": "A 邮箱 → rnathan@cloudtronics.com.au",
+      "action": "首封前知悉：Elsa 已 1:1 去信 10 轮（2025-02-12→2026-08-10，0 回）（第 74 批(m)）；短信一问（email_hook）（第 76 批(c) 2026-10-25：audit_ab 软项修正：证书口径 CE/RoHS → CE/RoHS (RCM stays on your side)）",
+      "one_question": "Robert, for the CLD-8POE-2SFP-IND industrial PoE switch, we can be a second ODM source (DIN-rail 8-PoE + 2 SFP unmanaged or managed, −40~75 °C, CE/RoHS) from small lots in your housing — would a managed variant be useful for your IoT deployments? Reference: STI-288GP at $60 USD EXW (MOQ 1, 15-day validity)."
+    },
+    "facts": [
+      {
+        "date": "2025-02-12",
+        "dir": "out",
+        "who": "Elsa → sales@cloudtronics.com.au",
+        "quote": "16 Port Ethernet Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+        "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
+        "k": "elsa_1to1",
+        "msg_id": "194f77495ad0fe55"
+      },
+      {
+        "date": "2025-05-02",
+        "dir": "out",
+        "who": "Elsa → support@cloudtronics.co.id",
+        "quote": "16 Port Ethernet Switch（Elsa 1:1 逐月名单第 2/10 轮；To 仅本户）",
+        "why": "第 74 批(m) `from:e.sagatelecom to:sales@cloudtronics.com.au` 全程 complete：10 轮直收；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "1969054d1e6c1440"
+      },
+      {
+        "date": "2025-06-09",
+        "dir": "out",
+        "who": "Elsa → support@cloudtronics.co.id",
+        "quote": "48 Port PoE Managed Switch（Elsa 1:1 逐月名单第 3/10 轮；To 仅本户；正文价 300usd/pc，第 74 批(p) 读稿 msg 194eff1f9bf46879 / 1973a613b8166b58）",
+        "why": "第 74 批(m) `from:e.sagatelecom to:sales@cloudtronics.com.au` 全程 complete：10 轮直收；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "19753eb03c56890e"
+      },
+      {
+        "date": "2025-10-08",
+        "dir": "out",
+        "who": "Elsa → support@cloudtronics.co.id",
+        "quote": "10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 4/10 轮；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
+        "why": "第 74 批(m) `from:e.sagatelecom to:sales@cloudtronics.com.au` 全程 complete：10 轮直收；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "199c2aa89f59abbc"
+      },
+      {
+        "date": "2025-12-10",
+        "dir": "out",
+        "who": "Elsa → support@cloudtronics.co.id",
+        "quote": "Booster PoE Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+        "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
+        "k": "elsa_1to1",
+        "msg_id": "19b06c607335d43b"
+      },
+      {
+        "date": "2026-01-06",
+        "dir": "out",
+        "who": "Elsa → support@cloudtronics.co.id",
+        "quote": "Marvell Industrial Alert System（Elsa 1:1 逐月名单第 6/10 轮；To 仅本户）",
+        "why": "第 74 批(m) `from:e.sagatelecom to:sales@cloudtronics.com.au` 全程 complete：10 轮直收；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "19b91d1ba298f0cb"
+      },
+      {
+        "date": "2026-02-27",
+        "dir": "out",
+        "who": "Elsa → support@cloudtronics.co.id",
+        "quote": "Updated Ethernet Switches Links（Elsa 1:1 逐月名单第 7/10 轮；To 仅本户）",
+        "why": "第 74 批(m) `from:e.sagatelecom to:sales@cloudtronics.com.au` 全程 complete：10 轮直收；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "19c9d9c6b06438fb"
+      },
+      {
+        "date": "2026-03-30",
+        "dir": "out",
+        "who": "Elsa → support@cloudtronics.co.id",
+        "quote": "Marvell Managed Commercial Switches（Elsa 1:1 逐月名单第 8/10 轮；To 仅本户）",
+        "why": "第 74 批(m) `from:e.sagatelecom to:sales@cloudtronics.com.au` 全程 complete：10 轮直收；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "19d3dc1bc7d52e8d"
+      },
+      {
+        "date": "2026-05-07",
+        "dir": "out",
+        "who": "Elsa → support@cloudtronics.co.id",
+        "quote": "10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 9/10 轮；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
+        "why": "第 74 批(m) `from:e.sagatelecom to:sales@cloudtronics.com.au` 全程 complete：10 轮直收；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "19e004e6cb7b25d1"
+      },
+      {
+        "date": "2026-08-10",
+        "dir": "out",
+        "who": "Elsa → support@cloudtronics.co.id",
+        "quote": "24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 10/10 轮；To 仅本户；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f）",
+        "why": "第 74 批(m) `from:e.sagatelecom to:sales@cloudtronics.com.au` 全程 complete：10 轮直收；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "19fea2f5b896eb46"
+      },
+      {
+        "date": "2026-09-16",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "Marvell Alleycat5 Solution、Managed Optical Bypass Switch",
+        "why": "38 封 / 3 次打开 / 0 回｜首封 2024-06-19 → 末封 2026-09-16（38 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "N-net的工业FS 带了自己的标；N-net的 网页做的不错；https://cloudtronics.co.id/products-and-solutions/network-device/industrial-unmanaged-po",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": {
+      "subject": "One question — Marvell Alleycat5 Solution",
+      "body": "Hi Robert,\n\nWe have sent you a few mails on \"Marvell Alleycat5 Solution\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor the CLD-8POE-2SFP-IND industrial PoE switch, we can be a second ODM source (DIN-rail 8-PoE + 2 SFP unmanaged or managed, −40~75 °C, CE/RoHS (RCM stays on your side)) from small lots in your housing — would a managed variant be useful for your IoT deployments?\n\nReference price: DIN-rail 8-PoE + 2 SFP unmanaged industrial switch, 240 W (STI-288GP) $60 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+    },
+    "as_of": "2026-10-24"
+  }
 }

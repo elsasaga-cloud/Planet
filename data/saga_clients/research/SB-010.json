@@ -1,146 +1,173 @@
 {
-  "code": "SB-010",
-  "name_official": "",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（spacetronik.pl，快照 2026-10-21）",
-  "summary": "波兰 Spacetronik（自有品牌电子/安装/办公人体工学产品官方商店：24 口 2.5G + 10G SFP+ 交换机 SP-SGT124S、LAN PoE 与光纤测试仪、KVM、传感器；表内「HRUI（洪瑞）的，贴了自己的 logo；工商 switch」「质量一般」）；表内 1 次跟进无回复。",
-  "type": "波兰自有品牌电子商店（交换机现由 HRUI 代工 → Q-33 口径）",
-  "size": "",
-  "brands_seen": [
-    "HRUI"
-  ],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "官网标题：Spacetronik.pl - Official Brand Store | Electronics & Technology.；品类词 安防监控（CCTV / 门禁） / 无线 / WiFi / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
-      "quote": "A complete range of technological, installation, and ergonomic solutions in one place. Everything for a modern home and a professional office. Discover the world of the Spacetronik brand!",
-      "url": "https://spacetronik.pl/en/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "洪瑞的 贴了自己的logo；工商Switch",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网快照",
-      "claim": "Spacetronik 官方品牌商店",
-      "quote": "Spacetronik.pl - Official Brand Store | Electronics & Technology ; 24-Port 2.5G RJ45 Switch with 10G SFP+ Port SP-SGT124S",
-      "url": "https://spacetronik.pl/en/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "HRUI 代工贴自己 logo，工商 switch",
-      "quote": "洪瑞的 贴了自己的logo / 工商Switch；质量一般",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ "code": "SB-010",
+ "name_official": "American Fibertek, Inc.（AFI, St. Petersburg, FL）",
+ "website_status": "在线",
+ "summary": "美国佛州安防光传输设备制造商（1984 年成立，11–50 人，营收 $8–11M 口径），主打「Manufactured in America / BAA 合规」，并提供一整套「sourced TAA compliant」产品（以太网交换机、光纤交换机、MC、视频/数据/音频光端机）。2020 年被 Donna Poulos 收购。用户表：S 重点，兴趣 SFP/工业电源/大口 FS/MC/多功能 VC，1 次实质回复。",
+ "type": "品牌商（美国本土制造 + TAA 外采线）",
+ "size": "11–50 人；$8.4M（ZoomInfo）/ $11M（LeadIQ）",
+ "brands_seen": [
+  "American Fibertek"
+ ],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "定位：美国制造 + BAA，外采线要求 TAA 合规（TAA 名单不含中国）",
+   "quote": "American Fibertek provides superior fiber solutions for security applications manufactured in America by American citizens – meeting all BAA compliance requirements and standards. AFI also offers a full array of sourced TAA compliant products",
+   "url": "https://www.americanfibertek.com/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "hq": "波兰",
-    "other": "官网 spacetronik.pl，语言 en，快照状态 ok；角色判定来源：用户表"
+  {
+   "kind": "第三方（LinkedIn）",
+   "claim": "产品线含以太网交换机与光纤交换机；规模",
+   "quote": "Product offerings include IP media conversion, video, data, contact closure alarm, audio, CCTV, intercom, telephone, Ethernet switches and fiber switches. · Company size: 11-50 employees · Founded: 1984",
+   "url": "https://www.linkedin.com/company/american-fibertek",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "自有品牌电子/安装/办公产品商店",
-    "网络交换机（HRUI 代工贴标）"
-  ],
-  "channels": {
-    "role": "波兰自有品牌电子商店（交换机现由 HRUI 代工 → Q-33 口径）",
-    "region": "波兰",
-    "contact": "store@spacetronik.eu"
+  {
+   "kind": "第三方（PRNewswire）",
+   "claim": "2020 年被 Donna Poulos 收购，强调「降低外国元素风险」",
+   "quote": "American Fibertek Proudly Continues 35 Year History of Manufacturing American Products and Mitigating Risks of Foreign Elements … wholly acquired by seasoned industry leader Donna Poulos",
+   "url": "https://www.prnewswire.com/news-releases/american-fibertek-proudly-continues-35-year-history-of-manufacturing-american-products-and-mitigating-risks-of-foreign-elements-301025706.html",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "首页：24-Port 2.5G RJ45 Switch with 10G SFP+ Port SP-SGT124S；Spacetronik LAN PoE & Fiber Optic Tester",
-    "官网：A complete range of technological, installation, and ergonomic solutions … Discover the world of the Spacetronik brand",
-    "表内：洪瑞的 贴了自己的 logo / 工商 Switch"
-  ],
-  "risks": [
-    "现 ODM 为 HRUI（Saga 供应商之一）：按 Q-33 口径不以 HRUI 同型号竞价，只推 SmartByte/Marvell 差异化线",
-    "自有品牌商店：价格基准低；1 次跟进无回复，无具名 KP（store@）"
-  ],
-  "saga_fit": {
-    "p1": "STC-28DGGPM",
-    "tier": 30,
-    "why": "现由 HRUI 代工贴 Spacetronik 标 → 按 Q-33 口径只推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 GE + 4×10G STC-424XGGM（$138.0）作差异化上位；不碰其 HRUI 现货型号"
+  {
+   "kind": "官网",
+   "claim": "AFI510 系列端口与 PoE 规格",
+   "quote": "510 Ethernet Switch Series Ethernet Ports: 8 Ports – 10/100/1000T(x), 16 Ports – 10/100/1000T(x), 22 Ports – 10/100/1000T(x) + 2 RJ45/SFP Combo Ports, 24 Ports – 10/100/1000T(x), 48 Ports – 10/100/1000T(x) SFP Ports: 2 Ports – 100/1000Fx SFP, 4 Ports – 100/1000/10G Fx SFP+ … PoE: 30W PoE+, No",
+   "url": "https://americanfibertek.com/products/afi510-series-8-16-24-48-port-ethernet-switches-poe-available/",
+   "date": "2024-08-16"
   },
-  "email_hook": "For the Spacetronik-branded switch range, we can add a Marvell-based tier above your current models — 8-PoE + 2 SFP L2+ and 24-GE + 4×10G L2+ — from small lots in your housing and packaging, CE/RoHS; which of the two would fit your catalogue first?",
-  "products_seen": [
-    {
-      "brand": "Spacetronik（自有）",
-      "model": "SP-SGT124S",
-      "spec": "24 口 2.5G + 10G SFP+",
-      "saga": "（Saga 24×2.5G 待核；近位 STC-424XGGM）",
-      "url": "https://spacetronik.pl/en/",
-      "date": "2026-10-21"
-    }
-  ],
-  "mail_review": {
-    "binding": {
-      "level": "未触达（A/S 邮箱 17 封 2024→2026，无记录打开，0 回；收件 store@spacetronik.eu；主题多为「10G Enterprise SFP Switch、Booster PoE Switch」）；Elsa 群发 BCC 已触达 2025-04-03「Marvell Alleycat5 Solution」（稿内无价，第 74 批(p) 已读稿），PL 批次 To biuro@zintronic.pl，0 回（第 74 批 Bcc 头核对 msg 195fa8e899dc2e6f）",
-      "type": "波兰自有品牌电子商店（交换机现由 HRUI 代工 → Q-33 口径）",
-      "sieve": "1（只收到群发）",
-      "stop": "17 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱；Q-33 供应商渠道客户",
-      "revive": "不动（Q-33）",
-      "lane": "PL 次级重点",
-      "cadence": "不动",
-      "evidence": "gmail_digest：out 17；用户表：「洪瑞的 贴了自己的logo；工商Switch」；研究档 risks：现 ODM 为 HRUI（Saga 供应商之一）：按 Q-33 口径不以 HRUI 同型号竞价，只推 SmartByte/Marvell 差异化线；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To biuro@zintronic.pl）本户见于 2025-04-03 名单；2026-09-01 最新一轮名单已不含此地址 → 中途被剔除（退信 / 退订 / 手工）"
-    },
-    "situation": "波兰 Spacetronik（自有品牌电子/安装/办公人体工学产品官方商店：24 口 2.5G + 10G SFP+ 交换机 SP-SGT124S、LAN PoE 与光纤测试仪、KVM、传感器；表内「HRUI（洪瑞）的，贴了自己的 logo；工商 switch」「质量一般」）；表内 1 次跟进无回复。",
-    "need": "现由 HRUI 代工贴 Spacetronik 标 → 按 Q-33 口径只推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 GE + 4×10G STC-424XGGM（$138.0）作差异化上位；不碰其 HRUI 现货型号",
-    "breakpoint": "现 ODM 为 HRUI（Saga 供应商之一）：按 Q-33 口径不以 HRUI 同型号竞价，只推 SmartByte/Marvell 差异化线",
-    "saga_now": {
-      "p1": "STC-28DGGPM",
-      "tier": 30,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-08 $65（10G media converter）、2024-12-05 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-19 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-20 $280（10G Enterprise SFP Switch）",
-      "why": "现由 HRUI 代工贴 Spacetronik 标 → 按 Q-33 口径只推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 GE + 4×10G STC-424XGGM（$138.0）作差异化上位；不碰其 HRUI 现货型号",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "不动",
-      "channel": "—",
-      "action": "—",
-      "one_question": ""
-    },
-    "facts": [
-      {
-        "date": "2025-04-03",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To biuro@zintronic.pl，PL 批次）",
-        "quote": "Marvell Alleycat5 Solution — We are doing Marvell Alleycat5 chip for tailored networking solutions. 1, Support Web GUI change(Logo, model name, MAC, SN, SNMP, OID) 2, Added intere",
-        "why": "Elsa 箱群发 BCC 触达证据（命中地址 spacetronik.eu, store@spacetronik.eu）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-        "k": "elsa_bcc"
-      },
-      {
-        "date": "2026-09-24",
-        "dir": "去",
-        "who": "A/S 群发",
-        "quote": "10G Enterprise SFP Switch、Booster PoE Switch",
-        "why": "17 封 / 0 次打开 / 0 回｜首封 2024-07-11 → 末封 2026-09-24（17 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "洪瑞的 贴了自己的logo；工商Switch",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-25"
+  {
+   "kind": "官网",
+   "claim": "24E/4SFP L2 管理机规格与「美国制造」叙事",
+   "quote": "24-10/100/1000Base-T PoE+ Ports 4 Dual Speed 100M/1G SFP Ports Console Port for CLI Management … Supports SNMP v1, v2c, v3 … American Fibertek is honored to create jobs for Americans at every step of the manufacturing process … SFP Ports: (4) 100/1G, (4) 10G",
+   "url": "https://americanfibertek.com/products/24-ethernet-4-sfp-port-layer-2-managed-switch/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "经销商网店",
+   "claim": "MX-6p 街价",
+   "quote": "MX-6p-PoE-2HP was $975.33 Special Price $753.00 … American Fibertek MX-6p-PoE-2HP Unmanaged 6-Port Ethernet Switch, (4) 10/100 PoE af & (2) SFP 1000 Ports",
+   "url": "https://www.surveillance-video.com/network-mx-6p-poe-2hp.html",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Donna Poulos",
+   "role": "President/Owner",
+   "email": "sales@americanfibertek.com（官网公开）",
+   "phone": "+1 800-323-0660",
+   "source": "https://www.americanfibertek.com/ ; https://www.zoominfo.com/c/american-fibertek-inc/1736750"
+  },
+  {
+   "name": "Tim Orselli",
+   "role": "来信署名人（职务未在邮件署名里出现）",
+   "email": "tim.orselli@americanfibertek.com",
+   "phone": "",
+   "source": "S/A 邮箱来信 2024-11-22 来信 1 封（第 72 批从邮件表头补）"
+  }
+ ],
+ "grade_override": "B",
+ "override_reason": "品牌定位是美国制造/BAA + 外采 TAA 合规（TAA 指定国不含中国大陆），SmartByte/HRUI/Hohunet 中国产整机无法进入其外采线；仅 SFP/电源等非 TAA 敏感配件有机会。B 慢跟：只在其主动询价时报配件。",
+ "notes": "INH 红线：TAA/UL；本客户是典型 TAA 冲突案例。",
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网交换机目录核对）"
+ },
+ "business_lines": [
+  "安防光传输（视频/数据/音频光端机）",
+  "以太网交换机（AFI510 系列 8/16/22/24/48 口，PoE+）与 L2 管理机",
+  "媒体转换器（MX-6p 系列 4 FE PoE + 2 SFP）"
+ ],
+ "products_seen": [
+  {
+   "brand": "American Fibertek",
+   "model": "AFI510 系列",
+   "spec": "8/16/22/24/48 口 10/100/1000T，2×100/1000 SFP 或 4×10G SFP+，PoE+ 30W 可选",
+   "url": "https://americanfibertek.com/products/afi510-series-8-16-24-48-port-ethernet-switches-poe-available/",
+   "date": "2024-08-16",
+   "saga": "STC-28DGGPM / STC-424DGGPM-280W / STC-448DGGPM"
+  },
+  {
+   "brand": "American Fibertek",
+   "model": "24 Ethernet/4 SFP L2 Managed Switch",
+   "spec": "24×GE PoE+ + 4×100M/1G SFP + 4×10G，Console/USB，SNMP v1/v2c/v3，802.1x，10K Jumbo，16K MAC",
+   "url": "https://americanfibertek.com/products/24-ethernet-4-sfp-port-layer-2-managed-switch/",
+   "date": "2026-10-21",
+   "saga": "STC-424XGGPM-280W（24 PoE+ + 4×10G SFP+）"
+  },
+  {
+   "brand": "American Fibertek",
+   "model": "MX-6p-PoE / MX-6p-FX-PoE / MX-6p-PoE-2HP",
+   "spec": "4×10/100 PoE af/at + 2×SFP（100M 或 1G），外接 48V；街价 $753–$783（surveillance-video.com）",
+   "url": "https://www.surveillance-video.com/network-mx-6p-poe-2hp.html",
+   "date": "2026-10-21",
+   "saga": "STI-144GP（4 PoE + 上联）/ STI-110GE"
+  }
+ ],
+ "signals": [
+  "官网同时强调「Manufactured in America」与「sourced TAA compliant」交换机 → 交换机为外购贴牌，存在 OEM 二供空间；但 TAA 合规要求原产地为指定国，中国大陆制造不满足 → 只能切非 TAA 商业渠道 SKU（如 MX-6p 价位极高，Saga 同功能成本仅其零头）"
+ ],
+ "risks": [
+  "TAA/BAA 合规叙事是其核心卖点，中国产交换机难进其联邦/政府线；需在二封前问清 UL/TAA（INH 规则）",
+  "1 次回复、21 次跟进，热度低"
+ ],
+ "saga_fit": {
+  "p1": "STC-424XGGPM-280W",
+  "tier": 30,
+  "why": "OEM 二供：其 24E/4SFP L2 管理机（24 PoE+ + 4×10G）对位 STC-424XGGPM-280W；MX-6p 价位（$753+）对位 STI-144GP/STI-110GE 成本优势巨大；仅限非 TAA 商业线；OEM 30% 档"
+ },
+ "email_hook": "For the non-TAA commercial side of the AFI line, a 24-port PoE+ switch with 4×10G SFP+ uplinks in AFI packing lands far below your current sourced cost; one question: is UL listing required on that SKU, or FCC alone?",
+ "mail_review": {
+  "binding": {
+   "level": "未绑定（2024-11 问 PoE++ 版 + 两款价格 → 给资料 → 无；研究档：TAA/UL 冲突户；Elsa 箱：`to:americanfibertek.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 25 / 来 1）（第 74 批(h)））",
+   "type": "美国品牌商（本土制造 + TAA 外采线）；Tim Orselli",
+   "sieve": "2",
+   "stop": "TAA/UL 要求（INH 红线）",
+   "revive": "不承诺 TAA/UL → 无复活路径",
+   "lane": "US",
+   "cadence": "2024-06 → 2026-09 去信 25 封；最后来信 2024-11-22",
+   "evidence": "k=1b4ccb2f0365c41d / 0bff4caab85195a3"
+  },
+  "situation": "Tim 2024-11-22 问「Do you have it in PoE++ as well? Send pricing for both」，Simon 11-23 发了报价单（STI-288GP $60 / STI-288DGGPM-2BT $60）+ 两份 datasheet；之后无回。AFI 的外采线要 TAA/UL（INH 红线），所以没有复活路径。",
+  "need": "8 口工业 PoE/PoE++（TAA）。",
+  "breakpoint": "TAA 边界。",
+  "saga_now": {
+   "p1": "无",
+   "tier": 30,
+   "price": "他见过的实报（2024-11-23 报价单）：STI-288GP $60；STI-288DGGPM-2BT 单上写 $60（疑漏改，正常锚 $110——再报时按 $110 并点明）；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-12-12 $300（48 Port PoE Managed Switch）、2025-10-29 $280（10G Enterprise SFP Switch）、2026-07-20 $1500（24 Port 10G SFP+ Switch）、2026-09-08 $170（24 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2024-06-25 $65（10g fiber media converter）",
+   "why": "不投入。已打开的主题（4/25 封有打开记录）：「8 Port Industrial PoE Switch」(2024-11-22)、「Re: 8 Port Industrial PoE Switch」(2024-11-23)、「90W PoE Managed Switch」(2025-02-07)、「Marvell Alleycat5 Solution」(2025-04-01) → 读者兴趣偏「工业」；与 P1 同类，继续",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动；建议移出群发",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2024-11-22",
+    "dir": "来",
+    "who": "Tim Orselli",
+    "quote": "Do you have it in PoE++ as well? Send pricing for both.",
+    "why": "唯一来信",
+    "k": "1b4ccb2f0365c41d"
+   },
+   {
+    "date": "2024-11-23",
+    "dir": "去",
+    "who": "Simon → Tim Orselli（Quotation.pdf + 2 份 datasheet，S 邮箱附件）",
+    "quote": "报价单两行：STI-288GP（2×GE SFP + 8×GE PoE af/at 240W，非管理，Marvell）$60；STI-288DGGPM-2BT（2×GE SFP + 8×GE，2 口 bt + 6 口 af/at，240W，L2+ 管理）**也写 $60**（同价——管理型 2BT 的正常锚是 $110，疑似报价单漏改）；validity 15 days；production 4~7 wd；warranty 3 years；Neutral device。",
+    "why": "Tim 11-22 问「Do you have it in PoE++ as well? Send pricing for both」→ Simon 次日给了两款价 → 之后无回；如再接触，2BT 管理型不能沿用 $60（口径 ㉕：以 Simon 自己的报价为先，但明显笔误要修正并说明）",
+    "k": "S 邮箱附件 `Quotation.pdf` sha=0ccb2821f784a2f3（2024-11-23）"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

@@ -1,0 +1,72 @@
+{
+ "code": "SC-062",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（milpower.com，快照 2026-10-21）",
+ "summary": "美国 Milpower Source, Inc.（军用电源 / PDU / 加固以太网交换机与路由，MIL-STD-810/461/1275/704，面向军事应用；表内「Ethernet Switch」）；群发 5 次无回复。",
+ "type": "军工制造商（军用电源与加固网络）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Milpower Source, Inc. | Rugged Military Power Supplies and Networking Solutions；品类词 安防监控（CCTV / 门禁） / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "Milpower Source military power supplies, power management units (PDU) and rugged Ethernet switches, routers and networking solutions for military applications. We design and develope MIL-Grade power supllies, VPX VITA 62, UPS, ethernet swit",
+   "url": "https://milpower.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "Ethernet Switch",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "军用电源、PDU 与加固以太网交换机/路由",
+   "quote": "Milpower Source military power supplies, power management units (PDU) and rugged Ethernet switches, routers and networking solutions for military applications.",
+   "url": "https://milpower.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "Ethernet Switch",
+   "quote": "Ethernet Switch",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "守界：美国军工制造商（军用电源与加固以太网，MIL-STD）；c_sub=守界：军工",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "美国",
+  "other": "官网 milpower.com，语言 en-us，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "军用电源 / PDU / 加固以太网交换机"
+ ],
+ "channels": {
+  "role": "军工制造商（军用电源与加固网络）",
+  "region": "美国",
+  "contact": "sales@milpower.com"
+ },
+ "signals": [
+  "官网：Rugged Military Power Supplies and Networking Solutions；MIL-STD-810 / 461 / 1275 / 704"
+ ],
+ "risks": [
+  "守界：军用电源与加固网络设备制造商，应用为军事"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 25,
+  "why": "军事应用（MIL-Grade）= 守界 → 改 C（与 SC-206 Enercon 同口径）"
+ },
+ "email_hook": "（不发送：军工守界）"
+}

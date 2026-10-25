@@ -1,66 +1,125 @@
 {
  "code": "SB-380",
- "name_official": "BTM Electronic（btmelectronics.com；联系人 Mehmet Karakoyunlu，Gmail）",
+ "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "身份不符",
- "summary": "ISAF 记录：Mehmet Karakoyunlu（mehmetkarakoyunlu@gmail.com，+90 532 352 48 95，WhatsApp 已加）——没做过多交谈；备注「可调查一下网站：电子消费品」；无跟进。核对：btmelectronics.com 名录归 Shalimar Electronics（巴基斯坦，+92 321 816 0009），土耳其另有同名无关公司（BTM 保温材料、BTM Teknoloji Balıkesir 等）。采购主体不明 → C（资料保留）。",
- "type": "",
+ "website_status": "在线（yellowbox.app，快照 2026-10-21）",
+ "summary": "澳大利亚 Yellowbox Co Pty Ltd（职场智能储物柜系统：柜体、管理软件、智能锁；阿里巴巴 RFQ「千兆 PoE Injector」；KP Adrian Brossard）；表内未跟进。",
+ "type": "智能储物柜系统商（澳大利亚，PoE 为配套）",
  "size": "",
  "brands_seen": [],
  "evidence": [
   {
-   "kind": "名录",
-   "claim": "域名归属",
-   "quote": "Shalimar Electronics's official website is www.btmelectronics.com … Phone number: +92 3218160009",
-   "url": "https://www.zoominfo.com/c/shalimar-electronics/1271784510",
+   "kind": "官网快照",
+   "claim": "官网标题：Smart Locker Systems for Workplaces | Yellowbox；品类词 工业自动化 / OT 网络 / 无线 / WiFi",
+   "quote": "Yellowbox is the leading smart locker system for modern workplaces and offices. Seamless locker access, management software and smart locker lock technology.",
+   "url": "https://yellowboxglobal.com/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "ISAF：未深谈；网站为消费电子",
-   "quote": "没做过多交谈，可调查一下网站 / 网站：电子消费品 / 90 53235 24895 已加",
+   "claim": "表内兴趣/备注",
+   "quote": "千兆PoE Injector / from: 阿里巴巴RFQ",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Yellowbox 定位",
+   "quote": "Smart Locker Systems for Workplaces | Yellowbox ; the leading smart locker system for modern workplaces",
+   "url": "https://yellowboxglobal.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "千兆 PoE Injector RFQ",
+   "quote": "千兆PoE Injector / from: 阿里巴巴RFQ",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
  "kp": [
   {
-   "name": "Mehmet Karakoyunlu",
-   "role": "（ISAF 名片；职务待核）",
-   "email": "mehmetkarakoyunlu@gmail.com（用户表）",
-   "phone": "+90 532 352 48 95（用户表，WhatsApp 已加）",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
+   "name": "Adrian Brossard",
+   "title": "（职务待核）",
+   "email": "contact@yellowbox.app",
+   "phone": "",
+   "source": "用户表"
   }
  ],
- "grade_override": "C",
- "override_reason": "行业外/主体不明：btmelectronics.com 在名录中归属巴基斯坦 Shalimar Electronics（+92）的消费电子站；联系人仅 Gmail；用户表亦注「网站：电子消费品」——无可核实的网络设备业务主体",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（域名核对 → 主体不明降 C）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "legal_name": "（待核）",
-  "hq": "（用户表：土耳其，+90 532）",
-  "size": "待核",
-  "other": "域名归属与联系人不一致"
+  "hq": "澳大利亚",
+  "other": "官网 yellowbox.app，语言 en-AU，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "消费电子（网站）"
+  "智能储物柜系统（澳大利亚）"
  ],
  "channels": {
-  "网站": "http://btmelectronics.com/（归属存疑）"
+  "role": "智能储物柜系统商（澳大利亚，PoE 为配套）",
+  "region": "澳大利亚",
+  "contact": "contact@yellowbox.app"
  },
  "signals": [
-  "需先在 WhatsApp 确认公司名与业务"
+  "官网：Yellowbox is the leading smart locker system for modern workplaces and offices. Seamless locker access, management software and smart locker lock technology；kw automation 10 / wireless 12",
+  "表内：千兆 PoE Injector / from: 阿里巴巴 RFQ；KP Adrian Brossard"
  ],
  "risks": [
-  "主体不明 → C"
+  "PoE 注入器品类 Saga 不供（Q-32）；非主攻区（T5，澳大利亚；RCM 由客户侧）；配套需求（量随项目）"
  ],
  "saga_fit": {
-  "p1": null,
-  "tier": 25,
-  "why": "主体确认前不推进"
+  "p1": "STI-054GP",
+  "tier": 30,
+  "why": "PoE 注入器 Saga 不供（Q-32）→ 储物柜控制器供电改用工业 4 PoE + 1 GE STI-054GP（$33.8 @30%）/ 商用 8 口 PoE+ 2 SFP STC-28DGGPM（$87.4）"
  },
- "email_hook": "（不主动发送）"
+ "email_hook": "Adrian, following your request for gigabit PoE injectors: we do not carry injectors, but a compact 4-PoE + 1 GE industrial switch (12–57 V input, 802.3at) or an 8-PoE + 2 SFP L2+ switch can power several locker controllers from one unit, from single units, CE/RoHS; RCM by your side — how many PoE drops does a typical locker bank need?",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「千兆PoE Injector / from: 阿里巴巴RFQ」；Elsa 箱：`to:yellowbox.app` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(n)））",
+   "type": "智能储物柜系统商（澳大利亚，PoE 为配套）",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "不动（非主攻区；J5：有证据再动）",
+   "lane": "澳大利亚 非主攻",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 0；用户表：「千兆PoE Injector / from: 阿里巴巴RFQ」；研究档 risks：PoE 注入器品类 Saga 不供（Q-32）；非主攻区（T5，澳大利亚；RCM 由客户侧）；配套需求（量随项目）"
+  },
+  "situation": "澳大利亚 Yellowbox Co Pty Ltd（职场智能储物柜系统：柜体、管理软件、智能锁；阿里巴巴 RFQ「千兆 PoE Injector」；KP Adrian Brossard）；表内未跟进。",
+  "need": "PoE 注入器 Saga 不供（Q-32）→ 储物柜控制器供电改用工业 4 PoE + 1 GE STI-054GP（$33.8 @30%）/ 商用 8 口 PoE+ 2 SFP STC-28DGGPM（$87.4）",
+  "breakpoint": "PoE 注入器品类 Saga 不供（Q-32）；非主攻区（T5，澳大利亚；RCM 由客户侧）；配套需求（量随项目）",
+  "saga_now": {
+   "p1": "STI-054GP",
+   "tier": 30,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "PoE 注入器 Saga 不供（Q-32）→ 储物柜控制器供电改用工业 4 PoE + 1 GE STI-054GP（$33.8 @30%）/ 商用 8 口 PoE+ 2 SFP STC-28DGGPM（$87.4）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "千兆PoE Injector / from: 阿里巴巴RFQ",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

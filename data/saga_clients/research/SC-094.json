@@ -1,0 +1,74 @@
+{
+ "code": "SC-094",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（vantrontech.us，快照 2026-10-21）",
+ "summary": "Vantron（vantrontech.us / .com；嵌入式 IoT 方案商：嵌入式板卡、一体面板 PC、工业网关，总部成都万创，美国为分支；表内「少量工业 FS 他们自己的标」）；群发 18 次无回复。",
+ "type": "中国厂商美国分支（嵌入式 IoT）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Embedded Industrial IOT Solutions | The Best IOT Solution Provider | Vantron；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 网络交换 / PoE",
+   "quote": "Vantron, as an embedded solutions provider, offers embedded IoT solutions, including embedded board, all in one panel pc, for industrial, communication and other applications.",
+   "url": "https://vantrontech.us/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "少量工业FS 他们自己的标",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "嵌入式 IoT 方案商（板卡、面板 PC）",
+   "quote": "Vantron, as an embedded solutions provider, offers embedded IoT solutions, including embedded board, all in one panel pc, for industrial, communication and other applications.",
+   "url": "https://vantrontech.us/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "少量工业 FS 自己的标",
+   "quote": "少量工业FS 他们自己的标",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "中国厂商海外分支（成都万创 Vantron 美国站），采购在国内；c_sub=中国厂商海外办事处",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "美国",
+  "other": "官网 vantrontech.us，语言 en，快照状态 ok；角色判定来源：用户表"
+ },
+ "business_lines": [
+  "嵌入式板卡 / 面板 PC / 工业网关"
+ ],
+ "channels": {
+  "role": "中国厂商美国分支（嵌入式 IoT）",
+  "region": "美国",
+  "contact": "sales@vantrontech.com"
+ },
+ "signals": [
+  "官网：Vantron, as an embedded solutions provider, offers embedded IoT solutions, including embedded board, all in one panel pc",
+  "站内型号 IBOX6425E / VT-SBC-IMX8MMN / EPC-R680E / RK3576"
+ ],
+ "risks": [
+  "中国厂商（成都万创）美国分支：采购在国内总部，非渠道客户",
+  "18 次无回复"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 25,
+  "why": "成都万创的美国分支：工业交换机贴标由其国内总部直接对接工厂，非 Saga 渠道客户 → 改 C"
+ },
+ "email_hook": "（不发送：中国厂商海外分支）"
+}

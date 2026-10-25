@@ -1,258 +1,187 @@
 {
   "code": "SB-178",
-  "name_official": "",
+  "name_official": "Allnet Sp. z o.o. Sp.k.（WISP.PL）",
   "researched_at": "2026-10-21",
-  "website_status": "在线（hfcl.com，快照 2026-10-21）",
-  "summary": "印度 HFCL（上市电信/光纤制造集团：光缆（fiber 250）、FTTH、数据中心、IO 网络品牌——24 口 L3 PoE/非 PoE 管理交换机产品页；表内「工业 FS 自己的 logo」，**有回复，回复里有详细联系方式**；KP Shantanu Rana（shantanu.kumar@）、iosales@）。",
-  "type": "印度上市电信制造集团（IO 自有标交换机，OEM 采购；有回复）",
+  "website_status": "在线（wisp.pl；并档 Planet 渠道档案 PB-065）",
+  "summary": "西里西亚 Bełk 一家 2–10 人的 WISP 设备网店（MikroTik VAD），PLANET 只剩工业 FE 款与媒体转换器，已主推中国品牌 Scodeno 工业交换机。类型：分销/电商（2003 年起的 WISP 设备网店；MikroTik Master Distributor + VAD；品牌 MikroTik / Ubiquiti / TP-Link / Tenda / Teltonika / Cudy / Solarix / StalFlex + Scodeno 工业交换机；PLANET 交换机 4 款 + 媒体转换器 4 款）。信号：wisp.pl 交换机类目 /k19,switche.html 品牌筛选「Producent Planet (4)」（≈350 款交换机里的边线品牌：Cisco / D-Link / MikroTik / Netgear / Tenda / TP-Link / Ubiquiti / Zyxel 为主）；媒体转换器类目 /k116 「Planet (4)」；产品页 ISW-621（工业 4×FE + 2×FX）、MC-RPS130（135,30 zł brutto，Dostępny）、VC-231（已停产，后继 VC-231G）；首页横幅推 Scodeno 工业交换机（中国品牌）。Planet 渠道档案 PB-065 评级 B（需求：PLANET 仅 4 款交换机 + 4 款媒体转换器，且主力为 MikroTik/Ubiquiti/TP-Link → PLANET 为边线、需求弱；但网店已主推 Scodeno 中国工业交换机 → 对 Saga 品类有真实需求；触达：sklep@wisp.pl 公开（第三方 MikroTik 经销商名录转载），无具名 KP；体量：2–10 人、MikroTik VAD → 可赢但单量小；Mikrotik 仓 A-380 已人工 A 且有邮箱 → 本仓并档，首触以 Mikrotik 仓库为准（INH 规则：Mikrotik A 有邮箱的并档行不从本仓发）→ B ★）。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-178，波兰，Saga 群发已推送 1 次无回复）与 Planet 渠道挖掘名单，首触邮件此前未发送。",
+  "type": "",
   "size": "",
   "brands_seen": [
-    "Ubiquiti"
+    "PLANET",
+    "TP-Link",
+    "Ubiquiti",
+    "MikroTik",
+    "Teltonika",
+    "Netgear",
+    "D-Link",
+    "Zyxel",
+    "Cisco",
+    "Cudy",
+    "Tenda"
   ],
   "evidence": [
     {
-      "kind": "官网快照",
-      "claim": "官网标题：HFCL - Leading Provider of Telecom and Networking Solutions；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 数据中心 / 企业 IT / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
-      "quote": "HFCL is a global leader in delivering innovative telecom and networking solutions, offering cutting-edge products and services for connectivity, communication, and digital transformation. Explore our range of solutions designed to drive bus",
-      "url": "https://www.hfcl.com/",
-      "date": "2026-10-21"
+      "kind": "官网",
+      "claim": "公司法务信息与 MikroTik 分销身份",
+      "quote": "Założony w 2003 roku sklep internetowy WISP.PL jest prowadzony przez firmę Allnet Sp. z o.o. Sp.k. z siedzibą przy ulicy Dębowej 2A w Bełku koło Rybnika… KRS: 0000379258… NIP: 642-315-64-22… Jesteśmy oficjalnym dystrybutorem firmy MikroTik. Posiadamy status: MikroTik Value Added Distributor",
+      "url": "https://www.wisp.pl/info.html",
+      "date": "2026-10-20"
     },
     {
-      "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "工业FS 自己的logo；回复里有详细联系方式",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
+      "kind": "官网",
+      "claim": "交换机类目品牌筛选含 PLANET 4 款（边线）",
+      "quote": "Switche … Producent … Planet (4) …（Cisco / D-Link / MikroTik / Netgear / Tenda / TP-Link / Ubiquiti / Zyxel）",
+      "url": "https://www.wisp.pl/k19,switche.html",
+      "date": "2026-10-20"
     },
     {
-      "kind": "官网快照",
-      "claim": "HFCL 定位与 IO 交换机",
-      "quote": "HFCL is a global leader in delivering innovative telecom and networking solutions, offering cutting-edge products and services for connectivity ; /products/detail/24-port-poe-l3-managed-switch",
-      "url": "https://www.hfcl.com/",
-      "date": "2026-10-21"
+      "kind": "官网",
+      "claim": "PLANET ISW-621 产品页",
+      "quote": "Planet ISW-621 … 4-portowy switch przemysłowy 10/100 + 2×100Base-FX",
+      "url": "https://www.wisp.pl/p1735,planet-isw-621.html",
+      "date": "2026-10-20"
     },
     {
-      "kind": "用户表",
-      "claim": "工业 FS 自己的 logo；有回复",
-      "quote": "工业FS 自己的logo；回复里有详细联系方式",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
+      "kind": "官网",
+      "claim": "PLANET MC-RPS130 在售（现货）",
+      "quote": "Planet MC-RPS130 … 135,30 zł brutto / 110,00 zł netto … Dostępność: Dostępny",
+      "url": "https://www.wisp.pl/p5758,planet-mc-rps130.html",
+      "date": "2026-10-20"
+    },
+    {
+      "kind": "官网",
+      "claim": "PLANET VC-231 已停产（后继 VC-231G）",
+      "quote": "Planet VC-231 … Model wycofany, następca: Planet VC-231G",
+      "url": "https://www.wisp.pl/p3515,planet-vc-231.html",
+      "date": "2026-10-20"
+    },
+    {
+      "kind": "官网",
+      "claim": "首页主推 Scodeno 工业交换机（中国品牌）",
+      "quote": "WISP.PL … MikroTik, Ubiquiti, TP-Link, Tenda, Teltonika, Cudy, Solarix, StalFlex … Scodeno switche przemysłowe",
+      "url": "https://www.wisp.pl/m242,scodeno.html",
+      "date": "2026-10-20"
+    },
+    {
+      "kind": "名录",
+      "claim": "体量",
+      "quote": "Wielkość firmy: 2–10 pracowników; Siedziba Bełk; Data założenia 2008; Master Distributor & VAD",
+      "url": "https://pl.linkedin.com/company/wisppl",
+      "date": "2026-10-20"
     }
   ],
-  "kp": [
-    {
-      "name": "Shantanu Rana",
-      "title": "（有回复，职务待核）",
-      "email": "shantanu.kumar@hfcl.com",
-      "phone": "",
-      "source": "用户表"
-    }
-  ],
+  "kp": [],
   "grade_override": null,
   "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
   "deep": {
     "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+    "level": "B 级加厚 v1（并档 Planet 渠道档案 PB-065，W 批次调研 2026-10-19/20）"
   },
   "company_facts": {
-    "hq": "印度",
-    "other": "官网 hfcl.com，语言 en，快照状态 ok；角色判定来源：用户表"
+    "legal_name": "Allnet Sp. z o.o. Sp.k.（WISP.PL）",
+    "founded": "",
+    "hq": "Bełk（Rybnik 附近，ul. Dębowa 2A）, 波兰",
+    "size": "",
+    "other": "Planet 渠道档案 PB-065（2026-10-20_W15_目录型矿脉_Mikrotik池反查_CZ-US-PL-FR-IT.json）；自有品牌：否；最大未知：Scodeno 进货渠道（直接进口还是经波兰代理）；PLANET 4 款是否只是长尾；谁负责选品（2–10 人，大概率老板）；Mikrotik 仓 A-380 首触是否已发（本仓不发）"
   },
   "business_lines": [
-    "光缆 / FTTH / 数据中心 / IO 网络设备（自有品牌）"
+    "分销/电商（2003 年起的 WISP 设备网店；MikroTik Master Distributor + VAD；品牌 MikroTik / Ubiquiti / TP-Link / Tenda / Teltonika / Cudy / Solarix / StalFlex + Scodeno 工业交换机；PLANET 交换机 4 款 + 媒体转换器 4 款）"
   ],
-  "channels": {
-    "role": "印度上市电信制造集团（IO 自有标交换机，OEM 采购；有回复）",
-    "region": "印度",
-    "contact": "shantanu.kumar@hfcl.com、iosales@hfcl.com"
-  },
-  "signals": [
-    "页面 /products/detail/24-port-poe-l3-managed-switch、/products/detail/24-port-l3-non-poe-switch、/insights/blogs/network-switches-for-bfsi-security-compliance",
-    "官网：HFCL is a global leader in delivering innovative telecom and networking solutions；kw fiber 250 / cable 192 / telecom 33",
-    "表内：回复里有详细联系方式；KP Shantanu Rana"
-  ],
-  "risks": [
-    "体量大（上市集团）：决策链长、BIS 认证与 SKD 本地化要求；仅二供/补位口径",
-    "**有回复**：详细联系方式在 Gmail 线程（s./a. 邮箱待导出核对）"
-  ],
-  "saga_fit": {
-    "p1": "STI-288GPM",
-    "tier": 30,
-    "why": "自有 IO 标工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ L3 工业 STI-448XGGGPM(L3)（$384.8）贴 IO 标；商用 24 口 L3 位 STC-424XGGPM-280W"
-  },
-  "email_hook": "Shantanu, following your reply: for the IO industrial switch line, we can supply Marvell-based DIN-rail 8-PoE + 2 SFP managed and 8-GE + 4×10G L3 units under your label from small lots (−40~75 °C, CE/RoHS; BIS/SKD route to be discussed) — which model would you evaluate first?",
   "products_seen": [
     {
-      "brand": "HFCL IO（自有标）",
-      "model": "24-port PoE L3 managed switch",
-      "spec": "24 口 PoE L3 管理",
-      "saga": "STC-424XGGPM-280W（商用）/ STI-448XGGGPM(L3)（工业）",
-      "url": "https://www.hfcl.com/products/detail/24-port-poe-l3-managed-switch",
-      "date": "2026-10-21"
+      "brand": "PLANET",
+      "model": "ISW-621",
+      "spec": "工业 DIN 4×FE + 2×100M SFP 非管理（PLANET 为固定 FX 口），同槽位",
+      "saga": "STI-240FE",
+      "url": "https://wisp.pl",
+      "date": "2026-10-19"
+    },
+    {
+      "brand": "PLANET",
+      "model": "MC-RPS130",
+      "spec": "媒体转换器机箱电源：Saga 无此品类，不硬凑",
+      "saga": "—",
+      "url": "https://wisp.pl",
+      "date": "2026-10-19"
+    },
+    {
+      "brand": "PLANET",
+      "model": "VC-231",
+      "spec": "VDSL2 转换器：Saga 无此品类，不硬凑",
+      "saga": "—",
+      "url": "https://wisp.pl",
+      "date": "2026-10-19"
     }
   ],
+  "channels": {
+    "role": "分销/电商（2003 年起的 WISP 设备网店；MikroTik Master Distributor + VAD；品牌 MikroTik / Ubiquiti / TP-Link / Tenda / Teltonika / Cudy / Solarix / StalFlex + Scodeno 工业交换机；PLANET 交换机 4 款 + 媒体转换器 4 款）",
+    "region": "波兰"
+  },
+  "signals": [
+    "WISP 网店已在卖中国工业交换机品牌 Scodeno（首页横幅主推）→ 对中国直供工业 DIN 导轨款没有心理门槛；PLANET 在它这里只剩 ISW-621 类工业 FE 款与媒体转换器 → Saga 工业 DIN 8×GE + 2×SFP 非管理（STI-280GE）正是 WISP 塔站/机柜的走量槽位，价位（$46.6 EXW）可与 Scodeno 同台",
+    "PLANET 侧预案（并档，不从本仓发）：工业 DIN 8+2 非管理 vs ISW-621/Scodeno；EXW",
+    "样机：1 台到 Bełk 做塔站测试"
+  ],
+  "risks": [
+    "Scodeno 进货渠道（直接进口还是经波兰代理）；PLANET 4 款是否只是长尾；谁负责选品（2–10 人，大概率老板）；Mikrotik 仓 A-380 首触是否已发（本仓不发）",
+    "Planet 首触邮件未发送（Elsa 账号待定）",
+    "Saga 群发已推送 1 次无回复 → 改用具名收件人与新钩子（勿再用群发模板）"
+  ],
+  "saga_fit": {
+    "p1": "STI-280GE",
+    "tier": 20,
+    "why": "其 PLANET 工业槽位为 ISW-621（4×FE + 2×FX 非管理，已属老款）且已主推 Scodeno 工业 GE 款 → WISP 塔站真正走量的是工业 DIN 8×GE + 2×SFP 非管理；直接对位 ISW-621 的 STI-240FE（$25.1）列为备选小单款；分销/网店 → 20%（沿用 Planet 档案 PB-065）；需求："
+  },
+  "email_hook": "Your industrial DIN-rail shelf already mixes PLANET (ISW-621 class) with Chinese-made Scodeno units; an 8-port Gigabit + 2 SFP industrial switch at EXW fits the WISP tower slot between the two on price and spec. For the industrial DIN-rail switches your WISP customers buy for towers, is the unmanaged 8×GE + 2×SFP the volume model, or do they still take Fast Ethernet units like the ISW-621?",
   "mail_review": {
     "binding": {
-      "level": "轻度触达→WhatsApp 线（Elsa 邮箱 6 来 5 去 2026-01-08 → 04-06：HFCL DGM Shantanu Rana 问 MII 60%，Elsa 答「SKD 起步 → CKD 深度本地化 → 软件/合规随项目推进」并附 STH100G 规格书 + 软件功能表 V2.4 + PeakNetX 性能 + CENTEC Web UI；04-05 Elsa 报工业 PoE 2 SFP + 4 PoE 非管理 120W $35/pc、附印度出货 AWB 与客户 WhatsApp 确认截图；04-06 对方要 WhatsApp，Elsa「My colleague Simon said hi on WhatsApp」→ 之后在 Simon 手机；S/A 邮箱 9 封 0 回)；Elsa 1:1 去信 3 轮 2026-04-03→2026-08-04（To 仅本户 shantanu.kumar@hfcl.com；头 msg 19fcb92717cd5e0a 核对无 Bcc，称呼「Hi, Shantanu」= 个性化逐月 1:1 名单；主题 Industrial PoE Switch、10G Enterprise SFP Switch、24 Port PoE Managed Switch；客户来过信：Elsa 回 2026-01-08 Re:「OEM Core Switching Solution」、2026-01-08 Re:「OEM Core Switching Solution」、2026-04-05 Re:「Industrial PoE Switch」、2026-04-05 Re:「Industrial PoE Switch」、2026-04-06 Re:「Industrial PoE Switch」、2026-04-06 Re:「Industrial PoE Switch」）（第 74 批(m) `from:e.sagatelecom to:` 全程 complete，直收 9 条）",
-      "type": "印度上市电信制造集团（IO 自有标交换机，OEM 采购；有回复）",
-      "sieve": "3（要价要证要 WhatsApp，但 MII 门槛未解）",
-      "stop": "2026-04-06 转 Simon WhatsApp 后邮件侧无记录；Elsa 5-11 / 8-04 仍按群发节奏发新品信",
-      "revive": "Simon 判断：MII 60% 做不到就一句话说清（不设印度组装）；能走「SKD + 印度伙伴组装」才值得继续",
-      "lane": "IN 次级（Simon 2026-08 点名）；但 HFCL 体量属「OEM 品牌商」首选序列（《背景信息》）",
-      "cadence": "季度",
-      "evidence": "gmail_digest：out 9；用户表：「工业FS 自己的logo；回复里有详细联系方式」；研究档 risks：体量大（上市集团）：决策链长、BIS 认证与 SKD 本地化要求；仅二供/补位口径；Elsa 邮箱 `data/gmail_e/text/`（Replied 线程，客户→Elsa 正文；Elsa 回复正文未入库）；Elsa 回复正文 2026-10-24 经 Gmail 连接器读取（msg 19b9ce96044d34d2 / 19d5dda75eb2844d / 19d5df7137413d07 / 19d61799606c69e0）"
+      "level": "未触达（A/S 邮箱 17 封 2024→2026，无记录打开，0 回；收件 artur@wisp.pl, sklep@wisp.pl；主题多为「10G Enterprise SFP Switch、24 Port PoE Managed Switch」）；Elsa 群发 BCC 已触达 2025-04-03「Marvell Alleycat5 Solution」（稿内无价，第 74 批(p) 已读稿），PL 批次 To biuro@zintronic.pl，0 回（第 74 批 Bcc 头核对 msg 195fa8e899dc2e6f）",
+      "type": "—",
+      "sieve": "1（只收到群发）",
+      "stop": "17 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱；Q-33 供应商渠道客户",
+      "revive": "不动（Q-33）",
+      "lane": "PL 次级重点",
+      "cadence": "不动",
+      "evidence": "gmail_digest：out 17；研究档 risks：Scodeno 进货渠道（直接进口还是经波兰代理）；PLANET 4 款是否只是长尾；谁负责选品（2–10 人，大概率老板）；Mikrotik 仓 A-380 ；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To biuro@zintronic.pl）本户见于 2025-04-03 名单；2026-09-01 最新一轮名单已不含此地址 → 中途被剔除（退信 / 退订 / 手工）"
     },
-    "situation": "印度 HFCL（上市电信/光纤制造集团：光缆（fiber 250）、FTTH、数据中心、IO 网络品牌——24 口 L3 PoE/非 PoE 管理交换机产品页；表内「工业 FS 自己的 logo」，**有回复，回复里有详细联系方式**；KP Shantanu Rana（shantanu.kumar@）、iosales@）。",
-    "need": "自有 IO 标工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ L3 工业 STI-448XGGGPM(L3)（$384.8）贴 IO 标；商用 24 口 L3 位 STC-424XGGPM-280W",
-    "breakpoint": "MII 60% 本地含量（印度公共采购口径）——Saga 无印度产能；只有 SKD/伙伴组装一条路，且偏离 C1「接口层」",
+    "situation": "西里西亚 Bełk 一家 2–10 人的 WISP 设备网店（MikroTik VAD），PLANET 只剩工业 FE 款与媒体转换器，已主推中国品牌 Scodeno 工业交换机。类型：分销/电商（2003 年起的 WISP 设备网店；MikroTik Master Distributor + VAD；品牌 MikroTik / Ubiquiti / TP-Link / Tenda / Teltonika / Cudy / Solarix / StalFlex + Scodeno 工业交换机；PLANET 交换机 4 款 + 媒体转换器 4 款）。信号：wisp.pl 交换机类目 /k19,switche.html 品牌筛选「Producent Planet (4)」（≈350 款交换机里的边线品牌：Cisco / D-Link / MikroTik / Netgear / Tenda /",
+    "need": "其 PLANET 工业槽位为 ISW-621（4×FE + 2×FX 非管理，已属老款）且已主推 Scodeno 工业 GE 款 → WISP 塔站真正走量的是工业 DIN 8×GE + 2×SFP 非管理；直接对位 ISW-621 的 STI-240FE（$25.1）列为备选小单款；分销/网店 → 20%（沿用 Planet 档案 PB-065）；需求：",
+    "breakpoint": "Scodeno 进货渠道（直接进口还是经波兰代理）；PLANET 4 款是否只是长尾；谁负责选品（2–10 人，大概率老板）；Mikrotik 仓 A-380 首触是否已发（本仓不发）",
     "saga_now": {
-      "p1": "STI-288GPM",
-      "tier": 30,
-      "price": "Elsa 2026-04-05 报 $35/pc（2 SFP + 4 PoE 非管理 120W）——低于 STI-244GP 列表价 $49.5；下次按 `$49.5 USD EXW（2026-10-17 快照，15 天有效）` 或 Simon 对 HFCL 的量价另定；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-13 $65（10G media converter）、2024-11-19 $300（48 Port PoE Managed Switch）、2024-12-16 $240（24 Port Fiber Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-05-11 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2026-05-11；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-08-04 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-04；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
-      "why": "自有 IO 标工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ L3 工业 STI-448XGGGPM(L3)（$384.8）贴 IO 标；商用 24 口 L3 位 STC-424XGGPM-280W",
+      "p1": "STI-280GE",
+      "tier": 20,
+      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-05 $300（48 port switch）；群发里他已看到的价（续）：2026-10-04 $180（24 Port PoE Managed Switch = STC-424XGGPM-280W，Alan 2026-09-21 起的现价轮）——同款信稿只能写 $180；群发里他已看到的价（续）：2026-08-20 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-20 $280（10G Enterprise SFP Switch）",
+      "why": "其 PLANET 工业槽位为 ISW-621（4×FE + 2×FX 非管理，已属老款）且已主推 Scodeno 工业 GE 款 → WISP 塔站真正走量的是工业 DIN 8×GE + 2×SFP 非管理；直接对位 ISW-621 的 STI-240FE（$25.1）列为备选小单款；分销/网店 → 20%（沿用 Planet 档案 PB-065）；需求：",
       "repeat": [],
       "gaps": []
     },
     "next_move": {
-      "when": "2026-11（Simon 先定 MII 口径）",
-      "channel": "WhatsApp（Simon，对方 2026-04-06 要求）+ Elsa 邮箱存档",
-      "action": "首封前知悉：Elsa 已 1:1 去信 3 轮（2026-04-03→2026-08-04，客户回过信（2026-01-08、2026-01-08、2026-04-05、2026-04-05、2026-04-06、2026-04-06））（第 74 批(m)）；一句话定调",
-      "one_question": "Shantanu — on MII: SKD kits assembled by an Indian partner is the only route we can support (no Saga plant in India); which HFCL programme is this for, and what local-content percentage does that tender actually score?"
+      "when": "不动",
+      "channel": "—",
+      "action": "—",
+      "one_question": ""
     },
     "facts": [
       {
-        "date": "2023-12-13",
-        "dir": "备",
-        "who": "Saga 内部印度线索表 List_2023.12.13.xlsx（存于 Fastball/Rishi 文件夹）",
-        "quote": "名单行：「85 https://io.hfcl.com/products/industrial-access-switch 印度 谷歌 商业FS 工业FS iosales@hfcl.com」",
-        "why": "Saga 自己的线索表里对本户的一手备注（来源/兴趣点/是否已加 WhatsApp/展会现场对话）——比群发打开率更硬的证据；写下一封邮件时直接引用这里的兴趣点",
-        "k": "Drive PI 文件夹 2_印度_Rishi"
+        "date": "2025-04-03",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To biuro@zintronic.pl，PL 批次）",
+        "quote": "Marvell Alleycat5 Solution — We are doing Marvell Alleycat5 chip for tailored networking solutions. 1, Support Web GUI change(Logo, model name, MAC, SN, SNMP, OID) 2, Added intere",
+        "why": "Elsa 箱群发 BCC 触达证据（命中地址 sklep@wisp.pl, wisp.pl）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+        "k": "elsa_bcc"
       },
       {
-        "date": "2025-03-03",
+        "date": "2026-10-04",
         "dir": "去",
         "who": "A/S 群发",
-        "quote": "Marvell Alleycat5 Solution、poe managed switch",
-        "why": "9 封 / 0 次打开 / 0 回｜首封 2024-06-17 → 末封 2025-03-03（9 去 / 0 来）",
+        "quote": "10G Enterprise SFP Switch、24 Port PoE Managed Switch",
+        "why": "17 封 / 0 次打开 / 0 回｜首封 2024-07-10 → 末封 2026-10-04（17 去 / 0 来）",
         "k": "gmail_digest"
-      },
-      {
-        "date": "2026-01-08",
-        "dir": "来",
-        "who": "Shantanu Rana（HFCL, DGM Key Strategic Accounts）",
-        "quote": "How we will handle MII 60 percent. … Pls guide how we will achieve MII and share Datasheet also.",
-        "why": "Make-in-India 60% 本地含量是 HFCL 采购的硬门槛——这不是价格问题，是「能否在印度组装/贴牌」的结构问题（C10 边界：Saga 不设厂）",
-        "k": "gmail_e"
-      },
-      {
-        "date": "2026-01-08",
-        "dir": "去",
-        "who": "Elsa",
-        "quote": "About MII 2.1 Start with SKD units for initial testing 2.2 Progress to CKD if deeper localization is needed … Are you doing your own brand or just introducing some certain models for local projects?（附 STH100G Series.pdf / Saga Software Function List_EN_V2.4.pdf / Performance of PeakNetX Platform_EN_V3.1.pdf / CENTEC WEB UI.jpg）",
-        "why": "Saga 对 MII 的正式口径 = SKD→CKD；这是对 HFCL 的承诺边界，Simon 需确认是否真能做 SKD",
-        "k": "gmail_e 19b9ce96044d34d2"
-      },
-      {
-        "date": "2026-01-08",
-        "dir": "去",
-        "who": "Elsa",
-        "quote": "We understand that MTCTE (TEC) certification is mandatory for commercial deployment in India. Typically, TEC certification is handled by the local Indian entity. From our side as the OEM, we can fully support the certification process by providing the required technical documentation, test support, and version control… To achieve MII 60%, our usual approach is: Start with SKD / Move to CKD / Gradually increase localization… 3.1 Whether you can handle import procedures for complete units, SKD, and CKD 3.2 Your current thoughts or plans regarding MII implementation",
-        "why": "Elsa 第一封（16:45）把 TEC/MTCTE 归印度实体办、Saga 出技术文件 + 版本控制——这是对 HFCL 的书面承诺边界，信稿「what we can / cannot do」要与之一致",
-        "k": "gmail_e 19b9cc89605f3b64"
-      },
-      {
-        "date": "2026-04-03",
-        "dir": "来",
-        "who": "Shantanu Rana",
-        "quote": "Manufacturing country- Price- Model number IPR- Kindly share details",
-        "why": "四件套问法 = 真实采购评估清单",
-        "k": "gmail_e"
-      },
-      {
-        "date": "2026-04-03",
-        "dir": "out",
-        "who": "Elsa → shantanu.kumar@hfcl.com",
-        "quote": "Industrial PoE Switch（Elsa 1:1 逐月名单第 1/3 轮；To 仅本户）",
-        "why": "第 74 批(m) `from:e.sagatelecom to:shantanu.kumar@hfcl.com` 全程 complete：3 轮直收；客户曾来信（见 Re: 行）",
-        "k": "elsa_1to1",
-        "msg_id": "19d52243cab611e5"
-      },
-      {
-        "date": "2026-04-05",
-        "dir": "来",
-        "who": "Shantanu Rana",
-        "quote": "if it is imported to India in latest, can we have the PO for reference and the proof of selling.",
-        "why": "要印度进口先例（Saga 有 Sundar Techno 3 张 PI、Apollo 等印度往来可作 proof，但需 Simon 决定是否出示）",
-        "k": "gmail_e"
-      },
-      {
-        "date": "2026-04-05",
-        "dir": "去",
-        "who": "Elsa",
-        "quote": "Manufacturing country: China Price: 35USD/PC industrial PoE Switch 2*Gigabit SFP+4*10/100/1000M RJ45, POE af/at, 120W, Unmanaged, Support DIP, DC44V~DC57V",
-        "why": "对 HFCL 报的是 STI-244GP 级（列表价 $49.5）→ $35 低于列表价，属老汇率/低价口径",
-        "k": "gmail_e 19d5dda75eb2844d"
-      },
-      {
-        "date": "2026-04-05",
-        "dir": "去",
-        "who": "Elsa",
-        "quote": "we have supplied this product to India recently … no formal PO … we can provide shipping document and proof of delivery（附 AWB.png / Whatsapp Talk.png）",
-        "why": "印度先例证明已给（AWB + 客户 WhatsApp 截图）",
-        "k": "gmail_e 19d5df7137413d07"
-      },
-      {
-        "date": "2026-04-06",
-        "dir": "来",
-        "who": "Shantanu Rana",
-        "quote": "Can you text me on wats app",
-        "why": "对方把渠道切到 WhatsApp → 之后仓库失明；Elsa 的回复正文未入库",
-        "k": "gmail_e"
-      },
-      {
-        "date": "2026-04-06",
-        "dir": "去",
-        "who": "Elsa",
-        "quote": "My colleague Simon said hi on WhatsApp.",
-        "why": "渠道交接点：此后进展只在 Simon 手机",
-        "k": "gmail_e 19d61799606c69e0"
-      },
-      {
-        "date": "2026-05-11",
-        "dir": "out",
-        "who": "Elsa → shantanu.kumar@hfcl.com",
-        "quote": "10G Enterprise SFP Switch（Elsa 2026 年 1:1 名单重发；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
-        "why": "本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无）",
-        "k": "elsa_1to1",
-        "msg_id": "19e15f15c32be6ea"
-      },
-      {
-        "date": "2026-08-04",
-        "dir": "out",
-        "who": "Elsa → shantanu.kumar@hfcl.com",
-        "quote": "24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 3/3 轮；To 仅本户；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f）",
-        "why": "第 74 批(m) `from:e.sagatelecom to:shantanu.kumar@hfcl.com` 全程 complete：3 轮直收；客户曾来信（见 Re: 行）",
-        "k": "elsa_1to1",
-        "msg_id": "19fcb92717cd5e0a"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "工业FS 自己的logo；回复里有详细联系方式",
-        "why": "表内备注",
-        "k": "用户表"
       }
     ],
-    "proof_gaps": [
-      "WhatsApp 之后（2026-04-06 →）的进展只在 Simon 手机",
-      "SKD/CKD 能力承诺是否得到 SmartByte/HRUI 支持未核"
-    ],
-    "draft_en": {
-      "subject": "MII / local content — what we can and cannot do",
-      "body": "Dear Shantanu,\n\nAfter our April exchange (industrial PoE at $35, AWB and delivery proof for India) the thread moved to WhatsApp with Simon. One point deserves a written answer: Make-in-India content.\n\nWhat we can do: ship SKD kits for assembly by an Indian partner and progress to CKD as volumes justify it; firmware and web GUI under HFCL branding. What we cannot do: claim a Saga plant in India or certify a local-content percentage ourselves.\n\nOne question: which HFCL programme is this for, and what local-content percentage does that tender actually score? With that number we can tell you honestly whether the SKD route gets you there.\n\nBest regards,\nElsa\nSaga Telecom - sagatele.com"
-    },
-    "as_of": "2026-10-24"
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-25"
   }
 }

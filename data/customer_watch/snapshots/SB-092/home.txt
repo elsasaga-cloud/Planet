@@ -1,151 +1,365 @@
-# SB-092 skeo.ru · home · https://skeo.ru/ · fetched 2026-10-25T07:41:18Z · HTTP 200
-СКЕО - оборудование связи.
-i
-≡
-Уплотнение ВОЛС
-CWDM
-CWDM мультиплексоры
-CWDM модули OADM
-Оптические фильтры CWDM
-Оптические модули CWDM
-DWDM Оптические фильтры DWDM
-Оптические циркуляторы
-Оптические фильтры FWDM
-Сварочное оборудование
-Аппараты для сварки волокон
-Скалыватели оптических волокон
-Электроды
-Ножи скалывателей
-Инструменты
-Оптические модули
-1 - 10 Гбит/с
-Модули SFP
-Модули SFP+
-Модули XFP
-Модули X2
-Модули XENPAK
-Модули GBIC
-40 - 400 Гбит/с
-Модули QSFP+
-Модули QSFP28
-Модули CFP
-Другие соединения
-Кабели Direct-attach
-Медиаконвертеры
-Конвертеры трансиверов
-Пассивные компоненты
-Оптические делители
-Планарные делители
-Сварные делители
-Сплиттерные модули и УСМ
-Оптические кроссы
-Оптические патчкорды
-Пигтейлы оптические
-Розетки оптические Аттенюаторы оптические Трубки термоусадочные КДЗС
-Измерительные приборы
-Рефлектометры OTDR Источники оптического излучения Измерители оптической мощности Идентификаторы излучения Визуализаторы повреждений
-Оборудование PON
-Оборудование EPON
-Оборудование GPON
-Абонентские розетки и боксы
-Сплиттеры
-Дроп-кабель
-Монтаж ВОЛС
-Оптические муфты
-Крепеж оптического кабеля
-Инструменты для монтажа
-Оптический кабель
-Сетевое оборудование
-IPTV приставки
-8 800 511-09-28
-Санкт-Петербург
-Москва
-Ростов-на-Дону
-Фермское шоссе, д.32
-+7 812 200-89-90
-Время работы -
-sales@skeo.ru
-напишите нам e-mail!
-Информация
-О компании
-Новости
-Статьи и материалы
-Вакансии
-Поиск по сайту
-Услуги
-Сервис сварочных аппаратов
-Поверка оборудования
-Спектральное уплотнение
-OEM производство
-Контакты
-Каталог
-Сварочное оборудование
-Оборудование для монтажа кабелей в волокнно-оптических линиях связи
-Уплотнение ВОЛС
-Спектральное уплотнение линий связи и другие методы увеличения эффективности ВОЛС
-Пассивные компоненты
-Оптические компоненты для коммутации оборудования, тестирования линий и производства оптических устройств
-Оптические модули
-Оптические модули (трансиверы) всех форм-факторов и для оборудования любых типов.
-Сетевое оборудование
-Телекоммуникационное оборудование для организации каналов передачи данных
-Измерительные приборы
-Оборудование для измерения параметров оптических линий и поиска неисправностей ВОЛС
-Оборудование PON
-Оборудование для организации пассивных оптических сетей доступа с применением технологий GPON и GEPON
-Монтаж ВОЛС
-Материалы и компоненты для строительства волоконно-оптических линий связи.
-Новости
-﻿
-5G приближается, и он усилен оптоволокном
-Николай Петров / 16 февраля 2021
-Бесчисленные новые беспроводные передатчики будут передавать все эти данные на ваш телефон, и многие из них будут подключаться к Интернету через бесконечные мили нового оптоволоконного кабеля .
-Читать далее
-Fujitsu вносит свой вклад в разработку TIP OOPT Phoenix 400G в области разукрупненных транспондеров
-Николай Петров / 16 февраля 2021
-Платформа Phoenix 1RU будет представлять собой транспондер уровня 0/1, основанный на дезагрегированных аппаратных и программных компонентах.
-Читать далее
-MKS Instruments подает заявку на участие в конкурсе в нарушение соглашения о продаже Lumentum
-Николай Петров / 16 февраля 2021
-Правление Coherent заявляет, что не полностью оценило достоинства нового предложения, но изучило его достаточно, чтобы определить, что это предложение потенциально соответствует критериям «превосходного предложения».
-Читать далее
-Одноволновый оптический трансивер 100G DWDM PAM4 QSFP28 Alpine Optoelectronics в стадии бета-тестирования.
-Николай Петров / 16 февраля 2021
-В приемопередатчике используется оптический механизм nCP4 Silicon Photonics Optical Engine, запатентованная платформа модулятора кремниевой фотоники PAM4, разработанная Alpine Optoelectronics.
-Читать далее
-Модем Qualcomm Snapdragon X65 может похвастаться пиковой пропускной способностью 10 Гбит/с
-Николай Петров / 11 февраля 2021
-Qualcomm начала опробовать свое четвертое поколение модемно-радиочастотной системы Snapdragon X65 5G
-Читать далее
-China Mobile Shanghai и Huawei развертывают внутреннюю сеть 5G на частоте 4,9 ГГц
-Николай Петров / 11 февраля 2021
-China Mobile Shanghai и Huawei развернули первую в мире коммерческую сеть LampSite
-Читать далее
-Перейти в раздел Новости
-Обновления в статьях
-﻿
-Isotropic привлекает 40 миллионов долларов на коммерциализацию уникальной в своем роде многолучевой спутниковой антенны
-Николай Петров / 12 февраля 2021
-Isotropic Systems, стартап из Рединга, Великобритания, объявил о выделении более 40 миллионов долларов на разработку своих многолучевых антенн.
-Читать далее
-Новое оптическое волокно вносит существенные улучшения в световые гироскопы
-Николай Петров / 18 января 2021
-Новая технология, позволяющая создать более точные и компактные навигационные системы для самолетов, беспилотных транспортных средств, а также для наземной и морской навигации.
-Читать далее
-Лидер отрасли в области решений для защиты от DDoS-атак одобрил трансиверы Vitex 40G
-Николай Петров / 12 января 2021
-Компания Vitex LLC, ведущий поставщик оптоволоконных трансиверов, объявила сегодня, что ее трансиверы 40G LR4 PSM были протестированы и допущены к развертыванию лидером отрасли в области распределенных сетей.
-Читать далее
-Перейти в раздел Статьи
-ВВЕРХ
-Поставки оборудования
-Услуги
-Доставка оборудования
-Гарантии
-Материалы
-Ограничение ответственности
-Конфиденциальность
-Подпишитесь на новости:
-2010-2026 © SKEO - российский производитель и поставщик оборудования
-Права на материалы сайта защищены законом РФ № 5351-1 от 09.07.1993 г.
-Использование материалов сайта без согласия правообладателей незаконно
+# SB-092 spacetronik.pl · home · https://spacetronik.pl/en/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+Spacetronik.pl - Official Brand Store | Electronics & Technology.
+Ergoline Smartline
+Log in
+0
+Shopping list 0
+0,00 €
+See also
+Close
+Language pl
+de
+en
+cs
+sk
+Prices in zł (1 € = 4.3039zł)
+€
+Kč (1 € = 24.3021Kč)
+$ (1 € = 1.1305$)
+Country of collecting the order Austria
+Belgium
+Bułgaria
+Croatia
+Czechy
+Denmark
+Estonia
+Finland
+France
+Greece
+Italy
+Lithuania
+Łotwa
+Luksemburg
+Netherlands
+Niemcy
+Poland
+Portugal
+Republic of Ireland
+Rumunia
+Slovenia
+Słowacja
+Spain
+Sweden
+Węgry
+Ergoline Smartline
+Apply changes
+It Will Be Dark Soon
+Audio and Video Satellite TV Terrestrial antennas
+Coaxial Cables
+Connectors and Adapters
+Antenna Amplifiers and Power Supplies
+TV-SAT Signal Meters
+Multiswitches
+Antenna Signal Splitters
+Antenna brackets
+Multimedia enclosures
+TV Decoders
+Smart TV Remote Controls
+Modulators
+Signal Combiner
++ Show all
+Cables and Adapters HDMI to HDMI Cables
+USB-C to HDMI Cables
+DP to DP Cables
+DisplayPort to HDMI Cables
+USB Cables
+USB Hubs & Multiports
+USB Switches
+USB Adapters
+Video Adapters
+Audio Jack Adapters
+Card and Drive Readers
++ Show all
+AV Transmission HDMI Amplifiers
+HDMI Combiners
+HDMI Splitters
+HDMI Matrix Switches
+Multi-view HDMI
+HDMI Wall Controllers
+DP Splitters
+Audio Transmitters
+AV Converters HDMI Signal Transmission
+SCART HDMI Converters
+KVM Switches
+HDMI Grabbers
+Audio Extractors
+Audio Signal Converters
+Multimedia and Peripherals Monitors
+Portable Monitors
+Projection screens
+Magnetic Boards
+Projection Sets
+Voice Amplifiers
+Webcams
+Keyboards and mice
+Microphones
+Power Strips
+Wall Chargers
+Floor Sockets
+Furniture Power Sockets
+Cleaning and Maintenance
++ Show all
+LAN and GSM Network devices Routers
+Switches
+Access points
+Print Server
+Network cards
+Starlink Starlink-Halterungen
+Starlink Stromversorgungen & Adapter
+Starlink-Kabel und -Drähte
+Schutz der Ausrüstung
+LAN Cabling RJ45 Patch Cables
+RJ45 Extension Cables
+Twisted Pair Network Cables
+Plug Crimpers
+RJ45 Plugs
+Toolless RJ45 Plugs
+LAN and Fiber Optic Testers
+RJ45 Plug Boots
+Console Cables
+Fiber Optic Installations
+GSM Network LTE and Wi-Fi Antennas
+GSM Cables
+Konektory GSM
+GSM Connectors
+19" Rack Cabinets and Systems Rack Cabinets
+Rack Stands and Frames
+Rack Shelves and Drawers
+Patch Panele
+Cable Organizers
+Blanking Plates and Panels
+Cooling and Accessories
+Keystone Connectors
+Mounts Monitor Mounts Single Monitor Mounts
+Mounts for 2 Monitors
+Mounts for 3 Monitors
+Mounts for 4 Monitors
+Monitor and Laptop Mounts
+Wall Monitor Mounts
+Pegboard with Monitor Mount
+Monitor Legs
+Monitor Mount Accessories
+TV Mounts Wall TV Mounts
+Ceiling TV Mounts
+Outdoor TV Mounts
+Built-in TV Frames
+External TV Enclosures
+TV Shelves
+VESA Adapters
+Mobile and Presentation Mounts Floor Monitor Stands
+POS Sales Holders
+Projector Mounts
+Anti-theft Mounts
+Tablet and phone mounts Desk Stands and Holders
+Floor stands
+Car mounts
+Selfie Stick
+Peripheral mounts Microphone mounts
+Keyboard Mounts
+Headphone Mounts
+PC Computer Mounts
+Laptop Mounts
+Power Strip Holders
+Speaker mounts
+Home and garden Sensors and detectors Smoke detectors
+Gas sensors
+Carbon monoxide detectors
+Climate sensors
+Water leak sensors
+Sensor Sets
+Lighting Desk lamps
+Floor lamps
+Ceiling lamps
+Ambient lamps
+Bedside lamps
+Outdoor Lamps
+Under-cabinet lights
+Workshop and Garage Space Organization
+Electrical and Diagnostics
+Specialist Tools
+Endoscope Cameras
+Measuring Tools
+Cable Ties
+Gadgets
+Utility items Ozone Generators
+Massagers
+Fans
+Smart LED Pots
+Office Treadmills
+Bathroom Scales
+Vacuum Cleaners
+Smart Home DiO Video Intercoms
+Kinetic Doorbells
+DIN Rail Power Supplies
+For Pets
+Tuya Devices
+Zigbee light switches
+Monitor and TV Lighting
+For the Garden
+IR Remotes
+Furniture and equipment Desks and frames Electric height-adjustable desks
+Manually adjustable desks
+Folding desks
+Loft desks
+Electrically adjustable tables
+Electric adjustable frames
+Simracing frames
+Manually adjustable frames
+Desk tabletops
+Ergonomic chairs and armchairs Ergonomic office chairs
+Conference armchairs
+Lounge & Work
+Sit & Stand Armchairs
+Active chairs
+Recliner chairs
+Office chairs
+Chair accessories
+Protective floor mats
+Children's and Youth Furniture Children's desks
+Children's chairs
+Swivel Chairs for Children
+Sofas and armchairs for children
+Children's tables
+Children's Desk Accessories
+Wooden desks and chairs for children
+Shelves for children
+Children's sets
+Home furniture Shelving units and cabinets
+Coffee and Side Tables
+Adjustable tables
+Beds and Sofas
+Storage Poufs
+Wall Shelves
+Kitchen Island Chairs
+Storage and organization
+Infusion stands
+Parcel and letter boxes
+Workplace ergonomics Ergonomic sets
+Perforated boards
+Desk stands
+Desk shelves
+Under-Desk Drawers
+Drawer fronts
+Cable covers and organizers
+Under-desk cabinets
+Recovery zone
+Acoustic and privacy booths
+Shopping lists 0
+Back Shopping lists
+Shopping list number of products: 0
+Manage your lists
+List of purchased products
+How does a shopping list work?
+Once logged in, you can place and store any number of products on your shopping list indefinitely.
+Adding a product to your shopping list does not automatically mean you have reserved it.
+For non-logged-in customers the shopping list is stored until the session expires (about 24h).
+Menu
+Account
+Settings
+Log in Register Check order status
+Popular categories
+Architect lamp
+See all →
+Terrestrial antennas
+See all →
+Furniture sockets
+See all →
+Networking devices
+See all →
+Projection screens
+See all →
+Microphone mounts
+See all →
+Next-generation workstation
+When space supports your process, completing tasks becomes intuitive.
+Smart Smoke, Gas and Carbon Monoxide Sensor Set
+Modern design
+Safety certificates
+Device synchronization
+Shop now
+24-Port 2.5G RJ45 Switch with 10G SFP+ Port SP-SGT124S
+Spacetronik switch featuring 2.5G RJ45 ports and an SFP+ uplink.
+View offer
+Spacetronik LAN PoE & Fiber Optic Tester
+Advanced cable tracking and length measurement features in the Spacetronik SP-LTD8.
+Check details
+It’s about to get dark
+Sale: 23.10,  – 13.11,
+Check it out
+Beat the autumn blues!
+Promo: Oct 13 () – Nov 3 ()
+Check it out
+News
+View all
+2026-10-14
+Video mixer for streaming - which one to choose? Review of Spacetronik new products for streamers and video creators
+Planning to take your streaming to the next level, but don't know how to manage several cameras at once? A professional video mixer is the key to smooth live broadcasts. Discover the latest proposals from Spacetronik that will make your work easier and impress your viewers. Check out our review and choose the perfect equipment for you!
+Read more
+2026-09-01
+Fast and convenient charging on the road: Modern car chargers with cable
+Planning a longer car trip and worried about a discharged phone or laptop? Modern car chargers with a built-in cable are the ideal solution that will give you peace of mind and a full battery throughout the journey. Find out how to choose a model with the right power output that will quickly and safely charge several devices at the same time. Check out our overview and travel stress-free!
+Read more
+2026-07-07
+Starlink on Wizz Air from 2027: a revolution in communication and new challenges for remote work
+Wizz Air will join the group of airlines offering Starlink from 2027. What does this mean for your travels? Get ready for a revolution in access to the internet on board an aircraft. Discover how a fast and stable connection will change your flying experience, ensuring comfort for work and entertainment at altitude.
+Read more
+2026-07-01
+A rainbow-colored revolution for your office: Spacetronik SPC-CLOUD chairs
+Transform your office into a space full of energy and style! Discover Spacetronik SPC-CLOUD chairs, which combine ergonomic design with a wide palette of colors. Enjoy work comfort all day long by choosing a model perfectly suited to your needs and decor. See how the colors of the rainbow can transform your workplace!
+Read more
+2026-06-16
+Smart home protection: multifunctional 3-in-1 security sensor
+Take care of your home’s safety in a smart way! Discover the multifunctional 3-in-1 sensor that combines three key protection functions. Find out how easily you can monitor your home and protect your loved ones from threats. Click and discover peace of mind!
+Read more
+2026-05-19
+MOSO bamboo desktop: Style and durability in your office [Trends 2026]
+Discover why MOSO bamboo desktops are the perfect combination of style and durability for your office. Explore the latest 2026 trends and learn how these eco-friendly desktops will transform your workspace. Perfect for the home, office, or study – they provide durability and aesthetics. See how Spacetronik desktops fit into modern arrangements.
+Read more
+2026-05-15
+New Spacetronik PoE switches and extenders 2026 – How to expand monitoring cheaply?
+Discover the latest solutions in PoE technology that are revolutionizing the powering of network devices. We present new switch and extender models, analyzing their key parameters and innovative features. Find out how to choose the ideal device for your network and what possibilities these advanced technologies open up for you. Don't miss the future of Power over Ethernet!
+Read more
+2026-04-21
+How does an electric sofa with a relaxation function work? Discover our new products (Power Sleeper Flax)
+Discover a new dimension of comfort with electric sofas with a relaxation function! We present the innovative FLAX series, which combines modern design with unmatched comfort. Perfect for any interior – from a city apartment to a summer cottage. Discover one-, two-, and three-seater models that will transform your relaxation.
+Read more
+More than a screen - a full experience
+Discover a clearer, brighter and larger image on Spacetronik screens
+View offer
+Ergonomics for every day - work without back pain
+Choose ergonomic office chairs - adjustment, lumbar support and comfort for the entire working day
+View offer
+VIDEOS
+See all
+Spacetronik Glow Office Lamps
+Discover full adjustability and shadowless light with Spacetronik Glow lamps. Ideal lighting for professionals requiring precision and comfort. Take care of your eyes and work efficiency with innovative desk lighting.
+Spacetronik SPU-WM20 2-in-1 Wireless Microphone
+Discover the 2-in-1 wireless microphone! USB or Lightning input! Use it wherever you want. Long range, noise cancellation and built-in reverb mode. Use it exactly how you need!
+Spacetronik Automatic Flower Pot Watering System
+Automatic watering system for the Spacetronik electric flower pot.
+Spacetronik Desk Sockets - HDMI, USB, WIRELESS CHARGING | Office, living room, workshop
+Furniture sockets increase functionality and enhance room aesthetics by avoiding complex extension cords, which often compromise safety at home or in the office.
+Spacetronik SPS-E27S V2 Electric Rotating Pop-up Desk Socket
+The Spacetronik SPS-E27S V2 electric media port is a modern solution for shops, showrooms, conference rooms, offices, and homes. A single button press smoothly reveals the sockets. Made of aluminum and high-quality components.
+Spacetronik Glow Professional Architect Lamps
+These innovative LED lamps are designed for the most demanding tasks - from computer work and precise DIY to professional beauty treatments or working with plans and documents.
+Spacetronik Ergonomic Office Chairs
+Modern Spacetronik ergonomic chairs tailored to your needs.
+Inspirations
+Check out our profile on Instagram
+Blog
+View all
+2026-10-16
+What is simracing? Choosing stands and cockpits for simulation
+2026-10-07
+How to care for footwear in autumn and winter? A practical guide to care and storage
+2026-09-25
+How to Create a Warm Atmosphere at Home? Perfect Lighting for Autumn [RULES]
+2026-09-18
+Lamps at home for autumn: How to create a cozy atmosphere and take care of your eyesight? [Guide]
+2026-09-15
+How can a wireless mouse with an AI function cut document editing time in half? A guide to Spacetronik EZZY
+2026-09-14
+How to get started on social media in autumn? Proven content ideas for beginners
+2026-09-09
+Ready for the new academic year? Student starter kit [Checkli

@@ -1,58 +1,81 @@
-# SB-542 jdktech.com.au · home · https://www.jdktech.com.au/ · fetched 2026-10-25T07:41:18Z · HTTP 200
-Home | JDK Technologies
-JDK Technologies Products Services Case Studies Resources About
-Contact Us
-Industrial Networking & IoT — Australia
-Connecting Industrial
-Australia to the Cloud
-From remote mine sites to urban building automation — JDK Technologies supplies the industrial gateways, routers, and IoT hardware that keeps critical infrastructure online and data flowing.
-Browse Products
-View Case Studies
-Industrial Grade
-Wide-temp, EMC-rated hardware
-Local Support
-Sydney-based technical team
-OEM Flexibility
-Custom firmware & branding
-Australian Stock
-Fast delivery, no import delays
-Featured Products
-View all →
-Industrial Gateways JIG02
-All-in-One Industrial Edge Gateway — Connectivity, VPN, Edge Computing & Protocol Translation in a Single DIN-Rail Device
-LoRaWAN Gateways LG43
-8-Channel AU915 LoRaWAN Gateway — Embedded NS, RS485/Modbus RTU, ChirpStack & MQTT, DIN-Rail
-Case Studies
-Real-world deployments across Australian industry.
-View all →
-Water Utilities & Smart Metering Infrastructure Itron Australasia
-IR302 Industrial Routers Powering Itron's EverBlu Multi-Level Water Metering Network
-Compact industrial routers providing stable cellular backhaul inside EverBlu Access Points, securely delivering water meter data to utility companies nationwide
-Healthcare Private Hospital Group
-Wireless Duress & Nurse Call System for a Private Hospital
-A fully wireless LoRaWAN duress and nurse-call network — covering both patient call points and staff duress pendants — replacing a failed legacy wired system, with JDK responsible for the wireless network and the software platform behind it
-Water Utilities & Environmental Monitoring Ventia
-PS-NS-NA Solar NB-IoT Sensors for Ventia Environmental Monitoring Stations
-Solar-powered NB-IoT liquid level sensors delivering water depth data directly to Ventia's existing FTP-based telemetry pipeline
-Have a project in mind?
-Our team can help you select the right hardware and design a solution for your site.
-Talk to an Engineer
-JDK Technologies
-Industrial networking & IoT solutions for Australian industry.
-Products
-Industrial Gateways
-LoRaWAN Gateways
-Industrial Routers
-Serial Converters
-PoE Switches
-LoRaWAN Sensors
-NB-IoT Sensors
-Services
-JDK VPN
-Case Studies
-All Case Studies
-Company
-About Us
-Resources
+# SB-542 lanopia.de · home · https://www.lanopia.de · fetched 2026-10-25T07:41:18Z · HTTP 200
+Lanopia - LAN und WAN Netzwerk Lösungen - Startseite
+Navigation aufklappen/zuklappen
+Startseite
+Company Philosophie
+Partners
+Location
+News Omnitron SPoE Switches
+Products Media Converter iConverter Management
+iConverter Network Interface Devices (NID)
+iConverter Copper UTP to Fiber
+iConverter Serielle Konverter
+iConverter Fiber to Fiber
+iConverter Coax to Fiber
+iConverter 4-Port Copper Switch
+iConverter CWDM Transponder
+1-Modul Industrial Chassis
+iConverter Chassis Optionen
+iConverter Managed Media Converter
+FlexPoint Unmanaged Media Converter
+FlexPoint Copper UTP to Fiber
+FlexPoint Serielle Konverter
+FlexPoint Fiber to Fiber
+FlexPoint Coax to Fiber
+FlexPoint Chassis Mounting Options
+miConverter Unmanaged Media Converter
+PoE / PoE+/PoE++ PoE / PoE+/PSE Media Converter
+PoE / PoE+ Fiber Switches
+SPE Ethernet
+Industrial Switche Industrial PoE PSE Fiber Switches
+Industrial PoE Copper Extenders
+Industrial Ethernet Switches
+Ethernet Switch Modules
+Flex Compact Switches
+Ethernet Switches
+Industrial Power Supplies
+Protocol Converter Ethernet über E1
+V.35 über E1
+TDM über IP
+Multiplexer CWDM Multiplexer
+DWDM Multiplexer
+T1/E1 Multiplexer
+SDH Multiplexer
+PDH Multiplexer
+PCM Multiplexer
+Optical Transceiver
+Service AGBs
+Order Info
+Price Request
+Garantie
+RMAs
+Support Product Catalog
+Application Notes
+White Papers
+Downloads
+Links
 Contact
-© 2026 JDK Technologies Pty Ltd. All rights reserved.
+Impressum
+Startseite
+Company
+News
+Products
+Service
+Support
+Contact
+Impressum
+Innovative and High Quality Network Products
+Media Converter
+PoE/PoE+/PoE++
+SPE Ethernet
+Industrial Switches
+Protocoll Converter
+Video Converter
+Multiplexer
+Optical Transceiver
+Druckversion |
+Sitemap
+© © Lanopia GmbH
+Webansicht Mobile-Ansicht
+Logout |
+Seite bearbeiten

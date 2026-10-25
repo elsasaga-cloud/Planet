@@ -1,7 +1,2 @@
-# SB-273 BWsystems · home · https://bwsystems.de/ · fetched 2026-10-25T07:41:18Z · HTTP 503
-The page is temporarily unavailable
-The page you are looking for is temporarily unavailable.
-Please try again later.
-acb12129e2cb5a9525218684300784a7
-7cb3f40667069f08268a72b8796c1bbf
-002d485cbe16f7205777c568a9ff208f
+# SB-273 eretekne.com · home · https://eretekne.com/ · fetched 2026-10-25T07:41:18Z · HTTP 410
+Erişmeye çalıştığınız internet sitesi geçici olarak servis dışıdır.

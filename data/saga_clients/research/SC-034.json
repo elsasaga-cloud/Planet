@@ -1,0 +1,66 @@
+{
+ "code": "SC-034",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（botanica.org，快照 2026-10-21）",
+ "summary": "美国 botanica.org（机构终端用户；Alibaba RTS 订单「2 个 8 电口 PCB 板」；KP Zach McFarland；快照空）；表内未跟进。",
+ "type": "机构终端用户（板级零售订单）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：botanica.org",
+   "quote": "",
+   "url": "https://botanica.org/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "2个8电口PCB板 / from: Alibaba RTS订单",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "8 电口 PCB 板 ×2 RTS",
+   "quote": "2个8电口PCB板 / from: Alibaba RTS订单",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "非渠道终端用户 + 板级零售订单；c_sub=品类不符/终端用户",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "美国",
+  "other": "官网 botanica.org，语言 ?，快照状态 ok；角色判定来源：待核"
+ },
+ "business_lines": [
+  "（机构终端用户）"
+ ],
+ "channels": {
+  "role": "机构终端用户（板级零售订单）",
+  "region": "美国",
+  "contact": "zmcfarland@botanica.org"
+ },
+ "signals": [
+  "表内：2 个 8 电口 PCB 板 / from: Alibaba RTS 订单；KP Zach McFarland",
+  "快照：内容为空"
+ ],
+ "risks": [
+  "非渠道终端用户；板级（PCB）需求 Saga 不供"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 20,
+  "why": "非渠道终端用户（.org 机构），单次 8 口 PCB 板零售订单（Saga 不供板子）→ 改 C"
+ },
+ "email_hook": "（不发送：终端用户）"
+}

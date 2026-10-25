@@ -1,134 +1,127 @@
 {
-  "code": "SB-395",
-  "name_official": "Distributed Business Solutions（迪拜）",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（distribolutions.com，快照 2026-10-21）",
-  "summary": "迪拜 IT 方案商（路由交换、网络安全、网管、大数据分析；Ubiquiti），2021 年自建站询盘 10G 双纤 LC 10 km 模块，报价后称要 100G；需求 = 光模块（Q-32 缺口）。",
-  "type": "",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "业务：路由交换 / 网络安全 / 网管 / 分析；+971 4 3886508",
-      "quote": "ROUTING & SWITCHING… NETWORK SECURITY… NETWORK MANAGEMENT… Analytics On Big Fast Data",
-      "url": "https://distribolutions.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "兴趣 10G 双纤 LC 10 公里模块；2021-10 发了价格问要多少个→要 100G 的",
-      "quote": "兴趣：10G 双纤 LC 10公里模块；回复：要100G的",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Ajith Rajan",
-      "title": "（表内联系人）",
-      "email": "ajithpr@distribolutions.com",
-      "phone": "+971 4 388 6508",
-      "source": "（本地 Clients/ 表格，无公开 URL）"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（官网快照 + 表内）"
+ "code": "SB-395",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（mercku.com，快照 2026-10-21）",
+ "summary": "加拿大 Mercku（滑铁卢 Mesh Wi-Fi 设备品牌；表内「商业 PoE 用的洪瑞（HRUI）的」；KP Ge Shi（Co-Founder））；群发 20 次无回复。",
+ "type": "Wi-Fi 设备品牌商（加拿大，PoE 现 HRUI）",
+ "size": "",
+ "brands_seen": [
+  "HRUI"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：mercku.com",
+   "quote": "",
+   "url": "https://www.mercku.com/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "legal_name": "Distributed Business Solutions（待核）",
-    "founded": "",
-    "hq": "Dubai, UAE",
-    "size": "小型方案商",
-    "other": ""
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "商业POE 用的洪瑞的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "企业网络 / 安全 / 网管方案"
-  ],
-  "channels": {
-    "role": "IT 方案商",
-    "region": "阿联酋"
-  },
-  "risks": [
-    "需求为 10G/100G 光模块（Saga 无）；2021 年后无互动"
-  ],
-  "saga_fit": {
-    "p1": null,
-    "tier": 25,
-    "why": "光模块需求不在价目（Q-32）；无主推型。"
-  },
-  "email_hook": "（待 Q-32；不主动发送）",
-  "mail_review": {
-    "binding": {
-      "level": "Elsa 群发 BCC 已触达 2026-08-12「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，非洲/中亚/中东散户-2（锚 2026 起 jango KZ） 批次 To jango.94.94@gmail.com，首见 2025-12-09，0 回（第 74 批 Bcc 头核对 msg 19ff56a1da83b526）；S/A 箱：S/A 邮箱均无往来；来源：用户表「兴趣：10G 双纤 LC 10公里模块；回复：要100G的」）",
-      "type": "—",
-      "sieve": "—（未入筛）",
-      "stop": "从未触达",
-      "revive": "不动（非主攻区；J5：有证据再动）",
-      "lane": "阿联酋 非主攻",
-      "cadence": "不动",
-      "evidence": "gmail_digest：out 0；用户表：「兴趣：10G 双纤 LC 10公里模块；回复：要100G的」；研究档 risks：需求为 10G/100G 光模块（Saga 无）；2021 年后无互动；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To sibandaprofp@gmail.com）2025-04-15→2025-12-09 共 8 轮群发（Booster PoE Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断；该批次最早 2025-03-02 起共 9 轮，更早轮次 Bcc 未读；同批次（To jango.94.94@gmail.com）本户见于 2026-08-12 名单；该批次最早 2026-05-12 起共 2 轮，更早轮次 Bcc 未读"
-    },
-    "situation": "迪拜 IT 方案商（路由交换、网络安全、网管、大数据分析；Ubiquiti），2021 年自建站询盘 10G 双纤 LC 10 km 模块，报价后称要 100G；需求 = 光模块（Q-32 缺口）。",
-    "need": "光模块需求不在价目（Q-32）；无主推型。",
-    "breakpoint": "需求为 10G/100G 光模块（Saga 无）；2021 年后无互动",
-    "saga_now": {
-      "p1": "—",
-      "tier": 25,
-      "price": "按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-12 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-12；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
-      "why": "光模块需求不在价目（Q-32）；无主推型。",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "不动",
-      "channel": "—",
-      "action": "—",
-      "one_question": ""
-    },
-    "facts": [
-      {
-        "date": "2025-04-15",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To sibandaprofp@gmail.com，非洲/中亚/中东散户-2（锚 2025 sibanda ZW） 批次）",
-        "quote": "Marvell Alleycat5 Solution — （头部未取正文；见 Elsa 箱）",
-        "why": "Elsa 箱群发 BCC 触达证据（命中地址 ajithpr@distribolutions.com, distribolutions.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-        "k": "elsa_bcc"
-      },
-      {
-        "date": "2025-12-09",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To sibandaprofp@gmail.com，非洲/中亚/中东散户-2（锚 2025 sibanda ZW） 批次）",
-        "quote": "Booster PoE Switch — This is about our Marvell based managed switch with power boosting feature. 1, Fiber: 4*100M/1G/2.5G/10G 2, Copper: 8*1G RJ45/PoE, max 240W budget 3, ",
-        "why": "Elsa 箱群发 BCC 触达证据（命中地址 ajithpr@distribolutions.com, distribolutions.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-        "k": "elsa_bcc"
-      },
-      {
-        "date": "2026-08-12",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To jango.94.94@gmail.com，非洲/中亚/中东散户-2（锚 2026 起 jango KZ） 批次）",
-        "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
-        "why": "Elsa 箱群发 BCC 触达证据（命中地址 ajithpr@distribolutions.com, distribolutions.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-        "k": "elsa_bcc"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "兴趣：10G 双纤 LC 10公里模块；回复：要100G的",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [
-      "无邮件往来",
-      "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
-    ],
-    "draft_en": null,
-    "as_of": "2026-10-25"
+  {
+   "kind": "用户表",
+   "claim": "商业 PoE 用的洪瑞的",
+   "quote": "商业POE 用的洪瑞的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Ge Shi",
+   "title": "Co-Founder",
+   "email": "ge.shi@mercku.com",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "加拿大",
+  "other": "官网 mercku.com，语言 ?，快照状态 ok；角色判定来源：待核"
+ },
+ "business_lines": [
+  "Mesh Wi-Fi 设备（自有品牌 Mercku）"
+ ],
+ "channels": {
+  "role": "Wi-Fi 设备品牌商（加拿大，PoE 现 HRUI）",
+  "region": "加拿大",
+  "contact": "connect@mercku.com、ge.shi@mercku.com"
+ },
+ "signals": [
+  "表内：商业 PoE 用的洪瑞的；KP Ge Shi / Co-Founder",
+  "快照：内容为空"
+ ],
+ "risks": [
+  "Q-33 口径：现供 HRUI 为 Saga 在供厂商——不碰其现有位，仅推 SmartByte/Marvell 管理型线",
+  "20 次无回复（低期望）；官网快照空"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 30,
+  "why": "现供 HRUI（Saga 在供厂商）→ 按 Q-33 口径只推 SmartByte/Marvell 线：千兆 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Mercku 标作管理型升级位；现有 HRUI 位不碰"
+ },
+ "email_hook": "Ge, for a managed gigabit PoE option in the Mercku line (8-PoE + 2 SFP L2+, VLAN/QoS, Marvell platform) in your packaging from small lots, FCC/CE/RoHS — is a managed PoE switch planned alongside your mesh systems?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 27 封 2024→2026，无记录打开，0 回；收件 connect@mercku.com, contact@mercku.com；主题多为「Industrial PoE Switch、Marvell Industrial Alert System」；Elsa 箱：`to:mercku.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 27 / 来 0）（第 74 批(h)））",
+   "type": "Wi-Fi 设备品牌商（加拿大，PoE 现 HRUI）",
+   "sieve": "1（只收到群发）",
+   "stop": "27 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱；Q-33 供应商渠道客户",
+   "revive": "不动（Q-33）",
+   "lane": "CA 主攻",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 27；用户表：「商业POE 用的洪瑞的」；研究档 risks：Q-33 口径：现供 HRUI 为 Saga 在供厂商——不碰其现有位，仅推 SmartByte/Marvell 管理型线"
+  },
+  "situation": "加拿大 Mercku（滑铁卢 Mesh Wi-Fi 设备品牌；表内「商业 PoE 用的洪瑞（HRUI）的」；KP Ge Shi（Co-Founder））；群发 20 次无回复。",
+  "need": "现供 HRUI（Saga 在供厂商）→ 按 Q-33 口径只推 SmartByte/Marvell 线：千兆 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Mercku 标作管理型升级位；现有 HRUI 位不碰",
+  "breakpoint": "Q-33 口径：现供 HRUI 为 Saga 在供厂商——不碰其现有位，仅推 SmartByte/Marvell 管理型线",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 30,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-12 $65（10G media converter）、2024-11-04 $300（48 Port PoE Managed Switch）、2024-12-25 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-08-05 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-24 $280（10G Enterprise SFP Switch）、2026-06-10 $16000（32 Port 400GB DC Switch）",
+   "why": "现供 HRUI（Saga 在供厂商）→ 按 Q-33 口径只推 SmartByte/Marvell 线：千兆 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Mercku 标作管理型升级位；现有 HRUI 位不碰",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026-09-21",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Industrial PoE Switch、Marvell Industrial Alert System",
+    "why": "27 封 / 0 次打开 / 0 回｜首封 2024-06-19 → 末封 2026-09-21（27 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "商业POE 用的洪瑞的",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

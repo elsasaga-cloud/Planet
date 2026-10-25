@@ -1,199 +1,238 @@
 {
   "code": "SA-055",
-  "name_official": "AE Connect India Pvt. Ltd.（Ahmedabad, Gujarat, India）",
-  "website_status": "在线",
-  "summary": "印度艾哈迈达巴德的网络产品品牌商（2005 年起，公司 2022 注册 CIN U31200GJ2022PTC132573，11–50 人，营收约 $8.1M），自有品牌 PoE 注入器/交换机、光纤产品、Cat6/6A 布线、机柜、工具，200+ 经销商；自述过去 5 年进口部分产品，现开始在印度自产 PoE 交换机（Make in India）。用户表：WhatsApp 跟进，3 次实质回复，18 次跟进；兴趣 PoE FS / MC / SFP，用自己的 logo。",
-  "type": "品牌商（部分进口贴牌 + 本地组装）",
-  "size": "11–50 人（LinkedIn）；$8.1M（ZoomInfo）",
+  "name_official": "Nova Grup Mühendislik（Novacom Technology，安卡拉/伊斯坦布尔，2002 年）",
+  "website_status": "在线（novacom.com.tr / nova-grup.com）",
+  "summary": "土耳其弱电/安防进口批发商（CCTV、卫星、报警、数据/光纤、消防、对讲），2002 年创立，安卡拉总部 + 伊斯坦布尔办公室，约 27–35 人，营收估 780 万–1,690 万美元；ISAF 2025 参展商，CEO Ali Pekyürek + 项目经理当面交流，已有商用交换机供应商（新桥/ONV），欲扩展工业线并询 OEM。",
+  "type": "进口批发商/分销商（弱电安防）",
+  "size": "中小型（27 人/2023 EMIS；35 人/RocketReach）",
   "brands_seen": [
-    "AE Connect"
+    "新桥（用户记录）",
+    "ONV（用户记录）",
+    "Novacom NVC（自有）"
   ],
   "evidence": [
     {
       "kind": "官网",
-      "claim": "自有品牌 + 200+ 经销商 + 过去进口、现本地自产 PoE 交换机",
-      "quote": "The products have successively entered India and overseas with a wide network of 200+ dealers and distributors … For the last 5 years, we used to import some products from other countries. But now we are proud to announce that we are manufacturing PoE Switches in India.",
-      "url": "https://aeconnect.co.in/about-us/",
+      "claim": "2002 年创立，弱电行业，以卫星与 CCTV 产品为主",
+      "quote": "Nova Grup Mühendislik, 2002 yılında… özellikle \"Zayıf Akım\" sektöründe, öncelikle \"Uydu ve CCTV\" ürünleri olmak üzere geniş bir ürün yelpazesiyle faaliyet göstermektedir",
+      "url": "https://www.novacom.com.tr/hakkimizda",
       "date": "2026-10-21"
     },
     {
       "kind": "官网",
-      "claim": "联系方式",
-      "quote": "+91 95379 10555 · info@aeconnect.co.in · F/9-10 Balaji Centre, Drive-In Road, Memnagar, Ahmedabad - 380 052",
-      "url": "https://aeconnect.co.in/shop/",
+      "claim": "安卡拉与伊斯坦布尔两地办公室",
+      "quote": "Ankara Aşağı Öveçler Mah.1332 Cad. No:8/1-3-5-7 Çankaya… İstanbul… Esenyurt… info@nova-grup.com",
+      "url": "https://nova-grup.com/iletisim",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "EMIS",
+      "claim": "2009 年注册，27 名员工（2023），电气设备批发",
+      "quote": "incorporated on January 30, 2009. It currently has a total number of 27 (2023) employees",
+      "url": "https://www.emis.com/php/company-profile/TR/Nova_Grup_Muh_Proje_Elekt_Elektr_Ilet_Sist_Ins_Ve_Tekssan_Tic_Ltd_Sti_en_9450576.html",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "Facebook",
+      "claim": "弱电材料与安防系统进口公司，批发摄像机/报警/数据/光纤/卫星/消防/对讲",
+      "quote": "Zayıf akım malzemeleri ve tüm güvenlik sistemleri üzerine ithalat firması. Kamera,Alarm,Data,Fiber,Uydu,Yangın,İnterkom, Sistemleri üzerine toptan satış",
+      "url": "https://www.facebook.com/esmakdd/",
       "date": "2026-10-21"
     },
     {
       "kind": "官网",
-      "claim": "AE-PS8082SFT-M 规格",
-      "quote": "8 Port Managed PoE Switch offers 8 Gigabit PoE+ ports, 2 SFP slots, 150 W power, advanced L2 control (IP-MAC-Port binding, ACL), QoS & VLAN … Backplane Bandwidth · 20Gbps … MAC address · 8k",
-      "url": "https://aeconnect.co.in/8-port-gigabit-l2-managed-poe-switch-ae-ps8082sft-m/",
-      "date": "2026-05-29"
+      "claim": "NVC 管理型系列 8–52 口 L2+/L3",
+      "quote": "Novacom Yönetilen PoE Switch, 8 ila 52 port arasında tam bir Layer 2+ ve Layer 3 ürün serisidir … CLI, web ve ağ yönetim yazılımını destekler … QOS, STP/RSTP, IGMP, DHCP, SNMP, WEB, VLAN, ER PS",
+      "url": "https://www.novacom.com.tr/urun/nvc-s5848gm-ap",
+      "date": "2024-06-13"
     },
     {
       "kind": "官网",
-      "claim": "管理型 PoE 产品线（含 2.5G bt L3、24 口 L3）",
-      "quote": "AE-PS8082SFT-M 8 Port Gigabit L2 Managed PoE+ Switch … AE250-PS1084SFTM-L3 8 Port 2.5G L3 Managed BT PoE Switch … AE-PS242SFT-M 24 Port Gigabit L2 Managed PoE+ Switch … AE600-24GP4TF-L3 24 Port Gigabit L3 Managed PoE+ Switch",
-      "url": "https://aeconnect.co.in/poe-solutions/managed-poe-switches/",
-      "date": "2026-06-09"
-    },
-    {
-      "kind": "官网",
-      "claim": "工业 AE700-IPS8GE4GF-M 规格",
-      "quote": "AE700-IPS8GE4GF-M is a 12-port Industrial Gigabit Managed Layer 2 PoE+ Switch, featuring 8×10/100/1000Mbps PoE+ ports and 4x1000Mbps SFP slots … Input voltage (DC): 48-56V - Working temperature: -40°C ~ +75°C - Shell: IP40",
-      "url": "https://aeconnect.co.in/8-port-industrial-gigabit-l2-managed-poe-switch-ae700-ips8ge4gf-m/",
-      "date": "2025-09-01"
+      "claim": "NVC-HIF2422GBL-C 规格",
+      "quote": "24 PoE destekli Fast Ethernet portu, 2 Gigabit uplink portu ve 2 SFP combo portu … Toplam PoE güç kapasitesi: 400W … AI Watchdog",
+      "url": "https://www.novacom.com.tr/urun/nvc-hif2422gbl-c-poe-switch",
+      "date": "2025-06-20"
     }
   ],
   "kp": [
     {
-      "name": "—",
-      "role": "总机/用户表 WhatsApp",
-      "email": "info@aeconnect.co.in",
-      "phone": "+91 98250 15200（WhatsApp 已加）；+91 95379 10555（官网）",
-      "source": "https://aeconnect.co.in/shop/"
+      "name": "Ali Pekyürek",
+      "role": "CEO（用户记录）",
+      "email": "ali@nova-grup.com",
+      "phone": "+90 533 715 9226（用户记录）",
+      "source": "用户 Clients 表（ISAF 2025 现场）"
     }
   ],
-  "notes": "A 维持（3 次实质回复 + 自有品牌 + 200+ 经销商），风险是其「印度自产」方向可能转向 SKD/PCBA 采购；P1 = STC-28DGGPM / STC-424DGGPM-280W 贴牌，30% OEM 档；MC = STI-110GE。",
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "土耳其主攻区 + 展会面对面 + CEO 级 + 明确 OEM/工业线扩展意向；'新桥/ONV 在用'说明是白牌采购惯手。P1：STI-288DGGPM（工业 8 电 2 光 PoE）做其工业线首款，OEM 价阶 30%；邮件 0 回复 → 改走 WeChat（Evelyn 已加 Ali）。消防/对讲等品类不涉。",
   "researched_at": "2026-10-21",
   "deep": {
     "done_at": "2026-10-21",
-    "level": "深挖 v1"
+    "level": "深挖 v2（官网 NVC 自有品牌目录核对）"
   },
   "company_facts": {
-    "legal_name": "AE Connect India Pvt. Ltd.（CIN U31200GJ2022PTC132573）",
-    "founded": "2005 起（公司 2022 注册）",
-    "hq": "Ahmedabad, Gujarat, India",
-    "staff": "11–50",
-    "revenue": "约 $8.1M",
-    "other": "自有品牌 PoE 全线（非管理/管理/工业/2.5G bt L3）、光纤、Cat6/6A 布线、机柜、工具；「Engineered in India」；2025–2026 产品页持续更新"
+    "legal_name": "Nova Grup Mühendislik（Novacom Technology）",
+    "founded": "2002",
+    "hq": "Ankara（总部）+ İstanbul",
+    "staff": "27–35",
+    "revenue": "估 $7.8–16.9M",
+    "other": "novacom.com.tr 已有自有品牌 NVC- 交换机全线：非管理 AI PoE（NVC-PSE0820G 8 FE PoE+2 GE 120W、NVC-PSE1621G 16 FE PoE+2 GE+1 SFP 300W、NVC-HIF0821GBL/0820GBL-C、HIF1621GBL-C 250W、HIF2422GBL-C 24 FE PoE 400W）、对讲 24V PoE、管理型 NVC-S5848GM-AP（L2+/L3 系列 8–52 口，ERPS/SNMP）；Hepsiburada 在售 ND1P802LF"
   },
   "business_lines": [
-    "非管理 PoE（AE-PS8082GU 8 GE PoE+2 GE 120W、AE-PSE8002GU、AEIN-PS24FE2GC 24 FE 250W、AE16PSN2GC）",
-    "管理 PoE（AE-PS8082SFT-M 8 GE PoE+2 SFP 150W L2、AE-PS242SFT-M 24 PoE+4 combo、AE600-24GP4TF-L3、AE250-PS1084SFTM-L3 8×2.5G bt L3）",
-    "工业 PoE（AE700-IPS8GE4GF-M 8 GE PoE + 4 SFP，-40~75℃）"
+    "CCTV / 报警 / 对讲 / 消防 / 卫星 / 数据光纤 进口批发",
+    "商用交换机（现供应商：新桥、ONV）",
+    "拟扩展工业级交换机（问能否 OEM）",
+    "自有品牌 NVC- 商用 PoE 交换机（非管理 AI PoE + L2+/L3 管理，来源新桥/ONV）",
+    "（拟扩展）工业级 PoE OEM"
   ],
   "products_seen": [
     {
-      "brand": "AE Connect",
-      "model": "AE-PS8082SFT-M",
-      "spec": "8×GE PoE+ + 2 SFP，150W，L2（ACL/IP-MAC 绑定/QoS/VLAN），20Gbps",
-      "url": "https://aeconnect.co.in/8-port-gigabit-l2-managed-poe-switch-ae-ps8082sft-m/",
-      "date": "2026-05-29",
-      "saga": "STC-28DGGPM"
+      "brand": "新桥 / ONV（现供应商）",
+      "model": "商用 PoE 交换机（用户记录）",
+      "spec": "已有合作供应商",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "ISAF 2025",
+      "saga": "STC-424DGGPM-280W（商用位，不主推）"
     },
     {
-      "brand": "AE Connect",
-      "model": "AE-PS242SFT-M",
-      "spec": "24×GE PoE+ + 4 combo，56Gbps，L2 管理",
-      "url": "https://aeconnect.co.in/datasheet/PoE-Solution/Managed-PoE-Switches/AE-PS242SFT-M.pdf",
-      "date": "2026-10-21",
-      "saga": "STC-424DGGPM-280W"
+      "brand": "（拟扩展）",
+      "model": "工业级 PoE 交换机 OEM",
+      "spec": "明确问 OEM",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "ISAF 2025",
+      "saga": "STI-288DGGPM / STI-144GP"
     },
     {
-      "brand": "AE Connect",
-      "model": "AE600-24GP4TF-L3 / AE250-PS1084SFTM-L3",
-      "spec": "24 PoE L3 / 8×2.5G bt L3",
-      "url": "https://aeconnect.co.in/poe-solutions/managed-poe-switches/",
-      "date": "2026-06-09",
-      "saga": "STC-424XGGPM-280W（2.5G/10G 需核）"
+      "brand": "Novacom（NVC）",
+      "model": "NVC-PSE0820G",
+      "spec": "8×FE PoE + 2 GE，120W，af/at",
+      "url": "https://www.novacom.com.tr/urun/nvc-pse0820g-poe-switch",
+      "date": "2024-10-14",
+      "saga": "STC-28DGGPM（千兆管理升级，不主推）"
     },
     {
-      "brand": "AE Connect",
-      "model": "AE700-IPS8GE4GF-M",
-      "spec": "工业 8 GE PoE+ + 4 SFP L2，48–56VDC，-40~75℃，IP40",
-      "url": "https://aeconnect.co.in/8-port-industrial-gigabit-l2-managed-poe-switch-ae700-ips8ge4gf-m/",
-      "date": "2025-09-01",
-      "saga": "STI-288DGGPM（2 SFP 版）"
+      "brand": "Novacom（NVC）",
+      "model": "NVC-HIF2422GBL-C",
+      "spec": "24×FE PoE + 2 GE + 2 SFP combo，400W，AI Watchdog",
+      "url": "https://www.novacom.com.tr/urun/nvc-hif2422gbl-c-poe-switch",
+      "date": "2025-06-20",
+      "saga": "STC-424DGGPM-280W（不主推）"
     },
     {
-      "brand": "AE Connect",
-      "model": "AE-PS8082GU / AE-PSE8002GU / AEIN-PS24FE2GC",
-      "spec": "非管理 8 GE PoE+2 GE 120W / 8 FE PoE+2 GE 120W / 24 FE PoE+2 GE/SFP 250W，6kV 防雷",
-      "url": "https://aeconnect.co.in/24-port-fast-ethernet-unmanaged-poe-switch-aein-ps24fe2gc/",
-      "date": "2025-09-06",
-      "saga": "STC-28DGGPM / STC-424DGGPM-280W（千兆升级）"
+      "brand": "Novacom（NVC）",
+      "model": "NVC-S5848GM-AP",
+      "spec": "管理型 L2+/L3 系列 8–52 口，CLI/Web/SNMP，ERPS",
+      "url": "https://www.novacom.com.tr/urun/nvc-s5848gm-ap",
+      "date": "2024-06-13",
+      "saga": "STC-448XGGM(L3)（不主推）"
+    },
+    {
+      "brand": "Novacom（NVC）",
+      "model": "NVC-INTSF0820FB2L",
+      "spec": "24V 对讲 PoE 8 口 120W",
+      "url": "https://www.novacom.com.tr/urun/nvc-intsf0820fb2l-24v-intercom-poe-switch",
+      "date": "2025-10-08",
+      "saga": "—"
     }
   ],
   "channels": {
-    "网站": "https://aeconnect.co.in/（含 datasheet PDF 库）",
-    "直邮": "info@aeconnect.co.in（用户表）",
-    "B2B": "IndiaMART（imimg 目录）"
+    "网站": "https://www.novacom.com.tr/（NVC 目录）",
+    "直邮": "ali@nova-grup.com（CEO Ali Pekyürek）/ info@nova-grup.com（用户表）",
+    "微信": "Evelyn 已加 Ali（用户表）",
+    "电商": "Hepsiburada（ND1P802LF）"
   },
   "signals": [
-    "2025-09～2026-06 连续上新管理型/工业/2.5G bt L3 机型——产品线快速扩张，进口贴牌 + 本地组装（2026-10-21）",
-    "用户表：PoE/FS/MC/SFP，自己的 logo"
+    "ISAF 2025：CEO 亲到展位、明确要扩工业级 + OEM——决策人直接可达",
+    "2025-10 仍在上新 NVC 商用 PoE——自有品牌运营成熟；工业线为空白，正是 ISAF 上提的 OEM 需求（2026-10-21）"
   ],
   "risks": [
-    "印度 BIS（CRS）认证——交换机类是否强制需客户确认；本地组装趋势（SKD）",
-    "价格极敏感"
+    "商用线已有新桥/ONV，不要正面抢；只做工业级 OEM",
+    "土耳其进口税/汇率"
   ],
   "saga_fit": {
-    "p1": "STC-28DGGPM",
+    "p1": "STI-288DGGPM",
     "tier": 30,
-    "why": "AE-PS8082SFT-M（8 GE PoE + 2 SFP L2）= STC-28DGGPM；AE-PS242SFT-M = STC-424DGGPM-280W；AE700-IPS8GE4GF-M ≈ STI-288DGGPM；OEM 30% 档"
+    "why": "NVC 商用线已满（新桥/ONV），只做工业 OEM：STI-288DGGPM（8 GE PoE + 2 SFP DIN 管理）+ STI-144GP（4+1）作 NVC 工业入门双 SKU，按 NVC- 命名；OEM 30% 档"
   },
-  "email_hook": "Your AE-PS8082SFT-M and AE-PS242SFT-M are the two footprints where a Marvell-based second source in AE Connect packing drops in without datasheet changes, so I am quoting both EXW with the industrial 8-port PoE + SFP model as the third line.",
+  "email_hook": "Your NVC range covers the commercial PoE side well, so for the industrial line we discussed at ISAF I am quoting the 8-port gigabit PoE + 2 SFP managed DIN switch and the 4+1 compact unit as NVC-branded SKUs, EXW with CE/FCC files.",
   "mail_review": {
     "binding": {
-      "level": "未绑定（A/S 邮箱 0 封——用户表「3 次实质回复」渠道不明；Elsa 箱：`to:aeconnect.co.in` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(g)））",
-      "type": "印度自有品牌（AE Connect，200+ 经销商）",
+      "level": "未绑定（邮件 24 封 0 回、Opened 0；用户表：展会面对面 + CEO + OEM/工业线意向；Elsa 箱：`to:novacom.com.tr OR to:nova-grup.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 24 / 来 0）（第 74 批(g)））",
+      "type": "土耳其弱电安防进口批发（Nova Grup / Novacom，4 个收件人）——主攻区",
       "sieve": "0（邮件层无人工回复）",
-      "stop": "—",
-      "revive": "—",
-      "lane": "IN 非主攻",
-      "cadence": "不主动",
-      "evidence": "邮件：A/S 两箱均无发信记录（0 去 / 0 来）"
+      "stop": "企业邮箱 0 打开",
+      "revive": "WA/电话（展会名片）",
+      "lane": "TR",
+      "cadence": "一次 + 季度",
+      "evidence": "邮件：去信 24 封（2024-06-14 → 2026-10-06），来信 0；Opened 标签 0 次；收件人 ali@nova-grup.com, cem@novacom.com.tr, info@nova-grup.com, satis@novacom.com.tr"
     },
-    "situation": "仓库无任何邮件。",
-    "need": "贴牌 8/24 口 PoE。",
-    "breakpoint": "—",
+    "situation": "4 个地址、24 封、0 打开——邮件通道基本无效；展会关系在 Simon 手上。",
+    "need": "工业 PoE 贴牌（在用新桥/ONV）。",
+    "breakpoint": "渠道。",
     "saga_now": {
-      "p1": "STC-28DGGPM",
-      "tier": 30,
-      "price": "锚价：STC-28DGGPM $87.4（30% 档）（第 72 批 2026-10-24）；—",
-      "why": "贴牌 8/24 口 PoE → 8 口 L2+ 先做第二货源",
+      "p1": "STI-288DGGPM",
+      "tier": 25,
+      "price": "—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-10 $65（10G media converter）；群发里他已看到的价（续）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-29 $280（10G Enterprise SFP Switch）",
+      "why": "NVC 商用 PoE 已有（新桥/ONV）→ ISAF 谈的工业线：8 PoE + 2 SFP 管理 DIN + 4+1 紧凑款贴 NVC 标",
       "repeat": [],
       "gaps": []
     },
     "next_move": {
-      "when": "2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）",
-      "channel": "A 邮箱 → AE Connect 具名 KP 待找（用户表 3 次回复渠道不明）",
-      "action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(p) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；具名 KP 待找）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
-      "one_question": "Your AE-PS8082SFT-M and AE-PS242SFT-M are the two footprints where a Marvell-based second source in AE Connect packing drops in without datasheet changes, so I am quoting both EXW with the industrial 8-port PoE + SFP model as the third line. Which of the two footprints would you second-source first? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity)."
+      "when": "按 WA 节奏",
+      "channel": "WhatsApp",
+      "action": "WA 一句话（第 75 批(r) 2026-10-25：WhatsApp 一句话版已写 `draft_en`（Simon 按 WA 节奏自发））（第 76 批(c) 2026-10-25：audit_ab 软项修正：证书口径 CE/FCC files → CE/RoHS files）（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
+      "one_question": "Which ONV/Xinqiao industrial PoE SKU is your volume item, and what would make you add a Marvell second source?"
     },
     "facts": [
       {
-        "date": "2024-02-08",
-        "dir": "来",
-        "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
-        "quote": "用户表跟进：推「发了工业MC系列相关信息」→ 对方「PoE Injector工业级90W」",
-        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
-        "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.58 2024.2.8"
+        "date": "2024-06-14",
+        "dir": "去",
+        "who": "S 箱（Simon）",
+        "quote": "Industrial network switch",
+        "why": "首封去信（邮箱索引；去信共 24 封）",
+        "k": "0e226ef6066b98b4"
       },
       {
-        "date": "2024-04-17",
-        "dir": "来",
-        "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
-        "quote": "用户表跟进：推「发了10G MC信息」→ 对方「price」",
-        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
-        "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.58 2024.4.17"
+        "date": "2024-08-10",
+        "dir": "去",
+        "who": "S 箱（Simon）",
+        "quote": "10G media converter｜稿内价 $65",
+        "why": "去信正文含价（邮箱索引）",
+        "k": "eae4bec0a71847bf"
       },
       {
-        "date": "2025-02-26",
-        "dir": "来",
-        "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
-        "quote": "用户表跟进：推「工业16 24口出货图」→ 对方「主要用RTL 有较为成熟的产品了 国内的」",
-        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
-        "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.58 2025.2.26"
+        "date": "2024-08-10",
+        "dir": "去",
+        "who": "S 箱（Simon）报价",
+        "quote": "10G media converter｜ $65（原句：Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unma）",
+        "why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
+        "k": "eae4bec0a71847bf"
+      },
+      {
+        "date": "2024-11-05",
+        "dir": "去",
+        "who": "Simon → Angora Networks（SA-077）附件 Turkey Client List.xlsx",
+        "quote": "名单行：「switch info@nova-grup.com https://www.novacom.com.tr/urun-kategori/poe-switch/」",
+        "why": "Saga 2024-11-05 把本户列入交给 Angora（安卡拉，Saga 提议的欧盟/土耳其分销伙伴）的 64 家起步名单；此后 Saga 仍直发本户。若 Angora 已接触过本户，Saga 直发会与自己提议的渠道打架 → Q-51（默认：直发继续，Angora 报了价的户 Saga 只做技术支持）",
+        "k": "gmail_s 2024-11-05 Re: Invoice_5pcs STC-424DGGPM-280W（附件）+ Drive PI 7_土耳其 Turkey_Client_List.xlsx"
+      },
+      {
+        "date": "2026-10-06",
+        "dir": "去",
+        "who": "A 箱（Alan）",
+        "quote": "Managed PoE Switches",
+        "why": "最近一封去信（邮箱索引；去信共 24 封）",
+        "k": "dc7c0490ebc381fe"
       }
     ],
     "proof_gaps": [
-      "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 从未去信、Replied 索引亦无此户），仓库未见原文"
+      "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 从未去信、Replied 索引亦无此户），仓库未见原文",
+      "在 Saga 给 Angora 的 Turkey Client List（2024-11-05）里——Angora 是否接触过本户无记录（Q-51）"
     ],
     "draft_en": {
-      "subject": "Two AE Connect footprints where a second source drops in without datasheet changes",
-      "body": "Hello AE Connect team,\n\nYou told us in 2025 that your PoE switches are RTL-based and mature, and that part of the range is now made in India - understood. The two footprints where a Marvell-based second source still drops into your range without datasheet changes, in AE Connect packing from small lots: AE-PS8082SFT-M class - 8 x Gigabit PoE+ + 2 x SFP, L2+ managed - model STC-28DGGPM - $87.4 USD EXW with your logo (MOQ 1, 15-day validity); AE-PS242SFT-M class - 24 x PoE+ (280 W) + 4 x SFP - STC-424DGGPM-280W - $145.7. Industrial 8 x PoE+ + 2 x SFP DIN unit as a third line. BIS stays on your side.\n\nOne question: which of the imported SKUs is staying imported after the Make-in-India move? That is the one worth a second source.\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+      "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+      "body": "Mr. Pekyurek, Simon from Saga Telecom - ISAF follow-up on the industrial line. Two NVC-branded SKUs, EXW, MOQ 1, 15-day validity, CE/RoHS files: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, L2+ managed with ring redundancy, Marvell-based - STI-288DGGPM - $137.5; compact 4 x Gigabit PoE+ + 1 x SFP, unmanaged - STI-144GP - $35.5. Which ONV / Xinqiao industrial PoE SKU is your volume item today, so I line ours up against that one?"
     },
     "as_of": "2026-10-24"
   }

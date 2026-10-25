@@ -2,41 +2,58 @@
   "code": "SB-524",
   "name_official": "",
   "researched_at": "2026-10-21",
-  "website_status": "快照失败（unreachable）",
-  "summary": "意大利 Atlantis-Land（意大利网络/安防品牌 Atlantis：商用 PoE 现 ONV 代工，「好多人卖他们的」；KP Massimo Liddo（Director）、Daniela Sdanga（Buyer）；「可以尝试多跟进一下」；官网 unreachable）；群发 13 次无回复。",
-  "type": "网络/安防品牌商（意大利，PoE 现 ONV）",
+  "website_status": "在线（armadi-rack.it，快照 2026-10-21）",
+  "summary": "意大利 Armadi Rack（19 寸机柜、子架、电子/机电外壳意大利制造与网店；网店栏目 PoE 交换机、工业交换机/HUB；表内「Digitus / Utepo 的工业 FS；Linkcreative 的 MC」「可以尝试多跟进一下」；KP Massimiliano Luciani（Sales Manager）、Alfredo Marmone（Entrepreneur））；群发 13 次无回复。",
+  "type": "机柜制造商兼网店（意大利，Digitus/Utepo 工业 FS 在售）",
   "size": "",
   "brands_seen": [
-    "ONV"
+    "Digitus",
+    "Utepo",
+    "Linkcreative",
+    "TP-Link"
   ],
   "evidence": [
     {
-      "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "商业PoE ONV的 好多人卖他们的",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "kind": "官网快照",
+      "claim": "官网标题：Armadi Rack；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 无线 / WiFi / 数据中心 / 企业 IT / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
+      "quote": "Armadi Rack 19\" e accessori, subrack porta moduli, contenitori per elettronica e meccatronica, fatti in Italia. Ampia scelta, produzione e vendita online.",
+      "url": "https://www.armadi-rack.it/",
       "date": "2026-10-21"
     },
     {
       "kind": "用户表",
-      "claim": "商业 PoE ONV；好多人卖他们的",
-      "quote": "商业PoE ONV的 好多人卖他们的；可以尝试多跟进一下",
+      "claim": "表内兴趣/备注",
+      "quote": "Digitus Upeto的工业FS Linkcreative的MC",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "Armadi Rack 定位",
+      "quote": "Armadi Rack 19\" e accessori, subrack porta moduli, contenitori per elettronica e meccatronica, fatti in Italia. Ampia scelta, produzione e vendita online. ; /294-switch-poe/ ; /288-hub-switch-industriali/",
+      "url": "https://www.armadi-rack.it/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "Digitus Utepo 工业 FS；Linkcreative MC",
+      "quote": "Digitus Upeto的工业FS Linkcreative的MC；可以尝试多跟进一下",
       "url": "（本地 Clients/ 表格，无公开 URL）",
       "date": "2026-10-21"
     }
   ],
   "kp": [
     {
-      "name": "Daniela Sdanga",
-      "title": "Buyer",
-      "email": "mdl@atlantis-land.com",
+      "name": "Massimiliano Luciani",
+      "title": "Sales Manager",
+      "email": "info@armadi-rack.it",
       "phone": "",
       "source": "用户表"
     },
     {
-      "name": "Massimo Liddo",
-      "title": "Director",
-      "email": "info@atlantis-land.com",
+      "name": "Alfredo Marmone",
+      "title": "Entrepreneur",
+      "email": "",
       "phone": "",
       "source": "用户表"
     }
@@ -50,80 +67,82 @@
   },
   "company_facts": {
     "hq": "意大利",
-    "other": "官网 atlantis-land.com，语言 ?，快照状态 unreachable；角色判定来源：待核"
+    "other": "官网 armadi-rack.it，语言 it，快照状态 ok；角色判定来源：官网文案"
   },
   "business_lines": [
-    "网络 / 安防产品品牌（自有品牌 Atlantis）"
+    "19 寸机柜 / 子架 / 外壳制造",
+    "网络配件网店（PoE / 工业交换机 / MC）"
   ],
   "channels": {
-    "role": "网络/安防品牌商（意大利，PoE 现 ONV）",
+    "role": "机柜制造商兼网店（意大利，Digitus/Utepo 工业 FS 在售）",
     "region": "意大利",
-    "contact": "info@atlantis-land.com、mdl@atlantis-land.com"
+    "contact": "info@armadi-rack.it、ordini@armadi-rack.it"
   },
   "signals": [
-    "表内：商业 PoE ONV 的 好多人卖他们的；KP Massimo Liddo / Director；Daniela Sdanga / Buyer；可以尝试多跟进一下",
-    "快照：unreachable"
+    "栏目 /294-switch-poe/、/288-hub-switch-industriali/；kw switch 26 / wireless 31 / sfp 10",
+    "官网：Armadi Rack 19\" e accessori, subrack porta moduli, contenitori per elettronica e meccatronica, fatti in Italia；KP Massimiliano Luciani / Sales Manager；Alfredo Marmone / Entrepreneur"
   ],
   "risks": [
-    "现供 ONV 价格基准低；官网 unreachable；13 次无回复 → 改向 Buyer 具名首触"
+    "主业机柜：交换机为网店配套品类，量小；现卖 Utepo（深圳）价格基准低",
+    "13 次无回复 → 改向 Sales Manager 具名首触"
   ],
   "saga_fit": {
-    "p1": "STC-28DGGPM",
-    "tier": 30,
-    "why": "Atlantis 标 PoE（现 ONV）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 口 STC-424DGGPM-280W（$145.7）贴标作二供"
+    "p1": "STI-288GP",
+    "tier": 20,
+    "why": "在售 Digitus/Utepo 工业 PoE → 工业 8 PoE + 2 SFP 非管理 STI-288GP（$57.4 @20%）/ 管理 STI-288GPM（$78.9）；MC 位 STI-110GE（$22.4）对位 Linkcreative"
   },
-  "email_hook": "Daniela, for the PoE switches sold under the Atlantis label, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE 280 W, 802.3bt options) in your packaging from small lots, CE/RoHS — which PoE SKU would you want sampled against your current ONV unit?",
+  "email_hook": "Massimiliano, alongside the Digitus and Utepo industrial switches in your shop, we supply DIN-rail 8-PoE + 2 SFP unmanaged/managed units and gigabit media converters (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your rack customers order most?",
   "mail_review": {
     "binding": {
-      "level": "未触达（A/S 邮箱 21 封 2024→2026，无记录打开，0 回；收件 d.sdanga@atlantis-land.com, info@atlantis-land.com；主题多为「Industrial PoE Switch、Marvell Networking Solutions」）；Elsa 1:1 去信 1 封（2025-02-19「8 Port Industrial PoE Switch」；To 仅本户 info@atlantis-land.com；Bcc 未逐封读头；同类名单抽读 24 封均无 Bcc；此后再未进 Elsa 任何名单——全箱 `from:e.sagatelecom to:info@atlantis-land.com` 仅此 1 条，complete）（第 74 批(m)）",
-      "type": "网络/安防品牌商（意大利，PoE 现 ONV）",
-      "sieve": "1（只收到群发）",
-      "stop": "21 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+      "level": "未触达（A/S 邮箱 20 封 2024→2026，1 次记录打开，0 回；收件 info@armadi-rack.it, ordini@armadi-rack.it；主题多为「Industrial PoE Switch、Marvell Alleycat5 Solution」）；Elsa 1:1 去信 1 封（2025-02-17「16 Port PoE Managed Switch」；To 仅本户 info@armadi-rack.it；Bcc 未逐封读头；同类名单抽读 24 封均无 Bcc；此后再未进 Elsa 任何名单——全箱 `from:e.sagatelecom to:info@armadi-rack.it` 仅此 1 条，complete）（第 74 批(m)）",
+      "type": "机柜制造商兼网店（意大利，Digitus/Utepo 工业 FS 在售）",
+      "sieve": "1~2（1 次打开）",
+      "stop": "20 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
       "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
       "lane": "意大利（欧洲全域主攻）",
       "cadence": "一封",
-      "evidence": "gmail_digest：out 21；用户表：「商业PoE ONV的 好多人卖他们的」；研究档 risks：现供 ONV 价格基准低；官网 unreachable；13 次无回复 → 改向 Buyer 具名首触"
+      "evidence": "gmail_digest：out 20，Opened 标签 1（Simon 群发追踪）；用户表：「Digitus Upeto的工业FS Linkcreative的MC」；研究档 risks：主业机柜：交换机为网店配套品类，量小；现卖 Utepo（深圳）价格基准低"
     },
-    "situation": "意大利 Atlantis-Land（意大利网络/安防品牌 Atlantis：商用 PoE 现 ONV 代工，「好多人卖他们的」；KP Massimo Liddo（Director）、Daniela Sdanga（Buyer）；「可以尝试多跟进一下」；官网 unreachable）；群发 13 次无回复。",
-    "need": "Atlantis 标 PoE（现 ONV）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 口 STC-424DGGPM-280W（$145.7）贴标作二供",
-    "breakpoint": "现供 ONV 价格基准低；官网 unreachable；13 次无回复 → 改向 Buyer 具名首触",
+    "situation": "意大利 Armadi Rack（19 寸机柜、子架、电子/机电外壳意大利制造与网店；网店栏目 PoE 交换机、工业交换机/HUB；表内「Digitus / Utepo 的工业 FS；Linkcreative 的 MC」「可以尝试多跟进一下」；KP Massimiliano Luciani（Sales Manager）、Alfredo Marmone（Entrepreneur））；群发 13 次无回复。",
+    "need": "在售 Digitus/Utepo 工业 PoE → 工业 8 PoE + 2 SFP 非管理 STI-288GP（$57.4 @20%）/ 管理 STI-288GPM（$78.9）；MC 位 STI-110GE（$22.4）对位 Linkcreative",
+    "breakpoint": "主业机柜：交换机为网店配套品类，量小；现卖 Utepo（深圳）价格基准低",
     "saga_now": {
-      "p1": "STC-28DGGPM",
-      "tier": 30,
-      "price": "换人再触锚价 STC-28DGGPM $87.4 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-06 $65（10G media converter）、2024-11-18 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-16 $280（10G Enterprise SFP Switch）",
-      "why": "Atlantis 标 PoE（现 ONV）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 口 STC-424DGGPM-280W（$145.7）贴标作二供",
+      "p1": "STI-288GP",
+      "tier": 20,
+      "price": "换人再触锚价 STI-288GP $60 EXW（最近实报 $60（SB-034 2025-03-18；SB-1102 / SB-010 同价）（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-15 $280（10G Enterprise SFP Switch）",
+      "why": "在售 Digitus/Utepo 工业 PoE → 工业 8 PoE + 2 SFP 非管理 STI-288GP（$57.4 @20%）/ 管理 STI-288GPM（$78.9）；MC 位 STI-110GE（$22.4）对位 Linkcreative。已打开的主题（1/20 封有打开记录）：「24 port poe switch」(2024-08-05) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
       "repeat": [],
       "gaps": []
     },
     "next_move": {
       "when": "2027-Q1（换人后）",
       "channel": "A 邮箱 → 具名 KP",
-      "action": "首封前知悉：Elsa 仅 2025-02-19 单发过 1 封「8 Port Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(ac) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
-      "one_question": "Daniela, for the PoE switches sold under the Atlantis label, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE 280 W, 802.3bt options) in your packaging from small lots, CE/RoHS — which PoE SKU would you want sampled against your current ONV unit? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity)."
+      "action": "首封前知悉：Elsa 仅 2025-02-17 单发过 1 封「16 Port PoE Managed Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(ac) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
+      "one_question": "Massimiliano, alongside the Digitus and Utepo industrial switches in your shop, we supply DIN-rail 8-PoE + 2 SFP unmanaged/managed units and gigabit media converters (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your rack customers order most? Reference: STI-288GP at $60 USD EXW (MOQ 1, 15-day validity)."
     },
     "facts": [
       {
-        "date": "2025-02-19",
+        "date": "2025-02-17",
         "dir": "out",
-        "who": "Elsa → info@atlantis-land.com",
-        "quote": "8 Port Industrial PoE Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+        "who": "Elsa → info@armadi-rack.it",
+        "quote": "16 Port PoE Managed Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
         "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
         "k": "elsa_1to1",
-        "msg_id": "1951da66944d1691"
+        "msg_id": "1951419f3fa96c82"
       },
       {
         "date": "2026-09-16",
         "dir": "去",
         "who": "A/S 群发",
-        "quote": "Industrial PoE Switch、Marvell Networking Solutions",
-        "why": "21 封 / 0 次打开 / 0 回｜首封 2024-06-15 → 末封 2026-09-16（21 去 / 0 来）",
+        "quote": "Industrial PoE Switch、Marvell Alleycat5 Solution",
+        "why": "20 封 / 1 次打开 / 0 回｜首封 2024-07-05 → 末封 2026-09-16（20 去 / 0 来）",
         "k": "gmail_digest"
       },
       {
         "date": "2026-10-21",
         "dir": "用户表",
         "who": "Simon",
-        "quote": "商业PoE ONV的 好多人卖他们的",
+        "quote": "Digitus Upeto的工业FS Linkcreative的MC",
         "why": "表内备注",
         "k": "用户表"
       },
@@ -132,14 +151,14 @@
         "dir": "去",
         "who": "A 箱（Alan）",
         "quote": "16 Port Industrial PoE Switch",
-        "why": "本日去信真实主题（邮箱索引 a2cb4e466064cd91；信稿开头句引用此封；此前稿内写的「Industrial PoE Switch」是线程列表首题，不是本封）",
-        "k": "a2cb4e466064cd91"
+        "why": "本日去信真实主题（邮箱索引 fa541ee622d8b380；信稿开头句引用此封；此前稿内写的「Industrial PoE Switch」是线程列表首题，不是本封）",
+        "k": "fa541ee622d8b380"
       }
     ],
     "proof_gaps": [],
     "draft_en": {
-      "subject": "A sample against your current ONV unit - the PoE switches under the Atlantis label",
-      "body": "Hi Daniela,\n\nWe wrote to you once in February 2025 about an 8-port industrial PoE switch, and since then only general product mails - most recently \"16 Port Industrial PoE Switch\" on 16 September 2026 - none of which needed an answer. This one is specific.\n\nFor the PoE switches sold under the Atlantis label (ONV-built today), a second ODM source in your packaging from small lots, CE/RoHS: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based - model STC-28DGGPM - $87.4 USD EXW with your logo (MOQ 1, 15-day validity); 24 x Gigabit PoE+ (280 W) + 4 x SFP, L2+ managed - STC-424DGGPM-280W - $145.7; 802.3bt ports on request. Samples are paid at the same price.\n\nOne question: which PoE SKU would you want sampled against your current ONV unit first?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+      "subject": "Alongside the Digitus and Utepo industrial switches in your shop - three neutral-brand numbers",
+      "body": "Hi Massimiliano,\n\nWe wrote to you once in February 2025 about a 16-port PoE managed switch, and since then only general product mails - most recently \"16 Port Industrial PoE Switch\" on 16 September 2026 - none of which needed an answer. This one is specific.\n\nAlongside the Digitus and Utepo industrial switches and the Linkcreative converters in your shop, neutral-brand units at distributor price, EXW, MOQ 1, 15-day validity, -40 to 75 C, CE/RoHS: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, unmanaged - model STI-288GP - $60 USD; the same L2 managed, Marvell-based - STI-288GPM - $78.9; Gigabit media converter, 1 x RJ45 + 1 x SFP slot - STI-110GE - $26.5.\n\nOne question: which port count do your rack customers order most - 8-port PoE, or the small 5-port?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
     },
     "as_of": "2026-10-24"
   }

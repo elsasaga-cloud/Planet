@@ -1,34 +1,40 @@
 {
  "code": "SB-127",
- "name_official": "Sri Annai Business Associates (SABA)",
+ "name_official": "IZUX（瓦伦西亚）",
  "researched_at": "2026-10-21",
- "website_status": "域名不可达（sabaindia.com）",
- "summary": "印度泰米尔纳德（0424 埃罗德区号）安防经销商 R. Sampath Kumar，做摄像机与门禁；2024-04 对 L2 管理 2 光 8 PoE 报过 $75（表内），此后无进展；官网域名已失效。",
+ "website_status": "在线（izux.es，快照 2026-10-21，西语）",
+ "summary": "西班牙瓦伦西亚安防电商（摄像机、AJAX 报警、可视门铃、门禁、酒店锁；Hikvision、Dahua、Uniview、Ajax；poe 260 / switch 167 / sfp 73；+34 963 320 337），Manager Igor Guimerá；表内「商用 PoE，CCTV 为主很多配件，有 ONV 的」；群发 6 次无回复。",
  "type": "",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "ONV",
+  "Hikvision",
+  "Dahua",
+  "Uniview",
+  "Ajax"
+ ],
  "evidence": [
   {
    "kind": "官网快照",
-   "claim": "sabaindia.com 域名不可达",
-   "quote": "status unreachable",
-   "url": "http://sabaindia.com/",
+   "claim": "安防摄像机、AJAX 报警、可视门铃、门禁、电子锁电商；品牌 Hikvision / Dahua / Uniview / Ajax；+34 963 320 337",
+   "quote": "Compra cámaras de seguridad y vigilancia, alarmas AJAX, videoporteros, control de acceso… brands Hikvision, Dahua, Uniview, Ajax",
+   "url": "https://izux.es/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "兴趣 Cam, access control；2024-04-24 2 层 2 光 8 PoE 管理→price 报了 75",
-   "quote": "回复：price 报了75",
+   "claim": "商业 POE CCTV 为主 很多配件 有 ONV 的；网站上有 WA 按钮",
+   "quote": "兴趣：商业POE CCTV为主 很多配件 有ONV的",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
  "kp": [
   {
-   "name": "R. Sampath Kumar",
-   "title": "（经营者）",
-   "email": "info@sabaindia.com",
-   "phone": "+91 424 427 2424 / +91 98427 13700",
+   "name": "Igor Guimerá",
+   "title": "Manager",
+   "email": "comercial@izux.es",
+   "phone": "+34 963 320 337",
    "source": "（本地 Clients/ 表格，无公开 URL）"
   }
  ],
@@ -37,81 +43,83 @@
  "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（快照 + 表内；域名失效）"
+  "level": "B 级加厚 v1（官网快照核对 + 表内）"
  },
  "company_facts": {
-  "legal_name": "Sri Annai Business Associates",
+  "legal_name": "IZUX（待核）",
   "founded": "",
-  "hq": "Erode, Tamil Nadu, India（区号 0424）",
-  "size": "小型经销",
-  "other": "备用邮箱 sriannaiassociates@yahoo.com；域名失效"
+  "hq": "Valencia, Spain",
+  "size": "中小型安防电商",
+  "other": "已售 ONV 商用 PoE"
  },
  "business_lines": [
-  "CCTV / 门禁经销安装"
+  "安防电商"
  ],
  "channels": {
-  "role": "安防经销 / 安装",
-  "region": "印度（泰米尔纳德）"
+  "role": "电商（已售 ONV）",
+  "region": "西班牙"
  },
  "signals": [
-  "已有历史报价 $75（2024-04，L2 管理 2 光 8 PoE）"
+  "已售 ONV → 同类替换",
+  "Manager 具名"
  ],
  "risks": [
-  "域名失效，info@ 可能退信（备用 yahoo）",
-  "印度低价竞争"
+  "6 次群发无回复"
  ],
  "saga_fit": {
   "p1": "STC-28DGGPM",
-  "tier": 25,
-  "why": "历史报价对象 = L2 管理 8 PoE + 2 SFP → Saga STC-28DGGPM（$80.7/84.1/87.4；2024 年曾报 $75，报价前核价）。"
+  "tier": 20,
+  "why": "对位 ONV 商用 8 PoE → STC-28DGGPM（$80.7 @20%）；24 PoE STC-424DGGPM-280W。"
  },
- "email_hook": "Sampath, we quoted you the 8-PoE + 2-SFP managed unit at USD 75 in April 2024 — is that camera project still open, and would a 10-pc trial price help you close it?",
+ "email_hook": "Igor, junto a los switches ONV que vendéis — 8 PoE + 2 SFP L2+ (Marvell) a $81 y 24 PoE a $135 EXW, caja neutra y fichas CE; ¿probamos 2 unidades para la tienda?",
  "mail_review": {
   "binding": {
-   "level": "未发信（S/A 邮箱均无往来；来源：用户表「回复：price 报了75」；Elsa 箱：`to:sabaindia.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(n)））",
+   "level": "未触达（A 邮箱 17 封 2025→2026，无记录打开，0 回；收件 comercial@izux.es；主题多为「Managed Optical Bypass Switch、24 Port PoE Managed Switch」；Elsa 箱：`to:.es` 穷举 15 条（2026-10-25，锚批 Bcc 头已读）未见 izux.es → Elsa 箱从未发过本户，往来只在 S/A 箱（去 17 / 来 0）（第 74 批(f)））",
    "type": "—",
-   "sieve": "—（未入筛）",
-   "stop": "从未触达",
-   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
-   "lane": "IN 次级（点名）",
-   "cadence": "首封后看打开",
-   "evidence": "gmail_digest：out 0；用户表：「回复：price 报了75」；研究档 risks：域名失效，info@ 可能退信（备用 yahoo）"
+   "sieve": "1（只收到群发）",
+   "stop": "17 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "西班牙（欧洲全域主攻）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 17；用户表：「兴趣：商业POE CCTV为主 很多配件 有ONV的」；研究档 risks：6 次群发无回复"
   },
-  "situation": "印度泰米尔纳德（0424 埃罗德区号）安防经销商 R. Sampath Kumar，做摄像机与门禁；2024-04 对 L2 管理 2 光 8 PoE 报过 $75（表内），此后无进展；官网域名已失效。",
-  "need": "历史报价对象 = L2 管理 8 PoE + 2 SFP → Saga STC-28DGGPM（$80.7/84.1/87.4；2024 年曾报 $75，报价前核价）。",
-  "breakpoint": "域名失效，info@ 可能退信（备用 yahoo）",
+  "situation": "西班牙瓦伦西亚安防电商（摄像机、AJAX 报警、可视门铃、门禁、酒店锁；Hikvision、Dahua、Uniview、Ajax；poe 260 / switch 167 / sfp 73；+34 963 320 337），Manager Igor Guimerá；表内「商用 PoE，CCTV 为主很多配件，有 ONV 的」；群发 6 次无回复。",
+  "need": "对位 ONV 商用 8 PoE → STC-28DGGPM（$80.7 @20%）；24 PoE STC-424DGGPM-280W。",
+  "breakpoint": "6 次群发无回复",
   "saga_now": {
    "p1": "STC-28DGGPM",
-   "tier": 25,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "历史报价对象 = L2 管理 8 PoE + 2 SFP → Saga STC-28DGGPM（$80.7/84.1/87.4；2024 年曾报 $75，报价前核价）。",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-22 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-06-06 $300（48 Port PoE Managed Switch）、2025-10-02 $280（10G Enterprise SFP Switch）",
+   "why": "对位 ONV 商用 8 PoE → STC-28DGGPM（$80.7 @20%）；24 PoE STC-424DGGPM-280W。",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "待 Simon 排期（首封）",
-   "channel": "A 邮箱 → info@sabaindia.com（R. Sampath Kumar）",
-   "action": "首封：按 email_hook 一问（第 75 批(m) 2026-10-25：英文信稿已写 `draft_en`；2024 报 $75 → 今 $84.1 只说汇率 7.2→6.7；10 台试单可按 20% 档 $80.7）（第 76 批(c) 2026-10-25：audit_ab 软项修正：证书口径 CE/RoHS → CE/RoHS (BIS stays on your side)）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
-   "one_question": "Sampath, we quoted you the 8-PoE + 2-SFP managed unit at USD 75 in April 2024 — is that camera project still open, and would a 10-pc trial price help you close it?"
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Igor, junto a los switches ONV que vendéis — 8 PoE + 2 SFP L2+ (Marvell) a $81 y 24 PoE a $135 EXW, caja neutra y fichas CE; ¿probamos 2 unidades para la tienda?"
   },
   "facts": [
+   {
+    "date": "2026-09-30",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "Managed Optical Bypass Switch、24 Port PoE Managed Switch",
+    "why": "17 封 / 0 次打开 / 0 回｜首封 2025-04-04 → 末封 2026-09-30（17 去 / 0 来）",
+    "k": "gmail_digest"
+   },
    {
     "date": "2026-10-21",
     "dir": "用户表",
     "who": "Simon",
-    "quote": "回复：price 报了75",
+    "quote": "兴趣：商业POE CCTV为主 很多配件 有ONV的",
     "why": "表内备注",
     "k": "用户表"
    }
   ],
-  "proof_gaps": [
-   "无邮件往来",
-   "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
-  ],
-  "draft_en": {
-   "subject": "The 8-PoE + 2-SFP managed unit we quoted in April 2024 - is the project still open?",
-   "body": "Hi Sampath,\n\nIn April 2024 we quoted you the L2 managed 8-PoE + 2-SFP switch at $75, and the camera project went quiet.\n\nThe same slot today: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based, CE/RoHS (BIS stays on your side) - model STC-28DGGPM - $84.1 USD EXW (MOQ 1, 15-day validity); the CNY has moved from 7.2 to 6.7 against the dollar since 2024, which is the whole difference. For a 10-pc trial I can hold the distributor price of $80.7.\n\nOne question: is that camera project still open, or has a new one replaced it?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
-  },
+  "proof_gaps": [],
+  "draft_en": null,
   "as_of": "2026-10-24"
  }
 }

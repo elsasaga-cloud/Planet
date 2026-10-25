@@ -1,0 +1,214 @@
+# SB-932 acceed.com · news_1 · https://acceed.com/de/news · fetched 2026-10-25T07:41:18Z · HTTP 200
+Neuigkeiten | acceed
+info@acceed.com
++49 211 938898 0
+DE
+|
+EN
+Startseite
+Produkte
+PC Server
+Industrial Computers
+PC Add-On Cards
+Network
+Vision & Video
+Software
+Signal Conditioning
+Sensors and Accessories
+Other
+Filter
+Neuigkeiten
+Kontakt
+Service
+Konto
+Login
+DE
+|
+EN
+0
+Ihr Warenkorb ist leer.
+Gesamt: 0.00 EUR
+Warenkorb ansehen
+Startseite
+Produkte
+PC Server
+Industrial Computers
+PC Add-On Cards
+Network
+Vision & Video
+Software
+Signal Conditioning
+Sensors and Accessories
+Other
+Filter
+Neuigkeiten
+Kontakt
+Service
+Konto
+Login
+SUCHEN SIE DIE PASSENDE
+INDUSTRIELLE LÖSUNG?
+Entdecken Sie Embedded-, Kommunikations- und Automatisierungslösungen für Ihre Anwendung.
+Neuigkeiten
+GT-92: Lüfterloses KI-Rack-System für den Dauerbetrieb
+Industrielle Anwendungen gieren nach Rechenleistung am Netzwerkrand, dort, wo Daten entstehen. Echtzeitfähige KI-Systeme für Bildverarbeitung, Qualitätskontrolle oder autonome Maschinen sollen große…
+Weiterlesen
+19.10.2026
+NRU-161V-AWP: Sichere Hardware für KI-Vision-Applikationen
+Qualitätssicherung basierte schon in vorindustrieller Zeit zuerst auf der visuellen Prüfung der hergestellten Produkte. Der rasenden technischen Entwicklung zum Trotz hat sich das bis heute nicht…
+Weiterlesen
+16.09.2026
+SEMIL-2200: Nvidia-GPU-Rechner widersteht groben Attacken
+Ursprünglich konzipiert für den militärischen Einsatz in Land- und Wasserfahrzeugen überzeugt der neue GPU-Rechner SEMIL-2200 auch industrielle Anwender mit seinen Stärken. Die jetzt beim deutschen…
+Weiterlesen
+21.08.2026
+Nuvo-11531: Edge-PC arbeitet lüfterlos und ökonomisch im OT-Netz
+Industrial-Edge-Computing entwickelt sich zunehmend vom Datensammler zum autonomen Entscheider. In OT-Netzen (Operational Technology) wechseln die Anforderungen. Deterministische Kommunikation,…
+Weiterlesen
+28.07.2026
+GT-92GC: Kühlt passiv, rechnet aktiv
+Die Erkenntnis ist nicht mehr neu: Industrielle Anwendungen gieren nach Rechenleistung am Netzwerkrand, dort, wo Daten entstehen. Echtzeitfähige KI-Systeme für Bildverarbeitung, Qualitätskontrolle…
+Weiterlesen
+17.04.2026
+GT-92RL-H: Kompromisslose Hardware für Edge-KI von Acceed
+Während KI-Modelle in der Industrie zunehmend effizienter werden, steigen zugleich die Anforderungen an die Hardware im Feld: GPU-Leistung muss mobil, robust und wartungsfrei verfügbar sein, in…
+Weiterlesen
+19.03.2026
+Nuvo-11000: Die neue IPC-Klasse für Automation und KI
+Mit dem steigenden Bedarf an vernetzter Produktion, Echtzeit-Datenverarbeitung und dezentraler Intelligenz im industriellen Umfeld haben sich die Anforderungen an Embedded-Computer in den letzten…
+Weiterlesen
+16.02.2026
+Nuvo-10000GC: High-Class-Plattform für KI-Aufgaben überzeugt mit Modularität und Leistung
+Die industrielle Automatisierung befindet sich seit geraumer Zeit im Wandel. Während bisherige Produktionssysteme auf klassische SPS- und IPC-Architekturen setzten, verlangt die Ära der Industrie 5.0…
+Weiterlesen
+21.01.2026
+NRU-170PPC: Edge-KI ohne Cloud, aber mit User Interface
+Eine bedeutende Rolle bei immer noch wachsender Digitalisierung und Automatisierung in der Industrie spielt die dezentrale Datenverarbeitung. Besonders wenn geringe Latenzen, minimale Ausfallzeiten…
+Weiterlesen
+20.11.2025
+SEMIL-2000GC: Edge-KI-Leistung in Extremzonen und Fahrzeugen
+Widerstandsfähig, lüfterlos, GPU-beschleunigt: So lauten die Anforderungen für KI-fokussierte Rechner an der Produktionslinie, in der Entwicklung, im Feld und unter Extrembedingungen. Oder Deep…
+Weiterlesen
+17.10.2025
+POC-764VR: Autonom überwachen und HD-Bilder auswerten
+Acceed erweitert sein Angebot industrieller Box-Controller um den speziell für die Videoanalyse und Objekterkennung entwickelten lüfterlosen Kompakt-Computer POC-764VR. Neben der auf industrielle…
+Weiterlesen
+18.09.2025
+Nuvo-11000 Series
+Die Nuvo-11000-Serie ist Neousys’ robustes Embedded-Flaggschiff, basierend auf Intel® Core™ Ultra 200 Prozessoren mit bis zu 24 Kernen/Threads, DDR5-6400-Speicher, PCIe Gen5 und integrierter NPU für…
+Weiterlesen
+12.09.2025
+PCIe-9146/9147: Präzise Simultan-Datenerfassung mit PCIe-Karten
+Die multifunktionalen DAQ-Karten PCIe-9146 und PCIe-9147 sind leistungsstarke Neuentwicklungen, die eine präzise und hochflexible Datenerfassung in anspruchsvollen Anwendungen ermöglichen. Diese…
+Weiterlesen
+16.08.2025
+NRU-156U3-FT: Hitzefrei im KI-Einsatz bis 60 °C
+Edge-KI-Anwendungen bedeuten für die eingesetzte Hardware oft eine Unterbringung in knapp bemessenen Gehäusen, Kanälen oder engen Boxen. Zum Schutz vor Umwelteinflüssen sind Einhausungen…
+Weiterlesen
+21.07.2025
+Nuvo-9531-FT: Box-PC mit Flat-Top-Kühlung gegen Hitzestau
+Gute Kühlung, oder präziser ausgedrückt effektive Wärmeableitung, ist ein nicht unwesentlicher Faktor, wenn es um Betriebssicherheit und Leistung bei eingebauten Computern, den für industrielle…
+Weiterlesen
+23.06.2025
+NRU-154PoE-FT: Edge-KI jetzt Top-gekühlt und mit Jetson Orin NX
+Die erfolgreiche NRU-Serie für Edge-KI-Anwendungen beim deutschen Distributor Acceed erhält Zuwachs der besonderen Art. Das auch bisher schon lüfterlose Chassis-Design für den Betrieb bei hohen…
+Weiterlesen
+18.05.2025
+PCIe-9103: Präzise Datenerfassung mit neuen Multiplexer-PCIe-DAQ-Karten
+PCIe-DAQ-Karten (Peripheral Component Interconnect Express - Data Acquisition Cards) stellen eine Schlüsseltechnik in Messanwendungen dar und bilden die leistungsstarke Schnittstelle für digitale…
+Weiterlesen
+22.04.2025
+POC-700-FT: Innovatives Kühlkonzept erhöht die Betriebssicherheit
+Box-PCs und Embedded-Controller müssen oft auf kleinstem Raum oder in engen Schaltkästen installiert werden. Der begrenzte Platz ist eine Herausforderung für die Wärmeableitung. Mangelhaftes…
+Weiterlesen
+18.03.2025
+FLYC-300: Ultraleichter Drohnen-Computer mit KI-Leistung
+Computer für die intelligente Steuerung unbemannter Fahrzeuge und stationärer Roboter arbeiten auch im industriellen Umfeld seit geraumer Zeit mit KI-basierten Applikationen. Eine Herausforderung…
+Weiterlesen
+20.02.2025
+IAP-1800AX: Dualer WiFi-6-Access-Point für die Industrie
+Access-Points haben, wie Ihre Bezeichnung schon sagt, im Grunde nur eine einfache Aufgabe: das Netzwerk per Funktechnik auf effiziente Weise mit Zugangspunkten zu erweitern. Im industriellen Umfeld…
+Weiterlesen
+15.01.2025
+DLAP-411-Orin: Schnellere Edge-KI-Applikationen mit Jetson-Orin
+Kennzeichnend für industrielle KI-Einsätze, Robotikanwendungen und Automatisierungsarchitekturen sind die laufend wachsenden Anforderungen an die Rechenleistung. Steuerung, Überwachung und Auswertung…
+Weiterlesen
+10.12.2024
+EX9250-MTCP: I/O-Module umgehen Ausfall mit Auto-Bypass
+Acceed bietet unter dem Markennamen ExpertDAQ eine umfassende Palette von skalierbaren und kosteneffizienten IO-Modulen, zum Beispiel die Serie EX9200. Die Module mit analogen und digitalen Eingängen…
+Weiterlesen
+19.11.2024
+WDAP-3000AX: WiFi-6-AP ist fit für Outdoor und Industrie
+Eine Herausforderung für die Netzwerkinfrastruktur ist naturgemäß der Außenbereich. Auch kabellose Access-Points und Router bilden dabei keine Ausnahme. Zwar sind die Funk-Reichweiten höher als in…
+Weiterlesen
+21.10.2024
+Nuvo-9650AWP: Industrie-PC ist für harte Einsätze gerüstet
+Der Einsatz von Computern im industriellen Umfeld, speziell in Außenbereichen, bei hohen Temperaturen oder unter Einfluss von Vibration, Nässe, Staub und ähnlichen aggressiven Umweltfaktoren kann…
+Weiterlesen
+14.08.2024
+NRU-51V+: Controller für reibungslose Abläufe im Fahrzeug
+Industriell genutzte Fahrzeuge, sei es für den Transport, für Lagerlogistik oder für andere Aufgaben, entwickeln sich immer mehr zu fahrenden Computern. Ihre Leistung hängt zunehmend von den…
+Weiterlesen
+22.07.2024
+Nuvo-9166GC: AI-Controller ist für den robusten Einsatz
+Der Inferenz-KI-Controller Nuvo-9166GC ist das jüngste Modell des renommierten Herstellers Neousys und jetzt beim deutschen Distributor Acceed erhältlich. Überzeugend ist vor allem seine Kombination…
+Weiterlesen
+25.06.2024
+Nuvo-10208GC: Dual-GPU-KI-Plattform ist robust und leistungsstark
+Für die immer effizienter arbeitende Automatisierung auf Basis künstlicher Intelligenz gewinnt vor allem eine leistungsfähige Hardware für Edge-KI-Anwendungen an Bedeutung. In diesem Kontext hat der…
+Weiterlesen
+21.05.2024
+NRU-220S: KI-Plattform unterstützt Assistenzsysteme
+Die NRU-Serie für Edge-AI-Anwendungen beim deutschen Distributor Acceed erhält Zuwachs. Mit ihrem lüfterlosen Chassis-Design für den Betrieb bei hohen Temperaturen und ihrer starken Inferenzleistung…
+Weiterlesen
+19.04.2024
+NRU-51V+: 4-Kamera-Controller steuert autonome Systeme
+Für autonome Roboter, Fahrzeuge, Flurförderzeuge und ähnliche autonom agierende Maschinen ist vor allem die Sensorik von großer Bedeutung. Gemeint ist die Erfassung von Daten mittels Kameras oder…
+Weiterlesen
+21.09.2023
+Nuvo-9160GC: GPU-Controller bringt KI-Edge-Computing auf 9 TeraFLOPS
+KI-Anwendungen und Edge-Computing-Szenarien erfordern neben großer Speicherkapazität für die Datenbasis vor allem eine hohe Rechenleistung für Datenauswertung und Echtzeit-Reaktion. Die Hauptleistung…
+Weiterlesen
+25.08.2023
+Nuvo 9501: Günstiger Embedded-PC mit leistungsstarker Basis
+Auf industrielle Anforderungen und professionelle Applikationen zugeschnitten ergänzt der jetzt bei Acceed erhältliche Embedded-PC Nuvo-9501 die Reihe leistungsstarker und kompakter Controller der…
+Weiterlesen
+18.07.2023
+Mactron WCP: Neue Touch-Panel-PCs für die Industrie
+Acceed hat sein Portfolio erweitert und jetzt auch die Produkte des Herstellers Mactron Group aufgenommen. Die Mactron Group aus Taiwan ist ein führender Anbieter von All-in-One-Touch-Systemen und…
+Weiterlesen
+21.06.2023
+Nuvo-9000: Industrielle Box-PC-Serie mit 6 x GbE und MezIO
+Acceed hat eine neue Serie leistungsstarker industrieller Box-PCs für flexibel konfigurierbare Einsätze in der Automation, Sicherheitstechnik, Anlagensteuerung und Produktionstechnik in sein…
+Weiterlesen
+22.05.2023
+EX9250-MTCP: I/O-Modul für Daisy-Chain-Schaltung mit Auto-Bypass
+Der deutsche Distributor Acceed bietet unter dem Markennamen ExpertDAQ eine umfassende Palette von skalierbaren und kosteneffizienten IO-Modulen für Netzwerke in anspruchsvollen Einsatzumgebungen.…
+Weiterlesen
+21.04.2023
+IGPMC-111GP: Gigabit-Medienkonverter mit PoE in Industriequalität
+Der jetzt neu beim deutschen Distributor Acceed erhältliche IGPMC-111GP ist ein kompakter, für die Hutschiene geeigneter Gigabit-Medienkonverter, der hohen industriellen Ansprüchen an Robustheit und…
+Weiterlesen
+22.03.2023
+EOS-JNX: IoT-AI-Controller nicht nur für Vision-Aufgaben
+Die neu beim Distributor Acceed erhältlichen Controller der Serie EOS-JNX von Adlink sind mit künstlicher Intelligenz (KI) ausgestattet und für den Einsatz „on the edge“ (Edge Computing) als…
+Weiterlesen
+15.02.2023
+ExpertDAQ: IoT-Komponenten zuverlässig verfügbar bei Acceed
+Der Ausbau der IoT-Infrastruktur ist noch lange nicht abgeschlossen. Insbesondere die Nachrüstung bestehender Architekturen im industriellen Sektor wie auch im Bereich Facility Management privater…
+Weiterlesen
+18.01.2023
+POC-40: Für robustes Edge-Computing auf engstem Raum
+Hohe Leistung, einfacher Zugang zu Schnittstellen, flexible Datenkommunikation und gleichzeitig eine kompakte Bauform: Das sind die nicht ganz einfach zu erfüllenden Anforderungen an…
+Weiterlesen
+12.12.2022
+Nuvo-8111: Erweiterbare KI-Plattform für autonome Prozesse
+Nuvo-8111 ist eine neu entwickelte Baureihe kosteneffizienter Rechnerplattformen, die kompromisslos auf den KI-Einsatz ausgerichtet sind. Der jetzt über den deutschen Distributor Acceed in mehreren…
+Weiterlesen
+11.11.2022
+PXI/PXIe-Systeme: Aufwand reduzieren mit mobiler PXI-Lösung
+Das Bild, das viele vor Augen haben, wenn sie an den Arbeitsplatz eines Konstrukteurs und Hardware-Entwicklers denken: ein chaotischer Arbeitstisch voller Kabel, Klemmen und Leiterplatten, gekrönt…
+Weiterlesen
+21.10.2022
+MCM-216/MCM-218: Autonome DAQ-Engine wertet Sensordaten aus
+Essentielle Voraussetzung für intelligente Abläufe in Smart-Factory-Szenarien und effiziente Automatisierung ist die Erfassung von Zuständen

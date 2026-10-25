@@ -1,0 +1,6 @@
+# SA-044 dymec.com · feed_auto · https://www.dymec.com/feed/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+Tue, 30 Jun 2020 01:39:52 +0000	The Difference Between Industrial and Enterprise Ethernet	https://www.dymec.com/recent-news/difference-between-industrial-and-enterprise-ethernet/
+Wed, 10 Jun 2020 17:12:33 +0000	Evolution of Industrial Ethernet Networks – Layer 2 vs Layer 3	https://www.dymec.com/recent-news/evolution-of-industrial-ethernet-networks-layer-2-vs-layer-3/
+Wed, 10 Jun 2020 16:37:12 +0000	DYMEC is Moving to High Density Ethernet HARTING ix Industrial® – Ethernet Interface	https://www.dymec.com/recent-news/dymec-is-moving-to-high-density-ethernet-harting-ix-industrial-ethernet-interface/
+Fri, 21 Jun 2019 16:00:32 +0000	DYMEC Releases New Line of NSA Cyber-Secure Industrial Ethernet Switches & Routers	https://www.dymec.com/recent-news/dymec-new-nsa-secure-switches-routers/
+Mon, 01 May 2017 04:41:04 +0000	DYMEC Launches New Website at DYMEC.com!	https://www.dymec.com/recent-news/dymec-launches-new-website-dymec-com-2/

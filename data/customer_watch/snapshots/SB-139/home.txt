@@ -1,123 +1,95 @@
-# SB-139 barox.de · home · https://www.barox.ch/en-us/ · fetched 2026-10-25T07:41:18Z · HTTP 200
-Switches for Video | barox.ch
-Support
-Contact
-DE
-FR
-EN
-EN (US)
-Registration
-Products
-Switches
-Media converters
-UTP/coax extender
-PoE injector/midspan/splitter
-DSL modems
-Accessories
-SFP
-Why barox
-News
-Solutions
-Courses
-About us
-Careers
-Team
-History
-Company
-Sustainability
-Downloads
+# SB-139 acusenseteknoloji.com · home · https://acusenseteknoloji.com/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+Hikvision Kamera Sistemleri | Orijinal Ürün Güvenlik Sistemleri Satış Sitesi
+Çağrı Merkezi
+0542 839 68 98
+0216 888 29 34
+info@acusenseteknoloji.com
+Teklif Al
+PROJE ÜRÜNLER Analog Hoparlör
+IP Hopörlör
+IP Kameralar
+Monitörler
+Network Kayıt Cihazları (NVR)
+PTZ Kameralar
+Termal Kameralar
+X-Ray
+IP ÜRÜNLER Hybrid San
+PTZ Kameralar
+IP Kameralar
+Termal Kameralar
+Network Kayıt Cihazları (NVR)
+ACCESS KONTROL Geçiş Kontrol
+Standalone
+Aksesuarlar
+NETWORK ÜRÜNLER Network Switch
+POE Switch
+Access Point
+Router
+İNTERKOM ÜRÜNLER İç Üniteler
+Dış Üniteler
+Villa Tipi Üniteler
+ALARM SİSTEMLERİ Hırsız Alarm Sistemleri
+GÖRÜNTÜLEME SİSTEMİ LED Ekranlar
+LCD Ekranlar
+Dijital Signage
+Video Wall Kontrol Panelleri
+Decoder
+İnteraktif Ekranlar
+LCD Video Wall
+AKSESUARLAR Kablo
+Montaj Aparatı
+Adaptörler
+Kontrol Klavyeleri
+Adaptör Jakı ve BNC
+Monitörler
+Hard Disk
+Mobil Monitörler
+HIKVISION ACUSENSE TEKNOLOJİ
+İhtiyacınız Olan Güvenlik Sistemleri
+Proje Kameralar
+Access Kontrol Sistemleri
+intercom ürünler
+X Ray Üst Arama
+Hırsız Alarm Sistemi
+Kayıt Cihazları
+Kategoriler
+Proje Ürünler
+IP Ürünler
+Access Kontrol
+Network Ürünler
+İnterkom Ürünler
+Alarm Sistemleri
+Görüntüleme Sistemleri
+Aksesuarlar
+Proje Ürünler
+Analog Hoparlör
+IP Hoparlör
+IP Kameralar
+Monitörler
+Network Kayıt Cihazları
+PTZ Kameralar
+Termal Kameralar
+X-Ray Cihazları
+Kurumsal
+Hakkımızda
+Mesafeli Satış Sözleşmesi
+Kullanıcı Sözleşmesi
+Üyelik Sözleşmesi
+İLETİŞİM
+0542 839 68 98
+0216 888 29 34
+info@acusenseteknoloji.com
+Merdivenköy Mah. Dikyol Sok. No.2 Business İstanbul Plaza B Blok İç Kapı No:179 Kadıköy / İSTANBUL
 Software
-Brochures
-Contact
-Support
-Contact
-DE
-FR
-EN
-EN (US)
-Registration
-We make video networks efficient and secure
-barox is a manufacturer of innovative switches, media converters, IP extenders, and software solutions for modern video and security networks where maximum reliability, fail-safety, and resilience are required.
-PRODUCTS WHY BAROX
-PRODUCTS
-Our Range
-Discover our extensive range of products for video and security networks, including switches, media converters, and IP extenders. Be inspired by our diverse product portfolio.
-19" Switches with Management
-DIN Switches with Management
-DIN Switches without Management & Media Converters
-IP and PoE Extenders
-Power Supplies
-SFP
-Accessories
-Tools
-Go to Products
-WHY BAROX
-Our Advantages
-barox specifically tailors the features of its products to the high demands of video and security networks. A strong focus is placed on PoE management, cybersecurity, ease of use, and personal customer service. Learn more about the added value we offer you.
-LEARN MORE
-Software for Efficient Network Management
-With barox software solutions, you can manage switches efficiently, plan networks securely, control firmware centrally, and detect security-relevant, critical deviations at an early stage.
-Seamless Integration into VMS and PSIM Systems
-With the seamless integration of barox switches into leading VMS and PSIM systems, you benefit from clear network monitoring, reduce maintenance efforts, and avoid unnecessary on-site deployments.
-Advanced PoE Management
-With barox switches, you manage the energy management of your video network easily and clearly. This increases efficiency, reduces downtime, and sustainably lowers your operating costs.
-Integrated Cybersecurity Features
-With the integrated cyber security functions of barox switches, you reliably protect your video network from attacks and failures and avoid costly interruptions.
-Industry-Leading Training and Support
-With personal advice and practical training, you can make optimal use of barox solutions, operate your video networks efficiently, and thus achieve maximum benefit.
-NEWS
-Always Well Informed
-Welcome to our news section! Here you will find current news from our industry, news from our range of services and interesting news about our company. This way you are always well informed.
-Products | 22.10.2026
-Greater control and higher system availability thanks to the Geutebrück SNMP Switch Plugin for barox switches
-Geutebrück’s barox SNMP switch integration combines video management and network infrastructure into a coordinated workflow.
-LEARN MORE
-Products | 09.10.2026
-barox and Digital Watchdog Launch New Plugin Integration, bringing Network Intelligence to DW Spectrum
-barox and Digital Watchdog (DW) have announced the launch and availability of a new technology integration connecting DW Spectrum IPVMS with barox video network infrastructure.
-LEARN MORE
-Products | 28.07.2026
-barox PoE switches certified for use with Raytec LED illuminators
-barox has partnered with Raytec to confirm compatibility of its range of PoE Ethernet switch and media converter products to power Raytec’s VARIO2 IPPoE LED illuminator products.
-LEARN MORE
-All news
-SOLUTIONS
-This is where we provide
-more security
-Our solutions are used in areas where a reliable and resilient video network is indispensable – for example, in city and traffic surveillance, in corrections, or in the protection of critical infrastructure.
-ALL AREAS
-Straßenverkehr
-Die Videoüberwachung im Straßenverkehr erfasst Verstöße, Unfälle und Verkehrsströme und verbessert somit die Sicherheit und die Effizienz auf unseren Straßen. Unsere Lösungen spielen eine bedeutende Rolle in sämtlichen Bereichen des Straßenverkehrs, in denen ein widerstandsfähiges Netzwerk von entscheidender Bedeutung ist.
-Justiz und Strafvollzug
-In der Justiz und im Strafvollzug gelten hohe Sicherheitsstandards. Unsere Switche haben sich dort durch ihre Zuverlässigkeit, ihre einzigartigen Cybersecurity-Funktionen und ihre Fähigkeit, umfangreiche Datenmengen zu verarbeiten, bestens bewährt.
-Fracht und Logistik
-In der modernen Logistik ist eine umfassende Videoüberwachung von Lagerflächen, Umschlagplätzen und Transportwegen essenziell und sie trägt zur Optimierung der operativen Abläufe bei. Führende Unternehmen im Bereich Fracht- und Logistik setzen auf unsere Switche, um eine verlässliche Lösung für ihre anspruchsvollen Anforderungen an Video- und Prozessüberwachung zu erhalten.
-INTEGRATION
-Seamless Integration with VMS and PSIM Systems
-By seamlessly integrating barox switches into leading VMS and PSIM platforms, you can optimize the management of your network infrastructure. Network events and device status information are visualized centrally, enabling faster detection and resolution of issues. Remote reboots and automated responses to predefined events minimize manual effort and reduce costly on-site service visits. This saves time, simplifies troubleshooting, and increases operational efficiency in day-to-day operations.
-LEARN MORE
-Login
-Close
-Remember me
-Forgot Password?
-Registrieren
-In contact with barox
-Our team of experts will be happy to answer your questions and concerns. You can reach us by phone, e-mail or via the contact form.
-We look forward to hearing from you.
-Contact
-Newsletter
-AGB
-Imprint
-Data protection
-Newsletter
-Closex
-Stay up to date with us
-Two newsletters, twice the information! Sign up and simply choose the topics that interest you.
-Please select one or both newsletters: *
-Newsletter: Latest information on our products, exciting company news, and upcoming events.
-Tech Newsletter: In-depth technical insights for the successful planning and implementation of your video and security networks.
-First Name / Last Name *
-Email *
-Company
-Phone
-Address (Street, No., Postcode, City)
+Copyright
+2026
+@
+Tüm hakları saklıdır.
+×
+Sepete Eklenemedi!
+Bu ürünün seçenekleri bulunmaktadır.
+Ürünün detay sayfasına giderek seçim yapmalısınız.
+Tamam
+×
+Ürünü favorilere ekleyebilmeniz için üye girişi yapmanız gerekmektedir.
+ÜYE GİRİŞİ / YENİ ÜYELİK

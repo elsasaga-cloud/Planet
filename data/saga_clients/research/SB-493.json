@@ -2,42 +2,53 @@
  "code": "SB-493",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "在线（diteksurgeprotection.com，快照 2026-10-21）",
- "summary": "美国 DITEK Surge Protection（商业/工业/住宅电涌保护制造商；自有 logo PoE 交换机 DTK-SW24PL / DTK-SW16PL（带浪涌保护的 PoE 交换机）、PoE 保护器 DTK-MRJ45 系列；经分销商/集成商/安装商销售；表内「PoE 及配件、工业 FS，自己的 logo」；表内无邮箱）；表内无跟进记录。",
- "type": "电涌保护制造商（自有 logo PoE 交换机线，OEM 采购）",
+ "website_status": "在线（syserso.com，快照 2026-10-21）",
+ "summary": "德国 Syserso Networks（为关键基础设施运营商与网络运营商规划、实施与支持网络：Security、VoIP、Transport、Access；Access 栏目有 Edgecore 工业以太网、Raisecom Gazelle 工业以太网；KP Naif Kiy（Managing Director）；表内「Networking」）；表内 2 次跟进无回复。",
+ "type": "ICT 集成商（德国，KRITIS/运营商，民用口径）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Edgecore",
+  "Raisecom"
+ ],
  "evidence": [
   {
    "kind": "官网快照",
-   "claim": "官网标题：DITEK Surge Protection；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
-   "quote": "DITEK Surge Protection is your first line of defense for sensitive electrical and electronic systems in every commercial, industrial and residential application.",
-   "url": "https://www.diteksurgeprotection.com/",
+   "claim": "官网标题：Customized ICT Solutions. – Syserso Networks；品类词 网络交换 / PoE",
+   "quote": "Syserso Networks plant, realisiert und unterstützt leistungsfähige und flexible Netze für Betreiber kritischer Infrastrukturen sowie für Netzbetreiber.",
+   "url": "https://www.syserso.com/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
    "claim": "表内兴趣/备注",
-   "quote": "PoE及配件 工业FS 自己的logo",
+   "quote": "Networking",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   },
   {
    "kind": "官网快照",
-   "claim": "DITEK 电涌保护",
-   "quote": "DITEK Surge Protection is your first line of defense for sensitive electrical and electronic systems in every commercial, industrial and residential application.",
-   "url": "https://www.diteksurgeprotection.com/",
+   "claim": "Syserso 定位",
+   "quote": "Customized ICT Solutions. – Syserso Networks ; Netze für Betreiber kritischer Infrastrukturen sowie für Netzbetreiber ; /en/access/edgecore-industrial-ethernet/",
+   "url": "https://www.syserso.com/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "PoE 及配件、工业 FS，自己的 logo",
-   "quote": "PoE及配件 工业FS 自己的logo",
+   "claim": "Networking",
+   "quote": "Networking",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Naif Kiy",
+   "title": "Managing Director",
+   "email": "naif.kiy@syserso.com",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
@@ -46,97 +57,79 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "美国",
-  "other": "官网 diteksurgeprotection.com，语言 en-US，快照状态 ok；角色判定来源：用户表"
+  "hq": "德国",
+  "other": "官网 syserso.com，语言 de-DE，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "电涌保护（商业 / 工业 / 住宅）",
-  "自有 logo PoE 交换机 / PoE 保护器"
+  "ICT 网络规划 / 实施 / 支持（德国）"
  ],
  "channels": {
-  "role": "电涌保护制造商（自有 logo PoE 交换机线，OEM 采购）",
-  "region": "美国",
-  "contact": "（表内无邮箱）"
+  "role": "ICT 集成商（德国，KRITIS/运营商，民用口径）",
+  "region": "德国",
+  "contact": "info@syserso.com、naif.kiy@syserso.com"
  },
  "signals": [
-  "站内型号 DTK-SW24PL / DTK-SW16PL（自有 logo PoE 交换机）、DTK-MRJ45",
-  "页面 /solutions/protect-poe-devices-from-power-surges-and-other-disruptions/、/resources/whitepapers/wp-industrial-surge-protection/",
-  "站内 kw：distributor 15 / poe 43 / industrial 39"
+  "官网：Syserso Networks plant, realisiert und unterstützt leistungsfähige und flexible Netze für Betreiber kritischer Infrastrukturen sowie für Netzbetreiber；页面 /en/access/edgecore-industrial-ethernet/、/en/access/gazelle-industrial-ethernet-by-raisecom/",
+  "表内：Networking；KP Naif Kiy / Managing Director"
  ],
  "risks": [
-  "表内无邮箱：首触前需核实官网联系邮箱（不猜测）",
-  "现代工未知；浪涌保护集成为其核心差异，需其工程配合",
-  "PoE 配件（保护器）Saga 价目无（Q-32）"
+  "守界备注：客户为关键基础设施运营商（KRITIS）——只供民用通用工业交换机，IEC 61850-3 等认证 Saga 无；Edgecore/Raisecom 价格基准已低",
+  "2 次无回复 → 改向 MD 具名首触"
  ],
  "saga_fit": {
-  "p1": "STC-424DGGPM-280W",
-  "tier": 30,
-  "why": "自有 DTK-SW24PL（24 口 PoE）/ SW16PL → 24 口 PoE+ 4×2.5G SFP L2+ STC-424DGGPM-280W（$145.7 @30%）贴 DITEK 标（浪涌模块由其集成）；16 口位 HRUI STC-2016GP（$88.0）；**邮箱待补**（表内无，需从官网联系页核实）"
+  "p1": "STI-280GE",
+  "tier": 25,
+  "why": "Access 栏目工业以太网（现 Edgecore/Raisecom）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$48.6 @25%）、工业 8 PoE + 2 SFP STI-288GPM（$82.2）；守界：仅民用通用型号"
  },
- "email_hook": "For the DTK-SW16PL / SW24PL PoE switches sold under the DITEK label, we can be a second ODM source on a Marvell L2+ platform (16/24-PoE + SFP uplinks) from small lots, leaving your surge stage to your own design — which of the two would you dual-source first?",
- "products_seen": [
-  {
-   "brand": "DITEK（自有）",
-   "model": "DTK-SW24PL",
-   "spec": "24 口 PoE 交换机（带浪涌保护，推断）",
-   "saga": "STC-424DGGPM-280W",
-   "url": "https://www.diteksurgeprotection.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "brand": "DITEK（自有）",
-   "model": "DTK-SW16PL",
-   "spec": "16 口 PoE 交换机（带浪涌保护，推断）",
-   "saga": "STC-2016GP（HRUI 列表价 $88.0，非 SmartByte）",
-   "url": "https://www.diteksurgeprotection.com/",
-   "date": "2026-10-21"
-  }
- ],
+ "email_hook": "Naif, alongside the Edgecore and Raisecom industrial Ethernet lines in your access portfolio, we supply Marvell-based DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP managed switches (−40~75 °C, CE/RoHS) from single units, EXW USD — is there a cost-sensitive access position in your utility or operator projects?",
  "mail_review": {
   "binding": {
-   "level": "未发信（S/A 邮箱均无往来；来源：用户表「PoE及配件 工业FS 自己的logo」；Elsa 箱：`to:diteksurgeprotection.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(h)））",
-   "type": "电涌保护制造商（自有 logo PoE 交换机线，OEM 采购）",
-   "sieve": "—（未入筛）",
-   "stop": "从未触达",
-   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
-   "lane": "US 主攻（四主）",
-   "cadence": "首封后看打开",
-   "evidence": "gmail_digest：out 0；用户表：「PoE及配件 工业FS 自己的logo」；研究档 risks：表内无邮箱：首触前需核实官网联系邮箱（不猜测）"
+   "level": "未触达（A/S 邮箱 13 封 2025→2026，无记录打开，0 回；收件 info@syserso.com, naif.kiy@syserso.com；主题多为「24 Port PoE Managed Switch、48 Port PoE Managed Switch」；Elsa 箱：`to:syserso.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 13 / 来 0）（第 74 批(j)））",
+   "type": "ICT 集成商（德国，KRITIS/运营商，民用口径）",
+   "sieve": "1（只收到群发）",
+   "stop": "13 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "DE 主攻（四主）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 13；用户表：「Networking」；研究档 risks：守界备注：客户为关键基础设施运营商（KRITIS）——只供民用通用工业交换机，IEC 61850-3 等认证 Saga 无；Edgecore/Raisecom "
   },
-  "situation": "美国 DITEK Surge Protection（商业/工业/住宅电涌保护制造商；自有 logo PoE 交换机 DTK-SW24PL / DTK-SW16PL（带浪涌保护的 PoE 交换机）、PoE 保护器 DTK-MRJ45 系列；经分销商/集成商/安装商销售；表内「PoE 及配件、工业 FS，自己的 logo」；表内无邮箱）；表内无跟进记录。",
-  "need": "自有 DTK-SW24PL（24 口 PoE）/ SW16PL → 24 口 PoE+ 4×2.5G SFP L2+ STC-424DGGPM-280W（$145.7 @30%）贴 DITEK 标（浪涌模块由其集成）；16 口位 HRUI STC-2016GP（$88.0）；**邮箱待补**（表内无，需从官网联系页核实）",
-  "breakpoint": "表内无邮箱：首触前需核实官网联系邮箱（不猜测）",
+  "situation": "德国 Syserso Networks（为关键基础设施运营商与网络运营商规划、实施与支持网络：Security、VoIP、Transport、Access；Access 栏目有 Edgecore 工业以太网、Raisecom Gazelle 工业以太网；KP Naif Kiy（Managing Director）；表内「Networking」）；表内 2 次跟进无回复。",
+  "need": "Access 栏目工业以太网（现 Edgecore/Raisecom）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$48.6 @25%）、工业 8 PoE + 2 SFP STI-288GPM（$82.2）；守界：仅民用通用型号",
+  "breakpoint": "守界备注：客户为关键基础设施运营商（KRITIS）——只供民用通用工业交换机，IEC 61850-3 等认证 Saga 无；Edgecore/Raisecom 价格基准已低",
   "saga_now": {
-   "p1": "STC-424DGGPM-280W",
-   "tier": 30,
-   "price": "首触锚价 STC-424DGGPM-280W $145.7 EXW（主表档位（PDF 上限 $165；SA-145 2025-02 实报 $150）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
-   "why": "自有 DTK-SW24PL（24 口 PoE）/ SW16PL → 24 口 PoE+ 4×2.5G SFP L2+ STC-424DGGPM-280W（$145.7 @30%）贴 DITEK 标（浪涌模块由其集成）；16 口位 HRUI STC-2016GP（$88.0）；**邮箱待补**（表内无，需从官网联系页核实）",
+   "p1": "STI-280GE",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-10-20 $180（24 Port PoE Managed Switch = STC-424XGGPM-280W，Alan 2026-09-21 起的现价轮）——同款信稿只能写 $180；群发里他已看到的价（续）：2026-08-07 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-17 $300（48 Port PoE Managed Switch）、2025-10-14 $280（10G Enterprise SFP Switch）",
+   "why": "Access 栏目工业以太网（现 Edgecore/Raisecom）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$48.6 @25%）、工业 8 PoE + 2 SFP STI-288GPM（$82.2）；守界：仅民用通用型号",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "待 Simon 排期（首封）",
-   "channel": "A 邮箱 → 待找地址（diteksurgeprotection.com 官网联系页；库内无邮箱）",
-   "action": "首封：按 email_hook 一问（第 75 批(b) 2026-10-25：英文信稿已写 `draft_en`；DITEK 库内无邮箱——官网联系页/表单发）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
-   "one_question": "For the DTK-SW16PL / SW24PL PoE switches sold under the DITEK label, we can be a second ODM source on a Marvell L2+ platform (16/24-PoE + SFP uplinks) from small lots, leaving your surge stage to your own design — which of the two would you dual-source first? Reference: STC-424DGGPM-280W at $145.7 USD EXW (MOQ 1, 15-day validity)."
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Naif, alongside the Edgecore and Raisecom industrial Ethernet lines in your access portfolio, we supply Marvell-based DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP managed switches (−40~75 °C, CE/RoHS) from single units, EXW USD — is there a cost-sensitive access position in your utility or operator projects?"
   },
   "facts": [
+   {
+    "date": "2026-10-20",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "24 Port PoE Managed Switch、48 Port PoE Managed Switch",
+    "why": "13 封 / 0 次打开 / 0 回｜首封 2025-09-17 → 末封 2026-10-20（13 去 / 0 来）",
+    "k": "gmail_digest"
+   },
    {
     "date": "2026-10-21",
     "dir": "用户表",
     "who": "Simon",
-    "quote": "PoE及配件 工业FS 自己的logo",
+    "quote": "Networking",
     "why": "表内备注",
     "k": "用户表"
    }
   ],
-  "proof_gaps": [
-   "无邮件往来"
-  ],
-  "draft_en": {
-   "subject": "Second ODM source for the DTK-SW16PL / DTK-SW24PL switch platform",
-   "body": "Hello DITEK team,\n\nFor the DTK-SW16PL / DTK-SW24PL PoE switches sold under the DITEK label, we can be a second ODM source for the switch platform, leaving the surge stage to your own design.\n\nThe 24-port base: 24 x Gigabit PoE+ (280 W) + 4 x SFP uplinks, L2+ managed, Marvell-based, FCC/CE/RoHS - model STC-424DGGPM-280W - $145.7 USD EXW with your label (MOQ 1 for evaluation, 15-day validity). A 16-port PoE base (16 x PoE + 2 x SFP, unmanaged) is $88.0.\n\nOne question: which of the two would you dual-source first, the 16 or the 24?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
-  },
+  "proof_gaps": [],
+  "draft_en": null,
   "as_of": "2026-10-24"
  }
 }

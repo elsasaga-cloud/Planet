@@ -1,142 +1,114 @@
 {
-  "code": "SB-297",
-  "name_official": "Smart Security Systems（印度；Rk Ahir，gmail）",
-  "researched_at": "2026-10-21",
-  "website_status": "无域名（gmail）",
-  "summary": "印度安防安装 / 经销商 Smart Security Systems（Rk Ahir），2019 年起阿里国际站，商用 PoE 需求，2025-07 对 2 光 8 PoE 回复 price。",
-  "type": "",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "用户表",
-      "claim": "2019 年加入国际站 商业 PoE；2025-07 28poe→price",
-      "quote": "兴趣：2019年加入国际站 商业PoE；回复：price",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Rk Ahir",
-      "title": "（经营者）",
-      "email": "rkahir65@gmail.com",
-      "phone": "",
-      "source": "（本地 Clients/ 表格，无公开 URL）"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "无域名 · 仅表内信息"
-  },
-  "company_facts": {
-    "legal_name": "Smart Security Systems",
-    "founded": "",
-    "hq": "印度",
-    "size": "小型",
-    "other": "gmail；阿里国际站买家"
-  },
-  "business_lines": [
-    "安防系统安装 / 经销"
-  ],
-  "channels": {
-    "role": "安防安装商",
-    "region": "印度"
-  },
-  "signals": [
-    "要了 2 光 8 PoE 价格（2025-07）"
-  ],
-  "risks": [
-    "gmail 小商；印度低价"
-  ],
-  "saga_fit": {
-    "p1": "STC-28DGGPM",
-    "tier": 25,
-    "why": "2 光 8 PoE 询价 → STC-28DGGPM（$84.1 @25%）。"
-  },
-  "email_hook": "Mr. Ahir — you asked for the price of the 8-port industrial PoE switch in July 2025 and never got it: STI-288GP (8× gigabit PoE + 2× SFP, unmanaged, DIN-rail) is $60 USD EXW, MOQ 1; is it for outdoor camera poles or indoor racks, and how many units?",
-  "mail_review": {
-    "binding": {
-      "level": "已触达·我方欠答（Elsa 群发 2025-07-20「8 Port Industrial PoE Switch」→ Rk Ahir 07-26 回「SEND ME PRICE DETAILS WITH BROCHER AND ADVANTAGE PLEASE」→ Saga 未回，至今 15 个月；S/A 邮箱无往来）；Elsa 单发去信 1 封（2026-05-11「10G Enterprise SFP Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）；另 Elsa 单发 1 封（2025-12-29「Marvell Industrial Alert System」）",
-      "type": "—",
-      "sieve": "—（未入筛）",
-      "stop": "我方欠答（不是他不回）；Simon 2026-10-25：不用管了（T29-U51），不再提醒",
-      "revive": "补答：回原串，带价 + 规格书 + 一问，不装作没收到",
-      "lane": "IN 次级（点名）",
-      "cadence": "首封后看打开",
-      "evidence": "gmail_e 1984519079bd6669（2025-07-26 来信，非 Replied）；gmail_digest：S/A out 0；用户表「回复：price」"
-    },
-    "situation": "印度安防安装 / 经销商 Smart Security Systems（Rk Ahir），2019 年起阿里国际站；2025-07-26 回 Elsa 的 8 口工业 PoE 群发要价 + 手册 + 卖点，Saga 从未回复。",
-    "need": "8 口工业 PoE（他回的那封）→ 非管理 STI-288GP $60；若室内机柜用，商用桌面 8 PoE + 2 SFP 非管理 $26.2 作备选。",
-    "breakpoint": "我方欠答 15 个月；gmail 小商、印度低价——补答要价 + 手册一次给齐，别再空问",
-    "saga_now": {
-      "p1": "STI-288GP",
-      "tier": 25,
-      "price": "STI-288GP $60（8 PoE + 2 SFP 非管理工业机，主表 25% 档 $59.8 ≈ Simon 实报量级）；备选商用桌面 STC-028GP $26.2（HRUI，25% 档）；他回的群发正文无价，所以没有「他看过的价」要迁就；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-05-11 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2026-05-11；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）",
-      "why": "他回的是 8 口工业 PoE 群发（非管理）；要价 + 手册 → 直接给 STI-288GP 实价 + 规格书，不升到管理型",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "不动",
-      "channel": "E 邮箱 → rkahir65@gmail.com（Rk Ahir；回原串 thread 197c0e2d0ac20935，邮件客户端自动带 Re:）",
-      "action": "Simon 2026-10-25 裁定：这桩旧欠答不用管了（T29-U51）——补答信稿留档不发；若对方再来信再按「我方欠答」口径接。原拟动作：首封前知悉：Elsa 2026-05-11 单发过「10G Enterprise SFP Switch」（未见回复（Elsa 箱 Replied 标签无））；补答一封：价 + 规格书（附 STI-288GP.pdf）+ 一问；主题沿用原串，不另起（第 75 批(ak) 2026-10-25：信稿复检修正——「, 250 m long-reach PoE mode an」→「.」）",
-      "one_question": "Mr. Ahir — you asked for the price of the 8-port industrial PoE switch in July 2025 and never got it: STI-288GP (8× gigabit PoE + 2× SFP, unmanaged, DIN-rail) is $60 USD EXW, MOQ 1; is it for outdoor camera poles or indoor racks, and how many units?"
-    },
-    "facts": [
-      {
-        "date": "2025-07-20",
-        "dir": "去",
-        "who": "Elsa（群发）",
-        "quote": "8 Port Industrial PoE Switch（8 口千兆 PoE 工业机，30W/口、250 m PoE、SFP/SC/FC/ST 可选；正文无价）",
-        "why": "他回的就是这封；之前「S/A 邮箱均无往来」只对了一半——往来在 Elsa 箱",
-        "k": "gmail_e thread 197c0e2d0ac20935"
-      },
-      {
-        "date": "2025-07-26",
-        "dir": "来",
-        "who": "Rk Ahir（Smart Security Systems）",
-        "quote": "SEND ME PRICE DETAILS WITH BROCHER AND ADVANTAGE PLEASE",
-        "why": "明确要价 + 手册 + 卖点；Elsa 邮箱里这封没有 Replied 标签、线程里没有 Elsa 回信 → 我方欠答 15 个月；用户表「回复：price」= 这条",
-        "k": "gmail_e 1984519079bd6669"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "兴趣：2019年加入国际站 商业PoE；回复：price",
-        "why": "表内备注",
-        "k": "用户表"
-      },
-      {
-        "date": "2026-05-11",
-        "dir": "out",
-        "who": "Elsa → rkahir65@gmail.com",
-        "quote": "10G Enterprise SFP Switch（Elsa 2026 年 1:1 名单重发；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
-        "why": "本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无）",
-        "k": "elsa_1to1",
-        "msg_id": "19e15f15c221a2de"
-      },
-      {
-        "date": "2025-12-29",
-        "dir": "out",
-        "who": "Elsa → rkahir65@gmail.com",
-        "quote": "Marvell Industrial Alert System（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
-        "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
-        "k": "elsa_1to1",
-        "msg_id": "19b689edbe0c3683"
-      }
-    ],
-    "proof_gaps": [
-      "（已核 2026-10-24，第 73 批）Elsa 邮箱有往来：07-20 群发 → 07-26 Rk Ahir 要价 + 手册 → Saga 未回；用户表「回复：price」= 这条，不是 WhatsApp；Elsa 07-20 群发正文（有无价）未拉，只见他回信中引用的附件名「1U Umanaged.jpg」"
-    ],
-    "draft_en": {
-      "subject": "8 Port Industrial PoE Switch — the price you asked for",
-      "body": "Hi Mr. Ahir,\n\nIn July 2025 you replied to our mail on the 8-port industrial PoE switch asking for the price, a brochure and the advantages, and that reply was never answered. Apologies — here it is in one go.\n\nSTI-288GP: 8× gigabit PoE (30 W per port, 240 W budget) + 2× gigabit SFP, unmanaged, DIN-rail, -40 to +75 °C. $60 USD EXW per unit (2026-10-17 snapshot, valid 15 days), MOQ 1, 3-year warranty; datasheet attached. If the cameras sit indoors and you do not need the industrial housing, the desktop 8-PoE + 2-SFP unmanaged unit is $26.2.\n\nWhat you get from us rather than a marketplace seller: neutral brand (your label on request), single units shipped, and the same model kept in production for years so replacements match what you installed.\n\nIs this for outdoor camera poles or indoor racks, and how many units?\n\nBest regards,\nElsa\nSaga Telecom - sagatele.com"
-    },
-    "as_of": "2026-10-24"
+ "code": "SB-297",
+ "name_official": "Gorgos Cristian（摩尔多瓦基希讷乌，安防客户；表内名为地址）",
+ "researched_at": "2026-10-21",
+ "website_status": "无域名（gmail；仅表内信息）",
+ "summary": "摩尔多瓦基希讷乌安防安装商 Gorgos Cristian（Ion Creanga 66），2013 年起用阿里国际站，需求 50 台 2 光 8 电百兆 PoE，2024-04 问「4+2 百兆/千兆 100 台」价格；gmail 联系，俄语/罗马尼亚语区。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "兴趣：50 个 2 光 8 电百兆 PoE；2013 年使用国际站；回复：问了 4+2 百兆千兆 100 个的价格",
+   "quote": "兴趣：50个2光8电百兆PoE 2013年使用国际站；回复：问了4+2百兆千兆100个的价格",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Gorgos Cristian",
+   "title": "（安防客户）",
+   "email": "indexcristi@gmail.com",
+   "phone": "+373 69 522 876",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "无域名 · 仅表内信息"
+ },
+ "company_facts": {
+  "legal_name": "（待核）",
+  "founded": "",
+  "hq": "Chișinău, Ion Creangă 66, Moldova",
+  "size": "小型安装商",
+  "other": "阿里国际站老客户（2013）"
+ },
+ "business_lines": [
+  "安防 / CCTV 安装"
+ ],
+ "channels": {
+  "role": "安防安装商（50–100 台级批量）",
+  "region": "摩尔多瓦"
+ },
+ "signals": [
+  "两次给出具体数量（50 台 / 100 台）= 真实项目体量"
+ ],
+ "risks": [
+  "要百兆 PoE 低价机，利润薄",
+  "摩尔多瓦物流 / 付款：T/T 预付"
+ ],
+ "saga_fit": {
+  "p1": "STC-028GFP",
+  "tier": 25,
+  "why": "百兆 PoE 8 口 + 千兆上行 = Saga STC-028GFP（列表 $17.6）；其要的「2 光」百兆版 Saga 价目无 SFP 款，按 HRUI 同配置报并注明；4+2 百兆/千兆 → STC-024FP / STC-024GP。"
+ },
+ "email_hook": "Cristian, you priced 100 pcs of a 4+2 PoE unit with us last year — if that site is still open, send the port mix (100M or gigabit downlinks) and I'll quote the 8-port and 4-port versions EXW in one line each.",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 4 封 2026，无记录打开，0 回；收件 indexcristi@gmail.com；主题多为「10G L3 Managed Switch、32 Port 400GB DC Switch」；Elsa 箱：`to:indexcristi@gmail.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 4 / 来 0）（第 74 批(n)））",
+   "type": "—",
+   "sieve": "1（只收到群发）",
+   "stop": "4 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "摩尔多瓦（欧洲全域主攻）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 4；用户表：「兴趣：50个2光8电百兆PoE 2013年使用国际站；回复：问了4+2百兆千兆100个的价格」；研究档 risks：要百兆 PoE 低价机，利润薄"
+  },
+  "situation": "摩尔多瓦基希讷乌安防安装商 Gorgos Cristian（Ion Creanga 66），2013 年起用阿里国际站，需求 50 台 2 光 8 电百兆 PoE，2024-04 问「4+2 百兆/千兆 100 台」价格；gmail 联系，俄语/罗马尼亚语区。",
+  "need": "百兆 PoE 8 口 + 千兆上行 = Saga STC-028GFP（列表 $17.6）；其要的「2 光」百兆版 Saga 价目无 SFP 款，按 HRUI 同配置报并注明；4+2 百兆/千兆 → STC-024FP / STC-024GP。",
+  "breakpoint": "要百兆 PoE 低价机，利润薄",
+  "saga_now": {
+   "p1": "STC-028GFP",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-09-02 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2026-06-10 $16000（32 Port 400GB DC Switch）",
+   "why": "百兆 PoE 8 口 + 千兆上行 = Saga STC-028GFP（列表 $17.6）；其要的「2 光」百兆版 Saga 价目无 SFP 款，按 HRUI 同配置报并注明；4+2 百兆/千兆 → STC-024FP / STC-024GP。",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Cristian, you priced 100 pcs of a 4+2 PoE unit with us last year — if that site is still open, send the port mix (100M or gigabit downlinks) and I'll quote the 8-port and 4-port versions EXW in one line each."
+  },
+  "facts": [
+   {
+    "date": "2026-09-02",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "10G L3 Managed Switch、32 Port 400GB DC Switch",
+    "why": "4 封 / 0 次打开 / 0 回｜首封 2026-05-18 → 末封 2026-09-02（4 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：50个2光8电百兆PoE 2013年使用国际站；回复：问了4+2百兆千兆100个的价格",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

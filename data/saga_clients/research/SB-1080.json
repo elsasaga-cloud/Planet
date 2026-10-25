@@ -1,128 +1,125 @@
 {
   "code": "SB-1080",
-  "name_official": "",
+  "name_official": "SPHINX Computer Vertriebs GmbH（德国拉登堡）",
   "researched_at": "2026-10-21",
-  "website_status": "在线（montavue.com，快照 2026-10-21）",
-  "summary": "美国 Montavue（家用与商用 4K/2K 安防摄像系统 DTC 品牌：NVR 套装、Nexus 4K AI、美国销售与技术支持、无月费；自有 logo PoE 交换机（表内「就这一款工业级的」）、MNN-P162-16；表内「PoE switch 自己的 logo，摄像头安防」）；群发 13 次无回复。",
-  "type": "美国安防摄像系统 DTC 品牌（自有 logo PoE，OEM 采购）",
+  "website_status": "在线（sphinxcomputer.de，快照 2026-10-21，德语）",
+  "summary": "德国数据通信专家 / 工业自动化、网络、网络安全、IoT、嵌入式分销商（Moxa、Advantech、Siemens、Milesight；industrial 86 / switch 85；+49 6201 75437），Markus Brenner；表内「卖研华等很多牌子；工业 FS MC」；无跟进。",
+  "type": "",
   "size": "",
-  "brands_seen": [],
+  "brands_seen": [
+    "Moxa",
+    "Advantech",
+    "Siemens",
+    "Milesight"
+  ],
   "evidence": [
     {
       "kind": "官网快照",
-      "claim": "官网标题：Montavue - 4K & 2K Security Systems for Home and Business - No Fees；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 布线 / 线缆 / 网络交换 / PoE",
-      "quote": "A leader in security camera systems for your home or business with unmatched U.S. sales and tech support, No Monthly Fees. 1-year warranty (commercial line). Free Shipping on orders over $150.",
-      "url": "https://montavue.com/",
+      "claim": "数据通信专家，工业自动化、网络技术、网络安全、IoT、嵌入式分销；品牌 Moxa / Advantech / Siemens / Milesight；+49 (0) 6201 75437",
+      "quote": "SPHINX Computer - Ihr Spezialist für Datenkommunikation und Distributor für Industrieautomation, Netzwerktechnik, Cybersecurity, IoT und Embedded Computing",
+      "url": "https://sphinxcomputer.de/",
       "date": "2026-10-21"
     },
     {
       "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "POE switch 自己的logo 就这一款工业级的 摄像头，安防",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网快照",
-      "claim": "Montavue 4K/2K 安防系统",
-      "quote": "A leader in security camera systems for your home or business with unmatched U.S. sales and tech support, No Monthly Fees. 1-year warranty (commercial line).",
-      "url": "https://montavue.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "PoE switch 自己的 logo，一款工业级",
-      "quote": "POE switch 自己的logo 就这一款工业级的 摄像头，安防",
+      "claim": "卖几个有名牌子的；工业 FS MC；卖研华等很多牌子",
+      "quote": "兴趣：卖几个有名牌子的;工业FS MC 卖研华等很多牌子",
       "url": "（本地 Clients/ 表格，无公开 URL）",
       "date": "2026-10-21"
     }
   ],
-  "kp": [],
+  "kp": [
+    {
+      "name": "Markus Brenner",
+      "title": "（表内联系人）",
+      "email": "markus.brenner@sphinxcomputer.de",
+      "phone": "+49 6201 75437",
+      "source": "（本地 Clients/ 表格，无公开 URL）"
+    }
+  ],
   "grade_override": null,
   "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
   "deep": {
     "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+    "level": "B 级加厚 v1（官网快照核对 + 表内）"
   },
   "company_facts": {
-    "hq": "美国",
-    "other": "官网 montavue.com，语言 en，快照状态 ok；角色判定来源：用户表"
+    "legal_name": "SPHINX Computer Vertriebs GmbH",
+    "founded": "1981（待核）",
+    "hq": "Laudenbach, Germany（+49 6201）",
+    "size": "中型分销",
+    "other": ""
   },
   "business_lines": [
-    "安防摄像系统（自有品牌，DTC）",
-    "配套 PoE 交换机（自有 logo）"
+    "工业自动化 / 网络 / IoT 分销"
   ],
   "channels": {
-    "role": "美国安防摄像系统 DTC 品牌（自有 logo PoE，OEM 采购）",
-    "region": "美国",
-    "contact": "admin@montavue.com"
+    "role": "工业分销商",
+    "region": "德国"
   },
   "signals": [
-    "博客 /blogs/news/should-i-use-a-poe-switch、/adding-cameras-from-a-poe-switch-tutorial-montavue",
-    "官网：A leader in security camera systems for your home or business with unmatched U.S. sales and tech support, No Monthly Fees",
-    "站内型号 MNN-P162-16 / MTT8106-SMD；kw camera 343 / nvr 174 / poe 101"
+    "Moxa / Advantech 之下价位带；具名联系人"
   ],
   "risks": [
-    "DTC 品牌：现有深圳代工价格基准低",
-    "13 次无回复，仅 admin@ 邮箱，无具名 KP"
+    "品牌分销导入流程"
   ],
   "saga_fit": {
-    "p1": "STC-28DGGPM",
-    "tier": 30,
-    "why": "套装配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Montavue 标；现有唯一工业款 → STI-288GP（$62.2）；16 口位 HRUI STC-2016GP（$88.0）"
+    "p1": "STI-288GPM",
+    "tier": 20,
+    "why": "Moxa 之下工业管理 PoE → STI-288GPM（$78.9 @20%）；MC STI-110GE。"
   },
-  "email_hook": "For the Montavue-branded PoE switch you pair with your NVR kits (and the single industrial model), we can be a second source on a Marvell platform — 8-PoE + 2 SFP L2+ desktop and DIN-rail 8-PoE industrial — from small lots with FCC/CE/RoHS reports; which one would you dual-source first?",
+  "email_hook": "Herr Brenner, unterhalb der Moxa/Advantech-Preispunkte: Marvell-basierter DIN-Switch 8×PoE + 2×SFP managed (ERPS, −40~75 °C, CE/RoHS) zu 79 $ EXW — ein Evaluierungsgerät für Laudenbach?",
   "mail_review": {
     "binding": {
-      "level": "Elsa 群发 BCC 已触达 2026-08-11「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，CH/US/misc 批次 To office@lightwin.ch，0 回（第 73 批(o) Bcc 头核对 msg 19ff11f7aa952525）；S/A 箱：S/A 邮箱均无往来；来源：用户表「POE switch 自己的logo 就这一款工业级的 摄像头，安防」",
-      "type": "美国安防摄像系统 DTC 品牌（自有 logo PoE，OEM 采购）",
+      "level": "Elsa 群发 BCC 已触达 2026-08-31「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，DE 批次 To office@all4fiber.com，0 回（第 73 批(o) Bcc 头核对 msg 1a056d5159d35ca3）；S/A 箱：S/A 邮箱均无往来；来源：用户表「兴趣：卖几个有名牌子的;工业FS MC 卖研华等很多牌子」",
+      "type": "—",
       "sieve": "—（未入筛）",
-      "stop": "Elsa 群发 BCC 触达过（最近 2026-08-11）无回；S/A 箱从未单独发过",
+      "stop": "Elsa 群发 BCC 触达过（最近 2026-08-31）无回；S/A 箱从未单独发过",
       "revive": "首封（具名 KP 优先，用研究档 email_hook）",
-      "lane": "US 主攻（四主）",
+      "lane": "DE 主攻（四主）",
       "cadence": "首封后看打开",
-      "evidence": "gmail_digest：out 0；用户表：「POE switch 自己的logo 就这一款工业级的 摄像头，安防」；研究档 risks：DTC 品牌：现有深圳代工价格基准低；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To office@lightwin.ch）2025-02-28→2026-08-11 共 15 轮群发（16 Port Ethernet Switch、Mini Industrial PoE Switch、Commercial Network Switch、48 Port PoE Managed Switch、Managed Optical Bypass Switch、8 Port Industrial PoE Switch、Industrial PoE Switch、10G Enterprise SFP Switch、Booster PoE Switch、OEM Core Switching Solution、Updated Ethernet Switches Links、Marvell Managed Commercial Switches、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断"
+      "evidence": "gmail_digest：out 0；用户表：「兴趣：卖几个有名牌子的;工业FS MC 卖研华等很多牌子」；研究档 risks：品牌分销导入流程；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To office@all4fiber.com）2025-03-28→2026-08-31 共 9 轮群发（16 Port Ethernet Switch、8 Port Industrial PoE Switch、48 Port PoE Managed Switch、Managed Optical Bypass Switch、Mini Industrial PoE Switch、Industrial PoE Switch、10G Enterprise SFP Switch、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断"
     },
-    "situation": "美国 Montavue（家用与商用 4K/2K 安防摄像系统 DTC 品牌：NVR 套装、Nexus 4K AI、美国销售与技术支持、无月费；自有 logo PoE 交换机（表内「就这一款工业级的」）、MNN-P162-16；表内「PoE switch 自己的 logo，摄像头安防」）；群发 13 次无回复。",
-    "need": "套装配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Montavue 标；现有唯一工业款 → STI-288GP（$62.2）；16 口位 HRUI STC-2016GP（$88.0）",
-    "breakpoint": "DTC 品牌：现有深圳代工价格基准低",
+    "situation": "德国数据通信专家 / 工业自动化、网络、网络安全、IoT、嵌入式分销商（Moxa、Advantech、Siemens、Milesight；industrial 86 / switch 85；+49 6201 75437），Markus Brenner；表内「卖研华等很多牌子；工业 FS MC」；无跟进。",
+    "need": "Moxa 之下工业管理 PoE → STI-288GPM（$78.9 @20%）；MC STI-110GE。",
+    "breakpoint": "品牌分销导入流程",
     "saga_now": {
-      "p1": "STC-28DGGPM",
-      "tier": 30,
-      "price": "首触锚价 STC-28DGGPM $87.4 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-11；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
-      "why": "套装配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Montavue 标；现有唯一工业款 → STI-288GP（$62.2）；16 口位 HRUI STC-2016GP（$88.0）",
+      "p1": "STI-288GPM",
+      "tier": 20,
+      "price": "SA-016 2025-07 实报 $72 为分销量价）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-31；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
+      "why": "Moxa 之下工业管理 PoE → STI-288GPM（$78.9 @20%）；MC STI-110GE。",
       "repeat": [],
       "gaps": []
     },
     "next_move": {
       "when": "待 Simon 排期（首封）",
-      "channel": "A 邮箱 → admin@montavue.com（无具名 KP；公用地址）",
-      "action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-11「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 75 批(b) 2026-10-25：英文信稿已写 `draft_en`——开头按 ㉝ 点名 Elsa 最近群发主题+日期，型号/价按 ㉕，一问）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
-      "one_question": "For the Montavue-branded PoE switch you pair with your NVR kits (and the single industrial model), we can be a second source on a Marvell platform — 8-PoE + 2 SFP L2+ desktop and DIN-rail 8-PoE industrial — from small lots with FCC/CE/RoHS reports; which one would you dual-source first? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity)."
+      "channel": "A 邮箱 → markus.brenner@sphinxcomputer.de（Markus Brenner）",
+      "action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-31「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 74 批(r) 2026-10-25：英文信稿已写 `draft_en`，开头按 ㉝ 写明 Elsa 群发主题/日期，价按 ㉕ 锚价；德文钩子句只留作备用，发信用英文）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
+      "one_question": "Herr Brenner, unterhalb der Moxa/Advantech-Preispunkte: Marvell-basierter DIN-Switch 8×PoE + 2×SFP managed (ERPS, −40~75 °C, CE/RoHS) zu 79 $ EXW — ein Evaluierungsgerät für Laudenbach?"
     },
     "facts": [
       {
-        "date": "2025-02-28",
+        "date": "2025-03-28",
         "dir": "去",
-        "who": "Elsa 群发（BCC；To office@lightwin.ch，CH/US/misc 批次）",
-        "quote": "16 Port Ethernet Switch — There is a 16-port Din Gigabit Ethernet switch for you. It is good for vehicle network and industrial automation. Model choice 1. 5 Port/8 port 2. 10/",
-        "why": "Elsa 箱群发 BCC 触达证据（命中地址 admin@montavue.com, montavue.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+        "who": "Elsa 群发（BCC；To office@all4fiber.com，DE 批次）",
+        "quote": "16 Port Ethernet Switch — There is a 16-port Din Gigabit Ethernet switch for you. It is good for vehicle network and industrial automation. Model choice 1. 5 Port/8 Port/24 Por",
+        "why": "Elsa 箱群发 BCC 触达证据（命中地址 markus.brenner@sphinxcomputer.de, shop@sphinxcomputer.de, sphinxcomputer.de）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
         "k": "elsa_bcc"
       },
       {
-        "date": "2026-08-11",
+        "date": "2026-08-31",
         "dir": "去",
-        "who": "Elsa 群发（BCC；To office@lightwin.ch，CH/US/misc 批次）",
+        "who": "Elsa 群发（BCC；To office@all4fiber.com，DE 批次）",
         "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
-        "why": "Elsa 箱群发 BCC 触达证据（命中地址 admin@montavue.com, montavue.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+        "why": "Elsa 箱群发 BCC 触达证据（命中地址 markus.brenner@sphinxcomputer.de, shop@sphinxcomputer.de, sphinxcomputer.de）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
         "k": "elsa_bcc"
       },
       {
         "date": "2026-10-21",
         "dir": "用户表",
         "who": "Simon",
-        "quote": "POE switch 自己的logo 就这一款工业级的 摄像头，安防",
+        "quote": "兴趣：卖几个有名牌子的;工业FS MC 卖研华等很多牌子",
         "why": "表内备注",
         "k": "用户表"
       }
@@ -131,8 +128,8 @@
       "无邮件往来"
     ],
     "draft_en": {
-      "subject": "Second source for the Montavue-label PoE switch (8-PoE L2+ or the industrial model)",
-      "body": "Hello Montavue team,\n\nOver the past months you had a few product mails from us - most recently \"24 Port PoE Managed Switch\" on 11 August 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nYou ship a Montavue-branded PoE switch with your NVR kits and one industrial model. We build both classes and can be a second source under your label from small lots:\n\n- 8 x Gigabit PoE+ + 2 x SFP, L2+ managed (web GUI, VLAN), Marvell-based, model STC-28DGGPM - $87.4 USD EXW with your logo (MOQ 1, 15-day validity)\n- Industrial DIN-rail 8 x Gigabit PoE+ + 2 x SFP, -40 to 75 C, unmanaged, model STI-288GP - $62.2 USD EXW\n\nFCC/CE/RoHS reports supplied; logo on the unit is free, colour box from 200 sets.\n\nOne question: which of the two would you want to dual-source first?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+      "subject": "STI-288GPM - DIN managed 8-PoE + 2-SFP below the Moxa / Advantech price points",
+      "body": "Hi Markus,\n\nSome time ago you had a product mail from us - \"24 Port PoE Managed Switch\" on 31 August - and there was no reason to answer a mass mail. This one is specific to the industrial networking part of Sphinx's line card.\n\nBelow the Moxa / Advantech price points you carry, we supply a Marvell-based DIN-rail managed switch, 8 x Gigabit PoE+ (240 W) + 2 x SFP, ring redundancy, -40 to 75 C, CE/RoHS, model STI-288GPM - $78.9 USD EXW (distributor price, MOQ 1, 15-day validity). The matching industrial gigabit media converter STI-110GE is $22.4.\n\nNeutral housing and carton as standard; a Sphinx label is possible from small lots; 3-year warranty together with our DIN power supply.\n\nOne question: is one evaluation unit (at the unit price) for Laudenbach worth a look before your next line-card review?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
     },
     "as_of": "2026-10-25"
   }

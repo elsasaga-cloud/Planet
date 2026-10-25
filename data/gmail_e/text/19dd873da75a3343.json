@@ -11,7 +11,7 @@
  "text": "Hi, Leann,\n*Prices are ALREADY available in the links.*\nYou will find a price list in each category, please try.\nThank you.",
  "char_count": "225",
  "attachments": "[]",
- "note": "SB-121（合并档内 airlink-ilife.com，Leann）：Elsa 2026-04-29 答「价格已在链接里」",
+ "note": "SB-189（合并档内 airlink-ilife.com，Leann）：Elsa 2026-04-29 答「价格已在链接里」",
  "text_source": "text/plain",
  "fetched": "2026-10-24T16:04Z",
  "method": "Arena Gmail connector get_message_text(include_quoted=false)"

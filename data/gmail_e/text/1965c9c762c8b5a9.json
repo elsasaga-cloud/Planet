@@ -11,7 +11,7 @@
  "text": "Hi, Musine,\nDid you check the product information?\nAny interested models?\nThank you.",
  "char_count": "181",
  "attachments": "[{'filename': 'Customization after log-in.jpg', 'mime_type': 'image/jpeg', 'size': 138179}]",
- "note": "SB-1009：追问一次，之后无回",
+ "note": "SB-896：追问一次，之后无回",
  "text_source": "text/plain",
  "fetched": "2026-10-24T16:21Z",
  "method": "Arena Gmail connector get_message_text(include_quoted=false)"

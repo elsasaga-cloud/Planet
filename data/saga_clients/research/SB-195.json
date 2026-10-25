@@ -2,72 +2,118 @@
  "code": "SB-195",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "在线（bome.com，快照 2026-10-21）",
- "summary": "德国 Bome Software GmbH & Co. KG（MIDI 软件与硬件制造商：Bome Network、BomeBox；2014 年阿里巴巴 RFQ「5 电口板子」；KP Florian Bomers（CEO）；电话加不上）；表内未跟进。",
- "type": "MIDI 软硬件厂商（品类不符，陈旧 RFQ）",
+ "website_status": "快照失败（http_error）",
+ "summary": "立陶宛 BK Grupė（bkgrupe.lt；表内「有 Utepo 的」；KP Andrius Daubaras；官网 http_error）；表内 4 次跟进无回复。",
+ "type": "安防/网络集成商（立陶宛，Utepo 在用）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Utepo"
+ ],
  "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：Bome Software – MIDI Software and Hardware；品类词 无线 / WiFi",
-   "quote": "Bome Software is a manufacturer of software and hardware for music production on stage and studio. Our main focus is on MIDI control and MIDI networking,",
-   "url": "https://www.bome.com/",
-   "date": "2026-10-21"
-  },
   {
    "kind": "用户表",
    "claim": "表内兴趣/备注",
-   "quote": "5电口板子；49 - 89 - 45219248 加不上 2014年使用国际站；5电口板子 / from: 阿里巴巴RFQ",
+   "quote": "有Utepo的",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   },
   {
-   "kind": "官网快照",
-   "claim": "Bome 定位",
-   "quote": "Bome Software – MIDI Software and Hardware ; manufacturer of software and hardware for music production on stage and studio",
-   "url": "https://www.bome.com/",
-   "date": "2026-10-21"
-  },
-  {
    "kind": "用户表",
-   "claim": "5 电口板子 RFQ 2014",
-   "quote": "2014年使用国际站 / 5电口板子 / from: 阿里巴巴RFQ",
+   "claim": "有 Utepo 的",
+   "quote": "有Utepo的",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
- "kp": [],
- "grade_override": "C",
- "override_reason": "品类不符（MIDI 设备厂商）+ 2014 年板级陈旧 RFQ；c_sub=品类不符",
+ "kp": [
+  {
+   "name": "Andrius Daubaras",
+   "title": "（职务待核）",
+   "email": "andrius@bkgrupe.lt",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "德国",
-  "other": "官网 bome.com，语言 en-US，快照状态 ok；角色判定来源：官网文案"
+  "hq": "立陶宛",
+  "other": "官网 bkgrupe.lt，语言 ?，快照状态 http_error；角色判定来源：待核"
  },
  "business_lines": [
-  "MIDI 软件 / 硬件（德国）"
+  "（待核，立陶宛）"
  ],
  "channels": {
-  "role": "MIDI 软硬件厂商（品类不符，陈旧 RFQ）",
-  "region": "德国",
-  "contact": "alibb@bome.com、florian.bomers@bome.com"
+  "role": "安防/网络集成商（立陶宛，Utepo 在用）",
+  "region": "立陶宛",
+  "contact": "andrius@bkgrupe.lt"
  },
  "signals": [
-  "官网：Bome Software is a manufacturer of software and hardware for music production on stage and studio. Our main focus is on MIDI control and MIDI networking；首页 New! Bome Network 1.7 ; BomeBox",
-  "表内：5 电口板子 / from: 阿里巴巴 RFQ；2014 年使用国际站；KP Florian Bomers, CEO"
+  "表内：有 Utepo 的；KP Andrius Daubaras",
+  "快照：http_error"
  ],
  "risks": [
-  "品类不符：MIDI 音乐软硬件；RFQ 为 2014 年板级需求（陈旧，Saga 不供板子）"
+  "小国（立陶宛，非主动开拓区）；官网 http_error；现供 Utepo 价格基准低；4 次无回复"
  ],
  "saga_fit": {
-  "p1": null,
-  "tier": 20,
-  "why": "MIDI 音乐设备厂商、2014 年 5 口板级 RFQ（Saga 不供板子）→ 改 C"
+  "p1": "STI-288GP",
+  "tier": 25,
+  "why": "Utepo 位 → 工业 8 PoE + 2 SFP STI-288GP（$59.8 @25%）/ 管理 STI-288GPM（$82.2）、4 PoE + 1 SFP STI-154GP（$39.2）"
  },
- "email_hook": "（不发送：品类不符/陈旧线索）"
+ "email_hook": "Andrius, for the Utepo-type industrial PoE positions in your projects, we supply DIN-rail 4-PoE + 1 SFP and 8-PoE + 2 SFP units (managed on Marvell L2+, or unmanaged, −40~75 °C, CE/RoHS) from single units, EXW USD — which configuration does your next project need?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 14 封 2025→2026，无记录打开，0 回；收件 andrius@bkgrupe.lt；主题多为「Industrial PoE Switch、48 Port PoE Managed Switch」；Elsa 箱：`to:bkgrupe.lt` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 14 / 来 0）（第 74 批(k)））",
+   "type": "安防/网络集成商（立陶宛，Utepo 在用）",
+   "sieve": "1（只收到群发）",
+   "stop": "14 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "立陶宛（欧洲全域主攻）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 14；用户表：「有Utepo的」；研究档 risks：小国（立陶宛，非主动开拓区）；官网 http_error；现供 Utepo 价格基准低；4 次无回复"
+  },
+  "situation": "立陶宛 BK Grupė（bkgrupe.lt；表内「有 Utepo 的」；KP Andrius Daubaras；官网 http_error）；表内 4 次跟进无回复。",
+  "need": "Utepo 位 → 工业 8 PoE + 2 SFP STI-288GP（$59.8 @25%）/ 管理 STI-288GPM（$82.2）、4 PoE + 1 SFP STI-154GP（$39.2）",
+  "breakpoint": "小国（立陶宛，非主动开拓区）；官网 http_error；现供 Utepo 价格基准低；4 次无回复",
+  "saga_now": {
+   "p1": "STI-288GP",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-29 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-07-16 $300（48 Port PoE Managed Switch）、2025-09-23 $280（10G Enterprise SFP Switch）、2026-06-18 $16000（32 Port 400GB DC Switch）",
+   "why": "Utepo 位 → 工业 8 PoE + 2 SFP STI-288GP（$59.8 @25%）/ 管理 STI-288GPM（$82.2）、4 PoE + 1 SFP STI-154GP（$39.2）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Andrius, for the Utepo-type industrial PoE positions in your projects, we supply DIN-rail 4-PoE + 1 SFP and 8-PoE + 2 SFP units (managed on Marvell L2+, or unmanaged, −40~75 °C, CE/RoHS) from single units, EXW USD — which configuration does your next project need?"
+  },
+  "facts": [
+   {
+    "date": "2026-09-14",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "Industrial PoE Switch、48 Port PoE Managed Switch",
+    "why": "14 封 / 0 次打开 / 0 回｜首封 2025-06-20 → 末封 2026-09-14（14 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "有Utepo的",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

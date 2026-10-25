@@ -1,242 +1,236 @@
 {
-  "code": "SA-023",
-  "name_official": "Impulse Networks / Impulse CCTV（Singapore HQ；Vancouver、India 等办事处）",
-  "website_status": "在线",
-  "summary": "自称工业级 CCTV 与 PoE 网络交换机的全球制造商（总部新加坡 81 Ubi Ave 4，北美总部温哥华，印度生产「Make in India」BIS 认证），产品线含网络摄像机、NVR、VMS、PoE/L3/机箱式核心交换机；51–200 人口径；通过集成商/经销商网络销售。用户表：2026 年 E 已回复，兴趣 ONV 工业 FS、工业 FS 打他们的 logo。",
-  "type": "品牌商/贴牌需求（OEM/ODM）——安防品牌自有 PoE 交换机线",
-  "size": "51–200 人（Prospectoo 口径，待核）",
-  "brands_seen": [
-    "Impulse",
-    "ONV"
-  ],
-  "evidence": [
-    {
-      "kind": "官网",
-      "claim": "定位：工业级 CCTV 与 PoE 交换机制造商",
-      "quote": "Impulse CCTV is a global manufacturer of industrial grade CCTV surveillance and PoE Network Switches. Make in India Certified, Global certifications.",
-      "url": "https://impulsecctv.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网",
-      "claim": "总部与办事处分布、产品类目含 Network Switches",
-      "quote": "Impulse is headquartered in Singapore, with North American headquarters in Vancouver, Canada and regional offices worldwide … Products - Network Cameras - Network Video Recorder (NVR) - Video Management System - Network Switches",
-      "url": "https://impulsecctv.com/about-us/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网",
-      "claim": "交换机子类含机箱核心/企业级/L3+",
-      "quote": "Network Switches - Chassis Based Core Switch - Enterprise Grade Switch - Layer 3+ Switch",
-      "url": "https://impulsecctv.com/category/technology2/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网",
-      "claim": "IGS 工业系列功能与型号列表",
-      "quote": "4 Port / 8 Ports Gigabit PoE Ports - IEEE 802.3af and 802.3at compliant Dual DC power input - Rapid Ring (R-Ring) … G.8032 ERPS … Datasheets pdf IMP-IGS-1G06CG pdf IMP-IGS-1G06CP pdf IMP-IGS-1G10CG pdf IMP-IGS-1G10CP pdf IMP-EGS-1G24P02F pdf IMP-EGS-1G48P04X pdf IMP-EGS-1G24P04X pdf IMP-EGS-1G08P02F",
-      "url": "https://impulsecctv.com/industrial-network-switches/",
-      "date": "2022-10-27"
-    },
-    {
-      "kind": "官网博客",
-      "claim": "2026-01 推荐机型 IMP-IGS-1G06CG / 1G10CP",
-      "quote": "Impulse IGS Series: … 4-10 Gigabit PoE ports with IEEE 802.3af/at compliance - Dual DC power input … Operating temperature: -40°C to 75°C … Impulse 6-Port Gigabit PoE Switch (IMP-IGS-1G06CG) … Impulse 10-Port Gigabit PoE Switch (IMP-IGS-1G10CP)",
-      "url": "https://impulsecctv.com/blog/choosing-the-right-poe-switch-for-scalable-networks/",
-      "date": "2026-01-30"
-    }
-  ],
-  "kp": [
-    {
-      "name": "—",
-      "role": "总机邮箱",
-      "email": "info@impulsecctv.com",
-      "phone": "+1 778-508-3514（温哥华，ZoomInfo）",
-      "source": "https://impulsecctv.com/about-us/"
-    }
-  ],
-  "notes": "A 确认：安防品牌自有 PoE 交换机线 + 2026 年主动回复 + 明确要贴 logo；P1 = STI-288DGGPM（工业 PoE，对位其在用 ONV 工业 FS），30% OEM 档；注意其印度产线可能要求 SKD/CKD，先问整机。",
-  "researched_at": "2026-10-21",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "深挖 v1"
+ "code": "SA-023",
+ "name_official": "FCNet Future Communication Networks / FCNET Sp. z o.o.（Opole, Poland）",
+ "website_status": "在线",
+ "summary": "波兰奥波莱的网络无源/有源元件分销商与进口商（原合伙制，2024 年改有限公司），Fluke Networks 波兰分销商，提供网络设计、外包、IP 电话；营收约 1,020 万 PLN。用户表：1 次实质回复，兴趣「自己的 logo」。",
+ "type": "分销商/进口商（自有 logo 采购）",
+ "size": "营收 10.2M PLN、资产 6.2M PLN（bizraport）",
+ "brands_seen": [
+  "Fluke Networks"
+ ],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "定位：无源+有源网络元件综合供应；Fluke Networks 分销商",
+   "quote": "Kompleksowa oferta pasywnych i aktywnych elementów sieci teleinformatycznych … Dystrybutorem na Polskę rozwiązań Fluke Networks jest firma FCNet Future Communication Networks",
+   "url": "https://www.fcnet.pl/o-firmie",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "legal_name": "Impulse Networks / Impulse CCTV",
-    "hq": "Singapore（81 Ubi Ave 4）；北美 Vancouver；印度生产（BIS）",
-    "staff": "51–200",
-    "other": "自有品牌 IMP- 系列：IGS 工业 PoE（IMP-IGS-1G06CG/CP、1G10CG/CP、1G12CG）、EGS 企业 PoE（1G08P02F、1G24P02F/04X、1G48P04X）、XGS 10G 核心（2404XCP、480204XCP）、SWT-0049 系列 24/48×10G + 40/100G；ONV 来源（用户表）"
+  {
+   "kind": "第三方（bizraport）",
+   "claim": "体量",
+   "quote": "FCNET SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ … aktywa 6,2 mln zł · przychód 10,2 mln zł",
+   "url": "https://www.bizraport.pl/krs/0001095976/fcnet-spolka-z-ograniczona-odpowiedzialnoscia",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "网络摄像机 / NVR / VMS",
-    "工业 PoE 交换机 IGS（ERPS/R-Ring/PTP/OAM）",
-    "企业 PoE 与 10G/100G 核心交换机"
-  ],
-  "products_seen": [
-    {
-      "brand": "Impulse",
-      "model": "IMP-IGS-1G06CG / 1G06CP",
-      "spec": "工业 4 GE PoE + 2 SFP，双 DC，R-Ring/ERPS，-40~75℃",
-      "url": "https://impulsecctv.com/industrial-network-switches/",
-      "date": "2022-10-27",
-      "saga": "STI-144GP"
-    },
-    {
-      "brand": "Impulse",
-      "model": "IMP-IGS-1G10CG / 1G10CP",
-      "spec": "工业 8 GE PoE + 2 SFP",
-      "url": "https://impulsecctv.com/blog/choosing-the-right-poe-switch-for-scalable-networks/",
-      "date": "2026-01-30",
-      "saga": "STI-288DGGPM"
-    },
-    {
-      "brand": "Impulse",
-      "model": "IMP-IGS-1G12CG",
-      "spec": "工业 L2+ 10G 上联 PoE，iDMS，DHCP server",
-      "url": "https://impulsecctv.com/switching-supply-for-sundergarh-college-and-hospital",
-      "date": "2021-10-13",
-      "saga": "—（工业 10G 需核）"
-    },
-    {
-      "brand": "Impulse",
-      "model": "IMP-EGS-1G08P02F / 1G24P02F / 1G24P04X / 1G48P04X",
-      "spec": "企业 PoE 8/24/48 口（2 SFP 或 4×10G）",
-      "url": "https://impulsecctv.com/industrial-network-switches/",
-      "date": "2022-10-27",
-      "saga": "STC-28DGGPM / STC-424DGGPM-280W / STC-424XGGPM-280W / STC-448XGGM(L3)"
-    },
-    {
-      "brand": "Impulse",
-      "model": "IMP-XGS-2404XCP / 480204XCP；IMP-SWT-0049 系列",
-      "spec": "L3 10G 核心、24/48×10G + 40/100G",
-      "url": "https://impulsecctv.com/product/imp-swt-0049-series/",
-      "date": "2026-10-21",
-      "saga": "—（核心层不在 Saga 型谱）"
-    }
-  ],
-  "channels": {
-    "网站": "https://impulsecctv.com/",
-    "直邮": "info@impulsecctv.com（用户表）"
+  {
+   "kind": "官网",
+   "claim": "网店交换机目录与净价（TP-Link 8/16/24 口 PoE）",
+   "quote": "TP-Link TL-SG2428P, 24xGE PoE+ 250W, 4xGE SFP, 19\" … Cena netto 1 037,15 PLN … TP-Link TL-SG2210MP, 8xGE PoE+ 150W, 2xGE SFP … Cena netto 543,01 PLN … TL-SG3428MP, 24xGE PoE+ 384W, 4xGE SFP, konsola … 1 311,25 PLN",
+   "url": "https://www.fcnet.pl/sprzet-sieciowy/switche.html",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "2026-01 博客仍主推 IGS 1G06CG/1G10CP——工业 PoE 为活跃走量线（2026-10-21）",
-    "用户表：ONV 工业 FS，他们的 logo——已有成熟 ODM"
-  ],
-  "risks": [
-    "印度「Make in India」BIS 路线：可能转向本地组装（SKD/CKD）而非整机进口",
-    "ONV 关系稳固；切入点为 Marvell 平台二供"
-  ],
-  "saga_fit": {
-    "p1": "STI-288DGGPM",
-    "tier": 30,
-    "why": "IMP-IGS-1G10CP（8 GE PoE + 2 SFP 工业）= STI-288DGGPM；1G06CP = STI-144GP；EGS 24/48 = STC-424DGGPM-280W / STC-448XGGM(L3)；OEM 30% 档"
+  {
+   "kind": "目录",
+   "claim": "automatyka.pl 列其类目含工业交换机/路由器/MC/UPS",
+   "quote": "Konwertery magistral i protokołów, mediakonwertery · Huby · Switche przemysłowe, przełączniki rack · Routery przemysłowe",
+   "url": "https://www.automatyka.pl/firmy/fcnet-future-communication-networks-spolka-cywilna-90964-1",
+   "date": "2026-10-21"
   },
-  "email_hook": "Your IMP-IGS-1G10CP and IMP-IGS-1G06CG are the exact 8+2 and 4+2 industrial PoE footprints we build on a Marvell core with ERPS ring, so I am quoting both in Impulse packing as a second source next to your current line.",
-  "mail_review": {
-    "binding": {
-      "level": "未绑定（Elsa 邮箱 2026-01-07 Amol Kumar 回「pls share your company website and your address」→ Elsa 01-08 回复后无下文；A/S 邮箱 21 封 0 回）；补核（第 73 批）：Elsa 01-08 的回复没给网站/地址（当时无官网），只反问项目/自有品牌 + MII；Elsa 1:1 去信 4 轮 2026-03-02→2026-08-04（To 仅本户 ak@impulsecctv.com；头 msg 19fcb4933308f270 核对无 Bcc，称呼「Hi, Amol」= 个性化逐月 1:1 名单；主题 Updated Ethernet Switches Links、Industrial PoE Switch、10G Enterprise SFP Switch、24 Port PoE Managed Switch；客户来过信：Elsa 回 2026-01-08 Re:「OEM Core Switching Solution」）（第 74 批(m) `from:e.sagatelecom to:` 全程 complete，直收 5 条）",
-      "type": "新加坡安防品牌 Impulse CCTV（自有 PoE 交换机线，要贴 logo——用户表）",
-      "sieve": "0（邮件层无人工回复）",
-      "stop": "可信度核验（网站/地址）后停；当时 sagatele.com 未上线",
-      "revive": "用 sagatele.com + 公司地址重发一次",
-      "lane": "SG 非主攻",
-      "cadence": "一次",
-      "evidence": "邮件：去信 21 封（2024-07-08 → 2026-09-21），来信 0；Opened 标签 2 次（2025-02-21、2024-07-08）；收件人 info@impulsecctv.com, ps@impulsecctv.com"
-    },
-    "situation": "唯一的人工回复在 Elsa 邮箱：对 CENTEC 核心交换机群发问「公司网站和地址」。这是身份核验，不是需求。",
-    "need": "自有品牌 PoE 交换机（对位其在用 ONV——用户表）。",
-    "breakpoint": "可信度门槛；现有网站可补。",
-    "saga_now": {
-      "p1": "STI-288DGGPM",
-      "tier": 30,
-      "price": "再触锚价 STI-288DGGPM $137.5（PDF 上限；30% 档 151.6 超；第 72 批 2026-10-24）；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-02 $65（10g media converter）；群发里他已看到的价（续）：2026-08-21 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-08-08 $300（48 Port PoE Managed Switch）、2025-10-17 $280（10G Enterprise SFP Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-05-11 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2026-05-11；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-08-04 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-04；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
-      "why": "已打开的主题（2/21 封有打开记录）：「2.5G Ethernet Switch」(2024-07-08)、「8 Port Industrial PoE Switch」(2025-02-21) → 读者兴趣偏「2.5G」；与 P1 同类，继续 最近一封去信是 2026-09-21 A 邮箱模板（在本档最后一条事实之后）——下一封必须回到真人线程、不再叠模板｜已发资料（勿重发）：Product Link_2026Q2(2026-03-03)、Product Link_2026Q3(2026-07-17)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "2026-11",
-      "channel": "E 邮箱 → ak@impulsecctv.com（Elsa 署名；若改从 A 箱发，署名换 Alan）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
-      "action": "首封前知悉：Elsa 已 1:1 去信 4 轮（2026-03-02→2026-08-04，客户回过信（2026-01-08））（第 74 批(m)）；一封：sagatele.com + 地址 + 一句话",
-      "one_question": "Our site is now live at sagatele.com — which Impulse PoE SKU is sourced from ONV today? Reference: STI-288DGGPM at $137.5 USD EXW (MOQ 1, 15-day validity)."
-    },
-    "facts": [
-      {
-        "date": "2024-07-08",
-        "dir": "去",
-        "who": "Saga（群发）",
-        "quote": "「2.5G Ethernet Switch」被打开（Mailtrack Opened 标签）",
-        "why": "唯一的互动痕迹",
-        "k": "bbfc5a22d14032ff"
-      },
-      {
-        "date": "2025-02-21",
-        "dir": "去",
-        "who": "Saga（群发）",
-        "quote": "「8 Port Industrial PoE Switch」被打开（Mailtrack Opened 标签）",
-        "why": "唯一的互动痕迹",
-        "k": "f408faefdae4dd88"
-      },
-      {
-        "date": "2026-01-07",
-        "dir": "来（Elsa 箱）",
-        "who": "Amol Kumar（Impulse CCTV）",
-        "quote": "pls share your company website and your address",
-        "why": "核验",
-        "k": "E 19b9767e81c6fe96"
-      },
-      {
-        "date": "2026-01-08",
-        "dir": "去",
-        "who": "Elsa",
-        "quote": "For detailed CENTEC-based product information(specifications and datasheets), we usually provide them directly to partners via email… 1. Are you working on a project or developing your own brand? 2. Is this regarding MII compliance, or just a regular import?（附 8C48XF.png）",
-        "why": "Amol 01-07 要网站 + 地址，Elsa 01-08 没给（当时无官网），反问项目/品牌 + MII → 无下文；现在 sagatele.com 上线，信稿补这一笔是对的",
-        "k": "gmail_e 19b9ccd03f17ff1c"
-      },
-      {
-        "date": "2026-03-02",
-        "dir": "out",
-        "who": "Elsa → ak@impulsecctv.com",
-        "quote": "Updated Ethernet Switches Links（Elsa 1:1 逐月名单第 1/4 轮；To 仅本户）",
-        "why": "第 74 批(m) `from:e.sagatelecom to:ak@impulsecctv.com` 全程 complete：4 轮直收；客户曾来信（见 Re: 行）",
-        "k": "elsa_1to1",
-        "msg_id": "19cad60100c49788"
-      },
-      {
-        "date": "2026-04-03",
-        "dir": "out",
-        "who": "Elsa → ak@impulsecctv.com",
-        "quote": "Industrial PoE Switch（Elsa 1:1 逐月名单第 2/4 轮；To 仅本户）",
-        "why": "第 74 批(m) `from:e.sagatelecom to:ak@impulsecctv.com` 全程 complete：4 轮直收；客户曾来信（见 Re: 行）",
-        "k": "elsa_1to1",
-        "msg_id": "19d52b6b91eebc24"
-      },
-      {
-        "date": "2026-05-11",
-        "dir": "out",
-        "who": "Elsa → ak@impulsecctv.com",
-        "quote": "10G Enterprise SFP Switch（Elsa 2026 年 1:1 名单重发；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
-        "why": "本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无）",
-        "k": "elsa_1to1",
-        "msg_id": "19e160cd5dd086ce"
-      },
-      {
-        "date": "2026-08-04",
-        "dir": "out",
-        "who": "Elsa → ak@impulsecctv.com",
-        "quote": "24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 4/4 轮；To 仅本户；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f）",
-        "why": "第 74 批(m) `from:e.sagatelecom to:ak@impulsecctv.com` 全程 complete：4 轮直收；客户曾来信（见 Re: 行）",
-        "k": "elsa_1to1",
-        "msg_id": "19fcb4933308f270"
-      }
-    ],
-    "proof_gaps": [
-      "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 去信 4 轮、0 回），仓库未见原文"
-    ],
-    "draft_en": {
-      "subject": "Company website and address — sagatele.com",
-      "body": "Hi Amol,\n\nIn January you asked for our website and address before going further. Both are now in place: sagatele.com (products, firmware notes, company background) and our address is on the Contact page.\n\nOne question, so I send the right thing: which Impulse PoE switch SKU do you source from ONV today? If you tell me the model, I will send the matching Marvell-based industrial unit (DIN-rail 8× PoE + 2× SFP, managed) with your label option and a sample price, nothing else.\n\nReference price: STI-288DGGPM (8× GE PoE + 2× 2.5G SFP, managed DIN-rail) at $137.5 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nBest regards,\nElsa\nSaga Telecom - sagatele.com"
-    },
-    "as_of": "2026-10-24"
+  {
+   "kind": "官网",
+   "claim": "地址/电话/邮箱公开",
+   "quote": "Adres: Św. Jacka 2; 45-073 Opole, Polska Tel: (+48) 775-418-475 Email: info@fcnet.pl",
+   "url": "https://www.fcnet.pl/o-firmie",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "总机",
+   "email": "info@fcnet.pl",
+   "phone": "+48 77 541 84 75",
+   "source": "https://www.fcnet.pl/o-firmie"
+  }
+ ],
+ "notes": "A 确认：欧洲中型分销商 + 自有 logo 意向 + 已回复；P1 = STC-28DGGPM / STC-424DGGPM-280W 贴牌，20% 分销档（贴牌另议 30%）。",
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "深挖 v1"
+ },
+ "company_facts": {
+  "legal_name": "FCNET Sp. z o.o.（原 FCNet Future Communication Networks s.c.；NIP 7542916466，REGON 160150149）",
+  "hq": "ul. Św. Jacka 2, 45-073 Opole, Poland",
+  "revenue": "约 10.2M PLN",
+  "other": "Fluke Networks 波兰分销商；网店卖 TP-Link/Netgear/Cisco/HPE/Ubiquiti/MikroTik 交换机，含 PoE 电源配件；automatyka.pl 类目含工业交换机/工业路由器/MC"
+ },
+ "business_lines": [
+  "网络有源/无源元件分销（网店）",
+  "网络设计、外包、IP 电话",
+  "工业交换机/路由器/MC（automatyka.pl 目录类目）"
+ ],
+ "products_seen": [
+  {
+   "brand": "TP-Link（转售）",
+   "model": "TL-SG2428P（24×GE PoE+ 250W + 4 SFP）",
+   "spec": "净价 1,037.15 PLN（≈$270）",
+   "url": "https://www.fcnet.pl/sprzet-sieciowy/switche.html",
+   "date": "2026-10-21",
+   "saga": "STC-424DGGPM-280W"
+  },
+  {
+   "brand": "TP-Link（转售）",
+   "model": "TL-SG2210MP（8×GE PoE+ 150W + 2 SFP）",
+   "spec": "净价 543.01 PLN（≈$140）",
+   "url": "https://www.fcnet.pl/sprzet-sieciowy/switche.html",
+   "date": "2026-10-21",
+   "saga": "STC-28DGGPM"
+  },
+  {
+   "brand": "TP-Link（转售）",
+   "model": "TL-SG3428MP（24×GE PoE+ 384W + 4 SFP，L2+）",
+   "spec": "净价 1,311.25 PLN（≈$340）",
+   "url": "https://www.fcnet.pl/sprzet-sieciowy/switche.html",
+   "date": "2026-10-21",
+   "saga": "STC-424DGGPM-280W"
+  },
+  {
+   "brand": "（配件）",
+   "model": "Zasilacz PoE 48V 0,5A Gigabit 24W",
+   "spec": "PoE 电源 25.20 PLN 起",
+   "url": "https://www.fcnet.pl/sprzet-sieciowy/akcesoria/poe.html",
+   "date": "2026-10-21",
+   "saga": "—"
+  }
+ ],
+ "channels": {
+  "网站/网店": "https://www.fcnet.pl/",
+  "直邮": "info@fcnet.pl（官网）/ biuro@fcnet.pl（用户表）",
+  "电话": "+48 775-418-475"
+ },
+ "signals": [
+  "网店交换机价带：8 口 PoE ≈ $140、24 口 PoE+ ≈ $270–340 净价——Saga 同规格 EXW $84/$134–140 有 30–40% 空间供其自有 logo 定价（2026-10-21）",
+  "用户表：1 次实质回复，兴趣「自己的 logo」"
+ ],
+ "risks": [
+  "TP-Link 价格锚点低，自有 logo 需靠更低进货价 + 本地化（波兰语说明书、CE/WEEE）支撑",
+  "小体量（~1,000 万 PLN 营收）"
+ ],
+ "saga_fit": {
+  "p1": "STC-424DGGPM-280W",
+  "tier": 20,
+  "why": "其网店主销 TL-SG2428P（24 PoE+ 4 SFP）与 TL-SG2210MP（8 PoE+ 2 SFP）→ Saga 同位 STC-424DGGPM-280W / STC-28DGGPM 可贴 FCNET 标；分销 20% 档"
+ },
+ "email_hook": "Against the TL-SG2428P and TL-SG2210MP price points on fcnet.pl, a Marvell-based 24-port PoE+ with 4 SFP and the matching 8-port unit under your own label leave a workable margin at EXW, so those are the two I am quoting.",
+ "mail_review": {
+  "binding": {
+   "level": "未绑定（价格流：10G MC 65 USD →「much better price from different supplier」；Elsa 箱：`to:.pl` 穷举 24 条（2026-10-25，锚批 Bcc 头已读）未见 fcnet.pl → Elsa 箱从未发过本户，往来只在 S/A 箱（去 24 / 来 2）（第 74 批(f)））",
+   "type": "波兰进口分销（自有 logo 意向，用户表）——第三档；波兰次重点",
+   "sieve": "1",
+   "stop": "2025-04-22「We have much better price for this product from different supplier.」",
+   "revive": "非 MC 品类（管理型 PoE）上再试一次；MC 不再报",
+   "lane": "PL/EU",
+   "cadence": "2025-02 → 2026-09 去信 24 封；最后来信 2025-04-22",
+   "evidence": "k=5f2f240aad79e90d / 9e557e84dc8bdbf1 / 34b75cab2668542d"
+  },
+  "situation": "FCNET 2025-04-18 问 10G MC 价格，Alan 报 65 USD（Marvell 芯片），04-22 回「别家价格好得多」。A 邮箱补齐后的新增线程里 FCNET 也只有这一段。",
+  "need": "10G MC（价格导向）。",
+  "breakpoint": "MC 是最同质化的品类，Marvell 溢价在这里没有故事；筛子正常工作。",
+  "saga_now": {
+   "p1": "STC-424DGGPM-280W（管理型 PoE，差异品）",
+   "tier": 20,
+   "price": "换人再触锚价 STC-424DGGPM-280W $134.5 EXW（主表档位（PDF 上限 $165；SB-070 2025-02 实报 $150）；第 72 批 2026-10-24）；按 20% 分销档；历史报价（邮件原话，老汇率）：2025-04-18 65usd；群发里他已看到的价（续）：2026-08-26 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-04-18 $65（10G Media Converter）、2025-06-19 $300（48 Port PoE Managed Switch）、2025-10-10 $280（10G Enterprise SFP Switch）",
+   "why": "换品类问一次。已打开的主题（5/24 封有打开记录）：「Re: 10G Media Converter」(2025-04-18)、「Re: 10G Media Converter」(2025-04-22)、「10G Enterprise SFP Switch」(2025-10-10)、「Marvell Industrial Alert System」(2025-12-31) → 读者兴趣偏「10G 汇聚/L3」；当前 P1 属「PoE 接入」，下一封按「10G 汇聚/L3」给，不按 P1",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1",
+   "channel": "A 邮箱 → info@fcnet.pl",
+   "action": "一句话问管理型 PoE 的来源（第 75 批(p) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
+   "one_question": "For managed PoE switches (not MC), who is your current source and what is the gap you would switch for? Reference: STC-424DGGPM-280W at $134.5 USD EXW (MOQ 1, 15-day validity)."
+  },
+  "facts": [
+   {
+    "date": "2025-02-04",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "L3 Managed Switch",
+    "why": "首封去信（邮箱索引；去信共 24 封）",
+    "k": "e78dd839307d2620"
+   },
+   {
+    "date": "2025-04-18",
+    "dir": "来",
+    "who": "FCNET",
+    "quote": "And the price is ?",
+    "why": "询价",
+    "k": "5f2f240aad79e90d"
+   },
+   {
+    "date": "2025-04-18",
+    "dir": "去",
+    "who": "Saga（Alan）",
+    "quote": "Hi, Price: 65usd/pc 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, Marvell chip, unmanaged, non-PoE, DC5~12V input, with power adapter Please see attached datasheet. Thank you.",
+    "why": "历史报价点（主题「Re: 10G Media Converter」；第 20 批从 gmail_a 回补）：65usd",
+    "k": "9e557e84dc8bdbf1"
+   },
+   {
+    "date": "2025-04-18",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "10G Media Converter｜稿内价 $65",
+    "why": "去信正文含价（邮箱索引）",
+    "k": "1ec7c5f774ee3065"
+   },
+   {
+    "date": "2025-04-18",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "Re: 10G Media Converter｜稿内价 $65",
+    "why": "去信正文含价（邮箱索引）",
+    "k": "9e557e84dc8bdbf1"
+   },
+   {
+    "date": "2025-04-18",
+    "dir": "来",
+    "who": "info@fcnet.pl",
+    "quote": "Re: 10G Media Converter｜And the price is ?    Pozdrawiam / Best regards  FCNET sp. z o.o. | ul. Św. Jacka 2 45-073 Opole t: +48 775-418-475 | e-mail info@fcnet.pl NIP: 754291",
+    "why": "来信（邮箱索引；原文见 k；是否人工回复以原文为准）",
+    "k": "5f2f240aad79e90d"
+   },
+   {
+    "date": "2025-04-22",
+    "dir": "来",
+    "who": "FCNET",
+    "quote": "We have much better price for this product from different supplier.",
+    "why": "价格流停点",
+    "k": "34b75cab2668542d"
+   },
+   {
+    "date": "2025-04-22",
+    "dir": "来",
+    "who": "info@fcnet.pl",
+    "quote": "Re: 10G Media Converter｜We have much better price for this product from different supplier.    Pozdrawiam / Best regards  FCNET sp. z o.o. | ul. Św. Jacka 2 45-073 Opole t: +",
+    "why": "来信（邮箱索引；原文见 k；是否人工回复以原文为准）",
+    "k": "34b75cab2668542d"
+   },
+   {
+    "date": "2026-09-28",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "Managed PoE Switches",
+    "why": "最近一封去信（邮箱索引；去信共 24 封）",
+    "k": "03690d2c8c5731ec"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": {
+   "subject": "Not the media converter again - where do your managed PoE switches come from?",
+   "body": "Hello FCNET team,\n\nIn April 2025 you told us a competitor had a much better price on the 10G media converter - fair, converters are the most price-driven item we carry, and we did not argue. The mails since were general product mails; no reason to answer those.\n\nWhere we are usually worth a look is the managed PoE switch against the TL-SG2428P / TL-SG2210MP price points on fcnet.pl, under your own label: 24 x Gigabit PoE+ (280 W) + 4 x SFP, L2+ managed, Marvell-based, CE/RoHS - model STC-424DGGPM-280W - $134.5 USD EXW at distributor price (MOQ 1, 15-day validity); 8 x PoE+ + 2 x SFP - STC-28DGGPM - $80.7.\n\nOne question: where do your managed PoE switches come from today - a brand, or an own-label source?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+  },
+  "as_of": "2026-10-24"
+ }
 }

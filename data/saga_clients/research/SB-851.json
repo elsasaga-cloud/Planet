@@ -1,117 +1,150 @@
 {
- "code": "SB-851",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "快照失败（http_error）",
- "summary": "美国 Mencom Corporation（工业连接器/线缆组件制造商，兼售自有标工业交换机与 MC，「标价高」；KP John Heath（Engineering Manager）、Jason Moore（Industrial Technician）、John J. Bisson；官网 http_error）；群发 19 次无回复。",
- "type": "工业连接器制造商（美国，自有标工业 FS/MC）",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "工业FS 工业MC 标价高",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "工业 FS 工业 MC 标价高",
-   "quote": "工业FS 工业MC 标价高",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "John Heath",
-   "title": "Engineering Manager",
-   "email": "john.heath@mencom.com",
-   "phone": "",
-   "source": "用户表"
-  },
-  {
-   "name": "John J. Bisson",
-   "title": "（职务待核）",
-   "email": "john@mencom.com",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "美国",
-  "other": "官网 mencom.com，语言 ?，快照状态 http_error；角色判定来源：待核"
- },
- "business_lines": [
-  "工业连接器 / 线缆组件（自有品牌 Mencom）",
-  "工业交换机 / MC（贴牌线）"
- ],
- "channels": {
-  "role": "工业连接器制造商（美国，自有标工业 FS/MC）",
-  "region": "美国",
-  "contact": "john@mencom.com、john.heath@mencom.com"
- },
- "signals": [
-  "表内：工业 FS 工业 MC 标价高；KP John Heath / Engineering Manager；Jason Moore / Industrial Technician；John J. Bisson",
-  "快照：http_error"
- ],
- "risks": [
-  "既有 ODM 供应链（自有标、高定价策略）；官网 http_error；19 次无回复 → 改向 Engineering Manager 具名首触"
- ],
- "saga_fit": {
-  "p1": "STI-280GE",
-  "tier": 30,
-  "why": "Mencom 标工业 FS/MC → 工业 8 GE + 2 SFP 管理 STI-280GE（$50.5 @30%）、5 GE STI-050GE（$18.5）、工业千兆 MC STI-110GE（$24.3）贴标作二供"
- },
- "email_hook": "John, for the industrial Ethernet switches and media converters in the Mencom catalogue, we can be a second ODM source (DIN-rail 5-GE, 8-GE + 2 SFP managed, gigabit MCs; −40~75 °C, FCC/CE/RoHS; managed versions on a Marvell platform) in your packaging from small lots — which SKU would you want sampled first?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（3 封来信全部自动回复；Elsa 箱：`to:mencom.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 30 / 来 3）（第 74 批(h)））",
-   "type": "美国工业连接器制造商（Mencom）",
-   "sieve": "0",
-   "stop": "自动回复",
-   "revive": "不动；备用具名邮箱：mark.dixon@mencom.com（自动回复中出现的同司具名邮箱，2023-12-28，k=2281cb9524be76f4；从未发过）",
-   "lane": "US",
-   "cadence": "不动",
-   "evidence": "k=2281cb9524be76f4 等"
-  },
-  "situation": "—",
-  "need": "—",
-  "breakpoint": "—",
-  "saga_now": {
-   "p1": "—",
-   "tier": 30,
-   "price": "—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-23 $65（10G Media Converter）、2024-11-25 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-19 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-08-11 $240（24 Port Fiber Switch）、2025-10-03 $280（10G Enterprise SFP Switch）",
-   "why": "已打开的主题（1/30 封有打开记录）：「Mini Industrial PoE Switch」(2024-12-17) → 读者兴趣偏「工业」；与 P1 同类，继续",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "不动",
-   "channel": "—；备用具名邮箱 → mark.dixon@mencom.com",
-   "action": "—",
-   "one_question": ""
-  },
-  "facts": [
-   {
-    "date": "2023-12-28",
-    "dir": "来",
-    "who": "自动回复",
-    "quote": "自动回复里给出代理人/同事邮箱 mark.dixon@mencom.com",
-    "why": "群发一直发给休假/离职的人；这个地址从未发过，是换具名邮箱的现成入口",
-    "k": "2281cb9524be76f4"
-   }
+  "code": "SB-851",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（tayle.ru，快照 2026-10-21）",
+  "summary": "俄罗斯 Тайле Tayle（俄罗斯网络设备制造商与分销商；表内「实力非常强，用 Oring 的，用 marvell 比较多；主要是 BADU 和丰润达的；和中国供应商合作很多，从很多国内供应商买 SFP；覆盖了很多产品」；KP A. Kuznetsova、A. Rubeko）；表内 1 次跟进无回复。",
+  "type": "网络设备制造/分销商（俄罗斯，实力强，Marvell 偏好，Q-33 口径）",
+  "size": "",
+  "brands_seen": [
+    "ORing",
+    "BADU",
+    "丰润达"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：Тайле",
+      "quote": "Компания Тайле - Российский производитель и дистрибутор сетевого оборудования",
+      "url": "https://www.tayle.ru/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "实力非常强 用Oring的 用marvell比较多；switch等；覆盖了很多产品",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "Тайле 定位",
+      "quote": "Компания Тайле - Российский производитель и дистрибутор сетевого оборудования",
+      "url": "https://www.tayle.ru/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "实力非常强 Marvell 偏好；BADU/丰润达",
+      "quote": "实力非常强 用Oring的 用marvell比较多；主要是BADU和丰润达的 / 和中国供应商合作很多",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [
+    {
+      "name": "A. Kuznetsova",
+      "title": "（职务待核）",
+      "email": "akuznetsova@tayle.ru",
+      "phone": "",
+      "source": "用户表"
+    },
+    {
+      "name": "A. Rubeko",
+      "title": "（职务待核）",
+      "email": "arubeko@tayle.ru",
+      "phone": "",
+      "source": "用户表"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "俄罗斯",
+    "other": "官网 tayle.ru，语言 ?，快照状态 ok；角色判定来源：官网文案"
+  },
+  "business_lines": [
+    "网络设备制造 / 分销（自有品牌 Тайле，俄罗斯）"
+  ],
+  "channels": {
+    "role": "网络设备制造/分销商（俄罗斯，实力强，Marvell 偏好，Q-33 口径）",
+    "region": "俄罗斯",
+    "contact": "akuznetsova@tayle.ru、arubeko@tayle.ru"
+  },
+  "signals": [
+    "官网：Компания Тайле - Российский производитель и дистрибутор сетевого оборудования；页面 /catalog/section/arec/、/catalog/section/qsan/",
+    "表内：实力非常强 用 Oring 的 用 marvell 比较多；主要是 BADU 和丰润达的 / 和中国供应商合作很多；从很多国内供应商买 SFP；覆盖了很多产品"
+  ],
+  "risks": [
+    "Q-33 口径：丰润达在供，仅推 SmartByte/Marvell 线；俄罗斯：结算/物流/合规风险；多国内供应商在供（比价激烈）；1 次无回复"
+  ],
+  "saga_fit": {
+    "p1": "STI-280GM",
+    "tier": 30,
+    "why": "Marvell 偏好 + 丰润达在供（Q-33 口径，仅推 SmartByte 线）→ 工业 8 GE + 2 SFP 管理 STI-280GM（$73.8 @30%；非管理 STI-280GE $50.5）、工业 L3 STI-41616XGGPM（$487.7）、商用 24 GE + 4×10G STC-424XGGM（$138.0）贴 Tayle 标"
+  },
+  "email_hook": "For the Marvell-based positions in the Tayle range, we can offer industrial DIN-rail 8-GE + 2 SFP managed, industrial L3 16-PoE + 4×10G, and commercial 24-GE + 4×10G L2+ platforms in your packaging from small lots, CE/RoHS; EAC by your side — which Marvell SKU family would you evaluate first?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A/S 邮箱 6 封 2025→2026，无记录打开，0 回；收件 akuznetsova@tayle.ru, arubeko@tayle.ru；主题多为「10G Enterprise SFP Switch、Marvell Industrial Alert System」）；Elsa 群发 BCC 已触达 2026-08-20「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，RU/UZ/KZ/BY/TR+PL 个别 批次 To info@smartsystems.jo，0 回（第 74 批 Bcc 头核对 msg 1a01e5768ba94543）",
+      "type": "网络设备制造/分销商（俄罗斯，实力强，Marvell 偏好，Q-33 口径）",
+      "sieve": "1（只收到群发）",
+      "stop": "6 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱；Q-33 供应商渠道客户",
+      "revive": "不动（Q-33）",
+      "lane": "RU 次级（Simon 2026-08 点名）",
+      "cadence": "不动",
+      "evidence": "gmail_digest：out 6；用户表：「实力非常强 用Oring的 用marvell比较多；switch等；覆盖了很多产品」；研究档 risks：Q-33 口径：丰润达在供，仅推 SmartByte/Marvell 线；俄罗斯：结算/物流/合规风险；多国内供应商在供（比价激烈）；1 次无回复；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To info@smartsystems.jo）本户见于 2026-08-20 名单；该批次最早 2025-03-04 起共 14 轮，更早轮次 Bcc 未读"
+    },
+    "situation": "俄罗斯 Тайле Tayle（俄罗斯网络设备制造商与分销商；表内「实力非常强，用 Oring 的，用 marvell 比较多；主要是 BADU 和丰润达的；和中国供应商合作很多，从很多国内供应商买 SFP；覆盖了很多产品」；KP A. Kuznetsova、A. Rubeko）；表内 1 次跟进无回复。",
+    "need": "Marvell 偏好 + 丰润达在供（Q-33 口径，仅推 SmartByte 线）→ 工业 8 GE + 2 SFP 管理 STI-280GM（$73.8 @30%；非管理 STI-280GE $50.5）、工业 L3 STI-41616XGGPM（$487.7）、商用 24 GE + 4×10G STC-424XGGM（$138.0）贴 Tayle 标",
+    "breakpoint": "Q-33 口径：丰润达在供，仅推 SmartByte/Marvell 线；俄罗斯：结算/物流/合规风险；多国内供应商在供（比价激烈）；1 次无回复",
+    "saga_now": {
+      "p1": "STI-280GM",
+      "tier": 30,
+      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-09-04 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-01-01 $240（24 Port Fiber Switch）、2025-11-03 $280（10G Enterprise SFP Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-20 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-20；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
+      "why": "Marvell 偏好 + 丰润达在供（Q-33 口径，仅推 SmartByte 线）→ 工业 8 GE + 2 SFP 管理 STI-280GM（$73.8 @30%；非管理 STI-280GE $50.5）、工业 L3 STI-41616XGGPM（$487.7）、商用 24 GE + 4×10G STC-424XGGM（$138.0）贴 Tayle 标",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "不动",
+      "channel": "—",
+      "action": "—",
+      "one_question": ""
+    },
+    "facts": [
+      {
+        "date": "2026-08-20",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To info@smartsystems.jo，RU/UZ/KZ/BY/TR+PL 个别 批次）",
+        "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
+        "why": "Elsa 箱群发 BCC 触达证据（命中地址 office@tayle.ru, tayle.ru）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+        "k": "elsa_bcc"
+      },
+      {
+        "date": "2026-09-04",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "10G Enterprise SFP Switch、Marvell Industrial Alert System",
+        "why": "6 封 / 0 次打开 / 0 回｜首封 2025-01-01 → 末封 2026-09-04（6 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "实力非常强 用Oring的 用marvell比较多；switch等；覆盖了很多产品",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-25"
+  }
 }

@@ -1,127 +1,108 @@
 {
- "code": "SB-373",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（teamac-arabia.com，快照 2026-10-21）",
- "summary": "阿联酋 TEAMAC Arabia（BMS 与 HVAC 控制、弱电方案、控制与自动化；CCTV/门禁；Siemens；自建站询盘「8 光 8 PoE 管理」；KP Khursheed Khan）；表内未跟进。",
- "type": "BMS/弱电集成商（阿联酋，8 光 8 PoE 询盘）",
- "size": "",
- "brands_seen": [
-  "Siemens"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：TEAMAC；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络",
-   "quote": "Our services；BMS & HVAC Controls；Low Current Solutions；Control & Automation；Feedback；Contact Us",
-   "url": "https://www.teamac-arabia.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "8光8PoE管理 / from: 自建站",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "TEAMAC 定位",
-   "quote": "TEAMAC ; Our services ; BMS & HVAC Controls ; Low Current Solutions ; Control & Automation",
-   "url": "https://www.teamac-arabia.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "8 光 8 PoE 管理询盘",
-   "quote": "8光8PoE管理 / from: 自建站",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Khursheed Khan",
-   "title": "（职务待核）",
-   "email": "khursheed.khan@teamac-arabia.com",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "阿联酋",
-  "other": "官网 teamac-arabia.com，语言 en，快照状态 ok；角色判定来源：官网文案"
- },
- "business_lines": [
-  "BMS / HVAC 控制 / 弱电 / 自动化集成（阿联酋）"
- ],
- "channels": {
-  "role": "BMS/弱电集成商（阿联酋，8 光 8 PoE 询盘）",
-  "region": "阿联酋",
-  "contact": "khursheed.khan@teamac-arabia.com"
- },
- "signals": [
-  "官网：TEAMAC ; BMS & HVAC Controls ; Low Current Solutions ; Control & Automation；kw automation 19 / access control 15 / cctv 13；brands Siemens",
-  "表内：8 光 8PoE 管理 / from: 自建站；KP Khursheed Khan"
- ],
- "risks": [
-  "非主攻区（T5，阿联酋）；询盘时效待核；BMS 项目（Siemens 生态）"
- ],
- "saga_fit": {
-  "p1": "STI-448DGGGPM",
-  "tier": 25,
-  "why": "询盘 8 SFP + 8 PoE 管理 → 工业 L2+ 8 PoE + 4×1G SFP + 4×2.5G SFP STI-448DGGGPM（$220.5 @25%）；商用替代 STC-28DGGPM（$84.1）"
- },
- "email_hook": "Khursheed, following your enquiry for an 8-fibre + 8-PoE managed switch: our industrial L2+ model offers 8 × PoE+ with 4 × 1G SFP + 4 × 1G/2.5G SFP (−40~75 °C, 12–58 V redundant, CE/RoHS) from single units, EXW USD, 10–15 days — how many units does your BMS project need, and is DIN-rail or rack mounting required?",
- "mail_review": {
-  "binding": {
-   "level": "未发信（S/A 邮箱均无往来；来源：用户表「8光8PoE管理 / from: 自建站」；Elsa 箱：`to:teamac-arabia.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(n)））",
-   "type": "BMS/弱电集成商（阿联酋，8 光 8 PoE 询盘）",
-   "sieve": "—（未入筛）",
-   "stop": "从未触达",
-   "revive": "不动（非主攻区；J5：有证据再动）",
-   "lane": "阿联酋 非主攻",
-   "cadence": "不动",
-   "evidence": "gmail_digest：out 0；用户表：「8光8PoE管理 / from: 自建站」；研究档 risks：非主攻区（T5，阿联酋）；询盘时效待核；BMS 项目（Siemens 生态）"
-  },
-  "situation": "阿联酋 TEAMAC Arabia（BMS 与 HVAC 控制、弱电方案、控制与自动化；CCTV/门禁；Siemens；自建站询盘「8 光 8 PoE 管理」；KP Khursheed Khan）；表内未跟进。",
-  "need": "询盘 8 SFP + 8 PoE 管理 → 工业 L2+ 8 PoE + 4×1G SFP + 4×2.5G SFP STI-448DGGGPM（$220.5 @25%）；商用替代 STC-28DGGPM（$84.1）",
-  "breakpoint": "非主攻区（T5，阿联酋）；询盘时效待核；BMS 项目（Siemens 生态）",
-  "saga_now": {
-   "p1": "STI-448DGGGPM",
-   "tier": 25,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "询盘 8 SFP + 8 PoE 管理 → 工业 L2+ 8 PoE + 4×1G SFP + 4×2.5G SFP STI-448DGGGPM（$220.5 @25%）；商用替代 STC-28DGGPM（$84.1）",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—",
-   "one_question": ""
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "8光8PoE管理 / from: 自建站",
-    "why": "表内备注",
-    "k": "用户表"
-   }
+  "code": "SB-373",
+  "name_official": "（未具名，尼日利亚 +234 815）",
+  "researched_at": "2026-10-21",
+  "website_status": "无域名（仅表内信息）",
+  "summary": "尼日利亚 WhatsApp 联系人，2024–2025 五次回复（问芯片、要价目、问「啥是 2.5G」、「MCU processor」），技术理解有限；无邮箱无公司。",
+  "type": "",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "用户表",
+      "claim": "回复 chip? / price list / prices / 啥是 2.5g / MCU processor",
+      "quote": "回复：chip?；price list；prices；啥是2.5g；MCU processor",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [
-   "无邮件往来"
+  "kp": [],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "无域名 · 仅表内信息"
+  },
+  "company_facts": {
+    "legal_name": "（未知）",
+    "founded": "",
+    "hq": "尼日利亚",
+    "size": "",
+    "other": "仅 WhatsApp"
+  },
+  "channels": {
+    "role": "（未知）",
+    "region": "尼日利亚"
+  },
+  "risks": [
+    "身份不明；尼日利亚付款风险（T/T 预付）"
   ],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 25,
+    "why": "商用 PoE 入门款。"
+  },
+  "email_hook": "（无邮箱；不主动跟进）",
+  "mail_review": {
+    "binding": {
+      "level": "未发信（S/A 邮箱均无往来；来源：用户表「回复：chip?；price list；prices；啥是2.5g；MCU processor」）；Elsa 箱无可查地址（仓内无此户任何邮箱/域名——用户表/WhatsApp/展会名片户，`from:e.sagatelecom to:` 无从下手；Elsa 群发是否碰过他无法判定，不写「未触达」）（第 74 批(o)）",
+      "type": "—",
+      "sieve": "—（未入筛）",
+      "stop": "从未触达",
+      "revive": "不动（非主攻区；J5：有证据再动）",
+      "lane": "尼日利亚 非主攻",
+      "cadence": "不动",
+      "evidence": "gmail_digest：out 0；用户表：「回复：chip?；price list；prices；啥是2.5g；MCU processor」；研究档 risks：身份不明；尼日利亚付款风险（T/T 预付）"
+    },
+    "situation": "尼日利亚 WhatsApp 联系人，2024–2025 五次回复（问芯片、要价目、问「啥是 2.5G」、「MCU processor」），技术理解有限；无邮箱无公司。",
+    "need": "商用 PoE 入门款。",
+    "breakpoint": "身份不明；尼日利亚付款风险（T/T 预付）",
+    "saga_now": {
+      "p1": "STC-28DGGPM",
+      "tier": 25,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "商用 PoE 入门款。",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "不动",
+      "channel": "—",
+      "action": "—",
+      "one_question": ""
+    },
+    "facts": [
+      {
+        "date": "2025-02-20",
+        "dir": "来",
+        "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+        "quote": "用户表跟进：推「工业16 24口出货图」→ 对方「需求不太多」",
+        "why": "Simon 跟进表里的回应记录（邮箱看不到的渠道）；按原文留存",
+        "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.23 2025.2.20"
+      },
+      {
+        "date": "2025-06-18",
+        "dir": "来",
+        "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+        "quote": "用户表跟进：推「洪瑞商业PoE组合图」→ 对方「千兆8口pOE价格」",
+        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+        "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.23 618"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "回复：chip?；price list；prices；啥是2.5g；MCU processor",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [
+      "无邮件往来",
+      "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

@@ -1,69 +1,172 @@
 {
  "code": "SB-885",
- "name_official": "Hafya Technologies（Hafya Teknoloji，İstanbul Şişli, TR；hafya.com.tr）",
+ "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "在线",
- "summary": "伊斯坦布尔 Şişli 的电子安防与弱电集成商 Hafya Technologies（CCTV、IT 基础设施、火灾探测、门禁、对讲、舞台灯光音响；+90 212 221 16 72；info@hafya.com.tr）。ISAF 记录（Evelyn 加了 WhatsApp，3 人同来）：主要要防水交换机规格书、工业级 4 光 8 电 PoE 网管，做军队项目会用到防水交换机，拍了合照；联系人 Emre Makili。军队项目 → 守界 C（资料保留；若其民用项目需要 IP40 DIN 机型可重开）。",
- "type": "",
+ "website_status": "在线（riverplus.com，快照 2026-10-21）",
+ "summary": "泰国 Riverplus（2005 年起数字化与工业 4.0 方案进口分销：IoT、工业 5G/4G 路由网关（Teltonika RUT/TSW100/TSW114）、Milesight；博客 TSW010 工业 LAN 交换机、CCTV PoE 方案；表内「工业 FS、串口等」；KP Prapapim Phetnoi（System Engineer，prapapim@）、Jiraporn Teeramasvanich（Purchasing Manager））；群发 9 次无回复。",
+ "type": "工业 IoT 分销商（泰国，Teltonika 交换机线）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Teltonika",
+  "Milesight"
+ ],
  "evidence": [
   {
-   "kind": "官网",
-   "claim": "业务与联系方式",
-   "quote": "Firmamız, elektronik güvenlik ve zayıf akım sistemleri alanında entegre çözümler sunmak amacıyla kurulmuş … Güvenlik kamera sistemlerinden bilişim altyapılarına, yangın algılama ve geçiş kontrol çözümlerine kadar … +90 212 221 16 72 Şişli - İstanbul … İnfo@hafya.com.tr",
-   "url": "https://hafya.com.tr/",
+   "kind": "官网快照",
+   "claim": "官网标题：Riverplus 20th - Leading in Digital and Industry 4.0 Solutions；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "Riverplus ผู้นำในการนำเข้า จัดจำหน่ายสินค้าและบริการเทคโนโลยีแบบครบวงจร จากทั่วโลกตั้งแต่ปี 2005 โดยมุ่งมั่นในการขับเคลื่อนนวัตกรรมและนำพาเข้าสู่ยุคดิจิทัล และอุตสาหกรรม 4.0 บริษัทมุ่งเน้นการเสริมศักยภาพทางการแข่งขันให้กับธุรกิจ ด้วยโซลูชั่",
+   "url": "https://riverplus.com/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "ISAF 互动：防水交换机、4 光 8 电 PoE 网管、军队项目",
-   "quote": "Evelyn 加了WhatsApp  3个人， 主要要防水交换机的规格书， 工业级4光8电POE网管， 做军队项目， 会用到防水交换机， 合照",
+   "claim": "表内兴趣/备注",
+   "quote": "工业FS 串口等",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Riverplus 数字化与工业 4.0 方案",
+   "quote": "Riverplus 20th - Leading in Digital and Industry 4.0 Solutions ; ผู้นำในการนำเข้า จัดจำหน่ายสินค้าและบริการเทคโนโลยีแบบครบวงจร จากทั่วโลกตั้งแต่ปี 2005",
+   "url": "https://riverplus.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "工业 FS 串口等",
+   "quote": "工业FS 串口等",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
  "kp": [
   {
-   "name": "Emre Makili",
-   "role": "（ISAF 名片；职务待核）",
-   "email": "emre.makili@hafya.com.tr（用户表）",
-   "phone": "—",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
+   "name": "Jiraporn Teeramasvanich",
+   "title": "Purchasing Manager",
+   "email": "sales@riverplus.com",
+   "phone": "",
+   "source": "用户表"
+  },
+  {
+   "name": "Prapapim Phetnoi",
+   "title": "System Engineer",
+   "email": "prapapim@riverplus.com",
+   "phone": "",
+   "source": "用户表"
   }
  ],
- "grade_override": "C",
- "override_reason": "守界：ISAF 记录明确「做军队项目、会用到防水交换机」，所询工业 4 光 8 电 PoE 网管 + 防水机用于军方项目——军用/国防项目不供；且 Saga 无 IP67 防水机型",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网核对 → 守界降 C）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "legal_name": "Hafya Teknoloji（Hafya Technologies）",
-  "hq": "Şişli / İstanbul（+90 212 221 16 72；info@hafya.com.tr）",
-  "size": "待核（中小型集成商）",
-  "other": "业务：CCTV、IT 基础设施、火灾探测、门禁、对讲、舞台灯光"
+  "hq": "泰国",
+  "other": "官网 riverplus.com，语言 en，快照状态 ok；角色判定来源：表内早期 AI 描述"
  },
  "business_lines": [
-  "电子安防与弱电系统集成",
-  "舞台灯光音响系统"
+  "工业 IoT / 蜂窝路由 / 工业交换机分销（Teltonika / Milesight）"
  ],
  "channels": {
-  "网站": "https://hafya.com.tr/",
-  "电话": "+90 212 221 16 72（公开）",
-  "邮箱（公开）": "info@hafya.com.tr"
+  "role": "工业 IoT 分销商（泰国，Teltonika 交换机线）",
+  "region": "泰国",
+  "contact": "sales@riverplus.com、prapapim@riverplus.com"
  },
  "signals": [
-  "需求为军方项目防水交换机 → 不供"
+  "博客 /blogs/iot-solutions/teltonika-tsw100-110-industrial-ethernet-switch、/tsw010-industrial-lan-switch、/cctv-solution-with-poe-switch",
+  "官网：Riverplus ผู้นำในการนำเข้า จัดจำหน่ายสินค้าและบริการเทคโนโลยีแบบครบวงจร … ตั้งแต่ปี 2005",
+  "KP：Prapapim Phetnoi / System Engineer；Jiraporn Teeramasvanich / Purchasing Manager（表内）"
  ],
  "risks": [
-  "军用项目守界 → C；无 IP67 机型"
+  "非主攻区（T5）",
+  "Teltonika（立陶宛）品牌生态强：白牌仅价格补充；9 次无回复 → 改向 Purchasing Manager 具名首触"
  ],
  "saga_fit": {
-  "p1": null,
-  "tier": 25,
-  "why": "不推进（守界）；民用项目可报 STI-448DGGGM（8 GE + 4 SFP + 4×2.5G SFP，$205.5）"
+  "p1": "STI-154GP",
+  "tier": 20,
+  "why": "在售 Teltonika TSW100（4 PoE + 1）/ TSW114（5 GE）→ 工业 4 PoE + 1 GE STI-154GP（$37.7 @20%）/ 5 GE STI-050GE（$17.0）同口型替换；8 口位 STI-288GP"
  },
- "email_hook": "（不主动发送）"
+ "email_hook": "Jiraporn, alongside the Teltonika TSW100/TSW114 switches you distribute with RUT routers, we supply DIN-rail 4-PoE + 1 and 5-port gigabit industrial units (−40~75 °C, 12–58 VDC, CE/RoHS, neutral packing) from small lots, EXW — which Teltonika switch moves most, so we quote its equivalent?",
+ "products_seen": [
+  {
+   "brand": "Teltonika",
+   "model": "TSW100",
+   "spec": "工业 4 PoE + 1 GE 非管理",
+   "saga": "STI-154GP",
+   "url": "https://riverplus.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "brand": "Teltonika",
+   "model": "TSW114",
+   "spec": "工业 5 GE 非管理",
+   "saga": "STI-050GE",
+   "url": "https://riverplus.com/",
+   "date": "2026-10-21"
+  }
+ ],
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 24 封 2024→2026，1 次记录打开，0 回；收件 jiraporn@riverplus.com, prapapim@riverplus.com；主题多为「Marvell Industrial Alert System、Industrial PoE Switch」；Elsa 箱：`to:riverplus.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 24 / 来 0）（第 74 批(n)））",
+   "type": "工业 IoT 分销商（泰国，Teltonika 交换机线）",
+   "sieve": "1~2（1 次打开）",
+   "stop": "24 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+   "lane": "泰国 非主攻",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 24，Opened 标签 1（Simon 群发追踪）；用户表：「工业FS 串口等」；研究档 risks：非主攻区（T5）"
+  },
+  "situation": "泰国 Riverplus（2005 年起数字化与工业 4.0 方案进口分销：IoT、工业 5G/4G 路由网关（Teltonika RUT/TSW100/TSW114）、Milesight；博客 TSW010 工业 LAN 交换机、CCTV PoE 方案；表内「工业 FS、串口等」；KP Prapapim Phetnoi（System Engineer，prapapim@）、Jiraporn Teeramasvanich（Purchasing Manager））；群发 9 次无回复。",
+  "need": "在售 Teltonika TSW100（4 PoE + 1）/ TSW114（5 GE）→ 工业 4 PoE + 1 GE STI-154GP（$37.7 @20%）/ 5 GE STI-050GE（$17.0）同口型替换；8 口位 STI-288GP",
+  "breakpoint": "非主攻区（T5）",
+  "saga_now": {
+   "p1": "STI-154GP",
+   "tier": 20,
+   "price": "换人再触锚价 STI-154GP $37.7 EXW（主表档位（2024 实报 $36–38 低于档位，可用档位；PDF 上限 $51.7）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-19 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-06-18 $65（10g fiber media converter）、2025-07-10 $300（48 Port PoE Managed Switch）、2025-10-09 $280（10G Enterprise SFP Switch）",
+   "why": "在售 Teltonika TSW100（4 PoE + 1）/ TSW114（5 GE）→ 工业 4 PoE + 1 GE STI-154GP（$37.7 @20%）/ 5 GE STI-050GE（$17.0）同口型替换；8 口位 STI-288GP。已打开的主题（1/24 封有打开记录）：「Passive PoE Switch」(2024-08-12) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1（换人后）",
+   "channel": "A 邮箱 → 具名 KP",
+   "action": "换收件人再发一封（第 75 批(ai) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
+   "one_question": "Jiraporn, alongside the Teltonika TSW100/TSW114 switches you distribute with RUT routers, we supply DIN-rail 4-PoE + 1 and 5-port gigabit industrial units (−40~75 °C, 12–58 VDC, CE/RoHS, neutral packing) from small lots, EXW — which Teltonika switch moves most, so we quote its equivalent? Reference: STI-154GP at $37.7 USD EXW (MOQ 1, 15-day validity)."
+  },
+  "facts": [
+   {
+    "date": "2026-09-25",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Marvell Industrial Alert System、Industrial PoE Switch",
+    "why": "24 封 / 1 次打开 / 0 回｜首封 2024-06-18 → 末封 2026-09-25（24 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "工业FS 串口等",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026-09-25",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "Managed PoE Switches",
+    "why": "本日去信真实主题（邮箱索引 4d5df608e2a8cbe3；信稿开头句引用此封；此前稿内写的「Marvell Industrial Alert System」是线程列表首题，不是本封）",
+    "k": "4d5df608e2a8cbe3"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": {
+   "subject": "Alongside the Teltonika TSW100 / TSW114 you distribute with RUT routers - the equivalents",
+   "body": "Hi Jiraporn,\n\nOver the past months you had a few product mails from us - most recently \"Managed PoE Switches\" on 25 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nAlongside the Teltonika TSW100 / TSW114 switches you distribute with RUT routers, neutral packing, at distributor price, EXW, MOQ 1, 15-day validity, -40 to 75 C, CE/RoHS: TSW100 position - DIN-rail 4 x Gigabit PoE+ + 1 x Gigabit + 1 x SFP, unmanaged - model STI-154GP - $37.7 USD; TSW114 position - 5 x Gigabit unmanaged, 12-36 V DC - STI-050GE - $17.0; 8 x Gigabit PoE+ + 2 x SFP unmanaged - STI-288GP - $60.\n\nOne question: which Teltonika switch moves most for you, so I quote that equivalent with the datasheet?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+  },
+  "as_of": "2026-10-24"
+ }
 }

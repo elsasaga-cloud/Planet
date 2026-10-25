@@ -1,0 +1,78 @@
+{
+ "code": "SC-181",
+ "name_official": "Vikings Technology（立陶宛；SmartByte 在售 → Q-33）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（vikingstechnology.com，快照 2026-10-21）",
+ "summary": "立陶宛工业以太网方案商（光纤 MC、工业交换机、延长器、SFP、90W bt PoE；+370 695 44516），来源 **Clients/A/同行/Smartbyte.xlsx（SmartByte 经销名单）** → 已在卖 Saga 供应商 SmartByte 的产品，渠道冲突 **Q-33（默认不主动发送，待裁定）**。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "SmartByte（！）"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "全系列光纤 MC、工业交换机、延长器、SFP、90W PoE；+370 695 44516",
+   "quote": "Full range of Fiber Media Converters, Industrial Ethernet Switches, Extenders, SFP modules, PoE products up to 90W (802.3bt) and more!",
+   "url": "https://vikingstechnology.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "来源 Smartbyte.xlsx（SmartByte 经销名单）",
+   "quote": "Clients/A/同行/Smartbyte.xlsx",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户裁定",
+   "claim": "SmartByte 经销名单客户不碰（潜在渠道冲突）",
+   "quote": "不碰 标记一下 没必要去跟：会有潜在冲突的",
+   "url": "（对话全记录 T27-U5）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "（销售）",
+   "title": "Sales",
+   "email": "sales@vikingstechnology.com",
+   "phone": "+370 695 44516",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": "C",
+ "override_reason": "Q-33 裁定（Simon 2026-10-21）：SmartByte 经销名单客户，潜在渠道冲突，不碰；c_sub=渠道冲突（Q-33 不碰）",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ Q-33 裁定（Simon 2026-10-21）：不碰、标记、不跟进。",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照品牌识别：SmartByte 经销 → Q-33）"
+ },
+ "company_facts": {
+  "legal_name": "Vikings Technology UAB（待核）",
+  "founded": "",
+  "hq": "Lithuania",
+  "size": "小型方案商",
+  "other": "SmartByte 现有经销（Q-33）"
+ },
+ "business_lines": [
+  "工业以太网 / MC 分销（SmartByte 线）"
+ ],
+ "channels": {
+  "role": "SmartByte 经销（渠道冲突）",
+  "region": "立陶宛"
+ },
+ "signals": [
+  "已售 SmartByte 全线 → 若 Simon 裁定可触达，可谈 Saga 品牌差异化 SKU",
+  "Q-33 裁定：不碰（2026-10-21）"
+ ],
+ "risks": [
+  "⛔ **Q-33 裁定（Simon 2026-10-21）：不碰**——SmartByte 经销名单客户，潜在渠道冲突；不主动发送、不跟进，仅留档防重复开发"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 20,
+  "why": "Q-33 待裁定；不主动报价。"
+ },
+ "email_hook": "（⛔ 不发送：Q-33 裁定不碰，SmartByte 经销名单客户）"
+}

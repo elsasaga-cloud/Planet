@@ -1,0 +1,66 @@
+{
+ "code": "SC-101",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（macnica.co.jp，快照 2026-10-21）",
+ "summary": "日本 株式会社マクニカ Macnica（大型半导体/网络产品分销集团；表内「一些 marvell 交换机」；KP Yuji Sekiguchi）；群发 7 次无回复。",
+ "type": "半导体分销巨头（日本）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：株式会社マクニカ",
+   "quote": "デジタルテクノロジーの革新は社会課題を解決する可能性をも秘めています。マクニカは、人と技術と経験をつないで、未来の可能性を信じて挑戦し続け、道先案内人としてお客さまに伴走し、共に新たな未来を切り拓いていきます。",
+   "url": "https://www.macnica.co.jp/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "一些marvell交换机",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Macnica 页面",
+   "quote": "株式会社マクニカ ; /business/semiconductor/macnica_products/ ; /business/connectivity/products/",
+   "url": "https://www.macnica.co.jp/",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "巨头（Macnica）；c_sub=体量过大",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "日本",
+  "other": "官网 macnica.co.jp，语言 ja，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "半导体 / 网络产品分销（日本，集团）"
+ ],
+ "channels": {
+  "role": "半导体分销巨头（日本）",
+  "region": "日本",
+  "contact": "sekiguchi-y@macnica.co.jp"
+ },
+ "signals": [
+  "官网：株式会社マクニカ ; デジタルテクノロジーの革新は社会課題を解決する可能性をも秘めています；页面 /business/semiconductor/macnica_products/、/business/connectivity/products/",
+  "表内：一些 marvell 交换机；KP Yuji Sekiguchi"
+ ],
+ "risks": [
+  "体量：日本大型分销集团；非主攻区（日本）；7 次无回复"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 20,
+  "why": "大型半导体/网络分销集团（巨头）→ 改 C"
+ },
+ "email_hook": "（不发送：巨头）"
+}

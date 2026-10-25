@@ -2,40 +2,39 @@
  "code": "SB-875",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "在线（wachendorff-prozesstechnik.de，快照 2026-10-21）",
- "summary": "德国 Wachendorff Prozesstechnik GmbH & Co. KG（工业电子：面板 PC、远程维护、数据记录、协议转换等自动化组件，「Alles aus einer Hand」、原机测试；表内「电口」「可以着重跟一下」；邮箱 kontakt@segno.de（关联域））；群发 8 次无回复。",
- "type": "工业自动化组件供应商（德国，自有+分销）",
+ "website_status": "在线（lemaxguvenlik.com，快照 2026-10-21）",
+ "summary": "土耳其 Lemax Güvenlik（安防摄像机网店：2/4/6/8 路 4K PoE IP 摄像机套装；表内「switch；新桥的」；邮箱 satis@）；表内 2 次跟进无回复。",
+ "type": "CCTV 套装网店（土耳其，PoE 现新桥）",
  "size": "",
  "brands_seen": [
-  "Siemens",
-  "Schneider"
+  "新桥（疑）"
  ],
  "evidence": [
   {
    "kind": "官网快照",
-   "claim": "官网标题：Wachendorff Prozesstechnik GmbH & Co. KG : Industrie-Elektronik；品类词 工业自动化 / OT 网络 / 无线 / WiFi / 网络交换 / PoE",
-   "quote": "Wachendorff Prozesstechnik bietet Ihnen intelligente Komponenten für die Automation von Prozessen und Maschinen. Zu aktuellen Themenschwerpunkten wie Panel-PC, Fernwartung, Datenlogging, Protokollwandlung, Feldbusunabhängige I/O-System und ",
-   "url": "https://www.wachendorff-prozesstechnik.de/",
+   "claim": "官网标题：Güvenlik Kamerası Fiyatları, Kamera Sistemleri - Lemax Güvenlik；品类词 安防监控（CCTV / 门禁） / 网络交换 / PoE",
+   "quote": "Gece Görüşlü Güvenlik Kamerası Fiyatları, En Kaliteli En Uygun Güvenlik Kamerası Sistemleri Ve Paket Kameralar, Cctv Kamera Fiyatları Lemaxguvenlik.com 'da",
+   "url": "https://www.lemaxguvenlik.com/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
    "claim": "表内兴趣/备注",
-   "quote": "电口",
+   "quote": "switch",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   },
   {
    "kind": "官网快照",
-   "claim": "Wachendorff Prozesstechnik 产品",
-   "quote": "Wachendorff Prozesstechnik bietet Ihnen intelligente Komponenten für die Automation von Prozessen und Maschinen. Zu aktuellen Themenschwerpunkten wie Panel-PC, Fernwartung, Datenlogging",
-   "url": "https://www.wachendorff-prozesstechnik.de/",
+   "claim": "Lemax 网店",
+   "quote": "Güvenlik Kamerası Fiyatları, Kamera Sistemleri - Lemax Güvenlik ; 4-kamerali-4k-1440p-full-hd-sesli-poe-ip-kamera-sistemi",
+   "url": "https://www.lemaxguvenlik.com/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "电口；着重跟",
-   "quote": "电口；可以着重跟一下",
+   "claim": "switch；新桥的",
+   "quote": "switch；新桥的",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
@@ -49,78 +48,88 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "德国",
-  "other": "官网 wachendorff-prozesstechnik.de，语言 de，快照状态 ok；角色判定来源：官网文案"
+  "hq": "土耳其",
+  "other": "官网 lemaxguvenlik.com，语言 tr，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "工业自动化组件（面板 PC / 远程维护 / 协议转换）"
+  "安防摄像机套装网店"
  ],
  "channels": {
-  "role": "工业自动化组件供应商（德国，自有+分销）",
-  "region": "德国",
-  "contact": "kontakt@segno.de"
+  "role": "CCTV 套装网店（土耳其，PoE 现新桥）",
+  "region": "土耳其",
+  "contact": "satis@lemaxguvenlik.com"
  },
  "signals": [
-  "官网：intelligente Komponenten für die Automation von Prozessen und Maschinen … Panel-PC, Fernwartung, Datenlogging, Protokollwandler；kw ethernet 80 / industrial 62 / automation 31",
-  "表内：电口；可以着重跟一下"
+  "页面 /urun/4-kamerali-4k-…-poe-ip-kamera-sistemi…、/urun/8-kamerali-…；kw poe 40",
+  "表内：switch；新桥的"
  ],
  "risks": [
-  "自动化组件商：交换机为配套品类，量小；Siemens/Schneider 生态",
-  "8 次无回复，仅关联域 kontakt@（segno.de）"
+  "网店套装：量小、价格敏感；现供新桥（深圳）价格基准低",
+  "土耳其：汇率敏感；2 次跟进无回复，仅 satis@"
  ],
  "saga_fit": {
-  "p1": "STI-080GE",
+  "p1": "STC-28DGGPM",
   "tier": 20,
-  "why": "表内兴趣「电口」→ 工业 8 GE 非管理 STI-080GE（$31.4 @20%）/ 5 GE STI-050GE（$17.0）作面板 PC/远程维护配套"
+  "why": "套装配套 PoE（现新桥）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）/ STC-204GP；预期低"
  },
- "email_hook": "For the Ethernet switches you supply with panel PCs and remote-maintenance gateways, we offer DIN-rail 5/8-port gigabit copper units (−40~75 °C, 12–58 VDC, CE/RoHS, neutral packing) from small lots — which port count do your automation customers use most?",
+ "email_hook": "For the PoE switches in your 4/6/8-camera 4K kits, we supply budget 4/8-port unmanaged PoE units and a Marvell-based 8-PoE + 2 SFP L2+ model from small lots, CE/RoHS, EXW USD — which kit size sells most?",
  "mail_review": {
   "binding": {
-   "level": "未触达（A 邮箱 10 封 2025→2026，1 次记录打开，0 回；收件 kontakt@segno.de；主题多为「16 Port Ethernet Switch、Managed Optical Bypass Switch」；Elsa 箱：`to:.de` 穷举 29 条（2026-10-25，锚批 Bcc 头已读）未见 wachendorff-prozesstechnik.de / segno.de → Elsa 箱从未发过本户，往来只在 S/A 箱（去 10 / 来 0）（第 74 批(f)））",
-   "type": "工业自动化组件供应商（德国，自有+分销）",
+   "level": "未触达（A/S 邮箱 18 封 2024→2026，1 次记录打开，0 回；收件 satis@lemaxguvenlik.com；主题多为「10G Enterprise SFP Switch、Industrial PoE Switch」；Elsa 箱：`to:lemaxguvenlik.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 18 / 来 0）（第 74 批(i)））",
+   "type": "CCTV 套装网店（土耳其，PoE 现新桥）",
    "sieve": "1~2（1 次打开）",
-   "stop": "只打通用邮箱，无记录打开",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "DE 主攻（四主）",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 10，Opened 标签 1（Simon 群发追踪）；用户表：「电口」；研究档 risks：自动化组件商：交换机为配套品类，量小；Siemens/Schneider 生态"
+   "stop": "只打通用邮箱，无记录打开；Q-33 供应商渠道客户",
+   "revive": "不动（Q-33）",
+   "lane": "TR 主攻（四主）",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 18，Opened 标签 1（Simon 群发追踪）；用户表：「switch」；研究档 risks：网店套装：量小、价格敏感；现供新桥（深圳）价格基准低"
   },
-  "situation": "德国 Wachendorff Prozesstechnik GmbH & Co. KG（工业电子：面板 PC、远程维护、数据记录、协议转换等自动化组件，「Alles aus einer Hand」、原机测试；表内「电口」「可以着重跟一下」；邮箱 kontakt@segno.de（关联域））；群发 8 次无回复。",
-  "need": "表内兴趣「电口」→ 工业 8 GE 非管理 STI-080GE（$31.4 @20%）/ 5 GE STI-050GE（$17.0）作面板 PC/远程维护配套",
-  "breakpoint": "自动化组件商：交换机为配套品类，量小；Siemens/Schneider 生态",
+  "situation": "土耳其 Lemax Güvenlik（安防摄像机网店：2/4/6/8 路 4K PoE IP 摄像机套装；表内「switch；新桥的」；邮箱 satis@）；表内 2 次跟进无回复。",
+  "need": "套装配套 PoE（现新桥）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）/ STC-204GP；预期低",
+  "breakpoint": "网店套装：量小、价格敏感；现供新桥（深圳）价格基准低",
   "saga_now": {
-   "p1": "STI-080GE",
+   "p1": "STC-28DGGPM",
    "tier": 20,
-   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-07-14 $300（48 Port PoE Managed Switch）、2025-10-06 $280（10G Enterprise SFP Switch）",
-   "why": "表内兴趣「电口」→ 工业 8 GE 非管理 STI-080GE（$31.4 @20%）/ 5 GE STI-050GE（$17.0）作面板 PC/远程维护配套。已打开的主题（1/10 封有打开记录）：「48 Port PoE Managed Switch」(2025-07-14) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-06 $65（10G media converter）、2024-11-29 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-30 $280（10G Enterprise SFP Switch）",
+   "why": "套装配套 PoE（现新桥）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）/ STC-204GP；预期低。已打开的主题（1/18 封有打开记录）：「Updated Ethernet Switches Links」(2026-03-09) → 读者兴趣偏「固件/功能」；与 P1 同类，继续",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开",
-   "one_question": "For the Ethernet switches you supply with panel PCs and remote-maintenance gateways, we offer DIN-rail 5/8-port gigabit copper units (−40~75 °C, 12–58 VDC, CE/RoHS, neutral packing) from small lots — which port count do your automation customers use most?"
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
   },
   "facts": [
    {
-    "date": "2026-01-23",
+    "date": "2024-11-05",
     "dir": "去",
-    "who": "A 群发",
-    "quote": "16 Port Ethernet Switch、Managed Optical Bypass Switch",
-    "why": "10 封 / 1 次打开 / 0 回｜首封 2025-02-25 → 末封 2026-01-23（10 去 / 0 来）",
+    "who": "Simon → Angora Networks（SA-077）附件 Turkey Client List.xlsx",
+    "quote": "名单行：「switch satis@lemaxguvenlik.com https://www.lemaxguvenlik.com/urun/lg-nd1p802lf-8-port-poe-10-100-2-port-gigabit-uplink-poe-switch/188」",
+    "why": "Saga 2024-11-05 把本户列入交给 Angora（安卡拉，Saga 提议的欧盟/土耳其分销伙伴）的 64 家起步名单；此后 Saga 仍直发本户。若 Angora 已接触过本户，Saga 直发会与自己提议的渠道打架 → Q-51（默认：直发继续，Angora 报了价的户 Saga 只做技术支持）",
+    "k": "gmail_s 2024-11-05 Re: Invoice_5pcs STC-424DGGPM-280W（附件）+ Drive PI 7_土耳其 Turkey_Client_List.xlsx"
+   },
+   {
+    "date": "2026-10-06",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "10G Enterprise SFP Switch、Industrial PoE Switch",
+    "why": "18 封 / 1 次打开 / 0 回｜首封 2024-06-14 → 末封 2026-10-06（18 去 / 0 来）",
     "k": "gmail_digest"
    },
    {
     "date": "2026-10-21",
     "dir": "用户表",
     "who": "Simon",
-    "quote": "电口",
+    "quote": "switch",
     "why": "表内备注",
     "k": "用户表"
    }
   ],
-  "proof_gaps": [],
+  "proof_gaps": [
+   "在 Saga 给 Angora 的 Turkey Client List（2024-11-05）里——Angora 是否接触过本户无记录（Q-51）"
+  ],
   "draft_en": null,
   "as_of": "2026-10-24"
  }

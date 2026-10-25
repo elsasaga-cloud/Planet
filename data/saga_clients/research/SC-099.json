@@ -1,0 +1,58 @@
+{
+ "code": "SC-099",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "无域名",
+ "summary": "土耳其 Akakçe（akakce.com：土耳其比价平台；联系为 destek@ 客服 / ik@ 人事邮箱；表内「工业 FS 比较多外壳 有海思的」）；表内 2 次跟进无回复。",
+ "type": "比价平台（土耳其，非卖家）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "工业FS 比较多外壳",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "比价平台 destek@",
+   "quote": "工业FS 比较多外壳；有海思的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "比价平台（非卖家）；c_sub=品类不符/非渠道",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "土耳其",
+  "other": "无官网快照；角色判定来源：待核"
+ },
+ "business_lines": [
+  "比价平台（土耳其）"
+ ],
+ "channels": {
+  "role": "比价平台（土耳其，非卖家）",
+  "region": "土耳其",
+  "contact": "destek@akakce.com、ik@akakce.com"
+ },
+ "signals": [
+  "表内：工业 FS 比较多外壳；有海思的；destek@akakce.com / ik@akakce.com"
+ ],
+ "risks": [
+  "非渠道：比价平台（非卖家）；仅客服/人事邮箱"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 20,
+  "why": "比价平台（非销售方，仅客服/人事邮箱）→ 改 C（品类不符）"
+ },
+ "email_hook": "（不发送：比价平台）"
+}

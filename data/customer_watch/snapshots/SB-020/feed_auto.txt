@@ -1,11 +1,11 @@
-# SB-020 4power.it · feed_auto · https://www.4power.it/feed/ · fetched 2026-10-25T07:41:18Z · HTTP 200
-Mon, 12 Oct 2026 23:43:28 +0000	4Net 4N-WSG24P2F: switch PoE Web Smart 24 porte Gigabit, 2 SFP, 300 W	https://www.4power.it/4n-wsg24p2f-switch-web-smart-24p1000-poe-8023at-300w-2p1000-sfp/
-Sat, 26 Sep 2026 07:29:04 +0000	PLANET CB-QSFP100G-5M: cavo DAC QSFP28 100G da 5 m	https://www.4power.it/planet-cb-qsfp100g-5m-cavo-dac-100g/
-Sat, 26 Sep 2026 07:28:35 +0000	PLANET CB-QSFP100G-3M: cavo DAC QSFP28 100G da 3 m	https://www.4power.it/planet-cb-qsfp100g-3m-cavo-dac-100g/
-Fri, 25 Sep 2026 21:19:43 +0000	Eurogroup Micro Pro LCD 2000: UPS 2000 VA / 1200 W | MLPMM200010T	https://www.4power.it/eurogroup-micro-pro-lcd-2000-ups-2000va/
-Fri, 25 Sep 2026 21:19:41 +0000	Eurogroup Micro Pro LCD 1500: UPS 1500 VA / 900 W | MLPMM150010T	https://www.4power.it/eurogroup-micro-pro-lcd-1500-ups-1500va/
-Fri, 25 Sep 2026 21:19:40 +0000	Eurogroup Micro Pro LCD 1000: UPS 1000 VA / 600 W | MLPMM100010T	https://www.4power.it/eurogroup-micro-pro-lcd-1000-ups-1000va/
-Fri, 25 Sep 2026 21:19:40 +0000	Eurogroup Micro Pro LCD 1200: UPS 1200 VA / 720 W | MLPMM120010T	https://www.4power.it/eurogroup-micro-pro-lcd-1200-ups-1200va/
-Fri, 25 Sep 2026 21:19:39 +0000	Eurogroup Micro Pro LCD 850: UPS 850 VA / 480 W | MLPMM085010T	https://www.4power.it/eurogroup-micro-pro-lcd-850-ups-850va/
-Fri, 25 Sep 2026 21:19:38 +0000	Eurogroup Micro Pro LCD 650: UPS 650 VA / 360 W | MLPMM065010T	https://www.4power.it/eurogroup-micro-pro-lcd-650-ups-650va/
-Fri, 25 Sep 2026 20:54:23 +0000	Eurogroup Micro 650: UPS 650 VA / 360 W | MCRMM065010T	https://www.4power.it/ups-micro-650-potenza-nominale-650va/
+# SB-020 52 Networks, Inc.（弗吉尼亚 Woodbridge，GSA MAS 47QTCA22D00B3 联邦供应商） · feed_auto · https://52networks.com/feed · fetched 2026-10-25T07:41:18Z · HTTP 200
+Wed, 21 Oct 2026 03:43:11 +0000	What Is PoE? A Complete Guide to Power over Ethernet	https://52networks.com/archives/30955
+Wed, 21 Oct 2026 03:40:28 +0000	How Long Can an Ethernet Cable Run? Cat5e, Cat6 & Cat6A Maximum Distances	https://52networks.com/archives/30953
+Tue, 13 Oct 2026 14:44:00 +0000	Solid vs Stranded Ethernet Cable: Which One Should You Use?	https://52networks.com/archives/30918
+Tue, 13 Oct 2026 14:29:10 +0000	CMR vs CMP Cable: Which Ethernet Cable Is Right for Your Building?	https://52networks.com/archives/30901
+Fri, 09 Oct 2026 03:06:05 +0000	What Ethernet Cable Do I Need for 1Gbps, 2.5Gbps, 5Gbps and 10Gbps?	https://52networks.com/archives/30884
+Wed, 10 Jun 2026 02:22:05 +0000	How to Wire Your Home Network Like a Pro in 2026 — The Complete Structured Cabling Guide	https://52networks.com/archives/29954
+Fri, 25 Apr 2025 18:16:37 +0000	Cat6 Plenum vs Cat6 Riser Cable: What’s the Difference?	https://52networks.com/archives/28969
+Fri, 19 Feb 2021 17:50:47 +0000	Fiber Optic Color & Ratings	https://52networks.com/archives/11471
+Wed, 17 Feb 2021 17:16:47 +0000	Single-Mode VS Multi-mode Fiber.	https://52networks.com/archives/11443
+Tue, 02 Feb 2021 17:48:25 +0000	When to Choose Right Media Converter	https://52networks.com/archives/11275

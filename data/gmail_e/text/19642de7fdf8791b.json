@@ -11,7 +11,7 @@
  "text": "Hi, Musine,\nThanks for your interest.\nPlease see attached links for all information.\nThank you.",
  "char_count": "180",
  "attachments": "[{'filename': 'Customization after log-in.jpg', 'mime_type': 'image/jpeg', 'size': 138179}, {'filename': 'Download Link.pdf', 'mime_type': 'application/pdf', 'size': 108874}]",
- "note": "SB-1009：Elsa 对「Am interested」只回下载链接",
+ "note": "SB-896：Elsa 对「Am interested」只回下载链接",
  "text_source": "text/plain",
  "fetched": "2026-10-24T16:21Z",
  "method": "Arena Gmail connector get_message_text(include_quoted=false)"

@@ -2,123 +2,122 @@
  "code": "SB-626",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "在线（burnsprecisionag.com.au，快照 2026-10-21）",
- "summary": "澳大利亚 Burns Precision Ag（精准农业设备网店：ISOBUS 终端、导航、液体控制 SAGRO 10、农机摄像头；阿里巴巴询盘「升压 5 口」；KP Preston Burns）；表内未跟进。",
- "type": "精准农业设备商（澳大利亚，车载低压 PoE 需求）",
+ "website_status": "在线（visiondynamics.de，快照 2026-10-21）",
+ "summary": "德国 Vision Dynamics ElectronX（业务待核；表内「之前谈过」；KP Joseph（joseph.nb@）；官网快照仅标题）；表内未跟进（群发前有接触）。",
+ "type": "电子/网络贸易商（德国，待核）",
  "size": "",
  "brands_seen": [],
  "evidence": [
   {
    "kind": "官网快照",
-   "claim": "官网标题：- Burns Precision Ag；品类词 安防监控（CCTV / 门禁） / 光纤 / 媒体转换",
-   "quote": "ISOBUS Terminal The most versatile certified ISO VT ISOBUS VT Manual Guidance Affordable Guidance SAGRO 10 Liquid Control ISOBUS Liquid Control IBX100 PAYMEN...",
-   "url": "https://burnsprecisionag.com.au/",
+   "claim": "官网标题：.:: Vision Dynamics ElectronX ::.",
+   "quote": "",
+   "url": "https://visiondynamics.de/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
    "claim": "表内兴趣/备注",
-   "quote": "升压5口 / from: 阿里巴巴询盘",
+   "quote": "之前谈过",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   },
   {
-   "kind": "官网快照",
-   "claim": "Burns 定位",
-   "quote": "- Burns Precision Ag ; ISOBUS Terminal The most versatile certified ISO VT",
-   "url": "https://burnsprecisionag.com.au/",
-   "date": "2026-10-21"
-  },
-  {
    "kind": "用户表",
-   "claim": "升压 5 口询盘",
-   "quote": "升压5口 / from: 阿里巴巴询盘",
+   "claim": "之前谈过",
+   "quote": "之前谈过",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
  "kp": [
   {
-   "name": "Preston Burns",
-   "title": "（负责人）",
-   "email": "preston@burnsprecisionag.com.au",
+   "name": "Joseph",
+   "title": "（职务待核）",
+   "email": "joseph.nb@visiondynamics.de",
    "phone": "",
    "source": "用户表"
   }
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "澳大利亚",
-  "other": "官网 burnsprecisionag.com.au，语言 en-US，快照状态 ok；角色判定来源：官网文案"
+  "hq": "德国",
+  "other": "官网 visiondynamics.de，语言 ?，快照状态 ok；角色判定来源：待核"
  },
  "business_lines": [
-  "精准农业设备（澳大利亚）"
+  "（待核）"
  ],
  "channels": {
-  "role": "精准农业设备商（澳大利亚，车载低压 PoE 需求）",
-  "region": "澳大利亚",
-  "contact": "preston@burnsprecisionag.com.au"
+  "role": "电子/网络贸易商（德国，待核）",
+  "region": "德国",
+  "contact": "joseph.nb@visiondynamics.de、enquiries@visiondynamics.de"
  },
  "signals": [
-  "官网：Burns Precision Ag ; ISOBUS Terminal ; ISOBUS VT ; SAGRO 10 Liquid Control；页面 /shop/",
-  "表内：升压 5 口 / from: 阿里巴巴询盘；KP Preston Burns"
+  "表内：之前谈过；KP Joseph；enquiries@visiondynamics.de",
+  "快照：.:: Vision Dynamics ElectronX ::.（内容空）"
  ],
  "risks": [
-  "升压（低压输入升 48 V PoE）能力在 Saga 列表中待核；非主攻区（T5，澳大利亚；RCM 由客户侧）；农机车载环境（振动/温度）认证 Saga 无"
+  "「之前谈过」——洽谈内容待核（Gmail s./a. 邮箱）；官网仅标题（业务范围待核）"
  ],
  "saga_fit": {
-  "p1": "STI-054GP",
+  "p1": "STC-28DGGPM",
   "tier": 25,
-  "why": "升压 5 口（农机 12/24 V 供电）→ 工业 4 PoE + 1 GE STI-054GP（$32.5 @25%，12–57 V 输入，升压能力待核）/ 5 GE 非 PoE STI-050GE（$17.8）"
+  "why": "前期洽谈内容待核（Gmail）→ 先以 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、工业 8 GE + 2 SFP STI-280GE（$48.6）续谈"
  },
- "email_hook": "Preston, following your enquiry for a 5-port boost PoE switch: our compact DIN-rail 4-PoE + 1 GE industrial switch accepts 12–57 V DC input (for 12/24 V machinery) and delivers 802.3at on four ports, CE/RoHS, from single units, EXW USD — how many units, and what is the supply voltage on the machines?",
+ "email_hook": "Joseph, picking up our earlier conversation: we now supply Marvell-based 8-PoE + 2 SFP L2+ and DIN-rail 8-GE + 2 SFP industrial switches from single units, CE/RoHS, EXW USD — is the requirement we discussed still open, and which configuration should I quote?",
  "mail_review": {
   "binding": {
-   "level": "未发信（S/A 邮箱均无往来；来源：用户表「升压5口 / from: 阿里巴巴询盘」；Elsa 箱：`to:burnsprecisionag.com.au` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(n)））",
-   "type": "精准农业设备商（澳大利亚，车载低压 PoE 需求）",
-   "sieve": "—（未入筛）",
-   "stop": "从未触达",
-   "revive": "不动（非主攻区；J5：有证据再动）",
-   "lane": "澳大利亚 非主攻",
-   "cadence": "不动",
-   "evidence": "gmail_digest：out 0；用户表：「升压5口 / from: 阿里巴巴询盘」；研究档 risks：升压（低压输入升 48 V PoE）能力在 Saga 列表中待核；非主攻区（T5，澳大利亚；RCM 由客户侧）；农机车载环境（振动/温度）认证 Saga 无"
+   "level": "未触达（A 邮箱 6 封 2026，无记录打开，0 回；收件 enquiries@visiondynamics.de, joseph.nb@visiondynamics.de；主题多为「Marvell Managed Commercial Switches、10G Enterprise SFP Switch」；Elsa 箱：`to:.de` 穷举 29 条（2026-10-25，锚批 Bcc 头已读）未见 visiondynamics.de → Elsa 箱从未发过本户，往来只在 S/A 箱（去 6 / 来 0）（第 74 批(f)））",
+   "type": "电子/网络贸易商（德国，待核）",
+   "sieve": "1（只收到群发）",
+   "stop": "6 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "DE 主攻（四主）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 6；用户表：「之前谈过」；研究档 risks：「之前谈过」——洽谈内容待核（Gmail s./a. 邮箱）；官网仅标题（业务范围待核）"
   },
-  "situation": "澳大利亚 Burns Precision Ag（精准农业设备网店：ISOBUS 终端、导航、液体控制 SAGRO 10、农机摄像头；阿里巴巴询盘「升压 5 口」；KP Preston Burns）；表内未跟进。",
-  "need": "升压 5 口（农机 12/24 V 供电）→ 工业 4 PoE + 1 GE STI-054GP（$32.5 @25%，12–57 V 输入，升压能力待核）/ 5 GE 非 PoE STI-050GE（$17.8）",
-  "breakpoint": "升压（低压输入升 48 V PoE）能力在 Saga 列表中待核；非主攻区（T5，澳大利亚；RCM 由客户侧）；农机车载环境（振动/温度）认证 Saga 无",
+  "situation": "德国 Vision Dynamics ElectronX（业务待核；表内「之前谈过」；KP Joseph（joseph.nb@）；官网快照仅标题）；表内未跟进（群发前有接触）。",
+  "need": "前期洽谈内容待核（Gmail）→ 先以 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、工业 8 GE + 2 SFP STI-280GE（$48.6）续谈",
+  "breakpoint": "「之前谈过」——洽谈内容待核（Gmail s./a. 邮箱）；官网仅标题（业务范围待核）",
   "saga_now": {
-   "p1": "STI-054GP",
+   "p1": "STC-28DGGPM",
    "tier": 25,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "升压 5 口（农机 12/24 V 供电）→ 工业 4 PoE + 1 GE STI-054GP（$32.5 @25%，12–57 V 输入，升压能力待核）/ 5 GE 非 PoE STI-050GE（$17.8）",
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-17 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2026-05-01 $280（10G Enterprise SFP Switch）",
+   "why": "前期洽谈内容待核（Gmail）→ 先以 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、工业 8 GE + 2 SFP STI-280GE（$48.6）续谈",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—",
-   "one_question": ""
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Joseph, picking up our earlier conversation: we now supply Marvell-based 8-PoE + 2 SFP L2+ and DIN-rail 8-GE + 2 SFP industrial switches from single units, CE/RoHS, EXW USD — is the requirement we discussed still open, and which configuration should I quote?"
   },
   "facts": [
+   {
+    "date": "2026-09-23",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "Marvell Managed Commercial Switches、10G Enterprise SFP Switch",
+    "why": "6 封 / 0 次打开 / 0 回｜首封 2026-03-27 → 末封 2026-09-23（6 去 / 0 来）",
+    "k": "gmail_digest"
+   },
    {
     "date": "2026-10-21",
     "dir": "用户表",
     "who": "Simon",
-    "quote": "升压5口 / from: 阿里巴巴询盘",
+    "quote": "之前谈过",
     "why": "表内备注",
     "k": "用户表"
    }
   ],
-  "proof_gaps": [
-   "无邮件往来"
-  ],
+  "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-24"
  }

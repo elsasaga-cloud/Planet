@@ -1,137 +1,166 @@
 {
-  "code": "SB-530",
-  "name_official": "",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（dynamode.co.uk，快照 2026-10-21）",
-  "summary": "英国 Dynamode UK（计算机与网络设备自有品牌，「From the Manufacture To U」：PoE 交换机 SW40010-2-POE / SW80010-G-POE / SW2402100-G-POE、MC 41、摄像机、Wi-Fi；表内「MC / switch / 周边产品，比较杂」）；群发 10 次无回复。",
-  "type": "英国自有品牌网络配件商（OEM 采购）",
-  "size": "",
-  "brands_seen": [
-    "Aruba"
-  ],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "官网标题：Dynamode UK；品类词 安防监控（CCTV / 门禁） / 无线 / WiFi / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
-      "quote": "Dynamode UK",
-      "url": "https://www.dynamode.co.uk/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "MC switch 周边产品 比较杂一些",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网快照",
-      "claim": "Dynamode UK 自有品牌",
-      "quote": "Your One-Stop For Computer and Networking Devices ; From the Manufacture To U ; Exclusive Products",
-      "url": "https://www.dynamode.co.uk/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "MC switch 周边产品 比较杂",
-      "quote": "MC switch 周边产品 比较杂一些",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ "code": "SB-530",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（dss-kuwait.com，快照 2026-10-21）",
+ "summary": "科威特 DSS – Digital Security Systems（「Digital Life A Smart Life」安防/智能方案与运维服务：方案设计、专业服务与分析、运维；合作伙伴 Dahua / ONV / Ajax / Axis；表内「工业 FS 和 ONV 深度合作」；KP Dalal Jadallah、Majdi Yosef、Doha Hassan、Azzam Abbas）；群发 15 次无回复。",
+ "type": "安防集成商（科威特，ONV 深度合作）",
+ "size": "",
+ "brands_seen": [
+  "Dahua",
+  "ONV",
+  "Ajax",
+  "Axis"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：DSS-Digital Security Systems；品类词 安防监控（CCTV / 门禁） / 无线 / WiFi / 网络交换 / PoE",
+   "quote": "Digital Life A Smart Life；Our Services & Products；Experts are Here to Help；Solution & System Design；Professional Services & Analytics；Operations, Maintenance & Repair Service",
+   "url": "http://dss-kuwait.com/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "hq": "英国",
-    "other": "官网 dynamode.co.uk，语言 en，快照状态 ok；角色判定来源：官网文案"
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "工业FS 和ONV深度合作；dalal@dss-kuwait.com majdi@dss-kuwait.com doha@dss-kuwait.com azzam@dss-kuwait.com",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "计算机与网络设备（自有品牌 Dynamode）"
-  ],
-  "channels": {
-    "role": "英国自有品牌网络配件商（OEM 采购）",
-    "region": "英国",
-    "contact": "sales@dynamode.co.uk"
+  {
+   "kind": "官网快照",
+   "claim": "DSS 首页",
+   "quote": "DSS-Digital Security Systems ; Digital Life A Smart Life ; Solution & System Design ; Operations, Maintenance & Repair Service ; Our Partners",
+   "url": "http://dss-kuwait.com/",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "站内型号 SW40010-2-POE / SW40010-G-POE / SW80010-G-POE / SW80010-2-POE / SW2402100-G-POE（自有）",
-    "首页：From the Manufacture To U；Exclusive Products；kw media converter 41 / camera 50"
-  ],
-  "risks": [
-    "品类杂、单品量小；现代工深圳价格基准低",
-    "10 次无回复，仅 sales@，无具名 KP"
-  ],
-  "saga_fit": {
-    "p1": "STC-28DGGPM",
-    "tier": 30,
-    "why": "自有 SW80010-G-POE（8 GE PoE + 上联）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Dynamode 标；SW40010 位 HRUI STC-204GP（$20.4）；SW2402100 位 STC-424DGGPM-280W；MC 位 STI-110GE / 商用 MC 待核"
-  },
-  "email_hook": "For the SW-series PoE switches under the Dynamode label (SW80010-G-POE, SW2402100-G-POE), we can be a second ODM source on a Marvell platform from small lots in your packaging, CE/RoHS/UKCA — which model do you reorder most often?",
-  "products_seen": [
-    {
-      "brand": "Dynamode（自有）",
-      "model": "SW80010-G-POE",
-      "spec": "8 口千兆 PoE + 上联（推断）",
-      "saga": "STC-28DGGPM",
-      "url": "https://www.dynamode.co.uk/",
-      "date": "2026-10-21"
-    },
-    {
-      "brand": "Dynamode（自有）",
-      "model": "SW2402100-G-POE",
-      "spec": "24 口千兆 PoE + 2 上联（推断）",
-      "saga": "STC-424DGGPM-280W",
-      "url": "https://www.dynamode.co.uk/",
-      "date": "2026-10-21"
-    }
-  ],
-  "mail_review": {
-    "binding": {
-      "level": "未触达（2 封自动回复）；Elsa 1:1 去信 1 封（2025-02-18「8 Port Industrial PoE Switch」；To 仅本户 sales@dynamode.co.uk；Bcc 未逐封读头；同类名单抽读 24 封均无 Bcc；此后再未进 Elsa 任何名单——全箱 `from:e.sagatelecom to:sales@dynamode.co.uk` 仅此 1 条，complete）（第 74 批(m)）",
-      "type": "英国自有品牌网络配件商（Dynamode）",
-      "sieve": "0",
-      "stop": "自动回复/机器人，无人工回复",
-      "revive": "不动",
-      "lane": "UK",
-      "cadence": "不动",
-      "evidence": "k=38c9744f2d9b362b / 1796d3be871fec93；data/gmail_e/elsa_sent_tld_probe_2026-10-25.json（国别后缀探测，该国 Elsa 触达全集 complete:true）"
-    },
-    "situation": "来信全部为机器回复；无人读信或无人回信。",
-    "need": "—",
-    "breakpoint": "—",
-    "saga_now": {
-      "p1": "—",
-      "tier": 30,
-      "price": "—；群发里他已看到的价（续，第 66 批全量复核）：2025-09-15 $240（24 Port Fiber Switch）、2025-10-10 $280（10G Enterprise SFP Switch）",
-      "why": "—",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "不动",
-      "channel": "—",
-      "action": "首封前知悉：Elsa 2025-02 已 1:1 发过「8 Port Industrial PoE Switch」给 sales@dynamode.co.uk（0 回），开头按 ㉝ 带一句「we wrote once in Feb 2025 about X, no reason you'd have replied」，别当完全陌生。 —",
-      "one_question": ""
-    },
-    "facts": [
-      {
-        "date": "2025-02-18",
-        "dir": "去",
-        "who": "Elsa 1:1 去信（To sales@dynamode.co.uk）",
-        "quote": "8 Port Industrial PoE Switch — Marvell based unmanaged 8 GE PoE, 30W/port, 250 m PoE, watchdog, DIP, SFP/SC/FC/ST（稿内无价，第 74 批(p) 已读稿）",
-        "why": "Elsa 箱 in:sent 按国别后缀探测（to:.de/.uk/.pl/.cz）命中：2025-02 Elsa 开箱头两周的逐户单发，无称呼；Elsa Replied 线程 0、来询未回清单 0 → 0 回；S/A digest 看不到这封",
-        "k": "elsa_1to1",
-        "msg_id": "19519c8b85ba846e"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-25"
+  {
+   "kind": "用户表",
+   "claim": "工业 FS 和 ONV 深度合作",
+   "quote": "工业FS 和ONV深度合作",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Majdi Yosef",
+   "title": "（职务待核）",
+   "email": "majdi@dss-kuwait.com",
+   "phone": "",
+   "source": "用户表"
+  },
+  {
+   "name": "Dalal Jadallah",
+   "title": "（职务待核）",
+   "email": "dalal@dss-kuwait.com",
+   "phone": "",
+   "source": "用户表"
+  },
+  {
+   "name": "Azzam Abbas",
+   "title": "（职务待核）",
+   "email": "azzam@dss-kuwait.com",
+   "phone": "",
+   "source": "用户表"
+  },
+  {
+   "name": "Doha Hassan",
+   "title": "（职务待核）",
+   "email": "doha@dss-kuwait.com",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "科威特",
+  "other": "官网 dss-kuwait.com，语言 ?，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "安防 / 智能系统集成与运维（科威特）"
+ ],
+ "channels": {
+  "role": "安防集成商（科威特，ONV 深度合作）",
+  "region": "科威特",
+  "contact": "info@dss-kuwait.com、presales@dss-kuwait.com"
+ },
+ "signals": [
+  "首页 Digital Life A Smart Life ; Solution & System Design ; Professional Services & Analytics ; Operations, Maintenance & Repair Service ; Our Partners；站内品牌 Dahua / ONV / Ajax / Axis",
+  "表内：工业 FS 和 ONV 深度合作；联系人 dalal@ / majdi@ / doha@ / azzam@"
+ ],
+ "risks": [
+  "现与 ONV（深圳）深度合作（价格基准低、关系既定）；非主攻区（T5，科威特）",
+  "15 次无回复，4 名联系人职务待核"
+ ],
+ "saga_fit": {
+  "p1": "STI-288GPM",
+  "tier": 25,
+  "why": "现 ONV 工业 FS 深度合作 → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）作 Marvell 平台替代位；商用 STC-28DGGPM（$84.1）"
+ },
+ "email_hook": "Majdi, for the industrial PoE switches in your camera and access-control projects, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units (−40~75 °C, 90 W PoE++ option, CE/RoHS, neutral packing) from single units, EXW USD — is there a managed-switch position you would like a comparative quote for alongside your current supplier?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（1 封自动回复；ONV 深度合作；Elsa 箱：`to:dss-kuwait.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 23 / 来 1）（第 74 批(n)））",
+   "type": "科威特安防集成（DSS）",
+   "sieve": "0",
+   "stop": "自动回复/机器人，无人工回复",
+   "revive": "不动",
+   "lane": "KW",
+   "cadence": "不动",
+   "evidence": "k=eedb744221423d3a"
+  },
+  "situation": "来信全部为机器回复；无人读信或无人回信。",
+  "need": "—",
+  "breakpoint": "—",
+  "saga_now": {
+   "p1": "—",
+   "tier": 20,
+   "price": "—；群发里他已看到的价（续）：2026-07-27 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-11-18 $300（48 Port PoE Managed Switch）、2025-10-07 $280（10G Enterprise SFP Switch）、2026-06-16 $16000（32 Port 400GB DC Switch）",
+   "why": "已打开的主题（2/23 封有打开记录）：「48 Port PoE Managed Switch」(2024-11-18)、「16 Port Industrial PoE Switch」(2026-09-10) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—（第 76 批(c) 2026-10-25：0 事实户补时间线事实）",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2024-07-08",
+    "dir": "去",
+    "who": "S 箱（Simon）",
+    "quote": "Passive PoE Switch",
+    "why": "首封去信（邮箱索引；去信共 23 封）",
+    "k": "ecd99befeaa14703"
+   },
+   {
+    "date": "2026-09-10",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "16 Port Industrial PoE Switch",
+    "why": "最近一封去信（邮箱索引；去信共 23 封）",
+    "k": "e316074b47782e03"
+   },
+   {
+    "date": "2024-08-06",
+    "dir": "来",
+    "who": "dalal@dss-kuwait.com",
+    "quote": "Automatic reply: PoE Switch｜HHello!  I am away on vacation From Aug 1st 2024 To Aug 31st 2024.  I will respond as soon as I return. For urgent matte",
+    "why": "自动回复/退信（机器，不算人工回复）",
+    "k": "eedb744221423d3a"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

@@ -1,0 +1,66 @@
+{
+ "code": "SC-223",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（3deye.me，快照 2026-10-21）",
+ "summary": "美国 3dEYE（云视频监控 SaaS 平台：多站点摄像机管理、AI 分析、云存储，「Try 3dEYE free」；表内「FS 主要是 CCTV」）；表内未跟进。",
+ "type": "云视频监控软件平台（软件品类）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Cloud Video Surveillance: AI-Powered CCTV Online Streaming, Storage & Proactive Security |；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络",
+   "quote": "Scalable cloud-based video surveillance system for business. Manage cameras across multiple sites, add AI video analytics on demand, and store footage securely. Try 3dEYE free.",
+   "url": "https://www.3deye.ai:443/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "FS 主要是CCTV",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "3dEYE 定位",
+   "quote": "Cloud Video Surveillance: AI-Powered CCTV Online Streaming, Storage & Proactive Security ; Scalable cloud-based video surveillance system for business ; Try 3dEYE free",
+   "url": "https://www.3deye.ai:443/",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "软件/云平台（SaaS），非硬件渠道；c_sub=品类不符（软件）",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "美国",
+  "other": "官网 3deye.me，语言 en-US，快照状态 ok；角色判定来源：用户表"
+ },
+ "business_lines": [
+  "云视频监控 SaaS 平台"
+ ],
+ "channels": {
+  "role": "云视频监控软件平台（软件品类）",
+  "region": "美国",
+  "contact": "info@3deye.me"
+ },
+ "signals": [
+  "官网：Scalable cloud-based video surveillance system for business. Manage cameras across multiple sites, add AI video analytics on demand, and store footage securely. Try 3dEYE free；首页 1. Aggregate ; 2. Manage ; 3. AI + Analyze ; 4. React",
+  "表内：FS 主要是 CCTV"
+ ],
+ "risks": [
+  "品类不符：云视频监控 SaaS（不经销交换机硬件）"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 25,
+  "why": "纯软件/云平台（SaaS），不经销硬件交换机 → 改 C（品类不符）"
+ },
+ "email_hook": "（不发送：软件平台）"
+}

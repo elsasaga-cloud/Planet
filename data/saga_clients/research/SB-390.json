@@ -2,44 +2,25 @@
   "code": "SB-390",
   "name_official": "",
   "researched_at": "2026-10-21",
-  "website_status": "在线（abcv.pl，快照 2026-10-21）",
-  "summary": "波兰 ABC Vision（安防系统网店：报警、IP 监控、CCTV；Hikvision 86 / Dahua / Axis / Hanwha / Pulsar；Ceneo 上有 ABCVISION 自有标交换机；表内「MC / switch 等，有 Hasivo 的商业 PoE，应该比较多从国内买」「质量一般」）；表内 1 次跟进无回复。",
-  "type": "安防网店 + 自有标交换机（波兰，Hasivo 代工迹象）",
+  "website_status": "快照失败（timeout）",
+  "summary": "英国 Hunters Wholesalers（电气/安防批发分销商；表内「分销商 商业 PoE 有润丰达（丰润达）的」「可以多跟进一下」；官网 timeout）；群发 16 次无回复。",
+  "type": "电气/安防批发商（英国，PoE 现丰润达，Q-33 口径）",
   "size": "",
   "brands_seen": [
-    "Hikvision",
-    "Hanwha",
-    "Axis",
-    "Pulsar",
-    "Hasivo",
-    "Dahua"
+    "丰润达"
   ],
   "evidence": [
     {
-      "kind": "官网快照",
-      "claim": "官网标题：ABC VISION - SYSTEMY ZABEZPIECZEŃ ALARMY MONITORING IP TELEWIZJA PRZEMYSŁOWA CCTV；品类词 安防监控（CCTV / 门禁） / 无线 / WiFi / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
-      "quote": "Sklep internetowy firmy ABC VISION - SYSTEMY ZABEZPIECZEŃ. Profesjonalna obsługa oraz atrakcyjne ceny gwarantowane! Posiadamy w stałej ofercie setki urządzeń służących do intalacji systemu monitoringu, monitoringu IP, HD-SDI, HD-CVI, HD-TVI",
-      "url": "https://abcv.pl/",
-      "date": "2026-10-21"
-    },
-    {
       "kind": "用户表",
       "claim": "表内兴趣/备注",
-      "quote": "MC Switch等；有haviso的商业PoE 应该是比较多从国内买；https://www.ceneo.pl/Switche_i_huby/p:ABCVISION.htm",
+      "quote": "分销商 商业PoE 有润丰达的",
       "url": "（本地 Clients/ 表格，无公开 URL）",
       "date": "2026-10-21"
     },
     {
-      "kind": "官网快照",
-      "claim": "ABC Vision 安防系统网店",
-      "quote": "Sklep internetowy firmy ABC VISION - SYSTEMY ZABEZPIECZEŃ. Profesjonalna obsługa oraz atrakcyjne ceny gwarantowane!",
-      "url": "https://abcv.pl/",
-      "date": "2026-10-21"
-    },
-    {
       "kind": "用户表",
-      "claim": "有 Hasivo 的商业 PoE，从国内买",
-      "quote": "MC Switch等 / 有haviso的商业PoE 应该是比较多从国内买；https://www.ceneo.pl/Switche_i_huby/p:ABCVISION.htm",
+      "claim": "分销商 商业 PoE 有丰润达",
+      "quote": "分销商 商业PoE 有润丰达的；可以多跟进一下",
       "url": "（本地 Clients/ 表格，无公开 URL）",
       "date": "2026-10-21"
     }
@@ -53,83 +34,81 @@
     "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
   },
   "company_facts": {
-    "hq": "波兰",
-    "other": "官网 abcv.pl，语言 pl，快照状态 ok；角色判定来源：官网文案"
+    "hq": "英国",
+    "other": "官网 hunters-wholesalers.co.uk，语言 ?，快照状态 timeout；角色判定来源：用户表"
   },
   "business_lines": [
-    "安防系统网店（报警 / 监控 / CCTV）",
-    "自有标交换机（ABCVISION）"
+    "电气 / 安防产品批发（英国）"
   ],
   "channels": {
-    "role": "安防网店 + 自有标交换机（波兰，Hasivo 代工迹象）",
-    "region": "波兰",
-    "contact": "sklep@abcvision.pl"
+    "role": "电气/安防批发商（英国，PoE 现丰润达，Q-33 口径）",
+    "region": "英国",
+    "contact": "sales@hunters-wholesalers.co.uk"
   },
   "signals": [
-    "表内链接 https://www.ceneo.pl/Switche_i_huby/p:ABCVISION.htm（自有标交换机）",
-    "官网：Sklep internetowy firmy ABC VISION - SYSTEMY ZABEZPIECZEŃ … setki urządzeń służących do intalacji systemu monitoringu",
-    "站内 kw：hikvision 86 / switch 60 / poe 41"
+    "表内：分销商 商业 PoE 有润丰达的；可以多跟进一下",
+    "快照：timeout"
   ],
   "risks": [
-    "现货源 Hasivo（深圳）价格基准极低",
-    "网店体量中小；1 次跟进无回复，无具名 KP（sklep@）"
+    "Q-33 口径：丰润达在供，仅推 SmartByte/Marvell 线；官网 timeout；16 次无回复，仅 sales@"
   ],
   "saga_fit": {
     "p1": "STC-28DGGPM",
-    "tier": 30,
-    "why": "自有标（ABCVISION）PoE 现由 Hasivo 类代工 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴标；非管理位 HRUI STC-028GP（$24.2）"
+    "tier": 20,
+    "why": "丰润达在供 → 仅推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）"
   },
-  "email_hook": "For the ABCVISION-branded PoE switches listed on Ceneo, we can be a second source on a Marvell L2+ platform (8-PoE + 2 SFP) plus budget unmanaged 4/8-PoE units from small lots in your packaging, CE/RoHS — which model do you reorder most often?",
+  "email_hook": "For the managed PoE switch position in your wholesale range, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches from small lots, CE/RoHS/UKCA, EXW USD — which PoE port count do your trade customers buy most?",
   "mail_review": {
     "binding": {
-      "level": "未触达（A 邮箱 10 封 2025→2026，无记录打开，0 回；收件 sklep@abcvision.pl；主题多为「10G Enterprise SFP Switch、Booster PoE Switch」）；Elsa 群发 BCC 已触达 2025-04-03「L3 Managed Switch」（稿内无价，第 74 批(p) 已读稿），PL-2 批次 To j.zaczek@mbs-systems.pl，0 回（第 74 批 Bcc 头核对 msg 195fba131b824d36）",
-      "type": "安防网店 + 自有标交换机（波兰，Hasivo 代工迹象）",
+      "level": "未触达（A/S 邮箱 23 封 2024→2026，无记录打开，0 回；收件 sales@hunters-wholesalers.co.uk；主题多为「10G Enterprise SFP Switch、Marvell Alleycat5 Solution」）；Elsa 1:1 去信 1 封（2025-02-24「90W PoE Managed Switch」；To 仅本户 sales@hunters-wholesalers.co.uk；Bcc 未逐封读头；同类名单抽读 24 封均无 Bcc；此后再未进 Elsa 任何名单——全箱 `from:e.sagatelecom to:sales@hunters-wholesalers.co.uk` 仅此 1 条，complete）（第 74 批(m)）",
+      "type": "电气/安防批发商（英国，PoE 现丰润达，Q-33 口径）",
       "sieve": "1（只收到群发）",
-      "stop": "10 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-      "revive": "保持季度群发到 2027-Q1；无打开即停",
-      "lane": "PL 次级重点",
-      "cadence": "季度",
-      "evidence": "gmail_digest：out 10；用户表：「MC Switch等；有haviso的商业PoE 应该是比较多从国内买；https://www.ceneo.pl/Switche_i_huby/p:ABCVIS」；研究档 risks：现货源 Hasivo（深圳）价格基准极低；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To j.zaczek@mbs-systems.pl）本户见于 2025-04-03 名单；2026-09-01 最新一轮名单已不含此地址 → 中途被剔除（退信 / 退订 / 手工）"
+      "stop": "只打通用邮箱，无记录打开；Q-33 供应商渠道客户",
+      "revive": "不动（Q-33）",
+      "lane": "UK 主攻（四主）",
+      "cadence": "不动",
+      "evidence": "gmail_digest：out 23；用户表：「分销商 商业PoE 有润丰达的」；研究档 risks：Q-33 口径：丰润达在供，仅推 SmartByte/Marvell 线；官网 timeout；16 次无回复，仅 sales@；data/gmail_e/elsa_sent_tld_probe_2026-10-25.json（国别后缀探测，该国 Elsa 触达全集 complete:true）"
     },
-    "situation": "波兰 ABC Vision（安防系统网店：报警、IP 监控、CCTV；Hikvision 86 / Dahua / Axis / Hanwha / Pulsar；Ceneo 上有 ABCVISION 自有标交换机；表内「MC / switch 等，有 Hasivo 的商业 PoE，应该比较多从国内买」「质量一般」）；表内 1 次跟进无回复。",
-    "need": "自有标（ABCVISION）PoE 现由 Hasivo 类代工 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴标；非管理位 HRUI STC-028GP（$24.2）",
-    "breakpoint": "现货源 Hasivo（深圳）价格基准极低",
+    "situation": "英国 Hunters Wholesalers（电气/安防批发分销商；表内「分销商 商业 PoE 有润丰达（丰润达）的」「可以多跟进一下」；官网 timeout）；群发 16 次无回复。",
+    "need": "丰润达在供 → 仅推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）",
+    "breakpoint": "Q-33 口径：丰润达在供，仅推 SmartByte/Marvell 线；官网 timeout；16 次无回复，仅 sales@",
     "saga_now": {
       "p1": "STC-28DGGPM",
-      "tier": 30,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-20 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-21 $280（10G Enterprise SFP Switch）",
-      "why": "自有标（ABCVISION）PoE 现由 Hasivo 类代工 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴标；非管理位 HRUI STC-028GP（$24.2）",
+      "tier": 20,
+      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-26 $300（48 Port PoE Managed Switch）、2024-12-25 $240（24 Port Fiber Switch）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-13 $280（10G Enterprise SFP Switch）",
+      "why": "丰润达在供 → 仅推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）",
       "repeat": [],
       "gaps": []
     },
     "next_move": {
-      "when": "群发节奏",
-      "channel": "A 邮箱",
-      "action": "观察打开",
-      "one_question": "For the ABCVISION-branded PoE switches listed on Ceneo, we can be a second source on a Marvell L2+ platform (8-PoE + 2 SFP) plus budget unmanaged 4/8-PoE units from small lots in your packaging, CE/RoHS — which model do you reorder most often?"
+      "when": "不动",
+      "channel": "—",
+      "action": "首封前知悉：Elsa 2025-02 已 1:1 发过「90W PoE Managed Switch」给 sales@hunters-wholesalers.co.uk（0 回），开头按 ㉝ 带一句「we wrote once in Feb 2025 about X, no reason you'd have replied」，别当完全陌生。 —",
+      "one_question": ""
     },
     "facts": [
       {
-        "date": "2025-04-03",
+        "date": "2025-02-24",
         "dir": "去",
-        "who": "Elsa 群发（BCC；To j.zaczek@mbs-systems.pl，PL-2 批次）",
-        "quote": "L3 Managed Switch — This is a Marvell-based L3 Managed 24 port DIN PoE Switch. 1, PoE af/at/bt, 370W budget, max 60℃ 2, Support DI/DO/RS485, USB, Alarm 3, Customizable We",
-        "why": "Elsa 箱群发 BCC 触达证据（命中地址 abcvision.pl, sklep@abcvision.pl）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-        "k": "elsa_bcc"
+        "who": "Elsa 1:1 去信（To sales@hunters-wholesalers.co.uk）",
+        "quote": "90W PoE Managed Switch — Marvell L2 managed PoE, programmable GUI, 2×PoE af/at/bt + 6×PoE af/at, 240W, PoE management（稿内无价，第 74 批(p) 已读稿）",
+        "why": "Elsa 箱 in:sent 按国别后缀探测（to:.de/.uk/.pl/.cz）命中：2025-02 Elsa 开箱头两周的逐户单发，无称呼；Elsa Replied 线程 0、来询未回清单 0 → 0 回；S/A digest 看不到这封",
+        "k": "elsa_1to1",
+        "msg_id": "1953878dcbdeb44d"
       },
       {
-        "date": "2026-09-25",
+        "date": "2026-09-18",
         "dir": "去",
-        "who": "A 群发",
-        "quote": "10G Enterprise SFP Switch、Booster PoE Switch",
-        "why": "10 封 / 0 次打开 / 0 回｜首封 2025-10-21 → 末封 2026-09-25（10 去 / 0 来）",
+        "who": "A/S 群发",
+        "quote": "10G Enterprise SFP Switch、Marvell Alleycat5 Solution",
+        "why": "23 封 / 0 次打开 / 0 回｜首封 2024-07-10 → 末封 2026-09-18（23 去 / 0 来）",
         "k": "gmail_digest"
       },
       {
         "date": "2026-10-21",
         "dir": "用户表",
         "who": "Simon",
-        "quote": "MC Switch等；有haviso的商业PoE 应该是比较多从国内买；https://www.ceneo.pl/Switche_i_huby/p:ABCVISION.htm",
+        "quote": "分销商 商业PoE 有润丰达的",
         "why": "表内备注",
         "k": "用户表"
       }

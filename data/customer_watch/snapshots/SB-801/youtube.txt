@@ -1,0 +1,14 @@
+# SB-801 aurcore.net · youtube · https://www.youtube.com/@AurCoreTechnology · fetched 2026-10-25T07:41:18Z · HTTP 200
+2026-08-11T18:07:22+00:00	Manage Your AurCore Switch with Web UI & CLI | Quick Demo	https://www.youtube.com/watch?v=dAyd6uQXV6A
+2026-07-28T17:27:10+00:00	AurCore Webinar: Deep Dive into AurCore ACC Cloud Network Management Platform	https://www.youtube.com/watch?v=GVLrptiEukQ
+2026-07-17T17:37:45+00:00	Switch vs Router — what's the real difference?	https://www.youtube.com/shorts/EShIL7lPiLw
+2026-07-10T18:26:03+00:00	Unboxing the AurCore AES2001P — Compact PoE+ Switch for IoT & Smart Buildings	https://www.youtube.com/shorts/-CKfvJCYyaw
+2026-06-26T22:16:38+00:00	Connect your GPU cluster into one high-performance fabric.	https://www.youtube.com/shorts/bA3GvgJ0dB8
+2026-06-25T20:58:34+00:00	L3 #industrialnetworking AurCore AIS4001P Unboxing	https://www.youtube.com/shorts/JU6rrrnAy6Q
+2026-06-17T23:16:18+00:00	AurCore Webinar: Demo of ACC Cloud Management System	https://www.youtube.com/watch?v=Rf9wTj6cMQM
+2026-05-29T19:02:58+00:00	Introducing the AurCore AES4002P | 48-Port PoE+ L3 Switch | AURC-NOS Powered	https://www.youtube.com/watch?v=Z93iZPWc2so
+2026-05-28T22:56:47+00:00	AurCore Webinar: Industrial Networking for Mission-Critical Infrastructure	https://www.youtube.com/watch?v=U_08hy4B-Yc
+2026-05-05T21:23:13+00:00	AurCore Webinar: Next-Gen Campus Connectivity	https://www.youtube.com/watch?v=jCSZc-_ZAJk
+2026-04-01T22:18:30+00:00	AurCore Webinar: Reliable, Rugged & Secure Connectivity for Critical Infrastructure	https://www.youtube.com/watch?v=ujZ3M9aF-o4
+2026-03-24T22:13:28+00:00	AurCore AIS4000 Series Industrial Switches	https://www.youtube.com/watch?v=MfK6WpjLsA8
+2026-03-06T17:23:35+00:00	AurCore AES8001 400G Data Center Switch	https://www.youtube.com/watch?v=0LseV2tDYKc

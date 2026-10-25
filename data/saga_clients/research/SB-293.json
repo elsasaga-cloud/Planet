@@ -1,117 +1,128 @@
 {
  "code": "SB-293",
- "name_official": "Kimberley Telecommunications（肯尼亚）",
+ "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "无域名（gmail；仅表内信息）",
- "summary": "肯尼亚电信工程商，**目前在用 PLANET 设备**，需求 2 光 16 电管理型非标 PoE（passive PoE）；2024-07 对 passive PoE 手册回复 price。无域名、无联系人姓名。",
- "type": "",
+ "website_status": "在线（virtualprotective.com，快照 2026-10-21）",
+ "summary": "美国 Virtual Protective（德州建筑工地安防摄像机与监控服务（SPP-2S 系列移动监控设备）；Shopify 订单「90W PoE Injector（外购品）」；KP Jonathan Byrd（Technical Manager））；表内未跟进。",
+ "type": "工地安防监控服务商（美国，自建设备）",
  "size": "",
- "brands_seen": [
-  "PLANET"
- ],
+ "brands_seen": [],
  "evidence": [
   {
+   "kind": "官网快照",
+   "claim": "官网标题：Secure Your Construction Site with Virtual Protective | Advanced Security Solutions；品类词 安防监控（CCTV / 门禁）",
+   "quote": "Secure your Texas construction site with Virtual Protective's advanced security cameras and monitoring services. Contact us today!",
+   "url": "https://www.virtualprotective.com/",
+   "date": "2026-10-21"
+  },
+  {
    "kind": "用户表",
-   "claim": "兴趣 2 光 16 管理 非标 POE；目前在用 Planet 的设备；回复 price",
-   "quote": "兴趣：2光16管理 非标POE 目前在用Planet的设备；回复：price",
+   "claim": "表内兴趣/备注",
+   "quote": "90W PoE Injector外购品 / from: Shopify",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Virtual Protective 定位",
+   "quote": "Secure Your Construction Site with Virtual Protective | Advanced Security Solutions ; Construction Site Security Cameras and Monitoring",
+   "url": "https://www.virtualprotective.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "90W PoE Injector Shopify",
+   "quote": "90W PoE Injector外购品 / from: Shopify",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
  "kp": [
   {
-   "name": "（未具名）",
-   "title": "",
-   "email": "gadsatoh@gmail.com",
-   "phone": "+254 720 749 670",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
+   "name": "Jonathan Byrd",
+   "title": "Technical Manager",
+   "email": "jon@virtualprotective.com",
+   "phone": "",
+   "source": "用户表"
   }
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "无域名 · 仅表内信息"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "legal_name": "Kimberley Telecommunications（待核）",
-  "founded": "",
-  "hq": "肯尼亚",
-  "size": "小型",
-  "other": "gmail；PLANET 用户"
+  "hq": "美国",
+  "other": "官网 virtualprotective.com，语言 en，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "电信 / 网络工程"
+  "建筑工地安防摄像与监控服务（德州）"
  ],
  "channels": {
-  "role": "工程商（PLANET 用户）",
-  "region": "肯尼亚"
+  "role": "工地安防监控服务商（美国，自建设备）",
+  "region": "美国",
+  "contact": "jon@virtualprotective.com"
  },
  "signals": [
-  "在用 PLANET → 对台系价位敏感，Saga 可直接对价 PLANET GS-4210-16P2S",
-  "要过 passive PoE（24V 非标）价格"
+  "官网：Secure your Texas construction site with Virtual Protective’s advanced security cameras and monitoring services；站内 SPP-2S / SPP-2SP / SPP-2ST；kw camera 42",
+  "表内：90W PoE Injector 外购品 / from: Shopify；KP Jonathan Byrd – Technical Manager"
  ],
  "risks": [
-  "非标 passive PoE 需求：Saga 标准线为 802.3af/at，需核 SmartByte/HRUI 是否有 24V passive 款",
-  "无姓名、无公司域名"
+  "PoE 注入器需求 Saga 不供（Q-32）；自建设备（量随业务）；90 W bt 口型在 Saga 工业 4 口列表中待核"
  ],
  "saga_fit": {
-  "p1": "STC-2216GPM",
+  "p1": "STI-154GP",
   "tier": 25,
-  "why": "2 光 16 电管理 PoE → HRUI 列表 STC-2216GPM（$137.5，对标 PLANET GS-4210-16P2S）；passive 版待核。"
+  "why": "移动监控塔/拖车配套 → 工业 4 PoE + 1 SFP STI-154GP（$39.2 @25%）/ 4 PoE + 1 GE STI-054GP（$32.5，90 W bt 口型待核）；PoE 注入器 Saga 不供（Q-32）"
  },
- "email_hook": "You mentioned running PLANET gear and needing a 16-PoE + 2-SFP managed unit with passive (24 V) PoE — is that for radios/CPEs? If so I'll confirm the passive-PoE variant and price it against the GS-4210-16P2S.",
+ "email_hook": "Jonathan, for the PoE feeding cameras on your construction-site units, we supply compact industrial 4-PoE + 1 uplink switches (−40~75 °C, 12–57 V input, FCC/CE/RoHS) from single units, EXW USD — do your units need 90 W (802.3bt) ports for PTZ cameras, or 30 W is enough?",
  "mail_review": {
   "binding": {
-   "level": "未触达（S 邮箱 1 封 2024，无记录打开，0 回；收件 gadsatoh@gmail.com；主题多为「8 port poe switch」；Elsa 箱：`to:gadsatoh@gmail.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 1 / 来 0）（第 74 批(n)））",
-   "type": "—",
-   "sieve": "1（只收到群发）",
-   "stop": "1 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱；Q-33 供应商渠道客户",
-   "revive": "不动（Q-33）",
-   "lane": "肯尼亚 非主攻",
-   "cadence": "不动",
-   "evidence": "gmail_digest：out 1；用户表：「兴趣：2光16管理 非标POE 目前在用Planet的设备；回复：price」；研究档 risks：非标 passive PoE 需求：Saga 标准线为 802.3af/at，需核 SmartByte/HRUI 是否有 24V passive 款"
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「90W PoE Injector外购品 / from: Shopify」；Elsa 箱：`to:virtualprotective.com` 逐户查 0（2026-10-24 第 73 批(o)，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(g)））",
+   "type": "工地安防监控服务商（美国，自建设备）",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+   "lane": "US 主攻（四主）",
+   "cadence": "首封后看打开",
+   "evidence": "gmail_digest：out 0；用户表：「90W PoE Injector外购品 / from: Shopify」；研究档 risks：PoE 注入器需求 Saga 不供（Q-32）；自建设备（量随业务）；90 W bt 口型在 Saga 工业 4 口列表中待核"
   },
-  "situation": "肯尼亚电信工程商，**目前在用 PLANET 设备**，需求 2 光 16 电管理型非标 PoE（passive PoE）；2024-07 对 passive PoE 手册回复 price。无域名、无联系人姓名。",
-  "need": "2 光 16 电管理 PoE → HRUI 列表 STC-2216GPM（$137.5，对标 PLANET GS-4210-16P2S）；passive 版待核。",
-  "breakpoint": "非标 passive PoE 需求：Saga 标准线为 802.3af/at，需核 SmartByte/HRUI 是否有 24V passive 款",
+  "situation": "美国 Virtual Protective（德州建筑工地安防摄像机与监控服务（SPP-2S 系列移动监控设备）；Shopify 订单「90W PoE Injector（外购品）」；KP Jonathan Byrd（Technical Manager））；表内未跟进。",
+  "need": "移动监控塔/拖车配套 → 工业 4 PoE + 1 SFP STI-154GP（$39.2 @25%）/ 4 PoE + 1 GE STI-054GP（$32.5，90 W bt 口型待核）；PoE 注入器 Saga 不供（Q-32）",
+  "breakpoint": "PoE 注入器需求 Saga 不供（Q-32）；自建设备（量随业务）；90 W bt 口型在 Saga 工业 4 口列表中待核",
   "saga_now": {
-   "p1": "STC-2216GPM",
+   "p1": "STI-154GP",
    "tier": 25,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "2 光 16 电管理 PoE → HRUI 列表 STC-2216GPM（$137.5，对标 PLANET GS-4210-16P2S）；passive 版待核。",
+   "price": "首触锚价 STI-154GP $39.2 EXW（主表档位（2024 实报 $36–38 低于档位，可用档位；PDF 上限 $51.7）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
+   "why": "移动监控塔/拖车配套 → 工业 4 PoE + 1 SFP STI-154GP（$39.2 @25%）/ 4 PoE + 1 GE STI-054GP（$32.5，90 W bt 口型待核）；PoE 注入器 Saga 不供（Q-32）",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—",
-   "one_question": ""
+   "when": "待 Simon 排期（首封）",
+   "channel": "A 邮箱 → jon@virtualprotective.com（Jonathan Byrd）",
+   "action": "首封：按 email_hook 一问（第 75 批(b) 2026-10-25：英文信稿已写 `draft_en`）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
+   "one_question": "Jonathan, for the PoE feeding cameras on your construction-site units, we supply compact industrial 4-PoE + 1 uplink switches (−40~75 °C, 12–57 V input, FCC/CE/RoHS) from single units, EXW USD — do your units need 90 W (802.3bt) ports for PTZ cameras, or 30 W is enough? Reference: STI-154GP at $39.2 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
-   {
-    "date": "2024-06-22",
-    "dir": "去",
-    "who": "S 群发",
-    "quote": "8 port poe switch",
-    "why": "1 封 / 0 次打开 / 0 回｜首封 2024-06-22 → 末封 2024-06-22（1 去 / 0 来）",
-    "k": "gmail_digest"
-   },
    {
     "date": "2026-10-21",
     "dir": "用户表",
     "who": "Simon",
-    "quote": "兴趣：2光16管理 非标POE 目前在用Planet的设备；回复：price",
+    "quote": "90W PoE Injector外购品 / from: Shopify",
     "why": "表内备注",
     "k": "用户表"
    }
   ],
   "proof_gaps": [
-   "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+   "无邮件往来"
   ],
-  "draft_en": null,
+  "draft_en": {
+   "subject": "PoE for the cameras on your site units - 4-PoE industrial switch, 30 W or 90 W",
+   "body": "Hi Jonathan,\n\nThank you for the 90 W PoE injector order through our shop. A short follow-up on the PoE side of your construction-site units.\n\nFor the cameras on an SPP-2S-type unit, a compact industrial switch does the job of several injectors: DIN-rail, 4 x Gigabit PoE+ (30 W per port) + 1 x Gigabit RJ45 + 1 x SFP uplink, -40 to 75 C, 44-57 V DC input, FCC/CE/RoHS - model STI-154GP - $39.2 USD EXW (MOQ 1, 15-day validity). The 5-port version with a copper uplink only, STI-054GP, is $32.5.\n\nOne question: do your units need 90 W (802.3bt) ports for PTZ cameras, or is 30 W per port enough?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+  },
   "as_of": "2026-10-24"
  }
 }

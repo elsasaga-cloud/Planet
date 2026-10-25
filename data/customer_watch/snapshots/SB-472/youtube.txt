@@ -1,0 +1,16 @@
+# SB-472 bma-networks.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCc_yz3BULtJI3xSqLknGGUw · fetched 2026-10-25T07:41:18Z · HTTP 200
+2026-10-22T07:00:30+00:00	INNO IT 2026	https://www.youtube.com/watch?v=DQclgt4LUSk
+2026-09-24T09:05:52+00:00	RUCKUS Networking für Industrie & Logistik | insightD TechTalk	https://www.youtube.com/watch?v=9R1095CwfYI
+2026-09-24T09:01:22+00:00	KI-Governance mit M365 Copilot | InsightD Webinar	https://www.youtube.com/watch?v=IHB9YThq_h4
+2026-03-19T15:13:00+00:00	KI gestützt Dokumente verarbeiten - IDP mit DocuWare | InsightD Webinar	https://www.youtube.com/watch?v=Gke06qOnkbA
+2026-03-19T14:58:19+00:00	KI im Unternehmen: Chancen, Risiken und rechtssicherer Einsatz | InsightD Webinar	https://www.youtube.com/watch?v=wWr9ai4MxPE
+2026-03-19T14:58:05+00:00	Ricoh SD-Serie: Nahtlose Digitalisierung in 3 Disziplinen | InsightD Webinar	https://www.youtube.com/watch?v=uOuDVdFjEe0
+2025-12-15T11:17:52+00:00	TI 2.0, infinity gate & die Rettungsmission Interview🚀 | InsightD	https://www.youtube.com/watch?v=XYqmx7vYD9g
+2025-11-19T14:51:58+00:00	Extreme Platform ONE Die All-in-One Lösung | InsightD Webinar	https://www.youtube.com/watch?v=pmA67nFOQgU
+2025-09-23T14:31:03+00:00	Rufanlagen in Pflegereinrichtungen: Mehr Sicherheit durch intelligente Systeme | InsightD Webinar	https://www.youtube.com/watch?v=tv9-FMh9KCY
+2025-09-23T14:28:40+00:00	DDoS-Angriffe, aktuelle Bedrohungslage und Schutzmaßnahmen | InsightD Webinar	https://www.youtube.com/watch?v=SQoqhTP4q68
+2025-05-15T06:25:15+00:00	INNO IT 2025 - 360° IT Live vor Ort	https://www.youtube.com/watch?v=2ant5dXD1W0
+2025-03-27T11:02:56+00:00	Fortinet Firewalls - Sicherheit auf höchstem Niveau | InsightD Webinar	https://www.youtube.com/watch?v=j0G0oSdtjFE
+2025-03-27T11:01:55+00:00	Cloud Printing, IT-Security und digitale Dokumentenprozesse im Fokus | InsightD Webinar	https://www.youtube.com/watch?v=CUtHC__Ckr8
+2025-03-27T11:00:42+00:00	Mitel CX: KI-gestützte Kundenkommunikation für moderne Contact Center | InsightD Webinar	https://www.youtube.com/watch?v=OR_-AVc7YJY
+2025-03-27T10:59:45+00:00	Platform ONE: Die nächste Generation des Netzwerkmanagements | InsightD Webinar	https://www.youtube.com/watch?v=Kxb2Wa8FiKo

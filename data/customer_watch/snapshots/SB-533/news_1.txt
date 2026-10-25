@@ -1,288 +1,330 @@
-# SB-533 elfcams.com · news_1 · https://www.elfcams.com/article · fetched 2026-10-25T07:41:18Z · HTTP 200
-Guides & Articles Fibre Optique — Installation, PON, WiFi | Elfcam
-ELFCAM
-Votre partenaire N°1 en solutions de communication et de connectivité De A à Z pour Data Centres, FTTx et réseaux télécoms
-Centre de ressources Elfcam
-Guides & Articles
-Fibre optique & Réseau
-Tout ce qu'un technicien ou un installateur doit savoir sur la fibre optique, les technologies PON, le WiFi et les réseaux d'accès. Rédigés par notre équipe d'experts.
-30+ articles
-Fibre optique
-Technologies PON
-WiFi & Réseau
-Installation
-Installation & Maintenance
-Installation
-Comment installer un câble à fibre optique
-Tirage, choix du câble, raccordement et tests : le guide complet pour une installation FTTH réussie de A à Z.
-Lire l'article →
-Installation
-Comment réparer un câble fibre optique coupé
-Soudure par fusion, épissure mécanique ou connecteur de terrain : les 3 méthodes expliquées avec les outils requis.
-Lire l'article →
-Maintenance
-Comment nettoyer un connecteur fibre optique
-Méthodes à sec et humide, stylos Tip-Pen, inspection IEC 61300-3-35 : le protocole complet pour techniciens.
-Lire l'article →
-Maintenance
-Comment diagnostiquer les problèmes de connexion fibre
-Méthodes de diagnostic et résolution des problèmes de connexion sur un câble à fibres optiques.
-Lire l'article →
-Installation
-Comment connecter deux câbles à fibres optiques
-Connecteurs, adaptateurs et épissures : les techniques pour relier deux tronçons de fibre de façon permanente ou temporaire.
-Lire l'article →
-Maintenance
-Comment entretenir un câble en fibre optique
-Bonnes pratiques pour prolonger la durée de vie de vos câbles : rayons de courbure, protection, stockage, inspection périodique.
-Lire l'article →
-Technique
-Comment calculer l'affaiblissement d'une liaison fibre
-Mesure et calcul du budget optique d'une liaison fibre : pertes par insertion, connecteurs, épissures et longueur.
-Lire l'article →
-Technologies PON & Architectures réseau
-Architecture
-FTTx, FTTH, FTTB, FTTC : architectures fibre et ONU vs ONT
-Guide complet des architectures FTTx et explication de la différence entre ONU et ONT selon les normes IEEE et ITU-T.
-Lire l'article →
-PON
-GPON vs EPON : comparaison complète en 5 critères
-Débit, QoS, OAM, coût et déploiement : tout ce qu'il faut savoir pour choisir entre GPON (ITU-T) et EPON (IEEE).
-Lire l'article →
-PON
-xPON, EPON, GPON : quelles différences ?
-Le xPON détecte automatiquement le type d'OLT. Comparaison des trois technologies PON et leurs cas d'usage concrets.
-Lire l'article →
-PON
-Qu'est-ce que le GPON ONU/ONT et l'OLT ?
-Rôles et fonctionnement de l'OLT, de l'ONU et de l'ONT dans un réseau GPON : architecture PON expliquée.
-Lire l'article →
-PON
-ONU EPON (GEPON) : fonctions et types
-WiFi ONU, PoE ONU, CATV ONU, HGU, MDU : les différents profils d'ONU EPON et leurs cas d'utilisation.
-Lire l'article →
-PON
-Qu'est-ce que le GPON et les réseaux GPON ?
-Introduction au GPON : principe du réseau optique passif Gigabit, débits, ratio de partage et déploiements FTTx.
-Lire l'article →
-WiFi & Réseau
-WiFi
-WiFi maillé : la bonne solution pour votre maison ?
-Backhaul filaire vs sans fil, switch PoE, mesh vs extender : comment choisir et configurer son réseau WiFi maison.
-Lire l'article →
-WiFi
-Mesh WiFi vs Extender WiFi : comparaison complète
-Roaming transparent, SSID unique, perte de débit : les vraies différences entre un système mesh et un répéteur WiFi classique.
-Lire l'article →
-WiFi
-Comment configurer un réseau WiFi maillé
-Routeur principal, satellites et backhaul : guide pas à pas pour configurer un système WiFi mesh chez vous.
-Lire l'article →
-WiFi
-WiFi 6 vs WiFi 5 : lequel est le plus performant ?
-OFDMA, BSS Coloring, MU-MIMO : ce qui change vraiment entre le WiFi 5 (802.11ac) et le WiFi 6 (802.11ax).
-Lire l'article →
-Câbles & Fibres optiques
-Fibre
-Comment fonctionnent les câbles à fibres optiques ?
-Propagation de la lumière, réflexion totale interne, cœur et gaine : les principes physiques de la fibre optique expliqués.
-Lire l'article →
-Fibre
-Fibre monomode vs multimode : quelles différences ?
-OS1/OS2 vs OM1/OM2/OM3/OM4 : distances, débits, couleurs de gaine et cas d'usage de chaque type de fibre.
-Lire l'article →
-Fibre
-Types de câbles à fibres optiques : guide complet
-Simplex, duplex, LC, SC, FC, ST, MPO : les types de câbles fibre et leurs connecteurs pour chaque usage réseau.
-Lire l'article →
-Fibre
-Avantages et inconvénients de la fibre optique
-Bande passante, immunité aux interférences, coût et fragilité : analyse complète des atouts et limites de la transmission optique.
-Lire l'article →
-Fibre
-Quelle est la durée de vie d'un câble à fibre optique ?
-Facteurs qui influencent la durée de vie : qualité, conditions d'installation, environnement et méthodes d'entretien.
-Lire l'article →
-Technique
-Caractéristiques de performance des fibres optiques
-Modes de propagation, atténuation, bande passante modale et dispersion chromatique : les paramètres de performance clés.
-Lire l'article →
-Expertise Elfcam
-Un projet d'installation fibre ou réseau ?
-Notre équipe technique accompagne les installateurs, intégrateurs et entreprises dans leurs déploiements fibre optique depuis 2018.
-Voir nos solutions fibre
-Nos câbles fibre optique
-ELFCAM Tous les produits Câble Réseau Module Starlink Personalisation Baie serveur Livraison J+1 · France Magasins Commentaires vidéo Catalogue Espace Pro
-ELFCAM
-Tous les produits
-Câble
-Réseau
-Module
-Starlink
-Personalisation
-Baie serveur
-Livraison J+1 en France
-Magasins
-Commentaires vidéo
-Catalogue
-Espace Pro
-Catégories
-Câble Optique
-Câble Optique Extérieur
-Module Optique
-Adaptation Optique
-Réseau Optique
-Outil Optique
-Câble Ethernet
-Solutions de Série Starlink
-Systèmes Énergie Autonomes
-Câbles Optiques HDMI audio-visuels
-Armoires / Boîtiers / Racks
-Solutions
-Informations
-Solutions
-Solutions Optiques Universelles (Professionnelle)
-Réseau Tout-Optique de l'Hôtels
-Réseau Tout-Optique du Campus et Bureau
-Réseau Sans-Fil pour Centres Commerciaux
-La système de management pour OLT et ONU (EMS)
-Prestation: Service de Conception de Solutions
-Configurez la réseau optique chez vous (Particulier)
-Freebox Ultra: la technologie fibre optique de nouvelle génération
-Solution Orange Livebox6
-Solution Starlink: Des connexions satellitaires pensées pour chaque scénario
-Informations
-Renseignements
-Vidéos sur les produits
-Articles sur la fibre optique
-Questions-Réponses
-Étude de Cas
-Certifications & Conformité
-Fiche Technique
-Catalog
-A propos de nous
-Nous Contactez
-Demandez un devis
-A propos de nous
-Expédition et Livraison
-Retirez vos commandes au magasin
-Retour et remboursement
-Paiement par Mandat Administratif
-Recrutement
-FR / EUR
-France
-FR / Fr
-Sélectionnez le pays/la région, la langue et la devise dans lesquels vous souhaitez effectuer vos achats.
-Pays Site Web
-▾
-Langue
-▾
-Devise
-▾
-Soumettre
-Livrer en
-France
-Sélectionnez votre adresse de livraison pour estimer les frais et le délai d'expédition.
-Pays
-France
-▾
-Région (facultatif)
-—
-▾
-Ville (facultatif)
-—
-▾
-Code postal (facultatif)
-Soumettre
-S'identifier
-Compte
-S'identifier
-ou continuer avec
-Se connecter avec Google
-Suivre la commande
-Contactez-nous
-Commentaires vidéo
-0
-Panier
-Entreprise
-A Propos de Nous
-Service
-Politique de Retour
-Moyen de Paiement
-Assistance officielle
-Devis professionnel
-Espace Pro
-Expédition et livraison
-Recrutement
-Conditions Générales
-Confidentialité
-Câble sur mesure
-Information
-Étude de Cas
-Vidéos
-Commentaires vidéo
-Articles
-Questions
-Fiche Téchnique
-Prestation
-Certifications & Conformité
-Magasins
-Usine
-Driver / Firmware
-Catalogue
-Tous les Produits
-Support
-Vos factures
-Aide et contact
-+33 (0)6 44 60 45 09
-+33 (0)9 53 68 76 32
-+44 (0)7 45 81 56 618
-+49 (0)800 0007806
-Whatsapp: +33 (0)7 49 95 50 99
-Email: [email protected]
-Service: [email protected]
-www.elfcams.com
-★★★★★
-Google Reviews
-FR36844111856
-FR72942871351
-ES00284989993
-ITN0078120C
-DE340181882
-GB367772843
-0
-Mon Panier
-⚑
-🗑
-×
-Chargement...
-Nous acceptons
-Certification de Sécurité
-©2018 - 2026 ELFCAM FR Tous droits réservés. v10.11.19
-Préférences de cookies
-×
-Lorsque vous visitez un site web, celui-ci peut stocker ou récupérer des informations sur votre navigateur, principalement sous la forme de cookies. Ces informations peuvent porter sur vous, vos préférences ou votre appareil et sont principalement utilisées pour que le site fonctionne comme vous l'attendez. Parce que nous respectons votre droit à la vie privée, vous pouvez choisir de ne pas autoriser certains types de cookies.
-Accepter tous les cookies
-Gérer les préférences de consentement
-Cookies Strictement Nécessaires
-Toujours actif
-Ces cookies sont nécessaires au fonctionnement du site web et ne peuvent pas être désactivés. Ils ne sont généralement définis qu'en réponse à des actions que vous effectuez, telles que le réglage de vos préférences en matière de confidentialité, l'ouverture d'une session ou le remplissage de formulaires.
-Cookies de Performance
-Ces cookies nous permettent de compter les visites et les sources de trafic afin de mesurer et d'améliorer les performances de notre site. Toutes les informations collectées par ces cookies sont agrégées et donc anonymes.
-Cookies de Fonction
-Ces cookies permettent au site web d'offrir une fonctionnalité et une personnalisation améliorées. Si vous n'autorisez pas ces cookies, certains services risquent de ne pas fonctionner correctement.
-Cookies de Ciblage
-Ces cookies peuvent être utilisés pour établir un profil de vos intérêts et vous montrer des publicités pertinentes sur d'autres sites. Si vous n'autorisez pas ces cookies, vous recevrez des publicités moins ciblées.
-Confirmer mes choix
-×
-Nous contacter
-FR +33 (0)6 44 60 45 09
-GB +44 (0)7 45 81 56 618
-DE +49 (0)800 000780
-+33 7 49 95 50 99
-+33 6 68 54 91 77
-[email protected]
-🕐 Lun – Ven 9h00 – 17h00 (Heure Europe Ouest)
-×
-Voir le panier
-Passer la commande
+# SB-533 eks-engel.de · news_1 · https://www.eks-engel.de/blog/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+Entdecke eks Engel: Einblicke, Produkte, Veranstaltungen
+Open Menu
+Startseite
+Produkte
+Industrielle Netzwerktechnik
+Interface
+Analog/Digital
+Bypass
+Industrial Ethernet
+Passives
+Router und Ethernet Extender
+Zubehör
+Smart City
+Individuelle Lösungen
+Projektablauf
+Erfolgsfaktoren
+Software
+Leistungen
+Entwicklung
+Competence Center
+Teststellungen
+Einsatzbereiche
+Automatisierung
+Energie
+Solarenergie
+Windenergie
+Explosionsschutz
+Sicherheit
+Gebäude
+Informationstechnik
+Unternehmen
+Über uns
+Werte
+Vision & Mission
+Kundennutzen
+Aktuelles
+Messen / Veranstaltungen
+Presse
+Blog
+Historie
+Qualität
+Know-How
+Karriere
+Wer wir sind
+Ausbildung
+Was wir bieten
+Stellenangebote
+Kooperationen
+Weltweit
+Downloads
+Kontakt
+Post- und Lieferanschrift
+Ansprechpartner
+Blog
+Tel
+de
+en
+Startseite
+Produkte
+Industrielle Netzwerktechnik
+Interface
+Analog/Digital
+Bypass
+Industrial Ethernet
+Passives
+Router und Ethernet Extender
+Zubehör
+Smart City
+Individuelle Lösungen
+Projektablauf
+Erfolgsfaktoren
+Software
+Leistungen
+Entwicklung
+Competence Center
+Teststellungen
+Einsatzbereiche
+Automatisierung
+Energie
+Solarpark
+Windenergie
+Explosionsschutz
+Sicherheit
+Gebäude
+Informationstechnik
+Unternehmen
+Über uns
+Werte
+Vision & Mission
+Kundennutzen
+Aktuelles
+Messen / Veranstaltungen
+Presse
+Blog
+Historie
+Qualität
+Know-How
+Karriere
+Wer wir sind
+Ausbildung
+Was wir bieten
+Stellenangebote
+Kooperationen
+Weltweit
+Downloads
+Kontakt
+Post- und Lieferanschrift
+Ansprechpartner
+Blog
+Sie sind hier:
+eks Engel
+Blog
+DE
+EN
+Blog
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+nächste
+eks Engel sticht in See
+Kürzlich hieß es für die Kolleginnen und Kollegen von eks: Leinen los und volle Fahrt auf dem Biggesee!
+31 Juli 2026 / Julia Gieseler / Social
+Weiterlesen
+eks Engel meets Smarte Demonstrationsfabrik Siegen
+Für einen wertschöpfenden und offenen Austausch war am vergangenen Dienstag eine kleine Delegation von eks‘lern bei der Smarten Demonstrationsfabrik Siegen (SDFS) an ihrem Campus in Buschhütten zu Besuch. Im gemeinsamen Gespräch mit René Sauer, Geschäftsführer der SDFS, und Maximilian Schütz, Projektingenieur der SDFS, erörterten Ralph Engel, eks-Geschäftsführer, Philipp Schneider, Head of R & D,…
+18 Dez. 2025 / Julia Gieseler / Messe & Veranstaltungen
+Weiterlesen
+Zukunft vernetzt denken: Wie moderne Glasfasertechnik Solarparks effizient verbindet
+Die Energiewende schreitet voran – und mit ihr entstehen in Deutschland immer mehr großflächige Solarparks. Diese Solarkraftwerke leisten nicht nur einen wichtigen Beitrag zur Stromversorgung aus erneuerbaren Quellen, sondern bringen auch neue Anforderungen an Sicherheit und Infrastruktur mit sich. Denn wo viele Photovoltaikmodule über hunderte Hektar verteilt sind, wird die verlässliche…
+24 Apr. 2025 / Julia Gieseler / Solarenergie
+Weiterlesen
+Fledermausschutz und Effizienzsteigerung in Windparks
+Wie Fleximaus und eks Engel gemeinsam die Energiewende vorantreiben
+10 Apr. 2025 / Julia Gieseler / Windenergie
+Weiterlesen
+Rückblick auf das Social Media Azubi-Projekt
+Jede Menge Spaß und Kreativität
+10 Juli 2024 / Julia Gieseler / Blog
+Weiterlesen
+Probezeit geschafft - Unsere Azubis berichten über ihre ersten Monate bei eks
+Wir sind Julia und Chris. Wir haben im September unsere Ausbildungen als Industriekaufmann / -frau bei eks begonnen.
+Nach 4 Monaten haben wir nun unsere Probezeit bestanden und erzählen von unseren ersten Erfahrungen und Eindrücken.
+24 Jan. 2024 / Julia Gieseler / Blog
+Weiterlesen
+Ein Neustart mit frischem Wind: Das Social Media Team von eks Engel im Kick-off Workshop
+Das Jahr 2024 beginnt für das Social Media Team von eks Engel mit einem aufregenden Kick-off Workshop, der direkt in der ersten Januarwoche stattfand. In diesem Treffen versammelten sich die kreativen Köpfe des Unternehmens, um Ideen und Themen für den Content von Instagram und Facebook zu sammeln. Eine besondere Note erhielt das Treffen durch die Aufnahme von zwei neuen Mitgliedern - unseren…
+16 Jan. 2024 / Julia Gieseler / Blog
+Weiterlesen
+Optimaler Schutz für Windparks: Der optische Bypass x-light
+Der optische Bypass x-light von eks Engel ist das Schlüsselelement für Windparks in kritischen Momenten. Bei Ausfällen von Netzwerkkomponenten sichert er die ununterbrochene Datenkommunikation und gewährleistet so störungsfreie Betriebszeiten. Selbst während Wartungsarbeiten bleibt dank x-light der Datenfluss konstant. Der optische Bypass ist eine ideale Ergänzung für jeden Windparkbetreiber, der…
+19 Okt. 2023 / Julia Gieseler / Windenergie
+Weiterlesen
+Kollegenzusammenhalt bei eks
+Ich bin Wilhelm Neuhaus, Azubi im 2. Lehrjahr zum Elektroniker für Geräte und Systeme bei eks, und ich habe mich kürzlich einigen Fragen zum Thema "Kollegenzusammenhalt" unterzogen.
+16 Aug. 2023 / Willi Neuhaus / Blog
+Weiterlesen
+Meine Vorbereitung auf dem Weg zum Industriekaufmann
+Endlich! Geschafft!! 3 Jahre Ausbildung liegen hinter mir.
+Der Weg über die letzten Monate zum großen Ziel war allerdings steinig.
+05 Juli 2023 / Nils Hoberg / Blog
+Weiterlesen
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+nächste
+Nach Kategorie
+Messe & Veranstaltungen
+Social
+Produkte
+Im Überblick
+2026
+Juli 2026 (1 Eintrag)
+2025
+Dezember 2025 (1 Eintrag)
+April 2025 (2 Einträge)
+2024
+Juli 2024 (1 Eintrag)
+Januar 2024 (2 Einträge)
+2023
+Oktober 2023 (1 Eintrag)
+August 2023 (1 Eintrag)
+Juli 2023 (1 Eintrag)
+Juni 2023 (2 Einträge)
+Mai 2023 (2 Einträge)
+April 2023 (1 Eintrag)
+Januar 2023 (1 Eintrag)
+2022
+August 2022 (4 Einträge)
+Juni 2022 (3 Einträge)
+April 2022 (1 Eintrag)
+Januar 2022 (2 Einträge)
+2021
+Dezember 2021 (1 Eintrag)
+November 2021 (1 Eintrag)
+August 2021 (1 Eintrag)
+Juni 2021 (1 Eintrag)
+Februar 2021 (1 Eintrag)
+Januar 2021 (1 Eintrag)
+2020
+Dezember 2020 (1 Eintrag)
+November 2020 (1 Eintrag)
+September 2020 (1 Eintrag)
+Juli 2020 (1 Eintrag)
+Mai 2020 (1 Eintrag)
+April 2020 (1 Eintrag)
+März 2020 (1 Eintrag)
+Februar 2020 (1 Eintrag)
+2019
+Dezember 2019 (1 Eintrag)
+November 2019 (1 Eintrag)
+Oktober 2019 (1 Eintrag)
+Mai 2019 (1 Eintrag)
+März 2019 (1 Eintrag)
+Februar 2019 (1 Eintrag)
+2018
+Dezember 2018 (1 Eintrag)
+Oktober 2018 (1 Eintrag)
+August 2018 (1 Eintrag)
+Juli 2018 (1 Eintrag)
+Juni 2018 (1 Eintrag)
+März 2018 (1 Eintrag)
+2017
+Dezember 2017 (1 Eintrag)
+September 2017 (1 Eintrag)
+August 2017 (1 Eintrag)
+Juni 2017 (1 Eintrag)
+Mai 2017 (2 Einträge)
+April 2017 (3 Einträge)
+März 2017 (1 Eintrag)
+Februar 2017 (1 Eintrag)
+Januar 2017 (2 Einträge)
+2016
+Dezember 2016 (3 Einträge)
+November 2016 (2 Einträge)
+Oktober 2016 (2 Einträge)
+September 2016 (2 Einträge)
+August 2016 (3 Einträge)
+Juni 2016 (4 Einträge)
+Mai 2016 (1 Eintrag)
+April 2016 (1 Eintrag)
+März 2016 (1 Eintrag)
+Januar 2016 (2 Einträge)
+2015
+Dezember 2015 (2 Einträge)
+Oktober 2015 (2 Einträge)
+August 2015 (1 Eintrag)
+Juli 2015 (1 Eintrag)
+Juni 2015 (1 Eintrag)
+Mai 2015 (1 Eintrag)
+April 2015 (1 Eintrag)
+Februar 2015 (1 Eintrag)
+2014
+Dezember 2014 (1 Eintrag)
+November 2014 (3 Einträge)
+September 2014 (3 Einträge)
+August 2014 (2 Einträge)
+Juni 2014 (3 Einträge)
+Mai 2014 (2 Einträge)
+April 2014 (3 Einträge)
+März 2014 (2 Einträge)
+Februar 2014 (1 Eintrag)
+Januar 2014 (1 Eintrag)
+2013
+Dezember 2013 (2 Einträge)
+November 2013 (1 Eintrag)
+Oktober 2013 (2 Einträge)
+September 2013 (1 Eintrag)
+August 2013 (3 Einträge)
+Juni 2013 (1 Eintrag)
+Zurück
+Bleiben Sie informiert mit dem eks Newsletter
+Anrede * Frau
+Herr
+Vorname
+Nachname *
+Unternehmen
+E-Mail *
+Datenschutz *
+Ich habe die Datenschutzerklärung zur Kenntnis genommen.
+Anmelden
+Kontakt
+eks Engel FOS GmbH & Co. KG
+Schützenstraße 2
+57482 Wenden-Hillmicke
+Germany
+Tel. +49 2762 9313-600
+Fax +49 2762 9313-7906
+info(at)eks-engel.de
+Ihr Ansprechpartner
+Finden Sie Ihren persönlichen Ansprechpartner.
+Ansprechpartner
+Der eks-Blog
+stets informiert!
+Blog
+YouTube
+Facebook
+Instagram
+Xing
+LinkedIn
+© 2026 eks Engel FOS GmbH & Co. KG
+Schützenstraße 2
+57482 Wenden-Hillmicke
+Tel. +49 2762 9313-600
+info(at)eks-engel.de
+Glossar
+Impressum
+Datenschutz
+Sitemap
+Nach oben

@@ -1,0 +1,91 @@
+{
+ "code": "SC-004",
+ "name_official": "Murrelektronik, Inc.（Suwanee, Georgia；德国 Murrelektronik 集团美国子公司）",
+ "website_status": "在线",
+ "summary": "德国自动化连接技术集团 Murrelektronik（1975 年创立，全球 3,200+ 员工）的美国总部与制造基地，自有 PoE 交换机（Tree 系列，-40~75°C，UL/CB 62368-1、MIL-STD-810F）、I/O 系统、电源、连接器。用户表：A 已回复 1 次，联系人 Connor Hudalla（Product Engineer）/ Jhonatas Bastos（Application Engineer）/ Dave Weinberg（Director of Channel Dev），兴趣「电口」。",
+ "type": "巨头/品牌制造商（自有交换机线）",
+ "size": "集团 3,200+ 员工（inddist）；美国站点 29 人",
+ "brands_seen": [
+  "Murrelektronik"
+ ],
+ "evidence": [
+  {
+   "kind": "第三方（inddist）",
+   "claim": "集团规模",
+   "quote": "Founded in Oppenweiler, Germany the family-owned company has a global reach with more than 3200 employees in over 50 countries, with its U.S. headquarters and manufacturing facility located in Suwanee, Georgia.",
+   "url": "https://www.inddist.com/home/packaging/company/13758463/murrelektronik-inc",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网 PDF",
+   "claim": "自有 PoE 交换机线",
+   "quote": "With their modern design, Murrelektronik Tree PoE switches are ideal for industrial applications that require compact solutions … compliance with essential sections of UL/CB(IEC) 62368-1, and MIL-STD-810F",
+   "url": "https://murrinc.com/index.php?eID=wes_download&hash=dbe46155bfff563d4981010d5072ea94cddd9e2a&path=fileadmin%2Fuser_upload%2FUnited_States_en_US%2FDownloads%2FBrochures%2FPOE_Switches_7.2020.pdf",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Dave Weinberg",
+   "role": "Director of Channel Development（用户表）",
+   "email": "dweinberg@murrinc.com",
+   "phone": "+1 312-391-4770",
+   "source": "Clients/A Replied 09.04.xlsx"
+  }
+ ],
+ "grade_override": "C",
+ "override_reason": "INH 巨头/品牌厂商规则：集团 3,200+ 人、自有 PoE 交换机线且要求 UL/MIL 认证，Saga（无 UL、SOHO 体量）不匹配；工程师回复属技术询问而非采购意向。若对方再来询，按 B 处理。",
+ "notes": "c_sub=体量过大/品牌厂商。",
+ "researched_at": "2026-10-21",
+ "mail_review": {
+  "binding": {
+   "level": "未绑定（渠道总监反向推销：「I raise you an entire offering of network technology. Can I interest you quoting anything? What's the saga of Saga?」）；Elsa 单发去信 1 封（2025-02-19「Industrial PoE Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）",
+   "type": "德国 Murrelektronik 美国子公司（自有交换机线）——c_sub 体量过大",
+   "sieve": "1",
+   "stop": "对方是卖方；Alan 回附件后无",
+   "revive": "无",
+   "lane": "US",
+   "cadence": "2025-04 → 2026-09 去信 15 封；最后来信 2025-06-02",
+   "evidence": "k=268d43fb3ab8fa30"
+  },
+  "situation": "Dave Weinberg（Director of Channel Development）用玩笑回了群发并反过来推销自家全线。Alan 回了个附件。",
+  "need": "—",
+  "breakpoint": "巨头 + 反向推销；移出群发。",
+  "saga_now": {
+   "p1": "无",
+   "tier": 30,
+   "price": "—；群发里他已看到的价（续）：2026-08-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-07-09 $300（48 Port PoE Managed Switch）、2025-09-26 $280（10G Enterprise SFP Switch）",
+   "why": "移出群发",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动；移出群发",
+   "channel": "—",
+   "action": "首封前知悉：Elsa 2025-02-19 单发过「Industrial PoE Switch」（未见回复（Elsa 箱 Replied 标签无））；—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2025-06-02",
+    "dir": "来",
+    "who": "Dave Weinberg（Director of Channel Development）",
+    "quote": "I see your 16 port Gigabit switch and I raise you an entire offering of network technology. Can I interest you quoting anything? What's the saga of Saga?",
+    "why": "反向推销",
+    "k": "268d43fb3ab8fa30"
+   },
+   {
+    "date": "2025-02-19",
+    "dir": "out",
+    "who": "Elsa → dweinberg@murrinc.com",
+    "quote": "Industrial PoE Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+    "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
+    "k": "elsa_1to1",
+    "msg_id": "1951a0092f448f14"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
+}

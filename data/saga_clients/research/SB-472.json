@@ -1,183 +1,136 @@
 {
-  "code": "SB-472",
-  "name_official": "N-ITUS Co., Ltd.（n-itus.com，韩国）",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（快照 HTTP 错误）",
-  "summary": "韩国网络设备公司 N-ITUS（Director Peter 邮箱退信，另一联系人 yhahn@），兴趣商用以太网交换机，表内「质量一般」，2025-11 对升压 PoE 群发回复「Price and ODM」→ 有 ODM 意向（升压款 Saga 价目无，Q-32）。",
-  "type": "",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "n-itus.com HTTP 错误",
-      "quote": "status http_error",
-      "url": "http://n-itus.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "兴趣 Ethernet Switch / 商业 switch；Peter 发不过去；2025-11 升压→Price and ODM",
-      "quote": "兴趣：Ethernet Switch;商业switch；回复：Price and ODM",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Y. H. Ahn",
-      "title": "（表内联系人）",
-      "email": "yhahn@n-itus.com",
-      "phone": "",
-      "source": "（本地 Clients/ 表格，无公开 URL）"
-    },
-    {
-      "name": "Peter",
-      "title": "Director（邮箱退信）",
-      "email": "peter01@n-itus.com",
-      "phone": "",
-      "source": "（本地 Clients/ 表格，无公开 URL）"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（快照 HTTP 错误 + 表内）"
+ "code": "SB-472",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（bma-networks.com，快照 2026-10-21）",
+ "summary": "德国 BMA Networks / dierckgroup（企业 IT 系统集成：云、网络安全、托管服务、楼宇技术；案例 Extreme Fabric 网络设计、DEUTZ AG 工业以太网、FTTH 建设、医院 IT、模块化数据中心；表内「Networking」；KP Mats Hansen（Technical Lead，mats.hansen@））；表内 3 次跟进无回复。",
+ "type": "企业 IT 系统集成商（德国，Extreme 生态）",
+ "size": "",
+ "brands_seen": [
+  "Zyxel",
+  "Fortinet",
+  "Extreme"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：dierckgroup – IT, Service & Technik für Unternehmen；品类词 工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 数据中心 / 企业 IT / 网络交换 / PoE",
+   "quote": "Die dierckgroup bietet IT, Cloud, Cyber Security, Managed Services und Gebäudetechnik für Unternehmen – persönlich geplant und zuverlässig betreut.",
+   "url": "https://www.dierck-group.com/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "legal_name": "N-ITUS Co., Ltd.（待核）",
-    "founded": "",
-    "hq": "韩国",
-    "size": "小型",
-    "other": "Director 邮箱退信"
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "Networking",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "商用以太网交换机 / 网络设备"
-  ],
-  "channels": {
-    "role": "品牌 / 经销（ODM 意向）",
-    "region": "韩国"
+  {
+   "kind": "官网快照",
+   "claim": "dierckgroup 定位",
+   "quote": "Die dierckgroup bietet IT, Cloud, Cyber Security, Managed Services und Gebäudetechnik für Unternehmen ; DEUTZ AG – Industrial Ethernet ; Netzwerkdesign mit Extreme Fabric",
+   "url": "https://www.dierck-group.com/",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "明确 ODM 意向 + 问价（2025-11）"
-  ],
-  "risks": [
-    "升压 PoE 款不在 Saga 价目（Q-32，按 SmartByte 另询）",
-    "联系人退信；韩国 KC"
-  ],
-  "saga_fit": {
-    "p1": null,
-    "tier": 30,
-    "why": "其询价对象为升压 PoE 款（价目无，待 Q-32 / SmartByte 另询）；ODM 口径 30%；常规商用线 STC-28DGGPM 备选。"
-  },
-  "email_hook": "Mr. Ahn, on the PoE boost (voltage-step-up) model you asked price and ODM for — to quote we need target input voltage range and PoE budget; meanwhile, the standard 8-PoE + 2-SFP L2+ is available ODM from small lots.",
-  "mail_review": {
-    "binding": {
-      "level": "轻度触达（2025-11-13 Peter（Director overseas biz）：「price range for poe and non poe switches and ODM proposal… We are the major supplier to ISPs in Korea」→ Alan 给下载链接并反问品类；无后续）；Elsa 群发 BCC 已触达 6 轮 2025-04-02→2025-10-08（锚 To wisali0708@gmail.com 1 轮 2025-04-02；锚 To sales@ags-electronics.com 5 轮 2025-04-27→2025-10-08；本户在 Bcc；主题 Managed Optical Bypass Switch、Mini Industrial PoE Switch、8 Port Industrial PoE Switch、10G Enterprise SFP Switch…；0 回（Elsa 箱 Replied 索引 + 第 73 批真人来信逐户比对均无此户））（第 74 批(n) `from:e.sagatelecom to:n-itus.com` 全程 complete：命中 6 行、To 均为锚地址 ⇒ 本户在锚的 Bcc 名单）",
-      "type": "韩国 ISP 供应商（N-ITUS；Director 直联）——第二档，ISP 渠道 + ODM 意向",
-      "sieve": "2（要价格区间 + ODM 方案）",
-      "stop": "Alan 用「先看链接再说品类」回了一个明确的「给我价格区间和 ODM 方案」——对方没有再来；Simon 2026-08-02 点名韩国客户",
-      "revive": "直接给：PoE/非 PoE 两张价格区间表 + ODM 一页（logo/型号/GUI/包装/MOQ）",
-      "lane": "KR 次级（Simon 点名）",
-      "cadence": "一封",
-      "evidence": "k=57253159a4b7a064 / d5a07aad76ff2c53"
-    },
-    "situation": "对方开口要的是两样具体东西，Saga 给的是链接。",
-    "need": "ISP 用接入 PoE/非 PoE + ODM。",
-    "breakpoint": "回法。",
-    "saga_now": {
-      "p1": "STC-28GPM / STC-424XGGPM + ODM 一页",
-      "tier": 30,
-      "price": "按主表 OEM 30% 档；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-06 $300（48 Port PoE Managed Switch）；**第 63 批基准统一（规则 ㉕）**：三款由列表价改为 30% 档（$87.4 / $89.4）与群发现价（$180）；列表价 $99 / $198 / $110 只做上限；群发里他已看到的价（续，第 66 批全量复核）：2024-08-29 $65（10G Media Converter）、2025-10-13 $280（10G Enterprise SFP Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-10-08 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2025-10-08；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）",
-      "why": "韩国 ISP 渠道 + Director。已打开的主题（6/13 封有打开记录）：「Booster PoE Switch」(2025-11-13)、「Re: Booster PoE Switch」(2025-11-13)、「Re: Booster PoE Switch」(2025-11-25)、「Re: Booster PoE Switch」(2025-12-11) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续｜已发资料（勿重发）：Download Link_Alan(2025-11-13)、Product Link_2026Q2(2026-03-30)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）",
-      "repeat": [],
-      "gaps": "8 口 PoE 商用 = STC-28DGGPM Saga 列表价 $99（主表；Saga 标 240W、SmartByte 标 120W 电源——报价前核对电源规格）"
-    },
-    "next_move": {
-      "when": "现在",
-      "channel": "A 邮箱 → peter01@n-itus.com",
-      "action": "首封前知悉：Elsa 群发 BCC 已触达 6 轮（2025-04-02→2025-10-08，锚 To wisali0708@gmail.com / sales@ags-electronics.com，0 回）（第 74 批(n)）；给区间表 + ODM 一页；附件：价格区间表（PoE / 非 PoE 接入机三档）+ ODM 一页（贴牌规则：软件 logo 免费、PVC 面膜 MOQ 300、彩盒 $2.5/套 200 起）——两页都要先写好再发",
-      "one_question": "Peter — attached: price bands for PoE / non-PoE access switches and our one-page ODM scope (logo, model name, GUI, packaging, MOQ 50); which ISP account would be the first fit?"
-    },
-    "facts": [
-      {
-        "date": "2025-04-02",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To wisali0708@gmail.com）",
-        "quote": "16 Port Ethernet Switch（Elsa 群发第 1/6 轮；本户在 Bcc，锚 To wisali0708@gmail.com）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:n-itus.com` 命中行 To=wisali0708@gmail.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
-        "k": "elsa_bcc",
-        "msg_id": "195f5313fcf88c73"
-      },
-      {
-        "date": "2025-04-27",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To sales@ags-electronics.com）",
-        "quote": "Managed Optical Bypass Switch（Elsa 群发第 2/6 轮；本户在 Bcc，锚 To sales@ags-electronics.com）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:n-itus.com` 命中行 To=sales@ags-electronics.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
-        "k": "elsa_bcc",
-        "msg_id": "19674fd9c178cfb5"
-      },
-      {
-        "date": "2025-05-24",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To sales@ags-electronics.com）",
-        "quote": "16 Port Ethernet Switch（Elsa 群发第 3/6 轮；本户在 Bcc，锚 To sales@ags-electronics.com）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:n-itus.com` 命中行 To=sales@ags-electronics.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
-        "k": "elsa_bcc",
-        "msg_id": "1970004bd43b5db5"
-      },
-      {
-        "date": "2025-06-24",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To sales@ags-electronics.com）",
-        "quote": "Mini Industrial PoE Switch（Elsa 群发第 4/6 轮；本户在 Bcc，锚 To sales@ags-electronics.com）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:n-itus.com` 命中行 To=sales@ags-electronics.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
-        "k": "elsa_bcc",
-        "msg_id": "1979fa9e00eeff83"
-      },
-      {
-        "date": "2025-07-23",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To sales@ags-electronics.com）",
-        "quote": "8 Port Industrial PoE Switch（Elsa 群发第 5/6 轮；本户在 Bcc，锚 To sales@ags-electronics.com）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:n-itus.com` 命中行 To=sales@ags-electronics.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
-        "k": "elsa_bcc",
-        "msg_id": "19834c989b55b565"
-      },
-      {
-        "date": "2025-10-08",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To sales@ags-electronics.com）",
-        "quote": "10G Enterprise SFP Switch（Elsa 群发第 6/6 轮；本户在 Bcc，锚 To sales@ags-electronics.com；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:n-itus.com` 命中行 To=sales@ags-electronics.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
-        "k": "elsa_bcc",
-        "msg_id": "199c1550bee6a83d"
-      },
-      {
-        "date": "2025-11-13",
-        "dir": "来",
-        "who": "Peter",
-        "quote": "Let me have the price range for poe switch and non poe switches and ODM proposal to us please. We are the major supplier to ISPs in Korea.",
-        "why": "ODM 意向",
-        "k": "57253159a4b7a064"
-      },
-      {
-        "date": "2025-12-11",
-        "dir": "去",
-        "who": "Saga（Alan）",
-        "quote": "Hi, Peter, How are you? We are focusing on Marvell AC3 and AC5 solutions. *Compared with traditional Taiwanese suppliers* 1. Competitive pricing with the same Marvell architecture 2. Flexible OEM terms: even 1 unit is available 3. Fast delivery & small batch production 4. Custom design options (port…",
-        "why": "Saga 实质答复原文（主题「Re: Booster PoE Switch」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
-        "k": "1704546832652ac3"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": {
-      "subject": "PoE / non-PoE price bands + ODM proposal",
-      "body": "Hi, Peter,\n\nThank you for your note in November — price ranges for PoE / non-PoE access switches and an ODM proposal for the Korean ISP market. Attached: price bands and a one-page ODM scope.\n\n- 8-port GbE PoE + 2x SFP, L2+ (STC-28DGGPM) — $87.4 USD EXW (2026-10 snapshot)\n- 24-port GbE PoE 280W + 4x 10G SFP+, L2+ — $180 USD EXW\n- 24-port GbE non-PoE + 4x 2.5G SFP, L2+ — $89.4 USD EXW\n- ODM: your logo, model name, web GUI, packaging; MOQ 50 pcs per model; firmware OEM string changes included.\n(All EXW Shenzhen, valid 15 days from this mail.)\n\nOne question: which ISP account would be the first fit, and is it PoE (cameras/APs) or non-PoE (FTTx CPE side)?\n\nThank you.\nAlan\nSaga Telecom - sagatele.com"
-    },
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "Networking",
+   "quote": "Networking",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Mats Hansen",
+   "title": "Technical Lead",
+   "email": "mats.hansen@bma-networks.com",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "德国",
+  "other": "官网 bma-networks.com，语言 de，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "企业 IT / 网络 / OT 安全系统集成"
+ ],
+ "channels": {
+  "role": "企业 IT 系统集成商（德国，Extreme 生态）",
+  "region": "德国",
+  "contact": "info@bma-networks.com、mats.hansen@bma-networks.com"
+ },
+ "signals": [
+  "首页案例：Netzwerkdesign mit Extreme Fabric ; DEUTZ AG – Industrial Ethernet ; Buchholz Digital GmbH – FTTH-Ausbau ; Nordmark Pharma – Modulares Rechenzentrum",
+  "页面 /case-studies/deutz-ag-industrial-ethernet/、/it-solutions/cyber-security/industrial-security-ot/；kw datacenter 45 / industrial 29"
+ ],
+ "risks": [
+  "Extreme Fabric / Fortinet 生态：白牌仅 OT 接入补位",
+  "集成商项目型采购；3 次跟进无回复 → 改向 Technical Lead 具名首触"
+ ],
+ "saga_fit": {
+  "p1": "STI-288GPM",
+  "tier": 25,
+  "why": "工业以太网案例（DEUTZ）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）作车间接入补位；园区位 STC-424XGGPM-280W；Extreme Fabric 核心不可替"
+ },
+ "email_hook": "Mats, for industrial-Ethernet projects like the DEUTZ AG case, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed switches (−40~75 °C, SNMP/CLI, CE/RoHS, neutral packing) from small lots as shop-floor access behind an Extreme core — is there a port count your OT projects keep needing?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 12 封 2025→2026，无记录打开，0 回；收件 info@bma-networks.com, mats.hansen@bma-networks.com；主题多为「48 Port PoE Managed Switch、10G Enterprise SFP Switch」；Elsa 箱：`to:bma-networks.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 12 / 来 0）（第 74 批(j)））",
+   "type": "企业 IT 系统集成商（德国，Extreme 生态）",
+   "sieve": "1（只收到群发）",
+   "stop": "12 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "DE 主攻（四主）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 12；用户表：「Networking」；研究档 risks：Extreme Fabric / Fortinet 生态：白牌仅 OT 接入补位"
+  },
+  "situation": "德国 BMA Networks / dierckgroup（企业 IT 系统集成：云、网络安全、托管服务、楼宇技术；案例 Extreme Fabric 网络设计、DEUTZ AG 工业以太网、FTTH 建设、医院 IT、模块化数据中心；表内「Networking」；KP Mats Hansen（Technical Lead，mats.hansen@））；表内 3 次跟进无回复。",
+  "need": "工业以太网案例（DEUTZ）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）作车间接入补位；园区位 STC-424XGGPM-280W；Extreme Fabric 核心不可替",
+  "breakpoint": "Extreme Fabric / Fortinet 生态：白牌仅 OT 接入补位",
+  "saga_now": {
+   "p1": "STI-288GPM",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-07 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-17 $300（48 Port PoE Managed Switch）、2025-10-14 $280（10G Enterprise SFP Switch）",
+   "why": "工业以太网案例（DEUTZ）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）作车间接入补位；园区位 STC-424XGGPM-280W；Extreme Fabric 核心不可替",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Mats, for industrial-Ethernet projects like the DEUTZ AG case, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed switches (−40~75 °C, SNMP/CLI, CE/RoHS, neutral packing) from small lots as shop-floor access behind an Extreme core — is there a port count your OT projects keep needing?"
+  },
+  "facts": [
+   {
+    "date": "2026-09-22",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "48 Port PoE Managed Switch、10G Enterprise SFP Switch",
+    "why": "12 封 / 0 次打开 / 0 回｜首封 2025-09-17 → 末封 2026-09-22（12 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "Networking",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

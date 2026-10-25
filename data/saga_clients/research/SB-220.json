@@ -1,123 +1,127 @@
 {
  "code": "SB-220",
- "name_official": "Electronik House（意大利）",
+ "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "在线（electronikhouse.it，快照 2026-10-21，意语）",
- "summary": "意大利电子元件供应商 / 网店（Hikvision、Dahua；switch 78 / poe 49 / camera 22），info@；表内「Digitus 还有几个外壳的工业 FS；Linkcreative 的 MC；可多跟进」；群发 6 次无回复。",
- "type": "",
+ "website_status": "在线（sun-flowers.co.kr，快照 2026-10-21）",
+ "summary": "韩国 Sun-flowers（官网快照为防机器人验证页；表内「CCTV 商业 PoE 自己的 logo」「质量高」）；群发 23 次无回复。",
+ "type": "CCTV 品牌商（韩国，自有标 PoE；官网待核）",
  "size": "",
- "brands_seen": [
-  "Digitus",
-  "Hikvision",
-  "Dahua",
-  "Linkcreative"
- ],
+ "brands_seen": [],
  "evidence": [
   {
    "kind": "官网快照",
-   "claim": "电子元件供应商，持续客户支持",
-   "quote": "Fornitore di Componenti Elettronici Garantiamo un costante supporto ed attenzione verso i nostri clienti… brands Hikvision, Dahua",
-   "url": "https://electronikhouse.it/",
+   "claim": "官网标题：sun-flowers.co.kr",
+   "quote": "ìëë±ë¡ë°©ì§ë¥¼ ìí´ ë³´ìì ì°¨ë¥¼ ê±°ì¹ê³ ììµëë¤.",
+   "url": "http://sun-flowers.co.kr/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "Digitus 还有几个外壳的工业 FS；Linkcreative 的 MC；可以尝试多跟进一下",
-   "quote": "兴趣：Digitus 还有几个外壳的工业FS Linkcreative的MC",
+   "claim": "表内兴趣/备注",
+   "quote": "CCTV 商业POE 自己的logo",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "CCTV 商业 PoE 自己的 logo",
+   "quote": "CCTV 商业POE 自己的logo；质量高",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
- "kp": [
-  {
-   "name": "（未具名）",
-   "title": "",
-   "email": "info@electronikhouse.it",
-   "phone": "",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
-  }
- ],
+ "kp": [],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照核对 + 表内）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "legal_name": "Electronik House（待核）",
-  "founded": "",
-  "hq": "Italy",
-  "size": "小型元件网店",
-  "other": "已售 Digitus 工业 FS / 中国 MC"
+  "hq": "韩国",
+  "other": "官网 sun-flowers.co.kr，语言 ko，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "电子元件 / 网络网店"
+  "CCTV 与配套 PoE（自有品牌）"
  ],
  "channels": {
-  "role": "网店 / 经销",
-  "region": "意大利"
+  "role": "CCTV 品牌商（韩国，自有标 PoE；官网待核）",
+  "region": "韩国",
+  "contact": "sun@sun-flowers.co.kr"
  },
  "signals": [
-  "已售 Digitus 工业 FS 与中国 MC → 同类上架"
+  "表内：CCTV 商业 PoE 自己的 logo；质量高",
+  "快照：자동등록방지를 위해 보안절차를 거치고 있습니다（防机器人页）"
  ],
  "risks": [
-  "无具名；6 次群发无回复"
+  "官网快照为验证页（内容未抓到，站点待核）；非主攻区（T5，韩国）；23 次无回复，仅 sun@"
  ],
  "saga_fit": {
-  "p1": "STI-288GP",
-  "tier": 20,
-  "why": "对位 Digitus 工业 2 光 8 PoE → STI-288GP（$57.4 @20%）；MC STI-110GE。"
+  "p1": "STC-28DGGPM",
+  "tier": 30,
+  "why": "自有 logo 商用 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；24 口 STC-424DGGPM-280W（$145.7）"
  },
- "email_hook": "Buongiorno — beside the Digitus industrial switches and the MCs you list: DIN 2-SFP + 8-PoE at $57 and gigabit MC at $22 EXW with photos / CE files for listing; shall I send the sheet?",
+ "email_hook": "For the PoE switches you bundle under your own label with CCTV systems, we can supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ models in your packaging from small lots, CE/RoHS; KC by your side — which port count do your installers order most?",
  "mail_review": {
   "binding": {
-   "level": "未触达（A/S 邮箱 17 封 2025→2026，无记录打开，0 回；收件 info@electronikhouse.it；主题多为「Industrial PoE Switch、Marvell Alleycat5 Solution」；Elsa 箱：`to:electronikhouse.it` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 17 / 来 0）（第 74 批(j)））",
-   "type": "—",
-   "sieve": "1（只收到群发）",
-   "stop": "只打通用邮箱，无记录打开",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "意大利（欧洲全域主攻）",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 17；用户表：「兴趣：Digitus 还有几个外壳的工业FS Linkcreative的MC」；研究档 risks：无具名；6 次群发无回复"
+   "level": "未触达（A/S 邮箱 35 封 2024→2026，1 次记录打开，0 回；收件 sun@sun-flowers.co.kr；主题多为「Industrial PoE Switch、Managed Optical Bypass Switch」；Elsa 箱：`to:sun-flowers.co.kr` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 35 / 来 0）（第 74 批(n)））",
+   "type": "CCTV 品牌商（韩国，自有标 PoE；官网待核）",
+   "sieve": "1~2（1 次打开）",
+   "stop": "35 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+   "lane": "KR 次级（点名）",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 35，Opened 标签 1（Simon 群发追踪）；用户表：「CCTV 商业POE 自己的logo」；研究档 risks：官网快照为验证页（内容未抓到，站点待核）；非主攻区（T5，韩国）；23 次无回复，仅 sun@"
   },
-  "situation": "意大利电子元件供应商 / 网店（Hikvision、Dahua；switch 78 / poe 49 / camera 22），info@；表内「Digitus 还有几个外壳的工业 FS；Linkcreative 的 MC；可多跟进」；群发 6 次无回复。",
-  "need": "对位 Digitus 工业 2 光 8 PoE → STI-288GP（$57.4 @20%）；MC STI-110GE。",
-  "breakpoint": "无具名；6 次群发无回复",
+  "situation": "韩国 Sun-flowers（官网快照为防机器人验证页；表内「CCTV 商业 PoE 自己的 logo」「质量高」）；群发 23 次无回复。",
+  "need": "自有 logo 商用 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；24 口 STC-424DGGPM-280W（$145.7）",
+  "breakpoint": "官网快照为验证页（内容未抓到，站点待核）；非主攻区（T5，韩国）；23 次无回复，仅 sun@",
   "saga_now": {
-   "p1": "STI-288GP",
-   "tier": 20,
-   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-13 $280（10G Enterprise SFP Switch）",
-   "why": "对位 Digitus 工业 2 光 8 PoE → STI-288GP（$57.4 @20%）；MC STI-110GE。",
+   "p1": "STC-28DGGPM",
+   "tier": 30,
+   "price": "换人再触锚价 STC-28DGGPM $87.4 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-12 $65（10G Media Converter）；群发里他已看到的价（续）：2026-07-24 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-06-19 $220（10G managed switch）、2025-08-27 $300（48 Port PoE Managed Switch）、2025-09-15 $240（24 Port Fiber Switch）、2026-06-09 $16000（32 Port 400GB DC Switch）",
+   "why": "自有 logo 商用 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；24 口 STC-424DGGPM-280W（$145.7）。已打开的主题（1/35 封有打开记录）：「10G managed switch」(2024-06-19) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开",
-   "one_question": "Buongiorno — beside the Digitus industrial switches and the MCs you list: DIN 2-SFP + 8-PoE at $57 and gigabit MC at $22 EXW with photos / CE files for listing; shall I send the sheet?"
+   "when": "2027-Q1（换人后）",
+   "channel": "A 邮箱 → 具名 KP",
+   "action": "换收件人再发一封（第 75 批(ae) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用；KC stays on your side））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
+   "one_question": "For the PoE switches you bundle under your own label with CCTV systems, we can supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ models in your packaging from small lots, CE/RoHS; KC by your side — which port count do your installers order most? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
    {
-    "date": "2026-10-08",
+    "date": "2026-09-14",
     "dir": "去",
     "who": "A/S 群发",
-    "quote": "Industrial PoE Switch、Marvell Alleycat5 Solution",
-    "why": "17 封 / 0 次打开 / 0 回｜首封 2025-01-31 → 末封 2026-10-08（17 去 / 0 来）",
+    "quote": "Industrial PoE Switch、Managed Optical Bypass Switch",
+    "why": "35 封 / 1 次打开 / 0 回｜首封 2024-06-19 → 末封 2026-09-14（35 去 / 0 来）",
     "k": "gmail_digest"
    },
    {
     "date": "2026-10-21",
     "dir": "用户表",
     "who": "Simon",
-    "quote": "兴趣：Digitus 还有几个外壳的工业FS Linkcreative的MC",
+    "quote": "CCTV 商业POE 自己的logo",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-09-14",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "16 Port Industrial PoE Switch",
+    "why": "本日去信真实主题（邮箱索引 3caa0d39c52bee09；信稿开头句引用此封；此前稿内写的「Industrial PoE Switch」是线程列表首题，不是本封）",
+    "k": "3caa0d39c52bee09"
    }
   ],
   "proof_gaps": [],
-  "draft_en": null,
+  "draft_en": {
+   "subject": "The PoE switches under your own label with CCTV systems - 8-port and 24-port",
+   "body": "Hello Sun-flowers team,\n\nOver the past months you had a steady stream of product mails from us - most recently \"16 Port Industrial PoE Switch\" on 14 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the PoE switches you bundle under your own label with CCTV systems, in your packaging from small lots, CE/RoHS: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based - model STC-28DGGPM - $87.4 USD EXW with your logo (MOQ 1, 15-day validity); 24 x Gigabit PoE+ (280 W) + 4 x SFP, L2+ managed - STC-424DGGPM-280W - $145.7. Logo on the unit is free; colour box from 200 sets. KC stays on your side.\n\nOne question: which port count do your installers order most - 8 or 24?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+  },
   "as_of": "2026-10-24"
  }
 }

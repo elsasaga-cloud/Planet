@@ -2,127 +2,144 @@
  "code": "SB-952",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "在线（qualicam.de，快照 2026-10-21）",
- "summary": "德国 Qualicam / ueberwachung.tv（Braunsbedra 视频监控网店：Hikvision（121）NVR 含 PoE 交换机套装、Ubiquiti 被动 PoE、PoE 注入器、刺激气体防盗装置、报警；表内「主要是安防」）；群发 8 次无回复。",
- "type": "CCTV 网店/安装（德国，Hikvision 为主）",
+ "website_status": "在线（mse.com.tw，快照 2026-10-21）",
+ "summary": "台湾 MSTronic Co., Ltd.（PoE 制造商：PoE 分离器 / 注入器 / 开关电源，「offering the most PoE solutions in the world」，OEM/ODM 词频 18/14；站内 EN50155 / EN60945 / UL497B；表内「主要是 PoE 商业 + 工业 + 配件，自己的 logo，工业白色外壳」；KP Arthur（arthur@））；群发 19 次无回复。",
+ "type": "台湾 PoE 配件制造商（交换机为补线，OEM 采购）",
  "size": "",
- "brands_seen": [
-  "Hikvision",
-  "Ajax",
-  "Ubiquiti"
- ],
+ "brands_seen": [],
  "evidence": [
   {
    "kind": "官网快照",
-   "claim": "官网标题：Videoüberwachung, Sicherheitstechnik und Alarmanlagen；品类词 安防监控（CCTV / 门禁） / 网络交换 / PoE",
-   "quote": "Online-Shop zur Videoüberwachung mit Überwachungskameras, Sicherheitstechnik, Reizgasanlagen, Alarmanlagen und Überwachungssystemen in Braunsbedra.",
-   "url": "https://www.qualicam.de/",
+   "claim": "官网标题：PoE manufacturer, Power over Ethernet - MSTronic Co. Ltd.；品类词 工业自动化 / OT 网络 / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "MSTronic Co. Ltd. has been specializing in producing Power over Ethernet (PoE) and Switching Power Supply for many years, offering the most PoE solutions in the world.",
+   "url": "https://www.mse.com.tw/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
    "claim": "表内兴趣/备注",
-   "quote": "主要是安防",
+   "quote": "主要是POE 商业 工业 配件 自己的logo 工业白色外壳",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   },
   {
    "kind": "官网快照",
-   "claim": "Qualicam 定位",
-   "quote": "Videoüberwachung, Sicherheitstechnik und Alarmanlagen ; Online-Shop zur Videoüberwachung mit Überwachungskameras, Sicherheitstechnik, Reizgasanlagen, Alarmanlagen und Überwachungssystemen in Braunsbedra.",
-   "url": "https://www.qualicam.de/",
+   "claim": "多年专注 PoE 与开关电源制造",
+   "quote": "MSTronic Co. Ltd. has been specializing in producing Power over Ethernet (PoE) and Switching Power Supply for many years, offering the most PoE solutions in the world.",
+   "url": "https://www.mse.com.tw/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "主要是安防",
-   "quote": "主要是安防",
+   "claim": "PoE 商业 + 工业 + 配件，自有 logo",
+   "quote": "主要是POE 商业 工业 配件 自己的logo 工业白色外壳",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Arthur",
+   "title": "（表内联系人）",
+   "email": "arthur@mse.com.tw",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "德国",
-  "other": "官网 qualicam.de，语言 de，快照状态 ok；角色判定来源：用户表"
+  "hq": "台湾",
+  "other": "官网 mse.com.tw，语言 en，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "视频监控 / 安防技术网店与项目"
+  "PoE 分离器 / 注入器 / 开关电源制造（OEM/ODM）",
+  "PoE 交换机（补线）"
  ],
  "channels": {
-  "role": "CCTV 网店/安装（德国，Hikvision 为主）",
-  "region": "德国",
-  "contact": "qcall@ueberwachung.tv"
+  "role": "台湾 PoE 配件制造商（交换机为补线，OEM 采购）",
+  "region": "台湾",
+  "contact": "arthur@mse.com.tw"
  },
  "signals": [
-  "页面 /videoueberwachung/hikvision-nvr-16-kanal-inkl-poe-switch-5-mp-aufnahme.html、/videoueberwachung/poe-injector-48v-steckernetzteil-400ma.html；kw hikvision 121 / poe 37 / nvr 20",
-  "官网：Online-Shop zur Videoüberwachung mit Überwachungskameras, Sicherheitstechnik, Reizgasanlagen, Alarmanlagen"
+  "官网：Ultra High Power PoE Splitter 80W、25W 12VDC 802.3at splitter",
+  "站内 kw：poe 556 / oem 18 / odm 14；认证词 EN50155 / EN60945 / UL497B"
  ],
  "risks": [
-  "Hikvision 套装自带 PoE NVR：外置 PoE 量小",
-  "8 次无回复，仅 qcall@，无具名 KP"
+  "主业为 PoE 电源/分离器（Saga 不做，Q-32 配件缺口）：交换机只是补线，量小",
+  "台湾厂商：OEM 口径，19 次无回复",
+  "非主攻区（T5）"
  ],
  "saga_fit": {
   "p1": "STC-28DGGPM",
-  "tier": 20,
-  "why": "Hikvision 配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）；注入器 Saga 不做"
+  "tier": 30,
+  "why": "主业 PoE 电源/分离器，交换机为补充线 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 MSTronic 标；工业位 STI-288GP；Saga 不做其主业（注入器/分离器，Q-32）"
  },
- "email_hook": "For the PoE switches you sell and install with Hikvision NVR kits, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port unmanaged PoE units from small lots, CE/RoHS, EXW USD — which size do your projects use most?",
+ "email_hook": "Arthur, to round out your PoE power range, we can supply Marvell-based 8-port PoE+ L2+ switches and DIN-rail 8-PoE industrial switches under your label from small lots — would a switch line next to your splitters and injectors make sense, and which port count first?",
  "mail_review": {
   "binding": {
-   "level": "未触达（A 邮箱 18 封 2025→2026，1 次记录打开，0 回；收件 qcall@ueberwachung.tv；主题多为「10G Enterprise SFP Switch、24 Port Fiber Switch」；Elsa 箱：`to:qualicam.de OR to:ueberwachung.tv` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 18 / 来 0）（第 74 批(j)））",
-   "type": "CCTV 网店/安装（德国，Hikvision 为主）",
-   "sieve": "1~2（1 次打开）",
-   "stop": "18 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "DE 主攻（四主）",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 18，Opened 标签 1（Simon 群发追踪）；用户表：「主要是安防」；研究档 risks：Hikvision 套装自带 PoE NVR：外置 PoE 量小"
+   "level": "未触达（A/S 邮箱 22 封 2024→2026，无记录打开，0 回；收件 arthur@mse.com.tw；主题多为「Managed Optical Bypass Switch、Industrial PoE Switch」；Elsa 箱：`to:mse.com.tw` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 22 / 来 0）（第 74 批(n)））",
+   "type": "台湾 PoE 配件制造商（交换机为补线，OEM 采购）",
+   "sieve": "1（只收到群发）",
+   "stop": "22 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+   "lane": "台湾 非主攻",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 22；用户表：「主要是POE 商业 工业 配件 自己的logo 工业白色外壳」；研究档 risks：主业为 PoE 电源/分离器（Saga 不做，Q-32 配件缺口）：交换机只是补线，量小"
   },
-  "situation": "德国 Qualicam / ueberwachung.tv（Braunsbedra 视频监控网店：Hikvision（121）NVR 含 PoE 交换机套装、Ubiquiti 被动 PoE、PoE 注入器、刺激气体防盗装置、报警；表内「主要是安防」）；群发 8 次无回复。",
-  "need": "Hikvision 配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）；注入器 Saga 不做",
-  "breakpoint": "Hikvision 套装自带 PoE NVR：外置 PoE 量小",
+  "situation": "台湾 MSTronic Co., Ltd.（PoE 制造商：PoE 分离器 / 注入器 / 开关电源，「offering the most PoE solutions in the world」，OEM/ODM 词频 18/14；站内 EN50155 / EN60945 / UL497B；表内「主要是 PoE 商业 + 工业 + 配件，自己的 logo，工业白色外壳」；KP Arthur（arthur@））；群发 19 次无回复。",
+  "need": "主业 PoE 电源/分离器，交换机为补充线 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 MSTronic 标；工业位 STI-288GP；Saga 不做其主业（注入器/分离器，Q-32）",
+  "breakpoint": "主业为 PoE 电源/分离器（Saga 不做，Q-32 配件缺口）：交换机只是补线，量小",
   "saga_now": {
    "p1": "STC-28DGGPM",
-   "tier": 20,
-   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-17 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-02-21 $240（24 Port Fiber Switch）、2025-04-09 $300（48 Port PoE Managed Switch）、2025-09-25 $280（10G Enterprise SFP Switch）",
-   "why": "Hikvision 配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）；注入器 Saga 不做。已打开的主题（1/18 封有打开记录）：「10G Enterprise SFP Switch」(2025-09-25) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续",
+   "tier": 30,
+   "price": "换人再触锚价 STC-28DGGPM $87.4 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-14 $65（10G media converter）；群发里他已看到的价（续，第 66 批全量复核）：2024-06-24 $220（48 port managed switch）、2025-10-23 $280（10G Enterprise SFP Switch）",
+   "why": "主业 PoE 电源/分离器，交换机为补充线 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 MSTronic 标；工业位 STI-288GP；Saga 不做其主业（注入器/分离器，Q-32）",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开",
-   "one_question": "For the PoE switches you sell and install with Hikvision NVR kits, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port unmanaged PoE units from small lots, CE/RoHS, EXW USD — which size do your projects use most?"
+   "when": "2027-Q1（换人后）",
+   "channel": "A 邮箱 → 具名 KP",
+   "action": "换收件人再发一封（第 75 批(aj) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；白壳 = 开模/起订量问题，不承诺）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
+   "one_question": "Arthur, to round out your PoE power range, we can supply Marvell-based 8-port PoE+ L2+ switches and DIN-rail 8-PoE industrial switches under your label from small lots — would a switch line next to your splitters and injectors make sense, and which port count first? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
    {
-    "date": "2026-09-23",
+    "date": "2026-09-10",
     "dir": "去",
-    "who": "A 群发",
-    "quote": "10G Enterprise SFP Switch、24 Port Fiber Switch",
-    "why": "18 封 / 1 次打开 / 0 回｜首封 2025-02-21 → 末封 2026-09-23（18 去 / 0 来）",
+    "who": "A/S 群发",
+    "quote": "Managed Optical Bypass Switch、Industrial PoE Switch",
+    "why": "22 封 / 0 次打开 / 0 回｜首封 2024-06-24 → 末封 2026-09-10（22 去 / 0 来）",
     "k": "gmail_digest"
    },
    {
     "date": "2026-10-21",
     "dir": "用户表",
     "who": "Simon",
-    "quote": "主要是安防",
+    "quote": "主要是POE 商业 工业 配件 自己的logo 工业白色外壳",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-09-10",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "16 Port Industrial PoE Switch",
+    "why": "本日去信真实主题（邮箱索引 906b87f9cd63969d；信稿开头句引用此封；此前稿内写的「Managed Optical Bypass Switch」是线程列表首题，不是本封）",
+    "k": "906b87f9cd63969d"
    }
   ],
   "proof_gaps": [],
-  "draft_en": null,
+  "draft_en": {
+   "subject": "A switch line next to your splitters and injectors - under the MSTronic label from small lots",
+   "body": "Hi Arthur,\n\nOver the past months you had a few product mails from us - most recently \"16 Port Industrial PoE Switch\" on 10 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nSplitters, injectors and PoE power supplies are your range and we do not touch them. To round it out with a switch line under the MSTronic label from small lots, CE/RoHS: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based - model STC-28DGGPM - $87.4 USD EXW with your logo (MOQ 1, 15-day validity); DIN-rail industrial 8 x PoE+ + 2 x SFP, unmanaged, -40 to 75 C - STI-288GP - $62.2 (standard housing colour; a white housing is a tooling and minimum-lot question).\n\nOne question: would a switch line next to the PoE power range make sense for your OEM customers, and which port count first?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+  },
   "as_of": "2026-10-24"
  }
 }

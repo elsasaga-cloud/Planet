@@ -1,98 +1,147 @@
 {
  "code": "SB-765",
- "name_official": "Electric Bray Ltd",
+ "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "在线（electricbray.com，快照 2026-10-21，en-GB）",
- "summary": "英国肯特郡电气批发商（Eaton/Moeller、Salzer、Hiquel、Shenler 等控制元件），网店「Industrial Ethernet Switches」品类仅两款：OC-7N1005 5 口工业机 £52 与 **Smartbyte Unmanaged Ethernet Switch 5 Port Compact £54**；表内来源 Simon「同行/Smartbyte」名单。与 SB-492 Charter Controls 同一货源体系（OC-7N 码一致）→ Q-33 渠道冲突待裁定。",
- "type": "",
+ "website_status": "在线（inv-technology.com，快照 2026-10-21）",
+ "summary": "法国 INV-Technology / Dynavision（科西嘉视频监控与安防：自有 Dynavision 品牌摄像机/配件，在售 Ruijie RG-ES2xx PoE 交换机、PoE 分离器/注入器；表内「商业 PoE 配件等」；KP Maxence Noireaux（Technical Manager））；群发 17 次无回复。",
+ "type": "安防品牌商/网店（法国科西嘉，Ruijie PoE 在售）",
  "size": "",
  "brands_seen": [
-  "SmartByte（！）",
-  "Eaton"
+  "Ruijie",
+  "Axis"
  ],
  "evidence": [
   {
-   "kind": "官网",
-   "claim": "工业交换机品类：OC-7N1005 £52、Smartbyte 5 口紧凑型 £54",
-   "quote": "Ethernet Switch 5 port OC-7N1005 5 Port Industrial Ethernet Switch 9-56Vac/dc £52.00 — Smartbyte Unmanaged Ethernet Switch 5 Port Compact £54.00",
-   "url": "https://www.electricbray.com/product-category/industrial-ethernet-switches/",
-   "date": "2026-10-21"
-  },
-  {
    "kind": "官网快照",
-   "claim": "定位：面向商业与工业的电气批发商，英国 + 国际销售；sales@electricbray.com；01634 681888",
-   "quote": "Electrical wholesaler supplier, for commercial and industrial industries selling to customers both internationally and in the UK… sales@electricbray.com : 01634 681888",
-   "url": "https://www.electricbray.com/",
+   "claim": "官网标题：Video surveillance and security in Corsica - Dynavision；品类词 安防监控（CCTV / 门禁） / 无线 / WiFi / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "DYNAVISION by INV-TECHNOLOGY products integrate the latest technologies in the video surveillance market, combining performance, design and very competitive prices.",
+   "url": "https://inv-technology.com/en/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "来源：Clients/A/同行/Smartbyte.xlsx 第 2 行",
-   "quote": "（同行/Smartbyte 名单）",
+   "claim": "表内兴趣/备注",
+   "quote": "商业POE 配件等",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   },
   {
-   "kind": "用户裁定",
-   "claim": "SmartByte 经销名单客户不碰（潜在渠道冲突）",
-   "quote": "不碰 标记一下 没必要去跟：会有潜在冲突的",
-   "url": "（对话全记录 T27-U5）",
+   "kind": "官网快照",
+   "claim": "Dynavision 定位",
+   "quote": "Video surveillance and security in Corsica - Dynavision ; DYNAVISION by INV-TECHNOLOGY products integrate the latest technologies in the video surveillance market ; RG-ES228GS-P",
+   "url": "https://inv-technology.com/en/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "商业 PoE 配件等",
+   "quote": "商业POE 配件等",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
  "kp": [
   {
-   "name": "（销售）",
-   "title": "sales@ 通用邮箱",
-   "email": "sales@electricbray.com",
-   "phone": "+44 1634 681888",
-   "source": "https://www.electricbray.com/"
+   "name": "Maxence Noireaux",
+   "title": "Technical Manager",
+   "email": "maxence@inv-technology.com",
+   "phone": "",
+   "source": "用户表"
   }
  ],
- "grade_override": "C",
- "override_reason": "Q-33 裁定（Simon 2026-10-21）：SmartByte 经销名单客户，潜在渠道冲突，不碰；c_sub=渠道冲突（Q-33 不碰）",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ Q-33 裁定（Simon 2026-10-21）：不碰、标记、不跟进。",
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照品牌识别：在售 SmartByte → Q-33 渠道冲突）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "legal_name": "Electric Bray Ltd",
-  "founded": "（待核）",
-  "hq": "Kent, UK（电话区号 01634 Medway）",
-  "size": "小型批发商",
-  "other": "网店 WooCommerce；websales@electricbray.com"
+  "hq": "法国",
+  "other": "官网 inv-technology.com，语言 en，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "电气控制元件批发（Eaton、Salzer、Hiquel、Shenler）",
-  "工业以太网交换机（SmartByte 5 口）"
- ],
- "products_seen": [
-  {
-   "brand": "SmartByte",
-   "model": "Unmanaged Ethernet Switch 5 Port Compact",
-   "spec": "5 口工业非管理，£54 零售",
-   "saga": "= Saga STI-050GE 同厂同款（Saga 列表 $34.1）",
-   "url": "https://www.electricbray.com/product-category/industrial-ethernet-switches/",
-   "date": "2026-10-21"
-  }
+  "视频监控 / 安防（自有品牌 Dynavision）",
+  "PoE 交换机与配件（Ruijie）"
  ],
  "channels": {
-  "role": "电气批发商 / 网店（在售 SmartByte）",
-  "region": "英国"
+  "role": "安防品牌商/网店（法国科西嘉，Ruijie PoE 在售）",
+  "region": "法国",
+  "contact": "contact@inv-technology.com、maxence@inv-technology.com"
  },
  "signals": [
-  "零售价 £54 vs Saga 列表 $34.1 → 有空间，但货源冲突",
-  "Q-33 裁定：不碰（2026-10-21）"
+  "页面 /fr/accessoires/227-switch-8-ports-poe-.html、/240-splitter-poe.html、/241-injecteur-poe.html；站内 RG-ES228GS-P / RG-ES209GC-P；kw camera 42",
+  "官网：DYNAVISION by INV-TECHNOLOGY products integrate the latest technologies in the video surveillance market；KP Maxence Noireaux / Technical Manager"
  ],
  "risks": [
-  "⛔ **Q-33 裁定（Simon 2026-10-21）：不碰**——SmartByte 经销名单客户，潜在渠道冲突；不主动发送、不跟进，仅留档防重复开发",
-  "品类仅 2 款，交换机非主业"
+  "Ruijie 价格基准低；注入器/分离器配件需求 Saga 不供",
+  "17 次无回复 → 改向 Technical Manager 具名首触"
  ],
  "saga_fit": {
-  "p1": "STI-050GE",
-  "tier": 20,
-  "why": "其唯一在售交换机 = SmartByte 5 口（Saga STI-050GE）；Q-33 裁定前不触达。"
+  "p1": "STC-28DGGPM",
+  "tier": 30,
+  "why": "在售 Ruijie ES209/ES228 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Dynavision 标；非管理 8 PoE 位 HRUI STC-028GP（列表价，注明）；注入器/分离器 Saga 不供（Q-32）"
  },
- "email_hook": "（⛔ 不发送：Q-33 裁定不碰，SmartByte 经销名单客户）"
+ "email_hook": "Maxence, alongside the Ruijie RG-ES PoE switches in your Dynavision range, we can supply Marvell-based 8-PoE + 2 SFP L2+ and budget 8/16-port PoE units under your label from small lots, CE/RoHS, EXW USD — which size do your camera-kit customers order most?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 26 封 2024→2026，无记录打开，0 回；收件 contact@inv-technology.com, maxence@inv-technology.com；主题多为「Marvell Industrial Alert System、Industrial PoE Switch」；Elsa 箱：`to:inv-technology.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 26 / 来 0）（第 74 批(k)））",
+   "type": "安防品牌商/网店（法国科西嘉，Ruijie PoE 在售）",
+   "sieve": "1（只收到群发）",
+   "stop": "26 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+   "lane": "法国（欧洲全域主攻）",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 26；用户表：「商业POE 配件等」；研究档 risks：Ruijie 价格基准低；注入器/分离器配件需求 Saga 不供"
+  },
+  "situation": "法国 INV-Technology / Dynavision（科西嘉视频监控与安防：自有 Dynavision 品牌摄像机/配件，在售 Ruijie RG-ES2xx PoE 交换机、PoE 分离器/注入器；表内「商业 PoE 配件等」；KP Maxence Noireaux（Technical Manager））；群发 17 次无回复。",
+  "need": "在售 Ruijie ES209/ES228 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Dynavision 标；非管理 8 PoE 位 HRUI STC-028GP（列表价，注明）；注入器/分离器 Saga 不供（Q-32）",
+  "breakpoint": "Ruijie 价格基准低；注入器/分离器配件需求 Saga 不供",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 30,
+   "price": "换人再触锚价 STC-28DGGPM $87.4 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-13 $65（10G Media Converter）、2024-11-19 $300（48 Port PoE Managed Switch）、2025-01-01 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-08-13 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-22 $280（10G Enterprise SFP Switch）",
+   "why": "在售 Ruijie ES209/ES228 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Dynavision 标；非管理 8 PoE 位 HRUI STC-028GP（列表价，注明）；注入器/分离器 Saga 不供（Q-32）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1（换人后）",
+   "channel": "A 邮箱 → 具名 KP",
+   "action": "换收件人再发一封（第 75 批(af) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
+   "one_question": "Maxence, alongside the Ruijie RG-ES PoE switches in your Dynavision range, we can supply Marvell-based 8-PoE + 2 SFP L2+ and budget 8/16-port PoE units under your label from small lots, CE/RoHS, EXW USD — which size do your camera-kit customers order most? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity)."
+  },
+  "facts": [
+   {
+    "date": "2026-09-22",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Marvell Industrial Alert System、Industrial PoE Switch",
+    "why": "26 封 / 0 次打开 / 0 回｜首封 2024-06-17 → 末封 2026-09-22（26 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "商业POE 配件等",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026-09-22",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "16 Port Industrial PoE Switch",
+    "why": "本日去信真实主题（邮箱索引 0bdfee726f2ed57f；信稿开头句引用此封；此前稿内写的「Marvell Industrial Alert System」是线程列表首题，不是本封）",
+    "k": "0bdfee726f2ed57f"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": {
+   "subject": "Alongside the Ruijie RG-ES units in the Dynavision range - under your label from small lots",
+   "body": "Hi Maxence,\n\nOver the past months you had a few product mails from us - most recently \"16 Port Industrial PoE Switch\" on 22 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nAlongside the Ruijie RG-ES209 / ES228 PoE switches in the Dynavision range, under your label from small lots, CE/RoHS: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based - model STC-28DGGPM - $87.4 USD EXW with your logo (MOQ 1, 15-day validity); budget unmanaged 8 x PoE+ + 2 x Gigabit - STC-028GP - $27.2; 16 x Gigabit PoE+ + 2 x SFP, L2 managed - STC-2216GPM - $153.5. Injectors and splitters we do not carry.\n\nOne question: which size do your camera-kit customers order most - 8 or 16?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+  },
+  "as_of": "2026-10-24"
+ }
 }

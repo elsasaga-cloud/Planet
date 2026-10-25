@@ -1,60 +1,126 @@
 {
- "code": "SB-209",
- "name_official": "Alamthal（alamthal.ly，利比亚；ISAF 参展记录为土耳其）",
- "researched_at": "2026-10-21",
- "website_status": "未核",
- "summary": "ISAF 记录：Khaled Kdaizim（khaled@alamthal.ly，+218 91 340 4004，WhatsApp 已加）最主要要商业级 PoE 交换机；无跟进。域名与电话均指向利比亚 → C 区域外（资料保留；若其在土耳其有法人可重开）。",
- "type": "",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "用户表",
-   "claim": "利比亚域名/电话；商业 PoE 需求",
-   "quote": "最主要要商业级POE交换机 / khaled@alamthal.ly / 218 91 340 4004 已加",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
+  "code": "SB-209",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（denwaip.com，快照 2026-10-21）",
+  "summary": "DENWA（「Switching your life」IP 通信品牌（美国/拉美）；表内「商业 PoE 自己的 logo」「可以尝试多跟进一下」；KP Juan Jose Michel（Product Manager））；群发 11 次无回复。",
+  "type": "IP 通信品牌商（美国/拉美，自有标 PoE）",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：DENWA / Switching your life",
+      "quote": "Hello；Hola",
+      "url": "https://denwaip.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "商业PoE 自己的logo",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "DENWA 站点",
+      "quote": "DENWA / Switching your life ; Hello ; Hola",
+      "url": "https://denwaip.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "商业 PoE 自己的 logo",
+      "quote": "商业PoE 自己的logo；可以尝试多跟进一下",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [
+    {
+      "name": "Juan Jose Michel",
+      "title": "Product Manager",
+      "email": "juanjomichel@denwaip.com",
+      "phone": "",
+      "source": "用户表"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "美国",
+    "other": "官网 denwaip.com，语言 en，快照状态 ok；角色判定来源：用户表"
+  },
+  "business_lines": [
+    "IP 通信 / UC（自有品牌 DENWA）",
+    "配套 PoE 交换机"
+  ],
+  "channels": {
+    "role": "IP 通信品牌商（美国/拉美，自有标 PoE）",
+    "region": "美国",
+    "contact": "sales@denwaip.com、juanjomichel@denwaip.com"
+  },
+  "signals": [
+    "官网标题 DENWA / Switching your life；快照首页仅 Hello ; Hola",
+    "表内：商业 PoE 自己的 logo；可以尝试多跟进一下；KP Juan Jose Michel / Product Manager"
+  ],
+  "risks": [
+    "官网快照内容少（仅 Hello / Hola），产品线待核",
+    "11 次无回复 → 改向 Product Manager 具名首触"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 30,
+    "why": "话机部署配套自有标 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；24 口 STC-424DGGPM-280W（$145.7）"
+  },
+  "email_hook": "Juan Jose, for the DENWA-branded PoE switches that ship with your IP phone and UC deployments, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE + 4 SFP) in your packaging from small lots, FCC/CE/RoHS — which size do your Latin-American partners order most?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（1 封西语工单「caso 3204 resuelto」）；Elsa 1:1 去信 1 封（2025-02-19「48 Port SFP Switch」；To 仅本户 sales@denwaip.com；Bcc 未逐封读头；同类名单抽读 24 封均无 Bcc；此后再未进 Elsa 任何名单——全箱 `from:e.sagatelecom to:sales@denwaip.com` 仅此 1 条，complete）（第 74 批(m)）",
+      "type": "美国/拉美 IP 通信品牌商（Denwa）",
+      "sieve": "0",
+      "stop": "自动回复/机器人，无人工回复",
+      "revive": "不动",
+      "lane": "US",
+      "cadence": "不动",
+      "evidence": "k=d93e288f5b2d3164"
+    },
+    "situation": "来信全部为机器回复；无人读信或无人回信。",
+    "need": "—",
+    "breakpoint": "—",
+    "saga_now": {
+      "p1": "—",
+      "tier": 30,
+      "price": "—；群发里他已看到的价（续）：2026-08-12 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-26 $280（10G Enterprise SFP Switch）、2026-06-22 $16000（32 Port 400GB DC Switch）",
+      "why": "—",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "不动",
+      "channel": "—",
+      "action": "首封前知悉：Elsa 仅 2025-02-19 单发过 1 封「48 Port SFP Switch」，之后没再碰他（第 74 批(m)）；—",
+      "one_question": ""
+    },
+    "facts": [
+      {
+        "date": "2025-02-19",
+        "dir": "out",
+        "who": "Elsa → sales@denwaip.com",
+        "quote": "48 Port SFP Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+        "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
+        "k": "elsa_1to1",
+        "msg_id": "1951a37816a0bc0f"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
   }
- ],
- "kp": [
-  {
-   "name": "Khaled Kdaizim",
-   "role": "（ISAF 名片；职务待核）",
-   "email": "khaled@alamthal.ly（用户表）",
-   "phone": "+218 91 340 4004（用户表，WhatsApp 已加）",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
-  }
- ],
- "grade_override": "C",
- "override_reason": "区域外：.ly 域名 + 电话 +218（利比亚），用户表国家「土耳其」为 ISAF 参展地误记；利比亚不在 Saga 区域（US/CA + 欧洲 + 土耳其）",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 国别由表内「土耳其」更正为「利比亚」（country_fix，依据见加厚块）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（身份判断 → 区域外降 C）"
- },
- "company_facts": {
-  "legal_name": "Alamthal（待核）",
-  "hq": "Libya（.ly / +218）",
-  "size": "待核",
-  "other": "—"
- },
- "business_lines": [
-  "（待核）商业级 PoE 交换机采购"
- ],
- "channels": {
-  "网站": "http://alamthal.ly/（未核）"
- },
- "signals": [
-  "商业 PoE 需求明确但区域外"
- ],
- "risks": [
-  "区域外 → C"
- ],
- "saga_fit": {
-  "p1": null,
-  "tier": 25,
-  "why": "不推进（区域外）；若 WhatsApp 主动来询可报 STC-028GP/STC-2024GP 单价"
- },
- "email_hook": "（不主动发送）",
- "country_fix": "利比亚"
 }

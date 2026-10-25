@@ -1,137 +1,140 @@
 {
- "code": "SB-1057",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（altronics.com.au，快照 2026-10-21）",
- "summary": "澳大利亚 Altronics（电子元件与设备分销/零售连锁，自有标产品；表内「PoE switch Hisource 的」「可以多跟进一下」；KP Dean Stephens（General Manager）、Brian Sorensen（GM Product Development））；群发 21 次无回复。",
- "type": "电子分销连锁（澳大利亚，自有标 PoE 现 Hisource）",
- "size": "",
- "brands_seen": [
-  "Hisource"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：altronics.com.au",
-   "quote": "",
-   "url": "https://www.altronics.com.au/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "POE switch hisource的",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "PoE switch Hisource；可以多跟进",
-   "quote": "POE switch hisource的；可以多跟进一下",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Brian Sorensen",
-   "title": "GM Product Development",
-   "email": "info@altronics.com.au",
-   "phone": "",
-   "source": "用户表"
-  },
-  {
-   "name": "Dean Stephens",
-   "title": "General Manager",
-   "email": "dean.stephens@altronics.com.au",
-   "phone": "",
-   "source": "用户表",
-   "role": "；2025 婉拒「Thank you, not at this time」→ 2027 再看；已入剔除名单 §一"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "澳大利亚",
-  "other": "官网 altronics.com.au，语言 ?，快照状态 ok；角色判定来源：待核"
- },
- "business_lines": [
-  "电子元件 / 设备分销与零售（澳大利亚）"
- ],
- "channels": {
-  "role": "电子分销连锁（澳大利亚，自有标 PoE 现 Hisource）",
-  "region": "澳大利亚",
-  "contact": "info@altronics.com.au、dean.stephens@altronics.com.au"
- },
- "signals": [
-  "表内：POE switch hisource 的；KP Dean Stephens / General Manager；Brian Sorensen / GM Product Development；可以多跟进一下",
-  "快照：内容为空"
- ],
- "risks": [
-  "非主攻区（T5，澳大利亚；RCM 由客户侧）；现供 Hisource 价格基准低；21 次无回复 → 改向 GM Product Development 具名首触；官网快照空"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 30,
-  "why": "自有标 PoE（现 Hisource）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 口 STC-424DGGPM-280W（$145.7）贴 Altronics 标；非管理 4/8 PoE 位 HRUI（列表价，注明）"
- },
- "email_hook": "Brian, for the PoE switches sold under the Altronics label, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE 280 W) in your packaging from small lots, CE/RoHS; RCM by your side — which PoE SKU do your stores reorder most?",
- "mail_review": {
-  "binding": {
-   "level": "轻度触达→拒（2026-04-20 Dean「not at this time」；Elsa 箱：`to:altronics.com.au` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 30 / 来 1）（第 74 批(n)））",
-   "type": "澳大利亚电子分销连锁（Altronics；自有标 PoE 现 Hisource）",
-   "sieve": "1",
-   "stop": "明确暂不",
-   "revive": "年度",
-   "lane": "AU",
-   "cadence": "年度",
-   "evidence": "k=f6879c7d612d62b5；第 19 批回补来信原文 1 条（gmail_s/gmail_a）"
-  },
-  "situation": "—",
-  "need": "—",
-  "breakpoint": "—",
-  "saga_now": {
-   "p1": "—",
-   "tier": 30,
-   "price": "—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-02 $220（48 port managed switch）、2024-12-04 $65（10G Media Converter）；群发里他已看到的价（续，第 66 批全量复核）：2025-07-28 $240（24 Port Fiber Switch）、2025-10-08 $280（10G Enterprise SFP Switch）",
-   "why": "已打开的主题（3/30 封有打开记录）：「Industrial PoE Switch」(2026-04-17)、「Re: Industrial PoE Switch」(2026-06-05)、「Firmware 7.5 L2+ Feature Update」(2026-07-01) → 读者兴趣偏「工业」；与 P1 同类，继续",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "2027",
-   "channel": "—",
-   "action": "—（第 75 批(am) 2026-10-25：英文信稿已写 `draft_en`；婉拒户（㉘）：2027 只给产品开发一封，不再群发）",
-   "one_question": ""
-  },
-  "facts": [
-   {
-    "date": "2026-04-20",
-    "dir": "来",
-    "who": "dean.stephens@altronics.com.au",
-    "quote": "Hi Alan, Thank you, not at this time. Regards Dean",
-    "why": "来信原文（主题「RE: Industrial PoE Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
-    "k": "f6879c7d612d62b5"
-   },
-   {
-    "date": "2026-06-05",
-    "dir": "去",
-    "who": "Saga（Alan）",
-    "quote": "Hi, Dean, How are you? Please check our half-width 10Gb managed switch featuring 1. Full L3 features(VXLAN, EVPN, MPLS, Stacking etc.) suitable for core and aggregation layers 2. Compact size, support hot-swappable fan modulars 3. OEM/white-label support(branding, model name etc.) Do you have any pr…",
-    "why": "Saga 实质答复原文（主题「Re: Industrial PoE Switch」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
-    "k": "c943d0ffd571332d"
-   }
+  "code": "SB-1057",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（mondoplast.ro，快照 2026-10-21）",
+  "summary": "罗马尼亚 Mondo Plast（蒂米什瓦拉电信设备进口与分销：光纤、线缆、电台、UPS、天线、机柜、卫星接收、路由、摄像机、交换机、MC；Hirschmann / Hikvision；表内「比较多的外壳，有国内的；switch / MC / WDM 等」；邮箱 timisoara@）；表内无跟进记录。",
+  "type": "电信设备进口分销商（罗马尼亚）",
+  "size": "",
+  "brands_seen": [
+    "Hikvision",
+    "Hirschmann"
   ],
-  "proof_gaps": [],
-  "draft_en": {
-   "subject": "A second ODM source for the Altronics-label PoE switches - 2027 note, product development",
-   "body": "Hi Brian,\n\nDean told us in April 2026 \"not at this time\", so this goes to product development once, for 2027 planning, and not again before. For the PoE switches sold under the Altronics label (HiSource-built today), a second ODM source in your packaging from small lots, CE/RoHS: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based - model STC-28DGGPM - $87.4 USD EXW with your logo (MOQ 1, 15-day validity); 24 x PoE+ (280 W) + 4 x SFP, L2+ managed - STC-424DGGPM-280W - $145.7. RCM stays on your side.\n\nOne question: which PoE SKU do your stores reorder most - that is the only one worth sampling?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：Mondo Plast - Cabluri si echipamente pentru telecomunicatii；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
+      "quote": "Mondo Plast - importator si distribuitor echipamente telecomunicatii: fibra optica,cablu,statie radio,ups-uri,antena,rack,receptor satelit,router,router wireless,camera supraveghere,switch,media conv",
+      "url": "https://www.mondoplast.ro/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "比较多的外壳 有国内的 switch MC WDM等",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "Mondo Plast 定位",
+      "quote": "Mondo Plast - importator si distribuitor echipamente telecomunicatii: fibra optica,cablu,statie radio,ups-uri,antena,rack,receptor satelit,router,router wireless,camera supraveghere,switch,media conv",
+      "url": "https://www.mondoplast.ro/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "多外壳国产；switch MC WDM",
+      "quote": "比较多的外壳 有国内的 switch MC WDM等",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
   },
-  "as_of": "2026-10-24"
- }
+  "company_facts": {
+    "hq": "罗马尼亚",
+    "other": "官网 mondoplast.ro，语言 ro，快照状态 ok；角色判定来源：官网文案"
+  },
+  "business_lines": [
+    "电信设备进口分销（光纤 / 线缆 / 无线 / 安防 / 网络）"
+  ],
+  "channels": {
+    "role": "电信设备进口分销商（罗马尼亚）",
+    "region": "罗马尼亚",
+    "contact": "timisoara@mondoplast.net"
+  },
+  "signals": [
+    "官网：importator si distribuitor echipamente telecomunicatii: fibra optica,cablu,statie radio,ups-uri,antena,rack,receptor satelit,router,…,camera supraveghere,switch,media conv…",
+    "表内：比较多的外壳 有国内的；switch MC WDM 等"
+  ],
+  "risks": [
+    "小国（罗马尼亚，非主动挖掘范围）；多品类杂货分销，量小",
+    "无具名 KP（分支邮箱 timisoara@）；无跟进记录"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 20,
+    "why": "多外壳国产货在售 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；MC 位 STI-110GE（$22.4）；WDM/SFP Saga 不供（Q-32）"
+  },
+  "email_hook": "Alongside the switches and media converters you import, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch, budget 4/8-port PoE units and gigabit media converters from small lots, CE/RoHS, EXW USD — which band sells most through your Timișoara branch?",
+  "mail_review": {
+    "binding": {
+      "level": "Elsa 群发 BCC 已触达 2026-08-18「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，RU/NL/SE/RO/TR/KZ 批次 To info@morion.ru，0 回（第 73 批(o) Bcc 头核对 msg 1a013fddf72d5ae1）；S/A 箱：S/A 邮箱均无往来；来源：用户表「比较多的外壳 有国内的 switch MC WDM等」",
+      "type": "电信设备进口分销商（罗马尼亚）",
+      "sieve": "—（未入筛）",
+      "stop": "Elsa 群发 BCC 触达过（最近 2026-08-18）无回；S/A 箱从未单独发过",
+      "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+      "lane": "罗马尼亚（欧洲全域主攻）",
+      "cadence": "首封后看打开",
+      "evidence": "gmail_digest：out 0；用户表：「比较多的外壳 有国内的 switch MC WDM等」；研究档 risks：小国（罗马尼亚，非主动挖掘范围）；多品类杂货分销，量小；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To info@morion.ru）2025-02-24→2026-08-18 共 12 轮群发（90W PoE Managed Switch、Marvell Alleycat5 Solution、16 Port Ethernet Switch、Industrial PoE Switch、48 Port PoE Managed Switch、8 Port Industrial PoE Switch、Booster PoE Switch、OEM Core Switching Solution、Updated Ethernet Switches Links、Marvell Managed Commercial Switches、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断"
+    },
+    "situation": "罗马尼亚 Mondo Plast（蒂米什瓦拉电信设备进口与分销：光纤、线缆、电台、UPS、天线、机柜、卫星接收、路由、摄像机、交换机、MC；Hirschmann / Hikvision；表内「比较多的外壳，有国内的；switch / MC / WDM 等」；邮箱 timisoara@）；表内无跟进记录。",
+    "need": "多外壳国产货在售 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；MC 位 STI-110GE（$22.4）；WDM/SFP Saga 不供（Q-32）",
+    "breakpoint": "小国（罗马尼亚，非主动挖掘范围）；多品类杂货分销，量小",
+    "saga_now": {
+      "p1": "STC-28DGGPM",
+      "tier": 20,
+      "price": "首触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-18 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-18；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
+      "why": "多外壳国产货在售 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；MC 位 STI-110GE（$22.4）；WDM/SFP Saga 不供（Q-32）",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "待 Simon 排期（首封）",
+      "channel": "A 邮箱 → timisoara@mondoplast.net",
+      "action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-18「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 75 批(j) 2026-10-25：英文信稿已写 `draft_en`）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
+      "one_question": "Alongside the switches and media converters you import, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch, budget 4/8-port PoE units and gigabit media converters from small lots, CE/RoHS, EXW USD — which band sells most through your Timișoara branch? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
+    },
+    "facts": [
+      {
+        "date": "2025-02-24",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To info@morion.ru，RU/NL/SE/RO/TR/KZ 批次）",
+        "quote": "90W PoE Managed Switch — This is a Marvell based layer 2 managed PoE switch. 1. Highly programmable GUI 2. 2*PoE af/at/bt+6*PoE af/at, 240W budget 3. Support PoE management It",
+        "why": "Elsa 箱群发 BCC 触达证据（命中地址 mondoplast.net, timisoara@mondoplast.net）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+        "k": "elsa_bcc"
+      },
+      {
+        "date": "2026-08-18",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To info@morion.ru，RU/NL/SE/RO/TR/KZ 批次）",
+        "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
+        "why": "Elsa 箱群发 BCC 触达证据（命中地址 mondoplast.net, timisoara@mondoplast.net）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+        "k": "elsa_bcc"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "比较多的外壳 有国内的 switch MC WDM等",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [
+      "无邮件往来"
+    ],
+    "draft_en": {
+      "subject": "Switches and media converters for your Timișoara branch - neutral brand",
+      "body": "Hello Mondo Plast team,\n\nOver the past months you had a few product mails from us - most recently \"24 Port PoE Managed Switch\" on 18 August 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nAlongside the switches and media converters you import, from small lots, CE/RoHS, neutral packing: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based - model STC-28DGGPM - $80.7 USD EXW at distributor price (MOQ 1, 15-day validity); budget 8-PoE + 2 uplink unmanaged - STC-028GP - $25.1; industrial mini Gigabit media converter with SFP slot - STI-110GE - $26.5. WDM optics and SFP modules we do not supply.\n\nOne question: which band sells most through your Timișoara branch - budget unmanaged PoE, managed PoE, or media converters?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+    },
+    "as_of": "2026-10-25"
+  }
 }

@@ -1,201 +1,356 @@
-# SB-593 matrix.es · news_1 · https://www.matrix.es/noticias-iot-y-electronica · fetched 2026-10-25T07:41:18Z · HTTP 200
-Noticias y Novedades IoT y Electrónica - MATRIX electrónica
-LinkedIn
-RMA
-Español Español es
-English Inglés en
-0 Carrito de Compra
-Inicio
-Productos
-Wireless IoT
-Routers IoT
-Módems IoT
-Gateways IoT
-Celular / GSM
-Bluetooth
-GPS
-LoRa/Sigfox
-WiFi
-Wireless M-Bus
-Energía Solar
-Metering
-Networking Industrial
-Switches Industriales
-Conversores de Serie
-Dispositivos de Entradas y Salidas
-Servidores de Tiempo
-Embedded Computing
-Módulos industriales
-Industrial SBCs
-Industrial PCs
-Panel PCs, Monitores y Tablets industriales
-Memorias
-Antenas y Cables
-Sensores Cableados
-Sensores Inalámbricos
-Fuentes de Alimentación
-Fuentes de Alimentación AC/DC
-Inversores
-Conversores DC-DC
-Módulos de alimentación
-Cargadores de Baterías
-Supercondensadores
-Iluminación LED
-Multichips LED de alta luminosidad
-Alimentación LED
-Tiras LED
-Controladores LED
-Perfiles LED
-Otros productos y componentes electrónicos
-Optoelectrónica
-Displays y visualización
-Semiconductores
-Relés
-Impresoras Térmicas
-Servicios
-Verticales
-Smart City
-Militar, Defensa & Aeroespacial
-Smart Grid & Fotovoltaico
-BMS & Smart Building
-Smart Metering
-Transporte
-Transporte Ferroviario
-Sistemas Embarcados para Vehículos
-Automatización Industrial
-Agricultura Inteligente
-Gaming & Vending
-Salud
-Inteligencia Artificial (Edge AI)
-Iluminación LED
-Marcas
+# SB-593 ibdglobal.com · news_1 · https://www.ibdglobal.com/en/blog · fetched 2026-10-25T07:41:18Z · HTTP 200
+Blog Posts | IBD Global España mayorista CCTV y distribuidor oficial Dahua España.
+Skip to Content
+Guest
+Login
+My Cart
+( 0 )
+My Wishlist
+( 0 )
+Home
+Search
+0
+Wishlist
+Account
+Offers
+Brands
+Category
+Orders
+Tienda
+Partners
+Categorías
+Intrusión
+Incendio
+Videovigilancia
+Control de acceso
+Networking
+Sobre IBD
+La empresa
+Compromiso
+Equipo
+Sedes
+IBD Pro
+¿Qué es IBD Pro?
+IBD Academy
+IBD Services
+IBD Solutions
+Hazte cliente
+Login
+0
+Wishlist
+0
+My Cart
+0
+English (US)
+Català
+English (US)
+Français
+Português
+Español
+VÍDEO
+ACCESOS
+INTRUSIÓN
+INCENDIO
+NETWORKING
+OUTLET
+Explore All Categories
+Tienda
+Partners
+Categorías
+Intrusión
+Incendio
+Videovigilancia
+Control de acceso
+Networking
+Sobre IBD
+La empresa
+Compromiso
+Equipo
+Sedes
+IBD Pro
+¿Qué es IBD Pro?
+IBD Academy
+IBD Services
+IBD Solutions
+Hazte cliente
+My Cart
+( 0 )
+My Wishlist
+( 0 )
+Login
+Blogs:
+All
+Our Blog
+Calendario formaciones y eventos
+All
+Our Blog
+Calendario formaciones y eventos
+IBD Global y TP-Link acercan la innovación en redes y videovigilancia a Bilbao, Valladolid y Granada
+En IBD Global seguimos impulsando encuentros que permiten a nuestros partners conocer, probar y comprender las tecnologías que están transformando el mercado profesional. Tras nuestra cita en Bilbao, ...
+Oct 9, 2026
+Our Blog
+Open Day con Honeywell
+Le invitamos a los Open Days BA 2026 Una jornada para conocer nuestras novedades y compartir ideas. Contaremos con la presencia de las divisiones de Fire, SAS y BMS, en un espacio de encuentro para de...
+Sep 25, 2026
+Calendario formaciones y eventos
+¡Acompáñanos en el próximo webinar organizado por IBD Global para conocer las funciones del DSS PRO V8.8!
+¡Acompáñanos en el próximo webinar organizado por IBD Global para conocer las funciones del DSS PRO V8.8! Esta sesión te presentará la evolución completa de la plataforma, destacando las capacidades d...
+Sep 24, 2026
+Calendario formaciones y eventos
+¡Acompáñanos en el próximo Tech Brunch en GRANADA de IBD Global y TP-Link!
+¡Acompáñanos en el próximo Tech Brunch en GRANADA de IBD Global y TP-Link! Te invitamos a conocer de primera mano las últimas soluciones de Omada y VIGI. Disfruta con nosotros de este desayuno tecnoló...
+Sep 23, 2026
+Calendario formaciones y eventos
+¡Acompáñanos en el próximo Tech Brunch en VALLADOLID de IBD Global y TP-Link!
+¡Acompáñanos en el próximo Tech Brunch en VALLADOLID de IBD Global y TP-Link! Te invitamos a conocer de primera mano las últimas soluciones de Omada y VIGI. Disfruta con nosotros de este desayuno tecn...
+Sep 23, 2026
+Calendario formaciones y eventos
+¡Acompáñanos en el próximo Tech Brunch en BILBAO de IBD Global y TP-Link!
+¡Acompáñanos en el próximo Tech Brunch en BILBAO de IBD Global y TP-Link! Te invitamos a conocer de primera mano las últimas soluciones de Omada y VIGI. Disfruta con nosotros de este desayuno tecnológ...
+Sep 23, 2026
+Calendario formaciones y eventos
+¿Las cámaras deben ignorar a las mascotas o detectarlas?
+Durante años, uno de los grandes avances en videovigilancia ha sido la reducción de falsas alarmas. Gracias a la inteligencia artificial, las cámaras actuales son capaces de distinguir entre personas,...
+Jul 30, 2026
+Our Blog
+¿Tienes una instalación Kilsen? Con IBD Global, sigue respaldada
+La evolución de Kilsen hacia Kidde Commercial es una realidad, pero sabemos que tus instalaciones actuales necesitan seguir funcionando con total normalidad. Por eso, con el objetivo de proteger la in...
+Jul 22, 2026
+Our Blog
+SkyHawk vs. SkyHawk AI: ¿qué disco duro elegir para tu sistema de videovigilancia?
+Cuando se diseña un sistema de videovigilancia, las cámaras suelen llevarse todo el protagonismo. Sin embargo, hay un componente que trabaja en silencio, las 24 horas del día, y del que depende que to...
+Jul 21, 2026
+Our Blog
+Ya disponible el sistema Ajax G3 Jeweller
+Ya puedes encontrar en IBD Global el nuevo Ajax Wireless Grado 3, el primer sistema de intrusión 100 % inalámbrico certificado Grado 3, diseñado para responder a las exigencias de los proyectos más cr...
+Jun 30, 2026
+Our Blog
+Disponible Dr. Net: Tu aliado definitivo en Networking para CCTV
+Sabemos que en las instalaciones de videovigilancia, la conectividad no puede fallar. Por eso hemos desarrollado Dr. Net, la nueva marca de networking con la gama más completa de switches y accesorios...
+May 14, 2026
+Our Blog
+Incremento de precios en tarifa
+Te informamos que, por causas completamente ajenas a IBD Global y debido al actual contexto internacional, nuestros partners han incrementado sus costes de producción. Esta situación de mercado nos ob...
+Apr 24, 2026
+Our Blog
+1
+2
+3
+4
+5
+Acerca de
+IBD Global es la empresa líder en soluciones innovadoras de seguridad especializadas en vídeo, accesos, intrusión e incendio.
+Follow Us
+Archives
+-- All dates
+March
+2018
+April
+2018
+July
+2018
+September
+2018
+October
+2018
+November
+2018
+December
+2018
+February
+2019
+March
+2019
+May
+2019
+July
+2019
+August
+2019
+September
+2019
+October
+2019
+November
+2019
+December
+2019
+January
+2020
+February
+2020
+April
+2020
+June
+2020
+July
+2020
+August
+2020
+September
+2020
+October
+2020
+December
+2020
+January
+2021
+February
+2021
+April
+2021
+May
+2021
+June
+2021
+July
+2021
+September
+2021
+October
+2021
+November
+2021
+December
+2021
+January
+2022
+February
+2022
+April
+2022
+May
+2022
+June
+2022
+July
+2022
+August
+2022
+September
+2022
+October
+2022
+December
+2022
+January
+2023
+February
+2023
+March
+2023
+April
+2023
+May
+2023
+June
+2023
+July
+2023
+September
+2023
+October
+2023
+November
+2023
+December
+2023
+January
+2024
+February
+2024
+March
+2024
+April
+2024
+May
+2024
+July
+2024
+September
+2024
+October
+2024
+November
+2024
+December
+2024
+January
+2025
+February
+2025
+March
+2025
+April
+2025
+May
+2025
+June
+2025
+July
+2025
+August
+2025
+October
+2025
+November
+2025
+December
+2025
+February
+2026
+March
+2026
+April
+2026
+May
+2026
+June
+2026
+July
+2026
+September
+2026
+October
+2026
+Tags
+Fechas - 2023
+Fechas - 2024
+Formaciones y eventos
 Noticias
-Sobre Matrix Electrónica
+CEPYME500
+COVID 19
+Cuadernos de Seguridad
+Ignacio Barandiarán
+LENX
+SICUR
+Salón Internacional de Seguridad
+cctv
+control de accesos, COVID 19, seguridad cámaras termográficas
+seguridad cámaras termográficas
+vídeo
+Follow us
+​
+Certificaciones
+Recursos
+Webinars
+Descargas
+Guía accesorios Dahua
+Más información
+Alta nuevo cliente
+Noticias
+Calendario formaciones
 Contacto
-Buscar
-Menú
-Noticias y Novedades
-Mantente al día de los nuevos productos, catálogos o eventos en los que estamos presentes.
-Axiomtek & Matrix Solution Day
-21 septiembre, 2026 / por Deivis Ribera
-GPU dedicada vs SoC con NPU integrada
-21 julio, 2026 / por admin
-Catálogo de Antenas 2026
-10 junio, 2026 / por admin
-Arquitecturas AIoT: Del Cloud al Edge para una Industria Inteligente
-2 marzo, 2026 / por Deivis Ribera
-Informe de Mercado 2026: Perspectivas Críticas de Suministro y Estrategia de Compras
-17 febrero, 2026 / por Deivis Ribera
-Ciberseguridad Industrial y NIS2: Cómo asegurar tu red industrial
-6 febrero, 2026 / por Deivis Ribera
-Switch de Capa 2 vs Switch de Capa 3 ¿Qué Switch elegir? (Guía Actualizada 2026)
-2 febrero, 2026 / por admin
-Más Allá de la Nube: Desbloqueando el Poder de la IA en el Edge
-8 septiembre, 2025 / por admin
-DDR4 vs. DDR5 ¿Por qué este es el momento de la transición?
-5 agosto, 2025 / por admin
-AGV y AMR, la Clave de la Automatización Inteligente
-10 marzo, 2025 / por Deivis Ribera
-Impulsa tu Industria hacia el Futuro con Soluciones de Automatización Avanzadas
-7 marzo, 2025 / por Deivis Ribera
-Soluciones Tecnológicas Avanzadas para el Transporte Ferroviario y por Carretera
-20 febrero, 2025 / por admin
-Cargar más
-¿Hablamos?
-Queremos ser tu socio de confianza en Soluciones IoT y Electrónica Industrial.
-¿Por qué Matrix Electrónica?
-Más de 30 años de historia
-Distribuimos equipos, módulos y componentes desde 1991.
-Distribución nacional e internacional
-Disponemos de oficinas comerciales en España, Portugal, Francia e India
-Soporte técnico integral especializado
-Información y asistencia experta en cada fase del proyecto. Preventa, postventa y llave en mano.
-Porfolio complementario y sinérgico
-Todo el mercado de componentes electrónicos y dispositivos IoT.
-Desarrollo de proyectos a medida
-Definición del proyecto, diseño y prototipado. Programación, integración, producción y pruebas.
-Las marcas más destacadas
-Seleccionamos los mejores productos, marcas y colaboradores.
-Un único socio, todas tus necesidades
-Analizamos tu proyecto y localizamos todos los productos necesarios.
-Formulario de Contacto
-Nombre*
-Empresa*
-Provincia*
-A Coruña
-Álava
-Albacete
-Alicante
-Almería
-Asturias
-Ávila
-Badajoz
-Baleares
-Barcelona
-Burgos
-Cáceres
-Cádiz
-Cantabria
-Castellón
-Ciudad Real
-Córdoba
-Cuenca
-Girona
-Granada
-Guadalajara
-Gipuzkoa
-Huelva
-Huesca
-Jaén
-La Rioja
-Las Palmas
-León
-Lérida
-Lugo
-Madrid
-Málaga
-Murcia
-Navarra
-Ourense
-Palencia
-Pontevedra
-Salamanca
-Segovia
-Sevilla
-Soria
-Tarragona
-Santa Cruz de Tenerife
-Teruel
-Toledo
-Valencia
-Valladolid
-Vizcaya
-Zamora
-Zaragoza
-Correo Electrónico*
-Teléfono*
-Mensaje*
-Acepto la Política de Privacidad .
-Δ
-Entremos juntos en la historia de la innovación.
-Routers IoT | Módems IoT | Gateways IoT | Networking Industrial | Embedded Computing | Wireless IoT | Sensores Cableados | Sensores Inalámbricos | Antenas y Cables | Iluminación LED
-Matrix
-Sobre Matrix Electrónica
-Legalidad y privacidad
-Condiciones de venta
-Normativas y Certificados
-Contacto
-Productos
-Wireless IoT
-Networking Industrial
-Embedded Computing
-Sensores cableados
-Sensores inalámbricos
-Fuentes de Alimentación
-Iluminación LED
-Recibe Nuestro Boletín de Novedades
-Email *
-Nombre *
-Empresa *
-He leído la política de privacidad y acepto recibir información comercial
-Desplazarse hacia arriba
+C/ Del Besòs, 12.
+P.I. Can Buscarons de Baix
+08170 Montornès del Vallès
++34 93 840 90 73
+info@ibdglobal.com
+Todos los derechos reservados © 2026 Smart Tech Ibd Global Solutions, S.L.
+Condiciones legales · Política de cookies · Política de privacidad · Transparencia
+English (US)
+Català
+English (US)
+Français
+Português
+Español

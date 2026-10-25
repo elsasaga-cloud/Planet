@@ -1,0 +1,72 @@
+# SB-1027 everbesthk.com · news_1 · https://www.everbesthk.com/portfolio-items/engenius-ews2910p/ · fetched 2026-10-24T07:26:33Z · HTTP 200
+EnGenius EWS2910P - Everbest Technologies Ltd.
+Bringing Innovative Products into HK & Macau since 1991
+About Us
+Brands
+Products
+Awards
+Media Coverage
+Seminar Customer Seminar
+SI Seminar
+Promotions
+Advertisement
+Warranty Warranty Registration
+Warranty Terms
+Contact Us
+EnGenius EWS2910P
+Home / 30 Nov 2015 , AP , EnGenius , Switch , Wireless Management Controller / EnGenius EWS2910P
+EnGenius EWS2910P
+2019-05-27T11:+
+Project Description
+室內外無線網絡專家 EnGenius Technologies Inc. 推出的 “The Neutron Series” Managed Wireless Network Solution 歷年表現受各界肯定，曾獲得不少國際大獎，當中包括 : 獲得 TAIWAN EXCELLENCE SILVER AWARD 2015 ，嘉許各方表現卓越；更得到 IT PRO CORPORATE CHOICE 2014 稱讚為 “ Best Managed Long Range Wireless Solution” ；而 2014 年的 CES 亮相後即以及被 美國權威性媒體 PCMAG 的 2014 五星 HONOR AWARD 選為 “ The Top 10 Tech Products for Small Biz at CES” 。實力表現大受好評，絕對是中小企新一代的無線網絡基礎設施方案之選！
+EnGenius “The Neutron Series” Managed Wireless Network Solution
+EnGenius EWS系列Wireless Management Switch 結合 AP Gateway 及具備 Layer 2 Switch管理功能 ，可透過其 browser-based的操作介面，圖像化 的用戶界面Graphical User Interface (GUI) 統一集中管理 室內室外多個 EWS AP ，還提供priority-based configurations，即使管理人員沒有專業的經驗亦會快速管理使用。在管理各AP的同時還可以對其供電，極大地簡化了各客戶端的安裝和使用。 EWS系列Wireless Management Switch 和 EWS AP 協同使用時可以發揮出各自優勢，是一個極具網絡擴展性的解決方案，用戶可以快速部署、集中管理監控、無縫同步升級各設備，為對頻寬有高要求的酒店，小型公司和組織等，建立理想的高性能無線網絡基礎設施方案。
+EnGenius 8-Port GE PoE L2 Wireless Management Switch with 2 SFP – EWS2910P
+圖像化專業中央管理系統 統一管理EWS APs
+Layer 2 Switch 管理功能
+可管理的PoE供电
+圖像化專業中央管理系統 統一管理EWS APs
+EWS系列Wireless Management Switch 無線操作介面簡單易用，而且支援 non IE Browser ，包括Chrome, Firefox, Sarafi。 EWS Management Switch 與 EWS系列AP 協同使用時，能快速部署和輕鬆管理多部EWS AP。 EWS2910P 能支援 20個 EWS APs。管理員可隨時隨地無線登入操作介面遠程調整AP，而且可通過drag-n-drop形式去標示AP位置。操作介面提供 Map View & Floor Plan View 的選擇，以及透過 Visual Topology 來監控和以 Status Monitoring 分析AP的狀態，EWS系列 Wireless Management Switch 亦可控制 EWS系列AP 的 Seamless Roaming & Fast Handover ，提供無縫漫遊功能。
+管理員透過管理介面，即可進行:
+1) 統一管理 批量設定同款AP (Cluster AP management)
+2) 實時監控個別AP或整體網絡流量 (Access Point Status Monitoring)
+3) 無線客戶端圖譜 (Wireless Client Fingerprinting)
+4) 模擬AP於地圖上實際訊號覆蓋範圍 (Floor Plan View & Heat Map)
+5) 檢測周圍的AP的MAC address/ SSID/ Channel (Rogue AP Detection)
+6) 認證頁面功能 (Captive Portal)
+7) 掃描周圍射頻情況，自動選擇較好發射功率和信道分配(Background Scanning)
+8) 電郵通知不正常AP和控制器狀態 (Email Alert)
+9) Access points智能診斷（Intelligent diagnostics for access points）
+10) 無縫同步升級各設備（Bulk firmware upgrades）
+可管理的PoE供电
+EnGenius 無線管理解決方案的 EWS Wireless Management Switch 同時 具備Layer 2 PoE供電和交換 的功能，可以在不便於直接供電給AP、IP視頻監控應用設備的情況下，由EWS無線控制器對其供電。 EWS2910P 有 8個 支持802.3af標準供電的 Gigabit Ethernet ports ，總輸出可達61.6W，每個埠提供高達15.4W供電，也支持 2*SFP光纖接口接入 ，如無線AP、IP相機、VoIP電話等終端。基於很多終端設備不需要一個完整的15.4W功率，管理員可以 自動分配各設備 的供電功率，按需分配供電量，合理管理PoE供電，盡可能多地為更多設備進行供電。EWS的網絡管理功能可以讓管理員按需協調，從而大幅提升網絡的多功能性和監管各網絡之間的連接。
+Layer 2 Switch管理功能
+EWS Wireless Management Switch 無線控制器具備有 豐富的Layer 2管理功能 ，包括IGMP Snooping，SNMP，Spanning Tree，VLAN，Storm Control等。
+EWS2910P
+8-Port GE PoE L2 Wireless Management Switch with 2 SFP — for up to 20 APs
+PDF資料請按此
+“The Neutron Solution” 資料請按此:
+http://www.engeniustech.com/resources/Neutron_Solution_DS.pdf
+產品的功能及規格會依國家地區及硬件之版本而有所變化，建議您與當地的經銷商或零售商確認目前販售產品的規格。
+以上資訊如有更改，恕不另行通知。詳細資料請參考 EnGenius 官方網站 (https://www.engeniustech.com.sg/)
+Office Hour:
+Mon- Fri:  to ,  to ;
+Saturday, Sunday & Public Holidays: Closed
+Sales 14/F
+(852) 2541 2982
+sales@everbesthk.com
+Technical Support Flat B, 15/F
+(852) 2544 0103
+support@everbesthk.com
+永佳科技有限公司 EVERBEST Technologies Ltd.
+Address:
+香港中環永吉街11號永亨保險大廈14樓(銷售部)
+和15樓B室(產品技術支援部)
+14th Floor (Sales) ,
+Flat B, 15th Floor (Technical Support),
+Wing Hang Insurance Building
+11 Wing Kut Street, Central,
+Hong Kong
+地鐵站出口:上環站 E2出口
+MTR Exit: Sheung Wan E2
+©2017 Everbest Technologies Ltd. | Bringing Innovative Products into HK & Macau since 1991 |

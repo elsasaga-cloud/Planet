@@ -1,296 +1,172 @@
-# SB-151 microsens.com · home · https://www.microsens.com/ · fetched 2026-10-25T07:41:18Z · HTTP 200
-MICROSENS - Home
-X
-Customer Satisfaction
-At MICROSENS, the satisfaction of our customers is our top priority. You will help us to become even better!
-Start now
-EN
-DE
-ES
-FR
-PL
-Login
-Englisch
-Deutsch
-Español
-Français
-Polski
-Company
-Company Get to know our company, learn more about our history and solution portfolio, find out about current events, news and press releases, study our publications.
-Company About MICROSENS
-Application Areas
-Sustainability - Compliance - Certificates
-Milestones
-Locations
-Career
-Customer satisfaction survey
-Press/Events Press Releases
-Events
-Publications Brochures / Catalogues
-White Paper
-Success Stories
-Application Notes
-Products
-Products Find the right product for every area. Individually applicable and state of the art.
-FTTO - Fiber To The Office 10G Micro Switches
-Micro Switches
-Medical Micro Switches
-Desktop Switches
-Multiport Converter
-FTTO Installation Accessories
-FTTO Power Supplies PoE+
-Industrial Solutions Industrial 10G Switches
-Profi Line G6 Switches
-Profi Line Switches
-Profi Line Converter
-Ruggedized Micro Switches G6
-Entry Line Switches
-Entry Line Converter / Bridges
-Entry Line PoE Injectors
-Entry Line Extender VDSL2
-Wi-Fi / 5G
-Outdoor Box IP67
-Industrial Power Supplies
-Enterprise 19" Switches
-Enterprise Desktop Switches
-Media Converter / Bridges
-PC Slot Converter
-Enterprise Wi-Fi
-Optical Transport MSP3000
-MSP1000
-MSP800 (Enterprise Access)
-Passive Multiplexer
-Smart Building Solutions Central Smart Lighting Controller
-Smart Lighting Controller
-Smart I/O Controller
-Automation
-IP500
-Transceiver FE Transceiver
-GbE Transceiver
-10G Transceiver
-xWDM Transceiver
-compatible Transceiver
-NMP Software NMP Professional
-NMP Enterprise
-NMP Web+
-Support / Service Services
-Product-specific service
+# SB-151 optiwatch monitoring solution · home · https://optiwatchgroup.com/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+Remote Monitoring Solutions | Construction Site Security | Optiwatch Limited
+COMPANY
+About
+Partnerships
+SERVICES
+Video Surveillance
+Access Control
+Intrusion Detection
+Fire Prevention
+RESOURCES
+Projects
+Blog
+Cost Effective Security Through Innovative Technology
+REMOTE
+MONITORING SOLUTIONS
+Remotely monitored real time video surveillance or CCTV, intrusion detection, access control and fire prevention services to proactively protect your construction site.
+VIDEO
+SURVEILLANCE
+Remotely monitored video surveillance or CCTV services that use intelligent alarm enabled video recording systems to observe, monitor, detect, identify and prevent any suspicious activity.
+READ MORE
+ACCESS
+CONTROL
+Remotely monitored access control services that use specialised biometric face, card or fingerprint reading systems to restrict site entry and exit to authorised personnel only.
+READ MORE
+INTRUSION
+DETECTION
+Remotely monitored intrusion detection services that use motion sensing infrared systems to detect and instantly notfiy our 24/7 alarm and incident response teams of any potential intrusions.
+READ MORE
+FIRE
+PREVENTION
+Remotely monitored fire prevention services that use wireless radio signalling systems to detect and instantly notify our 24/7 alarm and incident response teams of a fire emergency.
+READ MORE
+ABOUT
+COMPLETE SECURITY
+We are a security solutions provider specialising in the development, deployment and management of a wide range of dynamic technology-driven remotely monitored security solutions, services and systems primarily for the construction industry.
+BACKGROUND
+Rooted In Security
+Optiwatch Limited was established in 2015 to provide remotely monitored video surveillance or cctv solutions primarily for the construction industry in London as the demand for more dynamic and cost effective technological security solutions increased.
+The company has now quickly grown to offer other virtual services like access control, intrusion detection and fire prevention solutions making it a one-stop-shop for all site security and safety solutions.
+VISION
+A Secure Environment
+We aim to provide long term reliable and sustainable solutions that will not only protect all our clients and their assets but also provide a safe and secure environment for them to concentrate on the development of their businesses.
+We also aim to equip, empower and educate all our clients with all the necessary knowledge and training required to adopt, promote and maintain a solid safety culture for themselves as well as their businesses.
+MISSION
+Cost Effective Solutions
+We aim to provide cost effective solutions to all our clients' security and safety problems through cutting edge innovations and the latest technology available in a bid to help them increase their productivity and keep them competitve.
+We also aim to provide high quality, simple, affordable and reliable solutions that will seamlessly integrate with and boost our clients' business models as they save valuable time, money and resources.
+Bespoke
 Solutions
-Solutions Fiber optic technology from MICROSENS offers application-specific solutions on different levels
-Applications Digital School
-PoE Lighting
-DC Lighting
-Building Automation
-Sensor technology
-Building Network
-Outdoor IP video network
-Outdoor Wifi Coverage
-Workplace Networking
-Metro Networks (MAN / WAN)
-Data Center Coupling
-Industrial Networks
-Business Sectors Public Sector
-Health & Care
-Research & Education
-Railway & Transport
-Public Utilities
-Banks & Insurance
-Airports
-Data Center
-Carrier
-Support
-Support Do you have questions that our website, data sheets or commissioning instructions could not answer?
-Support Support Request
-Service Level Agreements
-RMA Process
-Support Portal
-Training request
-Newsletter - TechNews
-Customer satisfaction survey
-Documentation Application Notes
-NMP Web+
-White Paper
-Brochures / Catalogues
-Downloads NMP
-Firmware
-Support Tools
-Smart Building Manager
-Smart Building Studio
-How to buy
-How to buy Would you like an offer tailored to your needs? Simply contact our sales team and we will be happy to send you an offer. Below you can find contact details of our respective sales managers.
-How to buy Request an offer
-Contact persons
-Contact formular
-Certificates & General Terms and Conditions
-Career
-Profi Line X
-Switches for maximum security with Layer 3, 10G, PoE++ and multi-gigabit ports
-Smart Sensor
-COLLECTING ENVIRONMENTAL DATA TO OPTIMISE ENERGY EFFICIENCY & WELLBEING IN BUILDINGS
-Smart Building Solutions
-IP-based building automation
-Enterprise Networks
-Optical Solutions for the modern building
-MICROSENS TechNews!
-Subscribe here!
-10G Micro Switch
-The Original - meaning high performance for efficient networks
-Industrial Ethernet
-High availability in harsh environments
-Optical Transport
-Flexible Connectivity
-SMART BUILDING SOLUTIONS
-IP-based building automation.
-ENTERPRISE NETWORKS
-Optical Solutions for the modern building
-INDUSTRIAL SOLUTIONS
-High availability in harsh environments
-OPTICAL TRANSPORT
-Flexible Connectivity
-HIGHLIGHTS
-Low Power Consumption SFP
-Micro Switch Variants
-Sensor Technology
-MICROSENS APPLICATIONS
-The selection of components suited to the respective application purpose takes place taking various criteria into
-consideration in order to create an ideal solution based on flexibility, future needs and cost optimisation.
-Outdoor WiFi Coverage
-Reliable communication and high-performance data exchange are the prerequisites for mobile applications. Whether Smartphone, IoT applications, Smart City or autonomous driving - they all require a comprehensive, seamless supply with high data rates. WiFi and 5G provide the necessary bandwidth. They need a powerful infrastructure to transmit the enormous amounts of data.
-The compact Ruggedized Micro Switches from MICROSENS are the ideal solution for the economical realisation of area-wide networks whose infrastructures do not justify the investment in Industrial Ethernet components, but do not get along with standard components. At the same time, they offer exactly the functions of Industrial Ethernet that are also required for WiFi coverage, star and ring topology, as well as decentralized intelligence for increased reliability. If the central connection fails, the Ruggedized Mirco Switch switches off the Power-over-Ethernet supply and thus the connected access point. In this way, the end devices can automatically connect to another access point and maintain communication. In connection with a central WiFi controller, only the access points are authenticated as network devices, then the entire data stream of the end devices is transmitted via tunneling and managed by the central WiFi controller. Complex, time-consuming authentication of each individual terminal device is no longer necessary.
-6-Port GbE Ruggedized Micro Switch G6 PoE+
-Product Brochure Ruggedized Micro Switch
-Reference Public WiFi Hamburg
-Medical Micro Switch
-High performance, reliable, secure
-With the Medical Switch, MICROSENS is setting new standards in terms of performance, reliability, and security for data networks in medical technology, hospitals, and medical practices. The device exceeds the strict stipulations in terms of electromagnetic compatibility, as well as the requirements of the Medical Products Law. The network accesses are decoupled galvanically by means of special insulators to protect patients and devices against fault currents from the network. For particularly high demands placed on network security in the medical environment, the Medical Switch off ers extensive security features, which make sure that confidential data will actually remain confidential. The Medical Switch builds on the proven, decentralised network architecture. The economic efficiency of this architecture has been established through independent surveys and numerous projects.
-Go To Medical Switches
-Product Brochure Medical Switch
-Reference Charité Berlin
-Robust network technology
-Network technology has become since indispensable in rail transportation, traffic control technology and in industrial environments long ago. Robust and reliable products from MICROSENS guarantee secure data transmission even under adverse conditions.
-The Ethernet ring technology developed by MICROSENS permits the setup of redundant ring structures in Ethernet networks. The ultra-fast protection mechanism provides short reaction time for mission critical and fail sensitive applications. The physical ring structure optimizes cabling demands and helps to save costs for optical cables.
-Go To Profi Line Switches
-Industrial Solutions Catalogue
-Success Story: Eurotunnel builds up a new IP network with MICROSENS industrial switches
-Building Network - Fiber To The Office
-Originally only used in the backbone area, fiber optics is now widely seen in the office and intranet area. The integration of data, telephony and video guarantees long-term investment security.
-The Fiber To The Office (FTTO) concept developed by MICROSENS enables such networks to be implemented in both a flexible and cost-effective manner.
-Under the name „Basic Fiber Optic Products” MICROSENS developed a product line of switches, converters, transceivers, adapter cards which fully complies with the market requirements regarding the pricing and the availability.
-Expert opinion confirms profitability of FTTO
-WIK-Consult, a leading telecommunications consulting company, carried out a cost comparison between a typical copper cabling system and FTTO in order to prove the economic efficiency. According to the report prepared by WIK-Consult, companies can save on average 30 percent of the costs for the IT building infrastructure by using FTTO. The study examined the acquisition and operating costs of various installation scenarios: Office environments in new and old buildings with 220 and 1040 workstations respectively. The detailed report contains over 30 pages of valuable information for planners and decision-makers. In addition to the investment costs for technology and installation, the running costs, such as for maintenance and care, as well as energy consumption, are also presented. We will be happy to send you the complete study on request. A Management Summary is available for free download on this website.
-Go To Micro Switches
-Product Brochure Micro Switch
-Reference The Bavarian Ministry of Culture
-MICROSENS PRODUCTS
-As an internationally successful manufacturer MICROSENS distributes its products worldwide. In addition to the company headquarters in Hamm, Westphalia, MICROSENS maintains sales offices in France and Poland in order to be able to optimally meet the differentiated requirements of its customers on site.
-NEWS
-10G Micro Switch
-FTTO in schools
-Smart Building Manager
-Contact Persons
-Contact Form
-YouTube
-LinkedIn
-Contact us
-Mail Telephone On-site
-Register with us
-Login request
-Company About MICROSENS
-Application Areas
-Sustainability - Compliance - Certificates
-Milestones
-Locations
-Career
-Customer satisfaction survey
-Publications Brochures / Catalogues
-White Paper
-Success Stories
-Application Notes
-Press/Events Press Releases
-Events
-Support Support Request
-Service Level Agreements
-RMA Process
-Support Portal
-Training request
-Newsletter - TechNews
-Customer satisfaction survey
-Downloads NMP
-Firmware
-Support Tools
-Smart Building Manager
-Smart Building Studio
-How to buy Request an offer
-Contact persons
-Contact formular
-Certificates & General Terms and Conditions
-© 2025 MICROSENS. All rights reserved.
-Imprint
+We design, develop and deploy tailored solutions to meet individual requirements, security concerns or operational models of any type and scale of site.
+APPROACH
+ENHANCED TECHNOLOGY
+We provide short or long-term security and safety solutions to fit any type of project usually by applying the best possible combination of virtual systems and manned services to meet individual business requirements.
+Dynamic Systems
+We deploy highly dynamic and versatile systems that easily integrate with one another to provide a range of services.
+Effective Services
+We provide services that mitigate risk and pro-actively prevent potential threats before they can cause any serious damage.
+Innovative Solutions
+We tailor our solutions to your individual requirements so that they can secure every phase of your project lifecycle.
+Regional
+Coverage
+We cover all areas in and around London where we are based to ensure a more dedicated and effective service experience for our clients.
+PROCESS
+INDEPTH CONSULTATION
+We take time to fully understand and carefully assess your security problem in order to provide you with a fitting solution that not only meets your problem but one that also saves you considerable effort, time and money over a sustained period of time.
+Consult
+We liaise with you to understand, analyse and validate your requirements.
+Survey
+We conduct an in-depth site survey to highlight any potential threats and vulnerabilities.
+Design
+We design a bespoke and fitting solution that will address every phase of your project lifecycle.
+Deploy
+We deploy, commission and test the solution before signing it off as ready for service.
+Monitor
+We remotely monitor and fully manage the overall security aspect for your project.
+Respond
+We prioritse and quickly respond to potential threats, incidents, queries and faults.
+Maintain
+We carry out periodical service health checks to ensure the agreed standard of service.
+Industry
+Standards
+We work to leading industry compliance and quality assurance standards including CHAS , Safecontractor , Constructionline , SMAS and Builder's Profile .
+SERVICES
+REMOTE MONITORING
+We remotely monitor a range of construction site video surveillance CCTV Remote Monitoring , intrusion detection, access control and fire prevention systems in real time from our 24/7 remote monitoring centre to facilitate a more pro-active response to emergencies.
+VIDEO
+SURVEILLANCE
+We design, deploy, manage and remotely monitor construction site video surveillance or CCTV systems that use intelligent alarm enabled video recording technology to observe, monitor, detect, identify and prevent any suspicious activity.
+Read More
+ACCESS
+CONTROL
+We design, deploy, manage and remotely monitor construction site access control systems that use specialised biometric face, card or fingerprint reading technology to restrict site entry and exit to authorised personnel only.
+Read More
+INTRUSION
+DETECTION
+We design, deploy, manage and remotely monitor construction site intrusion detection systems that use motion sensing infrared technology to detect and instantly notfiy our 24/7 alarm and incident response teams of any potential intrusions.
+Read More
+FIRE
+PREVENTION
+We design, deploy, manage and remotely monitor construction site fire prevention systems that use wireless radio signalling technology to detect and instantly notify our 24/7 alarm and incident response teams of a smoke, heat or fire emergency.
+Read More
+Rapid
+Deployments
+We deploy portable, scalable and flexible systems that are easy to transport, install and maintain within days of an order being placed.
+SERVICES
+FAILSAFE SUPPORT
+We offer inclusive key holding and alarm response services along with all our
+remotely monitored services, as well as static guards and mobile patrols to stand in for any unforeseen system or service failures.
+STATIC GUARDING
+We provide professional SIA licenced security personnel for temporary short or long term contracts as on-site static guards, gatemen, banksmen or traffic marshals. We work with our service partners to not only select the most suitable fit for your project requirements but we also equip them with the right skills and tools to carry out an outstanding job.
+MOBILE PATROLS
+We provide strategic mobile patrol services through our trusted partners who will deploy local units to look after your site as and when you’d like it monitored. This service is a good cost-saving alternative to a full-time static presence or CCTV system for sites that still need to be monitored on a regular basis or during specifically vulnerable times in the day or week.
+KEY HOLDING
+We provide specialised key holding services independently or in conjunction with our remotely monitored video surveillance, intrusion detection and fire prevention services to ensure a quick, effective and seamless response to any verified emergencies. We also partner with localised key holders where a site is more than 20-30 minutes from us for a quicker turn-around.
+ALARM RESPONSE
+We usually provide local alarm response services to support our remotely monitored or virtual security solutions for a proactive response to any triggered electronic alarms received, analysed and verified by our 24/7 remote monitoring centre. Our response teams will also usually hold the keys that grant necessary site access for effective threat mitigation.
+Real Time
+Network
+We have a real-time communications network in place that allows us to instantly receive and quickly respond to service or system alert notifications.
+PROJECTS
+STRONG PARTNERSHIPS
+We been fortunate enough to work on a wide range of projects that have given us the opportunity to grow into a dynamic security solutions provider. We are now in a much better position to use the wealth of experience gained to better serve our partners.
+PONTOON REACH
+An exciting development from Redrow and Peabody, located in the Royal Docks area of the London Borough of Newham.
+ST JOHNS ROAD
+A joint venture with Origin Housing to build new bedroom apartments for private sale, shared ownership and rent.
+CAPE OF GOOD HOPE
+Replacement homes for council tenants and resident leaseholders set to lose their homes to the HS2 railway project.
+REDBRICK ESTATE
+A redevelopment of the Redbrick Estate in Old Street as part of Islington’s council building programme for new homes.
+OLIVE SCHOOL
+A project awarded to wates construction to convert a former police station in hackney into a primary school.
+24/7
+Control Room
+We have a round-the-clock remote monitoring centre supported by a solid support system of local incident response teams to resolve any emergencies.
+UPDATES
+KNOWLEDGE BASE
+We will always make an effort to avail you with valuable information regarding best-practise security and safety in your individual sector. We will also keep you updated with the latest trends, inventions and innovations that continue to shape and steer the security industry.
+A Security Guard or A Remotely Monitored CCTV System?
+As the world of technology evolves, a number of innovative CCTV security solutions have sprung up as alternatives to manned guarding.
+When Is It The Right Time To Plan For Construction Site Security?
+Physical security plays a very important role in the success of any construction site project and will therefore be considered at some point.
+How To Accelerate Site Access In The Event Of An Emergency
+Many construction sites in the past always relied on gates or doors fitted with locks that would typically need a physical presence to manage site entry and exit.
+Some Practical Ways To Improve Construction Site Security
+The nature and composition of construction sites makes them more susceptible to various forms of crime like unauthorised trespassing, theft, vandalism, arson and sabotage.
+What To Consider In Selecting a Suitable Security Provider
+A lot more time and effort is now required more than ever before to choose the best possible fit for your overall long term business operational model.
+How A Control Room Is Used To Provide Remote Monitoring Solutions.
+A control room or remote monitoring centre is a technology-led command and control centre for remotely monitored services.
+Company
+About
+Partnerships
+Services
+Video Surveillance
+Access Control
+Intrusion Detection
+Fire Prevention
+Resources
+Projects
+Blog
+Address
+Unit 5 Industrial Trading Estate
+240-242 Lincoln Road, London,
+EN1 1SP, United Kingdom.
++44 (0) 208 443 0077
+marketing@optiwatchgroup.com
+© Optiwatch Limited.
 Privacy Policy
-Picture Credits
-GTC
-Cookie Settings
-Essentials
-Analytics
-In order to continuously optimize and improve our website, we are using cookies.
-By continuing to use the website, you agree to the use of cookies.
-Accept all
-Accept only essential
-Save and Close
-Get more info about used cookies
-Open cookie settings
-Essentials
-omCookieConsent
-Descr.:
-Saves the consent status of the user on the current domain
-Lifetime:
-1 year
-Provider:
-MICROSENS
-Analytics
-_gat_gtag_UA_126181822_1
-Descr.:
-Lifetime:
-Session
-Provider:
-Google
-_ga
-Descr.:
-Registers a unique ID that is used to generate statistical data about how the visitor uses the site.
-Lifetime:
-2 years
-Provider:
-Google
-_gac
-Descr.:
-Contains the user's campaign-related information, such as AdWords-website-conversion-tags.
-Lifetime:
-90 days
-Provider:
-Google
-_gat
-Descr.:
-Used by Google Analytics to limit the request rate.
-Lifetime:
-Session
-Provider:
-Google
-_gid
-Descr.:
-Registers a unique ID that is used to generate statistical data about how the visitor uses the site.
-Lifetime:
-Session
-Provider:
-Google
-LinkedIn Insight Tag
-Descr.:
-The purpose of the processing is to measure the impact of our advertisements and play out interest-based advertising
-Lifetime:
-----
-Provider:
-LinkedIn
-_gtm
-Descr.:
-Lifetime:
-Session
-Provider:
+|
+Cookie Policy

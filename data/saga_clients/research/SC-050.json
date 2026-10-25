@@ -1,0 +1,66 @@
+{
+ "code": "SC-050",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（wooridulinfo.com，快照 2026-10-21）",
+ "summary": "韩国 Wooridulinfo Co., Ltd（阿里巴巴 RFQ「Fortinet 交换机」（品牌指定采购）；KP Jinyoung Lee（CEO））；表内未跟进。",
+ "type": "IT 公司（韩国，品牌指定 RFQ）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：wooridulinfo.com",
+   "quote": "",
+   "url": "http://wooridulinfo.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "Fortinet交换机 / from: 阿里巴巴RFQ",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "Fortinet 交换机 RFQ",
+   "quote": "Fortinet交换机 / from: 阿里巴巴RFQ",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "品牌指定采购 RFQ（Fortinet），非白牌需求；c_sub=品类不符",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "韩国",
+  "other": "官网 wooridulinfo.com，语言 ?，快照状态 ok；角色判定来源：待核"
+ },
+ "business_lines": [
+  "IT（韩国）"
+ ],
+ "channels": {
+  "role": "IT 公司（韩国，品牌指定 RFQ）",
+  "region": "韩国",
+  "contact": "jylee@wooridulinfo.com"
+ },
+ "signals": [
+  "表内：Fortinet 交换机 / from: 阿里巴巴 RFQ；KP jinyoung lee, CEO",
+  "快照：内容为空"
+ ],
+ "risks": [
+  "品牌指定采购（Fortinet 原厂设备，非白牌）；非主攻区（韩国）"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 20,
+  "why": "RFQ 为 Fortinet 品牌指定采购（非白牌需求）、非主攻区 → 改 C（品类不符）"
+ },
+ "email_hook": "（不发送：品牌指定采购）"
+}

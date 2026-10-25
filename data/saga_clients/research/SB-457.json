@@ -2,50 +2,53 @@
  "code": "SB-457",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "在线（bma-networks.com，快照 2026-10-21）",
- "summary": "德国 BMA Networks / dierckgroup（企业 IT 系统集成：云、网络安全、托管服务、楼宇技术；案例 Extreme Fabric 网络设计、DEUTZ AG 工业以太网、FTTH 建设、医院 IT、模块化数据中心；表内「Networking」；KP Mats Hansen（Technical Lead，mats.hansen@））；表内 3 次跟进无回复。",
- "type": "企业 IT 系统集成商（德国，Extreme 生态）",
+ "website_status": "在线（pavotek.com.tr，快照 2026-10-21）",
+ "summary": "土耳其 Pavotek（电子与嵌入式系统、通信与网络技术、电力电子、IoT 方案；表内「工业物联网 工业 FS 自己的标，看着比较专业」；KP Serkan Ertürk（Project Manager）、hilal.kirlioglu@）；表内 2 次跟进无回复。",
+ "type": "土耳其电子/嵌入式方案商（自有标工业 FS；仅民用口径）",
  "size": "",
- "brands_seen": [
-  "Zyxel",
-  "Fortinet",
-  "Extreme"
- ],
+ "brands_seen": [],
  "evidence": [
   {
    "kind": "官网快照",
-   "claim": "官网标题：dierckgroup – IT, Service & Technik für Unternehmen；品类词 工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 数据中心 / 企业 IT / 网络交换 / PoE",
-   "quote": "Die dierckgroup bietet IT, Cloud, Cyber Security, Managed Services und Gebäudetechnik für Unternehmen – persönlich geplant und zuverlässig betreut.",
-   "url": "https://www.dierck-group.com/",
+   "claim": "官网标题：Pavotek；品类词 数据中心 / 企业 IT / 网络交换 / PoE",
+   "quote": "Pavotek stands as a frontrunner in electronic and embedded systems, communication and network technologies, power electronics, and IoT solutions...",
+   "url": "https://pavotek.com.tr/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
    "claim": "表内兴趣/备注",
-   "quote": "Networking",
+   "quote": "工业物联网 工业FS 自己的标 看着比较专业",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   },
   {
    "kind": "官网快照",
-   "claim": "dierckgroup 定位",
-   "quote": "Die dierckgroup bietet IT, Cloud, Cyber Security, Managed Services und Gebäudetechnik für Unternehmen ; DEUTZ AG – Industrial Ethernet ; Netzwerkdesign mit Extreme Fabric",
-   "url": "https://www.dierck-group.com/",
+   "claim": "Pavotek 定位",
+   "quote": "Pavotek stands as a frontrunner in electronic and embedded systems, communication and network technologies, power electronics, and IoT solutions",
+   "url": "https://pavotek.com.tr/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "Networking",
-   "quote": "Networking",
+   "claim": "工业物联网 工业 FS 自己的标",
+   "quote": "工业物联网 工业FS 自己的标 看着比较专业",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
  "kp": [
   {
-   "name": "Mats Hansen",
-   "title": "Technical Lead",
-   "email": "mats.hansen@bma-networks.com",
+   "name": "Serkan Ertürk",
+   "title": "Project Manager",
+   "email": "info@pavotek.com.tr",
+   "phone": "",
+   "source": "用户表"
+  },
+  {
+   "name": "Hilal Kırlıoğlu",
+   "title": "（职务待核）",
+   "email": "hilal.kirlioglu@pavotek.com.tr",
    "phone": "",
    "source": "用户表"
   }
@@ -58,79 +61,92 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "德国",
-  "other": "官网 bma-networks.com，语言 de，快照状态 ok；角色判定来源：官网文案"
+  "hq": "土耳其",
+  "other": "官网 pavotek.com.tr，语言 en，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "企业 IT / 网络 / OT 安全系统集成"
+  "电子 / 嵌入式系统 / 通信网络 / 电力电子 / IoT 方案"
  ],
  "channels": {
-  "role": "企业 IT 系统集成商（德国，Extreme 生态）",
-  "region": "德国",
-  "contact": "info@bma-networks.com、mats.hansen@bma-networks.com"
+  "role": "土耳其电子/嵌入式方案商（自有标工业 FS；仅民用口径）",
+  "region": "土耳其",
+  "contact": "info@pavotek.com.tr、hilal.kirlioglu@pavotek.com.tr"
  },
  "signals": [
-  "首页案例：Netzwerkdesign mit Extreme Fabric ; DEUTZ AG – Industrial Ethernet ; Buchholz Digital GmbH – FTTH-Ausbau ; Nordmark Pharma – Modulares Rechenzentrum",
-  "页面 /case-studies/deutz-ag-industrial-ethernet/、/it-solutions/cyber-security/industrial-security-ot/；kw datacenter 45 / industrial 29"
+  "官网：Pavotek stands as a frontrunner in electronic and embedded systems, communication and network technologies, power electronics, and IoT solutions；首页 WHERE IDEAS AND TECHNOLOGY MEET",
+  "表内：工业物联网 工业 FS 自己的标 看着比较专业；KP Serkan Erturk / Project Manager"
  ],
  "risks": [
-  "Extreme Fabric / Fortinet 生态：白牌仅 OT 接入补位",
-  "集成商项目型采购；3 次跟进无回复 → 改向 Technical Lead 具名首触"
+  "守界备注：土耳其电子/嵌入式方案商可能涉国防项目——只供民用工业通用交换机",
+  "自研能力强（嵌入式/通信），白牌仅二供；土耳其汇率敏感；2 次跟进无回复"
  ],
  "saga_fit": {
   "p1": "STI-288GPM",
-  "tier": 25,
-  "why": "工业以太网案例（DEUTZ）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）作车间接入补位；园区位 STC-424XGGPM-280W；Extreme Fabric 核心不可替"
+  "tier": 30,
+  "why": "自有标工业 FS（IIoT）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ 非 PoE STI-280GE（$50.5）贴 Pavotek 标；国防类项目不涉（守界）"
  },
- "email_hook": "Mats, for industrial-Ethernet projects like the DEUTZ AG case, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed switches (−40~75 °C, SNMP/CLI, CE/RoHS, neutral packing) from small lots as shop-floor access behind an Extreme core — is there a port count your OT projects keep needing?",
+ "email_hook": "Serkan, for the industrial Ethernet switches offered under the Pavotek label in your IIoT solutions, we can supply Marvell-based DIN-rail 8-GE/8-PoE + 2 SFP managed units (−40~75 °C, redundant power, CE/RoHS) in your housing from small lots — which configuration do your industrial projects use most?",
  "mail_review": {
   "binding": {
-   "level": "未触达（A 邮箱 12 封 2025→2026，无记录打开，0 回；收件 info@bma-networks.com, mats.hansen@bma-networks.com；主题多为「48 Port PoE Managed Switch、10G Enterprise SFP Switch」；Elsa 箱：`to:bma-networks.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 12 / 来 0）（第 74 批(j)））",
-   "type": "企业 IT 系统集成商（德国，Extreme 生态）",
-   "sieve": "1（只收到群发）",
-   "stop": "12 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "DE 主攻（四主）",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 12；用户表：「Networking」；研究档 risks：Extreme Fabric / Fortinet 生态：白牌仅 OT 接入补位"
+   "level": "读而不回（A/S 邮箱 17 封 2024→2026，其中 3 封被打开，0 回；收件 gizem.kiziltan@pavotek.com.tr, hilal.kirlioglu@pavotek.com.tr；被打开主题「Industrial PoE Switch、Booster PoE Switch」；Elsa 箱：`to:pavotek.com.tr` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 17 / 来 0）（第 74 批(i)））",
+   "type": "土耳其电子/嵌入式方案商（自有标工业 FS；仅民用口径）",
+   "sieve": "2（有人在读，无人回）",
+   "stop": "读而不回 = 内容未命中或没有当下需求",
+   "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
+   "lane": "TR 主攻（四主）",
+   "cadence": "一封；回了再说",
+   "evidence": "gmail_digest：out 17，Opened 标签 3（Simon 群发追踪）；用户表：「工业物联网 工业FS 自己的标 看着比较专业」；研究档 risks：守界备注：土耳其电子/嵌入式方案商可能涉国防项目——只供民用工业通用交换机"
   },
-  "situation": "德国 BMA Networks / dierckgroup（企业 IT 系统集成：云、网络安全、托管服务、楼宇技术；案例 Extreme Fabric 网络设计、DEUTZ AG 工业以太网、FTTH 建设、医院 IT、模块化数据中心；表内「Networking」；KP Mats Hansen（Technical Lead，mats.hansen@））；表内 3 次跟进无回复。",
-  "need": "工业以太网案例（DEUTZ）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）作车间接入补位；园区位 STC-424XGGPM-280W；Extreme Fabric 核心不可替",
-  "breakpoint": "Extreme Fabric / Fortinet 生态：白牌仅 OT 接入补位",
+  "situation": "土耳其 Pavotek（电子与嵌入式系统、通信与网络技术、电力电子、IoT 方案；表内「工业物联网 工业 FS 自己的标，看着比较专业」；KP Serkan Ertürk（Project Manager）、hilal.kirlioglu@）；表内 2 次跟进无回复。",
+  "need": "自有标工业 FS（IIoT）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ 非 PoE STI-280GE（$50.5）贴 Pavotek 标；国防类项目不涉（守界）",
+  "breakpoint": "守界备注：土耳其电子/嵌入式方案商可能涉国防项目——只供民用工业通用交换机",
   "saga_now": {
    "p1": "STI-288GPM",
-   "tier": 25,
-   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-07 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-17 $300（48 Port PoE Managed Switch）、2025-10-14 $280（10G Enterprise SFP Switch）",
-   "why": "工业以太网案例（DEUTZ）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）作车间接入补位；园区位 STC-424XGGPM-280W；Extreme Fabric 核心不可替",
+   "tier": 30,
+   "price": "首触锚价 STI-288GPM $85.5 EXW（主表档位（PDF 上限 $88；SA-016 2025-07 实报 $72 为分销量价）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-22 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-13 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-10-29 $65（10G Media Converter）、2026-05-08 $280（10G Enterprise SFP Switch）",
+   "why": "自有标工业 FS（IIoT）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ 非 PoE STI-280GE（$50.5）贴 Pavotek 标；国防类项目不涉（守界）。已打开的主题（3/17 封有打开记录）：「90W PoE Managed Switch」(2024-09-11)、「10G Media Converter」(2024-10-29)、「Saga Q3 Product Links」(2026-07-14) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-03-03)、Product Link_2026Q3(2026-07-14)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开",
-   "one_question": "Mats, for industrial-Ethernet projects like the DEUTZ AG case, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed switches (−40~75 °C, SNMP/CLI, CE/RoHS, neutral packing) from small lots as shop-floor access behind an Extreme core — is there a port count your OT projects keep needing?"
+   "when": "2026-11",
+   "channel": "A 邮箱 → gizem.kiziltan@pavotek.com.tr",
+   "action": "短信一问（email_hook）",
+   "one_question": "Serkan, for the industrial Ethernet switches offered under the Pavotek label in your IIoT solutions, we can supply Marvell-based DIN-rail 8-GE/8-PoE + 2 SFP managed units (−40~75 °C, redundant power, CE/RoHS) in your housing from small lots — which configuration do your industrial projects use most? Reference: STI-288GPM at $85.5 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
    {
-    "date": "2026-09-22",
+    "date": "2024-11-05",
     "dir": "去",
-    "who": "A 群发",
-    "quote": "48 Port PoE Managed Switch、10G Enterprise SFP Switch",
-    "why": "12 封 / 0 次打开 / 0 回｜首封 2025-09-17 → 末封 2026-09-22（12 去 / 0 来）",
+    "who": "Simon → Angora Networks（SA-077）附件 Turkey Client List.xlsx",
+    "quote": "名单行：「Gizem KIZILTAN industrial network info@pavotek.com.tr」",
+    "why": "Saga 2024-11-05 把本户列入交给 Angora（安卡拉，Saga 提议的欧盟/土耳其分销伙伴）的 64 家起步名单；此后 Saga 仍直发本户。若 Angora 已接触过本户，Saga 直发会与自己提议的渠道打架 → Q-51（默认：直发继续，Angora 报了价的户 Saga 只做技术支持）",
+    "k": "gmail_s 2024-11-05 Re: Invoice_5pcs STC-424DGGPM-280W（附件）+ Drive PI 7_土耳其 Turkey_Client_List.xlsx"
+   },
+   {
+    "date": "2026-09-17",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Industrial PoE Switch、Booster PoE Switch",
+    "why": "17 封 / 3 次打开 / 0 回｜首封 2024-06-24 → 末封 2026-09-17（17 去 / 0 来）",
     "k": "gmail_digest"
    },
    {
     "date": "2026-10-21",
     "dir": "用户表",
     "who": "Simon",
-    "quote": "Networking",
+    "quote": "工业物联网 工业FS 自己的标 看着比较专业",
     "why": "表内备注",
     "k": "用户表"
    }
   ],
-  "proof_gaps": [],
-  "draft_en": null,
+  "proof_gaps": [
+   "在 Saga 给 Angora 的 Turkey Client List（2024-11-05）里——Angora 是否接触过本户无记录（Q-51）"
+  ],
+  "draft_en": {
+   "subject": "One question — Industrial PoE Switch",
+   "body": "Hi Serkan,\n\nWe have sent you a few mails on \"Industrial PoE Switch\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor the industrial Ethernet switches offered under the Pavotek label in your IIoT solutions, we can supply Marvell-based DIN-rail 8-GE/8-PoE + 2 SFP managed units (−40~75 °C, redundant power, CE/RoHS) in your housing from small lots — which configuration do your industrial projects use most?\n\nReference price: DIN-rail 8-PoE + 2 SFP L2 managed industrial switch, 240 W (STI-288GPM) $85.5 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+  },
   "as_of": "2026-10-24"
  }
 }

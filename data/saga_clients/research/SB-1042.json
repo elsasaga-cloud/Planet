@@ -2,135 +2,138 @@
   "code": "SB-1042",
   "name_official": "",
   "researched_at": "2026-10-21",
-  "website_status": "在线（hyesungtechwin.com，快照 2026-10-21）",
-  "summary": "韩国 HYESUNG TECHWIN（hyesungtechwin.com / hstw.net：ICT、工业用光交换机、光传输设备、工业 MC、IoT 实时监控设备；表内「Bypass Ethernet Switch」「质量不错」；KP Kang In-Su（Director），电话 031-745-7005）；群发 22 次无回复。",
-  "type": "工业光通信设备商（韩国，bypass 需求）",
+  "website_status": "在线（iotkomponenty.sk，快照 2026-10-21）",
+  "summary": "斯洛伐克 IOT Components（iotkomponenty.sk；USR IoT（PUSR）蜂窝路由/串口服务器网店 USR-G781 / G806 / SDR 系列；表内「工业 FS、光猫一小部分，多数还是其他的」「产品不是很多」）；表内无跟进记录。",
+  "type": "小型 IoT 组件网店（USR 为主）",
   "size": "",
-  "brands_seen": [],
+  "brands_seen": [
+    "USR IoT"
+  ],
   "evidence": [
     {
       "kind": "官网快照",
-      "claim": "官网标题：hyesungtechwin.com",
-      "quote": "ICT, ì°ì ì©ê´ì¤ìì¹, ê´ì ì¡ì¥ë¹, ì°ì ì© ë¯¸ëì´ ì»¨ë²í°, IOT ì¤ìê° ëª¨ëí°ë§ ì¥ë¹",
-      "url": "https://hyesungtechwin.com/",
+      "claim": "官网标题：IOT Components；品类词 工业自动化 / OT 网络 / 无线 / WiFi / 光纤 / 媒体转换 / 网络交换 / PoE",
+      "quote": "IOT Components",
+      "url": "https://www.iotkomponenty.sk/en/",
       "date": "2026-10-21"
     },
     {
       "kind": "用户表",
       "claim": "表内兴趣/备注",
-      "quote": "Bypass Ethernet Switch；attn: Kang In-Su | telephone: 031-745-7005 | mobile.: 010-3368-2118 | fax.: 031-745-7006 | 网址: www.hyesungtechwin.com",
+      "quote": "工业FS 光猫 一小部分 多数还是其他的",
       "url": "（本地 Clients/ 表格，无公开 URL）",
       "date": "2026-10-21"
     },
     {
+      "kind": "官网快照",
+      "claim": "IOT Components 网店",
+      "quote": "IOT Components ; Deal Of The Day ; USR-G785 ; USR-SDR041 ; USR-SDR080",
+      "url": "https://www.iotkomponenty.sk/en/",
+      "date": "2026-10-21"
+    },
+    {
       "kind": "用户表",
-      "claim": "Bypass Ethernet Switch；质量不错",
-      "quote": "Bypass Ethernet Switch；质量不错；attn: Kang In-Su",
+      "claim": "工业 FS、光猫一小部分",
+      "quote": "工业FS 光猫 一小部分 多数还是其他的；产品不是很多",
       "url": "（本地 Clients/ 表格，无公开 URL）",
       "date": "2026-10-21"
     }
   ],
-  "kp": [
-    {
-      "name": "Kang In-Su",
-      "title": "Director",
-      "email": "kis@hstw.net",
-      "phone": "",
-      "source": "用户表"
-    }
-  ],
+  "kp": [],
   "grade_override": null,
   "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
   "deep": {
     "done_at": "2026-10-21",
     "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
   },
   "company_facts": {
-    "hq": "韩国",
-    "other": "官网 hyesungtechwin.com，语言 ?，快照状态 ok；角色判定来源：官网文案"
+    "hq": "斯洛伐克",
+    "other": "官网 iotkomponenty.sk，语言 en，快照状态 ok；角色判定来源：官网文案"
   },
   "business_lines": [
-    "工业光交换机 / 光传输 / 工业 MC / IoT 监控（韩国）"
+    "IoT 组件网店（USR 蜂窝路由 / 串口服务器）"
   ],
   "channels": {
-    "role": "工业光通信设备商（韩国，bypass 需求）",
-    "region": "韩国",
-    "contact": "insuner@hanmail.net、kis@hstw.net"
+    "role": "小型 IoT 组件网店（USR 为主）",
+    "region": "斯洛伐克",
+    "contact": "info@iotkomponenty.sk"
   },
   "signals": [
-    "官网 desc：ICT, 산업용광스위치, 광전송장비, 산업용 미디어 컨버터, IOT 실시간 모니터링 장비（乱码还原）",
-    "表内：Bypass Ethernet Switch；质量不错；attn: Kang In-Su | telephone: 031-745-7005"
+    "首页 Deal Of The Day：USR-G785 / USR-SDR041 / USR-SDR080 / USR-G761W",
+    "站内 kw：industrial 135 / ethernet 114"
   ],
   "risks": [
-    "bypass 款不在 Saga 列表（以 SmartByte 型号替代，注明）；非主攻区（T5，韩国；KC 由客户侧）；自有产品线（可能有既定 ODM）；22 次无回复；备用邮箱 hanmail 免费邮箱"
+    "小网店，产品少，量小",
+    "小国（SK）非主动开发区；无具名 KP"
   ],
   "saga_fit": {
-    "p1": "STI-280GE",
-    "tier": 30,
-    "why": "Bypass 需求 → Saga 列表无 bypass 款，以 SmartByte LT-IS6312GP-4GX8GT-FBP（$202.1 @30%，注明）替代；常规工业 8 GE + 2 SFP 管理 STI-280GE（$50.5）、工业千兆 MC STI-110GE（$24.3）贴标"
+    "p1": "STI-050GE",
+    "tier": 20,
+    "why": "USR 工业路由配套 → 工业 5 GE 非管理 STI-050GE（$17.0 @20%）、8 GE STI-080GE（$31.4）；光猫 Saga 不做"
   },
-  "email_hook": "Mr. Kang, following your interest in bypass Ethernet switches: we can supply an industrial 8-GE + 4-SFP managed switch with hardware bypass plus DIN-rail 8-GE + 2 SFP managed units and gigabit MCs in your packaging from small lots, CE/RoHS; KC by your side — which bypass port configuration does your application need?",
+  "email_hook": "Next to the USR routers and serial servers you list, we supply compact DIN-rail 5/8-port gigabit industrial switches (−40~75 °C, neutral packing) from single units — would a small industrial switch SKU fit your IoT range?",
   "mail_review": {
     "binding": {
-      "level": "读而不回（A/S 邮箱 38 封 2024→2026，其中 2 封被打开，0 回；收件 insuner@hanmail.net, kis@hstw.net；被打开主题「Managed Optical Bypass Switch、Marvell Industrial Alert System」）；Elsa 1:1 去信 1 封（2025-02-24「L3 Managed Switch」；To 仅本户 insuner@hanmail.net；Bcc 未逐封读头；同类名单抽读 24 封均无 Bcc；此后再未进 Elsa 任何名单——全箱 `from:e.sagatelecom to:insuner@hanmail.net` 仅此 1 条，complete）（第 74 批(m)）",
-      "type": "工业光通信设备商（韩国，bypass 需求）",
-      "sieve": "2（有人在读，无人回）",
-      "stop": "读而不回 = 内容未命中或没有当下需求",
-      "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
-      "lane": "KR 次级（点名）",
-      "cadence": "一封；回了再说",
-      "evidence": "gmail_digest：out 38，Opened 标签 2（Simon 群发追踪）；用户表：「Bypass Ethernet Switch；attn: Kang In-Su | telephone: 031-745-7005 | mobile.: 010」；研究档 risks：bypass 款不在 Saga 列表（以 SmartByte 型号替代，注明）；非主攻区（T5，韩国；KC 由客户侧）；自有产品线（可能有既定 ODM）；22 "
+      "level": "Elsa 群发 To 直收 13 轮 2025-02-17→2026-08-13（本户是「SK/RO/BE/FI/PT/IE/SE/HU/MT/NZ/AE+非洲散户」批次的锚：首轮 2025-02-17 本户在 Bcc、To 为 info@megamobile.be，2025-03-08 起每轮 To 本户、其余客户 Bcc；最近 2026-08-13「24 Port PoE Managed Switch」，最近一封正文「Price: 170USD/PC」），0 回（第 74 批核对 msg 19ffb6888b465b84）；S/A 箱：S/A 邮箱均无往来；来源：用户表「工业FS 光猫 一小部分 多数还是其他的」",
+      "type": "小型 IoT 组件网店（USR 为主）",
+      "sieve": "—（未入筛）",
+      "stop": "Elsa 群发 BCC 触达过（最近 2026-08-13）无回；S/A 箱从未单独发过",
+      "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+      "lane": "斯洛伐克（欧洲全域主攻）",
+      "cadence": "首封后看打开",
+      "evidence": "gmail_digest：out 0；用户表：「工业FS 光猫 一小部分 多数还是其他的」；研究档 risks：小网店，产品少，量小；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To info@iotkomponenty.sk）2025-02-17→2026-08-13 共 13 轮群发（24 Port Fiber Switch、Industrial PoE Switch、48 Port PoE Managed Switch、8 Port Industrial PoE Switch、Marvell Alleycat5 Solution、16 Port Ethernet Switch、10G Enterprise SFP Switch、OEM Core Switching Solution、Updated Ethernet Switches Links、Marvell Managed Commercial Switches、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断"
     },
-    "situation": "韩国 HYESUNG TECHWIN（hyesungtechwin.com / hstw.net：ICT、工业用光交换机、光传输设备、工业 MC、IoT 实时监控设备；表内「Bypass Ethernet Switch」「质量不错」；KP Kang In-Su（Director），电话 031-745-7005）；群发 22 次无回复。",
-    "need": "Bypass 需求 → Saga 列表无 bypass 款，以 SmartByte LT-IS6312GP-4GX8GT-FBP（$202.1 @30%，注明）替代；常规工业 8 GE + 2 SFP 管理 STI-280GE（$50.5）、工业千兆 MC STI-110GE（$24.3）贴标",
-    "breakpoint": "bypass 款不在 Saga 列表（以 SmartByte 型号替代，注明）；非主攻区（T5，韩国；KC 由客户侧）；自有产品线（可能有既定 ODM）；22 次无回复；备用邮箱 hanmail 免费邮箱",
+    "situation": "斯洛伐克 IOT Components（iotkomponenty.sk；USR IoT（PUSR）蜂窝路由/串口服务器网店 USR-G781 / G806 / SDR 系列；表内「工业 FS、光猫一小部分，多数还是其他的」「产品不是很多」）；表内无跟进记录。",
+    "need": "USR 工业路由配套 → 工业 5 GE 非管理 STI-050GE（$17.0 @20%）、8 GE STI-080GE（$31.4）；光猫 Saga 不做",
+    "breakpoint": "小网店，产品少，量小",
     "saga_now": {
-      "p1": "STI-280GE",
-      "tier": 30,
-      "price": "首触锚价 STI-280GE $46 EXW（Saga 2025 Realtek 工业线对外价 $46（非管理工业线不用档位价 ㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-06-27 $300（48 Port PoE Managed Switch）、2025-08-22 $240（24 Port Fiber Switch）、2025-09-26 $280（10G Enterprise SFP Switch）、2026-06-11 $16000（32 Port 400GB DC Switch）",
-      "why": "Bypass 需求 → Saga 列表无 bypass 款，以 SmartByte LT-IS6312GP-4GX8GT-FBP（$202.1 @30%，注明）替代；常规工业 8 GE + 2 SFP 管理 STI-280GE（$50.5）、工业千兆 MC STI-110GE（$24.3）贴标。已打开的主题（2/38 封有打开记录）：「Optional Marvell Chipset Solutions」(2025-12-10)、「Marvell Industrial Alert System」(2025-12-30) → 读者兴趣主题类别不明（看原主题）｜已发资料（勿重发）：Saga Software Function List_7.3, 7.4, (2025-10-23)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）",
+      "p1": "STI-050GE",
+      "tier": 20,
+      "price": "首触锚价 STI-050GE $25 EXW（最近实报 $25（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-02-17 $240（24 Port Fiber Switch = STC-4168XGGCM 单 AC 稿，Elsa 箱 1 轮 2025-02-17；同款 2025-09 起群发 $280（双 AC 稿）——再提这款说 $280）；2026-08-13 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-13；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
+      "why": "USR 工业路由配套 → 工业 5 GE 非管理 STI-050GE（$17.0 @20%）、8 GE STI-080GE（$31.4）；光猫 Saga 不做",
       "repeat": [],
       "gaps": []
     },
     "next_move": {
-      "when": "2026-11",
-      "channel": "A 邮箱 → insuner@hanmail.net",
-      "action": "首封前知悉：Elsa 仅 2025-02-24 单发过 1 封「L3 Managed Switch」，之后没再碰他（第 74 批(m)）；短信一问（email_hook）",
-      "one_question": "Mr. Kang, following your interest in bypass Ethernet switches: we can supply an industrial 8-GE + 4-SFP managed switch with hardware bypass plus DIN-rail 8-GE + 2 SFP managed units and gigabit MCs in your packaging from small lots, CE/RoHS; KC by your side — which bypass port configuration does your application need? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity)."
+      "when": "待 Simon 排期（首封）",
+      "channel": "A 邮箱 → info@iotkomponenty.sk（无具名 KP；公用地址）",
+      "action": "首封前知悉：Elsa 已 To 直发 13 轮（2025-02-17→2026-08-13）（最近 2026-08-13「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 75 批(k) 2026-10-25：英文信稿已写 `draft_en`）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
+      "one_question": "Next to the USR routers and serial servers you list, we supply compact DIN-rail 5/8-port gigabit industrial switches (−40~75 °C, neutral packing) from single units — would a small industrial switch SKU fit your IoT range? Reference: STI-050GE at $25 USD EXW (MOQ 1, 15-day validity)."
     },
     "facts": [
       {
-        "date": "2025-02-24",
-        "dir": "out",
-        "who": "Elsa → insuner@hanmail.net",
-        "quote": "L3 Managed Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
-        "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
-        "k": "elsa_1to1",
-        "msg_id": "19536538cdd068f5"
+        "date": "2025-02-17",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To info@megamobile.be，SK/RO/BE/FI/PT/IE/SE/HU/MT/NZ/AE+非洲散户 批次）",
+        "quote": "24 Port Fiber Switch — I would like to recommend a switch, 24 port 1G SFP+8 port 1G SFP/RJ45 combo +4*10G SFP+. It is a price-competitive aggregation switch. Price: 240usd/p",
+        "why": "Elsa 箱群发 BCC 触达证据（命中地址 info@iotkomponenty.sk, iotkomponenty.sk）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+        "k": "elsa_bcc"
       },
       {
-        "date": "2026-09-16",
+        "date": "2026-08-13",
         "dir": "去",
-        "who": "A/S 群发",
-        "quote": "Managed Optical Bypass Switch、Marvell Industrial Alert System",
-        "why": "38 封 / 2 次打开 / 0 回｜首封 2024-12-11 → 末封 2026-09-16（38 去 / 0 来）",
-        "k": "gmail_digest"
+        "who": "Elsa 群发（To 直收：本户是「SK/RO/BE/FI/PT/IE/SE/HU/MT/NZ/AE+非洲散户」批次的锚，其余客户在 Bcc）",
+        "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
+        "why": "Elsa 箱群发直达证据（To info@iotkomponenty.sk）；该批次 13 轮 2025-02-17→2026-08-13 每轮都以本户为 To；S/A digest 看不到 Elsa 的发信",
+        "k": "elsa_bcc"
       },
       {
         "date": "2026-10-21",
         "dir": "用户表",
         "who": "Simon",
-        "quote": "Bypass Ethernet Switch；attn: Kang In-Su | telephone: 031-745-7005 | mobile.: 010-3368-2118 | fax.: 031-745-7006 | 网址: ww",
+        "quote": "工业FS 光猫 一小部分 多数还是其他的",
         "why": "表内备注",
         "k": "用户表"
       }
     ],
-    "proof_gaps": [],
+    "proof_gaps": [
+      "无邮件往来"
+    ],
     "draft_en": {
-      "subject": "One question — Managed Optical Bypass Switch",
-      "body": "Hi Insuner,\n\nWe have sent you a few mails on \"Managed Optical Bypass Switch\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nMr. Kang, following your interest in bypass Ethernet switches: we can supply an industrial 8-GE + 4-SFP managed switch with hardware bypass plus DIN-rail 8-GE + 2 SFP managed units and gigabit MCs in your packaging from small lots, CE/RoHS; KC by your side — which bypass port configuration does your application need?\n\nReference price: DIN-rail 8-GE + 2 SFP unmanaged industrial switch (STI-280GE) $46 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+      "subject": "A small industrial switch SKU next to your USR routers",
+      "body": "Hello IOT Components team,\n\nOver the past two years you had a steady stream of product mails from us - most recently \"24 Port PoE Managed Switch\" on 13 August 2026 - and there was no reason to answer a mass mail. This one is specific, and much smaller.\n\nNext to the USR routers and serial servers you list, a compact DIN-rail industrial switch fits the same cabinet: 5 x Gigabit, 12-58 V DC, -40 to 75 C, CE/RoHS, neutral packing - model STI-050GE - $25 USD EXW (MOQ 1, 15-day validity); the 8-port version, STI-080GE, $32.5.\n\nOne question: would a small industrial switch SKU fit your IoT range, or do your customers already bring their own?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
     },
-    "as_of": "2026-10-24"
+    "as_of": "2026-10-25"
   }
 }

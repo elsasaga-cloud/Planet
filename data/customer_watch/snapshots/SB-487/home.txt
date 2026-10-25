@@ -1,448 +1,157 @@
-# SB-487 Cong Ty TNHH CONG NGHE QUANG LAM · home · https://www.wintop.com.vn/ · fetched 2026-10-25T07:41:18Z · HTTP 200
-Thiết bị và phụ kiện quang – Công ty TNHH Công Nghệ Quang Lâm
-Toggle navigation
-Trang chủ
-Sản phẩm
-Quay lại
-Thiết bị mạng và truyền dẫn
-Quay lại
-Enterprise Switches
-Thiêt bị chuyển đổi E1 sang Ethernet
-Bộ chuyển đổi RS232/RS422/RS485
-Modem quang E1 - PDH
-Switch POE
-Router
-Thiết bị PDH
-Thiết bị GPON OLT và ONU
-Thoại sang quang
-Switch/Converter Công Nghiệp
-Module quang
-Quay lại
-Module quang SFP 155M-1.25G
-Module quang SFP+/XFP 10G
-Module quang SFP+ 4G/6G/8G/16G/32G
-Module 25G/40G/100G
-Module quang QSFP56 200G
-Module quang GPON
-Module cáp đồng SFP RJ45
-Cáp nhảy DAC AOC
-Dây nhảy quang nối quang
-Quay lại
-Dây nhảy quang công nghiệp
-Dây nhảy quang Indoor SM
-Dây nhảy quang Indoor MM
-Dây nhảy quang Outdoor
-Dây nhảy quang dạng bó
-Dây nhảy quang MPO
-Dây nối quang Pigtail
-Dây nhảy quang Polymer Cladded Fiber PCF HCS
-Dụng cụ thi công quang
-Quay lại
-Máy hàn cáp quang
-Dao cắt chính xác sợi quang
-Kìm tuốt sợi quang
-Bút dò lỗi sợi quang VFL
-Dụng cụ vệ sinh quang
-Dụng cụ rọc vòng vỏ cáp
-Dụng cụ khác
-Bộ chuyển đổi quang điện
-Thiết bị đo viễn thông
-Quay lại
-Máy đo quang OTDR
-Máy đo công suất quang
-Máy đo cáp đồng
-Máy đo tín hiệu RF
-Hộp phối quang ODF
-Quay lại
-ODF gắn Rack khay Trượt
-ODF gắn Rack Cố Định
-Hộp ODF gắn thanh DIN
-ODF OUTDOOR
-ODF bằng nhựa trong nhà
-ODF bằng thép treo tường trong nhà
-Phụ kiện vật tư cáp đồng và RF
-Quay lại
-Băng keo
-Phụ kiện RF
-Dụng cụ thi công cáp mạng cáp thoại
-Thiết bị và phụ kiện CATV
-Hộp cáp phiến Krone + Đế Inox
-Vật tư cơ khí
-Phụ kiện quang
-Quay lại
-Bộ chia quang PLC FBT CWDM DWDM
-Fast Connector
-Adapter quang
-Suy hao quang
-Rệp nối quang
-Loopback quang
-Thiết bị nguồn và phụ kiện
-Quay lại
-Bộ đổi nguồn AC220V->DC5V
-Bộ đổi nguồn AC220V->DC48V
-Phụ kiện thiết bị nguồn - UPS
-Thanh nguồn PDU
-Phụ kiện Máy hàn quang và OTDR
-Quay lại
-Adapter sạc Máy hàn quang và OTDR
-Pin sạc máy hàn quang và OTDR
-Điện cực Máy hàn quang
-Màn hình thay thế cho Máy hàn quang
-Đầu đo OTDR - Máy đo công suất quang
-Măng xông quang
-Thiết bị và vật tư tiêu hao sản xuất Dây nhảy quang
-Vât tự và phụ kiện cáp mạng
-Quay lại
-Đầu nối RJ9/RJ11/RJ12/RJ45/RJ50
-Nhân mạng - Modular Jack
-Cáp mạng
-Đầu Boot cho cáp mạng
-Mặt nạ mạng
-Patch cord Mạng
-Patch Panel Mạng
-Phụ kiện PLC-HMI-SERVO
-Quay lại
-Cáp lập trình PLC
-Pin nuôi nguồn PLC
-Cáp kết nối HMI với PLC
-Cáp lập trình HMI
-Đầu nối Servo - Encoder - Nguồn
-Đầu nối DB9/DB15/DB25/DB37
-Máy in và nhãn in cho hệ thống điện nhẹ
-Dụng cụ kéo cáp
-Hàng đã qua sử dụng
-Hổ trợ
-Quay lại
-Danh mục sản phẩm lắp ráp
-Thủ thuật
-Download
-Thông tin công nghệ
-Dịch vụ
-Quay lại
-Dịch vụ cho thuê ghi kéo cáp ngầm
-Dịch vụ cho thuê Máy hàn cáp quang
-Dịch vụ cho thuê Máy đo quang OTDR
-Dịch vụ Cho thuê Máy test băng thông FLUKE DTX-1800
-Giới thiệu
-Liên hệ
-Công ty TNHH Công Nghệ Quang Lâm
-0
-Trang chủ
-Sản phẩm
-Thiết bị mạng và truyền dẫn
-Enterprise Switches
-Thiêt bị chuyển đổi E1 sang Ethernet
-Bộ chuyển đổi RS232/RS422/RS485
-Modem quang E1 - PDH
-Switch POE
-Router
-Thiết bị PDH
-Thiết bị GPON OLT và ONU
-Thoại sang quang
-Switch/Converter Công Nghiệp
-Module quang
-Module quang SFP 155M-1.25G
-Module quang SFP+/XFP 10G
-Module quang SFP+ 4G/6G/8G/16G/32G
-Module 25G/40G/100G
-Module quang QSFP56 200G
-Module quang GPON
-Module cáp đồng SFP RJ45
-Cáp nhảy DAC AOC
-Dây nhảy quang nối quang
-Dây nhảy quang công nghiệp
-Dây nhảy quang Indoor SM
-Dây nhảy quang Indoor MM
-Dây nhảy quang Outdoor
-Dây nhảy quang dạng bó
-Dây nhảy quang MPO
-Dây nối quang Pigtail
-Dây nhảy quang Polymer Cladded Fiber PCF HCS
-Dụng cụ thi công quang
-Máy hàn cáp quang
-Dao cắt chính xác sợi quang
-Kìm tuốt sợi quang
-Bút dò lỗi sợi quang VFL
-Dụng cụ vệ sinh quang
-Dụng cụ rọc vòng vỏ cáp
-Dụng cụ khác
-Bộ chuyển đổi quang điện
-Thiết bị đo viễn thông
-Máy đo quang OTDR
-Máy đo công suất quang
-Máy đo cáp đồng
-Máy đo tín hiệu RF
-Hộp phối quang ODF
-ODF gắn Rack khay Trượt
-ODF gắn Rack Cố Định
-Hộp ODF gắn thanh DIN
-ODF OUTDOOR
-ODF bằng nhựa trong nhà
-ODF bằng thép treo tường trong nhà
-Phụ kiện vật tư cáp đồng và RF
-Băng keo
-Phụ kiện RF
-Dụng cụ thi công cáp mạng cáp thoại
-Thiết bị và phụ kiện CATV
-Hộp cáp phiến Krone + Đế Inox
-Vật tư cơ khí
-Phụ kiện quang
-Bộ chia quang PLC FBT CWDM DWDM
-Fast Connector
-Adapter quang
-Suy hao quang
-Rệp nối quang
-Loopback quang
-Thiết bị nguồn và phụ kiện
-DC5V">Bộ đổi nguồn AC220V->DC5V
-DC48V">Bộ đổi nguồn AC220V->DC48V
-Phụ kiện thiết bị nguồn - UPS
-Thanh nguồn PDU
-Phụ kiện Máy hàn quang và OTDR
-Adapter sạc Máy hàn quang và OTDR
-Pin sạc máy hàn quang và OTDR
-Điện cực Máy hàn quang
-Màn hình thay thế cho Máy hàn quang
-Đầu đo OTDR - Máy đo công suất quang
-Măng xông quang
-Thiết bị và vật tư tiêu hao sản xuất Dây nhảy quang
-Vât tự và phụ kiện cáp mạng
-Đầu nối RJ9/RJ11/RJ12/RJ45/RJ50
-Nhân mạng - Modular Jack
-Cáp mạng
-Đầu Boot cho cáp mạng
-Mặt nạ mạng
-Patch cord Mạng
-Patch Panel Mạng
-Phụ kiện PLC-HMI-SERVO
-Cáp lập trình PLC
-Pin nuôi nguồn PLC
-Cáp kết nối HMI với PLC
-Cáp lập trình HMI
-Đầu nối Servo - Encoder - Nguồn
-Đầu nối DB9/DB15/DB25/DB37
-Máy in và nhãn in cho hệ thống điện nhẹ
-Dụng cụ kéo cáp
-Hàng đã qua sử dụng
-Hổ trợ
-Danh mục sản phẩm lắp ráp
-Thủ thuật
-Download
-Thông tin công nghệ
-Dịch vụ
-Dịch vụ cho thuê ghi kéo cáp ngầm
-Dịch vụ cho thuê Máy hàn cáp quang
-Dịch vụ cho thuê Máy đo quang OTDR
-Dịch vụ Cho thuê Máy test băng thông FLUKE DTX-1800
-Giới thiệu
-Liên hệ
-0
-Danh sách sản phẩm
-Thiết bị mạng và truyền dẫn
-Enterprise Switches
-Thiêt bị chuyển đổi E1 sang Ethernet
-Bộ chuyển đổi RS232/RS422/RS485
-Modem quang E1 - PDH
-Switch POE
-Router
-Thiết bị PDH
-Thiết bị GPON OLT và ONU
-Thoại sang quang
-Switch/Converter Công Nghiệp
-Module quang
-Module quang SFP 155M-1.25G
-Module quang SFP+/XFP 10G
-Module quang SFP+ 4G/6G/8G/16G/32G
-Module 25G/40G/100G
-Module quang QSFP56 200G
-Module quang GPON
-Module cáp đồng SFP RJ45
-Cáp nhảy DAC AOC
-Dây nhảy quang nối quang
-Dây nhảy quang công nghiệp
-Dây nhảy quang Indoor SM
-Dây nhảy quang Indoor MM
-Dây nhảy quang Outdoor
-Dây nhảy quang dạng bó
-Dây nhảy quang MPO
-Dây nối quang Pigtail
-Dây nhảy quang Polymer Cladded Fiber PCF HCS
-Dụng cụ thi công quang
-Máy hàn cáp quang
-Dao cắt chính xác sợi quang
-Kìm tuốt sợi quang
-Bút dò lỗi sợi quang VFL
-Dụng cụ vệ sinh quang
-Dụng cụ rọc vòng vỏ cáp
-Dụng cụ khác
-Bộ chuyển đổi quang điện
-Thiết bị đo viễn thông
-Máy đo quang OTDR
-Máy đo công suất quang
-Máy đo cáp đồng
-Máy đo tín hiệu RF
-Hộp phối quang ODF
-ODF gắn Rack khay Trượt
-ODF gắn Rack Cố Định
-Hộp ODF gắn thanh DIN
-ODF OUTDOOR
-ODF bằng nhựa trong nhà
-ODF bằng thép treo tường trong nhà
-Phụ kiện vật tư cáp đồng và RF
-Băng keo
-Phụ kiện RF
-Dụng cụ thi công cáp mạng cáp thoại
-Thiết bị và phụ kiện CATV
-Hộp cáp phiến Krone + Đế Inox
-Vật tư cơ khí
-Phụ kiện quang
-Bộ chia quang PLC FBT CWDM DWDM
-Fast Connector
-Adapter quang
-Suy hao quang
-Rệp nối quang
-Loopback quang
-Thiết bị nguồn và phụ kiện
-DC5V">
-Bộ đổi nguồn AC220V->DC5V
-DC48V">
-Bộ đổi nguồn AC220V->DC48V
-Phụ kiện thiết bị nguồn - UPS
-Thanh nguồn PDU
-Phụ kiện Máy hàn quang và OTDR
-Adapter sạc Máy hàn quang và OTDR
-Pin sạc máy hàn quang và OTDR
-Điện cực Máy hàn quang
-Màn hình thay thế cho Máy hàn quang
-Đầu đo OTDR - Máy đo công suất quang
-Măng xông quang
-Thiết bị và vật tư tiêu hao sản xuất Dây nhảy quang
-Vât tự và phụ kiện cáp mạng
-Đầu nối RJ9/RJ11/RJ12/RJ45/RJ50
-Nhân mạng - Modular Jack
-Cáp mạng
-Đầu Boot cho cáp mạng
-Mặt nạ mạng
-Patch cord Mạng
-Patch Panel Mạng
-Phụ kiện PLC-HMI-SERVO
-Cáp lập trình PLC
-Pin nuôi nguồn PLC
-Cáp kết nối HMI với PLC
-Cáp lập trình HMI
-Đầu nối Servo - Encoder - Nguồn
-Đầu nối DB9/DB15/DB25/DB37
-Máy in và nhãn in cho hệ thống điện nhẹ
-Dụng cụ kéo cáp
-Hàng đã qua sử dụng
-Hỗ trợ trực tuyến
-Nhân viên kinh doanh
-028-38313.119
-Số hotline
-0908.505.685/0949.10.22.88
-Thời gian làm việc
-Bất kể khi nào bạn cần, hỗ trợ 24/7, 7 ngày trong tuần
-Công ty TNHH Công Nghệ Quang Lâm
-Module quang SFP - SFP+ XFP QSFP
-Liên hệ
-Cable AOC QSFP28 100G, Length 3M, WT-D-AOC-3M
-Liên hệ
-Cable AOC SFP28 to SFP28 25G dài 30M
-Liên hệ
-Cable DAC 25G SFP28 to SFP28 30AWG, WT-SFP28-DAC
-Liên hệ
-Cable DAC QSFP+ to QSFP+ 40G dài 3M
-Liên hệ
-Cable DAC QSFP+ To QSFP+ 40G Dài 5M
-Liên hệ
-Cable DAC QSFP28 To QSFP28 100G Dài 1M
-Xem thêm
-Converter quang/POE chuẩn Công Nghiệp
-Liên hệ
-Bộ chuyển đổi quang chuẩn công nghiệp 1x100M FX SC Duplex SM 20km + 1x10/100M RJ45, DIN Rail, AC220V, P/N: WT-RS202-1F1T
-Liên hệ
-Bộ chuyển đổi quang chuẩn công nghiệp 1x100M FX SC Duplex SM 20km + 1x10/100M RJ45, DIN Rail, Dual Power DC Input 9-60VDC, P/N: WT-RS202-1F1T
-Liên hệ
-Bộ chuyển đổi quang công nghiệp 10/100/1000M + SFP 1000M slot, without SFP, dual DC Input power 9-48V, WT-RS232-1GF1GT
-Liên hệ
-Bộ chuyển đổi quang điện 4x10/100/1000M sang quang, 1 sợi quang đầu A+1 sợi quang đầu B, P/N: FTK-CMC-4GE-2SC
-Liên hệ
-Bộ chuyển đổi quang điện chuẩn công nghiệp 10/100M + 1 cổng SFP 155M, Dual DC12-46V P/N: IMC1100-SFP - Hãng AOA
-Liên hệ
-IMC3100P-SFP - Converter quang công nghiệp 10/100/1000M POE,SFP GE slot, Dual DC48-58V
-Liên hệ
-IMS3214-608P Industrial Managed Switch 8x10/100/1000M POE + 6xSFP 100/1000M IMS3214-8P6S
-Liên hệ
-Industrial Switch 5x10/100M IES1005T - AOA
-Liên hệ
-Industrial Switch Managed 02 port Fiber GE(SFP slot) + 8 Port 10/100/1000M RJ45 with POE, WT-RS6010-2GF8GT-POE
-Liên hệ
-Industrial Switch Managed 04 port Fiber GE(SFP slot) + 8 Port 10/100/1000M RJ45 with POE, WT-RS6112-4GF8GT-8POE
-Liên hệ
-Switch công nghiệp 10 port: 02 port quang SFP GE + 8 Port 10/100/1000M RJ45 Dual DC Power DC9-48V DIN Rail WT-RS2310-2GF8GT
-Liên hệ
-Switch công nghiệp 2x10/100M POE AT + 1 Port SFP Slot 100M, DIN Rail, Dual DC Power 48-56VDC, P/N: WT-RS-10102-AT
-Liên hệ
-Switch công nghiệp 4 port 10/100M + 2 Port quang SFP 100/1000M + 4 Port quang SFP 100M Nguồn DC12-58V IES2604-SFP
-Liên hệ
-Switch công nghiệp 4x10/100/1000M + 2 SFP Slot GE, DIN Rail, Dual DC Power 9-48VDC, P/N: WT-RS236-2GF4GT
-Liên hệ
-Switch Công Nghiệp 4x10/100/1000M POE + 2xSFP GE Slot IES3204P-SFP
-Hộp phối quang ODF
-Liên hệ
-DM12-24LC-LS-ULL G2 ULL Multimode OM4 MPO-12 Distribution Module, 24LC to 2X12f MPOs unpinned, internal shutters
-Sale 9%
-290,000₫
-320,000₫
-FHU 1U Patch Panels - Rackmount
-Liên hệ
-Hộp ODF bằng nhựa 02FO SC/APC FTK-FWO-02C (Bao gồm Dây hàn SC/APC+Phụ kiện)
-Liên hệ
-Hộp ODF bằng nhựa 02FO SC/UPC FTK-FWO-02C (Bao gồm Dây hàn quang đơn mốt SC/UPC+Phụ kiện)
-Liên hệ
-Hộp ODF bằng nhựa 04FO LC/PC Multimode OM2 (Đầy đủ phụ kiện và Dây hàn Multimode OM2)
-Liên hệ
-Hộp ODF bằng nhựa 04FO LC/PC OM3 (Bao gồm 02 Adpater LC/PC MM OM3 Duplex, 04 Ống co nhiệt 60mm, 04 Dây nối quang đa mốt OM3 LC/PC dài 1.5M phi 0.9mm)
-Liên hệ
-Hộp ODF bằng nhựa 04FO LC/UPC (Bao gồm 02 Adapter LC/UPC Duplex, 04 Ống co nhiệt, 04 Dây nối quang đơn mốt LC/UPC dài 1.5M phi 0.9mm)
-Liên hệ
-Hộp ODF bằng nhựa 04FO SC/UPC - Trong nhà - Đầy đủ phụ kiện
-Liên hệ
-Hộp ODF bằng nhựa 04FO SC/UPC Multimode OM3 (Đầy đủ phụ kiện và Dây hàn Multimode OM3)
-Liên hệ
-Hộp ODF bằng nhựa 08FO SC/UPC (Bao gồm 08 Adpater SC/UPC, 08 Dây nối quang SM SC/UPC dài 1.5M, 08 Ống co nhiệt)
-Liên hệ
-Hộp ODF bằng nhựa ATB
-Liên hệ
-Hộp ODF bằng nhựa FTTH 4FO SC/UPC
-Liên hệ
-Hộp ODF bằng nhựa FTTH OTB-C04 04FO SC/APC (4 Adapter SC/APC,4 ống co nhiệt,4 dây nối quang đơn mốt SC/APC dài 1M)
-Liên hệ
-Hộp ODF bằng nhựa FTTH OTB-C04 04FO SC/UPC (4 Adapter SC/UPC,4 ống co nhiệt,4 dây nối quang đơn mốt SC/UPC dài 1M)
-Liên hệ
-Hộp ODF bằng nhựa FTTH OTB-C04 04FO ST/PC OM1 62.5/125um( 4 Adapter ST, 4 ống co nhiệt, 4 dây nối quang MM OM1 62.5/125um ST/PC dài 1M, phi 0.9mm)
-Sản phẩm mới
-770,000₫
-Bộ test cáp mạng + Test POE + Dò dây line điện thoại NOYAFA NF-810
-4,700,000₫
-Camera ảnh nhiệt cầm tay NOYAFA NF-B522 Handheld Thermal Imager — 192×192 IR Sensor • 5-Color Palettes • Fast Spot Temperature
-3,780,000₫
-Dụng cụ xác định tín hiệu quang - Fiber Identifier AFI400
-26,000,000₫
-FIM-17 Fiber Microscope - Máy kiểm tra bề mặt đầu nối quang cầm tay
-3,700,000₫
-Máy dò cáp ngầm NOYAFA NF-826
-Sale 12%
-2,200,000₫
-2,500,000₫
-Máy đo chiều dài cáp đồng NF-868
-Liên hệ
-Máy đo chiều dài điểm đứt cáp quang OTDR FHO3000L - Hãng Grandway
-Liên hệ
-Máy đo chiều dài và tìm điểm đứt cáp điện lực T-802
-Sale 10%
-3,500,000₫
-3,900,000₫
-Máy đo chiều dài và xác định lỗi cáp đồng theo phương pháp TDR NF-8601S
-2,100,000₫
-Máy đo công suất PON 1310/1490/1550nm - P/N: TM581 (Đ
+# SB-487 npotelecom.ru · home · https://npotelecom.ru/ · fetched 2026-10-24T07:26:33Z · HTTP 200
+Производство телекоммуникационного оборудования - НПО Телеком
+Пн-пт с до  (МСК+1)
+sale@npotelecom.ru
++7 (3412) 573-040 Оставить заявку
+Меню
+Меню Меню
+Главная
+Продукция
+Маршрутизаторы
+Коммутаторы 100G/ЦОД
+Уличные коммутаторы PoE
+Коммутаторы без UPS
+Коммутаторы с UPS
+Платы коммутатора
+Wi-Fi оборудование
+Indoor
+Outdoor
+Пассивные мультиплексоры CWDM\DWDM
+Пассивные мультиплексоры CWDM
+Пассивные мультиплексоры CWDM Demux LGX
+Пассивные мультиплексоры OADM
+Пассивные мультиплексоры CWDM Mux/Demux 19" 1U
+Пассивные мультиплексоры CWDM Mux/Demux ABS
+Пассивные мультиплексоры DWDM
+Пассивные мультиплексоры DWDM Demux 19" 1U
+Пассивные мультиплексоры DWDM Mux/Demux 19" 1U
+Пассивные CWDM фильтры
+Программные решения
+PoE инжекторы
+Инверсные мультиплексоры
+Модули оптические SFP, SFP+, XFP, QSFP, CFP
+SFP (155M)
+Одноволоконные (Bi Di) SFP (155M)
+SFP (GE)
+Одноволоконные (Bi Di) SFP (GE)
+Двухволоконные SFP (GE)
+Электрические SFP (GE)
+DWDM SFP (GE)
+CWDM SFP (GE)
+SFP (2,5G)
+Одноволоконные (Bi Di) SFP (2,5G)
+Двухволоконные SFP (2,5G)
+CWDM SFP (2,5G)
+DWDM SFP (2,5G)
+SFP (4G)
+CWDM SFP (4G)
+SFP+ (10G)
+Одноволоконные (Bi Di) SFP+
+Двухволоконные SFP+
+Электрические SFP+
+CWDM SFP+
+DWDM SFP+
+XFP (10G)
+Одноволоконные (Bi Di) XFP
+Двухволоконные XFP
+CWDM XFP
+DWDM XFP
+SFP+ (16G)
+SFP28 (25G)
+Двухволоконные модули SFP28 (25G)
+Одноволоконные модули (BI DI) SFP28 (25G)
+Модули CWDM SFP28 (25G)
+Модули DWDM SFP28 (25G)
+Модули LWDM SFP28 (25G)
+Модули MWDM SFP28 (25G)
+QSFP+ (40G)
+QSFP28 (50G)
+CFP (100G)
+CFP2 (100G)
+CFP4 (100G)
+QSFP28 (100G)
+QSFP-DD (200G)
+QSFP-DD (400G)
+Tunable DWDM
+Активные кабели
+Кабели 10G SFP+
+Кабели 40G QSFP
+Конвертеры интерфейсов
+Радиаторы охлаждения
+Ethernet коммутаторы
+Коммутаторы агрегации
+Коммутаторы доступа
+Индустриальные коммутаторы
+Индустриальные коммутаторы с PoE
+Индустриальные коммутаторы без PoE
+Мультиплексоры TDM over IP
+Оптик 16-32E1 TOP
+Оптик 1-8E1 TOP
+Оптик 1-2E1 SFP ToP
+САТС/РАТС
+Первичные мультиплексоры
+Транковые шлюзы
+Модули питания
+Оптические коммутаторы
+Коммутаторы агрегации
+Коммутаторы агрегации 10G
+VoIP оборудование
+VoIP-шлюзы многопортовые
+VoIP-шлюзы малопортовые
+VoIP-GSM шлюз
+Комплектующие VOIP
+Активные мультиплексоры CWDM\DWDM
+Оптический мультиплексор WDM-16 Транзит
+Усилители мощности
+Линейные усилители
+Предусилители
+Компенсаторы дисперсии
+PDH мультиплексоры
+Оптик NGE 1-4E1
+PDH мультиплексор на 4Е1 с ТЧ каналами
+Оптик NGE 8-32E1
+Оптик NGE 1-4E1-FX
+Услуги
+Разработка программного обеспечения
+Учебные программы
+Тех. поддержка
+Обращение в техподдержку
+Центр загрузки
+Программное обеспечение
+Как заказать
+Контакты
+Поиск
+sale@npotelecom.ru
++7 (3412) 573-040
+Оставить заявку
+Поиск
+НПО "ТЕЛЕКОМ"
+РАЗРАБАТЫВАЕМ И ПРОИЗВОДИМ В РОССИИ
+ТЕЛЕКОММУНИКАЦОННОЕ ОБОРУДОВАНИЕ
+Работаем с 1991 года, входим в Ассоциацию Производителей Оборудования Связи РФ
+Опытные сотрудники: инженеры-программисты, радиотехники, магистры
+Контроль качества и обязательные испытания - высоконадежное оборудование
+Поставка оборудования за счет компании, в любой регион России и за рубеж
+О компании
+ЗАО НПО «Телеком» работает на телекоммуникационном рынке с 1991 года. Все выпускаемое оборудование разрабатывается ресурсами Конструкторского бюро предприятия, работа которого нацелена на поиск и внедрение передовых технологий и разработок в соответствии с современными тенденциями развития рынка. В составе предприятия работают высококвалифицированные инженеры. Производство предприятия оснащено современным оборудование монтажа и сбора продукции.
+Наши контакты
+Адрес
+426039, Ижевск, ул. Воткинское шоссе, 31
+Телефон
++7 (3412) 573-040
+E-mail
+sale@npotelecom.ru
+Посмотреть нас
+на большой карте
+sale@npotelecom.ru
++7 (3412) 573-040
+Информационный блок партнера
+Создание сайта - Webfaza
+Оставить заявку
+Оставьте ваши контакты, и наш менеджер
+свяжется с Вами в ближайшее время.
+Я согласен на обработку персональных данных
+Консультация по услугам
+Оставьте ваши контакты, и наш менеджер
+свяжется с Вами в ближайшее время.
+Я согласен на обработку персональных данных

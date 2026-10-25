@@ -1,88 +1,532 @@
-# SB-1074 intrising.com.tw · home · https://www.intrising.com.tw/ · fetched 2026-10-25T07:41:18Z · HTTP 200
-Home - Intrising Networks
-...
-News
-New Feature
-Expo
-Case Study
-Products
-Industrial Switches
-D Series
-R Series
-K Series
-PRP / HSR Series
-Industrial Wireless
-Wireless Router
-Application
-Management
-AV over IP
-Extender
-Accessories
-DIN-Rail Power Supply
-SFP-MINI-GBIC
-Solutions
-Contact Us
-About
+# SB-1074 setik.biz · home · https://www.setik.biz/en/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+CCTV Cameras, Alarm Systems and Security Kits | Setik - Setik.biz
+
 Menu
+VIDEO SURVEILLANCE
+
+
+Surveillance Kit
+Recording Devices
+Cameras
+Dashcam
+BURGLAR ALARMS
+
+
+Complete Kit
+Control panels
+Sensors
+Fog Cannons
+
+
+Fog Cannons Accessories
+Accessories burglar
+
+
+Battery
+Cables
+Sirens
+Proximity Tag
+Keypad
+Modules
+Other Accessories
+Accessories Sensors
+Demo Case
+Spare parts
+VIDEO DOORPHONES
+
+
+Video Door-Phones Kits
+IP Video Door-Phones
+Double-wire Video Door Phone
+WIFI VIDEO DOOR-PHONES
+Emergency Terminals
+ANTI-FIRE
+
+
+Sensors
+Centrali
+Accessori
+Networking
+
+
+Switch
+Wi-Fi
+SFP-GBIC
+Router
+Accessori PoE
+MONITOR
+
+
+Computer monitors
+Interactive rooms
+Digital Signage
+Videowall monitors
+Accessories
+ACCESS CONTROL
+
+
+DAHUA SECURITY
+
+
+Standalone Controller
+Readers
+Smart Locks
+Module
+Controller
+Cards
+SETIK
+
+
+Retainers
+Buttons
+ZKTECO
+
+
+Time Attendance
+Access Control
+Green Pass
+Body temperature measurement
+Air quality measurement
+Green Label
+Entrance Control / Turnstiles
+Locks
+Accessories
+HIKVISION
+
+
+Readers
+Electrical Locks
+Controllers
+Terminals
+Access Control Accessories
+HYUNDAI
+
+
+Controller
+Controller Standalone
+Readers
+OPTIONAL DEVICES
+
+
+Video Accessories
+Power Source
+Enclosures
+Batteries
+Cables
+Uninterruptible Power Suppy
+Hard Disk
+IR Lighter
+Memory Card
+Microphones
+Bracket and Cases
+ESPIONAGE
+
+
+Spy Cameras
+Investigation
+SMART HOME
+
+
+LED Bulbs
+LED Spotlights
+LED Strip
+Switches
+Smart sockets and accessories
+Complete Kits
+Cpanels
+Sensors
+Accessories
+ANTI-SHOPLIFTING
+
+
+Barriers
+Accessories
+Tag
+ELECTRICITY
+
+
+Electric Car Charging
+Software
+
+
+Ajax
+DSS Express Dahua
+DSS PRO Dahua
+DSS Dahua Mobile
+HikCentral
+HikCentral Connect
+Hik-Partner Pro
+Hik-Connect
+JVSG
+SERVICES
+Wait for a moment!
+We are checking your email address
+WhatsApp Sales
++3903621855440
+Call us
++39 0362 1855440
+Shipping from €12.00
+English
+en
+Français
+fr
+Italiano
+it
+Español
+es
+Deutsch
+de
+EUR
+EUR €
+GBP £
+
+
+
+Login / Sign up
+
+€0.00
+0
+Shopping Cart
+There are no more items in your cart
+SHOPIK
+ESTIMATE
+> SMART ESTIMATE
+> VIDEO SURVEILLANCE ESTIMATES
+> ALARM SYSTEMS
+> VIDEO INTERCOM SYSTEMS
+PRO AREA
+NEW PRODUCTS
+PROMO
+ASSISTANCE
+BRAND
+BLOG
+LAST ARTICLES
+> Video surveillance
+> Alarms and Burglar Alarms
+> Video door entry system
+> Regulations
+WIKI SETIK
+HELP
+> Help
+> Download
+> FAQ - Frequently asked questions
+> Calculators
+PRODUCTS
+SHOPIK
+ESTIMATE
+> SMART ESTIMATE
+> VIDEO SURVEILLANCE ESTIMATES
+> ALARM SYSTEMS
+> VIDEO INTERCOM SYSTEMS
+PRO AREA
+NEW PRODUCTS
+PROMO
+ASSISTANCE
+BRAND
+BLOG
+LAST ARTICLES
+> Video surveillance
+> Alarms and Burglar Alarms
+> Video door entry system
+> Regulations
+WIKI SETIK
+HELP
+> Help
+> Download
+> FAQ - Frequently asked questions
+> Calculators
+
 Home
-News
-Products
-Solutions
-Contact Us
-About
-IEC 61850-3
-Protecting the Substation Starts with IEC 61850-3-Certified Switches
-Learn More
-IEC 61850-3
-Protecting the Substation Starts with IEC 61850-3-Certified Switches
-Learn More
-IEC 61850-3
-Protecting the Substation Starts with IEC 61850-3-Certified Switches
-Learn More
-Industrial L3 Switches
-Intrising Industrial Layer 3 Switches
-Learn More
-Intrising PTP
-Intrising PTP Provides Better Time Service
-Learn More
-ISO 9001:2015 Certification
-Elevating Excellence in Quality
-Learn More
-AV Over IP
-Extenders / Controller / Switch / App & Cloud Service Total Solution
-Learn More
-News
-New Feature
-ISO 9001:2015 Certification
-Elevating Excellence in Quality
-Intrising Networks, Inc., is pleased to inform you that our ISO 9001:2015 certification from Afnor Groupe has been completed successfully. We currently adhere to the most recent version of the Quality Management System for the following scope: design, development, and production
-Case Study
-PTP Technology Enables Precise Autonomous Data
-Intrising's 10G PTP switching solution serves as the critical synchronization backbone
-In order to achieve Level 4 autonomy, the Intrising DTS-8GP-4X solves Split Architecture challenges by using gPTP Transparent Clock technology for microsecond sync. Its 10G uplink handles 4.8Gbps camera streams, ensuring spatiotemporal consistency for precise LiDAR and AI sensor.
-Expo
-Let's Meet at SPS 2025!
-Information of SPS 2025
-Intrising is going to SPS 2025 and we are excited to meet you there!
-New Feature
-T Series
-Intrising Unveils the Future of Industrial Networking
-Intrising’s launchues T Series 10G TSN switches for Industry 4.0. Featuring IEEE 802.1Qbv/AS for nanosecond sync and HSR/PRP for zero-loss redundancy, these ruggedized solutions bridge IT/OT with deterministic, high-bandwidth performance.
-Intrising Networks
-Your Trustworthy Partner For A Connected Future
-Integration
-Software, Hardware and consumables are all available from us.
-Creativity
-Focused on market trends continue for improvement and innovation.
-Support
-We can help with system design or troubleshooting in 24/7.
-Solutions
-Solution
-Redbox HSR/PRP
-How Redbox HSR/PRP Eliminates Industrial Network Reconvergence Delays
-Redboxes eliminate catastrophic reconvergence delays by enabling legacy devices to achieve zero-recovery-time redundancy through simultaneous HSR/PRP packet duplication across networks.
-Solution
-Time-Sensitive Networking
-TSN: The Foundation of Unified Industrial Communication
-TSN brings determinism to Ethernet, replacing proprietary silos with unified, real-time synchronization to ensure mission-critical data arrives precisely on schedule.
-Inc • All Rights Reserved
+Setik.biz
+Home
+VIDEO SURVEILLANCE  
+Surveillance Kit
+Recording Devices
+Cameras
+Dashcam
+BURGLAR ALARMS  
+Complete Kit
+Control panels
+Sensors
+Fog Cannons  
+Fog Cannons Accessories
+Accessories burglar  
+Battery
+Cables
+Sirens
+Proximity Tag
+Keypad
+Modules
+Other Accessories
+Accessories Sensors
+Demo Case
+Spare parts
+VIDEO DOORPHONES  
+Video Door-Phones Kits
+IP Video Door-Phones
+Double-wire Video Door Phone
+WIFI VIDEO DOOR-PHONES
+Emergency Terminals
+ANTI-FIRE  
+Sensors
+Centrali
+Accessori
+Networking  
+Switch
+Wi-Fi
+SFP-GBIC
+Router
+Accessori PoE
+MONITOR  
+Computer monitors
+Interactive rooms
+Digital Signage
+Videowall monitors
+Accessories
+ACCESS CONTROL  
+DAHUA SECURITY  
+Standalone Controller
+Readers
+Smart Locks
+Module
+Controller
+Cards
+SETIK  
+Retainers
+Buttons
+ZKTECO  
+Time Attendance
+Access Control
+Green Pass
+Body temperature measurement
+Air quality measurement
+Green Label
+Entrance Control / Turnstiles
+Locks
+Accessories
+HIKVISION  
+Readers
+Electrical Locks
+Controllers
+Terminals
+Access Control Accessories
+HYUNDAI  
+Controller
+Controller Standalone
+Readers
+OPTIONAL DEVICES  
+Video Accessories
+Power Source
+Enclosures
+Batteries
+Cables
+Uninterruptible Power Suppy
+Hard Disk
+IR Lighter
+Memory Card
+Microphones
+Bracket and Cases
+ESPIONAGE  
+Spy Cameras
+Investigation
+SMART HOME  
+LED Bulbs
+LED Spotlights
+LED Strip
+Switches
+Smart sockets and accessories
+Complete Kits
+Cpanels
+Sensors
+Accessories
+ANTI-SHOPLIFTING  
+Barriers
+Accessories
+Tag
+ELECTRICITY  
+Electric Car Charging
+Software  
+Ajax
+DSS Express Dahua
+DSS PRO Dahua
+DSS Dahua Mobile
+HikCentral
+HikCentral Connect
+Hik-Partner Pro
+Hik-Connect
+JVSG
+SERVICES
+BRAND PRICELISTS
+Download OFFICIAL PRICELISTS of our brands!
+PROMO SETIK
+AJAX SYSTEMS | PROMOTIONS
+Discover all the official AJAX Systems promotions available on our e-commerce site:
+alarm control panels, motion sensors, magnetic contacts, sirens, ...
+FIND AN INSTALLER
+Looking for an installer
+near you?
+Find a qualified professional in your area to install our products
+FIND AN INSTALLER →
+BEST SELLER
+BEST PRICE
+IN PROMO
+SUPER SALES
+BELOW COST
+►FEATURED PRODUCTS
+
+IN STOCK: 221
+Pieces
+*}
+IN PROMOTION
+-10%
+IPC-F42P-IMOU - Imou 2C 4MP Outdoor Bullet Camera with Human Detection and Wi-Fi
+IPC-F42P -IMOU - The Imou Bullet 2C camera is the perfect choice for those who want reliable and smart surveillance. Equipped with a 4MP resolution (2560×1440) , it ensures ultra-clear images both day and night, supported by infrared night vision up to 30 meters . Intelligent detection distinguishes human movements, reducing false alarms, while the IP67 resistant design makes it suitable for outdoor use in any conditions. Equipped with Wi-Fi , it is easy to install and control remotely.
+ONLY 413 , 251 PIECES! WHILE STOCKS LAST!
+Technical Data Sheet
+VIEW PRICE
+from
+35,09 €
+-10%
+Available from 30 October 2026
+BEST PRICE
+LH5541UHS-B2 - iiyama 55 inch 4k UHD IPS Monitor - Media Player - LAN
+The iiyama ProLite LH5541UHS-B2 55" 4K UHD monitor is designed for 24/7 digital signage applications, combining reliability, visual quality and versatility. The IPS panel ensures brilliant colours and wide viewing angles, ideal for public, corporate and retail environments. The integrated USB media player allows standalone content playback without the use of external devices. It supports LAN and RS232 control for centralised management, and can be installed in both landscape and portrait orientation. Stylish and robust, it is the perfect solution for high-impact digital communications.
+Technical Data Sheet
+VIEW PRICE
+€602.68
+
+IN STOCK: 7
+Pieces
+*}
+IN PROMOTION
+-45%
+KIT VIGI C440I(4mm) - Video Surveillance Kit – 1 NVR + 4 Dome Cameras + 1 TB Hard Disk - Vigi
+Complete VIGI video surveillance kit 1 x IP NVR ( VIGI NVR1004H-4P ), 4x 4MP Dome cameras ( VIGI C440I(4mm) ) and 1x 1TB hard disk ( HD1000U )
+ONLY 10 PIECES!
+VIEW PRICE
+€778.36
+-45%
+
+IN STOCK: 15
+Pieces
+*}
+38168.56.WH1 - AJAX Professional Wireless GPRS / Ethernet Alarm Kit
+38168.56.WH1 #38168 Sistema di allarmi casa senza fili professionali Ajax StarterKit / Hub Kit bianco con comunicazione senza fili bidirezionale:
+♦ Pannello con batteria di backup | 38237.01.WH1 ♦ Rilevatore di movimento PIR | 38193.09.WH1 ♦ Contatto porta/finestra magnetico 38099.03.WH1 ♦ Controllo remoto | 38166.04.WH1
+&gt;&gt; IN REGALO DUE CARTELLI AJAX (1 ADESIVO E 1 IN ALLUMINIO)
+VIEW PRICE
+€541.68
+
+IN STOCK: 19
+Pieces
+*}
+ES210GMP - TP-Link Omada ES210GMP Switch with 10 Gigabit Ports with 8 PoE+ ports - Easy Managed
+The TP-Link Omada ES210GMP is a smart managed Layer 2 PoE+ switch , ideal for business and professional networks. Equipped with 8 Gigabit PoE+ ports and 2 Gigabit SFP slots , it offers a PoE budget of up to 120W , perfect for powering access points, IP cameras and VoIP phones . Integrated with Omada SDN , it supports cloud management via web and Omada app for intuitive and secure remote control.
+VIEW PRICE
+€150.98
+
+IN STOCK: 3
+Pieces
+*}
+HYU-261 - 4MP IP PTZ Bullet Outdoor Camera - Hyundai
+HYU-261 Hyundai Outdoor PTZ IP Bullet Camera. 1 / 2.8 "CMOS sensor, 4 MP resolution and 10X optical zoom. ICR filter, IR illuminator up to 80M, OSD, AWB, AGC, BLC, WDR real 120 dB, 2D / 3D-NR, ONVIF, POE. IP66 protection
+VIEW PRICE
+€708.04
+
+IN STOCK: 65
+Pieces
+*}
+IN PROMOTION
+-35%
+DS-PWA64-Kit-WE - Hikvision AXPro Professional Alarm Kit 64 Zones 868MHz Wireless
+AXPRO HIKVISION
+DS-PWA64-Kit-WE Professional wireless home alarm system tri-x Wireless 868Mhz Hikvision Kit AXPro 64 Zones with wireless communication:
+- 1 Hikvision AXPro Alarm Center lan wi-fi GPRS 64 zones | DS-PWA64-L-WE - 1 Wireless Keyfob Alarm Remote Control | DS-PKF1-WE - 1 868Mhz wireless pir motion sensor | DS-PDP15P-EG2-WE - 1 Wireless Slim Magnet Detector 1600m 868Mhz | DS-PDMC-EG2-WE
+HIKVISION ADHESIVE SIGN AS A GIFT!
+VIEW PRICE
+€352.09
+-35%
+
+IN STOCK: 5
+Pieces
+*}
+-57%
+HAC-HDW1500TRQ-S2 - Dahua 5 MP Hybrid 4in1 Video Surveillance Camera 2 IR LEDs 2.8 MM
+Dahua surveillance camera HAC-HDW1500TRQ-S2 S2 version with 4 technologies in 1: HDCVI / HDTVI / AHD / ANALOG Dome 5Megapixel 5 MP , 2.8mm fixed lens and 1 / 2.7 "CMOS sensor. IR illuminator 2 LED 25M, Day / Night (ICR), OSD Menu, BLC, HLC, DWDR, IP50 protection, plastic
+VIEW PRICE
+from
+38,72 €
+-57%
+
+IN STOCK: 120
+Pieces
+*}
+IN PROMOTION
+-35%
+DS-KIS604-S - DS-KIS604-S Full HD WiFi IP Video Intercom Kit with PoE and Switch DS-3E0105P-E/M(B) - Hikvision
+DS-KIS604-S The IP video intercom kit is the ideal solution for villas and homes thanks to the combination of a Full HD 1080P external unit, a 7" internal touch monitor and remote management via the Hik-Connect App . The DS-KV8113-WME1 external unit integrates a camera with a wide-angle lens, two-way audio with echo cancellation and IP65 IK08 protection, ensuring safety and reliability even in outdoor environments. The DS-KH6320-WTE1 monitor offers an intuitive interface with Wi-Fi support and image storage on a TF card. The kit also includes the Hikvision DS-3E0105P-E/M(B) 4-port PoE switch, ideal for easily powering and connecting devices via a PoE network, simplifying the installation of the entire video intercom system. Hikvision
+Technical data sheet
+VIEW PRICE
+€716.08
+-35%
+SETIK – Soluzioni professionali per sicurezza e videosorveglianza, per privati e installatori
+Setik fornisce sistemi di sicurezza, videosorveglianza e allarme certificati per privati, aziende e installatori professionisti. Dalla singola telecamera per la casa alle forniture tecniche per cantieri, offriamo prodotti affidabili, supporto tecnico e assistenza pre e post-vendita.
+Prodotti certificati per uso residenziale e professionale
+Distributore ufficiale Dahua, Ajax Systems, Imou e altri brand leader
+Trova Installatori – servizio per privati e aziende che cercano installatori certificati nella propria zona
+Trova Clienti – servizio che connette gli installatori con nuovi clienti reali
+Supporto tecnico per configurazioni, networking, compatibilità e progettazione impianti
+Soluzioni per casa, uffici, negozi, aziende e grandi infrastrutture
+Spedizioni rapide in tutta Europa e catalogo multilingua
+Popular Brands
+PROMO SETIK
+DAHUA | PROMOTIONS
+DAHUA SDT SERIES | EXTRA 10% AND QUANTITY DISCOUNTS
+CODE: DAHUA-EXTRA-10
+...
+FIND AN INSTALLER
+Looking for an installer
+near you?
+Find a qualified professional in your area to install our products
+FIND AN INSTALLER →
+Our e-commerce was born in 2012 and it rapidly became a leader in the surveillance sector. Fast customer service, high quality products and low prices are our distinctive traits.
+©2020 SETIK SRL
+P.IVA: IT09729650961
+Operative Office :
+Via Giovanni Cimabue, 35 - 20851 Lissone (MB)
+Follow us
+Facebook
+YouTube
+Instagram
+Subscribe to our newsletter
+Subscribe
+OK
+I authorize the processing of personal data in accordance with the Privacy Policy
+SETIK
+Our Company
+Our group
+Where we are
+Feedback
+Contact
+Privacy Policy
+SUPPORT
+Help
+Assistant
+Terms and Conditions of Use
+Return and return policy
+Commercial guarantee
+Unsubscribe newsletter
+SHIPPING and PAYMENT
+Shipping
+Payment
+Compare Now ( 0 )‎
+© 2025 | Powered by Calypso ( Atik Project )
+×
+Some text in the modal.
+Chiudi
+Aggiunta al Carrello
+This site uses cookies. By continuing to browse the site you are agreeing to our use of cookies. Find out more here .
+Accept
+
+×
+

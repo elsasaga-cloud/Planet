@@ -1,0 +1,73 @@
+{
+ "code": "SC-154",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（communitech.ca，快照 2026-10-21）",
+ "summary": "加拿大 Communitech（滑铁卢科技企业孵化/加速机构「We help tech companies start, grow and succeed」；表内「一些 FS 整体上不是很多产品 / preseem 这个 logo」「可以多跟进一下」）；群发 8 次无回复。",
+ "type": "科技孵化机构（非渠道）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Communitech",
+   "quote": "We help tech companies start, grow and succeed；Events；IP 101: Introduction to Intellectual Property；AI Power Hours: AI, your data and your IP；Defence Sector Awareness and Supply Chain Workshop；AI Power Hours: Hiring your first 5 AI employee",
+   "url": "https://communitech.ca/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "一些FS 整体上不是很多产品 preseem 这个logo",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Communitech 定位",
+   "quote": "Home - Communitech ; We help tech companies start, grow and succeed",
+   "url": "https://communitech.ca/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "preseem logo",
+   "quote": "一些FS 整体上不是很多产品 / preseem 这个logo",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "非渠道机构（科技孵化器）；c_sub=品类不符",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "加拿大",
+  "other": "官网 communitech.ca，语言 en，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "科技企业孵化 / 加速（加拿大）"
+ ],
+ "channels": {
+  "role": "科技孵化机构（非渠道）",
+  "region": "加拿大",
+  "contact": "front.desk@communitech.ca"
+ },
+ "signals": [
+  "官网：Home - Communitech ; We help tech companies start, grow and succeed ; Events ; IP 101",
+  "表内：一些 FS 整体上不是很多产品 / preseem 这个 logo；可以多跟进一下"
+ ],
+ "risks": [
+  "非渠道：科技孵化机构；表内 Preseem 为 WISP QoE 软件公司（另一实体）；8 次无回复"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 25,
+  "why": "科技孵化/加速机构（非硬件渠道；Preseem 为另一家软件公司）→ 改 C"
+ },
+ "email_hook": "（不发送：非渠道机构）"
+}

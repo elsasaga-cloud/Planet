@@ -1,135 +1,107 @@
 {
- "code": "SB-725",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（pandacomdirekt.de，快照 2026-10-21）",
- "summary": "德国 Pan Dacom Direkt GmbH（法兰克福附近复杂传输网络专家：WDM 方案（SPEED-OTS-5000）、微波、收发器、加密，「Made in Germany」；表内「Networking / WDM 讲解比较专业 / WDM SFP Switch 等」；KP Markus Förster（VP Productmanagement，foerster@））；表内 2 次跟进无回复。",
- "type": "传输网络系统商（德国，WDM 自研；交换机为配套）",
- "size": "",
- "brands_seen": [
-  "Cisco",
-  "Ubiquiti"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：Nets get connected! - Pan Dacom Direkt；品类词 工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 无线 / WiFi / 数据中心 / 企业 IT / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
-   "quote": "PAN DACOM DIREKT | Ihr Spezialist für komplexe Übertragungsnetzwerke in Deieich bei Frankfurt am Main. Wir planen und realisieren: WDM-Lösungen, Richtfunk, uvm.",
-   "url": "https://www.pandacomdirekt.de/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "Networking；WDM 讲解比较专业；WDM SFP Switch等；M 49 151 58023 153",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "Pan Dacom Direkt 定位",
-   "quote": "PAN DACOM DIREKT | Ihr Spezialist für komplexe Übertragungsnetzwerke in Dreieich bei Frankfurt am Main. Wir planen und realisieren: WDM-Lösungen, Richtfunk",
-   "url": "https://www.pandacomdirekt.de/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "WDM SFP Switch 等",
-   "quote": "Networking / WDM 讲解比较专业 / WDM SFP Switch等",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Markus Förster",
-   "title": "VP Productmanagement",
-   "email": "foerster@pandacomdirekt.de",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "德国",
-  "other": "官网 pandacomdirekt.de，语言 de，快照状态 ok；角色判定来源：官网文案"
- },
- "business_lines": [
-  "WDM / 微波 / 传输网络方案"
- ],
- "channels": {
-  "role": "传输网络系统商（德国，WDM 自研；交换机为配套）",
-  "region": "德国",
-  "contact": "foerster@pandacomdirekt.de、foerster@pandacom.de"
- },
- "signals": [
-  "官网：Ihr Spezialist für komplexe Übertragungsnetzwerke … WDM-Lösungen, Richtfunk ; Made in Germany；kw sfp 218 / ethernet 288 / 10g 147",
-  "页面 /produkte/detail/transceiver.html、/produkte/detail/richtfunk.html；KP Markus Förster / VP Productmanagement"
- ],
- "risks": [
-  "主业 WDM/传输（自研）：交换机仅配套，契合度低",
-  "SFP 为其核心品类，Saga 不供（Q-32）；2 次跟进无回复"
- ],
- "saga_fit": {
-  "p1": "STC-424XGGM",
-  "tier": 25,
-  "why": "WDM/传输主业，交换机为配套 → 24 GE + 4×10G L2+ STC-424XGGM（$132.7 @25%）作接入配套；SFP/DAC Saga 不供（Q-32）"
- },
- "email_hook": "Markus, for the access-layer switches that accompany your WDM and transmission projects, we supply Marvell-based 24-GE + 4×10G L2+ units (PoE+ option) from small lots, CE/RoHS, neutral packing — is there a port configuration your project teams keep sourcing separately?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A 邮箱 7 封 2025→2026，无记录打开，0 回；收件 foerster@pandacom.de, klein@pandacom.de；主题多为「Updated Ethernet Switches Links、Industrial PoE Switch」；Elsa 箱：`to:pandacomdirekt.de OR to:pandacom.de` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 7 / 来 0）（第 74 批(j)））",
-   "type": "传输网络系统商（德国，WDM 自研；交换机为配套）",
-   "sieve": "1（只收到群发）",
-   "stop": "7 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "DE 主攻（四主）",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 7；用户表：「Networking；WDM 讲解比较专业；WDM SFP Switch等；M 49 151 58023 153」；研究档 risks：主业 WDM/传输（自研）：交换机仅配套，契合度低"
-  },
-  "situation": "德国 Pan Dacom Direkt GmbH（法兰克福附近复杂传输网络专家：WDM 方案（SPEED-OTS-5000）、微波、收发器、加密，「Made in Germany」；表内「Networking / WDM 讲解比较专业 / WDM SFP Switch 等」；KP Markus Förster（VP Productmanagement，foerster@））；表内 2 次跟进无回复。",
-  "need": "WDM/传输主业，交换机为配套 → 24 GE + 4×10G L2+ STC-424XGGM（$132.7 @25%）作接入配套；SFP/DAC Saga 不供（Q-32）",
-  "breakpoint": "主业 WDM/传输（自研）：交换机仅配套，契合度低",
-  "saga_now": {
-   "p1": "STC-424XGGM",
-   "tier": 25,
-   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-14 $280（10G Enterprise SFP Switch）",
-   "why": "WDM/传输主业，交换机为配套 → 24 GE + 4×10G L2+ STC-424XGGM（$132.7 @25%）作接入配套；SFP/DAC Saga 不供（Q-32）",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开",
-   "one_question": "Markus, for the access-layer switches that accompany your WDM and transmission projects, we supply Marvell-based 24-GE + 4×10G L2+ units (PoE+ option) from small lots, CE/RoHS, neutral packing — is there a port configuration your project teams keep sourcing separately?"
-  },
-  "facts": [
-   {
-    "date": "2026-03-05",
-    "dir": "去",
-    "who": "A 群发",
-    "quote": "Updated Ethernet Switches Links、Industrial PoE Switch",
-    "why": "7 封 / 0 次打开 / 0 回｜首封 2025-09-17 → 末封 2026-03-05（7 去 / 0 来）",
-    "k": "gmail_digest"
-   },
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "Networking；WDM 讲解比较专业；WDM SFP Switch等；M 49 151 58023 153",
-    "why": "表内备注",
-    "k": "用户表"
-   }
+  "code": "SB-725",
+  "name_official": "Elektronik LTD（Toshko Todorov；ISAF 参展记录为土耳其；无域名）",
+  "researched_at": "2026-10-21",
+  "website_status": "无域名",
+  "summary": "ISAF 记录：Toshko Todorov（「Elektronik LTD」，无邮箱/域名）——Ady 加了 WhatsApp，要商业级 PoE 交换机和 catalog，「不要推商业级的」（原文自相矛盾，按「只要商用级、不要工业级」理解待核），同事新桥拿了他们的彩页；无后续跟进。姓名为保加利亚式（Toshko Todorov）→ 国家待核（可能为保加利亚公司）；仅表内信息。",
+  "type": "",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "用户表",
+      "claim": "ISAF：商用 PoE + catalog；彩页在新桥处；WA 已加",
+      "quote": "Ady加了WhatsApp 要商业级POE交换机和catalog, 不要推商业级的， 新桥拿了他们的彩页 / Toshko Todorov / Elektronik LTD",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "kp": [
+    {
+      "name": "Toshko Todorov",
+      "role": "（ISAF 名片）",
+      "email": "—",
+      "phone": "—（Ady WhatsApp）",
+      "source": "（本地 Clients/ 表格，无公开 URL）"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "无域名 · 仅表内信息"
+  },
+  "company_facts": {
+    "legal_name": "… Elektronik LTD（全称待核）",
+    "hq": "待核（ISAF 记为土耳其；人名为保加利亚式）",
+    "size": "待核",
+    "other": "公司彩页在新桥处（可据此补公司名/域名）"
+  },
+  "business_lines": [
+    "电子/安防分销（推测）"
+  ],
+  "channels": {
+    "WhatsApp": "Ady 已加",
+    "线下": "公司彩页（新桥持有）"
+  },
+  "signals": [
+    "要商用 PoE + catalog → 直接发目录与价目；先从新桥处的彩页补齐公司名/域名/国家"
+  ],
+  "risks": [
+    "国家与主体待核；无邮箱；无后续跟进"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 25,
+    "why": "默认 25% 档：STC-28DGGPM（2 SFP + 8 GE PoE+ L2+ 管理，$84.1）；非管理 STC-228GP（$30.8）；24 口 STC-424DGGPM-280W（$140.1）"
+  },
+  "email_hook": "Hello Toshko, following ISAF: here is the commercial PoE catalogue — 2× SFP + 8× GbE PoE+ L2+ managed at $84.1 EXW, unmanaged $34.6, 24-port 280 W $140.1; which port count sells most in your market so I can quote a first lot?",
+  "mail_review": {
+    "binding": {
+      "level": "轻度触达（展会名片 + WhatsApp 已加，邮件 0 封）：用户表「Ady加了WhatsApp 要商业级POE交换机和catalog, 不要推商业级的， 新桥拿了他们的彩页 / Toshko Todorov / Elektronik LTD」；S/A 邮箱 0 封；Elsa 箱无可查地址（仓内无此户任何邮箱/域名——用户表/WhatsApp/展会名片户，`from:e.sagatelecom to:` 无从下手；Elsa 群发是否碰过他无法判定，不写「未触达」）（第 74 批(o)）",
+      "type": "—",
+      "sieve": "3（已加 WhatsApp，表内有往来）",
+      "stop": "仓库只有用户表一行；往来在 Simon 手机",
+      "revive": "首封邮件（A 邮箱，按 email_hook）+ WhatsApp 一句话",
+      "lane": "土耳其 非主攻",
+      "cadence": "一封",
+      "evidence": "gmail_digest：out 0；用户表：「Ady加了WhatsApp 要商业级POE交换机和catalog, 不要推商业级的， 新桥拿了他们的彩页 / Toshko Todorov / Elektron」；研究档 risks：国家与主体待核；无邮箱；无后续跟进"
+    },
+    "situation": "ISAF 记录：Toshko Todorov（「Elektronik LTD」，无邮箱/域名）——Ady 加了 WhatsApp，要商业级 PoE 交换机和 catalog，「不要推商业级的」（原文自相矛盾，按「只要商用级、不要工业级」理解待核），同事新桥拿了他们的彩页；无后续跟进。姓名为保加利亚式（Toshko Todorov）→ 国家待核（可能为保加利亚公司）；仅表内信息。",
+    "need": "默认 25% 档：STC-28DGGPM（2 SFP + 8 GE PoE+ L2+ 管理，$84.1）；非管理 STC-228GP（$30.8）；24 口 STC-424DGGPM-280W（$140.1）",
+    "breakpoint": "国家与主体待核；无邮箱；无后续跟进",
+    "saga_now": {
+      "p1": "STC-28DGGPM",
+      "tier": 25,
+      "price": "Realtek 线按 HRUI 2026-09-30 进价 +25% 现算（Q-47 默认，不用 Drive 旧表价）：STC-228GP $30.8→$34.6；按主表（研究档 saga_fit）",
+      "why": "默认 25% 档：STC-28DGGPM（2 SFP + 8 GE PoE+ L2+ 管理，$84.1）；非管理 STC-228GP（$30.8）；24 口 STC-424DGGPM-280W（$140.1）",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "2026-11（Simon）",
+      "channel": "A 邮箱首封 + WhatsApp（Simon）",
+      "action": "首封 + 一句话",
+      "one_question": "Hello Toshko, following ISAF: here is the commercial PoE catalogue — 2× SFP + 8× GbE PoE+ L2+ managed at $84.1 EXW, unmanaged $34.6, 24-port 280 W $140.1; which port count sells most in your market so I can quote a first lot?"
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "Ady加了WhatsApp 要商业级POE交换机和catalog, 不要推商业级的， 新桥拿了他们的彩页 / Toshko Todorov / Elektronik LTD",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [
+      "WhatsApp 往来未入库"
+    ],
+    "draft_en": {
+      "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+      "body": "Hello Toshko, following ISAF: here is the commercial PoE catalogue — 2× SFP + 8× GbE PoE+ L2+ managed at $84.1 EXW, unmanaged $34.6, 24-port 280 W $140.1; which port count sells most in your market so I can quote a first lot?"
+    },
+    "as_of": "2026-10-24"
+  }
 }

@@ -1,178 +1,154 @@
-# SB-070 genieproducts.co.uk · news_2 · https://genieproducts.co.uk/case-studies/ · fetched 2026-10-25T07:41:18Z · HTTP 200
-Genie Case Studies - Genie Products
-Skip to content
-Solutions
-About Genie Solutions
-Video Solutions
-Access Control Solutions
-CADIP8NEBVAF
-8MP NDAA PSTI IP Active Deterrent Eyeball Camera, Auto Focus Varifocal Lens
-Two Way Audio, Intelligent Analytics, White Light, Red and Blue Warning Lights
-Learn more
-Access control & biometrics
-Door Controllers
-Biometric Readers
-Enrolment Readers
-Keypads & Readers
-Exit Buttons
-Enclosures
-Accessories
-WIP2FRTMTP
-Professional robust high quality Full HD camera system designed to utilise any combination of human body temperature sensing, facial recognition and mask detection screening for secure and safe access control and monitoring.
-See more
-CCTV
-AHD
-Body Worn
-HD-SDI
-Network IP
-Wireless Video Transmission
-Housings & Illuminators
-Lenses
-Monitors
-Recorders
-Test Equipment
-Smart Cabling
-Miscellaneous
-WIPX4NMVDVAF
-4MP IP IR vandal dome camera with a 2.8-12mm auto focus lens. The camera features facial recognition and Video Metadata functionality when paired with any Genie AI NVR.
-See more
-Software
-All software
-Recent software updates
-GenieVMS
-GenieVMS Standard for Windows. Free 32 channel license included, but can be expanded to support up to 2048 channels, and is suitable for the Genie Xpert range, Focus range, and Onvif compliant devices.
-See more
+# SB-070 neowine · news_2 · https://neowine.com/bbs/board.php?bo_table=neowine · fetched 2026-10-25T07:41:18Z · HTTP 200
+Press 1 페이지 | neowine
+Company Logo
+cha
+About
+NEOWINE
+History
+Patents & Publications
+Location
+Product
+ALPU
+DALPU
+MCU
+AI Solution
+R&D Projects
+Business
+Business Area
+Application
+Distributors
 Support
-Contact Us
-Cybersecurity
-Technical Documents
-F.A.Q's
-Contact
-General
-+44(0)1707 330541
-[email protected]
-Support
-+44(0)1707 330541
-[email protected]
-Company
-Genie
-About Genie
-Case Studies
+Document
+Career
 News
-All News
-Latest
-How Surveillance Helps Reduce Employee and Customer Theft
-What Is a PTZ Camera and When Should You Use One?
-How Many CCTV Cameras Do I Need for My Property?
-Shop
-Shop All
-CCTV
-Access Control
-GCN4000
-NDAA and PSTI compliant Video Intercom Entry Station IP67 supporting Face Recognition, Keypad, Proximity, and Wi-fi communication
-See more
-{ $refs.search_input.focus() })"
->
-Search for:
-My account
-Email address
-Password
-Sign in
-Forgot password?
-Don’t have an account?
-Register now
-Total (GBP)
-0
-items
-£ 0.00
-No products in the basket.
-Open menu
-Back
-Solutions
-About Genie Solutions
-Video Solutions
-Access Control Solutions
-Access control & biometrics
-Door Controllers
-Biometric Readers
-Enrolment Readers
-Keypads & Readers
-Exit Buttons
-Enclosures
-Accessories
-CCTV
-AHD
-Body Worn
-HD-SDI
-Network IP
-Wireless Video Transmission
-Housings & Illuminators
-Lenses
-Monitors
-Recorders
-Test Equipment
-Smart Cabling
-Miscellaneous
-Software
-All software
-Support
-Contact Us
-Cybersecurity
-Technical Documents
-F.A.Q's
-Company
-About Genie
-Case Studies
-All News
-Shop
-CCTV
-Access Control
-Genie Case Studies
-At Genie, we’re proud of our diligent work, attention to detail and well-established relationships. Here is a selection of our most important recent solutions and projects.
-Hospitality
-Discover how Genie’s hospitality solutions protect guests, monitor staff for training purposes and help deter false compensation claims.
-Explore hospitality applications
-Industrial
-Genie’s advanced video surveillance and access control systems reduce health and safety breaches, keep an eye on expensive equipment, and protect employees and the public from entering restricted areas.
-Explore industrial applications
-Commercial
-From protecting confidential business information, to guiding workers around offices, Genie’s flexible, affordable video and access control projects are keeping commercial operations safe and secure.
-Explore commercial applications
-Retail
-As well as product and property protection, Genie has helped clients reduce theft, monitor staff, protect them from aggressive behaviour, and even identify popular selling product lines.
-Explore retail applications
-Education
-With Genie’s guidance, schools, universities and colleges can operate smart, affordable behaviour monitoring and perimeter protection, keeping staff and pupils safer.
-Explore education applications
-Public sector
-From emergency services to council offices, Genie has set up state-of-the-art staff protection systems, anti-social behaviour deterrents, and traffic monitoring networks.
-Explore public sector applications
-Other
-Genie has designed, installed and maintained solutions to suit any size, security level and budget. Explore a few more recent success stories.
-Explore other applications
-Suppliers to
+Notice
+Press
+Exhibition & Events
+Neo Column
+Video
+kor
+eng
+cha
+전체검색
+사이트 내 전체검색
+검색어 필수
+검색
+News
 Home
 News
-Privacy Policy
-About Genie Solutions
-Genie Case Studies
-CCTV
-Access Control
-Support
-Cybersecurity
-Contact
-About Us
-F.A.Q’s
-Shop
-My Account
-Terms & Conditions
-Warranty Statement & Returns Procedure
-Sales
-+44(0)1707 330541
-Enquiries
+Press
+Notice
+Press
+Exhibition & Events
+Neo Column
+Video
+Press
+Total 44건
+1 페이지
+Press 목록
+번호
+제목
+작성자
+44
+보안뉴스 | 네오와인, 복제 방지 칩으로 대만 시장 공략 나서
+26.06.08
+599
+neowine
+43
+전자신문 | 이효승 한국시스템반도체협동조합 이사장 “국방반도체, K팹리스 키우는 마중물”
+26.02.24
+1132
+neowine
+42
+전자신문 | 40나노 파운드리, 늦었지만 반드시 가야 할 길
+26.01.07
+1337
+neowine
+41
+아이뉴스24 | 제3회 팹리스인의 날 기념식 '네오와인' 성남시장 표창
+25.12.02
+1292
+neowine
+40
+디일렉 | (방송본) 대한민국 AI 반도체, 이렇게 가면 망합니다
+25.06.10
+2172
+neowine
+39
+지디넷 | 네오와인 "AI반도체 개발 빠르고 쉽게"···특허 취득
+25.04.29
+1950
+neowine
+38
+보안뉴스 | [미리보는 SECON 2025] 네오와인
+25.03.06
+2100
+neowine
+37
+지디넷 | 네오와인, 엔비디아 쿠다 필요없는 NPU 선보여
+24.10.29
+2382
+neowine
+36
+전자신문 | 시스템반도체 후발주자 韓, 'MPCs' 도입 시급
+24.07.11
+2924
+neowine
+35
+지디넷 | 네오와인, 서울대 차세대반도체혁신융합대학과 챗GPT 활용 교육 수행
+24.01.08
+4192
+neowine
+34
+디일렉 | 네오와인, 완전동형암호(完全同形暗號) 연산 가속기 칩 개발 참여
+23.12.11
+3429
+neowine
+33
+지디넷 | 네오와인 "AI융합 불법복제품 판독시스템 구축 사업 큰 의미
+23.10.13
+4360
+neowine
+32
+디일렉 | 이효승 네오와인 대표, "팹리스 육성 위해 MPC 모델 도입 필요"
+23.08.24
+3993
+neowine
+31
+KBS 홍사훈의 경제쇼 | 이효승, 왜 한국은 대만에 게임이 안될까? KBS 230412 방송
+23.04.17
+3528
+neowine
+30
+보안뉴스 | 네오와인·뉴코리아전자통신·도구공간
+23.03.23
+2756
+neowine
+열린 1 페이지
+2 페이지
+3 페이지
+맨끝
+검색
+검색대상
+제목
+내용
+제목+내용
+글쓴이
+글쓴이(코)
+검색어 필수
+검색
+닫기
+회사명
+Neowine
+대표
+이효승
+주소
+경기도 성남시 분당구 백현로 97 ( 수내동 22-3) 1206호
+전화
+031-706-8484
+팩스
+031-706-8485
+사업문의
 [email protected]
-Returns
-[email protected]
-© Bioaccess Sales Ltd
-Registered Office : c/o Becktech Limited, Terminus Road, Chichester, West Sussex, PO19 8DW | Registered in
-England 12058650 | VAT Number: 325 6941 88
+Copyright © NEOWINE All rights reserved.
+상단으로

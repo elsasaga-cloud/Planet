@@ -1,0 +1,11 @@
+# SB-806 datageneral.co · feed_auto · https://datageneral.co/feed/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+Wed, 30 Oct 2024 10:02:56 +0000	NIS2 Compliance for SMEs and Small ISPs	https://datageneral.co/nis2-compliance-for-smes-and-small-isps/
+Fri, 17 May 2024 13:13:49 +0000	Case studies – Eurostars Gran Hotel La Toja	https://datageneral.co/case-study-eurostars-gran-hotel-la-toja/
+Tue, 07 May 2024 09:28:34 +0000	Data General: AI-Managed Secure Network Solutions	https://datageneral.co/data-general-ai-management/
+Mon, 05 Feb 2024 11:01:37 +0000	Router vs Gateway	https://datageneral.co/router-vs-gateway/
+Tue, 02 Jan 2024 09:01:09 +0000	Access Points modes: FAT and FIT	https://datageneral.co/fat-fit/
+Tue, 26 Dec 2023 16:32:03 +0000	A Comprehensive Guide to Ethernet Switch Types	https://datageneral.co/types-of-ethernet-switches/
+Fri, 15 Dec 2023 16:37:58 +0000	Optimize Energy efficiency with PoE Switches	https://datageneral.co/our-poe-switches/
+Sat, 09 Dec 2023 17:34:36 +0000	WiFi 6, WiFi 6E and WiFi 7 Differences	https://datageneral.co/wifi6-wifi6e-wifi7-differences/
+Fri, 08 Dec 2023 06:53:35 +0000	Understanding the Differences: Router, Gateway and Firewall	https://datageneral.co/router-gateway-firewall-differences/
+Thu, 07 Dec 2023 06:51:57 +0000	Understanding the OSI Model: A Guide to Network Layers	https://datageneral.co/osi-model/

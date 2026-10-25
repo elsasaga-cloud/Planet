@@ -1,291 +1,275 @@
-# SB-924 versitron.com · news_1 · https://www.versitron.com/pages/knowledge-center · fetched 2026-10-25T07:41:18Z · HTTP 200
-Knowledge Center
-Skip to content
-Safeguarding Communications Since 1958
-1-800-537-2296
-sales@versitron.com
-Request a Quote
+# SB-924 Intracom Middle East FZ-LLC · news_1 · https://intracom-telecom.com/corporate/newsroom/press/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+Intracom Telecom - Press Releases
+Main navigation
 Home
-About us
-About Versitron
-Warranty
-What's New?
+Wireless Network Systems
+Wireless Network Systems Portfolio
+Home/Business FWA
+Backhaul & Fronthaul
+Network Automation Software
+Professional Services
+TurnKey Services
+Distributor /SI /VAR
 Products
-Fiber Optic Network Switches
-Managed Switches
-Unmanaged Switches
-Modular Switch
-PoE Switches
-Industrial Switches
-Fiber Optic Media Converters
-10/100Base Fast Ethernet Media Converters
-1000Base Gigabit Media Converter
-10 Gigabit Media Converter
-Multimode to Singlemode Converters
-Single Fiber Media Converters
-Industrial Media Converters
-PoE Media Converters
-Media Converter Chassis
-VersiVision Analog Video
-Tethered Drone Fiber Optic Converters
-1-Channel Video to Fiber Installation Kits
-2-Channel Video to Fiber Installation Kits
-4-Channel Video to Fiber Installation Kits
-8-Channel Video to Fiber Installation Kits
-16-Channel Video to Fiber Installation Kits
-18-Slot Rackmount Chassis
-VersiVision HD Video
-HD-CVI Video to Fiber Installation Kits
-HD-TVI Video to Fiber Installation Kits
-HD-AHD Video to Fiber Installation Kits
-HD-SDI Video to Fiber Installation Kits
-SFP Modules and Transceivers
-10GB SFP Modules
-1G SFP Modules
-100Base SFP Modules
-Serial to Fiber Converters
-Industrial Micromodems
-FOM II Serial Data to Fiber Converters
-Video Distribution Amplifiers
-Analog/HD Video Distribution Amplifiers
-HD-SDI Video Distribution Amplifiers
-2-Wire POTS Phone Kits
-1-Channel Phone
-4-Channel Phone
-8-Channel Phone
-Quick Links
-NDAA Compliant Fiber Optic Solutions
-Fiber Optic Video Transmission
-Network Switches
-All Switches
-Military Fiber Optic Communication Solutions
-All PoE Products
-Layer 2+ Switches
-AV Over IP Solutions
-Small Business Switches
-All Industrial Switches
-All Ethernet Media Converters
-MicroModems
-SFP GBIC Modules
-Product Instructional Videos
-Critical Infrastructure Fiber Optic Communication Solutions
-PoE+ Switches for IP Camera Systems
-Fiber Switches for Substations
-PoE Media Converters for IP Cameras
-Applications
-IoT Applications
-Factory Automation Systems
-Fire Alarm System
-Gate Monitoring Systems
-Mobile Video Surveillance Systems
-Parking Lot Surveillance System
-Security Apps
-IP Vs CCTV
-Video Multiplexers
-Education
-Utilities
-SCADA
-Telemedicine Technology
-Network Switch Apps
-Unusual Applications
-Telecommunications
-Petrochemical/Oil & Gas Industries
-Security & Surveillance Solutions
-AI and GenAI Infrastructure
-Contact us
-Log in
-Home
-About us
-About Versitron
-Warranty
-What's New?
+Point-to-MultiPoint
+Terminal Station
+WiBAS™ G5 GigaConnect+
+WiBAS™ G5 GigaConnect
+WiBAS™ G5 MDUConnect
+WiBAS™- Connect
+WiBAS™ G5 Connect+
+Point-to-MultiPoint
+Base Station
+WiBAS™ G5 Dual
+WiBAS™ G5 Evo
+WiBAS™ G5 Smart
+WiBAS™- OSDR
+Point-to-Point
+E-Band
+UltraLink™ BX70
+Solution
+Fixed Wireless Access (FWA) delivers high-speed internet to homes and businesses without the need for extensive cabling or costly fiber installations. It offers fast download and upload speeds, smooth streaming, reliable video conferencing, and flexible wireless connectivity. Ideal for rural areas or locations with limited infrastructure, FWA keeps you connected wherever traditional networks are harder to deploy.
+Read More
 Products
-Fiber Optic Network Switches
-Managed Switches
-Unmanaged Switches
-Modular Switch
-PoE Switches
-Industrial Switches
-Fiber Optic Media Converters
-10/100Base Fast Ethernet Media Converters
-1000Base Gigabit Media Converter
-10 Gigabit Media Converter
-Multimode to Singlemode Converters
-Single Fiber Media Converters
-Industrial Media Converters
-PoE Media Converters
-Media Converter Chassis
-VersiVision Analog Video
-Tethered Drone Fiber Optic Converters
-1-Channel Video to Fiber Installation Kits
-2-Channel Video to Fiber Installation Kits
-4-Channel Video to Fiber Installation Kits
-8-Channel Video to Fiber Installation Kits
-16-Channel Video to Fiber Installation Kits
-18-Slot Rackmount Chassis
-VersiVision HD Video
-HD-CVI Video to Fiber Installation Kits
-HD-TVI Video to Fiber Installation Kits
-HD-AHD Video to Fiber Installation Kits
-HD-SDI Video to Fiber Installation Kits
-SFP Modules and Transceivers
-10GB SFP Modules
-1G SFP Modules
-100Base SFP Modules
-Serial to Fiber Converters
-Industrial Micromodems
-FOM II Serial Data to Fiber Converters
-Video Distribution Amplifiers
-Analog/HD Video Distribution Amplifiers
-HD-SDI Video Distribution Amplifiers
-2-Wire POTS Phone Kits
-1-Channel Phone
-4-Channel Phone
-8-Channel Phone
-Quick Links
-NDAA Compliant Fiber Optic Solutions
-Fiber Optic Video Transmission
-Network Switches
-All Switches
-Military Fiber Optic Communication Solutions
-All PoE Products
-Layer 2+ Switches
-AV Over IP Solutions
-Small Business Switches
-All Industrial Switches
-All Ethernet Media Converters
-MicroModems
-SFP GBIC Modules
-Product Instructional Videos
-Critical Infrastructure Fiber Optic Communication Solutions
-PoE+ Switches for IP Camera Systems
-Fiber Switches for Substations
-PoE Media Converters for IP Cameras
-Applications
-IoT Applications
-Factory Automation Systems
-Fire Alarm System
-Gate Monitoring Systems
-Mobile Video Surveillance Systems
-Parking Lot Surveillance System
-Security Apps
-IP Vs CCTV
-Video Multiplexers
-Education
-Utilities
-SCADA
-Telemedicine Technology
-Network Switch Apps
-Unusual Applications
-Telecommunications
-Petrochemical/Oil & Gas Industries
-Security & Surveillance Solutions
-AI and GenAI Infrastructure
-Contact us
-Type Your Keyword
-Request a Quote
-Login
-Cart
-Log in
-Item added to your cart
-View cart
-Check out
-Continue shopping
-Home
-Knowledge Center
-Why Video Distribution Amplifiers Are Essential for CCTV and HD Video
-Imagine trying to display crystal-clear security footage on multiple monitors—or stream a live event to several rooms—only to be met with flickering screens, lag, or distorted images.
-Know More
-Video to Fiber Installation Kits for CCTV Surveillance Systems
-As surveillance and security infrastructures continue to evolve, so does the demand for technologies that support long-distance transmission, high-speed video streaming, and noise-free connectivity.
-Know More
-Understanding PoE Media Converters: Applications, Certifications, and Use Cases
-Explore how PoE Media Converters bridge power and data over a single cable in diverse environments—from industrial zones to smart cities—while meeting global certifications and operational demands.
-Know More
-Buy Industrial-Grade PoE Switches for IoT, Automation, Surveillance, and Smart City Projects
-Explore versatile PoE switches that power smart buildings, surveillance, industrial automation, and IoT networks. Reliable, scalable, and ideal for modern infrastructure.
-Know More
-How to Connect Two Network Switches Using 10Gb SFP Modules for Military Applications?
-Learn how to connect network switches using 10Gb SFP modules for military applications. Ensure secure, high-speed communication across TOCs, command centers, surveillance, cyber defense, and C4ISR systems.
-Know More
-Contact Us
-Submit
-Most Viewed
-How to Connect Two Network Switches Using 10Gb SFP Modules for Military Applications?
-Buy Industrial-Grade PoE Switches for IoT, Automation, Surveillance, and Smart City Projects
-Understanding PoE Media Converters: Applications, Certifications, and Use Cases
-Address
-VERSITRON Inc.
-83 Albe Drive,
-Suite C,
-Newark, DE 19702.
-Call
-1-800-537-2296
-302-894-0699
-Email
-sales@versitron.com
+Point-to-Point
+E-Band
+UltraLink™-GX80
+UltraLink™-GX80 Advanced
+UltraLink™-GX80 Dual
+UltraLink™-FX80 CN
+Point-to-Point
+Microwave
+OmniBAS™ IDUs/ODUs
+OmniBAS™ Long Haul
+OmniBAS™-BX
+OmniBAS™-BXd
+OmniBAS™-BXca
+OmniBAS™-OSDR
+StreetNode™
+Solution
+Backhaul and fronthaul solutions support the efficient transfer of data between cell sites, base stations, and the core network. They improve capacity, reliability, and low-latency performance for 4G and 5G deployments, helping operators scale modern wireless networks while keeping transport infrastructure robust and cost effective.
+Read More
+uni|MS™ Network Lifecycle Management
+uni|MS™ Radio Planner
+uni|MS™ PlanIt
+uni|MS™ Connected Site
+IP/MPLS Suite
+Solution
+uni|MS™ platform unifies planning, rollout, operations, and monitoring of FWA and wireless transport networks in one multi-layered system. AI-powered, intent-driven automation optimizes RF design, interference, capacity, and real-time performance while enabling predictive maintenance, asset optimization, and centralized network visibility for faster collaboration and scalable deployments.
+Technical Support & Maintenance
+Device Repair & Replacement
+Engineering & Consulting
+Training
+Latest article from
+Wireless Network Systems
+Rethinking Fixed Wireless Access: Why Purpose-Built mm-Wave Systems Have the Advantage
+Turnkey Implementation Services for FWA and Wireless Transport Networks
+Latest article from
+Wireless Network Systems
+Rethinking Fixed Wireless Access: Why Purpose-Built mm-Wave Systems Have the Advantage
+Grow Your Business with Industry-Leading Wireless Solutions!
+Partner with us and unlock exclusive access to cutting-edge broadband wireless solutions that drive connectivity and innovation. Join our network of successful distributors and expand your portfolio with high-performance, reliable, and future-ready technology.
+Join Our Program
+Wireless Network Systems
+Wireless Network Systems Portfolio
+Home/Business FWA
 Products
-Fiber Optic Network Switches
-Managed Switches
-Unmanaged Switches
-Modular Switch
-PoE Switches
-Industrial Switches
-VersiVision Analog Video
-1-Channel Video to Fiber Installation Kits
-2-Channel Video to Fiber Installation Kits
-4-Channel Video to Fiber Installation Kits
-8-Channel Video to Fiber Installation Kits
-16-Channel Video to Fiber Installation Kits
-18-Slot Rackmount Chassis
-SFP Modules and Transceivers
-10GB SFP Modules
-1G SFP Modules
-100Base SFP Modules
-Fiber Optic Media Converters
-10/100Base Fast Ethernet Media Converters
-1000Base Gigabit Media Converter
-10 Gigabit Media Converter
-Multimode to Singlemode Converters
-Single Fiber Media Converters
-Industrial Media Converters
-PoE Media Converters
-Media Converter Chassis
-2-Wire POTS Phone Kits
-1-Channel Phone
-4-Channel Phone
-8-Channel Phone
-VersiVision HD Video
-HD-CVI Video to Fiber Installation Kits
-HD-TVI Video to Fiber Installation Kits
-HD-AHD Video to Fiber Installation Kits
-HD-SDI Video to Fiber Installation Kits
-Serial to Fiber Converters
-Industrial Micromodems
-FOM II Serial Data to Fiber Converters
-Video Distribution Amplifiers
-Analog/HD Video Distribution Amplifiers
-HD-SDI Video Distribution Amplifiers
-About Us
-News & Blogs
-Knowledge Center
-Case Study
-Applications
-FAQs
-Contact Us
-Whitepaper
-Sitemap
-Best Seller
-Privacy Policy
-Return Policy
-Terms and Conditions
-Get Connected
-Facebook
-YouTube
-Twitter
-Pinterest
-LinkedIn
-Copyright © 2026 Versitron .
-All Rights Reserved
-Choosing a selection results in a full page refresh.
-Opens in a new window.
+Point-to-MultiPoint
+Terminal Station
+WiBAS™ G5 GigaConnect+
+WiBAS™ G5 GigaConnect
+WiBAS™ G5 MDUConnect
+WiBAS™- Connect
+WiBAS™ G5 Connect+
+Point-to-MultiPoint
+Base Station
+WiBAS™ G5 Dual
+WiBAS™ G5 Evo
+WiBAS™ G5 Smart
+WiBAS™- OSDR
+Point-to-Point
+E-Band
+UltraLink™ BX70
+Solution
+Fixed Wireless Access (FWA) delivers high-speed internet to homes and businesses without the need for extensive cabling or costly fiber installations. It offers fast download and upload speeds, smooth streaming, reliable video conferencing, and flexible wireless connectivity. Ideal for rural areas or locations with limited infrastructure, FWA keeps you connected wherever traditional networks are harder to deploy.
+Read More
+Backhaul & Fronthaul
+Products
+Point-to-Point
+E-Band
+UltraLink™-GX80
+UltraLink™-GX80 Advanced
+UltraLink™-GX80 Dual
+UltraLink™-FX80 CN
+Point-to-Point
+Microwave
+OmniBAS™ IDUs/ODUs
+OmniBAS™ Long Haul
+OmniBAS™-BX
+OmniBAS™-BXd
+OmniBAS™-BXca
+OmniBAS™-OSDR
+StreetNode™
+Solution
+Backhaul and fronthaul solutions support the efficient transfer of data between cell sites, base stations, and the core network. They improve capacity, reliability, and low-latency performance for 4G and 5G deployments, helping operators scale modern wireless networks while keeping transport infrastructure robust and cost effective.
+Read More
+Network Automation Software
+uni|MS™ Network Lifecycle Management
+uni|MS™ Radio Planner
+uni|MS™ PlanIt
+uni|MS™ Connected Site
+IP/MPLS Suite
+Professional Services
+Technical Support & Maintenance
+Device Repair & Replacement
+Engineering & Consulting
+Training
+TurnKey Services
+Distributor /SI /VAR
+Grow Your Business with Industry-Leading Wireless Solutions!
+Partner with us and unlock exclusive access to cutting-edge broadband wireless solutions that drive connectivity and innovation. Join our network of successful distributors and expand your portfolio with high-performance, reliable, and future-ready technology.
+Join Our Program
+Software & ICT
+Software & ICT Portfolio
+AI & Data
+Internet of Things
+Customer Engagement
+Cloud, Networking & Security
+Monetization & Business Support
+Network Operations
+Metering & Grid
+eHealth
+Video Streaming
+Customized SW Solutions
+Solutions
+GenAI-enabled Billing Assistant
+AI-powered Sustainability
+AI-powered enhanced Customer experience (CSI)
+AI powered IoT
+Enterprise Data Warehouse & Data Lake
+Business Intelligence
+Data Operations
+Products
+BigStreamer™
+Cognitiva™
+NFV-RI™
+Unlock the Power of AI & Data
+Transform your data into a powerful competitive edge with intelligent, AI-powered solutions that spark innovation and drive growth. From effortless data management to real-time business insights and agentic orchestration, we empower you to achieve optimized efficiencies and create impactful experiences. Anticipate trends, enhance customer interactions, and automate decision-making, all while simplifying workflows and harnessing smart data management. Effortlessly handle large datasets, cut operational costs, and boost productivity.
+Read More
+Solutions
+Energy Monitoring
+Water Monitoring
+Environmental Monitoring
+Lighting Management
+Smart Parking
+Buildings Resource Monitoring
+Industrial IoT
+PhotoVoltaic (PV) Monitoring
+Integrated EV Charging & Carport
+Products
+uiTOP™
+Smart IoT Solutions for a Sustainable Future
+Optimize energy, mobility and resource management with our cutting-edge IoT solutions. From Smart Electro-Vehicle (EV) Charging and CarPort solutions to real-time Energy, Water, and Environmental Monitoring, we help businesses and cities operate more efficiently. Enhance urban mobility with Smart Parking and improve Building Resource Management with intelligent insights. Drive efficiency, reduce costs, and build a smarter, greener tomorrow—today!
+Read More
+Solutions
+Contact Centers
+GenAI-enabled Billing Assistant
+AI-powered enhanced Customer experience (CSI)
+Unified Communications
+Products
+Cognitiva™
+Revolutionize Customer Experience with AI-Powered, Omnichannel Solutions
+Deliver exceptional customer interactions with intelligent contact centers, AI-powered digital workforce, and unified communications solutions. Using omnichannel engagement we help businesses stay connected, responsive, and efficient. Transform the way you connect—create seamless, efficient, and memorable customer interactions today!
+Read More
+Solutions
+Cloud
+Networking
+Cybersecurity
+Professional Services
+Unlock your business potential with our state-of-the-art Cloud, Networking and Security Solutions.
+Designed for efficiency, reliability, and scalability, Intracom Telecom solutions deliver unmatched flexibility and security—ensuring seamless uptime and fast load speeds. Our cutting-edge strategies protect your systems, networks, and data, safeguarding sensitive information while maintaining confidentiality, integrity, and availability.
+Read More
+Solutions
+Converged Charging
+Policy Control
+GenAI-enabled Billing Assistant
+AI-powered enhanced Customer experience (CSI)
+Telecom Applications
+Products
+NGINius™
+Cognitiva™
+Maximize Revenue with our Monetization suite and AI enabled BSS
+Ensure advanced charging and superior customer experience with our high-performance, carrier-grade Revenue management suite enabling Services Monetization, Policy Control and advanced digital services for 4G, 5G and beyond.Gen-AI powered BSS including Agentic Billing Assistant & Customer eXperience optimization enable complex billing events and charges analysis increasing customer satisfaction and reducing churn
+Read More
+Solutions
+Network & Service Assurance
+Network & Service Fulfillment
+AI-powered Network QoE
+AI-powered enhanced Customer experience (CSI)
+Telecom Applications
+Products
+ActionStreamer™
+NGINius™
+Cognitiva™
+Optimize & Elevate Your Telecom Operations
+Empower your telecom operations with smart, scalable, and future-ready solutions! From network assurance to AI–powered Customer Satisfaction we help you deliver reliability, efficiency, and an exceptional user experience. Drive extra revenue and delight your consumer and business subscribers by offering carrier-grade services over fixed and mobile networks.
+Read More
+Solutions
+Advanced Metering Infrastructure (AMI)
+Smart Electro-Vehicle (EV) CarPort
+Smart Grid Infrastructure
+Transform Utilities with Smart, Connected, and Future-Ready Metering & Grid Solutions!
+Streamline operations and optimize resource management with next-generation metering and smart grid technologies that enhance efficiency, sustainability, and real-time control.
+Read More
+Solutions
+Medical Data Management
+Radiology Information Management
+Telehealth
+Revolutionize Healthcare with our advanced ICT solutions
+Empower medical professionals to deliver high-quality, accessible care anywhere, anytime. Our technology offers secure data storage, real-time monitoring, telemedicine platforms, medical images distribution, and cloud-based diagnostic tools, enhancing patient outcomes and improving operational efficiency for healthcare facilities worldwide.
+Read More
+Solutions
+Multi-screen Video Delivery
+Digital TV Services
+Telco
+Cable
+Broadband
+OTT
+Products
+fs|cdn™ Anywhere
+Powerful Multi-Screen Video Solutions for Unmatched Experiences
+Embrace the challenges brought by the ever-changing Digital TV environment with our end-to-end Video Solutions. Deliver your Branded Video Services using an engaging User Experience (UX) to thousands of end-users on all popular devices (Android TV, Apple TV, Amazon, Roku, Smart TVs, phones & Tablets) enabled by various Subscription or Transaction based offerings and multiple business models (BYOD, Google Certified TV and more).
+Read More
+Solutions
+Software Outsourcing
+Custom Applications
+Business Process Management
+Robotic Process Automation (RPA)
+Products
+ServiceWeaver™
+Tailor-Made Software for Your Business Success
+Empower your business with custom-built software solutions designed to streamline operations, enhance efficiency, and drive growth. Whether you need software outsourcing, seamless integrations, or intelligent automation, we deliver solutions that fit your unique needs. Transform the way you work with bespoke software solutions built for your success!
+Read More
+AI & Data
+Solutions
+GenAI-enabled Billing Assistant
+AI-powered Sustainability
+AI-powered enhanced Customer experience (CSI)
+AI powered IoT
+Enterprise Data Warehouse & Data Lake
+Business Intelligence
+Data Operations
+Products
+BigStreamer™
+Cognitiva™
+NFV-RI™
+Unlock the Power of AI & Data
+Transform your data into a powerful competitive edge with intelligent, AI-powered solutions that spark innovation and drive growth. From effortless data management to real-time business insights and agentic orchestration, we empower you to achieve optimized efficiencies and create impactful experiences. Anticipate trends, enhance customer interactions, and automate decision-making, all while simplifying workflows and harnessing smart data management. Effortlessly handle large datasets, cut operational costs, and boost productivity.
+Read More
+Internet of Things
+Solutions
+Energy Monitoring
+Water Monitoring
+Environmental Monitoring
+Lighting Management
+Smart Park

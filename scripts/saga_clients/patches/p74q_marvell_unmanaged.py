@@ -93,7 +93,7 @@ def main():
             t, c = fix(de.get('body'))
             if c:
                 de['body'] = t; ch.append('body')
-        if d.get('code') == 'SB-957':
+        if d.get('code') == 'SB-851':
             sf = d.get('saga_fit') or {}
             if sf.get('p1') == 'STI-280GE':
                 sf['p1'] = 'STI-280GM'; ch.append('p1')

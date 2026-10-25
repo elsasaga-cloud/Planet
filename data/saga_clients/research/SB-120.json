@@ -1,70 +1,38 @@
 {
  "code": "SB-120",
- "name_official": "Schaltanlagenbau Förderstedt GmbH（SAF，saf-slk.de，Seeland OT Hoym, DE）",
+ "name_official": "Pronet (Private) Limited（Karachi）",
  "researched_at": "2026-10-21",
- "website_status": "在线",
- "summary": "德国萨克森-安哈尔特州的开关柜/配电柜制造商（HRB 19446 Stendal；USt-ID DE289406638；24 人、营收 ≤€10M 口径；总经理 Marco Bohne）：低压/中压开关柜定制、能源管理、故障/熔断/差流/温度监控、PV 直流汇流与消防急停、公用事业户外配电柜、住宅配电；另做网络分析、电池与保护继电器测试。柜内能源管理与监控需要 DIN 导轨工业以太网交换机——与 STI 系列直接相关。用户表：WhatsApp 已加，7 次跟进 0 回复。",
+ "website_status": "在线（pronet-tech.net，快照 2026-10-21）",
+ "summary": "卡拉奇 IT 基础设施 / 网络安全 / 数据中心集成商（Clifton Horizon Tower；关联迪拜 LinkQuest +971），伙伴 Fortinet / Ubiquiti；表内 Muhammad Azhar Yousfani 2024-01 对工业收发器回「商用 FE/GE 5–7 USD」目标价、要 DS 与 profile，此后「有需求会说」×3；需求偏低端（protocol converter）。",
  "type": "",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Fortinet",
+  "Ubiquiti"
+ ],
  "evidence": [
   {
-   "kind": "官网",
-   "claim": "业务范围",
-   "quote": "Herzlich willkommen bei Schaltanlagenbau Förderstedt GmbH – Ihrem zuverlässigen Partner für professionellen Schaltanlagenbau und hochmoderne Schutzprüfungen auf Nieder- und Mittelspannungsebene … Schaltschrankplanung und ‑fertigung nach Maß - DC-Sammler und Feuerwehr Not-Aus Systeme für PV-Anlagen - Energiemanagement - Störungsüberwachung - Sicherungsüberwachung - Differenzstromüberwachung … - Außenverteiler (Standard- sowie Sonderbau) – z.B. für EVU",
-   "url": "https://saf-slk.de/",
-   "date": "2026-10-07"
-  },
-  {
-   "kind": "官网",
-   "claim": "联系人与邮箱（公开）",
-   "quote": "Geschäftsführung Marco Bohne E‑Mail:bohne@saf-slk.de Vertretungsberechtigte Anika Duschka ppa. … E‑Mail:duschka@saf-slk.de Kalkulation / Handlungsbevollmächtigter Christopher Roder-Rosenov E‑Mail: roder-rosenov@saf-slk.de … Schaltanlagenbau Förderstedt GmbH Ascherslebener Straße 18d 06467 Seeland OT Hoym … 034741 / 9886–0 info@saf-slk.de",
-   "url": "https://saf-slk.de/kontakt/",
-   "date": "2025-10-29"
-  },
-  {
-   "kind": "官网",
-   "claim": "登记信息",
-   "quote": "Umsatzsteuer-Identifikationsnummer … DE 289 406 638 Handels-Register Amtsgericht Stendal, HRB 19446 Geschäftsführer Marco Bohne",
-   "url": "https://saf-slk.de/impressum/",
-   "date": "2025-10-02"
-  },
-  {
-   "kind": "名录",
-   "claim": "规模",
-   "quote": "Schaltanlagenbau Förderstedt GmbH … Hersteller von Elektrotechnik Anzahl Mitarbeiter: 24 in Deutschland Umsatzklasse: Bis 10 Mio. Euro",
-   "url": "https://www.wer-zu-wem.de/firma/saf-slk.html",
+   "kind": "官网快照",
+   "claim": "定位：核心网络 / 现代基础设施 / 云 / 威胁防护；卡拉奇 Clifton；关联 linkquestme.com（迪拜 +971 4 326 2916）",
+   "quote": "RESILIENT CORE NETWORKS… Modern Infrastructure… Cloud… Horizon Tower, Plot# Commercial 2/6, Block No.3, Clifton, Karachi… info@linkquestme.com",
+   "url": "https://pronet-tech.net/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "WhatsApp 已加；7 次跟进 0 回复",
-   "quote": "（用户表字段）",
+   "claim": "兴趣 protocol converter，需求低端；回复商业 FE GE 5/7usd, DS, profile；有需求会说 ×3",
+   "quote": "兴趣：protocol converter 需求产品较为低端；回复：商业FE GE 5/7usd,DS, profile",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
  "kp": [
   {
-   "name": "Marco Bohne",
-   "role": "Geschäftsführer（官网联系页公开）",
-   "email": "bohne@saf-slk.de",
-   "phone": "+49 34741 9886-0",
-   "source": "https://saf-slk.de/kontakt/"
-  },
-  {
-   "name": "Anika Duschka",
-   "role": "Vertretungsberechtigte ppa.（官网联系页公开）",
-   "email": "duschka@saf-slk.de",
-   "phone": "+49 34741 9886-0",
-   "source": "https://saf-slk.de/kontakt/"
-  },
-  {
-   "name": "Christopher Roder-Rosenov",
-   "role": "Kalkulation / Handlungsbevollmächtigter（报价/采购口径；官网公开）",
-   "email": "roder-rosenov@saf-slk.de",
-   "phone": "+49 34741 9886-0",
-   "source": "https://saf-slk.de/kontakt/"
+   "name": "Muhammad Azhar Yousfani",
+   "title": "（表内联系人）",
+   "email": "ayousfani@pronet-tech.net",
+   "phone": "+92 302 261 0124",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
   }
  ],
  "grade_override": null,
@@ -72,86 +40,102 @@
  "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网核对）"
+  "level": "B 级加厚 v1（官网快照核对）"
  },
  "company_facts": {
-  "legal_name": "Schaltanlagenbau Förderstedt GmbH",
-  "registry": "HRB 19446（Amtsgericht Stendal）· USt-ID DE 289 406 638",
-  "hq": "Ascherslebener Straße 18d, 06467 Seeland OT Hoym, Deutschland（+49 34741 9886-0；info@saf-slk.de）",
-  "size": "24 人（wer-zu-wem）；营收 ≤€10M",
-  "other": "培训企业（电子/工业电工学徒）；柜体设计与制造 + 现场安装与电缆敷设"
+  "legal_name": "Pronet (Private) Limited",
+  "founded": "",
+  "hq": "Horizon Tower, Clifton Block 3, Karachi, Pakistan",
+  "size": "中小型集成商",
+  "other": "+92-21-35822401-4；迪拜关联公司 LinkQuest"
  },
  "business_lines": [
-  "低压/中压开关柜与配电柜定制制造",
-  "能源管理与监控（故障、熔断、差流、温度）",
-  "PV 直流汇流 / 消防急停系统；公用事业户外配电柜",
-  "保护测试（NA/QU 保护、断路器、继电器、电池、网络分析）"
+  "企业网络 / 数据中心",
+  "网络安全（Fortinet）",
+  "监控 / 门禁 / 无线（Ubiquiti）"
  ],
  "channels": {
-  "网站": "https://saf-slk.de/",
-  "电话": "+49 34741 9886-0（官网公开）",
-  "邮箱（公开）": "info@saf-slk.de"
+  "role": "系统集成商",
+  "region": "巴基斯坦 + 阿联酋"
  },
  "signals": [
-  "柜内能源管理/监控网络 → 每柜 1 台 DIN 导轨管理交换机（非 PoE 为主，部分摄像/传感器 PoE）；采购口径人（Kalkulation）公开——可直接对接"
+  "给出过目标价（商用 FE/GE MC $5–7）"
  ],
  "risks": [
-  "德国柜体厂对 EN/IEC 认证与 24 V DC 供电有要求（Saga STI 12–58 V DC 覆盖）；7 次跟进 0 回复"
+  "目标价极低（$5–7 MC），Saga 工业 MC $22 起 → 只能报 HRUI/SmartByte 商用 MC 并注明",
+  "「有需求会说」×3 = 被动"
  ],
  "saga_fit": {
-  "p1": "STI-280DGGM",
+  "p1": "STI-110GE",
   "tier": 25,
-  "why": "终端/OEM 配套 25% 档：STI-280DGGM（DIN 8 GE + 2 SFP，12–58 V DC，−40~+75 ℃，L2+）柜内标配；需 PoE 时 STI-288DGGPM；4 口小柜 STI-240DGGM"
+  "why": "收发器需求：工业 STI-110GE $22.4；其 $5–7 目标价只能对应商用桌面 MC（Saga 价目无，按 SmartByte 型号报并注明）。"
  },
- "email_hook": "For the energy-management and monitoring cabinets you build, a DIN-rail 8-port gigabit managed switch with 2 SFP (12–58 V DC, −40 to +75 °C) is $121.0 EXW; which DC rail voltage do you standardise on, 24 V or 48 V?",
+ "email_hook": "Azhar, your $5–7 target was for commercial media converters — we can do a desktop gigabit MC near that level at 100-pc quantity; is that the volume you'd place, or is it project-by-project?",
  "mail_review": {
   "binding": {
-   "level": "未触达（A 邮箱 17 封 2025→2026，无记录打开，0 回；收件 ratey@saf-slk.de；主题多为「90W PoE Managed Switch、Industrial PoE Switch」；Elsa 箱：`to:.de` 穷举 29 条（2026-10-25，锚批 Bcc 头已读）未见 saf-slk.de → Elsa 箱从未发过本户，往来只在 S/A 箱（去 17 / 来 0）（第 74 批(f)））",
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：protocol converter 需求产品较为低端；回复：商业FE GE 5/7usd,DS, profile」；Elsa 箱：`to:pronet-tech.net` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(n)））",
    "type": "—",
-   "sieve": "1（只收到群发）",
-   "stop": "17 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "保持季度群发到 2027-Q1；无打开即停；WhatsApp 已加 → 唤醒走 WhatsApp 一句话，不走邮件",
-   "lane": "DE 主攻（四主）",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 17；用户表：「（用户表字段）」；研究档 risks：德国柜体厂对 EN/IEC 认证与 24 V DC 供电有要求（Saga STI 12–58 V DC 覆盖）；7 次跟进 0 回复"
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "不动（非主攻区；J5：有证据再动）",
+   "lane": "巴基斯坦 非主攻",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 0；用户表：「兴趣：protocol converter 需求产品较为低端；回复：商业FE GE 5/7usd,DS, profile」；研究档 risks：目标价极低（$5–7 MC），Saga 工业 MC $22 起 → 只能报 HRUI/SmartByte 商用 MC 并注明"
   },
-  "situation": "德国萨克森-安哈尔特州的开关柜/配电柜制造商（HRB 19446 Stendal；USt-ID DE289406638；24 人、营收 ≤€10M 口径；总经理 Marco Bohne）：低压/中压开关柜定制、能源管理、故障/熔断/差流/温度监控、PV 直流汇流与消防急停、公用事业户外配电柜、住宅配电；另做网络分析、电池与保护继电器测试。柜内能源管理与监控需要 DIN 导轨工业以太网交换机——与 STI 系列直接相关。用户表：WhatsApp 已加，7 次跟进 0 回复。",
-  "need": "终端/OEM 配套 25% 档：STI-280DGGM（DIN 8 GE + 2 SFP，12–58 V DC，−40~+75 ℃，L2+）柜内标配；需 PoE 时 STI-288DGGPM；4 口小柜 STI-240DGGM",
-  "breakpoint": "德国柜体厂对 EN/IEC 认证与 24 V DC 供电有要求（Saga STI 12–58 V DC 覆盖）；7 次跟进 0 回复",
+  "situation": "卡拉奇 IT 基础设施 / 网络安全 / 数据中心集成商（Clifton Horizon Tower；关联迪拜 LinkQuest +971），伙伴 Fortinet / Ubiquiti；表内 Muhammad Azhar Yousfani 2024-01 对工业收发器回「商用 FE/GE 5–7 USD」目标价、要 DS 与 profile，此后「有需求会说」×3；需求偏低端（protocol converter）。",
+  "need": "收发器需求：工业 STI-110GE $22.4；其 $5–7 目标价只能对应商用桌面 MC（Saga 价目无，按 SmartByte 型号报并注明）。",
+  "breakpoint": "目标价极低（$5–7 MC），Saga 工业 MC $22 起 → 只能报 HRUI/SmartByte 商用 MC 并注明",
   "saga_now": {
-   "p1": "STI-280DGGM",
+   "p1": "STI-110GE",
    "tier": 25,
-   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-06-04 $300（48 Port PoE Managed Switch）、2026-04-30 $280（10G Enterprise SFP Switch）（㉕ 封顶：STI-280DGGM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25）",
-   "why": "终端/OEM 配套 25% 档：STI-280DGGM（DIN 8 GE + 2 SFP，12–58 V DC，−40~+75 ℃，L2+）柜内标配；需 PoE 时 STI-288DGGPM；4 口小柜 STI-240DGGM",
+   "price": "按主表（研究档 saga_fit）",
+   "why": "收发器需求：工业 STI-110GE $22.4；其 $5–7 目标价只能对应商用桌面 MC（Saga 价目无，按 SmartByte 型号报并注明）。",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开",
-   "one_question": "For the energy-management and monitoring cabinets you build, a DIN-rail 8-port gigabit managed switch with 2 SFP (12–58 V DC, −40 to +75 °C) is $121.0 EXW; which DC rail voltage do you standardise on, 24 V or 48 V?"
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
   },
   "facts": [
    {
-    "date": "2026-09-23",
-    "dir": "去",
-    "who": "A 群发",
-    "quote": "90W PoE Managed Switch、Industrial PoE Switch",
-    "why": "17 封 / 0 次打开 / 0 回｜首封 2025-03-25 → 末封 2026-09-23（17 去 / 0 来）",
-    "k": "gmail_digest"
+    "date": "2024-05-16",
+    "dir": "来",
+    "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+    "quote": "用户表跟进：推「发了几个mini工业交换机图」→ 对方「有需求会说」",
+    "why": "Simon 跟进表里的**婉拒/无需求**记录——这是 stop 原因的直接证据，节奏按「不动，等他开口」",
+    "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.89 2024.5.16"
+   },
+   {
+    "date": "2024-10-15",
+    "dir": "来",
+    "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+    "quote": "用户表跟进：推「工业4 8口poe」→ 对方「有需求会说」",
+    "why": "Simon 跟进表里的**婉拒/无需求**记录——这是 stop 原因的直接证据，节奏按「不动，等他开口」",
+    "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.89 1015"
+   },
+   {
+    "date": "2025-01-03",
+    "dir": "来",
+    "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+    "quote": "用户表跟进：推「电口」→ 对方「有需求会说」",
+    "why": "Simon 跟进表里的**婉拒/无需求**记录——这是 stop 原因的直接证据，节奏按「不动，等他开口」",
+    "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.89 1.3"
    },
    {
     "date": "2026-10-21",
     "dir": "用户表",
     "who": "Simon",
-    "quote": "（用户表字段）",
+    "quote": "兴趣：protocol converter 需求产品较为低端；回复：商业FE GE 5/7usd,DS, profile",
     "why": "表内备注",
     "k": "用户表"
    }
   ],
   "proof_gaps": [
-   "用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+   "无邮件往来",
+   "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
   ],
   "draft_en": null,
   "as_of": "2026-10-24"

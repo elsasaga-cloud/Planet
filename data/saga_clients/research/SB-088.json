@@ -1,66 +1,155 @@
 {
  "code": "SB-088",
- "name_official": "",
+ "name_official": "EDIMAX Technology Co., Ltd.（讯舟，台湾）",
  "researched_at": "2026-10-21",
- "website_status": "在线（fastcabling.com，快照 2026-10-21）",
- "summary": "Fastcabling（fastcabling.com：PoE 网络产品品牌（PoE 延长器/交换机，美国仓发货），背后为深圳厂商的海外站；表内国别新加坡待核；仅 support@）；群发 5 次无回复。",
- "type": "国内 PoE 厂商海外站（同行）",
+ "website_status": "在线（edimax.com；快照超时）",
+ "summary": "台湾网络品牌 EDIMAX（上市，消费 / SMB / 工业网络产品），表内 Jesse Chen / Bruce Yang 兴趣工业 FS、SFP、周边，2025-07 对 16 电回复 INFO。EDIMAX 工业线多为外购贴牌 → OEM 30%。台湾厂商口径：按继承规则台系品牌商不是「渠道客户」，但作为 OEM/贴牌采购方可按 OEM 30% 档跟进。",
+ "type": "",
  "size": "",
  "brands_seen": [],
  "evidence": [
   {
    "kind": "官网快照",
-   "claim": "官网标题：fastcabling.com",
-   "quote": "",
-   "url": "https://fastcabling.com/",
+   "claim": "edimax.com 抓取超时（站点正常，反爬 / 慢）",
+   "quote": "status timeout",
+   "url": "https://www.edimax.com/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "PoE network",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "PoE network",
-   "quote": "PoE network",
+   "claim": "兴趣工业 FS FS SFP 周边产品；2025-07 16 电→INFO",
+   "quote": "兴趣：工业FS FS SFP 周边产品；回复：INFO",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
- "kp": [],
- "grade_override": "C",
- "override_reason": "国内厂商海外站（同行）；c_sub=同行/国内厂商海外站",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "kp": [
+  {
+   "name": "Jesse Chen",
+   "title": "（采购 / PM，表内联系人）",
+   "email": "jessechen@edimax.com.tw",
+   "phone": "",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  },
+  {
+   "name": "Bruce Yang",
+   "title": "（表内联系人）",
+   "email": "bruceyang@edimax.com.tw",
+   "phone": "",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（快照超时 + 表内：台系品牌 OEM）"
  },
  "company_facts": {
-  "hq": "新加坡",
-  "other": "官网 fastcabling.com，语言 ?，快照状态 ok；角色判定来源：待核"
+  "legal_name": "EDIMAX Technology Co., Ltd.（訊舟科技）",
+  "founded": "1986",
+  "hq": "新北市，台湾",
+  "size": "上市品牌商",
+  "other": "工业 / SMB 交换机线外购贴牌"
  },
  "business_lines": [
-  "PoE 延长器 / 交换机（品牌站）"
+  "SMB / 消费网络（路由、交换、无线）",
+  "工业以太网交换机（贴牌）",
+  "IoT / 空气质量传感"
  ],
  "channels": {
-  "role": "国内 PoE 厂商海外站（同行）",
-  "region": "新加坡",
-  "contact": "support@fastcabling.com"
+  "role": "台系品牌商（OEM 采购）",
+  "region": "全球"
  },
  "signals": [
-  "表内：PoE network；support@fastcabling.com",
-  "快照：内容为空"
+  "对 16 口工业 PoE 要 INFO → 补 SKU 采购窗口"
  ],
  "risks": [
-  "同行：国内 PoE 厂商的海外品牌站；国别待核（表内新加坡）；仅 support@"
+  "台系品牌商口径；验厂 / 认证流程长",
+  "量大压价"
  ],
  "saga_fit": {
-  "p1": null,
+  "p1": "STI-21616GP",
   "tier": 30,
-  "why": "国内厂商海外品牌站（同行），非渠道客户 → 改 C；国别待核"
+  "why": "16 电工业 PoE → STI-21616GP 贴 EDIMAX 标（OEM 30%）；配套 SFP 不在价目（Q-32）。"
  },
- "email_hook": "（不发送：同行海外站）"
+ "email_hook": "Jesse, on the 16-port industrial PoE you asked about — 16×PoE+ + 2 SFP, L2+ managed, −40~75 ℃, CE/FCC/RoHS; if EDIMAX is re-sourcing that SKU, I can send the OEM spec and a sample price this week.",
+ "mail_review": {
+  "binding": {
+   "level": "轻度触达（2025-07-09 Jesse Chen（EDIMAX）要目录与价表 → 链接 → 「We will study your list and feedback soon」；无后续；Elsa 箱：`to:edimax.com.tw OR to:edimax.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 12 / 来 2）（第 74 批(n)））",
+   "type": "台湾网络品牌商（EDIMAX 讯舟）——台湾厂商口径 OEM/ODM 二供",
+   "sieve": "2",
+   "stop": "资料后无回",
+   "revive": "年度一次",
+   "lane": "TW",
+   "cadence": "年度",
+   "evidence": "k=b21df8d3abb40eb6 / 07bd3a88e1d5f61c；第 19 批回补来信原文 2 条（gmail_s/gmail_a）；Jesse 的首封是回 Alan 发给 contact@acelink.com.tw（SB-800 Acelink，讯舟关联公司）的信——两户一条线"
+  },
+  "situation": "台湾网络品牌商 EDIMAX（讯舟）。2025-07-09 Alan 发给关联公司 Acelink（contact@acelink.com.tw，SB-800）的 16 口 DIN 群发被讯舟业务 Jesse Chen 接住：要目录与价表 → Alan 给链接 → 「We will study your list and feedback to you soon」；之后 Alan 08-22 / 10-20 两次同线程催、2026 年 4 封群发，无回。台湾厂商口径 = OEM/ODM 二供，年度一次即可；Acelink 与 EDIMAX 别分开发。",
+  "need": "—",
+  "breakpoint": "—",
+  "saga_now": {
+   "p1": "—",
+   "tier": 30,
+   "price": "—；群发里他已看到的价（续）：2026-08-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-04-29 $300（48 Port PoE Managed Switch）",
+   "why": "已打开的主题（3/12 封有打开记录）：「Re: 16 Port Ethernet Switch」(2025-07-09)、「Re: 16 Port Ethernet Switch」(2025-08-22)、「Re: 16 Port Ethernet Switch」(2025-10-20) → 读者兴趣主题类别不明（看原主题）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027",
+   "channel": "—",
+   "action": "—（第 75 批(am) 2026-10-25：英文信稿已写 `draft_en`；STI-21616GP 为非管理，钩子「L2+」纠正；管理版 STI-21616XGGPM $322.6）",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2025-07-09",
+    "dir": "来",
+    "who": "jessechen@edimax.com.tw",
+    "quote": "Hi Alan, Thanks for your information. We will study your list and feedback to you soon. Regards, Jesse Chen",
+    "why": "来信原文（主题「RE: 16 Port Ethernet Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+    "k": "07bd3a88e1d5f61c"
+   },
+   {
+    "date": "2025-07-09",
+    "dir": "来",
+    "who": "jessechen@edimax.com.tw",
+    "quote": "Hi Alan, Can you send product catalogue and price list for my reference ? Regards, Jesse Chen",
+    "why": "来信原文（主题「RE: 16 Port Ethernet Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+    "k": "b21df8d3abb40eb6"
+   },
+   {
+    "date": "2025-07-09",
+    "dir": "去",
+    "who": "Saga（Alan，群发 → contact@acelink.com.tw）",
+    "quote": "There is a 16-port Din Gigabit Ethernet switch for you. It is good for vehicle network and industrial automation.",
+    "why": "引出 Jesse 回复的那封，收件人是 Acelink 不是 EDIMAX",
+    "k": "gmail_a（thr 1836987067716081325）"
+   },
+   {
+    "date": "2025-08-22",
+    "dir": "去",
+    "who": "Saga（Alan）",
+    "quote": "Re: 16 Port Ethernet Switch（同线程催问）",
+    "why": "资料后第一次催，无回",
+    "k": "gmail_a bdfe1e2f97b68dcb"
+   },
+   {
+    "date": "2025-10-20",
+    "dir": "去",
+    "who": "Saga（Alan）",
+    "quote": "Re: 16 Port Ethernet Switch（同线程第二次催）",
+    "why": "无回；之后转为群发",
+    "k": "gmail_a 98f870e641fc26ff"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": {
+   "subject": "The 16-port industrial PoE you asked about in 2025 - unmanaged exists at $185, managed at $322.6",
+   "body": "Hi Jesse,\n\nIn July 2025 you asked for our catalogue and price list around a 16-port DIN Gigabit switch and said you would study it; two chasers from us went unanswered, so this is a once-a-year note, not a chase. The 16-port industrial PoE, honestly labelled: 16 x Gigabit PoE+ + 2 x SFP, unmanaged, -40 to 75 C, CE/FCC/RoHS - model STI-21616GP - $185 USD EXW at OEM tier (MOQ 1, 15-day validity); the L2+ managed version with 2 x 10G SFP+ uplinks, Marvell-based - STI-21616XGGPM - $322.6. EDIMAX label from small lots.\n\nOne question: is EDIMAX re-sourcing the 16-port industrial PoE SKU in 2027, and is it the managed or the unmanaged position?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+  },
+  "as_of": "2026-10-24"
+ }
 }

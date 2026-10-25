@@ -1,27 +1,39 @@
 {
  "code": "SB-272",
- "name_official": "Vasiliy Kryukov（俄罗斯；在用洪瑞（HRUI）产品；mail.ru）",
+ "name_official": "Electronik House（意大利）",
  "researched_at": "2026-10-21",
- "website_status": "无域名",
- "summary": "用户表（「客户再筛选_在用同行的产品」，成单客户）：Vasiliy Kryukov（353311@mail.ru / vas555@list.ru；+7 903 324-3333，已加 WA）——在用「洪瑞产品」（HRUI，即 Saga Realtek 线原厂）；成交 1 次；无后续。无公司主体 → 仅表内信息；已用 HRUI 同源产品 → Saga STC 线可直接对位 → 分销 20%。",
+ "website_status": "在线（electronikhouse.it，快照 2026-10-21，意语）",
+ "summary": "意大利电子元件供应商 / 网店（Hikvision、Dahua；switch 78 / poe 49 / camera 22），info@；表内「Digitus 还有几个外壳的工业 FS；Linkcreative 的 MC；可多跟进」；群发 6 次无回复。",
  "type": "",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Digitus",
+  "Hikvision",
+  "Dahua",
+  "Linkcreative"
+ ],
  "evidence": [
   {
+   "kind": "官网快照",
+   "claim": "电子元件供应商，持续客户支持",
+   "quote": "Fornitore di Componenti Elettronici Garantiamo un costante supporto ed attenzione verso i nostri clienti… brands Hikvision, Dahua",
+   "url": "https://electronikhouse.it/",
+   "date": "2026-10-21"
+  },
+  {
    "kind": "用户表",
-   "claim": "在用洪瑞产品；成交；WA 已加",
-   "quote": "洪瑞产品 / 7 903 324-3333 已加 / 成单客户",
+   "claim": "Digitus 还有几个外壳的工业 FS；Linkcreative 的 MC；可以尝试多跟进一下",
+   "quote": "兴趣：Digitus 还有几个外壳的工业FS Linkcreative的MC",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
  "kp": [
   {
-   "name": "Vasiliy Kryukov",
-   "role": "（用户表）",
-   "email": "353311@mail.ru（用户表）",
-   "phone": "+7 903 324-3333（用户表）",
+   "name": "（未具名）",
+   "title": "",
+   "email": "info@electronikhouse.it",
+   "phone": "",
    "source": "（本地 Clients/ 表格，无公开 URL）"
   }
  ],
@@ -30,80 +42,82 @@
  "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "无域名 · 仅表内信息"
+  "level": "B 级加厚 v1（官网快照核对 + 表内）"
  },
  "company_facts": {
-  "legal_name": "（公司待核）",
-  "hq": "Russia（+7 903 324-3333）",
-  "size": "待核",
-  "other": "在用 HRUI 产品；成交 1 次"
+  "legal_name": "Electronik House（待核）",
+  "founded": "",
+  "hq": "Italy",
+  "size": "小型元件网店",
+  "other": "已售 Digitus 工业 FS / 中国 MC"
  },
  "business_lines": [
-  "网络设备贸易/集成（推测）"
+  "电子元件 / 网络网店"
  ],
  "channels": {
-  "邮箱": "353311@mail.ru / vas555@list.ru（用户表）",
-  "WhatsApp": "+7 903 324-3333（已加）"
+  "role": "网店 / 经销",
+  "region": "意大利"
  },
  "signals": [
-  "在用 HRUI 同源产品 → Saga STC 型号即同配置，报价对位零摩擦"
+  "已售 Digitus 工业 FS 与中国 MC → 同类上架"
  ],
  "risks": [
-  "俄罗斯结算/物流；无公司资料"
+  "无具名；6 次群发无回复"
  ],
  "saga_fit": {
-  "p1": "STC-28GPM",
+  "p1": "STI-288GP",
   "tier": 20,
-  "why": "分销 20% 档：STC-28GPM（2 SFP + 8 GE PoE L2 管理，HRUI 同源，列表 $62.2）；STC-228GP（$30.8）；24 口 STC-2024GP（$93.5）"
+  "why": "对位 Digitus 工业 2 光 8 PoE → STI-288GP（$57.4 @20%）；MC STI-110GE。"
  },
- "email_hook": "Василий, по вашей линейке PoE: 2 SFP + 8 PoE управляемый — 71,0 USD EXW, неуправляемый — 33,2 USD EXW, 24 PoE — 93,5 USD EXW (цены на 2026-10, действительны 15 дней). Какие модели сейчас берёте, чтобы я сделал прямое сравнение цен по тем же позициям?",
+ "email_hook": "Buongiorno — beside the Digitus industrial switches and the MCs you list: DIN 2-SFP + 8-PoE at $57 and gigabit MC at $22 EXW with photos / CE files for listing; shall I send the sheet?",
  "mail_review": {
   "binding": {
-   "level": "轻度绑定（邮件无证，WhatsApp/WeChat 线）：用户表「洪瑞产品 / 7 903 324-3333 已加 / 成单客户」；S/A 邮箱 0 封；Elsa 箱：`to:353311@mail.ru OR to:vas555@list.ru` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(l)）",
+   "level": "未触达（A/S 邮箱 17 封 2025→2026，无记录打开，0 回；收件 info@electronikhouse.it；主题多为「Industrial PoE Switch、Marvell Alleycat5 Solution」；Elsa 箱：`to:electronikhouse.it` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 17 / 来 0）（第 74 批(j)））",
    "type": "—",
-   "sieve": "5（表内成单/样品单）",
-   "stop": "仓库只有用户表一行；往来在 Simon 手机",
-   "revive": "Simon WhatsApp 一句话（问复购/样品结论）",
-   "lane": "RU 次级（Simon 2026-08 点名）",
-   "cadence": "一封",
-   "evidence": "gmail_digest：out 0；用户表：「洪瑞产品 / 7 903 324-3333 已加 / 成单客户」；研究档 risks：俄罗斯结算/物流；无公司资料"
+   "sieve": "1（只收到群发）",
+   "stop": "只打通用邮箱，无记录打开",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "意大利（欧洲全域主攻）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 17；用户表：「兴趣：Digitus 还有几个外壳的工业FS Linkcreative的MC」；研究档 risks：无具名；6 次群发无回复"
   },
-  "situation": "用户表（「客户再筛选_在用同行的产品」，成单客户）：Vasiliy Kryukov（353311@mail.ru / vas555@list.ru；+7 903 324-3333，已加 WA）——在用「洪瑞产品」（HRUI，即 Saga Realtek 线原厂）；成交 1 次；无后续。无公司主体 → 仅表内信息；已用 HRUI 同源产品 → Saga STC 线可直接对位 → 分销 20%。",
-  "need": "分销 20% 档：STC-28GPM（2 SFP + 8 GE PoE L2 管理，HRUI 同源，列表 $62.2）；STC-228GP（$30.8）；24 口 STC-2024GP（$93.5）",
-  "breakpoint": "俄罗斯结算/物流；无公司资料",
+  "situation": "意大利电子元件供应商 / 网店（Hikvision、Dahua；switch 78 / poe 49 / camera 22），info@；表内「Digitus 还有几个外壳的工业 FS；Linkcreative 的 MC；可多跟进」；群发 6 次无回复。",
+  "need": "对位 Digitus 工业 2 光 8 PoE → STI-288GP（$57.4 @20%）；MC STI-110GE。",
+  "breakpoint": "无具名；6 次群发无回复",
   "saga_now": {
-   "p1": "STC-28GPM",
+   "p1": "STI-288GP",
    "tier": 20,
-   "price": "Realtek 线按 HRUI 2026-09-30 进价 +20% 现算（Q-47 默认，不用 Drive 旧表价）：STC-228GP $30.8→$33.2；STC-28GPM $62.2→$71.0；按主表（研究档 saga_fit）",
-   "why": "分销 20% 档：STC-28GPM（2 SFP + 8 GE PoE L2 管理，HRUI 同源，列表 $62.2）；STC-228GP（$30.8）；24 口 STC-2024GP（$93.5）",
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-13 $280（10G Enterprise SFP Switch）",
+   "why": "对位 Digitus 工业 2 光 8 PoE → STI-288GP（$57.4 @20%）；MC STI-110GE。",
    "repeat": [],
-   "gaps": [
-    "对外不提 HRUI/洪瑞（供应商名只留内部）；Q-33：其现有 HRUI 同款不竞价，只报 SmartByte/Marvell 位或差异化型号"
-   ]
+   "gaps": []
   },
   "next_move": {
-   "when": "现在（Simon）",
-   "channel": "WhatsApp（Simon）",
-   "action": "一句话",
-   "one_question": "Василий, по вашей линейке PoE: 2 SFP + 8 PoE управляемый — 71,0 USD EXW, неуправляемый — 33,2 USD EXW, 24 PoE — 93,5 USD EXW (цены на 2026-10, действительны 15 дней). Какие модели сейчас берёте, чтобы я сделал прямое сравнение цен по тем же позициям?"
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Buongiorno — beside the Digitus industrial switches and the MCs you list: DIN 2-SFP + 8-PoE at $57 and gigabit MC at $22 EXW with photos / CE files for listing; shall I send the sheet?"
   },
   "facts": [
+   {
+    "date": "2026-10-08",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Industrial PoE Switch、Marvell Alleycat5 Solution",
+    "why": "17 封 / 0 次打开 / 0 回｜首封 2025-01-31 → 末封 2026-10-08（17 去 / 0 来）",
+    "k": "gmail_digest"
+   },
    {
     "date": "2026-10-21",
     "dir": "用户表",
     "who": "Simon",
-    "quote": "洪瑞产品 / 7 903 324-3333 已加 / 成单客户",
+    "quote": "兴趣：Digitus 还有几个外壳的工业FS Linkcreative的MC",
     "why": "表内备注",
     "k": "用户表"
    }
   ],
-  "proof_gaps": [
-   "WhatsApp 往来未入库"
-  ],
-  "draft_en": {
-   "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
-   "body": "Василий, по вашей линейке PoE: 2 SFP + 8 PoE управляемый — 71,0 USD EXW, неуправляемый — 33,2 USD EXW, 24 PoE — 93,5 USD EXW (цены на 2026-10, действительны 15 дней). Какие модели сейчас берёте, чтобы я сделал прямое сравнение цен по тем же позициям?"
-  },
+  "proof_gaps": [],
+  "draft_en": null,
   "as_of": "2026-10-24"
  }
 }

@@ -1,143 +1,344 @@
 {
  "code": "SB-359",
- "name_official": "Inscape Data Corporation（美国加州）",
+ "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "在线（inscapedata.com，快照 2026-10-21）",
- "summary": "美国室外 PoE 交换机 / 工业网络 / 视频安防 / Wi-Fi 方案商（2004 年成立；自有品牌 + 网店 PoEsuperstore.com；poe 533 / switch 255 / sfp 128 / oem 8），Sales & Marketing Manager Sergio F.、Juan Moncada、Patricia G.；表内「工业 FS MC PoE 配件 SFP 10G 大口」；群发 20 次无回复。自有品牌 → OEM 30%。",
- "type": "",
+ "website_status": "在线（larch-networks.com，快照 2026-10-21）",
+ "summary": "以色列 Larch Networks（定制网络软硬件开发：系统工程 / SONiC（Hardware-Accelerated BFD+）；自有品牌工业交换机 LN-1508G(P)-4XGF-I(-M)（8 GE/PoE + 4×10G SFP+ 工业）、LN-2308GP-2GE-I，16×PoE / 48×PoE 工业页；表内「DCN / 中科德能的工业 FS」= 现由中国 ODM 供货；KP Alexander Cheskis、Andrey Zarudniy；参展 Electronica India 2026）；表内无跟进记录。",
+ "type": "网络软硬件方案商 + 自有品牌工业交换机（中国 ODM 采购）",
  "size": "",
  "brands_seen": [
-  "Inscape Data（自有）",
-  "Cisco"
+  "DCN",
+  "中科德能"
  ],
  "evidence": [
   {
    "kind": "官网快照",
-   "claim": "2004 年成立，服务工业网络、视频安防与 Wi-Fi 市场；室外 PoE 交换机领导者",
-   "quote": "Founded in February 2004, 2017 marks Inscape Data Corporation's 13th year of business serving the industrial network, video security, and WIFI markets worldwide… Outdoor PoE Switch, Leader in Outdoor Network Solutions",
-   "url": "https://inscapedata.com/",
+   "claim": "官网标题：Larch Networks — Tailor-made Network Software and Hardware Development；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 数据中心 / 企业 IT / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "Larch Networks is a company specializing in systems engineering, deployment, and implementation. The team is made up of experienced professionals with a strong background in managing complex projects, designing systems, and integrating fabr",
+   "url": "https://larch-networks.com/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "工业 FS MC PoE 配件 SFP 10G 大口；店铺 PoEsuperstore.com",
-   "quote": "兴趣：工业FS MC PoE配件 SFP 10G大口 他们的店铺 https://www.PoEsuperstore.com/",
+   "claim": "表内兴趣/备注",
+   "quote": "dcn 工业FS 中科德能的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "系统工程 / 部署 / 实施，定制网络软硬件",
+   "quote": "Larch Networks is a company specializing in systems engineering, deployment, and implementation.",
+   "url": "https://larch-networks.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "DCN / 中科德能工业 FS",
+   "quote": "dcn 工业FS 中科德能的",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
  "kp": [
   {
-   "name": "Sergio F.",
-   "title": "Sales & Marketing Manager",
-   "email": "sergio.fe@inscapedata.com",
+   "name": "Alexander Cheskis",
+   "title": "（表内联系人）",
+   "email": "alexander@larch-networks.com",
    "phone": "",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
+   "source": "用户表"
   },
   {
-   "name": "Juan Moncada",
+   "name": "Andrey Zarudniy",
    "title": "（表内联系人）",
-   "email": "juan.moncada@inscapedata.com",
+   "email": "azarudniy@larch-networks.com",
    "phone": "",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
+   "source": "用户表"
+  },
+  {
+   "name": "Oksana Loy",
+   "role": "来信署名人（职务未在邮件署名里出现）",
+   "email": "oksana@larch-networks.com",
+   "phone": "",
+   "source": "S/A 邮箱来信 2026-06-02 → 07-02 来信 3 封（第 72 批从邮件表头补）"
   }
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照核对 + 表内）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "legal_name": "Inscape Data Corporation",
-  "founded": "2004",
-  "hq": "San Jose, CA, USA",
-  "size": "中小型品牌商 + 电商",
-  "other": "PoEsuperstore.com"
+  "hq": "以色列",
+  "other": "官网 larch-networks.com，语言 en-US，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "室外 / 工业 PoE 交换机（自有品牌）",
-  "PoE 配件 / SFP 电商"
+  "定制网络软件 / 硬件开发（SONiC）",
+  "自有品牌工业交换机（LN 系列）"
  ],
  "channels": {
-  "role": "品牌商 + 电商（OEM 采购）",
-  "region": "美国"
+  "role": "网络软硬件方案商 + 自有品牌工业交换机（中国 ODM 采购）",
+  "region": "以色列",
+  "contact": "alexander@larch-networks.com、azarudniy@larch-networks.com"
  },
  "signals": [
-  "自有品牌室外 / 工业 PoE 全线贴牌 → 供应商替换窗口",
-  "10G 大口需求 → Saga 4×10G 工业款"
+  "产品页 /larch-networks-devices/industrial-switches/8xpoe-industrial-switch/、/16xpoe-industrial-switch/、/48xpoe-industrial-switch/",
+  "站内型号 LN-1508G-4XGF-I-M / LN-1508GP-4XGF-I-M / LN-2308GP-2GE-I",
+  "官网：Electronica India 2026 参展；Hardware-Accelerated BFD+ for SONiC",
+  "KP：Alexander Cheskis、Andrey Zarudniy（表内邮箱）"
  ],
  "risks": [
-  "美国：常要求 UL 列名（Saga 无 UL，仅 FCC/CE）→ 首触即说明",
-  "室外 IP67 款 Saga 无",
-  "20 次群发无回复"
+  "以色列（T5 非主攻区）；物流/保险条件需核",
+  "自有软件栈（SONiC/BFD+）：可能要求开放平台/SDK，Saga 需与 SmartByte 确认固件开放度",
+  "现供应商为 DCN/中科德能：价格基准已低"
  ],
  "saga_fit": {
   "p1": "STI-488XGGPM",
   "tier": 30,
-  "why": "10G 大口工业 PoE → STI-488XGGPM（4×10G SFP+ + 8 PoE，$178.7 @30%）贴 Inscape 标；入门 STI-288GP。"
+  "why": "自有 LN-1508GP-4XGF-I-M（工业 8 PoE + 4×10G SFP+ 管理）→ Saga STI-488XGGPM（工业 8 PoE + 4×10G L2+，$178.7 @30%）；8 PoE + 2 GE 位 STI-288DGGPM；现供应商 DCN/中科德能 = 已接受中国 ODM，可谈二供"
  },
- "email_hook": "Sergio, for the Inscape / PoEsuperstore industrial line — DIN 8-PoE with 4×10G SFP+ uplinks (L2+, −40~75 ℃) under your label from small lots, FCC/CE; is the 10G-uplink SKU the gap you mentioned, or the plain 2-SFP one?",
+ "email_hook": "Alexander, for the LN-1508GP-4XGF class industrial switches (8 PoE + 4×10G SFP+), we can be a second ODM source on a Marvell platform — your firmware/SONiC requirements discussed case by case — from small lots with CE/RoHS/FCC; which model in the LN range needs a second source first?",
+ "products_seen": [
+  {
+   "brand": "Larch（自有）",
+   "model": "LN-1508GP-4XGF-I-M",
+   "spec": "工业 8 PoE + 4×10G SFP+ 管理",
+   "saga": "STI-488XGGPM",
+   "url": "https://larch-networks.com/larch-networks-devices/industrial-switches/8xpoe-industrial-switch/",
+   "date": "2026-10-21"
+  },
+  {
+   "brand": "Larch（自有）",
+   "model": "LN-2308GP-2GE-I",
+   "spec": "工业 8 PoE + 2 GE",
+   "saga": "STI-288GP / STI-288GPM",
+   "url": "https://larch-networks.com/",
+   "date": "2026-10-21"
+  }
+ ],
  "mail_review": {
   "binding": {
-   "level": "未触达（A/S 邮箱 31 封 2024→2026，1 次记录打开，0 回；收件 juan.moncada@inscapedata.com, patricia.gonzales@inscapedata.com；主题多为「Managed Optical Bypass Switch、Marvell Industrial Alert System」；Elsa 箱：`to:inscapedata.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 31 / 来 0）（第 74 批(h)））",
-   "type": "—",
-   "sieve": "1~2（1 次打开）",
-   "stop": "31 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
-   "lane": "US 主攻（四主）",
-   "cadence": "一封",
-   "evidence": "gmail_digest：out 31，Opened 标签 1（Simon 群发追踪）；用户表：「兴趣：工业FS MC PoE配件 SFP 10G大口 他们的店铺 https://www.PoEsuperstore.com/」；研究档 risks：美国：常要求 UL 列名（Saga 无 UL，仅 FCC/CE）→ 首触即说明"
+   "level": "轻度触达→边界户（A 邮箱 2025-05 → 2026-07 来 14 去 24，三位 KP：Alexander Cheskis / Andrey Zarudniy（Sales）/ Oksana Loi；四轮实质：① 2025-05 光旁路交换机技术问答（98DX2515 口径）② 2025-12 旁路 PoE STI-488XGGPM-2BT 报 $295，对方要样机与批量价后无单 ③ 2026-03-30 其客户 8,000 台校园 L2（24×1G + 4×10G SFP+，目标 $250）→ Alan 03-31「与我们一个国内客户冲突，内部决定，到此为止」（Q-49）④ 2026-05/06 Larch 推销 SONiC 商业支持并邀 6-10/11 线上会 → Alan 06-05 婉拒（Saga 高速线用 CENTEC，Marvell 线只做 SMB L2+/L3）；07-02 求购 DX1518/DX1548 芯片 10 颗 → 无货)；Elsa 箱：`to:larch-networks.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 24 / 来 14）（第 74 批(n)）",
+   "type": "以色列 SONiC/NOS 软件服务商 + 渠道（Larch Networks；既是潜在客户也是潜在供应商）",
+   "sieve": "2（技术问答 + 询价 + 项目需求；未付样）",
+   "stop": "两头都停：Saga 拒了 8,000 台项目（国内客户冲突）、拒了 SONiC 合作与芯片；对方对 $295 旁路机没有下文",
+   "revive": "只在 Larch 来信时回（Q-49 边界）；若 Simon 判定 8,000 台项目不构成冲突，Andrey 03-31 的追问「client = 买家还是中国工厂？」还没被正面回答",
+   "lane": "IL 部分（收款/物流无先例）",
+   "cadence": "最后来信 2026-07-02（芯片求购）；Alan 最后回 2026-07-02",
+   "evidence": "A 邮箱 k=c3ec0dc5b8622bbb / 827e3f81f687bb3b / f0fca5051f786b75 / 48f6b22ac0e2c199 / f77f97cdc39f10a5；第 19 批回补来信原文 8 条（gmail_s/gmail_a）"
   },
-  "situation": "美国室外 PoE 交换机 / 工业网络 / 视频安防 / Wi-Fi 方案商（2004 年成立；自有品牌 + 网店 PoEsuperstore.com；poe 533 / switch 255 / sfp 128 / oem 8），Sales & Marketing Manager Sergio F.、Juan Moncada、Patricia G.；表内「工业 FS MC PoE 配件 SFP 10G 大口」；群发 20 次无回复。自有品牌 → OEM 30%。",
-  "need": "10G 大口工业 PoE → STI-488XGGPM（4×10G SFP+ + 8 PoE，$178.7 @30%）贴 Inscape 标；入门 STI-288GP。",
-  "breakpoint": "美国：常要求 UL 列名（Saga 无 UL，仅 FCC/CE）→ 首触即说明",
+  "situation": "Larch Networks（以色列，SONiC/NOS 商业支持 + 硬件渠道）是少数会追着 Saga 问芯片型号、RAM/Flash、样机与批量价的对手盘。2025-12 对旁路 PoE 机问到 $295 单价即止；2026-03-30 带来 8,000 台校园 L2 项目（24×1G + 4×10G、可换 PSU、冗余风扇、USB 管理、目标 $250），Alan 次日以「国内客户冲突」停掉；2026-05 起对方转为推销 SONiC 方案并要 AC5 现货清单、约线上会，Alan 给了 AC5 过渡全貌（商用 8/24/48 口已量产、工业全系列 AC5 样机）但拒绝会议；07-02 求购 DX1518/DX1548 芯片被拒。",
+  "need": "① 旁路 PoE 工业管理机（已报 $295）② 8,000 台校园 L2 交换机（已拒）③ 把 Saga 的 Marvell 线作为 SONiC 落地硬件（Saga 不要）④ Marvell 芯片现货（无）",
+  "breakpoint": "不是对方不买，而是 Saga 两次说不（项目冲突、SONiC 方向）。剩下的唯一商业线是旁路/Booster PoE 机的样机——对方 2025-12-09 明确要「sample and bulk price」，Alan 给了单价 $295 但没推样机付款流程，线就冷了。",
   "saga_now": {
-   "p1": "STI-488XGGPM",
-   "tier": 30,
-   "price": "换人再触锚价 STI-488XGGPM $178.8 EXW（主表档位（Q-59 默认；PDF $269.5 远高于档位，档案注差价）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-22 $220（10G managed switch）；群发里他已看到的价（续）：2026-07-27 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-01-07 $240（24 Port Fiber Switch）、2025-10-09 $280（10G Enterprise SFP Switch）",
-   "why": "10G 大口工业 PoE → STI-488XGGPM（4×10G SFP+ + 8 PoE，$178.7 @30%）贴 Inscape 标；入门 STI-288GP。已打开的主题（1/31 封有打开记录）：「24 Port Fiber Switch」(2025-01-07) → 读者兴趣偏「MC/光电」；与 P1 同类，继续",
+   "p1": "STI-488XGGPM-2BT（4×10G SFP+ + 8×GE PoE，2 通道光旁路，L2+，-40~75℃；2025-12-09 报 $295）",
+   "tier": 25,
+   "price": "$295 USD EXW（2025-12-09 口径）；现以 `列表价 USD EXW（2026-10-17 快照，15 天有效）` 重报，bypass -2FBP 档 $283.7 @30% 为主表锚；历史报价（邮件原话，老汇率）：2025-12-09 STI-488XGGPM-2BT 295usd；2025-12-01 STI-488XGGBPM 215usd",
+   "why": "C10/C11：这户的价值是**情报**（他们知道谁在做 8,000 台项目、SONiC 市场动向），不是订单。已打开的主题（21/24 封有打开记录）：「Re: Supported SONiC for Saga Ethernet 」(2026-05-27)、「Re: Supported SONiC for Saga Ethernet 」(2026-06-03)、「Re: Supported SONiC for Saga Ethernet 」(2026-06-05)、「Re: Request for DX1518/DX1548 Chips」(2026-07-02) → 读者兴趣偏「旁路/Booster」；当前 P1 属「10G 汇聚/L3」，下一封按「旁路/Booster」给，不按 P1｜对外统一口径（#2/#12）：2026-03-31 Alan 反问「Do you require Marvell SDK/BSP support」暗示可给 BSP——Saga 不提供 SDK/BSP，对 Larch（SONiC/白盒）只谈整机或 PCBA；2026-05-27「AC5 整线 +$15（内存涨价）」是对外涨价基准",
    "repeat": [],
-   "gaps": []
+   "gaps": [
+    "不卖芯片、不做 SONiC 移植、不碰国内冲突项目——三条都已书面说过，别再开口"
+   ]
   },
   "next_move": {
-   "when": "2027-Q1（换人后）",
-   "channel": "A 邮箱 → 具名 KP",
-   "action": "换收件人再发一封（第 75 批(u) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
-   "one_question": "Sergio, for the Inscape / PoEsuperstore industrial line — DIN 8-PoE with 4×10G SFP+ uplinks (L2+, −40~75 ℃) under your label from small lots, FCC/CE; is the 10G-uplink SKU the gap you mentioned, or the plain 2-SFP one? Reference: STI-488XGGPM at $178.8 USD EXW (MOQ 1, 15-day validity)."
+   "when": "被动（Q-49）；若对方再来信，先把旁路机样机这条线接上",
+   "channel": "A 邮箱（alexander@ / azarudniy@ / oksana@larch-networks.com）",
+   "action": "不主动发；来信时只谈旁路/Booster PoE 样机，不碰校园项目与 SONiC（第 76 批(c) 2026-10-25：型号笔误 STI-488XGGPM2B-2BT → STI-488XGGPM-2BT）",
+   "one_question": "Andrey — the 2-channel bypass PoE unit you priced in December ($295): is a paid evaluation sample still useful for your customer, or has that requirement closed?"
   },
   "facts": [
    {
-    "date": "2026-10-01",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "Managed Optical Bypass Switch、Marvell Industrial Alert System",
-    "why": "31 封 / 1 次打开 / 0 回｜首封 2024-06-25 → 末封 2026-10-01（31 去 / 0 来）",
-    "k": "gmail_digest"
+    "date": "2025-05-22",
+    "dir": "来",
+    "who": "alexander@larch-networks.com",
+    "quote": "Hi Alan, Thank you for sharing this — the Optical Bypass Switch is definitely of interest to us. To evaluate further, could you kindly share more tech",
+    "why": "来信原文（主题「Re: Managed Optical Bypass Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+    "k": "6029bd8a3ce4a534"
    },
    {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "兴趣：工业FS MC PoE配件 SFP 10G大口 他们的店铺 https://www.PoEsuperstore.com/",
-    "why": "表内备注",
-    "k": "用户表"
+    "date": "2025-05-23",
+    "dir": "去",
+    "who": "Alan → Alexander Chesnokov（Larch）",
+    "quote": "1, Marvell 98DX2515 CPU: ARM V8 1.2G FLASH: 512MB RAM: 512MB 2, Please see attached datasheet. 3, Sorry, I am not at the exhibition. But we can have some online meetings",
+    "why": "AC5 Lite 平台硬件规格首次对外（98DX2515 / A72 1.2G / 512M）——Larch 做 SONiC/白盒，问芯片就是在评估能否跑自己的 NOS；后来 2026-06-05 Alan 拒绝 SONiC 会议一致",
+    "k": "gmail_a 2025-05-23 Re: Managed Optical Bypass Switch"
    },
    {
-    "date": "2026-10-01",
+    "date": "2025-07-23",
     "dir": "去",
-    "who": "A 箱（Alan）",
-    "quote": "Managed PoE Switches",
-    "why": "本日去信真实主题（邮箱索引 492907df13fa09a9；信稿开头句引用此封；此前稿内写的「Managed Optical Bypass Switch」是线程列表首题，不是本封）",
-    "k": "492907df13fa09a9"
+    "who": "Saga（Alan）",
+    "quote": "Hi, Alexander, How are you? We are doing Marvell Alleycat5 chip for tailored networking solutions. 1, Support Web GUI change(Logo, model name, MAC, SN, SNMP, OID) 2, Added interesting features(Sftp, Https, L3 Routing) 3, Prestera 98DX25xx and 98DX35xx series [image: Web GUI] Lets talk about it if yo…",
+    "why": "Saga 实质答复原文（主题「Re: Managed Optical Bypass Switch」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
+    "k": "d8a5be10fcec6d02"
+   },
+   {
+    "date": "2025-11-28",
+    "dir": "来",
+    "who": "alexander@larch-networks.com",
+    "quote": "Hi Alan, That’s very interesting — especially the Marvell-based design and the 12–54V PoE booster concept. Let’s discuss more details — which Marvell",
+    "why": "来信原文（主题「Re: Booster PoE Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+    "k": "21ed9f8ba13a5507"
+   },
+   {
+    "date": "2025-12-01",
+    "dir": "去",
+    "who": "Saga（Alan）",
+    "quote": "Hi, Alexander, 1, yes, we can supply a demo unit for your study and testing. 2, please see attached datasheet(2026/Q1 version). STI-488XGGBPM 215usd/pc Industrial PoE Managed Switch 4*1G/2.5G/10G SFP+8*10/100/1000M RJ45/PoE +1*Console Port+1*USB Port 8*PoE af/",
+    "why": "历史报价点（主题「Re: Booster PoE Switch」；第 20 批从 gmail_a 回补）：STI-488XGGBPM 215usd",
+    "k": "3a03a13e6ecdd2d5"
+   },
+   {
+    "date": "2025-12-08",
+    "dir": "来",
+    "who": "azarudniy@larch-networks.com",
+    "quote": "Hello Alan! Alex told me that you have some Baypass devices. Could you please share the deteils. Thanks Best regards, Andrey Sales manager. https://la",
+    "why": "来信原文（主题「Re: Booster PoE Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+    "k": "22c03a7535263d1a"
+   },
+   {
+    "date": "2025-12-09",
+    "dir": "来",
+    "who": "azarudniy@larch-networks.com",
+    "quote": "Alan, Greate! Please also provide the sample and bulk price with some HW Specification (what the chipset, PHY, flash, memory ?) Best regards, Andrey S",
+    "why": "来信原文（主题「Re: Booster PoE Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+    "k": "fd4f4163ed089c3f"
+   },
+   {
+    "date": "2025-12-09",
+    "dir": "去",
+    "who": "Saga（Alan）",
+    "quote": "Hi, Andrey, 1, Unit price: 295usd/pc STI-488XGGPM-2BT 4*1G/2.5G/10G SFP+8*100/1000M RJ45/PoE +1*Console Port 2*PoE af/at/bt, 6*PoE af/at, 240W, L2+ Managed, Active PoE DC48V output, Support Bypass feature(2 channels) DC44V~DC57V, (Removable 4-PIN Industrial",
+    "why": "历史报价点（主题「Re: Booster PoE Switch」；第 20 批从 gmail_a 回补）：STI-488XGGPM-2BT 295usd",
+    "k": "2c412f7579125bdb"
+   },
+   {
+    "date": "2025-12-10",
+    "dir": "来",
+    "who": "Alexander Chesnokov（Larch Networks）",
+    "quote": "And can you send the info about bypass switch?",
+    "why": "Booster PoE 群发之后主动要旁路（bypass）资料——Larch 的兴趣点有两个：8,000 台校园项目（后判国内冲突，Q-49）和旁路机；旁路是不冲突的那条",
+    "k": "gmail_a 2025-12-10 Re: Booster PoE Switch"
+   },
+   {
+    "date": "2026-03-30",
+    "dir": "来",
+    "who": "Alexander（Larch）",
+    "quote": "a customer of ours needs 8,000 units of a Campus L2 switch… 24× 1G ETH + 4× 10G SFP+ • PSU: Field-replaceable, 1× AC 100–240V • Fans: Internal redundant",
+    "why": "A 邮箱最大数量需求",
+    "k": "c3ec0dc5b8622bbb"
+   },
+   {
+    "date": "2026-03-31",
+    "dir": "去",
+    "who": "Alan",
+    "quote": "it seems to be in conflict with one of our clients. They are also following up with this project. so we have to stop here!!",
+    "why": "C11 让路",
+    "k": "827e3f81f687bb3b"
+   },
+   {
+    "date": "2026-03-31",
+    "dir": "去",
+    "who": "Alan",
+    "quote": "target price 250usd/pc is a little difficult… Client means a domestic client who is working on this project I have to stop here, its an internal decision",
+    "why": "国内冲突 + 价格两重原因（E23）",
+    "k": "f0fca5051f786b75"
+   },
+   {
+    "date": "2026-03-31",
+    "dir": "来",
+    "who": "Andrey Zarudniy（Larch Networks，销售经理）",
+    "quote": "By the word clients, do you mean the client who buys this equipment from you, or is it the factory in China that is your client? Maybe this is a different project.",
+    "why": "Alan 说「与我们一个客户冲突」时，对方追问「你的客户是买家还是中国工厂」——Saga 的边界话术在客户眼里是含糊的；下次说「与现有渠道约定冲突」即可，不必解释是谁",
+    "k": "gmail_a 2026-03-31 Re: Updated Ethernet Switches Links"
+   },
+   {
+    "date": "2026-05-22",
+    "dir": "来",
+    "who": "Alexander",
+    "quote": "Larch Networks can help switch vendors add a commercially supported SONiC option without building a full in-house NOS team",
+    "why": "角色翻转：对方成了供应商",
+    "k": "48f6b22ac0e2c199"
+   },
+   {
+    "date": "2026-05-25",
+    "dir": "来",
+    "who": "alexander@larch-networks.com",
+    "quote": "Hi Alan, Thanks for the candid reply — fully understood on the CENTEC track for high-speed. Let me flip the question. On the Marvell side, we're activ",
+    "why": "来信原文（主题「Re: Supported SONiC for Saga Ethern」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+    "k": "231732b0e66a97ce"
+   },
+   {
+    "date": "2026-05-25",
+    "dir": "去",
+    "who": "Saga（Alan）",
+    "quote": "Hi, Alex, Thanks for your info. 1. We are switching from AC3 and AC5 chipset for ALL models, this is almost done. You are a professional at Marvell and must know that AC5 is a very good balance option on cost & performance. And AC5 will be our long-term anchored solution. 2. As I explained in point…",
+    "why": "Saga 实质答复原文（主题「Re: Supported SONiC for Saga Ethernet Sw」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
+    "k": "3c888655608fcc01"
+   },
+   {
+    "date": "2026-05-25",
+    "dir": "去",
+    "who": "Saga（Alan）",
+    "quote": "Hi, Alexander, Thanks for your info and the introduction to Larch Networks’ SONiC offering. 1. At the moment, our Marvell based models are mainly focusing L2+/L3 SMBs and enterprise network, lower-speed deployments. As you may notice, our high-speed networks is about CENTEC chip, a famous domestic c…",
+    "why": "Saga 实质答复原文（主题「Re: Supported SONiC for Saga Ethernet Sw」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
+    "k": "36ef0d39b4e679c2"
+   },
+   {
+    "date": "2026-05-26",
+    "dir": "来",
+    "who": "alexander@larch-networks.com",
+    "quote": "Hi Alan, Thanks — this is very useful context on the AC3 to AC5 transition and the L2+/L3, 1G/10G positioning. To size this properly on our side, coul",
+    "why": "来信原文（主题「Re: Supported SONiC for Saga Ethern」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+    "k": "4722032cae2191bd"
+   },
+   {
+    "date": "2026-05-27",
+    "dir": "去",
+    "who": "Alan",
+    "quote": "AC3 to AC5 transition is almost done for ALL models… commercial models, 8 / 24 / 48 Port L2+/L3 models, AC5 is fully ready and in normal production… industrial models, ALL models got AC5-ready samples",
+    "why": "Saga 产品线状态的权威书面版本（2026-05）",
+    "k": "ddbe426f9e94bdd4"
+   },
+   {
+    "date": "2026-06-02",
+    "dir": "来",
+    "who": "oksana@larch-networks.com",
+    "quote": "Hi Alan, Would you be available to meet with us on June 10 or 11? What time would be convenient for you? Thanks in advance, BR, Oksana Loi. On Wed, Ma",
+    "why": "来信原文（主题「Re: Supported SONiC for Saga Ethern」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+    "k": "76c0582f1181f61b"
+   },
+   {
+    "date": "2026-06-03",
+    "dir": "来",
+    "who": "oksana@larch-networks.com",
+    "quote": "Hi Alan, The exhibition is going very well, and we have a lot of visitors. As Alex mentioned earlier, we would like to arrange a short online meeting",
+    "why": "来信原文（主题「Re: Supported SONiC for Saga Ethern」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+    "k": "ce5ef79be8ca9c8c"
+   },
+   {
+    "date": "2026-06-05",
+    "dir": "去",
+    "who": "Saga（Alan）",
+    "quote": "Hi, Oksana, Thanks for your information. 1. Good to know that everything is going well there! 2. In previous emails, we discussed high-speed network switches(Marvell based and CENTEC based) and L2 / L3 Ethernet switches for SMBs. Your focus is on Marvell SONiC for high-speed networks. But we are cur…",
+    "why": "Saga 实质答复原文（主题「Re: Supported SONiC for Saga Ethernet Sw」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
+    "k": "d637bcde75ed85d8"
+   },
+   {
+    "date": "2026-07-02",
+    "dir": "来",
+    "who": "Oksana（Larch）",
+    "quote": "We urgently need 10 pieces of DX1518/DX1548 chips… Could you please let us know if you have any of these chips in stock?",
+    "why": "芯片请求被拒（Marvell 采购审查）",
+    "k": "f77f97cdc39f10a5"
    }
   ],
-  "proof_gaps": [],
-  "draft_en": {
-   "subject": "Inscape / PoEsuperstore industrial line - the 10G-uplink DIN unit under your label",
-   "body": "Hi Sergio,\n\nOver the past months you had a few product mails from us - most recently \"Managed PoE Switches\" on 1 October 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the Inscape / PoEsuperstore industrial line, under your label from small lots, -40 to 75 C, FCC/CE: DIN-rail 8 x Gigabit PoE+ + 4 x 10G SFP+, L2+ managed with ring redundancy, Marvell-based - model STI-488XGGPM - $178.8 USD EXW (MOQ 1, 15-day validity); entry unit, 8 x PoE+ + 2 x SFP unmanaged - STI-288GP - $62.2. Logo on the unit is free; colour box from 200 sets.\n\nOne question: is the 10G-uplink SKU the gap in the store, or the plain 2-SFP one?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
-  },
+  "proof_gaps": [
+   "Q-49：「国内客户冲突」的边界待 Simon 判",
+   "06-10/11 线上会最终是否发生：A 邮箱无记录（Alan 06-05 婉拒后无会议邮件）"
+  ],
+  "draft_en": null,
   "as_of": "2026-10-24"
  }
 }

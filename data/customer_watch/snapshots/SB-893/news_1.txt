@@ -1,124 +1,159 @@
-# SB-893 bm-switch.com · news_1 · https://bm-switch.com/blog/ · fetched 2026-10-25T07:41:18Z · HTTP 200
-Blog – All about bare metal switches
-Skip to content
-Shop
-Blog
-Company
-Close Company
-Open Company
-Contact Us
-About Us
-Policies
-Sign In
-$ 0.00
-0
-Cart
-Our Blog
-How to Run Custom Code on Broadcom-based Switches Using SONiC
-Accessing Broadcom SDK It’s no secret that gaining access to the Broadcom SDK is challenging. Broadcom is notoriously secretive and restrictive, making it difficult for researchers or small development teams to start a project. There is the OpenBCM repository, but it’s read-only and has’t been updated in years. Plus, it
-Read More »
-January 20, 2026
-No Comments
-Intel Tofino EOL
-End-of-Sales announcement for Aurora 610, Aurora 710, and Aurora 750 systems.
-Read More »
-July 7, 2025
-No Comments
-Promo for Marvell Teralynx systems
-We announce a sale of Marvell Teralynx systems with SONiC! Aurora 715 is now only US$4,000, and Aurora 615 is only US$3,500! The sale ends on 12/31, so get on the open networking wagon while it lasts.
-Read More »
-October 21, 2024
-No Comments
-Hardware
-How to start developing custom apps on Broadcom Trident-based switches?
-Broadcom is the biggest supplier of Network Switching Silicon in the world, and it has a plethora of different chipsets available to customers. A networking equipment developer spends the largest amount of product development time making the SW work. Broadcom provides a Switch Development Kit (SDK) to enable quick bolting
-Read More »
-July 3, 2024
-No Comments
-Tomahawks versus Tridents
-Which Broadcom ASIC family is better? Broadcom has its StrataXGS line for switching with Tomahawk and Trident families. What is the difference between them, and which one should you prefer? To understand the difference, we need to examine two things: what Broadcom says about each family and the SW support.
-Read More »
-May 17, 2024
-No Comments
-1G copper connectivity in 25G SFP28 ports
-How to connect 1G copper to a 25G SFP28 port? Now and then, we receive a question. “We need to connect our old cozy 1G copper infrastructure to a shiny brand-new 25G switch. How can we do it?” As we all know, many 25G SFP28 do not directly support 1G
-Read More »
-April 1, 2024
-No Comments
-Our new design
-Our new design! We are excited to start 2024 with a totally new design! While nothing has changed about our passion for open networking, it’s all about our updated look. We have better navigation, security, and convenience splashed with colors that we hope will bring a more effortless shopping experience
-Read More »
-January 8, 2024
-No Comments
-32x400G Aurora 810 with Intel Tofino 2 IFP
-A new Intel Tofino 2 IFP system is ready for deliveries – Aurora 810 from Netberg. The Aurora 810 has 32x400G QSFP-DD ports for Spine, Leaf, NPB, DCI, ToR, Enterprise, Edge, and 5G deployment scenarios. With quad programmable packet processing pipelines and 20 Match Action Unit stages per pipe, Aurora
-Read More »
-May 2, 2023
-No Comments
-Summer time promotion!
-We have a promotion for Netberg Aurora 720 and Aurora 620 switches! New prices: Aurora 720 BMS – US$5,500 Aurora 720 with ICOS – US$7,500 Aurora 620 BMS – US$5,000 Aurora 620 with ICOS – US$6,200
-Read More »
-June 28, 2022
-No Comments
-« Previous
-Page 1
-Page 2
-Page 3
-Page 4
-Page 5
-Page 6
-Page 7
-Page 8
-Page 9
-Page 10
-Next »
-Contact us at sales@bm-switch.com
-Company
-Contact Us
-About Us
-Shipping and Delivery
-Payment Options
-Quick Links
-Blog
-Site Map
-Copyright © 2015-2026 bm-switch.com by Netberg
-Please login to your account here.
-Username or Email Address
-Password
-Remember Me
-Forgot Password?
-Log In
-Register Now
-Verify Your Email
-We have sent a 6-digit verification code to your email. Please enter it below to continue.
-Verify
-Resend Code
-Create an account to track your orders.
-Username
-Email
-Password
-Register
-Sign In
-Verify Your Email
-We have sent a 6-digit verification code to your email. Please enter it below to continue.
-Verify
-Resend Code
-Username or Email Address
-Reset Password
-Sign In
-PayPal Information
-To pay with PayPal, select PayPal as your payment method at Checkout. You will be redirected to the PayPal payment page, where you can log in with your PayPal username and password and confirm your payment. This method also allows payments without a PayPal account. You can enter your credit card information and pay safely via PayPal.
-Our PayPal account is paypal@netbergtw.com .
-Wire Transfer Information
-When placing the order, select Bank Transfer on the Checkout page, and you will see our bank account information.
-After you pay with a bank transfer, please send the bank slip to your account manager for tracking.
-Bank:
-E.Sun Commercial Bank, Ltd., Taipei, Taiwan
-Bank Address:
-No. 66-1, Sanchong Rd. Nangang District, 115, Taipei.
-Account name:
-Netberg Ltd.
-Account number:
-1182441011646
-SWIFT:
-ESUNTWTP
+# SB-893 trassir.ru · news_1 · https://trassir.ru/news/ · fetched 2026-10-24T07:26:33Z · HTTP 200
+Новости
+Меню
++7 (495) 133-04-61
+Личный кабинет
+Вход в личный кабинет
+Регистрация
+Забыли пароль?
+Войти
+Регистрация
+Я согласен на обработку персональных данных
+Уже зарегистрированы
+Регистрация
+Отправлено успешно
+Заполнить еще раз
+Восстановление пароля
+Регистрация
+Вспомнили пароль
+Отправить
+Отправлено успешно
+Заполнить еще раз
+Результаты поиска
+Каталог
+Видеонаблюдение
+Программное обеспечение TRASSIR
+Системы контроля доступа (СКУД)
+Сетевое и кабельное оборудование
+Мониторы и профессиональные дисплеи
+Электротехническое оборудование
+Монтажные материалы
+Услуги
+TRASSIR
+Скачать ПО TRASSIR
+Демо-версия TRASSIR VMS
+Новости
+Мероприятия
+Реализованные проекты
+Где купить?
+Услуги для проектных организаций
+Маркетинговые материалы
+Центр обучения TRASSIR
+Проверить сертификат
+Программное обеспечение TRASSIR
+TRASSIR VMS: Основная программа для видеонаблюдения
+Видеоаналитика TRASSIR: Демонстрация возможностей видеоаналитики
+TRASSIR PSIM: Модуль для оперативной охраны в TRASSIR
+TRASSIR CMS - центр мониторинга системы видеонаблюдения
+РЕШЕНИЯ
++7 (495) 133-04-61
+in@trassir.ru
+Главная
+Новости
+08.07.2026
+В TRASSIR VMS усилена защита сетевых подключений к серверу
+Подробнее
+25.05.2026
+TRASSIR и Релион выпустили готовый комплект для видеонаблюдения и сетевой инфраструктуры
+Подробнее
+26.02.2026
+TRASSIR переходит на новую модель лицензирования решений СКУД
+Подробнее
+11.02.2026
+TRASSIR запускает опрос об удобстве своего ПО
+Подробнее
+30.12.2025
+Новинки TRASSIR — 2025: камеры, регистраторы и сетевое оборудование
+Подробнее
+23.12.2025
+TRASSIR Merge: ваш видеоархив всегда доступен
+Подробнее
+25.11.2025
+Обновление корневых сертификатов TRASSIR
+Подробнее
+21.10.2025
+Автоматический пропуск по номеру: TRASSIR представляет готовое решение для контроля доступа транспорта
+Подробнее
+30.09.2025
+Интеграция TRASSIR и PERCo: Контроль над СКУД в едином интерфейсе видеонаблюдения
+Подробнее
+10.09.2025
+TRASSIR запускает «Бизнес-паркинг» — комплекс для автоматизации платных парковок
+Подробнее
+02.09.2025
+TREND v7: новое поколение камер для ритейла, логистики и муниципальных объектов
+Подробнее
+18.08.2025
+Новинка на складе: камеры 5MP PRO Dual Light v3 с интеллектуальной двойной подсветкой
+Подробнее
+30.07.2025
+Кастомный детектор: распознавание объектов, важных для заказчика
+Подробнее
+23.07.2025
+TRASSIR Bridge & Cloud RTSP: как подключить камеры разных брендов и заработать 1 млн ₽ в год
+Подробнее
+15.07.2025
+TRASSIR представляет обновлённый нейросетевой детектор дыма и огня
+Подробнее
+14.07.2025
+Попробуйте TRASSIR VMS — бесплатно и без ограничений по времени на тест!
+Подробнее
+10.07.2025
+Новинки сетевого оборудования TRASSIR. Промышленные управляемые коммутаторы и аксессуары: sfp-модули и блоки питания
+Подробнее
+03.07.2025
+Выпуск новой операционной системы TRASSIR OS 2.0
+Подробнее
+20.06.2025
+Серия IP-камер TRASSIR ULTRA уже на складе. Высокая производительность и отказоустойчивость.
+Подробнее
+03.06.2025
+TRASSIR PSIM: интегрированная платформа для управления безопасностью
+Подробнее
+30.05.2025
+Новые комплекты TRASSIR TR-Lite: готовое решение для небольших объектов
+Подробнее
+1
+2
+3
+4
+5
++7 (495) 133-04-61
+in@trassir.ru
+Москва, ул. Бакунинская, д. 71
+Каталог
+Видеонаблюдение
+Программное обеспечение TRASSIR
+Системы контроля доступа (СКУД)
+Сетевое и кабельное оборудование
+Мониторы и профессиональные дисплеи
+Электротехническое оборудование
+Монтажные материалы
+Услуги
+РЕШЕНИЯ
+Видеонаблюдение для производства и предприятия
+Видеонаблюдение для магазина
+Видеоаналитика для склада (распознавание автомобильных номеров)
+Видеонаблюдение для школ и муниципального сектора
+Охранное видеонаблюдение в банках
+Видеонаблюдение в ресторанах и кафе
+Камеры видеонаблюдения для парковок
+Видеонаблюдение в ТЦ
+Видеонаблюдение для гостиниц и отелей
+Умный КПП
+TRASSIR
+Скачать ПО TRASSIR
+Демо-версия TRASSIR VMS
+Новости
+Мероприятия
+Реализованные проекты
+Где купить?
+Услуги для проектных организаций
+Маркетинговые материалы
+Политика конфиденциальности
+Портал технической поддержки
+О компании
+© 2026
+Все права защищены
+Нажимая ПРИНЯТЬ или продолжая просмотр сайта, Вы соглашаетесь с использованием файлов cookies. Подробнее
+Принять

@@ -1,0 +1,66 @@
+{
+ "code": "SC-090",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（nvtphybridge.com，快照 2026-10-21）",
+ "summary": "美国 NVT Phybridge（长距 PoE 交换机厂商（CLEER/PoLRE 等自研产品线）；表内「好几个系列的产品，PoE 分销」「优质 PoE 公司」；KP Andres Mosqueda（Biz Dev）、Richard Kasslack（Senior Vice President Sales and Corporate Development））；群发 11 次无回复。",
+ "type": "自研长距 PoE 交换机厂商（同行）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：nvtphybridge.com",
+   "quote": "",
+   "url": "http://nvtphybridge.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "好几个系列的产品 PoE分销",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "好几个系列 PoE 分销",
+   "quote": "好几个系列的产品 PoE分销；优质PoE公司",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "同行：自研长距 PoE 交换机厂商；c_sub=同行/自研",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "美国",
+  "other": "官网 nvtphybridge.com，语言 ?，快照状态 ok；角色判定来源：用户表"
+ },
+ "business_lines": [
+  "长距 PoE 交换机（自有品牌 NVT Phybridge）"
+ ],
+ "channels": {
+  "role": "自研长距 PoE 交换机厂商（同行）",
+  "region": "美国",
+  "contact": "andres.mosqueda@nvtphybridge.com、insidesales@nvtphybridge.com"
+ },
+ "signals": [
+  "表内：好几个系列的产品 PoE 分销；Andres Mosqueda / Biz Dep 优质 PoE 公司；Richard Kasslack / Senior Vice President Sales and Corporate Development",
+  "快照：内容为空"
+ ],
+ "risks": [
+  "同行：自研长距 PoE 产品线（有固定 ODM/制造链）；11 次无回复"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 30,
+  "why": "NVT Phybridge 自研差异化产品线（长距 PoE），非标准 ODM 采购方；11 次无回复 → 改 C（同行）"
+ },
+ "email_hook": "（不发送：同行自研）"
+}

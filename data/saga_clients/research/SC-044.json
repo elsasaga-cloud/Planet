@@ -1,0 +1,41 @@
+{
+ "code": "SC-044",
+ "name_official": "Inland Revenue Department（尼泊尔税务局；联系人 Vijay Yadav）",
+ "researched_at": "2026-10-21",
+ "website_status": "无域名（gmail）",
+ "summary": "表内公司名为尼泊尔政府税务部门（Inland Revenue Department），联系人 Vijay Yadav 用 gmail 要工业品价目；政府部门终端 = 守界（公共部门采购走招标、非渠道）→ 降 C。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "兴趣 price list 工业品；回复 thanks",
+   "quote": "兴趣：price list工业品；回复：thanks",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Vijay Yadav",
+   "title": "（表内联系人）",
+   "email": "vijayrng@gmail.com",
+   "phone": "+977 984 159 7473",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": "C",
+ "override_reason": "守界：政府部门终端用户（公共部门招标、非渠道），且仅一次 thanks",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（身份判断 → 政府部门降 C）"
+ },
+ "saga_fit": {
+  "p1": null,
+  "tier": 25,
+  "why": "不主动供政府部门；若其本地集成商来询再报。"
+ },
+ "email_hook": "（不主动发送）"
+}

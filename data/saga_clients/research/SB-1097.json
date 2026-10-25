@@ -2,23 +2,42 @@
   "code": "SB-1097",
   "name_official": "",
   "researched_at": "2026-10-21",
-  "website_status": "快照失败（http_error）",
-  "summary": "韩国 Zenithtek（zenithtek.co.kr；表内「MC switch 等」「可以尝试多跟进一下」；官网 http_error）；群发 23 次无回复。",
-  "type": "网络产品公司（韩国，待核）",
+  "website_status": "在线（yatun.cz，快照 2026-10-21）",
+  "summary": "捷克 Yatun.cz（自动化、AV 控制、系统/智能电气安装与安防技术专业供应商：Control4、Ekinex、Pulsar；站内 PLANET 关键词；表内「商业 PoE 在卖别人的牌子」「质量一般」）；表内未跟进。",
+  "type": "智能家居/AV 集成分销商（捷克，PLANET 等品牌在售）",
   "size": "",
-  "brands_seen": [],
+  "brands_seen": [
+    "Pulsar",
+    "Control4",
+    "PLANET",
+    "Ekinex"
+  ],
   "evidence": [
     {
-      "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "MC switch等",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "kind": "官网快照",
+      "claim": "官网标题：Domů | Yatun.cz；品类词 无线 / WiFi / 网络交换 / PoE",
+      "quote": "Jsme specializovaný dodavatel technologií pro automatizaci, řízení audio a video techniky, systémovou i inteligentní elektroinstalaci a zabezpečení.",
+      "url": "https://www.yatun.cz/",
       "date": "2026-10-21"
     },
     {
       "kind": "用户表",
-      "claim": "MC switch 等",
-      "quote": "MC switch等；可以尝试多跟进一下",
+      "claim": "表内兴趣/备注",
+      "quote": "商业POE 在卖别人的牌子",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "Yatun 定位",
+      "quote": "Domů | Yatun.cz ; Jsme specializovaný dodavatel technologií pro automatizaci, řízení audio a video techniky, systémovou i inteligentní elektroinstalaci a zabezpečení",
+      "url": "https://www.yatun.cz/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "商业 PoE 在卖别人的牌子",
+      "quote": "商业POE 在卖别人的牌子；质量一般",
       "url": "（本地 Clients/ 表格，无公开 URL）",
       "date": "2026-10-21"
     }
@@ -26,120 +45,84 @@
   "kp": [],
   "grade_override": null,
   "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
   "deep": {
     "done_at": "2026-10-21",
     "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
   },
   "company_facts": {
-    "hq": "韩国",
-    "other": "官网 zenithtek.co.kr，语言 ?，快照状态 http_error；角色判定来源：待核"
+    "hq": "捷克",
+    "other": "官网 yatun.cz，语言 cs，快照状态 ok；角色判定来源：官网文案"
   },
   "business_lines": [
-    "（待核，韩国）"
+    "自动化 / AV 控制 / 智能电气安装 / 安防技术供应"
   ],
   "channels": {
-    "role": "网络产品公司（韩国，待核）",
-    "region": "韩国",
-    "contact": "zenithtek@zenithtek.co.kr"
+    "role": "智能家居/AV 集成分销商（捷克，PLANET 等品牌在售）",
+    "region": "捷克",
+    "contact": "info@yatun.cz"
   },
   "signals": [
-    "表内：MC switch 等；可以尝试多跟进一下",
-    "快照：http_error"
+    "官网：Jsme specializovaný dodavatel technologií pro automatizaci, řízení audio a video techniky, systémovou i inteligentní elektroinstalaci a zabezpečení；首页 Control4 8\" T5 面板、Ekinex 温控；kw switch 30 / wifi 31 / planet 7",
+    "表内：商业 PoE 在卖别人的牌子；质量一般"
   ],
   "risks": [
-    "非主攻区（T5，韩国；KC 由客户侧）；官网 http_error（业务待核）；23 次无回复"
+    "品牌线既定（PLANET 等）；表内「质量一般」；仅 info@，未跟进过"
   ],
   "saga_fit": {
-    "p1": "STI-110GE",
+    "p1": "STC-28DGGPM",
     "tier": 20,
-    "why": "MC/switch → 工业千兆 MC STI-110GE（$22.4 @20%）、8 口 PoE+ 2 SFP STC-28DGGPM（$80.7）"
+    "why": "Control4 项目配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；24 口 STC-424DGGPM-280W（$134.5）作预算线"
   },
-  "email_hook": "For the media converters and switches you supply, we offer neutral-brand gigabit MCs and Marvell-based 8-PoE + 2 SFP L2+ switches from small lots, CE/RoHS; KC by your side — which product do your customers order most?",
+  "email_hook": "Alongside the Control4 and PLANET networking you supply to AV integrators, we offer neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches (silent/fanless options, CE/RoHS) from small lots, EXW USD — which size do your home-automation installs use most?",
   "mail_review": {
     "binding": {
-      "level": "未触达（A/S 邮箱 34 封 2024→2026，0 次有效打开（1 次「打开」与退信同日 2024-12-02，是退信触发的像素，不算；真实打开 0 次），0 回；收件 chaesj@zenithtek.co.kr, zenithtek@zenithtek.co.kr；主题多为「Managed Optical Bypass Switch、Industrial PoE Switch」）；Elsa 1:1 去信 1 封（2025-02-13「8 Port Industrial PoE Switch」；To 仅本户 zenithtek@zenithtek.co.kr；Bcc 未逐封读头；同类名单抽读 24 封均无 Bcc；此后再未进 Elsa 任何名单——全箱 `from:e.sagatelecom to:zenithtek@zenithtek.co.kr` 仅此 1 条，complete）（第 74 批(m)）",
-      "type": "网络产品公司（韩国，待核）",
-      "sieve": "1~2（1 次打开）",
-      "stop": "34 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-      "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
-      "lane": "KR 次级（点名）",
-      "cadence": "一封",
-      "evidence": "gmail_digest：out 34，Opened 标签 1（Simon 群发追踪）；用户表：「MC switch等」；研究档 risks：非主攻区（T5，韩国；KC 由客户侧）；官网 http_error（业务待核）；23 次无回复"
+      "level": "未触达（1 封自动回复；PLANET 在售 → Q-33 口径）；Elsa 群发 BCC 已触达 2026-08-28「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，CZ 批次 To office@ergate.cz，0 回（第 73 批(o) Bcc 头核对 msg 1a04798efe1a50d8）",
+      "type": "捷克智能家居/AV 分销",
+      "sieve": "0",
+      "stop": "Q-33",
+      "revive": "不动",
+      "lane": "CZ",
+      "cadence": "不动",
+      "evidence": "k=6fbdaed12902169c；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To office@ergate.cz）2025-04-12→2026-08-28 共 10 轮群发（Marvell Alleycat5 Solution、16 Port Ethernet Switch、Industrial PoE Switch、90W PoE Managed Switch、Mini Industrial PoE Switch、10G Enterprise SFP Switch、OEM Core Switching Solution、Updated Ethernet Switches Links、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断"
     },
-    "situation": "韩国 Zenithtek（zenithtek.co.kr；表内「MC switch 等」「可以尝试多跟进一下」；官网 http_error）；群发 23 次无回复。",
-    "need": "MC/switch → 工业千兆 MC STI-110GE（$22.4 @20%）、8 口 PoE+ 2 SFP STC-28DGGPM（$80.7）",
-    "breakpoint": "非主攻区（T5，韩国；KC 由客户侧）；官网 http_error（业务待核）；23 次无回复",
+    "situation": "来信全部为机器回复；无人读信或无人回信。",
+    "need": "—",
+    "breakpoint": "—",
     "saga_now": {
-      "p1": "STI-110GE",
+      "p1": "—",
       "tier": 20,
-      "price": "换人再触锚价 STI-110GE $26.5 EXW（最近实报 SA-001 2025-11-27 $26.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-12-30 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-06-27 $220（10G managed switch）、2025-06-02 $300（48 Port PoE Managed Switch）、2025-09-23 $280（10G Enterprise SFP Switch）、2026-06-19 $16000（32 Port 400GB DC Switch）",
-      "why": "MC/switch → 工业千兆 MC STI-110GE（$22.4 @20%）、8 口 PoE+ 2 SFP STC-28DGGPM（$80.7）。已打开的主题（1/34 封有打开记录）：「Mini Industrial PoE Switch」(2024-12-02) → 读者兴趣偏「工业」；当前 P1 属「10G 汇聚/L3」，下一封按「工业」给，不按 P1",
+      "price": "—；群发里他已看到的价（续，第 66 批全量复核）：2024-11-29 $300（48 Port PoE Managed Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-28；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
+      "why": "已打开的主题（2/2 封有打开记录）：「8 Port Ethernet Switch」(2024-11-02)、「48 Port PoE Managed Switch」(2024-11-29) → 读者兴趣主题类别不明（看原主题）",
       "repeat": [],
       "gaps": []
     },
     "next_move": {
-      "when": "2027-Q1（换人后）",
-      "channel": "A 邮箱 → 具名 KP",
-      "action": "首封前知悉：Elsa 仅 2025-02-13 单发过 1 封「8 Port Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(ae) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用；KC stays on your side））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
-      "one_question": "For the media converters and switches you supply, we offer neutral-brand gigabit MCs and Marvell-based 8-PoE + 2 SFP L2+ switches from small lots, CE/RoHS; KC by your side — which product do your customers order most? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
+      "when": "不动",
+      "channel": "—",
+      "action": "—",
+      "one_question": ""
     },
     "facts": [
       {
-        "date": "2024-12-02",
-        "dir": "内",
-        "who": "Gmail 退信（S 邮箱）",
-        "quote": "chaesj@zenithtek.co.kr 永久退信：505 this account is unknown user (#5.5.1)",
-        "why": "该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职",
-        "k": "gmail_s 8e5ecbcce5f0622a"
-      },
-      {
-        "date": "2024-12-02",
-        "dir": "内",
-        "who": "Gmail 退信（S 邮箱）",
-        "quote": "chaesj@zenithtek.co.kr 退信：505 this account is unknown user (#5.5.1)",
-        "why": "该地址当天收不到信；同日的「Opened」记录是退信触发，不算打开",
-        "k": "gmail_s 8e5ecbcce5f0622a"
-      },
-      {
-        "date": "2025-02-13",
-        "dir": "out",
-        "who": "Elsa → zenithtek@zenithtek.co.kr",
-        "quote": "8 Port Industrial PoE Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
-        "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
-        "k": "elsa_1to1",
-        "msg_id": "194fcd1df7534ff0"
-      },
-      {
-        "date": "2026-09-25",
+        "date": "2025-04-12",
         "dir": "去",
-        "who": "A/S 群发",
-        "quote": "Managed Optical Bypass Switch、Industrial PoE Switch",
-        "why": "34 封 / 1 次打开 / 0 回｜首封 2024-06-27 → 末封 2026-09-25（34 去 / 0 来）",
-        "k": "gmail_digest"
+        "who": "Elsa 群发（BCC；To office@ergate.cz，CZ 批次）",
+        "quote": "Marvell Alleycat5 Solution — We are doing Marvell Alleycat5 chip for tailored networking solutions. 1, Support Web GUI change(Logo, model name, MAC, SN, SNMP, OID) 2, Added intere",
+        "why": "Elsa 箱群发 BCC 触达证据（命中地址 info@yatun.cz, yatun.cz）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+        "k": "elsa_bcc"
       },
       {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "MC switch等",
-        "why": "表内备注",
-        "k": "用户表"
-      },
-      {
-        "date": "2026-09-25",
+        "date": "2026-08-28",
         "dir": "去",
-        "who": "A 箱（Alan）",
-        "quote": "Managed PoE Switches",
-        "why": "本日去信真实主题（邮箱索引 78a0fc42cc087210；信稿开头句引用此封；此前稿内写的「Managed Optical Bypass Switch」是线程列表首题，不是本封）",
-        "k": "78a0fc42cc087210"
+        "who": "Elsa 群发（BCC；To office@ergate.cz，CZ 批次）",
+        "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
+        "why": "Elsa 箱群发 BCC 触达证据（命中地址 info@yatun.cz, yatun.cz）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+        "k": "elsa_bcc"
       }
     ],
     "proof_gaps": [],
-    "draft_en": {
-      "subject": "For the converters and switches you supply - two neutral-brand numbers",
-      "body": "Hello Zenithtek team,\n\nWe wrote to you once in February 2025 about an 8-port industrial PoE switch, and since then only general product mails - most recently \"Managed PoE Switches\" on 25 September 2026 - none of which needed an answer. This one is specific.\n\nFor the media converters and switches you supply, neutral-brand units at distributor price, EXW, MOQ 1, 15-day validity, CE/RoHS: industrial Gigabit media converter, 1 x RJ45 + 1 x SFP slot, -40 to 75 C - model STI-110GE - $26.5 USD; 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based - STC-28DGGPM - $80.7. KC stays on your side.\n\nOne question: which product do your customers order most - the converter or the PoE switch - so I send the right datasheet?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
-    },
-    "as_of": "2026-10-24"
+    "draft_en": null,
+    "as_of": "2026-10-25"
   }
 }

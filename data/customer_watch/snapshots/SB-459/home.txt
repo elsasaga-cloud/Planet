@@ -1,133 +1,255 @@
-# SB-459 casecomms.com · home · https://www.casecomms.com/ · fetched 2026-10-25T07:41:18Z · HTTP 200
-Case Communications Case Communications Industrial Rugged Networks
-Call us on +44 (0) 1494 880 240
-or
-Email admin@case.uk.com
-Login
-Register
-User Profile
-Home
-About
-About Us
-Our International Partners
-Our Policies
-Products
-Industrial Rugged Routers
-6401 ADSL Router
-6402 ADSL LTE 4G Router
-6944 Dual SIM 4G Router
-6540 Broadband Router with V.DSL, ADSL, Fibre
-6540M – MIL Spec Rugged Router Switch
-VoIP Router – Viper
-Industrial Ethernet Switches Overview
-PIXE L3 8T 4X 1Gbps Layer 3 Industrial 90W PoE Ethernet Switch
-PIXE L3 8BT 4SX R 10Gbps Layer 3 Industrial 90W PoE Ethernet Switch
-PIGE-4T-2S-G – 6 port Industrial Gigabit PoE Ethernet Switch
-PIGE-8T-2S-G (8xPoE 2xSFP)
-PIGE-8BT-4S-R 8 x POE++, 4 x GiG SFP)
-PIGE 10T-4S-G – 14 Port Industrial Gigabit PoE Ethernet Switch
-PIGE-16T-4S-G (16xPoE, 4xSFP)
-PIXE-12T-4SX-G (12xPoE,4x10Gbps SFP)
-R2-24TxP-4S-G 24xPoE, 4xSFP Rackmount
-R3-8TxP-24S-4X-RT (8xTx,24SPF. 4 x10Gbps SFP) Rack Mount
-R3-24Tx-8S-4SX-RT (24x Tx, 8 x SFP, 4 x 10Gbps) Rack mount switch
-Industrial Media Converters
-100FX to UTP Rj45
-PIMC-2GB-2SFP
-IMC-GB-SFP-2T
-3611 Serial to Ethernet Converter
-Voice Over IP Products
-VoIP Router – Viper
-7495 VoIP Router SIP PBX GSM Gateway
-Wireless Products
-450b Subscriber and Backhaul
-450i Fixed Wireless Point to Multipoint and Backhaul
-Industrial DIN Rail Fibre Patch Panel
-Mil Spec Rugged Equipment Cases
-Industrial Small Form Pluggables
-SNMP Network Management System
-Legacy Products
-Services
-Base Repair Centre
-Help Desk
-Case Studies
-SMART Cities Case Studies
-Oil and Gas Case Studies
-Communications Case Studies
-Industry and Manufacturing Case Studies
-Network Rail
-Healthcare Case Studies
-Security Case Studies
-Government Case Studies
-Finance Case Studies
-Downloads
-Technology White Papers
-Case Communications Legacy Product Manuals
-Pocket Books
-Pocket Book of Local Area Networks (LAN)
-Pocket Book of Ethernet Switching
-Contact Us
-SMART Cities Solutions
-View Case Studies
-Transport Solutions
-View Case Studies
-Oil & Gas Industry Solutions
-View Case Studies
-Communications Solutions
-View Case Studies
-Case Communications Industrial Networks
-Specialists in high-performance industrial networking solutions.
-Case Communications is a British company specialising in providing high quality rugged / industrial networks designed to operate reliably, and support mission critical applications in harsh conditions.
-Read More
-February 2026 – Case Communications ship phase 1A of an Egyptian Military Contract
-March 2026 – Case Communications launch new 10Gbps Layer 3 Industrial Ethernet Switch
-May 2025 – Case Communications win contract to repair Network Rail networking equipment
-June 2025 – EoN expand the roll out of Case Communications 6944 Industrial 4G Routers for their UTMC network
-July 2025 – Case Communications supply their PIGE 8T-4S-R Industrial Switches to Cork Council to monitor and control the cities traffic
-August 2025 – Case Communications launch their new range of RT Industrial Ethernet Switches which offer high performance and functionality
-November 2024 – Case Communications win contract to supply their 6944 for a project for a SMART City project in Milan.
-July 2025 Case Communications extend Super-Trams network with their Industrial 28 port fibre switches.
-September 2024 – Case Communications complete major contract to upgrade Dundee City Councils SMART City Network.
-Case Communications
-Leaders in Industrial Telecommunications Products
-Case Communications design, develop and manufacturer advanced industrial / rugged telecommunications products for reliable use in mission critical applications operating in harsh environments . These products are typically used for machine to machine communications (M2M) and are used world-wide by some of the largest corporations.
-Formed in the 1970s, we have a unique blend of experience, expertise and professionalism. We specialise in the design, development and implementation of industrial / rugged corporate communication systems, focusing particularly on mission-critical applications in harsh environments. Our Markets include the Oil and Gas Industry, Utilities, Railways, Air Travel, SMART Cities, Transport Systems and M.O.D.
-Our Products
-Our Services
-Contact Us
-A Case of Experience, Quality and Reliability
-Case Communications. Global solutions tailored to meet individual needs.
-Looking for high-quality and extremely reliable M2M and IoT solutions?
-We manufacture and supply Industrial / Rugged routers ; Industrial Ethernet Switches ; Wireless solutions ; Cellular and Wi-Fi Routers ; Network Management ; Media Converters , Voice Over IP Routers , and support for legacy products.
-Do you want excellent levels of service throughout?
-We provide high levels of service and support including a help desk; technical support; pre-configuration of equipment, and a purpose-built repair centre.
-Would you like first-class, comprehensive support?
-Our support services include a Help Desk; technical support; pre-configuration of equipment, and a purpose-built repair centre.
-You need Case Communications!
-Contact Us
-Highways
-Utilities
-SMART CITIES
-Oil & Gas
-Railways
-Case Communications
-Case Communications is a British company specialising in providing high quality rugged / industrial networks designed to operate reliably, and support mission critical applications in harsh conditions.
-Being a product developer allows us to not only help customers configure and support their products, but allows us to add features on behalf of customers.
-Case Communications continues developing advanced technologies, and has employed some of the industry’s leading brains and sat on numerous standards bodies. With a large research and development department many advanced technologies soon followed.
-Services
-Base Repair Centre
-Help Desk
-Contact Us
-North’s Estate
-Old Oxford Road
-Piddington
-High Wycombe
-Buckinghamshire
-HP14 3BE
-United Kingdom
-Tel : +44 (0) 1494 880 240
-Fax: +44 (0) 1494 880 241
-Email : admin@case.uk.com
-Copyright © Case Communications | All Rights Reserved
-Case Communications Policies
-Site Map
+# SB-459 ssdcam.ru · home · https://ssdcam.ru/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+Главная | SSDCAM - Оптовая продажа систем технической безопасности
+г. Москва, ул. Дорогобужская д.14
+Главная
+О компании
+Новости
+Техподдержка
+Сертификаты
+Доставка
+Контакты
+Пн–Пт · –
+Telegram
+Скачать прайс-лист
+8 (495) 968-88-42
+Каталог
+Войти /
+Регистрация
+0
+Сравнить
+Добавлено к сравнению
+0
+Избранное
+0
+#
+Изображение
+Описание
+Удалить из корзины
+Ваша
+Перейти в корзину
+Оформить
+Сторонние бренды
+Каталог все разделы
+IP системы
+AHD системы
+POE коммутаторы
+СКУД
+Кабель
+Домофония
+Аксессуары
+Архив
+Проектное оборудование
+КАТАЛОГ ОБОРУДОВАНИЯ
+Все разделы
+Перейти в каталог →
+IP системы
+→
+IP видеокамеры
+IP видеорегистраторы
+AHD системы
+→
+AHD видеокамеры
+AHD видеорегистраторы
+POE коммутаторы
+→
+Открыть оборудование раздела
+СКУД
+→
+Открыть оборудование раздела
+Кабель
+→
+Открыть оборудование раздела
+Домофония
+→
+Открыть оборудование раздела
+Аксессуары
+→
+Приемопередатчики
+Разъемы
+Блоки питания
+Кронштейны
+Архив
+→
+Открыть оборудование раздела
+Проектное оборудование
+→
+Открыть оборудование раздела
+БОЛЬШЕ ВОЗМОЖНОСТЕЙ
+Сторонние бренды
+Камеры, регистраторы и оборудование других производителей.
+Смотреть каталог ↗
+Меню
+×
+Разделы сайта
+Главная
+О компании
+Новости
+Техподдержка
+Сертификаты
+Доставка
+Контакты
+Покупателям
+Личный кабинет
+Сторонние бренды
+Программы и утилиты
+Прошивки IPEYE + XMEye
+8 (495) 968-88-42
+Пн–Пт · –
+Telegram ↗
+SSDCAM · СИСТЕМЫ ТЕХНИЧЕСКОЙ БЕЗОПАСНОСТИ
+Расширяем гарантийное обслуживание до 2 лет!
+Домофония, видеокамеры, видеорегистраторы, сетевое оборудование
+* гарантия на аксессуары до 6 месяцев
+Перейти в каталог → Узнать подробнее
+Квалифицированный ремонт Программное сопровождение Заводские комплектующие
+СОБСТВЕННОЕ ПРОГРАММНОЕ ОБЕСПЕЧЕНИЕ
+ЗАПЧАСТИ В НАЛИЧИИ На весь ассортимент!
+ДЕРЖИМ ПЛАНКУ ВЫСОКАЯ СКОРОСТЬ РЕМОНТА
+Контроль качества Проверка перед отправкой
+Техническая поддержка Помощь с настройкой и ремонтом
+Документация Паспорта, инструкции, сертификаты
+Единый центр загрузок Прошивки, программы и утилиты
+ОБУЧЕНИЕ И ДЕМОНСТРАЦИЯ
+Видеоматериалы SSDCAM
+Обзоры оборудования, примеры работы и инструкции по настройке
+Смотрите наши материалы на удобной площадке
+YouTube
+ДОКУМЕНТАЦИЯ
+Сертификаты и декларации
+Сертификат соответствия на камеры
+Сертификат соответствия на регистраторы
+Декларация соответствия на POE коммутаторы
+Все документы
+Пауза
+Документ
+Открыть оригинал
+Блог SSDCAM
+Новости компании
+Все публикации →
+Как работает защита проекта в компании SSDCAM
+Заключается в том, что при подготовке сметы клиент обращается к нам и сообщает перечень оборудования марки SSDCAM, которое он собирается использовать в своем проекте, а также…
+Читать статью ↗
+Правила отправки оборудования в ремонт
+При отправке оборудования в ремонт необходимо приложить: копию накладной с датой приобретения оборудования; заполненный акт рекламации (указав неисправности) - диагностика…
+Читать статью ↗
+ОБОРУДОВАНИЕ SSDCAM
+Популярные позиции
+Все популярные →
+ПОПУЛЯРНОЕ
+Уличные камеры
+IP видеокамера IP-113MPD
+3 Мрх (2048х1536)
+Объектив 2.8 мм (фикс)
+Питание POE/DC12V
+Встроенный микрофон
+3 432 руб.
+Подробнее →
+ПОПУЛЯРНОЕ
+Уличные камеры
+IP видеокамера IP-129
+4 Мрх (2688х1520)
+Объектив 2.8 мм (фикс)
+Питание POE/DC12V
+Подсветка 30 метров
+4 992 руб.
+Подробнее →
+ПОПУЛЯРНОЕ
+Домофония
+Видеодомофон SD-730L Белый
+7 дюймов, разрешение 800х480
+Стандарт CVBS - аналог
+Поддержка экранного меню
+Поддержка 2 вызывных панелей
+7 752 руб.
+Подробнее →
+ПОПУЛЯРНОЕ
+Внутренние камеры
+IP видеокамера IP-571
+4 Мрх (2688х1520)
+Объектив 2.8 мм (фикс)
+Питание: POE/DC12V
+Встроенный микрофон
+4 316 руб.
+Подробнее →
+ПРОЕКТНОЕ ОБОРУДОВАНИЕ
+Нестандартные решения
+Камеры, регистраторы и компоненты для объектов со сложными задачами.
+Смотреть оборудование →
+Уличные камеры
+IP видеокамера IP-9225HBSP
+2.1 Мп (1920×1080)
+Объектив 2.1 Мп (1920×1080
+Питание POE/DC12V
+PTZ-механизм
+68 555 руб.
+Подробнее →
+Уличные камеры
+IP камера c тепловизором IP-4536BITWS
+5 Мп (2592×1944)
+Тепловизор 256×192
+Объектив 1/2.7" CMOS
+Питание POE/DC12V
+Продвинутая видеоаналитика
+105 749 руб.
+Подробнее →
+SSDCAM
+О компании
+Компания SSDCAM является OEM производителем оборудования для рынка систем безопасности. Продукция SSDCAM поможет Вам обезопасить свой бизнес, а также повысить личную безопасность. Оборудование собирается из комплектующих ведущих мировых производителей, что позволяет гарантировать высокое качество и стабильность работы.
+Подробнее о компании →
+С политикой конфиденциальности можно ознакомиться по данной ссылке
+ПОЛИТИКА КОНФИДЕНЦИАЛЬНОСТИ
+С условиями пользоватльского соглашения можно ознакомиться по данной ссылке
+ПОЛЬЗОВАТЕЛЬСКОЕ СОГЛАШЕНИЕ
+ПАРТНЁРСКАЯ ПРОГРАММА
+Развивайте проекты вместе с SSDCAM
+Специальные условия для монтажных организаций, интеграторов и торговых компаний.
+Поможем подобрать оборудование, подготовить проект и окажем техническую поддержку.
+Оптовые условия
+Защита проектов
+Помощь инженеров
+ОБРАТНЫЙ ЗВОНОК Обсудить сотрудничество
+Оставьте имя и телефон — специалист свяжется с вами.
+Ваше имя *
+Телефон *
+Ваш сайт
+Я согласен на обработку персональных данных
+Стать нашим партнёром →
+✓ Заявка принята
+Производитель систем технической безопасности
+Правовая информация
+Информация, представленная на сайте, носит информационный характер и не является публичной офертой, определяемой положениями ст. 437 (2) ГК РФ.
+Использование информации, представленной на сайте, допустимо с разрешения компании.
+Каталог
+IP системы
+AHD системы
+POE коммутаторы
+СКУД
+Кабель
+Покупателям
+Доставка
+Сертификаты
+Техподдержка
+Программы и утилиты
+Прошивки
+8 (495) 968-88-42
+info@ssdcam.ru
+г. Москва, ул. Дорогобужская д.14
+Пн–Пт · –
+SSDCAM © 2026 · Все права защищены
+Политика конфиденциальности
+Пользовательское соглашение
+Товары в корзине
+×
+#
+Изображение
+Описание
+Удалить из корзины
+Продолжить покупки
+Оформить
+×
+Цена:
+Описание:
+Подробнее
+Мы используем файлы cookie для улучшения работы сайта и сбора аналитики. Продолжая использовать сайт, вы соглашаетесь с Политикой обработки персональных данных .
+Принять
+Отклонить

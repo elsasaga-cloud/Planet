@@ -1,136 +1,156 @@
 {
  "code": "SB-319",
- "name_official": "Longtek Electronics (Europe) Ltd（Co. 05227994，Enfield, London；longtek.co.uk）",
+ "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "在线",
- "summary": "伦敦 Enfield 的微型安防/消防安装商（2004-09 注册；SSAIB 认证；<10 人、营业额 <£1M；创办人 Thevarajah Thevalojan）：CCTV、入侵报警、火灾报警、门禁的安装与维护，覆盖伦敦与英格兰；另有自研 Longtek Engineer/Customers App。用户表：17 次跟进 0 回复。",
- "type": "",
+ "website_status": "在线（viewtech.co.nz，快照 2026-10-21）",
+ "summary": "新西兰基督城 Viewtech（安全与安防技术供应商：车辆/车队安全系统设计供应 + 安防批发分销；品牌 Milesight / Dahua / Teltonika / Utepo（表内）；站内 Dahua CS4006-4ET-60、PFT1200；KP Darren Jenkinson（Managing Director）、Matthew Peacey（Commercial Manager，matthew@））；表内 1 次跟进无回复。",
+ "type": "安防批发分销商（新西兰，多品牌）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Milesight",
+  "Dahua",
+  "Teltonika",
+  "Utepo"
+ ],
  "evidence": [
   {
-   "kind": "官网",
-   "claim": "业务与联系方式",
-   "quote": "At Longtek Electronics (Europe) Ltd, we have been at the forefront of security technology since 2004, serving Enfield Town … installation, maintenance, and repair of state-of-the-art CCTV systems, alarm systems (including intruder alarms and fire alarms) and access control systems … admin@longtek.co.uk … +44 20 8805 0002 … 12 Bishops Close, Enfield EN1 3QJ",
-   "url": "https://longtek.co.uk/aboutUs",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "登记",
-   "claim": "法人登记",
-   "quote": "LONGTEK ELECTRONICS EUROPE LTD Company number 05227994 … 12 Bishops Close, Enfield, Mddx, EN1 3QJ … Incorporated on: 10 September 2004",
-   "url": "https://find-and-update.company-information.service.gov.uk/company/05227994",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "名录",
-   "claim": "规模与创办人",
-   "quote": "Micro Turnover is under £1M … Under 10 employees … Security systems service activities (80200) … Thevarajah Thevalojan Founder Appointed in Sep 2004",
-   "url": "https://open.endole.co.uk/insight/company/05227994-longtek-electronics-europe-ltd",
+   "kind": "官网快照",
+   "claim": "官网标题：Viewtech™ – Safety & Security Suppliers；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 网络交换 / PoE",
+   "quote": "Viewtech is a safety and security technology supplier based in Christchurch, New Zealand. We specialise in system design and supply for vehicle and fleet safety, and wholesale distribution for the security trade.",
+   "url": "https://viewtech.co.nz/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "17 次跟进 0 回复",
-   "quote": "（用户表字段）",
+   "claim": "表内兴趣/备注",
+   "quote": "有Utepo的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "基督城安全与安防技术供应商：车辆/车队安全 + 安防批发",
+   "quote": "Viewtech is a safety and security technology supplier based in Christchurch, New Zealand. We specialise in system design and supply for vehicle and fleet safety, and wholesale distribution for the sec…",
+   "url": "https://viewtech.co.nz/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "有 Utepo",
+   "quote": "有Utepo的",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
  "kp": [
   {
-   "name": "Thevarajah Thevalojan",
-   "role": "Founder / Director（Companies House 公开）",
-   "email": "admin@longtek.co.uk（公司公开）",
-   "phone": "+44 20 8805 0002",
-   "source": "https://open.endole.co.uk/insight/company/05227994-longtek-electronics-europe-ltd"
+   "name": "Matthew Peacey",
+   "title": "Commercial Manager",
+   "email": "matthew@viewtech.co.nz",
+   "phone": "",
+   "source": "用户表"
+  },
+  {
+   "name": "Darren Jenkinson",
+   "title": "Managing Director",
+   "email": "",
+   "phone": "",
+   "source": "用户表"
   }
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网 + Companies House 核对）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "legal_name": "Longtek Electronics Europe Ltd（Companies House 05227994，2004-09-10；SIC 80200）",
-  "hq": "12 Bishops Close, Enfield EN1 3QJ, UK（+44 20 8805 0002；admin@longtek.co.uk / info@longtek.co.uk；0800 511 8611）",
-  "size": "<10 人；营业额 <£1M（Endole）；3 人（GlobalDatabase）",
-  "other": "SSAIB 认证安装商；关联公司 Longtek Commercial Ltd（14264827，2022）"
+  "hq": "新西兰",
+  "other": "官网 viewtech.co.nz，语言 en-US，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "CCTV / 入侵报警 / 门禁安装与维护",
-  "火灾报警安装（守界：火灾主系统不供）"
+  "车辆与车队安全系统（设计 / 供应）",
+  "安防产品批发分销"
  ],
  "channels": {
-  "网站": "https://longtek.co.uk/",
-  "电话": "+44 20 8805 0002（官网公开）",
-  "邮箱（公开）": "admin@longtek.co.uk"
+  "role": "安防批发分销商（新西兰，多品牌）",
+  "region": "新西兰",
+  "contact": "sales@viewtech.co.nz、matthew@viewtech.co.nz"
  },
  "signals": [
-  "小型安装商，每项目 1 台 4/8 口 PoE；可作样品级试单"
+  "官网：Technology Solution Distributors；We Distribute High Quality Products",
+  "站内品牌 Milesight / Dahua / Teltonika；型号 DH-CS4006-4ET-60 / PFT1200",
+  "KP：Darren Jenkinson / MD；Matthew Peacey / Commercial Manager（表内）"
  ],
  "risks": [
-  "微型、采购量小；17 次推送 0 回复"
+  "车辆/车队安全线：Saga 无 E-mark、不做车载 → 只报固定安装场景",
+  "新西兰（T5）：RCM 合规由客户申报；小市场量小"
  ],
  "saga_fit": {
   "p1": "STC-28DGGPM",
-  "tier": 25,
-  "why": "安装商 25% 档：STC-28DGGPM 8 PoE+ 2 SFP（$84.1）；低价位用 Realtek 线 STC-028GP（$24.2）"
+  "tier": 20,
+  "why": "在售 Utepo / Dahua CS4006（非管理 4 PoE）→ 对价 HRUI STC-204GP（$20.4）；管理位 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；车载场景不报（Saga 无 E-mark）"
  },
- "email_hook": "For the small CCTV and access-control jobs you run around Enfield, an 8-port gigabit PoE+ switch with 2 SFP is $84.1 EXW and the unmanaged 8-port PoE $26.2; shall I send one of each for your next install?",
+ "email_hook": "Matthew, next to the Utepo and Dahua PoE switches you wholesale, we supply a Marvell-based 8-PoE + 2 SFP L2+ switch and a budget 4/8-port unmanaged PoE line in neutral packing from small lots — which price band do your installers buy most?",
+ "products_seen": [
+  {
+   "brand": "Dahua",
+   "model": "DH-CS4006-4ET-60",
+   "spec": "4 PoE + 2 上联 非管理 60W",
+   "saga": "STC-204GP（HRUI 列表价 $20.4，非 SmartByte）",
+   "url": "https://viewtech.co.nz/",
+   "date": "2026-10-21"
+  }
+ ],
  "mail_review": {
   "binding": {
-   "level": "读而不回（A/S 邮箱 28 封 2024→2026，其中 2 封被打开，0 回；收件 logan@longtek.co.uk；被打开主题「8 Port Industrial PoE Switch、Managed Optical Bypass Switch」；Elsa 箱：`to:.uk` 穷举 34 条（2026-10-25，锚批 Bcc 头已读）未见 longtek.co.uk → Elsa 箱从未发过本户，往来只在 S/A 箱（去 28 / 来 0）（第 74 批(f)））",
-   "type": "—",
-   "sieve": "2（有人在读，无人回）",
-   "stop": "读而不回 = 内容未命中或没有当下需求",
-   "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
-   "lane": "UK 主攻（四主）",
-   "cadence": "一封；回了再说",
-   "evidence": "gmail_digest：out 28，Opened 标签 2（Simon 群发追踪）；用户表：「（用户表字段）」；研究档 risks：微型、采购量小；17 次推送 0 回复"
+   "level": "未触达（A 邮箱 11 封 2025→2026，无记录打开，0 回；收件 darren@viewtech.co.nz, matthew@viewtech.co.nz；主题多为「10G Enterprise SFP Switch、Booster PoE Switch」；Elsa 箱：`to:.nz` 穷举 15 条（2026-10-25，锚批 Bcc 头已读）未见 viewtech.co.nz → Elsa 箱从未发过本户，往来只在 S/A 箱（去 11 / 来 0）（第 74 批(f)））",
+   "type": "安防批发分销商（新西兰，多品牌）",
+   "sieve": "1（只收到群发）",
+   "stop": "11 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "新西兰 非主攻",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 11；用户表：「有Utepo的」；研究档 risks：车辆/车队安全线：Saga 无 E-mark、不做车载 → 只报固定安装场景"
   },
-  "situation": "伦敦 Enfield 的微型安防/消防安装商（2004-09 注册；SSAIB 认证；<10 人、营业额 <£1M；创办人 Thevarajah Thevalojan）：CCTV、入侵报警、火灾报警、门禁的安装与维护，覆盖伦敦与英格兰；另有自研 Longtek Engineer/Customers App。用户表：17 次跟进 0 回复。",
-  "need": "安装商 25% 档：STC-28DGGPM 8 PoE+ 2 SFP（$84.1）；低价位用 Realtek 线 STC-028GP（$24.2）",
-  "breakpoint": "微型、采购量小；17 次推送 0 回复",
+  "situation": "新西兰基督城 Viewtech（安全与安防技术供应商：车辆/车队安全系统设计供应 + 安防批发分销；品牌 Milesight / Dahua / Teltonika / Utepo（表内）；站内 Dahua CS4006-4ET-60、PFT1200；KP Darren Jenkinson（Managing Director）、Matthew Peacey（Commercial Manager，matthew@））；表内 1 次跟进无回复。",
+  "need": "在售 Utepo / Dahua CS4006（非管理 4 PoE）→ 对价 HRUI STC-204GP（$20.4）；管理位 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；车载场景不报（Saga 无 E-mark）",
+  "breakpoint": "车辆/车队安全线：Saga 无 E-mark、不做车载 → 只报固定安装场景",
   "saga_now": {
    "p1": "STC-28DGGPM",
-   "tier": 25,
-   "price": "Realtek 线按 HRUI 2026-09-30 进价 +25% 现算（Q-47 默认，不用 Drive 旧表价）：STC-208GP $24.2→$26.2；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-12-24 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-19 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-09-03 $65（10G Media Converter）、2025-02-03 $240（24 Port Fiber Switch）、2025-09-30 $280（10G Enterprise SFP Switch）",
-   "why": "安装商 25% 档：STC-28DGGPM 8 PoE+ 2 SFP（$84.1）；低价位用 Realtek 线 STC-028GP（$24.2）。已打开的主题（2/28 封有打开记录）：「10G media converter」(2024-09-03)、「24 Port Fiber Switch」(2025-02-03) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-03-03)、Product Link_2026Q3(2026-07-14)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-09-24 $280（10G Enterprise SFP Switch）、2026-06-18 $16000（32 Port 400GB DC Switch）",
+   "why": "在售 Utepo / Dahua CS4006（非管理 4 PoE）→ 对价 HRUI STC-204GP（$20.4）；管理位 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；车载场景不报（Saga 无 E-mark）",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "2026-11",
-   "channel": "A 邮箱 → logan@longtek.co.uk",
-   "action": "短信一问（email_hook）",
-   "one_question": "For the small CCTV and access-control jobs you run around Enfield, an 8-port gigabit PoE+ switch with 2 SFP is $84.1 EXW and the unmanaged 8-port PoE $26.2; shall I send one of each for your next install?"
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Matthew, next to the Utepo and Dahua PoE switches you wholesale, we supply a Marvell-based 8-PoE + 2 SFP L2+ switch and a budget 4/8-port unmanaged PoE line in neutral packing from small lots — which price band do your installers buy most?"
   },
   "facts": [
    {
-    "date": "2026-08-19",
+    "date": "2026-09-15",
     "dir": "去",
-    "who": "A/S 群发",
-    "quote": "8 Port Industrial PoE Switch、Managed Optical Bypass Switch",
-    "why": "28 封 / 2 次打开 / 0 回｜首封 2024-06-13 → 末封 2026-08-19（28 去 / 0 来）",
+    "who": "A 群发",
+    "quote": "10G Enterprise SFP Switch、Booster PoE Switch",
+    "why": "11 封 / 0 次打开 / 0 回｜首封 2025-09-24 → 末封 2026-09-15（11 去 / 0 来）",
     "k": "gmail_digest"
    },
    {
     "date": "2026-10-21",
     "dir": "用户表",
     "who": "Simon",
-    "quote": "（用户表字段）",
+    "quote": "有Utepo的",
     "why": "表内备注",
     "k": "用户表"
    }
   ],
   "proof_gaps": [],
-  "draft_en": {
-   "subject": "One question — 8 Port Industrial PoE Switch",
-   "body": "Hi Logan,\n\nWe have sent you a few mails on \"8 Port Industrial PoE Switch\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor the small CCTV and access-control jobs you run around Enfield, an 8-port gigabit PoE+ switch with 2 SFP is $84.1 EXW and the unmanaged 8-port PoE $26.2; shall I send one of each for your next install?\n\nPrices are USD EXW, 2026-10-17 snapshot, valid 15 days.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
-  },
+  "draft_en": null,
   "as_of": "2026-10-24"
  }
 }

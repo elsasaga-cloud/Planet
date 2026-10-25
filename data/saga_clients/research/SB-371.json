@@ -2,72 +2,142 @@
  "code": "SB-371",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "在线（smanex.com，快照 2026-10-21）",
- "summary": "台湾 SMANEX（M2M + AIoT 方案：工业 IoT 网关、工业以太网交换机 SW3108G-C / SW3105GP-1GF / SW3110GP-2GF、蜂窝连接、SDRMS 远程设备管理；Hannover Messe 2025 参展；表内「工业 FS 自己的品牌」）；表内 3 次跟进无回复。",
- "type": "台湾工业网络厂商（同行）",
+ "website_status": "在线（wirewerks.com，快照 2026-10-21）",
+ "summary": "加拿大 Wirewerks（蒙特利尔结构化布线制造商：铜缆/光纤网络产品、数据中心、宽带；TIA 标准导向；表内「MC 自己的 logo；别人在卖他们的」「可以多跟进一下」；KP Carl Lindquist）；群发 10 次无回复。",
+ "type": "布线制造商（加拿大，自有标 MC 为副线）",
  "size": "",
  "brands_seen": [],
  "evidence": [
   {
    "kind": "官网快照",
-   "claim": "官网标题：SMANEX｜M2M+AIoT Solutions；品类词 工业自动化 / OT 网络 / 无线 / WiFi / 网络交换 / PoE",
-   "quote": "SMANEX provides industrial IoT gateways, industrial Ethernet switches, cellular connectivity and SDRMS remote device management solutions for smart manufacturing, energy, infrastructure and distributed industrial sites.",
-   "url": "https://www.smanex.com/",
+   "claim": "官网标题：Wirewerks | Network innovations；品类词 电信 / FTTH / ISP 设备 / 无线 / WiFi / 数据中心 / 企业 IT / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "Network innovations on Wirewerks…",
+   "url": "https://wirewerks.com/en/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
    "claim": "表内兴趣/备注",
-   "quote": "工业FS 自己的品牌",
+   "quote": "MC 自己的logo 别人在卖他们的",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   },
   {
    "kind": "官网快照",
-   "claim": "SMANEX 定位",
-   "quote": "SMANEX｜M2M+AIoT Solutions ; SMANEX provides industrial IoT gateways, industrial Ethernet switches, cellular connectivity and SDRMS remote device management solutions",
-   "url": "https://www.smanex.com/",
+   "claim": "Wirewerks 定位",
+   "quote": "Wirewerks | Network innovations ; Network connectivity starts at the physical layer. ; Copper Network Products ; Optical Fiber Network Products ; Data Centers ; Broadband",
+   "url": "https://wirewerks.com/en/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "工业 FS 自己的品牌",
-   "quote": "工业FS 自己的品牌",
+   "claim": "MC 自己的 logo",
+   "quote": "MC 自己的logo 别人在卖他们的；可以多跟进一下",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
- "kp": [],
- "grade_override": "C",
- "override_reason": "同行：台湾工业网络厂商 SMANEX（自有工业交换机系列），非渠道客户；c_sub=同行/台湾厂商",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "kp": [
+  {
+   "name": "Carl Lindquist",
+   "title": "（职务待核）",
+   "email": "clindquist@wirewerks.com",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "台湾",
-  "other": "官网 smanex.com，语言 en，快照状态 ok；角色判定来源：用户表"
+  "hq": "加拿大",
+  "other": "官网 wirewerks.com，语言 en，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "工业 IoT 网关 / 工业以太网交换机（自有品牌 SMANEX）"
+  "结构化布线（铜缆 / 光纤 / 数据中心 / 宽带）"
  ],
  "channels": {
-  "role": "台湾工业网络厂商（同行）",
-  "region": "台湾",
-  "contact": "info@smanex.com"
+  "role": "布线制造商（加拿大，自有标 MC 为副线）",
+  "region": "加拿大",
+  "contact": "clindquist@wirewerks.com、info@wirewerks.com"
  },
  "signals": [
-  "官网：SMANEX provides industrial IoT gateways, industrial Ethernet switches, cellular connectivity and SDRMS remote device management solutions；站内 SW3108G-C / SW3105GP-1GF / SW3110GP-2GF；页面 hannover-messe-2025",
-  "表内：工业 FS 自己的品牌"
+  "官网：Network connectivity starts at the physical layer. ; Copper Network Products ; Optical Fiber Network Products ; Data Centers ; Broadband；站内 TIA-568 / TIA-942-B；kw fiber 74 / data center 18",
+  "表内：MC 自己的 logo 别人在卖他们的；可以多跟进一下；KP Carl Lindquist"
  ],
  "risks": [
-  "同行：台湾自有品牌工业以太网交换机与 IoT 网关厂商，非渠道客户"
+  "主业结构化布线（Saga 不做）：MC 为副线，契合度低",
+  "10 次无回复 → 改向 Carl Lindquist 具名首触（职务待核）"
  ],
  "saga_fit": {
-  "p1": null,
+  "p1": "STI-110GE",
   "tier": 30,
-  "why": "台湾自有品牌工业交换机/网关厂商（同行），非渠道客户 → 改 C"
+  "why": "自有 logo MC → 工业千兆 MC STI-110GE（$24.3 @30%）；桌面 MC 用 HRUI（列表价，注明）；8 GE + 2 SFP 位 STC-28GM（HRUI 列表价，注明）"
  },
- "email_hook": "（不发送：同行/台湾厂商）"
+ "email_hook": "Carl, for the media converters offered under the Wirewerks label with your copper and fibre systems, we can supply gigabit MCs (industrial DIN/wall or desktop) and small SFP-uplink switches in your packaging from small lots, FCC/CE/RoHS — which MC configuration do your installer customers order most?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 20 封 2025→2026，1 次记录打开，0 回；收件 clindquist@wirewerks.com, info@wirewerks.com；主题多为「Marvell Industrial Alert System、10G Enterprise SFP Switch」；Elsa 箱：`to:wirewerks.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 20 / 来 0）（第 74 批(h)））",
+   "type": "布线制造商（加拿大，自有标 MC 为副线）",
+   "sieve": "1~2（1 次打开）",
+   "stop": "20 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+   "lane": "CA 主攻",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 20，Opened 标签 1（Simon 群发追踪）；用户表：「MC 自己的logo 别人在卖他们的」；研究档 risks：主业结构化布线（Saga 不做）：MC 为副线，契合度低"
+  },
+  "situation": "加拿大 Wirewerks（蒙特利尔结构化布线制造商：铜缆/光纤网络产品、数据中心、宽带；TIA 标准导向；表内「MC 自己的 logo；别人在卖他们的」「可以多跟进一下」；KP Carl Lindquist）；群发 10 次无回复。",
+  "need": "自有 logo MC → 工业千兆 MC STI-110GE（$24.3 @30%）；桌面 MC 用 HRUI（列表价，注明）；8 GE + 2 SFP 位 STC-28GM（HRUI 列表价，注明）",
+  "breakpoint": "主业结构化布线（Saga 不做）：MC 为副线，契合度低",
+  "saga_now": {
+   "p1": "STI-110GE",
+   "tier": 30,
+   "price": "换人再触锚价 STI-110GE $26.5 EXW（最近实报 SA-001 2025-11-27 $26.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-17 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-07-23 $300（48 Port PoE Managed Switch）、2025-10-15 $280（10G Enterprise SFP Switch）",
+   "why": "自有 logo MC → 工业千兆 MC STI-110GE（$24.3 @30%）；桌面 MC 用 HRUI（列表价，注明）；8 GE + 2 SFP 位 STC-28GM（HRUI 列表价，注明）。已打开的主题（1/20 封有打开记录）：「Managed Optical Bypass Switch」(2025-06-23) → 读者兴趣偏「旁路/Booster」；当前 P1 属「10G 汇聚/L3」，下一封按「旁路/Booster」给，不按 P1",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1（换人后）",
+   "channel": "A 邮箱 → 具名 KP",
+   "action": "换收件人再发一封（第 75 批(aa) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用）；STC-028GP/2216GPM/204GP/028GFP/28GM 为 HRUI，不写 Marvell）（第 75 批(ak) 2026-10-25：信稿复检修正——「DIN-rail or wall-mount,」→「DIN-rail,」）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
+   "one_question": "Carl, for the media converters offered under the Wirewerks label with your copper and fibre systems, we can supply gigabit MCs (industrial DIN/wall or desktop) and small SFP-uplink switches in your packaging from small lots, FCC/CE/RoHS — which MC configuration do your installer customers order most? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
+  },
+  "facts": [
+   {
+    "date": "2026-09-04",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Marvell Industrial Alert System、10G Enterprise SFP Switch",
+    "why": "20 封 / 1 次打开 / 0 回｜首封 2025-01-13 → 末封 2026-09-04（20 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "MC 自己的logo 别人在卖他们的",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026-09-04",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "16 Port Industrial PoE Switch",
+    "why": "本日去信真实主题（邮箱索引 75a6b43a9dd0e98b；信稿开头句引用此封；此前稿内写的「Marvell Industrial Alert System」是线程列表首题，不是本封）",
+    "k": "75a6b43a9dd0e98b"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": {
+   "subject": "Media converters under the Wirewerks label - next to the copper and fibre systems",
+   "body": "Hi Carl,\n\nOver the past months you had a few product mails from us - most recently \"16 Port Industrial PoE Switch\" on 4 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the media converters offered under the Wirewerks label with your copper and fibre systems, in your packaging from small lots, FCC/CE/RoHS: industrial Gigabit converter, DIN-rail, 1 x RJ45 + 1 x SFP slot (fixed SC optional), -40 to 75 C - model STI-110GE - $26.5 USD EXW (MOQ 1, 15-day validity); a small 8 x Gigabit + 2 x SFP-uplink switch for the same closets - STC-28GM - $61.2; desktop converters on request.\n\nOne question: which converter configuration do your installer customers order most - SFP-slot or fixed SC?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+  },
+  "as_of": "2026-10-24"
+ }
 }

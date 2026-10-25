@@ -1,0 +1,73 @@
+{
+ "code": "SC-057",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（eless.it，快照 2026-10-21）",
+ "summary": "意大利 ELESS Air Innovations SRL（能效/空气净化技术方案；阿里巴巴 RFQ「Moxa 收发器」；KP Marcello Cioccolanti）；表内未跟进。",
+ "type": "能效技术公司（终端用户）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Eless - Eless Group",
+   "quote": "Mettiamo a servizio di aziende, pubblica amministrazione e privati le migliori soluzioni tecnologiche per l’efficientamento energetico.",
+   "url": "https://www.eless.it/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "Moxa收发器 / from: 阿里巴巴RFQ",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Eless 定位",
+   "quote": "Eless - Eless Group ; le migliori soluzioni tecnologiche per l’efficientamento energetico",
+   "url": "https://www.eless.it/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "Moxa 收发器 RFQ",
+   "quote": "Moxa收发器 / from: 阿里巴巴RFQ",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "非渠道终端用户 + 收发器 RFQ；c_sub=品类不符/终端用户",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "意大利",
+  "other": "官网 eless.it，语言 it-IT，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "能效 / 空气净化技术（意大利）"
+ ],
+ "channels": {
+  "role": "能效技术公司（终端用户）",
+  "region": "意大利",
+  "contact": "info@eless.it"
+ },
+ "signals": [
+  "官网：Mettiamo a servizio di aziende, pubblica amministrazione e privati le migliori soluzioni tecnologiche per l’efficientamento energetico",
+  "表内：Moxa 收发器 / from: 阿里巴巴 RFQ；KP Marcello Cioccolanti"
+ ],
+ "risks": [
+  "非渠道终端用户；RFQ 为光收发器（Saga 不供）"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 25,
+  "why": "非渠道终端用户（能效/空气净化），单次收发器 RFQ → 改 C"
+ },
+ "email_hook": "（不发送：终端用户）"
+}

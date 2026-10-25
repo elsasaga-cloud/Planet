@@ -1,14 +1,16 @@
-# SB-890 aurcore.net · youtube · https://www.youtube.com/@AurCoreTechnology · fetched 2026-10-25T07:41:18Z · HTTP 200
-2026-08-11T18:07:22+00:00	Manage Your AurCore Switch with Web UI & CLI | Quick Demo	https://www.youtube.com/watch?v=dAyd6uQXV6A
-2026-07-28T17:27:10+00:00	AurCore Webinar: Deep Dive into AurCore ACC Cloud Network Management Platform	https://www.youtube.com/watch?v=GVLrptiEukQ
-2026-07-17T17:37:45+00:00	Switch vs Router — what's the real difference?	https://www.youtube.com/shorts/EShIL7lPiLw
-2026-07-10T18:26:03+00:00	Unboxing the AurCore AES2001P — Compact PoE+ Switch for IoT & Smart Buildings	https://www.youtube.com/shorts/-CKfvJCYyaw
-2026-06-26T22:16:38+00:00	Connect your GPU cluster into one high-performance fabric.	https://www.youtube.com/shorts/bA3GvgJ0dB8
-2026-06-25T20:58:34+00:00	L3 #industrialnetworking AurCore AIS4001P Unboxing	https://www.youtube.com/shorts/JU6rrrnAy6Q
-2026-06-17T23:16:18+00:00	AurCore Webinar: Demo of ACC Cloud Management System	https://www.youtube.com/watch?v=Rf9wTj6cMQM
-2026-05-29T19:02:58+00:00	Introducing the AurCore AES4002P | 48-Port PoE+ L3 Switch | AURC-NOS Powered	https://www.youtube.com/watch?v=Z93iZPWc2so
-2026-05-28T22:56:47+00:00	AurCore Webinar: Industrial Networking for Mission-Critical Infrastructure	https://www.youtube.com/watch?v=U_08hy4B-Yc
-2026-05-05T21:23:13+00:00	AurCore Webinar: Next-Gen Campus Connectivity	https://www.youtube.com/watch?v=jCSZc-_ZAJk
-2026-04-01T22:18:30+00:00	AurCore Webinar: Reliable, Rugged & Secure Connectivity for Critical Infrastructure	https://www.youtube.com/watch?v=ujZ3M9aF-o4
-2026-03-24T22:13:28+00:00	AurCore AIS4000 Series Industrial Switches	https://www.youtube.com/watch?v=MfK6WpjLsA8
-2026-03-06T17:23:35+00:00	AurCore AES8001 400G Data Center Switch	https://www.youtube.com/watch?v=0LseV2tDYKc
+# SB-890 technopc.com.tr · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCyVKYJLarfHZ0HVkdHixkmw · fetched 2026-10-25T07:41:18Z · HTTP 200
+2025-12-12T08:42:33+00:00	Sağlıkta Doğru Karar, Doğru Teknoloji | Technopc	https://www.youtube.com/watch?v=3yZwLwrA81k
+2025-12-12T08:32:58+00:00	Dijital Sağlık Teknolojileri Lideri Technopc	https://www.youtube.com/watch?v=5QsaRHmgr3g
+2025-08-13T08:47:21+00:00	Technopc: Yerli Donanımda Öncü, Yapay Zekâ Destekli Teknoloji Çözümleri	https://www.youtube.com/watch?v=qBtAfkartY0
+2025-07-29T07:03:19+00:00	Technopc ile DT Cloud’tan iş birliği: Teknolojinin yerli üretim gücü, bulut altyapısı ile buluştu!	https://www.youtube.com/watch?v=9W9xwyA5ECc
+2025-03-06T11:05:49+00:00	Technopc Müşteri ve İş Ortağı Paneli	https://www.youtube.com/watch?v=DkMbxg-eNVQ
+2024-02-29T12:59:42+00:00	Technopc Endüstriyel Tablet TM-T10SA Kutu Açılışı	https://www.youtube.com/shorts/ypULmF-E_YU
+2024-02-20T09:05:23+00:00	Esneklik ve Güçlü Performansla Tanışın! | Technopc CWE15IAU Dizüstü Bilgisayar #windows #copilot	https://www.youtube.com/shorts/en9fqdcLwXE
+2024-02-16T10:51:57+00:00	Bildiğiniz Tüm Tabletleri Unutun! | Technopc Ultrapad Tablet CEI12ITU #2in1 #tablet #oled	https://www.youtube.com/shorts/z850phXnTIU
+2024-02-12T15:02:40+00:00	Quantum Magic Kutu Açılış	https://www.youtube.com/shorts/5xyUv4CSpSw
+2022-11-24T08:12:05+00:00	24 Kasım Öğretmenler Günü Kutlu Olsun!	https://www.youtube.com/shorts/XTPkuehD1oI
+2022-11-24T07:12:51+00:00	24 Kasım Öğretmenler Günü Kutlu Olsun!	https://www.youtube.com/watch?v=C_fDvnG2xZI
+2022-11-22T08:39:42+00:00	Technopc'den Sağlık Sektörüne Özel Teknolojiler	https://www.youtube.com/shorts/BgysbaMQS_s
+2022-04-29T08:23:31+00:00	Technopc, CIO İftar Yemeği Oligark Kuruçeşme'de gerçekleşti.	https://www.youtube.com/watch?v=Up7yGF9gq1I
+2022-04-27T07:28:51+00:00	Technopc Kurucu Ortağı Murat Yücel ve Murat Yıldız ile Dijital Dönüşüm Programı	https://www.youtube.com/watch?v=5DWljX8-pnQ
+2022-04-06T09:05:27+00:00	IGA İstanbul Havalimanı'nın Tercihi Technopc	https://www.youtube.com/watch?v=oupKPvlVqrE

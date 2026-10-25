@@ -1,159 +1,138 @@
 {
- "code": "SB-1044",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（miraesignal.com，快照 2026-10-21）",
- "summary": "韩国 미래시그널 Mirae Signal（有线/无线网络专业企业：自有 MV-IPG804MBT 系列 2.5G/BT PoE、SFP、电源 XDR-240E-48；展会接触，表内备注「说是有收到过我们的邮件，已经有供应商，现在比较稳定，不太想换供应商：光开关、收发器在飞宇拿，交换机也是深圳找的供应商」；attn Roy Yeo（吕尚俊））；群发 9 次无回复。",
- "type": "韩国网络品牌商（明确供应商稳定，低期望）",
- "size": "",
- "brands_seen": [
-  "飞宇"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：미래시그널；品类词 光纤 / 媒体转换 / 网络交换 / PoE",
-   "quote": "{{AUTO_META_DESCRIPTION}}",
-   "url": "http://miraesignal.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "参展商，说是有收到过我们的邮件，已经有供应商，现在比较稳定，不太想换供应商，光开关是在飞宇拿的，收发器也是飞宇的，交换机也是深圳找的供应商。 / attn: Roy Yeo（吕尚俊） | telephone: 82-31-708-4017 | mobile.: 82-10-5374-4015 | fax.: 82-31-708-4018 | 网址: www.miraesignal.com",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "Mirae Signal 站点",
-   "quote": "미래시그널 ; 미래시그널은 유선/무선 네트워크 전문기업입니다 ; MV-IPG804MBT ; XDR-240E-48",
-   "url": "http://miraesignal.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "供应商稳定不想换；飞宇/深圳供应商",
-   "quote": "参展商，说是有收到过我们的邮件，已经有供应商，现在比较稳定，不太想换供应商，光开关是在飞宇拿的，收发器也是飞宇的，交换机也是深圳找的供应商 / attn: Roy Yeo（吕尚俊）",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Roy Yeo（吕尚俊）",
-   "title": "（职务待核）",
-   "email": "sjyeo@miraesignal.com",
-   "phone": "",
-   "source": "用户表"
-  },
-  {
-   "name": "윤지봉（Yoon Ji-bong）차장",
-   "role": "2025-03-06 发 SECON 2025 展会邀请（네트워크 스위치 / Bypass / 무선 브리지 参展）——对方的市场/销售联系人，不是回复",
-   "email": "jbyoon@miraesignal.com",
-   "phone": "",
-   "source": "S 邮箱 2025-03-06 来信表头"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "韩国",
-  "other": "官网 miraesignal.com，语言 kr-KR，快照状态 ok；角色判定来源：待核"
- },
- "business_lines": [
-  "有线 / 无线网络产品（自有品牌 MV 系列）"
- ],
- "channels": {
-  "role": "韩国网络品牌商（明确供应商稳定，低期望）",
-  "region": "韩国",
-  "contact": "sjyeo@miraesignal.com"
- },
- "signals": [
-  "首页 미래시그널은 유선/무선 네트워크 전문기업입니다；站内 MV-IPG804MBT / MV-IPG804MBTN-2BP / MV-IPG802 / XDR-240E-48；kw poe 20 / sfp 9 / 2.5g 6",
-  "表内：参展商，说是有收到过我们的邮件，已经有供应商，现在比较稳定，不太想换供应商，光开关是在飞宇拿的，收发器也是飞宇的，交换机也是深圳找的供应商；attn Roy Yeo（吕尚俊）"
- ],
- "risks": [
-  "客户明确表示供应商稳定、不太想换（展会反馈）：低期望，仅做备选报价",
-  "非主攻区（T5，韩国）；KC 由客户申报；9 次无回复"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 30,
-  "why": "供应商稳定、不想换 → 低期望维持：以 Marvell 2.5G/BT PoE 差异化（SmartByte 2.5G 系列，注明）或 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）作备选报价"
- },
- "email_hook": "Roy, we understand your current switch and transceiver suppliers are stable — we would simply like to be on file as a backup for your MV-series PoE line: Marvell-based 8-PoE + 2 SFP L2+ and 2.5G/BT PoE options in your packaging from small lots, CE/RoHS. May we send a one-page comparative quote for the model you reorder most?",
- "products_seen": [
-  {
-   "brand": "Mirae Signal（自有）",
-   "model": "MV-IPG804MBT",
-   "spec": "4 口 2.5G BT PoE 交换机",
-   "saga": "SmartByte 2.5G PoE 系列（注明）",
-   "url": "http://miraesignal.com/",
-   "date": "2026-10-21"
-  }
- ],
- "mail_review": {
-  "binding": {
-   "level": "未触达（1 封韩语展会邀请群发；Elsa 箱：`to:miraesignal.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 2 / 来 1）（第 74 批(n)））",
-   "type": "韩国网络品牌商（Mirae Signal）",
-   "sieve": "0",
-   "stop": "自动回复/机器人，无人工回复",
-   "revive": "不动",
-   "lane": "KR",
-   "cadence": "不动",
-   "evidence": "k=a71ed91fdc4fc72f"
-  },
-  "situation": "来信全部为机器回复；无人读信或无人回信。",
-  "need": "—",
-  "breakpoint": "—",
-  "saga_now": {
-   "p1": "—",
-   "tier": 30,
-   "price": "—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-06-25 $65（10G media converter）",
-   "why": "—",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—（第 76 批(c) 2026-10-25：0 事实户补时间线事实）",
-   "one_question": ""
-  },
-  "facts": [
-   {
-    "date": "2024-06-25",
-    "dir": "去",
-    "who": "S 箱（Simon）",
-    "quote": "10G media converter",
-    "why": "首封去信（邮箱索引；去信共 2 封）",
-    "k": "0c9a2ccdc3336015"
-   },
-   {
-    "date": "2024-07-29",
-    "dir": "去",
-    "who": "S 箱（Simon）",
-    "quote": "PoE managed switch",
-    "why": "最近一封去信（邮箱索引；去信共 2 封）",
-    "k": "c830e6dd7a076c37"
-   },
-   {
-    "date": "2025-03-06",
-    "dir": "来",
-    "who": "jbyoon@miraesignal.com",
-    "quote": "[미래시그널 ]_2025 SECON 보안엑스포 무료사전등록 초대장 안내의 건｜안녕하십니까.  귀사의 성장과 번영을 기원합니다.  미래시그널이 오는 3월 19일부터 3일간 개최되는 SECON 2025 보안전시회에 참가하게 되어 기쁜 마음으로 안내드립니다.   본 전시는 킨텍스 제1전시장 3홀~",
-    "why": "对方展会邀请群发（SECON 2025，营销群发，不算回复）",
-    "k": "a71ed91fdc4fc72f"
-   }
+  "code": "SB-1044",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（ipcctv.ch，快照 2026-10-21）",
+  "summary": "瑞士 IP CCTV GmbH（专业 HD/4K 视频监控与视频分析、对讲/可视对讲；网络监控与 HD-CVI、CVBS/AHD；站内 ePoE / PoE+ 交换机页；表内「CVI / PoE / 工业 FS / SDI，主要围绕 CCTV」）；表内无跟进记录。",
+  "type": "瑞士 CCTV 与对讲方案商/分销",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：IP CCTV GmbH IP Videosysteme und Videosprechanlagen；品类词 安防监控（CCTV / 门禁） / 光纤 / 媒体转换 / 网络交换 / PoE",
+      "quote": "IP CCTV GmbH - Ihr Partner fÃ¼rprofessionelle HD und 4K VideoÃ¼berwachung mit Videoanalyse sowie Sprechanlagen und Videosprechanlagen",
+      "url": "https://ipcctv.ch/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "CVI POE 工业FS SDI 主要是围绕着CCTV来的",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "专业 HD/4K 视频监控与对讲",
+      "quote": "IP CCTV GmbH - Ihr Partner für professionelle HD und 4K Videoüberwachung mit Videoanalyse sowie Sprechanlagen und Videosprechanlagen",
+      "url": "https://ipcctv.ch/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "CVI PoE 工业 FS SDI，围绕 CCTV",
+      "quote": "CVI POE 工业FS SDI 主要是围绕着CCTV来的",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "kp": [],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "瑞士",
+    "other": "官网 ipcctv.ch，语言 de，快照状态 ok；角色判定来源：用户表"
+  },
+  "business_lines": [
+    "IP / HD-CVI 视频监控",
+    "视频对讲 / 门禁对讲"
+  ],
+  "channels": {
+    "role": "瑞士 CCTV 与对讲方案商/分销",
+    "region": "瑞士",
+    "contact": "info@ipcctv.ch"
+  },
+  "signals": [
+    "官网：Ihr Partner für professionelle HD und 4K Videoüberwachung mit Videoanalyse sowie Sprechanlagen",
+    "页面 /epoe-switch_poe_plus_switch.htm、/products.htm；kw poe 147"
+  ],
+  "risks": [
+    "ePoE 长距（250 m）需求：需核 SmartByte 型号支持",
+    "瑞士小型方案商：量小；无具名 KP（info@）"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 25,
+    "why": "CCTV 方案配套 PoE（含 ePoE 长距需求）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）；工业位 STI-288GP；ePoE 250m 长距模式需核 SmartByte 是否支持（待核）"
+  },
+  "email_hook": "For the PoE switches behind your IP and HD-CVI installations, we supply a Marvell-based 8-PoE + 2 SFP L2+ switch and DIN-rail industrial PoE models in neutral packing from small lots, CE/RoHS — do your projects more often need standard PoE+ or extended-distance PoE?",
+  "mail_review": {
+    "binding": {
+      "level": "Elsa 群发 BCC 已触达 2026-08-13「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，北欧/中东欧 批次 To info@dasys.fi，0 回（第 73 批(o) Bcc 头核对 msg 19ffb43006420c22）；S/A 箱：S/A 邮箱均无往来；来源：用户表「CVI POE 工业FS SDI 主要是围绕着CCTV来的」",
+      "type": "瑞士 CCTV 与对讲方案商/分销",
+      "sieve": "—（未入筛）",
+      "stop": "Elsa 群发 BCC 触达过（最近 2026-08-13）无回；S/A 箱从未单独发过",
+      "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+      "lane": "瑞士（欧洲全域主攻）",
+      "cadence": "首封后看打开",
+      "evidence": "gmail_digest：out 0；用户表：「CVI POE 工业FS SDI 主要是围绕着CCTV来的」；研究档 risks：ePoE 长距（250 m）需求：需核 SmartByte 型号支持；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To info@dasys.fi）2025-02-16→2026-08-13 共 10 轮群发（Industrial PoE Switch、8 Port Industrial PoE Switch、Marvell Alleycat5 Solution、48 Port PoE Managed Switch、16 Port Ethernet Switch、Mini Industrial PoE Switch、10G Enterprise SFP Switch、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断"
+    },
+    "situation": "瑞士 IP CCTV GmbH（专业 HD/4K 视频监控与视频分析、对讲/可视对讲；网络监控与 HD-CVI、CVBS/AHD；站内 ePoE / PoE+ 交换机页；表内「CVI / PoE / 工业 FS / SDI，主要围绕 CCTV」）；表内无跟进记录。",
+    "need": "CCTV 方案配套 PoE（含 ePoE 长距需求）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）；工业位 STI-288GP；ePoE 250m 长距模式需核 SmartByte 是否支持（待核）",
+    "breakpoint": "ePoE 长距（250 m）需求：需核 SmartByte 型号支持",
+    "saga_now": {
+      "p1": "STC-28DGGPM",
+      "tier": 25,
+      "price": "首触锚价 STC-28DGGPM $84.1 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-13 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-13；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
+      "why": "CCTV 方案配套 PoE（含 ePoE 长距需求）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）；工业位 STI-288GP；ePoE 250m 长距模式需核 SmartByte 是否支持（待核）",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "待 Simon 排期（首封）",
+      "channel": "A 邮箱 → info@ipcctv.ch（无具名 KP；公用地址）",
+      "action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-13「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 75 批(i) 2026-10-25：英文信稿已写 `draft_en`）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
+      "one_question": "For the PoE switches behind your IP and HD-CVI installations, we supply a Marvell-based 8-PoE + 2 SFP L2+ switch and DIN-rail industrial PoE models in neutral packing from small lots, CE/RoHS — do your projects more often need standard PoE+ or extended-distance PoE? Reference: STC-28DGGPM at $84.1 USD EXW (MOQ 1, 15-day validity)."
+    },
+    "facts": [
+      {
+        "date": "2025-02-16",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To info@alphatelecom.cc，北欧/中东欧 批次）",
+        "quote": "Industrial PoE Switch — This is a Marvell based industrial PoE switch for you. Port: 2*Gigabit SFP+4*Gigabit PoE Feature: 120W budget, PoE watchdog, 250-meter poe distance, s",
+        "why": "Elsa 箱群发 BCC 触达证据（命中地址 info@ipcctv.ch, ipcctv.ch）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+        "k": "elsa_bcc"
+      },
+      {
+        "date": "2026-08-13",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To info@dasys.fi，北欧/中东欧 批次）",
+        "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
+        "why": "Elsa 箱群发 BCC 触达证据（命中地址 info@ipcctv.ch, ipcctv.ch）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+        "k": "elsa_bcc"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "CVI POE 工业FS SDI 主要是围绕着CCTV来的",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [
+      "无邮件往来"
+    ],
+    "draft_en": {
+      "subject": "PoE switches behind your IP and HD-CVI installations",
+      "body": "Hello IP CCTV team,\n\nOver the past months you had a few product mails from us - most recently \"24 Port PoE Managed Switch\" on 13 August 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the PoE switches behind your IP and HD-CVI installations, neutral packing, CE/RoHS, from single units: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based - model STC-28DGGPM - $84.1 USD EXW (MOQ 1, 15-day validity); for outdoor cabinets, a DIN-rail industrial 8 x PoE+ + 2 x SFP unmanaged unit - STI-288GP - $59.8.\n\nOne question: do your projects more often need standard PoE+ reach, or extended-distance PoE beyond 100 m?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+    },
+    "as_of": "2026-10-25"
+  }
 }

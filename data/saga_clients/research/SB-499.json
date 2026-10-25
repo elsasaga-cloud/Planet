@@ -1,135 +1,136 @@
 {
  "code": "SB-499",
- "name_official": "",
+ "name_official": "Bogdan（b.medvedev11@mail.ru；电话 +996 = 吉尔吉斯斯坦；MIPS 展会接触；用户表记为沙特）",
  "researched_at": "2026-10-21",
- "website_status": "在线（fibreoptic.com.au，快照 2026-10-21）",
- "summary": "澳大利亚 Fibre Optic Systems（FOS：澳大利亚光纤与铜缆方案制造商，Kingfisher 测试仪、Sticklers 清洁、CoreLink 机箱；表内「MC switch 其他的是周边产品，自己的牌子」「可以多跟进一下」；KP Pav Arneja（General Manager））；群发 22 次无回复。",
- "type": "光纤方案制造商（澳大利亚，自有标 MC/交换机为配套）",
+ "website_status": "无域名",
+ "summary": "用户表（MIPS 莫斯科展）：Bogdan（b.medvedev11@mail.ru；+996 555 772 975，已加 WA）——拿了彩页；问过他处不处理工业 FS、SFP；23 次跟进无回复。电话国码 +996 为吉尔吉斯斯坦（用户表国家「沙特阿拉伯」疑为表格归档误记）→ 国家待核（KG）。无公司主体 → 仅表内信息。",
+ "type": "",
  "size": "",
  "brands_seen": [],
  "evidence": [
   {
-   "kind": "官网快照",
-   "claim": "官网标题：Australian Fibre Optic & Copper Solutions | Fibre Optic Systems；品类词 电信 / FTTH / ISP 设备 / 布线 / 线缆 / 光纤 / 媒体转换",
-   "quote": "FOS is Australia’s trusted manufacturer of optical fibre & copper solutions—delivering innovation, quality, and fast turnaround. Explore our product range!",
-   "url": "https://www.fibreoptic.com.au/",
-   "date": "2026-10-21"
-  },
-  {
    "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "MC switch 其他的是周边产品 自己的牌子",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "FOS 定位",
-   "quote": "Australian Fibre Optic & Copper Solutions | Fibre Optic Systems ; FOS is Australia’s trusted manufacturer of optical fibre & copper solutions",
-   "url": "https://www.fibreoptic.com.au/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "MC switch 自己的牌子",
-   "quote": "MC switch 其他的是周边产品 自己的牌子；可以多跟进一下",
+   "claim": "MIPS；拿彩页；问工业 FS/SFP；WA 已加；+996",
+   "quote": "拿了彩页 问过他处不处理工业FS SFP / Bogdan / 996 555 772975 已加 / MIPS",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
  "kp": [
   {
-   "name": "Pav Arneja",
-   "title": "General Manager",
-   "email": "sales@fibreoptic.com.au",
-   "phone": "",
-   "source": "用户表"
+   "name": "Bogdan（Medvedev，按邮箱推断）",
+   "role": "（MIPS 名片）",
+   "email": "b.medvedev11@mail.ru（用户表）",
+   "phone": "+996 555 772 975（用户表）",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
   }
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "无域名 · 仅表内信息（国家待核 KG）"
  },
  "company_facts": {
-  "hq": "澳大利亚",
-  "other": "官网 fibreoptic.com.au，语言 en-au，快照状态 ok；角色判定来源：用户表"
+  "legal_name": "（公司待核）",
+  "hq": "Kyrgyzstan（按 +996 推断；待核）",
+  "size": "待核",
+  "other": "mail.ru；WA 已加；23 次推送无回复"
  },
  "business_lines": [
-  "光纤 / 铜缆方案制造（自有品牌 FOS）"
+  "（待核）网络/安防贸易"
  ],
  "channels": {
-  "role": "光纤方案制造商（澳大利亚，自有标 MC/交换机为配套）",
-  "region": "澳大利亚",
-  "contact": "info@fibreoptic.com.au、sales@fibreoptic.com.au"
+  "邮箱": "b.medvedev11@mail.ru（用户表）",
+  "WhatsApp": "+996 555 772 975（用户表，已加）"
  },
  "signals": [
-  "官网：FOS is Australia’s trusted manufacturer of optical fibre & copper solutions—delivering innovation, quality, and fast turnaround；首页 Kingfisher Test Equipment ; CoreLink Plus Enclosure Range；kw fibre 52 / cable 33",
-  "表内：MC switch 其他的是周边产品 自己的牌子；可以多跟进一下；KP Pav Arneja / General Manager"
+  "被问「处不处理工业 FS、SFP」→ 需求方向明确；用俄语短消息重启"
  ],
  "risks": [
-  "非主攻区（T5，澳大利亚）；主业光纤/铜缆（Saga 不做），有源为配套",
-  "22 次无回复 → 改向 General Manager 具名首触"
+  "无公司信息；23 次无回复；中亚非主攻区"
  ],
  "saga_fit": {
-  "p1": "STI-110GE",
-  "tier": 30,
-  "why": "自有 FOS 标 MC/交换机 → 工业千兆 MC STI-110GE（$24.3 @30%）/ 桌面 MC 用 HRUI（列表价，注明）；8 GE + 2 SFP 位 STI-280GE（$50.5）"
+  "p1": "STI-288GP",
+  "tier": 25,
+  "why": "默认 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP，$59.8）/ 非 PoE STI-280GE（$48.6）对应「工业 FS」；SFP 待 Q-32"
  },
- "email_hook": "Pav, for the media converters and small switches carried under the FOS label with your fibre and copper systems, we can supply gigabit MCs (desktop/industrial) and 8-GE + 2 SFP units in your packaging from small lots, CE/RoHS; RCM by your side — which active SKU do your Australian customers order most?",
+ "email_hook": "Богдан, вы спрашивали на MIPS про промышленные оптические коммутаторы и SFP: DIN-rail 8 GbE + 2 SFP без PoE — 48,6 USD EXW, с PoE+ — 59,8 USD, −40/+75 °C; SFP подберём по дальности. Для какого объекта и в каком количестве?",
  "mail_review": {
   "binding": {
-   "level": "读而不回（A/S 邮箱 32 封 2024→2026，其中 2 封被打开，0 回；收件 info@fibreoptic.com.au, parneja@fibreoptic.com.au；被打开主题「Managed Optical Bypass Switch、Marvell Industrial Alert System」；Elsa 箱：`to:fibreoptic.com.au` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 32 / 来 0）（第 74 批(n)））",
-   "type": "光纤方案制造商（澳大利亚，自有标 MC/交换机为配套）",
-   "sieve": "2（有人在读，无人回）",
-   "stop": "读而不回 = 内容未命中或没有当下需求",
-   "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
-   "lane": "澳大利亚 非主攻",
-   "cadence": "一封；回了再说",
-   "evidence": "gmail_digest：out 32，Opened 标签 2（Simon 群发追踪）；用户表：「MC switch 其他的是周边产品 自己的牌子」；研究档 risks：非主攻区（T5，澳大利亚）；主业光纤/铜缆（Saga 不做），有源为配套"
+   "level": "未触达（A/S 邮箱 4 封 2024→2026，无记录打开，0 回；收件 b.medvedev11@mail.ru；主题多为「Firmware 7.5 L2+ Feature Update、24 Port PoE Managed Switch」；Elsa 箱：`to:b.medvedev11@mail.ru` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 4 / 来 0）（第 74 批(n)））",
+   "type": "—",
+   "sieve": "1（只收到群发）",
+   "stop": "4 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "沙特阿拉伯 非主攻",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 4；用户表：「拿了彩页 问过他处不处理工业FS SFP / Bogdan / 996 555 772975 已加 / MIPS」；研究档 risks：无公司信息；23 次无回复；中亚非主攻区"
   },
-  "situation": "澳大利亚 Fibre Optic Systems（FOS：澳大利亚光纤与铜缆方案制造商，Kingfisher 测试仪、Sticklers 清洁、CoreLink 机箱；表内「MC switch 其他的是周边产品，自己的牌子」「可以多跟进一下」；KP Pav Arneja（General Manager））；群发 22 次无回复。",
-  "need": "自有 FOS 标 MC/交换机 → 工业千兆 MC STI-110GE（$24.3 @30%）/ 桌面 MC 用 HRUI（列表价，注明）；8 GE + 2 SFP 位 STI-280GE（$50.5）",
-  "breakpoint": "非主攻区（T5，澳大利亚）；主业光纤/铜缆（Saga 不做），有源为配套",
+  "situation": "用户表（MIPS 莫斯科展）：Bogdan（b.medvedev11@mail.ru；+996 555 772 975，已加 WA）——拿了彩页；问过他处不处理工业 FS、SFP；23 次跟进无回复。电话国码 +996 为吉尔吉斯斯坦（用户表国家「沙特阿拉伯」疑为表格归档误记）→ 国家待核（KG）。无公司主体 → 仅表内信息。",
+  "need": "默认 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP，$59.8）/ 非 PoE STI-280GE（$48.6）对应「工业 FS」；SFP 待 Q-32",
+  "breakpoint": "无公司信息；23 次无回复；中亚非主攻区",
   "saga_now": {
-   "p1": "STI-110GE",
-   "tier": 30,
-   "price": "首触锚价 STI-110GE $26.5 EXW（最近实报 SA-001 2025-11-27 $26.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-12-23 $300（48 Port PoE Managed Switch）、2025-01-10 $240（24 Port Fiber Switch）；群发里他已看到的价（续，第 66 批全量复核）：2025-09-30 $280（10G Enterprise SFP Switch）",
-   "why": "自有 FOS 标 MC/交换机 → 工业千兆 MC STI-110GE（$24.3 @30%）/ 桌面 MC 用 HRUI（列表价，注明）；8 GE + 2 SFP 位 STI-280GE（$50.5）。已打开的主题（2/32 封有打开记录）：「Industrial PoE Switch」(2025-08-13)、「10G L3 Managed Switch」(2026-05-29) → 读者兴趣偏「工业」；当前 P1 属「10G 汇聚/L3」，下一封按「工业」给，不按 P1｜已发资料（勿重发）：Product Link_2026Q2(2026-03-16)、Saga Feature List_7.5.x_L2+(2026-06-24)、Product Link_2026Q3(2026-07-21)；7.5 Feature List 与 2026Q3 链接都已给过 → 下一封不能再是资料推送，只能是针对其需求的一句话/一个问题",
+   "p1": "STI-288GP",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-21 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170",
+   "why": "默认 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP，$59.8）/ 非 PoE STI-280GE（$48.6）对应「工业 FS」；SFP 待 Q-32",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "2026-11",
-   "channel": "A 邮箱 → info@fibreoptic.com.au",
-   "action": "短信一问（email_hook）",
-   "one_question": "Pav, for the media converters and small switches carried under the FOS label with your fibre and copper systems, we can supply gigabit MCs (desktop/industrial) and 8-GE + 2 SFP units in your packaging from small lots, CE/RoHS; RCM by your side — which active SKU do your Australian customers order most? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Богдан, вы спрашивали на MIPS про промышленные оптические коммутаторы и SFP: DIN-rail 8 GbE + 2 SFP без PoE — 48,6 USD EXW, с PoE+ — 59,8 USD, −40/+75 °C; SFP подберём по дальности. Для какого объекта и в каком количестве?"
   },
   "facts": [
    {
-    "date": "2026-09-07",
+    "date": "2024-08-17",
+    "dir": "来",
+    "who": "用户表（Simon 跟进记录；渠道 Whatsapp/Email）",
+    "quote": "用户表跟进：推「4 8口工业PoE」→ 对方「Email: 工业154」",
+    "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+    "k": "Clients/A/DONE/阿联酋 沙特阿拉伯  2.3.xlsx no.35 2024.8.17"
+   },
+   {
+    "date": "2025-07-22",
+    "dir": "来",
+    "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+    "quote": "用户表跟进：推「24 48口商业图」→ 对方「useful」",
+    "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+    "k": "Clients/A/DONE/阿联酋 沙特阿拉伯  2.3.xlsx no.35 722"
+   },
+   {
+    "date": "2025-09-24",
+    "dir": "来",
+    "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+    "quote": "用户表跟进：推「dac」→ 对方「interesting」",
+    "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+    "k": "Clients/A/DONE/阿联酋 沙特阿拉伯  2.3.xlsx no.35 924"
+   },
+   {
+    "date": "2026-10-01",
     "dir": "去",
     "who": "A/S 群发",
-    "quote": "Managed Optical Bypass Switch、Marvell Industrial Alert System",
-    "why": "32 封 / 2 次打开 / 0 回｜首封 2024-06-24 → 末封 2026-09-07（32 去 / 0 来）",
+    "quote": "Firmware 7.5 L2+ Feature Update、24 Port PoE Managed Switch",
+    "why": "4 封 / 0 次打开 / 0 回｜首封 2024-08-17 → 末封 2026-10-01（4 去 / 0 来）",
     "k": "gmail_digest"
    },
    {
     "date": "2026-10-21",
     "dir": "用户表",
     "who": "Simon",
-    "quote": "MC switch 其他的是周边产品 自己的牌子",
+    "quote": "拿了彩页 问过他处不处理工业FS SFP / Bogdan / 996 555 772975 已加 / MIPS",
     "why": "表内备注",
     "k": "用户表"
    }
   ],
-  "proof_gaps": [],
-  "draft_en": {
-   "subject": "One question — Managed Optical Bypass Switch",
-   "body": "Hi Pav,\n\nWe have sent you a few mails on \"Managed Optical Bypass Switch\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor the media converters and small switches carried under the FOS label with your fibre and copper systems, we can supply gigabit MCs (desktop/industrial) and 8-GE + 2 SFP units in your packaging from small lots, CE/RoHS; RCM by your side — which active SKU do your Australian customers order most?\n\nReference price: DIN-rail 1-GE + 1-SFP industrial switch / media converter (STI-110GE) $26.5 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
-  },
+  "proof_gaps": [
+   "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+  ],
+  "draft_en": null,
   "as_of": "2026-10-24"
  }
 }

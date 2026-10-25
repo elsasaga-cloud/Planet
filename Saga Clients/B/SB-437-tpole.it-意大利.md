@@ -1,0 +1,307 @@
+# tpole.it
+
+> **评级 B**　|　意大利　|　档案编号 `SB-437`　|　优先级 ★★　|　状态：已推送 1 次·未回复
+>
+> **类型**：工业 PC 方案分销商（意大利，Volktek 工业 FS/MC）（推断）　|　**历史关系**：推送 1 次（2025-10-16 → 2025-10-16）　|　**所在清单**：A优质名单(Italy)、AI评估(IT)·DONE、群发(筛选后质量一般的_群发)、表:Italy　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+
+```yaml structured_profile
+code: SB-437
+rating: B
+rating_auto: B
+score: 42
+country: 意大利
+region: 欧洲
+website: tpole.it
+type: 工业 PC 方案分销商（意大利，Volktek 工业 FS/MC）
+tier_tags: ["A优质名单(Italy)", "AI评估(IT)·DONE", "群发(筛选后质量一般的_群发)", "表:Italy"]
+deal: no
+replies: 0
+followups: 1
+first_contact: 2025-10-16
+last_contact: 2025-10-16
+s_mail: 14 msgs (out 14 / in 0), 2025-10-16 -> 2026-10-08
+p1: STI-288GPM
+price_tier: 25%
+research: done
+site_snapshot: ok  # 2026-10-21
+sources: 3
+updated: 2026-10-25
+```
+
+## SALES BRIEF（压缩模型）
+
+- **是谁**：意大利 TPole s.r.l.（工业自动化与嵌入式 PC-based 方案：工业 PC、嵌入式 PC、HMI、SBC、工业服务器、工业网络；表内「主要是 Volktek（台湾）的工业 FS / 工业 MC，少部分产品」「质量一般」；KP Pietro Milani（CEO & Founder，pietro.milani@）、Lorenzo Bruno（Purchase and Logistics））；表内 1 次跟进无回复。（调研 2026-10-21；表内兴趣：主要是volktek的；工业FS 工业MC 少部分产品 卖台湾volktek牌子）
+- **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-6 群发批次名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/意大利；+5 最近活动 2025
+- **历史互动**：推送 1 次（2025-10-16 → 2025-10-16）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STI-288GPM — 在售 Volktek 工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）/ 非管理 STI-280GE；MC 位 STI-110GE（$23.4）；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-16 $280（10G Enterprise SFP Switch）
+- **第一问（只问一个）**：Lorenzo, alongside the Volktek industrial switches and media converters you supply with your IPC and HMI lines, we offer Marvell-based DIN-rail 8-PoE + 2 SFP managed units and gigabit MCs (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which Volktek model do your customers order most?
+- **最大未知**：年走量与现供应商
+- **下一步**：群发节奏 A 邮箱 观察打开
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-25）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-437` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-25。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A 邮箱 14 封 2025→2026，无记录打开，0 回；收件 info@tpole.it, lorenzo.bruno@tpole.it；主题多为「Industrial PoE Switch、Managed PoE Switches」）；Elsa 群发 BCC 已触达 2025-04-01「Marvell Alleycat5 Solution」（稿内无价，第 74 批(p) 已读稿），IT 批次 To INFO@sarcitalia.it，0 回（第 74 批 Bcc 头核对 msg 195f09436b3ed616）** ｜ 类型：工业 PC 方案分销商（意大利，Volktek 工业 FS/MC） ｜ 筛子：1（只收到群发） ｜ 停点：14 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：意大利（欧洲全域主攻） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 14；用户表：「主要是volktek的；工业FS 工业MC 少部分产品 卖台湾volktek牌子」；研究档 risks：Volktek（台湾）既定线；交换机为配套品类（表内「少部分产品」）；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To INFO@sarcitalia.it）本户见于 2025-04-01 名单；2026-08-31 最新一轮名单已不含此地址 → 中途被剔除（退信 / 退订 / 手工）
+- **现状一句话**：意大利 TPole s.r.l.（工业自动化与嵌入式 PC-based 方案：工业 PC、嵌入式 PC、HMI、SBC、工业服务器、工业网络；表内「主要是 Volktek（台湾）的工业 FS / 工业 MC，少部分产品」「质量一般」；KP Pietro Milani（CEO & Founder，pietro.milani@）、Lorenzo Bruno（Purchase and Logistics））；表内 1 次跟进无回复。
+- **对方真实需求（有据）**：在售 Volktek 工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）/ 非管理 STI-280GE；MC 位 STI-110GE（$23.4）
+- **断点 / 为什么停在这里**：Volktek（台湾）既定线；交换机为配套品类（表内「少部分产品」）
+- **Saga 现在该推什么**：P1 **STI-288GPM**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-16 $280（10G Enterprise SFP Switch））——在售 Volktek 工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）/ 非管理 STI-280GE；MC 位 STI-110GE（$23.4）
+- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+  - 第一问（只问一个）：Lorenzo, alongside the Volktek industrial switches and media converters you supply with your IPC and HMI lines, we offer Marvell-based DIN-rail 8-PoE + 2 SFP managed units and gigabit MCs (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which Volktek model do your customers order most?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2025-04-01 | 去 | Elsa 群发（BCC；To INFO@sarcitalia.it，IT 批次） | Marvell Alleycat5 Solution — We are doing Marvell Alleycat5 chip for tailored networking solutions. 1, Support Web GUI change(Logo, model name, MAC, SN, SNMP, OID) 2, Added intere | Elsa 箱群发 BCC 触达证据（命中地址 info@tpole.it, tpole.it）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
+| 2026-10-08 | 去 | A 群发 | Industrial PoE Switch、Managed PoE Switches | 14 封 / 0 次打开 / 0 回｜首封 2025-10-16 → 末封 2026-10-08（14 去 / 0 来） | `gmail_digest` |
+| 2026-10-21 | 用户表 | Simon | 主要是volktek的；工业FS 工业MC 少部分产品 卖台湾volktek牌子 | 表内备注 | `用户表` |
+
+## 基本事实（事实/推断/假设分层）
+
+| 项 | 内容 | 层级 |
+|---|---|---|
+| 名称 | tpole.it（取自域名，公司全名待核） | 推断 |
+| 国家 | 意大利 | 事实（用户表）|
+| 网站/域名 | tpole.it | 事实（用户表 URL/邮箱域名） |
+| 类型 | 工业 PC 方案分销商（意大利，Volktek 工业 FS/MC） | 推断（据兴趣/备注关键词） |
+| 联系人 | Pietro Milani / CEO & Founder / Lorenzo Bruno / Purchase and Logistics / 质量一般 | 事实（用户表） |
+| 来源（From） | 谷歌 | 事实（用户表） |
+| 兴趣（Interested in） | 主要是volktek的 / 工业FS 工业MC 少部分产品<br>卖台湾volktek牌子 | 事实（用户表） |
+| 用户备注（Remark） | — | 事实（用户表） |
+| 用户 AI 评估 | AI 25% B | 事实（用户表 AI评估结果/CALUDE评估结果列） |
+| 所在清单 | A优质名单(Italy)、AI评估(IT)·DONE、群发(筛选后质量一般的_群发)、表:Italy | 事实（文件路径） |
+| 在卖/在用品牌（备注所见） | FS | 事实（用户备注）/ 推断 |
+
+### 用户 AI / Claude 评估原文
+
+- **AI**（AI客户评估_IT 09.14.xlsx）：
+  > 25% B
+  > 意大利工业网络设备分销商，主要代理Volktek品牌工业交换机（台湾品牌，4.2黄灯）
+  > 定期推送工业交换机新品，强调ERPS/PoE++等功能差异+价格优势
+  > 工业PoE交换机、ERPS环网交换机
+  > 官网工业交换机主要为Volktek（4.2黄灯台湾品牌）；对亚洲品牌开放但已有稳定供应；需找功能/价格差异
+
+## 客户调研（网页核实 · 引文 + URL + 日期）
+
+- **状态：已调研（2026-10-21）**　网站状态：在线（tpole.it，快照 2026-10-21）
+- **是谁**：意大利 TPole s.r.l.（工业自动化与嵌入式 PC-based 方案：工业 PC、嵌入式 PC、HMI、SBC、工业服务器、工业网络；表内「主要是 Volktek（台湾）的工业 FS / 工业 MC，少部分产品」「质量一般」；KP Pietro Milani（CEO & Founder，pietro.milani@）、Lorenzo Bruno（Purchase and Logistics））；表内 1 次跟进无回复。
+- **类型**：工业 PC 方案分销商（意大利，Volktek 工业 FS/MC）
+- **在卖/在用品牌**：Volktek
+- **【官网快照】官网标题：TPole s.r.l. | Soluzioni PC based per automazione industriale ed applicazioni embedded；品类词 工业自动化 / OT 网络 / 光纤 / 媒体转换 / 网络交换 / PoE**
+  > TPole fornisce soluzioni PC based per automazione industriale ed applicazioni embedded: single board computer, PC embedded, HMI, server IPC e networking industriale.
+  > 来源：https://www.tpole.it/（抓取 2026-10-21）
+- **【用户表】表内兴趣/备注**
+  > 主要是volktek的；工业FS 工业MC 少部分产品 卖台湾volktek牌子
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【官网快照】TPole 定位**
+  > TPole fornisce soluzioni PC based per automazione industriale ed applicazioni embedded: single board computer, PC embedded, HMI, server IPC e networking industriale.
+  > 来源：https://www.tpole.it/（抓取 2026-10-21）
+- **【用户表】主要是 Volktek 的工业 FS / MC**
+  > 主要是volktek的 / 工业FS 工业MC 少部分产品；卖台湾volktek牌子；质量一般
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Lorenzo Bruno（）info@tpole.it 〔用户表〕
+- **KP**：Pietro Milani（）pietro.milani@tpole.it 〔用户表〕
+- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
+
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+
+| 公司事实 | 内容 |
+|---|---|
+| 总部/地址 | 意大利 |
+| 其他 | 官网 tpole.it，语言 it，快照状态 ok；角色判定来源：官网文案 |
+
+- **业务线**：工业 PC / 嵌入式 / HMI / 工业网络分销
+- **触达通道（公开）**：role: 工业 PC 方案分销商（意大利，Volktek 工业 FS/MC）；region: 意大利；contact: info@tpole.it、pietro.milani@tpole.it
+- **近况信号**：
+  - 官网：TPole fornisce soluzioni PC based per automazione industriale ed applicazioni embedded: single board computer, PC embedded, HMI, server IPC e networking industriale
+  - 页面 /en/news-by-t-pole/switch-industrial-automation/、/news-by-t-pole/switch-lite-managed/；KP Pietro Milani / CEO & Founder；Lorenzo Bruno / Purchase and Logistics
+- **风险/边界**：Volktek（台湾）既定线；交换机为配套品类（表内「少部分产品」）；1 次跟进无回复 → 改向采购负责人具名首触
+- **Saga 对位结论**：P1 STI-288GPM（25% 档）——在售 Volktek 工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）/ 非管理 STI-280GE；MC 位 STI-110GE（$23.4）
+- **邮件切入句（英文）**：Lorenzo, alongside the Volktek industrial switches and media converters you supply with your IPC and HMI lines, we offer Marvell-based DIN-rail 8-PoE + 2 SFP managed units and gigabit MCs (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which Volktek model do your customers order most?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.tpole.it/　语言：it　站点地图 URL 数：685
+- **标题**：TPole s.r.l. / Soluzioni PC based per automazione industriale ed applicazioni embedded
+- **描述**：TPole fornisce soluzioni PC based per automazione industriale ed applicazioni embedded: single board computer, PC embedded, HMI, server IPC e networking industriale.
+- **首页栏目**：PC Industriali / PC Embedded / HMI / SBC e Motherboard / Server Industriali – HPC / Networking
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：industrial 61、10g 9、sfp 4、2.5g 4、poe 2、fiber 2、ethernet 2、switch 1、wireless 1
+- **站内型号串**（正则抽取，含非交换机）：PTH171, PTH173, IP69K, ACS-1000, DNVGL-CS-0339, EN50155, IEC-60945, SYS-821GE-TNHR, SYS-521E-WR, SYS-421GE-TNRT, SYS-221H-TNR, SYS-620U-TNR
+- **站内公开邮箱**：info@tpole.it, tpole@pec.tpole.it
+- **站内公开电话**：+39 0385 245427, 000 3 - - - 2 - - 40-72
+- **社媒**：https://www.linkedin.com/company/t-pole-s-r-l
+- **产品类页面**：https://www.tpole.it/en/news-by-t-pole/switch-industrial-automation/；https://www.tpole.it/news-by-t-pole-it/switch-automazione-industriale/；https://www.tpole.it/en/news-by-t-pole/tpoles-new-product-tpbox-cfl-the-industrial-mini-pc-for-every-requireme…；https://www.tpole.it/news-by-t-pole/switch-lite-managed/；https://www.tpole.it/en/news-by-t-pole/switch-lite-managed/；https://www.tpole.it/news-by-t-pole-it/switch-lite-managed-2/
+- **已抓子页**：[Networking - TPole s.r.l.](https://www.tpole.it/industrial-switch/)；[PC Industriali / TPole s.r.l.](https://www.tpole.it/pc-industriali/)；[Server Industriali / Server IPC /TPole s.r.l.](https://www.tpole.it/server-s/server-industriali/)；[TPole presenta mii670: evoluzione, potenza e continuità per ](https://www.tpole.it/news-by-t-pole-it/tpole-presenta-mii670-evoluzione-potenza-e-continuita-per-le-applicazioni-industriali/)；[PTH171/PTH173: L’eccellenza di Intel Panther Lake H e dell'I](https://www.tpole.it/news-by-t-pole-it/pth171-pth173-leccellenza-di-intel-panther-lake-h-e-dellia-nativa-per-ledge-computing-industriale/)；[Prodotti - TPole s.r.l.](https://www.tpole.it/prodotti/)
+- 首页正文摘录：Search it en Azienda Chi siamo Cosa facciamo Perché lavorare con noi La nostra storia Jobs ESG Prodotti PC Industriali PC Embedded HMI SBC e Motherboard Server Industriali Networking Periferiche Soluzioni custom Chassis custom Periferiche custom Servizi Assemblaggio e test Sviluppo immagini OS personalizzate Strumenti di ripristino Corso di gestione immagini OS di produzione Supporto tecnico Sistemi operativi News Co
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 61、PoE 2 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-437.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
+
+## 在卖/在用品牌 → Saga 对位
+
+| 备注所见品牌 | 含义 | Saga 切入 |
+|---|---|---|
+| FS | 台系/欧美/品牌工业或商用网络品牌 | 按「同口数同功能的 Marvell 方案、价低一档、中性包装」做对位（不贬低原品牌） |
+
+## 历史跟进记录（原表照录）
+
+合并自 1 张跟进表，共 1 条（原值照录，日期已按年份递推补全）：
+
+| 日期 | 原始时间 | 我方推送内容 | 客户回复 | 平台 | 备注 | 来源表 |
+|---|---|---|---|---|---|---|
+| 2025-10-16 | 2025.10.16 | dac |  | A |  | Italy 3.2.xlsx#16 |
+
+## 邮箱往来（S 邮箱 · 自动汇总）
+
+- **账号**：a.sagatelecom　|　**邮件**：14 封（去 14 / 来 0）　|　**期间**：2025-10-16 → 2026-10-08　|　**最后去信**：2026-10-08
+- **对方邮箱**：info@tpole.it、lorenzo.bruno@tpole.it、pietro.milani@tpole.it
+- 对方从未回信（全部为我方去信）
+
+| 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
+|---|---|---|---|---|---|
+| Managed PoE Switches | 2026-10-08 | 2026-10-08 | 0 | 1 | 1 |
+| Managed PoE Switches | 2026-10-07 | 2026-10-07 | 0 | 1 | 1 |
+| 16 Port Industrial PoE Switch | 2026-09-10 | 2026-09-10 | 0 | 1 | 1 |
+| WiFi 7 Ready Access Switch | 2026-07-31 | 2026-07-31 | 0 | 1 | 1 |
+| Firmware 7.5 L2+ Feature Update | 2026-06-25 | 2026-06-25 | 0 | 1 | 2 |
+| 10G L3 Managed Switch | 2026-05-29 | 2026-05-29 | 0 | 1 | 1 |
+| Industrial PoE Switch | 2026-04-23 | 2026-04-23 | 0 | 1 | 1 |
+| Industrial PoE Switch | 2026-04-23 | 2026-04-23 | 0 | 1 | 1 |
+| Marvell Managed Commercial Switches | 2026-03-24 | 2026-03-24 | 0 | 1 | 1 |
+| Updated Ethernet Switches Links | 2026-03-02 | 2026-03-02 | 0 | 1 | 1 |
+| OEM Core Switching Solution | 2026-01-22 | 2026-01-22 | 0 | 1 | 1 |
+| Marvell Industrial Alert System | 2025-12-22 | 2025-12-22 | 0 | 1 | 1 |
+| …共 14 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+
+## 动态监控（自动 · 网站 / 社媒 / 代码库）
+
+- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-24T04:35:40Z
+- **最近变化摘要**：2026-10-24 news_1：内容变化：+639 −1 行
+- 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-437/`；本节随档案重渲染刷新，实时看日志。
+
+| 源 | 类型 | 状态 | 最近变化 | 摘要 |
+|---|---|---|---|---|
+| [home](https://www.tpole.it/) | html | HTTP 200 | 2026-10-24T04:35:40Z | 2153 字符；首行：TPole s.r.l. \| Soluzioni PC based per automazione industriale ed applicazioni  |
+| [sitemap](https://www.tpole.it/sitemap_index.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 0 个 URL；最新 lastmod - |
+| [news_1](https://www.tpole.it/news/) | html | HTTP 200 | 2026-10-24T04:35:40Z | 38082 字符；首行：News TPole \| Soluzioni PC based per automazione industriale e applicazioni em |
+
+- **人工定期看（登录墙，不自动抓）**：LinkedIn: https://www.linkedin.com/company/t-pole-s-r-l
+
+## 联系方式（已有 · 原值照录）
+
+- 邮箱：`info@tpole.it`〔企业邮箱；来源：用户表原值〕
+- 邮箱：`pietro.milani@tpole.it`〔企业邮箱；来源：用户表原值〕
+- 邮箱：`lorenzo.bruno@tpole.it`〔企业邮箱；来源：用户表原值〕
+- 联系人（原值）：Pietro Milani / CEO & Founder / Lorenzo Bruno / Purchase and Logistics
+- 联系人（原值）：质量一般
+- 网站/域名：tpole.it
+- **邮箱纪律**：只用表内原值，不猜测、不拼接；发不过去的地址标注后保留不删。
+
+## 关键人（KP）与触达通道
+
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Lorenzo Bruno | — | info@tpole.it | 调研核实（公开页） | 用户表 |
+| Pietro Milani | — | pietro.milani@tpole.it | 调研核实（公开页） | 用户表 |
+
+- **通道建议**：企业邮箱可直发
+
+## 来源与归并（不漏 · 原始行定位）
+
+本客户由 **3 行**原始记录归并而成；归并键：`d:tpole.it`, `e:info@tpole.it`。
+
+| 文件#表:行 | No. | Company（原值） | Country | Person | From | Interested in | Contact | Remark | 跟进表 |
+|---|---|---|---|---|---|---|---|---|---|
+| A/DONE/Italy 3.2.xlsx#总表:17 | 16 | https://www.tpole.it/industrial-switches/industrial-ethernet-switches/ | 意大利 |  |  | 主要是volktek的 | info@tpole.it |  | 1 条 |
+| AI客户评估/DONE/AI客户评估_IT 09.14.xlsx#总表:15 | 14 | https://www.tpole.it/industrial-switches/industrial-ethernet-switches/ | 意大利 | Pietro Milani<br>CEO & Founder<br><br>Lorenzo Bruno<br>Purchase and Logistics |  | 主要是volktek的 | pietro.milani@tpole.it<br>lorenzo.bruno@tpole.it |  | — |
+| E/群发/筛选后质量一般的_群发.xlsx#Italy:9 | 8 | https://www.tpole.it/industrial-switch/ | 意大利 | 质量一般 | 谷歌 | 工业FS 工业MC 少部分产品<br>卖台湾volktek牌子 | info@tpole.it |  | — |
+
+## 产品决策（Saga · 单一决策口径）
+
+| 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
+|---|---|---|---|---|
+| **P1** | STI-288GPM | 深挖对位：在售 Volktek 工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）/ 非管理 STI-280GE；MC 位 STI-110GE（$23.4） | $82.2 USD EXW（25% 档，SmartByte LT-IS3210GP-2GX8T 440 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（工业 PC 方案分销商（意大利，Volktek 工业 FS/MC）） |
+| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $137.5 USD EXW（㉕ 封顶：25% 档 $145.7 高于 2026-06 Saga 列表价 $137.5，按列表价；SmartByte LT-IS6310GP-2GX8GT 780 CNY，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $180 USD EXW（㉕ ② 群发现价（群发价台账），25% 档公式为 $188.7——同一客户随时可能收到 Alan 的群发，信稿不高于群发价；汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+
+- **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
+
+## 跟进建议
+
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288GPM），备选型不进首触。
+
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-288GPM 一条规格链接；只问一个问题。
+- **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
+- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
+- 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
+- **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
+
+## SWOT
+
+- **S**：欧洲主攻区，复购与口碑可外溢
+- **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
+- **O**：P1 STI-288GPM 按 25% 档报价，做现供应商的第二货源
+- **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
+
+## 触达与风险红线
+
+1. 包装、外观、说明书全部中性，不出现「Made in China」，贴客户自己的型号。
+2. 邮件只用表内原值地址；「发不过去」的地址保留并标注，不猜新地址。
+3. 不承诺 UL、EN50155、IP67、云管理；PoE 功率与工业温宽以实测为准。
+4. 乌克兰/军工/公共部门/轨道/生命安全场景守界；巨头分销与品牌厂商不投入。
+5. 同一客户在多张表出现时以本档为唯一入口，避免多人重复触达。
+
+## Qualification 清单
+
+| 门槛 | 状态 |
+|---|---|
+| 需求面成立（在卖/在用交换机或 PoE） | ✅ |
+| 决策人识别 | ✅ |
+| 触达通道 | ✅ 企业邮箱 |
+| 现用/在卖交换品牌 | ✅ FS |
+| 采购量/预算 | ❓ 未确认 |
+| 商业资格结论 | **技术上合格 / 商业上未合格（待实质回复）→ 慢慢跟** |
+
+## Unknowns（待问清单 · 跟进后逐项消除）
+
+- [ ] 年走量与现供应商
+
+## 英文跟进邮件（样板 · 可直接发送）
+
+**主题**：STI-288GPM - industrial DIN-rail L2 managed switch (Marvell-based, neutral label)
+
+```text
+Hi Lorenzo,
+
+Some time ago you had a product mail from us - "Marvell Alleycat5 Solution" on 1 April 2025 - and there was no reason to answer a mass mail. This one is specific. Alongside the Volktek industrial switches and media converters you supply with your IPC and HMI lines, we offer Marvell-based DIN-rail 8-PoE + 2 SFP managed units and gigabit MCs (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which Volktek model do your customers order most?
+
+We supply a Marvell-based industrial DIN-rail L2 managed switch, 8x Gigabit PoE+ plus 2 SFP (240 W) - model STI-288GPM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $82.2 USD EXW (price snapshot 2026-10-17, valid 15 days).
+
+If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+
+Best regards,
+Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
+https://sagatele.com/
+```
+
+> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+
+## 新跟进记录（仓库外发出后补）
+
+| 日期 | 渠道 | 对象 | 我方动作 | 对方回应 | 下一步 | 下次动作日期 |
+|---|---|---|---|---|---|---|
+|  |  |  |  |  |  |  |
+
+> 历史跟进见上文「历史跟进记录（原表照录）」；新动作由用户在仓库外执行后告知日期与渠道，写入 research JSON 的 notes 后重渲染。
+
+## 下次复核
+
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+
+## 变更日志
+
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 B，分数 42）
+
+---
+
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

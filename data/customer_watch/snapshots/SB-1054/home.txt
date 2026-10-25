@@ -1,351 +1,192 @@
-# SB-1054 airlive.com · home · https://www.airlive.com/ · fetched 2026-10-25T07:41:18Z · HTTP 200
-wifi6 MESH Router|AirLive|Managed Switch|5G|Your best choice of Smart Network Solution 鑫志科技
-Open Navigation Search
-AirCloud
-Products
-AirCloud and Wireless
-Aircore
-Telecom XGPON and Cloud
-Enterprise Campus & Multiport Fiber Switch
-Enterprise L3 Switch
-PoE Switch
-10G Switch(NON POE)
-2.5G Switch(NON POE)
-Gigabit Switch (non PoE)
-Industrial Switch
-Industrial 5G / 4G Gateway
-Network Adapter and Accessories
-AirCam Surveillance Security
-AirCore AI AutoPilot AirSwitch PoE/Non-PoE
-Solutions
-Small Office/Home
-Enterprise
-Data Center
-News
-Product News
-AirCore Platform Updates
-AirCore Windows Updates
-Press Review and Award
-Event
-EDM
-Marketing
-Banner
-Catalogues & DM
-Product Photo
-Video
-Commercial Video
-Tutorial Video
-Download
-Document
-Software
-About Us
-Company
-Trademark
-Warranty & RMA
-Privacy Policy
+# SB-1054 luxritesecurity.com · home · https://www.luxritesecurity.com/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+Luxrite Ltd - Trade CCTV Distributor
 Contact Us
-Product Search
-News Search
-Marketing Search
-Download Search
-Search Close Search Form
-AirCore AI Autopilot
-Transform your network with AI-powered intelligent management and automation
-Explore AirCore Platform
-Read More
-SCROLL
-Major Products
-AirCam EYDL-630XAI
-6MP Dome Dual Light POE IP Camera with Smart AI
-ADD INQUIRY
-POE-2TX801-150 AT: 9-port Multi-Gigabit POE+ Switch, 802.3af/at, 150W
-9-port 2.5GBase-T MultiGiga PoE+ Switch including 10G SFP+
-ADD INQUIRY
-L3D-2TX4806-40GF: 54-Port L3 2.5G Multi Giga Core Switch including 6-Port Fiber Uplink (40G &10G/25G)
-54-Port 2.5G RJ-45 include 4 x 10/25G SFP28 & 2 x 40G QSFP+
-ADD INQUIRY
-L3D-100XGF32-100GF:32-Port L3 100G Fiber Core switch
-32-Port 100G QSFP28
-ADD INQUIRY
-AirLive EMS Cloud
-AirLive OLT EMS Cloud Platform
-ADD INQUIRY
-L3POE-2TX2406-450 BT: L3 Managed Multi Giga PoE+ Switch with 10G uplink
-24-Port PoE+/PoE++ Multi Gigabit + 6 Ports 10G SFP+
-ADD INQUIRY
-AirCam PTZD-630MAI
-6MP Autofocus IP66 Dome PTZ POE IP Camera with Smart AI, 3X Zoom
-ADD INQUIRY
-AirCam PTZB-630MAI
-6MP Autofocus IP66 Bullet PTZ POE IP Camera with Smart AI, 4X Zoom
-ADD INQUIRY
-AirCam VD-640MAI
-6MP Autofocus Vandal Dome POE IP Camera with Smart AI, 4X Zoom
-ADD INQUIRY
-AirCam VD-240M
-2MP Autofocus Vandal-proof POE DOME IP Camera, 4X Optical Zoom
-ADD INQUIRY
-AirCam MD-215
-2MP IP66 POE MINI DOME IP Camera
-ADD INQUIRY
-AirCam BU-640MAI
-6MP Autofocus IP66 Bullet POE IP Camera with Smart AI, 4X Zoom
-ADD INQUIRY
-AirCam BU-225S
-2MP IP66 waterproof POE Bullet IP Camera
-ADD INQUIRY
-AirCam BU-240M
-2MP Autofocus IP66 waterproof POE Bullet IP Camera, Motorized 4X Optical Zoom
-ADD INQUIRY
-WLAN-128GM: Enterprise Wireless Controller & Gateway
-ADD INQUIRY
-AirCloud: AirLive Cloud-Based Controller
-ADD INQUIRY
-SNMP-GSH2404M: L2+ Managed Gigabit Switch
-28-Port Gigabit including 4 SFP ports
-ADD INQUIRY
-Fiber Optical Layer 3 Switches For Cloud Data Center Application
-ADD INQUIRY
-IGM-1484POE-2.5G: Industrial Ring Managed Gigabit PoE+ Switch
-14-Port PoE+ Gigabit including 2x2.5G SFP, 2x1.25G SFP and 2x1000T Ports
-ADD INQUIRY
-MC-10GSFP+: Multi Giga Network Fiber Media Converter
-SFP+, auto-fall back, dual-mode FX
-ADD INQUIRY
-MC-1GSFP: Gigabit Network Fiber Media Converter
-Single or Multi FX Mode auto-negotiable
-ADD INQUIRY
-POE-GSH2404M-400: Managed 400W Gigabit PoE+ Switch
-28-Port PoE+ Gigabit Managed Switch including 4-Port Combo
-ADD INQUIRY
-AirMax4GW: 4G LTE Outdoor Gateway with WiFi
-4G LTE Outdoor Gateway with WiFi
-ADD INQUIRY
-AI-WPOE-2TX801-150: AirCore 9-Port WEB-Smart and AI Management 2.5GE PoE+ Switch, including 1*10G SFP+
-8-Port PoE+ Gigabit RJ-45 + 1 Port 10G SFP+
-ADD INQUIRY
-AI-L3-10XGF8: AirCore 8-Port 10G SFP+ Fiber L3 and AI Management Switch
-8-Port 10G Multi Gigabit SFP+
-ADD INQUIRY
-AI-L3POE-10TX800-150: AirCore 8-Port L3 and AI Management 10GE PoE+ Switch
-8-Port PoE+ 10G Multi Gigabit RJ-45
-ADD INQUIRY
-XGSPON OLT-1XGS: 1 Port 10G XGSPON OLT with 10G SFP+
-1-Port XG(S) PON + 1x 10G SFP+ & 2x 1G RJ45
-ADD INQUIRY
-AirCam EYDL-630XAI-RBMS
-6MP Dome Dual Light POE IP Camera with Smart AI, Red&Blue Alarm LED
-ADD INQUIRY
-ANVR8 AI
-8-CH AI Network Video Recorder with HDMI
-ADD INQUIRY
-WPOE-10TX804-260 BT: 10Gbps Web Smart Multi Gigabit POE++ Switch
-12- Port Multi Giga incl 8 x 10G POE+/++ RJ45, 4 x SFP+ 10G
-ADD INQUIRY
-M2M-4G5AC: Industrial AIoT M2M 4G LTE Router with AC1200
-Industrial AIoT M2M 4G LTE Router with AC1200
-ADD INQUIRY
-QSFP28-100G-850-100M-MP: 100G MPO-12 QSFP28 transceiver
-ADD INQUIRY
-ONU-10XGS-AX304P-2.5G: 1 Port 10G XGS PON Wi-Fi AX3000 ONU
-1x PON XGS, 1x 2.5G RJ45, 3x 1G RJ45, AX3000 Wi-Fi 6, 1x POTS, 1x USB3.0
-ADD INQUIRY
-L3D-25XGF56-100GF:56-Port L3 25G Fiber Core switch including 8-Port 100G QSFP28
-56-Port 25G SFP28 include 8 x 100G QSFP28
-ADD INQUIRY
-WEB-10XGF8: 8-port 10G SFP+ Web Smart Multi Gigabit Fiber Switch
-8-Port Multi Gigabit 1G/2.5G/10G SFP+
-ADD INQUIRY
-L3POE-XGS4804-850 BT: Layer 3 850W Managed Gigabit PoE+ Switch with 10G uplink
-48-Port PoE+ Gigabit + 4 Ports 10G SFP+
-ADD INQUIRY
-POE-2TX801-100 AT: 9-port Multi-Gigabit POE+ Switch, 802.3af/at, 100W
-9-port 2.5GBase-T MultiGiga PoE+ Switch including 10G SFP+
-ADD INQUIRY
-Live-2TX2402: 2.5Gbps Base-T Multi Gigabit Switch, VLAN, Auto-Adaptive
-26-Port Multi Giga incl 24 x 2.5G RJ45, 2 x SFP+ 10G
-ADD INQUIRY
-Live-24GT: 24-port SOHO Gigabit switch, VLAN, Plug and Play
-24-port Gigabit RJ-45 Switch
-ADD INQUIRY
-L3-2TX2406: L3 Managed Multi Giga Switch with 10G uplink
-24-Port Multi Gigabit + 6 Ports 10G SFP+
-ADD INQUIRY
-GPON OLT SFP C++++ Module
-GPON OLT Optical Module 2.5G/1.25G 20KM TX1490nm/RX1310nm
-ADD INQUIRY
-IG-601R: Industrial Unmanaged Gigabit Switch
-6-Port Gigabit include 1 x 1.25G SFP Ports
-ADD INQUIRY
-2.5GE XPON ONU
-XPON 2.5GE XPON ONU, 1x 2.5G, 1x 1G RJ45
-ADD INQUIRY
-WLAN-64GM: Enterprise Wireless Controller & Gateway
-ADD INQUIRY
-SNMP-GSH802M: L2+ Managed Gigabit Switch
-10-Port Gigabit including 2 SFP ports
-ADD INQUIRY
-POE-GSH1602M-200: Managed Gigabit 200W PoE+ Switch
-20-Port PoE+ Gigabit incl 2 SFP and 2 RJ-45 Ports Uplink
-ADD INQUIRY
-L3-XGF28: L3 28-port Managed Gigabit Fiber Switch with 10G uplink
-24-SFP slot, 4*10G SFP+ slots, 8* GE RJ45 (combo)
-ADD INQUIRY
-IGM-14104BT-2.5G: Industrial Ring Managed Gigabit PoE++ Switch
-14-Port PoE+ Gigabit including 2x2.5G and 2x1.25G SFP Ports
-ADD INQUIRY
-IGM-1484POE-1.25G: Industrial Ring Managed Gigabit PoE+ Switch
-14-Port PoE+ Gigabit including 4x1.25G SFP and 2x1000T Ports
-ADD INQUIRY
-W6 184QAX: Wi-Fi 6 1800Mbps Easy MESH & VPN Dual Bands Gigabit Router
-Wi-Fi 6 AX 1800 Indoor Gigabit Router
-ADD INQUIRY
-ONU-10XGS-AX304-2.5G: 1 Port 10G XGS PON Wi-Fi AX3000 ONU
-1x PON XGS, 1x 2.5G RJ45, 3x 1G RJ45, AX3000 Wi-Fi 6, 1x USB3.0
-ADD INQUIRY
-Live-10TX8T-DC: 8-port 10Gbps Base-T Multi Gigabit Switch
-8 Port Multi Gigabit 100M/1G/2.5G/5G/10G RJ-45 DC
-ADD INQUIRY
-AI-L3-10TX800: AirCore 8-Port 10GE L3 and AI Management Switch
-8-Port 10G Multi Gigabit RJ-45
-ADD INQUIRY
-AI-L3POE-2TX2406-850 BT: AirCore 30-Port L3 and AI Management 2.5GE PoE++ Switch, including 6*10G SFP+
-24-Port PoE+/PoE++ 2.5G Multi Gigabit RJ-45 + 6 Ports 10G SFP+
-ADD INQUIRY
-ANVR16-2S AI
-16-CH AI Network Video Recorder with HDMI
-ADD INQUIRY
-AirCam EYDL-640MXAI-2713
-6MP Autofocus Dome Dual Light POE IP Camera with Smart AI, 5x Zoom
-ADD INQUIRY
-XPON 2.5GE ONU InWall
-XPON 2.5GE InWall ONU, 1x 2.5G, 1x 1G RJ45
-ADD INQUIRY
-M2M-5G5AC: Industrial AIoT M2M 5G-NR Router with AC1200
-Industrial AIoT M2M 5G-NR Router with AC1200
-ADD INQUIRY
-XG(S)PON OLT SFP+ N1 Module
-XG(S)PON OLT Optical Module 10G/2.5G 20KM TX1577nm/RX1270nm
-ADD INQUIRY
-QSFP-40G-850-100M-MP: 40G MPO-12 QSFP+ transceiver
-ADD INQUIRY
-L3D-10XGF26-100GF: 28-Port L3 10G Fiber Core switch including 2-Port 100G QSFP28
-26-Port 10G SFP+ include 2 x 100G QSFP28
-ADD INQUIRY
-XGSPON OLT-2XGS: 2 Port 10G XGSPON OLT with 10G SFP+
-2-Port XG(S) PON + 2x 10G SFP+ & 2x 1G RJ45
-ADD INQUIRY
-POE-2TX411-65 AT: 6-port Multi-Gigabit POE+ Switch, 802.3af/at, 65W
-6-port 2.5GBase-T MultiGiga PoE+ Switch including 10G SFP+
-ADD INQUIRY
-Live-2TX1602: 2.5Gbps Base-T Multi Gigabit Switch, VLAN, Auto-Adaptive
-18-Port Multi Giga incl 16 x 2.5G RJ45, 2 x SFP+ 10G
-ADD INQUIRY
-IG-1082RPOE: Industrial Unmanaged Gigabit PoE+ Switch
-10-Port PoE+ Gigabit include 2 x 1.25G SFP Ports
-ADD INQUIRY
-L3POE-XGS4804-400 BT: Layer 3 400W Managed Gigabit PoE+ Switch with 10G uplink
-48-Port PoE+ Gigabit + 4 Ports 10G SFP+
-ADD INQUIRY
-IG-602R: Industrial Unmanaged Gigabit Switch
-6-Port Gigabit include 2 x 1.25G SFP Ports
-ADD INQUIRY
-L3-XGS4804: L3 Managed Gigabit Switch with 10G uplink
-48-Port Gigabit + 4 Ports 10G SFP+
-ADD INQUIRY
-Revolve Wi-Fi 6: MESH Bundle AX 1800Mbps
-Wi-Fi 6 AX 1800 Indoor Mesh Bundle
-ADD INQUIRY
-IGM-14104BT-1.25G: Industrial Ring Managed Gigabit PoE++ Switch
-14-Port PoE+ Gigabit including 4x1.25G SFP Ports
-ADD INQUIRY
-IGM-1082BT-2.5G: Industrial Ring Managed Gigabit PoE++ Switch
-10-Port including 2 x 90W PoE++, 6 x 30W PoE+ Gigabit Ports with 2 x 2.5G SFP Ports
-ADD INQUIRY
-IGM-1082POE-2.5G: Industrial Ring Managed Gigabit PoE+ Switch
-10-Port PoE+ Gigabit including 2 x 2.5G SFP Ports
-ADD INQUIRY
-POE-GSH802M-120: Managed 120W Gigabit PoE+ Switch
-10-Port PoE+ Gigabit Managed Switch including 2-Port SFP
-ADD INQUIRY
-AirCam EYDL-840MXAI-2713
-8MP Autofocus Dome Dual Light POE IP Camera with Smart AI, 5x Zoom
-ADD INQUIRY
-Live-10TX5T-DC: 5-port 10Gbps Base-T Multi Gigabit Switch
-5 Port Multi Gigabit 100M/1G/2.5G/5G/10G RJ-45 DC
-ADD INQUIRY
-AI-L3-10TX8T-DC: AirCore 8-Port 10GE L3 and AI Management Switch
-8-Port 10G Multi Gigabit RJ-45 DC
-ADD INQUIRY
-AI-L3POE-2TX1606-420 BT: AirCore 22-Port L3 and AI Management 2.5GE PoE++ Switch, including 6*10G SFP+
-16-Port PoE+/PoE++ 2.5G Multi Gigabit RJ-45 + 6 Ports 10G SFP+
-ADD INQUIRY
-WLAN-64GM v2: Enterprise Wireless Controller & Gateway
-ADD INQUIRY
-AirCloud TOP-11GBE-2.5G-6GHz: Wi-Fi 7 BE11000 Multi Giga PoE Access Point
-Central Management, Multi function, Ultra High Speed
-ADD INQUIRY
-ANVR32-2S AI
-32-CH AI Network Video Recorder with HDMI
-ADD INQUIRY
-AWOD-30AXi-2.5GE: Wi-Fi 6 AX3000 Outdoor Omni AP
-AX3000 Dual-band High Throughput Outdoor AP
-ADD INQUIRY
-SFP28-25G-850-100M-MP: 25G SR SFP28 transceiver
-ADD INQUIRY
-XG(S)PON/GPON Combo OLT SFP+ N2/C+ Module
-XG(S)PON/GPON OLT Optical Module 10G/2.5G/1.25G 20KM TX1490/1577nm/RX1310/1270nm
-ADD INQUIRY
-WEB-2TX2402: 2.5Gbps Base-T Web Smart Multi Gigabit Switch
-26-Port Multi Giga incl 24 x 2.5G RJ45, 2 x SFP+ 10G
-ADD INQUIRY
-Live-16GT: 16-port SOHO Gigabit switch, VLAN, Plug and Play
-16-port Gigabit RJ-45 Switch
-ADD INQUIRY
-POE-GSH2422-300 AT: 28-port Gigabit POE+ Switch, 802.3af/at, 300W
-28-port Gigabit incl 24 x 30W PoE+, 2 x 1.25G SFP, 2 x 1000T
-ADD INQUIRY
-XPON ONU-1GE
-XPON 1GE XPON ONU, Single Port
-ADD INQUIRY
-Live-26G: 26-port SOHO Gigabit Switch, VLAN, QoS, Plug and Play
-26-port Gigabit incl 2 x 1.25G SFP
-ADD INQUIRY
-L3-XGS2404: L3 Managed Gigabit Switch with 10G uplink
-24-Port Gigabit + 4 Ports 10G SFP+
-ADD INQUIRY
-USB-18AX: Wi-Fi 6 AX 1800Mbps USB3.0 Wireless Ethernet Adapter
-ADD INQUIRY
-IGM-1082BT-1.25G: Industrial Ring Managed Gigabit PoE++ Switch
-10-Port PoE++ Gigabit including 2 x 1.25G SFP Ports
-ADD INQUIRY
-IGM-1082POE-1.25G: Industrial Ring Managed Gigabit PoE+ Switch
-10-Port PoE+ Gigabit including 2x1.25G SFP Ports
-ADD INQUIRY
-POE-FSH808PW 10-port Web-smart PoE Switch
-8-port 24V-PoE 10/100Mbps, 1*1000Base-T, 1*SFP
-ADD INQUIRY
-ANVR32-4S AI
-32-CH AI Network Video Recorder with HDMI
-ADD INQUIRY
-AI-L3-10TX5T-DC: AirCore 5-Port 10GE L3 and AI Management Switch
-5-Port 10G Multi Gigabit RJ-45 DC
-ADD INQUIRY
-AI-L3POE-2TX804-250 BT: AirCore 12-Port L3 and AI Management 2.5GE PoE++ Switch, including 4*10G SFP+
-8-Port PoE+/PoE++ 2.5G Multi Gigabit RJ-45 + 4 Ports 10G SFP+
-ADD INQUIRY
-GPON OLT-121-64: 1 PON Port GPON OLT with 10G SFP+
-ADD INQUIRY
-AirCloud TOP-36BE-2.5G: Wi-Fi 7 BE3600 Multi Giga PoE Access Point
-Central Management, Multi function, Super High Speed
-ADD INQUIRY
-AirCam EYDL-830XAI-MS
-8MP Dome Dual Light POE IP Camera with Smart AI, with Mic/Speaker
-ADD INQUIRY
-WEB-2TX1602: 2.5Gbps Base-T Web Smart Multi Gigabit Switch
-18-Port Multi Giga incl 16 x 2.5G RJ45, 2 x SFP+ 10G
-ADD INQUIRY
-Live-16GTM: 16-port SOHO Gigabit switch, VLAN, Plug and Play
-16 x Gigabit RJ-45 Switch
-ADD INQUIRY
-POE-GSH1622-
++44 1438 909168
+New Account | Sign In | Wish List
+0
+£0.00
+Home
+Products HD CCTV HD Cameras
+HD DVRs
+IP CCTV IP NVRs
+IP Cameras
+Networking Switches
+Wireless Bridges
+Access Points
+Wi-Fi Extenders
+Routers
+POE Extenders
+POE Injectors
+Accessories
+Video Intercom Door Stations
+Touchscreen Monitors
+Mounts & Brackets
+Expansion Modules
+Doorbells & Chimes Doorbells
+Chimes
+Cables CAT5e
+CAT6
+Patch Leads
+RG59
+Cable Accessories
+Intruder Ajax
+Dahua
+Texecom
+CQR
+Klaxon
+Kits
+RD Tower
+Fire EN54
+Residential
+Smoke Detectors
+CO Detectors
+Heat Detectors
+Sounders
+Flame Detection
+VADs
+Fire Accessories
+Accessories Brackets & Enclosures
+Baluns & Connectors
+Power Supply
+IP Accessories
+Monitors
+HDMI Extenders
+CCTV Sign
+Audio
+Dummy Cameras
+Access Control All-in-one
+Cards and Tags
+Door Controllers
+Enrolment
+Maglocks
+Readers
+Latest Products
+About us
+Support Demos
+Firmware
+Returns
+Software
+Technical Support
+Video Academy
+Contact/Register
+News & Offers Articles
+Special Offers
+Clearance Items
+Graded Stock
+Training CCTV Training Level 1
+CCTV Training Level 2
+Video Intercom Training
+HD CCTV
+IP CCTV
+Intruder
+Networking
+Video Intercom
+Fire
+Cable
+Accessories
+Welcome To Luxrite Security
+Security You Can Trust
+At Luxrite Ltd, we are proud to be a UK distributor of CCTV, Intruder Alarms, Cable and Video Door Entry products, offering not just equipment, but complete and dependable solutions.
+We understand that every installation is different, which is why our focus is on providing products that genuinely suit your requirements—never forcing a one-size-fits-all approach. We work closely with installers, integrators, and security professionals to ensure you receive the support, expertise, and high-quality technology needed to deliver outstanding results.
+Every camera, DVR, and NVR undergoes rigorous testing during product evaluation and again before it leaves our warehouse, guaranteeing performance you can rely on. If you’re looking for a supplier who values partnership, reliability, and tailored solutions, we’d be delighted to speak with you.
+Request a Trade Account
+What our Customers Say
+4.6
+★★★★⯨
+See more reviews
+❮ ★★★★★
+We are a Hertfordshire based security installer. Luxrite have been supplying our CCTV equipment for over 10 years. They offer professional, quality products at reasonable prices. They also have good knowledge of what they sell and offer great product / technical support. Its been and continues to be a pleasure to deal with this company.
+Nick Woodward
+★★★★★
+Great supplier with an excellent technical support team.
+Paul McDermott
+★★★★★
+Been using luxrite for many years now. Good quality products with a great technical support to back it up. Friendly sales and accounts team.
+Sharon Sharp
+★★★★★
+We have been using Luxrite as our main supplier of CCTV equipment for 6 years plus, from Sales to Technical support and Accounts the company have become like family. The service we have received has been nothing but excellent, my guys have worked very close with the technical team with weird customer requests and they have even inplimented requests from us. The Spro equipment is really reliable and the customer friendly interface is easy to navigate.
+Simon Kirby
+★★★★★
+Five star service and unbeatable support!! Outstanding company. I’ve been an installer using Luxrite since 2018, and their service has been excellent from day one. The sales team makes ordering seamless, and the technical department is fantastic whenever I need support with network configurations or troubleshooting on a job. It makes my life as an installer so much easier knowing I have a brilliant team backing me up. Highly recommended!
+Mark Tether
+★★★★★
+This company has an excellent technical support team who have never let me down yet. The range also is kept updated. Definitely a professional company and highly recommended.
+Terry Mahon
+★★★★★
+I've used Luxrite as my CCTV supplier for eight or so years. Great service and great prices. I can highly recommend.
+Ronald Shannan
+★★★★★
+Luxrite has it all! We are a Cloud CCTV organisation and everything our customers need, is all under the Luxrite roof. The ease of ordering through the website, our Account Manager and by email, ensures a prompt delivery of orders at the best possible price. Customer Service and Technical Support is fantastic, and gives us peace of mind that should we run into any difficulties, there is always someone at the end of the phone with expert assistance. A great organisation, who we would recommend everyone to work with.
+Jill Saddington
+★★★★★
+Great service and products. Technical support are their best asset in my opinion
+Nick Siddall
+★★★★★
+We at Direct Communications, Dundee have been using Luxrite Limited as our preferred supplier of SPRO CCTV equipment for quite a few years now. The pricing is competitive and availability is good. Their technical support is also excellent and they can be relied on to give you a quick call back if they are not immediately available.
+David Roer
+★★★★★
+Really good customer service and knowledge on products. Quick delivery and great prices.
+Dylan Powdrill
+★★★★★
+Great service, Great reliable products, You can’t get better than that!
+David Phillips
+★★★★★
+Luxrite products, support and Technical are all excellent, very happy with the company and all the support given relating to the products and services
+James Watson
+★★★★★
+My company's been using Luxrite for over 10 year's, great helpful and friendly staff. I have no reason to use any other Cctv supplier.
+Nathan Reid
+★★★★★
+There is are 2 reasons ive been using Luxrite for my CCTV installations for the last 10-15 years. Firstly, the quality, functionality & build of the systems cant be faulted. The second, & more important to me as an installer, is the tech support team who ive got to know over the years..They are brilliant!!. Helped me so much over the years when problems occur. I do & continue to, recommend them to others.
+Andy Bostock
+★★★★★
+The technical support team are always very helpful. It's good to be able to give them a call and rely on a quick call back if they are not immediately available.
+David Roer
+★★★★★
+Great level of assistance from Luxrite Technical staff, in sorting out all niggling issues. Homeland Security
+Gary Dickson
+★★★★★
+Have been using them for the past 3-4 years and have not looked at any other supplier. Customer service is one of the best as well as top quality high end products. When ever I need technical support they are just a phone. Would definitely recommend over!!
+Tamim Fahim
+★★★★★
+What can I say about luxrite Ltd,first class.Great product and excellent technical support team.I didn't get the young man's name but he went above and beyond to sort my problem.
+Ned Kelly
+★★★★★
+Used Luxrite for the past 2 years and they are great to work with. Orders always delivered on time and Kam that deals with us is excellent. Their tech team can solve any problems that you have on site quick. Great products and highly recommend.👍
+Willie Marr
+❯
+Home
+About us
+Request a Trade Account
+Terms & Conditions
+Privacy Policy
+Delivery
+Careers
+HD CCTV
+IP CCTV
+Video Intercom
+Cables
+Intruder
+Fire
+Accessories
+Networking
+Software
+Demos
+Training
+Remote Support
+Returns
+Firmware
+Statement of Compliance - PSTI
+Telephone: +44 (0)1438 909168
+Email: sales@luxritesecurity.com
+Luxrite Ltd
+Unit 3 Eastman Way
+Pin Green Industrial Estate
+Stevenage
+Hertfordshire
+SG1 4SZ
+© 2026 Luxrite Ltd. Registered in England No 6801342
+Cookies and Privacy
+We use cookies on this website, some of which are essential for the site to work. For more information about how we use cookies, please see our Privacy Policy .
+Accept All
+Essential Only

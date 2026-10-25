@@ -1,28 +1,38 @@
 {
  "code": "SB-750",
- "name_official": "Le Reveil（加拿大渥太华区号 613；联系人 François Burton，Gmail）",
+ "name_official": "Enable-IT, Inc.（美国）",
  "researched_at": "2026-10-21",
- "website_status": "无域名（仅表内信息）",
- "summary": "加拿大（电话 +1 613，渥太华地区）个人/小型需求方 François Burton（Gmail）：明确需求「8/12 个 SFP+ 甚至更高规格光口、不要网管(或不要电口)、工业级温度」；WhatsApp 已加、以邮件跟进为主，15 次跟进 0 回复。Saga 工业线最多 4×10G SFP+（STI-488DGGGM：8×1G SFP + 4×10G SFP+ + 8 GE），无 8/12 口 SFP+ 工业机型——待核型。",
+ "website_status": "在线（enableit.com，快照 2026-10-21）",
+ "summary": "美国以太网 / PoE 延长器专业制造商（Made in USA，AS9100D，定制 OEM；poe 358 / switch 68 / oem 33），Director David Conners；表内「专门做 PoE 和 Ethernet extender；ONV 的商用 PoE」；群发 17 次无回复。延长器 Saga 无（Q-32）；其配套商用 PoE 交换机（ONV）可替换。",
  "type": "",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "ONV",
+  "Enable-IT（自有）"
+ ],
  "evidence": [
   {
+   "kind": "官网快照",
+   "claim": "以太网 / PoE 延长器，美国制造，AS9100D，定制 OEM",
+   "quote": "Enable-IT Ethernet Extender and PoE Extender Solutions Made In The USA, Superior Performance, Custom OEM Design Solutions Globally AS9100D certified",
+   "url": "https://enableit.com/",
+   "date": "2026-10-21"
+  },
+  {
    "kind": "用户表",
-   "claim": "需求：8/12×SFP+ 以上光口、工业级温度；WhatsApp 已加、邮件跟进为主；15 次跟进 0 回复",
-   "quote": "8/12个SFP+甚至更高规格的光 不要网 工业级温度!!",
+   "claim": "专门做 PoE 和 Ethernet extender；ONV 的商业 PoE",
+   "quote": "兴趣：专门做 PoE和Ethernet extender ONV的商业PoE",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
  "kp": [
   {
-   "name": "Francois Burton",
-   "role": "询盘人（2024-06 回「No thanks… any SFP/SFP+ switches only?」，只要 SFP+ 口、前后通风）",
-   "email": "francois.burton0@gmail.com",
+   "name": "David Conners",
+   "title": "Director",
+   "email": "dconners@enableit.com",
    "phone": "",
-   "source": "S 邮箱 2024-06-17 / 06-24 来信表头"
+   "source": "（本地 Clients/ 表格，无公开 URL）"
   }
  ],
  "grade_override": null,
@@ -30,98 +40,86 @@
  "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "无域名 · 仅表内信息（需求已映射）"
+  "level": "B 级加厚 v1（官网快照核对 + 表内）"
  },
  "company_facts": {
-  "legal_name": "Le Reveil（表内名称；未能核实法人）",
-  "hq": "加拿大（+1 613 渥太华区号）",
-  "size": "未知（个人邮箱）"
+  "legal_name": "Enable-IT, Inc.",
+  "founded": "（待核）",
+  "hq": "USA",
+  "size": "中小型制造商",
+  "other": "AS9100D（航空级质量体系）"
  },
  "business_lines": [
-  "未知（需求为工业级多 SFP+ 光口交换机）"
+  "以太网 / PoE 延长器（自产）",
+  "配套 PoE 交换机（ONV 外购）"
  ],
  "channels": {
-  "邮箱": "（表内 Gmail）",
-  "WhatsApp": "已加"
+  "role": "制造商（配套 OEM 采购）",
+  "region": "美国"
  },
  "signals": [
-  "需求具体（8/12×SFP+、工业温度）→ 若有 10G 光口密集机型可成单"
+  "配套商用 PoE 用 ONV → 同规格替换（Marvell 管理型差异）"
  ],
  "risks": [
-  "Saga 工业线 SFP+ 最多 4 口；15 次跟进 0 回复"
+  "美国：常要求 UL 列名（Saga 无 UL，仅 FCC/CE）→ 首触即说明",
+  "延长器主业 Saga 无；17 次群发无回复"
  ],
  "saga_fit": {
-  "p1": null,
-  "tier": 25,
-  "why": "待核型：最接近 STI-488DGGGM（8×1G SFP + 4×10G SFP+ + 8 GE，−40~+75 ℃，$332.6 @25%）或 STI-4168XGGCM-U（16×1G SFP + 8 Combo + 4×10G，$495.1）；纯 10G 多口需向 SmartByte 核 LT-IS65xx 系列是否有 8/12×SFP+ 型号"
+  "p1": "STC-28DGGPM",
+  "tier": 30,
+  "why": "替换 ONV 配套商用 PoE → STC-28DGGPM（$87.4 @30%）贴 Enable-IT 标。"
  },
- "email_hook": "François — a half-width 12×10G SFP+ / 12×25G, front-to-back airflow, L3 (VXLAN/EVPN): still relevant?",
+ "email_hook": "David, for the PoE switches you bundle with the extenders (ONV today) — Marvell L2+ 8-PoE + 2-SFP under the Enable-IT label from small lots, FCC/CE (no UL); send me the ONV part number and I'll quote like-for-like.",
  "mail_review": {
   "binding": {
-   "level": "轻度触达（2024-06 两封：「any SFP/SFP+ switches only? No need for copper」→「looking for SFP+ ports with ventilation front to back」；Saga 无前后风道全 SFP+ 款；之后 18 封群发无回；Elsa 箱：`to:francois.burton0@gmail.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 20 / 来 2）（第 74 批(h)））",
-   "type": "加拿大小型网络/托管（Gmail 个人）",
-   "sieve": "2",
-   "stop": "规格：全 SFP+ + 前后风道（数据中心口径）——AC5 线没有；CENTEC STH-2C12XF12XE 类有",
-   "revive": "若发，只发 CENTEC 半宽 10G/25G",
-   "lane": "CA",
-   "cadence": "一封",
-   "evidence": "k=2974def9d7ffbd3f / 75e864d4417eab48；第 19 批回补来信原文 1 条（gmail_s/gmail_a）"
+   "level": "读而不回（A/S 邮箱 29 封 2024→2026，其中 2 封被打开，0 回；收件 dconners@enableit.com, support@enableit.com；被打开主题「Marvell Industrial Alert System、Industrial PoE Switch」；Elsa 箱：`to:enableit.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 29 / 来 0）（第 74 批(h)））",
+   "type": "—",
+   "sieve": "2（有人在读，无人回）",
+   "stop": "读而不回 = 内容未命中或没有当下需求",
+   "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
+   "lane": "US 主攻（四主）",
+   "cadence": "一封；回了再说",
+   "evidence": "gmail_digest：out 29，Opened 标签 2（Simon 群发追踪）；用户表：「兴趣：专门做 PoE和Ethernet extender ONV的商业PoE」；研究档 risks：美国：常要求 UL 列名（Saga 无 UL，仅 FCC/CE）→ 首触即说明"
   },
-  "situation": "需求是数据中心 ToR 口径。",
-  "need": "全 SFP+，前后风道。",
-  "breakpoint": "产品线。",
+  "situation": "美国以太网 / PoE 延长器专业制造商（Made in USA，AS9100D，定制 OEM；poe 358 / switch 68 / oem 33），Director David Conners；表内「专门做 PoE 和 Ethernet extender；ONV 的商用 PoE」；群发 17 次无回复。延长器 Saga 无（Q-32）；其配套商用 PoE 交换机（ONV）可替换。",
+  "need": "替换 ONV 配套商用 PoE → STC-28DGGPM（$87.4 @30%）贴 Enable-IT 标。",
+  "breakpoint": "美国：常要求 UL 列名（Saga 无 UL，仅 FCC/CE）→ 首触即说明",
   "saga_now": {
-   "p1": "STH 系列半宽 10G",
-   "tier": 25,
-   "price": "按 CENTEC 价表；群发里他已看到的价（续，第 66 批全量复核）：2024-12-11 $65（10G Media Converter）、2025-07-25 $300（48 Port PoE Managed Switch）、2025-08-29 $240（24 Port Fiber Switch）、2025-09-24 $280（10G Enterprise SFP Switch）",
-   "why": "已打开的主题（4/20 封有打开记录）：「Re: 48 port managed switch」(2024-06-18)、「Re: 48 port managed switch」(2024-06-24)、「24 port managed switch」(2024-08-14)、「90W PoE Managed Switch」(2024-11-14) → 读者兴趣偏「其他」；当前 P1 属「10G 汇聚/L3」，下一封按「其他」给，不按 P1｜已发资料（勿重发）：STC-120XGM(2024-06-18)、STC-448XGGMO(2024-06-18)、STI-4168XGGCM-U(2024-06-18)、Product Link_2026Q2(2026-03-05)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）",
+   "p1": "STC-28DGGPM",
+   "tier": 30,
+   "price": "首触锚价 STC-28DGGPM $87.4 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-12-25 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-07-22 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-11-05 $300（48 Port PoE Managed Switch）、2025-10-06 $280（10G Enterprise SFP Switch）",
+   "why": "替换 ONV 配套商用 PoE → STC-28DGGPM（$87.4 @30%）贴 Enable-IT 标。已打开的主题（2/29 封有打开记录）：「48 Port PoE Managed Switch」(2024-11-05)、「Industrial PoE Switch」(2025-08-14) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-02-16)、Saga Feature List_7.5.x_L2+(2026-06-26)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
    "when": "2026-11",
-   "channel": "S 邮箱 → francois.burton0@gmail.com（回 2024 「48 port managed switch」原串）",
-   "action": "只发 CENTEC；回原串沿用原主题（邮件客户端自动加 Re:），上面的主题只在另起新信时用",
-   "one_question": "François — a half-width 12×10G SFP+ / 12×25G, front-to-back airflow, L3 (VXLAN/EVPN): still relevant?"
+   "channel": "A 邮箱 → dconners@enableit.com",
+   "action": "短信一问（email_hook）（第 76 批(c) 2026-10-25：一问改成问句）",
+   "one_question": "David, for the PoE switches you bundle with the extenders (ONV today) — Marvell L2+ 8-PoE + 2-SFP under the Enable-IT label from small lots, FCC/CE (no UL); send me the ONV part number and I'll quote like-for-like. Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
    {
-    "date": "2024-06-17",
-    "dir": "来",
-    "who": "francois.burton0@gmail.com",
-    "quote": "No thanks... any SFP/SFP+ switches only? No need for copper...",
-    "why": "来信原文（主题「Re: 48 port managed switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
-    "k": "2974def9d7ffbd3f"
-   },
-   {
-    "date": "2024-06-18",
+    "date": "2026-09-18",
     "dir": "去",
-    "who": "Saga（Simon）",
-    "quote": "Hi, Francois, Thanks for your reply. We got 2 commercial models. 1, Realtek chip, 12 port SFP+, L2 managed 2, Marvell chip, 4 port SFP+ and 48 port SFP, L3 managed There is a Marvell based industrial model FYI. Its 4 port SFP+ and 16 port SFP+8*1G SFP/RJ45, L3 managed Please see attached datasheets…",
-    "why": "Saga 实质答复原文（主题「Re: 48 port managed switch」；第 20 批从 gmail_s 回补）——承诺/口径以此为准",
-    "k": "9c34ff9a98f0c773"
+    "who": "A/S 群发",
+    "quote": "Marvell Industrial Alert System、Industrial PoE Switch",
+    "why": "29 封 / 2 次打开 / 0 回｜首封 2024-07-04 → 末封 2026-09-18（29 去 / 0 来）",
+    "k": "gmail_digest"
    },
    {
-    "date": "2024-06-24",
-    "dir": "来",
-    "who": "François Burton",
-    "quote": "Not really, looking for SFP+ ports with ventilation front to back.",
-    "why": "规格",
-    "k": "75e864d4417eab48"
-   },
-   {
-    "date": "2024-09-09",
-    "dir": "去",
-    "who": "Saga（Simon）",
-    "quote": "Hi, Francois, How are you? We are now introducing a new series, high-speed switches. Previously you said you need a switch that just has fiber ports. Please check this one. 32*100G We have many other specifications. Please let me know if this is useful to you.…",
-    "why": "Saga 实质答复原文（主题「Re: 24 port managed switch」；第 20 批从 gmail_s 回补）——承诺/口径以此为准",
-    "k": "5b93217dc580dc09"
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：专门做 PoE和Ethernet extender ONV的商业PoE",
+    "why": "表内备注",
+    "k": "用户表"
    }
   ],
   "proof_gaps": [],
   "draft_en": {
-   "subject": "SFP+ switch with front-to-back airflow",
-   "body": "Hi, Francois,\n\nIn June 2024 you said what you need is SFP+ ports with front-to-back ventilation, and we had nothing to offer. Now there is a CENTEC-based L3 unit: 24x 10G SFP+ + 2x 100G QSFP28, front-to-rear airflow, hot-swap PSU, VXLAN/EVPN/MPLS; indicative price around $1,250 USD EXW for the DC/MA-license version (project quote, 15 days validity).\n\nOne question: is this still relevant for your racks, and is it AC or DC power?\n\nThank you.\nSimon\nSaga Telecom - sagatele.com"
+   "subject": "One question — Marvell Industrial Alert System",
+   "body": "Hi David,\n\nWe have sent you a few mails on \"Marvell Industrial Alert System\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor the PoE switches you bundle with the extenders (ONV today) we can supply a Marvell L2+ 8-PoE + 2-SFP under the Enable-IT label from small lots, FCC/CE/RoHS (no UL). One question: which ONV part number do you bundle today? Send it and I will quote like-for-like.\n\nReference price: 8-PoE + 2 × 1G/2.5G SFP L2+ managed switch (Marvell AC5), 120 W (STC-28DGGPM) $87.4 USD EXW, MOQ 1 pc, 15-day validity, 1-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
  }

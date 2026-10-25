@@ -1,34 +1,34 @@
 {
   "code": "SB-1012",
-  "name_official": "Дозор23（Dozor23，阿纳帕）",
+  "name_official": "Bitstream Core（菲律宾）",
   "researched_at": "2026-10-21",
-  "website_status": "在线（dozor23.ru，快照 2026-10-21，俄语）",
-  "summary": "俄罗斯克拉斯诺达尔边疆区阿纳帕的视频监控 / 安防交钥匙安装与网店（摄像机、报警、门禁、LED、线缆），表内 Сергей（采购 zakupki@），谈过一次 4/8 口商用 PoE；WhatsApp 23 次跟进无实质回复。",
+  "website_status": "在线（bitstreamcore.com；快照超时）",
+  "summary": "菲律宾网络公司 Bitstream Core，GM Engr. Lito E. Viola，需求 2 光 2 电、主要对 SFP 感兴趣（Saga 无）；1 次跟进无实质回复。",
   "type": "",
   "size": "",
   "brands_seen": [],
   "evidence": [
     {
       "kind": "官网快照",
-      "claim": "阿纳帕视频监控与安防交钥匙；+7 918 337 73 66 / snk@dozor23.ru",
-      "quote": "Компания «Дозор23» специализируется на оказании профессиональных услуг в области продажи, установки систем безопасности и контроля доступа… Анапа",
-      "url": "https://dozor23.ru/",
+      "claim": "bitstreamcore.com 抓取超时",
+      "quote": "status timeout",
+      "url": "http://bitstreamcore.com/",
       "date": "2026-10-21"
     },
     {
       "kind": "用户表",
-      "claim": "谈过一次 4 8 口商业 POE；摄像头公司",
-      "quote": "兴趣：谈过一次4 8口商业POE;摄像头公司",
+      "claim": "两光两电；SFP；主要对 SFP 感兴趣",
+      "quote": "兴趣：两光两电。sfp 主要对SFP感兴趣",
       "url": "（本地 Clients/ 表格，无公开 URL）",
       "date": "2026-10-21"
     }
   ],
   "kp": [
     {
-      "name": "Сергей (Sergey)",
-      "title": "закупки（采购）",
-      "email": "zakupki@dozor23.ru",
-      "phone": "+7 960 472 6772",
+      "name": "Engr. Lito E. Viola",
+      "title": "General Manager",
+      "email": "ieviola@bitstreamcore.com",
+      "phone": "",
       "source": "（本地 Clients/ 表格，无公开 URL）"
     }
   ],
@@ -37,106 +37,148 @@
   "notes": "（无首轮调研；由 deepen.py 建档）",
   "deep": {
     "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（官网快照核对）"
+    "level": "B 级加厚 v1（快照超时 + 表内）"
   },
   "company_facts": {
-    "legal_name": "（待核，ИП/ООО «Дозор23»）",
+    "legal_name": "Bitstream Core（待核）",
     "founded": "",
-    "hq": "Анапа, Краснодарский край, Россия",
-    "size": "小型安装商 + 网店",
+    "hq": "Philippines",
+    "size": "小型",
     "other": ""
   },
-  "business_lines": [
-    "视频监控 / 报警 / 门禁安装",
-    "安防网店（摄像机、录像机、线缆、LED）"
-  ],
   "channels": {
-    "role": "安装商 / 本地零售",
-    "region": "俄罗斯南部"
+    "role": "网络集成 / ISP 配套（推断）",
+    "region": "菲律宾"
   },
-  "signals": [
-    "4/8 口商用 PoE 需求（摄像机配套）"
-  ],
   "risks": [
-    "俄罗斯收款 / 制裁；小量",
-    "23 次 WA 无回复"
+    "主需求 SFP 不供"
   ],
   "saga_fit": {
-    "p1": "STC-28DGGPM",
+    "p1": "STI-220GE",
     "tier": 25,
-    "why": "4/8 口商用 PoE → STC-28DGGPM（8 PoE + 2 SFP）；非管理 8 口 HRUI STC-028GP（$24.2）备选。"
+    "why": "2 光 2 电 → STI-220GE（$29.0 @25%）；SFP 不供（Q-32）。"
   },
-  "email_hook": "Сергей, по 4/8-портовым PoE для камер: 8×PoE + 2×SFP управляемый — $84 EXW за 1 шт., неуправляемый 8×PoE — около $26.2; оплата через третью страну или в юанях. Какой вариант пригодится на ближайший объект?",
+  "email_hook": "Engr. Viola, the 2-SFP + 2-copper industrial mini is $29 EXW (1 pc); we don't sell SFP modules on their own, but can fit tested 20 km modules into switch orders on request.",
   "mail_review": {
     "binding": {
-      "level": "读而不回（A/S 邮箱 10 封 2024→2026，其中 5 封被打开，0 回；收件 zakupki@dozor23.ru；被打开主题「10G Enterprise SFP Switch、Saga Q3 Product Links」）；Elsa 群发 To 直收 6 轮 2025-02-22→2025-07-14（本户是「俄罗斯-5（锚 dozor23.ru 采购；2025-02-22 起月轮，6 轮，2025-07-14 止）」批次的锚：每轮 To 本户、其余客户 Bcc；最近 2025-07-14「16 Port Ethernet Switch」），0 回（第 74 批核对 msg 198092904a7b6f12）",
+      "level": "未触达（A 邮箱 3 封 2025，无记录打开，0 回；收件 ieviola@bitstreamcore.com；主题多为「48 Port PoE Managed Switch、16 Port Ethernet Switch」）；Elsa 1:1 去信 8 轮 2025-06-18→2026-08-06（To 仅本户 ieviola@bitstreamcore.com；头 msg 19fd4cc8158c0427 核对无 Bcc，称呼「Hi,」= 无称呼逐月单发名单；头文摘要可见 Price: 170USD/PC；主题 Marvell Industrial Alert System、Updated Ethernet Switches Links、Marvell Managed Commercial Switches、24 Port PoE Managed Switch…；0 回（Elsa 箱 Replied 索引 + 第 73 批真人来信逐户比对均无此户）；S/A digest 看不到 Elsa 的去信，之前据此写的「未触达」是 S/A 口径）（第 74 批(n) `from:e.sagatelecom to:bitstreamcore.com` 全程 complete，直收 8 条、无 Re: 行）",
       "type": "—",
-      "sieve": "2（有人在读，无人回）",
-      "stop": "读而不回 = 内容未命中或没有当下需求",
-      "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）；WhatsApp 已加 → 唤醒走 WhatsApp 一句话，不走邮件",
-      "lane": "RU 次级（Simon 2026-08 点名）",
-      "cadence": "一封；回了再说",
-      "evidence": "gmail_digest：out 10，Opened 标签 5（Simon 群发追踪）；用户表：「兴趣：谈过一次4 8口商业POE;摄像头公司」；研究档 risks：俄罗斯收款 / 制裁；小量；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To zakupki@dozor23.ru）本户见于 2025-07-14 名单；该批次最早 2025-02-22 起共 6 轮，更早轮次 Bcc 未读"
+      "sieve": "1（只收到群发）",
+      "stop": "3 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+      "revive": "保持季度群发到 2027-Q1；无打开即停",
+      "lane": "菲律宾 非主攻",
+      "cadence": "季度",
+      "evidence": "gmail_digest：out 3；用户表：「兴趣：两光两电。sfp 主要对SFP感兴趣」；研究档 risks：主需求 SFP 不供"
     },
-    "situation": "俄罗斯克拉斯诺达尔边疆区阿纳帕的视频监控 / 安防交钥匙安装与网店（摄像机、报警、门禁、LED、线缆），表内 Сергей（采购 zakupki@），谈过一次 4/8 口商用 PoE；WhatsApp 23 次跟进无实质回复。",
-    "need": "4/8 口商用 PoE → STC-28DGGPM（8 PoE + 2 SFP）；非管理 8 口 HRUI STC-028GP（$24.2）备选。",
-    "breakpoint": "俄罗斯收款 / 制裁；小量",
+    "situation": "菲律宾网络公司 Bitstream Core，GM Engr. Lito E. Viola，需求 2 光 2 电、主要对 SFP 感兴趣（Saga 无）；1 次跟进无实质回复。",
+    "need": "2 光 2 电 → STI-220GE（$29.0 @25%）；SFP 不供（Q-32）。",
+    "breakpoint": "主需求 SFP 不供",
     "saga_now": {
-      "p1": "STC-28DGGPM",
+      "p1": "STI-220GE",
       "tier": 25,
-      "price": "第 73 批 2026-10-24：无管理款按洪瑞 2026-09-30 进价 +25%（028GP $26.2 / 228GP $34.6），旧表 $24/$31 不用；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-12-15 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-08-24 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-07-14 $65（10G Media Converter）、2026-05-12 $280（10G Enterprise SFP Switch）",
-      "why": "4/8 口商用 PoE → STC-28DGGPM（8 PoE + 2 SFP）；非管理 8 口 HRUI STC-028GP（$24.2）备选。已打开的主题（5/10 封有打开记录）：「8 port poe switch」(2024-08-20)、「Industrial PoE Switch」(2024-09-15)、「Mini Industrial PoE Switch」(2024-11-19)、「L3 Managed Switch」(2025-01-29) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q3(2026-07-08)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）",
+      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-02-11 $300（48 Port PoE Managed Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-05-05 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 2 轮 2025-10-09→2026-05-05；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-08-06 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-06；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
+      "why": "2 光 2 电 → STI-220GE（$29.0 @25%）；SFP 不供（Q-32）。",
       "repeat": [],
       "gaps": []
     },
     "next_move": {
-      "when": "2026-11",
-      "channel": "A 邮箱 → zakupki@dozor23.ru",
-      "action": "首封前知悉：本户是 Elsa 群发批次的锚（每轮 To 本户），已收 6 轮（2025-02-22→2025-07-14，0 回）（第 74 批(m)）；短信一问（email_hook）（第 76 批(c) 2026-10-25：audit_ab 软项修正：俄语段落改英文（英文稿不混俄语））",
-      "one_question": "Сергей, по 4/8-портовым PoE для камер: 8×PoE + 2×SFP управляемый — $84 EXW за 1 шт., неуправляемый 8×PoE — около $26.2; оплата через третью страну или в юанях. Какой вариант пригодится на ближайший объект?"
+      "when": "群发节奏",
+      "channel": "A 邮箱",
+      "action": "首封前知悉：Elsa 已 1:1 去信 8 轮（2025-06-18→2026-08-06，0 回）（第 74 批(n)）；观察打开",
+      "one_question": "Engr. Viola, the 2-SFP + 2-copper industrial mini is $29 EXW (1 pc); we don't sell SFP modules on their own, but can fit tested 20 km modules into switch orders on request."
     },
     "facts": [
       {
-        "date": "2025-02-22",
-        "dir": "out",
-        "who": "Elsa → zakupki@dozor23.ru",
-        "quote": "Industrial PoE Switch（本户为该批次的锚：每轮 To 本户、其余客户 Bcc）",
-        "why": "本户是 Elsa 群发批次的 To（锚），不是 1:1 名单；全程见 bcc_batches_2026.json anchors（第 74 批(m) 更正）",
-        "k": "elsa_bcc",
-        "msg_id": "1952d875b7672370"
-      },
-      {
-        "date": "2025-07-14",
+        "date": "2025-05-01",
         "dir": "去",
-        "who": "Elsa 群发（To 直收：本户是「俄罗斯-5（锚 dozor23.ru 采购；2025-02-22 起月轮，6 轮，2025-07-14 止）」批次的锚，其余客户在 Bcc）",
-        "quote": "16 Port Ethernet Switch — （头部未取正文；见 Elsa 箱）",
-        "why": "Elsa 箱群发直达证据（To zakupki@dozor23.ru）；该批次 6 轮 2025-02-22→2025-07-14 每轮都以本户为 To；S/A digest 看不到 Elsa 的发信",
-        "k": "elsa_bcc"
-      },
-      {
-        "date": "2026-08-24",
-        "dir": "去",
-        "who": "A/S 群发",
-        "quote": "10G Enterprise SFP Switch、Saga Q3 Product Links",
-        "why": "10 封 / 5 次打开 / 0 回｜首封 2024-07-14 → 末封 2026-08-24（10 去 / 0 来）",
+        "who": "A 群发",
+        "quote": "48 Port PoE Managed Switch、16 Port Ethernet Switch",
+        "why": "3 封 / 0 次打开 / 0 回｜首封 2025-02-11 → 末封 2025-05-01（3 去 / 0 来）",
         "k": "gmail_digest"
+      },
+      {
+        "date": "2025-06-18",
+        "dir": "out",
+        "who": "Elsa → ieviola@bitstreamcore.com",
+        "quote": "Mini Industrial PoE Switch（Elsa 1:1 逐月名单第 1/8 轮；To 仅本户）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:bitstreamcore.com` 全程 complete：8 轮直收（头 msg 19fd4cc8158c0427 无 Bcc，称呼「Hi,」）；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "19780e859ea37d9b"
+      },
+      {
+        "date": "2025-10-09",
+        "dir": "out",
+        "who": "Elsa → ieviola@bitstreamcore.com",
+        "quote": "10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 2/8 轮；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:bitstreamcore.com` 全程 complete：8 轮直收（头 msg 19fd4cc8158c0427 无 Bcc，称呼「Hi,」）；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "199c6db86297107b"
+      },
+      {
+        "date": "2025-12-03",
+        "dir": "out",
+        "who": "Elsa → ieviola@bitstreamcore.com",
+        "quote": "Booster PoE Switch（Elsa 1:1 逐月名单第 3/8 轮；To 仅本户）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:bitstreamcore.com` 全程 complete：8 轮直收（头 msg 19fd4cc8158c0427 无 Bcc，称呼「Hi,」）；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "19ae23956728e50f"
+      },
+      {
+        "date": "2026-01-07",
+        "dir": "out",
+        "who": "Elsa → ieviola@bitstreamcore.com",
+        "quote": "Marvell Industrial Alert System（Elsa 1:1 逐月名单第 4/8 轮；To 仅本户）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:bitstreamcore.com` 全程 complete：8 轮直收（头 msg 19fd4cc8158c0427 无 Bcc，称呼「Hi,」）；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "19b9640fddbc72c7"
+      },
+      {
+        "date": "2026-02-18",
+        "dir": "out",
+        "who": "Elsa → ieviola@bitstreamcore.com",
+        "quote": "Updated Ethernet Switches Links（Elsa 1:1 逐月名单第 5/8 轮；To 仅本户）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:bitstreamcore.com` 全程 complete：8 轮直收（头 msg 19fd4cc8158c0427 无 Bcc，称呼「Hi,」）；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "19c6e8c14c578039"
+      },
+      {
+        "date": "2026-03-24",
+        "dir": "out",
+        "who": "Elsa → ieviola@bitstreamcore.com",
+        "quote": "Marvell Managed Commercial Switches（Elsa 1:1 逐月名单第 6/8 轮；To 仅本户）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:bitstreamcore.com` 全程 complete：8 轮直收（头 msg 19fd4cc8158c0427 无 Bcc，称呼「Hi,」）；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "19d1db69d1ea6c2e"
+      },
+      {
+        "date": "2026-05-05",
+        "dir": "out",
+        "who": "Elsa → ieviola@bitstreamcore.com",
+        "quote": "10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 7/8 轮；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:bitstreamcore.com` 全程 complete：8 轮直收（头 msg 19fd4cc8158c0427 无 Bcc，称呼「Hi,」）；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "19df5ef64e6ba213"
+      },
+      {
+        "date": "2026-08-06",
+        "dir": "out",
+        "who": "Elsa → ieviola@bitstreamcore.com",
+        "quote": "24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 8/8 轮；To 仅本户；正文 Price: 170USD/PC）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:bitstreamcore.com` 全程 complete：8 轮直收（头 msg 19fd4cc8158c0427 无 Bcc，称呼「Hi,」）；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "19fd4cc8158c0427"
       },
       {
         "date": "2026-10-21",
         "dir": "用户表",
         "who": "Simon",
-        "quote": "兴趣：谈过一次4 8口商业POE;摄像头公司",
+        "quote": "兴趣：两光两电。sfp 主要对SFP感兴趣",
         "why": "表内备注",
         "k": "用户表"
       }
     ],
-    "proof_gaps": [
-      "用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「读而不回」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
-    ],
-    "draft_en": {
-      "subject": "One question — 10G Enterprise SFP Switch",
-      "body": "Hello,\n\nWe have sent you a few mails on \"10G Enterprise SFP Switch\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nSergey, for the 4/8-port PoE positions behind your cameras: 8 x PoE+ + 2 x SFP managed - $84.1 USD EXW per unit; unmanaged 8 x PoE - about $26.2. Payment via a third-country account or in CNY is workable. Which of the two would be useful on the next site?\n\nPrices are USD EXW, 2026-10-17 snapshot, valid 15 days.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
-    },
-    "as_of": "2026-10-25"
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
   }
 }

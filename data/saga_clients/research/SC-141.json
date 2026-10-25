@@ -1,0 +1,58 @@
+{
+ "code": "SC-141",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "无域名",
+ "summary": "意大利「Traderoid」（阿里巴巴 RFQ「Kyland Switch」（品牌指定）；KP Hassan Halabi，仅 gmail 免费邮箱，无公司域名）；表内未跟进。",
+ "type": "个人/贸易中介 RFQ（品牌指定，免费邮箱）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "Kyland Switch / from: 阿里巴巴RFQ",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "Kyland Switch RFQ",
+   "quote": "Kyland Switch / from: 阿里巴巴RFQ",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "品牌指定 RFQ 且免费邮箱；c_sub=个人买家/品类不符",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "意大利",
+  "other": "无官网快照；角色判定来源：待核"
+ },
+ "business_lines": [
+  "（个人/中介 RFQ）"
+ ],
+ "channels": {
+  "role": "个人/贸易中介 RFQ（品牌指定，免费邮箱）",
+  "region": "意大利",
+  "contact": "hassanhalabi9@gmail.com"
+ },
+ "signals": [
+  "表内：Kyland Switch / from: 阿里巴巴 RFQ；KP Hassan Halabi；hassanhalabi9@gmail.com"
+ ],
+ "risks": [
+  "品牌指定采购（Kyland 原厂）；仅 gmail 免费邮箱、无公司域名"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 20,
+  "why": "品牌指定（Kyland）RFQ、仅免费邮箱、无公司域名 → 改 C"
+ },
+ "email_hook": "（不发送：品牌指定/个人 RFQ）"
+}

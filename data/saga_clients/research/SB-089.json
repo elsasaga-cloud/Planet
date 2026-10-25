@@ -1,58 +1,37 @@
 {
  "code": "SB-089",
- "name_official": "Linxcom Ltd（Linxcom UK，Leicester；Co. 07157746；linx-com.com）",
+ "name_official": "Winsonic Electronics Co., Ltd.（台湾）",
  "researched_at": "2026-10-21",
- "website_status": "在线",
- "summary": "英国莱斯特的光纤/铜缆结构化布线品牌商 Linxcom UK（2010-02 注册；6–16 人、$4.4M 营收口径；远东物流仓、英国短期光纤生产、英格兰/南非/中国办公室；60+ 国；产品：光纤无源件与光缆、有源件含 OEO 介质转换器、可管理交换机、SFP/QSFP；提供 OEM 定制服务；25 年质保）。展会记录：联系人 Hussain Alqahtani，关注 MC / SFP / FS 周边产品；WhatsApp 已加；1 次跟进。自有品牌有源件买家 → OEM 30%。",
+ "website_status": "在线（ewinsonic.com，快照 2026-10-21）",
+ "summary": "台湾工业面板 PC / 无风扇工控机 / 工业显示器制造商，站内含「Industrial Switch」网络与边缘连接品类（PoE、SFP、EN50155 关键词）；表内 Rex 在用 **UniPoE（优力普）**工业 FS，2025-11 对升压 PoE 回复 INFO。工控机配套工业交换机 = 贴牌采购 → OEM 30%。台湾厂商口径：按继承规则台系品牌商不是「渠道客户」，但作为 OEM/贴牌采购方可按 OEM 30% 档跟进（其产品多在深圳采购）。",
  "type": "",
  "size": "",
  "brands_seen": [
-  "Linxcom（自有品牌）"
+  "UniPoE"
  ],
  "evidence": [
   {
-   "kind": "官网",
-   "claim": "法人与定位",
-   "quote": "Linxcom UK is an international supplier of networking and telecommunications end-to-end solutions. Specialists in fibre optic passive and active products … Company Name: Linxcom Ltd Company Registration Number: 07157746 Registered Address: 3 Oakland Road, Leicester, LE2 6AN … Phone: +44 1327 705 425",
-   "url": "https://linx-com.com/about.html",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "LinkedIn",
-   "claim": "供应链与规模",
-   "quote": "We have a logistics warehouse in the Far East, strong partners around the world, short-term fibre optic manufacturing facility in the UK and local offices in England, South Africa and China. … Company size: 11-50 employees Headquarters: Leicester",
-   "url": "https://uk.linkedin.com/company/linxcom-uk",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "名录",
-   "claim": "有源产品线与 OEM 服务",
-   "quote": "Fibre Optic Active | OEO Media Converters (10GB), Manageable Switches, SFP/QSFP/XFP … Offering of OEM customization services including product and literature adaptation or design from scratch",
-   "url": "https://www.europages.co.uk/LINXCOM-LIMITED/GBR282115-35968001.html",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "名录",
-   "claim": "营收与人数",
-   "quote": "Linxcom UK … 3 Oakland Rd, Leicester … Revenue $4.4 M Employees 16 Founded 2010",
-   "url": "https://www.datanyze.com/companies/linxcom-uk-ltd/354198590",
+   "kind": "官网快照",
+   "claim": "定位：工业面板 PC / 工控机 / 显示器；站内 Industrial Switch 品类；关键词 industrial 119 / switch 60 / automation 37 / poe 18 / sfp 21",
+   "quote": "Industrial all in one PC touch screen monitors, Panel PC, Rugged Computing… Industrial Switch",
+   "url": "https://ewinsonic.com/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "关注 MC/SFP/FS 周边；WhatsApp 已加；1 次跟进",
-   "quote": "MC SFP FS 周边产品",
+   "claim": "在用 UniPoE 的工业 FS；2025-11 升压→INFO",
+   "quote": "兴趣：在用UniPoE的工业FS;工业FS 优力普的；回复：INFO",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
  "kp": [
   {
-   "name": "Hussain Alqahtani",
-   "role": "Purchasing and Product Development Manager（邮件签名）",
-   "email": "hussain.alqahtani@linx-com.com",
+   "name": "Rex Lin",
+   "title": "（采购 / 产品，表内联系人）",
+   "email": "rex.lin@ewinsonic.com",
    "phone": "",
-   "source": "S/A 邮箱来信 2025-03-18 → 05-15 来信 6 封（第 72 批从邮件表头补）"
+   "source": "（本地 Clients/ 表格，无公开 URL）"
   }
  ],
  "grade_override": null,
@@ -60,174 +39,95 @@
  "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网 + 名录核对）"
+  "level": "B 级加厚 v1（官网快照：台系工控 OEM）"
  },
  "company_facts": {
-  "legal_name": "Linxcom Ltd（Companies House 07157746；VAT GB990241716）",
-  "founded": "2010-02-15",
-  "hq": "3 Oakland Road, Leicester LE2 6AN, UK（+44 1327 705 425）",
-  "size": "6 人（Endole）～16 人、$4.4M（Datanyze）；LinkedIn 11–50",
-  "other": "远东仓 + 中国办公室；60+ 国销售；产品含 OEO MC、可管理交换机、SFP；OEM 定制服务"
+  "legal_name": "Winsonic Electronics Co., Ltd.",
+  "founded": "（待核）",
+  "hq": "台湾",
+  "size": "中型工控制造商",
+  "other": "sales@ewinsonic.com"
  },
  "business_lines": [
-  "光纤无源件与光缆（FTTx/数据中心）",
-  "有源件：OEO 介质转换器、可管理交换机、SFP/QSFP/XFP（贴牌）",
-  "OEM 定制与多语言销售"
+  "工业面板 PC / 无风扇 PC / 工业显示",
+  "配套工业交换机（外购贴牌，现 UniPoE）"
  ],
  "channels": {
-  "网站": "https://www.linx-com.com/",
-  "电话": "+44 1327 705 425（公开）",
-  "LinkedIn": "https://uk.linkedin.com/company/linxcom-uk"
+  "role": "工控制造商（配套外购）",
+  "region": "全球"
  },
  "signals": [
-  "已有 Linxcom 标有源线（MC、管理交换机）→ 直接按型号对位补货/换源；关注 MC/SFP → STI-110GE/STI-111GP"
+  "现用中国同行 UniPoE 工业 FS → 可同规格替换（Marvell 差异）",
+  "对升压 PoE 有兴趣（Saga 升压款待核 Q-32）"
  ],
  "risks": [
-  "已有中国供应链（远东仓、中国办公室）→ 价格比拼；1 次跟进后无回复"
+  "台系厂商口径；EN50155 车载线不供",
+  "UniPoE 价格基准低"
  ],
  "saga_fit": {
-  "p1": "STI-110GE",
+  "p1": "STI-288GP",
   "tier": 30,
-  "why": "OEM 30% 档：STI-110GE 工业千兆 MC（$24.3）与 STC-28DGGPM 管理交换机（$87.4）贴 Linxcom 标；10G OEO 用 STC-424XGGM 核对"
+  "why": "替换 UniPoE 同口型工业 2 光 8 PoE → Saga STI-288GP（$57.4/59.8/62.2）贴 Winsonic 标；升压款按 SmartByte 另询。"
  },
- "email_hook": "Hussain — did MOH-TA-170325 get awarded, and at roughly what unit price did the 24-port industrial PoE close? If a similar tender comes again, we can quote the 400/100 volume tier directly.",
+ "email_hook": "Rex, for the industrial PoE switches you bundle with panel PCs — if you send the UniPoE part number you use most, I'll quote the like-for-like unit (Marvell platform on the managed versions) under the Winsonic label, 1-pc sample first.",
  "mail_review": {
   "binding": {
-   "level": "轻度绑定（2025-03-17 Alan 对其 RFQ「MOH-TA-170325」出了 500 台报价：STI-288DGGPM-2BT ×400 + STI-42424XGGPM ×100，装箱单 42 箱 760 kg；对方 5 封实质回复：报价顺序质疑 → 「too expensive」→ 要差异说明 → 要户外版 → 2025-05-15「no news yet」；之后 Alan 11 封群发无回；Elsa 箱：`to:linx-com.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 19 / 来 6）（第 74 批(j)））",
-   "type": "英国结构化布线/网络产品品牌分销（Linxcom UK；Hussain = Purchasing & Product Development Manager，RFQ 编号 MOH-TA 指向中东卫生部类标书）——第二档有进口经验的分销",
-   "sieve": "4（报价 + 技术对表 + 户外改版诉求），卡在价格",
-   "stop": "价格：2025-03-18「The prices are too expensive」；Alan 的回法是「如果你只是买卖那是贵了；如果看技术就值」+ ChatGPT 附件——没有给出降价空间或 MOQ 阶梯；2025-05-15 项目无消息后再无实质往来",
-   "revive": "一封只做两件事的信：① 问 MOH-TA 标书最终结果（中了谁、什么价位）；② 给 400+100 台这一量级的重算价（SmartByte 2026-09 价 + 20%，与 2025-03 相比应有明显下降空间）",
-   "lane": "UK 主攻 + 中东项目",
-   "cadence": "一封结果信；之后半年一次项目询问，不群发",
-   "evidence": "k=c9837fd061da8de5（报价 + PL.xls：400/100 台、42 箱、660/760 kg）；5d5ae90a6d294cbd（顺序质疑）；bcfbcbc7aff20e51（too expensive）；2f38e52e0a8ab212（Alan 回法）；d91fcb4809f3db04（要差异说明）；365aa3e5b9a0605e（Q3 版数据表 + 问预算）；7b0d91fec35aaa9c（户外版）；1f18c82924a11d1e（IP 等级解释）；d385ca588de7d060（no news yet）；A 邮箱附件正文 `data/gmail_a/attachments/text/`（2026-10-24 对表）；A 邮箱外发报价单正文（`data/gmail_a/attachments/text/`，2026-10-24 对表）"
+   "level": "轻度触达（Rex Lin 2 封：2025-03「interested in the Marvell solution… could you do Qualcomm, MTK or Realtek?」；2025-11 要 Booster 详细规格与价表 → 链接；Elsa 箱：`to:ewinsonic.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 20 / 来 2）（第 74 批(n)））",
+   "type": "台湾网络设备制造商（Winsonic；Rex = 采购/产品）——同行制造商，二供口径",
+   "sieve": "2",
+   "stop": "要价表给链接；多平台问题未答",
+   "revive": "一封：Realtek 线有（STC 商用）、Qualcomm/MTK 无",
+   "lane": "TW",
+   "cadence": "一封",
+   "evidence": "k=6a176ba292b92e65 / a1d6d7a7e1d0a1f5 / 26e3057cfa079fbf；第 19 批回补来信原文 1 条（gmail_s/gmail_a）"
   },
-  "situation": "2025-03 Linxcom 拿着一张 500 台的项目清单来询价（100 台 8 口 2BT 管理 PoE + 400 台 24 口 10G 上联 L3 工业 PoE，按装箱单合计 760 kg），Alan 当天出报价并说 25~30 个工作日交期。对方次日说贵；Alan 没有谈价，而是讲 Marvell 高端定位并附 ChatGPT 对比。4 月对方还在跟：要 Saga 型号与他们手里数据表的差异说明、要户外版；5 月 15 日说项目还没消息。之后 Alan 转为每月一封群发，再无回复。这是 A 邮箱里体量最大的一张 RFQ（500 台）之一，败因是价格谈判没有展开。",
-  "need": "项目级：24 口 L3 工业 PoE（10G 上联）×400 + 8 口 2BT 管理工业 PoE ×100，可能要户外箱体方案。",
-  "breakpoint": "对手不是 Cisco/Planet 而是深圳 N-net（同价带国产）：Linxcom 2025-03-18 说「too expensive」、04-22 拿 N-net 规格书要 Saga 解释差异 → Saga 的差异只能是 Marvell/软件平台与长期供货，不是价格。对位：N-net 244PGM ↔ STI-42424XGGPM(L3) $517；N-net 10 口 bt ↔ STI-288DGGPM-2BT $154。",
+  "situation": "—",
+  "need": "Booster PoE 管理型 + 多芯片平台。",
+  "breakpoint": "回法。",
   "saga_now": {
-   "p1": "STI-42424XGGPM / STI-288DGGPM-2BT 按 400/100 台重算",
-   "tier": 20,
-   "price": "历史锚：STI-288DGGPM-2BT $130 ×400 / STI-42424XGGPM(L3) $430 ×100（2025-03-17 报价单，$95,000 合计，老汇率）；现列表 $154 / $517 → 500 台量级 Simon 自定 volume tier，但别低于 Marvell ≥25% 底线；群发里他已看到的价（续）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-04-11 $300（48 Port PoE Managed Switch）、2025-10-09 $280（10G Enterprise SFP Switch）",
-   "why": "英国分销 + 500 台 RFQ + 采购经理直联｜已发资料（勿重发）：PL(2025-03-17)、STI-42424XGGPM(2025-03-17)、STI-288DGGPM-2BT(2025-03-17)、Product Link_2026Q2(2026-03-30)、Product Link_2026Q3(2026-07-20)；已发单据：Quotation(2025-03-17)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）",
+   "p1": "STI-488XGGBPM",
+   "tier": 30,
+   "price": "$215（2025-12 对 Thor 报价）；群发里他已看到的价（续）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-17 $280（10G Enterprise SFP Switch）",
+   "why": "制造商二供。已打开的主题（7/20 封有打开记录）：「Re: Booster PoE Switch」(2025-11-25)、「Re: Booster PoE Switch」(2025-12-15)、「Re: Booster PoE Switch」(2026-01-06)、「Re: Booster PoE Switch」(2026-01-29) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续｜已发资料（勿重发）：Download Link_Alan(2025-11-25)、Product Link_2026Q2(2026-03-30)、Product Link_2026Q3(2026-07-20)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）",
    "repeat": [],
-   "gaps": [
-    "2025-03 报价单价（PDF 未提取，仅 PL.xls）",
-    "MOH-TA 标书结果",
-    "500 台项目若再活：100 台「8 口 2BT 管理 PoE」Realtek 工业线有对位 STI-288GPM-2BT（2025-04 表 $110 vs Marvell -2BT $154）；400 台「24 口 10G 上联 L3 PoE」Realtek 线无对位（最大 16 PoE、无 24 口 L3 PoE）——只能半套，别整单换线（docs/reference/价格表_Realtek工业线_Saga对外_2025.md）"
-   ]
+   "gaps": []
   },
   "next_move": {
-   "when": "现在",
-   "channel": "A 邮箱 → hussain.alqahtani@linx-com.com（回到 MOH-TA-170325 Offer 串）",
-   "action": "问结果 + 给重算价 + 不再附 ChatGPT；回原串沿用原主题（邮件客户端自动加 Re:），上面的主题只在另起新信时用",
-   "one_question": "Hussain — did MOH-TA-170325 get awarded, and at roughly what unit price did the 24-port industrial PoE close? If a similar tender comes again, we can quote the 400/100 volume tier directly."
+   "when": "2026-11",
+   "channel": "A 邮箱 → rex.lin@ewinsonic.com",
+   "action": "给价表",
+   "one_question": "Rex — Booster PoE managed (STI-488XGGBPM) is $215 EXW in OEM lots; on platforms: Marvell AC5 and Realtek yes, Qualcomm/MTK no."
   },
   "facts": [
    {
-    "date": "2025-03-17",
-    "dir": "去",
-    "who": "Alan",
-    "quote": "Please see attached our datasheets and quotation about 2 models you need. 1, our models are Marvell chip based, its for high-end market. 2, production time: 25~30 working days",
-    "why": "报价；PL.xls：STI-288DGGPM-2BT 400 pcs / STI-42424XGGPM 100 pcs，42 CTNS，G.W 760 kg",
-    "k": "c9837fd061da8de5"
-   },
-   {
-    "date": "2025-03-17",
-    "dir": "去",
-    "who": "Alan（Quotation.pdf，Buyer Linxcom / Hussain Alqahtani，EXW，Destination UK）",
-    "quote": "STI-288DGGPM-2BT 8×GE PoE(6 af/at + 2 bt) + 2×1G/2.5G SFP L2+ 240W ×400 @ $130 = $52,000.00；STI-42424XGGPM 4×10G SFP+ + 24×GE PoE L3 240W/370W 双 DC ×100 @ $430 = $43,000.00；TOTAL 500 pcs $95,000.00；validity 15 days",
-    "why": "Saga 历史最大单笔报价之一（$95k）；次日「too expensive」→ 对手 N-net 规格书（04-22）→ 05-15「no news yet」",
-    "k": "gmail_a att 2025-03-17"
-   },
-   {
-    "date": "2025-03-18",
-    "dir": "来",
-    "who": "Hussain Alqahtani",
-    "quote": "The prices are too expensive.",
-    "why": "断点",
-    "k": "bcfbcbc7aff20e51"
-   },
-   {
     "date": "2025-03-19",
-    "dir": "去",
-    "who": "Alan",
-    "quote": "Attached information is from ChatGPT. 1, If you ONLY buy and sell for your client, I guess yes, it would be a little expensive. 2, If you are focusing on some technical features, our solution is good to move on.",
-    "why": "未谈价",
-    "k": "2f38e52e0a8ab212"
-   },
-   {
-    "date": "2025-04-22",
     "dir": "来",
-    "who": "Hussain",
-    "quote": "Kindly explain us what is the differences between what you offered and the attached data sheets?",
-    "why": "仍在对表",
-    "k": "d91fcb4809f3db04"
+    "who": "rex.lin@ewinsonic.com",
+    "quote": "Dear Alan, Yes, I am insterested in the Marvell solution. We are doing networking Switch, Router and Gateway. Except Marvell, could you do Qualcomm, M",
+    "why": "来信原文（主题「轉寄: Marvell Alleycat5 Solution」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+    "k": "6a176ba292b92e65"
    },
    {
-    "date": "2025-04-22",
+    "date": "2025-11-24",
     "dir": "来",
-    "who": "Linxcom（附件 28 ports with uplink 10G L3 managed PoE switch.doc / Industrial Switch.doc）",
-    "quote": "「independently developed by N-net®」… 244PGM/164PGM：24/16×GE PoE+ + 4×10G SFP+，L3 lite（RIP/OSPF/VRRP），6KV surge，-40~75℃；10 口工业 PoE：8×GE PoE（2 口 90W bt + 6 口 30W）+ 2×SFP，IP40，DC48~57V",
-    "why": "「differences between what you offer and attached」的对象 = 深圳 N-net 工业交换机（同为中国产）→ 这是一场国产对国产的价格对比，不是品牌替代",
-    "k": "gmail_a att（sha 见 attachments/text）"
+    "who": "Rex Lin",
+    "quote": "Coule you provide detial spec and price list?",
+    "why": "要价表",
+    "k": "a1d6d7a7e1d0a1f5"
    },
    {
-    "date": "2025-04-22",
-    "dir": "来",
-    "who": "Hussain Alqahtani 附件「28 ports with uplink 10G L3 managed PoE switch.doc」",
-    "quote": "\"Overview This series of products are the industrial L3 lite Ethernet switch products independently developed by N-net® for the industrial application scenarios…\"（15,295 字规格书）",
-    "why": "客户的 RFQ 规格书直接来自竞品 N-net（深圳）工业 L3 lite 28 口 PoE 机 → Linxcom 在比价，Saga 的 $430 L3 报价对标的是 N-net 规格；「too expensive」应理解为高于 N-net 报价",
-    "k": "gmail_a att 2025-04-22"
-   },
-   {
-    "date": "2025-04-23",
+    "date": "2026-01-29",
     "dir": "去",
     "who": "Saga（Alan）",
-    "quote": "Hi, Hussain, Last time I shared datasheet Q2, please see attached Q3 version. It explains the unique features of our models from chip and hardware design. This is a little technical, please transfer it to your engineering team, they will soon understand. Btw: do you have any target price/budget?…",
-    "why": "Saga 实质答复原文（主题「Re: [EXTERNAL] MOH-TA-170325 Offer」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
-    "k": "365aa3e5b9a0605e"
-   },
-   {
-    "date": "2025-04-28",
-    "dir": "来",
-    "who": "Hussain",
-    "quote": "Can you make this 2 items for outdoor use? If you have a solution kindly send us the updated offer with the data sheet.",
-    "why": "户外版诉求",
-    "k": "7b0d91fec35aaa9c"
-   },
-   {
-    "date": "2025-04-28",
-    "dir": "去",
-    "who": "Saga（Alan）",
-    "quote": "Hi, Hussain, What do you mean by \"outdoor use\"? 1, high IP grade, waterproof: Like IP66, IP67 or IP68 The enclosure itself is high IP rated. 2, just industrial grade products for harsh outdoor use It might be used in outdoor IP box, a typical example is like below link https://www.inscapedata.com/lp…",
-    "why": "Saga 实质答复原文（主题「Re: [EXTERNAL] MOH-TA-170325 Offer」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
-    "k": "1f18c82924a11d1e"
-   },
-   {
-    "date": "2025-05-15",
-    "dir": "来",
-    "who": "Hussain",
-    "quote": "Unfortunately there is no news yest, but once we have news regarding your offer we will be in touch.",
-    "why": "项目停摆",
-    "k": "d385ca588de7d060"
-   },
-   {
-    "date": "2025-05-15",
-    "dir": "去",
-    "who": "Saga（Alan）",
-    "quote": "Hi, Hussain, Any update about this project? Btw There is a 16-port Din Gigabit Ethernet switch for you. It is good for vehicle network and industrial automation. *Model choice* 1. 5 Port/8 Port/24 Port 2. 10/100M 3. PoE version *It is a good and cheap replacement of Wago, Tripplite, Red Lion, Antair…",
-    "why": "Saga 实质答复原文（主题「Re: [EXTERNAL] MOH-TA-170325 Offer」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
-    "k": "46f7e87117f44fe3"
+    "quote": "Hi, Rex, How are you? I am introducing our CENTEC-based core and aggregation switches. 1, A cost-effective alternative to Cisco or Huawei models 2, Multiple models(10G~800G) available for various network scales 3, Full L3 features(VXLAN, EVPN, MPLS, Stacking etc.) suitable for core and aggregation l…",
+    "why": "Saga 实质答复原文（主题「Re: Booster PoE Switch」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
+    "k": "83397972ba8367d6"
    }
   ],
-  "proof_gaps": [
-   "报价单价（quotation PDF 未在附件索引中提取）",
-   "MOH-TA 是哪国卫生部项目——仅由编号推断"
-  ],
+  "proof_gaps": [],
   "draft_en": {
-   "subject": "MOH-TA-170325 — 24-port industrial PoE x400",
-   "body": "Hi, Hussain,\n\nLast year you asked us to re-price the 24-port industrial L3 PoE (10G uplinks) x400 and the 8-port 2BT x100 for MOH-TA-170325, and later about outdoor-rated versions.\n\nTwo things from our side:\n1. Volume: at 400 + 100 pcs we quote a volume tier, not the per-unit price you saw in March 2025.\n2. Outdoor: the switches stay -40 to +75 C rated; the outdoor part is an IP-rated cabinet with heater/fan, which we can supply with the switch pre-mounted.\n\nOne question: was the MOH tender awarded, and at roughly what unit price did the 24-port industrial PoE close? That tells me whether a volume tier would have won, and how to prepare the next one.\n\nThank you.\nAlan\nSaga Telecom - sagatele.com"
+   "subject": "Detailed spec and price — Booster PoE managed",
+   "body": "Hi, Rex,\n\nYour November request for spec and prices — here is the concrete answer:\n\n- STI-488XGGBPM: 8x GbE PoE + 4x 1G/2.5G/10G SFP+, L2+ managed, internal power booster — $215 USD EXW in OEM lots (2026-10 price table, valid 15 days from this mail)\n- Platforms we build on: Marvell AC5 (managed) and Realtek (entry); no Qualcomm/MTK.\n- OEM: logo, model name, GUI, packaging from 50 pcs.\n\nOne question: is the booster-PoE managed unit for your own catalogue, or a project where I should quote a specific quantity?\n\nThank you.\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
  }

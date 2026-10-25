@@ -11,7 +11,7 @@
  "text": "Hello thanks for your recomendation please what is the type of switch\n\nSent from Outlook for Android\n\nFrom: Elsa from Saga Telecom <e.sagatelecom@gmail.com>\nSent: Monday, August 18, 2025 10:16:07 am\nTo: sales@unilinkcommunication.com <sales@unilinkcommunication.com>\nSubject: 24 Port Fiber Switch\n\nHi,\nHow are you?\nI would like to recommend a switch, 24 port 1G SFP+8 port 1G SFP/RJ45 combo +4*10G SFP+.\nIt is a price-competitive aggregation switch.\nPrice: 240usd/pc\nIs it useful to you?\nThank you.\n\n--\nElsa\nSaga Telecom/OEM Factory\nConnecting, Converting, Creating\nTailored Marvell Managed Networking Solutions Provider",
  "char_count": "621",
  "attachments": "[{'filename': '24 fiber.jpeg', 'mime_type': 'image/jpeg', 'size': 351618}]",
- "note": "SB-164 首次来信（早于 10-01 那封）：回的是发给 sales@unilinkcommunication.com 的 24 SFP 汇聚机 $240 群发（被转到 tescom.co.tz）；非 Replied 标签 → Elsa 未回这封",
+ "note": "SB-229 首次来信（早于 10-01 那封）：回的是发给 sales@unilinkcommunication.com 的 24 SFP 汇聚机 $240 群发（被转到 tescom.co.tz）；非 Replied 标签 → Elsa 未回这封",
  "text_source": "text/html",
  "fetched": "2026-10-24T16:15Z",
  "method": "Arena Gmail connector get_message_text(include_quoted=false)"

@@ -1,134 +1,131 @@
 {
  "code": "SB-644",
- "name_official": "LANshack（Tecra Tools Inc.，美国）",
+ "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "在线（lanshack.com，快照 2026-10-21）",
- "summary": "美国光纤 / 铜缆组件制造与网店（ISO 9001；sfp 1028 / poe 239 / industrial 180 / media converter 99），President Andrea Damiano；表内「E-wind 产品较多」（在售中国同行 E-wind 的 MC / 交换机）；群发 19 次无回复。",
- "type": "",
+ "website_status": "在线（art2soft.eu，快照 2026-10-21）",
+ "summary": "塞浦路斯 A.K. ART2SOFT Ltd（「Your wireless partner」：服务全塞浦路斯 500+ 经销商的无线分销商，Ubiquiti / Ruijie / TP-Link / MikroTik / Cambium；表内「分销商」；KP Thomas Thoma（thomas.thoma@））；群发 6 次无回复。",
+ "type": "无线产品分销商（塞浦路斯，500+ 经销商）",
  "size": "",
  "brands_seen": [
-  "E-wind"
+  "Ubiquiti",
+  "Ruijie",
+  "TP-Link",
+  "MikroTik",
+  "Cambium"
  ],
  "evidence": [
   {
    "kind": "官网快照",
-   "claim": "光纤与铜缆组件制造 / 网店，ISO 9001；关键词 sfp 1028 / poe 239 / media converter 99",
-   "quote": "LANshack offers premium fiber optic cable & copper wire assemblies… ISO 9001 Certified",
-   "url": "https://lanshack.com/",
+   "claim": "官网标题：A.K. ART2SOFT LTD – Your wireless partner；品类词 无线 / WiFi / 网络交换 / PoE",
+   "quote": "About our company；We serve over 500 resellers all over Cyprus；500+；2000+；10000+；15+",
+   "url": "https://art2soft.eu/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "Ewind 产品较多",
-   "quote": "兴趣：Ewind产品较多",
+   "claim": "表内兴趣/备注",
+   "quote": "分销商",
    "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "ART2SOFT 经销网络",
+   "quote": "A.K. ART2SOFT LTD – Your wireless partner ; We serve over 500 resellers all over Cyprus",
+   "url": "https://art2soft.eu/",
    "date": "2026-10-21"
   }
  ],
  "kp": [
   {
-   "name": "Andrea Damiano",
-   "title": "President",
-   "email": "andrea@lanshack.com",
+   "name": "Thomas Thoma",
+   "title": "（表内联系人）",
+   "email": "thomas.thoma@art2soft.eu",
    "phone": "",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
+   "source": "用户表"
   }
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照核对 + 表内）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "legal_name": "Tecra Tools, Inc. (LANshack)",
-  "founded": "（待核）",
-  "hq": "USA（宾州 / 新泽西，待核）",
-  "size": "中小型制造 + 电商",
-  "other": "在售 E-wind MC / 交换机"
+  "hq": "塞浦路斯",
+  "other": "官网 art2soft.eu，语言 en-US，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "光纤 / 铜缆组件制造",
-  "网络有源设备电商（E-wind 等）"
+  "无线网络产品分销"
  ],
  "channels": {
-  "role": "制造商 + 电商（已售中国同行）",
-  "region": "美国"
+  "role": "无线产品分销商（塞浦路斯，500+ 经销商）",
+  "region": "塞浦路斯",
+  "contact": "thomas.thoma@art2soft.eu"
  },
  "signals": [
-  "已售 E-wind → 同类替换（MC / 工业 FS）",
-  "President 具名"
+  "首页：We serve over 500 resellers all over Cyprus ; 500+ ; 2000+ ; 10000+",
+  "站内品牌 Ubiquiti / Ruijie / TP-Link / MikroTik / Cambium"
  ],
  "risks": [
-  "美国：零售 / 项目常要求 UL 列名（Saga 无 UL，仅 FCC/CE）→ 首触即说明",
-  "19 次群发无回复"
+  "小国市场（塞浦路斯）量有限；Ubiquiti/MikroTik 自带交换机线",
+  "6 次无回复 → 改向 Thomas 具名首触"
  ],
  "saga_fit": {
-  "p1": "STI-110GE",
+  "p1": "STC-28DGGPM",
   "tier": 20,
-  "why": "对位 E-wind 工业 MC → STI-110GE（$22.4 @20%）；工业 FS STI-288GP。"
+  "why": "AP 配套 PoE 位 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；24 口位 STC-424DGGPM-280W；2.5G 口型 Saga 待核"
  },
- "email_hook": "Andrea, beside the E-wind converters on lanshack.com — our DIN gigabit MC is $22.4 and the 2-SFP + 8-PoE industrial $57 EXW (FCC/CE, no UL listing); would a 2-piece sample help you compare build quality?",
+ "email_hook": "Thomas, for the PoE switches your 500+ resellers pair with Ubiquiti, Ruijie and Cambium access points, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ model and 24-PoE + 4 SFP from small lots, CE/RoHS, EXW USD — which size do they order most?",
  "mail_review": {
   "binding": {
-   "level": "未触达（A/S 邮箱 29 封 2024→2026，无记录打开，0 回；收件 andrea@lanshack.com, sales@lanshack.com；主题多为「Marvell Industrial Alert System、10G Enterprise SFP Switch」；Elsa 箱：`to:lanshack.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 29 / 来 0）（第 74 批(h)））",
-   "type": "—",
+   "level": "未触达（A 邮箱 10 封 2025→2026，无记录打开，0 回；收件 thomas.thoma@art2soft.eu；主题多为「Marvell Alleycat5 Solution、8 Port Industrial PoE Switch」；Elsa 箱：`to:art2soft.eu` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 10 / 来 0）（第 74 批(k)））",
+   "type": "无线产品分销商（塞浦路斯，500+ 经销商）",
    "sieve": "1（只收到群发）",
-   "stop": "29 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
-   "lane": "US 主攻（四主）",
-   "cadence": "一封",
-   "evidence": "gmail_digest：out 29；用户表：「兴趣：Ewind产品较多」；研究档 risks：美国：零售 / 项目常要求 UL 列名（Saga 无 UL，仅 FCC/CE）→ 首触即说明"
+   "stop": "10 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "塞浦路斯（欧洲全域主攻）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 10；用户表：「分销商」；研究档 risks：小国市场（塞浦路斯）量有限；Ubiquiti/MikroTik 自带交换机线"
   },
-  "situation": "美国光纤 / 铜缆组件制造与网店（ISO 9001；sfp 1028 / poe 239 / industrial 180 / media converter 99），President Andrea Damiano；表内「E-wind 产品较多」（在售中国同行 E-wind 的 MC / 交换机）；群发 19 次无回复。",
-  "need": "对位 E-wind 工业 MC → STI-110GE（$22.4 @20%）；工业 FS STI-288GP。",
-  "breakpoint": "美国：零售 / 项目常要求 UL 列名（Saga 无 UL，仅 FCC/CE）→ 首触即说明",
+  "situation": "塞浦路斯 A.K. ART2SOFT Ltd（「Your wireless partner」：服务全塞浦路斯 500+ 经销商的无线分销商，Ubiquiti / Ruijie / TP-Link / MikroTik / Cambium；表内「分销商」；KP Thomas Thoma（thomas.thoma@））；群发 6 次无回复。",
+  "need": "AP 配套 PoE 位 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；24 口位 STC-424DGGPM-280W；2.5G 口型 Saga 待核",
+  "breakpoint": "小国市场（塞浦路斯）量有限；Ubiquiti/MikroTik 自带交换机线",
   "saga_now": {
-   "p1": "STI-110GE",
+   "p1": "STC-28DGGPM",
    "tier": 20,
-   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-24 $220（48 port managed switch）、2024-12-19 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-08-20 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-03 $280（10G Enterprise SFP Switch）",
-   "why": "对位 E-wind 工业 MC → STI-110GE（$22.4 @20%）；工业 FS STI-288GP。",
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-08-15 $300（48 Port PoE Managed Switch）、2025-09-19 $240（24 Port Fiber Switch）",
+   "why": "AP 配套 PoE 位 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；24 口位 STC-424DGGPM-280W；2.5G 口型 Saga 待核",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "2027-Q1（换人后）",
-   "channel": "A 邮箱 → 具名 KP",
-   "action": "换收件人再发一封（第 75 批(v) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
-   "one_question": "Andrea, beside the E-wind converters on lanshack.com — our DIN gigabit MC is $22.4 and the 2-SFP + 8-PoE industrial $57 EXW (FCC/CE, no UL listing); would a 2-piece sample help you compare build quality?"
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Thomas, for the PoE switches your 500+ resellers pair with Ubiquiti, Ruijie and Cambium access points, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ model and 24-PoE + 4 SFP from small lots, CE/RoHS, EXW USD — which size do they order most?"
   },
   "facts": [
    {
-    "date": "2026-09-17",
+    "date": "2026-02-26",
     "dir": "去",
-    "who": "A/S 群发",
-    "quote": "Marvell Industrial Alert System、10G Enterprise SFP Switch",
-    "why": "29 封 / 0 次打开 / 0 回｜首封 2024-06-20 → 末封 2026-09-17（29 去 / 0 来）",
+    "who": "A 群发",
+    "quote": "Marvell Alleycat5 Solution、8 Port Industrial PoE Switch",
+    "why": "10 封 / 0 次打开 / 0 回｜首封 2025-05-02 → 末封 2026-02-26（10 去 / 0 来）",
     "k": "gmail_digest"
    },
    {
     "date": "2026-10-21",
     "dir": "用户表",
     "who": "Simon",
-    "quote": "兴趣：Ewind产品较多",
+    "quote": "分销商",
     "why": "表内备注",
     "k": "用户表"
-   },
-   {
-    "date": "2026-09-17",
-    "dir": "去",
-    "who": "A 箱（Alan）",
-    "quote": "16 Port Industrial PoE Switch",
-    "why": "本日去信真实主题（邮箱索引 e80448ad9eb1c719；信稿开头句引用此封；此前稿内写的「Marvell Industrial Alert System」是线程列表首题，不是本封）",
-    "k": "e80448ad9eb1c719"
    }
   ],
   "proof_gaps": [],
-  "draft_en": {
-   "subject": "Beside the E-wind converters on lanshack.com - two numbers and a 2-piece sample",
-   "body": "Hi Andrea,\n\nOver the past months you had a few product mails from us - most recently \"16 Port Industrial PoE Switch\" on 17 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nBeside the E-wind converters and switches on lanshack.com, at distributor price, EXW, MOQ 1, 15-day validity: industrial Gigabit media converter, DIN-rail, 1 x RJ45 + 1 x SFP slot, -40 to 75 C - model STI-110GE - $26.5 USD; industrial 8 x Gigabit PoE+ + 2 x SFP unmanaged - STI-288GP - $60. FCC/CE/RoHS, no UL listing - said up front. Samples are paid at the same price.\n\nOne question: would a 2-piece sample help you compare build quality against the E-wind units you already stock?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
-  },
+  "draft_en": null,
   "as_of": "2026-10-24"
  }
 }

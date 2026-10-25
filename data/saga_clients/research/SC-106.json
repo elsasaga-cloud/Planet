@@ -1,0 +1,66 @@
+{
+ "code": "SC-106",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（phicus.es，快照 2026-10-21）",
+ "summary": "西班牙 Phicus Tecnología（面向电信运营商的 GPON/DOCSIS/WiMAX 网络供给与监控软件及工程；KP Ignacio Sebastián（CEO）；表内「Networking」）；表内 4 次跟进无回复。",
+ "type": "运营商网络软件/工程公司（软件品类）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Phicus Tecnología - Software de aprovisionamiento y monitoreo de redes；品类词 电信 / FTTH / ISP 设备",
+   "quote": "Servicios avanzados para operadores de telecomunicación que hacen crecer su negocio",
+   "url": "https://phicus.es/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "Networking",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Phicus 定位",
+   "quote": "Phicus Tecnología - Software de aprovisionamiento y monitoreo de redes ; Ingeniería para redes GPON, DOCSIS y WiMAX",
+   "url": "https://phicus.es/",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "软件/工程服务公司（不经销硬件）；c_sub=品类不符（软件）",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "西班牙",
+  "other": "官网 phicus.es，语言 es-ES，快照状态 ok；角色判定来源：表内早期 AI 描述"
+ },
+ "business_lines": [
+  "运营商网络软件 / 工程（西班牙）"
+ ],
+ "channels": {
+  "role": "运营商网络软件/工程公司（软件品类）",
+  "region": "西班牙",
+  "contact": "phicus@phicus.es、irojo@phicus.es"
+ },
+ "signals": [
+  "官网：Phicus Tecnología - Software de aprovisionamiento y monitoreo de redes ; Ingeniería para redes GPON, DOCSIS y WiMAX",
+  "表内：Networking；KP Ignacio Sebastian / CEO"
+ ],
+ "risks": [
+  "品类不符：运营商网络软件与工程服务；4 次无回复"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 25,
+  "why": "网络供给/监控软件公司（不经销硬件）→ 改 C（品类不符）"
+ },
+ "email_hook": "（不发送：软件公司）"
+}

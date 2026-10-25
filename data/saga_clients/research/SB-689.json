@@ -1,129 +1,195 @@
 {
- "code": "SB-689",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（biges.com，快照 2026-10-21）",
- "summary": "土耳其 Biges（家庭与商用摄像安防/报警系统、报警监控服务；自有品牌 VGuard、Bullwark；DVR/IP 摄像机、无线与光纤方案；Bosch；KP Erdal Gökşen）；表内 1 次跟进无回复。",
- "type": "安防分销商（土耳其，自有品牌 VGuard/Bullwark）",
- "size": "",
- "brands_seen": [
-  "Bosch",
-  "VGuard",
-  "Bullwark"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：Biges",
-   "quote": "Ev ve İşyeri için kamera güvenlik alarm sistemleri ve hırsız alarm sistemleri, alarm izleme hizmeti. güvenlik kameraları, DVR kayıt cihazları, IP kamera, kablosuz ve fiber optik çözümleri. VGuard, Bullwark, Pinetron, Bosch Türkiye distribüt",
-   "url": "https://biges.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "Biges 定位",
-   "quote": "Biges ; kamera güvenlik alarm sistemleri ve hırsız alarm sistemleri, alarm izleme hizmeti ; VGuard, Bul…",
-   "url": "https://biges.com/",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Erdal Gökşen",
-   "title": "（职务待核）",
-   "email": "erdal.goksen@biges.com",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "土耳其",
-  "other": "官网 biges.com，语言 ?，快照状态 ok；角色判定来源：官网文案"
- },
- "business_lines": [
-  "安防摄像 / 报警 / 报警监控（自有品牌 VGuard / Bullwark）"
- ],
- "channels": {
-  "role": "安防分销商（土耳其，自有品牌 VGuard/Bullwark）",
-  "region": "土耳其",
-  "contact": "erdal.goksen@biges.com"
- },
- "signals": [
-  "官网：Ev ve İşyeri için kamera güvenlik alarm sistemleri ve hırsız alarm sistemleri, alarm izleme hizmeti. güvenlik kameraları, DVR kayıt cihazları, IP kamera, kablosuz ve fiber optik çözümleri. VGuard, Bul…；页面 /urunler/OD912、/urunler/VP228TE；brands Bosch",
-  "KP Erdal（erdal.goksen@biges.com）（表内）"
- ],
- "risks": [
-  "体量：Biges 为土耳其大型安防分销商（既有 ODM 供应链、采购流程长）；土耳其汇率敏感；1 次无回复"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 30,
-  "why": "自有品牌配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 口 STC-424DGGPM-280W（$145.7）贴 VGuard/Bullwark 标；非管理 4/8/16 PoE 位 HRUI（列表价，注明）"
- },
- "email_hook": "Erdal, for the PoE switches sold under the VGuard and Bullwark labels, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE 280 W, 802.3bt options) in your packaging from small lots, CE/RoHS — which PoE SKU do your dealers reorder most with camera kits?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A 邮箱 5 封 2025→2026，无记录打开，0 回；收件 erdal.goksen@biges.com；主题多为「10G Enterprise SFP Switch、Booster PoE Switch」；Elsa 箱：`to:biges.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 5 / 来 0）（第 74 批(i)））",
-   "type": "安防分销商（土耳其，自有品牌 VGuard/Bullwark）",
-   "sieve": "1（只收到群发）",
-   "stop": "5 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "TR 主攻（四主）",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 5；研究档 risks：体量：Biges 为土耳其大型安防分销商（既有 ODM 供应链、采购流程长）；土耳其汇率敏感；1 次无回复"
-  },
-  "situation": "土耳其 Biges（家庭与商用摄像安防/报警系统、报警监控服务；自有品牌 VGuard、Bullwark；DVR/IP 摄像机、无线与光纤方案；Bosch；KP Erdal Gökşen）；表内 1 次跟进无回复。",
-  "need": "自有品牌配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 口 STC-424DGGPM-280W（$145.7）贴 VGuard/Bullwark 标；非管理 4/8/16 PoE 位 HRUI（列表价，注明）",
-  "breakpoint": "体量：Biges 为土耳其大型安防分销商（既有 ODM 供应链、采购流程长）；土耳其汇率敏感；1 次无回复",
-  "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 30,
-   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-30 $280（10G Enterprise SFP Switch）",
-   "why": "自有品牌配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 口 STC-424DGGPM-280W（$145.7）贴 VGuard/Bullwark 标；非管理 4/8/16 PoE 位 HRUI（列表价，注明）",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
-   "one_question": "Erdal, for the PoE switches sold under the VGuard and Bullwark labels, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE 280 W, 802.3bt options) in your packaging from small lots, CE/RoHS — which PoE SKU do your dealers reorder most with camera kits?"
-  },
-  "facts": [
-   {
-    "date": "2025-10-30",
-    "dir": "去",
-    "who": "A 箱（Alan）",
-    "quote": "10G Enterprise SFP Switch",
-    "why": "首封去信（邮箱索引；去信共 5 封）",
-    "k": "78be6cf1e8de588c"
-   },
-   {
-    "date": "2026-03-11",
-    "dir": "去",
-    "who": "A 群发",
-    "quote": "10G Enterprise SFP Switch、Booster PoE Switch",
-    "why": "5 封 / 0 次打开 / 0 回｜首封 2025-10-30 → 末封 2026-03-11（5 去 / 0 来）",
-    "k": "gmail_digest"
-   },
-   {
-    "date": "2026-03-11",
-    "dir": "去",
-    "who": "A 箱（Alan）",
-    "quote": "Updated Ethernet Switches Links",
-    "why": "最近一封去信（邮箱索引；去信共 5 封）",
-    "k": "3a44944f9d39651b"
-   }
+  "code": "SB-689",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（tiscontrol.com，快照 2026-10-21）",
+  "summary": "阿曼 TIS Control（智能家居/酒店自动化品牌，有线 + 无线全屋自动化产品，经销商登录/培训体系；阿里巴巴询盘「导轨式 PoE 管理/非管理」；KP Mr. Mamunur Rashid（mkseoman.com，+968 942 57595））；表内 1 次跟进无回复。",
+  "type": "智能家居/酒店自动化品牌（阿曼，PoE 配套外采）",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：Smart Home Automation | Hotel Automation System | TIS；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 布线 / 线缆 / 网络交换 / PoE",
+      "quote": "We provide wired and wireless full home automation products that bring affordable elegance into your smart home and Hotel. Visit our website to know more about our products.",
+      "url": "https://www.tiscontrol.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "导轨式PoE 管理非管理；968 942 57595；导轨式PoE 管理非管理 / from: 阿里巴巴询盘",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "TIS 智能家居与酒店自动化",
+      "quote": "We provide wired and wireless full home automation products that bring affordable elegance into your smart home and Hotel.",
+      "url": "https://www.tiscontrol.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "导轨式 PoE 管理/非管理（阿里巴巴询盘）",
+      "quote": "导轨式PoE 管理非管理 / from: 阿里巴巴询盘",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "kp": [
+    {
+      "name": "Mamunur Rashid",
+      "title": "（阿里巴巴询盘联系人）",
+      "email": "mamun@mkseoman.com",
+      "phone": "",
+      "source": "用户表"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "阿曼",
+    "other": "官网 tiscontrol.com，语言 en，快照状态 ok；角色判定来源：官网文案"
+  },
+  "business_lines": [
+    "智能家居 / 酒店自动化产品（自有品牌）"
+  ],
+  "channels": {
+    "role": "智能家居/酒店自动化品牌（阿曼，PoE 配套外采）",
+    "region": "阿曼",
+    "contact": "mamun@mkseoman.com"
+  },
+  "signals": [
+    "表内：导轨式 PoE 管理非管理 / from: 阿里巴巴询盘；968 942 57595",
+    "官网：wired and wireless full home automation products … smart home and Hotel；页面 /en/bus_industrial.html、/en/air_acm_switch.html"
+  ],
+  "risks": [
+    "非主攻区（T5，阿曼）；KP 邮箱域为 mkseoman.com（经销/关联公司），身份待核",
+    "酒店/智能家居项目：PoE 为配套，量随项目波动"
+  ],
+  "saga_fit": {
+    "p1": "STI-288GPM",
+    "tier": 25,
+    "why": "询盘明确为导轨式 PoE 管理/非管理 → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）+ 非管理 STI-288GP（$59.8）配对报价，配套其总线/门禁面板"
+  },
+  "email_hook": "Mr. Rashid, following your enquiry on DIN-rail PoE switches: we supply 8-PoE + 2 SFP units in both managed and unmanaged (managed on Marvell L2+) versions (−40~75 °C, 12–58 VDC, CE/RoHS, neutral or TIS label) from small lots — roughly how many units per project do your hotel installations need?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A/S 邮箱 7 封 2025，无记录打开，0 回；收件 mamun@mkseoman.com；主题多为「Mini Industrial PoE Switch、8 Port Industrial PoE Switch」）；Elsa 1:1 去信 7 轮 2025-10-09→2026-08-05（To 仅本户 mamun@mkseoman.com；头 msg 19fd0a67e7e986b6 核对无 Bcc，称呼「Hi, Mr.Mamunur」= 个性化逐月 1:1 名单（名字可来自名单，不等于回过信）；主题 Updated Ethernet Switches Links、Marvell Managed Commercial Switches、Industrial PoE Switch、24 Port PoE Managed Switch…；0 回（Elsa 箱 Replied 索引 + 第 73 批真人来信逐户比对均无此户）；S/A digest 看不到 Elsa 的去信，之前据此写的「未触达」是 S/A 口径）（第 74 批(n) `from:e.sagatelecom to:tiscontrol.com OR to:mkseoman.com` 全程 complete，直收 7 条、无 Re: 行）",
+      "type": "智能家居/酒店自动化品牌（阿曼，PoE 配套外采）",
+      "sieve": "1（只收到群发）",
+      "stop": "7 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+      "revive": "保持季度群发到 2027-Q1；无打开即停",
+      "lane": "阿曼 非主攻",
+      "cadence": "季度",
+      "evidence": "gmail_digest：out 7；用户表：「导轨式PoE 管理非管理；968 942 57595；导轨式PoE 管理非管理 / from: 阿里巴巴询盘」；研究档 risks：非主攻区（T5，阿曼）；KP 邮箱域为 mkseoman.com（经销/关联公司），身份待核"
+    },
+    "situation": "阿曼 TIS Control（智能家居/酒店自动化品牌，有线 + 无线全屋自动化产品，经销商登录/培训体系；阿里巴巴询盘「导轨式 PoE 管理/非管理」；KP Mr. Mamunur Rashid（mkseoman.com，+968 942 57595））；表内 1 次跟进无回复。",
+    "need": "询盘明确为导轨式 PoE 管理/非管理 → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）+ 非管理 STI-288GP（$59.8）配对报价，配套其总线/门禁面板",
+    "breakpoint": "非主攻区（T5，阿曼）；KP 邮箱域为 mkseoman.com（经销/关联公司），身份待核",
+    "saga_now": {
+      "p1": "STI-288GPM",
+      "tier": 25,
+      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-06-05 $300（48 Port PoE Managed Switch）、2025-09-09 $240（24 Port Fiber Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-10-09 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2025-10-09；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-08-05 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-05；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
+      "why": "询盘明确为导轨式 PoE 管理/非管理 → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）+ 非管理 STI-288GP（$59.8）配对报价，配套其总线/门禁面板",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "群发节奏",
+      "channel": "A 邮箱",
+      "action": "首封前知悉：Elsa 已 1:1 去信 7 轮（2025-10-09→2026-08-05，0 回）（第 74 批(n)）；观察打开",
+      "one_question": "Mr. Rashid, following your enquiry on DIN-rail PoE switches: we supply 8-PoE + 2 SFP units in both managed and unmanaged (managed on Marvell L2+) versions (−40~75 °C, 12–58 VDC, CE/RoHS, neutral or TIS label) from small lots — roughly how many units per project do your hotel installations need?"
+    },
+    "facts": [
+      {
+        "date": "2025-09-09",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "Mini Industrial PoE Switch、8 Port Industrial PoE Switch",
+        "why": "7 封 / 0 次打开 / 0 回｜首封 2025-01-08 → 末封 2025-09-09（7 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
+        "date": "2025-10-09",
+        "dir": "out",
+        "who": "Elsa → mamun@mkseoman.com",
+        "quote": "10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 1/7 轮；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:tiscontrol.com OR to:mkseoman.com` 全程 complete：7 轮直收（头 msg 19fd0a67e7e986b6 无 Bcc，称呼「Hi, Mr.Mamunur」）；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "199c7f705a409824"
+      },
+      {
+        "date": "2025-12-03",
+        "dir": "out",
+        "who": "Elsa → mamun@mkseoman.com",
+        "quote": "Booster PoE Switch（Elsa 1:1 逐月名单第 2/7 轮；To 仅本户）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:tiscontrol.com OR to:mkseoman.com` 全程 complete：7 轮直收（头 msg 19fd0a67e7e986b6 无 Bcc，称呼「Hi, Mr.Mamunur」）；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "19ae3b9ddb47d491"
+      },
+      {
+        "date": "2026-01-01",
+        "dir": "out",
+        "who": "Elsa → mamun@mkseoman.com",
+        "quote": "Marvell Industrial Alert System（Elsa 1:1 逐月名单第 3/7 轮；To 仅本户）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:tiscontrol.com OR to:mkseoman.com` 全程 complete：7 轮直收（头 msg 19fd0a67e7e986b6 无 Bcc，称呼「Hi, Mr.Mamunur」）；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "19b7936e75c035e4"
+      },
+      {
+        "date": "2026-02-16",
+        "dir": "out",
+        "who": "Elsa → mamun@mkseoman.com",
+        "quote": "Updated Ethernet Switches Links（Elsa 1:1 逐月名单第 4/7 轮；To 仅本户）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:tiscontrol.com OR to:mkseoman.com` 全程 complete：7 轮直收（头 msg 19fd0a67e7e986b6 无 Bcc，称呼「Hi, Mr.Mamunur」）；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "19c65ad93717ea5d"
+      },
+      {
+        "date": "2026-03-23",
+        "dir": "out",
+        "who": "Elsa → mamun@mkseoman.com",
+        "quote": "Marvell Managed Commercial Switches（Elsa 1:1 逐月名单第 5/7 轮；To 仅本户）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:tiscontrol.com OR to:mkseoman.com` 全程 complete：7 轮直收（头 msg 19fd0a67e7e986b6 无 Bcc，称呼「Hi, Mr.Mamunur」）；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "19d19b539fd05706"
+      },
+      {
+        "date": "2026-05-04",
+        "dir": "out",
+        "who": "Elsa → mamun@mkseoman.com",
+        "quote": "Industrial PoE Switch（Elsa 1:1 逐月名单第 6/7 轮；To 仅本户）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:tiscontrol.com OR to:mkseoman.com` 全程 complete：7 轮直收（头 msg 19fd0a67e7e986b6 无 Bcc，称呼「Hi, Mr.Mamunur」）；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "19df1a4c3fc66eab"
+      },
+      {
+        "date": "2026-08-05",
+        "dir": "out",
+        "who": "Elsa → mamun@mkseoman.com",
+        "quote": "24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 7/7 轮；To 仅本户；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:tiscontrol.com OR to:mkseoman.com` 全程 complete：7 轮直收（头 msg 19fd0a67e7e986b6 无 Bcc，称呼「Hi, Mr.Mamunur」）；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "19fd0a67e7e986b6"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "导轨式PoE 管理非管理；968 942 57595；导轨式PoE 管理非管理 / from: 阿里巴巴询盘",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

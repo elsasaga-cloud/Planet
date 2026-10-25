@@ -1,136 +1,136 @@
 {
- "code": "SB-963",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（o-tc.co.uk，快照 2026-10-21）",
- "summary": "英国 Omond-Tong Consultancy Ltd（O-TC：Eplan P8 电气设计服务与自动化咨询，Siemens 自动化与 IoT 方案、培训；表内询盘「2 个 24V 百兆工业 MC FC/SC」；KP Martin Omond Tong；电话加不上；「可以多跟进一下」）；群发 18 次无回复。",
- "type": "电气设计/自动化咨询（英国，工业 MC 小量询盘）",
- "size": "",
- "brands_seen": [
-  "Siemens"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：Electrical Design using Eplan P8 2024 - Omond-Tong Consultancy Ltd；品类词 工业自动化 / OT 网络 / 无线 / WiFi / 网络交换 / PoE",
-   "quote": "O-TC Ltd provide electrical design services and solutions to companies requiring Eplan P8 expertise when changing from other Electrical CAD systems",
-   "url": "https://www.o-tc.co.uk/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "2个 24V百兆工业MC FC/SC；44-1507-311002 加不上",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "O-TC 定位",
-   "quote": "Electrical Design using Eplan P8 2024 - Omond-Tong Consultancy Ltd ; O-TC Ltd provide electrical design services and solutions to companies requiring Eplan P8 expertise",
-   "url": "https://www.o-tc.co.uk/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "24V 百兆工业 MC ×2",
-   "quote": "2个 24V百兆工业MC FC/SC；44-1507-311002 加不上",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Martin Omond Tong",
-   "title": "（负责人）",
-   "email": "martin@o-tc.co.uk",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "英国",
-  "other": "官网 o-tc.co.uk，语言 en，快照状态 ok；角色判定来源：官网文案"
- },
- "business_lines": [
-  "Eplan 电气设计 / 自动化咨询（英国）"
- ],
- "channels": {
-  "role": "电气设计/自动化咨询（英国，工业 MC 小量询盘）",
-  "region": "英国",
-  "contact": "martin@o-tc.co.uk"
- },
- "signals": [
-  "官网：O-TC Ltd provide electrical design services and solutions to companies requiring Eplan P8 expertise；首页 Automation Consultancy ; Siemens Automation & IOT Solutions；kw automation 71",
-  "表内：2 个 24V 百兆工业 MC FC/SC；44-1507-311002 加不上；KP Martin Omond Tong；可以多跟进一下"
- ],
- "risks": [
-  "小型咨询公司、询盘仅 2 台（低量）；FC 口型 Saga 列表无（注明）；18 次无回复、电话不通"
- ],
- "saga_fit": {
-  "p1": "STI-110FE",
-  "tier": 25,
-  "why": "询盘 2 台 24 V 百兆工业 MC（FC/SC）→ 工业 FE MC STI-110FE（$20.6 @25%，SFP/SC 口——FC 口型待核，注明）；千兆版 STI-110GE（$23.4）"
- },
- "email_hook": "Martin, regarding the two 24 V industrial fast-Ethernet media converters: we supply DIN-rail FE and gigabit MCs (12–57 V input, −40~75 °C, SC/SFP fibre ports, UKCA/CE/RoHS) from single units, EXW USD — is an SC-connector unit acceptable, or must it be FC?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A/S 邮箱 27 封 2024→2026，1 次记录打开，0 回；收件 martin@o-tc.co.uk；主题多为「Managed Optical Bypass Switch、Industrial PoE Switch」；Elsa 箱：`to:.uk` 穷举 34 条（2026-10-25，锚批 Bcc 头已读）未见 o-tc.co.uk → Elsa 箱从未发过本户，往来只在 S/A 箱（去 27 / 来 0）（第 74 批(f)））",
-   "type": "电气设计/自动化咨询（英国，工业 MC 小量询盘）",
-   "sieve": "1~2（1 次打开）",
-   "stop": "27 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
-   "lane": "UK 主攻（四主）",
-   "cadence": "一封",
-   "evidence": "gmail_digest：out 27，Opened 标签 1（Simon 群发追踪）；用户表：「2个 24V百兆工业MC FC/SC；44-1507-311002 加不上」；研究档 risks：小型咨询公司、询盘仅 2 台（低量）；FC 口型 Saga 列表无（注明）；18 次无回复、电话不通"
-  },
-  "situation": "英国 Omond-Tong Consultancy Ltd（O-TC：Eplan P8 电气设计服务与自动化咨询，Siemens 自动化与 IoT 方案、培训；表内询盘「2 个 24V 百兆工业 MC FC/SC」；KP Martin Omond Tong；电话加不上；「可以多跟进一下」）；群发 18 次无回复。",
-  "need": "询盘 2 台 24 V 百兆工业 MC（FC/SC）→ 工业 FE MC STI-110FE（$20.6 @25%，SFP/SC 口——FC 口型待核，注明）；千兆版 STI-110GE（$23.4）",
-  "breakpoint": "小型咨询公司、询盘仅 2 台（低量）；FC 口型 Saga 列表无（注明）；18 次无回复、电话不通",
-  "saga_now": {
-   "p1": "STI-110FE",
-   "tier": 25,
-   "price": "换人再触锚价 STI-110FE $20.6 EXW（主表档位（无实报；PDF 上限 $23.1）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-30 $65（10G Media Converter）、2024-11-07 $300（48 Port PoE Managed Switch）、2025-02-06 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-08-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-09 $280（10G Enterprise SFP Switch）、2026-06-12 $16000（32 Port 400GB DC Switch）",
-   "why": "询盘 2 台 24 V 百兆工业 MC（FC/SC）→ 工业 FE MC STI-110FE（$20.6 @25%，SFP/SC 口——FC 口型待核，注明）；千兆版 STI-110GE（$23.4）。已打开的主题（1/27 封有打开记录）：「Marvell Industrial Alert System」(2025-12-12) → 读者兴趣偏「工业」；与 P1 同类，继续",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "2027-Q1（换人后）",
-   "channel": "A 邮箱 → 具名 KP",
-   "action": "换收件人再发一封（第 75 批(y) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用）；「欠答」开头（用户表询盘 2 台 24 V 百兆 MC）；FC 口型写 on request，发前核）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
-   "one_question": "Martin, regarding the two 24 V industrial fast-Ethernet media converters: we supply DIN-rail FE and gigabit MCs (12–57 V input, −40~75 °C, SC/SFP fibre ports, UKCA/CE/RoHS) from single units, EXW USD — is an SC-connector unit acceptable, or must it be FC? Reference: STI-110FE at $20.6 USD EXW (MOQ 1, 15-day validity)."
-  },
-  "facts": [
-   {
-    "date": "2026-08-28",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "Managed Optical Bypass Switch、Industrial PoE Switch",
-    "why": "27 封 / 1 次打开 / 0 回｜首封 2024-06-30 → 末封 2026-08-28（27 去 / 0 来）",
-    "k": "gmail_digest"
-   },
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "2个 24V百兆工业MC FC/SC；44-1507-311002 加不上",
-    "why": "表内备注",
-    "k": "用户表"
-   }
+  "code": "SB-963",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（unitelco.co.kr，快照 2026-10-21）",
+  "summary": "韩国 Unitelco（유니텔코；表内「看着很专业 像是光缆系统产品，也有 switch」「可以尝试多跟进一下」；官网快照乱码）；群发 23 次无回复。",
+  "type": "光缆系统/网络产品商（韩国）",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：�ֽ�ȸ�� ������",
+      "quote": "�����ڿ� ���Ű� ȯ���մϴ�",
+      "url": "http://unitelco.co.kr/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "看着很专业 像是光缆系统产品 也有switch 右图",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "光缆系统产品 也有 switch",
+      "quote": "看着很专业 像是光缆系统产品 也有switch 右图",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [],
-  "draft_en": {
-   "subject": "Your enquiry for two 24 V industrial Fast Ethernet media converters - the answer you did not get",
-   "body": "Hi Martin,\n\nYou asked us for two 24 V industrial Fast Ethernet media converters with FC/SC fibre ports and did not get a proper answer from us - apologies, here it is (the product mails you had since were general ones).\n\nDIN-rail industrial Fast Ethernet media converter, 1 x 10/100 RJ45 + 1 x 100M fibre, 12-58 V DC (24 V is fine), -40 to 75 C, UKCA/CE/RoHS - model STI-110FE - $20.6 USD EXW each (MOQ 1, 15-day validity); SC connector as standard, FC on request; the Gigabit version - STI-110GE - $26.5. Two units ship as a parcel by courier.\n\nOne question: is an SC-connector unit acceptable, or must it be FC - and single-mode or multimode?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+  "kp": [],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
   },
-  "as_of": "2026-10-24"
- }
+  "company_facts": {
+    "hq": "韩国",
+    "other": "官网 unitelco.co.kr，语言 ?，快照状态 ok；角色判定来源：待核"
+  },
+  "business_lines": [
+    "光缆系统 / 网络产品（韩国）"
+  ],
+  "channels": {
+    "role": "光缆系统/网络产品商（韩国）",
+    "region": "韩国",
+    "contact": "unitel@unitelco.co.kr"
+  },
+  "signals": [
+    "表内：看着很专业 像是光缆系统产品 也有 switch 右图；可以尝试多跟进一下",
+    "快照：标题乱码"
+  ],
+  "risks": [
+    "非主攻区（T5，韩国；KC 由客户侧）；官网快照乱码（业务待核）；23 次无回复，仅 unitel@"
+  ],
+  "saga_fit": {
+    "p1": "STI-110GE",
+    "tier": 20,
+    "why": "光缆系统配套有源 → 工业千兆 MC STI-110GE（$22.4 @20%）、工业 8 GE + 2 SFP STI-280GE（$46.6）、商用 24 GE + 4×10G STC-424XGGM（$127.4）"
+  },
+  "email_hook": "For the active side of your fibre cabling systems, we supply neutral-brand gigabit MCs and DIN-rail 8-GE + 2 SFP units and Marvell-based 24-GE + 4×10G managed switches from single units, CE/RoHS, EXW USD; KC by your side — which active SKU do your cabling projects need most?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A/S 邮箱 34 封 2024→2026，1 次记录打开，0 回；收件 unitel@unitelco.co.kr；主题多为「Industrial PoE Switch、Marvell Industrial Alert System」）；Elsa 1:1 去信 1 封（2025-02-28「Mini Industrial PoE Switch」；To 仅本户 unitel@unitelco.co.kr；头 msg 19fcbedfe7807ff7 核对无 Bcc，称呼「Hi, Faisal」= 个性化逐月 1:1 名单；此后再未进 Elsa 任何名单——全箱 `from:e.sagatelecom to:unitel@unitelco.co.kr` 仅此 1 条，complete）（第 74 批(m)）",
+      "type": "光缆系统/网络产品商（韩国）",
+      "sieve": "1~2（1 次打开）",
+      "stop": "34 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+      "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+      "lane": "KR 次级（点名）",
+      "cadence": "一封",
+      "evidence": "gmail_digest：out 34，Opened 标签 1（Simon 群发追踪）；用户表：「看着很专业 像是光缆系统产品 也有switch 右图」；研究档 risks：非主攻区（T5，韩国；KC 由客户侧）；官网快照乱码（业务待核）；23 次无回复，仅 unitel@"
+    },
+    "situation": "韩国 Unitelco（유니텔코；表内「看着很专业 像是光缆系统产品，也有 switch」「可以尝试多跟进一下」；官网快照乱码）；群发 23 次无回复。",
+    "need": "光缆系统配套有源 → 工业千兆 MC STI-110GE（$22.4 @20%）、工业 8 GE + 2 SFP STI-280GE（$46.6）、商用 24 GE + 4×10G STC-424XGGM（$127.4）",
+    "breakpoint": "非主攻区（T5，韩国；KC 由客户侧）；官网快照乱码（业务待核）；23 次无回复，仅 unitel@",
+    "saga_now": {
+      "p1": "STI-110GE",
+      "tier": 20,
+      "price": "换人再触锚价 STI-110GE $26.5 EXW（最近实报 SA-001 2025-11-27 $26.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-23 $220（48 port managed switch）、2024-08-21 $65（Media Converter）；群发里他已看到的价（续）：2026-07-29 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-08-28 $240（24 Port Fiber Switch）、2025-10-01 $280（10G Enterprise SFP Switch）、2026-06-11 $16000（32 Port 400GB DC Switch）",
+      "why": "光缆系统配套有源 → 工业千兆 MC STI-110GE（$22.4 @20%）、工业 8 GE + 2 SFP STI-280GE（$46.6）、商用 24 GE + 4×10G STC-424XGGM（$127.4）。已打开的主题（1/34 封有打开记录）：「16 Port Ethernet Switch」(2024-12-18) → 读者兴趣偏「其他」；当前 P1 属「10G 汇聚/L3」，下一封按「其他」给，不按 P1",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "2027-Q1（换人后）",
+      "channel": "A 邮箱 → 具名 KP",
+      "action": "首封前知悉：Elsa 仅 2025-02-28 单发过 1 封「Mini Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(ad) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用；KC stays on your side））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
+      "one_question": "For the active side of your fibre cabling systems, we supply neutral-brand gigabit MCs and DIN-rail 8-GE + 2 SFP units and Marvell-based 24-GE + 4×10G managed switches from single units, CE/RoHS, EXW USD; KC by your side — which active SKU do your cabling projects need most? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
+    },
+    "facts": [
+      {
+        "date": "2025-02-28",
+        "dir": "out",
+        "who": "Elsa → unitel@unitelco.co.kr",
+        "quote": "Mini Industrial PoE Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+        "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
+        "k": "elsa_1to1",
+        "msg_id": "1954a114336a2462"
+      },
+      {
+        "date": "2026-09-17",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "Industrial PoE Switch、Marvell Industrial Alert System",
+        "why": "34 封 / 1 次打开 / 0 回｜首封 2024-06-21 → 末封 2026-09-17（34 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "看着很专业 像是光缆系统产品 也有switch 右图",
+        "why": "表内备注",
+        "k": "用户表"
+      },
+      {
+        "date": "2026-09-17",
+        "dir": "去",
+        "who": "A 箱（Alan）",
+        "quote": "16 Port Industrial PoE Switch",
+        "why": "本日去信真实主题（邮箱索引 a8ecddf58d14e308；信稿开头句引用此封；此前稿内写的「Industrial PoE Switch」是线程列表首题，不是本封）",
+        "k": "a8ecddf58d14e308"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": {
+      "subject": "The active side of your fibre cabling systems - converter, DIN switch, 24-port aggregation",
+      "body": "Hello Unitelco team,\n\nWe wrote to you once in February 2025 about a mini industrial switch, and since then only general product mails - most recently \"16 Port Industrial PoE Switch\" on 17 September 2026 - none of which needed an answer. This one is specific.\n\nFor the active side of your fibre cabling systems, neutral-brand units at distributor price, EXW, from single pieces, 15-day validity, CE/RoHS: industrial Gigabit media converter, 1 x RJ45 + 1 x SFP slot - model STI-110GE - $26.5 USD; DIN-rail 8 x Gigabit + 2 x SFP unmanaged, -40 to 75 C - STI-280GE - $46; 24 x Gigabit + 4 x 10G SFP+, L2+ managed, Marvell-based - STC-424XGGM - $127.4. KC stays on your side.\n\nOne question: which active SKU do your cabling projects need most - the converter at the building end, or the 24-port in the rack?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+    },
+    "as_of": "2026-10-24"
+  }
 }

@@ -1,146 +1,136 @@
 {
   "code": "SB-487",
-  "name_official": "Công ty TNHH Công Nghệ Quang Lâm（Quang Lam Technology，胡志明市）",
+  "name_official": "",
   "researched_at": "2026-10-21",
-  "website_status": "在线（quanglam.com.vn / wintop.com.vn，快照 2026-10-21，越南语）",
-  "summary": "胡志明市（+84 28 3831 3119）光通信设备分销与制造商：自产跳线 / 尾纤 / ODF，分销 SFP/SFP+/XFP/QSFP 光模块、GPON OLT/ONU、工具、交换机（SFP 词频 262、PoE 170、switch 144、industrial 33；MikroTik），CEO Hồ Lâm；表内：AOA 的工业 FS 较多，**有自己的 logo**（MC / VC / FS / 周边）→ OEM 30%。",
-  "type": "",
+  "website_status": "快照失败（timeout）",
+  "summary": "俄罗斯 НПО Телеком / NPO Telecom（电信设备企业；表内「比较重要 Mikhail Afonin」、有回复；KP Mikhail Afonin、Rashid Abdullin（Sales and Marketing Specialist）；兴趣 Switch；官网 timeout）；群发 17 次，有回复。",
+  "type": "电信设备企业（俄罗斯，有回复，用户标重要）",
   "size": "",
-  "brands_seen": [
-    "AOA",
-    "MikroTik",
-    "Wintop（自有）"
-  ],
+  "brands_seen": [],
   "evidence": [
     {
-      "kind": "官网快照",
-      "claim": "光设备分销；自产跳线 / ODF；分销 SFP/SFP+/XFP/GBIC/QSFP、GPON OLT/ONU、施工工具；关键词 sfp 262 / poe 170 / switch 144 / industrial 33",
-      "quote": "Phân phối Thiết bị quang. Sản xuất Dây nhảy, dây nối quang, Hộp ODF. Phân phối Module quang SFP, SFP+, XFP, GBIC, QSFP,...Thiết bị GPON OLT, ONU",
-      "url": "https://quanglam.com.vn/",
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "Switch",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
       "date": "2026-10-21"
     },
     {
       "kind": "用户表",
-      "claim": "工业交换机；AOA 的工业 FS 比较多，有自己的 logo MC VC FS 周边产品",
-      "quote": "兴趣：工业交换机;AOA的工业FS比较多 有自己的logo MC VC FS 周边产品",
+      "claim": "比较重要；有回复",
+      "quote": "比较重要 Mikhail Afonin；Switch",
       "url": "（本地 Clients/ 表格，无公开 URL）",
       "date": "2026-10-21"
     }
   ],
   "kp": [
     {
-      "name": "Hồ Lâm (Ho Lam)",
-      "title": "CEO",
-      "email": "lamho@quanglam.com.vn",
-      "phone": "+84 908 505 685",
-      "source": "（本地 Clients/ 表格，无公开 URL）"
+      "name": "Mikhail Afonin",
+      "title": "（职务待核）",
+      "email": "afonin@npotelecom.ru",
+      "phone": "",
+      "source": "用户表"
+    },
+    {
+      "name": "Rashid Abdullin",
+      "title": "Sales and Marketing Specialist",
+      "email": "sale@npotelecom.ru",
+      "phone": "",
+      "source": "用户表"
     }
   ],
   "grade_override": null,
   "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
   "deep": {
     "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（官网快照核对：自有品牌 OEM）"
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
   },
   "company_facts": {
-    "legal_name": "Công ty TNHH Công Nghệ Quang Lâm",
-    "founded": "（待核）",
-    "hq": "Ho Chi Minh City, Vietnam",
-    "size": "中小型光通信分销 + 自产无源",
-    "other": "自有品牌（wintop.com.vn）"
+    "hq": "俄罗斯",
+    "other": "官网 npotelecom.ru，语言 ?，快照状态 timeout；角色判定来源：待核"
   },
   "business_lines": [
-    "光模块 / GPON / 无源器件分销与自产",
-    "工业 / 商用交换机、MC（AOA 代工贴牌）"
-  ],
-  "products_seen": [
-    {
-      "brand": "Wintop/Quang Lam（AOA 代工）",
-      "model": "工业 FS 系列",
-      "spec": "工业光纤交换机",
-      "saga": "Saga STI-288GP / STI-244GP 同规格替换",
-      "url": "https://quanglam.com.vn/",
-      "date": "2026-10-21"
-    }
+    "电信设备（俄罗斯）"
   ],
   "channels": {
-    "role": "分销商 + 自有品牌（OEM 采购）",
-    "region": "越南"
+    "role": "电信设备企业（俄罗斯，有回复，用户标重要）",
+    "region": "俄罗斯",
+    "contact": "sale@npotelecom.ru、afonin@npotelecom.ru"
   },
   "signals": [
-    "自有 logo 的 MC / FS 线 → OEM 30% 对象",
-    "现供应商 AOA → Marvell 管理型差异化"
+    "表内：Switch；比较重要 Mikhail Afonin；Rashid Abdullin / Sales and Marketing Specialist；有回复",
+    "快照：timeout"
   ],
   "risks": [
-    "越南低价市场、AOA 价格基准低",
-    "SFP 为其主业（Saga 无）"
+    "有回复——沟通内容在 Gmail 待核（续谈勿重复首触）；用户标「比较重要」；俄罗斯：结算/物流/合规风险；官网 timeout"
   ],
   "saga_fit": {
-    "p1": "STI-288GP",
+    "p1": "STC-28DGGPM",
     "tier": 30,
-    "why": "自有 logo 工业 FS → STI-288GP（$62.2 @30%）贴牌；MC STI-110GE；商用 PoE STC-28DGGPM。"
+    "why": "Switch 需求（有回复）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 GE + 4×10G STC-424XGGM（$138.0）、工业 8 GE + 2 SFP STI-280GE（$50.5）贴 NPO 标"
   },
-  "email_hook": "Anh Lâm, for your own-label industrial switch line — we supply the 2-SFP + 8-PoE DIN unit (and a Marvell managed version) under your brand from small lots; shall I quote it next to the AOA unit you buy today?",
+  "email_hook": "Mikhail, following your reply on switches: we can supply Marvell-based 8-PoE + 2 SFP L2+, 24-GE + 4×10G and DIN-rail 8-GE + 2 SFP managed models in your packaging from small lots, CE/RoHS; EAC by your side — which configuration and quantity should I quote first?",
   "mail_review": {
     "binding": {
-      "level": "未发信（Elsa 邮箱 2026-02-13 lamho@quanglam.com.vn 仅 Gmail 表情反应「💖」，无文字——不计实质回复；S/A 邮箱 0 封）；Elsa 1:1 去信 2 轮（2026-02-13「DWDM Core Switching Solution」→ 同日只有 💖 表情；2026-08-10「24 Port PoE Managed Switch」，头 19feae677954866c 无 Bcc，称呼「Hi, Lam」= 个性化名单）；无文字来信",
-      "type": "—",
-      "sieve": "—（未入筛）",
-      "stop": "从未触达",
-      "revive": "不动（非主攻区）；WhatsApp 已加 → 唤醒走 WhatsApp 一句话，不走邮件",
-      "lane": "越南 非主攻",
-      "cadence": "不动",
-      "evidence": "gmail_digest：out 0；用户表：「兴趣：工业交换机;AOA的工业FS比较多 有自己的logo MC VC FS 周边产品」；研究档 risks：越南低价市场、AOA 价格基准低；Elsa 邮箱 `data/gmail_e/text/`（Replied 线程，客户→Elsa 正文；Elsa 回复正文未入库）"
+      "level": "轻度触达（2 封技术尽调：2024-06「What manufacturer is the chip?」；2026-05「What city is your factory located in? Do you produce switches based on Microchip and Centec chips?」→ Alan：China；Marvell + CENTEC）；Elsa 1:1 去信 1 封（2025-02-28「24 Port Fiber Switch」；To 仅本户 sale@npotelecom.ru；Bcc 未逐封读头；同类名单抽读 24 封均无 Bcc；此后再未进 Elsa 任何名单——全箱 `from:e.sagatelecom to:sale@npotelecom.ru` 仅此 1 条，complete）（第 74 批(m)）",
+      "type": "俄罗斯电信设备企业（НПО Телеком；Mikhail Afonin = 技术/采购；用户标重要）——第一档",
+      "sieve": "2（芯片/产地尽调）",
+      "stop": "两年两问都是尽调，没有需求；「工厂在哪个城市」问的是制造商身份——Alan 答「based on China」回避了",
+      "revive": "若发：直接说明 Saga 模式（工程 + 供应链，SmartByte 制造）+ CENTEC 型号表",
+      "lane": "RU（点名）",
+      "cadence": "一封",
+      "evidence": "k=a8f5e788a70b0a31 / f954ab2b523be0e6 / 3c59867d902a0b69；第 19 批回补来信原文 1 条（gmail_s/gmail_a）"
     },
-    "situation": "胡志明市（+84 28 3831 3119）光通信设备分销与制造商：自产跳线 / 尾纤 / ODF，分销 SFP/SFP+/XFP/QSFP 光模块、GPON OLT/ONU、工具、交换机（SFP 词频 262、PoE 170、switch 144、industrial 33；MikroTik），CEO Hồ Lâm；表内：AOA 的工业 FS 较多，**有自己的 logo**（MC / VC / FS / 周边）→ OEM 30%。",
-    "need": "自有 logo 工业 FS → STI-288GP（$62.2 @30%）贴牌；MC STI-110GE；商用 PoE STC-28DGGPM。",
-    "breakpoint": "越南低价市场、AOA 价格基准低",
+    "situation": "—",
+    "need": "CENTEC/Microchip 平台交换机（自有产品线对标）。",
+    "breakpoint": "身份回答。",
     "saga_now": {
-      "p1": "STI-288GP",
+      "p1": "STH 系列",
       "tier": 30,
-      "price": "按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-10；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
-      "why": "自有 logo 工业 FS → STI-288GP（$62.2 @30%）贴牌；MC STI-110GE；商用 PoE STC-28DGGPM。",
+      "price": "按 CENTEC 价表；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-19 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-17 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-24 $280（10G Enterprise SFP Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-02-28 $240（24 Port Fiber Switch = STC-4168XGGCM 单 AC 稿，Elsa 箱 1 轮 2025-02-28；同款 2025-09 起群发 $280（双 AC 稿）——再提这款说 $280）",
+      "why": "用户标重要 + CENTEC 对口。已打开的主题（9/26 封有打开记录）：「Power Converter」(2024-09-16)、「10G Enterprise SFP Switch」(2026-05-11)、「Re: 10G Enterprise SFP Switch」(2026-05-12)、「Re: 10G Enterprise SFP Switch」(2026-05-15) → 读者兴趣偏「工业」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-03-13)、Product Link_2026Q3(2026-07-02)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）",
       "repeat": [],
       "gaps": []
     },
     "next_move": {
-      "when": "不动",
-      "channel": "—",
-      "action": "—",
-      "one_question": ""
+      "when": "2026-11",
+      "channel": "A 邮箱 → afonin@npotelecom.ru",
+      "action": "首封前知悉：Elsa 仅 2025-02-28 单发过 1 封「24 Port Fiber Switch」，之后没再碰他（第 74 批(m)）；CENTEC 表 + 身份说明",
+      "one_question": "Mikhail — Zhengzhou engineering + Shenzhen partner factories; Marvell/CENTEC/Realtek, no Microchip; which platform are you evaluating, OEM label or reference design?"
     },
     "facts": [
       {
-        "date": "2026-02-13",
+        "date": "2024-06-05",
         "dir": "来",
-        "who": "Lam Ho（Quang Lam，越南）",
-        "quote": "（Gmail emoji reaction 💖，无正文）",
-        "why": "非实质",
-        "k": "gmail_e"
+        "who": "afonin@npotelecom.ru",
+        "quote": "Hi Simon, What manufacturer is the chip inside your switch? С уважением, Михаил Афонин 8 /3412/ 57 30 31, 8 912 854 73 58 Kind regards, Mikhail Afonin",
+        "why": "来信原文（主题「RE: Industrial fiber switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+        "k": "a8f5e788a70b0a31"
       },
       {
-        "date": "2026-08-10",
+        "date": "2025-02-28",
         "dir": "out",
-        "who": "Elsa → lamho@quanglam.com.vn",
-        "quote": "24 Port PoE Managed Switch（Elsa 1:1 第 2/2 轮；To 仅本户；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f）",
-        "why": "第 74 批(o) `from:e.sagatelecom to:quanglam.com.vn` 全程 complete：2 行；To=本户 ⇒ 1:1 直收",
+        "who": "Elsa → sale@npotelecom.ru",
+        "quote": "24 Port Fiber Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次；正文价 240usd/pc，第 74 批(p) 读稿 msg 19628286dc08373a / 19874a707c2ed712）",
+        "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
         "k": "elsa_1to1",
-        "msg_id": "19feae677954866c"
+        "msg_id": "1954b23eb305640a"
       },
       {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "兴趣：工业交换机;AOA的工业FS比较多 有自己的logo MC VC FS 周边产品",
-        "why": "表内备注",
-        "k": "用户表"
+        "date": "2026-05-12",
+        "dir": "来",
+        "who": "Mikhail Afonin",
+        "quote": "What city is your factory located in? Do you produce switches based on Microchip and Centec chips?",
+        "why": "尽调",
+        "k": "f954ab2b523be0e6"
       }
     ],
-    "proof_gaps": [
-      "（已核 2026-10-24，第 73 批）Elsa 邮箱唯一往来 = 2026-02-13「DWDM Core Switching Solution」群发 → lamho@quanglam.com.vn 同日仅 Gmail 表情「💖」；用户表「WhatsApp 已加·未回复」在 Simon 手机，邮件侧无文字回复"
-    ],
-    "draft_en": null,
+    "proof_gaps": [],
+    "draft_en": {
+      "subject": "Where we build, and which platforms",
+      "body": "Hi, Mikhail,\n\nYour May question deserved a direct answer. We are an engineering-led supply partner based in Zhengzhou; production runs at our partner factories in Shenzhen under our specification and QA. Platforms: Marvell (access switches), CENTEC (L3 core/aggregation: VXLAN/EVPN, MPLS, MLAG), Realtek (entry). We do not build on Microchip.\n\nCENTEC units priced today: 32x100G $6,000 / 6x40G+2x100G $1,200 / 48x25G+8x100G $4,800 USD EXW (2026 Q2 list, valid 15 days).\n\nOne question: which platform are you evaluating for NPO Telecom's own range, and is it an OEM (your label) or a reference-design requirement?\n\nThank you.\nAlan\nSaga Telecom - sagatele.com"
+    },
     "as_of": "2026-10-24"
   }
 }

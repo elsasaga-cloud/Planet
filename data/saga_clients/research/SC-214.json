@@ -1,0 +1,76 @@
+{
+ "code": "SC-214",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（automationdirect.com，快照 2026-10-21）",
+ "summary": "美国 AutomationDirect（大型工业自动化目录分销：PLC / HMI / 机柜 / 通信，自有品牌 Stride 工业交换机，免费技术支持与 2 日达；表内「工业 FS，Stride 品牌似乎是自己的；分销商」；KP Greg Philbrook、Bryan Sisler）；群发 22 次无回复。",
+ "type": "大型工业自动化目录分销（体量过大，自有 Stride 品牌有既定 ODM）",
+ "size": "",
+ "brands_seen": [
+  "Stride"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：AutomationDirect.com | #1 Value in Industrial Automation；品类词 工业自动化 / OT 网络 / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "Shop AutomationDirect for the best prices on PLCs, HMIs, Enclosures and more! Enjoy free tech support and free 2-day delivery on orders $49+",
+   "url": "https://www.automationdirect.com/adc/home/home",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "工业FS stride品牌 似乎是自己的；分销商 工业switch IO等；https://www.automationdirect.com/support",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "AutomationDirect 目录分销",
+   "quote": "AutomationDirect.com | #1 Value in Industrial Automation ; Shop AutomationDirect for the best prices on PLCs, HMIs, Enclosures and more!",
+   "url": "https://www.automationdirect.com/adc/home/home",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "Stride 品牌似乎是自己的；分销商",
+   "quote": "工业FS stride品牌 似乎是自己的 / 分销商 工业switch IO等",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "体量过大：美国大型工业自动化目录分销（AutomationDirect，Stride 自有品牌有既定 ODM），22 次无回复；c_sub=体量过大",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "美国",
+  "other": "官网 automationdirect.com，语言 en，快照状态 ok；角色判定来源：用户表"
+ },
+ "business_lines": [
+  "工业自动化目录分销（PLC / HMI / 通信 / Stride 交换机）"
+ ],
+ "channels": {
+  "role": "大型工业自动化目录分销（体量过大，自有 Stride 品牌有既定 ODM）",
+  "region": "美国",
+  "contact": "info@automationdirect.com、gphilbrook@automationdirect.com"
+ },
+ "signals": [
+  "官网：Shop AutomationDirect for the best prices on PLCs, HMIs, Enclosures and more! Enjoy free tech support and free 2-day delivery",
+  "表内：stride 品牌 似乎是自己的 / 分销商 工业 switch IO 等"
+ ],
+ "risks": [
+  "体量过大：大型目录分销，供应商导入流程与合规要求超出 Saga 能力",
+  "Stride 自有品牌已有既定 ODM；22 次无回复"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 25,
+  "why": "美国大型目录分销（数亿美元营收）+ Stride 自有品牌已有成熟 ODM + 22 次无回复 → 体量/门槛不匹配 → 改 C"
+ },
+ "email_hook": "（不发送：体量过大）"
+}

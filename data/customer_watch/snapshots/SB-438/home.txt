@@ -1,48 +1,97 @@
-# SB-438 pavotek.com.tr · home · https://pavotek.com.tr/ · fetched 2026-10-25T07:41:18Z · HTTP 200
-Pavotek
-About Us
-Capabilities
-Solutions
-Policies
-Policies & Disclosure Notices
-Certificates
-Our Quality Approach
-Personal Data Protection
-Media
-Innovation
-Careers
-Partnership
-Contact
-×
-About Us
-Capabilities
-Solutions
-Media
-Innovation
-Careers
-Partnership
-Contact Us
-WHERE IDEAS AND TECHNOLOGY MEET
-Learn More
-COMPANY OVERVIEW
-Pavotek stands as a frontrunner in electronic and embedded systems, communication and network technologies, power electronics, and IoT solutions.
-Avionics Systems
-Communication, Network and Control Systems
-Power Control Systems
-Internet of Things (IoT) Solutions
-Smart Energy Systems
-Testing Competencies
-Media
-Follow Us
-About
-Capabilities
-Solutions
-Policies
-Media
-Careers
-Contact
-Sanayi Mah. Teknopark Istanbul Yerleşkesi
-Ar-Ge Binaları 4C Kat:1-2
-Pendik / Istanbul / Türkiye
-+90 (216) 354 7286
-[email protected]
+# SB-438 CTCU · home · https://www.ctcu.com/zh-TW/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+主向位科技股份有限公司 | 主向位科技是台灣網路通訊產品製造商 (包含第2層換機, TDM, 轉發器、工業級乙太網路交換器、轉換器、供電器等)。
+中文 (繁體) English
+Español
+Português
+Français
+Deutsch
+Русский
+日本語
+中文 (繁體)
+主向位科技股份有限公司 | 主向位科技是台灣網路通訊產品製造商 (包含第2層換機, TDM, 轉發器、工業級乙太網路交換器、轉換器、供電器等)。
+主向位科技致力於提供可靠、寬溫且高耐環境性的工業網路解決方案，專為嚴苛應用場域打造。產品涵蓋 L3/L2 管理型交換機、PoE 解決方案，以及符合 EN50155、IEC 61850-3 與 E-Mark 標準的認證型乙太網路交換機，滿足軌道交通、電力自動化與智慧運輸等關鍵網路應用需求。 主向位科技(CTC Union)成立於1993 年，是一家通過 ISO9001/14001 認證，擁有自己的產品研發團隊與生產工廠的專業網路通訊產品製造商。軟體開發系統遵循資安管理規範 IEC62443，以提升產品應用在各產業的資安防護力。主向位科技秉持持續創新研發精神並提供全系列高品質可靠度、耐環境高低溫及擁有堅固外殼的產品，產品系列包含工業乙太網、PoE系列、並具有EN50155、E-Mark 和 IEC-61850-3 專業認證的交換機等產品。並憑藉30多年的電信產品設計經驗，以領先的技術和高品質的服務為動力，成為全球電信通訊接入交換機設備和 FTTP CPE 解決方案的主要供應商。
+首頁
+關於我們
+關於主向位
+品牌優勢
+品質認證
+公司發展里程
+ESG永續發展
+環境永續政策
+責任礦產採購政策
+隱私權政策
+產品
+資源
+解決方案
+成功案例
+產品型錄
+產品選購指南
+產品系列 DM
+產品比較表
+白皮書
+新聞
+新聞稿
+展會
+電子報
+停產通知
+支援中心
+產品保固
+RMA服務
+Manual
+Partner Center
+成為CTC經銷夥伴
+聯繫方式
+技術支援
+資安漏洞管理政策
+免費SmartView™ WEB EMS試用申請
+產品諮詢
+銷售據點
+" style="height: 600px;">
+公司優勢數據
+0
+年豐富經驗
+0
+產品種類
+0 %
+客戶滿意度
+熱門產品
+我們將向您展示 2026 年的 4 款熱門產品，該產品將可為您帶來豐厚的銷售利潤。
+資安強化型PoE乙太網交換機(IGR-A804SM Series)
+網管型2.5G乙太網交換機(QSW-4624CM)
+雙通道串列光纖中繼器(SOR-200)
+工業型乙太網千兆PoE交換機(IGS-402CS-4PH24)
+全面就緒，迎接歐盟 CRA 資安通報新規
+主向位科技已準備就緒，符合 2026 年 9 月 11 日生效的歐盟 CRA 漏洞與事件通報要求，並持續強化漏洞管理與資安事件應變能力...(more)
+公司動態
+歡迎瀏覽CTC公司動態！ 在此區可獲取最新的產品新聞、公司活動、產品評論與促廣資訊等等。
+解決方案
+微秒同步，零誤差 SyncE交換機在電廠與變電站的關鍵應用 - 打造高精準時間同步網路
+重點產品
+L3 10G 乙太網路交換機 IXR-G24044X-24PH 提供高可靠、高速的網路效能，搭載 4×10G 高速上行與 24×GbE PoE 連接埠，為高密度、多站點的工業自動化網路提供穩定強勁的支援
+重點產品
+多速率乙太網路交換機 QSW-4624CM採用NBase-T多速率技術，可利用既有Cat5e/Cat6網路線輕鬆升級至 2.5G/10G，免重新布線，降低升級成本
+企業新聞
+IEC 62443-4-2 SL2 認證 主向位科技工業乙太網路交換器系列通過 IEC 62443-4-2 SL2 認證，並遵循歐盟 CRA 法規
+有任何疑問需要諮詢嗎?
+立即聯絡 !!
+主向位科技致力於提供可靠、寬溫且高耐環境性的工業網路解決方案，專為嚴苛應用場域打造。產品涵蓋 L3/L2 管理型交換機、PoE 解決方案，以及符合 EN50155、IEC 61850-3 與 E-Mark 標準的認證型乙太網路交換機，滿足軌道交通、電力自動化與智慧運輸等關鍵網路應用需求。
+聯絡方式
+114064 台北市內湖區洲子街60號8樓 (+886) 2-2659-1021 (+886) 2-2659-0237 sales@ctcu.com
+最新消息
+讓交通安全防患未然！主向位科技將於ITS...
+10 Sep, 2026
+主向位科技完備歐盟網路韌性法案(CRA)漏洞通報與資安事件應變機制
+09 Sep, 2026
+主向位科技亮相 InnoTrans 2026
+03 Sep, 2026
+網頁導覽
+首頁
+關於我們
+產品
+資源
+新聞
+支援中心
+產品諮詢
+銷售據點
+Copyright © 2026 主向位科技股份有限公司 All Rights Reserved.
+Consulted & Designed by Ready-Market

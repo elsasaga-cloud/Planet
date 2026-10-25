@@ -1,5 +1,2 @@
-# SB-691 coredata.com.tr · home · https://coredata.com.tr/login_up.php · fetched 2026-10-25T07:41:18Z · HTTP 404
-404 - File or directory not found.
-Server Error
-404 - File or directory not found.
-The resource you are looking for might have been removed, had its name changed, or is temporarily unavailable.
+# SB-691 vitel.com.tr · home · https://vitel.com.tr/ · fetched 2026-10-25T07:41:18Z · HTTP 403
+Just a moment...

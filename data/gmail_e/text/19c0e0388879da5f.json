@@ -11,7 +11,7 @@
  "text": "Hi, Pavel,\nThanks for your reply.\n1. Currently, Brocade's Ethernet switch business has been integrated into\nother vendor portfolios, so most Brocade switches available on the market\ntoday are legacy or second-hand units from inventory resellers.\n2. We can source Brocade switches depending on the specific model and your\nrequirements (e.g., port count, speed, module type, condition — new/used).\nAnd we do have a channel to get it.\nSo\nCould you please let me know:\nWhich Brocade model(s) you're interested in?\nRequired port speed (e.g., 1G, 10G, 40G)?\nDesired condition (new, refurbished, used)?\nThanks!",
  "char_count": "616",
  "attachments": "[{'filename': 'image003.jpg', 'mime_type': 'image/jpeg', 'size': 3000}, {'filename': 'image004.jpg', 'mime_type': 'image/jpeg', 'size': 11430}]",
- "note": "SA-116 CCS（俄罗斯，Павел Карпов）：他要 Brocade；Elsa 2026-01-30 答可代找二手/库存 Brocade，问型号 / 速率 / 新旧——非 Saga 产品线",
+ "note": "SA-066 CCS（俄罗斯，Павел Карпов）：他要 Brocade；Elsa 2026-01-30 答可代找二手/库存 Brocade，问型号 / 速率 / 新旧——非 Saga 产品线",
  "text_source": "text/plain",
  "fetched": "2026-10-24T16:06Z",
  "method": "Arena Gmail connector get_message_text(include_quoted=false)"

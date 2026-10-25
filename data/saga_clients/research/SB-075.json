@@ -1,149 +1,141 @@
 {
  "code": "SB-075",
- "name_official": "Pulsar（pulsar.pl，Siechnice/Wrocław 一带，PL；自有品牌电源与 PoE 交换机制造商）",
- "researched_at": "2026-10-21",
- "website_status": "在线",
- "summary": "波兰电源/缓冲电源制造商 Pulsar，自有品牌 PoE 交换机产品线（S108/S108-90W/S108WP 8 口、S116/S116WP/USF1816P/SF116 16 口、SFG120-BT 16 GE + 4 GE + 4 SFP 802.3bt，工业 DIN PoE 交换机）；零售净价 8 口 325–434 zł、16 口 542–999 zł、SFG120-BT 1,187 zł；特色是 48–54 V DC 输入「WP（无电源）」版本配合自家缓冲电源（SWB-120 52 VDC/2×17Ah）。典型 OEM 买家（整机外采贴牌）。用户表：16 次跟进 0 回复。",
- "type": "",
- "size": "",
+ "name_official": "GEMKA – Karydis Bros O.E.（ΓΕΜΚΑ Καρύδη Αφοί Ο.Ε.，Egaleo/Athens, GR；gmka.gr）",
+ "website_status": "在线（含 e-shop）",
+ "summary": "雅典 Egaleo 的钥匙/锁具/门禁批发进口商 GEMKA – Karydis（1928 年创立的家族企业；2–10 人；Ag. Panteleimonos 8；客户为锁匠、门厂、建筑师事务所与公共建筑；合作品牌 Salto、Silca、Cisa、Eff-Eff、Winkhaus、Keyline、CDVI、Mul-T-Lock 等；设展厅与培训室）。展会（埃森 2024）记录：GM Christos Karydis——「有时候会用到 switch，让发 catalog」；6 次推送 0 回复。行业为机械/电子锁具，网络交换机仅偶发（门禁联网）→ B 低优先。",
+ "type": "集成/经销商",
+ "size": "待补证",
  "brands_seen": [
-  "Pulsar（自有品牌）",
-  "MEAN WELL（电源代理）"
+  "Salto",
+  "CDVI",
+  "Silca"
  ],
  "evidence": [
   {
-   "kind": "官网",
-   "claim": "自有品牌 PoE 交换机线",
-   "quote": "Switche PoE firmy Pulsar oferują wiele korzyści … Zgodne ze standardami IEEE 802.3af/at/bt, urządzenia te zapewniają moc wyjściową od 15,4 W do 60 W",
-   "url": "https://www.pulsar.pl/PL_117_switche-poe",
+   "kind": "用户记录",
+   "claim": "有时候会用到 switch，让发 catalog；0 回复 / 6 次",
+   "quote": "有时候会用到switch 让发catalog；30 6947205247（用户 Clients 表摘录）",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   },
   {
    "kind": "官网",
-   "claim": "16 口系列价格与规格",
-   "quote": "S116 | 16 - 10/100 Mb/s | 30W | 2 - 1 Gb/s | … 740.00 | S116WP … 48 - 54 V DC … 570.00 | … SF116 … 2 - 1 Gb/s SFP … 999.00 | SFG120-BT | 16 - 1 Gb/s | 30W 60W | 4 - 1 Gb/s | 4 - 1 Gb/s | … 1 187.00",
-   "url": "https://www.pulsar.pl/PL_121_seria-sf",
+   "claim": "业务与历史",
+   "quote": "H εταιρεία GEMKA – KARYDIS είναι μια πολυετής οικογενειακή επιχείρηση με έτος ίδρυσης το 1928 … Το 2009 η εταιρεία μετεγκαταστάθηκε σε νέα έδρα στην περιοχή του Ελαιώνα στο Αιγάλεω … Salto, Silca, Cisa … CDVI, Mul-T-Lock",
+   "url": "https://www.gmka.gr/el/06?scLang=el",
    "date": "2026-10-21"
   },
   {
-   "kind": "官网",
-   "claim": "8 口系列价格",
-   "quote": "S108 | 8 - 10/100 Mb/s | 30W | 2 - 10/100 Mb/s | … 52 V DC … 434.00 | S108-90W … 325.00 | S108WP …",
-   "url": "https://www.pulsar.pl/PL_120_8-portowe",
+   "kind": "LinkedIn",
+   "claim": "规模与客户",
+   "quote": "GEMKA – KARYDIS is a distribution and wholesales company of keys, key cutting machines, safes and locking systems … Their customers are locksmiths, door manufacturers, architecture offices, public and government buildings … Company size: 2-10 employees Headquarters: Egaleo, Athens … Founded: 1928",
+   "url": "https://gr.linkedin.com/company/gemka---karydis-oe",
    "date": "2026-10-21"
   },
   {
-   "kind": "官网",
-   "claim": "工业 DIN PoE 交换机与缓冲电源",
-   "quote": "Standard DIN - Switche PoE przemysłowe - Transformatory … Zasilacze - Buforowe - Seria DING2 … Seria DRC ( MEAN WELL )",
-   "url": "https://www.pulsar.pl/PL_182_switche-poe-przemyslowe",
+   "kind": "厂商名录",
+   "claim": "地址与邮箱",
+   "quote": "Karydis Bros OE GEMKA Agiou Panteleimonos 8, Athens Atiki Greece, Greece 12241 Phone : 0030 210 3243 000 Email : m.karydis@gmka.gr Website : http://gmka.gr",
+   "url": "https://www.lockdecoders.com/distributors_list.asp?func=1&c=Greece",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "16 次跟进 0 回复",
-   "quote": "（用户表字段）",
+   "claim": "偶尔用到 switch，索要目录；6 次推送 0 回复",
+   "quote": "有时候会用到switch 让发catalog",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
- "kp": [],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网目录核对）"
- },
- "company_facts": {
-  "legal_name": "Pulsar（pulsar.pl；法人全称待核）",
-  "hq": "波兰（Siechnice/Wrocław 区域，待核）",
-  "size": "制造商（规模待核）",
-  "other": "产品：缓冲电源（DING2/DRC/DRS/PSB）、变压器、PoE 交换机（商用+工业 DIN）；按 IEEE 802.3af/at/bt"
- },
- "business_lines": [
-  "缓冲/开关电源与变压器制造（自有品牌）",
-  "PoE 交换机（商用 8/16 口；工业 DIN；bt 60W）",
-  "PoE 缓冲供电系统（SWB-120）"
- ],
- "products_seen": [
+ "kp": [
   {
-   "brand": "Pulsar",
-   "model": "S108-90W",
-   "spec": "8×FE PoE + 2×FE 上联，90W，桌面，325 zł 净",
-   "url": "https://www.pulsar.pl/PL_9999_S108-90W_",
-   "date": "2026-10-21",
-   "saga": "STC-028GP（8 GE PoE，$24.2）/ STC-28DGGPM（管理）"
-  },
-  {
-   "brand": "Pulsar",
-   "model": "S108WP",
-   "spec": "8×FE PoE，48–57 V DC 输入（无电源版）",
-   "url": "https://www.pulsar.pl/PL_120_S108WP_switch-poe-10-portowy-s108wp-bez-zasilacza-do-8-kamer-ip",
-   "date": "2026-10-21",
-   "saga": "STI-088GP（8 GE PoE，DC 44–57 V，$45.7 @30）"
-  },
-  {
-   "brand": "Pulsar",
-   "model": "SF116 / SFG120-BT",
-   "spec": "16 PoE + 2 GE + 2 SFP（999 zł）/ 16 GE PoE bt 60W + 4 GE + 4 SFP（1,187 zł）",
-   "url": "https://www.pulsar.pl/PL_121_seria-sf",
-   "date": "2026-10-21",
-   "saga": "STI-21616GP（16 GE PoE + 2 SFP，$184.6 @30）"
+   "name": "Christos Karydis",
+   "role": "GM（用户表）",
+   "email": "info@gmka.gr（用户表）",
+   "phone": "+30 694 720 5247（用户表）",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
   }
  ],
+ "grade_override": "B",
+ "override_reason": "需求偶发、无回复 → 慢跟。",
+ "notes": "季度触达一次。",
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网核对）"
+ },
+ "company_facts": {
+  "legal_name": "ΓΕΜΚΑ Καρύδη Αφοί Ο.Ε.（GEMKA – Karydis Bros OE）",
+  "founded": "1928",
+  "hq": "Αγ. Παντελεήμονος 8, 122 41 Αιγάλεω (Egaleo), Athens, Greece（+30 210 3243 000）",
+  "size": "2–10（LinkedIn）",
+  "other": "钥匙/锁具/保险箱/门禁批发；Salto 等电子门禁；展厅 + 培训室"
+ },
+ "business_lines": [
+  "钥匙、开齿机、锁芯、保险箱批发",
+  "电子门禁（Salto、CDVI）与主钥匙系统"
+ ],
  "channels": {
-  "网站": "https://www.pulsar.pl/",
-  "目录": "https://www.pulsar.pl/PL_117_switche-poe"
+  "网站": "https://www.gmka.gr/",
+  "电话": "+30 210 3243 000（公开）",
+  "邮箱（公开）": "info@gmka.gr；m.karydis@gmka.gr（厂商分销名录公开）"
  },
  "signals": [
-  "整机外采贴牌型制造商；其 WP（48–54 V DC 无电源）版本与 Saga STI DC 输入系列天然匹配；缺千兆 8 口管理与 2.5G 型号 → 可补线"
+  "电子门禁（Salto/CDVI）联网项目偶需 PoE 交换机 → 小口数 PoE 配套"
  ],
  "risks": [
-  "已有稳定 OEM 来源（多为深圳厂）；对价格极敏感；16 次跟进 0 回复"
+  "主业锁具，交换机偶发；希腊非主动开拓；6 次推送 0 回复"
  ],
  "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 30,
-  "why": "OEM 30% 档：STC-28DGGPM（8 GE PoE+ 2 SFP 管理，$87.4）补其千兆管理空档；DC 输入版用 STI-088GP/STI-288GP；16 口 STI-21616GP；2.5G STC-424XGGPM-280W"
+  "p1": "STI-144GP",
+  "tier": 20,
+  "why": "批发 20% 档（低优先）：STI-144GP（DIN 4 PoE + 1 SFP，$34.1）/ STC-28DGGPM（$80.7）用于门禁控制器联网；季度触达一次"
  },
- "email_hook": "Your WP switches run from 48–54 V DC buffered supplies; our DIN 8-port gigabit PoE units take 44–57 V DC natively and can carry the Pulsar label — would a gigabit S108WP-class model fill the gap in your series?",
+ "email_hook": "Christos, for the networked Salto/CDVI door controllers your locksmith customers install: a DIN-rail 4-port PoE switch is $34.1 EXW and an 8-port PoE+ managed $80.7 — would a one-page PoE catalogue in English for your showroom be useful?",
  "mail_review": {
   "binding": {
-   "level": "未触达（6 封来信全部是 Pulsar 三位员工的波兰语休假自动回复；无人工回复；Elsa 箱：`to:.pl` 穷举 24 条（2026-10-25，锚批 Bcc 头已读）未见 pulsar.pl → Elsa 箱从未发过本户，往来只在 S/A 箱（去 18 / 来 6）（第 74 批(f)））",
-   "type": "波兰电源/PoE 交换机制造商（Pulsar）——竞品制造商",
-   "sieve": "0",
-   "stop": "自产 PoE 交换机，无动机",
-   "revive": "不动；备用具名邮箱：lenaw@pulsar.pl（自动回复中出现的同司具名邮箱，2024-08-26，k=7d303c2991a9b78c；从未发过）",
-   "lane": "PL 次级",
-   "cadence": "不动",
-   "evidence": "k=061d3f430c1dc282 等"
+   "level": "未触达（A 邮箱 16 封 2025→2026，1 次记录打开，0 回；收件 info@gmka.gr；主题多为「Industrial PoE Switch、16 Port PoE Managed Switch」；Elsa 箱：`to:.gr` 穷举 15 条（2026-10-25，锚批 Bcc 头已读）未见 gmka.gr → Elsa 箱从未发过本户，往来只在 S/A 箱（去 16 / 来 0）（第 74 批(f)））",
+   "type": "集成/经销商",
+   "sieve": "1~2（1 次打开）",
+   "stop": "只打通用邮箱，无记录打开",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "希腊（欧洲全域主攻）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 16，Opened 标签 1（Simon 群发追踪）；用户表：「有时候会用到switch 让发catalog」；研究档 risks：主业锁具，交换机偶发；希腊非主动开拓；6 次推送 0 回复"
   },
-  "situation": "—",
-  "need": "—",
-  "breakpoint": "—",
+  "situation": "雅典 Egaleo 的钥匙/锁具/门禁批发进口商 GEMKA – Karydis（1928 年创立的家族企业；2–10 人；Ag. Panteleimonos 8；客户为锁匠、门厂、建筑师事务所与公共建筑；合作品牌 Salto、Silca、Cisa、Eff-Eff、Winkhaus、Keyline、CDVI、Mul-T-Lock 等；设展厅与培训室）。展会（埃森 2024）记录：GM Christos Karydis——「有时候会用到 switch，让发 catalog」；6 次推送 0 回复。行业为机械/电子锁具，网络交换机仅偶发（门禁联网）→ B 低优先。",
+  "need": "批发 20% 档（低优先）：STI-144GP（DIN 4 PoE + 1 SFP，$34.1）/ STC-28DGGPM（$80.7）用于门禁控制器联网；季度触达一次",
+  "breakpoint": "主业锁具，交换机偶发；希腊非主动开拓；6 次推送 0 回复",
   "saga_now": {
-   "p1": "—",
+   "p1": "STI-144GP",
    "tier": 20,
-   "price": "—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-04 $65（10G media converter）；群发里他已看到的价（续，第 66 批全量复核）：2025-08-05 $300（48 Port PoE Managed Switch）",
-   "why": "已打开的主题（7/18 封有打开记录）：「8 Port Industrial PoE Switch」(2024-11-25)、「16 Port PoE Managed Switch」(2025-01-30)、「Managed Optical Bypass Switch」(2025-04-21)、「48 Port PoE Managed Switch」(2025-08-05) → 读者兴趣偏「工业」；与 P1 同类，继续",
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-29 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-08 $280（10G Enterprise SFP Switch）、2026-06-18 $16000（32 Port 400GB DC Switch）",
+   "why": "批发 20% 档（低优先）：STI-144GP（DIN 4 PoE + 1 SFP，$34.1）/ STC-28DGGPM（$80.7）用于门禁控制器联网；季度触达一次。已打开的主题（1/16 封有打开记录）：「16 Port PoE Managed Switch」(2025-03-20) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "不动",
-   "channel": "—；备用具名邮箱 → lenaw@pulsar.pl",
-   "action": "—",
-   "one_question": ""
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Christos, for the networked Salto/CDVI door controllers your locksmith customers install: a DIN-rail 4-port PoE switch is $34.1 EXW and an 8-port PoE+ managed $80.7 — would a one-page PoE catalogue in English for your showroom be useful?"
   },
   "facts": [
    {
-    "date": "2024-08-26",
-    "dir": "来",
-    "who": "自动回复",
-    "quote": "自动回复里给出代理人/同事邮箱 lenaw@pulsar.pl",
-    "why": "群发一直发给休假/离职的人；这个地址从未发过，是换具名邮箱的现成入口",
-    "k": "7d303c2991a9b78c"
+    "date": "2026-09-14",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "Industrial PoE Switch、16 Port PoE Managed Switch",
+    "why": "16 封 / 1 次打开 / 0 回｜首封 2025-03-20 → 末封 2026-09-14（16 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "有时候会用到switch 让发catalog",
+    "why": "表内备注",
+    "k": "用户表"
    }
   ],
   "proof_gaps": [],

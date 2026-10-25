@@ -1,185 +1,125 @@
 {
-  "code": "SB-267",
-  "name_official": "Công ty TNHH TM DV Song Thành Công (STC Vietnam)",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（stc-vietnam.com，快照 2026-10-21，越南语）",
-  "summary": "越南工业自动化元器件贸易商（Song Thành Công / STC Vietnam），代理 NSD 编码器、Logika、**Moxa**、E2S、Enerdoor、Advantech 等数十品牌，有报价部 pricing@；表内 Moxa 分销商，需求工业光纤交换机 / 串口 MC，2024 年多次要价格与官网，「主要是工业品」。",
-  "type": "",
-  "size": "",
-  "brands_seen": [
-    "Moxa",
-    "Advantech",
-    "Cisco"
-  ],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "品牌代理：NSD、Logika、Moxa、E2S、Enerdoor；pricing@ / duc@stc-vietnam.com / vantu@songthanhcong.com；关键词 automation 12 / moxa 12",
-      "quote": "STC VietNam chuyên cung cấp Encoder NSD, Sensor, NSD Viet Nam, Logika Vietnam, Moxa Vietnam, E2S Việt Nam, Enerdoor Việt Nam… pricing@stc-vietnam.com… Mr. Văn Tú… Mr Đức",
-      "url": "https://stc-vietnam.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "Moxa 分销商；工业 FS、串口 MC；回复价格 官网 ×2、价格、主要是工业品",
-      "quote": "兴趣：MoXa的分销商 工业FS 串口 MC；回复：价格 官网；主要是工业品",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Mr. Linh",
-      "title": "（采购；表内注 MaiWe）",
-      "email": "linh@songthanhcong.com",
-      "phone": "+84 374 133 044",
-      "source": "（本地 Clients/ 表格，无公开 URL）"
-    },
-    {
-      "name": "Mr. Đức",
-      "title": "Sales",
-      "email": "duc@stc-vietnam.com",
-      "phone": "+84 379 720 873",
-      "source": "https://stc-vietnam.com/"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（官网快照核对）"
+ "code": "SB-267",
+ "name_official": "Bio-Cognitive Pte Ltd（新加坡）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（bio-cognitive.com，快照 2026-10-21）",
+ "summary": "新加坡 IT/OT 与物理安防融合服务商：评估、生物识别门禁、监控集成、7×24 监控，大量 SCADA / ISA-62443 / 工业设施安全内容；表内 Amy Hoi「可以多跟进一下」，需求 16 电口 PoE，2025-07 问了一个具体型号。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "定位：物理 + IT + OT 融合安全；关键词 industrial 121 / scada 48 / surveillance 42 / access control 20；+65 6553 2128",
+   "quote": "Unify physical security, IT, OT and human-risk protection with assessments, biometric access control, surveillance integration and 24/7 monitoring… ISA-62443",
+   "url": "https://www.bio-cognitive.com/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "legal_name": "Công ty TNHH TM DV Song Thành Công",
-    "founded": "",
-    "hq": "越南（胡志明市，待核）",
-    "size": "中小型工业元器件贸易商",
-    "other": "多品牌代理；有报价部"
-  },
-  "business_lines": [
-    "工业自动化元器件（编码器、传感器、继电器、电源）",
-    "工业网络（Moxa 交换机 / 串口服务器）"
-  ],
-  "products_seen": [
-    {
-      "brand": "Moxa",
-      "model": "AWK-4131A 等",
-      "spec": "工业无线 / 交换机",
-      "saga": "Saga STI 工业线对位 Moxa EDS 入门款（价差 2–3 倍）",
-      "url": "https://stc-vietnam.com/",
-      "date": "2026-10-21"
-    }
-  ],
-  "channels": {
-    "role": "工业元器件分销（Moxa 渠道）",
-    "region": "越南"
-  },
-  "signals": [
-    "多次问价工业小壳 / 2 光 16 电 / mini 工业 → 在找 Moxa 以外的低价工业线",
-    "表内另一联系人注「MaiWe」→ 已接触中国同行迈威"
-  ],
-  "risks": [
-    "Moxa 分销身份 → 只会拿低价线做补充",
-    "越南非主攻区；比价（MaiWe）"
-  ],
-  "saga_fit": {
-    "p1": "STI-244GP",
-    "tier": 20,
-    "why": "其第一次问价对象 2 光 4 小壳 → Saga STI-244GP（$35.2/36.6/38.1）；2 光 16 电 → STI-21616GP；分销 20% 档。"
-  },
-  "email_hook": "Mr. Linh, as a Moxa house you'll know the EDS price points — for the 2-SFP + 4-port and 2-SFP + 16-port industrial sizes you priced with us, do you need managed (ring/VLAN) or will unmanaged do for the panel-level jobs?",
-  "mail_review": {
-    "binding": {
-      "level": "Elsa 群发 BCC 已触达 2026-09-10「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，越南（锚 vienthonghanoi VN） 批次 To inbox.vienthonghanoi@gmail.com，0 回（第 74 批 Bcc 头核对 msg 1a08a3bf37753529）；S/A 箱：S/A 邮箱均无往来；来源：用户表「兴趣：MoXa的分销商 工业FS 串口 MC；回复：价格 官网；主要是工业品」）",
-      "type": "—",
-      "sieve": "—（未入筛）",
-      "stop": "从未触达",
-      "revive": "不动（非主攻区；J5：有证据再动）",
-      "lane": "越南 非主攻",
-      "cadence": "不动",
-      "evidence": "gmail_digest：out 0；用户表：「兴趣：MoXa的分销商 工业FS 串口 MC；回复：价格 官网；主要是工业品」；研究档 risks：Moxa 分销身份 → 只会拿低价线做补充；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To inbox.vienthonghanoi@gmail.com）本户见于 2026-09-10 名单"
-    },
-    "situation": "越南工业自动化元器件贸易商（Song Thành Công / STC Vietnam），代理 NSD 编码器、Logika、**Moxa**、E2S、Enerdoor、Advantech 等数十品牌，有报价部 pricing@；表内 Moxa 分销商，需求工业光纤交换机 / 串口 MC，2024 年多次要价格与官网，「主要是工业品」。",
-    "need": "其第一次问价对象 2 光 4 小壳 → Saga STI-244GP（$35.2/36.6/38.1）；2 光 16 电 → STI-21616GP；分销 20% 档。",
-    "breakpoint": "Moxa 分销身份 → 只会拿低价线做补充",
-    "saga_now": {
-      "p1": "STI-244GP",
-      "tier": 20,
-      "price": "按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-09-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-10；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
-      "why": "其第一次问价对象 2 光 4 小壳 → Saga STI-244GP（$35.2/36.6/38.1）；2 光 16 电 → STI-21616GP；分销 20% 档。",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "不动",
-      "channel": "—",
-      "action": "—",
-      "one_question": ""
-    },
-    "facts": [
-      {
-        "date": "2024-07-16",
-        "dir": "来",
-        "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
-        "quote": "用户表跟进：推「发了电口图」→ 对方「hi thanks」",
-        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
-        "k": "Clients/E/群发/VN 09.09 09.10/VN.xlsx no.161 2024.7.16"
-      },
-      {
-        "date": "2024-08-14",
-        "dir": "来",
-        "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
-        "quote": "用户表跟进：推「4 8口工业PoE」→ 对方「noted」",
-        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
-        "k": "Clients/E/群发/VN 09.09 09.10/VN.xlsx no.161 2024.8.14"
-      },
-      {
-        "date": "2024-10-22",
-        "dir": "来",
-        "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
-        "quote": "用户表跟进：推「电口」→ 对方「noted」",
-        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
-        "k": "Clients/E/群发/VN 09.09 09.10/VN.xlsx no.161 1022"
-      },
-      {
-        "date": "2024-11-18",
-        "dir": "来",
-        "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
-        "quote": "用户表跟进：推「引流机型」→ 对方「industrial grade?」",
-        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
-        "k": "Clients/E/群发/VN 09.09 09.10/VN.xlsx no.161 1118"
-      },
-      {
-        "date": "2024-12-10",
-        "dir": "来",
-        "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
-        "quote": "用户表跟进：推「Mini」→ 对方「price」",
-        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
-        "k": "Clients/E/群发/VN 09.09 09.10/VN.xlsx no.161 1210"
-      },
-      {
-        "date": "2026-09-10",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To inbox.vienthonghanoi@gmail.com，越南（锚 vienthonghanoi VN） 批次）",
-        "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
-        "why": "Elsa 箱群发 BCC 触达证据（命中地址 duy@songthanhcong.com, songthanhcong.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-        "k": "elsa_bcc"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "兴趣：MoXa的分销商 工业FS 串口 MC；回复：价格 官网；主要是工业品",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [
-      "无邮件往来",
-      "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
-    ],
-    "draft_en": null,
-    "as_of": "2026-10-25"
+  {
+   "kind": "用户表",
+   "claim": "兴趣 16 电 / VC 安防 / 网站 CCTV；2025-07 PoE→问了一个型号；备注可以多跟进一下",
+   "quote": "兴趣：16电 VC 安防 网站：CCTV；回复：问了一个型号",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Amy Hoi",
+   "title": "（表内联系人，备注可多跟进）",
+   "email": "amyhoi@bio-cognitive.com",
+   "phone": "+65 9656 8498",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照核对）"
+ },
+ "company_facts": {
+  "legal_name": "Bio-Cognitive Pte Ltd（待核）",
+  "founded": "",
+  "hq": "Singapore",
+  "size": "小型安防服务商",
+  "other": "enquiries@bio-cognitive.com；+65 6553 2128"
+ },
+ "business_lines": [
+  "物理安防集成（生物识别门禁、监控）",
+  "OT / SCADA 安全评估与服务",
+  "7×24 监控"
+ ],
+ "channels": {
+  "role": "安防 + OT 安全集成商",
+  "region": "新加坡 + 工业客户"
+ },
+ "signals": [
+  "问过具体 PoE 型号（2025-07）",
+  "OT / 工业设施客户 → 工业 PoE 场景"
+ ],
+ "risks": [
+  "OT 安全顾问型公司，硬件采购量小",
+  "新加坡项目对品牌 / 认证敏感"
+ ],
+ "saga_fit": {
+  "p1": "STI-21616GP",
+  "tier": 25,
+  "why": "16 电口 PoE + 工业设施场景 → Saga STI-21616GP（$170.4/177.5/184.6）；商用机房版 STC-2216GPM（HRUI 列表 $137.5）备选。"
+ },
+ "email_hook": "Amy, following your July question on the PoE model — for the 16-port requirement, is it going into a plant / OT cabinet (DIN-rail, −40~75 ℃) or a comms room rack? I'll send the matching sheet and 1-pc price.",
+ "mail_review": {
+  "binding": {
+   "level": "轻度触达（2025-07-07 Amy Hoi 问 4 口 PoE+1 上联 / 8 口 PoE+1 上联 价格 → 当天确认千兆 → 报价已发；无后续；Elsa 箱：`to:bio-cognitive.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 21 / 来 2）（第 74 批(n)））",
+   "type": "新加坡安防/生物识别集成商（Bio-Cognitive；Amy = 采购）",
+   "sieve": "3（报价）",
+   "stop": "报价后无回",
+   "revive": "一句话",
+   "lane": "SG 非主攻",
+   "cadence": "一封",
+   "evidence": "k=1341fd835e388fae / c50c979afd340a2c / 2cd8f7648aaf3ba2；A 邮箱外发报价单正文（`data/gmail_a/attachments/text/`，2026-10-24 对表）"
+  },
+  "situation": "—",
+  "need": "4/8 口千兆 PoE + 1 上联（门禁/CCTV）。",
+  "breakpoint": "—",
+  "saga_now": {
+   "p1": "STC-228GP / STC-028GP",
+   "tier": 25,
+   "price": "复述 2025-07-07 自报价（㉕①）：STC-024GP $19 / STC-204GP $21 / STC-028GP $24.5 / STC-228GP $36.5；现按 HRUI 2026-09-30 进价 +25% 为 $21.5 / $25.2 / $26.2 / $34.6——除 228GP 外都比旧报价高，是否对老询价户提价是 Simon 的事（Q-47 默认不主动提价）；历史锚：STC-024GP $19 / STC-204GP $21 / STC-028GP $24.5 / STC-228GP $36.5（2025-07-07 报价单，EXW）；现按 HRUI 对照表列表价重报；群发里他已看到的价（续）：2026-08-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-05-02 $300（48 Port PoE Managed Switch）、2025-09-09 $240（24 Port Fiber Switch）、2025-10-10 $280（10G Enterprise SFP Switch）",
+   "why": "已打开的主题（5/21 封有打开记录）：「Re: Commercial PoE Switch」(2025-07-07)、「Re: Commercial PoE Switch」(2025-08-06)、「24 Port Fiber Switch」(2025-09-09)、「10G Enterprise SFP Switch」(2025-10-10) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-03-31)、Product Link_2026Q3(2026-07-15)；已发单据：Quotation(2025-07-07)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2026-11",
+   "channel": "A 邮箱 → amyhoi@bio-cognitive.com",
+   "action": "一句话（第 76 批(c) 2026-10-25：P1 型号 STC-28GP → STC-028GP（HRUI 8 PoE + 2 GE））",
+   "one_question": "Amy — did the July quote (4-PoE + 1 uplink $19 / 2-SFP + 4-PoE $21 / 8-PoE + 2 uplink $24.5 / 8-PoE + 2 SFP $36.5 USD EXW, 2025 snapshot) fit the access-control job, or did the count change? If live, I re-confirm the same day."
+  },
+  "facts": [
+   {
+    "date": "2025-07-07",
+    "dir": "来",
+    "who": "Amy Hoi",
+    "quote": "Please advise the price of 4-port POE plus 1 uplink and 8 port POE with 1 uplink switches?",
+    "why": "询价",
+    "k": "1341fd835e388fae"
+   },
+   {
+    "date": "2025-07-07",
+    "dir": "去",
+    "who": "Alan（Quotation.pdf，Buyer Bio-Cognitive Solutions Pte Ltd / Amy Hoi，EXW Singapore）",
+    "quote": "STC-024GP 2 GE 上联 + 4 GE PoE 60W $19.0；STC-204GP 2 SFP + 4 PoE $21.0；STC-028GP 2 GE + 8 PoE 120W $24.5；STC-228GP 2 SFP + 2 GE + 8 PoE 120W Watchdog $36.5；validity 15 days",
+    "why": "当天报了四款商用小 PoE；$19–36.5 是 Realtek 商用线的真实锚；无回",
+    "k": "gmail_a att 2025-07-07"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": {
+   "subject": "Re: Commercial PoE Switch",
+   "body": "Hi Amy,\n\nPicking up your note of 2025-07-07 (\"Please advise the price of 4-port POE plus 1 uplink and 8 port POE with 1 uplink switches?…\"). Instead of another catalog mail, one question:\n\nDid the 4/8-port PoE quote from July (4-PoE + 1 uplink $19, 2-SFP + 4-PoE $21, 8-PoE + 2 uplink $24.5, 8-PoE + 2 SFP $36.5 USD EXW) fit the access-control job, or did the count change? Those were a 2025 snapshot; if the job is live I will re-confirm them the same day.\n\nIf there is no live project, just say so and I will stop here.\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+  },
+  "as_of": "2026-10-24"
+ }
 }

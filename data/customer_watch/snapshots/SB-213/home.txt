@@ -1,0 +1,164 @@
+# SB-213 kti.de · home · https://kti.de/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+Ihr Partner für aktive Netzwerktechnik - KTI Distribution GmbH
+document.getElementById(forward)?.focus());
+return;
+}
+if(backward != '' && event.shiftKey) {
+event.preventDefault();
+$nextTick(() => document.getElementById(backward)?.focus());
+return;
+}
+},
+}" x-init="mobileDetection.detectMobile(), getLocation()" @mouseleave="dropdownOpen = null">
+English
+Service & Downloads
+Home
+this.currentPage.startsWith(page) || this.currentPage.startsWith('/ueber-uns'));
+}
+}" x-init="currentPageMatch()"
+x-bind:class="dropdownOpen === '1' ? 'border-b-2 border-kti-blue' : ''">
+Unternehmen
+this.currentPage.startsWith(page) || this.currentPage.startsWith('/produkte'));
+}
+}" x-init="currentPageMatch()"
+x-bind:class="dropdownOpen === '2' ? 'border-b-2 border-kti-blue' : ''">
+Produkte
+Lösungen
+this.currentPage.startsWith(page) || this.currentPage.startsWith('/leistungen'));
+}
+}" x-init="currentPageMatch()"
+x-bind:class="dropdownOpen === '4' ? 'border-b-2 border-kti-blue' : ''">
+Leistungen
+Aktuelles
+Kontakt
+Shop
+English
+Home
+this.currentPage.startsWith(page));
+}
+}" x-init="currentPageMatch()">
+Unternehmen
+Über Uns
+Team
+Karriere
+this.currentPage.startsWith(page));
+}
+}" x-init="currentPageMatch()">
+Produkte
+KTI Networks
+Konverter
+Switches
+Industrial Ethernet
+SFPs
+Netsys
+Edgecore
+Ubiquiti
+SlimWire
+Lösungen
+this.currentPage.startsWith(page));
+}
+}" x-init="currentPageMatch()">
+Leistungen
+Planung & Beratung
+Support
+Schulungen
+OEM & ODM
+Aktuelles
+Kontakt
+Shop
+Neu
+Über Uns
+|
+Team
+|
+Karriere
+KTI Networks
+Konverter
+Switches
+Industrial Ethernet
+SFPs
+|
+Netsys
+|
+Edgecore
+|
+Ubiquiti
+|
+SlimWire
+Planung & Beratung
+|
+Support
+|
+Schulungen
+|
+OEM & ODM
+Aktive Netzwerktechnik direkt vom Hersteller.
+KTI – Wir schaffen Verbindungen.
+Aktive Netzwerktechnik ist unsere Kernkompetenz: Wenn es um die Übertragung oder Verteilung von Datenströmen im IT-Netzwerk geht, sind Ethernet-Geräte von KTI Networks genau die richtige Wahl. Ob Kupfer- oder Glasfaserverbindung - mit Medienkonvertern, Switches oder optischen Transceivern von KTI ist auf eine gute Verbindung Verlass. Dank der soliden Verarbeitung bilden KTI-Produkte eine langlebige, verlässliche Konstante in Ihrem Netzwerk. Auch, wenn’s mal richtig zur Sache geht: anspruchsvolle, industrielle Bedingungen sind erstrecht unser Spezialgebiet. Die Geräte der Industrial Ethernet Reihe sind gemacht für Extreme und halten einiges aus.
+Seit über 25 Jahren bringen wir als KTI Distribution die Produkte direkt vom Hersteller auf den europäischen Markt. Wir sind unmittelbar an der Produktentwicklung beteiligt - und können so auf einen sich ständig verändernden Bedarf optimal reagieren. Von unserem Standort in Bielefeld aus bieten wir Ihnen eine erstklassige – und vor allem persönliche – Beratung für Ihre Netzwerkinfrastruktur. Mit unserem Support bieten wir Ihnen bei Bedarf auch umfassende Unterstützung an.
+Wir sind genau der richtige Ansprechpartner für Netzwerk-Lösungen!
+Produktkatalog
+Einfach online blättern
+In unserem aktuellen Produktkatalog zeigen wir Ihnen, was wir können. Produkte, Dienstleistungen, Schulungen - alles auf einen Klick:
+Schauen Sie mal rein!
+Aktuelles
+Fast Ethernet in der Industriellen Automation – 24/7 vernetzt
+In Produktionshallen kommt es selten auf riesige Bandbreiten an, sondern vielmehr auf hohe Störsicherheit, Robustheit und extreme Zuverlässigkeit.
+Drei Jahrzehnte aktiv vernetzt - KTI wird 30!
+KTI Distribution feiert 30 Jahre: Seit 1996 steht KTI für zuverlässige Netzwerkkomponenten und persönliche Beratung – und wächst mit einem erweiterten Portfolio und neuem Firmengebäude in die Zukunft.
+Dr. Lan erklärt: SlimWire+ vs. SlimWire Ultra 7
+Welches Patchkabel passt wirklich zu Ihrer Anwendung?
+Newsletter
+Jetzt anmelden
+Fertigung nach Maß OEM & ODM
+Sie haben individuelle Ansprüche? Kti berät Sie und setzt Ihren Auftrag
+entsprechend Ihrer Anforderungen um.
+Mehr über OEM & ODM erfahren
+Netzwerk Bestseller
+KGS-1060
+DER Industrie-Switch
+KGS-2422
+DER Allrounder
+KGC-310M
+Von KUPFER auf GLASFASER
+Mit KTI werden Sie selbst zum Experten
+Entweder in unseren modernen Schulungsräumen in Bielefeld - oder bei Ihnen vor Ort. Unsere Workshops sind die Antwort auf den wachsenden Bedarf an Know How im Bereich Netzwerk!
+Zu den Schulungen
+{
+this.changing = !this.changing
+}, 2500)
+setInterval(() => {
+this.text = this.text === 'In 360° ansehen' ? 'Besuchen Sie uns digital' : 'In 360° ansehen'
+}, 5000)
+}
+}" x-init="changeText()" aria-label="In 360° ansehen" class="bg-kti-blue text-white font-bold py-2 px-4 rounded-sm group-hover:scale-105 transition-all mx-auto block
+lg:w-96 lg:h-14 lg:translate-x-[54.75%] lg:translate-y-[20%] lg:-mb-14
+md:w-80 md:h-[3rem] md:translate-x-[53.5%] md:translate-y-[15%] md:-mb-[3rem]
+sm:w-64 h-[2.5rem] sm:translate-x-[54.5%] sm:translate-y-[10%] -mb-[2.5rem]
+w-full max-w-[60%] translate-y-[20%] z-10 relative">
+✕
+Über Mitarbeiter
+verbindet Leidenschaft für Netzwerktechnik zu einem großartigen Team. Egal ob hochspezialisiert, technisch begabt oder kreatives Mastermind.
+Wir sind für Sie da.
+Seit
+begleiten wir von unserem Standort im ostwestfälischen Bielefeld regionale, nationale und internationale Kundenprojekte.
+Vor Ort und aus der Ferne.
+Partner
+Kontakt:
+Mo - Fr  - Uhr
+0521 96680 0
+info@kti.de
+Oder über unser Kontaktformular
+Anschrift:
+Meisenstraße 79a - 33607 Bielefeld
+Impressum
+AGB
+Datenschutz
+Kontakt
+Newsletter
+Händler finden
+DIN ISO 9001 Zertifikat
+Google Rezensionen:
+Sehr schneller und fachlich kompetenter Service! Zudem auch sehr professionell und super freundlich.
+Rezension schreiben
+WIR SCHAFFEN VERBINDUNGEN!

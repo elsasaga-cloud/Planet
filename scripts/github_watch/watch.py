@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""GitHub 监控：freddy36（Frederik Kriewitz，NYNEX / fiberONE，SA-013）及 SmartByte 相关上游文件。
+"""GitHub 监控：freddy36（Frederik Kriewitz，NYNEX / fiberONE，SA-008）及 SmartByte 相关上游文件。
 
 宪法条款（T29-U16，2026-10-22）：此人/此仓库的任何更新都极为敏感，必须每轮开工先跑一次本脚本，
 把变化带时间戳入库（append-only）。不改历史快照，只追加。
@@ -474,7 +474,7 @@ def archive_files(cfg, cur, prev):
 def write_status(cfg, cur, changes):
     u = cfg['user']
     p = cur.get('profile', {})
-    lines = [f'# GitHub 监控 · 当前状态（{u} = Frederik Kriewitz，NYNEX / fiberONE，SA-013）', '',
+    lines = [f'# GitHub 监控 · 当前状态（{u} = Frederik Kriewitz，NYNEX / fiberONE，SA-008）', '',
              f'> 本轮抓取 {cur["ts"]}。每轮开工先跑 `python3 scripts/github_watch/watch.py`；变化见 `变化日志.md`，原始快照见 `snapshots/`。', '',
              '## 档案', f'- {p.get("name")}（@{p.get("login")}，id {p.get("id")}）· 注册 {str(p.get("created_at"))[:10]} · 公开仓库 {p.get("public_repos")} · followers {p.get("followers")} · 档案更新 {p.get("updated_at")}', '',
              '## 与 SmartByte / Saga 直接相关']

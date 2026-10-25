@@ -1,173 +1,257 @@
 {
- "code": "SA-030",
- "name_official": "American Fibertek, Inc.（AFI, St. Petersburg, FL）",
- "website_status": "在线",
- "summary": "美国佛州安防光传输设备制造商（1984 年成立，11–50 人，营收 $8–11M 口径），主打「Manufactured in America / BAA 合规」，并提供一整套「sourced TAA compliant」产品（以太网交换机、光纤交换机、MC、视频/数据/音频光端机）。2020 年被 Donna Poulos 收购。用户表：S 重点，兴趣 SFP/工业电源/大口 FS/MC/多功能 VC，1 次实质回复。",
- "type": "品牌商（美国本土制造 + TAA 外采线）",
- "size": "11–50 人；$8.4M（ZoomInfo）/ $11M（LeadIQ）",
- "brands_seen": [
-  "American Fibertek"
- ],
- "evidence": [
-  {
-   "kind": "官网",
-   "claim": "定位：美国制造 + BAA，外采线要求 TAA 合规（TAA 名单不含中国）",
-   "quote": "American Fibertek provides superior fiber solutions for security applications manufactured in America by American citizens – meeting all BAA compliance requirements and standards. AFI also offers a full array of sourced TAA compliant products",
-   "url": "https://www.americanfibertek.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "第三方（LinkedIn）",
-   "claim": "产品线含以太网交换机与光纤交换机；规模",
-   "quote": "Product offerings include IP media conversion, video, data, contact closure alarm, audio, CCTV, intercom, telephone, Ethernet switches and fiber switches. · Company size: 11-50 employees · Founded: 1984",
-   "url": "https://www.linkedin.com/company/american-fibertek",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "第三方（PRNewswire）",
-   "claim": "2020 年被 Donna Poulos 收购，强调「降低外国元素风险」",
-   "quote": "American Fibertek Proudly Continues 35 Year History of Manufacturing American Products and Mitigating Risks of Foreign Elements … wholly acquired by seasoned industry leader Donna Poulos",
-   "url": "https://www.prnewswire.com/news-releases/american-fibertek-proudly-continues-35-year-history-of-manufacturing-american-products-and-mitigating-risks-of-foreign-elements-301025706.html",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "AFI510 系列端口与 PoE 规格",
-   "quote": "510 Ethernet Switch Series Ethernet Ports: 8 Ports – 10/100/1000T(x), 16 Ports – 10/100/1000T(x), 22 Ports – 10/100/1000T(x) + 2 RJ45/SFP Combo Ports, 24 Ports – 10/100/1000T(x), 48 Ports – 10/100/1000T(x) SFP Ports: 2 Ports – 100/1000Fx SFP, 4 Ports – 100/1000/10G Fx SFP+ … PoE: 30W PoE+, No",
-   "url": "https://americanfibertek.com/products/afi510-series-8-16-24-48-port-ethernet-switches-poe-available/",
-   "date": "2024-08-16"
-  },
-  {
-   "kind": "官网",
-   "claim": "24E/4SFP L2 管理机规格与「美国制造」叙事",
-   "quote": "24-10/100/1000Base-T PoE+ Ports 4 Dual Speed 100M/1G SFP Ports Console Port for CLI Management … Supports SNMP v1, v2c, v3 … American Fibertek is honored to create jobs for Americans at every step of the manufacturing process … SFP Ports: (4) 100/1G, (4) 10G",
-   "url": "https://americanfibertek.com/products/24-ethernet-4-sfp-port-layer-2-managed-switch/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "经销商网店",
-   "claim": "MX-6p 街价",
-   "quote": "MX-6p-PoE-2HP was $975.33 Special Price $753.00 … American Fibertek MX-6p-PoE-2HP Unmanaged 6-Port Ethernet Switch, (4) 10/100 PoE af & (2) SFP 1000 Ports",
-   "url": "https://www.surveillance-video.com/network-mx-6p-poe-2hp.html",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Donna Poulos",
-   "role": "President/Owner",
-   "email": "sales@americanfibertek.com（官网公开）",
-   "phone": "+1 800-323-0660",
-   "source": "https://www.americanfibertek.com/ ; https://www.zoominfo.com/c/american-fibertek-inc/1736750"
-  },
-  {
-   "name": "Tim Orselli",
-   "role": "来信署名人（职务未在邮件署名里出现）",
-   "email": "tim.orselli@americanfibertek.com",
-   "phone": "",
-   "source": "S/A 邮箱来信 2024-11-22 来信 1 封（第 72 批从邮件表头补）"
-  }
- ],
- "grade_override": "B",
- "override_reason": "品牌定位是美国制造/BAA + 外采 TAA 合规（TAA 指定国不含中国大陆），SmartByte/HRUI/Hohunet 中国产整机无法进入其外采线；仅 SFP/电源等非 TAA 敏感配件有机会。B 慢跟：只在其主动询价时报配件。",
- "notes": "INH 红线：TAA/UL；本客户是典型 TAA 冲突案例。",
- "researched_at": "2026-10-21",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网交换机目录核对）"
- },
- "business_lines": [
-  "安防光传输（视频/数据/音频光端机）",
-  "以太网交换机（AFI510 系列 8/16/22/24/48 口，PoE+）与 L2 管理机",
-  "媒体转换器（MX-6p 系列 4 FE PoE + 2 SFP）"
- ],
- "products_seen": [
-  {
-   "brand": "American Fibertek",
-   "model": "AFI510 系列",
-   "spec": "8/16/22/24/48 口 10/100/1000T，2×100/1000 SFP 或 4×10G SFP+，PoE+ 30W 可选",
-   "url": "https://americanfibertek.com/products/afi510-series-8-16-24-48-port-ethernet-switches-poe-available/",
-   "date": "2024-08-16",
-   "saga": "STC-28DGGPM / STC-424DGGPM-280W / STC-448DGGPM"
-  },
-  {
-   "brand": "American Fibertek",
-   "model": "24 Ethernet/4 SFP L2 Managed Switch",
-   "spec": "24×GE PoE+ + 4×100M/1G SFP + 4×10G，Console/USB，SNMP v1/v2c/v3，802.1x，10K Jumbo，16K MAC",
-   "url": "https://americanfibertek.com/products/24-ethernet-4-sfp-port-layer-2-managed-switch/",
-   "date": "2026-10-21",
-   "saga": "STC-424XGGPM-280W（24 PoE+ + 4×10G SFP+）"
-  },
-  {
-   "brand": "American Fibertek",
-   "model": "MX-6p-PoE / MX-6p-FX-PoE / MX-6p-PoE-2HP",
-   "spec": "4×10/100 PoE af/at + 2×SFP（100M 或 1G），外接 48V；街价 $753–$783（surveillance-video.com）",
-   "url": "https://www.surveillance-video.com/network-mx-6p-poe-2hp.html",
-   "date": "2026-10-21",
-   "saga": "STI-144GP（4 PoE + 上联）/ STI-110GE"
-  }
- ],
- "signals": [
-  "官网同时强调「Manufactured in America」与「sourced TAA compliant」交换机 → 交换机为外购贴牌，存在 OEM 二供空间；但 TAA 合规要求原产地为指定国，中国大陆制造不满足 → 只能切非 TAA 商业渠道 SKU（如 MX-6p 价位极高，Saga 同功能成本仅其零头）"
- ],
- "risks": [
-  "TAA/BAA 合规叙事是其核心卖点，中国产交换机难进其联邦/政府线；需在二封前问清 UL/TAA（INH 规则）",
-  "1 次回复、21 次跟进，热度低"
- ],
- "saga_fit": {
-  "p1": "STC-424XGGPM-280W",
-  "tier": 30,
-  "why": "OEM 二供：其 24E/4SFP L2 管理机（24 PoE+ + 4×10G）对位 STC-424XGGPM-280W；MX-6p 价位（$753+）对位 STI-144GP/STI-110GE 成本优势巨大；仅限非 TAA 商业线；OEM 30% 档"
- },
- "email_hook": "For the non-TAA commercial side of the AFI line, a 24-port PoE+ switch with 4×10G SFP+ uplinks in AFI packing lands far below your current sourced cost; one question: is UL listing required on that SKU, or FCC alone?",
- "mail_review": {
-  "binding": {
-   "level": "未绑定（2024-11 问 PoE++ 版 + 两款价格 → 给资料 → 无；研究档：TAA/UL 冲突户；Elsa 箱：`to:americanfibertek.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 25 / 来 1）（第 74 批(h)））",
-   "type": "美国品牌商（本土制造 + TAA 外采线）；Tim Orselli",
-   "sieve": "2",
-   "stop": "TAA/UL 要求（INH 红线）",
-   "revive": "不承诺 TAA/UL → 无复活路径",
-   "lane": "US",
-   "cadence": "2024-06 → 2026-09 去信 25 封；最后来信 2024-11-22",
-   "evidence": "k=1b4ccb2f0365c41d / 0bff4caab85195a3"
-  },
-  "situation": "Tim 2024-11-22 问「Do you have it in PoE++ as well? Send pricing for both」，Simon 11-23 发了报价单（STI-288GP $60 / STI-288DGGPM-2BT $60）+ 两份 datasheet；之后无回。AFI 的外采线要 TAA/UL（INH 红线），所以没有复活路径。",
-  "need": "8 口工业 PoE/PoE++（TAA）。",
-  "breakpoint": "TAA 边界。",
-  "saga_now": {
-   "p1": "无",
-   "tier": 30,
-   "price": "他见过的实报（2024-11-23 报价单）：STI-288GP $60；STI-288DGGPM-2BT 单上写 $60（疑漏改，正常锚 $110——再报时按 $110 并点明）；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-12-12 $300（48 Port PoE Managed Switch）、2025-10-29 $280（10G Enterprise SFP Switch）、2026-07-20 $1500（24 Port 10G SFP+ Switch）、2026-09-08 $170（24 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2024-06-25 $65（10g fiber media converter）",
-   "why": "不投入。已打开的主题（4/25 封有打开记录）：「8 Port Industrial PoE Switch」(2024-11-22)、「Re: 8 Port Industrial PoE Switch」(2024-11-23)、「90W PoE Managed Switch」(2025-02-07)、「Marvell Alleycat5 Solution」(2025-04-01) → 读者兴趣偏「工业」；与 P1 同类，继续",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "不动；建议移出群发",
-   "channel": "—",
-   "action": "—",
-   "one_question": ""
-  },
-  "facts": [
-   {
-    "date": "2024-11-22",
-    "dir": "来",
-    "who": "Tim Orselli",
-    "quote": "Do you have it in PoE++ as well? Send pricing for both.",
-    "why": "唯一来信",
-    "k": "1b4ccb2f0365c41d"
-   },
-   {
-    "date": "2024-11-23",
-    "dir": "去",
-    "who": "Simon → Tim Orselli（Quotation.pdf + 2 份 datasheet，S 邮箱附件）",
-    "quote": "报价单两行：STI-288GP（2×GE SFP + 8×GE PoE af/at 240W，非管理，Marvell）$60；STI-288DGGPM-2BT（2×GE SFP + 8×GE，2 口 bt + 6 口 af/at，240W，L2+ 管理）**也写 $60**（同价——管理型 2BT 的正常锚是 $110，疑似报价单漏改）；validity 15 days；production 4~7 wd；warranty 3 years；Neutral device。",
-    "why": "Tim 11-22 问「Do you have it in PoE++ as well? Send pricing for both」→ Simon 次日给了两款价 → 之后无回；如再接触，2BT 管理型不能沿用 $60（口径 ㉕：以 Simon 自己的报价为先，但明显笔误要修正并说明）",
-    "k": "S 邮箱附件 `Quotation.pdf` sha=0ccb2821f784a2f3（2024-11-23）"
-   }
+  "code": "SA-030",
+  "name_official": "Snexus Networks（İstanbul, Türkiye；另设新加坡 Sim Lim 联络点）",
+  "website_status": "在线",
+  "summary": "伊斯坦布尔的自有品牌交换机商：SN-ES1300（百兆 PoE）、SN-GS1300/2300（千兆 24+4SFP 网管）、SN-XGS5300（10G 系列）、光纤骨干 SFP 交换机、PoE 电源，官网直接挂美元价（如 SN-ES1300-10P $115、SN-XGS5300-28F $1,130），承诺 2 年换新保修。用户表：ISAF2025 展会客户（Ady 加了 WhatsApp），要 8 光 8 电商业级，报过 $115 的工业款，想要免费样品当礼物，之后 0 回复。",
+  "type": "品牌商/经销（自有品牌白牌采购）",
+  "size": "未见人数（小型）",
+  "brands_seen": [
+    "Snexus"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "evidence": [
+    {
+      "kind": "官网",
+      "claim": "自有品牌并公开 USD 零售价",
+      "quote": "SN-ES1300-6P Price US$35.00 … SN-ES1300-10P Price US$115.00 … SN-ES1300-26FP Price US$320.00 … SN-GS1300-6FP Price US$110.00",
+      "url": "https://www.snexus.com.tr/en/shop",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网",
+      "claim": "2 年换新保修（我方报价需对齐）",
+      "quote": "Snexus markalı ürünler … Ürünlerimiz 2 yıl birebir değişim garantisi sunar. 1. The warranty period is 2 years.",
+      "url": "https://www.snexus.com.tr/en/garanti",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网",
+      "claim": "联系方式与地址",
+      "quote": "info@snexus.com.tr · ISTANBUL Sultançiftliği District Cyprus Street Neveser Site C4/1 Çekmeköy / Istanbul · SINGAPORE Rochor Canal Road 02-67 Sim Lim Square",
+      "url": "https://www.snexus.com.tr/en/iletisim",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网",
+      "claim": "SN-GS2300 管理系列官网 USD 价",
+      "quote": "SN-GS2300-10F Price US$320.00 … SN-GS2300-10FP Price US$400.00 … SN-GS2300-28F Price US$660.00 … SN-GS2300-28FP Price US$900.00",
+      "url": "https://www.snexus.com.tr/en/managedgigabitpoe",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网",
+      "claim": "SN-GS1300-26FP 24 口 PoE 400W US$600",
+      "quote": "SN-GS1300-26FP US$600.00 … 24 x 10/100/1000 POE Ports 2 x SFP Fiber Port 400 Watt PoE Budget Plug & Play",
+      "url": "https://www.snexus.com.tr/en/product-page/sn-gs1300-26fp",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网",
+      "claim": "工业系列 ISN-GS 价格",
+      "quote": "ISN-GS1300-6FP Price$300.00 … ISN-GS1300-10FP Price$550.00 … ISN-GS2300-6FP Price$530.00 … ISN-GS2300-10FP Price$700.00",
+      "url": "https://www.snexus.com.tr/en/endustriyel-switchler",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [
+    {
+      "name": "—",
+      "role": "总机",
+      "email": "info@snexus.com.tr",
+      "phone": "+90 216 606 4445（webrate 登记）",
+      "source": "https://www.snexus.com.tr/en/iletisim"
+    }
+  ],
+  "notes": "A 确认（土耳其自有品牌 + 展会面谈 + WhatsApp 在手），但极度价格敏感且索要免费样品；对位：其 SN-GS2300-28F（24+4SFP 网管）≈ STC-424DGGM；8 光 8 电商业级需向 SmartByte 确认有无对应款（无则如实说明并推 STC-28DGGPM 变体）。贴牌 30%，样品按价付费、批量返还样品费。",
+  "researched_at": "2026-10-21",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "深挖 v1"
+  },
+  "company_facts": {
+    "legal_name": "Snexus Networks（snexus.com.tr）",
+    "hq": "İstanbul, Türkiye（另设新加坡 Sim Lim 联络点）",
+    "other": "自有品牌白牌交换机全线，官网 USD 标价（Wix 网店），Hepsiburada 零售在售；2 年换新保修；2026-04/06 仍在发博客推 SN-GS2300-28F"
+  },
+  "business_lines": [
+    "商用 PoE 交换机 SN-ES1300（百兆）/ SN-GS1300（千兆非管理）/ SN-GS2300（L2/L2+ 管理）",
+    "10G 系列 SN-XGS5300",
+    "光纤骨干 SFP 交换机",
+    "工业交换机 ISN-GS1300 / ISN-GS2300",
+    "PoE 电源"
+  ],
+  "products_seen": [
+    {
+      "brand": "Snexus",
+      "model": "SN-GS1300-26FP",
+      "spec": "24×GE PoE + 2 SFP，400W，即插即用，US$600",
+      "url": "https://www.snexus.com.tr/en/product-page/sn-gs1300-26fp",
+      "date": "2026-10-21",
+      "saga": "STC-424DGGPM-280W"
+    },
+    {
+      "brand": "Snexus",
+      "model": "SN-GS2300-10FP",
+      "spec": "8×GE PoE + 2 SFP + console，150W，L2/L2+ 管理，US$400",
+      "url": "https://en.snexus.com.tr/product-page/sn-gs1300-24f",
+      "date": "2026-10-21",
+      "saga": "STC-28DGGPM"
+    },
+    {
+      "brand": "Snexus",
+      "model": "SN-GS2300-28F / 28FP",
+      "spec": "24×GE + 4 SFP（+）管理，US$660 / PoE 版 US$900；Hepsiburada 12,500 TL",
+      "url": "https://www.snexus.com.tr/en/managedgigabitpoe",
+      "date": "2026-10-21",
+      "saga": "STC-424XGGPM-280W（28FP）/ STC-448XGGM(L3) 备选"
+    },
+    {
+      "brand": "Snexus",
+      "model": "SN-GS1300-12FP",
+      "spec": "8×GE PoE + 2 GE + 2 SFP，120W；Hepsiburada 3,250 TL",
+      "url": "https://www.hepsiburada.com/snexus-networks-sn-gs1300-12fp-12-port-gigabit-poe-switch-8-x-10-100-1000m-poe-2-x-10-100-1000m-rj45-uplink-2-x-sfp-fiber-120-watt-poe-switch-pm-HBC00006OPDZ1",
+      "date": "2026-10-21",
+      "saga": "STC-28DGGPM"
+    },
+    {
+      "brand": "Snexus",
+      "model": "ISN-GS1300-6FP / 10FP；ISN-GS2300-6FP / 10FP",
+      "spec": "工业 4+2 / 8+2 PoE（非管理 $300/$550；管理 $530/$700）",
+      "url": "https://www.snexus.com.tr/en/endustriyel-switchler",
+      "date": "2026-10-21",
+      "saga": "STI-144GP / STI-288DGGPM"
+    },
+    {
+      "brand": "Snexus",
+      "model": "SN-GS1300-8SFP / SN-GS2300-24SFP / SN-XGS5300-28SFP",
+      "spec": "全光骨干 $400 / $1,450 / $1,650",
+      "url": "https://www.snexus.com.tr/en/fiber-omurga-switchler",
+      "date": "2026-10-21",
+      "saga": "—（全 SFP 机型不在 Saga 型谱）"
+    }
+  ],
+  "channels": {
+    "网站/网店": "https://www.snexus.com.tr/en/shop（USD 标价）",
+    "零售": "Hepsiburada 店铺",
+    "直邮": "info@snexus.com.tr（用户表）",
+    "WhatsApp": "Ady 已加（用户表，ISAF2025）"
+  },
+  "signals": [
+    "官网 2026-04-15 与 2026-06-22 博客推 SN-GS2300-28F——持续营销自有品牌（2026-10-21）",
+    "工业线 ISN-GS 售价 $300–700，而其向 Saga 要「商业级 8 光 8 电」且嫌 $115 工业款贵——定位价格敏感的白牌采购",
+    "用户表：ISAF2025 现场客户，想要样品当礼物"
+  ],
+  "risks": [
+    "价格极敏感、要免费样品；自有白牌来源多（华南公版）→ 以 Marvell 平台稳定性 + 2 年保修配套切入，不卷底价",
+    "土耳其进口税；USD 结算 OK（官网本身 USD 标价）"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 30,
+    "why": "其 SN-GS2300-10FP（8 PoE + 2 SFP 管理，$400 零售）对位 STC-28DGGPM（EXW $87 @30%）；24 口 SN-GS1300-26FP 对位 STC-424DGGPM-280W；工业 ISN-GS 对位 STI-144GP/288DGGPM；贴 Snexus 标 30% 档"
+  },
+  "email_hook": "Your SN-GS2300-10FP retails at 400 dollars, and the Marvell-based 8-port PoE+ managed unit with 2 SFP that fits that slot lands well under a quarter of that at EXW in Snexus packing, so I am quoting it together with the 24-port 26FP equivalent.",
+  "mail_review": {
+    "binding": {
+      "level": "未绑定（邮件 17 封 0 回，Opened 1 次 2025-11-26；用户表：展会面谈 + WhatsApp + 索要免费样品；Elsa 箱：`to:snexus.com.tr` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 17 / 来 0）（第 74 批(g)））",
+      "type": "伊斯坦布尔自有品牌白牌采购（Snexus，SN-GS2300-28F）——主攻区",
+      "sieve": "0（邮件层无人工回复）",
+      "stop": "免费样品诉求 vs 付样规则",
+      "revive": "WhatsApp（用户表）；对位 SN-GS2300-28F 一次",
+      "lane": "TR",
+      "cadence": "WA 季度",
+      "evidence": "邮件：去信 17 封（2024-06-24 → 2026-09-17），来信 0；Opened 标签 1 次（2025-11-26）；收件人 info@snexus.com.tr"
+    },
+    "situation": "展会见过、WA 在手、要免费样——典型 C6 付样筛子案例；邮件只被打开 1 次。",
+    "need": "24+4 SFP 管理型贴牌。",
+    "breakpoint": "免费样。",
+    "saga_now": {
+      "p1": "STC-424DGGM 类 24+4（对位 SN-GS2300-28F）",
+      "tier": 30,
+      "price": "—；群发里他已看到的价（续）：2026-08-13 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-08-16 $65（10G Media Converter）、2024-10-28 $300（48 Port PoE Managed Switch）、2025-09-25 $280（10G Enterprise SFP Switch）",
+      "why": "已打开的主题（1/17 封有打开记录）：「Booster PoE Switch」(2025-11-26) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "按 WA 节奏",
+      "channel": "WhatsApp",
+      "action": "WA 一句话（付样 + 首批量）（第 75 批(r) 2026-10-25：WhatsApp 一句话版已写 `draft_en`（Simon 按 WA 节奏自发））（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
+      "one_question": "If the sample is paid but credited against a 20-pc first batch, does SN-GS2300-28F dual-sourcing go ahead?"
+    },
+    "facts": [
+      {
+        "date": "2024-06-24",
+        "dir": "去",
+        "who": "S 箱（Simon）",
+        "quote": "Industrial PoE Switch",
+        "why": "首封去信（邮箱索引；去信共 17 封）",
+        "k": "29c24de1d33bc316"
+      },
+      {
+        "date": "2024-08-16",
+        "dir": "去",
+        "who": "S 箱（Simon）",
+        "quote": "10G media converter｜稿内价 $65",
+        "why": "去信正文含价（邮箱索引）",
+        "k": "4b76faeca354d0cc"
+      },
+      {
+        "date": "2024-08-16",
+        "dir": "去",
+        "who": "S 箱（Simon）报价",
+        "quote": "10G media converter｜ $65（原句：Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unma）",
+        "why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
+        "k": "4b76faeca354d0cc"
+      },
+      {
+        "date": "2024-10-28",
+        "dir": "去",
+        "who": "S 箱（Simon）报价",
+        "quote": "48 Port PoE Managed Switch｜ $300（原句：*Price is very competitive, 300usd/pc*）",
+        "why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
+        "k": "0e3d05496b6b2e32"
+      },
+      {
+        "date": "2024-11-05",
+        "dir": "去",
+        "who": "Simon → Angora Networks（SA-077）附件 Turkey Client List.xlsx",
+        "quote": "名单行：「industrial network info@snexus.com.tr 90 53340 48364 https://www.snexus.com.tr/」",
+        "why": "Saga 2024-11-05 把本户列入交给 Angora（安卡拉，Saga 提议的欧盟/土耳其分销伙伴）的 64 家起步名单；此后 Saga 仍直发本户。若 Angora 已接触过本户，Saga 直发会与自己提议的渠道打架 → Q-51（默认：直发继续，Angora 报了价的户 Saga 只做技术支持）",
+        "k": "gmail_s 2024-11-05 Re: Invoice_5pcs STC-424DGGPM-280W（附件）+ Drive PI 7_土耳其 Turkey_Client_List.xlsx"
+      },
+      {
+        "date": "2025-11-26",
+        "dir": "去",
+        "who": "Saga（群发）",
+        "quote": "「Booster PoE Switch」被打开（Mailtrack Opened 标签）",
+        "why": "唯一的互动痕迹",
+        "k": "7386567b0f7ec1c7"
+      },
+      {
+        "date": "2026-08-13",
+        "dir": "去",
+        "who": "A 箱（Alan）",
+        "quote": "24 Port PoE Managed Switch｜稿内价 $170",
+        "why": "去信正文含价（邮箱索引）",
+        "k": "5c79ffffc51eec37"
+      },
+      {
+        "date": "2026-09-17",
+        "dir": "去",
+        "who": "A 箱（Alan）",
+        "quote": "16 Port Industrial PoE Switch",
+        "why": "最近一封去信（邮箱索引；去信共 17 封）",
+        "k": "6c17e8b243d49a3c"
+      }
+    ],
+    "proof_gaps": [
+      "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 从未去信、Replied 索引亦无此户），仓库未见原文",
+      "在 Saga 给 Angora 的 Turkey Client List（2024-11-05）里——Angora 是否接触过本户无记录（Q-51）"
+    ],
+    "draft_en": {
+      "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+      "body": "Ady, Simon from Saga Telecom (ISAF). Your SN-GS2300-10FP slot: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based, in Snexus packing - STC-28DGGPM - $87.4 EXW with your logo (MOQ 1, 15-day validity); the 26FP slot - STC-424DGGPM-280W - $145.7. Samples are paid, but the sample price is credited in full against a first batch of 20 pcs. On that basis, does the dual-sourcing of the SN-GS2300 line go ahead?"
+    },
+    "as_of": "2026-10-24"
+  }
 }

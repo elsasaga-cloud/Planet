@@ -1,125 +1,123 @@
 {
  "code": "SB-505",
- "name_official": "（泰国 · Pongpanot Kwanmuang，hotmail）",
+ "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "无域名（免费邮箱/仅电话）",
- "summary": "泰国项目型买家 Pongpanot Kwanmuang（hotmail，用户标注「可以尝试多跟进一下」）。需求 12 光 12 电、8 光 8 电、工业 MC；2024-06 问一个项目「工业 2+4 PoE、2+8」；19 次推送 1 次实质回复，无 WA 号码。工业小机需求具体 → B 25%。",
- "type": "",
+ "website_status": "在线（eso.co.th，快照 2026-10-21）",
+ "summary": "泰国 ESO Tech（工业传感器进口分销、PLC/HMI/SCADA 自动化系统设计、WECON 代理；站内 ethernet-switch 品类（SW05E 等）；表内「工业交换机」）；群发 7 次无回复。",
+ "type": "工业传感器与自动化分销商（泰国）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "WECON"
+ ],
  "evidence": [
   {
+   "kind": "官网快照",
+   "claim": "官网标题：บริษัท อีเอสโอ เทค จำหน่ายและนำเข้าเซนเซอร์สำหรับอุตสาหกรรม；品类词 工业自动化 / OT 网络 / 无线 / WiFi / 数据中心 / 企业 IT / 布线 / 线缆 / 网络交换 / PoE",
+   "quote": "จัดจำหน่ายและนำเข้าเซนเซอร์สำหรับอุตสาหกรรม, ออกแบบระบบควบคุมอัตโนมัติ PLC HMI SCADA , ตัวแทนจำหน่าย WECON , EYC-TECH , Leuze Thailand , Akusense",
+   "url": "https://www.eso.co.th/",
+   "date": "2026-10-21"
+  },
+  {
    "kind": "用户表",
-   "claim": "表内需求与回复",
-   "quote": "12光12电 8光8电 工业MC等；2024.5.16 → Email发了引流型号信息；2024.6.21 发了几个商业交换机图 → 问了一个项目 需求：工业2+4PoE 2+8",
+   "claim": "表内兴趣/备注",
+   "quote": "工业交换机",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "工业传感器进口分销与自动化系统",
+   "quote": "จัดจำหน่ายและนำเข้าเซนเซอร์สำหรับอุตสาหกรรม, ออกแบบระบบควบคุมอัตโนมัติ PLC HMI SCADA , ตัวแทนจำหน่าย WECON",
+   "url": "https://www.eso.co.th/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "工业交换机",
+   "quote": "工业交换机",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
- "kp": [
-  {
-   "name": "Pongpanot Kwanmuang",
-   "role": "（表内联系人）",
-   "email": "pongpanot.k@hotmail.com",
-   "phone": "",
-   "source": "用户 Clients 表"
-  }
- ],
+ "kp": [],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "无域名 · 仅表内信息"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "legal_name": "待核",
-  "founded": "待核",
-  "hq": "待核",
-  "size": "待核",
-  "other": "无电话/公司；hotmail"
+  "hq": "泰国",
+  "other": "官网 eso.co.th，语言 th-TH，快照状态 ok；角色判定来源：表内早期 AI 描述"
  },
  "business_lines": [
-  "待核（见表内需求）"
+  "工业传感器进口分销",
+  "PLC / HMI / SCADA 系统（WECON）"
  ],
- "products_seen": [],
  "channels": {
-  "contact": "Pongpanot Kwanmuang pongpanot.k@hotmail.com（邮件）"
+  "role": "工业传感器与自动化分销商（泰国）",
+  "region": "泰国",
+  "contact": "info@eso.co.th、sales@eso.co.th"
  },
  "signals": [
-  "2024-06 具体项目：工业 2 光 + 4 PoE、2 光 + 8 PoE",
-  "曾问 12 光 12 电 / 8 光 8 电（光口多的汇聚款）"
+  "官网：จัดจำหน่ายและนำเข้าเซนเซอร์สำหรับอุตสาหกรรม, ออกแบบระบบควบคุมอัตโนมัติ PLC HMI SCADA, ตัวแทนจำหน่าย WECON",
+  "栏目 /category/9342/1091/ethernet-switch；站内 SW05E"
  ],
  "risks": [
-  "无电话与公司实体",
-  "12 光 12 电不在 Saga 价目（需另询）"
+  "非主攻区（T5）",
+  "传感器为主业：交换机为配套品类，量小；7 次无回复，无具名 KP"
  ],
  "saga_fit": {
-  "p1": "STI-288GP",
-  "tier": 25,
-  "why": "项目需求「工业 2+8 PoE」→ STI-288GP（2 SFP + 8 PoE，DIN）；2+4 用 STI-154GP/STI-054GP 类；多光口汇聚另询"
+  "p1": "STI-050GE",
+  "tier": 20,
+  "why": "自动化配套小型工业交换机（现 SW05E 类 5 口）→ 工业 5 GE 非管理 STI-050GE（$17.0 @20%）、8 GE STI-080GE（$31.4）"
  },
- "email_hook": "For the project you described (industrial 2 SFP + 4 PoE and 2 SFP + 8 PoE) the DIN-rail 8-port unit is $57–62 EXW and the 4-port from $38 — is that project still live, and which quantities should I price?",
+ "email_hook": "For the Ethernet-switch category next to your sensors and WECON HMIs, we supply compact DIN-rail 5/8-port gigabit industrial switches (−40~75 °C, neutral packing) from small lots, EXW — which port count do your PLC panels use most?",
  "mail_review": {
   "binding": {
-   "level": "轻度触达（2024-07-04 Pongpanot：曼谷隧道项目 16 套，附系统图 → Simon 拆成两种设备回复；无后续；Elsa 箱：`to:pongpanot.k@hotmail.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 28 / 来 1）（第 74 批(n)））",
-   "type": "泰国项目承包（个人 Hotmail）",
-   "sieve": "2（项目 RFQ）",
-   "stop": "报价后无回",
-   "revive": "不动",
-   "lane": "TH",
-   "cadence": "不动",
-   "evidence": "k=4dbd322d94d94597 / 4b941fc8bc10a130"
+   "level": "未触达（A 邮箱 18 封 2025→2026，1 次记录打开，0 回；收件 info@eso.co.th, sales@eso.co.th；主题多为「Mini Industrial PoE Switch、Industrial PoE Switch」；Elsa 箱：`to:eso.co.th` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 18 / 来 0）（第 74 批(n)））",
+   "type": "工业传感器与自动化分销商（泰国）",
+   "sieve": "1~2（1 次打开）",
+   "stop": "只打通用邮箱，无记录打开",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "泰国 非主攻",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 18，Opened 标签 1（Simon 群发追踪）；用户表：「工业交换机」；研究档 risks：非主攻区（T5）"
   },
-  "situation": "—",
-  "need": "隧道 CCTV：8 口 + 4/5 口工业 PoE。",
-  "breakpoint": "—",
+  "situation": "泰国 ESO Tech（工业传感器进口分销、PLC/HMI/SCADA 自动化系统设计、WECON 代理；站内 ethernet-switch 品类（SW05E 等）；表内「工业交换机」）；群发 7 次无回复。",
+  "need": "自动化配套小型工业交换机（现 SW05E 类 5 口）→ 工业 5 GE 非管理 STI-050GE（$17.0 @20%）、8 GE STI-080GE（$31.4）",
+  "breakpoint": "非主攻区（T5）",
   "saga_now": {
-   "p1": "—",
-   "tier": 25,
-   "price": "—；群发里他已看到的价（续）：2026-07-29 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-12-11 $300（48 Port PoE Managed Switch）、2025-10-09 $280（10G Enterprise SFP Switch）、2026-06-26 $16000（32 Port 400GB DC Switch）",
-   "why": "已打开的主题（3/28 封有打开记录）：「CCTV poe switch」(2024-06-22)、「Re: 8 Port Network Switch」(2024-07-04)、「Re: 8 Port Network Switch」(2024-07-08) → 读者兴趣主题类别不明（看原主题）",
+   "p1": "STI-050GE",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-27 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-15 $280（10G Enterprise SFP Switch）、2026-06-26 $16000（32 Port 400GB DC Switch）",
+   "why": "自动化配套小型工业交换机（现 SW05E 类 5 口）→ 工业 5 GE 非管理 STI-050GE（$17.0 @20%）、8 GE STI-080GE（$31.4）。已打开的主题（1/18 封有打开记录）：「Commercial PoE Switch」(2025-07-14) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—",
-   "one_question": ""
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "For the Ethernet-switch category next to your sensors and WECON HMIs, we supply compact DIN-rail 5/8-port gigabit industrial switches (−40~75 °C, neutral packing) from small lots, EXW — which port count do your PLC panels use most?"
   },
   "facts": [
    {
-    "date": "2024-05-16",
-    "dir": "来",
-    "who": "用户表（Simon 跟进记录；渠道 Whatsapp/Email）",
-    "quote": "用户表跟进：推「发了mini工业交换机图片」→ 对方「Email发了引流型号信息」",
-    "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
-    "k": "Clients/A/DONE/Thailand 2.27.xlsx no.19 2024.5.16"
-   },
-   {
-    "date": "2024-06-21",
-    "dir": "来",
-    "who": "用户表（Simon 跟进记录；渠道 Whatsapp/Email）",
-    "quote": "用户表跟进：推「发了几个商业交换机图」→ 对方「问了一个项目 需求：工业2+4PoE  2+8」",
-    "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
-    "k": "Clients/A/DONE/Thailand 2.27.xlsx no.19 2024.6.21"
-   },
-   {
-    "date": "2024-07-04",
-    "dir": "来",
-    "who": "Pongpanot",
-    "quote": "I am looking for 16 sets for Tunnel project in Bangkok.",
-    "why": "项目",
-    "k": "4dbd322d94d94597"
-   },
-   {
-    "date": "2024-07-04",
+    "date": "2026-09-28",
     "dir": "去",
-    "who": "Saga（Simon）",
-    "quote": "Hi, Pongpanot, Thanks for your information. In the diagram, there are 2 different devices Device 1: Main 8 ports Ethernet Switch Device 2: 4 or 5 ports Industrial Unmanaged Switch with PoE The fiber optic cable is single core, so for both devices, its ideal to have 2 SFP slots for single core transc…",
-    "why": "Saga 实质答复原文（主题「Re: 8 Port Network Switch」；第 20 批从 gmail_s 回补）——承诺/口径以此为准",
-    "k": "4b941fc8bc10a130"
+    "who": "A 群发",
+    "quote": "Mini Industrial PoE Switch、Industrial PoE Switch",
+    "why": "18 封 / 1 次打开 / 0 回｜首封 2025-04-24 → 末封 2026-09-28（18 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "工业交换机",
+    "why": "表内备注",
+    "k": "用户表"
    }
   ],
   "proof_gaps": [],

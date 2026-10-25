@@ -1,40 +1,45 @@
 {
  "code": "SB-853",
- "name_official": "",
+ "name_official": "JM Fiber Optics, Inc.（Chino, CA, USA；jmfiberoptics.com）",
  "researched_at": "2026-10-21",
- "website_status": "在线（netwerkproducten.com，快照 2026-10-21）",
- "summary": "荷兰 MP2 Netwerkproducten（网络产品网店：16 点前下单当天发货、满 100 欧包邮；交换机 94、MC 18、光纤 40；Planet GSD-1020S；表内「比较多的外壳，有国内的；switch」）；群发 15 次无回复。",
- "type": "网络产品网店（荷兰）",
+ "website_status": "在线",
+ "summary": "加州 Chino 的光纤/无线网络工程与集成商（1992 年成立；11–50 人 / Bloomberg 8 人；D&B 营收 $3.02M；MBE/SBA 8(a) 认证；GSA Schedule GS-35F-0328S；国防部批准供应商，Cage 0VXH8）：光纤设计施工、熔接测试、机架安装、CCTV 与周界/隧道入侵检测、交通乘客信息系统、ETA 认证光纤技师培训（Caltrans 等客户）。商用与政府客户并重——政府/军方/轨道部分守界，商用光纤接入部分可用 Saga 光口交换机。用户表：18 次跟进 0 回复。",
+ "type": "",
  "size": "",
- "brands_seen": [
-  "Planet"
- ],
+ "brands_seen": [],
  "evidence": [
   {
-   "kind": "官网快照",
-   "claim": "官网标题：Welkom bij MP2 Netwerkproducten | MP2 Netwerkproducten；品类词 安防监控（CCTV / 门禁） / 电信 / FTTH / ISP 设备 / 无线 / WiFi / 数据中心 / 企业 IT / 光纤 / 媒体转换 / 网络交换 / PoE",
-   "quote": "Voor 16.00 uur besteld, vandaag verstuurd；Gratis verzending vanaf 100 euro；Spoed levering, neem contact met ons op；Categorieën；Veel gezocht；Zijn alle netwerkkabels 100% koper?",
-   "url": "https://www.netwerkproducten.com/",
+   "kind": "官网",
+   "claim": "公司定位与政府资质",
+   "quote": "JM Fiber Optics was established in 1992 as a full service communications company, servicing commercial, and government customers alike … We are an approved Department of Defense supplier/contractor … Headquarters 13941 Ramona Avenue, Suite A, Chino, CA 91710 USA Phone 1-909-628-3445 … Email info@jmfiberoptics.com GSA Schedule – GS-35F-0328S",
+   "url": "https://jmfiberoptics.com/aboutus/",
+   "date": "2024-01-05"
+  },
+  {
+   "kind": "政府名录",
+   "claim": "业务范围（含 CCTV 与交通系统）",
+   "quote": "JM Fiber Optics is a value added reseller and systems integrator of fiber optic and copper voice, video and data communication networks, CCTV and surveillance systems, perimeter and tunnel intrusion detection technology, transit passenger information systems and ETA certified fiber optic installer and technician training courses.",
+   "url": "https://www.navair.navy.mil/osbp/node/4566",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "LinkedIn",
+   "claim": "规模",
+   "quote": "JM Fiber Optics, Inc. … Company size: 11-50 employees Headquarters: Chino, CA … Founded: 1992",
+   "url": "https://www.linkedin.com/company/jm-fiber-optics-inc",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "名录",
+   "claim": "营收",
+   "quote": "JM Fiber Optics Inc. … Chino, CA, 91710-8412 … Revenue: $3.02 million Modelled",
+   "url": "https://www.dnb.com/business-directory/company-profiles.jm_fiber_optics_inc.535c7f6135c212ca574c96928b972d77.html",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "比较多的外壳 有国内的 switch",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "MP2 Netwerkproducten 网店",
-   "quote": "Welkom bij MP2 Netwerkproducten ; Voor 16.00 uur besteld, vandaag verstuurd ; Gratis verzending vanaf 100 euro",
-   "url": "https://www.netwerkproducten.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "比较多外壳，有国内的；switch",
-   "quote": "比较多的外壳 有国内的 switch",
+   "claim": "18 次跟进 0 回复",
+   "quote": "（用户表字段）",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
@@ -42,85 +47,101 @@
  "kp": [],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（官网 + 名录核对）"
  },
  "company_facts": {
-  "hq": "荷兰",
-  "other": "官网 netwerkproducten.com，语言 nl，快照状态 ok；角色判定来源：待核"
+  "legal_name": "JM Fiber Optics, Inc.",
+  "founded": "1992（Bloomberg 登记 1993-02-16）",
+  "hq": "13941 Ramona Ave, Suite A, Chino, CA 91710, USA（+1 909-628-3445；info@jmfiberoptics.com）",
+  "size": "11–50（LinkedIn）/ 8（Bloomberg）；营收 $3.02M（D&B 模型）",
+  "other": "GSA GS-35F-0328S；DoD 批准供应商（守界）；洛杉矶市少数族裔科技企业奖 2007/2013；ETA 认证培训"
  },
  "business_lines": [
-  "网络产品网店（交换机 / 线缆 / MC）"
+  "光纤网络设计、施工、熔接、测试与机架安装",
+  "CCTV/周界/隧道入侵检测集成（守界：交通/军方项目不供）",
+  "光纤技师培训（ETA 认证）",
+  "政府采购（GSA / DoD）——守界"
  ],
  "channels": {
-  "role": "网络产品网店（荷兰）",
-  "region": "荷兰",
-  "contact": "klantenservice@netwerkproducten.com"
+  "网站": "https://jmfiberoptics.com/",
+  "电话": "+1 909-628-3445 / 1-888-343-4237（官网公开）",
+  "邮箱（公开）": "info@jmfiberoptics.com",
+  "LinkedIn": "https://www.linkedin.com/company/jm-fiber-optics-inc"
  },
  "signals": [
-  "官网：Voor 16.00 uur besteld, vandaag verstuurd；Gratis verzending vanaf 100 euro",
-  "站内 kw：switch 94 / fiber 40 / media converter 18；GSD-1020S（Planet）"
+  "商用光纤到楼/园区项目需要多 SFP 口汇聚交换机（STC-4168XGGCM 16 SFP + 8 Combo + 4×10G）与 PoE 接入；培训教室亦需光口交换机作教具"
  ],
  "risks": [
-  "网店已有国内白牌多外壳供货：价格基准低",
-  "15 次无回复，仅客服邮箱"
+  "政府/DoD/交通项目占比高 → TAA/BAA 与守界；18 次跟进 0 回复；仅商用项目可推进"
  ],
  "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 20,
-  "why": "网店交换机品类（含国内白牌）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-08GE（$10.5）；MC 位 STI-110GE"
+  "p1": "STC-4168XGGCM",
+  "tier": 25,
+  "why": "集成商 25% 档（仅商用项目）：STC-4168XGGCM（16 SFP + 8 Combo + 4×10G，L3，$392.4）作光纤汇聚；接入 STC-28DGGPM；仅供非政府、非交通项目"
  },
- "email_hook": "For the switch category of your shop, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 5/8-port unmanaged models from small lots, CE/RoHS, EU shipping — which band sells more for you, PoE or plain gigabit?",
+ "email_hook": "For your commercial fiber-to-the-building jobs, a 16-SFP + 8-combo L3 aggregation switch with 4×10G uplinks is $392.4 EXW; if a private-campus project is coming up I can quote it with the matching PoE edge units.",
  "mail_review": {
   "binding": {
-   "level": "未触达（A/S 邮箱 24 封 2024→2026，1 次记录打开，0 回；收件 klantenservice@netwerkproducten.com；主题多为「16 Port Ethernet Switch、Marvell Alleycat5 Solution」；Elsa 箱：`to:netwerkproducten.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 24 / 来 0）（第 74 批(k)））",
-   "type": "网络产品网店（荷兰）",
+   "level": "未触达（A/S 邮箱 22 封 2024→2026，1 次记录打开，0 回；收件 feckardt@jmfiberoptics.com；主题多为「Marvell Industrial Alert System、OEM Core Switching Solution」；Elsa 箱：`to:jmfiberoptics.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 22 / 来 0）（第 74 批(h)））",
+   "type": "—",
    "sieve": "1~2（1 次打开）",
-   "stop": "24 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱；Q-33 供应商渠道客户",
-   "revive": "不动（Q-33）",
-   "lane": "荷兰（欧洲全域主攻）",
-   "cadence": "不动",
-   "evidence": "gmail_digest：out 24，Opened 标签 1（Simon 群发追踪）；用户表：「比较多的外壳 有国内的 switch」；研究档 risks：网店已有国内白牌多外壳供货：价格基准低"
+   "stop": "22 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+   "lane": "US 主攻（四主）",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 22，Opened 标签 1（Simon 群发追踪）；用户表：「（用户表字段）」；研究档 risks：政府/DoD/交通项目占比高 → TAA/BAA 与守界；18 次跟进 0 回复；仅商用项目可推进"
   },
-  "situation": "荷兰 MP2 Netwerkproducten（网络产品网店：16 点前下单当天发货、满 100 欧包邮；交换机 94、MC 18、光纤 40；Planet GSD-1020S；表内「比较多的外壳，有国内的；switch」）；群发 15 次无回复。",
-  "need": "网店交换机品类（含国内白牌）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-08GE（$10.5）；MC 位 STI-110GE",
-  "breakpoint": "网店已有国内白牌多外壳供货：价格基准低",
+  "situation": "加州 Chino 的光纤/无线网络工程与集成商（1992 年成立；11–50 人 / Bloomberg 8 人；D&B 营收 $3.02M；MBE/SBA 8(a) 认证；GSA Schedule GS-35F-0328S；国防部批准供应商，Cage 0VXH8）：光纤设计施工、熔接测试、机架安装、CCTV 与周界/隧道入侵检测、交通乘客信息系统、ETA 认证光纤技师培训（Caltrans 等客户）。商用与政府客户并重——政府/军方/轨道部分守界，商用光纤接入部分可用 Saga 光口交换机。用户表：18 次跟进 0 回复。",
+  "need": "集成商 25% 档（仅商用项目）：STC-4168XGGCM（16 SFP + 8 Combo + 4×10G，L3，$392.4）作光纤汇聚；接入 STC-28DGGPM；仅供非政府、非交通项目",
+  "breakpoint": "政府/DoD/交通项目占比高 → TAA/BAA 与守界；18 次跟进 0 回复；仅商用项目可推进",
   "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 20,
-   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-05 $65（10G media converter）；群发里他已看到的价（续）：2026-07-27 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-06-13 $220（48 port managed switch）、2025-01-23 $240（24 Port Fiber Switch）、2025-10-07 $280（10G Enterprise SFP Switch）、2026-06-16 $16000（32 Port 400GB DC Switch）",
-   "why": "网店交换机品类（含国内白牌）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-08GE（$10.5）；MC 位 STI-110GE。已打开的主题（1/24 封有打开记录）：「24 Port Fiber Switch」(2025-01-23) → 读者兴趣偏「MC/光电」；与 P1 同类，继续",
+   "p1": "STC-4168XGGCM",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-11 $300（48 Port PoE Managed Switch）、2024-12-31 $240（24 Port Fiber Switch）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-07 $280（10G Enterprise SFP Switch）",
+   "why": "集成商 25% 档（仅商用项目）：STC-4168XGGCM（16 SFP + 8 Combo + 4×10G，L3，$392.4）作光纤汇聚；接入 STC-28DGGPM；仅供非政府、非交通项目。已打开的主题（1/22 封有打开记录）：「Marvell Industrial Alert System」(2025-12-12) → 读者兴趣偏「工业」；与 P1 同类，继续",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—",
-   "one_question": ""
+   "when": "2027-Q1（换人后）",
+   "channel": "A 邮箱 → 具名 KP",
+   "action": "换收件人再发一封（第 75 批(w) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用）；STC-4168XGGCM 不报价（他 2025-10 见过群发 $280，档位 $392 冲突）；政府/军/轨交守界已在信里划开）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
+   "one_question": "For your commercial fiber-to-the-building jobs, a 16-SFP + 8-combo L3 aggregation switch with 4×10G uplinks is $392.4 EXW; if a private-campus project is coming up I can quote it with the matching PoE edge units."
   },
   "facts": [
    {
-    "date": "2026-09-09",
+    "date": "2026-02-16",
     "dir": "去",
     "who": "A/S 群发",
-    "quote": "16 Port Ethernet Switch、Marvell Alleycat5 Solution",
-    "why": "24 封 / 1 次打开 / 0 回｜首封 2024-06-13 → 末封 2026-09-09（24 去 / 0 来）",
+    "quote": "Marvell Industrial Alert System、OEM Core Switching Solution",
+    "why": "22 封 / 1 次打开 / 0 回｜首封 2024-06-29 → 末封 2026-02-16（22 去 / 0 来）",
     "k": "gmail_digest"
    },
    {
     "date": "2026-10-21",
     "dir": "用户表",
     "who": "Simon",
-    "quote": "比较多的外壳 有国内的 switch",
+    "quote": "（用户表字段）",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-02-16",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "Updated Ethernet Switches Links",
+    "why": "本日去信真实主题（邮箱索引 1238f68b8cc2c28e；信稿开头句引用此封；此前稿内写的「Marvell Industrial Alert System」是线程列表首题，不是本封）",
+    "k": "1238f68b8cc2c28e"
    }
   ],
   "proof_gaps": [],
-  "draft_en": null,
+  "draft_en": {
+   "subject": "For your commercial fibre-to-the-building jobs - PoE edge now, aggregation against the port plan",
+   "body": "Hello J&M Fiber Optics team,\n\nOver the past months you had a few product mails from us - most recently \"Updated Ethernet Switches Links\" on 16 February 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the commercial fibre-to-the-building and private-campus jobs (not the government or transit work - different rules there), the PoE edge unit, FCC/CE/RoHS: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based - model STC-28DGGPM - $84.1 USD EXW (MOQ 1, 15-day validity); 24 x PoE+ (280 W) + 4 x 10G SFP+ - STC-424XGGPM-280W - $180. The fibre aggregation unit (16 x SFP + 8 x combo, 4 x 10G uplinks, L3) I quote against the project's port plan rather than as a list number.\n\nOne question: is there a private-campus or commercial building project coming up in the next quarter where the aggregation + edge pair would be bid together?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+  },
   "as_of": "2026-10-24"
  }
 }

@@ -2,42 +2,68 @@
  "code": "SB-399",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "在线（golmar.es，快照 2026-10-21）",
- "summary": "西班牙 Golmar（70 余年楼宇可视对讲制造商，安防方案：CCTV、门禁、入侵、消防、公共广播、家居自动化、医院；GCloud、G2+、IP G+ 系统；表内「主要是 CCTV 也有一些商业 PoE」「可以尝试多跟进一下」）；表内 7 次跟进无回复。",
- "type": "楼宇对讲/安防制造商（西班牙，自有品牌，PoE 为配套）",
+ "website_status": "在线（petawise.com，快照 2026-10-21）",
+ "summary": "加拿大 Petawise（「Canadian Arm of Uniview Technologies」安大略 IP 视频监控分销，Wanglu IPC 测试仪独家分销；PoE 交换机栏目全线用 Itoonertech（表内「全线用 itoonertech 的 FS，IPC 比较多，主要是 CCTV」）；KP Stephane Lavigueur（VP of Product and Engineering）、Ebin Nazar（Sales Engineer）、John K）；群发 18 次无回复。",
+ "type": "Uniview 加拿大分销商（PoE 现 Itoonertech）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Uniview",
+  "Ruijie",
+  "Itoonertech"
+ ],
  "evidence": [
   {
    "kind": "官网快照",
-   "claim": "官网标题：Golmar sistemas de comunicación | Golmar；品类词 安防监控（CCTV / 门禁） / 无线 / WiFi / 布线 / 线缆 / 网络交换 / PoE",
-   "quote": "Golmar, Spanish manufacturer of video intercoms for over 70 years. Security solutions: CCTV, access control, intrusion detection, fire detection, public address systems, home automation, and hospital security.",
-   "url": "https://golmar.es/home-en",
+   "claim": "官网标题：Petawise | Best cameras in Ontario | Best cameras in Canada；品类词 安防监控（CCTV / 门禁） / 网络交换 / PoE",
+   "quote": "Petawise is the Canadian Arm of Uniview Technologies Co. Ltd., a pioneer and leader of IP video surveillance..Petawise is an exclusive distributor of Wanglu Technology, a leader of IPC tester.",
+   "url": "https://petawise.com/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
    "claim": "表内兴趣/备注",
-   "quote": "主要是CCTV 也有一些商业POE",
+   "quote": "全线用itoonertech的FS IPC比较多 主要是CCTV领域；全线用itoonertech的FS IPC比较多 主要是CCTV领域 在用Itoonertech商业PoE；https://petawise.com/product-category/PoE-solutions/",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   },
   {
    "kind": "官网快照",
-   "claim": "Golmar 定位",
-   "quote": "Golmar, Spanish manufacturer of video intercoms for over 70 years. Security solutions: CCTV, access control, intrusion detection, fire detection, public address systems, home automation",
-   "url": "https://golmar.es/home-en",
+   "claim": "Petawise 定位",
+   "quote": "Petawise is the Canadian Arm of Uniview Technologies Co. Ltd., a pioneer and leader of IP video surveillance..Petawise is an exclusive distributor of Wanglu Technology ; /product-category/accessories/poe-switch/",
+   "url": "https://petawise.com/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "CCTV 商业 PoE",
-   "quote": "主要是CCTV 也有一些商业POE；可以尝试多跟进一下",
+   "claim": "全线用 Itoonertech 的 FS",
+   "quote": "全线用itoonertech的FS IPC比较多 主要是CCTV领域；在用Itoonertech商业PoE",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Stephane Lavigueur",
+   "title": "Vice President of Product and Engineering",
+   "email": "sales@petawise.com",
+   "phone": "",
+   "source": "用户表"
+  },
+  {
+   "name": "John K",
+   "title": "（职务待核）",
+   "email": "johnk@petawise.com",
+   "phone": "",
+   "source": "用户表"
+  },
+  {
+   "name": "Ebin Nazar",
+   "title": "Sales Engineer",
+   "email": "",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
@@ -46,81 +72,84 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "西班牙",
-  "other": "官网 golmar.es，语言 en-GB，快照状态 ok；角色判定来源：用户表"
+  "hq": "美国",
+  "other": "官网 petawise.com，语言 en-US，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "楼宇可视对讲 / 安防系统制造（自有品牌 Golmar）"
+  "IP 视频监控分销（Uniview 加拿大）",
+  "PoE 交换机 / IPC 测试仪"
  ],
  "channels": {
-  "role": "楼宇对讲/安防制造商（西班牙，自有品牌，PoE 为配套）",
-  "region": "西班牙",
-  "contact": "golmar@golmar.es"
+  "role": "Uniview 加拿大分销商（PoE 现 Itoonertech）",
+  "region": "美国",
+  "contact": "sales@petawise.com、johnk@petawise.com"
  },
  "signals": [
-  "官网：Golmar, Spanish manufacturer of video intercoms for over 70 years. Security solutions: CCTV, access control, intrusion detection, fire detection, public address systems, home automation；首页 Golmar GCloud ; IP G+ Endless possibilities；kw camera 129 / cctv 30 / nvr 22 / distributor 14",
-  "表内：主要是 CCTV 也有一些商业 PoE；可以尝试多跟进一下"
+  "官网：Petawise is the Canadian Arm of Uniview Technologies Co. Ltd. … Petawise is an exclusive distributor of Wanglu Technology, a leader of IPC tester；页面 /product-category/accessories/poe-switch/；kw distributor 15",
+  "表内：全线用 itoonertech 的 FS IPC 比较多 主要是 CCTV 领域；在用 Itoonertech 商业 PoE（https://petawise.com/product-category/PoE-solutions/）；KP Stephane Lavigueur / Vice President of Product and Engineering；Ebin Nazar / Sales Engineer；John K"
  ],
  "risks": [
-  "体量：Golmar 为西班牙老牌制造商（采购流程长、可能已有稳定 PoE 供应）；PoE 为配套品类",
-  "7 次无回复，仅 golmar@ 总邮箱 → 需找采购/产品经理"
+  "Uniview 加拿大分支定位（品牌导向，Uniview 自带 PoE 线）；现供 Itoonertech（深圳）价格基准低",
+  "18 次无回复 → 改向 VP Product & Engineering 具名首触",
+  "国别更正：官网「Best cameras in Ontario | Best cameras in Canada」→ 加拿大（表内美国）"
  ],
  "saga_fit": {
   "p1": "STC-28DGGPM",
-  "tier": 30,
-  "why": "IP 对讲/CCTV 配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Golmar 标；24 口 STC-424DGGPM-280W（$145.7）；非管理 4/8 PoE 位 HRUI（列表价，注明）"
+  "tier": 20,
+  "why": "PoE 全线现 Itoonertech（深圳）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）作 Marvell 升级位；非管理 8/16 PoE 位 HRUI STC-028GP / STC-2216GPM（列表价，注明）；24 口 STC-424DGGPM-280W（$134.5）"
  },
- "email_hook": "For the PoE switches that power your IP G+ door panels and CCTV kits, we can be an ODM source on a Marvell L2+ platform (8-PoE + 2 SFP; 24-PoE 280 W; budget 4/8-PoE unmanaged) in Golmar packaging from small lots, CE/RoHS — which PoE SKU do your installers order most with IP kits?",
+ "email_hook": "Stephane, alongside the PoE switches you bundle with Uniview cameras, we supply Marvell-based 8-PoE + 2 SFP L2+ and 24-PoE + 4 SFP models plus budget 8/16-port PoE units from small lots, FCC/CE/RoHS, EXW USD — which port count do your Ontario dealers order most?",
+ "country_fix": "加拿大",
  "mail_review": {
   "binding": {
-   "level": "读而不回（A/S 邮箱 13 封 2024→2026，其中 2 封被打开，0 回；收件 golmar@golmar.es；被打开主题「Managed Optical Bypass Switch、48 Port PoE Managed Switch」；Elsa 箱：`to:.es` 穷举 15 条（2026-10-25，锚批 Bcc 头已读）未见 golmar.es → Elsa 箱从未发过本户，往来只在 S/A 箱（去 13 / 来 0）（第 74 批(f)））",
-   "type": "楼宇对讲/安防制造商（西班牙，自有品牌，PoE 为配套）",
+   "level": "读而不回（A/S 邮箱 28 封 2024→2026，其中 2 封被打开，0 回；收件 dexter@petawise.com, ebin@petawise.com；被打开主题「Mini Industrial PoE Switch、Marvell Industrial Alert System」；Elsa 箱：`to:petawise.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 28 / 来 0）（第 74 批(h)））",
+   "type": "Uniview 加拿大分销商（PoE 现 Itoonertech）",
    "sieve": "2（有人在读，无人回）",
    "stop": "读而不回 = 内容未命中或没有当下需求",
    "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
-   "lane": "西班牙（欧洲全域主攻）",
+   "lane": "CA 主攻",
    "cadence": "一封；回了再说",
-   "evidence": "gmail_digest：out 13，Opened 标签 2（Simon 群发追踪）；用户表：「主要是CCTV 也有一些商业POE」；研究档 risks：体量：Golmar 为西班牙老牌制造商（采购流程长、可能已有稳定 PoE 供应）；PoE 为配套品类"
+   "evidence": "gmail_digest：out 28，Opened 标签 2（Simon 群发追踪）；用户表：「全线用itoonertech的FS IPC比较多 主要是CCTV领域；全线用itoonertech的FS IPC比较多 主要是CCTV领域 在用Itoonert」；研究档 risks：Uniview 加拿大分支定位（品牌导向，Uniview 自带 PoE 线）；现供 Itoonertech（深圳）价格基准低"
   },
-  "situation": "西班牙 Golmar（70 余年楼宇可视对讲制造商，安防方案：CCTV、门禁、入侵、消防、公共广播、家居自动化、医院；GCloud、G2+、IP G+ 系统；表内「主要是 CCTV 也有一些商业 PoE」「可以尝试多跟进一下」）；表内 7 次跟进无回复。",
-  "need": "IP 对讲/CCTV 配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Golmar 标；24 口 STC-424DGGPM-280W（$145.7）；非管理 4/8 PoE 位 HRUI（列表价，注明）",
-  "breakpoint": "体量：Golmar 为西班牙老牌制造商（采购流程长、可能已有稳定 PoE 供应）；PoE 为配套品类",
+  "situation": "加拿大 Petawise（「Canadian Arm of Uniview Technologies」安大略 IP 视频监控分销，Wanglu IPC 测试仪独家分销；PoE 交换机栏目全线用 Itoonertech（表内「全线用 itoonertech 的 FS，IPC 比较多，主要是 CCTV」）；KP Stephane Lavigueur（VP of Product and Engineering）、Ebin Nazar（Sales Engineer）、John K）；群发 18 次无回复。",
+  "need": "PoE 全线现 Itoonertech（深圳）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）作 Marvell 升级位；非管理 8/16 PoE 位 HRUI STC-028GP / STC-2216GPM（列表价，注明）；24 口 STC-424DGGPM-280W（$134.5）",
+  "breakpoint": "Uniview 加拿大分支定位（品牌导向，Uniview 自带 PoE 线）；现供 Itoonertech（深圳）价格基准低",
   "saga_now": {
    "p1": "STC-28DGGPM",
-   "tier": 30,
-   "price": "首触锚价 STC-28DGGPM $87.4 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-11-06 $300（48 Port PoE Managed Switch）、2024-12-03 $65（10G Media Converter）、2025-10-02 $280（10G Enterprise SFP Switch）",
-   "why": "IP 对讲/CCTV 配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Golmar 标；24 口 STC-424DGGPM-280W（$145.7）；非管理 4/8 PoE 位 HRUI（列表价，注明）。已打开的主题（2/13 封有打开记录）：「48 Port PoE Managed Switch」(2024-11-06)、「10G Media Converter」(2024-12-03) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
+   "tier": 20,
+   "price": "首触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-19 $65（10G fiber media converter）；群发里他已看到的价（续）：2026-07-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-11-27 $300（48 Port PoE Managed Switch）、2025-02-05 $240（24 Port Fiber Switch）、2025-10-10 $280（10G Enterprise SFP Switch）",
+   "why": "PoE 全线现 Itoonertech（深圳）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）作 Marvell 升级位；非管理 8/16 PoE 位 HRUI STC-028GP / STC-2216GPM（列表价，注明）；24 口 STC-424DGGPM-280W（$134.5）。已打开的主题（2/28 封有打开记录）：「48 Port PoE Managed Switch」(2024-11-27)、「24 Port Fiber Switch」(2025-02-05) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-03-02)、Saga Feature List_7.5.x_L2+(2026-07-01)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
    "when": "2026-11",
-   "channel": "A 邮箱 → golmar@golmar.es",
+   "channel": "A 邮箱 → dexter@petawise.com",
    "action": "短信一问（email_hook）",
-   "one_question": "For the PoE switches that power your IP G+ door panels and CCTV kits, we can be an ODM source on a Marvell L2+ platform (8-PoE + 2 SFP; 24-PoE 280 W; budget 4/8-PoE unmanaged) in Golmar packaging from small lots, CE/RoHS — which PoE SKU do your installers order most with IP kits? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity)."
+   "one_question": "Stephane, alongside the PoE switches you bundle with Uniview cameras, we supply Marvell-based 8-PoE + 2 SFP L2+ and 24-PoE + 4 SFP models plus budget 8/16-port PoE units from small lots, FCC/CE/RoHS, EXW USD — which port count do your Ontario dealers order most? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
    {
-    "date": "2026-02-10",
+    "date": "2026-08-27",
     "dir": "去",
     "who": "A/S 群发",
-    "quote": "Managed Optical Bypass Switch、48 Port PoE Managed Switch",
-    "why": "13 封 / 2 次打开 / 0 回｜首封 2024-11-06 → 末封 2026-02-10（13 去 / 0 来）",
+    "quote": "Mini Industrial PoE Switch、Marvell Industrial Alert System",
+    "why": "28 封 / 2 次打开 / 0 回｜首封 2024-06-26 → 末封 2026-08-27（28 去 / 0 来）",
     "k": "gmail_digest"
    },
    {
     "date": "2026-10-21",
     "dir": "用户表",
     "who": "Simon",
-    "quote": "主要是CCTV 也有一些商业POE",
+    "quote": "全线用itoonertech的FS IPC比较多 主要是CCTV领域；全线用itoonertech的FS IPC比较多 主要是CCTV领域 在用Itoonertech商业PoE；https://petawise.com/product-ca",
     "why": "表内备注",
     "k": "用户表"
    }
   ],
   "proof_gaps": [],
   "draft_en": {
-   "subject": "One question — Managed Optical Bypass Switch",
-   "body": "Hi Golmar,\n\nWe have sent you a few mails on \"Managed Optical Bypass Switch\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor the PoE switches that power your IP G+ door panels and CCTV kits, we can be an ODM source on a Marvell L2+ platform (8-PoE + 2 SFP; 24-PoE 280 W; budget 4/8-PoE unmanaged) in Golmar packaging from small lots, CE/RoHS — which PoE SKU do your installers order most with IP kits?\n\nReference price: 8-PoE + 2 × 1G/2.5G SFP L2+ managed switch (Marvell AC5), 120 W (STC-28DGGPM) $87.4 USD EXW, MOQ 1 pc, 15-day validity, 1-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+   "subject": "One question — Mini Industrial PoE Switch",
+   "body": "Hi Stephane,\n\nWe have sent you a few mails on \"Mini Industrial PoE Switch\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nAlongside the PoE switches you bundle with Uniview cameras, we supply Marvell-based 8-PoE + 2 SFP L2+ and 24-PoE + 4 SFP models plus budget 8/16-port PoE units from small lots, FCC/CE/RoHS, EXW USD — which port count do your Ontario dealers order most?\n\nReference price: 8-PoE + 2 × 1G/2.5G SFP L2+ managed switch (Marvell AC5), 120 W (STC-28DGGPM) $80.7 USD EXW, MOQ 1 pc, 15-day validity, 1-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
  }

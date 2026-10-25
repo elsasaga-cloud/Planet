@@ -1,0 +1,66 @@
+{
+ "code": "SC-232",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（yjsoft.kr，快照 2026-10-21）",
+ "summary": "韩国 YJSOFT（yjsoft.kr；阿里巴巴询盘「Bypass」；KP YJ Jeon；无邮箱）；表内未跟进。",
+ "type": "软件/IT 公司（韩国，无邮箱）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：YJSOFT",
+   "quote": "",
+   "url": "https://yjsoft.kr/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "Bypass / from: 阿里巴巴询盘",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "Bypass 询盘",
+   "quote": "Bypass / from: 阿里巴巴询盘",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "无邮箱；c_sub=无邮箱",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "韩国",
+  "other": "官网 yjsoft.kr，语言 en，快照状态 ok；角色判定来源：待核"
+ },
+ "business_lines": [
+  "软件 / IT（韩国）"
+ ],
+ "channels": {
+  "role": "软件/IT 公司（韩国，无邮箱）",
+  "region": "韩国",
+  "contact": "（表内无邮箱）"
+ },
+ "signals": [
+  "表内：Bypass / from: 阿里巴巴询盘；KP YJ Jeon；无邮箱",
+  "快照：YJSOFT（内容空）"
+ ],
+ "risks": [
+  "无邮箱（无法联系）；非主攻区（韩国）；bypass 款不在 Saga 列表"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 20,
+  "why": "无邮箱、非主攻区、bypass 款不在 Saga 列表 → 改 C"
+ },
+ "email_hook": "（不发送：无邮箱）"
+}

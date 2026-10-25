@@ -1,0 +1,11 @@
+# SB-427 longlinenetwork.com · feed_auto · https://www.longlinenetwork.com/feed/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+Thu, 04 Dec 2025 11:09:23 +0000	Longline 5 Port Gigabit Ethernet Switch | 10/100/1000 Mbps | Plastik Kasa LNG6005GS	https://www.longlinenetwork.com/urunler/longline-5-port-gigabit-ethernet-switch-10-100-1000-mbps-plastik-kasa-lng6005gs/
+Thu, 04 Dec 2025 11:04:31 +0000	Longline 5 Port Desktop Ethernet Switch | 10/100 Mbps LNG5005S	https://www.longlinenetwork.com/urunler/longline-5-port-desktop-ethernet-switch-10-100-mbps-lng5005s/
+Thu, 04 Dec 2025 10:54:51 +0000	Longline 8 Port Gigabit Ethernet Switch | 10/100/1000 Mbps | Plastik Kasa LNG6008GS	https://www.longlinenetwork.com/urunler/longline-8-port-gigabit-ethernet-switch-10-100-1000-mbps-plastik-kasa-lng6008gs/
+Thu, 04 Dec 2025 10:46:37 +0000	Longline 4 Port Gigabit PoE Switch | 2 Uplink	https://www.longlinenetwork.com/urunler/longline-4-port-gigabit-poe-switch-2-uplink/
+Thu, 04 Dec 2025 10:34:00 +0000	Longline 8 Port Gigabit PoE Switch | 2 Uplink Port + 1 SFP LNG3048GE	https://www.longlinenetwork.com/urunler/longline-8-port-gigabit-poe-switch-2-uplink-port-1-sfp-lng3048ge-2/
+Fri, 21 Nov 2025 13:28:20 +0000	Longline 8 Port Gigabit PoE Switch | 2 Uplink Port + 1 SFP LNG3048GE	https://www.longlinenetwork.com/urunler/longline-8-port-gigabit-poe-switch-2-uplink-port-1-sfp-lng3048ge/
+Fri, 21 Nov 2025 13:25:49 +0000	Longline 16 Port Gigabit PoE Switch | 2 Uplink 100/1000Mb + 1 SFP | 250W LNG30316GE	https://www.longlinenetwork.com/urunler/longline-16-port-gigabit-poe-switch-2-uplink-100-1000mb-1-sfp-250w-lng30316ge/
+Fri, 21 Nov 2025 13:17:39 +0000	Longline 24 Port Gigabit PoE Switch | 2 Uplink + 2 SFP | L2 Managed | 370W	https://www.longlinenetwork.com/urunler/longline-24-port-gigabit-poe-switch-2-uplink-2-sfp-l2-managed-370w/
+Fri, 21 Nov 2025 13:11:56 +0000	Longline 10G Fiber Switch 48 Port Ethernet New Arrival Aggregation Layer Switch LNG5863-48SX2QC	https://www.longlinenetwork.com/urunler/longline-10g-fiber-switch-48-port-ethernet-new-arrival-aggregation-layer-switch-lng5863-48sx2qc/
+Fri, 21 Nov 2025 13:05:45 +0000	Longline Network Switch 100G QSFP28 Data Center Switch LNG6670-32QC	https://www.longlinenetwork.com/urunler/longline-network-switch-100g-qsfp28-data-center-switch-lng6670-32qc/

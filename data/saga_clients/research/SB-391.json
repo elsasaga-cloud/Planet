@@ -1,129 +1,143 @@
 {
-  "code": "SB-391",
-  "name_official": "ALIDEX S.r.l.（意大利；西班牙分支 = SB-934）",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（alidex.it，快照 2026-10-21）",
-  "summary": "意大利工业网络 / IoT / OT 安全分销商（工业交换机与路由、光纤转换器、串口、Network TAP；ORing；industrial 84 / switch 112 / sfp 43），仅 info@；表内「几个台湾牌子，MC SFP 光猫 工业 FS 啥都卖」；西班牙站 alidex.es（SB-934）为同一公司；群发 1 次。",
-  "type": "",
-  "size": "",
-  "brands_seen": [
-    "ORing"
-  ],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "工业网络、IoT、OT 安全；工业交换机 / 路由、光纤转换、串口、TAP；ORing",
-      "quote": "ALIDEX - Networking industriale. Switch e Router Industriali, Convertitori Ottici, Connettività Seriale, Network TAP… brands ORing",
-      "url": "https://alidex.it/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "几个台湾牌子；MC SFP 光猫 工业 FS 啥都卖；台湾的比较多",
-      "quote": "兴趣：几个台湾牌子;MC SFP 光猫 工业FS 啥都卖",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "（未具名）",
-      "title": "",
-      "email": "info@alidex.it",
-      "phone": "",
-      "source": "（本地 Clients/ 表格，无公开 URL）"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（官网快照核对 + 表内）"
+ "code": "SB-391",
+ "name_official": "Inscape Data Corporation（美国加州）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（inscapedata.com，快照 2026-10-21）",
+ "summary": "美国室外 PoE 交换机 / 工业网络 / 视频安防 / Wi-Fi 方案商（2004 年成立；自有品牌 + 网店 PoEsuperstore.com；poe 533 / switch 255 / sfp 128 / oem 8），Sales & Marketing Manager Sergio F.、Juan Moncada、Patricia G.；表内「工业 FS MC PoE 配件 SFP 10G 大口」；群发 20 次无回复。自有品牌 → OEM 30%。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "Inscape Data（自有）",
+  "Cisco"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "2004 年成立，服务工业网络、视频安防与 Wi-Fi 市场；室外 PoE 交换机领导者",
+   "quote": "Founded in February 2004, 2017 marks Inscape Data Corporation's 13th year of business serving the industrial network, video security, and WIFI markets worldwide… Outdoor PoE Switch, Leader in Outdoor Network Solutions",
+   "url": "https://inscapedata.com/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "legal_name": "ALIDEX S.r.l.",
-    "founded": "",
-    "hq": "Italy",
-    "size": "中小型工业网络分销（意 + 西）",
-    "other": "同一公司：SB-934 alidex.es"
-  },
-  "business_lines": [
-    "工业网络 / IoT / OT 安全分销"
-  ],
-  "channels": {
-    "role": "工业分销商（台系品牌）",
-    "region": "意大利 + 西班牙"
-  },
-  "signals": [
-    "台系工业品牌为主 → 低价第二品牌位置",
-    "两国覆盖"
-  ],
-  "risks": [
-    "仅 info@；台系品牌忠诚"
-  ],
-  "saga_fit": {
-    "p1": "STI-288GPM",
-    "tier": 20,
-    "why": "台系工业管理 PoE 之下 → STI-288GPM（$78.9 @20%）。"
-  },
-  "email_hook": "For ALIDEX Italy and Spain — a Marvell-based DIN managed 8-PoE + 2-SFP at $79 EXW as the value tier under your Taiwanese lines; who runs product selection across the two countries?",
-  "mail_review": {
-    "binding": {
-      "level": "未触达（A 邮箱 12 封 2025→2026，无记录打开，0 回；收件 info@alidex.it；主题多为「10G Enterprise SFP Switch、Booster PoE Switch」）；Elsa 群发 BCC 已触达 2025-04-01「Marvell Alleycat5 Solution」（稿内无价，第 74 批(p) 已读稿），IT 批次 To INFO@sarcitalia.it，0 回（第 74 批 Bcc 头核对 msg 195f09436b3ed616）",
-      "type": "—",
-      "sieve": "1（只收到群发）",
-      "stop": "只打通用邮箱，无记录打开",
-      "revive": "保持季度群发到 2027-Q1；无打开即停",
-      "lane": "意大利（欧洲全域主攻）",
-      "cadence": "季度",
-      "evidence": "gmail_digest：out 12；用户表：「兴趣：几个台湾牌子;MC SFP 光猫 工业FS 啥都卖」；研究档 risks：仅 info@；台系品牌忠诚；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To INFO@sarcitalia.it）本户见于 2025-04-01 名单；2026-08-31 最新一轮名单已不含此地址 → 中途被剔除（退信 / 退订 / 手工）"
-    },
-    "situation": "意大利工业网络 / IoT / OT 安全分销商（工业交换机与路由、光纤转换器、串口、Network TAP；ORing；industrial 84 / switch 112 / sfp 43），仅 info@；表内「几个台湾牌子，MC SFP 光猫 工业 FS 啥都卖」；西班牙站 alidex.es（SB-934）为同一公司；群发 1 次。",
-    "need": "台系工业管理 PoE 之下 → STI-288GPM（$78.9 @20%）。",
-    "breakpoint": "仅 info@；台系品牌忠诚",
-    "saga_now": {
-      "p1": "STI-288GPM",
-      "tier": 20,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-16 $280（10G Enterprise SFP Switch）",
-      "why": "台系工业管理 PoE 之下 → STI-288GPM（$78.9 @20%）。",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "群发节奏",
-      "channel": "A 邮箱",
-      "action": "观察打开",
-      "one_question": "For ALIDEX Italy and Spain — a Marvell-based DIN managed 8-PoE + 2-SFP at $79 EXW as the value tier under your Taiwanese lines; who runs product selection across the two countries?"
-    },
-    "facts": [
-      {
-        "date": "2025-04-01",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To INFO@sarcitalia.it，IT 批次）",
-        "quote": "Marvell Alleycat5 Solution — We are doing Marvell Alleycat5 chip for tailored networking solutions. 1, Support Web GUI change(Logo, model name, MAC, SN, SNMP, OID) 2, Added intere",
-        "why": "Elsa 箱群发 BCC 触达证据（命中地址 alidex.it, info@alidex.it）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-        "k": "elsa_bcc"
-      },
-      {
-        "date": "2026-10-07",
-        "dir": "去",
-        "who": "A 群发",
-        "quote": "10G Enterprise SFP Switch、Booster PoE Switch",
-        "why": "12 封 / 0 次打开 / 0 回｜首封 2025-10-16 → 末封 2026-10-07（12 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "兴趣：几个台湾牌子;MC SFP 光猫 工业FS 啥都卖",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-25"
+  {
+   "kind": "用户表",
+   "claim": "工业 FS MC PoE 配件 SFP 10G 大口；店铺 PoEsuperstore.com",
+   "quote": "兴趣：工业FS MC PoE配件 SFP 10G大口 他们的店铺 https://www.PoEsuperstore.com/",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Sergio F.",
+   "title": "Sales & Marketing Manager",
+   "email": "sergio.fe@inscapedata.com",
+   "phone": "",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  },
+  {
+   "name": "Juan Moncada",
+   "title": "（表内联系人）",
+   "email": "juan.moncada@inscapedata.com",
+   "phone": "",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照核对 + 表内）"
+ },
+ "company_facts": {
+  "legal_name": "Inscape Data Corporation",
+  "founded": "2004",
+  "hq": "San Jose, CA, USA",
+  "size": "中小型品牌商 + 电商",
+  "other": "PoEsuperstore.com"
+ },
+ "business_lines": [
+  "室外 / 工业 PoE 交换机（自有品牌）",
+  "PoE 配件 / SFP 电商"
+ ],
+ "channels": {
+  "role": "品牌商 + 电商（OEM 采购）",
+  "region": "美国"
+ },
+ "signals": [
+  "自有品牌室外 / 工业 PoE 全线贴牌 → 供应商替换窗口",
+  "10G 大口需求 → Saga 4×10G 工业款"
+ ],
+ "risks": [
+  "美国：常要求 UL 列名（Saga 无 UL，仅 FCC/CE）→ 首触即说明",
+  "室外 IP67 款 Saga 无",
+  "20 次群发无回复"
+ ],
+ "saga_fit": {
+  "p1": "STI-488XGGPM",
+  "tier": 30,
+  "why": "10G 大口工业 PoE → STI-488XGGPM（4×10G SFP+ + 8 PoE，$178.7 @30%）贴 Inscape 标；入门 STI-288GP。"
+ },
+ "email_hook": "Sergio, for the Inscape / PoEsuperstore industrial line — DIN 8-PoE with 4×10G SFP+ uplinks (L2+, −40~75 ℃) under your label from small lots, FCC/CE; is the 10G-uplink SKU the gap you mentioned, or the plain 2-SFP one?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 31 封 2024→2026，1 次记录打开，0 回；收件 juan.moncada@inscapedata.com, patricia.gonzales@inscapedata.com；主题多为「Managed Optical Bypass Switch、Marvell Industrial Alert System」；Elsa 箱：`to:inscapedata.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 31 / 来 0）（第 74 批(h)））",
+   "type": "—",
+   "sieve": "1~2（1 次打开）",
+   "stop": "31 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+   "lane": "US 主攻（四主）",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 31，Opened 标签 1（Simon 群发追踪）；用户表：「兴趣：工业FS MC PoE配件 SFP 10G大口 他们的店铺 https://www.PoEsuperstore.com/」；研究档 risks：美国：常要求 UL 列名（Saga 无 UL，仅 FCC/CE）→ 首触即说明"
+  },
+  "situation": "美国室外 PoE 交换机 / 工业网络 / 视频安防 / Wi-Fi 方案商（2004 年成立；自有品牌 + 网店 PoEsuperstore.com；poe 533 / switch 255 / sfp 128 / oem 8），Sales & Marketing Manager Sergio F.、Juan Moncada、Patricia G.；表内「工业 FS MC PoE 配件 SFP 10G 大口」；群发 20 次无回复。自有品牌 → OEM 30%。",
+  "need": "10G 大口工业 PoE → STI-488XGGPM（4×10G SFP+ + 8 PoE，$178.7 @30%）贴 Inscape 标；入门 STI-288GP。",
+  "breakpoint": "美国：常要求 UL 列名（Saga 无 UL，仅 FCC/CE）→ 首触即说明",
+  "saga_now": {
+   "p1": "STI-488XGGPM",
+   "tier": 30,
+   "price": "换人再触锚价 STI-488XGGPM $178.8 EXW（主表档位（Q-59 默认；PDF $269.5 远高于档位，档案注差价）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-22 $220（10G managed switch）；群发里他已看到的价（续）：2026-07-27 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-01-07 $240（24 Port Fiber Switch）、2025-10-09 $280（10G Enterprise SFP Switch）",
+   "why": "10G 大口工业 PoE → STI-488XGGPM（4×10G SFP+ + 8 PoE，$178.7 @30%）贴 Inscape 标；入门 STI-288GP。已打开的主题（1/31 封有打开记录）：「24 Port Fiber Switch」(2025-01-07) → 读者兴趣偏「MC/光电」；与 P1 同类，继续",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1（换人后）",
+   "channel": "A 邮箱 → 具名 KP",
+   "action": "换收件人再发一封（第 75 批(u) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
+   "one_question": "Sergio, for the Inscape / PoEsuperstore industrial line — DIN 8-PoE with 4×10G SFP+ uplinks (L2+, −40~75 ℃) under your label from small lots, FCC/CE; is the 10G-uplink SKU the gap you mentioned, or the plain 2-SFP one? Reference: STI-488XGGPM at $178.8 USD EXW (MOQ 1, 15-day validity)."
+  },
+  "facts": [
+   {
+    "date": "2026-10-01",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Managed Optical Bypass Switch、Marvell Industrial Alert System",
+    "why": "31 封 / 1 次打开 / 0 回｜首封 2024-06-25 → 末封 2026-10-01（31 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：工业FS MC PoE配件 SFP 10G大口 他们的店铺 https://www.PoEsuperstore.com/",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026-10-01",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "Managed PoE Switches",
+    "why": "本日去信真实主题（邮箱索引 492907df13fa09a9；信稿开头句引用此封；此前稿内写的「Managed Optical Bypass Switch」是线程列表首题，不是本封）",
+    "k": "492907df13fa09a9"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": {
+   "subject": "Inscape / PoEsuperstore industrial line - the 10G-uplink DIN unit under your label",
+   "body": "Hi Sergio,\n\nOver the past months you had a few product mails from us - most recently \"Managed PoE Switches\" on 1 October 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the Inscape / PoEsuperstore industrial line, under your label from small lots, -40 to 75 C, FCC/CE: DIN-rail 8 x Gigabit PoE+ + 4 x 10G SFP+, L2+ managed with ring redundancy, Marvell-based - model STI-488XGGPM - $178.8 USD EXW (MOQ 1, 15-day validity); entry unit, 8 x PoE+ + 2 x SFP unmanaged - STI-288GP - $62.2. Logo on the unit is free; colour box from 200 sets.\n\nOne question: is the 10G-uplink SKU the gap in the store, or the plain 2-SFP one?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+  },
+  "as_of": "2026-10-24"
+ }
 }

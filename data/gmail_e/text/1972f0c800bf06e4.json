@@ -11,7 +11,7 @@
  "text": "Hi, Edgar,\nThanks for your information.\nWe do switches, please see attached links and check the information.\nThank you.",
  "char_count": "122",
  "attachments": "[{'filename': 'Download Link_Alan.pdf', 'mime_type': 'application/pdf', 'size': 108874}]",
- "note": "SB-971 Cronte（Edgar，采购部）「NEW SUPPLYER」→ Elsa 只给链接",
+ "note": "SC-190 Cronte（Edgar，采购部）「NEW SUPPLYER」→ Elsa 只给链接",
  "text_source": "text/plain",
  "fetched": "2026-10-24T16:22Z",
  "method": "Arena Gmail connector get_message_text(include_quoted=false)"

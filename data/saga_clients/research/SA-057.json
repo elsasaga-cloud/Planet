@@ -1,205 +1,206 @@
 {
   "code": "SA-057",
-  "name_official": "MT-Link Technologies Co.（Karachi, Pakistan）",
-  "website_status": "在线",
-  "summary": "卡拉奇的自有品牌网络设备商（自称巴基斯坦首家本土网络品牌）：WiFi 路由、XPON ONU、OLT、8/16/24 口千兆与 PoE 交换机、10G/25G/100G L3 交换机（产品页明示源自上海博达 BDCOM）；有零售电商 mtlinkpakistan.com。用户表：WhatsApp 跟进 + DC 线索，2 次实质回复，20 次跟进；兴趣 MC / FS / 无线 AP，用自己的 logo，备注「应该是 BDCOM 的，质量看着一般」。",
-  "type": "品牌商（中国白牌贴牌，ODM 买家）",
-  "size": "未见人数（中小）",
+  "name_official": "Born SPb LLC（ООО «Борн СПб»，圣彼得堡）",
+  "website_status": "未单独检索（仅用户记录）",
+  "summary": "俄罗斯圣彼得堡网络产品贸易商（用户记录：销售多品牌 MC/SFP/VC/FS，含多家国内品牌），长期互动：39 次跟进中 5 次实质回复，最近 2025 年。",
+  "type": "多品牌贸易商/分销",
+  "size": "待补证",
   "brands_seen": [
-    "MT-Link",
-    "BDCOM"
+    "多家国内品牌（用户记录）",
+    "SNR",
+    "NSGate"
   ],
   "evidence": [
     {
-      "kind": "官网",
-      "claim": "自有品牌定位",
-      "quote": "As Pakistan’s first leading networking solutions provider, we take immense pride in designing products specifically tailored to meet the unique requirements of Pakistan’s IT Industry … info@mt-link.com",
-      "url": "https://mt-link.com/about-us/",
+      "kind": "用户记录",
+      "claim": "卖多品牌 MC/SFP/VC/FS；5 次回复 / 39 次跟进；地址圣彼得堡 Mebelnaya 12",
+      "quote": "有很多牌子的产品 卖别人的MC SFP VC FS / 国内好几个牌子的；Address: 197374, St. Petersburg, Mebelnaya str., 12（用户 Clients 表摘录）",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
       "date": "2026-10-21"
     },
     {
-      "kind": "官网",
-      "claim": "交换机源自 BDCOM（证明其采购中国白牌）",
-      "quote": "MT-LINK MT-SG5612 is a new generation of aggregation 10GE switch introduced by Shanghai Baud Data Communication Co., LTD.",
-      "url": "https://mt-link.com/product/mt-sg5612/",
+      "kind": "注册",
+      "claim": "法人、注册日、负责人、规模",
+      "quote": "ООО «Борн СПБ» зарегистрировано 17 апреля 2009 года в Санкт-Петербурге … оптовой торговли электронным и телекоммуникационным оборудованием … генеральным директором с момента основания является Сергей Иванович Федотов, он же выступает единственным учредителем … ИНН/КПП: 7841406851",
+      "url": "https://www.rusprofile.ru/id/2395878",
       "date": "2026-10-21"
     },
     {
-      "kind": "第三方（Facebook）",
-      "claim": "总部与电话（与用户表 WhatsApp 号一致）",
-      "quote": "MT Link Technologies co. (HEAD OFFICE) 109,111&113 Elahi Centre Preedy Street, Saddar, Karachi, Pakistan +92 317 9995719",
-      "url": "https://www.facebook.com/mtlinkpakistan/",
+      "kind": "注册",
+      "claim": "员工数与 2025 利润",
+      "quote": "Численность персонала: · 9 … За 2025 год прибыль компании составила 1474 тыс.",
+      "url": "https://www.list-org.com/company/5674467",
       "date": "2026-10-21"
     },
     {
-      "kind": "官网零售",
-      "claim": "MT-SW1024PE 规格",
-      "quote": "MT-SW1024PE - 24FE POE+ 2GE + 1G SFP Uplink POE Switch - 24 ports 10/100Mbps POE Ports - 2 Gigabit Uplink ports - 1 Gigabit SFP Uplink ports - 250W Total POE budget",
-      "url": "https://mtlinkpakistan.com/products/mt-sw1024pe",
+      "kind": "网店",
+      "claim": "品类与联系方式",
+      "quote": "Сетевое оборудование Коммутаторы Маршрутизаторы Медиаконвертеры SFP модули SFP-трансиверы PoE-инжекторы Точки доступа Телекоммуникационные шкафы … Телефон: · 8 (800) 302-15-41 Электронная почта: · sales@born-spb.ru Санкт-Петербург Москва Екатеринбург Пермь",
+      "url": "https://born-shop.ru/",
       "date": "2026-10-21"
     },
     {
-      "kind": "官网零售",
-      "claim": "L3-Lite 机型基于 BDCOM BDROS 平台与价格",
-      "quote": "MT-SG2912 10G L3-Lite Stackable Switch … Based on the new high-performance hardware and the BDROS platform … price 88000.00 PKR",
-      "url": "https://mtlinkpakistan.com/products/mt-sg2912f",
+      "kind": "伙伴名录",
+      "claim": "SNR 官方合作伙伴与地址",
+      "quote": "ООО «Борн СПб» Адрес: 192236, г. Санкт-Петербург, ул. Софийская, дом 8, кор. 1",
+      "url": "https://snr.systems/ru/partners/ooo-born-spb",
       "date": "2026-10-21"
     }
   ],
   "kp": [
     {
-      "name": "—",
-      "role": "总机（WhatsApp 已加）",
-      "email": "info@mt-link.com",
-      "phone": "+92 317 9995719",
-      "source": "https://www.facebook.com/mtlinkpakistan/"
+      "name": "Федотов Сергей Иванович（Sergey I. Fedotov）",
+      "role": "Генеральный директор / 唯一股东（注册信息）",
+      "email": "sales@born-spb.ru（公司公开）",
+      "phone": "+7 812 458-85-86",
+      "source": "https://www.rusprofile.ru/id/2395878"
     }
   ],
-  "notes": "A 维持（自有品牌 + 2 次实质回复 + 全线中国白牌），南亚价格极敏感；P1 = STC-424DGGM/STC-28DGGPM 贴牌 30%，突出 Marvell 方案对 BDCOM 入门款的稳定性差异；AP 不做。",
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "5 次实质回复 = 真实互动，品类（MC/FS）对位 STI-110GE / 工业 FS。俄罗斯非主攻区且收款路径需核（T/T 受限时走第三方/人民币结算，报价前确认）。P1：STI-110GE 介质转换器 + STI-288GP 非管理工业 PoE，分销价阶 20%。",
   "researched_at": "2026-10-21",
   "deep": {
     "done_at": "2026-10-21",
-    "level": "深挖 v1"
+    "level": "深挖 v2（注册信息 + 网店 + 伙伴名录核对）"
   },
   "company_facts": {
-    "legal_name": "MT-Link Technologies Co.",
-    "hq": "109–113 Elahi Centre, Preedy Street, Saddar, Karachi, Pakistan（+92 317 9995719）",
-    "other": "自称巴基斯坦首家本土网络品牌；零售电商 mtlinkpakistan.com（PKR 标价）；L3 机型基于 BDCOM（BDROS 平台）；1 年官方保修"
+    "legal_name": "ООО «Борн СПб»（ИНН 7841406851，ОГРН 1097847113814）",
+    "hq": "192236, Санкт-Петербург, ул. Софийская, д. 8, корп. 1（+7 812 458-85-86；8 800 302-15-41；sales@born-spb.ru）；另列 Москва / Екатеринбург / Пермь",
+    "other": "电子与电信设备批发（ОКВЭД 46.5x）；网店 born-shop.ru / born-spb.ru：交换机、路由器、MC、SFP/SFP+/QSFP、PoE 注入器、AP、机柜/热柜、KVM、防火墙、光缆；SNR.SYSTEMS 官方合作伙伴（SNR = 俄罗斯 NAG 自有标）；在售 NSGate NFG-SFP MC 2,200 ₽",
+    "founded": "2009-04-17",
+    "staff": "9（list-org）；2025 年利润 147.4 万 ₽；注册资本 10 万 ₽；总经理兼唯一股东 Федотов Сергей Иванович"
   },
   "business_lines": [
-    "WiFi 路由 / XPON ONU / OLT",
-    "PoE 交换机（MT-SW1024PE 24 FE PoE+ 2 GE + 1 SFP 250W 等）",
-    "L3-Lite/L3 核心（MT-SG2912/2928/5828，BDCOM 来源）"
+    "MC / SFP / VC / FS 多品牌贸易",
+    "网络设备/光模块/MC 批发与网店（SNR、NSGate 等多品牌）",
+    "机柜/热柜/KVM/光缆",
+    "B2B 对公结算（безналичная оплата）"
   ],
   "products_seen": [
     {
-      "brand": "MT-Link",
-      "model": "MT-SW1024PE",
-      "spec": "24×FE PoE+ + 2 GE + 1 SFP，250W",
-      "url": "https://mtlinkpakistan.com/products/mt-sw1024pe",
-      "date": "2026-10-21",
-      "saga": "STC-424DGGPM-280W（千兆升级）"
+      "brand": "多家国内品牌",
+      "model": "MC / SFP / VC / FS",
+      "spec": "卖别人的",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "用户表",
+      "saga": "STI-110GE / STC-28DGGPM"
     },
     {
-      "brand": "MT-Link（BDCOM）",
-      "model": "MT-SG2928-2AC",
-      "spec": "24 GE + 4×10G L3-Lite 可堆叠，Rs.65,500–66,000（原 80,950）",
-      "url": "https://mtlinkpakistan.com/collections/manageable-switches",
+      "brand": "NSGate",
+      "model": "NFG-SFP",
+      "spec": "千兆 SFP 媒体转换器，2,200 ₽，12 个月保",
+      "url": "https://born-shop.ru/catalog/136567.html",
       "date": "2026-10-21",
-      "saga": "STC-448XGGM(L3)（48 口位）/ STC-424XGGPM-280W（PoE 位）"
-    },
-    {
-      "brand": "MT-Link（BDCOM）",
-      "model": "MT-SG2912 / MT-SG2912F",
-      "spec": "10G L3-Lite，Rs.36,000 / Rs.88,000",
-      "url": "https://mtlinkpakistan.com/products/mt-sg2912f",
-      "date": "2026-10-21",
-      "saga": "—"
-    },
-    {
-      "brand": "MT-Link（BDCOM）",
-      "model": "MT-SG5828",
-      "spec": "24×10G + 4×100G 核心",
-      "url": "https://mt-link.com/product/mt-sg5828/",
-      "date": "2026-10-21",
-      "saga": "—"
+      "saga": "STI-110GE（SFP 版需核）"
     }
   ],
   "channels": {
-    "网站": "https://mt-link.com/ · https://mtlinkpakistan.com/（零售）",
-    "直邮": "info@mt-link.com（用户表）；mtlink.pakistan@gmail.com（Facebook 公开）",
-    "社媒": "Facebook mtlinkpakistan"
+    "网站": "https://born-spb.ru/",
+    "直邮": "sales@born-spb.ru（用户表）",
+    "网站/网店": "https://born-shop.ru/ / https://www.born-spb.ru/",
+    "电话": "+7 812 458-85-86 / 8 800 302-15-41（官网公开）",
+    "邮箱（公开）": "sales@born-spb.ru",
+    "伙伴名录": "https://snr.systems/ru/partners/ooo-born-spb"
   },
   "signals": [
-    "PoE 线仍为百兆 24 口（MT-SW1024PE）——千兆 PoE 管理型是空位（2026-10-21）",
-    "用户表：MC/FS/无线 AP，自己的 logo"
+    "39 次跟进 5 次实质回复（最近 2025）——长期活跃",
+    "多品牌小型批发商（9 人）、SNR 伙伴——MC/SFP 为走量品类；Saga MC（STI-110GE）与 SFP/工业机可作白牌补充（2026-10-21）"
   ],
   "risks": [
-    "巴基斯坦外汇/LC 付款与进口限制；价格极敏感（24 FE PoE 零售极低）",
-    "BDCOM 为 L3 来源，Saga 只切接入层"
+    "俄罗斯结算；多品牌比价",
+    "规模小（9 人、年利 ≈1.5M ₽）——单笔金额有限；39 次跟进 5 次实质回复，保持低频"
   ],
   "saga_fit": {
-    "p1": "STC-424DGGPM-280W",
-    "tier": 30,
-    "why": "MT-SW1024PE 的千兆管理升级位 = STC-424DGGPM-280W；8 口位 STC-28DGGPM；贴 MT- 型号 30% 档"
+    "p1": "STI-110GE",
+    "tier": 20,
+    "why": "贸易商走量品：STI-110GE（MC）+ STC-28DGGPM；分销 20% 档"
   },
-  "email_hook": "Your MT-SW1024PE is still a fast-Ethernet PoE unit, so a Marvell-based 24-port gigabit PoE+ managed switch with 4 SFP under an MT- part number is the gap I would fill first, with the 8-port PoE+ 2 SFP model alongside.",
+  "email_hook": "For the media converter and 8-port PoE lines you trade, the gigabit SFP media converter and the Marvell-based 8-port PoE+ 2 SFP managed switch are the two EXW prices I am sending for your next comparison.",
   "mail_review": {
     "binding": {
-      "level": "未绑定（邮件 2 封 0 回；Elsa 箱：`to:mt-link.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 2 / 来 0）（第 74 批(g)））",
-      "type": "卡拉奇白牌品牌商（MT-Link）",
+      "level": "未绑定（邮件 18 封 0 回，Opened 1 次 2024-12-18；用户表「5 次实质回复」渠道不明；Elsa 箱：`to:born-shop.ru OR to:born-spb.ru` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 18 / 来 0）（第 74 批(g)））",
+      "type": "圣彼得堡多品牌贸易（Born SPb）",
       "sieve": "0（邮件层无人工回复）",
-      "stop": "—",
+      "stop": "2026-01 后未再发",
       "revive": "—",
-      "lane": "PK",
+      "lane": "RU",
       "cadence": "不主动",
-      "evidence": "邮件：去信 2 封（2026-03-12 → 2026-08-10），来信 0；Opened 标签 0 次；收件人 info@mt-link.com"
+      "evidence": "邮件：去信 18 封（2024-07-01 → 2026-01-13），来信 0；Opened 标签 1 次（2024-12-18）；收件人 sales@born-spb.ru"
     },
-    "situation": "2 封无互动；南亚价格极敏感。",
-    "need": "千兆 24 口 PoE+ 管理 + 8 口 PoE+ 2 SFP 贴 MT- 型号",
+    "situation": "18 封被打开 1 次。",
+    "need": "MC / 工业 FS。",
     "breakpoint": "—",
     "saga_now": {
-      "p1": "STC-424DGGPM-280W（MT- 贴牌）+ STC-28DGGPM",
-      "tier": 30,
-      "price": "锚价：STC-424DGGPM-280W $145.7 / STC-28DGGPM $87.4（30% 档）（第 72 批 2026-10-24）；—；群发里他已看到的价（续）：2026-08-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170",
-      "why": "其 PoE 线仍是百兆 24 口 MT-SW1024PE → 千兆 PoE 管理型是空位；自己 logo",
+      "p1": "STI-110GE",
+      "tier": 20,
+      "price": "锚价：STI-110GE $26.5 / STC-28DGGPM $80.7（20% 档）（第 72 批 2026-10-24）；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-20 $300（48 port poe managed switch）、2024-09-24 $65（10G Media Converter）；群发里他已看到的价（续，第 66 批全量复核）：2025-01-10 $240（24 Port Fiber Switch）、2025-10-02 $280（10G Enterprise SFP Switch）",
+      "why": "已打开的主题（1/18 封有打开记录）：「90W PoE Managed Switch」(2024-12-18) → 读者兴趣偏「PoE 接入」；当前 P1 属「10G 汇聚/L3」，下一封按「PoE 接入」给，不按 P1",
       "repeat": [],
       "gaps": []
     },
     "next_move": {
       "when": "2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）",
-      "channel": "A 邮箱 → MT-Link 具名 KP 待找",
-      "action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(p) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；具名 KP 待找）（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
-      "one_question": "Your MT-SW1024PE is still a fast-Ethernet PoE unit, so a Marvell-based 24-port gigabit PoE+ managed switch with 4 SFP under an MT- part number is the gap I would fill first, with the 8-port PoE+ 2 SFP model alongside. Would the 24-port be the first SKU to sample under an MT- part number? Reference: STC-424DGGPM-280W at $145.7 / STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity)."
+      "channel": "S 邮箱 → sales@born-spb.ru（Федотов Сергей Иванович（Sergey I. Fedotov））（Born SPb；用户表 5 次回复渠道不明）",
+      "action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(q) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））",
+      "one_question": "For the media converter and 8-port PoE lines you trade, the gigabit SFP media converter and the Marvell-based 8-port PoE+ 2 SFP managed switch are the two EXW prices I am sending for your next comparison. Shall I send both for your next comparison? Reference: STI-110GE at $26.5 / STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
     },
     "facts": [
       {
-        "date": "2024-01-18",
+        "date": "2023-12-09",
         "dir": "来",
         "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
-        "quote": "用户表跟进：推「发了2光4相关信息」→ 对方「16口POE 后续问了很多信息」",
+        "quote": "用户表跟进：推「发了30的商业POE价格册」→ 对方「thanks」",
         "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
-        "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.88 2024.1.18"
+        "k": "Clients/A/DONE/优质俄罗斯客户 2.9.xlsx no.47 2023.12.9"
       },
       {
-        "date": "2024-02-27",
+        "date": "2024-01-08",
         "dir": "来",
-        "who": "用户表（Simon 跟进记录；渠道 WhatsApp）",
-        "quote": "用户表跟进：推「发了24光combo型号」→ 对方「price」",
+        "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+        "quote": "用户表跟进：推「发了最新的工业电源价格册」→ 对方「thanks」",
         "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
-        "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.88 2024.2.27"
+        "k": "Clients/A/DONE/优质俄罗斯客户 2.9.xlsx no.47 2024.1.8"
       },
       {
-        "date": "2026-03-12",
-        "dir": "去",
-        "who": "A 箱（Alan）",
-        "quote": "OEM Core Switching Solution",
-        "why": "首封去信（邮箱索引；去信共 2 封）",
-        "k": "61345c495835cf03"
+        "date": "2024-04-16",
+        "dir": "来",
+        "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+        "quote": "用户表跟进：推「发了商业PoE 128信息」→ 对方「hi」",
+        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+        "k": "Clients/A/DONE/优质俄罗斯客户 2.9.xlsx no.47 2024.4.16"
       },
       {
-        "date": "2026-08-10",
-        "dir": "去",
-        "who": "A 箱（Alan）",
-        "quote": "24 Port PoE Managed Switch",
-        "why": "最近一封去信（邮箱索引；去信共 2 封）",
-        "k": "e46a56a1a0754324"
+        "date": "2024-11-11",
+        "dir": "来",
+        "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+        "quote": "用户表跟进：推「电口」→ 对方「问了一个不太相关的」",
+        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+        "k": "Clients/A/DONE/优质俄罗斯客户 2.9.xlsx no.47 1111"
       },
       {
-        "date": "2026-08-10",
+        "date": "2024-12-18",
         "dir": "去",
-        "who": "A 箱（Alan）",
-        "quote": "24 Port PoE Managed Switch｜稿内价 $170",
-        "why": "去信正文含价（邮箱索引）",
-        "k": "e46a56a1a0754324"
+        "who": "Saga（群发）",
+        "quote": "「90W PoE Managed Switch」被打开（Mailtrack Opened 标签）",
+        "why": "唯一的互动痕迹",
+        "k": "3af24011688d7cd2"
+      },
+      {
+        "date": "2025-06-21",
+        "dir": "来",
+        "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+        "quote": "用户表跟进：推「工业非管理组合图」→ 对方「用switches」",
+        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+        "k": "Clients/A/DONE/优质俄罗斯客户 2.9.xlsx no.47 621"
       }
     ],
     "proof_gaps": [
       "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 从未去信、Replied 索引亦无此户），仓库未见原文"
     ],
     "draft_en": {
-      "subject": "A gigabit 24-PoE+ managed unit under an MT- part number",
-      "body": "Hello MT-Link team,\n\nYour MT-SW1024PE is still a Fast Ethernet PoE unit. The gap we would fill first under an MT- part number: 24 x Gigabit PoE+ (280 W) + 4 x SFP, L2+ managed, Marvell-based, CE/RoHS - model STC-424DGGPM-280W - $145.7 USD EXW with your logo (MOQ 1, 15-day validity); alongside it, 8 x Gigabit PoE+ + 2 x SFP - STC-28DGGPM - $87.4.\n\nOne question: which PoE size sells most through mtlinkpakistan.com - 8, 16 or 24 ports - so we start with that one?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+      "subject": "Two EXW numbers for your next comparison - converter and 8-port PoE",
+      "body": "Hello Sergey,\n\nOver the years we exchanged a few short messages and you had our product mails; nothing in them needed an answer. For the media-converter and 8-port PoE lines you trade, the two numbers for your next comparison: industrial Gigabit media converter, 1 x RJ45 + 1 x SFP slot - model STI-110GE - $26.5 USD EXW at distributor price (MOQ 1, 15-day validity); 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based - STC-28DGGPM - $80.7. CE/RoHS files supplied; EAC stays on your side.\n\nOne question: which of the two moves more volume in your shop today, so I keep the comparison to that one?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
     },
     "as_of": "2026-10-24"
   }

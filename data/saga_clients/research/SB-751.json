@@ -1,118 +1,125 @@
 {
  "code": "SB-751",
- "name_official": "LRI Automação Industrial（圣保罗）",
+ "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "在线（lri.com.br，快照 2026-10-21，葡语）",
- "summary": "巴西圣保罗（+55 11 4020 2470）工业自动化产品分销商：电源、DC/DC 转换、**工业交换机（ORing）**、嵌入式计算机、数据采集；巴西有库存开 NF-e 发票；站内 switch 344 / industrial 150 / poe 99 / sfp 47；Director Leandro Roisenberg（表内电话为以色列号 +972，疑双国籍）；询盘表来源；WA 无实质回复。ORing 之下的低价工业线有位置。",
- "type": "",
+ "website_status": "在线（engeniustech.com，快照 2026-10-21）",
+ "summary": "美国 EnGenius Technologies（台湾 EnGenius Networks 美国公司：AI 监控、Wi-Fi、交换机、VPN 路由、PDU，云管理 EnGenius Cloud；表内「商业 FS 大口、SFP、PoE 配件」「质量高」）；群发 10 次无回复。",
+ "type": "台湾网络品牌美国公司（台湾厂商口径二供）",
  "size": "",
  "brands_seen": [
-  "ORing"
+  "Ubiquiti"
  ],
  "evidence": [
   {
    "kind": "官网快照",
-   "claim": "电源、DC/DC、工业交换机、嵌入式计算机、数据采集；巴西库存 + NF-e；ORing；+55 11 4020-2470",
-   "quote": "Fontes de alimentação, conversores CC/CC, switches industriais, computadores embarcados e aquisição de dados para automação. Estoque no Brasil e NF-e… brands ORing",
-   "url": "https://lri.com.br/",
+   "claim": "官网标题：EnGenius: AI Surveillance | Wi-Fi | Switches | VPN Routers | PDUs；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 数据中心 / 企业 IT / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "EnGenius WiFi Networks: Delivering best-in-class voice & data solutions that empower mobility, enhance productivity, and embrace simplicity.",
+   "url": "https://www.engeniustech.com/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "询盘统计表来源；Leandro Roisenberg, director",
-   "quote": "（空）",
+   "claim": "表内兴趣/备注",
+   "quote": "商业FS 大口 SFP PoE配件",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "EnGenius 产品线",
+   "quote": "EnGenius: AI Surveillance | Wi-Fi | Switches | VPN Routers | PDUs ; EnGenius WiFi Networks: Delivering best-in-class voice & data solutions",
+   "url": "https://www.engeniustech.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "商业 FS 大口 SFP PoE 配件；质量高",
+   "quote": "商业FS 大口 SFP PoE配件；质量高",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
- "kp": [
-  {
-   "name": "Leandro Roisenberg",
-   "title": "Director",
-   "email": "leandro@lri.com.br",
-   "phone": "+972 50 665 0861（表内；巴西座机 +55 11 4020 2470）",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
-  }
- ],
+ "kp": [],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照核对：ORing 渠道）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "legal_name": "LRI Automação Industrial Ltda（待核）",
-  "founded": "（待核）",
-  "hq": "São Paulo, Brazil",
-  "size": "中小型工业自动化分销（有库存）",
-  "other": "ORing 巴西渠道"
+  "hq": "美国",
+  "other": "官网 engeniustech.com，语言 en-US，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "工业电源 / DC-DC",
-  "工业以太网交换机（ORing）",
-  "嵌入式工控 / 数据采集"
+  "Wi-Fi / 交换机 / 监控 / VPN 路由 / PDU（自有品牌）"
  ],
  "channels": {
-  "role": "工业自动化分销商（库存型）",
-  "region": "巴西"
+  "role": "台湾网络品牌美国公司（台湾厂商口径二供）",
+  "region": "美国",
+  "contact": "sales@engeniustech.com"
  },
  "signals": [
-  "整站工业交换机为核心品类 → 需要 ORing 之下的低价第二品牌",
-  "库存型分销 → 批量采购"
+  "官网：EnGenius: AI Surveillance | Wi-Fi | Switches | VPN Routers | PDUs",
+  "站内型号 EPA5090XBT / EPA5090HBT / EPA5060XBT（PoE 注入器）"
  ],
  "risks": [
-  "巴西 ANATEL（交换机一般豁免，需核）、进口税高",
-  "ORing（台系）价位与 Saga 差距大 → 以 Marvell / 价格切入"
+  "台湾品牌（自有 ODM）：白牌切入点弱，仅二供",
+  "云管理生态（EnGenius Cloud）：Saga 不做云管理；10 次无回复，仅 sales@"
  ],
  "saga_fit": {
-  "p1": "STI-288GPM",
-  "tier": 20,
-  "why": "ORing 之下的工业管理 PoE → STI-288GPM（$78.9 @20%）；非管理 STI-288GP；10G 工业 STI-480XGGM。"
+  "p1": "STC-424XGGPM-280W",
+  "tier": 30,
+  "why": "台湾品牌自有 ODM 体系 → 仅二供：24 口 PoE+ 4×10G L2+ STC-424XGGPM-280W（$180 @30%）、48 口 STC-448XGGPM；云管理由其固件层，Saga 仅硬件"
  },
- "email_hook": "Leandro, below the ORing price points — Marvell-based DIN managed 8-PoE + 2-SFP at $79 EXW and unmanaged at $57, CE/FCC/RoHS, 3-year warranty (industrial line); would a 10-pc stock trial with your NF-e flow make sense?",
+ "email_hook": "For the entry PoE switch tiers in your range, we can be a second source on a Marvell L2+ platform (24-PoE + 4×10G, 48-PoE) from small lots under your label — is a lower-cost dual-sourced SKU something your product team would evaluate?",
  "mail_review": {
   "binding": {
-   "level": "未发信（S/A 邮箱均无往来；来源：用户表「（空）」；Elsa 箱：`to:lri.com.br` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(n)））",
-   "type": "—",
-   "sieve": "—（未入筛）",
-   "stop": "从未触达",
-   "revive": "不动（非主攻区；J5：有证据再动）；WhatsApp 已加 → 唤醒走 WhatsApp 一句话，不走邮件",
-   "lane": "巴西 非主攻",
-   "cadence": "不动",
-   "evidence": "gmail_digest：out 0；用户表：「（空）」；研究档 risks：巴西 ANATEL（交换机一般豁免，需核）、进口税高"
+   "level": "未触达（A/S 邮箱 14 封 2025→2026，无记录打开，0 回；收件 sales@engeniustech.com；主题多为「Managed Optical Bypass Switch、Marvell Industrial Alert System」；Elsa 箱：`to:engeniustech.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 14 / 来 0）（第 74 批(h)））",
+   "type": "台湾网络品牌美国公司（台湾厂商口径二供）",
+   "sieve": "1（只收到群发）",
+   "stop": "只打通用邮箱，无记录打开",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "US 主攻（四主）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 14；用户表：「商业FS 大口 SFP PoE配件」；研究档 risks：台湾品牌（自有 ODM）：白牌切入点弱，仅二供"
   },
-  "situation": "巴西圣保罗（+55 11 4020 2470）工业自动化产品分销商：电源、DC/DC 转换、**工业交换机（ORing）**、嵌入式计算机、数据采集；巴西有库存开 NF-e 发票；站内 switch 344 / industrial 150 / poe 99 / sfp 47；Director Leandro Roisenberg（表内电话为以色列号 +972，疑双国籍）；询盘表来源；WA 无实质回复。ORing 之下的低价工业线有位置。",
-  "need": "ORing 之下的工业管理 PoE → STI-288GPM（$78.9 @20%）；非管理 STI-288GP；10G 工业 STI-480XGGM。",
-  "breakpoint": "巴西 ANATEL（交换机一般豁免，需核）、进口税高",
+  "situation": "美国 EnGenius Technologies（台湾 EnGenius Networks 美国公司：AI 监控、Wi-Fi、交换机、VPN 路由、PDU，云管理 EnGenius Cloud；表内「商业 FS 大口、SFP、PoE 配件」「质量高」）；群发 10 次无回复。",
+  "need": "台湾品牌自有 ODM 体系 → 仅二供：24 口 PoE+ 4×10G L2+ STC-424XGGPM-280W（$180 @30%）、48 口 STC-448XGGPM；云管理由其固件层，Saga 仅硬件",
+  "breakpoint": "台湾品牌（自有 ODM）：白牌切入点弱，仅二供",
   "saga_now": {
-   "p1": "STI-288GPM",
-   "tier": 20,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "ORing 之下的工业管理 PoE → STI-288GPM（$78.9 @20%）；非管理 STI-288GP；10G 工业 STI-480XGGM。",
+   "p1": "STC-424XGGPM-280W",
+   "tier": 30,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-09-29 $280（10G Enterprise SFP Switch）（㉕ ②：STC-424XGGPM-280W / STC-448XGGPM 文本价改为群发现价 $180 / $335；第 75 批 2026-10-25）",
+   "why": "台湾品牌自有 ODM 体系 → 仅二供：24 口 PoE+ 4×10G L2+ STC-424XGGPM-280W（$180 @30%）、48 口 STC-448XGGPM；云管理由其固件层，Saga 仅硬件",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—",
-   "one_question": ""
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "For the entry PoE switch tiers in your range, we can be a second source on a Marvell L2+ platform (24-PoE + 4×10G, 48-PoE) from small lots under your label — is a lower-cost dual-sourced SKU something your product team would evaluate?"
   },
   "facts": [
+   {
+    "date": "2026-02-10",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Managed Optical Bypass Switch、Marvell Industrial Alert System",
+    "why": "14 封 / 0 次打开 / 0 回｜首封 2025-01-17 → 末封 2026-02-10（14 去 / 0 来）",
+    "k": "gmail_digest"
+   },
    {
     "date": "2026-10-21",
     "dir": "用户表",
     "who": "Simon",
-    "quote": "（空）",
+    "quote": "商业FS 大口 SFP PoE配件",
     "why": "表内备注",
     "k": "用户表"
    }
   ],
-  "proof_gaps": [
-   "无邮件往来",
-   "用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
-  ],
+  "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-24"
  }

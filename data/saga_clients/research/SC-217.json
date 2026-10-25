@@ -1,0 +1,74 @@
+{
+ "code": "SC-217",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（harting.com，快照 2026-10-21）",
+ "summary": "HARTING Technology Group（德国工业连接器集团，Americas 站；自有工业交换机系列；表内「工业 switch 自己的系列 / 工业 FS」；KP Claudio Sonzogni、Lennart Koch、Marius Hepermann、Jonas Klein；表内国别「捷克」为联系人所在地）；群发 15 次无回复。",
+ "type": "工业连接器集团（巨头）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：HARTING Americas | Industrial Connectivity | HARTING Technology Group；品类词 工业自动化 / OT 网络 / 数据中心 / 企业 IT / 布线 / 线缆 / 网络交换 / PoE",
+   "quote": "Engineers Can Change The World；With the right tools ...；Trusted by industry leading companies and associations；Proven connectivity solutions across industries & applications；Automation；Data Centers",
+   "url": "https://www.harting.com/en-US",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "工业switch 自己的系列；工业FS",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "HARTING 集团",
+   "quote": "HARTING Americas | Industrial Connectivity | HARTING Technology Group ; Engineers Can Change The World",
+   "url": "https://www.harting.com/en-US",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "工业 switch 自己的系列",
+   "quote": "工业switch 自己的系列 / 工业FS",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "巨头：HARTING Technology Group（工业连接器集团），自有交换机系列；c_sub=巨头/集团",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "捷克",
+  "other": "官网 harting.com，语言 en-US，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "工业连接器 / 工业以太网（集团自有系列）"
+ ],
+ "channels": {
+  "role": "工业连接器集团（巨头）",
+  "region": "捷克",
+  "contact": "claudio.sonzogni@harting.com、lennart.koch@harting.com"
+ },
+ "signals": [
+  "官网：HARTING Americas | Industrial Connectivity | HARTING Technology Group；Trusted by industry leading companies",
+  "表内：工业 switch 自己的系列"
+ ],
+ "risks": [
+  "巨头：HARTING Technology Group（全球工业连接器集团），供应商导入不可行",
+  "15 次无回复"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 25,
+  "why": "HARTING = 十亿欧元级工业连接集团，自有交换机系列有既定供应链 → 巨头规则 → 改 C"
+ },
+ "email_hook": "（不发送：巨头）"
+}

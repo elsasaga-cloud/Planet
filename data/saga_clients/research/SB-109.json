@@ -1,74 +1,232 @@
 {
- "code": "SB-109",
- "name_official": "3MEDIALAB S.R.L.（IN LIQUIDAZIONE，Roma；P.IVA 14909621006）",
- "researched_at": "2026-10-21",
- "website_status": "在线（内容陈旧；公司已进入清算）",
- "summary": "罗马的小型广播/影视设备经销商（2018-09 成立，ATECO 46.43.3 摄影/电影/光学器材批发；营收 2022 €119.7k → 2023 €60.8k，2025 员工 0，注册资本 €5,800），负责人 Antonio Greco（Sales/Managing Director，+39 324 907 2492）。**商业登记显示公司名已带「IN LIQUIDAZIONE」（清算中）**。用户表：有一次成交记录，0 次后续跟进。",
- "type": "",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "商业登记",
-   "claim": "公司清算中、员工 0、营收",
-   "quote": "3MEDIALAB S.R.L. IN LIQUIDAZIONE, Partita IVA: 14909621006 … Indirizzo: VIA GIULIO PASQUATI 7 - 00139 - ROMA (RM) … Fatturato: € 60.767,00 (2023) … Dipendenti : 0 (2025) … Data Iscrizione: 21/09/2018 … Capitale sociale: € 5.800,00 (2025)",
-   "url": "https://www.ufficiocamerale.it/6453/3medialab-srl",
-   "date": "2026-10-21"
+  "code": "SB-109",
+  "name_official": "International Technology Exchanger (ITE)（Karachi）",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（ite.net.pk，快照 2026-10-21）",
+  "summary": "卡拉奇 IT 方案商（20+ 年，Cisco / Fortinet / Huawei / Ubiquiti / Juniper），Faisal Javed；2025-04 对 2 光 2 电 mini 群发反问「有 1 GE + 4 FE 路由器吗」（Saga 无路由器）。",
+  "type": "",
+  "size": "",
+  "brands_seen": [
+    "Cisco",
+    "Fortinet",
+    "Huawei",
+    "Ubiquiti",
+    "Juniper"
+  ],
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "20+ 年 IT 方案；品牌 Cisco / Fortinet / Huawei / Ubiquiti / Juniper；021-34598598",
+      "quote": "20+ Years of Excellence in IT Solutions… 021-34598598; brands Cisco, Fortinet, Huawei, Ubiquiti, Juniper",
+      "url": "https://ite.net.pk/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "兴趣 switch；2025-04 群发 22 迷你→have Routers with 1GE and 4 FE ports?",
+      "quote": "回复：have Routers with 1GE and 4 FE ports?",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [
+    {
+      "name": "Faisal Javed",
+      "title": "（表内联系人）",
+      "email": "faisal@ite.net.pk",
+      "phone": "+92 21 3459 8598",
+      "source": "（本地 Clients/ 表格，无公开 URL）"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（官网快照核对）"
   },
-  {
-   "kind": "官网",
-   "claim": "业务与负责人联系方式",
-   "quote": "Siamo una giovane azienda che propone tecnologia e Sistemi, all'avanguardia per la: Produzione, Post Produzione, Distribuzione ed Archiviazione Multimediale (Radio, Tv, Cinema & Web) … antonio.greco@3medialab.com Oppure, contattami al numero +39 324 907 2492",
-   "url": "http://www.3medialab.com/",
-   "date": "2026-10-21"
+  "company_facts": {
+    "legal_name": "International Technology Exchanger",
+    "founded": "约 2005（20+ 年）",
+    "hq": "Karachi, Pakistan",
+    "size": "小型方案商",
+    "other": "info@/sales@ite.net.pk"
   },
-  {
-   "kind": "用户表",
-   "claim": "一次成交记录；0 次后续跟进",
-   "quote": "（用户表字段：成交 1 / 跟进 0）",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
+  "business_lines": [
+    "企业网络 / 安全集成（多品牌）"
+  ],
+  "channels": {
+    "role": "IT 方案商 / 经销",
+    "region": "巴基斯坦"
+  },
+  "signals": [
+    "主动反问路由器 → 有 SOHO 路由采购需求（Saga 无，缺口记录）"
+  ],
+  "risks": [
+    "需求为路由器（缺口）；巴基斯坦 L/C / 外汇"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 20,
+    "why": "交换机兴趣 → STC-28DGGPM 起手（经销 20%）；路由器不供。"
+  },
+  "email_hook": "Faisal, we don't do routers — but for the switch side, the 8-PoE + 2-SFP managed (Marvell) is available from 1 pc; is that useful for the same projects, or is it routers only right now?",
+  "mail_review": {
+    "binding": {
+      "level": "未发信→明确不对口（Elsa 邮箱 2025-04-09 Faisal（ITE，巴基斯坦）三封：要「Routers with 1GE and 4 FE ports」+ 路由规格 IP SLA / GRE / PPPoE / BGP / IPsec——是路由器需求，Saga 不做路由器）；Elsa 1:1 去信 9 轮 2025-05-13→2026-08-04（To 仅本户 faisal@ite.net.pk / info@ite.net.pk（按地址：faisal@ite.net.pk 4 轮 / info@ite.net.pk 5 轮）；头 msg 19fcbedfe7807ff7 核对无 Bcc，称呼「Hi, Faisal」= 个性化逐月 1:1 名单；主题 Marvell Industrial Alert System、Updated Ethernet Switches Links、Industrial PoE Switch、24 Port PoE Managed Switch…；客户来过信：Elsa 回 2025-04-09 Re:「Mini Industrial PoE Switch」、2025-04-09 Re:「Mini Industrial PoE Switch」；此前经 锚 info@globalconnectsynergy.com 的 Bcc 收到 1 轮（2025-04-09→2025-04-09）→ 回信后被 Elsa 从 Bcc 名单剔出、转入 1:1 名单）（第 74 批(m) `from:e.sagatelecom to:` 全程 complete，直收 11 条）；Elsa 群发 BCC 已触达 2025-04-09「Mini Industrial PoE Switch」（稿内无价，第 74 批(p) 已读稿），巴基斯坦（锚 globalconnectsynergy PK） 批次 To info@globalconnectsynergy.com，0 回（第 74 批 Bcc 头核对 msg 19619224a25f0228）",
+      "type": "—",
+      "sieve": "—（需求路由器，非交换机）",
+      "stop": "从未触达",
+      "revive": "不动（需求不对口）",
+      "lane": "巴基斯坦 非主攻",
+      "cadence": "不动",
+      "evidence": "gmail_digest：out 0；用户表：「回复：have Routers with 1GE and 4 FE ports?」；研究档 risks：需求为路由器（缺口）；巴基斯坦 L/C / 外汇；Elsa 邮箱 `data/gmail_e/text/`（Replied 线程，客户→Elsa 正文；Elsa 回复正文未入库）；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To info@globalconnectsynergy.com）本户见于 2025-04-09 名单；2026-09-07 最新一轮名单已不含此地址 → 中途被剔除（退信 / 退订 / 手工）"
+    },
+    "situation": "卡拉奇 IT 方案商（20+ 年，Cisco / Fortinet / Huawei / Ubiquiti / Juniper），Faisal Javed；2025-04 对 2 光 2 电 mini 群发反问「有 1 GE + 4 FE 路由器吗」（Saga 无路由器）。",
+    "need": "交换机兴趣 → STC-28DGGPM 起手（经销 20%）；路由器不供。",
+    "breakpoint": "产品线不对口（路由器）",
+    "saga_now": {
+      "p1": "STC-28DGGPM",
+      "tier": 20,
+      "price": "按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-05-11 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 2 轮 2025-10-02→2026-05-11；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-08-04 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-04；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
+      "why": "交换机兴趣 → STC-28DGGPM 起手（经销 20%）；路由器不供。",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "不动",
+      "channel": "—",
+      "action": "首封前知悉：Elsa 已 1:1 去信 9 轮（2025-05-13→2026-08-04，客户回过信（2025-04-09、2025-04-09）），此前还经锚 Bcc 触达（第 74 批(m)）；—",
+      "one_question": ""
+    },
+    "facts": [
+      {
+        "date": "2025-04-09",
+        "dir": "来",
+        "who": "Faisal（International Technology Exchanger，PK）",
+        "quote": "Do you have Routers with 1GE and 4 FE ports … IP SLA, GRE Tunneling, PPPoE, BGP, IPsec Tunnels",
+        "why": "路由器 + VPN 规格 = 守界外（C10）；不设计绕路",
+        "k": "gmail_e"
+      },
+      {
+        "date": "2025-04-09",
+        "dir": "去",
+        "who": "Elsa",
+        "quote": "Sorry, it is not on our list. We can help source it if this is fine with you.",
+        "why": "路由器需求，Elsa 答没有、可代找",
+        "k": "gmail_e 196197e0cbc6c411"
+      },
+      {
+        "date": "2025-04-09",
+        "dir": "去",
+        "who": "Elsa",
+        "quote": "Is something as attached OK?（附 Info.docx）",
+        "why": "同日发了一份代找方案 → 无下文",
+        "k": "gmail_e 196199ab58b3499b"
+      },
+      {
+        "date": "2025-04-09",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To info@globalconnectsynergy.com，巴基斯坦（锚 globalconnectsynergy PK） 批次）",
+        "quote": "Mini Industrial PoE Switch — （头部未取正文；见 Elsa 箱）",
+        "why": "Elsa 箱群发 BCC 触达证据（命中地址 info@ite.net.pk, ite.net.pk, sales@ite.net.pk）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+        "k": "elsa_bcc"
+      },
+      {
+        "date": "2025-05-13",
+        "dir": "out",
+        "who": "Elsa → faisal@ite.net.pk",
+        "quote": "8 Port Industrial PoE Switch（Elsa 1:1 逐月名单第 1/9 轮；To 仅本户）",
+        "why": "第 74 批(m) `from:e.sagatelecom to:faisal@ite.net.pk` 全程 complete：9 轮直收；客户曾来信（见 Re: 行）",
+        "k": "elsa_1to1",
+        "msg_id": "196c8a860383d27c"
+      },
+      {
+        "date": "2025-06-21",
+        "dir": "out",
+        "who": "Elsa → faisal@ite.net.pk",
+        "quote": "16 Port Ethernet Switch（Elsa 1:1 逐月名单第 2/9 轮；To 仅本户）",
+        "why": "第 74 批(m) `from:e.sagatelecom to:faisal@ite.net.pk` 全程 complete：9 轮直收；客户曾来信（见 Re: 行）",
+        "k": "elsa_1to1",
+        "msg_id": "19791622dc1b3480"
+      },
+      {
+        "date": "2025-10-02",
+        "dir": "out",
+        "who": "Elsa → info@ite.net.pk",
+        "quote": "10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 3/9 轮；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
+        "why": "第 74 批(m) `from:e.sagatelecom to:faisal@ite.net.pk` 全程 complete：9 轮直收；客户曾来信（见 Re: 行）",
+        "k": "elsa_1to1",
+        "msg_id": "199a3ed93bb41426"
+      },
+      {
+        "date": "2025-12-04",
+        "dir": "out",
+        "who": "Elsa → info@ite.net.pk",
+        "quote": "Booster PoE Switch（Elsa 1:1 逐月名单第 4/9 轮；To 仅本户）",
+        "why": "第 74 批(m) `from:e.sagatelecom to:faisal@ite.net.pk` 全程 complete：9 轮直收；客户曾来信（见 Re: 行）",
+        "k": "elsa_1to1",
+        "msg_id": "19ae796a15823d2c"
+      },
+      {
+        "date": "2025-12-29",
+        "dir": "out",
+        "who": "Elsa → info@ite.net.pk",
+        "quote": "Marvell Industrial Alert System（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+        "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
+        "k": "elsa_1to1",
+        "msg_id": "19b68c37a4935183"
+      },
+      {
+        "date": "2026-03-02",
+        "dir": "out",
+        "who": "Elsa → info@ite.net.pk",
+        "quote": "Updated Ethernet Switches Links（Elsa 1:1 逐月名单第 6/9 轮；To 仅本户）",
+        "why": "第 74 批(m) `from:e.sagatelecom to:faisal@ite.net.pk` 全程 complete：9 轮直收；客户曾来信（见 Re: 行）",
+        "k": "elsa_1to1",
+        "msg_id": "19cada2e415a58f6"
+      },
+      {
+        "date": "2026-04-03",
+        "dir": "out",
+        "who": "Elsa → faisal@ite.net.pk",
+        "quote": "Industrial PoE Switch（Elsa 1:1 逐月名单第 7/9 轮；To 仅本户）",
+        "why": "第 74 批(m) `from:e.sagatelecom to:faisal@ite.net.pk` 全程 complete：9 轮直收；客户曾来信（见 Re: 行）",
+        "k": "elsa_1to1",
+        "msg_id": "19d51ad390fc42b1"
+      },
+      {
+        "date": "2026-05-11",
+        "dir": "out",
+        "who": "Elsa → faisal@ite.net.pk",
+        "quote": "10G Enterprise SFP Switch（Elsa 2026 年 1:1 名单重发；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
+        "why": "本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无）",
+        "k": "elsa_1to1",
+        "msg_id": "19e154c90dd755ae"
+      },
+      {
+        "date": "2026-08-04",
+        "dir": "out",
+        "who": "Elsa → info@ite.net.pk",
+        "quote": "24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 9/9 轮；To 仅本户；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f）",
+        "why": "第 74 批(m) `from:e.sagatelecom to:faisal@ite.net.pk` 全程 complete：9 轮直收；客户曾来信（见 Re: 行）",
+        "k": "elsa_1to1",
+        "msg_id": "19fcbedfe7807ff7"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "回复：have Routers with 1GE and 4 FE ports?",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [
+      "（已核 2026-10-24，第 73 批）Elsa 邮箱有往来：04-09 Faisal 三封要 1GE+4FE 路由器 → Elsa 答没有、可代找 + Info.docx → 无下文；用户表「有回复·跟进中」= 这条",
+      "（已核 2026-10-24，第 73 批）见上条；不是 WhatsApp"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-25"
   }
- ],
- "kp": [
-  {
-   "name": "Antonio Greco",
-   "role": "Managing Director / Sales Manager",
-   "email": "antonio.greco@3medialab.com（官网公开）",
-   "phone": "+39 324 907 2492（官网公开）",
-   "source": "http://www.3medialab.com/"
-  }
- ],
- "grade_override": "C",
- "override_reason": "2026-10-21 商业登记显示 3MEDIALAB S.R.L. IN LIQUIDAZIONE（清算中），2025 年员工 0、2023 营收 €60.8k；历史成交一次性，无复购可能 → C（子原因：公司清算/停业）",
- "notes": "（无首轮调研；由 deepen.py 建档）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（商业登记核对）"
- },
- "company_facts": {
-  "legal_name": "3MEDIALAB S.R.L. IN LIQUIDAZIONE",
-  "registry": "P.IVA/C.F. 14909621006 · REA RM 1554825 · 注册 2018-09-21",
-  "hq": "Via Giulio Pasquati 7, 00139 Roma (RM)",
-  "size": "0 员工（2025）；营收 €60,767（2023）",
-  "other": "PEC 3medialabsrl@pec.3medialab.com；曾代理 Blackmagic 等广播设备、慢动作/视频裁判系统"
- },
- "business_lines": [
-  "广播/影视设备经销（Blackmagic 等）"
- ],
- "channels": {
-  "网站": "http://www.3medialab.com/"
- },
- "signals": [
-  "历史成交为一次性（广播项目配套）；公司清算中、无员工 → 无复购可能"
- ],
- "risks": [
-  "公司清算中（IN LIQUIDAZIONE）——不再投入；若 Antonio Greco 另立新公司可重新登记"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 25,
-  "why": "不再推进；如负责人以新主体复购，按集成商 25% 档报 STC-28DGGPM"
- },
- "email_hook": "（不发送：公司清算中）"
 }

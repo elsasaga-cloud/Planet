@@ -1,0 +1,223 @@
+# SB-213 kti.de · news_1 · https://kti.de/news · fetched 2026-10-25T07:41:18Z · HTTP 200
+News und Dr. Lan - KTI Distribution GmbH
+document.getElementById(forward)?.focus());
+return;
+}
+if(backward != '' && event.shiftKey) {
+event.preventDefault();
+$nextTick(() => document.getElementById(backward)?.focus());
+return;
+}
+},
+}" x-init="mobileDetection.detectMobile(), getLocation()" @mouseleave="dropdownOpen = null">
+English
+Service & Downloads
+Home
+this.currentPage.startsWith(page) || this.currentPage.startsWith('/ueber-uns'));
+}
+}" x-init="currentPageMatch()"
+x-bind:class="dropdownOpen === '1' ? 'border-b-2 border-kti-blue' : ''">
+Unternehmen
+this.currentPage.startsWith(page) || this.currentPage.startsWith('/produkte'));
+}
+}" x-init="currentPageMatch()"
+x-bind:class="dropdownOpen === '2' ? 'border-b-2 border-kti-blue' : ''">
+Produkte
+Lösungen
+this.currentPage.startsWith(page) || this.currentPage.startsWith('/leistungen'));
+}
+}" x-init="currentPageMatch()"
+x-bind:class="dropdownOpen === '4' ? 'border-b-2 border-kti-blue' : ''">
+Leistungen
+Aktuelles
+Kontakt
+Shop
+English
+Home
+this.currentPage.startsWith(page));
+}
+}" x-init="currentPageMatch()">
+Unternehmen
+Über Uns
+Team
+Karriere
+this.currentPage.startsWith(page));
+}
+}" x-init="currentPageMatch()">
+Produkte
+KTI Networks
+Konverter
+Switches
+Industrial Ethernet
+SFPs
+Netsys
+Edgecore
+Ubiquiti
+SlimWire
+Lösungen
+this.currentPage.startsWith(page));
+}
+}" x-init="currentPageMatch()">
+Leistungen
+Planung & Beratung
+Support
+Schulungen
+OEM & ODM
+Aktuelles
+Kontakt
+Shop
+Neu
+Über Uns
+|
+Team
+|
+Karriere
+KTI Networks
+Konverter
+Switches
+Industrial Ethernet
+SFPs
+|
+Netsys
+|
+Edgecore
+|
+Ubiquiti
+|
+SlimWire
+Planung & Beratung
+|
+Support
+|
+Schulungen
+|
+OEM & ODM
+All
+News
+Dr. Lan
+Fast Ethernet in der Industriellen Automation – 24/7 vernetzt
+Von: Inga Müller | 03.07.2026
+In Produktionshallen kommt es selten auf riesige Bandbreiten an, sondern vielmehr auf hohe Störsicherheit, Robustheit und extreme Zuverlässigkeit.
+Mehr erfahren
+Drei Jahrzehnte aktiv vernetzt - KTI wird 30!
+Von: Inga Müller | 19.05.2026
+KTI Distribution feiert 30 Jahre: Seit 1996 steht KTI für zuverlässige Netzwerkkomponenten und persönliche Beratung – und wächst mit einem erweiterten Portfolio und neuem Firmengebäude in die Zukunft.
+Mehr erfahren
+Dr. Lan erklärt: SlimWire+ vs. SlimWire Ultra 7
+Von: Inga Müller | 19.02.2026
+Welches Patchkabel passt wirklich zu Ihrer Anwendung?
+Mehr erfahren
+KTI erhält Bonitätszertifikat von Creditreform
+Von: Inga Müller | 27.01.2026
+Jetzt haben wir es sogar schwarz auf weiß: Die KTI Distribution GmbH ist...
+Mehr erfahren
+Neu & sofort verfügbar: 10-Port Office-Switch mit VLAN, LACP, QoS & mehr...
+Von: Inga Müller | 28.11.2025
+Der KGS-1021 bietet mit seinen acht 10/100/1000Mbps RJ45-Ports die Möglichkeit...
+Mehr erfahren
+Neuer 10-Port Gigabit Switch: PoE-Power für Office-Netzwerke & mehr
+Von: Inga Müller | 01.09.2025
+Darauf hat Ihr Netzwerk gewartet. Der neue Gigabit Switch KGS-1020-HP von KTI Networks...
+Mehr erfahren
+NEU: SlimWire jetzt mit Cat7-Standard
+Von: Inga Müller | 21.07.2025
+SlimWire Ultra7 ist das leistungsfähigste und modernste Patchkabel der SlimWire-Familie und ab sofort für Sie verfügbar...
+Mehr erfahren
+Unser neuer Katalog ist da!
+Von: Inga Müller | 30.06.2025
+Produktneuheiten, passendes Zubehör, praktische Anwendungsbeispiele...
+Mehr erfahren
+Backbone- und Workgroup-Lösungen für KMU
+Von: Inga Müller | 16.04.2025
+Lernen Sie die modulare Switch-Serie KGS-2422 kennen ...
+Mehr erfahren
+Felix und Julian sind jetzt „DiGiZUBIS!“ 🚀
+Von: Inga Müller | 17.03.2025
+Unsere Auszubildenden haben erfolgreich am IHK-Projekt teilgenommen und jetzt die Urkunde für ihr Digitalisierungskonzept erhalten
+Mehr erfahren
+Spannende Berufe in der IT beim Digital Day 2025
+Von: Inga Müller | 05.03.2025
+Der Bielefelder Digital Day 2025 steht vor der Tür, und wir bei KTI Distribution freuen uns riesig, ein Teil dieses spannenden Events zu sein! 🎉
+Mehr erfahren
+KTI beim Bielefelder Digital Day 2025 – Ein Tag voller Einblicke in die IT-Welt! 🚀
+Von: Inga Müller | 13.02.2025
+Der Bielefelder Digital Day 2025 steht vor der Tür, und wir bei KTI Distribution freuen uns riesig, ein Teil dieses spannenden Events zu sein! 🎉
+Mehr erfahren
+Frohe Weihnachten und einen guten Rutsch ins neue Jahr 2025
+Von: Inga Müller | 20.12.2024
+Das Jahr 2024 neigt sich dem Ende zu und wir möchten uns bei Ihnen für die gute Zusammenarbeit und das entgegengebrachte Vertrauen bedanken.
+Mehr erfahren
+Advent-Moment: Auf Social Media gibt’s jetzt mehr von uns…
+Von: Inga Müller | 29.11.2024
+Der besondere Adventskalender zeigt die kreativen Köpfe und bietet Einblicke in den Arbeitstag bei KTI. Folgen Sie uns!
+Mehr erfahren
+Die Wortmann „Würstchentour“ bei KTI
+Von: Inga Müller | 23.10.2024
+Das Würstchen-Mobil von der terra WORTMANN AG hat bei KTI Halt gemacht – und dem gesamten Team eine extra Würstchen-Pause beschert.
+Mehr erfahren
+Konverterracks von KTI Networks: Ordnung und Funktion im Serverschrank
+Von: Inga Müller | 05.09.2024
+Für die einfache und übersichtliche Installation mehrerer Konverter bietet KTI mit den Konvertrerracks der Serien KC-1300 und KCR-4MC passende Lösungen.
+Mehr erfahren
+KGC-310M - Die ideale Konverter-Lösung für Single-/ Multimode- und BiDi-Anwendungen
+Von: Inga Müller | 17.07.2024
+Ob einzeln oder im Rack - die managebare KTI-Serie KGC-310M steht für Flexibilität bei der Konvertierung von Kupfer auf Glasfaser. Die Konverter unterstützen bei der Datenübertragung...
+Mehr erfahren
+Von Kupfer auf Glasfaser: Industrielle PoE-Konverter-Serie mit 128W Leistung
+Von: Inga Müller | 02.07.2024
+Mit der Konverter-Serie KGC-261-DP holen Sie sich ein robustes Power-Paket in Ihr Ethernet-Netzwerk. Bis zu 128 Watt PoE-Leistung sind möglich, ideal für stromintensive Endgeräte.
+Mehr erfahren
+Hannover Messe 2024: KTI zieht Bilanz
+Von: Inga Müller | 26.04.2024
+Aufregende Tage voller Innovationen und spannender Begegnungen liegen hinter uns. Schön, dass Sie bei uns vorbeigeschaut haben!
+Mehr erfahren
+Hannover Messe 2024: Sind Sie dabei?
+Von: Inga Müller | 04.04.2024
+Ihr kostenfreies Messeticket wartet bereits auf Sie: Besuchen Sie uns am KTI-Stand in Halle 9! Wir freuen uns auf Sie!
+Mehr erfahren
+Willkommen im Team
+Von: Inga Müller | 10.08.2023
+Zum Ausbildungsstart 2023 freuen wir uns über Verstärkung: Vier Azubis starten in diesem Jahr bei uns in ihre Berufsausbildung
+Mehr erfahren
+Tag des Systemadministrators
+Von: Inga Müller | 28.07.2023
+Der 28. Juli ist der Tag des Systemadministrators: Wir danken unserem Admin für seine tolle Arbeit bei KTI!
+Mehr erfahren
+Die KTI-Experten bei Ihnen vor Ort
+Von: Inga Müller | 07.07.2023
+Sie möchten Ihre Mitarbeiter in Sachen Netzwerktechnik fit machen, oder Ihren Kunden ein besonderes Extra bieten? Der KTI Praxis-Workshop kommt zu Ihnen.
+Mehr erfahren
+Dr. Lan: Quality of Service
+Von: Christian Helming | 19.02.2021
+Grundsätzlich werden in einem Netzwerk alle Datenpakete gleich behandelt. Das kann bei hoher Auslastung zu Konflikten führen. Denn unterschiedliche IT-Anwendungen haben unterschiedliche Ansprüche an Bandbreite/Übertragungskapazität (Bandwidth), Laufzeitverzögerungen (Delay), Laufzeitschwankungen (Jitter) und Paketverluste (Packet Loss).
+Mehr erfahren
+Dr. Lan: Digital Diagnostic Monitoring (DDM)
+Von: Christian Helming | 14.04.2020
+Heute geht es um SFPs und die Funktion des Digital Diagnostic Monitoring, kurz DDM genannt. Im Beitrag über SFPs wurde DDM bereits kurz erwähnt. Heute möchte ich es näher erläutern.
+Mehr erfahren
+Dr. Lan: VLANs in der betrieblichen Praxis
+Von: Christian Helming | 14.05.2019
+Im letzten Dr. Lan Newsletter habe ich Ihnen eine erste Einführung in das Thema VLAN gegeben. Zur Erinnerung: VLAN steht für Virtual Local Area Network. Das bedeutet: Ein physisches LAN lässt sich in mehrere, logische (virtuelle) voneinander getrennte Teilnetze aufteilen.
+Mehr erfahren
+Dr. Lan: Wie Sie mit virtuellen Netzen Sicherheit und Performance erhöhen
+Von: Christian Helming | 27.03.2019
+In großen Firmen und Institutionen besteht die Notwendigkeit, das IT-Netzwerk in verschiedene Bereiche aufzuteilen. Allen voran aufgrund von Sicherheitserwägungen macht eine solche Trennung Sinn. Nicht jeder Teilnehmen soll Zugriff auf alle Teilbereiche der Netzwerk-Infrastruktur bekommen. Aber auch aus Gründen der Performance kann eine Abgrenzung erwünscht sein.
+Mehr erfahren
+Kontakt:
+Mo - Fr  - Uhr
+0521 96680 0
+info@kti.de
+Oder über unser Kontaktformular
+Anschrift:
+Meisenstraße 79a - 33607 Bielefeld
+Impressum
+AGB
+Datenschutz
+Kontakt
+Newsletter
+Händler finden
+DIN ISO 9001 Zertifikat
+Google Rezensionen:
+Sehr schneller und fachlich kompetenter Service! Zudem auch sehr professionell und super freundlich.
+Rezension schreiben
+WIR SCHAFFEN VERBINDUNGEN!

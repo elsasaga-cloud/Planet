@@ -2,136 +2,135 @@
  "code": "SB-154",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "在线（sieraelectronics.com，快照 2026-10-21）",
- "summary": "Siera Electronics（香港注册、面向北美/中美洲加勒比/南美/欧洲/亚洲的安防品牌：Sieco 摄像机（Alexa/Google Home 兼容）、CCTV、云、对讲；表内「ONV 的商业 PoE 带了自己的标」；KP Mauro Fleitas（Electronic Engineer）；邮箱 venta@（西语））；群发 18 次无回复。",
- "type": "拉美导向安防品牌商（香港注册，PoE 现 ONV 贴标）",
+ "website_status": "在线（wire.tech，快照 2026-10-21）",
+ "summary": "英国 Wire Technologies（wire.tech：光模块、DAC/AOC、光纤与 MPO 线缆、CAT 线、扩展坞、MC、PDU；Cisco/Juniper/H3C 兼容；表内「MC 有光路的外壳 12 机架，好几种外壳 自己的 logo，SFP」；KP Nathan Barrowclough、James）；群发 16 次无回复。",
+ "type": "网络配件品牌商（英国，自有标 MC/光模块）",
  "size": "",
  "brands_seen": [
-  "ONV"
+  "Cisco",
+  "Juniper",
+  "H3C"
  ],
  "evidence": [
   {
    "kind": "官网快照",
-   "claim": "官网标题：Siera Electronics |；品类词 安防监控（CCTV / 门禁）",
-   "quote": "North America；Central America and Caribbean；South America；Europe；Asia；Important Notice · Service update",
-   "url": "https://sieraelectronics.com/",
+   "claim": "官网标题：Wire Technologies — Wire Technologies；品类词 布线 / 线缆 / 光纤 / 媒体转换",
+   "quote": "Wire Technologies provide solutions for all your networking needs. Our products range from Transceivers Fibre & MPO Cables CAT cables Docking stations Media Converters",
+   "url": "https://wire.tech/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
    "claim": "表内兴趣/备注",
-   "quote": "ONV的商业POE 带了自己的标",
+   "quote": "MC 有光路的外壳 12机架 好几种外壳 自己的logo SFP",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   },
   {
    "kind": "官网快照",
-   "claim": "Siera 首页",
-   "quote": "Siera Electronics | ; North America ; Central America and Caribbean ; South America ; Europe ; Asia ; Sieco Cameras Compatible with Alexa and Google Home",
-   "url": "https://sieraelectronics.com/",
+   "claim": "Wire Technologies 定位",
+   "quote": "Wire Technologies — Wire Technologies ; Our products range from Transceivers Fibre & MPO Cables CAT cables Docking stations Media Converters",
+   "url": "https://wire.tech/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "ONV 的商业 PoE 带自己的标",
-   "quote": "ONV的商业POE 带了自己的标",
+   "claim": "MC 多外壳 12 机架 自己的 logo SFP",
+   "quote": "MC 有光路的外壳 12机架 好几种外壳 自己的logo SFP",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
  "kp": [
   {
-   "name": "Mauro Fleitas",
-   "title": "Electronic Engineer",
-   "email": "venta@sieraelectronics.com",
+   "name": "Nathan Barrowclough",
+   "title": "（职务待核）",
+   "email": "nathan@wire.tech",
+   "phone": "",
+   "source": "用户表"
+  },
+  {
+   "name": "James",
+   "title": "（姓氏/职务待核）",
+   "email": "james@wire.tech",
    "phone": "",
    "source": "用户表"
   }
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "香港",
-  "other": "官网 sieraelectronics.com，语言 en-US，快照状态 ok；角色判定来源：用户表"
+  "hq": "英国",
+  "other": "官网 wire.tech，语言 en，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "安防摄像 / CCTV / 对讲 / 云（自有品牌 Siera / Sieco）"
+  "光模块 / DAC / 光纤线缆（自有品牌）",
+  "MC / PDU / 扩展坞"
  ],
  "channels": {
-  "role": "拉美导向安防品牌商（香港注册，PoE 现 ONV 贴标）",
-  "region": "香港",
-  "contact": "venta@sieraelectronics.com"
+  "role": "网络配件品牌商（英国，自有标 MC/光模块）",
+  "region": "英国",
+  "contact": "nathan@wire.tech、james@wire.tech"
  },
  "signals": [
-  "首页 North America ; Central America and Caribbean ; South America ; Europe ; Asia ; Sieco Cameras Compatible with Alexa and Google Home；页面 /en/products/cctv/、/en/products/intercom/",
-  "表内：ONV 的商业 PoE 带了自己的标；KP Mauro Fleitas / Electronic Engineer"
+  "官网：Wire Technologies provide solutions for all your networking needs. Our products range from Transceivers Fibre & MPO Cables CAT cables Docking stations Media Converters；首页 Transceivers ; Direct Attach Cables ; Active Optical Cables；kw cable 107 / cisco 30 / media converter 15",
+  "表内：MC 有光路的外壳 12 机架 好几种外壳 自己的 logo SFP；KP Nathan Barrowclough"
  ],
  "risks": [
-  "现供 ONV（深圳）价格基准低；香港注册/拉美市场（T5）",
-  "18 次无回复 → 改向 Electronic Engineer 具名首触"
+  "核心需求（桌面 MC 多外壳 + 12 槽机架、SFP）Saga 不供（Q-32）：仅工业 MC 可对位，契合度低",
+  "16 次无回复 → 改向 Nathan 具名首触（职务待核）"
  ],
  "saga_fit": {
-  "p1": "STC-28DGGPM",
+  "p1": "STI-110GE",
   "tier": 30,
-  "why": "自有 Siera 标商用 PoE（现 ONV）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；非管理 8/16 PoE 位 HRUI STC-028GP / STC-2216GPM（列表价，注明）"
+  "why": "自有 logo MC（多外壳 + 12 槽机架）→ Saga 无 MC 机架/桌面 MC（Q-32）；工业千兆 MC STI-110GE（$24.3 @30%）/ PoE MC STI-111GP 可贴标；光模块/DAC Saga 不供"
  },
- "email_hook": "Mauro, for the Siera-branded PoE switches you ship with Sieco camera kits to Latin America, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 16/24-PoE) in your packaging from small lots, FCC/CE/RoHS — which port count do your distributors order most?",
+ "email_hook": "Nathan, for the media converters sold under your label alongside your transceiver and cable range, we can supply industrial gigabit and PoE MCs (DIN/wall mount, −40~75 °C) in your packaging from small lots, CE/RoHS/UKCA — is there an MC housing or rack-chassis configuration you currently struggle to source?",
  "mail_review": {
   "binding": {
-   "level": "读而不回（A/S 邮箱 27 封 2024→2026，其中 2 封被打开，0 回；收件 venta@sieraelectronics.com；被打开主题「Industrial PoE Switch、10G Enterprise SFP Switch」；Elsa 箱：`to:sieraelectronics.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 27 / 来 0）（第 74 批(n)））",
-   "type": "拉美导向安防品牌商（香港注册，PoE 现 ONV 贴标）",
-   "sieve": "2（有人在读，无人回）",
-   "stop": "读而不回 = 内容未命中或没有当下需求",
-   "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
-   "lane": "香港 非主攻",
-   "cadence": "一封；回了再说",
-   "evidence": "gmail_digest：out 27，Opened 标签 2（Simon 群发追踪）；用户表：「ONV的商业POE 带了自己的标」；研究档 risks：现供 ONV（深圳）价格基准低；香港注册/拉美市场（T5）"
+   "level": "未触达（1 封自动回复；Elsa 箱：`to:wire.tech` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 25 / 来 1）（第 74 批(j)））",
+   "type": "英国网络配件品牌商（Wire.tech）",
+   "sieve": "0",
+   "stop": "自动回复/机器人，无人工回复",
+   "revive": "不动",
+   "lane": "UK",
+   "cadence": "不动",
+   "evidence": "k=54e501928ff8e36a"
   },
-  "situation": "Siera Electronics（香港注册、面向北美/中美洲加勒比/南美/欧洲/亚洲的安防品牌：Sieco 摄像机（Alexa/Google Home 兼容）、CCTV、云、对讲；表内「ONV 的商业 PoE 带了自己的标」；KP Mauro Fleitas（Electronic Engineer）；邮箱 venta@（西语））；群发 18 次无回复。",
-  "need": "自有 Siera 标商用 PoE（现 ONV）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；非管理 8/16 PoE 位 HRUI STC-028GP / STC-2216GPM（列表价，注明）",
-  "breakpoint": "现供 ONV（深圳）价格基准低；香港注册/拉美市场（T5）",
+  "situation": "来信全部为机器回复；无人读信或无人回信。",
+  "need": "—",
+  "breakpoint": "—",
   "saga_now": {
-   "p1": "STC-28DGGPM",
+   "p1": "—",
    "tier": 30,
-   "price": "首触锚价 STC-28DGGPM $87.4 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-02 $220（48 port managed switch）、2024-12-27 $240（24 Port Fiber Switch）；群发里他已看到的价（续，第 66 批全量复核）：2025-08-04 $300（48 Port PoE Managed Switch）、2025-10-09 $280（10G Enterprise SFP Switch）",
-   "why": "自有 Siera 标商用 PoE（现 ONV）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；非管理 8/16 PoE 位 HRUI STC-028GP / STC-2216GPM（列表价，注明）。已打开的主题（2/27 封有打开记录）：「2.5G Switch」(2024-07-03)、「Marvell Industrial Alert System」(2025-06-03) → 读者兴趣偏「2.5G」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-02-13)、Saga Feature List_7.5.x_L2+(2026-07-01)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）",
+   "price": "—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-05 $220（48 port managed switch）；群发里他已看到的价（续）：2026-08-18 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-29 $280（10G Enterprise SFP Switch）",
+   "why": "已打开的主题（4/25 封有打开记录）：「16 Port PoE Managed Switch」(2025-02-07)、「Managed Optical Bypass Switch」(2025-03-28)、「Managed Optical Bypass Switch」(2025-06-17)、「8 Port Industrial PoE Switch」(2025-08-28) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "2026-11",
-   "channel": "A 邮箱 → venta@sieraelectronics.com",
-   "action": "短信一问（email_hook）",
-   "one_question": "Mauro, for the Siera-branded PoE switches you ship with Sieco camera kits to Latin America, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 16/24-PoE) in your packaging from small lots, FCC/CE/RoHS — which port count do your distributors order most? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity)."
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
   },
   "facts": [
    {
-    "date": "2026-10-08",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "Industrial PoE Switch、10G Enterprise SFP Switch",
-    "why": "27 封 / 2 次打开 / 0 回｜首封 2024-07-03 → 末封 2026-10-08（27 去 / 0 来）",
-    "k": "gmail_digest"
-   },
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "ONV的商业POE 带了自己的标",
-    "why": "表内备注",
-    "k": "用户表"
+    "date": "2025-03-28",
+    "dir": "内",
+    "who": "Gmail 退信（A 邮箱）",
+    "quote": "enquiries@wire.tech 永久退信：[https://products.office.com/en-us/CMSImages/Office365Logo_Orange.png?version=b8d100a9-0a8b-8e6a-88e1-ef488fee0470] Your",
+    "why": "该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职",
+    "k": "gmail_a 54e501928ff8e36a"
    }
   ],
   "proof_gaps": [],
-  "draft_en": {
-   "subject": "One question — Industrial PoE Switch",
-   "body": "Hi Mauro,\n\nWe have sent you a few mails on \"Industrial PoE Switch\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor the Siera-branded PoE switches you ship with Sieco camera kits to Latin America, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 16/24-PoE) in your packaging from small lots, FCC/CE/RoHS — which port count do your distributors order most?\n\nReference price: 8-PoE + 2 × 1G/2.5G SFP L2+ managed switch (Marvell AC5), 120 W (STC-28DGGPM) $87.4 USD EXW, MOQ 1 pc, 15-day validity, 1-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
-  },
+  "draft_en": null,
   "as_of": "2026-10-24"
  }
 }

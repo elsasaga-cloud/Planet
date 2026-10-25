@@ -2,46 +2,30 @@
  "code": "SB-653",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "在线（zonagsm.su，快照 2026-10-21）",
- "summary": "俄罗斯 Зона GSM（塔甘罗格 3G/4G/LTE/Wi-Fi 上网设备与天线商店；PoE 注入/延长器页；表内「商业 PoE，有 ONV 和 Utepo 的」）；群发 17 次无回复。",
- "type": "地方无线上网设备商店（俄罗斯）",
+ "website_status": "在线（coredata.com.tr，快照 2026-10-21）",
+ "summary": "土耳其 Coredata（官网为 Plesk 默认页，业务待核；表内兴趣「其他」）；表内 2 次跟进无回复。",
+ "type": "IT 公司（土耳其，待核）",
  "size": "",
- "brands_seen": [
-  "MikroTik",
-  "Hikvision",
-  "Dahua",
-  "D-Link",
-  "Huawei",
-  "Ajax",
-  "ONV",
-  "Utepo"
- ],
+ "brands_seen": [],
  "evidence": [
   {
    "kind": "官网快照",
-   "claim": "官网标题：Зона GSM :: Оборудование для беспроводного 3G, 4G, LTE, Wi-Fi интернета купить в Таганроге；品类词 网络交换 / PoE",
-   "quote": "Купить 3G и 4G антенну для усиления сигнала любых операторов связи (Yota, МТС, Билайн, Ростелеком) в Таганроге и Неклиновском районе Ростовской области с доставкой по всей России. Стабильный мобильный беспроводной интернет и высокая скорост",
-   "url": "https://zonagsm.su/",
+   "claim": "官网标题：Plesk Obsidian 18.0.81",
+   "quote": "",
+   "url": "https://coredata.com.tr/login_up.php",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
    "claim": "表内兴趣/备注",
-   "quote": "商业POE",
+   "quote": "其他",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   },
   {
-   "kind": "官网快照",
-   "claim": "Зона GSM 塔甘罗格",
-   "quote": "Зона GSM :: Оборудование для беспроводного 3G, 4G, LTE, Wi-Fi интернета купить в Таганроге",
-   "url": "https://zonagsm.su/",
-   "date": "2026-10-21"
-  },
-  {
    "kind": "用户表",
-   "claim": "商业 PoE，有 ONV 和 Utepo 的",
-   "quote": "商业POE；有ONV和Utepo的",
+   "claim": "其他",
+   "quote": "其他",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
@@ -49,96 +33,94 @@
  "kp": [],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "俄罗斯",
-  "other": "官网 zonagsm.su，语言 ?，快照状态 ok；角色判定来源：待核"
+  "hq": "土耳其",
+  "other": "官网 coredata.com.tr，语言 en，快照状态 ok；角色判定来源：待核"
  },
  "business_lines": [
-  "3G/4G 天线与无线上网设备商店"
+  "（待核）"
  ],
  "channels": {
-  "role": "地方无线上网设备商店（俄罗斯）",
-  "region": "俄罗斯",
-  "contact": "info@zonagsm.su"
+  "role": "IT 公司（土耳其，待核）",
+  "region": "土耳其",
+  "contact": "info@coredata.com.tr、satis@coredata.com.tr"
  },
  "signals": [
-  "官网：Оборудование для беспроводного 3G, 4G, LTE, Wi-Fi интернета купить в Таганроге",
-  "页面 /PoE-IN、/poe-rasshiritel；站内 DES-1005C / SG1005D"
+  "快照：Plesk Obsidian 18.0.81（默认页）",
+  "表内：其他"
  ],
  "risks": [
-  "俄罗斯地方小店：结算/物流受限，量小，非主攻区（T5）",
-  "17 次无回复，仅 info@"
+  "官网为 Plesk 默认页（经营状态待核）；兴趣「其他」；2 次无回复"
  ],
  "saga_fit": {
   "p1": "STC-28DGGPM",
   "tier": 20,
-  "why": "在售 ONV/Utepo 商用 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）；预期低"
+  "why": "业务待核 → 通用首触：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）"
  },
- "email_hook": "Alongside the ONV and Utepo PoE switches you list, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port unmanaged PoE units from small lots, EXW — which band sells more in your shop?",
+ "email_hook": "We supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and 24-PoE + 4 SFP switches plus DIN-rail industrial units from single units, CE/RoHS, EXW USD — does Coredata resell or install network switches, and which port count do your customers ask for most?",
  "mail_review": {
   "binding": {
-   "level": "未触达（A/S 邮箱 22 封 2024→2026，无记录打开，0 回；收件 info@zonagsm.su；主题多为「Industrial PoE Switch、Marvell Alleycat5 Solution」；Elsa 箱：`to:zonagsm.su` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 22 / 来 0）（第 74 批(l)））",
-   "type": "地方无线上网设备商店（俄罗斯）",
-   "sieve": "1（只收到群发）",
+   "level": "未触达（A/S 邮箱 13 封 2024→2026，1 次记录打开，0 回；收件 info@coredata.com.tr, satis@coredata.com.tr；主题多为「Industrial PoE Switch、10G Enterprise SFP Switch」；Elsa 箱：`to:coredata.com.tr` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 13 / 来 0）（第 74 批(i)））",
+   "type": "IT 公司（土耳其，待核）",
+   "sieve": "1~2（1 次打开）",
    "stop": "只打通用邮箱，无记录打开",
-   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
-   "lane": "RU 次级（Simon 2026-08 点名）",
-   "cadence": "一封",
-   "evidence": "gmail_digest：out 22；用户表：「商业POE」；研究档 risks：俄罗斯地方小店：结算/物流受限，量小，非主攻区（T5）"
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "TR 主攻（四主）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 13，Opened 标签 1（Simon 群发追踪）；用户表：「其他」；研究档 risks：官网为 Plesk 默认页（经营状态待核）；兴趣「其他」；2 次无回复"
   },
-  "situation": "俄罗斯 Зона GSM（塔甘罗格 3G/4G/LTE/Wi-Fi 上网设备与天线商店；PoE 注入/延长器页；表内「商业 PoE，有 ONV 和 Utepo 的」）；群发 17 次无回复。",
-  "need": "在售 ONV/Utepo 商用 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）；预期低",
-  "breakpoint": "俄罗斯地方小店：结算/物流受限，量小，非主攻区（T5）",
+  "situation": "土耳其 Coredata（官网为 Plesk 默认页，业务待核；表内兴趣「其他」）；表内 2 次跟进无回复。",
+  "need": "业务待核 → 通用首触：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）",
+  "breakpoint": "官网为 Plesk 默认页（经营状态待核）；兴趣「其他」；2 次无回复",
   "saga_now": {
    "p1": "STC-28DGGPM",
    "tier": 20,
-   "price": "换人再触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-09 $220（48 port managed switch）、2024-09-06 $65（10G media converter）；群发里他已看到的价（续）：2026-08-25 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-06-30 $240（24 Port Fiber Switch）、2025-10-02 $280（10G Enterprise SFP Switch）",
-   "why": "在售 ONV/Utepo 商用 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）；预期低",
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-12 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2025-09-26 $280（10G Enterprise SFP Switch）",
+   "why": "业务待核 → 通用首触：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）。已打开的主题（1/13 封有打开记录）：「Industrial PoE Switch」(2025-10-24) → 读者兴趣偏「工业」；与 P1 同类，继续",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "2027-Q1（换人后）",
-   "channel": "A 邮箱 → 具名 KP",
-   "action": "换收件人再发一封（第 75 批(ag) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；EAC stays on your side）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
-   "one_question": "Alongside the ONV and Utepo PoE switches you list, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port unmanaged PoE units from small lots, EXW — which band sells more in your shop? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "We supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and 24-PoE + 4 SFP switches plus DIN-rail industrial units from single units, CE/RoHS, EXW USD — does Coredata resell or install network switches, and which port count do your customers ask for most?"
   },
   "facts": [
    {
-    "date": "2026-08-25",
+    "date": "2024-11-05",
+    "dir": "去",
+    "who": "Simon → Angora Networks（SA-077）附件 Turkey Client List.xlsx",
+    "quote": "名单行：「info@coredata.com.tr」",
+    "why": "Saga 2024-11-05 把本户列入交给 Angora（安卡拉，Saga 提议的欧盟/土耳其分销伙伴）的 64 家起步名单；此后 Saga 仍直发本户。若 Angora 已接触过本户，Saga 直发会与自己提议的渠道打架 → Q-51（默认：直发继续，Angora 报了价的户 Saga 只做技术支持）",
+    "k": "gmail_s 2024-11-05 Re: Invoice_5pcs STC-424DGGPM-280W（附件）+ Drive PI 7_土耳其 Turkey_Client_List.xlsx"
+   },
+   {
+    "date": "2026-03-04",
     "dir": "去",
     "who": "A/S 群发",
-    "quote": "Industrial PoE Switch、Marvell Alleycat5 Solution",
-    "why": "22 封 / 0 次打开 / 0 回｜首封 2024-06-15 → 末封 2026-08-25（22 去 / 0 来）",
+    "quote": "Industrial PoE Switch、10G Enterprise SFP Switch",
+    "why": "13 封 / 1 次打开 / 0 回｜首封 2024-06-19 → 末封 2026-03-04（13 去 / 0 来）",
     "k": "gmail_digest"
    },
    {
     "date": "2026-10-21",
     "dir": "用户表",
     "who": "Simon",
-    "quote": "商业POE",
+    "quote": "其他",
     "why": "表内备注",
     "k": "用户表"
-   },
-   {
-    "date": "2026-08-25",
-    "dir": "去",
-    "who": "A 箱（Alan）",
-    "quote": "24 Port PoE Managed Switch",
-    "why": "本日去信真实主题（邮箱索引 e5553c67ed992496；信稿开头句引用此封；此前稿内写的「Industrial PoE Switch」是线程列表首题，不是本封）",
-    "k": "e5553c67ed992496"
    }
   ],
-  "proof_gaps": [],
-  "draft_en": {
-   "subject": "Alongside the ONV and Utepo PoE switches in your shop - two bands",
-   "body": "Hello,\n\nOver the past months you had a few product mails from us - most recently \"24 Port PoE Managed Switch\" on 25 August 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nAlongside the ONV and Utepo PoE switches you list, neutral-brand units at distributor price, EXW, MOQ 1, 15-day validity, CE/RoHS: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based - model STC-28DGGPM - $80.7 USD; budget unmanaged 8 x PoE+ + 2 x Gigabit - STC-028GP - $25.1. Injectors and extenders we do not carry; EAC stays on your side.\n\nOne question: which band sells more in your shop - managed, or the unmanaged under 30 dollars?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
-  },
+  "proof_gaps": [
+   "在 Saga 给 Angora 的 Turkey Client List（2024-11-05）里——Angora 是否接触过本户无记录（Q-51）"
+  ],
+  "draft_en": null,
   "as_of": "2026-10-24"
  }
 }

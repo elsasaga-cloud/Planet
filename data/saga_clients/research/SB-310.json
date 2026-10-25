@@ -1,135 +1,114 @@
 {
  "code": "SB-310",
- "name_official": "",
+ "name_official": "Arcan Libya（的黎波里）",
  "researched_at": "2026-10-21",
- "website_status": "快照失败（http_error）",
- "summary": "美国 Fiberdyne（官网快照 HTTP 错误；表内「光路的 10G MC、SFP、商业 FS，少部分工业 FS 自己的 logo」；KP Jeremy Nulty（International Sales Director）、Ken Misterka（VP Purchasing）、Peter Polus）；群发 18 次无回复。",
- "type": "光纤产品品牌商（美国，自有标 FS/MC）",
+ "website_status": "在线（arcanlibya.com，快照 2026-10-21，内容空）",
+ "summary": "利比亚的黎波里（+218 21）IT / 网络公司 Arcan，GM Ahmed Ezzarrough，2025 伊斯坦布尔 ISAF 展接触：问 8 光 8 电价格、要价格表、要工业级 PoE 管理交换机；WA 无实质回复。",
+ "type": "",
  "size": "",
  "brands_seen": [],
  "evidence": [
   {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "光路的10GMC SFP 商业FS 少部分工业FS 自己的logo",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "kind": "官网快照",
+   "claim": "arcanlibya.com 首页无内容",
+   "quote": "status ok, empty",
+   "url": "https://arcanlibya.com/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "10G MC SFP 商业 FS 自己的 logo",
-   "quote": "光路的10GMC SFP 商业FS 少部分工业FS 自己的logo",
+   "claim": "ISAF 2025：问了 8 光 8 价格，要价格表，要工业级 PoE 管理交换机",
+   "quote": "兴趣：问了8光8价格，要价格表，要工业级POE管理交换机",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
  "kp": [
   {
-   "name": "Ken Misterka",
-   "title": "VP Purchasing",
-   "email": "sales@fiberdyne.com",
-   "phone": "",
-   "source": "用户表"
-  },
-  {
-   "name": "Jeremy Nulty",
-   "title": "International Sales Director",
-   "email": "",
-   "phone": "",
-   "source": "用户表"
-  },
-  {
-   "name": "Peter Polus",
-   "title": "（职务待核）",
-   "email": "peter@fiberdyne.com",
-   "phone": "",
-   "source": "用户表"
+   "name": "Ahmed Ezzarrough",
+   "title": "General Manager",
+   "email": "info@arcanlibya.com",
+   "phone": "+218 91 366 2420",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
   }
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（快照空页 + 表内）"
  },
  "company_facts": {
-  "hq": "美国",
-  "other": "官网 fiberdyne.com，语言 ?，快照状态 http_error；角色判定来源：用户表"
+  "legal_name": "Arcan Libya（待核）",
+  "founded": "",
+  "hq": "Tripoli, Libya（+218 21 712 8108）",
+  "size": "小型",
+  "other": "ISAF 2025 展会线索"
  },
  "business_lines": [
-  "光纤产品 / 交换机（自有品牌 Fiberdyne）"
+  "网络 / 安防集成（推断）"
  ],
  "channels": {
-  "role": "光纤产品品牌商（美国，自有标 FS/MC）",
-  "region": "美国",
-  "contact": "sales@fiberdyne.com、peter@fiberdyne.com"
+  "role": "集成 / 经销商",
+  "region": "利比亚"
  },
  "signals": [
-  "表内：光路的 10G MC SFP 商业 FS 少部分工业 FS 自己的 logo；KP Jeremy Nulty / International Sales Director；Ken Misterka / VP Purchasing；Peter Polus",
-  "快照：fiberdyne.com http_error"
+  "展会面谈，明确问 8 光 8 电 + 工业管理 PoE 价格"
  ],
  "risks": [
-  "官网快照 HTTP 错误（站点待核）；核心需求 10G MC/SFP Saga 不供",
-  "18 次无回复 → 改向 VP Purchasing 具名首触"
+  "利比亚：付款需 T/T 预付或迪拜中转；物流经土耳其 / 马耳他",
+  "WA 无回复"
  ],
  "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 30,
-  "why": "自有 logo 商用 FS → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；工业位 STI-288GPM（$85.5）；10G MC / SFP Saga 不供（Q-32）"
+  "p1": "STI-488DGGGM",
+  "tier": 25,
+  "why": "8 光 8 电 = Saga STI-488DGGGM（8 SFP + 8 GE + 4×10G SFP+ 工业 L2+，$332.6 @25%）；工业管理 PoE → STI-288GPM。"
  },
- "email_hook": "Ken, for the switches sold under the Fiberdyne label, we can supply Marvell-based 8-PoE + 2 SFP L2+ and DIN-rail industrial 8-PoE + 2 SFP models in your packaging from small lots, FCC/CE/RoHS — which switch SKU do your distributors reorder most?",
+ "email_hook": "Ahmed, from ISAF — the 8-SFP + 8-copper industrial unit you priced is $333 EXW (with 4×10G uplinks on top), and the managed 8-PoE + 2-SFP is $82; payment T/T in advance, shipment via Istanbul or Dubai. Which one is the live project?",
  "mail_review": {
   "binding": {
-   "level": "读而不回（A/S 邮箱 29 封 2024→2026，其中 2 封被打开，0 回；收件 jnulty@fiberdyne.com, kmisterka@fiberdyne.com；被打开主题「Marvell Industrial Alert System、8 Port Industrial PoE Switch」；Elsa 箱：`to:fiberdyne.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 29 / 来 0）（第 74 批(h)））",
-   "type": "光纤产品品牌商（美国，自有标 FS/MC）",
-   "sieve": "2（有人在读，无人回）",
-   "stop": "读而不回 = 内容未命中或没有当下需求",
-   "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
-   "lane": "US 主攻（四主）",
-   "cadence": "一封；回了再说",
-   "evidence": "gmail_digest：out 29，Opened 标签 2（Simon 群发追踪）；用户表：「光路的10GMC SFP 商业FS 少部分工业FS 自己的logo」；研究档 risks：官网快照 HTTP 错误（站点待核）；核心需求 10G MC/SFP Saga 不供"
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：问了8光8价格，要价格表，要工业级POE管理交换机」；Elsa 箱：`to:arcanlibya.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(n)））",
+   "type": "—",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "不动（非主攻区；J5：有证据再动）；WhatsApp 已加 → 唤醒走 WhatsApp 一句话，不走邮件",
+   "lane": "利比亚 非主攻",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 0；用户表：「兴趣：问了8光8价格，要价格表，要工业级POE管理交换机」；研究档 risks：利比亚：付款需 T/T 预付或迪拜中转；物流经土耳其 / 马耳他"
   },
-  "situation": "美国 Fiberdyne（官网快照 HTTP 错误；表内「光路的 10G MC、SFP、商业 FS，少部分工业 FS 自己的 logo」；KP Jeremy Nulty（International Sales Director）、Ken Misterka（VP Purchasing）、Peter Polus）；群发 18 次无回复。",
-  "need": "自有 logo 商用 FS → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；工业位 STI-288GPM（$85.5）；10G MC / SFP Saga 不供（Q-32）",
-  "breakpoint": "官网快照 HTTP 错误（站点待核）；核心需求 10G MC/SFP Saga 不供",
+  "situation": "利比亚的黎波里（+218 21）IT / 网络公司 Arcan，GM Ahmed Ezzarrough，2025 伊斯坦布尔 ISAF 展接触：问 8 光 8 电价格、要价格表、要工业级 PoE 管理交换机；WA 无实质回复。",
+  "need": "8 光 8 电 = Saga STI-488DGGGM（8 SFP + 8 GE + 4×10G SFP+ 工业 L2+，$332.6 @25%）；工业管理 PoE → STI-288GPM。",
+  "breakpoint": "利比亚：付款需 T/T 预付或迪拜中转；物流经土耳其 / 马耳他",
   "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 30,
-   "price": "首触锚价 STC-28DGGPM $87.4 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-26 $220（48 port managed switch）；群发里他已看到的价（续）：2026-07-23 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-09-26 $65（10G Media Converter）、2025-10-07 $280（10G Enterprise SFP Switch）",
-   "why": "自有 logo 商用 FS → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；工业位 STI-288GPM（$85.5）；10G MC / SFP Saga 不供（Q-32）。已打开的主题（2/29 封有打开记录）：「10G Media Converter」(2024-09-26)、「Industrial PoE Switch」(2024-12-26) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-02-16)、Saga Feature List_7.5.x_L2+(2026-06-29)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）",
+   "p1": "STI-488DGGGM",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "8 光 8 电 = Saga STI-488DGGGM（8 SFP + 8 GE + 4×10G SFP+ 工业 L2+，$332.6 @25%）；工业管理 PoE → STI-288GPM。",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "2026-11",
-   "channel": "A 邮箱 → jnulty@fiberdyne.com",
-   "action": "短信一问（email_hook）",
-   "one_question": "Ken, for the switches sold under the Fiberdyne label, we can supply Marvell-based 8-PoE + 2 SFP L2+ and DIN-rail industrial 8-PoE + 2 SFP models in your packaging from small lots, FCC/CE/RoHS — which switch SKU do your distributors reorder most? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity)."
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
   },
   "facts": [
-   {
-    "date": "2026-09-25",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "Marvell Industrial Alert System、8 Port Industrial PoE Switch",
-    "why": "29 封 / 2 次打开 / 0 回｜首封 2024-07-04 → 末封 2026-09-25（29 去 / 0 来）",
-    "k": "gmail_digest"
-   },
    {
     "date": "2026-10-21",
     "dir": "用户表",
     "who": "Simon",
-    "quote": "光路的10GMC SFP 商业FS 少部分工业FS 自己的logo",
+    "quote": "兴趣：问了8光8价格，要价格表，要工业级POE管理交换机",
     "why": "表内备注",
     "k": "用户表"
    }
   ],
-  "proof_gaps": [],
-  "draft_en": {
-   "subject": "One question — Marvell Industrial Alert System",
-   "body": "Hi Ken,\n\nWe have sent you a few mails on \"Marvell Industrial Alert System\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor the switches sold under the Fiberdyne label, we can supply Marvell-based 8-PoE + 2 SFP L2+ and DIN-rail industrial 8-PoE + 2 SFP models in your packaging from small lots, FCC/CE/RoHS — which switch SKU do your distributors reorder most?\n\nReference price: 8-PoE + 2 × 1G/2.5G SFP L2+ managed switch (Marvell AC5), 120 W (STC-28DGGPM) $87.4 USD EXW, MOQ 1 pc, 15-day validity, 1-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
-  },
+  "proof_gaps": [
+   "无邮件往来",
+   "用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+  ],
+  "draft_en": null,
   "as_of": "2026-10-24"
  }
 }

@@ -1,0 +1,83 @@
+{
+ "code": "SC-187",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（plvision.eu，快照 2026-10-21）",
+ "summary": "波兰 PLVision（2007 年起开放网络软件工程服务：SONiC / SONiC-Lite、switchdev、开源 NOS 适配与定制开发；表内「Marvell 芯片，几个牌子的」「可以着重跟一下」；KP Olena Kozlova（Co-Founder & CEO）、Iryna Kupetska（CFO））；群发 8 次无回复。",
+ "type": "开放网络软件工程服务商（非渠道）",
+ "size": "",
+ "brands_seen": [
+  "Ubiquiti"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：PLVision: Leading Open Networking Transformation；品类词 电信 / FTTH / ISP 设备 / 数据中心 / 企业 IT / 网络交换 / PoE",
+   "quote": "Since 2007, PLVision has been driving global connectivity reach, delivering comprehensive and cutting-edge solutions and products to industry leaders, disruptive startups, and innovative enterprises.",
+   "url": "https://plvision.eu/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "Marvell芯片 几个牌子的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "PLVision 服务定位",
+   "quote": "Since 2007, PLVision has been driving global connectivity reach … Custom product development based on open-source technologies ; Open NOS enablement and customization for hardware",
+   "url": "https://plvision.eu/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "Marvell 芯片 几个牌子的",
+   "quote": "Marvell芯片 几个牌子的；可以着重跟一下",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Olena Kozlova",
+   "title": "Co-Founder & CEO",
+   "email": "olena.kozlova@plvision.eu",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
+ "grade_override": "C",
+ "override_reason": "非渠道：开放网络软件工程服务商（PLVision，SONiC/switchdev 适配），不转售成品交换机；c_sub=非渠道（工程服务）",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "波兰",
+  "other": "官网 plvision.eu，语言 en-US，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "开放网络 NOS 软件工程服务"
+ ],
+ "channels": {
+  "role": "开放网络软件工程服务商（非渠道）",
+  "region": "波兰",
+  "contact": "contact@plvision.eu、olena.kozlova@plvision.eu"
+ },
+ "signals": [
+  "首页：Leading Open & Disaggregated Networking Transformation ; Custom product development based on open-source technologies ; Open NOS enablement and customization for hardware",
+  "页面 /blog/products/solution-brief-sonic-lite-management-switch、/switchdev-development-implementation；表内：Marvell 芯片 几个牌子的"
+ ],
+ "risks": [
+  "非渠道：开放网络软件工程服务（SONiC/switchdev 适配），不采购成品交换机转售"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 25,
+  "why": "软件工程服务商（NOS 适配），不转售成品交换机，最多采购样机 → 改 C（可作 Marvell 平台样机线索保留于 JSON）"
+ },
+ "email_hook": "（不发送：工程服务商非渠道）"
+}

@@ -1,0 +1,16 @@
+# SB-503 elprotech.com · youtube · https://www.youtube.com/@elprotechnologies1650 · fetched 2026-10-25T07:41:18Z · HTTP 200
+2025-01-23T02:51:15+00:00	Intelligent Antenna System Overview	https://www.youtube.com/watch?v=V-7N497ZAYM
+2024-06-17T09:32:05+00:00	ELPRO Technologies - Condor HART over Wireless Communication	https://www.youtube.com/watch?v=Owsgz3NWsxU
+2024-06-17T06:33:42+00:00	ELPRO Technologies - Quantum the next Generation Wireless IIoT Gateway Solution	https://www.youtube.com/watch?v=hZN5_Wc5lGc
+2024-02-06T22:28:02+00:00	ELPO Technologies - Condor Series Update	https://www.youtube.com/watch?v=usXZQo6Nzso
+2023-12-04T01:58:12+00:00	ERT A2 ALERT2™ Reliable Flood warning and Disaster management communications	https://www.youtube.com/watch?v=y-u94XP3m_k
+2023-08-15T21:39:11+00:00	MQTT Communication Deep Dive #1: Connecting to Local & Remote Brokers	https://www.youtube.com/watch?v=kw21sBf-e_8
+2023-08-15T21:37:53+00:00	MQTT 101 How it works.	https://www.youtube.com/watch?v=MQJHZDjV6G8
+2023-05-15T21:14:12+00:00	Introducing the ELPRO 925U-2	https://www.youtube.com/watch?v=zKQRHEKKhdo
+2022-03-11T01:12:24+00:00	ELPRO Technical Training Video 9 - 915U-2 Series programming and diagnostics	https://www.youtube.com/watch?v=7Uh6IVdA0BA
+2022-03-10T01:28:05+00:00	ELPRO Technical Training Video 8 - 905 Series programming and diagnostics	https://www.youtube.com/watch?v=jDiYn7yToB0
+2022-02-11T00:50:29+00:00	ELPRO Technical Training Video 7 - How to perform a site survey for wireless link	https://www.youtube.com/watch?v=NmRgffQh8Ws
+2022-02-08T00:52:45+00:00	ELPRO Technical Training Video 6 - Advanced Configuration of EL-245/945 Ethernet Radio's	https://www.youtube.com/watch?v=N5O-va8VrCc
+2022-01-14T05:44:26+00:00	ELPRO How To : Setup of ELPRO EL-915U-2 system with 3 out stations	https://www.youtube.com/watch?v=7z06eEsYJEc
+2022-01-14T04:37:32+00:00	ELPRO Technical Training Video 5 - Basic Configuration of EL-245/945 Ethernet Radio's	https://www.youtube.com/watch?v=Ay_pFxp2RHw
+2021-12-17T01:56:32+00:00	ELPRO Technical Training Video 4 - How to setup Modbus on the ELPRO 215/415/915 products	https://www.youtube.com/watch?v=Y7qnObPmmgc

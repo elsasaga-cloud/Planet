@@ -1,118 +1,106 @@
 {
- "code": "SB-565",
- "name_official": "UBF EDV Handel und Beratung Jürgen Fischer GmbH（德国）",
- "researched_at": "2026-10-21",
- "website_status": "在线（ubf.de，快照 2026-10-21，德语）",
- "summary": "德国网络配件 / 工业以太网 / PoE / SFP / 光纤转换 / 串口 / 现场总线 / 数字模拟 IO 经销商（+49 2305 9634 0；poe 281 / sfp 170 / switch 92 / industrial 90），vertrieb@；表内「工业 FS MC SFP POE，好几种外壳；可以着重跟一下」；群发 8 次无回复。",
- "type": "",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "网络配件：以太网、工业以太网、PoE、交换机、SFP、网卡、光缆 + 串口 / 现场总线转换、数字 / 模拟 IO；+49 (0)2305 9634 0",
-   "quote": "Netzwerk-Zubehör: Ethernet, Industrial Ethernet, PoE, Switch, SFP, NIC, LWL Kabel + Konverter seriell RS232/RS485/RS422 Feldbus, digital 24V, analog V/mA",
-   "url": "https://ubf.de/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "工业 FS MC SFP POE 好几种外壳；可以着重跟一下",
-   "quote": "兴趣：工业FS MC SFP POE 好几种外壳",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "（销售）",
-   "title": "Vertrieb",
-   "email": "vertrieb@ubf.de",
-   "phone": "+49 2305 9634 0",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照核对 + 表内）"
- },
- "company_facts": {
-  "legal_name": "UBF EDV Handel und Beratung Jürgen Fischer GmbH",
-  "founded": "",
-  "hq": "Castrop-Rauxel, Germany（+49 2305）",
-  "size": "中小型经销",
-  "other": ""
- },
- "business_lines": [
-  "网络配件 / 工业以太网 / IO 经销"
- ],
- "channels": {
-  "role": "经销商",
-  "region": "德国"
- },
- "signals": [
-  "工业 / PoE / SFP 品类齐 → 多外壳需求（表内）"
- ],
- "risks": [
-  "无具名；8 次群发无回复"
- ],
- "saga_fit": {
-  "p1": "STI-288GP",
-  "tier": 20,
-  "why": "工业 2 光 8 PoE → STI-288GP（$57.4 @20%）；mini STI-050GE；MC STI-110GE。"
- },
- "email_hook": "Guten Tag — for the Industrial-Ethernet range: DIN 2-SFP + 8-PoE at $57, 5-port mini at $17 and gigabit MC at $22 EXW (CE/RoHS, −40~75 ℃); shall I send the catalogue with the housing variants you asked about?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A 邮箱 17 封 2025→2026，1 次记录打开，0 回；收件 vertrieb@ubf.de；主题多为「48 Port PoE Managed Switch、10G Enterprise SFP Switch」；Elsa 箱：`to:.de` 穷举 29 条（2026-10-25，锚批 Bcc 头已读）未见 ubf.de → Elsa 箱从未发过本户，往来只在 S/A 箱（去 17 / 来 0）（第 74 批(f)））",
-   "type": "—",
-   "sieve": "1~2（1 次打开）",
-   "stop": "17 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "DE 主攻（四主）",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 17，Opened 标签 1（Simon 群发追踪）；用户表：「兴趣：工业FS MC SFP POE 好几种外壳」；研究档 risks：无具名；8 次群发无回复"
-  },
-  "situation": "德国网络配件 / 工业以太网 / PoE / SFP / 光纤转换 / 串口 / 现场总线 / 数字模拟 IO 经销商（+49 2305 9634 0；poe 281 / sfp 170 / switch 92 / industrial 90），vertrieb@；表内「工业 FS MC SFP POE，好几种外壳；可以着重跟一下」；群发 8 次无回复。",
-  "need": "工业 2 光 8 PoE → STI-288GP（$57.4 @20%）；mini STI-050GE；MC STI-110GE。",
-  "breakpoint": "无具名；8 次群发无回复",
-  "saga_now": {
-   "p1": "STI-288GP",
-   "tier": 20,
-   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-18 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-02-25 $300（48 Port PoE Managed Switch）、2025-09-25 $280（10G Enterprise SFP Switch）",
-   "why": "工业 2 光 8 PoE → STI-288GP（$57.4 @20%）；mini STI-050GE；MC STI-110GE。已打开的主题（1/17 封有打开记录）：「16 Port Ethernet Switch」(2025-07-14) → 读者兴趣主题类别不明（看原主题）",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开",
-   "one_question": "Guten Tag — for the Industrial-Ethernet range: DIN 2-SFP + 8-PoE at $57, 5-port mini at $17 and gigabit MC at $22 EXW (CE/RoHS, −40~75 ℃); shall I send the catalogue with the housing variants you asked about?"
-  },
-  "facts": [
-   {
-    "date": "2026-09-23",
-    "dir": "去",
-    "who": "A 群发",
-    "quote": "48 Port PoE Managed Switch、10G Enterprise SFP Switch",
-    "why": "17 封 / 1 次打开 / 0 回｜首封 2025-02-25 → 末封 2026-09-23（17 去 / 0 来）",
-    "k": "gmail_digest"
-   },
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "兴趣：工业FS MC SFP POE 好几种外壳",
-    "why": "表内备注",
-    "k": "用户表"
-   }
+  "code": "SB-565",
+  "name_official": "Marmaris Bilişim（Marmaris/Muğla, TR；无域名、无邮箱，仅 WhatsApp）",
+  "researched_at": "2026-10-21",
+  "website_status": "无域名",
+  "summary": "ISAF 记录：Marmaris Bilişim（+90 533 358 54 80，WhatsApp 已加）——不会英文，说 fiber out，拿别的公司的产品册问了 PoE splitter、PON；无邮箱/域名；无跟进。马尔马里斯本地 IT 店；所询 PoE 分离器与 PON 非 Saga 主线（价格表无 splitter/PON）→ 仅表内信息，B 托底。",
+  "type": "",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "用户表",
+      "claim": "ISAF：不会英文；fiber out；问 PoE splitter、PON",
+      "quote": "不会英文， 说fiber out, 拿别的公司的产品册问了PoE splitter, pon / 0 533 358 5480 已加",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "kp": [
+    {
+      "name": "（Marmaris Bilişim 店主，姓名待核）",
+      "role": "—",
+      "email": "—",
+      "phone": "+90 533 358 54 80（用户表，WhatsApp 已加）",
+      "source": "（本地 Clients/ 表格，无公开 URL）"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "无域名 · 仅表内信息"
+  },
+  "company_facts": {
+    "legal_name": "Marmaris Bilişim（待核）",
+    "hq": "Marmaris / Muğla, Türkiye（推测）",
+    "size": "微型",
+    "other": "不会英文（用土耳其语）"
+  },
+  "business_lines": [
+    "本地 IT/网络服务（推测）"
+  ],
+  "channels": {
+    "电话": "+90 533 358 54 80（用户表，WhatsApp 已加）"
+  },
+  "signals": [
+    "光纤到户/PON 场景 → 可推 MC 与 2 光 8 电小机；splitter/PON 不供"
+  ],
+  "risks": [
+    "需求不在 Saga 主线；语言；无后续跟进"
+  ],
+  "saga_fit": {
+    "p1": "STC-228GP",
+    "tier": 25,
+    "why": "默认 25% 档：STC-228GP（2 SFP + 8 GE PoE，列表 $30.8）配光纤接入；MC STI-110GE（$23.4）；PoE splitter / PON 不供"
+  },
+  "email_hook": "Merhaba, ISAF'ta sorduğunuz PoE splitter ve PON ürünleri gamımızda yok; fiber hatlarınız için 2 SFP + 8 port PoE switch 34,6 USD ve endüstriyel medya çevirici 23,4 USD EXW sunabiliriz — ilgilenir misiniz?",
+  "mail_review": {
+    "binding": {
+      "level": "轻度触达（邮件无证，WhatsApp/WeChat 已加）：用户表「不会英文， 说fiber out, 拿别的公司的产品册问了PoE splitter, pon / 0 533 358 5480 已加」；S/A 邮箱 0 封；Elsa 箱无可查地址（仓内无此户任何邮箱/域名——用户表/WhatsApp/展会名片户，`from:e.sagatelecom to:` 无从下手；Elsa 群发是否碰过他无法判定，不写「未触达」）（第 74 批(o)）",
+      "type": "—",
+      "sieve": "3（已加 WhatsApp，表内有往来）",
+      "stop": "仓库只有用户表一行；往来在 Simon 手机",
+      "revive": "首封邮件（A 邮箱，按 email_hook）+ WhatsApp 一句话",
+      "lane": "土耳其 非主攻",
+      "cadence": "一封",
+      "evidence": "gmail_digest：out 0；用户表：「不会英文， 说fiber out, 拿别的公司的产品册问了PoE splitter, pon / 0 533 358 5480 已加」；研究档 risks：需求不在 Saga 主线；语言；无后续跟进"
+    },
+    "situation": "ISAF 记录：Marmaris Bilişim（+90 533 358 54 80，WhatsApp 已加）——不会英文，说 fiber out，拿别的公司的产品册问了 PoE splitter、PON；无邮箱/域名；无跟进。马尔马里斯本地 IT 店；所询 PoE 分离器与 PON 非 Saga 主线（价格表无 splitter/PON）→ 仅表内信息，B 托底。",
+    "need": "默认 25% 档：STC-228GP（2 SFP + 8 GE PoE，列表 $30.8）配光纤接入；MC STI-110GE（$23.4）；PoE splitter / PON 不供",
+    "breakpoint": "需求不在 Saga 主线；语言；无后续跟进",
+    "saga_now": {
+      "p1": "STC-228GP",
+      "tier": 25,
+      "price": "Realtek 线按 HRUI 2026-09-30 进价 +25% 现算（Q-47 默认，不用 Drive 旧表价）：STC-228GP $30.8→$34.6；按主表（研究档 saga_fit）",
+      "why": "默认 25% 档：STC-228GP（2 SFP + 8 GE PoE，列表 $30.8）配光纤接入；MC STI-110GE（$23.4）；PoE splitter / PON 不供",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "2026-11（Simon）",
+      "channel": "A 邮箱首封 + WhatsApp（Simon）",
+      "action": "首封 + 一句话",
+      "one_question": "Merhaba, ISAF'ta sorduğunuz PoE splitter ve PON ürünleri gamımızda yok; fiber hatlarınız için 2 SFP + 8 port PoE switch 34,6 USD ve endüstriyel medya çevirici 23,4 USD EXW sunabiliriz — ilgilenir misiniz?"
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "不会英文， 说fiber out, 拿别的公司的产品册问了PoE splitter, pon / 0 533 358 5480 已加",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [
+      "WhatsApp 往来未入库"
+    ],
+    "draft_en": {
+      "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+      "body": "Merhaba, ISAF'ta sorduğunuz PoE splitter ve PON ürünleri gamımızda yok; fiber hatlarınız için 2 SFP + 8 port PoE switch 34,6 USD ve endüstriyel medya çevirici 23,4 USD EXW sunabiliriz — ilgilenir misiniz?"
+    },
+    "as_of": "2026-10-24"
+  }
 }

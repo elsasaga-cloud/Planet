@@ -1,501 +1,305 @@
-# SB-449 Koza · home · https://kozaguvenlik.com.tr/ · fetched 2026-10-25T07:41:18Z · HTTP 200
-Koza Güvenlik, IP Kamera, AHD Kamera, Teletek Alarm, Akıllı Ev Sistemleri
-Daha Fazla
-Bayi Girişi / Bayi Başvurusu
-Hesabım
-Sipariş Geçmişi
-Bakiye İşlemlerim
-Dosyalarım
-$ US Dollar
-€ Euro
-$ US Dollar
-Tüm Kategoriler
-AHD Kameralar
-Box Kameralar
-Dome Kameralar
-IR Bullet Kameralar
-PTZ Kameralar
-AJAX ürünleri
-HD-TVI Kameralar
-Dome Kameralar
-IR Bullet Kameralar
-IP Kameralar
-Box Kameralar
-Dome Kameralar
-IR Bullet Kameralar
-PTZ Kameralar
-Kayıt Cihazları
-NVR Kayıt Cihazları
-4 Kanal IP NVR
-8 Kanal IP NVR
-16 Kanal IP NVR
-32 Kanal IP NVR
-64 Kanal IP NVR
-128 Kanal IP NVR
-XVR Kayıt Cihazları
-AHD Kayıt Cihazları
-4 Kanal AHD DVR
-8 Kanal AHD DVR
-16 Kanal AHD DVR
-32 Kanal AHD DVR
-HD-TVI Kayıt Cihazları
-4 Kanal HD-TVI DVR
-8 Kanal HD-TVI DVR
-16 Kanal HD-TVI DVR
-32 Kanal HD-TVI DVR
-HD-SDI Kayıt Cihazları
-Analog Kayıt Cihazları
-Araç Kamera Sistemleri
-Mobil NVR
-Mobil DVR
-Mobil Kamera
-Mobil IP Kamera
-Mobil Monitör
-Hırsız Alarm Sistemleri
-Kablolu Alarm Sistemleri
-Kablosuz Alarm Sistemleri
-Beam Dedektör
-Aksiyon Kameraları
-Yangın Alarm Sistemleri
-Adresli Sistem
-Konvansiyonel Sistem
-Söndürme Sistemleri
-Beam Dedektör
-Yangın Acil Çıkış Levhaları
-PDKS Sistemleri
-Parmak İzi PDKS Sistemleri
-Yüz Tanıma PDKS Sistemleri
-Kartlı PDKS Sistemleri
-Kapı Açma Sistemleri
-Parmak İzi ile Kapı Açma Sistemleri
-Yüz Tanıma İle Kapı Açma Sistemleri
-Kartlı & Şifre İle Kapı Açma Sistemleri
-Kilitler
-Butonlar
-Access Giriş Kontrol
-Turnike Sistemleri
-Bariyer Sistemi
-Üst Arama Dedektörleri
-Bekçi Tur Sistemi
-Yazılımlar
-Akıllı Ev Sistemleri
-Plaka Tanıma Sistemi
-Aksesuarlar
-Aksesuarlar & Aparatlar
-Keyboard Ünitesi
-Muhafaza ve Ayaklar
-Infrared Aydınlatma Spotları
-Lens
-Monitör
-Adaptör
-Pan Tilt Motor
-Kablo
-Ürün Güvenlik Sistemleri
-PoE Switchler
-Bize Ulaşın: 0212 220 06 04
-Email: info@kozaguvenlik.com.tr
-Kategoriler
-Kameralar
-AHD Kameralar Box Kameralar
-IR Bullet Kameralar
-Dome Kameralar
-PTZ Kameralar
-IP Kameralar Box Kameralar
-IR Bullet Kameralar
-Dome Kameralar
-PTZ Kameralar
-HD-TVI Kameralar IR Bullet Kameralar
-Dome Kameralar
-Kayıt Cihazları
-XVR Kayıt Cihazları
-AHD Kayıt Cihazları
-NVR Kayıt Cihazları
-HD-TVI Kayıt Cihazları
-HD-SDI Kayıt Cihazları
-Analog Kayıt Cihazları
-PoE Switchler
-Mobil Ürünler
-Mobil DVR
-Mobil NVR
-Mobil Kamera
-Mobil IP Kamera
-Mobil Monitör
-Hırsız Alarm Sistemleri
-Kablolu Alarm Sistemleri
-Kablosuz Alarm Sistemleri
-Beam Dedektör
-Yangın Alarm Sistemleri
-Adresli Sistem
-Konvansiyonel Sistem
-Söndürme Sistemleri
-Beam Dedektör
-Yangın Acil Çıkış Levhaları
-PDKS Sistemleri
-Parmak İzi PDKS Sistemleri
-Kartlı PDKS Sistemleri
-Yüz Tanıma PDKS Sistemleri
-Kapı Açma Sistemleri
-Parmak İzi ile Kapı Açma Sistemleri
-Yüz Tanıma İle Kapı Açma Sistemleri
-Kartlı & Şifre İle Kapı Açma Sistemleri
-Kilitler
-Butonlar
-Access Giriş Kontrol
-Turnike Sistemleri
-Bariyer Sistemi
-Üst Arama Dedektörleri
-Bekçi Tur Sistemi
-Yazılımlar
-Aksesuarlar
-Aksesuarlar & Aparatlar
-Keyboard Ünitesi
-Muhafaza ve Ayaklar
-Infrared Aydınlatma Spotları
-Lens
-Monitör
-Adaptör
-Pan Tilt Motor
-Kablo
-Plaka Tanıma Sistemi
-Akıllı Ev Sistemleri
-Ürün Güvenlik Sistemleri
-Aksiyon Kameraları
-Anasayfa
-Kurumsal
-Hakkımızda
-Belgelerimiz
-Hesap Numaraları
-Satış Koşulları
-Garanti & İade Koşulları
-Ürünler
-AHD Kameralar
-IP Kameralar
-HD-TVI Kameralar
-Araç Kamera Sistemleri
-Kayıt Cihazları
-Hırsız Alarm Sistemleri
-Yangın Alarm Sistemleri
-Akıllı Ev Sistemleri
-PoE Switchler
-PDKS Sistemleri
-Kapı Açma Sistemleri
-Access Giriş Kontrol
-Plaka Tanıma Sistemi
-Aksesuarlar
-Aksiyon Kameraları
-Ürün Güvenlik Sistemleri
-Destek
-Yazılım
-Kullanım Kılavuzu
-Teknik Şartname
-CCTV Terimleri
-Lens Görüntü Örnekleri
-Müşteri Hizmetleri
-Fiyat Listeleri
-Mail Order Formu
-Bayi Başvuru Formu
-Cari Bilgi Formu
-Ürün İade Formu
-Basın
-360 Derece ISAF Fuarı
-2010 ISAF Fuarı
-2011 ISAF Fuarı
-2012 ISAF Fuarı
-2013 ISAF Fuarı
-2014 ISAF Fuarı
-2015 ISAF Fuarı
-Blog
-İletişim
-Bize Ulaşın
-Kadromuz
-Sepetim
-0 item(s) - $0,00
-Alışveriş sepetiniz boş!
-Hızlı Teslimat
-Stoktan Aynı Gün Kargo
-Yüksek Kalite
-Uygun Fiyat Avantajı
-Kalite ve Süreklilik
-Sektörde 15 Yıllık Tecrübe
-Size Özel
-Teknoloji Destekli Güvenlik Çözümleri
-Bize Ulaşın
-0212 220 06 04
-IP Kameralar
-Box Kameralar
-Dome Kameralar
-IR Bullet Kameralar
-PTZ Kameralar
-Tümünü Göster
-▼
-Yeni Eklenenler
-Recommend
-Kodicom KD-8543..
-Kodicom KD-9420..
-Kodicom KD-9421..
-Kodicom KD-9422..
-Kodicom KD-9423..
-Kodicom KD-9431..
-Kodicom KD-9432..
-Kodicom KD-9441..
-Kodicom KD-9442..
-Kodicom KD-9443..
-Kayıt Cihazları
-NVR Kayıt Cihazları
-XVR Kayıt Cihazları
-AHD Kayıt Cihazları
-HD-TVI Kayıt Cihazları
-HD-SDI Kayıt Cihazları
-Analog Kayıt Cihazları
-Tümünü Göster
-▼
-Yeni Eklenenler
-Model
-Kodicom KD-3016..
-Kodicom KD-3008..
-Kodicom KD-3004..
-Kodicom KD-3232..
-Xrplus XR-3532H..
-Kodicom KD-N128..
-Kodicom KD-N64E..
-Kodicom KD-3564..
-Kodicom KD-3532..
-Kodicom KD-3332..
-Kodicom KD-3516..
-Kodicom KD-3316..
-Kodicom KD-3216..
-Kodicom KD-3208..
-Kodicom KD-3204..
-Kodicom KD-3216..
-Kodicom KD-3208..
-Kodicom KD-3204..
-Hırsız Alarm Sistemleri
-Kablolu Alarm Sistemleri
-Kablosuz Alarm Sistemleri
-Beam Dedektör
-Tümünü Göster
-▼
-Recommend
-Teletek Eclipse 8 Alarm P..
-Teletek Eclipse 16 Alarm ..
-Teletek Eclipse 32 Alarm ..
-Teletek Eclipse 99 Alarm ..
-Teletek Bravo Kablosuz Al..
-DSC PC1404 Alarm Kontrol ..
-DSC PC1616 LCD Alarm Kont..
-DSC PC1616 Led Alarm Kont..
-DSC PC1832 Alarm Kontrol ..
-DSC PC1864 Alarm Kontrol ..
-Teletek AUMS-12S Manyetik..
-Teletek Eclipse LCD32/PR ..
-Teletek Eclipse LCD32S PR..
-Teletek Eclipse LED16A Tu..
-Teletek Eclipse LED32/PR ..
-Teletek Eclipse LED8 Tuş ..
-Teletek Eclipse PGM 8 PGM..
-Teletek Eclipse PGM 8 PS ..
-Teletek Eclipse PR IT Tem..
-Teletek Eclipse PR Temass..
-Yangın İhbar
-Adresli Sistem
-Konvansiyonel Sistem
-Yangın Acil Çıkış Levhaları..
-Tümünü Göster
-Yangın Alarm Sisteml..
-Teletek IRIS PRO 1Looplu Adresli Yangın İhbar Pane..
-Teletek IRIS PRO 2Looplu Adresli Yangın İhbar Pane..
-Teletek IRIS PRO 3Looplu Adresli Yangın İhbar Pane..
-Teletek IRIS PRO 4Looplu Adresli Yangın İhbar Pane..
-Teletek IRIS TTE 1Looplu Adresli Yangın İhbar Pane..
-Teletek IVY Yangın Söndürme Kontrol Paneli
-Teletek MAG 2P Konvansiyonel Yangın Alarm Paneli
-Teletek IRIS TTE 2Looplu Adresli Yangın İhbar Pane..
-Teletek MAG 4P Konvansiyonel Yangın Alarm Paneli
-Teletek IRIS TTE 3Looplu Adresli Yangın İhbar Pane..
-Teletek MAG 8 Konvansiyonel Yangın Alarm Paneli
-Teletek IRIS TTE 4Looplu Adresli Yangın İhbar Pane..
-Teletek MAG 8Plus 8 Zone Konvansiyonel Yangın Alar..
-Teletek IRIS/SIMPO Tekrarlayıcı Paneli (Repeater)..
-Teletek MAG 8Plus 12 Zone Konvansiyonel Yangın Ala..
-Teletek SIMPO 1 Loop Adresli Yangın İhbar Paneli
-Teletek MAG 8Plus 16 Zone Konvansiyonel Yangın Ala..
-Teletek SIMPO 2 Loop Adresli Yangın İhbar Paneli
-BENTEL J408-4 4 Zone Konvansiyonel Yangın Alarm Pa..
-BENTEL J408-8 8 Zone Konvansiyonel Yangın Alarm Pa..
-PDKS Sistemleri
-Parmak İzi PDKS Sistemleri..
-Yüz Tanıma PDKS Sistemleri..
-Tümünü Göster
-Key Touch FD-200 Yüz Tanıma Sistemi
-Key Touch FD-780 Yüz Tanıma ve Kartlı Sistem
-Key Touch FD-800 Yüz Tanıma ve Park izi Okuma
-Key Touch FP-20 Parmak izi ve Kartlı Geçiş Sistemi..
-Key Touch FP-18 Parmak izi ve Kartlı Geçiş Sistemi..
-Key Touch FP-580 Parmak izi ve Kartlı Geçiş Sistem..
-Key Touch FP-07 Parmak izi ve Kartlı Geçiş Sistemi..
-Key Touch FPS-300 Parmak izi ve Kartlı Geçiş Siste..
-Key Touch CR-403 Kartlı Geçiş Sistemi
-Key Touch CR-700 Kartlı Geçiş Sistemi
-PDKS Yazılımı
-Tuvalet Takip Yazılımı
-Üye Takip Yazılımı
-Yemekhane Takip Yazılımı
-Kategoriler
-Sepet
-Hesabım
-Ara
-Son Görüntülenen
-Başa Git
-Tüm Kategoriler
-×
-AHD Kameralar
-Box Kameralar
-Dome Kameralar
-IR Bullet Kameralar
-PTZ Kameralar
-AJAX ürünleri
-HD-TVI Kameralar
-Dome Kameralar
-IR Bullet Kameralar
-IP Kameralar
-Box Kameralar
-Dome Kameralar
-IR Bullet Kameralar
-PTZ Kameralar
-Kayıt Cihazları
-NVR Kayıt Cihazları
-4 Kanal IP NVR
-8 Kanal IP NVR
-16 Kanal IP NVR
-32 Kanal IP NVR
-64 Kanal IP NVR
-128 Kanal IP NVR
-XVR Kayıt Cihazları
-AHD Kayıt Cihazları
-4 Kanal AHD DVR
-8 Kanal AHD DVR
-16 Kanal AHD DVR
-32 Kanal AHD DVR
-HD-TVI Kayıt Cihazları
-4 Kanal HD-TVI DVR
-8 Kanal HD-TVI DVR
-16 Kanal HD-TVI DVR
-32 Kanal HD-TVI DVR
-HD-SDI Kayıt Cihazları
-Analog Kayıt Cihazları
-Araç Kamera Sistemleri
-Mobil NVR
-Mobil DVR
-Mobil Kamera
-Mobil IP Kamera
-Mobil Monitör
-Hırsız Alarm Sistemleri
-Kablolu Alarm Sistemleri
-Kablosuz Alarm Sistemleri
-Beam Dedektör
-Aksiyon Kameraları
-Yangın Alarm Sistemleri
-Adresli Sistem
-Konvansiyonel Sistem
-Söndürme Sistemleri
-Beam Dedektör
-Yangın Acil Çıkış Levhaları
-PDKS Sistemleri
-Parmak İzi PDKS Sistemleri
-Yüz Tanıma PDKS Sistemleri
-Kartlı PDKS Sistemleri
-Kapı Açma Sistemleri
-Parmak İzi ile Kapı Açma Sistemleri
-Yüz Tanıma İle Kapı Açma Sistemleri
-Kartlı & Şifre İle Kapı Açma Sistemleri
-Kilitler
-Butonlar
-Access Giriş Kontrol
-Turnike Sistemleri
-Bariyer Sistemi
-Üst Arama Dedektörleri
-Bekçi Tur Sistemi
-Yazılımlar
-Akıllı Ev Sistemleri
-Plaka Tanıma Sistemi
-Aksesuarlar
-Aksesuarlar & Aparatlar
-Keyboard Ünitesi
-Muhafaza ve Ayaklar
-Infrared Aydınlatma Spotları
-Lens
-Monitör
-Adaptör
-Pan Tilt Motor
-Kablo
-Ürün Güvenlik Sistemleri
-PoE Switchler
-Alışveriş Sepeti
-×
-Alışveriş sepetiniz boş!
-Hesabım
-×
-Para Birimi
-€ Euro
-$ US Dollar
-Dil
-Türkçe
-Geçmiş
-Alışveriş Sepeti
-Kayıt
-Hesabım
+# SB-449 bvsecurity.com · home · https://bvsecurity.com/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+Skip to content
+Log in or Create account for Wholesale Price
+Menu
+Search
+Log in
+Create account
+0
+Cart
+Item added to your cart
+View my
+Check out
+Continue shopping
+WD Hard Drives
+Surveillance HDDs
+Data Center HDDs
+NAS HDDs
+PoE Switch
+PoE Switches
+PoE Injectors and Extenders
+Camera
+HD Cameras
+IP Cameras
+GeoVision Cameras
+Specialty Cameras
+Video Recorder
+Geovision NVRs
+NVRs
+DVRs
+Access Control
+Accessory
+Support
+Contact
 Download
-Giriş
-Ara
-×
-Ara
-Son Görüntülenen Ürünler
-×
-E-BÜLTEN ABONELİĞİ
-Bizden Haberdar Olmak İçin Kaydolun
-Abone Ol
-Bizi Takip Edin
-Facebook
-Twitter
-Youtube
-Linkedin
-Pinterest
-Bilgi Sayfaları
-Hakkımızda
-Hesap Numaraları
-Belgelerimiz
-Satış Koşulları
-Garanti & İade Koşulları
-Müşteri Hizmetleri
-Fiyat Listeleri
-Mail Order Formu
-Bayi Başvuru Formu
-Cari Bilgi Formu
-Ürün İade Formu
-Destek
-Yazılım
-Kullanım Kılavuzu
-Teknik Şartname
-CCTV Terimleri
-Lens Görüntü Örnekleri
-Bize Ulaşın
-Adres : Halil Rıfat Paşa Mah. Yüzer Havuz Sokak Perpa Ticaret Merkezi A Blok No:808-810-940 - Şişli / İSTANBUL
-Eposta : info@kozaguvenlik.com.tr
-Telefon : (0212 220 06 04) Faks : (0212 220 11 03)
-AHD Kamera
-HD-TVI Kamera
-IP Kamera
-AHD Kayıt Cihazları
-NVR Kayıt Cihazları
-Hırsız Alarm Sistemleri
-Yangın Alarm Sistemleri
-PDKS Sistemleri
-Kapı Açma Sistemleri
-Turnike Sistemleri
-Bariyer Sistemleri
-Plaka Tanıma Sistemi
-Akıllı Ev Sistemi
-Ürün Güvenlik Sistemleri
-Koza Güvenlik Elektronik Sistemleri © 2005 - 2026. Tüm Hakları Saklıdır.
-×
-Alışveriş sepetine başarıyla eklendi. Sırada ne var?
+Surveillance Card Capacity and Life Estimator Tool
+Guides
+POE Purchasing Guides
+Hard Drive Purchasing Guides
+Cable Purchasing Guides
+NVR Purchasing Guides
+Security Camera Purchasing Guides
+About Us
+Installation
+Wholesale Account Registration
+Log in
+Create account
+Close
+WD Hard Drives
+Surveillance HDDs
+Data Center HDDs
+NAS HDDs
+PoE Switch
+PoE Switches
+PoE Injectors and Extenders
+Camera
+HD Cameras
+IP Cameras
+GeoVision Cameras
+Specialty Cameras
+Video Recorder
+Geovision NVRs
+NVRs
+DVRs
+Access Control
+Accessory
+Support
+Contact
+Download
+Surveillance Card Capacity and Life Estimator Tool
+Guides
+POE Purchasing Guides
+Hard Drive Purchasing Guides
+Cable Purchasing Guides
+NVR Purchasing Guides
+Security Camera Purchasing Guides
+About Us
+Installation
+Wholesale Account Registration
+WD Hard Drives
+Surveillance HDDs
+Data Center HDDs
+NAS HDDs
+PoE Switch
+PoE Switches
+PoE Injectors and Extenders
+Camera
+HD Cameras
+IP Cameras
+GeoVision Cameras
+Specialty Cameras
+Video Recorder
+Geovision NVRs
+NVRs
+DVRs
+Access Control
+Accessory
+Support
+Contact
+Download
+Surveillance Card Capacity and Life Estimator Tool
+Guides
+POE Purchasing Guides
+Hard Drive Purchasing Guides
+Cable Purchasing Guides
+NVR Purchasing Guides
+Security Camera Purchasing Guides
+About Us
+Installation
+Wholesale Account Registration
+Log in
+Create account
+Close
+Surveillance drives on sale now
+1TB to 26TB · Updated weekly by model · Manufacturer warranty
+Compare prices now →
+WD HARD DRIVES SERIES
+Western Digital 6TB Purple Surveillance Hard Drive | WD64PURZ
+$295.99
+$159.99
+Unit price
+/
+per
+4.8
+(
+810
+Reviews
+)
+Western Digital 8TB Purple Surveillance Hard Drive | WD85PURZ
+$409.99
+Unit price
+/
+per
+4.8
+(
+787
+Reviews
+)
+Western Digital 8TB Purple Pro Surveillance Hard Drive | WD8002PURP
+$422.99
+$219.99
+Unit price
+/
+per
+4.8
+(
+776
+Reviews
+)
+Sold out
+Western Digital 12TB Purple Pro Surveillance Hard Drive | WD122PURP
+$649.99
+Unit price
+/
+per
+4.8
+(
+507
+Reviews
+)
+Western Digital 24TB Purple Pro Surveillance Hard Drive | WD240PURP
+$1,299.99
+Unit price
+/
+per
+5.0
+(
+31
+Reviews
+)
+Western Digital 26TB Purple Pro Surveillance Hard Drive | WD260PURP
+$1,399.99
+Unit price
+/
+per
+See more
+PoE SWITCHES & INJECTORS SERIES
+BV-Tech 5-Port Gigabit PoE Switch (4 PoE+ Ports, 1 Gigabit Uplink), Unmanaged, 55W | SW501G-PLUS
+$44.99
+Unit price
+/
+per
+BV-Tech Full Gigabit 6-Port PoE+ Switch (4 PoE+, 2 Uplink, 1000mbps 60W) | SW502G
+$39.99
+Unit price
+/
+per
+4.8
+(
+697
+Reviews
+)
+Sale
+BV-Tech 8 Port PoE+ Gigabit Ethernet Switch with 2 Uplinks - 130W | SW802G
+$64.99
+$99.99
+Unit price
+/
+per
+4.8
+(
+264
+Reviews
+)
+Sold out
+BV-Tech 8-Port Industrial DIN-Rail PoE+ Switch with 1 Gigabit RJ45 & 1 SFP Slot (120W, Plug and Play) | SW811G-DIN
+$139.99
+Unit price
+/
+per
+BV-Tech 10-Port Gigabit PoE Switch (8 PoE+ Ports, 2 Gigabit Uplink), Unmanaged, 96W | SW811G-PLUS
+$119.99
+Unit price
+/
+per
+Sale
+BV-Tech 16-Port Gigabit PoE Switch with 2 Gigabit Uplink, 120W, 1U Rackmount, Unmanaged | SW1602G
+$94.99
+$159.99
+Unit price
+/
+per
+4.6
+(
+118
+Reviews
+)
+See more
+CAMERA SERIES
+Geovision GV-EBD4704 4MP H.265 Super Low Lux WDR Pro IR Eyeball Dome IP Camera with 2.8mm Lens, Built-in Microphone
+$118.99
+Unit price
+/
+per
+5.0
+(
+3
+Reviews
+)
+GeoVison GV-EBD8800 8MP WDR PoE IR Eyeball Network Outdoor Dome Camera with 2.8mm Lens RJ45 Connection
+$179.99
+Unit price
+/
+per
+5.0
+(
+3
+Reviews
+)
+GeoVision GV-GDRF4800-2F | 4MP Full Color AI Outdoor Vandal-Proof Mini Dome IP Camera
+$133.99
+Unit price
+/
+per
+GeoVision GV-GVD4910 4MP Cloud AI Motorized Zoom Outdoor Vandal-Proof Dome IP Camera
+$279.99
+Unit price
+/
+per
+GeoVision GV-FER5702 5MP H.265 Super Low Lux WDR Pro IR Fisheye Rugged IP Camera
+$359.99
+Unit price
+/
+per
+5.0
+(
+2
+Reviews
+)
+Geovision GV-TBL8804 8MP H.265 Super Low Lux WDR Pro Full Color Warm LED IR Bullet IP Camera, AI deep Learning
+$119.99
+Unit price
+/
+per
+5.0
+(
+2
+Reviews
+)
+See more
+Shop by Category
+Join our community
+Get early access to new arrivals and subscriber-only deals.
+Go
+Customer care
+Learn more about us
+About Us
+Careers
+Privacy Policy
+Refund and Replacement Policy
+Shipping Policy
+Terms of Service
+Contact Us
++1 (877)-985-5888
+sales@bvsecurity.com
+1951 Landmeier Rd, Elk Grove Village, IL 60007
+Monday to Friday: 9am to  CST
+Payment methods
+© 2026, BV Security
+Powered by Shopify
+Refund policy
+Privacy policy
+Terms of service
+Shipping policy
+general.search.search
+Choosing a selection results in a full page refresh.

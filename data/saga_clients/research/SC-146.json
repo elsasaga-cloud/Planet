@@ -1,0 +1,98 @@
+{
+ "code": "SC-146",
+ "name_official": "Electric Bray Ltd",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（electricbray.com，快照 2026-10-21，en-GB）",
+ "summary": "英国肯特郡电气批发商（Eaton/Moeller、Salzer、Hiquel、Shenler 等控制元件），网店「Industrial Ethernet Switches」品类仅两款：OC-7N1005 5 口工业机 £52 与 **Smartbyte Unmanaged Ethernet Switch 5 Port Compact £54**；表内来源 Simon「同行/Smartbyte」名单。与 SC-077 Charter Controls 同一货源体系（OC-7N 码一致）→ Q-33 渠道冲突待裁定。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "SmartByte（！）",
+  "Eaton"
+ ],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "工业交换机品类：OC-7N1005 £52、Smartbyte 5 口紧凑型 £54",
+   "quote": "Ethernet Switch 5 port OC-7N1005 5 Port Industrial Ethernet Switch 9-56Vac/dc £52.00 — Smartbyte Unmanaged Ethernet Switch 5 Port Compact £54.00",
+   "url": "https://www.electricbray.com/product-category/industrial-ethernet-switches/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "定位：面向商业与工业的电气批发商，英国 + 国际销售；sales@electricbray.com；01634 681888",
+   "quote": "Electrical wholesaler supplier, for commercial and industrial industries selling to customers both internationally and in the UK… sales@electricbray.com : 01634 681888",
+   "url": "https://www.electricbray.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "来源：Clients/A/同行/Smartbyte.xlsx 第 2 行",
+   "quote": "（同行/Smartbyte 名单）",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户裁定",
+   "claim": "SmartByte 经销名单客户不碰（潜在渠道冲突）",
+   "quote": "不碰 标记一下 没必要去跟：会有潜在冲突的",
+   "url": "（对话全记录 T27-U5）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "（销售）",
+   "title": "sales@ 通用邮箱",
+   "email": "sales@electricbray.com",
+   "phone": "+44 1634 681888",
+   "source": "https://www.electricbray.com/"
+  }
+ ],
+ "grade_override": "C",
+ "override_reason": "Q-33 裁定（Simon 2026-10-21）：SmartByte 经销名单客户，潜在渠道冲突，不碰；c_sub=渠道冲突（Q-33 不碰）",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ Q-33 裁定（Simon 2026-10-21）：不碰、标记、不跟进。",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照品牌识别：在售 SmartByte → Q-33 渠道冲突）"
+ },
+ "company_facts": {
+  "legal_name": "Electric Bray Ltd",
+  "founded": "（待核）",
+  "hq": "Kent, UK（电话区号 01634 Medway）",
+  "size": "小型批发商",
+  "other": "网店 WooCommerce；websales@electricbray.com"
+ },
+ "business_lines": [
+  "电气控制元件批发（Eaton、Salzer、Hiquel、Shenler）",
+  "工业以太网交换机（SmartByte 5 口）"
+ ],
+ "products_seen": [
+  {
+   "brand": "SmartByte",
+   "model": "Unmanaged Ethernet Switch 5 Port Compact",
+   "spec": "5 口工业非管理，£54 零售",
+   "saga": "= Saga STI-050GE 同厂同款（Saga 列表 $34.1）",
+   "url": "https://www.electricbray.com/product-category/industrial-ethernet-switches/",
+   "date": "2026-10-21"
+  }
+ ],
+ "channels": {
+  "role": "电气批发商 / 网店（在售 SmartByte）",
+  "region": "英国"
+ },
+ "signals": [
+  "零售价 £54 vs Saga 列表 $34.1 → 有空间，但货源冲突",
+  "Q-33 裁定：不碰（2026-10-21）"
+ ],
+ "risks": [
+  "⛔ **Q-33 裁定（Simon 2026-10-21）：不碰**——SmartByte 经销名单客户，潜在渠道冲突；不主动发送、不跟进，仅留档防重复开发",
+  "品类仅 2 款，交换机非主业"
+ ],
+ "saga_fit": {
+  "p1": "STI-050GE",
+  "tier": 20,
+  "why": "其唯一在售交换机 = SmartByte 5 口（Saga STI-050GE）；Q-33 裁定前不触达。"
+ },
+ "email_hook": "（⛔ 不发送：Q-33 裁定不碰，SmartByte 经销名单客户）"
+}

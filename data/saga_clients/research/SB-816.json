@@ -2,72 +2,137 @@
  "code": "SB-816",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "在线（communitech.ca，快照 2026-10-21）",
- "summary": "加拿大 Communitech（滑铁卢科技企业孵化/加速机构「We help tech companies start, grow and succeed」；表内「一些 FS 整体上不是很多产品 / preseem 这个 logo」「可以多跟进一下」）；群发 8 次无回复。",
- "type": "科技孵化机构（非渠道）",
+ "website_status": "在线（lorwen.it，快照 2026-10-21）",
+ "summary": "意大利 Lorwen（视频监控网店：自有 LW- 系列 NVR（4K、PoE 口）、IP/AHD 摄像机、5 口千兆 PoE 即插即用交换机、54V 电源、PoE 分离器；表内「switch 看着像是丰润达的」；表内无邮箱，官网快照 info@lorwen.it）；表内无跟进记录。",
+ "type": "CCTV 自有品牌网店（意大利，OEM 采购）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "丰润达（疑）"
+ ],
  "evidence": [
   {
    "kind": "官网快照",
-   "claim": "官网标题：Communitech",
-   "quote": "We help tech companies start, grow and succeed；Events；IP 101: Introduction to Intellectual Property；AI Power Hours: AI, your data and your IP；Defence Sector Awareness and Supply Chain Workshop；AI Power Hours: Hiring your first 5 AI employee",
-   "url": "https://communitech.ca/",
+   "claim": "官网标题：Lorwen - Soluzioni Sicurezza Video e Impianti di Videosorveglianza；品类词 安防监控（CCTV / 门禁） / 无线 / WiFi / 网络交换 / PoE",
+   "quote": "Lorwen propone un'ampia selezione di NVR, Telecamere IP, XVR e Accessori per impianti di videosorveglianza di alta qualità. Acquista subito online!",
+   "url": "https://lorwen.it/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
    "claim": "表内兴趣/备注",
-   "quote": "一些FS 整体上不是很多产品 preseem 这个logo",
+   "quote": "switch 看着像是丰润达的",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   },
   {
    "kind": "官网快照",
-   "claim": "Communitech 定位",
-   "quote": "Home - Communitech ; We help tech companies start, grow and succeed",
-   "url": "https://communitech.ca/",
+   "claim": "Lorwen 网店",
+   "quote": "Lorwen propone un’ampia selezione di NVR, Telecamere IP, XVR e Accessori per impianti di videosorveglianza di alta qualità. Acquista subito online!",
+   "url": "https://lorwen.it/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "preseem logo",
-   "quote": "一些FS 整体上不是很多产品 / preseem 这个logo",
+   "claim": "switch 看着像丰润达的",
+   "quote": "switch 看着像是丰润达的",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
- "kp": [],
- "grade_override": "C",
- "override_reason": "非渠道机构（科技孵化器）；c_sub=品类不符",
+ "kp": [
+  {
+   "name": "（info@）",
+   "title": "官网公开邮箱",
+   "email": "info@lorwen.it",
+   "phone": "",
+   "source": "官网快照"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "加拿大",
-  "other": "官网 communitech.ca，语言 en，快照状态 ok；角色判定来源：官网文案"
+  "hq": "意大利",
+  "other": "官网 lorwen.it，语言 it-IT，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "科技企业孵化 / 加速（加拿大）"
+  "视频监控网店（自有品牌 Lorwen NVR / 摄像机 / PoE）"
  ],
  "channels": {
-  "role": "科技孵化机构（非渠道）",
-  "region": "加拿大",
-  "contact": "front.desk@communitech.ca"
+  "role": "CCTV 自有品牌网店（意大利，OEM 采购）",
+  "region": "意大利",
+  "contact": "（表内无邮箱）"
  },
  "signals": [
-  "官网：Home - Communitech ; We help tech companies start, grow and succeed ; Events ; IP 101",
-  "表内：一些 FS 整体上不是很多产品 / preseem 这个 logo；可以多跟进一下"
+  "页面 /prodotto/switch-poe-5-porte-10-100-1000-plug-n-play/、/prodotto/alimentatore-54v-per-nvr-e-switch-poe/、/prodotto/splitter-poe-12v-15-4w-10-100-mbps/；站内 LW-NVR4KS9C4P / LW-NVR12M9C8P",
+  "官网：Lorwen propone un’ampia selezione di NVR, Telecamere IP, XVR e Accessori；kw nvr 197 / poe 52"
  ],
  "risks": [
-  "非渠道：科技孵化机构；表内 Preseem 为 WISP QoE 软件公司（另一实体）；8 次无回复"
+  "现供疑为丰润达（深圳）价格基准低；网店量小",
+  "邮箱来自官网快照（info@），无具名 KP；无跟进记录"
  ],
  "saga_fit": {
-  "p1": null,
-  "tier": 25,
-  "why": "科技孵化/加速机构（非硬件渠道；Preseem 为另一家软件公司）→ 改 C"
+  "p1": "STC-28DGGPM",
+  "tier": 30,
+  "why": "自有 LW 标 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴标；5 口 PoE 即插即用位 HRUI STC-114GP（$16.5 列表价）；电源/分离器 Saga 不做"
  },
- "email_hook": "（不发送：非渠道机构）"
+ "email_hook": "For the PoE switches you sell under the Lorwen label next to your LW NVR range, we can be a second source on a Marvell L2+ platform (8-PoE + 2 SFP) and budget 5/8-port plug-and-play PoE units from small lots in your packaging, CE/RoHS, EXW USD — which size ships most with your NVR kits?",
+ "products_seen": [
+  {
+   "brand": "Lorwen（自有）",
+   "model": "Switch PoE 5 porte 10/100/1000 plug n play",
+   "spec": "5 口千兆 PoE 非管理",
+   "saga": "HRUI STC-114GP（列表价，注明）",
+   "url": "https://lorwen.it/prodotto/switch-poe-5-porte-10-100-1000-plug-n-play/",
+   "date": "2026-10-21"
+  }
+ ],
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「switch 看着像是丰润达的」；Elsa 箱：`to:lorwen.it` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(j)））",
+   "type": "CCTV 自有品牌网店（意大利，OEM 采购）",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "不动（Q-33 供应商渠道客户）",
+   "lane": "意大利（欧洲全域主攻）",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 0；用户表：「switch 看着像是丰润达的」；研究档 risks：现供疑为丰润达（深圳）价格基准低；网店量小"
+  },
+  "situation": "意大利 Lorwen（视频监控网店：自有 LW- 系列 NVR（4K、PoE 口）、IP/AHD 摄像机、5 口千兆 PoE 即插即用交换机、54V 电源、PoE 分离器；表内「switch 看着像是丰润达的」；表内无邮箱，官网快照 info@lorwen.it）；表内无跟进记录。",
+  "need": "自有 LW 标 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴标；5 口 PoE 即插即用位 HRUI STC-114GP（$16.5 列表价）；电源/分离器 Saga 不做",
+  "breakpoint": "现供疑为丰润达（深圳）价格基准低；网店量小",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 30,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "自有 LW 标 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴标；5 口 PoE 即插即用位 HRUI STC-114GP（$16.5 列表价）；电源/分离器 Saga 不做",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "switch 看着像是丰润达的",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

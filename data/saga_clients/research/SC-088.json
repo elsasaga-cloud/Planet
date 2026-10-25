@@ -1,0 +1,73 @@
+{
+ "code": "SC-088",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（lantronix.com，快照 2026-10-21）",
+ "summary": "美国 Lantronix（纳斯达克上市 IoT 厂商：带外管理、网络基础设施（Transition Networks 产品线）、工业 IoT、SOM；表内「商业 FS / MC / 工业 FS / 工业串口，有一部分是自己的 logo」）；群发 19 次无回复。",
+ "type": "上市厂商（Lantronix / Transition Networks）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Intelligent IoT Solutions - Connect, Compute, Comprehend, Control；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 数据中心 / 企业 IT / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "IoT building blocks & gateways, cloud-based device management, automated downtime managers: Lantronix IoT products and services help you connect smart!",
+   "url": "https://www.lantronix.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "商业FS MC 工业FS 工业串口 有一部分是自己的logo",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Lantronix 定位",
+   "quote": "Intelligent IoT Solutions - Connect, Compute, Comprehend, Control ; IoT building blocks & gateways, cloud-based device management ; transition-networks-poe-switches",
+   "url": "https://www.lantronix.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "一部分自己的 logo",
+   "quote": "商业FS MC 工业FS 工业串口 有一部分是自己的logo",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "上市厂商：Lantronix（Transition Networks 线），既定 ODM，非渠道客户；c_sub=厂商/上市（非渠道）",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "美国",
+  "other": "官网 lantronix.com，语言 en-US，快照状态 ok；角色判定来源：用户表"
+ },
+ "business_lines": [
+  "IoT / 带外管理 / 网络基础设施（Transition Networks）"
+ ],
+ "channels": {
+  "role": "上市厂商（Lantronix / Transition Networks）",
+  "region": "美国",
+  "contact": "sales@lantronix.com"
+ },
+ "signals": [
+  "官网：IoT building blocks & gateways, cloud-based device management …；页面 /blog/transition-networks-poe-switches-dms-integrate-milestone-xprotect-vms…；首页 Out-of-Band Management / Network Infrastructure / Industrial IoT",
+  "表内：商业 FS MC 工业 FS 工业串口 有一部分是自己的 logo"
+ ],
+ "risks": [
+  "上市厂商：Lantronix（NASDAQ），Transition Networks 交换机/MC 线有既定 ODM，非 Saga 可承接；19 次无回复"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 30,
+  "why": "上市厂商，自有 Transition Networks 交换机/MC 线，既定 ODM → 改 C"
+ },
+ "email_hook": "（不发送：上市厂商/巨头）"
+}

@@ -1,66 +1,220 @@
 {
-  "code": "SA-042",
-  "name_official": "Intelligent Technologies Traders Ltd.（intelligent.hk, HK/China/Dubai）",
-  "website_status": "在线",
-  "summary": "香港注册（2013）的中资 IT 配件制造+分销商，自称在中国/台湾/印度有工厂生产 PoE 交换机、CCTV、光纤设备、4G 路由器，办公室遍布香港、中国、迪拜、孟加拉、新加坡，覆盖 SAARC/APAC/MEA。用户表登记为沙特，电话是 +86 大陆手机号。",
-  "type": "中资同行（制造+分销）",
-  "size": "未披露",
-  "brands_seen": [
-    "Intelligent"
-  ],
-  "evidence": [
-    {
-      "kind": "官网",
-      "claim": "自有工厂生产 PoE 交换机等——属同行而非客户",
-      "quote": "We are proud manufacturers of global brands and have a state-of-the-art, technology-driven manufacturing units in China, Taiwan & India where we manufacture various types of hi-tech devices such as POE Switches, CCTV Cameras & DVR/NVR, Fiber Optical devices, 4G Routers. … Headquartered in Hong Kong, Intelligent Technologies Traders Ltd. was established in 2013.",
-      "url": "https://www.intelligent.hk/",
-      "date": "2026-10-21"
-    }
-  ],
-  "grade_override": "C",
-  "override_reason": "中资/港资同行（自称自有 PoE 交换机工厂），联系电话为 +86 大陆号，沙特只是其 MEA 网点；非目标客户（同行/中国大陆规则）。",
-  "notes": "c_sub=同行/中资贸易商。",
-  "researched_at": "2026-10-21",
-  "mail_review": {
-    "binding": {
-      "level": "未绑定（同行：一次「share your price list」→ 给链接 → 无）",
-      "type": "中资同行（制造 + 分销，HK/深圳/迪拜）——c_sub 同行",
-      "sieve": "1",
-      "stop": "价表给后无回；同行比价",
-      "revive": "不投入",
-      "lane": "—",
-      "cadence": "2024-07 → 2026-09 去信 32 封；最后来信 2025-07-22",
-      "evidence": "k=586559b1a8001973 / 0c4f75da78fd280b"
-    },
-    "situation": "Ank 2025-07-22 要价表，Alan 给下载链接。同行索价表 = 比价，不是采购。",
-    "need": "—",
-    "breakpoint": "同行；按 Simon 规则不投入且应从群发名单剔除（32 封去信是浪费）。",
-    "saga_now": {
-      "p1": "无",
-      "tier": 20,
-      "price": "—；群发里他已看到的价（续）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-12-06 $300（48 Port PoE Managed Switch）、2024-12-24 $240（24 Port Fiber Switch）、2025-09-23 $280（10G Enterprise SFP Switch）、2025-10-24 $65（10G Media Converter）、2026-06-22 $16000（32 Port 400GB DC Switch）",
-      "why": "剔除群发",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "不动；建议移出群发",
-      "channel": "—",
-      "action": "—",
-      "one_question": ""
-    },
-    "facts": [
-      {
-        "date": "2025-07-22",
-        "dir": "来",
-        "who": "Ank（intelligent.hk）",
-        "quote": "Kindly share your price list",
-        "why": "同行索价",
-        "k": "586559b1a8001973"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+ "code": "SA-042",
+ "name_official": "Antronix, Inc.（Cranbury, New Jersey, USA）",
+ "website_status": "在线",
+ "summary": "新泽西的有线宽带射频设备设计制造商（1980 年创立，约 33 人，营收口径 $4.3M），产品：multi-tap、光节点、放大器、无源器件，面向北美有线运营商；2023 年起强调光纤方案（与 Teleste 合资 Intercept）。用户表：A 已回复 1 次，联系人 Peter Tarquinio / Jim Taxdahl（VP Sales），问 L2/L3 10G、2.5G/10G 商业交换机。",
+ "type": "品牌制造商（拓展以太网交换机产品线，OEM 目标）",
+ "size": "约 33 人（crustdata）；11–50（LinkedIn）",
+ "brands_seen": [
+  "Antronix",
+  "Teleste"
+ ],
+ "evidence": [
+  {
+   "kind": "第三方（crustdata）",
+   "claim": "规模与管理层（含用户表联系人 Jim Taxdahl）",
+   "quote": "Antronix is a telecommunications company headquartered in Cranbury, New Jersey … The team counts 33 people … Antronix's leadership includes President/CEO Neil Tang … Vice President of Sales Jim Taxdahl",
+   "url": "https://profiles.crustdata.com/company/antronix",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "业务定位",
+   "quote": "Antronix designs and manufactures the components that enable broadband operators to upgrade networks across North America – engineered in-house.",
+   "url": "https://antronix.com/about-antronix/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "公司地址/电话/产品节奏",
+   "quote": "Worldwide Corporate Headquarters and Technology Center 440 Forsgate Drive Cranbury, NJ 08512 T: 1.609.860.0160 … 2.0 GHz SHIPPING SINCE 2024 … 3.0 GHz IN DEVELOPMENT",
+   "url": "https://antronix.com/about-antronix/",
+   "date": "2026-10-07"
+  },
+  {
+   "kind": "进口记录",
+   "claim": "从越南/中国进口分配器与连接器（2026-09）",
+   "quote": "WAY SPLITTER | ANTRONIX INC. | CONG TY TNHH DIEN TU HAN VIET | 2026-09-18 | Vietnam … CONNECTOR | ANTRONIX INC | MAIN BRIGHTNESS LTD | 2026-09-16 | China … BROADBAND COMMUNICATIONS PRODUCTS | ANTRONIX INC | ETECH INDUSTRIES NINGBO CO LTD",
+   "url": "https://www.importgenius.com/importers/antronix-inc",
+   "date": "2026-09-18"
+  },
+  {
+   "kind": "行业媒体",
+   "claim": "Antronix–GiaX 合作 Intercept EO 2.5 Gbps",
+   "quote": "This recent collaboration with GiaX will lead with the Intercept EO 2.5 Gbps ethernet over coax PON Extension powered by MoCA Access",
+   "url": "https://www.cbinsights.com/company/antronix",
+   "date": "2024-09-23"
   }
+ ],
+ "kp": [
+  {
+   "name": "Jim Taxdahl",
+   "role": "Vice President of Sales U.S.A",
+   "email": "jimtaxdahl@antronix.com",
+   "phone": "+1 609-860-0160（总机）",
+   "source": "https://antronix.com/about-antronix/"
+  },
+  {
+   "name": "Peter Tarquinio",
+   "role": "联系人（用户表）",
+   "email": "petertarquinio@antronix.com",
+   "phone": "",
+   "source": "Clients/A Replied 09.04.xlsx"
+  }
+ ],
+ "notes": "A 确认（美国品牌商 + VP 级直联 + 明确 2.5G/10G 需求）：P1 = STC-424XGGPM-280W（24×2.5G PoE + 10G 上联）或 STC-448XGGM(L3)，30% OEM 档；运营商 MDU 场景强调 Marvell 方案与 L3 功能。",
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "深挖 v2（官网 + 进口记录 + 合资）"
+ },
+ "company_facts": {
+  "legal_name": "Antronix, Inc.",
+  "founded": "1980",
+  "hq": "440 Forsgate Drive, Cranbury, NJ 08512（T 1.609.860.0160）",
+  "staff": "约 33",
+  "revenue": "约 $4.3M（口径）",
+  "other": "自 1980 年；产品 Milenium NXT 2.0 GHz multi-tap（2024 起出货）、1.8 GHz 面板、3.0 GHz 在研；与 Teleste 合资 Teleste Intercept（同址，sales@telesteintercept.com）；与 GiaX 合作 Intercept EO 2.5 Gbps MoCA Access；进口记录显示从越南/中国（Etech Industries Ningbo、Main Brightness）采购分配器/连接器"
+ },
+ "business_lines": [
+  "有线电视/宽带 RF 设备",
+  "光纤接入方案",
+  "（拓展）商业 L2/L3 交换机、2.5G/10G（用户表询问）",
+  "HFC 无源/有源（multi-tap、放大器、分配器）",
+  "Teleste Intercept：光纤/DAA/PON 接入平台（含以太网交换机，PitchBook 描述）",
+  "（询价）2.5G/10G 商业 L2/L3 交换机"
+ ],
+ "products_seen": [
+  {
+   "brand": "（拓展采购）",
+   "model": "商业 L2/L3 交换机 2.5G/10G（用户表）",
+   "spec": "问了 2.5G/10G 类产品",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "用户表",
+   "saga": "STC-424XGGPM-280W / STC-448XGGM(L3)"
+  }
+ ],
+ "channels": {
+  "网站": "https://antronix.com/（2026-09 更新）",
+  "直邮": "petertarquinio@antronix.com / jimtaxdahl@antronix.com（用户表）",
+  "电话": "+1 609 860 0160（官网公开）",
+  "LinkedIn": "https://www.linkedin.com/company/antronix（605 followers）",
+  "合资": "telesteintercept.com"
+ },
+ "signals": [
+  "用户表：A 已回复 1 次（Peter Tarquinio），兴趣商业 L2/L3/10G、2.5G",
+  "已从中国/越南进口 RF 配件（2026-09 提单）——有成熟中国采购链路，交换机可走同一路径",
+  "Intercept/EO 2.5 Gbps 方案需要 2.5G/10G 以太网配套——对应其询问 2.5G/10G 商业交换机（推断）"
+ ],
+ "risks": [
+  "北美有线运营商供应链要求 UL/ROHS/一致性与长期供货；交换机为其新品类，决策慢",
+  "10G/2.5G 机型需 SmartByte 规格确认"
+ ],
+ "saga_fit": {
+  "p1": "STC-424XGGPM-280W",
+  "tier": 30,
+  "why": "询问 2.5G/10G 商业机 → STC-424XGGPM-280W（24 GE PoE + 4×10G SFP+）与 STC-448XGGM(L3) 为对位；若以 Antronix 品牌上市按 30% 档"
+ },
+ "email_hook": "On the 2.5G and 10G question from earlier, the 24-port PoE+ unit with four 10G SFP+ uplinks and the 48-port L3 version are the two Marvell-based platforms we can supply under the Antronix label, so I am sending both with EXW pricing.",
+ "mail_review": {
+  "binding": {
+   "level": "未绑定（询问阶段：要过价、要过手册，没有付样；Elsa 箱：`to:antronix.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 30 / 来 6）（第 74 批(g)））",
+   "type": "美国有线宽带 RF 设备品牌商（≈33 人）扩以太网线；Peter Tarquinio 直联——第一档类型但以太网非主业",
+   "sieve": "2",
+   "stop": "2025-08-11 收到 24 口光交换机手册 + 价格（L2+ 225 / L3 310 USD）后「No worries. Thank you」→ 静默 14 个月；2024-04 要「美国现货样机」，Saga 无美国库存（Simon 转介 Vi-Link 的样机）",
+   "revive": "其 MDU/光节点以太网项目落地；或有人在美国持货（Saga 无）",
+   "lane": "US",
+   "cadence": "2024-01 → 2026-09 去信 30 封；最后实质来信 2025-08-09",
+   "evidence": "k=113bf0edbaff9900 / 320a0015fdc91397 / ca03d94ea39777b8 / 42afe1e39f3c25e0 / 7533abba594ebc6d / dfc4ee1cd58c07be"
+  },
+  "situation": "Peter 2024-01 开口就是「more than 2 SFP ports… 1G SFP and 2.5 SFP+ and 10G SFP+」，2024-04 想在美国先摸一台 4168（Simon 回「另一个美国客户买了样机，也许你们可以从他那拿」，并点名 vilinknet.com）。2025-08 他再问 24 口光交换机价格，Alan 报 225/310 USD 并给了 Web/CLI 手册和软件清单，他回「No worries. Thank you」后再无动静。",
+  "need": "多 SFP 口（1G/2.5G/10G）聚合交换机，美国可先看样；L2+/L3 皆可。",
+  "breakpoint": "两次都停在「拿到资料之后」——不是价格也不是规格，是对方项目没落地。无需推。",
+  "saga_now": {
+   "p1": "STC-4168XGGCM（4×10G + 16 SFP + 8 combo，L2+）/ L3 版——2025-08 已报 225/310 USD",
+   "tier": 30,
+   "price": "按 30% OEM 档复核 2025 报价；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-06-18 $220（Re: 2.5G PoE switch）、2025-01-06 $240（24 Port Fiber Switch）、2025-06-25 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170",
+   "why": "一句话确认停点即可；不重复发规格。已打开的主题（13/30 封有打开记录）：「Re: 2.5G PoE switch」(2024-07-16)、「Re: 24 Port Fiber Switch」(2025-08-09)、「Re: 24 Port Fiber Switch」(2025-08-11)、「Re: 24 Port Fiber Switch」(2025-08-21) → 读者兴趣偏「PoE 接入」；当前 P1 属「10G 汇聚/L3」，下一封按「PoE 接入」给，不按 P1｜已发资料（勿重发）：L3(2025-08-09)、L2+(2025-08-09)、Marvell Based CLI Manual(2025-08-11)、Marvell Based Web Manual(2025-08-11)、Saga Software Function List_7.3, 7.4, (2025-08-11)、Product Link_2026Q2(2026-03-30)、Product Link_2026Q3(2026-07-20)；7.5 Feature List 与 2026Q3 链接都已给过 → 下一封不能再是资料推送，只能是针对其需求的一句话/一个问题",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2026-11（一次）",
+   "channel": "A 邮箱 → petertarquinio@antronix.com（抄 jimtaxdahl@antronix.com）",
+   "action": "一句话问去年 8 月之后卡在哪",
+   "one_question": "After the 24-SFP manuals last August, what stopped the evaluation — US stock, or product fit for the MDU plan?"
+  },
+  "facts": [
+   {
+    "date": "2024-01-20",
+    "dir": "来",
+    "who": "Peter Tarquinio",
+    "quote": "switches routers with more than 2 SFP ports. Or more than 2 sfp+ ports. I need 1G SFP and 2.5SFP+ and 10G SFP+",
+    "why": "需求",
+    "k": "113bf0edbaff9900"
+   },
+   {
+    "date": "2024-04-19",
+    "dir": "来",
+    "who": "Peter",
+    "quote": "Do you have any of the 4168 in USA? Can I get a sample or do you have one online",
+    "why": "要美国现货样",
+    "k": "320a0015fdc91397"
+   },
+   {
+    "date": "2024-04-20",
+    "dir": "去",
+    "who": "Saga（Simon）",
+    "quote": "Hi, Peter, Now another USA client has bought this model for sample testing. Perhaps you can wait a while and purchase from him?? Not sure if this is an option. For an online store, I got findlight. *https://www.findlight.net/company/zhengzhou-saga-telecom-co-ltd <https://www.findlight.net/company/zh…",
+    "why": "Saga 实质答复原文（主题「Re: 2.5G PoE switch」；第 20 批从 gmail_s 回补）——承诺/口径以此为准",
+    "k": "37b8c7ebfde7af7d"
+   },
+   {
+    "date": "2024-04-24",
+    "dir": "去",
+    "who": "Simon",
+    "quote": "http://vilinknet.com/ This is the client. Now it is just about sample testing… this is between you and me.",
+    "why": "向一客户透露另一客户名（做法记录，不评判）",
+    "k": "ca03d94ea39777b8"
+   },
+   {
+    "date": "2024-04-24",
+    "dir": "来",
+    "who": "Peter Tarquini",
+    "quote": "Is that Jim Luciano?",
+    "why": "2024-04 S 邮箱首轮：对方以为 Saga 的推荐人/联系人是他认识的 Jim Luciano——说明 Simon 当时的开场提到了某个共同人名；此后 2025-08 A 邮箱再来要手册（08-09「Yes, please send manual as well」）",
+    "k": "gmail_s 2024-04-24 Re: 2.5G PoE switch"
+   },
+   {
+    "date": "2025-08-08",
+    "dir": "来",
+    "who": "Peter",
+    "quote": "Thanks.. I'd be interested in the pricing…",
+    "why": "第二轮",
+    "k": "42afe1e39f3c25e0"
+   },
+   {
+    "date": "2025-08-09",
+    "dir": "去",
+    "who": "Alan",
+    "quote": "225usd/pc, L2+ managed 310usd/pc, L3 managed",
+    "why": "报价",
+    "k": "7533abba594ebc6d"
+   },
+   {
+    "date": "2025-08-11",
+    "dir": "来",
+    "who": "Peter",
+    "quote": "No worries. Thank you",
+    "why": "停点",
+    "k": "dfc4ee1cd58c07be"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": {
+   "subject": "24-SFP aggregation switch — what stopped the evaluation?",
+   "body": "Hi, Peter,\n\nIn August 2025 you had the spec and manuals of the 24-SFP aggregation unit (4x 10G SFP+ + 16x SFP + 8x combo) and the prices: $225 USD L2+ / $310 USD L3, both EXW. Then \"no worries\", and nothing since — which is fine, but I would like to know why.\n\nOne question: what stopped the evaluation — the need for US stock, product fit for the MDU plan, or simply no project? One line is enough; copying Jim in case this moved to his side.\n\nThank you.\nAlan\nSaga Telecom - sagatele.com"
+  },
+  "as_of": "2026-10-24"
+ }
 }

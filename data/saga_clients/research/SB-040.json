@@ -1,161 +1,181 @@
 {
  "code": "SB-040",
- "name_official": "WireStar, Inc.（WireStar Networks，wirestar.net，College Station, TX）",
- "researched_at": "2026-10-21",
- "website_status": "在线",
- "summary": "德州 College Station 的区域 ISP/CLEC 与 **MDU（多户住宅）/HOA 托管 WiFi 服务商**（2005 年创业、2007-12 注册；创始人 Kyle Leissner；11–50 人 / RocketReach 42 人、营收 $5.1M）：为「全国数百个多户住宅物业」提供最高 1 Gig 互联网（光纤、固定无线、有线、EoC、DSL）、WiFi 部署、语音、电视、安防门禁、托管 IT 与综合布线；SAM 登记 UEI PU66QHF8L5F6（可承接政府业务）。用户表：1 次实质回复，1 次跟进。",
- "type": "",
- "size": "",
- "brands_seen": [],
+ "name_official": "4Demand Ltd（英国公司号 14564199，伦敦；迪拜采购联系人）",
+ "website_status": "在线（快照 2026-10-21 unreachable，搜索结果显示 2026-01 页面仍更新）",
+ "summary": "4Demand Ltd：2022-12 在伦敦注册的微型控股/贸易公司（<10 人，营业额 <£1M；董事 Mohsen Tavakoli Zaniani；自述由波斯湾地区多家企业合并而来，业务含 IT 服务、CCTV/报警、设备供应与进出口、Shopify API）。表内联系人 Mr. Ari（procurement@4demand.co.uk，+971 55 964 5463，WA 已加，迪拜）：2024-04 询 Cisco SFP-10G-LR ×25，2024-08 问 2 光 4，2025-11 收到 28 PoE 报价；18 次推送 1 次实质回复。贸易型买家 → B 20%。",
+ "type": "IT 贸易商",
+ "size": "待补证",
+ "brands_seen": [
+  "Cisco（需求）"
+ ],
  "evidence": [
   {
-   "kind": "官网",
-   "claim": "业务定位（MDU 托管 WiFi）",
-   "quote": "WireStar is a managed WiFi provider for multifamily, HOA, and COA communities. We design and support future-ready networks that scale with your portfolio.",
-   "url": "https://wirestar.net/",
-   "date": "2026-08-10"
+   "kind": "用户记录",
+   "claim": "需求 Cisco SFP-10G-LR ×25；WA 已加",
+   "quote": "Cisco SFP-10G-LR 25个；971 55 964 5463 已加（用户 Clients 表摘录）",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "第三方",
+   "claim": "公司注册",
+   "quote": "4Demand Ltd … registration number 14564199, established on December 30, 2022… registered address is 227 Nether Street, London, N3 1NT",
+   "url": "https://immigrationgpt.co.uk/company/4demand-ltd",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "第三方",
+   "claim": "规模与董事",
+   "quote": "Micro · Turnover is under £1M · Under 10 employees … Mr Mohsen Tavakoli Zaniani PSC • Director",
+   "url": "https://open.endole.co.uk/insight/company/14564199-4demand-ltd",
+   "date": "2026-10-21"
   },
   {
    "kind": "官网",
-   "claim": "创始人、总部、历史",
-   "quote": "That connection ignited a lifelong passion and led Kyle to found WireStar Networks in 2007. Headquartered in College Station, Texas, WireStar is now a premier provider of Internet, IT, and Managed Solutions with an emphasis on multiple dwelling unit (MDU) properties.",
-   "url": "https://wirestar.net/about/",
-   "date": "2025-10-14"
+   "claim": "业务自述",
+   "quote": "4Demand is a London-based technology services company providing professional IT support, security systems, and smart technology solutions… IT services, equipment supply and maintenance, network implementation, CCTV and alarm systems",
+   "url": "https://www.4demand.co.uk/about-us/",
+   "date": "2026-10-21"
   },
   {
-   "kind": "官网",
-   "claim": "覆盖规模与接入技术",
-   "quote": "WireStar equips hundreds of multi-family properties across the country with fast, reliable internet up to 1 Gig … Fixed Wireless - Fiber - Cable - WiFi Deployment & Surveying - Mobile Internet - DSL - Ethernet over Cable (EoC)",
-   "url": "https://wirestar.net/residents/",
-   "date": "2025-10-14"
-  },
-  {
-   "kind": "名录",
-   "claim": "规模与营收",
-   "quote": "Revenue · $5.1 million Employees · 42 … Founded · 2007 Address · 4156 TX-6, College Station, Texas 77845, US Phone · (979) 721-9000",
-   "url": "https://rocketreach.co/wirestar-networks-profile_b40e3dbaffe3b8fd",
+   "kind": "第三方",
+   "claim": "波斯湾背景",
+   "quote": "4Demand is a Holding Company that has emerged from the consolidation of several thriving enterprises… in the Persian Gulf region",
+   "url": "https://uk.tradeford.com/gb1064053/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "1 次实质回复；1 次跟进",
-   "quote": "（用户表字段）",
+   "claim": "需求与回复",
+   "quote": "Cisco SFP-10G-LR 25个；2024.8.10 10G MC → 问了2光4；1119 引流机型 → 1120 email发了28poe",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
  "kp": [
   {
-   "name": "Kyle Leissner",
-   "role": "Founder（官网 Our Story）",
-   "email": "kyle@wirestar.net（2024-06-18 本人来信「Is this Poe?」；署名 President & Founder，Direct (979) 721-9100）",
-   "phone": "979-721-9000（公司）",
-   "source": "https://wirestar.net/about/；S 邮箱来信表头"
+   "name": "Mr. Ari",
+   "role": "采购（表内）",
+   "email": "procurement@4demand.co.uk",
+   "phone": "+971 55 964 5463（WA 已加）",
+   "source": "用户 Clients 表"
+  },
+  {
+   "name": "Mohsen Tavakoli Zaniani",
+   "role": "Director / PSC",
+   "email": "",
+   "phone": "",
+   "source": "Companies House（经 Endole）"
   }
  ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "grade_override": "B",
+ "override_reason": "需求为 Cisco 原厂光模块（Saga 不供原厂件，光模块亦非主线）；中东非主攻区 → 慢跟。",
+ "notes": "WA 一次性告知可供兼容 SFP+（如 Saga 有渠道）并带上 STC 10G 上联机型；无回应即停。",
+ "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网 + 名录核对）"
+  "level": "B 级加厚 v1（Companies House + 官网核对）"
  },
  "company_facts": {
-  "legal_name": "WireStar, Inc.（d/b/a WireStar Networks）",
-  "founded": "2005（注册 2007-12-06）",
-  "hq": "4156 State Highway 6 S, College Station, TX 77845, USA（979-721-9000；免费 888-999-1525）",
-  "size": "11–50（LinkedIn）/ 42 人、$5.1M（RocketReach）",
-  "other": "创始人 Kyle Leissner；MDU/HOA/COA 托管 WiFi 为主业；BridgeWave 10 Gbps 毫米波回传案例（2018）"
+  "legal_name": "4DEMAND LTD（Company No. 14564199）",
+  "founded": "2022-12-30",
+  "hq": "227 Nether Street, London N3 1NT（另见 Flat 62 North End Road, London W14 9EP）；020 3576 1986",
+  "size": "Micro：<10 人，营业额 <£1M（Endole，2024 年报）",
+  "other": "SIC 46900 非专业批发 / 62012 / 62020 / 62090；董事 Mohsen Tavakoli Zaniani（1992 年生）；Tradeford 简介称源自波斯湾地区企业合并；持技术工签担保资质"
  },
  "business_lines": [
-  "MDU / HOA 托管 WiFi 与楼宇网络",
-  "区域 ISP / CLEC（光纤、固定无线、EoC）",
-  "商业 IT、语音、安防门禁、布线"
+  "IT 支持与设备供应/维护",
+  "CCTV、报警与智能楼宇",
+  "进出口贸易（设备采购、国际运输）",
+  "网站/软件与电商 API"
+ ],
+ "products_seen": [
+  {
+   "brand": "Cisco",
+   "model": "SFP-10G-LR",
+   "spec": "10G 单模 SFP+（表内询 25 只）",
+   "saga": "Saga 价目无光模块（Q-32）；交换机侧可配 STC-424XGGM",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
  ],
  "channels": {
-  "网站": "https://wirestar.net/",
-  "电话": "979-721-9000（官网公开）",
-  "LinkedIn": "https://www.linkedin.com/company/wirestar"
+  "official": "4demand.co.uk/contact-us",
+  "contact": "Mr. Ari procurement@4demand.co.uk，+971 55 964 5463（WA 已加，迪拜）"
  },
  "signals": [
-  "MDU WiFi 部署 = 每栋楼多台 PoE 接入交换机供 AP + 10G 上联——与 STC-424DGGPM-280W / STC-424XGGPM-280W 口型完全一致；美国客户需在二封前问 UL（INH 规则）"
+  "2024-04 询 25 只 10G SFP+（项目补料）",
+  "2024-08 问 2 光 4 小机，2025-11 收 28 PoE 报价未回"
  ],
  "risks": [
-  "US 运营商常要求 UL 列名与 TAA（其有 SAM 登记）——Saga 仅 FCC/CE；仅 1 次回复 + 1 次跟进，需重新激活"
+  "微型贸易公司，付款能力与项目真实性待核",
+  "主要询价为思科原厂光模块（Saga 不供）",
+  "表内国别「阿联酋」= 联系人所在地；法人在英国"
  ],
  "saga_fit": {
-  "p1": "STC-424XGGPM-280W",
-  "tier": 25,
-  "why": "运营商自用 25% 档：STC-424XGGPM-280W（24 PoE+ 280W + 4×10G SFP+）为 MDU AP 接入机；小楼 STC-28DGGPM；非 PoE 汇聚 STC-424XGGM"
+  "p1": "STC-28DGGPM",
+  "tier": 20,
+  "why": "其问过 2 光 4 / 收过 28 PoE 报价 → 8 PoE + 2 SFP L2+ 起手；贸易商 20% 档；光模块另询"
  },
- "email_hook": "Kyle — our CENTEC-based line does VXLAN/EVPN and MPLS (no proprietary controller; standard CLI/SNMP); which role would you test first, a 10G/25G aggregation or a 100G spine?",
+ "email_hook": "Following the 8-port PoE quote we sent last November — if the Dubai project is still open, I can hold that price for 15 days and add the 2 SFP + 4 PoE compact model you asked about earlier; which quantity should I price?",
  "mail_review": {
   "binding": {
-   "level": "轻度触达（2 封实质来信：2024-06「Is this PoE?」→ $310；2025-04「Does it have VXLAN support or MPLS support? Any controller?」→ Alan「not supporting」+ GPT 附件；之后 24 封群发无回；Elsa 箱：`to:wirestar.net` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 24 / 来 3）（第 74 批(h)））",
-   "type": "德州 WISP/网络运营商（WireStar Networks；Kyle = 创始人兼总裁）——运营商级需求：VXLAN/MPLS/控制器",
-   "sieve": "2（两次技术提问）",
-   "stop": "AC5 线不支持 VXLAN/MPLS；Alan 用「not supporting + GPT 结论」关门——而 CENTEC 线（VXLAN/EVPN/MPLS）正是答案，却从未对他提起",
-   "revive": "一封只讲 CENTEC 的信：VXLAN/EVPN/MPLS 支持矩阵 + 一款 10G/25G 汇聚的价格区间",
-   "lane": "US 主攻",
-   "cadence": "一封；之后看回复",
-   "evidence": "k=1301f24ebea116b3（Is this PoE?）；deda136173372ce7（$310）；3217cb91c0855a86（VXLAN/MPLS/controller）；a444eeb97758ba35（not supporting）；第 19 批回补来信原文 1 条（gmail_s/gmail_a）"
+   "level": "未触达（A/S 邮箱 2 封 2024→2026，无记录打开，0 回；收件 procurement@4demand.co.uk；主题多为「Marvell Managed Commercial Switches、8 Port Industrial PoE Switch」；Elsa 箱：`to:.uk` 穷举 34 条（2026-10-25，锚批 Bcc 头已读）未见 4demand.co.uk → Elsa 箱从未发过本户，往来只在 S/A 箱（去 2 / 来 0）（第 74 批(f)））",
+   "type": "IT 贸易商",
+   "sieve": "1（只收到群发）",
+   "stop": "2 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "阿联酋 非主攻",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 2；用户表：「Cisco SFP-10G-LR 25个；2024.8.10 10G MC → 问了2光4；1119 引流机型 → 1120 email发了28poe」；研究档 risks：微型贸易公司，付款能力与项目真实性待核"
   },
-  "situation": "创始人亲自回了两次，第二次问的是运营商级问题（VXLAN/MPLS/控制器），Alan 回「不支持」。仓库里 CENTEC 线正是 VXLAN/EVPN/MPLS，2026-01 对别的客户发过「OEM Core Switching Solution」，对 Kyle 没发。",
-  "need": "运营商汇聚：VXLAN/MPLS + 控制器。",
-  "breakpoint": "产品线错配（AC5 vs CENTEC）。",
+  "situation": "4Demand Ltd：2022-12 在伦敦注册的微型控股/贸易公司（<10 人，营业额 <£1M；董事 Mohsen Tavakoli Zaniani；自述由波斯湾地区多家企业合并而来，业务含 IT 服务、CCTV/报警、设备供应与进出口、Shopify API）。表内联系人 Mr. Ari（procurement@4demand.co.uk，+971 55 964 5463，WA 已加，迪拜）：2024-04 询 Cisco SFP-10G-LR ×25，2024-08 问 2 光 4，2025-11 收到 28 PoE 报价；18 次推送 1 次实质回复。贸易型买家 → B 20%。",
+  "need": "其问过 2 光 4 / 收过 28 PoE 报价 → 8 PoE + 2 SFP L2+ 起手；贸易商 20% 档；光模块另询",
+  "breakpoint": "微型贸易公司，付款能力与项目真实性待核",
   "saga_now": {
-   "p1": "STH 系列 CENTEC（VXLAN/EVPN/MPLS）",
-   "tier": 25,
-   "price": "按 CENTEC 底线；历史报价（邮件原话，老汇率）：2024-06-19 310usd；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-16 $65（Re: 48 port managed switch）、2024-12-11 $300（48 Port PoE Managed Switch）、2025-01-06 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-08-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-06-18 $220（48 port managed switch）、2025-09-22 $280（10G Enterprise SFP Switch）",
-   "why": "美国运营商 + 创始人直联 + 明确技术需求。已打开的主题（5/24 封有打开记录）：「Re: 48 port managed switch」(2024-06-19)、「2.5G Web Managed Switch」(2024-09-27)、「Marvell Alleycat5 Solution」(2025-04-01)、「Re: Marvell Alleycat5 Solution」(2025-04-02) → 读者兴趣偏「其他」；当前 P1 属「DC 核心/CENTEC」，下一封按「其他」给，不按 P1｜已发资料（勿重发）：STC-448XGGPM(2024-06-19)、Saga Software Function List-release 7.(2025-04-30)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）｜CENTEC STOS V2.4：无 NETCONF/RESTCONF/OpenFlow；有「RPC-API management」◯ + SNMP v1/v2c/v3 公私 MIB + Zero-configuration deployment——Kyle 若再提 NETCONF，答「no NETCONF; RPC-API + SNMP/CLI」，不答「有 API」四个字",
+   "p1": "STC-28DGGPM",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "其问过 2 光 4 / 收过 28 PoE 报价 → 8 PoE + 2 SFP L2+ 起手；贸易商 20% 档；光模块另询",
    "repeat": [],
-   "gaps": "NETCONF/控制器 API 仓库无证 → 信里只写 CLI/SNMP；10G 汇聚型号无价 → 不写"
+   "gaps": []
   },
   "next_move": {
-   "when": "现在",
-   "channel": "A 邮箱 → kyle@wirestar.net（回到 Marvell Alleycat5 Solution 串）",
-   "action": "发 CENTEC 支持矩阵；回原串沿用原主题（邮件客户端自动加 Re:），上面的主题只在另起新信时用",
-   "one_question": "Kyle — our CENTEC-based line does VXLAN/EVPN and MPLS (no proprietary controller; standard CLI/SNMP); which role would you test first, a 10G/25G aggregation or a 100G spine?"
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Following the 8-port PoE quote we sent last November — if the Dubai project is still open, I can hold that price for 15 days and add the 2 SFP + 4 PoE compact model you asked about earlier; which quantity should I price?"
   },
   "facts": [
    {
-    "date": "2024-06-18",
+    "date": "2024-11-19",
     "dir": "来",
-    "who": "kyle@wirestar.net",
-    "quote": "Is this Poe? Sincerely, Kyle Leissner President & Founder kyle@wirestar.net Direct: (979) 721-9100 Office: (979) 721-9000 WireStar Networks 1902 Pinon",
-    "why": "来信原文（主题「Re: 48 port managed switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
-    "k": "1301f24ebea116b3"
+    "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+    "quote": "用户表跟进：推「引流机型」→ 对方「1120email发了28poe」",
+    "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+    "k": "Clients/A/DONE/阿联酋 沙特阿拉伯  2.3.xlsx no.21 1119"
    },
    {
-    "date": "2024-06-19",
+    "date": "2026-03-27",
     "dir": "去",
-    "who": "Saga（Simon）",
-    "quote": "Hi, Kyle, We got PoE model, please see attached datasheet. Price is 310usd/pc. Thank you.",
-    "why": "历史报价点（主题「Re: 48 port managed switch」；第 20 批从 gmail_s 回补）：310usd",
-    "k": "deda136173372ce7"
+    "who": "A/S 群发",
+    "quote": "Marvell Managed Commercial Switches、8 Port Industrial PoE Switch",
+    "why": "2 封 / 0 次打开 / 0 回｜首封 2024-11-20 → 末封 2026-03-27（2 去 / 0 来）",
+    "k": "gmail_digest"
    },
    {
-    "date": "2025-04-01",
-    "dir": "来",
-    "who": "Kyle Leissner",
-    "quote": "This is interesting. Does it have VXLAN support or MPLS support? Any controller?",
-    "why": "运营商级需求",
-    "k": "3217cb91c0855a86"
-   },
-   {
-    "date": "2025-04-02",
-    "dir": "去",
-    "who": "Alan",
-    "quote": "Sorry, it is not supporting XVLAN or MPLS… I feed this question to GPT and conclusion is as attached.",
-    "why": "关门（未提 CENTEC）",
-    "k": "a444eeb97758ba35"
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "Cisco SFP-10G-LR 25个；2024.8.10 10G MC → 问了2光4；1119 引流机型 → 1120 email发了28poe",
+    "why": "表内备注",
+    "k": "用户表"
    }
   ],
-  "proof_gaps": [],
-  "draft_en": {
-   "subject": "VXLAN / MPLS — CENTEC-based line",
-   "body": "Hi, Kyle,\n\nIn April 2025 you asked whether our switches support VXLAN or MPLS, and Alan said no — that was true for the Marvell AC5 access line.\n\nOur CENTEC-based line does: VXLAN/EVPN, BGP/OSPF, MPLS, MLAG, IPv6, managed by standard CLI/SNMP (no proprietary controller, so it fits whatever automation you run). Priced SKUs today:\n- STH-8C48DX-HSI — 48x25G + 8x100G — $4,800 USD EXW\n- STH-2C6QX-HSI — 6x40G + 2x100G, half-width — $1,200 USD EXW\n- STH-32C-HSI — 32x100G — $6,000 USD EXW\n(2026 Q2 list, MA license pre-installed, hot-swap PSU; valid 15 days.)\n\nOne question: which role would you test first — a 10G/25G aggregation box or a 100G spine?\n\nThank you.\nAlan\nSaga Telecom - sagatele.com"
-  },
+  "proof_gaps": [
+   "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+  ],
+  "draft_en": null,
   "as_of": "2026-10-24"
  }
 }

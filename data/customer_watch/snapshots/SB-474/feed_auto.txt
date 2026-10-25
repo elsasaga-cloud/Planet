@@ -1,8 +1,2 @@
-# SB-474 ngapl.in · feed_auto · https://ngapl.in/?feed=rss2 · fetched 2026-10-25T07:41:18Z · HTTP 200
-Wed, 31 Jul 2024 06:30:42 +0000	Hello world!	https://ngapl.in/?p=1
-Sun, 03 Jan 2016 15:30:10 +0000	We Believe in Building Long Lasting our Business Relationships	https://ngapl.in/?p=257
-Sun, 03 Jan 2016 15:28:21 +0000	Digital technology internships a win for students and businesses	https://ngapl.in/?p=254
-Sun, 03 Jan 2016 15:27:38 +0000	How nations around the world are investing in robotics research	https://ngapl.in/?p=252
-Sun, 03 Jan 2016 15:27:02 +0000	Strategy launched to help increase industrial automation in UK	https://ngapl.in/?p=242
-Sun, 03 Jan 2016 15:26:30 +0000	New commission to build on strength of Midlands manufacturing	https://ngapl.in/?p=243
-Thu, 10 Dec 2015 13:26:53 +0000	Why manufacturers are a particularly juicy target for cyberattack	https://ngapl.in/?p=10720
+# SB-474 casecomms.com · feed_auto · https://www.casecomms.com/feed/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+Thu, 16 Feb 2017 18:34:44 +0000	The Internet of Things is coming with 24 Billion devices connected by 2020, but what of security, is this an opportunity or risk?	https://www.casecomms.com/the-internet-of-things-is-coming-with-24-billion-devices-connected-by-2020-but-what-of-security-is-this-an-opportunity-or-risk/

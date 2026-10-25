@@ -1,6 +1,6 @@
 import csv,re,json,collections
 rows=list(csv.DictReader(open('data/pi_orders/成单客户汇总.csv',encoding='utf-8-sig')))
-manual={'6':'SA-011','9':'SA-007'}
+manual={'6':'SA-006','9':'SB-002'}
 def num(c): return re.match(r'\s*(\d+)',c).group(1)
 def label(c): return re.sub(r'^\d+\s*','',c)
 rows.sort(key=lambda r:int(num(r['客户文件夹'])))
@@ -25,14 +25,14 @@ L.append('| # | 文件夹（Simon 标签） | 买方 | 客户名单编号 | 单�
 L.append('|---|---|---|---|---|---|---|---|---|---|')
 for r in rows:
     n=num(r['客户文件夹']); code=r['客户名单编号'] or manual.get(n,'') or '**未在名单**'
-    if r['客户名单编号'] in ('SA-169','SA-170','SA-171','SB-1334','SB-1335'): code=r['客户名单编号']+'（本轮补录）'
-    if r['客户名单编号']=='SB-1335': code='SA-008（补录档 SB-1335 已于 2026-10-24 并入）'
+    if r['客户名单编号'] in ('SA-078','SA-079','SA-080','SB-1113','旧B-1335'): code=r['客户名单编号']+'（本轮补录）'
+    if r['客户名单编号']=='旧B-1335': code='SB-003（补录档 旧B-1335 已于 2026-10-24 并入）'
     usd=float(r['累计销售USD(单号去重)'] or 0); rmb=float(r['累计销售RMB(货代走账单)'] or 0); pf=float(r['Simon成本统计:利润RMB合计'] or 0)
     L.append('| %s | %s | %s | %s | %s | %s → %s | %s | %s | %s | %s |' % (n, label(r['客户文件夹']), r['买方名称'] or '—', code, r['单号数(CI/PI)'], r['首单'] or '?', r['末单'] or '?', f'{usd:,.0f}', f'{rmb:,.0f}', f'{pf:,.0f}', r['Saga型号集合'][:80]))
 L.append('')
 L.append('## 看点（机械统计，供 Simon 自己判断）\n')
 L.append('1. **真正的量在 4 家**：Angora（TR，USD 61.7k，其中 STSC20250117007 一单 178 台 / USD 47,174）、Biz-Ethics/Mbata（NG，RMB 101k、12 个单号、2024-09 → 2026-08 持续下单，SmartByte+HRUI+Hohunet 三家都采购过）、NYNEX（DE，USD 19.6k，2026-10-06 刚有 20 台 STC-4168XGGCM）、PBA Forever/Peeranun（TH，RMB 37k、6 单，工业 16/24 口 PoE 为主）。')
-L.append('2. **名单里评级偏低的成单客户**：Obmac Systems/Pythias（ZM，SC-349，C 档！一单 265 台 USD 9,350，Simon 成本表利润 RMB 23,118，但 Simon 标 gg）、WIZARDSINC/Raja King（MY，SC-1006，C 档，2026-08 刚下单 RMB 19.6k，Simon 标可发展）、Netaş/Burak（TR，SB-473，B 档，2025-12 首单 USD 545，Simon 标活跃 + NETAS 绑定计划文档）、DELTA Consulting/George（GE，SB-335，gg）。')
+L.append('2. **名单里评级偏低的成单客户**：Obmac Systems/Pythias（ZM，SB-1120，C 档！一单 265 台 USD 9,350，Simon 成本表利润 RMB 23,118，但 Simon 标 gg）、WIZARDSINC/Raja King（MY，SA-090，C 档，2026-08 刚下单 RMB 19.6k，Simon 标可发展）、Netaş/Burak（TR，SA-086，B 档，2025-12 首单 USD 545，Simon 标活跃 + NETAS 绑定计划文档）、DELTA Consulting/George（GE，SB-375，gg）。')
 L.append('3. **不在名单里的成单客户 5 家**：James Clendenan Systems（CA，USD 6.7k，4 单，活跃）、Biz-Ethics Ltd（NG，belnetworks.com，活跃）、PBA Forever Technology（TH，活跃）、Fastball（IN，2023，gg）、Rio-Import LLC（RU，2024，gg）→ 需 `补录客户.jsonl`。')
 L.append('4. **采购侧**：99 份采购合同里有 SmartByte 的 RMB 进价（如 LT-IS6318GP-2GX16GT = STI-21616DGGPM 1,227 RMB/台（2024-05，裸板）、LT-S8328GP-4GX24GT-S = BNSC-424DGGPM 750 RMB/台（2024-12）），可与 `data/价格主表.csv` 对账；`单号对照.csv` 里能对上的单给出毛利估算（仅 USD 单据）。')
 L.append('5. **Simon 自己的分类是最硬的信号**：活跃 6 / 可发展 7 / gg 7，建议直接写入档案（成交过·活跃 / 成交过·可发展 / 成交过·已凉），不再靠邮件推断。')
@@ -45,7 +45,7 @@ L.append('- `data/pi_orders/单号对照.csv` — 同一单号：销售 vs 采�
 L.append('- `data/pi_orders/成单客户汇总.csv` — 本表的数据源')
 L.append('- `data/pi_orders/_parse_report.md` — 未解析出明细的 60 个文件（基本是 PDF 副本，同单号都有 xls 原件）')
 L.append('\n## 待办（PR-02-25 下一步）\n')
-L.append('- [x] 5 家补录（SA-169 James Clendenan Systems、SA-170 Biz-Ethics、SA-171 PBA Forever、SB-1334 Fastball、SB-1335 Rio-Import）；Simon 标签写入档案（`Simon:活跃/可发展/gg` 标签 + 状态）；定级规则：活跃/可发展 → A，gg → B（成交过·慢慢跟进），人工定级.csv 仍优先（T29-U8，`build.py` PI 覆盖）')
+L.append('- [x] 5 家补录（SA-078 James Clendenan Systems、SA-079 Biz-Ethics、SA-080 PBA Forever、SB-1113 Fastball、旧B-1335 Rio-Import）；Simon 标签写入档案（`Simon:活跃/可发展/gg` 标签 + 状态）；定级规则：活跃/可发展 → A，gg → B（成交过·慢慢跟进），人工定级.csv 仍优先（T29-U8，`build.py` PI 覆盖）')
 L.append('- [x] 20 份成单客户档案新增「成交记录（PI 包 · 自动汇总）」节（`render.py fmt_pi`：单号/日期/单据/型号/数量/金额/采购/Simon 成本表）')
 L.append('- [ ] 采购合同进价 vs `价格主表.csv` 对账（SmartByte 进价是否变动）')
 open('docs/成单客户_PI复盘_2026-10.md','w',encoding='utf-8').write('\n'.join(L)+'\n')

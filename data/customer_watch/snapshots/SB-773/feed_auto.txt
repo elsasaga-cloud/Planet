@@ -1,0 +1,21 @@
+# SB-773 microseven.com · feed_auto · https://blog.microseven.com/feed/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+Tue, 24 Feb 2026 02:03:18 +0000	Microseven IP Camera Installation Guide – SD Card, WiFi Antenna, Power & Mounting	https://blog.microseven.com/microseven-ip-camera-installation-guide-sd-card-wifi-antenna-power-mounting/
+Sun, 22 Feb 2026 20:04:40 +0000	How to Clear All Preset Positions	https://blog.microseven.com/how-to-clear-all-preset-positions/
+Thu, 19 Feb 2026 20:06:55 +0000	AI Auto Tracking Setup Guide – 14X Optical Zoom PTZ Camera (M7D4K-PTZV14X-WPSAA | M7D5MP-PTZV14X-WPSAA)	https://blog.microseven.com/ai-auto-tracking-setup-guide-14x-optical-zoom-ptz-camera-m7d4k-ptzv14x-wpsaa-m7d5mp-ptzv14x-wpsaa/
+Thu, 19 Feb 2026 03:43:57 +0000	AI Auto Tracking Setup Guide – 4MP Indoor PTZ Camera (M7D4MP-PTZ4X-WPSAA)	https://blog.microseven.com/ai-auto-tracking-setup-guide-4mp-indoor-ptz-camera-m7d4mp-ptz4x-wpsaa/
+Sun, 08 Dec 2024 12:31:13 +0000	how to disable auto-focus in ptz cameras	https://blog.microseven.com/how-to-disable-auto-focus-in-ptz-cameras/
+Thu, 26 Sep 2024 01:04:48 +0000	Gmail SMTP Server Setup Guide for Sending Alert Emails	https://blog.microseven.com/gmail-smtp-server-setup-guide-for-sending-alert-emails/
+Tue, 24 Sep 2024 23:21:14 +0000	how to fix M7D4MP-PTZ4X-WPSAA ptz camara image orientation	https://blog.microseven.com/how-to-fix-m7d4mp-ptz4x-wpsaa-ptz-camara-image-orientation/
+Thu, 22 Aug 2024 02:07:21 +0000	how to post your live stream to youtube	https://blog.microseven.com/how-to-post-your-live-stream-to-youtube/
+Mon, 17 Jun 2024 17:31:30 +0000	4mp ptz camera for indoor and outdoor	https://blog.microseven.com/4mp-ptz-camera-for-indoor-and-outdoor/
+Wed, 13 Mar 2024 04:35:29 +0000	4mp ptz camera ptz control commands	https://blog.microseven.com/4mp-ptz-camera-ptz-control-commands/
+Wed, 28 Feb 2024 18:33:06 +0000	how to change the camera username and password in cms	https://blog.microseven.com/how-to-change-the-camera-username-and-password-in-cms/
+Wed, 28 Feb 2024 05:22:39 +0000	How to disable (red/yellow) frame on the live video feed	https://blog.microseven.com/how-to-disable-red-yellow-frame-on-the-live-video-feed/
+Fri, 23 Feb 2024 06:12:44 +0000	How to set Microseven NVR	https://blog.microseven.com/how-to-set-microseven-nvr/
+Thu, 22 Feb 2024 23:46:12 +0000	How to set a free cloud for 14 days for four cameras	https://blog.microseven.com/how-to-set-a-free-cloud-for-14-days-for-four-cameras/
+Wed, 24 Jan 2024 19:03:36 +0000	How to fix PTZ camera orientation settings	https://blog.microseven.com/how-to-fix-ptz-camera-orientation-settings/
+Sat, 13 Jan 2024 18:35:58 +0000	14x optical PTZ network camera firmware updates (4k/8mp and 5mp hardware)	https://blog.microseven.com/14x-optical-ptz-network-camera-firmware-updates-4k-8mp-and-5mp-hardware/
+Sun, 31 Dec 2023 00:58:34 +0000	How to program optical PTZ speed dome camera, ip camera, security camera	https://blog.microseven.com/how-to-program-optical-ptz-speed-dome-camera-ip-camera-security-camera/
+Sat, 23 Dec 2023 18:37:00 +0000	How to set up camera wifi via cam hotspot using an iphone	https://blog.microseven.com/how-to-setup-camera-wifi-via-cam-hotspot-using-a-phone-2/
+Fri, 08 Sep 2023 22:54:18 +0000	youtube live channel url	https://blog.microseven.com/youtube-live-channel-url/
+Sun, 12 Jun 2022 14:06:09 +0000	How To Use Special RECALL Command For PTZ Camera	https://blog.microseven.com/how-to-use-special-recall-command-for-ptz-camera/

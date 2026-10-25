@@ -1,0 +1,81 @@
+{
+ "code": "SC-067",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（eltexcm.ru，快照 2026-10-21）",
+ "summary": "俄罗斯 Eltex CM（「Элтекс Коммуникации」官方经销商：俄产 Eltex 交换机 MES / 路由 ESR / GPON / VoIP / SFP；表内「switch 没办法突破」；KP Dmitry Kozlov（Project Manager））；表内无跟进记录。",
+ "type": "俄产品牌 Eltex 专营经销商",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Eltex - Российское сетевое и телекоммуникационное оборудование купить в Москве по выгодной；品类词 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "Официальный дилер «Элтекс Коммуникации» предлагает купить сетевое и телекоммуникационное оборудование российского производства Eltex: MES, ESR, SMG, TAU, WEP, WOP, SFP. Российское оборудование из реестра ЕРРРП. Статус ТОРП. Техподдержка 24/",
+   "url": "https://eltexcm.ru/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "switch 没办法突破",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Eltex 官方经销商（俄产设备）",
+   "quote": "Официальный дилер «Элтекс Коммуникации» предлагает купить сетевое и телекоммуникационное оборудование российского производства Eltex: MES, ESR, SMG, TAU, WEP, WOP, SFP.",
+   "url": "https://eltexcm.ru/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "switch 没办法突破",
+   "quote": "switch 没办法突破",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Dmitry Kozlov",
+   "title": "Project Manager",
+   "email": "d.kozlov@eltexcm.ru",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
+ "grade_override": "C",
+ "override_reason": "专营俄产品牌（Eltex 官方经销商）、俄区、用户表「没办法突破」；c_sub=专营品牌无切入点",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "俄罗斯",
+  "other": "官网 eltexcm.ru，语言 ru，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "Eltex 交换机 / GPON / 路由 / VoIP 经销"
+ ],
+ "channels": {
+  "role": "俄产品牌 Eltex 专营经销商",
+  "region": "俄罗斯",
+  "contact": "d.kozlov@eltexcm.ru"
+ },
+ "signals": [
+  "官网：Официальный дилер «Элтекс Коммуникации» … оборудование российского производства Eltex: MES, ESR, SMG, TAU, WEP, WOP, SFP"
+ ],
+ "risks": [
+  "专营俄产 Eltex：采购导向为国产替代，白牌无切入点",
+  "俄罗斯：结算/物流受限；用户表「没办法突破」"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 25,
+  "why": "专营俄产 Eltex（国产替代政策导向）+ 用户表「没办法突破」+ 俄区结算受限 → 改 C"
+ },
+ "email_hook": "（不发送：专营俄产品牌，无法突破）"
+}

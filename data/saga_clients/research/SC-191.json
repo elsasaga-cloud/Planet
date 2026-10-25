@@ -1,0 +1,76 @@
+{
+ "code": "SC-191",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（foscam.eu，快照 2026-10-21）",
+ "summary": "Foscam.eu（Foscam 欧洲站/总代：Foscam 品牌 Wi-Fi/PoE 摄像机与 NVR 套装 FNA108E-B4-2T / FN9108HE；表内「自己的牌子」）；表内无跟进记录。",
+ "type": "中国品牌（Foscam，深圳）欧洲总代",
+ "size": "",
+ "brands_seen": [
+  "Hikvision",
+  "Dahua"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Foscam.eu；品类词 安防监控（CCTV / 门禁） / 无线 / WiFi / 网络交换 / PoE",
+   "quote": "Welcome to the Foscam EU website!",
+   "url": "https://www.foscam.eu/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "自己的牌子",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Foscam.eu 首页",
+   "quote": "Foscam.eu | Homepage ; Welcome to the Foscam EU website! ; Now available: Foscam C8M, 4K/8MP dual-band Wi-Fi indoor camera",
+   "url": "https://www.foscam.eu/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "自己的牌子",
+   "quote": "自己的牌子",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "专营中国品牌（Foscam 深圳）欧洲总代，PoE 由原厂配套，无切入点；c_sub=专营品牌无切入点",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "欧洲（国别未填）",
+  "other": "官网 foscam.eu，语言 en，快照状态 ok；角色判定来源：用户表"
+ },
+ "business_lines": [
+  "Foscam 品牌摄像机 / NVR 套装欧洲分销"
+ ],
+ "channels": {
+  "role": "中国品牌（Foscam，深圳）欧洲总代",
+  "region": "欧洲（国别未填）",
+  "contact": "info@foscam.eu"
+ },
+ "signals": [
+  "官网：Welcome to the Foscam EU website! ; Now available: Foscam C8M；站内 FNA108E-B4-2T / FN9108HE / FNA216HE；kw camera 57 / poe 32 / distributor 14",
+  "表内：自己的牌子"
+ ],
+ "risks": [
+  "专营品牌：Foscam（深圳）欧洲总代，PoE NVR 套装由原厂配套，无白牌切入"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 30,
+  "why": "专营深圳 Foscam 品牌（套装含 PoE 由 Foscam 原厂配套），白牌无切入 → 改 C"
+ },
+ "email_hook": "（不发送：专营中国品牌无切入点）"
+}

@@ -1,8 +1,16 @@
-# SB-744 troyykontrol.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCLyVARkmpXlQNiMICrTlfjg · fetched 2026-10-25T07:41:18Z · HTTP 200
-2018-04-16T18:52:52+00:00	Tam Boy Turnike Avrupa Birliği Türkiye Delegasyonu	https://www.youtube.com/watch?v=ICe3RAS-wHk
-2017-08-31T22:00:05+00:00	Hızlı Geçiş Turnikesi ve Yüz tanıma Sistemi	https://www.youtube.com/watch?v=6NVUsWmaOMs
-2017-05-27T13:15:59+00:00	OTOPARK GEÇİŞ SİSTEMLERİ	https://www.youtube.com/watch?v=49D2UFJaPWQ
-2017-05-06T11:11:26+00:00	Turnike Sistemleri Bağdat Baharat	https://www.youtube.com/watch?v=bBv3U69lMas
-2016-10-21T10:01:49+00:00	Turnike Sistemleri, Parmak İzi Okuyucu, Kartlı Geçiş Sistemi Tanıtım Filmimiz	https://www.youtube.com/watch?v=9PcGuAouKB4
-2016-04-17T10:55:41+00:00	Troyy Geçiş Kontrol Sistemleri Tanıtım Filmi	https://www.youtube.com/watch?v=2wFWrvCSofU
-2016-04-15T20:08:51+00:00	Troyy Kontrol	https://www.youtube.com/watch?v=WIaSgelYDQk
+# SB-744 commandonetworks.com · youtube · https://www.youtube.com/@commandonetworks · fetched 2026-10-25T07:41:18Z · HTTP 200
+2025-08-16T12:03:58+00:00	E300-4GP-2SFP -- COMMANDO 4+2 GigE 65W Full PoE/PoE+ Switch w/ 2SFP Uplinks #switch #poeswitch	https://www.youtube.com/shorts/qGDopqarnPk
+2025-08-16T11:59:23+00:00	E300-4GP-2G -- COMMANDO 4+2 GigE 65W Full PoE/PoE+ Switch w/ 2G Uplinks #switch #poeswitch	https://www.youtube.com/shorts/nOyWVfavnoY
+2025-08-16T11:55:22+00:00	C2000-8SFP-4CF -- COMMANDO L2+ Managed Fiber Switch #switch #fiber #sfp	https://www.youtube.com/shorts/RK4E43Nw1T0
+2025-08-16T11:38:23+00:00	E300-4GP-2SFP -- COMMANDO 4+2 Gigabit 65W Full PoE/PoE+ Switch w/ 2SFP Uplinks	https://www.youtube.com/watch?v=uJ8GOMouTfY
+2025-08-16T11:32:54+00:00	E300-4GP-2G -- COMMANDO 4+2 Gigabit 65W Full PoE/PoE+ Switch w/ 2G Uplinks	https://www.youtube.com/watch?v=YcIFloUdIh0
+2025-08-16T11:10:38+00:00	C2000-8SFP-4CF -- COMMANDO L2+ Managed Fiber Switch	https://www.youtube.com/watch?v=poJgneBXvrw
+2025-06-05T09:30:21+00:00	AIR-AP3000AX -- COMMANDO AirX 2976Mbps, 802.11ax Wave 2, FIT/FAT, Wi-Fi 6 Cloud Access Point	https://www.youtube.com/watch?v=d-lH56AOrXg
+2025-05-28T17:35:56+00:00	COMMANDO Networking Products - Huge Stock Ready to Ship anytime...	https://www.youtube.com/watch?v=KsPlzF2Y9K4
+2025-05-28T13:15:25+00:00	COMMANDO RJ45 Connectors - Gold Plated, Heavy Duty Performance - CAT5e CAT6 CAT7 CAT8 - UTP FTP...	https://www.youtube.com/shorts/AANw62YfMsE
+2025-05-28T12:51:06+00:00	COMMANDO Managed PoE Routing Switches for high performance heavy duty enterprise networking...	https://www.youtube.com/shorts/HwwGnUqkl18
+2025-05-28T12:45:02+00:00	COMMANDO Switches - High Performance Heavy Duty Networking Switches.	https://www.youtube.com/shorts/JqULgXGmUM0
+2025-04-24T16:13:55+00:00	COMMANDO Networks Live Stream	https://www.youtube.com/watch?v=NR2plEuYGaA
+2025-04-24T11:46:08+00:00	E1000-24GP-4SFP --- COMMANDO Scout E1000 24GE Full PoE/PoE+, 4SFP Uplinks, 450W, Unmanaged Switch	https://www.youtube.com/watch?v=TCCo_p5p3JQ
+2025-04-24T11:22:24+00:00	CAT7-RJ45-FTP -- COMMANDO CrystalX Cat7 RJ45 Shielded Pass-Through Connector, 100/Pack	https://www.youtube.com/watch?v=JPCMfFI4yPs
+2025-04-24T11:13:19+00:00	CAT6-RJ45-FTP-PT -- COMMANDO CrystalX Cat6 RJ45 Shielded Pass-Through Connector, 100/Pack	https://www.youtube.com/watch?v=oQcnNhHiH4E

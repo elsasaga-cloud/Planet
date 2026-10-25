@@ -1,0 +1,172 @@
+# SB-162 optigo.net · news_1 · https://www.optigo.net/blog/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+Blog Archive | Optigo Networks
+Skip to content
+Products
+Close Products
+Open Products
+OptigoVN
+AI Assistant
+Partner Program
+Tools & Integrations
+Use Cases
+Close Use Cases
+Open Use Cases
+System Integrators
+Building Owners & Operators
+Embedded Technology Partners
+Pricing
+Resources
+Close Resources
+Open Resources
+Blog
+Case Studies
+OT Insights Library
+BACnet Basics Course
+Tech Spec Sheets
+Support
+Company
+Close Company
+Open Company
+Leadership
+Careers
+Contact
+Request Free Trial
+Search ...
+Results
+See all results
+|
+Login
+Request a Free Trial
+Discover Stories That Matter
+Real-world know-how on BACnet, OT networks, and building automation from Optigo’s in-house experts. How-tos, troubleshooting, and previews of the tech reshaping smart buildings.
+Browse by topic
+Announcements
+BACnet Terminology
+Business Best Practices
+Case Studies
+Cybersecurity
+Energy Efficiency
+Guest Post
+Network Management
+OptigoVN
+Podcast
+Troubleshooting Tips
+Uncategorized
+Video
+Webinars
+Remove filters
+Why Optigo Didn’t Just Bolt a Chatbot Onto OptigoVN
+If you can paste a BACnet error into Claude or ChatGPT for free, why would you pay for help from...
+Read More >
+OptigoVN
+Semantic Tagging in 2026: Project Haystack 5, and What’s Next
+A BACnet point reporting 72.4 could be a zone temperature, a supply air setpoint, or a fan speed. Unless the...
+Read More >
+BACnet Terminology , Network Management
+How to Turn Diagnostics into Action Lists
+Finding the fault is the *easy* part of BACnet troubleshooting. The harder part is what comes after: deciding what matters,...
+Read More >
+Business Best Practices , Troubleshooting Tips
+The MSTP Mistakes Everyone Makes (But You Don’t Have To)
+Discover common BACnet MS/TP troubleshooting issues and troubleshooting tips. Learn how to fix to wiring, configuration, and overload errors....
+Read More >
+Network Management , Troubleshooting Tips
+PACKET CAPTURE BEST PRACTICES FOR OPTIGOVN
+Read our guide to using capture tools to create the perfect packet capture (PCAP) files for use in OptigoVN when...
+Read More >
+Network Management , OptigoVN , Troubleshooting Tips
+What’s In a BACnet Packet Capture?
+Learn how to decode BACnet packet captures for network troubleshooting. Discover expert tips on using OptigoVN to resolve BACnet issues....
+Read More >
+BACnet Terminology , Network Management , Troubleshooting Tips
+IT OT Convergence: 3 Big Reasons IT Pros Should Care
+Discover why IT professionals must understand OT networks for energy efficiency and cybersecurity as IT OT convergence progresses....
+Read More >
+Network Management , OptigoVN , Troubleshooting Tips
+How to Use a BBMD in OT Networks
+BBMDs act as a sort of forwarding service. They’re especially useful on large, complicated networks. A BBMD forwards messages from...
+Read More >
+BACnet Terminology , Network Management
+THE BENEFITS OF COLLABORATIVE TRAINING
+Boost OT network efficiency with collaborative training between facility teams and integrators. Discover benefits and best practices here!...
+Read More >
+Business Best Practices , Network Management
+Stay Updated with Our Latest Posts
+Subscribe our newsletter and get handpicked articles, exclusive insights, and bi-weekly roundups delivered straight to your inbox. No spam, ever.
+Free Forever
+Bi-weekly Digest
+Unsubscribe Anytime
+2000+ Subscribers
+Browse by Topic
+Explore our diverse collection of categories to find content that resonates with you.
+Announcements
+9 articles
+View Topic
+BACnet Terminology
+55 articles
+View Topic
+Business Best Practices
+56 articles
+View Topic
+Case Studies
+10 articles
+View Topic
+Cybersecurity
+15 articles
+View Topic
+Energy Efficiency
+2 articles
+View Topic
+Guest Post
+1 articles
+View Topic
+Network Management
+142 articles
+View Topic
+OptigoVN
+75 articles
+View Topic
+Podcast
+10 articles
+View Topic
+Troubleshooting Tips
+62 articles
+View Topic
+Uncategorized
+10 articles
+View Topic
+Video
+16 articles
+View Topic
+Webinars
+6 articles
+View Topic
+Optigo Networks’ powerful operational technology network monitoring and troubleshooting software keeps your network healthy and resilient, avoiding downtime, while saving you time and money.
+Linkedin-in
+Reddit-alien
+Quick Links
+Home
+OptigoVN
+Blog
+Contact Us
+Home
+OptigoVN
+Blog
+Contact Us
+Company
+Leadership Team
+Careers
+Resources
+Leadership Team
+Careers
+Resources
+© 2026 Optigo Networks Inc. All rights reserved.
+Legal Notice
+Privacy
+OptigoVN Terms of Use
+Legal Notice
+Privacy
+OptigoVN Terms of Use
+Choose Login
+OptigoVN Login
+Visual BACnet Login

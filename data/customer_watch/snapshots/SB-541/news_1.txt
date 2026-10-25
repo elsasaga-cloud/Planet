@@ -1,98 +1,345 @@
-# SB-541 ipcomm.de · news_1 · https://www.ipcomm.de/news_en.html · fetched 2026-10-25T07:41:18Z · HTTP 200
-IPCOMM, News
-The perfect gateway in a snap!
-"> Product Wizard
-Products
-Protocols
-Hardware
-References
-Support SCL Explorer
-RMA
-Tools
-Video Tutorials
-Contact
-Google Search
-English Deutsch (DE)
-English (EN)
-IPCOMM GmbH
-Product Wizard
-Products
-Protocols
-Hardware
-References
-Support
-Contact
-Search Google Search ...
-Language Deutsch (DE) | English (EN)
-Support
-SCL Explorer
-RMA
-Tools
-Video Tutorials
-News
-28/09/2026 IPCOMM at Power Transmission & Distribution Technology Expo 2026 in Cologne
-IPCOMM will be exhibiting at the Power Transmission & Distribution Technology Expo 2026 in Cologne from November 1719, 2026. The international trade show is dedicated to technologies and solutions for modern power transmission and distribution networks. Learn more about our solutions for reliable communication and integration of heterogeneous systems in power networks  at stand 2045!
-03/06/2026 IPCOMM achieves ISO/IEC 27001:2024 certification
-IPCOMM was certified according to DIN EN ISO/IEC 27001:2024 on June 3, 2026. The certification by GUTcert GmbH confirms the effectiveness of our Information Security Management System (ISMS) and reflects our commitment to providing customers and partners with secure and reliable solutions for industrial communication.
-06/11/2025 VDE FNN/ETG TUTORIAL Schutz- und Leittechnik 2026
-IPCOMM will participate as an exhibitor at the VDE FNN/ETG TUTORIAL Schutz- und Leittechnik 2026 , taking place from April 2829, 2026, at the Congress Center Leipzig. Join leading experts as they explore how grid development is shaping protection and control technology for modern power systems.
-11/08/2025 MEC3: The next generation of the Midrange Embedded Controller
-The new MEC3 combines performance and flexibility in a modular design. Whether serial interfaces, additional Ethernet ports, or digital inputs and outputs  thanks to optional expansion modules, the controller can be precisely adapted to project-specific requirements. Its powerful 64-bit ARM quad-core platform and PCIe backplane architecture make it the ideal solution for future-proof automation.
-19/12/2024 IPCOMM at Netzleittechnik 2025 in Hamburg
-This years Consulectra Symposium "Netz­leit­technik 2025" is once more dedicated to the current issues of the energy supply industry in the field of grid management and grid control technology. IPCOMM is again exhibiting at the event in Hamburg on March 25/26, 2025, and invites all par­tici­pants to discuss solutions to today's challenges in grid operation.
-11/04/2024 ERM1: 1-Port Ethernet A/B switch with integrated I/O
-Boost your network reliability and security in critical infrastructures with ERM1 . The remote-controllable network selector ERM1 offers the ability to physically change over Ethernet connections or switch them on or off, enabling precise manage­ment of network traffic and protection against unauthorized access or failures. ERM1 supports 10 Gigabit Ethernet connections and is expected to be available as a hardware module for DIN rail mounting as from Q3 2024.
-11/09/2023 IPCOMM at the Smart Grid Forums IEC Week 2023
-This year's Smart Grid Forums IEC Week 2023 brings together the fields of IEC 61850 for digital substations, OT cybersecurity according to IEC 62443, and the IEC Common Information Model (CIM) for operational systems in a week-long event in Amsterdam from October 16 - 20, 2023. We are excited to be part of this event, which is a great platform to discuss the implementation practices and latest developments in these standards. All attendees are welcome to visit us at our booth during the conference!
-28/04/2023 IPCOMM at the Smart Grid Forums Cybersecurity Week 2023
-We are pleased to be sponsoring the SGF Cybersecurity Week 2023 in Amsterdam. The event draws together power grid CISOs and their IT and OT cybersecurity leads to review recent cybersecurity implemen­tations and collaborate on getting the power grid ahead of the threat. We cordially invite all participants to visit us at the booth during the exhibition from May 16th to 18th 2023!
-14/03/2023 IPCOMM at Netzleittechnik 2023 in Hamburg
-IPCOMM is an exhibitor at the Consulectra Symposium "Netzleit­technik 2023" in Hamburg on March 21st/22nd, 2023. The event is dedicated to the current issues of the power supply industry in the field of network management and network control technology. All participants are cordially invited to learn about our solutions for today's challenges in grid operation.
-22/12/2022 ipConv/Cloud: Protocol conversion at the edge and in the cloud
-With ipConv/Cloud we present the newest product in our ipConv product family. ipConv/Cloud enables the deployment of protocol conversion services in the cloud and on Linux-based devices. Besides additional security procedures for multi-factor authentication, ipConv/Cloud supports the integration of Serial Device Servers for serial communication via Ethernet.
-28/10/2022 New protocol stacks BACnet, Client and BACnet, Server available
-From now on the protocol stacks BACnet, Client and BACnet, Server are available for our universal communication solutions. BACnet is a global communication standard for building automation and control networks, which has been defined by the ASHRAE (American Society of Heating, Refrigerating and Air-Conditioning Engineers).
-18/06/2021 ipELB: The 4-Port Ethernet Line Breaker
-Physically disconnect Ethernet connections with the Ethernet Line Breaker ipELB . This new solution for cybersecurity in industrial networks offers you full control over your network infrastructure. ipELB enables reliable automation of four 10 Gigabit Ethernet ports via standardized protocols and an integrated digital I/O module.
-23/02/2021 SEC3M: 4G LTE Cellular Gateway
-The new SEC3M hardware model complements our family of the SEC3x Embedded Controllers with a device equipped with a 4G LTE cellular modem, and is available in combination with products ipRoute , ipConvLite and ip4Cloud . Enabling the worldwide connection of communication partners beyond the boundaries of heterogeneous networks, it stands out with its secure and reliable wireless communication.
-09/07/2020 Major Release ipConv 4.0 Launched
-Discover our gateway software ipConv 4, which is supporting you in communication tasks with many new features. Recurring tasks are significantly simplified by the new, dynamic web interface. Advanced interaction techniques, optimized loading times, and improved clarity provide the perfect foundation for efficient workflows.
-More information can be found in the following article .
-04/12/2019 IPCOMM at SPS 2019 in Nuremberg
-This year again we were present at the SPS - Smart Production Solutions 2019 in Nuremberg. The international exhibition for automation, control and drive technology offers the perfect platform for professional discussion between experts from all fields of smart and digital automation.
-[Image: Mesago Messe Frankfurt GmbH / Mathias Kutt]
-15/07/2019 Protocol Conversion with VMware Workstation or VMware ESXi
-The new product ipConv/VM expands our current portfolio with a protocol conversion system for virtual machines. Unleash the full functionality of our powerful ipConv communication systems on your existing VMware environment.
-01/12/2018 IPCOMM at SPS IPC Drives 2018 in Nuremberg
-For the third time IPCOMM was part of the SPS IPC Drives , which again took place in Nuremberg. The international trade fair for smart and digital automation once again dedicated its attention to industry 4.0 and digital change.
-26/10/2018 Successful tests with OPC UA 1.02, Client and OPC UA 1.02, Server
-IPCOMM attended this year's OPC Interoperability Workshop , which took place from 22nd to 26th October in Nuremberg, Germany. The annual event is addressed to manufacturers of OPC UA products to test hardware and software components for interoperability, conformity and reliability.
-As part of the workshop, the protocol stacks OPC UA 1.02, Client and OPC UA 1.02, Server were successfully tested with devices from other manufacturers.
-10/08/2018 Quick Selection of the Ideal Gateway with the New Configurator
-Benefit from our new product configurator , which supports you in finding the ideal gateway for your needs. Desired protocols can be selected, and project-specific requirements taken into consideration, in just three steps. Gain insight into our portfolio and find the suitable solution for your project. With the introduction of the configurator, a new pricing model comes into effect to enable attractive, performance-based pricing.
-10/05/2018 New protocol stack OPC UA, Client available
-We are proud to announce the release of the OPC UA Client protocol stack from the OPC UA protocol family. OPC UA was specified by the OPC Foundation, and is considered a trailblazer for industry 4.0 and the Internet of Things (IoT).
-01/12/2017 IPCOMM at SPS IPC Drives 2017 in Nuremberg
-For the second time IPCOMM was part of the SPS IPC Drives , which took place in Nuremberg this year. The international platform shows trailblazing technologies of the automation industry and offered the ideal framework for networking with IOT experts from all over the world.
-10/07/2017 Positive feedback of this year's customer survey
-We would like to thank you for the very positive feedback of this year's customer survey. 91 percent of the survey participants assessed IPCOMM products better than competing products, 36 percent even much better; our service was also assessed better than competitors (90 percent), 55 percent even much better. 83 percent of the participants would recommend us without reservations. Of course, we also received only a few critical comments on which we are intensively working.
-20/12/2016 Free webinars on our product portfolio and range of services
-We will be glad to give you the information about our product portfolio and our range of services in a free webinar , live and online. Or you decide to participate in a first-hand basic course or expert training that meet your individual situation and requirements.
-25/10/2016 IPCOMM at IEC 61850 Europe in Amsterdam
-For the second time, IPCOMM participated as exhibitor in IEC 61850 Europe 2016 in Amsterdam. This conference is an ideal networking forum for IEC 61850 experts from all over the world.
-01/08/2016 New PROFIBUS-DP and PROFIBUS-IO (master/slave) gateways
-Now, our product spectrum comprises gateways with integrated PROFIBUS-DP master or slave interface as well as gateways with PROFINET-IO master or slave interface. ipConvPBM , ipConvPBS , ipConvPNS and soon ipConvPNM are based on ipConvLite and are available together with the hardware platform MEC2 PROFIBUS or MEC2 PROFINET .
-22/02/2016 VPN Solution IPsec and OpenVPN are supported by all platforms (>ipLinux OS 3.5.5)
-From ipLinux OS version 3.5.5 on the VPN solutions IPsec and OpenVPN are supported by all platforms.
-15/02/2016 MEC2PB and MEC2PN replace HEC2PS and HEC2PM
-As a device with Profibus or Profinet interface the high performance controllers MEC2 PROFIBUS and MEC2 PROFINET replace the so far used HECPS and HECPM .
-17/11/2015 Successful tests with OPC UA 1.02, Server
-At a workshop of the OPC foundation® from 2 nd to 6 th of November 2015 in Nuremberg, OPC UA 1.02, Server was successfully tested with OPC clients of other producers .
-29/07/2015 Security enhancements according to IEC 62351
-Protocol stack security enhancements based on IEC 60870-5-104 and IEC 61850 according to the standard IEC 62351
-27/07/2015 New embedded controller MEC2 with fivefold performance
-We are launching MEC2 . The embedded controller impresses with the fivefold performance compared to the predecessor and further considerable features. Optionally available with 3G/GPRS module.
-12/05/2015 Fourth version of our proven industrial PC IPC191
-The IPC191V4 19" 1U , fourth and latest version of our proven industrial PC, is up to three times faster than its predecessor and captivates with a significantly higher processor performance and many more interfaces.
-04/05/2015 Third generat
+# SB-541 kbcnetworks.com · news_1 · https://kbcnetworks.com/news-events/blog · fetched 2026-10-25T07:41:18Z · HTTP 200
+KBC Networks - BLOG
+PRODUCTS
+NETWORK SWITCHES
+THRULINK HARDWARE VPN
+ECOPPER
+SFP MODULES
+MEDIA CONVERTERS
+WIRELESS ETHERNET SYSTEMS
+MOBILE SURVEILLANCE
+POWER SOLUTIONS
+FIBER SOLUTIONS
+KBC NEXUS™
+NEW
+Secure Infrastructure Networking and Management Platform
+Find out more
+NEW
+NEW IP and PoE++ over Coax with up to 90W PoE and over 1km distance
+Find out more
+SOLUTIONS
+REFERENCES
+CASE STUDIES/APPLICATIONS
+BROCHURES & INFOSHEETS
+SUPPORT
+SATISFACTION SURVEY
+CELLULAR APNS
+DESIGN & SUPPORT
+SWITCH COMPARISON
+SOLAR & BATTERY ESTIMATOR
+DOWNLOAD RESOURCES
+NEWS & EVENTS
+BLOG
+KBC BLOG
+LATIN AMERICA
+EVENTS
+JOIN OUR NEWSWIRE
+Webinars
+CONTACT
+KBC OFFICES
+North America Reps
+Search
+13 Jul 2022
+3 HPoE and PoE+ Switches You Should Know About
+Ask an end user to name key components of their security systems and it is a safe bet power products may not make the list. Yet as systems integrators know full well, power solutions are an essential piece to each installation — be it for video surveillance, intrusion, access control, fire/life-safety and more.
+Continue Reading
+22 Apr 2025
+5 Things to Know About Our Mobile Surveillance System (MSS)
+One of the benefits of advancing technology in the video surveillance realm is the ability to deploy portable security units at sites that lack infrastructure, require rapid deployment, are temporary, or a combination of these factors. We have taken great care in designing a Mobile Surveillance System (MSS) that provides the “eyes and ears” to monitor and record what’s happening in real-time.
+Continue Reading
+08 Jun 2022
+How ThruLink™ Enhances Advantages of SD-WAN
+Since entering the public domain in 2014, the software-defined wide area network (SD-WAN) has earned widespread favor for reducing costs related to the more conventional multiprotocol label switching (MPLS) and other broadband connections.
+SD-WAN centralizes control in the Cloud, helping installing security contractors provide increased flexibility and edge-based operation to their video systems clientele. Yet despite numerous networking advantages, such as WAN simplification and increased application performance, ahead, we're going to explain how to achieve even greater rewards utilizing SD-WAN.
+Continue Reading
+01 Jun 2026
+Por qué hay un puerto SFP en el receptor eCopper™ Ethernet sobre coaxial de 4 canales?
+Una práctica común durante muchos años ha sido la transmisión de video análogo desde varias cámaras a través de cables de fibra óptica. El más utilizado fue un multiplexor de 4 canales, que transmite hasta 4 cámaras a través de un cable de fibra óptica multimodo o monomodo estándar para distancias de transmisión extendidas. Este tipo de aplicación se encuentra en todo el mundo y se sigue encontrando donde se utilizan sistemas con cámaras análogas.
+Continue Reading
+22 Apr 2025
+Tres Switches PoE+ Y HiPoE Que Debe Conocer
+Pídale a un usuario final que nombre los componentes clave de sus sistemas de seguridad y es muy probable el tema de alimentación no sea de los primeros de la lista. Sin embargo, como bien saben los integradores de sistemas, la alimentación eléctrica de los equipos una pieza esencial para cada instalación, ya sea para videovigilancia, intrusión, control de acceso, seguridad contra incendios entre otras.
+Continue Reading
+04 May 2025
+Why ThruLink™ Is the Best Choice for Live, In-Vehicle Video Transmission
+Today’s live video transmission requirements for in-vehicle applications are presenting numerous opportunities for security dealers and systems integrators.
+Police transmit live video from both parked and moving vehicles to other vehicles and base stations, as well as the main control room. Fire departments leverage live video feeds from firetrucks, as do paramedics and ambulances. Of course, these use cases are not limited to just emergency services. The delivery of high value goods, cash-in-transit services and petrochemical transport are a few other examples where vehicle-based video transmission is proving highly beneficial to meeting security requirements while providing newfound business efficiencies.
+ThruLink™ to the Rescue!
+Continue Reading
+02 May 2025
+5 razones por las que a nuestros clientes les encanta eCopper™
+Nuestra línea de productos eCopper le permite utilizar el cableado coaxial y de par trenzado existente para convertir un sistema analógico en un sistema IP. eCopper está diseñado específicamente para los entornos más exigentes, con características que lo hacen ideal para su uso en aplicaciones de videovigilancia IP además como algunas aplicaciones industriales. Aquí hay cinco cosas que debe saber sobre eCopper. .
+Continue Reading
+27 Mar 2025
+ASFOM: Fiber Optics Ingenuity
+Fiber optic cable plays a starring role in helping integrators deploy some video systems, especially those with long distances from the camera to the headend. Fiber optic links allow for massive bandwidth capacities and immunity from Electro-Magnetic Interference (EMI) and Radio Frequency Interference (RFI).
+Continue Reading
+03 May 2025
+How to Choose the Right Switch Every Time
+Selecting an industrial-grade transmission device for security applications can seem confusing with so many options to choose from. For those times when you just need a quick reference guide, here is a checklist that will help you quickly identify what kind of switch you need.
+Continue Reading
+22 Apr 2025
+Power over Ethernet (PoE): KBC Switch Options
+When the IEEE first introduced Power over Ethernet (PoE) to the marketplace in 2003, it created quite a buzz throughout the electronics world over newfound systems possibilities and project cost savings. For security integrators, the ability to use a single Cat-5 cable to pass power and transmit data meant IP cameras and other edge devices could now be readily deployed. No longer were power supplies and related infrastructure needed to be installed in tandem at the site of these deployments.
+Continue Reading
+02 May 2025
+Why Fiber?
+If you're reading this right now, you have fiber optics to thank. Though more than 300 million miles (500 million km) of optical fibers are made annually, we rarely stop to think about what life would be like without them.
+Continue Reading
+03 May 2025
+Wireless Design and Peace of Mind
+“How much time should I budget for installing the wireless systems on this project?”
+Wireless transmission devices allow you to create a wireless network over almost any terrain. Point-to-point configuration lets you circumvent obstacles, and point-to-multipoint enable complex wireless systems with multiple remote clients transmitting back to a single unit. The possibilities are near endless .
+Continue Reading
+02 May 2025
+5 Reasons Our Customers Love eCopper™
+​ Our eCopper product line lets you utilize existing coax and twisted pair cabling found in legacy systems, converting an analog system to an IP system. It's specifically designed for the most demanding environments, with features that make it ideal for use in complex industrial and IP video surveillance applications. Here are five things you should know about eCopper.
+Continue Reading
+27 Mar 2025
+Empowering Security with KBC's Mobile Surveillance System (MSS)
+In today’s dynamic security landscape, safeguarding assets and ensuring the safety of individuals is paramount. The KBC Networks MSS units represent a versatile solution offering dynamic surveillance and monitoring capabilities that are adaptable to various applications.
+Continue Reading
+04 May 2025
+How to Harness the Sun to Power Remote Locations
+There is a simple solution for remote locations in need of video surveillance systems that otherwise lack connectivity and power: The sun.
+For installing security contractors, the prospects of deploying surveillance hardware at a remote site likely conjures an uneasy conversation with the end customer — alerting them to the necessity for expensive trenching and wire-pulling to position cameras at distant endpoints.
+Continue Reading
+06 Apr 2025
+Power over Ethernet (PoE): Propuesta de switches de KBC Networks
+Cuando la asociación IEEE (Institute of Electrical and Electronics En gineers) introdujo por primera vez Power over Ethernet (PoE) en el mercado en 2003, creó un gran revuelo en todo el mundo de la electrónica sobre las nuevas posibilidades de los sistemas ethernet, así como ahorro en los costos de los nuevos proyectos.
+Continue Reading
+02 May 2025
+Why is there an SFP port on the 4-channel Ethernet over Coax Receiver?
+A common practice for many years has been transmitting analog video from multiple cameras over fiber optic cables. Most commonly used was a 4-channel multiplexer, which would transmit up to 4 cameras over standard Multimode or Singlemode fiber optic cable for extended transmission distances. This type of application is found worldwide and continues to be found where analog cameras are required.
+Continue Reading
+About KBC Networks
+KBC Networks manufactures secure, industrial transmission and power solutions for a wide range of applications and markets.
+Quick Links
+Satisfaction Survey
+Quality Information
+Privacy & Cookie Policy
+Terms & Warranty
+NDAA Compliance
+KBC Offices
+Login
+Contact KBC
+USA
++1 949 503 3470
++1 888 366 4276
+EMEA
++44 (0)1553600001
+LATAM
++52 33 3148 3286
+APAC
++86 25 5882 1656
+Latest Brochure
+© 2026 KBC Networks
+Search
+Sign In
+PRODUCTS
+column 1
+NETWORK SWITCHES
+THRULINK HARDWARE VPN
+ECOPPER
+SFP MODULES
+MEDIA CONVERTERS
+column 2
+WIRELESS ETHERNET SYSTEMS
+MOBILE SURVEILLANCE
+POWER SOLUTIONS
+FIBER SOLUTIONS
+KBC NEXUS™
+Column 3
+SOLUTIONS
+REFERENCES
+CASE STUDIES/APPLICATIONS
+BROCHURES & INFOSHEETS
+SUPPORT
+SATISFACTION SURVEY
+CELLULAR APNS
+DESIGN & SUPPORT
+SWITCH COMPARISON
+SOLAR & BATTERY ESTIMATOR
+DOWNLOAD RESOURCES
+NEWS & EVENTS
+BLOG KBC BLOG
+LATIN AMERICA
+EVENTS
+JOIN OUR NEWSWIRE
+Webinars
+CONTACT
+KBC OFFICES
+North America Reps
+Simulation Hub
+×
+Ask a Question
+Select Region
+USA and Canada
+Latin America
+EMEA
+Asia Pacific
+China
+Please select Subject
+Wireless
+Solar
+Network Switches
+Media Converters
+Power Solutions
+MSS
+Fiber Optic
+ThruLink
+Other subject not listed
+Submit
+reCAPTCHA *
+This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+Name
+×
+KBC Employee Registration
+Employee Portal Registration
+Enter your full name *
+Your KBC email address
+(this is your username) *
+Set your password (min 8 characters, 1 number,1 symbol, 1 uppercase) *
+Month you started at KBC *
+Year you started at KBC *
+Day of your birthday *
+Month of your birthday *
+Mobile number *
++1
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bonaire
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+Brunei Darussalam
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo
+Cook Islands
+Costa Rica
+Cote d'Ivoire
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Democratic Republic of the Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands (Malvinas)
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Holy See (Vatican City State)
+Honduras
+Hong Kong
+Hungary
+Iceland
+India
+Indonesia
+Iran, Islamic Republic of
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Korea, Democratic People's Republic of
+Korea, Republic of
+Kuwait
+Kyrgyzstan
+Lao People's Democratic Republic
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libyan Arab Jamahiriya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands

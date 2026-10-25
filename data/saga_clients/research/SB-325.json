@@ -1,229 +1,142 @@
 {
   "code": "SB-325",
-  "name_official": "",
+  "name_official": "Hamed Electronics LLC（Deira Dubai, UAE；hamedelectronics.com；Nasser Abdullatif Ahmed Lootah Group 弱电集成商）",
   "researched_at": "2026-10-21",
-  "website_status": "在线（th-it.com，快照 2026-10-21）",
-  "summary": "马来西亚 TH IT Resource Centre（IT 设备短长期租赁：笔记本、PC、服务器、投影、翻新产品；表内「商业 PoE」「邮件中有详细的联系信息」；KP Lee）；表内未跟进。",
-  "type": "IT 设备租赁商（马来西亚）",
+  "website_status": "在线",
+  "summary": "迪拜 Deira 的弱电系统集成商 Hamed Electronics LLC（1985 年起，Nasser Abdullatif Ahmed Lootah Group 成员；Dubai Police 认证；CCTV、SMATV、门禁、PA、中央时钟、电话系统的供货/安装/调试；客户覆盖酒店、教育、政府、医疗；1–10 人（ZoomInfo），营收 <$5M；P.O. Box 379738；04-228 1214；info@hamedelectronics.com）。用户表（Intersec 2012）：Anil P. Joseph（工程师；ZoomInfo：Project Manager）/ A.G. Varghese（director）——要 PoE 用户手册，买了 2 ch 样品；WhatsApp 已加；无后续。",
+  "type": "",
   "size": "",
   "brands_seen": [],
   "evidence": [
     {
-      "kind": "官网快照",
-      "claim": "官网标题：Notebook, Laptop & Computer Rental Selangor, Projector Supplier Kuala Lumpur (KL), Server ；品类词 无线 / WiFi",
-      "quote": "Specializes in providing short- and long-term IT equipment rental. We provide laptop, pc, shredder, printer, server, projector, led panel, photocopier etc for rental purposes.",
-      "url": "https://www.th-it.com/",
+      "kind": "官网",
+      "claim": "公司定位、集团、联系方式",
+      "quote": "HAMED ELECTRONICS LLC IS A LEADING SPECIALIZED COMPANY IN LOW VOLTAGE SYSTEM INTEGRATION FROM YEAR 1985 AS A PART OF NASSER ABDULLATIF AHMED LOOTAH GROUP. … Approved By Dubai Police … CCTV, SMATV, Security, Access Control, P.A, Central Clock, Telephone … P. O. Box: 379738, Deira Dubai, UAE Telephone: 04-2281214 Email: info@hamedelectronics.com",
+      "url": "https://hamedelectronics.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "名录",
+      "claim": "规模与 KP 职务",
+      "quote": "Hamed Electronics … <$5M … 1-10 … Anil Joseph Project Manager … clients span across various sectors including hospitality, education, government, and healthcare",
+      "url": "https://www.zoominfo.com/c/hamed-electronics-llc/397459106",
       "date": "2026-10-21"
     },
     {
       "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "商业POE；邮件中有详细的联系信息",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网快照",
-      "claim": "TH IT 定位",
-      "quote": "Notebook, Laptop & Computer Rental Selangor ; Specializes in providing short- and long-term IT equipment rental",
-      "url": "https://www.th-it.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "商业 PoE",
-      "quote": "商业POE；邮件中有详细的联系信息",
+      "claim": "Intersec 2012；PoE 手册；买了 2ch 样品；WA 已加",
+      "quote": "POE user manual, 2ch买了样 T 97142281214 / Anil P. Joseph engineer / A.G.Varghese director / 9715065 40470 已加",
       "url": "（本地 Clients/ 表格，无公开 URL）",
       "date": "2026-10-21"
     }
   ],
   "kp": [
     {
-      "name": "Lee",
-      "title": "（职务待核）",
-      "email": "inquiry@th-it.com",
-      "phone": "",
-      "source": "用户表",
-      "role": "；明确拒绝「sorry, no need」（2024-07-29；2026-09 Elsa 箱再拒）→ 不发"
+      "name": "Anil P. Joseph",
+      "role": "Project Manager（ZoomInfo）/ 工程师（用户表）",
+      "email": "agrajan@eim.ae（用户表，待核归属）",
+      "phone": "+971 50 452 6169（用户表）",
+      "source": "https://www.zoominfo.com/c/hamed-electronics-llc/397459106"
+    },
+    {
+      "name": "A.G. Varghese",
+      "role": "Director（用户表）",
+      "email": "—",
+      "phone": "+971 50 654 0470（用户表）",
+      "source": "（本地 Clients/ 表格，无公开 URL）"
     }
   ],
   "grade_override": null,
   "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
   "deep": {
     "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+    "level": "B 级加厚 v1（官网 + 名录核对）"
   },
   "company_facts": {
-    "hq": "马来西亚",
-    "other": "官网 th-it.com，语言 en，快照状态 ok；角色判定来源：官网文案"
+    "legal_name": "Hamed Electronics LLC",
+    "founded": "1985",
+    "hq": "Deira, Dubai, UAE（P.O. Box 379738；+971 4 228 1214；info@hamedelectronics.com）",
+    "size": "1–10（ZoomInfo）；营收 <$5M",
+    "other": "Lootah 集团成员；Dubai Police 认证安防承包商"
   },
   "business_lines": [
-    "IT 设备租赁（马来西亚）"
+    "弱电集成（CCTV、SMATV、门禁、PA、时钟、电话）",
+    "酒店/教育/政府/医疗项目"
   ],
   "channels": {
-    "role": "IT 设备租赁商（马来西亚）",
-    "region": "马来西亚",
-    "contact": "inquiry@th-it.com"
+    "网站": "https://hamedelectronics.com/",
+    "电话": "+971 4 228 1214（公开）；手机 +971 50 452 6169 / +971 50 654 0470（用户表，WA 已加）",
+    "邮箱（公开）": "info@hamedelectronics.com；agrajan@eim.ae（用户表）"
   },
   "signals": [
-    "官网：Specializes in providing short- and long-term IT equipment rental. We provide laptop, pc, shredder, printer, server, projector…；页面 /photoalbum/id/19545/refurbish-product/",
-    "表内：商业 POE；邮件中有详细的联系信息；KP Lee"
+    "已购样品 + 项目型集成商 → CCTV 项目 PoE 交换机复购；政府客户按个案守界"
   ],
   "risks": [
-    "租赁业务（采购不规律、量小）；非主攻区（T5，马来西亚）；未跟进过"
+    "小团队、项目节奏；2012 后无互动；中东非主攻区"
   ],
   "saga_fit": {
     "p1": "STC-28DGGPM",
-    "tier": 20,
-    "why": "租赁/翻新配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 GE + 4×10G STC-424XGGM（$127.4）"
+    "tier": 25,
+    "why": "集成 25% 档：STC-28DGGPM（2 SFP + 8 GE PoE+ L2+，$84.1）作 CCTV/门禁接入；24 口 STC-424DGGPM-280W（$140.1）"
   },
-  "email_hook": "Lee, for the switches in your rental and refurbished IT fleet, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and 24-GE + 4×10G models from single units, CE/RoHS, EXW USD — which port count do your rental projects need most?",
+  "email_hook": "Anil, long after the 2-channel samples: for your CCTV/access-control projects, 2× SFP + 8× GbE PoE+ L2+ managed at $84.1 EXW and 24-port PoE 280 W at $140.1, neutral packing — is there a hotel or school project this quarter where a quote would help?",
   "mail_review": {
     "binding": {
-      "level": "轻度触达→两次拒（2024-07-29「sorry, no need」；2026-09-08「we don't need this currently」，Elsa 邮箱）；Elsa 群发 BCC 已触达 9 轮 2025-04-11→2026-09-08（锚 To sofyan@mutiara-teknologi.com.my，本户在 Bcc）；2026-09-08 那轮「24 Port PoE Managed Switch」即被回「we don't need this currently」——第二次拒之后仍在 Bcc 名单上（剔除名单 §一 已列）",
-      "type": "马来西亚 IT 租赁商（TH-IT）",
-      "sieve": "1",
-      "stop": "两次书面拒绝；2027 前不发；若再发只发给采购口而非 Rental Sales Manager",
-      "revive": "不动",
-      "lane": "MY",
-      "cadence": "不动",
-      "evidence": "k=79b10682153051b0；第 19 批回补来信原文 2 条（gmail_s/gmail_a）"
+      "level": "未触达（S 邮箱 1 封 2024，1 次记录打开，0 回；收件 agajan@eim.ae, agrajan@eim.ae；主题多为「48 port managed switch」）；Elsa 群发 BCC 已触达 2025-10-03「10G Enterprise SFP Switch」（正文「Price: 280usd/pc」，第 74 批(p) 读稿），AU/AE+CA/UK/HR（avigilon 批次前身） 批次 To admin@ionsecurity.com.au，0 回（第 74 批 Bcc 头核对 msg 199a8c61c9839390）",
+      "type": "—",
+      "sieve": "1~2（1 次打开）",
+      "stop": "1 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+      "revive": "保持季度群发到 2027-Q1；无打开即停",
+      "lane": "阿联酋 非主攻",
+      "cadence": "季度",
+      "evidence": "gmail_digest：out 1，Opened 标签 1（Simon 群发追踪）；用户表：「POE user manual, 2ch买了样 T 97142281214 / Anil P. Joseph engineer / A.G.Varghese d」；研究档 risks：小团队、项目节奏；2012 后无互动；中东非主攻区；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To admin@ionsecurity.com.au）本户见于 2025-10-03 名单；该批次最早 2025-08-22 起共 2 轮，更早轮次 Bcc 未读"
     },
-    "situation": "—",
-    "need": "—",
-    "breakpoint": "—",
+    "situation": "迪拜 Deira 的弱电系统集成商 Hamed Electronics LLC（1985 年起，Nasser Abdullatif Ahmed Lootah Group 成员；Dubai Police 认证；CCTV、SMATV、门禁、PA、中央时钟、电话系统的供货/安装/调试；客户覆盖酒店、教育、政府、医疗；1–10 人（ZoomInfo），营收 <$5M；P.O. Box 379738；04-228 1214；info@hamedelectronics.com）。用户表（Intersec 2012）：Anil P. Joseph（工程师；ZoomInfo：Project Manager）/ A.G. Varghese（director）——要 PoE 用户手册，买了 2 ch 样品；WhatsApp 已加；无后续。",
+    "need": "集成 25% 档：STC-28DGGPM（2 SFP + 8 GE PoE+ L2+，$84.1）作 CCTV/门禁接入；24 口 STC-424DGGPM-280W（$140.1）",
+    "breakpoint": "小团队、项目节奏；2012 后无互动；中东非主攻区",
     "saga_now": {
-      "p1": "—",
-      "tier": 20,
-      "price": "—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-12-12 $300（48 Port PoE Managed Switch）、2025-01-06 $240（24 Port Fiber Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-05-04 $300（48 Port PoE Managed Switch = STC-448XGGPM，Elsa 箱 1 轮 2025-05-04；现表 $335.4@20%、Drive 老表 $335——同款写 $335 要先说 2025 群发是 $300、汇率 7.2→6.7）；2025-10-06 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2025-10-06；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-09-08 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-08；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
-      "why": "已打开的主题（3/6 封有打开记录）：「Re: 24V poe switch」(2024-08-14)、「Re: 24V poe switch」(2024-09-09)、「Re: 24V poe switch」(2024-10-15) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
+      "p1": "STC-28DGGPM",
+      "tier": 25,
+      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-06-22 $220（48 port managed switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-10-03 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2025-10-03；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）",
+      "why": "集成 25% 档：STC-28DGGPM（2 SFP + 8 GE PoE+ L2+，$84.1）作 CCTV/门禁接入；24 口 STC-424DGGPM-280W（$140.1）。已打开的主题（1/1 封有打开记录）：「48 port managed switch」(2024-06-22) → 读者兴趣主题类别不明（看原主题）",
       "repeat": [],
       "gaps": []
     },
     "next_move": {
-      "when": "不动",
-      "channel": "—",
-      "action": "—",
-      "one_question": ""
+      "when": "群发节奏",
+      "channel": "A 邮箱",
+      "action": "观察打开",
+      "one_question": "Anil, long after the 2-channel samples: for your CCTV/access-control projects, 2× SFP + 8× GbE PoE+ L2+ managed at $84.1 EXW and 24-port PoE 280 W at $140.1, neutral packing — is there a hotel or school project this quarter where a quote would help?"
     },
     "facts": [
       {
-        "date": "2023-07-01",
-        "dir": "备",
-        "who": "Saga 内部马来西亚线索表 Client_List_待决定.xlsx（XSPec/Sugito 文件夹）",
-        "quote": "名单行：「13 https://m.th-it.com/index.php?ws=tag&tag_id=315611 马来西亚 谷歌 商业POE inquiry@th-it.com」",
-        "why": "Saga 自己的线索表里对本户的一手备注（来源/兴趣点/是否已加 WhatsApp/展会现场对话）（名单无日期；条目为 Mitec 2023 展会现场记录，按 2023-07 归期）——比群发打开率更硬的证据；写下一封邮件时直接引用这里的兴趣点",
-        "k": "Drive PI 文件夹 9_马来西亚_Sugito"
-      },
-      {
-        "date": "2024-07-29",
-        "dir": "来",
-        "who": "inquiry@th-it.com",
-        "quote": "sorry, no need. Greetings. Hope this email finds you well. Thank you and best regards. Mr. Lee Te Hua,Rental Sales Manager Mobile no: 019-2626812Offic",
-        "why": "来信原文（主题「Re: 24V poe switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
-        "k": "79b10682153051b0"
-      },
-      {
-        "date": "2024-09-09",
-        "dir": "来",
-        "who": "inquiry@th-it.com",
-        "quote": "Thanks for the update. Greetings. Hope this email finds you well. Thank you and best regards. Mr. Lee Te Hua,Rental Sales Manager Mobile no: 019-26268",
-        "why": "来信原文（主题「Re: 24V poe switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
-        "k": "8ceb773d69d13c9f"
-      },
-      {
-        "date": "2025-04-11",
+        "date": "2024-06-22",
         "dir": "去",
-        "who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
-        "quote": "16 Port Ethernet Switch（Elsa 群发第 1/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my）",
-        "why": "第 74 批(o) `from:e.sagatelecom to:th-it.com` 全程 complete：9 行；To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单",
-        "k": "elsa_bcc",
-        "msg_id": "19623a5f07b9a5bf"
+        "who": "S 群发",
+        "quote": "48 port managed switch",
+        "why": "1 封 / 1 次打开 / 0 回｜首封 2024-06-22 → 末封 2024-06-22（1 去 / 0 来）",
+        "k": "gmail_digest"
       },
       {
-        "date": "2025-05-04",
+        "date": "2025-10-03",
         "dir": "去",
-        "who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
-        "quote": "48 Port PoE Managed Switch（Elsa 群发第 2/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my；正文价 300usd/pc，第 74 批(p) 读稿 msg 194eff1f9bf46879 / 1973a613b8166b58）",
-        "why": "第 74 批(o) `from:e.sagatelecom to:th-it.com` 全程 complete：9 行；To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单",
-        "k": "elsa_bcc",
-        "msg_id": "19699a96e93d4ea9"
+        "who": "Elsa 群发（BCC；To admin@ionsecurity.com.au，AU/AE+CA/UK/HR（avigilon 批次前身） 批次）",
+        "quote": "10G Enterprise SFP Switch — This is our 24-port Marvell-based managed SFP switch. 1, 4 port 1G SFP+8-port 1G SFP/RJ45 Combo +4*10G SFP+ 2, Dual AC input 3, Support fan monitoring（正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
+        "why": "Elsa 箱群发 BCC 触达证据（命中地址 agrajan@eim.ae）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+        "k": "elsa_bcc"
       },
       {
-        "date": "2025-06-05",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
-        "quote": "8 Port Industrial PoE Switch（Elsa 群发第 3/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my）",
-        "why": "第 74 批(o) `from:e.sagatelecom to:th-it.com` 全程 complete：9 行；To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单",
-        "k": "elsa_bcc",
-        "msg_id": "1973f4fbd2176398"
-      },
-      {
-        "date": "2025-07-04",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
-        "quote": "Mini Industrial PoE Switch（Elsa 群发第 4/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my）",
-        "why": "第 74 批(o) `from:e.sagatelecom to:th-it.com` 全程 complete：9 行；To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单",
-        "k": "elsa_bcc",
-        "msg_id": "197d44f5b17bb6b9"
-      },
-      {
-        "date": "2025-10-06",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
-        "quote": "10G Enterprise SFP Switch（Elsa 群发第 5/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
-        "why": "第 74 批(o) `from:e.sagatelecom to:th-it.com` 全程 complete：9 行；To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单",
-        "k": "elsa_bcc",
-        "msg_id": "199b7cd286b8997d"
-      },
-      {
-        "date": "2025-11-20",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
-        "quote": "Industrial PoE Switch（Elsa 群发第 6/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my）",
-        "why": "第 74 批(o) `from:e.sagatelecom to:th-it.com` 全程 complete：9 行；To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单",
-        "k": "elsa_bcc",
-        "msg_id": "19a9f3c99302ff20"
-      },
-      {
-        "date": "2026-02-05",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
-        "quote": "OEM Core Switching Solution（Elsa 群发第 7/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my）",
-        "why": "第 74 批(o) `from:e.sagatelecom to:th-it.com` 全程 complete：9 行；To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单",
-        "k": "elsa_bcc",
-        "msg_id": "19c2c14168a821f5"
-      },
-      {
-        "date": "2026-04-29",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
-        "quote": "Updated Ethernet Switches Links（Elsa 群发第 8/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my）",
-        "why": "第 74 批(o) `from:e.sagatelecom to:th-it.com` 全程 complete：9 行；To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单",
-        "k": "elsa_bcc",
-        "msg_id": "19dd7f65aff0636e"
-      },
-      {
-        "date": "2026-09-08",
-        "dir": "来",
-        "who": "Mr. Lee Te Hua（Rental Sales Manager, TH-IT，马来西亚）",
-        "quote": "Thanks, we don't need this currently.",
-        "why": "Elsa 邮箱 2026-08-17「24 Port PoE Managed Switch」群发的回信（连接器实时查到，仓库 gmail_e 索引截至 2026-08-19 未含）——第二次书面拒绝（2024-07-29「sorry, no need」）；头衔是租赁销售经理 = 不是采购口。两次拒 → 2027 前不再发",
-        "k": "Gmail 连接器（Elsa）message 1a07ff9946d7554d，thread 19ff3ec967fec1c0"
-      },
-      {
-        "date": "2026-09-08",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
-        "quote": "24 Port PoE Managed Switch（Elsa 群发第 9/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f）",
-        "why": "第 74 批(o) `from:e.sagatelecom to:th-it.com` 全程 complete：9 行；To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单；就是这封被回「we don't need this currently」",
-        "k": "elsa_bcc",
-        "msg_id": "1a07fb58f139416e"
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "POE user manual, 2ch买了样 T 97142281214 / Anil P. Joseph engineer / A.G.Varghese director / 9715065 40470 已加",
+        "why": "表内备注",
+        "k": "用户表"
       }
     ],
     "proof_gaps": [],
     "draft_en": null,
-    "as_of": "2026-10-24"
+    "as_of": "2026-10-25"
   }
 }

@@ -2,72 +2,147 @@
  "code": "SB-381",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "在线（eless.it，快照 2026-10-21）",
- "summary": "意大利 ELESS Air Innovations SRL（能效/空气净化技术方案；阿里巴巴 RFQ「Moxa 收发器」；KP Marcello Cioccolanti）；表内未跟进。",
- "type": "能效技术公司（终端用户）",
+ "website_status": "在线（accessofranco.com，快照 2026-10-21）",
+ "summary": "泰国 Accessofranco（「Trusted Energy Intelligence」：能源智能方案与技术生态；站内 Advantech ADAM 模块、Siemens、MaiWe IR302/IR315 工业路由器与 MIEN2205/2208 L2 交换机；表内 KP「MaiWe」为品牌备注）；表内 1 次跟进无回复。",
+ "type": "能源智能方案商（泰国，MaiWe 工业 FS 在用）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Advantech",
+  "Siemens",
+  "MaiWe"
+ ],
  "evidence": [
   {
    "kind": "官网快照",
-   "claim": "官网标题：Eless - Eless Group",
-   "quote": "Mettiamo a servizio di aziende, pubblica amministrazione e privati le migliori soluzioni tecnologiche per l’efficientamento energetico.",
-   "url": "https://www.eless.it/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "Moxa收发器 / from: 阿里巴巴RFQ",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "claim": "官网标题：Accessofranco；品类词 工业自动化 / OT 网络 / 网络交换 / PoE",
+   "quote": "Trusted Energy Intelligence；Technology Ecosystem；Our Services；Intelligence Solutions",
+   "url": "https://accessofranco.com/",
    "date": "2026-10-21"
   },
   {
    "kind": "官网快照",
-   "claim": "Eless 定位",
-   "quote": "Eless - Eless Group ; le migliori soluzioni tecnologiche per l’efficientamento energetico",
-   "url": "https://www.eless.it/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "Moxa 收发器 RFQ",
-   "quote": "Moxa收发器 / from: 阿里巴巴RFQ",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "claim": "Accessofranco 首页",
+   "quote": "Home - Accessofranco ; Trusted Energy Intelligence ; Technology Ecosystem ; Our Services ; Intelligence Solutions",
+   "url": "https://accessofranco.com/",
    "date": "2026-10-21"
   }
  ],
  "kp": [],
- "grade_override": "C",
- "override_reason": "非渠道终端用户 + 收发器 RFQ；c_sub=品类不符/终端用户",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "意大利",
-  "other": "官网 eless.it，语言 it-IT，快照状态 ok；角色判定来源：官网文案"
+  "hq": "泰国",
+  "other": "官网 accessofranco.com，语言 en-US，快照状态 ok；角色判定来源：表内早期 AI 描述"
  },
  "business_lines": [
-  "能效 / 空气净化技术（意大利）"
+  "能源智能 / 工业物联网方案"
  ],
  "channels": {
-  "role": "能效技术公司（终端用户）",
-  "region": "意大利",
-  "contact": "info@eless.it"
+  "role": "能源智能方案商（泰国，MaiWe 工业 FS 在用）",
+  "region": "泰国",
+  "contact": "sales@accessofranco.com"
  },
  "signals": [
-  "官网：Mettiamo a servizio di aziende, pubblica amministrazione e privati le migliori soluzioni tecnologiche per l’efficientamento energetico",
-  "表内：Moxa 收发器 / from: 阿里巴巴 RFQ；KP Marcello Cioccolanti"
+  "页面 /product/mien2205-layer-2-5-port-switch/、/product/mien2208-layer-2-8-port-switch/、/product/ir302-industrial-router/；站内 ADAM-4017 / ADAM-6050-D",
+  "首页：Trusted Energy Intelligence ; Technology Ecosystem ; Intelligence Solutions"
  ],
  "risks": [
-  "非渠道终端用户；RFQ 为光收发器（Saga 不供）"
+  "非主攻区（T5，泰国）；MaiWe（迈威，北京）既定线",
+  "1 次跟进无回复，仅 sales@"
  ],
  "saga_fit": {
-  "p1": null,
+  "p1": "STI-050GE",
   "tier": 25,
-  "why": "非渠道终端用户（能效/空气净化），单次收发器 RFQ → 改 C"
+  "why": "在用 MaiWe MIEN2205/2208（5/8 口 L2）→ 工业 5 GE STI-050GE（$17.8 @25%）/ 8 GE STI-080GE（$32.7）；管理位 STI-288GPM；工业路由 Saga 不做"
  },
- "email_hook": "（不发送：终端用户）"
+ "email_hook": "Alongside the MaiWe MIEN2205 / MIEN2208 switches in your energy-monitoring cabinets, we supply DIN-rail 5/8-GE unmanaged and 8-PoE + 2 SFP managed units (−40~75 °C, 12–58 VDC, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your sites use most?",
+ "products_seen": [
+  {
+   "brand": "MaiWe",
+   "model": "MIEN2205",
+   "spec": "工业 5 口 L2 交换机",
+   "saga": "STI-050GE",
+   "url": "https://accessofranco.com/product/mien2205-layer-2-5-port-switch/",
+   "date": "2026-10-21"
+  },
+  {
+   "brand": "MaiWe",
+   "model": "MIEN2208",
+   "spec": "工业 8 口 L2 交换机",
+   "saga": "STI-080GE",
+   "url": "https://accessofranco.com/product/mien2208-layer-2-8-port-switch/",
+   "date": "2026-10-21"
+  }
+ ],
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 12 封 2025→2026，1 次记录打开，0 回；收件 sales@accessofranco.com；主题多为「10G Enterprise SFP Switch、Booster PoE Switch」；Elsa 箱：`to:accessofranco.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 12 / 来 0）（第 74 批(n)））",
+   "type": "能源智能方案商（泰国，MaiWe 工业 FS 在用）",
+   "sieve": "1~2（1 次打开）",
+   "stop": "只打通用邮箱，无记录打开",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "泰国 非主攻",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 12，Opened 标签 1（Simon 群发追踪）；研究档 risks：非主攻区（T5，泰国）；MaiWe（迈威，北京）既定线"
+  },
+  "situation": "泰国 Accessofranco（「Trusted Energy Intelligence」：能源智能方案与技术生态；站内 Advantech ADAM 模块、Siemens、MaiWe IR302/IR315 工业路由器与 MIEN2205/2208 L2 交换机；表内 KP「MaiWe」为品牌备注）；表内 1 次跟进无回复。",
+  "need": "在用 MaiWe MIEN2205/2208（5/8 口 L2）→ 工业 5 GE STI-050GE（$17.8 @25%）/ 8 GE STI-080GE（$32.7）；管理位 STI-288GPM；工业路由 Saga 不做",
+  "breakpoint": "非主攻区（T5，泰国）；MaiWe（迈威，北京）既定线",
+  "saga_now": {
+   "p1": "STI-050GE",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-17 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-13 $280（10G Enterprise SFP Switch）、2026-06-23 $16000（32 Port 400GB DC Switch）",
+   "why": "在用 MaiWe MIEN2205/2208（5/8 口 L2）→ 工业 5 GE STI-050GE（$17.8 @25%）/ 8 GE STI-080GE（$32.7）；管理位 STI-288GPM；工业路由 Saga 不做。已打开的主题（1/12 封有打开记录）：「Marvell Managed Commercial Switches」(2026-03-16) → 读者兴趣主题类别不明（看原主题）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
+   "one_question": "Alongside the MaiWe MIEN2205 / MIEN2208 switches in your energy-monitoring cabinets, we supply DIN-rail 5/8-GE unmanaged and 8-PoE + 2 SFP managed units (−40~75 °C, 12–58 VDC, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your sites use most?"
+  },
+  "facts": [
+   {
+    "date": "2025-10-13",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "10G Enterprise SFP Switch",
+    "why": "首封去信（邮箱索引；去信共 12 封）",
+    "k": "f96b0d925a6e19ca"
+   },
+   {
+    "date": "2026-08-17",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "24 Port PoE Managed Switch｜稿内价 $170",
+    "why": "去信正文含价（邮箱索引）",
+    "k": "bf3bc46b37a11a29"
+   },
+   {
+    "date": "2026-09-24",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "10G Enterprise SFP Switch、Booster PoE Switch",
+    "why": "12 封 / 1 次打开 / 0 回｜首封 2025-10-13 → 末封 2026-09-24（12 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-09-24",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "Managed PoE Switches",
+    "why": "最近一封去信（邮箱索引；去信共 12 封）",
+    "k": "e6599ebb77c27855"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

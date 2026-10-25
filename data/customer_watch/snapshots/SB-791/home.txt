@@ -1,2 +1,454 @@
-# SB-791 Comms Express Ltd · home · https://comms-express.com/ · fetched 2026-10-25T07:41:18Z · HTTP 403
-Just a moment...
+# SB-791 wachendorff-prozesstechnik.de · home · https://www.wachendorff-prozesstechnik.de/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+Wachendorff Prozesstechnik GmbH & Co. KG : Industrie-Elektronik
+Wachendorff Unternehmen Wachendorff-Gruppe
+Unternehmenswerte: R O S E
+Zertifizierte Qualität
+Umwelt
+Soziales Engagement
+Industrie 4.0 / IoT
+Rundum sorglos
+Verbände/Organisationen
+Kontakt Vertrieb Deutschland
+Vertrieb International
+Auftragsabwicklung
+Customer Service
+Feedback
+Distributoren
+Solutionpartner
+Hersteller & Partner
+Team Managementteam
+Karriere Wachendorff als Arbeitgeber
+Stellenangebote
+Ausbildung, Studium und Berufserfahrene
+Benefits
+Kultur & Menschen
+Aktuelles News
+Aktivitäten der Wachendorff Prozesstechnik
+Produktneuheiten
+Newsletter
+Newsletter Anmeldung
+Newsletter aktuell
+Newsletter Archiv
+E-Mail auf Whitelist setzen
+Presse
+Pressemitteilungen
+Anwendungsberichte
+Messen
+Messetermine
+Seminare & Veranstaltungen
+Webinare
+Archiv Webinare
+Produktgruppen Fernwartung und Fernwirken Produkte
+Produktfilter
+Ewon Talk2m
+Ewon Cosy
+Ewon Flexy
+Ewon Edge
+Ewon Netbiter Argos
+Ewon Netbiter EasyConnect
+Zubehör
+Alarmmodem
+Lösungen
+Einfacher Fernzugriff
+Datendienste & Fernzugriff
+Fernwartung
+für Allen Bradley
+für Mitsubishi Electric
+für Schneider Electric
+für Siemens
+Informationen
+News Fernwartung
+Fernwartungsportal Talk2m
+Fernwartungsgateway Cosy+
+Modular-Router Flexy
+Edge Gateway und Cloud
+Gerätevergleich
+Cyber Security
+Funkrichtlinie - RED
+Netbiter Argos Cloud
+Netbiter EasyConnect
+Mobilfunk-Alarm-Modem
+Starterkits
+Anwendungsberichte
+Whitepaper
+Downloads
+Technical Notes
+FAQ Fernwartung
+e-Learning Videos
+Kunden-Informationssystem
+SPS-Konnektivität
+Unsere IIoT-Partner
+Übersicht
+VISUALYS - KPI-Dashboard
+VISUALYS - IIoT-Plattform
+ESE - Engineering und Software-Entwicklung
+Deutsche Telekom - Cloud of Things
+Segno
+Katana USU
+Industrie-PC Produktfilter
+WACHENDORFF BASIC
+Serie-1A - Panel PC Intel Celeron
+Serie-1B - Panel PC Intel Core
+Serie-2A - Panel PC Intel Celeron
+Serie-2B - Panel PC Intel Core
+Serie-1 - WebPanel
+Serie-2 - WebPanel
+Serie-1 - Displays Aluminium
+Serie-2 - Displays Aluminium
+Serie-1A - Box-PC Intel Celeron
+Serie-1B - Box-PC Intel Core
+WACHENDORFF MATCH
+CONTROL - Panel-PC Intel Celeron
+CONTROL - Panel-PC Intel Core
+STAINLESS - Panel-PC Intel Celeron
+STAINLESS - Panel-PC Intel Core
+CONTROL - Displays
+APLEX
+AUHMI-1 - Displays Aluminium
+AUHMI-8B - Intel Celeron J6412
+AUHMI-9C - 11th Gen. Intel Core i
+FABS-1 - Displays Edelstahlfront
+FABS-8B - Intel Celeron J6412
+FABS-9B - 8th Gen. Intel Core i
+ACS - Box-PCs
+AVS - Box-PCs
+ARCHMI-8A - Intel Pentium N4200
+ARCHMI-8B - Intel Celeron J6412
+ARCHMI-S-8B - Intel Celeron J6412
+ARCHMI-S-8C - Intel N97 Quad Core
+ARCHMI-9B - 8th Gen. Intel Core
+ARCHMI-S-9D - 12 Gen Intel Core
+ARCDIS - Displays Aluminium
+AITRON-8C - Intel N97
+AiTRON-9D - 12th/13th Gen Intel Core
+AITRON-9E - Intel Core Ultra
+ViTAM-1 Displays Edelstahl
+ViTAM-8B Intel Celeron J6412
+VITAM-9B - 8th Gen. Intel Core i
+VITAM-9D - 12th Gen. Intel Core i
+PhanTAM-1 - Display Edelstahl
+PhanTAM-8B - Intel Celeron J6412
+PhanTAM-9C - 11th Gen. Int. Core i
+NuTAM-8C - Intel N97 Quad Core
+NuTAM-9E - Intel Core Ultra
+ABOS-9C - 11th Gen. Intel Core i
+ABOS-9D - 12th Gen. Intel Core i
+Zubehör - Software, Montage, Kabel, Diverses
+Informationen zu WACHENDORFF BASIC Produkten
+Panel-PC
+Box-PC
+WebPanel
+Industrie Displays
+Informationen zu WACHENDORFF MATCH Produkten
+Panel-PC
+Displays
+Informationen zu APLEX Produkten
+Panel-PC
+Box-PC
+Industrie-Displays
+WebPanel
+Customizing
+Weitere Informationen:
+Zubehör
+Downloads
+FAQ
+HMI | IIoT Edge Gateways Produkte
+Produktfilter
+cMT - Serie
+cMT - Gateways
+cMT X - Basic
+cMT X - Standard
+cMT X - Advanced
+cMTX- Webpanel
+cMT X - Headless HMI
+cMT X - Handheld HMI
+iP - Serie
+Zubehör
+Informationen
+Auswahl | Protokolle | Import
+Projektierung | EasyBuilder Pro
+IIoT | EasyAccess | Cloud
+cMT(X) | HMI
+cMT-FHDX | HDMI-Server
+cMT(X) | Server
+cMT-G0 | IIoT Edge Gateways
+iE, iP | Standard HMI
+Feature Tables
+Downloads
+FAQ
+Visualys IIoT
+Gateways und Protokollwandler Produkte
+Produktfilter
+BACnet
+CAN
+CANopen
+DMX
+EtherCAT
+Ethernet
+EtherNet/IP
+IO-Link
+J1939
+KNX
+M-Bus
+Modbus
+MQTT
+NMEA0183
+NMEA2000
+OPC UA
+Profibus
+Profinet
+SNMP
+Glasfaser
+RS232 / RS485 / USB
+Zubehör
+Informationen
+Alles rund ums Produkt
+Busprotokolle besser verstehen
+Software
+Downloads
+FAQ
+Industrial Ethernet und Wireless Produkte
+Produktfilter
+Unmanaged Switches
+Ethernet basierendes I/O-System
+WLAN & Bluetooth
+Mobilfunk
+Zubehör
+Informationen
+Industrial Ethernet Switche
+WLAN & Bluetooth
+Mobilfunk
+Downloads
+Einbaumessgeräte und PID-Regler Produkte
+Übersicht Produktprogramm
+Temperatur- und Prozessregler
+Digitalanzeigen für digitale Signale
+Digitalanzeigen für analoge Signale
+Wachendorff OLED-Anzeigen
+Zubehör
+Informationen
+Modulare grafische Anzeigen PM-50
+Downloads
+Großanzeigen Produkte
+LD-Serie (bis 25 m / 50 m ablesbar)
+Informationen
+Die kompakte LD-Serie
+Download
+Signalwandler/Überwachungsmodule Produkte
+Produktübersicht
+Wandler mit 6,2 mm Gehäusebreite
+Wandler ab 17,5 mm Gehäusebreite
+Kopftransmitter und Stromwandler
+Schnittstellenwandler
+Informationen
+Die kompakte WK-Serie
+Die vielseitige WZ-Serie
+Die hochauflösende WT-Serie
+Downloads
+Netzgeräte, Ladegeräte, Mini-USV Produkte
+Produktfilter
+Netzteile für die Automation
+Netzteile für die Gebäudeautomation
+Akku-Ladegeräte
+Informationen
+Netzteile für die Automation
+Netzteile für die Gebäudeautomation
+Downloads
+Sensoren Produkte
+Produktprogramm Sensoren
+Ultrakurz-Sensoren
+Induktive Näherungssensoren
+Induktive Näherungssensoren aus Vollmetall
+Analoge induktive Näherungssensoren
+Kapazitive Näherungssensoren
+Photoelektrische Näherungssensoren
+Optische und Infrarotsensoren
+Permanentmagnet-Sensoren
+Handtachometer/-stroboskope Produkte
+Handtachometer (optisch und Kontakt)
+Handstroboskope
+Kalibrator / Messgerät
+Informationen
+Downloads
+Archiv Abgekündigte/ausgelistete Produkte
+Fernwartung und Fernwirken
+Industrie-PC
+HMI | IIoT Edge Gateways
+Gateways und Protokollwandler
+Industrial Ethernet und WLAN
+SPS und I/O-Systeme
+Einbaumessgeräte
+Großanzeigen
+Stromwandler und Energiedatenerfassung
+Signalwandler
+Handtachometer und -stroboskope
+Datenlogger
+Akkus
+Technologie IIoT / Industrie 4.0 MQTT
+OPC UA
+REST
+Cloud-Plattformen
+Microsoft Azure
+Amazon | IIoT Industrie 4.0
+Siemens MindSphere
+VISUALYS IIoT-Plattform
+Partner
+Mobile Maschinenvisualisierung
+IIoT-Plattform
+ESE
+Deutsche Telekom
+SEGNO
+Katana usu
+Wireless Bluetooth
+WiFi / WLAN
+LoRaWAN
+Industrial Ethernet BACnet
+Modbus TCP
+PROFINET
+Busprotokoll BACnet
+CAN
+CANopen
+IO-Link
+M-Bus
+Modbus
+PROFIBUS
+Mobilfunk 2G - GRPS/EDGE
+3G - UMTS/HSUPA/HSDPA
+4G - LTE
+5G
+3G Abschaltung
+Fernzugriff Virtual Private Network (VPN)
+Vorteile des industriellen Fernzugriffs
+Die Welt des Remote Access - Alles was du wissen wolltest
+Sicherheit & Zuverlässigkeit des Fernzugriffs gewährleisten
+Service Ansprechpartner
+Cyber Resilience Act
+Entscheidungssicherheit & Service
+Strategisches Produktmanagement
+Produktlebenszyklus-Management
+Support
+Applikatitionsingenieure
+Dokumentation & individuelles Angebot
+Testgeräte
+Über-Nacht-Lieferung
+Workshops und Schulungen
+Messen und Roadshows
+Garantie und Reparatur
+Downloads Allgemeines, Zertifikate, Verordnungen
+Fernwartung und Fernwirken
+HMI | IIoT Edge Gateways
+Panel-PC
+Industrial Ethernet und WLAN
+Gateways und Protokollwandler
+SPS und I/O-Systeme
+Einbaumessgeräte und PID-Regler
+Großanzeigen
+Signalwandler und Überwachungsmodule
+Handtachometer/-stroboskope
+Netzgeräte, Ladegeräte, Mini-USV
+VDMA-Leitfäden
+FAQ
+Suchen
+Industrie-Panel-PC:
+Für jede Anwendung und jeden Einsatzbereich.
+Auf Maschinen/Anlagen aus der Ferne zugreifen -
+weltweit, zu jeder Zeit, einfach, sicher, kostengünstig!
+Previous Next
+Fernwartung und Fernwirken
+Datenkonnektivität und IIoT
+Industrie-PC und Displays
+WebPanel
+HMI | IIoT-Edge-Gateways
+Gateways und Protokollwandler
+Industrial Ethernet und Wireless
+Einbaumessgeräte
+Aktuelles
+MATCH CONTROL Displays für die perfekte Visualisierung im System
+IO-Link Gateways: Direkt in Modbus und BACnet integrieren
+Neue IPC-Serie: WACHENDORFF MATCH CONTROL Industrie-PC
+Neue IPC-Serie: BASIC Industrie-PC
+Cyber Resilience Act - Wachendorff informiert
+Neues Gehäuse bei Gateways (A1-Bauform)
+Alles aus einer Hand
+Wir bieten Ihnen ein abgerundetes Programm an Produkten für das Messen, Regeln, Steuern, Übertragen und Wandeln in rauer Industrieumgebung. Mit einheitlichen Projektier- und Bedienkonzepten erreichen Sie schnellere Inbetriebnahmen und sehr kurze Einarbeitungszeiten.
+Mehr Informationen
+Testen mit Originalgeräten
+Probieren Sie unsere Geräte aus. Viele unserer Produkte können Sie kostenlos für 4 Wochen testen. Sie bestellen das Gerät telefonisch unter +49 6722 996530 als Muster. Wir senden Ihnen das Gerät auf Lieferschein kostenlos zu. Falls das Gerät Ihre Aufgabe nicht zufriedenstellend lösen kann, rufen Sie uns einfach an. Wir haben bestimmt eine passende Alternative. Ansonsten schicken Sie das Gerät einfach an uns zurück.
+Für einige Produktgruppen bieten wir Ihnen sehr lukrative Starterkits an. Sprechen Sie uns an! Wir finden gemeinsam die optimale Lösung.
+Mehr Informationen
+nach oben
+Service
+Ansprechpartner
+Cyber Resilience Act
+Entscheidungssicherheit & Service
+Strategisches Produktmanagement
+Produktlebenszyklus-Management
+Support
+Applikatitionsingenieure
+Dokumentation & individuelles Angebot
+Testgeräte
+Über-Nacht-Lieferung
+Workshops und Schulungen
+Messen und Roadshows
+Garantie und Reparatur
+Downloads
+FAQ
+Produktgruppen
+Fernwartung und Fernwirken
+Industrie-PC
+HMI | IIoT Edge Gateways
+Visualys IIoT
+Gateways und Protokollwandler
+Industrial Ethernet und Wireless
+Einbaumessgeräte und PID-Regler
+Großanzeigen
+Signalwandler/Überwachungsmodule
+Netzgeräte, Ladegeräte, Mini-USV
+Sensoren
+Handtachometer/-stroboskope
+Archiv
+Unternehmen
+Wachendorff-Gruppe
+Unternehmenswerte: R O S E
+Zertifizierte Qualität
+Umwelt
+Soziales Engagement
+Industrie 4.0 / IoT
+Rundum sorglos
+Verbände/Organisationen
+Kontakt
+Vertrieb Deutschland
+Vertrieb International
+Auftragsabwicklung
+Customer Service
+Feedback
+Distributoren
+Solutionpartner
+Hersteller & Partner
+Team
+Managementteam
+Karriere
+Wachendorff als Arbeitgeber
+Stellenangebote
+Ausbildung, Studium und Berufserfahrene
+Benefits
+Kultur & Menschen
+Aktuelles
+News
+Newsletter
+Presse
+Messen
+Seminare & Veranstaltungen
+Impressum
+Datenschutz
+AGB
+Code of Conduct
+Sitemap
+Drehgeber & Systeme
+Newsletter
+Whistleblowing
+Cookies
+*Diese Publikation wurde unter Einsatz von KI-gestützten Werkzeugen erstellt. Alle Inhalte wurden vor der Veröffentlichung redaktionell geprüft und freigegeben.
+Kontakt
+Ansprechpartner
+Anfrageformular

@@ -1,155 +1,163 @@
-# SB-002 AD-NET TECHNOLOGY CO., LTD. · home · https://www.ad-net.com.tw/ · fetched 2026-10-25T07:41:18Z · HTTP 200
-GEPON, Fiber Optic Media Converters, E1 converters, Taiwan
-Contact Us
-About AD-net
-Blog
-Menu
+# SB-002 XSPec Technology Sdn Bhd（Subang Jaya，NDT/安防/国防/医疗设备代理） · home · https://xspectechnology.com/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+XSPec Malaysia - Industrial Technology Catalog
+XSPec Technology
+Preparing your catalog
+Loading product visuals and technical content.
+XSPec
+Malaysia
+MY
+Download
 Home
-Products
-About Us
-Support
+Oil, Gas & Marine
+FJD Trion
+G-Tech
+INTRON
+Oohashi
+Pacific NDT
+Thermo Fisher Scientific
+ZARGES
+Zhengzhou JiuTai Technology Co. Ltd.
+Military, Defence & Security
+908 Devices
+ADVANCED ACCURACY SOLUTIONS
+AIRA
+AIRCOHN
+ARMORSOURCE
+Converus
+DataLocker
+Detectachem
+Devtac Ronin
+FIRSTLINE
+View All ->
+Bio.Tech & Laboratory
+Alcolizer Technology
+Medical & Healthcare
+COMFORT-IN
+DEXCOWIN
+HUMAN LAB INSTRUMENT
+Training & Services
+News
 Contact Us
-Blog
-Video Audio Transmission Equipment
-Video/Audio/Data signals transmitted securely over fiber
-Learn more
-FTTx access
-Full Solutions for Fiber To Home. Advanced, Features Rich OLT's, ONU's and more
-Learn more
-Fiber Modules
-SFP's, GBIC's, SFP+, XFP, Xenpac, all variety and datarates
-Learn more
-Industrial Communication Products
-Learn more
-Media Converters
-Managed & Unmanaged Fast & Gigabit, up 10G solutions for P2P access and...
-Learn more
-Fiber Optical Multiplexers
-We've got a solutions to multiplex almost everything over a fiber be it TDM or..
-Learn more
-Interface Converters
-Convert TDM to Ethernet, Multiplex It, add Serial ports and manage it!
-Learn more
-Passive Optical Equipment
-Cable, Connector, Splice Box, Junction Box and other "cabinet" world here.
-Learn more
-SDH/MSPP Systems
-Versatile, Features Rich, Flexibly Managed SDH STM-1/4/16 multiplexers
-Learn more
-Switches
-Various range if switches starting from unmanaged to complex core types
-Learn more
-Welcome to AD-net!
-Let us help find a solution for You!
-Whether you are looking for a quick price inquiry, solving a sophisticated issue with converging networks like E1, TDM over IP, or voice traffic integration – we are here to help!
-Our dedicated customer success specialists and support personnel are striving to answer your inquiries as fast as possible!
-Give us a try! FTTx network planning? Just getting a quotation for a converter?
-Shipping to my country?
-Or perhaps, you are not pretty sure will this converter fit your network as you need?
-We love to answer the questions, because we know, that having so many protocols, solutions, products, modules, ordering options can be sometimes pretty time consuming task to choose from – just drop us the message, or fill out contact form describing your need!
-Recent Blog Post
-Dec
-21
-2020
-Why you can not use APC connectors with UPC type equipment?
-Published By Ilya
-Dec
-17
-2018
-LECs, POPs and IXCs
-Published By admin
-Testimonials
-Lomoveishiy – Finland
-I needed those to connect my PC on the third floor to have internet access in that room, and ISP installed their modem on the first floor only. After dropping fiber patch cables, plugged in all cables into these media converters at both sides, and link came up instantly. Was much easier than I thought!
-Raymond – USA
-Great experience – units worked straight out of the box – just needed plug in cables and we were done. I also like the possibility to enable jumbo frames, while we do not have a need for this feature at the current moment it’s great to have this option.
-Menu
 Home
-About
-Products
-Support & Downloads
+Oil, Gas & Marine
+FJD Trion
+G-Tech
+INTRON
+Oohashi
+Pacific NDT
+Thermo Fisher Scientific
+ZARGES
+Zhengzhou JiuTai Technology Co. Ltd.
+Military, Defence & Security
+908 Devices
+ADVANCED ACCURACY SOLUTIONS
+AIRA
+AIRCOHN
+ARMORSOURCE
+Converus
+DataLocker
+Detectachem
+Devtac Ronin
+FIRSTLINE
+View All ->
+Bio.Tech & Laboratory
+Alcolizer Technology
+Medical & Healthcare
+COMFORT-IN
+DEXCOWIN
+HUMAN LAB INSTRUMENT
+Training & Services
+News
+Contact Us
+Download Brochures
+Select Region
+MY
+XSPec Malaysia
+MY
+SG
+XSPec Singapore
+SG
+ID
+XSPec Indonesia
+ID
+XSPec Malaysia
+Industrial technology, training, and support for Southeast Asia.
+Inspection equipment, security technology, healthcare systems, laboratory solutions, and dependable after-sales support for mission-critical teams.
+Explore Industries
+->
+Talk to XSPec
+5 Industries
+54 Brands
+86 Products
+Our Advantage
+Why choose XSPec?
+Proven technology, practical expertise, and dependable support for every stage of your operation.
+Years of Expertise
+A trusted track record delivering reliable solutions to government and industry across Southeast Asia.
+World-Class Technology
+High-performance systems from leading manufacturers, selected around your exact operational needs.
+24/7 After-Sales Support
+Responsive technical guidance, hands-on training, and long-term maintenance beyond delivery.
+Sector Coverage
+Explore solutions by industry.
+Browse XSPec brands and products by operational sector, tailored for the country you are viewing.
+Oil, Gas & Marine
+Military, Defence & Security
+Bio.Tech & Laboratory
+Medical & Healthcare
+Training & Services
+About XSPec
+Advanced technology with dependable field support.
+XSPec Malaysia supports inspection, defence, security, healthcare, laboratory, and training teams across Southeast Asia.
+Find the right sector, compare brands and products, open technical brochures, then connect directly with the team for practical guidance.
+54 +
+Partner Brands
+86 +
+Catalog Products
+Trusted By
+Clients We've Served
+Trusted by government agencies, universities, hospitals, and industry leaders across Malaysia.
+& many more government agencies and private sectors across Malaysia, Indonesia & Singapore
 Contact
-Video Audio Transmission Equipment
-AHD CVI TVI CVBS Over Fiber
-Video baluns (Video over UTP Cat5)
-HD Video Transmission
-CCTV Video/Audio/Data
-HDMI KVM over Fiber
-VGA KVM over Fiber
-DVI KVM over Fiber
-HDMI KVM over UTP Cat5e/Cat6
-DVI KVM over UTP Cat5e/Cat6
-VGA KVM over UTP Cat5e/Cat6
-RCA & XLR Audio Over Fiber Extenders
-HDMI over Wired & Wireless LAN
-USB over Fiber Extenders
-HD AHD/TVI/CVI Video Baluns
-HD AHD/TVI/CVI/CVBS Active Video Baluns
-FTTx access
-CATV transceivers and amplifiers
-Passive Optical Splitters
-GEPON Optical Line Terminals (OLT)
-GEPON ONU - Optical Network Units
-GPON Optical Line Terminals (OLT)
-GPON Optical Network Terminals (ONT)
-PON extenders / repeaters
-PON aggregation extenders
-Fiber Modules
-155 Mbit/s SFP modules
-1.25Gbit/s SFP modules
-Special Type SFP modules
-Industrial Communication Products
-Serial Interface Converters
-USB to Serial Converters
-Wireless to Serial Converters
-Serial Device IP Networking
-Industrial Grade Fiber Products
-Industrial Ethernet Switches
-LoRa Transmission
-Media Converters
-Industrial Grade Media Converters
-Rack mount chassis
-Unmanaged 10/100/1000
-Single Mode to Multi Mode converters
-Managed & Unmanaged 10G - 40G solutions
-Managed Fiber Media Converters
-Fiber Optical Multiplexers
-Rack mount chassis
-CWDM multiplexing systems
-n x E1 G.703 series fiber mux
-SNMP managed n x E1/V35/ETH fiber multiplexer
-Voice over Fiber mux series (FXO/FXS/POTS/E1)
-Serial & CANBUS fiber modem series (V.35/RS422/485/232)
-STM1/E3/DS3/T3 fiber mux series
-n x E1 G.703 series + Ethernet series
-Optical Line Protection Equipment
-Interface Converters
-E1/T1 interface converter series
-Impedance converters (baluns)
-TDM over IP equipment series
-STM-1/4 & E3 converters series
-High Speed LAN & Ethernet over Copper Extenders
-Special Type Ethernet Converters
-G.SHDSL Modems
-Co-Directional 64K E1 Interface Converters
-Passive Optical Equipment
-Outdoor Fiber Optical Joint Enclosures
-Indoor Optic Termination Boxes
-19' rack Fiber Optical Distribution Panels
-Multitray Based Professional ODF's
-FTTH Splitter Distribution Boxes
-SDH/MSPP Systems
-MiniSDH systems (63 E1, V.35, ETH)
-MicroSDH Systems (1 E1 / 1 V35)
-MetroSDH systems (252 E1, V35, ETH)
-Multi-Functional Integrated Service Multiplexers
-Switches
-10GBe Managed & Unmanaged Switches
-Layer 3 / Routing switches
-Gigabit Ethernet managed series
-Unmanaged series
-Fiber Optical Switches
-Fast Ethernet managed series
-Industrial POE
-Copyright 2026 © AD-net Technology Co., LTD. All rights reserved. | Privacy Policy
-This website uses cookies to improve your experience. Find out more. I accept
+Get technical support and product guidance.
+Malaysia Office
+No. 8, Jalan Industry USJ 1/8, Taman Perindustrian USJ 1, 47600 Subang Jaya, Selangor, Malaysia.
+Email
+inquiry@xspec.com.my
+Phone
++60 3 8023 1161 / 2
+Operating Hours
+Monday - Friday,  -
+Send Message
+Industrial technology, professional training, and dependable support for mission-critical operations across Southeast Asia.
+XSPec Malaysia
+Industries
+Oil, Gas & Marine
+Military, Defence & Security
+Bio.Tech & Laboratory
+Medical & Healthcare
+Quick Links
+Training
+News & Insights
+Downloads
+Clients
+Contact
+Malaysia Office
+No. 8, Jalan Industry USJ 1/8,
+Taman Perindustrian USJ 1,
+47600 Subang Jaya, Selangor.
+inquiry@xspec.com.my
++60 3 8023 1161 / 2
+Copyright
+©
+2026 XSPec Technology. All rights reserved.
+Design by Rafik Muzakir
+Success
+Your message has been sent.
+Open
+OK
+Chat with XSPec
+We typically reply within minutes
+×
+Hello! How can we help you today? Send us a message and our team will get back to you shortly.
+Send Message on WhatsApp

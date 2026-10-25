@@ -1,0 +1,130 @@
+{
+ "code": "SC-064",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（ustc-corp.com，快照 2026-10-21）",
+ "summary": "法国 Netceed（原 USTC/Eurotechnocom：全球电信与数据中心基础设施方案分销集团「global leader in telecom and broadband solutions」；表内「SFP PoE switch DAC」「之前的 mail 不行了」）；表内 7 次跟进无回复。",
+ "type": "全球电信基础设施分销集团",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Netceed - Global Telecom & Data-Center Infrastructure Solutions；品类词 电信 / FTTH / ISP 设备 / 无线 / WiFi / 数据中心 / 企业 IT / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "Netceed is a global leader in telecom and broadband solutions, offering fiber, wireless, and network components with logistics, services, and support",
+   "url": "https://netceed.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "SFP poe switch DAC；之前的mail 不行了 contact@eurotechnocom.fr",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Netceed 定位",
+   "quote": "Netceed - Global Telecom & Data-Center Infrastructure Solutions ; Netceed is a global leader in telecom and broadband solutions",
+   "url": "https://netceed.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "SFP PoE switch DAC",
+   "quote": "SFP poe switch DAC；之前的mail 不行了",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "体量过大：Netceed 全球分销集团；c_sub=体量过大",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "法国",
+  "other": "官网 ustc-corp.com，语言 en-US，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "电信 / 数据中心基础设施分销（全球集团）"
+ ],
+ "channels": {
+  "role": "全球电信基础设施分销集团",
+  "region": "法国",
+  "contact": "hello.fr@netceed.com、contact@eurotechnocom.fr"
+ },
+ "signals": [
+  "官网：Netceed is a global leader in telecom and broadband solutions, offering fiber, wireless, and network components with logistics, services, and support；kw telecom 98 / data center 103 / fiber 72",
+  "表内：SFP PoE switch DAC；之前的 mail 不行了 contact@eurotechnocom.fr"
+ ],
+ "risks": [
+  "体量：Netceed 全球电信基础设施分销集团；品类需求含 SFP/DAC（Saga 不供）；原邮箱失效"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 20,
+  "why": "Netceed 为全球性电信/数据中心基础设施分销集团（体量过大，供应商准入体系）→ 改 C"
+ },
+ "email_hook": "（不发送：巨头）",
+ "mail_review": {
+  "as_of": "2026-10-25",
+  "binding": {
+   "level": "已发未回（只收到自动回执/假期回复，无人工回复、无打开记录；A 11 封 2025-04-08→2026-01-29，共 11 封群发，0 真实回复（1 封自动回执/假期回复，不算回）；Elsa 单发去信 1 封（2025-02-12「48 Port PoE Managed Switch」→ contact@eurotechnocom.fr，未见回复（Elsa 箱 Replied 标签无）））（第 74 批(e)：S/A mail_dump + Elsa 箱 in:sent 排锚扫描 2026-10-25）",
+   "type": "全球电信基础设施分销集团",
+   "sieve": "1（旧址）",
+   "stop": "读",
+   "evidence": [
+    "mail_dump.py SC-064（S/A 全量）",
+    "data/gmail_e/elsa_sent_nonanchor_2026-10-25.json（Elsa 1:1 普查）"
+   ]
+  },
+  "situation": "法国 Netceed（原 USTC/Eurotechnocom：全球电信/数据中心基础设施分销集团；表内「SFP PoE switch DAC」「之前的 mail 不行了」）",
+  "need": "分销集团：10G/25G 汇聚 + PoE 接入的中国二线品牌线（STC-424XGGM / STC-448XGGPM）",
+  "breakpoint": "旧址 contact@eurotechnocom.fr 已并入 netceed.com（hello.fr@netceed.com）；A 11 封 0 回；集团采购走供应商准入",
+  "saga_now": {
+   "p1": "STC-448XGGPM",
+   "tier": 20,
+   "price": "$335（主表 20% 档）",
+   "why": "分销集团：10G/25G 汇聚 + PoE 接入的中国二线品牌线（STC-424XGGM / STC-448XGGPM）",
+   "repeat": "无成单；待首次真实回复",
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1",
+   "channel": "A 邮箱 → hello.fr@netceed.com（新集团地址；eurotechnocom.fr 旧址停用）",
+   "action": "换新地址只问一句：Netceed 供应商准入（vendor onboarding）走哪个入口；不发目录",
+   "one_question": "Netceed now covers the old Eurotechnocom contacts — could you point us to the vendor onboarding entry for Ethernet switching (Marvell-based L2+ 24/48-PoE, 10G uplink, CE/RoHS)? Reference: STC-448XGGPM at $335 USD EXW (MOQ 1, 15-day validity)."
+  },
+  "facts": [
+   {
+    "date": "2026-01-29",
+    "dir": "去",
+    "who": "S/A 群发",
+    "quote": "Marvell Alleycat5 Solution, Marvell Industrial Alert System, 8 Port Industrial PoE Switch, Mini Industrial PoE Switch",
+    "why": "A 11 封 2025-04-08→2026-01-29，共 11 封群发，0 真实回复（1 封自动回执/假期回复，不算回）｜首封 2025-04-08 → 末封 2026-01-29",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2025-02-12",
+    "dir": "out",
+    "who": "Elsa → contact@eurotechnocom.fr",
+    "quote": "48 Port PoE Managed Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+    "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
+    "k": "elsa_1to1",
+    "msg_id": "194f9b55cd378feb"
+   }
+  ],
+  "proof_gaps": [
+   "KP 姓名/职务待核（现用通用箱或自动回复给出的地址）",
+   "Elsa 2025-02-12「48 Port PoE Managed Switch」单发正文里有没有报价未读（msg 见 facts elsa_1to1）；若当时报过 48 口价，信稿 $335 前要先点明当时价与汇率"
+  ],
+  "draft_en": {
+   "subject": "One question — STC-448XGGPM",
+   "body": "Hello,\n\nWe have sent you a few mails over the past year and you never had a reason to reply — fair enough. No brochure this time, just one question:\n\nNetceed now covers the old Eurotechnocom contacts — could you point us to the vendor onboarding entry for Ethernet switching (Marvell-based L2+ 24/48-PoE, 10G uplink, CE/RoHS)? Reference: STC-448XGGPM at $335 USD EXW (MOQ 1, 15-day validity).\n\nIf the answer is no, a one-word reply closes the loop on our side.\n\nBest regards,\nAlan\nSaga Telecom"
+  }
+ }
+}

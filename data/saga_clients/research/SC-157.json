@@ -1,0 +1,126 @@
+{
+ "code": "SC-157",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（is5com.com，快照 2026-10-21）",
+ "summary": "加拿大 iS5 Communications → 现为 Phoenix Contact Network Communications Inc.（被菲尼克斯电气收购；工业网络产品自研）；表内「MC 工业 FS 等」「质量高」）；群发 8 次无回复。",
+ "type": "集团旗下工业网络厂商（Phoenix Contact）",
+ "size": "",
+ "brands_seen": [
+  "Phoenix Contact"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：iS5 Communications â Phoenix Contact Network Communications Inc.",
+   "quote": "Phoenix Contact Network Communications Inc.",
+   "url": "https://is5com.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "MC 工业FS等",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "iS5 / Phoenix Contact",
+   "quote": "iS5 Communications – Phoenix Contact Network Communications Inc. ; Phoenix Contact Network Communications Inc.",
+   "url": "https://is5com.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "MC 工业 FS 等",
+   "quote": "MC 工业FS等；质量高",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "集团/同行：iS5 已并入 Phoenix Contact（自研工业交换机），非渠道客户；c_sub=巨头/集团（同行）",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "加拿大",
+  "other": "官网 is5com.com，语言 en-US，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "工业网络设备（Phoenix Contact 集团）"
+ ],
+ "channels": {
+  "role": "集团旗下工业网络厂商（Phoenix Contact）",
+  "region": "加拿大",
+  "contact": "info@is5com.com"
+ },
+ "signals": [
+  "官网标题 iS5 Communications – Phoenix Contact Network Communications Inc.；首页 Phoenix Contact Network Communications Inc.",
+  "表内：MC 工业 FS 等；质量高"
+ ],
+ "risks": [
+  "集团/同行：iS5 现为 Phoenix Contact Network Communications Inc.（集团自研工业网络产品），非 ODM 采购方"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 30,
+  "why": "已并入 Phoenix Contact 集团（自研工业交换机），非渠道客户 → 改 C"
+ },
+ "email_hook": "（不发送：集团/同行）",
+ "mail_review": {
+  "as_of": "2026-10-25",
+  "binding": {
+   "level": "已发未回（无人工回复、无打开记录；S 8 封 2024-06-17→2025-01-15、A 10 封 2025-05-15→2026-03-04，共 18 封群发，0 真实回复；Elsa 单发去信 1 封（2025-02-27「48 Port SFP Switch」→ info@is5com.com，未见回复（Elsa 箱 Replied 标签无）））（第 74 批(e)：S/A mail_dump + Elsa 箱 in:sent 排锚扫描 2026-10-25）",
+   "type": "集团旗下工业网络厂商（Phoenix Contact）",
+   "sieve": "1",
+   "stop": "读",
+   "evidence": [
+    "mail_dump.py SC-157（S/A 全量）",
+    "data/gmail_e/elsa_sent_nonanchor_2026-10-25.json（Elsa 1:1 普查）"
+   ]
+  },
+  "situation": "加拿大 iS5 Communications → 现 Phoenix Contact Network Communications（被菲尼克斯收购；工业网络自研）",
+  "need": "集团自研，无外采口",
+  "breakpoint": "已并入 Phoenix Contact；info@ 18 封 0 回",
+  "saga_now": {
+   "p1": null,
+   "tier": null,
+   "price": null,
+   "why": "集团自研，无外采口",
+   "repeat": "无成单；不动",
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "不动：菲尼克斯集团自研厂商",
+   "one_question": null
+  },
+  "facts": [
+   {
+    "date": "2026-03-04",
+    "dir": "去",
+    "who": "S/A 群发",
+    "quote": "48 Port PoE Managed Switch, Marvell Industrial Alert System, 90W poe managed switch, 10G media converter",
+    "why": "S 8 封 2024-06-17→2025-01-15、A 10 封 2025-05-15→2026-03-04，共 18 封群发，0 真实回复｜首封 2024-06-17 → 末封 2026-03-04",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2025-02-27",
+    "dir": "out",
+    "who": "Elsa → info@is5com.com",
+    "quote": "48 Port SFP Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+    "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
+    "k": "elsa_1to1",
+    "msg_id": "195480768947a1b5"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null
+ }
+}

@@ -11,7 +11,7 @@
  "text": "Dear Team,\n\nIs there any update on our below RFQ.\n\nRegards,\nEng. Mohamed Ismail\nProcurement Department",
  "char_count": "2761",
  "attachments": "[]",
- "note": "SB-580（C）：对 02-08 RFQ 的追问；Elsa 未回",
+ "note": "SC-097（C）：对 02-08 RFQ 的追问；Elsa 未回",
  "text_source": "text/plain",
  "fetched": "2026-10-24T16:15Z",
  "method": "Arena Gmail connector get_message_text(include_quoted=false)"

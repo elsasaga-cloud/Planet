@@ -1,108 +1,277 @@
-# SB-424 Tritonsystems spol. s r.o. · home · https://tritonsystems.eu/ · fetched 2026-10-25T07:41:18Z · HTTP 200
-Parking, Ticketing and Access Control | Triton Systems
-Triton Systems Vás žiada o súhlas s používaním Vašich údajov na nasledujúce účely:
-Vaše osobné údaje budú spracované a informácie z vášho zariadenia (súbory cookie, jedinečné identifikátory a ďalšie údaje zariadenia) môžu byť uchovávané, používané a zdieľané s dodávateľmi tretích strán, prípadne používané konkrétne týmto webom alebo aplikáciou. Niektorí dodávatelia môžu spracúvať vaše osobné údaje na základe oprávneného záujmu, proti ktorému môžete vzniesť námietku pomocou možností nižšie. Súhlas môžete zrušiť prejdením na odkaz v dolnej časti tejto stránky alebo v našich pravidlách ochrany súkromia.
-Technické cookies
-Tieto cookies potrebujete pre správny chod webovej stránky. Obsahujú anonymizované informácie o Vaších výberoch
-Analytické cookies
-Pre vylepšenie naších služieb, využívame službu Google Analytics, ktorá odosiela anonymné informácie o Vašej návšteve a zbiera agregované dáta o zvyklostiach návštevníkov, vďaka ktorým denno denne vylepšujeme naše služby.
-Remarketing Facebook
-Pomocou služby Facebook poskytujeme remarktingovú reklamu, čím zvýšime relevantnosť reklamy na platformách služieb Facebooku.
-Remarketing Google
-Pomocou služby Google poskytujeme remarktingovú reklamu, čím je umožnené zobrazovanie cielenej reklamy v rámci siete Google Ads.
-Konverzie kampaní
-Pre vylepšenie naších služieb a užívateľského zážitku, zaznamenávame vykonávanie cieľov naších zákazníkov a podľa doho upravujeme webovú stránku aby tieto ciele boli čo najrýchlejšie vykonávateľné.
-Chat na webovej stránke
-Pre komunikáciu s Vami používame službu SmartsUpp, ktorá odosiela údaje na servery v Českej Republike. Neukladá žiadne osobné údaje, len text ktorý nám odosielate. Viac info na <a href="https://www.smartsupp.com/cs/help/ochrana-osobnich-udaju-gdpr/" target="_blank">stránke spoločnosti</a>
-Chat na webovej stránke
-Pre komunikáciu s Vami používame službu Facebook Messenger, <a href="https://www.facebook.com/business/gdpr" target="_blank">ku ochrane osobných údajov viac info nájdet na tejto adrese</a>.
-Spravovať možnosti
-Odmietnuť
-Prijať odporúčané nastavenia
-Parking
-Ticketing
-Wellness
-Turnstiles
-Downloads
-Contact
-About us
-en
-sk
-Prihlásiť sa
-Parking
-Ticketing
-Wellness
-Turnstiles
-Downloads
-Contact
-About us
-Modern parking system
-A parking system for every situation. Smart, efficient and flexible.
-Arena Ticketing System
-A comprehensive solution for access control, ticket sales, buffet sales, parking and CCTV .
-Wellness System
-for paid entry control to relaxation, entertainment, fitness and wellness centers, swimming pools, water parks
-Solutions
-We provide complete solutions of parking systems, ticketing, access, turnstile systems for the comfort of the customer and the provider. We are a manufacturer and supplier of modern systems, which we install at home and abroad. Easy integration and flexibility is a matter of course, we keep up with the demands of the modern customer. In addition to the delivery and deployment of the system, we also provide service and supervision services.
-Parking systems
-From simple to sophisticated smart system providing management efficiency and flexibility
-viac
-Arena & Wellness
-Access ticketing Systems
-viac
+# SB-424 golmar.es · home · https://golmar.es/home-en · fetched 2026-10-25T07:41:18Z · HTTP 200
+Golmar sistemas de comunicación | Golmar
+Home
 Products
-Turnstiles, parking devices and software products
-viac
-Services
-Consultancy, Project, Installation, Service, Surveillance
-viac
-Case studies
-You may see our systems in action in many shopping centers, supermarket chains, bussiness centers, parking garages, hotels, pensions, wellness and leisure centres, stadiums, hospitals, museum, galleries and others.
-Wellness: Zelená Žaba
-Trenčianske Teplice
-Bardejov Swimming Pool
-Bardejov, Slovakia
-HolidayPark Kováčová
-Kováčová, Slovakia
-Červená Hviezda Swimming Pool
-Košice, Slovakia
-See all case studies
-Best in industry support
-Guaranteed prompt intervention
-7 days a week for 24 hours
-Remote management
-Help by phone
-Supervision center
-Our
-partners
-Our offices
-TRITON s.r.o.
-Kopčianska 9
-851 01 Bratislava
-Slovakia
-Tel: +421(0)692017564
-Email: info@tritonsystems.eu
-TRITON s.r.o., Office Praha
-Praha
-Czech republic
-Office Prešov
-Sabinovská 3
-080 01 Prešov
-Slovakia
-Tel: +421 (0) 917 557 737
-Email: branislav.fides@triton.eu
-Triton Systems Sp. z o.o.
-ul. Trylińskiego 2
-10-683 Olsztyn
-Poland
-Tel: +48 89 612 09 22
-Email: biuro@tritonsystems.pl
-TRITON PARKING Kft.
-Áchim András utca 2/a
-9200 Mosonmagyaróvár
-Hungary
-2021 © Triton Systems, All rights reserved.
-A website by Cstudios s.r.o.
-Užívateľské meno alebo email
-Heslo
-Prihlásiť sa
+Intercom
+Kits
+Door stations
+Apartment units
+4+n
+2 wires G2+
+IP G+
+GCloud
+Access control
+Controllers
+Readers
+Credentials
+Wiegand
+2Safe
+Standalone
+CCTV
+IP cameras
+Analogue cameras
+NVR
+DVR
+Wi-Fi cameras
+Intrusion
+Central units and kits
+Detectors
+Contacts
+Keyboards and remote controls
+Sirens
+Wireless
+Accessories and power supplies
+Fire detection
+Conventional
+Analogue
+Sirens and push-buttons
+Modules and power supplies
+Standalone
+Fire extinguishers
+Safety sings and cables
+Accessories
+Intercom and Hospital
+Control units
+Overdoor viewers
+Between all points
+Secondaries
+Bathroom handles
+View all products
+Projects
+News
+Tools
+GolmarPro
+Create your project
+Label generator
+Commercial documentation
+Technical documentation
+View all products
+About Golmar
+International distributors
+View all products
+English
+Español
+English
+Contact us
+Home
+Products
+Intercom
+Kits
+Door stations
+Apartment units
+4+n
+2 wires G2+
+IP G+
+GCloud
+Access control
+Controllers
+Readers
+Credentials
+Wiegand
+2Safe
+Standalone
+CCTV
+IP cameras
+Analogue cameras
+NVR
+DVR
+Wi-Fi cameras
+Intrusion
+Central units and kits
+Detectors
+Contacts
+Keyboards and remote controls
+Sirens
+Wireless
+Accessories and power supplies
+Fire detection
+Conventional
+Analogue
+Sirens and push-buttons
+Modules and power supplies
+Standalone
+Fire extinguishers
+Safety sings and cables
+Accessories
+Intercom and Hospital
+Control units
+Overdoor viewers
+Between all points
+Secondaries
+Bathroom handles
+Projects
+News
+Tools
+GolmarPro
+Create your project
+Label generator
+Commercial documentation
+Technical documentation
+About Golmar
+International distributors
+Connected to your home
+wherever you are
+Golmar GCloud
+Discover GCloud
+Advanced modularity, elegant design
+and uncompromising performance
+Supra door panel
+See more
+Kits for single-family houses with TCP/IP protocol
+NEW
+Kits CLIP | EDGE
+See more
+Golmar's new digital tool that turns your ideas into real solutions
+You design it,
+we make it happen
+Go to GolmarLABs
+Sixty5 Touch.
+Connecting the present,
+opening the future
+Innovation
+in just one touch
+See more
+Performance, speed and
+a wide range of products
+G2+ The technology that unites us
+See more
+High capacity, versatility
+and integration
+IP G+ Endless possibilities
+See more
+New Supra panel Discover!
+Video intercom
+Kits | Door stations | Apartment units
+4+n | G2+ | IP G+
+Access Control
+Controllers | Readers | Credentials
+Wiegand | 2Safe | Autonomous
+CCTV
+IP cameras | Analogue cameras | NVR
+DVR | Wi-Fi cameras
+Intrusion
+Fire detection
+Intercommunication and Hospital
+Solutions tailored to any project
+At Golmar, we analyse the specific needs of each installation to offer communication and security solutions that combine innovation, design and maximum reliability. We develop video door entry, CCTV and access control systems designed to integrate efficiently into residential and tertiary environments.
+Our goal is to provide advanced technology that guarantees security, comfort and control, adapting to the technical and aesthetic requirements of each project. Scalable, connected solutions that are ready to meet current and future demands.
+Video Intercom
+CCTV
+Access Control
+Our projects
+All projects
+Miami Towers
+Read more
+Club del Mar, Alicante
+Read more
+Tetuán, Madrid
+Read more
+Galería Espoz
+Read more
+Las Condes 7520
+Read more
+Tarsia
+Read more
+El Rengle II
+Read more
+Urban Treasure
+Read more
+GolmarLABs
+You design it, we make it a reality.
+Golmar's new digital tool turns your ideas into real solutions. Design, configure, and visualize your door panel in 3D and in real time, directly in its environment.
+Go to GolmarLABs
+News
+All the news
+Project for the merger of the company Bitron Video SLU.
+Read more
+GolmarPro. It all starts here.
+Read more
+Summer schedule
+Read more
+Announcement of ordinary general meeting of shareholders
+Read more
+Supra. The door panel that eclipses all expectations
+Read more
+New website dedicated to the Belgian market
+Read more
+Sixty5 Touch. Innovation in just one touch
+Read more
+Intersec Dubai 2024
+Read more
+iP-Opener: A new way to manage your security
+Read more
+Ultra Low Light Cameras: The revolution in night surveillance
+Read more
+Smart Nation Expo 2023, Kuala Lumpur
+Read more
+New Sixty 5 G2+ code panel
+Read more
+Shareholders general meeting
+Read more
+Intersec Dubai 2023
+Read more
+New BIO-N and CODEPROX-N readers
+Read more
+Commercial Documentation
+All the information, clear and in one click
+See more
+Label Generator
+Create labels for your pushbutton plates and information displays
+See more
+Search
+About Golmar
+Contact
+About us
+Terms of sale and warranty conditions
+Privacy Policy
+Cookies policy
+Quality policy
+Legal warning
+Complaints channel
+Contact
+Golmar Sistemas de Comunicación S.A.
+Silici, 13.
+08940, Cornellà de Llobregat (Barcelona)
+[email protected]
+VAT: A08370314
+View with Google Maps
+Tel: +34 934 800 696
+(*) By calling and providing personal data, as well as sending an e-mail, implies acceptance of the Privacy Policy .
+Subscribe to our newsletter!
+Email
+I accept Golmar Privacy Policy
+SEND
+© 2026
+Cookie Preferences
+We use our own and third-party cookies for statistical and analytical purposes to ensure you have the best experience on our website.
+You can find more information in our Cookies Policy.
+Accept all cookies
+Configure options
+We care about your privacy
+You can adjust your browsing preferences by accepting or rejecting the different cookies listed below.
+Necessary technical cookies
+These cookies are always enabled and allow you to browse our website and use the various options or services available on it.
+Always active
+Preference cookies
+These cookies allow us to personalize your browsing experience (e.g. language).
+Statistics cookies
+These cookies allow us to analyse the use of the website so that we can measure and improve its performance.
+Marketing cookies
+These cookies allow us to personalize content based on your web behavior.
+Accept all cookies
+Confirm my preferences
+Search
+Cancel
+Search for item name-item code description
+look for
+Close this window

@@ -1,3 +1,2 @@
-# SA-058 success-network.co.th · sitemap · https://www.success-network.co.th/sitemap_index.xml · fetched 2026-10-25T07:41:18Z · HTTP 403
-403 Forbidden
-nginx
+# SA-058 alphanetcom.com · sitemap · https://alphanetcom.com/sitemap.xml · fetched 2026-10-25T07:41:18Z · HTTP 200
+

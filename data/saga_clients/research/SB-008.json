@@ -1,119 +1,132 @@
 {
- "code": "SB-008",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "快照失败（http_error）",
- "summary": "德国 Adler SS（adlerss.com；表内「ONV 的工业 FS / 有 ONV 的」；KP Zain Ullah（Operations Engineer）；官网 http_error，业务范围待核）；表内 3 次跟进无回复。",
- "type": "安防/网络安装商（德国，工业 FS 现 ONV）",
- "size": "",
- "brands_seen": [
-  "ONV"
- ],
- "evidence": [
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "ONV的工业FS；有ONV的",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "ONV 的工业 FS",
-   "quote": "ONV的工业FS / 有ONV的",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Zain Ullah",
-   "title": "Operations Engineer",
-   "email": "zain@adlerss.com",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "德国",
-  "other": "官网 adlerss.com，语言 ?，快照状态 http_error；角色判定来源：待核"
- },
- "business_lines": [
-  "（待核，德国）"
- ],
- "channels": {
-  "role": "安防/网络安装商（德国，工业 FS 现 ONV）",
-  "region": "德国",
-  "contact": "info@adlerss.com、zain@adlerss.com"
- },
- "signals": [
-  "表内：ONV 的工业 FS / 有 ONV 的；KP Zain Ullah / Operations Engineer",
-  "快照：http_error"
- ],
- "risks": [
-  "官网 http_error（业务范围与经营状态待核）；现供 ONV 价格基准低；3 次无回复"
- ],
- "saga_fit": {
-  "p1": "STI-288GP",
-  "tier": 25,
-  "why": "工业 FS（现 ONV）→ 工业 8 PoE + 2 SFP 非管理 STI-288GP（$59.8 @25%）/ 管理 STI-288GPM（$82.2）、4 PoE + 1 SFP STI-154GP（$39.2）"
- },
- "email_hook": "Zain, for the ONV-type industrial PoE positions in your installations, we supply DIN-rail 4-PoE + 1 SFP and 8-PoE + 2 SFP units (managed on Marvell L2+, or unmanaged, −40~75 °C, CE/RoHS) from single units, EXW USD — which port count do your projects use most?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A 邮箱 13 封 2025→2026，1 次记录打开，0 回；收件 info@adlerss.com, zain@adlerss.com；主题多为「90W PoE Managed Switch、Mini Industrial PoE Switch」；Elsa 箱：`to:adlerss.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 13 / 来 0）（第 74 批(j)））",
-   "type": "安防/网络安装商（德国，工业 FS 现 ONV）",
-   "sieve": "1~2（1 次打开）",
-   "stop": "13 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "DE 主攻（四主）",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 13，Opened 标签 1（Simon 群发追踪）；用户表：「ONV的工业FS；有ONV的」；研究档 risks：官网 http_error（业务范围与经营状态待核）；现供 ONV 价格基准低；3 次无回复"
-  },
-  "situation": "德国 Adler SS（adlerss.com；表内「ONV 的工业 FS / 有 ONV 的」；KP Zain Ullah（Operations Engineer）；官网 http_error，业务范围待核）；表内 3 次跟进无回复。",
-  "need": "工业 FS（现 ONV）→ 工业 8 PoE + 2 SFP 非管理 STI-288GP（$59.8 @25%）/ 管理 STI-288GPM（$82.2）、4 PoE + 1 SFP STI-154GP（$39.2）",
-  "breakpoint": "官网 http_error（业务范围与经营状态待核）；现供 ONV 价格基准低；3 次无回复",
-  "saga_now": {
-   "p1": "STI-288GP",
-   "tier": 25,
-   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-12 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-14 $280（10G Enterprise SFP Switch）",
-   "why": "工业 FS（现 ONV）→ 工业 8 PoE + 2 SFP 非管理 STI-288GP（$59.8 @25%）/ 管理 STI-288GPM（$82.2）、4 PoE + 1 SFP STI-154GP（$39.2）。已打开的主题（1/13 封有打开记录）：「16 Port Industrial PoE Switch」(2026-09-22) → 读者兴趣偏「工业」；与 P1 同类，继续",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开",
-   "one_question": "Zain, for the ONV-type industrial PoE positions in your installations, we supply DIN-rail 4-PoE + 1 SFP and 8-PoE + 2 SFP units (managed on Marvell L2+, or unmanaged, −40~75 °C, CE/RoHS) from single units, EXW USD — which port count do your projects use most?"
-  },
-  "facts": [
-   {
-    "date": "2026-09-22",
-    "dir": "去",
-    "who": "A 群发",
-    "quote": "90W PoE Managed Switch、Mini Industrial PoE Switch",
-    "why": "13 封 / 1 次打开 / 0 回｜首封 2025-08-14 → 末封 2026-09-22（13 去 / 0 来）",
-    "k": "gmail_digest"
-   },
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "ONV的工业FS；有ONV的",
-    "why": "表内备注",
-    "k": "用户表"
-   }
+  "code": "SB-008",
+  "name_official": "Abdulaziz Al Jowasem（个人名，沙特；公司名/域名未知）",
+  "website_status": "无法核实（用户表仅有人名与手机号，无公司名/域名）",
+  "summary": "用户表：谈合作，看了中科德能的工业 FS 和金升阳的工业电源；WhatsApp 已加，1 次实质回复，20 次推送。无公司实体信息，网页调研无从下手。",
+  "type": "未知（疑为个体贸易/集成）",
+  "size": "未知",
+  "brands_seen": [
+    "中科德能",
+    "金升阳（MORNSUN）"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "evidence": [
+    {
+      "kind": "用户表",
+      "claim": "仅有个人名 + 手机，无公司",
+      "quote": "Abdulaziz Al Jowasem · 966 5036 69457 已加 · 谈合作，看了中科德能的工业FS还有金升阳的工业电源",
+      "url": "Clients/A/DONE/阿联酋 沙特阿拉伯  2.3.xlsx",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "谈合作；看过中科德能工业 FS + 金升阳工业电源；WA 已加",
+      "quote": "谈合作，看了中科德能的工业FS还有金升阳的工业电源 / 966 5036 69457 已加",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "grade_override": "B",
+  "override_reason": "无公司实体可核实（无域名/邮箱），无法判断体量与渠道属性；WhatsApp 在手可慢跟，先问清公司名与网站再定级。",
+  "notes": "下一步只问一句：Which company are you with, and do you have a website? 回答后补 research 再评。",
+  "researched_at": "2026-10-21",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（基于首轮调研整理 + 需求映射；无公司主体）"
+  },
+  "company_facts": {
+    "legal_name": "（个人名；公司待核）",
+    "hq": "沙特阿拉伯（+966 50 366 9457）",
+    "size": "待核",
+    "other": "WhatsApp 已加；1 次实质回复；20 次推送"
+  },
+  "business_lines": [
+    "（待核）安防/工业网络采购或贸易"
+  ],
+  "channels": {
+    "WhatsApp": "+966 50 366 9457（用户表，已加）"
+  },
+  "signals": [
+    "谈合作并看过中科德能工业光纤交换机 + 金升阳（MORNSUN）工业电源 → 工业 DIN 机 + 电源组合需求",
+    "1 次实质回复后 19 次推送无回应 → 换问题式短消息"
+  ],
+  "risks": [
+    "无公司主体与邮箱；中东非主攻区；沙特清关需 SABER/SASO（按个案）"
+  ],
+  "saga_fit": {
+    "p1": "STI-288GP",
+    "tier": 25,
+    "why": "默认 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，$59.8）对应其看过的工业 FS；配 48 V DIN 电源（SmartByte 配件另询）；管理型 STI-288DGGPM（$137.5）"
+  },
+  "email_hook": "Abdulaziz, picking up our WhatsApp thread: the DIN-rail 8× GbE PoE+ + 2× SFP industrial switch you looked at is $59.8 EXW (managed version $137.5), with a matching 48 V DIN power supply — what is the project it is for, so I can send the right pair?",
+  "mail_review": {
+    "binding": {
+      "level": "轻度触达（邮件无证，WhatsApp/WeChat 已加）：用户表「Abdulaziz Al Jowasem · 966 5036 69457 已加 · 谈合作，看了中科德能的工业FS还有金升阳的工业电源」；S/A 邮箱 0 封；Elsa 箱无可查地址（仓内无此户任何邮箱/域名——用户表/WhatsApp/展会名片户，`from:e.sagatelecom to:` 无从下手；Elsa 群发是否碰过他无法判定，不写「未触达」）（第 74 批(o)）",
+      "type": "未知（疑为个体贸易/集成）",
+      "sieve": "3（已加 WhatsApp，表内有往来）",
+      "stop": "仓库只有用户表一行；往来在 Simon 手机",
+      "revive": "首封邮件（A 邮箱，按 email_hook）+ WhatsApp 一句话",
+      "lane": "沙特阿拉伯 非主攻",
+      "cadence": "一封",
+      "evidence": "gmail_digest：out 0；用户表：「Abdulaziz Al Jowasem · 966 5036 69457 已加 · 谈合作，看了中科德能的工业FS还有金升阳的工业电源」；研究档 risks：无公司主体与邮箱；中东非主攻区；沙特清关需 SABER/SASO（按个案）"
+    },
+    "situation": "用户表：谈合作，看了中科德能的工业 FS 和金升阳的工业电源；WhatsApp 已加，1 次实质回复，20 次推送。无公司实体信息，网页调研无从下手。",
+    "need": "默认 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，$59.8）对应其看过的工业 FS；配 48 V DIN 电源（SmartByte 配件另询）；管理型 STI-288DGGPM（$137.5）",
+    "breakpoint": "无公司主体与邮箱；中东非主攻区；沙特清关需 SABER/SASO（按个案）",
+    "saga_now": {
+      "p1": "STI-288GP",
+      "tier": 25,
+      "price": "按主表（研究档 saga_fit）；**封顶**：STI-288DGGPM 25% 档 $145.7 高于 2026-06-22 自家列表价 $137.5，信稿按 $137.5 写（规则 ㉔：档位价不得高于自家公开列表价）（㉕ 封顶：STI-288DGGPM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25）",
+      "why": "默认 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，$59.8）对应其看过的工业 FS；配 48 V DIN 电源（SmartByte 配件另询）；管理型 STI-288DGGPM（$137.5）",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "2026-11（Simon）",
+      "channel": "A 邮箱首封 + WhatsApp（Simon）",
+      "action": "首封 + 一句话",
+      "one_question": "Abdulaziz, picking up our WhatsApp thread: the DIN-rail 8× GbE PoE+ + 2× SFP industrial switch you looked at is $59.8 EXW (managed version $137.5), with a matching 48 V DIN power supply — what is the project it is for, so I can send the right pair?"
+    },
+    "facts": [
+      {
+        "date": "2024-03-28",
+        "dir": "来",
+        "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+        "quote": "用户表跟进：推「介绍自己 发了产品图确认需求」→ 对方「price」",
+        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+        "k": "Clients/A/DONE/阿联酋 沙特阿拉伯  2.3.xlsx no.10 2024.3.28"
+      },
+      {
+        "date": "2024-04-22",
+        "dir": "来",
+        "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+        "quote": "用户表跟进：推「发了2光4小壳信息」→ 对方「买了别家的」",
+        "why": "Simon 跟进表里的回应记录（邮箱看不到的渠道）；按原文留存",
+        "k": "Clients/A/DONE/阿联酋 沙特阿拉伯  2.3.xlsx no.10 2024.4.22"
+      },
+      {
+        "date": "2024-07-16",
+        "dir": "来",
+        "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+        "quote": "用户表跟进：推「passive poe手册」→ 对方「暂时没需求」",
+        "why": "Simon 跟进表里的**婉拒/无需求**记录——这是 stop 原因的直接证据，节奏按「不动，等他开口」",
+        "k": "Clients/A/DONE/阿联酋 沙特阿拉伯  2.3.xlsx no.10 2024.7.16"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "Abdulaziz Al Jowasem · 966 5036 69457 已加 · 谈合作，看了中科德能的工业FS还有金升阳的工业电源",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [
+      "WhatsApp 往来未入库"
+    ],
+    "draft_en": {
+      "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+      "body": "Abdulaziz, picking up our WhatsApp thread: the DIN-rail 8× GbE PoE+ + 2× SFP industrial switch you looked at is $59.8 EXW (managed version $137.5), with a matching 48 V DIN power supply — what is the project it is for, so I can send the right pair?"
+    },
+    "as_of": "2026-10-24"
+  }
 }

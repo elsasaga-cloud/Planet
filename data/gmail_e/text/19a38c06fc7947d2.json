@@ -11,7 +11,7 @@
  "text": "Hi, Bayar,\n1, please see attached download link.\n2, I am also attaching a datasheet, you can find plenty of useful\ninformation in it.\nThank you.",
  "char_count": "148",
  "attachments": "[{'filename': 'DIN Rail Unmanaged.jpg', 'mime_type': 'image/jpeg', 'size': 277893}, {'filename': 'Download Link_Alan.pdf', 'mime_type': 'application/pdf', 'size': 123493}, {'filename': 'STI-244GP.pdf', 'mime_type': 'application/pdf', 'size': 2113456}]",
- "note": "SA-118 Topica（蒙古，Bayar）：Elsa 2025-10-31 回 = 下载链接 PDF + STI-244GP 规格书——他 10 月问的「price list / MOQ / warranty」一个都没正面答",
+ "note": "SB-047 Topica（蒙古，Bayar）：Elsa 2025-10-31 回 = 下载链接 PDF + STI-244GP 规格书——他 10 月问的「price list / MOQ / warranty」一个都没正面答",
  "text_source": "text/plain",
  "fetched": "2026-10-24T16:03Z",
  "method": "Arena Gmail connector get_message_text(include_quoted=false)"

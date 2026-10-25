@@ -1,156 +1,185 @@
 {
- "code": "SA-087",
- "name_official": "VoIPDistri.com – Voice over IP Distribution（Mathias Gottensträter，Halle Westfalen，德国）",
- "website_status": "在线（voip.world / shop.voipdistri.com）",
- "summary": "德国 2003 年起的 VoIP/网络硬件网店型分销商（Akuvox、Alcatel、Dinstar、Fanvil、Gigaset、Grandstream、Teltonika、Yealink 等官方分销），服务 IT 经销商/集成商/工业客户/公共部门；用户记录：已在采购 E-link 工业交换机，询过 I/O 模块与分销商，7 次推送 0 回复。",
- "type": "网店型分销商（VoIP + 工业网络）",
- "size": "小型（个体企业主经营）",
- "brands_seen": [
-  "Teltonika",
-  "Yealink",
-  "Grandstream",
-  "Fanvil",
-  "Akuvox",
-  "Dinstar",
-  "Gigaset",
-  "Alcatel",
-  "OpenVox",
-  "Tiptel",
-  "Flyingvoice",
-  "E-link（用户记录：工业交换机在采）"
- ],
- "evidence": [
-  {
-   "kind": "官网",
-   "claim": "2003 年由 Mathias Gottensträter 创立，网店分销 VoIP 电话/系统与网络方案",
-   "quote": "VoIPDistri.com was founded in 2003 by Mathias Gottensträter and focuses on the distribution through its web shop",
-   "url": "https://voip.world/About-us",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "Impressum：业主、地址、电话",
-   "quote": "Im Hagen 3 D-33790 Halle Westfalen Tel: +49 5201 730030… Geschäftsinhaber: Mathias Gottensträter E-Mail: communication@voip.world",
-   "url": "https://voip.world/Imprint",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "Teltonika 官方批发商，服务 IT 经销商、集成商、工业客户与公共部门",
-   "quote": "As an official Teltonika wholesaler, VoIPDistri.com provides not only the hardware but also technical consulting… serves: IT resellers & system integrators, Industrial customers & public sector",
-   "url": "https://voip.world/Teltonika-RUTM20-compact-5G-Router-with-PoE-plus-passthrough",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "eBay",
-   "claim": "多品牌官方分销商名单",
-   "quote": "Akuvox, ALCATEL, Dinstar, Fanvil, Flyingvoice, Gigaset, Grandstream, OpenVox, Teltonika, Tiptel, Yealink und viele andere Hersteller!",
-   "url": "https://www.ebay.com/str/voipdistri",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "在采 E-link 工业交换机；卖 Teltonika；问 I/O 模块、分销商；7 次推送 0 回复",
-   "quote": "买Elink的一部分工业级交换机 也卖本土的品牌Teltonika 对M12交换机知道一些，问了I/O模块，以及是否有分销商",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Mathias Gottensträter",
-   "role": "CEO / Owner",
-   "email": "communication@voipdistri.com",
-   "phone": "+49 5201 730030",
-   "source": "用户 Clients 表 + Impressum"
-  }
- ],
- "grade_override": "B",
- "override_reason": "画像极对路（德国、已进口 E-link 工业交换机、服务工业客户），但 7 次推送 0 回复；且其询问点（I/O 模块、找分销）Saga 不供 → 转为慢跟、换角度重启。",
- "notes": "重启角度：'E-link 同类 DIN 工业 PoE 的补充 SKU + Teltonika 路由配套 PoE 供电'，P1 STI-288DGGPM（分销 20%）；一次单问邮件 + 电话。Impressum 邮箱 communication@voip.world 与用户记录 communication@voipdistri.com 同主体。",
- "researched_at": "2026-10-21",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（基于首轮调研整理 + 需求映射）"
- },
- "company_facts": {
-  "legal_name": "VoIPDistri.com – Voice over IP Distribution（Inh. Mathias Gottensträter）",
-  "founded": "2003",
-  "hq": "Halle (Westfalen), Germany（+49 5201 730030）",
-  "size": "小型（业主经营）",
-  "other": "网店 voip.world / shop.voipdistri.com；Teltonika/Yealink/Grandstream 等官方分销；已售 E-link 工业交换机"
- },
- "business_lines": [
-  "VoIP 话机/系统网店分销（Akuvox、Yealink、Grandstream、Fanvil 等）",
-  "工业网络：Teltonika 路由、E-link 工业交换机",
-  "面向 IT 经销商/集成商/工业客户/公共部门"
- ],
- "channels": {
-  "网店": "https://voip.world/ · https://shop.voipdistri.com/",
-  "电话": "+49 5201 730030（Impressum 公开）",
-  "邮箱（公开）": "communication@voipdistri.com"
- },
- "signals": [
-  "已在售 E-link（中国）工业交换机 → 直接按 E-link 型号对位报 Saga 同规格价（DIN 8 PoE + 2 SFP、M12 不供）",
-  "问 I/O 模块与分销商 → 可回答：Saga 直供网店，不设德国分销"
- ],
- "risks": [
-  "网店价格透明、比价激烈；7 次推送 0 回复"
- ],
- "saga_fit": {
-  "p1": "STI-288DGGPM",
-  "tier": 20,
-  "why": "网店分销 20% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理，$137.5）对位 E-link 同类；非管理 STI-288GP（$57.4）；配 Teltonika 路由的 PoE 供电"
- },
- "email_hook": "Herr Gottensträter, next to the E-link industrial switches in your shop: our DIN-rail 8-port PoE+ managed switch with 2 SFP is $137.5 EXW (unmanaged $57.4), shipped direct to Halle with no German distributor in between — which E-link SKU sells best so I can match that one first?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A 邮箱 15 封 2025→2026，1 次记录打开，0 回；收件 communication@voipdistri.com；主题多为「10G Enterprise SFP Switch、90W PoE Managed Switch」；Elsa 箱：`to:voipdistri.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 15 / 来 0）（第 74 批(j)））",
-   "type": "网店型分销商（VoIP + 工业网络）",
-   "sieve": "1~2（1 次打开）",
-   "stop": "15 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "DE 主攻（四主）",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 15，Opened 标签 1（Simon 群发追踪）；用户表：「买Elink的一部分工业级交换机 也卖本土的品牌Teltonika 对M12交换机知道一些，问了I/O模块，以及是否有分销商」；研究档 risks：网店价格透明、比价激烈；7 次推送 0 回复"
-  },
-  "situation": "德国 2003 年起的 VoIP/网络硬件网店型分销商（Akuvox、Alcatel、Dinstar、Fanvil、Gigaset、Grandstream、Teltonika、Yealink 等官方分销），服务 IT 经销商/集成商/工业客户/公共部门；用户记录：已在采购 E-link 工业交换机，询过 I/O 模块与分销商，7 次推送 0 回复。",
-  "need": "网店分销 20% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理，$137.5）对位 E-link 同类；非管理 STI-288GP（$57.4）；配 Teltonika 路由的 PoE 供电",
-  "breakpoint": "网店价格透明、比价激烈；7 次推送 0 回复",
-  "saga_now": {
-   "p1": "STI-288DGGPM",
-   "tier": 20,
-   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-18 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-07-15 $300（48 Port PoE Managed Switch）、2025-10-06 $280（10G Enterprise SFP Switch）（㉕ 封顶：STI-288DGGPM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25）",
-   "why": "网店分销 20% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理，$137.5）对位 E-link 同类；非管理 STI-288GP（$57.4）；配 Teltonika 路由的 PoE 供电。已打开的主题（1/15 封有打开记录）：「Firmware 7.5 L2+ Feature Update」(2026-07-08) → 读者兴趣偏「固件/功能」；与 P1 同类，继续",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开",
-   "one_question": "Herr Gottensträter, next to the E-link industrial switches in your shop: our DIN-rail 8-port PoE+ managed switch with 2 SFP is $137.5 EXW (unmanaged $57.4), shipped direct to Halle with no German distributor in between — which E-link SKU sells best so I can match that one first?"
-  },
-  "facts": [
-   {
-    "date": "2026-09-24",
-    "dir": "去",
-    "who": "A 群发",
-    "quote": "10G Enterprise SFP Switch、90W PoE Managed Switch",
-    "why": "15 封 / 1 次打开 / 0 回｜首封 2025-04-15 → 末封 2026-09-24（15 去 / 0 来）",
-    "k": "gmail_digest"
-   },
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "买Elink的一部分工业级交换机 也卖本土的品牌Teltonika 对M12交换机知道一些，问了I/O模块，以及是否有分销商",
-    "why": "表内备注",
-    "k": "用户表"
-   }
+  "code": "SA-087",
+  "name_official": "NSI Distribution (2164929 Ontario Inc.)",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（nsidistribution.com；并档 Planet 渠道档案 PA-004）",
+  "summary": "多伦多郊区的安防批发商，全国 9 个门店卖摄像机/门禁/网络给安装商；自己已经做贴牌品牌，PLANET 是其 PoE 交换机货源之一。类型：安防分销商（加拿大安防批发，9 个分部）+ 自有品牌（Norelco SafeCam）/自述 OEM 服务。信号：PLANET 品牌页 17 款（GSW-2620HP、8 口 PoE+2 上联、16 口 PoE+2 RJ45+2 SFP、24 口非 PoE 等）；同时分销 Lysora（美国 BSC 的自有品牌）。Planet 渠道档案 PA-004 评级 A（需求面：PLANET 品牌页 17 款 PoE 在售 + 已分销两家贴牌品牌；触达：Norm Matinnia 直邮 norm@nsidistribution.com（官网门店页/招聘页公开）；体量：区域安防批发 9 分部，可赢；区域加拿大（一线））。并档说明：该公司同时出现在 Saga 既有客户表（本条 SA-087，加拿大，Saga 群发已推送 13 次无回复）与 Planet 渠道挖掘名单，首触邮件此前未发送。",
+  "type": "",
+  "size": "",
+  "brands_seen": [
+    "PLANET"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "evidence": [
+    {
+      "kind": "卖方目录",
+      "claim": "PLANET 品牌页 17 款在售",
+      "quote": "Planet Technology #### 17 Products 8 Port Gigabit POE Switch + 2 Uplinks … 16 Port Gigabit POE Switch + 2 RJ45 + 2 SFP … GSW-2620HP",
+      "url": "https://www.nsidistribution.com/Brands/Planet-Technology-Corporation",
+      "date": "2026-10-19"
+    },
+    {
+      "kind": "公司自述",
+      "claim": "自述提供 OEM 设计与制造服务，并有自有品牌 Norelco SafeCam",
+      "quote": "offers OEM design and manufacturing services（检索摘要，原文页待 fetch 核对）",
+      "url": "https://www.nsidistribution.com/",
+      "date": "2026-10-19"
+    },
+    {
+      "kind": "公司自述",
+      "claim": "Norm Matinnia 直邮在官网公开",
+      "quote": "norm@nsidistribution.com（门店页与招聘页均列出；招聘页另列 carlo@/paul@/mike@/david@）",
+      "url": "https://www.nsidistribution.com/our-stores",
+      "date": "2026-10-19"
+    },
+    {
+      "kind": "第三方",
+      "claim": "分销 Lysora（Business Systems Connection 的自有品牌）",
+      "quote": "Lysora … distributed by NSI Distribution（检索摘要）",
+      "url": "https://www.nsidistribution.com/",
+      "date": "2026-10-19"
+    }
+  ],
+  "kp": [
+    {
+      "name": "Norm Matinnia",
+      "title": "Sales and Product Development（zoominfo 口径；官网门店页列为联系人）；公开（官网 /our-stores 与 /careers 页）",
+      "email": "norm@nsidistribution.com",
+      "phone": "1-800-668-3402",
+      "source": "https://www.nsidistribution.com/our-stores"
+    }
+  ],
+  "grade_override": "A",
+  "override_reason": "Planet 渠道档案 PA-004 评 A（真实需求 + 具名联系人 + 体量可赢，规则 INH）；Saga 表内未互动故自动评 B，按调研提升",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（并档 Planet 渠道档案 PA-004，W 批次调研 2026-10-19/20）"
+  },
+  "company_facts": {
+    "legal_name": "NSI Distribution (2164929 Ontario Inc.)",
+    "founded": "",
+    "hq": "Brampton, ON, 加拿大",
+    "size": "",
+    "other": "Planet 渠道档案 PA-004（2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json）；自有品牌：是（Norelco SafeCam；官网自述提供 OEM 设计与制造服务）；最大未知：Norelco 现有交换机贴牌来源（是否已有深圳供应商）；9 分部年 PoE 台数"
+  },
+  "business_lines": [
+    "安防分销商（加拿大安防批发，9 个分部）+ 自有品牌（Norelco SafeCam）/自述 OEM 服务"
+  ],
+  "products_seen": [
+    {
+      "brand": "PLANET",
+      "model": "GSW-2620HP",
+      "spec": "PLANET 为 24 口 PoE 非管理+2 SFP；Saga 为 L2+ 管理型，功能上覆盖",
+      "saga": "STC-424DGGPM-280W",
+      "url": "https://nsidistribution.com",
+      "date": "2026-10-19"
+    },
+    {
+      "brand": "PLANET",
+      "model": "GS-4210-24P4C",
+      "spec": "24×GE PoE+ + 4 Combo，280W",
+      "saga": "STC-424DGGPM-280W",
+      "url": "https://nsidistribution.com",
+      "date": "2026-10-19"
+    }
+  ],
+  "channels": {
+    "role": "安防分销商（加拿大安防批发，9 个分部）+ 自有品牌（Norelco SafeCam）/自述 OEM 服务",
+    "region": "加拿大"
+  },
+  "signals": [
+    "安防批发商自带贴牌诉求（Norelco/Lysora 都是贴牌货）；9 个分部走量 24 口 PoE；Norm Matinnia（销售与产品开发）直邮公开",
+    "第二货源对位：GSW-2620HP 同位且带 L2+ 管理；贴牌中性包装",
+    "样机到 Brampton：30 天并行测试，不要求承诺；兼容其在用 SFP"
+  ],
+  "risks": [
+    "Norelco 现有交换机贴牌来源（是否已有深圳供应商）；9 分部年 PoE 台数",
+    "Planet 首触邮件未发送（Elsa 账号待定）",
+    "Saga 群发已推送 13 次无回复 → 改用具名收件人与新钩子（勿再用群发模板）"
+  ],
+  "saga_fit": {
+    "p1": "STC-424DGGPM-280W",
+    "tier": 20,
+    "why": "对位其在售 GSW-2620HP / GS-4210-24P4C 一档（24×GE PoE+ + 4 上联，280W），是安防批发最走量的尺寸；分销走量 → 20%；Norelco 贴牌定制另按 30%（沿用 Planet 档案 PA-004）；需求：24/16/8 口 PoE 商用、贴牌、北美 FCC（Saga 有）、UL（Saga 无——若硬性要求则降级）"
+  },
+  "email_hook": "Your PLANET page already lists 17 PoE models next to Norelco SafeCam, so a second-source PoE switch under your own label is a natural fit for your nine branches. Is the 24-port PoE+ with 4 uplinks your highest-volume PLANET SKU across the branches, or do the 8/16-port units move faster?",
+  "mail_review": {
+    "binding": {
+      "level": "未绑定（邮件 18 封 0 回，Opened 3 次（最近 2026-06-12），4 个收件人；Elsa 箱：`to:norelcosafecam.com OR to:nsidistribution.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 18 / 来 0）（第 74 批(g)））",
+      "type": "加拿大 NSI Distribution（Ontario）",
+      "sieve": "0（邮件层无人工回复）",
+      "stop": "—",
+      "revive": "对打开过的人发一句话",
+      "lane": "CA",
+      "cadence": "一次",
+      "evidence": "邮件：去信 18 封（2025-05-27 → 2026-09-24），来信 0；Opened 标签 3 次（2025-05-27、2025-11-21、2026-06-12）；收件人 alexs@nsidistribution.com, amanda@nsidistribution.com, claudio@nsidistribution.com, joef@nsidistribution.com, norm@nsidi"
+    },
+    "situation": "4 个收件人里有人持续打开（3 次，到 2026-06）。",
+    "need": "—",
+    "breakpoint": "—",
+    "saga_now": {
+      "p1": "STC-424DGGPM-280W",
+      "tier": 20,
+      "price": "—；**第 63 批基准统一（规则 ㉕）**：列表价 $220 → 20% 档 $215.2；群发里他已看到的价（续）：2026-08-06 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-24 $280（10G Enterprise SFP Switch）",
+      "why": "已打开的主题（3/18 封有打开记录）：「Industrial PoE Switch」(2025-05-27)、「Booster PoE Switch」(2025-11-21)、「10G L3 Managed Switch」(2026-06-12) → 读者兴趣偏「工业」；与 P1 同类，继续 最近一封去信是 2026-09-24 A 邮箱模板（在本档最后一条事实之后）——下一封必须回到真人线程、不再叠模板｜已发资料（勿重发）：Product Link_2026Q2(2026-03-05)、Product Link_2026Q3(2026-07-06)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "2026-11",
+      "channel": "A 邮箱 → norm@nsidistribution.com",
+      "action": "一句话（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
+      "one_question": "Our June note on the 24-port PoE / 10G unit — is there a line in the NSI catalogue it would fit, and who decides on new vendors?"
+    },
+    "facts": [
+      {
+        "date": "2025-05-27",
+        "dir": "去",
+        "who": "Saga（群发）",
+        "quote": "「Industrial PoE Switch」被打开（Mailtrack Opened 标签）",
+        "why": "唯一的互动痕迹",
+        "k": "c5c7abff2df78e77"
+      },
+      {
+        "date": "2025-05-27",
+        "dir": "去",
+        "who": "A 箱（Alan）",
+        "quote": "Industrial PoE Switch",
+        "why": "首封去信（邮箱索引；去信共 18 封）",
+        "k": "c5c7abff2df78e77"
+      },
+      {
+        "date": "2025-11-21",
+        "dir": "去",
+        "who": "Saga（群发）",
+        "quote": "「Booster PoE Switch」被打开（Mailtrack Opened 标签）",
+        "why": "唯一的互动痕迹",
+        "k": "0a8d96748590fd99"
+      },
+      {
+        "date": "2026-06-12",
+        "dir": "去",
+        "who": "Saga（群发）",
+        "quote": "「10G L3 Managed Switch」被打开（Mailtrack Opened 标签）",
+        "why": "唯一的互动痕迹",
+        "k": "0e8efb29e3a824ef"
+      },
+      {
+        "date": "2026-09-24",
+        "dir": "去",
+        "who": "A 箱（Alan）",
+        "quote": "Managed PoE Switches",
+        "why": "最近一封去信（邮箱索引；去信共 18 封）",
+        "k": "229930f76646812f"
+      }
+    ],
+    "proof_gaps": [
+      "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 从未去信、Replied 索引亦无此户），仓库未见原文"
+    ],
+    "draft_en": {
+      "subject": "One question — 24-port PoE / 10G L3",
+      "body": "Hi, Norm,\n\nWe have sent NSI a few notes this year — the 10G L3 managed switch in June, the industrial and booster PoE units before that — and never gave you a reason to answer. No brochure this time, just one question:\n\nIs there a line in your distribution catalogue where a Marvell-based 24-port PoE switch with 4× 10G SFP+ uplinks (STC-424DGGPM-440W, $215.2 USD EXW, OEM label possible) would fit — and who at NSI decides on new vendors?\n\nIf not, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+    },
+    "as_of": "2026-10-24"
+  }
 }

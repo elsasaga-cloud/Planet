@@ -1,0 +1,66 @@
+{
+ "code": "SC-053",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（baroai.com，快照 2026-10-21）",
+ "summary": "韩国 BARO AI（自建站询盘「核心交换机 MSN3420-CB2FC Spectrum-2」（NVIDIA/Mellanox 数据中心品牌指定）；KP Lucas）；表内未跟进。",
+ "type": "AI 公司（韩国，数据中心品牌指定询盘）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：BARO AI_EN；品类词 数据中心 / 企业 IT",
+   "quote": "BARO AI Newsletter .",
+   "url": "https://en.baroai.com",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "核心交换机 MSN3420-CB2FC Spectrum-2 / from: 自建站",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "MSN3420 Spectrum-2 询盘",
+   "quote": "核心交换机 MSN3420-CB2FC Spectrum-2 / from: 自建站",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "品牌指定数据中心核心交换机询盘（超范围）；c_sub=品类不符",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "韩国",
+  "other": "官网 baroai.com，语言 en，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "AI / 数据中心（韩国）"
+ ],
+ "channels": {
+  "role": "AI 公司（韩国，数据中心品牌指定询盘）",
+  "region": "韩国",
+  "contact": "lucas@baroai.com"
+ },
+ "signals": [
+  "官网：BARO AI_EN ; BARO AI Newsletter；kw data center 5",
+  "表内：核心交换机 MSN3420-CB2FC Spectrum-2 / from: 自建站；KP Lucas"
+ ],
+ "risks": [
+  "品类不符：Mellanox Spectrum-2 数据中心核心交换机（品牌指定、Saga 不供）；非主攻区（韩国）"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 20,
+  "why": "询盘为 Mellanox 数据中心核心交换机（品牌指定、超范围）→ 改 C（品类不符）"
+ },
+ "email_hook": "（不发送：品牌指定/数据中心）"
+}

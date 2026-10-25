@@ -1,0 +1,68 @@
+{
+ "code": "SC-203",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（aiportek.com，快照 2026-10-21）",
+ "summary": "香港 虹科電子有限公司 Aiportek（工业标准品与一站式方案供应商：数据安全、ADAS 仿真、车载网络、工业物联网、AI 机器视觉；仅 gmail 联系邮箱；表内「Ethernet Switch」）；群发 5 次无回复。",
+ "type": "香港/国内技术分销同行",
+ "size": "",
+ "brands_seen": [
+  "Pulsar"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：虹科電子有限公司",
+   "quote": "香港虹科為全球客戶提供工業標準品及一站式解決方案供應商",
+   "url": "https://aiportek.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "Ethernet Switch",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "虹科 定位",
+   "quote": "Home - 虹科電子有限公司 ; 香港虹科為全球客戶提供工業標準品及一站式解決方案供應商",
+   "url": "https://aiportek.com/",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "香港/国内分销同行（非目标区）；c_sub=区域外/同行",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "香港",
+  "other": "官网 aiportek.com，语言 zh-HK，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "工业标准品 / 技术方案分销（香港）"
+ ],
+ "channels": {
+  "role": "香港/国内技术分销同行",
+  "region": "香港",
+  "contact": "hongkeinfo@gmail.com"
+ },
+ "signals": [
+  "官网：Home - 虹科電子有限公司 ; 香港虹科為全球客戶提供工業標準品及一站式解決方案供應商 ; 車載網絡通訊 ; 工業物聯網與數碼工廠",
+  "表内：Ethernet Switch；hongkeinfo@gmail.com"
+ ],
+ "risks": [
+  "非目标区（香港/国内分销同行，可直采）；仅 gmail 免费邮箱"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 20,
+  "why": "香港/国内技术分销商（同行、非目标区，免费邮箱）→ 改 C"
+ },
+ "email_hook": "（不发送：香港同行）"
+}

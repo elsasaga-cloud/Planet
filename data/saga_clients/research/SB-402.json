@@ -1,36 +1,52 @@
 {
  "code": "SB-402",
- "name_official": "Longline Network（土耳其）",
+ "name_official": "SFPTURKEY Elektronik İth. İhr. Tic. Ltd. Şti.（İstanbul Kadıköy, TR；sfpturkey.com.tr；自有品牌 SFPTÜRKİYE / geMaxx / Gigacom）",
  "researched_at": "2026-10-21",
- "website_status": "在线（longlinenetwork.com，快照 2026-10-21，土耳其语）",
- "summary": "土耳其 SFP 收发器 / 网卡 / 线缆 / MC 销售商（switch 329 / industrial 227 / sfp 65 / media converter 33），仅 info@；表内「SFP MC（主要）；10G MC 是 E-link 的」；群发 2 次。",
+ "website_status": "在线（电商）",
+ "summary": "伊斯坦布尔 Kadıköy 的光模块/网络设备进口商与电商 SFPTURKEY（2012 年以 Kreasis 起家；2014 Gigacom、2015 SFPTürkiye、2016 geMaxx 三个自有品牌的唯一进口商与分销商；2018 起自营电商、2020 起 amazon.com.tr/hepsiburada/trendyol 店铺；2022-11 更名 SFPTURKEY Elektronik；2–10 人；产品：兼容 SFP/SFP+/QSFP、网络交换机（含工业型分类）、介质转换器、光纤网卡；3 年换新保；Koşuyolu Mah. Cenap Şahabettin Sok. No.16；satis@sfpturkey.com.tr；+90 555 090 87 37）。ISAF 记录（Evelyn 客户）：向其推荐特色产品——万兆光、2 光 2 电、2 光 4 电、带 bypass；客户给了网站图片需求、我方修图；联系人 Ufuk Gören；无后续跟进。自有品牌电商 → OEM 30%。",
  "type": "",
  "size": "",
  "brands_seen": [
-  "E-link"
+  "SFPTÜRKİYE / SFPTURKEY（自有品牌）",
+  "geMaxx（自有品牌）",
+  "Gigacom（自有品牌）"
  ],
  "evidence": [
   {
-   "kind": "官网快照",
-   "claim": "SFP 收发器、网卡方案、线缆、MC 销售",
-   "quote": "Sfp Transceiver, Nic Solutions Introduction, Cable Solutions, Media Converter Ürünleri Satış",
-   "url": "https://longlinenetwork.com/",
+   "kind": "LinkedIn",
+   "claim": "历史、品牌、渠道",
+   "quote": "2012 yılında Kreasis adı ile … 2014 yılında Gigacom, 2015 yılında Sfptürkiye, 2016 yılında ise geMaxx markalarını piyasaya sunmuş olan SFPTURKEY, bu markaların tek marka sahibi, tek ithalatçısı ve tek yetkili distribütörü … 2020 yılından itibaren de amazon.com.tr, hepsiburada.com, trendyol.com … Şirket büyüklüğü: 2-10 çalışan … Kuruluş: 2012",
+   "url": "https://tr.linkedin.com/company/sfpturkey",
    "date": "2026-10-21"
   },
   {
+   "kind": "官网",
+   "claim": "品类与联系方式",
+   "quote": "Transceiver - Network Switch - Media Converter - Fiber Ethernet Kartı - Fiber Çözümler - Bakır Sistemler … 0555 090 87 37 satis@sfpturkey.com.tr Koşuyolu Mahallesi Cenap Şahabettin Sokak No.16 Kadıköy İstanbul",
+   "url": "https://www.sfpturkey.com.tr/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "更名公告",
+   "quote": "18.11.2022 tarihi itibari ile SFPTURKEY ELEKTRONİK İTH. İHR. TİC. LTD. ŞTİ. olarak değiştirilmiştir.",
+   "url": "https://sfpturkiye.com/blog/sfpturkey-sirket-unvan-degisikligi-duyurusu/",
+   "date": "2023-08-14"
+  },
+  {
    "kind": "用户表",
-   "claim": "SFP MC（主要）；10GMC 是 E-link 的",
-   "quote": "兴趣：SFP MC（主要） 10GMC 是E-link的",
+   "claim": "ISAF 互动：推荐 10G/2 光 2 电/2 光 4 电/bypass；修图需求",
+   "quote": "Evelyn客户， 推荐一些有特点的产品给客户， 万兆光， 2光2电， 2光4电， 带bypass， 客户给我们他们网站的图片需求， 我们修好图给客户",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
  "kp": [
   {
-   "name": "（未具名）",
-   "title": "",
-   "email": "info@longlinenetwork.com",
-   "phone": "",
+   "name": "Ufuk Gören",
+   "role": "（用户表联系人；职务待核）",
+   "email": "ufuk.goren@sfpturkey.com.tr（用户表）",
+   "phone": "+90 555 090 87 37（公司）",
    "source": "（本地 Clients/ 表格，无公开 URL）"
   }
  ],
@@ -39,92 +55,83 @@
  "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照核对 + 表内）"
+  "level": "B 级加厚 v1（官网 + LinkedIn 核对）"
  },
  "company_facts": {
-  "legal_name": "Longline Network（待核）",
-  "founded": "",
-  "hq": "Türkiye",
-  "size": "小型经销 / 网店",
-  "other": "已售 E-link 10G MC"
+  "legal_name": "SFPTURKEY Elektronik İthalat İhracat Ticaret Ltd. Şti.（2022-11-18 更名）",
+  "founded": "2012（Kreasis）",
+  "hq": "Koşuyolu Mah. Cenap Şahabettin Sok. No.16, Kadıköy / İstanbul（+90 555 090 87 37；satis@sfpturkey.com.tr）",
+  "size": "2–10（LinkedIn）",
+  "other": "自有品牌 SFPTÜRKİYE/SFPTURKEY（土耳其专利局注册）、geMaxx、Gigacom；CE/FC/RoHS；电商 + 市场平台店铺"
  },
  "business_lines": [
-  "SFP / MC / 网卡销售"
+  "兼容光模块（1G–100G）进口与电商销售",
+  "网络交换机（含工业型）、介质转换器、光纤网卡（自有品牌）"
  ],
  "channels": {
-  "role": "经销商（已售中国同行）",
-  "region": "土耳其"
+  "电商": "https://www.sfpturkey.com.tr/ · https://sfpturkiye.com/",
+  "电话": "+90 555 090 87 37（公开）",
+  "邮箱（公开）": "satis@sfpturkey.com.tr / info@sfpturkey.com.tr",
+  "LinkedIn": "https://tr.linkedin.com/company/sfpturkey"
  },
  "signals": [
-  "已售 E-link MC → 同类替换"
+  "已有自有品牌工业交换机/MC 分类 → 直接贴 SFPTÜRKİYE/geMaxx 标补 2 光 2 电 / 2 光 4 电 / 10G 机型；曾索要产品图（已修图）= 上架意向",
+  "电商定价透明 → 用 Realtek 线 + STI 小机型的价格优势"
  ],
  "risks": [
-  "SFP 主业不供；仅 info@"
+  "小团队、电商库存采购量小且比价；无后续跟进"
  ],
  "saga_fit": {
-  "p1": "STI-110GE",
-  "tier": 20,
-  "why": "MC 需求 → STI-110GE（$22.4 @20%）；10G MC 按 SmartByte 另询。"
+  "p1": "STI-240GM",
+  "tier": 30,
+  "why": "OEM 30% 档：STI-240GM（DIN 2 SFP + 4 GE L2 管理，$62.2）与 STI-220GE（2 SFP + 2 GE，$30.1）对应「2 光 4 电 / 2 光 2 电」；10G 用 STI-480XGGM（4×10G SFP+ + 8 GE，$163.2）；bypass 版 SmartByte LT-IS6312G-4GX8GT-FBP（$186.5，Saga 暂无对应型号）"
  },
- "email_hook": "Merhaba — beside the E-link converters, our DIN gigabit MC is $22 EXW and 10G SFP+/RJ45 MCs are available on request; what monthly MC volume do you move?",
+ "email_hook": "Ufuk Bey, hazırladığımız ürün görsellerinin devamı olarak: 2 SFP + 4 port L2 yönetilebilir endüstriyel switch geMaxx/SFPTÜRKİYE etiketiyle EXW 62,2 USD, 2 SFP + 2 port 30,1 USD — mağazanız için ilk parti kaç adet olsun?",
  "mail_review": {
   "binding": {
-   "level": "未触达（A/S 邮箱 11 封 2024→2026，1 次记录打开，0 回；收件 info@longlinenetwork.com；主题多为「10G Enterprise SFP Switch、Industrial PoE Switch」；Elsa 箱：`to:longlinenetwork.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 11 / 来 0）（第 74 批(i)））",
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「Evelyn客户， 推荐一些有特点的产品给客户， 万兆光， 2光2电， 2光4电， 带bypass， 客户给我们他们网站」；Elsa 箱：`to:sfpturkey.com.tr` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(i)））",
    "type": "—",
-   "sieve": "1~2（1 次打开）",
-   "stop": "只打通用邮箱，无记录打开",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
    "lane": "TR 主攻（四主）",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 11，Opened 标签 1（Simon 群发追踪）；用户表：「兴趣：SFP MC（主要） 10GMC 是E-link的」；研究档 risks：SFP 主业不供；仅 info@"
+   "cadence": "首封后看打开",
+   "evidence": "gmail_digest：out 0；用户表：「Evelyn客户， 推荐一些有特点的产品给客户， 万兆光， 2光2电， 2光4电， 带bypass， 客户给我们他们网站的图片需求， 我们修好图给客户」；研究档 risks：小团队、电商库存采购量小且比价；无后续跟进"
   },
-  "situation": "土耳其 SFP 收发器 / 网卡 / 线缆 / MC 销售商（switch 329 / industrial 227 / sfp 65 / media converter 33），仅 info@；表内「SFP MC（主要）；10G MC 是 E-link 的」；群发 2 次。",
-  "need": "MC 需求 → STI-110GE（$22.4 @20%）；10G MC 按 SmartByte 另询。",
-  "breakpoint": "SFP 主业不供；仅 info@",
+  "situation": "伊斯坦布尔 Kadıköy 的光模块/网络设备进口商与电商 SFPTURKEY（2012 年以 Kreasis 起家；2014 Gigacom、2015 SFPTürkiye、2016 geMaxx 三个自有品牌的唯一进口商与分销商；2018 起自营电商、2020 起 amazon.com.tr/hepsiburada/trendyol 店铺；2022-11 更名 SFPTURKEY Elektronik；2–10 人；产品：兼容 SFP/SFP+/QSFP、网络交换机（含工业型分类）、介质转换器、光纤网卡；3 年换新保；Koşuyolu Mah. Cenap Şahabettin Sok. No.16；satis@sfpturkey.com.tr；+90 555 090 87 37）。ISAF 记录（Evelyn 客户）：向其推荐特色产品——万兆光、2 光 2 电、2 光 4 电、带 b",
+  "need": "OEM 30% 档：STI-240GM（DIN 2 SFP + 4 GE L2 管理，$62.2）与 STI-220GE（2 SFP + 2 GE，$30.1）对应「2 光 4 电 / 2 光 2 电」；10G 用 STI-480XGGM（4×10G SFP+ + 8 GE，$163.2）；bypass 版 SmartByte LT-IS6312G-4GX8GT-FBP（$186.5，Saga 暂",
+  "breakpoint": "小团队、电商库存采购量小且比价；无后续跟进",
   "saga_now": {
-   "p1": "STI-110GE",
-   "tier": 20,
-   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-07-04 $220（48 port managed switch）、2025-09-26 $280（10G Enterprise SFP Switch）",
-   "why": "MC 需求 → STI-110GE（$22.4 @20%）；10G MC 按 SmartByte 另询。已打开的主题（1/11 封有打开记录）：「Industrial poe switch」(2024-08-05) → 读者兴趣偏「工业」；当前 P1 属「10G 汇聚/L3」，下一封按「工业」给，不按 P1",
+   "p1": "STI-240GM",
+   "tier": 30,
+   "price": "锚价：STI-240GM $62.2（OEM 30% 档；第 74 批(r) 2026-10-25 更正钩子句 77,0 = STI-244GPM PDF 价误用）；Realtek 线按 HRUI 2026-09-30 进价 +30% 现算（Q-47 默认，不用 Drive 旧表价）：STC-28GPM $62.2→$77.0；按主表（研究档 saga_fit）",
+   "why": "OEM 30% 档：STI-240GM（DIN 2 SFP + 4 GE L2 管理，$62.2）与 STI-220GE（2 SFP + 2 GE，$30.1）对应「2 光 4 电 / 2 光 2 电」；10G 用 STI-480XGGM（4×10G SFP+ + 8 GE，$163.2）；bypass 版 SmartByte LT-IS6312G-4GX8GT-FBP（$186.5，Saga 暂",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开",
-   "one_question": "Merhaba — beside the E-link converters, our DIN gigabit MC is $22 EXW and 10G SFP+/RJ45 MCs are available on request; what monthly MC volume do you move?"
+   "when": "待 Simon 排期（首封）",
+   "channel": "A 邮箱 → ufuk.goren@sfpturkey.com.tr（Ufuk Gören）",
+   "action": "首封：按 email_hook 一问（第 74 批(r) 2026-10-25：英文信稿已写 `draft_en`，内容 = 土耳其语钩子句的英文版；土耳其语一句话仍在研究档备注里，对方若不读英文就整段单发）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
+   "one_question": "Ufuk Bey, hazırladığımız ürün görsellerinin devamı olarak: 2 SFP + 4 port L2 yönetilebilir endüstriyel switch geMaxx/SFPTÜRKİYE etiketiyle EXW 62,2 USD, 2 SFP + 2 port 30,1 USD — mağazanız için ilk parti kaç adet olsun?"
   },
   "facts": [
-   {
-    "date": "2024-11-05",
-    "dir": "去",
-    "who": "Simon → Angora Networks（SA-168）附件 Turkey Client List.xlsx",
-    "quote": "名单行：「industrial network info@longlinenetwork.com https://www.longlinenetwork.com/10g-media-converter/ https://www.longlinenetwork.com/media-conve」",
-    "why": "Saga 2024-11-05 把本户列入交给 Angora（安卡拉，Saga 提议的欧盟/土耳其分销伙伴）的 64 家起步名单；此后 Saga 仍直发本户。若 Angora 已接触过本户，Saga 直发会与自己提议的渠道打架 → Q-51（默认：直发继续，Angora 报了价的户 Saga 只做技术支持）",
-    "k": "gmail_s 2024-11-05 Re: Invoice_5pcs STC-424DGGPM-280W（附件）+ Drive PI 7_土耳其 Turkey_Client_List.xlsx"
-   },
-   {
-    "date": "2026-03-04",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "10G Enterprise SFP Switch、Industrial PoE Switch",
-    "why": "11 封 / 1 次打开 / 0 回｜首封 2024-07-04 → 末封 2026-03-04（11 去 / 0 来）",
-    "k": "gmail_digest"
-   },
    {
     "date": "2026-10-21",
     "dir": "用户表",
     "who": "Simon",
-    "quote": "兴趣：SFP MC（主要） 10GMC 是E-link的",
+    "quote": "Evelyn客户， 推荐一些有特点的产品给客户， 万兆光， 2光2电， 2光4电， 带bypass， 客户给我们他们网站的图片需求， 我们修好图给客户",
     "why": "表内备注",
     "k": "用户表"
    }
   ],
   "proof_gaps": [
-   "在 Saga 给 Angora 的 Turkey Client List（2024-11-05）里——Angora 是否接触过本户无记录（Q-51）"
+   "无邮件往来"
   ],
-  "draft_en": null,
+  "draft_en": {
+   "subject": "geMaxx / SFPTÜRKİYE label - 2 SFP + 4 port and 2 SFP + 2 port industrial units",
+   "body": "Hi Ufuk,\n\nFollowing the product images we prepared for your site: the industrial units can carry the geMaxx / SFPTÜRKİYE label from the first lot.\n\n- 2 x SFP + 4 x Gigabit, L2 managed, DIN-rail, -40 to 75 C, model STI-240GM - $62.2 USD EXW (OEM price, MOQ 1, 15-day validity)\n- 2 x SFP + 2 x Gigabit, DIN-rail, model STI-220GE - $30.1 USD EXW\n- 4 x 10G SFP+ + 8 x Gigabit, L2+ managed, model STI-480XGGM - $163.2 USD EXW\n\nLogo on the front panel is free; colour box from 200 sets. A fibre-bypass version (8 x Gigabit + 4 x SFP) exists at $186.5 if you want it in the range.\n\nOne question: what quantity should the first lot for your store be?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+  },
   "as_of": "2026-10-24"
  }
 }

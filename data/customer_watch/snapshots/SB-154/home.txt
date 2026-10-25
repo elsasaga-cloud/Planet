@@ -1,137 +1,204 @@
-# SB-154 sieraelectronics.com · home · https://sieraelectronics.com/ · fetched 2026-10-25T07:41:18Z · HTTP 200
-Siera Electronics | Cloud
-Languages
-Log In
-Contact
-About Us
-Solutions
-Products
-News
-Warranty
-RMA Apply for a new RMA Ticket
-Ticket Status
-Cloud
-Languages
-Log In
-Contact
-About Us
-Solutions
-Products
-News
-Warranty
-RMA Apply for a new RMA Ticket
-Ticket Status
-North America
-Canada - English
-Canada - Français
-United States - English
-Central America and Caribbean
-Belice - English
-Costa Rica - Español
-El Salvador - Español
-Guatemala - Español
-Honduras - Español
-Nicaragua - Español
-Panamá - Español
-República Dominicana - Español
-South America
-Argentina - Español
-Bolivia - Español
-Brasil - Portugues
-Chile - Español
-Colombia - Español
-Ecuador - Español
-Paraguay - Español
-Peru - Español
-Uruguay - Español
-Venezuela - Español
-Europe
-Baltic States - English
-België - Engels
-Belgique - Français
-Bulgaria - English
-Česká republika - Česky
-Croatia - Croatian
-Denmark - English
-Deutschland - Deutsch
-España - Español
-Finland - Finnish
-France - Français
-Hungary - Hungarian
-Ireland - English
-Italia - Italiano
-Nederland - Engels
-Norway - Norwegian
-Österreich - Deutsch
-Polska - Polski
-Portugal - Português
-Romania - Romanian
-Россия - Русский
-Serbia - Serbian
-Slovakia - Slovak
-Slovenia - Slovenian
-Sverige - Swedish
-Schweiz - Deutsch
-Suisse - Français
-Svizzera - Italiano
-Türkiye - Türk
-United Kingdom - English
-Asia
-中国 - 简体中文
-Hong Kong - Chinese
-India - Hindi
-Indonesia - Indonesian
-日本 - 日本語
-대한민국 - 한국어
-Malaysia - Malay
-Philippines - English
-Singapore - English
-Thailand - Thai
-Vietnam - Vietnamese
-We are Siera and we love what we do!
-We develop, manufacture and market high-end electronic products at competitive prices.
-Learn More
-Customized solutions for your business
-We are constantly working on the development of new and better integrated solutions, incorporating the most recent advances in technology to meet the changing needs for today’s world.
-All solutions
-Proud of our numbers
-Agile, professional, innovative and respectful of our trade agreements.
-30
-years developing electronics
-+220
-sales channels
-5
-continents
-+1000
-approved products
-What’s new?
-Important Notice · Service update
-Dear customers, We would like to inform you that starting from Monday, December 8, 2025, the database service associated with the “Cloud 1” server of the iSMS 5.0 App will be discontinued.This update applies only to IPL IP cameras and DVRs manufactured until the year...
-Sieco Cameras Compatible with Alexa and Google Home
-Starting with firmware 5.6.6.200606, all Sieco Wi-Fi cameras can be linked to voice assistants. Compatible Features“Alexa, show me the entrance” → Live view on Echo Show.“Hey Google, activate the garage alarm” → Activates motion notification.IFTTT flows based on human...
-New Security Feature on UHF SAC 3690 Readers
-Starting from firmware version 3.76, the SAC 3690-6M, SAC 3690, and SAC 3692IP models include a powerful new security feature: the ability to set passwords on UHF TAGs (e.g., model SAC 4103) and on the readers themselves. With this update, TAGs and readers can be...
-Let's develop your next project together!
-Contact us online
-Complete the form to be always up to date
-New Newsletter Subscription
-Name
-Email
-Send
-Home
-About Us
-Solutions
-Products
-News
-General Conditions of Sales
-Warranty
-RMA
-Cloud
+# SB-154 wire.tech · home · https://wire.tech/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+Wire Technologies — Wire Technologies
+Skip to content
+Find us on LinkedIn
+Menu
+All categories
+------
+AOC
+BiDi Transceivers
+Cable Management
+Cat Cable
+DAC
+Docking Station
+Fibre Cable
+Media Converter
+MPO Cable
+NIC Card
+PDU
+Power Cable
+Transceiver Adapters
+Transceivers
+All categories
+Cancel
 Login
-Contact
-Search for:
-2025 All rights reserved Siera Electronics
+View Quote
+Transceivers
+Cisco Compatible
+Juniper Compatible
+Brocade Compatible
+Dell Compatible
+Arista Compatible
+Extreme Compatible
+HPe Compatible
+Mellanox Compatible
+BiDi Transceivers
+SFP Adapters
+Direct Attach Cables
+Cisco Compatible
+Juniper Compatible
+Brocade Compatible
+Dell Compatible
+Arista Compatible
+Extreme Compatible
+HPe Compatible
+Mellanox Compatible
+Active Optical Cables
+Cisco Compatible
+Juniper Compatible
+Brocade Compatible
+Dell Compatible
+Arista Compatible
+Extreme Compatible
+Intel Compatible
+H3C Compatible
+Mellanox Compatible
+Fibre & MPO Cables
+OS2
+OM3
+OM4
+MPO/MTP
+CAT Cables
+CAT5e U/UTP
+CAT6 U/UTP
+CAT6a S/FTP
+NIC Cards
+Power Solutions
+PDUs
+Power Cables
+UPS
+More
+Cable Management
+Docking Stations
+Media Converters
+Server Cabinets
+Make a Request
+Product Services
+Design
+Compliance
+Completed Projects
+My Account
+Login
+Logout
+Register
+Login
+Close
+Transceivers
+Cisco Compatible
+Juniper Compatible
+Brocade Compatible
+Dell Compatible
+Arista Compatible
+Extreme Compatible
+HPe Compatible
+Mellanox Compatible
+BiDi Transceivers
+SFP Adapters
+Direct Attach Cables
+Cisco Compatible
+Juniper Compatible
+Brocade Compatible
+Dell Compatible
+Arista Compatible
+Extreme Compatible
+HPe Compatible
+Mellanox Compatible
+Active Optical Cables
+Cisco Compatible
+Juniper Compatible
+Brocade Compatible
+Dell Compatible
+Arista Compatible
+Extreme Compatible
+Intel Compatible
+H3C Compatible
+Mellanox Compatible
+Fibre & MPO Cables
+OS2
+OM3
+OM4
+MPO/MTP
+CAT Cables
+CAT5e U/UTP
+CAT6 U/UTP
+CAT6a S/FTP
+NIC Cards
+Power Solutions
+PDUs
+Power Cables
+UPS
+More
+Cable Management
+Docking Stations
+Media Converters
+Server Cabinets
+Make a Request
+Product Services
+Design
+Compliance
+Completed Projects
+My Account
+Login
+Logout
+Register
+Latest News
+August 26, 2026
+Driving Greener Logistics & Sustainable Supply Chains
+🌱 Driving Greener Logistics & Sustainable Supply Chains As part of our continued commitment to greener operations, low-carbon development, and sustainability, we are pleased to share an important step forward in our logistics journey. Through the dedication, hard work, and...
+Read now
+August 21, 2026
+Fantasy Premiere League
+⚽ Calling All Fantasy Football Experts! 🔥 Think you’ve got what it takes to top the league? 👀 We’re inviting all football fantasy experts, enthusiasts and competitors to join the Wire Technologies Fantasy Football League! 🏆 📣 Here’s the challenge:...
+Read now
+April 23, 2026
+Happy St George’s Day
+Happy St George’s Day to all our customers, partners, and colleagues across the UK! Today we celebrate the pride, resilience, and enduring spirit that define this country. From innovation and enterprise to strong local communities, it’s these values that continue...
+Read now
+See more
+Transceivers
+100Mbps to 400Gbps, in UK stock
+View All
+Direct Attach Cables
+10Gbps to 400Gbps, in UK stock
+View All
+Active Optical Cables
+10Gbps to 400Gbps, in UK stock
+View All
+Slide 1
+Slide 2
+Slide 3
+Same Day Shipping
+Customisable Labels
+Lifetime Warranty
+Deep UK Inventory
+Lifetime Warranty and Guaranteed Compatibility
+Click to read more
+Popular Products Catalogue
+Click to download
+Exclusively available through our distribution partner Infinigate
+Where to Buy
+Helpful Information
+Lifetime Warranty and Guaranteed Compatibility
+Euroclass CPR
+Multi-Source Agreement
+Environmental Policy
 Privacy Policy
-Cookies
-Terms & Conditions
-imunify-bot-check
+Returns Policy
+About Us
+About Wire Tech
+Contact Us
+Delivery
+My Account
+My Account Page
+Login
+Logout
+Register
+Search
+Account Login
+Copyright © 2026 Wire Technologies .
+Added to your cart:
+** total_quantity ** | ** unit_price ** / ** unit_measure **
+(- )
+Cart subtotal
+View cart ( )
+Checkout

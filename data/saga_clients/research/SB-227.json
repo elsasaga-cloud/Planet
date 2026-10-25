@@ -1,139 +1,201 @@
 {
- "code": "SB-227",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（marlexconexion.com，快照 2026-10-21）",
- "summary": "西班牙 Marlex Conexión（连接/网络产品分销商；表内「很多牌子的」「可以尝试多跟进一下」；KP Joan Torras（Owner）、Philippe Provost（Sales Technician）；快照为 Bot Detection 页）；表内 7 次跟进无回复。",
- "type": "网络产品分销商（西班牙，多品牌）",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：Bot Detection",
-   "quote": "Please wait while we check if you are a Human",
-   "url": "https://marlexconexion.com/challenge",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "很多牌子的",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "很多牌子的",
-   "quote": "很多牌子的；可以尝试多跟进一下",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Joan Torras",
-   "title": "Owner",
-   "email": "joan@marlexconexion.com",
-   "phone": "",
-   "source": "用户表"
-  },
-  {
-   "name": "Philippe Provost",
-   "title": "Sales Technician",
-   "email": "marlex@marlexconexion.com",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "西班牙",
-  "other": "官网 marlexconexion.com，语言 en，快照状态 ok；角色判定来源：表内早期 AI 描述"
- },
- "business_lines": [
-  "连接 / 网络产品分销（西班牙）"
- ],
- "channels": {
-  "role": "网络产品分销商（西班牙，多品牌）",
-  "region": "西班牙",
-  "contact": "marlex@marlexconexion.com、joan@marlexconexion.com"
- },
- "signals": [
-  "快照：Bot Detection ; Please wait while we check if you are a Human",
-  "表内：很多牌子的；KP Joan Torras / Owner；Philippe Provost / Sales Technician；可以尝试多跟进一下"
- ],
- "risks": [
-  "快照为 Bot Detection 页（内容待核）；多品牌分销（白牌契合度待核）；7 次无回复 → 改向 Owner 具名首触"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 20,
-  "why": "多品牌分销 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）作白牌预算位"
- },
- "email_hook": "Joan, alongside the brands you distribute, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches from small lots, CE/RoHS, EXW USD — is there a budget PoE position your installer customers ask for below the branded lines?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（1 封自动回复；Elsa 箱：`to:marlexconexion.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 18 / 来 1）（第 74 批(k)））",
-   "type": "西班牙多品牌网络分销（Marlex Conexión）",
-   "sieve": "0",
-   "stop": "自动回复/机器人，无人工回复",
-   "revive": "不动",
-   "lane": "ES",
-   "cadence": "不动",
-   "evidence": "k=808dac70a8f6e2ed"
-  },
-  "situation": "来信全部为机器回复；无人读信或无人回信。",
-  "need": "—",
-  "breakpoint": "—",
-  "saga_now": {
-   "p1": "—",
-   "tier": 20,
-   "price": "—；群发里他已看到的价（续）：2026-08-27 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-07-11 $300（48 Port PoE Managed Switch）、2025-10-02 $280（10G Enterprise SFP Switch）",
-   "why": "—",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—（第 76 批(c) 2026-10-25：0 事实户补时间线事实）",
-   "one_question": ""
-  },
-  "facts": [
-   {
-    "date": "2025-01-30",
-    "dir": "去",
-    "who": "A 箱（Alan）",
-    "quote": "8 Port Industrial PoE Switch",
-    "why": "首封去信（邮箱索引；去信共 18 封）",
-    "k": "55dc6c372f6fc558"
-   },
-   {
-    "date": "2026-09-30",
-    "dir": "去",
-    "who": "A 箱（Alan）",
-    "quote": "Managed PoE Switches",
-    "why": "最近一封去信（邮箱索引；去信共 18 封）",
-    "k": "00b231ccb2778bd9"
-   },
-   {
-    "date": "2024-08-11",
-    "dir": "来",
-    "who": "marlex@marlexconexion.com",
-    "quote": "Respuesta automática: Mini Industrial Switch｜﻿﻿ Thanks for your e-mail.  Marlex Conexion SL will be closed from August 12 to 16 (both included)   -------------------",
-    "why": "来信（邮箱索引；原文见 k）",
-    "k": "808dac70a8f6e2ed"
-   }
+  "code": "SB-227",
+  "name_official": "NKF Wireless Internet and Services（菲律宾；Joemar Baquiran）",
+  "researched_at": "2026-10-21",
+  "website_status": "无域名（gmail）",
+  "summary": "菲律宾小型 WISP（Joemar Baquiran），兴趣 PON 产品（Saga 无），2026-01 对 2 光 2 电 mini 工业机群发回复「sample?」。表内曾被误归「欧洲」名单。",
+  "type": "",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "用户表",
+      "claim": "兴趣 Pon 产品；2026-01 群发 22mini→sample?",
+      "quote": "兴趣：Pon产品；回复：sample?",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "kp": [
+    {
+      "name": "Joemar Baquiran",
+      "title": "（经营者）",
+      "email": "joemar.baquiran@gmail.com",
+      "phone": "+63 927 933 1910",
+      "source": "（本地 Clients/ 表格，无公开 URL）"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "无域名 · 仅表内信息"
+  },
+  "company_facts": {
+    "legal_name": "NKF Wireless Internet and Services",
+    "founded": "",
+    "hq": "菲律宾",
+    "size": "小型 WISP",
+    "other": "gmail"
+  },
+  "business_lines": [
+    "无线 / 光纤宽带接入（WISP）"
+  ],
+  "channels": {
+    "role": "小型 ISP（终端 / 自用）",
+    "region": "菲律宾"
+  },
+  "signals": [
+    "索样 2 光 2 电 mini（2026-01）"
+  ],
+  "risks": [
+    "PON/ONU 需求 Saga 无；小 ISP 量小、样品付费"
+  ],
+  "saga_fit": {
+    "p1": "STI-220GE",
+    "tier": 25,
+    "why": "2 光 2 电 mini 工业机 = Saga STI-220GE（$27.8/29.0/30.1）；PoE 版 STI-222GP。"
+  },
+  "email_hook": "Joemar, the 2-SFP + 2-port mini you asked a sample for is $29 EXW at 1 pc (sample = unit price + courier); do you want the PoE version for the tower CPEs or the plain one?",
+  "mail_review": {
+    "binding": {
+      "level": "轻度触达（2025-01-15 Joemar「send me an item for testing?」→ Simon：付样 $33 STI-222GP；无付款）；Elsa 群发 BCC 已触达 10 轮 2025-04-07→2026-09-04（锚 To stephengala@yahoo.com 10 轮 2025-04-07→2026-09-04；本户在 Bcc；主题 10G Enterprise SFP Switch、OEM Core Switching Solution、Updated Ethernet Switches Links、24 Port PoE Managed Switch…；0 回（Elsa 箱 Replied 索引 + 第 73 批真人来信逐户比对均无此户））（第 74 批(n) `from:e.sagatelecom to:joemar.baquiran@gmail.com` 全程 complete：命中 10 行、To 均为锚地址 ⇒ 本户在锚的 Bcc 名单）",
+      "type": "菲律宾 WISP（NKF；Gmail）",
+      "sieve": "3（要样，未付）",
+      "stop": "免费样品期望",
+      "revive": "不动",
+      "lane": "PH",
+      "cadence": "不动",
+      "evidence": "k=fd2e05c62942799c / 05b51bd103cc66ea；第 19 批回补来信原文 1 条（gmail_s/gmail_a）"
+    },
+    "situation": "—",
+    "need": "—",
+    "breakpoint": "—",
+    "saga_now": {
+      "p1": "—",
+      "tier": 20,
+      "price": "历史报价（邮件原话，老汇率）：2025-01-16 STI-222GP 33usd；群发里他已看到的价（续，第 66 批全量复核）：2025-04-28 $300（48 Port PoE Managed Switch）、2025-10-03 $280（10G Enterprise SFP Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-05-01 $300（48 Port PoE Managed Switch = STC-448XGGPM，Elsa 箱 1 轮 2025-05-01；现表 $335.4@20%、Drive 老表 $335——同款写 $335 要先说 2025 群发是 $300、汇率 7.2→6.7）；2025-06-02 $65（10G Media Converter = 10G 媒体转换器，Elsa 箱 1 轮 2025-06-02；Simon 实报就是 $65）；2025-10-07 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2025-10-07；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-09-04 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-04；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
+      "why": "—",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "不动",
+      "channel": "—",
+      "action": "—",
+      "one_question": ""
+    },
+    "facts": [
+      {
+        "date": "2025-01-15",
+        "dir": "来",
+        "who": "joemar.baquiran@gmail.com",
+        "quote": "sir, can you possibly send me an item for testing? Looking forward to hearing from you. thanks",
+        "why": "来信原文（主题「Re: Mini Industrial PoE Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+        "k": "fd2e05c62942799c"
+      },
+      {
+        "date": "2025-01-16",
+        "dir": "去",
+        "who": "Saga（Simon）",
+        "quote": "Hi, Joemar, Yes, but it is not free samples. Lets focus on a hot-selling model. Price: 33usd/pc, STI-222GP, industrial PoE Switch 2*100M/1000M SFP+2*10/100/1000M RJ45, PoE af/at, 60W, Unmanaged, Support DIP function DC44V~DC57V(Removable 4 PIN Industrial Termi",
+        "why": "历史报价点（主题「Re: Mini Industrial PoE Switch」；第 20 批从 gmail_s 回补）：STI-222GP 33usd",
+        "k": "05b51bd103cc66ea"
+      },
+      {
+        "date": "2025-04-07",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To stephengala@yahoo.com）",
+        "quote": "Industrial PoE Switch（Elsa 群发第 1/10 轮；本户在 Bcc，锚 To stephengala@yahoo.com）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:joemar.baquiran@gmail.com` 命中行 To=stephengala@yahoo.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+        "k": "elsa_bcc",
+        "msg_id": "1960e66cb8958ff2"
+      },
+      {
+        "date": "2025-05-01",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To stephengala@yahoo.com）",
+        "quote": "48 Port PoE Managed Switch（Elsa 群发第 2/10 轮；本户在 Bcc，锚 To stephengala@yahoo.com；正文价 300usd/pc，第 74 批(p) 读稿 msg 194eff1f9bf46879 / 1973a613b8166b58）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:joemar.baquiran@gmail.com` 命中行 To=stephengala@yahoo.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+        "k": "elsa_bcc",
+        "msg_id": "19689f29a83a01ee"
+      },
+      {
+        "date": "2025-06-02",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To stephengala@yahoo.com）",
+        "quote": "10G Media Converter（Elsa 群发第 3/10 轮；本户在 Bcc，锚 To stephengala@yahoo.com；正文价 65usd/pc，第 74 批(p) 读稿 msg 19501dcc2221e96f）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:joemar.baquiran@gmail.com` 命中行 To=stephengala@yahoo.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+        "k": "elsa_bcc",
+        "msg_id": "1972eca01f5e30ae"
+      },
+      {
+        "date": "2025-07-01",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To stephengala@yahoo.com）",
+        "quote": "Commercial PoE Switch（Elsa 群发第 4/10 轮；本户在 Bcc，锚 To stephengala@yahoo.com）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:joemar.baquiran@gmail.com` 命中行 To=stephengala@yahoo.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+        "k": "elsa_bcc",
+        "msg_id": "197c3ed524d9ae1a"
+      },
+      {
+        "date": "2025-08-04",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To stephengala@yahoo.com）",
+        "quote": "16 Port Ethernet Switch（Elsa 群发第 5/10 轮；本户在 Bcc，锚 To stephengala@yahoo.com）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:joemar.baquiran@gmail.com` 命中行 To=stephengala@yahoo.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+        "k": "elsa_bcc",
+        "msg_id": "19873058a51a59e6"
+      },
+      {
+        "date": "2025-10-07",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To stephengala@yahoo.com）",
+        "quote": "10G Enterprise SFP Switch（Elsa 群发第 6/10 轮；本户在 Bcc，锚 To stephengala@yahoo.com；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:joemar.baquiran@gmail.com` 命中行 To=stephengala@yahoo.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+        "k": "elsa_bcc",
+        "msg_id": "199bc9c8ba1bad3e"
+      },
+      {
+        "date": "2025-11-14",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To stephengala@yahoo.com）",
+        "quote": "Industrial PoE Switch（Elsa 群发第 7/10 轮；本户在 Bcc，锚 To stephengala@yahoo.com）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:joemar.baquiran@gmail.com` 命中行 To=stephengala@yahoo.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+        "k": "elsa_bcc",
+        "msg_id": "19a804c5fb8ff089"
+      },
+      {
+        "date": "2026-02-02",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To stephengala@yahoo.com）",
+        "quote": "OEM Core Switching Solution（Elsa 群发第 8/10 轮；本户在 Bcc，锚 To stephengala@yahoo.com）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:joemar.baquiran@gmail.com` 命中行 To=stephengala@yahoo.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+        "k": "elsa_bcc",
+        "msg_id": "19c1c876060476b6"
+      },
+      {
+        "date": "2026-04-24",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To stephengala@yahoo.com）",
+        "quote": "Updated Ethernet Switches Links（Elsa 群发第 9/10 轮；本户在 Bcc，锚 To stephengala@yahoo.com）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:joemar.baquiran@gmail.com` 命中行 To=stephengala@yahoo.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+        "k": "elsa_bcc",
+        "msg_id": "19dbd7821c3218c9"
+      },
+      {
+        "date": "2026-09-04",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To stephengala@yahoo.com）",
+        "quote": "24 Port PoE Managed Switch（Elsa 群发第 10/10 轮；本户在 Bcc，锚 To stephengala@yahoo.com；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:joemar.baquiran@gmail.com` 命中行 To=stephengala@yahoo.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+        "k": "elsa_bcc",
+        "msg_id": "1a06a6fffaf4fbf3"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

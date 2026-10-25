@@ -1,131 +1,85 @@
-# SB-359 inscapedata.com · news_2 · https://inscapedata.com/blog · fetched 2026-10-25T07:41:18Z · HTTP 200
-Inscape Data
+# SB-359 larch-networks.com · news_2 · https://larch-networks.com/blog/electronica-india-2026/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+Electronica India 2026 – Larch Networks — Network Product Development
 Skip to content
 Home
-Products & Solutions Outdoor PoE & Enclosure Solutions Outdoor PoE Switches
-Outdoor Din Rail & Rack Mount PoE Switches
-Outdoor UPS & UPS Systems
-Outdoor Gigabit & 2.5Gb PoE Injectors
-Passive PoE Switches
-Industrial & Commercial PoE Solutions Industrial PoE Switches
-Industrial SFP Transceivers
-Commercial PoE Switches & SFP Transceivers
-Commercial PoE & Fiber Optic Media Converter
-Commercial SFP Fiber Optic Switches
-Commercial PoE Converters & Splitters
-Commercial PoE Injectors & Extenders
-Commercial Core Ethernet Switches
-Solutions IP Security
-Information Technology
-Smart City
-Smart Home
-Education
-WIFI Service Providers
-Customized Solutions
-Sales Online Store
-Distributors
-Resellers
-OEM
-Training
-Support Application Notes
-Product Updates
-RMA Policy
-Warranty Policy
-Retired Products
-About White Paper
-Awards and Recognitions
-Intellectual Property & Licensing
+About Us
+10 switches running Larch Hardened SONiC and Dorado Cruz orchestrating and monitoring solution allow creation of accessible AI systems.
+Larch networks At a Glance
+News and Events
+Larch Networks Team
+Career at Larch Networks
+Contacts
+Business
+Latest Case :
+Hardware-Accelerated BFD+ for SONiC
+Clients
 Case Studies
-Events, Newsletter & Press Releases
-Privacy Policy
-Contact Headquarter & ME Office
-Blog
-Online Store
-Search Blog
-Home / Blog
-How to Select the Right UPS1048V2 Solution
-Battery Backup , Industrial PoE Switches , Outdoor UPS , UPS PoE System
-August 14, 2026
-The Right Battery. The Right Runtime. The Right Level of Management. Every outdoor network has different backup power requirements. Some installations only need protection through short power interruptions. Others may need extended runtime, reduced battery maintenance, or the ability to remotely monitor systems installed miles away. The new LinkPower™ UPS1048V2 Series was designed around that flexibility, with multiple battery capacities, AGM and LFP options, and managed configurations featuring the UPMS2000. So, how do you choose the right one? 2. AGM or LFP? This is one of the biggest decisions when configuring your UPS1048V2. AGM AGM is a proven battery technology…
-Read more : How to Select the Right UPS1048V2 Solution
-What’s New with the LinkPower™ UPS1048V2?
-All-in-One Outdoor PoE , Campus Security , Contractor Grade PoE , Edge Networking , Enterprise Outdoor Networking , Harsh Environment Networking , Industrial Networking , Industrial PoE Switch , Inscape Data , IP Security , IP68 PoE Switch , LinkPower , LinkPower T1 , Managed PoE Switch , Outdoor Ethernet Switch , Outdoor Network Infrastructure , Outdoor Network Solutions , Outdoor Networking , Outdoor PoE , Outdoor PoE Switch , Outdoor Switch Enclosure , Outdoor WiFi , PoE++ Switch , Remote Connectivity , Security Infrastructure , Smart City , Smart Outdoor Networks , T1 Elite , T1 Expert , T1 Professional , Unmanaged PoE Switch , Video Surveillance , Wireless Infrastructure
-August 13, 2026
-Outdoor networks are supporting more critical infrastructure than ever before. IP surveillance, outdoor Wi-Fi, transportation systems, mobile security trailers, and remote communications all depend on one thing before anything else: Reliable power. That is why Inscape Data developed the next generation of our outdoor UPS platform: the LinkPower™ UPS1048V2 Series. The UPS1048V2 builds on the original UPS1048 with major upgrades designed to provide more flexibility, faster recovery, and greater visibility for modern outdoor networks. More Battery Options One of the biggest changes is battery flexibility. The UPS1048V2 platform now offers multiple AGM and Lithium Iron Phosphate (LFP) configurations: 7Ah AGM…
-Read more : What’s New with the LinkPower™ UPS1048V2?
-Introducing the UPMS2000 Remote Power Monitoring System
-August 13, 2026
-Outdoor UPS systems are often installed in locations that are difficult, expensive, or time-consuming to access. Having backup power is important. Knowing what is happening with that backup power is just as important. That is where the new LinkPower™ UPMS2000 Uninterrupted Power Management System comes in. Designed for our new managed UPS1048V2 systems, the UPMS2000 gives network administrators remote visibility into critical UPS, battery, load, and environmental information through an integrated Web GUI. Know What Is Happening Before You Arrive Instead of waiting for a problem or sending a technician to inspect a remote site, UPMS2000 allows administrators to monitor…
-Read more : Introducing the UPMS2000 Remote Power Monitoring System
-The New LinkPower™ T1 Platform: A Smarter Way to Build Outdoor Networks
-All-in-One Outdoor PoE , Campus Security , Contractor Grade PoE , Edge Networking , Enterprise Outdoor Networking , Harsh Environment Networking , Industrial Networking , Industrial PoE Switch , Inscape Data , IP Security , IP68 PoE Switch , LinkPower , LinkPower T1 , Managed PoE Switch , Outdoor Ethernet Switch , Outdoor Network Infrastructure , Outdoor Network Solutions , Outdoor Networking , Outdoor PoE , Outdoor PoE Switch , Outdoor Switch Enclosure , Outdoor WiFi , PoE++ Switch , Remote Connectivity , Security Infrastructure , Smart City , Smart Outdoor Networks , T1 Elite , T1 Expert , T1 Professional , Unmanaged PoE Switch , Video Surveillance , Wireless Infrastructure
-May 8, 2026
-Outdoor networks are built in the real world on poles, rooftops, parking lots, power accessibility, and remote locations where reliability is not optional. That is exactly why Inscape Data developed the LinkPower™ platform: contractor-grade outdoor PoE solutions engineered to simplify deployment while delivering consistent performance in the harshest environments. With IP68-rated waterproof protection, these All-in-One Box systems integrate power, networking, and enclosure into a single, streamlined solution. The result is faster installations, reduced field complexity, and a more reliable network from day one. As outdoor deployments continue to expand across IP security, wireless infrastructure, and smart applications, one thing has…
-Read more : The New LinkPower™ T1 Platform: A Smarter Way to Build Outdoor Networks
-Contractor-Grade Outdoor PoE Solutions for Real-World Installs – Powering Up to 200 Meters from a PoE Source
-Dual Input Power , LACP , PoE Standards , Port Security , QoS , STP , Unmanaged PoE Switches , VLAN
-May 2, 2025
-For outdoor jobs with no AC power and no room for downtime, Inscape Data’s all-in-one PoE systems offer a fast, contractor-grade solution. In a recent project, a remote property needed power and data at multiple gates — without trenching or line power. By combining the LPS740P-T1 with either the PIS2095 injector or the LPS3802ATMP-T1 managed switch, the contractor delivered a fully powered, reliable system. In this case, they used both to match the site’s layout and power distribution needs. How It Worked: Smart Layout, Dual Power, Zero Trenching Because of the site’s layout, the contractor needed to deliver PoE from…
-Read more : Contractor-Grade Outdoor PoE Solutions for Real-World Installs – Powering Up to 200 Meters from a PoE Source
-1
-2
-Next Page
-Tags
-All-in-One Outdoor PoE (2)
-Battery Backup (2)
-Campus Security (2)
-Contractor Grade PoE (2)
-Dual Input Power (4)
-Edge Networking (2)
-Enterprise Outdoor Networking (2)
-Harsh Environment Networking (2)
-Industrial Networking (2)
-Industrial PoE Switch (2)
-Industrial PoE Switches (2)
-Inscape Data (2)
-IP68 PoE Switch (2)
-IP Security (2)
-LACP (3)
-LinkPower (2)
-LinkPower T1 (2)
-Managed PoE Switch (2)
-Managed PoE Switches (2)
-Outdoor Ethernet Switch (2)
-Outdoor Network Infrastructure (2)
-Outdoor Networking (2)
-Outdoor Network Solutions (2)
-Outdoor PoE (2)
-Outdoor PoE Switch (2)
-Outdoor Switch Enclosure (2)
-Outdoor UPS (2)
-Outdoor WiFi (2)
-PoE++ Switch (2)
-PoE Standards (4)
-Port Security (3)
-QoS (3)
-Remote Connectivity (2)
-Security Infrastructure (2)
-Smart City (2)
-Smart Outdoor Networks (2)
-STP (3)
-T1 Elite (2)
-T1 Expert (2)
-T1 Professional (2)
-Unmanaged PoE Switch (2)
-Unmanaged PoE Switches (4)
-Video Surveillance (2)
-VLAN (3)
-Wireless Infrastructure (2)
-Featured Products
-LPS3400ATM-T1
-6-Port Gb PoE Switch
-Learn More
-UPS1048-802-10
-UPS + 10-Port PoE Switch
-Learn More
-LPS5026
-26-Port Gb Passive PoE Switch
-Learn More
-Contact Us
-For orders, quotes and sales inquiries, please contact us at sales@inscapedata.com
-2004 – 2026 © Inscape Data Corporation. All rights reserved.
+Partners
+SONIC/SAI Development
+Hardened SONiC NOS
+SONiC Based Product Development
+SONiC Adoption
+OpenLAN Switching/OLS
+Software Development
+Marvell ROS Franchise and OpenROS Initiative
+Marvell Systems Consulting
+Fastboot for Marvell Prestera Family
+NOS Integration and Porting
+Embedded Software Development
+Hardware Development
+Larch Networks Hardware Development
+Hardware Production Localisation
+Ready-to-use Designs
+Switching Modules
+Larch Networks Devices
+Industrial Switches
+Data Center Switches
+Network Packet Brokers
+OpenLAN Switches
+Network Switch Modules
+Campus and Access Switches
+Electronica India 2026
+September 15, 2026
+Next week, Electronica India 2026 will take place in Bengaluru, bringing together companies and technology leaders from across the electronics and networking industries.
+During the event, visitors will have the opportunity to see Larch Networks software running on Marvell’s Ironman device, presented by our partners at SERA Network.
+It will be a great opportunity to see the solution in action and learn more about Larch Networks technology.
+📅 September 16–18, 2026
+📍 Bangalore International Exhibition Centre (BIEC), Bengaluru
+🏢 Hall 5 | Booth H5.H35
+If you are attending electronica India, stop by the SERA booth to see the solution firsthand.
+← Previous: Larch Networks at Avnet Americas FAE Institute 2026
+Next: Larch Networks and Teledyne LeCroy Demonstrate 800G Validated SONiC AI Networking at OCP Global Summit! →
+About Larch Networks
+At a Glance
+News and Events
+Larch Networks Team
+Career at Larch Networks
+Contacts
+Business
+Clients
+Case Studies
+Partners
+SONiC/SAI Development
+Hardened SONiC NOS
+SONiC Based Product Development
+SONiC Adoption
+Software Development
+Marvell Systems Consulting
+NOS Integration and Porting
+Embedded Software Development
+Hardware Development
+Tailor Made Development
+Hardware Production Localisation
+Ready-to-use Designs
+Switching Modules
+Larch Networks Devices
+Campus and Access Switches
+Data Center Switches
+Industrial Switches
+Network Packet Brokers
+OpenLAN Switches
+Network Switch Modules
+©
+2026
+Company LLC
+We use cookies to ensure that we give you the best experience on our website. If you continue to use this site we will assume that you are happy with it. Ok

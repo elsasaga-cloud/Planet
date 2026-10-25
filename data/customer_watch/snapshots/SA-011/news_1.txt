@@ -1,0 +1,197 @@
+# SA-011 CXR · news_1 · https://www.cxr.com/en/news/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+News - CXR
+Smart Solutions for Smart Networks
+Toggle navigation
+Products Cybersecurity Isolation Equipment
+Traffic Analyzer
+Network-MouseTrαp
+Network security tool
+Ethernet Failover Protection Switches
+Ethernet Switch Carrier Ethernet
+Layer 3 Ethernet Switch
+19'' Industrial Gigabit Switch
+Industrial GE Switch POE
+DIN Rail Industrial Switch
+DIN Rail Industrial Switch POE
+Non-manageable DIN Rail Industrial Switch
+Hybrid DSL/FO RS232 switch
+Ethernet Access and Extender Ethernet over copper EFM / SHDSL-Bis
+VDSL Ethernet extension
+POE Ethernet extension
+Ethernet media converter
+Ethernet over TDM/PDH/SONET/SDH
+MPLS-TP and SONET / SDH, TDM E1/T1/PDH Networks MPLS-TP and CE2.0 Multiplexers
+SONET / SDH multiplexers
+PDH DACS multiplexer & channel bank
+TDM over IP
+TDM Converters and Extenders
+C37.94
+Fiber Optic Access GPON
+SFP Optical Modules
+Ethernet media converter
+TDM over fiber optic
+DWDM Multiplexers
+Wireless 5G/4G/LTE Router
+5GHz wireless bridge
+Timing and Synchronization PRC SSU Timing Systems
+NTP PTP time servers
+Test and measurement xDSL line tester
+Optical Light Source
+Optical Power Meter
+Optical reflectometer OTDR
+Other solutions Industrial VoIP Gateway
+ADSL/VDSL, DSLAM and CPE
+RS232 to IP converters
+Dial-up and Base Band modems
+19'' Rack and mounting kits
+Solutions Cybersecurity
+Utility
+Transport & Smart City
+Defense and Emergency Services
+Service Providers
+Enterprise
+News Events
+News
+Webinars
+Contact Send an email
+Satisfaction survey
+CXR overview, address and map
+Privacy Policy
+General Terms and Conditions
+Legal mentions
+Support Open a ticket
+Services / Training
+Product Life information
+Download Datasheets
+Catalogs
+Pack Marketing
+White papers
+Application notes
+Drivers and software
+User manuals
+×
+Login
+Password
+Login Forgot your password Register
+Login
+New password
+New password (x2)
+Change my password
+Home
+News
+SWMD-H-16TG-4GSF-4SFP+ Managed Switch
+06/10/2026
+10G power at the heart of your networks.
+Discover the CXR SWMD-H-16TG-4GSF-4SFP+ industrial switch—a high-performance interconnect solution designed for critical infrastructure and extreme environments!
+Whether for the energy sector (smart grids, substations), transportation, urban video surveillance, or general industry, this ultra-rugged switch ensures massive throughput and absolute...
+Read More
+A double success for CXR!
+25/09/2026
+We are proud to announce the renewal of our ISO 9001 and ISO 14001 certifications.
+Beyond mere auditing, these renewals demonstrate our commitment to high standards in our day-to-day operations:
+ISO 9001 (Quality Management): ensuring customer satisfaction, the continuous improvement of our processes, and service excellence.
+ISO 14001 (Environmental Management): managing our environmental...
+Read More
+CXR joins LA FRENCH FAB
+08/09/2026
+CXR is proud to join La French Fab to showcase French industrial expertise and contribute to the prominence of its region.
+By joining this dynamic network, CXR reaffirms its commitment to a local, innovative, and sustainable industry.
+#FrenchFab
+Read More
+Reduce your infrastructure costs with the SWMDL-H-4GPS-2USF-B switch
+18/08/2026
+Optimize your industrial deployments (video surveillance, IoT, Smart City) with an all-in-one solution designed for cost-effectiveness.
+Key benefits for your budgets:
+Hardware savings: Integrated voltage booster (12/24V to PoE+). No need to purchase expensive 48V power supplies.
+Simplified installation: Compact DIN-rail form factor. Reduces cabinet size and labor time.
+Maximum reliability:...
+Read More
+INDUSTRY & INFRASTRUCTURE - How can you ensure network continuity in the most extreme environments?
+20/07/2026
+Deploying fiber optics in industrial or critical environments is not something that can be improvised.
+Between temperature fluctuations, physical shocks, and electromagnetic interference, standard network equipment quickly reaches its limits.
+It is precisely to address these technological challenges that CXR Networks designed the FOCD-H range, a series of industrial-grade, "hardened" Ethernet...
+Read More
+Boost your fiber network's power
+13/07/2026
+With the CXR GP-2508—the compact GPON OLT that makes no compromises on performance.
+Why choose it? Because deploying a reliable, scalable FTTH network has never been simpler, faster, or more cost-effective. It is the perfect solution for operators and private networks alike.
+- Ultra-Compact & High-Density: A space-saving 1U form factor—ideal for optimizing rack space—featuring 8 or 16...
+Read More
+Eurosatory 2026 & CXR – Paris Nord Villepinte
+16/06/2026
+CXR at the heart of innovation at Eurosatory 2026, the global land and air-land defense and security exhibition.
+This trade show was an exceptional opportunity for CXR to immerse itself in cutting-edge technologies and decipher the major trends of tomorrow. In a rapidly evolving sector, staying at the forefront of communication and security solutions is our priority.
+What we take away from...
+Read More
+Which CXR Networks VoIP gateway is right for your infrastructure?
+09/06/2026
+The end of the PSTN and the transition to "All-IP" necessitate the modernization of communication networks. However, each sector has unique constraints: line density, climate, and security requirements.
+To address this diversity, CXR Networks offers a comprehensive range of VoIP gateways designed to secure, convert, and future-proof your analog investments.
+Discover which equipment matches...
+Read More
+Precise mapping of your networks!
+02/06/2026
+Locate underground utilities and record data related to these infrastructures without returning to the office.
+EML250-ID + OmniMarker-ID
+Every day, thousands of excavation projects are carried out across the country near underground utilities. Too often, inadequate marking and insufficient documentation of these infrastructures lead to costly damage.
+The EML250-ID and OmniMarker-ID are Tempo's...
+Read More
+Tired of having multiple power supplies in your industrial cabinets?
+19/05/2026
+We all know the headache at the network edge: you have a standard 24V DC power supply on your DIN rail, but  or Wi-Fi access points require PoE+ (48V/54V).
+The result? You often end up adding a bulky voltage converter that heats up the cabinet...
+That's where the CXR Networks SWMDL-H-4GPS-2USF-B changes the game.
+Why is it a "Swiss Army knife" for technicians?
+The integrated...
+Read More
+1
+2
+3
+4
+5
+6
+7
+8
+9
+Products
+Cybersecurity
+Ethernet Switch
+Ethernet Access and Extender
+MPLS-TP and SONET / SDH, TDM E1/T1/PDH Networks
+Fiber Optic Access
+Wireless
+Test and measurement
+Other solutions
+Solutions
+Cybersecurity
+Utility
+Transport & Smart City
+Defense and Emergency Services
+Service Providers
+Enterprise
+News
+Events
+News
+Webinars
+Contact
+Send an email
+Satisfaction survey
+CXR overview, address and map
+Privacy Policy
+General Terms and Conditions
+Legal mentions
+Support
+Open a ticket
+Services / Training
+Product Life information
+Download
+Datasheets
+Catalogs
+Pack Marketing
+White papers
+Application notes
+Drivers and software
+User manuals
+CXR – 17 Rue de l'Ornette – 28410 Abondant - France T +33 (0) 2 37 62 87 90 – contact_[@]_cxr.com
+Cookie policty

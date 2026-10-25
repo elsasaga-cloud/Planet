@@ -1,0 +1,75 @@
+{
+ "code": "SC-198",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（ekf.com，快照 2026-10-21）",
+ "summary": "德国 EKF（嵌入式计算：CompactPCI Serial 板卡、模块化 Box PC，「Quality Made in Germany」；表内「modular networking I/O / IO 集成板子」「质量一般」）；群发 6 次无回复。",
+ "type": "板级嵌入式计算制造商（非渠道）",
+ "size": "",
+ "brands_seen": [
+  "Phoenix Contact",
+  "Westermo"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：EKF；品类词 工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 网络交换 / PoE",
+   "quote": "EKF is a german supplier for robust and reliable embedded computing solutions, offering CompactPCI Serial and modular Box PC solutions.",
+   "url": "https://ekf.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "moduler networking I/O；IO 集成 板子",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "EKF 嵌入式计算",
+   "quote": "EKF is a german supplier for robust and reliable embedded computing solutions, offering CompactPCI Serial and modular Box PC solutions.",
+   "url": "https://ekf.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "modular networking I/O 板子",
+   "quote": "moduler networking I/O / IO 集成 板子",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "板级嵌入式计算制造商（EKF，CompactPCI），非成品交换机渠道；c_sub=板级/非渠道",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "德国",
+  "other": "官网 ekf.com，语言 en-US，快照状态 ok；角色判定来源：用户表"
+ },
+ "business_lines": [
+  "CompactPCI Serial 板卡 / 模块化 Box PC"
+ ],
+ "channels": {
+  "role": "板级嵌入式计算制造商（非渠道）",
+  "region": "德国",
+  "contact": "sales@ekf.de、info@ekf.de"
+ },
+ "signals": [
+  "官网：EKF is a german supplier for robust and reliable embedded computing solutions, offering CompactPCI Serial and modular Box PC solutions"
+ ],
+ "risks": [
+  "板级嵌入式（CompactPCI Serial）：与成品交换机无关，非渠道客户"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 25,
+  "why": "CompactPCI 板卡制造商，需求为板级网络 I/O 模块，非成品交换机 → 改 C（与 SC-216 Diamond Systems 同口径）"
+ },
+ "email_hook": "（不发送：板级，非渠道）"
+}

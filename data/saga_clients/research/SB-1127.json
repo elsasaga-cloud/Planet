@@ -1,137 +1,175 @@
 {
- "code": "SB-1127",
- "name_official": "Throughput Technologies (Pty) Ltd（约翰内斯堡）",
- "researched_at": "2026-10-21",
- "website_status": "在线（throughput.co.za，快照 2026-10-21）",
- "summary": "南非工业网络方案商 / 分销（面向系统集成商与工业组织：铁路轨旁、公用事业含核电、矿业、制造、智慧城市、消防安防、ITS；**Westermo**，表内另有 Atop；提供冗余 / 诊断方案），Sales Manager Anton van der Westhuizen（Bob Petrie 邮箱退信）；需求工业 FS；WA 4 次无实质回复。守界：铁路 / 核电 / 消防用途不供。",
- "type": "",
- "size": "",
- "brands_seen": [
-  "Westermo",
-  "Atop"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "定位：帮助集成商与工业组织构建韧性工业网络；行业铁路轨旁、公用事业（含核电）、矿业、制造、智慧城市、消防安防、ITS；Westermo；+27 11 705 2497",
-   "quote": "Throughput Technologies helps system integrators and industrial organisations design, modernise and strengthen resilient industrial networks for critical infrastructure… Rail & Trackside Utilities [incl. Nuclear] Mining Manufacturing Smart Cities… Fire & Security Road Transportation & ITS",
-   "url": "https://throughput.co.za/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "工业 FS；这个公司处理很多其他找的公司；Atop Westermo；Bob Petrie 发不过去",
-   "quote": "兴趣：工业FS 这个公司处理很多其他找的公司 Atop Westermo",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Anton van der Westhuizen",
-   "title": "Sales Manager",
-   "email": "anton@throughput.co.za",
-   "phone": "+27 83 659 3290",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照核对 + 守界）"
- },
- "company_facts": {
-  "legal_name": "Throughput Technologies (Pty) Ltd",
-  "founded": "（待核）",
-  "hq": "Johannesburg, South Africa",
-  "size": "中小型工业网络分销 / 方案",
-  "other": "Westermo 南非伙伴"
- },
- "business_lines": [
-  "工业以太网 / 光纤网络方案（Westermo、Atop）",
-  "网络冗余、诊断与监控"
- ],
- "channels": {
-  "role": "工业网络分销 + 方案（服务集成商）",
-  "region": "南非 + 周边"
- },
- "signals": [
-  "Westermo 高价位 → 需要低价工业线做矿业 / 制造的非关键节点",
-  "代表多家品牌（「处理很多其他找的公司」）→ 新品牌接纳度高"
- ],
- "risks": [
-  "守界：铁路 / 核电 / 消防 ITS 项目不供（仅矿业 / 制造 / 智慧城市一般节点）",
-  "联系人退信；WA 无回复"
- ],
- "saga_fit": {
-  "p1": "STI-288GPM",
-  "tier": 20,
-  "why": "Westermo 之下的工业管理 PoE → STI-288GPM（$78.9 @20%，ERPS 环网）；非 PoE STI-280GM。"
- },
- "email_hook": "Anton, for mining and plant-floor nodes where Westermo is over-spec — a Marvell-based managed DIN 8-PoE + 2-SFP (ERPS, −40~75 ℃, CE/FCC) at $79 EXW; not for rail or nuclear. Worth one evaluation unit?",
- "mail_review": {
-  "binding": {
-   "level": "读而不回（A/S 邮箱 16 封 2025→2026，其中 1 封被打开（1 次「打开」与退信同日 2025-05-28，是退信触发的像素，不算；真实打开 1 次），0 回；收件 anton@throughput.co.za, bob@throughput.co.za；被打开主题「Marvell Alleycat5 Solution、Mini Industrial PoE Switch」；Elsa 箱：`to:throughput.co.za` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 16 / 来 0）（第 74 批(n)））",
-   "type": "—",
-   "sieve": "2（有人在读，无人回）",
-   "stop": "读而不回 = 内容未命中或没有当下需求",
-   "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）；WhatsApp 已加 → 唤醒走 WhatsApp 一句话，不走邮件",
-   "lane": "南非 非主攻",
-   "cadence": "一封；回了再说",
-   "evidence": "gmail_digest：out 16，Opened 标签 2（Simon 群发追踪）；用户表：「兴趣：工业FS 这个公司处理很多其他找的公司 Atop Westermo」；研究档 risks：守界：铁路 / 核电 / 消防 ITS 项目不供（仅矿业 / 制造 / 智慧城市一般节点）"
-  },
-  "situation": "南非工业网络方案商 / 分销（面向系统集成商与工业组织：铁路轨旁、公用事业含核电、矿业、制造、智慧城市、消防安防、ITS；**Westermo**，表内另有 Atop；提供冗余 / 诊断方案），Sales Manager Anton van der Westhuizen（Bob Petrie 邮箱退信）；需求工业 FS；WA 4 次无实质回复。守界：铁路 / 核电 / 消防用途不供。",
-  "need": "Westermo 之下的工业管理 PoE → STI-288GPM（$78.9 @20%，ERPS 环网）；非 PoE STI-280GM。",
-  "breakpoint": "守界：铁路 / 核电 / 消防 ITS 项目不供（仅矿业 / 制造 / 智慧城市一般节点）",
-  "saga_now": {
-   "p1": "STI-288GPM",
-   "tier": 20,
-   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-01-14 $240（24 Port Fiber Switch）、2025-10-01 $280（10G Enterprise SFP Switch）",
-   "why": "Westermo 之下的工业管理 PoE → STI-288GPM（$78.9 @20%，ERPS 环网）；非 PoE STI-280GM。已打开的主题（2/16 封有打开记录）：「Mini Industrial PoE Switch」(2025-05-28)、「Marvell Alleycat5 Solution」(2025-06-27) → 读者兴趣偏「工业」；与 P1 同类，继续｜已发资料（勿重发）：Saga Feature List_7.5.x_L2+(2026-06-30)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "2026-11",
-   "channel": "A 邮箱 → anton@throughput.co.za",
-   "action": "短信一问（email_hook）（第 75 批(ak) 2026-10-25：信稿复检修正——「(ERPS,」→「(ring redundancy,」）（第 76 批(c) 2026-10-25：audit_ab 软项修正：℃ → C）",
-   "one_question": "Anton, for mining and plant-floor nodes where Westermo is over-spec — a Marvell-based managed DIN 8-PoE + 2-SFP (ERPS, −40~75 ℃, CE/FCC) at $79 EXW; not for rail or nuclear. Worth one evaluation unit?"
-  },
-  "facts": [
-   {
-    "date": "2025-05-28",
-    "dir": "内",
-    "who": "Gmail 退信（A 邮箱）",
-    "quote": "bob@throughput.co.za 退信：550 Please turn on SMTP Authentication in your mail client. mail-qt1-f169.google.com",
-    "why": "该地址当天收不到信；同日的「Opened」记录是退信触发，不算打开",
-    "k": "gmail_a b815d5ee13668ada"
-   },
-   {
-    "date": "2026-10-02",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "Marvell Alleycat5 Solution、Mini Industrial PoE Switch",
-    "why": "16 封 / 2 次打开 / 0 回｜首封 2025-01-14 → 末封 2026-10-02（16 去 / 0 来）",
-    "k": "gmail_digest"
-   },
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "兴趣：工业FS 这个公司处理很多其他找的公司 Atop Westermo",
-    "why": "表内备注",
-    "k": "用户表"
-   }
+  "code": "SB-1127",
+  "name_official": "Lin Haw International Co., Ltd.",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（linhawstore.com；并档 Planet 渠道档案 PB-053）",
+  "summary": "温哥华都会区 B2B IT/AV/安防硬件批发商，自己从台湾直接进口 PLANET 交换机，也从中国 OEM 进口。类型：分销商/进口商（加拿大本土 B2B 批发：IT 基础设施、连接线缆、网络、AV、安防硬件，1986 年起；17 人、营收 $10–25M（Frasers）；展厅 3,500+ 产品；美国海关记录显示为 PLANET 直接进口商）。信号：【W10 再更正】美国海关提单（ImportGenius 进口商页 2026-10-05 更新）：供应商 PLANET TECHNOLOGY CORPORATION → LIN HAW INTL CO LTD 共 35 柜 / 12,897 kg，**最近一票 2017-04-04**（另 2011-12-23 有 1 柜反向记录）→ PLANET 直接进口为历史（8 年以上无新票）；当前 Odoo 商城品牌墙无 Planet（自有品牌 PC Cable World 549 件，Netgear / TP-Link / Ubiquiti 交换机在售）；旧 PoE 类目页（2015）已 404。Planet 渠道档案 PB-053 评级 B（【W10 再更正】B 维持但 PLANET 关联为历史（最近一票 2017-04-04）：公开 sales@linhaw.com + 进口商 + 自有品牌 + 小公司（17 人）+ 加拿大在区域内；是否留在「PLANET 渠道池」交 Q-15 裁定（默认留，标注『历史 PLANET 进口商』）；Rob Baerg 仅第三方名录 → 待核不猜）。并档说明：Saga 表内本条 SB-1127（美国）自动评 C（原因：；Saga 群发已推送 0 次无回复）。",
+  "type": "",
+  "size": "",
+  "brands_seen": [
+    "PLANET",
+    "TP-Link",
+    "Ubiquiti",
+    "Netgear"
   ],
-  "proof_gaps": [
-   "用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「读而不回」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+  "evidence": [
+    {
+      "kind": "海关提单",
+      "claim": "PLANET 直接进口商（美国海关 AMS 数据）",
+      "quote": "LIN HAW INTL CO LTD … Top trading partners … PLANET TECHNOLOGY CORPORATION 35± shipments … EPNEW ELECTRONICS CO.,LTD. 41± shipments … SAFEWELL GROUP HOLDINGS LIMITED 39± shipments",
+      "url": "https://www.importgenius.com/suppliers/planet-technology-corporation",
+      "date": "2026-10-20"
+    },
+    {
+      "kind": "海关提单",
+      "claim": "进口品名为以太网交换机",
+      "quote": "Lin Haw International … Canada … 24 … Computer Components Gigabit Ethernet Switch Fast Ethernet Switch, Computer Components, Computer Components Ethernet Switch … HS Codes: 8517.18, 8517.62",
+      "url": "https://www.importyeti.com/supplier/planet-technology-corporation",
+      "date": "2026-10-20"
+    },
+    {
+      "kind": "卖方目录",
+      "claim": "站内 PLANET PoE 设备在售（【W09 更正】2015 年旧 Magento 页，W09 回查已 404 → 仅作历史线索，不作为现售证据）",
+      "quote": "POE Devices (35) **Manufacturer**: - Eyesonic (6) - Generic (1) - Netgear (4) - Open-Mesh (3) - Planet (10) - PowerDsine by Microsemi (4) - Ubiquiti Networks (7) … Address: 108 - 8620 Glenlyon Parkway Burnaby, BC, V5J 0B6 Tel: 6043258880 Email: helpdesk@linhaw.com",
+      "url": "https://www.linhawstore.com/networking-devices-accessories/wired/poe-devices.html",
+      "date": "2026-10-20"
+    },
+    {
+      "kind": "官网",
+      "claim": "公开销售邮箱与电话",
+      "quote": "#108 - 8620 Glenlyon Parkway Burnaby BC V5J 0B6 604-325-8880 1-800-663-2284 sales@linhaw.com Business Hours: 8:00am - 4:30pm, M-F",
+      "url": "https://www.linhawstore.com/shop/brands",
+      "date": "2026-10-20"
+    },
+    {
+      "kind": "第三方名录",
+      "claim": "体量与具名销售经理",
+      "quote": "Lin Haw International Co. Ltd. … Wholesaler … Year established: 1986 Number of employees: 17 Estimated annual revenue: $10,000,000 to $24,999,999 … Contacts - Mr Rob Baerg Sales Manager",
+      "url": "https://www.frasersdirectory.com/suppliers/lin-haw-international-co-ltd-16693724812/",
+      "date": "2026-10-20"
+    },
+    {
+      "kind": "第三方名录",
+      "claim": "定位：加拿大本土 B2B 批发与进口商",
+      "quote": "Wholesale Distributor of IT, A/V and Security hardware since 1986 … For more than 20 years we have established ourselves as a reliable importer at the forefront of the industry … Company size: 11-50 employees",
+      "url": "https://ca.linkedin.com/company/lin-haw-international-company-ltd",
+      "date": "2026-10-20"
+    },
+    {
+      "kind": "官网",
+      "claim": "【W09】当前品牌墙无 Planet；自有品牌 PC Cable World",
+      "quote": "### Brands … [PC Cable World] 549 Products … [Netgear] 49 Products … [TP-Link] 28 Products … [Ubiquiti Inc] 239 Products … [TRENDnet] 14 Products … [StarTech] 2 Products（两页共 70 余品牌，无 Planet）",
+      "url": "https://www.linhawstore.com/shop/brands（及 /page/2）",
+      "date": "2026-10-20"
+    },
+    {
+      "kind": "官网",
+      "claim": "【W09】旧 PoE 类目页已失效",
+      "quote": "# Error 404 ## We couldn't find the page you're looking for!",
+      "url": "https://www.linhawstore.com/networking-devices-accessories/wired/poe-devices.html",
+      "date": "2026-10-20"
+    },
+    {
+      "kind": "海关提单",
+      "claim": "【W10】PLANET 最近一票日期（进口商页）",
+      "quote": "Lin Haw Intl Co Ltd … Updated: 2026-10-05 … Total Suppliers | 3 | PLANET TECHNOLOGY CORPORATION | China Taiwan | 2017-04-04 | 35 | 12897 | … Total Importers | 1 | PLANET TECHNOLOGY CORPORATION | Seattle, Washington | 2011-12-23 | 1 | 323 Kgs",
+      "url": "https://www.importgenius.com/importers/lin-haw-intl-co-ltd",
+      "date": "2026-10-20"
+    }
   ],
-  "draft_en": {
-   "subject": "One question — Marvell Alleycat5 Solution",
-   "body": "Hi Anton,\n\nWe have sent you a few mails on \"Marvell Alleycat5 Solution\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor mining and plant-floor nodes where Westermo is over-spec — a Marvell-based managed DIN 8-PoE + 2-SFP (ring redundancy, −40~75  C, CE/FCC) at $79 EXW; not for rail or nuclear. Worth one evaluation unit?\n\nPrices are USD EXW, 2026-10-17 snapshot, valid 15 days.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+  "kp": [],
+  "grade_override": "B",
+  "override_reason": "Planet 渠道档案 PB-053 评 B（有具名联系人 / 在售 PLANET 或工业网络品类）；Saga 表内 C 原因「」被调研推翻，提升为 B",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（并档 Planet 渠道档案 PB-053，W 批次调研 2026-10-19/20）"
   },
-  "as_of": "2026-10-24"
- }
+  "company_facts": {
+    "legal_name": "Lin Haw International Co., Ltd.",
+    "founded": "",
+    "hq": "Burnaby, BC, 加拿大",
+    "size": "",
+    "other": "Planet 渠道档案 PB-053（2026-10-20_W08_安防分销与美国海关提单反查_US-CA.json）；自有品牌：是（PC Cable World：站内 549 件，以线缆/配件为主；是否含交换机待补证）；最大未知：Q-15 裁定；PC Cable World 是否含交换机；当前交换机进货渠道（经 Netgear/TP-Link 加拿大分销还是直接进口）；Rob Baerg 直邮"
+  },
+  "business_lines": [
+    "分销商/进口商（加拿大本土 B2B 批发：IT 基础设施、连接线缆、网络、AV、安防硬件，1986 年起；17 人、营收 $10–25M（Frasers）；展厅 3,500+ 产品；美国海关记录显示为 PLANET 直接进口商）"
+  ],
+  "products_seen": [],
+  "channels": {
+    "role": "分销商/进口商（加拿大本土 B2B 批发：IT 基础设施、连接线缆、网络、AV、安防硬件，1986 年起；17 人、营收 $10–25M（Frasers）；展厅 3,500+ 产品；美国海关记录显示为 PLANET 直接进口商）",
+    "region": "加拿大"
+  },
+  "signals": [
+    "【W10 再更正】历史 PLANET 直接进口商（2006–2017）、现经营 Netgear / TP-Link / Ubiquiti 交换机 + 自有品牌 PC Cable World、曾从中国 OEM（Safewell / EPNEW）进口 → 有进口链路、接受中国货源、有自有品牌运营；Saga 以 EXW + 中性包装/PC Cable World 贴牌两种方式切入其 8/24 口 PoE 管理型档；话术不提 PLANET"
+  ],
+  "risks": [
+    "Q-15 裁定；PC Cable World 是否含交换机；当前交换机进货渠道（经 Netgear/TP-Link 加拿大分销还是直接进口）；Rob Baerg 直邮"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 20,
+    "why": "其 PoE Devices 类目 10 款 PLANET 以中小 PoE 设备为主（型号待取证），IT/AV 批发走量档为 8 口千兆 PoE 管理型；24 口作第二步；分销商 → 20%（沿用 Planet 档案 PB-053）；需求："
+  },
+  "email_hook": "You've imported switches direct from Taiwan before and run your own PC Cable World line; an EXW second source for the 8- and 24-port Gigabit PoE managed tiers, neutral or under your label, drops into the same import lane. Of the PoE switches you stock today, is the 8-port Gigabit PoE managed tier or the 24-port the one that turns fastest for your resellers?",
+  "mail_review": {
+    "binding": {
+      "level": "Elsa 群发 BCC 已触达 2026-09-08「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，US-3 批次 To sales@solimedia.net，0 回（第 73 批(o) Bcc 头核对 msg 1a08138d20436870）；S/A 箱：S/A 邮箱均无往来；来源：调研建档）",
+      "type": "—",
+      "sieve": "—（未入筛）",
+      "stop": "Elsa 群发 BCC 触达过（最近 2026-09-08）无回；S/A 箱从未单独发过",
+      "revive": "不动（Q-33 供应商渠道客户）",
+      "lane": "US 主攻（四主）",
+      "cadence": "不动",
+      "evidence": "gmail_digest：out 0；研究档 risks：Q-15 裁定；PC Cable World 是否含交换机；当前交换机进货渠道（经 Netgear/TP-Link 加拿大分销还是直接进口）；Rob Baerg；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To sales@solimedia.net）2025-04-05→2026-09-08 共 10 轮群发（Marvell Alleycat5 Solution、Mini Industrial PoE Switch、16 Port Ethernet Switch、48 Port PoE Managed Switch、Managed Optical Bypass Switch、Industrial PoE Switch、10G Enterprise SFP Switch、Updated Ethernet Switches Links、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断"
+    },
+    "situation": "温哥华都会区 B2B IT/AV/安防硬件批发商，自己从台湾直接进口 PLANET 交换机，也从中国 OEM 进口。类型：分销商/进口商（加拿大本土 B2B 批发：IT 基础设施、连接线缆、网络、AV、安防硬件，1986 年起；17 人、营收 $10–25M（Frasers）；展厅 3,500+ 产品；美国海关记录显示为 PLANET 直接进口商）。信号：【W10 再更正】美国海关提单（ImportGenius 进口商页 2026-10-05 更新）：供应商 PLANET TECHNOLOGY CORPORATION → LIN HAW INTL CO LTD 共 35 柜 / 12,897 kg，**最近一票 2017-04-04**（另 2011-12-23 有 1 柜反向记录）→ PLANET 直接进口为历史（8 年以上无新票）；当前 Odoo 商城品牌墙无 Planet（自有品牌 ",
+    "need": "其 PoE Devices 类目 10 款 PLANET 以中小 PoE 设备为主（型号待取证），IT/AV 批发走量档为 8 口千兆 PoE 管理型；24 口作第二步；分销商 → 20%（沿用 Planet 档案 PB-053）；需求：",
+    "breakpoint": "Q-15 裁定；PC Cable World 是否含交换机；当前交换机进货渠道（经 Netgear/TP-Link 加拿大分销还是直接进口）；Rob Baerg 直邮",
+    "saga_now": {
+      "p1": "STC-28DGGPM",
+      "tier": 20,
+      "price": "按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-06-29 $300（48 Port PoE Managed Switch = STC-448XGGPM，Elsa 箱 1 轮 2025-06-29；现表 $335.4@20%、Drive 老表 $335——同款写 $335 要先说 2025 群发是 $300、汇率 7.2→6.7）；2026-09-08 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-08；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
+      "why": "其 PoE Devices 类目 10 款 PLANET 以中小 PoE 设备为主（型号待取证），IT/AV 批发走量档为 8 口千兆 PoE 管理型；24 口作第二步；分销商 → 20%（沿用 Planet 档案 PB-053）；需求：",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "不动",
+      "channel": "—",
+      "action": "—",
+      "one_question": ""
+    },
+    "facts": [
+      {
+        "date": "2025-04-05",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To sales@solimedia.net，US-3 批次）",
+        "quote": "Marvell Alleycat5 Solution — We are doing Marvell Alleycat5 chip for tailored networking solutions. 1, Support Web GUI change(Logo, model name, MAC, SN, SNMP, OID) 2, Added intere",
+        "why": "Elsa 箱群发 BCC 触达证据（命中地址 linhaw.com, sales@linhaw.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+        "k": "elsa_bcc"
+      },
+      {
+        "date": "2025-06-29",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To sales@solimedia.net，US-3 批次）",
+        "quote": "48 Port PoE Managed Switch — There is a Marvell based 52 port Rack network switch for you. 4*1G/2.5G/10G SFP+48*10/100/1000M Copper, L2+ Managed, PoE af/at, 400W budget Support ST（正文价 300usd/pc，第 74 批(p) 读稿 msg 194eff1f9bf46879 / 1973a613b8166b58）",
+        "why": "Elsa 箱群发 BCC 触达证据（命中地址 linhaw.com, sales@linhaw.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+        "k": "elsa_bcc"
+      },
+      {
+        "date": "2026-09-08",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To sales@solimedia.net，US-3 批次）",
+        "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
+        "why": "Elsa 箱群发 BCC 触达证据（命中地址 linhaw.com, sales@linhaw.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+        "k": "elsa_bcc"
+      }
+    ],
+    "proof_gaps": [
+      "无邮件往来"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-25"
+  }
 }

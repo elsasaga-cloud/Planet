@@ -1,111 +1,114 @@
 {
  "code": "SB-788",
- "name_official": "Wood Communications Ltd",
+ "name_official": "TSS Co.（tss-e.com，沙特达曼）",
  "researched_at": "2026-10-21",
- "website_status": "在线（woodcomm.ie；并档 Planet 渠道档案 PB-013）",
- "summary": "都柏林的基础设施分销商，面向爱尔兰集成商与数据中心，PLANET 是其交换机品牌之一。类型：分销商（IP/基础设施/安防分销，数据中心方向，约 16 人）。信号：目录品牌页 PLANET Technology（GSD-804P 等）。Planet 渠道档案 PB-013 评级 B（需求：PLANET 品牌页；触达：sales@woodcomm.ie 通用；LinkedIn 帖中出现 John@woodcomm.ie（仅名无姓，不作 KP）；体量 16 人 → B）。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-788，爱尔兰，未互动）与 Planet 渠道挖掘名单，首触邮件此前未发送。",
+ "website_status": "在线（tss-e.com，快照 2026-10-21）",
+ "summary": "沙特东部省（+966 13 846 8882）电信 / 安防承包商 TSS（telecom 13），Eng. Murad：需求工业级带光口交换机、SFP 模块，此前问过模块与 PSU；无跟进。",
  "type": "",
  "size": "",
- "brands_seen": [
-  "PLANET"
- ],
+ "brands_seen": [],
  "evidence": [
   {
-   "kind": "卖方目录",
-   "claim": "PLANET 品牌页",
-   "quote": "Brands › Planet Technology（目录品牌页，检索摘要）",
-   "url": "https://www.woodcomm.ie/catalogue/brands/planet-technology/",
-   "date": "2026-10-19"
+   "kind": "官网快照",
+   "claim": "TSS Co.；sales@tss-e.com；+966 13 8468882；关键词 telecom 13",
+   "quote": "Welcome to TSS Co.",
+   "url": "https://tss-e.com/",
+   "date": "2026-10-21"
   },
   {
-   "kind": "第三方",
-   "claim": "L7 Ballymount Ind. Est., Dublin D12 FV07；约 16 人；数据中心基础设施分销",
-   "quote": "distributor IP/infrastructure/security for data centres, 16 staff（名录摘要）",
-   "url": "https://www.woodcomm.ie/",
-   "date": "2026-10-19"
+   "kind": "用户表",
+   "claim": "工业级带光的交换机、SFP 模块；前一阵子问了模块和 PSU",
+   "quote": "兴趣：工业级带光的交换机 SFP模块 前一阵子问了模块和PSU那个",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Eng. Murad",
+   "title": "（工程 / 采购）",
+   "email": "murad@tss-e.com",
+   "phone": "+966 59 832 3625",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（并档 Planet 渠道档案 PB-013，W 批次调研 2026-10-19/20）"
+  "level": "B 级加厚 v1（官网快照 + 表内）"
  },
  "company_facts": {
-  "legal_name": "Wood Communications Ltd",
-  "founded": "",
-  "hq": "Dublin 12, 爱尔兰",
-  "size": "",
-  "other": "Planet 渠道档案 PB-013（2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json）；自有品牌：否；最大未知：PLANET 在其交换机销量占比；采购决策人"
+  "legal_name": "TSS Co.（待核）",
+  "founded": "（待核）",
+  "hq": "Dammam / Khobar, Eastern Province, Saudi Arabia",
+  "size": "小型承包商",
+  "other": ""
  },
  "business_lines": [
-  "分销商（IP/基础设施/安防分销，数据中心方向，约 16 人）"
- ],
- "products_seen": [
-  {
-   "brand": "PLANET",
-   "model": "GSD-804P",
-   "spec": "PLANET 为 8 口其中 4 PoE 非管理；Saga 为 8 PoE + 2 SFP 管理型，功能覆盖、价位相近",
-   "saga": "STC-28DGGPM（近似）",
-   "url": "https://woodcomm.ie",
-   "date": "2026-10-19"
-  }
+  "电信 / 安防工程承包"
  ],
  "channels": {
-  "role": "分销商（IP/基础设施/安防分销，数据中心方向，约 16 人）",
-  "region": "爱尔兰"
+  "role": "工程承包商",
+  "region": "沙特东部省"
  },
  "signals": [
-  "爱尔兰本地分销，给集成商供基础设施产品；PLANET 品牌页在目录内"
+  "明确工业带光口交换机需求"
  ],
  "risks": [
-  "PLANET 在其交换机销量占比；采购决策人",
-  "Planet 首触邮件未发送（Elsa 账号待定）"
+  "SFP / PSU 为配件需求（Q-32）；无跟进"
  ],
  "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 20,
-  "why": "对位其在售 GSD-804P 一档的 8 口 PoE（Saga 为 8 PoE + 2 SFP 管理型）；分销走量 → 20%（沿用 Planet 档案 PB-013）；需求："
+  "p1": "STI-288GP",
+  "tier": 25,
+  "why": "工业带光口 PoE → STI-288GP（$59.8 @25%）；模块随机配（Q-32）。"
  },
- "email_hook": "Wood Communications lists PLANET switches in its infrastructure catalogue for Irish integrators, so an 8-port PoE+ with 2 SFP at a lower price point slots in without re-training anyone. Which PLANET switch size do your integrators order most, the 8-port PoE or the 24-port?",
+ "email_hook": "Eng. Murad, the industrial fibre switch you asked about — 2 SFP + 8 PoE DIN, $60 EXW, and we can fit tested 20 km SFPs into the same order; do you also still need the 48 V PSU quoted?",
  "mail_review": {
   "binding": {
-   "level": "未触达（A 邮箱 4 封 2026，无记录打开，0 回；收件 louise@woodcomm.ie, pat@woodcomm.ie；主题多为「10G L3 Managed Switch、32 Port 400GB DC Switch」；Elsa 箱：`to:.ie` 穷举 1 条（2026-10-25，锚批 Bcc 头已读）未见 woodcomm.ie → Elsa 箱从未发过本户，往来只在 S/A 箱（去 4 / 来 0）（第 74 批(f)））",
+   "level": "未触达（S 邮箱 4 封 2024，无记录打开，0 回；收件 murad@tss-e.com, sales@tss-e.com；主题多为「48 port managed switch、Industrial poe switch」；Elsa 箱：`to:tss-e.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 4 / 来 0）（第 74 批(n)））",
    "type": "—",
    "sieve": "1（只收到群发）",
-   "stop": "4 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱；Q-33 供应商渠道客户",
-   "revive": "不动（Q-33）",
-   "lane": "爱尔兰（欧洲全域主攻）",
-   "cadence": "不动",
-   "evidence": "gmail_digest：out 4；研究档 risks：PLANET 在其交换机销量占比；采购决策人"
+   "stop": "4 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "沙特阿拉伯 非主攻",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 4；用户表：「兴趣：工业级带光的交换机 SFP模块 前一阵子问了模块和PSU那个」；研究档 risks：SFP / PSU 为配件需求（Q-32）；无跟进"
   },
-  "situation": "都柏林的基础设施分销商，面向爱尔兰集成商与数据中心，PLANET 是其交换机品牌之一。类型：分销商（IP/基础设施/安防分销，数据中心方向，约 16 人）。信号：目录品牌页 PLANET Technology（GSD-804P 等）。Planet 渠道档案 PB-013 评级 B（需求：PLANET 品牌页；触达：sales@woodcomm.ie 通用；LinkedIn 帖中出现 John@woodcomm.ie（仅名无姓，不作 KP）；体量 16 人 → B）。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-788，爱尔兰，未互动）与 Planet 渠道挖掘名单，首触邮件此前未发送。",
-  "need": "对位其在售 GSD-804P 一档的 8 口 PoE（Saga 为 8 PoE + 2 SFP 管理型）；分销走量 → 20%（沿用 Planet 档案 PB-013）；需求：",
-  "breakpoint": "PLANET 在其交换机销量占比；采购决策人",
+  "situation": "沙特东部省（+966 13 846 8882）电信 / 安防承包商 TSS（telecom 13），Eng. Murad：需求工业级带光口交换机、SFP 模块，此前问过模块与 PSU；无跟进。",
+  "need": "工业带光口 PoE → STI-288GP（$59.8 @25%）；模块随机配（Q-32）。",
+  "breakpoint": "SFP / PSU 为配件需求（Q-32）；无跟进",
   "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 20,
-   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2026-06-18 $16000（32 Port 400GB DC Switch）",
-   "why": "对位其在售 GSD-804P 一档的 8 口 PoE（Saga 为 8 PoE + 2 SFP 管理型）；分销走量 → 20%（沿用 Planet 档案 PB-013）；需求：",
+   "p1": "STI-288GP",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-23 $65（10G Media Converter）；群发里他已看到的价（续，第 66 批全量复核）：2024-06-22 $220（48 port managed switch）",
+   "why": "工业带光口 PoE → STI-288GP（$59.8 @25%）；模块随机配（Q-32）。",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—",
-   "one_question": ""
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Eng. Murad, the industrial fibre switch you asked about — 2 SFP + 8 PoE DIN, $60 EXW, and we can fit tested 20 km SFPs into the same order; do you also still need the 48 V PSU quoted?"
   },
   "facts": [
    {
-    "date": "2026-09-15",
+    "date": "2024-10-28",
     "dir": "去",
-    "who": "A 群发",
-    "quote": "10G L3 Managed Switch、32 Port 400GB DC Switch",
-    "why": "4 封 / 0 次打开 / 0 回｜首封 2026-05-27 → 末封 2026-09-15（4 去 / 0 来）",
+    "who": "S 群发",
+    "quote": "48 port managed switch、Industrial poe switch",
+    "why": "4 封 / 0 次打开 / 0 回｜首封 2024-06-22 → 末封 2024-10-28（4 去 / 0 来）",
     "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：工业级带光的交换机 SFP模块 前一阵子问了模块和PSU那个",
+    "why": "表内备注",
+    "k": "用户表"
    }
   ],
   "proof_gaps": [],

@@ -2,72 +2,136 @@
  "code": "SB-936",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "在线（dasannetworks.com，快照 2026-10-21）",
- "summary": "韩国 다산네트웍스 DASAN Networks（上市网络设备集团：有线/无线互联网通信、车载通信方案、物流平台；表内「三旺的长期合作客户」「质量高」；KP Richard、jrcho@）；群发 22 次无回复。",
- "type": "上市网络设备集团（韩国，同行）",
+ "website_status": "在线（altronics.com.au，快照 2026-10-21）",
+ "summary": "澳大利亚 Altronics（电子元件与设备分销/零售连锁，自有标产品；表内「PoE switch Hisource 的」「可以多跟进一下」；KP Dean Stephens（General Manager）、Brian Sorensen（GM Product Development））；群发 21 次无回复。",
+ "type": "电子分销连锁（澳大利亚，自有标 PoE 现 Hisource）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Hisource"
+ ],
  "evidence": [
   {
    "kind": "官网快照",
-   "claim": "官网标题：다산네트웍스；品类词 电信 / FTTH / ISP 设备 / 网络交换 / PoE",
-   "quote": "유무선 인터넷 통신, 자동차 전장용 통신 솔루션 개발, 공급 및 로지스틱스 플랫폼 사업 영위",
-   "url": "https://dasannetworks.com/",
+   "claim": "官网标题：altronics.com.au",
+   "quote": "",
+   "url": "https://www.altronics.com.au/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
    "claim": "表内兴趣/备注",
-   "quote": "三旺的长期合作客户",
+   "quote": "POE switch hisource的",
    "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "DASAN 定位",
-   "quote": "다산네트웍스 ; Global Networking Solution Company ; Connected Car Solution for Tomorrow",
-   "url": "https://dasannetworks.com/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "三旺长期合作客户",
-   "quote": "三旺的长期合作客户",
+   "claim": "PoE switch Hisource；可以多跟进",
+   "quote": "POE switch hisource的；可以多跟进一下",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
- "kp": [],
- "grade_override": "C",
- "override_reason": "上市网络设备集团（同行/体量）；c_sub=体量过大/同行",
+ "kp": [
+  {
+   "name": "Brian Sorensen",
+   "title": "GM Product Development",
+   "email": "info@altronics.com.au",
+   "phone": "",
+   "source": "用户表"
+  },
+  {
+   "name": "Dean Stephens",
+   "title": "General Manager",
+   "email": "dean.stephens@altronics.com.au",
+   "phone": "",
+   "source": "用户表",
+   "role": "；2025 婉拒「Thank you, not at this time」→ 2027 再看；已入剔除名单 §一"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "韩国",
-  "other": "官网 dasannetworks.com，语言 ko，快照状态 ok；角色判定来源：官网文案"
+  "hq": "澳大利亚",
+  "other": "官网 altronics.com.au，语言 ?，快照状态 ok；角色判定来源：待核"
  },
  "business_lines": [
-  "网络设备 / 车载通信（上市集团，韩国）"
+  "电子元件 / 设备分销与零售（澳大利亚）"
  ],
  "channels": {
-  "role": "上市网络设备集团（韩国，同行）",
-  "region": "韩国",
-  "contact": "richard@dasannetworks.com、jrcho@dasannetworks.com"
+  "role": "电子分销连锁（澳大利亚，自有标 PoE 现 Hisource）",
+  "region": "澳大利亚",
+  "contact": "info@altronics.com.au、dean.stephens@altronics.com.au"
  },
  "signals": [
-  "官网：다산네트웍스 ; 유무선 인터넷 통신, 자동차 전장용 통신 솔루션 개발, 공급 및 로지스틱스 플랫폼 사업 영위 ; Global Networking Solution Company",
-  "表内：三旺的长期合作客户；Richard / 质量高"
+  "表内：POE switch hisource 的；KP Dean Stephens / General Manager；Brian Sorensen / GM Product Development；可以多跟进一下",
+  "快照：内容为空"
  ],
  "risks": [
-  "体量/同行：上市网络设备集团（DZS 母公司）；22 次无回复"
+  "非主攻区（T5，澳大利亚；RCM 由客户侧）；现供 Hisource 价格基准低；21 次无回复 → 改向 GM Product Development 具名首触；官网快照空"
  ],
  "saga_fit": {
-  "p1": null,
+  "p1": "STC-28DGGPM",
   "tier": 30,
-  "why": "上市网络设备制造集团（自研产品、集团采购）→ 改 C（体量/同行）"
+  "why": "自有标 PoE（现 Hisource）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 口 STC-424DGGPM-280W（$145.7）贴 Altronics 标；非管理 4/8 PoE 位 HRUI（列表价，注明）"
  },
- "email_hook": "（不发送：上市集团/同行）"
+ "email_hook": "Brian, for the PoE switches sold under the Altronics label, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE 280 W) in your packaging from small lots, CE/RoHS; RCM by your side — which PoE SKU do your stores reorder most?",
+ "mail_review": {
+  "binding": {
+   "level": "轻度触达→拒（2026-04-20 Dean「not at this time」；Elsa 箱：`to:altronics.com.au` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 30 / 来 1）（第 74 批(n)））",
+   "type": "澳大利亚电子分销连锁（Altronics；自有标 PoE 现 Hisource）",
+   "sieve": "1",
+   "stop": "明确暂不",
+   "revive": "年度",
+   "lane": "AU",
+   "cadence": "年度",
+   "evidence": "k=f6879c7d612d62b5；第 19 批回补来信原文 1 条（gmail_s/gmail_a）"
+  },
+  "situation": "—",
+  "need": "—",
+  "breakpoint": "—",
+  "saga_now": {
+   "p1": "—",
+   "tier": 30,
+   "price": "—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-02 $220（48 port managed switch）、2024-12-04 $65（10G Media Converter）；群发里他已看到的价（续，第 66 批全量复核）：2025-07-28 $240（24 Port Fiber Switch）、2025-10-08 $280（10G Enterprise SFP Switch）",
+   "why": "已打开的主题（3/30 封有打开记录）：「Industrial PoE Switch」(2026-04-17)、「Re: Industrial PoE Switch」(2026-06-05)、「Firmware 7.5 L2+ Feature Update」(2026-07-01) → 读者兴趣偏「工业」；与 P1 同类，继续",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027",
+   "channel": "—",
+   "action": "—（第 75 批(am) 2026-10-25：英文信稿已写 `draft_en`；婉拒户（㉘）：2027 只给产品开发一封，不再群发）",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026-04-20",
+    "dir": "来",
+    "who": "dean.stephens@altronics.com.au",
+    "quote": "Hi Alan, Thank you, not at this time. Regards Dean",
+    "why": "来信原文（主题「RE: Industrial PoE Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+    "k": "f6879c7d612d62b5"
+   },
+   {
+    "date": "2026-06-05",
+    "dir": "去",
+    "who": "Saga（Alan）",
+    "quote": "Hi, Dean, How are you? Please check our half-width 10Gb managed switch featuring 1. Full L3 features(VXLAN, EVPN, MPLS, Stacking etc.) suitable for core and aggregation layers 2. Compact size, support hot-swappable fan modulars 3. OEM/white-label support(branding, model name etc.) Do you have any pr…",
+    "why": "Saga 实质答复原文（主题「Re: Industrial PoE Switch」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
+    "k": "c943d0ffd571332d"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": {
+   "subject": "A second ODM source for the Altronics-label PoE switches - 2027 note, product development",
+   "body": "Hi Brian,\n\nDean told us in April 2026 \"not at this time\", so this goes to product development once, for 2027 planning, and not again before. For the PoE switches sold under the Altronics label (HiSource-built today), a second ODM source in your packaging from small lots, CE/RoHS: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based - model STC-28DGGPM - $87.4 USD EXW with your logo (MOQ 1, 15-day validity); 24 x PoE+ (280 W) + 4 x SFP, L2+ managed - STC-424DGGPM-280W - $145.7. RCM stays on your side.\n\nOne question: which PoE SKU do your stores reorder most - that is the only one worth sampling?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+  },
+  "as_of": "2026-10-24"
+ }
 }

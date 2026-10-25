@@ -1,109 +1,252 @@
 {
-  "code": "SA-059",
-  "name_official": "（坦桑尼亚 · Richard Jackson，仅电话）",
-  "researched_at": "2026-10-21",
-  "website_status": "无域名（免费邮箱/仅电话）",
-  "summary": "坦桑尼亚买家 Richard Jackson（仅 WA 电话，无邮箱）。表内「主动联系问资料，说要下单」，2024-02 对 2 光 8 PoE 管理出货信息回「问了 catalog」；19 次推送 1 次实质回复，未成交。→ B 25%。",
-  "type": "",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "用户表",
-      "claim": "表内需求与回复",
-      "quote": "主动联系问资料 说要下单；2024.2.28 发了2光8POE管理出货信息 → 问了catalog/2023.3.20",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Richard Jackson",
-      "role": "（个人）",
-      "email": "",
-      "phone": "+255 768 043 267（WA 已加）",
-      "source": "用户 Clients 表"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "无域名 · 仅表内信息"
+ "code": "SA-059",
+ "name_official": "Data Connect Enterprise, Inc.（Maryland，美国）",
+ "website_status": "在线",
+ "summary": "美国连接性产品制造/库存商（马里兰、新泽西、加州设施），自有 DCE 品牌媒体转换器、串口/光纤转换器、工业调制解调器，收购了 Ctek/Relcomm/Synxcom/Telenetics 等品牌知识产权；面向数据/语音/网络/SCADA；用户记录 1 次回复、16 次跟进，兴趣工业 FS/MC/串口。",
+ "type": "品牌商（自有品牌）+ 分销",
+ "size": "中小型（三地库存设施；人数待补证）",
+ "brands_seen": [
+  "DCE（自有）",
+  "Ctek",
+  "Relcomm",
+  "Synxcom",
+  "Telenetics",
+  "Canoga Perkins",
+  "GarrettCom"
+ ],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "三地库存、面向数据/语音/网络/SCADA；收购多品牌 IP，自称美国商用与工业级连接产品制造商",
+   "quote": "We stock in our Maryland, New Jersey, and California facilities… Data Connect has acquired the intellectual property, manufacturing and/or licensing rights for a large number of products previously produced under Ctek, Relcomm, Synxcom, Telenetics… Today Data Connect is a premier U.S. manufacturer of commercial and industrial grade connectivity products",
+   "url": "https://www.data-connect.com/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "legal_name": "待核",
-    "founded": "待核",
-    "hq": "待核",
-    "size": "待核",
-    "other": "+255 768 043 267；无邮箱/公司"
+  {
+   "kind": "官网",
+   "claim": "DCE 品牌 10/100M 与千兆媒体转换器",
+   "quote": "DCE BRAND DCE MC Series 10/100M Media Converters… DCE Gigabit Media Converter",
+   "url": "https://www.data-connect.com/media_fiber_converters.htm",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "待核（见表内需求）"
-  ],
-  "products_seen": [],
-  "channels": {
-    "contact": "Richard Jackson，+255 768 043 267（WA 已加）"
+  {
+   "kind": "GlobalSpec",
+   "claim": "DCE 工业千兆媒体转换器 EMC202GigE",
+   "quote": "Industrial Gigabit Ethernet To Fiber Media Converter -- EMC202GigE… Supplier: Data Connect Enterprise, Inc.",
+   "url": "https://www.globalspec.com/industrial-directory/video_signal_to_ethernet_converter",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "曾主动联系并称要下单（未兑现）"
-  ],
-  "risks": [
-    "无邮箱与公司信息",
-    "坦桑尼亚小额订单物流/付款门槛"
-  ],
-  "saga_fit": {
-    "p1": "STC-28DGGPM",
-    "tier": 25,
-    "why": "其关注 2 光 8 PoE 管理出货信息 → 8 PoE + 2 SFP L2+ 起手"
+  {
+   "kind": "官网",
+   "claim": "DCE ANS208 工业 DIN 8 口 10/100 规格",
+   "quote": "The Data Connect ANS208 has 8 Ethernet Switching ports that support 10/100Base-T … DIN rail mount for industrial usage … ESD Protection: 8KV Contact Discharge 15KV Air-Gap Discharge",
+   "url": "https://www.data-connect.com/dce_ans208.htm",
+   "date": "2026-10-21"
   },
-  "email_hook": "You asked for our catalog after the 8-port PoE managed switch shipment photos — I can send the PDF and a landed-cost estimate to Dar es Salaam for 5 or 10 units; which size is closer?",
-  "mail_review": {
-    "binding": {
-      "level": "轻度触达（邮件无证，WhatsApp/WeChat 已加）：用户表「主动联系问资料 说要下单；2024.2.28 发了2光8POE管理出货信息 → 问了catalog/2023.3.20」；S/A 邮箱 0 封；Elsa 箱无可查地址（仓内无此户任何邮箱/域名——用户表/WhatsApp/展会名片户，`from:e.sagatelecom to:` 无从下手；Elsa 群发是否碰过他无法判定，不写「未触达」）（第 74 批(o)）",
-      "type": "—",
-      "sieve": "3（已加 WhatsApp，表内有往来）",
-      "stop": "仓库只有用户表一行；往来在 Simon 手机",
-      "revive": "首封邮件（A 邮箱，按 email_hook）+ WhatsApp 一句话",
-      "lane": "坦桑尼亚 非主攻",
-      "cadence": "一封",
-      "evidence": "gmail_digest：out 0；用户表：「主动联系问资料 说要下单；2024.2.28 发了2光8POE管理出货信息 → 问了catalog/2023.3.20」；研究档 risks：无邮箱与公司信息"
-    },
-    "situation": "坦桑尼亚买家 Richard Jackson（仅 WA 电话，无邮箱）。表内「主动联系问资料，说要下单」，2024-02 对 2 光 8 PoE 管理出货信息回「问了 catalog」；19 次推送 1 次实质回复，未成交。→ B 25%。",
-    "need": "其关注 2 光 8 PoE 管理出货信息 → 8 PoE + 2 SFP L2+ 起手",
-    "breakpoint": "无邮箱与公司信息",
-    "saga_now": {
-      "p1": "STC-28DGGPM",
-      "tier": 25,
-      "price": "按主表（研究档 saga_fit）",
-      "why": "其关注 2 光 8 PoE 管理出货信息 → 8 PoE + 2 SFP L2+ 起手",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "2026-11（Simon）",
-      "channel": "A 邮箱首封 + WhatsApp（Simon）",
-      "action": "首封 + 一句话",
-      "one_question": "You asked for our catalog after the 8-port PoE managed switch shipment photos — I can send the PDF and a landed-cost estimate to Dar es Salaam for 5 or 10 units; which size is closer?"
-    },
-    "facts": [
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "主动联系问资料 说要下单；2024.2.28 发了2光8POE管理出货信息 → 问了catalog/2023.3.20",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [
-      "WhatsApp 往来未入库"
-    ],
-    "draft_en": {
-      "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
-      "body": "You asked for our catalog after the 8-port PoE managed switch shipment photos — I can send the PDF and a landed-cost estimate to Dar es Salaam for 5 or 10 units; which size is closer?"
-    },
-    "as_of": "2026-10-24"
+  {
+   "kind": "官网",
+   "claim": "加固以太网页：DCE/ANS208、ANS205CR + Canoga Perkins、GarrettCom 转售",
+   "quote": "Data Connect Industrial Ethernet Switches DCE/ANS208 8-PORT INDUSTRIAL ETHERNET SWITCH DCE/ANS205CR 5-PORT INDUSTRIAL ETHERNET SWITCH Canoga Perkins … GarrettCom mP62 Managed Hardened Switch",
+   "url": "https://www.data-connect.com/hardened_ethernet.htm",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "DCE GMC 千兆 MC 系列",
+   "quote": "DCE GMC series comply with IEE802.3z/ab Gigabit Ethernet standard … 1000Base-T to 1000base-SX/LX … WDM Technology Combines Dual Fiber Cables into Single Fiber",
+   "url": "https://www.data-connect.com/dce_dt_gmc.htm",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "（见 Clients 表联系人）",
+   "role": "",
+   "email": "",
+   "phone": "+1 888-492-6526",
+   "source": "用户 Clients 表 + 官网"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "自有品牌 DCE 的 MC/工业产品线明显为 ODM 来源 → Saga 以 STI-110GE 介质转换器 + STI 工业 FS 做 OEM 补充 SKU，价阶 30%（品牌/OEM）。美国主攻区。1 次回复后 16 次推送无果 → 换角度（给 DCE 现有 MC 型号的对位表与样品）。",
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "深挖 v1"
+ },
+ "company_facts": {
+  "legal_name": "Data Connect Enterprise, Inc.",
+  "hq": "Maryland, USA（另有 NJ、CA 设施）",
+  "other": "自有 DCE 品牌：MC（10/100、千兆 GMC、WDM）、DFT 4FX+4TX 交换机、ANS205CR/ANS208 工业 DIN 交换机、工业调制解调器、以太网延长器（2178HEE/2178CEE+PoE）、串口服务器；拥有 Ctek/Relcomm/Synxcom/Telenetics 品牌 IP；同时转售 Canoga Perkins、GarrettCom 加固设备"
+ },
+ "business_lines": [
+  "DCE 品牌 MC / 工业交换机 / 延长器 / 调制解调器 / KVM",
+  "Canoga Perkins、GarrettCom 加固以太网转售",
+  "数据/语音/SCADA 连接产品"
+ ],
+ "products_seen": [
+  {
+   "brand": "DCE",
+   "model": "ANS208",
+   "spec": "工业 DIN 8×10/100 非管理，宽压 DC，ESD 8/15KV，变电站/工业",
+   "url": "https://www.data-connect.com/dce_ans208.htm",
+   "date": "2026-10-21",
+   "saga": "STI-288DGGPM（千兆 PoE 升级位）"
+  },
+  {
+   "brand": "DCE",
+   "model": "ANS205CR",
+   "spec": "工业 DIN 5 口",
+   "url": "https://www.data-connect.com/hardened_ethernet.htm",
+   "date": "2026-10-21",
+   "saga": "STI-144GP"
+  },
+  {
+   "brand": "DCE",
+   "model": "GMC Series 千兆 MC（含 WDM）",
+   "spec": "1000Base-T → SX/LX，550 m–10 km",
+   "url": "https://www.data-connect.com/dce_dt_gmc.htm",
+   "date": "2026-10-21",
+   "saga": "STI-110GE"
+  },
+  {
+   "brand": "DCE",
+   "model": "DFT Series 4×100FX + 4×10/100TX",
+   "spec": "FX/TX 交换/桥接 MC",
+   "url": "https://www.data-connect.com/dce_dt_dft.htm",
+   "date": "2026-10-21",
+   "saga": "STI-110GE（千兆位）"
+  },
+  {
+   "brand": "DCE",
+   "model": "2178HEE / 2178CEE+POE 以太网延长器",
+   "spec": "$450–525（iComTech）",
+   "url": "https://www.icomtechinc.com/data-connect/",
+   "date": "2026-06-25",
+   "saga": "—"
+  }
+ ],
+ "channels": {
+  "网站": "https://www.data-connect.com/（产品页陈旧但在线）",
+  "直邮": "bpatton@data-connect.com / drowe@data-connect.com（用户表）",
+  "分销": "iComTech 等"
+ },
+ "signals": [
+  "DCE 工业交换机仍为 10/100 非管理（ANS208/205CR）——千兆 PoE 升级是明确空位（2026-10-21）",
+  "用户表：1 次回复、16 次跟进，兴趣工业 FS/MC/串口，「卖很多牌子的产品」"
+ ],
+ "risks": [
+  "SCADA/公用事业客户可能要求 IEEE 1613/UL——不承诺",
+  "产品页多年未更新，采购活跃度待验证"
+ ],
+ "saga_fit": {
+  "p1": "STI-288DGGPM",
+  "tier": 30,
+  "why": "DCE ANS208（8×FE 工业）→ 千兆 PoE 升级 STI-288DGGPM；ANS205CR → STI-144GP；GMC/DFT → STI-110GE；贴 DCE 标 30% 档"
+ },
+ "email_hook": "Your DCE ANS208 and ANS205CR are still 10/100 non-PoE, so a gigabit PoE DIN switch in 8+2 SFP and 4+1 formats (the 8+2 also as a Marvell-based managed version) under the DCE label is the natural refresh, and I am quoting both with the gigabit SFP media converter that matches your GMC series.",
+ "mail_review": {
+  "binding": {
+   "level": "未绑定（0 回复：档案里的 1 封「来信」是 Alpha Net 的 Nate 回群发时抄送 bpatton@data-connect.com，非 DCE 回复；Elsa 箱：`to:data-connect.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 27 / 来 1）（第 74 批(g)））",
+   "type": "美国自有品牌 DCE（MC/工业线 ODM 来源）——第一档类型",
+   "sieve": "0",
+   "stop": "27 封去信零回复（Bob Patton）",
+   "revive": "换触达角度（官网表单/LinkedIn），不再加频",
+   "lane": "US",
+   "cadence": "2024-08 → 2026-10 去信 27 封；0 回复",
+   "evidence": "k=6350a98e7dcd08eb（实为 SA-058 来信）"
+  },
+  "situation": "研究档「1 次回复」是误判：那封信来自 Nate Cline（Alpha Net），只是抄送了 DCE 的 Bob Patton。DCE 两年零回复。",
+  "need": "DCE 的 MC/工业交换机 ODM 补源。",
+  "breakpoint": "触达问题，不是需求问题；频率无用。",
+  "saga_now": {
+   "p1": "STI-110GE MC 对位表",
+   "tier": 30,
+   "price": "换人再触锚价 STI-110GE $26.5 EXW（最近实报 SA-001 2025-11-27 $26.5（㉕）；第 72 批 2026-10-24）；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-12-11 $300（48 Port PoE Managed Switch）、2026-10-02 $180（24 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-08-24 $65（10G Media Converter）、2025-09-22 $280（10G Enterprise SFP Switch）",
+   "why": "换渠道。已打开的主题（1/27 封有打开记录）：「10G media converter」(2024-08-24) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续",
+   "repeat": [],
+   "gaps": [
+    "DCE 产品经理联系人"
+   ]
+  },
+  "next_move": {
+   "when": "2027-Q1",
+   "channel": "LinkedIn / 官网表单",
+   "action": "一次对位表（第 75 批(q) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；LinkedIn/表单短版）（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
+   "one_question": "Which of the DCE media-converter SKUs is sourced in Asia today, and what would a second source need to match? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
+  },
+  "facts": [
+   {
+    "date": "2024-08-24",
+    "dir": "来",
+    "who": "Nate Cline（Alpha Net，抄送 DCE）",
+    "quote": "Yes, I would like to learn more about your 10G media converter…",
+    "why": "误归属说明",
+    "k": "6350a98e7dcd08eb"
+   },
+   {
+    "date": "2024-08-24",
+    "dir": "去",
+    "who": "S 箱（Simon）",
+    "quote": "10G media converter",
+    "why": "首封去信（邮箱索引；去信共 27 封）",
+    "k": "1d40fa686d57be9b"
+   },
+   {
+    "date": "2024-08-24",
+    "dir": "去",
+    "who": "S 箱（Simon）",
+    "quote": "10G media converter｜稿内价 $65",
+    "why": "去信正文含价（邮箱索引）",
+    "k": "1d40fa686d57be9b"
+   },
+   {
+    "date": "2024-08-24",
+    "dir": "来",
+    "who": "nate.cline@alphanetcom.com",
+    "quote": "RE: 10G media converter｜Hi Simon,     Yes, I would like to learn more about your 10G media converter.     Can you send me a price list and I want to ask if I can buy from you",
+    "why": "来信（邮箱索引；原文见 k；是否人工回复以原文为准）",
+    "k": "6350a98e7dcd08eb"
+   },
+   {
+    "date": "2024-08-24",
+    "dir": "去",
+    "who": "S 箱（Simon）报价",
+    "quote": "10G media converter｜ $65（原句：Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unma）",
+    "why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
+    "k": "1d40fa686d57be9b"
+   },
+   {
+    "date": "2024-12-11",
+    "dir": "去",
+    "who": "S 箱（Simon）报价",
+    "quote": "48 Port PoE Managed Switch｜ $300（原句：*Price is very competitive, 300usd/pc*）",
+    "why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
+    "k": "654b21b6912a9b67"
+   },
+   {
+    "date": "2026-10-02",
+    "dir": "去",
+    "who": "S 箱（Simon）",
+    "quote": "24 Port PoE Managed Switch",
+    "why": "最近一封去信（邮箱索引；去信共 27 封）",
+    "k": "481d052423caa372"
+   },
+   {
+    "date": "2026-10-02",
+    "dir": "去",
+    "who": "S 箱（Simon）报价",
+    "quote": "24 Port PoE Managed Switch｜ $180（原句：*Price: 180USD/PC*）",
+    "why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
+    "k": "481d052423caa372"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": {
+   "subject": "LinkedIn / web form: a gigabit PoE refresh for the DCE ANS208 / ANS205CR slots",
+   "body": "Hello DCE team,\n\nYour ANS208 and ANS205CR are 10/100 non-PoE; a gigabit PoE refresh under the DCE label from small lots: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, unmanaged, -40 to 75 C, FCC/CE/RoHS - model STI-288GP - $62.2 USD EXW (MOQ 1, 15-day validity); 4 x PoE+ + 1 x SFP - STI-144GP - $36.9; the 8 + 2 also as an L2+ managed version on a Marvell platform - STI-288DGGPM - $137.5. The gigabit SFP converter matching your GMC series - STI-110GE - $26.5.\n\nOne question: who owns the industrial switch and converter line at DCE now, so I send the model-by-model table to the right inbox?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+  },
+  "as_of": "2026-10-24"
+ }
 }

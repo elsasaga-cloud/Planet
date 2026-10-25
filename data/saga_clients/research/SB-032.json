@@ -1,150 +1,138 @@
 {
  "code": "SB-032",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（opax.com，快照 2026-10-21）",
- "summary": "土耳其/波兰 Opax（Opax Alarm Sistemleri：有线/无线/WiFi/GSM 报警、无线火灾报警、摄像机与网络产品；自有 OPAX 标 PoE 交换机 OPAX-0890W（8 口百兆 PoE + 2 上联 90 W）、OPAX-08120W、OPAX-1619（16 口 + 2 千兆上联）、PoE 延长器；表内「商业 PoE 用的洪瑞（HRUI）的」；KP Damian Brozda（Vice President, opax.pl）、Aleksandar Radonic（COO））；表内 2 次跟进无回复。",
- "type": "报警/安防品牌商（土耳其/波兰，OPAX 标 PoE，现 HRUI）",
- "size": "",
+ "name_official": "PIOLINK, Inc.（파이오링크，韩国）",
+ "website_status": "在线（piolink.com，快照 2026-10-21）",
+ "summary": "韩国云数据中心优化厂商（KOSDAQ 上市，ADC、TiFRONT 安全交换机 / 骨干交换机、云管理网络），GM Tae Gu (Jayden) Lee 光博会相识，想要 Realtek 高端系列芯片方案，2025-02 对 24 光口机「让加微信谈」。身份 = 交换机厂商（同行），只能走 ODM/代工补充线。",
+ "type": "品牌厂商（自研交换机）",
+ "size": "中型（韩国上市公司，待补证）",
  "brands_seen": [
-  "HRUI"
+  "PIOLINK（自有）"
  ],
  "evidence": [
   {
-   "kind": "官网快照",
-   "claim": "官网标题：Opax Alarm Sistemleri | Kablolu, Kablosuz, WiFi ve GSM Alarm Çözümleri - Kablosuz Yangın S；品类词 安防监控（CCTV / 门禁） / 无线 / WiFi / 网络交换 / PoE",
-   "quote": "Opax alarm ve güvenlik sistemleriyle ev ve iş yerinizi koruma altına alın. Kablolu, kablosuz, WiFi ve GSM destekli Opax alarm sistemleri, kablosuz yangın alarm sistemleri, kamera çözümleri ve dedektörlerle Türkiye genelinde kesintisiz güven",
-   "url": "https://www.opax.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "商业POE 用的洪瑞的；90 4449890 网站上的",
+   "kind": "用户记录",
+   "claim": "参展商，想要 Realtek 高端系列芯片；联系人 Tae Gu Lee",
+   "quote": "参展商…想要realtek高端系列的芯片 / attn: Tae Gu Lee | telephone: 82-2-2025-6931（用户 Clients 表摘录）",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   },
   {
    "kind": "官网快照",
-   "claim": "OPAX PoE 产品页",
-   "quote": "/kamera-ekipmanlari/ag-urunleri/prd-opax-0890w-8-port-10100m-poe-switch-2-port-uplink-90w ; prd-opax-1619-16-port-10100m-poe-switch-2-port-gigabit-upl…",
-   "url": "https://www.opax.com/",
+   "claim": "定位：云数据中心优化；TiFRONT 骨干 / 云安全交换机、云管理网络；关键词 switch 86",
+   "quote": "PIOLINK is a professional in cloud data center optimization… TiFRONT Backbone Switch… Cloud Security Switch… Cloud Managed Networking",
+   "url": "https://www.piolink.com/en/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "商业 PoE 用的洪瑞的",
-   "quote": "商业POE 用的洪瑞的",
+   "claim": "想要 Realtek 高端系列的芯片；2025-02 24Fiber→让加微信谈；光博会上的那个",
+   "quote": "兴趣：想要realtek高端系列的芯片；回复：让加微信谈",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
  "kp": [
   {
-   "name": "Damian Brozda",
-   "title": "Vice President",
-   "email": "damian@opax.pl",
-   "phone": "",
-   "source": "用户表"
+   "name": "Tae Gu Lee",
+   "role": "（用户记录）",
+   "email": "",
+   "phone": "+82-2-2025-6931 / +82-10-4301-9595",
+   "source": "用户 Clients 表（Secon 2023）"
   },
   {
-   "name": "Aleksandar Radonic",
-   "title": "COO",
-   "email": "satis@opax.com",
-   "phone": "",
-   "source": "用户表"
+   "name": "Tae Gu Lee (Jayden)",
+   "title": "GM",
+   "email": "gooleebiz@gmail.com",
+   "phone": "+82 10 4301 9595",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
   }
  ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "grade_override": "B",
+ "override_reason": "品牌厂商、需求为芯片级（Realtek 高端芯片），Saga 是整机贸易商不供芯片；韩国非主攻区；1 次回复后 23 次推送无果。仅保留'HRUI Realtek 方案整机 ODM'一条可能 → B。",
+ "notes": "若重启，只提 HRUI（Realtek 平台）整机 ODM 能力，不谈芯片供货。待补证：公司规模（上市信息）。",
+ "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（官网快照：同行 ODM）"
  },
  "company_facts": {
-  "hq": "土耳其",
-  "other": "官网 opax.com，语言 tr，快照状态 ok；角色判定来源：官网文案"
+  "legal_name": "PIOLINK, Inc.",
+  "founded": "2000（上市公司，待核）",
+  "hq": "Seoul, Korea（+82 2 2025 6900）",
+  "size": "中型上市公司",
+  "other": "表内邮箱 cdma092@piolink.con 为笔误（.com）"
  },
  "business_lines": [
-  "报警 / 无线火灾报警 / 摄像机与网络产品（自有品牌 OPAX）"
+  "ADC / 负载均衡",
+  "TiFRONT 安全交换机 / 骨干交换机",
+  "云管理网络 / 安全服务"
  ],
  "channels": {
-  "role": "报警/安防品牌商（土耳其/波兰，OPAX 标 PoE，现 HRUI）",
-  "region": "土耳其",
-  "contact": "satis@opax.com、damian@opax.pl"
+  "role": "交换机厂商（同行；潜在 ODM 买方）",
+  "region": "韩国 + 日本"
  },
  "signals": [
-  "页面 /kamera-ekipmanlari/ag-urunleri/prd-opax-0890w-8-port-10100m-poe-switch-2-port-uplink-90w、prd-opax-08120w-…、prd-opax-1619-16-port-10100m-poe-switch-2-port-gigabit-upl…、PoE extender；官网：Opax alarm ve güvenlik sistemleriyle ev ve iş yerinizi koruma altına alın",
-  "表内：商业 PoE 用的洪瑞的；KP Damian Brozda / Vice President；Aleksandar Radonic / COO"
+  "对 24 光口机、Realtek 高端方案有兴趣 → 可能寻找 ODM 代工补充 SKU"
  ],
  "risks": [
-  "Q-33 口径：现供 HRUI 为 Saga 在供厂商——不碰其百兆 PoE 位，仅推 SmartByte/Marvell 千兆线",
-  "土耳其汇率敏感；2 次无回复 → 改向 VP/COO 具名首触"
+  "同行厂商：仅 ODM 口径，需 SmartByte/HRUI 原厂配合（Saga 为贸易商）",
+  "表内邮箱域名笔误 .con，需改 .com"
  ],
  "saga_fit": {
-  "p1": "STC-28DGGPM",
+  "p1": "STC-424XGGM(L3)",
   "tier": 30,
-  "why": "现供 HRUI（Saga 在供厂商）→ 按 Q-33 口径只推 SmartByte/Marvell 线：千兆 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）作 OPAX 系列千兆升级位；24 口 STC-424DGGPM-280W（$145.7）；现有百兆 PoE 位不碰"
+  "why": "24 光 / 高端 L3 需求 → Saga STC-424XGGM(L3)（24 GE + 4×10G，$269.1/280.3/291.5）作 ODM 样机；全光 24 SFP 版按 SmartByte 另询。"
  },
- "email_hook": "Damian, as the OPAX PoE range moves from fast-Ethernet to gigabit, we can supply a Marvell-based gigabit 8-PoE + 2 SFP L2+ (and 24-PoE 280 W) under the OPAX label from small lots, CE/RoHS — is a gigabit PoE upgrade planned for your camera kits?",
+ "email_hook": "Jayden, you mentioned a 24-fibre unit on a higher-end Realtek/Marvell platform — if PIOLINK needs an ODM access/aggregation SKU below the TiFRONT line, I can send the L3 24+4×10G spec and a sample price; which chipset family is your software team already on?",
  "mail_review": {
   "binding": {
-   "level": "未触达（A/S 邮箱 19 封 2024→2026，无记录打开，0 回；收件 damian@opax.pl, satis@opax.com；主题多为「10G Enterprise SFP Switch、Industrial PoE Switch」；Elsa 箱：`to:opax.com OR to:opax.pl` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 19 / 来 0）（第 74 批(i)））",
-   "type": "报警/安防品牌商（土耳其/波兰，OPAX 标 PoE，现 HRUI）",
-   "sieve": "1（只收到群发）",
-   "stop": "19 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱；Q-33 供应商渠道客户",
-   "revive": "不动（Q-33）",
-   "lane": "TR 主攻（四主）",
-   "cadence": "不动",
-   "evidence": "gmail_digest：out 19；用户表：「商业POE 用的洪瑞的；90 4449890 网站上的」；研究档 risks：Q-33 口径：现供 HRUI 为 Saga 在供厂商——不碰其百兆 PoE 位，仅推 SmartByte/Marvell 千兆线"
+   "level": "未绑定（2025-02「Could we talk via WeChat?」→ Alan 先问 Marvell 是否可接受 → 无下文；Elsa 箱：`to:piolink.com OR to:piolink.con` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 24 / 来 1）（第 74 批(n)））",
+   "type": "韩国自研交换机厂商（PIOLINK）——潜在 ODM 买家；Jayden Lee",
+   "sieve": "1",
+   "stop": "Alan 2025-02-18 以芯片问题回复了「加 WeChat」的请求；对方没再回",
+   "revive": "WeChat 层（若 Simon 已加）",
+   "lane": "KR",
+   "cadence": "2024-07 → 2026-09 去信 24 封；最后来信 2025-02-18",
+   "evidence": "k=ba64fb062e5e9604 / 1048e9cbd52c2199"
   },
-  "situation": "土耳其/波兰 Opax（Opax Alarm Sistemleri：有线/无线/WiFi/GSM 报警、无线火灾报警、摄像机与网络产品；自有 OPAX 标 PoE 交换机 OPAX-0890W（8 口百兆 PoE + 2 上联 90 W）、OPAX-08120W、OPAX-1619（16 口 + 2 千兆上联）、PoE 延长器；表内「商业 PoE 用的洪瑞（HRUI）的」；KP Damian Brozda（Vice President, opax.pl）、Aleksandar Radonic（COO））；表内 2 次跟进无回复。",
-  "need": "现供 HRUI（Saga 在供厂商）→ 按 Q-33 口径只推 SmartByte/Marvell 线：千兆 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）作 OPAX 系列千兆升级位；24 口 STC-424DGGPM-280W（$145.7）；现有百兆 PoE 位不碰",
-  "breakpoint": "Q-33 口径：现供 HRUI 为 Saga 在供厂商——不碰其百兆 PoE 位，仅推 SmartByte/Marvell 千兆线",
+  "situation": "Jayden 要求转 WeChat（jayden092），Alan 回「我们是 Marvell，你接受吗？附 GPT 写的三种芯片差异」。对方消失。",
+  "need": "24 口光聚合（当时）。",
+  "breakpoint": "对方要换渠道，Saga 用筛子问题回应——顺序颠倒。",
   "saga_now": {
-   "p1": "STC-28DGGPM",
+   "p1": "HRUI/Realtek 整机 ODM（研究档）",
    "tier": 30,
-   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-08 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-06-14 $65（10G Media Converter）、2025-09-30 $280（10G Enterprise SFP Switch）",
-   "why": "现供 HRUI（Saga 在供厂商）→ 按 Q-33 口径只推 SmartByte/Marvell 线：千兆 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）作 OPAX 系列千兆升级位；24 口 STC-424DGGPM-280W（$145.7）；现有百兆 PoE 位不碰",
+   "price": "—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-08 $220（48 port managed switch）、2024-10-11 $65（10G Media Converter）；群发里他已看到的价（续）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-02-18 $240（24 Port Fiber Switch）、2025-07-18 $300（48 Port PoE Managed Switch）、2025-09-25 $280（10G Enterprise SFP Switch）",
+   "why": "若 WeChat 已加则在 WeChat。已打开的主题（5/24 封有打开记录）：「24 Port Fiber Switch」(2025-02-18)、「Re: 24 Port Fiber Switch」(2025-02-18)、「Re: 24 Port Fiber Switch」(2025-04-07)、「Re: 24 Port Fiber Switch」(2025-04-28) → 读者兴趣偏「MC/光电」；与 P1 同类，继续",
    "repeat": [],
-   "gaps": []
+   "gaps": [
+    "WeChat 是否已加"
+   ]
   },
   "next_move": {
    "when": "不动",
-   "channel": "—",
-   "action": "—",
-   "one_question": ""
+   "channel": "WeChat",
+   "action": "—（用 one_question 这句，WhatsApp 直接发，不附资料）",
+   "one_question": "Jayden, you mentioned a 24-fibre unit on a higher-end Realtek/Marvell platform — if PIOLINK needs an ODM access/aggregation SKU below the TiFRONT line, I can send the L3 24+4×10G spec and a sample price; which chipset family is your software team already on?"
   },
   "facts": [
    {
-    "date": "2024-11-05",
-    "dir": "去",
-    "who": "Simon → Angora Networks（SA-168）附件 Turkey Client List.xlsx",
-    "quote": "名单行：「Commercial POE satis@opax.com 90 4449890 https://www.opax.com/ag-urunleri/prd-opax-0810-8-port-10100m-poe-switch-2-port-uplink-120w」",
-    "why": "Saga 2024-11-05 把本户列入交给 Angora（安卡拉，Saga 提议的欧盟/土耳其分销伙伴）的 64 家起步名单；此后 Saga 仍直发本户。若 Angora 已接触过本户，Saga 直发会与自己提议的渠道打架 → Q-51（默认：直发继续，Angora 报了价的户 Saga 只做技术支持）",
-    "k": "gmail_s 2024-11-05 Re: Invoice_5pcs STC-424DGGPM-280W（附件）+ Drive PI 7_土耳其 Turkey_Client_List.xlsx"
+    "date": "2025-02-18",
+    "dir": "来",
+    "who": "Jayden（PIOLINK）",
+    "quote": "Could we talk via WeChat? My WeChat account is \"jayden092\"",
+    "why": "渠道请求",
+    "k": "ba64fb062e5e9604"
    },
    {
-    "date": "2026-10-06",
+    "date": "2025-02-18",
     "dir": "去",
-    "who": "A/S 群发",
-    "quote": "10G Enterprise SFP Switch、Industrial PoE Switch",
-    "why": "19 封 / 0 次打开 / 0 回｜首封 2024-06-14 → 末封 2026-10-06（19 去 / 0 来）",
-    "k": "gmail_digest"
-   },
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "商业POE 用的洪瑞的；90 4449890 网站上的",
-    "why": "表内备注",
-    "k": "用户表"
+    "who": "Alan",
+    "quote": "Our products are Marvell chipset based. Is this fine with you?… Please see attached info from GPT",
+    "why": "以筛子回应",
+    "k": "1048e9cbd52c2199"
    }
   ],
-  "proof_gaps": [
-   "在 Saga 给 Angora 的 Turkey Client List（2024-11-05）里——Angora 是否接触过本户无记录（Q-51）"
-  ],
+  "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-24"
  }

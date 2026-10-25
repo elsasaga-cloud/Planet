@@ -1,0 +1,75 @@
+# SB-249 netbergtw.com · news_2 · https://netbergtw.com/about/case-studies/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+netberg | Main
+10F, No. 111-3, Xiyuan Road, Zhongli District, Taoyuan City, 320 Taiwan R.O.C. + 886-3-2609203
+Main
+Products
+Fully Programmable Switches
+Switches
+Open NOS
+Custom Networking Solutions
+Support
+Manuals
+Articles
+Netberg SONiC Documentation & Configuration Guide
+GitHub Repository
+About Netberg
+Use Cases and Customer Success
+Netberg Company News & Product Announcements
+Netberg Industry Partners & Open Source Ecosystem
+Main
+Products
+Fully Programmable Switches
+Switches
+Open NOS
+Custom Networking Solutions
+Support
+Manuals
+Articles
+Netberg SONiC Documentation & Configuration Guide
+GitHub Repository
+About Netberg
+Use Cases and Customer Success
+Netberg Company News & Product Announcements
+Netberg Industry Partners & Open Source Ecosystem
+Use Cases and Customer Success
+Custom NPB Solutions for 5G and Data Center Networks
+The active deployment of 5G networks in Asia and worldwide creates numerous challenges for network operators
+Australian Telco Case Study
+Developing a next-generation telecommunications platform…
+French Data Center and Telco Operator Use Case
+A Data Center and Telecom services operator was looking at expanding its network while reducing CapEx and OpEx.
+Max Plank Institute For Radio Astronomy Case Study
+Max Planck Institute for Radio Astronomy leverages Netberg Aurora 720 100G switches.
+European Software Developer Case Study
+What if the existing protocol stack is not enough?
+Or features you are looking for are either missing or part of different solutions?
+USA Investment Management Company Case Study
+A growing US business developing cutting-edge technologies in investment management.
+USA provider of client connectivity and distributed FX ECN platform Case Study
+Fit-for-purpose multi-terabit Layer 4 Load Balancer built using Barefoot Tofino.
+NEWS
+Latest news
+Netberg Announces the Aurora X2 Switch Series, Built on Xsight Labs’ Programmable X2 Silicon
+Taoyuan, Taiwan — 26th of August, 2026 — Netberg, a leading provider of open networking solutions, today announced the Aurora X2 Series, its newest flagship Ethernet switch family. Built on Xsight Labs’ programmable X2 switch silicon, the Aurora X2-81 and Aurora X2-71 bring open networking performance, scalability, and flexibility to modern data centers.
+Netberg SONiC 202511.n0: Powering Next-Level Performance, Security, and AI-Ready Networks
+Taoyuan, Taiwan, 15st of April 2026.
+Netberg, a leading provider of open networking solutions, is proud to announce the release of SONiC 202511.n0 , the latest enterprise-grade distribution of the open-source SONiC networking operating system.
+2025 July EOL Notice
+Taoyuan, Taiwan
+Effective July 7, 2025: The following products are now End of Life (EOL): Aurora 750, Aurora 710, and Aurora 610.
+Netberg releases Netberg SONiC 202411.n0: Enhanced Features & Performance
+Taoyuan, Taiwan, 29th of April 2025.
+The latest release of SONiC 202411.n0 – an enterprise distribution of SONiC by Netberg – introduces new features and enhancements tailored to improve performance in data center, edge, and campus environments.
+Netberg supports Ubuntu 24.04 Noble Numbat
+Taoyuan, Taiwan, 20th of January 2025.
+Netberg, the leading provider of open networking solutions, announces support of Ubuntu 24.04 Noble Numbat on its Broadcom-enabled portfolio.
+Netberg launches Aurora 721 and Aurora 421 programmable switches
+Taoyuan city, Taiwan, 24th of June 2024.
+Netberg announced the new Aurora 721 100G and Aurora 421 10G switches, which feature programmable pipelines powered by Broadcom StrataXGS® Trident3 Ethernet switch chips.
+Address: 10F, No. 111-3, Xiyuan Road, Zhongli District, Taoyuan City, 320 Taiwan R.O.C.
+Tel: + 886-3-2609203
+Email: sales@netbergtw.com
+Main
+Products
+About Netberg | Open Networking & Hardware Solutions
+Netberg Company News & Product Announcements

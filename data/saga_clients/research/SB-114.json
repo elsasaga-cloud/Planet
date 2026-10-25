@@ -1,30 +1,49 @@
 {
  "code": "SB-114",
- "name_official": "Onyx Technology Solutions Limited（乌干达）",
+ "name_official": "Swift Solution & Services (SSS)",
  "researched_at": "2026-10-21",
- "website_status": "无域名（gmail；仅表内信息）",
- "summary": "乌干达 WISP / 网络集成商（Steven Ntengo），用 Cambium Force 200/190 无线，需求工业 PoE 注入器（Saga 价目无，Q-32）；2024 年问工业交换机价格、48 口 / 228 价格，对 154（1 SFP + 1 GE + 4 PoE 工业）有兴趣，要价目表。",
+ "website_status": "在线（swift.net.pk，快照 2026-10-21）",
+ "summary": "伊斯兰堡电信 / 网络 / 广播解决方案商，2003 年成立，业主 Abdul Mateen Awan（ICCI 会员名录），团队来自巴电信业，做视频会议、数据通信、生物识别、RFID、无线电广播、IP 电话；客户含政府、广播、国防、教育（守界按单核）。表内兴趣「1 光 8 ST」，2024-05 要商用交换机价目。",
  "type": "",
  "size": "",
- "brands_seen": [
-  "Cambium"
- ],
+ "brands_seen": [],
  "evidence": [
   {
+   "kind": "官网",
+   "claim": "2003 年成立；电信 / 网络 / 广播综合方案商；客户含政府、广播、国防、教育",
+   "quote": "SSS was founded in 2003 as a comprehensive solutions provider in the field of telecommunications, networks and broadcasting… clientele… including governance, services, communications, broadcasting, defence and education",
+   "url": "https://swift.net.pk/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "名录",
+   "claim": "ICCI 会员：业务线电信；业主 Abdul Mateen Awan；E-8 伊斯兰堡",
+   "quote": "SWIFT SOLUTION & SERVICES — BUSINESS LINE: TELECOMMUNICATION — MR.ABDUL MATEEN AWAN – PROPRIETOR — D-14L Naval Shopping Complex, E-8, Islamabad — 051-4340841 — info@swift.net.pk",
+   "url": "https://www.icci.pk/listing/swift-solution-services/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "公开邮箱 info@ / jamil@ / mateen@swift.net.pk；关键词 telecom 3 / switch 2",
+   "quote": "emails info@swift.net.pk, jamil@swift.net.pk, mateen@swift.net.pk",
+   "url": "https://swift.net.pk/",
+   "date": "2026-10-21"
+  },
+  {
    "kind": "用户表",
-   "claim": "兴趣：工业 POE injector 用于 cambium radios like force 200/190；回复：price product info；price for 48 port, 228；对 154 有兴趣；price list",
-   "quote": "兴趣：工业POE injector 用于cambium radios like force 200 and 190 etc；回复：对154有兴趣；price list",
+   "claim": "兴趣 1 光 8 ST；2024-05 mini 工业机→要商业交换机 price list",
+   "quote": "兴趣：1光8 ST；回复：商业交换机的price list",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
  "kp": [
   {
-   "name": "Steven Ntengo",
-   "title": "（表内联系人）",
-   "email": "onyxtechnologysolutionsltd@gmail.com",
-   "phone": "+256 704 803 724",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
+   "name": "Abdul Mateen Awan",
+   "title": "Proprietor",
+   "email": "mateen@swift.net.pk",
+   "phone": "+92 333 512 0078",
+   "source": "https://www.icci.pk/listing/swift-solution-services/"
   }
  ],
  "grade_override": null,
@@ -32,56 +51,58 @@
  "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "无域名 · 仅表内信息"
+  "level": "B 级加厚 v1（官网快照 + 名录核对）"
  },
  "company_facts": {
-  "legal_name": "Onyx Technology Solutions Limited",
-  "founded": "",
-  "hq": "乌干达",
-  "size": "小型",
-  "other": "gmail；Cambium 用户"
+  "legal_name": "Swift Solution & Services",
+  "founded": "2003",
+  "hq": "D-14L Naval Shopping Complex, E-8, Islamabad, Pakistan",
+  "size": "小型（独资）",
+  "other": "ICCI 会员"
  },
  "business_lines": [
-  "无线接入 / WISP 工程（Cambium）",
-  "网络集成"
+  "电信 / 数据通信集成",
+  "广播与无线电",
+  "视频会议 / IP 电话",
+  "生物识别 / RFID"
  ],
  "channels": {
-  "role": "WISP / 集成商",
-  "region": "乌干达"
+  "role": "系统集成 / 方案商（项目）",
+  "region": "巴基斯坦"
  },
  "signals": [
-  "对 STI-154GP 同口型明确有兴趣",
-  "多次要价目 → 比价采购"
+  "要过商用交换机价目",
+  "电信/广播项目有接入层需求"
  ],
  "risks": [
-  "注入器需求 Saga 无（Q-32）",
-  "东非付款：T/T 预付"
+  "守界：客户含国防 — 按单核对最终用户，不供军方项目",
+  "独资小公司，项目型"
  ],
  "saga_fit": {
-  "p1": "STI-154GP",
+  "p1": "STC-28DGGPM",
   "tier": 25,
-  "why": "其明确感兴趣的「154」= Saga STI-154GP（1 SFP + 1 GE 上行 + 4 PoE 工业，$37.7/39.2/40.8），可直接给 Cambium Force 供电（802.3at/bt 需核）。"
+  "why": "其要的商用交换机价目 → 以 STC-28DGGPM 起手；「1 光 8」工业口型对 STI-188 无，最近为 STI-288GP（2 SFP）。"
  },
- "email_hook": "Steven, you liked the 154 unit (1 SFP + 1 GE uplink + 4 PoE) — Force 200/190 radios take 802.3at from it directly, so you may not need separate injectors; shall I send the datasheet plus 1-pc and 10-pc EXW prices?",
+ "email_hook": "Mateen, you asked for our commercial switch price list in May 2024 — for your telecom and broadcast sites, is the 8-port PoE with SFP uplink the size you quote most, or should I lead with the 24-port?",
  "mail_review": {
   "binding": {
-   "level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：工业POE injector 用于cambium radios like force 200 and 190 et」；Elsa 箱：`to:onyxtechnologysolutionsltd@gmail.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(n)））",
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：1光8 ST；回复：商业交换机的price list」；Elsa 箱：`to:swift.net.pk` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(n)））",
    "type": "—",
    "sieve": "—（未入筛）",
    "stop": "从未触达",
    "revive": "不动（非主攻区；J5：有证据再动）",
-   "lane": "乌干达 非主攻",
+   "lane": "巴基斯坦 非主攻",
    "cadence": "不动",
-   "evidence": "gmail_digest：out 0；用户表：「兴趣：工业POE injector 用于cambium radios like force 200 and 190 etc；回复：对154有兴趣；price l」；研究档 risks：注入器需求 Saga 无（Q-32）"
+   "evidence": "gmail_digest：out 0；用户表：「兴趣：1光8 ST；回复：商业交换机的price list」；研究档 risks：守界：客户含国防 — 按单核对最终用户，不供军方项目"
   },
-  "situation": "乌干达 WISP / 网络集成商（Steven Ntengo），用 Cambium Force 200/190 无线，需求工业 PoE 注入器（Saga 价目无，Q-32）；2024 年问工业交换机价格、48 口 / 228 价格，对 154（1 SFP + 1 GE + 4 PoE 工业）有兴趣，要价目表。",
-  "need": "其明确感兴趣的「154」= Saga STI-154GP（1 SFP + 1 GE 上行 + 4 PoE 工业，$37.7/39.2/40.8），可直接给 Cambium Force 供电（802.3at/bt 需核）。",
-  "breakpoint": "注入器需求 Saga 无（Q-32）",
+  "situation": "伊斯兰堡电信 / 网络 / 广播解决方案商，2003 年成立，业主 Abdul Mateen Awan（ICCI 会员名录），团队来自巴电信业，做视频会议、数据通信、生物识别、RFID、无线电广播、IP 电话；客户含政府、广播、国防、教育（守界按单核）。表内兴趣「1 光 8 ST」，2024-05 要商用交换机价目。",
+  "need": "其要的商用交换机价目 → 以 STC-28DGGPM 起手；「1 光 8」工业口型对 STI-188 无，最近为 STI-288GP（2 SFP）。",
+  "breakpoint": "守界：客户含国防 — 按单核对最终用户，不供军方项目",
   "saga_now": {
-   "p1": "STI-154GP",
+   "p1": "STC-28DGGPM",
    "tier": 25,
    "price": "按主表（研究档 saga_fit）",
-   "why": "其明确感兴趣的「154」= Saga STI-154GP（1 SFP + 1 GE 上行 + 4 PoE 工业，$37.7/39.2/40.8），可直接给 Cambium Force 供电（802.3at/bt 需核）。",
+   "why": "其要的商用交换机价目 → 以 STC-28DGGPM 起手；「1 光 8」工业口型对 STI-188 无，最近为 STI-288GP（2 SFP）。",
    "repeat": [],
    "gaps": []
   },
@@ -93,26 +114,10 @@
   },
   "facts": [
    {
-    "date": "2024-04-29",
-    "dir": "来",
-    "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
-    "quote": "用户表跟进：推「发了工业交换机图」→ 对方「price  product info」",
-    "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
-    "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.28 2024.4.29"
-   },
-   {
-    "date": "2024-06-20",
-    "dir": "来",
-    "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
-    "quote": "用户表跟进：推「发了几个商业交换机图」→ 对方「price for 48 port,228」",
-    "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
-    "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.28 2024.6.20"
-   },
-   {
     "date": "2026-10-21",
     "dir": "用户表",
     "who": "Simon",
-    "quote": "兴趣：工业POE injector 用于cambium radios like force 200 and 190 etc；回复：对154有兴趣；price list",
+    "quote": "兴趣：1光8 ST；回复：商业交换机的price list",
     "why": "表内备注",
     "k": "用户表"
    }

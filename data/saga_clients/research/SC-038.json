@@ -1,0 +1,124 @@
+{
+ "code": "SC-038",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（ansecnetwork.com，快照 2026-10-21）",
+ "summary": "香港 ANSEC Network（网络机柜、理线、配线架等无源 + 有源设备；自有 AS- 型号（AS-16SF8B-M2SG / AS-4P2SG / AS-8PM，Utepo 代工迹象）；表内「工业 FS Utepo 的；分销商；自己的型号」；电话 +86 131…（内地手机，「网站上的 加不了 VX」））；群发 17 次无回复。",
+ "type": "港资/内地背景贸易商（自有型号转卖 Utepo，同行）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：ANSEC | ANSEC Network offers you network cabinets, Cable management and tray, Patch panel,；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "Categories；Passive networking equipment；Active networking equipment；Professional；Quality；Dedicated",
+   "url": "http://www.ansecnetwork.com/en/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "工业FS Upeto的 分销商 自己的型号",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "ANSEC 定位",
+   "quote": "ANSEC Network offers you network cabinets, Cable management and tray, Patch panel ; Passive networking equipment ; Active networking equipment ; AS-16SF8B-M2SG",
+   "url": "http://www.ansecnetwork.com/en/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "Utepo 的 自己的型号；内地手机",
+   "quote": "工业FS Upeto的 分销商 自己的型号；86 131 3867 2473 / 网站上的 加不了VX",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "同行：香港/内地背景贸易商（ANSEC，Utepo 贴牌 AS- 型号），非海外渠道；c_sub=同行/贸易商",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "香港",
+  "other": "官网 ansecnetwork.com，语言 ?，快照状态 ok；角色判定来源：用户表"
+ },
+ "business_lines": [
+  "网络机柜 / 配线 / 有源设备贸易"
+ ],
+ "channels": {
+  "role": "港资/内地背景贸易商（自有型号转卖 Utepo，同行）",
+  "region": "香港",
+  "contact": "office@ansecnetwork.com、support@ansecnetwork.com"
+ },
+ "signals": [
+  "站内 AS-16SF8B-M2SG / AS-4P2SG / AS-4P1SG / AS-8PM / AS-8P；首页 Passive networking equipment / Active networking equipment",
+  "表内：工业 FS Upeto 的 分销商 自己的型号；86 131 3867 2473 / 网站上的 加不了 VX"
+ ],
+ "risks": [
+  "同行：香港注册、内地电话的贸易商（Utepo 产品贴 AS- 型号出口），非海外渠道客户；17 次无回复"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 30,
+  "why": "内地手机号 + 香港壳 + Utepo 贴牌自有型号 → 同行出口商，非海外渠道 → 改 C"
+ },
+ "email_hook": "（不发送：同行）",
+ "mail_review": {
+  "as_of": "2026-10-25",
+  "binding": {
+   "level": "已发未回（无人工回复、无打开记录；S 7 封 2024-07-04→2025-01-27、A 19 封 2025-03-13→2026-10-08，共 26 封群发，0 真实回复；Elsa 单发去信 1 封（2025-02-10「Mini Industrial PoE Switch」→ office@ansecnetwork.com，未见回复（Elsa 箱 Replied 标签无）））（第 74 批(e)：S/A mail_dump + Elsa 箱 in:sent 排锚扫描 2026-10-25）",
+   "type": "港资贸易商（自有型号，Utepo 代工，同行）",
+   "sieve": "1（无人读/无人回）",
+   "stop": "读",
+   "evidence": [
+    "mail_dump.py SC-038（S/A 全量）",
+    "data/gmail_e/elsa_sent_nonanchor_2026-10-25.json（Elsa 1:1 普查）"
+   ]
+  },
+  "situation": "香港 ANSEC Network（自有 AS- 型号转卖 Utepo 工业 FS 的贸易商，内地手机；同行）",
+  "need": "同行贸易商：只可能在 Utepo 断供/涨价时找二供",
+  "breakpoint": "同行 + 自有型号已有代工；S/A 26 封 0 回",
+  "saga_now": {
+   "p1": null,
+   "tier": null,
+   "price": null,
+   "why": "同行贸易商：只可能在 Utepo 断供/涨价时找二供",
+   "repeat": "无成单；不动",
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "不动：同行贸易商，留群发名单",
+   "one_question": null
+  },
+  "facts": [
+   {
+    "date": "2026-10-08",
+    "dir": "去",
+    "who": "S/A 群发",
+    "quote": "Marvell Industrial Alert System, Industrial PoE Switch, 10G Enterprise SFP Switch, 48 port managed switch",
+    "why": "S 7 封 2024-07-04→2025-01-27、A 19 封 2025-03-13→2026-10-08，共 26 封群发，0 真实回复｜首封 2024-07-04 → 末封 2026-10-08",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2025-02-10",
+    "dir": "out",
+    "who": "Elsa → office@ansecnetwork.com",
+    "quote": "Mini Industrial PoE Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+    "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
+    "k": "elsa_1to1",
+    "msg_id": "194edcca7af30c65"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null
+ }
+}

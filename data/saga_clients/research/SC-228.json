@@ -1,0 +1,58 @@
+{
+ "code": "SC-228",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "无域名",
+ "summary": "英国「Delatim」（阿里巴巴 RTS 订单「EoC」；联系人 Andrew Armstrong，仅 hotmail 免费邮箱，无公司域名）；表内未跟进。",
+ "type": "个人/非渠道买家（免费邮箱）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "EOC / from: 阿里巴巴RTS订单",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "EoC RTS 订单",
+   "quote": "EOC / from: 阿里巴巴RTS订单",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "个人买家/免费邮箱零散订单；c_sub=个人买家",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "英国",
+  "other": "无官网快照；角色判定来源：待核"
+ },
+ "business_lines": [
+  "（个人订单）"
+ ],
+ "channels": {
+  "role": "个人/非渠道买家（免费邮箱）",
+  "region": "英国",
+  "contact": "armstrong@hotmail.co.uk"
+ },
+ "signals": [
+  "表内：EOC / from: 阿里巴巴 RTS 订单；KP Andrew Armstrong；armstrong@hotmail.co.uk"
+ ],
+ "risks": [
+  "仅 hotmail 免费邮箱、无公司域名（实体不可核）；EoC 品类 Saga 不供（Q-32）"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 20,
+  "why": "无公司域名、仅免费邮箱的零散 EoC 订单（品类 Saga 不供）→ 改 C（个人买家）"
+ },
+ "email_hook": "（不发送：个人零散订单）"
+}

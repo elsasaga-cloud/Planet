@@ -1,135 +1,136 @@
 {
  "code": "SB-889",
- "name_official": "",
+ "name_official": "TeamOn Teknoloji Çözümleri（安卡拉）",
  "researched_at": "2026-10-21",
- "website_status": "在线（acelink.com.tw，快照 2026-10-21）",
- "summary": "台湾 Acelink Technology（网络方案：WiFi 7 商用、智慧工厂、AIoT 智慧城市，Network X 2026 参展，ODM；表内「商业 PoE，PoE 配件较多」）；群发 7 次无回复。",
- "type": "台湾网络 ODM/品牌商（台湾厂商口径二供）",
+ "website_status": "在线（teamon.com.tr，快照 2026-10-21）",
+ "summary": "土耳其安卡拉（+90 312 806 35 29）IT 方案 / 经销商（在售 **PLANET**、Allied Telesis、Netgear、Ruijie、Teltonika、D-Link、TP-Link；switch 48 / poe 31），表内 switch、「主要是几个有名的牌子」；群发 2 次。",
+ "type": "",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "PLANET",
+  "Allied Telesis",
+  "Netgear",
+  "Ruijie",
+  "Teltonika",
+  "D-Link",
+  "TP-Link"
+ ],
  "evidence": [
   {
    "kind": "官网快照",
-   "claim": "官网标题：Acelink Technology - Network Solutions；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 网络交换 / PoE",
-   "quote": "Network X 2026；WiFi 7 for Business；WiFi On-The-Go；Secure Cloud Made Easy；Smart Factory；Smart City with AIoT",
-   "url": "https://www.acelink.com.tw/",
+   "claim": "品牌 PLANET / Allied Telesis / Netgear / Ruijie / Teltonika / D-Link / TP-Link；+90 (312) 806 35 29；info@teamon.com.tr",
+   "quote": "TeamOn Teknoloji Çözümleri… brands PLANET, Allied Telesis, Netgear, Ruijie, Teltonika, D-Link, TP-Link",
+   "url": "https://teamon.com.tr/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "商业POE POE配件较多",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "Acelink 网络方案",
-   "quote": "Acelink Technology - Network Solutions ; Network X 2026 ; WiFi 7 for Business ; Smart Factory ; Smart City with AIoT",
-   "url": "https://www.acelink.com.tw/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "商业 PoE，PoE 配件较多",
-   "quote": "商业POE POE配件较多",
+   "claim": "switch；主要是几个有名的牌子",
+   "quote": "兴趣：switch",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "（未具名）",
+   "title": "",
+   "email": "info@teamon.com.tr",
+   "phone": "+90 312 806 35 29",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（官网快照核对 + 表内）"
  },
  "company_facts": {
-  "hq": "台湾",
-  "other": "官网 acelink.com.tw，语言 zh-Hant-TW，快照状态 ok；角色判定来源：官网文案"
+  "legal_name": "TeamOn Teknoloji Çözümleri",
+  "founded": "",
+  "hq": "Ankara, Türkiye",
+  "size": "小型 IT 方案 / 经销",
+  "other": "PLANET 在售"
  },
  "business_lines": [
-  "WiFi 7 / 智慧工厂 / AIoT 网络方案（ODM）"
+  "IT 方案 / 网络设备经销"
  ],
  "channels": {
-  "role": "台湾网络 ODM/品牌商（台湾厂商口径二供）",
-  "region": "台湾",
-  "contact": "contact@acelink.com.tw"
+  "role": "经销商（PLANET 在售）",
+  "region": "土耳其"
  },
  "signals": [
-  "首页：Network X 2026 / WiFi 7 for Business / Smart Factory / Smart City with AIoT",
-  "站内 kw：wifi 137 / industrial 61 / odm 2"
+  "PLANET 在售 → 直接对价 PLANET 型号"
  ],
  "risks": [
-  "台湾 ODM 商：自有供应体系，白牌切入点弱；非主攻区（T5）",
-  "PoE 配件为主要兴趣：Saga 价目无对应（Q-32）；7 次无回复"
+  "仅 info@；品牌偏好"
  ],
  "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 30,
-  "why": "台湾 ODM 商：仅二供/补缺 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；PoE 配件 Saga 价目无（Q-32）"
+  "p1": "STI-288GP",
+  "tier": 20,
+  "why": "对位 PLANET IGS-5225-8P2S 工业 → STI-288GP（$57.4 @20%）；商用对 GS-4210-8P2S → STC-28DGGPM。"
  },
- "email_hook": "For the PoE switches that pair with your Wi-Fi 7 and smart-factory offerings, we can be a second source on a Marvell L2+ platform (8-PoE + 2 SFP, 4/8-port unmanaged) from small lots — is a lower-cost PoE tier something you would consider dual-sourcing?",
+ "email_hook": "Merhaba — next to the PLANET IGS/GS lines you sell, our 2-SFP + 8-PoE industrial is $57 EXW and the Marvell L2+ GS-4210-class is $81; would a 1+1 sample to Ankara help you compare?",
  "mail_review": {
   "binding": {
-   "level": "已由 EDIMAX 代答（2025-07-09 Alan 发 contact@acelink.com.tw 的「16 Port Ethernet Switch」，回信来自 EDIMAX 讯舟 Jesse Chen（SB-006）「Can you send product catalogue and price list」→ 链接 → 「We will study your list」；Acelink 是讯舟的关联公司，contact@ 由讯舟业务接——本户与 SB-006 只算一条线；此外 A/S 箱 14 封群发无人回；Elsa 箱：`to:acelink.com.tw` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 14 / 来 0）（第 74 批(n)））",
-   "type": "台湾网络 ODM/品牌商（台湾厂商口径二供）",
-   "sieve": "2（有人在读，无人回）",
-   "stop": "资料给出后无回（见 SB-006）；两户同时群发等于一封信发两遍",
-   "revive": "只走 SB-006 Jesse Chen 一条线；本户不再单独发",
-   "lane": "台湾 非主攻",
-   "cadence": "一封；回了再说",
-   "evidence": "gmail_digest：out 14，Opened 标签 3（Simon 群发追踪）；用户表：「商业POE POE配件较多」；研究档 risks：台湾 ODM 商：自有供应体系，白牌切入点弱；非主攻区（T5）"
+   "level": "未触达（A/S 邮箱 18 封 2024→2026，无记录打开，0 回；收件 info@teamon.com.tr；主题多为「10G Enterprise SFP Switch、Industrial PoE Switch」；Elsa 箱：`to:teamon.com.tr` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 18 / 来 0）（第 74 批(i)））",
+   "type": "—",
+   "sieve": "1（只收到群发）",
+   "stop": "只打通用邮箱，无记录打开；Q-33 供应商渠道客户",
+   "revive": "不动（Q-33）",
+   "lane": "TR 主攻（四主）",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 18；用户表：「兴趣：switch」；研究档 risks：仅 info@；品牌偏好"
   },
-  "situation": "台湾 Acelink Technology（网络方案：WiFi 7 商用、智慧工厂、AIoT 智慧城市，Network X 2026 参展，ODM；表内「商业 PoE，PoE 配件较多」）；群发 7 次无回复。",
-  "need": "台湾 ODM 商：仅二供/补缺 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；PoE 配件 Saga 价目无（Q-32）",
-  "breakpoint": "台湾 ODM 商：自有供应体系，白牌切入点弱；非主攻区（T5）",
+  "situation": "土耳其安卡拉（+90 312 806 35 29）IT 方案 / 经销商（在售 **PLANET**、Allied Telesis、Netgear、Ruijie、Teltonika、D-Link、TP-Link；switch 48 / poe 31），表内 switch、「主要是几个有名的牌子」；群发 2 次。",
+  "need": "对位 PLANET IGS-5225-8P2S 工业 → STI-288GP（$57.4 @20%）；商用对 GS-4210-8P2S → STC-28DGGPM。",
+  "breakpoint": "仅 info@；品牌偏好",
   "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 30,
-   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-06-17 $65（10g fiber media converter）、2025-04-18 $300（48 Port PoE Managed Switch）",
-   "why": "台湾 ODM 商：仅二供/补缺 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；PoE 配件 Saga 价目无（Q-32）。已打开的主题（3/14 封有打开记录）：「24 port poe switch」(2024-07-15)、「Marvell Alleycat5 Solution」(2025-03-19)、「16 Port Ethernet Switch」(2025-07-09) → 读者兴趣主题类别不明（看原主题）｜已发资料（勿重发）：Product Link_2026Q2(2026-03-06)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）",
+   "p1": "STI-288GP",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-25 $65（10G media converter）；群发里他已看到的价（续）：2026-08-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-06-29 $220（48 port managed switch）、2025-09-26 $280（10G Enterprise SFP Switch）",
+   "why": "对位 PLANET IGS-5225-8P2S 工业 → STI-288GP（$57.4 @20%）；商用对 GS-4210-8P2S → STC-28DGGPM。",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "不单独发（并入 SB-006）",
+   "when": "不动",
    "channel": "—",
-   "action": "后续只对 SB-006 Jesse Chen；本户从群发名单去重",
+   "action": "—",
    "one_question": ""
   },
   "facts": [
    {
-    "date": "2025-07-09",
-    "dir": "来",
-    "who": "EDIMAX Jesse Chen（jessechen@edimax.com.tw，回 Acelink contact@ 收到的信）",
-    "quote": "Hi Alan, Can you send product catalogue and price list for my reference?（引文：To: contact@acelink.com.tw Subject: 16 Port Ethernet Switch）",
-    "why": "证明 Acelink 的 contact@ 由讯舟业务接管——两户是同一集团",
-    "k": "gmail_a b21df8d3abb40eb6"
+    "date": "2024-11-05",
+    "dir": "去",
+    "who": "Simon → Angora Networks（SA-077）附件 Turkey Client List.xlsx",
+    "quote": "名单行：「switch info@teamon.com.tr https://www.teamon.com.tr/urunler/listesi?marka=AEM&sayfa=3」",
+    "why": "Saga 2024-11-05 把本户列入交给 Angora（安卡拉，Saga 提议的欧盟/土耳其分销伙伴）的 64 家起步名单；此后 Saga 仍直发本户。若 Angora 已接触过本户，Saga 直发会与自己提议的渠道打架 → Q-51（默认：直发继续，Angora 报了价的户 Saga 只做技术支持）",
+    "k": "gmail_s 2024-11-05 Re: Invoice_5pcs STC-424DGGPM-280W（附件）+ Drive PI 7_土耳其 Turkey_Client_List.xlsx"
    },
    {
-    "date": "2026-09-04",
+    "date": "2026-09-21",
     "dir": "去",
     "who": "A/S 群发",
-    "quote": "Marvell Industrial Alert System、Industrial PoE Switch",
-    "why": "14 封 / 3 次打开 / 0 回｜首封 2024-06-17 → 末封 2026-09-04（14 去 / 0 来）",
+    "quote": "10G Enterprise SFP Switch、Industrial PoE Switch",
+    "why": "18 封 / 0 次打开 / 0 回｜首封 2024-06-29 → 末封 2026-09-21（18 去 / 0 来）",
     "k": "gmail_digest"
    },
    {
     "date": "2026-10-21",
     "dir": "用户表",
     "who": "Simon",
-    "quote": "商业POE POE配件较多",
+    "quote": "兴趣：switch",
     "why": "表内备注",
     "k": "用户表"
    }
   ],
-  "proof_gaps": [],
-  "draft_en": {
-   "subject": "One question — Marvell Industrial Alert System",
-   "body": "Hello,\n\nWe have sent you a few mails on \"Marvell Industrial Alert System\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor the PoE switches that pair with your Wi-Fi 7 and smart-factory offerings, we can be a second source on a Marvell L2+ platform (8-PoE + 2 SFP, 4/8-port unmanaged) from small lots — is a lower-cost PoE tier something you would consider dual-sourcing?\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
-  },
+  "proof_gaps": [
+   "在 Saga 给 Angora 的 Turkey Client List（2024-11-05）里——Angora 是否接触过本户无记录（Q-51）"
+  ],
+  "draft_en": null,
   "as_of": "2026-10-24"
  }
 }

@@ -1,0 +1,58 @@
+{
+ "code": "SC-225",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "无域名",
+ "summary": "亚美尼亚「Amazon IMPORT」（阿里巴巴 RFQ「24 口商业 switch」；KP Georgi Vardanov，仅 gmail；无公司域名）；表内未跟进。",
+ "type": "零散 RFQ（亚美尼亚，免费邮箱）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "24口商业switch / from: 阿里巴巴RFQ",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "24 口商业 switch RFQ",
+   "quote": "24口商业switch / from: 阿里巴巴RFQ",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "区域外零散 RFQ（免费邮箱）；c_sub=区域外/个人买家",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "亚美尼亚",
+  "other": "无官网快照；角色判定来源：待核"
+ },
+ "business_lines": [
+  "（零散 RFQ）"
+ ],
+ "channels": {
+  "role": "零散 RFQ（亚美尼亚，免费邮箱）",
+  "region": "亚美尼亚",
+  "contact": "vardanovgosha317@gmail.com"
+ },
+ "signals": [
+  "表内：24 口商业 switch / from: 阿里巴巴 RFQ；KP Georgi Vardanov；vardanovgosha317@gmail.com"
+ ],
+ "risks": [
+  "区域外（亚美尼亚）；仅 gmail 免费邮箱、无公司域名"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 20,
+  "why": "区域外、仅免费邮箱、无公司域名 → 改 C"
+ },
+ "email_hook": "（不发送：区域外/个人）"
+}

@@ -1,90 +1,110 @@
 {
  "code": "SB-803",
- "name_official": "Security Development Corp, SRL（Sedecorp，sedecorp.com，Santo Domingo, República Dominicana）",
+ "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "在线",
- "summary": "多米尼加共和国圣多明各的电子安防批发分销商（2006 年成立，11–50 人；Provision-ISR、Hanwha、AVTECH、DSC、ZKTeco 授权分销；总裁 Wilfredo Suriel García；销售与市场经理 Boanergis Olmos Hane）。**用户表国别登记为「美国」有误——实为多米尼加（加勒比），不在 US/CA + 欧洲 + 土耳其聚焦区域。** WhatsApp 已加，19 次跟进 0 回复。",
- "type": "",
+ "website_status": "在线（bestpc.bg，快照 2026-10-21）",
+ "summary": "保加利亚 BestPC.BG（笔记本/电脑/组件网店 + 维修服务：TP-Link 66、Ubiquiti 12、MikroTik 8、Planet 8；网络交换机与配件栏目；表内无兴趣记录）；表内无跟进记录。",
+ "type": "电脑综合网店（保加利亚）",
  "size": "",
  "brands_seen": [
-  "Provision-ISR",
-  "Hanwha",
-  "AVTECH",
-  "DSC",
-  "ZKTeco"
+  "Huawei",
+  "TP-Link",
+  "Ubiquiti",
+  "MikroTik",
+  "Planet"
  ],
  "evidence": [
   {
-   "kind": "官网",
-   "claim": "地址与联系方式",
-   "quote": "Nuestra Oficina: Camila Henriquez Ureña #8, Mirador Norte, Santo Domingo, Republica Dominicana Llamanos tel:. 809-633-2323 servicioalcliente@sedecorp.com",
-   "url": "https://sedecorp.com/",
-   "date": "2020-01-24"
-  },
-  {
-   "kind": "LinkedIn",
-   "claim": "业务、品牌授权、规模、高管",
-   "quote": "Security Development Corporation. Somos Distribuidores al por mayor de equipos de seguridad electrónica. Distribuidores autorizados de las marcas: #Provision #Hanwha, #AVTECH, #DSC, #ZKTeco en República Dominicana … Company size: 11-50 employees Headquarters: Santo Domingo … Founded: 2006 … Wilfredo Suriel Garcia President & CEO of Sedecorp … Boanergis Elias Olmos Hane encargado de ventas y mercadeo",
-   "url": "https://www.linkedin.com/company/sedecorp",
+   "kind": "官网快照",
+   "claim": "官网标题：Магазин за лаптопи, компютри и компоненти - BestPC.BG；品类词 安防监控（CCTV / 门禁） / 无线 / WiFi / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "Купи от BestPC.BG | Евтини лаптопи, таблети, телевизори, смартфони, компютри, монитори, периферия, компоненти. Ремонт, сервиз, диагностика на компютри и лаптопи",
+   "url": "https://bestpc.bg/",
    "date": "2026-10-21"
   },
   {
-   "kind": "用户表",
-   "claim": "登记国别「美国」（有误）；WhatsApp 已加；19 次跟进 0 回复",
-   "quote": "（用户表字段）",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "kind": "官网快照",
+   "claim": "保加利亚电脑与组件网店",
+   "quote": "Магазин за лаптопи, компютри и компоненти - BestPC.BG ; Евтини лаптопи, таблети, телевизори, смартфони, компютри, монитори, периферия, компоненти.",
+   "url": "https://bestpc.bg/",
    "date": "2026-10-21"
   }
  ],
- "kp": [
-  {
-   "name": "Wilfredo Suriel García",
-   "role": "Presidente / CEO（LinkedIn 公开）",
-   "email": "—（未公开）",
-   "phone": "+1 809-633-2323（公司）",
-   "source": "https://www.linkedin.com/company/sedecorp"
-  },
-  {
-   "name": "Boanergis Olmos Hane",
-   "role": "Encargado de Ventas y Mercadeo（LinkedIn 公开）",
-   "email": "—（未公开）",
-   "phone": "+1 809-633-2323（公司）",
-   "source": "https://www.linkedin.com/company/sedecorp"
-  }
- ],
- "grade_override": "C",
- "override_reason": "2026-10-21 核实：公司位于多米尼加共和国（用户表误记为美国），不在聚焦区域且 19 次跟进 0 回复 → C（子原因：区域外）。若用户决定开拓拉美可改回 B。",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 国别由表内「美国」更正为「多米尼加」（country_fix，依据见加厚块）",
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网 + LinkedIn 核对 · 国别更正）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "legal_name": "Security Development Corp, SRL（Sedecorp）",
-  "founded": "2006",
-  "hq": "Calle Camila Henríquez Ureña No. 8, Mirador Norte, Santo Domingo 10114, República Dominicana（+1 809-633-2323；servicioalcliente@sedecorp.com / marketing@sedecorp.com）",
-  "size": "11–50（LinkedIn）",
-  "other": "授权分销：Provision-ISR、Hanwha Techwin、AVTECH、DSC、ZKTeco；20+ 年经验、254+ 项目（官网口径）"
+  "hq": "保加利亚",
+  "other": "官网 bestpc.bg，语言 bg，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "电子安防批发（CCTV、门禁、报警）"
+  "笔记本 / 电脑 / 组件网店与维修"
  ],
  "channels": {
-  "网站": "https://sedecorp.com/",
-  "电话": "+1 809-633-2323（官网公开）",
-  "邮箱（公开）": "servicioalcliente@sedecorp.com"
+  "role": "电脑综合网店（保加利亚）",
+  "region": "保加利亚",
+  "contact": "store@bestpc.bg"
  },
  "signals": [
-  "安防分销商本应是 PoE 交换机常规买家，但区域外且 0 回复"
+  "栏目 /bg/network-switches、/bg/network-switches-aksesoari",
+  "站内 kw：tp-link 66 / poe 111 / sfp 96 / 10g 46"
  ],
  "risks": [
-  "区域外（加勒比），物流/支付/售后成本高；19 次跟进 0 回复"
+  "综合电脑网店：交换机为配套品类，品牌货（TP-Link）为主",
+  "小国（BG）非主动开发区；无具名 KP（store@）"
  ],
  "saga_fit": {
   "p1": "STC-28DGGPM",
   "tier": 20,
-  "why": "不推进（区域外）；若恢复按分销 20% 档报 STC-28DGGPM 配 Hanwha/Provision 项目"
+  "why": "综合网店交换机栏 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-08GE（$10.5）/ STC-028GP（$24.2）"
  },
- "email_hook": "（不发送：区域外；若恢复）For the Provision-ISR and Hanwha kits you distribute, the 8-port PoE+ managed switch at $80.7 EXW is the usual add-on line; shall I quote a carton quantity?",
- "country_fix": "多米尼加"
+ "email_hook": "For the network-switch category of your store, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 8-port unmanaged models from small lots, CE/RoHS, EU shipping — which band sells more for you, PoE or plain gigabit?",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：调研建档；Elsa 箱：`to:bestpc.bg` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(k)））",
+   "type": "电脑综合网店（保加利亚）",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "不动（Q-33 供应商渠道客户）",
+   "lane": "保加利亚（欧洲全域主攻）",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 0；研究档 risks：综合电脑网店：交换机为配套品类，品牌货（TP-Link）为主"
+  },
+  "situation": "保加利亚 BestPC.BG（笔记本/电脑/组件网店 + 维修服务：TP-Link 66、Ubiquiti 12、MikroTik 8、Planet 8；网络交换机与配件栏目；表内无兴趣记录）；表内无跟进记录。",
+  "need": "综合网店交换机栏 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-08GE（$10.5）/ STC-028GP（$24.2）",
+  "breakpoint": "综合电脑网店：交换机为配套品类，品牌货（TP-Link）为主",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "综合网店交换机栏 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-08GE（$10.5）/ STC-028GP（$24.2）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—（第 76 批(c) 2026-10-25：0 事实户补时间线事实）",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "研",
+    "who": "官网快照",
+    "quote": "官网标题：Магазин за лаптопи, компютри и компоненти - BestPC.BG；品类词 安防监控（CCTV / 门禁） / 无线 / WiFi / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE：Купи от BestPC.BG | Евтини лаптопи, таблети, телевизори, смартфони, компютри, монитори, перифе",
+    "why": "无任何邮件往来；唯一证据为研究/用户表记录",
+    "k": "https://bestpc.bg/"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

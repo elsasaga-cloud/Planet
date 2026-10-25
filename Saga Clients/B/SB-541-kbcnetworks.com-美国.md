@@ -1,0 +1,317 @@
+# kbcnetworks.com
+
+> **评级 B**　|　美国　|　档案编号 `SB-541`　|　优先级 ★★　|　状态：已推送 10 次·未回复
+>
+> **类型**：工业传输方案品牌商（自有标加固交换机线，OEM 采购）（推断）　|　**历史关系**：推送 10 次（2025-02-25 → 2025-10-23）　|　**所在清单**：A优质名单(US)、AI评估(US)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+
+```yaml structured_profile
+code: SB-541
+rating: B
+rating_auto: B
+score: 38
+country: 美国
+region: 北美
+website: kbcnetworks.com
+type: 工业传输方案品牌商（自有标加固交换机线，OEM 采购）
+tier_tags: ["A优质名单(US)", "AI评估(US)"]
+deal: no
+replies: 0
+followups: 10
+first_contact: 2025-02-25
+last_contact: 2025-10-23
+s_mail: 22 msgs (out 22 / in 0), 2025-01-20 -> 2026-09-11
+p1: STI-288GPM
+price_tier: 30%
+research: done
+site_snapshot: ok  # 2026-10-21
+sources: 2
+updated: 2026-10-25
+```
+
+## SALES BRIEF（压缩模型）
+
+- **是谁**：美国/英国 KBC Networks（工业加固电源与传输方案制造商：无线以太网系统、移动监控、ThruLink 硬件 VPN、加固工业网络交换机、eCopper 同轴/UTP IP 传输、电源；表内「工业 FS / MC / 机架 / SFP / VC」「优质公司」；KP Steve Kuntz（President，skuntz@）、Craig Kennedy（Technical Solutions Architect）、David Schulman（VP, BD））；群发 10 次无回复。（调研 2026-10-21；表内兴趣：工业FS MC 机架 SFP VC）
+- **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；-10 推送 10 次无任何回复（聋名单）
+- **历史互动**：推送 10 次（2025-02-25 → 2025-10-23）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 自有标加固工业交换机线靠 ODM → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）、非管理 STI-288GP 作二供；MC 位 STI-110GE；机架/SFP/VC Saga 不供（Q-32）；换人再触锚价 STI-288GPM $85.5 EXW（主表档位（PDF 上限 $88；SA-016 2025-07 实报 $72 为分销量价）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-08-06 $300（48 Port PoE Managed Switch）、2025-09-30 $280（10G Enterprise SFP Switch）
+- **第一问（只问一个）**：David, for the rugged industrial switch line in the KBC range, we can be a second ODM source (DIN-rail 8-PoE + 2 SFP managed on Marvell L2+, or unmanaged, −40~75 °C) from small lots with FCC/CE/RoHS reports — which model would you consider dual-sourcing first? Reference: STI-288GPM at $85.5 USD EXW (MOQ 1, 15-day validity).
+- **最大未知**：年走量与现供应商
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 首封前知悉：Elsa 仅 2025-02-25 单发过 1 封「Mini Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(v) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-541` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A/S 邮箱 22 封 2025→2026，无记录打开，0 回；收件 ckennedy@kbcnetworks.com, dschulman@kbcnetworks.com；主题多为「Managed Optical Bypass Switch、Marvell Industrial Alert System」）；Elsa 1:1 去信 1 封（2025-02-25「Mini Industrial PoE Switch」；To 仅本户 info@kbcnetworks.com；Bcc 未逐封读头；同类名单抽读 24 封均无 Bcc；此后再未进 Elsa 任何名单——全箱 `from:e.sagatelecom to:info@kbcnetworks.com` 仅此 1 条，complete）（第 74 批(m)）** ｜ 类型：工业传输方案品牌商（自有标加固交换机线，OEM 采购） ｜ 筛子：1（只收到群发） ｜ 停点：22 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：停发群发；若要继续，换具名邮箱 + 只问一句 ｜ 通路：US 主攻（四主） ｜ 节奏：一封 ｜ 证据：gmail_digest：out 22；用户表：「工业FS MC 机架 SFP VC」；研究档 risks：成熟品牌（移动监控/ITS/公用事业客户多）：导入需工程验证；公用事业/交通项目按单守界
+- **现状一句话**：美国/英国 KBC Networks（工业加固电源与传输方案制造商：无线以太网系统、移动监控、ThruLink 硬件 VPN、加固工业网络交换机、eCopper 同轴/UTP IP 传输、电源；表内「工业 FS / MC / 机架 / SFP / VC」「优质公司」；KP Steve Kuntz（President，skuntz@）、Craig Kennedy（Technical Solutions Architect）、David Schulman（VP, BD））；群发 10 次无回复。
+- **对方真实需求（有据）**：自有标加固工业交换机线靠 ODM → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）、非管理 STI-288GP 作二供；MC 位 STI-110GE；机架/SFP/VC Saga 不供（Q-32）
+- **断点 / 为什么停在这里**：成熟品牌（移动监控/ITS/公用事业客户多）：导入需工程验证；公用事业/交通项目按单守界
+- **Saga 现在该推什么**：P1 **STI-288GPM**（30% 档，换人再触锚价 STI-288GPM $85.5 EXW（主表档位（PDF 上限 $88；SA-016 2025-07 实报 $72 为分销量价）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-08-06 $300（48 Port PoE Managed Switch）、2025-09-30 $280（10G Enterprise SFP Switch））——自有标加固工业交换机线靠 ODM → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）、非管理 STI-288GP 作二供；MC 位 STI-110GE；机架/SFP/VC Saga 不供（Q-32）
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　首封前知悉：Elsa 仅 2025-02-25 单发过 1 封「Mini Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(v) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
+  - 第一问（只问一个）：David, for the rugged industrial switch line in the KBC range, we can be a second ODM source (DIN-rail 8-PoE + 2 SFP managed on Marvell L2+, or unmanaged, −40~75 °C) from small lots with FCC/CE/RoHS reports — which model would you consider dual-sourcing first? Reference: STI-288GPM at $85.5 USD EXW (MOQ 1, 15-day validity).
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2025-02-25 | out | Elsa → info@kbcnetworks.com | Mini Industrial PoE Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
+| 2026-09-11 | 去 | A/S 群发 | Managed Optical Bypass Switch、Marvell Industrial Alert System | 22 封 / 0 次打开 / 0 回｜首封 2025-01-20 → 末封 2026-09-11（22 去 / 0 来） | `gmail_digest` |
+| 2026-10-21 | 用户表 | Simon | 工业FS MC 机架 SFP VC | 表内备注 | `用户表` |
+| 2026-09-11 | 去 | A 箱（Alan） | 16 Port Industrial PoE Switch | 本日去信真实主题（邮箱索引 a88cd24d8b5f55e1；信稿开头句引用此封；此前稿内写的「Managed Optical Bypass Switch」是线程列表首题，不是本封） | `a88cd24d8b5f55e1` |
+
+## 基本事实（事实/推断/假设分层）
+
+| 项 | 内容 | 层级 |
+|---|---|---|
+| 名称 | kbcnetworks.com（取自域名，公司全名待核） | 推断 |
+| 国家 | 美国 | 事实（用户表）|
+| 网站/域名 | kbcnetworks.com | 事实（用户表 URL/邮箱域名） |
+| 类型 | 工业传输方案品牌商（自有标加固交换机线，OEM 采购） | 推断（据兴趣/备注关键词） |
+| 联系人 | 优质公司 / Steve Kuntz / President / Craig Kennedy / Technical Solutions Architec / David Schulman / VP, BD | 事实（用户表） |
+| 来源（From） | 谷歌 | 事实（用户表） |
+| 兴趣（Interested in） | 工业FS MC 机架 SFP VC | 事实（用户表） |
+| 用户备注（Remark） | — | 事实（用户表） |
+| 用户 AI 评估 | AI 20% B | 事实（用户表 AI评估结果/CALUDE评估结果列） |
+| 所在清单 | A优质名单(US)、AI评估(US) | 事实（文件路径） |
+| 在卖/在用品牌（备注所见） | FS | 事实（用户备注）/ 推断 |
+
+### 用户 AI / Claude 评估原文
+
+- **AI**（AI客户评估_US.xlsx）：
+  > 20% B
+  > 美国安防传输设备品牌商，产品线包含工业交换机、MC、机架、SFP、VC，自有品牌，服务安防/交通行业
+  > 长期推送工业级PoE交换机，强调CCTV/交通场景适配+ERPS环网
+  > 工业级PoE交换机、ERPS环网交换机
+  > 安防传输为核心业务，工业交换机为重要产品线；自有品牌体系较成熟，替换难度中等
+
+## 客户调研（网页核实 · 引文 + URL + 日期）
+
+- **状态：已调研（2026-10-21）**　网站状态：在线（kbcnetworks.com，快照 2026-10-21）
+- **是谁**：美国/英国 KBC Networks（工业加固电源与传输方案制造商：无线以太网系统、移动监控、ThruLink 硬件 VPN、加固工业网络交换机、eCopper 同轴/UTP IP 传输、电源；表内「工业 FS / MC / 机架 / SFP / VC」「优质公司」；KP Steve Kuntz（President，skuntz@）、Craig Kennedy（Technical Solutions Architect）、David Schulman（VP, BD））；群发 10 次无回复。
+- **类型**：工业传输方案品牌商（自有标加固交换机线，OEM 采购）
+- **【官网快照】官网标题：KBC Networks - KBC Networks；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 光纤 / 媒体转换 / 网络交换 / PoE**
+  > KBC Networks are a global manufacturer of industrial rugged power and transmission solutions.
+  > 来源：https://kbcnetworks.com/（抓取 2026-10-21）
+- **【用户表】表内兴趣/备注**
+  > 工业FS MC 机架 SFP VC
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【官网快照】KBC Networks：工业加固电源与传输方案制造商**
+  > KBC Networks are a global manufacturer of industrial rugged power and transmission solutions.
+  > 来源：https://kbcnetworks.com/（抓取 2026-10-21）
+- **【用户表】工业 FS MC 机架 SFP VC；优质公司**
+  > 工业FS MC 机架 SFP VC；优质公司
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：David Schulman（）info@kbcnetworks.com 〔用户表〕
+- **KP**：Steve Kuntz（）skuntz@kbcnetworks.com 〔用户表〕
+- **KP**：Craig Kennedy（） 〔用户表〕
+- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
+
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+
+| 公司事实 | 内容 |
+|---|---|
+| 总部/地址 | 美国 |
+| 其他 | 官网 kbcnetworks.com，语言 en-gb，快照状态 ok；角色判定来源：官网文案 |
+
+- **业务线**：无线以太网 / 移动监控 / 硬件 VPN；加固工业交换机 / MC / 电源（自有品牌）
+- **触达通道（公开）**：role: 工业传输方案品牌商（自有标加固交换机线，OEM 采购）；region: 美国；contact: info@kbcnetworks.com、skuntz@kbcnetworks.com
+- **近况信号**：
+  - 官网：KBC Networks are a global manufacturer of industrial rugged power and transmission solutions；栏目 Rugged Industrial Network Switches / eCopper / ThruLink / Power Solutions
+  - KP：Steve Kuntz / President；Craig Kennedy / Technical Solutions Architect；David Schulman / VP, BD（表内）
+- **风险/边界**：成熟品牌（移动监控/ITS/公用事业客户多）：导入需工程验证；公用事业/交通项目按单守界；机架 / SFP / VC 为其需求一部分：Saga 价目无（Q-32）；10 次无回复 → 改向 VP BD 具名首触
+- **Saga 对位结论**：P1 STI-288GPM（30% 档）——自有标加固工业交换机线靠 ODM → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）、非管理 STI-288GP 作二供；MC 位 STI-110GE；机架/SFP/VC Saga 不供（Q-32）
+- **邮件切入句（英文）**：David, for the rugged industrial switch line in the KBC range, we can be a second ODM source (DIN-rail 8-PoE + 2 SFP managed on Marvell L2+, or unmanaged, −40~75 °C) from small lots with FCC/CE/RoHS reports — which model would you consider dual-sourcing first?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://kbcnetworks.com/　语言：en-gb　站点地图 URL 数：0
+- **标题**：KBC Networks - KBC Networks - Home
+- **描述**：KBC Networks are a global manufacturer of industrial rugged power and transmission solutions.
+- **首页栏目**：KBC Networks / Wireless Ethernet Systems / Mobile Surveillance System / ThruLink™ Hardware VPN / Rugged Industrial Network Switches / eCopper™ IP over Coax & UTP / Power Solutions / Media Converters
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 60、poe 41、fiber 37、wireless 29、ethernet 23、media converter 20、sfp 19、surveillance 16、industrial 13、fibre 4、camera 4、gigabit 2
+- **站内型号串**（正则抽取，含非交换机）：RS485, WES5-KT
+- **站内公开邮箱**：apacsales@kbcnetworks.com, chinasales@kbcnetworks.com, emeasales@kbcnetworks.com, info@kbcnetworks.com, latamsales@kbcnetworks.com, na-sales@kbcnetworks.com
+- **站内公开电话**：+1 888 366 4276, +1 949 503 3470, +44 (0)1553600001, +52 33 3148 3286, +86 25 5882 1656
+- **社媒**：https://www.facebook.com/kbcnetworks, https://www.instagram.com/kbcnetworks/, https://www.linkedin.com/company/kbc-networks, https://www.twitter.com/kbcnetworks, https://www.youtube.com/kbcnetworks
+- **已抓子页**：[KBC Networks - NETWORK SWITCHES](https://kbcnetworks.com/products/column-1/network-switches)；[KBC Networks - NETWORK SWITCHES](https://kbcnetworks.com/products/column-1/network-switches)；[KBC Networks - FIBER SOLUTIONS](https://kbcnetworks.com/products/column-2/fiber-solutions)；[KBC Networks - FIBER SOLUTIONS](https://kbcnetworks.com/products/column-2/fiber-solutions)；[KBC Networks - WIRELESS ETHERNET SYSTEMS](https://kbcnetworks.com/products/column-2/wireless-ethernet-systems)
+- 首页正文摘录：PRODUCTS NETWORK SWITCHES THRULINK HARDWARE VPN ECOPPER SFP MODULES MEDIA CONVERTERS WIRELESS ETHERNET SYSTEMS MOBILE SURVEILLANCE POWER SOLUTIONS FIBER SOLUTIONS KBC NEXUS™ NEW Secure Infrastructure Networking and Management Platform Find out more NEW NEW IP and PoE++ over Coax with up to 90W PoE and over 1km distance Find out more SOLUTIONS REFERENCES CASE STUDIES/APPLICATIONS BROCHURES & INFOSHEETS SUPPORT SATISFA
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 13、PoE 41 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-541.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
+
+## 在卖/在用品牌 → Saga 对位
+
+| 备注所见品牌 | 含义 | Saga 切入 |
+|---|---|---|
+| FS | 台系/欧美/品牌工业或商用网络品牌 | 按「同口数同功能的 Marvell 方案、价低一档、中性包装」做对位（不贬低原品牌） |
+
+## 历史跟进记录（原表照录）
+
+合并自 1 张跟进表，共 10 条（原值照录，日期已按年份递推补全）：
+
+| 日期 | 原始时间 | 我方推送内容 | 客户回复 | 平台 | 备注 | 来源表 |
+|---|---|---|---|---|---|---|
+| 2025-02-25 | 2025.2.25 | 22迷你 |  | E |  | US.xlsx#92 |
+| 2025-04-12 | 412 | bypass |  | A |  | US.xlsx#92 |
+| 2025-05-13 | 513 | 28bt |  | A |  | US.xlsx#92 |
+| 2025-06-10 | 610 | alarm |  | A |  | US.xlsx#92 |
+| 2025-07-12 | 712 | 16电 |  | A |  | US.xlsx#92 |
+| 2025-10-01 | 101 | dac |  | A |  | US.xlsx#92 |
+| 2025-10-23 | 1023 | list |  | A |  | US.xlsx#92 |
+| ? | 1.21 | 4 24 |  | Email |  | US.xlsx#92 |
+| ? | 87 | 48口 |  | A |  | US.xlsx#92 |
+| ? | 95 | 2 16 |  | A |  | US.xlsx#92 |
+
+## 邮箱往来（S 邮箱 · 自动汇总）
+
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：22 封（去 22 / 来 0）　|　**期间**：2025-01-20 → 2026-09-11　|　**最后去信**：2026-09-11
+- **对方邮箱**：ckennedy@kbcnetworks.com、dschulman@kbcnetworks.com、dthomson@kbcnetworks.com、info@kbcnetworks.com、skuntz@kbcnetworks.com
+- 对方从未回信（全部为我方去信）
+
+| 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
+|---|---|---|---|---|---|
+| 16 Port Industrial PoE Switch | 2026-09-11 | 2026-09-11 | 0 | 1 | 1 |
+| 24 Port PoE Managed Switch | 2026-08-14 | 2026-08-14 | 0 | 1 | 1 |
+| Saga Q3 Product Links | 2026-07-17 | 2026-07-17 | 0 | 1 | 2 |
+| Firmware 7.5 L2+ Feature Update | 2026-06-24 | 2026-06-24 | 0 | 1 | 2 |
+| 10G L3 Managed Switch | 2026-05-27 | 2026-05-27 | 0 | 1 | 1 |
+| 10G Enterprise SFP Switch | 2026-04-28 | 2026-04-28 | 0 | 1 | 1 |
+| Marvell Managed Commercial Switches | 2026-04-02 | 2026-04-02 | 0 | 1 | 1 |
+| Updated Ethernet Switches Links | 2026-03-13 | 2026-03-13 | 0 | 1 | 1 |
+| Managed Optical Bypass Switch | 2026-02-10 | 2026-02-10 | 0 | 1 | 1 |
+| OEM Core Switching Solution | 2026-01-15 | 2026-01-15 | 0 | 1 | 1 |
+| Marvell Industrial Alert System | 2025-12-25 | 2025-12-25 | 0 | 1 | 1 |
+| Optional Marvell Chipset Solutions | 2025-12-08 | 2025-12-08 | 0 | 1 | 1 |
+| …共 22 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+
+## 动态监控（自动 · 网站 / 社媒 / 代码库）
+
+- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-25T07:41:18Z
+- **最近变化摘要**：2026-10-25 news_2：内容变化：+4 −4 行
+- 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-541/`；本节随档案重渲染刷新，实时看日志。
+
+| 源 | 类型 | 状态 | 最近变化 | 摘要 |
+|---|---|---|---|---|
+| [home](https://kbcnetworks.com/) | html | HTTP 200 | 2026-10-25T07:41:18Z | 12713 字符；首行：KBC Networks - KBC Networks - Home |
+| [news_1](https://kbcnetworks.com/news-events/blog) | html | HTTP 200 | 2026-10-25T07:41:18Z | 16724 字符；首行：KBC Networks - BLOG |
+| [news_2](https://kbcnetworks.com/news-events/events) | html | HTTP 200 | 2026-10-25T07:41:18Z | 9339 字符；首行：KBC Networks - EVENTS |
+
+- **人工定期看（登录墙，不自动抓）**：Facebook: https://www.facebook.com/kbcnetworks；X/Twitter: https://www.twitter.com/kbcnetworks；LinkedIn: https://www.linkedin.com/company/kbc-networks；Instagram: https://www.instagram.com/kbcnetworks/
+
+## 联系方式（已有 · 原值照录）
+
+- 邮箱：`info@kbcnetworks.com`〔企业邮箱；来源：用户表原值〕
+- 邮箱：`skuntz@kbcnetworks.com`〔企业邮箱；来源：用户表原值〕
+- 邮箱：`ckennedy@kbcnetworks.com`〔企业邮箱；来源：用户表原值〕
+- 邮箱：`dschulman@kbcnetworks.com`〔企业邮箱；来源：用户表原值〕
+- 联系人（原值）：优质公司
+- 联系人（原值）：Steve Kuntz / President / Craig Kennedy / Technical Solutions Architec / David Schulman / VP, BD
+- 网站/域名：kbcnetworks.com
+- **邮箱纪律**：只用表内原值，不猜测、不拼接；发不过去的地址标注后保留不删。
+
+## 关键人（KP）与触达通道
+
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| David Schulman | — | info@kbcnetworks.com | 调研核实（公开页） | 用户表 |
+| Steve Kuntz | — | skuntz@kbcnetworks.com | 调研核实（公开页） | 用户表 |
+| Craig Kennedy | — | — | 调研核实（公开页） | 用户表 |
+
+- **通道建议**：邮件已推送 10 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
+
+## 来源与归并（不漏 · 原始行定位）
+
+本客户由 **2 行**原始记录归并而成；归并键：`d:kbcnetworks.com`。
+
+| 文件#表:行 | No. | Company（原值） | Country | Person | From | Interested in | Contact | Remark | 跟进表 |
+|---|---|---|---|---|---|---|---|---|---|
+| A/DONE/US.xlsx#总表:93 | 92 | https://www.kbcnetworks.com/ | 美国 | 优质公司 | 谷歌 | 工业FS MC 机架 SFP VC | info@kbcnetworks.com |  | 10 条 |
+| AI客户评估/AI客户评估_US.xlsx#总表:23 | 22 | https://www.kbcnetworks.com/ | 美国 | Steve Kuntz<br>President<br><br>Craig Kennedy<br>Technical Solutions Architec<br><br>David Schulman<br>VP, BD | 谷歌 | 工业FS MC 机架 SFP VC | skuntz@kbcnetworks.com<br>ckennedy@kbcnetworks.com<br>dschulman@kbcnetworks.com |  | — |
+
+## 产品决策（Saga · 单一决策口径）
+
+| 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
+|---|---|---|---|---|
+| **P1** | STI-288GPM | 深挖对位：自有标加固工业交换机线靠 ODM → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）、非管理 STI-288GP 作二供；MC 位 STI-110GE；机架/SFP/VC Saga 不供（Q-32） | $85.5 USD EXW（30% 档，SmartByte LT-IS3210GP-2GX8T 440 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（工业传输方案品牌商（自有标加固交换机线，OEM 采购）） |
+| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $137.5 USD EXW（㉕ 封顶：30% 档 $151.6 高于 2026-06 Saga 列表价 $137.5，按列表价；SmartByte LT-IS6310GP-2GX8GT 780 CNY，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $180 USD EXW（㉕ ② 群发现价（群发价台账），30% 档公式为 $196.3——同一客户随时可能收到 Alan 的群发，信稿不高于群发价；汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+
+- **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
+
+## 跟进建议
+
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288GPM），备选型不进首触。
+
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-288GPM 一条规格链接；只问一个问题。
+- **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
+- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；30% 档报价。
+- 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
+- **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
+
+## SWOT
+
+- **S**：自有品牌/贴牌需求 = 现成 OEM 客户；北美主攻区，复购与口碑可外溢
+- **W**：已推送 10 次无回复，邮件通道疲劳
+- **O**：P1 STI-288GPM 按 30% 档报价，做现供应商的第二货源；贴牌 + 定制 UI/型号 → 30% 档与长期绑定
+- **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
+
+## 触达与风险红线
+
+1. 包装、外观、说明书全部中性，不出现「Made in China」，贴客户自己的型号。
+2. 邮件只用表内原值地址；「发不过去」的地址保留并标注，不猜新地址。
+3. 不承诺 UL、EN50155、IP67、云管理；PoE 功率与工业温宽以实测为准。
+4. 乌克兰/军工/公共部门/轨道/生命安全场景守界；巨头分销与品牌厂商不投入。
+5. 同一客户在多张表出现时以本档为唯一入口，避免多人重复触达。
+
+## Qualification 清单
+
+| 门槛 | 状态 |
+|---|---|
+| 需求面成立（在卖/在用交换机或 PoE） | ✅ |
+| 决策人识别 | ✅ |
+| 触达通道 | ✅ 企业邮箱 |
+| 现用/在卖交换品牌 | ✅ FS |
+| 采购量/预算 | ❓ 未确认 |
+| 商业资格结论 | **技术上合格 / 商业上未合格（待实质回复）→ 慢慢跟** |
+
+## Unknowns（待问清单 · 跟进后逐项消除）
+
+- [ ] 年走量与现供应商
+
+## 英文跟进邮件（样板 · 可直接发送）
+
+**主题**：The rugged switch line in the KBC range - a second ODM source, FCC/CE/RoHS reports included
+
+```text
+Hi David,
+
+Over the past months you had a few product mails from us - most recently "16 Port Industrial PoE Switch" on 11 September 2026 - and there was no reason to answer a mass mail. This one is specific.
+
+For the rugged industrial switch line in the KBC range, a second ODM source from small lots, -40 to 75 C, FCC/CE/RoHS test reports supplied with the first lot: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, L2 managed, Marvell-based - model STI-288GPM - $85.5 USD EXW under the KBC label (MOQ 1, 15-day validity); the same footprint unmanaged - STI-288GP - $62.2; Gigabit media converter, 1 x RJ45 + 1 x SFP - STI-110GE - $26.5. Racks, SFPs and video converters stay with your current sources - we do not carry them.
+
+One question: which model would you consider dual-sourcing first - the managed 8-port or the unmanaged?
+
+Best regards,
+Alan
+Saga Telecom - sagatele.com
+```
+
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
+
+## 新跟进记录（仓库外发出后补）
+
+| 日期 | 渠道 | 对象 | 我方动作 | 对方回应 | 下一步 | 下次动作日期 |
+|---|---|---|---|---|---|---|
+|  |  |  |  |  |  |  |
+
+> 历史跟进见上文「历史跟进记录（原表照录）」；新动作由用户在仓库外执行后告知日期与渠道，写入 research JSON 的 notes 后重渲染。
+
+## 下次复核
+
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+
+## 变更日志
+
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 38）
+
+---
+
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

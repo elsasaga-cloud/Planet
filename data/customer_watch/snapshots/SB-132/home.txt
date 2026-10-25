@@ -1,98 +1,248 @@
-# SB-132 korekonect.com · home · https://www.korekonect.com/ · fetched 2026-10-25T07:41:18Z · HTTP 200
-kore konect
-HOME
-ABOUT US
-PRODUCTS
-Cabinets
-Free Standing Cabinets
-Wall Mounted Cabinets
-Data Center
-Outdoor Cabinets/Enclosures
-Accessories
-Intelligent Cabinet Lock
-Copper Solution
-Cat8 Cabling Solution
-Cat7 Cabling Solution
-Copper Cable
-Patch Panels
-Patch Cords
-Keystone Jacks
-Faceplate & Modules
-Cable Managers
-Accessories
-Tools
-Fiber Optic Solution
-Fiber Cable
-Patch Panels
-Patch Cords
-Pigtails
-Adapters
-Termination Box
-Splice Enclosures
-Accessories
-Switches
-Ethernet Switches
-POE Switches
-Industrial POE Switches
-Media Converter
-SFP Modules
-Industrial Power Supply
-Accessories
-UPS
-Online UPS
-Online UPS-Three phase
-Modular UPS
-Control Cables
-BMS Cable
-BUS Cable
-Industrial Cable
-Instrumentation Cable
-DOWNLOAD BROCHURE
-OUR DISTRIBUTORS
-CONTACT US
-Data Center Solution
-Racks and Cabinets
-Copper Solution
-Fiber Optic Solution
-Previous
-Next
-About Us
-We've been building our experience
-Kore Konect specializes in the innovative line of Structured Cabling systems (Copper & Fiber-optic solutions) as well as the Server Cabinet, Network Cabinet, UPS and Control Cables catering to a wide range of telecommunication service. After years of marketing development and testing, we has become a brand that customers count on the most for the best product performance and expert care and advice.
-Read More About
-Categories
-Cabinets
-Kore Konect manufactures all types of Wallmout, Floor Standing Network & Server cabinet, Datacenter Solutions to provide the perfect solution to keep your devices or equipment organized and protected. The size covers a range of 7U to 47U offering the best option for device protection and proper cabling termination. (Pic of cabinet).
-See Service
-Copper System
-Kore Konect meet all your Copper connectivity needs. copper is used for a higher performance of speed transmit, connection, as well as reliability. Cat3/Cat6/Cat6A/Cat7/Cat8 for Ethernet, we provide dependable high-performance cabling infrastructure that will last long into the future. (Pic of Copper product).
-See Service
-Fiber Optic System
-Kore Konect provides various Fiber optic solutions like Single Mode, Multi-Mode & FTTH Cabling products to make fiber cable management easy and efficient. (Pic of Fiber Product).
-See Service
-Projects
-We’ve done lot’s of work, Let’s Check some from here
-PRODUCTS
-CABINETS
-kore Konect company is represented by multiple branches all around the world. We implement different projects, innovative technologies and use an individual approach for every client!
-Free Standing Cabinets
-Wall Type Cabinets with its high performance and good qualityo Cabinetss are with 600mm Width and 450mm Depth in physical measurements,
-Wall Mounted Cabinets
-Meat was likeness said. Fruit brought appear meat they're tree upon together.
-Outdoor Cabinets
-Outdoor Series Wall Type rack cabinets are designed for wall assembled outdoor applications. Energy Distribution Systems Security Systems IT Solutions,
-I selected kore konect among other companies because of good recommendations I’ve heard. Their reputation is on the highest level and their portfolio speaks for itself. Kore Konect is a team of like-minded people who indeed love their job. I am completely satisfied with my project.
--Supervisor
-I selected kore konect among other companies because of good recommendations I’ve heard. Their reputation is on the highest level and their portfolio speaks for itself. korekonect is a team of like-minded people who indeed love their job. I am completely satisfied with my project.
--Manager
-Kore Konect specializes in the innovative line of structured cabling systems (Copper & fiber-optic solutions) as well as the server cabinet, network cabinet, and other Racks & Cabinets catering to a wide range of telecommunication service.
-Get In Touch
-BARTYCKA 22B M21A 00-716 WARSZAWA, POLAND.
-info@korekonect.com
-Useful Link
-About Us
-Contact Us
-Privacy Policy
-Terms & Condition
-Our Team
-© Kore Konect. All Rights Reserved.
+# SB-132 F.A.S.T · home · https://www.fasttr.com/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+Fasttr – Fabrika Aygıtları Sistem Teknolojisi
+support@fasttr.com
++90 (216) 574 94 34
+Anasayfa
+Hakkımızda
+Ürünlerimiz
+AC MOTOR SÜRÜCÜLERİ
+SL3 Serisi
+SC3 Serisi
+SA3 Serisi
+SE3 Serisi
+SS2 Serisi
+SFG Serisi
+SF3 Serisi
+AC SERVO MOTOR VE SÜRÜCÜLERİ
+SDC-M Serisi – Incremental
+SDC-M Serisi – Absolute
+SDC-E Serisi – Incremental
+SDC-E Serisi – Absolute
+SDE-P Serisi – Incremental
+SDE-P Serisi – Absolute
+SDP-E Serisi – Incremental
+SDP-E Serisi – Absolute
+SDP-A Serisi - 3 Faz 380V
+SDP-E-P Serisi – 3 Faz 380V
+SERVO MOTOR REDÜKTÖRLERİ
+FB Serisi
+HMI DOKUNMATİK OPERATÖR PANELLERİ
+RTP Serisi
+SPM2 Serisi
+FP2 Serisi - Basic
+FP4 Serisi - Advanced
+PLC PROGRAMLANABİLİR LOJİK KONTROLÖR
+EC201S Serisi
+FL004 Serisi
+FL055 DI/DO Serisi
+PAC PROGRAMLANABİLİR OTOMASYON KONTROLÖR
+MC500 Serisi
+EC302 & MC600 Serisi
+SICAKLIK VE PROSES KONTROL
+AI Serisi
+CNC KONTROL ÜNİTELERİ
+Power D Serisi
+Power I Serisi
+Power J Plus Serisi
+Power L Serisi
+GÜÇ KAYNAKLARI
+KAPALI TİP GÜÇ KAYNAKLARI
+Kapalı Tip LRS Serisi
+Kapalı Tip RS ve RSP Serileri
+Yüksek Güçler (Tek Faz 220 VAC)
+Yüksek Güçler (3 Faz VAC Beslemeli)
+İki Çıkışlı D-RD Serileri
+Üç Çıkışlı T–RT Serileri
+Dört Çıkışlı RQ-QP Serileri
+RAY MONTAJ GÜÇ KAYNAKLARI
+Ray Montaj MDR Serisi
+Ray Montaj HDR Serisi
+Ray Montaj DR-EDR-NDR Serileri
+Ray Montaj SDR Serisi
+Ray Montaj 3 Faz 380VAC
+UPS FONKSİYONLU GÜÇ KAYNAKLARI
+UPS Fonksiyonlu Güç Kaynakları
+AÇIK TİP GÜÇ KAYNAKLARI
+Standart ve Medikal Açık Tip Güç Kaynakları
+DC-DC ÇEVİRİCİLER
+Panel Montaj DC-DC Çeviriciler
+Ray Montaj DC-DC Çeviriciler
+SIP ve DIP Modül Tip DC-DC Çeviriciler
+DC-AC İNVERTERLER
+DC-AC Tam Sinüs İnverterler
+AKÜ ŞARJ CİHAZLARI
+Masa Üstü Güç Kaynakları ve Akü Şarj Cihazları 1
+Masa Üstü Güç Kaynakları ve Akü Şarj Cihazları 2
+LED GÜÇ KAYNAKLARI
+APC Serisi LED Güç Kaynakları
+APV Serisi LED Güç Kaynakları
+LPC Serisi LED Güç Kaynakları
+LPV Serisi LED Güç Kaynakları
+LPF Serisi LED Güç Kaynakları
+ELN Serisi LED Güç Kaynakları
+PLD Serisi LED Güç Kaynakları
+PCD Serisi LED Güç Kaynakları
+LCM Serisi LED Güç Kaynakları
+ELG Serisi LED Güç Kaynakları
+HLG Serisi LED Güç Kaynakları
+XLG Serisi LED Güç Kaynakları
+LDD Serisi DC-DC LED Güç Kaynakları
+ALÇAK GERİLİM ŞALT ÜRÜNLERİ
+Otomatik Sigortalar
+Otomatik Sigortalar – RP Serisi MCB – B Eğrisi
+Otomatik Sigortalar – RP Serisi MCB – C Eğrisi
+Kaçak Akım Koruma Şalteri – RPV Serisi RCCB
+Otomatik Sigorta Aksesuarları – RP Serisi
+N Serisi Kontaktörler
+N Serisi Kontaktörler – AC Kontrol
+Kontaktör Aksesuarları – AC Kontrol
+Termik Röleler – AC Kontrol
+P Serisi Kontaktörler
+Kontaktörler – AC Kontrol – P Serisi MS
+Kontaktör Aksesuarları – AC Kontrol – P Serisi MS
+Kompanzasyon Kontaktörleri – AC Kontrol – P Serisi MS
+Termik Röleler – AC Kontrol – P Serisi MS
+Motor Koruma
+Motor Koruma Şalteri – MR Serisi MMS
+Motor Koruma Şalteri Aksesuarları – MR Serisi MMS
+Kompakt Şalterler
+Kompakt Şalterler – BMA2 Serisi MCCB
+Kompakt Şalter Aksesuarları – BMA2 Serisi MCCB
+AC HIZ KONTROL CİHAZLARI
+PAC (AUTOMATION CONTROLLER)
+SICAKLIK VE PROSES KONTROL CİHAZI
+AC SERVO MOTOR VE SÜRÜCÜLER
+CNC KONTROL ÜNİTELERİ
+ALÇAK GERİLİM ŞALT ÜRÜNLERİ
+HMI DOKUNMATİK OPERATÖR PANELLERİ
+GÜÇ
+KAYNAKLARI
+PLC (PROGRAMMABLE LOGIC CONTROLLER)
+SERVO MOTOR REDÜKTÖRLERİ
+Fiyat Listesi
+BAYİ GİRİŞİ
+Haberler
+Forum
+İletişim
+Anasayfa
+Hakkımızda
+Ürünlerimiz
+Fiyat Listesi
+BAYİ GİRİŞİ
+Haberler
+Forum
+İletişim
+Anasayfa admin 2026-03-24T08:+
+Şirket Profili
+Fabrika Aygıtları Sistem Teknolojisi (FAST), 1994 yılında fabrika otomasyonu konusunda hizmet vermek üzere kuruldu. Kuruluş tarihinden itibaren adından söz ettirmeyi başaran firmamız, otomasyon pazarının önde gelen Meanwell, RASCH, Shihlin, Renu ve Texcomputer markalarının distribütörü olarak faaliyet göstermektedir.
+Devamı...
+Ürünlerimiz
+Ürünlerimiz hakkında detaylı bilgi alabilmek için tıklayınız.
+FAST Forum ’a ulaşmak için tıklayınız!
+FAST Eğitim Formu ’na ulaşmak için tıklayınız!
+FAST TV ‘ye ulaşmak için tıklayınız!
+2020 yılı FAST Bayi Toplantısı Gerçekleşti
+FAST, 2020 yılı bayi toplantısında iş ortakları ile bir [...]
+Daha fazla oku
+Konya’da FAST’a Yoğun İlgi!
+Fabrika Ayarları Sistem Teknolojileri A.Ş. (FAST), TÜYAP Konya Fuarcılık [...]
+Daha fazla oku
+FAST İstanbul’da Bayileriyle Bir Araya Geldi
+Fabrika Ayarları Sistem Teknolojileri A.Ş. (FAST), bayi toplantısı 6 [...]
+Daha fazla oku
+Ege’de ‘Değişim’e İlgi Büyüktü…
+Fabrika Aygıtları Sistem Teknolojileri A.Ş. (FAST) olarak Geleceğin Endüstriyel [...]
+Daha fazla oku
+RENU Mühendislik Departmanı Yöneticileri F.A.S.T.’ı Ziyaret Etti
+RENU Elektronik Mühendislik Departmanı yöneticileri firmamız Fabrika Ayarları Sistem [...]
+Daha fazla oku
+Bursa’dan Değişime Tam Destek!
+TÜYAP ev sahipliğinde gerçekleştirilmiş olan TÜYAP Bursa Endüstri Zirvesi: Otomasyon [...]
+Daha fazla oku
+FAST’ta “Değişim Eğitimle Başlıyor!”
+“FAST Teknik Destek” adıyla başlattığımız şirket içi eğitimler sürüyor. [...]
+Daha fazla oku
+FAST TV’de Yüzlerce Video Yayında!
+FAST, müşterilerinin sorunlarına çözüm üretmek ve ürünleri hakkında teknik [...]
+Daha fazla oku
+FAST Forum Yeniden Yayında!
+FAST, çeyrek asırdır fabrika otomasyonu konusunda hizmet veriyor. Kuruluş tarihinden [...]
+Daha fazla oku
+FAST bilgilendirme toplantısı yaptı
+FAST Yıllık Bayi Toplantısı’nda çalışanları ve iş ortaklarıyla 2017 [...]
+Daha fazla oku
+FAST’ta Değişim Başlıyor…
+FAST Yönetim Kurulu Başkanı H. Engin Özen:
+FAST’ta Değişim Başlıyor…
+“Değişim [...]
+Daha fazla oku
+Fabrika Aygıtları Sistem Teknolojisi A.Ş.
+Fast Plaza Küçükbakkalköy Mah.
+Dereyolu Sok. No: 4 - 34750 Ataşehir / İstanbul
+Tel: 0216 574 9434
+Bayi Girişi
+Fiyat Listesi
+Haberler
+İnsan Kaynakları
+KVKK Aydınlatma Metni
+Kurumsal
+Forum
+Ürünlerimiz
+Eğitim Başvuru Formu
+Çalışma Saatleri
+Hafta içi
+-
+Cumartesi
+-
+Facebook Twitter Youtube Instagram Linkedin
+© Copyright 2017. All Rights Reserved. Web Tasarım
+Bu web sitesi deneyiminizi geliştirmek için çerezler kullanmaktadır. Bu konuda iyi olduğunuzu varsayacağız, ancak isterseniz devre dışı bırakabilirsiniz. Çerez Ayarları KABUL ET
+Gizlilik ve Çerez Politikası
+Gizliliğe Genel Bakış
+FABRİKA AYGITLARI SİSTEM TEKNOLOJİSİ A.Ş.
+KİŞİSEL VERİLERİN KORUNMASI KANUNU AYDINLATMA METNİ
+Şirketimizce değerli tüketicilerimize ürün ve hizmetlerimizin en sağlıklı şekilde sunulabilmesi için çeşitli kanallarla temin edilen kişisel verilerin, işlenmesi veya üçüncü kişilere aktarılması
+gerekebilmektedir.
+Şirketimiz, 6698 sayılı Kişisel Verilerin Korunması Kanunu ve kanuna bağlı ikincil düzenlemelere uygun biçimde, özel hayatın gizliliği ve temel hak ve hürriyetlere saygı ilkesi çerçevesinde toplanan kişisel verilere hukuka aykırı olarak erişiminin önlenmesi ve muhafazasının sağlanması amacıyla gerekli tüm teknik ve idari tedbirlerin alınması konusunda azami özen göstermektedir.
+Amacımız, kişisel verilerin toplanma şekilleri, işlenme amaç ve usulleri, verilerin toplanmasının hukuksal nedenleri ve veri sahiplerinin hakları konusunda en açık biçimde sizleri bilgilendirmektir.
+1.KİŞİSEL VERİLERİN KORUNMASI KANUNU (KVKK) NEDİR?
+Kişilerin, özel hayatının gizliliğini sağlayabilmek için üçüncü kişilerin eline geçmesinde sakınca bulunan verilerinin hukuken korunması için, 07.04.2016 tarihli ve 29677 sayılı Resmi Gazete’de yayınlanan 6698 sayılı Kişisel Verilerin Korunması Kanunu yürürlüğe girmiştir. Şirketimiz de tüm kurumlar gibi bu kanuna tabi olup, yürütülen tüm iş süreçlerinde işlenen tüm veriler bu kapsamda değerlendirilerek kişisel veri olarak kabul edilmekte ve yasa gereği koruma altına alınmaktadır.
+2.TANIMLAR
+Kişisel Veri; Kişiyi doğrudan veya dolaylı olarak tanımlamaya veya belirlemeye yarayan her türlü bilgiyi,
+Veri İşleme; Kişisel veriler üzerinde gerçekleştirilen her türlü işlemi,
+Veri Sahibi; Kişisel verinin ait olduğu gerçek kişiyi,
+Veri Sorumlusu; Gerçek kişilerin kişisel verilerini toplayan, işleyen ve KVKK’na göre bir takım yükümlülüklerle donatılmış gerçek veya tüzel kişiyi (Fabrika Aygıtları Sistem Teknolojisi A. Ş.),
+İfade eder.
+3.VERİ SORUMLUSUNA İLİŞKİN BİLGİLER
+KVKK uyarınca İstanbul Ticaret Sicil Müdürlüğü’nde 358519 sicil numarasıyla kayıtlı, “Küçükbakkalköy mahallesi Dereyolu Sokak No: 4 Ataşehir /İstanbul” adresinde mukim şirketimiz Fabrika Aygıtları Sistem Teknolojisi A. Ş.),Veri Sorumlusudur.
+4.KİŞİSEL VERİLERİN TOPLANMASI VE HUKUKİ SEBEP
+Fabrika Aygıtları Sistem Teknolojisi A. Ş. , tüketicilerden, müşterilerden, tedarikçilerden, çalışanlarından veya çalışan adaylarından her türlü sözlü ve yazılı veya elektronik iletişim kanalları ile
+yasal ve sözleşme yükümlülüklerin yerine getirilmesi için kişisel veri temin edebilmektedir.
+5.KİŞİSEL VERİLERİN HANGİ AMAÇLA İŞLENEBİLECEĞİ
+Fabrika Aygıtları Sistem Teknolojisi A. Ş. , bu kişisel verileri, ürün ve hizmetlerin yasal çerçevede sunulabilmesi, çalışanlarla ilgili yasal yükümlülüklerin yerine getirilmesi, ticari ilişkilerin yürütülmesi, sözleşmelerden kaynaklanan yükümlülüklerin ifası, müşteri memnuniyeti ve tüketici şikayetlerinin giderilmesi, vergisel yükümlülüklerin yerine getirilmesi, muhasebe kayıtlarının tutulması, hizmet kalitesinin arttırılması, veri sahipleri ile iletişime geçilmesi, ürün satışı, pazarlama ve bilgilendirme faaliyetlerinde bulunulması, müşteri edinimi, risk analizi, müşteri ve tüketici ihtiyaçlarına yönelik geliştirmeler yapılabilmesi, bülten ve davetiye gönderimi, risk analizi, iç denetim, raporlama, pazar araştırması ve modelleme çalışmalarının yürütülmesi amaçları kapsamında işleyebilmektedir.
+6.KİŞİSEL VERİLERİN AKTARILMASI
+Kişisel veriler, yasal olarak aktarılması gereken resmi makamlara, hukuki zorunluluklar nedeniyle ve yasal sınırlamalar çerçevesinde bağımsız denetim şirketlerine, Finansal Kiralama, Faktöring ve Finansman Şirketleri Kanunu ve diğer mevzuat hükümleri uyarınca bilgi aktarımına izin verilen kişi ve kuruluşlara, Türkiye Cumhuriyet Merkez Bankası, Kredi Kayıt Bürosu, Finansal Kurumlar Birliği, Şirketimiz yurt içi – yurt dışı iştiraklerine/bağlı ortaklıklarına, hizmet alınan ve verilen yurt içi-yurt dışı kuruluş ve bankalara, Fabrika Aygıtları Sistem Teknolojisi A. Ş. tarafından aktarılabilecektir.
+7.KVKK KAPSAMINDA VERİ SAHİBİNİN SAHİP OLDUĞU HAKLAR
+KVKK uyarınca Fabrika Aygıtları Sistem Teknolojisi A. Ş. ‘ye başvurarak kişisel verileriniz hakkında aşağıdaki haklarınızı kullanabilirsiniz:
+Kişisel veri işlenip işlenmediğini öğrenme,
+Kişisel verileri işlenmişse buna ilişkin bilgi talep etme,
+Kişisel verilerin işlenme amacını ve bunların amacına uygun kullanılıp kullanılmadığını öğrenme,
+Yurt içinde veya yurt dışında kişisel verilerin aktarıldığı üçüncü kişileri bilme,
+Kişisel verilerin eksik veya yanlış işlenmiş olması hâlinde bunların düzeltilmesini isteme,
+Kişisel verilerin silinmesini veya yok edilmesini isteme,
+Kişisel verilerin aktarıldığı üçüncü kişilere bildirilmesini isteme,
+İşlenen verilerin münhasıran otomatik sistemler vasıtasıyla analiz edilmesi suretiyle kişinin kendisi aleyhine bir sonucun ortaya çıkmasına itiraz etme,
+Kişisel verilerin kanuna aykırı olarak işlenmesi sebebiyle zarara uğraması hâlinde zararın giderilmesini talep etme. Bu kapsamda Fabrika Aygıtları Sistem Teknolojisi A. Ş. ‘ye iletilen talepler en geç otuz gün içinde ücretsiz olarak sonuçlandırılacaktır.
+Yukarıda belirtilen haklarınızı kullanmak için kaleme aldığınız ıslak imzalı dilekçenizi;
+Fabrika Aygıtları Sistem Teknolojisi A. Ş. / Küçükbakkalköy mahallesi Dereyolu sokak No: 4 Ataşehir/İstanbul” adresine noter kanalı ile iletebilir veya kimliğiniz ile birlikte şahsen teslim
+edebilir,
+Şirket nezdinde kayıtlı support@fasttr.com e-posta adresimize mail atabilir,
+Ya da support@fasttr.com adresine güvenli elektronik imzalı olarak iletebilirsiniz.
+FABRİKA AYGITLARI SİSTEM TEKNOLOJİSİ A.Ş. (Veri Sorumlusu)
+Küçükbakkalköy mahallesi Dereyolu sokak No: 4 Ataşehir/İstanbul
+Gizliliğe Genel Bakış
+FABRİKA AYGITLARI SİSTEM TEKNOLOJİSİ A.Ş.
+KİŞİSEL VERİLERİN KORUNMASI KANUNU AYDINLATMA METNİ
+Şirketimizce değerli tüketicilerimize ürün ve hizmetlerimizin en sağlıklı şekilde sunulabilmesi için çeşitli kanallarla temin edilen kişisel verilerin, işlenmesi veya üçüncü kişilere aktarılması
+gerekebilmektedir.
+Şirketimiz, 6698 sayılı Kişisel Verilerin Korunması Ka

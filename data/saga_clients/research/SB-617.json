@@ -2,56 +2,50 @@
  "code": "SB-617",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "在线（optokon.pl，快照 2026-10-21）",
- "summary": "波兰 Optokon（捷克 Optokon 集团波兰公司，光纤制造与配件：光缆、连接器、跳线、测试仪；自有 LMSW 系列交换机（LMSW-E33 / LMSW-83M，加固交换机栏目）；首页栏目含「Urządzenia i sprzęt militarny（军用设备）」；表内「SFP switch 自己的牌子，大量周边产品 / 工业 FS SFP MC，CTC Union 的 / CWDM」；KP Pytlak（pytlak@optokon.com）、Erik Mikus（Director of Technical）、Abiel Abuy（Procurement & Logistics））；群发 16 次无回复。",
- "type": "光纤制造集团（自有 LMSW 标交换机，CTC Union 代工；军用线守界）",
+ "website_status": "在线（ipc2u.com，快照 2026-10-21）",
+ "summary": "德国 IPC2U（工业计算机系统国际供应商与制造商，20 年以上、EMEA 14 国办事处；站内 Moxa / Advantech，DIN 导轨 PC 配置器；表内「MaiWe」；KP Arthur Barasch（Managing Director，barasch@ipc2u.de））；表内 1 次跟进无回复。",
+ "type": "工业计算机供应商/制造商（德国，EMEA 多国；在售 Maiwe）",
  "size": "",
  "brands_seen": [
-  "Cisco",
-  "CTC Union"
+  "Moxa",
+  "Advantech",
+  "Maiwe"
  ],
  "evidence": [
   {
    "kind": "官网快照",
-   "claim": "官网标题：Optokon Zakład Światłowodowy - światłowody, kable światłowodowe i akcesoria.；品类词 电信 / FTTH / ISP 设备 / 光纤 / 媒体转换 / 网络交换 / PoE",
-   "quote": "W naszej ofercie znajdą Państwo wszystko do światłowodów: kable światłowodowe, złącza, patchcordy, adaptery, tłumiki, sprzęgacze, przełącznice, mierniki, reflektometry i wiele innych niezbędnych akcesoriów.",
-   "url": "https://www.optokon.pl/",
+   "claim": "官网标题：IPC2U Worldwide | Professional solutions for Industrial Automation；品类词 工业自动化 / OT 网络",
+   "quote": "IPC2U is an international supplier and manufacturer of industrial computer systems with more than 20 years of experience and is represented in more than 14 countries in the EMEA space with offices, qualified partners and distributors.",
+   "url": "https://ipc2u.com/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
    "claim": "表内兴趣/备注",
-   "quote": "SFP switch 自己的牌子 大量的周边产品；工业FS SFP MC 周边产品 CTCU的；CWDM Fiber optics",
+   "quote": "MaiWe",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   },
   {
    "kind": "官网快照",
-   "claim": "Optokon 栏目",
-   "quote": "Optokon Zakład Światłowodowy ; Urządzenia i sprzęt militarny ; Kable światłowodowe ; Sprzęt pomiarowy ; Transceiver SFP - 4,25 Gb/s",
-   "url": "https://www.optokon.pl/",
+   "claim": "工业计算机系统国际供应商与制造商",
+   "quote": "IPC2U is an international supplier and manufacturer of industrial computer systems with more than 20 years of experience and is represented in more than 14 countries in the EMEA space",
+   "url": "https://ipc2u.com/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "SFP switch 自己的牌子；CTC Union 的；CWDM",
-   "quote": "SFP switch 自己的牌子 大量的周边产品 / 工业FS SFP MC 周边产品 CTCU的 / CWDM Fiber optics",
+   "claim": "MaiWe",
+   "quote": "MaiWe",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
  "kp": [
   {
-   "name": "Abiel Abuy",
-   "title": "Procurement & Logistics",
-   "email": "pytlak@optokon.com",
-   "phone": "",
-   "source": "用户表"
-  },
-  {
-   "name": "Erik Mikus",
-   "title": "Director of Technical",
-   "email": "",
+   "name": "Arthur Barasch",
+   "title": "Managing Director",
+   "email": "barasch@ipc2u.de",
    "phone": "",
    "source": "用户表"
   }
@@ -64,103 +58,81 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "波兰",
-  "other": "官网 optokon.pl，语言 pl，快照状态 ok；角色判定来源：用户表"
+  "hq": "德国",
+  "other": "官网 ipc2u.com，语言 en，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "光缆 / 光纤配件 / 测试仪制造",
-  "自有标 LMSW 交换机（CTC Union 代工）",
-  "军用设备（守界，不涉）"
+  "工业计算机系统（Box PC / DIN 导轨 PC / 面板 PC）",
+  "工业自动化组件分销（Moxa / Advantech / Maiwe）"
  ],
  "channels": {
-  "role": "光纤制造集团（自有 LMSW 标交换机，CTC Union 代工；军用线守界）",
-  "region": "波兰",
-  "contact": "pytlak@optokon.com、info@optokon.ua"
+  "role": "工业计算机供应商/制造商（德国，EMEA 多国；在售 Maiwe）",
+  "region": "德国",
+  "contact": "sales@ipc2u.com、barasch@ipc2u.de"
  },
  "signals": [
-  "页面 /28-switche、/69-wzmocnione-switche、/urzadzenia/40-switch-lmsw-83m.html、/urzadzenia/46-switch-lmsw-e33.html",
-  "首页：Urządzenia i sprzęt militarny ; Kable światłowodowe ; Sprzęt pomiarowy ; Transceiver SFP",
-  "KP：Erik Mikus / Director of Technical；Abiel Abuy / Procurement & Logistics；Pytlak（表内）"
+  "官网：international supplier and manufacturer of industrial computer systems with more than 20 years of experience … more than 14 countries in the EMEA",
+  "配置器 /catalog/configurator/embedded-box-systems/c-industrial-dinrail-pc/",
+  "KP：Arthur Barasch / Managing Director（表内）"
  ],
  "risks": [
-  "守界：首页含军用设备栏目（Urządzenia i sprzęt militarny）、集团有 .ua 公司——只谈民用 LMSW 商用线，不涉军用/加固",
-  "现代工 CTC Union（台湾）；SFP/CWDM 为其核心，Saga 不供；16 次无回复 → 改向采购负责人具名首触"
+  "现货源 Maiwe（武汉）价格基准低：需以 Marvell 平台/欧洲文档切入",
+  "多国办事处的中型供应商：导入流程较长；1 次跟进无回复"
  ],
  "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 30,
-  "why": "仅民用 LMSW 线：自有标商用管理交换机 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）/ 24 GE + 4×10G STC-424XGGM 贴 LMSW 标；工业位 STI-288GPM；SFP/CWDM Saga 不供（Q-32）；军用加固线不涉"
+  "p1": "STI-288GPM",
+  "tier": 20,
+  "why": "在售 Maiwe 工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-280GE（$46.6）同口型替换，配套 DIN 导轨 PC 项目"
  },
- "email_hook": "Abiel, for the civilian LMSW managed switch range, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-GE + 4×10G, DIN-rail industrial 8-PoE) from small lots in your packaging, CE/RoHS — which LMSW model do you reorder most often?",
- "products_seen": [
-  {
-   "brand": "Optokon（自有标）",
-   "model": "LMSW-E33",
-   "spec": "管理交换机（CTC Union 代工）",
-   "saga": "STC-28DGGPM / STC-424XGGM",
-   "url": "https://www.optokon.pl/urzadzenia/46-switch-lmsw-e33.html",
-   "date": "2026-10-21"
-  },
-  {
-   "brand": "Optokon（自有标）",
-   "model": "LMSW-83M",
-   "spec": "8 口管理交换机",
-   "saga": "STC-28DGGPM",
-   "url": "https://www.optokon.pl/urzadzenia/40-switch-lmsw-83m.html",
-   "date": "2026-10-21"
-  }
- ],
+ "email_hook": "Arthur, next to the Maiwe industrial switches in your automation range, we supply DIN-rail 8-PoE + 2 SFP managed and 8-GE unmanaged units (−40~75 °C, neutral packing, CE/RoHS) from small lots — which Maiwe model do your IPC projects use most, so we quote its equivalent?",
  "mail_review": {
   "binding": {
-   "level": "读而不回（A/S 邮箱 40 封 2024→2026，其中 7 封被打开，0 回；收件 abuy@optokon.com, info@optokon.ua；被打开主题「24 Port Fiber Switch、Industrial PoE Switch」；Elsa 箱：`to:optokon.pl OR to:optokon.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 40 / 来 0）（第 74 批(k)））",
-   "type": "光纤制造集团（自有 LMSW 标交换机，CTC Union 代工；军用线守界）",
-   "sieve": "2（有人在读，无人回）",
-   "stop": "读而不回 = 内容未命中或没有当下需求",
-   "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
-   "lane": "PL 次级重点",
-   "cadence": "一封；回了再说",
-   "evidence": "gmail_digest：out 40，Opened 标签 7（Simon 群发追踪）；用户表：「SFP switch 自己的牌子 大量的周边产品；工业FS SFP MC 周边产品 CTCU的；CWDM Fiber optics」；研究档 risks：守界：首页含军用设备栏目（Urządzenia i sprzęt militarny）、集团有 .ua 公司——只谈民用 LMSW 商用线，不涉军用/加固"
+   "level": "未触达（A/S 邮箱 12 封 2025→2026，无记录打开，0 回；收件 barasch@ipc2u.de, sales@ipc2u.com；主题多为「10G Enterprise SFP Switch、24 Port PoE Managed Switch」；Elsa 箱：`to:ipc2u.com OR to:ipc2u.de` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 12 / 来 0）（第 74 批(j)））",
+   "type": "工业计算机供应商/制造商（德国，EMEA 多国；在售 Maiwe）",
+   "sieve": "1（只收到群发）",
+   "stop": "12 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "DE 主攻（四主）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 12；用户表：「MaiWe」；研究档 risks：现货源 Maiwe（武汉）价格基准低：需以 Marvell 平台/欧洲文档切入"
   },
-  "situation": "波兰 Optokon（捷克 Optokon 集团波兰公司，光纤制造与配件：光缆、连接器、跳线、测试仪；自有 LMSW 系列交换机（LMSW-E33 / LMSW-83M，加固交换机栏目）；首页栏目含「Urządzenia i sprzęt militarny（军用设备）」；表内「SFP switch 自己的牌子，大量周边产品 / 工业 FS SFP MC，CTC Union 的 / CWDM」；KP Pytlak（pytlak@optokon.com）、Erik Mikus（Director of Technical）、Abiel Abuy（Procurement & Logistics））；群发 16 次无回复。",
-  "need": "仅民用 LMSW 线：自有标商用管理交换机 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）/ 24 GE + 4×10G STC-424XGGM 贴 LMSW 标；工业位 STI-288GPM；SFP/CWDM Saga 不供（Q-32）；军用加固线不涉",
-  "breakpoint": "守界：首页含军用设备栏目（Urządzenia i sprzęt militarny）、集团有 .ua 公司——只谈民用 LMSW 商用线，不涉军用/加固",
+  "situation": "德国 IPC2U（工业计算机系统国际供应商与制造商，20 年以上、EMEA 14 国办事处；站内 Moxa / Advantech，DIN 导轨 PC 配置器；表内「MaiWe」；KP Arthur Barasch（Managing Director，barasch@ipc2u.de））；表内 1 次跟进无回复。",
+  "need": "在售 Maiwe 工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-280GE（$46.6）同口型替换，配套 DIN 导轨 PC 项目",
+  "breakpoint": "现货源 Maiwe（武汉）价格基准低：需以 Marvell 平台/欧洲文档切入",
   "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 30,
-   "price": "首触锚价 STC-28DGGPM $87.4 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-09 $65（10G fiber media converter）、2024-08-17 $300（48 port poe managed switch）、2024-12-11 $240（24 Port Fiber Switch）、2025-01-08 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-13 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-21 $280（10G Enterprise SFP Switch）",
-   "why": "仅民用 LMSW 线：自有标商用管理交换机 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）/ 24 GE + 4×10G STC-424XGGM 贴 LMSW 标；工业位 STI-288GPM；SFP/CWDM Saga 不供（Q-32）；军用加固线不涉。已打开的主题（7/40 封有打开记录）：「24 Port Fiber Switch」(2025-01-30)、「10G Enterprise SFP Switch」(2025-10-21)、「Marvell Industrial Alert System」(2025-12-30)、「24 Port PoE Managed Switch」(2026-08-13) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续｜已发资料（勿重发）：Saga Feature List_7.5.x_L2+(2026-06-30)、Product Link_2026Q3(2026-07-10)；7.5 Feature List 与 2026Q3 链接都已给过 → 下一封不能再是资料推送，只能是针对其需求的一句话/一个问题",
+   "p1": "STI-288GPM",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-10-06 $180（24 Port PoE Managed Switch = STC-424XGGPM-280W，Alan 2026-09-21 起的现价轮）——同款信稿只能写 $180；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-28 $280（10G Enterprise SFP Switch）",
+   "why": "在售 Maiwe 工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-280GE（$46.6）同口型替换，配套 DIN 导轨 PC 项目",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "2026-11",
-   "channel": "A 邮箱 → abuy@optokon.com",
-   "action": "短信一问（email_hook）",
-   "one_question": "Abiel, for the civilian LMSW managed switch range, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-GE + 4×10G, DIN-rail industrial 8-PoE) from small lots in your packaging, CE/RoHS — which LMSW model do you reorder most often? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity)."
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Arthur, next to the Maiwe industrial switches in your automation range, we supply DIN-rail 8-PoE + 2 SFP managed and 8-GE unmanaged units (−40~75 °C, neutral packing, CE/RoHS) from small lots — which Maiwe model do your IPC projects use most, so we quote its equivalent?"
   },
   "facts": [
    {
-    "date": "2026-10-02",
+    "date": "2026-10-06",
     "dir": "去",
     "who": "A/S 群发",
-    "quote": "24 Port Fiber Switch、Industrial PoE Switch",
-    "why": "40 封 / 7 次打开 / 0 回｜首封 2024-06-26 → 末封 2026-10-02（40 去 / 0 来）",
+    "quote": "10G Enterprise SFP Switch、24 Port PoE Managed Switch",
+    "why": "12 封 / 0 次打开 / 0 回｜首封 2025-10-28 → 末封 2026-10-06（12 去 / 0 来）",
     "k": "gmail_digest"
    },
    {
     "date": "2026-10-21",
     "dir": "用户表",
     "who": "Simon",
-    "quote": "SFP switch 自己的牌子 大量的周边产品；工业FS SFP MC 周边产品 CTCU的；CWDM Fiber optics",
+    "quote": "MaiWe",
     "why": "表内备注",
     "k": "用户表"
    }
   ],
   "proof_gaps": [],
-  "draft_en": {
-   "subject": "One question — 24 Port Fiber Switch",
-   "body": "Hi Abiel,\n\nWe have sent you a few mails on \"24 Port Fiber Switch\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor the civilian LMSW managed switch range, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-GE + 4×10G, DIN-rail industrial 8-PoE) from small lots in your packaging, CE/RoHS — which LMSW model do you reorder most often?\n\nReference price: 8-PoE + 2 × 1G/2.5G SFP L2+ managed switch (Marvell AC5), 120 W (STC-28DGGPM) $87.4 USD EXW, MOQ 1 pc, 15-day validity, 1-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
-  },
+  "draft_en": null,
   "as_of": "2026-10-24"
  }
 }

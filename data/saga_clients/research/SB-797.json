@@ -2,127 +2,116 @@
  "code": "SB-797",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "快照失败（http_error）",
- "summary": "美国 ITSS Inc（it2ss.com；表内「PoE 工业级交换机」；KP Jehad Alasad（CEO），电话美国 1 817 896 3203 / 中国 151 1888 7211；官网 http_error）；群发 18 次无回复。",
- "type": "IT 方案/贸易商（美国，有国内联系方式）",
+ "website_status": "快照失败（unreachable）",
+ "summary": "新加坡 Excel Engineering (SG) Pte Ltd（表内「MC」；KP David Voo，电话 9697 0621；官网 unreachable）；群发 7 次无回复。",
+ "type": "工程公司（新加坡，MC 需求）",
  "size": "",
  "brands_seen": [],
  "evidence": [
   {
    "kind": "用户表",
    "claim": "表内兴趣/备注",
-   "quote": "PoE 工业级交换机；1 817 896 3203(USA) 151 1888 7211(China)",
+   "quote": "MC；9697 0621 M",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "PoE 工业级交换机",
-   "quote": "PoE 工业级交换机",
+   "claim": "MC",
+   "quote": "MC",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
  "kp": [
   {
-   "name": "Jehad Alasad",
-   "title": "CEO",
-   "email": "jalasad@it2ss.com",
+   "name": "David Voo",
+   "title": "（职务待核）",
+   "email": "sales@excelengineeringsg.net",
    "phone": "",
    "source": "用户表"
   }
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "美国",
-  "other": "官网 it2ss.com，语言 ?，快照状态 http_error；角色判定来源：待核"
+  "hq": "新加坡",
+  "other": "官网 excelengineeringsg.net，语言 ?，快照状态 unreachable；角色判定来源：用户表"
  },
  "business_lines": [
-  "IT 方案 / 贸易（美国）"
+  "工程（新加坡）"
  ],
  "channels": {
-  "role": "IT 方案/贸易商（美国，有国内联系方式）",
-  "region": "美国",
-  "contact": "jalasad@it2ss.com"
+  "role": "工程公司（新加坡，MC 需求）",
+  "region": "新加坡",
+  "contact": "sales@excelengineeringsg.net"
  },
  "signals": [
-  "表内：PoE 工业级交换机；KP Jehad Alasad / CEO；1 817 896 3203(USA) 151 1888 7211(China)",
-  "快照：http_error"
+  "表内：MC；KP David Voo；9697 0621 M",
+  "快照：unreachable"
  ],
  "risks": [
-  "有中国手机号（可直接在国内采购，比价激烈）；官网 http_error；18 次无回复"
+  "非主攻区（T5，新加坡）；官网 unreachable（业务待核）；7 次无回复"
  ],
  "saga_fit": {
-  "p1": "STI-288GPM",
-  "tier": 25,
-  "why": "PoE 工业级交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）、非管理 STI-288GP（$59.8）、4 PoE + 1 SFP STI-154GP（$39.2）"
+  "p1": "STI-110GE",
+  "tier": 20,
+  "why": "MC → 工业千兆 MC STI-110GE（$22.4 @20%）、PoE MC STI-111GP（$27.8）、百兆 STI-110FE（$19.7）"
  },
- "email_hook": "Jehad, for the industrial PoE switches you source, we supply DIN-rail 4-PoE + 1 SFP and 8-PoE + 2 SFP units (managed on Marvell L2+, or unmanaged, −40~75 °C, FCC/CE/RoHS) from single units, EXW USD — which configuration do your current projects need?",
+ "email_hook": "David, for the media converters in your engineering projects, we supply neutral-brand industrial gigabit, PoE and Fast Ethernet MCs (−40~75 °C, CE/RoHS) from single units, EXW USD — which MC configuration does your current project need?",
  "mail_review": {
   "binding": {
-   "level": "未触达（A/S 邮箱 29 封 2024→2026，1 次记录打开，0 回；收件 jalasad@it2ss.com；主题多为「10G Enterprise SFP Switch、Managed Optical Bypass Switch」；Elsa 箱：`to:it2ss.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 29 / 来 0）（第 74 批(h)））",
-   "type": "IT 方案/贸易商（美国，有国内联系方式）",
+   "level": "未触达（A 邮箱 11 封 2025→2026，1 次记录打开，0 回；收件 sales@excelengineeringsg.net；主题多为「Industrial PoE Switch、48 Port PoE Managed Switch」；Elsa 箱：`to:excelengineeringsg.net` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 11 / 来 0）（第 74 批(n)））",
+   "type": "工程公司（新加坡，MC 需求）",
    "sieve": "1~2（1 次打开）",
-   "stop": "29 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
-   "lane": "US 主攻（四主）",
-   "cadence": "一封",
-   "evidence": "gmail_digest：out 29，Opened 标签 1（Simon 群发追踪）；用户表：「PoE 工业级交换机；1 817 896 3203(USA) 151 1888 7211(China)」；研究档 risks：有中国手机号（可直接在国内采购，比价激烈）；官网 http_error；18 次无回复"
+   "stop": "只打通用邮箱，无记录打开",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "新加坡 非主攻",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 11，Opened 标签 1（Simon 群发追踪）；用户表：「MC；9697 0621 M」；研究档 risks：非主攻区（T5，新加坡）；官网 unreachable（业务待核）；7 次无回复"
   },
-  "situation": "美国 ITSS Inc（it2ss.com；表内「PoE 工业级交换机」；KP Jehad Alasad（CEO），电话美国 1 817 896 3203 / 中国 151 1888 7211；官网 http_error）；群发 18 次无回复。",
-  "need": "PoE 工业级交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）、非管理 STI-288GP（$59.8）、4 PoE + 1 SFP STI-154GP（$39.2）",
-  "breakpoint": "有中国手机号（可直接在国内采购，比价激烈）；官网 http_error；18 次无回复",
+  "situation": "新加坡 Excel Engineering (SG) Pte Ltd（表内「MC」；KP David Voo，电话 9697 0621；官网 unreachable）；群发 7 次无回复。",
+  "need": "MC → 工业千兆 MC STI-110GE（$22.4 @20%）、PoE MC STI-111GP（$27.8）、百兆 STI-110FE（$19.7）",
+  "breakpoint": "非主攻区（T5，新加坡）；官网 unreachable（业务待核）；7 次无回复",
   "saga_now": {
-   "p1": "STI-288GPM",
-   "tier": 25,
-   "price": "换人再触锚价 STI-288GPM $82.2 EXW（主表档位（PDF 上限 $88；SA-026 2025-07 实报 $72 为分销量价）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-12-20 $300（48 Port PoE Managed Switch）、2025-09-22 $280（10G Enterprise SFP Switch）",
-   "why": "PoE 工业级交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）、非管理 STI-288GP（$59.8）、4 PoE + 1 SFP STI-154GP（$39.2）。已打开的主题（1/29 封有打开记录）：「48 Port PoE Managed Switch」(2024-12-20) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
+   "p1": "STI-110GE",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-05-09 $300（48 Port PoE Managed Switch）、2025-08-08 $240（24 Port Fiber Switch）、2025-09-11 $65（10G Media Converter）、2025-10-20 $280（10G Enterprise SFP Switch）",
+   "why": "MC → 工业千兆 MC STI-110GE（$22.4 @20%）、PoE MC STI-111GP（$27.8）、百兆 STI-110FE（$19.7）。已打开的主题（1/11 封有打开记录）：「24 Port Fiber Switch」(2025-08-08) → 读者兴趣偏「MC/光电」；当前 P1 属「10G 汇聚/L3」，下一封按「MC/光电」给，不按 P1",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "2027-Q1（换人后）",
-   "channel": "A 邮箱 → 具名 KP",
-   "action": "换收件人再发一封（第 75 批(v) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
-   "one_question": "Jehad, for the industrial PoE switches you source, we supply DIN-rail 4-PoE + 1 SFP and 8-PoE + 2 SFP units (managed on Marvell L2+, or unmanaged, −40~75 °C, FCC/CE/RoHS) from single units, EXW USD — which configuration do your current projects need? Reference: STI-288GPM at $82.2 USD EXW (MOQ 1, 15-day validity)."
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "David, for the media converters in your engineering projects, we supply neutral-brand industrial gigabit, PoE and Fast Ethernet MCs (−40~75 °C, CE/RoHS) from single units, EXW USD — which MC configuration does your current project need?"
   },
   "facts": [
    {
-    "date": "2026-08-28",
+    "date": "2026-03-05",
     "dir": "去",
-    "who": "A/S 群发",
-    "quote": "10G Enterprise SFP Switch、Managed Optical Bypass Switch",
-    "why": "29 封 / 1 次打开 / 0 回｜首封 2024-07-09 → 末封 2026-08-28（29 去 / 0 来）",
+    "who": "A 群发",
+    "quote": "Industrial PoE Switch、48 Port PoE Managed Switch",
+    "why": "11 封 / 1 次打开 / 0 回｜首封 2025-03-19 → 末封 2026-03-05（11 去 / 0 来）",
     "k": "gmail_digest"
    },
    {
     "date": "2026-10-21",
     "dir": "用户表",
     "who": "Simon",
-    "quote": "PoE 工业级交换机；1 817 896 3203(USA) 151 1888 7211(China)",
+    "quote": "MC；9697 0621 M",
     "why": "表内备注",
     "k": "用户表"
-   },
-   {
-    "date": "2026-08-28",
-    "dir": "去",
-    "who": "A 箱（Alan）",
-    "quote": "24 Port PoE Managed Switch",
-    "why": "本日去信真实主题（邮箱索引 bd57a2d454286a68；信稿开头句引用此封；此前稿内写的「10G Enterprise SFP Switch」是线程列表首题，不是本封）",
-    "k": "bd57a2d454286a68"
    }
   ],
   "proof_gaps": [],
-  "draft_en": {
-   "subject": "The industrial PoE switches you source - three configurations, from single units",
-   "body": "Hi Jehad,\n\nOver the past months you had a few product mails from us - most recently \"24 Port PoE Managed Switch\" on 28 August 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the industrial PoE switches you source, three configurations from single units, -40 to 75 C, FCC/CE/RoHS, EXW, 15-day validity: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, L2 managed, Marvell-based - model STI-288GPM - $82.2 USD; the same unmanaged - STI-288GP - $60; 4 x Gigabit PoE+ + 1 x Gigabit + 1 x SFP, unmanaged - STI-154GP - $39.2. Shenzhen side: you have a China number, so a visit to see units is easy to arrange.\n\nOne question: which configuration do your current projects need - and managed or unmanaged?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
-  },
+  "draft_en": null,
   "as_of": "2026-10-24"
  }
 }

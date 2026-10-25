@@ -1,127 +1,146 @@
 {
- "code": "SB-497",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（eso.co.th，快照 2026-10-21）",
- "summary": "泰国 ESO Tech（工业传感器进口分销、PLC/HMI/SCADA 自动化系统设计、WECON 代理；站内 ethernet-switch 品类（SW05E 等）；表内「工业交换机」）；群发 7 次无回复。",
- "type": "工业传感器与自动化分销商（泰国）",
- "size": "",
- "brands_seen": [
-  "WECON"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：บริษัท อีเอสโอ เทค จำหน่ายและนำเข้าเซนเซอร์สำหรับอุตสาหกรรม；品类词 工业自动化 / OT 网络 / 无线 / WiFi / 数据中心 / 企业 IT / 布线 / 线缆 / 网络交换 / PoE",
-   "quote": "จัดจำหน่ายและนำเข้าเซนเซอร์สำหรับอุตสาหกรรม, ออกแบบระบบควบคุมอัตโนมัติ PLC HMI SCADA , ตัวแทนจำหน่าย WECON , EYC-TECH , Leuze Thailand , Akusense",
-   "url": "https://www.eso.co.th/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "工业交换机",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "工业传感器进口分销与自动化系统",
-   "quote": "จัดจำหน่ายและนำเข้าเซนเซอร์สำหรับอุตสาหกรรม, ออกแบบระบบควบคุมอัตโนมัติ PLC HMI SCADA , ตัวแทนจำหน่าย WECON",
-   "url": "https://www.eso.co.th/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "工业交换机",
-   "quote": "工业交换机",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "泰国",
-  "other": "官网 eso.co.th，语言 th-TH，快照状态 ok；角色判定来源：表内早期 AI 描述"
- },
- "business_lines": [
-  "工业传感器进口分销",
-  "PLC / HMI / SCADA 系统（WECON）"
- ],
- "channels": {
-  "role": "工业传感器与自动化分销商（泰国）",
-  "region": "泰国",
-  "contact": "info@eso.co.th、sales@eso.co.th"
- },
- "signals": [
-  "官网：จัดจำหน่ายและนำเข้าเซนเซอร์สำหรับอุตสาหกรรม, ออกแบบระบบควบคุมอัตโนมัติ PLC HMI SCADA, ตัวแทนจำหน่าย WECON",
-  "栏目 /category/9342/1091/ethernet-switch；站内 SW05E"
- ],
- "risks": [
-  "非主攻区（T5）",
-  "传感器为主业：交换机为配套品类，量小；7 次无回复，无具名 KP"
- ],
- "saga_fit": {
-  "p1": "STI-050GE",
-  "tier": 20,
-  "why": "自动化配套小型工业交换机（现 SW05E 类 5 口）→ 工业 5 GE 非管理 STI-050GE（$17.0 @20%）、8 GE STI-080GE（$31.4）"
- },
- "email_hook": "For the Ethernet-switch category next to your sensors and WECON HMIs, we supply compact DIN-rail 5/8-port gigabit industrial switches (−40~75 °C, neutral packing) from small lots, EXW — which port count do your PLC panels use most?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A 邮箱 18 封 2025→2026，1 次记录打开，0 回；收件 info@eso.co.th, sales@eso.co.th；主题多为「Mini Industrial PoE Switch、Industrial PoE Switch」；Elsa 箱：`to:eso.co.th` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 18 / 来 0）（第 74 批(n)））",
-   "type": "工业传感器与自动化分销商（泰国）",
-   "sieve": "1~2（1 次打开）",
-   "stop": "只打通用邮箱，无记录打开",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "泰国 非主攻",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 18，Opened 标签 1（Simon 群发追踪）；用户表：「工业交换机」；研究档 risks：非主攻区（T5）"
-  },
-  "situation": "泰国 ESO Tech（工业传感器进口分销、PLC/HMI/SCADA 自动化系统设计、WECON 代理；站内 ethernet-switch 品类（SW05E 等）；表内「工业交换机」）；群发 7 次无回复。",
-  "need": "自动化配套小型工业交换机（现 SW05E 类 5 口）→ 工业 5 GE 非管理 STI-050GE（$17.0 @20%）、8 GE STI-080GE（$31.4）",
-  "breakpoint": "非主攻区（T5）",
-  "saga_now": {
-   "p1": "STI-050GE",
-   "tier": 20,
-   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-27 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-15 $280（10G Enterprise SFP Switch）、2026-06-26 $16000（32 Port 400GB DC Switch）",
-   "why": "自动化配套小型工业交换机（现 SW05E 类 5 口）→ 工业 5 GE 非管理 STI-050GE（$17.0 @20%）、8 GE STI-080GE（$31.4）。已打开的主题（1/18 封有打开记录）：「Commercial PoE Switch」(2025-07-14) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开",
-   "one_question": "For the Ethernet-switch category next to your sensors and WECON HMIs, we supply compact DIN-rail 5/8-port gigabit industrial switches (−40~75 °C, neutral packing) from small lots, EXW — which port count do your PLC panels use most?"
-  },
-  "facts": [
-   {
-    "date": "2026-09-28",
-    "dir": "去",
-    "who": "A 群发",
-    "quote": "Mini Industrial PoE Switch、Industrial PoE Switch",
-    "why": "18 封 / 1 次打开 / 0 回｜首封 2025-04-24 → 末封 2026-09-28（18 去 / 0 来）",
-    "k": "gmail_digest"
-   },
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "工业交换机",
-    "why": "表内备注",
-    "k": "用户表"
-   }
+  "code": "SB-497",
+  "name_official": "Công ty TNHH Công Nghệ Quang Lâm（Quang Lam Technology，胡志明市）",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（quanglam.com.vn / wintop.com.vn，快照 2026-10-21，越南语）",
+  "summary": "胡志明市（+84 28 3831 3119）光通信设备分销与制造商：自产跳线 / 尾纤 / ODF，分销 SFP/SFP+/XFP/QSFP 光模块、GPON OLT/ONU、工具、交换机（SFP 词频 262、PoE 170、switch 144、industrial 33；MikroTik），CEO Hồ Lâm；表内：AOA 的工业 FS 较多，**有自己的 logo**（MC / VC / FS / 周边）→ OEM 30%。",
+  "type": "",
+  "size": "",
+  "brands_seen": [
+    "AOA",
+    "MikroTik",
+    "Wintop（自有）"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "光设备分销；自产跳线 / ODF；分销 SFP/SFP+/XFP/GBIC/QSFP、GPON OLT/ONU、施工工具；关键词 sfp 262 / poe 170 / switch 144 / industrial 33",
+      "quote": "Phân phối Thiết bị quang. Sản xuất Dây nhảy, dây nối quang, Hộp ODF. Phân phối Module quang SFP, SFP+, XFP, GBIC, QSFP,...Thiết bị GPON OLT, ONU",
+      "url": "https://quanglam.com.vn/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "工业交换机；AOA 的工业 FS 比较多，有自己的 logo MC VC FS 周边产品",
+      "quote": "兴趣：工业交换机;AOA的工业FS比较多 有自己的logo MC VC FS 周边产品",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [
+    {
+      "name": "Hồ Lâm (Ho Lam)",
+      "title": "CEO",
+      "email": "lamho@quanglam.com.vn",
+      "phone": "+84 908 505 685",
+      "source": "（本地 Clients/ 表格，无公开 URL）"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（官网快照核对：自有品牌 OEM）"
+  },
+  "company_facts": {
+    "legal_name": "Công ty TNHH Công Nghệ Quang Lâm",
+    "founded": "（待核）",
+    "hq": "Ho Chi Minh City, Vietnam",
+    "size": "中小型光通信分销 + 自产无源",
+    "other": "自有品牌（wintop.com.vn）"
+  },
+  "business_lines": [
+    "光模块 / GPON / 无源器件分销与自产",
+    "工业 / 商用交换机、MC（AOA 代工贴牌）"
+  ],
+  "products_seen": [
+    {
+      "brand": "Wintop/Quang Lam（AOA 代工）",
+      "model": "工业 FS 系列",
+      "spec": "工业光纤交换机",
+      "saga": "Saga STI-288GP / STI-244GP 同规格替换",
+      "url": "https://quanglam.com.vn/",
+      "date": "2026-10-21"
+    }
+  ],
+  "channels": {
+    "role": "分销商 + 自有品牌（OEM 采购）",
+    "region": "越南"
+  },
+  "signals": [
+    "自有 logo 的 MC / FS 线 → OEM 30% 对象",
+    "现供应商 AOA → Marvell 管理型差异化"
+  ],
+  "risks": [
+    "越南低价市场、AOA 价格基准低",
+    "SFP 为其主业（Saga 无）"
+  ],
+  "saga_fit": {
+    "p1": "STI-288GP",
+    "tier": 30,
+    "why": "自有 logo 工业 FS → STI-288GP（$62.2 @30%）贴牌；MC STI-110GE；商用 PoE STC-28DGGPM。"
+  },
+  "email_hook": "Anh Lâm, for your own-label industrial switch line — we supply the 2-SFP + 8-PoE DIN unit (and a Marvell managed version) under your brand from small lots; shall I quote it next to the AOA unit you buy today?",
+  "mail_review": {
+    "binding": {
+      "level": "未发信（Elsa 邮箱 2026-02-13 lamho@quanglam.com.vn 仅 Gmail 表情反应「💖」，无文字——不计实质回复；S/A 邮箱 0 封）；Elsa 1:1 去信 2 轮（2026-02-13「DWDM Core Switching Solution」→ 同日只有 💖 表情；2026-08-10「24 Port PoE Managed Switch」，头 19feae677954866c 无 Bcc，称呼「Hi, Lam」= 个性化名单）；无文字来信",
+      "type": "—",
+      "sieve": "—（未入筛）",
+      "stop": "从未触达",
+      "revive": "不动（非主攻区）；WhatsApp 已加 → 唤醒走 WhatsApp 一句话，不走邮件",
+      "lane": "越南 非主攻",
+      "cadence": "不动",
+      "evidence": "gmail_digest：out 0；用户表：「兴趣：工业交换机;AOA的工业FS比较多 有自己的logo MC VC FS 周边产品」；研究档 risks：越南低价市场、AOA 价格基准低；Elsa 邮箱 `data/gmail_e/text/`（Replied 线程，客户→Elsa 正文；Elsa 回复正文未入库）"
+    },
+    "situation": "胡志明市（+84 28 3831 3119）光通信设备分销与制造商：自产跳线 / 尾纤 / ODF，分销 SFP/SFP+/XFP/QSFP 光模块、GPON OLT/ONU、工具、交换机（SFP 词频 262、PoE 170、switch 144、industrial 33；MikroTik），CEO Hồ Lâm；表内：AOA 的工业 FS 较多，**有自己的 logo**（MC / VC / FS / 周边）→ OEM 30%。",
+    "need": "自有 logo 工业 FS → STI-288GP（$62.2 @30%）贴牌；MC STI-110GE；商用 PoE STC-28DGGPM。",
+    "breakpoint": "越南低价市场、AOA 价格基准低",
+    "saga_now": {
+      "p1": "STI-288GP",
+      "tier": 30,
+      "price": "按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-10；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
+      "why": "自有 logo 工业 FS → STI-288GP（$62.2 @30%）贴牌；MC STI-110GE；商用 PoE STC-28DGGPM。",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "不动",
+      "channel": "—",
+      "action": "—",
+      "one_question": ""
+    },
+    "facts": [
+      {
+        "date": "2026-02-13",
+        "dir": "来",
+        "who": "Lam Ho（Quang Lam，越南）",
+        "quote": "（Gmail emoji reaction 💖，无正文）",
+        "why": "非实质",
+        "k": "gmail_e"
+      },
+      {
+        "date": "2026-08-10",
+        "dir": "out",
+        "who": "Elsa → lamho@quanglam.com.vn",
+        "quote": "24 Port PoE Managed Switch（Elsa 1:1 第 2/2 轮；To 仅本户；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f）",
+        "why": "第 74 批(o) `from:e.sagatelecom to:quanglam.com.vn` 全程 complete：2 行；To=本户 ⇒ 1:1 直收",
+        "k": "elsa_1to1",
+        "msg_id": "19feae677954866c"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "兴趣：工业交换机;AOA的工业FS比较多 有自己的logo MC VC FS 周边产品",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [
+      "（已核 2026-10-24，第 73 批）Elsa 邮箱唯一往来 = 2026-02-13「DWDM Core Switching Solution」群发 → lamho@quanglam.com.vn 同日仅 Gmail 表情「💖」；用户表「WhatsApp 已加·未回复」在 Simon 手机，邮件侧无文字回复"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

@@ -1,146 +1,108 @@
 {
   "code": "SB-166",
-  "name_official": "",
+  "name_official": "Crown Security Solutions（卡塔尔；表内名）",
   "researched_at": "2026-10-21",
-  "website_status": "在线（advance.technology，快照 2026-10-21）",
-  "summary": "英国 Advance Technology Solutions Ltd（「Compatible, affordable」兼容光模块品牌（sfp 512）、PoE 媒体转换器页、线缆（204）、10G/2.5G；表内「外壳比较杂，很多是国内的；MC / PoE 自己 logo，很多 SFP 模块」「可以尝试多跟进一下」）；群发 10 次无回复。",
-  "type": "英国兼容光模块/配件自有品牌商（MC/PoE 贴标，OEM 采购）",
+  "website_status": "无域名（仅表内信息）",
+  "summary": "卡塔尔安防分销商（Cudy 分销），Mohamed Safeer 提出 200 台工业 5 电口需求，2025-02 要工业 16/24 口 datasheet，2025-10 在 CPSE 展会沟通；无邮箱。",
+  "type": "",
   "size": "",
   "brands_seen": [],
   "evidence": [
     {
-      "kind": "官网快照",
-      "claim": "官网标题：Advance Technology Solutions Ltd；品类词 安防监控（CCTV / 门禁） / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
-      "quote": "Compatible, affordable.；Discover more about Advance, including our guarantees and warranty.；Who We Are；Recent Posts；Quick Links",
-      "url": "https://advance.technology/",
-      "date": "2026-10-21"
-    },
-    {
       "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "外壳比较杂 很多是国内的 MC PoE 自己logo 很多SFP模块",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网快照",
-      "claim": "Advance 首页",
-      "quote": "Advance Technology Solutions Ltd ; Compatible, affordable. ; Discover more about Advance, including our guarantees and warranty.",
-      "url": "https://advance.technology/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "MC PoE 自己 logo，很多 SFP",
-      "quote": "外壳比较杂 很多是国内的 MC PoE 自己logo 很多SFP模块；可以尝试多跟进一下",
+      "claim": "兴趣：200 个工业 5 电口；Cudy 的分销商；回复 Datasheet；cpse 展会",
+      "quote": "兴趣：200个工业5电口 Cudy的分销商；回复：Datasheet；cpse展会",
       "url": "（本地 Clients/ 表格，无公开 URL）",
       "date": "2026-10-21"
     }
   ],
-  "kp": [],
+  "kp": [
+    {
+      "name": "Mohamed Safeer",
+      "title": "（表内联系人）",
+      "email": "",
+      "phone": "+974 3362 7118",
+      "source": "（本地 Clients/ 表格，无公开 URL）"
+    }
+  ],
   "grade_override": null,
   "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
   "deep": {
     "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+    "level": "无域名 · 仅表内信息"
   },
   "company_facts": {
-    "hq": "英国",
-    "other": "官网 advance.technology，语言 en-GB，快照状态 ok；角色判定来源：官网文案"
+    "legal_name": "（待核）",
+    "founded": "",
+    "hq": "卡塔尔",
+    "size": "分销商（Cudy）",
+    "other": "CPSE 2025 到访"
   },
   "business_lines": [
-    "兼容光模块 / MC / PoE / 线缆（自有品牌 Advance）"
+    "安防 / 网络设备分销（Cudy）"
   ],
   "channels": {
-    "role": "英国兼容光模块/配件自有品牌商（MC/PoE 贴标，OEM 采购）",
-    "region": "英国",
-    "contact": "info@advance.technology"
+    "role": "分销商",
+    "region": "卡塔尔"
   },
   "signals": [
-    "页面 /poe-media-converters/、/product-support/；站内 A-MC-PS-V2-111-SFP；kw sfp 512 / cable 204 / 10g 88 / media converter 35 / poe 30",
-    "首页：Compatible, affordable. ; Discover more about Advance, including our guarantees and warranty"
+    "200 台工业 5 口 = 明确批量需求",
+    "CPSE 展会面谈过"
   ],
   "risks": [
-    "主品类 SFP：Saga 不供（Q-32），仅 MC/PoE 可对位",
-    "10 次无回复，仅 info@，无具名 KP；现供多家深圳厂价格基准低"
+    "无邮箱，仅 WhatsApp",
+    "Cudy 分销 → 价格对标 Cudy 工业线"
   ],
   "saga_fit": {
-    "p1": "STI-111GP",
-    "tier": 30,
-    "why": "自有 Advance 标 PoE MC → 工业 PoE MC STI-111GP（$30.1 @30%）/ 千兆 MC STI-110GE（$24.3）；PoE 交换机位 STC-28DGGPM；SFP 为其主品类，Saga 不供（Q-32）"
+    "p1": "STI-050GE",
+    "tier": 20,
+    "why": "200 台工业 5 电口 → Saga STI-050GE（$17.0/17.8/18.5，列表 $34.1）；16/24 口 datasheet 对应 STI-21616GP / STI-4240DGGM。"
   },
-  "email_hook": "For the Advance-branded PoE media converters and PoE switches, we can be a second ODM source on a Marvell/Realtek platform (gigabit and PoE MC, 8-PoE + 2 SFP L2+) from small lots in your packaging, CE/RoHS/UKCA — which MC variant do you reorder most?",
-  "products_seen": [
-    {
-      "brand": "Advance（自有）",
-      "model": "A-MC-PS-V2-111-SFP",
-      "spec": "PoE 媒体转换器（SFP 口）",
-      "saga": "STI-111GP",
-      "url": "https://advance.technology/poe-media-converters/",
-      "date": "2026-10-21"
-    }
-  ],
+  "email_hook": "（无邮箱；WhatsApp：Good to meet at CPSE — for the 200-pc 5-port industrial requirement, I can hold a 200-pc EXW price for 15 days once you confirm DC input range (12–36 V or 44–57 V).）",
   "mail_review": {
     "binding": {
-      "level": "读而不回（A/S 邮箱 21 封 2025→2026，其中 2 封被打开，0 回；收件 info@advance.technology；被打开主题「Industrial PoE Switch、10G Enterprise SFP Switch」）；Elsa 1:1 去信 1 封（2025-02-18「Mini Industrial PoE Switch」；To 仅本户 info@advance.technology；Bcc 未逐封读头；同类名单抽读 24 封均无 Bcc；此后再未进 Elsa 任何名单——全箱 `from:e.sagatelecom to:info@advance.technology` 仅此 1 条，complete）（第 74 批(m)）",
-      "type": "英国兼容光模块/配件自有品牌商（MC/PoE 贴标，OEM 采购）",
-      "sieve": "2（有人在读，无人回）",
-      "stop": "读而不回 = 内容未命中或没有当下需求",
-      "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
-      "lane": "UK 主攻（四主）",
-      "cadence": "一封；回了再说",
-      "evidence": "gmail_digest：out 21，Opened 标签 2（Simon 群发追踪）；用户表：「外壳比较杂 很多是国内的 MC PoE 自己logo 很多SFP模块」；研究档 risks：主品类 SFP：Saga 不供（Q-32），仅 MC/PoE 可对位"
+      "level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：200个工业5电口 Cudy的分销商；回复：Datasheet；cpse展会」）；Elsa 箱无可查地址（仓内无此户任何邮箱/域名——用户表/WhatsApp/展会名片户，`from:e.sagatelecom to:` 无从下手；Elsa 群发是否碰过他无法判定，不写「未触达」）（第 74 批(o)）",
+      "type": "—",
+      "sieve": "—（未入筛）",
+      "stop": "从未触达",
+      "revive": "不动（非主攻区；J5：有证据再动）",
+      "lane": "卡塔尔 非主攻",
+      "cadence": "不动",
+      "evidence": "gmail_digest：out 0；用户表：「兴趣：200个工业5电口 Cudy的分销商；回复：Datasheet；cpse展会」；研究档 risks：无邮箱，仅 WhatsApp"
     },
-    "situation": "英国 Advance Technology Solutions Ltd（「Compatible, affordable」兼容光模块品牌（sfp 512）、PoE 媒体转换器页、线缆（204）、10G/2.5G；表内「外壳比较杂，很多是国内的；MC / PoE 自己 logo，很多 SFP 模块」「可以尝试多跟进一下」）；群发 10 次无回复。",
-    "need": "自有 Advance 标 PoE MC → 工业 PoE MC STI-111GP（$30.1 @30%）/ 千兆 MC STI-110GE（$24.3）；PoE 交换机位 STC-28DGGPM；SFP 为其主品类，Saga 不供（Q-32）",
-    "breakpoint": "主品类 SFP：Saga 不供（Q-32），仅 MC/PoE 可对位",
+    "situation": "卡塔尔安防分销商（Cudy 分销），Mohamed Safeer 提出 200 台工业 5 电口需求，2025-02 要工业 16/24 口 datasheet，2025-10 在 CPSE 展会沟通；无邮箱。",
+    "need": "200 台工业 5 电口 → Saga STI-050GE（$17.0/17.8/18.5，列表 $34.1）；16/24 口 datasheet 对应 STI-21616GP / STI-4240DGGM。",
+    "breakpoint": "无邮箱，仅 WhatsApp",
     "saga_now": {
-      "p1": "STI-111GP",
-      "tier": 30,
-      "price": "首触锚价 STI-111GP $30.1 EXW（主表档位（无实报；PDF 上限 $36.3）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-08-12 $300（48 Port PoE Managed Switch）、2025-10-09 $280（10G Enterprise SFP Switch）",
-      "why": "自有 Advance 标 PoE MC → 工业 PoE MC STI-111GP（$30.1 @30%）/ 千兆 MC STI-110GE（$24.3）；PoE 交换机位 STC-28DGGPM；SFP 为其主品类，Saga 不供（Q-32）。已打开的主题（2/21 封有打开记录）：「L3 Managed Switch」(2025-01-20)、「10G Enterprise SFP Switch」(2025-10-09) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-02-11)、Saga Feature List_7.5.x_L2+(2026-06-26)、Product Link_2026Q3(2026-07-02)；7.5 Feature List 与 2026Q3 链接都已给过 → 下一封不能再是资料推送，只能是针对其需求的一句话/一个问题",
+      "p1": "STI-050GE",
+      "tier": 20,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "200 台工业 5 电口 → Saga STI-050GE（$17.0/17.8/18.5，列表 $34.1）；16/24 口 datasheet 对应 STI-21616GP / STI-4240DGGM。",
       "repeat": [],
       "gaps": []
     },
     "next_move": {
-      "when": "2026-11",
-      "channel": "A 邮箱 → info@advance.technology",
-      "action": "首封前知悉：Elsa 仅 2025-02-18 单发过 1 封「Mini Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；短信一问（email_hook）",
-      "one_question": "For the Advance-branded PoE media converters and PoE switches, we can be a second ODM source on a Marvell/Realtek platform (gigabit and PoE MC, 8-PoE + 2 SFP L2+) from small lots in your packaging, CE/RoHS/UKCA — which MC variant do you reorder most? Reference: STI-111GP at $30.1 USD EXW (MOQ 1, 15-day validity)."
+      "when": "不动",
+      "channel": "—",
+      "action": "—",
+      "one_question": ""
     },
     "facts": [
-      {
-        "date": "2025-02-18",
-        "dir": "out",
-        "who": "Elsa → info@advance.technology",
-        "quote": "Mini Industrial PoE Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
-        "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
-        "k": "elsa_1to1",
-        "msg_id": "1951992b53a25744"
-      },
-      {
-        "date": "2026-09-04",
-        "dir": "去",
-        "who": "A/S 群发",
-        "quote": "Industrial PoE Switch、10G Enterprise SFP Switch",
-        "why": "21 封 / 2 次打开 / 0 回｜首封 2025-01-20 → 末封 2026-09-04（21 去 / 0 来）",
-        "k": "gmail_digest"
-      },
       {
         "date": "2026-10-21",
         "dir": "用户表",
         "who": "Simon",
-        "quote": "外壳比较杂 很多是国内的 MC PoE 自己logo 很多SFP模块",
+        "quote": "兴趣：200个工业5电口 Cudy的分销商；回复：Datasheet；cpse展会",
         "why": "表内备注",
         "k": "用户表"
       }
     ],
-    "proof_gaps": [],
-    "draft_en": {
-      "subject": "One question — Industrial PoE Switch",
-      "body": "Hello,\n\nWe have sent you a few mails on \"Industrial PoE Switch\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor the Advance-branded PoE media converters and PoE switches, we can be a second ODM source on a Marvell/Realtek platform (gigabit and PoE MC, 8-PoE + 2 SFP L2+) from small lots in your packaging, CE/RoHS/UKCA — which MC variant do you reorder most?\n\nReference price: DIN-rail 1-PoE + 1-SFP industrial PoE media converter (STI-111GP) $30.1 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
-    },
+    "proof_gaps": [
+      "无邮件往来",
+      "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+    ],
+    "draft_en": null,
     "as_of": "2026-10-24"
   }
 }

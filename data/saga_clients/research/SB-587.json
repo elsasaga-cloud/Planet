@@ -1,73 +1,99 @@
 {
- "code": "SB-587",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（etobb.co.kr，快照 2026-10-21）",
- "summary": "韩国 (주)이투비비 ETOBB（Safran 韩国独家代理、Tualcom 合作伙伴：GPS/GNSS 模拟器、时间服务器、室内定位、原子钟、White Rabbit 交换机；阿里巴巴 RFQ「无人机模块」；KP Kyungkil Kim）；表内未跟进。",
- "type": "精密授时/GNSS 代理商（韩国，无人机模块 RFQ）",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：(주)이투비비",
-   "quote": "(주)이투비비(ETOBB)는 사프란(SAFRAN) 한국 독점 대리점 및 투알콤(Tualcom)의 파트너사입니다. GPS/GNSS 시뮬레이터(GPS Simulator, GNSS Simulator), 타임서버(Time server), 실내위치(Indoor Position), 원자시계 (Atomic Clock) 등 다양하고 폭넓은 분야의 GPS/GNSS 솔루션(Solution)을 개발, 제공해 나가고 있습니다.",
-   "url": "http://www.etobb.co.kr/",
-   "date": "2026-10-21"
+  "code": "SB-587",
+  "name_official": "Truetech Security Solutions（加纳；表内名）",
+  "researched_at": "2026-10-21",
+  "website_status": "无域名（仅表内信息）",
+  "summary": "加纳安防公司，WhatsApp 跟进 18 次，一次实质回复「在和 dja 合作」（已有供应商），对 PoE 交换机感兴趣；无邮箱、无官网，联系人姓名为表内记录（土耳其式人名，疑录入串行，待核）。",
+  "type": "",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "用户表",
+      "claim": "对 POE switch 感兴趣；回复「在和 dja 合作」（已有供货方）",
+      "quote": "兴趣：对POE switch感兴趣；回复：在和dja合作",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "无域名 · 仅表内信息"
   },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "无人机模块 / from: 阿里巴巴RFQ",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
+  "company_facts": {
+    "legal_name": "（待核）",
+    "founded": "（待核）",
+    "hq": "加纳（表内）",
+    "size": "（待核）",
+    "other": "仅 WhatsApp +233 20 497 9197；表内联系人「İbrahim Gürgüneş」疑为串行录入"
   },
-  {
-   "kind": "官网快照",
-   "claim": "ETOBB 定位",
-   "quote": "(주)이투비비(ETOBB)는 사프란(SAFRAN) 한국 독점 대리점 ; GPS/GNSS 시뮬레이터 ; /WhiteRabbitSwitch",
-   "url": "http://www.etobb.co.kr/",
-   "date": "2026-10-21"
+  "business_lines": [
+    "安防（CCTV）安装 / 供应（表内推断）"
+  ],
+  "channels": {
+    "role": "安防安装商（推断）",
+    "region": "加纳"
   },
-  {
-   "kind": "用户表",
-   "claim": "无人机模块 RFQ",
-   "quote": "无人机模块 / from: 阿里巴巴RFQ",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
+  "signals": [
+    "对 PoE 交换机有兴趣但已有供应商"
+  ],
+  "risks": [
+    "无邮箱、无官网，仅 WhatsApp，不满足 B 级「有邮箱」口径（保留 B 因有实质回复）",
+    "联系人姓名疑录入错误"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 25,
+    "why": "安防安装商 8 口 PoE 入门款；仅能 WhatsApp 触达。"
+  },
+  "email_hook": "（无邮箱；WhatsApp 一句：Still working with your current PoE supplier? If a backup source for 8-port PoE at factory price helps, one sample ships from 1 pc.）",
+  "mail_review": {
+    "binding": {
+      "level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：对POE switch感兴趣；回复：在和dja合作」）；Elsa 箱无可查地址（仓内无此户任何邮箱/域名——用户表/WhatsApp/展会名片户，`from:e.sagatelecom to:` 无从下手；Elsa 群发是否碰过他无法判定，不写「未触达」）（第 74 批(o)）",
+      "type": "—",
+      "sieve": "—（未入筛）",
+      "stop": "从未触达",
+      "revive": "不动（非主攻区；J5：有证据再动）",
+      "lane": "加纳 非主攻",
+      "cadence": "不动",
+      "evidence": "gmail_digest：out 0；用户表：「兴趣：对POE switch感兴趣；回复：在和dja合作」；研究档 risks：无邮箱、无官网，仅 WhatsApp，不满足 B 级「有邮箱」口径（保留 B 因有实质回复）"
+    },
+    "situation": "加纳安防公司，WhatsApp 跟进 18 次，一次实质回复「在和 dja 合作」（已有供应商），对 PoE 交换机感兴趣；无邮箱、无官网，联系人姓名为表内记录（土耳其式人名，疑录入串行，待核）。",
+    "need": "安防安装商 8 口 PoE 入门款；仅能 WhatsApp 触达。",
+    "breakpoint": "无邮箱、无官网，仅 WhatsApp，不满足 B 级「有邮箱」口径（保留 B 因有实质回复）",
+    "saga_now": {
+      "p1": "STC-28DGGPM",
+      "tier": 25,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "安防安装商 8 口 PoE 入门款；仅能 WhatsApp 触达。",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "不动",
+      "channel": "—",
+      "action": "—",
+      "one_question": ""
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "兴趣：对POE switch感兴趣；回复：在和dja合作",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [
+      "无邮件往来",
+      "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-24"
   }
- ],
- "kp": [],
- "grade_override": "C",
- "override_reason": "品类不符（GNSS/授时代理，无人机模块 RFQ）；c_sub=品类不符",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "韩国",
-  "other": "官网 etobb.co.kr，语言 ko，快照状态 ok；角色判定来源：官网文案"
- },
- "business_lines": [
-  "GNSS / 授时设备代理（韩国）"
- ],
- "channels": {
-  "role": "精密授时/GNSS 代理商（韩国，无人机模块 RFQ）",
-  "region": "韩国",
-  "contact": "kyungkil.kim@etobb.co.kr"
- },
- "signals": [
-  "官网：(주)이투비비(ETOBB)는 사프란(SAFRAN) 한국 독점 대리점 및 투알콤(Tualcom)의 파트너사입니다 ; GPS/GNSS 시뮬레이터 ; 타임서버；页面 /WhiteRabbitSwitch",
-  "表内：无人机模块 / from: 阿里巴巴 RFQ；KP Kyungkil Kim"
- ],
- "risks": [
-  "品类不符：GNSS 模拟器/授时设备代理；无人机模块 RFQ（Saga 不供，守界）"
- ],
- "saga_fit": {
-  "p1": null,
-  "tier": 20,
-  "why": "品类不符（GNSS/授时设备代理，RFQ 为无人机模块）→ 改 C"
- },
- "email_hook": "（不发送：品类不符）"
 }

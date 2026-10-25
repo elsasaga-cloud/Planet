@@ -1,233 +1,322 @@
 {
  "code": "SA-079",
- "name_official": "PT Divatel Pratama（Infrateq.com 电商 / divatel.co.id，雅加达，2001 年）",
- "website_status": "在线",
- "summary": "印尼雅加达 VoIP/PA 系统/联络中心/CCTV/工业网络解决方案商与分销商（2001 年，KOMINFO 持牌），CEO Ismed Sitepu 直接沟通（6 次回复、WA 在线），询过洪瑞（HRUI）工业 FS；LinkedIn 列'Offgrid CCTV Surveillance / Solar Panel Switch'等业务。",
- "type": "系统集成商+分销（VoIP/安防/工业网络）",
- "size": "小型（LinkedIn 2–10 / Glints 51–200，口径不一；ZoomInfo 营收 2,360 万美元待核）",
- "brands_seen": [
-  "VitalPBX（合作伙伴）",
-  "InfrateQ（自有标）"
- ],
+ "name_official": "Biz - Ethics Ltd.",
+ "website_status": "",
+ "summary": "已成单 12 个单号（2024-09-08 → 2026-08-30，RMB 单据合计 ≈101k，货代走账）；SmartByte + HRUI + Hohunet 三家都采购过；Simon 标签：活跃 · 货代走账 · 轻度绑定；详见 research/SA-079.json",
+ "type": "网络设备经销/自有品牌 BNSC-（拉各斯）",
+ "size": "",
+ "brands_seen": [],
  "evidence": [
   {
-   "kind": "官网",
-   "claim": "2001 年起的 VoIP/PA/云 PBX/联络中心/CCTV 供应商，面向中大型企业",
-   "quote": "Sejak tahun 2001, Divatel telah berada di garis depan dalam menyediakan solusi PA System, IP PBX, Cloud PBX, Omnichannel Contact Center… untuk perusahaan skala menengah hingga besar",
-   "url": "https://pa-system.infrateq.com/profile/",
-   "date": "2026-10-21"
+   "kind": "PI",
+   "claim": "成交单据 STSC20240908012（CI，2024-09-08）：STC-228GP、STC-28GPM、STC-424DGGPM 共 42 台，RMB 25245.0；采购 HRUI、SmartByte RMB 18250.0",
+   "quote": "",
+   "url": "PI.zip:12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/CI.xls",
+   "date": "2024-09-08"
   },
   {
-   "kind": "LinkedIn",
-   "claim": "CEO/创始人 Ismed Sitepu，业务含离网 CCTV、太阳能供电交换机、网络",
-   "quote": "CEO and Founder PT. Divatel Pratama 2001 - Present… Offgrid CCTV Surveillance - Solar Panel Switch / Hub - Video Conferencing",
-   "url": "https://www.linkedin.com/in/ismedsitepu/",
-   "date": "2026-10-21"
+   "kind": "PI",
+   "claim": "成交单据 STSC20241201012（PI，2024-12-01）：STC-424DGGPM 共 5 台，RMB 8650.0；采购 SmartByte RMB 3750.0",
+   "quote": "",
+   "url": "PI.zip:12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/STSC20241201012.xls",
+   "date": "2024-12-01"
   },
   {
-   "kind": "合作伙伴页",
-   "claim": "infrateq.com 为其电商站，另提供网络解决方案",
-   "quote": "The further details of service and products we sell can be seen at our commerce website infrateq.com We also provide video conference solutions, Hyperconverge server and Networks solutions",
-   "url": "https://vitalpbx.com/vitalpbx-partners/pt-divatel-pratama/",
-   "date": "2026-10-21"
+   "kind": "PI",
+   "claim": "成交单据 STEC20250302012（PI，2025-03-02）：STC-28GPM、STC-424DGGPM 共 13 台，RMB 7725.0",
+   "quote": "",
+   "url": "PI.zip:12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/STEC20250302012_R2.xls",
+   "date": "2025-03-02"
   },
   {
-   "kind": "YouTube",
-   "claim": "业务含 CCTV、工业网络",
-   "quote": "PA System, CCTV, Network Industri, Cloud PBX, Contact Center Omnichannel",
-   "url": "https://www.youtube.com/@DivatelPratama",
-   "date": "2026-10-21"
+   "kind": "PI",
+   "claim": "成交单据 STEC20250609012（PI，2025-06-09）：STC-28GPM、STC-424DGGPM 共 7 台，RMB 5645.0；采购 SmartByte RMB 3175.0",
+   "quote": "",
+   "url": "PI.zip:12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/STEC20250609012.xls",
+   "date": "2025-06-09"
   },
   {
-   "kind": "官网",
-   "claim": "地址 / 电话 / 销售 WA 名单 / 工业 PoE 类目",
-   "quote": "DIVATEL - 0851-7306-0800 Ismed S. - 0852-8940-4589 Dipa A. - 0821-1063-2366 Bagus Widiyanto - 0812-9989-0595 … PT. DIVATEL PRATAMA Menara Kuningan 6th Floor, Jl. HR. Rasuna Said Blok X-7 Kav.5 Jakarta Selatan 12940 Telp. : 021-30022778 (hunting)",
-   "url": "https://infrateq.com/156-industrial-poe-switch",
-   "date": "2026-10-21"
+   "kind": "PI",
+   "claim": "成交单据 STEC20250917012（PI，2025-09-17）：STC-28GPM 共 15 台，RMB 5775.0；采购 HRUI RMB 5025.0",
+   "quote": "",
+   "url": "PI.zip:12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/STEC20250917012.xls",
+   "date": "2025-09-17"
   },
   {
-   "kind": "官网",
-   "claim": "自有标工业千兆 PoE 型号 HR600-AFG-822S",
-   "quote": "Distributor INDUSTRIAL GIGABIT POE SWITCH Networking … infrateq-hr600-afg-822s",
-   "url": "https://infrateq.com/network-switch/560-infrateq-hr600-afg-822s.html",
-   "date": "2026-10-21"
+   "kind": "PI",
+   "claim": "成交单据 STEC20250930012（PI，2025-09-30）：STC-4168XGGCM、STC-424XGGM 共 4 台，RMB 7700.0；采购 SmartByte RMB 6440.0",
+   "quote": "",
+   "url": "PI.zip:12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/STEC20250930012.xls",
+   "date": "2025-09-30"
   },
   {
-   "kind": "LinkedIn",
-   "claim": "CEO 与业务范围",
-   "quote": "CEO and Founder PT. Divatel Pratama 2001 - Present … IP PBX Development - Call Center and Contact Center … Paging & Intercom for safe city … Offgrid CCTV Surveillance - Solar Panel Switch / Hub",
-   "url": "https://www.linkedin.com/in/ismedsitepu/",
-   "date": "2023-03-25"
+   "kind": "PI",
+   "claim": "成交单据 STEC20251016012（PI，2025-10-16）：BNSC-424DGDPM、STC-424DGGPM 共 1 台，RMB 860.0；采购 SmartByte RMB 760.0",
+   "quote": "",
+   "url": "PI.zip:12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/STEC20251016012.xls",
+   "date": "2025-10-16"
+  },
+  {
+   "kind": "PI",
+   "claim": "成交单据 STEC20251121012（PI，2025-11-21）：BNSC-28GPM、STC-28GPM 共 13 台，RMB 5005.0；采购 HRUI RMB 4355.0",
+   "quote": "",
+   "url": "PI.zip:12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/STEC20251121012.xls",
+   "date": "2025-11-21"
+  },
+  {
+   "kind": "PI",
+   "claim": "成交单据 STEC20251123012（PI，2025-11-23）：BNSC-4168XGGCM、STC-4168XGGCM、STC-424XGGPM-280W、STH-2C24XF-SFI 共 11 台，RMB 26050.0；采购 Hohunet、SmartByte RMB 17770.0",
+   "quote": "",
+   "url": "PI.zip:12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/STEC20251123012.xls",
+   "date": "2025-11-23"
+  },
+  {
+   "kind": "PI",
+   "claim": "成交单据 STEC20260618012（PI，2026-06-18）：BNSC-28GPM、STC-28GPM 共 5 台，RMB 2040.0；采购 HRUI RMB 1775.5",
+   "quote": "",
+   "url": "PI.zip:12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/STEC20260618012.xls",
+   "date": "2026-06-18"
+  },
+  {
+   "kind": "PI",
+   "claim": "成交单据 STEC20260718012（PI，2026-07-18）：BNSC-28GPM、STC-28GPM 共 2 台，RMB 816.0；采购 HRUI RMB 710.2",
+   "quote": "",
+   "url": "PI.zip:12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/STEC20260718012.xls",
+   "date": "2026-07-18"
+  },
+  {
+   "kind": "PI",
+   "claim": "成交单据 STEC20260830012（PI，2026-08-30）：BNSC-28GPM、BNSC-424DGDPM、STC-28GPM、STC-424DGGPM 共 13 台，RMB 5842.0；采购 SmartByte RMB 765.0",
+   "quote": "",
+   "url": "PI.zip:12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/STEC20260830012.xls",
+   "date": "2026-08-30"
+  },
+  {
+   "kind": "PI",
+   "claim": "PI 包文件夹「尼日利亚 Mbata 活跃 货代走账 轻度绑定」：Simon 标签 活跃，收款 货代走账，轻度绑定；单号 12 个，2024-09-08 → 2026-08-30，销售 USD 0 / RMB 101353.0，Simon 成本统计利润合计 RMB 0",
+   "quote": "",
+   "url": "PI.zip:12 尼日利亚 Mbata 活跃 货代走账 轻度绑定",
+   "date": "2026-10-22"
+  },
+  {
+   "kind": "公开平台核查（T29-U18）",
+   "claim": "belnetworks.com 现为域名停放页（1st Domains，新西兰注册商），不是 Biz-Ethics 的网站",
+   "quote": "You have reached the future website of belnetworks.com. This domain is currently parked with 1st Domains and does not yet have a website",
+   "url": "https://belnetworks.com/",
+   "date": "2026-10-23"
+  },
+  {
+   "kind": "公开平台核查（T29-U18）",
+   "claim": "RDAP：belnetworks.com 注册 2024-08-16（即被人重新注册），到期 2027-08-16，last changed 2026-07-19，注册商 eNom，NS ns1/ns2.1stdomains.net.nz；GitHub 上多份过期域名日志（2021/2023/2024）也列有该域 → 原主多次脱手",
+   "quote": "\"registration\",\"eventDate\":\"2024-08-16T06:09:14Z\" … \"expiration\",\"eventDate\":\"2027-08-16T06:09:14Z\" … NS1.1STDOMAINS.NET.NZ",
+   "url": "https://rdap.verisign.com/com/v1/domain/belnetworks.com",
+   "date": "2026-10-23"
+  },
+  {
+   "kind": "公开平台核查（T29-U18）",
+   "claim": "尼日利亚黄页目录条目：BIZ-ETHICS LTD. 经营计算机、有线/无线网络设备、监控与门禁、电源调节设备",
+   "quote": "BIZ-ETHICS LTD. Sales of Computers, Networking (Wired/Wireless) Equipments, Surveillance & Access Control Systems and Power-Conditioning Equipment",
+   "url": "http://www.ngcontacts.com/directory/computer-and-infotech/computer-networking/",
+   "date": "2026-10-23"
+  },
+  {
+   "kind": "Simon 文档",
+   "claim": "绑定等级：轻度绑定——「转账啥的都 OK」（货代走账通道顺畅）",
+   "quote": "尼日利亚 Mbata　轻度绑定=转账啥的都OK",
+   "url": "Extra Info.zip 根目录《客户绑定情况分析.docx》（data/extra_info_2026-10/text/Extra_Info__客户绑定情况分析.docx__6d196b92.json）",
+   "date": "2026-10-22"
   }
  ],
  "kp": [
   {
-   "name": "Ismed Sitepu",
-   "role": "CEO & Founder",
-   "email": "ismed@divatel.co.id",
-   "phone": "+62 852-8940-4589（WA，官网与用户记录一致）",
-   "source": "用户 Clients 表 + LinkedIn + 官网"
-  },
-  {
-   "name": "Ismed Sitepu",
-   "role": "Founder & CEO（2001 至今）；地址 2026-10-21 退信（554 5.7.1 Message not delivered）→ 先找替代地址",
-   "email": "sales@divatel.id（公司公开）",
-   "phone": "+62 852-8940-4589（网站公开 WA）",
-   "source": "https://www.linkedin.com/in/ismedsitepu/"
-  },
-  {
-   "name": "Bagus Widiyanto",
-   "role": "Sales（infrateq.com 公开）",
-   "email": "—",
-   "phone": "+62 812-9989-0595",
-   "source": "https://infrateq.com/156-industrial-poe-switch"
+   "name": "Valentine Mbata",
+   "role": "单据联系人",
+   "email": "info@belnetworks.com",
+   "phone": "",
+   "source": "PI.zip 单据"
   }
  ],
- "grade_override": null,
- "override_reason": "",
- "notes": "A 级中少见的'CEO 直接、6 次回复、WA 在线、需求对位 HRUI 工业 FS'组合。离网/太阳能 CCTV 场景 → 工业 DC 供电 PoE 交换机（STI 工业线/HRUI STH 工业款）。P1：STI-288DGGPM 或 HRUI 对位 STH 工业 FS 机型（按 data/hrui_STC对照表.csv 核对），项目价阶 25%。",
- "researched_at": "2026-10-21",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "深挖 v2（infrateq.com + divatel.id 核对）"
+ "notes": "",
+ "researched_at": "2026-10-22",
+ "deal_pi": {
+  "folder": "12 尼日利亚 Mbata 活跃 货代走账 轻度绑定",
+  "simon_label": "活跃",
+  "pay": "货代走账",
+  "bind": "轻度绑定",
+  "buyer": "Biz - Ethics Ltd.",
+  "orders": 12,
+  "first": "2024-09-08",
+  "last": "2026-08-30",
+  "usd": 0.0,
+  "rmb": 101353.0,
+  "profit_rmb": 0.0,
+  "models": "BNSC-28GPM、BNSC-4168XGGCM、BNSC-424DGDPM、STC-228GP、STC-28GPM、STC-4168XGGCM、STC-424DGGPM、STC-424XGGM、STC-424XGGPM-280W、STH-2C24XF-SFI"
  },
- "company_facts": {
-  "legal_name": "PT. Divatel Pratama",
-  "founded": "2001",
-  "hq": "Menara Kuningan 6th Floor, Jl. H.R. Rasuna Said Blok X-7 Kav.5, Jakarta Selatan 12940（+62 21 30022777 / 30022778 hunting；sales@divatel.id / info@divatel.co.id）",
-  "other": "三站并行：infrateq.com（电商：IP PBX / IP 话机 / VoIP 网关 / 会议 / **Industrial PoE Switch 类目**，自有标 InfrateQ 型号如 HR600-AFG-822S——疑为 HRUI 贴牌）、divatel.id（IP PBX/联络中心，KOMINFO 持牌，印尼/马/新）、pa-system.infrateq.com；CEO Ismed Sitepu（LinkedIn 列业务含「Solar Panel Switch / Hub」「Offgrid CCTV」）；销售 WA 0851-7306-0800 / 0852-8940-4589（Ismed S.）、Dipa A. 0821-1063-2366、Bagus Widiyanto 0812-9989-0595（网站公开）",
-  "staff": "2–10（LinkedIn）"
+ "saga_fit": {
+  "p1": "",
+  "tier": 20,
+  "why": "成单客户，按实际成交型号续单；贴牌/裸板需求按 OEM 30% 档单独核价"
  },
- "business_lines": [
-  "VoIP / PA / 联络中心",
-  "CCTV 与工业网络分销（Infrateq 电商）",
-  "IP PBX / 联络中心 / VoIP（主业）",
-  "PA/对讲、CCTV",
-  "Industrial PoE Switch 电商分销（InfrateQ 自有标，HR600- 系列）"
- ],
- "products_seen": [
-  {
-   "brand": "HRUI（询过）",
-   "model": "工业 FS",
-   "spec": "询过洪瑞的工业 FS",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "用户表",
-   "saga": "STI-288DGGPM（Marvell 位）/ HRUI 同款经 Saga"
-  },
-  {
-   "brand": "InfrateQ（自有标，疑 HRUI 源）",
-   "model": "HR600-AFG-822S",
-   "spec": "工业千兆 PoE 交换机（8 PoE + 2 GE + 2 SFP 推断自型号）",
-   "url": "https://infrateq.com/network-switch/560-infrateq-hr600-afg-822s.html",
-   "date": "2026-10-21",
-   "saga": "STI-288DGGPM（Marvell 位）/ STC-28DGGPM"
-  }
- ],
+ "grade_override": "A",
+ "override_reason": "PI 包成单客户，Simon 标签 活跃：活跃/可发展 → A（值得长期跟进）",
  "channels": {
-  "网站": "https://infrateq.com/156-industrial-poe-switch（工业 PoE 类目）/ https://divatel.id/",
-  "直邮": "ismed@divatel.co.id（CEO，用户表）",
-  "WhatsApp": "在线（用户表）",
-  "电话/WA": "+62 851-7306-0800（销售，官网公开）/ +62 852-8940-4589（Ismed S.）",
-  "邮箱（公开）": "sales@divatel.id / info@divatel.co.id"
+  "公开动态平台（监控中，T29-U18）": "⚠ belnetworks.com 已不在客户手中：2026-10-23 为 1st Domains（新西兰）停放页；RDAP 显示该域名 2024-08-16 被重新注册（eNom，NS 1stdomains.net.nz），到期 2027-08-16。公开动态平台：无（LinkedIn/Facebook 公司页未检索到）；唯一可靠通道 = WhatsApp +234 702 918 6461"
  },
  "signals": [
-  "CEO 直接沟通，6 次回复——决策人在手",
-  "infrateq.com 的工业 PoE 型号 HR600-AFG-822S 命名与 HRUI 型号规则一致——客户已在卖 HRUI 源产品（Saga 同源渠道 HRUI），Marvell 线可作升级位（2026-10-21）"
+  "⚠ 2026-10-23 核查：客户邮箱域 belnetworks.com 自 2024-08-16 起由第三方注册并停放（不是客户的网站）。info@belnetworks.com 很可能收不到或被陌生人收到——对 Biz-Ethics 的任何报价/单据改走 WhatsApp +234 702 918 6461，并向 Valentine 要一个新邮箱；A 邮箱入库后核对 2024-09 以来与他们的邮件实际走的是哪个地址"
  ],
- "risks": [
-  "印尼 SNI/Postel 认证由进口方；价格敏感"
- ],
- "saga_fit": {
-  "p1": "STI-288DGGPM",
-  "tier": 20,
-  "why": "电商分销工业 PoE（InfrateQ 自有标，HR600- 系列）：STI-288DGGPM 为 Marvell 升级位，STC-28DGGPM 商用位；分销 20% 档"
+ "watch": {
+  "as_of": "2026-10-23",
+  "github_watch": [],
+  "web_watch_targets": "scripts/web_watch/targets.json#SA-079",
+  "status": "data/customer_watch/当前状态.md",
+  "log": "data/customer_watch/变化日志.md"
  },
- "email_hook": "Next to the HR600-AFG-822S you list on infrateq.com, the Marvell-based 8-port PoE+ 2-SFP managed DIN switch gives you a higher-tier SKU in InfrateQ packing at EXW cost; I can send the side-by-side spec sheet.",
+ "deep": {
+  "done_at": "2026-10-23",
+  "level": "公开平台核查（T29-U18，针对性：只核活跃平台与触达通道）"
+ },
+ "binding_level": "轻度",
+ "binding_src": "Simon《客户绑定情况分析.docx》（Extra Info，2026-10-22 入库）",
  "mail_review": {
   "binding": {
-   "level": "未绑定（2024-07 CEO 要求转 WeChat/WA 并要目录价表——此后邮件无往来，若有进展在 WeChat；Elsa 箱：`to:infrateq.id OR to:divatel.co.id` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 2 / 来 2）（第 74 批(g)））",
-   "type": "雅加达集成 + 电商（VoIP/安防/工业网络）；CEO Ismed 直联（WeChat ismedsitepu，WA +62 852 8940 4589）——研究档称「6 次回复」在 WA",
-   "sieve": "2",
-   "stop": "邮件层 2024-07-04 后无；其邮箱收不到 Google Drive 链接",
-   "revive": "WeChat/WA 层（不在仓库）",
-   "lane": "ID 非主攻",
-   "cadence": "邮件仅 2 封去信（2024-07-03/04）",
-   "evidence": "k=6f6c394625650200 / 7648ab2452628580 / ad13f76074d6ed39"
+   "level": "轻度（Simon U28 定级；12 单 RMB ≈101k，2024-09 → 2026-08，三家供应商线都买过；Elsa 箱：`to:belnetworks.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(g)））",
+   "type": "尼日利亚系统集成/转售（BEL Networks 品牌 BNSC-；WhatsApp only，域名停放）",
+   "sieve": "3（12 单、自有品牌贴 BNSC 前缀）",
+   "stop": "无停点；渠道脆弱（belnetworks.com 停放、info@ 不安全、仅 WhatsApp +234 702 918 6461）",
+   "revive": "已在复购；下一级 = 其自有品牌 BNSC 系列把 Saga 规格写进销售资料；WhatsApp 问 Netstream 线：100G 核心用得如何、25G/100G 扩容与 BNSC-28GPM 下一批一起走",
+   "lane": "NG 已通（客户货代 + 货代走账）",
+   "cadence": "最后 PI 2026-08-30；邮件 0 封",
+   "evidence": "PI 包 12 单（BNSC-28GPM / BNSC-4168XGGCM / STH-2C24XF-SFI 等）；U18 研究档；两个自有品牌 BNSC + Netstream（PI 原件），Netstream 线含 CENTEC STH-2C24XF-SFI ×2（2025-11）"
   },
-  "situation": "Ismed 2024-07-04 回：加我 WeChat/WA，目录和价表发到 ismed@；Simon 加了 WeChat 并指出其邮箱收不到 Drive 链接，对方给了备用邮箱。邮件到此为止——后续若有，全在 WeChat。",
-  "need": "离网/太阳能 CCTV 用工业 DC PoE（研究档）。",
-  "breakpoint": "渠道转到 WeChat 后仓库失明；评级应以 WeChat 记录为准（Simon 手上）。",
-  "saga_now": {
-   "p1": "STI-288DGGPM / HRUI 工业款（研究档 P1）",
-   "tier": 25,
-   "price": "—",
-   "why": "以 WeChat 为准。已打开的主题（2/2 封有打开记录）：「industrial poe switch」(2024-07-03)、「Re: industrial poe switch」(2024-07-04) → 读者兴趣偏「工业」；与 P1 同类，继续",
-   "repeat": [],
-   "gaps": [
-    "WeChat 往来内容未入库"
-   ]
-  },
-  "next_move": {
-   "when": "按 Simon WeChat 节奏",
-   "channel": "WeChat",
-   "action": "—（用 one_question 这句，WhatsApp 直接发，不附资料）（第 75 批(s) 2026-10-25：WeChat 一句话版已写 `draft_en`）",
-   "one_question": "Next to the HR600-AFG-822S you list on infrateq.com, the Marvell-based 8-port PoE+ 2-SFP managed DIN switch gives you a higher-tier SKU in InfrateQ packing at EXW cost; I can send the side-by-side spec sheet."
-  },
+  "as_of": "2026-10-24",
   "facts": [
    {
-    "date": "2024-07-04",
-    "dir": "来",
-    "who": "Ismed S（CEO）",
-    "quote": "Kindly chat me on wechat ismedsitepu, WA +6285289404589. Please also send catalog and price list",
-    "why": "转 WeChat",
-    "k": "6f6c394625650200"
+    "date": "2024-09-08",
+    "dir": "内",
+    "who": "Saga 首单贴牌工作单（PI 包 1st order《Design.docx》+ 两份《发货_箱标.docx》）",
+    "quote": "包装盒 3 款按客户 BNSC 品牌重排版：315×215×85 mm → BNSC-228GP；312×262×84 mm → BNSC-28GPM；525×390×95 mm → BNSC-424DGGPM（文字 Times New Roman，图案铺满 70%，「设计好以后需发给客户确认」）；机身标签：BNSC-228GP「12 Port Commercial PoE Switch，8 PoE + 2 GE + 2 SFP，120W」SN 202409080001 起 5 台、BNSC-28GPM「10 Port … L2 Managed」25 台，「注意是 PoE 不是 POE」；HRUI 30 台 + SmartByte 12 台分别送 广州市越秀区瑶台前进北街73号（瑶台二社创意园）B排B117 Jessica/管丹 13544315510，箱标 A4 贴「品牌 无 · VALENTINE (LAGOS-NIGERIA)」",
+    "why": "Mbata 从第一单就是 BNSC 自有品牌 + 三款彩盒 + 顺序 SN——这就是 Simon 说的「轻度绑定」的实物：盒子、标签、SN 规则都已按他的品牌做过一次，复购时零沟通成本；也记下第 4 个广州货代仓（瑶台前进北街）",
+    "k": "data/pi_2026-10/text/…12_尼日利亚_Mbata…1st_order__Design.docx / 采购_Hrui__发货_箱标.docx / 采购_Smartbyte__发货_箱标.docx"
    },
    {
-    "date": "2024-07-04",
+    "date": "2024-09-09",
     "dir": "去",
-    "who": "Simon",
-    "quote": "Just sent an invitation on WeChat… It seems that your email IDs cannot receive external google drive information?",
-    "why": "渠道切换",
-    "k": "ad13f76074d6ed39"
+    "who": "Saga 内部（Design.docx，1st order 包装盒设计）",
+    "quote": "一共是3个包装盒…315x215x85mm: BNSC-228GP；312*262*84mm: BNSC-28GPM；525*390*95mm: BNSC-424DGGPM…所有文字暂使用 Times New Roman…设计好以后需发给客户确认",
+    "why": "Mbata（拉各斯）从首单起就是 BNSC 自有品牌三款盒型 + 商业管理说明书 + 箱标（HRUI 线与 Smartbyte 线各一套箱标）；12 单 ≈¥101k 全是贴牌复购——「WhatsApp 客户没有邮箱码」但 Drive 里的包装/说明书文件就是绑定证据",
+    "k": "Drive PI 文件夹（data/pi_2026-10/text） 12_Mbata"
    },
    {
-    "date": "2024-09-26",
-    "dir": "来",
-    "who": "用户表（Simon 跟进记录；渠道 微信）",
-    "quote": "用户表跟进：推「48口工业poe」→ 对方「hi」",
-    "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
-    "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.7 926"
+    "date": "2025-03-02",
+    "dir": "内",
+    "who": "Saga 发货信息单（PI 包 3rd/4th/10th/11th order「发货信息_Hrui.docx」）",
+    "quote": "3rd 单（STEC20250302012，2025-03）：申娟 15811851420，广州市越秀区广园西路83号宇航通讯大厦负二楼227档（添越中心），7 台 12 kg；4th 单（STEC20250609012，2025-06）：Tony Uhutex 13119574676，广州市越秀区瑶台西街89号（美泰城）A2038 档，5 台 8.1 kg；10th/11th 单（2026-06/07）与「14 台」：陈静怡 Serena 13316225849，广州市花都区花山镇东湖村长怖庄裕丰庄2号E库，7 台 12 kg / 2 台 3 kg / 14 台 20 kg；每单都写「商业交换机 Commercial Ethernet Switch · HS 8517622990 · 品牌 无 · 没有内置电池，普货，不带电不带磁」；客户信息 VALENTINE (LAGOS-NIGERIA) 0803388325",
+    "why": "Mbata 的货从来不出 Saga 的报关线——三个不同的广州货代仓（越秀两处、花都一处）由客户指定，Saga 只送到仓、写发货信息单；这是「客户自带货代」这条物流线最完整的样本（也说明他在广州有稳定的拼箱渠道，换供应商成本低）",
+    "k": "data/pi_2026-10/text/…12_尼日利亚_Mbata…发货信息_Hrui*.docx / Shipping_Mark_STEC20260618012.docx"
    },
    {
-    "date": "2024-11-18",
-    "dir": "来",
-    "who": "用户表（Simon 跟进记录；渠道 微信）",
-    "quote": "用户表跟进：推「引流机型」→ 对方「IP67 switch」",
-    "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
-    "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.7 1118"
+    "date": "2025-03-06",
+    "dir": "内",
+    "who": "Saga 采购合同 ×2（第 3 单 STEC20250302012 对应：HRUI + 凌特，合同号 STSC20250306012）",
+    "quote": "HRUI：ZX-AFGM-82NS ×7 @¥335（英规电源、蓝色 logo 管理界面、型号改 BNSC-28GPM）= ¥2,345；凌特：LT-S8328GP-4GX24GT-S → BNSC-424DGGPM ×6 @¥750 = ¥4,500，备注「需要刷蓝色的 Logo，后续设备基本都刷这个；刷标网板费用加在合同中请保存好；该客户这次也下了洪瑞的设备（7 台），需要你们帮忙换包装盒 + 刷标」；PI 13 台 ¥7,725。",
+    "why": "**上游涨了、Saga 没涨**：HRUI 8 口 2025-03 ¥335 → 2026-06 ¥355.1（+6%），凌特 24 口 ¥750 → ¥765（+2%），而 BNSC-28GPM 对客价 2025 → 2026 维持 ¥408 → 毛利从 17.9% 掉到 13.0%；另：Mbata 的 HRUI 机器要送到凌特那边统一刷标装盒——两厂合流的实际操作在凌特",
+    "k": "PI 包 `12_尼日利亚_Mbata/3rd order/采购_Hrui|采购_Smartbyte/采购合同_STSC20250306012.xls`"
    },
    {
-    "date": "2024-12-11",
-    "dir": "来",
-    "who": "用户表（Simon 跟进记录；渠道 微信）",
-    "quote": "用户表跟进：推「电口」→ 对方「hi」",
-    "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
-    "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.7 1211"
+    "date": "2025-11-23",
+    "dir": "去",
+    "who": "Saga PI STEC20251123012（Elsa 开，Buyer: Biz-Ethics Ltd., Valentine Mbata）",
+    "quote": "STC-424XGGPM-280W → Netstream-42410G280W ×8 @¥1,100；STC-4168XGGCM → BNSC-4168XGGCM ×1 @¥2,250（L3 managed）；STH-2C24XF-SFI → Netstream-24X100G-SFI ×2 @¥7,500（2×100G QSFP28 + 24×10G SFP, 0.5U, VXLAN/EVPN/BGP/OSPF/MPLS/MLAG）；TOTAL 11 件 ¥26,050；T/T in advance, EXW；Warranty 1 year",
+    "why": "Mbata 有两个品牌：BNSC（接入 PoE/L3 汇聚）和 **Netstream**（10G 上联 PoE + CENTEC 100G 核心）——第 9 单把 CENTEC STH-2C24XF-SFI 以 Netstream 牌卖进拉各斯 = 全库唯一一个「WhatsApp 小客户买 CENTEC 核心机」的成交；采购侧 Hohunet（CENTEC）+ SmartByte ¥17,770。下次复购问 Netstream 线的 100G/25G 扩容，而不只问 BNSC-28GPM",
+    "k": "Drive PI 文件夹 12_Mbata 9th_order STEC20251123012.xls"
    },
    {
-    "date": "2025-01-03",
-    "dir": "来",
-    "who": "用户表（Simon 跟进记录；渠道 微信）",
-    "quote": "用户表跟进：推「迷你」→ 对方「hi」",
-    "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
-    "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.7 1.3"
+    "date": "2025-12-01",
+    "dir": "内",
+    "who": "Hohunet 黄玉芳 → 仨戛（发货相关图片.docx）",
+    "quote": "型号：Netstream-24X100G-SFI；SN H241226N00075 / H241226N00024；出货：快递到客户指定的国内位置；收货人 Anna/安娜 18373360223，惠州市惠阳区镇隆镇力合优科创新基地 1 栋 8 楼 凌特华盛科技有限公司",
+    "why": "Mbata 的两台 CENTEC（STH-2C24XF-SFI = Hohunet Netstream-24X100G-SFI）先寄到惠州凌特华盛（SmartByte/HRUI 所在园区）与 Smartbyte 线的货合箱再走货代——CENTEC 单的物流默认走「惠州合箱」，不是从 Hohunet 直发；另一台 S5648X-4Z-SI 同批",
+    "k": "pi_doc"
+   },
+   {
+    "date": "2026-06-18",
+    "dir": "去",
+    "who": "Saga PI STEC20260618012（第 10 单，Elsa 开）",
+    "quote": "STC-28GPM → BNSC-28GPM ×5 @¥408 = ¥2,040，\"Netstream Brand Customized Packing Box\"；Production Time 1 Month；Warranty 1 year；收货地址 广州市越秀区瑶台西街89号(美泰城)A2038档 亨瑞 13503077498。",
+    "why": "2026 年的 BNSC-28GPM 补货节奏：06-18 ×5 → 07-18 ×2 → 08-30 ×12；单价 ¥408 三单不变",
+    "k": "PI 包 `12_尼日利亚_Mbata/10th order/STEC20260618012.xls`"
+   },
+   {
+    "date": "2026-06-22",
+    "dir": "内",
+    "who": "Saga 采购合同 → 深圳洪瑞光祥（HRUI，刘长桂）",
+    "quote": "ZX-AFGM-82NS（2×GE SFP + 8×GE PoE af/at 120W，L2 管理，PoE 看门狗，英规电源）×5 @¥355.1 = ¥1,775.5；备注：中性标签写客户型号、用买方提供的说明书双面打印、不放保修卡、中性 PVC 膜、定制包装盒（寄给厂）、管理界面型号改为 BNSC-28GPM 不得出现卖方型号、不加 logo；工厂直发 款到生产 包邮。",
+    "why": "**BNSC-28GPM 的真身是 HRUI（Realtek 线）ZX-AFGM-82NS，不是 Marvell**：卖 ¥408 / 进 ¥355.1 → 毛利 ¥52.9 = **13.0%**，低于 Realtek 20% 底线——这条主力补货 SKU 一直在亏底线卖（绑定价，Simon 定）；定制项 7 条是他每单固定要求，照抄即可",
+    "k": "PI 包 `10th order/采购合同_STEC20260618012.xls`"
+   },
+   {
+    "date": "2026-07-18",
+    "dir": "去",
+    "who": "Saga PI STEC20260718012（第 11 单）+ 采购合同（HRUI）",
+    "quote": "BNSC-28GPM ×2 @¥408 = ¥816；采购 ZX-AFGM-82NS ×2 @¥355.1 = ¥710.2（同 7 条定制备注）。",
+    "why": "2 台也开单、也走工厂直发——他的补货是「项目来一个买一批」，不是囤货",
+    "k": "PI 包 `11th order/STEC20260718012.xls` + `采购合同_STEC20260718012.xls`"
+   },
+   {
+    "date": "2026-08-30",
+    "dir": "去",
+    "who": "Saga PI STEC20260830012（第 12 单）",
+    "quote": "STC-28GPM → BNSC-28GPM ×12 @¥408；STC-424DGGPM → BNSC-424DGDPM ×1 @¥946；TOTAL 13 件 ¥5,842；T/T in advance, Full",
+    "why": "2026 年三单（06-18 ×5 / 07-18 ×2 / 08-30 ×12）都是 BNSC-28GPM 补货，单价从 ¥385（2025）涨到 ¥408（+6%）仍复购——价格弹性低、节奏 1–2 个月；Netstream 线自 2025-11 后没有再买，是下一问",
+    "k": "Drive PI 文件夹 12_Mbata STEC20260830012.xls"
+   },
+   {
+    "date": "2026-08-31",
+    "dir": "内",
+    "who": "Saga 采购合同 → 深圳凌特华盛（SmartByte，Peter Hu）+ 供方销售合同 P20260831-02",
+    "quote": "LT-S8328GP-4GX24GT-S（AC5 爆款，L2+，24×GE PoE + 4×1G/2.5G SFP，280W）→ 买方型号 BNSC-424DGGPM ×1 @¥765（未税）；交货 2026.9.2；发货地址「经双方协商后，直接发给货代处理」；付款 2026-09-07 ¥765 转 罗辉。",
+    "why": "第 12 单里那台 24 口：卖 ¥946 / 进 ¥765 → 毛利 ¥181 = **19.1%**（Marvell 底线 25% 也没到）；两条供应线（HRUI 8 口 / SmartByte 24 口）同时给同一客户贴 Netstream/BNSC 标",
+    "k": "PI 包 `采购合同_STEC20260830012.xls` + `郑州仨戛…P20260831-02_未税765RMB.doc` + `货款支付记录.png`"
+   },
+   {
+    "date": "2026-09-08",
+    "dir": "内",
+    "who": "发货信息（Hrui 14 台 / Smartbyte 1 台）+ 加运美面单 JYM800114534793",
+    "quote": "收件：陈静怡 Serena 13316225849，广州市花都区花山镇东湖村长怖庄裕丰庄2号E库；品名 商业交换机，14 台/20 kg（HRUI）+ 1 台/4 kg（SmartByte），海关编码 8517622990，品牌 无；客户信息 VALENTINE (LAGOS-NIGERIA) 0803388325；2026-09-08 13:07 广州签收。",
+    "why": "他的广州集运点 2026 年换成花都 Serena 仓（PI 抬头仍写越秀美泰城亨瑞）——U28「客户自己的广州货代」线；Saga 只负责国内段，两家工厂各自直发到同一仓",
+    "k": "PI 包 `发货信息_Hrui_14台.docx` / `发货信息_Smartbyte_STEC20260830012.docx` / `14pcs_shipping_info.png`（OCR）"
    }
   ],
-  "proof_gaps": [],
-  "draft_en": {
-   "subject": "WeChat / 私信一句话（复制即发；不发邮件）",
-   "body": "Pak Ismed, Simon from Saga Telecom. Next to the HR600-AFG-822S on infrateq.com, a higher-tier SKU in InfrateQ packing: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, L2+ managed with ring redundancy, Marvell-based, dual DC input, -40 to 75 C - STI-288DGGPM - $137.5 EXW (MOQ 1, 15-day validity). For the off-grid solar CCTV sites, the DC input range matters - what battery voltage do those sites run, 12/24 or 48 V?"
+  "situation": "拉各斯 Biz-Ethics / Valentine Mbata：WhatsApp 客户（+234 702 918 6461），S/A 邮箱 0 封，证据全在 Drive PI 文件夹（12 单 ≈¥101k，2024-09 → 2026-08）。两个自有品牌：BNSC（STC-28GPM / STC-228GP / STC-424DGGPM 贴牌，三款定制盒）与 Netstream（STC-424XGGPM-280W 10G 上联 + CENTEC STH-2C24XF-SFI 2×100G 核心，2025-11）。2026 年三单全是 BNSC-28GPM 补货（¥385→¥408 照买）。",
+  "need": "BNSC 线：8 口 PoE 管理（STC-28GPM）稳定补货 + 24 口 PoE（STC-424DGGPM）零星；Netstream 线：10G 上联 PoE 与 CENTEC 核心（ISP/园区骨干），2025-11 之后未再买；包装/说明书/箱标全按两套品牌模板。",
+  "next_move": {
+   "when": "2026-11（BNSC-28GPM 上次 08-30，按 1–2 个月节奏到期）",
+   "channel": "WhatsApp（Elsa 开 PI）",
+   "action": "补货问一句的同时，第一次主动问 Netstream 线：两台 STH-2C24XF-SFI 用得怎样、要不要 25G/100G 扩容或第二台 10G 上联 PoE；别只等他报 BNSC 数量（第 76 批(b) 2026-10-25：audit_ab 硬错误修正：tier 字段规范为数字）",
+   "one_question": "Valentine, next BNSC-28GPM batch — same 12 pcs? And how are the two Netstream 24X100G cores running: any plan to add 25G/100G ports or more 10G-uplink PoE for that network?"
   },
-  "as_of": "2026-10-24"
+  "draft_en": {
+   "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+   "body": "Valentine, next BNSC-28GPM batch — same 12 pcs? And how are the two Netstream 24X100G cores running: any plan to add 25G/100G ports or more 10G-uplink PoE for that network?"
+  },
+  "saga_now": {
+   "p1": "BNSC-28GPM（= HRUI ZX-AFGM-82NS，Realtek 线）稳定补货；BNSC-424DGGPM（= SmartByte LT-S8328GP-4GX24GT-S）零星；Netstream 线 STC-424XGGPM-280W + STH-2C24XF-SFI 待复购",
+   "tier": null,
+   "price": "绑定价（人民币，EXW 工厂直发到他的广州仓）：BNSC-28GPM ¥408（进 ¥355.1 → 13.0%）；BNSC-424DGGPM ¥946（进 ¥765 → 19.1%）；Netstream-42410G280W ¥1,100；BNSC-4168XGGCM ¥2,250；Netstream-24X100G-SFI（STH-2C24XF-SFI）¥7,500（2025-11）。下一批 BNSC-28GPM 按 ¥408 不动（Simon U28 绑定价）；若要回到 Realtek 20% 底线需 ¥444——这是 Simon 的决定，不在信里提；历史：2025-03 HRUI 进价 ¥335 时同一 ¥408 的毛利是 17.9%，上游 2026 涨到 ¥355.1 后变 13.0%——下次 HRUI 再涨就只能动价",
+   "why": "12 单、两套自有品牌、三条供应线都买过；WhatsApp 直达；毛利低但复购稳｜档位说明（原 tier 字段文字「RMB 货代走账（不走 USD 三档）」移此）：RMB 货代走账（不走 USD 三档）",
+   "repeat": [
+    "BNSC-28GPM：2026-06 ×5 / 07 ×2 / 08 ×12（1–2 个月一批）"
+   ],
+   "gaps": [
+    "主力 SKU 毛利 13.0% < Realtek 底线 20%（Q：是否下批调价——Simon 定，默认不动）",
+    "Netstream 线（10G 上联 PoE + CENTEC 核心）2025-11 后未复购，没问过使用情况",
+    "没有 Simon 的《成本统计.xlsx》，毛利按采购合同反推"
+   ]
+  },
+  "proof_gaps": [
+   "邮件 0 封，全部证据来自 Drive PI 包（PI + 采购合同 + 发货信息）；WhatsApp 聊天记录不在库"
+  ],
+  "breakpoint": "BNSC 线按 1–2 个月节奏复购（上次 2026-08-30），Netstream 线（CENTEC 核心 + 10G 上联 PoE）2025-11 之后未再买；渠道只有 WhatsApp（belnetworks.com 停放，info@ 不安全）；毛利 13–19%（低于 Realtek 20% 底线，Simon U28 绑定价不动）——断点 = Netstream 线为何停、以及任何涨价都会被货代走账的价格记忆顶住（全量审计 2026-10-25 U57 补）"
  }
 }

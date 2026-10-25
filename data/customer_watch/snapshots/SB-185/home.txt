@@ -1,64 +1,56 @@
-# SB-185 netbergtw.com · home · https://netbergtw.com/ · fetched 2026-10-25T07:41:18Z · HTTP 200
-netberg | Main
-10F, No. 111-3, Xiyuan Road, Zhongli District, Taoyuan City, 320 Taiwan R.O.C. + 886-3-2609203
-Main
-Products
-Fully Programmable Switches
-Switches
-Open NOS
-Custom Networking Solutions
-Support
-Manuals
-Articles
-Netberg SONiC Documentation & Configuration Guide
-GitHub Repository
-About Netberg
-Use Cases and Customer Success
-Netberg Company News & Product Announcements
-Netberg Industry Partners & Open Source Ecosystem
-Main
-Products
-Fully Programmable Switches
-Switches
-Open NOS
-Custom Networking Solutions
-Support
-Manuals
-Articles
-Netberg SONiC Documentation & Configuration Guide
-GitHub Repository
-About Netberg
-Use Cases and Customer Success
-Netberg Company News & Product Announcements
-Netberg Industry Partners & Open Source Ecosystem
-Our products
-Custom Networking Solutions
-Ethernet Switches
-Fully Programmable Switches
-Open NOS
-NEWS
-Latest news
-Netberg Announces the Aurora X2 Switch Series, Built on Xsight Labs’ Programmable X2 Silicon
-Taoyuan, Taiwan — 26th of August, 2026 — Netberg, a leading provider of open networking solutions, today announced the Aurora X2 Series, its newest flagship Ethernet switch family. Built on Xsight Labs’ programmable X2 switch silicon, the Aurora X2-81 and Aurora X2-71 bring open networking performance, scalability, and flexibility to modern data centers.
-Netberg SONiC 202511.n0: Powering Next-Level Performance, Security, and AI-Ready Networks
-Taoyuan, Taiwan, 15st of April 2026.
-Netberg, a leading provider of open networking solutions, is proud to announce the release of SONiC 202511.n0 , the latest enterprise-grade distribution of the open-source SONiC networking operating system.
-2025 July EOL Notice
-Taoyuan, Taiwan
-Effective July 7, 2025: The following products are now End of Life (EOL): Aurora 750, Aurora 710, and Aurora 610.
-Netberg releases Netberg SONiC 202411.n0: Enhanced Features & Performance
-Taoyuan, Taiwan, 29th of April 2025.
-The latest release of SONiC 202411.n0 – an enterprise distribution of SONiC by Netberg – introduces new features and enhancements tailored to improve performance in data center, edge, and campus environments.
-Netberg supports Ubuntu 24.04 Noble Numbat
-Taoyuan, Taiwan, 20th of January 2025.
-Netberg, the leading provider of open networking solutions, announces support of Ubuntu 24.04 Noble Numbat on its Broadcom-enabled portfolio.
-Netberg launches Aurora 721 and Aurora 421 programmable switches
-Taoyuan city, Taiwan, 24th of June 2024.
-Netberg announced the new Aurora 721 100G and Aurora 421 10G switches, which feature programmable pipelines powered by Broadcom StrataXGS® Trident3 Ethernet switch chips.
-Address: 10F, No. 111-3, Xiyuan Road, Zhongli District, Taoyuan City, 320 Taiwan R.O.C.
-Tel: + 886-3-2609203
-Email: sales@netbergtw.com
-Main
-Products
-About Netberg | Open Networking & Hardware Solutions
-Netberg Company News & Product Announcements
+# SB-185 Zeytek · home · https://zeytek.com.tr/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+ZEYTEK BİLİŞİM VE TEKNOLOJİ ÜRÜNLERİ
+Anasayfa
+Hakkımızda
+Ürünler
+Dikili Tip Kabinetler
+Duvar Tipi Kabinetler
+Outdoor Kabinetler
+Kabinet Aksesuarları
+Data Network Çözümleri
+Data Center Çözümleri
+Referanslar
+İLETİŞİM
+Neden Zeytek?
+Sizlere, ihtiyaç duyduğunuz birçok ürünü tek bir çatı altında sunuyor, operasyon maliyetlerinizi minimize ederek, şirket verimliliğinizi arttırmayı hedefliyoruz.
+Uzmanlık
+Değerli müşterilerimiz ile kurduğumuz bağlar ve yılların getirdiği bilgi birikimi sayesinde müşterilerimizin ihtiyaçlarını tespit ediyor ve doğru çözümü üretiyoruz.
+Yüksek Stok/Hızlı Teslimat
+Hızlı ve zamanında teslimat ile iş kayıplarınızı minimuma indiriyor, istek ve ihtiyaçlar doğrultusunda geniş ürün yelpazesi ve yüksek stok ile ürün temini sağlıyoruz.
+Uygun Fiyat
+Uygun fiyat avantajı sağlıyor, bütçenize artı değer kazandırıyoruz.
+7/24 Ulaşılabilirlik
+Söz konusu sizin sorunlarınız ise mesai kavramını ortadan kaldırıyoruz. Bize dilediğiniz zaman ulaşabilirsiniz.
+ÜRÜNLERİMİZ
+Geniş seçeneklerle 500'den fazla ürünümüzü ilginize sunarız.
+DİKİLİ TİP KABİNETLER
+DUVAR TİPİ KABİNETLER
+OUTDOOR KABİNETLER
+KABİNET AKSESUARLARI
+DATA NETWORK ÇÖZÜMLERİ
+DATA CENTER ÇÖZÜMLERİ
+Kataloğumuzu PDF olarak indirebilirsiniz.
+İNDİR
+You can download our catalog as a PDF.
+DOWNLOAD
+BİZ KİMİZ ?
+Hakkımızda
+Bilişim ve Teknoloji ürünleri alanında faaliyet gösteren şirketimiz, 2019 yılında kurulmuştur.
+15 yıllık sektör tecrübesi ve bilgi birikimi ile kurulan şirketimiz, endüstriyel tesisler, hükümet binaları, hastahaneler, bankalar, zincir mağazalar, çok katlı binalar vb. yapılarda ihtiyaç olan, zayıf akıma yönelik yapısal kablolama, sistem odası ve altyapı sistemleri malzemelerinin tedarikini sağlamaktadır
+DEVAMINI OKU
+BİZE ULAŞIN
+Daha fazla detay almak için bize ulaşabilirsiniz.
+İLETİŞİM
+ZEYTEK BİLİŞİM VE TEKNOLOJİ ÜRÜNLERİ
+15 yıllık sektör tecrübesi ve bilgi birikimi ile kurulan şirketimiz, endüstriyel tesisler, hükümet binaları, hastaneler, bankalar, zincir mağazalar, çok katlı binalar vb. yapılarda ihtiyaç olan, zayıf akıma yönelik yapısal kablolama, sistem odası ve altyapı sistemleri malzemelerinin tedarikini sağlamaktadır.
+MENÜ
+ANASAYFA
+HAKKIMIZDA
+REFERANSLAR
+ÜRÜNLER
+İLETİŞİM
+Çatalmeşe Mahallesi, Saray Caddesi,
+NO:261/A, Çekmeköy/İSTANBUL
+(216) 755 7233
+info@zeytek.com.tr
+ZEYTEK BİLİŞİM VE TEKNOLOJİ ÜRÜNLERİ © Copyright Design by html.design

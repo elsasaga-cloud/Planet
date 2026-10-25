@@ -1,130 +1,107 @@
-# SB-411 saucontech.com · home · https://www.saucontds.com/ · fetched 2026-10-25T07:41:18Z · HTTP 200
-Saucon Technologies
-TECHNOLOGIES
-Technologies
-IoT Telematics
-Electric Revolution
-Smart Data Delivery
-Seamless Integration
-SOLUTIONS
-Bus and Motorcoach
-Real-Time Monitoring
-Safe Driver
-Electronic Driver Logs
-Mobile Apps and Data Integration
-Fleet Maintenance and DVIR
-Compliance
-Passenger Wi-Fi
-Onboard Video and Security
-Scheduling, Dispatch and Forecasting
-Saucon Vision AI
-Touch to Talk
-Remote Service Tool
-Tire Pressure Monitoring
-Remote Regeneration
-Data Systems Integration
-Tire Pressure Monitoring
-Fueling Automation
-Smart Filtering
-Modbus Gateway
-Remote Generator Monitoring
-Data Integration
-Electrification
-Battery Electric
-Hybrid Electric
-Hydrogen Electric
-ABOUT US
-GET IN TOUCH
-It’s Time to Switch to Smarter Intelligence
-Switch from outdated systems to smarter AI-powered fleet visibility with Saucon VISION AI.
-Show Me More
-Operational Data in the Palm of your Hands
-Access critical data with the Saucon Mobile Portal. Anytime. Anywhere.
-Show Me More
-Smarter Telematics that Powers Performance
-Actionable vehicle insights improve uptime, efficiency, and operational visibility everywhere.
-Show Me More
-Turn Data into Operational Intelligence
-Smart data insights drive faster, better operational decisions.
-Show Me More
-Electrification Intelligence with Smarter Fleet Data
-Maximize electric vehicle efficiency with intelligent performance monitoring.
-Show Me More
-THE SAUCON PORTAL HAS GONE MOBILE
-Stay connected to your operation wherever you are. View live alerts, track assets, communicate with drivers and access critical data from the palm of your hand.
-LAUNCH MOBILE PORTAL
-EXPLORE FEATURES
-BOOK A LIVE DEMO
-DISCOVER SAUCON
-THE SAUCON PORTAL HAS GONE MOBILE
-Stay connected to your operation wherever you are. View live alerts, track assets, communicate with drivers and access critical data from the palm of your hand.
-LAUNCH MOBILE PORTAL
-EXPLORE FEATURES
-BOOK A LIVE DEMO
-DISCOVER SAUCON
-Customer Testimonial
-“Saucon has probably been the best vendor we have ever had. We just use it, and it works.”
-Matt Dance
-Director of Safety and Risk Management
-Champion Coach
-Customer Testimonial
-“Saucon has probably been the best vendor we have ever had. We just use it, and it works.”
-Matt Dance
-Director of Safety and Risk Management
-Champion Coach
-Fleet Maintenance and DVIR
-Unlock total fleet visibility with integrated Maintenance and DVIR intelligence. Saucon captures real-time vehicle data, automates workflows, and predicts issues before becoming costly problems helping to optimize performance, control costs, and ensure every asset operates safely, efficiently, and without disruption.
-Show Me More
-FEATURED SOLUTION
-Fleet Maintenance and DVIR
-Unlock total fleet visibility with integrated Maintenance and DVIR intelligence. Saucon captures real-time vehicle data, automates workflows, and predicts issues before they become costly problems, helping to optimize performance, control costs, and ensure every asset operates safely, efficiently, and without disruption.
-Show Me More
-Saucon Remote Service Tool (RST) puts your fleet at your finger tips
-Cut downtime and costs with Saucon RST. Remotely diagnose, clear codes, and run regens using Cummins Insite® and other tools—without leaving the shop.
-Show Me More
-Integrated Bus Solutions that improve Safety and Performance
-Saucon is transforming the way people move, and making a daily impact on the ways clients manage their business.
-Saucon’s innovative solutions can be implemented to perform as a comprehensive telematics platform and will integrate seamlessly with your existing systems.
-Show Me More
-Saucon’s Powerful IoT Integrated Platform
-With over 25 years of innovation and discovery in the transportation industry, Saucon delivers end-to-end processing that is intelligent, and convenient – where safety is paramount.
-"Saucon is not simply a provider but a business partner that works with us to provide data analysis, compliance and best practices for our operations that increase efficiencies and profitability.”
-Jeff Shanker,
-Chief Strategy Officer, Black Tie Transportation
-Winston-Salem – North Carolina
-“When we sat down and talked to Saucon, I knew from the start that their system was more innovative and user-friendly, I liked what we saw.“
-Rick Wright
-Safety Manager, VIP Sports Getaway
-Abilene, Texas
-“The amount of information being collected from our equipment has allowed us to be proactive and identify areas where we could be safer and improve efficiency in our fleet. In today’s market, safety is supreme in every aspect of our business, and we are a safer operation with Saucon.”
-Matthew J. Dance
-Director of Safety & Risk Management, Champion Coach
-Greenville, South Carolina
-"In using Saucon RST, I have been able to get vehicle diagnostic engine data to view a vehicle in distress. I was able to clear fault codes and help the driver get the vehicle back to a location, all handled remotely; I didn't have to send a Tech out. Also, I love the fact that I can get real-time data in real time."
-Josh Henderson
-Technician Manager, MCA Transportation
-Orland, Florida
-OEM Partners
-Connect with Us
-Customer Support
-Sales Support
-News and Events
-Saucon Technologies
-2455 Baglyos Circle
-Bethlehem
-PA 18020
-USA
-Follow
-Let’s Talk
-
-TDSinfo@saucontech.com
-
-888.872.8206
-Support
-
-support@saucontech.com
-
-484-241-2515
-© Copyright Saucon Technologies 2024
-Saucon Technologies Privacy Policy
-© Copyright Saucon Technologies 2024
+# SB-411 Floter · home · https://floeter-sicherheit.de/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+Flöter SDT I Sicherheit, Detektei und Technik GmbH +49 (0) 34298 / 157 897 buero@floeter-sdt.de Sie haben Fragen?
+Menu
+Leistungsangebot
+Alarmanlagen Doorman Objektschutz Observation Revierfahrten Mall-Guard Videoüberwachung Kaufhausdetektiv Testkäufer Baustellenüberwachung
+Über Uns
+Lernen Sie uns kennen
+Kontakt
+Wir freuen uns auf Ihre Anfrage
+Zertifikate
+Professionelle Hilfe
+Karriere
+Wir sind ständig auf der Suche nach Verstärkung für unser Team.
+Doorman Sicherheit am Eingang. Präsenz zeigt Wirkung.
+Doorman
+Sicherheit am Eingang. Präsenz zeigt Wirkung.
+Kaufhausdetektive Sicher. Unsichtbar. Effektiv.
+Kaufhausdetektive
+Sicher. Unsichtbar. Effektiv.
+Unser Objektschutz Rundum geschützt. Rund um die Uhr.
+Unser Objektschutz
+Rundum geschützt. Rund um die Uhr.
+Videoüberwachung Jeder Winkel im Blick
+Videoüberwachung
+Jeder Winkel im Blick
+Testkäufer Wir prüfen, wo Ihr Service glänzt.
+Testkäufer
+Wir prüfen, wo Ihr Service glänzt.
+Mall-Guards: Ihre Sicherheit, unsere Mission! Diskret, effektiv, schützend.
+Mall-Guards: Ihre Sicherheit, unsere Mission!
+Diskret, effektiv, schützend.
+Flöter SDT | Sicherheit, Detektei und Technik
+Stehen Sie vor der Herausforderung von Inventurdifferenzen durch Diebstähle? Suchen Sie nach einem verlässlichen Partner, der Ihnen kompetente Lösungen bietet? Das erfahrene Team von Sicherheit Flöter steht Ihnen mit langjähriger Expertise zur Seite. Tauchen Sie auf den kommenden Seiten ein und entdecken Sie alle Details zu unseren hochwertigen Dienstleistungen im Bereich Sicherheitsdienst.
+Über uns
+Wir bieten Ihnen Sicherheitslösungen und individuelle Schutzkonzepte, passgenau auf Ihren persönlichen Bedarf ausgerichtet. Unser Dienstleistungsangebot ist breit aufgestellt, sodass unsere Mitarbeiter Sie rundum mit dem Einsatz modernster Technik in allen Sicherheitsfragen betreuen. Unser erfahrenes Team steht Ihnen vor Ort zur individuellen Beratung zur Verfügung.
+Mehr Erfahren
+IHRE VORTEILE MIT UNSEREM SICHERHEITSDIENST:
+Sie haben Fragen?
+IHRE VORTEILE MIT UNSEREM SICHERHEITSDIENST:
+langjährige Erfahrung in der Sicherheitsbranche professionelles und fachkundiges Personal modernste Überwachungstechnik für private und gewerbliche Zwecke Gewährleistung höchster Qualität durch umfassende Zertifizierungsmaßnahmen Kunden aus unterschiedlichsten Branchen, die von unseren Leistungen begeistert sind
+IHRE VORTEILE MIT UNSEREM SICHERHEITSDIENST:
+langjährige Erfahrung in der Sicherheitsbranche professionelles und fachkundiges Personal modernste Überwachungstechnik für private und gewerbliche Zwecke Gewährleistung höchster Qualität durch umfassende Zertifizierungsmaßnahmen Kunden aus unterschiedlichsten Branchen, die von unseren Leistungen begeistert sind
+UNSERE EINSATZORTE:
+SACHSEN SACHSEN ANHALT THÜRINGEN MECKLENBURG-VORPOMMERN LAND BERLIN
+Unsere Sicherheitsdienstleistungen im Gesamtüberblick
+Alarmanlagen
+Schützen Sie Ihr Zuhause und Ihr Unternehmen mit unseren modernen Alarmanlagen. Perfekte Sicherheit für jeden Bedarf!...
+Mehr erfahren
+Doorman
+Unser Doorman sichert den Eingang Ihres Unternehmens und setzt ein starkes Signal für die Sicherheit Ihrer Kunden und Mitarbeiter....
+Mehr erfahren
+Objektschutz
+Unser Objektschutz bietet zuverlässige Sicherheit für Menschen und Anlagen mit modernster Technik und langjähriger Erfahrung....
+Mehr erfahren
+Observation
+Unsere erfahrenen Detektive observieren für Sie diskret und effektiv, um gerichtsfeste Beweise zu liefern....
+Mehr erfahren
+Revierfahrten
+Unsere Revierfahrten bieten mobile Sicherheit vor Ort und schützen effektiv vor kriminellen Bedrohungen....
+Mehr erfahren
+Mall-Guard
+Unsere geschulten Shopping-Guards sichern Einkaufsbereiche und lösen Konflikte diskret und professionell....
+Mehr erfahren
+Videoüberwachung
+Unsere Videoüberwachung erfasst jeden Winkel in Ihrem Geschäft, Gebäude oder auf Ihrem Gelände und liefert klare Beweise....
+Mehr erfahren
+Kaufhausdetektiv
+Unsere Kaufhausdetektive schützen Ihr Geschäft vor Diebstahl und bleiben dabei diskret im Hintergrund....
+Mehr erfahren
+Testkäufer
+Unsere Testkäufer prüfen diskret Ihren Service und bieten wertvolle Einblicke für eine optimale Shop-Performance....
+Mehr erfahren
+Baustellenüberwachung
+Unsere Baustellenüberwachung schützt Ihre Baustelle rund um die Uhr mit moderner Technologie und erfahrenem Personal....
+Mehr erfahren
+Sie haben Fragen zum Thema Sicherheit?
+Gerne beraten wir Sie persönlich. Kontaktieren Sie uns dazu gerne unter!
+Kontaktanfrage
+Unsere Auszeichnungen - Ihre Sicherheit
+Wir bieten Ihnen höchste Qualität durch unsere DEKRA-Zertifizierung sowie die internationalen Standards ISO 14001 (Umweltmanagement) und ISO 9001 (Qualitätsmanagement). Diese Auszeichnungen bestätigen unser Engagement für Umweltbewusstsein und exzellente Qualität. Vertrauen Sie auf unsere zertifizierten Prozesse für zuverlässige Lösungen.
+Unsere Zertifizierungen im Detail
+Flöter SDT | Sicherheit, Detektei und Technik
+Dewitzer Straße 77h / D - 04425 Taucha
+Tel. 034298/157897 / Fax. 034298/157896
+Mobil: 0152 25221418
+E-Mail an Sicherheitsdienst Flöter
+Adresse & Kontakt
+Flöter SDT |
+Sicherheit, Detektei und Technik GmbH
+Dewitzer Straße 77h
+04425 Taucha
+Tel. 034298/157897
+Fax. 034298/157896
+Mobil: 0152 25221418
+BERATUNGSZEITEN
+Montag bis Freitag
+Uhr - Uhr
+KARRIERE
+Bereit für eine neue Herausforderung?
+Werde Teil unseres Sicherheits-Heldenteams!
+mehr erfahren
+Rückruf-Service
+Sie stimmen der Verarbeitung Ihrer Daten gemäß unserer
+Datenschutzerklärung
+zu. Hinweis: Sie können Ihre Einwilligung jederzeit per Mail an buero@floeter-sdt.de widerrufen.
+ABSENDEN
+Impressum Datenschutz

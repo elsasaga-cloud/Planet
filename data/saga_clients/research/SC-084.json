@@ -1,0 +1,73 @@
+{
+ "code": "SC-084",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（remoteham.com，快照 2026-10-21）",
+ "summary": "加拿大 LEGF / remoteham.com（业余无线电爱好者站点「Amateur radio on the internet」；阿里巴巴 RFQ「1X2 光开关」；KP Guy Fleurant；gmail 邮箱）；表内未跟进。",
+ "type": "个人爱好者（RFQ）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：remoteham；品类词 网络交换 / PoE",
+   "quote": "Amateur radio on the internet, SDR interface for transmitting purpose.",
+   "url": "https://remoteham.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "1X2光开关 / from: 阿里巴巴RFQ",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "remoteham 定位",
+   "quote": "remoteham ; Amateur radio on the internet, SDR interface for transmitting purpose",
+   "url": "https://remoteham.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "1X2 光开关 RFQ",
+   "quote": "1X2光开关 / from: 阿里巴巴RFQ",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "个人买家 + 免费邮箱 + 品类不符；c_sub=品类不符/终端用户",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "加拿大",
+  "other": "官网 remoteham.com，语言 ?，快照状态 ok；角色判定来源：待核"
+ },
+ "business_lines": [
+  "（个人爱好者）"
+ ],
+ "channels": {
+  "role": "个人爱好者（RFQ）",
+  "region": "加拿大",
+  "contact": "guyfleurant@gmail.com"
+ },
+ "signals": [
+  "官网：remoteham ; Amateur radio on the internet, SDR interface for transmitting purpose",
+  "表内：1X2 光开关 / from: 阿里巴巴 RFQ；KP Guy Fleurant；guyfleurant@gmail.com"
+ ],
+ "risks": [
+  "个人买家（非渠道）；免费邮箱；RFQ 品类光开关 Saga 不供"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 20,
+  "why": "个人业余无线电爱好者（gmail），RFQ 光开关（Saga 不供）→ 改 C"
+ },
+ "email_hook": "（不发送：个人买家）"
+}

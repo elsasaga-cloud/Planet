@@ -1,0 +1,73 @@
+{
+ "code": "SC-017",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（enav.it，快照 2026-10-21）",
+ "summary": "意大利 ENAV / Techno Sky（ENAV = 意大利空中交通管制服务公司（国家控股上市），Techno Sky 为其技术子公司；表内「工业光猫 / from: 自建站」；KP Dario Lepera（technosky.it））；表内 7 次跟进无回复。",
+ "type": "空管/公共部门（守界）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Enav；品类词 工业自动化 / OT 网络",
+   "quote": "INNOVATING THE SKY；CONTROLLO DEL TRAFFICO AEREO；Remote Digital Tower；Innovazione；Il Gruppo；Comunicati stampa",
+   "url": "https://www.enav.it:443/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "工业光猫；工业光猫 / from: 自建站",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "ENAV 定位",
+   "quote": "Enav ; INNOVATING THE SKY ; CONTROLLO DEL TRAFFICO AEREO ; Remote Digital Tower",
+   "url": "https://www.enav.it:443/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "工业光猫 自建站",
+   "quote": "工业光猫 / from: 自建站",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "守界/公共部门：ENAV 空管（国家控股关键基础设施），需求工业光猫 Saga 不供；c_sub=守界（公共部门/关键基础设施）",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "意大利",
+  "other": "官网 enav.it，语言 it，快照状态 ok；角色判定来源：待核"
+ },
+ "business_lines": [
+  "空中交通管制服务 / 技术子公司"
+ ],
+ "channels": {
+  "role": "空管/公共部门（守界）",
+  "region": "意大利",
+  "contact": "dario.lepera@technosky.it"
+ },
+ "signals": [
+  "官网：Enav ; INNOVATING THE SKY ; CONTROLLO DEL TRAFFICO AEREO ; Remote Digital Tower ; Il Gruppo；kw planet 6",
+  "表内：工业光猫 / from: 自建站；KP Dario Lepera"
+ ],
+ "risks": [
+  "守界：ENAV 空中交通管制（国家控股、关键基础设施、公共采购）；需求工业光猫 Saga 不供"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 25,
+  "why": "空中交通管制（国家关键基础设施/公共部门，招标与认证体系），且需求为工业光猫（Saga 不供）→ 改 C（守界）"
+ },
+ "email_hook": "（不发送：公共部门/守界）"
+}

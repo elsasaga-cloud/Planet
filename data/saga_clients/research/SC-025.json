@@ -1,0 +1,73 @@
+{
+ "code": "SC-025",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（bome.com，快照 2026-10-21）",
+ "summary": "德国 Bome Software GmbH & Co. KG（MIDI 软件与硬件制造商：Bome Network、BomeBox；2014 年阿里巴巴 RFQ「5 电口板子」；KP Florian Bomers（CEO）；电话加不上）；表内未跟进。",
+ "type": "MIDI 软硬件厂商（品类不符，陈旧 RFQ）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Bome Software – MIDI Software and Hardware；品类词 无线 / WiFi",
+   "quote": "Bome Software is a manufacturer of software and hardware for music production on stage and studio. Our main focus is on MIDI control and MIDI networking,",
+   "url": "https://www.bome.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "5电口板子；49 - 89 - 45219248 加不上 2014年使用国际站；5电口板子 / from: 阿里巴巴RFQ",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Bome 定位",
+   "quote": "Bome Software – MIDI Software and Hardware ; manufacturer of software and hardware for music production on stage and studio",
+   "url": "https://www.bome.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "5 电口板子 RFQ 2014",
+   "quote": "2014年使用国际站 / 5电口板子 / from: 阿里巴巴RFQ",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "品类不符（MIDI 设备厂商）+ 2014 年板级陈旧 RFQ；c_sub=品类不符",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "德国",
+  "other": "官网 bome.com，语言 en-US，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "MIDI 软件 / 硬件（德国）"
+ ],
+ "channels": {
+  "role": "MIDI 软硬件厂商（品类不符，陈旧 RFQ）",
+  "region": "德国",
+  "contact": "alibb@bome.com、florian.bomers@bome.com"
+ },
+ "signals": [
+  "官网：Bome Software is a manufacturer of software and hardware for music production on stage and studio. Our main focus is on MIDI control and MIDI networking；首页 New! Bome Network 1.7 ; BomeBox",
+  "表内：5 电口板子 / from: 阿里巴巴 RFQ；2014 年使用国际站；KP Florian Bomers, CEO"
+ ],
+ "risks": [
+  "品类不符：MIDI 音乐软硬件；RFQ 为 2014 年板级需求（陈旧，Saga 不供板子）"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 20,
+  "why": "MIDI 音乐设备厂商、2014 年 5 口板级 RFQ（Saga 不供板子）→ 改 C"
+ },
+ "email_hook": "（不发送：品类不符/陈旧线索）"
+}

@@ -1,91 +1,194 @@
-# SB-083 dci.jp · news_1 · https://dci.jp/category/news · fetched 2026-10-25T07:41:18Z · HTTP 200
-NEWS | データコントロルズ株式会社
-コンテンツへスキップ
-ナビゲーションに移動
-データコントロルズは光通信、運輸、情報、エネルギーのネットワークインフラのメディア変換製品の設計・開発・販売をトータルサポート
-ご購入方法
-よくある質問
-採用情報
-Webショップ
-お問い合わせ
-製品紹介
-OSFP/QSFP/SFP＋/SFP（2芯/BIDI/CWDM/DWDM）
-メディアコンバータ
-400/200/100G DWDM伝送プラットフォーム：DCOTNシリーズ
-マルチプラットフォーム FRM220シリーズ
-WDM マルチプロトコルリピータ：DCWDM2108 /DCWDM2108H
-高密度10G/100G対応OT8200シリーズ
-1G/10G 超コンパクトメディアコンバータ：MMCシリーズ
-40G~100G
-10~16Gbps
-1G~4Gbps
-ファストイーサネット(10/100Mbps)
-イーサネット(10Mbps)
-VDSLコンバータ
-光モデム
-産業用イーサネット
-イーサネットスイッチ
-WDMフィルター/EDFAアンプ
-PoE
-光ケーブル
-光アダプタ/プラグ
-測定機器/テスター
-EOL 販売終了
-トピックス
-会社概要
-検証機器の貸出
-サポート
-無償保証
-センドバック修理サービス１年パック、５年パック(有償)
-スポットセンドバック修理サービス(有償)
-製品資料
-ＨＯＭＥ
-トピックス
-NEWS
-トピックス
-NEWS
-2026年10月5日 NEWS COMNEXT 第4回［次世代］通信技術＆ソリューション展に出展します
-2026年8月31日 NEWS 【重要】Yahoo!ショッピングのストア閉店のお知らせ
-2026年6月18日 NEWS 7月開催展示会【JANOG58】【ケーブル技術ショー2026】に出展します。
-2026年5月12日 NEWS Interop2026に出展いたします
-2026年4月13日 NEWS 【重要】製品価格改定のお知らせ
-2026年4月2日 NEWS 【重要】製品型式の変更に関するお知らせ（XMC-10GC）
-2026年2月3日 NEWS JANOG57 Meeting in 大阪に参加します
-2025年12月2日 NEWS 年末年始のお知らせ
-2025年7月30日 NEWS 夏季休業に伴う出荷停止期間のご案内：2025/08/13(水)～2025/08/17(日)
-2025年7月23日 NEWS COMNEXT 第3回［次世代］通信技術＆ソリューション展に出展します
-投稿のページ送り
-固定ページ 1
-固定ページ 2
-»
-ご購入方法
-会社概要
-プライバシーポリシー
-Copyright (C) Data Controls Inc. All Rights Reserved.
-MENU
-ＨＯＭＥ
-製品紹介
-OSFP/QSFP/SFP＋/SFP（2芯/BIDI/CWDM/DWDM）
-メディアコンバータ
-産業用イーサネット
-イーサネットスイッチ
-WDMフィルター/EDFAアンプ
-PoE
-光ケーブル
-光アダプタ/プラグ
-測定器/テスター
-EOL 販売終了
-トピックス
-会社概要
-検証機器の貸出
-無償保証
-センドバック修理サービス１年パック、５年パック(有償)
-スポットセンドバック修理サービス(有償)
-サポート
-製品資料
-採用情報
-ご購入方法
-よくある質問
-Webショップ
-お問い合わせ
-トップへ戻る
+# SB-083 MERIT LILIN ENT. CO., LTD. · news_1 · https://meritlilin.com/en/blog · fetched 2026-10-25T07:41:18Z · HTTP 200
+LILIN - Blog
+Products
+Frontend & Cameras
+AI Smart Cameras
+7-Series / 6-Series Edge AI
+PTZ Cameras
+IMU stabilization / Dual-Spectral
+ToF Sensors
+3D depth sensing technology
+AIDA Frontend Models
+For AI Cameras
+Backend & Systems
+NVR / NAV
+High-capacity recording servers
+X-Path
+Person search and tracking across cameras
+VMS Platform
+Navigator 5.0 management system
+Server-Based AIDA License/Models
+For AI servers
+AI Backend Server
+Video Analytics Server
+Lens, Brackets and Others
+Mounting & Power Supply
+Installation accessories / PoE
+Access Control
+Access Control Integration
+Accessories
+Peripheral Accessories
+TV Wall
+TV Wall Server
+Z7R Flagship Camera
+Built-in latest AI edge computing engine, supporting multi-lane LPR and behavior recognition.
+View Specs
+NDAA & TAA Declaration
+All Products
+Solutions
+By Industry
+Smart Transportation
+LPR / traffic flow / violation detection
+Retail Analytics
+Heatmaps / behavior detection / conversion
+Hotel & Hospitality
+Smart check-in / guest safety
+Factory & Production Line
+Line monitoring / accident prevention
+Casino & Entertainment
+Facial recognition / access control
+By Technology
+Edge LPR Cameras
+Edge-based plate recognition
+AIDA ANPR Software
+ANPR recognition platform
+AI Smart Cameras
+Edge AI detection & analytics
+Law Enforcement
+Violation detection / mobile patrol
+X-Path
+Person search and tracking across cameras
+Featured: Mercedes-Benz
+Seamless vehicle access powered by LILIN LPR
+Read case study
+All Solutions
+Case Studies
+Blog
+Support
+Where to Buy
+Traffic & Storage Calculator
+Camera Resolution Calculator
+Knowledge Base
+DDNS Service
+Remote camera connectivity
+Demo
+Explore LILIN systems online
+Security Advisories
+RMA
+Product repair and return service
+Compatible List
+Check device and accessory compatibility
+GitHub
+AI YOLO Converter Cloud
+Convert your model
+Downloads
+Software & Documents
+Latest Firmware
+Application Software
+Product Catalog PDF
+User Manuals
+Compatibility List
+View All Downloads
+EN
+中
+Blog
+Practical notes on video analytics, system integration and compliance procurement
+Solutions
+Case Studies
+Blog
+The NDAA Question Hidden Inside a Company’s Equipment Inventory
+Section 889 compliance depends on what a contractor provides, what it uses elsewhere in the business, and what its records can establish when a covered device is found.
+Who Owns the Security of an IP Camera After Installation?
+A practical guide to assigning ownership, limiting network access, managing firmware, and retiring IP cameras before they become unmanaged infrastructure.
+Where ANPR and Bay Detection Fit in Parking Operations
+Bay detection shows where space is available. ANPR records which vehicles enter and leave. Together, the two systems support guidance, permit access, billing, and incident review.
+Edge or Cloud Is the Wrong First Question
+Alert deadlines, offline behavior, and target size decide where surveillance video gets analyzed. Map those constraints first, and the compute question mostly answers itself.
+A Shipment Arrives Damaged. Which Video Do You Review First?
+Barcode events can turn days of warehouse recordings into a short, searchable sequence. The useful link is built from package identity, scan location, event time and the camera assigned to each handoff point.
+A PPE Alert Is Only as Good as Its Checkpoint
+A useful PPE checkpoint depends on camera geometry, event logic, searchable VMS records, and a controlled acceptance test at the actual entrance.
+In AI Surveillance, Seeing Is the Easy Part
+What separates a camera that can see from a system your operators actually trust.
+Smart Traffic Management: Flow Analysis and Violation Detection
+How AI cameras extend traffic management from vehicle counts to flow analysis, automated enforcement, and long-term planning data.
+The Sale Is the Last Data Point
+POS data records how a sale ended. Camera analytics record what happened before it: arrivals, walking paths, and dwell by zone, matched to transactions by time and area.
+Casino Security Management: Integrating Face Recognition & Access Control
+Providing millisecond blacklist notifications and highly accurate flow control for high-traffic environments.
+We Create. We Innovate.
+About Us
+Company Introduction
+Made in Taiwan
+Brand Story
+Contact Us
+Global Distributors
+Software Partners
+AI Developer Program
+CSR
+Privacy Policy
+Contact Us
+© 2026 Merit LILIN Co., Ltd. All rights reserved.
+www.meritlilin.com
+Products
+View All
+Frontend & Cameras
+AI Smart Cameras
+PTZ Cameras
+ToF Sensors
+AIDA Frontend Models
+Backend & Systems
+NVR / NAV
+X-Path
+VMS Platform
+Server-Based AIDA License/Models
+AI Backend Server
+Lens, Brackets and Others
+Mounting & Power Supply
+Access Control
+Accessories
+TV Wall
+NDAA & TAA Declaration
+All Products
+Solutions
+View All
+By Industry
+Smart Transportation
+Retail Analytics
+Hotel & Hospitality
+Factory & Production Line
+Casino & Entertainment
+By Technology
+Edge LPR Cameras
+AIDA ANPR Software
+AI Smart Cameras
+Law Enforcement
+X-Path
+All Solutions
+Case Studies
+Blog
+Support
+View All
+Where to Buy
+Traffic & Storage Calculator
+Camera Resolution Calculator
+Knowledge Base
+DDNS Service
+Demo
+Security Advisories
+RMA
+Compatible List
+GitHub
+AI YOLO Converter Cloud
+Downloads
+View All
+Software & Documents
+Latest Firmware
+Application Software
+Product Catalog PDF
+User Manuals
+Compatibility List
+View All Downloads
+Where to Buy
+EN
+中文

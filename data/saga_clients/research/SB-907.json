@@ -1,167 +1,143 @@
 {
- "code": "SB-907",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（ifocusshop.com，快照 2026-10-21）",
- "summary": "泰国芭提雅 CCTV 安装与销售商 Focus System & Design Co., Ltd.（iFocus；官网泰语：芭提雅/春武里 CCTV 设计安装维护，Hikvision / Dahua / Uniview 经销点，站内 Dahua PFS3006/3110 与 Hikvision DS-3E1309P 等 PoE 交换机页面；表内「在用 Itoonertech 商业 PoE，很多其他牌子」）；群发 9 次无回复。",
- "type": "安防集成/经销（CCTV 安装为主）",
- "size": "",
- "brands_seen": [
-  "Dahua",
-  "Uniview",
-  "Hikvision",
-  "TP-Link",
-  "ZKTeco",
-  "Ruijie",
-  "MikroTik",
-  "Ubiquiti",
-  "Cisco",
-  "D-Link",
-  "Zyxel"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：กล้องวงจรปิดเมืองพัทยา รับติดตั้ง พัทยา ชลบุรี | iFocus；品类词 安防监控（CCTV / 门禁） / 电信 / FTTH / ISP 设备 / 无线 / WiFi / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
-   "quote": "จำหน่ายกล้องวงจรปิดพัทยา พร้อมบริการออกแบบและติดกล้องวงจรปิด พัทยา ชลบุรี ดูแลระบบกล้องโทรทัศน์วงจรปิดในเมืองพัทยา สำหรับบ้าน ร้านค้า และองค์กร โดยโฟกัส ซิสเต็ม",
-   "url": "https://ifocusshop.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "FS 在用Itoonertech商业POE 很多其他的牌子 产品",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "泰语官网：芭提雅 CCTV 设计安装维护，Hikvision/Dahua 经销点",
-   "quote": "จำหน่ายกล้องวงจรปิดพัทยา พร้อมบริการออกแบบและติดกล้องวงจรปิด … ศูนย์จำหน่ายกล้องวงจรปิด Hikvision ; Dahua",
-   "url": "https://ifocusshop.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "在用 Itoonertech 商业 PoE",
-   "quote": "FS 在用Itoonertech商业POE 很多其他的牌子",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "泰国",
-  "other": "官网 ifocusshop.com，语言 th，快照状态 ok；角色判定来源：表内早期 AI 描述"
- },
- "business_lines": [
-  "CCTV 设计 / 安装 / 维护（芭提雅、春武里）",
-  "安防设备零售（Hikvision / Dahua / Uniview / ZKTeco）"
- ],
- "channels": {
-  "role": "安防集成/经销（CCTV 安装为主）",
-  "region": "泰国",
-  "contact": "focus.sys@hotmail.com"
- },
- "signals": [
-  "官网产品页：Dahua DH-PFS3006-4ET-60 / DH-PFS3009-8ET-96 / PFS3110-8ET-96、Hikvision DS-3E1309P-EI → 非管理 PoE 为主",
-  "表内「可以尝试多跟进一下」"
- ],
- "risks": [
-  "芭提雅本地安装商：量小、价格敏感（在用深圳白牌 Itoonertech）",
-  "非主攻区（T5）：低频跟进",
-  "表内邮箱为 hotmail 免费邮箱（focus.sys@hotmail.com），官网未见企业邮箱"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 25,
-  "why": "CCTV 安装商 8 口 PoE 为走量位（现用 Itoonertech / Dahua PFS3110-8ET）→ STC-28DGGPM（$84.1 @25%）；非管理位对价 HRUI STC-028GP（$24.2 列表价）"
- },
- "email_hook": "For the camera sites where you now use Itoonertech or Dahua PFS PoE switches, we supply a Marvell-based 8-port PoE+ L2+ switch with 2 SFP uplinks (PoE watchdog, neutral packing) from small lots — which one do you install most, 8-port or 16-port PoE?",
- "products_seen": [
-  {
-   "brand": "Dahua",
-   "model": "DH-PFS3110-8ET-96",
-   "spec": "8 口百兆 PoE 非管理 96W",
-   "saga": "STC-028GP（HRUI 列表价 $24.2，非 SmartByte）",
-   "url": "https://ifocusshop.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "brand": "Hikvision",
-   "model": "DS-3E1309P-EI",
-   "spec": "8 口百兆 PoE 智能管理",
-   "saga": "STC-28DGGPM",
-   "url": "https://ifocusshop.com/",
-   "date": "2026-10-21"
-  }
- ],
- "mail_review": {
-  "binding": {
-   "level": "未触达（A/S 邮箱 20 封 2025→2026，1 次记录打开，0 回；收件 focus.sys@hotmail.com；主题多为「Industrial PoE Switch、10G Media Converter」；Elsa 箱：`to:ifocusshop.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 20 / 来 0）（第 74 批(n)））",
-   "type": "安防集成/经销（CCTV 安装为主）",
-   "sieve": "1~2（1 次打开）",
-   "stop": "20 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
-   "lane": "泰国 非主攻",
-   "cadence": "一封",
-   "evidence": "gmail_digest：out 20，Opened 标签 1（Simon 群发追踪）；用户表：「FS 在用Itoonertech商业POE 很多其他的牌子 产品」；研究档 risks：芭提雅本地安装商：量小、价格敏感（在用深圳白牌 Itoonertech）"
-  },
-  "situation": "泰国芭提雅 CCTV 安装与销售商 Focus System & Design Co., Ltd.（iFocus；官网泰语：芭提雅/春武里 CCTV 设计安装维护，Hikvision / Dahua / Uniview 经销点，站内 Dahua PFS3006/3110 与 Hikvision DS-3E1309P 等 PoE 交换机页面；表内「在用 Itoonertech 商业 PoE，很多其他牌子」）；群发 9 次无回复。",
-  "need": "CCTV 安装商 8 口 PoE 为走量位（现用 Itoonertech / Dahua PFS3110-8ET）→ STC-28DGGPM（$84.1 @25%）；非管理位对价 HRUI STC-028GP（$24.2 列表价）",
-  "breakpoint": "芭提雅本地安装商：量小、价格敏感（在用深圳白牌 Itoonertech）",
-  "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 25,
-   "price": "换人再触锚价 STC-28DGGPM $84.1 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-19 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-03-18 $65（10G Media Converter）、2025-07-14 $300（48 Port PoE Managed Switch）、2025-08-13 $240（24 Port Fiber Switch）、2025-10-15 $280（10G Enterprise SFP Switch）、2026-06-25 $16000（32 Port 400GB DC Switch）",
-   "why": "CCTV 安装商 8 口 PoE 为走量位（现用 Itoonertech / Dahua PFS3110-8ET）→ STC-28DGGPM（$84.1 @25%）；非管理位对价 HRUI STC-028GP（$24.2 列表价）。已打开的主题（1/20 封有打开记录）：「48 Port PoE Managed Switch」(2025-07-14) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "2027-Q1（换人后）",
-   "channel": "A 邮箱 → 具名 KP",
-   "action": "换收件人再发一封（第 75 批(ai) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；钩子「PoE watchdog」不写——未核实；HRUI 型号不写 Marvell）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
-   "one_question": "For the camera sites where you now use Itoonertech or Dahua PFS PoE switches, we supply a Marvell-based 8-port PoE+ L2+ switch with 2 SFP uplinks (PoE watchdog, neutral packing) from small lots — which one do you install most, 8-port or 16-port PoE? Reference: STC-28DGGPM at $84.1 USD EXW (MOQ 1, 15-day validity)."
-  },
-  "facts": [
-   {
-    "date": "2026-09-25",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "Industrial PoE Switch、10G Media Converter",
-    "why": "20 封 / 1 次打开 / 0 回｜首封 2025-02-05 → 末封 2026-09-25（20 去 / 0 来）",
-    "k": "gmail_digest"
-   },
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "FS 在用Itoonertech商业POE 很多其他的牌子 产品",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2026-09-25",
-    "dir": "去",
-    "who": "A 箱（Alan）",
-    "quote": "Managed PoE Switches",
-    "why": "本日去信真实主题（邮箱索引 2fb11898dbde21ec；信稿开头句引用此封；此前稿内写的「Industrial PoE Switch」是线程列表首题，不是本封）",
-    "k": "2fb11898dbde21ec"
-   }
+  "code": "SB-907",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（besd.nl，快照 2026-10-21）",
+  "summary": "荷兰 BESD（工业自动化用嵌入式系统与数据通信产品分销，「Ons merkenportfolio」品牌组合；表内「几个有名牌子的工业 FS；bypass 工业 FS 基本是研华的；很多产品」）；表内 1 次跟进无回复。",
+  "type": "工业自动化数据通信分销商（名牌组合，含研华）",
+  "size": "",
+  "brands_seen": [
+    "Advantech"
   ],
-  "proof_gaps": [],
-  "draft_en": {
-   "subject": "For the camera sites where you use Itoonertech or Dahua PFS - an 8-port managed PoE at $84.1",
-   "body": "Hello iFocus team,\n\nOver the past months you had a few product mails from us - most recently \"Managed PoE Switches\" on 25 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the camera sites in Pattaya and Chonburi where you now use Itoonertech or Dahua PFS3110 PoE switches, neutral-brand, EXW, MOQ 1, 15-day validity, CE/RoHS: 8 x Gigabit PoE+ + 2 x SFP uplinks, L2+ managed, Marvell-based - model STC-28DGGPM - $84.1 USD; budget unmanaged 8 x PoE+ + 2 x Gigabit - STC-028GP - $26.2.\n\nOne question: which one do you install most - 8-port or 16-port PoE?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：BESD；品类词 无线 / WiFi / 光纤 / 媒体转换 / 网络交换 / PoE",
+      "quote": "EMBEDDED SYSTEMEN EN DATACOMMUNICATIE VOOR INDUSTRIËLE AUTOMATISERING",
+      "url": "https://www.besd.nl/nl",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "几个有名牌子的工业FS；bypass 工业FS 基本是研华的；很多产品",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "工业自动化嵌入式系统与数据通信产品",
+      "quote": "Embedded Systemen en Datacommunicatie producten voor industriële automatisering ; Ons merkenportfolio",
+      "url": "https://www.besd.nl/nl",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "名牌工业 FS，bypass 基本是研华的",
+      "quote": "几个有名牌子的工业FS / bypass 工业FS 基本是研华的 / 很多产品",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
   },
-  "as_of": "2026-10-24"
- }
+  "company_facts": {
+    "hq": "荷兰",
+    "other": "官网 besd.nl，语言 nl，快照状态 ok；角色判定来源：官网文案"
+  },
+  "business_lines": [
+    "嵌入式系统 / 工业数据通信产品分销"
+  ],
+  "channels": {
+    "role": "工业自动化数据通信分销商（名牌组合，含研华）",
+    "region": "荷兰",
+    "contact": "info@besd.nl、sales@besd.nl"
+  },
+  "signals": [
+    "官网：EMBEDDED SYSTEMEN EN DATACOMMUNICATIE VOOR INDUSTRIËLE AUTOMATISERING；Ons merkenportfolio",
+    "表内：bypass 工业 FS 基本是研华的；站内 kw：ethernet 253 / switch 196"
+  ],
+  "risks": [
+    "名牌组合分销商（研华等）：白牌契合度低，预期低",
+    "bypass 型号仅 SmartByte LT-IS6312GP-4GX8GT-FBP（Saga 无 STI 编号，须注明）",
+    "无具名 KP（info@/sales@）"
+  ],
+  "saga_fit": {
+    "p1": "STI-280GE",
+    "tier": 20,
+    "why": "名牌组合分销（研华等）→ 白牌契合低；入门位工业非管理 8 GE + 2 SFP STI-280GE（$46.6 @20%）作价格补充线；bypass 需求 → SmartByte LT-IS6312GP-4GX8GT-FBP（注明 SmartByte 型号，$186.5 @20%）"
+  },
+  "email_hook": "Alongside the Advantech and other named industrial switch brands in your portfolio, we can supply a neutral-brand DIN-rail 8-GE + 2 SFP line (unmanaged, or managed on a Marvell platform) (and a 12-port bypass model) from small lots for price-sensitive projects — is there room for a budget tier in your industrial Ethernet range?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A 邮箱 5 封 2025→2026，无记录打开，0 回；收件 info@besd.nl；主题多为「10G Enterprise SFP Switch、Booster PoE Switch」）；Elsa 群发 BCC 已触达 2026-08-13「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，北欧/中东欧 批次 To info@dasys.fi，0 回（第 73 批(o) Bcc 头核对 msg 19ffb43006420c22）",
+      "type": "工业自动化数据通信分销商（名牌组合，含研华）",
+      "sieve": "1（只收到群发）",
+      "stop": "只打通用邮箱，无记录打开",
+      "revive": "保持季度群发到 2027-Q1；无打开即停",
+      "lane": "荷兰（欧洲全域主攻）",
+      "cadence": "季度",
+      "evidence": "gmail_digest：out 5；用户表：「几个有名牌子的工业FS；bypass 工业FS 基本是研华的；很多产品」；研究档 risks：名牌组合分销商（研华等）：白牌契合度低，预期低；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To info@iotkomponenty.sk）本户见于 2025-02-17 名单；2026-08-13 最新一轮名单已不含此地址 → 中途被剔除（退信 / 退订 / 手工）；同批次（To info@dasys.fi）本户见于 2026-08-13 名单；2025-02-16 首轮名单无此地址 → 中途加入"
+    },
+    "situation": "荷兰 BESD（工业自动化用嵌入式系统与数据通信产品分销，「Ons merkenportfolio」品牌组合；表内「几个有名牌子的工业 FS；bypass 工业 FS 基本是研华的；很多产品」）；表内 1 次跟进无回复。",
+    "need": "名牌组合分销（研华等）→ 白牌契合低；入门位工业非管理 8 GE + 2 SFP STI-280GE（$46.6 @20%）作价格补充线；bypass 需求 → SmartByte LT-IS6312GP-4GX8GT-FBP（注明 SmartByte 型号，$186.5 @20%）",
+    "breakpoint": "名牌组合分销商（研华等）：白牌契合度低，预期低",
+    "saga_now": {
+      "p1": "STI-280GE",
+      "tier": 20,
+      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-09-24 $280（10G Enterprise SFP Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-02-17 $240（24 Port Fiber Switch = STC-4168XGGCM 单 AC 稿，Elsa 箱 1 轮 2025-02-17；同款 2025-09 起群发 $280（双 AC 稿）——再提这款说 $280）；2026-08-13 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-13；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
+      "why": "名牌组合分销（研华等）→ 白牌契合低；入门位工业非管理 8 GE + 2 SFP STI-280GE（$46.6 @20%）作价格补充线；bypass 需求 → SmartByte LT-IS6312GP-4GX8GT-FBP（注明 SmartByte 型号，$186.5 @20%）",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "群发节奏",
+      "channel": "A 邮箱",
+      "action": "观察打开",
+      "one_question": "Alongside the Advantech and other named industrial switch brands in your portfolio, we can supply a neutral-brand DIN-rail 8-GE + 2 SFP line (unmanaged, or managed on a Marvell platform) (and a 12-port bypass model) from small lots for price-sensitive projects — is there room for a budget tier in your industrial Ethernet range?"
+    },
+    "facts": [
+      {
+        "date": "2025-02-17",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To info@megamobile.be，SK/RO/BE/FI/PT/IE/SE/HU/MT/NZ/AE+非洲散户 批次）",
+        "quote": "24 Port Fiber Switch — I would like to recommend a switch, 24 port 1G SFP+8 port 1G SFP/RJ45 combo +4*10G SFP+. It is a price-competitive aggregation switch. Price: 240usd/p",
+        "why": "Elsa 箱群发 BCC 触达证据（命中地址 besd.nl, sales@besd.nl）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+        "k": "elsa_bcc"
+      },
+      {
+        "date": "2026-02-27",
+        "dir": "去",
+        "who": "A 群发",
+        "quote": "10G Enterprise SFP Switch、Booster PoE Switch",
+        "why": "5 封 / 0 次打开 / 0 回｜首封 2025-09-24 → 末封 2026-02-27（5 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
+        "date": "2026-08-13",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To info@dasys.fi，北欧/中东欧 批次）",
+        "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
+        "why": "Elsa 箱群发 BCC 触达证据（命中地址 besd.nl, sales@besd.nl）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+        "k": "elsa_bcc"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "几个有名牌子的工业FS；bypass 工业FS 基本是研华的；很多产品",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-25"
+  }
 }

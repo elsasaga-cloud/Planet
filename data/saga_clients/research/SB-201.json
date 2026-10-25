@@ -1,131 +1,140 @@
 {
  "code": "SB-201",
- "name_official": "",
+ "name_official": "EL.SI. S.r.l.（Elsi，Crotone, IT；elsikr.it；P.IVA 01536710799）",
  "researched_at": "2026-10-21",
- "website_status": "在线（rectec.cz，快照 2026-10-21）",
- "summary": "捷克 RecTec servis, s.r.o.（回收生产线（破碎/热解/精炼/清洗）与工业自动化供应商；2023 年阿里巴巴 RFQ「BIDI 千兆光模块」；KP Viktor Fojt）；表内 6 次跟进无回复。",
- "type": "工业自动化/回收线集成商（捷克，光模块 RFQ）",
+ "website_status": "在线",
+ "summary": "意大利卡拉布里亚 Crotone 的安防/自动化区域分销商（1985 年起、30+ 年；约 22 人；覆盖 Calabria、Basilicata、Puglia、Sicilia；三条线：Comfort（自动化门、锁、特种设备）、Sicurezza（防盗、视频监控、消防）、能源管理（智能家居）；2021 年起 ZKTeco 分销伙伴）。展会记录：主要用 Uniview 摄像头，问商业 PoE 价目表，介绍了 2 光 10 电，「没太多意愿」；联系人 d.bianco / m.sciumbata；14 次跟进 0 回复。",
+ "type": "",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Uniview",
+  "ZKTeco"
+ ],
  "evidence": [
   {
-   "kind": "官网快照",
-   "claim": "官网标题：Rec Tec | Váš dodavatel automatizace",
-   "quote": "Recyklační linky；[ DRCENÍ ]；[ PYROLÝZA ]；[ RAFINACE ]；[ ČIŠTĚNÍ ]；Výrobní linky",
-   "url": "https://www.rectec.cz/",
+   "kind": "Facebook",
+   "claim": "业务与联系方式",
+   "quote": "Elsi srl, Crotone. Da oltre trent'anni distributori di Impianti di Allarme, Videosorveglianza, Automazione, Videocitofonia e Domotica … Via Enzo Ferrari Loc. Zigari, Crotone, Italy +39 0962 930786 customercare@elsikr.it",
+   "url": "https://www.facebook.com/elsisrl.crotone/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "法人与联系",
+   "quote": "EL.SI. S.r.l. Indirizzo: Via E. Ferrari c/o Zona Industriale 88900 Crotone (KR) - ITALY Tel: +39 0962.930786 … E-mail: info@elsikr.it … P.Iva: 01536710799",
+   "url": "http://www.elsikr.it/contatti.html",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "厂商新闻",
+   "claim": "覆盖区域与 ZKTeco 合作",
+   "quote": "EL.SI SRL è una società di sicurezza leader in Italia, con sede in Calabria, Basilicata e Puglia, specializzata nella distribuzione di prodotti e servizi … ZKTeco Europe annuncia la Partnership di Distribuzione con EL.SI SRL",
+   "url": "https://zkteco.eu/it/news-ed-eventi/notizie/zkteco-europe-annuncia-la-partnership-di-distribuzione-con-elsi-srl",
+   "date": "2021-04-23"
+  },
+  {
+   "kind": "名录",
+   "claim": "人数与成立年",
+   "quote": "Elsi Srl - Sicurezza … Employees 22 … Founded 1985",
+   "url": "https://rocketreach.co/elsi-srl-sicurezza-comfort-profile_b7f3fe2bc25dbb3d",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "BIDI千兆光模块；420 - 608 - 767676；420 - 608 - 767676 2023年使用国际站；BIDI千兆光模块 / from: 阿里巴巴RFQ",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "RecTec 定位",
-   "quote": "Rec Tec | Váš dodavatel automatizace ; Recyklační linky ; Průmyslová automatizace",
-   "url": "https://www.rectec.cz/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "BiDi 千兆光模块 RFQ",
-   "quote": "2023年使用国际站 / BIDI千兆光模块 / from: 阿里巴巴RFQ",
+   "claim": "用 Uniview；问商业 PoE 价目表；14 次跟进 0 回复",
+   "quote": "主要用国内univew这家的摄像头，处理CCTV security, 问了商业PoE的price list,给他介绍了2光10电，没太多意愿",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
- "kp": [
-  {
-   "name": "Viktor Fojt",
-   "title": "（职务待核）",
-   "email": "fojt@rectec.cz",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
+ "kp": [],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（官网核对）"
  },
  "company_facts": {
-  "hq": "捷克",
-  "other": "官网 rectec.cz，语言 cs-CZ，快照状态 ok；角色判定来源：官网文案"
+  "legal_name": "EL.SI. S.r.l.（P.IVA 01536710799）",
+  "founded": "1985",
+  "hq": "Via Enzo Ferrari, Zona Industriale, 88900 Crotone (KR), Italy（+39 0962 930786；info@elsikr.it / customercare@elsikr.it）",
+  "size": "22 人（RocketReach）",
+  "other": "南意四区分销；ZKTeco 分销伙伴（2021）；Uniview 摄像头（用户记录）"
  },
  "business_lines": [
-  "回收生产线 / 工业自动化（捷克）"
+  "安防（防盗、视频监控、消防）区域分销",
+  "自动化（门、闸、锁）与智能家居"
  ],
  "channels": {
-  "role": "工业自动化/回收线集成商（捷克，光模块 RFQ）",
-  "region": "捷克",
-  "contact": "fojt@rectec.cz"
+  "网站": "https://www.elsikr.it/",
+  "电话": "+39 0962 930786（公开）",
+  "邮箱（公开）": "info@elsikr.it",
+  "Facebook": "https://www.facebook.com/elsisrl.crotone/"
  },
  "signals": [
-  "官网：Rec Tec | Váš dodavatel automatizace ; Recyklační linky ; [ DRCENÍ ] ; [ PYROLÝZA ] ; Výrobní linky ; Průmyslová automatizace",
-  "表内：BIDI 千兆光模块 / from: 阿里巴巴 RFQ；2023 年使用国际站；KP Viktor Fojt"
+  "区域安防分销商 + Uniview 摄像 → 白牌 PoE 作配套 SKU（20%）；曾索要商业 PoE 价目表"
  ],
  "risks": [
-  "RFQ 品类（BiDi 光模块）Saga 不供；机器制造商自用（量取决于项目）；6 次无回复"
+  "意向弱（「没太多意愿」）；14 次跟进 0 回复"
  ],
  "saga_fit": {
-  "p1": "STI-280GE",
-  "tier": 25,
-  "why": "RFQ 品类 BiDi 光模块（Saga 不供，Q-32）→ 顺带推生产线用工业 8 GE + 2 SFP 管理 STI-280GE（$48.6 @25%）、5 GE STI-050GE（$17.8）"
+  "p1": "STC-28DGGPM",
+  "tier": 20,
+  "why": "分销 20% 档：STC-28DGGPM（$80.7）配 Uniview；低价位 Realtek 线 STC-028GP（$24.2）/ STC-2024GP（24 PoE，$93.5）"
  },
- "email_hook": "Viktor, following your enquiry for gigabit BiDi modules: we do not carry optics, but we supply DIN-rail 8-GE + 2 SFP managed and 5-GE unmanaged industrial switches (−40~75 °C, CE/RoHS) for machine and line networks from single units, EXW USD — do your recycling lines use fibre links between cabinets?",
+ "email_hook": "Per gli impianti Uniview che distribuite in Calabria: switch PoE+ 8 porte gigabit gestito con 2 SFP a $80.7 EXW, versione non gestita $25.1 — vi invio il listino commerciale PoE in italiano che avevate chiesto in fiera?",
  "mail_review": {
   "binding": {
-   "level": "未触达（A 邮箱 14 封 2025→2026，无记录打开，0 回；收件 fojt@rectec.cz；主题多为「Booster PoE Switch、OEM Core Switching Solution」；Elsa 箱：`to:.cz` 穷举 1 条（2026-10-25，锚批 Bcc 头已读）未见 rectec.cz → Elsa 箱从未发过本户，往来只在 S/A 箱（去 14 / 来 0）（第 74 批(f)））",
-   "type": "工业自动化/回收线集成商（捷克，光模块 RFQ）",
-   "sieve": "1（只收到群发）",
-   "stop": "14 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "捷克（欧洲全域主攻）",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 14；用户表：「BIDI千兆光模块；420 - 608 - 767676；420 - 608 - 767676 2023年使用国际站；BIDI千兆光模块 / from: 阿里巴」；研究档 risks：RFQ 品类（BiDi 光模块）Saga 不供；机器制造商自用（量取决于项目）；6 次无回复"
+   "level": "未触达（A/S 邮箱 23 封 2024→2026，1 次记录打开，0 回；收件 d.bianco@elsikr.it, m.sciumbata@elsikr.it；主题多为「Marvell Industrial Alert System、Industrial PoE Switch」；Elsa 箱：`to:elsikr.it` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 23 / 来 0）（第 74 批(j)））",
+   "type": "—",
+   "sieve": "1~2（1 次打开）",
+   "stop": "23 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+   "lane": "意大利（欧洲全域主攻）",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 23，Opened 标签 1（Simon 群发追踪）；用户表：「主要用国内univew这家的摄像头，处理CCTV security, 问了商业PoE的price list,给他介绍了2光10电，没太多意愿」；研究档 risks：意向弱（「没太多意愿」）；14 次跟进 0 回复"
   },
-  "situation": "捷克 RecTec servis, s.r.o.（回收生产线（破碎/热解/精炼/清洗）与工业自动化供应商；2023 年阿里巴巴 RFQ「BIDI 千兆光模块」；KP Viktor Fojt）；表内 6 次跟进无回复。",
-  "need": "RFQ 品类 BiDi 光模块（Saga 不供，Q-32）→ 顺带推生产线用工业 8 GE + 2 SFP 管理 STI-280GE（$48.6 @25%）、5 GE STI-050GE（$17.8）",
-  "breakpoint": "RFQ 品类（BiDi 光模块）Saga 不供；机器制造商自用（量取决于项目）；6 次无回复",
+  "situation": "意大利卡拉布里亚 Crotone 的安防/自动化区域分销商（1985 年起、30+ 年；约 22 人；覆盖 Calabria、Basilicata、Puglia、Sicilia；三条线：Comfort（自动化门、锁、特种设备）、Sicurezza（防盗、视频监控、消防）、能源管理（智能家居）；2021 年起 ZKTeco 分销伙伴）。展会记录：主要用 Uniview 摄像头，问商业 PoE 价目表，介绍了 2 光 10 电，「没太多意愿」；联系人 d.bianco / m.sciumbata；14 次跟进 0 回复。",
+  "need": "分销 20% 档：STC-28DGGPM（$80.7）配 Uniview；低价位 Realtek 线 STC-028GP（$24.2）/ STC-2024GP（24 PoE，$93.5）",
+  "breakpoint": "意向弱（「没太多意愿」）；14 次跟进 0 回复",
   "saga_now": {
-   "p1": "STI-280GE",
-   "tier": 25,
-   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-06-04 $300（48 Port PoE Managed Switch）",
-   "why": "RFQ 品类 BiDi 光模块（Saga 不供，Q-32）→ 顺带推生产线用工业 8 GE + 2 SFP 管理 STI-280GE（$48.6 @25%）、5 GE STI-050GE（$17.8）",
+   "p1": "STC-28DGGPM",
+   "tier": 20,
+   "price": "Realtek 线按 HRUI 2026-09-30 进价 +20% 现算（Q-47 默认，不用 Drive 旧表价）：STC-208GP $24.2→$25.1；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-12-06 $300（48 Port PoE Managed Switch）、2025-07-08 $240（24 Port Fiber Switch）、2025-10-16 $280（10G Enterprise SFP Switch）",
+   "why": "分销 20% 档：STC-28DGGPM（$80.7）配 Uniview；低价位 Realtek 线 STC-028GP（$24.2）/ STC-2024GP（24 PoE，$93.5）。已打开的主题（1/23 封有打开记录）：「48 Port PoE Managed Switch」(2024-12-06) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开",
-   "one_question": "Viktor, following your enquiry for gigabit BiDi modules: we do not run a standalone optics line at the moment (modules are quoted and shipped together with our switches), but we supply DIN-rail 8-GE + 2 SFP managed and 5-GE unmanaged industrial switches (−40~75 °C, CE/RoHS) for machine and line networks from single units, EXW USD — do your recycling lines use fibre links between cabinets?"
+   "when": "2027-Q1（换人后）",
+   "channel": "A 邮箱 → 具名 KP",
+   "action": "换收件人再发一封（第 75 批(ab) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用；英文稿，不混意大利语）；展会索价表 → 直接给三行价；HRUI 型号不写 Marvell）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
+   "one_question": "Per gli impianti Uniview che distribuite in Calabria: switch PoE+ 8 porte gigabit gestito con 2 SFP a $80.7 EXW, versione non gestita $25.1 — vi invio il listino commerciale PoE in italiano che avevate chiesto in fiera?"
   },
   "facts": [
    {
-    "date": "2026-02-27",
+    "date": "2026-09-16",
     "dir": "去",
-    "who": "A 群发",
-    "quote": "Booster PoE Switch、OEM Core Switching Solution",
-    "why": "14 封 / 0 次打开 / 0 回｜首封 2025-03-25 → 末封 2026-02-27（14 去 / 0 来）",
+    "who": "A/S 群发",
+    "quote": "Marvell Industrial Alert System、Industrial PoE Switch",
+    "why": "23 封 / 1 次打开 / 0 回｜首封 2024-07-09 → 末封 2026-09-16（23 去 / 0 来）",
     "k": "gmail_digest"
    },
    {
     "date": "2026-10-21",
     "dir": "用户表",
     "who": "Simon",
-    "quote": "BIDI千兆光模块；420 - 608 - 767676；420 - 608 - 767676 2023年使用国际站；BIDI千兆光模块 / from: 阿里巴巴RFQ",
+    "quote": "主要用国内univew这家的摄像头，处理CCTV security, 问了商业PoE的price list,给他介绍了2光10电，没太多意愿",
     "why": "表内备注",
     "k": "用户表"
    }
   ],
   "proof_gaps": [],
-  "draft_en": null,
+  "draft_en": {
+   "subject": "The commercial PoE price list you asked for at the show - the three numbers that matter for Uniview sites",
+   "body": "Hello,\n\nAt the show you asked for our commercial PoE price list for the Uniview installations you distribute in Calabria and the south; what you had since were general product mails. Here is the short version, at distributor price, EXW, MOQ 1, 15-day validity, CE/RoHS: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based - model STC-28DGGPM - $80.7 USD; unmanaged 8 x PoE+ + 2 x Gigabit - STC-028GP - $25.1; 24 x PoE+ + 2 x Gigabit + 2 x SFP unmanaged - STC-2024GP - $93.5.\n\nOne question: for the Uniview sites, is it the 8-port unmanaged that moves, or do installers ask for VLAN and management?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+  },
   "as_of": "2026-10-24"
  }
 }

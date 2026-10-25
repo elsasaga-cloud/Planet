@@ -2,72 +2,126 @@
  "code": "SB-705",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "在线（herman.cz，快照 2026-10-21）",
- "summary": "捷克 Herman（智能公共交通系统：城市公交与线路客运的信息、售检票、通信与控制系统；České dráhy 车载摄像系统、InnoTrans 2026 参展；自有车载 M12 PoE 交换机 ECU-05LGM（5×1G）/ ECU-08LM（8×100M）、PoE 注入/转换器；表内「PVC 有意思」）；群发 7 次无回复。",
- "type": "公共交通车载系统厂商（EN50155/M12，守界）",
+ "website_status": "在线（eware.com.hk，快照 2026-10-21）",
+ "summary": "香港 Eware（视频会议、电话系统、音频会议、统一通信、AV 系统、IP 话机与 VoIP 方案商；Yealink MVC 系列；Ubiquiti；KP Ivan Lau（System Engineer）；表内「switch」）；群发 8 次无回复。",
+ "type": "AV/UC 系统集成商（香港，PoE 为配套）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Ubiquiti",
+  "Yealink"
+ ],
  "evidence": [
   {
    "kind": "官网快照",
-   "claim": "官网标题：Herman | Inteligentní veřejná doprava；品类词 网络交换 / PoE",
-   "quote": "Dodáváme informační, odbavovací, komunikační a řídicí systémy MHD a veřejné linkové dopravy.",
-   "url": "https://www.herman.cz/cs/",
+   "claim": "官网标题：Video Conference, Telephone System, Audio Conference, Unified Communications, Audio Visual；品类词 安防监控（CCTV / 门禁） / 无线 / WiFi",
+   "quote": "Eware specialize in providing video conference, telephone system, audio conference, unified communications, audio visual system, IP phone and VoIP solutions in Hong Kong.",
+   "url": "https://www.eware.com.hk/en/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
    "claim": "表内兴趣/备注",
-   "quote": "PVC有意思",
+   "quote": "switch",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   },
   {
    "kind": "官网快照",
-   "claim": "Herman 定位",
-   "quote": "Herman | Inteligentní veřejná doprava ; Dodáváme informační, odbavovací, komunikační a řídicí systémy MHD a veřejné linkové dopravy. ; ECU-05LGM ; ECU-08LM",
-   "url": "https://www.herman.cz/cs/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "PVC 有意思",
-   "quote": "PVC有意思",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "claim": "Eware 定位",
+   "quote": "Eware specialize in providing video conference, telephone system, audio conference, unified communications, audio visual system, IP phone and VoIP solutions in Hong Kong",
+   "url": "https://www.eware.com.hk/en/",
    "date": "2026-10-21"
   }
  ],
- "kp": [],
- "grade_override": "C",
- "override_reason": "守界：公共交通车载/轨道系统厂商（Herman，M12 EN50155 车载 PoE 交换机），Saga 无对应品类；c_sub=守界：轨道/车载",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "kp": [
+  {
+   "name": "Ivan Lau",
+   "title": "System Engineer",
+   "email": "info@eware.com.hk",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "捷克",
-  "other": "官网 herman.cz，语言 cs，快照状态 ok；角色判定来源：官网文案"
+  "hq": "香港",
+  "other": "官网 eware.com.hk，语言 ?，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "公共交通车载信息 / 售检票 / 通信控制系统"
+  "视频会议 / 电话系统 / UC / AV 集成（香港）"
  ],
  "channels": {
-  "role": "公共交通车载系统厂商（EN50155/M12，守界）",
-  "region": "捷克",
-  "contact": "trade@herman.cz"
+  "role": "AV/UC 系统集成商（香港，PoE 为配套）",
+  "region": "香港",
+  "contact": "info@eware.com.hk"
  },
  "signals": [
-  "页面 /cs/5-x-1gbit-ethernet-switch-s-poe-m12-ecu-05lgm-4t-06-24、/cs/8-x-100-mbit-ethernet-switch-s-poe-m12-ecu-08lm-7tx-12-24；官网：Dodáváme informační, odbavovací, komunikační a řídicí systémy MHD a veřejné linkové dopravy",
-  "首页：České dráhy nasazují nový kamerový systém od společnosti Herman ; Děkujeme za návštěvu na InnoTrans 2026"
+  "官网：Eware specialize in providing video conference, telephone system, audio conference, unified communications, audio visual system, IP phone and VoIP solutions in Hong Kong；站内 MVC940 / MVC860 / CP700（Yealink）",
+  "表内：switch；KP Ivan Lau / System Engineer"
  ],
  "risks": [
-  "守界：公共交通/铁路车载（České dráhy、InnoTrans），交换机为 M12 EN50155 车载型，Saga 无对应品类"
+  "非主攻区（T5，香港）；PoE 为 AV/UC 配套（量小）；8 次无回复，仅 info@"
  ],
  "saga_fit": {
-  "p1": null,
+  "p1": "STC-28DGGPM",
   "tier": 25,
-  "why": "车载/轨道（M12、EN50155）为其交换机唯一场景，Saga 无对应品类且守界 → 改 C"
+  "why": "IP 话机/会议室 PoE 配套 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）；24 口 STC-424DGGPM-280W（$140.1）"
  },
- "email_hook": "（不发送：车载/轨道守界）"
+ "email_hook": "Ivan, for the PoE switches behind your IP phone and video-conference deployments, we supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ models (VLAN/QoS, 802.3at/bt options) from single units, CE/RoHS, EXW USD — which port count do your meeting-room projects use most?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 19 封 2025→2026，无记录打开，0 回；收件 info@eware.com.hk；主题多为「Industrial PoE Switch、10G Enterprise SFP Switch」；Elsa 箱：`to:eware.com.hk` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 19 / 来 0）（第 74 批(n)））",
+   "type": "AV/UC 系统集成商（香港，PoE 为配套）",
+   "sieve": "1（只收到群发）",
+   "stop": "只打通用邮箱，无记录打开",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "香港 非主攻",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 19；用户表：「switch」；研究档 risks：非主攻区（T5，香港）；PoE 为 AV/UC 配套（量小）；8 次无回复，仅 info@"
+  },
+  "situation": "香港 Eware（视频会议、电话系统、音频会议、统一通信、AV 系统、IP 话机与 VoIP 方案商；Yealink MVC 系列；Ubiquiti；KP Ivan Lau（System Engineer）；表内「switch」）；群发 8 次无回复。",
+  "need": "IP 话机/会议室 PoE 配套 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）；24 口 STC-424DGGPM-280W（$140.1）",
+  "breakpoint": "非主攻区（T5，香港）；PoE 为 AV/UC 配套（量小）；8 次无回复，仅 info@",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-05-05 $300（48 Port PoE Managed Switch）、2025-08-05 $240（24 Port Fiber Switch）、2025-10-10 $280（10G Enterprise SFP Switch）",
+   "why": "IP 话机/会议室 PoE 配套 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）；24 口 STC-424DGGPM-280W（$140.1）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Ivan, for the PoE switches behind your IP phone and video-conference deployments, we supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ models (VLAN/QoS, 802.3at/bt options) from single units, CE/RoHS, EXW USD — which port count do your meeting-room projects use most?"
+  },
+  "facts": [
+   {
+    "date": "2026-09-15",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "Industrial PoE Switch、10G Enterprise SFP Switch",
+    "why": "19 封 / 0 次打开 / 0 回｜首封 2025-02-11 → 末封 2026-09-15（19 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "switch",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

@@ -1,134 +1,151 @@
 {
  "code": "SB-112",
- "name_official": "İnterpos Bilgi Teknolojileri Elektronik San. ve Tic. A.Ş.（İstanbul Ataşehir, TR；inter-pos.com）",
+ "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "在线",
- "summary": "伊斯坦布尔 Ataşehir 的零售自动化/POS 设备公司 İnterpos（1995 年成立；POS 收银机、EFT-POS、电子秤、打印机、条码系统；11–50 人、营收 $1–10M；董事长/总裁 Hulusi Kültür（ex-Inter Mühendislik、Inter Hong Kong）；兼 Tadiran 电池土耳其代理；İçerenköy Mah. Prof. Dr. Necmettin Erbakan Cad. Kayışdağı İş Merkezi K:8 No:91；+90 216 469 64 00）。ISAF 记录：没做交谈、给了名片；WhatsApp 已加（+90 532 264 89 90）；无后续跟进。零售终端网络需要小型 PoE/非 PoE 交换机 → 分销/配套 20%。",
- "type": "",
+ "website_status": "在线（opax.com，快照 2026-10-21）",
+ "summary": "土耳其/波兰 Opax（Opax Alarm Sistemleri：有线/无线/WiFi/GSM 报警、无线火灾报警、摄像机与网络产品；自有 OPAX 标 PoE 交换机 OPAX-0890W（8 口百兆 PoE + 2 上联 90 W）、OPAX-08120W、OPAX-1619（16 口 + 2 千兆上联）、PoE 延长器；表内「商业 PoE 用的洪瑞（HRUI）的」；KP Damian Brozda（Vice President, opax.pl）、Aleksandar Radonic（COO））；表内 2 次跟进无回复。",
+ "type": "报警/安防品牌商（土耳其/波兰，OPAX 标 PoE，现 HRUI）",
  "size": "",
  "brands_seen": [
-  "Tadiran（电池代理）"
+  "HRUI"
  ],
  "evidence": [
   {
-   "kind": "LinkedIn",
-   "claim": "公司信息与 KP 邮箱",
-   "quote": "İnterpos Bilgi Teknolojileri Elektronik San. ve Tic. A.Ş. … Şirket büyüklüğü: 11 - 50 çalışan … Genel Merkez: İstanbul, Ataşehir … Kuruluş: 1995 … Uzmanlık Alanları: Posyazarkasa, Yazarkasa, EFT-Pos, Terazi, Yazıcı, Barkod Sistemleri ve Perakende … Hulusi K. Y.K.B İnterpos AŞ. hkultur@inter-pos.com",
-   "url": "https://tr.linkedin.com/company/interpos-bilgi-teknolojileri-elektronik-san-ve-tic-a-%C5%9F-",
+   "kind": "官网快照",
+   "claim": "官网标题：Opax Alarm Sistemleri | Kablolu, Kablosuz, WiFi ve GSM Alarm Çözümleri - Kablosuz Yangın S；品类词 安防监控（CCTV / 门禁） / 无线 / WiFi / 网络交换 / PoE",
+   "quote": "Opax alarm ve güvenlik sistemleriyle ev ve iş yerinizi koruma altına alın. Kablolu, kablosuz, WiFi ve GSM destekli Opax alarm sistemleri, kablosuz yangın alarm sistemleri, kamera çözümleri ve dedektörlerle Türkiye genelinde kesintisiz güven",
+   "url": "https://www.opax.com/",
    "date": "2026-10-21"
-  },
-  {
-   "kind": "名录",
-   "claim": "地址、规模、总裁履历",
-   "quote": "Hulusi Kültür is the President at İnterpos Bilgi Teknolojileri Elektronik San ve Tic AŞ … Previously, Hulusi was the Director at Inter (Hongkong) Ltd. … It employs 10to19 people and has 1Mto5M of revenue … no 91 İçerenköy Mah. Prof.dr. Necmettin Erbakan Cad. Kayışdağı İş Merkezi K 8 … +90 2164696400",
-   "url": "https://www.zoominfo.com/p/Hulusi-Ku%CC%88ltu%CC%88r/1540298018",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "厂商名录",
-   "claim": "Tadiran 代理",
-   "quote": "Tel: +90(216) 469 64 00 Fax: +90(216) 469 64 06 info@inter-pos.com www.inter-pos.com Contact Person: Hulusi Kültür",
-   "url": "https://tadiranbat.com/distributors/sales-network-international/",
-   "date": "2025-10-06"
   },
   {
    "kind": "用户表",
-   "claim": "ISAF：给名片未交谈；WhatsApp 已加",
-   "quote": "没做交谈，给了名片 / 90 53226 48990 已加",
+   "claim": "表内兴趣/备注",
+   "quote": "商业POE 用的洪瑞的；90 4449890 网站上的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "OPAX PoE 产品页",
+   "quote": "/kamera-ekipmanlari/ag-urunleri/prd-opax-0890w-8-port-10100m-poe-switch-2-port-uplink-90w ; prd-opax-1619-16-port-10100m-poe-switch-2-port-gigabit-upl…",
+   "url": "https://www.opax.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "商业 PoE 用的洪瑞的",
+   "quote": "商业POE 用的洪瑞的",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
  "kp": [
   {
-   "name": "Hulusi Kültür",
-   "role": "Yönetim Kurulu Başkanı / President（LinkedIn 公开）",
-   "email": "hkultur@inter-pos.com（LinkedIn 公开 + 用户表）",
-   "phone": "+90 532 264 89 90（用户表，WhatsApp 已加）",
-   "source": "https://tr.linkedin.com/company/interpos-bilgi-teknolojileri-elektronik-san-ve-tic-a-%C5%9F-"
+   "name": "Damian Brozda",
+   "title": "Vice President",
+   "email": "damian@opax.pl",
+   "phone": "",
+   "source": "用户表"
+  },
+  {
+   "name": "Aleksandar Radonic",
+   "title": "COO",
+   "email": "satis@opax.com",
+   "phone": "",
+   "source": "用户表"
   }
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（名录核对）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "legal_name": "İnterpos Bilgi Teknolojileri Elektronik San. ve Tic. A.Ş.",
-  "founded": "1995-04-10",
-  "hq": "İçerenköy Mah. Prof. Dr. Necmettin Erbakan Cad. Kayışdağı İş Merkezi K:8 No:91, 34752 Ataşehir / İstanbul（+90 216 469 64 00；info@inter-pos.com）",
-  "size": "11–50（LinkedIn）/ 10–19（ZoomInfo）；营收 $1–10M",
-  "other": "POS/收银机/EFT-POS/电子秤/条码；Tadiran 电池代理；有香港关联公司 Inter (Hongkong) Ltd."
+  "hq": "土耳其",
+  "other": "官网 opax.com，语言 tr，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "零售自动化设备（POS、收银机、EFT-POS、秤、打印机、条码）",
-  "Tadiran 锂电池分销"
+  "报警 / 无线火灾报警 / 摄像机与网络产品（自有品牌 OPAX）"
  ],
  "channels": {
-  "网站": "https://www.inter-pos.com/",
-  "电话": "+90 216 469 64 00（公开）",
-  "邮箱（公开）": "info@inter-pos.com",
-  "LinkedIn": "https://tr.linkedin.com/company/interpos-bilgi-teknolojileri-elektronik-san-ve-tic-a-%C5%9F-"
+  "role": "报警/安防品牌商（土耳其/波兰，OPAX 标 PoE，现 HRUI）",
+  "region": "土耳其",
+  "contact": "satis@opax.com、damian@opax.pl"
  },
  "signals": [
-  "POS/零售门店组网 → 5/8 口千兆与 8 口 PoE 小机为配套 SKU；有香港公司 → 熟悉中国采购、可走 HK 结算"
+  "页面 /kamera-ekipmanlari/ag-urunleri/prd-opax-0890w-8-port-10100m-poe-switch-2-port-uplink-90w、prd-opax-08120w-…、prd-opax-1619-16-port-10100m-poe-switch-2-port-gigabit-upl…、PoE extender；官网：Opax alarm ve güvenlik sistemleriyle ev ve iş yerinizi koruma altına alın",
+  "表内：商业 PoE 用的洪瑞的；KP Damian Brozda / Vice President；Aleksandar Radonic / COO"
  ],
  "risks": [
-  "主业 POS，交换机为边缘品类；ISAF 未交谈；无后续跟进"
+  "Q-33 口径：现供 HRUI 为 Saga 在供厂商——不碰其百兆 PoE 位，仅推 SmartByte/Marvell 千兆线",
+  "土耳其汇率敏感；2 次无回复 → 改向 VP/COO 具名首触"
  ],
  "saga_fit": {
-  "p1": "STC-028GP",
-  "tier": 20,
-  "why": "配套/分销 20% 档：STC-028GP（Saga Realtek 线 8 GE PoE + 2 上联非管理，列表 $24.2）与 STC-08GE（8 GE 桌面，$10.5）作 POS 门店配套；管理型 STC-28DGGPM（$80.7）"
+  "p1": "STC-28DGGPM",
+  "tier": 30,
+  "why": "现供 HRUI（Saga 在供厂商）→ 按 Q-33 口径只推 SmartByte/Marvell 线：千兆 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）作 OPAX 系列千兆升级位；24 口 STC-424DGGPM-280W（$145.7）；现有百兆 PoE 位不碰"
  },
- "email_hook": "Hulusi Bey, POS ve yazarkasa kurulumlarınızın yanında satabileceğiniz 8 port gigabit PoE + 2 uplink masaüstü switch fiyatı 25,1 USD EXW, 8 port gigabit 10,5 USD; Hong Kong şirketiniz üzerinden faturalandırma mümkün — ilk deneme partisi için 20 adet yeterli mi?",
+ "email_hook": "Damian, as the OPAX PoE range moves from fast-Ethernet to gigabit, we can supply a Marvell-based gigabit 8-PoE + 2 SFP L2+ (and 24-PoE 280 W) under the OPAX label from small lots, CE/RoHS — is a gigabit PoE upgrade planned for your camera kits?",
  "mail_review": {
   "binding": {
-   "level": "轻度触达（展会名片 + WhatsApp 已加，邮件 0 封）：用户表「没做交谈，给了名片 / 90 53226 48990 已加」；S/A 邮箱 0 封；Elsa 箱：`to:inter-pos.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(i)）",
-   "type": "—",
-   "sieve": "3（已加 WhatsApp，表内有往来）",
-   "stop": "仓库只有用户表一行；往来在 Simon 手机",
-   "revive": "首封邮件（A 邮箱，按 email_hook）+ WhatsApp 一句话",
-   "lane": "土耳其 非主攻",
-   "cadence": "一封",
-   "evidence": "gmail_digest：out 0；用户表：「没做交谈，给了名片 / 90 53226 48990 已加」；研究档 risks：主业 POS，交换机为边缘品类；ISAF 未交谈；无后续跟进"
+   "level": "未触达（A/S 邮箱 19 封 2024→2026，无记录打开，0 回；收件 damian@opax.pl, satis@opax.com；主题多为「10G Enterprise SFP Switch、Industrial PoE Switch」；Elsa 箱：`to:opax.com OR to:opax.pl` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 19 / 来 0）（第 74 批(i)））",
+   "type": "报警/安防品牌商（土耳其/波兰，OPAX 标 PoE，现 HRUI）",
+   "sieve": "1（只收到群发）",
+   "stop": "19 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱；Q-33 供应商渠道客户",
+   "revive": "不动（Q-33）",
+   "lane": "TR 主攻（四主）",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 19；用户表：「商业POE 用的洪瑞的；90 4449890 网站上的」；研究档 risks：Q-33 口径：现供 HRUI 为 Saga 在供厂商——不碰其百兆 PoE 位，仅推 SmartByte/Marvell 千兆线"
   },
-  "situation": "伊斯坦布尔 Ataşehir 的零售自动化/POS 设备公司 İnterpos（1995 年成立；POS 收银机、EFT-POS、电子秤、打印机、条码系统；11–50 人、营收 $1–10M；董事长/总裁 Hulusi Kültür（ex-Inter Mühendislik、Inter Hong Kong）；兼 Tadiran 电池土耳其代理；İçerenköy Mah. Prof. Dr. Necmettin Erbakan Cad. Kayışdağı İş Merkezi K:8 No:91；+90 216 469 64 00）。ISAF 记录：没做交谈、给了名片；WhatsApp 已加（+90 532 264 89 90）；无后续跟进。零售终端网络需要小型 PoE/非 PoE 交换机 → 分销/配套 20%。",
-  "need": "配套/分销 20% 档：STC-028GP（Saga Realtek 线 8 GE PoE + 2 上联非管理，列表 $24.2）与 STC-08GE（8 GE 桌面，$10.5）作 POS 门店配套；管理型 STC-28DGGPM（$80.7）",
-  "breakpoint": "主业 POS，交换机为边缘品类；ISAF 未交谈；无后续跟进",
+  "situation": "土耳其/波兰 Opax（Opax Alarm Sistemleri：有线/无线/WiFi/GSM 报警、无线火灾报警、摄像机与网络产品；自有 OPAX 标 PoE 交换机 OPAX-0890W（8 口百兆 PoE + 2 上联 90 W）、OPAX-08120W、OPAX-1619（16 口 + 2 千兆上联）、PoE 延长器；表内「商业 PoE 用的洪瑞（HRUI）的」；KP Damian Brozda（Vice President, opax.pl）、Aleksandar Radonic（COO））；表内 2 次跟进无回复。",
+  "need": "现供 HRUI（Saga 在供厂商）→ 按 Q-33 口径只推 SmartByte/Marvell 线：千兆 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）作 OPAX 系列千兆升级位；24 口 STC-424DGGPM-280W（$145.7）；现有百兆 PoE 位不碰",
+  "breakpoint": "Q-33 口径：现供 HRUI 为 Saga 在供厂商——不碰其百兆 PoE 位，仅推 SmartByte/Marvell 千兆线",
   "saga_now": {
-   "p1": "STC-028GP",
-   "tier": 20,
-   "price": "Realtek 线按 HRUI 2026-09-30 进价 +20% 现算（Q-47 默认，不用 Drive 旧表价）：STC-028GP $24.2→$25.1；按主表（研究档 saga_fit）",
-   "why": "配套/分销 20% 档：STC-028GP（Saga Realtek 线 8 GE PoE + 2 上联非管理，列表 $24.2）与 STC-08GE（8 GE 桌面，$10.5）作 POS 门店配套；管理型 STC-28DGGPM（$80.7）",
+   "p1": "STC-28DGGPM",
+   "tier": 30,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-08 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-06-14 $65（10G Media Converter）、2025-09-30 $280（10G Enterprise SFP Switch）",
+   "why": "现供 HRUI（Saga 在供厂商）→ 按 Q-33 口径只推 SmartByte/Marvell 线：千兆 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）作 OPAX 系列千兆升级位；24 口 STC-424DGGPM-280W（$145.7）；现有百兆 PoE 位不碰",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "2026-11（Simon）",
-   "channel": "A 邮箱首封 + WhatsApp（Simon）",
-   "action": "首封 + 一句话",
-   "one_question": "Hulusi Bey, POS ve yazarkasa kurulumlarınızın yanında satabileceğiniz 8 port gigabit PoE + 2 uplink masaüstü switch fiyatı 25,1 USD EXW, 8 port gigabit 10,5 USD; Hong Kong şirketiniz üzerinden faturalandırma mümkün — ilk deneme partisi için 20 adet yeterli mi?"
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
   },
   "facts": [
+   {
+    "date": "2024-11-05",
+    "dir": "去",
+    "who": "Simon → Angora Networks（SA-077）附件 Turkey Client List.xlsx",
+    "quote": "名单行：「Commercial POE satis@opax.com 90 4449890 https://www.opax.com/ag-urunleri/prd-opax-0810-8-port-10100m-poe-switch-2-port-uplink-120w」",
+    "why": "Saga 2024-11-05 把本户列入交给 Angora（安卡拉，Saga 提议的欧盟/土耳其分销伙伴）的 64 家起步名单；此后 Saga 仍直发本户。若 Angora 已接触过本户，Saga 直发会与自己提议的渠道打架 → Q-51（默认：直发继续，Angora 报了价的户 Saga 只做技术支持）",
+    "k": "gmail_s 2024-11-05 Re: Invoice_5pcs STC-424DGGPM-280W（附件）+ Drive PI 7_土耳其 Turkey_Client_List.xlsx"
+   },
+   {
+    "date": "2026-10-06",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "10G Enterprise SFP Switch、Industrial PoE Switch",
+    "why": "19 封 / 0 次打开 / 0 回｜首封 2024-06-14 → 末封 2026-10-06（19 去 / 0 来）",
+    "k": "gmail_digest"
+   },
    {
     "date": "2026-10-21",
     "dir": "用户表",
     "who": "Simon",
-    "quote": "没做交谈，给了名片 / 90 53226 48990 已加",
+    "quote": "商业POE 用的洪瑞的；90 4449890 网站上的",
     "why": "表内备注",
     "k": "用户表"
    }
   ],
   "proof_gaps": [
-   "WhatsApp 往来未入库"
+   "在 Saga 给 Angora 的 Turkey Client List（2024-11-05）里——Angora 是否接触过本户无记录（Q-51）"
   ],
-  "draft_en": {
-   "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
-   "body": "Hulusi Bey, POS ve yazarkasa kurulumlarınızın yanında satabileceğiniz 8 port gigabit PoE + 2 uplink masaüstü switch fiyatı 25,1 USD EXW, 8 port gigabit 10,5 USD; Hong Kong şirketiniz üzerinden faturalandırma mümkün — ilk deneme partisi için 20 adet yeterli mi?"
-  },
+  "draft_en": null,
   "as_of": "2026-10-24"
  }
 }

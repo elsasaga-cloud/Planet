@@ -1,0 +1,74 @@
+{
+ "code": "SC-216",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（diamondsystems.com，快照 2026-10-21）",
+ "summary": "美国 Diamond Systems（小尺寸嵌入式计算：SBC / COM 载板 / PC/104 / 数据采集；以太网交换机为板级产品（EPS-12000-CM 等）；表内「ethernet switch 都是板子，整体是 I/O，优质公司」）；群发 20 次无回复。",
+ "type": "嵌入式板级计算制造商（交换机为板卡）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Small form factor embedded computing: Single board computer, SBC, Carrier board, COM carri；品类词 工业自动化 / OT 网络 / 无线 / WiFi / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "3.5\" Form Factor；Jasper；Rugged COM Express carrier board and SBC with 11th Gen Core i7 processor；PC/104；Athena IV；COM-based PC/104 SBC with Data Acquisition",
+   "url": "https://www.diamondsystems.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "ethernet switch 都是板子 整体是I/O 优质公司",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "小尺寸嵌入式计算：SBC、载板、COM",
+   "quote": "Small form factor embedded computing: Single board computer, SBC, Carrier board, COM carri…",
+   "url": "https://www.diamondsystems.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "交换机都是板子",
+   "quote": "ethernet switch 都是板子 整体是I/O 优质公司",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "品类不符：嵌入式板级制造商（以太网交换机为 PC/104 板卡自研），非整机买家；c_sub=品类不符（板级嵌入式）",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "美国",
+  "other": "官网 diamondsystems.com，语言 ?，快照状态 ok；角色判定来源：待核"
+ },
+ "business_lines": [
+  "嵌入式 SBC / 载板 / 数据采集 / 板级以太网交换"
+ ],
+ "channels": {
+  "role": "嵌入式板级计算制造商（交换机为板卡）",
+  "region": "美国",
+  "contact": "safnani@diamondsystems.com、gkochno@diamondsystems.com"
+ },
+ "signals": [
+  "官网：Single board computer, SBC, Carrier board, COM carrier；产品 Jasper / Athena IV / Helios",
+  "站内型号 EPS-12000-CM / DS-MPE-GE210 / E104-MPE"
+ ],
+ "risks": [
+  "品类不符：以太网交换机为板级自研产品（EPS 系列），不采购整机",
+  "20 次无回复"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 25,
+  "why": "交换机均为板级（PC/104 / COM 载板）自研产品，非整机采购 → 品类不符 → 改 C"
+ },
+ "email_hook": "（不发送：板级嵌入式产品，品类不符）"
+}

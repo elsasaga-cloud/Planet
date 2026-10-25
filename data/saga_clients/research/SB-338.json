@@ -1,149 +1,126 @@
 {
-  "code": "SB-338",
-  "name_official": "HCS Kablolama Sistemleri San. ve Tic. A.Ş.（HES Cabling Systems，İstanbul Başakşehir, TR；hescs.com；HES Hacılar Elektrik 集团）",
-  "researched_at": "2026-10-21",
-  "website_status": "在线",
-  "summary": "HCS Kablolama Sistemleri（HES Cabling Systems）：土耳其最大电缆制造商 HES Hacılar Elektrik 为本地 LAN 市场创立的结构化布线品牌（2000-11-22 成立；51–200 人；铜缆/光缆布线系统、CPR 认证；İkitelli OSB Mah. 8. Cad. BOYPAŞ Blok No:3a Başakşehir；+90 212 438 25 75；info@hescs.com）。ISAF 记录：Cihat Tunçbilek（Product & Product Development Manager，2015 年起在 HCS）——找商业级 PoE 交换机，问是否带 L2/L3；无后续跟进。品牌方补有源产品 → OEM 30%。",
-  "type": "",
-  "size": "",
-  "brands_seen": [
-    "HCS / HES Cabling Systems（自有品牌）"
-  ],
-  "evidence": [
-    {
-      "kind": "名录",
-      "claim": "KP 职务、集团背景、规模",
-      "quote": "Cihat Tunçbilek Manager, Product & Product Development at HCS Kablolama Sistemleri Sanayi ve Ticaret … HCS was conceived by HES HACILAR ELEKTRIK COMPANY , the largest cable producer in Turkey in order to provide the Turkish market with the highest quality, state-of-the-art cabling systems for local area networks … +90 2124382575 … Number of Employees 51-200",
-      "url": "https://www.zoominfo.com/p/Cihat-Tunc%CC%A7bilek/8077892179",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网文件",
-      "claim": "KP 签署 CPR 声明",
-      "quote": "Signed for and on behalf of the manufacturer by: Cihat Tunçbilek Product & Product Development Manager",
-      "url": "https://hescs.com/download/certificate/cpr/HCS%20Self-Declarations%20for%20Class%20EFca%20Cables/MFO-xxxxx-xxx-Fx.pdf",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "LinkedIn",
-      "claim": "规模与成立",
-      "quote": "HCS Kablolama Sistemleri … Sektör: Bilgisayar Ağları Ürünleri … Şirket büyüklüğü: 51 - 200 çalışan … Genel Merkez: İstanbul, Başakşehir … Kuruluş: 2000",
-      "url": "https://tr.linkedin.com/company/hcskablolamasistemleri",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "Facebook",
-      "claim": "地址与联系方式",
-      "quote": "İkitelli OSB Mah. 8. Cad. BOYPAŞ Blok No: 3a Başakşehir, İstanbul … +90 212 438 25 75 info@hescs.com hescs.com",
-      "url": "https://www.facebook.com/hescs/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "ISAF：找商用 PoE，问 L2/L3",
-      "quote": "找商业级POE交换机 问是否带L2/L3 / Cihat TUNCBILEK / ctuncbilek@hescs.com",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Cihat Tunçbilek",
-      "role": "Product & Product Development Manager（CPR 声明 + 名录公开）",
-      "email": "ctuncbilek@hescs.com（用户表）",
-      "phone": "+90 212 438 25 75（公司）",
-      "source": "https://www.zoominfo.com/p/Cihat-Tunc%CC%A7bilek/8077892179"
-    },
-    {
-      "name": "Fatma Sancar",
-      "role": "Regional Sales Manager（名录公开）",
-      "email": "—",
-      "phone": "—",
-      "source": "https://rocketreach.co/hcs-kablolama-sistemleri-profile_b43b5d3ac190e399"
-    }
-  ],
-  "grade_override": "A",
-  "override_reason": "B→A：土耳其最大电缆厂 HES Hacılar Elektrik 旗下结构化布线品牌 HCS（2000 年成立，51–200 人），产品与产品开发经理 Cihat Tunçbilek 在 ISAF 直接询商用 PoE 交换机并问 L2/L3——品牌方为布线产品线补有源交换机的典型 OEM 入口，可赢且值得长期跟进",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B→A 加厚 v1（官网 + 名录核对）"
+ "code": "SB-338",
+ "name_official": "Max Protect（突尼斯）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（max-protect.com，快照 2026-10-21，法语）",
+ "summary": "突尼斯视频监控 / 报警 / 消防探测分销与安装商（Dahua、Uniview、Imou、Ajax、Elkron；两家门店；surveillance 162、poe 38），Manager Aymen Gabsi：很在意价格，曾以 $40 卖给他一台 VSC 2 光 8 电管理 PoE 样品；6 次跟进无实质回复。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "Dahua",
+  "Uniview",
+  "Imou",
+  "Ajax",
+  "Hikvision"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "监控摄像机、报警、可视门铃、火灾探测；品牌 Dahua / Uniview / Imou / Ajax / Elkron；两家门店；72 324 111",
+   "quote": "Caméras de surveillance, alarmes, visiophones et détection incendie Dahua, Uniview, Imou, Ajax, Elkron. Installation et livraison partout en Tunisie… Nos 2 magasins",
+   "url": "https://max-protect.com/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "legal_name": "HCS Kablolama Sistemleri Sanayi ve Ticaret A.Ş.",
-    "founded": "2000-11-22",
-    "hq": "İkitelli OSB Mah. 8. Cad. BOYPAŞ Blok No:3a, Başakşehir / İstanbul（+90 212 438 25 75；info@hescs.com）；登记地址 Turgut Reis Mah. Barbaros Cad. Vadi Bulvarı No:1 Esenler",
-    "size": "51–200（LinkedIn / ZoomInfo）",
-    "other": "HES Hacılar Elektrik（土耳其最大电缆厂）子公司；结构化布线品牌；CPR 自我声明由 Cihat Tunçbilek 签署"
-  },
-  "business_lines": [
-    "结构化布线系统（铜缆、光缆、配线架、模块）——HCS 品牌",
-    "（拟新增）有源网络设备：商用 PoE 交换机 L2/L3"
-  ],
-  "channels": {
-    "网站": "https://hescs.com/",
-    "电话": "+90 212 438 25 75（公开）",
-    "邮箱（公开）": "info@hescs.com",
-    "LinkedIn": "https://tr.linkedin.com/company/hcskablolamasistemleri"
-  },
-  "signals": [
-    "产品开发经理问 L2/L3 商用 PoE = 为 HCS 品牌补交换机线 → OEM 贴牌（HCS 标、HES 集团渠道）",
-    "布线品牌的客户是系统集成商 → 一旦上线即为稳定批量"
-  ],
-  "risks": [
-    "集团决策链长；可能同时比价多家中国厂；无后续跟进"
-  ],
-  "saga_fit": {
-    "p1": "STC-424DGGPM-280W",
-    "tier": 30,
-    "why": "OEM 30% 档：STC-424DGGPM-280W（24 GE PoE+ 4 SFP L2+，280 W，$145.7）作 HCS 品牌主力 L2 PoE；L3 用 STC-424XGGM(L3)（24 GE + 4×10G，$291.5）；楼层 STC-28DGGPM（$87.4）"
-  },
-  "email_hook": "Cihat Bey, ISAF'ta sorduğunuz L2/L3 sorusunun cevabı: 24 port PoE+ (280 W) + 4 SFP L2+ model HCS etiketiyle EXW 145,7 USD, 24 port + 4×10G L3 model 291,5 USD; HCS kablolama ürün gamına eklemek için önce hangi model için numune isterseniz hazırlayayım?",
-  "mail_review": {
-    "binding": {
-      "level": "未绑定（A/S 邮箱 0 封；Elsa 箱：`to:hescs.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(g)））",
-      "type": "土耳其 HCS Kablolama",
-      "sieve": "0（邮件层无人工回复）",
-      "stop": "—",
-      "revive": "—",
-      "lane": "TR",
-      "cadence": "不主动",
-      "evidence": "邮件：A/S 两箱均无发信记录（0 去 / 0 来）"
-    },
-    "situation": "仓库无邮件。",
-    "need": "24 口 PoE+ L2+ / 24 口 + 4×10G L3 商用机（HCS 标）",
-    "breakpoint": "—",
-    "saga_now": {
-      "p1": "STC-424DGGPM-280W（HCS 贴牌）/ 商用 L3 24+4（LT-S8528XG-4XS24GT，Saga 暂无型号）",
-      "tier": 30,
-      "price": "锚价：STC-424DGGPM-280W $145.7（OEM 30% 档）/ 商用 L3 24+4（SmartByte LT-S8528XG-4XS24GT，无 Saga 型号）291.5（30% 档；此前误标 25% 档并杜撰型号 STC-424XGGM(L3)，第 76 批(b) 改）（第 72 批 2026-10-24）；—",
-      "why": "布线品牌补交换机线 → OEM 贴 HCS 标；产品开发经理在 ISAF 问 L2/L3",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "待 Simon 排期（首封；ISAF 续）",
-      "channel": "A 邮箱 → ctuncbilek@hescs.com（Cihat Tunçbilek；土耳其语）",
-      "action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 74 批(q) 2026-10-25：英文信稿已写 `draft_en`——ISAF 问题 L2/L3 两款并列、OEM 30% 价、只问一个「先打样哪款」；Turkish 一句话版留在 one_question 备用，发信用英文）（第 75 批(ak) 2026-10-25：信稿复检修正——「(VLAN, QoS, IGMP, LACP, PoE sc」→「(VLAN, QoS)」）（第 76 批(b) 2026-10-25：audit_ab 硬错误修正：去掉杜撰型号 STC-424XGGM(L3)，tier 25→30 与文本一致）（第 76 批(c) 2026-10-25：0 事实户补时间线事实）（第 76 批(d) 2026-10-25：锚价小数写法 145,7 → $145.7）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
-      "one_question": "Cihat Bey, ISAF'ta sorduğunuz L2/L3 sorusunun cevabı: 24 port PoE+ (280 W) + 4 SFP L2+ model HCS etiketiyle EXW 145,7 USD, 24 port + 4×10G L3 model 291,5 USD; HCS kablolama ürün gamına eklemek için önce hangi model için numune isterseniz hazırlayayım?"
-    },
-    "facts": [
-      {
-        "date": "2025-10",
-        "dir": "面",
-        "who": "ISAF 2025 现场（用户 Clients 表记录）",
-        "quote": "找商业级POE交换机 问是否带L2/L3 / Cihat TUNCBILEK / ctuncbilek@hescs.com",
-        "why": "展会面谈记录（录入 2026-10-21）",
-        "k": "clients_table"
-      }
-    ],
-    "proof_gaps": [
-      "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 从未去信、Replied 索引亦无此户），仓库未见原文"
-    ],
-    "draft_en": {
-      "subject": "HCS switch line - the L2 / L3 answer from ISAF 2025",
-      "body": "Hi Cihat,\n\nAt ISAF 2025 in Istanbul you asked whether the 24-port PoE switch we showed is L2 or L3 - this is the plain answer, a year late but complete.\n\nBoth exist, both 1U rack units, HCS label and your model number on the unit and the web GUI:\n\n- L2+ (VLAN, QoS): 24 x Gigabit PoE+ (280 W budget) + 4 SFP, model STC-424DGGPM-280W - $145.7 USD EXW (OEM price, MOQ 1, 15-day validity).\n- L3 (static routing + dynamic routing): 24 x Gigabit + 4 x 10G SFP+, non-PoE, L3 version of our commercial 24+4 line (no separate catalogue code yet - it is quoted against your spec sheet) - $291.5 USD EXW (OEM price, MOQ 1, 15-day validity). The L3 tier with PoE exists only in our industrial DIN/rack series, quoted separately if needed.\n\nBoth are Marvell-based managed switches, CE/RoHS, 1-year warranty, 4-7 working days for the first lots. Housing, carton and manual are neutral by default; HCS logo on the front panel is free of charge, colour box from 200 sets.\n\nOne question: which of the two should I prepare first as an evaluation unit (at the unit price) for your product team - the L2+ PoE model that fits the HCS cabling range, or the L3 unit?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
-    },
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "很在意价格；便宜卖了一台 VSC 2 光 8 电带网管带 PoE 的样品 40 美金",
+   "quote": "兴趣：很在意价格，便宜卖了一台VSC2光8电带网管，带PoE的样品给他 40美金",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Aymen Gabsi",
+   "title": "Manager",
+   "email": "direction@max-protect.com",
+   "phone": "+216 98 508 507",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照核对：已购样）"
+ },
+ "company_facts": {
+  "legal_name": "Max Protect（待核）",
+  "founded": "（待核）",
+  "hq": "Tunisia（+216 72 = Nabeul/Bizerte 区）",
+  "size": "小型安防分销 + 门店",
+  "other": "已购 Saga 样品（$40）"
+ },
+ "business_lines": [
+  "视频监控 / 报警 / 消防探测分销与安装"
+ ],
+ "channels": {
+  "role": "安防分销 + 安装商",
+  "region": "突尼斯"
+ },
+ "signals": [
+  "已购一台 2 光 8 管理 PoE 样品（$40 特价）→ 评估结果可追",
+  "PoE 为配套品类"
+ ],
+ "risks": [
+  "极度价格敏感（$40 样品价不可持续）",
+  "突尼斯外汇审批、法语沟通"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 20,
+  "why": "已测样品同口型 → STC-28DGGPM（$80.7 @20%）；低价非管理 HRUI STC-028GP（$24.2）作走量。"
+ },
+ "email_hook": "Aymen, comment s'est passé le test du switch 2 SFP + 8 PoE managé que vous avez reçu ? Pour un premier carton (10 pcs) je peux faire un prix de lancement — version managée ou non managée ($25.1) pour vos chantiers Dahua ?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 16 封 2025→2026，无记录打开，0 回；收件 direction@max-protect.com；主题多为「Industrial PoE Switch、16 Port Ethernet Switch」；Elsa 箱：`to:max-protect.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 16 / 来 0）（第 74 批(n)））",
+   "type": "—",
+   "sieve": "1（只收到群发）",
+   "stop": "16 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "突尼斯 非主攻",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 16；用户表：「兴趣：很在意价格，便宜卖了一台VSC2光8电带网管，带PoE的样品给他 40美金」；研究档 risks：极度价格敏感（$40 样品价不可持续）"
+  },
+  "situation": "突尼斯视频监控 / 报警 / 消防探测分销与安装商（Dahua、Uniview、Imou、Ajax、Elkron；两家门店；surveillance 162、poe 38），Manager Aymen Gabsi：很在意价格，曾以 $40 卖给他一台 VSC 2 光 8 电管理 PoE 样品；6 次跟进无实质回复。",
+  "need": "已测样品同口型 → STC-28DGGPM（$80.7 @20%）；低价非管理 HRUI STC-028GP（$24.2）作走量。",
+  "breakpoint": "极度价格敏感（$40 样品价不可持续）",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 20,
+   "price": "第 73 批 2026-10-24：无管理款按洪瑞 2026-09-30 进价 +20%（028GP $25.1 / 228GP $33.2），旧表 $24/$31 不用；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-29 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-06-17 $300（48 Port PoE Managed Switch）、2025-10-08 $280（10G Enterprise SFP Switch）、2026-06-18 $16000（32 Port 400GB DC Switch）",
+   "why": "已测样品同口型 → STC-28DGGPM（$80.7 @20%）；低价非管理 HRUI STC-028GP（$24.2）作走量。",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Aymen, comment s'est passé le test du switch 2 SFP + 8 PoE managé que vous avez reçu ? Pour un premier carton (10 pcs) je peux faire un prix de lancement — version managée ou non managée ($25.1) pour vos chantiers Dahua ?"
+  },
+  "facts": [
+   {
+    "date": "2026-09-14",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "Industrial PoE Switch、16 Port Ethernet Switch",
+    "why": "16 封 / 0 次打开 / 0 回｜首封 2025-03-20 → 末封 2026-09-14（16 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：很在意价格，便宜卖了一台VSC2光8电带网管，带PoE的样品给他 40美金",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

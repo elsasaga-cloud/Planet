@@ -1,0 +1,67 @@
+{
+ "code": "SC-175",
+ "name_official": "Heat & Combustion Ltd（heatcombustion.co.uk，英国）",
+ "researched_at": "2026-10-21",
+ "website_status": "（见官网快照）",
+ "summary": "英国燃烧 / 供热工程公司，表内「在用 SmartByte 产品了」（终端用户，经 SmartByte 英国渠道）→ Q-33 且为终端非渠道。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "SmartByte（！）"
+ ],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "列于 Clients/A/同行/Smartbyte.xlsx（SmartByte 经销名单）→ Q-33",
+   "quote": "Clients/A/同行/Smartbyte.xlsx 总表",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "在用 Smartbyte 产品了",
+   "quote": "兴趣：在用Smartbyte产品了",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户裁定",
+   "claim": "SmartByte 经销名单客户不碰（潜在渠道冲突）",
+   "quote": "不碰 标记一下 没必要去跟：会有潜在冲突的",
+   "url": "（对话全记录 T27-U5）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "（销售）",
+   "title": "Sales",
+   "email": "sales@heatcombustion.co.uk",
+   "phone": "",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": "C",
+ "override_reason": "Q-33 裁定（Simon 2026-10-21）：SmartByte 经销名单客户，潜在渠道冲突，不碰；c_sub=渠道冲突（Q-33 不碰）",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ Q-33 裁定（Simon 2026-10-21）：不碰、标记、不跟进。",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（名单识别：SmartByte 经销 → Q-33）"
+ },
+ "channels": {
+  "role": "SmartByte 经销 / 用户（渠道冲突）",
+  "region": "英国"
+ },
+ "risks": [
+  "⛔ **Q-33 裁定（Simon 2026-10-21）：不碰**——SmartByte 经销名单客户，潜在渠道冲突；不主动发送、不跟进，仅留档防重复开发"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 20,
+  "why": "Q-33 待裁定；不主动报价。"
+ },
+ "email_hook": "（⛔ 不发送：Q-33 裁定不碰，SmartByte 经销名单客户）",
+ "signals": [
+  "Q-33 裁定：不碰（2026-10-21）"
+ ]
+}

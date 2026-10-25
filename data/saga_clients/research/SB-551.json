@@ -2,42 +2,36 @@
  "code": "SB-551",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "在线（netsys-direct.com，快照 2026-10-21）",
- "summary": "美国 Netsys（netsys-direct.com / netsys-america.com；以太网延长方案：VDSL2 工业级网桥 NV-520G、G.hn 同轴 MDU、PoE 延长器，自有 NV 系列；表内「工业 FS」）；群发 9 次无回复。",
- "type": "以太网延长设备品牌（美国销售公司，台系 NetSys 线）",
+ "website_status": "快照失败（http_error）",
+ "summary": "美国 SANspot（官网快照 HTTP 错误；表内「工业 MC MC 自己的 logo；网站上都是 cable 等无源产品」（备注搜索页 media converter）；KP Deepali、vanil@）；群发 20 次无回复。",
+ "type": "布线网店/自有标 MC（美国）",
  "size": "",
  "brands_seen": [],
  "evidence": [
   {
-   "kind": "官网快照",
-   "claim": "官网标题：Networking Products - Network Extension Devices & Broadband Equipment – www.netsys-direct.；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
-   "quote": "Netsys is your trusted source for quality network extension devices. Explore our collection of versatile networking and broadband products online. Order now.",
-   "url": "https://www.netsys-direct.com/",
-   "date": "2026-10-21"
-  },
-  {
    "kind": "用户表",
    "claim": "表内兴趣/备注",
-   "quote": "工业FS",
+   "quote": "工业MC MC 自己的logo 网站上都是cable等无源产品；https://www.sanspot.com/catalogsearch/result/?q=media+converter",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   },
   {
-   "kind": "官网快照",
-   "claim": "网络延长设备与宽带产品",
-   "quote": "Netsys is your trusted source for quality network extension devices. Explore our collection of versatile networking and broadband products online.",
-   "url": "https://www.netsys-direct.com/",
-   "date": "2026-10-21"
-  },
-  {
    "kind": "用户表",
-   "claim": "工业 FS",
-   "quote": "工业FS",
+   "claim": "工业 MC 自己的 logo；网站多无源",
+   "quote": "工业MC MC  自己的logo 网站上都是cable等无源产品",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Deepali",
+   "title": "（姓氏/职务待核）",
+   "email": "deepali@sanspot.com",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
@@ -47,89 +41,89 @@
  },
  "company_facts": {
   "hq": "美国",
-  "other": "官网 netsys-direct.com，语言 en，快照状态 ok；角色判定来源：官网文案"
+  "other": "官网 sanspot.com，语言 ?，快照状态 http_error；角色判定来源：用户表"
  },
  "business_lines": [
-  "以太网延长（VDSL2 / G.hn / PoE 延长器）",
-  "工业交换机（补充线）"
+  "布线 / 无源产品网店",
+  "MC（自有标）"
  ],
  "channels": {
-  "role": "以太网延长设备品牌（美国销售公司，台系 NetSys 线）",
+  "role": "布线网店/自有标 MC（美国）",
   "region": "美国",
-  "contact": "sales@netsys-america.com"
+  "contact": "deepali@sanspot.com、vanil@sanspot.com"
  },
  "signals": [
-  "官网：YOUR TRUSTED SOURCE FOR ETHERNET EXTENSION SOLUTIONS；GigaPort Industrial Grade VDSL2 Ethernet Bridge Modem (NV-520G)",
-  "博客 /blogs/ethernetextender/commercial-grade-vs-industrial-grade-networking-products"
+  "表内：工业 MC MC 自己的 logo 网站上都是 cable 等无源产品；https://www.sanspot.com/catalogsearch/result/?q=media+converter；KP Deepali",
+  "快照：sanspot.com http_error"
  ],
  "risks": [
-  "主业延长器（VDSL2 / G.hn）：Saga 无对应，仅工业交换机可报",
-  "台系品牌美国销售公司：自有 ODM 体系；9 次无回复，仅 sales@"
+  "官网快照 HTTP 错误（站点待核）；主业无源布线，MC 为副线",
+  "20 次无回复 → 改向 Deepali 具名首触（职务待核）"
  ],
  "saga_fit": {
-  "p1": "STI-080GE",
+  "p1": "STI-110GE",
   "tier": 30,
-  "why": "自有 NV 系列以延长器为主，工业 FS 为补充线 → 工业 8 GE 非管理 STI-080GE（$34.0 @30%）、PoE STI-288GP 贴 Netsys 标；延长器 Saga 不做"
+  "why": "自有 logo MC（网站以无源为主）→ 工业千兆 MC STI-110GE（$24.3 @30%）/ 桌面 MC 用 HRUI（列表价，注明）"
  },
- "email_hook": "For the industrial-grade switches that complement your NV-series Ethernet extenders, we can supply DIN-rail 8-GE and 8-PoE + 2 SFP units under your label from small lots (−40~75 °C, FCC/CE/RoHS) — which port count do your extender customers ask for most?",
+ "email_hook": "Deepali, for the media converters listed under the SANspot label next to your cabling range, we can supply gigabit MCs (desktop or industrial DIN/wall) in your packaging from small lots, FCC/CE/RoHS — which MC configuration do your customers order most?",
  "mail_review": {
   "binding": {
-   "level": "未触达（A 邮箱 21 封 2025→2026，无记录打开，0 回；收件 sales@netsys-america.com；主题多为「Managed Optical Bypass Switch、Industrial PoE Switch」；Elsa 箱：`to:netsys-direct.com OR to:netsys-america.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 21 / 来 0）（第 74 批(h)））",
-   "type": "以太网延长设备品牌（美国销售公司，台系 NetSys 线）",
-   "sieve": "1（只收到群发）",
-   "stop": "只打通用邮箱，无记录打开",
+   "level": "未触达（A/S 邮箱 23 封 2024→2026，1 次记录打开，0 回；收件 deepali@sanspot.com, vanil@sanspot.com；主题多为「Managed Optical Bypass Switch、Marvell Alleycat5 Solution」；Elsa 箱：`to:sanspot.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 23 / 来 0）（第 74 批(h)））",
+   "type": "布线网店/自有标 MC（美国）",
+   "sieve": "1~2（1 次打开）",
+   "stop": "23 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
    "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
    "lane": "US 主攻（四主）",
    "cadence": "一封",
-   "evidence": "gmail_digest：out 21；用户表：「工业FS」；研究档 risks：主业延长器（VDSL2 / G.hn）：Saga 无对应，仅工业交换机可报"
+   "evidence": "gmail_digest：out 23，Opened 标签 1（Simon 群发追踪）；用户表：「工业MC MC 自己的logo 网站上都是cable等无源产品；https://www.sanspot.com/catalogsearch/result/?q=」；研究档 risks：官网快照 HTTP 错误（站点待核）；主业无源布线，MC 为副线"
   },
-  "situation": "美国 Netsys（netsys-direct.com / netsys-america.com；以太网延长方案：VDSL2 工业级网桥 NV-520G、G.hn 同轴 MDU、PoE 延长器，自有 NV 系列；表内「工业 FS」）；群发 9 次无回复。",
-  "need": "自有 NV 系列以延长器为主，工业 FS 为补充线 → 工业 8 GE 非管理 STI-080GE（$34.0 @30%）、PoE STI-288GP 贴 Netsys 标；延长器 Saga 不做",
-  "breakpoint": "主业延长器（VDSL2 / G.hn）：Saga 无对应，仅工业交换机可报",
+  "situation": "美国 SANspot（官网快照 HTTP 错误；表内「工业 MC MC 自己的 logo；网站上都是 cable 等无源产品」（备注搜索页 media converter）；KP Deepali、vanil@）；群发 20 次无回复。",
+  "need": "自有 logo MC（网站以无源为主）→ 工业千兆 MC STI-110GE（$24.3 @30%）/ 桌面 MC 用 HRUI（列表价，注明）",
+  "breakpoint": "官网快照 HTTP 错误（站点待核）；主业无源布线，MC 为副线",
   "saga_now": {
-   "p1": "STI-080GE",
+   "p1": "STI-110GE",
    "tier": 30,
-   "price": "换人再触锚价 STI-080GE $32.5 EXW（最近实报 SB-1019 2025-07-07 $32.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-12 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-07-22 $300（48 Port PoE Managed Switch）、2025-09-17 $240（24 Port Fiber Switch）、2025-10-20 $280（10G Enterprise SFP Switch）、2026-06-22 $16000（32 Port 400GB DC Switch）",
-   "why": "自有 NV 系列以延长器为主，工业 FS 为补充线 → 工业 8 GE 非管理 STI-080GE（$34.0 @30%）、PoE STI-288GP 贴 Netsys 标；延长器 Saga 不做",
+   "price": "换人再触锚价 STI-110GE $26.5 EXW（最近实报 SA-001 2025-11-27 $26.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-12-13 $300（48 Port PoE Managed Switch）、2025-01-06 $240（24 Port Fiber Switch）；群发里他已看到的价（续，第 66 批全量复核）：2024-06-25 $65（Media Converter）、2025-10-08 $280（10G Enterprise SFP Switch）",
+   "why": "自有 logo MC（网站以无源为主）→ 工业千兆 MC STI-110GE（$24.3 @30%）/ 桌面 MC 用 HRUI（列表价，注明）。已打开的主题（1/23 封有打开记录）：「10G Enterprise SFP Switch」(2025-10-08) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
    "when": "2027-Q1（换人后）",
    "channel": "A 邮箱 → 具名 KP",
-   "action": "换收件人再发一封（第 75 批(v) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
-   "one_question": "For the industrial-grade switches that complement your NV-series Ethernet extenders, we can supply DIN-rail 8-GE and 8-PoE + 2 SFP units under your label from small lots (−40~75 °C, FCC/CE/RoHS) — which port count do your extender customers ask for most? Reference: STI-080GE at $32.5 USD EXW (MOQ 1, 15-day validity)."
+   "action": "换收件人再发一封（第 75 批(v) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））（第 75 批(ak) 2026-10-25：信稿复检修正——「DIN-rail or wall-mount,」→「DIN-rail,」）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
+   "one_question": "Deepali, for the media converters listed under the SANspot label next to your cabling range, we can supply gigabit MCs (desktop or industrial DIN/wall) in your packaging from small lots, FCC/CE/RoHS — which MC configuration do your customers order most? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
    {
-    "date": "2026-09-08",
+    "date": "2026-02-26",
     "dir": "去",
-    "who": "A 群发",
-    "quote": "Managed Optical Bypass Switch、Industrial PoE Switch",
-    "why": "21 封 / 0 次打开 / 0 回｜首封 2025-03-12 → 末封 2026-09-08（21 去 / 0 来）",
+    "who": "A/S 群发",
+    "quote": "Managed Optical Bypass Switch、Marvell Alleycat5 Solution",
+    "why": "23 封 / 1 次打开 / 0 回｜首封 2024-06-25 → 末封 2026-02-26（23 去 / 0 来）",
     "k": "gmail_digest"
    },
    {
     "date": "2026-10-21",
     "dir": "用户表",
     "who": "Simon",
-    "quote": "工业FS",
+    "quote": "工业MC MC 自己的logo 网站上都是cable等无源产品；https://www.sanspot.com/catalogsearch/result/?q=media+converter",
     "why": "表内备注",
     "k": "用户表"
    },
    {
-    "date": "2026-09-08",
+    "date": "2026-02-26",
     "dir": "去",
     "who": "A 箱（Alan）",
-    "quote": "16 Port Industrial PoE Switch",
-    "why": "本日去信真实主题（邮箱索引 c6990f56f208c1a0；信稿开头句引用此封；此前稿内写的「Managed Optical Bypass Switch」是线程列表首题，不是本封）",
-    "k": "c6990f56f208c1a0"
+    "quote": "Updated Ethernet Switches Links",
+    "why": "本日去信真实主题（邮箱索引 1af8c21ad79bc80a；信稿开头句引用此封；此前稿内写的「Managed Optical Bypass Switch」是线程列表首题，不是本封）",
+    "k": "1af8c21ad79bc80a"
    }
   ],
   "proof_gaps": [],
   "draft_en": {
-   "subject": "Industrial switches next to the NV-series extenders - under the Netsys label",
-   "body": "Hello Netsys team,\n\nOver the past months you had a few product mails from us - most recently \"16 Port Industrial PoE Switch\" on 8 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nExtenders are yours and we do not build them. For the industrial switches that sit next to the NV-series in a cabinet, under the Netsys label from small lots, -40 to 75 C, FCC/CE/RoHS: DIN-rail 8 x Gigabit unmanaged - model STI-080GE - $32.5 USD EXW (MOQ 1, 15-day validity); 8 x Gigabit PoE+ + 2 x SFP unmanaged - STI-288GP - $62.2.\n\nOne question: which port count do your extender customers ask for most - 5, 8 or 16?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+   "subject": "Media converters under the SANspot label - next to the cabling range",
+   "body": "Hi Deepali,\n\nOver the past months you had a few product mails from us - most recently \"Updated Ethernet Switches Links\" on 26 February 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the media converters listed under the SANspot label next to your cabling range, in your packaging from small lots, FCC/CE/RoHS: industrial Gigabit converter, DIN-rail, 1 x RJ45 + 1 x SFP slot (fixed SC optional), -40 to 75 C - model STI-110GE - $26.5 USD EXW (MOQ 1, 15-day validity); the PoE version for a camera at the fibre end - STI-111GP - $30.1; desktop versions on request.\n\nOne question: which converter configuration do your customers order most - SFP-slot or fixed SC, and single- or multimode?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
  }

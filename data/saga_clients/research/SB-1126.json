@@ -1,121 +1,177 @@
 {
- "code": "SB-1126",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（testsol.ru，快照 2026-10-21）",
- "summary": "俄罗斯 ООО «ТЕСТ СОЛЮШН» Test Solution（品牌页 EtherWAN / Advantech / Maiwe；表内 KP「MaiWe」为品牌备注）；表内 1 次跟进无回复。",
- "type": "工业网络产品经销（俄罗斯，Maiwe/EtherWAN/Advantech）",
- "size": "",
- "brands_seen": [
-  "EtherWAN",
-  "Advantech",
-  "Maiwe"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：ООО «ТЕСТ СОЛЮШН»",
-   "quote": "ООО «ТЕСТ СОЛЮШН»；Направления деятельности；Новости；Наши бренды",
-   "url": "https://testsol.ru/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "Test Solution 首页",
-   "quote": "ООО «ТЕСТ СОЛЮШН» ; Направления деятельности ; Новости ; Наши бренды ; EtherWAN ; Advantech ; Maiwe",
-   "url": "https://testsol.ru/",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "俄罗斯",
-  "other": "官网 testsol.ru，语言 ru，快照状态 ok；角色判定来源：待核"
- },
- "business_lines": [
-  "工业网络产品经销"
- ],
- "channels": {
-  "role": "工业网络产品经销（俄罗斯，Maiwe/EtherWAN/Advantech）",
-  "region": "俄罗斯",
-  "contact": "info@testsol.ru"
- },
- "signals": [
-  "首页：ООО «ТЕСТ СОЛЮШН» ; Направления деятельности ; Наши бренды；站内品牌 EtherWAN / Advantech / Maiwe"
- ],
- "risks": [
-  "俄罗斯：结算/物流受限，非主攻区（T5）；站点信息少（快照仅品牌页）",
-  "1 次跟进无回复，仅 info@"
- ],
- "saga_fit": {
-  "p1": "STI-288GPM",
-  "tier": 20,
-  "why": "在售 Maiwe/EtherWAN 工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-080GE（$31.4）"
- },
- "email_hook": "Alongside the Maiwe, EtherWAN and Advantech industrial switches you represent, we supply DIN-rail 8-PoE + 2 SFP managed and 5/8-GE unmanaged units (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your customers order most?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A 邮箱 4 封 2025→2026，无记录打开，0 回；收件 info@testsol.ru；主题多为「10G Enterprise SFP Switch、Marvell Industrial Alert System」；Elsa 箱：`to:testsol.ru` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 4 / 来 0）（第 74 批(l)））",
-   "type": "工业网络产品经销（俄罗斯，Maiwe/EtherWAN/Advantech）",
-   "sieve": "1（只收到群发）",
-   "stop": "只打通用邮箱，无记录打开",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "RU 次级（Simon 2026-08 点名）",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 4；研究档 risks：俄罗斯：结算/物流受限，非主攻区（T5）；站点信息少（快照仅品牌页）"
-  },
-  "situation": "俄罗斯 ООО «ТЕСТ СОЛЮШН» Test Solution（品牌页 EtherWAN / Advantech / Maiwe；表内 KP「MaiWe」为品牌备注）；表内 1 次跟进无回复。",
-  "need": "在售 Maiwe/EtherWAN 工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-080GE（$31.4）",
-  "breakpoint": "俄罗斯：结算/物流受限，非主攻区（T5）；站点信息少（快照仅品牌页）",
-  "saga_now": {
-   "p1": "STI-288GPM",
-   "tier": 20,
-   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-11-03 $280（10G Enterprise SFP Switch）",
-   "why": "在售 Maiwe/EtherWAN 工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-080GE（$31.4）",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
-   "one_question": "Alongside the Maiwe, EtherWAN and Advantech industrial switches you represent, we supply DIN-rail 8-PoE + 2 SFP managed and 5/8-GE unmanaged units (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your customers order most?"
-  },
-  "facts": [
-   {
-    "date": "2025-11-03",
-    "dir": "去",
-    "who": "A 箱（Alan）",
-    "quote": "10G Enterprise SFP Switch",
-    "why": "首封去信（邮箱索引；去信共 4 封）",
-    "k": "585cffa0b532ea3e"
-   },
-   {
-    "date": "2026-02-10",
-    "dir": "去",
-    "who": "A 群发",
-    "quote": "10G Enterprise SFP Switch、Marvell Industrial Alert System",
-    "why": "4 封 / 0 次打开 / 0 回｜首封 2025-11-03 → 末封 2026-02-10（4 去 / 0 来）",
-    "k": "gmail_digest"
-   },
-   {
-    "date": "2026-02-10",
-    "dir": "去",
-    "who": "A 箱（Alan）",
-    "quote": "Managed Optical Bypass Switch",
-    "why": "最近一封去信（邮箱索引；去信共 4 封）",
-    "k": "f1e6a1924ae6d1ee"
-   }
+  "code": "SB-1126",
+  "name_official": "KLINGER Finland Oy",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（klinger.fi；并档 Planet 渠道档案 PB-090）",
+  "summary": "KLINGER 集团的芬兰公司，工业阀门 / 密封之外有 CCTV 系统事业部，用 PLANET 工业 PoE 交换机配工业 IP 摄像机。类型：工业技术供应商（KLINGER 集团芬兰公司：阀门 / 密封 / 仪表 / 产品标识）附设 CCTV Systems 事业部（IP 摄像机系统、PoE 网络交换机与注入器、OT-Systems 工业交换机）；PLANET 工业交换机 + PoE 注入器为其「Planet kytkimet」类目。信号：klinger.fi：类目「PoE Network switches and injectors › Planet kytkimet」= Planet IGS-20160HPT 16 port PoE switch + Planet IGS-10020HPT 8 port PoE switch；PoE 注入器 Planet POE-164 30W、POE-171A-60、POE-171A-95；菜单并列「Muut kytkimet / OT-Systems teollisuuskytkimet / Virtalähteet DIN kiskolle」；新站路径 /en/products/camera-surveillance/peripherals/planet-igs-10020hpt-8-port-poe-switch/。Planet 渠道档案 PB-090 评级 B（需求：PLANET 专属子类目「Planet kytkimet」（IGS-20160HPT / IGS-10020HPT）+ 3 款 PLANET PoE 注入器页 + 新站仍列 IGS-10020HPT → 工业 PoE 交换机采购真实但 SKU 少、页面 2018–2021 年代（老化）；触达：info@klinger.fi + +358 10 400 1011 公开（Contact 页，表单需选「CCTV Systems」），无具名 KP；体量：KLINGER 集团芬兰公司（Business ID FI01955191），独立采购 → 可赢；Gmail：Elsa 账号 2025-02-16 → 2026-08-13 以 BCC 群发 10 封至 info@klinger.fi，0 回复 → 非首触、通道疲劳；Mikrotik 仓无此户 → B ★（SKU 少 + 页面老化 + 群发疲劳））。并档说明：Saga 表内本条 SB-1126（芬兰）自动评 C（原因：；Saga 群发已推送 0 次无回复）。",
+  "type": "",
+  "size": "",
+  "brands_seen": [
+    "PLANET"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "evidence": [
+    {
+      "kind": "官网",
+      "claim": "联系方式 / 法律实体 / 产品组含 CCTV Systems",
+      "quote": "KLINGER Finland Oy Tinankuja 3 » 02430 Masala » FINLAND Telephone » +35810 400 1011 info@klinger.fi Business ID » FI01955191 … My contact concerns the following product group or topic: Valves and actuators … CCTV Systems … Instrumentation and Process Automation",
+      "url": "https://klinger.fi/en/contact/",
+      "date": "2026-10-20"
+    },
+    {
+      "kind": "官网（搜索快照）",
+      "claim": "PLANET 专属子类目",
+      "quote": "Planet kytkimet - KLINGER Finland Oy … Planet IGS-20160HPT 16 port PoE switch … Planet IGS-10020HPT 8 port PoE switch",
+      "url": "https://www.klinger.fi/en/product/cctv-systems/ip-camera-systems/poe-network-switches-and-injectors-2/planet-industrial-switches/",
+      "date": "2026-10-20"
+    },
+    {
+      "kind": "官网（搜索快照）",
+      "claim": "IGS-10020HPT 商品页（新站路径）",
+      "quote": "PLANET Industrial 8-port Gigabit 802.3at PoE+ Switch for din rail, IGS-10020HPT, is equipped with a rugged IP30 metal case … KLINGER Finland Products Camera surveillance Peripherals Planet IGS-10020HPT 8 port PoE switch",
+      "url": "https://klinger.fi/en/products/camera-surveillance/peripherals/planet-igs-10020hpt-8-port-poe-switch/",
+      "date": "2026-10-20"
+    },
+    {
+      "kind": "官网（搜索快照）",
+      "claim": "PLANET PoE 注入器页",
+      "quote": "Planet POE-171A-95 95W Single-Port Multi-Gigabit 802.3bt PoE++ Injector … PLANET POE-171A-95 is a Single-Port, 802.3bt Power over Ethernet Injector ｜ Planet POE-171A-60 … ｜ Planet PoE-164 30W PoE+ injector",
+      "url": "https://www.klinger.fi/en/product/cctv-systems/ip-camera-systems/poe-network-switches-and-injectors-2/poe-injektorit/planet-poe-171a-95-95w-single-port-multi-gigabit-802-3bt-poe-injector/",
+      "date": "2026-10-20"
+    },
+    {
+      "kind": "官网（搜索快照）",
+      "claim": "菜单结构（Planet 与 OT-Systems 并列）",
+      "quote": "PoE Network switches and injectors - Planet kytkimet - Muut kytkimet - OT-Systems teollisuuskytkimet - Virtalähteet DIN kiskolle - PoE injektorit",
+      "url": "https://www.klinger.fi/en/product/product-marking-and-labels/labelling-machines-and-solutions/mecklabeller-labelling-machines/ml300/",
+      "date": "2026-10-20"
+    }
+  ],
+  "kp": [],
+  "grade_override": "B",
+  "override_reason": "Planet 渠道档案 PB-090 评 B（有具名联系人 / 在售 PLANET 或工业网络品类）；Saga 表内 C 原因「」被调研推翻，提升为 B",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（并档 Planet 渠道档案 PB-090，W 批次调研 2026-10-19/20）"
+  },
+  "company_facts": {
+    "legal_name": "KLINGER Finland Oy",
+    "founded": "",
+    "hq": "Masala, Kirkkonummi（Tinankuja 3, 02430 Masala）, 芬兰",
+    "size": "",
+    "other": "Planet 渠道档案 PB-090（2026-10-20_W20_矿脉⑤BCC域反查+③型号比价_UK-DK-FI-PL.json）；自有品牌：否；最大未知：CCTV Systems 事业部负责人 / 采购人；PLANET 页面是否仍在售（2018–2021 年页面）；年量；是否要求芬兰语文档 / 集团供应商注册"
+  },
+  "business_lines": [
+    "工业技术供应商（KLINGER 集团芬兰公司：阀门 / 密封 / 仪表 / 产品标识）附设 CCTV Systems 事业部（IP 摄像机系统、PoE 网络交换机与注入器、OT-Systems 工业交换机）；PLANET 工业交换机 + PoE 注入器为其「Planet kytkimet」类目"
+  ],
+  "products_seen": [
+    {
+      "brand": "PLANET",
+      "model": "IGS-10020HPT",
+      "spec": "工业 8×GE PoE+ + 2×SFP 管理 DIN（ERPS）→ Saga 同口型 $82.2 @25%",
+      "saga": "STI-288GPM",
+      "url": "https://klinger.fi",
+      "date": "2026-10-19"
+    },
+    {
+      "brand": "PLANET",
+      "model": "IGS-20160HPT",
+      "spec": "工业 L3 16×GE PoE+ + 2×GE + 2×SFP 管理 → Saga 16×GE + 2×10G SFP+ L2+ $280.3 @25%（非 PoE，PoE 款需按 STI-21616XGGPM 另报）",
+      "saga": "STI-2160XGGM",
+      "url": "https://klinger.fi",
+      "date": "2026-10-19"
+    },
+    {
+      "brand": "PLANET",
+      "model": "POE-164",
+      "spec": "单口 PoE+ 注入器：Saga 无",
+      "saga": "—",
+      "url": "https://klinger.fi",
+      "date": "2026-10-19"
+    },
+    {
+      "brand": "PLANET",
+      "model": "POE-171A-60",
+      "spec": "单口 bt 60W 注入器：Saga 无",
+      "saga": "—",
+      "url": "https://klinger.fi",
+      "date": "2026-10-19"
+    },
+    {
+      "brand": "PLANET",
+      "model": "POE-171A-95",
+      "spec": "单口 bt 95W 注入器：Saga 无",
+      "saga": "—",
+      "url": "https://klinger.fi",
+      "date": "2026-10-19"
+    }
+  ],
+  "channels": {
+    "role": "工业技术供应商（KLINGER 集团芬兰公司：阀门 / 密封 / 仪表 / 产品标识）附设 CCTV Systems 事业部（IP 摄像机系统、PoE 网络交换机与注入器、OT-Systems 工业交换机）；PLANET 工业交换机 + PoE 注入器为其「Planet kytkimet」类目",
+    "region": "芬兰"
+  },
+  "signals": [
+    "工业客户（造纸 / 化工 / 能源）的 CCTV 系统部用 PLANET 工业 PoE 交换机配 IP 摄像机 → Saga STI 工业 PoE 管理（8×GE PoE+ + 2×SFP、16×GE + 2×10G）同口型，中性包装 EXW 可作其项目 BOM 的第二来源；集团背景但芬兰公司是独立采购的中型单位"
+  ],
+  "risks": [
+    "CCTV Systems 事业部负责人 / 采购人；PLANET 页面是否仍在售（2018–2021 年页面）；年量；是否要求芬兰语文档 / 集团供应商注册"
+  ],
+  "saga_fit": {
+    "p1": "STI-288GPM",
+    "tier": 25,
+    "why": "其 Planet 类目核心为 IGS-10020HPT（工业 8×GE PoE+ + 2×SFP 管理，ERPS）→ Saga STI-288GPM 同口型（IP30、-40~75 °C、冗余 DC、L2 管理、240W）；项目 / 集成口径 25% = $82.2 EXW；16 口位 IGS-20160HPT 由 STI-2160XGGM（非 PoE，需说明）或 STI-21616XGGPM 第二封对位；工业供应商 CCTV 系统事业部（项目 / 集成口径）→ 25%（沿用 Planet 档案 PB-090）；需求："
+  },
+  "email_hook": "Your CCTV systems team lists PLANET IGS-10020HPT / IGS-20160HPT for industrial camera networks — a neutral-packed Marvell-based DIN-rail PoE+ managed line at EXW gives the same slot a second source for your project BOMs. In your industrial camera projects, is the 8-port PoE+ DIN unit (IGS-10020HPT class) still the standard pick, or have you moved to 16-port — so I send the right sample first?",
+  "mail_review": {
+    "binding": {
+      "level": "Elsa 群发 BCC 已触达 2026-08-13「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，北欧/中东欧 批次 To info@dasys.fi，0 回（第 73 批(o) Bcc 头核对 msg 19ffb43006420c22）；S/A 箱：S/A 邮箱均无往来；来源：调研建档）",
+      "type": "—",
+      "sieve": "—（未入筛）",
+      "stop": "Elsa 群发 BCC 触达过（最近 2026-08-13）无回；S/A 箱从未单独发过",
+      "revive": "不动（Q-33 供应商渠道客户）",
+      "lane": "芬兰（欧洲全域主攻）",
+      "cadence": "不动",
+      "evidence": "gmail_digest：out 0；研究档 risks：CCTV Systems 事业部负责人 / 采购人；PLANET 页面是否仍在售（2018–2021 年页面）；年量；是否要求芬兰语文档 / 集团供应商注册；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To info@dasys.fi）2025-02-16→2026-08-13 共 10 轮群发（Industrial PoE Switch、8 Port Industrial PoE Switch、Marvell Alleycat5 Solution、48 Port PoE Managed Switch、16 Port Ethernet Switch、Mini Industrial PoE Switch、10G Enterprise SFP Switch、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断"
+    },
+    "situation": "KLINGER 集团的芬兰公司，工业阀门 / 密封之外有 CCTV 系统事业部，用 PLANET 工业 PoE 交换机配工业 IP 摄像机。类型：工业技术供应商（KLINGER 集团芬兰公司：阀门 / 密封 / 仪表 / 产品标识）附设 CCTV Systems 事业部（IP 摄像机系统、PoE 网络交换机与注入器、OT-Systems 工业交换机）；PLANET 工业交换机 + PoE 注入器为其「Planet kytkimet」类目。信号：klinger.fi：类目「PoE Network switches and injectors › Planet kytkimet」= Planet IGS-20160HPT 16 port PoE switch + Planet IGS-10020HPT 8 port PoE switch；PoE 注入器 Planet POE-164 30W、P",
+    "need": "其 Planet 类目核心为 IGS-10020HPT（工业 8×GE PoE+ + 2×SFP 管理，ERPS）→ Saga STI-288GPM 同口型（IP30、-40~75 °C、冗余 DC、L2 管理、240W）；项目 / 集成口径 25% = $82.2 EXW；16 口位 IGS-20160HPT 由 STI-2160XGGM（非 PoE，需说明）或 STI-21616XGGPM 第",
+    "breakpoint": "CCTV Systems 事业部负责人 / 采购人；PLANET 页面是否仍在售（2018–2021 年页面）；年量；是否要求芬兰语文档 / 集团供应商注册",
+    "saga_now": {
+      "p1": "STI-288GPM",
+      "tier": 25,
+      "price": "按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-13 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-13；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
+      "why": "其 Planet 类目核心为 IGS-10020HPT（工业 8×GE PoE+ + 2×SFP 管理，ERPS）→ Saga STI-288GPM 同口型（IP30、-40~75 °C、冗余 DC、L2 管理、240W）；项目 / 集成口径 25% = $82.2 EXW；16 口位 IGS-20160HPT 由 STI-2160XGGM（非 PoE，需说明）或 STI-21616XGGPM 第",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "不动",
+      "channel": "—",
+      "action": "—",
+      "one_question": ""
+    },
+    "facts": [
+      {
+        "date": "2025-02-16",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To info@alphatelecom.cc，北欧/中东欧 批次）",
+        "quote": "Industrial PoE Switch — This is a Marvell based industrial PoE switch for you. Port: 2*Gigabit SFP+4*Gigabit PoE Feature: 120W budget, PoE watchdog, 250-meter poe distance, s",
+        "why": "Elsa 箱群发 BCC 触达证据（命中地址 info@klinger.fi, klinger.fi）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+        "k": "elsa_bcc"
+      },
+      {
+        "date": "2026-08-13",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To info@dasys.fi，北欧/中东欧 批次）",
+        "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
+        "why": "Elsa 箱群发 BCC 触达证据（命中地址 info@klinger.fi, klinger.fi）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+        "k": "elsa_bcc"
+      }
+    ],
+    "proof_gaps": [
+      "无邮件往来"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-25"
+  }
 }

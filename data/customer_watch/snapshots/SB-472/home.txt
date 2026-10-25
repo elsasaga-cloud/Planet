@@ -1,4 +1,134 @@
-# SB-472 n-itus.com · home · https://n-itus.com/ · fetched 2026-10-25T07:41:18Z · HTTP 403
-403 Forbidden
-Forbidden
-You don't have permission to access this resource.
+# SB-472 bma-networks.com · home · https://www.dierck-group.com/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+dierckgroup – IT, Service & Technik für Unternehmen
+dierckgroup
+Skip to masthead
+Skip to content
+Skip to colophon
+Managed Services Seite ansehen
+360° IT Managed Services Monitoring, Support, Betrieb und Weiterentwicklung Ihrer gesamten IT. Seite ansehen
+Managed Workplace Sichere, aktuelle und betreute IT-Arbeitsplätze – gemanagt vom Experten. Seite ansehen
+Managed Communication Cloudbasierte Sprachkommunikation – professionell gemanagt. Seite ansehen
+Managed Security Schutz Ihrer IT durch laufend betreute Sicherheitslösungen: Firewalls, Endpoint Security, Backup & Compliance. Seite ansehen
+Managed Scan & Print Services Druck- und Scansysteme im Full-Service-Modell – inklusive Support und Wartung. Seite ansehen
+Managed Software Softwarebereitstellung und -pflege als Service – Lizenzen, Updates, Patches und Benutzerverwaltung auf einer Plattform. Seite ansehen
+Managed WLAN Zuverlässiges WLAN – Planung, Betrieb, Gastzugänge und Sicherheit aus der Cloud. Seite ansehen
+Managed DMS Digitales Dokumentenmanagement als Full-Service – revisionssicher archivieren und automatisiert verwalten. Seite ansehen
+Netzwerkdesign mit Extreme Fabric
+Von der Fabric im Kern bis zur durchgängigen Architektur über alle Standorte. Welche Designvariante zu Ihrem Netz passt […]
+30. Sep. 2026
+IT Solutions Seite ansehen
+Workplace Seite ansehen
+Network Seite ansehen
+Cyber Security Seite ansehen
+Datacenter Seite ansehen
+Voice Communication Seite ansehen
+Scan- and Printing Solutions Seite ansehen
+Workplace Solutions Moderne IT-Arbeitsplätze für produktives Arbeiten – flexible und skalierbare Arbeitsplatzkonzepte. Seite ansehen
+Education Solutions Innovative Bildungsangebote, die Wissen vermitteln und neue Perspektiven eröffnen. Seite ansehen
+Device & Asset Management Effiziente Verwaltung von Endgeräten im gesamten Lifecycle – Inventarisierung, Monitoring und automatisierte Rollouts. Seite ansehen
+Collaboration & Communication Tools für Teamarbeit, Chat, Videokonferenzen und moderne Kommunikation. Seite ansehen
+Security & Identity Management Schutz von Identitäten und Arbeitsumgebungen – sichere Zugriffe, Authentifizierung und Richtlinienverwaltung. Seite ansehen
+Scan & Print Solutions Dokumentenprozesse sicher, effizient und zentral verwaltet. Seite ansehen
+Support & Services Zuverlässige Unterstützung für Ihre IT-Arbeitsplätze – Helpdesk, Vor-Ort-Service, Remote Support und Lifecycle-Services. Seite ansehen
+Network Consulting Beratung zur Netzwerkstrategie  und -infrastruktur. Seite ansehen
+Network Architecture Leistungsfähige LAN-, WAN- und WLAN-Strukturen – Architektur, Switching & Routing für skalierbare Unternehmensnetzwerke. Seite ansehen
+Network Security Schutz von Netzwerken durch integrierte Sicherheitslösungen. Seite ansehen
+Cloud & Hybrid Network Nahtlose Vernetzung von Cloud- und On-Premises-Infrastrukturen. Seite ansehen
+Network Monitoring Transparenz, Analyse und Steuerung von Netzwerken in Echtzeit. Seite ansehen
+Provider-Netzwerke & FttX Wir liefern und betreuen leistungsstarke FttX-Infrastrukturen für Provider, Stadtwerke und Kommunen. Seite ansehen
+Workplace Security Schutz für Endgeräte und Benutzerzugriffe – mit EDR erkennen Sie Angriffe direkt am Endpoint; NAC regelt den kontrollierten Netzwerkzugang. Seite ansehen
+Application Security Schutz von Anwendungen und Applikationsdaten – durch WAF, Sandboxing und Application Monitoring werden Schwachstellen analysiert und Angriffe blockiert. Seite ansehen
+Network Security Netzwerke intelligent absichern und segmentieren – mit Firewalling, SD-WAN, NDR und NAC schützen Sie Ihre IT-Infrastruktur effektiv vor Bedrohungen. Seite ansehen
+Datacenter Security Zentrale Infrastrukturen zuverlässig schützen –  Firewalling, SIEM und SD-WAN sorgen für Sicherheit, Transparenz und Resilienz im Rechenzentrum. Seite ansehen
+Industrial Security OT Sicherheit für industrielle Steuer- und Produktionsnetze –  Firewalling, NAC und Netzwerksegmentierung schützen OT-Umgebungen vor Angriffen und Ausfällen. Seite ansehen
+Security Monitoring & Analytics Transparente Einblicke in Ihre Sicherheitslage – mit SIEM, XDR, NDR und Monitoring-Lösungen erkennen Sie Bedrohungen frühzeitig und reagieren automatisiert. Seite ansehen
+Datacenter Solutions Beratung und Umsetzung moderner Rechenzentrumskonzepte. Seite ansehen
+Datacenter Infrastructure Ganzheitliche Planung und Umsetzung von Strom, Klima, Netzwerk und RZ-Grundstruktur. Seite ansehen
+Storage Management Effizientes Datenhandling, Speicherarchitekturen und Integration in IT-Umgebungen. Seite ansehen
+Cloud Datacenter Hybride und cloudbasierte Rechenzentrumsmodelle – optimierte Ressourcenverteilung, Peer-to-Peer-Strategien & Load Balancing. Seite ansehen
+Backup and Recovery Datensicherheit durch zuverlässige Backup-Strategien – Schutz vor Datenverlust, schnelle Wiederherstellung und Compliance-Erfüllung. Seite ansehen
+Communication Server Solutions Leistungsstarke VoIP-Telefonanlagen für moderne Kommunikation. Seite ansehen
+Softclient & Desktop Collaboration Solutions Moderne Softclients für Telefonie, Chat und Zusammenarbeit. Seite ansehen
+Unified Communications Platforms Vernetzte Kommunikation über alle Kanäle hinweg. Seite ansehen
+Video Conferencing & Virtual Meeting Solutions Professionelle Tools für virtuelle Besprechungen. Seite ansehen
+Cloud Communication Skalierbare VoIP- und UC-Services ohne lokale Infrastruktur. Seite ansehen
+Communication Analytics Monitoring, Nutzungstrends und Optimierungspotenziale im Überblick. Seite ansehen
+Corporate Scan & Print Solutions Effiziente Druck- und Scansysteme für Unternehmen. Seite ansehen
+Software & Automation Solutions Integrierte Lösungen für Scanning, Archivierung und Druckmanagement. Seite ansehen
+Production Scan & Print Solutions Leistungsstarke Systeme für hohe Druck- und Scanvolumen. Seite ansehen
+Print Security Solutions Schutz sensibler Daten und Compliance-konforme Ausgabeprozesse. Seite ansehen
+Special Format Solutions Druck- und Scanlösungen für Sonderformate und Spezialanwendungen. Seite ansehen
+DEUTZ AG – Industrial Ethernet
+Die Fabrik in Köln gehört zu Europas modernsten Montageanlagen und ist seit 1992 in Betrieb. Das Industrial-IT Team [...]
+Consulting Seite ansehen
+KI-Governance Strategische Beratung für einen sicheren, transparenten und rechtskonformen Einsatz von KI – von Richtlinien und Risikobewertungen bis zu klaren Verantwortlichkeiten und Schulungen. Seite ansehen
+Datenschutz Beratung und Umsetzung DSGVO-konformer Prozesse –  Datensicherheit, Richtlinien, Dokumentation und Schulungen. Seite ansehen
+NIS-2 Vorbereitung auf die Anforderungen der NIS-2-Richtlinie –  Sicherheitsbewertung, Maßnahmenplanung und Compliance-Beratung. Seite ansehen
+Hinweisgeberschutz & Meldeportal Lösungen zur rechtskonformen Umsetzung der Meldepflichten – technische Plattformen, Prozessberatung und interne Meldestellen. Seite ansehen
+Digitalisierung Strategische Beratung zur digitalen Transformation –  Optimierung von Prozessen, Tools und IT-Infrastruktur. Seite ansehen
+Checks Schnellanalyse Ihrer IT, Sicherheit oder Compliance – Workplace-, Serverraum- und Infrastruktur-Checks mit Handlungsempfehlungen. Seite ansehen
+dierck Academy Praxisnahe Trainings und Workshops für deine persönliche und berufliche Weiterentwicklung. Seite ansehen
+Buchholz Digital GmbH – FTTH-Ausbau in Niedersachsen
+Buchholz Digital GmbH ist ein wachsendes Glasfaser-Netzwerk-Unternehmen aus Niedersachsen, das FTTH-Zugangsswitches für den Ausbau ihrer Netze einsetzt.
+Cloud Services Seite ansehen
+Office@Cloud Flexibles Arbeiten mit cloudbasierten Office-Lösungen. Seite ansehen
+mr.speaker Moderne Cloud-Telefonie für Unternehmen jeder Größe – VoIP, Rufmanagement, Unified Communication – sicher und standortunabhängig. Seite ansehen
+Security@Cloud | XeCUR Ganzheitlicher Schutz aus der Cloud mit XeCUR – zentrale Sicherheitsservices wie Firewall, E-Mail-Security und Zugriffsschutz. Seite ansehen
+WLAN@Cloud Standortübergreifendes WLAN-Management aus der Cloud – zentrale Steuerung, Gastzugänge und Monitoring auf einer Plattform. Seite ansehen
+DMS@Cloud Digitales Dokumentenmanagement einfach aus der Cloud –  Scannen, Archivieren, Freigeben – rechtssicher und automatisiert. Seite ansehen
+Software as a Service (SaaS) Cloudbasierte Anwendungen – jederzeit verfügbar und individuell skalierbar: eigene Business-Apps & etablierte Lösungen ohne lokale Installation. Seite ansehen
+IT-Abteilung im Friedrich-Ebert-Krankenhaus Neumünster
+Wie wir durch Analysen und Komponenten die IT-Abteilung im Friedrich-Ebert-Krankenhaus modernisiert haben
+Elektro- und Gebäudetechnik Seite ansehen
+Sicherheitstechnik Systeme für den Schutz von Menschen, Objekten und Daten –  Einbruchmeldeanlagen, Videoüberwachung, Zutrittskontrolle & Brandmeldung. Seite ansehen
+Datentechnik Strukturierte Netzwerktechnik für moderne Gebäude-IT – aktive & passive Datenverkabelung, Patchfelder und Technikräume. Seite ansehen
+Energietechnik Effiziente Energieversorgung für Gebäude und Anlagen –  Stromverteilungen, Notstromsysteme und Energieoptimierung aus einer Hand. Seite ansehen
+Lichtrufsysteme Sichere Kommunikationslösungen für Pflege und Klinik –  Lichtrufanlagen, Alarmierung und Schnittstellen zu IT- und Gebäudesystemen. Seite ansehen
+Nordmark Pharma – Modulares Rechenzentrum in Betonbauweise
+Das Unternehmen stellte besondere Anforderungen an die sichere und störungsfreie Errichtung einer neuen Rechenzentrumsinfrastruktur auf dem laufenden Produktionsgelände.
+Jobs Seite ansehen
+Karriere Starte deine Karriere bei der dierckgroup und finde deinen passenden Weg bei uns. Seite ansehen
+Praktikum Bei uns bist du kein Kaffeeholer, sondern vollwertiges Teammitglied. Sammle echte Praxiserfahrung in spannenden IT-Projekten. Seite ansehen
+Ausbildung Eine Ausbildung bei der dierckgroup bedeutet: echte Projekte, ein starkes Team, moderne Technik und beste Zukunftsperspektiven. Seite ansehen
+Profis Spannende Herausforderungen für Profis. Seite ansehen
+Studenten Sammle wertvolle Praxiserfahrung neben deinem Studium. Flexible Arbeitszeiten, faire Bezahlung und echte Projekte warten auf dich. Seite ansehen
+Initiativ bewerben bei:
+André Kaßner
+bewerbung@dierck-gruppe.de
++49 (431) 97449-2121
+Bitte sende uns deinen Lebenslauf und dein Anschreiben per E-Mail.
+Initiativ bewerben
+Das sind wir Seite ansehen
+Über uns Die dierckgroup – Ihr Partner für innovative Lösungen mit jahrzehntelanger Erfahrung und Expertise. Seite ansehen
+Events & Veranstaltungen Von Webinaren über exklusive Events bis zu Branchenmessen – entdecken Sie unsere Veranstaltungen und erleben Sie Innovationen live. Seite ansehen
+Partner, Hersteller & Zertifizierungen Unsere Partner, Hersteller und Zertifizierungen stehen für hohe Qualitätsstandards. Seite ansehen
+News Entdecken Sie fundiertes IT-Wissen, praktische Case Studies und die neuesten Produktinnovationen. Seite ansehen
+Werde Teil der Gruppe Sie suchen nach neuen Perspektiven? Wir bieten Ihnen die Stärke einer Gruppe – bei voller Wahrung Ihrer Identität. Seite ansehen
+Case Studies Keine leeren Versprechen. Hier sehen Sie, was wir für unsere Kunden erreicht haben. Seite ansehen
+Störung melden Seite ansehen
+Kontakte Seite ansehen
+Business Development dierckgroup
+ma@dierck.de
+Standort Kiel - Hauptsitz
+Preetzer Chaussee 55
+24222 Schwentinental
+Folge uns auf Social Media
+Facebook
+Instagram
+YouTube
+LinkedIn
+Kontakt aufnehmen
+IT Kompetenz, die
+verbindet – in einer
+Gruppe vereint
+Die dierckgroup verbindet spezialisierte Unternehmen für IT, Managed Services, Cloud, Consulting und Gebäudetechnik. Finden Sie den passenden Einstieg für Ihr Projekt, Ihren Betrieb oder Ihren akuten Supportbedarf.
+Jetzt beraten lassen
++140 Jahre
+seit der Gründung haben wir als dierckgroup bis heute Innovationen und Trends fest im Blick.
++300 Experten
+Über 300 IT-Experten, die gemeinsam komplexe IT-Herausforderungen erfolgreich meistern.
++6 Standorte
+Bundesweit an sechs Standorten. Von Kiel bis München
+Eine Gruppe. 15 Unternehmen.
+Jedes Unternehmen ist Spezialist auf seinem Gebiet.
+Zus

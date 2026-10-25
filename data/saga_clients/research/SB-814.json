@@ -2,45 +2,31 @@
  "code": "SB-814",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "在线（cleerlinefiber.com，快照 2026-10-21）",
- "summary": "美国 Cleerline（Cleerline Technology Group / clrtec.com：SSF 光纤品牌，兼售工业 FS、10G MC、SFP 等周边；表内「光路是供应商」（现 MC 供应商为光路）；KP Ryan Prentice（Partner））；群发 18 次无回复。",
- "type": "光纤品牌商（美国，有源配件现光路）",
+ "website_status": "在线（istream.by，快照 2026-10-21）",
+ "summary": "白俄罗斯 Айстрим Плюс（istream.by：家庭与办公视频监控与安防系统销售到安装——门禁、可视对讲、报警；站内 DK100-4FP2F PoE 交换机、Tiandy TC-C321N；表内国别「保加利亚」有误：.by 域名 + 俄语站点 → 白俄罗斯）；表内无跟进记录。",
+ "type": "CCTV 销售安装商（白俄罗斯）",
  "size": "",
  "brands_seen": [
-  "光路"
+  "Tiandy",
+  "Hikvision"
  ],
  "evidence": [
   {
    "kind": "官网快照",
-   "claim": "官网标题：cleerlinefiber.com",
-   "quote": "",
-   "url": "https://cleerlinefiber.com/",
+   "claim": "官网标题：Купить видеонаблюдение по низким ценам от Айстрим Плюс；品类词 安防监控（CCTV / 门禁） / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "Видеонаблюдение, контроль доступа, видеодомофоны, сигнализации - все от продажи до установки по лучшим ценам!",
+   "url": "https://istream.by/",
    "date": "2026-10-21"
   },
   {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "工业FS 10GMC SFP 周边产品；工业FS 10GMC SFP 周边产品 光路是供应商",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "工业 FS 10G MC SFP；光路是供应商",
-   "quote": "工业FS 10GMC SFP 周边产品 / 光路是供应商",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "kind": "官网快照",
+   "claim": "Айстрим Плюс 定位（.by）",
+   "quote": "Купить видеонаблюдение по низким ценам от Айстрим Плюс ; Видеонаблюдение, контроль доступа, видеодомофоны, сигнализации - все от продажи до установки по лучшим ценам!",
+   "url": "https://istream.by/",
    "date": "2026-10-21"
   }
  ],
- "kp": [
-  {
-   "name": "Ryan Prentice",
-   "title": "Partner",
-   "email": "ryan@cleerline.com",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
+ "kp": [],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
@@ -49,88 +35,76 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "美国",
-  "other": "官网 cleerlinefiber.com，语言 ?，快照状态 ok；角色判定来源：待核"
+  "hq": "保加利亚",
+  "other": "官网 istream.by，语言 ?，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "SSF 光纤 / 有源配件（自有品牌 Cleerline）"
+  "视频监控 / 门禁 / 对讲销售与安装"
  ],
  "channels": {
-  "role": "光纤品牌商（美国，有源配件现光路）",
-  "region": "美国",
-  "contact": "info@clrtec.com、ryan@cleerline.com"
+  "role": "CCTV 销售安装商（白俄罗斯）",
+  "region": "白俄罗斯",
+  "contact": "info@istream.by"
  },
  "signals": [
-  "表内：工业 FS 10GMC SFP 周边产品 / 光路是供应商；KP Ryan Prentice / Partner",
-  "快照：内容为空（cleerlinefiber.com / clrtec.com）"
+  "官网：Видеонаблюдение, контроль доступа, видеодомофоны, сигнализации - все от продажи до установки；站内 DK100-4FP2F-W / TC-C321N；kw cctv 54 / poe 52",
+  "栏目 /catalog/katalog_uslug、/catalog/domofony"
  ],
  "risks": [
-  "现供光路（深圳）价格基准低；10G MC/SFP 需求 Saga 不供（Q-32）；18 次无回复 → 改向 Partner 具名首触；官网快照空"
+  "白俄罗斯：结算/物流受限，非主攻区（T5）；国别已更正（表内误填保加利亚）",
+  "无具名 KP（info@）；无跟进记录"
  ],
  "saga_fit": {
-  "p1": "STI-110GE",
-  "tier": 30,
-  "why": "有源配件（现光路）→ 工业千兆 MC STI-110GE（$24.3 @30%）、工业 PoE MC STI-111GP（$30.1）、工业 8 GE + 2 SFP STI-280GE（$50.5）贴 Cleerline 标；10G MC/SFP Saga 不供（Q-32）"
+  "p1": "STC-28DGGPM",
+  "tier": 20,
+  "why": "CCTV 配套 PoE（现 DK100 系列）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；4 口位 HRUI STC-204GP（$20.4 列表价）"
  },
- "email_hook": "Ryan, for the media converters and industrial switches sold under the Cleerline label alongside SSF fibre, we can be a second ODM source (gigabit/PoE MCs, DIN-rail 8-GE + 2 SFP, −40~75 °C, FCC/CE/RoHS) from small lots — which active SKU do your integrator dealers reorder most?",
+ "email_hook": "For the PoE switches you install with your camera and intercom systems, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port unmanaged PoE units from small lots, CE/RoHS, EXW USD — which size do your installations use most?",
+ "country_fix": "白俄罗斯",
  "mail_review": {
   "binding": {
-   "level": "未触达（A/S 邮箱 28 封 2024→2026，无记录打开，0 回；收件 alfonso.chavarria@cleerline.com, info@clrtec.com；主题多为「8 Port Industrial PoE Switch、Marvell Industrial Alert System」；Elsa 箱：`to:cleerlinefiber.com OR to:clrtec.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 28 / 来 0）（第 74 批(h)））",
-   "type": "光纤品牌商（美国，有源配件现光路）",
-   "sieve": "1（只收到群发）",
-   "stop": "28 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
-   "lane": "US 主攻（四主）",
-   "cadence": "一封",
-   "evidence": "gmail_digest：out 28；用户表：「工业FS 10GMC SFP 周边产品；工业FS 10GMC SFP 周边产品 光路是供应商」；研究档 risks：现供光路（深圳）价格基准低；10G MC/SFP 需求 Saga 不供（Q-32）；18 次无回复 → 改向 Partner 具名首触；官网快照空"
+   "level": "未发信（S/A 邮箱均无往来；来源：调研建档；Elsa 箱：`to:istream.by` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(k)））",
+   "type": "CCTV 销售安装商（白俄罗斯）",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+   "lane": "白俄罗斯（欧洲全域主攻）",
+   "cadence": "首封后看打开",
+   "evidence": "gmail_digest：out 0；研究档 risks：白俄罗斯：结算/物流受限，非主攻区（T5）；国别已更正（表内误填保加利亚）"
   },
-  "situation": "美国 Cleerline（Cleerline Technology Group / clrtec.com：SSF 光纤品牌，兼售工业 FS、10G MC、SFP 等周边；表内「光路是供应商」（现 MC 供应商为光路）；KP Ryan Prentice（Partner））；群发 18 次无回复。",
-  "need": "有源配件（现光路）→ 工业千兆 MC STI-110GE（$24.3 @30%）、工业 PoE MC STI-111GP（$30.1）、工业 8 GE + 2 SFP STI-280GE（$50.5）贴 Cleerline 标；10G MC/SFP Saga 不供（Q-32）",
-  "breakpoint": "现供光路（深圳）价格基准低；10G MC/SFP 需求 Saga 不供（Q-32）；18 次无回复 → 改向 Partner 具名首触；官网快照空",
+  "situation": "白俄罗斯 Айстрим Плюс（istream.by：家庭与办公视频监控与安防系统销售到安装——门禁、可视对讲、报警；站内 DK100-4FP2F PoE 交换机、Tiandy TC-C321N；表内国别「保加利亚」有误：.by 域名 + 俄语站点 → 白俄罗斯）；表内无跟进记录。",
+  "need": "CCTV 配套 PoE（现 DK100 系列）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；4 口位 HRUI STC-204GP（$20.4 列表价）",
+  "breakpoint": "白俄罗斯：结算/物流受限，非主攻区（T5）；国别已更正（表内误填保加利亚）",
   "saga_now": {
-   "p1": "STI-110GE",
-   "tier": 30,
-   "price": "换人再触锚价 STI-110GE $26.5 EXW（最近实报 SA-001 2025-11-27 $26.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-25 $65（10G media converter）、2024-11-18 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-07-23 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-07 $280（10G Enterprise SFP Switch）",
-   "why": "有源配件（现光路）→ 工业千兆 MC STI-110GE（$24.3 @30%）、工业 PoE MC STI-111GP（$30.1）、工业 8 GE + 2 SFP STI-280GE（$50.5）贴 Cleerline 标；10G MC/SFP Saga 不供（Q-32）",
+   "p1": "STC-28DGGPM",
+   "tier": 20,
+   "price": "首触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
+   "why": "CCTV 配套 PoE（现 DK100 系列）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；4 口位 HRUI STC-204GP（$20.4 列表价）",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "2027-Q1（换人后）",
-   "channel": "A 邮箱 → 具名 KP",
-   "action": "换收件人再发一封（第 75 批(w) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
-   "one_question": "Ryan, for the media converters and industrial switches sold under the Cleerline label alongside SSF fibre, we can be a second ODM source (gigabit/PoE MCs, DIN-rail 8-GE + 2 SFP, −40~75 °C, FCC/CE/RoHS) from small lots — which active SKU do your integrator dealers reorder most? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
+   "when": "待 Simon 排期（首封）",
+   "channel": "A 邮箱 → info@istream.by（无具名 KP；公用地址）",
+   "action": "首封：按 email_hook 一问（第 75 批(l) 2026-10-25：英文信稿已写 `draft_en`）（第 76 批(c) 2026-10-25：0 事实户补时间线事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
+   "one_question": "For the PoE switches you install with your camera and intercom systems, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port unmanaged PoE units from small lots, CE/RoHS, EXW USD — which size do your installations use most? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
    {
-    "date": "2026-09-25",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "8 Port Industrial PoE Switch、Marvell Industrial Alert System",
-    "why": "28 封 / 0 次打开 / 0 回｜首封 2024-07-02 → 末封 2026-09-25（28 去 / 0 来）",
-    "k": "gmail_digest"
-   },
-   {
     "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "工业FS 10GMC SFP 周边产品；工业FS 10GMC SFP 周边产品 光路是供应商",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2026-09-25",
-    "dir": "去",
-    "who": "A 箱（Alan）",
-    "quote": "Managed PoE Switches",
-    "why": "本日去信真实主题（邮箱索引 4fe6d11b7d085ce0；信稿开头句引用此封；此前稿内写的「8 Port Industrial PoE Switch」是线程列表首题，不是本封）",
-    "k": "4fe6d11b7d085ce0"
+    "dir": "研",
+    "who": "官网快照",
+    "quote": "官网标题：Купить видеонаблюдение по низким ценам от Айстрим Плюс；品类词 安防监控（CCTV / 门禁） / 光纤 / 媒体转换 / 网络交换 / PoE：Видеонаблюдение, контроль доступа, видеодомофоны, сигнализации - все от продажи до установки по лучшим ценам!",
+    "why": "无任何邮件往来；唯一证据为研究/用户表记录",
+    "k": "https://istream.by/"
    }
   ],
-  "proof_gaps": [],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
   "draft_en": {
-   "subject": "Active SKUs under the Cleerline label - a second ODM source next to SSF fibre",
-   "body": "Hi Ryan,\n\nOver the past months you had a few product mails from us - most recently \"Managed PoE Switches\" on 25 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the media converters and industrial switches sold under the Cleerline label alongside SSF fibre, a second ODM source from small lots, -40 to 75 C, FCC/CE/RoHS: industrial Gigabit converter, 1 x RJ45 + 1 x SFP slot - model STI-110GE - $26.5 USD EXW with your logo (MOQ 1, 15-day validity); PoE version - STI-111GP - $30.1; DIN-rail 8 x Gigabit + 2 x SFP unmanaged - STI-280GE - $46. 10G converters and SFPs stay with your current source - we do not carry them.\n\nOne question: which active SKU do your integrator dealers reorder most?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+   "subject": "PoE switches for your camera and intercom installations",
+   "body": "Hello iStream team,\n\nFor the PoE switches you install with your camera and intercom systems, two neutral-brand units from small lots: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based - model STC-28DGGPM - $80.7 USD EXW (MOQ 1, 15-day validity); 4 x Gigabit PoE+ + 2 uplinks unmanaged, in the slot of your DK100-4FP2F - STC-204GP - $24.2. CE/RoHS files supplied; EAC stays on your side.\n\nOne question: which size do your installations use most - 4 or 8 ports?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
  }

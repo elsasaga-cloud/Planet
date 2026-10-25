@@ -1,130 +1,100 @@
 {
  "code": "SB-285",
- "name_official": "EPE RETELEM SPA（ex-SONATITE）",
+ "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "在线（retelem-dz.com，快照 2026-10-21，法语）",
- "summary": "阿尔及利亚国有经济公共企业（EPE SPA，1971 年成立，ELEC EL DJAZAIR 控股子公司，14 个分支），关键数字基础设施集成商：LAN/WAN、光纤、数据中心、SCADA、视频监控、PABX；联系人 Hichem Akchiche 2024 年要工业交换机 datasheet，对 2 光 8 PoE 有兴趣；官网出现 Ubiquiti。",
- "type": "",
+ "website_status": "在线（rfteknoloji.com.tr，快照 2026-10-21）",
+ "summary": "土耳其 RF Teknoloji（RF 数据电台 / 3G-4G-5G 工业路由（CalAmp 等）/ 无线数传 / RFbox，站内「Endüstriyel Switchler」品类；表内「工业交换机，三旺（3onedata）的」）；群发 2 次无回复。",
+ "type": "工业无线与数传方案分销（在售 3onedata 工业交换机）",
  "size": "",
  "brands_seen": [
-  "Ubiquiti"
+  "3onedata",
+  "CalAmp"
  ],
  "evidence": [
   {
-   "kind": "官网",
-   "claim": "定位：关键数字基础设施，1971 年起，EPE SPA，14 分支",
-   "quote": "EPE RETELEM SPA conçoit, intègre, sécurise et exploite les infrastructures numériques critiques en Algérie depuis 1971… Entreprise publique économique Algérie · 14 agences",
-   "url": "https://retelem-dz.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "集团",
-   "claim": "ELEC EL DJAZAIR 控股子公司；电信 / 系统集成 / 培训",
-   "quote": "RETELEM SPA est une entreprise publique économique… filiale de la Holding ELEC EL DJAZAIR… télécommunications, intégration des systèmes d'information et formation technique",
-   "url": "https://eleceldjazair.dz/filiale/retelem/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "名录",
-   "claim": "地址与联系：Bab El Oued, Alger；info@ / contact@retelem-dz.com",
-   "quote": "Rue Omar Ben Aissa, Bab El Oued, Alger… info@retelem-dz.com contact@retelem-dz.com… 023 05 74 87",
-   "url": "https://elmouchir.caci.dz/entreprise/28213",
-   "date": "2026-10-21"
-  },
-  {
    "kind": "官网快照",
-   "claim": "关键词：scada 6 / fibre 8 / data center 11；品牌 Ubiquiti",
-   "quote": "kw scada 6, fibre 8, data center 11; brands Ubiquiti",
-   "url": "https://retelem-dz.com/",
+   "claim": "官网标题：RF Radyo Data Modem, 3G/4G Endüstriyel Router Modem, RF Haberleşme Sistemleri, Kablosuz-Te；品类词 工业自动化 / OT 网络 / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "CalAmp RF Data Modem, Radio Modem, Radyo Modem, 3G/4G Endüstriyel Router/Modem, Kablosuz Veri Haberleşmesi, Telsiz Haberleşme, RF Veri Haberleşmesi, R...",
+   "url": "https://rfteknoloji.com.tr/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "2024-04 工业交换机图→Datasheet；2024-06 商用 PoE 228 邮件；2024-08 4/8 口工业 PoE→对 2 光 8 PoE 有兴趣；2025-10 DAC→email",
-   "quote": "回复：Datasheet；Email发了商业PoE 228信息；对2光8PoE有兴趣；email",
+   "claim": "表内兴趣/备注",
+   "quote": "工业交换机 3旺的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "RF 数据电台、3G/4G 工业路由、无线数传",
+   "quote": "CalAmp RF Data Modem, Radio Modem, Radyo Modem, 3G/4G Endüstriyel Router/Modem, Kablosuz Veri Haberleşmesi",
+   "url": "https://rfteknoloji.com.tr/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "工业交换机 3onedata 的",
+   "quote": "工业交换机 3旺的",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
- "kp": [
-  {
-   "name": "Hichem Akchiche",
-   "title": "（表内联系人）",
-   "email": "hichem.akchiche@retelem-dz.com",
-   "phone": "+213 770 760 449",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
-  }
- ],
+ "kp": [],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照 + 集团/名录核对）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "legal_name": "EPE RETELEM SPA（ex-SONATITE）",
-  "founded": "1971",
-  "hq": "54 Rue Omar Benaissa, Bab El Oued, Alger, Algérie",
-  "size": "国有中大型（14 分支）",
-  "other": "ELEC EL DJAZAIR 控股；法语"
+  "hq": "土耳其",
+  "other": "官网 rfteknoloji.com.tr，语言 tr-tr，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "LAN/WAN/Wi-Fi 与光纤传输",
-  "数据中心 / 混合云",
-  "SCADA 与工业网络",
-  "视频监控 / 门禁 / 消防",
-  "PABX / VoIP",
-  "技术培训"
- ],
- "products_seen": [
-  {
-   "brand": "Ubiquiti",
-   "model": "（官网提及）",
-   "spec": "无线/网络",
-   "saga": "无对位（Saga 不做无线）",
-   "url": "https://retelem-dz.com/",
-   "date": "2026-10-21"
-  }
+  "RF 数据电台 / 工业蜂窝路由（CalAmp）",
+  "工业交换机分销"
  ],
  "channels": {
-  "role": "国有系统集成商（项目 / 招标）",
-  "region": "阿尔及利亚全国"
+  "role": "工业无线与数传方案分销（在售 3onedata 工业交换机）",
+  "region": "土耳其",
+  "contact": "info@rfteknoloji.com.tr"
  },
  "signals": [
-  "明确对 2 光 8 电工业 PoE 有兴趣并要 datasheet",
-  "SCADA / 工业网络是其业务线 → 工业交换机需求真实"
+  "官网栏目：3G/4G/5G Endüstriyel GSM Router Modem / RF Data Modemler / RFbox / Endüstriyel Switchler",
+  "站内 kw：switch 379 / ethernet 337 / poe 142 / fiber 66"
  ],
  "risks": [
-  "守界：国有企业、项目含政府/关键基础设施，按单核对最终用途（不碰军/警）",
-  "国有采购走招标，周期长、需本地代理；付款 L/C 或 T/T 预付",
-  "法语沟通"
+  "现货源 3onedata（深圳）价格基准低",
+  "SCADA/数传客户多为公用事业：守界按单核",
+  "无具名 KP（info@）"
  ],
  "saga_fit": {
-  "p1": "STI-288GP",
+  "p1": "STI-288GPM",
   "tier": 25,
-  "why": "其明确兴趣 = 2 光 8 电工业 PoE → Saga STI-288GP（$57.4/59.8/62.2）；管理版 STI-288GPM 备选。"
+  "why": "在售 3onedata 工业交换机 → 同口型替换：工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）、非管理 STI-280GE / STI-288GP"
  },
- "email_hook": "Hichem, en 2024 vous aviez demandé la fiche du switch industriel 8 PoE + 2 SFP — pour vos projets SCADA / fibre, souhaitez-vous la version managée (VLAN, ring) ou non managée pour un échantillon d'une pièce ?",
+ "email_hook": "For the industrial switch category next to your RF modems and 4G routers, we supply DIN-rail 8-port managed PoE (Marvell L2+) and unmanaged gigabit switches (2 SFP, −40~75 °C) in neutral packing from small lots — which 3onedata model do you ship most, so we quote its equivalent first?",
  "mail_review": {
   "binding": {
-   "level": "未触达（A/S 邮箱 6 封 2024→2026，无记录打开，0 回；收件 hichem.akchiche@retelem-dz.com；主题多为「24 Port PoE Managed Switch、10G Enterprise SFP Switch」；Elsa 箱：`to:retelem-dz.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 6 / 来 0）（第 74 批(n)））",
-   "type": "—",
+   "level": "未触达（A/S 邮箱 18 封 2024→2026，无记录打开，0 回；收件 info@rfteknoloji.com.tr；主题多为「10G Enterprise SFP Switch、Industrial PoE Switch」；Elsa 箱：`to:rfteknoloji.com.tr` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 18 / 来 0）（第 74 批(i)））",
+   "type": "工业无线与数传方案分销（在售 3onedata 工业交换机）",
    "sieve": "1（只收到群发）",
-   "stop": "6 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "stop": "只打通用邮箱，无记录打开",
    "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "阿尔及利亚 非主攻",
+   "lane": "TR 主攻（四主）",
    "cadence": "季度",
-   "evidence": "gmail_digest：out 6；用户表：「回复：Datasheet；Email发了商业PoE 228信息；对2光8PoE有兴趣；email」；研究档 risks：守界：国有企业、项目含政府/关键基础设施，按单核对最终用途（不碰军/警）"
+   "evidence": "gmail_digest：out 18；用户表：「工业交换机 3旺的」；研究档 risks：现货源 3onedata（深圳）价格基准低"
   },
-  "situation": "阿尔及利亚国有经济公共企业（EPE SPA，1971 年成立，ELEC EL DJAZAIR 控股子公司，14 个分支），关键数字基础设施集成商：LAN/WAN、光纤、数据中心、SCADA、视频监控、PABX；联系人 Hichem Akchiche 2024 年要工业交换机 datasheet，对 2 光 8 PoE 有兴趣；官网出现 Ubiquiti。",
-  "need": "其明确兴趣 = 2 光 8 电工业 PoE → Saga STI-288GP（$57.4/59.8/62.2）；管理版 STI-288GPM 备选。",
-  "breakpoint": "守界：国有企业、项目含政府/关键基础设施，按单核对最终用途（不碰军/警）",
+  "situation": "土耳其 RF Teknoloji（RF 数据电台 / 3G-4G-5G 工业路由（CalAmp 等）/ 无线数传 / RFbox，站内「Endüstriyel Switchler」品类；表内「工业交换机，三旺（3onedata）的」）；群发 2 次无回复。",
+  "need": "在售 3onedata 工业交换机 → 同口型替换：工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）、非管理 STI-280GE / STI-288GP",
+  "breakpoint": "现货源 3onedata（深圳）价格基准低",
   "saga_now": {
-   "p1": "STI-288GP",
+   "p1": "STI-288GPM",
    "tier": 25,
-   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-23 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-03 $280（10G Enterprise SFP Switch）、2026-06-10 $16000（32 Port 400GB DC Switch）",
-   "why": "其明确兴趣 = 2 光 8 电工业 PoE → Saga STI-288GP（$57.4/59.8/62.2）；管理版 STI-288GPM 备选。",
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-14 $65（10G Media Converter）；群发里他已看到的价（续）：2026-08-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-06-27 $220（48 port managed switch）、2025-09-26 $280（10G Enterprise SFP Switch）",
+   "why": "在售 3onedata 工业交换机 → 同口型替换：工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）、非管理 STI-280GE / STI-288GP",
    "repeat": [],
    "gaps": []
   },
@@ -132,28 +102,36 @@
    "when": "群发节奏",
    "channel": "A 邮箱",
    "action": "观察打开",
-   "one_question": "Hichem, en 2024 vous aviez demandé la fiche du switch industriel 8 PoE + 2 SFP — pour vos projets SCADA / fibre, souhaitez-vous la version managée (VLAN, ring) ou non managée pour un échantillon d'une pièce ?"
+   "one_question": "For the industrial switch category next to your RF modems and 4G routers, we supply DIN-rail 8-port managed PoE (Marvell L2+) and unmanaged gigabit switches (2 SFP, −40~75 °C) in neutral packing from small lots — which 3onedata model do you ship most, so we quote its equivalent first?"
   },
   "facts": [
    {
-    "date": "2026-09-02",
+    "date": "2024-11-05",
+    "dir": "去",
+    "who": "Simon → Angora Networks（SA-077）附件 Turkey Client List.xlsx",
+    "quote": "名单行：「industrial network info@rfteknoloji.com.tr https://www.rfteknoloji.com.tr/end%C3%BCstriyel-switchler/poe-endustriyel-switch/yonetilemez-poe-」",
+    "why": "Saga 2024-11-05 把本户列入交给 Angora（安卡拉，Saga 提议的欧盟/土耳其分销伙伴）的 64 家起步名单；此后 Saga 仍直发本户。若 Angora 已接触过本户，Saga 直发会与自己提议的渠道打架 → Q-51（默认：直发继续，Angora 报了价的户 Saga 只做技术支持）",
+    "k": "gmail_s 2024-11-05 Re: Invoice_5pcs STC-424DGGPM-280W（附件）+ Drive PI 7_土耳其 Turkey_Client_List.xlsx"
+   },
+   {
+    "date": "2026-09-21",
     "dir": "去",
     "who": "A/S 群发",
-    "quote": "24 Port PoE Managed Switch、10G Enterprise SFP Switch",
-    "why": "6 封 / 0 次打开 / 0 回｜首封 2024-06-20 → 末封 2026-09-02（6 去 / 0 来）",
+    "quote": "10G Enterprise SFP Switch、Industrial PoE Switch",
+    "why": "18 封 / 0 次打开 / 0 回｜首封 2024-06-27 → 末封 2026-09-21（18 去 / 0 来）",
     "k": "gmail_digest"
    },
    {
     "date": "2026-10-21",
     "dir": "用户表",
     "who": "Simon",
-    "quote": "回复：Datasheet；Email发了商业PoE 228信息；对2光8PoE有兴趣；email",
+    "quote": "工业交换机 3旺的",
     "why": "表内备注",
     "k": "用户表"
    }
   ],
   "proof_gaps": [
-   "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+   "在 Saga 给 Angora 的 Turkey Client List（2024-11-05）里——Angora 是否接触过本户无记录（Q-51）"
   ],
   "draft_en": null,
   "as_of": "2026-10-24"

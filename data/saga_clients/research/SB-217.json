@@ -1,118 +1,138 @@
 {
-  "code": "SB-217",
-  "name_official": "",
-  "researched_at": "2026-10-21",
-  "website_status": "快照失败（http_error）",
-  "summary": "波兰 Damixsat（卫星/电视与网络产品网店；表内「工商业 switch 有国内的」；官网 http_error）；表内 7 次跟进无回复。",
-  "type": "卫星/网络产品网店（波兰）",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "工商业switch 有国内的",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "工商业 switch 有国内的",
-      "quote": "工商业switch 有国内的",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ "code": "SB-217",
+ "name_official": "MICROSENS GmbH & Co. KG（德国哈姆）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（microsens.com，快照 2026-10-21）",
+ "summary": "德国光纤网络 / 智能楼宇 / 工业交换机制造商 MICROSENS（switch 123 / industrial 55 / poe 37），Anke de Vries、Nailia Faut（表内「可着重跟」）；表内「自己的 logo 白色外壳；工业 FS 10G MC」；群发 14 次无回复。德国品牌商 → OEM 30%。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "MICROSENS（自有）"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "MICROSENS 主页；关键词 switch 123 / industrial 55",
+   "quote": "MICROSENS - Home",
+   "url": "https://microsens.com/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "hq": "波兰",
-    "other": "官网 damixsat.pl，语言 ?，快照状态 http_error；角色判定来源：待核"
-  },
-  "business_lines": [
-    "卫星 / 电视 / 网络产品网店（波兰）"
-  ],
-  "channels": {
-    "role": "卫星/网络产品网店（波兰）",
-    "region": "波兰",
-    "contact": "damix@damixsat.pl、serwis@damixsat.pl"
-  },
-  "signals": [
-    "表内：工商业 switch 有国内的",
-    "快照：http_error"
-  ],
-  "risks": [
-    "已有国内货源（比价激烈）；官网 http_error；7 次无回复"
-  ],
-  "saga_fit": {
-    "p1": "STC-28DGGPM",
-    "tier": 20,
-    "why": "工商业 switch（现国内货）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、工业 8 GE + 2 SFP STI-280GE（$46.6）"
-  },
-  "email_hook": "For the commercial and industrial switches you list, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and DIN-rail 8-GE + 2 SFP units from single units, CE/RoHS, EXW USD — which switch SKU sells most in your shop?",
-  "mail_review": {
-    "binding": {
-      "level": "未触达（A 邮箱 16 封 2025→2026，无记录打开，0 回；收件 damix@damixsat.pl, serwis@damixsat.pl；主题多为「10G Enterprise SFP Switch、48 Port PoE Managed Switch」）；Elsa 1:1 去信 1 封（2025-02-10「16 Port Ethernet Switch」；To 仅本户 damix@damixsat.pl；Bcc 未逐封读头；同类名单抽读 24 封均无 Bcc；此后再未进 Elsa 任何名单——全箱 `from:e.sagatelecom to:damix@damixsat.pl` 仅此 1 条，complete）（第 74 批(m)）",
-      "type": "卫星/网络产品网店（波兰）",
-      "sieve": "1（只收到群发）",
-      "stop": "16 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-      "revive": "保持季度群发到 2027-Q1；无打开即停",
-      "lane": "PL 次级重点",
-      "cadence": "季度",
-      "evidence": "gmail_digest：out 16；用户表：「工商业switch 有国内的」；研究档 risks：已有国内货源（比价激烈）；官网 http_error；7 次无回复；data/gmail_e/elsa_sent_tld_probe_2026-10-25.json（国别后缀探测，该国 Elsa 触达全集 complete:true）"
-    },
-    "situation": "波兰 Damixsat（卫星/电视与网络产品网店；表内「工商业 switch 有国内的」；官网 http_error）；表内 7 次跟进无回复。",
-    "need": "工商业 switch（现国内货）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、工业 8 GE + 2 SFP STI-280GE（$46.6）",
-    "breakpoint": "已有国内货源（比价激烈）；官网 http_error；7 次无回复",
-    "saga_now": {
-      "p1": "STC-28DGGPM",
-      "tier": 20,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-21 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-04-23 $300（48 Port PoE Managed Switch）、2025-10-21 $280（10G Enterprise SFP Switch）",
-      "why": "工商业 switch（现国内货）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、工业 8 GE + 2 SFP STI-280GE（$46.6）",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "群发节奏",
-      "channel": "A 邮箱",
-      "action": "首封前知悉：Elsa 2025-02 已 1:1 发过「16 Port Ethernet Switch」给 damix@damixsat.pl（0 回），开头按 ㉝ 带一句「we wrote once in Feb 2025 about X, no reason you'd have replied」，别当完全陌生。 观察打开",
-      "one_question": "For the commercial and industrial switches you list, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and DIN-rail 8-GE + 2 SFP units from single units, CE/RoHS, EXW USD — which switch SKU sells most in your shop?"
-    },
-    "facts": [
-      {
-        "date": "2025-02-10",
-        "dir": "去",
-        "who": "Elsa 1:1 去信（To damix@damixsat.pl, serwis@damixsat.pl）",
-        "quote": "16 Port Ethernet Switch — 16-port DIN Gigabit Ethernet switch for vehicle network / industrial automation; model choice 5/8 port, 10/100M, PoE version（稿内无价，第 74 批(p) 已读稿）",
-        "why": "Elsa 箱 in:sent 按国别后缀探测（to:.de/.uk/.pl/.cz）命中：2025-02 Elsa 开箱头两周的逐户单发，称呼「Hi, Damix」；Elsa Replied 线程 0、来询未回清单 0 → 0 回；S/A digest 看不到这封",
-        "k": "elsa_1to1",
-        "msg_id": "194ef4d2c36a24e0"
-      },
-      {
-        "date": "2026-09-25",
-        "dir": "去",
-        "who": "A 群发",
-        "quote": "10G Enterprise SFP Switch、48 Port PoE Managed Switch",
-        "why": "16 封 / 0 次打开 / 0 回｜首封 2025-04-04 → 末封 2026-09-25（16 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "工商业switch 有国内的",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-25"
+  {
+   "kind": "用户表",
+   "claim": "自己的 logo 白色外壳；工业 FS 10G MC；可以着重跟一下",
+   "quote": "兴趣：自己的logo 白色外壳 工业FS 10G MC",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Anke de Vries",
+   "title": "（表内联系人）",
+   "email": "adevries@microsens.de",
+   "phone": "",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  },
+  {
+   "name": "Nailia Faut",
+   "title": "（表内联系人）",
+   "email": "nfaut@microsens.de",
+   "phone": "",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照核对 + 表内）"
+ },
+ "company_facts": {
+  "legal_name": "MICROSENS GmbH & Co. KG",
+  "founded": "1993",
+  "hq": "Hamm, Germany",
+  "size": "中型制造商（euromicron 集团）",
+  "other": "白色外壳自有设计"
+ },
+ "business_lines": [
+  "光纤交换机 / 智能楼宇 / 工业交换机（自有品牌）"
+ ],
+ "channels": {
+  "role": "德国品牌商（OEM 采购）",
+  "region": "德国"
+ },
+ "signals": [
+  "具名联系人 ×2；10G MC 需求"
+ ],
+ "risks": [
+  "白色外壳定制 → 模具 / 起订量；10G MC 另询；14 次群发无回复"
+ ],
+ "saga_fit": {
+  "p1": "STI-288GPM",
+  "tier": 30,
+  "why": "工业 FS 贴 MICROSENS 标 → STI-288GPM（$85.5 @30%）；10G MC 按 SmartByte 另询。"
+ },
+ "email_hook": "Anke, for a MICROSENS-labelled industrial managed 8-PoE + 2-SFP (Marvell) and 10G media converters — white housing is possible above a minimum lot; what annual volume would the white-housing SKU run, so I check tooling with the factory?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 23 封 2024→2026，无记录打开，0 回；收件 adevries@microsens.de, nfaut@microsens.de；主题多为「Marvell Industrial Alert System、10G Enterprise SFP Switch」；Elsa 箱：`to:microsens.com OR to:microsens.de` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 23 / 来 0）（第 74 批(j)））",
+   "type": "—",
+   "sieve": "1（只收到群发）",
+   "stop": "23 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+   "lane": "DE 主攻（四主）",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 23；用户表：「兴趣：自己的logo 白色外壳 工业FS 10G MC」；研究档 risks：白色外壳定制 → 模具 / 起订量；10G MC 另询；14 次群发无回复"
+  },
+  "situation": "德国光纤网络 / 智能楼宇 / 工业交换机制造商 MICROSENS（switch 123 / industrial 55 / poe 37），Anke de Vries、Nailia Faut（表内「可着重跟」）；表内「自己的 logo 白色外壳；工业 FS 10G MC」；群发 14 次无回复。德国品牌商 → OEM 30%。",
+  "need": "工业 FS 贴 MICROSENS 标 → STI-288GPM（$85.5 @30%）；10G MC 按 SmartByte 另询。",
+  "breakpoint": "白色外壳定制 → 模具 / 起订量；10G MC 另询；14 次群发无回复",
+  "saga_now": {
+   "p1": "STI-288GPM",
+   "tier": 30,
+   "price": "换人再触锚价 STI-288GPM $85.5 EXW（主表档位（PDF 上限 $88；SA-016 2025-07 实报 $72 为分销量价）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-19 $220（10G managed switch）；群发里他已看到的价（续）：2026-08-12 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-14 $280（10G Enterprise SFP Switch）",
+   "why": "工业 FS 贴 MICROSENS 标 → STI-288GPM（$85.5 @30%）；10G MC 按 SmartByte 另询。",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1（换人后）",
+   "channel": "A 邮箱 → 具名 KP",
+   "action": "换收件人再发一封（第 75 批(z) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用）；白色外壳 = 开模/起订量问题，信里不承诺）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
+   "one_question": "Anke, for a MICROSENS-labelled industrial managed 8-PoE + 2-SFP (Marvell) and 10G media converters — white housing is possible above a minimum lot; what annual volume would the white-housing SKU run, so I check tooling with the factory? Reference: STI-288GPM at $85.5 USD EXW (MOQ 1, 15-day validity)."
+  },
+  "facts": [
+   {
+    "date": "2026-09-22",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Marvell Industrial Alert System、10G Enterprise SFP Switch",
+    "why": "23 封 / 0 次打开 / 0 回｜首封 2024-06-26 → 末封 2026-09-22（23 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：自己的logo 白色外壳 工业FS 10G MC",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026-09-22",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "16 Port Industrial PoE Switch",
+    "why": "本日去信真实主题（邮箱索引 fd4b9b351b1f7073；信稿开头句引用此封；此前稿内写的「Marvell Industrial Alert System」是线程列表首题，不是本封）",
+    "k": "fd4b9b351b1f7073"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": {
+   "subject": "A MICROSENS-labelled industrial 8-PoE + 2-SFP in white housing - the volume question",
+   "body": "Hello Anke,\n\nOver the past months you had a few product mails from us - most recently \"16 Port Industrial PoE Switch\" on 22 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor a MICROSENS-labelled industrial managed switch in your white housing colour: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, L2 managed, Marvell-based, -40 to 75 C, CE/RoHS - model STI-288GPM - $85.5 USD EXW in standard housing (MOQ 1, 15-day validity); the 10G media converter, 1 x 10G SFP+ + 1 x 100M-10G RJ45 - $65. White housing is a tooling and minimum-lot question, not a yes/no.\n\nOne question: what annual volume would the white-housing SKU run at, so I check tooling and the minimum lot with the factory before we talk further?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+  },
+  "as_of": "2026-10-24"
+ }
 }

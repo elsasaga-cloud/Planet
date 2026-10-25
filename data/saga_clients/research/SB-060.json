@@ -1,141 +1,128 @@
 {
- "code": "SB-060",
- "name_official": "Oral Güvenlik Sistemleri（Oral Companies，Lefkoşa/Nicosia, 北塞浦路斯；oralguvenlik.com）",
- "researched_at": "2026-10-21",
- "website_status": "在线（网店）",
- "summary": "北塞浦路斯（KKTC）尼科西亚的安防系统零售/安装商 Oral Güvenlik Sistemleri（Oral Companies 旗下，2008 年设立；约 6 人；业主 Metin Oral；经理 Muhammad Azeem；网店销售 Hikvision NVR/摄像机、Ttec 机柜等；+90 392 228 33 30；info@oralguvenlik.com）。ISAF 记录：Muhammad Azeem Ullah——问工业级 PoE 带网管、bypass；问 12 光 12 电带 PoE 网管报价 $150；2 光 8 电带 PoE 管理（Vitesse）报价 $90 觉得贵（备注：后面可报瑞昱方案价格）；问多模收发器价格；无后续跟进。按 T06 规则北塞计入土耳其。",
- "type": "",
- "size": "",
- "brands_seen": [
-  "Hikvision（零售）",
-  "Ttec"
- ],
- "evidence": [
-  {
-   "kind": "名录",
-   "claim": "公司、成立年、人员",
-   "quote": "Oral Güvenlik Sistemleri Overview … Website: oralguvenlik.com … Founded: 2008 … Metin Oral Oral Companies Şirketinde Business Owner … Muhammad Azeem Manager at Oral Güvenlik Sistemleri … numberOfEmployees 6",
-   "url": "https://aeroleads.com/c/oralguvenliksistemleri",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "厂商名录",
-   "claim": "地址与联系方式",
-   "quote": "ORAL GÜVENLİK SİSTEMLERİ Lefkoşa/K.K.T.C (0392) 228 33 30 info@oralguvenlik.com www.oralguvenlik.com",
-   "url": "https://ninova.com/ic/bayilerimiz",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "集团官网",
-   "claim": "集团归属",
-   "quote": "Markalarımız ve Kuruluş Yılları - Oral Güvenlik Sistemleri (2008): Güvenlik teknolojilerinde lider çözümler sunarak",
-   "url": "https://www.oralcompanies.com/hakkimizda",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "ISAF 互动：报价 $150/$90，嫌贵；收发器",
-   "quote": "问了工业级POE带网管， bypas, 问了12光12电带POE网管 报价150usd  2光8电带POE管理 （Vitesse) 报价 90usd, 觉得贵了(后面可报一下瑞昱方案的价格）  收发器多模价格",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Muhammad Azeem (Ullah)",
-   "role": "Manager（名录公开）",
-   "email": "info@oralguvenlik.com（用户表）",
-   "phone": "+90 392 228 33 30",
-   "source": "https://aeroleads.com/c/oralguvenliksistemleri"
-  },
-  {
-   "name": "Metin Oral",
-   "role": "Business Owner（名录公开）",
-   "email": "—",
-   "phone": "—",
-   "source": "https://aeroleads.com/c/oralguvenliksistemleri"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网核对）"
- },
- "company_facts": {
-  "legal_name": "Oral Güvenlik Sistemleri（Oral Companies）",
-  "founded": "2008",
-  "hq": "Lefkoşa (Nicosia), KKTC（+90 392 228 33 30；info@oralguvenlik.com）",
-  "size": "约 6 人（AeroLeads/RocketReach）",
-  "other": "Hikvision 零售；Ttec 机柜；SambaPOS 经销；网店"
- },
- "business_lines": [
-  "安防摄像/NVR 零售与安装（Hikvision）",
-  "POS/IT 配件"
- ],
- "channels": {
-  "网店": "https://www.oralguvenlik.com/",
-  "电话": "+90 392 228 33 30（公开）",
-  "邮箱（公开）": "info@oralguvenlik.com"
- },
- "signals": [
-  "对 $90 的 Vitesse 2 光 8 PoE 管理机嫌贵 → 用 Saga Realtek 线 STC-28GPM（2 SFP + 8 PoE L2 管理，列表 $62.2）重报；收发器多模可一并报"
- ],
- "risks": [
-  "北塞小市场、零售规模；价格敏感；无后续跟进"
- ],
- "saga_fit": {
-  "p1": "STC-28GPM",
-  "tier": 20,
-  "why": "零售/分销 20% 档：STC-28GPM（Saga Realtek 线，2 SFP + 8 GE PoE L2 管理，列表 $62.2）替代被嫌贵的 $90 Vitesse 机；非管理 STC-228GP（$30.8）；工业 bypass 版另议"
- },
- "email_hook": "Azeem Bey, ISAF'ta 90 USD'yi pahalı bulduğunuz 2 SFP + 8 port PoE yönetilebilir switch'in Realtek tabanlı sürümü fiyatıyla 71,0 USD EXW; yanına multimode SFP fiyatını da ekleyeyim mi?",
- "mail_review": {
-  "binding": {
-   "level": "未发信（S/A 邮箱均无往来；来源：用户表「问了工业级POE带网管， bypas, 问了12光12电带POE网管 报价150usd  2光8电带POE管理 （Vit」；Elsa 箱：`to:oralcompanies.com OR to:oralguvenlik.com` 逐户查 0（2026-10-24 第 73 批(o)，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(g)））",
-   "type": "—",
-   "sieve": "—（未入筛）",
-   "stop": "从未触达",
-   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
-   "lane": "TR 主攻（四主）",
-   "cadence": "首封后看打开",
-   "evidence": "gmail_digest：out 0；用户表：「问了工业级POE带网管， bypas, 问了12光12电带POE网管 报价150usd  2光8电带POE管理 （Vitesse) 报价 90usd, 觉得贵了」；研究档 risks：北塞小市场、零售规模；价格敏感；无后续跟进"
-  },
-  "situation": "北塞浦路斯（KKTC）尼科西亚的安防系统零售/安装商 Oral Güvenlik Sistemleri（Oral Companies 旗下，2008 年设立；约 6 人；业主 Metin Oral；经理 Muhammad Azeem；网店销售 Hikvision NVR/摄像机、Ttec 机柜等；+90 392 228 33 30；info@oralguvenlik.com）。ISAF 记录：Muhammad Azeem Ullah——问工业级 PoE 带网管、bypass；问 12 光 12 电带 PoE 网管报价 $150；2 光 8 电带 PoE 管理（Vitesse）报价 $90 觉得贵（备注：后面可报瑞昱方案价格）；问多模收发器价格；无后续跟进。按 T06 规则北塞计入土耳其。",
-  "need": "零售/分销 20% 档：STC-28GPM（Saga Realtek 线，2 SFP + 8 GE PoE L2 管理，列表 $62.2）替代被嫌贵的 $90 Vitesse 机；非管理 STC-228GP（$30.8）；工业 bypass 版另议",
-  "breakpoint": "北塞小市场、零售规模；价格敏感；无后续跟进",
-  "saga_now": {
-   "p1": "STC-28GPM",
-   "tier": 20,
-   "price": "Realtek 线按 HRUI 2026-09-30 进价 +20% 现算（Q-47 默认，不用 Drive 旧表价）：STC-28GPM $62.2→$71.0；按主表（研究档 saga_fit）",
-   "why": "零售/分销 20% 档：STC-28GPM（Saga Realtek 线，2 SFP + 8 GE PoE L2 管理，列表 $62.2）替代被嫌贵的 $90 Vitesse 机；非管理 STC-228GP（$30.8）；工业 bypass 版另议",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "待 Simon 排期（首封）",
-   "channel": "A 邮箱 → info@oralguvenlik.com（Muhammad Azeem (Ullah)）",
-   "action": "首封：按 email_hook 一问（第 74 批(r) 2026-10-25：英文信稿已写 `draft_en`，内容 = 土耳其语钩子句的英文版；土耳其语一句话仍在研究档备注里，对方若不读英文就整段单发）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
-   "one_question": "Azeem Bey, ISAF'ta 90 USD'yi pahalı bulduğunuz 2 SFP + 8 port PoE yönetilebilir switch'in Realtek tabanlı sürümü fiyatıyla 71,0 USD EXW; yanına multimode SFP fiyatını da ekleyeyim mi?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "问了工业级POE带网管， bypas, 问了12光12电带POE网管 报价150usd  2光8电带POE管理 （Vitesse) 报价 90usd, 觉得贵了(后面可报一下瑞昱方案的价格）  收发器多模价格",
-    "why": "表内备注",
-    "k": "用户表"
-   }
+  "code": "SB-060",
+  "name_official": "Bargas（bargas.ru，俄罗斯网店）",
+  "website_status": "在线但反爬（快照为 KillBot 验证页）",
+  "summary": "俄罗斯工商业网络设备网店（表内「工商业 FS 好多家的，销售平台」），联系人 Александр Гречкин（Kruto），2025-12 对 mini 工业机群发回复 interested；站点反爬，内容未取到。",
+  "type": "电商/销售平台",
+  "size": "待补证",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "用户记录",
+      "claim": "工商业 FS 多品牌销售平台；1 次回复 / 10 次",
+      "quote": "工商业FS 好多家的 销售平台（用户 Clients 表摘录）",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "站点反爬（KillBot 验证），未取到内容",
+      "quote": "title: KillBot user verification",
+      "url": "https://www.bargas.ru/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "工商业 FS 好多家的，销售平台；2025-12 群发 mini→interested",
+      "quote": "兴趣：工商业FS 好多家的 销售平台；回复：interested",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [
-   "无邮件往来"
+  "kp": [
+    {
+      "name": "Александр Гречкин (Alexander Grechkin)",
+      "title": "（表内联系人）",
+      "email": "ag@bargas.ru",
+      "phone": "",
+      "source": "（本地 Clients/ 表格，无公开 URL）"
+    }
   ],
-  "draft_en": {
-   "subject": "The 2-SFP + 8-PoE managed switch you found expensive at $90 - a $71 version",
-   "body": "Hi Azeem,\n\nWe met at ISAF 2025 in Istanbul last October - this picks up what we discussed at the booth.\n\nAt the booth the 2 SFP + 8-port PoE managed switch was $90 and you found it expensive. There is a lower-cost version on our Realtek-based commercial line, same port layout (2 x SFP + 8 x Gigabit PoE+, L2 managed, web GUI), model STC-28GPM - $71.0 USD EXW (MOQ 1, 15-day validity). The unmanaged 2 SFP + 8 PoE unit is $33.2.\n\nOne question: shall I add multimode SFP modules to the quote, or do you source optics locally?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+  "grade_override": "B",
+  "override_reason": "平台型卖家、1 次回复后 9 次无果、俄罗斯非主攻区 → 慢跟。",
+  "notes": "一封邮件给上架用 SKU 清单（分销 20%）。",
+  "researched_at": "2026-10-21",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（快照反爬 + 表内）"
   },
-  "as_of": "2026-10-24"
- }
+  "company_facts": {
+    "legal_name": "（待核，ООО «Баргас»？）",
+    "founded": "",
+    "hq": "俄罗斯",
+    "size": "网店 / 经销",
+    "other": "info@bargas.ru"
+  },
+  "business_lines": [
+    "工业 / 商用交换机多品牌网店"
+  ],
+  "channels": {
+    "role": "网店 / 经销（多品牌）",
+    "region": "俄罗斯"
+  },
+  "signals": [
+    "对 mini 工业机 interested（2025-12）",
+    "多品牌平台 → 上架门槛低"
+  ],
+  "risks": [
+    "俄罗斯：制裁 / 收款（第三国或人民币）",
+    "平台价格透明"
+  ],
+  "saga_fit": {
+    "p1": "STI-050GE",
+    "tier": 20,
+    "why": "其回应的 mini 工业机 → Saga STI-050GE（$17.0/17.8/18.5）上架起手；配套 STI-054GP / STI-144GP。"
+  },
+  "email_hook": "Александр, вы отметили интерес к mini промышленным коммутаторам — 5 портов, DIN-рейка, 12–36 В, от 1 шт.; прислать прайс EXW и фото для карточки товара?",
+  "mail_review": {
+    "binding": {
+      "level": "未绑定（「kruto」→ 付样说明 + STI-222GP 33 USD → 无）；Elsa 1:1 去信 1 封（2025-02-28「8 Port Industrial PoE Switch」；To 仅本户 info@bargas.ru；Bcc 未逐封读头；同类名单抽读 24 封均无 Bcc；此后再未进 Elsa 任何名单——全箱 `from:e.sagatelecom to:info@bargas.ru` 仅此 1 条，complete）（第 74 批(m)）",
+      "type": "俄罗斯网店",
+      "sieve": "1",
+      "stop": "付样 + 价后无回",
+      "revive": "—",
+      "lane": "RU",
+      "cadence": "2024-12 → 2026-08 去信 16 封；最后来信 2024-12-18",
+      "evidence": "k=d5f6464213d5a032 / 347a1cb99eeabbb1"
+    },
+    "situation": "对方回了一句俄式赞叹，Simon 说明非免费样并报 STI-222GP 33 USD。无回。",
+    "need": "迷你工业 PoE。",
+    "breakpoint": "付样筛子。",
+    "saga_now": {
+      "p1": "无",
+      "tier": 20,
+      "price": "—；群发里他已看到的价（续）：2026-08-17 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-08-25 $300（48 Port PoE Managed Switch）、2025-09-24 $280（10G Enterprise SFP Switch）",
+      "why": "不投入。已打开的主题（2/16 封有打开记录）：「Re: Mini Industrial PoE Switch」(2024-12-18)、「Re: Mini Industrial PoE Switch」(2024-12-31) → 读者兴趣偏「工业」；与 P1 同类，继续",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "不动",
+      "channel": "—",
+      "action": "首封前知悉：Elsa 仅 2025-02-28 单发过 1 封「8 Port Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；—",
+      "one_question": ""
+    },
+    "facts": [
+      {
+        "date": "2024-12-18",
+        "dir": "去",
+        "who": "Simon",
+        "quote": "it is not free samples… Price: 33usd/pc, STI-222GP",
+        "why": "付样说明",
+        "k": "347a1cb99eeabbb1"
+      },
+      {
+        "date": "2025-02-28",
+        "dir": "out",
+        "who": "Elsa → info@bargas.ru",
+        "quote": "8 Port Industrial PoE Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+        "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
+        "k": "elsa_1to1",
+        "msg_id": "1954b3f635d55353"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

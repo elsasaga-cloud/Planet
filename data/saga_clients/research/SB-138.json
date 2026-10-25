@@ -1,35 +1,42 @@
 {
  "code": "SB-138",
- "name_official": "AAA Group（aaagroup.pk；巴基斯坦，具体法人待核）",
+ "name_official": "Volktek Corporation（台湾）",
  "researched_at": "2026-10-21",
- "website_status": "待核（aaagroup.pk 未被搜索引擎收录；同名 AAA Group 多家：aaa-group.com.pk 建筑/贸易/学院、aaa-solutions 纺织、aaagroup.online 拉合尔代工）",
- "summary": "巴基斯坦 AAA Group（域名 aaagroup.pk，联系人 Nadeem Shar Din，企业邮箱 + WA）。2023-04 要「光猫 4 路」（4 口 ONU，Saga 不做），其后对工业电源、10G MC 信息回「will check」；21 次推送 2 次实质回复、主动发过新年贺卡 → 关系在但需求不在 Saga 产品线内 → B 慢跟，P1 待核（p1 null）。",
+ "website_status": "在线（volktek.com，快照 2026-10-21）",
+ "summary": "台湾新北中和 1994 年成立的工业以太网 / PoE 制造商（自有工厂、SMT/DIP 产线；L3 工业交换机、PoE++、10G 等；switch 652 / poe 412 / 10g 77），业务 Karen Hua / 皮凯太：**想 OEM 工业 L2/L3 管理型**、对 bypass 有兴趣（已送样）、了解 CWDM；8 次跟进无实质回复。台湾厂商口径：按继承规则台系品牌商不是「渠道客户」，但作为 OEM/贴牌采购方可按 OEM 30% 档跟进。",
  "type": "",
  "size": "",
  "brands_seen": [],
  "evidence": [
   {
-   "kind": "用户表",
-   "claim": "需求：光猫 4 路；10G MC 回 will check",
-   "quote": "发了工业光猫图 DS → thanks 暂时没需求；发了10G MC信息 → will check",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "kind": "官网快照",
+   "claim": "1994 年成立，自有工厂与 SMT/DIP 产线；L3 工业交换机、L3 PoE++、工业 PoE；+886 2 8242 1000",
+   "quote": "Volktek is a leading Taiwan-based company and manufacturer established in 1994. With our own advanced in-house factory and SMT/DIP production lines… Layer 3 Industrial Ethernet Switches… Layer 3 Managed PoE++ Switches",
+   "url": "https://www.volktek.com/index_en.php",
    "date": "2026-10-21"
   },
   {
-   "kind": "第三方",
-   "claim": "同名公司排除记录",
-   "quote": "AAA Group of Companies（aaa-group.com.pk：Construction / Trading / Science Academy）；AAA Solutions（纺织，North Karachi）——均非 aaagroup.pk",
-   "url": "https://aaa-group.com.pk/",
+   "kind": "用户表",
+   "claim": "想 OEM 工业级 L2 L3 管理需求；对 bypass 有兴趣，送了样品；对 CWDM 有一些了解；地址新北市中和区连城路 192 号 4 楼",
+   "quote": "兴趣：想OEM 工业级L2 L3管理需求 对bypass有兴趣，送了样品，对CWDM有一些了解",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
  "kp": [
   {
-   "name": "Nadeem Shar Din",
-   "role": "（职位未核）",
-   "email": "nadeem.sd@aaagroup.pk",
-   "phone": "+92 300 402 5659（WA 已加）",
-   "source": "用户 Clients 表"
+   "name": "Karen Hua（皮凯太）",
+   "title": "业务专员",
+   "email": "karen.hua@volktek.com",
+   "phone": "+886 2 8242 1000",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  },
+  {
+   "name": "Joseph Pi",
+   "title": "（表内联系人）",
+   "email": "joseph.pi@volktek.com",
+   "phone": "",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
   }
  ],
  "grade_override": null,
@@ -37,86 +44,84 @@
  "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（身份待核 · 需求映射）"
+  "level": "B 级加厚 v1（官网快照核对：台系制造商 OEM，已送样）"
  },
  "company_facts": {
-  "legal_name": "待核（aaagroup.pk）",
-  "founded": "待核",
-  "hq": "巴基斯坦（城市待核；+92 300 402 5659 为移动号）",
-  "size": "待核",
-  "other": "搜索命中的多家 AAA Group（卡拉奇建筑贸易、北卡拉奇纺织、拉合尔代工）均未使用 aaagroup.pk 域，不能判定为同一主体"
+  "legal_name": "Volktek Corporation",
+  "founded": "1994",
+  "hq": "4F, 192 Liancheng Rd., Zhonghe, New Taipei 23553, Taiwan",
+  "size": "中型制造商（自有工厂）",
+  "other": "已收 Saga bypass 样品"
  },
  "business_lines": [
-  "待核（表内需求：ONU/光猫、工业电源、10G 收发器→偏 ISP/网络工程采购）"
+  "工业以太网 / PoE 交换机（L2/L3，自产）",
+  "MC / 光纤 / 10G 工业"
  ],
- "products_seen": [],
  "channels": {
-  "contact": "Nadeem Shar Din nadeem.sd@aaagroup.pk，+92 300 402 5659（WA 已加）"
+  "role": "台系制造商（OEM 补充 SKU）",
+  "region": "全球"
  },
  "signals": [
-  "2024-01-17 主动发新年贺卡（关系维持中）",
-  "2024-04-16 对 10G MC 信息回「will check」"
+  "已送 bypass 样品 + 明确 OEM 工业 L2/L3 意向",
+  "自有产线 → 只会外购其不做的 SKU（bypass / 特定口型）"
  ],
  "risks": [
-  "首要需求为 4 口 ONU（Saga 无 PON 产品线）",
-  "公司身份未核实，可能为贸易/工程综合体而非网络专业商"
+  "台系厂商口径；同行竞争敏感",
+  "8 次跟进无回复 → 样品评估结果待追"
  ],
  "saga_fit": {
-  "p1": null,
-  "tier": 25,
-  "why": "表内需求 ONU 4 路 → Saga 无 PON；待其明确交换机/MC 需求后再对位（可先递 STI-110GE 工业 MC + STC-28DGGPM 商用管理 PoE 两页）"
+  "p1": "LT-IS6312GP-4GX8GT-FBP",
+  "tier": 30,
+  "why": "其已评估的 bypass 工业 L2+ 管理 PoE → SmartByte LT-IS6312GP-4GX8GT-FBP（$202.1 @30%）（SmartByte 型号；Saga 暂无对应名，报价时注明）；L3 工业 → STI-41616XGGPM(L3)。"
  },
- "email_hook": "Besides the 4-port ONU you asked about (not in our line), do your field projects use small fiber-to-copper media converters or 8-port PoE switches? Happy to send the two spec pages if so.",
+ "email_hook": "Karen, following the bypass sample we sent — did the ring-failover test pass on your bench? If Volktek wants that SKU under its own label (L2+ managed, 8 PoE + 4 SFP with optical bypass), I can send OEM pricing by quantity break.",
  "mail_review": {
   "binding": {
-   "level": "未发信（S/A 邮箱均无往来；来源：用户表「发了工业光猫图 DS → thanks 暂时没需求；发了10G MC信息 → will check」；Elsa 箱：`to:aaagroup.pk` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(n)））",
+   "level": "未触达（A 邮箱 14 封 2025→2026，1 次记录打开，0 回；收件 joseph.pi@volktek.com, karen.hua@volktek.com；主题多为「Managed Optical Bypass Switch、Marvell Industrial Alert System」；Elsa 箱：`to:volktek.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 14 / 来 0）（第 74 批(n)））",
    "type": "—",
-   "sieve": "—（未入筛）",
-   "stop": "从未触达",
-   "revive": "不动（非主攻区；J5：有证据再动）",
-   "lane": "巴基斯坦 非主攻",
-   "cadence": "不动",
-   "evidence": "gmail_digest：out 0；用户表：「发了工业光猫图 DS → thanks 暂时没需求；发了10G MC信息 → will check」；研究档 risks：首要需求为 4 口 ONU（Saga 无 PON 产品线）"
+   "sieve": "1~2（1 次打开）",
+   "stop": "14 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "台湾 非主攻",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 14，Opened 标签 1（Simon 群发追踪）；用户表：「兴趣：想OEM 工业级L2 L3管理需求 对bypass有兴趣，送了样品，对CWDM有一些了解」；研究档 risks：台系厂商口径；同行竞争敏感"
   },
-  "situation": "巴基斯坦 AAA Group（域名 aaagroup.pk，联系人 Nadeem Shar Din，企业邮箱 + WA）。2023-04 要「光猫 4 路」（4 口 ONU，Saga 不做），其后对工业电源、10G MC 信息回「will check」；21 次推送 2 次实质回复、主动发过新年贺卡 → 关系在但需求不在 Saga 产品线内 → B 慢跟，P1 待核（p1 null）。",
-  "need": "表内需求 ONU 4 路 → Saga 无 PON；待其明确交换机/MC 需求后再对位（可先递 STI-110GE 工业 MC + STC-28DGGPM 商用管理 PoE 两页）",
-  "breakpoint": "首要需求为 4 口 ONU（Saga 无 PON 产品线）",
+  "situation": "台湾新北中和 1994 年成立的工业以太网 / PoE 制造商（自有工厂、SMT/DIP 产线；L3 工业交换机、PoE++、10G 等；switch 652 / poe 412 / 10g 77），业务 Karen Hua / 皮凯太：**想 OEM 工业 L2/L3 管理型**、对 bypass 有兴趣（已送样）、了解 CWDM；8 次跟进无实质回复。台湾厂商口径：按继承规则台系品牌商不是「渠道客户」，但作为 OEM/贴牌采购方可按 OEM 30% 档跟进。",
+  "need": "其已评估的 bypass 工业 L2+ 管理 PoE → SmartByte LT-IS6312GP-4GX8GT-FBP（$202.1 @30%）（SmartByte 型号；Saga 暂无对应名，报价时注明）；L3 工业 → STI-41616XGGPM(L3)。",
+  "breakpoint": "台系厂商口径；同行竞争敏感",
   "saga_now": {
-   "p1": "—",
-   "tier": 25,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "表内需求 ONU 4 路 → Saga 无 PON；待其明确交换机/MC 需求后再对位（可先递 STI-110GE 工业 MC + STC-28DGGPM 商用管理 PoE 两页）",
+   "p1": "LT-IS6312GP-4GX8GT-FBP",
+   "tier": 30,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-21 $280（10G Enterprise SFP Switch）",
+   "why": "其已评估的 bypass 工业 L2+ 管理 PoE → SmartByte LT-IS6312GP-4GX8GT-FBP（$202.1 @30%）（SmartByte 型号；Saga 暂无对应名，报价时注明）；L3 工业 → STI-41616XGGPM(L3)。已打开的主题（1/14 封有打开记录）：「Marvell Software Function List」(2025-03-20) → 读者兴趣偏「价格/目录」；与 P1 同类，继续",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—",
-   "one_question": ""
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Karen, following the bypass sample we sent — did the ring-failover test pass on your bench? If Volktek wants that SKU under its own label (L2+ managed, 8 PoE + 4 SFP with optical bypass), I can send OEM pricing by quantity break."
   },
   "facts": [
    {
-    "date": "2024-01-17",
-    "dir": "来",
-    "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
-    "quote": "用户表跟进：推「发了工业电源相关信息」→ 对方「主动发了新年贺卡」",
-    "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
-    "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.107 2024.1.17"
+    "date": "2026-09-04",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "Managed Optical Bypass Switch、Marvell Industrial Alert System",
+    "why": "14 封 / 1 次打开 / 0 回｜首封 2025-03-20 → 末封 2026-09-04（14 去 / 0 来）",
+    "k": "gmail_digest"
    },
    {
     "date": "2026-10-21",
     "dir": "用户表",
     "who": "Simon",
-    "quote": "发了工业光猫图 DS → thanks 暂时没需求；发了10G MC信息 → will check",
+    "quote": "兴趣：想OEM 工业级L2 L3管理需求 对bypass有兴趣，送了样品，对CWDM有一些了解",
     "why": "表内备注",
     "k": "用户表"
    }
   ],
-  "proof_gaps": [
-   "无邮件往来",
-   "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
-  ],
+  "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-24"
  }

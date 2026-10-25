@@ -1,0 +1,16 @@
+# SB-459 ssdcam.ru · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCcn-edzDneX6IVRSD6jpNAg · fetched 2026-10-25T07:41:18Z · HTTP 200
+2025-06-08T19:51:43+00:00	Распознавание А/М номеров SSDCAM	https://www.youtube.com/watch?v=rXiZrDXtuaU
+2025-03-14T12:05:23+00:00	Добавление ключей доступа к вызывной панели SSDCAM SSD-1190	https://www.youtube.com/watch?v=Eiq5Z7nxirk
+2025-03-04T19:30:23+00:00	Подключение домофонов SSDCAM к приложения TuYa SmartLife	https://www.youtube.com/watch?v=9O_mIRrGU64
+2025-02-24T17:50:20+00:00	Настройка подсчета посетителей (CC) SSDCAM PRO AI	https://www.youtube.com/watch?v=ZBWRN00esq0
+2024-08-19T12:36:12+00:00	Работа видеокамер FISHEYE на видеорегистраторе линейки PRO AI	https://www.youtube.com/watch?v=z8TpN39mE3A
+2024-07-26T05:36:30+00:00	Распознавание А/М номеров SSDCAM	https://www.youtube.com/watch?v=NNjE2QczbCA
+2024-04-11T06:16:15+00:00	SSDCAM уличный коммутатор POE-828PWS ОБЗОР	https://www.youtube.com/watch?v=4hWXUQWp-8o
+2023-08-01T20:12:10+00:00	SSDCAM IP камера IP-703M/IP-715M, 5MP, 2,8мм, 5 Мп 1/2.8 SONY IMX 335 STARVIS	https://www.youtube.com/watch?v=1mOgv0CHfFk
+2023-08-01T20:07:22+00:00	SSDCAM IP камера IP-140, 4MP, 12мм, 1/3 SC401 AI	https://www.youtube.com/watch?v=DcbxbgE2HFY
+2023-08-01T20:06:22+00:00	SSDCAM IP камера IP-710, 5MP, 12мм, 1/2.8 SONY IMX 335 STARVIS	https://www.youtube.com/watch?v=f79wtn6Wy_o
+2022-09-21T21:04:03+00:00	SSDCAM IP-129SD Настройка Wi-Fi	https://www.youtube.com/watch?v=UQWTnhAFICY
+2021-12-09T16:42:40+00:00	SSDCAM IP камера IP-710, 5MP, 12мм, 1/2.8 SONY IMX 335 STARVIS	https://www.youtube.com/watch?v=ASJ8kujkJwU
+2021-12-09T16:41:52+00:00	SSDCAM IP-140, 2MP, 1/2.8 SONY IMX307 STARVIS	https://www.youtube.com/watch?v=q7Pg39LPmCg
+2021-10-07T19:25:17+00:00	SSDCAM IP-129 3MP, 2.8мм SC3335P + XM535	https://www.youtube.com/watch?v=7yTz1WVhmzc
+2021-10-07T19:23:18+00:00	SSDCAM IP-130 4MP 2.8mm SC401 AI + NOVATEK NT98562 N4	https://www.youtube.com/watch?v=rg9XjCNr5Ao

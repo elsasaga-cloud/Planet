@@ -1,0 +1,86 @@
+{
+ "code": "SC-126",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（g5network.tech，快照 2026-10-21）",
+ "summary": "美国 G5 Network Technology（德州二级市场电信/网络/IT 硬件经纪：Cisco / HP / HPE / Dell / Supermicro / IBM 等正品检测分级，BrokerBin 挂牌；阿里巴巴询盘为知名品牌产品；KP Adam Mason（Sales & Procurement Manager））；表内无跟进记录。",
+ "type": "二手/二级市场品牌硬件经纪（非渠道）",
+ "size": "",
+ "brands_seen": [
+  "Ubiquiti",
+  "Cisco",
+  "Fortinet",
+  "Juniper"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：G5 Network Technology | Secondary Market Telecom, Network & IT Hardware；品类词 安防监控（CCTV / 门禁） / 布线 / 线缆 / 网络交换 / PoE",
+   "quote": "G5 Network Technology is a secondary market specialist for genuine telecom, networking & IT hardware — lab-tested, graded, and shipped from Texas. Listed on BrokerBin.",
+   "url": "https://g5network.tech/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "知名品牌产品 Cisco, HP, HPE, Sony, Samsung, Lenovo, Avaya, DELL, Supermicro, IBM, and Intel / from: 阿里巴巴询盘",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "G5 Network 定位",
+   "quote": "G5 Network Technology is a secondary market specialist for genuine telecom, networking & IT hardware — lab-tested, graded, and shipped from Texas. Listed on BrokerBin.",
+   "url": "https://g5network.tech/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "品牌产品询盘",
+   "quote": "知名品牌产品 Cisco, HP, HPE, Sony, Samsung, Lenovo, Avaya, DELL, Supermicro, IBM, and Intel / from: 阿里巴巴询盘",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Adam Mason",
+   "title": "Sales & Procurement Manager",
+   "email": "sales@g5network.tech",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
+ "grade_override": "C",
+ "override_reason": "非渠道：二级市场品牌硬件经纪（G5 Network Technology，BrokerBin），需求为品牌正品；c_sub=品类不符（品牌二手经纪）",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "美国",
+  "other": "官网 g5network.tech，语言 en-US，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "二级市场品牌 IT 硬件经纪"
+ ],
+ "channels": {
+  "role": "二手/二级市场品牌硬件经纪（非渠道）",
+  "region": "美国",
+  "contact": "sales@g5network.tech"
+ },
+ "signals": [
+  "官网：secondary market specialist for genuine telecom, networking & IT hardware — lab-tested, graded, and shipped from Texas. Listed on BrokerBin",
+  "表内：知名品牌产品 Cisco, HP, HPE, Sony, Samsung, Lenovo, Avaya, DELL, Supermicro, IBM, and Intel / from: 阿里巴巴询盘"
+ ],
+ "risks": [
+  "非渠道：二级市场品牌硬件经纪（BrokerBin），需求为品牌正品，白牌无切入"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 20,
+  "why": "二级市场品牌正品经纪（询盘为 Cisco/HP 等品牌货），白牌无切入 → 改 C"
+ },
+ "email_hook": "（不发送：品类不符）"
+}

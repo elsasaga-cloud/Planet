@@ -2,113 +2,130 @@
  "code": "SB-650",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "快照失败（http_error）",
- "summary": "澳大利亚 UBWH（ubwh.com.au：销售平台型网店，「很多品牌子的」；仅 cs@；官网 http_error）；群发 6 次无回复。",
- "type": "多品牌网店（澳大利亚，平台型）",
+ "website_status": "在线（beastteknoloji.com，快照 2026-10-21）",
+ "summary": "土耳其 Beast Teknoloji（安防分销：Tiandy / Dahua / Hikvision / Ajax，经销商申请与价目表；站内 Tiandy TPU-8125 / TPU-9245P、NVR（50）；KP Başak Hatem（basak.hatem@））；表内 1 次跟进无回复。",
+ "type": "安防分销商（土耳其，Tiandy/Dahua/Hikvision）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Hikvision",
+  "Dahua",
+  "Ajax",
+  "Tiandy"
+ ],
  "evidence": [
   {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "很多品牌子的",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "kind": "官网快照",
+   "claim": "官网标题：Beast Teknoloji - Beast Teknoloji；品类词 安防监控（CCTV / 门禁） / 无线 / WiFi / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "Markalar Tiandy Tiandy Detaylar Dahua Dahua Detaylar Hikvision Hikvision Detaylar Ajax Ajax Detaylar Destek Bayilik Başvuru Formu BAYİLİK BAŞVURU FORMU Tıklayın Fiyat Listeleri FİYAT LİSTELERİ Tıklayın Mail Order Formu MAIL ORDER FORMU Tıkl",
+   "url": "https://www.beastteknoloji.com/",
    "date": "2026-10-21"
   },
   {
-   "kind": "用户表",
-   "claim": "很多品牌 销售平台",
-   "quote": "很多品牌子的；销售平台",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "kind": "官网快照",
+   "claim": "Beast Teknoloji 品牌",
+   "quote": "Beast Teknoloji ; Markalar Tiandy Tiandy Detaylar Dahua Dahua Detaylar Hikvision Hikvision Detaylar Ajax Ajax Detaylar Destek Bayilik Başvuru Formu",
+   "url": "https://www.beastteknoloji.com/",
    "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Başak Hatem",
+   "title": "（表内联系人）",
+   "email": "basak.hatem@beastteknoloji.com",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "澳大利亚",
-  "other": "官网 ubwh.com.au，语言 ?，快照状态 http_error；角色判定来源：待核"
+  "hq": "土耳其",
+  "other": "官网 beastteknoloji.com，语言 tr，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "多品牌网店（澳大利亚）"
+  "安防产品分销（Tiandy / Dahua / Hikvision / Ajax）"
  ],
  "channels": {
-  "role": "多品牌网店（澳大利亚，平台型）",
-  "region": "澳大利亚",
-  "contact": "cs@ubwh.com.au"
+  "role": "安防分销商（土耳其，Tiandy/Dahua/Hikvision）",
+  "region": "土耳其",
+  "contact": "basak.hatem@beastteknoloji.com"
  },
  "signals": [
-  "表内：很多品牌子的；销售平台；cs@ubwh.com.au",
-  "快照：http_error"
+  "官网：Markalar Tiandy … Dahua … Hikvision … Ajax … Bayilik Başvuru Formu … Fiyat Listeleri；站内 TPU-8125 / TPU-9245P；kw nvr 50 / switch 30",
+  "KP：Başak Hatem（表内邮箱）"
  ],
  "risks": [
-  "平台型多品牌网店（低粘性）；非主攻区（T5，澳大利亚；RCM 由客户侧）；仅客服邮箱；官网 http_error；6 次无回复"
+  "土耳其：汇率敏感；品牌 PoE 随 Tiandy/Hikvision 套装走",
+  "1 次跟进无回复 → 具名首触"
  ],
  "saga_fit": {
   "p1": "STC-28DGGPM",
   "tier": 20,
-  "why": "平台 switch 位 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）"
+  "why": "品牌 NVR 配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）"
  },
- "email_hook": "For the switches you list across brands, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and 24-GE + 4×10G models from small lots, CE/RoHS, EXW USD; RCM by your side — which switch SKU sells most on your platform?",
+ "email_hook": "Başak, for the PoE switches your dealers buy with Tiandy and Dahua NVR kits, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ model and budget 4/8-port unmanaged PoE units from small lots, CE/RoHS, EXW USD — which size do your dealers order most?",
  "mail_review": {
   "binding": {
-   "level": "未触达（2025-06 store@ 退信 → 已改发 cs@ubwh.com.au，之后群发多封无记录打开、0 回；Elsa 箱：`to:ubwh.com.au` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 17 / 来 1）（第 74 批(n)））",
-   "type": "澳大利亚多品牌网店（UBWH）",
-   "sieve": "0",
-   "stop": "自动回复/机器人，无人工回复",
-   "revive": "换人：找具名采购 + 一问带价",
-   "lane": "AU",
-   "cadence": "2027-Q1",
-   "evidence": "k=38270940dcccfc56；第 19 批回补来信原文 1 条（gmail_s/gmail_a）"
+   "level": "未触达（A 邮箱 5 封 2025→2026，无记录打开，0 回；收件 basak.hatem@beastteknoloji.com；主题多为「10G Enterprise SFP Switch、Booster PoE Switch」；Elsa 箱：`to:beastteknoloji.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 5 / 来 0）（第 74 批(i)））",
+   "type": "安防分销商（土耳其，Tiandy/Dahua/Hikvision）",
+   "sieve": "1（只收到群发）",
+   "stop": "5 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "TR 主攻（四主）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 5；研究档 risks：土耳其：汇率敏感；品牌 PoE 随 Tiandy/Hikvision 套装走"
   },
-  "situation": "来信全部为机器回复；无人读信或无人回信。",
-  "need": "—",
-  "breakpoint": "—",
+  "situation": "土耳其 Beast Teknoloji（安防分销：Tiandy / Dahua / Hikvision / Ajax，经销商申请与价目表；站内 Tiandy TPU-8125 / TPU-9245P、NVR（50）；KP Başak Hatem（basak.hatem@））；表内 1 次跟进无回复。",
+  "need": "品牌 NVR 配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）",
+  "breakpoint": "土耳其：汇率敏感；品牌 PoE 随 Tiandy/Hikvision 套装走",
   "saga_now": {
-   "p1": "—",
+   "p1": "STC-28DGGPM",
    "tier": 20,
-   "price": "换人再触锚价 STC-28DGGPM $80.7（20% 档；第 72 批 2026-10-24）；—；群发里他已看到的价（续）：2026-08-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-19 $65（10G Media Converter）、2025-10-16 $280（10G Enterprise SFP Switch）、2026-06-17 $16000（32 Port 400GB DC Switch）",
-   "why": "—｜已发资料（勿重发）：Product Link_2026Q2(2026-03-10)、Saga Feature List_7.5.x_L2+(2026-07-13)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）",
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-30 $280（10G Enterprise SFP Switch）",
+   "why": "品牌 NVR 配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）",
    "repeat": [],
-   "gaps": [
-    "具名联系人"
-   ]
+   "gaps": []
   },
   "next_move": {
-   "when": "2027-Q1（非主攻区；cs@ 自 2025-08 起已收群发 0 回 → 换人一问，不加频）",
-   "channel": "A 邮箱 → cs@ubwh.com.au（无具名 KP；先在网店「Contact」页找采购姓名）",
-   "action": "一问（研究档 email_hook + 价锚）（第 75 批(ah) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；RCM stays on your side；按 action「一问」写短信）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
-   "one_question": "For the switches you list across brands, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and 24-GE + 4×10G models from small lots, CE/RoHS, EXW USD; RCM by your side — which switch SKU sells most on your platform? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
+   "one_question": "Başak, for the PoE switches your dealers buy with Tiandy and Dahua NVR kits, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ model and budget 4/8-port unmanaged PoE units from small lots, CE/RoHS, EXW USD — which size do your dealers order most?"
   },
   "facts": [
    {
-    "date": "2025-06-20",
-    "dir": "来",
-    "who": "store@ubwh.com.au",
-    "quote": "The email address 'store@ubwh.com.au' is obsolete and no longer monitored. Please re-send your email to: cs@ubwh.com.au",
-    "why": "来信原文（主题「Delivery failed: Un-monitored email」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
-    "k": "38270940dcccfc56"
-   },
-   {
-    "date": "2026-08-28",
+    "date": "2025-10-30",
     "dir": "去",
     "who": "A 箱（Alan）",
-    "quote": "24 Port PoE Managed Switch",
-    "why": "本日去信真实主题（邮箱索引 a5d7984695768a16；信稿开头句引用此封；此前稿内写的「Industrial PoE Switch」是线程列表首题，不是本封）",
-    "k": "a5d7984695768a16"
+    "quote": "10G Enterprise SFP Switch",
+    "why": "首封去信（邮箱索引；去信共 5 封）",
+    "k": "59fb9b54589ceff8"
+   },
+   {
+    "date": "2026-03-11",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "10G Enterprise SFP Switch、Booster PoE Switch",
+    "why": "5 封 / 0 次打开 / 0 回｜首封 2025-10-30 → 末封 2026-03-11（5 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-03-11",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "Updated Ethernet Switches Links",
+    "why": "最近一封去信（邮箱索引；去信共 5 封）",
+    "k": "14e3d7f505f80248"
    }
   ],
   "proof_gaps": [],
-  "draft_en": {
-   "subject": "One question for your purchasing - the switch category on UBWH",
-   "body": "Hello,\n\nOne question for whoever buys switches for UBWH: the product mails you had from us - most recently \"24 Port PoE Managed Switch\" on 28 August 2026 - were general ones; is there a neutral-brand switch SKU you would list, and which sells most on your platform, 8-port PoE or 24-port?\n\nFor reference, at distributor price, EXW, MOQ 1, 15-day validity, CE/RoHS: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based - model STC-28DGGPM - $80.7 USD. RCM stays on your side.\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
-  },
+  "draft_en": null,
   "as_of": "2026-10-24"
  }
 }

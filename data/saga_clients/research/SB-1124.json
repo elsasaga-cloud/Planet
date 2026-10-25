@@ -1,73 +1,146 @@
 {
- "code": "SB-1124",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（raritan.com，快照 2026-10-21）",
- "summary": "美国 Raritan（Legrand 旗下品牌：数据中心电源管理 PDU / DCIM 软件 / KVM-over-IP；表内「MC switch」「有较多的办事处」）；群发 20 次无回复。",
- "type": "数据中心电源与 KVM 品牌（Legrand 集团）",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：Data Center Power Management, DCIM Software, and KVM-over-IP；品类词 数据中心 / 企业 IT / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
-   "quote": "Raritan is a leading provider of power management solutions, DCIM software, and KVM-over-IP for data centers of all sizes.",
-   "url": "https://www.raritan.com/",
-   "date": "2026-10-21"
+  "code": "SB-1124",
+  "name_official": "FONEX K.T.M. Borowscy Sp. j.",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（fonex.pl；并档 Planet 渠道档案 PB-057）",
+  "summary": "琴斯托霍瓦的安防系统分销商（SATEL 授权），网店 + B2B 批发计划，PLANET 为 CCTV 网络配套。类型：安防分销商/电商（1994 年起电子安防系统分销：CCTV、报警、对讲/可视对讲、门禁、消防/排烟、门控自动化、智能家居；SATEL 授权分销；B2B 安装商与批发合作计划）。信号：fonex.pl PLANET 商品在售：GSD-2022P（16 PoE+ + 2 RJ45 + 2 SFP，871 zł，免运费、「Przewidywana dostawa: we wtorek」现货）、WGS-4215-8P2S（「Switch PoE przemysłowy」类目，8 PoE+ 2 SFP 工业壁挂管理型）；类目路径 Telewizja przemysłowa › Elementy sieci LAN/WAN › Switch › Switch PoE。Planet 渠道档案 PB-057 评级 B（需求：PLANET PoE 商用 + 工业两档在售、面向安装商的安防分销；触达：sklep@fonex.pl（销售/订单）、info@fonex.pl（技术）、wspolpraca@fonex.pl（B2B 批发合作）均官网公开；体量：Sp. j.（家族合伙），人数待补证；无具名 → B）。并档说明：Saga 表内本条 SB-1124（波兰）自动评 C（原因：；Saga 群发已推送 0 次无回复）。",
+  "type": "",
+  "size": "",
+  "brands_seen": [
+    "PLANET"
+  ],
+  "evidence": [
+    {
+      "kind": "卖方目录",
+      "claim": "PLANET 商用 PoE 在售（现货、价格）",
+      "quote": "GSD-2022P Planet Switch 16x PoE+, 2x RJ45, 2x SFP … Budżet mocy PoE: do 185 W … 871.00 zł Dostawa: darmowa Gwarancja: 24 miesiące Przewidywana dostawa: we wtorek … Telewizja przemysłowa › Elementy sieci LAN / WAN › Switch › Switch PoE",
+      "url": "https://www.fonex.pl/gsd-2022p-planet-switch-16x-poe-2x-rj45-2x-sfp-10256.html",
+      "date": "2026-10-20"
+    },
+    {
+      "kind": "卖方目录",
+      "claim": "PLANET 工业 PoE 在售",
+      "quote": "WGS-4215-8P2S Planet Switch 8x PoE+, 2x SFP … Rodzaj urządzenia: switch PoE przemysłowy … Budżet mocy PoE: do 200 W … Standardy PoE: PoE+ (30 W / port)",
+      "url": "https://www.fonex.pl/wgs-4215-8p2s-planet-switch-8x-poe-2x-sfp-10289.html",
+      "date": "2026-10-20"
+    },
+    {
+      "kind": "官网",
+      "claim": "联系方式与注册信息",
+      "quote": "FONEX K.T.M. Borowscy SP.J. ul. Wręczycka 13/15 42-202 Częstochowa NIP: 9492100567 KRS: 0000317918 Regon: 241058180 … sklep@fonex.pl (informacja handlowa, realizacja zamówień) · info@fonex.pl (pomoc techniczna)",
+      "url": "https://www.fonex.pl/strona/kontakt-4.html",
+      "date": "2026-10-20"
+    },
+    {
+      "kind": "官网",
+      "claim": "定位：1994 年起安防分销、授权分销、B2B 批发计划",
+      "quote": "Nieprzerwanie od 1994 roku działamy na rynku technologii związanych z elektronicznymi systemami bezpieczeństwa. Jesteśmy autoryzowanym dystrybutorem wielu cenionych w branży producentów. … Sprzedaż hurtowa Jeżeli jesteś zainteresowany nawiązaniem współpracy w modelu Hurt, napisz: wspolpraca@fonex.pl.",
+      "url": "https://www.fonex.pl/strona/wspolpraca-b2b-7.html",
+      "date": "2026-10-20"
+    }
+  ],
+  "kp": [],
+  "grade_override": "B",
+  "override_reason": "Planet 渠道档案 PB-057 评 B（有具名联系人 / 在售 PLANET 或工业网络品类）；Saga 表内 C 原因「」被调研推翻，提升为 B",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（并档 Planet 渠道档案 PB-057，W 批次调研 2026-10-19/20）"
   },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "MC switch",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
+  "company_facts": {
+    "legal_name": "FONEX K.T.M. Borowscy Sp. j.",
+    "founded": "",
+    "hq": "Częstochowa, 波兰",
+    "size": "",
+    "other": "Planet 渠道档案 PB-057（2026-10-20_W10_证据老化回查与安防收尾_IT-PL.json）；自有品牌：否；最大未知：人数/营收；PLANET 货源（Action/AB/Eltrox 等波兰分销？）；采购决策人"
   },
-  {
-   "kind": "官网快照",
-   "claim": "数据中心电源管理、DCIM、KVM-over-IP 品牌",
-   "quote": "Raritan is a leading provider of power management solutions, DCIM software, and KVM-over-IP for data centers of all sizes.",
-   "url": "https://www.raritan.com/",
-   "date": "2026-10-21"
+  "business_lines": [
+    "安防分销商/电商（1994 年起电子安防系统分销：CCTV、报警、对讲/可视对讲、门禁、消防/排烟、门控自动化、智能家居；SATEL 授权分销；B2B 安装商与批发合作计划）"
+  ],
+  "products_seen": [
+    {
+      "brand": "PLANET",
+      "model": "WGS-4215-8P2S",
+      "spec": "8 口千兆 PoE + 2 SFP 工业管理型（壁挂→DIN 导轨形态差异需说明）",
+      "saga": "STI-288DGGPM",
+      "url": "https://fonex.pl",
+      "date": "2026-10-19"
+    },
+    {
+      "brand": "PLANET",
+      "model": "GSD-2022P",
+      "spec": "16 口商用 PoE 非管理型，Saga 暂无对应型号（不推）",
+      "saga": "—",
+      "url": "https://fonex.pl",
+      "date": "2026-10-19"
+    }
+  ],
+  "channels": {
+    "role": "安防分销商/电商（1994 年起电子安防系统分销：CCTV、报警、对讲/可视对讲、门禁、消防/排烟、门控自动化、智能家居；SATEL 授权分销；B2B 安装商与批发合作计划）",
+    "region": "波兰"
   },
-  {
-   "kind": "用户表",
-   "claim": "MC switch，有较多办事处",
-   "quote": "MC switch；有较多的办事处",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
+  "signals": [
+    "CCTV 安防分销的 PoE 交换机配套（SATEL 报警为主线，PLANET 为网络配套）；有 B2B 批发/安装商合作计划（wspolpraca@）→ Saga 以工业壁挂 8 口 PoE 管理型（对位 WGS-4215-8P2S）作第二货源切入"
+  ],
+  "risks": [
+    "人数/营收；PLANET 货源（Action/AB/Eltrox 等波兰分销？）；采购决策人"
+  ],
+  "saga_fit": {
+    "p1": "STI-288DGGPM",
+    "tier": 20,
+    "why": "其在售 WGS-4215-8P2S（8 PoE+ 2 SFP 工业管理型）直接对位；CCTV 户外/机柜场景；分销商 → 20%（沿用 Planet 档案 PB-057）；需求："
+  },
+  "email_hook": "Your CCTV network range carries the WGS-4215-8P2S class for installers; an EXW second source for that 8-port Gigabit PoE managed industrial tier gives your B2B accounts the same slot at a lower landed cost. For the CCTV installs your B2B accounts quote today, is the 8-port Gigabit PoE managed industrial tier the one that moves most, or the 16/24-port commercial PoE?",
+  "mail_review": {
+    "binding": {
+      "level": "Elsa 群发 BCC 已触达 2026-09-01「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，PL-2 批次 To j.zaczek@mbs-systems.pl，0 回（第 73 批(o) Bcc 头核对 msg 1a05caee1683faef）；S/A 箱：S/A 邮箱均无往来；来源：调研建档）",
+      "type": "—",
+      "sieve": "—（未入筛）",
+      "stop": "Elsa 群发 BCC 触达过（最近 2026-09-01）无回；S/A 箱从未单独发过",
+      "revive": "不动（Q-33 供应商渠道客户）",
+      "lane": "PL 次级重点",
+      "cadence": "不动",
+      "evidence": "gmail_digest：out 0；研究档 risks：人数/营收；PLANET 货源（Action/AB/Eltrox 等波兰分销？）；采购决策人；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To j.zaczek@mbs-systems.pl）2025-04-03→2026-09-01 共 11 轮群发（L3 Managed Switch、Industrial PoE Switch、Commercial Network Switch、16 Port Ethernet Switch、8 Port Industrial PoE Switch、Mini Industrial PoE Switch、10G Enterprise SFP Switch、OEM Core Switching Solution、Updated Ethernet Switches Links、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断"
+    },
+    "situation": "琴斯托霍瓦的安防系统分销商（SATEL 授权），网店 + B2B 批发计划，PLANET 为 CCTV 网络配套。类型：安防分销商/电商（1994 年起电子安防系统分销：CCTV、报警、对讲/可视对讲、门禁、消防/排烟、门控自动化、智能家居；SATEL 授权分销；B2B 安装商与批发合作计划）。信号：fonex.pl PLANET 商品在售：GSD-2022P（16 PoE+ + 2 RJ45 + 2 SFP，871 zł，免运费、「Przewidywana dostawa: we wtorek」现货）、WGS-4215-8P2S（「Switch PoE przemysłowy」类目，8 PoE+ 2 SFP 工业壁挂管理型）；类目路径 Telewizja przemysłowa › Elementy sieci LAN/WAN › Switch › Switch PoE。Planet 渠",
+    "need": "其在售 WGS-4215-8P2S（8 PoE+ 2 SFP 工业管理型）直接对位；CCTV 户外/机柜场景；分销商 → 20%（沿用 Planet 档案 PB-057）；需求：",
+    "breakpoint": "人数/营收；PLANET 货源（Action/AB/Eltrox 等波兰分销？）；采购决策人",
+    "saga_now": {
+      "p1": "STI-288DGGPM",
+      "tier": 20,
+      "price": "按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-09-01 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-01；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
+      "why": "其在售 WGS-4215-8P2S（8 PoE+ 2 SFP 工业管理型）直接对位；CCTV 户外/机柜场景；分销商 → 20%（沿用 Planet 档案 PB-057）；需求：",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "不动",
+      "channel": "—",
+      "action": "—",
+      "one_question": ""
+    },
+    "facts": [
+      {
+        "date": "2025-04-03",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To j.zaczek@mbs-systems.pl，PL-2 批次）",
+        "quote": "L3 Managed Switch — This is a Marvell-based L3 Managed 24 port DIN PoE Switch. 1, PoE af/at/bt, 370W budget, max 60℃ 2, Support DI/DO/RS485, USB, Alarm 3, Customizable We",
+        "why": "Elsa 箱群发 BCC 触达证据（命中地址 fonex.pl, sklep@fonex.pl）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+        "k": "elsa_bcc"
+      },
+      {
+        "date": "2026-09-01",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To j.zaczek@mbs-systems.pl，PL-2 批次）",
+        "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
+        "why": "Elsa 箱群发 BCC 触达证据（命中地址 fonex.pl, sklep@fonex.pl）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+        "k": "elsa_bcc"
+      }
+    ],
+    "proof_gaps": [
+      "无邮件往来"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-25"
   }
- ],
- "kp": [],
- "grade_override": "C",
- "override_reason": "集团品牌商（Legrand 旗下 Raritan，PDU/KVM），非渠道客户；c_sub=厂商/集团品牌（非渠道）",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "美国",
-  "other": "官网 raritan.com，语言 en，快照状态 ok；角色判定来源：官网文案"
- },
- "business_lines": [
-  "PDU / DCIM / KVM-over-IP"
- ],
- "channels": {
-  "role": "数据中心电源与 KVM 品牌（Legrand 集团）",
-  "region": "美国",
-  "contact": "sales@raritan.com"
- },
- "signals": [
-  "官网：Raritan is a leading provider of power management solutions, DCIM software, and KVM-over-IP for data centers"
- ],
- "risks": [
-  "Legrand 集团旗下品牌：集团采购体系，非渠道客户",
-  "产品为 PDU / DCIM / KVM，与交换机无关；20 次无回复"
- ],
- "saga_fit": {
-  "p1": null,
-  "tier": 25,
-  "why": "Legrand 集团品牌商，产品为 PDU / KVM，不采购白牌交换机 → 改 C"
- },
- "email_hook": "（不发送：集团品牌商）"
 }

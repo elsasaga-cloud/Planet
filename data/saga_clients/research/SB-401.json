@@ -1,146 +1,149 @@
 {
-  "code": "SB-401",
-  "name_official": "",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（helmholz.de，快照 2026-10-21）",
-  "summary": "德国 Helmholz GmbH & Co. KG（PROFINET 与工业网络专家：自有品牌 PROFINET 交换机 / 网关 / 远程维护；表内「自己的牌子，质量高」；KP Carsten Bokholt（Managing Director，carsten.bokholt@））；群发 8 次无回复。",
-  "type": "德国工业网络品牌商（PROFINET，自有品牌）",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "官网标题：Home；品类词 工业自动化 / OT 网络 / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
-      "quote": "Helmholz – Ihr Experte für PROFINET und industrielle Netzwerke；Produktnews；Success Stories；Aktuelle Angebote；Jetzt Newsletter abonnieren!",
-      "url": "https://www.helmholz.de/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "自己的牌子",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网快照",
-      "claim": "PROFINET 与工业网络专家",
-      "quote": "Helmholz – Ihr Experte für PROFINET und industrielle Netzwerke ; Produktnews ; Success Stories",
-      "url": "https://www.helmholz.de/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "自有品牌，质量高",
-      "quote": "自己的牌子；质量高",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Carsten Bokholt",
-      "title": "Managing Director",
-      "email": "carsten.bokholt@helmholz.de",
-      "phone": "",
-      "source": "用户表"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ "code": "SB-401",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（securasound.co.uk，快照 2026-10-21）",
+ "summary": "英国 Securasound Ltd（面向安装商的 CCTV、门禁、门口对讲（2 线「Soul」套件）分销商，医疗/教育/住宅板块；表内「主要是 CCTV 类产品，有商业 PoE ONV 的」「可以多跟进一下」；KP Jason Wainwright（CEO））；群发 16 次无回复。",
+ "type": "安防分销商（英国，PoE 现 ONV）",
+ "size": "",
+ "brands_seen": [
+  "ONV"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Welcome to Securasound | Securasound Limited；品类词 安防监控（CCTV / 门禁） / 无线 / WiFi / 网络交换 / PoE",
+   "quote": "Securasound Ltd；Deal of The Week；“Soul” video kit 2-wire technology, 7\" Handsfree Monitor；Sectors；Healthcare；Education",
+   "url": "https://securasound.co.uk/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "hq": "德国",
-    "other": "官网 helmholz.de，语言 de-DE，快照状态 ok；角色判定来源：用户表"
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "主要是CCTV类产品 有商业PoE ONV的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "PROFINET 交换机 / 网关 / 远程维护（自有品牌）"
-  ],
-  "channels": {
-    "role": "德国工业网络品牌商（PROFINET，自有品牌）",
-    "region": "德国",
-    "contact": "info@helmholz.de、carsten.bokholt@helmholz.de"
+  {
+   "kind": "官网快照",
+   "claim": "Securasound 定位",
+   "quote": "Welcome to Securasound | Securasound Limited ; “Soul” video kit 2-wire technology ; Sectors ; Healthcare ; Education ; Domestic",
+   "url": "https://securasound.co.uk/",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "官网：Helmholz – Ihr Experte für PROFINET und industrielle Netzwerke",
-    "站内 kw：switch 195 / ethernet 103 / industrial 31",
-    "KP：Carsten Bokholt / Managing Director（表内）"
-  ],
-  "risks": [
-    "德国品牌「质量高」定位：外采中国白牌意愿低；只谈入门非管理位",
-    "PROFINET 一致性认证：管理型需 SmartByte 确认（Saga 现无 PROFINET 声明）",
-    "群发 8 次无回复：改向 MD 具名首触"
-  ],
-  "saga_fit": {
-    "p1": "STI-280GE",
-    "tier": 30,
-    "why": "PROFINET 场景非 PoE 为主 → 工业非管理 8 GE + 2 SFP STI-280GE（$50.5 @30%）/ 全电 STI-080GE（$34.0）作入门位贴 Helmholz 标；管理型需 PROFINET 一致性（Saga 待核）"
-  },
-  "email_hook": "Carsten, for the entry unmanaged switches below your PROFINET-managed line, we build DIN-rail 8-port gigabit (and 8 + 2 SFP) industrial unmanaged units under your label from small lots, −40~75 °C, CE/RoHS — would an entry unmanaged tier sourced externally fit your range?",
-  "mail_review": {
-    "binding": {
-      "level": "读而不回（A/S 邮箱 22 封 2024→2026，其中 3 封被打开，0 回；收件 carsten.bokholt@helmholz.de, info@helmholz.de；被打开主题「10G Enterprise SFP Switch、16 Port Ethernet Switch」）；Elsa 1:1 去信 1 封（2025-02-19「Industrial PoE Switch」；To 仅本户 info@helmholz.de；Bcc 未逐封读头；同类名单抽读 24 封均无 Bcc；此后再未进 Elsa 任何名单——全箱 `from:e.sagatelecom to:info@helmholz.de` 仅此 1 条，complete）（第 74 批(m)）",
-      "type": "德国工业网络品牌商（PROFINET，自有品牌）",
-      "sieve": "2（有人在读，无人回）",
-      "stop": "读而不回 = 内容未命中或没有当下需求",
-      "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
-      "lane": "DE 主攻（四主）",
-      "cadence": "一封；回了再说",
-      "evidence": "gmail_digest：out 22，Opened 标签 3（Simon 群发追踪）；用户表：「自己的牌子」；研究档 risks：德国品牌「质量高」定位：外采中国白牌意愿低；只谈入门非管理位；data/gmail_e/elsa_sent_tld_probe_2026-10-25.json（国别后缀探测，该国 Elsa 触达全集 complete:true）"
-    },
-    "situation": "德国 Helmholz GmbH & Co. KG（PROFINET 与工业网络专家：自有品牌 PROFINET 交换机 / 网关 / 远程维护；表内「自己的牌子，质量高」；KP Carsten Bokholt（Managing Director，carsten.bokholt@））；群发 8 次无回复。",
-    "need": "PROFINET 场景非 PoE 为主 → 工业非管理 8 GE + 2 SFP STI-280GE（$50.5 @30%）/ 全电 STI-080GE（$34.0）作入门位贴 Helmholz 标；管理型需 PROFINET 一致性（Saga 待核）",
-    "breakpoint": "德国品牌「质量高」定位：外采中国白牌意愿低；只谈入门非管理位",
-    "saga_now": {
-      "p1": "STI-280GE",
-      "tier": 30,
-      "price": "首触锚价 STI-280GE $46 EXW（Saga 2025 Realtek 工业线对外价 $46（非管理工业线不用档位价 ㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-08-14 $65（10G Media Converter）、2025-05-02 $300（48 Port PoE Managed Switch）、2025-09-22 $280（10G Enterprise SFP Switch）",
-      "why": "PROFINET 场景非 PoE 为主 → 工业非管理 8 GE + 2 SFP STI-280GE（$50.5 @30%）/ 全电 STI-080GE（$34.0）作入门位贴 Helmholz 标；管理型需 PROFINET 一致性（Saga 待核）。已打开的主题（3/22 封有打开记录）：「10G media converter」(2024-08-14)、「Power Booster」(2024-09-09)、「10G Ethernet Web Managed Switch」(2024-11-14) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-03-09)、Saga Feature List_7.5.x_L2+(2026-07-07)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "2026-11",
-      "channel": "A 邮箱 → carsten.bokholt@helmholz.de",
-      "action": "首封前知悉：Elsa 2025-02 已 1:1 发过「Industrial PoE Switch」给 info@helmholz.de（0 回），开头按 ㉝ 带一句「we wrote once in Feb 2025 about X, no reason you'd have replied」，别当完全陌生。 短信一问（email_hook）",
-      "one_question": "Carsten, for the entry unmanaged switches below your PROFINET-managed line, we build DIN-rail 8-port gigabit (and 8 + 2 SFP) industrial unmanaged units under your label from small lots, −40~75 °C, CE/RoHS — would an entry unmanaged tier sourced externally fit your range? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity)."
-    },
-    "facts": [
-      {
-        "date": "2025-02-19",
-        "dir": "去",
-        "who": "Elsa 1:1 去信（To info@helmholz.de）",
-        "quote": "Industrial PoE Switch — Marvell based industrial PoE, 2×GE SFP + 4×GE PoE, 120W, watchdog, 250 m, DIP（稿内无价，第 74 批(p) 已读稿）",
-        "why": "Elsa 箱 in:sent 按国别后缀探测（to:.de/.uk/.pl/.cz）命中：2025-02 Elsa 开箱头两周的逐户单发，无称呼；Elsa Replied 线程 0、来询未回清单 0 → 0 回；S/A digest 看不到这封",
-        "k": "elsa_1to1",
-        "msg_id": "1951d1d15408dab6"
-      },
-      {
-        "date": "2026-09-23",
-        "dir": "去",
-        "who": "A/S 群发",
-        "quote": "10G Enterprise SFP Switch、16 Port Ethernet Switch",
-        "why": "22 封 / 3 次打开 / 0 回｜首封 2024-07-03 → 末封 2026-09-23（22 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "自己的牌子",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": {
-      "subject": "One question — 10G Enterprise SFP Switch",
-      "body": "Hi Carsten,\n\nWe have sent you a few mails on \"10G Enterprise SFP Switch\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor the entry unmanaged switches below your PROFINET-managed line, we build DIN-rail 8-port gigabit (and 8 + 2 SFP) industrial unmanaged units under your label from small lots, −40~75 °C, CE/RoHS — would an entry unmanaged tier sourced externally fit your range?\n\nReference price: DIN-rail 8-GE + 2 SFP unmanaged industrial switch (STI-280GE) $46 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
-    },
-    "as_of": "2026-10-25"
+  {
+   "kind": "用户表",
+   "claim": "商业 PoE ONV 的",
+   "quote": "主要是CCTV类产品 有商业PoE ONV的；可以多跟进一下",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Jason Wainwright",
+   "title": "CEO",
+   "email": "jason@securasound.co.uk",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "英国",
+  "other": "官网 securasound.co.uk，语言 en，快照状态 ok；角色判定来源：用户表"
+ },
+ "business_lines": [
+  "CCTV / 门禁 / 门口对讲分销（英国）"
+ ],
+ "channels": {
+  "role": "安防分销商（英国，PoE 现 ONV）",
+  "region": "英国",
+  "contact": "info@securasound.co.uk、jason@securasound.co.uk"
+ },
+ "signals": [
+  "官网：Welcome to Securasound | Securasound Limited ; Deal of The Week ; “Soul” video kit 2-wire technology ; Sectors ; Healthcare ; Education ; Domestic；kw installer 8 / access control 7",
+  "表内：主要是 CCTV 类产品 有商业 PoE ONV 的；KP Jason Wainwright / CEO；可以多跟进一下"
+ ],
+ "risks": [
+  "现供 ONV（价格基准低）；16 次无回复 → 改向 CEO 具名首触"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 20,
+  "why": "CCTV 配套 PoE（现 ONV）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）；非管理 4/8 PoE 位 HRUI（列表价，注明）"
+ },
+ "email_hook": "Jason, alongside the ONV PoE switches you stock for installers, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches from small lots, CE/RoHS/UKCA, EXW USD — which PoE port count do your installer customers order most with CCTV kits?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（2 封自动回复；Elsa 箱：`to:.uk` 穷举 34 条（2026-10-25，锚批 Bcc 头已读）未见 securasound.co.uk → Elsa 箱从未发过本户，往来只在 S/A 箱（去 26 / 来 2）（第 74 批(f)））",
+   "type": "英国安防分销（PoE 现 ONV）",
+   "sieve": "0",
+   "stop": "自动回复/机器人，无人工回复",
+   "revive": "不动",
+   "lane": "UK",
+   "cadence": "不动",
+   "evidence": "k=c899d22bff81b409 / ce7192e0322a174b"
+  },
+  "situation": "来信全部为机器回复；无人读信或无人回信。",
+  "need": "—",
+  "breakpoint": "—",
+  "saga_now": {
+   "p1": "—",
+   "tier": 20,
+   "price": "—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-11 $220（48 port managed switch）、2024-08-09 $65（10G media converter）；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-01-29 $240（24 Port Fiber Switch）、2025-09-26 $280（10G Enterprise SFP Switch）",
+   "why": "—",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—（第 76 批(c) 2026-10-25：0 事实户补时间线事实）",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2024-07-11",
+    "dir": "去",
+    "who": "S 箱（Simon）",
+    "quote": "48 port managed switch",
+    "why": "首封去信（邮箱索引；去信共 26 封）",
+    "k": "5e1a1e2bbaf7f062"
+   },
+   {
+    "date": "2026-08-14",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "24 Port PoE Managed Switch",
+    "why": "最近一封去信（邮箱索引；去信共 26 封）",
+    "k": "074d336ab7855dba"
+   },
+   {
+    "date": "2023-12-25",
+    "dir": "来",
+    "who": "info@securasound.co.uk",
+    "quote": "Automatic reply: Din Power Supply｜Our Offices are now closed and will reopen at 9am on Tuesday 2nd January 2024 – Any orders placed will not be dispatched",
+    "why": "自动回复/退信（机器，不算人工回复）",
+    "k": "c899d22bff81b409"
+   },
+   {
+    "date": "2024-05-14",
+    "dir": "来",
+    "who": "info@securasound.co.uk",
+    "quote": "Automatic reply: Industrial poe switch｜If you have sent us images of a product to identify we will generally respond to you within 1 working day. Please check ",
+    "why": "自动回复/退信（机器，不算人工回复）",
+    "k": "ce7192e0322a174b"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

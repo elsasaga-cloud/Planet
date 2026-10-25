@@ -1,322 +1,496 @@
-# SB-238 sisav.it · home · https://www.sisav.it/ · fetched 2026-10-25T07:41:18Z · HTTP 200
-Homepage - SisAv
-Prodotti
-Controllo e computer
-PC industriali
-PC embedded
-PC rugged
-Panel PC industriali
-Panel PC rugged
-PLC
-Vedi tutto
-Visualizzazione & HMI
-Pannelli operatore
-Terminali veicolari
-Monitor industriali
-Monitor rugged
-Tablet industriali
-Tablet rugged
-Tastiere industriali
-Vedi tutto
-DAQ (Sistemi di Acquisizione Dati)
-Condizionatori di segnale
-Datalogger
-Vedi tutto
-Schede e moduli
-Moduli I/O
-Schede I/O
-Schede madre industriali
-Schede PCI
-Schede PCI/104
-Schede PCIe/104
-Schede PCI 104 express
-Computer On Module
-Schede Acquisizione Dati
-Carrier Board
-Convertitori DC/DC
-Vedi tutto
-Networking e infrastruttura
-Switch industriali
-Switch rugged
-PC rack
-Chassis industriali
-Firewall industriali
-Router industriali
-Convertitori seriali
-Media converter industriali
-Bridge ethernet
-Vedi tutto
-Azienda
-Mercati
-Industria
-Difesa
-Medicale
-Tutti i mercati
-Servizi
-Chi siamo
-Partnership
-Casi Applicativi
-Magazine
-News ed Eventi
-Approfondimenti
-Brand
-Tutti i Brand
-ACCES I/O
-ADSTec
-AMP
-Aicsys
-Aplex
-Darveen
-Dataforth
-DIAMOND SYSTEMS
-DT Research
-DURABOOK
-ELGENS
-Hystou
-ICPDAS
-iKey
-Inputel
-MPL
-MSR
-Portwell
-RTD
-SISAV
-UEI
-Wincomm
-vedi tutti
-Contatti
+# SB-238 digimax.it · home · https://www.digimax.it/it · fetched 2026-10-25T07:41:18Z · HTTP 200
+Digimax | Alimentatori industriali, driver led, strip led, pc industriali e display
 Contattaci
 RMA
-Prodotti
-Controllo e computer
-PC industriali
-PC embedded
-PC rugged
-Panel PC industriali
-Panel PC rugged
-PLC
-Vedi tutto
-Visualizzazione & HMI
-Pannelli operatore
-Terminali veicolari
-Monitor industriali
-Monitor rugged
-Tablet industriali
-Tablet rugged
-Tastiere industriali
-Vedi tutto
-DAQ (Sistemi di Acquisizione Dati)
-Condizionatori di segnale
-Datalogger
-Vedi tutto
-Schede e moduli
-Moduli I/O
-Schede I/O
-Schede madre industriali
-Schede PCI
-Schede PCI/104
-Schede PCIe/104
-Schede PCI 104 express
-Computer On Module
-Schede Acquisizione Dati
-Carrier Board
-Convertitori DC/DC
-Vedi tutto
-Networking e infrastruttura
-Switch industriali
-Switch rugged
-PC rack
-Chassis industriali
-Firewall industriali
-Router industriali
-Convertitori seriali
-Media converter industriali
-Bridge ethernet
-Vedi tutto
-Azienda
-Mercati
-Industria
-Difesa
-Medicale
-Tutti i mercati
-Servizi
-Chi siamo
-Partnership
-Casi Applicativi
-Magazine
-News ed Eventi
-Approfondimenti
-Brand
-Tutti i Brand
-ACCES I/O
-ADSTec
-AMP
-Aicsys
-Aplex
-Darveen
-Dataforth
-DIAMOND SYSTEMS
-DT Research
-DURABOOK
-ELGENS
-Hystou
-ICPDAS
-iKey
-Inputel
-MPL
-MSR
-Portwell
-RTD
-SISAV
-UEI
-Wincomm
-vedi tutti
-Contatti
+window.location.href = $event.target.value">
+IT
+EN
 Contattaci
 RMA
-Technology together
-SisAv - SISTEMI AVANZATI ELETTRONICI
-Progettiamo e integriamo architetture, infrastrutture e componenti elettronici intelligenti che raccolgono, elaborano e connettono informazioni per rendere prodotti e processi più efﬁcienti, precisi e ad alto impatto.
-Forniamo i migliori prodotti per l’automazione industriale e di processo.
-Trasformiamo le complessità tecnologiche in sistemi, componenti e architetture elettroniche capaci di garantire sicurezza, affidabilità, precisione e continuità operativa lungo tutta la catena dell’automazione: dall’acquisizione all’elaborazione, fino alla visualizzazione e trasmissione dei dati.
-Scopri il catalogo dei nostri prodotti
-Controllo
-& computer
-Visualizzazione
-& hmi
-daq -
-acquisizione dati
-Schede
-& moduli
-networking &
-infrastruttura
-controllo & computer
-visualizzazione & hmi
-DAQ - acquisizione dati
-Schede e moduli
-networking & infrastruttura
-Il tuo mercato è il nostro mercato
-Da oltre 25 anni affianchiamo aziende, organizzazioni e istituzioni nella fornitura di hardware e apparecchiature elettroniche. Con il nostro lavoro, le aiutiamo a migliorare i loro processi e la qualità del loro lavoro attraverso la tecnologia, trasformando le complessità in architetture capaci di garantire precisione, performance, sicurezza e valore.
-Ci occupiamo di soluzioni, sistemi e componenti a elevato contenuto tecnologico per tre macro settori del mercato italiano: industria, difesa, sanità, con una forte spinta verso l’integrazione di sistemi.
-Scopri i mercati
-Processi più efficienti, soluzioni performanti e servizi custom ad alto valore aggiunto.
-Processi controllati, elevate prestazioni, maggiore sicurezza e controllo, reperibilità nel tempo
-Migliore precisione diagnostica, migliori processi nei trattamenti, digitalizzazione
-Siamo un ecosistema integrato che guarda al futuro
-Non siamo solo un partner tecnologico e nemmeno solo un fornitore. Siamo un partner sistemico. Questo significa essere a fianco di aziende che progettano, producono e innovano in contesti complessi e sfidanti. Sono realtà con necessità specifiche che hanno bisogno di affidabilità, di ascolto e di essere capite.
-Essere un ecosistema integrato significa saper unire tecnologia, processi e competenze, coniugare metodo e responsabilità, mettere insieme la componente tecnologica e umana.
-Competenza tecnica specializzata e cura della relazione umana è ciò in cui crediamo e ciò che ci identifica. Dentro SisAv ci sono persone che ogni giorno collaborano, si confrontano e soprattutto fanno squadra.
-Le squadre sono fatte di persone.
-incontra il team
-Ascolto, analisi, progettazione, creazione, supporto
-Il nostro è un ecosistema integrato di servizi. Uniamo know-how, esperienze e competenze per gestire ogni progetto con cura e attenzione.
-E lo facciamo a modo nostro: ascoltiamo e analizziamo, poi creiamo, dando tutto il supporto necessario, nel prima, durante e dopo. Proponiamo soluzioni, sistemi e architetture affidabili e stabili nel tempo. La nostra garanzia siamo noi: un team che ci mette la faccia e che è disponibile in ogni fase del processo.
-Scopri come supportiamo chi ci sceglie.
-scopri i nostri servizi
-Dall’idea al progetto: non solo forniture, ma asset strategici
-Progettiamo, creiamo e distribuiamo soluzioni tecnologiche per dare vita alle idee e ai progetti dei nostri clienti nei mercati dell’industria, della difesa e del medicale.
-Affianchiamo aziende e organizzazioni lungo tutto il processo: in ogni fase accompagniamo i nostri clienti per decidere e per realizzare quello che serve davvero. Partiamo dall’ascolto e dall’analisi e arriviamo a creare sistemi e architetture capaci di rispondere alle vere necessità.
-Le sfide più complesse non ci spaventano: sappiamo progettare e costruire soluzioni anche da zero, grazie al nostro team di ingegneri.
-Integriamo sistemi. Abilitiamo l’ingegno.
-Scopri le nostre storie di successo.
-Industria
-Monitoraggio microclima al museo di Zurigo
-I sistemi di monitoraggio adottati dal Museo Nazionale di Zurigo
-Al Museo Nazionale di Zurigo da circa...
-leggi di più
-Alimentare
-A fianco delle aziende che operano nel packaging alimentare – IL CASO ENNEGI SRL
-Ennegi Srl è un’azienda specializzata nella progettazione e produzione di macchinari per il packaging...
-leggi di più
-Alimentare
-Postazioni a rischio contaminazione
-Vercelli SPA è uno dei principali gruppi alimentari italiani e una delle più moderne industrie a livello...
-leggi di più
-No posts found
-scopri di più
-Il progresso non nasce dalle macchine, ma da chi le immagina.
-Progettiamo insieme
-scrivici
-Il nostro magazine
-Scopri le ultime novità e tutti i nostri approfondimenti.
-PLC: cos’è e come funziona il controllore logico programmabile
-Nel mondo dell’automazione industriale, l’efficienza e la precisione dei processi produttivi dipendono...
-leggi di più
-Qual è l'hardware più adatto per il tuo nuovo progetto?
-Nell’ambito dell’automazione industriale, le soluzioni informatiche svolgono un ruolo cruciale...
-leggi di più
-Intel Embedded: il segmento di processori per l'industria
-I computer utilizzati in ambito industriale sono destinati ad eseguire una o più applicazioni specifiche,...
-leggi di più
-Gradi di protezione IP: cosa sono e perché sono importanti
-Chiunque si sia occupato di apparati dedicati all’industria, in particolare per i settori più difficili...
-leggi di più
-No posts found
-vai a tutti gli approfondimenti
-Produttori
-Portwell
-DIAMOND SYSTEMS
-ICPDAS
-RTD
-ACCES I/O
-SISAV
-iKey
-Darveen
-MPL
-ELGENS
-DT Research
-DURABOOK
-La nostra newsletter
-Non perderti le novità!
-Iscriviti alla nostra newsletter
-E-MAIL
-Privacy
-Confermo di aver preso visione dell’informativa privacy e acconsento al trattamento dei dati personali ai sensi dell'art. 13 del D.Lgs. 196/2003 e dell'art. 13 del Regolamento UE 679/2016 per ricevere risposta alla presente richiesta di contatto.
-INVIO
-Controllo
-& computer
-PC Industriali
-PC Rugged
-Panel PC
-Vedi tutti
-Visualizzazione
-& HMI
-Monitor industriali
-Tablet industriali
-Tastiere industriali
-Vedi tutti
-Schede
-& moduli
-Motherboard industriali
-Single Board Computer
-Schede I/O
-Vedi tutti
-Networking
-& infrastruttura
-Switch Industriali
-Switch Rugged
-PC Rack
-Vedi tutti
-DAQ -
-Acquisizione dati
-Datalogger
-Condizionatori di segnale
-Schede Acquisizione Dati
-Vedi tutti
-SisAv Sistemi Avanzati Elettronici S.r.l.
-Via Marconi 11 D, 13836 Cossato (BI) +39 015 983206 – info@sisav.it
-P.IVA e C.F.: 01925460022 – SDI: 1N74KED
-CCIAA 01925460022 – REA BI 174039 – PEC: sisavpec@pec.sisav.it
-Via Marconi 11 D, 13836 Cossato (BI)
-+39 015 983206 – info@sisav.it
-P.IVA e C.F.: 01925460022 – SDI: 1N74KED
-CCIAA 01925460022 – REA BI 174039
-PEC: sisavpec@pec.sisav.it
-industria
-difesa
-2026© Tutti i diritti riservati
-Cookie Policy
-Privacy Policy
+window.location.href = $event.target.value">
+IT
+EN
+INDUSTRIA & AUTOMAZIONE
+ALIMENTATORI INDUSTRIALI
+Tutti i ALIMENTATORI INDUSTRIALI
+ALIMENTATORI ENCLOSED
+ALIMENTAZIONE BARRA DIN
+ALIMENTATORI OPEN FRAME
+ADATTATORI
+CARICABATTERIE E BATTERIE
+INVERTER
+RACK POWER
+DC/DC CONVERTER
+ALIMENTATORI PC INDUSTRIALI
+ACCESSORI DI ALIMENTAZIONE
+UPS
+ALIMENTATORI INDUSTRIALI
+INDUSTRIAL PC
+Tutti i INDUSTRIAL PC
+EMBEDDED PC
+EMBEDDED SBC
+EMBEDDED SOM
+INDUSTRIAL MOTHERBOARD
+INDUSTRIAL CHASSIS
+INDUSTRIAL MONITOR
+PANEL PC
+RUGGED TABLET
+DATA ACQUISITION MODULE
+SERVER PC
+INDUSTRIAL PC
+DISPLAY
+Tutti i DISPLAY
+DISPLAY TFT LCD
+TOUCH SCREEN
+MONITORS PROFESSIONALI
+DISPLAY LCD
+DISPLAY OLED
+SMART DISPLAY
+DISPLAY
+NETWORKING & COMPONENTS
+Tutti i NETWORKING & COMPONENTS
+INDUSTRIAL ETHERNET
+SENSORI
+MACHINE VISION
+NETWORKING & COMPONENTS
+Le nostre industries
+Vending
+Logistica Avanzata
+Medicale
+Trasporti
+Le nostre competenze al tuo servizio
+Servizi per l'industria e l'automazione
+INDUSTRIA & AUTOMAZIONE
+ALIMENTATORI INDUSTRIALI
+Tutti i ALIMENTATORI INDUSTRIALI
+ALIMENTATORI ENCLOSED
+ALIMENTAZIONE BARRA DIN
+ALIMENTATORI OPEN FRAME
+ADATTATORI
+CARICABATTERIE E BATTERIE
+INVERTER
+RACK POWER
+DC/DC CONVERTER
+ALIMENTATORI PC INDUSTRIALI
+ACCESSORI DI ALIMENTAZIONE
+UPS
+ALIMENTATORI INDUSTRIALI
+INDUSTRIAL PC
+Tutti i INDUSTRIAL PC
+EMBEDDED PC
+EMBEDDED SBC
+EMBEDDED SOM
+INDUSTRIAL MOTHERBOARD
+INDUSTRIAL CHASSIS
+INDUSTRIAL MONITOR
+PANEL PC
+RUGGED TABLET
+DATA ACQUISITION MODULE
+SERVER PC
+INDUSTRIAL PC
+DISPLAY
+Tutti i DISPLAY
+DISPLAY TFT LCD
+TOUCH SCREEN
+MONITORS PROFESSIONALI
+DISPLAY LCD
+DISPLAY OLED
+SMART DISPLAY
+DISPLAY
+NETWORKING & COMPONENTS
+Tutti i NETWORKING & COMPONENTS
+INDUSTRIAL ETHERNET
+SENSORI
+MACHINE VISION
+NETWORKING & COMPONENTS
+ALIMENTATORI INDUSTRIALI
+Tutti i ALIMENTATORI INDUSTRIALI
+ALIMENTATORI ENCLOSED
+ALIMENTAZIONE BARRA DIN
+ALIMENTATORI OPEN FRAME
+ADATTATORI
+CARICABATTERIE E BATTERIE
+INVERTER
+RACK POWER
+DC/DC CONVERTER
+ALIMENTATORI PC INDUSTRIALI
+ACCESSORI DI ALIMENTAZIONE
+UPS
+INDUSTRIAL PC
+Tutti i INDUSTRIAL PC
+EMBEDDED PC
+EMBEDDED SBC
+EMBEDDED SOM
+INDUSTRIAL MOTHERBOARD
+INDUSTRIAL CHASSIS
+INDUSTRIAL MONITOR
+PANEL PC
+RUGGED TABLET
+DATA ACQUISITION MODULE
+SERVER PC
+DISPLAY
+Tutti i DISPLAY
+DISPLAY TFT LCD
+TOUCH SCREEN
+MONITORS PROFESSIONALI
+DISPLAY LCD
+DISPLAY OLED
+SMART DISPLAY
+NETWORKING & COMPONENTS
+Tutti i NETWORKING & COMPONENTS
+INDUSTRIAL ETHERNET
+SENSORI
+MACHINE VISION
+Le nostre industries
+Vending
+Logistica Avanzata
+Medicale
+Trasporti
+Le nostre competenze al tuo servizio
+Servizi per l'industria e l'automazione
+Illuminazione professionale
+SOLUZIONI LED
+Tutti i SOLUZIONI LED
+LED STRIP
+NEON STRIP
+COB LED
+OTTICHE
+DISSIPATORI LED
+TRACK LIGHT
+SOLUZIONI LED
+DIMMING CONTROL
+Tutti i DIMMING CONTROL
+DIMMER
+GATEWAY
+CONTROL DEVICES
+PIXEL TO PIXEL- SPI
+SENSORISTICA
+DIMMING CONTROL
+DRIVER LED
+Tutti i DRIVER LED
+DRIVER LED CORRENTE COSTANTE
+DRIVER LED TENSIONE COSTANTE
+DC/DC CONVERTER LED DRIVER
+DRIVER LED
+ACCESSORI LED
+Tutti i ACCESSORI LED
+CAVI E SURGE PROTECTOR
+ACCESSORI SOLUZIONI LED
+ACCESSORI LED
+Le nostre industries
+Illuminazione indoor
+Illuminazione outdoor
+Le nostre competenze al tuo servizio
+Servizi per l'Illuminazione
+Illuminazione professionale
+SOLUZIONI LED
+Tutti i SOLUZIONI LED
+LED STRIP
+NEON STRIP
+COB LED
+OTTICHE
+DISSIPATORI LED
+TRACK LIGHT
+SOLUZIONI LED
+DIMMING CONTROL
+Tutti i DIMMING CONTROL
+DIMMER
+GATEWAY
+CONTROL DEVICES
+PIXEL TO PIXEL- SPI
+SENSORISTICA
+DIMMING CONTROL
+DRIVER LED
+Tutti i DRIVER LED
+DRIVER LED CORRENTE COSTANTE
+DRIVER LED TENSIONE COSTANTE
+DC/DC CONVERTER LED DRIVER
+DRIVER LED
+ACCESSORI LED
+Tutti i ACCESSORI LED
+CAVI E SURGE PROTECTOR
+ACCESSORI SOLUZIONI LED
+ACCESSORI LED
+SOLUZIONI LED
+Tutti i SOLUZIONI LED
+LED STRIP
+NEON STRIP
+COB LED
+OTTICHE
+DISSIPATORI LED
+TRACK LIGHT
+DIMMING CONTROL
+Tutti i DIMMING CONTROL
+DIMMER
+GATEWAY
+CONTROL DEVICES
+PIXEL TO PIXEL- SPI
+SENSORISTICA
+DRIVER LED
+Tutti i DRIVER LED
+DRIVER LED CORRENTE COSTANTE
+DRIVER LED TENSIONE COSTANTE
+DC/DC CONVERTER LED DRIVER
+ACCESSORI LED
+Tutti i ACCESSORI LED
+CAVI E SURGE PROTECTOR
+ACCESSORI SOLUZIONI LED
+Le nostre industries
+Illuminazione indoor
+Illuminazione outdoor
+Le nostre competenze al tuo servizio
+Servizi per l'Illuminazione
+Brand
+Tutti i Brand
+MEAN WELL
+COLORS
+ADVANTECH
+SNAPPY
+EAGLERISE
+DALCNET
+AAEON
+IEI
+ORING
+AMPIRE
+ARCH
+CAMTEC
+CASAMBI
+CINCON
+CITIZEN
+COTO
+DWIN
+EDAC
+EFENTO
+DLC DISPLAY
+EVERPOWER
+FSP
+HG POWER
+IRAYPLE
+LEDIL
+LENSVECTOR
+LUMENRADIO
+MECHATRONIX
+P-DUKE TECHNOLOGY
+PHILIPS
+PNI SENSORS
+POWERGEAR
+PROTOPIXEL
+RAYSTAR
+ROCKTECH
+ROCKTOUCH
+SKYDANCE
+Smart Display - WINSTAR
+UPOWERTEK
+WINMATE
+YDS
+YES OPTOELECTRONICS
+ZETAQLAB
+Brand
+Risorse
+Blog
+Corsi
+Cataloghi E Brochure
+Tool di calcolo
+Risorse
+Scopri digimax
+Company Profile
+Impegno sulla sostenibilità
+Certificazioni
+People of Digimax
 Lavora con noi
-Qualità
-Cerca
+Soluzioni
+Scopri digimax
+INDUSTRIES
+Industria & Automazione
+Medicale
+Medicale/Biomedicale
+Computer, Monitor e Tablet Certificati per il Settore Medicale
+Alimentatori Medicali Certificati EN60601
+Estetico/Cosmetico
+Display Professionali per il Settore Clinico ed Estetico
+Alimentazione Professionale per Macchinari Estetici
+Pharma
+Sistemi Panel PC per i Produttori del Settore Farmaceutico
+Monitoraggio della Catena del Freddo nel Settore Pharma
+Settore Trasporti
+Navale/Marino
+Panel PC, embedded rugged box PC e Monitor per Applicazioni Navali
+Switch di Rete per Ambienti Marini e Navali
+Alimentatori Certificati DNV per la Nautica
+Veicolare / In-Vehicle
+Soluzioni Display e Smart Display In-Vehicle
+Computer e Panel PC per Installazione Veicolare
+PC Embedded per Applicazioni AI Bordo Mezzo
+Sistemi di Controllo e Joystick Veicolari
+Ferroviario
+Box-PC e Panel PC AI ready per il Ferroviario
+Switch Ethernet per Applicazioni Ferroviarie
+Convertitori DC/DC Certificati per Ferroviario
+Food & Beverage
+Food & Beverage Machines
+Panel PC Inox IP69K per il Settore Alimentare
+Telecamere ispezione per il Controllo Alimentare
+PC Rack per AI per il settore Alimentare
+Vending Machines
+Smart Display per l'Automazione Vending
+Automazione Industriale
+Sistemi di Alimentazione Professionale Industriale
+Sistemi di Illuminazione LED Industriale IP68
+Sistemi e Moduli per l'Acquisizione Dati
+Switch Ethernet Industriali per Barra DIN
+Machine Vision
+Computer Embedded per Visione Artificiale
+Telecamere Industriali per Ispezione e Controllo Qualità
+Packaging
+Sistemi di Lettura Barcode e QR Code per Packaging
+Schede Embedded per Automazione Packaging
+Robotics
+Tablet e Controller Industriali per la Robotica
+PC Embedded AI ready per Robotica
+Logistica Avanzata
+PC e schede Embedded per AGV, AMR e Logistica
+Computer di Bordo per Muletti e Forklift
+Soluzioni di Alimentazione per AGV e Robotica
+Tablet Rugged per Logistica e Magazzino: Efficienza e Resilienza Operativa
+Videocamere e Code Reader per AGV
+Power & Energy
+Energy & Utility
+Switch Ethernet per il Settore Energy & Utility
+Computer Industriali per Sottostazioni Energetiche
+Oil & Gas
+Box PC e Switch Ethernet Certificati ATEX
+Monitor e Panel PC HMI per Zone ATEX
+Household/WhiteGoods
+Vai a Household/WhiteGoods
+Smart Display per Elettrodomestici Industriali e Professionali
+Soluzioni di Alimentazione per Elettrodomestici e Smart Home
+Digital Signage
+Vai a Digital Signage
+Alimentazione Slim per Sistemi Digital Signage
+Monitor Professionali per Digital Signage e Chioschi Interattivi
+Building Automation
+Vai a Building Automation
+Moduli I/O per l'Automazione degli Ambienti Industriali
+Sensori Ambientali per Building Automation
+Sistemi di Alimentazione DIN RAIL per Building Automation
+Display e Interfacce Touch per Building Automation
+Smart City & Video Surveillance
+Vai a Smart City & Video Surveillance
+Schede Embedded AI per Traffic Monitoring e Smart City
+Switch e Access Point per Smart City
+PC embedded Nvidia Jetson AI-enabled per Smart City
+Difesa
+Vai a Difesa
+Sensori di posizionamento, navigazione e precisione per Droni
+Componenti di Alimentazione per il Settore Difesa
+Computer Embedded Rugged per applicazioni Mission Critical
+Panel PC, Monitor e Tablet MIL-STD per la Difesa
+Illuminazione Professionale
+Illuminazione Indoor
+Illuminazione Museale
+COB LED ad Alta Fedeltà Cromatica per Musei e Arte
+Ottiche e Intensità del Fascio Luminoso per l'Arte
+Strip LED ad Alta Resa per Musei e Gallerie
+Sistemi di Controllo e Dimmerazione per Musei
+Illuminazione Magazzini e Industria
+Illuminazione Neon LED per Ambienti Industriali
+Sistemi di Controllo Luce per Magazzini e Industria
+Sensori di Luce e Presenza per l'Efficienza Industriale
+Alimentatori Driver LED IP67 per l'Industria
+Illuminazione Hospitality
+Soluzioni LED per Saune, Piscine e Wellness
+Master DMX per Centri Wellness e Piscine
+Sistemi di Dimmerazione per Piscine e Saune
+Alimentatori e Driver LED nell'Hospitality
+COB LED Efficienti per l'Hospitality
+Controllo DALI, CASAMBI e Zigbee nell'Hospitality
+Strip e Neon LED per l'Illuminazione nell'Hospitality
+Sistemi di Dimmerazione per l'Hospitality
+Illuminazione Negozi Retail
+Soluzioni LED per Negozi, Retail e Showroom
+COB LED ad Alta Resa Cromatica per Negozi e Retail
+Driver LED Compatti per Sistemi a Binario
+Sensori di Luminosità e Presenza Wireless per il Retail
+Sistemi di Controllo Luce per Negozi e Showroom
+Illuminazione Uffici
+Illuminazione LED per Uffici e Studi Professionali
+Sensori di Luce Wireless per Uffici e Studi Professionali
+Alimentatori Driver LED per Uffici e Studi Professionali
+Dimmer Casambi, DALI e NFC per Uffici
+Illuminazione Arredamento
+Alimentatori LED per Mobili, Specchiere e Cucine
+Strip e Neon LED Free-Cutting per Arredamento
+Dimmer e Controlli Luce per Mobili e Cucine
+Illuminazione Ho.Re.Ca.
+Alimentatori per Banchi Frigo ed Espositori Frigoriferi
+Illuminazione LED per Banchi Frigo e Alimentari
+Illuminazione Outdoor
+Illuminazione Architetturale
+Strip LED RGB/RGBW IP67 per Facciate e Vialetti
+Alimentatori Outdoor: Driver LED per Esterni
+Sistemi di Controllo DMX per Facciate Esterne
+Master Lighting DMX per Scenografie Colorate
+Sistemi di Controllo Digitale pixel to pixel
+Illuminazione Paesaggistica
+Soluzioni LED per Giardini e Aree Calpestabili
+Alimentatori Driver LED IP67 per Esterni
+Sistemi di Controllo Luce per Giardini e Vialetti
+Sensori di Presenza e Luminosità per l'Automazione Giardini
+Illuminazione Nautica
+Soluzioni Lineari LED per Navi, Yacht e Nautica
+COB LED ad Alta Efficienza per Navi e Yacht
+Sistemi Master DMX per l'Illuminazione Nautica
+Sistemi Dimming per Navi e Yacht
+Alimentatori Driver LED per Settore Nautico
+Illuminazione Stradale
+Alimentatori Stradali con Standard ZHAGA
+Sistema di Controllo Wireless per l'Arredo Urbano
+Sistemi di Controllo Dimming per Arredo Urbano
+INDUSTRIES
+Industria & Automazione
+Illuminazione Professionale
+Medicale
+Settore Trasporti
+Food & Beverage
+Automazione Industriale
+Power & Energy
+Household/WhiteGoods
+Digital Signage
+Building Automation
+Smart City & Video Surveillance
+Difesa
+Illuminazione Indoor
+Illuminazione Outdoor
+open = false, 150)"
+@l4-close.window="open = false"
+:class="`flex justify-between items-center gap-3 ${open ? 'text-primary-500' : ''}`"
+>
+Medicale/Biomedicale
+open = false, 150)"
+@l4-close.window="open = false"
+:class="`flex justify-between items-center gap-3 ${open ? 'text-primary-500' : ''}`"
+>
+Estetico/Cosmetico
+open = false, 150)"
+@l4-close.window="open = false"
+:class="`flex justify-between items-center gap-3 ${open ? 'text-primary-500' : ''}`"
+>
+Pharma
+open = false, 150)"
+@l4-close.window="open = false"
+:class="`flex justify-between items-center gap-3 ${open ? 'text-primary-500' : ''}`"
+>
+Navale/Marino
+open = false, 150)"
+@l4-close.window="open = false"
+:class="`flex justify-between items-center gap-3 ${open ? 'text-primary-500' : ''}`"
+>
+Veicolare / In-Vehicle
+open = false, 150)"
+@l4-close.window="open = false"
+:class="`flex justify-between items-center gap-3 ${open ? 'text-primary-500' : ''}`"
+>
+Ferroviario
+open = false, 150)"
+@l4-close.window="open = false"
+:class="`flex

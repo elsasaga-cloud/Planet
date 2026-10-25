@@ -1,0 +1,148 @@
+# SB-611 avanis.de · news_2 · https://avanis.de/news/blog/welttag-der-patientensicherheit-2026 · fetched 2026-10-25T07:41:18Z · HTTP 200
+Welttag der Patientensicherheit 2026
+document.getElementById(forward)?.focus());
+return;
+}
+if(backward != '' && event.shiftKey) {
+event.preventDefault();
+$nextTick(() => document.getElementById(backward)?.focus());
+return;
+}
+},
+}" x-init="mobileDetection.detectMobile(), getLocation()" @mouseleave="dropdownOpen = null">
+English
+Service & Downloads
+Home
+this.currentPage.startsWith(page)) || this.currentPage.startsWith('/ueber-uns');
+}
+}" x-init="currentPageMatch()"
+x-bind:class="dropdownOpen === '1' ? 'border-b-2 border-avanis-red' : ''">
+Unternehmen
+this.currentPage.startsWith(page)) || this.currentPage.startsWith('/netzwerk');
+}
+}" x-init="currentPageMatch()"
+x-bind:class="dropdownOpen === '2' ? 'border-b-2 border-avanis-red' : ''">
+Netzwerk
+this.currentPage.startsWith(page)) || this.currentPage.startsWith('/wlan');
+}
+}" x-init="currentPageMatch()"
+x-bind:class="dropdownOpen === '3' ? 'border-b-2 border-avanis-red' : ''">
+WLAN
+this.currentPage.startsWith(page)) || this.currentPage.startsWith('/sicherheit');
+}
+}" x-init="currentPageMatch()"
+x-bind:class="dropdownOpen === '4' ? 'border-b-2 border-avanis-red' : ''">
+Sicherheit
+Academy
+Aktuelles
+Kontakt
+Shop
+Neu
+English
+Home
+this.currentPage.startsWith(page));
+}
+}" x-init="currentPageMatch()">
+Unternehmen
+Über Uns
+Team
+Karriere
+this.currentPage.startsWith(page));
+}
+}" x-init="currentPageMatch()">
+Netzwerk
+KTI Networks
+Edgecore
+Netsys
+SlimWire
+this.currentPage.startsWith(page));
+}
+}" x-init="currentPageMatch()">
+WLAN
+Ekahau
+Produkte
+Dienstleistungen
+Airista
+Branchen
+Produkte
+this.currentPage.startsWith(page));
+}
+}" x-init="currentPageMatch()">
+Sicherheit
+Fortinet
+Lancom
+Academy
+Aktuelles
+Kontakt
+Shop
+Neu
+Über Uns
+Erfahre mehr über unsere Mission
+Team
+Lerne unser Team kennen
+Karriere
+Werde Teil unseres Teams
+KTI Networks
+Medienkonverter, Switches und Industrial Ethernet
+Edgecore
+Netzwerkverteilung für Office und KMU
+Netsys
+VDSL2 - die Zweidrahtlösung
+SlimWire
+Das ultraflache Patchkabel
+Ekahau
+WLAN-Netzwerke richtig planen
+Produkte
+Dienstleistungen
+Airista
+Echtzeitortung von Personen und Objekten
+Branchen
+Produkte
+Fortinet
+Die High-End-Sicherheitslösung vom Weltmarktführer
+Lancom
+Das Sicherheitskonzept "made in Germany"
+Welttag der Patientensicherheit 2026: Wie RTLS-Technologie chronisch Kranke schützt und Pflegekräfte entlastet
+Von: Inga Müller | 16.09.2026
+*:nth-child(2)]:mt-2 [&>*:nth-child(2)]:clearfix">
+Am 17. September 2026 steht der globale Welttag der Patientensicherheit im Zeichen eines hochaktuellen Themas: „Sichere Versorgung chronisch erkrankter Menschen – für ein gutes Leben!“. Das Aktionsbündnis Patientensicherheit e. V. (APS) und die WHO rücken damit die kontinuierliche und fehlerfreie Behandlung von Menschen mit Langzeiterkrankungen (wie Demenz, Herz-Kreislauf-Erkrankungen oder Diabetes) in den Fokus.
+In einem zunehmend unter Personalmangel leidenden Gesundheitswesen steht die Praxis jedoch vor einer gewaltigen Herausforderung: Wie lässt sich diese lückenlose Sicherheit im Klinik- und Pflegealltag garantieren, ohne das Personal noch weiter zu belasten?
+Die Antwort liegt in der intelligenten Digitalisierung der Infrastruktur – konkret durch Echtzeit-Ortungssysteme, oder Real-Time Location Systems (RTLS).
+Das technologische Fundament: Maximale Flexibilität durch Wi-Fi und BLE
+Ein modernes Ortungssystem muss im Klinikalltag präzise, zuverlässig und vor allem wirtschaftlich sein. Das RTLS-Ökosystem von AiRISTA nutzt hierfür einen hybriden Ansatz, der das Beste aus zwei Welten verbindet:
+Nutzung des bestehenden Wi-Fi: Krankenhäuser müssen keine komplett neue Infrastruktur schaffen. Das System nutzt das bereits vorhandene Krankenhaus-WLAN, um Daten zentral zu verarbeiten und großflächige Ortungen vorzunehmen. Das spart erhebliche Installationskosten und beschleunigt die Inbetriebnahme.
+Zentimetergenaue Präzision mit BLE (Bluetooth Low Energy): Über kleine, kostengünstige und extrem energiesparende BLE-Beacons und -Sensoren wird das System dort ergänzt, wo es auf absolute Genauigkeit ankommt – zum Beispiel bei der raum- oder bettengenauen Ortung in verwinkelten Stationen. Die Batterielaufzeit der Patiententags und Armbänder verlängert sich dadurch enorm.
+Die unsichtbare Schutzwand: RTLS im Einsatz für chronisch Kranke
+Dank dieser starken Technologie-Kombination schafft AiRISTA eine digitale Sicherheitsumgebung, die Patienten schützt und Abläufe optimiert.
+1. Intelligenter Weglaufschutz bei Demenz und Desorientierung
+Viele chronische Erkrankungen im Alter gehen mit kognitiven Einschränkungen einher. Für Krankenhäuser und Pflegeeinrichtungen bedeutet dies ein erhöhtes Risiko für Desorientierung.
+Die RTLS-Lösung: Über diskrete, federleichte BLE-Armbänder schützt das System sturz- oder weglaufgefährdete Patienten (Wander-Management). Verlässt ein Patient einen definierten Schutzbereich, kommuniziert das Armband sofort mit der nächstgelegenen BLE-Bake. Der Alarm wird in Echtzeit über das Wi-Fi-Netzwerk an das Smartphone des Pflegepersonals gesendet – bevor es zu einer gefährlichen Situation kommt.
+2. Sekundenschnelle Hilfe durch ortsbezogene Notrufe
+Bei Patienten mit chronischen Herzleiden oder schweren Vorerkrankungen zählt im Notfall jede Sekunde.
+Die RTLS-Lösung: Sowohl Patienten als auch Pflegekräfte können über mobile Tags auf Knopfdruck einen Notruf absetzen. Die Kombination aus Wi-Fi und BLE übermittelt nicht nur den Alarm, sondern raumgenau den exakten Standort des Betroffenen. Das Suchgespräch entfällt, die Hilfe kommt ohne Zeitverlust an.
+3. Fehlerfreie Medizintechnik durch automatisiertes Asset Tracking
+Die sichere Versorgung chronisch Kranker hängt massiv von der Verfügbarkeit spezialisierter und fehlerfreier Medizintechnik (z. B. Infusionspumpen, mobile EKGs) aus.
+Die RTLS-Lösung: Durch das Krankenhaus-Asset-Tracking von AiRISTA wird jedes wichtige Gerät mit einem kleinen Tracker ausgestattet. Das Pflegepersonal weiß über die Software jederzeit, wo sich das benötigte Gerät befindet, ob es sterilisiert ist oder wann die nächste Wartung ansteht. Das verhindert Verwechslungen, verkürzt Suchzeiten und erhöht die Behandlungssicherheit spürbar.
+Fazit: Patientensicherheit im Jahr 2026 ist digital
+Der Welttag der Patientensicherheit erinnert uns daran, dass eine exzellente Versorgung chronisch kranker Menschen verlässliche Prozesse braucht. Technologie darf dabei den menschlichen Faktor nicht ersetzen, aber sie muss ihm den Rücken freihalten.
+Durch die clevere Verknüpfung von bereits vorhandenem Wi-Fi und hochpräzisem BLE verwandeln die Lösungen von AiRISTA Kliniken und Pflegeheime in vorausschauende Sicherheitszonen. Das Ergebnis: Weniger Stress für das Personal, maximale Sicherheit für die Patienten – für ein gutes und geschütztes Leben.
+Erfahren Sie mehr über AiRISTA: avanis.de/wlan/airista
+Folgen Sie uns auf Instagram und LinkedIn
+< WLAN: Unsichtbar, aber für die moderne IT-Infrastruktur in Unternehmen essentiell
+Kontakt
+Mo - Fr  - Uhr
+0521 26012 0
+info@avanis.de
+Anschrift
+Meisenstraße 79a
+33607 Bielefeld
+Impressum
+AGB
+Datenschutz
+Kontakt
+Newsletter
+Service & Downloads
+DIN ISO 9001 Zertifikat
+Google Rezensionen
+Danke nochmal an das Team. Hier wird noch Kundenservice gelebt. Kompetent, freundlich und lösungsorientiert, einfach klasse
+Rezension schreiben

@@ -1,107 +1,136 @@
 {
  "code": "SB-719",
- "name_official": "MyTec（mytec-iq.com，伊拉克）",
+ "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "域名不可达（my-tec.co / mytec-iq.com）",
- "summary": "伊拉克 IT 公司 MyTec（Mushtaq Al Takhakh），表内「有过详细产品交谈，处理公司产品」；WA 19 次无实质回复；域名失效。",
- "type": "",
+ "website_status": "在线（trioms.com，快照 2026-10-21）",
+ "summary": "新加坡 Trioms Technology（多品牌技术产品分销：JW Fishers 水下搜索、Kestrel 气象仪、Boltek 雷电探测；站内一款 10/100 工业 MC（AOA）；表内「AOA 的工业 MC 就这一款」）；群发 14 次无回复。",
+ "type": "仪器/技术产品分销商（新加坡，工业 MC 单品）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "AOA"
+ ],
  "evidence": [
   {
    "kind": "官网快照",
-   "claim": "my-tec.co 不可达",
-   "quote": "status unreachable",
-   "url": "http://my-tec.co/",
+   "claim": "官网标题：Trioms Technology - Technology Provider for Today and Tomorrow!；品类词 光纤 / 媒体转换",
+   "quote": "JW Fishers Underwater search products；Hand held wind and weather trackers from Kestrel Meters.；Boltek Lightening detectors Detect and Track Thunderstorms .；Brands；Our Brands；Featured products",
+   "url": "https://www.trioms.com/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "处理公司产品，有过详细产品交谈",
-   "quote": "兴趣：处理公司产品 有过详细产品交谈",
+   "claim": "表内兴趣/备注",
+   "quote": "AOA的工业MC 就这一款",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Trioms MC 页",
+   "quote": "trioms.com ; /product/10-100base-tx-to-100base-fx-industrial-media-converter/",
+   "url": "https://www.trioms.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "AOA 工业 MC 一款",
+   "quote": "AOA的工业MC 就这一款",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
- "kp": [
-  {
-   "name": "Mushtaq Al Takhakh",
-   "title": "（负责人）",
-   "email": "mushtaq@mytec-iq.com",
-   "phone": "+964 770 270 3008",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
-  }
- ],
+ "kp": [],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（快照不可达 + 表内）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "legal_name": "MyTec（待核）",
-  "founded": "",
-  "hq": "伊拉克",
-  "size": "小型",
-  "other": "域名失效；yahoo 备用"
+  "hq": "新加坡",
+  "other": "官网 trioms.com，语言 en，快照状态 ok；角色判定来源：官网文案"
  },
+ "business_lines": [
+  "仪器 / 技术产品分销（新加坡）"
+ ],
  "channels": {
-  "role": "IT 经销 / 工程（推断）",
-  "region": "伊拉克"
+  "role": "仪器/技术产品分销商（新加坡，工业 MC 单品）",
+  "region": "新加坡",
+  "contact": "sales@trioms.com"
  },
+ "signals": [
+  "官网：Trioms Technology - Technology Provider for Today and Tomorrow! ; JW Fishers Underwater search products ; Kestrel Meters ; Boltek；页面 /product/10-100base-tx-to-100base-fx-industrial-media-converter/",
+  "表内：AOA 的工业 MC 就这一款"
+ ],
  "risks": [
-  "域名失效；伊拉克付款（T/T 预付）"
+  "品类边缘（仪器分销，MC 仅一款）；非主攻区（T5，新加坡）；14 次无回复，仅 sales@"
  ],
  "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 25,
-  "why": "无明确口型；入门 8 PoE 管理机。"
+  "p1": "STI-110FE",
+  "tier": 20,
+  "why": "站内 10/100TX–100FX 工业 MC 位 → 工业百兆 MC STI-110FE（$19.7 @20%）、千兆 STI-110GE（$22.4）"
  },
- "email_hook": "（低优先；若再询再报）",
+ "email_hook": "For the industrial 10/100 media converter on your site, we supply neutral-brand DIN-rail Fast Ethernet and gigabit MCs (−40~75 °C, CE/RoHS) from single units, EXW USD — is the AOA unit still selling, and would a lower-priced equivalent fit your catalogue?",
  "mail_review": {
   "binding": {
-   "level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：处理公司产品 有过详细产品交谈」；Elsa 箱：`to:my-tec.co OR to:mytec-iq.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(n)））",
-   "type": "—",
-   "sieve": "—（未入筛）",
-   "stop": "从未触达",
-   "revive": "不动（非主攻区；J5：有证据再动）；WhatsApp 已加 → 唤醒走 WhatsApp 一句话，不走邮件",
-   "lane": "伊拉克 非主攻",
-   "cadence": "不动",
-   "evidence": "gmail_digest：out 0；用户表：「兴趣：处理公司产品 有过详细产品交谈」；研究档 risks：域名失效；伊拉克付款（T/T 预付）"
+   "level": "未触达（A/S 邮箱 24 封 2024→2026，1 次记录打开，0 回；收件 sales@trioms.com；主题多为「Industrial PoE Switch、10G Enterprise SFP Switch」；Elsa 箱：`to:trioms.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 24 / 来 0）（第 74 批(n)））",
+   "type": "仪器/技术产品分销商（新加坡，工业 MC 单品）",
+   "sieve": "1~2（1 次打开）",
+   "stop": "只打通用邮箱，无记录打开",
+   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+   "lane": "新加坡 非主攻",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 24，Opened 标签 1（Simon 群发追踪）；用户表：「AOA的工业MC 就这一款」；研究档 risks：品类边缘（仪器分销，MC 仅一款）；非主攻区（T5，新加坡）；14 次无回复，仅 sales@"
   },
-  "situation": "伊拉克 IT 公司 MyTec（Mushtaq Al Takhakh），表内「有过详细产品交谈，处理公司产品」；WA 19 次无实质回复；域名失效。",
-  "need": "无明确口型；入门 8 PoE 管理机。",
-  "breakpoint": "域名失效；伊拉克付款（T/T 预付）",
+  "situation": "新加坡 Trioms Technology（多品牌技术产品分销：JW Fishers 水下搜索、Kestrel 气象仪、Boltek 雷电探测；站内一款 10/100 工业 MC（AOA）；表内「AOA 的工业 MC 就这一款」）；群发 14 次无回复。",
+  "need": "站内 10/100TX–100FX 工业 MC 位 → 工业百兆 MC STI-110FE（$19.7 @20%）、千兆 STI-110GE（$22.4）",
+  "breakpoint": "品类边缘（仪器分销，MC 仅一款）；非主攻区（T5，新加坡）；14 次无回复，仅 sales@",
   "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 25,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "无明确口型；入门 8 PoE 管理机。",
+   "p1": "STI-110FE",
+   "tier": 20,
+   "price": "换人再触锚价 STI-110FE $19.7 EXW（主表档位（无实报；PDF 上限 $23.1）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-19 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-15 $280（10G Enterprise SFP Switch）",
+   "why": "站内 10/100TX–100FX 工业 MC 位 → 工业百兆 MC STI-110FE（$19.7 @20%）、千兆 STI-110GE（$22.4）。已打开的主题（1/24 封有打开记录）：「Managed Optical Bypass Switch」(2025-05-07) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—",
-   "one_question": ""
+   "when": "2027-Q1（换人后）",
+   "channel": "A 邮箱 → 具名 KP",
+   "action": "换收件人再发一封（第 75 批(ah) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
+   "one_question": "For the industrial 10/100 media converter on your site, we supply neutral-brand DIN-rail Fast Ethernet and gigabit MCs (−40~75 °C, CE/RoHS) from single units, EXW USD — is the AOA unit still selling, and would a lower-priced equivalent fit your catalogue? Reference: STI-110FE at $19.7 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
+   {
+    "date": "2026-09-17",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Industrial PoE Switch、10G Enterprise SFP Switch",
+    "why": "24 封 / 1 次打开 / 0 回｜首封 2024-06-29 → 末封 2026-09-17（24 去 / 0 来）",
+    "k": "gmail_digest"
+   },
    {
     "date": "2026-10-21",
     "dir": "用户表",
     "who": "Simon",
-    "quote": "兴趣：处理公司产品 有过详细产品交谈",
+    "quote": "AOA的工业MC 就这一款",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-09-17",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "16 Port Industrial PoE Switch",
+    "why": "本日去信真实主题（邮箱索引 3aa7abbd661b453d；信稿开头句引用此封；此前稿内写的「Industrial PoE Switch」是线程列表首题，不是本封）",
+    "k": "3aa7abbd661b453d"
    }
   ],
-  "proof_gaps": [
-   "无邮件往来",
-   "用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
-  ],
-  "draft_en": null,
+  "proof_gaps": [],
+  "draft_en": {
+   "subject": "The industrial 10/100 media converter on your site - is the AOA unit still selling?",
+   "body": "Hello Trioms team,\n\nOver the past months you had a few product mails from us - most recently \"16 Port Industrial PoE Switch\" on 17 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the industrial 10/100 media converter on your site (AOA today), a lower-priced equivalent, neutral-brand, at distributor price, EXW, from single units, 15-day validity, -40 to 75 C, CE/RoHS: DIN-rail Fast Ethernet converter, 1 x RJ45 + 1 x 100M fibre (SC standard, SFP slot optional) - model STI-110FE - $19.7 USD; Gigabit version, 1 x RJ45 + 1 x SFP slot - STI-110GE - $26.5.\n\nOne question: is the AOA unit still selling for you, and would a lower-priced equivalent fit the catalogue?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+  },
   "as_of": "2026-10-24"
  }
 }

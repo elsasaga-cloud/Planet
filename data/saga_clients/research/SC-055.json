@@ -1,0 +1,73 @@
+{
+ "code": "SC-055",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（smanex.com，快照 2026-10-21）",
+ "summary": "台湾 SMANEX（M2M + AIoT 方案：工业 IoT 网关、工业以太网交换机 SW3108G-C / SW3105GP-1GF / SW3110GP-2GF、蜂窝连接、SDRMS 远程设备管理；Hannover Messe 2025 参展；表内「工业 FS 自己的品牌」）；表内 3 次跟进无回复。",
+ "type": "台湾工业网络厂商（同行）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：SMANEX｜M2M+AIoT Solutions；品类词 工业自动化 / OT 网络 / 无线 / WiFi / 网络交换 / PoE",
+   "quote": "SMANEX provides industrial IoT gateways, industrial Ethernet switches, cellular connectivity and SDRMS remote device management solutions for smart manufacturing, energy, infrastructure and distributed industrial sites.",
+   "url": "https://www.smanex.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "工业FS 自己的品牌",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "SMANEX 定位",
+   "quote": "SMANEX｜M2M+AIoT Solutions ; SMANEX provides industrial IoT gateways, industrial Ethernet switches, cellular connectivity and SDRMS remote device management solutions",
+   "url": "https://www.smanex.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "工业 FS 自己的品牌",
+   "quote": "工业FS 自己的品牌",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "同行：台湾工业网络厂商 SMANEX（自有工业交换机系列），非渠道客户；c_sub=同行/台湾厂商",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "台湾",
+  "other": "官网 smanex.com，语言 en，快照状态 ok；角色判定来源：用户表"
+ },
+ "business_lines": [
+  "工业 IoT 网关 / 工业以太网交换机（自有品牌 SMANEX）"
+ ],
+ "channels": {
+  "role": "台湾工业网络厂商（同行）",
+  "region": "台湾",
+  "contact": "info@smanex.com"
+ },
+ "signals": [
+  "官网：SMANEX provides industrial IoT gateways, industrial Ethernet switches, cellular connectivity and SDRMS remote device management solutions；站内 SW3108G-C / SW3105GP-1GF / SW3110GP-2GF；页面 hannover-messe-2025",
+  "表内：工业 FS 自己的品牌"
+ ],
+ "risks": [
+  "同行：台湾自有品牌工业以太网交换机与 IoT 网关厂商，非渠道客户"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 30,
+  "why": "台湾自有品牌工业交换机/网关厂商（同行），非渠道客户 → 改 C"
+ },
+ "email_hook": "（不发送：同行/台湾厂商）"
+}

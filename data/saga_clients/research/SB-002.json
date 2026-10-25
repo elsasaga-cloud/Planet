@@ -1,118 +1,273 @@
 {
  "code": "SB-002",
- "name_official": "AD-NET Technology Co., Ltd.（台湾）",
- "researched_at": "2026-10-21",
- "website_status": "在线（ad-net.com.tw，快照 2026-10-21）",
- "summary": "台湾光纤传输 / 工业通信品牌（媒体转换器、E1/SDH/PDH、GEPON、视频光端机、工业 PoE / 工业交换机、串口联网、光模块），站内工业与交换机词频极高；表内注「自己的品牌，应该是从深圳拿的产品」，2025-09 对 2 光 16 管理回复「M12 Switch??」（要 M12 接口工业机 — Saga 无）。台湾厂商口径：按继承规则台系品牌商不是「渠道客户」，但作为 OEM/贴牌采购方可按 OEM 30% 档跟进（其产品多在深圳采购）。",
- "type": "",
- "size": "",
- "brands_seen": [],
+ "name_official": "XSPEC Technology Sdn. Bhd.（Subang Jaya, Malaysia）",
+ "website_status": "在线",
+ "summary": "马来西亚制造商代表/分销商（2005 年注册），代理 NDT 检测、军警安防、医疗、生物实验室设备，覆盖马/印尼/新加坡；联系人 Sugito Wibawa。用户表：对交换机/PoE 交换机有兴趣，WhatsApp 跟进，有成单记录。",
+ "type": "分销商/制造商代表（NDT·国防安防·医疗）",
+ "size": "未见人数；经营 20+ 年",
+ "brands_seen": [
+  "Intron Plus"
+ ],
  "evidence": [
   {
-   "kind": "官网快照",
-   "claim": "产品线：MC、E1 转换、FTTx、光模块、工业通信、工业 PoE、光纤交换机；关键词 switch 197 / industrial 117 / poe 51 / fiber 366",
-   "quote": "Media converter, Ethernet converter, E1 converter, Fiber modem… Industrial POE… Industrial Ethernet Switches… Fiber Optical Switches",
-   "url": "https://www.ad-net.com.tw/",
+   "kind": "官网",
+   "claim": "自述：制造商代表，品类为油气海事、军警安防、生物实验室、医疗",
+   "quote": "We are a Reliable Manufacturing Representatives and are constantly developing new partnering sygnergies with Manufacturers all over the World … Oil, Gas & Marine · Military Defense & Security · Bio-Technology & Lab · Medical & Healthcare",
+   "url": "https://xspectechnology.com/my-homepage/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "第三方（Intron Plus 代理名录）",
+   "claim": "联系人 Sugito Wibawa 与直邮",
+   "quote": "XSPEC TECHNOLOGY SDN BHD … Mr. SUGITO WIBAWA + 60 3 8023 1161 … sugito@xspec.com.my",
+   "url": "https://www.intron.ru/en/about-us/agents/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "MC FS VC 自己的品牌，应该是从深圳拿的产品；2025-09 2 16 管理→M12 Switch??",
-   "quote": "兴趣：MC FS VC 自己的品牌 应该是从深圳拿的产品；回复：M12 Switch??",
+   "claim": "CEO 对交换机/PoE 有兴趣；地址；Skype",
+   "quote": "对交换机，POE交换机有兴趣 Skype: sugitowibawa 公司地址：No. 8, Jalan Industri USJ 1/8 Taman Perindustrian USJ 1 47600 Subang Jaya, Selangor, Malaysia / Sugito Wibawa Chief Executive Officer",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "PI",
+   "claim": "成交单据 STSC20240618009（CI，2024-06-27）：Commercial Switch 共 1 台，USD 90.0；采购 四川海思视讯电子有限公司 RMB 500.0；Simon 成本表利润 RMB 209.61",
+   "quote": "",
+   "url": "PI.zip:9 马来西亚 Sugito gg/普通快递发票.xlsx",
+   "date": "2024-06-27"
+  },
+  {
+   "kind": "PI",
+   "claim": "成交单据 STSC20240711009（CI，2024-07-17）：Commercial Switch 共 12 台，USD 1056.0；采购 四川海思视讯电子有限公司 RMB 6000.0；Simon 成本表利润 RMB 2969.78",
+   "quote": "",
+   "url": "PI.zip:9 马来西亚 Sugito gg/普通快递发票.xlsx",
+   "date": "2024-07-17"
+  },
+  {
+   "kind": "PI",
+   "claim": "PI 包文件夹「马来西亚 Sugito gg」：Simon 标签 gg；单号 2 个，2024-06-27 → 2024-07-17，销售 USD 1146.0 / RMB 0，Simon 成本统计利润合计 RMB 3179.39",
+   "quote": "",
+   "url": "PI.zip:9 马来西亚 Sugito gg",
+   "date": "2026-10-22"
+  },
+  {
+   "kind": "公开平台核查（T29-U18）",
+   "claim": "xspectechnology.com：Industrial technology, training, and support for Southeast Asia；5 个行业（油气海事、军警安防、生物实验室、医疗、培训）；54 品牌 86 产品；客户墙 PDRM、Bomba、MSAT、SPRM、Kastam、UM、Penjara、UiTM、IMR、LHDN…；Subang Jaya USJ 1/8；inquiry@xspec.com.my",
+   "quote": "5 Industries 54 Brands 86 Products … Trusted by government agencies, universities, hospitals, and industry leaders across Malaysia",
+   "url": "https://xspectechnology.com/",
+   "date": "2026-10-23"
+  },
+  {
+   "kind": "公开平台核查（T29-U18）",
+   "claim": "MINDTCE 2026（8th Malaysia International NDT Conference & Exhibition，2026-11-17/18）参展商档案：XSPEC TECHNOLOGY SDN BHD，联系人 Sugito Wibawa，sugito@xspec.com.my，+60129888086",
+   "quote": "XSPec Technology Sdn Bhd (XSPec) is a Malaysian-based technology provider and manufacturing representative … Non-Destructive Testing (NDT) sector",
+   "url": "https://mindtce.com.my/companyprofile/B2611000001",
+   "date": "2026-10-23"
+  },
+  {
+   "kind": "公开平台核查（T29-U18）",
+   "claim": "Converus 授权服务伙伴名录：MALAYSIA XSPec Technology Sdn Bhd，Sugito Wibawa，+60 (3) 8023 1162",
+   "quote": "MALAYSIA XSPec Technology Sdn Bhd Sugito Wibawa … W: xspectechnology.com",
+   "url": "https://converus.com/find-a-partner/",
+   "date": "2026-09-23"
   }
  ],
  "kp": [
   {
-   "name": "Robin",
-   "title": "（表内联系人）",
-   "email": "robin@ad-net.com.tw",
-   "phone": "",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
+   "name": "Sugito Wibawa",
+   "role": "负责人（代理名录口径）",
+   "email": "sugito@xspec.com.my",
+   "phone": "+60 3 8023 1161",
+   "source": "https://www.intron.ru/en/about-us/agents/"
   }
  ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "grade_override": "B",
+ "override_reason": "成单但核心业务是 NDT/国防/医疗设备代理，交换机为项目配套，复购逻辑弱（且含军警安防，INH 守界）；放 B 慢跟、被动响应。",
+ "notes": "",
+ "researched_at": "2026-10-22",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照：台系品牌 OEM）"
+  "level": "B 级加厚 v1（基于首轮调研整理 + 需求映射）"
  },
  "company_facts": {
-  "legal_name": "AD-NET Technology Co., Ltd.",
-  "founded": "（待核）",
-  "hq": "台湾",
-  "size": "中小型品牌商",
-  "other": "info@ad-net.com.tw"
+  "legal_name": "XSPEC Technology Sdn. Bhd.",
+  "founded": "2005（注册）",
+  "hq": "No. 8, Jalan Industri USJ 1/8, Taman Perindustrian USJ 1, 47600 Subang Jaya, Selangor, Malaysia（+60 12 988 8086 手机）",
+  "size": "小型制造商代表/分销商",
+  "other": "代理 NDT 检测、军警安防、医疗、生物实验室设备；覆盖马/印尼/新"
  },
  "business_lines": [
-  "光纤媒体转换 / E1 / SDH",
-  "工业以太网 / 工业 PoE 交换机（贴牌）",
-  "视频光端机 / GEPON"
+  "制造商代表/分销（NDT、安防、医疗）",
+  "项目供货（交换机/PoE 作配套）"
  ],
  "channels": {
-  "role": "品牌商（深圳贴牌采购）",
-  "region": "全球"
+  "网站": "https://xspectechnology.com/ · xspec.com.my",
+  "邮箱": "sugito@xspec.com.my（用户表）",
+  "WhatsApp / Skype": "+60 12 988 8086 / sugitowibawa（用户表）",
+  "公开动态平台（监控中，T29-U18）": "新目录站 xspectechnology.com（2026 改版，MY/SG/ID 三站，54 品牌 86 产品）；CEO Sugito Wibawa LinkedIn（1K followers，2026-05 仍活跃）；展会：MINDTCE 2026-11-17/18（NDT 展参展商）"
  },
  "signals": [
-  "整条工业 / 交换机线靠贴牌 → OEM 30% 对象",
-  "最新需求 M12 工业交换机（Saga 无，缺口记录）"
+  "2026-10-23 核查：XSPec 定位已非常清楚——油气/海事 NDT、军警安防（Converus 测谎软件授权服务商、Intron NDT 代理）、生物实验室、医疗设备的代理与培训，客户全是马来西亚政府机关（PDRM 警察、Bomba 消防、Kastam 海关、Penjara 监狱、SPRM 反贪…）；2019 年那单酒店网络是偶发；gg 维持，不投入",
+  "CEO 直接表示对交换机/PoE 感兴趣并有 2 次实质回复 → 可作东南亚项目配套分销",
+  "军警安防代理线 → 守界：仅民用项目供货"
  ],
  "risks": [
-  "台系品牌商口径（仅 OEM）",
-  "M12 / EN50155 车载类需求 Saga 不做"
+  "亚太非主攻区；交换机非其主业；军警客户守界"
  ],
  "saga_fit": {
-  "p1": "STI-21616GP",
-  "tier": 30,
-  "why": "其问的 2 光 16 管理工业机 → Saga STI-21616GP 贴 AD-NET 标（OEM 30%）；M12 版无。"
+  "p1": "STC-28DGGPM",
+  "tier": 25,
+  "why": "项目 25% 档：STC-28DGGPM（2 SFP + 8 GE PoE+ L2+ 管理，$84.1）作安防/实验室项目配套；24 口 STC-424DGGPM-280W（$140.1）；工业 STI-288GP（$59.8）"
  },
- "email_hook": "Robin, on the 2-SFP + 16-port managed industrial unit — we don't do M12, but the RJ45 version (DIN/rack, −40~75 ℃) is available under your AD-NET label from small lots; shall I send the spec and OEM price?",
+ "email_hook": "Sugito, following our earlier exchange on PoE switches: for your security/lab projects, 2× SFP + 8× GbE PoE+ L2+ managed at $84.1 EXW (24-port 280 W at $140.1), neutral packing — is there a current tender where I can quote a specific quantity?",
+ "deal_pi": {
+  "folder": "9 马来西亚 Sugito gg",
+  "simon_label": "gg",
+  "pay": "",
+  "bind": "",
+  "buyer": "XSPec Hospitech Sdn Bhd",
+  "orders": 2,
+  "first": "2024-06-27",
+  "last": "2024-07-17",
+  "usd": 1146.0,
+  "rmb": 0.0,
+  "profit_rmb": 3179.39,
+  "models": "Commercial Switch"
+ },
+ "watch": {
+  "as_of": "2026-10-23",
+  "github_watch": [],
+  "web_watch_targets": "scripts/web_watch/targets.json#SB-002",
+  "status": "data/customer_watch/当前状态.md",
+  "log": "data/customer_watch/变化日志.md"
+ },
  "mail_review": {
   "binding": {
-   "level": "轻度触达（2025-09-17 Robin 问 M12 16 口铁路交换机 → Alan 转介 Inmax；守界：轨交 PASS；Elsa 箱：`to:ad-net.com.tw` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 27 / 来 1）（第 74 批(n)））",
-   "type": "台湾网络厂商（AD-NET）",
-   "sieve": "1",
-   "stop": "轨交 M12 不做",
-   "revive": "不动",
-   "lane": "TW",
-   "cadence": "不动",
-   "evidence": "k=266471f2990a3b25；第 19 批回补来信原文 1 条（gmail_s/gmail_a）"
+   "level": "轻度（成单：2024-06-18 样品单 1 台 24 口被动 PoE 24V，PI STSC20240618009，T/T；此后 WhatsApp；Elsa 箱：`to:xspectechnology.com OR to:xspec.com.my` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 6 / 来 4）（第 74 批(n)））",
+   "type": "马来西亚制造商代表（NDT/国防/医疗设备），交换机为项目配套——Simon 定 B 慢跟，gg 难复购",
+   "sieve": "3（付样成单）",
+   "stop": "复购逻辑弱（主业不是网络）；邮件 2024-06-21 后无往来",
+   "revive": "其 MY/SG/ID 项目再要 PoE；WhatsApp +60 12 988 8086",
+   "lane": "MY，T/T（对方明说不用 PayPal）",
+   "cadence": "邮件 10 封（2024-06-14~21）；之后 WhatsApp",
+   "evidence": "k=c4b545e745cfee3e / d4fd9769046a10ec / 10fca04e1dcc0437 / ca8ed8495f53d8b5 / c242e05df6431bc0；PI 包 `PI__PI__9_马来西亚_Sugito_gg__1st_order_Sample__STSC20240618009`"
   },
-  "situation": "—",
-  "need": "—",
-  "breakpoint": "守界。",
+  "situation": "Sugito（CEO）2024-06-14 回群发要 24 口被动 PoE（24V，24×100M + 2 GE + 2 SFP，15.4W/口），4 天内要发票、要 T/T、成单 1 台样机。之后没有第二单（邮件），Simon 定 gg。",
+  "need": "24 口被动 PoE 24V（项目配套）。",
+  "breakpoint": "一次性项目配套；不是 Saga 的复利客户。",
   "saga_now": {
-   "p1": "—",
-   "tier": 30,
-   "price": "—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-10-29 $65（10G Media Converter）、2024-12-17 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-02-20 $240（24 Port Fiber Switch）、2025-10-23 $280（10G Enterprise SFP Switch）",
-   "why": "已打开的主题（2/27 封有打开记录）：「16 Port PoE Managed Switch」(2025-09-17)、「Re: 16 Port PoE Managed Switch」(2025-09-17) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
-   "repeat": [],
+   "p1": "无主动动作",
+   "tier": 25,
+   "price": "历史报价（邮件原话，老汇率）：2024-06-17 90usd",
+   "why": "B 慢跟｜毛利复盘：22.2% → 30.2%（S2800P-24F-2TS 成本 500）——正常",
+   "repeat": [
+    "2024-06-27 / 07-17 两单 Commercial Switch 合计 $1,146（Simon 利润 RMB 3,179；间隔 20 天）；2024-07 之后无 PI（PI 复盘 #9，Simon 标 gg）"
+   ],
    "gaps": []
   },
   "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—",
-   "one_question": ""
+   "when": "跟 PI 节奏；不主动",
+   "channel": "WhatsApp",
+   "action": "—（用 one_question 这句，WhatsApp 直接发，不附资料）",
+   "one_question": "Sugito, following our earlier exchange on PoE switches: for your security/lab projects, 2× SFP + 8× GbE PoE+ L2+ managed at $84.1 EXW (24-port 280 W at $140.1), neutral packing — is there a current tender where I can quote a specific quantity?"
   },
   "facts": [
    {
-    "date": "2025-09-17",
-    "dir": "来",
-    "who": "robin@ad-net.com.tw",
-    "quote": "Hi Alan, Thanks for your email. Do you have M12 type switch for railway system ? If yes, we need 16-Port Industrial M12 Gigabit (16*10/100/1000Tx M12",
-    "why": "来信原文（主题「RE: 16 Port PoE Managed Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
-    "k": "266471f2990a3b25"
+    "date": "2023-07-01",
+    "dir": "备",
+    "who": "Saga 内部马来西亚线索表 Client_List_待决定.xlsx（XSPec/Sugito 文件夹）",
+    "quote": "名单行：「39 Xspec Technology Sdn Bhd www.xspectechnology.com Sugito Wibawa Chief Executive Officer Mitec 2023 对交换机，POE交换机有兴趣 Skype: sugitowibawa 公司地址：No. 8, Jalan Industri USJ 1/8Taman Perindustrian USJ 147600 Subang Jaya, Selang」",
+    "why": "Saga 自己的线索表里对本户的一手备注（来源/兴趣点/是否已加 WhatsApp/展会现场对话）（名单无日期；条目为 Mitec 2023 展会现场记录，按 2023-07 归期）——比群发打开率更硬的证据；写下一封邮件时直接引用这里的兴趣点；Mitec 2023 现场见过面 = 可用「we met at MITEC 2023」开头",
+    "k": "Drive PI 文件夹 9_马来西亚_Sugito"
    },
    {
-    "date": "2025-09-17",
+    "date": "2024-06-14",
+    "dir": "来",
+    "who": "Sugito Wibawa（CEO）",
+    "quote": "I am looking for PASSIVE POE 24 port Switch. Do you have ?",
+    "why": "需求",
+    "k": "c4b545e745cfee3e"
+   },
+   {
+    "date": "2024-06-14",
+    "dir": "来",
+    "who": "Sugito",
+    "quote": "MUST BE PASSIVE POE… 24 x 10-100Mbps downlink PoE… PoE switch output 24V… Maximum power of single PoE port: 15,4W",
+    "why": "规格",
+    "k": "d4fd9769046a10ec"
+   },
+   {
+    "date": "2024-06-17",
     "dir": "去",
-    "who": "Saga（Alan）",
-    "quote": "Hi, Robin, Sorry, we do not have M12 switches. But we know who has a feasible solution for this, see below link. *http://www.inmax.com.cn/en/productsinfo.aspx?id=fa9e6f44-3b08-4ccd-acd4-2dd2b4d777ba <http://www.inmax.com.cn/en/productsinfo.aspx?id=fa9e6f44-3b08-4ccd-acd4-2dd2b4d777ba>* Please get in…",
-    "why": "Saga 实质答复原文（主题「Re: 16 Port PoE Managed Switch」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
-    "k": "09e9eda0a8877d0b"
+    "who": "Saga（Simon）",
+    "quote": "Hi, Sugito, Thanks for your information. After careful check, we can offer it, but we do not have a ready datasheet yet. Price: 90usd/pc Commercial PoE Switch 2*1G SFP uplink+2*1000M Copper uplink+24*10/100M PoE downlink, passive PoE, unmanaged AC 100~240V inp",
+    "why": "历史报价点（主题「Re: Re: PoE Switch」；第 20 批从 gmail_s 回补）：90usd",
+    "k": "eb6c2057389fafbf"
+   },
+   {
+    "date": "2024-06-18",
+    "dir": "来",
+    "who": "Sugito",
+    "quote": "Can we order 1 unit for testing? Send us Invoice with delivery to: XSPec Hospitech Sdn Bhd",
+    "why": "样品单",
+    "k": "10fca04e1dcc0437"
+   },
+   {
+    "date": "2024-06-18",
+    "dir": "来",
+    "who": "Sugito",
+    "quote": "Can we pay via Bank TT, as we dont do paypal payment here.",
+    "why": "T/T",
+    "k": "ca8ed8495f53d8b5"
+   },
+   {
+    "date": "2024-06-18",
+    "dir": "去",
+    "who": "Saga（Simon）",
+    "quote": "Hi, Sugito, Sure, bank T/T is OK. The reason for PayPal is 1, its easier 2, bank T/T SOMETIMES requires payer information(like payer's company registration information). We are not sure when or which order the bank will ask for this, its about the foreign currency regulation here. Lets see. Please c…",
+    "why": "Saga 实质答复原文（主题「Re: Re: PoE Switch」；第 20 批从 gmail_s 回补）——承诺/口径以此为准",
+    "k": "3c88bfd8760e162d"
+   },
+   {
+    "date": "2024-06-18",
+    "dir": "去",
+    "who": "Saga 内部（Client_List_待决定.xlsx，存于 Sugito 文件夹）",
+    "quote": "马来西亚名单：multitradepac（Advantech）、KVC Industrial Supplies（朱姐转的，ATTEL 牌 MC）、NN MAJU（2020-12 询盘 4光4电 PoE managed）、richtechsolutions（拉黑了）、marugged（Moxa）、adv.com.my（Lantech）、soulcomm（在用北京 HCSTCOM）…",
+    "why": "Saga 的马来西亚线索表放在 XSPec 文件夹 = 曾设想让 XSPec（医疗科技集成商）当马来西亚落地伙伴，「待决定」至今未决；与 Angora/Fastball 同一套「成单客户 → 区域分销」的构想，三次都没落地（Q-51 的根）",
+    "k": "Drive PI 文件夹（data/pi_2026-10/text） 9_Sugito"
+   },
+   {
+    "date": "2024-07-05",
+    "dir": "来",
+    "who": "XSPec Hospitech Sdn Bhd（LOA_Xspec_5_July_24.pdf）",
+    "quote": "LETTER OF AUTHORIZATION… Online Remittance Services offered by Easy Pay Transfers Sdn Bhd to Xspec Hospitech Sdn Bhd… authorize… Authorized Person(s) to act on our behalf… registering account, registering beneficiary",
+    "why": "XSPec 付 Saga 用的是马来西亚第三方汇款公司 Easy Pay Transfers（需出具授权书）——小额跨境付款通路本身就是摩擦；下次报价时主动给 PayPal/西联之外的本地汇款选项说明，比降价更有用",
+    "k": "Drive PI 文件夹（data/pi_2026-10/text） 9_Sugito"
+   },
+   {
+    "date": "2024-07-11",
+    "dir": "内",
+    "who": "Simon 成本表（PI 包）",
+    "quote": "内部《成本统计.xlsx》：STSC20240618009：成本 734 / 收款 944 / 利润 210（22.2%） · STSC20240711009：成本 6,852 / 收款 9,822 / 利润 2,970（30.2%）",
+    "why": "利润率 = 利润÷收款；对照 20/25/30 加价 = 16.7%/20%/23% 毛利；详见 docs/成单客户_毛利复盘_内部_2026-10-24.md",
+    "k": "cost_sheet"
+   },
+   {
+    "date": "2024-07-17",
+    "dir": "内",
+    "who": "Saga 出口报关资料（PI 包「买单报关资料.xls」）",
+    "quote": "商业交换机 STC-2224GFP-24V × 12 pcs，440×290×45 mm，净重 2.9 / 毛重 3.6 kg 每台，单价 88 USD，总价 1,056 USD，目的国马来西亚，品牌 Saga Telecom，HS 8517622990，总毛重 44 KG",
+    "why": "第二单的报关口径：型号名是 Hasivo 被动 PoE 机的 Saga 编号 STC-2224GFP-24V（24V 被动 PoE 24 FE + 2 SFP + 2 GE），申报品牌写 Saga Telecom；走 Saga 自己的深圳「买单报关」线",
+    "k": "data/pi_2026-10/text/…9_马来西亚_Sugito…买单报关资料.xls (f3398f1a)"
+   },
+   {
+    "date": "2024-11-18",
+    "dir": "来",
+    "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+    "quote": "用户表跟进：推「引流机型」→ 对方「passive poe only」",
+    "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+    "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.122 1118"
    }
   ],
   "proof_gaps": [],

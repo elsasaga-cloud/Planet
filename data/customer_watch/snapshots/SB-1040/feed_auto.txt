@@ -1,0 +1,11 @@
+# SB-1040 icpdas.ro · feed_auto · http://icpdas.ro/modules/feeder/rss.php?id_category=0&orderby=name&orderway=asc · fetched 2026-10-25T07:41:18Z · HTTP 200
+	ARF8011BA - 0,00 Lei	https://icpdas.ro/ro/gateway-uri-iot/3662-arf8011ba.html
+	ARF8230EA - 0,00 Lei	https://icpdas.ro/ro/senzori-iot/3664-arf8230ea.html
+	ET-7052 CR - 820,88 Lei	https://icpdas.ro/ro/et-7000-cu-i-o-digitale/1549-et-7052-cr.html
+	ET-7060 CR - 820,88 Lei	https://icpdas.ro/ro/et-7000-cu-iesiri-releu-si-intrari-digitale/1551-et-7060-cr.html
+	GT-541 CR - 1 900,92 Lei	https://icpdas.ro/ro/module-inteligente-gsm-gprs-3g-wireless-industrial/1706-gt-541-cr.html
+	GW-7552-B CR - 1 728,56 Lei	https://icpdas.ro/ro/gateway-modbus/830-gw-7552-b-cr.html
+	HRT-710 CR - 1 253,64 Lei	https://icpdas.ro/ro/gateway-hart/1945-hrt-710-cr.html
+	I-7520R CR - 328,60 Lei	https://icpdas.ro/ro/convertoare-rs-232-422-485/896-i-7520r-cr.html
+	I-7561U CR - 466,24 Lei	https://icpdas.ro/ro/convertoare-usb-la-rs-232-422-485-si-protocoale-industriale/2570-i-7561u-cr.html
+	ICO100-839 - 0,00 Lei	https://icpdas.ro/ro/sisteme-embedded-pe-sina-din/3617-ico100-839.html

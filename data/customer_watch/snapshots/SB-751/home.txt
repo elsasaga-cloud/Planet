@@ -1,552 +1,446 @@
-# SB-751 Leandro Roisenberg FI · home · https://www.lri.com.br/ · fetched 2026-10-25T07:41:18Z · HTTP 200
-LRI Automação Industrial - Soluções em Automação Industrial
-Menu
-Projetos Especiais
-Fontes Industriais
-Ver Fontes Industriais
-Fontes AC/DC
-Drivers de LED
-Trilho DIN
-Com Caixa
-Sem Caixa
-Carregadores de Bateria
-Adaptadores
-Rack Alimentação
-Proposta Específica
-Acessórios
-Encapsulado
-Fonte de Alimentação de Campo
-Conversores CC/CC
-Encapsulados
-Com Caixa
-Sem Caixa
-On Board
-Trilho DIN
-Inversores DC/AC
-Onda Senoidal Modificada
-Onda Senoidal Pura
-Acessórios/Módulos de Controle
-Módulo de Proteção
-Trilho DIN
-Módulo de Redundância
-Fontes com Certificação Médica
-Módulo UPS
-VFD - AC/AC
-Comunicação de Dados
-Ver Comunicação de Dados
-Família LRI-CON
-Wireless e IoT Industrial
-Wi-Fi Industrial
-ZigBee
-Gateway e Roteador 4G/LTE
-LoRa, RF, Bluetooth e GPS
-Antenas e Cabos
-Sensores e Monitoramento Remoto
-Conectividade
-Placas Multiseriais
-Conversores, Isoladores e Repetidores Seriais
-Conversor de Mídia (Fibra para RJ45)
-Conversores e Hubs USB Industriais
-Soluções KVM
-Servidor Serial (Serial para Ethernet)
-Switches Industriais
-Switch Gerenciável
-Switch Não Gerenciável
-Switch IEC 61850-3
-Switch Ferroviário EN 50155
-Switch PoE
-Switch com Redundância em Anel
-Gateways e Protocolos Industriais
-Conversores, Repetidores e Bridges CAN/Fieldbus
-Gateway de Protocolo (Modbus, CAN, PROFIBUS)
-Placas de Comunicação para PC (CAN, PROFIBUS, EtherCAT)
-PAC/uPAC
-Data Logger
-Módulos
-Cabos e Acessórios de Comunicação
-Transceiver SFP (Módulo Óptico)
-Computadores Industriais
-Ver Computadores Industriais
-Computadores Embarcados
-PC BOX Entrada
-PC BOX Ultra-slim
-PC BOX Expansão
-PC BOX Trilho DIN
-Tablet Industrial
-Acessórios Tablet
-Plataforma Risc
-Backplanes
-Periféricos
-Audio
-Floppy
-Coolers
-Fontes
-Chassis
-Shoe Box
-Acessórios
-Placa Mãe
-Aquisição de Dados
-Ver Aquisição de Dados
-Teracom
-Controladores Programável
-Módulos E/S Remoto
-Ethernet
-RS-485
-ZigBee
-Fieldbus
-PAC E/S
-FRnet
-Placas para PC
-PCI Express Multifuncional
-PCI Express Saída Analógica
-PCI Express Digital E/S
-PCI Multifuncional
-PCI Saída Analógica
-PCI Digital E/S
-PCI Controle Movimento
-ISA Multifuncional
-ISA Saída Analógica
-ISA Digital E/S
-ISA Controle Movimento / Watch Dog
-Condicionador de Sinal
-USB/Ethernet
-Multifunction DAQ
-GPIB / IEEE 488
-Digital I/O
-Temperatura
-Registradores de Dados
-USB
-Modbus TCP/MQTT/HTTP
-Ethernet
+# SB-751 engeniustech.com · home · https://www.engeniustech.com/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+EnGenius: AI Surveillance | Wi-Fi | Switches | VPN Routers | PDUs
+Products
+VPN Routers
+Small / Medium / Enterprise VPN Routers >
+SecuPoint VPN Client Software >
+Network Switches
+Small / Medium / Enterprise Network Switches >
+Residential Network Switches >
 Wi-Fi
-RS-485
-Acessórios para Aquisição de Dados
-Cabos/Adaptadores/Borneiras/Fonte
-Detecção de Vazamento
-Cabo IR
-Dispositivos de Controle
-Ver Dispositivos de Controle
-Medidores de Energia
-Interface RS-232/RS-485/Ethernet
-RF 433MHZ
-Transformador de Corrente
-Relés de Proposta Geral
-Relé SSR 1 Fase
-Relé de Monitoramento*
-Relé SSR 3 Fases*
-Placa e Módulo de Relé
-Relé Intermediário*
-Interruptor Temporizado*
-Proteção Tensão-Corrente-Transdutores*
-Contator*
-Automação e Controle de Máquinas
-Ver Automação e Controle de Máquinas
-Controlador IIoT
-PAC
-IPAC
-Automação de Máquinas
-ViewPAC
-Windows PAC
-Win-GRAF e ISaGRAF
-IndusSoft
-MiniOS7
-ROM-DOS
-Controlador/Server
-Módulos e Placas de Expansão
-Painel Display
-TouchPAD
-Display
-Soluções Motinnet
-Placas PC
-Módulos de Movimento
-Módulos de E/S
-Módulos HUB
-Controle EtherCAT
-CLP / PLC
-Outlet
-Ver Outlet
-Aten
-Drow
-Hon Turing
-IcpDas
-MccDaq
-Meanwell
-Moxa
-Oring
-Sunix
-Parceiros
-Ver Parceiros
-AAEON
-NK Technologies
-Meanwell
-Ebyte
-Ewind
-Moxa
-ICP DAS
-MCC DAQ
-ORing
-PULS
-Geya
-PUSR
-Minha Conta
-Entrar
-/
-Cadastrar
-Olá,
-Minha conta
-/
-Sair
-LRI Automação Industrial
-Olá,
-Minha conta
-/
-Sair
-Minha Conta
-Entrar
-/
-Cadastrar
-0
-Fontes Industriais
-Fontes AC/DC
-Drivers de LED
-Trilho DIN
-Com Caixa
-Sem Caixa
-Carregadores de Bateria
-Adaptadores
-Rack Alimentação
-Proposta Específica
-Acessórios
-Encapsulado
-Fonte de Alimentação de Campo
-Conversores CC/CC
-Encapsulados
-Com Caixa
-Sem Caixa
-On Board
-Trilho DIN
-Inversores DC/AC
-Onda Senoidal Modificada
-Onda Senoidal Pura
-Acessórios/Módulos de Controle
-Módulo de Proteção
-Trilho DIN
-Módulo de Redundância
-Fontes com Certificação Médica
-Módulo UPS
-VFD - AC/AC
-Comunicação de Dados
-Família LRI-CON
-Wireless e IoT Industrial
-Wi-Fi Industrial
-ZigBee
-Gateway e Roteador 4G/LTE
-LoRa, RF, Bluetooth e GPS
-Antenas e Cabos
-Sensores e Monitoramento Remoto
-Conectividade
-Placas Multiseriais
-Conversores, Isoladores e Repetidores Seriais
-Conversor de Mídia (Fibra para RJ45)
-Conversores e Hubs USB Industriais
-Soluções KVM
-Servidor Serial (Serial para Ethernet)
-Switches Industriais
-Switch Gerenciável
-Switch Não Gerenciável
-Switch IEC 61850-3
-Switch Ferroviário EN 50155
-Switch PoE
-Switch com Redundância em Anel
-Gateways e Protocolos Industriais
-Conversores, Repetidores e Bridges CAN/Fieldbus
-Gateway de Protocolo (Modbus, CAN, PROFIBUS)
-Placas de Comunicação para PC (CAN, PROFIBUS, EtherCAT)
-PAC/uPAC
-Data Logger
-Módulos
-Cabos e Acessórios de Comunicação
-Transceiver SFP (Módulo Óptico)
-Computadores Industriais
-Computadores Embarcados
-PC BOX Entrada
-PC BOX Ultra-slim
-PC BOX Expansão
-PC BOX Trilho DIN
-Tablet Industrial
-Acessórios Tablet
-Plataforma Risc
-Backplanes
-Periféricos
-Audio
-Floppy
-Coolers
-Fontes
-Chassis
-Shoe Box
-Acessórios
-Placa Mãe
-Aquisição de Dados
-Teracom
-Controladores Programável
-Módulos E/S Remoto
-Ethernet
-RS-485
-ZigBee
-Fieldbus
-PAC E/S
-FRnet
-Placas para PC
-PCI Express Multifuncional
-PCI Express Saída Analógica
-PCI Express Digital E/S
-PCI Multifuncional
-PCI Saída Analógica
-PCI Digital E/S
-PCI Controle Movimento
-ISA Multifuncional
-ISA Saída Analógica
-ISA Digital E/S
-ISA Controle Movimento / Watch Dog
-Condicionador de Sinal
-USB/Ethernet
-Multifunction DAQ
-GPIB / IEEE 488
-Digital I/O
-Temperatura
-Registradores de Dados
-USB
-Modbus TCP/MQTT/HTTP
-Ethernet
-Wi-Fi
-RS-485
-Acessórios para Aquisição de Dados
-Cabos/Adaptadores/Borneiras/Fonte
-Detecção de Vazamento
-Cabo IR
-Dispositivos de Controle
-Medidores de Energia
-Interface RS-232/RS-485/Ethernet
-RF 433MHZ
-Transformador de Corrente
-Relés de Proposta Geral
-Relé SSR 1 Fase
-Relé de Monitoramento*
-Relé SSR 3 Fases*
-Placa e Módulo de Relé
-Relé Intermediário*
-Interruptor Temporizado*
-Proteção Tensão-Corrente-Transdutores*
-Contator*
-Automação e Controle de Máquinas
-Controlador IIoT
-PAC
-IPAC
-Automação de Máquinas
-ViewPAC
-Windows PAC
-Win-GRAF e ISaGRAF
-IndusSoft
-MiniOS7
-ROM-DOS
-Controlador/Server
-Módulos e Placas de Expansão
-Painel Display
-TouchPAD
-Display
-Soluções Motinnet
-Placas PC
-Módulos de Movimento
-Módulos de E/S
-Módulos HUB
-Controle EtherCAT
-CLP / PLC
-Outlet
-Aten
-Drow
-Hon Turing
-IcpDas
-MccDaq
-Meanwell
-Moxa
-Oring
-Sunix
-Projetos Especiais
-+ Categorias
-Parceiros
-AAEON
-NK Technologies
-Meanwell
-Ebyte
-Ewind
-Moxa
-ICP DAS
-MCC DAQ
-ORing
-PULS
-Geya
-PUSR
-Engenharia própria LRI
-Switches, fontes e inversores com engenharia própria — não é só distribuição Mean Well
-Catálogo técnico com mais de 3.500 produtos documentados. Nestes três, o projeto, a ficha técnica e o suporte são da LRI.
-Comunicação industrial
-Fontes CA/CC
-Conversores CC/CC
-Inversores CC/CA
-Marca própria LRI
-Comunicação industrial
-LRI-SWI-8G - Switch Ethernet Industrial não Gerenciável 8 Portas Gigabit RJ45, Trilho DIN
-8 portas Gigabit RJ45 · Não gerenciável · Trilho DIN
-R$ 499,00
-R$
-484 , 03
-à vista
-com desconto Pix - Vindi
-Comprar
-Ver ficha técnica
-Marca própria LRI
-Inversores de potência
-Inversor CC/CA 1000W Entrada 125Vcc Saída 127Vca 60Hz | LRI125-1K-127-V3
-1000 W · Entrada 125Vcc · Saída 127Vca 60Hz
-R$ 1.682,95
-R$
-1.632 , 46
-à vista
-com desconto Pix - Vindi
-Comprar
-Ver ficha técnica
-Marca própria LRI
-Fontes de alimentação
-Fonte de Alimentação Chaveada Industrial para Trilho DIN de 65W, 24V - LRI-PS6524
-65 W · Saída 24Vcc 2,7A · Trilho DIN
-R$ 255,00
-R$ 127,50
-R$
-123 , 68
-à vista
-com desconto Pix - Vindi
-Comprar
-Ver ficha técnica
-Produto genuíno, com nota fiscal · Suporte técnico direto com quem projeta · Dúvida técnica no WhatsApp (51) 2129-3000
-Destaques
-LRI-CON-7562 Módulo Conversor Isolado USB para RS-232/RS-422/RS-485/TTL
-R$ 499,00
-R$
-484 , 03
-à vista
-com desconto Pix - Vindi
-Comprar
-Ver ficha técnica
-Switch Ethernet Industrial Gerenciável 16 Portas Gigabit Rj45 + 4 Portas SFP - LRI-SW-16G4S1C
-R$ 3.168,00
-R$
-3.072 , 96
-à vista
-com desconto Pix - Vindi
-Comprar
-Ver ficha técnica
-Switch Ethernet Industrial Gerenciável 8 Portas Gigabit Rj45 + 2 Portas SFP - LRI-SWI-8G2S1C
-R$ 1.458,00
-R$
-1.414 , 26
-à vista
-com desconto Pix - Vindi
-Comprar
-Ver ficha técnica
-Switch Ethernet não Gerenciável 5 Portas Gigabit com PoE, Trilho DIN LRI-SW-5P
-R$ 549,00
-R$
-532 , 53
-à vista
-com desconto Pix - Vindi
-Comprar
-Ver ficha técnica
-Lançamentos
-LRI-CON-7521U Conversor/Splitter Isolado RS-485/RS-232/TTL para 4 Canais RS-485
-R$ 499,00
-R$
-484 , 03
-à vista
-com desconto Pix - Vindi
-Comprar
-Ver ficha técnica
-Ethernet Módulo IO Digital TCW181B-CM
-R$ 1.543,64
-R$
-1.497 , 33
-à vista
-com desconto Pix - Vindi
-Comprar
-Ver ficha técnica
-1-Wire Sensor de Corrente Isolado TSC201
-Sob consulta
-Saiba mais
-Pedir cotação
-1-Wire Sensor de Temperatura e Umidade TSM400-1-TH
-Sob consulta
-Saiba mais
-Pedir cotação
-Depoimentos
-Nome: Manoel
-Avaliação: Positivo
-Depoimento: Atendimento/entrega rápida e eficiente
-Comentado em: 31/01/2024
-LRI Automação Industrial
-Atendimento/entrega rápida e eficiente
-Written by: Manoel
-LRI Automação Industrial
-1 / 1 stars
-1200
-Nome: Djalma Filho
-Avaliação: Positivo
-Depoimento: Ótima loja, facilidade nas compras. E produtos de boa qualidade. E preços competitivos.
-Comentado em: 09/01/2024
-LRI Automação Industrial
-Ótima loja, facilidade nas compras. E produtos de boa qualidade. E preços competitivos.
-Written by: Djalma Filho
-LRI Automação Industrial
-1 / 1 stars
-1255
-[ Ver todos ]
-Cadastre-se em nossa newsletter
-e receba novidades via E-mail ou Telegram
-Telegram
-Cadastre-se
-Institucional
-Empresa
-Como comprar
-Política de Segurança e Confidencialidade
-Envio
-Pagamento
-Tempo de Garantia
-Depoimentos de Clientes
-Política de Devolução de Produtos da LRI Automação Industrial
-Fale Conosco
-Atendimento
-(51) 2129-3000
-(11) 4020-2470
-vendas@lri.com.br
-Formas de pagamento
-Selos de Segurança
-Linhas LRI
-Switches Industriais
-Inversores Senoidais
-Conversores CC/CC
-Conversor Serial LRI-CON
-PC Industrial
-Condicionadores de Sinal
-AEM: Supervisão DC
-Projetos Especiais
-Marcas no Brasil
-ICP DAS
-Teracom
-Seneca
-ORing
-PULS
-PUSR
-Hi-Link
-NK Technologies
-LRI Store é uma Marca Registrada de Leandro Roisenberg FI sob INPI 910048894 | CNPJ: 94.574.647/0005-02
-Tecnologia Tray
-Load time: 1.422 secs - 25-10-2026  - node: commerce-web2-bot-lw - store
+Small / Medium / Enterprise Wireless >
+Residential Indoor Wireless >
+Outdoor Point to Point
+Enterprise PtP Wireless Bridges >
+Residential PtP Wireless Bridges >
+AI Surveillance
+Small / Medium / Enterprise AI Cloud Cameras >
+Small / Medium / Enterprise AI Cloud NVS >
+Power Distribution Units
+Small / Medium / Enterprise PDUs >
+Phones
+SIP Phones >
+Analog Phones >
+Phone Accessories >
+Edge AI Computing
+Industrial Edge AI Platform >
+Data Center
+OCP DC-MHS Servers >
+Networking Accessories
+PoE Injectors >
+Power Adapters >
+SFP Modules >
+Redundant Power Supplies >
+Open Frame Power Supplies >
+Solutions
+Small / Medium / Enterprise
+Overview
+Management: Cloud
+EnGenius Management is a unified platform for simple deployment and real-time management of networking and security solutions with enterprise-grade control and visibility.
+EnGenius Cloud delivers centralized, real-time network management from anywhere with zero-touch provisioning and no mandatory licensing fees.
+Explore >
+Hardware
+Management: On-Premises
+Design and build a unified network with access points, switches, routers, power solutions, and AI-powered surveillance.
+EnGenius Private Cloud delivers powerful, scalable on-premises network management—fully under your control.
+Explore >
+AI Surveillance
+AI Cloud Surveillance Solution
+EnGenius Edge AI cameras that think, equipped with built-in NPUs and NVS-based AI processing compatible with third-party cameras, convert bulky video into streamlined metadata, enabling instant object detection and recognition at the source. No bandwidth strain, just smart security.
+Explore >
+Residential
+Overview
+Management: FitXpress
+EnGenius delivers simple, secure, business-grade Wi-Fi for homes and self-starters—with affordable hardware that’s easy to set up in minutes.
+FitXpress delivers simple, app-based network control for homes and micro-businesses—with secure Wi-Fi that’s easy to manage from anywhere.
+Explore >
+Hardware
+Management: On-Premises
+Build a reliable network with Wi-Fi access points, PoE switches, and routers—designed for homes and micro-businesses that need simple, dependable connectivity.
+On-Premises Management delivers secure, local network control through FitController or EnGenius Private Cloud—with centralized visibility and simplified administration.
+Explore >
+Outdoor Point-to-Point Wireless
+Enterprise PtP Wireless Solution >
+EnGenius Outdoor EOC series offers WISPs an unparalleled outdoor PtP & PtMP networking solution with integrated SkyPoint NMS for efficient last-mile and backhaul connectivity, ideal for applications in urban, rural areas, and more.
+Explore >
+Voice Communications
+DuraFon Ruggedized Phones
+FreeStyl Phones
+In fast-paced workplaces, effective communication is crucial. Standard cordless phones lack range, Wi-Fi phones use vital bandwidth, and cell phones can’t withstand drops. This leads to delays, frustrations, and inefficiencies.
+Offering an unprecedented range of up to 100,000 square feet, this isn't your ordinary cordless phone. Ideal for hotels, retail stores, and large offices, the FreeStyl 2 empowers staff to stay connected across vast spaces.
+Explore >
+Data Center
+Data Center Servers
+EnGenius S Server Series features high-core Intel® Xeon® 6 CPUs, a modular DC-MHS architecture, and powerful I/O expansion capabilities. From compute density and memory bandwidth to SmartNIC offload and centralized management, they deliver a robust foundation built on performance, manageability, and energy efficiency.
+Explore >
+Industries
+Multi-Dwelling Units
+MDU Networking Solution >
+Hospitality
+Hotel Wi-Fi Solution >
+Healthcare
+Assisted Living Communications Solution >
+Education
+Primary K-12 Solution >
+E-Rate Solution >
+Campground
+Campground / RV Park Outdoor Solution >
+Resources
+Training
+Case Studies
+EnGenius Blog
+In the News
+Press Releases
+Events & Webinars
+Technical Papers
+Doctor EnGenius
+Customer Support
+Partners
+Partner Overview
+Partner Portal Login
+Alliance Partners
+Buy
+Distribution Partners
+EnGenius Store
+Certified Partner Locator
+Contact Sales
+Americas
+United States - English >
+Latin America - Spanish >
+Asia Pacific
+Singapore - English >
+Taiwan - 繁體中文 >
+Japan – 日本語 >
+Thailand – แบบไทย >
+Vietnam - Việt >
+Europe
+Europe - English >
+Spain - Español >
+France – Français >
+Italy - Italiano >
+EnGenius Technologies: Data Center Servers | AI Surveillance | VPN Routers | PDUs | Switches | Wi-Fi | Telephony
+Solutions
+EnGenius Cloud
+EnSky On-Premises
+Home Wi-Fi
+Voice
+Case Studies
+Industries
+Assisted Living
+Campground WiFi Solutions
+Education: WiFi for Schools
+Hospitality
+Managed Network Services
+Products
+SkyKey
+Security Gateway
+Switches
+Indoor Wireless
+Outdoor Wireless
+Accessories
+Telephony
+Software
+Cloud
+Mobile Apps
+ezWiFi Planner
+ezMaster
+Buy
+Distributors
+EnGenius Store
+Partners
+Partner Program
+Training
+Search for:
+Language
+English
+Spanish
 ×
+Solutions
+EnGenius Cloud
+EnSky On-Premises
+Home Wi-Fi
+Voice
+Case Studies
+Industries
+Assisted Living
+Campground WiFi Solutions
+Education: WiFi for Schools
+Hospitality
+Managed Network Services
+Products
+SkyKey
+Security Gateway
+Switches
+Indoor Wireless
+Outdoor Wireless
+Accessories
+Telephony
+Software
+Cloud
+Mobile Apps
+ezWiFi Planner
+ezMaster
+Buy
+Distributors
+EnGenius Store
+Partners
+Partner Program
+Training
+Search for:
+Company
+About EnGenius
+Careers
+Contact Us
+News
+Press Releases
+Blog
+EnGenius News
+Support
+Customer Support
+Help Center
+RMA Service
+Resources
+Case Studies
+Videos
+Webinars
+Technical Papers
+Partners
+Partner Program
+Training
+Become A Reseller
+Contact Sales
+Home
+Products
+VPN Routers
+Small / Medium / Enterprise VPN Routers
+SecuPoint VPN Client Software
+Back
+Network Switches
+Small / Medium / Enterprise Network Switches
+Residential Network Switches
+Back
+Wi-Fi
+Small / Medium / Enterprise Wireless
+Residential Indoor Wireless
+Back
+Outdoor Point to Point
+Enterprise PtP Wireless Bridges
+Residential PtP Wireless Bridges
+Back
+AI Surveillance
+Small / Medium / Enterprise AI Cloud Cameras
+Small / Medium / Enterprise AI Cloud NVS
+Back
+Power Distribution Units
+Small / Medium / Enterprise PDUs
+Back
+Phones
+SIP Phones
+Analog Phones
+Phone Accessories
+Back
+Edge AI Computing
+Industrial Edge AI Platform
+Back
+Data Center
+OCP DC-MHS Servers
+Back
+Networking Accessories
+PoE Injectors
+Power Adapters
+SFP Modules
+Redundant Power Supplies
+Open Frame Power Supplies
+Back
+Solutions
+Small / Medium / Enterprise
+Overview
+Management: Cloud
+Management: On-Premises
+Hardware
+Back
+AI Surveillance
+AI Cloud Surveillance Solution
+Back
+Residential
+Overview
+Management: FitXpress
+Management: On-Premises
+Hardware
+Back
+Outdoor Point-to-Point Wireless
+Enterprise PtP Wireless Solution >
+Back
+Voice Communications
+DuraFon Ruggedized Phones
+FreeStyl Phones
+Back
+Data Center
+Data Center Servers
+Back
+Industries
+Multi-Dwelling Units
+Hospitality
+Healthcare
+Education: Primary K-12
+Education: E-Rate
+Campground
+Back
+Resources
+Training
+Case Studies
+EnGenius Blog
+In the News
+Press Releases
+Events & Webinars
+Technical Papers
+Doctor EnGenius
+Customer Support
+Back
+Partners
+Partner Overview
+Partner Portal Login
+Alliance Partners
+Back
+Buy
+Distribution Partners
+EnGenius Store
+Certified Partner Locator
+Back
+Region
+Americas
+United States – English
+Latin America – Spanish
+Back
+Asia Pacific
+Singapore – English
+Taiwan – 繁體中文
+Japan – 日本語
+Thailand – แบบไทย
+Vietnam – Việt
+Back
+Europe
+Europe – English
+Spain – Español
+France – Français
+Italy – Italiano
+Back
+× Close Panel
+Contact Sales
+Home
+Products
+VPN Routers
+Small / Medium / Enterprise VPN Routers
+SecuPoint VPN Client Software
+Back
+Network Switches
+Small / Medium / Enterprise Network Switches
+Residential Network Switches
+Back
+Wi-Fi
+Small / Medium / Enterprise Wireless
+Residential Indoor Wireless
+Back
+Outdoor Point to Point
+Enterprise PtP Wireless Bridges
+Residential PtP Wireless Bridges
+Back
+AI Surveillance
+Small / Medium / Enterprise AI Cloud Cameras
+Small / Medium / Enterprise AI Cloud NVS
+Back
+Power Distribution Units
+Small / Medium / Enterprise PDUs
+Back
+Phones
+SIP Phones
+Analog Phones
+Phone Accessories
+Back
+Edge AI Computing
+Industrial Edge AI Platform
+Back
+Data Center
+OCP DC-MHS Servers
+Back
+Networking Accessories
+PoE Injectors
+Power Adapters
+SFP Modules
+Redundant Power Supplies
+Open Frame Power Supplies
+Back
+Solutions
+Small / Medium / Enterprise
+Overview
+Management: Cloud
+Management: On-Premises
+Hardware
+Back
+AI Surveillance
+AI Cloud Surveillance Solution
+Back
+Residential
+Overview
+Management: FitXpress
+Management: On-Premises
+Hardware
+Back
+Outdoor Point-to-Point Wireless
+Enterprise PtP Wireless Solution >
+Back
+Voice Communications
+DuraFon Ruggedized Phones
+FreeStyl Phones
+Back
+Data Center
+Data Center Servers
+Back
+Industries
+Multi-Dwelling Units
+Hospitality
+Healthcare
+Education: Primary K-12
+Education: E-Rate
+Campground
+Back
+Resources
+Training
+Case Studies
+EnGenius Blog
+In the News
+Press Releases
+Events & Webinars
+Technical Papers
+Doctor EnGenius
+Customer Support
+Back
+Partners
+Partner Overview
+Partner Portal Login
+Alliance Partners
+Back
+Buy
+Distribution Partners
+EnGenius Store
+Certified Partner Locator
+Back
+Region
+Americas
+United States – English
+Latin America – Spanish
+Back
+Asia Pacific
+Singapore – English
+Taiwan – 繁體中文
+Japan – 日本語
+Thailand – แบบไทย
+Vietnam – Việt
+Back
+Europe
+Europe – English
+Spain – Español
+France – Français
+Italy – Italiano
+Back
+× Close Panel

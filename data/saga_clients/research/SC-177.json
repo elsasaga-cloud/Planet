@@ -1,0 +1,66 @@
+{
+ "code": "SC-177",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（senaonetworks.com，快照 2026-10-21）",
+ "summary": "台湾 Senao Networks 神準科技（上市网络设备 ODM；表内「大口 Switch」；KP Richard Chang（GM）、Bou Lin（President））；表内 2 次跟进无回复。",
+ "type": "台湾上市 ODM（同行）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：senaonetworks.com",
+   "quote": "",
+   "url": "http://senaonetworks.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "大口Switch",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "大口 Switch",
+   "quote": "大口Switch",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "台湾上市 ODM（同行）；c_sub=同行/台湾厂商",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "台湾",
+  "other": "官网 senaonetworks.com，语言 ?，快照状态 ok；角色判定来源：待核"
+ },
+ "business_lines": [
+  "网络设备 ODM（台湾，上市）"
+ ],
+ "channels": {
+  "role": "台湾上市 ODM（同行）",
+  "region": "台湾",
+  "contact": "info@senao.com、richard.chang@senao.com"
+ },
+ "signals": [
+  "表内：大口 Switch；KP Richard Chang GM / Bou Lin President",
+  "快照：内容为空"
+ ],
+ "risks": [
+  "同行/台湾上市 ODM；2 次无回复"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 30,
+  "why": "台湾上市网络 ODM（同行）→ 改 C"
+ },
+ "email_hook": "（不发送：台湾 ODM）"
+}

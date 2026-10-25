@@ -1,174 +1,92 @@
 {
   "code": "SB-1107",
-  "name_official": "",
+  "name_official": "Surya Namberdar（印度；个人）",
   "researched_at": "2026-10-21",
-  "website_status": "在线（cctv-global.co.uk，快照 2026-10-21）",
-  "summary": "英国 CCTV Global London Ltd（CCTV 分销：Hikvision / HiLook / Ajax / EZVIZ / Toshiba / Haydon；站内 Ruijie RG-ES106F-P、RG-POE-50-60W、Hikvision DS-3E1105P-EI、NS-0106P-35 等 PoE 交换机；表内「主要是 CCTV 类产品，卖 Longse 的」；KP Iain McNeil（Director，imcneil@））；群发 9 次无回复。",
-  "type": "安防分销商（伦敦，Hikvision/Ajax 渠道）",
+  "website_status": "无域名（仅表内信息）",
+  "summary": "印度个人联系人，2023-09 收到商用 PoE 价目后要「印度货币价格」，此后无实质进展；无邮箱、无公司。",
+  "type": "",
   "size": "",
-  "brands_seen": [
-    "Ruijie",
-    "Ajax",
-    "Hikvision"
-  ],
+  "brands_seen": [],
   "evidence": [
     {
-      "kind": "官网快照",
-      "claim": "官网标题：CCTV Global London Ltd；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
-      "quote": "CCTV GLOBAL LONDON LTD；Hikvision；HiLook；AJAX；EZVIZ；Toshiba",
-      "url": "https://www.cctv-global.co.uk",
-      "date": "2026-10-21"
-    },
-    {
       "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "主要是CCTV类产品 卖Longse的",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网快照",
-      "claim": "品牌栏：Hikvision / HiLook / AJAX / EZVIZ / Toshiba / HAYDON",
-      "quote": "CCTV GLOBAL LONDON LTD ; Hikvision ; HiLook ; AJAX ; EZVIZ ; Toshiba ; HAYDON",
-      "url": "https://www.cctv-global.co.uk",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "主要 CCTV，卖 Longse",
-      "quote": "主要是CCTV类产品 卖Longse的",
+      "claim": "兴趣：对多功能有兴趣；回复：印度货币价格",
+      "quote": "兴趣：对多功能有兴趣；回复：印度货币价格",
       "url": "（本地 Clients/ 表格，无公开 URL）",
       "date": "2026-10-21"
     }
   ],
-  "kp": [
-    {
-      "name": "Iain McNeil",
-      "title": "Director",
-      "email": "imcneil@cctv-global.co.uk",
-      "phone": "",
-      "source": "用户表"
-    }
-  ],
+  "kp": [],
   "grade_override": null,
   "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
   "deep": {
     "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+    "level": "无域名 · 仅表内信息"
   },
   "company_facts": {
-    "hq": "英国",
-    "other": "官网 cctv-global.co.uk，语言 en，快照状态 ok；角色判定来源：用户表"
+    "legal_name": "（未知）",
+    "founded": "",
+    "hq": "印度",
+    "size": "",
+    "other": "仅手机 09958628209"
   },
-  "business_lines": [
-    "CCTV / 门禁 / 报警分销（Hikvision、HiLook、Ajax、EZVIZ）"
-  ],
   "channels": {
-    "role": "安防分销商（伦敦，Hikvision/Ajax 渠道）",
-    "region": "英国",
-    "contact": "sales@cctv-global.co.uk、imcneil@cctv-global.co.uk"
+    "role": "（未知）",
+    "region": "印度"
   },
-  "signals": [
-    "站内型号 RG-POE-50-60W-MG、NS-0106P-35、NS-0505P-35、RG-ES106F-P、DS-3E1105P-EI",
-    "KP：Iain McNeil / Director（表内）"
-  ],
   "risks": [
-    "Hikvision 渠道分销：PoE 多随摄像机套装走，白牌交换机为补充",
-    "群发 9 次无回复：改向 Director 具名首触"
+    "要 INR 价 = 零售/末端客户特征；无邮箱"
   ],
   "saga_fit": {
     "p1": "STC-28DGGPM",
-    "tier": 20,
-    "why": "在售 Ruijie RG-ES106F-P / Hik DS-3E1105P 等 4–5 口非管理 PoE（$20–35 价带）→ 对价 HRUI STC-204GP（$20.4）/ STC-028GP（$24.2）；管理位 STC-28DGGPM（$80.7 @20%）"
+    "tier": 25,
+    "why": "无明确需求；低优先。"
   },
-  "email_hook": "Iain, next to the Ruijie ES106F-P and Hikvision DS-3E11xx PoE switches you stock, we supply a neutral-brand 8-port PoE+ L2+ switch (2 SFP) and a budget 4/8-port unmanaged PoE line from small lots with UKCA/CE — which price band do your installers buy most, unmanaged or managed?",
-  "products_seen": [
-    {
-      "brand": "Ruijie/Reyee",
-      "model": "RG-ES106F-P",
-      "spec": "6 口百兆 4 PoE 非管理",
-      "saga": "STC-204GP（HRUI 列表价 $20.4，非 SmartByte）",
-      "url": "https://www.cctv-global.co.uk",
-      "date": "2026-10-21"
-    },
-    {
-      "brand": "Hikvision",
-      "model": "DS-3E1105P-EI",
-      "spec": "4 PoE + 1 上联 智能管理",
-      "saga": "STC-204GP（HRUI 列表价 $20.4，非 SmartByte）",
-      "url": "https://www.cctv-global.co.uk",
-      "date": "2026-10-21"
-    }
-  ],
+  "email_hook": "（无邮箱；不主动跟进，待其再询）",
   "mail_review": {
     "binding": {
-      "level": "未触达（A/S 邮箱 25 封 2024→2026，无记录打开，0 回；收件 imcneil@cctv-global.co.uk, sales@cctv-global.co.uk；主题多为「Industrial PoE Switch、10G Enterprise SFP Switch」）；Elsa 1:1 去信 1 封（2025-02-21「Mini Industrial PoE Switch」；To 仅本户 sales@cctv-global.co.uk；Bcc 未逐封读头；同类名单抽读 24 封均无 Bcc；此后再未进 Elsa 任何名单——全箱 `from:e.sagatelecom to:sales@cctv-global.co.uk` 仅此 1 条，complete）（第 74 批(m)）",
-      "type": "安防分销商（伦敦，Hikvision/Ajax 渠道）",
-      "sieve": "1（只收到群发）",
-      "stop": "25 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-      "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
-      "lane": "UK 主攻（四主）",
-      "cadence": "一封",
-      "evidence": "gmail_digest：out 25；用户表：「主要是CCTV类产品 卖Longse的」；研究档 risks：Hikvision 渠道分销：PoE 多随摄像机套装走，白牌交换机为补充；data/gmail_e/elsa_sent_tld_probe_2026-10-25.json（国别后缀探测，该国 Elsa 触达全集 complete:true）"
+      "level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：对多功能有兴趣；回复：印度货币价格」）；Elsa 箱无可查地址（仓内无此户任何邮箱/域名——用户表/WhatsApp/展会名片户，`from:e.sagatelecom to:` 无从下手；Elsa 群发是否碰过他无法判定，不写「未触达」）（第 74 批(o)）",
+      "type": "—",
+      "sieve": "—（未入筛）",
+      "stop": "从未触达",
+      "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+      "lane": "IN 次级（点名）",
+      "cadence": "首封后看打开",
+      "evidence": "gmail_digest：out 0；用户表：「兴趣：对多功能有兴趣；回复：印度货币价格」；研究档 risks：要 INR 价 = 零售/末端客户特征；无邮箱"
     },
-    "situation": "英国 CCTV Global London Ltd（CCTV 分销：Hikvision / HiLook / Ajax / EZVIZ / Toshiba / Haydon；站内 Ruijie RG-ES106F-P、RG-POE-50-60W、Hikvision DS-3E1105P-EI、NS-0106P-35 等 PoE 交换机；表内「主要是 CCTV 类产品，卖 Longse 的」；KP Iain McNeil（Director，imcneil@））；群发 9 次无回复。",
-    "need": "在售 Ruijie RG-ES106F-P / Hik DS-3E1105P 等 4–5 口非管理 PoE（$20–35 价带）→ 对价 HRUI STC-204GP（$20.4）/ STC-028GP（$24.2）；管理位 STC-28DGGPM（$80.7 @20%）",
-    "breakpoint": "Hikvision 渠道分销：PoE 多随摄像机套装走，白牌交换机为补充",
+    "situation": "印度个人联系人，2023-09 收到商用 PoE 价目后要「印度货币价格」，此后无实质进展；无邮箱、无公司。",
+    "need": "无明确需求；低优先。",
+    "breakpoint": "要 INR 价 = 零售/末端客户特征；无邮箱",
     "saga_now": {
       "p1": "STC-28DGGPM",
-      "tier": 20,
-      "price": "换人再触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-22 $220（48 port managed switch）、2024-08-16 $65（10G media converter）；群发里他已看到的价（续）：2026-08-05 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-04-21 $300（48 Port PoE Managed Switch）、2025-09-15 $240（24 Port Fiber Switch）、2025-10-10 $280（10G Enterprise SFP Switch）",
-      "why": "在售 Ruijie RG-ES106F-P / Hik DS-3E1105P 等 4–5 口非管理 PoE（$20–35 价带）→ 对价 HRUI STC-204GP（$20.4）/ STC-028GP（$24.2）；管理位 STC-28DGGPM（$80.7 @20%）",
+      "tier": 25,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "无明确需求；低优先。",
       "repeat": [],
       "gaps": []
     },
     "next_move": {
-      "when": "2027-Q1（换人后）",
-      "channel": "A 邮箱 → 具名 KP",
-      "action": "首封前知悉：Elsa 2025-02 已 1:1 发过「Mini Industrial PoE Switch」给 sales@cctv-global.co.uk（0 回），开头按 ㉝ 带一句「we wrote once in Feb 2025 about X, no reason you'd have replied」，别当完全陌生。 换收件人再发一封（第 75 批(x) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用）；STC-204GP/028GP/2216GPM/08GE 为 HRUI，不写 Marvell）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
-      "one_question": "Iain, next to the Ruijie ES106F-P and Hikvision DS-3E11xx PoE switches you stock, we supply a neutral-brand 8-port PoE+ L2+ switch (2 SFP) and a budget 4/8-port unmanaged PoE line from small lots with UKCA/CE — which price band do your installers buy most, unmanaged or managed? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
+      "when": "不动（无邮箱；待其再询）",
+      "channel": "—",
+      "action": "不主动；若再问「印度货币价格」，答 USD EXW + 印度 FedEx KYC 口径",
+      "one_question": "—"
     },
     "facts": [
-      {
-        "date": "2025-02-21",
-        "dir": "去",
-        "who": "Elsa 1:1 去信（To sales@cctv-global.co.uk）",
-        "quote": "Mini Industrial PoE Switch — MINI DIN unmanaged, 100/1000M auto-adaptive SFP, DIP, PoE optional, support OEM（稿内无价，第 74 批(p) 已读稿）",
-        "why": "Elsa 箱 in:sent 按国别后缀探测（to:.de/.uk/.pl/.cz）命中：2025-02 Elsa 开箱头两周的逐户单发，无称呼；Elsa Replied 线程 0、来询未回清单 0 → 0 回；S/A digest 看不到这封",
-        "k": "elsa_1to1",
-        "msg_id": "195282a0f74370b8"
-      },
-      {
-        "date": "2026-09-08",
-        "dir": "去",
-        "who": "A/S 群发",
-        "quote": "Industrial PoE Switch、10G Enterprise SFP Switch",
-        "why": "25 封 / 0 次打开 / 0 回｜首封 2024-06-24 → 末封 2026-09-08（25 去 / 0 来）",
-        "k": "gmail_digest"
-      },
       {
         "date": "2026-10-21",
         "dir": "用户表",
         "who": "Simon",
-        "quote": "主要是CCTV类产品 卖Longse的",
+        "quote": "兴趣：对多功能有兴趣；回复：印度货币价格",
         "why": "表内备注",
         "k": "用户表"
-      },
-      {
-        "date": "2026-09-08",
-        "dir": "去",
-        "who": "A 箱（Alan）",
-        "quote": "16 Port Industrial PoE Switch",
-        "why": "本日去信真实主题（邮箱索引 faa112bc9cf21fd6；信稿开头句引用此封；此前稿内写的「Industrial PoE Switch」是线程列表首题，不是本封）",
-        "k": "faa112bc9cf21fd6"
       }
     ],
-    "proof_gaps": [],
-    "draft_en": {
-      "subject": "Next to the Ruijie and Hikvision PoE switches you stock - two price bands from small lots",
-      "body": "Hi Iain,\n\nWe wrote to you once in February 2025 about a mini industrial switch, and since then only general product mails - most recently \"16 Port Industrial PoE Switch\" on 8 September 2026 - none of which needed an answer. This one is specific.\n\nNext to the Ruijie RG-ES106F-P and Hikvision DS-3E11xx units you stock, two price bands at distributor price, EXW, MOQ 1, 15-day validity, CE/RoHS/UKCA: budget unmanaged - 4 x Gigabit PoE+ + 2 x Gigabit - model STC-204GP - $24.2 USD; 8 x PoE+ + 2 x Gigabit - STC-028GP - $25.1; managed - 8 x Gigabit PoE+ + 2 x SFP, L2+, Marvell-based - STC-28DGGPM - $80.7. Neutral brand.\n\nOne question: which price band do your installers buy most - unmanaged under 30 dollars, or managed?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
-    },
-    "as_of": "2026-10-25"
+    "proof_gaps": [
+      "无邮件往来",
+      "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-24"
   }
 }

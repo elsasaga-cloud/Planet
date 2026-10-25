@@ -1,143 +1,147 @@
 {
-  "code": "SB-394",
-  "name_official": "CDR Sp. z o.o.（cdr.pl，波兰）",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（cdr.pl，快照 2026-10-21，波兰语）",
-  "summary": "波兰面向 ISP 运营商与家庭用户的网络设备分销商 / 网店（MikroTik、Ubiquiti、D-Link、Huawei、Teltonika、Cisco、Dahua；switch 70 / sfp 85 / poe 49；关联 atte.pl），Magdalena Milej；表内「有一些 switch，销售平台，质量一般」；群发 4 次无回复。",
-  "type": "",
-  "size": "",
-  "brands_seen": [
-    "MikroTik",
-    "Ubiquiti",
-    "D-Link",
-    "Huawei",
-    "Teltonika",
-    "Cisco",
-    "Dahua"
-  ],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "ISP 运营商设备分销商；品牌 MikroTik / Ubiquiti / D-Link / Huawei / Teltonika / Cisco / Dahua；biuro@cdr.pl / biuro@atte.pl",
-      "quote": "CDR - dystrybutor wysokiej jakości sprzętu dla operatorów internetowych i użytkowników domowych… brands MikroTik, Ubiquiti, D-Link, Huawei, Teltonika, Cisco, Dahua",
-      "url": "https://cdr.pl/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "有一些 switch；销售平台；质量一般",
-      "quote": "兴趣：有一些switch;销售平台",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Magdalena Milej",
-      "title": "（表内联系人）",
-      "email": "magdalena@cdr.pl",
-      "phone": "",
-      "source": "（本地 Clients/ 表格，无公开 URL）"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（官网快照核对 + 表内）"
+ "code": "SB-394",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（maxtel.bg，快照 2026-10-21）",
+ "summary": "保加利亚 Maxtel（МАКСТЕЛ：安防、视频监控、门禁、通信与工业 LED 照明产品分销商；Vivotek/Bosch/Milesight；表内「ONV 的工业 FS PoE switch」；KP Evelin Slavev（e.slavev@））；群发 15 次无回复。",
+ "type": "安防/通信分销商（保加利亚，工业 PoE 现 ONV）",
+ "size": "",
+ "brands_seen": [
+  "Vivotek",
+  "Bosch",
+  "Milesight",
+  "ONV"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Начало - Макстел；品类词 安防监控（CCTV / 门禁） / 网络交换 / PoE",
+   "quote": "[:bg]МАКСТЕЛ предлага на своите клиенти богата гама от продукти за сигурност, видеонаблюдение, контрол на достъпа, комуникация и индустриално LED осветление.[:en]MAXTEL offers its customers a wide range of security products, video surveilla",
+   "url": "https://maxtel.bg/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "legal_name": "CDR Sp. z o.o.（待核）",
-    "founded": "",
-    "hq": "Poland",
-    "size": "中小型 ISP 渠道分销 / 网店",
-    "other": "关联 ATTE（atte.pl，波兰 PoE 配件品牌）"
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "ONV的工业FS PoEswitch；e.slavev@maxtel.bg",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "ISP 网络设备分销 / 网店"
-  ],
-  "channels": {
-    "role": "ISP 渠道分销商",
-    "region": "波兰"
+  {
+   "kind": "官网快照",
+   "claim": "Maxtel 定位",
+   "quote": "МАКСТЕЛ предлага на своите клиенти богата гама от продукти за сигурност, видеонаблюдение, контрол на достъпа, комуникация и индустриално LED осветление",
+   "url": "https://maxtel.bg/",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "ISP 渠道 → 2 SFP / 4×10G 上联交换机走量",
-    "关联 ATTE 自有 PoE 配件品牌 → 贴牌习惯"
-  ],
-  "risks": [
-    "多品牌网店价格透明；群发无回复"
-  ],
-  "saga_fit": {
-    "p1": "STC-424XGGM",
-    "tier": 20,
-    "why": "ISP 汇聚 24 GE + 4×10G SFP+ L2+ → STC-424XGGM（$127.4 @20%）；PoE 版 STC-424XGGPM-280W。"
-  },
-  "email_hook": "Magdalena, for your ISP customers — a Marvell L2+ 24-GE + 4×10G SFP+ at $127 EXW (PoE version $181), neutral box, EU-ready CE/RoHS; would a 2-unit trial next to the MikroTik CRS line make sense?",
-  "mail_review": {
-    "binding": {
-      "level": "未触达（A/S 邮箱 15 封 2025→2026，无记录打开，0 回；收件 magdalena@cdr.pl, sales@cdr.pl；主题多为「10G Enterprise SFP Switch、24 Port PoE Managed Switch」）；Elsa 群发 BCC 已触达 2026-09-01「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，PL-2 批次 To j.zaczek@mbs-systems.pl，0 回（第 73 批(o) Bcc 头核对 msg 1a05caee1683faef）",
-      "type": "—",
-      "sieve": "1（只收到群发）",
-      "stop": "15 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-      "revive": "保持季度群发到 2027-Q1；无打开即停",
-      "lane": "PL 次级重点",
-      "cadence": "季度",
-      "evidence": "gmail_digest：out 15；用户表：「兴趣：有一些switch;销售平台」；研究档 risks：多品牌网店价格透明；群发无回复；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To j.zaczek@mbs-systems.pl）2025-04-03→2026-09-01 共 11 轮群发（L3 Managed Switch、Industrial PoE Switch、Commercial Network Switch、16 Port Ethernet Switch、8 Port Industrial PoE Switch、Mini Industrial PoE Switch、10G Enterprise SFP Switch、OEM Core Switching Solution、Updated Ethernet Switches Links、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断"
-    },
-    "situation": "波兰面向 ISP 运营商与家庭用户的网络设备分销商 / 网店（MikroTik、Ubiquiti、D-Link、Huawei、Teltonika、Cisco、Dahua；switch 70 / sfp 85 / poe 49；关联 atte.pl），Magdalena Milej；表内「有一些 switch，销售平台，质量一般」；群发 4 次无回复。",
-    "need": "ISP 汇聚 24 GE + 4×10G SFP+ L2+ → STC-424XGGM（$127.4 @20%）；PoE 版 STC-424XGGPM-280W。",
-    "breakpoint": "多品牌网店价格透明；群发无回复",
-    "saga_now": {
-      "p1": "STC-424XGGM",
-      "tier": 20,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-10-06 $180（24 Port PoE Managed Switch = STC-424XGGPM-280W，Alan 2026-09-21 起的现价轮）——同款信稿只能写 $180；群发里他已看到的价（续）：2026-08-19 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-23 $280（10G Enterprise SFP Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-09-01 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-01；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
-      "why": "ISP 汇聚 24 GE + 4×10G SFP+ L2+ → STC-424XGGM（$127.4 @20%）；PoE 版 STC-424XGGPM-280W。",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "群发节奏",
-      "channel": "A 邮箱",
-      "action": "观察打开",
-      "one_question": "Magdalena, for your ISP customers — a Marvell L2+ 24-GE + 4×10G SFP+ at $127 EXW (PoE version $181), neutral box, EU-ready CE/RoHS; would a 2-unit trial next to the MikroTik CRS line make sense?"
-    },
-    "facts": [
-      {
-        "date": "2025-04-03",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To j.zaczek@mbs-systems.pl，PL-2 批次）",
-        "quote": "L3 Managed Switch — This is a Marvell-based L3 Managed 24 port DIN PoE Switch. 1, PoE af/at/bt, 370W budget, max 60℃ 2, Support DI/DO/RS485, USB, Alarm 3, Customizable We",
-        "why": "Elsa 箱群发 BCC 触达证据（命中地址 biuro@cdr.pl, cdr.pl）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-        "k": "elsa_bcc"
-      },
-      {
-        "date": "2026-09-01",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To j.zaczek@mbs-systems.pl，PL-2 批次）",
-        "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
-        "why": "Elsa 箱群发 BCC 触达证据（命中地址 biuro@cdr.pl, cdr.pl）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-        "k": "elsa_bcc"
-      },
-      {
-        "date": "2026-10-06",
-        "dir": "去",
-        "who": "A/S 群发",
-        "quote": "10G Enterprise SFP Switch、24 Port PoE Managed Switch",
-        "why": "15 封 / 0 次打开 / 0 回｜首封 2025-07-17 → 末封 2026-10-06（15 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "兴趣：有一些switch;销售平台",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-25"
+  {
+   "kind": "用户表",
+   "claim": "ONV 工业 FS PoE switch",
+   "quote": "ONV的工业FS PoEswitch",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Evelin Slavev",
+   "title": "（职务待核）",
+   "email": "e.slavev@maxtel.bg",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "保加利亚",
+  "other": "官网 maxtel.bg，语言 bg-BG，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "安防 / 视频监控 / 门禁 / 通信 / 工业 LED 分销（保加利亚）"
+ ],
+ "channels": {
+  "role": "安防/通信分销商（保加利亚，工业 PoE 现 ONV）",
+  "region": "保加利亚",
+  "contact": "info@maxtel.bg、varna@maxtel.bg"
+ },
+ "signals": [
+  "官网：MAXTEL offers its customers a wide range of products for security, video surveillance, access control, communication and industrial LED lighting；brands Vivotek / Bosch / Milesight",
+  "表内：ONV 的工业 FS PoE switch；KP Evelin Slavev（e.slavev@maxtel.bg）"
+ ],
+ "risks": [
+  "小国（保加利亚，非主动开拓区）；现供 ONV 价格基准低；15 次无回复 → 改向 Evelin 具名首触"
+ ],
+ "saga_fit": {
+  "p1": "STI-288GP",
+  "tier": 20,
+  "why": "工业 PoE（现 ONV）→ 工业 8 PoE + 2 SFP 非管理 STI-288GP（$57.4 @20%）/ 管理 STI-288GPM（$78.9）；室内 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7）"
+ },
+ "email_hook": "Evelin, alongside the ONV industrial PoE switches you carry, we supply neutral-brand DIN-rail 8-PoE + 2 SFP (managed on Marvell L2+, or unmanaged) and 8-PoE + 2 SFP L2+ commercial switches from small lots, CE/RoHS, EXW USD — which industrial PoE SKU do your installers order most?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 23 封 2024→2026，1 次记录打开，0 回；收件 e.slavev@maxtel.bg, info@maxtel.bg；主题多为「Industrial PoE Switch、10G L3 Managed Switch」；Elsa 箱：`to:maxtel.bg` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 23 / 来 0）（第 74 批(k)））",
+   "type": "安防/通信分销商（保加利亚，工业 PoE 现 ONV）",
+   "sieve": "1~2（1 次打开）",
+   "stop": "23 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+   "lane": "保加利亚（欧洲全域主攻）",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 23，Opened 标签 1（Simon 群发追踪）；用户表：「ONV的工业FS PoEswitch；e.slavev@maxtel.bg」；研究档 risks：小国（保加利亚，非主动开拓区）；现供 ONV 价格基准低；15 次无回复 → 改向 Evelin 具名首触"
+  },
+  "situation": "保加利亚 Maxtel（МАКСТЕЛ：安防、视频监控、门禁、通信与工业 LED 照明产品分销商；Vivotek/Bosch/Milesight；表内「ONV 的工业 FS PoE switch」；KP Evelin Slavev（e.slavev@））；群发 15 次无回复。",
+  "need": "工业 PoE（现 ONV）→ 工业 8 PoE + 2 SFP 非管理 STI-288GP（$57.4 @20%）/ 管理 STI-288GPM（$78.9）；室内 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7）",
+  "breakpoint": "小国（保加利亚，非主动开拓区）；现供 ONV 价格基准低；15 次无回复 → 改向 Evelin 具名首触",
+  "saga_now": {
+   "p1": "STI-288GP",
+   "tier": 20,
+   "price": "换人再触锚价 STI-288GP $60 EXW（最近实报 $60（SB-034 2025-03-18；SB-1102 / SB-010 同价）（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-27 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-10-22 $65（10G Media Converter）、2025-07-30 $300（48 Port PoE Managed Switch）、2025-10-07 $280（10G Enterprise SFP Switch）",
+   "why": "工业 PoE（现 ONV）→ 工业 8 PoE + 2 SFP 非管理 STI-288GP（$57.4 @20%）/ 管理 STI-288GPM（$78.9）；室内 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7）。已打开的主题（1/23 封有打开记录）：「10G Media Converter」(2024-10-22) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1（换人后）",
+   "channel": "A 邮箱 → 具名 KP",
+   "action": "换收件人再发一封（第 75 批(af) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
+   "one_question": "Evelin, alongside the ONV industrial PoE switches you carry, we supply neutral-brand DIN-rail 8-PoE + 2 SFP (managed on Marvell L2+, or unmanaged) and 8-PoE + 2 SFP L2+ commercial switches from small lots, CE/RoHS, EXW USD — which industrial PoE SKU do your installers order most? Reference: STI-288GP at $60 USD EXW (MOQ 1, 15-day validity)."
+  },
+  "facts": [
+   {
+    "date": "2026-09-10",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Industrial PoE Switch、10G L3 Managed Switch",
+    "why": "23 封 / 1 次打开 / 0 回｜首封 2024-07-08 → 末封 2026-09-10（23 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "ONV的工业FS PoEswitch；e.slavev@maxtel.bg",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026-09-10",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "16 Port Industrial PoE Switch",
+    "why": "本日去信真实主题（邮箱索引 35c9bac02d8024f8；信稿开头句引用此封；此前稿内写的「Industrial PoE Switch」是线程列表首题，不是本封）",
+    "k": "35c9bac02d8024f8"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": {
+   "subject": "Alongside the ONV industrial PoE switches you carry - three neutral-brand numbers",
+   "body": "Hi Evelin,\n\nOver the past months you had a few product mails from us - most recently \"16 Port Industrial PoE Switch\" on 10 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nAlongside the ONV industrial PoE switches you carry, neutral-brand units at distributor price, EXW, MOQ 1, 15-day validity, CE/RoHS: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, unmanaged, -40 to 75 C - model STI-288GP - $60 USD; the same L2 managed, Marvell-based - STI-288GPM - $78.9; commercial 8 x PoE+ + 2 x SFP, L2+ managed - STC-28DGGPM - $80.7.\n\nOne question: which industrial PoE SKU do your installers order most - managed or unmanaged?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+  },
+  "as_of": "2026-10-24"
+ }
 }

@@ -1,132 +1,214 @@
 {
-  "code": "SA-022",
-  "name_official": "Abdulaziz Al Jowasem（个人名，沙特；公司名/域名未知）",
-  "website_status": "无法核实（用户表仅有人名与手机号，无公司名/域名）",
-  "summary": "用户表：谈合作，看了中科德能的工业 FS 和金升阳的工业电源；WhatsApp 已加，1 次实质回复，20 次推送。无公司实体信息，网页调研无从下手。",
-  "type": "未知（疑为个体贸易/集成）",
-  "size": "未知",
-  "brands_seen": [
-    "中科德能",
-    "金升阳（MORNSUN）"
-  ],
-  "evidence": [
-    {
-      "kind": "用户表",
-      "claim": "仅有个人名 + 手机，无公司",
-      "quote": "Abdulaziz Al Jowasem · 966 5036 69457 已加 · 谈合作，看了中科德能的工业FS还有金升阳的工业电源",
-      "url": "Clients/A/DONE/阿联酋 沙特阿拉伯  2.3.xlsx",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "谈合作；看过中科德能工业 FS + 金升阳工业电源；WA 已加",
-      "quote": "谈合作，看了中科德能的工业FS还有金升阳的工业电源 / 966 5036 69457 已加",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "grade_override": "B",
-  "override_reason": "无公司实体可核实（无域名/邮箱），无法判断体量与渠道属性；WhatsApp 在手可慢跟，先问清公司名与网站再定级。",
-  "notes": "下一步只问一句：Which company are you with, and do you have a website? 回答后补 research 再评。",
-  "researched_at": "2026-10-21",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（基于首轮调研整理 + 需求映射；无公司主体）"
+ "code": "SA-022",
+ "name_official": "AddOn Networks / Add-On Computer Peripherals（Tustin/Irvine, CA）",
+ "website_status": "在线",
+ "summary": "美国加州的兼容光模块与高速线缆独立制造商（1999 年起），自称全球最大独立光模块制造商，250+ 员工，产品线含 MC（含 10G、串口转光纤）、复用器、光纤配件；在自有实验室编码/测试。用户表：买了 6 台 MC 样品，嫌交期长；联系人 Matt McCormick（matt@addoncomputer.com，用户表原值），WhatsApp 已加。",
+ "type": "品牌商/制造商（兼容光模块；MC 等外采贴牌）",
+ "size": "250+ 员工（官网）",
+ "brands_seen": [
+  "AddOn"
+ ],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "定位与规模",
+   "quote": "We have grown to be the world's largest independent manufacturer of optical transceivers and high speed cabling. With global headquarters in Tustin, California, we're proud to employ more than 250 team members worldwide.",
+   "url": "https://www.addoncomputer.com/aboutus",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "legal_name": "（个人名；公司待核）",
-    "hq": "沙特阿拉伯（+966 50 366 9457）",
-    "size": "待核",
-    "other": "WhatsApp 已加；1 次实质回复；20 次推送"
+  {
+   "kind": "官网",
+   "claim": "产品线含 MC 等网络配件",
+   "quote": "High quality transceivers, patch cables, media converters, & fiber connectivity solutions from 1999. · Network Accessories Multiplexers, media converters, fiber adapters, PCI cards",
+   "url": "https://www.addoncomputer.com/",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "（待核）安防/工业网络采购或贸易"
-  ],
-  "channels": {
-    "WhatsApp": "+966 50 366 9457（用户表，已加）"
+  {
+   "kind": "官网",
+   "claim": "ADD-GMC-SFP 千兆 RJ45→SFP MC 在售，多地库存，经 Ingram/TD Synnex",
+   "quote": "10/100/1000Base-TX(RJ-45) to Open SFP Port Media Converter SKU: ADD-GMC-SFP Belgium: 71 in stock … North America: 50 in stock … Available from the following dealers: Ingram Micro® … TD Synnex US",
+   "url": "https://www.addonnetworks.com/products/media-converters/industry-standard/add-gmc-sfp",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "谈合作并看过中科德能工业光纤交换机 + 金升阳（MORNSUN）工业电源 → 工业 DIN 机 + 电源组合需求",
-    "1 次实质回复后 19 次推送无回应 → 换问题式短消息"
-  ],
-  "risks": [
-    "无公司主体与邮箱；中东非主攻区；沙特清关需 SABER/SASO（按个案）"
-  ],
-  "saga_fit": {
-    "p1": "STI-288GP",
-    "tier": 25,
-    "why": "默认 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，$59.8）对应其看过的工业 FS；配 48 V DIN 电源（SmartByte 配件另询）；管理型 STI-288DGGPM（$137.5）"
-  },
-  "email_hook": "Abdulaziz, picking up our WhatsApp thread: the DIN-rail 8× GbE PoE+ + 2× SFP industrial switch you looked at is $59.8 EXW (managed version $137.5), with a matching 48 V DIN power supply — what is the project it is for, so I can send the right pair?",
-  "mail_review": {
-    "binding": {
-      "level": "轻度触达（邮件无证，WhatsApp/WeChat 已加）：用户表「Abdulaziz Al Jowasem · 966 5036 69457 已加 · 谈合作，看了中科德能的工业FS还有金升阳的工业电源」；S/A 邮箱 0 封；Elsa 箱无可查地址（仓内无此户任何邮箱/域名——用户表/WhatsApp/展会名片户，`from:e.sagatelecom to:` 无从下手；Elsa 群发是否碰过他无法判定，不写「未触达」）（第 74 批(o)）",
-      "type": "未知（疑为个体贸易/集成）",
-      "sieve": "3（已加 WhatsApp，表内有往来）",
-      "stop": "仓库只有用户表一行；往来在 Simon 手机",
-      "revive": "首封邮件（A 邮箱，按 email_hook）+ WhatsApp 一句话",
-      "lane": "沙特阿拉伯 非主攻",
-      "cadence": "一封",
-      "evidence": "gmail_digest：out 0；用户表：「Abdulaziz Al Jowasem · 966 5036 69457 已加 · 谈合作，看了中科德能的工业FS还有金升阳的工业电源」；研究档 risks：无公司主体与邮箱；中东非主攻区；沙特清关需 SABER/SASO（按个案）"
-    },
-    "situation": "用户表：谈合作，看了中科德能的工业 FS 和金升阳的工业电源；WhatsApp 已加，1 次实质回复，20 次推送。无公司实体信息，网页调研无从下手。",
-    "need": "默认 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，$59.8）对应其看过的工业 FS；配 48 V DIN 电源（SmartByte 配件另询）；管理型 STI-288DGGPM（$137.5）",
-    "breakpoint": "无公司主体与邮箱；中东非主攻区；沙特清关需 SABER/SASO（按个案）",
-    "saga_now": {
-      "p1": "STI-288GP",
-      "tier": 25,
-      "price": "按主表（研究档 saga_fit）；**封顶**：STI-288DGGPM 25% 档 $145.7 高于 2026-06-22 自家列表价 $137.5，信稿按 $137.5 写（规则 ㉔：档位价不得高于自家公开列表价）（㉕ 封顶：STI-288DGGPM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25）",
-      "why": "默认 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，$59.8）对应其看过的工业 FS；配 48 V DIN 电源（SmartByte 配件另询）；管理型 STI-288DGGPM（$137.5）",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "2026-11（Simon）",
-      "channel": "A 邮箱首封 + WhatsApp（Simon）",
-      "action": "首封 + 一句话",
-      "one_question": "Abdulaziz, picking up our WhatsApp thread: the DIN-rail 8× GbE PoE+ + 2× SFP industrial switch you looked at is $59.8 EXW (managed version $137.5), with a matching 48 V DIN power supply — what is the project it is for, so I can send the right pair?"
-    },
-    "facts": [
-      {
-        "date": "2024-03-28",
-        "dir": "来",
-        "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
-        "quote": "用户表跟进：推「介绍自己 发了产品图确认需求」→ 对方「price」",
-        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
-        "k": "Clients/A/DONE/阿联酋 沙特阿拉伯  2.3.xlsx no.10 2024.3.28"
-      },
-      {
-        "date": "2024-04-22",
-        "dir": "来",
-        "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
-        "quote": "用户表跟进：推「发了2光4小壳信息」→ 对方「买了别家的」",
-        "why": "Simon 跟进表里的回应记录（邮箱看不到的渠道）；按原文留存",
-        "k": "Clients/A/DONE/阿联酋 沙特阿拉伯  2.3.xlsx no.10 2024.4.22"
-      },
-      {
-        "date": "2024-07-16",
-        "dir": "来",
-        "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
-        "quote": "用户表跟进：推「passive poe手册」→ 对方「暂时没需求」",
-        "why": "Simon 跟进表里的**婉拒/无需求**记录——这是 stop 原因的直接证据，节奏按「不动，等他开口」",
-        "k": "Clients/A/DONE/阿联酋 沙特阿拉伯  2.3.xlsx no.10 2024.7.16"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "Abdulaziz Al Jowasem · 966 5036 69457 已加 · 谈合作，看了中科德能的工业FS还有金升阳的工业电源",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [
-      "WhatsApp 往来未入库"
-    ],
-    "draft_en": {
-      "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
-      "body": "Abdulaziz, picking up our WhatsApp thread: the DIN-rail 8× GbE PoE+ + 2× SFP industrial switch you looked at is $59.8 EXW (managed version $137.5), with a matching 48 V DIN power supply — what is the project it is for, so I can send the right pair?"
-    },
-    "as_of": "2026-10-24"
+  {
+   "kind": "官网",
+   "claim": "ADD-MC-PRO-1000AS-SFP 标注 TAA Compliant: No / Country Of Origin: Varies",
+   "quote": "Country Of Origin · Varies … TAA Compliant · No … AddOn Part# · ADD-MC-PRO-1000AS-SFP",
+   "url": "https://www.addonnetworks.com/products/media-converters/industry-standard/add-mc-pro-1000as-sfp",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Matt McCormick",
+   "role": "采购/产品联系人（用户表原值）",
+   "email": "matt@addoncomputer.com",
+   "phone": "+1 949-735-4119（WhatsApp 已加）",
+   "source": "Clients/A/DONE/US.xlsx"
+  },
+  {
+   "name": "Anthony Giunta",
+   "role": "收件人（A 邮箱 2026 年 5 封群发的收件地址；从未回信；职务未核）",
+   "email": "anthony.giunta@addonnetworks.com",
+   "phone": "",
+   "source": "A 邮箱发件表头"
+  },
+  {
+   "name": "Tyler Griffey",
+   "role": "收件人（A 邮箱 2026 年 5 封群发的收件地址；从未回信；职务未核）",
+   "email": "tyler.griffey@addonnetworks.com",
+   "phone": "",
+   "source": "A 邮箱发件表头"
+  }
+ ],
+ "notes": "A 确认（已买样 + 具名 KP + 自有品牌 MC 线）；痛点是交期——下次跟进直接给「常备库存型号 + 10–15 天交期承诺」。体量大于 Saga 常规客户，但 MC 贴牌决策链短。P1 = STI-110GE（MC）。",
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "深挖 v1"
+ },
+ "company_facts": {
+  "legal_name": "AddOn Networks（Add-On Computer Peripherals, LLC）",
+  "founded": "1999",
+  "hq": "Tustin/Irvine, California, USA（另有 UK、Belgium 仓）",
+  "staff": "250+（官网）",
+  "other": "自称全球最大独立光模块制造商；MC 产品线通过 Ingram Micro / TD Synnex / Insight 分销，各型号标注三地库存"
+ },
+ "business_lines": [
+  "兼容光模块 / DAC / AOC",
+  "媒体转换器（商用、工业、PoE、管理型）",
+  "光纤配件与复用器"
+ ],
+ "products_seen": [
+  {
+   "brand": "AddOn",
+   "model": "ADD-GMC-SFP",
+   "spec": "10/100/1000Base-TX(RJ-45) → 开放 SFP 口 MC，非管理；北美/比利时有库存",
+   "url": "https://www.addonnetworks.com/products/media-converters/industry-standard/add-gmc-sfp",
+   "date": "2026-10-21",
+   "saga": "STI-110GE"
+  },
+  {
+   "brand": "AddOn",
+   "model": "ADD-MGMC-SFP",
+   "spec": "千兆 RJ45→SFP 管理型 MC，120V AC 供电，北美 129 台库存",
+   "url": "https://www.addonnetworks.com/products/media-converters/industry-standard/add-mgmc-sfp",
+   "date": "2026-10-21",
+   "saga": "STI-110GE（管理型待核）"
+  },
+  {
+   "brand": "AddOn",
+   "model": "ADD-IGMCMN-SFP / ADD-IMGMC-SFP / ADD-IGMC-SFP-POE+",
+   "spec": "工业 Mini MC / 工业管理 MC / 工业 PoE+ MC（RJ45→SFP）",
+   "url": "https://www.addonnetworks.com/products/media-converters/industry-standard/add-igmcmn-sfp",
+   "date": "2026-10-21",
+   "saga": "STI-110GE（工业 MC 对位待核）"
+  },
+  {
+   "brand": "AddOn",
+   "model": "ADD-MC-PRO-1000AS-SFP",
+   "spec": "千兆 RJ45→SFP MC，5V DC，TAA Compliant: No，原产地 Varies",
+   "url": "https://www.addonnetworks.com/products/media-converters/industry-standard/add-mc-pro-1000as-sfp",
+   "date": "2026-10-21",
+   "saga": "STI-110GE"
+  }
+ ],
+ "channels": {
+  "网站": "https://www.addonnetworks.com/",
+  "直邮": "matt@addoncomputer.com（Matt McCormick，用户表，WhatsApp 已加）/ anthony.giunta@addonnetworks.com（Director of Distribution, Channel Sales）",
+  "分销": "Ingram Micro / TD Synnex / Insight（其下游）"
+ },
+ "signals": [
+  "官网 MC 型号页公开标注 TAA Compliant: No 与 Country Of Origin: Varies——其 MC 本就是外采贴牌，非 TAA 产品线（https://www.addonnetworks.com/…/add-mc-pro-1000as-sfp 2026-10-21）",
+  "用户表：买了 6 台 MC 样品，嫌交期长 → 交期是成交关键"
+ ],
+ "risks": [
+  "大买家、对交期/一致性/返修率要求高；6 台样品后未放量，原因=交期",
+  "Saga 的 MC 来自 SmartByte（STI-110GE 等），需先确认批量交期承诺（10–15 天 MOQ 以上）再报"
+ ],
+ "saga_fit": {
+  "p1": "STI-110GE",
+  "tier": 30,
+  "why": "AddOn MC 全线为 RJ45→SFP 贴牌外采：ADD-GMC-SFP 对位 STI-110GE（千兆 MC），工业/管理/PoE 变体需向 SmartByte 核对应型号；OEM 贴牌 30% 档，但量大可谈"
+ },
+ "email_hook": "On the ADD-GMC-SFP class gigabit converter we can now commit a firm 10–15 day lead time from order for the first 200 units, which was the point that stalled things after the six samples.",
+ "mail_review": {
+  "binding": {
+   "level": "未绑定（邮件 33 封 0 回、Opened 0；用户表「已买样 + 具名 KP」无 PI；Elsa 箱：`to:addonnetworks.com OR to:addoncomputer.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 33 / 来 0）（第 74 批(g)））",
+   "type": "美国兼容光模块品牌（AddOn Networks，4 个收件人）——体量大于 Saga 常规客户",
+   "sieve": "0（邮件层无人工回复）",
+   "stop": "33 封 0 打开",
+   "revive": "交期承诺（用户表痛点）",
+   "lane": "US",
+   "cadence": "不加频",
+   "evidence": "邮件：去信 33 封（2025-04-02 → 2026-08-31），来信 0；Opened 标签 0 次；收件人 anthony.giunta@addonnetworks.com, matt@addoncomputer.com, sales@addonnetworks.com, tyler.griffey@addonnetworks.com"
+  },
+  "situation": "两年 33 封零打开——企业邮箱可能拦截 Gmail 群发。",
+  "need": "MC 自有品牌线补源，交期敏感。",
+  "breakpoint": "触达无效。",
+  "saga_now": {
+   "p1": "STI-110GE",
+   "tier": 30,
+   "price": "锚价：STI-110GE $26.5（最近实报）（第 72 批 2026-10-24）；—；群发里他已看到的价（续）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-04-02 $65（10G Media Converter）、2025-05-29 $300（48 Port PoE Managed Switch）、2025-09-24 $280（10G Enterprise SFP Switch）",
+   "why": "MC 自有品牌线补源、交期敏感 → 先拿最常用的千兆 SFP 转换器压交期",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）",
+   "channel": "A 邮箱 → matt@addoncomputer.com",
+   "action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(o) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用；换人/一问口径）；「200 台 10–15 天」是对外承诺，发前 Simon 自己确认交期）（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
+   "one_question": "On the ADD-GMC-SFP class gigabit converter we can now commit a firm 10–15 day lead time from order for the first 200 units, which was the point that stalled things after the six samples. Is the gigabit SFP converter still sourced externally, and shall I hold that lead time with a current EXW quote? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
+  },
+  "facts": [
+   {
+    "date": "2025-04-02",
+    "dir": "去",
+    "who": "Saga（Alan）",
+    "quote": "「90W PoE Managed Switch」——对 sales@addonnetworks.com 的第 1 封",
+    "why": "33 封分发到 4 个地址（sales@ 13 / matt@addoncomputer.com 15 / anthony.giunta@ 5 / tyler.griffey@ 5），0 回",
+    "k": "d4c6d5fe4ffb46a9"
+   },
+   {
+    "date": "2025-04-02",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "90W PoE Managed Switch",
+    "why": "首封去信（邮箱索引；去信共 33 封）",
+    "k": "d4c6d5fe4ffb46a9"
+   },
+   {
+    "date": "2025-04-02",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "10G Media Converter｜稿内价 $65",
+    "why": "去信正文含价（邮箱索引）",
+    "k": "40ee0efb805e335c"
+   },
+   {
+    "date": "2026-08-31",
+    "dir": "去",
+    "who": "Saga（Alan）",
+    "quote": "「24 Port PoE Managed Switch」——最后一封，发 anthony.giunta@ + tyler.griffey@",
+    "why": "AddOn 是光模块/线缆大厂，群发主题（24 口 PoE）与其 MC 补源需求不对口 → 下一封只谈 SFP 转换器交期",
+    "k": "9a4cd7f8c26980fe"
+   },
+   {
+    "date": "2026-08-31",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "24 Port PoE Managed Switch",
+    "why": "最近一封去信（邮箱索引；去信共 33 封）",
+    "k": "9a4cd7f8c26980fe"
+   }
+  ],
+  "proof_gaps": [
+   "「已买样」无 PI"
+  ],
+  "draft_en": {
+   "subject": "The ADD-GMC-SFP class converter - lead time, which was the issue after the six samples",
+   "body": "Hi Matt,\n\nYou took six media-converter samples from us and the lead time was the problem; the mails since were general product mails - no reason to answer those.\n\nOn the gigabit SFP-slot converter (ADD-GMC-SFP class): DIN-rail or desktop, 1 x RJ45 + 1 x SFP, -40 to 75 C, FCC/CE/RoHS - model STI-110GE - $26.5 USD EXW (MOQ 1, 15-day validity), in your packing from small lots. For a first 200 units I can commit 10-15 days from order to ex-works; please hold me to it.\n\nOne question: is the converter line still sourced in, and at what monthly quantity?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+  },
+  "as_of": "2026-10-24"
+ }
 }

@@ -1,0 +1,16 @@
+# SB-368 welotec.com · youtube · https://www.youtube.com/user/welotecgmbh · fetched 2026-10-25T07:41:18Z · HTTP 200
+2026-09-07T09:03:07+00:00	One year. One team. #welotec #westermo #networking #computing	https://www.youtube.com/shorts/xzNefuao52M
+2026-08-25T08:48:42+00:00	Integration eigener Anwendungen in ein bestehendes System im Maschinenbau #opensource #extension	https://www.youtube.com/shorts/kLdLZFmjioE
+2026-08-18T08:00:10+00:00	Von der Cloud bis in die Steuerung im Maschinenbau #opensource #maschinenbau #command	https://www.youtube.com/shorts/nvpIboMfFbA
+2026-08-17T07:59:13+00:00	Steuerung im Maschinenbau über einen Container #opensource #sealman #geagroup #sps	https://www.youtube.com/shorts/GRrTRFDKhi8
+2026-08-04T06:06:39+00:00	Open Source Software für industrielle Konnektivität #opensource #sealman #geagroup #sps	https://www.youtube.com/shorts/cOl_sAmXHHU
+2026-07-23T11:37:00+00:00	Meet Welotec x Westermo at CIGRE Paris Session 2026 #cigre #substation #iec61850-3 #ieee1613 #paris	https://www.youtube.com/shorts/bselejgc188
+2026-07-15T09:49:16+00:00	CRA is an opportunity for industrial manufacturers #cra #cybersecurity #nis2 #cyberresilience	https://www.youtube.com/shorts/kqTZ61dkT3w
+2026-05-07T11:59:04+00:00	TPM und Secure Boot #tpm #secureboot #cybersecurity	https://www.youtube.com/shorts/xOD77vuDQ1Y
+2026-05-05T09:12:06+00:00	Niedrige Frequenzen - größere Reichweite #router #antenne #450mhz #frequenz	https://www.youtube.com/shorts/Ue_QFOAhRTg
+2026-04-30T09:17:16+00:00	Das 450 MHz-Netz ist ein globaler Trend #450mhz #450connect #energieversorger	https://www.youtube.com/shorts/D-ppmbZuk6w
+2026-04-28T07:30:20+00:00	Digital substations have more data, not less #substation #data #digital #powergrid	https://www.youtube.com/shorts/OxoaxZamSdc
+2026-04-09T07:14:51+00:00	From copper wiring to fiber communication #digitization #substation #fiber	https://www.youtube.com/shorts/8nDHB7LeEzE
+2026-04-02T07:34:16+00:00	Digitalization in substations is no longer optional #digitization #substations #vpac	https://www.youtube.com/shorts/3SgzV7hlwJ0
+2026-03-27T11:24:34+00:00	The Power Grid Is Changing Faster Than Ever	https://www.youtube.com/shorts/mXx-Uoo7_qs
+2026-02-16T09:15:05+00:00	Rugged Substation Automation Virtualization Platform - One platform. Three perspectives. One day.	https://www.youtube.com/shorts/ZniHhNamGAY

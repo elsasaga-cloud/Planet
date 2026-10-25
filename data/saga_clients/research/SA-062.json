@@ -1,124 +1,222 @@
 {
  "code": "SA-062",
- "name_official": "AETEK Inc.（台湾）",
- "researched_at": "2026-10-21",
- "website_status": "在线（aetektec.com，快照 2026-10-21）",
- "summary": "台湾 PoE 专业品牌（专利天花板 PoE 方案、L2 PRO PoE 交换机、EPoX 延长、PoE 注入 / 分离 / 浪涌、备援 PoE 柜；PoE 词频 231；Hanwha / Axis 生态），John Chen 面谈：有时需要便宜方案可找 Saga、可能他们出软件 Saga 出硬件、推了 2 光 10 电，他们有很多 BT 产品与配件；8 次跟进无实质回复。台湾厂商口径：按继承规则台系品牌商不是「渠道客户」，但作为 OEM/贴牌采购方可按 OEM 30% 档跟进。",
- "type": "",
- "size": "",
+ "name_official": "Intelligent Professional Network Solution LLC（IPNS，阿布扎比，阿联酋）",
+ "website_status": "在线",
+ "summary": "阿布扎比 ISO 9001:2015 系统集成商（2010 年成立，ADMCC 认证 CCTV 集成商），业务覆盖 CCTV、光纤网络、门禁、无线、PBX、结构化布线、智能家居；ISAF 2025 参展商，现场介绍 2 光 10 电，其工业交换机采自 N-Net、商业级从深圳采购并刷自有 logo（用户记录）；邮件 0 回复 / 11 次，有 WA 号码。",
+ "type": "系统集成商（兼自有 logo 贴牌采购）",
+ "size": "小型（待补证）",
  "brands_seen": [
-  "Hanwha",
-  "Axis"
+  "N-Net（用户记录：工业交换机在用）",
+  "Avaya",
+  "Cisco",
+  "Camtron",
+  "ZKTeco"
  ],
  "evidence": [
   {
-   "kind": "官网快照",
-   "claim": "PoE 交换机、EPoX 系列、PoE 延长 / 注入 / MC / 浪涌 / 分离、备援 PoE 柜、摄像机护罩；+886 2 8245 2822；poe 231 / media converter 22",
-   "quote": "PoE Switch EPoX Series PoE Extender PoE Injector Media Converter PoE Surge Protector PoE Splitter Backup PoE Cabinet Camera Housing… Patent-awarded Ceiling PoE Solution… L2 PRO PoE Switches",
-   "url": "https://www.aetektec.com/",
+   "kind": "官网",
+   "claim": "2010 年成立的 ISO 9001:2015 集成商，电信/IT/安防/网络端到端方案；ADMCC 认证 CCTV 集成商",
+   "quote": "IPNS, ISO Certified 9001:2015 UAE based Solutions Consulting System Integration Company established in 2010… ADMCC APPROVED COMPANY – MCC CERTIFIED CCTV INTEGRATOR – ABU DHABI",
+   "url": "https://ipns-uae.com/",
    "date": "2026-10-21"
   },
   {
-   "kind": "用户表",
-   "claim": "Simon 之前联系过，面谈：有时需要便宜方案可以找我们拿；可能他们提供软件让我们提供硬件；推了 2 光 10 电；有很多 BT 产品及配件，可能有机会下单",
-   "quote": "兴趣：… 1，有时他们需要便宜方案可以找我们拿 2，可能会他们提供软件让我们提供硬件 3，推了2光10电，他们有很多BT产品以及配件",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "kind": "官网",
+   "claim": "直接供应 CCTV/IP 摄像机与配件，并有服务器/防火墙方案",
+   "quote": "IPNS is a direct supplier of security cameras (CCTV, network IP, and HD-SDI), video surveillance systems, and CCTV equipment… for home, business and government",
+   "url": "https://ipns-uae.com/products/",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "黄页",
+   "claim": "代理品牌含 Avaya、Camtron、Cisco、Plantronics、Polycom",
+   "quote": "Brands: AVAYA… CAMTRON Advanced CCTV System… CISCO Cisco Networking Accessories",
+   "url": "https://www.reachuae.com/abu-dhabi/ipns-intelligent-professional-network-solutions-abu-dhabi-l4564",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "公司资质、业务与地址",
+   "quote": "IPNS, ISO Certified 9001:2015 UAE based Solutions Consulting System Integration Company established in 2010 … ADMCC approved cctv provider abhu dhabi … P.O Box 126814 M8, Al Haram & Al Masy Building ,Near HSBC BANK Airport Road, Abu Dhabi, UAE",
+   "url": "https://ipns-uae.com/",
+   "date": "2025-01-06"
+  },
+  {
+   "kind": "官网",
+   "claim": "电话与邮箱",
+   "quote": "Call us today at +97124910731 / +971559835897 Email us at: info@ipns-uae.com",
+   "url": "https://ipns-uae.com/contactus/",
+   "date": "2025-01-06"
+  },
+  {
+   "kind": "官网",
+   "claim": "CCTV 分销与备货仓",
+   "quote": "IPNS is CCTV distributor and delivers end-to-end IP CCTV network solutions … Our entire CCTV range, including mounting and accessories, is held in stock at our United A-wide network of fully-stocked warehouses.",
+   "url": "https://ipns-uae.com/cctv-distributor-amc-contract-abu-dhabi/",
+   "date": "2022-01-15"
   }
  ],
  "kp": [
   {
-   "name": "John Chen",
-   "title": "（表内联系人）",
-   "email": "jone.chen@aetektec.com",
-   "phone": "+886 2 8245 2822",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
+   "name": "（ISAF 2025 现场联系人，见 Clients 表）",
+   "role": "",
+   "email": "",
+   "phone": "+971 55 983 5897（用户记录）",
+   "source": "用户 Clients 表（ISAF 2025）"
   }
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "面对面接触 + 已在从深圳采购并刷自有 logo = 现成的 OEM 买家；工业线在用 N-Net 可替换。邮件不回 → 走 WA。P1：STI-288DGGPM（2 光 8 电工业 PoE；其询问的 alarm 继电器输出需向 SmartByte 核实），OEM 价阶 30%。注意政府/警务项目守界，只供商用与一般楼宇安防。",
+ "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照核对：台系品牌 ODM）"
+  "level": "深挖 v2（官网核对）"
  },
  "company_facts": {
-  "legal_name": "AETEK Inc.",
-  "founded": "（待核）",
-  "hq": "新北市，台湾",
-  "size": "中小型 PoE 品牌商",
-  "other": "VNS Technologies（SB-247）为其阿联酋伙伴"
+  "legal_name": "Intelligent Professional Network Solutions LLC（IPNS / i-PNS）",
+  "founded": "2010",
+  "hq": "P.O. Box 126814, M8, Al Haram & Al Masy Building, near HSBC Bank, Airport Road, Abu Dhabi（+971 2 491 0731 / +971 55 983 5897；info@ipns-uae.com）",
+  "other": "ISO 9001:2015；ADMCC 认证 CCTV 集成商（阿布扎比强制：≥30 天录像、2MP、20fps）；业务：CCTV 安装与 AMC（七个酋长国）、自称 CCTV 分销（全 UAE 备货仓）、Avaya PBX 供应、ZKTeco 门禁、道闸停车、光纤/Cat6 布线、网络交换方案、智能家居分销；官网 2025-01 更新",
+  "staff": "11–50"
  },
  "business_lines": [
-  "PoE 交换机 / 延长 / 注入 / 备援（自有品牌）",
-  "监控配套"
+  "CCTV / 门禁 / 布线 / 无线 集成",
+  "自有 logo 网络产品采购",
+  "ADMCC 认证 CCTV 安装 + AMC（主业）",
+  "CCTV / 智能家居 分销",
+  "Avaya PBX、ZKTeco 门禁、停车道闸",
+  "结构化布线与网络交换"
+ ],
+ "products_seen": [
+  {
+   "brand": "N-Net（现工业来源）",
+   "model": "工业交换机",
+   "spec": "用户记录",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "ISAF 2025",
+   "saga": "STI-288DGGPM"
+  },
+  {
+   "brand": "（现场介绍）",
+   "model": "2 光 10 电；着重问 alarm（告警）功能",
+   "spec": "问普通交换机是否带 alarm",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "ISAF 2025",
+   "saga": "STI-288DGGPM（告警继电器需核）"
+  }
  ],
  "channels": {
-  "role": "台系品牌商（低价 SKU 外购 / 软硬分工 ODM）",
-  "region": "全球（安防渠道）"
+  "网站": "https://ipns-uae.com/",
+  "直邮": "gk@ipns-uae.com（用户表）",
+  "电话": "+971 2 491 0731 / +971 55 983 5897（官网公开）",
+  "邮箱（公开）": "info@ipns-uae.com",
+  "LinkedIn": "https://www.linkedin.com/company/intelligent-professional-network-solutions"
  },
  "signals": [
-  "明确表态：便宜方案找 Saga；软件 + Saga 硬件 → ODM 入口",
-  "BT 产品多 → Saga BT 工业款可配"
+  "ISAF 2025 双向到访；关注 alarm 继电器输出——工业机卖点",
+  "ADMCC 合规 CCTV 项目 = 每点位 PoE 交换机刚需；兼做分销且有备货仓——可同时谈项目用与转售（2026-10-21）"
  ],
  "risks": [
-  "台系品牌商口径；软硬分工需 SmartByte 原厂固件配合",
-  "8 次跟进无回复"
+  "ADMCC 项目可能指定品牌；N-Net 在用"
  ],
  "saga_fit": {
-  "p1": "STI-288DGGPM-2BT",
-  "tier": 30,
-  "why": "AETEK BT 产品线对位 → STI-288DGGPM-2BT（2×90W BT + 6 PoE + 2 SFP，$154.0 @30%）；2 光 10 电按 STC-28DGGPM / SmartByte 另询；ODM 30%。"
+  "p1": "STI-288DGGPM",
+  "tier": 25,
+  "why": "2 光 10 电近似 STI-288DGGPM（8+2）；alarm 继电器为工业机标配（需 SmartByte 确认）；集成商 25% 档"
  },
- "email_hook": "John, picking up the 'your software, our hardware' idea — the DIN 8-PoE unit with 2×90 W bt + 2 SFP (Marvell) is the natural first SKU; if AETEK wants to evaluate it for the L2 PRO line, I'll send one sample with the SDK access details.",
+ "email_hook": "You asked at ISAF whether the standard switches carry an alarm output: the industrial 8-port gigabit PoE + 2 SFP managed DIN unit does, with dual DC input, so that is the model I am quoting as a second source next to your N-Net units.",
  "mail_review": {
   "binding": {
-   "level": "未触达（A 邮箱 14 封 2025→2026，无记录打开，0 回；收件 jone.chen@aetektec.com；主题多为「Marvell Industrial Alert System、Marvell Software Function List」；Elsa 箱：`to:aetektec.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 14 / 来 0）（第 74 批(n)））",
-   "type": "—",
-   "sieve": "1（只收到群发）",
-   "stop": "14 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "台湾 非主攻",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 14；用户表：「兴趣：… 1，有时他们需要便宜方案可以找我们拿 2，可能会他们提供软件让我们提供硬件 3，推了2光10电，他们有很多BT产品以及配件」；研究档 risks：台系品牌商口径；软硬分工需 SmartByte 原厂固件配合"
+   "level": "未绑定（唯一来信 2026-08-12 是对方销售协调员把 Saga 的群发误当成采购询价来「确认需求」；Elsa 箱：`to:ipns-uae.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 20 / 来 1）（第 74 批(g)））",
+   "type": "阿布扎比集成商（已从深圳采购并刷自有 logo，面对面接触过——研究档）；George",
+   "sieve": "0（邮件层）",
+   "stop": "邮件层无人工对话；研究档建议走 WA",
+   "revive": "WA 层",
+   "lane": "AE 非主攻",
+   "cadence": "2025-03 → 2026-09 去信 20 封；来信 1 封（误读）",
+   "evidence": "k=75714cbe9fd11aa2"
   },
-  "situation": "台湾 PoE 专业品牌（专利天花板 PoE 方案、L2 PRO PoE 交换机、EPoX 延长、PoE 注入 / 分离 / 浪涌、备援 PoE 柜；PoE 词频 231；Hanwha / Axis 生态），John Chen 面谈：有时需要便宜方案可找 Saga、可能他们出软件 Saga 出硬件、推了 2 光 10 电，他们有很多 BT 产品与配件；8 次跟进无实质回复。台湾厂商口径：按继承规则台系品牌商不是「渠道客户」，但作为 OEM/贴牌采购方可按 OEM 30% 档跟进。",
-  "need": "AETEK BT 产品线对位 → STI-288DGGPM-2BT（2×90W BT + 6 PoE + 2 SFP，$154.0 @30%）；2 光 10 电按 STC-28DGGPM / SmartByte 另询；ODM 30%。",
-  "breakpoint": "台系品牌商口径；软硬分工需 SmartByte 原厂固件配合",
+  "situation": "2026-08-12 Jomini（Sales Coordinator）问「你们是在找 BORN 商用 24 口管理交换机吗？」——把 Alan 的推广邮件读成了采购需求。说明邮件进了对方销售台，没进采购。",
+  "need": "工业 PoE（在用 N-Net，研究档）。",
+  "breakpoint": "渠道错位：销售台 vs 采购。",
   "saga_now": {
-   "p1": "STI-288DGGPM-2BT",
+   "p1": "STI-288DGGPM",
    "tier": 30,
-   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-07-09 $300（48 Port PoE Managed Switch）、2025-10-20 $280（10G Enterprise SFP Switch）（㉕ 封顶：STI-288DGGPM-2BT 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25）",
-   "why": "AETEK BT 产品线对位 → STI-288DGGPM-2BT（2×90W BT + 6 PoE + 2 SFP，$154.0 @30%）；2 光 10 电按 STC-28DGGPM / SmartByte 另询；ODM 30%。",
+   "price": "—；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-08-26 $240（24 Port Fiber Switch）、2025-09-23 $65（10G Media Converter）、2025-10-22 $280（10G Enterprise SFP Switch）",
+   "why": "WA。已打开的主题（2/20 封有打开记录）：「24 Port Fiber Switch」(2025-08-26)、「Marvell Industrial Alert System」(2025-12-19) → 读者兴趣偏「MC/光电」；与 P1 同类，继续",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开",
-   "one_question": "John, picking up the 'your software, our hardware' idea — the DIN 8-PoE unit with 2×90 W bt + 2 SFP (Marvell) is the natural first SKU; if AETEK wants to evaluate it for the L2 PRO line, I'll send one sample with the CLI/SNMP integration notes (no SDK is provided)."
+   "when": "按 Simon WA 节奏",
+   "channel": "WhatsApp",
+   "action": "—（用 one_question 这句，WhatsApp 直接发，不附资料）（第 75 批(s) 2026-10-25：WhatsApp 一句话版已写 `draft_en`（报警继电器主表未载——信里不断言，改为「发规格书页自己看」；发前 Simon 核 SmartByte 规格书））（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
+   "one_question": "You asked at ISAF whether the standard switches carry an alarm output: the industrial 8-port gigabit PoE + 2 SFP managed DIN unit does, with dual DC input, so that is the model I am quoting as a second source next to your N-Net units."
   },
   "facts": [
    {
-    "date": "2026-09-04",
+    "date": "2025-03-26",
     "dir": "去",
-    "who": "A 群发",
-    "quote": "Marvell Industrial Alert System、Marvell Software Function List",
-    "why": "14 封 / 0 次打开 / 0 回｜首封 2025-03-19 → 末封 2026-09-04（14 去 / 0 来）",
-    "k": "gmail_digest"
+    "who": "A 箱（Alan）",
+    "quote": "Marvell Alleycat5 Solution",
+    "why": "首封去信（邮箱索引；去信共 20 封）",
+    "k": "3ccbb8e1e1bae77e"
    },
    {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "兴趣：… 1，有时他们需要便宜方案可以找我们拿 2，可能会他们提供软件让我们提供硬件 3，推了2光10电，他们有很多BT产品以及配件",
-    "why": "表内备注",
-    "k": "用户表"
+    "date": "2025-08-26",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "24 Port Fiber Switch｜稿内价 $240",
+    "why": "去信正文含价（邮箱索引）",
+    "k": "4fca8a4abcf531df"
+   },
+   {
+    "date": "2025-09-23",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "10G Media Converter｜稿内价 $65",
+    "why": "去信正文含价（邮箱索引）",
+    "k": "99c1298cc781f9fd"
+   },
+   {
+    "date": "2026-08-12",
+    "dir": "来",
+    "who": "Jomini Midhun（Sales Coordinator）",
+    "quote": "Could you please confirm whether you are looking for a BORN COMMERCIAL 24-port managed switch?",
+    "why": "误读为采购",
+    "k": "75714cbe9fd11aa2"
+   },
+   {
+    "date": "2026-08-12",
+    "dir": "来",
+    "who": "sales@ipns-uae.com",
+    "quote": "Confirmation: BORN 24-Port Managed Switch Requirement｜Dear Sir,     Greetings      Could you please confirm whether you are looking for a BORN COMMERCIAL 24-port managed switch?     Thanks & Regards   Jom",
+    "why": "来信（邮箱索引；原文见 k；是否人工回复以原文为准）",
+    "k": "75714cbe9fd11aa2"
+   },
+   {
+    "date": "2026-08-15",
+    "dir": "去",
+    "who": "Saga（Alan）",
+    "quote": "Hi, Jomini, 1. I am recommending our models. We focus on Marvell based L2+ switches, checking if we could cooperate in some way. 2. I met George on IFSEC UK 2023 and know that you deal with Ethernet switches with a supplier from Shenzhen. Maybe our products can be useful in some projects, or we can…",
+    "why": "Saga 实质答复原文（主题「Re: Confirmation: BORN 24-Port Managed S」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
+    "k": "5eacc9efe7146ba8"
+   },
+   {
+    "date": "2026-09-22",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "16 Port Industrial PoE Switch",
+    "why": "最近一封去信（邮箱索引；去信共 20 封）",
+    "k": "b23b79036dc5cabb"
    }
   ],
   "proof_gaps": [],
-  "draft_en": null,
+  "draft_en": {
+   "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+   "body": "Hi, Simon from Saga Telecom - ISAF follow-up. You asked whether the standard switches carry an alarm output: the commercial units do not. The industrial DIN unit is the one to look at - 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based, dual DC input, -40 to 75 C - STI-288DGGPM - $137.5 EXW with your logo (MOQ 1, 15-day validity), as a second source next to your N-Net units; I send you its datasheet page so you see the alarm contact details exactly as specified. Which N-Net model is in your 2 + 10 cabinets today, so I line ours up against it?"
+  },
   "as_of": "2026-10-24"
  }
 }

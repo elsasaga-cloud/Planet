@@ -1,0 +1,11 @@
+# SB-448 bettinivideo.com · feed_auto · https://www.bettinivideo.com/en/feed/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+Thu, 14 Sep 2023 09:34:25 +0000	BEST SELLING CAMERAS BEGINNING 2023	https://www.bettinivideo.com/en/product-news/best-selling-cameras-beginning-2023/
+Thu, 14 Sep 2023 09:30:08 +0000	GAMS SOFTWARES AND APPLICATIONS	https://www.bettinivideo.com/en/product-news/gams-softwares-and-applications/
+Thu, 14 Sep 2023 09:28:18 +0000	NEW NVR MODELS “QUADRO PXE”	https://www.bettinivideo.com/en/product-news/new-nvr-models-quadro-pxe/
+Thu, 14 Sep 2023 09:26:59 +0000	NEW NVR GAMS EKO	https://www.bettinivideo.com/en/product-news/new-nvr-gams-eko/
+Thu, 14 Sep 2023 09:25:22 +0000	ADRIA SECURITY SUMMIT 2021	https://www.bettinivideo.com/en/event/adria-security-summit-2021/
+Thu, 14 Sep 2023 09:24:10 +0000	GAMS devices are now integrated in VSIDE by SICEP®	https://www.bettinivideo.com/en/product-news/gams-devices-are-now-integrated-in-vside-by-sicep/
+Thu, 14 Sep 2023 09:23:00 +0000	PROTEGER 2022 – LISBOA	https://www.bettinivideo.com/en/event/proteger-2022-lisboa/
+Thu, 14 Sep 2023 09:21:56 +0000	NOW GAMS CAMEREA ARE ONVIF CERTIFIED AND MILESTONE SUPPORTED	https://www.bettinivideo.com/en/product-news/now-gams-camerea-are-onvif-certified-and-milestone-supported/
+Thu, 14 Sep 2023 09:19:45 +0000	INTERSEC DUBAI 2022 - A partnership for Security Made in Italy	https://www.bettinivideo.com/en/event/intersec-dubai-2022-a-partnership-for-security-made-in-italy/
+Thu, 14 Sep 2023 09:17:17 +0000	EXPO SEGURIDAD MÉXICO 2022	https://www.bettinivideo.com/en/event/expo-seguridad-mexico-2022/

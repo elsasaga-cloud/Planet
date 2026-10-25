@@ -1,0 +1,48 @@
+{
+ "code": "SC-040",
+ "name_official": "CompuSpare（南非）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（compuspare.co.za，快照 2026-10-21）",
+ "summary": "南非新机与二手服务器 / PC / POS 供应商（Cisco、Huawei、Dell S5148F-ON、Mellanox SX6015 等数据中心设备），Imran Ayob 的需求为 Alcatel 兼容 SFP 大批量与「100Gb 以上」交换机，嫌价格高；数据中心 100G 段与 SFP 模块均不在 Saga 范围 → 降 C（规格外）。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "定位：新机 / 二手服务器、PC、POS；站内 S5148F-ON、SX6015、QSFP28",
+   "quote": "SA's Supplier of choice for New and Pre-loved Servers, Laptops, Desktops, Pos… models S5148F-ON, SFP28, QSFP28, SX6015",
+   "url": "https://www.compuspare.co.za/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "SFP 模块数量大、需 Alcatel 兼容；回复 Our need is in the 100Gb upward range；嫌价格高",
+   "quote": "兴趣：SFP模块 数量比较大 需和Alcatel兼容；回复：Our need is in the 100Gb upward range；嫌价格高",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Imran A Ayob",
+   "title": "（采购）",
+   "email": "imran.ayob@compuspare.co.za",
+   "phone": "+27 83 775 3602",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": "C",
+ "override_reason": "规格外：需求为 100G 以上数据中心交换机与 Alcatel 兼容 SFP（Saga 接入层 ≤10G、无模块）",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照身份判断 → 规格外降 C）"
+ },
+ "saga_fit": {
+  "p1": null,
+  "tier": 20,
+  "why": "规格外，不主动跟进。"
+ },
+ "email_hook": "（不主动发送）"
+}

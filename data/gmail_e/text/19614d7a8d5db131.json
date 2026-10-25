@@ -11,7 +11,7 @@
  "text": "Hi, Waseem,\nPlease see attached download link file.\nEach link contains full information about our products.\nPlease check and let me know the interested models.\nThank you.",
  "char_count": "256",
  "attachments": "[{'filename': 'MINI.png', 'mime_type': 'image/png', 'size': 713505}, {'filename': 'Download Link.pdf', 'mime_type': 'application/pdf', 'size': 108856}]",
- "note": "SB-1275：Waseem 02-28 来信 → Elsa 04-08 才回（隔 39 天），只给下载链接 → 无下文",
+ "note": "SB-1101：Waseem 02-28 来信 → Elsa 04-08 才回（隔 39 天），只给下载链接 → 无下文",
  "text_source": "text/plain",
  "fetched": "2026-10-24T16:22Z",
  "method": "Arena Gmail connector get_message_text(include_quoted=false)"

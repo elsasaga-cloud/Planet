@@ -1,0 +1,108 @@
+# SB-801 aurcore.net · news_2 · https://www.aurcore.net/blogs · fetched 2026-10-25T07:41:18Z · HTTP 200
+AurCore | Blog & Insights
+About Us
+Solutions
+Products
+Support & Services
+Resources
+Partner
+More
+Where to buy Contact Us
+Loading...
+Network infrastructure company headquartered in Lake Forest, California, delivering enterprise and data center solutions engineered for the AI era.
+Subscribe to Newsletter
+Submit
+Products
+Data Center Switches
+Enterprise Switches
+Industrial Switches
+Accessories
+Company
+About Us
+Partners
+Contact Us
+Resources
+News
+Blog
+Webinars
+Contact
+info@aurcore.net
+20472 Crescent Bay Dr #102
+Lake Forest, CA 92630
+Subscribe to Newsletter
+Submit
+Copyright © 2026 AURCORE TECHNOLOGY . All rights reserved.
+Terms of service Privacy policy
+Blog & Insights
+Stay up-to-date with the latest trends, insights, and innovations in networking technology
+9
+Articles
+2
+Topics
+Weekly
+Updates
+All Blogs AI SONiC
+August 28, 2026
+8 min read
+Aurcore
+Beyond the Speed Race: The Real Inflection Point for the Switch Industry
+While the industry is racing on port speed, AI compute network have already entered the System Era.
+Read More
+June 26, 2026
+9 min read
+Aurcore
+The Evolution of RDMA: From InfiniBand to the AI Data Center Era
+RDMA (Remote Direct Memory Access) is a high-speed network interconnection technology. Its core capability is to enable direct cross-device memory access while bypassing the CPU and operating system kernel, which significantly reduces communication latency and CPU consumption.
+CPU HPC
+Read More
+June 25, 2026
+12 min read
+AurCore
+New Paradigm of Optical Interconnection Under the Computing Power Revolution
+The explosive growth of AI large models and general computing power is driving the rapid upgrade of data center interconnection bandwidth from 800G to 1.6T, 3.2T and even 6.4T.
+CPO NPO XPO
+Read More
+June 25, 2026
+10 min read
+AurCore
+Behind the 343.3 billion computing power lies a neglected switching network
+Who can build a more efficient computing network?
+Who can make a GPU truly "run at full capacity"?
+AI Computing
+Read More
+June 25, 2026
+8 min read
+AurCore
+Applying PFC + ECN in AI Training Scenarios
+In AI training scenarios, PFC provides lossless transmission guarantees for RoCEv2/RDMA through buffer watermarks and queue scheduling, while ECN enables fast end-to-end congestion detection and mitigation, working in conjunction with intelligent scheduling to optimize link load.
+PFC ECN
+Read More
+June 24, 2026
+18 min read
+AurCore
+Putting GPUDirect RDMA to Work in AI Training
+Against the backdrop of the rapid development of distributed AI training, the contradiction between computing power improvement and communication efficiency has become increasingly prominent.
+GDR RoCE v2
+Read More
+June 22, 2026
+12 min read
+AurCore
+RDMA The Networking Foundation Behind Modern AI Infrastructure
+Training modern large language models no longer involves a handful of servers. Today's AI clusters may contain hundreds or thousands of GPUs working together across an Ethernet fabric, exchanging massive volumes of data throughout the training process.
+ECN EVPN PFC
+Read More
+April 1, 2026
+8 min read
+AurCore
+The Difference Between AI Training and Inference
+AI training teaches models using massive GPU clusters demanding high bandwidth and lossless networks; inference applies those skills to deliver fast predictions, requiring low latency and flexible deployment. Both stages place distinct demands on network infrastructure.
+AI Training AI Inference
+Read More
+March 24, 2026
+5 min read
+Editor
+Leveraging SONiC for Scalable, High-Performance Network Infrastructures
+SONiC is redefining open networking. See how AurCore's AES6201 leverages community SONiC to deliver scalable, high-performance infrastructure for modern data center and enterprise deployments.
+Data Center Network
+Read More
+1 Go To Page

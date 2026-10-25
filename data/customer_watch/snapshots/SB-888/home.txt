@@ -1,0 +1,386 @@
+# SB-888 stordis.com · home · https://stordis.com/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+STORDIS - Network People · Open By Design
+Test SONiC Download GNS3 VM
+Test OcNOS® Download VM
+AI Tool SmartCLAI - Configure SONiC Switch
+Hot Enterprise SONiC Support
+Ebook SONiC for AI Networks
+Ebook Validated Network Design
+Meet STORDIS at OCP Global Summit 2026 ↗
+24/7 Network Hardware and Software Support
+STORDIS GmbH
+Network People · Open By Design
+All Products
+Cloud & Data Center
+1G Switches
+10G Switches
+25G Switches Hot
+100G Switches Hot
+400G Switches Hot
+800G Switches New
+1.6T Switches New
+Value-Added Service
+AI / ML & HPC
+400G Switches Hot
+800G Switches
+1.6T Switches New
+HPC Switches New
+Liquid-Cooled Switches New
+Server New
+Storage New
+Value-Added Service
+SONiC Switches
+1G Switches Hot
+Multi-Gigabit Switches
+10G Switches
+25G Switches Hot
+100G Switches
+400G Switches New
+800G Switches
+Value-Added Service
+Campus
+1G Switches Hot
+Multi-Gigabit Switches Hot
+10G Switches Hot
+Value-Added Service
+Programmable
+100G Switches
+400G Switches New
+800G Switches New
+Add-in-Card New
+Value-Added Service
+Brands
+Switching
+Access Routers
+1G Routers
+10G Routers
+25G Routers Hot
+Value-Added Service
+Aggregation Routers
+10G Routers Hot
+25G Routers
+100G Routers
+400G Routers
+Value-Added Service
+Core Routers
+100G Routers
+400G Routers
+Value-Added Service
+Fixed Broadband Access
+Open Architecture
+Value-Added Service
+Optical Transport
+Transponder and Muxponder
+Optical Wavelength Switch
+Value-Added Service
+Brands
+Routing
+AI / ML
+Enterprise SONiC Hot
+Edgecore: Nexvec™ New
+Cloud & Data Center
+Enterprise SONiC Hot
+IP Infusion OcNOS DC
+Telecom & Service Provider
+IP Infusion OcNOS SP
+RtBrick FullStack New
+Campus
+Enterprise SONiC Hot
+Value-Added Service
+metalstack.cloud
+Support Services New
+Switch Services Hot
+SONiC Bootcamp
+Brands
+Network Operating Systems
+Indoor Access Points
+Wi-Fi 5 Access Points
+Wi-Fi 6 Access Points Hot
+Wi-Fi 7 Access Points New
+Outdoor Access Points
+Wi-Fi 5 Access Points
+Wi-Fi 6 Access Points Hot
+Clouds & Management
+Cloud Controller
+LAN Controller
+Enterprise Switches
+L2 Switches
+L2/L3 Lite Switches
+L2/L3 Switches
+L3 Switches
+OpenLAN Gateway
+Edgecore Networks SDW102 (Z1 New
+Brands
+Wireless
+Transceivers
+1G Transceivers Hot
+10G Transceivers Hot
+25G Transceivers Hot
+40G Transceivers Hot
+50G Transceivers
+Transceivers
+100G Transceivers Hot
+200G Transceivers
+400G Transceivers
+800G Transceivers New
+1.6T Transceivers New
+Fiber Optic Patch Cables
+Singlemode Cables
+Multimode Cables
+Optical Cables
+AOC Cables New
+DAC Cables Hot
+Brands
+Transceivers & Cables
+Monitoring
+Monsoon 1.0
+Monsoon 2.0 Hot
+Network Analysis
+cPacket
+Orchestration
+BE Networks Verity Orchestriation
+PANTHEON.tech SandWork | Intent-Based SONiC Orchestration New
+Brands
+Network Management
+Courses
+Enterprise SONiC Linux by Broadcom Course Hot
+OpenWiFi Course
+Unboxing Open Networking Course
+Bootcamps
+4-Day SONiC Bootcamp Hot
+Brands
+Training
+AI Networking
+AI Switches Hot
+AI Storage
+AI Server
+SONiC Switch
+800G Cables
+AI Transceivers
+SONiC Linux Switch
+SONiC Switches
+Test SONiC Networks
+SONiC Course
+SONiC Bootcamps Hot
+Open Networking
+Cloud Data Center
+Service Provider
+Enterprise Network
+Best Selling Products
+Hot 1.2K+ sold
+Pre-order
+Compare
+Edgecore Networks DCS203 (AS7326-56X) | 25G Cloud & Data Center Switch
+Edgecore DCS203, 48 x 25G SFP28, 8 x 100G QSFP28 Cloud & Data Center ONIE Switch, Broadcom Trident3-X7, Intel® Xeon® D1518 CPU, 2 x AC or 2 x DC PSU, F-Front-to-Back or B-Back-to-Front
+Pre-order
+Hot 1.2K+ sold
+Select options
+Compare
+Edgecore Networks DCS204 (AS7726-32X) | 100G Cloud & Data Center Switch
+Edgecore DCS204, 32 x 100G QSFP28 Cloud & Data Center ONIE Switch, Broadcom Trident3-X7, Intel® Xeon® D-1518 CPU, 2 x AC or 2 x DC PSU, F-Front-to-Back or B-Back-to-Front
+Select options
+Hot
+Pre-order
+Compare
+Edgecore Networks EXP100-32X | 100G Programmable Switch
+Edgecore EXP100-32X, 32 x 100G QSFP28 Programmable ONIE Switch, Xsight Labs X2, Intel® Xeon® D1713NTE CPU, 2 x AC PSU, F-Front-to-Back
+Pre-order
+Hot 2.8K+ sold
+Compare
+Switch2Open S-SFP-25G-SR | 25G SR Open Standard SFP28 Transceiver
+Switch2Open 25G SFP SR Transceiver, Dual CDR, NRZ, 850 nm, LC-Duplex, Multimode, 100 m
+Hot 2.5K+ sold
+Select options
+Compare
+Enterprise SONiC Distribution by Broadcom | Network Operating System (NOS)
+Enterprise SONiC Distribution by Broadcom, 1G to 1.6T Platform, SmartCare 9×5 CE(S)T or PremiumCare 24x7x365 Support, 1-7 Year Subscription
+Select options
+Solutions
+Value-added Services
+#Open2Support Hardware
+#Open2Support Software
+#Open2Support Network Consultancy
+Academia & Research Program
+Support
+Submit a Ticket
+Submit an RMA Request
+My tickets
+Knowledge Base
+FAQ
+Bootcamps
+New SONiC Bootcamps Available Now
+Courses
+Elevate Career with SONiC Linux Course
+Services
+What's New
+Blog
+Podcast New
+Events
+Newsroom
+Knowledge Base
+Free Resources Hot
+For Beginners Hot
+SONiC for AI Networks eBook New
+Validated Network Design eBook New
+Tools
+SONiC GNS3 Lab
+OcNOS VM
+Monsoon 2 Hot
+SmartCLAI New
+Customer Stories
+Flow Swiss AG: Reliable Cloud with Edgecore & SONiC
+Resources
+Who we are
+A Trusted Team. Connecting People Through Open Networking. Driven by Innovation.
+Learn more about us
+About us
+Team
+Company Values
+Partners
+Jobs & Careers
+Contact Us
+Locations
+Last Milestones
+Try SmartCLAI - Configure SONiC Switches Faster
+Company
+Search
+0
+X
+No products in the list
+0
+Compare
+Search
+0
+Compare
+0
+X
+No products in the list
+Network People · Open By Design
+Open Networking
+Infrastructure for
+Modern Data Centers
+We help organizations build scalable, vendor-neutral infrastructure with switches, Enterprise SONiC, expert services, training, and 24×7 support.
+Build a Quote
+Connect with us
+Trusted by over 1000 vendors & buyers
+Designed to keep
+your network running
+Open networking hardware and software, selected and supported by engineers who know what reliability actually requires.
+Hardware, openly built
+Switches, routers, transceivers, and cables — from 1G to 1.6T — selected and tested to work together out of the box.
+Browse hardware
+Your choice of NOS
+SONiC, OcNOS, RtBrick, and more — we help you choose the OS that fits your network, team, and architecture.
+Explore NOS
+One team, end to end
+Design, integration, support, and training — all from one team. The engineers who build your stack support you 24/7. No call centers. Just experts who know your network.
+See all solutions
+Services built around your network
+From the first conversation to long-term operations, we work alongside your team at every stage.
+Consultancy & Design
+We map your current network and where it's headed — fabric design, NOS selection, routing, automation - then architect an open networking solution built for your environment. Validated end-to-end in our labs with proof-of-concept testing, so what we propose is already proven before it reaches your rack.
+Talk to an engineer
+Integration & Deployment
+We plan, deploy, and optimize your network in live environments — from rack-and-stack to NOS provisioning, fabric bring-up, and traffic validation. Tested end-to-end before you go live.
+Learn how we work
+24/7 Support
+Your network doesn't sleep, and neither do we. From same-day hardware advance exchange to NOS troubleshooting and routing escalations — the same engineers who designed your stack are the ones who answer when you call. No call centers. No tier-one gatekeepers. Multivendor expertise, real warranty coverage.
+Explore support options
+Partnership & Training
+Open networking hardware, software, and services delivered to partners across Europe and beyond — with the training, certification, and hands-on labs your team needs to deploy and run it confidently.
+Partner with us
+Support that goes beyond the warranty
+Manufacturer warranties make you wait. Open2Support doesn’t — one contract covers your entire stack. Hardware, software, multivendor.
+Hardware
+SmartCare Advanced
+For organizations that can’t wait weeks for a replacement. Same-business-day hardware exchange and direct engineering support — engineered for environments where downtime isn’t an option.
+Same-day shipping after RMA
+9×5 phone & remote support
+Multivendor coverage
+Get SmartCare Advanced
+Software
+SmartCare
+For labs, development, and non-critical production. Expert software guidance during business hours. Real expertise, without the cost of round-the-clock coverage.
+9×5 CE(S)T coverage
+Enterprise SONiC, Monsoon 2.0, BE Networks
+Patches, updates, vendor escalation
+Get SmartCare
+Mission-critical
+Software
+PremiumCare
+For production networks where minutes matter. 24×7×365 access to senior engineers who know open networking from the silicon up. No tier-one queue.
+24×7×365 coverage
+Direct-to-senior-engineer
+Rapid critical response
+Get PremiumCare
+Platforms and vendors we support
+One contract, full coverage across the open networking stack.
+Enterprise SONiC
+BE Networks Verity
+Monsoon 2.0
+Edgecore Networks
+Celestica
+SONiC Linux Switch
+PANTHEON.tech
+Need help choosing?
+Compare all three tiers side by side or talk to an engineer.
+Read more
+SONiC, made deployable
+SONiC has moved from hyperscale to enterprise, telecom, and AI — a multi-billion-dollar market growing 25% + year over year. STORDIS makes it production-ready.
+01 Hardware
+SONiC Linux Switch
+Open networking switches preloaded and licensed with SONiC Enterprise NOS. From 1G to 800G — ready to deploy, multi-silicon, no installation steps. Turnkey hardware that arrives running.
+Browse SONiC switches
+02 Support
+Enterprise SONiC support
+Full Enterprise SONiC Distribution by Broadcom support. SmartCare or PremiumCare 24×7×365. Bug escalation handled for you.
+Explore support
+03 Architecture
+New
+Reference eBooks
+Two original architecture guides written by STORDIS engineers. Real designs, used in real deployments.
+Download eBooks
+04 Training
+SONiC training & bootcamps
+4-day SONiC bootcamps, certified courses, and hands-on labs through the route2open Academy.
+Browse training
+05 Productivity
+Free
+SmartCLAI - SONiC CLI
+Configure SONiC switches faster. Natural-language prompts turn into validated SONiC CLI commands — for engineers who’d rather solve problems than memorize syntax.
+Try SmartCLAI free
+06 Evaluation
+Free
+SONiC Linux GNS3 VM
+Test SONiC without buying hardware. Build topologies, validate configurations, and learn the NOS in your own lab.
+Download the VM
+With STORDIS, you don't just adopt SONiC
+You deploy it faster, scale it smarter, and run it with confidence.
+Build a Quote
+Contact Sales
+Open networking, built for scale
+Delivering enterprise-grade infrastructure solutions with proven deployment expertise, open networking innovation, and global reach.
+Years in networking
+0
+Switches and routers deployed globally
+0
++
+Countries reached
+0
+Tickets resolved within SLA
+0
+%
+Technology partners & customers
+0
+Commitment to customer success
+0
+%
+A trusted team, open by design
+We are engineers, architects, and open networking advocates who have been helping organizations build better networks since day one. No black boxes, no vendor lock-in — just the right technology, the right people, and the support to back it up.
+Learn more about us
+Trust and compilance
+Networks we've built, results that speak for themselves
+Real deployments, real teams, real outcomes. See how operators across Europe run production networks on open technology.
+Customer stories
+Flow Swiss runs one of Switzerland’s leading public clouds — serving Uber, Spotify, Bitcoin Suisse, and other demanding customers from three geo-redundant Swiss data centers. STORDIS delivered the full open networking stack — 48 Edgecore switches, Enterprise SONiC, leaf-and-spine architecture with 100Gbps uplinks — backed by the engineering partnership that turns deployment into long-term collaboration.
+IP Nexia, a Belgian service provider serving 1,000+ enterprise customers across VoIP, connectivity, and cloud services, needed to retire end-of-life backbone hardware and break free from vendor lock-in. Together with Deca Consulting as network architecture partner and Edgecore as the hardware foundation, STORDIS helped design and deploy a fully automated, future-ready op

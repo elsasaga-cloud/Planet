@@ -1,0 +1,66 @@
+{
+ "code": "SC-018",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（fastcabling.com，快照 2026-10-21）",
+ "summary": "Fastcabling（fastcabling.com：PoE 网络产品品牌（PoE 延长器/交换机，美国仓发货），背后为深圳厂商的海外站；表内国别新加坡待核；仅 support@）；群发 5 次无回复。",
+ "type": "国内 PoE 厂商海外站（同行）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：fastcabling.com",
+   "quote": "",
+   "url": "https://fastcabling.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "PoE network",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "PoE network",
+   "quote": "PoE network",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "国内厂商海外站（同行）；c_sub=同行/国内厂商海外站",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "新加坡",
+  "other": "官网 fastcabling.com，语言 ?，快照状态 ok；角色判定来源：待核"
+ },
+ "business_lines": [
+  "PoE 延长器 / 交换机（品牌站）"
+ ],
+ "channels": {
+  "role": "国内 PoE 厂商海外站（同行）",
+  "region": "新加坡",
+  "contact": "support@fastcabling.com"
+ },
+ "signals": [
+  "表内：PoE network；support@fastcabling.com",
+  "快照：内容为空"
+ ],
+ "risks": [
+  "同行：国内 PoE 厂商的海外品牌站；国别待核（表内新加坡）；仅 support@"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 30,
+  "why": "国内厂商海外品牌站（同行），非渠道客户 → 改 C；国别待核"
+ },
+ "email_hook": "（不发送：同行海外站）"
+}

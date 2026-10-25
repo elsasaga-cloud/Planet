@@ -1,70 +1,197 @@
-# SB-154 sieraelectronics.com · news_2 · https://sieraelectronics.com/important-notice-service-update/ · fetched 2026-10-25T07:41:18Z · HTTP 200
-Important Notice · Service update | Siera Electronics Cloud
-Languages
-Log In
-Contact
-About Us
-Solutions
-Products
-News
-Warranty
-RMA Apply for a new RMA Ticket
-Ticket Status
-Cloud
-Languages
-Log In
-Contact
-About Us
-Solutions
-Products
-News
-Warranty
-RMA Apply for a new RMA Ticket
-Ticket Status
-28 Oct, 2025
-English | Information
-Important Notice · Service update
-Dear customers,
-We would like to inform you that starting from Monday, December 8, 2025 , the database service associated with the “Cloud 1” server of the iSMS 5.0 App will be discontinued.
-This update applies only to IPL IP cameras and DVRs manufactured until the year 2020, inclusive.
-What’s changing?
-• Cloud Web Browser access to devices via the web browser will no longer be available.
-• Direct access via IP/DDNS to DVRs or IP cameras will continue to function normally.
-• In the iSMS 5.0 mobile app, you will need to change the access type from “user account” to “local account”.
-Important
-👉 This change will not affect the operation of your devices.
-Video and audio streaming will continue to work normally from the app, simply using local account access.
-To facilitate the transition, we are providing step-by-step guides and videos for the update:
-Android Guide
-Android Video
-iPhone Guide
-iPhone Video
-We appreciate your understanding and cooperation during this continuous improvement process.
-Our support team is available to assist you at any time.
-Sieco Cameras Compatible with Alexa and Google Home
-Jul 15, 2025
-Starting with firmware 5.6.6.200606, all Sieco Wi-Fi cameras can be linked to voice assistants. Compatible Features“Alexa, show me the entrance” → Live view on Echo Show.“Hey Google, activate the garage alarm” → Activates motion notification.IFTTT...
-New Security Feature on UHF SAC 3690 Readers
-Jun 20, 2025
-Starting from firmware version 3.76, the SAC 3690-6M, SAC 3690, and SAC 3692IP models include a powerful new security feature: the ability to set passwords on UHF TAGs (e.g., model SAC 4103) and on the readers themselves. With this update, TAGs and...
-IP Audio Speakers with ONVIF Support
-May 2, 2025
-Starting this year, our IP speakers running Firmware v1.5.9 now support the ONVIF v20.12 protocol, simplifying integration with third-party systems for receiving broadcasts and calls over local networks (LAN). Key Features Enabled via ONVIF: •...
-Home
-About Us
-Solutions
-Products
-News
-General Conditions of Sales
-Warranty
-RMA
-Cloud
+# SB-154 wire.tech · news_2 · https://wire.tech/pages/previous-project · fetched 2026-10-25T07:41:18Z · HTTP 200
+Completed Projects — Wire Technologies
+Skip to content
+Find us on LinkedIn
+Menu
+All categories
+------
+AOC
+BiDi Transceivers
+Cable Management
+Cat Cable
+DAC
+Docking Station
+Fibre Cable
+Media Converter
+MPO Cable
+NIC Card
+PDU
+Power Cable
+Transceiver Adapters
+Transceivers
+All categories
+Cancel
 Login
-Contact
-Search for:
-2025 All rights reserved Siera Electronics
+View Quote
+Transceivers
+Cisco Compatible
+Juniper Compatible
+Brocade Compatible
+Dell Compatible
+Arista Compatible
+Extreme Compatible
+HPe Compatible
+Mellanox Compatible
+BiDi Transceivers
+SFP Adapters
+Direct Attach Cables
+Cisco Compatible
+Juniper Compatible
+Brocade Compatible
+Dell Compatible
+Arista Compatible
+Extreme Compatible
+HPe Compatible
+Mellanox Compatible
+Active Optical Cables
+Cisco Compatible
+Juniper Compatible
+Brocade Compatible
+Dell Compatible
+Arista Compatible
+Extreme Compatible
+Intel Compatible
+H3C Compatible
+Mellanox Compatible
+Fibre & MPO Cables
+OS2
+OM3
+OM4
+MPO/MTP
+CAT Cables
+CAT5e U/UTP
+CAT6 U/UTP
+CAT6a S/FTP
+NIC Cards
+Power Solutions
+PDUs
+Power Cables
+UPS
+More
+Cable Management
+Docking Stations
+Media Converters
+Server Cabinets
+Make a Request
+Product Services
+Design
+Compliance
+Completed Projects
+My Account
+Login
+Logout
+Register
+Login
+Close
+Transceivers
+Cisco Compatible
+Juniper Compatible
+Brocade Compatible
+Dell Compatible
+Arista Compatible
+Extreme Compatible
+HPe Compatible
+Mellanox Compatible
+BiDi Transceivers
+SFP Adapters
+Direct Attach Cables
+Cisco Compatible
+Juniper Compatible
+Brocade Compatible
+Dell Compatible
+Arista Compatible
+Extreme Compatible
+HPe Compatible
+Mellanox Compatible
+Active Optical Cables
+Cisco Compatible
+Juniper Compatible
+Brocade Compatible
+Dell Compatible
+Arista Compatible
+Extreme Compatible
+Intel Compatible
+H3C Compatible
+Mellanox Compatible
+Fibre & MPO Cables
+OS2
+OM3
+OM4
+MPO/MTP
+CAT Cables
+CAT5e U/UTP
+CAT6 U/UTP
+CAT6a S/FTP
+NIC Cards
+Power Solutions
+PDUs
+Power Cables
+UPS
+More
+Cable Management
+Docking Stations
+Media Converters
+Server Cabinets
+Make a Request
+Product Services
+Design
+Compliance
+Completed Projects
+My Account
+Login
+Logout
+Register
+Completed Projects
+View some of our recently executed bespoke projects below.
+Contact Us
+Vertical Wall Cabinets
+Security Approved SFPs
+GaN Wall Chargers
+Vertical Wall Cabinets
+In response to the Ministry of Defence's (MOD) pressing need to modernise and upgrade their IT network infrastructure within constrained spatial parameters, Wire Technologies embarked on the ambitious task of designing and manufacturing a bespoke solution that would address the unique challenges faced by the MOD.
+The MOD required an innovative IT solution that could accommodate the limitations of space without compromising on functionality or security. Traditional floor-standing cabinets were not a viable option, prompting Wire Technologies to devise a pioneering alternative.
+We designed from scratch a bespoke vertical data cabinet tailored specifically to meet the MOD's stringent requirements. This cabinet featured acoustic soundproofing, an enhanced secure locking mechanism, reoriented air vents for reduced noise, and adaptable door hinges. Moreover, the rack was meticulously engineered to seamlessly integrate into any of the 1300 specified locations, ensuring flexibility and compatibility.
+In a unique offering, Wire Technologies also provided the option to preconfigure the rack prior to dispatch, streamlining installation and deployment processes for the MOD. Furthermore, the company committed to holding stock of these customized solutions in their warehouse, ensuring swift availability and reducing lead times for the MOD's future infrastructure needs.
+Collaborating closely with MOD specialist and integrators, Wire Technologies meticulously ensured that the solution adhered to all essential infrastructure certifications, guaranteeing compliance and seamless integration within the existing MOD IT Infrastructure.
+In addition to the bespoke rack, Wire Technologies curated a tailor-made selection of accessories to complement the solution. This included super-quiet cooling fans, an earthing kit, short-length fiber patches, short-length copper patches, and right-angled power cords, further easing the workload on the customer.
+The successful completion of this project exemplifies Wire Technologies' ability to design, manufacture, and deliver complex IT-related hardware items tailored to the specific needs of high-stakes environments.
+Security Approved SFPs
+Wire Technologies is are the sole approved supplier of SFP transceivers in the Ministry of Defence (MOD) core ICT infrastructure networks. This approval underscores Wire Technologies' commitment to quality testing and security, ensuring the reliability and safety of its products within highly secure environments.
+Quality Testing:
+At Wire Technologies, we understand the criticality of network components within sensitive environments. Our SFP transceivers undergo rigorous quality testing to ensure optimal performance and reliability. Each transceiver is subjected to extensive testing procedures, including but not limited to environmental stress testing, performance benchmarking, and compatibility checks. These tests guarantee that our products meet and exceed industry standards, providing the utmost in reliability and performance.
+Security Approval:
+The approval by MOD core networks signifies Wire Technologies' dedication to maintaining the highest security standards. Our SFP transceivers have undergone thorough security evaluations to meet the stringent requirements of the MOD. We have implemented robust security measures to safeguard the integrity and confidentiality of data transmission within these critical networks. Our commitment to security ensures that our products seamlessly integrate into the MOD core networks without compromising the network's overall security posture.
+Customer Impact:
+With the approval to supply SFP transceivers into the most sensitive areas of the MOD core networks, Wire Technologies solidifies its position as a trusted partner for secure and reliable networking solutions. Our customers can have full confidence in the quality and security of our products, knowing that they have met the stringent requirements of one of the most secure networks in the country. This approval not only validates the excellence of our products but also underscores our unwavering commitment to security and reliability.
+The approval by MOD core networks represents a significant milestone for Wire Technologies, showcasing our dedication to quality, reliability, and security in providing networking solutions. We remain steadfast in our commitment to delivering top-tier products that meet and exceed the most stringent industry standards, ensuring the utmost in performance and security for our customers, especially within sensitive and critical environments.
+GaN Wall Chargers
+Wire Technologies embarked on a collaborative journey with a well-established electrical goods supplier, with the objective of enhancing the customers existing range of 12V wall chargers using cutting-edge GaN technology. The initial challenge involved identifying existing manufacturers of these products, conducting thorough inspections, and subsequently improving the product design, including packaging, to meet the client's specifications. Following these enhancements, Wire Technologies assumed the crucial responsibility of ensuring product compliance in CE labs within the United Kingdom on behalf of the customer.
+The partnership began with Wire Technologies meticulously scouting and vetting existing manufacturers of 12V wall chargers. This diligent process aimed to identify capable manufacturers who aligned with the project's objectives and had the potential for improvement. Once selected, these manufacturers' operations were closely inspected to assess their current production standards and practices.
+Wire Technologies leveraged its technical expertise to enhance the product design. The integration of GaN technology was at the forefront of these improvements, with a focus on optimizing charging efficiency and performance. Additionally, the design aesthetics were meticulously refined, ensuring that the chargers not only functioned flawlessly but also possessed a visually appealing and user-friendly design. Packaging was also revamped to enhance the overall product presentation and user experience.
+With the enhanced 12V wall charger design in hand, Wire Technologies took on the critical responsibility of assuring product compliance within UKCA notified body approvals. This involved rigorous testing and evaluation processes to ensure that the chargers met the necessary safety and performance standards required for certification.
+The CE notified body certification provided the assurance that the products adhered to stringent regulatory requirements, offering peace of mind to both Wire Technologies and the client. By undergoing comprehensive testing in these labs, the 12V wall chargers were certified as compliant with relevant regulations, reinforcing their safety, reliability, and overall quality.
+Helpful Information
+Lifetime Warranty and Guaranteed Compatibility
+Euroclass CPR
+Multi-Source Agreement
+Environmental Policy
 Privacy Policy
-Cookies
-Terms & Conditions
-Designed by Elegant Themes | Powered by WordPress
-imunify-bot-check
+Returns Policy
+About Us
+About Wire Tech
+Contact Us
+Delivery
+My Account
+My Account Page
+Login
+Logout
+Register
+Search
+Account Login
+Copyright © 2026 Wire Technologies .
+Added to your cart:
+** total_quantity ** | ** unit_price ** / ** unit_measure **
+(- )
+Cart subtotal
+View cart ( )
+Checkout

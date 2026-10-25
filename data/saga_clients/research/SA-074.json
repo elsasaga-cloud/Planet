@@ -1,393 +1,209 @@
 {
  "code": "SA-074",
- "name_official": "IoT Sistem（Bosgem，USR IoT 土耳其官方分销）",
- "website_status": "在线（产品页 2018–2020 年发布，更新停滞迹象）",
- "summary": "土耳其 IoT/工业通讯产品网店，自称 USR IoT 土耳其官方分销商（Bosgem）；在售 MLB-E 系列工业以太网交换机（可管理 28 口、14 口；非管理 5/8 口；DIN 导轨、双电源 12–58VDC），面向自动化与军工项目。",
- "type": "工业/IoT 分销商（网店）",
- "size": "小型",
+ "name_official": "Elite Team Security OOD（Елит-Тим-Секюрити，弗拉察 Vratsa，保加利亚）",
+ "website_status": "在线（第三方资料）",
+ "summary": "保加利亚持牌安保公司（全国性财产保护许可，10+ 年），运营本地区最大的监控报警中心之一，实时监看 3,000+ 摄像头，提供 IP 视频监控方案；22 名员工（2022），销售额 €0–2M；A 渠道已回复：4/8 口 PoE、CCTV 为主、要 price list 与完整资料、项目较多，WA 已加。",
+ "type": "安保服务商 + 视频监控集成（终端用户/集成商）",
+ "size": "小型（22 人，€0–2M）",
  "brands_seen": [
-  "USR IoT",
-  "MLB（MLB-E4204-28-F 等工业交换机）"
+  "AxxonSoft（合作伙伴）"
  ],
  "evidence": [
   {
-   "kind": "官网",
-   "claim": "USR IoT 土耳其官方分销商 Bosgem，在售 MLB 工业交换机",
-   "quote": "Usr iot Türkiye resmi distribütörü Bosgem… Ethernet Switch MLB-E4204-28-F… MLB E4202-10-F… MLB-E4103-5-P",
-   "url": "https://www.iotsistem.com/",
+   "kind": "AxxonSoft 合作伙伴页",
+   "claim": "持牌安保公司，10 年业务，监看 3,000+ 摄像头，IP 方案",
+   "quote": "Elite Team Security is а Bulgarian company, licensed in security… has been in the security business for 10 years… We watch more than 3000 cameras in real time",
+   "url": "https://www.axxonsoft.com/partners/partner-locator/bulgaria/elite-team-security-ood",
    "date": "2026-10-21"
   },
   {
-   "kind": "官网",
-   "claim": "工业交换机用于自动化与军工项目；品类覆盖媒体转换器/可管理 PoE/可管理/非管理",
-   "quote": "Endüstriyel ethernet switch ürünlerimizi otomasyon ve askeri projeler gibi birçok projelerde kullanılabilir… Ethernet Medya Çevirici, Yönetilebilir PoE, Yönetilebilir Switch, Yönetilemez PoE, Yönetilemez Switch",
-   "url": "https://www.iotsistem.com/urun-kategori/ethernet-switch/",
+   "kind": "EMIS",
+   "claim": "22 名员工（2022），总部弗拉察",
+   "quote": "Elite Team Security OOD… currently employs 22 (2022) people. Headquarters Reka Leva, Bul./Ul. Ul.Ostri Vrah 1 Vratsa",
+   "url": "https://www.emis.com/php/company-profile/BG/Elite_Team_Security_OOD__%D0%95%D0%BB%D0%B8%D1%82_-_%D0%A2%D0%B8%D0%BC_-_%D0%A1%D0%B5%D0%BA%D1%8E%D1%80%D0%B8%D1%82%D0%B8_%D0%9E%D0%9E%D0%94__en_13259109.html",
    "date": "2026-10-21"
   },
   {
-   "kind": "官网",
-   "claim": "MLB-E4208-14-F：10 电 + 4 SFP，双电源 12~58VDC，DIN 导轨，-40/+85°C 可选",
-   "quote": "10 Gigabit bakır bağlantı noktası artı 4 SFP… Çift güç girişi (12 ~ 58VDC)… DIN rayı ve duvara montaj… -40/+85 ˚C",
-   "url": "https://www.iotsistem.com/iotsistem/ethernet-switch/yonetilebilir-switch/mlb-e4208-14-f/",
+   "kind": "findbiz",
+   "claim": "销售 €0–2M，11–50 人，经理 Radka Ivanova",
+   "quote": "SALES(€) 0-2m 2022 EMPLOYEES 11-50… Manager · RADKA ANGELOVA IVANOVA",
+   "url": "https://findbiz.gr/en/company/elite-team-security/270037185652",
    "date": "2026-10-21"
   },
   {
-   "kind": "官网",
-   "claim": "MLB-E4204-28-G-F 28 口管理机架工业机",
-   "quote": "28 Port yönetilebilir switch MLB-E4204-28-G-F … rafa monte edilebilir … MTBF · > 25 yıl … Giriş Koruması · IP30 … 19 “rafa montaj",
-   "url": "https://www.iotsistem.com/iotsistem/ethernet-switch/yonetilebilir-switch/mlb-e4204-28-g-f/",
-   "date": "2019-01-26"
+   "kind": "注册",
+   "claim": "公司注册信息、规模、营收",
+   "quote": "ЕЛИТ - ТИМ - СЕКЮРИТИ … Оборот: 248 999 € оборот за 2020 г. Служители: 12 служители към 2021 г. … Седалище адрес: БЪЛГАРИЯ, гр. Враца (3000), жк. Река Лева, ул.Остри връх, 1",
+   "url": "https://papagal.bg/eik/202351530/4f70",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "公共采购",
+   "claim": "2023-07 投标弗拉察市视频监控项目",
+   "quote": "Изграждане на видеонаблюдение на територията на Община Враца … ЕЛИТ - ТИМ - СЕКЮРИТИ ООД … 05 юли 2023 … EUR 93 736,84",
+   "url": "https://app.eop.bg/today/308554",
+   "date": "2023-07-05"
   },
   {
    "kind": "官网",
-   "claim": "管理型类目型号列表",
-   "quote": "MLB-E4204-28-F · MLB-E4204-28-G-F · MLB E4202-10-F · MLB E4202-10-GF",
-   "url": "https://www.iotsistem.com/urun-kategori/ethernet-switch/yonetilebilir-switch/",
-   "date": "2026-10-21"
+   "claim": "AxxonSoft 西北保加利亚唯一官方合作伙伴",
+   "quote": "„Елит тийм секюрити“ е официалният и единствен партньор в Северозападна България на лидера в интелигентните системи за видеонаблюдение „AxxonSoft”",
+   "url": "https://elitteamsecurity.com/2022/11/",
+   "date": "2022-11"
   }
  ],
  "kp": [
   {
-   "name": "Berk",
-   "role": "（用户记录：已有回复）",
-   "email": "info@iotsistem.com",
-   "phone": "",
-   "source": "用户 Clients 表"
+   "name": "（见 Clients 表联系人）",
+   "role": "",
+   "email": "",
+   "phone": "+359 879 377 573（WA；与公司公开号码一致）",
+   "source": "用户 Clients 表 + AxxonSoft 页"
   }
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "土耳其在主攻区；在售 MLB 工业交换机（国产白牌路线），与 STI 工业线正面对位。仅 2 次推送、Berk 曾回复（用户记录），不算耳聋。军工项目字样 → 守界：只谈自动化/商用项目。P1：STI-288DGGPM（替代 MLB 可管理 DIN 机型），分销价阶 20%。",
+ "notes": "已回复 + 具体需求（4/8 口 PoE，CCTV 项目多）+ 3,000 路摄像头存量 = 稳定小批量复购源；保加利亚虽为非主动开发小国，但为入站回复，按 A 跟。P1：STC-28DGGPM（8 口 PoE）+ STI-244GP（4 口），项目价阶 25%。",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
   "level": "深挖 v1"
  },
  "company_facts": {
-  "legal_name": "IoT Sistem（Bosgem；USR IoT 土耳其官方分销）",
-  "hq": "Türkiye",
-  "other": "IoT/工业通讯网店；MLB-E 系列工业交换机页面日期 2018–2020（陈旧），28 口机架管理型、14 口、5 口非管理；类目含工业 MC、管理/非管理 PoE"
+  "legal_name": "ЕЛИТ-ТИМ-СЕКЮРИТИ ООД（Elite Team Security OOD）",
+  "founded": "2012-12-07（ЕИК 202351530，VAT BG202351530）",
+  "hq": "гр. Враца 3000, ж.к. Река Лева, ул. Остри връх 1, Bulgaria",
+  "staff": "12（2021）/ 22（2022）",
+  "revenue": "€249k（2020）",
+  "other": "持牌安保公司（全国财产保护许可）；AxxonSoft 西北保加利亚唯一官方合作伙伴；2023-07 投标弗拉察市政视频监控项目（报价 €93,736.84）；监控中心实时监看 3,000+ 摄像头"
  },
  "business_lines": [
-  "USR IoT 串口服务器/网关分销",
-  "MLB-E 系列工业以太网交换机（机架 28 口管理、14 口、5/8 口非管理 DIN）",
-  "自动化与军工项目（守界：军工不供）"
+  "物理安保 + 报警响应",
+  "视频监控集成（城市监控、乡村监控、农业设施）",
+  "AxxonSoft AI 视频分析"
  ],
  "products_seen": [
   {
-   "brand": "MLB",
-   "model": "MLB-E4204-28-G-F / MLB-E4204-28-F",
-   "spec": "28 口千兆管理机架工业，IP30，MTBF >25 年",
-   "url": "https://www.iotsistem.com/iotsistem/ethernet-switch/yonetilebilir-switch/mlb-e4204-28-g-f/",
-   "date": "2019-01-26",
-   "saga": "STC-424XGGPM-280W（PoE 版）/ STC-448XGGM(L3)"
+   "brand": "（集成商自用）",
+   "model": "4/8 口 PoE 交换机（用户记录）",
+   "spec": "CCTV 点位供电；要 price list 与完整资料",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "用户表",
+   "saga": "STC-28DGGPM / STI-144GP"
   },
   {
-   "brand": "MLB",
-   "model": "MLB E4202-10-F / E4202-10-GF；MLB-E4208-14-G-F",
-   "spec": "10/14 口管理型",
-   "url": "https://www.iotsistem.com/urun-kategori/ethernet-switch/yonetilebilir-switch/",
-   "date": "2019-01",
-   "saga": "STI-288DGGPM"
-  },
-  {
-   "brand": "MLB",
-   "model": "MLB-E4102-5-F / MLB-E4101-5",
-   "spec": "5 口非管理 DIN，-40~75℃",
-   "url": "https://www.iotsistem.com/iotsistem/ethernet-switch/yonetilemez-switch/mlb-e4102-5-f/",
-   "date": "2018-11-26",
-   "saga": "STI-144GP"
+   "brand": "AxxonSoft",
+   "model": "智能视频分析平台（合作伙伴）",
+   "spec": "—",
+   "url": "https://elitteamsecurity.com/2022/11/",
+   "date": "2022-11",
+   "saga": "—"
   }
  ],
  "channels": {
-  "网站/网店": "https://www.iotsistem.com/（「Fiyat Teklif Listesine Ekle」询价制）",
-  "直邮": "info@iotsistem.com（用户表）"
+  "网站": "https://elitteamsecurity.com/",
+  "直邮": "ets@elitteamsecurity.com（用户表）",
+  "WhatsApp": "已加（用户表）",
+  "电话": "+359879377573（首轮调研，与记录一致）"
  },
  "signals": [
-  "MLB 系列页面最后日期 2018–2020——产品线陈旧，可能正在换源（2026-10-21）",
-  "用户表：工业 FS，好多都是 MLB 型号"
+  "2023-07-05：参与 Община Враца 视频监控公共采购（€93.7k）——有市政项目型需求（https://app.eop.bg/today/308554）",
+  "用户表：4/8 口 PoE，项目较多，要 price list"
  ],
  "risks": [
-  "提及军工项目——守界，只供自动化/商用",
-  "网店询价制，决策人不明"
+  "公共采购（市政）部分守界：仅供集成商商用部分，不介入投标文件",
+  "量小（每项目数十台）"
  ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
-  "tier": 20,
-  "why": "MLB-E4202-10 / E4208-14 位（8–14 口 DIN 管理）对位 STI-288DGGPM；5 口位 STI-144GP；28 口机架位 STC-424XGGPM-280W；分销 20% 档"
+  "p1": "STC-28DGGPM",
+  "tier": 25,
+  "why": "4/8 口 PoE 需求：STC-28DGGPM（8 PoE + 2 SFP 管理）为主、STI-144GP（4+1 工业，户外箱内）为辅；集成商 25% 档"
  },
- "email_hook": "Your MLB-E4202-10 and E4208-14 class DIN units map directly onto the 8-port gigabit PoE managed switch we build on a Marvell core, so I am quoting that first with the 5-port compact model as the entry SKU.",
+ "email_hook": "For the 4- and 8-port PoE positions on your camera sites, the 8-port gigabit PoE+ managed unit and the 4+1 industrial DIN model are the two I am sending with a full price list and datasheets as you asked.",
  "mail_review": {
   "binding": {
-   "level": "未绑定（无成交；两年三轮询价全部止于「太贵」；Elsa 箱：`to:iotsistem.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 40 / 来 21）（第 74 批(g)））",
-   "type": "土耳其 DIN 导轨工业集成/分销（**价格流**：每轮都要 special price、改 10/100 降配）",
-   "sieve": "1–2（回群发、要价表；未付样、未走 Template）",
-   "stop": "价格——2024-05「Price is higher than expected」、2026-05/06「extremely expensive」、2026-08「huge expensive」；只接受 DIN 导轨形态",
-   "revive": "只有当 Saga 愿意用 Realtek/HRUI 线报 DIN 10/100 低价机（偏离 Marvell 口号）或里拉企稳；否则按 C6 不设计让价",
-   "lane": "TR 已通（但对方要人民币/中国付款代理，2026-09-18 Alan 已按 RMB 报）",
-   "cadence": "最后 2026-09-18 Alan 报 1,100 RMB/台（16 口 DIN PoE）；来信 19 封（A 邮箱最多之一）但零成交",
-   "evidence": "A 邮箱 k=19bc7eefb231ce4a / 0a2e19b099bda25c / d88199ef36ad9a1d / faed82fe02dfeb95 / 48f91a073d0f4e97；A 邮箱附件正文 `data/gmail_a/attachments/text/`（2026-10-24 对表）；第 19 批回补来信原文 8 条（gmail_s/gmail_a）"
+   "level": "未绑定（2025-12 主动表示有兴趣 → 看完价表「prices are rather high」；Elsa 箱：`to:elitteamsecurity.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 14 / 来 2）（第 74 批(g)））",
+   "type": "保加利亚安保服务 + 视频监控集成（3,000 路摄像头存量，用户表）——入站回复型；BG 在欧洲但非主攻国",
+   "sieve": "2",
+   "stop": "2025-12-17「overall, the prices are rather high」→ Alan 请其点名型号再报「best offer」→ 无回",
+   "revive": "其按型号点名；或 Saga 用 Realtek 线对位 4/8 口 PoE（需 Simon 开线）",
+   "lane": "BG/EU",
+   "cadence": "2025-02 → 2026-09 去信 14 封；最后来信 2025-12-17",
+   "evidence": "k=a42411d30baef3d6 / 4c204b4351556387 / 20adc365c4c829ca"
   },
-  "situation": "土耳其 iotsistem（Berk）是 A 邮箱来信第二多的客户（19 封）但是典型价格流：2024-05 S 邮箱「price higher than expected」；2026-01 要目录价表；2026-05 要 DIN 版、要改成 10/100 铜口、「special price」、「extremely expensive」；2026-06 明说终端客户永远选便宜的 10/100；2026-08 24 口 PoE 管理型「huge expensive」要回到上次非管理价；Alan 9-03「our offer is almost the best… 120USD/PC for 24 port unmanaged」；9-18 16 口 DIN PoE 报 1,100 RMB。**两年没有一次走到样品。**",
-  "need": "DIN 导轨、8–24 口 10/100（最多千兆）+ 2 光口 SC（多模 2 km / 单模 20–80 km）、非管理或轻管理、尽可能便宜；本质是 Realtek 级规格。",
-  "breakpoint": "价格与芯片线错位：他要的是 Realtek 价位的 DIN 机，Saga 群发推的是 Marvell。C2 第一道筛子本应把他筛掉，但他持续回信，消耗了 Alan 约 30 封去信。",
+  "situation": "Lachezar 2025-12-04 的回信很认真：「definitely interested… competitive pricing, flexible OEM terms… appreciate an approximate price range」；看完链接后 12-17 的结论是「prices are rather high」。Alan 请他点名型号再给最优价，没有下文。",
+  "need": "4/8 口 PoE（CCTV 项目），价格敏感。",
+  "breakpoint": "价格筛子生效；C6 不设计让价，但「点名型号」这一步对方没走——说明差距不是 10%。",
   "saga_now": {
-   "p1": "不推 Marvell；若 Simon 允许，用 HRUI 线 DIN 导轨 8 口 10/100+2 SC（价见 `价格主表_HRUI.csv`）一次报清，不再来回",
-   "tier": 20,
-   "price": "HRUI 线对应型号 CNY ×1.2 ÷ 汇率快照（如 Simon 不愿动 Realtek 线则不报）；历史报价（邮件原话，老汇率）：2026-06-09 STI-288GPM 90USD；2026-08-17 340USD；2024-05-29 STI-050GE STI-050GE 18usd；2024-05-03 STI-050GE 25usd；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-06-24 $220（Re: Industrial network switch）；群发里他已看到的价（续）：2026-08-13 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-25 $280（10G Enterprise SFP Switch）",
-   "why": "C3：继续用 Marvell 报价是「拼命单」；要么换线一次报清，要么停止投入。已打开的主题（29/40 封有打开记录）：「Re: 24 Port PoE Managed Switch」(2026-08-20)、「Re: 24 Port PoE Managed Switch」(2026-09-03)、「16 Port Industrial PoE Switch」(2026-09-17)、「Re: 16 Port Industrial PoE Switch」(2026-09-18) → 读者兴趣偏「工业」；与 P1 同类，继续｜对外统一口径（#9/#12）：2026-08-20「We also accept Lira payment」是对土耳其老客户的特例口径，按当日汇率；涨价说明统一「PCB/RAM + 汇率」",
+   "p1": "STC-28DGGPM（8 口 PoE 商用）；若 Simon 开 Realtek 线则 HRUI 对位",
+   "tier": 25,
+   "price": "换人再触锚价 STC-28DGGPM $84.1 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按 25% 集成档；群发里他已看到的价（续）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-05-30 $300（48 Port PoE Managed Switch）、2025-10-03 $280（10G Enterprise SFP Switch）",
+   "why": "一句话问其现供价位段，不再发链接。已打开的主题（4/14 封有打开记录）：「Optional Marvell Chipset Solutions」(2025-12-04)、「Re: Optional Marvell Chipset Solutions」(2025-12-04)、「Re: Optional Marvell Chipset Solutions」(2025-12-15)、「Re: Optional Marvell Chipset Solutions」(2025-12-18) → 读者兴趣偏「其他」；当前 P1 属「PoE 接入」，下一封按「其他」给，不按 P1",
    "repeat": [],
    "gaps": [
-    "是否对 iotsistem 开 Realtek 线——Simon 定（口号筛子 vs 顺手单）",
-    "他要的「SC 光口 + 10/100」在 HRUI 目录里是否有现货型号——查规格书后再说，不猜"
+    "其现用 PoE 交换机品牌/价位（用户表无）"
    ]
   },
   "next_move": {
-   "when": "不主动；他下次来信时一次性答复",
-   "channel": "A 邮箱 → info@iotsistem.com（Berk）",
-   "action": "一句话：Marvell 线价格就是这样；若要 10/100 DIN 低价机，给 HRUI 线一张表（需 Simon 同意），否则礼貌收尾（第 75 批(s) 2026-10-25：回信模板已写 `draft_en`（只在他来信时用；HRUI 预算线不写价，Simon 同意换线后再报））（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
-   "one_question": "（若 Simon 同意换线）Would an 8-port 10/100 + 2×SC DIN unmanaged unit at about $48 EXW (STI-180FE, 8×FE + 1×SC/FX; the 2×SC variant to be confirmed) close this, or is PoE still required?"
+   "when": "2027-Q1",
+   "channel": "A 邮箱 → ets@",
+   "action": "问现供价位段（第 75 批(q) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；预算线 HRUI STC-028GP/114GP 不写 Marvell）（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
+   "one_question": "What landed price per 8-port PoE switch do you pay today, so we can tell you honestly whether Marvell fits? Reference: STC-28DGGPM at $84.1 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
    {
-    "date": "2024-05-03",
+    "date": "2025-02-26",
     "dir": "去",
-    "who": "Saga（Simon）",
-    "quote": "Hi, Bosgem, Thanks for your interest. 25usd/pc STI-050GE Industrial Ethernet Switch 5*10/100/1000M Ethernet, without Fiber port, non-PoE, unmanaged Support DIP function, DC12V~DC58V(Removable 4 PIN Industrial Terminal Block) , -40℃ to 75℃, Din mounted, without",
-    "why": "历史报价点（主题「Re: Industrial network switch」；第 20 批从 gmail_s 回补）：STI-050GE 25usd",
-    "k": "6f9e1d3875bc1933"
+    "who": "A 箱（Alan）",
+    "quote": "Industrial PoE Switch",
+    "why": "首封去信（邮箱索引；去信共 14 封）",
+    "k": "5f68ac5af5095d8c"
    },
    {
-    "date": "2024-05-29",
+    "date": "2025-12-04",
     "dir": "来",
-    "who": "Berk（iotsistem）",
-    "quote": "Price is higher than expected.",
-    "why": "价格流起点（S 邮箱）",
-    "k": "19bc7eefb231ce4a"
+    "who": "Lachezar（Elite Team Security）",
+    "quote": "We are definitely interested in exploring your Marvell AC3 and AC5 solutions… we would appreciate receiving an approximate price range",
+    "why": "兴趣",
+    "k": "a42411d30baef3d6"
    },
    {
-    "date": "2024-05-29",
+    "date": "2025-12-04",
+    "dir": "来",
+    "who": "ets@elitteamsecurity.com",
+    "quote": "Re: Optional Marvell Chipset Solutions｜*Hi,*  Thank you for your message and the detailed overview. We are definitely interested in exploring your Marvell AC3 and AC5 solutions, especially ",
+    "why": "来信（邮箱索引；原文见 k；是否人工回复以原文为准）",
+    "k": "a42411d30baef3d6"
+   },
+   {
+    "date": "2025-12-17",
+    "dir": "来",
+    "who": "Lachezar",
+    "quote": "there are quite a few useful and interesting points that we could apply, but overall, the prices are rather high.",
+    "why": "价格停点",
+    "k": "4c204b4351556387"
+   },
+   {
+    "date": "2025-12-17",
+    "dir": "来",
+    "who": "ets@elitteamsecurity.com",
+    "quote": "Re: Optional Marvell Chipset Solutions｜*Hi,*  Yes, I reviewed the information — there are quite a few useful and interesting points that we could apply, but overall, the prices are rather h",
+    "why": "来信（邮箱索引；原文见 k；是否人工回复以原文为准）",
+    "k": "4c204b4351556387"
+   },
+   {
+    "date": "2026-09-07",
     "dir": "去",
-    "who": "Saga（Simon）",
-    "quote": "Hi, Bosgem, Do you mean STI-050GE price? We have a mini model, please see attached photo. There are 3 main differences between 2 models. 1, DIP function 2, Power input, STI-050GE is DC12V~58V, STI-050GE-M is DC12V~36V. 3, Size and weight, STI-050GE is 30*98*13",
-    "why": "历史报价点（主题「Re: Industrial network switch」；第 20 批从 gmail_s 回补）：STI-050GE, STI-050GE, STI-050GE-M 18usd",
-    "k": "effa45ee7857ca74"
-   },
-   {
-    "date": "2024-11-05",
-    "dir": "去",
-    "who": "Simon → Angora Networks（SA-168）附件 Turkey Client List.xlsx",
-    "quote": "名单行：「Bosgem industrial network info@iotsistem.com https://www.iotsistem.com/urun-kategori/ethernet-switch/yonetilebilir-switch/」",
-    "why": "Saga 2024-11-05 把本户列入交给 Angora（安卡拉，Saga 提议的欧盟/土耳其分销伙伴）的 64 家起步名单；此后 Saga 仍直发本户。若 Angora 已接触过本户，Saga 直发会与自己提议的渠道打架 → Q-51（默认：直发继续，Angora 报了价的户 Saga 只做技术支持）",
-    "k": "gmail_s 2024-11-05 Re: Invoice_5pcs STC-424DGGPM-280W（附件）+ Drive PI 7_土耳其 Turkey_Client_List.xlsx"
-   },
-   {
-    "date": "2026-01-29",
-    "dir": "来",
-    "who": "info@iotsistem.com",
-    "quote": "Hi I’m fine, Could you send to catalouge pdf and price list too?= We can check to device deeply, Thank you, Berk Very Best Regards…",
-    "why": "来信原文（主题「RE: OEM Core Switching Solution」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
-    "k": "de3f311cbf2fca6c"
-   },
-   {
-    "date": "2026-02-02",
-    "dir": "去",
-    "who": "Saga（Alan）",
-    "quote": "Hi, Berk, Sorry for the late reply. 1, Please check the info from below google drive link https://drive.google.com/drive/folders/1nKIZPptuYQhoUs0FbjyXYStrn2sl4iRU?usp=drive_link . 2, For prices, we are still deciding for 2026. Memory prices have risen too much recently. Please first check the inform…",
-    "why": "Saga 实质答复原文（主题「Re: OEM Core Switching Solution」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
-    "k": "7347a7e968898eeb"
-   },
-   {
-    "date": "2026-05-08",
-    "dir": "去",
-    "who": "Saga（Alan）",
-    "quote": "Hi, Berk, 1. For this spec, it also have an industrial version, but rack type as well. 2. For DIN model, the best we can do is as below 8*10/100/1000Base-T RJ45 ports, 8*100/1000Base-X SFP, 4*1G/2.5G/10G Base-X SFP+ slots Please see attached datasheet(L2+ managed) Btw: L3 managed is also available.…",
-    "why": "Saga 实质答复原文（主题「Re: 10G Enterprise SFP Switch」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
-    "k": "e19d4573051439f3"
-   },
-   {
-    "date": "2026-05-20",
-    "dir": "来",
-    "who": "info@iotsistem.com",
-    "quote": "Hi Alan, We only need to Copper port no need to Sfp port? Just 1 -2 sfp is enough other’s must be copper port 10/100Mbps. Do you understand what are n",
-    "why": "来信原文（主题「RE: 10G Enterprise SFP Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
-    "k": "e5e0bef6d09c7cca"
-   },
-   {
-    "date": "2026-05-20",
-    "dir": "来",
-    "who": "info@iotsistem.com",
-    "quote": "Hi Alan, Goodday, Could it possible to change Only 10/100 or 10/100 /1000 not SFP.? Possbile to make it this device? If yes pls let us. Thank you, Ber",
-    "why": "来信原文（主题「RE: 10G Enterprise SFP Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
-    "k": "084d04e5ec702dc9"
-   },
-   {
-    "date": "2026-05-21",
-    "dir": "来",
-    "who": "Berk（iotsistem，info@iotsistem.com）",
-    "quote": "Could you tell me specail price?（24 口纯铜非管理）",
-    "why": "每一轮的固定句式：先要 special price",
-    "k": "gmail_a c06af195ab819939"
-   },
-   {
-    "date": "2026-05-28",
-    "dir": "来",
-    "who": "Berk",
-    "quote": "price is extremely expensive, Could it possible to 10/100 not giga?",
-    "why": "降配求价",
-    "k": "0a2e19b099bda25c"
-   },
-   {
-    "date": "2026-05-28",
-    "dir": "去",
-    "who": "Saga（Alan）",
-    "quote": "Hi, Berk, 1. for 5 and 8 port models, we have 10/100Mbps, just 10/100Mbps 2. for 16 / 24 port model, it is ONLY 10/100/1000Mbps, auto-adaptive. To be honest, this is NOT our focus, we do managed networking solutions. What you need is unmanaged, we will not produce a new version(10/100Mbps), it is lo…",
-    "why": "Saga 实质答复原文（主题「Re: 10G Enterprise SFP Switch」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
-    "k": "3a31a94be60bc5ee"
-   },
-   {
-    "date": "2026-06-04",
-    "dir": "来",
-    "who": "info@iotsistem.com",
-    "quote": "Hi Friend, Good day, Sorry we are Religional holiday so some gap’s. So We receive to 24 port giga series ,very well item, Just only one diffuculties p",
-    "why": "来信原文（主题「RE: 10G Enterprise SFP Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
-    "k": "6b84cc5fa165d326"
-   },
-   {
-    "date": "2026-06-06",
-    "dir": "去",
-    "who": "Alan（A 邮箱）",
-    "quote": "About 24-port copper, we only have Giga model… 16 fiber? What is the spec? like 2*SFP ports and 16*copper, managed?",
-    "why": "Berk 的需求描述常常不清（「16 fiber」）——每轮都要先反问口型",
-    "k": "gmail_a 8704c1a58b62171a"
-   },
-   {
-    "date": "2026-06-08",
-    "dir": "来",
-    "who": "Berk",
-    "quote": "8-16-24 port 10/100Mbps Ethernet port (minimum 8 port) + 2 Port Fiber Optical SC (Multi-mode: 2KM Single-mode: 20/40/60/80KM)",
-    "why": "真实规格 = Realtek 级",
-    "k": "62ef6eb2735e86ae"
-   },
-   {
-    "date": "2026-06-09",
-    "dir": "来",
-    "who": "info@iotsistem.com",
-    "quote": "Hi Alan, Good day, 1- We keep on 24 port giga still is huge esxpensive anyway thanks, 2- Left Picture only 4 Fiber port SC look’s fit pls tell to pric",
-    "why": "来信原文（主题「RE: 10G Enterprise SFP Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
-    "k": "3567ff28d4ac5917"
-   },
-   {
-    "date": "2026-06-09",
-    "dir": "去",
-    "who": "Saga（Alan）",
-    "quote": "Hi, Berk, Thanks for your information. Yes, left picture supports 1G*fixed fiber(SC connector). Price is 90USD/PC STI-288GPM 2*1000M SC connector(SM or MM)+8*10/100/1000M PoE L2 Managed, PoE af/at, 240W budget, Din Rail, Redundant DC44V~57V Input, Without powe",
-    "why": "历史报价点（主题「Re: 10G Enterprise SFP Switch」；第 20 批从 gmail_a 回补）：STI-288GPM 90USD",
-    "k": "d4c32ad12702c20b"
-   },
-   {
-    "date": "2026-07-14",
-    "dir": "来",
-    "who": "info@iotsistem.com",
-    "quote": "Hi Friend, Good day ,ı’m fine and you, We prefer din rail industrail portfolio ,rather than rack type switch. So ıf you have catalouge and price list",
-    "why": "来信原文（主题「RE: Saga Q3 Product Links」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
-    "k": "bdc994b4368dfec0"
-   },
-   {
-    "date": "2026-08-13",
-    "dir": "来",
-    "who": "info@iotsistem.com",
-    "quote": "Hi Alan, Good day,How are you hopewully you are fine, Very pretty, But as you know our business allow only din rail? Do you have this one Din rail for",
-    "why": "来信原文（主题「RE: 24 Port PoE Managed Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
-    "k": "3e4eb87e78c9adb1"
-   },
-   {
-    "date": "2026-08-17",
-    "dir": "来",
-    "who": "info@iotsistem.com",
-    "quote": "Hi Friend, Good day Devices looks pretty, Could you tell me special price for me? Thank you Berk B.R Alan from Saga Telecom <a.sagatelecom@gmail.com>",
-    "why": "来信原文（主题「Re: 24 Port PoE Managed Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
-    "k": "ca8eab6eec73a6fe"
-   },
-   {
-    "date": "2026-08-17",
-    "dir": "去",
-    "who": "Saga（Alan）",
-    "quote": "Hi, Berk, 1. 340USD/PC Industrial PoE Managed Switch 4*1G/2.5G/10G SFP+24*10/100/1000M RJ45/PoE +1*Console Port+1*USB Port 20*PoE af/at+4*PoE af/at/bt, 240W/370W, L2+ Managed, Active PoE, DC48V output DC44V~DC57V(Removable 4 PIN Industrial Terminal Block), Din",
-    "why": "历史报价点（主题「Re: 24 Port PoE Managed Switch」；第 20 批从 gmail_a 回补）：340USD",
-    "k": "4f01bf073540287e"
-   },
-   {
-    "date": "2026-08-18",
-    "dir": "来",
-    "who": "Berk",
-    "quote": "This is huge expensive friend… price highly important issue for Turkish client. Now the Currency is amazing raise",
-    "why": "里拉 + 价格",
-    "k": "d88199ef36ad9a1d"
-   },
-   {
-    "date": "2026-08-18",
-    "dir": "来",
-    "who": "Berk（附件 price.png = Alan 2026-06-08 邮件截图）",
-    "quote": "For 24 port copper, just Gigabit model, price is 120USD/PC, STI-0240GE",
-    "why": "对方把 Alan 6 月的 $120 原话截图回寄 =「你自己报的就是贵」；土耳其 10/100 低价需求与 Saga 千兆线错位",
-    "k": "gmail_a att 2026-08-18"
-   },
-   {
-    "date": "2026-08-20",
-    "dir": "去",
-    "who": "Saga（Alan）",
-    "quote": "Hi, Berk, Thanks for your feedback. 1. Last offer was an unmanaged model, but managed this time. So there is the big price gap. 2. Please do know that our models are Marvell chipset based. This is usually more expensive than Realtek or some untrusted brands. 3. Yes I know. Lira currency is a big pro…",
-    "why": "Saga 实质答复原文（主题「Re: 24 Port PoE Managed Switch」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
-    "k": "c6123b252bbbe871"
-   },
-   {
-    "date": "2026-08-21",
-    "dir": "来",
-    "who": "Berk（iotsistem，info@iotsistem.com）",
-    "quote": "You are exactly right, Pls could you help to provide Reliable cheaper one?",
-    "why": "接受「Marvell 贵」的解释，但要更便宜的可靠款——Alan 09-03 答「120USD 24 口非管理已是最好」",
-    "k": "gmail_a 7703e6444b479a47"
-   },
-   {
-    "date": "2026-09-02",
-    "dir": "来",
-    "who": "Berk（iotsistem，info@iotsistem.com）",
-    "quote": "Is there any feed back? Do you have solution_?",
-    "why": "催「更便宜的方案」；Alan 09-03 答复",
-    "k": "gmail_a 86eb3067b4d8819b"
-   },
-   {
-    "date": "2026-09-03",
-    "dir": "去",
-    "who": "Alan",
-    "quote": "I checked around, our offer is almost the best… 120USD/PC for 24 port unmanaged",
-    "why": "Saga 已到底线",
-    "k": "faed82fe02dfeb95"
-   },
-   {
-    "date": "2026-09-17",
-    "dir": "来",
-    "who": "Berk（iotsistem，info@iotsistem.com）",
-    "quote": "Could you tell me to price and datasheet?（16 口 DIN PoE）",
-    "why": "第三条线开口；Alan 09-18 按 RMB 报 1,100/台",
-    "k": "gmail_a b1fd581f3292521f"
-   },
-   {
-    "date": "2026-09-18",
-    "dir": "去",
-    "who": "Alan",
-    "quote": "Let me quote in RMB: 1100RMB/PC, excluding optical module or power supply. Maybe it is easier if you have a payment agent in China",
-    "why": "最后一次报价（RMB）",
-    "k": "48f91a073d0f4e97"
+    "who": "A 箱（Alan）",
+    "quote": "16 Port Industrial PoE Switch",
+    "why": "最近一封去信（邮箱索引；去信共 14 封）",
+    "k": "5468323c3bbb5692"
    }
   ],
-  "proof_gaps": [
-   "在 Saga 给 Angora 的 Turkey Client List（2024-11-05）里——Angora 是否接触过本户无记录（Q-51）"
-  ],
+  "proof_gaps": [],
   "draft_en": {
-   "subject": "Reply template - use only when Berk writes next (no proactive send)",
-   "body": "Hi Berk,\n\nThanks for coming back. Straight answer, so you do not have to chase me again: the Marvell-based managed units are priced where you saw them - that line does not move, and for projects where the end customer always picks the cheapest 10/100 unit it is the wrong line, you were right about that.\n\nWhat I can do for those projects is a separate budget line: DIN-rail 10/100 copper + SC fibre, unmanaged, wide DC input, at a fraction of the managed price. If you want it, give me the exact port count (8, 16 or 24 copper), fibre type (multimode 2 km or single-mode 20 km) and whether PoE is still required, and I quote that line in one mail - no catalogue.\n\nOne question: is PoE still required, or is it plain 10/100 + fibre now?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+   "subject": "You said our prices were rather high - so here is the budget line, and one question",
+   "body": "Hello Lachezar,\n\nIn December you looked at our price list and concluded the prices were rather high; I asked which model to re-price and that is where it stopped - our side as much as yours.\n\nSo, the budget line for camera sites that do not need management, CE/RoHS, EXW, MOQ 1, 15-day validity: 8 x Gigabit PoE+ + 2 x Gigabit uplinks, unmanaged - model STC-028GP - $26.2 USD; 4 x Gigabit PoE+ + 1 x Gigabit + 1 x SFP - STC-114GP - $17.8. Where a site needs VLAN and ring, the managed 8-port on Marvell stays at $84.1 - STC-28DGGPM.\n\nOne question: what do you pay today for the 8-port PoE you install most? A band is enough, and I will say yes or no in one line.\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
  }

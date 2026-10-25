@@ -2,65 +2,130 @@
  "code": "SB-649",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "在线（tss.co.th，快照 2026-10-21）",
- "summary": "泰国 TSS（瘦客户机、POS 收款、生物识别设备；阿里巴巴 RFQ「无人机」；KP Worrawee Veerakachen）；表内未跟进。",
- "type": "IT 设备商（泰国，无人机 RFQ）",
+ "website_status": "在线（basarimuhendislik.com，快照 2026-10-21）",
+ "summary": "土耳其 Başarı Mühendislik（能源监测与能源自动化、工业 IoT、SCADA & RTU、通信系统、保护与控制；站内工业千兆 PoE / 可管理与非管理工业 PoE 交换机栏目；品牌 Korenix / Milesight / Siemens；KP Hakan Öztürk）；表内 1 次跟进无回复。",
+ "type": "能源自动化集成商（土耳其，Korenix 在售；仅民用口径）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Milesight",
+  "Siemens",
+  "Korenix"
+ ],
  "evidence": [
   {
    "kind": "官网快照",
-   "claim": "官网标题：TSS",
-   "quote": "มั่นใจกับผลิตภัณฑ์และบริการ；ธินไคลแอนต์ สมรรถนะสูง! ใช้งานแอปพลิเคชั่นได้มากกว่า；Q161；ผู้ช่วยรับชำระเงินสำหรับร้านค้า；ไบโอเมตริกซ์ ลายนิ้วมือ การจดจำใบหน้า 3 มิติ；Parallels®️ RAS",
-   "url": "https://tss.co.th/",
+   "claim": "官网标题：Başarı Mühendislik；品类词 工业自动化 / OT 网络 / 网络交换 / PoE",
+   "quote": "Enerji İzleme, Enerji Otomasyonu çözümlerimizle enerji altyapınızı optimize edin,",
+   "url": "https://www.basarimuhendislik.com/",
    "date": "2026-10-21"
   },
   {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "无人机 / from: 阿里巴巴RFQ",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "无人机 RFQ",
-   "quote": "无人机 / from: 阿里巴巴RFQ",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "kind": "官网快照",
+   "claim": "Başarı Mühendislik 定位",
+   "quote": "Ana Sayfa - Başarı Mühendislik ; Enerji İzleme, Enerji Otomasyonu çözümlerimizle enerji altyapınızı optimize edin ; /endustriyel-gigabit-poe-switch/",
+   "url": "https://www.basarimuhendislik.com/",
    "date": "2026-10-21"
   }
  ],
- "kp": [],
- "grade_override": "C",
- "override_reason": "品类不符（无人机 RFQ）；c_sub=品类不符",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "kp": [
+  {
+   "name": "Hakan Öztürk",
+   "title": "（职务待核）",
+   "email": "hakan.ozturk@basarimuhendislik.com",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "泰国",
-  "other": "官网 tss.co.th，语言 en，快照状态 ok；角色判定来源：待核"
+  "hq": "土耳其",
+  "other": "官网 basarimuhendislik.com，语言 tr，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "瘦客户机 / POS / 生物识别（泰国）"
+  "能源监测 / 能源自动化 / SCADA & RTU",
+  "工业 IoT / 通信系统（工业交换机栏目）"
  ],
  "channels": {
-  "role": "IT 设备商（泰国，无人机 RFQ）",
-  "region": "泰国",
-  "contact": "worrawee@tss.co.th"
+  "role": "能源自动化集成商（土耳其，Korenix 在售；仅民用口径）",
+  "region": "土耳其",
+  "contact": "hakan.ozturk@basarimuhendislik.com"
  },
  "signals": [
-  "官网：TSS ; ธินไคลแอนต์ สมรรถนะสูง ; ผู้ช่วยรับชำระเงินสำหรับร้านค้า ; ไบโอเมตริก",
-  "表内：无人机 / from: 阿里巴巴 RFQ；KP Worrawee Veerakachen"
+  "页面 /endustriyel-gigabit-poe-switch/、/endustriyel-ethernet-switch/endustriyel-yonetilebilir-poe-switch/、/endustriyel-switch/；首页 Enerji Çözümleri ; Scada & RTU Sistemleri ; Haberleşme Sistemleri；站内品牌 Korenix / Milesight / Siemens",
+  "官网：Enerji İzleme, Enerji Otomasyonu çözümlerimizle enerji altyapınızı optimize edin；KP Hakan（hakan.ozturk@）"
  ],
  "risks": [
-  "品类不符：无人机 RFQ；主业瘦客户机/POS；非主攻区（泰国）"
+  "守界备注：能源/电力场景——只供民用通用工业交换机；IEC 61850-3 认证 Saga 无",
+  "土耳其：汇率敏感；1 次跟进无回复；KP 职务待核"
  ],
  "saga_fit": {
-  "p1": null,
-  "tier": 20,
-  "why": "RFQ 品类无人机（Saga 不供）、主业与交换机无关 → 改 C（品类不符）"
+  "p1": "STI-288GPM",
+  "tier": 25,
+  "why": "工业 PoE 栏目（现 Korenix）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）/ 非管理 STI-288GP（$59.8）；IEC 61850-3 Saga 无（注明）"
  },
- "email_hook": "（不发送：品类不符）"
+ "email_hook": "Hakan, alongside the Korenix industrial PoE switches you list for energy and IIoT cabinets, we supply DIN-rail 8-PoE + 2 SFP managed (Marvell L2+) or unmanaged units (−40~75 °C, redundant input, CE/RoHS, neutral packing) from single units, EXW USD — which configuration do your SCADA and RTU sites use most?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 5 封 2025→2026，无记录打开，0 回；收件 hakan.ozturk@basarimuhendislik.com；主题多为「10G Enterprise SFP Switch、Booster PoE Switch」；Elsa 箱：`to:basarimuhendislik.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 5 / 来 0）（第 74 批(i)））",
+   "type": "能源自动化集成商（土耳其，Korenix 在售；仅民用口径）",
+   "sieve": "1（只收到群发）",
+   "stop": "5 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "TR 主攻（四主）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 5；研究档 risks：守界备注：能源/电力场景——只供民用通用工业交换机；IEC 61850-3 认证 Saga 无"
+  },
+  "situation": "土耳其 Başarı Mühendislik（能源监测与能源自动化、工业 IoT、SCADA & RTU、通信系统、保护与控制；站内工业千兆 PoE / 可管理与非管理工业 PoE 交换机栏目；品牌 Korenix / Milesight / Siemens；KP Hakan Öztürk）；表内 1 次跟进无回复。",
+  "need": "工业 PoE 栏目（现 Korenix）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）/ 非管理 STI-288GP（$59.8）；IEC 61850-3 Saga 无（注明）",
+  "breakpoint": "守界备注：能源/电力场景——只供民用通用工业交换机；IEC 61850-3 认证 Saga 无",
+  "saga_now": {
+   "p1": "STI-288GPM",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-30 $280（10G Enterprise SFP Switch）",
+   "why": "工业 PoE 栏目（现 Korenix）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）/ 非管理 STI-288GP（$59.8）；IEC 61850-3 Saga 无（注明）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
+   "one_question": "Hakan, alongside the Korenix industrial PoE switches you list for energy and IIoT cabinets, we supply DIN-rail 8-PoE + 2 SFP managed (Marvell L2+) or unmanaged units (−40~75 °C, redundant input, CE/RoHS, neutral packing) from single units, EXW USD — which configuration do your SCADA and RTU sites use most?"
+  },
+  "facts": [
+   {
+    "date": "2025-10-30",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "10G Enterprise SFP Switch",
+    "why": "首封去信（邮箱索引；去信共 5 封）",
+    "k": "d084b0509c4d3544"
+   },
+   {
+    "date": "2026-03-11",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "10G Enterprise SFP Switch、Booster PoE Switch",
+    "why": "5 封 / 0 次打开 / 0 回｜首封 2025-10-30 → 末封 2026-03-11（5 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-03-11",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "Updated Ethernet Switches Links",
+    "why": "最近一封去信（邮箱索引；去信共 5 封）",
+    "k": "7ca9e7d0bde1c202"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

@@ -1,139 +1,109 @@
 {
- "code": "SB-016",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（nexxtsolutions.com，快照 2026-10-21）",
- "summary": "美国 Nexxt Solutions（拉美导向的网络/基础设施品牌（Intcomex 集团旗下）：connectivity 与 infrastructure 目录、工业方案页；表内「一部分贴牌的商业 PoE，其他周边产品」；KP Paula Aguilera、Luis Garcia）；表内 4 次跟进无回复。",
- "type": "网络品牌商（美国/拉美，贴牌商用 PoE）",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：Nexxt Solutions",
-   "quote": "",
-   "url": "https://www.nexxtsolutions.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "一部分贴牌的商业PoE 其他周边产品",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "Nexxt 站点",
-   "quote": "Nexxt Solutions ; /connectivity/catalog ; /infrastructure/solutions/industrial-solution",
-   "url": "https://www.nexxtsolutions.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "贴牌商用 PoE",
-   "quote": "一部分贴牌的商业PoE 其他周边产品",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Paula Aguilera",
-   "title": "（职务待核）",
-   "email": "paguilera@nexxtsolutions.com",
-   "phone": "",
-   "source": "用户表"
-  },
-  {
-   "name": "Luis Garcia",
-   "title": "（职务待核）",
-   "email": "lgarcia@nexxtsolutions.com",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "美国",
-  "other": "官网 nexxtsolutions.com，语言 en-US，快照状态 ok；角色判定来源：用户表"
- },
- "business_lines": [
-  "网络连接 / 基础设施品牌（Nexxt）"
- ],
- "channels": {
-  "role": "网络品牌商（美国/拉美，贴牌商用 PoE）",
-  "region": "美国",
-  "contact": "paguilera@nexxtsolutions.com、lgarcia@nexxtsolutions.com"
- },
- "signals": [
-  "页面 /infrastructure/solutions/industrial-solution、/connectivity/catalog、/infrastructure/catalog",
-  "表内：一部分贴牌的商业 PoE 其他周边产品；KP Paula Aguilera / Luis Garcia"
- ],
- "risks": [
-  "体量：Intcomex 集团旗下品牌（采购流程长、既有 ODM 供应链）；4 次无回复 → 改向具名 KP 首触",
-  "官网快照空（仅页面路径）"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 30,
-  "why": "贴牌商用 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 口 STC-424DGGPM-280W（$145.7）贴 Nexxt 标；非管理 PoE 位 HRUI（列表价，注明）；配件 Saga 不供"
- },
- "email_hook": "Paula, for the Nexxt-branded PoE switches in your connectivity line, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE 280 W, 802.3bt options) in your packaging from small lots, FCC/CE/RoHS — which PoE SKU do your Latin-American distributors reorder most?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A 邮箱 19 封 2025→2026，1 次记录打开，0 回；收件 lgarcia@nexxtsolutions.com, paguilera@nexxtsolutions.com；主题多为「Managed Optical Bypass Switch、10G Enterprise SFP Switch」；Elsa 箱：`to:nexxtsolutions.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 19 / 来 0）（第 74 批(h)））",
-   "type": "网络品牌商（美国/拉美，贴牌商用 PoE）",
-   "sieve": "1~2（1 次打开）",
-   "stop": "19 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "US 主攻（四主）",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 19，Opened 标签 1（Simon 群发追踪）；用户表：「一部分贴牌的商业PoE 其他周边产品」；研究档 risks：体量：Intcomex 集团旗下品牌（采购流程长、既有 ODM 供应链）；4 次无回复 → 改向具名 KP 首触"
-  },
-  "situation": "美国 Nexxt Solutions（拉美导向的网络/基础设施品牌（Intcomex 集团旗下）：connectivity 与 infrastructure 目录、工业方案页；表内「一部分贴牌的商业 PoE，其他周边产品」；KP Paula Aguilera、Luis Garcia）；表内 4 次跟进无回复。",
-  "need": "贴牌商用 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 口 STC-424DGGPM-280W（$145.7）贴 Nexxt 标；非管理 PoE 位 HRUI（列表价，注明）；配件 Saga 不供",
-  "breakpoint": "体量：Intcomex 集团旗下品牌（采购流程长、既有 ODM 供应链）；4 次无回复 → 改向具名 KP 首触",
-  "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 30,
-   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-12 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-06-20 $300（48 Port PoE Managed Switch）、2025-10-21 $280（10G Enterprise SFP Switch）",
-   "why": "贴牌商用 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 口 STC-424DGGPM-280W（$145.7）贴 Nexxt 标；非管理 PoE 位 HRUI（列表价，注明）；配件 Saga 不供。已打开的主题（1/19 封有打开记录）：「Managed Optical Bypass Switch」(2025-09-19) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开",
-   "one_question": "Paula, for the Nexxt-branded PoE switches in your connectivity line, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE 280 W, 802.3bt options) in your packaging from small lots, FCC/CE/RoHS — which PoE SKU do your Latin-American distributors reorder most?"
-  },
-  "facts": [
-   {
-    "date": "2026-09-09",
-    "dir": "去",
-    "who": "A 群发",
-    "quote": "Managed Optical Bypass Switch、10G Enterprise SFP Switch",
-    "why": "19 封 / 1 次打开 / 0 回｜首封 2025-06-20 → 末封 2026-09-09（19 去 / 0 来）",
-    "k": "gmail_digest"
-   },
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "一部分贴牌的商业PoE 其他周边产品",
-    "why": "表内备注",
-    "k": "用户表"
-   }
+  "code": "SB-016",
+  "name_official": "（坦桑尼亚 · Richard Jackson，仅电话）",
+  "researched_at": "2026-10-21",
+  "website_status": "无域名（免费邮箱/仅电话）",
+  "summary": "坦桑尼亚买家 Richard Jackson（仅 WA 电话，无邮箱）。表内「主动联系问资料，说要下单」，2024-02 对 2 光 8 PoE 管理出货信息回「问了 catalog」；19 次推送 1 次实质回复，未成交。→ B 25%。",
+  "type": "",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "用户表",
+      "claim": "表内需求与回复",
+      "quote": "主动联系问资料 说要下单；2024.2.28 发了2光8POE管理出货信息 → 问了catalog/2023.3.20",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "kp": [
+    {
+      "name": "Richard Jackson",
+      "role": "（个人）",
+      "email": "",
+      "phone": "+255 768 043 267（WA 已加）",
+      "source": "用户 Clients 表"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "无域名 · 仅表内信息"
+  },
+  "company_facts": {
+    "legal_name": "待核",
+    "founded": "待核",
+    "hq": "待核",
+    "size": "待核",
+    "other": "+255 768 043 267；无邮箱/公司"
+  },
+  "business_lines": [
+    "待核（见表内需求）"
+  ],
+  "products_seen": [],
+  "channels": {
+    "contact": "Richard Jackson，+255 768 043 267（WA 已加）"
+  },
+  "signals": [
+    "曾主动联系并称要下单（未兑现）"
+  ],
+  "risks": [
+    "无邮箱与公司信息",
+    "坦桑尼亚小额订单物流/付款门槛"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 25,
+    "why": "其关注 2 光 8 PoE 管理出货信息 → 8 PoE + 2 SFP L2+ 起手"
+  },
+  "email_hook": "You asked for our catalog after the 8-port PoE managed switch shipment photos — I can send the PDF and a landed-cost estimate to Dar es Salaam for 5 or 10 units; which size is closer?",
+  "mail_review": {
+    "binding": {
+      "level": "轻度触达（邮件无证，WhatsApp/WeChat 已加）：用户表「主动联系问资料 说要下单；2024.2.28 发了2光8POE管理出货信息 → 问了catalog/2023.3.20」；S/A 邮箱 0 封；Elsa 箱无可查地址（仓内无此户任何邮箱/域名——用户表/WhatsApp/展会名片户，`from:e.sagatelecom to:` 无从下手；Elsa 群发是否碰过他无法判定，不写「未触达」）（第 74 批(o)）",
+      "type": "—",
+      "sieve": "3（已加 WhatsApp，表内有往来）",
+      "stop": "仓库只有用户表一行；往来在 Simon 手机",
+      "revive": "首封邮件（A 邮箱，按 email_hook）+ WhatsApp 一句话",
+      "lane": "坦桑尼亚 非主攻",
+      "cadence": "一封",
+      "evidence": "gmail_digest：out 0；用户表：「主动联系问资料 说要下单；2024.2.28 发了2光8POE管理出货信息 → 问了catalog/2023.3.20」；研究档 risks：无邮箱与公司信息"
+    },
+    "situation": "坦桑尼亚买家 Richard Jackson（仅 WA 电话，无邮箱）。表内「主动联系问资料，说要下单」，2024-02 对 2 光 8 PoE 管理出货信息回「问了 catalog」；19 次推送 1 次实质回复，未成交。→ B 25%。",
+    "need": "其关注 2 光 8 PoE 管理出货信息 → 8 PoE + 2 SFP L2+ 起手",
+    "breakpoint": "无邮箱与公司信息",
+    "saga_now": {
+      "p1": "STC-28DGGPM",
+      "tier": 25,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "其关注 2 光 8 PoE 管理出货信息 → 8 PoE + 2 SFP L2+ 起手",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "2026-11（Simon）",
+      "channel": "A 邮箱首封 + WhatsApp（Simon）",
+      "action": "首封 + 一句话",
+      "one_question": "You asked for our catalog after the 8-port PoE managed switch shipment photos — I can send the PDF and a landed-cost estimate to Dar es Salaam for 5 or 10 units; which size is closer?"
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "主动联系问资料 说要下单；2024.2.28 发了2光8POE管理出货信息 → 问了catalog/2023.3.20",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [
+      "WhatsApp 往来未入库"
+    ],
+    "draft_en": {
+      "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+      "body": "You asked for our catalog after the 8-port PoE managed switch shipment photos — I can send the PDF and a landed-cost estimate to Dar es Salaam for 5 or 10 units; which size is closer?"
+    },
+    "as_of": "2026-10-24"
+  }
 }

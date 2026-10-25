@@ -1,0 +1,9 @@
+# SB-001 Resonant Networks Pte Ltd（新加坡 Ubi + 马来西亚 Cyberjaya，数据中心/光网络工程） · auto_sitemap · https://resonantnetworks.com/sitemap.xml · fetched 2026-10-25T07:41:18Z · HTTP 200
+	http://resonantnetworks.com/
+	http://resonantnetworks.com/about-us/
+	http://resonantnetworks.com/services/
+	http://resonantnetworks.com/products/
+	http://resonantnetworks.com/applications/
+	http://resonantnetworks.com/careers/
+	http://resonantnetworks.com/contact-us/
+	http://resonantnetworks.com/showcase-2/

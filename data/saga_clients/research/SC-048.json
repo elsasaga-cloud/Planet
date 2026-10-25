@@ -1,0 +1,126 @@
+{
+ "code": "SC-048",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（yamaha.com，快照 2026-10-21）",
+ "summary": "Yamaha Corporation（日本上市巨头，企业站；Yamaha 网络交换机 SWX/SWR 系列为日本自研线；表内「商业 PoE 自己的牌子」；邮箱 media@）；群发 10 次无回复。",
+ "type": "上市巨头（Yamaha）",
+ "size": "",
+ "brands_seen": [
+  "Ubiquiti"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Corporate Site - Yamaha Corporation；品类词 工业自动化 / OT 网络",
+   "quote": "Corporate website of Yamaha Corporation, providing corporate, sustainability, investor relations (IR) and corporate social responsibility (CSR) information.",
+   "url": "https://www.yamaha.com/en/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "商业PoE 自己的牌子",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Yamaha 企业站",
+   "quote": "Corporate Site - Yamaha Corporation ; Corporate website of Yamaha Corporation, providing corporate, sustainability, investor relations (IR)",
+   "url": "https://www.yamaha.com/en/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "商业 PoE 自己的牌子",
+   "quote": "商业PoE 自己的牌子",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "巨头：Yamaha Corporation（上市集团，自研网络交换机线）；c_sub=巨头/集团",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "美国",
+  "other": "官网 yamaha.com，语言 en，快照状态 ok；角色判定来源：用户表"
+ },
+ "business_lines": [
+  "乐器 / 音响 / 网络设备（集团）"
+ ],
+ "channels": {
+  "role": "上市巨头（Yamaha）",
+  "region": "美国",
+  "contact": "media@yamaha.com"
+ },
+ "signals": [
+  "官网：Corporate website of Yamaha Corporation, providing corporate, sustainability, investor relations (IR) and corporate social responsibility (CSR) information",
+  "表内：商业 PoE 自己的牌子；邮箱 media@yamaha.com"
+ ],
+ "risks": [
+  "巨头：Yamaha Corporation（上市集团），网络交换机为日本自研线；邮箱为媒体联系邮箱"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 30,
+  "why": "上市巨头，自研网络产品线，非 Saga 可承接 → 改 C"
+ },
+ "email_hook": "（不发送：巨头）",
+ "mail_review": {
+  "as_of": "2026-10-25",
+  "binding": {
+   "level": "已发未回（无人工回复、无打开记录；S 1 封 2025-01-22→2025-01-22、A 13 封 2025-04-15→2026-02-12，共 14 封群发，0 真实回复；Elsa 单发去信 1 封（2025-02-28「8 Port Industrial PoE Switch」→ media@yamaha.com，未见回复（Elsa 箱 Replied 标签无）））（第 74 批(e)：S/A mail_dump + Elsa 箱 in:sent 排锚扫描 2026-10-25）",
+   "type": "上市巨头（Yamaha，媒体箱）",
+   "sieve": "1",
+   "stop": "读",
+   "evidence": [
+    "mail_dump.py SC-048（S/A 全量）",
+    "data/gmail_e/elsa_sent_nonanchor_2026-10-25.json（Elsa 1:1 普查）"
+   ]
+  },
+  "situation": "Yamaha Corporation 企业站 media@（媒体箱；Yamaha 网络交换机 SWX/SWR 为日本自研线）",
+  "need": "无外采口（自研 + 媒体箱）",
+  "breakpoint": "收件 media@ 不是采购口；巨头自研",
+  "saga_now": {
+   "p1": null,
+   "tier": null,
+   "price": null,
+   "why": "无外采口（自研 + 媒体箱）",
+   "repeat": "无成单；不动",
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "不动：media@ 不是采购口，巨头自研",
+   "one_question": null
+  },
+  "facts": [
+   {
+    "date": "2026-02-12",
+    "dir": "去",
+    "who": "S/A 群发",
+    "quote": "16 Port PoE Managed Switch, Commercial PoE Switch, Managed Optical Bypass Switch, Marvell Alleycat5 Solution",
+    "why": "S 1 封 2025-01-22→2025-01-22、A 13 封 2025-04-15→2026-02-12，共 14 封群发，0 真实回复｜首封 2025-01-22 → 末封 2026-02-12",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2025-02-28",
+    "dir": "out",
+    "who": "Elsa → media@yamaha.com",
+    "quote": "8 Port Industrial PoE Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+    "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
+    "k": "elsa_1to1",
+    "msg_id": "1954859ce129ada0"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null
+ }
+}

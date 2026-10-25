@@ -2,41 +2,39 @@
  "code": "SB-240",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "在线（technosources.ca，快照 2026-10-21）",
- "summary": "加拿大 Technosources（CCTV 网店与安装：摄像机（289）/ NVR（225）Hikvision / Dahua 套装，PoE 66；表内「小口商业 Switch；BDCOM」）；表内 1 次跟进无回复。",
- "type": "CCTV 网店/安装商（加拿大，BDCOM 小口交换机）",
+ "website_status": "在线（frogfish.de，快照 2026-10-21）",
+ "summary": "德国 frogfish surveillance GmbH（「personalize your security」CCTV 品牌：Bullet/Fisheye/PTZ Premium 摄像机、安防机器人；自有标 8 口 PoE + 2 SFP / 16 口 PoE + 1 SFP / 24 口 PoE + 2 SFP、PoE 注入器；表内「主要是 CCTV 洪瑞（HRUI）的商业 PoE」「可以着重跟一下」）；群发 14 次无回复。",
+ "type": "德国 CCTV 品牌商（PoE 现 HRUI 贴标 → Q-33 口径）",
  "size": "",
  "brands_seen": [
-  "Hikvision",
-  "Dahua",
-  "BDCOM"
+  "HRUI"
  ],
  "evidence": [
   {
    "kind": "官网快照",
-   "claim": "官网标题：Home；品类词 安防监控（CCTV / 门禁） / 无线 / WiFi / 布线 / 线缆 / 网络交换 / PoE",
-   "quote": "New Arrival；Packages；Our Recent Work；Brands；About Us；Information",
-   "url": "https://technosources.ca/",
+   "claim": "官网标题：frogfish surveillance GmbH；品类词 安防监控（CCTV / 门禁） / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "personalize your security；Surveillance Robot；Highlight Products；Bullet Premium Camera 5MP；Bullet Premium Camera 8MP；Fisheye Premium Camera 12MP",
+   "url": "https://frogfish.de/en/index.html",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
    "claim": "表内兴趣/备注",
-   "quote": "小口商业Switch；小口商业Switch BDCOM",
+   "quote": "主要是CCTV 洪瑞的商业PoE",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   },
   {
    "kind": "官网快照",
-   "claim": "Technosources 首页",
-   "quote": "Home ; New Arrival ; Packages ; Our Recent Work ; Brands ; About Us",
-   "url": "https://technosources.ca/",
+   "claim": "frogfish 产品页",
+   "quote": "Home - frogfish surveillance GmbH ; personalize your security ; /de/index/id-8port-gigabit-poe-2sfp-switch.html ; /de/index/id-24port-gigabit-poe-2sfp-switch.html",
+   "url": "https://frogfish.de/en/index.html",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "小口商业 Switch；BDCOM",
-   "quote": "小口商业Switch BDCOM",
+   "claim": "CCTV；HRUI 商业 PoE；着重跟",
+   "quote": "主要是CCTV 洪瑞的商业PoE；可以着重跟一下",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
@@ -50,73 +48,92 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "加拿大",
-  "other": "官网 technosources.ca，语言 ?，快照状态 ok；角色判定来源：官网文案"
+  "hq": "德国",
+  "other": "官网 frogfish.de，语言 en，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "CCTV 套装网店与安装"
+  "CCTV 摄像机 / 安防机器人（自有品牌 frogfish）",
+  "配套 PoE 交换机（HRUI 贴标）"
  ],
  "channels": {
-  "role": "CCTV 网店/安装商（加拿大，BDCOM 小口交换机）",
-  "region": "加拿大",
-  "contact": "info@technosources.ca、technosources.ca@gmail.com"
+  "role": "德国 CCTV 品牌商（PoE 现 HRUI 贴标 → Q-33 口径）",
+  "region": "德国",
+  "contact": "info@frogfish.de"
  },
  "signals": [
-  "首页栏目：New Arrival ; Packages ; Our Recent Work ; Brands；kw camera 289 / nvr 225 / poe 66 / hikvision 41",
-  "表内：小口商业 Switch；BDCOM"
+  "页面 /de/index/id-8port-gigabit-poe-2sfp-switch.html、/id-16port-gigabit-poe-1sfp-switch.html、/id-24port-gigabit-poe-2sfp-switch.html、/de/zubehoer/poe_injector.html；首页 personalize your security ; Surveillance Robot",
+  "表内：主要是 CCTV 洪瑞的商业 PoE；可以着重跟一下"
  ],
  "risks": [
-  "小店（含 gmail 备用邮箱）：量小",
-  "1 次跟进无回复，仅 info@"
+  "现供 HRUI（Saga 供应商）：按 Q-33 口径只推 SmartByte 差异化线；PoE 注入器 Saga 不供",
+  "14 次无回复，仅 info@；用户标「着重跟」"
  ],
  "saga_fit": {
   "p1": "STC-28DGGPM",
-  "tier": 20,
-  "why": "小口商用 PoE（现 BDCOM）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）/ STC-204GP"
+  "tier": 30,
+  "why": "现 HRUI（Saga 供应商）贴 frogfish 标 → 按 Q-33 口径不碰同款，只推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 口 STC-424DGGPM-280W（$145.7）"
  },
- "email_hook": "Alongside the BDCOM PoE switches you bundle with Hikvision and Dahua kits, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ model and budget 4/8-port unmanaged PoE units from small lots, FCC/CE/RoHS, EXW USD — which size do your camera kits ship with most?",
+ "email_hook": "For the frogfish-branded PoE switch range, we can add a Marvell-based L2+ tier (8-PoE + 2 SFP, 24-PoE + 4 SFP; VLAN/QoS, extend mode) in your packaging from small lots alongside your current line, CE/RoHS — would a managed option fit your Premium camera kits?",
+ "products_seen": [
+  {
+   "brand": "frogfish（自有，HRUI 贴标）",
+   "model": "8port gigabit PoE 2SFP switch",
+   "spec": "8 口千兆 PoE + 2 SFP",
+   "saga": "STC-28DGGPM（Marvell L2+ 差异化）",
+   "url": "https://frogfish.de/en/index.html",
+   "date": "2026-10-21"
+  },
+  {
+   "brand": "frogfish（自有）",
+   "model": "24port gigabit PoE 2SFP switch",
+   "spec": "24 口千兆 PoE + 2 SFP",
+   "saga": "STC-424DGGPM-280W",
+   "url": "https://frogfish.de/en/index.html",
+   "date": "2026-10-21"
+  }
+ ],
  "mail_review": {
   "binding": {
-   "level": "未触达（A 邮箱 13 封 2025→2026，无记录打开，0 回；收件 info@technosources.ca, technosources.ca@gmail.com；主题多为「10G Enterprise SFP Switch、Booster PoE Switch」；Elsa 箱：`to:.ca` 穷举 13 条（2026-10-25，锚批 Bcc 头已读）未见 technosources.ca → Elsa 箱从未发过本户，往来只在 S/A 箱（去 13 / 来 0）（第 74 批(f)））",
-   "type": "CCTV 网店/安装商（加拿大，BDCOM 小口交换机）",
-   "sieve": "1（只收到群发）",
-   "stop": "13 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "CA 主攻",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 13；用户表：「小口商业Switch；小口商业Switch BDCOM」；研究档 risks：小店（含 gmail 备用邮箱）：量小"
+   "level": "读而不回（A/S 邮箱 23 封 2024→2026，其中 4 封被打开，0 回；收件 info@frogfish.de；被打开主题「Marvell Industrial Alert System、10G Enterprise SFP Switch」；Elsa 箱：`to:.de` 穷举 29 条（2026-10-25，锚批 Bcc 头已读）未见 frogfish.de → Elsa 箱从未发过本户，往来只在 S/A 箱（去 23 / 来 0）（第 74 批(f)））",
+   "type": "德国 CCTV 品牌商（PoE 现 HRUI 贴标 → Q-33 口径）",
+   "sieve": "2（有人在读，无人回）",
+   "stop": "读而不回 = 内容未命中或没有当下需求；Q-33 供应商渠道客户",
+   "revive": "不动（Q-33）",
+   "lane": "DE 主攻（四主）",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 23，Opened 标签 4（Simon 群发追踪）；用户表：「主要是CCTV 洪瑞的商业PoE」；研究档 risks：现供 HRUI（Saga 供应商）：按 Q-33 口径只推 SmartByte 差异化线；PoE 注入器 Saga 不供"
   },
-  "situation": "加拿大 Technosources（CCTV 网店与安装：摄像机（289）/ NVR（225）Hikvision / Dahua 套装，PoE 66；表内「小口商业 Switch；BDCOM」）；表内 1 次跟进无回复。",
-  "need": "小口商用 PoE（现 BDCOM）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）/ STC-204GP",
-  "breakpoint": "小店（含 gmail 备用邮箱）：量小",
+  "situation": "德国 frogfish surveillance GmbH（「personalize your security」CCTV 品牌：Bullet/Fisheye/PTZ Premium 摄像机、安防机器人；自有标 8 口 PoE + 2 SFP / 16 口 PoE + 1 SFP / 24 口 PoE + 2 SFP、PoE 注入器；表内「主要是 CCTV 洪瑞（HRUI）的商业 PoE」「可以着重跟一下」）；群发 14 次无回复。",
+  "need": "现 HRUI（Saga 供应商）贴 frogfish 标 → 按 Q-33 口径不碰同款，只推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 口 STC-424DGGPM-280W（$145.7）",
+  "breakpoint": "现供 HRUI（Saga 供应商）：按 Q-33 口径只推 SmartByte 差异化线；PoE 注入器 Saga 不供",
   "saga_now": {
    "p1": "STC-28DGGPM",
-   "tier": 20,
-   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-07 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-20 $280（10G Enterprise SFP Switch）",
-   "why": "小口商用 PoE（现 BDCOM）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）/ STC-204GP",
+   "tier": 30,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-15 $65（10G media converter）；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-06-26 $220（48 port managed switch）、2025-10-17 $280（10G Enterprise SFP Switch）",
+   "why": "现 HRUI（Saga 供应商）贴 frogfish 标 → 按 Q-33 口径不碰同款，只推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 口 STC-424DGGPM-280W（$145.7）。已打开的主题（4/23 封有打开记录）：「Mini Industrial PoE Switch」(2024-11-11)、「Marvell Alleycat5 Solution」(2025-03-13)、「Updated Ethernet Switches Links」(2026-03-06)、「Marvell Managed Commercial Switches」(2026-03-27) → 读者兴趣主题类别不明（看原主题）",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开",
-   "one_question": "Alongside the BDCOM PoE switches you bundle with Hikvision and Dahua kits, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ model and budget 4/8-port unmanaged PoE units from small lots, FCC/CE/RoHS, EXW USD — which size do your camera kits ship with most?"
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
   },
   "facts": [
    {
-    "date": "2026-09-24",
+    "date": "2026-09-22",
     "dir": "去",
-    "who": "A 群发",
-    "quote": "10G Enterprise SFP Switch、Booster PoE Switch",
-    "why": "13 封 / 0 次打开 / 0 回｜首封 2025-10-20 → 末封 2026-09-24（13 去 / 0 来）",
+    "who": "A/S 群发",
+    "quote": "Marvell Industrial Alert System、10G Enterprise SFP Switch",
+    "why": "23 封 / 4 次打开 / 0 回｜首封 2024-06-26 → 末封 2026-09-22（23 去 / 0 来）",
     "k": "gmail_digest"
    },
    {
     "date": "2026-10-21",
     "dir": "用户表",
     "who": "Simon",
-    "quote": "小口商业Switch；小口商业Switch BDCOM",
+    "quote": "主要是CCTV 洪瑞的商业PoE",
     "why": "表内备注",
     "k": "用户表"
    }

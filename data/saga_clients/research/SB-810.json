@@ -2,28 +2,45 @@
  "code": "SB-810",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "快照失败（http_error）",
- "summary": "英国 Britannic Cabling Production / BCP（bcp-uk.com：布线产品；表内「工业 FS 也有其他的牌子 有点杂」「可以多跟进一下」；官网 http_error）；群发 18 次无回复。",
- "type": "布线/网络产品经销商（英国）",
+ "website_status": "在线（enssecurity.com，快照 2026-10-21）",
+ "summary": "美国 ENS Security（大型安防分销商，表内「大公司」；商用 PoE 似为 Ewind 代工（「有同行的」）；KP Marcela Garza）；群发 15 次无回复。",
+ "type": "大型安防分销商（美国，自有标 PoE 现 Ewind）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Ewind"
+ ],
  "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：enssecurity.com",
+   "quote": "",
+   "url": "https://enssecurity.com/",
+   "date": "2026-10-21"
+  },
   {
    "kind": "用户表",
    "claim": "表内兴趣/备注",
-   "quote": "工业FS 也有其他的牌子 有点杂",
+   "quote": "有同行的 商业PoE；商业PoE 像是Ewind的；有同行的 商业PoE 似乎是Ewind的",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "工业 FS 其他牌子 有点杂",
-   "quote": "工业FS 也有其他的牌子 有点杂；可以多跟进一下",
+   "claim": "商业 PoE 像 Ewind；大公司",
+   "quote": "有同行的 商业PoE / 商业PoE 像是Ewind的；大公司",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Marcela Garza",
+   "title": "（职务待核）",
+   "email": "marcela.g@enssecurity.com",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
@@ -32,88 +49,90 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "英国",
-  "other": "官网 britaniccablingproduction.com，语言 ?，快照状态 http_error；角色判定来源：待核"
+  "hq": "美国",
+  "other": "官网 enssecurity.com，语言 ?，快照状态 ok；角色判定来源：待核"
  },
  "business_lines": [
-  "布线 / 网络产品经销（英国）"
+  "安防产品分销（美国，大型）"
  ],
  "channels": {
-  "role": "布线/网络产品经销商（英国）",
-  "region": "英国",
-  "contact": "sales@bcp-uk.com"
+  "role": "大型安防分销商（美国，自有标 PoE 现 Ewind）",
+  "region": "美国",
+  "contact": "sales@enssecurity.com、marcela.g@enssecurity.com"
  },
  "signals": [
-  "表内：工业 FS 也有其他的牌子 有点杂；可以多跟进一下",
-  "快照：http_error"
+  "表内：有同行的 商业 PoE / 商业 PoE 像是 Ewind 的；大公司；KP Marcela Garza",
+  "快照：内容为空"
  ],
  "risks": [
-  "多品牌、品类杂（白牌契合度待核）；官网 http_error；18 次无回复，仅 sales@"
+  "体量：大型分销商（既有 Ewind 代工链、采购流程长）；NDAA 场景（§889 适用范围待核）；15 次无回复 → 改向 Marcela 具名首触；官网快照空"
  ],
  "saga_fit": {
-  "p1": "STI-280GE",
+  "p1": "STC-28DGGPM",
   "tier": 20,
-  "why": "工业 FS 多品牌 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、5 GE STI-050GE（$17.0）、8 PoE + 2 SFP STI-288GPM（$78.9）作白牌预算位"
+  "why": "自有标商用 PoE（现 Ewind）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）、PoE++ 90 W 位 STC-28GPM（待核）作二供"
  },
- "email_hook": "Alongside the industrial switch brands you carry with your cabling range, we supply neutral-brand DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP units (−40~75 °C, CE/RoHS/UKCA; managed versions on a Marvell platform) from single units, EXW USD — is there a budget industrial position your customers ask for?",
+ "email_hook": "Marcela, for the PoE switches sold under your own label, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE 280 W, 802.3bt options) in your packaging, FCC/CE/RoHS, small lots acceptable — which PoE SKU runs the highest volume through your branches?",
  "mail_review": {
   "binding": {
-   "level": "未触达（A/S 邮箱 27 封 2024→2026，1 次记录打开，0 回；收件 sales@bcp-uk.com；主题多为「Managed Optical Bypass Switch、Industrial PoE Switch」；Elsa 箱：`to:britaniccablingproduction.com OR to:bcp-uk.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 27 / 来 0）（第 74 批(j)））",
-   "type": "布线/网络产品经销商（英国）",
-   "sieve": "1~2（1 次打开）",
-   "stop": "只打通用邮箱，无记录打开",
-   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
-   "lane": "UK 主攻（四主）",
-   "cadence": "一封",
-   "evidence": "gmail_digest：out 27，Opened 标签 1（Simon 群发追踪）；用户表：「工业FS 也有其他的牌子 有点杂」；研究档 risks：多品牌、品类杂（白牌契合度待核）；官网 http_error；18 次无回复，仅 sales@"
+   "level": "未触达（1 封 Shawn 休假自动回复；收件人 Marcela 未回；Elsa 箱：`to:enssecurity.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 32 / 来 1）（第 74 批(h)））",
+   "type": "美国大型安防分销（ENS Security；自有标 PoE 现 Ewind）",
+   "sieve": "0",
+   "stop": "自动回复/机器人，无人工回复",
+   "revive": "改发采购/产品经理",
+   "lane": "US",
+   "cadence": "2026-12",
+   "evidence": "k=c5720148018ed954"
   },
-  "situation": "英国 Britannic Cabling Production / BCP（bcp-uk.com：布线产品；表内「工业 FS 也有其他的牌子 有点杂」「可以多跟进一下」；官网 http_error）；群发 18 次无回复。",
-  "need": "工业 FS 多品牌 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、5 GE STI-050GE（$17.0）、8 PoE + 2 SFP STI-288GPM（$78.9）作白牌预算位",
-  "breakpoint": "多品牌、品类杂（白牌契合度待核）；官网 http_error；18 次无回复，仅 sales@",
+  "situation": "来信全部为机器回复；无人读信或无人回信。",
+  "need": "—",
+  "breakpoint": "—",
   "saga_now": {
-   "p1": "STI-280GE",
+   "p1": "—",
    "tier": 20,
-   "price": "换人再触锚价 STI-280GE $46 EXW（Saga 2025 Realtek 工业线对外价 $46（非管理工业线不用档位价 ㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-21 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-09-02 $300（48 port switch）、2025-10-01 $280（10G Enterprise SFP Switch）",
-   "why": "工业 FS 多品牌 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、5 GE STI-050GE（$17.0）、8 PoE + 2 SFP STI-288GPM（$78.9）作白牌预算位。已打开的主题（1/27 封有打开记录）：「48 port switch」(2024-09-02) → 读者兴趣主题类别不明（看原主题）",
+   "price": "—；群发里他已看到的价（续）：2026-08-12 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-04 $240（24 Port Fiber Switch）、2025-10-01 $280（10G Enterprise SFP Switch）、2026-06-22 $16000（32 Port 400GB DC Switch）",
+   "why": "—｜已发资料（勿重发）：Product Link_2026Q2(2026-03-12)、Saga Feature List_7.5.x_L2+(2026-07-13)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）",
    "repeat": [],
-   "gaps": []
+   "gaps": [
+    "具名联系人"
+   ]
   },
   "next_move": {
-   "when": "2027-Q1（换人后）",
-   "channel": "A 邮箱 → 具名 KP",
-   "action": "换收件人再发一封（第 75 批(y) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
-   "one_question": "Alongside the industrial switch brands you carry with your cabling range, we supply neutral-brand DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP units (−40~75 °C, CE/RoHS/UKCA; managed versions on a Marvell platform) from single units, EXW USD — is there a budget industrial position your customers ask for? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity)."
+   "when": "2026-12",
+   "channel": "A 邮箱 → george.g@enssecurity.com（自动回复指明的代理人）",
+   "action": "换人（第 75 批(b) 2026-10-25：英文信稿已写 `draft_en`）（第 76 批(c) 2026-10-25：0 事实户补时间线事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
+   "one_question": ""
   },
   "facts": [
    {
-    "date": "2026-08-21",
+    "date": "2025-01-21",
     "dir": "去",
-    "who": "A/S 群发",
-    "quote": "Managed Optical Bypass Switch、Industrial PoE Switch",
-    "why": "27 封 / 1 次打开 / 0 回｜首封 2024-07-08 → 末封 2026-08-21（27 去 / 0 来）",
-    "k": "gmail_digest"
+    "who": "S 箱（Simon）",
+    "quote": "Industrial PoE Switch",
+    "why": "首封去信（邮箱索引；去信共 32 封）",
+    "k": "5e6171f2fbf8e78e"
    },
    {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "工业FS 也有其他的牌子 有点杂",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2026-08-21",
+    "date": "2026-09-08",
     "dir": "去",
     "who": "A 箱（Alan）",
-    "quote": "24 Port PoE Managed Switch",
-    "why": "本日去信真实主题（邮箱索引 bd340520a3fe250c；信稿开头句引用此封；此前稿内写的「Managed Optical Bypass Switch」是线程列表首题，不是本封）",
-    "k": "bd340520a3fe250c"
+    "quote": "16 Port Industrial PoE Switch",
+    "why": "最近一封去信（邮箱索引；去信共 32 封）",
+    "k": "9719b2a1ddc0fea6"
+   },
+   {
+    "date": "2025-02-25",
+    "dir": "来",
+    "who": "shawn.s@enssecurity.com",
+    "quote": "Out of the Office until Thursday, Feb 27th. Re: 90W PoE Managed Switch｜Good morning / afternoon,  I will be out of the office Tuesday Feb 25th and Wednesday Feb 26th, returning Thursday Feb 2",
+    "why": "来信（邮箱索引；原文见 k）",
+    "k": "c5720148018ed954"
    }
   ],
   "proof_gaps": [],
   "draft_en": {
-   "subject": "A budget industrial position next to the switch brands you carry - three numbers",
-   "body": "Hello BCP team,\n\nOver the past months you had a few product mails from us - most recently \"24 Port PoE Managed Switch\" on 21 August 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nAlongside the industrial switch brands you carry with the cabling range, neutral-brand units at distributor price, EXW, from single units, 15-day validity, -40 to 75 C, CE/RoHS/UKCA: DIN-rail 8 x Gigabit + 2 x SFP, unmanaged - model STI-280GE - $46 USD; 5 x Gigabit - STI-050GE - $17.0; 8 x Gigabit PoE+ + 2 x SFP, L2 managed, Marvell-based - STI-288GPM - $78.9.\n\nOne question: is there a budget industrial position your customers ask for that the current brands price too high?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+   "subject": "ENS own-label PoE switches - second ODM source (Shawn's auto-reply pointed to you)",
+   "body": "Hi George,\n\nOver the past two years ENS had a stream of product mails from us - most recently the 24-port PoE managed switch at $170 in August - and nobody had a reason to answer a mass mail. Shawn's out-of-office named you as the contact, so this one is written for you.\n\nFor the PoE switches sold under the ENS label, we can be a second ODM source on a Marvell L2+ platform in your packaging: 8 x Gigabit PoE+ + 2 x SFP - model STC-28DGGPM - $80.7 USD EXW at distributor price (MOQ 1, 15-day validity); the 24 x PoE+ (280 W) + 4 x 10G unit from the August mail is $180 now - that mail said $170; the CNY has moved from 7.2 to 6.7 against the dollar since. FCC/CE/RoHS; 802.3bt options on request.\n\nOne question: which PoE SKU runs the highest volume through your branches?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
  }

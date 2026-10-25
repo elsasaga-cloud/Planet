@@ -1,5 +1,2 @@
-# SB-355 fhguvenlik.com · sitemap · https://fhguvenlik.com/sitemap.xml · fetched 2026-10-25T07:41:18Z · HTTP 200
-	https://fhguvenlik.com
-	https://fhguvenlik.com/subpage
-	https://fhguvenlik.com/legal-notice
-	https://fhguvenlik.com/privacy
+# SB-355 gaotek.com · sitemap · https://gaotek.com/sitemap_index.xml · fetched 2026-10-25T07:41:18Z · HTTP 200
+

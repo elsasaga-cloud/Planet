@@ -1,0 +1,74 @@
+{
+ "code": "SC-206",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（enercon.co.il，快照 2026-10-21）",
+ "summary": "以色列 Enercon Technologies Ltd（军用电源 / 军用 PDU / 加固网络设备设计制造商，MIL-STD-810/461/1275/704，航空电子等军事应用；表内「工业 FS / MC，外观和平时看到的不太一样」，KP Tsahi Sucher、Hanita Atzmoni 等）；群发 16 次无回复。",
+ "type": "军工制造商（军用电源与加固网络）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Enercon Technologies, Ltd. | Military Power Supplies and Networking Field-Proven Solutions；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "Enercon Technologies Ltd is a leading designer and manufacturer of military power supplies, military PDU and rugged networking solutions for a wide variety of military applications, including avionics, UAV’s, aircraft, C4ISR, electronic war",
+   "url": "https://enercon.co.il/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "工业FS MC 和平时看到的外观不太一样；Sagit Pesach-Mualem Hanita Atzmoni Guy Grabarsky",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "军用电源、军用 PDU 与加固网络方案设计制造商",
+   "quote": "Enercon Technologies Ltd is a leading designer and manufacturer of military power supplies, military PDU and rugged networking solutions for a wide variety of military applications, including avionics",
+   "url": "https://enercon.co.il/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "工业 FS / MC",
+   "quote": "工业FS MC 和平时看到的外观不太一样",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "守界：以色列军工制造商（军用电源与加固网络，MIL-STD，航空电子应用）；c_sub=守界：军工",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "以色列",
+  "other": "官网 enercon.co.il，语言 en-il，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "军用电源 / PDU",
+  "加固网络设备（军事应用）"
+ ],
+ "channels": {
+  "role": "军工制造商（军用电源与加固网络）",
+  "region": "以色列",
+  "contact": "tsahi.sucher@enercon.co.il、hanita.atzmoni@enercon.co.il"
+ },
+ "signals": [
+  "官网：Military Power Supplies and Networking Field-Proven Solutions；MIL-STD-810 / 461 / 1275 / 704"
+ ],
+ "risks": [
+  "守界：军用电源与军用加固网络设备制造商，应用为军事/航空电子",
+  "16 次无回复"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 25,
+  "why": "军事应用（MIL-STD、航空电子）= 守界（INH：military 不做）→ 改 C"
+ },
+ "email_hook": "（不发送：军工守界）"
+}

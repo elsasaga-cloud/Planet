@@ -1,216 +1,186 @@
 {
- "code": "SA-063",
- "name_official": "Fibermarkt Sp. z o.o.（自有品牌 LightOptics，Kraków, Poland）",
- "website_status": "在线",
- "summary": "克拉科夫的光通信设备分销商/电商，自有品牌 LightOptics：兼容光模块（可编程兼容 60+ 厂商）、DAC、MC、xWDM、工业/接入 PoE 交换机（如 LO-IGS-M8GT2GF-HPOE 8 PoE + 2 SFP）；客户为 ISP 与集成商；10+ 年经验，本地仓库与售后。用户表：A 优质名单(PL)，2 次实质回复，36 次跟进，WhatsApp 已加；在售磊通(Leitong)与 GXCOM 产品。",
- "type": "分销商/电商（自有品牌贴牌）",
- "size": "未见人数（中小）",
- "brands_seen": [
-  "LightOptics",
-  "磊通",
-  "GXCOM"
- ],
- "evidence": [
-  {
-   "kind": "第三方（inwestrut）",
-   "claim": "自有品牌含 PoE 网管交换机 + 联系方式",
-   "quote": "Model LO-IGS-M8GT2GF-HPOE – z obsługą PoE, PoE+ oraz PoE++ wyposażony w 8 portów 10/100/1000Mbps PoE i 2 porty 1000Mbps SFP … Fibermarkt Sp. z o.o. Adres: Śnieżna 18, 30-822 Kraków … Telefon: +48 533 533 575",
-   "url": "https://inwestrut.pl/fibermarkt-sp-z-o-o/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "品牌定位与客户群",
-   "quote": "Light Optics to dostawca dobrej i sprawdzonej jakości modułów optycznych oraz konwerterów mediów w najlepszej cenie. Głównymi odbiorcami są firmy ISP oraz integratorzy.",
-   "url": "https://fibermarkt.com/pl/brand/5-lightoptics?page=6",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "经销商",
-   "claim": "LO-IGS-4GT2GF-POE 规格与经销价",
-   "quote": "LO-IGS-4GT2GF-POE … Cena netto: 888,00 PLN netto … 4 porty PoE RJ45 10/100/1000 Mbps … 2 porty SFP 1000 Mbps … Budżet mocy PoE: 120 W … Redundantne zasilanie 48–57V DC … -40°C do +85°C … IP40",
-   "url": "https://profisystems.pl/pl/product/130880,przemyslowy-przelacznik-lightoptics-lo-igs-4gt2gf-poe",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "经销商",
-   "claim": "LO-IGS-8GT2GF-POE 经销价 1,406 PLN 净",
-   "quote": "Przemysłowy przełącznik LightOptics - LO-IGS-8GT2GF-POE … 8*10/100/1000Base-T RJ45, 2*1000M fiber ports (SFP) 1 406,00 PLN netto",
-   "url": "https://profisystems.pl/pl/producer/lightoptics,103922",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "—",
-   "role": "销售（用户表邮箱；电话即 WhatsApp）",
-   "email": "sales@fibermarkt.com",
-   "phone": "+48 533 533 575",
-   "source": "https://inwestrut.pl/fibermarkt-sp-z-o-o/"
-  }
- ],
- "notes": "A 确认（欧洲自有品牌 + 2 次实质回复 + 在售中国品牌）：对位 LO-IGS-M8GT2GF-HPOE ≈ STI-288DGGPM，MC = STI-110GE；贴牌 30%。",
- "researched_at": "2026-10-21",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "深挖 v1"
- },
- "company_facts": {
-  "legal_name": "Fibermarkt Sp. z o.o.（品牌 LightOptics）",
-  "hq": "Kraków, Poland",
-  "other": "自有品牌 LightOptics 工业 PoE 交换机 LO-IGS 系列经 Profi Systems、Ceneo 等二级渠道销售；fibermarkt.com 网店 EUR 标价（LO-IGS-4GT2GF €101.67）"
- },
- "business_lines": [
-  "兼容光模块（60+ 厂商编码）、DAC、xWDM",
-  "LightOptics MC 与工业/接入 PoE 交换机",
-  "ISP 与集成商供货，本地仓库与售后"
- ],
- "products_seen": [
-  {
-   "brand": "LightOptics",
-   "model": "LO-IGS-4GT2GF-POE",
-   "spec": "工业非管理 4×GE PoE + 2 SFP，120W，48–57VDC 双电源，-40~85℃，IP40，DIN；经销价 888 PLN 净",
-   "url": "https://profisystems.pl/pl/product/130880,przemyslowy-przelacznik-lightoptics-lo-igs-4gt2gf-poe",
-   "date": "2026-10-21",
-   "saga": "STI-144GP"
-  },
-  {
-   "brand": "LightOptics",
-   "model": "LO-IGS-8GT2GF-POE",
-   "spec": "工业 8×GE PoE + 2 SFP；经销价 1,406 PLN 净",
-   "url": "https://profisystems.pl/pl/producer/lightoptics,103922",
-   "date": "2026-10-21",
-   "saga": "STI-288DGGPM"
-  },
-  {
-   "brand": "LightOptics",
-   "model": "LO-IGS-M8GT2GF-HPOE",
-   "spec": "工业管理 8 PoE + 2 SFP（首轮调研）",
-   "url": "https://fibermarkt.com/",
-   "date": "2026-10（首轮调研）",
-   "saga": "STI-288DGGPM"
-  },
-  {
-   "brand": "LightOptics",
-   "model": "LO-IGS-2GT1GF-POE / LO-IGS-4GT1GF-POE",
-   "spec": "工业 2/4 PoE + 1 SFP（博客 2026-08-30 / Ceneo）",
-   "url": "https://fibermarkt.com/pl/blog/post/kamera-wifi-czy-poe-ktora-wybrac.html",
-   "date": "2026-08-30",
-   "saga": "STI-144GP"
-  },
-  {
-   "brand": "LightOptics",
-   "model": "LO-IGS-4GT2GF（非 PoE）",
-   "spec": "网店 €101.67（原 €125.05）",
-   "url": "https://fibermarkt.com/en/search/?q=modu%C5%82-sfp-tx-lightoptics-lo-sf-1g-rj-l-sfp-rj45-10-100-1000-tx-utp",
-   "date": "2026-10-21",
-   "saga": "—"
-  }
- ],
- "channels": {
-  "网站/网店": "https://fibermarkt.com/（EUR/PLN）",
-  "直邮": "sales@fibermarkt.com（用户表）",
-  "二级渠道": "Profi Systems、Ceneo"
- },
- "signals": [
-  "2026-08-30 博客仍在推 LO-IGS PoE 系列——产品线活跃（fibermarkt.com）",
-  "用户表：磊通、GXCOM 为现供应商（华南 ODM）"
- ],
- "risks": [
-  "现供应商为磊通/GXCOM（价格极低），Saga 需以 Marvell 平台 + 一致性切入而非底价",
-  "波兰语/CE/WEEE 合规"
- ],
- "saga_fit": {
-  "p1": "STI-144GP",
-  "tier": 20,
-  "why": "LO-IGS-4GT2GF-POE（4 GE PoE + 2 SFP，经销 888 PLN ≈ $220）对位 STI-144GP（EXW $35 @25% 口径，需按 2 SFP 版核价）；LO-IGS-8GT2GF-POE 对位 STI-288DGGPM；分销 20% 档"
- },
- "email_hook": "Your LO-IGS-4GT2GF-POE and LO-IGS-8GT2GF-POE sit exactly on the 4+2 and 8+2 industrial PoE footprints we build, so I am quoting both in LightOptics packing with the managed versions on a Marvell platform as the differentiator against your current source.",
- "mail_review": {
-  "binding": {
-   "level": "未绑定（邮件 23 封 0 回、Opened 0；用户表「2 次实质回复」无原文；Elsa 箱：`to:lightoptics.pl OR to:fibermarkt.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 23 / 来 0）（第 74 批(g)））",
-   "type": "波兰自有品牌电商（Fibermarkt / LightOptics）——次重点",
-   "sieve": "0（邮件层无人工回复）",
-   "stop": "23 封 0 打开（sales@ 通用箱）",
-   "revive": "找产品负责人",
-   "lane": "PL/EU",
-   "cadence": "一次",
-   "evidence": "邮件：去信 23 封（2024-06-19 → 2026-09-25），来信 0；Opened 标签 0 次；收件人 sales@fibermarkt.com"
-  },
-  "situation": "sales@ 两年 0 打开；用户表说回过 2 次——不在仓库。",
-  "need": "LO-IGS-M8GT2GF-HPOE 对位。",
-  "breakpoint": "触达层。",
-  "saga_now": {
-   "p1": "STI-288DGGPM",
-   "tier": 30,
-   "price": "锚价：STI-288DGGPM $137.5（PDF 上限；30% 档 151.6 超）（第 72 批 2026-10-24）；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-19 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-21 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-21 $280（10G Enterprise SFP Switch）",
-   "why": "需求是 LO-IGS-M8GT2GF-HPOE 对位（8 GE PoE + 2 SFP 工业）→ STI-288DGGPM 直接对位",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）",
-   "channel": "A 邮箱 → sales@fibermarkt.com（无具名 KP）",
-   "action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(p) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
-   "one_question": "Your LO-IGS-4GT2GF-POE and LO-IGS-8GT2GF-POE sit exactly on the 4+2 and 8+2 industrial PoE footprints we build, so I am quoting both in LightOptics packing with the managed versions on a Marvell platform as the differentiator against your current source. Which footprint moves more units for you, 4+2 or 8+2, so I quote that one first? Reference: STI-288DGGPM at $137.5 USD EXW (MOQ 1, 15-day validity)."
-  },
-  "facts": [
-   {
-    "date": "2024-05-18",
-    "dir": "来",
-    "who": "用户表（Simon 跟进记录；渠道 WhatsApp/Simon邮箱）",
-    "quote": "用户表跟进：推「发了mini工业交换机图」→ 对方「email发了2光2小壳信息」",
-    "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
-    "k": "Clients/A/DONE/PL 2.6.xlsx no.32 2024.5.18"
-   },
-   {
-    "date": "2024-06-19",
-    "dir": "来",
-    "who": "用户表（Simon 跟进记录；渠道 WhatsApp/Simon邮箱）",
-    "quote": "用户表跟进：推「发了几个商业交换机图」→ 对方「email发了2光8BT信息」",
-    "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
-    "k": "Clients/A/DONE/PL 2.6.xlsx no.32 2024.6.19"
-   },
-   {
-    "date": "2024-06-19",
-    "dir": "去",
-    "who": "S 箱（Simon）",
-    "quote": "90W poe managed switch",
-    "why": "首封去信（邮箱索引；去信共 23 封）",
-    "k": "0e9d6e3fc507809a"
-   },
-   {
-    "date": "2024-11-19",
-    "dir": "去",
-    "who": "S 箱（Simon）报价",
-    "quote": "48 Port PoE Managed Switch｜ $300（原句：*Price is very competitive, 300usd/pc*）",
-    "why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
-    "k": "e5f1f002a33fa0f0"
-   },
-   {
-    "date": "2026-08-21",
-    "dir": "去",
-    "who": "A 箱（Alan）",
-    "quote": "24 Port PoE Managed Switch｜稿内价 $170",
-    "why": "去信正文含价（邮箱索引）",
-    "k": "ffc710b07244cdbd"
-   },
-   {
-    "date": "2026-09-25",
-    "dir": "去",
-    "who": "A 箱（Alan）",
-    "quote": "Managed PoE Switches",
-    "why": "最近一封去信（邮箱索引；去信共 23 封）",
-    "k": "c12866c8e3aa01f1"
-   }
+  "code": "SA-063",
+  "name_official": "Areca Embedded Systems Private Limited（Hyderabad, India；前身 Aster Electrosoft Pvt. Ltd.）",
+  "website_status": "未单独检索（仅用户记录）",
+  "summary": "印度嵌入式/网络系统公司，WA 在线，4 次回复、13 次跟进，规格明确：8 光 8 电管理型、非 PoE、L2 与 L3 都要、SC 与 SFP 光口都要。",
+  "type": "系统集成/设备商",
+  "size": "待补证",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "用户记录",
+      "claim": "8 光 8 电带管理、不要 PoE、L2/L3、SC 和 SFP；WA 已加；4 次回复",
+      "quote": "8光8电带管理 不要POE L2 L3 SC和SFP光都要；9190000 50555 已加（用户 Clients 表摘录）",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网",
+      "claim": "ISO 9001:2015，主业铁路/国防/电信/电力，产品清单",
+      "quote": "It is an ISO 9001:2015 certified company, engaged in the field of Telecommunication, Railways, Defence, Transportation and Power Sectors … Smart Coach ( PICCU ) … Signaling Relays Q series (BRS930-931) … PIS For EMUs / MEMUs … LTE for Railways (LTE-R)",
+      "url": "https://www.areca.in/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "注册",
+      "claim": "注册信息与地址",
+      "quote": "Areca Embedded Systems Private Limited is a Private Limited Company and was incorporated on Mar 29, 2007 … registered address is Plot No 5B, Survey No 184 & 185, Phase -V, IDA, Village Cherlapally Mandal, Hyderabad … CIN U72200TG2007PTC053397",
+      "url": "https://tracxn.com/d/legal-entities/india/areca-embedded-systems-private-limited/__aefKStFLnkBUMSws6Ku9xezsYKyfdvnWJnz6USqe5Uo",
+      "date": "2025-07-30"
+    },
+    {
+      "kind": "注册",
+      "claim": "前身 Aster Electrosoft",
+      "quote": "The Corporate was formerly known as Aster Electrosoft Private Limited. The Company is engaged in the field of telecommunication, transportation and power sectors providing new product development, railways, product re-engineering and product support services in hardware, defense, software",
+      "url": "https://www.thecompanycheck.com/company/areca-embedded-systems-private-limited/U72200TG2007PTC053397",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [
-   "「2 次实质回复」无原文"
+  "kp": [
+    {
+      "name": "（见 Clients 表联系人）",
+      "role": "",
+      "email": "",
+      "phone": "+91 90000 50555（WA）",
+      "source": "用户 Clients 表"
+    }
   ],
-  "draft_en": {
-   "subject": "LightOptics packing - the 4+2 and 8+2 industrial PoE footprints, managed on Marvell",
-   "body": "Hello LightOptics team,\n\nYour LO-IGS-4GT2GF-POE and LO-IGS-8GT2GF-POE sit exactly on the 4+2 and 8+2 industrial PoE footprints we build. In LightOptics packing from small lots, DIN-rail, -40 to 75 C, CE/RoHS: 4 x Gigabit PoE+ + 2 x SFP unmanaged - model STI-244GP - $35 USD EXW (MOQ 1, 15-day validity); 8 x PoE+ + 2 x SFP unmanaged - STI-288GP - $62.2; and the differentiator against your current source, the 8 + 2 L2+ managed version with ring redundancy on a Marvell platform - STI-288DGGPM - $137.5. Optics and DAC stay with you.\n\nOne question: is the managed 8-port the SKU your ISP customers ask for, or do they stay unmanaged?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "规格细到光口类型（SC/SFP）与 L2/L3 分档 = 真实项目选型；4 次回复、WA 在线。印度非主攻区但无需额外投入。P1：SmartByte 8 光 8 电管理型（L2）+ STC-448XGGM(L3) 类 L3 选项（按 docs/smartbyte/products 核对 8F8T 型号与 SC 口可选，报价前核价），项目价阶 25%。",
+  "researched_at": "2026-10-21",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "深挖 v2（官网 areca.in + 公司注册核对）"
   },
-  "as_of": "2026-10-24"
- }
+  "company_facts": {
+    "legal_name": "Areca Embedded Systems Private Limited（CIN U72200TG2007PTC053397）",
+    "hq": "Plot No 5B, Survey No 184 & 185, Phase-V, IDA Cherlapally, Hyderabad, Telangana 500051（另：54/S Anupuram, ECIL, Hyderabad 500062）",
+    "other": "ISO 9001:2015；主业 **铁路 / 国防 / 电信 / 电力** 嵌入式产品开发：列车 PIS、Smart Coach PICCU、信号继电器 Q 系列、LTE-R、站台 GPS 时钟、卫星时间同步、接地漏电检测、国防光纤话音/数据遥测链路（IndiaMART）",
+    "founded": "2007-03-29（RoC Hyderabad）",
+    "size": "实缴资本 ₹4.65 crore；董事 Gutta Venkata Kumari、Rashmi Jain"
+  },
+  "business_lines": [
+    "嵌入式/网络系统集成",
+    "铁路车载/站台电子（PIS、PICCU、信号继电器、LTE-R）",
+    "国防电子（光纤遥测链路、测试 JIG）",
+    "电信/电力嵌入式产品与再工程"
+  ],
+  "products_seen": [
+    {
+      "brand": "（项目需求）",
+      "model": "8 光 8 电管理（L2/L3，非 PoE，SC/SFP）",
+      "spec": "4 次回复",
+      "url": "（本地 Clients/ Clients 表格，无公开 URL）",
+      "date": "用户表",
+      "saga": "—（8 SFP + 8 RJ45 非 PoE 需 SmartByte 核型）"
+    }
+  ],
+  "channels": {
+    "网站": "https://www.areca.in/",
+    "直邮": "kb@areca.in（用户表）",
+    "WhatsApp": "在线（用户表）",
+    "IndiaMART": "https://www.indiamart.com/areca-embedded-systemshyderabad/"
+  },
+  "signals": [
+    "需求规格完整（L2/L3、SC/SFP 都要）——可成交型客户",
+    "8 光 8 电 L2/L3 非 PoE 的需求极可能来自铁路站场/国防项目（公司主业）——报价前必须确认最终用途（2026-10-21）"
+  ],
+  "risks": [
+    "8 光 8 电非 Saga 标准型谱；印度 BIS",
+    "**守界风险**：主业铁路 + 国防（INH 规则：rail/military 不供）；Saga 无 EN50155/军规资质。保留 A 仅因互动强、需求明确；下一封邮件先问用途，若为铁路信号/军用则转 B 并停止报价（见 Q-30）"
+  ],
+  "saga_fit": {
+    "p1": null,
+    "tier": 25,
+    "why": "8 SFP + 8 RJ45 管理型非 PoE：标准型谱无对应，需向 SmartByte 核 8 光 8 电 L2/L3 工业机；集成商 25% 档"
+  },
+  "email_hook": "Before I confirm the 8-SFP + 8-RJ45 managed L2/L3 unit, could you tell me the end application and ambient range, so I quote the right housing and firmware build rather than a generic one?",
+  "mail_review": {
+    "binding": {
+      "level": "未绑定（A/S 邮箱 0 封；用户表「4 次回复 + WA」；Elsa 箱：`to:areca.in` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(g)））",
+      "type": "海得拉巴嵌入式/系统集成（Areca）",
+      "sieve": "0（邮件层无人工回复）",
+      "stop": "—",
+      "revive": "WA",
+      "lane": "IN",
+      "cadence": "WA",
+      "evidence": "邮件：A/S 两箱均无发信记录（0 去 / 0 来）"
+    },
+    "situation": "仓库无邮件。",
+    "need": "8 光 8 电管理（L2/L3 分档）。",
+    "breakpoint": "—",
+    "saga_now": {
+      "p1": "STC-448XGGPM 类",
+      "tier": 25,
+      "price": "—",
+      "why": "8 光 8 电管理（L2/L3 分档）→ 先确认应用与温度范围再定机壳/固件档",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "按 WA 节奏",
+      "channel": "WhatsApp",
+      "action": "WA（用 one_question 这句，WhatsApp 直接发，不附资料）（第 75 批(r) 2026-10-25：WhatsApp 一句话版已写 `draft_en`（Simon 按 WA 节奏自发））",
+      "one_question": "Before I confirm the 8-SFP + 8-RJ45 managed L2/L3 unit, could you tell me the end application and ambient range, so I quote the right housing and firmware build rather than a generic one?"
+    },
+    "facts": [
+      {
+        "date": "2024-01-17",
+        "dir": "来",
+        "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+        "quote": "用户表跟进：推「发了2光4相关信息」→ 对方「问了8光8 L3管理」",
+        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+        "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.66 2024.1.17"
+      },
+      {
+        "date": "2024-01-20",
+        "dir": "来",
+        "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+        "quote": "用户表跟进：推「发了规格书和管理手册」→ 对方「will check」",
+        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+        "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.66 2024.1.20"
+      },
+      {
+        "date": "2024-02-27",
+        "dir": "来",
+        "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+        "quote": "用户表跟进：推「发了2光16电信息」→ 对方「用不到」",
+        "why": "Simon 跟进表里的回应记录（邮箱看不到的渠道）；按原文留存",
+        "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.66 2024.2.27"
+      },
+      {
+        "date": "2024-06-17",
+        "dir": "来",
+        "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+        "quote": "用户表跟进：推「发了48口引流信息」→ 对方「问了MPLS」",
+        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+        "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.66 2024.6.17"
+      },
+      {
+        "date": "2024-07-15",
+        "dir": "来",
+        "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+        "quote": "用户表跟进：推「3个2光8PoE」→ 对方「will check」",
+        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+        "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.66 2024.7.15"
+      },
+      {
+        "date": "2024-11-18",
+        "dir": "来",
+        "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+        "quote": "用户表跟进：推「引流机型」→ 对方「BIS」",
+        "why": "Simon 跟进表里的回应记录（邮箱看不到的渠道）；按原文留存",
+        "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.66 1118"
+      }
+    ],
+    "proof_gaps": [
+      "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 从未去信、Replied 索引亦无此户），仓库未见原文"
+    ],
+    "draft_en": {
+      "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+      "body": "Hi, Simon from Saga Telecom. On the 8-SFP + 8-RJ45 managed unit, non-PoE, L2 and L3 versions, SC and SFP optics: before I confirm the build, what is the end application and the ambient range (cabinet indoors, or -40 to 75 C)? That decides housing and firmware, and I quote both L2 and L3 in one line each. BIS stays on your side."
+    },
+    "as_of": "2026-10-24"
+  }
 }

@@ -1,0 +1,59 @@
+{
+ "code": "SC-210",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "快照失败（http_error）",
+ "summary": "美国 IEC（iec.net；表内「EoC MC switch 等」；无邮箱；官网 http_error）；表内未跟进。",
+ "type": "网络产品商（美国，无邮箱）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "EOC MC switch等",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "EoC MC switch 等",
+   "quote": "EOC MC switch等",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "无邮箱且官网不可达；c_sub=无邮箱",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "美国",
+  "other": "官网 iec.net，语言 ?，快照状态 http_error；角色判定来源：待核"
+ },
+ "business_lines": [
+  "（待核，美国）"
+ ],
+ "channels": {
+  "role": "网络产品商（美国，无邮箱）",
+  "region": "美国",
+  "contact": "（表内无邮箱）"
+ },
+ "signals": [
+  "表内：EOC MC switch 等；无邮箱",
+  "快照：http_error"
+ ],
+ "risks": [
+  "无邮箱（无法联系）；官网 http_error"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 20,
+  "why": "无邮箱、官网不可达 → 改 C（无法联系）"
+ },
+ "email_hook": "（不发送：无邮箱）"
+}

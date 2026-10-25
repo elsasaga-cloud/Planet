@@ -1,0 +1,16 @@
+# SB-858 areskom.com.tr · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCWBr2xMuLaHicb_vuFKrcBQ · fetched 2026-10-25T07:41:18Z · HTTP 200
+2017-09-13T14:21:32+00:00	The story of Westermo Production	https://www.youtube.com/watch?v=KIEYecii5uI
+2017-08-27T14:12:36+00:00	WeConfig-VLAN Setup	https://www.youtube.com/watch?v=v9Dyoiny5Tc
+2017-08-27T14:05:27+00:00	WeConfig-FRNT ring setup	https://www.youtube.com/watch?v=b_E-ygsMe4M
+2017-07-16T14:17:31+00:00	Acromag in 5 minutes	https://www.youtube.com/watch?v=V7m1tbV0iZw
+2017-07-16T14:13:18+00:00	TELTONIKA Routers applications and solutions	https://www.youtube.com/watch?v=xw64pZ9VbS0
+2017-07-16T14:10:37+00:00	Wolverine - Extend your network far beyond the normal limits of Ethernet	https://www.youtube.com/watch?v=QDlX_NTw3rE
+2017-07-16T14:09:01+00:00	Westermo - The world's best industrial networks	https://www.youtube.com/watch?v=7lwdrWZ8CRc
+2017-07-16T14:02:14+00:00	Firmware Update (WeConfig )	https://www.youtube.com/watch?v=8yTwaOJzeWM
+2017-07-16T14:02:14+00:00	WeOS Quality Assurance	https://www.youtube.com/watch?v=PT_zbl7_lU4
+2017-07-16T14:02:14+00:00	RedFox - A rugged industrial switch, router and firewall in one box	https://www.youtube.com/watch?v=TAt3xSH7OH4
+2017-07-16T14:02:14+00:00	Lynx - Rugged switches and device servers for industrial Ethernet	https://www.youtube.com/watch?v=k9M52xnDdgM
+2017-07-16T14:02:14+00:00	WeConfig-Basic network setup	https://www.youtube.com/watch?v=lcKV1tdLIAU
+2017-07-16T14:02:14+00:00	Westermo Edge Network Solutions	https://www.youtube.com/watch?v=xi7mlIicRcQ
+2017-06-01T11:18:40+00:00	ETIC TELECOM: THE ALERT & DISPLAY SOLUTION	https://www.youtube.com/watch?v=Y2cT6sv0DwE
+2017-06-01T11:11:41+00:00	ETIC TELECOM: THE M2Me SOLUTION	https://www.youtube.com/watch?v=YGRxqQyN6n8

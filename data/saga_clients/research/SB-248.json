@@ -1,124 +1,167 @@
 {
  "code": "SB-248",
- "name_official": "",
+ "name_official": "Nelly's Security（美国）",
  "researched_at": "2026-10-21",
- "website_status": "在线（ansecnetwork.com，快照 2026-10-21）",
- "summary": "香港 ANSEC Network（网络机柜、理线、配线架等无源 + 有源设备；自有 AS- 型号（AS-16SF8B-M2SG / AS-4P2SG / AS-8PM，Utepo 代工迹象）；表内「工业 FS Utepo 的；分销商；自己的型号」；电话 +86 131…（内地手机，「网站上的 加不了 VX」））；群发 17 次无回复。",
- "type": "港资/内地背景贸易商（自有型号转卖 Utepo，同行）",
+ "website_status": "在线（nellyssecurity.com，快照 2026-10-21）",
+ "summary": "美国商用级安防设备电商（CCTV、门禁、入侵报警；Uniview、Hanwha、ZKTeco、TP-Link、Ubiquiti；camera 280 / poe 180 / switch 75），Technical Operations Officer Ryan O'Daniel、Sales Cole Cattaneo；表内「PoE switch 摄像头安防；用的是 ONV 的设备」；群发 9 次无回复。",
+ "type": "",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "ONV",
+  "Uniview",
+  "Hanwha",
+  "ZKTeco",
+  "TP-Link",
+  "Ubiquiti"
+ ],
  "evidence": [
   {
    "kind": "官网快照",
-   "claim": "官网标题：ANSEC | ANSEC Network offers you network cabinets, Cable management and tray, Patch panel,；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
-   "quote": "Categories；Passive networking equipment；Active networking equipment；Professional；Quality；Dedicated",
-   "url": "http://www.ansecnetwork.com/en/",
+   "claim": "商用级物理安防设备电商",
+   "quote": "The web's top source for commercial-grade physical security equipment… brands Uniview, Hanwha, ZKTeco, TP-Link, Ubiquiti",
+   "url": "https://nellyssecurity.com/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "工业FS Upeto的 分销商 自己的型号",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "ANSEC 定位",
-   "quote": "ANSEC Network offers you network cabinets, Cable management and tray, Patch panel ; Passive networking equipment ; Active networking equipment ; AS-16SF8B-M2SG",
-   "url": "http://www.ansecnetwork.com/en/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "Utepo 的 自己的型号；内地手机",
-   "quote": "工业FS Upeto的 分销商 自己的型号；86 131 3867 2473 / 网站上的 加不了VX",
+   "claim": "PoE switch 摄像头，安防；用的是 ONV 的设备",
+   "quote": "兴趣：PoE switch 摄像头，安防 用的是ONV的设备",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
- "kp": [],
- "grade_override": "C",
- "override_reason": "同行：香港/内地背景贸易商（ANSEC，Utepo 贴牌 AS- 型号），非海外渠道；c_sub=同行/贸易商",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "kp": [
+  {
+   "name": "Ryan O'Daniel",
+   "title": "Technical Operations Officer",
+   "email": "rodaniel@nellyssecurity.com",
+   "phone": "",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  },
+  {
+   "name": "Cole Cattaneo",
+   "title": "Sales Representative",
+   "email": "customerservice@nellyssecurity.com",
+   "phone": "",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（官网快照核对 + 表内）"
  },
  "company_facts": {
-  "hq": "香港",
-  "other": "官网 ansecnetwork.com，语言 ?，快照状态 ok；角色判定来源：用户表"
+  "legal_name": "Nelly's Security（待核）",
+  "founded": "",
+  "hq": "USA（俄克拉荷马，待核）",
+  "size": "中型安防电商",
+  "other": "自有标 PoE 疑由 ONV 代工"
  },
  "business_lines": [
-  "网络机柜 / 配线 / 有源设备贸易"
+  "安防电商"
  ],
  "channels": {
-  "role": "港资/内地背景贸易商（自有型号转卖 Utepo，同行）",
-  "region": "香港",
-  "contact": "office@ansecnetwork.com、support@ansecnetwork.com"
+  "role": "电商（ONV 用户）",
+  "region": "美国"
  },
  "signals": [
-  "站内 AS-16SF8B-M2SG / AS-4P2SG / AS-4P1SG / AS-8PM / AS-8P；首页 Passive networking equipment / Active networking equipment",
-  "表内：工业 FS Upeto 的 分销商 自己的型号；86 131 3867 2473 / 网站上的 加不了 VX"
+  "ONV 设备在售 → 同规格替换（可贴 Nelly's 标）"
  ],
  "risks": [
-  "同行：香港注册、内地电话的贸易商（Utepo 产品贴 AS- 型号出口），非海外渠道客户；17 次无回复"
+  "美国：常要求 UL 列名（Saga 无 UL，仅 FCC/CE）→ 首触即说明",
+  "9 次群发无回复"
  ],
  "saga_fit": {
-  "p1": null,
+  "p1": "STC-424DGGPM-280W",
   "tier": 30,
-  "why": "内地手机号 + 香港壳 + Utepo 贴牌自有型号 → 同行出口商，非海外渠道 → 改 C"
+  "why": "自有标 24 PoE（替换 ONV）→ STC-424DGGPM-280W（$145.7 @30%）；8 PoE STC-28DGGPM。"
  },
- "email_hook": "（不发送：同行）",
+ "email_hook": "Ryan, for the PoE switches you source from ONV today — like-for-like Marvell L2+ 24-PoE and 8-PoE units under the Nelly's label from small lots (FCC/CE); send me the ONV model numbers and I'll quote them directly.",
  "mail_review": {
-  "as_of": "2026-10-25",
   "binding": {
-   "level": "已发未回（无人工回复、无打开记录；S 7 封 2024-07-04→2025-01-27、A 19 封 2025-03-13→2026-10-08，共 26 封群发，0 真实回复；Elsa 单发去信 1 封（2025-02-10「Mini Industrial PoE Switch」→ office@ansecnetwork.com，未见回复（Elsa 箱 Replied 标签无）））（第 74 批(e)：S/A mail_dump + Elsa 箱 in:sent 排锚扫描 2026-10-25）",
-   "type": "港资贸易商（自有型号，Utepo 代工，同行）",
-   "sieve": "1（无人读/无人回）",
-   "stop": "读",
-   "evidence": [
-    "mail_dump.py SB-248（S/A 全量）",
-    "data/gmail_e/elsa_sent_nonanchor_2026-10-25.json（Elsa 1:1 普查）"
-   ]
+   "level": "未触达（6 封来信 = Zendesk「Request received」+「rate the support」自动工单；无人工回复；Elsa 箱：`to:nellyssecurity.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 27 / 来 6）（第 74 批(h)））",
+   "type": "美国安防分销/电商（Nelly's Security）——只打过 customerservice@",
+   "sieve": "0",
+   "stop": "客服工单系统",
+   "revive": "找采购（purchasing/vendor）邮箱",
+   "lane": "US 主攻",
+   "cadence": "不动",
+   "evidence": "k=a8425797c1332005 等"
   },
-  "situation": "香港 ANSEC Network（自有 AS- 型号转卖 Utepo 工业 FS 的贸易商，内地手机；同行）",
-  "need": "同行贸易商：只可能在 Utepo 断供/涨价时找二供",
-  "breakpoint": "同行 + 自有型号已有代工；S/A 26 封 0 回",
+  "situation": "工单号 252114/253755/265626 都是机器。",
+  "need": "—",
+  "breakpoint": "—",
   "saga_now": {
-   "p1": null,
-   "tier": null,
-   "price": null,
-   "why": "同行贸易商：只可能在 Utepo 断供/涨价时找二供",
-   "repeat": "无成单；不动",
-   "gaps": []
+   "p1": "—",
+   "tier": 20,
+   "price": "—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-06 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-24 $280（10G Enterprise SFP Switch）",
+   "why": "已打开的主题（3/27 封有打开记录）：「24 port poe switch」(2024-07-04)、「PoE switch」(2024-08-06)、「8 Port Industrial PoE Switch」(2025-04-01) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
+   "repeat": [],
+   "gaps": [
+    "采购邮箱"
+   ]
   },
   "next_move": {
    "when": "不动",
    "channel": "—",
-   "action": "不动：同行贸易商，留群发名单",
-   "one_question": null
+   "action": "—（第 76 批(c) 2026-10-25：0 事实户补时间线事实）",
+   "one_question": ""
   },
   "facts": [
    {
-    "date": "2026-10-08",
+    "date": "2024-07-04",
     "dir": "去",
-    "who": "S/A 群发",
-    "quote": "Marvell Industrial Alert System, Industrial PoE Switch, 10G Enterprise SFP Switch, 48 port managed switch",
-    "why": "S 7 封 2024-07-04→2025-01-27、A 19 封 2025-03-13→2026-10-08，共 26 封群发，0 真实回复｜首封 2024-07-04 → 末封 2026-10-08",
-    "k": "gmail_digest"
+    "who": "S 箱（Simon）",
+    "quote": "24 port poe switch",
+    "why": "首封去信（邮箱索引；去信共 27 封）",
+    "k": "455bdd68f9c0f2ef"
    },
    {
-    "date": "2025-02-10",
-    "dir": "out",
-    "who": "Elsa → office@ansecnetwork.com",
-    "quote": "Mini Industrial PoE Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
-    "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
-    "k": "elsa_1to1",
-    "msg_id": "194edcca7af30c65"
+    "date": "2026-08-31",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "24 Port PoE Managed Switch",
+    "why": "最近一封去信（邮箱索引；去信共 27 封）",
+    "k": "9fceab76406d21da"
+   },
+   {
+    "date": "2024-05-10",
+    "dir": "来",
+    "who": "customerservice@nellyssecurity.com",
+    "quote": "How would you rate the support you received here at Nelly's?｜##- Please type your reply above this line -##    Hi Simon,    We would love to hear from you regarding the customer sup",
+    "why": "自动工单回执 / 满意度调查（机器，不算人工回复）",
+    "k": "742436a1c91614a5"
+   },
+   {
+    "date": "2024-06-04",
+    "dir": "来",
+    "who": "customerservice@nellyssecurity.com",
+    "quote": "How would you rate the support you received here at Nelly's?｜##- Please type your reply above this line -##    Hi Simon,    We would love to hear from you regarding the customer sup",
+    "why": "自动工单回执 / 满意度调查（机器，不算人工回复）",
+    "k": "9ac616b1e77c6c7c"
+   },
+   {
+    "date": "2024-07-04",
+    "dir": "来",
+    "who": "customerservice@nellyssecurity.com",
+    "quote": "[Request received] 24 port poe switch｜##- Please type your reply above this line -##  Your request (252114) has been received and is being reviewed by our sup",
+    "why": "自动工单回执 / 满意度调查（机器，不算人工回复）",
+    "k": "a8425797c1332005"
+   },
+   {
+    "date": "2024-07-08",
+    "dir": "来",
+    "who": "customerservice@nellyssecurity.com",
+    "quote": "How would you rate the support you received here at Nelly's?｜##- Please type your reply above this line -##    Hi Simon,    We would love to hear from you regarding the customer sup",
+    "why": "自动工单回执 / 满意度调查（机器，不算人工回复）",
+    "k": "3b93d5d7d4f8b5f8"
    }
   ],
   "proof_gaps": [],
-  "draft_en": null
+  "draft_en": null,
+  "as_of": "2026-10-24"
  }
 }

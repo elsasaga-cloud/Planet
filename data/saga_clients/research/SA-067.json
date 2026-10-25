@@ -1,227 +1,224 @@
 {
  "code": "SA-067",
- "name_official": "Direktronik AB（Nynäshamn, Sweden；Lagercrantz Group 子公司）",
- "website_status": "在线",
- "summary": "斯德哥尔摩南郊的网络/数据通信硬件进口分销商（1986 年创立，2007 年起属上市集团 Lagercrantz；约 25 人，营收约 1.4 亿 SEK），自有品牌产品 + 分销，面向企业/公共部门（Svenska Kraftnät 框架协议），2026 年收购 AB Qvintus、挪威 Nexlan。用户表：A 已回复 1 次，联系人 Anders Hedin；兴趣 MC / 工业 FS / VC / SDI / SFP 及周边，「和 E-link 深度合作」。",
- "type": "分销商/进口商（自有品牌 + 多品牌）",
- "size": "约 25 人，营收 140.7 MSEK（nordicnet）",
- "brands_seen": [
-  "Direktronik",
-  "E-link",
-  "PLANET"
- ],
+ "name_official": "LATMEDIA GROUP LLC（ООО Latmedia group，塔什干，乌兹别克斯坦）",
+ "website_status": "未单独检索（仅用户记录）",
+ "summary": "乌兹别克斯坦 IT 公司，2025 年通过自建站询盘 L2+/L3 商业级交换机，留有手机号；至今 0 次跟进（尚未回复过该询盘）。",
+ "type": "IT 集成/贸易商",
+ "size": "待补证",
+ "brands_seen": [],
  "evidence": [
   {
-   "kind": "官网",
-   "claim": "定位与集团归属",
-   "quote": "Inriktningen har hela tiden varit import och distribution av produkter och komponenter, framförallt inom området nätverk och datakommunikation … Sedan 2007 ingår Direktronik som ett helägt dotterbolag till Lagercrantz Group.",
-   "url": "https://www.direktronik.se/foretaget/om-foretaget/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "第三方（nordicnet）",
-   "claim": "规模",
-   "quote": "Direktronik AB … Omsättning (×1000): 140 657 · Antal anställda: 25 … E-post: info@direktronik.se",
-   "url": "http://m.nordicnet.se/foretag/Direktronik-AB/8532",
+   "kind": "用户记录",
+   "claim": "自建站询盘 L2+/L3 商业交换机；电话 998 90 9767748；0 次跟进",
+   "quote": "L2+/L3商业交换机 / from: 自建站；998 90 9767748（用户 Clients 表摘录）",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   },
   {
    "kind": "官网",
-   "claim": "Direktronik Pro 管理型 8 PoE + 2 SFP DIN 规格",
-   "quote": "En industriell Managed Ring PoE-switch med 8 adaptiva RJ45-portar … 2 Gigabit SFP … 30W per port … statisk routing … QoS och VLAN … Utökad Temperatur -40/+75 Montage DIN Ingångsspänning 48 - 57 V DC … PoE Budget 120",
-   "url": "https://www.direktronik.se/direktronik/natverk/lan-lokalt-natverk/switchar-industriellt/direktronik-pro-managerad-8xpoe--2xsfp/",
+   "claim": "公司定位：数字营销代理，2012 年起，CEO",
+   "quote": "Одна из ведущих и успешных компаний на рынке Узбекистана, в сфере Digital-Маркетинга. Наша история начинается с 2012 г. … Пак Максим CEO LATMEDIA",
+   "url": "https://latmedia.uz/about/",
+   "date": "2023-08-28"
+  },
+  {
+   "kind": "黄页",
+   "claim": "法人名、邮箱、地址",
+   "quote": "Legal name: LATMEDIA GROUP ООО … E-mail: Info@latmedia.uz, web@latmedia.uz … Address: Uzbekistan, Tashkent region, Tashkent, Yashnabad district, massif M. RIYOZI … Seo - Optimization, IP (Social Media Marketing) - Promotion",
+   "url": "https://www.yellowpages.uz/en/company/latmedia-group-llc",
    "date": "2026-10-21"
   },
   {
-   "kind": "官网",
-   "claim": "自有系列 Direktronik Connect（非管理 PoE + Watchdog + MC）",
-   "quote": "Vi har samlat en serie av omanagerade switchar under namnet Direktronik Connect … Omanagerade Switchar med PoE och Watchdog samt mediakonverterare",
-   "url": "https://www.direktronik.se/losningarna/natverk/direktronik-se/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "同时分销 PLANET IGS-624HPT",
-   "quote": "PLANET IGS-624HPT är en industriell PoE+ switch … fyra PoE+-portar och två fiberoptiska uplink-portar … strömbudget på upp till 120 watt",
-   "url": "https://www.direktronik.se/direktronik/natverk/lan-lokalt-natverk/switchar-industriellt/industriell-poe-switch-med-12v-48v-matning/",
+   "kind": "2GIS",
+   "claim": "广告代理分类与地址",
+   "quote": "Latmedia group, рекламное агентство … ООО Latmedia group … Массив Риёзи, 28/2 Риёзи ж/м, Яшнабадский район, Ташкент",
+   "url": "https://2gis.uz/tashkent/firm/70000001036910454",
    "date": "2026-10-21"
   }
  ],
  "kp": [
   {
-   "name": "Anders Hedin",
-   "role": "联系人（用户表邮箱）",
-   "email": "anders.hedin@direktronik.se",
-   "phone": "+46 8 52 400 700（总机）",
-   "source": "Clients/A Replied 09.04.xlsx"
+   "name": "Пак Максим（Maksim Pak）",
+   "role": "CEO LATMEDIA（官网 About）",
+   "email": "info@latmedia.uz（公司公开）",
+   "phone": "+998 90 115 51 00（公司 Telegram）",
+   "source": "https://latmedia.uz/about/"
   },
   {
-   "name": "Mats Backlund",
-   "role": "收件人（A 邮箱 18 封的收件地址之一；他本人从未回信；职务未核）",
-   "email": "mats.backlund@direktronik.se",
+   "name": "Vladimir Xe",
+   "role": "Co-founder, Latmedia（邮件签名）",
+   "email": "vladimir.xe@latmedia.uz",
    "phone": "",
-   "source": "A 邮箱发件表头（18 封 to）"
+   "source": "S/A 邮箱来信 2025-07-21 → 11-24 来信 7 封（第 72 批从邮件表头补）"
   }
  ],
- "notes": "A 确认（北欧成熟分销 + 已回复 + 已与中国供应商 E-link 深度合作）：切入点为 E-link 以外的补充 SKU（Marvell 工业 PoE / MC）；P1 = STI-288DGGPM，20% 分销档；VC/SDI 不做。",
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "唯一一条'入站 L3 询盘却从未被跟进'的 A 级线索：先补发首封回复（L2+ STC-424DGGPM-280W / L3 STC-448XGGM(L3)，项目 25%），一轮后按回应重定级。俄语区非主攻，不额外投入。 ｜ T27 用户更正（2026-10-21）：该询盘已由 a.sagatelecom@gmail 邮箱跟进过（表内未记录）；跟进往来待用户导出 A 邮箱后补入。",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "深挖 v1"
+  "level": "深挖 v2（官网 + 黄页核对）"
  },
  "company_facts": {
-  "legal_name": "Direktronik AB（Lagercrantz Group）",
-  "founded": "1986；2007 起属上市集团 Lagercrantz",
-  "hq": "Nynäshamn, Sweden",
-  "staff": "约 25",
-  "revenue": "约 1.4 亿 SEK",
-  "other": "自有系列 Direktronik Connect（非管理 PoE + Watchdog + MC）与 Direktronik Pro（管理型）；同时分销 PLANET（IGS-624HPT 等）；公共部门框架协议（Svenska Kraftnät）；2026 年收购 AB Qvintus 与挪威公司"
+  "legal_name": "LATMEDIA GROUP ООО",
+  "hq": "Ташкент, Яшнабадский район, массив Риёзи 28/2（黄页另列 ул. Сайрам 25, 100170）；info@latmedia.uz / web@latmedia.uz；Telegram +998 90 115 51 00",
+  "other": "**数字营销/广告代理公司**（SMM、SEO、投放、网站开发），非网络设备商；CEO Пак Максим（Maksim Pak），创始人 Jahongir Latipov（Webster Univ. 介绍）；网站 2025-09 更新为「LATMEDIA Community」",
+  "founded": "2012",
+  "staff": "≈19（ZoomInfo 口径，待核）"
  },
  "business_lines": [
-  "自有品牌 Direktronik Connect/Pro 工业与商用交换机、MC",
-  "PLANET 等品牌分销",
-  "企业/公共部门网络硬件进口分销"
+  "IT 集成 / 贸易",
+  "数字营销 / SMM / SEO / 投放",
+  "网站与 Web 开发",
+  "（本次询盘）L2+/L3 商用交换机——用途不明（自用办公/机房或代客户采购）"
  ],
  "products_seen": [
   {
-   "brand": "Direktronik Pro",
-   "model": "Managerad switch för DIN-skena, 8× 1 GbE POE, 2x SFP（Best.nr 系列）",
-   "spec": "工业管理环网 8×GE PoE 30W + 2 SFP，静态路由/QoS/VLAN，-40~75℃，48–57VDC，120W",
-   "url": "https://www.direktronik.se/direktronik/natverk/lan-lokalt-natverk/switchar-industriellt/direktronik-pro-managerad-8xpoe--2xsfp/",
-   "date": "2026-10-21",
-   "saga": "STI-288DGGPM"
-  },
-  {
-   "brand": "Direktronik",
-   "model": "Omanagerad switch för DIN-skena, 4× 1 GbE POE, 1x SFP",
-   "spec": "4×GE PoE 30W + 1 SFP，-40~75℃，120W，ESD 6/8KV",
-   "url": "https://www.direktronik.se/direktronik/natverk/lan-lokalt-natverk/switchar-industriellt/industriell-mediakonverterare2/",
-   "date": "2026-10-21",
-   "saga": "STI-144GP"
-  },
-  {
-   "brand": "Direktronik",
-   "model": "Industriell POE switch PoE-powered 4 port + 2 SFP（Best.nr 20113781）",
-   "spec": "PoE 受电供电（bt 90W 入）4 GE PoE + 2 SFP，-40~80℃",
-   "url": "https://www.direktronik.se/direktronik/natverk/lan-lokalt-natverk/switchar-industriellt/industrial-poe-powered-switch-5-port-101001000t2-port-sfp/",
-   "date": "2026-10-21",
-   "saga": "—（PD 供电型不在 Saga 型谱）"
-  },
-  {
-   "brand": "Direktronik",
-   "model": "4× 1 GbE POE++, 1 POE++ PD RJ45（Best.nr 20115161）",
-   "spec": "4×bt 90W PSE + 1 PD，-20~65℃",
-   "url": "https://www.direktronik.se/direktronik/natverk/lan-lokalt-natverk/switchar-industriellt/full-gigabit-poe---funkar-bade-som-psd-och-pd--2065c/",
-   "date": "2026-10-21",
-   "saga": "—"
-  },
-  {
-   "brand": "PLANET（分销）",
-   "model": "IGS-624HPT（Best.nr 20121139）",
-   "spec": "工业 4×GE bt + 2 SFP，12–54V 升压，120W",
-   "url": "https://www.direktronik.se/direktronik/natverk/lan-lokalt-natverk/switchar-industriellt/industriell-poe-switch-med-12v-48v-matning/",
-   "date": "2026-10-21",
-   "saga": "STI-144GP"
+   "brand": "（询盘）",
+   "model": "L2+/L3 商业级交换机",
+   "spec": "自建站询盘",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2025",
+   "saga": "STC-424DGGPM-280W（L2+）/ STC-448XGGM(L3)"
   }
  ],
  "channels": {
-  "网站/网店": "https://www.direktronik.se/（Kunskapsbanken + 产品 PDF）",
-  "直邮": "anders.hedin@direktronik.se / info@direktronik.se（用户表）"
+  "网站": "https://latmedia.uz/",
+  "直邮": "vladimir.xe@latmedia.uz（用户表）",
+  "电话": "用户表留有手机号",
+  "邮箱（公开）": "info@latmedia.uz / web@latmedia.uz",
+  "Telegram": "+998 90 115 51 00（Instagram 简介公开）",
+  "Instagram": "https://www.instagram.com/latmedia_agency/（2,181 followers）"
  },
  "signals": [
-  "自有 Direktronik Connect/Pro 系列规格（Watchdog、环网、-40~75℃）与 E-link 公版一致——用户表「和 E-link 深度合作」，ODM 采购成熟（2026-10-21）",
-  "2026 年并购扩张（Qvintus、挪威）——采购体量上升"
+  "主动询盘 L2+/L3——需求明确；跟进记录在 A 信箱（待导出）",
+  "公司主业为营销代理——L2+/L3 交换机询盘更可能是一次性（自建机房/代客户），不是渠道复购（2026-10-21）"
  ],
  "risks": [
-  "E-link 深度合作 → 替换难，定位二供/新品类（2.5G/10G、bt）",
-  "瑞典公共部门框架要求文档/环保（RoHS/REACH）齐全，Saga 具备 CE/RoHS/REACH"
+  "乌兹别克斯坦物流/结算；跟进历史未入库",
+  "询盘来源与真实需求待核（营销代理公司问交换机可能是代采购或网站开发配套）；A 邮箱已跟进（用户 T27 确认）——下一步仅问「用途与台数」一句，不再多轮"
  ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
-  "tier": 20,
-  "why": "Direktronik Pro 8 PoE + 2 SFP 管理 DIN 与 STI-288DGGPM 同位；Connect 4 PoE + 1 SFP 对位 STI-144GP；分销 20% 档（自有品牌贴标可 25%）"
+  "p1": "STC-448XGGM(L3)",
+  "tier": 25,
+  "why": "询盘 L2+/L3：STC-448XGGM(L3)（EXW $485.8 @25%）+ STC-424DGGPM-280W（L2+）；集成商 25% 档"
  },
- "email_hook": "Your Direktronik Pro 8x PoE + 2 SFP managed DIN switch is the unit where a Marvell-based second source in Direktronik packing is easiest to slot in, so I am quoting that first, with the Connect-class 4+1 PoE model as the second line.",
+ "email_hook": "Before I send the L2+/L3 managed switch quote you asked about, could you tell me roughly how many ports and whether it is for your own office or a client project, so I pick the right model?",
  "mail_review": {
   "binding": {
-   "level": "未绑定（合规台账层接触，无销售对话；Elsa 箱：`to:.se` 穷举 12 条（2026-10-25，锚批 Bcc 头已读）未见 direktronik.se → Elsa 箱从未发过本户，往来只在 S/A 箱（去 21 / 来 4）（第 74 批(f)））",
-   "type": "瑞典上市集团（Lagercrantz）分销商，自有品牌 + 多品牌，已与 E-link 深度合作",
-   "sieve": "1（info@ 合规函）",
-   "stop": "2025-11-11 合规文件清单：EN 18031 声明、CE、RoHS、REACH、ISO → Alan「We only have CE/FCC/Reach/RoHS/UKCA」→ 无下文；Anders Hedin 只有自动回复；Mats Backlund 被指定为负责销售但从未回信；steffo@ 2026-09-28 永久退信（人已不在），后续只走 mats.backlund@ / anders.hedin@",
-   "revive": "给 Mats 一封：CE DoC 文件 + 一句「EN 18031 针对 RED 无线电设备，有线交换机不在范围」（需 Simon/SmartByte 确认 CE DoC 含 EMC/LVD 并可外发）",
-   "lane": "SE/EU（CE/UKCA/RoHS/REACH 有）",
-   "cadence": "2024-07 → 2026-09 去信 21 封；最后来信 2025-11-11",
-   "evidence": "k=cda0898220404dd0 / a72460754524b4c8 / 195f51b6b5903da9 / 6a03768b154dbe10"
+   "level": "未绑定（对方要 SDK/源码/API = 政府强制要求，Saga 不提供；已转介；Elsa 箱：`to:latmedia.uz` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 10 / 来 7）（第 74 批(g)））",
+   "type": "乌兹别克斯坦国家级 IT 硬件项目方（技术流，但要的是「制造商 + 源码」）",
+   "sieve": "2（读资料、明确需求）",
+   "stop": "Saga 边界：SDK/源码/API 为其政府认证所必需；Alan 2025-09/10 转介「Joey」给他们",
+   "revive": "仅当他们接受「硬件 OEM + 不开源固件」的国家项目子集，或项目改为采购成品（2025-11 对 Booster PoE 明确不感兴趣）",
+   "lane": "UZ 未通（无收款/物流先例）",
+   "cadence": "最后 2026-10-07 Alan 群发式推送（无回）；对方最后实质来信 2025-10-10（要 Joey 联系方式）",
+   "evidence": "A 邮箱 k=14d996fdc995a2b9 / 65ea0d5cb4a671d8 / 510e36cd41433a95 / 67798dac43496efa；第 19 批回补来信原文 2 条（gmail_s/gmail_a）"
   },
-  "situation": "Direktronik 的唯一实质来信是采购合规台的标准函：要 EN 18031（RED 网络安全）声明、CE、RoHS、REACH、ISO。Alan 答「只有 CE/FCC/REACH/RoHS/UKCA」，对方没有再问。这封函说明 Saga 的群发至少进入了其供应商评估流程，但没有人（Mats/Anders/Fredrik）在销售侧接话。",
-  "need": "合规文件齐全的工业 PoE / MC 补充 SKU（E-link 之外）；公共部门框架协议要求文件完整。",
-  "breakpoint": "合规文件是北欧分销的第一道门，不是价格。EN 18031 本身不适用于有线交换机，但需要有人把这句话说出来并附 DoC。",
+  "situation": "Latmedia Group（Vladimir Xe，联合创始人；经「Simon from Olycom」介绍）2025-07-21 来信要找「硬件制造商而非经销商」，为乌兹别克斯坦国家 IT 硬件方案集成固件——要 SDK、源码、API（政府强制）；Alan 答不提供后 7-24 请其推荐伙伴；9-14 Alan 「We got a solution for you」→ 10-10 对方已与伙伴签备忘录、要 Joey 的联系方式（转介完成）；11-24 对 Booster PoE「not interesting」。**边界户，已体面转出。**",
+  "need": "可拿到 SDK/源码的交换机硬件平台，用于国家级自主品牌 + 本地认证。",
+  "breakpoint": "C10 边界（E2：不做 SDK/源码）。",
   "saga_now": {
-   "p1": "STI-288DGGPM（CE/RoHS/REACH 齐）+ CE DoC 文件",
-   "tier": 20,
-   "price": "按 20% 分销档；群发里他已看到的价（续）：2026-09-28 $180（24 Port PoE Managed Switch = STC-424XGGPM-280W，Alan 2026-09-21 起的现价轮）——同款信稿只能写 $180；群发里他已看到的价（续）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-08-02 $220（48 port managed switch）、2024-12-25 $240（24 Port Fiber Switch）、2025-10-07 $280（10G Enterprise SFP Switch）",
-   "why": "J2：把停点（文件）变成一封可核对的信；EU CRA 2027 是下一道门，先记着。已打开的主题（8/21 封有打开记录）：「Booster PoE Switch」(2025-11-11)、「Re: Booster PoE Switch」(2025-11-12)、「Re: Booster PoE Switch」(2025-12-08)、「24 Port PoE Managed Switch」(2026-09-28) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续 最近一封去信是 2026-09-28 A 邮箱模板（在本档最后一条事实之后）——下一封必须回到真人线程、不再叠模板｜已发资料（勿重发）：Saga Telecom Ethernet Switch JAT240705(2025-11-12)、Saga Telecom Ethernet Switch JAT240705(2025-11-12)、Saga Telecom Ethernet Switch JAT240705(2025-11-12)、Saga Telecom Ethernet Switch NCT240283(2025-11-12)、Saga Telecom Ethernet Switch JAT240705(2025-11-12)、Product Link_2026Q2(2026-03-30)、Saga Feature List_7.5.x_L2+(2026-07-20)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）",
+   "p1": "不推",
+   "tier": 25,
+   "price": "不报价；群发里他已看到的价（续）：2026-08-06 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170",
+   "why": "需求与 Saga 路线正交；继续群发只会制造噪音。已打开的主题（7/10 封有打开记录）：「Re: OEM and SDK for National product」(2025-09-15)、「Re: OEM and SDK for National product」(2025-10-10)、「Re: OEM and SDK for National product」(2025-10-11)、「Booster PoE Switch」(2025-11-21) → 读者兴趣主题类别不明（看原主题）｜对外统一口径（#2/#14）：2025-07～10 Alan 先说源码「almost impossible」再转介第三方 Joey 做 CKD/SKD/源码——转介可以，但 Saga 不背书、不参与；档案保持「停止群发」",
    "repeat": [],
-   "gaps": [
-    "ISO 9001/14001 = SmartByte 官网自述（docs/smartbyte/新闻与固件说明），证书文件仓库无 → 信里写 copy on request；RED/EN 18031 不适用于无线电以外设备为法规事实",
-    "信稿里不点名 SmartByte：S/A 两箱出站只对 NYNEX（nynex.de）提过 SmartByte 这个名字，其余客户从未点名——ISO 证书复印件给出去时厂名自然可见，但信里不先说"
-   ]
+   "gaps": []
   },
   "next_move": {
-   "when": "2026-11",
-   "channel": "A 邮箱 → mats.backlund@direktronik.se + anders.hedin@direktronik.se（抄 info@ 回原工单）",
-   "action": "附 CE DoC + EN 18031 不适用一句话 + 问谁管有源设备选品（第 75 批(n)：信里写了「attached」——发前必须附 CE DoC（EMC+LVD）、RoHS、REACH、FCC、UKCA 文件，缺一则把该行改「on request」）",
-   "one_question": "Our wired switches are outside RED/EN 18031 scope; attached is the CE DoC (EMC/LVD) — is that sufficient for your supplier file, and who owns active-equipment sourcing?"
+   "when": "停止对其群发（从 A 邮箱发送名单移除）",
+   "channel": "—",
+   "action": "若其成品采购需求出现再回",
+   "one_question": "（无）"
   },
   "facts": [
    {
-    "date": "2025-05-19",
+    "date": "2025-07-21",
     "dir": "来",
-    "who": "info@direktronik.se（客服）",
-    "quote": "The responsible salesperson, Mats, will be back to you shortly.",
-    "why": "指定负责人 Mats（从未回）",
-    "k": "195f51b6b5903da9"
+    "who": "Vladimir Xe",
+    "quote": "looking to establish a partnership with a hardware manufacturer, not a reseller or distributor… national IT hardware solution for Uzbekistan",
+    "why": "需求定义",
+    "k": "14d996fdc995a2b9"
    },
    {
-    "date": "2025-11-11",
+    "date": "2025-07-24",
     "dir": "来",
-    "who": "info@direktronik.se（合规）",
-    "quote": "we kindly request… EN 18031 declaration… CE certification RoHS compliance REACH compliance ISO certification (if applicable)",
-    "why": "合规清单 = 停点",
-    "k": "cda0898220404dd0"
+    "who": "Vladimir Xe",
+    "quote": "these requirements are mandated by our government. Without access to the SDK, source code, and API, we will not be able to…",
+    "why": "硬边界",
+    "k": "65ea0d5cb4a671d8"
    },
    {
-    "date": "2025-11-12",
-    "dir": "去",
-    "who": "Alan",
-    "quote": "We only have CE/FCC/Reach/RoHS/UKCA. Please see attached info and let me know.",
-    "why": "Saga 答复",
-    "k": "a72460754524b4c8"
-   },
-   {
-    "date": "2025-12-08",
+    "date": "2025-07-24",
     "dir": "去",
     "who": "Saga（Alan）",
-    "quote": "Hi, Anders, How are you? We are focusing on Marvell AC3 and AC5 solutions. *Compared with traditional Taiwanese suppliers* 1. Competitive pricing with the same Marvell architecture 2. Flexible OEM terms: even 1 unit is available 3. Fast delivery & small batch production 4. Custom design options (por…",
-    "why": "Saga 实质答复原文（主题「Re: Booster PoE Switch」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
-    "k": "d69d71aab444aaa5"
+    "quote": "Hi, Vladimir, Simon talked with me. About SDK, Source Code & API info, it is not easy to move on. We can anticipate that there will be too many problems ahead. What you need is carrier-level products and technology support, honestly this is difficult for too many small companies. Sorry for this. I g…",
+    "why": "Saga 实质答复原文（主题「Re: OEM and SDK for National product」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
+    "k": "9b92c332e549ec67"
    },
    {
-    "date": "2026-09-28",
-    "dir": "内",
-    "who": "Gmail 退信（S 邮箱）",
-    "quote": "steffo@direktronik.se 永久退信：550 5.4.1 Recipient address rejected: Access denied. For more information see https://aka.ms/EXOSmtpErrors",
-    "why": "该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职",
-    "k": "gmail_s 322dcd696af9687a"
+    "date": "2025-07-29",
+    "dir": "去",
+    "who": "Saga（Alan）",
+    "quote": "Hi, Vladimir, I talked with our engineer again. It is not easy to recommend a supplier suited for your needs. 1, source codes are the very most confidential information. It is almost impossible to share it even if the quantity is huge or some kind of agreement is signed. 2, technical support is comp…",
+    "why": "Saga 实质答复原文（主题「Re: OEM and SDK for National product」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
+    "k": "df24b9c68b2f5757"
+   },
+   {
+    "date": "2025-09-14",
+    "dir": "来",
+    "who": "vladimir.xe@latmedia.uz",
+    "quote": "Hi Alan, Yes the project still available. I will send it to CTO and back with response. Best regards Vladimir Xe Latmedia Group LLC 14 сент. 2025 г.,",
+    "why": "来信原文（主题「Re: OEM and SDK for National produc」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+    "k": "f494577cfa227b40"
+   },
+   {
+    "date": "2025-09-15",
+    "dir": "去",
+    "who": "Saga（Alan）",
+    "quote": "Hi, Vladimir, Thanks. Just fyi, it is a close friend, she will handle your requirements. We discussed your project, CKD, SDK, original codes etc., there is a chance to work out something. So wondering if it is still available. We know that this is not easy(especially when SDK and original codes are…",
+    "why": "Saga 实质答复原文（主题「Re: OEM and SDK for National product」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
+    "k": "8883a9bf7dc2bf69"
+   },
+   {
+    "date": "2025-09-16",
+    "dir": "来",
+    "who": "vladimir.xe@latmedia.uz",
+    "quote": "Dear Alan, I sent it to my CTO. We will back soon with response. ---------------------------- Best Regards Vladimir Xe Co-founder Latmedia Group, LLC",
+    "why": "来信原文（主题「Re: OEM and SDK for National produc」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+    "k": "4c0f3bf7e1566ac4"
+   },
+   {
+    "date": "2025-10-10",
+    "dir": "来",
+    "who": "Vladimir Xe",
+    "quote": "we signed a memorandum with our partner… Could you please share Joey's contact",
+    "why": "转介落地",
+    "k": "510e36cd41433a95"
+   },
+   {
+    "date": "2025-10-10",
+    "dir": "去",
+    "who": "Saga（Alan）",
+    "quote": "Hi, Vladimir, I shared your contact info with the person we know, Joey. About the CKD/SKD/Source Code info, its all good. Perhaps it is better that you talk with Joey directly. Maybe you can work out something or next time.…",
+    "why": "Saga 实质答复原文（主题「Re: OEM and SDK for National product」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
+    "k": "3cdc9c1b300ef132"
+   },
+   {
+    "date": "2025-11-24",
+    "dir": "来",
+    "who": "Vladimir Xe",
+    "quote": "No, this is not interesting for us.",
+    "why": "成品不感兴趣",
+    "k": "67798dac43496efa"
    }
   ],
   "proof_gaps": [
-   "EN 18031 不适用于有线设备——这是 RED 指令范围的常识判断，发信前让 Simon 过目一句"
+   "「Joey」是谁、属于哪条供应链——邮件未写；不去猜"
   ],
-  "draft_en": {
-   "subject": "EN 18031 / supplier documents — wired switches are outside RED scope",
-   "body": "Hi, Mats, hi Anders,\n\nYour document request from November: EN 18031 is the harmonised standard under the Radio Equipment Directive, and our Ethernet switches and media converters contain no radio, so RED/EN 18031 does not apply to them. What applies, and what we hold:\n\n- CE Declaration of Conformity (EMC + LVD), RoHS, REACH — attached\n- FCC, UKCA — attached\n- ISO 9001 / ISO 14001: held by our manufacturing partner (the certificate carries the factory's legal name); copy on request\n\nOne question: is this sufficient for your supplier file, and who at Direktronik owns sourcing of active equipment (switches/MC) so I address the right person next time?\n\nThank you.\nAlan\nSaga Telecom - sagatele.com"
-  },
+  "draft_en": null,
   "as_of": "2026-10-24"
  }
 }

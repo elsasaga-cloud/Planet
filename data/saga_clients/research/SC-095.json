@@ -1,0 +1,73 @@
+{
+ "code": "SC-095",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（afcon.co.il，快照 2026-10-21）",
+ "summary": "以色列 Afcon Control & Automation Ltd.（Afcon Holdings，Shlomo 集团旗下上市工程集团：基础设施、通信与多媒体、电动交通、贸易；表内「买的 VC；化工 建筑 安全都做 工业品」；KP Yonatan Krul）；群发 6 次无回复。",
+ "type": "上市工程集团（以色列）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Afcon – אפקון החזקות מקבוצת שלמה；品类词 网络交换 / PoE",
+   "quote": "אפקון. תשתית מתקדמת לעולם חכם צפייה בסרטון המלא אפקון יוזמת ומתמחה בביצוע ומתן פתרונות כוללים, המתייחסים בעיקר להקמת פרויקטי בניה עתירי מערכות ומשלבת את כלל יכולותיה במגוון תחומים תחומי הפעילות של הקבוצה משלימים אחד את השני, באופן בו הקבוצה",
+   "url": "https://www.afcon.co.il/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "买的VC 化工 建筑 安全都做 工业品",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Afcon 定位",
+   "quote": "Homepage - Afcon – אפקון החזקות מקבוצת שלמה ; פרויקטים ותשתיות ; תקשורת ומולטימדיה",
+   "url": "https://www.afcon.co.il/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "买的 VC",
+   "quote": "买的VC 化工 建筑 安全都做 工业品",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "上市工程集团（体量）；c_sub=体量过大",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "以色列",
+  "other": "官网 afcon.co.il，语言 he-IL，快照状态 ok；角色判定来源：用户表"
+ },
+ "business_lines": [
+  "工程 / 基础设施 / 通信集团（以色列）"
+ ],
+ "channels": {
+  "role": "上市工程集团（以色列）",
+  "region": "以色列",
+  "contact": "yonatank@afcon.co.il、irenam@afcon.co.il"
+ },
+ "signals": [
+  "官网：Homepage - Afcon – אפקון החזקות מקבוצת שלמה ; תשתית מתקדמת לעולם חכם ; פרויקטים ותשתיות ; תקשורת ומולטימדיה",
+  "表内：买的 VC 化工 建筑 安全都做 工业品；KP Yonatan Krul"
+ ],
+ "risks": [
+  "体量：上市集团（Afcon Holdings / Shlomo Group）；非主攻区（以色列）；6 次无回复"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 25,
+  "why": "上市工程集团（集团采购体系）→ 改 C（体量）"
+ },
+ "email_hook": "（不发送：上市集团）"
+}

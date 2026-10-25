@@ -1,0 +1,73 @@
+{
+ "code": "SC-068",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（vegvisir.ee，快照 2026-10-21）",
+ "summary": "爱沙尼亚 Defensphere OÜ / Vegvisir（军用平台头戴显示与软件「integrated into military platforms」；阿里巴巴 RFQ「无人机光纤」；KP Kaido Petter（COO））；表内未跟进。",
+ "type": "军用显示系统公司（守界）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Vegvisir â Every Domain. One Vision.；品类词 网络交换 / PoE",
+   "quote": "Head-mounted displays and software integrated into military platforms â giving crews, remote operators and commanders the information they need in one operational view.",
+   "url": "https://www.vegvisir.ee/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "无人机光纤 / from: 阿里巴巴RFQ",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Vegvisir 定位",
+   "quote": "Vegvisir – Every Domain. One Vision. ; Head-mounted displays and software integrated into military platforms",
+   "url": "https://www.vegvisir.ee/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "无人机光纤 RFQ",
+   "quote": "无人机光纤 / from: 阿里巴巴RFQ",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "守界：军用平台系统；c_sub=守界（军工）",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "爱沙尼亚",
+  "other": "官网 vegvisir.ee，语言 en，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "军用头戴显示系统（爱沙尼亚）"
+ ],
+ "channels": {
+  "role": "军用显示系统公司（守界）",
+  "region": "爱沙尼亚",
+  "contact": "purchases@vegvisir.ee"
+ },
+ "signals": [
+  "官网：Head-mounted displays and software integrated into military platforms – giving crews, remote operators and commanders the information they need",
+  "表内：无人机光纤 / from: 阿里巴巴 RFQ；KP Kaido Petter, COO"
+ ],
+ "risks": [
+  "守界：军用平台系统（Vegvisir）；RFQ 无人机光纤（Saga 不供）；小国"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 25,
+  "why": "军用平台系统公司 → 改 C（守界）"
+ },
+ "email_hook": "（不发送：守界）"
+}

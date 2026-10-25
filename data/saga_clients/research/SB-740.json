@@ -1,123 +1,119 @@
 {
  "code": "SB-740",
- "name_official": "Tek Nokta Destek Güvenlik Sistemleri（İnegöl/Bursa, TR；teknoktadestek.com）",
+ "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "在线（含网店）",
- "summary": "布尔萨 İnegöl 的安防与网络方案商 Tek Nokta Destek（CCTV、防盗报警、智能家居、网络；自述 11 个全球品牌、500+ 产品、120+ 品类；勘察-安装-服务一站式，面向全国供货；Fatih Mh. Kıvırcık Sk. No:9/1 İnegöl；+90 224 719 08 00；GSM/WhatsApp +90 532 315 72 58；info@teknoktadestek.com）。ISAF 记录：Rıfat Bende（站内社媒为 Rıfat Yıldız——姓氏待核）拿了彩页、没说什么；WhatsApp 已加（号码与官网 GSM 一致）；无后续跟进。",
- "type": "",
+ "website_status": "快照失败（http_error）",
+ "summary": "英国 Britannic Cabling Production / BCP（bcp-uk.com：布线产品；表内「工业 FS 也有其他的牌子 有点杂」「可以多跟进一下」；官网 http_error）；群发 18 次无回复。",
+ "type": "布线/网络产品经销商（英国）",
  "size": "",
  "brands_seen": [],
  "evidence": [
   {
-   "kind": "官网",
-   "claim": "业务与地址",
-   "quote": "Tek Nokta Destek Güvenlik Sistemleri … İnegöl/Bursa merkezli güvenlik ve ağ çözümleri: kamera sistemleri, hırsız alarmı, akıllı ev, network. 11 global marka, keşif-kurulum-servis tek noktada. Türkiye geneline tedarik. … Fatih Mh. Kıvırcık Sk. No:9/1 İnegöl / Bursa 0 224 719 0 800 … info@teknoktadestek.com",
-   "url": "https://teknoktadestek.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "GSM/WhatsApp 与用户表号码一致",
-   "quote": "GSM / WhatsApp 0532 315 7258 … E-posta info@teknoktadestek.com",
-   "url": "https://teknoktadestek.com/index.php?route=information%2Fcontact",
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "工业FS 也有其他的牌子 有点杂",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "ISAF：拿彩页；WhatsApp 已加",
-   "quote": "拿了彩页，没说什么 / 90 53231 57258 已加",
+   "claim": "工业 FS 其他牌子 有点杂",
+   "quote": "工业FS 也有其他的牌子 有点杂；可以多跟进一下",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
- "kp": [
-  {
-   "name": "Rıfat Bende（官网社媒：Rıfat Yıldız，待核）",
-   "role": "业主（推测）",
-   "email": "info@teknoktadestek.com（公开）",
-   "phone": "+90 532 315 72 58（公开，WhatsApp 已加）",
-   "source": "https://teknoktadestek.com/index.php?route=information%2Fcontact"
-  }
- ],
+ "kp": [],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网核对）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "legal_name": "Tek Nokta Destek Güvenlik Sistemleri",
-  "hq": "Fatih Mh. Kıvırcık Sk. No:9/1, İnegöl / Bursa（+90 224 719 08 00；GSM +90 532 315 72 58；info@teknoktadestek.com）",
-  "size": "小型（本地 + 网店）",
-  "other": "11 个品牌、500+ 产品的网店；İnegöl = 家具产业城（工厂 CCTV 需求）"
+  "hq": "英国",
+  "other": "官网 britaniccablingproduction.com，语言 ?，快照状态 http_error；角色判定来源：待核"
  },
  "business_lines": [
-  "CCTV / 报警 / 智能家居安装",
-  "网络设备与安防产品网店（全国供货）"
+  "布线 / 网络产品经销（英国）"
  ],
  "channels": {
-  "网站": "https://teknoktadestek.com/",
-  "电话": "+90 224 719 08 00（公开）",
-  "WhatsApp": "+90 532 315 72 58（公开）",
-  "邮箱（公开）": "info@teknoktadestek.com"
+  "role": "布线/网络产品经销商（英国）",
+  "region": "英国",
+  "contact": "sales@bcp-uk.com"
  },
  "signals": [
-  "网店 + 安装双渠道 → 8 口 PoE 与 2 光 8 电可同时上架与自用；İnegöl 家具工厂监控 → 工业 PoE 机会"
+  "表内：工业 FS 也有其他的牌子 有点杂；可以多跟进一下",
+  "快照：http_error"
  ],
  "risks": [
-  "小型；ISAF 未表达需求；无后续跟进"
+  "多品牌、品类杂（白牌契合度待核）；官网 http_error；18 次无回复，仅 sales@"
  ],
  "saga_fit": {
-  "p1": "STC-228GP",
-  "tier": 25,
-  "why": "安装商 25% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，列表 $30.8）作网店/自装主力；工厂车间用 STI-288GP（$59.8）"
+  "p1": "STI-280GE",
+  "tier": 20,
+  "why": "工业 FS 多品牌 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、5 GE STI-050GE（$17.0）、8 PoE + 2 SFP STI-288GPM（$78.9）作白牌预算位"
  },
- "email_hook": "Rıfat Bey, mağazanız ve kurulumlarınız için 2 SFP + 8 port gigabit PoE switch fiyatı 34,6 USD EXW, İnegöl'deki fabrika sahaları için DIN ray endüstriyel 8 PoE sürümü 59,8 USD — 10'ar adetlik ilk parti için teklif göndereyim mi?",
+ "email_hook": "Alongside the industrial switch brands you carry with your cabling range, we supply neutral-brand DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP units (−40~75 °C, CE/RoHS/UKCA; managed versions on a Marvell platform) from single units, EXW USD — is there a budget industrial position your customers ask for?",
  "mail_review": {
   "binding": {
-   "level": "轻度触达（展会名片 + WhatsApp 已加，邮件 0 封）：用户表「拿了彩页，没说什么 / 90 53231 57258 已加」；S/A 邮箱 0 封；Elsa 箱：`to:teknoktadestek.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(i)）",
-   "type": "—",
-   "sieve": "3（已加 WhatsApp，表内有往来）",
-   "stop": "仓库只有用户表一行；往来在 Simon 手机",
-   "revive": "首封邮件（A 邮箱，按 email_hook）+ WhatsApp 一句话",
-   "lane": "土耳其 非主攻",
+   "level": "未触达（A/S 邮箱 27 封 2024→2026，1 次记录打开，0 回；收件 sales@bcp-uk.com；主题多为「Managed Optical Bypass Switch、Industrial PoE Switch」；Elsa 箱：`to:britaniccablingproduction.com OR to:bcp-uk.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 27 / 来 0）（第 74 批(j)））",
+   "type": "布线/网络产品经销商（英国）",
+   "sieve": "1~2（1 次打开）",
+   "stop": "只打通用邮箱，无记录打开",
+   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+   "lane": "UK 主攻（四主）",
    "cadence": "一封",
-   "evidence": "gmail_digest：out 0；用户表：「拿了彩页，没说什么 / 90 53231 57258 已加」；研究档 risks：小型；ISAF 未表达需求；无后续跟进"
+   "evidence": "gmail_digest：out 27，Opened 标签 1（Simon 群发追踪）；用户表：「工业FS 也有其他的牌子 有点杂」；研究档 risks：多品牌、品类杂（白牌契合度待核）；官网 http_error；18 次无回复，仅 sales@"
   },
-  "situation": "布尔萨 İnegöl 的安防与网络方案商 Tek Nokta Destek（CCTV、防盗报警、智能家居、网络；自述 11 个全球品牌、500+ 产品、120+ 品类；勘察-安装-服务一站式，面向全国供货；Fatih Mh. Kıvırcık Sk. No:9/1 İnegöl；+90 224 719 08 00；GSM/WhatsApp +90 532 315 72 58；info@teknoktadestek.com）。ISAF 记录：Rıfat Bende（站内社媒为 Rıfat Yıldız——姓氏待核）拿了彩页、没说什么；WhatsApp 已加（号码与官网 GSM 一致）；无后续跟进。",
-  "need": "安装商 25% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，列表 $30.8）作网店/自装主力；工厂车间用 STI-288GP（$59.8）",
-  "breakpoint": "小型；ISAF 未表达需求；无后续跟进",
+  "situation": "英国 Britannic Cabling Production / BCP（bcp-uk.com：布线产品；表内「工业 FS 也有其他的牌子 有点杂」「可以多跟进一下」；官网 http_error）；群发 18 次无回复。",
+  "need": "工业 FS 多品牌 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、5 GE STI-050GE（$17.0）、8 PoE + 2 SFP STI-288GPM（$78.9）作白牌预算位",
+  "breakpoint": "多品牌、品类杂（白牌契合度待核）；官网 http_error；18 次无回复，仅 sales@",
   "saga_now": {
-   "p1": "STC-228GP",
-   "tier": 25,
-   "price": "Realtek 线按 HRUI 2026-09-30 进价 +25% 现算（Q-47 默认，不用 Drive 旧表价）：STC-228GP $30.8→$34.6；按主表（研究档 saga_fit）",
-   "why": "安装商 25% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，列表 $30.8）作网店/自装主力；工厂车间用 STI-288GP（$59.8）",
+   "p1": "STI-280GE",
+   "tier": 20,
+   "price": "换人再触锚价 STI-280GE $46 EXW（Saga 2025 Realtek 工业线对外价 $46（非管理工业线不用档位价 ㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-21 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-09-02 $300（48 port switch）、2025-10-01 $280（10G Enterprise SFP Switch）",
+   "why": "工业 FS 多品牌 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、5 GE STI-050GE（$17.0）、8 PoE + 2 SFP STI-288GPM（$78.9）作白牌预算位。已打开的主题（1/27 封有打开记录）：「48 port switch」(2024-09-02) → 读者兴趣主题类别不明（看原主题）",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "2026-11（Simon）",
-   "channel": "A 邮箱首封 + WhatsApp（Simon）",
-   "action": "首封 + 一句话",
-   "one_question": "Rıfat Bey, mağazanız ve kurulumlarınız için 2 SFP + 8 port gigabit PoE switch fiyatı 34,6 USD EXW, İnegöl'deki fabrika sahaları için DIN ray endüstriyel 8 PoE sürümü 59,8 USD — 10'ar adetlik ilk parti için teklif göndereyim mi?"
+   "when": "2027-Q1（换人后）",
+   "channel": "A 邮箱 → 具名 KP",
+   "action": "换收件人再发一封（第 75 批(y) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
+   "one_question": "Alongside the industrial switch brands you carry with your cabling range, we supply neutral-brand DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP units (−40~75 °C, CE/RoHS/UKCA; managed versions on a Marvell platform) from single units, EXW USD — is there a budget industrial position your customers ask for? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
+   {
+    "date": "2026-08-21",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Managed Optical Bypass Switch、Industrial PoE Switch",
+    "why": "27 封 / 1 次打开 / 0 回｜首封 2024-07-08 → 末封 2026-08-21（27 去 / 0 来）",
+    "k": "gmail_digest"
+   },
    {
     "date": "2026-10-21",
     "dir": "用户表",
     "who": "Simon",
-    "quote": "拿了彩页，没说什么 / 90 53231 57258 已加",
+    "quote": "工业FS 也有其他的牌子 有点杂",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-08-21",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "24 Port PoE Managed Switch",
+    "why": "本日去信真实主题（邮箱索引 bd340520a3fe250c；信稿开头句引用此封；此前稿内写的「Managed Optical Bypass Switch」是线程列表首题，不是本封）",
+    "k": "bd340520a3fe250c"
    }
   ],
-  "proof_gaps": [
-   "WhatsApp 往来未入库"
-  ],
+  "proof_gaps": [],
   "draft_en": {
-   "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
-   "body": "Rıfat Bey, mağazanız ve kurulumlarınız için 2 SFP + 8 port gigabit PoE switch fiyatı 34,6 USD EXW, İnegöl'deki fabrika sahaları için DIN ray endüstriyel 8 PoE sürümü 59,8 USD — 10'ar adetlik ilk parti için teklif göndereyim mi?"
+   "subject": "A budget industrial position next to the switch brands you carry - three numbers",
+   "body": "Hello BCP team,\n\nOver the past months you had a few product mails from us - most recently \"24 Port PoE Managed Switch\" on 21 August 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nAlongside the industrial switch brands you carry with the cabling range, neutral-brand units at distributor price, EXW, from single units, 15-day validity, -40 to 75 C, CE/RoHS/UKCA: DIN-rail 8 x Gigabit + 2 x SFP, unmanaged - model STI-280GE - $46 USD; 5 x Gigabit - STI-050GE - $17.0; 8 x Gigabit PoE+ + 2 x SFP, L2 managed, Marvell-based - STI-288GPM - $78.9.\n\nOne question: is there a budget industrial position your customers ask for that the current brands price too high?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
  }

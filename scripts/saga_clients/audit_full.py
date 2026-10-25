@@ -48,8 +48,14 @@ for e in ents:
         S('实体', '无名称', e['code'])
     if e['grade'] not in ('A', 'B', 'C'):
         H('实体', '等级非 A/B/C', f"{e['code']} {e['grade']}")
-    if e['code'][1] != e['code'][1]:
-        pass
+    if e['code'][1] != e['grade']:
+        S('编号', '前缀≠等级（2026-10-25 重排后出现的升降级；积累后由 renumber.py 一次性重排，见 Q-62）', f"{e['code']} 等级 {e['grade']}")
+# 2026-10-25 起：A/B/C 各自从 001 连号；断号只提示（升降级/归并会留洞，Simon 开口再重排）
+for g in 'ABC':
+    nums = sorted(int(c[3:]) for c in codes if c[1] == g)
+    gaps = [n for n in range(1, (nums[-1] if nums else 0) + 1) if n not in set(nums)]
+    if gaps:
+        S('编号', f'{g} 级断号 {len(gaps)} 个（renumber.py 可重排）', gaps[:10])
 E = {e['code']: e for e in ents}
 reg = json.load(open(os.path.join(DATA, '编号登记.json'), encoding='utf-8'))
 reg_codes = set(reg['keys'].values()) if isinstance(reg.get('keys'), dict) else set()

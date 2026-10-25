@@ -1,0 +1,16 @@
+# SB-217 microsens.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCxubH--ge55dyVnsAxFFXLA · fetched 2026-10-25T07:41:18Z · HTTP 200
+2024-11-19T12:39:44+00:00	MICROSENS Production	https://www.youtube.com/watch?v=6TkoDhnxsPk
+2024-09-24T14:30:34+00:00	MICROSENS Profi Line X - 10G Industrial Ethernet Switch	https://www.youtube.com/watch?v=LDea_dyM-Q4
+2024-05-27T06:24:12+00:00	MICROSENS Tutorial MQTT Broker Auf G6 Switches	https://www.youtube.com/watch?v=yjz0WyCzP-M
+2024-03-20T10:09:47+00:00	MICROSENS PraxisTutorial - Verbindung Smart I/O Controller mit MQTT Broker	https://www.youtube.com/watch?v=dT460WyEftc
+2023-08-04T11:55:13+00:00	MICROSENS PLM Production (Switch to HD)	https://www.youtube.com/watch?v=y8L7G4Y4Ps0
+2021-03-30T07:45:46+00:00	MICROSENS Smart Building Manager - das Werkzeug für effizientes Gebäudemanagement	https://www.youtube.com/watch?v=eVj21pBnt2A
+2020-05-04T09:34:25+00:00	MICROSENS Smart Building Webinar „IP-based automation and smart lighting“	https://www.youtube.com/watch?v=LL0eN_10vEA
+2019-11-08T11:14:34+00:00	MICROSENS company headquarters in Hamm, Germany	https://www.youtube.com/watch?v=f0yWTy4TW7g
+2019-11-05T13:36:37+00:00	MICROSENS NEW WEBSITE RELAUNCH VIDEO	https://www.youtube.com/watch?v=k-XvBQBdKyc
+2018-03-29T12:58:40+00:00	Rückblick MICROSENS auf der Light + Building 2018	https://www.youtube.com/watch?v=49XbBHwZvWs
+2016-11-28T07:45:30+00:00	MICROSENS Einbausätze Netzteile DE	https://www.youtube.com/watch?v=8m4-VaE9RQ8
+2016-11-17T23:03:07+00:00	MICROSENS Micro Switch Installation Set MS140040BR2 (EN version)	https://www.youtube.com/watch?v=r2jXPAtjvgE
+2016-11-17T22:48:13+00:00	MICROSENS Micro Switch Installation Set MS140029 (EN version)	https://www.youtube.com/watch?v=a9C-CcbxyyQ
+2016-08-11T15:18:27+00:00	MICROSENS Micro-Switch Einbauset MS140040BR2 (DE Version)	https://www.youtube.com/watch?v=jd9W4-nRrHk
+2016-08-10T14:02:38+00:00	MICROSENS Micro-Switch Einbauset MS140029 (DE Version)	https://www.youtube.com/watch?v=FoviGJ8TYG8

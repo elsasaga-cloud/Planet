@@ -1,185 +1,144 @@
 {
-  "code": "SB-553",
-  "name_official": "NSI Distribution (2164929 Ontario Inc.)",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（nsidistribution.com；并档 Planet 渠道档案 PA-004）",
-  "summary": "多伦多郊区的安防批发商，全国 9 个门店卖摄像机/门禁/网络给安装商；自己已经做贴牌品牌，PLANET 是其 PoE 交换机货源之一。类型：安防分销商（加拿大安防批发，9 个分部）+ 自有品牌（Norelco SafeCam）/自述 OEM 服务。信号：PLANET 品牌页 17 款（GSW-2620HP、8 口 PoE+2 上联、16 口 PoE+2 RJ45+2 SFP、24 口非 PoE 等）；同时分销 Lysora（美国 BSC 的自有品牌）。Planet 渠道档案 PA-004 评级 A（需求面：PLANET 品牌页 17 款 PoE 在售 + 已分销两家贴牌品牌；触达：Norm Matinnia 直邮 norm@nsidistribution.com（官网门店页/招聘页公开）；体量：区域安防批发 9 分部，可赢；区域加拿大（一线））。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-553，加拿大，Saga 群发已推送 13 次无回复）与 Planet 渠道挖掘名单，首触邮件此前未发送。",
-  "type": "",
-  "size": "",
-  "brands_seen": [
-    "PLANET"
-  ],
-  "evidence": [
-    {
-      "kind": "卖方目录",
-      "claim": "PLANET 品牌页 17 款在售",
-      "quote": "Planet Technology #### 17 Products 8 Port Gigabit POE Switch + 2 Uplinks … 16 Port Gigabit POE Switch + 2 RJ45 + 2 SFP … GSW-2620HP",
-      "url": "https://www.nsidistribution.com/Brands/Planet-Technology-Corporation",
-      "date": "2026-10-19"
-    },
-    {
-      "kind": "公司自述",
-      "claim": "自述提供 OEM 设计与制造服务，并有自有品牌 Norelco SafeCam",
-      "quote": "offers OEM design and manufacturing services（检索摘要，原文页待 fetch 核对）",
-      "url": "https://www.nsidistribution.com/",
-      "date": "2026-10-19"
-    },
-    {
-      "kind": "公司自述",
-      "claim": "Norm Matinnia 直邮在官网公开",
-      "quote": "norm@nsidistribution.com（门店页与招聘页均列出；招聘页另列 carlo@/paul@/mike@/david@）",
-      "url": "https://www.nsidistribution.com/our-stores",
-      "date": "2026-10-19"
-    },
-    {
-      "kind": "第三方",
-      "claim": "分销 Lysora（Business Systems Connection 的自有品牌）",
-      "quote": "Lysora … distributed by NSI Distribution（检索摘要）",
-      "url": "https://www.nsidistribution.com/",
-      "date": "2026-10-19"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Norm Matinnia",
-      "title": "Sales and Product Development（zoominfo 口径；官网门店页列为联系人）；公开（官网 /our-stores 与 /careers 页）",
-      "email": "norm@nsidistribution.com",
-      "phone": "1-800-668-3402",
-      "source": "https://www.nsidistribution.com/our-stores"
-    }
-  ],
-  "grade_override": "A",
-  "override_reason": "Planet 渠道档案 PA-004 评 A（真实需求 + 具名联系人 + 体量可赢，规则 INH）；Saga 表内未互动故自动评 B，按调研提升",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（并档 Planet 渠道档案 PA-004，W 批次调研 2026-10-19/20）"
+ "code": "SB-553",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（sequrinet.us，快照 2026-10-21）",
+ "summary": "SEQURINET（sequrinet.com / sequrinet.us：VMS/NVR 方案商（NX、Genetec、Cortrol 指南，韩文站，美国销售邮箱）；表内「工业 FS Utepo 的」「质量高」；KP Eva Christensen（Team Leader））；群发 21 次无回复。",
+ "type": "VMS/NVR 方案商（韩国/美国，工业 FS 现 Utepo）",
+ "size": "",
+ "brands_seen": [
+  "Utepo"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：SEQURINET；品类词 安防监控（CCTV / 门禁）",
+   "quote": "PRODUCTS；DEMO MOVIE；NX Guide；Genetec Guide；Cortrol Guide",
+   "url": "http://sequrinet.com/En/index.asp",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "legal_name": "NSI Distribution (2164929 Ontario Inc.)",
-    "founded": "",
-    "hq": "Brampton, ON, 加拿大",
-    "size": "",
-    "other": "Planet 渠道档案 PA-004（2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json）；自有品牌：是（Norelco SafeCam；官网自述提供 OEM 设计与制造服务）；最大未知：Norelco 现有交换机贴牌来源（是否已有深圳供应商）；9 分部年 PoE 台数"
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "工业FS Utepo的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "安防分销商（加拿大安防批发，9 个分部）+ 自有品牌（Norelco SafeCam）/自述 OEM 服务"
-  ],
-  "products_seen": [
-    {
-      "brand": "PLANET",
-      "model": "GSW-2620HP",
-      "spec": "PLANET 为 24 口 PoE 非管理+2 SFP；Saga 为 L2+ 管理型，功能上覆盖",
-      "saga": "STC-424DGGPM-280W",
-      "url": "https://nsidistribution.com",
-      "date": "2026-10-19"
-    },
-    {
-      "brand": "PLANET",
-      "model": "GS-4210-24P4C",
-      "spec": "24×GE PoE+ + 4 Combo，280W",
-      "saga": "STC-424DGGPM-280W",
-      "url": "https://nsidistribution.com",
-      "date": "2026-10-19"
-    }
-  ],
-  "channels": {
-    "role": "安防分销商（加拿大安防批发，9 个分部）+ 自有品牌（Norelco SafeCam）/自述 OEM 服务",
-    "region": "加拿大"
+  {
+   "kind": "官网快照",
+   "claim": "SEQURINET 页面",
+   "quote": "SEQURINET ; NX Guide ; Genetec Guide ; Cortrol Guide",
+   "url": "http://sequrinet.com/En/index.asp",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "安防批发商自带贴牌诉求（Norelco/Lysora 都是贴牌货）；9 个分部走量 24 口 PoE；Norm Matinnia（销售与产品开发）直邮公开",
-    "第二货源对位：GSW-2620HP 同位且带 L2+ 管理；贴牌中性包装",
-    "样机到 Brampton：30 天并行测试，不要求承诺；兼容其在用 SFP"
-  ],
-  "risks": [
-    "Norelco 现有交换机贴牌来源（是否已有深圳供应商）；9 分部年 PoE 台数",
-    "Planet 首触邮件未发送（Elsa 账号待定）",
-    "Saga 群发已推送 13 次无回复 → 改用具名收件人与新钩子（勿再用群发模板）"
-  ],
-  "saga_fit": {
-    "p1": "STC-424DGGPM-280W",
-    "tier": 20,
-    "why": "对位其在售 GSW-2620HP / GS-4210-24P4C 一档（24×GE PoE+ + 4 上联，280W），是安防批发最走量的尺寸；分销走量 → 20%；Norelco 贴牌定制另按 30%（沿用 Planet 档案 PA-004）；需求：24/16/8 口 PoE 商用、贴牌、北美 FCC（Saga 有）、UL（Saga 无——若硬性要求则降级）"
-  },
-  "email_hook": "Your PLANET page already lists 17 PoE models next to Norelco SafeCam, so a second-source PoE switch under your own label is a natural fit for your nine branches. Is the 24-port PoE+ with 4 uplinks your highest-volume PLANET SKU across the branches, or do the 8/16-port units move faster?",
-  "mail_review": {
-    "binding": {
-      "level": "未绑定（邮件 18 封 0 回，Opened 3 次（最近 2026-06-12），4 个收件人；Elsa 箱：`to:norelcosafecam.com OR to:nsidistribution.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 18 / 来 0）（第 74 批(g)））",
-      "type": "加拿大 NSI Distribution（Ontario）",
-      "sieve": "0（邮件层无人工回复）",
-      "stop": "—",
-      "revive": "对打开过的人发一句话",
-      "lane": "CA",
-      "cadence": "一次",
-      "evidence": "邮件：去信 18 封（2025-05-27 → 2026-09-24），来信 0；Opened 标签 3 次（2025-05-27、2025-11-21、2026-06-12）；收件人 alexs@nsidistribution.com, amanda@nsidistribution.com, claudio@nsidistribution.com, joef@nsidistribution.com, norm@nsidi"
-    },
-    "situation": "4 个收件人里有人持续打开（3 次，到 2026-06）。",
-    "need": "—",
-    "breakpoint": "—",
-    "saga_now": {
-      "p1": "STC-424DGGPM-280W",
-      "tier": 20,
-      "price": "—；**第 63 批基准统一（规则 ㉕）**：列表价 $220 → 20% 档 $215.2；群发里他已看到的价（续）：2026-08-06 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-24 $280（10G Enterprise SFP Switch）",
-      "why": "已打开的主题（3/18 封有打开记录）：「Industrial PoE Switch」(2025-05-27)、「Booster PoE Switch」(2025-11-21)、「10G L3 Managed Switch」(2026-06-12) → 读者兴趣偏「工业」；与 P1 同类，继续 最近一封去信是 2026-09-24 A 邮箱模板（在本档最后一条事实之后）——下一封必须回到真人线程、不再叠模板｜已发资料（勿重发）：Product Link_2026Q2(2026-03-05)、Product Link_2026Q3(2026-07-06)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "2026-11",
-      "channel": "A 邮箱 → norm@nsidistribution.com",
-      "action": "一句话（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
-      "one_question": "Our June note on the 24-port PoE / 10G unit — is there a line in the NSI catalogue it would fit, and who decides on new vendors?"
-    },
-    "facts": [
-      {
-        "date": "2025-05-27",
-        "dir": "去",
-        "who": "Saga（群发）",
-        "quote": "「Industrial PoE Switch」被打开（Mailtrack Opened 标签）",
-        "why": "唯一的互动痕迹",
-        "k": "c5c7abff2df78e77"
-      },
-      {
-        "date": "2025-05-27",
-        "dir": "去",
-        "who": "A 箱（Alan）",
-        "quote": "Industrial PoE Switch",
-        "why": "首封去信（邮箱索引；去信共 18 封）",
-        "k": "c5c7abff2df78e77"
-      },
-      {
-        "date": "2025-11-21",
-        "dir": "去",
-        "who": "Saga（群发）",
-        "quote": "「Booster PoE Switch」被打开（Mailtrack Opened 标签）",
-        "why": "唯一的互动痕迹",
-        "k": "0a8d96748590fd99"
-      },
-      {
-        "date": "2026-06-12",
-        "dir": "去",
-        "who": "Saga（群发）",
-        "quote": "「10G L3 Managed Switch」被打开（Mailtrack Opened 标签）",
-        "why": "唯一的互动痕迹",
-        "k": "0e8efb29e3a824ef"
-      },
-      {
-        "date": "2026-09-24",
-        "dir": "去",
-        "who": "A 箱（Alan）",
-        "quote": "Managed PoE Switches",
-        "why": "最近一封去信（邮箱索引；去信共 18 封）",
-        "k": "229930f76646812f"
-      }
-    ],
-    "proof_gaps": [
-      "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 从未去信、Replied 索引亦无此户），仓库未见原文"
-    ],
-    "draft_en": {
-      "subject": "One question — 24-port PoE / 10G L3",
-      "body": "Hi, Norm,\n\nWe have sent NSI a few notes this year — the 10G L3 managed switch in June, the industrial and booster PoE units before that — and never gave you a reason to answer. No brochure this time, just one question:\n\nIs there a line in your distribution catalogue where a Marvell-based 24-port PoE switch with 4× 10G SFP+ uplinks (STC-424DGGPM-440W, $215.2 USD EXW, OEM label possible) would fit — and who at NSI decides on new vendors?\n\nIf not, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
-    },
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "工业 FS Utepo",
+   "quote": "工业FS Utepo的；质量高",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Eva Christensen",
+   "title": "Team Leader",
+   "email": "ussales@sequrinet.com",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "韩国",
+  "other": "官网 sequrinet.us，语言 ko，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "VMS / NVR 方案（韩国，美国销售）"
+ ],
+ "channels": {
+  "role": "VMS/NVR 方案商（韩国/美国，工业 FS 现 Utepo）",
+  "region": "韩国",
+  "contact": "ussales@sequrinet.com"
+ },
+ "signals": [
+  "官网：SEQURINET ; PRODUCTS ; DEMO MOVIE ; NX Guide ; Genetec Guide ; Cortrol Guide；kw camera 17 / nvr 12",
+  "表内：工业 FS Utepo 的；质量高；KP Eva Christensen / Team Leader"
+ ],
+ "risks": [
+  "非主攻区（T5，韩国/美国站）；现供 Utepo 价格基准低；21 次无回复 → 改向 Team Leader 具名首触"
+ ],
+ "saga_fit": {
+  "p1": "STI-288GP",
+  "tier": 25,
+  "why": "Utepo 位 → 工业 8 PoE + 2 SFP STI-288GP（$59.8 @25%）/ 管理 STI-288GPM（$82.2）、室内 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1）"
+ },
+ "email_hook": "Eva, for the industrial PoE positions you currently fill with Utepo in your VMS deployments, we supply DIN-rail 8-PoE + 2 SFP (managed on Marvell L2+, or unmanaged) and commercial 8-PoE L2+ switches from single units, FCC/CE/RoHS, EXW USD — which configuration do your NX and Genetec projects use most?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 34 封 2024→2026，1 次记录打开，0 回；收件 ussales@sequrinet.com；主题多为「Marvell Industrial Alert System、Industrial PoE Switch」；Elsa 箱：`to:sequrinet.us OR to:sequrinet.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 34 / 来 0）（第 74 批(n)））",
+   "type": "VMS/NVR 方案商（韩国/美国，工业 FS 现 Utepo）",
+   "sieve": "1~2（1 次打开）",
+   "stop": "34 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+   "lane": "KR 次级（点名）",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 34，Opened 标签 1（Simon 群发追踪）；用户表：「工业FS Utepo的」；研究档 risks：非主攻区（T5，韩国/美国站）；现供 Utepo 价格基准低；21 次无回复 → 改向 Team Leader 具名首触"
+  },
+  "situation": "SEQURINET（sequrinet.com / sequrinet.us：VMS/NVR 方案商（NX、Genetec、Cortrol 指南，韩文站，美国销售邮箱）；表内「工业 FS Utepo 的」「质量高」；KP Eva Christensen（Team Leader））；群发 21 次无回复。",
+  "need": "Utepo 位 → 工业 8 PoE + 2 SFP STI-288GP（$59.8 @25%）/ 管理 STI-288GPM（$82.2）、室内 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1）",
+  "breakpoint": "非主攻区（T5，韩国/美国站）；现供 Utepo 价格基准低；21 次无回复 → 改向 Team Leader 具名首触",
+  "saga_now": {
+   "p1": "STI-288GP",
+   "tier": 25,
+   "price": "换人再触锚价 STI-288GP $60 EXW（最近实报 $60（SB-034 2025-03-18；SB-1102 / SB-010 同价）（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-15 $65（10G media converter）；群发里他已看到的价（续）：2026-08-25 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-06-17 $300（48 Port PoE Managed Switch）、2025-07-24 $240（24 Port Fiber Switch）、2025-10-01 $280（10G Enterprise SFP Switch）、2026-06-15 $16000（32 Port 400GB DC Switch）",
+   "why": "Utepo 位 → 工业 8 PoE + 2 SFP STI-288GP（$59.8 @25%）/ 管理 STI-288GPM（$82.2）、室内 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1）。已打开的主题（1/34 封有打开记录）：「Optional Marvell Chipset Solutions」(2025-11-17) → 读者兴趣主题类别不明（看原主题）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1（换人后）",
+   "channel": "A 邮箱 → 具名 KP",
+   "action": "换收件人再发一封（第 75 批(ae) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用；KC stays on your side））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（第 76 批(c) 2026-10-25：audit_ab 软项修正：证书口径 FCC/CE/RoHS → CE/RoHS (KC stays on your side)）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
+   "one_question": "Eva, for the industrial PoE positions you currently fill with Utepo in your VMS deployments, we supply DIN-rail 8-PoE + 2 SFP (managed on Marvell L2+, or unmanaged) and commercial 8-PoE L2+ switches from single units, FCC/CE/RoHS, EXW USD — which configuration do your NX and Genetec projects use most? Reference: STI-288GP at $60 USD EXW (MOQ 1, 15-day validity)."
+  },
+  "facts": [
+   {
+    "date": "2026-09-22",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Marvell Industrial Alert System、Industrial PoE Switch",
+    "why": "34 封 / 1 次打开 / 0 回｜首封 2024-06-29 → 末封 2026-09-22（34 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "工业FS Utepo的",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026-09-22",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "16 Port Industrial PoE Switch",
+    "why": "本日去信真实主题（邮箱索引 c76471441bd743ba；信稿开头句引用此封；此前稿内写的「Marvell Industrial Alert System」是线程列表首题，不是本封）",
+    "k": "c76471441bd743ba"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": {
+   "subject": "The industrial PoE positions you fill with Utepo in VMS deployments - three configurations",
+   "body": "Hi Eva,\n\nOver the past months you had a steady stream of product mails from us - most recently \"16 Port Industrial PoE Switch\" on 22 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the industrial PoE positions you currently fill with Utepo in NX and Genetec deployments, three configurations from single units, CE/RoHS (KC stays on your side), EXW, 15-day validity: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, unmanaged, -40 to 75 C - model STI-288GP - $60 USD; the same L2 managed, Marvell-based - STI-288GPM - $82.2; commercial 8 x PoE+ + 2 x SFP, L2+ managed - STC-28DGGPM - $84.1.\n\nOne question: which configuration do your NX and Genetec projects use most - DIN-rail in the field, or rack units at the head end?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+  },
+  "as_of": "2026-10-24"
+ }
 }

@@ -1,59 +1,123 @@
 {
  "code": "SB-646",
- "name_official": "",
+ "name_official": "Art Sistem（土耳其）",
  "researched_at": "2026-10-21",
- "website_status": "快照失败（http_error）",
- "summary": "以色列 Optroset（optroset.com；阿里巴巴询盘「IP 转 Coax + RS485」（EoC，Saga 不供）；KP Elisha Caspary；官网 http_error）；表内未跟进。",
- "type": "网络产品公司（以色列，EoC 询盘）",
+ "website_status": "在线（artsistem.com，快照 2026-10-21，土耳其语）",
+ "summary": "土耳其大型 IT 分销商（22 年，135 个全球品牌，5,000+ 经销商；电脑、安防、网络、打印；Hikvision、Ruijie、TP-Link、Dahua；switch 52 / poe 58 / oem 9），Serkan K.；无兴趣描述；群发 1 次。规模大（接近巨头边界）→ 仅在其自有标 / 白牌需求下可谈。",
+ "type": "",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Hikvision",
+  "Ruijie",
+  "TP-Link",
+  "Dahua"
+ ],
  "evidence": [
   {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "IP转Coax+RS485 / from: 阿里巴巴询盘",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "kind": "官网快照",
+   "claim": "22 年、135 个品牌、5,000+ 经销商；电脑、安防、网络、打印一站式供应",
+   "quote": "22 yıldır 135 küresel markayı 5.000+ bayiye ulaştırıyoruz. Bilgisayar, güvenlik, ağ ve baskı çözümlerinde tek tedarikçi.",
+   "url": "https://artsistem.com/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "IP 转 Coax+RS485 询盘",
-   "quote": "IP转Coax+RS485 / from: 阿里巴巴询盘",
+   "claim": "无兴趣描述",
+   "quote": "（空）",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
- "kp": [],
- "grade_override": "C",
- "override_reason": "询盘品类 EoC（Saga 不供）；c_sub=品类不符",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "kp": [
+  {
+   "name": "Serkan K.",
+   "title": "（表内联系人）",
+   "email": "serkank@artsistem.com",
+   "phone": "",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（官网快照核对 + 表内）"
  },
  "company_facts": {
-  "hq": "以色列",
-  "other": "官网 optroset.com，语言 ?，快照状态 http_error；角色判定来源：待核"
+  "legal_name": "Art Sistem Bilgisayar A.Ş.（待核）",
+  "founded": "约 2003",
+  "hq": "Türkiye",
+  "size": "大型分销（135 品牌 / 5,000 经销商）",
+  "other": "OEM 词频 9"
  },
  "business_lines": [
-  "（待核，以色列）"
+  "IT / 安防 / 网络全国分销"
  ],
  "channels": {
-  "role": "网络产品公司（以色列，EoC 询盘）",
-  "region": "以色列",
-  "contact": "eddie@optroset.com"
+  "role": "大型分销商",
+  "region": "土耳其"
  },
  "signals": [
-  "表内：IP 转 Coax+RS485 / from: 阿里巴巴询盘；KP Elisha Caspary",
-  "快照：http_error"
+  "5,000 经销商 → 自有标 PoE 线若成则量大"
  ],
  "risks": [
-  "品类不符：IP over Coax + RS485（EoC，Saga 不供）；官网 http_error；非主攻区（以色列）"
+  "大分销决策链长、压价强（接近巨头边界）"
  ],
  "saga_fit": {
-  "p1": null,
+  "p1": "STC-424DGGPM-280W",
   "tier": 20,
-  "why": "询盘品类 EoC（Saga 不供，Q-32）、官网不可达、非主攻区 → 改 C（品类不符）"
+  "why": "安防渠道走量 24 PoE → STC-424DGGPM-280W（$134.5 @20%）；自有标则 30%。"
  },
- "email_hook": "（不发送：品类不符）"
+ "email_hook": "Serkan Bey — for Art Sistem's 5,000 dealers, a private-label Marvell L2+ 24-PoE at $135 EXW (8-PoE $81) could sit under your Hikvision/Dahua kits; who owns private-label sourcing on your side?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 5 封 2025→2026，无记录打开，0 回；收件 serkank@artsistem.com；主题多为「10G Enterprise SFP Switch、Booster PoE Switch」；Elsa 箱：`to:artsistem.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 5 / 来 0）（第 74 批(i)））",
+   "type": "—",
+   "sieve": "1（只收到群发）",
+   "stop": "5 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "TR 主攻（四主）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 5；用户表：「（空）」；研究档 risks：大分销决策链长、压价强（接近巨头边界）"
+  },
+  "situation": "土耳其大型 IT 分销商（22 年，135 个全球品牌，5,000+ 经销商；电脑、安防、网络、打印；Hikvision、Ruijie、TP-Link、Dahua；switch 52 / poe 58 / oem 9），Serkan K.；无兴趣描述；群发 1 次。规模大（接近巨头边界）→ 仅在其自有标 / 白牌需求下可谈。",
+  "need": "安防渠道走量 24 PoE → STC-424DGGPM-280W（$134.5 @20%）；自有标则 30%。",
+  "breakpoint": "大分销决策链长、压价强（接近巨头边界）",
+  "saga_now": {
+   "p1": "STC-424DGGPM-280W",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-30 $280（10G Enterprise SFP Switch）",
+   "why": "安防渠道走量 24 PoE → STC-424DGGPM-280W（$134.5 @20%）；自有标则 30%。",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Serkan Bey — for Art Sistem's 5,000 dealers, a private-label Marvell L2+ 24-PoE at $135 EXW (8-PoE $81) could sit under your Hikvision/Dahua kits; who owns private-label sourcing on your side?"
+  },
+  "facts": [
+   {
+    "date": "2026-03-11",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "10G Enterprise SFP Switch、Booster PoE Switch",
+    "why": "5 封 / 0 次打开 / 0 回｜首封 2025-10-30 → 末封 2026-03-11（5 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "（空）",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

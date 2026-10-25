@@ -1,156 +1,136 @@
 {
  "code": "SB-860",
- "name_official": "Shop4Power (Shop4power / shop4networks)",
+ "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "在线（shop4power.nl；并档 Planet 渠道档案 PB-045）",
- "summary": "上艾瑟尔省 Wijhe 的 UPS/电源与 PLANET 交换机专营网店，服务荷兰与比利时，PLANET 工业/商用交换机多款现货，另有 E-Link 交换机线。类型：专业网店/经销（自述「Power Supply, Switches & Planet Ethernet Specialist」「De Power Specialist van Nederland & België」；UPS/电池 + PLANET 交换机 + E-Link 交换机；NL/BE 发货，多数现货）。信号：官网自述「Shop4power levert Planet Ethernet en E-Link Switches voor al uw toepassingen」；PLANET 品牌区 + 产品页（IGS-5225-8P2S2X 现货、SGS-5240-20S4C4XR、FSD-2405）；Mikrotik 仓库 C-259 标「分销+自有品牌 PLANET + E-Link」。Planet 渠道档案 PB-045 评级 B（需求：PLANET 专营自述 + 工业/商用 PLANET 多款现货 + E-Link 第二线；触达：info@shop4power.nl 官网多页公开，无具名；体量微型网店（Wijhe），可赢；区域荷兰（一线）；Mikrotik C-259（太难·自有品牌）→ 本仓按 OEM 机会重评 B）。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-860，荷兰，Saga 群发已推送 15 次无回复）与 Planet 渠道挖掘名单，首触邮件此前未发送。",
- "type": "",
+ "website_status": "在线（basithamitech.com，快照 2026-10-21）",
+ "summary": "南非 Basithami Technology（报警系统安装、家庭自动化、空调、安防摄像安装；表内「工商业 FS 有 Utepo 的」「可以多跟进一下」）；群发 15 次无回复。",
+ "type": "安防/自动化安装商（南非，Utepo 在用）",
  "size": "",
  "brands_seen": [
-  "PLANET",
-  "MikroTik"
+  "Utepo"
  ],
  "evidence": [
   {
-   "kind": "公司自述",
-   "claim": "PLANET 专营自述 + 联系方式",
-   "quote": "Shop4Power - Power Supply, Switches & Planet Ethernet Specialist … Shop4power levert Planet Ethernet en E-Link Switches voor al uw toepassingen. Wij leveren de meeste producten uit voorraad én tegen scherpe prijzen. … ADRES Duisterendijk 5A, 8131 RA Wijhe TELEFOON +31 (0)85 40 19 230 E-MAIL info@shop4power.nl",
-   "url": "https://shop4power.nl/",
-   "date": "2026-10-19"
+   "kind": "官网快照",
+   "claim": "官网标题：Business Template - Basithami Technology；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络",
+   "quote": "Basithami Technology；Basithami Technology Alarm System Installation；Basithami Technology Home Automation；Basithami Technology Air Conditioning；Basithami Technology Security Camera Installation；Basithami Technology Networking Installations",
+   "url": "https://www.basithamitech.com/",
+   "date": "2026-10-21"
   },
   {
-   "kind": "卖方目录",
-   "claim": "PLANET 工业 PoE 现货",
-   "quote": "The IGS-5225-8P2S2X Industrial L3 8-port Gb POE+ + 2-port 1G/2,5G SFP + 2-port 10G SFP Switch is available from stock at shop4power.nl … Gb Switches: All Planet Gb+ switches listed.",
-   "url": "https://shop4power.nl/en/s/merken/shop4power/",
-   "date": "2026-10-19"
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "工商业FS 有Utepo的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
   {
-   "kind": "公司自述",
-   "claim": "覆盖 NL/BE",
-   "quote": "Over Shop4Power - De Power Specialist van Nederland & België … Wij zijn gevestigd in Wijhe (Overijssel) en leveren ook vanuit daar de producten uit.",
-   "url": "https://shop4power.nl/over-ons/",
-   "date": "2023-01-12"
+   "kind": "官网快照",
+   "claim": "Basithami 定位",
+   "quote": "Basithami Technology ; Alarm System Installation ; Home Automation ; Security Camera Installation",
+   "url": "https://www.basithamitech.com/",
+   "date": "2026-10-21"
   },
   {
-   "kind": "公司自述",
-   "claim": "法人/品牌名",
-   "quote": "Complete contactgegevens: Shop4power/shop4networks Duisterendijk 5a 8131 RA WIJHE / Nederland T 085 – 401 92 30 E info@shop4power.nl",
-   "url": "https://shop4power.nl/privacybeleid/",
-   "date": "2025-06-11"
-  },
-  {
-   "kind": "Mikrotik 仓库",
-   "claim": "C-259 同户：分销+自有品牌 PLANET + E-Link，C 太难·自有品牌",
-   "quote": "C-259 shop4power.nl 荷兰 分销+自有品牌 PLANET + E-Link 官网表单+邮件 … C 太难·自有品牌 … 类型属大盘/自有品牌（分销+自有品牌），决策链长或存在品牌冲突",
-   "url": "https://github.com/SimonSaga-202306/mikrotik-info/blob/arena/01a0c3ef-mikrotik-info/客户名单_反向信号_2026-09.csv",
-   "date": "2026-10-19"
+   "kind": "用户表",
+   "claim": "工商业 FS 有 Utepo",
+   "quote": "工商业FS 有Utepo的；可以多跟进一下",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（并档 Planet 渠道档案 PB-045，W 批次调研 2026-10-19/20）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "legal_name": "Shop4Power (Shop4power / shop4networks)",
-  "founded": "",
-  "hq": "Wijhe（Overijssel）, 荷兰",
-  "size": "",
-  "other": "Planet 渠道档案 PB-045（2026-10-19_W05_Mikrotik关联行核验与无邮箱C重评_TR-UK-ES-NL.json）；自有品牌：待核（E-Link：Mikrotik 侧记为自有品牌；首触第一问核实）；最大未知：E-Link 归属（自有/转售）；PLANET 年台数；是否从 PLANET 荷兰渠道拿货"
+  "hq": "南非",
+  "other": "官网 basithamitech.com，语言 en-ZA，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "专业网店/经销（自述「Power Supply, Switches & Planet Ethernet Specialist」「De Power Specialist van Nederland & België」；UPS/电池 + PLANET 交换机 + E-Link 交换机；NL/BE 发货，多数现货）"
- ],
- "products_seen": [
-  {
-   "brand": "PLANET",
-   "model": "IGS-5225-8P2S2X",
-   "spec": "PLANET 为工业 8 PoE + 2×1G/2.5G SFP + 2×10G SFP+；Saga 为工业 8 PoE + 4×10G SFP+ L2+（上联形态不同，注明）",
-   "saga": "STI-488XGGPM",
-   "url": "https://shop4power.nl",
-   "date": "2026-10-19"
-  },
-  {
-   "brand": "PLANET",
-   "model": "FSD-2405",
-   "spec": "24 口百兆非管理，Saga 暂无对应型号（不推）",
-   "saga": "—",
-   "url": "https://shop4power.nl",
-   "date": "2026-10-19"
-  },
-  {
-   "brand": "PLANET",
-   "model": "GS-4210-24P4C",
-   "spec": "商用 24 PoE 对位",
-   "saga": "STC-424DGGPM-280W",
-   "url": "https://shop4power.nl",
-   "date": "2026-10-19"
-  }
+  "报警 / 自动化 / 摄像安装（南非）"
  ],
  "channels": {
-  "role": "专业网店/经销（自述「Power Supply, Switches & Planet Ethernet Specialist」「De Power Specialist van Nederland & België」；UPS/电池 + PLANET 交换机 + E-Link 交换机；NL/BE 发货，多数现货）",
-  "region": "荷兰"
+  "role": "安防/自动化安装商（南非，Utepo 在用）",
+  "region": "南非",
+  "contact": "info@basithamitech.com"
  },
  "signals": [
-  "荷兰少见的 PLANET 专营网店（此前 NL 只有泛电商与 Alarmsysteemexpert）——PLANET 是其交换机主线，E-Link 为其第二条（疑自有/白牌）线；Mikrotik 侧按「自有品牌太难」沉 C，本仓按 OEM 角度视为机会；info@ 官网多页公开",
-  "第二货源对位：对位其现货主推 IGS-5225-8P2S2X（工业 8 PoE + 2×1G/2.5G SFP + 2×10G SFP+）——Saga 为工业 8 PoE + 4×10G SFP+ L2+（上联形态不同，注明）",
-  "样机到 Wijhe：30 天并行测试，不要求承诺；兼容其在用 SFP"
+  "官网：Basithami Technology ; Alarm System Installation ; Home Automation ; Air Conditioning ; Security Camera Installation；kw automation 11",
+  "表内：工商业 FS 有 Utepo 的；可以多跟进一下"
  ],
  "risks": [
-  "E-Link 归属（自有/转售）；PLANET 年台数；是否从 PLANET 荷兰渠道拿货",
-  "Planet 首触邮件未发送（Elsa 账号待定）",
-  "Saga 群发已推送 15 次无回复 → 改用具名收件人与新钩子（勿再用群发模板）"
+  "非主攻区（T5，南非）；安装商（量小）；现供 Utepo 价格基准低；15 次无回复，仅 info@"
  ],
  "saga_fit": {
-  "p1": "STI-488XGGPM",
-  "tier": 20,
-  "why": "对位其现货主推 IGS-5225-8P2S2X（工业 8 PoE + 2×1G/2.5G SFP + 2×10G SFP+）——Saga 为工业 8 PoE + 4×10G SFP+ L2+（上联形态不同，注明）；专业网店走量 → 20%（E-Link 若为其白牌则转 30% 贴牌档）（沿用 Planet 档案 PB-045）；需求："
+  "p1": "STC-28DGGPM",
+  "tier": 25,
+  "why": "摄像/自动化配套 PoE（现 Utepo）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、工业 8 PoE + 2 SFP STI-288GP（$59.8）"
  },
- "email_hook": "You stock PLANET's IGS-5225 line and sell E-Link switches beside it; an industrial 8-port PoE+ with 10G uplinks sourced direct gives you a third price point — or an own-label option. Is E-Link your own label or a brand you resell, and which PoE switch size do your NL/BE customers reorder most?",
+ "email_hook": "For the PoE switches in your camera and home-automation installations, we supply Marvell-based 8-PoE + 2 SFP L2+ and DIN-rail 8-PoE industrial units from single units, CE/RoHS, EXW USD — which PoE port count do your installations use most?",
  "mail_review": {
   "binding": {
-   "level": "未触达（A/S 邮箱 23 封 2024→2026，无记录打开，0 回；收件 info@shop4power.nl；主题多为「Industrial PoE Switch、Marvell Alleycat5 Solution」；Elsa 箱：`to:.nl` 穷举 37 条（2026-10-25，锚批 Bcc 头已读）未见 shop4power.nl → Elsa 箱从未发过本户，往来只在 S/A 箱（去 23 / 来 0）（第 74 批(f)））",
-   "type": "—",
+   "level": "未触达（A/S 邮箱 23 封 2024→2026，无记录打开，0 回；收件 info@basithamitech.com；主题多为「Industrial PoE Switch、Managed Optical Bypass Switch」；Elsa 箱：`to:basithamitech.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 23 / 来 0）（第 74 批(n)））",
+   "type": "安防/自动化安装商（南非，Utepo 在用）",
    "sieve": "1（只收到群发）",
-   "stop": "只打通用邮箱，无记录打开；Q-33 供应商渠道客户",
-   "revive": "不动（Q-33）",
-   "lane": "荷兰（欧洲全域主攻）",
-   "cadence": "不动",
-   "evidence": "gmail_digest：out 23；研究档 risks：E-Link 归属（自有/转售）；PLANET 年台数；是否从 PLANET 荷兰渠道拿货"
+   "stop": "只打通用邮箱，无记录打开",
+   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+   "lane": "南非 非主攻",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 23；用户表：「工商业FS 有Utepo的」；研究档 risks：非主攻区（T5，南非）；安装商（量小）；现供 Utepo 价格基准低；15 次无回复，仅 info@"
   },
-  "situation": "上艾瑟尔省 Wijhe 的 UPS/电源与 PLANET 交换机专营网店，服务荷兰与比利时，PLANET 工业/商用交换机多款现货，另有 E-Link 交换机线。类型：专业网店/经销（自述「Power Supply, Switches & Planet Ethernet Specialist」「De Power Specialist van Nederland & België」；UPS/电池 + PLANET 交换机 + E-Link 交换机；NL/BE 发货，多数现货）。信号：官网自述「Shop4power levert Planet Ethernet en E-Link Switches voor al uw toepassingen」；PLANET 品牌区 + 产品页（IGS-5225-8P2S2X 现货、SGS-5240-20S4C4XR、FSD-2405）；Mikrotik 仓",
-  "need": "对位其现货主推 IGS-5225-8P2S2X（工业 8 PoE + 2×1G/2.5G SFP + 2×10G SFP+）——Saga 为工业 8 PoE + 4×10G SFP+ L2+（上联形态不同，注明）；专业网店走量 → 20%（E-Link 若为其白牌则转 30% 贴牌档）（沿用 Planet 档案 PB-045）；需求：",
-  "breakpoint": "E-Link 归属（自有/转售）；PLANET 年台数；是否从 PLANET 荷兰渠道拿货",
+  "situation": "南非 Basithami Technology（报警系统安装、家庭自动化、空调、安防摄像安装；表内「工商业 FS 有 Utepo 的」「可以多跟进一下」）；群发 15 次无回复。",
+  "need": "摄像/自动化配套 PoE（现 Utepo）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、工业 8 PoE + 2 SFP STI-288GP（$59.8）",
+  "breakpoint": "非主攻区（T5，南非）；安装商（量小）；现供 Utepo 价格基准低；15 次无回复，仅 info@",
   "saga_now": {
-   "p1": "STI-488XGGPM",
-   "tier": 20,
-   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-27 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-12-27 $240（24 Port Fiber Switch）、2025-10-07 $280（10G Enterprise SFP Switch）、2026-06-16 $16000（32 Port 400GB DC Switch）",
-   "why": "对位其现货主推 IGS-5225-8P2S2X（工业 8 PoE + 2×1G/2.5G SFP + 2×10G SFP+）——Saga 为工业 8 PoE + 4×10G SFP+ L2+（上联形态不同，注明）；专业网店走量 → 20%（E-Link 若为其白牌则转 30% 贴牌档）（沿用 Planet 档案 PB-045）；需求：",
+   "p1": "STC-28DGGPM",
+   "tier": 25,
+   "price": "换人再触锚价 STC-28DGGPM $84.1 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-07 $65（10G media converter）；群发里他已看到的价（续）：2026-08-07 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-05-28 $300（48 Port PoE Managed Switch）、2025-10-01 $280（10G Enterprise SFP Switch）",
+   "why": "摄像/自动化配套 PoE（现 Utepo）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、工业 8 PoE + 2 SFP STI-288GP（$59.8）",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—",
-   "one_question": ""
+   "when": "2027-Q1（换人后）",
+   "channel": "A 邮箱 → 具名 KP",
+   "action": "换收件人再发一封（第 75 批(aj) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；DAP 需百运网算后再报）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
+   "one_question": "For the PoE switches in your camera and home-automation installations, we supply Marvell-based 8-PoE + 2 SFP L2+ and DIN-rail 8-PoE industrial units from single units, CE/RoHS, EXW USD — which PoE port count do your installations use most? Reference: STC-28DGGPM at $84.1 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
    {
-    "date": "2026-09-09",
+    "date": "2026-10-06",
     "dir": "去",
     "who": "A/S 群发",
-    "quote": "Industrial PoE Switch、Marvell Alleycat5 Solution",
-    "why": "23 封 / 0 次打开 / 0 回｜首封 2024-07-11 → 末封 2026-09-09（23 去 / 0 来）",
+    "quote": "Industrial PoE Switch、Managed Optical Bypass Switch",
+    "why": "23 封 / 0 次打开 / 0 回｜首封 2024-07-10 → 末封 2026-10-06（23 去 / 0 来）",
     "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "工商业FS 有Utepo的",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026-10-06",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "Managed PoE Switches",
+    "why": "本日去信真实主题（邮箱索引 a5d7f47e0d9bfeac；信稿开头句引用此封；此前稿内写的「Industrial PoE Switch」是线程列表首题，不是本封）",
+    "k": "a5d7f47e0d9bfeac"
    }
   ],
   "proof_gaps": [],
-  "draft_en": null,
+  "draft_en": {
+   "subject": "PoE switches for your camera and home-automation installations - two units from single pieces",
+   "body": "Hello Basithami team,\n\nOver the past months you had a few product mails from us - most recently \"Managed PoE Switches\" on 6 October 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the PoE switches in your camera and home-automation installations (Utepo today), from single units, EXW, 15-day validity, CE/RoHS: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based - model STC-28DGGPM - $84.1 USD; DIN-rail industrial 8 x PoE+ + 2 x SFP, unmanaged, -40 to 75 C, for outdoor boxes - STI-288GP - $60. Shipping by courier; DAP to your city on request.\n\nOne question: which PoE port count do your installations use most - 4, 8 or 16?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+  },
   "as_of": "2026-10-24"
  }
 }

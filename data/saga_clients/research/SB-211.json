@@ -2,73 +2,171 @@
  "code": "SB-211",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "在线（bce.it，快照 2026-10-21）",
- "summary": "意大利 BCE SRL（电子元器件进口与分销：工业线束、M12-RJ45 适配、BGA/QFN 封装件；表内「switch；是天津一个公司的办事处」）；群发 6 次无回复。",
- "type": "中国厂商海外办事处（元器件进口分销）",
+ "website_status": "在线（een.com，快照 2026-10-21）",
+ "summary": "美国 Eagle Eye Networks（AI 云视频监控 VMS 厂商，24/7 支持；自有标交换机 SW05M / SW26M；表内「自己的 logo 商业 FS；CCTV 一些周边产品」「可以尝试多跟进一下」；KP Jaime Becker（Director of Partner，jaime@alludolearning.com 关联域）、Steve Roskowski（CTO））；群发 10 次无回复。",
+ "type": "云 VMS 厂商（自有标商用 PoE 周边，OEM 采购）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Bosch",
+  "Axis"
+ ],
  "evidence": [
   {
    "kind": "官网快照",
-   "claim": "官网标题：BCE SRL Importation & Distribution Electronic Components；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 无线 / WiFi / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
-   "quote": "Quality Products – Innovative Solutions；Product Overview；Latest News；Market Applications and Solutions；Products Catalogue；Search for Market’s Application",
-   "url": "https://www.bce.it/",
+   "claim": "官网标题：AI Video Surveillance & Proactive security | Eagle Eye Networks；品类词 安防监控（CCTV / 门禁） / 数据中心 / 企业 IT / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "AI powered video surveillance & proactive security for smarter business operations offering 24/7/365 support. Request a demo today.",
+   "url": "https://www.een.com/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
    "claim": "表内兴趣/备注",
-   "quote": "switch 是天津一个公司的办事处",
+   "quote": "自己的logo 商业FS CCTV 一些周边产品",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   },
   {
    "kind": "官网快照",
-   "claim": "电子元器件进口与分销",
-   "quote": "Homepage - BCE SRL Importation & Distribution Electronic Components ; Quality Products – Innovative Solutions",
-   "url": "https://www.bce.it/",
+   "claim": "Eagle Eye Networks 定位",
+   "quote": "AI powered video surveillance & proactive security for smarter business operations offering 24/7/365 support. ; Eagle Eye Cloud Video Management System (VMS)",
+   "url": "https://www.een.com/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "switch；是天津一个公司的办事处",
-   "quote": "switch 是天津一个公司的办事处",
+   "claim": "自己的 logo 商业 FS；CCTV 周边",
+   "quote": "自己的logo 商业FS CCTV 一些周边产品；可以尝试多跟进一下",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
- "kp": [],
- "grade_override": "C",
- "override_reason": "中国厂商海外办事处（用户表：天津公司的办事处），元器件分销非交换机品类；c_sub=中国厂商海外办事处",
+ "kp": [
+  {
+   "name": "Jaime Becker",
+   "title": "Director of Partner",
+   "email": "jaime@alludolearning.com",
+   "phone": "",
+   "source": "用户表"
+  },
+  {
+   "name": "Steve Roskowski",
+   "title": "CTO",
+   "email": "",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "意大利",
-  "other": "官网 bce.it，语言 en-US，快照状态 ok；角色判定来源：官网文案"
+  "hq": "美国",
+  "other": "官网 een.com，语言 en-US，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "电子元器件 / 工业线束进口分销"
+  "云视频监控 VMS（自有品牌）",
+  "配套 PoE 交换机（贴标周边）"
  ],
  "channels": {
-  "role": "中国厂商海外办事处（元器件进口分销）",
-  "region": "意大利",
-  "contact": "bce@bce.it"
+  "role": "云 VMS 厂商（自有标商用 PoE 周边，OEM 采购）",
+  "region": "美国",
+  "contact": "sales@een.com、jaime@alludolearning.com"
  },
  "signals": [
-  "官网：BCE SRL Importation & Distribution Electronic Components；页面 /industrial-wire-harness/、/industrial-ethernet-m12-to-rj45-adaptor/",
-  "表内：是天津一个公司的办事处"
+  "官网：AI powered video surveillance & proactive security … Eagle Eye Cloud Video Management System (VMS)；站内 SW05M / SW26M；kw camera 135 / surveillance 43",
+  "表内：自己的 logo 商业 FS；KP Jaime Becker / Director of Partner；Steve Roskowski / CTO"
  ],
  "risks": [
-  "中国厂商（天津）海外办事处：采购在国内，非渠道客户",
-  "主业电子元器件/线束，交换机非品类；6 次无回复"
+  "体量较大（全球云 VMS 厂商）：交换机为周边品类，供应链既定",
+  "10 次无回复；KP 邮箱为关联域（alludolearning.com），待核"
  ],
  "saga_fit": {
-  "p1": null,
-  "tier": 25,
-  "why": "用户表注明为天津公司的办事处 → 采购在国内总部，非 Saga 渠道客户 → 改 C（与 SB-568 Vantron 同口径）"
+  "p1": "STC-28DGGPM",
+  "tier": 30,
+  "why": "自有 SW05M（5 口）/ SW26M（24 PoE + 2）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）/ 24 口 STC-424DGGPM-280W（$145.7）贴 Eagle Eye 标；5 口位 HRUI STC-114GP"
  },
- "email_hook": "（不发送：中国厂商海外办事处）"
+ "email_hook": "Jaime, for the Eagle Eye-branded PoE switches (SW05M / SW26M) that ship with your Bridges and cameras, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE + 4 SFP) from small lots in your packaging, FCC/CE/RoHS — which size do your partners order most?",
+ "products_seen": [
+  {
+   "brand": "Eagle Eye（自有标）",
+   "model": "SW26M",
+   "spec": "24 口 PoE + 2 上联",
+   "saga": "STC-424DGGPM-280W",
+   "url": "https://www.een.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "brand": "Eagle Eye（自有标）",
+   "model": "SW05M",
+   "spec": "5 口 PoE",
+   "saga": "HRUI STC-114GP（列表价，注明）",
+   "url": "https://www.een.com/",
+   "date": "2026-10-21"
+  }
+ ],
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 22 封 2025→2026，无记录打开，0 回；收件 gfloros@een.com, jaime@alludolearning.com；主题多为「Managed Optical Bypass Switch、Marvell Industrial Alert System」；Elsa 箱：`to:een.com OR to:alludolearning.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 22 / 来 0）（第 74 批(h)））",
+   "type": "云 VMS 厂商（自有标商用 PoE 周边，OEM 采购）",
+   "sieve": "1（只收到群发）",
+   "stop": "22 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+   "lane": "US 主攻（四主）",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 22；用户表：「自己的logo 商业FS CCTV 一些周边产品」；研究档 risks：体量较大（全球云 VMS 厂商）：交换机为周边品类，供应链既定"
+  },
+  "situation": "美国 Eagle Eye Networks（AI 云视频监控 VMS 厂商，24/7 支持；自有标交换机 SW05M / SW26M；表内「自己的 logo 商业 FS；CCTV 一些周边产品」「可以尝试多跟进一下」；KP Jaime Becker（Director of Partner，jaime@alludolearning.com 关联域）、Steve Roskowski（CTO））；群发 10 次无回复。",
+  "need": "自有 SW05M（5 口）/ SW26M（24 PoE + 2）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）/ 24 口 STC-424DGGPM-280W（$145.7）贴 Eagle Eye 标；5 口位 HRUI STC-114GP",
+  "breakpoint": "体量较大（全球云 VMS 厂商）：交换机为周边品类，供应链既定",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 30,
+   "price": "换人再触锚价 STC-28DGGPM $87.4 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-08-05 $300（48 Port PoE Managed Switch）、2025-09-29 $280（10G Enterprise SFP Switch）",
+   "why": "自有 SW05M（5 口）/ SW26M（24 PoE + 2）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）/ 24 口 STC-424DGGPM-280W（$145.7）贴 Eagle Eye 标；5 口位 HRUI STC-114GP",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1（换人后）",
+   "channel": "A 邮箱 → 具名 KP",
+   "action": "换收件人再发一封（第 75 批(t) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用；具名 KP 见 channel））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
+   "one_question": "Jaime, for the Eagle Eye-branded PoE switches (SW05M / SW26M) that ship with your Bridges and cameras, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE + 4 SFP) from small lots in your packaging, FCC/CE/RoHS — which size do your partners order most? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity)."
+  },
+  "facts": [
+   {
+    "date": "2026-09-10",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Managed Optical Bypass Switch、Marvell Industrial Alert System",
+    "why": "22 封 / 0 次打开 / 0 回｜首封 2025-01-17 → 末封 2026-09-10（22 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "自己的logo 商业FS CCTV 一些周边产品",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026-09-10",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "16 Port Industrial PoE Switch",
+    "why": "本日去信真实主题（邮箱索引 71c1d61e37b692e3；信稿开头句引用此封；此前稿内写的「Managed Optical Bypass Switch」是线程列表首题，不是本封）",
+    "k": "71c1d61e37b692e3"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": {
+   "subject": "A second ODM source for the SW05M / SW26M switches that ship with your Bridges",
+   "body": "Hi Jaime,\n\nOver the past months you had a few product mails from us - most recently \"16 Port Industrial PoE Switch\" on 10 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the Eagle Eye-branded PoE switches (SW05M / SW26M) that ship with your Bridges and cameras, we can be a second ODM source in your packaging from small lots, FCC/CE/RoHS: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based - model STC-28DGGPM - $87.4 USD EXW with your logo (MOQ 1, 15-day validity); 24 x Gigabit PoE+ (280 W) + 4 x SFP, L2+ managed - STC-424DGGPM-280W - $145.7. Web GUI carries your logo; colour box from 200 sets.\n\nOne question: which size do your partners order most with the Bridges - the small one or the 24-port?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+  },
+  "as_of": "2026-10-24"
+ }
 }

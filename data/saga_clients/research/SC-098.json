@@ -1,0 +1,73 @@
+{
+ "code": "SC-098",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（altronix.com，快照 2026-10-21）",
+ "summary": "美国 Altronix（「The Global Leader In Power and Data Transmission Solutions」安防/门禁/监控/消防电源与数据传输制造商，美国设计制造；自有多品牌含 PoE 交换机、FireSwitch、EoC 交换机；表内「有很多自己的品牌」「switch」）；表内未跟进。",
+ "type": "美国电源/PoE 自研制造商（同行/自研）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Altronix Home；品类词 安防监控（CCTV / 门禁） / 网络交换 / PoE",
+   "quote": "Altronix Home Page. Product information. Interactive tools.",
+   "url": "https://altronix.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "switch",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Altronix 首页",
+   "quote": "Altronix ® ...The Global Leader In Power and Data Transmission Solutions ; Security | Access Control | Surveillance | Fire ; Altronix Brands ; /categories/poe_switches ; /brands/fireswitch",
+   "url": "https://altronix.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "有很多自己的品牌",
+   "quote": "有很多自己的品牌；switch",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "同行/自研：Altronix 美国自研自产 PoE/EoC 交换机品牌，非 ODM 采购方；c_sub=同行/自研厂商",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "美国",
+  "other": "官网 altronix.com，语言 ?，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "安防电源 / PoE / EoC 交换机（自研制造，多品牌）"
+ ],
+ "channels": {
+  "role": "美国电源/PoE 自研制造商（同行/自研）",
+  "region": "美国",
+  "contact": "info@altronix.com"
+ },
+ "signals": [
+  "首页 Altronix ® …The Global Leader In Power and Data Transmission Solutions ; Security | Access Control | Surveillance | Fire ; Altronix Brands；页面 /categories/poe_switches、/brands/fireswitch、/categories/eoc_switches",
+  "表内：有很多自己的品牌；switch"
+ ],
+ "risks": [
+  "同行/自研：Altronix 在美国自研自产电源与 PoE/EoC 交换机（多自有品牌），非白牌采购方；仅 info@"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 30,
+  "why": "自研自产（美国制造）PoE/EoC 交换机品牌，非 ODM 采购对象 → 改 C"
+ },
+ "email_hook": "（不发送：同行/自研）"
+}

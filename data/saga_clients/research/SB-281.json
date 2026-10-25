@@ -1,140 +1,128 @@
 {
  "code": "SB-281",
- "name_official": "Techno Tower Sarl（Jdeideh/Bauchrieh, Metn，黎巴嫩；technotower-lb.com）",
+ "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "在线但为 2011 年老站（用户备注「打不开」；Kompass/FB 仍在）",
- "summary": "黎巴嫩自动化与安防承包商 Techno Tower Sarl（1989 年贝鲁特创立；自动门/道闸/门禁、可视对讲、CCTV、火警与灭火系统、防雷；海关记录为电信设备批发进口商）。业主 Amine / Fadi / Grace Abou-Jaoudeh；表内联系人 Amine Abou Jaoude / GM（amine@technotower-lb.com，+961 3 839 839，WA 已加）2024-04 回「pls me the price for 8 16 & 24」= 要 8/16/24 口 PoE 报价；19 次推送 1 次实质回复。安防安装商、需求明确 → B 25%（黎巴嫩局势与付款风险注明）。",
- "type": "",
+ "website_status": "在线（multiguide.com，快照 2026-10-21）",
+ "summary": "德国 multiGuide GmbH（传感器式停车引导系统制造商，数百个项目；阿里巴巴 RFQ「1 光 2 电 商业 switch」；KP Javier Ferre）；表内未跟进。",
+ "type": "停车引导系统制造商（德国，交换机为系统配套）",
  "size": "",
  "brands_seen": [],
  "evidence": [
   {
-   "kind": "官网",
-   "claim": "定位与历史",
-   "quote": "Techno Tower is a Lebanese company founded in Beirut in 1989… active in different types of Automation and Security Systems… Sliding & Swinging gates… Barriers - access control. - Videophone & Interphone systems",
-   "url": "http://www.technotower-lb.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "联系方式",
-   "quote": "Gf., Abou Karam 1 ctr., Near Mar Youhana church, Jdeideh Phone : +961 1 875725 Mobile : +961 3 870252 +961 3 839839 … Email : info@technotower-lb.com",
-   "url": "http://www.technotower-lb.com/contact_us.html",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "第三方",
-   "claim": "业主与业务分类",
-   "quote": "Main owners: Mr. Amine J Abou-Jaoudeh (Owner) · Mr. Fadi J Abou-Jaoudeh (Owner) · Ms. Grace Y Abou-Jaoudeh (Owner)… Television systems, closed circuit (CCTV)… Automatic fire alarm and extinguisher system installation contractors",
-   "url": "https://lb.kompass.com/c/techno-tower-sarl/lb015188/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "第三方",
-   "claim": "海关进口记录",
-   "quote": "Importer: Techno Tower Sarl; Product description: Telecommunication equipment (wholesale); City: Bauchrieh (Metn); Contact: Amine Abou-Jaoudeh",
-   "url": "https://www.tradesns.com/en/data/buyer/Lebanon/4448673/Techno%20Tower%20Sarl",
+   "kind": "官网快照",
+   "claim": "官网标题：Parkleitsysteme von multiGuide",
+   "quote": "Parkleitsysteme von multiGuide fÃ¼hren Sie sicher zum Ziel",
+   "url": "https://multiguide.com/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "需求与回复",
-   "quote": "HDMI NB 网站：打不开；2024.4.17 发了商业POE 128信息 → pls me the price for 8 16 & 24",
+   "claim": "表内兴趣/备注",
+   "quote": "1光2 商业switch / from: 阿里巴巴RFQ",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "multiGuide 定位",
+   "quote": "Parkleitsysteme von multiGuide ; Sensorbasierte Parkleitsysteme ; Unsere Technologie hat sich in hunderten von Projekten bewährt",
+   "url": "https://multiguide.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "1 光 2 电商业 switch RFQ",
+   "quote": "1光2 商业switch / from: 阿里巴巴RFQ",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
  "kp": [
   {
-   "name": "Amine Abou Jaoude (Abou-Jaoudeh)",
-   "role": "GM / 业主",
-   "email": "amine@technotower-lb.com",
-   "phone": "+961 3 839 839（WA 已加）",
-   "source": "用户 Clients 表 + Kompass"
+   "name": "Javier Ferre",
+   "title": "（职务待核）",
+   "email": "javier.ferre@multiguide.com",
+   "phone": "",
+   "source": "用户表"
   }
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网 + Kompass/海关记录核对）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "legal_name": "Techno Tower Sarl",
-  "founded": "1989",
-  "hq": "Ground floor, Block A, Abou-Karam building, Mar Youhanna street, Mar Takla area, Bauchrieh (Metn), P.O.Box 90-1776；+961 1 875725；info@technotower-lb.com",
-  "size": "待核（家族企业，小型）",
-  "other": "Kompass 业主：Amine J / Fadi J / Grace Y Abou-Jaoudeh；tradesns 海关记录「Telecommunication equipment (wholesale)」联系人 Amine Abou-Jaoudeh"
+  "hq": "德国",
+  "other": "官网 multiguide.com，语言 de，快照状态 ok；角色判定来源：待核"
  },
  "business_lines": [
-  "自动门、道闸、门禁与停车系统",
-  "可视对讲、CCTV 视频监控",
-  "火警与自动灭火系统、防雷",
-  "电信/安防设备批发进口"
+  "停车引导系统（自有品牌 multiGuide）"
  ],
- "products_seen": [],
  "channels": {
-  "official": "info@technotower-lb.com / +961 1 875725",
-  "contact": "Amine Abou Jaoude（GM/业主）amine@technotower-lb.com，+961 3 839 839（WA 已加）",
-  "facebook": "facebook.com/Techbotower（+961 76 898 916）"
+  "role": "停车引导系统制造商（德国，交换机为系统配套）",
+  "region": "德国",
+  "contact": "javier.ferre@multiguide.com"
  },
  "signals": [
-  "2024-04-17 明确索要 8/16/24 口 PoE 价格"
+  "官网：Parkleitsysteme von multiGuide führen Sie sicher zum Ziel ; Sensorbasierte Parkleitsysteme ; Unsere Technologie hat sich in hunderten von Projekten bewährt",
+  "表内：1 光 2 商业 switch / from: 阿里巴巴 RFQ；KP Javier Ferre"
  ],
  "risks": [
-  "黎巴嫩经济/局势与外汇付款风险（建议 100% 前 T/T）",
-  "官网为 2011 年老站，公司活跃度以 FB/WA 为准"
+  "交换机为系统配套（量随项目）；1 SFP + 2 GE 精确规格在 Saga 列表中待核（注明）；未跟进过"
  ],
  "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 25,
-  "why": "其索价 8/16/24 口 PoE → 以 8 PoE + 2 SFP L2+ 起手，同页附 STC-2216GPM（16）与 STC-424DGGPM-280W（24）"
+  "p1": "STI-110GE",
+  "tier": 30,
+  "why": "RFQ 1 光 2 电商用交换机 → 工业千兆 MC STI-110GE（$24.3 @30%，1 SFP + 1 GE，注明口数差异）/ 5 GE STI-050GE（$18.5）；1 SFP + 2 GE 商用型号用 HRUI（列表价，注明）"
  },
- "email_hook": "You asked for prices on 8-, 16- and 24-port PoE switches for your CCTV/access-control installs — I can send all three on one USD EXW sheet today; roughly how many sites a month do you equip?",
+ "email_hook": "Javier, following your enquiry for a 1-fibre + 2-copper switch for parking-guidance installations: we supply compact fibre-uplink units (1 SFP + 1/2 GE, DIN-rail, −40~75 °C, CE/RoHS) and 5/8-GE switches under your label from small lots, EXW USD — how many nodes per car park, and is PoE needed for sensors or displays?",
  "mail_review": {
   "binding": {
-   "level": "未发信（S/A 邮箱均无往来；来源：用户表「HDMI NB 网站：打不开；2024.4.17 发了商业POE 128信息 → pls me the price fo」；Elsa 箱：`to:technotower-lb.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(n)））",
-   "type": "—",
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「1光2 商业switch / from: 阿里巴巴RFQ」；Elsa 箱：`to:multiguide.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(j)））",
+   "type": "停车引导系统制造商（德国，交换机为系统配套）",
    "sieve": "—（未入筛）",
    "stop": "从未触达",
-   "revive": "不动（非主攻区；J5：有证据再动）",
-   "lane": "黎巴嫩 非主攻",
-   "cadence": "不动",
-   "evidence": "gmail_digest：out 0；用户表：「HDMI NB 网站：打不开；2024.4.17 发了商业POE 128信息 → pls me the price for 8 16 & 24」；研究档 risks：黎巴嫩经济/局势与外汇付款风险（建议 100% 前 T/T）"
+   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+   "lane": "DE 主攻（四主）",
+   "cadence": "首封后看打开",
+   "evidence": "gmail_digest：out 0；用户表：「1光2 商业switch / from: 阿里巴巴RFQ」；研究档 risks：交换机为系统配套（量随项目）；1 SFP + 2 GE 精确规格在 Saga 列表中待核（注明）；未跟进过"
   },
-  "situation": "黎巴嫩自动化与安防承包商 Techno Tower Sarl（1989 年贝鲁特创立；自动门/道闸/门禁、可视对讲、CCTV、火警与灭火系统、防雷；海关记录为电信设备批发进口商）。业主 Amine / Fadi / Grace Abou-Jaoudeh；表内联系人 Amine Abou Jaoude / GM（amine@technotower-lb.com，+961 3 839 839，WA 已加）2024-04 回「pls me the price for 8 16 & 24」= 要 8/16/24 口 PoE 报价；19 次推送 1 次实质回复。安防安装商、需求明确 → B 25%（黎巴嫩局势与付款风险注明）。",
-  "need": "其索价 8/16/24 口 PoE → 以 8 PoE + 2 SFP L2+ 起手，同页附 STC-2216GPM（16）与 STC-424DGGPM-280W（24）",
-  "breakpoint": "黎巴嫩经济/局势与外汇付款风险（建议 100% 前 T/T）",
+  "situation": "德国 multiGuide GmbH（传感器式停车引导系统制造商，数百个项目；阿里巴巴 RFQ「1 光 2 电 商业 switch」；KP Javier Ferre）；表内未跟进。",
+  "need": "RFQ 1 光 2 电商用交换机 → 工业千兆 MC STI-110GE（$24.3 @30%，1 SFP + 1 GE，注明口数差异）/ 5 GE STI-050GE（$18.5）；1 SFP + 2 GE 商用型号用 HRUI（列表价，注明）",
+  "breakpoint": "交换机为系统配套（量随项目）；1 SFP + 2 GE 精确规格在 Saga 列表中待核（注明）；未跟进过",
   "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 25,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "其索价 8/16/24 口 PoE → 以 8 PoE + 2 SFP L2+ 起手，同页附 STC-2216GPM（16）与 STC-424DGGPM-280W（24）",
+   "p1": "STI-110GE",
+   "tier": 30,
+   "price": "首触锚价 STI-110GE $26.5 EXW（最近实报 SA-001 2025-11-27 $26.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
+   "why": "RFQ 1 光 2 电商用交换机 → 工业千兆 MC STI-110GE（$24.3 @30%，1 SFP + 1 GE，注明口数差异）/ 5 GE STI-050GE（$18.5）；1 SFP + 2 GE 商用型号用 HRUI（列表价，注明）",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—",
-   "one_question": ""
+   "when": "待 Simon 排期（首封）",
+   "channel": "A 邮箱 → javier.ferre@multiguide.com（Javier Ferre）",
+   "action": "首封：按 email_hook 一问（第 75 批(e) 2026-10-25：英文信稿已写 `draft_en`）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
+   "one_question": "Javier, following your enquiry for a 1-fibre + 2-copper switch for parking-guidance installations: we supply compact fibre-uplink units (1 SFP + 1/2 GE, DIN-rail, −40~75 °C, CE/RoHS) and 5/8-GE switches under your label from small lots, EXW USD — how many nodes per car park, and is PoE needed for sensors or displays? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
    {
     "date": "2026-10-21",
     "dir": "用户表",
     "who": "Simon",
-    "quote": "HDMI NB 网站：打不开；2024.4.17 发了商业POE 128信息 → pls me the price for 8 16 & 24",
+    "quote": "1光2 商业switch / from: 阿里巴巴RFQ",
     "why": "表内备注",
     "k": "用户表"
    }
   ],
   "proof_gaps": [
-   "无邮件往来",
-   "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+   "无邮件往来"
   ],
-  "draft_en": null,
+  "draft_en": {
+   "subject": "Your Alibaba request for a 1-fibre + 2-copper switch - parking-guidance nodes",
+   "body": "Hi Javier,\n\nYou asked on Alibaba for a 1-fibre + 2-copper commercial switch and did not get a proper answer from us - apologies, here it is.\n\nFor the fibre node in a parking-guidance installation we have two compact DIN-rail units, -40 to 75 C, CE/RoHS, from single units: 1 x SFP + 1 x Gigabit RJ45 (media converter), model STI-110GE - $26.5 USD EXW (MOQ 1, 15-day validity); 2 x SFP + 2 x Gigabit RJ45, model STI-220GE - $30.1. Both can carry the multiGuide label from small lots.\n\nOne question: how many nodes per car park, and do the sensors or displays need PoE from the switch?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+  },
   "as_of": "2026-10-24"
  }
 }

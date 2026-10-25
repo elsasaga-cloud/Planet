@@ -1,0 +1,73 @@
+{
+ "code": "SC-178",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（sera-network.com，快照 2026-10-21）",
+ "summary": "台湾 Sera Network INC（交换机厂商：SMB/企业以太网交换机、数据中心/AI 交换机、工业 IoT、无线；表内「Marvell 核心交换机」）；表内 3 次跟进无回复。",
+ "type": "台湾交换机厂商（同行）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Sera Network INC；品类词 工业自动化 / OT 网络 / 无线 / WiFi / 数据中心 / 企业 IT / 网络交换 / PoE",
+   "quote": "SMB/Enterprise Ethernet Switches；Wireless Connectivity；Data Center Switches；Industrial IoT；Product Portfolios；Ethernet Switches",
+   "url": "https://www.sera-network.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "Marvell核心交换机",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Sera Network 首页",
+   "quote": "Sera Network INC ; SMB/Enterprise Ethernet Switches ; Data Center Switches ; Industrial IoT ; AI/Data Center Switches",
+   "url": "https://www.sera-network.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "Marvell 核心交换机",
+   "quote": "Marvell核心交换机",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "同行：台湾交换机厂商 Sera Network（自有系列），非渠道客户；c_sub=同行/台湾厂商",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "台湾",
+  "other": "官网 sera-network.com，语言 zh-TW，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "以太网交换机 ODM/品牌（台湾）"
+ ],
+ "channels": {
+  "role": "台湾交换机厂商（同行）",
+  "region": "台湾",
+  "contact": "sales@sera-network.com"
+ },
+ "signals": [
+  "首页 SMB/Enterprise Ethernet Switches ; Wireless Connectivity ; Data Center Switches ; Industrial IoT ; AI/Data Center Switches；站内 UMS100-8PG-I；kw switch 27",
+  "表内：Marvell 核心交换机"
+ ],
+ "risks": [
+  "同行：台湾交换机厂商（SMB/企业/数据中心/工业系列），非渠道客户"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 30,
+  "why": "台湾自有品牌交换机厂商（同行，Marvell 平台），非渠道客户 → 改 C"
+ },
+ "email_hook": "（不发送：同行/台湾厂商）"
+}

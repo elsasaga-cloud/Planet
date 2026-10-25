@@ -1,222 +1,205 @@
 {
   "code": "SA-039",
-  "name_official": "Avenger Security / Security Tekton（Austin & Hutto, Texas）",
+  "name_official": "MT-Link Technologies Co.（Karachi, Pakistan）",
   "website_status": "在线",
-  "summary": "德州奥斯汀的员工持股安防监控服务商（商业/住宅报警、消防报警、门禁、云视频监控、UL 中心站监控），服务奥斯汀/休斯敦/达拉斯/圣安东尼奥，<$5M 营收。用户表：A 已回复，2 次实质回复，兴趣商业 PoE，电话 (512) 563-5361。",
-  "type": "安防集成/安装商（小型，自装自用采购）",
-  "size": "<$5M（ZoomInfo）",
+  "summary": "卡拉奇的自有品牌网络设备商（自称巴基斯坦首家本土网络品牌）：WiFi 路由、XPON ONU、OLT、8/16/24 口千兆与 PoE 交换机、10G/25G/100G L3 交换机（产品页明示源自上海博达 BDCOM）；有零售电商 mtlinkpakistan.com。用户表：WhatsApp 跟进 + DC 线索，2 次实质回复，20 次跟进；兴趣 MC / FS / 无线 AP，用自己的 logo，备注「应该是 BDCOM 的，质量看着一般」。",
+  "type": "品牌商（中国白牌贴牌，ODM 买家）",
+  "size": "未见人数（中小）",
   "brands_seen": [
-    "Eagle Eye Networks",
-    "Brivo",
-    "Alula",
-    "Honeywell"
+    "MT-Link",
+    "BDCOM"
   ],
   "evidence": [
     {
       "kind": "官网",
-      "claim": "业务与联系方式",
-      "quote": "Austin commercial security: access control, fire alarms, video surveillance, and UL-listed 24/7 monitoring … email: info@getsecurityalarm.com",
-      "url": "https://getsecurityalarm.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网（关联站）",
-      "claim": "员工持股，双牌照，电话与用户表一致",
-      "quote": "Learn about Avenger Security, Austin’s employee-owned security monitoring company. Dual licensed for private security & fire alarm. … 512-563-5361 … Email: info@getsecurityalarm.com",
-      "url": "https://securitytekton.com/pages/about-us",
+      "claim": "自有品牌定位",
+      "quote": "As Pakistan’s first leading networking solutions provider, we take immense pride in designing products specifically tailored to meet the unique requirements of Pakistan’s IT Industry … info@mt-link.com",
+      "url": "https://mt-link.com/about-us/",
       "date": "2026-10-21"
     },
     {
       "kind": "官网",
-      "claim": "公司背景 / 执照 / 地址 / 电话 / 创始人",
-      "quote": "Avenger Security is a private, employee-owned and operated security monitoring service provider based in Austin, Texas. Since 2004 … Texas Private Security License: B12519 & B03064001 … Texas Fire Alarm License: ACR 2370373 … Established: 2004 by Brandon Walter Adams … Address: 501 West Creekbend Cove, Hutto, Texas 78634 … Phone: 512-610-2698",
-      "url": "https://securitytekton.com/pages/about-us",
+      "claim": "交换机源自 BDCOM（证明其采购中国白牌）",
+      "quote": "MT-LINK MT-SG5612 is a new generation of aggregation 10GE switch introduced by Shanghai Baud Data Communication Co., LTD.",
+      "url": "https://mt-link.com/product/mt-sg5612/",
       "date": "2026-10-21"
     },
     {
-      "kind": "官网",
-      "claim": "云视频 = Eagle Eye Networks + PoE IP 摄像机",
-      "quote": "Avenger Security delivers professional cloud video surveillance powered by Eagle Eye Networks. Replace legacy DVR/NVR limitations with a secure, flexible, and scalable cloud VMS that supports leading PoE IP cameras and many existing analog systems via bridge.",
-      "url": "https://securitytekton.com/pages/video-surveillance-austin",
+      "kind": "第三方（Facebook）",
+      "claim": "总部与电话（与用户表 WhatsApp 号一致）",
+      "quote": "MT Link Technologies co. (HEAD OFFICE) 109,111&113 Elahi Centre Preedy Street, Saddar, Karachi, Pakistan +92 317 9995719",
+      "url": "https://www.facebook.com/mtlinkpakistan/",
       "date": "2026-10-21"
     },
     {
-      "kind": "官网",
-      "claim": "门禁 = Brivo OnAir 与 Eagle Eye 联动",
-      "quote": "Avenger Security integrates Brivo OnAir with Eagle Eye Networks cloud video surveillance to attach door video clips to activity logs",
-      "url": "https://securitytekton.com/pages/access-control-service",
+      "kind": "官网零售",
+      "claim": "MT-SW1024PE 规格",
+      "quote": "MT-SW1024PE - 24FE POE+ 2GE + 1G SFP Uplink POE Switch - 24 ports 10/100Mbps POE Ports - 2 Gigabit Uplink ports - 1 Gigabit SFP Uplink ports - 250W Total POE budget",
+      "url": "https://mtlinkpakistan.com/products/mt-sw1024pe",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网零售",
+      "claim": "L3-Lite 机型基于 BDCOM BDROS 平台与价格",
+      "quote": "MT-SG2912 10G L3-Lite Stackable Switch … Based on the new high-performance hardware and the BDROS platform … price 88000.00 PKR",
+      "url": "https://mtlinkpakistan.com/products/mt-sg2912f",
       "date": "2026-10-21"
     }
   ],
   "kp": [
     {
       "name": "—",
-      "role": "总机",
-      "email": "info@getsecurityalarm.com",
-      "phone": "+1 512-563-5361",
-      "source": "https://securitytekton.com/pages/about-us"
-    },
-    {
-      "name": "Brandon Walter Adams",
-      "role": "Founder / Owner（2004 创立，官网 About）",
-      "email": "—（未公开）",
-      "phone": "+1 512-610-2698（公司）",
-      "source": "https://securitytekton.com/pages/about-us"
+      "role": "总机（WhatsApp 已加）",
+      "email": "info@mt-link.com",
+      "phone": "+92 317 9995719",
+      "source": "https://www.facebook.com/mtlinkpakistan/"
     }
   ],
-  "notes": "A 维持（美国本土集成商 + 2 次实质回复），但单量小（自装项目用 8/16 口 PoE）；P1 = STC-28DGGPM，25% 集成商档；注意 UL：仅报 CE/FCC（Saga 无 UL）。",
+  "notes": "A 维持（自有品牌 + 2 次实质回复 + 全线中国白牌），南亚价格极敏感；P1 = STC-424DGGM/STC-28DGGPM 贴牌 30%，突出 Marvell 方案对 BDCOM 入门款的稳定性差异；AP 不做。",
   "researched_at": "2026-10-21",
   "deep": {
     "done_at": "2026-10-21",
-    "level": "深挖 v2（官网 securitytekton.com + 目录核对）"
+    "level": "深挖 v1"
   },
   "company_facts": {
-    "legal_name": "Avenger Security Services（Central Security 同族）",
-    "hq": "501 West Creekbend Cove, Hutto, TX 78634（+1 512-610-2698）；休斯敦分部 11200 Broadway St Ste 2743, Pearland TX 77584（+1 281-954-3400）",
-    "revenue": "<$5M（ZoomInfo）",
-    "other": "员工持股；德州双证（私人安防 B12519 & B03064001；消防报警 ACR 2370373）；云视频 = Eagle Eye Networks（PoE IP 摄像机 + 旧模拟桥接），门禁 = Brivo OnAir，报警 Alula/Honeywell Vista；「无长期合同、无信用审查」；官网 securitytekton.com（2025-10 仍更新）与 getsecurityalarm.com / avengersecurityhouston.com 并行",
-    "founded": "2004（创始人 Brandon Walter Adams；LinkedIn/Yelp 口径 2010）",
-    "staff": "11–50"
+    "legal_name": "MT-Link Technologies Co.",
+    "hq": "109–113 Elahi Centre, Preedy Street, Saddar, Karachi, Pakistan（+92 317 9995719）",
+    "other": "自称巴基斯坦首家本土网络品牌；零售电商 mtlinkpakistan.com（PKR 标价）；L3 机型基于 BDCOM（BDROS 平台）；1 年官方保修"
   },
   "business_lines": [
-    "商业/住宅入侵报警与 UL 中心站监控",
-    "消防报警",
-    "门禁",
-    "云视频监控（IP 摄像机 → 需 PoE 接入）",
-    "云视频监控安装（Eagle Eye Networks，PoE IP 摄像机）",
-    "云门禁（Brivo OnAir，$10–20/门/月）",
-    "盗警/消防报警 + UL 中心站监控（消防部分守界：不供生命安全链路设备）"
+    "WiFi 路由 / XPON ONU / OLT",
+    "PoE 交换机（MT-SW1024PE 24 FE PoE+ 2 GE + 1 SFP 250W 等）",
+    "L3-Lite/L3 核心（MT-SG2912/2928/5828，BDCOM 来源）"
   ],
   "products_seen": [
     {
-      "brand": "（安装商自用）",
-      "model": "商业 PoE 交换机（用户表兴趣）",
-      "spec": "摄像机/门禁点位供电",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "用户表",
-      "saga": "STC-28DGGPM"
+      "brand": "MT-Link",
+      "model": "MT-SW1024PE",
+      "spec": "24×FE PoE+ + 2 GE + 1 SFP，250W",
+      "url": "https://mtlinkpakistan.com/products/mt-sw1024pe",
+      "date": "2026-10-21",
+      "saga": "STC-424DGGPM-280W（千兆升级）"
+    },
+    {
+      "brand": "MT-Link（BDCOM）",
+      "model": "MT-SG2928-2AC",
+      "spec": "24 GE + 4×10G L3-Lite 可堆叠，Rs.65,500–66,000（原 80,950）",
+      "url": "https://mtlinkpakistan.com/collections/manageable-switches",
+      "date": "2026-10-21",
+      "saga": "STC-448XGGM(L3)（48 口位）/ STC-424XGGPM-280W（PoE 位）"
+    },
+    {
+      "brand": "MT-Link（BDCOM）",
+      "model": "MT-SG2912 / MT-SG2912F",
+      "spec": "10G L3-Lite，Rs.36,000 / Rs.88,000",
+      "url": "https://mtlinkpakistan.com/products/mt-sg2912f",
+      "date": "2026-10-21",
+      "saga": "—"
+    },
+    {
+      "brand": "MT-Link（BDCOM）",
+      "model": "MT-SG5828",
+      "spec": "24×10G + 4×100G 核心",
+      "url": "https://mt-link.com/product/mt-sg5828/",
+      "date": "2026-10-21",
+      "saga": "—"
     }
   ],
   "channels": {
-    "网站": "https://securitytekton.com/",
-    "直邮": "brandon@getsecurityalarm.com / info@getsecurityalarm.com（用户表）",
-    "电话": "+1 512-610-2698（奥斯汀）/ +1 281-954-3400（休斯敦）",
-    "LinkedIn": "https://www.linkedin.com/company/central-security（322 followers）"
+    "网站": "https://mt-link.com/ · https://mtlinkpakistan.com/（零售）",
+    "直邮": "info@mt-link.com（用户表）；mtlink.pakistan@gmail.com（Facebook 公开）",
+    "社媒": "Facebook mtlinkpakistan"
   },
   "signals": [
-    "用户表：A 已回复，2 次实质回复，兴趣商业 PoE",
-    "Eagle Eye 云 VMS 模式每站点仍需本地 PoE 交换机（桥接器 + 摄像机）——8/24 口 PoE 为标配耗材；两城运营、2025-10 仍在发博客（活跃）"
+    "PoE 线仍为百兆 24 口（MT-SW1024PE）——千兆 PoE 管理型是空位（2026-10-21）",
+    "用户表：MC/FS/无线 AP，自己的 logo"
   ],
   "risks": [
-    "安装商自用量小（每项目 1–3 台）；美国商业楼宇低压安装常要求 UL 列名设备（Saga 无 UL）→ 只能供非强制场景",
-    "消防报警部分守界（生命安全）",
-    "消防报警/UL 监控为其业务一部分——Saga 只供摄像机/门禁侧 PoE 交换机，不进入消防链路（守界）"
+    "巴基斯坦外汇/LC 付款与进口限制；价格极敏感（24 FE PoE 零售极低）",
+    "BDCOM 为 L3 来源，Saga 只切接入层"
   ],
   "saga_fit": {
-    "p1": "STC-28DGGPM",
-    "tier": 25,
-    "why": "安装商每站点 8–24 口 PoE 自用：STC-28DGGPM（8 PoE+2 SFP）为主，STC-424DGGPM-280W 为大站点；集成商 25% 档"
+    "p1": "STC-424DGGPM-280W",
+    "tier": 30,
+    "why": "MT-SW1024PE 的千兆管理升级位 = STC-424DGGPM-280W；8 口位 STC-28DGGPM；贴 MT- 型号 30% 档"
   },
-  "email_hook": "For the Eagle Eye bridge and PoE camera drops you install around Austin and Houston, the Marvell-based 8-port PoE+ with 2 SFP uplinks at EXW cost is the unit I am quoting, 24-port for the larger sites.",
+  "email_hook": "Your MT-SW1024PE is still a fast-Ethernet PoE unit, so a Marvell-based 24-port gigabit PoE+ managed switch with 4 SFP under an MT- part number is the gap I would fill first, with the 8-port PoE+ 2 SFP model alongside.",
   "mail_review": {
     "binding": {
-      "level": "轻度触达（A 邮箱 2 次真人回复，都从私人 gmail brandonwadams@gmail.com「Avenger Security」发来：2025-06-12 要 16 口 DIN 千兆价、2025-09-09 要 STI-244GP 价与发货地并说「used this PoE in solar configurations」；Alan 09-09 报 $35 后沉默；此后 9 封群发无回）；Elsa 1:1 去信 1 封（2025-02-28「Mini Industrial PoE Switch」；To 仅本户 info@getsecurityalarm.com；Bcc 未逐封读头；同类名单抽读 24 封均无 Bcc；此后再未进 Elsa 任何名单——全箱 `from:e.sagatelecom to:info@getsecurityalarm.com` 仅此 1 条，complete）（第 74 批(m)）",
-      "type": "奥斯汀安防安装商（Avenger Security / getsecurityalarm.com），太阳能供电站点用工业 PoE",
-      "sieve": "2（两次问价）",
-      "stop": "第一次问价（06-12）Alan 只回了下载链接 PDF、没在正文给价；第二次（09-09）给了 $35 与「从中国发」后他没再回——小安装商、单次需求量小，$35 + 国际运费对 4 口机不划算是最可能的原因",
-      "revive": "直接写到他的 gmail（公司邮箱 brandon@/info@ 从没回过）：把 4 口与 16 口两款价和运费档位写在正文里，问他这一季有几个太阳能站点，建议 2 台样机 DHL",
-      "lane": "US 主攻",
-      "cadence": "一次针对性信 → 再无回则回到季度群发",
-      "evidence": "gmail_a a3355bc71b5e758d / 1ac6cb596346a3a9 / 88fd4f417fdf19ba / 2c55cbead61c8075；私人邮箱 2026-10-24 第 70 批并入实体（补录行 AS-补录-2026-10-24-03）"
+      "level": "未绑定（邮件 2 封 0 回；Elsa 箱：`to:mt-link.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 2 / 来 0）（第 74 批(g)））",
+      "type": "卡拉奇白牌品牌商（MT-Link）",
+      "sieve": "0（邮件层无人工回复）",
+      "stop": "—",
+      "revive": "—",
+      "lane": "PK",
+      "cadence": "不主动",
+      "evidence": "邮件：去信 2 封（2026-03-12 → 2026-08-10），来信 0；Opened 标签 0 次；收件人 info@mt-link.com"
     },
-    "situation": "德州奥斯汀的安防安装商 Avenger Security（getsecurityalarm.com；Brandon Walter Adams，Owner，2004 年创立；报警/门禁/视频监控，服务奥斯汀/休斯敦/达拉斯/圣安东尼奥）。他用的是私人 gmail 回信，所以之前被记成「0 来信」——实际两次开口都是问价：2025-06 问 16 口 DIN 千兆（Alan 只给了链接），2025-09 问 2 光 4 PoE 工业机 STI-244GP，并说自己在太阳能配置里用过这类 PoE、喜欢过流保护；Alan 答 $35/pc、从中国 DHL/UPS/FedEx 发、输入 3A max、DC44–57V、带 DIP。之后他没下文，Saga 又群发了 9 封（2025-10 → 2026-09）。",
-    "need": "太阳能/离网安防站点用的小口数 DIN PoE 交换机（2 SFP + 4 GE PoE，DC 44–57V，过流保护，-40~75℃）；偶尔 16 口 DIN 千兆（车载/工业自动化那封引出的）。单量小（安装商按项目买）。",
-    "breakpoint": "两次问价都没形成「价 + 运费 + 交期」一封信：06-12 没给价，09-09 给了价没给运费档位——对美国小安装商，4 口机 $35 之外的 DHL 运费才是决定项。",
+    "situation": "2 封无互动；南亚价格极敏感。",
+    "need": "千兆 24 口 PoE+ 管理 + 8 口 PoE+ 2 SFP 贴 MT- 型号",
+    "breakpoint": "—",
     "saga_now": {
-      "p1": "STI-244GP",
-      "tier": 25,
-      "price": "STI-244GP $35 EXW（Alan 2025-09-09 已报；主表 25% 档 $36.6、列表 $49.5——沿用 $35）；STI-0160GE 16 口 DIN 千兆非管理 $100（Alan 2025-05-28 对加拿大 SC-1922 实报；SA-017 2025-02 $105；规则 ㉕ 非管理工业线不用档位价 $95.3）；备选 STI-054GP（4 PoE + 1 GE）$39 更省；群发里他已看到的价：2026-08-10 $170（24 Port PoE Managed = STC-424XGGPM-280W，现价轮 $180）、2025-10-02 $280（10G Enterprise SFP Switch）",
-      "why": "他点名的就是 STI-244GP 这档；安装商 25%；太阳能站点 → 强调 44–57V 宽压 + 过流/DIP",
-      "repeat": [
-        "06-12 问 16 口 DIN GE 价",
-        "09-09 问 STI-244GP 价与发货地"
-      ],
-      "gaps": [
-        "运费档位（2 台 / 10 台 DHL 到 Austin）要先查，不然这封信又只剩价"
-      ]
+      "p1": "STC-424DGGPM-280W（MT- 贴牌）+ STC-28DGGPM",
+      "tier": 30,
+      "price": "锚价：STC-424DGGPM-280W $145.7 / STC-28DGGPM $87.4（30% 档）（第 72 批 2026-10-24）；—；群发里他已看到的价（续）：2026-08-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170",
+      "why": "其 PoE 线仍是百兆 24 口 MT-SW1024PE → 千兆 PoE 管理型是空位；自己 logo",
+      "repeat": [],
+      "gaps": []
     },
     "next_move": {
-      "when": "现在（一封针对性信）",
-      "channel": "A 邮箱 → brandonwadams@gmail.com（抄 brandon@getsecurityalarm.com）",
-      "action": "首封前知悉：Elsa 仅 2025-02-28 单发过 1 封「Mini Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；把 09-09 那封补完整：价 + 2 台/10 台 DHL 运费 + 3–5 工作日交期，问太阳能站点数量",
-      "one_question": "Brandon — picking up your September note on the solar sites: STI-244GP (2 SFP + 4 GbE PoE, 44–57 V DC, DIP, −40 to +75 °C) is $35 EXW; 2 pcs by DHL to Austin lands in about a week — how many solar/off-grid sites are you fitting this season, and shall I send two for the next one?"
+      "when": "2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）",
+      "channel": "A 邮箱 → MT-Link 具名 KP 待找",
+      "action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(p) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；具名 KP 待找）（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
+      "one_question": "Your MT-SW1024PE is still a fast-Ethernet PoE unit, so a Marvell-based 24-port gigabit PoE+ managed switch with 4 SFP under an MT- part number is the gap I would fill first, with the 8-port PoE+ 2 SFP model alongside. Would the 24-port be the first SKU to sample under an MT- part number? Reference: STC-424DGGPM-280W at $145.7 / STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity)."
     },
     "facts": [
       {
-        "date": "2025-02-28",
-        "dir": "out",
-        "who": "Elsa → info@getsecurityalarm.com",
-        "quote": "Mini Industrial PoE Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
-        "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
-        "k": "elsa_1to1",
-        "msg_id": "19548ac3433d0709"
-      },
-      {
-        "date": "2025-06-11",
-        "dir": "去",
-        "who": "Saga（群发）",
-        "quote": "「16 Port Ethernet Switch」被打开（Mailtrack Opened 标签）",
-        "why": "唯一的互动痕迹",
-        "k": "ea72575dc36805b9"
-      },
-      {
-        "date": "2025-06-12",
+        "date": "2024-01-18",
         "dir": "来",
-        "who": "Brandon（Avenger Security，brandonwadams@gmail.com）",
-        "quote": "Alan, Hope all is well, Can you send me the pricing, Let me know（答「16 Port Ethernet Switch」DIN 千兆群发）",
-        "why": "第一次开口就是问价——来自私人 gmail，之前未归属本户",
-        "k": "gmail_a a3355bc71b5e758d"
+        "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+        "quote": "用户表跟进：推「发了2光4相关信息」→ 对方「16口POE 后续问了很多信息」",
+        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+        "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.88 2024.1.18"
       },
       {
-        "date": "2025-06-12",
-        "dir": "去",
-        "who": "Saga（Alan）",
-        "quote": "Please see attached downlink links which contain full information. Photos, datasheets, user manuals, prices etc.（附 Download Link_Alan.pdf）",
-        "why": "问价只回了链接包、正文没有价——第一次断点",
-        "k": "gmail_a 1ac6cb596346a3a9"
-      },
-      {
-        "date": "2025-09-08",
-        "dir": "去",
-        "who": "Saga（群发）",
-        "quote": "「Industrial PoE Switch」被打开（Mailtrack Opened 标签）",
-        "why": "唯一的互动痕迹",
-        "k": "a993a01057d0d553"
-      },
-      {
-        "date": "2025-09-09",
+        "date": "2024-02-27",
         "dir": "来",
-        "who": "Brandon（brandonwadams@gmail.com）",
-        "quote": "I have used this POE in solar configurations, I like the overcurrent protection. Can you send pricing, Where is the product located, shipped from?（答「Industrial PoE Switch」STI-244GP 群发）",
-        "why": "点明用途（太阳能配置）与在意点（过流保护）+ 两个采购问题（价、发货地）——这是本户最实的一句话",
-        "k": "gmail_a 88fd4f417fdf19ba"
+        "who": "用户表（Simon 跟进记录；渠道 WhatsApp）",
+        "quote": "用户表跟进：推「发了24光combo型号」→ 对方「price」",
+        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+        "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.88 2024.2.27"
       },
       {
-        "date": "2025-09-09",
+        "date": "2026-03-12",
         "dir": "去",
-        "who": "Saga（Alan）",
-        "quote": "1, yes, it is 3A max for input current. For over-current protection, its bigger than this… DIP is also an interesting function. 2, it will be shipped from China via DHL/UPS/FedEx. 3, price is 35usd/pc. STI-244GP: 2*Gigabit SFP+4*10/100/1000M RJ45, PoE af/at, 120W, Unmanaged, Support DIP, DC44V~DC57V (Removable 4 PIN Terminal Block), -40℃ to 75℃, Din mounted, Without optical module, without power adapter",
-        "why": "给了价没给运费档位；此后 Brandon 沉默，Saga 再群发 9 封无回",
-        "k": "gmail_a 2c55cbead61c8075"
+        "who": "A 箱（Alan）",
+        "quote": "OEM Core Switching Solution",
+        "why": "首封去信（邮箱索引；去信共 2 封）",
+        "k": "61345c495835cf03"
+      },
+      {
+        "date": "2026-08-10",
+        "dir": "去",
+        "who": "A 箱（Alan）",
+        "quote": "24 Port PoE Managed Switch",
+        "why": "最近一封去信（邮箱索引；去信共 2 封）",
+        "k": "e46a56a1a0754324"
+      },
+      {
+        "date": "2026-08-10",
+        "dir": "去",
+        "who": "A 箱（Alan）",
+        "quote": "24 Port PoE Managed Switch｜稿内价 $170",
+        "why": "去信正文含价（邮箱索引）",
+        "k": "e46a56a1a0754324"
       }
     ],
     "proof_gaps": [
-      "DHL 2 台/10 台到 Austin 的运费档位（发信前查）",
-      "他 2025-09 说「used this PoE in solar configurations」——用的是谁家的（没问）"
+      "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 从未去信、Replied 索引亦无此户），仓库未见原文"
     ],
     "draft_en": {
-      "subject": "Re: Industrial PoE Switch — the solar-site switch, with price and shipping this time",
-      "body": "Hi Brandon,\n\nLast September you asked about the DIN-rail PoE switch for your solar configurations and I only half-answered, so here is the whole thing in one place.\n\nSTI-244GP — 2 x gigabit SFP + 4 x gigabit PoE+ (120 W), 44–57 V DC input on a removable terminal block, over-current protection, DIP switch, −40 to +75 °C, DIN mount: $35 USD EXW per unit.\nShipping: from China by DHL/UPS/FedEx, about a week door to door to Austin; I will put the exact freight for 2 pcs and for 10 pcs on the quote.\nIf you also still want the 16-port DIN gigabit switch you asked about in June: $100 USD EXW (unmanaged, 12–58 V DC).\n\nPrices valid 15 days; CE/FCC/RoHS; 3-year warranty on the industrial units.\n\nOne question: how many solar or off-grid sites are you fitting this season? If there is one coming up, I will send two units so you can put one on the bench and one on a site.\n\nThank you.\nAlan\nSaga Telecom - sagatele.com"
+      "subject": "A gigabit 24-PoE+ managed unit under an MT- part number",
+      "body": "Hello MT-Link team,\n\nYour MT-SW1024PE is still a Fast Ethernet PoE unit. The gap we would fill first under an MT- part number: 24 x Gigabit PoE+ (280 W) + 4 x SFP, L2+ managed, Marvell-based, CE/RoHS - model STC-424DGGPM-280W - $145.7 USD EXW with your logo (MOQ 1, 15-day validity); alongside it, 8 x Gigabit PoE+ + 2 x SFP - STC-28DGGPM - $87.4.\n\nOne question: which PoE size sells most through mtlinkpakistan.com - 8, 16 or 24 ports - so we start with that one?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
     },
     "as_of": "2026-10-24"
   }

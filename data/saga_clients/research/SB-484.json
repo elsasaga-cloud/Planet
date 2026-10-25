@@ -1,234 +1,124 @@
 {
-  "code": "SB-484",
-  "name_official": "",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（topnetdistribution.com，快照 2026-10-21）",
-  "summary": "阿联酋 Topnet Distribution（ICT 分销：经 SI / 电信安装商 / VAR 落地项目；产品含工业光纤交换机（B+B）、MC、PoE、数据中心；表内「分销很多牌子（三旺、Nsgate）」；KP Kandasamy Ganesan（Managing Director，ganesan@）、Athira Babu（Sales Engineer））；群发 2 次无回复。",
-  "type": "ICT 分销商（阿联酋，3onedata / Nsgate / B+B 工业线）",
-  "size": "",
-  "brands_seen": [
-    "3onedata",
-    "Nsgate",
-    "B+B SmartWorx"
-  ],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "官网标题：Topnet Distribution | information and communication technology；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 无线 / WiFi / 数据中心 / 企业 IT / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
-      "quote": "We work through systems integrator, telecom installers and value added re sellers who work with the end users to implement projects in the information and communication technology industry.",
-      "url": "https://www.topnetdistribution.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "分销商 3旺等；分销很多牌子（3旺、Nsgate）",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网快照",
-      "claim": "经 SI/安装商/VAR 的 ICT 分销",
-      "quote": "We work through systems integrator, telecom installers and value added re sellers who work with the end users to implement projects in the information and communication technology industry.",
-      "url": "https://www.topnetdistribution.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "分销很多牌子（三旺、Nsgate）",
-      "quote": "分销商 3旺等 / 分销很多牌子（3旺、Nsgate）",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Kandasamy Ganesan",
-      "title": "Managing Director",
-      "email": "ganesan@topnet.ae",
-      "phone": "",
-      "source": "用户表"
-    },
-    {
-      "name": "Athira Babu",
-      "title": "Sales Engineer",
-      "email": "",
-      "phone": "",
-      "source": "用户表"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ "code": "SB-484",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（mosonetworks.com，快照 2026-10-21）",
+ "summary": "加拿大 Moso Networks（网络/Wi-Fi 方案公司；KP Stephen Leotis（President & Co-Founder）；表内「Networking」；官网快照空）；表内 2 次跟进无回复。",
+ "type": "网络方案商（加拿大）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：mosonetworks.com",
+   "quote": "",
+   "url": "https://mosonetworks.com/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "hq": "阿联酋",
-    "other": "官网 topnetdistribution.com，语言 en-US，快照状态 ok；角色判定来源：用户表"
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "Networking",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "ICT 分销（工业光纤交换机 / MC / PoE / 数据中心 / 无线）"
-  ],
-  "channels": {
-    "role": "ICT 分销商（阿联酋，3onedata / Nsgate / B+B 工业线）",
-    "region": "阿联酋",
-    "contact": "info@topnet.ae、ganesan@topnet.ae"
-  },
-  "signals": [
-    "官网：We work through systems integrator, telecom installers and value added re sellers",
-    "栏目 /products/fiber-optics/industrial-fo-switches/b-b/、/media-converters-3/、/power-over-ethernet-2/",
-    "KP：Kandasamy Ganesan / Managing Director；Athira Babu / Sales Engineer（表内）"
-  ],
-  "risks": [
-    "非主攻区（T5，阿联酋）",
-    "多品牌分销（含 3onedata 低价基准）：白牌同质化；2 次无回复"
-  ],
-  "saga_fit": {
-    "p1": "STI-288GPM",
-    "tier": 20,
-    "why": "在售 3onedata / Nsgate 工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-288GP 同口型替换；MC 位 STI-110GE"
-  },
-  "email_hook": "Mr. Ganesan, alongside the 3onedata and Nsgate industrial switches you distribute, we supply DIN-rail 8-PoE + 2 SFP managed (Marvell L2+) or unmanaged units and gigabit media converters (−40~75 °C, neutral packing) from small lots, EXW — which industrial model moves most through your SI partners?",
-  "mail_review": {
-    "binding": {
-      "level": "未触达（A 邮箱 12 封 2025→2026，无记录打开，0 回；收件 athira@topnet.ae, ganesan@topnet.ae；主题多为「Industrial PoE Switch、10G Enterprise SFP Switch」）；Elsa 群发 BCC 已触达 10 轮 2025-03-14→2026-08-19（锚 To mail@techzoneme.com 10 轮 2025-03-14→2026-08-19；本户在 Bcc；主题 Updated Ethernet Switches Links、Marvell Managed Commercial Switches、10G Enterprise SFP Switch、24 Port PoE Managed Switch…；0 回（Elsa 箱 Replied 索引 + 第 73 批真人来信逐户比对均无此户）；S/A digest 看不到 Elsa 的去信，之前据此写的「未触达」是 S/A 口径）（第 74 批(n) `from:e.sagatelecom to:topnetdistribution.com OR to:topnet.ae` 全程 complete：命中 10 行、To 均为锚地址 ⇒ 本户在锚的 Bcc 名单）",
-      "type": "ICT 分销商（阿联酋，3onedata / Nsgate / B+B 工业线）",
-      "sieve": "1（只收到群发）",
-      "stop": "12 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-      "revive": "保持季度群发到 2027-Q1；无打开即停",
-      "lane": "阿联酋 非主攻",
-      "cadence": "季度",
-      "evidence": "gmail_digest：out 12；用户表：「分销商 3旺等；分销很多牌子（3旺、Nsgate）」；研究档 risks：非主攻区（T5，阿联酋）"
-    },
-    "situation": "阿联酋 Topnet Distribution（ICT 分销：经 SI / 电信安装商 / VAR 落地项目；产品含工业光纤交换机（B+B）、MC、PoE、数据中心；表内「分销很多牌子（三旺、Nsgate）」；KP Kandasamy Ganesan（Managing Director，ganesan@）、Athira Babu（Sales Engineer））；群发 2 次无回复。",
-    "need": "在售 3onedata / Nsgate 工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-288GP 同口型替换；MC 位 STI-110GE",
-    "breakpoint": "非主攻区（T5，阿联酋）",
-    "saga_now": {
-      "p1": "STI-288GPM",
-      "tier": 20,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-21 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-27 $280（10G Enterprise SFP Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-04-22 $65（10G Media Converter = 10G 媒体转换器，Elsa 箱 1 轮 2025-04-22；Simon 实报就是 $65）；2026-05-16 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2026-05-16；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-08-19 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-19；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
-      "why": "在售 3onedata / Nsgate 工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-288GP 同口型替换；MC 位 STI-110GE",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "群发节奏",
-      "channel": "A 邮箱",
-      "action": "首封前知悉：Elsa 群发 BCC 已触达 10 轮（2025-03-14→2026-08-19，锚 To mail@techzoneme.com，0 回）（第 74 批(n)）；观察打开",
-      "one_question": "Mr. Ganesan, alongside the 3onedata and Nsgate industrial switches you distribute, we supply DIN-rail 8-PoE + 2 SFP managed (Marvell L2+) or unmanaged units and gigabit media converters (−40~75 °C, neutral packing) from small lots, EXW — which industrial model moves most through your SI partners?"
-    },
-    "facts": [
-      {
-        "date": "2025-03-14",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To mail@techzoneme.com）",
-        "quote": "8 Port Industrial PoE Switch（Elsa 群发第 1/10 轮；本户在 Bcc，锚 To mail@techzoneme.com）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:topnetdistribution.com OR to:topnet.ae` 命中行 To=mail@techzoneme.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
-        "k": "elsa_bcc",
-        "msg_id": "19593586b3b65bc6"
-      },
-      {
-        "date": "2025-04-22",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To mail@techzoneme.com）",
-        "quote": "10G Media Converter（Elsa 群发第 2/10 轮；本户在 Bcc，锚 To mail@techzoneme.com；正文价 65usd/pc，第 74 批(p) 读稿 msg 19501dcc2221e96f）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:topnetdistribution.com OR to:topnet.ae` 命中行 To=mail@techzoneme.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
-        "k": "elsa_bcc",
-        "msg_id": "1965cd539d995bd2"
-      },
-      {
-        "date": "2025-05-19",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To mail@techzoneme.com）",
-        "quote": "Commercial PoE Switch（Elsa 群发第 3/10 轮；本户在 Bcc，锚 To mail@techzoneme.com）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:topnetdistribution.com OR to:topnet.ae` 命中行 To=mail@techzoneme.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
-        "k": "elsa_bcc",
-        "msg_id": "196e7d333c363476"
-      },
-      {
-        "date": "2025-06-19",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To mail@techzoneme.com）",
-        "quote": "16 Port Ethernet Switch（Elsa 群发第 4/10 轮；本户在 Bcc，锚 To mail@techzoneme.com）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:topnetdistribution.com OR to:topnet.ae` 命中行 To=mail@techzoneme.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
-        "k": "elsa_bcc",
-        "msg_id": "1978731d755d376a"
-      },
-      {
-        "date": "2025-07-19",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To mail@techzoneme.com）",
-        "quote": "Industrial PoE Switch（Elsa 群发第 5/10 轮；本户在 Bcc，锚 To mail@techzoneme.com）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:topnetdistribution.com OR to:topnet.ae` 命中行 To=mail@techzoneme.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
-        "k": "elsa_bcc",
-        "msg_id": "19821de669457e56"
-      },
-      {
-        "date": "2025-11-06",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To mail@techzoneme.com）",
-        "quote": "Industrial PoE Switch（Elsa 群发第 6/10 轮；本户在 Bcc，锚 To mail@techzoneme.com）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:topnetdistribution.com OR to:topnet.ae` 命中行 To=mail@techzoneme.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
-        "k": "elsa_bcc",
-        "msg_id": "19a57d4426a7fd89"
-      },
-      {
-        "date": "2026-03-10",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To mail@techzoneme.com）",
-        "quote": "Updated Ethernet Switches Links（Elsa 群发第 7/10 轮；本户在 Bcc，锚 To mail@techzoneme.com）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:topnetdistribution.com OR to:topnet.ae` 命中行 To=mail@techzoneme.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
-        "k": "elsa_bcc",
-        "msg_id": "19cd6a9d22c40df9"
-      },
-      {
-        "date": "2026-04-13",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To mail@techzoneme.com）",
-        "quote": "Marvell Managed Commercial Switches（Elsa 群发第 8/10 轮；本户在 Bcc，锚 To mail@techzoneme.com）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:topnetdistribution.com OR to:topnet.ae` 命中行 To=mail@techzoneme.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
-        "k": "elsa_bcc",
-        "msg_id": "19d863f78ea1f42b"
-      },
-      {
-        "date": "2026-05-16",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To mail@techzoneme.com）",
-        "quote": "10G Enterprise SFP Switch（Elsa 群发第 9/10 轮；本户在 Bcc，锚 To mail@techzoneme.com；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:topnetdistribution.com OR to:topnet.ae` 命中行 To=mail@techzoneme.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
-        "k": "elsa_bcc",
-        "msg_id": "19e2fe816657562c"
-      },
-      {
-        "date": "2026-08-19",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To mail@techzoneme.com）",
-        "quote": "24 Port PoE Managed Switch（Elsa 群发第 10/10 轮；本户在 Bcc，锚 To mail@techzoneme.com；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:topnetdistribution.com OR to:topnet.ae` 命中行 To=mail@techzoneme.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
-        "k": "elsa_bcc",
-        "msg_id": "1a019368be177be6"
-      },
-      {
-        "date": "2026-10-01",
-        "dir": "去",
-        "who": "A 群发",
-        "quote": "Industrial PoE Switch、10G Enterprise SFP Switch",
-        "why": "12 封 / 0 次打开 / 0 回｜首封 2025-09-22 → 末封 2026-10-01（12 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "分销商 3旺等；分销很多牌子（3旺、Nsgate）",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "Networking",
+   "quote": "Networking",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Stephen Leotis",
+   "title": "President & Co-Founder",
+   "email": "stephen@mosonetworks.com",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "加拿大",
+  "other": "官网 mosonetworks.com，语言 ?，快照状态 ok；角色判定来源：待核"
+ },
+ "business_lines": [
+  "网络 / Wi-Fi 方案（加拿大）"
+ ],
+ "channels": {
+  "role": "网络方案商（加拿大）",
+  "region": "加拿大",
+  "contact": "sales@mosonetworks.com、stephen@mosonetworks.com"
+ },
+ "signals": [
+  "表内：Networking；KP Stephen Leotis / President & Co-Founder",
+  "快照：内容为空"
+ ],
+ "risks": [
+  "官网快照空（业务范围待核）；2 次无回复 → 改向 President 具名首触"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 25,
+  "why": "网络方案配套 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424DGGPM-280W（$140.1）"
+ },
+ "email_hook": "Stephen, for the access switches in your network deployments, we supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ models (VLAN/QoS, 802.3at/bt options) from single units, FCC/CE/RoHS, EXW USD — which port count do your Wi-Fi rollouts standardise on?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 14 封 2025→2026，无记录打开，0 回；收件 sales@mosonetworks.com, stephen@mosonetworks.com；主题多为「10G Enterprise SFP Switch、Mini Industrial PoE Switch」；Elsa 箱：`to:mosonetworks.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 14 / 来 0）（第 74 批(h)））",
+   "type": "网络方案商（加拿大）",
+   "sieve": "1（只收到群发）",
+   "stop": "14 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "CA 主攻",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 14；用户表：「Networking」；研究档 risks：官网快照空（业务范围待核）；2 次无回复 → 改向 President 具名首触"
+  },
+  "situation": "加拿大 Moso Networks（网络/Wi-Fi 方案公司；KP Stephen Leotis（President & Co-Founder）；表内「Networking」；官网快照空）；表内 2 次跟进无回复。",
+  "need": "网络方案配套 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424DGGPM-280W（$140.1）",
+  "breakpoint": "官网快照空（业务范围待核）；2 次无回复 → 改向 President 具名首触",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-06 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-23 $280（10G Enterprise SFP Switch）",
+   "why": "网络方案配套 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424DGGPM-280W（$140.1）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Stephen, for the access switches in your network deployments, we supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ models (VLAN/QoS, 802.3at/bt options) from single units, FCC/CE/RoHS, EXW USD — which port count do your Wi-Fi rollouts standardise on?"
+  },
+  "facts": [
+   {
+    "date": "2026-09-24",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "10G Enterprise SFP Switch、Mini Industrial PoE Switch",
+    "why": "14 封 / 0 次打开 / 0 回｜首封 2025-09-23 → 末封 2026-09-24（14 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "Networking",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

@@ -1,155 +1,144 @@
 {
  "code": "SB-544",
- "name_official": "Lanopia GmbH（德国）",
+ "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "在线（lanopia.de，快照 2026-10-21，德语）",
- "summary": "德国光纤 / 铜缆网络技术增值分销商（poe 247 / switch 233 / industrial 126 / media converter 45），仅 info@；表内「MC 工业 FS；卖 Omnitron 这个牌子？可以着重跟一下」；群发 8 次无回复。",
- "type": "",
+ "website_status": "在线（makonetworks.com，快照 2026-10-21）",
+ "summary": "美国 Mako Networks（网络管理公司：PCI DSS 安全、SASE SD-WAN、云管理 CMS；自有 Mako 设备线含 CMS 管理型交换机（2020 发布）、安全网关、VPN 集中器；行业含工业制造；表内「管理 FS（大口的），他们自己的 logo」；KP Todd Vojta（toddv@））；群发 20 次无回复。",
+ "type": "SD-WAN/云管理方案商（自有标管理交换机线，OEM 采购）",
  "size": "",
- "brands_seen": [
-  "Omnitron"
- ],
+ "brands_seen": [],
  "evidence": [
   {
    "kind": "官网快照",
-   "claim": "专业光纤与铜缆网络技术增值分销商",
-   "quote": "Führender Value-Added-Distributor für professionelle Fiber-Optik und Kupfer-Netzwerktechnologie.",
-   "url": "https://lanopia.de/",
+   "claim": "官网标题：Mako Networks Home - Mako Networks；品类词 安防监控（CCTV / 门禁） / 无线 / WiFi / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "Mako Networks is a network management company specializing in PCI DSS security, SASE SD-WAN connectivity and cloud management.",
+   "url": "https://makonetworks.com/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "MC 工业 FS；卖 Omnitron 这个牌子？；可以着重跟一下",
-   "quote": "兴趣：MC 工业FS 卖Omnitron这个牌子？？",
+   "claim": "表内兴趣/备注",
+   "quote": "管理FS(大口的) 他们自己的logo",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Mako Networks 网络管理方案",
+   "quote": "Mako Networks is a network management company specializing in PCI DSS security, SASE SD-WAN connectivity and cloud management.",
+   "url": "https://makonetworks.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "管理 FS 大口，自己的 logo",
+   "quote": "管理FS(大口的) 他们自己的logo",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
  "kp": [
   {
-   "name": "（未具名）",
-   "title": "",
-   "email": "info@lanopia.de",
+   "name": "Todd Vojta",
+   "title": "（表内联系人）",
+   "email": "toddv@makonetworks.com",
    "phone": "",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
+   "source": "用户表"
   }
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照核对 + 表内）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "legal_name": "Lanopia GmbH（待核）",
-  "founded": "",
-  "hq": "Germany",
-  "size": "中小型 VAD",
-  "other": "Omnitron（美）MC 在售"
+  "hq": "美国",
+  "other": "官网 makonetworks.com，语言 en-US，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "光纤 / 铜缆网络产品增值分销"
+  "SD-WAN / PCI DSS 安全网关 / 云管理",
+  "自有标管理型交换机"
  ],
  "channels": {
-  "role": "增值分销商",
-  "region": "德国"
+  "role": "SD-WAN/云管理方案商（自有标管理交换机线，OEM 采购）",
+  "region": "美国",
+  "contact": "toddv@makonetworks.com、sales@makonetworks.com"
  },
  "signals": [
-  "MC / 工业 FS 为核心品类",
-  "表内建议着重跟"
+  "页面 /mako-system/mako-devices/managed-switches/、/news/2020/04/mako-networks-releases-cms-managed-switch-line/、/markets/industrial-and-manufacturing/",
+  "官网：network management company specializing in PCI DSS security, SASE SD-WAN connectivity and cloud management"
  ],
  "risks": [
-  "仅 info@；8 次群发无回复"
+  "云管理（Mako CMS）纳管：需其固件/代理适配，Saga 仅硬件 L2+",
+  "20 次无回复 → 改向 Todd Vojta 具名首触，预期低"
  ],
  "saga_fit": {
-  "p1": "STI-288GPM",
-  "tier": 20,
-  "why": "工业管理 PoE → STI-288GPM（$78.9 @20%）；MC STI-110GE 对位 Omnitron。"
+  "p1": "STC-424XGGPM-280W",
+  "tier": 30,
+  "why": "自有标 CMS 管理型交换机（大口）→ 24 口 PoE+ 4×10G L2+ STC-424XGGPM-280W（$180 @30%）/ 非 PoE STC-424XGGM 贴 Mako 标；CMS 纳管需其固件/代理适配"
  },
- "email_hook": "Guten Tag — for the industrial media-converter and switch range beside Omnitron: DIN gigabit MC at $22 and Marvell managed 8-PoE + 2-SFP at $79 EXW, CE/RoHS; who is the right product contact at Lanopia?",
+ "email_hook": "Todd, for the Mako-branded managed switch line, we can be a second ODM source on a Marvell L2+ platform (24-GE/PoE + 4×10G, 48-port) from small lots, with SNMP/CLI access for your CMS integration — would your team evaluate a sample unit?",
  "mail_review": {
   "binding": {
-   "level": "未触达（15 封来信全部是 info@lanopia.de 的德语自动回复「Ihr email an Lanopia GmbH」，2023-11 → 2026-09；无人工回复；Elsa 箱：`to:.de` 穷举 29 条（2026-10-25，锚批 Bcc 头已读）未见 lanopia.de → Elsa 箱从未发过本户，往来只在 S/A 箱（去 18 / 来 15）（第 74 批(f)））",
-   "type": "德国网络设备分销/品牌（Lanopia GmbH）——只打过 info@",
-   "sieve": "0",
-   "stop": "info@ 自动回复黑洞",
-   "revive": "找具名采购邮箱",
-   "lane": "DE 主攻",
-   "cadence": "不动",
-   "evidence": "k=8624aa9d96551841 … 13ba27424bd3e77f（15 封同文）"
+   "level": "未触达（A/S 邮箱 23 封 2024→2026，1 次记录打开，0 回；收件 sales@makonetworks.com, toddv@makonetworks.com；主题多为「Managed Optical Bypass Switch、Marvell Industrial Alert System」；Elsa 箱：`to:makonetworks.com` 逐户查 0（2026-10-24 第 73 批(o)，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 23 / 来 0）（第 74 批(g)））",
+   "type": "SD-WAN/云管理方案商（自有标管理交换机线，OEM 采购）",
+   "sieve": "1~2（1 次打开）",
+   "stop": "23 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+   "lane": "US 主攻（四主）",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 23，Opened 标签 1（Simon 群发追踪）；用户表：「管理FS(大口的) 他们自己的logo」；研究档 risks：云管理（Mako CMS）纳管：需其固件/代理适配，Saga 仅硬件 L2+；Elsa 箱 to/bcc:makonetworks.com = 0（第 73 批(o) 连接器核对，含 spam/trash）→ 「群发里他已看到的价」只来自 S/A 箱"
   },
-  "situation": "三年 18 封群发换来 15 封一模一样的自动回复。",
-  "need": "—",
-  "breakpoint": "无人读信。",
+  "situation": "美国 Mako Networks（网络管理公司：PCI DSS 安全、SASE SD-WAN、云管理 CMS；自有 Mako 设备线含 CMS 管理型交换机（2020 发布）、安全网关、VPN 集中器；行业含工业制造；表内「管理 FS（大口的），他们自己的 logo」；KP Todd Vojta（toddv@））；群发 20 次无回复。",
+  "need": "自有标 CMS 管理型交换机（大口）→ 24 口 PoE+ 4×10G L2+ STC-424XGGPM-280W（$180 @30%）/ 非 PoE STC-424XGGM 贴 Mako 标；CMS 纳管需其固件/代理适配",
+  "breakpoint": "云管理（Mako CMS）纳管：需其固件/代理适配，Saga 仅硬件 L2+",
   "saga_now": {
-   "p1": "—",
-   "tier": 20,
-   "price": "—；群发里他已看到的价（续）：2026-08-17 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-24 $280（10G Enterprise SFP Switch）",
-   "why": "—",
+   "p1": "STC-424XGGPM-280W",
+   "tier": 30,
+   "price": "换人再触锚价 STC-424XGGPM-280W $180 EXW（现价轮群发 $180（㉕②）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-22 $65（10G media converter）、2024-12-17 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2025-07-21 $240（24 Port Fiber Switch）、2025-10-09 $280（10G Enterprise SFP Switch）（㉕ ②：STC-424XGGPM-280W / STC-448XGGPM 文本价改为群发现价 $180 / $335；第 75 批 2026-10-25）",
+   "why": "自有标 CMS 管理型交换机（大口）→ 24 口 PoE+ 4×10G L2+ STC-424XGGPM-280W（$180 @30%）/ 非 PoE STC-424XGGM 贴 Mako 标；CMS 纳管需其固件/代理适配。已打开的主题（1/23 封有打开记录）：「24 Port Fiber Switch」(2025-07-21) → 读者兴趣偏「MC/光电」；与 P1 同类，继续",
    "repeat": [],
-   "gaps": [
-    "具名联系人"
-   ]
+   "gaps": []
   },
   "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—（第 76 批(c) 2026-10-25：0 事实户补时间线事实）",
-   "one_question": ""
+   "when": "2027-Q1（换人后）",
+   "channel": "A 邮箱 → 具名 KP",
+   "action": "换收件人再发一封（第 75 批(v) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用）；钩子「CLI」不写——未核实；MIB 写「I can get you」）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
+   "one_question": "Todd, for the Mako-branded managed switch line, we can be a second ODM source on a Marvell L2+ platform (24-GE/PoE + 4×10G, 48-port) from small lots, with SNMP/CLI access for your CMS integration — would your team evaluate a sample unit? Reference: STC-424XGGPM-280W at $180 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
    {
-    "date": "2025-02-20",
+    "date": "2026-02-27",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Managed Optical Bypass Switch、Marvell Industrial Alert System",
+    "why": "23 封 / 1 次打开 / 0 回｜首封 2024-06-26 → 末封 2026-02-27（23 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "管理FS(大口的) 他们自己的logo",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026-02-27",
     "dir": "去",
     "who": "A 箱（Alan）",
-    "quote": "90W PoE Managed Switch",
-    "why": "首封去信（邮箱索引；去信共 18 封）",
-    "k": "31b5f5ee6776ba7a"
-   },
-   {
-    "date": "2026-09-23",
-    "dir": "去",
-    "who": "A 箱（Alan）",
-    "quote": "Managed PoE Switches",
-    "why": "最近一封去信（邮箱索引；去信共 18 封）",
-    "k": "9c7e166425737891"
-   },
-   {
-    "date": "2023-11-02",
-    "dir": "来",
-    "who": "info@lanopia.de",
-    "quote": "Ihr email an Lanopia GmbH｜Vielen Dank fuer Ihr Email und das Interesse an unseren Lanopia Produkten und Dienstleistungen. Unser Kundendienst oder ",
-    "why": "自动回执（「Ihr email an Lanopia GmbH」，机器）",
-    "k": "8624aa9d96551841"
-   },
-   {
-    "date": "2023-12-21",
-    "dir": "来",
-    "who": "info@lanopia.de",
-    "quote": "Ihr email an Lanopia GmbH｜Vielen Dank fuer Ihr Email und das Interesse an unseren Lanopia Produkten und Dienstleistungen. Unser Kundendienst oder ",
-    "why": "自动回执（「Ihr email an Lanopia GmbH」，机器）",
-    "k": "a13983463633964b"
-   },
-   {
-    "date": "2024-03-11",
-    "dir": "来",
-    "who": "info@lanopia.de",
-    "quote": "Ihr email an Lanopia GmbH｜Vielen Dank fuer Ihr Email und das Interesse an unseren Lanopia Produkten und Dienstleistungen. Unser Kundendienst oder ",
-    "why": "自动回执（「Ihr email an Lanopia GmbH」，机器）",
-    "k": "ea3cc0c899b4ef91"
-   },
-   {
-    "date": "2024-04-15",
-    "dir": "来",
-    "who": "info@lanopia.de",
-    "quote": "Ihr email an Lanopia GmbH｜Vielen Dank fuer Ihr Email und das Interesse an unseren Lanopia Produkten und Dienstleistungen. Unser Kundendienst oder ",
-    "why": "自动回执（「Ihr email an Lanopia GmbH」，机器）",
-    "k": "a28f054e0c03188d"
+    "quote": "Updated Ethernet Switches Links",
+    "why": "本日去信真实主题（邮箱索引 fec27342dc2f48be；信稿开头句引用此封；此前稿内写的「Managed Optical Bypass Switch」是线程列表首题，不是本封）",
+    "k": "fec27342dc2f48be"
    }
   ],
   "proof_gaps": [],
-  "draft_en": null,
+  "draft_en": {
+   "subject": "The Mako-branded managed switch line - a second ODM source with SNMP for CMS",
+   "body": "Hi Todd,\n\nOver the past months you had a few product mails from us - most recently \"Updated Ethernet Switches Links\" on 27 February 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the Mako-branded managed switch line, a second ODM source on a Marvell L2+ platform from small lots, FCC/CE/RoHS: 24 x Gigabit PoE+ (280 W) + 4 x 10G SFP+ - model STC-424XGGPM-280W - $180 USD EXW (MOQ 1, 15-day validity); the non-PoE version - STC-424XGGM - $138.0. SNMP and a web GUI with the Mako logo; I can get you the MIB files for your CMS integration before you commit to a sample.\n\nOne question: would your team evaluate one sample unit against the CMS, and which of the two?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+  },
   "as_of": "2026-10-24"
  }
 }

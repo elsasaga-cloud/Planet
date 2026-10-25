@@ -1,128 +1,163 @@
 {
  "code": "SB-761",
- "name_official": "（未具名）美国 · chk999@outlook.com（+1 678 亚特兰大区号）",
+ "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "无域名（仅表内信息）",
- "summary": "美国亚特兰大（+1 678）个人/小型买家（Outlook 邮箱，2022 年注册 Alibaba）：需求「1 光 8 口工业 PoE 傻瓜式（非管理）」；WhatsApp 加不上；1 次回复后 14 次跟进无果。",
- "type": "",
+ "website_status": "在线（getscw.com，快照 2026-10-21）",
+ "summary": "美国 SCW – Security Camera Warehouse（企业/商用级安防摄像机与 CCTV、门禁、报警；自有 SCW 标 4 口 / 8 口智能 / 24 口长距 PoE 交换机；NDAA 合规设备；表内「PoE 主要是 CCTV 比较专业」；KP Benjamin Larue（Sales Director）、Ryan M）；群发 19 次无回复。",
+ "type": "商用安防品牌商（美国，自有标 PoE）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Ubiquiti"
+ ],
  "evidence": [
   {
+   "kind": "官网快照",
+   "claim": "官网标题：SCW - Commercial Security Cameras Systems for Businesses；品类词 安防监控（CCTV / 门禁） / 无线 / WiFi / 布线 / 线缆 / 网络交换 / PoE",
+   "quote": "Security Camera Warehouse offers enterprise & commercial grade security cameras & CCTV systems, access control, and alarms.",
+   "url": "https://www.getscw.com/",
+   "date": "2026-10-21"
+  },
+  {
    "kind": "用户表",
-   "claim": "需求 1 光 8 工业 PoE 非管理；2022 年注册 Alibaba；WhatsApp 加不上；1 次回复、14 次跟进",
-   "quote": "1光8工业PoE傻瓜式 2022年注册Alibaba … 加不上",
+   "claim": "表内兴趣/备注",
+   "quote": "PoE 主要是CCTV 比较专业",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "SCW 定位",
+   "quote": "SCW - Commercial Security Cameras Systems for Businesses ; Security Camera Warehouse offers enterprise & commercial grade security cameras & CCTV systems, access control, and alarms ; /8-port-smart-gigabit-poe-switch",
+   "url": "https://www.getscw.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "PoE 主要是 CCTV 比较专业",
+   "quote": "PoE  主要是CCTV 比较专业",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
  "kp": [
   {
-   "name": "Chavan Koya",
-   "role": "来信署名人（职务未在邮件署名里出现）",
-   "email": "chk999@outlook.com",
+   "name": "Benjamin Larue",
+   "title": "Sales Director",
+   "email": "ben.larue@getscw.com",
    "phone": "",
-   "source": "S/A 邮箱来信 2024-10-30 来信 1 封（私人邮箱）（第 72 批从邮件表头补）"
+   "source": "用户表"
   }
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "无域名 · 仅表内信息（需求已映射）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "legal_name": "未具名（个人邮箱）",
-  "hq": "美国（+1 678）",
-  "size": "个人/微型"
+  "hq": "美国",
+  "other": "官网 getscw.com，语言 en，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "未知（工业 PoE 需求）"
+  "商用安防摄像机 / NVR / 门禁（自有品牌 SCW）",
+  "配套 PoE 交换机（SCW 标）"
  ],
  "channels": {
-  "邮箱": "（表内 Outlook）"
+  "role": "商用安防品牌商（美国，自有标 PoE）",
+  "region": "美国",
+  "contact": "hello@getscw.com、ben.larue@getscw.com"
  },
  "signals": [
-  "需求具体：1 SFP + 8 GE PoE 非管理工业机 → Saga STI-288GP（2 SFP + 8 PoE）最接近"
+  "页面 /4-port-gigabit-poe-switch、/8-port-smart-gigabit-poe-switch、/scw-24-port-poe-switch-extended-transmission、/installation-portal/poe-switches.php；首页 National Defense Authorization Act Compliant Equipment；kw camera 145 / nvr 59",
+  "表内：PoE 主要是 CCTV 比较专业；KP Benjamin Larue / Sales Director；Ryan M / Full Stack Engineer"
  ],
  "risks": [
-  "WhatsApp 加不上；14 次跟进无果"
+  "NDAA 合规定位（针对摄像机/电信品牌清单；交换机不在 889 条款范围，需向客户说明）",
+  "19 次无回复 → 改向 Sales Director 具名首触"
  ],
  "saga_fit": {
-  "p1": "STI-288GP",
-  "tier": 25,
-  "why": "终端 25% 档：STI-288GP（DIN 8 GE PoE + 2 SFP 非管理，DC 44–57 V，$59.8）——比需求多 1 个 SFP；百兆版 STI-188FP（$40.2）"
+  "p1": "STC-28DGGPM",
+  "tier": 30,
+  "why": "自有 SCW 标 4/8/24 口 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；24 口长距 STC-424DGGPM-280W（$145.7）；4 口位 HRUI STC-114GP（列表价，注明）"
  },
- "email_hook": "Chavan — closing the loop on your Oct-2024 question: HTTPS web management is now standard on our AC5 units (firmware 7.5); third-party certificate upload I will confirm on the exact model before you order. Is the 10G web-managed switch still on your list?",
+ "email_hook": "Benjamin, for the SCW-branded 8-port smart and 24-port extended-transmission PoE switches, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE + 4 SFP, 250 m extend mode) in your packaging from small lots, FCC/CE/RoHS — which model do your installers order most with NVR kits?",
+ "products_seen": [
+  {
+   "brand": "SCW（自有）",
+   "model": "8-port smart gigabit PoE switch",
+   "spec": "8 口智能千兆 PoE",
+   "saga": "STC-28DGGPM",
+   "url": "https://www.getscw.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "brand": "SCW（自有）",
+   "model": "24-port PoE switch extended transmission",
+   "spec": "24 口长距 PoE",
+   "saga": "STC-424DGGPM-280W",
+   "url": "https://www.getscw.com/",
+   "date": "2026-10-21"
+  }
+ ],
  "mail_review": {
   "binding": {
-   "level": "轻度触达（2024-10-30 Chavan 问 Web 管理 10G 款「有没有 HTTPS、能不能装第三方证书」→ Simon「HTTPS is NOT on the function list」；无后续；Elsa 箱：`to:chk999@outlook.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 25 / 来 1）（第 74 批(h)））",
-   "type": "美国个人/小公司（Outlook 私箱，抄送 NovaCA）",
-   "sieve": "2",
-   "stop": "安全要求（HTTPS + 自有证书）当时不满足；固件 7.5 是否已加 HTTPS 需查固件说明再答",
-   "revive": "若固件说明确认 HTTPS 已加，回一句",
-   "lane": "US",
-   "cadence": "视固件",
-   "evidence": "k=5a42faf06fd8915e / becf0a5ee00f725f"
+   "level": "未触达（A/S 邮箱 30 封 2024→2026，无记录打开，0 回；收件 ben.larue@getscw.com, hello@getscw.com；主题多为「Managed Optical Bypass Switch、Marvell Industrial Alert System」；Elsa 箱：`to:getscw.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 30 / 来 0）（第 74 批(h)））",
+   "type": "商用安防品牌商（美国，自有标 PoE）",
+   "sieve": "1（只收到群发）",
+   "stop": "30 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+   "lane": "US 主攻（四主）",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 30；用户表：「PoE 主要是CCTV 比较专业」；研究档 risks：NDAA 合规定位（针对摄像机/电信品牌清单；交换机不在 889 条款范围，需向客户说明）"
   },
-  "situation": "—",
-  "need": "HTTPS 管理 + 第三方证书。",
-  "breakpoint": "功能缺口。",
+  "situation": "美国 SCW – Security Camera Warehouse（企业/商用级安防摄像机与 CCTV、门禁、报警；自有 SCW 标 4 口 / 8 口智能 / 24 口长距 PoE 交换机；NDAA 合规设备；表内「PoE 主要是 CCTV 比较专业」；KP Benjamin Larue（Sales Director）、Ryan M）；群发 19 次无回复。",
+  "need": "自有 SCW 标 4/8/24 口 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；24 口长距 STC-424DGGPM-280W（$145.7）；4 口位 HRUI STC-114GP（列表价，注明）",
+  "breakpoint": "NDAA 合规定位（针对摄像机/电信品牌清单；交换机不在 889 条款范围，需向客户说明）",
   "saga_now": {
-   "p1": "—",
-   "tier": 25,
-   "price": "—；群发里他已看到的价（续）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-12-11 $300（48 Port PoE Managed Switch）、2025-09-22 $280（10G Enterprise SFP Switch）",
-   "why": "已打开的主题（1/25 封有打开记录）：「Re: 10G Ethernet Web Managed Switch」(2024-10-31) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续｜需求台账 #7：他 2024-10 问的 HTTPS 现在有了（7.5 表）——两年后回原线程一句「现在有了」是零成本的信用动作；第三方证书上传仓内无证，不承诺",
+   "p1": "STC-28DGGPM",
+   "tier": 30,
+   "price": "换人再触锚价 STC-28DGGPM $87.4 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-10-30 $65（10G Media Converter）、2024-12-13 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-07-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-02-04 $240（24 Port Fiber Switch）、2025-10-09 $280（10G Enterprise SFP Switch）",
+   "why": "自有 SCW 标 4/8/24 口 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；24 口长距 STC-424DGGPM-280W（$145.7）；4 口位 HRUI STC-114GP（列表价，注明）",
    "repeat": [],
-   "gaps": [
-    "固件 7.5 HTTPS 状态"
-   ]
+   "gaps": []
   },
   "next_move": {
-   "when": "2026-11",
-   "channel": "S 邮箱 → chk999@outlook.com（回 2024-10-30 原线程「10G Ethernet Web Managed Switch」）",
-   "action": "两年前答他「HTTPS 不在功能表」；7.5 L2+ 功能表已有 HTTPS（v4/v6）——回原线程一句话补上，并直接回答第三方证书问题（仓内无证 → 只说「HTTPS yes；third-party certificate upload: to be confirmed on your unit」），不带新品。（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
-   "one_question": "Chavan — closing the loop on your Oct-2024 question: HTTPS web management is now standard on our AC5 units (firmware 7.5); third-party certificate upload I will confirm on the exact model before you order. Is the 10G web-managed switch still on your list?"
+   "when": "2027-Q1（换人后）",
+   "channel": "A 邮箱 → 具名 KP",
+   "action": "换收件人再发一封（第 75 批(w) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用）；NDAA 不声称，写「component list goes with the sample」；250 m extend 未核不写）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
+   "one_question": "Benjamin, for the SCW-branded 8-port smart and 24-port extended-transmission PoE switches, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE + 4 SFP, 250 m extend mode) in your packaging from small lots, FCC/CE/RoHS — which model do your installers order most with NVR kits? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
    {
-    "date": "2024-10-30",
-    "dir": "来",
-    "who": "Chavan",
-    "quote": "Does it have the https… and can we store third party https certificates ?",
-    "why": "安全要求",
-    "k": "5a42faf06fd8915e"
-   },
-   {
-    "date": "2024-10-30",
-    "dir": "来",
-    "who": "chk999@outlook.com",
-    "quote": "Re: 10G Ethernet Web Managed Switch｜Hi, Does it have the https (not http, but https with s at the end http secure protocol) and can we store third party https certificates ?  Best Regard",
-    "why": "来信（邮箱索引；原文见 k；是否人工回复以原文为准）",
-    "k": "5a42faf06fd8915e"
-   },
-   {
-    "date": "2024-10-31",
+    "date": "2026-10-06",
     "dir": "去",
-    "who": "S 箱（Simon）",
-    "quote": "Re: 10G Ethernet Web Managed Switch",
-    "why": "首封去信（邮箱索引；去信共 25 封）",
-    "k": "becf0a5ee00f725f"
+    "who": "A/S 群发",
+    "quote": "Managed Optical Bypass Switch、Marvell Industrial Alert System",
+    "why": "30 封 / 0 次打开 / 0 回｜首封 2024-06-24 → 末封 2026-10-06（30 去 / 0 来）",
+    "k": "gmail_digest"
    },
    {
-    "date": "2026-08-31",
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "PoE 主要是CCTV 比较专业",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026-10-06",
     "dir": "去",
     "who": "A 箱（Alan）",
-    "quote": "24 Port PoE Managed Switch",
-    "why": "最近一封去信（邮箱索引；去信共 25 封）",
-    "k": "7ab052e13938468c"
+    "quote": "Managed PoE Switches",
+    "why": "本日去信真实主题（邮箱索引 64ce5a4ba19394fd；信稿开头句引用此封；此前稿内写的「Managed Optical Bypass Switch」是线程列表首题，不是本封）",
+    "k": "64ce5a4ba19394fd"
    }
   ],
   "proof_gaps": [],
   "draft_en": {
-   "subject": "Re: 10G Ethernet Web Managed Switch — HTTPS now supported",
-   "body": "Hi, Chavan,\n\nIn October 2024 you asked whether the 10G web-managed switch supports HTTPS and third-party certificates, and at that time the answer was no.\n\nClosing the loop: HTTPS web management (IPv4/IPv6) is now standard on our Marvell AC5 units with firmware 7.5, together with SSH2, SNMP v3 and SFTP. Third-party certificate upload I will confirm on the exact model before you order, so you are not surprised.\n\nOne question: is the 10G web-managed switch still on your list? If yes, tell me the port mix and I will send the current datasheet and price.\n\nThank you.\nSimon\nSaga Telecom - sagatele.com"
+   "subject": "A second ODM source for the SCW-branded 8-port smart and 24-port PoE switches",
+   "body": "Hi Benjamin,\n\nOver the past months you had a few product mails from us - most recently \"Managed PoE Switches\" on 6 October 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the SCW-branded PoE switches, a second ODM source in your packaging from small lots, FCC/CE/RoHS: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based - model STC-28DGGPM - $87.4 USD EXW with your logo (MOQ 1, 15-day validity); 24 x Gigabit PoE+ (280 W) + 4 x SFP, L2+ managed - STC-424DGGPM-280W - $145.7; the 4-port position, unmanaged - STC-114GP - $18.5. On NDAA: we make no claim either way - the component list goes with the sample, and your compliance people decide.\n\nOne question: which model do your installers order most with NVR kits - the 8-port smart or the 24-port?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
  }

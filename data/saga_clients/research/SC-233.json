@@ -1,0 +1,73 @@
+{
+ "code": "SC-233",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（andasis.com，快照 2026-10-21）",
+ "summary": "土耳其 Andasis（嵌入式电子系统方案商：国防、汽车、工业、电信通信——网络接入控制器、以太网交换机、路由器「IN-HOUSE TECHNOLOGY」；表内「MC FS」「别人在卖他们的产品」）；表内未跟进。",
+ "type": "国防导向嵌入式/网络设备自研商（守界 + 同行）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Andasis | Network Access Controller Ethernet Switches | Routers；品类词 工业自动化 / OT 网络 / 网络交换 / PoE",
+   "quote": "Andasis is a leading provider of embedded electronic system solutions specializing in communication for the Defence, Automotive, Industry, and Telecommunication sectors.",
+   "url": "https://andasis.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "MC FS",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Andasis 定位",
+   "quote": "Andasis | Network Access Controller Ethernet Switches | Routers ; embedded electronic system solutions specializing in communication for the Defence, Automotive, Industry, and Telecommunication sectors",
+   "url": "https://andasis.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "MC FS",
+   "quote": "MC FS；别人在卖他们的产品",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "守界/同行：Andasis 国防导向、自研交换机与路由器；c_sub=守界（军工/国防）",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "土耳其",
+  "other": "官网 andasis.com，语言 en，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "嵌入式通信系统（国防 / 汽车 / 工业 / 电信）"
+ ],
+ "channels": {
+  "role": "国防导向嵌入式/网络设备自研商（守界 + 同行）",
+  "region": "土耳其",
+  "contact": "info@andasis.com"
+ },
+ "signals": [
+  "官网：Andasis is a leading provider of embedded electronic system solutions specializing in communication for the Defence, Automotive, Industry, and Telecommunication sectors；首页 IN-HOUSE TECHNOLOGY IN COMMUNICATION",
+  "表内：MC FS；别人在卖他们的产品"
+ ],
+ "risks": [
+  "守界：Andasis 以国防为首要领域（Defence, Automotive, Industry, Telecommunication），自研以太网交换机/路由器（同行）"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 30,
+  "why": "国防为首要领域、自研交换机/路由器（同行）→ 改 C（守界）"
+ },
+ "email_hook": "（不发送：守界/同行）"
+}

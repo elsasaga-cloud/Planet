@@ -1,0 +1,136 @@
+# SB-288 secomp-international.com · home · https://www.secomp-international.com/en/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+SECOMP - Your specialist for Network Components, Audio/Video, UPS / Power Supply and IT Accessories - SECOMP International AG
+{
+document.getElementById('cmsmodal').checked = true;
+});
+}
+"
+>
+show = !!document.getElementById('main-content'))"
+>
+Skip to main content
+Info EN
+Login
+Navigation
+desktopOpen = 'CatalogRoot', desktopOpen ? 150 : 0)" @mouseleave="clearTimeout(timeoutId); timeoutId = setTimeout(() => desktopOpen = null, 150)" > Products
+Products
+Network Components
+Network Active Components
+Network Passive Components
+19/10 inch Products
+Test Measurement & Tools
+ROLINE 19-inch STORE
+IT Accessories
+KVM Switchboxes & Hubs
+Computer Cables
+Adapter & Converter
+PC-Components
+Input Devices
+Mobile Computing
+Multimedia
+Office Equipment
+UPS / Power Supply
+Power Supply
+Special Offers New products
+Product recommendations
+Sell off
+Special Offers
+New products
+Product recommendations
+Sell off
+desktopOpen = '33', desktopOpen ? 150 : 0)" @mouseleave="clearTimeout(timeoutId); timeoutId = setTimeout(() => desktopOpen = null, 150)" > Brands
+Brands
+ROLINE - Quality makes the difference
+ROLINE GOLD stands for high quality
+ROLINE GREEN - For the sake of the environment
+ROLINE RECYCLED MATERIAL - a NEW BRAND for a sustainable future!
+VALUE - Unbeatable in price/performance comparison
+desktopOpen = '30', desktopOpen ? 150 : 0)" @mouseleave="clearTimeout(timeoutId); timeoutId = setTimeout(() => desktopOpen = null, 150)" > About us
+About us
+Company
+desktopOpen = '29', desktopOpen ? 150 : 0)" @mouseleave="clearTimeout(timeoutId); timeoutId = setTimeout(() => desktopOpen = null, 150)" > Contact
+desktopOpen = '38', desktopOpen ? 150 : 0)" @mouseleave="clearTimeout(timeoutId); timeoutId = setTimeout(() => desktopOpen = null, 150)" > Services & Support
+Services & Support
+Driver download
+desktopOpen = '42', desktopOpen ? 150 : 0)" @mouseleave="clearTimeout(timeoutId); timeoutId = setTimeout(() => desktopOpen = null, 150)" > Publications
+Publications
+Print catalogues
+Videos
+SECOMP International AG
+Grindelstrasse 6
+CH-8303 Bassersdorf
+info@secomp-international.com
++41 44 511 87 62
+cloneSlides($el))"
+@transitionend="onTransitionEnd($event)"
+>
+Professional Computer Accessories
+and other Online Publications
+View or download here!
+SECOMP INTRODUCES ITSELF
+More info here ...
+ROLINE 19-inch network cabinets, wall enclosures & accessories – ideal for simple, cost-effective and flexible network expansion.
+More info here ...
+ROLINE RECYCLED MATERIAL - Sustainability through recycling
+More info here ...
+Help our environment and avoid unnecessary plastic waste!
+More info here ...
+ROLINE GOLD stands for high quality!
+More info here ...
+Network Active Components
+Network Passive Components
+19/10 inch Products
+Test Measurement & Tools
+To the products
+KVM Switchboxes & Hubs
+Computer Cables & Adapter
+PC-Components, Input Devices
+Mobile Computing
+Multimedia, Office Equipment
+To the products
+UPS Systems
+Power Supply
+Power Distribution
+To the products
+SECOMP
+Specialist for Network Components, Audio/Video, UPS / Power Supply and IT Accessories
+Products
+Network Components
+IT Accessories
+UPS / Power Supply
+New products
+Our product managers are in constant contact with the manufacturers and are always on the lookout for new, attractive brands and products. A look at the innovations marked NEW is always worthwhile!
+Show all
+More about ROLINE
+More about ROLINE GOLD
+More about ROLINE GREEN
+More about ROLINE RM
+More about VALUE
+Whether articles from the areas of IT accessories and network technology, PC and multimedia cables, IP cameras, accessory articles in the area of consumer electronics, products from the UPS & power supply segment or 19'' technology. The products of our own brands ROLINE , ROLINE GOLD and VALUE are designed for professional continuous operation. ROLINE GREEN additionally convinces with environmentally friendly packaging. ROLINE RECYCLED MATERIAL products are made from more than 50 % recycled materials.
+Product recommendations
+Our TOP products
+If quality management, product management and our customers are in agreement, there is nothing you can do wrong. Thumbs up for our numerous product recommendations .
+Show all
+SECOMP - Quality makes the difference
+At SECOMP you will find products from the areas of Network Active Components, Network Passive Components, 19/10 inch Products, Test Measurement & Tools, KVM Switchboxes & Hubs, Computer Clables, Adapter & Converter, PC Components, Input Devices, Mobile Computing, Multimedia, Office Equipment, UPS / Power Supply, Power Supply and much more ...
+To the products
+Sell off
+Special offers and remaining stock
+Our range of products is constantly being updated and expanded. This requires a constant reorganization of our warehouse. Benefit of extremely attractive prices in our Sell off .
+Show all
+Address
+SECOMP International AG
+Grindelstrasse 6
+CH-8303 Bassersdorf
+Contact us
++41 44 511 87 62
+info@secomp-international.com
+To our product range
+Imprint
+GTC
+Disclaimer
+Privacy policy
+© 2026
+SECOMP International AG. All rights reserved.
+powered by polynorm
+Yes No

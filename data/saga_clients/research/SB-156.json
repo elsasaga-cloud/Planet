@@ -1,183 +1,138 @@
 {
- "code": "SB-156",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（tyconsystems.com，快照 2026-10-21）",
- "summary": "美国犹他 Tycon Systems（离网太阳能供电 / 移动监控拖车 / PoE 设备制造商；自有 TP- 系列 PoE 产品：TP-SW5G-D DIN 5 口千兆 PoE、TP-DCDC 系列、TPDIN-SC48-20 太阳能控制器；官网有「Managed PoE Switches / Un-managed PoE Switches」品类；表内「工业 FS、PoE 配件、自己的 logo」；KP Daimyn Duong / Scott Parsons / Andy Pierre（Head of BD））；群发 9 次无回复。",
- "type": "品牌商（离网供电 + PoE，自有 TP- 系列，OEM 采购）",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：Remote Solar Power, Mobile Surveillance Trailers & PoE Systems | Tycon Systems；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
-   "quote": "Tycon Systems designs & builds mobile solar security trailers, PoE equipment, and remote power systems for surveillance, communications, and off-grid applications.",
-   "url": "https://www.tyconsystems.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "工业FS 一些PoE配件 自己的logo",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "设计制造移动太阳能监控拖车、PoE 设备与远程供电系统",
-   "quote": "Tycon Systems designs & builds mobile solar security trailers, PoE equipment, and remote power systems for surveillance, communications, and off-grid applications.",
-   "url": "https://www.tyconsystems.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "工业 FS + PoE 配件 + 自有 logo",
-   "quote": "工业FS 一些PoE配件 自己的logo",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "海关提单(ImportYeti)",
-   "claim": "Tycon Systems 是 HRUI（深圳洪瑞）美国海运直客：2022-08 至 2024-01 共 4 票 PoE 交换机（5–29 箱/票，PO:6456）",
-   "quote": "Tycon Systems Inc, Riverton … 4 shipments … Poe Switch … 01/31/2024 CHKMMZLMSA248500 570 kg 29ctn",
-   "url": "https://www.importyeti.com/supplier/shenzhen-hongrui-optical-technology",
-   "date": "2026-10-22"
-  }
- ],
- "kp": [
-  {
-   "name": "Andy Pierre",
-   "title": "Head of BD",
-   "email": "",
-   "phone": "",
-   "source": "用户表"
-  },
-  {
-   "name": "Daimyn Duong",
-   "title": "（表内联系人）",
-   "email": "daimyn@tyconsystems.com",
-   "phone": "",
-   "source": "用户表"
-  },
-  {
-   "name": "Scott Parsons",
-   "title": "（表内联系人）",
-   "email": "scottp@tyconsystems.com",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4） ｜ 针对性加厚 2026-10-22（ImportYeti 海关提单，T29-U13）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "美国",
-  "other": "官网 tyconsystems.com，语言 en-US，快照状态 ok；角色判定来源：用户表"
- },
- "business_lines": [
-  "离网太阳能供电与 UPS 系统",
-  "移动太阳能监控拖车",
-  "PoE 交换机 / 注入器 / 延长器（自有 TP- 系列）"
- ],
- "channels": {
-  "role": "品牌商（离网供电 + PoE，自有 TP- 系列，OEM 采购）",
-  "region": "美国",
-  "contact": "daimyn@tyconsystems.com、scottp@tyconsystems.com"
- },
- "signals": [
-  "官网品类：/categories/poe-switches/、/managed-poe-switches/、/un-managed-poe-switches/、PoE extender",
-  "站内型号 TP-SW5G-D、TP-DCDC-1224/1248、TPDIN-SC48-20",
-  "KP：Daimyn Duong、Scott Parsons、Andy Pierre（Head of BD，表内）"
- ],
- "risks": [
-  "自有产品已有稳定代工来源：需以 12–58 VDC 宽压 + 小批量灵活性切入",
-  "群发 9 次无回复：改向 Head of BD 具名首触",
-  "【2026-10-22 外网复抓】ImportYeti 证实其 2022–2024 直接从 HRUI 进口 PoE 交换机（4 票，小批量，最近一票 2024-01）→ 2024 年后无 HRUI 海运记录，可能换厂或改空运；Saga 跟进时问清现供应商，推工业 DIN 导轨 PoE（STI）而非 HRUI 同款。"
- ],
- "saga_fit": {
-  "p1": "STI-054GP",
-  "tier": 30,
-  "why": "自有 TP-SW5G-D（DIN 5 口千兆 4 PoE）→ Saga STI-054GP（工业 4 PoE + 1 GE，$33.8 @30%）贴 Tycon 标；带 SFP 位 STI-154GP（$40.8）；管理型 STI-288GPM"
- },
- "email_hook": "Andy, for the TP-SW5G-D class DIN-rail PoE switches in your off-grid kits, we build 5-port (4 PoE+) industrial units with 12–58 VDC input under your label from small lots (CE/RoHS/FCC) — do you want the SFP-uplink or the all-copper version first?",
- "products_seen": [
-  {
-   "brand": "Tycon（自有）",
-   "model": "TP-SW5G-D",
-   "spec": "DIN 5 口千兆 PoE 交换机（太阳能/直流供电场景）",
-   "saga": "STI-054GP",
-   "url": "https://www.tyconsystems.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "brand": "Tycon（自有）",
-   "model": "TP-DCDC-1248",
-   "spec": "DC-DC PoE 注入 12→48V",
-   "saga": "（Q-32：Saga 无注入器 SKU）",
-   "url": "https://www.tyconsystems.com/",
-   "date": "2026-10-21"
-  }
- ],
- "mail_review": {
-  "binding": {
-   "level": "未触达（1 封自动回复；ImportYeti 海关提单已入研究档；Elsa 箱：`to:tyconsystems.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 28 / 来 1）（第 74 批(h)））",
-   "type": "美国离网供电 + PoE 品牌商（Tycon Systems；自有 TP- 系列）",
-   "sieve": "0",
-   "stop": "自动回复/机器人，无人工回复",
-   "revive": "不动",
-   "lane": "US",
-   "cadence": "不动",
-   "evidence": "k=7feaa342e0d73d83"
-  },
-  "situation": "来信全部为机器回复；无人读信或无人回信。",
-  "need": "—",
-  "breakpoint": "—",
-  "saga_now": {
-   "p1": "—",
-   "tier": 30,
-   "price": "—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-04 $65（10G media converter）；群发里他已看到的价（续）：2026-08-20 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-12-02 $300（48 Port PoE Managed Switch）、2025-10-03 $280（10G Enterprise SFP Switch）",
-   "why": "已打开的主题（3/28 封有打开记录）：「10G Ethernet Web Managed Switch」(2024-11-06)、「48 Port PoE Managed Switch」(2024-12-02)、「90W PoE Managed Switch」(2024-12-19) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—（第 76 批(c) 2026-10-25：0 事实户补时间线事实）",
-   "one_question": ""
-  },
-  "facts": [
-   {
-    "date": "2024-07-04",
-    "dir": "去",
-    "who": "S 箱（Simon）",
-    "quote": "10G media converter",
-    "why": "首封去信（邮箱索引；去信共 28 封）",
-    "k": "4a25bf2c14223ec6"
-   },
-   {
-    "date": "2026-09-17",
-    "dir": "去",
-    "who": "A 箱（Alan）",
-    "quote": "16 Port Industrial PoE Switch",
-    "why": "最近一封去信（邮箱索引；去信共 28 封）",
-    "k": "9bc0cb22b735b9b5"
-   },
-   {
-    "date": "2024-05-10",
-    "dir": "来",
-    "who": "sales@tyconsystems.com",
-    "quote": "Automatic reply: 5 port industrial switch｜Hello,  I am out of the office until Monday. We have received this email and will respond as soon as possible.  If you n",
-    "why": "自动回复/退信（机器，不算人工回复）",
-    "k": "7feaa342e0d73d83"
-   }
+  "code": "SB-156",
+  "name_official": "Cyberteam Sp. z o.o.（波兰）",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（cyberteam.pl，快照 2026-10-21，波兰语）",
+  "summary": "波兰光纤设备供应商 / 制造商（光纤设备、线缆、抗干扰护套、机柜、外壳、网络保护器、MikroTik / Ubiquiti、SFP、跳线），Sales Manager Monika Patron、Marketing Tomasz Klebek、Tomasz B. Nowak；表内「MC 自己的 logo，其他人在卖；无源、PON 等」；群发 1 次。自有 logo MC → OEM 30%。",
+  "type": "",
+  "size": "",
+  "brands_seen": [
+    "MikroTik",
+    "Ubiquiti",
+    "Cyberteam（自有）"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "光纤设备供应商 / 制造商：线缆、护套、机柜、外壳、网络保护器、MikroTik、Ubiquiti、SFP、跳线",
+      "quote": "Cyberteam dostawca producent: urządzenia światłowodowe, kable, osłony antyzakłóceniowe, szafy RACK, obudowy, netprotectory, MikroTik, Ubiquiti, moduły SFP, patchcordy",
+      "url": "https://cyberteam.pl/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "MC Switch 等；MC 自己的 logo 其他人在卖；无源产品 Pon 等",
+      "quote": "兴趣：MC Switch等;MC 自己的logo 其他人在卖 无源产品 Pon等",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [
+    {
+      "name": "Monika Patron",
+      "title": "Sales Manager",
+      "email": "m.patron@cyberteam.pl",
+      "phone": "",
+      "source": "（本地 Clients/ 表格，无公开 URL）"
+    },
+    {
+      "name": "Tomasz Bartłomiej Nowak",
+      "title": "（表内联系人）",
+      "email": "t.b.nowak@cyberteam.pl",
+      "phone": "",
+      "source": "（本地 Clients/ 表格，无公开 URL）"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（官网快照核对 + 表内）"
+  },
+  "company_facts": {
+    "legal_name": "Cyberteam Sp. z o.o.",
+    "founded": "",
+    "hq": "Poland",
+    "size": "中小型供应商 / 制造（无源）",
+    "other": "自有 logo MC 已被他人转售"
+  },
+  "business_lines": [
+    "光纤无源 / 机柜制造",
+    "MC / SFP / 网络有源（贴牌）"
+  ],
+  "channels": {
+    "role": "供应商 + 自有品牌（OEM 采购）",
+    "region": "波兰"
+  },
+  "signals": [
+    "自有 logo MC 有渠道 → 贴牌量稳定"
+  ],
+  "risks": [
+    "PON 不供；1 次群发"
+  ],
+  "saga_fit": {
+    "p1": "STI-110GE",
+    "tier": 30,
+    "why": "自有 logo MC → STI-110GE（$24.3 @30%）贴 Cyberteam 标；商用桌面 MC 按 SmartByte 另询。"
+  },
+  "email_hook": "Monika, for the Cyberteam-branded media converters — DIN gigabit (and desktop) MCs under your label from small lots, plus 2-SFP + 8-PoE switches in the same look; which MC variant sells most, SFP-slot or fixed 20 km?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A/S 邮箱 17 封 2024→2026，无记录打开，0 回；收件 cyberteam@cyberteam.pl, m.patron@cyberteam.pl；主题多为「10G Enterprise SFP Switch、Booster PoE Switch」）；Elsa 群发 BCC 已触达 2025-10-09「10G Enterprise SFP Switch」（正文「Price: 280usd/pc」，第 74 批(p) 读稿），PL-3（大分销 aat/lanberg/elmark/dipol/a2s） 批次 To info@axuse.com，0 回（第 74 批 Bcc 头核对 msg 199c8653559f6d15）",
+      "type": "—",
+      "sieve": "1（只收到群发）",
+      "stop": "17 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+      "revive": "保持季度群发到 2027-Q1；无打开即停",
+      "lane": "PL 次级重点",
+      "cadence": "季度",
+      "evidence": "gmail_digest：out 17；用户表：「兴趣：MC Switch等;MC 自己的logo 其他人在卖 无源产品 Pon等」；研究档 risks：PON 不供；1 次群发；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To info@axuse.com）本户见于 2025-10-09 名单；该批次最早 2025-04-03 起共 7 轮，更早轮次 Bcc 未读"
+    },
+    "situation": "波兰光纤设备供应商 / 制造商（光纤设备、线缆、抗干扰护套、机柜、外壳、网络保护器、MikroTik / Ubiquiti、SFP、跳线），Sales Manager Monika Patron、Marketing Tomasz Klebek、Tomasz B. Nowak；表内「MC 自己的 logo，其他人在卖；无源、PON 等」；群发 1 次。自有 logo MC → OEM 30%。",
+    "need": "自有 logo MC → STI-110GE（$24.3 @30%）贴 Cyberteam 标；商用桌面 MC 按 SmartByte 另询。",
+    "breakpoint": "PON 不供；1 次群发",
+    "saga_now": {
+      "p1": "STI-110GE",
+      "tier": 30,
+      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-21 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-20 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-20 $280（10G Enterprise SFP Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-10-09 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2025-10-09；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）",
+      "why": "自有 logo MC → STI-110GE（$24.3 @30%）贴 Cyberteam 标；商用桌面 MC 按 SmartByte 另询。",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "群发节奏",
+      "channel": "A 邮箱",
+      "action": "观察打开",
+      "one_question": "Monika, for the Cyberteam-branded media converters — DIN gigabit (and desktop) MCs under your label from small lots, plus 2-SFP + 8-PoE switches in the same look; which MC variant sells most, SFP-slot or fixed 20 km?"
+    },
+    "facts": [
+      {
+        "date": "2025-10-09",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To info@axuse.com，PL-3（大分销 aat/lanberg/elmark/dipol/a2s） 批次）",
+        "quote": "10G Enterprise SFP Switch — This is our 24-port Marvell-based managed SFP switch. 1, 4 port 1G SFP+8-port 1G SFP/RJ45 Combo +4*10G SFP+ 2, Dual AC input 3, Support fan monitoring（正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
+        "why": "Elsa 箱群发 BCC 触达证据（命中地址 cyberteam.pl, t.b.nowak@cyberteam.pl）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+        "k": "elsa_bcc"
+      },
+      {
+        "date": "2026-09-25",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "10G Enterprise SFP Switch、Booster PoE Switch",
+        "why": "17 封 / 0 次打开 / 0 回｜首封 2024-06-26 → 末封 2026-09-25（17 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "兴趣：MC Switch等;MC 自己的logo 其他人在卖 无源产品 Pon等",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-25"
+  }
 }

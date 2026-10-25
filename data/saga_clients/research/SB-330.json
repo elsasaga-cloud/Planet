@@ -2,142 +2,130 @@
  "code": "SB-330",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "在线（wirewerks.com，快照 2026-10-21）",
- "summary": "加拿大 Wirewerks（蒙特利尔结构化布线制造商：铜缆/光纤网络产品、数据中心、宽带；TIA 标准导向；表内「MC 自己的 logo；别人在卖他们的」「可以多跟进一下」；KP Carl Lindquist）；群发 10 次无回复。",
- "type": "布线制造商（加拿大，自有标 MC 为副线）",
+ "website_status": "在线（omninet.com.vn，快照 2026-10-21）",
+ "summary": "新加坡 Omnicomm（omnicomm.com.sg；omninet.com.vn 为服务器默认页；表内「从国内买模块；Switch 自己的 logo」；KP Victor Tan（Operations Manager）、Chuong）；群发 8 次无回复。",
+ "type": "网络品牌商（新加坡/越南，自有标 Switch；官网待核）",
  "size": "",
  "brands_seen": [],
  "evidence": [
   {
    "kind": "官网快照",
-   "claim": "官网标题：Wirewerks | Network innovations；品类词 电信 / FTTH / ISP 设备 / 无线 / WiFi / 数据中心 / 企业 IT / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
-   "quote": "Network innovations on Wirewerks…",
-   "url": "https://wirewerks.com/en/",
+   "claim": "官网标题：Web Server's Default Page",
+   "quote": "What is Plesk",
+   "url": "https://www.omninet.com.vn/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
    "claim": "表内兴趣/备注",
-   "quote": "MC 自己的logo 别人在卖他们的",
+   "quote": "从国内买模块 Switch 自己的logo",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   },
   {
-   "kind": "官网快照",
-   "claim": "Wirewerks 定位",
-   "quote": "Wirewerks | Network innovations ; Network connectivity starts at the physical layer. ; Copper Network Products ; Optical Fiber Network Products ; Data Centers ; Broadband",
-   "url": "https://wirewerks.com/en/",
-   "date": "2026-10-21"
-  },
-  {
    "kind": "用户表",
-   "claim": "MC 自己的 logo",
-   "quote": "MC 自己的logo 别人在卖他们的；可以多跟进一下",
+   "claim": "从国内买模块；Switch 自己的 logo",
+   "quote": "从国内买模块 Switch 自己的logo",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
  "kp": [
   {
-   "name": "Carl Lindquist",
-   "title": "（职务待核）",
-   "email": "clindquist@wirewerks.com",
+   "name": "Victor Tan",
+   "title": "Operations Manager",
+   "email": "victor@omnicomm.com.sg",
+   "phone": "",
+   "source": "用户表"
+  },
+  {
+   "name": "Chuong",
+   "title": "（姓名/职务待核）",
+   "email": "chuong@omnicomm.com.sg",
    "phone": "",
    "source": "用户表"
   }
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "加拿大",
-  "other": "官网 wirewerks.com，语言 en，快照状态 ok；角色判定来源：用户表"
+  "hq": "新加坡",
+  "other": "官网 omninet.com.vn，语言 en，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "结构化布线（铜缆 / 光纤 / 数据中心 / 宽带）"
+  "网络产品（自有品牌，模块国内采购）"
  ],
  "channels": {
-  "role": "布线制造商（加拿大，自有标 MC 为副线）",
-  "region": "加拿大",
-  "contact": "clindquist@wirewerks.com、info@wirewerks.com"
+  "role": "网络品牌商（新加坡/越南，自有标 Switch；官网待核）",
+  "region": "新加坡",
+  "contact": "chuong@omnicomm.com.sg、victor@omnicomm.com.sg"
  },
  "signals": [
-  "官网：Network connectivity starts at the physical layer. ; Copper Network Products ; Optical Fiber Network Products ; Data Centers ; Broadband；站内 TIA-568 / TIA-942-B；kw fiber 74 / data center 18",
-  "表内：MC 自己的 logo 别人在卖他们的；可以多跟进一下；KP Carl Lindquist"
+  "表内：从国内买模块 Switch 自己的 logo；KP Victor Tan / Operations Manager",
+  "快照：Web Server’s Default Page（Plesk）"
  ],
  "risks": [
-  "主业结构化布线（Saga 不做）：MC 为副线，契合度低",
-  "10 次无回复 → 改向 Carl Lindquist 具名首触（职务待核）"
+  "官网快照为服务器默认页（站点待核）；非主攻区（T5）；8 次无回复 → 改向 Operations Manager 具名首触"
  ],
  "saga_fit": {
-  "p1": "STI-110GE",
+  "p1": "STC-28DGGPM",
   "tier": 30,
-  "why": "自有 logo MC → 工业千兆 MC STI-110GE（$24.3 @30%）；桌面 MC 用 HRUI（列表价，注明）；8 GE + 2 SFP 位 STC-28GM（HRUI 列表价，注明）"
+  "why": "自有 logo 交换机 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；24 口 STC-424DGGPM-280W（$145.7）；光模块 Saga 不供（Q-32）"
  },
- "email_hook": "Carl, for the media converters offered under the Wirewerks label with your copper and fibre systems, we can supply gigabit MCs (industrial DIN/wall or desktop) and small SFP-uplink switches in your packaging from small lots, FCC/CE/RoHS — which MC configuration do your installer customers order most?",
+ "email_hook": "Victor, for the switches you sell under your own label alongside the optical modules you source from China, we can supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ models in your packaging from small lots, CE/RoHS — which configuration do your Singapore and Vietnam customers order most?",
  "mail_review": {
   "binding": {
-   "level": "未触达（A/S 邮箱 20 封 2025→2026，1 次记录打开，0 回；收件 clindquist@wirewerks.com, info@wirewerks.com；主题多为「Marvell Industrial Alert System、10G Enterprise SFP Switch」；Elsa 箱：`to:wirewerks.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 20 / 来 0）（第 74 批(h)））",
-   "type": "布线制造商（加拿大，自有标 MC 为副线）",
-   "sieve": "1~2（1 次打开）",
-   "stop": "20 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
-   "lane": "CA 主攻",
-   "cadence": "一封",
-   "evidence": "gmail_digest：out 20，Opened 标签 1（Simon 群发追踪）；用户表：「MC 自己的logo 别人在卖他们的」；研究档 risks：主业结构化布线（Saga 不做）：MC 为副线，契合度低"
+   "level": "未触达（A/S 邮箱 18 封 2025→2026，无记录打开，0 回；收件 chuong@omnicomm.com.sg, victor@omnicomm.com.sg；主题多为「Industrial PoE Switch、24 Port PoE Managed Switch」；Elsa 箱：`to:omninet.com.vn OR to:omnicomm.com.sg` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 18 / 来 0）（第 74 批(n)））",
+   "type": "网络品牌商（新加坡/越南，自有标 Switch；官网待核）",
+   "sieve": "1（只收到群发）",
+   "stop": "18 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "新加坡 非主攻",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 18；用户表：「从国内买模块 Switch 自己的logo」；研究档 risks：官网快照为服务器默认页（站点待核）；非主攻区（T5）；8 次无回复 → 改向 Operations Manager 具名首触"
   },
-  "situation": "加拿大 Wirewerks（蒙特利尔结构化布线制造商：铜缆/光纤网络产品、数据中心、宽带；TIA 标准导向；表内「MC 自己的 logo；别人在卖他们的」「可以多跟进一下」；KP Carl Lindquist）；群发 10 次无回复。",
-  "need": "自有 logo MC → 工业千兆 MC STI-110GE（$24.3 @30%）；桌面 MC 用 HRUI（列表价，注明）；8 GE + 2 SFP 位 STC-28GM（HRUI 列表价，注明）",
-  "breakpoint": "主业结构化布线（Saga 不做）：MC 为副线，契合度低",
+  "situation": "新加坡 Omnicomm（omnicomm.com.sg；omninet.com.vn 为服务器默认页；表内「从国内买模块；Switch 自己的 logo」；KP Victor Tan（Operations Manager）、Chuong）；群发 8 次无回复。",
+  "need": "自有 logo 交换机 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；24 口 STC-424DGGPM-280W（$145.7）；光模块 Saga 不供（Q-32）",
+  "breakpoint": "官网快照为服务器默认页（站点待核）；非主攻区（T5）；8 次无回复 → 改向 Operations Manager 具名首触",
   "saga_now": {
-   "p1": "STI-110GE",
+   "p1": "STC-28DGGPM",
    "tier": 30,
-   "price": "换人再触锚价 STI-110GE $26.5 EXW（最近实报 SA-001 2025-11-27 $26.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-17 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-07-23 $300（48 Port PoE Managed Switch）、2025-10-15 $280（10G Enterprise SFP Switch）",
-   "why": "自有 logo MC → 工业千兆 MC STI-110GE（$24.3 @30%）；桌面 MC 用 HRUI（列表价，注明）；8 GE + 2 SFP 位 STC-28GM（HRUI 列表价，注明）。已打开的主题（1/20 封有打开记录）：「Managed Optical Bypass Switch」(2025-06-23) → 读者兴趣偏「旁路/Booster」；当前 P1 属「10G 汇聚/L3」，下一封按「旁路/Booster」给，不按 P1",
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-29 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-06-10 $300（48 Port PoE Managed Switch）、2025-08-08 $240（24 Port Fiber Switch）、2025-10-20 $280（10G Enterprise SFP Switch）、2026-06-15 $16000（32 Port 400GB DC Switch）",
+   "why": "自有 logo 交换机 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；24 口 STC-424DGGPM-280W（$145.7）；光模块 Saga 不供（Q-32）",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "2027-Q1（换人后）",
-   "channel": "A 邮箱 → 具名 KP",
-   "action": "换收件人再发一封（第 75 批(aa) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用）；STC-028GP/2216GPM/204GP/028GFP/28GM 为 HRUI，不写 Marvell）（第 75 批(ak) 2026-10-25：信稿复检修正——「DIN-rail or wall-mount,」→「DIN-rail,」）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
-   "one_question": "Carl, for the media converters offered under the Wirewerks label with your copper and fibre systems, we can supply gigabit MCs (industrial DIN/wall or desktop) and small SFP-uplink switches in your packaging from small lots, FCC/CE/RoHS — which MC configuration do your installer customers order most? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Victor, for the switches you sell under your own label alongside the optical modules you source from China, we can supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ models in your packaging from small lots, CE/RoHS — which configuration do your Singapore and Vietnam customers order most?"
   },
   "facts": [
    {
-    "date": "2026-09-04",
+    "date": "2026-09-22",
     "dir": "去",
     "who": "A/S 群发",
-    "quote": "Marvell Industrial Alert System、10G Enterprise SFP Switch",
-    "why": "20 封 / 1 次打开 / 0 回｜首封 2025-01-13 → 末封 2026-09-04（20 去 / 0 来）",
+    "quote": "Industrial PoE Switch、24 Port PoE Managed Switch",
+    "why": "18 封 / 0 次打开 / 0 回｜首封 2025-02-05 → 末封 2026-09-22（18 去 / 0 来）",
     "k": "gmail_digest"
    },
    {
     "date": "2026-10-21",
     "dir": "用户表",
     "who": "Simon",
-    "quote": "MC 自己的logo 别人在卖他们的",
+    "quote": "从国内买模块 Switch 自己的logo",
     "why": "表内备注",
     "k": "用户表"
-   },
-   {
-    "date": "2026-09-04",
-    "dir": "去",
-    "who": "A 箱（Alan）",
-    "quote": "16 Port Industrial PoE Switch",
-    "why": "本日去信真实主题（邮箱索引 75a6b43a9dd0e98b；信稿开头句引用此封；此前稿内写的「Marvell Industrial Alert System」是线程列表首题，不是本封）",
-    "k": "75a6b43a9dd0e98b"
    }
   ],
   "proof_gaps": [],
-  "draft_en": {
-   "subject": "Media converters under the Wirewerks label - next to the copper and fibre systems",
-   "body": "Hi Carl,\n\nOver the past months you had a few product mails from us - most recently \"16 Port Industrial PoE Switch\" on 4 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the media converters offered under the Wirewerks label with your copper and fibre systems, in your packaging from small lots, FCC/CE/RoHS: industrial Gigabit converter, DIN-rail, 1 x RJ45 + 1 x SFP slot (fixed SC optional), -40 to 75 C - model STI-110GE - $26.5 USD EXW (MOQ 1, 15-day validity); a small 8 x Gigabit + 2 x SFP-uplink switch for the same closets - STC-28GM - $61.2; desktop converters on request.\n\nOne question: which converter configuration do your installer customers order most - SFP-slot or fixed SC?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
-  },
+  "draft_en": null,
   "as_of": "2026-10-24"
  }
 }

@@ -1,182 +1,165 @@
 {
- "code": "SB-430",
- "name_official": "Comtech Associates（Karachi, Pakistan；comtech.net.pk；Cisco/Fortinet 合作伙伴、D-Link 分销伙伴）",
- "researched_at": "2026-10-21",
- "website_status": "在线",
- "summary": "卡拉奇 IT 基础设施集成商 Comtech Associates（2010 年成立；11–50 人；Cisco 认证合作伙伴（4 个徽章）、Fortinet 授权伙伴、D-Link 分销伙伴（交换机、Wi-Fi、监控）；网络、网络安全、数据中心、托管服务、定制软件；四地办公（Karachi/Lahore/Islamabad/Quetta）；客户含银行、电信、医疗、教育、工业与地产（CCTV/IoT）；Head Office Khadim Avenue Karachi / NASTP Shahrah-e-Faisal；+92 21 3440 4440；marketing@comtech.net.pk；ZoomInfo 电话 +92 335 287 6148 = 用户表 WhatsApp 号）。用户表（外贸邦）：闭路电视/安全；40 次跟进无回复；WhatsApp 已加。",
- "type": "",
- "size": "",
- "brands_seen": [
-  "Cisco",
-  "D-Link",
-  "Fortinet"
- ],
- "evidence": [
-  {
-   "kind": "官网",
-   "claim": "合作伙伴与业务",
-   "quote": "Comtech Associates is a certified Cisco partner providing networking, cybersecurity, data center, and managed IT solutions across Pakistan. … +92 213 4404440 … The Hive 3rd Floor, NASTP Faisal Cantonment Main shahrah e faisal, Karachi.",
-   "url": "https://comtech.net.pk/",
-   "date": "2026-09-23"
-  },
-  {
-   "kind": "官网",
-   "claim": "D-Link 分销伙伴",
-   "quote": "As a D-Link distributor partner in Pakistan, Comtech deploys D-Link switches, the D-Link Eagle Pro AI Wi-Fi range, and D-Link surveillance solutions",
-   "url": "https://comtech.net.pk/our-technology-partners/",
-   "date": "2025-10-17"
-  },
-  {
-   "kind": "官网",
-   "claim": "行业客户含工业/地产 CCTV",
-   "quote": "• Industrial & Real Estate – CCTV, IoT integration, and remote asset access",
-   "url": "https://comtech.net.pk/networking-support-services/",
-   "date": "2025-08-06"
-  },
-  {
-   "kind": "LinkedIn",
-   "claim": "规模与成立",
-   "quote": "Comtech Associate … Company size: 11-50 employees … Headquarters: karachi, sindh … Founded: 2010",
-   "url": "https://pk.linkedin.com/company/comtech-one-solution",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "名录",
-   "claim": "电话 = 用户表 WA 号",
-   "quote": "Comtech's phone number is +92 3352876148",
-   "url": "https://www.zoominfo.com/c/comtech/470605669",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "闭路电视安全；40 次跟进；WA 已加",
-   "quote": "闭路电视 安全 网站：没啥特别相关的东西 / 92 335-28 76148 已加 / 外贸邦",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "（姓名未记录；WA 号 +92 335 287 6148）",
-   "role": "（待核）",
-   "email": "marketing@comtech.net.pk（官网公开）",
-   "phone": "+92 335 287 6148（用户表 WA = ZoomInfo 公司电话）",
-   "source": "https://www.zoominfo.com/c/comtech/470605669"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网 + 名录核对）"
- },
- "company_facts": {
-  "legal_name": "Comtech Associates（Pvt.）Ltd.（全称待核）",
-  "founded": "2010（LinkedIn）",
-  "hq": "Office 53/3 Sheet 17 Khadim Avenue, Karachi；The Hive 3rd Floor, NASTP, Shahrah-e-Faisal（+92 21 3440 4440 / 4441；+92 331 114 4220；marketing@comtech.net.pk）",
-  "size": "11–50（LinkedIn）",
-  "other": "Cisco / Fortinet / D-Link 伙伴；24/7 SOC；四城办公"
- },
- "business_lines": [
-  "网络基础设施集成（Cisco、D-Link）",
-  "网络安全（Fortinet、托管 SOC）",
-  "数据中心/云、托管 IT、软件"
- ],
- "channels": {
-  "网站": "https://comtech.net.pk/",
-  "电话": "+92 21 3440 4440（公开）；WhatsApp +92 335 287 6148（用户表，已加）",
-  "邮箱（公开）": "marketing@comtech.net.pk"
- },
- "signals": [
-  "D-Link 分销伙伴 + 工业/地产 CCTV/IoT 项目 → 无品牌 PoE 作「预算层」补位；40 次推送无回复 → 改 WhatsApp 短消息 + 单一问题"
- ],
- "risks": [
-  "Cisco 文化（品牌偏好）；南亚非主攻区；无回复"
- ],
- "saga_fit": {
-  "p1": "STC-424DGGPM-280W",
-  "tier": 25,
-  "why": "集成 25% 档：STC-424DGGPM-280W（24 GE PoE+ 4 SFP L2+，280 W，$140.1）作 CCTV/IoT 接入层；8 口 STC-28DGGPM（$84.1）"
- },
- "email_hook": "Hello Comtech team, for the CCTV/IoT layer of your industrial and real-estate projects where Cisco is over-spec: 24× GbE PoE+ (280 W) + 4× SFP L2+ at $140.1 EXW, 8-port at $84.1, neutral packing — would a single evaluation unit be useful for your next site?",
- "mail_review": {
-  "binding": {
-   "level": "轻度触达（邮件无证，WhatsApp/WeChat 已加）：用户表「闭路电视 安全 网站：没啥特别相关的东西 / 92 335-28 76148 已加 / 外贸邦」；S/A 邮箱 0 封；Elsa 箱：`to:comtech.net.pk` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(n)）",
-   "type": "—",
-   "sieve": "3（已加 WhatsApp，表内有往来）",
-   "stop": "仓库只有用户表一行；往来在 Simon 手机",
-   "revive": "首封邮件（A 邮箱，按 email_hook）+ WhatsApp 一句话",
-   "lane": "巴基斯坦 非主攻",
-   "cadence": "一封",
-   "evidence": "gmail_digest：out 0；用户表：「闭路电视 安全 网站：没啥特别相关的东西 / 92 335-28 76148 已加 / 外贸邦」；研究档 risks：Cisco 文化（品牌偏好）；南亚非主攻区；无回复"
-  },
-  "situation": "卡拉奇 IT 基础设施集成商 Comtech Associates（2010 年成立；11–50 人；Cisco 认证合作伙伴（4 个徽章）、Fortinet 授权伙伴、D-Link 分销伙伴（交换机、Wi-Fi、监控）；网络、网络安全、数据中心、托管服务、定制软件；四地办公（Karachi/Lahore/Islamabad/Quetta）；客户含银行、电信、医疗、教育、工业与地产（CCTV/IoT）；Head Office Khadim Avenue Karachi / NASTP Shahrah-e-Faisal；+92 21 3440 4440；marketing@comtech.net.pk；ZoomInfo 电话 +92 335 287 6148 = 用户表 WhatsApp 号）。用户表（外贸邦）：闭路电视/安全；40 次跟进无回复；WhatsApp 已加。",
-  "need": "集成 25% 档：STC-424DGGPM-280W（24 GE PoE+ 4 SFP L2+，280 W，$140.1）作 CCTV/IoT 接入层；8 口 STC-28DGGPM（$84.1）",
-  "breakpoint": "Cisco 文化（品牌偏好）；南亚非主攻区；无回复",
-  "saga_now": {
-   "p1": "STC-424DGGPM-280W",
-   "tier": 25,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "集成 25% 档：STC-424DGGPM-280W（24 GE PoE+ 4 SFP L2+，280 W，$140.1）作 CCTV/IoT 接入层；8 口 STC-28DGGPM（$84.1）",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "2026-11（Simon）",
-   "channel": "A 邮箱首封 + WhatsApp（Simon）",
-   "action": "首封 + 一句话",
-   "one_question": "Hello Comtech team, for the CCTV/IoT layer of your industrial and real-estate projects where Cisco is over-spec: 24× GbE PoE+ (280 W) + 4× SFP L2+ at $140.1 EXW, 8-port at $84.1, neutral packing — would a single evaluation unit be useful for your next site?"
-  },
-  "facts": [
-   {
-    "date": "2021-03-18",
-    "dir": "来",
-    "who": "用户表（Simon 跟进记录；渠道 WhatsApp）",
-    "quote": "用户表跟进：推「发了网站 VC图 问是否有用」→ 对方「wait pls  不知道他想说啥」",
-    "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
-    "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.104 2021.3.18"
-   },
-   {
-    "date": "2021-04-06",
-    "dir": "来",
-    "who": "用户表（Simon 跟进记录；渠道 WhatsApp）",
-    "quote": "用户表跟进：推「发了POE switch价格 图」→ 对方「回复了Ok 问能否运送到India」",
-    "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
-    "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.104 2021.4.6"
-   },
-   {
-    "date": "2021-08-12",
-    "dir": "来",
-    "who": "用户表（Simon 跟进记录；渠道 WhatsApp）",
-    "quote": "用户表跟进：推「发了mini小壳图 价格」→ 对方「问了一个NVR 提供不了」",
-    "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
-    "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.104 2021.8.12"
-   },
-   {
-    "date": "2022-08-11",
-    "dir": "来",
-    "who": "用户表（Simon 跟进记录；渠道 WhatsApp）",
-    "quote": "用户表跟进：推「发了8路高清图 阿里链接」→ 对方「问了其他的产品 提供不了」",
-    "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
-    "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.104 2022.8.11"
-   },
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "闭路电视 安全 网站：没啥特别相关的东西 / 92 335-28 76148 已加 / 外贸邦",
-    "why": "表内备注",
-    "k": "用户表"
-   }
+  "code": "SB-430",
+  "name_official": "Компания «МОДУЛЬ»（module-ltd.ru / pro-tek.pro，St. Petersburg, Russia；电信设备供应与集成）",
+  "researched_at": "2026-10-21",
+  "website_status": "在线",
+  "summary": "圣彼得堡电信设备供应商/集成商 «Модуль»（供应 GPON、以太网交换机（Eltex MES 系列、PLANET MGSD-10080F 等）、VoIP 网关、MSAN、Softswitch/IMS；项目案例：圣彼得堡田径学院局域网、ГУ МВД（内务部总局）、Пирогов 国家医疗外科中心；pro-tek.pro 为其订货站 zakaz@pro-tek.pro）。用户表：SFP、MC、商用 Switch（TP-Link 为主也有其他品牌）、CCTV networking；一封邮件发不过去（bounce）。在售 PLANET 与 Eltex → Saga 同口型低价替代；内务部项目 → 守界按个案。",
+  "type": "",
+  "size": "",
+  "brands_seen": [
+    "Eltex（在售）",
+    "PLANET（在售）",
+    "TP-Link（在售）"
   ],
-  "proof_gaps": [
-   "WhatsApp 往来未入库"
+  "evidence": [
+    {
+      "kind": "官网",
+      "claim": "在售交换机品牌与型号",
+      "quote": "Ethernet-коммутатор доступа MES1124MB Артикул:Eltex MES1124 … MES2124P … MES3108F … 13\" 8-Port 100/1000Base-X SFP + 2-Port 10/100/1000Base-T L2/L4 Managed Metro Ethernet Switch (AC+2 DC, DIDO) Артикул:MGSD-10080F",
+      "url": "http://www.module-ltd.ru/products/ethernet_kommutatory/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网",
+      "claim": "业务与项目案例",
+      "quote": "Мы — надёжный поставщик телекоммуникационного оборудования для построения сетей связи: GPON, Ethernet-коммутаторы, VoIP-шлюзы, MSAN, Softswitch & IMS … ЛВС Академии легкой атлетики Санкт-Петербурга … ГУ МВД России по городу Санкт-Петербургу … ФГБУ «НМХЦ им. Н.И. Пирогова»",
+      "url": "https://module-ltd.ru/",
+      "date": "2024-06-04"
+    },
+    {
+      "kind": "用户表",
+      "claim": "SFP/MC/商用 Switch；TP-Link 为主；一邮箱退信",
+      "quote": "SFP MC 商业Switch TPlink为主 也有其他的牌子 / SFP switch等 发不过去 / switch CCTV networking等",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "draft_en": {
-   "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
-   "body": "Hello Comtech team, for the CCTV/IoT layer of your industrial and real-estate projects where Cisco is over-spec: 24× GbE PoE+ (280 W) + 4× SFP L2+ at $140.1 EXW, 8-port at $84.1, neutral packing — would a single evaluation unit be useful for your next site?"
+  "kp": [],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（官网核对）"
   },
-  "as_of": "2026-10-24"
- }
+  "company_facts": {
+    "legal_name": "ООО «Модуль»（全称待核）",
+    "hq": "Санкт-Петербург",
+    "size": "中小型",
+    "other": "供应 Eltex、PLANET；政府/医疗项目"
+  },
+  "business_lines": [
+    "电信设备供应（GPON、交换机、VoIP、MSAN）",
+    "局域网设计与安装项目"
+  ],
+  "products_seen": [
+    {
+      "brand": "PLANET",
+      "model": "MGSD-10080F",
+      "spec": "8×100/1000 SFP + 2×GE L2/L4 管理 Metro（AC+2 DC，DIDO）",
+      "saga": "无 8 SFP 同口型；近似 STC-28GPM（2 SFP + 8 GE，$62.2）",
+      "url": "http://www.module-ltd.ru/products/ethernet_kommutatory/",
+      "date": "2026-10-21"
+    },
+    {
+      "brand": "Eltex",
+      "model": "MES2124P / MES1124M / MES3108F",
+      "spec": "接入/汇聚交换机（PoE 24 口等）",
+      "saga": "STC-424DGGPM-280W（$140.1）/ STC-424XGGM（$132.7）",
+      "url": "http://www.module-ltd.ru/products/ethernet_kommutatory/",
+      "date": "2026-10-21"
+    }
+  ],
+  "channels": {
+    "网站": "https://module-ltd.ru/ · http://www.module-ltd.ru/products/ethernet_kommutatory/",
+    "邮箱": "info@module-ltd.ru / zakaz@pro-tek.pro（用户表；其一曾退信）"
+  },
+  "signals": [
+    "在售 PLANET + Eltex → 同口型低价线可补「预算项目」；CCTV networking 需求"
+  ],
+  "risks": [
+    "俄罗斯结算；一邮箱退信（改用另一邮箱）；政府（МВД）项目守界按个案"
+  ],
+  "saga_fit": {
+    "p1": "STC-424DGGPM-280W",
+    "tier": 25,
+    "why": "集成 25% 档：STC-424DGGPM-280W（24 GE PoE+ 4 SFP L2+，$140.1）对位 Eltex MES2124P；8 口 STC-28GPM（$62.2）；10G 上联 STC-424XGGM（$132.7）"
+  },
+  "email_hook": "Здравствуйте, рядом с Eltex MES2124P и PLANET в вашем каталоге: 24 GbE PoE+ (280 Вт) + 4 SFP L2+ — 140,1 USD EXW, 2 SFP + 8 GbE PoE L2 — 62,2 USD, нейтральная упаковка, расчёт в CNY. Для каких объектов (ЛВС, видеонаблюдение) вам чаще нужен бюджетный вариант?",
+  "mail_review": {
+    "binding": {
+      "level": "Elsa 群发 BCC 已触达 2026-08-21「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，IS/SE/BG/RU/LT 批次 To icecom@icecom.is，0 回（第 73 批(o) Bcc 头核对 msg 1a023557cf116242）；另在俄罗斯-4（锚 soyuzsp.ru，13 轮）批 Bcc 名单里（2025-12-15 Booster PoE、2026-08-26 24-PoE 两头已读；第 74 批(l) msg 1a03cf9d14adefe7 / 19b20b39b421f4ce）；S/A 箱：S/A 邮箱均无往来；来源：用户表「SFP MC 商业Switch TPlink为主 也有其他的牌子 / SFP switch等 发不过去 / switch」",
+      "type": "—",
+      "sieve": "—（未入筛）",
+      "stop": "Elsa 群发 BCC 触达过（最近 2026-08-21）无回；S/A 箱从未单独发过",
+      "revive": "不动（Q-33 供应商渠道客户）",
+      "lane": "RU 次级（Simon 2026-08 点名）",
+      "cadence": "不动",
+      "evidence": "gmail_digest：out 0；用户表：「SFP MC 商业Switch TPlink为主 也有其他的牌子 / SFP switch等 发不过去 / switch CCTV networking等」；研究档 risks：俄罗斯结算；一邮箱退信（改用另一邮箱）；政府（МВД）项目守界按个案；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To icecom@icecom.is）2025-03-05→2026-08-21 共 14 轮群发（Mini Industrial PoE Switch、Marvell Alleycat5 Solution、16 Port Ethernet Switch、10G Media Converter、8 Port Industrial PoE Switch、Industrial PoE Switch、10G Enterprise SFP Switch、Booster PoE Switch、OEM Core Switching Solution、Updated Ethernet Switches Links、Marvell Managed Commercial Switches、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断；同批次（To sales@soyuzsp.ru）2025-12-15→2026-08-26 共 5 轮群发（Booster PoE Switch、OEM Core Switching Solution、Updated Ethernet Switches Links、Marvell Managed Commercial Switches、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断；该批次最早 2025-02-20 起共 13 轮，更早轮次 Bcc 未读"
+    },
+    "situation": "圣彼得堡电信设备供应商/集成商 «Модуль»（供应 GPON、以太网交换机（Eltex MES 系列、PLANET MGSD-10080F 等）、VoIP 网关、MSAN、Softswitch/IMS；项目案例：圣彼得堡田径学院局域网、ГУ МВД（内务部总局）、Пирогов 国家医疗外科中心；pro-tek.pro 为其订货站 zakaz@pro-tek.pro）。用户表：SFP、MC、商用 Switch（TP-Link 为主也有其他品牌）、CCTV networking；一封邮件发不过去（bounce）。在售 PLANET 与 Eltex → Saga 同口型低价替代；内务部项目 → 守界按个案。",
+    "need": "集成 25% 档：STC-424DGGPM-280W（24 GE PoE+ 4 SFP L2+，$140.1）对位 Eltex MES2124P；8 口 STC-28GPM（$62.2）；10G 上联 STC-424XGGM（$132.7）",
+    "breakpoint": "俄罗斯结算；一邮箱退信（改用另一邮箱）；政府（МВД）项目守界按个案",
+    "saga_now": {
+      "p1": "STC-424DGGPM-280W",
+      "tier": 25,
+      "price": "按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-26 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 2 轮 2026-08-21→2026-08-26；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
+      "why": "集成 25% 档：STC-424DGGPM-280W（24 GE PoE+ 4 SFP L2+，$140.1）对位 Eltex MES2124P；8 口 STC-28GPM（$62.2）；10G 上联 STC-424XGGM（$132.7）",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "不动",
+      "channel": "—",
+      "action": "—",
+      "one_question": ""
+    },
+    "facts": [
+      {
+        "date": "2025-03-05",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To icecom@icecom.is，IS/SE/BG/RU/LT 批次）",
+        "quote": "Mini Industrial PoE Switch — This is about our MINI Din unmanaged switches for you. 1. 100/1000M auto-adaptive SFP fiber 2. support DIP for flexible configuration 3. PoE optional,",
+        "why": "Elsa 箱群发 BCC 触达证据（命中地址 info@module-ltd.ru, module-ltd.ru）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+        "k": "elsa_bcc"
+      },
+      {
+        "date": "2025-12-15",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To sales@soyuzsp.ru，俄罗斯-4（锚 soyuzsp.ru；2025-02-20 起月轮，13 轮） 批次）",
+        "quote": "Booster PoE Switch — This is about our Marvell based managed switch with power boosting feature. 1, Fiber: 4*100M/1G/2.5G/10G 2, Copper: 8*1G RJ45/PoE, max 240W budget 3, ",
+        "why": "Elsa 箱群发 BCC 触达证据（命中地址 pro-tek.pro, zakaz@pro-tek.pro）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+        "k": "elsa_bcc"
+      },
+      {
+        "date": "2026-08-21",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To icecom@icecom.is，IS/SE/BG/RU/LT 批次）",
+        "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
+        "why": "Elsa 箱群发 BCC 触达证据（命中地址 info@module-ltd.ru, module-ltd.ru）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+        "k": "elsa_bcc"
+      },
+      {
+        "date": "2026-08-26",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To sales@soyuzsp.ru，俄罗斯-4（锚 soyuzsp.ru；2025-02-20 起月轮，13 轮） 批次）",
+        "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
+        "why": "Elsa 箱群发 BCC 触达证据（命中地址 pro-tek.pro, zakaz@pro-tek.pro）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+        "k": "elsa_bcc"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "SFP MC 商业Switch TPlink为主 也有其他的牌子 / SFP switch等 发不过去 / switch CCTV networking等",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [
+      "无邮件往来"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-25"
+  }
 }

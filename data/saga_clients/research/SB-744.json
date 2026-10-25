@@ -1,117 +1,131 @@
 {
- "code": "SB-744",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（troyykontrol.com，快照 2026-10-21）",
- "summary": "土耳其 Troyy Kontrol（指纹/刷卡门禁、人脸识别考勤 PDKS、闸机、停车道闸、手持探测器与安防系统）；表内 1 次跟进无回复。",
- "type": "门禁/考勤系统商（土耳其，PoE 为配套）",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：Troyy Kontrol | Parmak izi Okuyucu | Turnike Sistemleri；品类词 光纤 / 媒体转换",
-   "quote": "Parmak izi okuyucu kartlı geçiş sistemi yüz tanıma personel takip sistemi pdks turnike sistemleri, otopark bariyer ve üst arama dedektörleri, güvenlik sistemleri",
-   "url": "https://www.troyykontrol.com/guvenliksistemleri/index.aspx",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "Troyy 定位",
-   "quote": "Troyy Kontrol | Parmak izi Okuyucu | Turnike Sistemleri ; kartlı geçiş sistemi yüz tanıma personel takip sistemi pdks",
-   "url": "https://www.troyykontrol.com/guvenliksistemleri/index.aspx",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "土耳其",
-  "other": "官网 troyykontrol.com，语言 ?，快照状态 ok；角色判定来源：官网文案"
- },
- "business_lines": [
-  "门禁 / 考勤 / 闸机 / 道闸（土耳其）"
- ],
- "channels": {
-  "role": "门禁/考勤系统商（土耳其，PoE 为配套）",
-  "region": "土耳其",
-  "contact": "info@troyykontrol.com"
- },
- "signals": [
-  "官网：Troyy Kontrol | Parmak izi Okuyucu | Turnike Sistemleri ; Parmak izi okuyucu kartlı geçiş sistemi yüz tanıma personel takip sistemi pdks turnike sistemleri, otopark bariyer",
-  "表内：无兴趣备注"
- ],
- "risks": [
-  "PoE 为配套（量小）；土耳其汇率敏感；1 次无回复，仅 info@"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 25,
-  "why": "门禁/闸机配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、工业 4 PoE + 1 SFP STI-154GP（$39.2）"
- },
- "email_hook": "For the PoE switches behind your access-control terminals, turnstiles and car-park barriers, we supply Marvell-based 8-PoE + 2 SFP L2+ and compact industrial 4-PoE units from single units, CE/RoHS, EXW USD — which PoE port count do your installations use most?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A 邮箱 4 封 2025→2026，无记录打开，0 回；收件 info@troyykontrol.com；主题多为「10G Enterprise SFP Switch、Booster PoE Switch」；Elsa 箱：`to:troyykontrol.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 4 / 来 0）（第 74 批(i)））",
-   "type": "门禁/考勤系统商（土耳其，PoE 为配套）",
-   "sieve": "1（只收到群发）",
-   "stop": "只打通用邮箱，无记录打开",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "TR 主攻（四主）",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 4；研究档 risks：PoE 为配套（量小）；土耳其汇率敏感；1 次无回复，仅 info@"
-  },
-  "situation": "土耳其 Troyy Kontrol（指纹/刷卡门禁、人脸识别考勤 PDKS、闸机、停车道闸、手持探测器与安防系统）；表内 1 次跟进无回复。",
-  "need": "门禁/闸机配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、工业 4 PoE + 1 SFP STI-154GP（$39.2）",
-  "breakpoint": "PoE 为配套（量小）；土耳其汇率敏感；1 次无回复，仅 info@",
-  "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 25,
-   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-28 $280（10G Enterprise SFP Switch）",
-   "why": "门禁/闸机配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、工业 4 PoE + 1 SFP STI-154GP（$39.2）",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
-   "one_question": "For the PoE switches behind your access-control terminals, turnstiles and car-park barriers, we supply Marvell-based 8-PoE + 2 SFP L2+ and compact industrial 4-PoE units from single units, CE/RoHS, EXW USD — which PoE port count do your installations use most?"
-  },
-  "facts": [
-   {
-    "date": "2025-10-28",
-    "dir": "去",
-    "who": "A 箱（Alan）",
-    "quote": "10G Enterprise SFP Switch",
-    "why": "首封去信（邮箱索引；去信共 4 封）",
-    "k": "045f15eefdb56c9c"
-   },
-   {
-    "date": "2026-03-05",
-    "dir": "去",
-    "who": "A 群发",
-    "quote": "10G Enterprise SFP Switch、Booster PoE Switch",
-    "why": "4 封 / 0 次打开 / 0 回｜首封 2025-10-28 → 末封 2026-03-05（4 去 / 0 来）",
-    "k": "gmail_digest"
-   },
-   {
-    "date": "2026-03-05",
-    "dir": "去",
-    "who": "A 箱（Alan）",
-    "quote": "Updated Ethernet Switches Links",
-    "why": "最近一封去信（邮箱索引；去信共 4 封）",
-    "k": "19ead8b62050213a"
-   }
+  "code": "SB-744",
+  "name_official": "COMMANDO Networks（美国）",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（commandonetworks.com，快照 2026-10-21）",
+  "summary": "美国网络硬件品牌 COMMANDO（交换、路由、无线、AP、MC、SFP、PoE 注入器、光缆；switch 90 / poe 78 / sfp 44 / industrial 29），info@；表内「Cisco switch MC SFP 工业 FS；北京 / 深圳有办事处；可多跟进」；群发 9 次无回复。自有品牌（中国办事处直采）→ OEM 30%，贸易商空间有限。",
+  "type": "",
+  "size": "",
+  "brands_seen": [
+    "COMMANDO（自有）",
+    "Cisco"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "网络硬件品牌：交换、路由、无线、AP、MC、SFP、PoE 注入器、光缆",
+      "quote": "COMMANDO is a technology company focused on networking hardware… Switching Routing Wireless Network Accessories, Access Points, Media Converters, SFP Modules, PoE Injectors",
+      "url": "https://commandonetworks.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "Cisco switch MC SFP 工业 FS；北京 深圳有办事处；可以尝试多跟进一下",
+      "quote": "兴趣：Cisco switch MC SFP 工业FS 北京 深圳有办事处",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [
+    {
+      "name": "（未具名）",
+      "title": "",
+      "email": "info@commandonetworks.com",
+      "phone": "",
+      "source": "（本地 Clients/ 表格，无公开 URL）"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（官网快照核对 + 表内）"
+  },
+  "company_facts": {
+    "legal_name": "COMMANDO Networks（待核）",
+    "founded": "",
+    "hq": "USA（北京 / 深圳办事处）",
+    "size": "中小型品牌商",
+    "other": "中国办事处直采"
+  },
+  "business_lines": [
+    "网络硬件（自有品牌全线）"
+  ],
+  "channels": {
+    "role": "品牌商（OEM 直采）",
+    "region": "美国"
+  },
+  "signals": [
+    "全线贴牌 → 工业 FS / MC 补 SKU"
+  ],
+  "risks": [
+    "有深圳办事处 → 可能直接对接原厂，贸易商空间有限",
+    "美国：常要求 UL 列名（Saga 无 UL，仅 FCC/CE）→ 首触即说明"
+  ],
+  "saga_fit": {
+    "p1": "STI-288GPM",
+    "tier": 30,
+    "why": "工业管理 PoE 补 SKU → STI-288GPM（$85.5 @30%）贴 COMMANDO 标。"
+  },
+  "email_hook": "For the COMMANDO industrial switch line — Marvell-based DIN managed 8-PoE + 2-SFP under your label from small lots; since you have a Shenzhen office, happy to host your team at the factory for a line audit.",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A/S 邮箱 14 封 2025→2026，无记录打开，0 回；收件 info@commandonetworks.com；主题多为「Managed Optical Bypass Switch、16 Port PoE Managed Switch」）；Elsa 1:1 去信 1 封（2025-02-25「10G Media Converter」；To 仅本户 info@commandonetworks.com；Bcc 未逐封读头；同类名单抽读 24 封均无 Bcc；此后再未进 Elsa 任何名单——全箱 `from:e.sagatelecom to:info@commandonetworks.com` 仅此 1 条，complete）（第 74 批(m)）",
+      "type": "—",
+      "sieve": "1（只收到群发）",
+      "stop": "只打通用邮箱，无记录打开",
+      "revive": "保持季度群发到 2027-Q1；无打开即停",
+      "lane": "US 主攻（四主）",
+      "cadence": "季度",
+      "evidence": "gmail_digest：out 14；用户表：「兴趣：Cisco switch MC SFP 工业FS 北京 深圳有办事处」；研究档 risks：有深圳办事处 → 可能直接对接原厂，贸易商空间有限"
+    },
+    "situation": "美国网络硬件品牌 COMMANDO（交换、路由、无线、AP、MC、SFP、PoE 注入器、光缆；switch 90 / poe 78 / sfp 44 / industrial 29），info@；表内「Cisco switch MC SFP 工业 FS；北京 / 深圳有办事处；可多跟进」；群发 9 次无回复。自有品牌（中国办事处直采）→ OEM 30%，贸易商空间有限。",
+    "need": "工业管理 PoE 补 SKU → STI-288GPM（$85.5 @30%）贴 COMMANDO 标。",
+    "breakpoint": "有深圳办事处 → 可能直接对接原厂，贸易商空间有限",
+    "saga_now": {
+      "p1": "STI-288GPM",
+      "tier": 30,
+      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-09-30 $280（10G Enterprise SFP Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-02-25 $65（10G Media Converter = 10G 媒体转换器，Elsa 箱 1 轮 2025-02-25；Simon 实报就是 $65）",
+      "why": "工业管理 PoE 补 SKU → STI-288GPM（$85.5 @30%）贴 COMMANDO 标。",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "群发节奏",
+      "channel": "A 邮箱",
+      "action": "首封前知悉：Elsa 仅 2025-02-25 单发过 1 封「10G Media Converter」，之后没再碰他（第 74 批(m)）；观察打开",
+      "one_question": "For the COMMANDO industrial switch line — Marvell-based DIN managed 8-PoE + 2-SFP under your label from small lots; since you have a Shenzhen office, happy to host your team at the factory for a line audit."
+    },
+    "facts": [
+      {
+        "date": "2025-02-25",
+        "dir": "out",
+        "who": "Elsa → info@commandonetworks.com",
+        "quote": "10G Media Converter（Elsa 1:1 单发；To 仅本户，非 BCC 批次；正文价 65usd/pc，第 74 批(p) 读稿 msg 19501dcc2221e96f）",
+        "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
+        "k": "elsa_1to1",
+        "msg_id": "195391da8b94ccb6"
+      },
+      {
+        "date": "2026-02-11",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "Managed Optical Bypass Switch、16 Port PoE Managed Switch",
+        "why": "14 封 / 0 次打开 / 0 回｜首封 2025-01-20 → 末封 2026-02-11（14 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "兴趣：Cisco switch MC SFP 工业FS 北京 深圳有办事处",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

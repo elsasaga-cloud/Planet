@@ -1,162 +1,135 @@
 {
-  "code": "SB-494",
-  "name_official": "",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（elimopt.co.kr，快照 2026-10-21）",
-  "summary": "韩国 엘림광통신 Elim Optical Communication（网络设备/光传输设备：自有 EL-G48E6TG-POE / G24E4G-POE / G16E2G-POE / G8E4G-POE / PG8E2G-BP（bypass）PoE 交换机；表内「FS / 工业 FS / MC / AHD / SDI；VC 是大头，自己的 logo」「质量高」「一些销售平台也在卖他们的产品」）；群发 23 次无回复。",
-  "type": "韩国网络/光传输自有品牌商（PoE 全系贴标，OEM 采购）",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "官网标题：엘림광통신；品类词 安防监控（CCTV / 门禁） / 光纤 / 媒体转换 / 网络交换 / PoE",
-      "quote": "엘림광통신",
-      "url": "https://elimopt.co.kr/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "FS 工业FS MC AHD SDI VC是大头 自己的logo；一些销售平台也在卖他们的产品",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网快照",
-      "claim": "엘림광통신 站点",
-      "quote": "엘림광통신 ; 네트워크 장비/광전송 장비 ; 솔루션 ; EL-G48E6TG-POE ; G24E4G-POE",
-      "url": "https://elimopt.co.kr/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "VC 大头 自己的 logo",
-      "quote": "FS 工业FS MC AHD SDI VC是大头 自己的logo；一些销售平台也在卖他们的产品",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ "code": "SB-494",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（teleone.com.tr，快照 2026-10-21）",
+ "summary": "土耳其 Teleone（「Think bigger, make better」视频监控方案商：热成像体温测量方案、客户案例；表内「Utepo」）；表内 2 次跟进无回复。",
+ "type": "视频监控方案商（土耳其，PoE 现 Utepo）",
+ "size": "",
+ "brands_seen": [
+  "Utepo"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Teleone: Think bigger, make better – Video Surveillance Solution Provider",
+   "quote": "Think bigger, make better",
+   "url": "https://www.teleone.com.tr/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "hq": "韩国",
-    "other": "官网 elimopt.co.kr，语言 ko，快照状态 ok；角色判定来源：用户表"
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "Utepo",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "网络设备 / 光传输设备（自有品牌 Elim）"
-  ],
-  "channels": {
-    "role": "韩国网络/光传输自有品牌商（PoE 全系贴标，OEM 采购）",
-    "region": "韩国",
-    "contact": "h0824@elimopt.co.kr、khs10623@elimopt.co.kr"
+  {
+   "kind": "官网快照",
+   "claim": "Teleone 定位",
+   "quote": "Teleone: Think bigger, make better – Video Surveillance Solution Provider",
+   "url": "https://www.teleone.com.tr/",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "站内 EL-G48E6TG-POE / G24E4G-POE / G16E2G-POE / G8E4G-POE / PG8E2G-BP；kw poe 31 / cctv 11",
-    "表内：VC 是大头 自己的 logo；一些销售平台也在卖他们的产品；质量高"
-  ],
-  "risks": [
-    "非主攻区（T5，韩国）；KC 认证由客户申报；23 次无回复，无具名 KP",
-    "现代工（深圳）价格基准低；VC 为其大头"
-  ],
-  "saga_fit": {
-    "p1": "STC-424DGGPM-280W",
-    "tier": 30,
-    "why": "自有 G24E4G-POE（24 PoE + 4 SFP）→ STC-424DGGPM-280W（$145.7 @30%）；G8E4G-POE 位 STC-28DGGPM；48 口位 STC-448XGGPM；bypass 型（PG8E2G-BP）→ SmartByte LT-IS6312GP-4GX8GT-FBP（注明）"
-  },
-  "email_hook": "For the EL-G series PoE switches (G8E4G-POE up to G48E6TG-POE), we can be a second ODM source on a Marvell L2+ platform (8/24/48-PoE with SFP/10G uplinks) from small lots in your housing, CE/RoHS; KC by your side — which model do you reorder most often?",
-  "products_seen": [
-    {
-      "brand": "Elim（自有）",
-      "model": "G24E4G-POE",
-      "spec": "24 PoE + 4 SFP",
-      "saga": "STC-424DGGPM-280W",
-      "url": "https://elimopt.co.kr/",
-      "date": "2026-10-21"
-    },
-    {
-      "brand": "Elim（自有）",
-      "model": "G8E4G-POE",
-      "spec": "8 PoE + 4 上联",
-      "saga": "STC-28DGGPM",
-      "url": "https://elimopt.co.kr/",
-      "date": "2026-10-21"
-    },
-    {
-      "brand": "Elim（自有）",
-      "model": "PG8E2G-BP",
-      "spec": "8 PoE bypass",
-      "saga": "SmartByte LT-IS6312GP-4GX8GT-FBP（注明）",
-      "url": "https://elimopt.co.kr/",
-      "date": "2026-10-21"
-    }
-  ],
-  "mail_review": {
-    "binding": {
-      "level": "读而不回（A/S 邮箱 34 封 2024→2026，其中 2 封被打开，0 回；收件 h0824@elimopt.co.kr, khs10623@elimopt.co.kr；被打开主题「Industrial PoE Switch、Managed Optical Bypass Switch」）；Elsa 1:1 去信 1 封（2025-02-14「10G Media Converter」；To 仅本户 h0824@elimopt.co.kr / khs10623@elimopt.co.kr；头 msg 19501dcc2221e96f 核对无 Bcc，称呼「Hi, Hyun」= 个性化逐月 1:1 名单（名字可来自名单，不等于回过信）；头文摘要可见 Price: 65usd/pc（10G 收发器，2025-02 旧汇率）；0 回（Elsa 箱 Replied 索引 + 第 73 批真人来信逐户比对均无此户）；此后再未进 Elsa 任何名单——全箱 `from:e.sagatelecom to:elimopt.co.kr` 仅此 1 条，complete）（第 74 批(n)）",
-      "type": "韩国网络/光传输自有品牌商（PoE 全系贴标，OEM 采购）",
-      "sieve": "2（有人在读，无人回）",
-      "stop": "读而不回 = 内容未命中或没有当下需求",
-      "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
-      "lane": "KR 次级（点名）",
-      "cadence": "一封；回了再说",
-      "evidence": "gmail_digest：out 34，Opened 标签 2（Simon 群发追踪）；用户表：「FS 工业FS MC AHD SDI VC是大头 自己的logo；一些销售平台也在卖他们的产品」；研究档 risks：非主攻区（T5，韩国）；KC 认证由客户申报；23 次无回复，无具名 KP"
-    },
-    "situation": "韩国 엘림광통신 Elim Optical Communication（网络设备/光传输设备：自有 EL-G48E6TG-POE / G24E4G-POE / G16E2G-POE / G8E4G-POE / PG8E2G-BP（bypass）PoE 交换机；表内「FS / 工业 FS / MC / AHD / SDI；VC 是大头，自己的 logo」「质量高」「一些销售平台也在卖他们的产品」）；群发 23 次无回复。",
-    "need": "自有 G24E4G-POE（24 PoE + 4 SFP）→ STC-424DGGPM-280W（$145.7 @30%）；G8E4G-POE 位 STC-28DGGPM；48 口位 STC-448XGGPM；bypass 型（PG8E2G-BP）→ SmartByte LT-IS6312GP-4GX8GT-FBP（注明）",
-    "breakpoint": "非主攻区（T5，韩国）；KC 认证由客户申报；23 次无回复，无具名 KP",
-    "saga_now": {
-      "p1": "STC-424DGGPM-280W",
-      "tier": 30,
-      "price": "首触锚价 STC-424DGGPM-280W $145.7 EXW（主表档位（PDF 上限 $165；SA-145 2025-02 实报 $150）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-31 $220（48 port managed switch）；群发里他已看到的价（续）：2026-09-01 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-03-07 $240（24 Port Fiber Switch）、2025-09-24 $280（10G Enterprise SFP Switch）、2025-10-15 $65（10G Media Converter）、2026-06-22 $16000（32 Port 400GB DC Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-02-14 $65（10G Media Converter = 10G 媒体转换器，Elsa 箱 1 轮 2025-02-14；Simon 实报就是 $65）",
-      "why": "自有 G24E4G-POE（24 PoE + 4 SFP）→ STC-424DGGPM-280W（$145.7 @30%）；G8E4G-POE 位 STC-28DGGPM；48 口位 STC-448XGGPM；bypass 型（PG8E2G-BP）→ SmartByte LT-IS6312GP-4GX8GT-FBP（注明）。已打开的主题（2/34 封有打开记录）：「24 Port Fiber Switch」(2025-03-07)、「32 Port 400GB DC Switch」(2026-06-22) → 读者兴趣偏「MC/光电」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-03-04)、Product Link_2026Q3(2026-07-14)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "2026-11",
-      "channel": "A 邮箱 → h0824@elimopt.co.kr",
-      "action": "首封前知悉：Elsa 仅 2025-02-14 单发过 1 封「10G Media Converter」，之后没再碰他（第 74 批(n)）；短信一问（email_hook）",
-      "one_question": "For the EL-G series PoE switches (G8E4G-POE up to G48E6TG-POE), we can be a second ODM source on a Marvell L2+ platform (8/24/48-PoE with SFP/10G uplinks) from small lots in your housing, CE/RoHS; KC by your side — which model do you reorder most often? Reference: STC-424DGGPM-280W at $145.7 USD EXW (MOQ 1, 15-day validity)."
-    },
-    "facts": [
-      {
-        "date": "2025-02-14",
-        "dir": "out",
-        "who": "Elsa → h0824@elimopt.co.kr, khs10623@elimopt.co.kr",
-        "quote": "10G Media Converter（Elsa 1:1 逐月名单第 1/1 轮；To 仅本户；正文 Price: 65usd/pc（10G 收发器，2025-02 旧汇率））",
-        "why": "第 74 批(n) `from:e.sagatelecom to:elimopt.co.kr` 全程 complete：1 轮直收（头 msg 19501dcc2221e96f 无 Bcc，称呼「Hi, Hyun」）；0 回",
-        "k": "elsa_1to1",
-        "msg_id": "19501dcc2221e96f"
-      },
-      {
-        "date": "2026-09-28",
-        "dir": "去",
-        "who": "A/S 群发",
-        "quote": "Industrial PoE Switch、Managed Optical Bypass Switch",
-        "why": "34 封 / 2 次打开 / 0 回｜首封 2024-06-28 → 末封 2026-09-28（34 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "FS 工业FS MC AHD SDI VC是大头 自己的logo；一些销售平台也在卖他们的产品",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": {
-      "subject": "One question — Industrial PoE Switch",
-      "body": "Hello,\n\nWe have sent you a few mails on \"Industrial PoE Switch\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor the EL-G series PoE switches (G8E4G-POE up to G48E6TG-POE), we can be a second ODM source on a Marvell L2+ platform (8/24/48-PoE with SFP/10G uplinks) from small lots in your housing, CE/RoHS; KC by your side — which model do you reorder most often?\n\nReference price: 24-PoE + 4 × 1G/2.5G SFP L2+ managed switch, 280 W (Marvell AC5) (STC-424DGGPM-280W) $145.7 USD EXW, MOQ 1 pc, 15-day validity, 1-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
-    },
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "Utepo",
+   "quote": "Utepo",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "土耳其",
+  "other": "官网 teleone.com.tr，语言 tr，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "视频监控方案（土耳其）"
+ ],
+ "channels": {
+  "role": "视频监控方案商（土耳其，PoE 现 Utepo）",
+  "region": "土耳其",
+  "contact": "info@teleone.com.tr"
+ },
+ "signals": [
+  "官网：Teleone: Think bigger, make better – Video Surveillance Solution Provider ; Termal Kamera ile Hassas Vücut Isısı Ölçüm Çözümleri ; Müşteri Öyküleri ; Referanslarımız",
+  "表内：Utepo"
+ ],
+ "risks": [
+  "现供 Utepo 价格基准低；土耳其汇率敏感；2 次无回复，仅 info@"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 25,
+  "why": "监控配套 PoE（现 Utepo）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424DGGPM-280W（$140.1）；工业 8 PoE + 2 SFP STI-288GP（$59.8）"
+ },
+ "email_hook": "For the PoE switches in your video-surveillance projects, we supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ plus DIN-rail industrial 8-PoE units from single units, CE/RoHS, EXW USD — which PoE port count do your projects use most alongside Utepo?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 17 封 2024→2026，无记录打开，0 回；收件 info@teleone.com.tr；主题多为「10G Enterprise SFP Switch、Industrial PoE Switch」；Elsa 箱：`to:teleone.com.tr` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 17 / 来 0）（第 74 批(i)））",
+   "type": "视频监控方案商（土耳其，PoE 现 Utepo）",
+   "sieve": "1（只收到群发）",
+   "stop": "只打通用邮箱，无记录打开",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "TR 主攻（四主）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 17；用户表：「Utepo」；研究档 risks：现供 Utepo 价格基准低；土耳其汇率敏感；2 次无回复，仅 info@"
+  },
+  "situation": "土耳其 Teleone（「Think bigger, make better」视频监控方案商：热成像体温测量方案、客户案例；表内「Utepo」）；表内 2 次跟进无回复。",
+  "need": "监控配套 PoE（现 Utepo）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424DGGPM-280W（$140.1）；工业 8 PoE + 2 SFP STI-288GP（$59.8）",
+  "breakpoint": "现供 Utepo 价格基准低；土耳其汇率敏感；2 次无回复，仅 info@",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-06-19 $65（10g fiber media converter）、2025-09-26 $280（10G Enterprise SFP Switch）",
+   "why": "监控配套 PoE（现 Utepo）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424DGGPM-280W（$140.1）；工业 8 PoE + 2 SFP STI-288GP（$59.8）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "For the PoE switches in your video-surveillance projects, we supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ plus DIN-rail industrial 8-PoE units from single units, CE/RoHS, EXW USD — which PoE port count do your projects use most alongside Utepo?"
+  },
+  "facts": [
+   {
+    "date": "2024-11-05",
+    "dir": "去",
+    "who": "Simon → Angora Networks（SA-077）附件 Turkey Client List.xlsx",
+    "quote": "名单行：「switch info@teleone.com.tr http://urunler.teleone.com.tr/」",
+    "why": "Saga 2024-11-05 把本户列入交给 Angora（安卡拉，Saga 提议的欧盟/土耳其分销伙伴）的 64 家起步名单；此后 Saga 仍直发本户。若 Angora 已接触过本户，Saga 直发会与自己提议的渠道打架 → Q-51（默认：直发继续，Angora 报了价的户 Saga 只做技术支持）",
+    "k": "gmail_s 2024-11-05 Re: Invoice_5pcs STC-424DGGPM-280W（附件）+ Drive PI 7_土耳其 Turkey_Client_List.xlsx"
+   },
+   {
+    "date": "2026-09-17",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "10G Enterprise SFP Switch、Industrial PoE Switch",
+    "why": "17 封 / 0 次打开 / 0 回｜首封 2024-06-19 → 末封 2026-09-17（17 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "Utepo",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "在 Saga 给 Angora 的 Turkey Client List（2024-11-05）里——Angora 是否接触过本户无记录（Q-51）"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

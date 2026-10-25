@@ -1,67 +1,229 @@
 {
  "code": "SB-905",
- "name_official": "Heat & Combustion Ltd（heatcombustion.co.uk，英国）",
+ "name_official": "Briticom™ — Teltronix Holdings Ltd（briticom.net，Northampton, UK）",
  "researched_at": "2026-10-21",
- "website_status": "（见官网快照）",
- "summary": "英国燃烧 / 供热工程公司，表内「在用 SmartByte 产品了」（终端用户，经 SmartByte 英国渠道）→ Q-33 且为终端非渠道。",
+ "website_status": "在线",
+ "summary": "英国北安普顿的**无源**布线制造商/品牌（Briticom 为 Teltronix Holdings Ltd 品牌；团队始于 2004，控股公司 2020-02 注册，公司号 12455268，VAT GB419036114；11–50 人；2017 年底换新管理层走国际化）：铜缆系统、光纤无源产品（FTTx/GPON）、机柜与机箱，面向数据中心、FTTx/电信、广播、智能家居；有「授权分销商 / 认证安装商」计划，2025-10 参展 GITEX Dubai。目录为纯无源——有源交换机是产品线空白。用户表：1 次实质回复，1 次跟进，自有品牌标记。",
  "type": "",
  "size": "",
  "brands_seen": [
-  "SmartByte（！）"
+  "Briticom（自有品牌，无源）"
  ],
  "evidence": [
   {
-   "kind": "用户表",
-   "claim": "列于 Clients/A/同行/Smartbyte.xlsx（SmartByte 经销名单）→ Q-33",
-   "quote": "Clients/A/同行/Smartbyte.xlsx 总表",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "kind": "官网",
+   "claim": "业务定位（无源制造商）与品牌归属",
+   "quote": "We are a British based manufacturer of Copper Cabling Systems, Fibre Optic Products, Racks and Enclosures – deployed in Datacomms, Data Centres, FTTx & Telecom, Broadcasting and Smart Home Applications … Briticom is a brand of Teltronix Holdings Ltd",
+   "url": "https://briticom.net/",
+   "date": "2025-05-13"
+  },
+  {
+   "kind": "官网 PDF",
+   "claim": "地址、电话、邮箱、渠道计划",
+   "quote": "Training available for Partners to become approved installers of Briticom® fibre optic and copper products • Become an authorised distributor … Briticom is part of Teltronix Holdings Ltd 7 Premier Court, Boarden Close, Northampton NN3 6LF | UK briticom.net | +44 (0)1604 434 186 | sales@briticom.net",
+   "url": "https://briticom.net/wp-content/uploads/2025-Company_Profile.pdf",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "LinkedIn",
+   "claim": "规模与成立年",
+   "quote": "TELTRONIX - BRITICOM … Company size: 11-50 employees Headquarters: Northampton, Northamptonshire … Founded: 2004 Specialties: Passive Fibre Optic and Copper, FTTH, GPON, and Data Centre",
+   "url": "https://uk.linkedin.com/company/teltronix",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "公司档案",
+   "claim": "控股公司注册信息",
+   "quote": "Teltronix Holdings Ltd is an active company incorporated on 11 February 2020 with the registered office located in Northampton … 12455268 Private limited company GB419036114",
+   "url": "https://open.endole.co.uk/insight/company/12455268-teltronix-holdings-ltd",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "在用 Smartbyte 产品了",
-   "quote": "兴趣：在用Smartbyte产品了",
+   "claim": "1 次实质回复；1 次跟进；自有品牌标记",
+   "quote": "（用户表字段）",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   },
   {
-   "kind": "用户裁定",
-   "claim": "SmartByte 经销名单客户不碰（潜在渠道冲突）",
-   "quote": "不碰 标记一下 没必要去跟：会有潜在冲突的",
-   "url": "（对话全记录 T27-U5）",
-   "date": "2026-10-21"
+   "kind": "email",
+   "claim": "2024-09-03 Wadii Kherfani 发来 20 台项目 RFQ（24 口 PoE 千兆 + 4 GE + 2 冗余电源 + 4×SFP LH 单模 + USB 控制台线 + 堆叠线），Simon 当天答「this specification is not available on our product list」→ RFQ 流失",
+   "quote": "I'm looking for 20 switches for a project. Can you please quote - 24 port Fast Ethernet 10/100/1000 POE -04 ports Giga Ethernet -02 redundant power supply modules -04 SFP LH module … - stack wise cable",
+   "url": "data/gmail_s/messages/2024/2024-09.jsonl（k 47d30031bff4bebe / 9709506348c74b1f）",
+   "date": "2024-09-03"
+  },
+  {
+   "kind": "email",
+   "claim": "同期问 STI-288GP 价格（Simon 报 $60/pc，2024-09-03）；2024-10-02 要 Power Converter 的组网示意图；此后 Saga 群发 2024-10/11/12 三次无回",
+   "quote": "What's the price of this switch? … Can you show us a drawing of a network where this product will fit/install??",
+   "url": "data/gmail_s/messages/2024/2024-09.jsonl、2024-10.jsonl（wadii@teltronix.net，+44 1604 434 186）",
+   "date": "2024-10-02"
   }
  ],
  "kp": [
   {
-   "name": "（销售）",
-   "title": "Sales",
-   "email": "sales@heatcombustion.co.uk",
+   "name": "Wadii Kherfani",
+   "role": "来信署名人（职务未在邮件署名里出现）",
+   "email": "wadii@teltronix.net",
    "phone": "",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
+   "source": "S/A 邮箱来信 2025-07-06 → 10-31 来信 3 封（第 72 批从邮件表头补）"
   }
  ],
- "grade_override": "C",
- "override_reason": "Q-33 裁定（Simon 2026-10-21）：SmartByte 经销名单客户，潜在渠道冲突，不碰；c_sub=渠道冲突（Q-33 不碰）",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ Q-33 裁定（Simon 2026-10-21）：不碰、标记、不跟进。",
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 2026-10-22 并入 teltronix.net 往来（3 进 7 出，F16）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（名单识别：SmartByte 经销 → Q-33）"
+  "level": "B 级加厚 v1（官网 + 公司档案核对）"
  },
+ "company_facts": {
+  "legal_name": "Teltronix Holdings Ltd（品牌 Briticom™；公司号 12455268，2020-02-11 注册；VAT GB419036114）",
+  "hq": "7 Premier Court, Boarden Close, Northampton NN3 6LF, UK（+44 1604 434 186；sales@briticom.net / briticom@briticom.net）",
+  "size": "11–50（LinkedIn）；Endole：微型，营收 £1.11M 口径",
+  "other": "产品：铜缆（全 AWG）、室内外光缆、FTTx 组件/工具、机架机柜、线缆管理；渠道：授权分销商 + 认证安装培训；LinkedIn 创立年 2004；GITEX 2025 参展"
+ },
+ "business_lines": [
+  "无源光纤产品（FTTx/GPON/数据中心）",
+  "铜缆布线系统",
+  "机柜/机箱与线缆管理",
+  "渠道：授权分销商 / 认证安装商"
+ ],
  "channels": {
-  "role": "SmartByte 经销 / 用户（渠道冲突）",
-  "region": "英国"
+  "网站": "https://briticom.net/ · https://teltronix.net/",
+  "电话": "+44 1604 434 186（官网公开）",
+  "邮箱（公开）": "sales@briticom.net"
  },
+ "signals": [
+  "无源品牌向有源延伸的典型 OEM 场景：Briticom 标 PoE/10G 接入交换机与其机柜、光缆成套销售给分销商/安装商；UKCA 由 Saga 提供"
+ ],
  "risks": [
-  "⛔ **Q-33 裁定（Simon 2026-10-21）：不碰**——SmartByte 经销名单客户，潜在渠道冲突；不主动发送、不跟进，仅留档防重复开发"
+  "有源产品需要其建立技术支持/RMA 能力——首单宜小批量；仅 1 次回复 + 1 次跟进",
+  "【2026-10-22 F16 补录】teltronix.net 域名此前不在档内（只有 briticom.net）→ 本轮并入；2024-09 的 20 台 RFQ 要「冗余电源 + 堆叠」，当年 Saga 没有、现在 STC-4168XGGCM 双 AC / CENTEC 堆叠已有 → 可拿这条旧 RFQ 重开（先问项目是否还在）"
  ],
  "saga_fit": {
-  "p1": null,
-  "tier": 20,
-  "why": "Q-33 待裁定；不主动报价。"
+  "p1": "STC-28DGGPM",
+  "tier": 30,
+  "why": "OEM 30% 档：STC-28DGGPM（8 PoE+ + 2 SFP 管理）作 Briticom 首款有源 SKU，与机柜/光缆成套；FTTx/数据中心位 STC-424XGGM（24 GE + 4×10G）"
  },
- "email_hook": "（⛔ 不发送：Q-33 裁定不碰，SmartByte 经销名单客户）",
- "signals": [
-  "Q-33 裁定：不碰（2026-10-21）"
- ]
+ "email_hook": "Wadii — the 20-unit 24-port PoE project from Sept 2024: did it close, and do your current projects still require dual PSU and stacking, or would 10G uplinks + ERPS do?",
+ "mail_review": {
+  "binding": {
+   "level": "轻度绑定（6 封实质来信、两年：2024-09 问 STI-288GP 价 → 20 台项目 RFQ（Saga 无此规格）→ 2025-07 要全铜口报价 + 每行加 AC/DC 电源价 → 2025-10-31 要 Booster 交换机资料；无样品无订单；Elsa 箱：`to:briticom.net OR to:teltronix.net` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 27 / 来 6）（第 74 批(j)））",
+   "type": "英国电信/网络经销（Teltronix | Briticom；Wadii = 采购/项目）——第三档分销，项目驱动",
+   "sieve": "3（两次报价、一次项目 RFQ）",
+   "stop": "2024-09-03 的 20 台项目要「24 口 PoE + 4 千兆 + 双冗余电源 + 4 SFP LH + 堆叠线」——Simon 回「not available」直接放弃，没有给近似型号；2025-07 要电源价后无下文；2025-10-31 Alan 的 Booster 资料是否发出未见",
+   "revive": "把 2024-09 那张项目清单用 2026 的产品线重新对一遍（STC-424XGGPM 双电源版 + SFP 模块 + 无堆叠说明），一封信",
+   "lane": "UK 主攻",
+   "cadence": "季度一封项目型信",
+   "evidence": "k=8d78b38b731525a7 / a0d8cc99242d354d（STI-288GP $60）；47d30031bff4bebe / 9709506348c74b1f（20 台 RFQ → not available）；193727c946660628 / 91be42ffcd4eb096 / 8fa533b181f1ab4b / 79fecf111ba8f0f3（铜口报价 + 电源 HDR-30-24 $15 / NDR-120-48 $25 / NDR-240-48 $40）；f22fe1c8ed3e3766（Booster）；A 邮箱外发报价单正文（`data/gmail_a/attachments/text/`，2026-10-24 对表）；第 19 批回补来信原文 2 条（gmail_s/gmail_a）"
+  },
+  "situation": "Wadii 是会回信的采购：每次群发命中他的项目就回一句「价格？」。2024-09 的 20 台项目是实打实的 RFQ，Simon 因为规格里有冗余电源和堆叠线就回了「不可用」；其实 24 口 PoE + 4 SFP 的机架款有，差的只是双电源和堆叠。2025-07 他要了整张铜口报价还追问电源价，说明在做预算；之后没下文。",
+  "need": "项目型机架 PoE（24 口 + 4 SFP + 冗余电源）；工业铜口 FS；Booster PoE。",
+  "breakpoint": "Saga 对「不完全匹配」的 RFQ 一句话放弃（2024-09）。",
+  "saga_now": {
+   "p1": "STC-424XGGPM（双电源版若有）+ SFP 模块",
+   "tier": 20,
+   "price": "按主表；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-08 $220（48 port managed switch）；**第 63 批基准统一（规则 ㉕）**：STC-424XGGPM-280W 由列表价 $198 改为群发现价 $180（2026-09-21 起每天 40–70 封在发，不能比群发贵）；群发里他已看到的价（续）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-09 $280（10G Enterprise SFP Switch）",
+   "why": "英国经销 + 6 次回复｜已发资料（勿重发）：Product Link_2026Q2(2026-03-30)、Product Link_2026Q3(2026-07-20)；已发单据：Quotation_Copper Switch(2025-07-07)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）",
+   "repeat": [],
+   "gaps": [
+    "2025-10-31 Booster 资料是否已发",
+    "20 台项目是否已被他人拿走"
+   ]
+  },
+  "next_move": {
+   "when": "2026-11",
+   "channel": "A 邮箱 → wadii@teltronix.net",
+   "action": "重对 2024-09 清单 + 问当前项目（第 75 批(ak) 2026-10-25：信稿复检修正——「single PSU, ERPS ring;」→「single PSU, ring redundancy;」；「or would 10G uplinks + ERPS do」→「or would 10G uplinks + ring re」）",
+   "one_question": "Wadii — the 20-unit 24-port PoE project from Sept 2024: did it close, and do your current projects still require dual PSU and stacking, or would 10G uplinks + ERPS do?"
+  },
+  "facts": [
+   {
+    "date": "2024-09-02",
+    "dir": "来",
+    "who": "Wadii Kherfani（TELTRONIX | BRITICOM，Northampton UK）",
+    "quote": "What's the price of this switch?（回 Simon 群发「8 port poe switch」）",
+    "why": "第一次人工来信比档案里记的 09-03 早一天、而且是问价——Simon 09-03 回 STI-288GP 60 USD/pc（工业 2 光 8 电 PoE 240W 非管理，DIP，无电源）= 本户最早的价格锚；随后 09-03 的 20 台 24 口 PoE + 双电源 + 4 SFP LH 项目 RFQ 被 Simon 一句「not available」挡回（其实 STC-424DGGPM 系列接近，缺的是双电源）",
+    "k": "gmail_s（wadii@teltronix.net，jsonl client 字段为空，按域名重扫）"
+   },
+   {
+    "date": "2024-09-03",
+    "dir": "来",
+    "who": "Wadii",
+    "quote": "I'm looking for 20 switches for a project… 24 port… POE -04 ports Giga Ethernet -02 redundant power supply modules -04 SFP LH module… stack wise cable",
+    "why": "20 台 RFQ",
+    "k": "47d30031bff4bebe"
+   },
+   {
+    "date": "2024-09-03",
+    "dir": "去",
+    "who": "Simon",
+    "quote": "sorry to tell you that this specification is not available on our product list.",
+    "why": "一句放弃",
+    "k": "9709506348c74b1f"
+   },
+   {
+    "date": "2024-10-02",
+    "dir": "来",
+    "who": "Wadii Kherfani",
+    "quote": "Can you show us a drawing of a network where this product will fit/install??（回「Power Converter」= DC 升压/PoE 配件推送）",
+    "why": "客户要的是「这东西装在网络哪一层」的拓扑图而不是规格书——Simon 10-08 假期后回了附件；此后 10-24 / 11-20 / 12-11 Simon 连推 2+4 2.5G、8 口 PoE 管理、MINI DIN 三款（Re: 同一线程）无回。给 Wadii 的资料应配一页安装拓扑",
+    "k": "gmail_s（wadii@teltronix.net，jsonl client 字段为空，按域名重扫）"
+   },
+   {
+    "date": "2025-07-06",
+    "dir": "来",
+    "who": "wadii@teltronix.net",
+    "quote": "Thank you Alan, Can you please advise the cost of the below industrial PoE switch Best Regards Wadii TELTRONIX | BRITICOM T.: +44 1604 434 186 [cid:im",
+    "why": "来信原文（主题「RE: 16 Port Ethernet Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+    "k": "193727c946660628"
+   },
+   {
+    "date": "2025-07-07",
+    "dir": "来",
+    "who": "Wadii",
+    "quote": "Can you please add the cost of AC and the cost of DC charger next to each quoted line on your table?",
+    "why": "做预算",
+    "k": "8fa533b181f1ab4b"
+   },
+   {
+    "date": "2025-07-07",
+    "dir": "去",
+    "who": "Alan（Quotation_Copper Switch.pdf，Buyer TELTRONIX / Wadii Kherfani，EXW UK）",
+    "quote": "STI-050FE 5×FE $22.5；STI-054FP 1 FE 上联 + 4 FE PoE 120W $30；STI-050GE 5×GE $25；STI-054GP $32.5；STI-080FE 8×FE $25.5；STI-088FP 8×FE PoE 240W $36.5…（全铜口非管理工业系列整表）",
+    "why": "对方要的「全铜口 + 每行 AC/DC」报价 Saga 已给整表；此后无回",
+    "k": "gmail_a att 2025-07-07"
+   },
+   {
+    "date": "2025-07-07",
+    "dir": "去",
+    "who": "Alan → Wadii（Quotation_Copper Switch.pdf，同 DEMA 版）",
+    "quote": "整表后半：STI-080GE $32.5 / 088GP $43.5 / 0160GE $94.5 / 01616GP $125 / 0240GE $130（前半 050FE $22.5 … 088FP $36.5 已录）；Wadii 当天要求「add the cost of AC and the cost of DC charger next to each quoted line」→ 07-08 Alan 给 DIN 电源 HDR-30-24 $15 / NDR-120-48 $25 / NDR-240-48 $40。",
+    "why": "整机 + 电源两张价合起来才是 Wadii 要的「每行总价」；再报时直接给「整机 + 电源」合并列",
+    "k": "A 邮箱附件 `Quotation_Copper Switch.pdf` sha=036352492d085817（2025-07-07）"
+   },
+   {
+    "date": "2025-07-08",
+    "dir": "去",
+    "who": "Alan",
+    "quote": "HDR-30-24: 15usd/pc… NDR-120-48: 25usd/pc… NDR-240-48: 40usd/pc",
+    "why": "电源价",
+    "k": "79fecf111ba8f0f3"
+   },
+   {
+    "date": "2025-10-31",
+    "dir": "来",
+    "who": "wadii@teltronix.net",
+    "quote": "It will be great to have an idea of this switch Alan Thank you Best Regards Wadii TELTRONIX | BRITICOM T.: +44 1604 434 186 [cid:image001.jpg@01DC4A9C",
+    "why": "来信原文（主题「RE: Booster PoE Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+    "k": "f22fe1c8ed3e3766"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": {
+   "subject": "24-port PoE project — did it close, and what do current projects need?",
+   "body": "Hi, Wadii,\n\nIn September 2024 we answered your 20-unit 24-port PoE RFQ (4x SFP, redundant PSU) with \"not on our list\" — too short an answer. In July 2025 you got the PSU costs (HDR-30-24 $15 / NDR-120-48 $25 / NDR-240-48 $40).\n\nWhat we have today: 24x GbE PoE+ 280 W + 4x 10G SFP+, L2+, Marvell AC5 — $180 USD EXW, valid 15 days from this mail (our summer mail quoted $170; that batch is gone); single PSU, ring redundancy; a dual-PSU version is quoted on request.\n\nOne question: did the 2024 project close, and do your current projects still require dual PSU and stacking, or would 10G uplinks + ring redundancy do?\n\nThank you.\nAlan\nSaga Telecom - sagatele.com"
+  },
+  "as_of": "2026-10-24"
+ }
 }

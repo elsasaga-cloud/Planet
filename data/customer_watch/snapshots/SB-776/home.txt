@@ -1,478 +1,262 @@
-# SB-776 maplesystems.com · home · https://maplesystems.com/ · fetched 2026-10-25T07:41:18Z · HTTP 200
-Industrial Automation Control Solutions
+# SB-776 prolink2u.com · home · https://prolink2u.com/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+Prolink - Connect Your Life
 Skip to content
-Login/Register
-0
-Contact Us : (425) 745-3229
-Products
-Human Machine Interface (HMI)
-View All HMIs
-Headless HMIs
-Class 1 Div 2 HMIs
-Windows HMIs
-Wi-Fi Enabled HMIs
-High-Brightness HMIs
-RFID HMIs
-HMIs + Remote I/O
-CODESYS HMIs
-Gateway HMIs
-Web HMIs
-Secondary Displays for cMT Series
-21.5″ Capacitive Touch HMIs
-Compare HMI Models
-Popular comparisons: cMT2078X , cMT2108x2 , HMI5070Bv3
-FREE HMI Software (EBPro)
-Powerful, full-version HMI programming—no contracts or subscriptions. Get started fast—even without prior experience!
-Learn More
-HMIs that deliver seamless integration across new installations and existing control systems
-View Integrations
-Industrial Panel PCs
-View All Panel PCs
-UL Certified PCs
-Class 1 Div 2 PCs
-Stainless Steel PCs
-Waterproof PCs
-IP66/IP69K Rated PCs
-Extended Temperature PCs
-High Brightness PCs
-Optically Bonded PCs
-27″ Capacitive Touch PCs
-Compare Panel PC Models
-Popular comparisons: PC1215APH , PC1315BPH , PC2317B
-SCADA Software (AVEVA™)
-Powerful HMI & SCADA software packages that enable you to create customer industrial control applications for your unique industry.
-Explore AVEVA
-Linux® Computers with Ubuntu® OS
-Enjoy guaranteed hardware-software compatibility, plus the power and flexibility of open-source Ubuntu®.
-Explore Linux
-Industrial Box PCs
-View All Box PCs
-UL Certified Box PCs
-Class 1 Div 2 Box PCs
-Stainless Steel / Waterproof Box PCs
-RAID 0, RAID 1 Box PC
-Extended Temperature Box PCs
-PoE Box PC
-4G/LTE Box PC
-Intel Core Ultra Processor Box PCs
-Digital Signage Media Players
-Compare Box PC Models
-Popular comparisons: IPC2110A , IPC2411A , IPC2710A
-SCADA Software (AVEVA™)
-Powerful HMI & SCADA software packages that enable you to create customer industrial control applications for your unique industry.
-Explore AVEVA
-Linux® Computers with Ubuntu® OS
-Enjoy guaranteed hardware-software compatibility, plus the power and flexibility of open-source Ubuntu®.
-Explore Linux
-Rugged Tablets
-View All Rugged Tablets
-Windows Rugged Tablets
-Android Rugged Tablets
-Compare Rugged Tablet Models
-Need Help Finding the Right Rugged Tablet?
-Our rugged tablets are designed to scale with your business. Let our team help you choose the right solution for your industry.
-Contact Sales
-PLCs & Control
-View All PLCs
-Fixed I/O PLCs
-Expandable I/O PLCs
-Digital Modules
-Analog Modules
-TC (Thermocouple) Module
-PWM (Pulse Width Modulation) Module
-HSC (High Speed Counter) Module
-RTD (Resistance Temp Detector) Module
-Communication Module
-Remote IO
-Compare PLC Models
-Popular comparisons: PLC-FB0808P , PLC-FB1616R0202 , PLC-ES0808P
-FREE​ PLC Software ( MapleLogic )
-Create and monitor machine control projects with MapleLogic’s robust and powerful features—simulation, tuning, security, and more.
-Learn More
-Build a Modular PLC system
-See exactly what you need based on your specifications—fast, simple, and accurate.
-PLC Configuration Wizard
-HMI + PLC
-View All HMI+PLC Units
-HMI+PLC supports 1 I/O Expansion modules
-HMI+PLC supports 3 I/O Expansion modules
-HMI+PLC supports 5 I/O Expansion modules
-Class 1 Div 2
-Compare HMC Models
-Popular comparisons: HMC2070A-M , HMC4101A-M , HMC3-M1212Y0200-V2
-FREE HMI & Control Software (MAPware-7000)
-Create projects with functional objects. No prior programming needed. Software supports common PLC protocols and IEC 61131‑3.
-Learn More
-Industrial Monitors
-View All Monitors
-High-Brightness Monitors
-Extended Temperature Monitors
-27″ Capacitive Touch Monitors
-Compare Monitor Models
-Popular comparisons: MON1015APHv2 , MON6015APHEB , AEx-115PH
-Need Help Choosing an Industrial Monitor?
-Discover the top 10 factors that ensure your monitor meets all project requirements—from environment to display needs.
-Read Guide
-Digital Signage Media Players
-View All Digital Signage Media Players
-Digital Signage
-Video Walls
-Multi-Screen
-Interactive Displays
-Compare Digital Signage Media Player Models
-Popular comparisons: BPC2620A , PBC5023A , BPC5024A
-Need Help Choosing an Digital Signage Media Player?
-A indepth guide helping you choose the right system for your application.
-Read Guide
-Alphanumeric OITs
-View All OITs
-LCD Display Models
-VFD Display Models
-Compare OIT Models
-Popular comparisons: OIT3185-A00 , OIT4185-A00
-Powerful OIT Configuration (OITware-200)
-Streamline OIT setup with multi-language support, advanced recipe management, remote variable storage, and expanded device compatibility.
-Learn More
-Tower Stack Lights
-View All Tower Lights
-Direct Mount Tower Lights
-Pole Mount Tower Lights
-Need Help Choosing a Tower Stack Light?
-Let our team help you choose the right solution for your industry.
-Contact Our Experts
-Pushbuttons
-View All Pushbuttons
-Indicator Lights
-Momentary Pushbuttons
-Latching Pushbuttons
-2-Position Selector Switches
-3-Position Selector Switches
-Latching E-Stop
-Need Help Choosing a Pushbutton ?
-Let our team help you choose the right solution for your industry.
-Contact Our Experts
-Network Switches
-View All Switches
-Unmanaged Switches
-Light Managed Switches
-Fully Managed Switches
-Compare Industrial Network Switches
-Need Help Choosing a Network Switch?
-Discover the top 10 factors that ensure your network switch meets all project requirements.
-Learn More
-Accessories
-View All Accessories
-Software Licenses
-Power Supply & Connectors
-Cable & Adapters
-Tower Stack Lights
-Pushbuttons
-Network Switches
-Adapter Plates
-Mounting Kits
-Protective Screens
-Mounting Hardware, DIN Rail
-Tablet Peripherals
-HMI Wi-Fi Adaptor
-Custom Cables
-Need Help Finding the Right Accessory?
-We have the accessories to get your project started. Let our team help you choose the cables, adapters, and supplies you need.
-Contact Sales
-Legacy Products
-View All Legacy Products
-cMT-FHDX-220
-HMC3043A-M
-HMI5056N
-HMI5071L
-HMI5102L
-HMI5104TH
-HMI5100T
-HMI5150X
-HMI5070NLV2
-HMI520T
-HMI5070PV2
-Need Help with Older Models?
-Although legacy models are no longer available, we still provide free data sheets and manuals. Our team of professionals is ready to help you transition to a newer model as well.
-Contact Sales
-Software
-View All Industrial Control Software
-AVEVA™
-Powerful HMI & SCADA software packages that enable you to create customer industrial control applications for your unique industry.
-View AVEVA
-Linux Ubuntu
-Enjoy guaranteed hardware-software compatibility, plus the power and flexibility of open-source Ubuntu®.
-View Linux Ubuntu
-HMI Software (EBPro)
-Powerful, full-version HMI programming—no contracts or subscriptions. Get started fast—even without prior experience!
-Get Free Software
-HMI+PLC Software (MAPware -7000)
-Create projects with functional objects. No prior programming needed. Software supports common PLC protocols and IEC 61131‑3.
-Get Free Software
-PLC Software (MapleLogic)
-Create and monitor machine control projects with MapleLogic’s robust and powerful features—simulation, tuning, security, and more.
-Get Free Software
-Software Training
-Tutorials
-Training Videos
-Sample Projects
-Integrations
-Human Machine Interfaces (HMIs)
-3rd Party PLCs and Controllers
-Allen Bradley PLCs
-Siemens PLCs
-Schneider PLCs
-OMRON PLCs
-Maple Systems PLCs
-Any Modbus Supported Device
-Automation Direct PLCs
-400+ PLC and Controllers
-Cloud Based Applications (IIoT)
-Connecting HMIs through Cloud Based Applications (IIoT)
-SQL Databases
-Sparkplug B
-MQTT
-VNC
-OPC UA
-EasyAccess2.0
-cMT Viewer
-WebView / EasyWeb
-Remote I/O
-Connecting HMIs with Remote I/O
-Maple Systems HMI (CODESYS)
-Maple Systems HMI (dumb i/o)
-Accessories
-Connecting HMIs with
-Wi-Fi Networks
-Cameras
-Andon / Annunciator System
-RFID
-Barcode Scanners
-PLCs
-Motion Control
-Integrate PLCs with Motion Control
-Configure Pulse Width Modulation (PWM)
-High Speed Counter with an Encoder
-High Speed Counter with a Quadrature Encoder
-Control with Pulse Width Modulation
-Stepper and Servo Motor Positioning
-Controlling a VFD with a PLC and HMI
-Maple Modular PLC as a Modbus TCP Master Device
-PID Loop, Pulse Width Modulation and a High Speed Counter
-Cloud Based Applications (IIoT)
-Integrate PLCs with Cloud Based Applications (IIoT)
-MQTT
-3rd Party HMIs and Displays
-Integrate PLCs with 3rd Party HMIs and Displays
-Maple Systems HMI+PLCs
-Any Modbus Supported Device (Overview)
-Maple Systems Web HMIs
-Allen Bradley HMIs
-Industrial PC
-HMC
-Industrial PCs
-SCADA
-Integrate Industrial PC with SCADA
-AVEVA Edge
-Factory Talk
-Ignition
-VTScada
-EcoStruxure/Geo
-GE iFIX / Complicity
-3rd Party Devices
-Integrate Industrial PC with 3rd Party Devices
-Maple Systems Web HMIs
-Industrial Monitors
-Maple Systems PLCs
-Other PLCs
-HMI+PLC Combo Units
-3rd Party Devices
-Integrate HMC with 3rd Party Devices
-Modbus PLC
-Cloud Based Applications (IIoT)
-Integrate HMC with Cloud Based Applications (IIoT)
-MQTT
-Motion Control
-Integrate HMC with Motion Control
-Pulse Width Modulation Devices (PWM)
-Program and Display a PID Loop
-Control a VFD
-Remote I/O
-Integrate HMC with Remote I/O
-Maple Systems Remote I/O
-Remote I/O
-3rd Party Devices
-Integrate Remote I/O with 3rd Party Devices
-Maple Systems PLCs (Modbus)
-Allen Bradley PLCs
-Siemens PLCs
-Andon Systems
-Web HMI
-3rd Party Devices
-Integrate Web HMI with 3rd Party Devices
-Raspberry Pi
-Allen Bradley HMI
-Cloud Based Applications (IIoT)
-Integrate Web HMI with Cloud Based Applications (IIoT)
-Arduino Web Server
-SCADA
-Integrate Web HMI with Accessories
-Ignition Server
-AVEVA Edge Project
-Solutions
-Industries Served
-Case Studies
-Agriculture
-Building Automation
-Energy & Power
-Data Centers
-Food & Beverage
-Medical & Pharmaceutical
-Oil & Gas
-Packaging
-Water & Wastewater
-IIoT Overview
-MQTT
-OPC UA
-SQL Database
-SCADA Systems Guide
-Remote Access
-EasyAccess 2.0
-cMT Viewer
-WebView
-VNC
-Knowledge Center
-Articles
-Class I, Div 2 Products
-Andon/Annunciator Systems
-Learn How Our Features Work
-Modbus Protocol Guide
-CODESYS
-Connecting To
-Allen Bradley Controllers
-Siemens Controllers
-Omron Controllers
-400+ Other Controllers
-Upgrade Your Project
-Support
-Technical Support
-Help Topics / FAQs
-Technical Support Request
-Repairs and Returns
-Warranty
-Support Documents
-Software and Upgrades
-Manuals and Guides
-Controller Information Sheets
-Technical Notes
-Support Resources
-Knowledge Base
-Tutorials
-Video Center
-Sample Projects
-Communication Cables
-Requests
-Request Quote
-Technical Support Request
-Application Engineering Services
-OEMs
+Data Comm
+Power
+Gadget
+Discover
+Log in
 Search
-Close Menu
-Account
 Cart
-Products
-Human Machine Interface (HMI)
-All HMIs
-Class 1 Div 2 HMIs
-Headless HMIs
-High-Brightness HMIs
-Web HMIs
-Windows HMIs
-Gateway HMIs
-Wifi Enabled HMIs
-Alphanumeric OITs
-HMI with Remote I/O
-HMI Software (EBPro)
-Compare HMI Models
-Industrial PC Computers
-Panel PCs
-Box PCs
-Class 1 Div 2 PCs
-Stainless Steel PCs
-Waterproof Panel PCs
-Extended Temperature PCs
-High Brightness PCs
-RAID 0, RAID 1 PC
-SCADA Software (Aveva Edge)
-Linux OS
-Digital Signage Media Players
-Compare PC Models
-Rugged Tablets
-Windows Rugged Tablets
-Android Rugged Tablets
-PLCs & Control
-Fixed I/O PLCs
-Expandable I/O PLCs
-Remote I/O
-PLC Software (MapleLogic)
-Compare PLC Models
-Tower Stack Lights
-Direct Mount Tower Lights
-Pole Mount Tower Lights
-Industrial Network Switches
-Unmanaged Switches
-Lite-Managed Switches
-Managed Switches
-Pushbuttons
-Indicator Lights
-Momentary Pushbuttons
-Latching Pushbuttons
-2-Position Selector Switches
-3-Position Selector Switches
-Latching E-Stop
-HMI + PLC Combo Units
-All HMI + PLCs
-Class 1 Div 2
-HMI+PLC Software (MAPware7000)
-Compare HMI+PLC Models
-Industrial Monitors
-All Monitors
-High-Brightness Monitors
-Extended Temperature Monitors
-Compare Monitor Models
-Communication Cables & Accessories
-Communication Cables
-Accessories
-Clearance Products
-Legacy Products
-Solutions
-Industries Served
-Case Studies
-Agriculture
-Building Automation
-Energy & Power
-Data Centers
-Food & Beverage
-Medical & Pharmaceutical
-Oil & Gas
-Packaging
-Water & Wastewater
-IIoT Overview
-MQTT
-SQL Database
-OPC UA
-SCADA Systems Guide
-Remote Access
-EasyAccess 2.0
-cMT Viewer
-WebView
-VNC
-Knowledge Center
-Articles
-Class I, Div 2 Products
-Andon/Annunciator Systems
-Learn How Our Features Work
-Modbus Protocol Guide
-CODESYS
-Connecting To
-Allen Bradley Controllers
-Siemens C
+Item added to your cart
+Check out
+Continue shopping
+Data Comm
+Power
+Gadget
+Discover
+Smart Lighting Series
+Connect your lights.
+Home automation redefined as living art. The Smart Touch Control Panel is the vibrant heartbeat of your connected world. Stitching light, comfort, and peace of mind into one seamless experience.
+SHOP NOW
+DISPLAY CHARGER SERIES
+Connect your power.
+Power up your devices with real-time charging information for a fast, safe, and efficient experience wherever you are.
+SHOP NOW
+home security camera series
+Connect your safety.
+Keep an eye on what's important with our selection of indoor and outdoor security cameras, providing you peace of mind wherever you are.
+SHOP NOW
+Smart Zigbee Series
+Connect your home.
+Build a seamless smart home ecosystem that brings everything together for a easy, hassle-free life.
+SHOP NOW
+Mobile Router
+Connect your adventures.
+Stay connected in style and confidence with the high-speed dual-band 5G Wi-Fi 6 Mobile Router - the perfect pocket-sized router for every trip.
+Shop now
+Power backup series
+Connect your data.
+Protect your data and equipment from power disturbance and data corruptions.
+SHOP NOW
+Explore our Data Comm range
+Data Comm
+Shop All
+Explore our Power range
+Power
+Shop All
+Explore our Gadget range
+Gadget
+Shop All
+Team Picks
+Most popular
+Featured items
+Selected products. Some of our Prolink ambassador’s current picks!
+DS-3107v2
+5MP Home Security Camera
+View
+DS-3305P
+Smart Touch Control Panel
+View
+DS-3307
+Smart Zigbee Door/Window Sensor
+View
+DS-3306
+Smart Zigbee Hub
+View
+Most sought after. These popular items are in demand!
+DL-7211
+5G Wi-Fi 6 Mobile Router
+View
+DS-3305-20A
+Smart Zigbee 20A Wall Switch
+View
+DS-3308
+Smart Zigbee PIR Motion Sensor
+View
+DS-3202M
+Wi-Fi Smart Plug (UK 3-pin)
+View
+Specially chosen. Showcasing these featured items!
+DS-3605
+Smart Wi-Fi LED Bulb (5W, GU10)
+View
+DH-5202
+Dual Band Wi-Fi 6 AX1500 Extender
+View
+DS-3602-2m
+Smart LED Light Strip
+View
+DL-7203E
+4G LTE Mobile Wi-Fi
+View
+Explore our Data Comm range
+Data Comm
+Shop All
+Explore our Power range
+Power
+Shop All
+Explore our Gadget range
+Gadget
+Shop All
+Team Picks
+Most popular
+Featured items
+Selected products. Some of our Prolink ambassador’s current picks!
+PRO700SFC 650VA
+Super Fast Charging Line Interactive Series - 650VA to 3KVA
+View
+PRO901-WS 1KVA
+Professional II Series (1P/1P) - Standard Models - 1KVA to 10KVA
+View
+Haus Royale II 5KM-48
+Haus Royale II Series - 5KVA and 6KVA
+View
+PRO83110-ES 10KVA
+Master II+ Series (3P/1P) - Tower - Standard Models - 10KVA to 30KVA
+View
+Most sought after. These popular items are in demand!
+PRO901-ERS 1KVA
+Professional II+ Series (1P/1P) – Rack/Tower- Standard Models - 1KVA to 10KVA
+View
+PRO801-ES 1KVA
+Master II Series (1P/1P) - Standard Models - 1KVA to 3KVA
+View
+PRO700SFC 650VA
+Super Fast Charging Line Interactive Series - 650VA to 3KVA
+View
+IPS1202
+IPS Series Power Inverter - 1.2KVA to 2.2KVA
+View
+Specially chosen. Showcasing these featured items!
+PRO901-ERS 1KVA
+Professional II+ Series (1P/1P) – Rack/Tower- Standard Models - 1KVA to 10KVA
+View
+PRO700SFC 650VA
+Super Fast Charging Line Interactive Series - 650VA to 3KVA
+View
+PRO83310-ES 10KVA
+Master II+ Series (3P/3P) - Tower - Standard Models - 10KVA to 30KVA
+View
+PRO53310-QRS 10KVA
+Sorra Series (3P/1P & 3P/3P) – Rack/Tower - Standard Models - 10KVA
+View
+Explore our Data Comm range
+Data Comm
+Shop All
+Explore our Power range
+Power
+Shop All
+Explore our Gadget range
+Gadget
+Shop All
+Team Picks
+Most popular
+Featured items
+Selected products. Some of our Prolink ambassador’s current picks!
+GMK-2002M
+Wireless Multimedia Desktop Combo
+View
+GD-620001-UK
+200W 6-port USB Charger
+View
+GM-2003
+Wireless Mouse
+View
+GCC-60-01
+USB Type-C to C Cable (3A, 60W)
+View
+Most sought after. These popular items are in demand!
+GT-416507
+165W 4-port GaN PD Charger
+View
+GM-5002
+Multi-device Wireless Mouse
+View
+PCC24501
+51W 2-port PD USB Car Charger
+View
+GP-3001R
+Dual-mode Presenter with Red Laser
+View
+Specially chosen. Showcasing these featured items!
+GK-5001M
+Maca Keys Mini
+View
+GD-530002
+300W 5-Port GaN PD Charger
+View
+GCC-100-02
+USB Type-C to C PD Cable with Digital Display (5A, 100W)
+View
+GT-23507-UK
+35W 2-port GaN PD Charger
+View
+Discover our stories
+Discover
+All stories
+Press Release
+Logo Refresh Announcement
+Tech Reads
+Wi-Fi Range Extenders - Repeater Vs. Access Point Vs. Router Mode
+Tech Reads
+What is a GaN Charger? Everything You Need to Know About GaN (Gallium Nitride)
+Tech Reads
+Transforming Your Living Space: The Beginner’s Guide to Smart Homes
+Search our products
+Connect your
+smart home
+power
+router
+usb cable
+lighting
+usb charger
+keyboard & mouse
+wi-fi extender
+power backup
+Connect
+with
+us.
+Sign up for our newsletter to receive the latest product news, updates and exclusive invites.
+FIRST NAME
+LAST NAME
+EMAIL
+SIGN UP
+Follow our latest news:
+Share our website:
+Language
+English
+Chinese
+Indonesian
+Malay
+Our company
+About Us
+Contact Us
+Newsroom
+Career
+Corporate Social Responsibility
+Customer care
+Support
+Product Warranty & Registration
+Shipping and Returns
+FAQs
+Prolink Apps
+UPS NAS Compatibility List
+Downloads
+Get connected
+Where to Buy
+Sales & Partnerships
+Corporate Sales
+Corporate Sales - Power Solutions
+Our policies
+Privacy Policy
+Cookies Policy
+Terms of Service
+Security Advisory
+Service Policy
+Copyright © 2023 Fida International (S) Pte Ltd. All rights reserved.
+Choosing a selection results in a full page refresh.
+English
+Chinese (Simplified) English Indonesian Malay
+Copy
+💬 Need Help?

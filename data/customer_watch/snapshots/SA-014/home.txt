@@ -1,25 +1,354 @@
-# SA-014 coptek.com.tr · home · https://coptek.com.tr/ · fetched 2026-10-25T07:41:18Z · HTTP 200
-Omurga,Layer2,Layer3 POE Switchler
-> ">
-ANA SAYFA HAKKIMIZDA ÜRÜNLER REFERANSLAR DESTEK İLETİŞİM
-2000 yılında Lenovo Grup'tan ayrılarak kurulmuş olan DCN Digital China Network(DC Yunke Networks LTD.) yüksek teknoloji Omurga, Datacenter Switch, Layer 2, Layer 3 Switch, Wireless Controller, AP ve Firewall/Gateway ürünleri üreticisidir.Tüm ürünler ortak DCNOS işletim sistemine sahip ve harware IPv6 Ready özelliğindedir. Firmamız 2010 yılından beri DCN ürünlerinin distribütörlüğünü yapmaktadır.Kısa zamanda büyük bir başarıya imza atılarak birçok proje gerçekleştirilmiş bulunmaktadır. Ortak komut sistemi/web arayüzü ve tüm protokoller standart olarak cihaz yazılımlarında mevcuttur. 2020 yılı itibariyle Türkiye'de çalışan ürün sayısı 10.000'in üzerindedir. DCN ürünleri 3 yıl garantili olup arıza oranı sıfıra yakındır. Ayrıca düşük bir bedel karşılığı garanti süresi istendiği kadar uzatılabilir. Ürünlerin kullanıldığı örnek projeleri Referanslar bölümünden görebilirsiniz.
-Koptek Bilgisayar ve İletişim Sistemleri LTD.ŞTİ.
-HAKKIMIZDA
-REFERANSLAR
-DESTEK
-İLETİŞİM
-Fuat Sarp Sokak.No:5/1 Balmumcu-İSTANBUL
-+90 212-2757953
-+90 212-2884336
-info@coptek.com.tr
-ÜRÜNLER
-Omurga Switch
-Data Center Switch
-PoE Switch
+# SA-014 impulsecctv.com · home · https://impulsecctv.com/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+Impulse CCTV | Industrial Grade PoE Network Switches
+About Impulse
+Careers
+Privacy Policy
+Project Inquiry
+Contact Us
+Menu
+About Impulse
+Careers
+Privacy Policy
+Project Inquiry
+Contact Us
+Home
+Products
+Network Cameras
+Bullet
+Dome
+PTZ
+Box
+Fisheye
+Thermal
+Network Video Recorders (NVR)
+Video Management System
+Video Door Phone
+Wireless Solution
+Wireless Controller
+Access Point
+Indoor Ceiling Mount
+Indoor Wall Mount
+Out Door Access Point
+Network Switches
+Chassis Based Core Switch
+Enterprise Grade Switch
+Layer 3+ Switch
 Layer 3 Switch
 Layer 2 Switch
-Endüstriyel Ethernet Ürünleri
-Wireless ve AP Controller
-Fiber Ethernet
-SFP Modül
-Fiber Çevirici
+Industrial Grade Switches (ISWT)
+Layer 2 Switch iswt
+Layer 3 Switch iswt
+Industrial grade switches (IGS)
+Layer 3 Switch
+Layer 2 Switch
+Low End Data Sheet
+Easy Managed Switch
+Unmanaged Switch
+Access Control System
+2 Door Access Control System
+4 Door Access Control System
+Accessories
+Card Reader
+Card Writer
+Access Control Biometric Device
+EM Lock
+Software
+Nurse Call System
+Low End
+High End
+AI Appliance
+IP Public Address system
+Visual Interaction Module
+Accessories
+Joystick
+Series
+Eco Series
+4K Series
+Learning & Support
+Partners
+News & Updates
+Case Studies
+Menu
+Home
+Products
+Network Cameras
+Bullet
+Dome
+PTZ
+Box
+Fisheye
+Thermal
+Network Video Recorders (NVR)
+Video Management System
+Video Door Phone
+Wireless Solution
+Wireless Controller
+Access Point
+Indoor Ceiling Mount
+Indoor Wall Mount
+Out Door Access Point
+Network Switches
+Chassis Based Core Switch
+Enterprise Grade Switch
+Layer 3+ Switch
+Layer 3 Switch
+Layer 2 Switch
+Industrial Grade Switches (ISWT)
+Layer 2 Switch iswt
+Layer 3 Switch iswt
+Industrial grade switches (IGS)
+Layer 3 Switch
+Layer 2 Switch
+Low End Data Sheet
+Easy Managed Switch
+Unmanaged Switch
+Access Control System
+2 Door Access Control System
+4 Door Access Control System
+Accessories
+Card Reader
+Card Writer
+Access Control Biometric Device
+EM Lock
+Software
+Nurse Call System
+Low End
+High End
+AI Appliance
+IP Public Address system
+Visual Interaction Module
+Accessories
+Joystick
+Series
+Eco Series
+4K Series
+Learning & Support
+Partners
+News & Updates
+Case Studies
+Home
+Products
+Network Cameras
+Bullet
+Dome
+PTZ
+Box
+Fisheye
+Thermal
+Network Video Recorders (NVR)
+Video Management System
+Video Door Phone
+Wireless Solution
+Wireless Controller
+Access Point
+Indoor Ceiling Mount
+Indoor Wall Mount
+Out Door Access Point
+Network Switches
+Chassis Based Core Switch
+Enterprise Grade Switch
+Layer 3+ Switch
+Layer 3 Switch
+Layer 2 Switch
+Industrial Grade Switches (ISWT)
+Layer 2 Switch iswt
+Layer 3 Switch iswt
+Industrial grade switches (IGS)
+Layer 3 Switch
+Layer 2 Switch
+Low End Data Sheet
+Easy Managed Switch
+Unmanaged Switch
+Access Control System
+2 Door Access Control System
+4 Door Access Control System
+Accessories
+Card Reader
+Card Writer
+Access Control Biometric Device
+EM Lock
+Software
+Nurse Call System
+Low End
+High End
+AI Appliance
+IP Public Address system
+Visual Interaction Module
+Accessories
+Joystick
+Series
+Eco Series
+4K Series
+Learning & Support
+Partners
+News & Updates
+Case Studies
+Menu
+Home
+Products
+Network Cameras
+Bullet
+Dome
+PTZ
+Box
+Fisheye
+Thermal
+Network Video Recorders (NVR)
+Video Management System
+Video Door Phone
+Wireless Solution
+Wireless Controller
+Access Point
+Indoor Ceiling Mount
+Indoor Wall Mount
+Out Door Access Point
+Network Switches
+Chassis Based Core Switch
+Enterprise Grade Switch
+Layer 3+ Switch
+Layer 3 Switch
+Layer 2 Switch
+Industrial Grade Switches (ISWT)
+Layer 2 Switch iswt
+Layer 3 Switch iswt
+Industrial grade switches (IGS)
+Layer 3 Switch
+Layer 2 Switch
+Low End Data Sheet
+Easy Managed Switch
+Unmanaged Switch
+Access Control System
+2 Door Access Control System
+4 Door Access Control System
+Accessories
+Card Reader
+Card Writer
+Access Control Biometric Device
+EM Lock
+Software
+Nurse Call System
+Low End
+High End
+AI Appliance
+IP Public Address system
+Visual Interaction Module
+Accessories
+Joystick
+Series
+Eco Series
+4K Series
+Learning & Support
+Partners
+News & Updates
+Case Studies
+Home
+High-risk Critical Infrastructure Security Experts
+CCTV cameras built for challenging environments and complex installations
+Project Inquiry
+LX Series
+The work-horse of the Impulse CCTV security suite - reliable & dependable
+Learn More
+DX Series
+Top end product-line with the highest quality
+Learn More
+Previous slide
+Next slide
+High-risk Critical Infrastructure Security Experts
+CCTV cameras built for challenging environments and complex installations
+Project Inquiry
+Impulse Switches are Now TEC Certified
+Impulse networking switches are now TEC Certified, meeting Government of India regulatory standards for secure and compliant deployments. Backed by Make in India & other certifications UL, CE, FCC & RoHS.
+Our Solutions
+By Industry
+In order to meet different industry needs and client demands, Impulse provides an array of network video, audio, and access control solutions. Integration and scalability for your expansion are ensured by the technology’s flexibility and security. Examine the variety of options designed to be implemented successfully in your working environment.
+Read More
+By Application
+Impulse provide an extensive array of solutions encompassing network video, audio, and access control, designed to meet the diverse requirements of various industries. Our comprehensive offerings cater to a wide spectrum of needs, ensuring effective surveillance, communication, and security management. Explore the versatility of our solutions to find the perfect fit for your specific industry and operational demands.
+Read More
+Make in India Certified
+Impulse is Make in India Certified and BIS Compliant in addition to our global certifications – UL®, FCC and CE.
+Read More
+Make in India Certified
+Impulse is Make in India Certified and BIS Compliant in addition to our global certifications – UL®, FCC and CE.
+Read More
+Case Studies
+Enhancing Security at EIC, Kidwai Nagar, Delhi with Impulse CCTV
+Enhancing Security at EIC, Kidwai Nagar, Delhi with Impulse CCTV The
+Read More »
+The Future of Security: Impulse CCTV Transforms Surveillance at Southern Command – Bangalore
+The Future of Security: Impulse CCTV Transforms Surveillance at Southern Command
+Read More »
+Strengthening Security Infrastructure at Patna Secretariat with Impulse CCTV’s Innovative Surveillance Solutions
+Strengthening Security Infrastructure at Patna Secretariat with Impulse CCTV’s Innovative Surveillance
+Read More »
+Explore More
+Blogs
+Next-Gen Surveillance: The Best Outdoor Camera Systems Reviewed
+Outdoor surveillance is no longer a luxury; it’s a necessity in today’s fast-paced world. Whether securing your home, monitoring business premises, or keeping an eye
+Read More »
+CCTV & Security Coverage for Commercial and Institutional Spaces: A Step-by-Step Setup Guide
+In today’s world, security is paramount, especially in commercial and institutional spaces where valuable assets and sensitive information are at stake. Closed Circuit Television (CCTV)
+Read More »
+Security Cameras for Construction Sites: A Must-Have for Every Project
+Construction sites are bustling hubs of activity, housing valuable equipment, raw materials, and sensitive documents. However, they are also prone to theft, vandalism, and safety
+Read More »
+Explore More
+Impulse Works Only Through A Dedicated
+Partner Network
+Become a Partner
+Get in touch with a Partner
+Connect With Us!
+Join Our Mailing List For Product Updates, CCTV Technology Articles, Industry Happenings And Much More
+Name
+Email
+Subscribe
+Help & Support
+Need help in figuring out a problem? Need to contact our support team? Need to view videos on How-to? This is where all the resources are.
+Read More
+About Us
+Impulse Industrial Grade Video Surveillance and
+Networking Systems are designed and manufactured for securing critical infrastructure worldwide.
+Important Links
+About Impulse
+Careers
+Privacy Policy
+Project Inquiry
+Contact Us
+About Impulse
+Careers
+Privacy Policy
+Project Inquiry
+Contact Us
+info@impulsecctv.com
+Linkedin
+Twitter
+Products
+Network Cameras
+Network Video Recorder (NVR)
+Video Management System
+Network Switches
+IP Public Address System
+Visual Interaction Module
+Accessories
+Linkedin
+Twitter
+Solutions
+By Industry
+By Application
+Services & Support
+Technical Support
+Downloads
+Resources
+Become a Partner
+Company
+About Us
+Blogs
+Case Studies
+Careers
+Privacy Policy
+© 2026 Impulse CCTV Networks India Pvt. Ltd. All Right Reserved
+Connect With Us!
+Join Our Mailing List For Product Updates, CCTV Technology Articles, Industry Happenings And Much More
+Name
+Email
+Subscribe

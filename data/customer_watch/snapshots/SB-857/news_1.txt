@@ -1,0 +1,124 @@
+# SB-857 airpro.in · news_1 · https://airpro.in/portfolio-category/ceiling-access-point/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+Ceiling Access Point Archives - AirPro - Best Wireless WiFi Router, Networking Products for Home & Business
+WiFi
+Ceiling AP
+In-Wall AP
+Outdoor AP
+WLAN Controllers
+Standard Controller
+Smart Controller
+Switching
+Enterprises
+Access
+Unmanaged Switch
+Outdoor Bridge
+Outdoor P2P/P2M
+4G/5G CPE
+Indoor Router
+Outdoor Router
+Fiber Access
+Media convertor
+SFP Transceiver
+Contact
+Resources
+Datasheet
+Partner
+E-Brochures
+E-Mailers
+Category: Ceiling Access Point
+Home
+Ceiling Access Point
+AP-WAC2100-V1, 1200Mbps 11ac High Power Ceiling Mount AP
+Comply with IEEE 802.11ac/b/g/n, dual-band,
+1200Mbps Data Rate, 2x2 MIMO Technology.
+1*100Mbps WAN Port, 1*100bps LAN Port, faster Ethernet.
+Support active IEEE 802.3af 48V PoE standard.
+Support SSID broadcasting, Multi SSID up to 8 (4 SSID in 2.4GHz, 4 SSID in 5GHz).
+Support Gateway (PPPOE, static IP, dynamic IP), Wireless AP, Repeater, WISP operation mode in FAT AP.
+With the function of the built-in firewall, IP filter, URL filter, and MAC filter.
+Comply with IEEE 802.3az standard, RF power adjustment, and frequency analyzer for better application in different environments.
+AP-WAC2100-V2, 1200Mbps 11ac High Power Ceiling Mount AP
+Comply with IEEE 802.11ac/b/g/n, dual-band, 1200Mbps Data Rate, 2x2 MIMO Technology.
+1*100/1000Mbps WAN Port, 1*100/1000Mbps LAN Port, faster Ethernet.
+Support active IEEE 802.3af 48V PoE standard.
+Support SSID broadcasting, Multi SSID up to 8 (4 SSID in 2.4GHz, 4 SSID in 5GHz).
+Support Gateway (PPPOE, static IP, dynamic IP), Wireless AP, Repeater, WISP operation mode in FAT AP.
+With the function of the built-in firewall, IP filter, URL filter, and MAC filter.
+Comply with IEEE 802.3az standard, RF power adjustment, and frequency analyzer for better application in different environments.
+AIR-AP603C-X1-V2, 1775Mbps Wi-Fi 6 Ceiling Mount AP
+Enterprise-Class Indoor 802.11ax Wi-Fi 6 Wireless Access Point
+Wireless user management at a fine granularity
+Flexible installation
+Good PoE compatibility
+Dual-mode fit & fat
+AIR-AP603C-X1-R2, 3000Mbps Wi-Fi 6 Ceiling Mount AP
+Enterprise-Class Indoor 802.11ax Wi-Fi 6 Wireless Access Point
+Wireless user management at a fine granularity
+Flexible installation
+Downlink Port
+PoE compatibility
+Multi-mode: fit, fat, bridge, nat
+AIR-AP605C-X1, Dual Band 11ax Wi-Fi Ceiling Mount AP
+Enterprise-class indoor 802.11ax Wi-Fi 6 wireless access point.
+Wireless user management at a fine granularity.
+Flexible installation.
+Downlink Port.
+Good PoE compatibility.
+Dual-mode fit & fat.
+AIR-AP605C-AX-R2, Dual-band high-performance Gigabit Wireless AP
+Enterprise-class indoor 802.11ax Wi-Fi 6 wireless access point.
+Wireless user management at a fine granularity.
+Flexible installation.
+PoE compatibility
+Dual-mode fit & fat
+Dual-mode fit & fat.
+AIR-AP610C-AX, Indoor 802.11ax Wi-Fi6 Dual band Enterprises AP
+Enterprise-class indoor 802.11ax Wi-Fi 6 wireless access point.
+Support IEEE 802.11a, IEEE 802.11b, IEEE 802.11g,
+IEEE 802.11n, IEEE 802.11ac & IEEE 802.11ax, IEEE 802.3az
+PoE Power IEEE 802.3at (PoE+) or better
+IPv4 & IPv6 Support
+Interfaces 1 x RJ-45 10/100/1000/2500 Mbps Multi Gigabit Ethernet Port,
+1x RJ45 console port, Hardware Reset Button
+AIR-AP620C-AX, Indoor 802.11ax Wi-Fi6 Dual band Enterprise AP
+Entry-level enterprise-class indoor 802.11ax Wi-Fi 6 wireless access point.
+Wireless user management at a fine granularity.
+Flexible installation.
+Anti-thief.
+Good PoE compatibility.
+Dual-mode fit & fat.
+AIR-AP940, Wireless Access Point for Enterprise solutions
+Maximize ROI (Lifetime Free Cloud Management).
+Hybrid Management (Cloud / Controller / Standalone).
+Fast Provisioning by AirPro Cloud.
+Automated Radio Optimization by Big Data Technology.
+Stylish Design (Integrated Antenna).
+Dual-band access points in AirPro SME AP Series.
+AIR-AP520, 1.75Gbps Dual Band 11ax Wi-Fi6 Ceiling Mount AP
+1*WAN PoE 10/100/1000Mbps + 1*LAN*10/100/1000 Mbps
+Power PoE af
+1.75Gbps 575Mbps on 2.4Ghz & 1.2Gbps on 5Ghz
+Radio Chain Streams 2x2
+Antenna Gain 4*5dbi
+NAT/Bridge
+Multiple SSID Up to 8
+AIR-AP530, 3Gbps Dual Band 11ax Wi-Fi6 Ceiling Mount AP
+1*WAN PoE 100/1000/2.5G (Optional) + 1*LAN*10/100/1000 Mbps
+Power PoE af
+1.75Gbps- 575Mbps on 2.4Ghz & 2.4Gbps on 5Ghz
+Radio Chain Streams 2x2
+Antenna Gain 4*5dbi
+NAT/Bridge
+Multiple SSID Up to 8
+AIR-AP605C-AX-R2, 3.57 Gbps High-Speed Wi-Fi 6 Connectivity
+IEEE 802.11ax/be with backward compatibility to Wi-Fi 6/5/4 ​
+Aggregate wireless throughput up to 3.57 Gbps​
+Dual-band 2×2 MIMO architecture (2.4 GHz + 5 GHz) ​
+688 Mbps @ 2.4 GHz and 3 Gbps @ 5 GHz
+Copyright © 2026 hostinza. All Right Reserved.
+X
+Switch The Language
+English
+Vietnamese
+French
+German

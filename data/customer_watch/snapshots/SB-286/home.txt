@@ -1,165 +1,246 @@
-# SB-286 simplelogin.com · home · https://simplelogin.io · fetched 2026-10-25T07:41:18Z · HTTP 200
-SimpleLogin | Open source anonymous email service
-Community
-Blog
-Stories about our journey to build an open-source tool to protect your privacy, what we've learnt and tips to take control of your privacy.
-Documentation
-How to get the most from SimpleLogin.
-GitHub Repo
-Read, review our code, share ideas. Make sure that SimpleLogin is doing what it says.
-Forum
-Discuss about new features, ask questions, share best practices, etc.
-Comparisons
-vs Plus Sign (+) Trick
-vs Firefox Relay
-vs Apple's Hide My Email
-Pricing
-Login
-Sign Up
-Receive and send emails anonymously
-With doesn't store emails: all emails sent to an alias are forwarded to your personal email.">email aliases , you can be anonymous online and protect your inbox against spams and phishing. Open source . Based in Switzerland.
-Get your aliases for free >>
-1,000,000+ happy users
-Recommended by
-How does Email Alias work?
-Shield your inbox with email aliases.
-1.
-Use Email Alias everywhere
-Next time a website asks for your email address, give an alias instead of your real email.
-2.
-Receive emails safely in your inbox.
-Emails sent to an alias are instantly forwarded to your inbox without the sender knowing anything.
-3.
-Send emails anonymously
-Just hit "Reply" if you want to reply to a forwarded email: the reply is sent from your alias and your real email stays hidden.
-You can also easily send emails from your alias.
-Create and manage your aliases everywhere
-Quickly create an alias on the go. Sign up for a newsletter, create a new online account with a click.
-Email aliasing loved by users
-Once I used it, it was a game changer.
-SimpleLogin is in my book criminally underrated.
-Techlore
-Privacy for the masses
-SimpleLogin seems to me ahead of the game.
-It's all open-source and I mean everything, the apps, the service, the website.
-Michael Bazzell
-IntelTechniques
-I like to use SimpleLogin for trowaway accounts like restaurant reservations or newsletters.
-I opt for SimpleLogin because it allows me easily to shut off an address. SimpleLogin is a very effective SPAM control measure.
-Naomi Brockwell
-Tech Journalist
-I personaly use SimpleLogin as my email aliasing tool.
-SimpleLogin login is an important part of my strategy.
-Josh
-All Things Secured
-I usually have to enter my email while subscribing to new services online, albeit
-without much confidence.
-SimpleLogin gives me a trustworthy alternative and helps me controlling my privacy on the
-Internet.
-Nguyen Nhat Cuong
-Senior Software Engineer at Facebook
-SimpleLogin gives me the convenience of a social login button with the privacy of an
-anonymous email
-address.
-I like that some of the money I spend on the service goes toward paying website owners, it allows me
-to feel less guilty about using uBlock Origin
-Max Schumacher
-@mxschumacher
-Privacy, security and features you’ll love
-SimpleLogin is the most advanced email alias solution.
-100% open source
-Built upon open source technology, all SimpleLogin components are also open source.
-You wouldn't trust a black box to handle your emails, would you?
-Send emails from alias
-Not only can an alias receive emails, it can also send emails. An alias is a full-fledged email address.
-Everywhere
-Manage your aliases on SimpleLogin website or on our
-Chrome ,
-Firefox, Safari extensions.
-Or on your phone with Android (Play Store, F-Droid) and iOS apps.
-Custom domain
-Bring your own domain and you don't have to buy yet another email hosting solution .
-And do you know that you can have anything@your-domain.com will be automatically created the first time it receives an email.">catch-all
-alias with your domain?
-On-the-fly aliases with subdomain
-If you don't have your own domain, you can use our ANYTHING@your-subdomain.simplelogin.com when you quickly need an alias, the alias will be created when it receives the first email.">subdomain to quickly create aliases without opening SimpleLogin web or mobile apps.
-Learn more .
-Generous pricing
-All SimpleLogin plans have infinite forwards/sends and unlimited bandwidth.
-Receive and send emails as much as you like.
-Multiple mailboxes
-If you already have several mailboxes, this feature is for you: you can add your mailboxes into SimpleLogin and choose which one to use when creating an alias. Learn more .
-Privacy & Security
-With PGP , emails are encrypted with your own PGP key before being forwarded to your mailbox. Only you can then decrypt these emails. Works perfectly with Proton Mail or any PGP tools (Thunderbird, GPGTools, etc).
-To better secure your SimpleLogin account, you can enable 2FA with TOTP and/or WebAuthn (FIDO) .
-More than (just) alias
-SimpleLogin's ambition is to protect your online privacy and email is only the beginning.
-Stay tuned for upcoming features like phone number protection and credit card protection.
-Help
-Frequently asked questions
-What exactly is an email alias ?
-Email alias is similar to forward email address: all emails sent to an alias will be forwarded to your inbox.
-Thanks to SimpleLogin technology, you can also send emails from an alias.
-For your contact, the alias is therefore your email address. More info about email alias on What is an email alias .
-I can use my plus sign (+) trick to create unlimited email addresses, why do I need SimpleLogin?
-Email subaddressing, also known as the plus (+) trick, popularized by Gmail and supported by some email services, allows you to create new email addresses by appending "+" to your current email address. Says your email is name@proton.me, you can quickly create another address like name+facebook@proton.me for Facebook, name+groupon@proton.me for Groupon, etc.
-Though practical, it has some downsides:
-- You cannot reply from the + address: your real email will appear as the sender.
-- The + trick is well-known and some websites don't allow sign-ups with email addresses that contain +.
-- Using + trick doesn't protect your privacy: one can easily remove the + part to have your real email. If your + address appears in the data breach, your real address is probably also in the hands of spammers. You could check whether your email is leaked using website like have i been pwned
-- By removing the + part, advertisers can link these + addresses together to have your browsing history.
-SimpleLogin aliases don't have any of these downsides. You can read more about the pros and cons of using the + trick on What makes email alias a better alternative to email plus sign (+)
-What is the difference between SimpleLogin and other email forwarding services?
-SimpleLogin is the most advanced email alias solution and is in active development. Here are some differences between SimpleLogin and other email forwarding/alias services:
-Fully open-source: both SimpleLogin server and client code (browser extension, JS library, mobile apps) are open-source so anyone can freely inspect and improve the code.
-Covers all major platforms: Chrome/Firefox/Safari extension for desktop, iOS and Android apps for mobile.
-The only email forwarding solution that can be self-hosted , i.e. you could run SimpleLogin on your server. With our detailed self-hosting instructions and most of components running as Docker container, anyone who knows ssh is able to deploy SimpleLogin on their server.
-You can send/reply emails from alias. There's no limits on the number of sends/replies.
-Unlimited bandwidth.
-No ads, no tracker.
-Not just email alias: SimpleLogin is also a privacy-focused and developer-friendly identity provider that:
-- respects user privacy
-- is simple to use for developers.
-SimpleLogin offers a privacy-focused alternative to the "Login with Facebook/Google/Apple" buttons.
-Plenty of features: browser extension, custom domain, catch-all alias, OAuth libraries, etc. and much more to come.
-Open roadmap at GitHub : you know the exciting features we are working on.
-How SimpleLogin is different than temporary email services?
-SimpleLogin alias are permanent as opposed to the temporary email addresses created on services like temp-mail.org .
-SimpleLogin also doesn't store the emails, they are stored in your mailbox.
-SimpleLogin is simply a different product for a different need.
-What is SimpleLogin's business model?
-Our revenue comes only from subscriptions, that means the product will stay ad-free forever.
-What is alias directory or catch-all feature?
-These 2 features both allow you to create alias on-the-fly , meaning you don't have to open SimpleLogin to create a new alias.
-Enabling catch-all on your domain allows you to use ANYTHING@my-domain.com as alias with ANYTHING being any word. The only limit is it has to have less than 128 characters.
-Alias Directory is similar to catch-all, you can use your_directory+ANYTHING@simplelogin.co as alias. your_directory is the name of the directory you created.
-I receive an email forwarded to my personal email from an alias. How can I reply to that email? Do I need to go to SimpleLogin to initiate the reply?
-You can reply directly from your email client. Just click on the "reply" button, the reply will be routed via SimpleLogin and SimpleLogin will make it coming from your alias. Your personal email will stay invisible to the original sender.
-Technically, the From header in your email is replaced by a special alias dynamically generated for each sender. When you reply, your reply is actually sent to this special alias and SimpleLogin will relay the reply back to the sender, making sure the email is sent from your alias. All information about your personal email address is removed during that process.
-What is a reverse-alias ?
-A reverse-alias is a special alias that allows you to send email from your alias .
-A reverse-alias is created for each alias you want to send email from and each contact you want to send email to.
-When you send an email to a reverse-alias from your personal email, the email will be sent from your alias to the contact.
-Is an email alias permanent?
-As a normal email address, an email alias is always there unless you delete it.
-Where are SimpleLogin servers located?
-We use servers from Proton and UpCloud - a cloud provider based in Finland.
-What is the custom domain feature?
-You can bring your own domains into SimpleLogin and create aliases like contact@your-domain.com , hi@your-domain.com .
-As you might have probably guessed, you can then use SimpleLogin to manage your business emails instead paying for an expensive solution like Google Workspace.
-All our business emails (e.g. contact@simplelogin.io ) are actually aliases 🤫
-What is our subdomain feature?
-Having a subdomain allows you to quickly create aliases on the fly, without having personal domain. For example, if you own the subdomain my-sub.aleeas.com , you can make up an alias like mcdonald@my-sub.aleeas.com when you are ordering a McDonald burger without opening SimpleLogin app.
-I can't find an answer to my question here
-You can find the list of all frequent question/answer on the FAQ page .
-If you don't find the answer there, please send your question to simplelogin@support.proton.me .
-You can also create an issue on our forum .
-Join more than 50,000 people who are protecting their inbox and privacy.
-SimpleLogin was the best thing that's ever happened to me (and I assume it the same applies to others who have tried it out. :) ). I use it mainly to protect my main e-mail from companies that potentially don't respect GDPR laws or can't be bothered to.
-Verum Rex
-Used this for years now. The creator is responsive and awesome as a whole. Product is 10/10 for what it does. Cheap as all hell as well. Use it for all of my emails. Super reliable and easy to setup with my own domain. Just really really nice.
-Lucas
-Protect your inbox today >>
-I used to be excited when receiving new emails.
-But thanks to thousands of data breaches , to the 200 billions data broker market , my inbox is now full of unsolicited, impossible-to-unsubscribe and personalized cold emails.
-When we use our personal email everywhere, it becomes our online identity and our activity can be easily linked together. 
+# SB-286 rimaelektronik.com · home · https://www.rimaelektronik.com/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+Rima | Kurumsal Güvenlik ve Bilişim Çözümleri
+Rima Kurumsal
+Referans
+Yasal Uyarı
+İş Başvuru
+Gizlilik Politikası
+Çözümler
+Güvenlik Sistemleri Ürünler
+Üreticiler
+PoE Switch Seçimi
+Endüstriyel PoE Switch Filtre
+PoE Switch Filtre
+Terimler
+Yazılım MICROSOFT MICROSOFT Kurumsal Çözüm ve Hizmetleri
+Sanallaştırma VMware Sanallaştırma
+Onbeş Başlıkta VMware
+VMware Sanal Sunucu: Ne, Nasıl, Avantajları, Dezavantajları
+Güvenlik Yönetim ve Gözetim Platformu Digifort
+Luxriot
+Milestone
+Avigilon
+Destek Yazılım İndir
+Teknik Destek Formu
+Teknik Destek Kapsamı
+Blog Güvenlik Sistemleri Hakkında
+IP Kamera Rehberi
+Bilişim ve Teknoloji
+Duyuru
+Etiket
+İletişim
+Ara Arama Arama
+Makaleler • Çözümler • Etiketler • Terimler • İndirmeler
+içinde arama yapabilirsiniz.
+Ürün aramak için sağdaki görseli tıklayın.
+Ayrıntılı ürün arama ve filtre kullanmak için ürünler sayfasına gidebilirsiniz.
+anasayfa
+işletmeler için
+Teknoloji ve Bilişimde
+EVRENSEL
+SÜRDÜRÜLEBİLİR
+ÖZGÜN
+Güvenlik sistemleri - Zayıf Akım - AR-GE - Veri analizi - Bulut bilişim - Uygulama geliştirme - Yapay zeka - Siber güvenlik - Yazılım - Alt yapı yönetimi - Ağ yönetimi - Sistem yönetimi -Donanım tasarımı..
+digifort
+Güvenlik Sistemi Yazılımlarıyla Tanışın Yapay Zeka Destekli
+Video Analiz
+Digifort IP Kamera/NVR cihazları için geliştirilmiş bir video yönetim yazılımıdır. Gelişmiş özelliklere sahip yazılımın kayıt ve yönetim dışında teknolojik yenilikleri barındıran ve yapay zeka ile donatılmış bir yapısı vardır.
+Digifort
+marine
+MARINE TERMAL
+Kullanım alanları: Araştırma ve Kurtarma
+Ticari Balıkçılık
+Güvenlik ve Kolluk
+Liman ve Su Yolları
+Yatçılık ve Teknecilik
+FLIR
+Rima tüm ürün ve hizmetleri, işletmenizin ihtiyaçları doğrultusunda entegre çözümler halinde sunar. Gerçek ihtiyacı ortaya çıkartıp, buna en uygun ürün ve/veya hizmetleri sunabilmek için;
+Donanım, yazılım, entegrasyon, güvenlik sistemleri, operasyon, bakım içerikli tümleşik bilişim çözümlerini, global değişimi yakından takip ederek sürekli ve güncel kılmayı amaçlar.
+Ip CCTV sistemleri, görüntü analiz sistemleri, fiber optik altyapı, kablosuz veri aktarımı, yapısal kablolama, veri depolama, siber güvenlik sistemleri, yangın algılama, geçiş kontrol sistemleri, sistem odası entegrasyon ve kurulum hizmeti, farklı sektörlere yönelik ERP/CRM yazılım çözümleri ve bu alanları kapsayan bakım/destek başlıca hizmet sunduğumuz iş gruplarıdır.
+ibm
+cisco
+broadcom
+d-link
+dahua
+GE
+digifort
+axis
+HP
+dynacolor
+hikvision
+ajx
+western
+Müşterilerimizi her biri kendi alanında lider teknoloji markaları ile buluşturuyoruz.
+NETWORK ALTYAPI
+Çözümler
+IP Kamera sisteminin sunacağı yüksek performans ve çözünürlük…
+NETWORK ALTYAPI
+IP Kamera sisteminin sunacağı yüksek performans ve çözünürlük alt yapı da kullanılan donanım ve kablo kalitesi ile doğrudan ilişkilidir.
+KABLOSUZ VİDEO AKTARIMI
+Çözümler
+KABLOSUZ / WIRELESS NETWORK ÇÖZÜMLERİ Profesyonel cihazlarla…
+KABLOSUZ VİDEO AKTARIMI
+KABLOSUZ / WIRELESS NETWORK ÇÖZÜMLERİ Profesyonel cihazlarla gerçek throughtputh değerlerinde aktarım Ip kameralar sayesinde megapiksel görüntü aktarımı 1-5-10 ve 50 km görüntü aktarım imkanı Wi-fi…
+FİBER OPTİK AKUSTİK ALGILAMA
+Çözümler
+Fiber optik akustik algılama, akustik dalgaları algılamak için…
+FİBER OPTİK AKUSTİK ALGILAMA
+Fiber optik akustik algılama, akustik dalgaları algılamak için fiber optik kabloları kullanan bir teknolojidir. Bu teknoloji, geleneksel akustik algılama yöntemlerine göre birçok avantaja sahiptir. Örneğin,…
+PLAKA TANIMA SİSTEMLERİ
+Çözümler
+Farklı boyutlardaki kare ve dikdörtgen plakalar rahatlıkla tanımlanıp…
+PLAKA TANIMA SİSTEMLERİ
+Farklı boyutlardaki kare ve dikdörtgen plakalar rahatlıkla tanımlanıp kayıt altına alınabilir. Gece; düşük ışıkta veya tamamen karanlıkta başarılı sonuçlar alınabilir. Zor koşullarda %90’nin üzerinde algılama…
+AVIGILON
+Güvenlik Yönetim ve Gözetim Platformu
+Avigilon, yüksek kaliteli video gözetim çözümleri sunan bir…
+AVIGILON
+Avigilon, yüksek kaliteli video gözetim çözümleri sunan bir endüstri lideridir. Şirket, video analitiği, yapay zeka ve büyük veri teknolojilerini kullanarak güvenlik ve operasyonel verimlilik alanlarında müşterilere…
+GÜNEŞ ENERJİSİ SİSTEMLERİNDE AI ANALİZLERİ VE DRONELAR: YENİLENEBİLİR ENERJİDE VERİMLİLİĞİ ARTIRIN
+Çözümler
+Güneş Enerjisi Sistemlerinde AI Analizleri ve Dronelar: Yenilenebilir…
+GÜNEŞ ENERJİSİ SİSTEMLERİNDE AI ANALİZLERİ VE DRONELAR: YENİLENEBİLİR ENERJİDE VERİMLİLİĞİ ARTIRIN
+Güneş Enerjisi Sistemlerinde AI Analizleri ve Dronelar: Yenilenebilir Enerjide Verimliliği Artırın GES AI analizleri Güneş enerjisi sistemlerinin performansını optimize etmek ve verimliliği artırmak için doğru…
+FLIR TERMAL DENİZCİLİK (MARINE) ÇÖZÜMLERİ
+Çözümler
+FLIR Deniz Kameraları Yazılım ve Hizmetleri FLIR deniz…
+FLIR TERMAL DENİZCİLİK (MARINE) ÇÖZÜMLERİ
+FLIR Deniz Kameraları Yazılım ve Hizmetleri FLIR deniz kameraları , denizcilere geceleri ve zorlu hava koşullarında bile güvenli ve etkili bir şekilde seyretmeleri için yardımcı olan…
+IP KAMERA YAZILIMI
+Çözümler
+Birçok markayı bir arada destekleyen uluslararası ip…
+IP KAMERA YAZILIMI
+Birçok markayı bir arada destekleyen uluslararası ip kamera yazılımları. Çok sayıda ve yüksek çözünürlüklü ip kamera projelerde işlevsellik ve stabil çalışma imkanı sunar. Server –…
+GÜNEŞ ENERJİSİ DESTEKLİ IP KAMERA
+Çözümler
+Rima, güneş enerjisindeki en yeni teknolojiyi kullanarak yerel…
+GÜNEŞ ENERJİSİ DESTEKLİ IP KAMERA
+Rima, güneş enerjisindeki en yeni teknolojiyi kullanarak yerel ve uzak ağınıza dahil edebileceğiniz ip kamera setini geliştirdi.IP video güvenliği ve gözetimi için uygun maliyetli çözümlere tercihiniz…
+Öğe bulunmadı.
+IOT, Nesnelerin İnterneti
+internet üzerinden diğer cihaz ve sistemlerle veri bağlantısı ve paylaşım Şehir Güvenlik Tarım Sağlık
+İncele
+PERİYODİK BAKIM ANLAŞMASI
+İŞLETMENİZE BİR ÇOK YÖNDEN FAYDA SAĞLAYABİLİRSİNİZ.
+Yıllık bakım anlaşmaları, işletmenizin sahip olduğu donanım, yazılım veya tesislerin düzenli olarak bakımının yapılmasını sağlayan sözleşmelerdir.
+Yıllık bakım anlaşması hizmeti alarak, işletmenizin bilgi teknolojileri altyapılarını yönetmek, bakımını yapmak ve sorunları çözmek için kapsamlı profesyonel destek sağlayabilirsiniz.
+Ayrıntılar
+Bilgi Teknolojileri Bakım Anlaşması Avantajları
+MALİYET
+Bilgi teknolojileri altyapısı için sabit bir bütçe belirleyebilir ve beklenmedik masraflardan kaçınabilirler.
+SÜREKLİLİK
+Bilgi teknolojileri ve donanım altyapısının sürekli olarak güncel, güvenli ve verimli olmasını sağlayabilirler.
+ZAMAN
+Altyapı ve donanım ile ilgili sorunlara hızlı ve etkin bir şekilde servis personeli müdahale edilmesini sağlayabilir.
+SERVİS
+Herhangi bir arızaya karşı servis önceliği alırlar. Servis personeli en kısa sürede arızayı çözerek cihazları çalışır hale getirir.
+Etki alanı
+Bir çok ülkede kurumsal müşterilerimiz ile farklı projelerde bir araya geldik.
+600+
+KURUMSAL MÜŞTERİ
+1000+
+PROJE
+10+
+ÜLKE
+52+
+ŞEHİR
+Sektörel dağılım
+ENDÜSTRİYEL ÜRETİM
+LOJİSTİK
+peRaKENDE
+DİĞER
+Değerlendirmeler
+Hadımköy de bulunan Tesisimiz ve A tipi Genel Antrepomuzun Kamera siteminin kurulmasında göstermiş olduğunuz ilgi, hizmet ve satış sonrası teknik destek performansınız için teşekkür ediyorum. Başarılarınızın devamını dilerim.
+Ercan Kont
+Hüner Logistic Group / Genel Müdür
+Rima Elektronik’e başta kamera ve alarm sistemleri konusunda olmak üzere değişik lokasyonlarımızdaki birçok projemizde/sistem donanımı tedarikinde gösterdikleri üstün başarı, özverili çalışma ve destekleri, kaliteli hizmet anlayışları, çözüm üretme konusundaki yetkinlikleri ve fiyat/performans oranını üst seviyelerde tutabilmelerinden dolayı teşekkürlerimizi sunuyor, başarılarının devamını diliyoruz.
+Gökhan Demir
+GF Hakan Plastik / Satın Alma ve Tedarik Zinciri Müdürü
+Uzun yıllardır sektörden tanıdığım ve çalıştığımız güçlü bir tedarikçimizdir. Fiyat ve performans noktasında rekabetçi çalışmalarından dolayı teşekkür ederiz.
+Hasibe Tüzel
+Vital Hospital / Finans Müdürü
+Ic Green Palace Otel olarak 2011 yılından beri sizden hizmet almış bulunmaktayız. Bu süre zarfında bize vermiş olduğunuz teknik destekten dolayı teşekkürlerimizi sunarız. Otelimize takmış olduğunuz kameralar son derece net ve güzel bir şekilde çalışmaya devam etmektedir. Herhangi bir sorunla karşılaştığımız zaman sizin teknik müdahaleniz sayesinde hemen çözümlenmiştir. Desteğiniz sayesinde Otelimize daha güvenilir ve huzurlu bir ortam oluşmuştur. Ic Green Palace Otel olarak sizlere tekrar teşekkürlerimizi sunar, çalışma hayatınızda hep böyle başarılı olmanızı temenni ederiz.
+Levent Bayraktar
+Ic Green Palace Otel / Bilgi İşlem Müdürü
+Yaklaşık iki yıldır bulunduğum görevde, kamera sistemleri konusunda çözüm ortağı olarak çalıştığımız Rima Elektronik personelinin şirketimiz taleplerinin karşılanması konusunda gösterdikleri özen, çıkan problemlere buldukları çözümler ve teknik destek personelinin bunların hayata geçirilmesinde gösterdikleri özverili, başarılı çalışmalarını takdire şayan olarak müşahede etmekteyim. Bundan sonraki çalışmalarında da aynı başarıları göstereceklerine olan inancımla kendilerine kolaylıklar dilerim.
+Lokman Polat
+Efesan Port / İdari İşler Şefi
+2017 Yılından beri RİMA ELEKTRONİK ailesi ile çalışmaktayız.
+Dört farklı lokasyonda yer alan kampüslerimiz için yapmış oldukları güvenlik kamera sisteminin projelendirilmesi, kurulum ve devreye alınması ile ilgili gösterdikleri çalışma için teşekkür ederiz.
+Çözüm odaklı teknik servis hizmeti içinde teşekkürlerimizi sunuyoruz.
+F. Alper Ozan
+İstanbul Kültür Üniversitesi / Daire Başkanı
+Müşterilerimiz
+Duyurular
+AXIS EKİM 2026 BÜLTEN
+AXIS EYLÜL 2026 BÜLTEN
+AXIS TEMMUZ 2026 BÜLTEN
+AXIS MAYIS 2026 BÜLTEN
+AXIS NİSAN 2026 BÜLTEN
+İçerik Etiket
+UDP 1 kablosuz görüntü aktarma 1 fiber yangın algılama 1 ip kamera nvr 1 4K h264 1 hd ip güvenlik kamerası 1 wireless video aktarımı 1 kamera sistemi 2 covid 19 1 People Counter 1
+Menü
+PoE Switch Filtre
+Çözümler
+Ip Kamera Rehberi
+Terimler
+İş Başvurusu
+Destek Talebi
+Kurumsal
+Yasal Uyarı
+Son İçerikler
+GÖZETİM, GİZLİLİK İHLALLERİ VE KİŞİSEL VERİ VAKASI "Flock Safety"
+KURUMSAL YAPAY ZEKA ROI (YATIRIM GETİRİSİ) ANALİZİ
+AXIS SIK SORULAN SORULAR (FAQ)
+AXIS COMMUNICATIONS | VİDEO GÖZETİMDE YAPAY ZEKA DURUM RAPORU © 2025
+ELEVEN11BOT BOTNETİ: 86.000’DEN FAZLA CİHAZI KONTROL ALTINA ALAN SİBER TEHDİT
+Link
+Ip Kamera, ip kamera fiyat, ipkamera, güvenlik kamerası, yangın alarmı, poe switch, time lapse, güvenlik sistemleri, wireless ip kamera, Zayıf Akım, Yapay zeka, ip kamera yazılım, NVR, ptz kamera, hd kamera, ip kamera sistemi, ır kamera, Araç Kamerası, Mobil Dvr, Turkey, Türkiye, CCTV, Network Kamera, Distribütör, Yetkili Satıcı
+CCTV, ip kamera sistemleri, Araç Kamerası, güvenlik kamerası tamiri, güvenlik sistemleri , Mobil Dvr, IP Cam, Ip Kamera, Kamera Kayıt, Axis , Sony , Bosch , Dahua , Flir , Dynacolor , Jvc , Pelco , NVR , ip kamera, Samsung ip kamera, Turkey CCTV, Turkey, Türkiye, İstanbul güvenlik kamerası ,
+rima.
+Rima Elektronik Bilişim ve Güvenlik Sistemleri, bilişim ve teknoloji temelli tüm hizmet ve operasyonlarda yer almak, müşterilerine uçtan uca entegre bilişim hizmetleri sağlamak amacı ile 2000 yılında kurulmuştur.
+iletişim
+0212 424 1616
+0212 553 3621
+bilgi@rimaelektronik.com
+1. İnönü Cad. No:18 Kat:1
+Beşyol / Florya iSTANBUL
+34295 TÜRKİYE
+Hafta içi:  -
+Hafta sonu Cmt.:  -
+Hafta sonu Pazar: Kapalı
+sosyal
+Rima Kurumsal
+Referans
+Yasal Uyarı
+İş Başvuru
+Gizlilik Politikası
+Çözümler
+Güvenlik Sistemleri Ürünler
+Üreticiler
+PoE Switch Seçimi
+Endüstriyel PoE Switch Filtre
+PoE Switch Filtre
+Terimler
+Yazılım Sanallaştırma VMware Sanallaştırma
+Onbeş Başlıkta VMware
+VMware Sanal Sunucu: Ne, Nasıl, Avantajları, Dezavantajları
+Güvenlik Yönetim ve Gözetim Platformu Digifort
+Luxriot
+Milestone
+Avigilon
+MICROSOFT MICROSOFT Kurumsal Çözüm ve Hizmetleri
+Destek Yazılım İndir
+Teknik Destek Formu
+Teknik Destek Kapsamı
+Blog Güvenlik Sistemleri Hakkında
+IP Kamera Rehberi
+Bilişim ve Teknoloji
+Duyuru
+Etiket
+İletişim
+Ara
+İçerik ara.. Arama
++90 212 424 1616
+bilgi@rimaelektronik.com
+Pzt. - Cma. -

@@ -1,156 +1,133 @@
 {
- "code": "SB-367",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（petawise.com，快照 2026-10-21）",
- "summary": "加拿大 Petawise（「Canadian Arm of Uniview Technologies」安大略 IP 视频监控分销，Wanglu IPC 测试仪独家分销；PoE 交换机栏目全线用 Itoonertech（表内「全线用 itoonertech 的 FS，IPC 比较多，主要是 CCTV」）；KP Stephane Lavigueur（VP of Product and Engineering）、Ebin Nazar（Sales Engineer）、John K）；群发 18 次无回复。",
- "type": "Uniview 加拿大分销商（PoE 现 Itoonertech）",
- "size": "",
- "brands_seen": [
-  "Uniview",
-  "Ruijie",
-  "Itoonertech"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：Petawise | Best cameras in Ontario | Best cameras in Canada；品类词 安防监控（CCTV / 门禁） / 网络交换 / PoE",
-   "quote": "Petawise is the Canadian Arm of Uniview Technologies Co. Ltd., a pioneer and leader of IP video surveillance..Petawise is an exclusive distributor of Wanglu Technology, a leader of IPC tester.",
-   "url": "https://petawise.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "全线用itoonertech的FS IPC比较多 主要是CCTV领域；全线用itoonertech的FS IPC比较多 主要是CCTV领域 在用Itoonertech商业PoE；https://petawise.com/product-category/PoE-solutions/",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "Petawise 定位",
-   "quote": "Petawise is the Canadian Arm of Uniview Technologies Co. Ltd., a pioneer and leader of IP video surveillance..Petawise is an exclusive distributor of Wanglu Technology ; /product-category/accessories/poe-switch/",
-   "url": "https://petawise.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "全线用 Itoonertech 的 FS",
-   "quote": "全线用itoonertech的FS IPC比较多 主要是CCTV领域；在用Itoonertech商业PoE",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Stephane Lavigueur",
-   "title": "Vice President of Product and Engineering",
-   "email": "sales@petawise.com",
-   "phone": "",
-   "source": "用户表"
-  },
-  {
-   "name": "John K",
-   "title": "（职务待核）",
-   "email": "johnk@petawise.com",
-   "phone": "",
-   "source": "用户表"
-  },
-  {
-   "name": "Ebin Nazar",
-   "title": "Sales Engineer",
-   "email": "",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "美国",
-  "other": "官网 petawise.com，语言 en-US，快照状态 ok；角色判定来源：用户表"
- },
- "business_lines": [
-  "IP 视频监控分销（Uniview 加拿大）",
-  "PoE 交换机 / IPC 测试仪"
- ],
- "channels": {
-  "role": "Uniview 加拿大分销商（PoE 现 Itoonertech）",
-  "region": "美国",
-  "contact": "sales@petawise.com、johnk@petawise.com"
- },
- "signals": [
-  "官网：Petawise is the Canadian Arm of Uniview Technologies Co. Ltd. … Petawise is an exclusive distributor of Wanglu Technology, a leader of IPC tester；页面 /product-category/accessories/poe-switch/；kw distributor 15",
-  "表内：全线用 itoonertech 的 FS IPC 比较多 主要是 CCTV 领域；在用 Itoonertech 商业 PoE（https://petawise.com/product-category/PoE-solutions/）；KP Stephane Lavigueur / Vice President of Product and Engineering；Ebin Nazar / Sales Engineer；John K"
- ],
- "risks": [
-  "Uniview 加拿大分支定位（品牌导向，Uniview 自带 PoE 线）；现供 Itoonertech（深圳）价格基准低",
-  "18 次无回复 → 改向 VP Product & Engineering 具名首触",
-  "国别更正：官网「Best cameras in Ontario | Best cameras in Canada」→ 加拿大（表内美国）"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 20,
-  "why": "PoE 全线现 Itoonertech（深圳）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）作 Marvell 升级位；非管理 8/16 PoE 位 HRUI STC-028GP / STC-2216GPM（列表价，注明）；24 口 STC-424DGGPM-280W（$134.5）"
- },
- "email_hook": "Stephane, alongside the PoE switches you bundle with Uniview cameras, we supply Marvell-based 8-PoE + 2 SFP L2+ and 24-PoE + 4 SFP models plus budget 8/16-port PoE units from small lots, FCC/CE/RoHS, EXW USD — which port count do your Ontario dealers order most?",
- "country_fix": "加拿大",
- "mail_review": {
-  "binding": {
-   "level": "读而不回（A/S 邮箱 28 封 2024→2026，其中 2 封被打开，0 回；收件 dexter@petawise.com, ebin@petawise.com；被打开主题「Mini Industrial PoE Switch、Marvell Industrial Alert System」；Elsa 箱：`to:petawise.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 28 / 来 0）（第 74 批(h)））",
-   "type": "Uniview 加拿大分销商（PoE 现 Itoonertech）",
-   "sieve": "2（有人在读，无人回）",
-   "stop": "读而不回 = 内容未命中或没有当下需求",
-   "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
-   "lane": "CA 主攻",
-   "cadence": "一封；回了再说",
-   "evidence": "gmail_digest：out 28，Opened 标签 2（Simon 群发追踪）；用户表：「全线用itoonertech的FS IPC比较多 主要是CCTV领域；全线用itoonertech的FS IPC比较多 主要是CCTV领域 在用Itoonert」；研究档 risks：Uniview 加拿大分支定位（品牌导向，Uniview 自带 PoE 线）；现供 Itoonertech（深圳）价格基准低"
-  },
-  "situation": "加拿大 Petawise（「Canadian Arm of Uniview Technologies」安大略 IP 视频监控分销，Wanglu IPC 测试仪独家分销；PoE 交换机栏目全线用 Itoonertech（表内「全线用 itoonertech 的 FS，IPC 比较多，主要是 CCTV」）；KP Stephane Lavigueur（VP of Product and Engineering）、Ebin Nazar（Sales Engineer）、John K）；群发 18 次无回复。",
-  "need": "PoE 全线现 Itoonertech（深圳）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）作 Marvell 升级位；非管理 8/16 PoE 位 HRUI STC-028GP / STC-2216GPM（列表价，注明）；24 口 STC-424DGGPM-280W（$134.5）",
-  "breakpoint": "Uniview 加拿大分支定位（品牌导向，Uniview 自带 PoE 线）；现供 Itoonertech（深圳）价格基准低",
-  "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 20,
-   "price": "首触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-19 $65（10G fiber media converter）；群发里他已看到的价（续）：2026-07-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-11-27 $300（48 Port PoE Managed Switch）、2025-02-05 $240（24 Port Fiber Switch）、2025-10-10 $280（10G Enterprise SFP Switch）",
-   "why": "PoE 全线现 Itoonertech（深圳）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）作 Marvell 升级位；非管理 8/16 PoE 位 HRUI STC-028GP / STC-2216GPM（列表价，注明）；24 口 STC-424DGGPM-280W（$134.5）。已打开的主题（2/28 封有打开记录）：「48 Port PoE Managed Switch」(2024-11-27)、「24 Port Fiber Switch」(2025-02-05) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-03-02)、Saga Feature List_7.5.x_L2+(2026-07-01)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "2026-11",
-   "channel": "A 邮箱 → dexter@petawise.com",
-   "action": "短信一问（email_hook）",
-   "one_question": "Stephane, alongside the PoE switches you bundle with Uniview cameras, we supply Marvell-based 8-PoE + 2 SFP L2+ and 24-PoE + 4 SFP models plus budget 8/16-port PoE units from small lots, FCC/CE/RoHS, EXW USD — which port count do your Ontario dealers order most? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
-  },
-  "facts": [
-   {
-    "date": "2026-08-27",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "Mini Industrial PoE Switch、Marvell Industrial Alert System",
-    "why": "28 封 / 2 次打开 / 0 回｜首封 2024-06-26 → 末封 2026-08-27（28 去 / 0 来）",
-    "k": "gmail_digest"
-   },
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "全线用itoonertech的FS IPC比较多 主要是CCTV领域；全线用itoonertech的FS IPC比较多 主要是CCTV领域 在用Itoonertech商业PoE；https://petawise.com/product-ca",
-    "why": "表内备注",
-    "k": "用户表"
-   }
+  "code": "SB-367",
+  "name_official": "Công ty Cổ Phần MTS（thuyluc.com，越南液压公司）",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（快照 2026-10-21，越南语）",
+  "summary": "越南 MTS 股份公司，主业液压（软管、阀、泵、油缸、滤芯），非网络行业；表内联系人 Lee 曾询 2 光 6 电非管理非 PoE SC 20 km（未成）。行业外偶发需求，保留 B 低优先。",
+  "type": "",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "主业液压产品",
+      "quote": "Công ty Cổ Phần MTS chuyên cung cấp các loại Sản phẩm Thủy lực, Ống mềm, Đầu nối, Van thủy lực, Bơm thủy lực, Xilanh thủy lực",
+      "url": "https://thuyluc.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "兴趣 2 光 6 电非管理非 POE SC 20km 没成；Email 发了 2 光 6 小壳信息",
+      "quote": "兴趣：2光6电非管理非POE SC 20km 没成",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [],
-  "draft_en": {
-   "subject": "One question — Mini Industrial PoE Switch",
-   "body": "Hi Stephane,\n\nWe have sent you a few mails on \"Mini Industrial PoE Switch\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nAlongside the PoE switches you bundle with Uniview cameras, we supply Marvell-based 8-PoE + 2 SFP L2+ and 24-PoE + 4 SFP models plus budget 8/16-port PoE units from small lots, FCC/CE/RoHS, EXW USD — which port count do your Ontario dealers order most?\n\nReference price: 8-PoE + 2 × 1G/2.5G SFP L2+ managed switch (Marvell AC5), 120 W (STC-28DGGPM) $80.7 USD EXW, MOQ 1 pc, 15-day validity, 1-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+  "kp": [
+    {
+      "name": "Ly Thanh Ha (Lee Thanh Ha)",
+      "title": "（表内联系人）",
+      "email": "hydraulics@vnn.vn；chuyengiathuykhi@gmail.com（2024-06 来信地址）",
+      "phone": "+84 912 336 758",
+      "source": "（本地 Clients/ 表格，无公开 URL）",
+      "role": "；Project Manager, MTS JSC（2024-06-21 签名；发信地址 chuyengiathuykhi@gmail.com）"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（官网快照：行业外）"
   },
-  "as_of": "2026-10-24"
- }
+  "company_facts": {
+    "legal_name": "Công ty Cổ Phần MTS",
+    "founded": "",
+    "hq": "越南",
+    "size": "中小型",
+    "other": "液压行业（行业外）"
+  },
+  "business_lines": [
+    "液压元件贸易"
+  ],
+  "channels": {
+    "role": "行业外终端 / 偶发采购",
+    "region": "越南"
+  },
+  "risks": [
+    "行业外，需求一次性"
+  ],
+  "saga_fit": {
+    "p1": "STI-280GE",
+    "tier": 25,
+    "why": "2 光 6 电非管理非 PoE（SC 20 km）≈ Saga STI-280GE（2 SFP + 8 GE，$46.6/48.6/50.5）+ SC 20 km 模块（Q-32）。"
+  },
+  "email_hook": "（低优先；若再询再报）",
+  "mail_review": {
+    "binding": {
+      "level": "轻度触达（2024-06-21 Ly Thanh Ha「Please quote me 10pcs」→ 报价已发；无后续）；Elsa 群发 To 直收 1 轮 2026-09-10（本户是「越南-2（锚 thuyluc1973 gmail；仅 2026-09-10 一轮）」批次的锚：每轮 To 本户、其余客户 Bcc；最近 2026-09-10「24 Port PoE Managed Switch」，最近一封正文「Price: 170USD/PC」），0 回（第 74 批核对 msg 1a08a7cf5fc993e4）；同日 2026-09-10 本户也在越南-1 锚 inbox.vienthonghanoi@gmail.com 那轮的 Bcc 里，即同一天收到两份同一封「24 Port PoE Managed Switch」（第 74 批 Bcc 头核对 msg 1a08a3bf37753529）",
+      "type": "越南液压/自动化公司（MTS JSC）",
+      "sieve": "3（10 台询价）",
+      "stop": "报价后无回",
+      "revive": "不动",
+      "lane": "VN",
+      "cadence": "不动",
+      "evidence": "k=6940cc80c3d991e2；第 19 批回补来信原文 1 条（gmail_s/gmail_a）；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To inbox.vienthonghanoi@gmail.com）本户见于 2026-09-10 名单；同批次（To thuyluc1973@gmail.com）本户见于 2026-09-10 名单"
+    },
+    "situation": "—",
+    "need": "8 口光纤工业。",
+    "breakpoint": "—",
+    "saga_now": {
+      "p1": "—",
+      "tier": 25,
+      "price": "他见过的实报（2024-06-22）：STI-260FE $35 / STI-266FP $40（10 台档）；—；群发里他已看到的价（续）：2026-10-20 $180（24 Port PoE Managed Switch = STC-424XGGPM-280W，Alan 2026-09-21 起的现价轮）——同款信稿只能写 $180；群发里他已看到的价（续，第 66 批全量复核）：2024-10-25 $65（10G Media Converter）、2024-12-19 $300（48 Port PoE Managed Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-09-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-10；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
+      "why": "已打开的主题（5/11 封有打开记录）：「Re: 8 port fiber switch」(2024-06-22)、「Re: 8 port fiber switch」(2024-06-25)、「Re: 8 port fiber switch」(2024-07-18)、「48 Port PoE Managed Switch」(2024-12-19) → 读者兴趣偏「MC/光电」；与 P1 同类，继续",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "不动",
+      "channel": "—",
+      "action": "首封前知悉：本户是 Elsa 群发批次的锚（每轮 To 本户），已收 1 轮（2026-09-10→2026-09-10，0 回）（第 74 批(m)）；—",
+      "one_question": ""
+    },
+    "facts": [
+      {
+        "date": "2024-06-21",
+        "dir": "来",
+        "who": "chuyengiathuykhi@gmail.com",
+        "quote": "Please quote me 10pcs. *Mr. Ly Thanh Ha (Lee Thanh Ha)* Project Manager MTS JSC VAT Code 0101892941 No. 166, Tuu Liet road, Tam Hiep Ward Thanh Tri Di",
+        "why": "来信原文（主题「Re: 8 port fiber switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+        "k": "6940cc80c3d991e2"
+      },
+      {
+        "date": "2024-06-22",
+        "dir": "去",
+        "who": "Simon → Ly Thanh Ha（Quotation.pdf）",
+        "quote": "10 台询价的正式报价：STI-260FE（6×FE + 2×100M 光，非 PoE，非管理，DIP）$35 ×10 = $350；STI-266FP（6×FE PoE 180W + 2×100M 光）$40 ×10 = $400；合计 $750；validity 15 d；leadtime 4~7 wd；warranty 3 years；1×9 固定光口可选。",
+        "why": "对方「Please quote me 10pcs」是明确的小批量意向，报价后无回——VN 线不动，但价是实报，留作百兆工业机锚",
+        "k": "S 邮箱附件 `Quotation.pdf` sha=191732ce6b45da58（2024-06-22）"
+      },
+      {
+        "date": "2026-09-10",
+        "dir": "去",
+        "who": "Elsa（e.sagatelecom，Gmail 连接器实时查询）",
+        "quote": "Elsa 邮箱群发「24 Port PoE Managed Switch」→ thuyluc1973@gmail.com（截至 2026-10-24 无回复）",
+        "why": "仓库 gmail_e 只收录有回复的线程，Elsa 2026-08-19 → 09-15 的 201 封群发不在库里；本户在前 100 封内。意义：S/A 邮箱的「未发信/未触达」判断不等于 Elsa 没碰过——三个邮箱对同一户的触达要合看；Elsa 群发无回 = 再加一次「读而不回/未触达」证据",
+        "k": "Gmail 连接器 list_messages newer_than:70d from:e.sagatelecom（2026-10-24 07:3x Z）"
+      },
+      {
+        "date": "2026-09-10",
+        "dir": "out",
+        "who": "Elsa → thuyluc1973@gmail.com",
+        "quote": "24 Port PoE Managed Switch（本户为该批次的锚：每轮 To 本户、其余客户 Bcc；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f）",
+        "why": "本户是 Elsa 群发批次的 To（锚），不是 1:1 名单；全程见 bcc_batches_2026.json anchors（第 74 批(m) 更正）",
+        "k": "elsa_bcc",
+        "msg_id": "1a08a7cf5fc993e4"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-25"
+  }
 }

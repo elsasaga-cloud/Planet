@@ -1,106 +1,243 @@
-# SB-309 enetusa.com · home · https://enetusa.com/ · fetched 2026-10-25T07:41:18Z · HTTP 200
-ENETUSA
-Skip to content
-Home
-Optical Transceivers
-Direct Attach Cables
-Active Optical Cables
-MTP/MPO Cables
-Fiber Cables
-Copper Cables
-Contact
-Search
-Site navigation
-ENETUSA
-Home Home
-Optical Transceivers Optical Transceivers
-Direct Attach Cables Direct Attach Cables
-Active Optical Cables Active Optical Cables
-MTP/MPO Cables MTP/MPO Cables
-Fiber Cables Fiber Cables
-Copper Cables Copper Cables
-Contact Contact
-Search
-Site navigation
-OEM Compatible Transceivers, DACs, and AOCs
-POWERING THE FUTURE OF CONNECTIVITY
-Learn More About our 800G Solutions
-Powering AI/HPC and Hyperscale Technology
-Learn More About our AI/HPC Solutions
-1.6T DR8 OSFP224 Transceivers
-View 1.6T Transceivers
-100G QSFP28 DCO DWDM AUTOTUNE Transceivers
-View 100G DCO Transceivers
-Page 1
-Page 2
-Page 3
-Page 4
-Page 5
-CONNECT WITH CONFIDENCE
-Our Story
-Based in California, ENET is a leading supplier of Tier-1 network connectivity solutions that power today's Enterprise, Hyperscale, AI, and Broadband markets. Programming and testing On-site in the United States, ENET offers a full range of OEM-compatible transceivers, direct attach copper cables, active optical cables, and cabling products at significant savings over OEM originals.
-.card" tabindex="0">
-Transceivers 2058
-Complete line of OEM-compatible, cost-effective solutions from 1G to 1.6T
-Direct-Attach Cables 591
-Reliable, low-power, low-cost solutions for high-speed interconnects
-Active Optical Cables 632
-100% guaranteed complete fiber assembly with distances up to fifty meters
-Copper Patch Cables 954
-Copper patch cables are a cost-effective solution for short-distance connections. They are ideal for connecting network devices in close proximity and offer reliable performance for data transmission at speeds up to 10 Gbps.
-Fiber Patch Cables 48
-Low-latency, optimized performance and increased reliability
-MTP/PRO Cables 46
-MTP connectors are premium MPO connectors engineered for high mechanical and optical specs.
-Why ENET?
-.card">
-Trusted Industry Leader
-ENET Solutions is comprised of some of the industry's most trusted and recognized brands with decades of loyal partnerships.
-Flexible Purchasing
-We have relationships with your trusted distributors, resellers and integrators. We meet you where you choose to partner.
-AI / HPC Technology
-Partnering with the hyperscalers for over 2 decades, our veteran engineering and R&D teams keep us, and you, on the forefront of today's burgeoning technology.
-.card">
-Extensive Local Inventory
-Extensive local inventory strategically stocked from coast to coast, ensures fast, reliable availability of the solutions you need. Whether you're tackling urgent projects or planning ahead, our nationwide stocking locations keep you on schedule and budget.
-End-to-End Solutions
-With core brands spanning fiber optics, connectivity, tools and connectors and everything in between, ENET Solutions offers a true End-to-End solution. We have the expertise to help you create the best solution for your network.
-ENET - POWERING NEXT GENERATION NETWORKS
-.card" tabindex="0">
-Your partner in AI and HPC – ENET brand solutions deliver the latest technology, including OEM-compatible 800G InfiniBand and Ethernet transceiver solutions for NVIDIA/Mellanox, Arista, and other OEM platforms, with 1.6T on the horizon. With solutions for every major networking OEM from 1G through 800G, our cutting-edge R&D team continuously keeps you ahead of the trend.
-.card">
-800G Solutions
-ENET’s 800G solutions deliver ultra-high-speed connectivity, enabling HPC, AI, and hyperscale networks to handle massive data demands effortlessly.
-400G Solutions
-Our 400G solutions ensure high-performance, scalable bandwidth for AI training, HPC workloads, and hyperscale data centers with guaranteed reliability.
-InfiniBand Solutions
-InfiniBand solutions deliver low-latency, high-throughput connectivity for optimizing AI clusters, HPC systems, and hyperscale networking efficiency.
-Technical Lab Overview
-AVAILABLE FROM THESE RESELLERS
-.card" tabindex="0">
-.card">
-Customer service
-Connect with our industry-expert sales teams for HPC/Hyperscale, Broadband, Data Centers, and Enterprise to find the right networking solutions for your needs.
-Technical Support
-Need help with a product or installation? Our experts are available to assist with troubleshooting, compatibility questions, and product guidance.
-Secure payment
-Your payment information is processed securely
-ENETUSA
-ENET Solutions Inc.
-sales@enetusa.com
-support@enetusa.com
-75 Argonaut, Suite B
-Aliso Viejo, CA 92656
-+1 (888) 794-9462
-Company
-Contact
-Support
-Customer Support
-Technical Support
-More
-Privacy Policy
-Terms of Use
-Terms and Conditions of Sale
-© 2026 ENETUSA.
-Choosing a selection results in a full page refresh.
-Opens in a new window.
+# SB-309 alternetivo.cz · home · https://www.alternetivo.cz/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+Alternetivo | IT distributor | Switching/routing, monitoring, síťová bezpečnost, kabeláže, bezdrátové a optické sítě
+Jazyk / Language EN
+SK
+Oblíbené
+O nás O společnosti
+Podporujeme
+Kariéra
+Obchodní podmínky
+Dodací podmínky
+Reklamační podmínky
+Podmínky dodání SaaS
+Kontakty
+Informace Produkty Vyhledávání
+Speciální nabídka
+Novinky
+Výprodej
+Oblíbené produkty
+Služby Zápůjčky
+Služby TSD
+Servisní služby / SLA
+Nákup na splátky
+Podpora
+Školení Podmínky školení
+Termíny školení
+Záznam webinářů
+Případové studie Podnikové Wi-Fi sítě
+Kybernetická bezpečnost
+Strukturované kabeláže
+Optika pro všechny aplikace
+IoT a monitorování prostředí
+Software
+WAN sítě
+5G sítě
+ISP aplikace
+Knowledge Base Software
+Síťová bezpečnost, monitoring a analýza IP sítě
+Síťový management
+Bezdrátové sítě a spoje
+Switche, routery a další aktivní prvky pro budování datových sítí
+Optické sítě - optické kabely, moduly, konvertory, nástroje a měření
+Systémy strukturované kabeláže
+Monitoring pro datové centrum
+19'' rozvaděče
+Napájecí systémy pro datová centra
+IP telefonie
+Internet věcí - Internet of Things - IoT
+Další Networkingové legendy
+Zapomenuté heslo - obnova
+Elektroodpad
+Vaše firma Nastavení, přehledy Hlavní údaje
+Vaše kontakty
+Statistika
+Dodací adresy
+Parametry
+Dokumenty Objednávky
+Položky objednávek
+Nedodané zboží
+Faktury
+Položky faktur
+Pohledávky
+Dodací listy
+Expedice
+RMA - Vytvoření nové reklamace
+Záruky
+Reklamace
+Cookies Informace o cookies
+Správa cookies
+EN
+CZ
+SK
+EUR
+CZK
+Registrace
+Přihlášení
+Přihlašovací jméno
+Heslo
+Trvalé přihlášení
+Přihlásit se
+Zapomněli jste heslo?
+Nemáte účet
+Registrace
+Alternetivo | IT distributor | Switching/routing, monitoring, síťová bezpečnost, kabeláže, bezdrátové a optické sítě
+0
+Košík je prázdný
+0
+Hledat
+Katalog
+Výrobci
+Optické sítě
+Transceivery
+Bezdrátové sítě
+Aktivní prvky
+Bezpečnost
+Monitoring a IoT
+Strukturovaná kabeláž
+19" rozvaděče
+Testery (měřicí přístroje)
+UPS a napájení
+Služby
+Software
+Ostatní
+Výprodej
+Školení a semináře
+05.11.2026
+Průmyslový palác, Výstaviště Praha
+CheckPoint Advantage 2026
+10.11.2026
+Praha - ALT
+Zyxel - Technický webinář
+25.11.2026
+Hrotovice, okr. Třebíč
+SecDay 2026
+Další školení a semináře
+Aktuality
+Top novinka
+Inventura skladu - čtvrtek až pátek 29.10.-30.10.2026
+Dovolujeme si vás informovat, že v termínu 29.10.-30.10.2026 proběhne řádná inventura našich skladových zásob. Rádi bychom vás upozornili, že z tohoto důvodu bude v těchto dnech pozastaven výdej a odesílání zboží. Ostatní oddělení nebudou dotčena a budou tedy připravena přijímat vaše dotazy, objednávky, požadavky a připomínky.
+Celý text
+16.10.2026
+Společnost Univastu kupuje zbytek Cambium Networks
+Společnost Univastu dokončila akvizici divizí ePMP, Enterprise a cnMaestro společnosti Cambium Networks. Cloud jede dál!
+Celý text
+12.10.2026
+Nová epizoda Alternetivo podcastu: Od přenosu informací k digitální identitě
+Poslechněte si poslední epizodu letošního Alternetivo podcastu.
+Celý text
+21.09.2026
+Nový magický kvadrant na Hybrid Mesh Firewally
+Chcete se podívat, jak si vedli naši dodavatelé v novém Magickém kvadrantu od Gartnera, který hodnotil výrobce Hybrid Mesh Firewallů?
+Celý text
+21.09.2026
+Expedice Severní pól úspěšně v cíli: Z ChannelTrends Awards odnášíme bronz!
+Naše mise „dobytí Severního pólu“ má úspěšný cíl. Díky vašim hlasům jsme vybojovali bronzové místo v kategorii Distributor roku s přidanou hodnotou!
+Celý text
+24.08.2026
+Pro dealery
+Přeměňte elektrické vedení v datovou síť
+Řešíte přenos dat v místech, kde chybí datová kabeláž a Wi-Fi je bez signálu? Právě jsme do portfolia přidali průmyslový PLC komunikátor Comtrend PM-1540 !
+Celý text
+23.07.2026
+Novinka od Kontronu – kompaktní XGS-PON OLT Iskratel Lumia C8
+Nové OLT od předního evropského výrobce, firmy Kontron, je výkonné, a přesto velmi úsporné díky své velikosti a spotřebě. Pokud plánujete postupný přechod na novou technologii XGS-PON s možností poskytovat službu až 10 Gbps symetricky, Lumia C8 je ideální volbou.
+Celý text Další informace
+15.07.2026
+Pro dealery
+Microamp a Alternetivo rozšiřují 5G mmWave konektivitu!
+Extrémní datová propustnost a ultranízká latence v ČR i SR, a to díky nové spolupráci s firmou Microamp.
+Celý text
+06.05.2026
+Pro dealery
+Spustili jsme specializovaný web o Ruckus Networks!
+Protože chceme, abyste měli všechny podstatné informace o Ruckus Networks přehledně na jednom místě, spustili jsme pro vás zbrusu nový web.
+Celý text Další informace
+04.05.2026
+Pro dealery
+WatchGuard AuthPoint nyní jako nativní MFA pro Microsoft Entra ID
+Máme skvělou zprávu pro všechny organizace využívající ekosystém Microsoft! WatchGuard v rámci jarní vlny aktualizací pro rok 2026 představil zásadní rozšíření.
+Celý text
+Všechny aktuality
+Speciální akce
+30.09.2026
+Hledáte náhradu za Cambium Networks?
+I když produktová řada cnPilot Wi-Fi nakonec asi přežije díky už skoro nečekané akvizici, stejně možná někteří zákazníci zauvažují o změně systému. Ruckus je tu proto, aby pomohl.
+Celý text
+20.06.2026
+Pro dealery
+Podzimní TP-Link promo
+Využijte mimořádné podzimní ceny na vybrané produkty TP-Link. Akce platí do konce roku nebo do vyprodání zásob.
+Celý text
+16.06.2026
+Pro dealery
+Půjčujeme svářečky zadarmo!
+Vyzkoušejte nezávazně super ekonomické svářecí sety JOINWIT z Číny. Na jedno IČO je možno si půjčit jednou svářečku zdarma na 1 až 3 dny. Sety JOINWIT rádi nabídneme, ceny jsou naprosto fantastické.
+Celý text
+15.03.2026
+Pro dealery
+Ruckus Velocity: Špičková síťová řešení nyní opět dostupnější
+Společnost Ruckus Networks uvádí novou promo akci Velocity (RKS-0447) , která výrazně usnadňuje přístup k vybraným produktům pro partnery v našem regionu.
+Celý text
+08.01.2026
+Ochrana klíčových zaměstnanců od Check Pointu
+Nabídněte špičkovou ochranu pro vybrané zaměstnance vašich zákazníků. Promo na Check Point Harmony Email & Collaboration (HEC) spolehlivě zajistí bezpečnost proti pokročilým phishing útokům a CEO podvodům.
+Celý text Další informace
+09.12.2025
+Pro dealery
+Teltonika - Diamantové promo
+Připravili jsme pro vás v Alternetivu speciální promo akci.
+Celý text
+03.06.2022
+Pro dealery
+Wi-Fi Ruckus Networks pro nemocnice
+Wi-Fi v nemocnicích umožňuje zdravotnickým pracovníkům okamžitý přístup k záznamům o pacientech, rychlejší poskytování lékařských snímků, podporu videa ve vysokém rozlišení a skenování.
+Celý text
+02.06.2019
+Pro dealery
+Chcete nahradit stávající UTM?
+Dosluhuje váš stávající UTM box? Nestačí už výkonem nebo poskytovanými službami? Nejste spokojeni se stávajícím dodavatelem a jeho podporou? ...
+Celý text
+20.12.2018
+Pro dealery
+Bezdrátové sítě wifi pro školy
+Využijte výhodnou nabídku na bezdrátovou síť pro školy. Výrobce podnikových WiFi sítí Ruckus Networks nabízí na podporu rozvoje školní infrastruktury zajímavou akci. Omezený školní rozpočet versus nastupující trend digitalního vzdělávání...
+Celý text Další informace
+10.12.2018
+Pro dealery
+Optické patchcordy a pigtaily od Reichle & Massari trvale za fantastické ceny
+Trvale jsme pro vás snížili ceny originálních konektorů Reichle & de Massari, to jak na standardní, tak postupně i nestandardní délky. Tyto akční produkty jsou navíc v určitém množství k dispozici na našem skladu k okamžitému odběru, případně vám je nabízíme s velmi krátkými dodacími lhůtami, zpravidla do 10 dnů i v případě nestandarních délek.
+Celý text
+Všechny nabídky
+Naše řešení v praxi
+Modernizace Wi-Fi sítě na internátu: Ruckus jako efektivní řešení pro kvalitní pokrytí
+Pro zákazníka bylo potřeba modernizovat Wi-Fi infrastrukturu v rámci celého internátu. Stávající síť byla historicky postavena na řešení Ruckus se ZoneDirector 3025. Cílem projektu bylo nejen modernizovat stávající infrastrukturu, ale také ověřit a doplnit Wi-Fi pokrytí v prostorách, kde bylo potřeba navrhnout nové access pointy.
+Privátní 5G: Revoluce v živém sportovním vysílání
+Privátní 5G jako primární konektivita při sportovních přenosech: CloudRAN.AI na Světových univerzitních hrách FISU v Německu
+Hotel Fairmont Golden Prague: Technologie budoucnosti v srdci luxusu
+Fairmont Golden Prague není jen hotel. Je to synonymum pro absolutní špičku v ubytovacím a konferenčním sektoru.V rámci rozsáhlé rekonstrukce, která přetvořila budovu do podoby světové sedmihvězdičkové úrovně, padlo rozhodnutí: síťová infrastruktura musí odpovídat stejně vysokým standardům jako celý hotel. A proto volba padla na RUCKUS Networks.
+Modernizace síťové infrastruktury ve škole ZŠ Jandusů pomocí TP-Link Omada
+Základní škola ZŠ Jandusů se rozhodla modernizovat svou síťovou infrastrukturu, která již neodpovídala současným nárokům na výkon, bezpečnost a správu.
+Moderní datová infrastruktura pro pavilon J Masarykovy nemocnice v Ústí nad Labem
+Krajská zdravotní, a.s., největší poskytovatel lůžkové zdravotní péče v Ústeckém kraji a jeden z největších zdravotnických subjektů v ČR, dlouhodobě investuje do modernizace nemocniční infrastruktury a potřeboval navrhnout datovou infrastrukturu zbrusu nového pavilonu
+Špičkové Wi-Fi připojení na Mistrovství Evropy 2025 v zápase díky zápůjčce naší perfektní technologie
+Stabilní a rychlé Wi-Fi pro ME 2025 v zápase zajistily Alternetivo a 4PRODUCTION v rekordním čase. Špičkové technologie umožnily bezproblémový provoz i živé přenosy bez výpadků.
+Důvěra v Milesight – teplota pod dohledem, provoz ordinace bez komplikací
+Spolehlivé řešení teplotního monitoringu je klíčové pro bezproblémový provoz každé ordinace. Ve spolupráci s Logimicem přinášíme jednoduchý a plně automatizovaný systém ACADA iTemp. S technologií Milesight máte teplotu pod kontrolou – bez starostí, bez složité instalace.
+Modernizace Wi-Fi sítě v Orea hotelu Pyramida Praha - přechod z Ruckus Wi-Fi 5 na Ruckus Wi-Fi 6
+Hotel Orea Pyramida Praha, součást známého řetězce Orea Hotels & Resorts, zmodernizoval svou Wi-Fi infrastrukturu přechodem z Wi-Fi 5 na novější a spolehlivější Wi-Fi 6 od Ruckus Networks.
+Stabilní, rychlá a bezpečná Wi-Fi síť pro studenty na kolejích STU díky řešení Huawei
+STU v Bratislavě kompletně obnovila síťovou infrastrukturu kolejí pomocí technologií Huawei, čímž zajistila rychlejší a spolehlivější připojení pro studenty.
+Stabilní a spolehlivý přenos dat i při extrémních rychlostech
+Společnost CloudRAN.Ai představila inovativní 5G řešení, které umožňuje přenos 360° videa a telemetrie ze závodních vozů jedoucích až 250 km/h. Technologie eliminuje problémy s přepínáním mezi buňkami a zajišťuje stabilní signál i v náročných podmínkách.
+Případové studie
+Knowledge Base
+Spolehlivý internet i při výpadku – návod na failover mezi satelitní a mobilní sítí
+Chcete zajistit nepřetržité připojení k internetu i při výpadku Starlinku? V tomto návodu se naučíte, jak jednoduše nastavit failover pomocí routeru Teltonika. Stačí pár kroků a vaše připojení bude automaticky přepínat mezi Starlinkem a mobilní sítí.
+Perseus – jednotná platforma pro monitoring prostředí
+HW group, přední výrobce řešení pro monitoring prostředí, uvedl řadu jednotek Perseus, která spojuje funkce zařízení HWg-PWR, Poseidon2, Damocles a Ares. Navíc může fungovat jako master jednotka v LAN síti – z jejího webového rozhraní tak lze sledovat a ovládat i další připojené jednotky, senzory a detektory
+Když samotná Wi-Fi nestačí: Jak Zyxel Nebula spojuje pokročilý networking a aktivní ochranu sítě
+V čisté síťařině nenechává Zyxel nic náhodě a plně pokrývá potřeby moderních firem. Zyxel totiž pod jedním cloudovým rozhraním Nebula sjednocuje hned čtyři klíčové produktové větve.
+SPE, neboli Single Pair Ethernet
+SPE, neboli Single Pair Ethernet, je nová technologie Ethernetu, která umožňuje přenos dat a případně napájení přes jediný pár kroucených vodičů na velkou vzdálenost. Jedná se o efektivní a nákladově úsporné řešení pro průmyslové aplikace, automatizaci budov a automobilový průmysl.
+Nové typy transceiverů pro 400Gb/s a vyšší rychlosti: kam se posouvá optika pro datacentra a DCI
+Růst provozu v datacentrech, cloudových službách a hlavně AI/HPC clusterech v posledních letech výrazně zrychlil přechod od 100G/200G linek k 400G a dál k 800G. Nejde přitom jen o „dvojnásobnou rychlost", ale o kombina

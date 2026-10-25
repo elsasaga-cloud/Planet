@@ -2,72 +2,154 @@
  "code": "SB-947",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "在线（nateks.ru，快照 2026-10-21）",
- "summary": "俄罗斯 НАТЕКС Nateks（「отечественный разработчик」俄本土通信设备研发制造商：35+ 年、40+ 国、300+ 伙伴、200 万台；SFP/10G/STM、IEC 61850、NX-5124-G 交换机；表内「工业 FS SFP 很多周边产品 自己的牌子」）；群发 18 次无回复。",
- "type": "俄罗斯本土通信设备研发制造商（同行/国产替代导向）",
+ "website_status": "在线（ison-tech.com，快照 2026-10-21）",
+ "summary": "台湾 ISON Technology（Industrial Solution Over Network：工业网络品牌，面向自动化应用做系统规划；站内自有型号 IS-RH709 / IS-DF208T / ECS4150-54P；表内「工业 FS / FS / MC，自己的 logo」）；群发 19 次无回复。",
+ "type": "台湾工业网络品牌商（按「台湾厂商口径」只谈 OEM/ODM）",
  "size": "",
  "brands_seen": [],
  "evidence": [
   {
    "kind": "官网快照",
-   "claim": "官网标题：НАТЕКС – отечественный разработчик；品类词 光纤 / 媒体转换 / 网络交换 / PoE",
-   "quote": "35+ на рынке；40+ стран применения；300+ партнеров；2 млн единиц；Производитель и поставщик современного оборудования связи；Современные решения",
-   "url": "https://www.nateks.ru/",
+   "claim": "官网标题：Home；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "ISON stands for Industrial Solution Over Network. With the focus on Industrial Networking we play an important role in system planning & design for automation applications.",
+   "url": "https://www.ison-tech.com/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
    "claim": "表内兴趣/备注",
-   "quote": "工业FS SFP 很多周边产品 自己的牌子",
+   "quote": "工业FS FS MC 自己的logo",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   },
   {
    "kind": "官网快照",
-   "claim": "Nateks 定位",
-   "quote": "НАТЕКС – отечественный разработчик ; Производитель и поставщик современного оборудования связи ; 35+ на рынке ; 2 млн единиц",
-   "url": "https://www.nateks.ru/",
+   "claim": "ISON = Industrial Solution Over Network，工业网络系统规划",
+   "quote": "ISON stands for Industrial Solution Over Network. With the focus on Industrial Networking we play an important role in system planning & design for automation applications.",
+   "url": "https://www.ison-tech.com/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "工业 FS SFP 自己的牌子",
-   "quote": "工业FS　SFP　很多周边产品 自己的牌子",
+   "claim": "工业 FS / FS / MC 自有 logo",
+   "quote": "工业FS FS MC 自己的logo",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
  "kp": [],
- "grade_override": "C",
- "override_reason": "同行/俄国产替代厂商：Nateks 自研自产（国产替代定位），非渠道客户；c_sub=同行/专营俄产",
+ "grade_override": null,
+ "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "俄罗斯",
-  "other": "官网 nateks.ru，语言 ru-RU，快照状态 ok；角色判定来源：用户表"
+  "hq": "台湾",
+  "other": "官网 ison-tech.com，语言 zxx，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "通信设备研发制造（俄罗斯，自有品牌）"
+  "工业网络（交换机 / MC / 无线）",
+  "自动化应用网络规划设计"
  ],
  "channels": {
-  "role": "俄罗斯本土通信设备研发制造商（同行/国产替代导向）",
-  "region": "俄罗斯",
-  "contact": "info@nateks.ru"
+  "role": "台湾工业网络品牌商（按「台湾厂商口径」只谈 OEM/ODM）",
+  "region": "台湾",
+  "contact": "sales@ison-tech.com"
  },
  "signals": [
-  "官网：НАТЕКС – отечественный разработчик ; 35+ на рынке ; 40+ стран применения ; 300+ партнеров ; 2 млн единиц ; Производитель и поставщик современного оборудования связи；站内 NX-5124-G / IEC61850；kw sfp 114 / ethernet 52 / 10g 28",
-  "表内：工业 FS SFP 很多周边产品 自己的牌子"
+  "站内型号 IS-RH709 / IS-DF208T / ECS4150 / ECS4150-54P",
+  "官网：Industrial Solution Over Network，自动化应用系统规划"
  ],
  "risks": [
-  "同行/俄国产替代：Nateks 自研自产通信设备（「отечественный разработчик」），非 ODM 采购方；俄罗斯合规风险；18 次无回复"
+  "台湾品牌商：自有 ODM 体系，Saga 只做二供/补缺",
+  "群发 19 次无回复",
+  "非主攻区（T5）"
  ],
  "saga_fit": {
-  "p1": null,
+  "p1": "STI-288GPM",
   "tier": 30,
-  "why": "俄本土研发制造商（国产替代定位，自研交换机线），非 ODM 采购对象 → 改 C"
+  "why": "自有品牌工业管理交换机 → 二供 / 补缺：工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）、非管理 STI-280GE、工业 MC STI-110GE"
  },
- "email_hook": "（不发送：同行/俄国产替代）"
+ "email_hook": "For the IS-series industrial switches, we can act as a second source for DIN-rail 8-port managed PoE (Marvell L2+) and unmanaged gigabit models built to your spec from small lots — is there a gap model (PoE budget or port count) you currently cannot source?",
+ "products_seen": [
+  {
+   "brand": "ISON（自有）",
+   "model": "IS-DF208T",
+   "spec": "工业 8 口交换机（DIN）",
+   "saga": "STI-280GE",
+   "url": "https://www.ison-tech.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "brand": "ISON（自有）",
+   "model": "ECS4150-54P",
+   "spec": "48 口 PoE 管理（Edgecore 方案？待核）",
+   "saga": "STC-448XGGPM",
+   "url": "https://www.ison-tech.com/",
+   "date": "2026-10-21"
+  }
+ ],
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 22 封 2024→2026，1 次记录打开，0 回；收件 sales@ison-tech.com；主题多为「Managed Optical Bypass Switch、Industrial PoE Switch」；Elsa 箱：`to:ison-tech.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 22 / 来 0）（第 74 批(n)））",
+   "type": "台湾工业网络品牌商（按「台湾厂商口径」只谈 OEM/ODM）",
+   "sieve": "1~2（1 次打开）",
+   "stop": "只打通用邮箱，无记录打开",
+   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+   "lane": "台湾 非主攻",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 22，Opened 标签 1（Simon 群发追踪）；用户表：「工业FS FS MC 自己的logo」；研究档 risks：台湾品牌商：自有 ODM 体系，Saga 只做二供/补缺"
+  },
+  "situation": "台湾 ISON Technology（Industrial Solution Over Network：工业网络品牌，面向自动化应用做系统规划；站内自有型号 IS-RH709 / IS-DF208T / ECS4150-54P；表内「工业 FS / FS / MC，自己的 logo」）；群发 19 次无回复。",
+  "need": "自有品牌工业管理交换机 → 二供 / 补缺：工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）、非管理 STI-280GE、工业 MC STI-110GE",
+  "breakpoint": "台湾品牌商：自有 ODM 体系，Saga 只做二供/补缺",
+  "saga_now": {
+   "p1": "STI-288GPM",
+   "tier": 30,
+   "price": "换人再触锚价 STI-288GPM $85.5 EXW（主表档位（PDF 上限 $88；SA-016 2025-07 实报 $72 为分销量价）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-10 $65（10G media converter）、2024-11-22 $300（48 Port PoE Managed Switch）、2025-01-03 $240（24 Port Fiber Switch）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-23 $280（10G Enterprise SFP Switch）",
+   "why": "自有品牌工业管理交换机 → 二供 / 补缺：工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）、非管理 STI-280GE、工业 MC STI-110GE。已打开的主题（1/22 封有打开记录）：「Mini Industrial PoE Switch」(2025-09-17) → 读者兴趣偏「工业」；与 P1 同类，继续",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1（换人后）",
+   "channel": "A 邮箱 → 具名 KP",
+   "action": "换收件人再发一封（第 75 批(aj) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
+   "one_question": "For the IS-series industrial switches, we can act as a second source for DIN-rail 8-port managed PoE (Marvell L2+) and unmanaged gigabit models built to your spec from small lots — is there a gap model (PoE budget or port count) you currently cannot source? Reference: STI-288GPM at $85.5 USD EXW (MOQ 1, 15-day validity)."
+  },
+  "facts": [
+   {
+    "date": "2026-09-09",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Managed Optical Bypass Switch、Industrial PoE Switch",
+    "why": "22 封 / 1 次打开 / 0 回｜首封 2024-06-24 → 末封 2026-09-09（22 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "工业FS FS MC 自己的logo",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026-09-09",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "16 Port Industrial PoE Switch",
+    "why": "本日去信真实主题（邮箱索引 cdfe54adceae7e55；信稿开头句引用此封；此前稿内写的「Managed Optical Bypass Switch」是线程列表首题，不是本封）",
+    "k": "cdfe54adceae7e55"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": {
+   "subject": "A second source for the IS-series entry models - is there a gap model you cannot source today?",
+   "body": "Hello ISON team,\n\nOver the past months you had a few product mails from us - most recently \"16 Port Industrial PoE Switch\" on 9 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the IS-series industrial switches, a second source for the entry models built to your spec from small lots, -40 to 75 C, CE/RoHS: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, L2 managed, Marvell-based - model STI-288GPM - $85.5 USD EXW under your label (MOQ 1, 15-day validity); 8 x Gigabit + 2 x SFP unmanaged - STI-280GE - $46; Gigabit media converter, 1 x RJ45 + 1 x SFP slot - STI-110GE - $26.5.\n\nOne question: is there a gap model - a PoE budget or a port count - that you currently cannot source for the IS range?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+  },
+  "as_of": "2026-10-24"
+ }
 }

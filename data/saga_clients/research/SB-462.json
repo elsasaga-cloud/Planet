@@ -1,174 +1,169 @@
 {
-  "code": "SB-462",
-  "name_official": "eminnovate.com（用户表：美国；公司名未核实）",
-  "researched_at": "2026-10-21",
-  "website_status": "待核：2026-10-21 web_search「eminnovate.com」无该域名收录，仅返回印度 Pune 的 Eminnovate Technologies（eminnovate.co，数据分析 IT 服务，2023 年成立）——顶级域不同，疑非同一主体",
-  "summary": "用户表登记为美国客户（域名 eminnovate.com），1 次实质回复、2 次跟进。公开检索无法核实其公司身份与业务；同名印度 IT 服务公司（eminnovate.co）与网络设备无关。按「待核」处理：下次跟进时直接询问公司全称与业务。",
-  "type": "",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "检索记录",
-      "claim": "域名未收录；同名印度公司非同一主体",
-      "quote": "Eminnovate Technologies | 126 followers on LinkedIn … Website: https://www.eminnovate.co … Company size: 2-10 employees Headquarters: Pune, Maharashtra … Founded: 2023 Specialties: Data Analytics, Business Intelligence",
-      "url": "https://in.linkedin.com/company/eminnovate-technologies",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "美国；1 次实质回复；2 次跟进",
-      "quote": "（用户表字段）",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（检索无果 · 待核）"
+ "code": "SB-462",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（eter.it，快照 2026-10-21）",
+ "summary": "意大利 Eter Biometric Technologies Srl（门禁、考勤、火灾探测（Hochiki）、HR 系统集成（Suprema 终端）；表内「介绍了 bypass 和接线图，大概懂，让邮件发给他信息」；KP Ing. Andrea Giacobazzi（CEO and founder））；表内 5 次跟进无回复。",
+ "type": "门禁/消防系统集成商（意大利，bypass 需求）",
+ "size": "",
+ "brands_seen": [
+  "Suprema",
+  "Hochiki"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Eter Biometrics",
+   "quote": "Controllo Accessi Sistemi di controllo accessi che assicurano un livello superiore di protezione e gestione degli ambienti. Scopri di più Antincendio Hochiki Affidabilità, innovazione e qualità: i sistemi Hochiki proteggono […]",
+   "url": "https://www.eter.it/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "other": "无法核实（域名未被收录）；仅有用户表信息"
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "介绍了bypass和接线图，大概懂，让邮件发给他信息；39 335 6671 667 T 39 059 7874 620",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "1 次实质回复但仅 2 次跟进 → 线索新鲜度未知"
-  ],
-  "risks": [
-    "身份未核实；若为印度 IT 服务公司则不在目标区域/行业"
-  ],
-  "saga_fit": {
-    "p1": "STC-28DGGPM",
-    "tier": 25,
-    "why": "身份待核：默认按终端/集成商 25% 档以 STC-28DGGPM 试探；核实后再定"
+  {
+   "kind": "官网快照",
+   "claim": "Eter 定位",
+   "quote": "Home - Eter Biometrics ; Controllo Accessi ; Antincendio Hochiki ; terminali Suprema",
+   "url": "https://www.eter.it/",
+   "date": "2026-10-21"
   },
-  "email_hook": "Before I send pricing, may I confirm which application the PoE switch is for on your side (CCTV, Wi-Fi, or industrial), so I quote the right 8- or 24-port model?",
-  "mail_review": {
-    "binding": {
-      "level": "未发信→轻度触达（Elsa 邮箱 2025-06-29 michael@eminnovate.com 回「Very interesting Any rear facing port switches?」对 48 口 PoE；S/A 邮箱 0 封；公司实体未核）；补核（第 73 批）：Elsa 06-30 答「没有后出线款」+ 软件功能表，之后无回；Elsa 群发 BCC 已触达 2025-04-05「Marvell Alleycat5 Solution」（稿内无价，第 74 批(p) 已读稿），US-3 批次 To sales@solimedia.net，0 回（第 74 批 Bcc 头核对 msg 19606773d0d7a306）；Elsa 1:1 去信 5 轮 2025-10-01→2026-05-11（To 仅本户 sales@eminnovate.com；头 msg 19e171f7d88803f6 核对无 Bcc，称呼「Hi, Michael」= 个性化逐月 1:1 名单；主题 10G Enterprise SFP Switch、Booster PoE Switch、Marvell Industrial Alert System、Industrial PoE Switch；0 回（Elsa 箱无 Re: 行）；此前经 锚 sales@solimedia.net 的 Bcc 收到 4 轮（2025-04-05→2025-06-29））（第 74 批(m) `from:e.sagatelecom to:` 全程 complete，直收 5 条）",
-      "type": "—",
-      "sieve": "—（未入筛）",
-      "stop": "从未触达",
-      "revive": "一句实话：无后置端口型号；问场景",
-      "lane": "US 主攻（四主）",
-      "cadence": "首封后看打开",
-      "evidence": "gmail_digest：out 0；用户表：「（用户表字段）」；研究档 risks：身份未核实；若为印度 IT 服务公司则不在目标区域/行业；Elsa 邮箱 `data/gmail_e/text/`（Replied 线程，客户→Elsa 正文；Elsa 回复正文未入库）；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To sales@solimedia.net）2025-04-05→2025-06-29 共 4 轮群发（Marvell Alleycat5 Solution、Mini Industrial PoE Switch、16 Port Ethernet Switch、48 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断；2026-09-08 最新一轮名单已不含此地址 → 中途被剔除（退信 / 退订 / 手工）"
-    },
-    "situation": "用户表登记为美国客户（域名 eminnovate.com），1 次实质回复、2 次跟进。公开检索无法核实其公司身份与业务；同名印度 IT 服务公司（eminnovate.co）与网络设备无关。按「待核」处理：下次跟进时直接询问公司全称与业务。",
-    "need": "身份待核：默认按终端/集成商 25% 档以 STC-28DGGPM 试探；核实后再定",
-    "breakpoint": "身份未核实；若为印度 IT 服务公司则不在目标区域/行业",
-    "saga_now": {
-      "p1": "STC-28DGGPM",
-      "tier": 25,
-      "price": "按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-06-29 $300（48 Port PoE Managed Switch = STC-448XGGPM，Elsa 箱 1 轮 2025-06-29；现表 $335.4@20%、Drive 老表 $335——同款写 $335 要先说 2025 群发是 $300、汇率 7.2→6.7）；2026-05-11 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 2 轮 2025-10-01→2026-05-11；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）",
-      "why": "身份待核：默认按终端/集成商 25% 档以 STC-28DGGPM 试探；核实后再定",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "2026-11（顺手）",
-      "channel": "Elsa 邮箱回原线程",
-      "action": "首封前知悉：Elsa 已 1:1 去信 5 轮（2025-10-01→2026-05-11，0 回），此前还经锚 Bcc 触达（第 74 批(m)）；首封前知悉：Elsa 已 BCC 群发触达（最近 2025-04-05「Marvell Alleycat5 Solution」），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生。 一问；回原串沿用原主题（邮件客户端自动加 Re:），上面的主题只在另起新信时用（第 76 批(c) 2026-10-25：audit_ab 软项修正：署名「Alan Yan」→「Alan」（A 箱实际署名））（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
-      "one_question": "Michael — no rear-facing-port models in our range (ports are front; airflow front-to-rear on the CENTEC units). What is the rack situation that needs rear ports — cabling to a patch panel behind?"
-    },
-    "facts": [
-      {
-        "date": "2025-04-05",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To sales@solimedia.net，US-3 批次）",
-        "quote": "Marvell Alleycat5 Solution — We are doing Marvell Alleycat5 chip for tailored networking solutions. 1, Support Web GUI change(Logo, model name, MAC, SN, SNMP, OID) 2, Added intere",
-        "why": "Elsa 箱群发 BCC 触达证据（命中地址 eminnovate.com, sales@eminnovate.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-        "k": "elsa_bcc"
-      },
-      {
-        "date": "2025-06-29",
-        "dir": "来",
-        "who": "Michael（eminnovate.com）",
-        "quote": "Very interesting Any rear facing port switches?",
-        "why": "要后置端口机架机（数据中心/机柜走线）——Saga 商用线为前置端口；CENTEC 机型风道前后可选但端口仍前置",
-        "k": "gmail_e"
-      },
-      {
-        "date": "2025-06-29",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To sales@solimedia.net，US-3 批次）",
-        "quote": "48 Port PoE Managed Switch — There is a Marvell based 52 port Rack network switch for you. 4*1G/2.5G/10G SFP+48*10/100/1000M Copper, L2+ Managed, PoE af/at, 400W budget Support ST（正文价 300usd/pc，第 74 批(p) 读稿 msg 194eff1f9bf46879 / 1973a613b8166b58）",
-        "why": "Elsa 箱群发 BCC 触达证据（命中地址 eminnovate.com, sales@eminnovate.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-        "k": "elsa_bcc"
-      },
-      {
-        "date": "2025-06-30",
-        "dir": "去",
-        "who": "Elsa",
-        "quote": "Sorry, it is not available on our list. On the market, there are some models available, but not many. Please check attached our Marvell based software feature list.（附 Saga Software Function List_7.3, 7.4, 7.5 version.xlsx）",
-        "why": "Elsa 次日答「没有后出线款」+ 软件功能表 → 无下文；信稿「none of our models have rear-facing ports」与之一致",
-        "k": "gmail_e 197c0bbcf58da83a"
-      },
-      {
-        "date": "2025-10-01",
-        "dir": "out",
-        "who": "Elsa → sales@eminnovate.com",
-        "quote": "10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 1/5 轮；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
-        "why": "第 74 批(m) `from:e.sagatelecom to:sales@eminnovate.com` 全程 complete：5 轮直收；0 回",
-        "k": "elsa_1to1",
-        "msg_id": "199a03bd51ed3f5c"
-      },
-      {
-        "date": "2025-12-03",
-        "dir": "out",
-        "who": "Elsa → sales@eminnovate.com",
-        "quote": "Booster PoE Switch（Elsa 1:1 逐月名单第 2/5 轮；To 仅本户）",
-        "why": "第 74 批(m) `from:e.sagatelecom to:sales@eminnovate.com` 全程 complete：5 轮直收；0 回",
-        "k": "elsa_1to1",
-        "msg_id": "19ae43a085992f41"
-      },
-      {
-        "date": "2025-12-29",
-        "dir": "out",
-        "who": "Elsa → sales@eminnovate.com",
-        "quote": "Marvell Industrial Alert System（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
-        "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
-        "k": "elsa_1to1",
-        "msg_id": "19b6a8417a956799"
-      },
-      {
-        "date": "2026-04-03",
-        "dir": "out",
-        "who": "Elsa → sales@eminnovate.com",
-        "quote": "Industrial PoE Switch（Elsa 1:1 逐月名单第 4/5 轮；To 仅本户）",
-        "why": "第 74 批(m) `from:e.sagatelecom to:sales@eminnovate.com` 全程 complete：5 轮直收；0 回",
-        "k": "elsa_1to1",
-        "msg_id": "19d53aa4098ad813"
-      },
-      {
-        "date": "2026-05-11",
-        "dir": "out",
-        "who": "Elsa → sales@eminnovate.com",
-        "quote": "10G Enterprise SFP Switch（Elsa 2026 年 1:1 名单重发；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
-        "why": "本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无）",
-        "k": "elsa_1to1",
-        "msg_id": "19e171f7d88803f6"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "（用户表字段）",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [
-      "公司实体未核",
-      "（已核 2026-10-24，第 73 批）用户表「有回复·跟进中」= Elsa 邮箱这条（06-29 问后出线 → 06-30 答无 + 功能表 → 无下文），不是 WhatsApp"
-    ],
-    "draft_en": {
-      "subject": "48-port PoE — rear-facing ports",
-      "body": "Michael,\n\nAs I said in June, none of our models have rear-facing ports — ports are front, airflow front-to-rear on the CENTEC data-center units.\n\nWhat is the rack situation that needs rear ports — cabling to a patch panel behind the switch? If it is a mounting question, reverse-mount brackets may solve it.\n\nAnd one thing I should have asked first: what is the company and the typical project, so I send only what fits.\n\nElsa\nSaga Telecom - sagatele.com"
-    },
-    "as_of": "2026-10-25"
+  {
+   "kind": "用户表",
+   "claim": "bypass 接线图 让邮件发信息",
+   "quote": "介绍了bypass和接线图，大概懂，让邮件发给他信息",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Andrea Giacobazzi",
+   "title": "CEO and founder",
+   "email": "a.giacobazzi@eter.it",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "意大利",
+  "other": "官网 eter.it，语言 it-IT，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "门禁 / 考勤 / 火灾探测 / HR 系统集成（意大利）"
+ ],
+ "channels": {
+  "role": "门禁/消防系统集成商（意大利，bypass 需求）",
+  "region": "意大利",
+  "contact": "a.giacobazzi@eter.it、info@eter.it"
+ },
+ "signals": [
+  "官网：Controllo Accessi ; Antincendio Hochiki ; Sistema di Gestione HR a 360° integrabile con i terminali Suprema；页面 /dds-prodotti/、/tansa-prodotti/",
+  "表内：介绍了 bypass 和接线图，大概懂，让邮件发给他信息；KP Ing. Andrea Giacobazzi / CEO and founder"
+ ],
+ "risks": [
+  "bypass 整机为 SmartByte 型号（非 Saga 自有线，注明）；消防/生命安全场景仅供民用网络侧（守界备注）；5 次无回复 → 按其要求邮件发资料"
+ ],
+ "saga_fit": {
+  "p1": "STI-288GPM",
+  "tier": 25,
+  "why": "bypass 需求 → 整机 bypass 仅 SmartByte LT-IS6312GP-4GX8GT-FBP（$194.3 @25%，注明非 Saga 自有型号）；常规门禁配套 工业 8 PoE + 2 SFP 管理 STI-288GPM（$82.2）/ 商用 STC-28DGGPM（$84.1）"
+ },
+ "email_hook": "Andrea, following our note on the bypass wiring: we can supply an industrial managed PoE switch with hardware bypass (4 SFP + 8 GT PoE, −40~75 °C) and standard 8-PoE + 2 SFP managed units for access-control and fire-detection networks from single units, CE/RoHS, EXW USD — shall I send the bypass wiring diagram and a quotation for one evaluation unit?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（5 封来信 = info@eter.it 意大利语转办自动回复 + Andrea 休假自动回复；Elsa 箱：`to:eter.it` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 12 / 来 5）（第 74 批(j)））",
+   "type": "意大利门禁/消防集成商（Eter）",
+   "sieve": "0",
+   "stop": "自动回复",
+   "revive": "改发 commerciale@eter.it（其自动回复指明的报价入口）",
+   "lane": "IT",
+   "cadence": "一封到 commerciale@",
+   "evidence": "k=77015acab5634ba1（转办指引）"
+  },
+  "situation": "—",
+  "need": "—",
+  "breakpoint": "—",
+  "saga_now": {
+   "p1": "—",
+   "tier": 25,
+   "price": "—；群发里他已看到的价（续，第 66 批全量复核）：2025-07-08 $300（48 Port PoE Managed Switch）、2025-10-16 $280（10G Enterprise SFP Switch）",
+   "why": "已打开的主题（3/12 封有打开记录）：「Managed Optical Bypass Switch」(2025-05-29)、「48 Port PoE Managed Switch」(2025-07-08)、「WiFi 7 Ready Access Switch」(2026-08-05) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-03-04)、Saga Feature List_7.5.x_L2+(2026-07-01)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2026-11",
+   "channel": "A 邮箱 → commerciale@eter.it（info@ 与 Andrea 的自动回复都指明「报价找 commerciale@」）；cc a.giacobazzi@eter.it",
+   "action": "按其指引改发（第 76 批(c) 2026-10-25：audit_ab 软项修正：署名「Alan Yan」→「Alan」（A 箱实际署名））（第 76 批(c) 2026-10-25：0 事实户补时间线事实）（第 76 批(c) 2026-10-25：意大利语整稿改英文；channel 按两种自动回复原文改为 commerciale@ + cc Andrea，此前写「直发 Andrea」与自动回复不符）",
+   "one_question": "Do your biometric readers get PoE from the installer, or do you supply the switch as well?"
+  },
+  "facts": [
+   {
+    "date": "2025-05-29",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "Managed Optical Bypass Switch",
+    "why": "首封去信（邮箱索引；去信共 12 封）",
+    "k": "e77630d1f868a2a0"
+   },
+   {
+    "date": "2026-09-17",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "16 Port Industrial PoE Switch",
+    "why": "最近一封去信（邮箱索引；去信共 12 封）",
+    "k": "772b1404753baa56"
+   },
+   {
+    "date": "2025-05-29",
+    "dir": "来",
+    "who": "info@eter.it",
+    "quote": "Re: Managed Optical Bypass Switch｜Grazie per averci contattato!  Vi preghiamo di inoltrare la vostra richiesta all'ufficio competente: Per preventivi: com",
+    "why": "自动回复/退信（机器，不算人工回复）",
+    "k": "77015acab5634ba1"
+   },
+   {
+    "date": "2025-05-29",
+    "dir": "来",
+    "who": "a.giacobazzi@eter.it",
+    "quote": "Re: Managed Optical Bypass Switch｜Sarò fuori sede fino al 29/05/2025 compreso, con accesso limitato all’email. Per urgenze tecniche scrivere a ufficiotecn",
+    "why": "自动回复/退信（机器，不算人工回复）",
+    "k": "8575db49dcf3f1a4"
+   },
+   {
+    "date": "2025-07-08",
+    "dir": "来",
+    "who": "info@eter.it",
+    "quote": "Re: 48 Port PoE Managed Switch｜Grazie per averci contattato!  Vi preghiamo di inoltrare la vostra richiesta all'ufficio competente: Per preventivi: com",
+    "why": "自动回复/退信（机器，不算人工回复）",
+    "k": "53d5e6cb48a878b5"
+   },
+   {
+    "date": "2026-08-05",
+    "dir": "来",
+    "who": "a.giacobazzi@eter.it",
+    "quote": "Re: WiFi 7 Ready Access Switch｜Sarò fuori sede fino al 3/7/2026 compreso, con accesso limitato all’email. Per urgenze tecniche scrivere a ufficiotecnic",
+    "why": "自动回复/退信（机器，不算人工回复）",
+    "k": "434dcaf226e2aa4b"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": {
+   "subject": "Industrial switches for access-control and biometric sites - one question",
+   "body": "Hello Eter team,\n\nYour auto-replies route quotation requests to commerciale@, so this comes here rather than to the general mailbox; copy to Andrea, who went through the bypass wiring diagram with us.\n\nSaga Telecom supplies industrial managed switches on the Marvell platform - 8 x Gigabit PoE+ + 2 x SFP, DIN-rail, -40 to 75 C, L2+ - for access-control and biometric reader networks, neutral label or yours, from single units. Reference price: model STI-288DGGPM - $137.5 USD EXW (MOQ 1, 15-day validity), CE/RoHS. The hardware-bypass version Andrea asked about is quoted separately against the site plan.\n\nOne question: do your biometric readers get PoE from the installer, or do you supply the switch as well?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+  },
+  "as_of": "2026-10-24"
+ }
 }

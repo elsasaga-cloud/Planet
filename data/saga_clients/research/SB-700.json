@@ -2,71 +2,128 @@
  "code": "SB-700",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "在线（flolive.net，快照 2026-10-21）",
- "summary": "英国 FloLIVE（IoT 连接平台：全球蜂窝连接、核心网与安全管理服务，面向企业/运营商/云商；表内「Networking」）；表内 1 次跟进无回复。",
- "type": "IoT 连接平台/MVNO（品类不符）",
+ "website_status": "在线（cctvcamara.pt，快照 2026-10-21）",
+ "summary": "葡萄牙 cctvcamara.pt（CCTV 网店；表内「主要是 CCTV 少量商业 PoE」「有 ONV 的」；仅 gmail 联系邮箱；官网快照空）；群发 15 次无回复。",
+ "type": "CCTV 网店（葡萄牙，PoE 现 ONV）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "ONV"
+ ],
  "evidence": [
   {
    "kind": "官网快照",
-   "claim": "官网标题：IoT Connectivity Solutions and Products | FloLIVE；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 无线 / WiFi / 数据中心 / 企业 IT / 网络交换 / PoE",
-   "quote": "Flolive’s IoT Connectivity Solutions & Products enables enterprises, mobile operators & cloud providers to manage & protect IoT devices.",
-   "url": "https://flolive.net/",
+   "claim": "官网标题：cctvcamara.pt",
+   "quote": "",
+   "url": "https://cctvcamara.pt/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
    "claim": "表内兴趣/备注",
-   "quote": "Networking",
+   "quote": "主要是CCTV 少量商业PoE",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   },
   {
-   "kind": "官网快照",
-   "claim": "FloLIVE 定位",
-   "quote": "IoT Connectivity Solutions and Products | FloLIVE ; Flolive’s IoT Connectivity Solutions & Products enables enterprises, mobile operators & cloud providers to manage & protect IoT devices.",
-   "url": "https://flolive.net/",
-   "date": "2026-10-21"
-  },
-  {
    "kind": "用户表",
-   "claim": "Networking",
-   "quote": "Networking",
+   "claim": "CCTV 少量商业 PoE 有 ONV",
+   "quote": "主要是CCTV 少量商业PoE；有ONV的",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
  "kp": [],
- "grade_override": "C",
- "override_reason": "品类不符：IoT 蜂窝连接平台（FloLIVE），无交换机需求；c_sub=品类不符（非网络设备）",
+ "grade_override": null,
+ "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "英国",
-  "other": "官网 flolive.net，语言 en，快照状态 ok；角色判定来源：官网文案"
+  "hq": "葡萄牙",
+  "other": "官网 cctvcamara.pt，语言 ?，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "IoT 蜂窝连接平台服务"
+  "CCTV 网店（葡萄牙）"
  ],
  "channels": {
-  "role": "IoT 连接平台/MVNO（品类不符）",
-  "region": "英国",
-  "contact": "info@flolive.net"
+  "role": "CCTV 网店（葡萄牙，PoE 现 ONV）",
+  "region": "葡萄牙",
+  "contact": "cctvcamarageral@gmail.com"
  },
  "signals": [
-  "官网：Flolive’s IoT Connectivity Solutions & Products enables enterprises, mobile operators & cloud providers to manage & protect IoT devices；首页 One Platform. Limitless Services. ; Qualcomm: Enhancing Global IoT Connectivity"
+  "表内：主要是 CCTV 少量商业 PoE；有 ONV 的；cctvcamarageral@gmail.com",
+  "快照：内容为空"
  ],
  "risks": [
-  "品类不符：IoT 蜂窝连接平台（SIM/核心网服务），无交换机需求"
+  "仅 gmail 免费邮箱（实体待核）；官网快照空；15 次无回复；现供 ONV 价格基准低"
  ],
  "saga_fit": {
-  "p1": null,
-  "tier": 25,
-  "why": "蜂窝 IoT 连接服务平台，不采购以太网交换机 → 改 C"
+  "p1": "STC-28DGGPM",
+  "tier": 20,
+  "why": "CCTV 配套 PoE（现 ONV）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理 4/8 PoE 位 HRUI（列表价，注明）"
  },
- "email_hook": "（不发送：品类不符）"
+ "email_hook": "For the PoE switches you list with CCTV kits, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ (and budget 4/8-PoE unmanaged) from single units, CE/RoHS, EXW USD — which PoE port count do your Portuguese installer customers buy most?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 24 封 2024→2026，无记录打开，0 回；收件 cctvcamarageral@gmail.com；主题多为「Industrial PoE Switch、Marvell Alleycat5 Solution」；Elsa 箱：`to:cctvcamara.pt` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 24 / 来 0）（第 74 批(k)））",
+   "type": "CCTV 网店（葡萄牙，PoE 现 ONV）",
+   "sieve": "1（只收到群发）",
+   "stop": "24 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+   "lane": "葡萄牙（欧洲全域主攻）",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 24；用户表：「主要是CCTV 少量商业PoE」；研究档 risks：仅 gmail 免费邮箱（实体待核）；官网快照空；15 次无回复；现供 ONV 价格基准低"
+  },
+  "situation": "葡萄牙 cctvcamara.pt（CCTV 网店；表内「主要是 CCTV 少量商业 PoE」「有 ONV 的」；仅 gmail 联系邮箱；官网快照空）；群发 15 次无回复。",
+  "need": "CCTV 配套 PoE（现 ONV）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理 4/8 PoE 位 HRUI（列表价，注明）",
+  "breakpoint": "仅 gmail 免费邮箱（实体待核）；官网快照空；15 次无回复；现供 ONV 价格基准低",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 20,
+   "price": "换人再触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-27 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-06-14 $65（10G Media Converter）、2024-11-15 $300（48 Port PoE Managed Switch）、2024-12-27 $240（24 Port Fiber Switch）、2025-10-07 $280（10G Enterprise SFP Switch）、2026-06-16 $16000（32 Port 400GB DC Switch）",
+   "why": "CCTV 配套 PoE（现 ONV）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理 4/8 PoE 位 HRUI（列表价，注明）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1（换人后）",
+   "channel": "A 邮箱 → 具名 KP",
+   "action": "换收件人再发一封（第 75 批(af) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
+   "one_question": "For the PoE switches you list with CCTV kits, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ (and budget 4/8-PoE unmanaged) from single units, CE/RoHS, EXW USD — which PoE port count do your Portuguese installer customers buy most? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
+  },
+  "facts": [
+   {
+    "date": "2026-09-10",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Industrial PoE Switch、Marvell Alleycat5 Solution",
+    "why": "24 封 / 0 次打开 / 0 回｜首封 2024-06-14 → 末封 2026-09-10（24 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "主要是CCTV 少量商业PoE",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026-09-10",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "16 Port Industrial PoE Switch",
+    "why": "本日去信真实主题（邮箱索引 006aacc4ddaec614；信稿开头句引用此封；此前稿内写的「Industrial PoE Switch」是线程列表首题，不是本封）",
+    "k": "006aacc4ddaec614"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": {
+   "subject": "PoE switches for your CCTV kits - a managed 8-port and two budget units",
+   "body": "Hello,\n\nOver the past months you had a few product mails from us - most recently \"16 Port Industrial PoE Switch\" on 10 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the PoE switches you list with CCTV kits (ONV today), neutral-brand units at distributor price, EXW, from single pieces, 15-day validity, CE/RoHS: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based - model STC-28DGGPM - $80.7 USD; budget 4 x PoE+ + 2 x Gigabit - STC-204GP - $24.2; 8 x PoE+ + 2 x Gigabit - STC-028GP - $25.1.\n\nOne question: which PoE port count do your Portuguese installer customers buy most - 4 or 8?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+  },
+  "as_of": "2026-10-24"
+ }
 }

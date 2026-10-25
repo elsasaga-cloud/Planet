@@ -1,0 +1,126 @@
+{
+ "code": "SC-153",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（annke.com，快照 2026-10-21）",
+ "summary": "ANNKE（消费级安防品牌：家用/小商用有线与无线摄像机套装、NVR，官网为 DTC 电商促销站；品牌母公司在深圳；表内「商业 PoE CCTV 为主，很多配件」，仅 support@ 邮箱）；群发 11 次无回复。",
+ "type": "消费级安防品牌（深圳母公司，DTC 电商）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：ANNKE® | Security. Made Pro. – ANNKE Official Website；品类词 安防监控（CCTV / 门禁） / 无线 / WiFi / 布线 / 线缆 / 网络交换 / PoE",
+   "quote": "ANNKE offers pro-grade security for home & business with wired and wireless cameras and systems. Enjoy ultra-high resolution, NightChroma full-color night vision, advanced AI detection & search, expert support, and fast local shipping.",
+   "url": "https://www.annke.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "商业PoE CCTV为主 很多配件",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "家用与商用有线/无线摄像机与系统",
+   "quote": "ANNKE offers pro-grade security for home & business with wired and wireless cameras and systems.",
+   "url": "https://www.annke.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "商业 PoE CCTV 为主",
+   "quote": "商业PoE CCTV为主 很多配件",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "消费级安防品牌（ANNKE，深圳母公司，DTC 电商），非出口客户、品类不符；c_sub=品类不符（消费级）/中国大陆背景",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "美国",
+  "other": "官网 annke.com，语言 en，快照状态 ok；角色判定来源：用户表"
+ },
+ "business_lines": [
+  "消费级安防摄像机 / NVR（DTC 电商）"
+ ],
+ "channels": {
+  "role": "消费级安防品牌（深圳母公司，DTC 电商）",
+  "region": "美国",
+  "contact": "support@annke.com"
+ },
+ "signals": [
+  "官网：Halloween Sale / Flash Deals / Best Sellers（DTC 促销站）",
+  "站内 kw：camera 311 / nvr 131 / poe 330（PoE 为摄像机供电语境）"
+ ],
+ "risks": [
+  "消费级（家用摄像机套装）= Saga 不做",
+  "品牌母公司在深圳：供应链在本地，非出口客户",
+  "仅 support@ 邮箱，11 次无回复"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 25,
+  "why": "消费级 DTC 品牌、母公司在深圳、仅 support@ → 非 Saga 出口客户画像（INH：不做消费级；大陆背景公司非出口客户）→ 改 C"
+ },
+ "email_hook": "（不发送：消费级安防品牌，深圳母公司）",
+ "mail_review": {
+  "as_of": "2026-10-25",
+  "binding": {
+   "level": "已发未回（只收到自动回执/假期回复，无人工回复、无打开记录；S 1 封 2025-01-15→2025-01-15、A 13 封 2025-04-07→2026-02-06，共 14 封群发，0 真实回复（24 封自动回执/假期回复，不算回）；Elsa 单发去信 1 封（2025-02-19「Industrial PoE Switch」→ support@annke.com，未见回复（Elsa 箱 Replied 标签无）））（第 74 批(e)：S/A mail_dump + Elsa 箱 in:sent 排锚扫描 2026-10-25）",
+   "type": "消费级安防品牌（DTC，深圳母公司）",
+   "sieve": "1（工单自动回执）",
+   "stop": "读",
+   "evidence": [
+    "mail_dump.py SC-153（S/A 全量）",
+    "data/gmail_e/elsa_sent_nonanchor_2026-10-25.json（Elsa 1:1 普查）"
+   ]
+  },
+  "situation": "ANNKE（消费级安防 DTC 品牌，深圳母公司；只有 support@ 工单箱，每封都回「Support welcome email」验证信）",
+  "need": "消费级 + 深圳母公司：无外采口",
+  "breakpoint": "support@ 是工单箱（20+ 封自动验证信）；不是采购口",
+  "saga_now": {
+   "p1": null,
+   "tier": null,
+   "price": null,
+   "why": "消费级 + 深圳母公司：无外采口",
+   "repeat": "无成单；不动",
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "不动：工单箱 + 消费级 + 深圳母公司",
+   "one_question": null
+  },
+  "facts": [
+   {
+    "date": "2026-02-06",
+    "dir": "去",
+    "who": "S/A 群发",
+    "quote": "Managed Optical Bypass Switch, 16 Port PoE Managed Switch, Marvell Alleycat5 Solution, Commercial Network Switch",
+    "why": "S 1 封 2025-01-15→2025-01-15、A 13 封 2025-04-07→2026-02-06，共 14 封群发，0 真实回复（24 封自动回执/假期回复，不算回）｜首封 2025-01-15 → 末封 2026-02-06",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2025-02-19",
+    "dir": "out",
+    "who": "Elsa → support@annke.com",
+    "quote": "Industrial PoE Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+    "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
+    "k": "elsa_1to1",
+    "msg_id": "1951eef143ec1245"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null
+ }
+}

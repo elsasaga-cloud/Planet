@@ -1,0 +1,214 @@
+# SA-044 dymec.com · news_2 · https://www.dymec.com/recent-news/solutions/rural-telecommunications/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+Industrial Networking Solution | Rural Telecommunications | Dymec
+Products
+TraffiClair AI Traffic Detection and Optimization System
+Economy Switches
+3170® Industrial Ethernet Switches
+DIN-Rail & Rack Layer 2 Switches
+DIN-Rail & Rack Layer 3 Switches/Routers
+Un-managed MISC Products
+EN50155 Switches
+IEC61850-3 Layer 2 & Layer 3 Switches
+SFP Fiber Optic Modules
+Power Supplies
+DYMEC® Serial Links / Media Converters
+Optical Star Series for SCADA Installations
+Fiber Patch Cables
+System Cabling
+Ethernet Embedded Modules
+Sales Specials
+All Products
+Industries
+All Industries
+Key Solutions
+Intelligent Transportation Systems (ITS)
+Smart Cities Connectivity
+Power Substation
+Industrial SCADA
+Water & Waste Treatment
+Transportation & Railway
+Factory & Building Automation
+Security
+Telecommunications
+Support
+Resources
+Customer Service
+RMA Service Request
+Software
+Government Contracts
+Terms & Conditions
+Warranty Policy
+BABA Compliance
+Partners
+Partner Program
+Become A Partner
+Trade-In Sales Offers
+About
+About The Company
+Recent News
+Join Newsletter
+Contact Us
+Products
+TraffiClair AI Traffic Detection and Optimization System
+Economy Switches
+3170® Industrial Ethernet Switches
+DIN-Rail & Rack Layer 2 Switches
+DIN-Rail & Rack Layer 3 Switches/Routers
+Un-managed MISC Products
+EN50155 Switches
+IEC61850-3 Layer 2 & Layer 3 Switches
+SFP Fiber Optic Modules
+Power Supplies
+DYMEC® Serial Links / Media Converters
+Optical Star Series for SCADA Installations
+Fiber Patch Cables
+System Cabling
+Ethernet Embedded Modules
+Sales Specials
+All Products
+Industries
+All Industries
+Key Solutions
+Intelligent Transportation Systems (ITS)
+Smart Cities Connectivity
+Power Substation
+Industrial SCADA
+Water & Waste Treatment
+Transportation & Railway
+Factory & Building Automation
+Security
+Telecommunications
+Support
+Resources
+Customer Service
+RMA Service Request
+Software
+Government Contracts
+Terms & Conditions
+Warranty Policy
+BABA Compliance
+Partners
+Partner Program
+Become A Partner
+Trade-In Sales Offers
+About
+About The Company
+Recent News
+Join Newsletter
+Contact Us
+Rural Telecom
+Dymec / Portfolio / Rural Telecom
+Project
+Rural Telecommunications
+Location
+Rural Areas, USA
+Industry
+Telecommunications
+Download PDF Version
+About the Project
+America’s Rural Telecommunications Providers are working to help secure Industrial & Agricultural facilities in rural America, including pipelines, power substations, crop storage, warehouses & distribution require protection.
+DYMEC with the RTS offers the new Q-Guard – a Lidar based Perimeter Control System. Designed for effective perimeter control with no false positives.
+DYMEC & the RTA aids industry with critical infrastructure requirements.
+Working with the RTA, we help secure Power Utility Substations, pipelines, and storage facilities.
+Q-Guard detects intruders at the perimeter – before entry – allowing more time for security to act and respond. The DYMEC – RTA Solution works!
+System Requirements
+Supports IEC 61850, IEEE1613, & EN50155
+Layer 3 Ethernet Switch & Router with 4 x 10GbE Ports
+Fanless, Convection Cooled
+Supports Data Configuration Backup Unit
+Layer 3 functionality includes Static Route, RIPv1/v2, and VRRP
+Wide Temperature Range: -40 ~ +75C
+The Dymec Solution
+DYMEC began working with the RTA in response to increased security requirements for infrastructure and industrial assets. Combining telecommunications services with DYMEC Analytic Applications is a win-win for everyone.
+The deployment of cameras is everywhere, and rural America is no exception. The deployment of DYMEC’s BlackBird SR-2017 Camera Guard allows for the real-time analysis of video cameras and their PTZ capability. One BlackBird System can analyze up to 1500 cameras, make sure they are secure and check the video quality from the camera.
+Perimeter protection is very important in unmanned areas. Expensive and critical assets need to be protected 24 x 7. The RTA deployment of Q-Guard protects areas before actual penetration and possible damage to assets.
+RTA members deliver the communication links, and DYMEC provides the advanced analytics to protect and defend infrastructure and assets. From oilfields, gas pipes, grain bins, railroad sidings, or distribution centers – America is protected
+Q-Guard Delivers Perimeter Security – with no false positive BlackBird SR-2017 – Camera Guard and Video Analytics Automation
+DYMEC Value – Made in U.S.A.
+Need help with a custom solution?
+Contact Us
+Relevant Products
+KY-3028EMP+
+10-Port Layer 2 Managed PoE Industrial Ethernet Switch
+Type: Managed
+PoE: IEEE802.3af/at
+Max Number of Ports: 10
+Gigabit Ethernet Ports: NA
+Fast Ethernet Ports: 8
+100/1000Tx SFP Ports: NA
+1000Tx SFP Ports: 2
+1GbE/10GbE SFP+ Ports: NA
+Power Over Ethernet Ports: 8
+Network Chipset Mfr: Broadcom
+Power Input: 48~57 Volts DC
+Temperature Hardened: YES
+Operating Temperature: Ext:-40°C ~ 85°C (-40°F ~ 185°F)
+DYMEC Warranty: 5 Year / Limited Lifetime
+$ 199.00
+KY-CPG2404
+28 Port Layer 3 Managed PoE Industrial Ethernet Switch
+Category Type: Managed Layer 3
+Power Over Ethernet: PoE
+Max Number of Ports: 28
+Gigabit Ethernet Ports: 24
+Fast Ethernet Ports: NA
+100/1000Tx SFP Ports: NA
+1000Tx SFP Ports: 4
+1GbE/10GbE SFP+ Ports: NA
+Fixed Fiber Ports: NA
+PoE+ Ports (30 Watt)(IEE802.3 af/at): 24
+PoE+ Ports (IEE802.3 bt): NA
+Combo Ports: NA
+Network Chipset Mfr: BROADCOM SoC
+Power Input: 90~264 Volts AC / 48~57 Volts DC
+Mounting: Rack
+NSA Endpoint Security Certified: YES
+Temperature Hardened: YES
+Operating Temperature: Ext:-40°C ~ 85°C (-40°F ~ 185°F)
+TAA Compliant: TAA Compliant
+DYMEC Warranty: 5 Year / Limited Lifetime
+$ 3,650.00 – $ 3,949.00 Price range: $3,650.00 through $3,949.00
+KY-MSG0802 / KY-3100EM
+10 Port Managed Layer 2 Ethernet Switch with Gigabit Uplink
+Category Type: Managed Layer 2
+Mounting Type: DIN-Rail, Wall, Shelf
+Power Over Ethernet: Non-PoE
+Power Over Ethernet (15/30 Watts): Non-PoE
+Max Number of Ports: 10
+Gigabit Ethernet Ports: 8
+Fast Ethernet Ports: /
+100/1000Tx SFP Ports: /
+1000 BaseX SFP+ Ports: 2
+1GbE/10GbE SFP+ Ports: /
+Fixed Fiber Ports: /
+PoE+ Ports (8023 af/at): /
+PoE+ Ports (8023 bt): NA
+Combo Ports: /
+Network Chipset Mfr: Broadcom SoC
+Power Input: 12-48VDC
+NSA Endpoint Security Certified: YES
+Temperature Hardened: YES
+Operating Temperature: Ext:-40°C ~ 85°C (-40°F ~ 185°F)
+TAA Compliant: YES
+DYMEC Warranty: 5 Year / Limited Lifetime
+$ 799.30
+Secure Power Utilities
+ALL SOLUTIONS
+Wichita Traffic Systems
+DYMEC® is Proudly Owned and Operated by Veterans of the United States Military
+Contact Us
+2243 N. Mason Rd, Suite 402, Katy, Texas 77449
+Phone: (816) 988-7861, (713) 826-0739
+E-Mail: sales@dymec.com
+Explore
+Home
+Industrial Ethernet Product Catalog
+Industries
+Support
+Partners
+About
+Join Our Newsletter
+© 2026 - Dymec® | All Rights Reserved
+Terms of Use | Privacy Policy | Return Policy
+Dymec has been awarded TIPS vendor contract 220105 .
+Fully Compliant with the California Consumer Privacy Act. We never disclose or sell customer information.

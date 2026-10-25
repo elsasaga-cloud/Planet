@@ -1,0 +1,258 @@
+# Spring Network
+**官方名称（调研核实）**：Spring Network（南非；表内名）
+
+> **评级 B**　|　南非　|　档案编号 `SB-443`　|　优先级 ★★　|　状态：有回复·跟进中
+>
+> **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：实质回复 1 次；回复暂无需求 1 次；WhatsApp 已加；推送 17 次（2024-04-28 → 2025-11-05）　|　**所在清单**：A优质名单(South Africa)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+
+```yaml structured_profile
+code: SB-443
+rating: B
+rating_auto: B
+name_official: "Spring Network（南非；表内名）"
+score: 41
+country: 南非
+region: 非洲
+website: none
+type: 经销/集成（类型待核）
+tier_tags: ["A优质名单(South Africa)"]
+deal: no
+replies: 1
+followups: 17
+first_contact: 2024-04-28
+last_contact: 2025-11-05
+s_mail: 4 msgs (out 4 / in 0), 2025-10-01 -> 2026-02-05
+p1: STI-488GP
+price_tier: 25%
+research: done
+site_snapshot: none
+sources: 1
+updated: 2026-10-25
+```
+
+## SALES BRIEF（压缩模型）
+
+- **是谁**：南非网络承包商 Sylvanus Adejumo（表内注「可以多跟进一下」），需求 4 光 8 电工业大壳 PoE；2024 年回复「2 光 4 已经有了」「有 154 了」（手上已有同口型机），2025-10 发了 DAC 资料并邮件跟进。（调研 2026-10-21；表内兴趣：4光8工业大壳 PoE）
+- **为什么是 B 级**：+22 实质回复 1 次；+6 有互动但表示暂无需求/已有供应商 1 次；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+0 仅免费邮箱；-6 区域 非洲/南非；+5 最近活动 2025
+- **历史互动**：实质回复 1 次；回复暂无需求 1 次；WhatsApp 已加；推送 17 次（2024-04-28 → 2025-11-05）；最近一次客户回复：2025-10-01：email也发了
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-488GP — 4 光 8 电工业 PoE 大壳 = Saga STI-488GP（$107.6/112.1/116.6）；DAC 线缆 Saga 价目无（Q-32 配件缺口）。；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-01 $280（10G Enterprise SFP Switch）
+- **第一问（只问一个）**：Sylvanus, you were after a 4-SFP + 8-PoE industrial unit in the larger housing — ours is DIN/wall-mount with 240W budget; shall I send the spec sheet and a 1-pc sample price?
+- **最大未知**：公司网站（表内无域名，无法核实是否仍在运营）
+- **下一步**：群发节奏 A 邮箱 观察打开
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-443` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A 邮箱 4 封 2025→2026，无记录打开，0 回；收件 adejumokojo@gmail.com；主题多为「10G Enterprise SFP Switch、Booster PoE Switch」；Elsa 箱：`to:adejumokojo@gmail.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 4 / 来 0）（第 74 批(n)））** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：4 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：南非 非主攻 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 4；用户表：「兴趣：4光8工业大壳 PoE；回复：已经有了；有154了；email也发了」；研究档 risks：gmail 联系、公司信息不可核
+- **现状一句话**：南非网络承包商 Sylvanus Adejumo（表内注「可以多跟进一下」），需求 4 光 8 电工业大壳 PoE；2024 年回复「2 光 4 已经有了」「有 154 了」（手上已有同口型机），2025-10 发了 DAC 资料并邮件跟进。
+- **对方真实需求（有据）**：4 光 8 电工业 PoE 大壳 = Saga STI-488GP（$107.6/112.1/116.6）；DAC 线缆 Saga 价目无（Q-32 配件缺口）。
+- **断点 / 为什么停在这里**：gmail 联系、公司信息不可核
+- **Saga 现在该推什么**：P1 **STI-488GP**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-01 $280（10G Enterprise SFP Switch））——4 光 8 电工业 PoE 大壳 = Saga STI-488GP（$107.6/112.1/116.6）；DAC 线缆 Saga 价目无（Q-32 配件缺口）。
+- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+  - 第一问（只问一个）：Sylvanus, you were after a 4-SFP + 8-PoE industrial unit in the larger housing — ours is DIN/wall-mount with 240W budget; shall I send the spec sheet and a 1-pc sample price?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-02-05 | 去 | A 群发 | 10G Enterprise SFP Switch、Booster PoE Switch | 4 封 / 0 次打开 / 0 回｜首封 2025-10-01 → 末封 2026-02-05（4 去 / 0 来） | `gmail_digest` |
+| 2026-10-21 | 用户表 | Simon | 兴趣：4光8工业大壳 PoE；回复：已经有了；有154了；email也发了 | 表内备注 | `用户表` |
+
+- **还缺的证据（等 A 邮箱 / Extra Info）**：用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码
+
+## 基本事实（事实/推断/假设分层）
+
+| 项 | 内容 | 层级 |
+|---|---|---|
+| 名称 | Spring Network | 事实（用户表） |
+| 国家 | 南非 | 事实（用户表）|
+| 网站/域名 | — | 事实（用户表 URL/邮箱域名） |
+| 类型 | 经销/集成（类型待核） | 推断（据兴趣/备注关键词） |
+| 联系人 | Mr.Sylvanus Adejumo / 可以多跟进一下 | 事实（用户表） |
+| 来源（From） | 2023.2.28 | 事实（用户表） |
+| 兴趣（Interested in） | 4光8工业大壳 PoE | 事实（用户表） |
+| 用户备注（Remark） | 277342 73414<br>已加 | 事实（用户表） |
+| 所在清单 | A优质名单(South Africa) | 事实（文件路径） |
+| 在卖/在用品牌（备注所见） | — | 事实（用户备注）/ 推断 |
+
+## 客户调研（网页核实 · 引文 + URL + 日期）
+
+- **状态：已调研（2026-10-21）**　网站状态：无域名（gmail；仅表内信息）
+- **是谁**：南非网络承包商 Sylvanus Adejumo（表内注「可以多跟进一下」），需求 4 光 8 电工业大壳 PoE；2024 年回复「2 光 4 已经有了」「有 154 了」（手上已有同口型机），2025-10 发了 DAC 资料并邮件跟进。
+- **【用户表】兴趣：4 光 8 工业大壳 PoE；回复：2 光 4 已经有了；4/8 口工业 PoE→有 154 了；DAC→email 也发了**
+  > 兴趣：4光8工业大壳 PoE；回复：已经有了；有154了；email也发了
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Sylvanus Adejumo（）adejumokojo@gmail.com +27 73 427 3414〔（本地 Clients/ 表格，无公开 URL）〕
+- 备注：（无首轮调研；由 deepen.py 建档）
+
+### 加厚挖掘（2026-10-21 · 无域名 · 仅表内信息）
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | （待核） |
+| 总部/地址 | 南非（表内） |
+
+- **业务线**：网络 / 工业以太网安装（推断）
+- **触达通道（公开）**：role: 承包商 / 安装商；region: 南非
+- **近况信号**：
+  - 明确需求 4 光 8 电工业 PoE（大壳）
+  - 已持有 2 光 4 与 154 同口型机 → 已有供应渠道，需差异化
+- **风险/边界**：gmail 联系、公司信息不可核；南非清关 / 付款：T/T 预付
+- **Saga 对位结论**：P1 STI-488GP（25% 档）——4 光 8 电工业 PoE 大壳 = Saga STI-488GP（$107.6/112.1/116.6）；DAC 线缆 Saga 价目无（Q-32 配件缺口）。
+- **邮件切入句（英文）**：Sylvanus, you were after a 4-SFP + 8-PoE industrial unit in the larger housing — ours is DIN/wall-mount with 240W budget; shall I send the spec sheet and a 1-pc sample price?
+
+## 在卖/在用品牌 → Saga 对位
+
+（备注未提及具体品牌）
+
+## 历史跟进记录（原表照录）
+
+合并自 1 张跟进表，共 17 条（原值照录，日期已按年份递推补全）：
+
+| 日期 | 原始时间 | 我方推送内容 | 客户回复 | 平台 | 备注 | 来源表 |
+|---|---|---|---|---|---|---|
+| 2024-04-28 | 2024.4.28 | 发了2光4小壳信息 | 已经有了 | Whatsapp |  | South Africa 2.5.xlsx#38 |
+| 2024-05-19 | 2024.5.19 | 发了几个mini工业交换机 |  | Whatsapp |  | South Africa 2.5.xlsx#38 |
+| 2024-06-20 | 2024.6.20 | 发了几个商业交换机图 |  | Whatsapp |  | South Africa 2.5.xlsx#38 |
+| 2024-07-16 | 2024.7.16 | passive poe手册 |  | Whatsapp |  | South Africa 2.5.xlsx#38 |
+| 2024-08-14 | 2024.8.14 | 4 8口工业PoE | 有154了 | Whatsapp |  | South Africa 2.5.xlsx#38 |
+| 2024-09-26 | 926 | 2.5G ethernet |  | Whatsapp |  | South Africa 2.5.xlsx#38 |
+| 2024-10-22 | 1022 | 电口 |  | Whatsapp |  | South Africa 2.5.xlsx#38 |
+| 2024-11-18 | 1118 | 引流机型 |  | Whatsapp |  | South Africa 2.5.xlsx#38 |
+| 2024-12-10 | 1210 | Mini |  | Whatsapp |  | South Africa 2.5.xlsx#38 |
+| 2025-02-22 | 2025.2.22 | 工业16 24口出货图 |  | Whatsapp |  | South Africa 2.5.xlsx#38 |
+| 2025-03-22 | 3.22 | marvell系列商业图 |  | Whatsapp |  | South Africa 2.5.xlsx#38 |
+| 2025-05-27 | 527 | 4 8 16口工业PoE |  | Whatsapp |  | South Africa 2.5.xlsx#38 |
+| 2025-06-28 | 628 | 发了洪瑞商业poE组合图 |  | Whatsapp |  | South Africa 2.5.xlsx#38 |
+| 2025-07-24 | 724 | 24 48口商业图 |  | Whatsapp |  | South Africa 2.5.xlsx#38 |
+| 2025-08-28 | 828 | 电口 |  | Whatsapp |  | South Africa 2.5.xlsx#38 |
+| 2025-10-01 | 101 | dac | email也发了 | Whatsapp |  | South Africa 2.5.xlsx#38 |
+| 2025-11-05 | 115 | solar |  | Whatsapp |  | South Africa 2.5.xlsx#38 |
+
+## 邮箱往来（S 邮箱 · 自动汇总）
+
+- **账号**：a.sagatelecom　|　**邮件**：4 封（去 4 / 来 0）　|　**期间**：2025-10-01 → 2026-02-05　|　**最后去信**：2026-02-05
+- **对方邮箱**：adejumokojo@gmail.com
+- 对方从未回信（全部为我方去信）
+
+| 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
+|---|---|---|---|---|---|
+| Managed Optical Bypass Switch | 2026-02-05 | 2026-02-05 | 0 | 1 | 1 |
+| OEM Core Switching Solution | 2026-01-07 | 2026-01-07 | 0 | 1 | 1 |
+| Booster PoE Switch | 2025-11-05 | 2025-11-05 | 0 | 1 | 1 |
+| 10G Enterprise SFP Switch | 2025-10-01 | 2025-10-01 | 0 | 1 | 1 |
+
+## 联系方式（已有 · 原值照录）
+
+- 邮箱：`adejumokojo@gmail.com`〔免费邮箱；来源：用户表原值〕
+- 电话：`+27734273414`〔WhatsApp 已加；原值见来源表〕
+- 联系人（原值）：Mr.Sylvanus Adejumo / 可以多跟进一下
+- **邮箱纪律**：只用表内原值，不猜测、不拼接；发不过去的地址标注后保留不删。
+
+## 关键人（KP）与触达通道
+
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Sylvanus Adejumo | — | adejumokojo@gmail.com / +27 73 427 3414 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Mr.Sylvanus Adejumo | — | adejumokojo@gmail.com / +27734273414 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
+
+- **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；仅免费邮箱：可发，但优先找官网公开的企业邮箱（见调研 KP）
+
+## 来源与归并（不漏 · 原始行定位）
+
+本客户只有 1 行原始记录。
+
+| 文件#表:行 | No. | Company（原值） | Country | Person | From | Interested in | Contact | Remark | 跟进表 |
+|---|---|---|---|---|---|---|---|---|---|
+| A/DONE/South Africa 2.5.xlsx#总表:39 | 38 | Spring Network | 南非 | Mr.Sylvanus Adejumo<br>可以多跟进一下 | 2023.2.28 | 4光8工业大壳 PoE | adejumokojo@gmail.com | 277342 73414<br>已加 | 17 条 |
+
+## 产品决策（Saga · 单一决策口径）
+
+| 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
+|---|---|---|---|---|
+| **P1** | STI-488GP | 深挖对位：4 光 8 电工业 PoE 大壳 = Saga STI-488GP（$107.6/112.1/116.6）；DAC 线缆 Saga 价目无（Q-32 配件缺口）。 | $112.1 USD EXW（25% 档，SmartByte LT-IS6012GP-4GX8GT 600 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（经销/集成（类型待核）） |
+| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $137.5 USD EXW（㉕ 封顶：25% 档 $145.7 高于 2026-06 Saga 列表价 $137.5，按列表价；SmartByte LT-IS6310GP-2GX8GT 780 CNY，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $180 USD EXW（㉕ ② 群发现价（群发价台账），25% 档公式为 $188.7——同一客户随时可能收到 Alan 的群发，信稿不高于群发价；汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+
+- **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
+
+## 跟进建议
+
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-488GP），备选型不进首触。
+
+- **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STI-488GP 一条规格链接；只问一个问题。
+- **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
+- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
+- 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
+- **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
+
+## SWOT
+
+- **S**：有 1 次实质回复（对方认识我们）；WhatsApp 直达
+- **W**：非洲：物流/收款/汇率摩擦高于主攻区
+- **O**：P1 STI-488GP 按 25% 档报价，做现供应商的第二货源
+- **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
+
+## 触达与风险红线
+
+1. 包装、外观、说明书全部中性，不出现「Made in China」，贴客户自己的型号。
+2. 邮件只用表内原值地址；「发不过去」的地址保留并标注，不猜新地址。
+3. 不承诺 UL、EN50155、IP67、云管理；PoE 功率与工业温宽以实测为准。
+4. 乌克兰/军工/公共部门/轨道/生命安全场景守界；巨头分销与品牌厂商不投入。
+5. 同一客户在多张表出现时以本档为唯一入口，避免多人重复触达。
+
+## Qualification 清单
+
+| 门槛 | 状态 |
+|---|---|
+| 需求面成立（在卖/在用交换机或 PoE） | ✅ |
+| 决策人识别 | ✅ |
+| 触达通道 | ✅ WhatsApp 已加 |
+| 现用/在卖交换品牌 | ❓ 未知 |
+| 采购量/预算 | ❓ 未确认（有回复但未报量） |
+| 商业资格结论 | **技术上合格 / 商业上未合格（待实质回复）→ 慢慢跟** |
+
+## Unknowns（待问清单 · 跟进后逐项消除）
+
+- [ ] 公司网站（表内无域名，无法核实是否仍在运营）
+- [ ] 年走量与现供应商
+
+## 英文跟进邮件（样板 · 可直接发送）
+
+**主题**：STI-488GP - industrial DIN-rail switch (neutral label)
+
+```text
+Hi Sylvanus,
+
+Picking up our earlier exchange about PoE / industrial switches. You were after a 4-SFP + 8-PoE industrial unit in the larger housing — ours is DIN/wall-mount with 240W budget; shall I send the spec sheet and a 1-pc sample price?
+
+We supply an industrial DIN-rail switch, 8x Gigabit PoE+ plus 4 SFP (unmanaged) - model STI-488GP - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $112.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
+
+If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+
+Best regards,
+Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
+https://sagatele.com/
+```
+
+> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+
+## 新跟进记录（仓库外发出后补）
+
+| 日期 | 渠道 | 对象 | 我方动作 | 对方回应 | 下一步 | 下次动作日期 |
+|---|---|---|---|---|---|---|
+|  |  |  |  |  |  |  |
+
+> 历史跟进见上文「历史跟进记录（原表照录）」；新动作由用户在仓库外执行后告知日期与渠道，写入 research JSON 的 notes 后重渲染。
+
+## 下次复核
+
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+
+## 变更日志
+
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 41）
+
+---
+
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -1,0 +1,33 @@
+{
+ "code": "SC-019",
+ "name_official": "Sepehr Modj Co.（伊朗）",
+ "researched_at": "2026-10-21",
+ "website_status": "域名不可达（sepehrmodjco.com）",
+ "summary": "伊朗伊斯法罕 CCTV 分销商（Tiandy 合作），WhatsApp 多次要价目；按既定口径伊朗 = 制裁 / 区域外 → 降 C，不主动发送。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "CCTV 分销商，与 Tiandy 合作，要 VC 价目 / HDMI；回复 price list / price / 只用 100M 和 1G",
+   "quote": "兴趣：CCTV distributor, work with Tiandy, VC price list, HDMI；回复：price list；price；只用100M和1G",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "伊朗：制裁 / 收款与物流不可控（与 SC-021、SC-024、SC-041 同口径）",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（身份判断 → 伊朗降 C）"
+ },
+ "saga_fit": {
+  "p1": null,
+  "tier": 25,
+  "why": "伊朗客户不主动跟进。"
+ },
+ "email_hook": "（不主动发送）"
+}

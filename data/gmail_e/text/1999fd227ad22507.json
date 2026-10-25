@@ -11,7 +11,7 @@
  "text": "Hi,\nWe have many switches covering 1G/2.5G/10G speed and 4/8/16/24/48 port.\nPlease see attached some photos.\nWhich type do you most need?\nThank you.",
  "char_count": "152",
  "attachments": "[{'filename': 'Dual AC.jpg', 'mime_type': 'image/jpeg', 'size': 435914}, {'filename': 'MINI.png', 'mime_type': 'image/png', 'size': 713505}, {'filename': 'L3 Managed.jpg', 'mime_type': 'image/jpeg', 'size': 847528}, {'filename': '1U Umanaged.jpg', 'mime_type': 'image/jpeg', 'size': 610571}, {'filename': 'Marvell Series.jpg', 'mime_type': 'image/jpeg', 'size': 686961}]",
- "note": "SB-164 Tescom（坦桑尼亚）：Elsa 2025-10-01 只回了 5 张产品照片 + 「你最需要哪类」，没报价、没型号",
+ "note": "SB-229 Tescom（坦桑尼亚）：Elsa 2025-10-01 只回了 5 张产品照片 + 「你最需要哪类」，没报价、没型号",
  "text_source": "text/plain",
  "fetched": "2026-10-24T16:03Z",
  "method": "Arena Gmail connector get_message_text(include_quoted=false)"

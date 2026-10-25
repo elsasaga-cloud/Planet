@@ -2,60 +2,44 @@
  "code": "SB-145",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "在线（een.com，快照 2026-10-21）",
- "summary": "美国 Eagle Eye Networks（AI 云视频监控 VMS 厂商，24/7 支持；自有标交换机 SW05M / SW26M；表内「自己的 logo 商业 FS；CCTV 一些周边产品」「可以尝试多跟进一下」；KP Jaime Becker（Director of Partner，jaime@alludolearning.com 关联域）、Steve Roskowski（CTO））；群发 10 次无回复。",
- "type": "云 VMS 厂商（自有标商用 PoE 周边，OEM 采购）",
+ "website_status": "在线（digicomm.de，快照 2026-10-21）",
+ "summary": "德国 digicomm（40 年关键基础设施安全数据通信：光纤/铜缆/无线网络、SHDSL（SHDTU/SHRM）、报警方案（AddSecure 工作坊）、软件/安全，OT 应用；表内「工业 FS MC SFP 自己的 logo，有 ONV 的」「可以着重跟一下」）；群发 15 次无回复。",
+ "type": "关键基础设施通信方案商（德国，自有标工业 FS，现含 ONV）",
  "size": "",
  "brands_seen": [
-  "Bosch",
-  "Axis"
+  "ONV"
  ],
  "evidence": [
   {
    "kind": "官网快照",
-   "claim": "官网标题：AI Video Surveillance & Proactive security | Eagle Eye Networks；品类词 安防监控（CCTV / 门禁） / 数据中心 / 企业 IT / 光纤 / 媒体转换 / 网络交换 / PoE",
-   "quote": "AI powered video surveillance & proactive security for smarter business operations offering 24/7/365 support. Request a demo today.",
-   "url": "https://www.een.com/",
+   "claim": "官网标题：Kritische Infrastrukturen - Germany",
+   "quote": "Sichere Datenkommunikation für kritische Infrastrukturen – mit 40 Jahren Erfahrung und maßgeschneiderten Lösungen.",
+   "url": "https://www.addsecure.de/kritische-infrastrukturen/?digicomm",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
    "claim": "表内兴趣/备注",
-   "quote": "自己的logo 商业FS CCTV 一些周边产品",
+   "quote": "工业FS MC SFP 自己的logo 有ONV的",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   },
   {
    "kind": "官网快照",
-   "claim": "Eagle Eye Networks 定位",
-   "quote": "AI powered video surveillance & proactive security for smarter business operations offering 24/7/365 support. ; Eagle Eye Cloud Video Management System (VMS)",
-   "url": "https://www.een.com/",
+   "claim": "digicomm 定位",
+   "quote": "Kritische Infrastrukturen - Germany ; Sichere Datenkommunikation für kritische Infrastrukturen – mit 40 Jahren Erfahrung und maßgeschneiderten Lösungen ; LWL / Glasfaser ; Kupfer ; Funknetze",
+   "url": "https://www.addsecure.de/kritische-infrastrukturen/?digicomm",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "自己的 logo 商业 FS；CCTV 周边",
-   "quote": "自己的logo 商业FS CCTV 一些周边产品；可以尝试多跟进一下",
+   "claim": "工业 FS MC SFP 自己的 logo 有 ONV 的",
+   "quote": "工业FS MC SFP 自己的logo 有ONV的；可以着重跟一下",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
- "kp": [
-  {
-   "name": "Jaime Becker",
-   "title": "Director of Partner",
-   "email": "jaime@alludolearning.com",
-   "phone": "",
-   "source": "用户表"
-  },
-  {
-   "name": "Steve Roskowski",
-   "title": "CTO",
-   "email": "",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
+ "kp": [],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
@@ -64,108 +48,90 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "美国",
-  "other": "官网 een.com，语言 en-US，快照状态 ok；角色判定来源：用户表"
+  "hq": "德国",
+  "other": "官网 digicomm.de，语言 de-DE，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "云视频监控 VMS（自有品牌）",
-  "配套 PoE 交换机（贴标周边）"
+  "关键基础设施数据通信（光纤 / 铜缆 / SHDSL / 无线）",
+  "报警与安全软件"
  ],
  "channels": {
-  "role": "云 VMS 厂商（自有标商用 PoE 周边，OEM 采购）",
-  "region": "美国",
-  "contact": "sales@een.com、jaime@alludolearning.com"
+  "role": "关键基础设施通信方案商（德国，自有标工业 FS，现含 ONV）",
+  "region": "德国",
+  "contact": "info@digicomm.de"
  },
  "signals": [
-  "官网：AI powered video surveillance & proactive security … Eagle Eye Cloud Video Management System (VMS)；站内 SW05M / SW26M；kw camera 135 / surveillance 43",
-  "表内：自己的 logo 商业 FS；KP Jaime Becker / Director of Partner；Steve Roskowski / CTO"
+  "官网：Sichere Datenkommunikation für kritische Infrastrukturen – mit 40 Jahren Erfahrung；首页 LWL / Glasfaser ; Kupfer ; Funknetze ; Software/Security；页面 /kritische-infrastrukturen/shdsl-workshop/；站内 SHDTU-1 / SHRM-08 / VRM-108",
+  "表内：工业 FS MC SFP 自己的 logo 有 ONV 的；可以着重跟一下"
  ],
  "risks": [
-  "体量较大（全球云 VMS 厂商）：交换机为周边品类，供应链既定",
-  "10 次无回复；KP 邮箱为关联域（alludolearning.com），待核"
+  "守界备注：客户为关键基础设施（能源/公用事业等）——只供民用通用工业交换机/MC，不涉报警/公共安全专用系统",
+  "现供 ONV（深圳）价格基准低；15 次无回复，仅 info@；用户标「着重跟」"
  ],
  "saga_fit": {
-  "p1": "STC-28DGGPM",
+  "p1": "STI-288GPM",
   "tier": 30,
-  "why": "自有 SW05M（5 口）/ SW26M（24 PoE + 2）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）/ 24 口 STC-424DGGPM-280W（$145.7）贴 Eagle Eye 标；5 口位 HRUI STC-114GP"
+  "why": "自有 logo 工业 FS（现 ONV 深圳）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）贴 digicomm 标；MC 位 STI-110GE（$24.3）；SFP Saga 不供（Q-32）"
  },
- "email_hook": "Jaime, for the Eagle Eye-branded PoE switches (SW05M / SW26M) that ship with your Bridges and cameras, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE + 4 SFP) from small lots in your packaging, FCC/CE/RoHS — which size do your partners order most?",
- "products_seen": [
-  {
-   "brand": "Eagle Eye（自有标）",
-   "model": "SW26M",
-   "spec": "24 口 PoE + 2 上联",
-   "saga": "STC-424DGGPM-280W",
-   "url": "https://www.een.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "brand": "Eagle Eye（自有标）",
-   "model": "SW05M",
-   "spec": "5 口 PoE",
-   "saga": "HRUI STC-114GP（列表价，注明）",
-   "url": "https://www.een.com/",
-   "date": "2026-10-21"
-  }
- ],
+ "email_hook": "For the industrial switches and media converters sold under the digicomm label for OT networks, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed, gigabit MC; −40~75 °C, redundant power, CE/RoHS) from small lots in your housing — which model do your utility customers reorder most?",
  "mail_review": {
   "binding": {
-   "level": "未触达（A/S 邮箱 22 封 2025→2026，无记录打开，0 回；收件 gfloros@een.com, jaime@alludolearning.com；主题多为「Managed Optical Bypass Switch、Marvell Industrial Alert System」；Elsa 箱：`to:een.com OR to:alludolearning.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 22 / 来 0）（第 74 批(h)））",
-   "type": "云 VMS 厂商（自有标商用 PoE 周边，OEM 采购）",
+   "level": "未触达（A/S 邮箱 23 封 2024→2026，无记录打开，0 回；收件 info@digicomm.de；主题多为「Marvell Industrial Alert System、10G Enterprise SFP Switch」；Elsa 箱：`to:.de` 穷举 29 条（2026-10-25，锚批 Bcc 头已读）未见 digicomm.de → Elsa 箱从未发过本户，往来只在 S/A 箱（去 23 / 来 0）（第 74 批(f)））",
+   "type": "关键基础设施通信方案商（德国，自有标工业 FS，现含 ONV）",
    "sieve": "1（只收到群发）",
-   "stop": "22 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "stop": "只打通用邮箱，无记录打开",
    "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
-   "lane": "US 主攻（四主）",
+   "lane": "DE 主攻（四主）",
    "cadence": "一封",
-   "evidence": "gmail_digest：out 22；用户表：「自己的logo 商业FS CCTV 一些周边产品」；研究档 risks：体量较大（全球云 VMS 厂商）：交换机为周边品类，供应链既定"
+   "evidence": "gmail_digest：out 23；用户表：「工业FS MC SFP 自己的logo 有ONV的」；研究档 risks：守界备注：客户为关键基础设施（能源/公用事业等）——只供民用通用工业交换机/MC，不涉报警/公共安全专用系统"
   },
-  "situation": "美国 Eagle Eye Networks（AI 云视频监控 VMS 厂商，24/7 支持；自有标交换机 SW05M / SW26M；表内「自己的 logo 商业 FS；CCTV 一些周边产品」「可以尝试多跟进一下」；KP Jaime Becker（Director of Partner，jaime@alludolearning.com 关联域）、Steve Roskowski（CTO））；群发 10 次无回复。",
-  "need": "自有 SW05M（5 口）/ SW26M（24 PoE + 2）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）/ 24 口 STC-424DGGPM-280W（$145.7）贴 Eagle Eye 标；5 口位 HRUI STC-114GP",
-  "breakpoint": "体量较大（全球云 VMS 厂商）：交换机为周边品类，供应链既定",
+  "situation": "德国 digicomm（40 年关键基础设施安全数据通信：光纤/铜缆/无线网络、SHDSL（SHDTU/SHRM）、报警方案（AddSecure 工作坊）、软件/安全，OT 应用；表内「工业 FS MC SFP 自己的 logo，有 ONV 的」「可以着重跟一下」）；群发 15 次无回复。",
+  "need": "自有 logo 工业 FS（现 ONV 深圳）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）贴 digicomm 标；MC 位 STI-110GE（$24.3）；SFP Saga 不供（Q-32）",
+  "breakpoint": "守界备注：客户为关键基础设施（能源/公用事业等）——只供民用通用工业交换机/MC，不涉报警/公共安全专用系统",
   "saga_now": {
-   "p1": "STC-28DGGPM",
+   "p1": "STI-288GPM",
    "tier": 30,
-   "price": "换人再触锚价 STC-28DGGPM $87.4 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-08-05 $300（48 Port PoE Managed Switch）、2025-09-29 $280（10G Enterprise SFP Switch）",
-   "why": "自有 SW05M（5 口）/ SW26M（24 PoE + 2）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）/ 24 口 STC-424DGGPM-280W（$145.7）贴 Eagle Eye 标；5 口位 HRUI STC-114GP",
+   "price": "换人再触锚价 STI-288GPM $85.5 EXW（主表档位（PDF 上限 $88；SA-016 2025-07 实报 $72 为分销量价）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-13 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-06-24 $65（10G Media Converter）、2025-10-17 $280（10G Enterprise SFP Switch）",
+   "why": "自有 logo 工业 FS（现 ONV 深圳）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）贴 digicomm 标；MC 位 STI-110GE（$24.3）；SFP Saga 不供（Q-32）",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
    "when": "2027-Q1（换人后）",
    "channel": "A 邮箱 → 具名 KP",
-   "action": "换收件人再发一封（第 75 批(t) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用；具名 KP 见 channel））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
-   "one_question": "Jaime, for the Eagle Eye-branded PoE switches (SW05M / SW26M) that ship with your Bridges and cameras, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE + 4 SFP) from small lots in your packaging, FCC/CE/RoHS — which size do your partners order most? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity)."
+   "action": "换收件人再发一封（第 75 批(z) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
+   "one_question": "For the industrial switches and media converters sold under the digicomm label for OT networks, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed, gigabit MC; −40~75 °C, redundant power, CE/RoHS) from small lots in your housing — which model do your utility customers reorder most? Reference: STI-288GPM at $85.5 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
    {
-    "date": "2026-09-10",
+    "date": "2026-09-23",
     "dir": "去",
     "who": "A/S 群发",
-    "quote": "Managed Optical Bypass Switch、Marvell Industrial Alert System",
-    "why": "22 封 / 0 次打开 / 0 回｜首封 2025-01-17 → 末封 2026-09-10（22 去 / 0 来）",
+    "quote": "Marvell Industrial Alert System、10G Enterprise SFP Switch",
+    "why": "23 封 / 0 次打开 / 0 回｜首封 2024-06-24 → 末封 2026-09-23（23 去 / 0 来）",
     "k": "gmail_digest"
    },
    {
     "date": "2026-10-21",
     "dir": "用户表",
     "who": "Simon",
-    "quote": "自己的logo 商业FS CCTV 一些周边产品",
+    "quote": "工业FS MC SFP 自己的logo 有ONV的",
     "why": "表内备注",
     "k": "用户表"
    },
    {
-    "date": "2026-09-10",
+    "date": "2026-09-23",
     "dir": "去",
     "who": "A 箱（Alan）",
     "quote": "16 Port Industrial PoE Switch",
-    "why": "本日去信真实主题（邮箱索引 71c1d61e37b692e3；信稿开头句引用此封；此前稿内写的「Managed Optical Bypass Switch」是线程列表首题，不是本封）",
-    "k": "71c1d61e37b692e3"
+    "why": "本日去信真实主题（邮箱索引 96150753cb14ab51；信稿开头句引用此封；此前稿内写的「Marvell Industrial Alert System」是线程列表首题，不是本封）",
+    "k": "96150753cb14ab51"
    }
   ],
   "proof_gaps": [],
   "draft_en": {
-   "subject": "A second ODM source for the SW05M / SW26M switches that ship with your Bridges",
-   "body": "Hi Jaime,\n\nOver the past months you had a few product mails from us - most recently \"16 Port Industrial PoE Switch\" on 10 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the Eagle Eye-branded PoE switches (SW05M / SW26M) that ship with your Bridges and cameras, we can be a second ODM source in your packaging from small lots, FCC/CE/RoHS: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based - model STC-28DGGPM - $87.4 USD EXW with your logo (MOQ 1, 15-day validity); 24 x Gigabit PoE+ (280 W) + 4 x SFP, L2+ managed - STC-424DGGPM-280W - $145.7. Web GUI carries your logo; colour box from 200 sets.\n\nOne question: which size do your partners order most with the Bridges - the small one or the 24-port?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+   "subject": "Industrial switches and converters under the digicomm label for OT networks - a second ODM source",
+   "body": "Hello digicomm team,\n\nOver the past months you had a few product mails from us - most recently \"16 Port Industrial PoE Switch\" on 23 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the industrial switches and media converters sold under the digicomm label for OT networks (ONV-built today), a second ODM source in your housing from small lots, -40 to 75 C, redundant DC input, CE/RoHS: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, L2 managed, Marvell-based - model STI-288GPM - $85.5 USD EXW (MOQ 1, 15-day validity); L2+ with ring redundancy - STI-288DGGPM - $137.5; Gigabit media converter, 1 x RJ45 + 1 x SFP - STI-110GE - $26.5. SFPs stay with your current source.\n\nOne question: which model do your utility customers reorder most - that is the one worth a side-by-side with the ONV unit?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
  }

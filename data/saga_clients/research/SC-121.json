@@ -1,0 +1,73 @@
+{
+ "code": "SC-121",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（alfafonet.com，快照 2026-10-21）",
+ "summary": "土耳其 Alfafonet（「Complete Connectivity Solutions」光纤连接方案商：光缆 OS1/OS2、FTTH、电信无源产品；表内「无源设备」）；表内 2 次跟进无回复。",
+ "type": "光纤无源产品商（品类不符）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Alfafonet Complete Connectivity Solutions；品类词 电信 / FTTH / ISP 设备 / 布线 / 线缆 / 光纤 / 媒体转换",
+   "quote": "Alfafonet Complete Connectivity Solutions",
+   "url": "https://alfafonet.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "无缘设备",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Alfafonet 定位",
+   "quote": "Alfafonet Complete Connectivity Solutions ; OS1-OS2",
+   "url": "https://alfafonet.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "无源设备",
+   "quote": "无缘设备",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "品类不符（无源光纤产品）；c_sub=品类不符（无源）",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "土耳其",
+  "other": "官网 alfafonet.com，语言 ?，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "光纤连接 / 无源产品（土耳其）"
+ ],
+ "channels": {
+  "role": "光纤无源产品商（品类不符）",
+  "region": "土耳其",
+  "contact": "sales@alfafonet.com"
+ },
+ "signals": [
+  "官网：Alfafonet Complete Connectivity Solutions；kw fiber 44 / ftth 7 / telecom 11；站内 OS1-OS2",
+  "表内：无源设备"
+ ],
+ "risks": [
+  "品类不符：无源光纤连接产品（Saga 不做）；2 次无回复"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 20,
+  "why": "主营无源光纤连接产品（Saga 不做无源），表内标「无源设备」→ 改 C（品类不符）"
+ },
+ "email_hook": "（不发送：无源品类）"
+}

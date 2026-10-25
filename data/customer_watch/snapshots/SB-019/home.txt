@@ -1,0 +1,133 @@
+# SB-019 aetektec.com · home · https://www.aetektec.com/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+AETEK
+linkedin
+Youtube
+Search
+0
+Inquiry
+About
+News
+Products
+New Product
+PoE Switch
+EPoX Series
+PoE Extender
+PoE Injector
+Media Converter
+PoE Surge Protector
+PoE Splitter
+Backup PoE Cabinet
+Camera Housing
+Avigilon Solutions
+Axis Solutions
+Hanwha Solutions
+Accessory
+EoS Product
+Solutions
+Mining
+Video Surveillance
+Access Control
+90W bt PoE
+Outdoor Solution
+Integration with VMS
+NTS Server
+Downloads
+Contact us
+×
+Inquiry
+2026/10/25
+Name
+Phone number
+Email
+Company
+Position
+Product List
+2026
+Jul
+13
+Looking Forward to Meeting You at Global Security Exchange (GSX) 2026! (9/14 – 9/16, at NEW ORLEANS, LOUISIANA, USA) Booth #2257
+MORE
+2026
+Jul
+12
+Looking Forward to Meeting You at SECURITY ESSEN 2026! (9/22 – 9/25, at FAIR GROUNDS, ESSEN, GERMANY) Booth #2B16&2B18
+MORE
+2023
+Dec
+01
+AETEK NDAA & TAA COMPLIANT PRODUCTS
+MORE
+Patent-awarded Ceiling PoE Solution
+AETEK's patented "Ceiling PoE Switches" use a unique latch-loaded bolt to auto-fasten the switch onto ceiling boards once the bolt is tightened, and a snap-on cover offers the switch a sleek good look suitable for various business floors, including retail stores, offices, hospitality venues, and more.
+The ceiling PoE solution is provided with rich options, including managed and unmanaged types and models with daisy-chain support. The managed type supports L2 PRO management, allowing for easy monitoring of system status, including NTS, floor plan, cable diagnostics, and a comprehensive device list, and we offer options with DC 12V and DC 24V outputs to efficiently power non-PoE devices. Each model includes 1 x PoE bt PD input port and 5 x PoE PSE outport ports, with rich status LEDs to allow a quick overview of power and data transmission statuses.
+With these ceiling PoE switches, you can leave extra power adapters in constrained space and greatly streamline your installation. No more complex cable pulling. You may say goodbye to expensive technician bills.
+AETEK's L2 PRO PoE Switches integrated & managed by Milestone XProtect
+The AETEK MIPI utility, a free plug-in software for the Milestone Xprotect Management client and Smart client.
+It allows AETEK L2 PRO PoE switch series and other AETEK IP PoE devices to be managed in Milestone XProtect Video Management System (VMS). Besides video endpoints, AETEK L2 PRO PoE switches will also be shown on device list after the AETEK MIPI utility is installed. This function deepens the network surveillance visibility on Management client or Smart client of Milestone XProtect.
+MORE
+AETEK InterLink Utility, an exceptional plug-in software for Avigilon Unity Video Enterprise
+This integration enables Avigilon Unity Video users to monitor and manage AETEK L2 PRO switches through AETEK NTS (Network Topology System) and undertake a quick diagnosis of network health status.
+AETEK NTS as a GUI interface can generate graphical overview of network topology automatically, displaying the operating status of all IP based devices at a glance.
+With AETEK InterLink, alarms created in Avigilon Unity video will be mapped to specific events, observed and monitored. The integration offers advanced alarm monitoring and video surveillance application, brings you enhanced situational awareness, and the reactive measures can be quickly set in motion.
+MORE
+H60-044-90-250
+The H60 series of IP67/IK10 Outdoor L2 PRO Managed PoE Switches are designed with 6KV Ethernet port surge protection, 4KV surge protection in DC Input. The harden-graded standard allows it to operate between -40° C and 65° C under harsh weather conditions. It enables outdoor connections of PoE PDs to the network such as outdoor IP cameras, wireless APs, and other outdoor industrial applications.
+The H60 series provides multi-port Gigabit PoE (10M/100M/1G) delivering data and power to PoE PDs over a single network cable and additional SFP transceiver slots for flexible uplink.
+The flexible PoE mode configuration on UI can support High PoE (PoH) and IEEE 802.3bt PoE standards.
+The H60 series has three sub models classified as power source equipment (PSE) and provide PoE budget up to 30W or 90W per port. Besides general functions of L2 plus & basic L3 switch such as QoS, security, spanning tree, cable length measurement, and SNMP v1/v2c/v3, a dedicated web graphic user interface of IP surveillance is easy to configure and manage ONVIF cameras. It automatically generates camera topology maps, cable diagnostic, and PoE management.
+MORE
+2026 © AETEK Inc. All Rights Reserved
+No. 3, Ln. 106, Wugong 3rd Rd., Wugu Dist., New Taipei City 248 , Taiwan
+sales@aetektec.com
++886282452822#5889
+Privacy Policy
+|
+Terms of Use
+About
+Privacy Policy
+Terms of Use
+News
+Products
+New Product
+PoE Switch
+EPoX Series
+PoE Extender
+PoE Injector
+Media Converter
+PoE Surge Protector
+PoE Splitter
+Backup PoE Cabinet
+Camera Housing
+Avigilon Solutions
+Axis Solutions
+Hanwha Solutions
+Accessory
+EoS Product
+Solutions
+Mining
+Video Surveillance
+Access Control
+90W bt PoE
+Outdoor Solution
+Integration with VMS
+NTS Server
+Downloads
+New Product
+PoE Switch
+EPoX Series
+PoE Extender
+PoE Injector
+Media Converter
+PoE Surge Protector
+PoE Splitter
+Backup PoE Cabinet
+Camera Housing
+Avigilon Solutions
+Axis Solutions
+Hanwha Solutions
+Accessory
+EoS Product
+Contact us
+2026 © AETEK Inc. All Rights Reserved
+Attention: AETEK INC. uses cookies (own and third parties) on this website. For more information on cookies, see our cookies and privacy policy . If you continue using our website, you agree to our use of cookies.
+I understand

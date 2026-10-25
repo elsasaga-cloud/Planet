@@ -11,7 +11,7 @@
  "text": "Hello Team,\n\nI would like to request a quotation for the below mentioned Items,\n\nINTERFACE SYN 58R088-119 Each 1\nAC/DC CONVERTER 20502561-1 Each 8\nTRACKBALL 70.1641.009-00 Each 1\nDATA PROCESSOR (S3) 70.1650.008-00 Each 4\nDATASYSTEM PRINTER CP 8240N COBRA Each 1\nREG POWER SUPPLY 58R088-114 Each 2\nSCU ASSY 20510803-2 Each 2\n+/-12V+5V POWER SUP 20510803-4 Each 1\nSTOW/BRAKE CNTRLR 20510803-7 Each 1\nAOS COMPUTER 83258464 Each 2\nANF UNIT 64418563 Each 3\n\nRegards,\nEng. Mohamed Ismail\nProcurement Department",
  "char_count": "2918",
  "attachments": "[]",
- "note": "SB-580（C）：回 Elsa 10-02「10G Enterprise SFP Switch」群发，要的是航空地面设备备件（trackball / AOS computer / SCU assy），与 Saga 无关；Elsa 未回",
+ "note": "SC-097（C）：回 Elsa 10-02「10G Enterprise SFP Switch」群发，要的是航空地面设备备件（trackball / AOS computer / SCU assy），与 Saga 无关；Elsa 未回",
  "text_source": "text/plain",
  "fetched": "2026-10-24T16:15Z",
  "method": "Arena Gmail connector get_message_text(include_quoted=false)"

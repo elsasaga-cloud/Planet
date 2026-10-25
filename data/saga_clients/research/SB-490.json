@@ -1,135 +1,135 @@
 {
  "code": "SB-490",
- "name_official": "Bogdan（b.medvedev11@mail.ru；电话 +996 = 吉尔吉斯斯坦；MIPS 展会接触；用户表记为沙特）",
+ "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "无域名",
- "summary": "用户表（MIPS 莫斯科展）：Bogdan（b.medvedev11@mail.ru；+996 555 772 975，已加 WA）——拿了彩页；问过他处不处理工业 FS、SFP；23 次跟进无回复。电话国码 +996 为吉尔吉斯斯坦（用户表国家「沙特阿拉伯」疑为表格归档误记）→ 国家待核（KG）。无公司主体 → 仅表内信息。",
- "type": "",
+ "website_status": "在线（radioteknoloji.com.tr，快照 2026-10-21）",
+ "summary": "土耳其 Radio Technology（2015 年起通信、国防、能源、智慧城市领域的无线电系统与数据传输基础设施：站内 Quanta Q5/Q6、WB-3P PTP 无线网桥、E6-ST 系列；KP Salih Yildirim（Project Manager，salih.yildirim@）、Abdurrahman Pehlivanoglu（General Manager））；表内 1 次跟进无回复。",
+ "type": "无线通信方案商（土耳其，含国防领域 → 仅民用口径）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Quanta",
+  "Axis"
+ ],
  "evidence": [
   {
-   "kind": "用户表",
-   "claim": "MIPS；拿彩页；问工业 FS/SFP；WA 已加；+996",
-   "quote": "拿了彩页 问过他处不处理工业FS SFP / Bogdan / 996 555 772975 已加 / MIPS",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "kind": "官网快照",
+   "claim": "官网标题：Radio Technology | Future-Shaping Communication Technologies；品类词 工业自动化 / OT 网络 / 无线 / WiFi / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "Expert solutions in communication, defense, energy and smart city sectors. Radio systems and data transmission infrastructure since 2015.",
+   "url": "https://www.radioteknoloji.com.tr/en/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Radio Technology 定位",
+   "quote": "Radio Technology | Future-Shaping Communication Technologies ; Expert solutions in communication, defense, energy and smart city sectors. Radio systems and data transmission infrastructure since 2015.",
+   "url": "https://www.radioteknoloji.com.tr/en/",
    "date": "2026-10-21"
   }
  ],
  "kp": [
   {
-   "name": "Bogdan（Medvedev，按邮箱推断）",
-   "role": "（MIPS 名片）",
-   "email": "b.medvedev11@mail.ru（用户表）",
-   "phone": "+996 555 772 975（用户表）",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
+   "name": "Salih Yildirim",
+   "title": "Project Manager",
+   "email": "salih.yildirim@radioteknoloji.com.tr",
+   "phone": "",
+   "source": "用户表"
+  },
+  {
+   "name": "Abdurrahman Pehlivanoglu",
+   "title": "General Manager",
+   "email": "",
+   "phone": "",
+   "source": "用户表"
   }
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "无域名 · 仅表内信息（国家待核 KG）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "legal_name": "（公司待核）",
-  "hq": "Kyrgyzstan（按 +996 推断；待核）",
-  "size": "待核",
-  "other": "mail.ru；WA 已加；23 次推送无回复"
+  "hq": "土耳其",
+  "other": "官网 radioteknoloji.com.tr，语言 tr，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "（待核）网络/安防贸易"
+  "无线电系统 / 数据传输基础设施方案"
  ],
  "channels": {
-  "邮箱": "b.medvedev11@mail.ru（用户表）",
-  "WhatsApp": "+996 555 772 975（用户表，已加）"
+  "role": "无线通信方案商（土耳其，含国防领域 → 仅民用口径）",
+  "region": "土耳其",
+  "contact": "info@radioteknoloji.com.tr、salih.yildirim@radioteknoloji.com.tr"
  },
  "signals": [
-  "被问「处不处理工业 FS、SFP」→ 需求方向明确；用俄语短消息重启"
+  "官网：Expert solutions in communication, defense, energy and smart city sectors. Radio systems and data transmission infrastructure since 2015；页面 /products/wb-3p-ptp6/、/products/quanta-q5-23/；kw wireless 62",
+  "KP：Salih Yildirim / Project Manager；Abdurrahman Pehlivanoglu / General Manager（表内）"
  ],
  "risks": [
-  "无公司信息；23 次无回复；中亚非主攻区"
+  "守界备注：业务含国防领域——只供民用能源/智慧城市站点通用交换机，不涉国防项目",
+  "土耳其：汇率敏感；1 次跟进无回复 → 改向 Project Manager 具名首触"
  ],
  "saga_fit": {
-  "p1": "STI-288GP",
+  "p1": "STI-288GPM",
   "tier": 25,
-  "why": "默认 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP，$59.8）/ 非 PoE STI-280GE（$48.6）对应「工业 FS」；SFP 待 Q-32"
+  "why": "无线回传站点配套工业 PoE（给网桥/AP 供电）→ 工业 8 PoE + 2 SFP 管理 STI-288GPM（$82.2 @25%）/ 4 PoE STI-154GP（$39.2）；国防项目不涉（守界）"
  },
- "email_hook": "Богдан, вы спрашивали на MIPS про промышленные оптические коммутаторы и SFP: DIN-rail 8 GbE + 2 SFP без PoE — 48,6 USD EXW, с PoE+ — 59,8 USD, −40/+75 °C; SFP подберём по дальности. Для какого объекта и в каком количестве?",
+ "email_hook": "Salih, for the PoE switches at your PTP/PTMP radio sites and smart-city poles, we supply DIN-rail 4-PoE + 1 GE and 8-PoE + 2 SFP units (−40~75 °C, 90 W PoE++ option, CE/RoHS, neutral packing; the 8-PoE managed version on a Marvell platform) from small lots, EXW USD — which port count do your energy and smart-city sites use most?",
  "mail_review": {
   "binding": {
-   "level": "未触达（A/S 邮箱 4 封 2024→2026，无记录打开，0 回；收件 b.medvedev11@mail.ru；主题多为「Firmware 7.5 L2+ Feature Update、24 Port PoE Managed Switch」；Elsa 箱：`to:b.medvedev11@mail.ru` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 4 / 来 0）（第 74 批(n)））",
-   "type": "—",
+   "level": "未触达（A 邮箱 11 封 2025→2026，无记录打开，0 回；收件 abdurrahman.pehlivanoglu@radioteknoloji.com.tr, info@radioteknoloji.com.tr；主题多为「10G Enterprise SFP Switch、Booster PoE Switch」；Elsa 箱：`to:radioteknoloji.com.tr` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 11 / 来 0）（第 74 批(i)））",
+   "type": "无线通信方案商（土耳其，含国防领域 → 仅民用口径）",
    "sieve": "1（只收到群发）",
-   "stop": "4 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "stop": "11 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
    "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "沙特阿拉伯 非主攻",
+   "lane": "TR 主攻（四主）",
    "cadence": "季度",
-   "evidence": "gmail_digest：out 4；用户表：「拿了彩页 问过他处不处理工业FS SFP / Bogdan / 996 555 772975 已加 / MIPS」；研究档 risks：无公司信息；23 次无回复；中亚非主攻区"
+   "evidence": "gmail_digest：out 11；研究档 risks：守界备注：业务含国防领域——只供民用能源/智慧城市站点通用交换机，不涉国防项目"
   },
-  "situation": "用户表（MIPS 莫斯科展）：Bogdan（b.medvedev11@mail.ru；+996 555 772 975，已加 WA）——拿了彩页；问过他处不处理工业 FS、SFP；23 次跟进无回复。电话国码 +996 为吉尔吉斯斯坦（用户表国家「沙特阿拉伯」疑为表格归档误记）→ 国家待核（KG）。无公司主体 → 仅表内信息。",
-  "need": "默认 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP，$59.8）/ 非 PoE STI-280GE（$48.6）对应「工业 FS」；SFP 待 Q-32",
-  "breakpoint": "无公司信息；23 次无回复；中亚非主攻区",
+  "situation": "土耳其 Radio Technology（2015 年起通信、国防、能源、智慧城市领域的无线电系统与数据传输基础设施：站内 Quanta Q5/Q6、WB-3P PTP 无线网桥、E6-ST 系列；KP Salih Yildirim（Project Manager，salih.yildirim@）、Abdurrahman Pehlivanoglu（General Manager））；表内 1 次跟进无回复。",
+  "need": "无线回传站点配套工业 PoE（给网桥/AP 供电）→ 工业 8 PoE + 2 SFP 管理 STI-288GPM（$82.2 @25%）/ 4 PoE STI-154GP（$39.2）；国防项目不涉（守界）",
+  "breakpoint": "守界备注：业务含国防领域——只供民用能源/智慧城市站点通用交换机，不涉国防项目",
   "saga_now": {
-   "p1": "STI-288GP",
+   "p1": "STI-288GPM",
    "tier": 25,
-   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-21 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170",
-   "why": "默认 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP，$59.8）/ 非 PoE STI-280GE（$48.6）对应「工业 FS」；SFP 待 Q-32",
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-30 $280（10G Enterprise SFP Switch）",
+   "why": "无线回传站点配套工业 PoE（给网桥/AP 供电）→ 工业 8 PoE + 2 SFP 管理 STI-288GPM（$82.2 @25%）/ 4 PoE STI-154GP（$39.2）；国防项目不涉（守界）",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
    "when": "群发节奏",
    "channel": "A 邮箱",
-   "action": "观察打开",
-   "one_question": "Богдан, вы спрашивали на MIPS про промышленные оптические коммутаторы и SFP: DIN-rail 8 GbE + 2 SFP без PoE — 48,6 USD EXW, с PoE+ — 59,8 USD, −40/+75 °C; SFP подберём по дальности. Для какого объекта и в каком количестве?"
+   "action": "观察打开（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
+   "one_question": "Salih, for the PoE switches at your PTP/PTMP radio sites and smart-city poles, we supply DIN-rail 4-PoE + 1 GE and 8-PoE + 2 SFP units (−40~75 °C, 90 W PoE++ option, CE/RoHS, neutral packing; the 8-PoE managed version on a Marvell platform) from small lots, EXW USD — which port count do your energy and smart-city sites use most?"
   },
   "facts": [
    {
-    "date": "2024-08-17",
-    "dir": "来",
-    "who": "用户表（Simon 跟进记录；渠道 Whatsapp/Email）",
-    "quote": "用户表跟进：推「4 8口工业PoE」→ 对方「Email: 工业154」",
-    "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
-    "k": "Clients/A/DONE/阿联酋 沙特阿拉伯  2.3.xlsx no.35 2024.8.17"
-   },
-   {
-    "date": "2025-07-22",
-    "dir": "来",
-    "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
-    "quote": "用户表跟进：推「24 48口商业图」→ 对方「useful」",
-    "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
-    "k": "Clients/A/DONE/阿联酋 沙特阿拉伯  2.3.xlsx no.35 722"
-   },
-   {
-    "date": "2025-09-24",
-    "dir": "来",
-    "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
-    "quote": "用户表跟进：推「dac」→ 对方「interesting」",
-    "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
-    "k": "Clients/A/DONE/阿联酋 沙特阿拉伯  2.3.xlsx no.35 924"
-   },
-   {
-    "date": "2026-10-01",
+    "date": "2025-10-30",
     "dir": "去",
-    "who": "A/S 群发",
-    "quote": "Firmware 7.5 L2+ Feature Update、24 Port PoE Managed Switch",
-    "why": "4 封 / 0 次打开 / 0 回｜首封 2024-08-17 → 末封 2026-10-01（4 去 / 0 来）",
+    "who": "A 箱（Alan）",
+    "quote": "10G Enterprise SFP Switch",
+    "why": "首封去信（邮箱索引；去信共 11 封）",
+    "k": "e63f7c6afb1eca1b"
+   },
+   {
+    "date": "2026-10-06",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "10G Enterprise SFP Switch、Booster PoE Switch",
+    "why": "11 封 / 0 次打开 / 0 回｜首封 2025-10-30 → 末封 2026-10-06（11 去 / 0 来）",
     "k": "gmail_digest"
    },
    {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "拿了彩页 问过他处不处理工业FS SFP / Bogdan / 996 555 772975 已加 / MIPS",
-    "why": "表内备注",
-    "k": "用户表"
+    "date": "2026-10-06",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "Managed PoE Switches",
+    "why": "最近一封去信（邮箱索引；去信共 11 封）",
+    "k": "493d8da7280e84d8"
    }
   ],
-  "proof_gaps": [
-   "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
-  ],
+  "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-24"
  }

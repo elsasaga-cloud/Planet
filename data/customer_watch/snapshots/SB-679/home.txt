@@ -1,249 +1,419 @@
-# SB-679 apolloinfoways.in · home · https://www.mywatchdog.in/ · fetched 2026-10-25T07:41:18Z · HTTP 200
-WatchDog | Enterprise Networking, Data Center, Cloud & Security
+# SB-679 saratota.com · home · https://www.saratota.com/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+SARATOTA LTD
+Menu
+Your Cart
+Facebook
+Twitter
+Need Assistance? Call us on: +44 (0)1707 331447
+All
+10G Networking
+Accessories
+Broadband Communication
+CCTV
+Data Destruction and I.T Recycling
+Ethernet / LAN Extenders
+Fibre Media Converters
+Fibre Networking
+Fibre Serial Datacom (RS-232/422/530/188C)
+Industrial Ethernet
+IP
+LAN Switches
+Network Peripheral
+Power over Ethernet (PoE)
+Power Supplies
+Secure Remote Access
+Serial Data Connectivity RS232 RS485
+Solar and Wind Power Generation
+Special Offers
+Tablet Adapters
+Wireless LAN
+Compare Product Comparison 0
+Account Login / Register
+Login
+Register
+0 item(s) - £0.00
+0
+Your shopping cart is empty!
+Menu
 Home
-Products
-Switch
-Data
-Center Switches Enterprise Network
-Switches Industrial Switches
-Router
-Core
-Router Aggregation
-Router Access Router
-Wireless
-Outdoor
-Access Point Indoor Access Point Wireless Controller
-Server
-Edge Servers
-Rack Servers
-Storage Servers AI-Ready Servers
-Security
-Management
-SDN Controller Network Management System SD-WAN Network Access Control
-SFP Optical
-Transceivers
-SFP
-/ SFP+ Modules QSFP /
-QSFP28 DAC & AOC
-Cables
-Firewall
-Next-Gen Firewall (NGFW) Network Detection & Response (NDR) Managed Detection & Response
-(MDR) Extended Detection
-& Response (XDR)
-Solutions
-AI Integrated Cloud
-Routing
-Cloud
-Wireless (5G / 6G)
-Data Centers
-SD WAN
-Switching
-Security Solutions (SOC - EDR |
-XDR)
-Industries
-Defence
-Manufacturing
-Education
-Banking & Finance
-Energy
-Federal Government
-Transportation
-Enterprise
-Company
 About Us
-Partner
-Compliance Policy
-Career
-Technical Support
-Product Inquiry
-Policy
-Resources
-Case Studies
-Events
-Learning Material
-White Paper
-Blogs
-Product Documentation
-Demo
-Firmware Download
+Products
+Industrial Ethernet
+Industrial Ethernet / LAN Extenders
+Industrial Fibre Media Converters
+Industrial Modbus Gateway
+Industrial PoE
+View More
+Power over Ethernet (PoE)
+Ceiling PoE Switch
+PoE Switches
+Power and Ethernet over Coax (EPoC)
+PoE Injectors / Injector Hubs
+View More
+Fibre Media Converters
+PoE Fibre Media Converters
+10/100mbps Unmanaged
+10/100/1000mbps Unmanaged
+Chassis / Racks
+View More
+Ethernet / LAN Extenders
+DSL Modems
+DSLAM
+Ethernet over Coax
+High Speed Ethernet Extenders
+View More
+LAN Switches
+Desktop Ethernet Switches
+Flat Wall-Mount Switches
+Layer 2/2+ Managed Ethernet Switch
+Unmanaged Switch
+Wireless LAN
+Wi-Fi 7
+Outdoor Wireless
+Industrial Wireless
+Wireless Router
+Wireless Antenna & Cable Accessories
+View More
+Power Supplies
+24v Industrial DIN Rail Power Supplies
+48v Industrial DIN Rail Power Supplies
+Fibre Networking
+SFP Modules
+Waveguide Filters
+10G Networking
+10G Fibre Media Converters
+10G PCI Adapter Cards
+Tablet Adapters
+eSTS Tablet Adapters
+Samsung Phone Devices
+Samsung Tablet Devices
+STS Tablet Adaptors
+Serial Data Connectivity RS232 RS485
+Serial Device Servers
+Serial PCIe cards
+IP
+Internet Video Server
+IP Surveillance
+IP Telephony
+Solar and Wind Power Generation
+Solar Controllers
+Network Peripheral
+Digital Signage
+Surge Protectors
+CCTV
+IP Cameras
+Secure Remote Access
+Serial Device Servers
+Solutions
 News
-E-Books
-Contact Us
-About us
-Contact Us
-Powering Global Networks with Proven Performance
-1,000+
-Enterprise Customers
-5+
-Countries Served
-50+
-Network Endpoints Protected
-99.99%
-Uptime SLA
-Featured Products
-Advanced Technology. Built for Modern Infrastructure.
-Explore high-performance networking, security, cloud, and data center products designed to deliver reliability, scalability, and enterprise-grade performance for every layer of your digital infrastructure.
-800G
-Silicon Photonics Data Center Switch
-Ultra-fast, energy-efficient data center switching built for AI-scale performance, low latency, and next-generation enterprise networking.
-Explore
-Wi-Fi 7.0
-Enterprise-Grade
-Blazing-fast wireless connectivity built for high-density enterprise networks, seamless performance, and next-generation digital infrastructure.
-Explore
-WD16000-F
-High-End Routers
-The WD16000-F is a high-end router series independently developed by Apollo Infoways Pvt Ltd. It utilizes distributed hardware forwarding, and non-blocking switching technology.
-Explore
-Make in India - Sovereign Networking
-Where We Outperform.
-Where Others Compromise.
-Purpose-built networking platforms for India's most critical infrastructure - engineered to deliver at scale, in the field, and under pressure.
-Railway-Grade
-Networking the rails of a nation
-Mission-critical networking for stations, signalling, and onboard systems. Engineered to railway environmental and EMI standards — proven across pan-India deployments.
-Learn More
-Power over Ethernet
-One cable. Power. Data. Done.
-PoE / PoE+ / PoE++ access switching that runs IP cameras, access points, IP phones, and IoT — without a separate power infrastructure.
-Learn More
-Industrial
-Built for −40°C to 85°C
-Hardened, fanless industrial switches for manufacturing, energy, substations, and outdoor deployments. IP40, wide-temperature, redundant power.
-Learn More
-AI Spine upto 800G
-Fabric for the AI era
-Next-generation 800G data center spine. EVPN-VXLAN ready, RoCE optimised, engineered for AI/ML training workloads and hyperscale East-West traffic.
-Learn More
-The full networking stack.
-One unified platform.
-From data center fabric to wireless access, WatchDog delivers the complete networking spectrum — engineered to interoperate as one.
-View All Products
-Network Switches
-L2 / L3 switching from access to spine. 1G, 10G, 25G, 100G, 400G, 800G.
-Up to 800GbE
-Zero-touch provisioning
-Advanced L3 routing
-Explore
-Routers
-Carrier-grade routing platforms with deep packet inspection and intelligent traffic engineering.
-SD-WAN ready
-BGP / OSPF / IS-IS
-Hardware acceleration
-Explore
-Wireless Access Points
-Wi-Fi 6E and Wi-Fi 7 access points for high-density enterprise environments.
-Wi-Fi 6E / Wi-Fi 7
-Cloud-managed
-AI-driven optimization
-Explore
-Network Security
-Next-gen firewalls, IDS / IPS, and zero-trust network access for end-to-end threat protection.
-Zero-trust NGFW
-AI-powered IDS/IPS
-Unified threat management
-Explore
-Working With Great Brands
-Trusted across India's most critical sectors
-Solutions
-Solutions for every challenge.
-Built for every scale.
-Six purpose-built solution areas — covering everything from campus to cloud, edge to core, security to AI-driven operations.
-Enterprise Networking
-End-to-end campus, branch, and remote-workforce networking.
-Data Center
-Spine-leaf fabric, EVPN-VXLAN, 800G ready, RoCE optimised.
-Cloud Networking
-Hybrid and multi-cloud connectivity with unified policy.
-Network Security
-Zero-trust framework with AI-powered detection and response.
-AI & Automation
-AI-driven NetOps with predictive analytics and self-healing.
-IoT Networking
-Secure, scalable connectivity for billions of edge devices.
-Why Choose Watch Dog
-The trusted choice for
-India's digital backbone.
-A decade of engineering. A nation of deployments. Built on the belief that India deserves networking infrastructure designed, owned, and supported here.
-Innovation First
-Continuous R&D investment driving next-generation networking - from 800G AI spine switching to indigenous WDOS firmware.
-Proven Reliability
-99.99% uptime backed by enterprise SLAs and 24/7 support engineers, deployed across India's most critical infrastructure.
-Security Built-In
-Zero-trust architecture, MACsec encryption, and AI-driven threat detection at every layer — sovereign, auditable, secure.
-Indian Roots, Global Reach
-Engineered in Noida. Listed on GeM. Cleared for government, PSU, and defence procurement. Distributed across four continents.
-Client Review's
-Real results.
-Real organisations.
-Discover how India's leading enterprises and institutions are transforming their networks with WatchDog.
-Banking & Finance
-Global Financial Corp
-‹
-›
-Challenge
-Legacy network infrastructure unable to handle 10x transaction growth
-Solution
-Deployed WatchDog data center fabric with zero-trust security overlay
-Result
-99.999% uptime, 40% cost reduction, 10x throughput improvement
-"WatchDog transformed our entire network infrastructure in just 3 months."
-Ready to transform your network?
-Talk to our experts and discover the right solution for your business.
-Contact Sales
-Explore Products
-Latest from
-WatchDog
-Product launches, deployments, and company news.
-Product Launch
-March 2026
-WatchDog Launches 800G Data Center Switch Series
-Read More
-Recognition
-Jan 2026
-WatchDog Named Leader in Indian Enterprise Networking
-Read More
-Product Update
-February 2026
-AI-Driven Network Operations Platform — Generally Available
-Read More
-Company News
-June, 2026
-Apollo Infoways Expands With Bangalore Regional Office
-Read More
-Subscribe to Our Newsletter
-Subscribe to our newsletter and receive the latest product updates, security insights, and industry news directly in your inbox.
-Subscribe
-Securing and powering modern networks across the globe. Enterprise-grade
-solutions for the digital age.
-H-102, Sector-63, Noida, U.P. 201301
-Toll Free: 1800 309 9415
-info@mywatchdog.in
-Products
-Network Switches
-Routers
-Wireless
-Server
-Security Management
-SFP Optical Transceivers
-Firewalls
-Solutions
-Enterprise Networking
-Data Center Solutions
-Cloud Networking
-Network Security
-AI & Automation
-IoT Networking
-Company
-About Us
-Partner
-Careers
-Product Inquiry
-Technical Support
-Policy
-Compliance Policy
-© 2026 Apollo Infoways Private Limited. All rights reserved.
-Privacy Policy
-Terms of Service
-Cookie Policy
-Sitemap
+Contact
+20+ YEARS EXPERIENCE IN NETWORK AND TELECOMMUNICATION SOLUTIONS
+Planet Technology Corp
+Patton Electronics
+FlexDSL Telecommunications
+Inalp
+EtherWAN Systems Inc
+FiberPlex
+Aetek Inc.
+MSTronic Co Ltd
+Loop Telecommunication International Inc
+LAVA Computer MFG Inc
+IP Technology Labs
+Netsys
+INDUSTRIAL ETHERNET
+SOLUTIONS
+Hardware Designed and Built for the most Challenging
+Operating Environments and Applications
+More Info
+ETHERNET / LAN
+EXTENDERS
+Ethernet Beyond 100m Limitations
+G.SHDSL / VDSL2 / 2-Wire / Fibre / Power Line
+More Info
+POWER OVER
+ETHERNET (PoE)
+Adding Power to your Networks
+Switches / Injectors / Splitters / Boosters
+More Info
+FIBRE MEDIA
+CONVERTERS
+Ethernet over Fibre Networks
+Solutions for 10G / Gigabit / Industrial / PoE Applications
+More Info
+LAN SWITCHES
+Full range of Managed & Unmanaged Switches
+More Info
+FIBRE MEDIA CONVERTERS
+Wide range of media converters
+More Info
+NETWORK CONSULTANCY
+Find out more
+BESPOKE NETWORK SOLUTIONS
+Find out more
+ALTERNATIVE POWER SOLUTIONS
+Find out more
+FEATURED
+INDUSTRIAL ETHERNET
+POWER OVER ETHERNET
+MEDIA CONVERSION
+ETHERNET EXTENDERS
+WIRELESS LAN
+Quickview
+Brand: Inalp
+Model: SwarmGuard Business
+SwarmGuard Business Hardware VPN Solution
+SwarmGuard Business is a hardware-based VPN solution designed and developed by Swiss tech company INALP that enables you to access your company’..
+£199.00
+Add to Cart "> Add to Cart
+Get Quotes "> Get Quotes
+Add to Wish List
+Compare this Product
+Ask Question ">
+Ask Question
+Quickview
+Brand: EtherWAN Systems Inc
+Model: ED3601
+ED3601 Industrial Gigabit VDSL2 Ethernet Extender
+The EtherWAN ED3601 is an Industrial Gigabit VDSL2 Ethernet Extender designed to deliver high-speed connectivity over existing copper cabling. With ag..
+£225.00
+Add to Cart "> Add to Cart
+Get Quotes "> Get Quotes
+Add to Wish List
+Compare this Product
+Ask Question ">
+Ask Question
+Quickview
+Brand: Aetek Inc.
+Model: S69-220
+S69-220 Industrial Gigabit Dual Power PoE Splitter
+The AETEK S69-220 is an industrial dual power output PoE Splitter which supports 802.3af/at/bt PoE output standards. Powered by any Power Sourci..
+£110.25
+Add to Cart "> Add to Cart
+Get Quotes "> Get Quotes
+Add to Wish List
+Compare this Product
+Ask Question ">
+Ask Question
+Quickview
+Brand: Planet Technology Corp
+Model: WDAP-C5100BE
+WDAP-C5100BE Dual Band Wi-Fi 7 802.11be 5100Mbps Ceiling-mount Wireless Access Point
+Business-grade Wi-Fi 7 Ceiling-mount Wireless AP for Future-ready NetworksHigh‑speed, stable, and secure, the Planet WDAP‑C5100BE is the ideal solutio..
+£109.95
+Add to Cart "> Add to Cart
+Get Quotes "> Get Quotes
+Add to Wish List
+Compare this Product
+Ask Question ">
+Ask Question
+Quickview
+Brand: Planet Technology Corp
+Model: IPOE-175
+IPOE-175 Industrial IP67 1-Port 60W 802.3bt PoE++ Injector (-40~75 degrees C)
+The Planet IPOE-175 Industrial IP67-rated Single-port 802.3bt PoE ++ Injector provides a maximum of up to 60 watts PoE output, transmitting both the G..
+£128.85
+Add to Cart "> Add to Cart
+Get Quotes "> Get Quotes
+Add to Wish List
+Compare this Product
+Ask Question ">
+Ask Question
+Quickview
+Brand: Planet Technology Corp
+Model: IPOE-E302
+IPOE-E302 Industrial IP67 1-Port 802.3bt PoE++ to 2-Port 802.3at/bt PoE++ Extender
+The PLANET IPOE-E302 is an industrial IP67 Rated outdoor 1-port 802.3bt PoE++ to 2-port 802.3bt/at Gigabit PoE Extender is designed for point to multi..
+£110.00
+Add to Cart "> Add to Cart
+Get Quotes "> Get Quotes
+Add to Wish List
+Compare this Product
+Ask Question ">
+Ask Question
+Quickview
+Brand: Planet Technology Corp
+Model: IGS-624HPT
+IGS-624HPT - Industrial 4-Port 10/100/1000T 802.3at PoE+ w/ 2-Port 100/1000X SFP Ethernet Switch
+OverviewLong Distance High Power PoE and Gigabit Data Extension Solution The PLANET IGS-624HPT is an Industrial Gigabit 802.3at PoE+ Switch providing ..
+£276.00
+Add to Cart "> Add to Cart
+Get Quotes "> Get Quotes
+Add to Wish List
+Compare this Product
+Ask Question ">
+Ask Question
+Quickview
+Brand: Aetek Inc.
+Model: XE12-120-TX
+XE12-120-TX 2-Port EPoC Adapter / End-Point Receiver
+The Aetek XE12-120-RX is a 2-Port PoE EPoC (Ethernet & Power over Coax) Adapter / End-Point Receiver and is ideal for powering one remote POE..
+Get Quotes "> Get Quotes
+Add to Wish List
+Compare this Product
+Ask Question ">
+Ask Question
+Quickview
+Brand: Planet Technology Corp
+Model: IGTP-805AT
+IGTP-805AT - 1000Base-SX / LX to 10/100/1000Base-T 802.3at PoE Industrial Media Converter (mini-GBIC, SFP)
+OverviewPLANET IGTP-80xT Industrial Gigabit Media Converter series combines Ethernet media conversion (from 1000Base-X to 10/100/1000Base-T) with 802...
+£119.33
+Add to Cart "> Add to Cart
+Get Quotes "> Get Quotes
+Add to Wish List
+Compare this Product
+Ask Question ">
+Ask Question
+Quickview
+Brand: Planet Technology Corp
+Model: IPOE-470-12V
+IPOE-470-12V 4-Port Multi-Gigabit 802.3bt PoE++ Injector Hub (12 to 54VDC Input)
+Compact and Robust Industrial 802.3bt PoE++ Network SolutionThe Planet IPOE-470-12V 4-port industrial IEEE 802.3bt PoE++ injector hub series feat..
+£220.65
+Add to Cart "> Add to Cart
+Get Quotes "> Get Quotes
+Add to Wish List
+Compare this Product
+Ask Question ">
+Ask Question
+Quickview
+Brand: Planet Technology Corp
+Model: LRP-111U-KIT
+LRP-111U-KIT Industrial 1-Port 10/100TX 802.3bt PoE + 1-Port UTP Long Reach PoE Kit
+The Planet LRP-111U-KIT is a new industrial-grade Long Reach PoE solution, Single-port PoE over UTP Extender Kit featuring long range data and power t..
+Get Quotes "> Get Quotes
+Add to Wish List
+Compare this Product
+Ask Question ">
+Ask Question
+Quickview
+Brand: Planet Technology Corp
+Model: POE-173
+POE-173 - 60-Watt Ultra Power over Ethernet Injector
+OverviewPLANET POE-173 Ultra Power over Ethernet Injector provides a maximum of up to 60-watt power and high speed Ethernet data connection anywhere i..
+£56.75
+Add to Cart "> Add to Cart
+Get Quotes "> Get Quotes
+Add to Wish List
+Compare this Product
+Ask Question ">
+Ask Question
+Quickview
+Brand: Planet Technology Corp
+Model: IPOE-173S
+IPOE-173S Industrial 10/100/1000Mbps 802.3bt PoE++ Splitter 12v/24v
+Robust Industrial 802.3bt PoE++ Splitter The Planet IPOE-173S is an Industrial-grade 802.3bt Power over Ethernet Splitter which delivers the Ethe..
+£131.40
+Add to Cart "> Add to Cart
+Get Quotes "> Get Quotes
+Add to Wish List
+Compare this Product
+Ask Question ">
+Ask Question
+Quickview
+Brand: Planet Technology Corp
+Model: IPOE-470-12V
+IPOE-470-12V 4-Port Multi-Gigabit 802.3bt PoE++ Injector Hub (12 to 54VDC Input)
+Compact and Robust Industrial 802.3bt PoE++ Network SolutionThe Planet IPOE-470-12V 4-port industrial IEEE 802.3bt PoE++ injector hub series feat..
+£220.65
+Add to Cart "> Add to Cart
+Get Quotes "> Get Quotes
+Add to Wish List
+Compare this Product
+Ask Question ">
+Ask Question
+Quickview
+Brand: Planet Technology Corp
+Model: UPOE-800G
+UPOE-800G - 8-Port Gigabit 60W Ultra PoE Managed Injector Hub (400W)
+Overview PLANET Ultra PoE Managed Injector Hub series, a cost-effective and quick Ultra PoE solution, is designed to perfectly upgrade an existing net..
+£491.33
+Add to Cart "> Add to Cart
+Get Quotes "> Get Quotes
+Add to Wish List
+Compare this Product
+Ask Question ">
+Ask Question
+Quickview
+Brand: Planet Technology Corp
+Model: GT-805A
+GT-805A - 10/100/1000Base-T to 1000Base-SX/LX SFP Media Converter
+Planet GT-805A 10/100/1000Base-T to 1000Base-SFP (mini-GBIC-LC) Gigabit Media Converter* SFP fibre module (mini-GBIC) required for operation - A choic..
+£45.75
+Add to Cart "> Add to Cart
+Get Quotes "> Get Quotes
+Add to Wish List
+Compare this Product
+Ask Question ">
+Ask Question
+Quickview
+Brand: Planet Technology Corp
+Model: MGB-Series Transceiver
+MGB-Series Transcievers - 1000BASE-SX/LX SFP Transceiver
+OverviewThe MGB family consists of Small Form Factor Pluggable (SFP) transceiver modules that are specifically designed for high performance integrate..
+Get Quotes "> Get Quotes
+Add to Wish List
+Compare this Product
+Ask Question ">
+Ask Question
+Quickview
+Brand: Planet Technology Corp
+Model: GT-1205A
+GT-1205A - 10/100/1000Base-T to Dual 1000Base-X SFP Media Converter
+PLANET GT-1205A Gigabit SFP Media Converter is upgraded by providing 2 Gigabit SFP slots, strengthened redundant function, and other features shown be..
+£83.75
+Add to Cart "> Add to Cart
+Get Quotes "> Get Quotes
+Add to Wish List
+Compare this Product
+Ask Question ">
+Ask Question
+Quickview
+Brand: Planet Technology Corp
+Model: MC-1500
+MC-1500 - 15-Slot Media Converter Chassis
+OverviewProviding more capacity to the converters in one chassis, PLANET MC-1500 provides 15 slots in the 19" rack, saving more spaces for fiber-optic..
+£279.10
+Add to Cart "> Add to Cart
+Get Quotes "> Get Quotes
+Add to Wish List
+Compare this Product
+Ask Question ">
+Ask Question
+Quickview
+Brand: Planet Technology Corp
+Model: IGTP-805AT
+IGTP-805AT - 1000Base-SX / LX to 10/100/1000Base-T 802.3at PoE Industrial Media Converter (mini-GBIC, SFP)
+OverviewPLANET IGTP-80xT Industrial Gigabit Media Converter series combines Ethernet media conversion (from 1000Base-X to 10/100/1000Base-T) with 802...
+£119.33
+Add to Cart "> Add to Cart
+Get Quotes "> Get Quotes
+Add to Wish List
+Compare this Product
+Ask Question ">
+Ask Question
+Quickview
+Brand: Patton Electronics
+Model: CL1212
+CL1212 CopperLink Ultra High-Speed Copper Ethernet Extender 168 Mbps
+The Patton Copperlink CL1212 Ultra High-Speed Copper Ethernet Extender combines data flows from up to 2 network-enabled devices onto a single twisted ..
+Get Quotes "> Get Quotes
+Add to Wish List
+Compare this Product
+Ask Question ">
+Ask Question
+Quickview
+Brand: Planet Technology Corp
+Model: VC-231G
+VC-231G 1-Port 10/100/1000T Ethernet to VDSL2 Converter -35b/30a profile w/ G.vectoring, RJ11 (V2)
+* January 2025 - now shipping VC-231G (V2) *** This Planet VC-231G is the New Replacement / Upgrade to Planet VC-231*200/200Mbps Downstream/Upst..
+£123.45
+Add to Cart "> Add to Cart
+Get Quotes "> Get Quotes
+Add to Wish List
+Compare this Product
+Ask Question ">
+Ask Question
+Quickview
+Brand: FlexDSL Telecommunications
+Model: FG-PAM-SA4N-2E1B/

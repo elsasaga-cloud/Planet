@@ -1,204 +1,216 @@
 {
  "code": "SA-041",
- "name_official": "Al Salami Trading L.L.C.（AST, Dubai, UAE）",
+ "name_official": "Fibermarkt Sp. z o.o.（自有品牌 LightOptics，Kraków, Poland）",
  "website_status": "在线",
- "summary": "迪拜老牌电子安防集成商（1989 年创立，Al Salami 集团成员，11–50 人），业务为报警、监控、音视频安防系统的设计、集成、安装与维护。用户表：A 已回复 + 询盘流水，自官网询盘 2 台工业千兆 1 光 4 电。",
- "type": "安防集成商（项目型小批量）",
- "size": "11–50 人（LinkedIn）；10–19 人（Kompass）",
- "brands_seen": [],
+ "summary": "克拉科夫的光通信设备分销商/电商，自有品牌 LightOptics：兼容光模块（可编程兼容 60+ 厂商）、DAC、MC、xWDM、工业/接入 PoE 交换机（如 LO-IGS-M8GT2GF-HPOE 8 PoE + 2 SFP）；客户为 ISP 与集成商；10+ 年经验，本地仓库与售后。用户表：A 优质名单(PL)，2 次实质回复，36 次跟进，WhatsApp 已加；在售磊通(Leitong)与 GXCOM 产品。",
+ "type": "分销商/电商（自有品牌贴牌）",
+ "size": "未见人数（中小）",
+ "brands_seen": [
+  "LightOptics",
+  "磊通",
+  "GXCOM"
+ ],
  "evidence": [
   {
-   "kind": "第三方（LinkedIn）",
-   "claim": "定位与规模",
-   "quote": "Al Salami Trading L.L.C (AST) – was founded in 1989 by its chairman Mr. Rashid Al Salami … AST deals in all aspects of Electronic Security and Surveillance systems … Company size: 11-50 employees · Headquarters: Dubai",
-   "url": "https://www.linkedin.com/company/al-salami-trading-establishment/",
+   "kind": "第三方（inwestrut）",
+   "claim": "自有品牌含 PoE 网管交换机 + 联系方式",
+   "quote": "Model LO-IGS-M8GT2GF-HPOE – z obsługą PoE, PoE+ oraz PoE++ wyposażony w 8 portów 10/100/1000Mbps PoE i 2 porty 1000Mbps SFP … Fibermarkt Sp. z o.o. Adres: Śnieżna 18, 30-822 Kraków … Telefon: +48 533 533 575",
+   "url": "https://inwestrut.pl/fibermarkt-sp-z-o-o/",
    "date": "2026-10-21"
   },
   {
    "kind": "官网",
-   "claim": "联系方式",
-   "quote": "PO Box: 27640, Dubai, UAE · +971 4 2650333 · alsalami@emirates.net.ae",
-   "url": "https://www.alsalami.com/",
+   "claim": "品牌定位与客户群",
+   "quote": "Light Optics to dostawca dobrej i sprawdzonej jakości modułów optycznych oraz konwerterów mediów w najlepszej cenie. Głównymi odbiorcami są firmy ISP oraz integratorzy.",
+   "url": "https://fibermarkt.com/pl/brand/5-lightoptics?page=6",
    "date": "2026-10-21"
   },
   {
-   "kind": "官网",
-   "claim": "创立与定位",
-   "quote": "Al Salami Trading L.L.C (AST) – was founded in 1989 by its chairman Mr. Rashid Al Salami. Originally based in Sharjah, it is now located in Dubai under one roof with the rest of Al Salami Group Of Companies.",
-   "url": "https://www.alsalami.com/",
+   "kind": "经销商",
+   "claim": "LO-IGS-4GT2GF-POE 规格与经销价",
+   "quote": "LO-IGS-4GT2GF-POE … Cena netto: 888,00 PLN netto … 4 porty PoE RJ45 10/100/1000 Mbps … 2 porty SFP 1000 Mbps … Budżet mocy PoE: 120 W … Redundantne zasilanie 48–57V DC … -40°C do +85°C … IP40",
+   "url": "https://profisystems.pl/pl/product/130880,przemyslowy-przelacznik-lightoptics-lo-igs-4gt2gf-poe",
    "date": "2026-10-21"
   },
   {
-   "kind": "名录",
-   "claim": "地址与电话",
-   "quote": "Al Salami Trading Est Address: Shop # 8, Ground Floor, Bin Sougat Building, Al Twar Road, Al Twar, Dubai Landmark: Opposite Terminal 2 Zip Code: 27640 … Phone number: +971 4 2650333",
-   "url": "https://www.uaeresults.com/1028180/Security_Control_Equipment_And_Systems/Dubai/Al_Salami_Trading_Est/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "名录",
-   "claim": "服务范围与规模",
-   "quote": "Al Salami Trading Establishment Is Suppliers & Service Providers Of CCTV Camera, Access Control, Barrier & Gates, Wired & Wireless Alarm System … No employees: 10-19 Employees",
-   "url": "https://ae.kompass.com/c/al-salami-trading-establishment/ae650104/",
+   "kind": "经销商",
+   "claim": "LO-IGS-8GT2GF-POE 经销价 1,406 PLN 净",
+   "quote": "Przemysłowy przełącznik LightOptics - LO-IGS-8GT2GF-POE … 8*10/100/1000Base-T RJ45, 2*1000M fiber ports (SFP) 1 406,00 PLN netto",
+   "url": "https://profisystems.pl/pl/producer/lightoptics,103922",
    "date": "2026-10-21"
   }
  ],
  "kp": [
   {
    "name": "—",
-   "role": "总机（官网公开）",
-   "email": "alsalami@emirates.net.ae",
-   "phone": "+971 4 265 0333",
-   "source": "https://www.alsalami.com/"
-  },
-  {
-   "name": "Rashid Al Salami",
-   "role": "Chairman / Founder（官网 About）",
-   "email": "—（未公开）",
-   "phone": "+971 4 265 0333（公司）",
-   "source": "https://www.alsalami.com/about-us/"
-  },
-  {
-   "name": "Reyann Salazar Brosoto",
-   "role": "来信署名人（职务未在邮件署名里出现）",
-   "email": "reyann@alsalami.com",
-   "phone": "+971 52 905 6975（2025-06-16 签名 Mob）",
-   "source": "S/A 邮箱来信 2025-06-16 来信 1 封（第 72 批从邮件表头补）"
+   "role": "销售（用户表邮箱；电话即 WhatsApp）",
+   "email": "sales@fibermarkt.com",
+   "phone": "+48 533 533 575",
+   "source": "https://inwestrut.pl/fibermarkt-sp-z-o-o/"
   }
  ],
- "notes": "A 维持（主动询盘 + 已回复 + 中东集成商），首单仅 2 台，走项目复购逻辑；P1 = STI-144GP（1 光 4 电工业千兆，若价格表无则按 SmartByte 型号标注），25% 集成商档，MOQ 1 可直接成交。",
+ "notes": "A 确认（欧洲自有品牌 + 2 次实质回复 + 在售中国品牌）：对位 LO-IGS-M8GT2GF-HPOE ≈ STI-288DGGPM，MC = STI-110GE；贴牌 30%。",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "深挖 v2（官网 + 名录核对）"
+  "level": "深挖 v1"
  },
  "company_facts": {
-  "legal_name": "Al Salami Trading L.L.C.（AST；原 Al Salami Trading Establishment, ASTE）",
-  "founded": "1989（创始人/董事长 Rashid Al Salami）",
-  "hq": "Shop 8, Bin Soqat (Bin Sougat) Building, Al Twar Road, opp. Airport Terminal 2, Dubai；P.O. Box 27640（+971 4 265 0333 / 265 0303）",
-  "staff": "10–19（Kompass）/ 11–50（LinkedIn，2,183 followers）",
-  "other": "Al Salami 集团成员，原址沙迦；业务：CCTV、门禁、道闸/大门、有线/无线报警 的设计/集成/安装/维护；官网主打「Dubai trusted CCTV company 报价」"
+  "legal_name": "Fibermarkt Sp. z o.o.（品牌 LightOptics）",
+  "hq": "Kraków, Poland",
+  "other": "自有品牌 LightOptics 工业 PoE 交换机 LO-IGS 系列经 Profi Systems、Ceneo 等二级渠道销售；fibermarkt.com 网店 EUR 标价（LO-IGS-4GT2GF €101.67）"
  },
  "business_lines": [
-  "电子安防集成（报警、CCTV、AV）",
-  "安装与维护",
-  "CCTV 设计安装（主业）",
-  "门禁 / 道闸 / 大门",
-  "报警系统（有线/无线）"
+  "兼容光模块（60+ 厂商编码）、DAC、xWDM",
+  "LightOptics MC 与工业/接入 PoE 交换机",
+  "ISP 与集成商供货，本地仓库与售后"
  ],
  "products_seen": [
   {
-   "brand": "（项目询盘）",
-   "model": "工业千兆 1 光 4 电 ×2",
-   "spec": "官网询盘 2 台",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "用户表",
+   "brand": "LightOptics",
+   "model": "LO-IGS-4GT2GF-POE",
+   "spec": "工业非管理 4×GE PoE + 2 SFP，120W，48–57VDC 双电源，-40~85℃，IP40，DIN；经销价 888 PLN 净",
+   "url": "https://profisystems.pl/pl/product/130880,przemyslowy-przelacznik-lightoptics-lo-igs-4gt2gf-poe",
+   "date": "2026-10-21",
    "saga": "STI-144GP"
+  },
+  {
+   "brand": "LightOptics",
+   "model": "LO-IGS-8GT2GF-POE",
+   "spec": "工业 8×GE PoE + 2 SFP；经销价 1,406 PLN 净",
+   "url": "https://profisystems.pl/pl/producer/lightoptics,103922",
+   "date": "2026-10-21",
+   "saga": "STI-288DGGPM"
+  },
+  {
+   "brand": "LightOptics",
+   "model": "LO-IGS-M8GT2GF-HPOE",
+   "spec": "工业管理 8 PoE + 2 SFP（首轮调研）",
+   "url": "https://fibermarkt.com/",
+   "date": "2026-10（首轮调研）",
+   "saga": "STI-288DGGPM"
+  },
+  {
+   "brand": "LightOptics",
+   "model": "LO-IGS-2GT1GF-POE / LO-IGS-4GT1GF-POE",
+   "spec": "工业 2/4 PoE + 1 SFP（博客 2026-08-30 / Ceneo）",
+   "url": "https://fibermarkt.com/pl/blog/post/kamera-wifi-czy-poe-ktora-wybrac.html",
+   "date": "2026-08-30",
+   "saga": "STI-144GP"
+  },
+  {
+   "brand": "LightOptics",
+   "model": "LO-IGS-4GT2GF（非 PoE）",
+   "spec": "网店 €101.67（原 €125.05）",
+   "url": "https://fibermarkt.com/en/search/?q=modu%C5%82-sfp-tx-lightoptics-lo-sf-1g-rj-l-sfp-rj45-10-100-1000-tx-utp",
+   "date": "2026-10-21",
+   "saga": "—"
   }
  ],
  "channels": {
-  "网站": "https://www.alsalami.com/",
-  "直邮": "reyann@alsalami.com（用户表）",
-  "电话": "+971 4 265 0333（名录公开）",
-  "LinkedIn": "https://www.linkedin.com/company/al-salami-trading-establishment/"
+  "网站/网店": "https://fibermarkt.com/（EUR/PLN）",
+  "直邮": "sales@fibermarkt.com（用户表）",
+  "二级渠道": "Profi Systems、Ceneo"
  },
  "signals": [
-  "用户表：A 已回复 + 询盘流水，具体数量 2 台（小样单→项目）",
-  "官网侧重 CCTV 报价获客——PoE 交换机为摄像机工程配套耗材，8/16/24 口 PoE 为主（2026-10-21）"
+  "2026-08-30 博客仍在推 LO-IGS PoE 系列——产品线活跃（fibermarkt.com）",
+  "用户表：磊通、GXCOM 为现供应商（华南 ODM）"
  ],
  "risks": [
-  "小批量样单；UAE 项目付款与清关由客户处理"
+  "现供应商为磊通/GXCOM（价格极低），Saga 需以 Marvell 平台 + 一致性切入而非底价",
+  "波兰语/CE/WEEE 合规"
  ],
  "saga_fit": {
   "p1": "STI-144GP",
-  "tier": 25,
-  "why": "询盘即 1 光 4 电工业千兆 → STI-144GP；集成商 25% 档；2 台可当样机走 PayPal"
+  "tier": 20,
+  "why": "LO-IGS-4GT2GF-POE（4 GE PoE + 2 SFP，经销 888 PLN ≈ $220）对位 STI-144GP（EXW $35 @25% 口径，需按 2 SFP 版核价）；LO-IGS-8GT2GF-POE 对位 STI-288DGGPM；分销 20% 档"
  },
- "email_hook": "For the two industrial gigabit 1-fibre 4-copper units you asked about, the 4-port PoE + 1 SFP DIN switch ships within 10–15 days, and I can ship the pair as samples by courier on PayPal terms.",
+ "email_hook": "Your LO-IGS-4GT2GF-POE and LO-IGS-8GT2GF-POE sit exactly on the 4+2 and 8+2 industrial PoE footprints we build, so I am quoting both in LightOptics packing with the managed versions on a Marvell platform as the differentiator against your current source.",
  "mail_review": {
   "binding": {
-   "level": "未绑定（2025-06 工程师要规格书 + 问迪拜有无展厅 → 「无分支，只发货」→ 无下文；研究档「首单 2 台」在邮件/PI 包均无痕迹；Elsa 箱：`to:alsalami.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 14 / 来 1）（第 74 批(g)））",
-   "type": "迪拜安防集成（项目型）；Reyann（Security System Engineer）",
-   "sieve": "2",
-   "stop": "本地展厅/现货缺失；非主攻",
-   "revive": "其项目",
-   "lane": "AE",
-   "cadence": "2025-03 → 2026-09 去信 14 封；最后来信 2025-06-16",
-   "evidence": "k=a81a527303ac3a8d / 10ae2338468afc5d"
+   "level": "未绑定（邮件 23 封 0 回、Opened 0；用户表「2 次实质回复」无原文；Elsa 箱：`to:lightoptics.pl OR to:fibermarkt.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 23 / 来 0）（第 74 批(g)））",
+   "type": "波兰自有品牌电商（Fibermarkt / LightOptics）——次重点",
+   "sieve": "0（邮件层无人工回复）",
+   "stop": "23 封 0 打开（sales@ 通用箱）",
+   "revive": "找产品负责人",
+   "lane": "PL/EU",
+   "cadence": "一次",
+   "evidence": "邮件：去信 23 封（2024-06-19 → 2026-09-25），来信 0；Opened 标签 0 次；收件人 sales@fibermarkt.com"
   },
-  "situation": "Reyann 要工业机规格书并问迪拜有没有展厅；Alan 给了长规格书并明说没有分支/代理。无回。",
-  "need": "1 光 4 电工业千兆（项目）。",
-  "breakpoint": "本地化缺失（展厅/现货）；中东非主攻。",
+  "situation": "sales@ 两年 0 打开；用户表说回过 2 次——不在仓库。",
+  "need": "LO-IGS-M8GT2GF-HPOE 对位。",
+  "breakpoint": "触达层。",
   "saga_now": {
-   "p1": "STI-144GP",
-   "tier": 25,
-   "price": "—；群发里他已看到的价（续）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-05-06 $300（48 Port PoE Managed Switch）、2025-10-27 $280（10G Enterprise SFP Switch）",
-   "why": "不主动。已打开的主题（3/14 封有打开记录）：「Industrial PoE Switch」(2025-03-25)、「Re: Industrial PoE Switch」(2025-06-16)、「Re: Industrial PoE Switch」(2025-07-03) → 读者兴趣偏「工业」；与 P1 同类，继续",
+   "p1": "STI-288DGGPM",
+   "tier": 30,
+   "price": "锚价：STI-288DGGPM $137.5（PDF 上限；30% 档 151.6 超）（第 72 批 2026-10-24）；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-19 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-21 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-21 $280（10G Enterprise SFP Switch）",
+   "why": "需求是 LO-IGS-M8GT2GF-HPOE 对位（8 GE PoE + 2 SFP 工业）→ STI-288DGGPM 直接对位",
    "repeat": [],
-   "gaps": [
-    "研究档「首单 2 台」出处——PI 包无 Al Salami"
-   ]
+   "gaps": []
   },
   "next_move": {
-   "when": "不动",
-   "channel": "A 邮箱",
-   "action": "—（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
-   "one_question": ""
+   "when": "2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）",
+   "channel": "A 邮箱 → sales@fibermarkt.com（无具名 KP）",
+   "action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(p) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
+   "one_question": "Your LO-IGS-4GT2GF-POE and LO-IGS-8GT2GF-POE sit exactly on the 4+2 and 8+2 industrial PoE footprints we build, so I am quoting both in LightOptics packing with the managed versions on a Marvell platform as the differentiator against your current source. Which footprint moves more units for you, 4+2 or 8+2, so I quote that one first? Reference: STI-288DGGPM at $137.5 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
    {
-    "date": "2025-03-25",
-    "dir": "去",
-    "who": "A 箱（Alan）",
-    "quote": "Industrial PoE Switch",
-    "why": "首封去信（邮箱索引；去信共 14 封）",
-    "k": "2cc4deb941fe82c4"
-   },
-   {
-    "date": "2025-06-02",
+    "date": "2024-05-18",
     "dir": "来",
-    "who": "用户表（Simon 跟进记录；渠道 A）",
-    "quote": "用户表跟进：推「22mini」→ 对方「DS」",
+    "who": "用户表（Simon 跟进记录；渠道 WhatsApp/Simon邮箱）",
+    "quote": "用户表跟进：推「发了mini工业交换机图」→ 对方「email发了2光2小壳信息」",
     "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
-    "k": "Clients/A Replied 09.04.xlsx no.7 2025.6.2"
+    "k": "Clients/A/DONE/PL 2.6.xlsx no.32 2024.5.18"
    },
    {
-    "date": "2025-06-16",
+    "date": "2024-06-19",
     "dir": "来",
-    "who": "Reyann Salazar Brosoto",
-    "quote": "Do you have datasheet for below industrial switch? And do you have any showroom location here in Dubai?",
-    "why": "规格 + 本地化",
-    "k": "a81a527303ac3a8d"
+    "who": "用户表（Simon 跟进记录；渠道 WhatsApp/Simon邮箱）",
+    "quote": "用户表跟进：推「发了几个商业交换机图」→ 对方「email发了2光8BT信息」",
+    "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+    "k": "Clients/A/DONE/PL 2.6.xlsx no.32 2024.6.19"
    },
    {
-    "date": "2025-06-16",
+    "date": "2024-06-19",
     "dir": "去",
-    "who": "Alan",
-    "quote": "sorry, we do not have any branch/agent in Dubai. We only ship purchased items to Dubai.",
-    "why": "答复",
-    "k": "10ae2338468afc5d"
+    "who": "S 箱（Simon）",
+    "quote": "90W poe managed switch",
+    "why": "首封去信（邮箱索引；去信共 23 封）",
+    "k": "0e9d6e3fc507809a"
    },
    {
-    "date": "2025-06-16",
-    "dir": "来",
-    "who": "reyann@alsalami.com",
-    "quote": "RE: Industrial PoE Switch｜Dear Mr. Alan,     Do you have datasheet for below industrial switch?  And do you have any showroom location here in Dubai?     Best Regards,  Reyann ",
-    "why": "来信（邮箱索引；原文见 k；是否人工回复以原文为准）",
-    "k": "a81a527303ac3a8d"
+    "date": "2024-11-19",
+    "dir": "去",
+    "who": "S 箱（Simon）报价",
+    "quote": "48 Port PoE Managed Switch｜ $300（原句：*Price is very competitive, 300usd/pc*）",
+    "why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
+    "k": "e5f1f002a33fa0f0"
    },
    {
-    "date": "2026-09-07",
+    "date": "2026-08-21",
     "dir": "去",
     "who": "A 箱（Alan）",
-    "quote": "16 Port Industrial PoE Switch",
-    "why": "最近一封去信（邮箱索引；去信共 14 封）",
-    "k": "0168ce7da6b5c635"
+    "quote": "24 Port PoE Managed Switch｜稿内价 $170",
+    "why": "去信正文含价（邮箱索引）",
+    "k": "ffc710b07244cdbd"
+   },
+   {
+    "date": "2026-09-25",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "Managed PoE Switches",
+    "why": "最近一封去信（邮箱索引；去信共 23 封）",
+    "k": "c12866c8e3aa01f1"
    }
   ],
   "proof_gaps": [
-   "「首单仅 2 台」无 PI 证据"
+   "「2 次实质回复」无原文"
   ],
-  "draft_en": null,
+  "draft_en": {
+   "subject": "LightOptics packing - the 4+2 and 8+2 industrial PoE footprints, managed on Marvell",
+   "body": "Hello LightOptics team,\n\nYour LO-IGS-4GT2GF-POE and LO-IGS-8GT2GF-POE sit exactly on the 4+2 and 8+2 industrial PoE footprints we build. In LightOptics packing from small lots, DIN-rail, -40 to 75 C, CE/RoHS: 4 x Gigabit PoE+ + 2 x SFP unmanaged - model STI-244GP - $35 USD EXW (MOQ 1, 15-day validity); 8 x PoE+ + 2 x SFP unmanaged - STI-288GP - $62.2; and the differentiator against your current source, the 8 + 2 L2+ managed version with ring redundancy on a Marvell platform - STI-288DGGPM - $137.5. Optics and DAC stay with you.\n\nOne question: is the managed 8-port the SKU your ISP customers ask for, or do they stay unmanaged?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+  },
   "as_of": "2026-10-24"
  }
 }

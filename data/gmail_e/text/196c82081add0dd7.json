@@ -11,7 +11,7 @@
  "text": "Hi, Ismail,\n\nThanks for your offer.\n\nThis seems to be a BOM list, we cannot offer Switch ICX7550/Switch ICX8100/1\nx Platform License for MC-VA-1K\n\nSo I am not doing a reply before.\n\nSorry for this.\n\nThank you.",
  "char_count": "220",
  "attachments": "[{'filename': 'image006.png', 'mime_type': 'image/png', 'size': 23225}]",
- "note": "SB-580 3Lines（沙特，Ismail Mohamed）：他发的是 Ruckus ICX7550/ICX8100 BOM；Elsa 2025-05-13 答做不了",
+ "note": "SC-097 3Lines（沙特，Ismail Mohamed）：他发的是 Ruckus ICX7550/ICX8100 BOM；Elsa 2025-05-13 答做不了",
  "text_source": "text/plain",
  "fetched": "2026-10-24T16:06Z",
  "method": "Arena Gmail connector get_message_text(include_quoted=false)"

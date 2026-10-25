@@ -1,2 +1,75 @@
-# SB-514 Brigit Group · home · https://brigit.co.za/ · fetched 2026-10-25T07:41:18Z · HTTP 200
-
+# SB-514 257.cz · home · https://257.cz/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+257.cz - Domény, expirované domény
+Tools
+Blog
+Auto Domain
+Klient
+257.cz - Domény, expirované domény
+Přes 1,61 milionu domén, přes 1,35 milionu aktivních domén.
+Nejlepší dostupná databáze!
+Expirované domény .cz
+Informace o registrovaných doménách .cz .
+Informace o expirujících doménách .cz .
+Ověřování registrace domén.
+Nákup (tzv. odchyt) expirujících domén.
+Hledání volných domén podle zadaného formátu.
+Nejlepší data o .cz doméně.
+1,5x-3x tolik expirujících domén než konkurence.
+0 statisíce registrovaných domén než konkurence.
+Přehled
+Aktuální informace o více než 99.3% registrovaných .cz domén.
+Aktuální informace o cca 600 expirujících domén denně.
+Aktuální informace o cca 4600 expirujících doménách týdně.
+Pokrytí 99.3% zóny, přes 1 350 000 aktvních domén, přes 1 600 000 domén včetně vyřazených, počet chybějících domén udržováno pod 10 000 (většinou nerelevantní domény velkých držitelů, které mají 8 a více znaků).
+API
+Jednoduché API pro stahování denních a týdenních dat v CSV.
+Ceník
+Denní a týdenní report o expirovaných doménách, generován každý den na zítřek a následující týden, následující měsíc a následující dva měsíce.
+Jednorázově - od 1 000 Kč,
+Měsíčně - od 3 000 Kč,
+Ročně - od 30 000 Kč.
+Seznam 99% .cz aktivních domén bez metadat, více než 1 340 000 domén:
+Měsíčně od 1 500 Kč (fakturováno ročně).
+Seznam 99% .cz aktivních i neaktivních domén bez metadat, více než 1 600 000 domén:
+Měsíčně od 2 000 Kč (fakturováno ročně).
+Seznam 99%, registrovaných domén včetně metadata, expirace:
+Měsíčně od 3 000 Kč (fakturováno ročně).
+Seznamy domén podle klíčových slov, regulárních výrazů, hledání překlepů, variant domén s pomlčkou:
+Jednorázově od 5 000 Kč.
+Platba
+Převodem na účet,
+Kartou pomocí platebního odkazu,
+Revolut.
+Objednávka a kontakt
+Vzhledem k tomu, že zákazníci mají individuální potřeby, veškeré služby se domlouvají individuálně. Data poskytujeme pouze jednotkám zákazníků a tomu odpovídá cena a kvalita dat.
+Email: root@257.cz
+Telefon: +420 606 182 741
+Abuse kontakt
+Email: abuse@257.cz
+Path:
+/
+File Name ↓
+File Size ↓
+Date ↓
+client/
+-
+2021-May-08
+pjp/
+-
+2023-Sep-23
+public/
+-
+2020-May-20
+ecc.md
+1.2 KiB
+2021-Jan-07
+phpinfo.php
+14 B
+2023-Jun-22
+pub.key
+103 B
+2024-Aug-04
+ssh.txt
+204 B
+2023-Sep-25
+Created by root@257.cz © 2020.

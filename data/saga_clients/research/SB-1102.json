@@ -1,128 +1,169 @@
 {
- "code": "SB-1102",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "快照失败（timeout）",
- "summary": "塞浦路斯 KN Electrologic Services Ltd（电气工程服务；KP Nikolas Konomou（Electrical Engineer）；表内「管理交换机 HDMI 转网带 USB」；官网 timeout）；群发 21 次无回复。",
- "type": "电气工程承包商（塞浦路斯）",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "管理交换机 HDMI转网带USB",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "管理交换机 HDMI 转网带 USB",
-   "quote": "管理交换机 HDMI转网带USB",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Nikolas Konomou",
-   "title": "Electrical Engineer",
-   "email": "info@electrologicservices.com",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "塞浦路斯",
-  "other": "官网 electrologicservices.com，语言 ?，快照状态 timeout；角色判定来源：待核"
- },
- "business_lines": [
-  "电气工程服务（塞浦路斯）"
- ],
- "channels": {
-  "role": "电气工程承包商（塞浦路斯）",
-  "region": "塞浦路斯",
-  "contact": "info@electrologicservices.com"
- },
- "signals": [
-  "表内：管理交换机 HDMI 转网带 USB；KP Nikolas Konomou / Electrical Engineer",
-  "快照：timeout"
- ],
- "risks": [
-  "HDMI over IP（KVM）品类 Saga 不供（Q-32）；小型承包商（量小）；官网 timeout；21 次无回复"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 25,
-  "why": "管理交换机 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 GE + 4×10G STC-424XGGM（$132.7）；HDMI over IP（带 USB）Saga 不供（Q-32）"
- },
- "email_hook": "Nikolas, for the managed switches in your electrical and AV installations, we supply Marvell-based 8-PoE + 2 SFP and 24-GE + 4×10G L2+ models (VLAN/IGMP for AV-over-IP) from single units, CE/RoHS, EXW USD — which port count does your current project need?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A/S 邮箱 21 封 2024→2026，无记录打开，0 回；收件 info@electrologicservices.com；主题多为「10G media converter、8 Port Industrial PoE Switch」；Elsa 箱：`to:electrologicservices.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 21 / 来 0）（第 74 批(k)））",
-   "type": "电气工程承包商（塞浦路斯）",
-   "sieve": "1（只收到群发）",
-   "stop": "只打通用邮箱，无记录打开",
-   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
-   "lane": "塞浦路斯（欧洲全域主攻）",
-   "cadence": "一封",
-   "evidence": "gmail_digest：out 21；用户表：「管理交换机 HDMI转网带USB」；研究档 risks：HDMI over IP（KVM）品类 Saga 不供（Q-32）；小型承包商（量小）；官网 timeout；21 次无回复"
-  },
-  "situation": "塞浦路斯 KN Electrologic Services Ltd（电气工程服务；KP Nikolas Konomou（Electrical Engineer）；表内「管理交换机 HDMI 转网带 USB」；官网 timeout）；群发 21 次无回复。",
-  "need": "管理交换机 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 GE + 4×10G STC-424XGGM（$132.7）；HDMI over IP（带 USB）Saga 不供（Q-32）",
-  "breakpoint": "HDMI over IP（KVM）品类 Saga 不供（Q-32）；小型承包商（量小）；官网 timeout；21 次无回复",
-  "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 25,
-   "price": "换人再触锚价 STC-28DGGPM $84.1 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-17 $65（10G media converter）、2024-11-13 $300（48 Port PoE Managed Switch）、2024-12-11 $240（24 Port Fiber Switch）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-06 $280（10G Enterprise SFP Switch）",
-   "why": "管理交换机 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 GE + 4×10G STC-424XGGM（$132.7）；HDMI over IP（带 USB）Saga 不供（Q-32）",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "2027-Q1（换人后）",
-   "channel": "A 邮箱 → 具名 KP",
-   "action": "换收件人再发一封（第 75 批(af) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用）；HDMI over IP 明说不供；IGMP 未核不写，只写 VLAN）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
-   "one_question": "Nikolas, for the managed switches in your electrical and AV installations, we supply Marvell-based 8-PoE + 2 SFP and 24-GE + 4×10G L2+ models (VLAN/IGMP for AV-over-IP) from single units, CE/RoHS, EXW USD — which port count does your current project need? Reference: STC-28DGGPM at $84.1 USD EXW (MOQ 1, 15-day validity)."
-  },
-  "facts": [
-   {
-    "date": "2026-02-16",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "10G media converter、8 Port Industrial PoE Switch",
-    "why": "21 封 / 0 次打开 / 0 回｜首封 2024-06-15 → 末封 2026-02-16（21 去 / 0 来）",
-    "k": "gmail_digest"
-   },
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "管理交换机 HDMI转网带USB",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2026-02-16",
-    "dir": "去",
-    "who": "A 箱（Alan）",
-    "quote": "Updated Ethernet Switches Links",
-    "why": "本日去信真实主题（邮箱索引 f7d7240237f34e20；信稿开头句引用此封；此前稿内写的「10G media converter」是线程列表首题，不是本封）",
-    "k": "f7d7240237f34e20"
-   }
+  "code": "SB-1102",
+  "name_official": "Viễn Thông Giá Tốt（vienthonggiatot.com）",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（快照 2026-10-21，越南语）",
+  "summary": "越南网络设备电商 + 弱电施工（光纤布线、Wi-Fi、监控安装），站内按品牌分类卖 Switch PLANET / TP-Link / Cisco / **SWITCH POE HRUI（正品）** / 工业交换机；型号页含 HRUI HR900-AF-82N、HR901-AF-1621GS、PLANET GS-4210-48T4S、TP-Link T1600G-28TS；表内注「很多国内的牌子 有洪瑞的」，2025-11 群发 2+8 PoE 回复 price。",
+  "type": "",
+  "size": "",
+  "brands_seen": [
+    "HRUI（！）",
+    "PLANET",
+    "TP-Link",
+    "Cisco",
+    "Ubiquiti",
+    "MikroTik",
+    "Grandstream"
   ],
-  "proof_gaps": [],
-  "draft_en": {
-   "subject": "Managed switches for your electrical and AV installations - two numbers, and what we do not carry",
-   "body": "Hi Nikolas,\n\nOver the past months you had a few product mails from us - most recently \"Updated Ethernet Switches Links\" on 16 February 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the managed switches in your electrical and AV installations, from single units, EXW, 15-day validity, CE/RoHS: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed with VLAN, Marvell-based - model STC-28DGGPM - $84.1 USD; 24 x Gigabit + 4 x 10G SFP+, L2+ managed - STC-424XGGM - $132.7. HDMI-over-IP with USB we do not carry - said up front, so you keep that part with your current source.\n\nOne question: which port count does your current project need - 8 at the room end, or 24 in the rack?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "站内导航：SWITCH PLANET / TP-LINK / CISCO / SWITCH POE HRUI / 工业交换机",
+      "quote": "SWITCH PLANET SWITCH TP-LINK SWITCH CISCO SWITCH POE HRUI SWITCH CÔNG NGHIỆP TỦ MẠNG RACK",
+      "url": "https://vienthonggiatot.com/switch-poe-hrui.html",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "站内型号：HR900-AF-82N、HR901-AF-1621GS（HRUI）；GS-4210-48T4S / 16T2S（PLANET）；关键词 switch 530 / poe 299 / sfp 99",
+      "quote": "models: GS-4210-48T4S, GS-4210-16T2S, T1600G-28TS, TL-SG2424, FNSW-1600P, HR900-AF-82N, HR901-AF-1621GS",
+      "url": "https://vienthonggiatot.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "业务：网络设备供应 + 摄像机 + 施工服务",
+      "quote": "Viễn thông giá tốt chuyên cung cấp thiết bị mạng, thiết bị camera và dịch vụ thi công mạng hàng đầu Việt Nam",
+      "url": "https://vienthonggiatot.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内注「很多国内的牌子 有洪瑞的」；2025-11 群发 28 PoE→price",
+      "quote": "兴趣：很多国内的牌子 有洪瑞的；回复：price",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（官网快照品牌识别：已售 HRUI）"
   },
-  "as_of": "2026-10-24"
- }
+  "company_facts": {
+    "legal_name": "（待核；品牌名 Viễn Thông Giá Tốt）",
+    "founded": "",
+    "hq": "越南（表内）",
+    "size": "小型电商 + 施工",
+    "other": "仅 gmail（vienthonggiatotvn@gmail.com）"
+  },
+  "business_lines": [
+    "网络设备电商（交换机 / 光模块 / 机柜 / 配件）",
+    "光纤 / Wi-Fi / 监控施工"
+  ],
+  "products_seen": [
+    {
+      "brand": "HRUI",
+      "model": "HR900-AF-82N",
+      "spec": "8 FE PoE + 2 GE 非管理",
+      "saga": "= Saga STC-028GFP 同厂同款（无价差优势）",
+      "url": "https://vienthonggiatot.com/switch-poe-hrui.html",
+      "date": "2026-10-21"
+    },
+    {
+      "brand": "HRUI",
+      "model": "HR901-AF-1621GS",
+      "spec": "16 FE PoE + 2 GE + 1 SFP",
+      "saga": "Saga STC 商用线同源",
+      "url": "https://vienthonggiatot.com/switch-poe-hrui.html",
+      "date": "2026-10-21"
+    },
+    {
+      "brand": "PLANET",
+      "model": "GS-4210-48T4S / GS-4210-16T2S",
+      "spec": "L2+ 管理千兆",
+      "saga": "Saga STC-448XGGM(L3) / STC-21616GP 对位（Marvell 线）",
+      "url": "https://vienthonggiatot.com/switch-planet.html",
+      "date": "2026-10-21"
+    }
+  ],
+  "channels": {
+    "role": "电商 / 零售 + 施工（已直接卖 HRUI 正品）",
+    "region": "越南"
+  },
+  "signals": [
+    "已在卖 Saga 供应商 HRUI 的商用 PoE 线 → 对 Saga STC 线无需求（同源）",
+    "同时卖 PLANET 管理型 → Saga Marvell 管理线（STC-28DGGPM / 424）有价格切口"
+  ],
+  "risks": [
+    "越南非主攻区；小电商价格极敏感",
+    "HRUI 线与 Saga STC 同源，只能以 SmartByte（Marvell）管理线差异化"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 20,
+    "why": "其 HRUI 非管理线已有货源，切口是 PLANET 价位段的 L2+ 管理 PoE：Saga STC-28DGGPM（Marvell）对 GS-4210-8P2S。"
+  },
+  "email_hook": "You already carry HRUI unmanaged PoE and PLANET managed switches — our Marvell-based 8-PoE + 2-SFP L2+ model sits between the two on price; want a 1-pc sample to list alongside the GS-4210 range?",
+  "mail_review": {
+    "binding": {
+      "level": "轻度触达（2024-11-03「What is the price?」→ 资料已发；无后续）；Elsa 群发 BCC 已触达 2026-09-10「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，越南（锚 vienthonghanoi VN） 批次 To inbox.vienthonghanoi@gmail.com，0 回（第 74 批 Bcc 头核对 msg 1a08a3bf37753529）",
+      "type": "越南网络电商（Gmail）",
+      "sieve": "2",
+      "stop": "—",
+      "revive": "不动",
+      "lane": "VN",
+      "cadence": "不动",
+      "evidence": "k=cd4b791c86455683；第 19 批回补来信原文 1 条（gmail_s/gmail_a）；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To inbox.vienthonghanoi@gmail.com）本户见于 2026-09-10 名单"
+    },
+    "situation": "—",
+    "need": "—",
+    "breakpoint": "—",
+    "saga_now": {
+      "p1": "—",
+      "tier": 20,
+      "price": "他见过的实报（2024-11-03）：STI-288GP $60；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-09-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-10；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
+      "why": "已打开的主题（3/5 封有打开记录）：「8 Port Industrial PoE Switch」(2024-11-03)、「Re: 8 Port Industrial PoE Switch」(2024-11-03)、「Re: 8 Port Industrial PoE Switch」(2024-11-15) → 读者兴趣偏「工业」；与 P1 同类，继续",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "不动",
+      "channel": "—",
+      "action": "—",
+      "one_question": ""
+    },
+    "facts": [
+      {
+        "date": "2024-11-03",
+        "dir": "来",
+        "who": "vienthonggiatotvn@gmail.com",
+        "quote": "What is the price? Vào 14:41 CN, 3 thg 11, 2024 Simon <s.sagatelecom@gmail.com> đã viết:",
+        "why": "来信原文（主题「Re: 8 Port Industrial PoE Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+        "k": "cd4b791c86455683"
+      },
+      {
+        "date": "2024-11-03",
+        "dir": "去",
+        "who": "Simon（Quotation.pdf）",
+        "quote": "「What is the price?」的回复 = 报价单：STI-288GP（2×GE SFP + 8×GE PoE af/at 240W，非管理）$60，validity 15 d，4~7 wd，warranty 3 years。",
+        "why": "同一天同一款 $60 也报给了 SB-010（美国）——STI-288GP $60 是 2024-11 的统一实报价",
+        "k": "S 邮箱附件 `Quotation.pdf` sha=b6e6158b418183d8（2024-11-03）"
+      },
+      {
+        "date": "2026-09-10",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To inbox.vienthonghanoi@gmail.com，越南（锚 vienthonghanoi VN） 批次）",
+        "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
+        "why": "Elsa 箱群发 BCC 触达证据（命中地址 vienthonggiatotvn@gmail.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+        "k": "elsa_bcc"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-25"
+  }
 }

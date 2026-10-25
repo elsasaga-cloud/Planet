@@ -1,2 +1,11 @@
-# SA-074 iotsistem.com · feed_auto · https://www.iotsistem.com/feed/ · fetched 2026-10-25T07:41:18Z · HTTP 200
-Sat, 18 Mar 2017 19:07:14 +0000	Yeni sitemiz yayında !	https://www.iotsistem.com/yeni-sitemiz-yayinda/
+# SA-074 Elite Team Security Ltd · feed_auto · https://elitteamsecurity.com/feed/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+Fri, 23 Jun 2023 15:49:55 +0000	Контрол уредите и измерване на енергията	https://elitteamsecurity.com/kontrol-uredite-i-izmervane-na-energiyata/
+Fri, 23 Jun 2023 15:49:25 +0000	Аудио и Видео контрол	https://elitteamsecurity.com/audio-i-video-kontrol/
+Fri, 23 Jun 2023 15:42:16 +0000	Щори и завеси	https://elitteamsecurity.com/sthori-i-zavesi/
+Fri, 23 Jun 2023 15:40:28 +0000	Осветление	https://elitteamsecurity.com/umen-dom-2-2/
+Thu, 22 Jun 2023 16:21:58 +0000	Сигурност	https://elitteamsecurity.com/umen-dom-2/
+Thu, 22 Jun 2023 16:04:58 +0000	Отопление и охлаждане	https://elitteamsecurity.com/umen-dom-1/
+Mon, 19 Jun 2023 20:57:32 +0000	camect	https://elitteamsecurity.com/camect/
+Mon, 19 Jun 2023 20:54:56 +0000	Optex	https://elitteamsecurity.com/optex/
+Sun, 12 Feb 2023 10:19:31 +0000	Анализ на границата срещу на сървъра – кое е подходящо за вашия бизнес?	https://elitteamsecurity.com/analiz-na-graniczata-sresthu-na-sarvara-koe-e-podhodyastho-za-vashiya-biznes/
+Sun, 12 Feb 2023 10:04:38 +0000	Топ 5 на Hanwha Techwin за тенденциите в областта на видеонаблюдението през 2023 г.	https://elitteamsecurity.com/top-5-na-hanwha-techwin-za-tendencziite-v-oblastta-na-videonablyudenieto-prez-2023-g/

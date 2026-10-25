@@ -1,0 +1,304 @@
+# Rio-Import LLC（ООО «РИО-ИМПОРТ»）
+**官方名称（调研核实）**：ООО «РИО-ИМПОРТ»（RIO Group, Krasnoyarsk）
+
+> **评级 B**　|　俄罗斯　|　档案编号 `SB-003`　|　优先级 ★★　|　状态：成交过·已凉（Simon: gg）
+>
+> **类型**：分销商/经销商（工业自动化）（推断）　|　**历史关系**：成交/下单过；实质回复 2 次；WhatsApp 已加；推送 5 次（2024-02-21 → 2024-11-18）　|　**所在清单**：A优质名单(优质俄罗斯客户)、AI评估(RU)、补录、已成单、PI成单、Simon:gg、成交(PI)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+
+```yaml structured_profile
+code: SB-003
+rating: B
+rating_auto: A
+name_official: "ООО «РИО-ИМПОРТ»（RIO Group, Krasnoyarsk）"
+score: 128
+country: 俄罗斯
+region: 俄语区
+website: rio-krsk.ru
+type: 分销商/经销商（工业自动化）
+tier_tags: ["A优质名单(优质俄罗斯客户)", "AI评估(RU)", "补录", "已成单", "PI成单", "Simon:gg", "成交(PI)"]
+deal: yes
+replies: 2
+followups: 5
+first_contact: 2024-02-21
+last_contact: 2024-11-18
+p1: STI-288DGGPM
+price_tier: 20%
+research: done
+site_snapshot: timeout  # 2026-10-21
+sources: 3
+updated: 2026-10-25
+```
+
+## SALES BRIEF（压缩模型）
+
+- **是谁**：俄罗斯克拉斯诺亚尔斯克工业自动化设备供应商，自称本地区最大的 АСУТП（工业控制系统）设备、机柜设备、电子元件供应商之一（2009 年注册 ОГРН 1092468006047）。用户表：成单客户，A 优质俄罗斯名单。（2026-10-24 并入曾用编号 旧B-1335：PI 包补录行 rio-popov@mail.ru / Igor Popov，同一公司）（调研 2026-10-21；表内兴趣：工业非管理交换机（STI-050GE / STI-080GE 各 2 台））
+- **为什么是 B 级**：+50 有成单/下单/买过记录（用户备注或跟进表）；+30 实质回复 2 次（问价/要资料/问型号等）；+10 谈到样品/测样；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+0 仅免费邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/俄罗斯；+2 最近活动 2024
+- **历史互动**：成交/下单过；实质回复 2 次；WhatsApp 已加；推送 5 次（2024-02-21 → 2024-11-18）；最近一次客户回复：2024-05-16：成单电口设备
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-050GE / STI-080GE（已测）→ STI-288DGGPM 管理型 — 样品在其手上｜毛利复盘：一单 45.1%——高毛利一单客，不主动降价；按现价表
+- **第一问（只问一个）**：The two STI-050GE/080GE samples from May 2024 — did they go into a project, and what stopped a second order?
+- **最大未知**：官网当前状态异常（超时（站慢或封锁））——公司是否仍在运营待核
+- **下一步**：2027-Q1 Simon 原通道 一句话问样机下落（第 75 批(am) 2026-10-25：英文信稿已写 `draft_en`；WhatsApp 一句话）
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-003` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：轻度绑定（1 张样品单 2024-05-23：STI-050GE ×2 $24 + STI-080GE ×2 $31 = $110；PI 包标「gg」= 难复购；邮件 0 往来；Elsa 箱：`to:rio-krsk.ru` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(l)））** ｜ 类型：克拉斯诺亚尔斯克工业自动化分销（РИО-ИМПОРТ，Igor Popov）——俄罗斯非主攻，收款路径特殊 ｜ 筛子：5（付样付款） ｜ 停点：样品后 17 个月无下文（PI 包「gg」） ｜ 复活：其对 STI-050GE/080GE 的复测结果；RU 收款通道 ｜ 通路：RU ｜ 节奏：半年一句话（WhatsApp/邮件由 Simon 定） ｜ 证据：PI STSC20240523008（2024-05-23，Quotation.xls：STI-050GE 2×24、STI-080GE 2×31，Sample Testing）；出货照片 STI-050GE/080GE；成本统计 / 货款支付记录 / 运费 在 PI 包；曾用编号 旧B-1335（rio-popov@mail.ru）2026-10-24 并入
+- **现状一句话**：2024-05 买了两款最小的工业非管理样机（5 口/8 口），之后无邮件、无复购；Simon 在 PI 包里标了「gg」。
+- **对方真实需求（有据）**：工业 DIN 非管理小口数（自动化分销）。
+- **断点 / 为什么停在这里**：样品后无反馈；俄罗斯付款/物流摩擦。
+- **Saga 现在该推什么**：P1 **STI-050GE / STI-080GE（已测）→ STI-288DGGPM 管理型**（20% 档，按现价表）——样品在其手上｜毛利复盘：一单 45.1%——高毛利一单客，不主动降价
+  - 复购/在买项：2024-05-23 唯一一单：STI-050GE + STI-080GE $1,140（Simon 利润 RMB 514；PI 复盘 #8，Simon 标 gg）
+  - 做不了 / 要先核的：样品测试反馈从未记录
+- **下一步（具体）**：2027-Q1　Simon 原通道　一句话问样机下落（第 75 批(am) 2026-10-25：英文信稿已写 `draft_en`；WhatsApp 一句话）
+  - 第一问（只问一个）：The two STI-050GE/080GE samples from May 2024 — did they go into a project, and what stopped a second order?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2024-02-21 | 来 | 用户表（Simon 跟进记录；渠道 Email） | 用户表跟进：推「发了2光4小壳相关信息」→ 对方「想测样，价格 模块暂不确定单双纤」 | Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写 | `Clients/A/DONE/优质俄罗斯客户 2.9.xlsx no.7 2024.2.21` |
+| 2024-05-16 | 来 | 用户表（Simon 跟进记录；渠道 Email） | 用户表跟进：推「发了2层2光8poE管理信息」→ 对方「成单电口设备」 | Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写 | `Clients/A/DONE/优质俄罗斯客户 2.9.xlsx no.7 2024.5.16` |
+| 2024-05-22 | 去 | Simon → Igor Popov（Quotation，EXW Russia） | STI-050GE (5×GE, DIP, DC12~58V, -40~75℃, DIN, w/o PSU) 2 pcs × $24; STI-080GE (8×GE) 2 pcs × $31 = $110, "Sample Testing". Price validity 15 days; leadtime 4~7 working days; warranty 3 years; neutral device, non-brand packing. | 样品价锚：STI-050GE $24 / STI-080GE $31（2024-05，老汇率）；工业非管理 3 年保修口径的书面先例 | `PI 包 `8_俄罗斯_Igor_gg/Quotation.xls`` |
+| 2024-05-23 | PI | Simon → Igor Popov | STI-050GE … 2 pcs 24 USD; STI-080GE … 2 pcs 31 USD; Sample Testing | 样品单 | `PI STSC20240523008` |
+| 2024-05-23 | 内 | Simon 成本表（PI 包） | 内部《成本统计.xlsx》：STSC20240523008：成本 626 / 收款 1,140 / 利润 514（45.1%） | 利润率 = 利润÷收款；对照 20/25/30 加价 = 16.7%/20%/23% 毛利；详见 docs/成单客户_毛利复盘_内部_2026-10-24.md | `cost_sheet` |
+| 2024-05-23 | PI | Simon → Igor Popov（PI STSC20240523008，**人民币结算**） | TOTAL RMB 1,140 = 货 780（4 台）+ "Shipping Cost 360RMB for about 4Kg volume weight to Russia by Express door-to-door"。 | 这张 PI 是 RMB 不是 USD（旧B-1335 旧档写「USD 1,140」有误）；俄罗斯客户走人民币收款——与《EXW 对私收款模式》一致；成本表 45.1% 的利润里含 360 RMB 运费收入 vs 实付国内快递 28 RMB | `PI 包 `STSC20240523008.xls` + `成本统计.xlsx`` |
+| 2024-05-25 | 内 | 出货记录（PI 包《运费.jpg》京东快递面单） | 寄件：惠州惠阳镇隆（供应商仓，谢广浓）→ 收件：义乌稠城 兴港小区 80 栋 799 库房「迪马 周军」，3.0 kg，基础运费 ¥28，2024-05-25 揽件。 | Igor 的物流线：**义乌俄货集运（迪马）**，不是广州货代——U28 两条物流线之外的第三种（俄罗斯客户自有集运点）；Saga 只付国内段 ¥28 | `PI 包 `运费.jpg`（OCR）` |
+
+- **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来（A/S 两箱 0 封）
+
+## 基本事实（事实/推断/假设分层）
+
+| 项 | 内容 | 层级 |
+|---|---|---|
+| 名称 | Rio-Import LLC（ООО «РИО-ИМПОРТ»） | 事实（用户表） |
+| 国家 | 俄罗斯 | 事实（用户表）|
+| 网站/域名 | rio-krsk.ru | 事实（用户表 URL/邮箱域名） |
+| 类型 | 分销商/经销商（工业自动化） | 推断（据兴趣/备注关键词） |
+| 联系人 | 成单 Igor / Igor Popov | 事实（用户表） |
+| 来源（From） | 富通天下 / 补录：PI 包成单客户（T29-U8） | 事实（用户表） |
+| 兴趣（Interested in） | 工业非管理交换机（STI-050GE / STI-080GE 各 2 台） | 事实（用户表） |
+| 用户备注（Remark） | 邮件中有详细的联系信息 / 已成单 1 次（STSC20240523008，2024-05-23，USD 1,140）；Simon 文件夹标签 gg（已凉）；详见 research/旧B-1335.json | 事实（用户表） |
+| 用户分档（Category） | 进口贸易（克拉斯诺亚尔斯克） | 事实（用户表） |
+| 用户 AI 评估 | AI 80% A | 事实（用户表 AI评估结果/CALUDE评估结果列） |
+| 所在清单 | A优质名单(优质俄罗斯客户)、AI评估(RU)、补录、已成单、PI成单、Simon:gg、成交(PI) | 事实（文件路径） |
+| 在卖/在用品牌（备注所见） | — | 事实（用户备注）/ 推断 |
+
+### 用户 AI / Claude 评估原文
+
+- **AI**（AI客户评估_RU  09.03.xlsx）：
+  > 80% A
+  > 俄罗斯区域IT设备分销商，销售网络设备与通信设备（已有合作记录）
+  > 继续维护关系，重点推广稳定供货与新增SKU
+  > 16/24口PoE交换机、10G汇聚交换机
+  > 已有成交记录；历史邮件往来表明其长期采购通信设备
+
+## 客户调研（网页核实 · 引文 + URL + 日期）
+
+- **状态：已调研（2026-10-21）**　网站状态：在线
+- **是谁**：俄罗斯克拉斯诺亚尔斯克工业自动化设备供应商，自称本地区最大的 АСУТП（工业控制系统）设备、机柜设备、电子元件供应商之一（2009 年注册 ОГРН 1092468006047）。用户表：成单客户，A 优质俄罗斯名单。（2026-10-24 并入曾用编号 旧B-1335：PI 包补录行 rio-popov@mail.ru / Igor Popov，同一公司）
+- **类型**：分销商/经销商（工业自动化）
+- **规模**：未见人数；地区性大型供应商（自述）
+- **在卖/在用品牌**：Delta Electronics, Phoenix Contact
+- **【官网】自述：克拉斯诺亚尔斯克地区 АСУТП 全系设备最大供应商之一**
+  > Группа компаний РИО — одна из крупнейших поставщиков в Красноярском регионе полного спектра оборудования для АСУТП, шкафного оборудования электронных компонентов.
+  > 来源：http://www.rio-krsk.ru/（抓取 2026-10-21）
+- **【官网】法人与注册号**
+  > Полное наименование: Общество с ограниченной ответственностью «РИО-ИМПОРТ» … ОГРН 1092468006047 · ИНН 2460214069
+  > 来源：https://www.rio-krsk.ru/company/requisites/（抓取 2026-10-21）
+- **【官网】官网目录品牌与产品线（Delta、SUPU、Dinkle、Hongfa；PLC/HMI/变频/电源/连接器）**
+  > DELTA ELECTRONICS … SUPU ELECTRONICS … DINKLE ENTERPRISE … HONGFA … Преобразователи сигналов · Источники питания · ПЧ · УПП · Панели оператора · ПЛК · ТК · Сервоситемы
+  > 来源：http://www.rio-krsk.ru/（抓取 2026-10-21）
+- **【官网】官网新闻介绍工业 PoE 交换机（Phoenix Contact 1000 系列）**
+  > Phoenix Contact дополняет свой ассортимент промышленных коммутаторов PoE новыми управляемыми и неуправляемыми коммутаторами … бюджету мощности PoE в 30 Вт на порт и наличию вариантов со стекловолоконными портами SFP
+  > 来源：http://www.rio-krsk.ru/info/news/prochnye-kommutatory-poe/（抓取 2026-10-21）
+- **【官网】电话与邮箱公开**
+  > (391) 291-14-24 rio-import2003@mail.ru
+  > 来源：http://www.rio-krsk.ru/contacts/（抓取 2026-10-21）
+- **KP**：—（中央办公室）rio-import2003@mail.ru +7 (391) 291-14-24〔http://www.rio-krsk.ru/contacts/〕
+- 备注：A 级确认：工业自动化分销 + 成单；主推 STI 工业 DIN L2+ 系列（俄语区付款/物流由用户侧按现有通道）。
+
+### 加厚挖掘（2026-10-21 · 深挖 v1）
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | ООО «РИО-ИМПОРТ»（RIO Group） |
+| 成立 | 2009（ОГРН 1092468006047） |
+| 总部/地址 | Krasnoyarsk, Russia |
+| 其他 | 自述克拉斯诺亚尔斯克地区最大的 АСУТП/机柜/电子元件供应商之一；官网目录品牌：Delta Electronics、SUPU、Dinkle、Hongfa、UPUN、Optimus Drive、WAIN |
+
+- **业务线**：工业自动化元件分销（PLC、HMI、变频器、软启、伺服、温控、电源）；工业连接器（M8/M12/M17/M23/M40）与端子；信号转换器、继电器；工业 PoE 交换机（官网新闻介绍 Phoenix Contact PoE 1000 系列）
+
+| 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
+|---|---|---|---|---|
+| Phoenix Contact（官网新闻介绍） | 工业 PoE 1000 系列（非管理/管理） | 全千兆、宽温、30W/口、SFP 变体；面向视频监控与楼宇/机器自动化 | STI-288DGGPM | http://www.rio-krsk.ru/info/news/prochnye-kommutatory-poe/（2026-10-21） |
+| Delta Electronics | 工业电源（DIN） | 官网目录 Источники питания | —（配套） | http://www.rio-krsk.ru/（2026-10-21） |
+
+- **触达通道（公开）**：网站: http://www.rio-krsk.ru/；电话: (391) 291-14-24（官网）；直邮: rio-import2003@mail.ru（官网）/ rio-2003@mail.ru / rio-pavel@mail.ru（用户表）；联系人: Igor（成单，用户表）
+- **近况信号**：
+  - 官网目录以 Delta/SUPU/Dinkle 等中国台湾/大陆品牌为主——已习惯采购亚洲品牌（2026-10-21）
+  - 用户表：成单客户
+- **风险/边界**：俄罗斯：结算（T/T 受限）、物流、制裁合规——只做民用工业自动化，不碰军工/铁路；俄语区非主攻，不额外投入
+- **Saga 对位结论**：P1 STI-288DGGPM（20% 档）——自动化柜内 DIN 导轨 PoE（替代其介绍的 Phoenix Contact 1000 系列位）：STI-288DGGPM / STI-144GP，分销 20% 档；配 Delta 电源无需 Saga 供电源
+- **邮件切入句（英文）**：For the DIN-rail PoE slot you cover with the Phoenix Contact 1000 series, the 8-port gigabit managed unit at distributor EXW is the one Igor's last order came from, so I am refreshing that price plus the 4+1 compact version.
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：超时（站慢或封锁））
+
+- 尝试域名：rio-krsk.ru
+  > https://rio-krsk.ru/ conn: HTTPSConnectionPool(host='rio-krsk.ru', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTP
+  > https://www.rio-krsk.ru/ conn: HTTPSConnectionPool(host='www.rio-krsk.ru', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<
+  > http://rio-krsk.ru/ conn: HTTPConnectionPool(host='rio-krsk.ru', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPCo
+- **提示**：抓取失败不代表公司不在；人工打开一次即可。
+- 数据文件：`data/saga_clients/site_snapshots/SB-003.json`
+
+## 在卖/在用品牌 → Saga 对位
+
+（备注未提及具体品牌）
+
+## 历史跟进记录（原表照录）
+
+合并自 1 张跟进表，共 5 条（原值照录，日期已按年份递推补全）：
+
+| 日期 | 原始时间 | 我方推送内容 | 客户回复 | 平台 | 备注 | 来源表 |
+|---|---|---|---|---|---|---|
+| 2024-02-21 | 2024.2.21 | 发了2光4小壳相关信息 | 想测样，价格 模块暂不确定单双纤 | Email |  | 优质俄罗斯客户 2.9.xlsx#7 |
+| 2024-03-19 | 2024.3.19 | 发了工业电源价格册 |  | Email |  | 优质俄罗斯客户 2.9.xlsx#7 |
+| 2024-04-17 | 2024.4.17 | 发了5电口信息 |  | Email |  | 优质俄罗斯客户 2.9.xlsx#7 |
+| 2024-05-16 | 2024.5.16 | 发了2层2光8poE管理信息 | 成单电口设备 | Email |  | 优质俄罗斯客户 2.9.xlsx#7 |
+| 2024-11-18 | 1118 | 问需求 发了引流信息 |  | 微信 |  | 优质俄罗斯客户 2.9.xlsx#7 |
+
+## 成交记录（PI 包 · 自动汇总）
+
+- **Simon 的标签**（PI 包文件夹名）：**gg**　|　买方抬头：«Rio-Import» LLC
+- **单号** 1 个（2024-05-23 → 2024-05-23）　|　**销售** USD 1,140　|　**Simon 成本表利润** RMB 514
+
+| 单号 | 日期 | 单据 | 型号 | 数量 | 金额 | 采购（卖方 / RMB） | Simon 成本表（成本 / 收款 / 利润 RMB） |
+|---|---|---|---|---|---|---|---|
+| STSC20240523008 | 2024-05-23 | PI | STI-050GE、STI-080GE | 4 | USD 1140.0 | SmartByte / 626.0 | 626 / 1140 / 514 |
+
+> 口径：同一单号多份文件取 CI > PI（最新修订）> Quotation；Quotation 行不计入销售合计；明细见 `data/pi_orders/销售单据明细.csv`、采购价见 `采购合同明细.csv`；原件在 Release `files-pi_2026-10`。
+
+## 动态监控（自动 · 网站 / 社媒 / 代码库）
+
+- **监控层**：成单精选层　|　**自动源**：3 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-24T07:26:33Z
+- **最近变化摘要**：2026-10-23 首轮基线
+- 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-003/`；本节随档案重渲染刷新，实时看日志。
+
+| 源 | 类型 | 状态 | 最近变化 | 摘要 |
+|---|---|---|---|---|
+| [news](http://www.rio-krsk.ru/info/news/) | html | ConnectTimeout: HTTPSConnectionPool(host='rio-krsk.ru', port | - | 新闻页（有《Прочные коммутаторы PoE》Phoenix Contact 1000/4000 系列到货） |
+| [home](http://www.rio-krsk.ru/) | html | ConnectTimeout: HTTPSConnectionPool(host='rio-krsk.ru', port | 2026-10-24T07:26:33Z | 官网首页/目录 |
+| [auto_home](https://rio-krsk.ru/) | html | ConnectTimeout: HTTPSConnectionPool(host='rio-krsk.ru', port | - | 官网首页（T27 快照状态 timeout） |
+
+- **人工定期看（登录墙，不自动抓）**：rio-import2003@mail.ru / rio-2003@mail.ru（站内）；我方单据 rio-popov@mail.ru；注册主体多家同名（叶卡捷琳堡 ИНН 6658492377 / 莫斯科 2022）
+
+## 联系方式（已有 · 原值照录）
+
+- 邮箱：`rio-2003@mail.ru`〔免费邮箱；来源：用户表原值〕
+- 邮箱：`rio-pavel@mail.ru`〔免费邮箱；来源：用户表原值〕
+- 邮箱：`rio-popov@mail.ru`〔免费邮箱；来源：用户表原值〕
+- 电话：`+73912906315`〔WhatsApp 已加；原值见来源表〕
+- 联系人（原值）：成单 Igor
+- 联系人（原值）：Igor Popov
+- 职位（原值）：负责人
+- 网站/域名：rio-krsk.ru
+- **邮箱纪律**：只用表内原值，不猜测、不拼接；发不过去的地址标注后保留不删。
+
+## 关键人（KP）与触达通道
+
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| — | 中央办公室 | rio-import2003@mail.ru / +7 (391) 291-14-24 | 调研核实（公开页） | http://www.rio-krsk.ru/contacts/ |
+| Igor Popov | 负责人 | rio-2003@mail.ru / rio-pavel@mail.ru / +73912906315 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
+
+- **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；仅免费邮箱：可发，但优先找官网公开的企业邮箱（见调研 KP）
+
+## 来源与归并（不漏 · 原始行定位）
+
+本客户由 **3 行**原始记录归并而成；归并键：`d:rio-krsk.ru`, `e:rio-2003@mail.ru`, `e:rio-pavel@mail.ru`, `m:SB-003+旧B-1335`。
+曾用编号：旧B-1335
+
+| 文件#表:行 | No. | Company（原值） | Country | Person | From | Interested in | Contact | Remark | 跟进表 |
+|---|---|---|---|---|---|---|---|---|---|
+| A/DONE/优质俄罗斯客户 2.9.xlsx#总表:8 | 7 | https://www.rio-krsk.ru/Katalogi | 俄罗斯 | 成单 Igor | 富通天下 |  | rio-2003@mail.ru<br>rio-pavel@mail.ru | 邮件中有详细的联系信息 | 5 条 |
+| AI客户评估/AI客户评估_RU  09.03.xlsx#总表:8 | 7 | https://www.rio-krsk.ru/Katalogi | 俄罗斯 | 成单 Igor | 富通天下 |  | rio-2003@mail.ru<br>rio-pavel@mail.ru | 邮件中有详细的联系信息 | — |
+| 补录客户.jsonl#(补录):4 | PI-003 | Rio-Import LLC（ООО «РИО-ИМПОРТ»） | 俄罗斯 | Igor Popov | 补录：PI 包成单客户（T29-U8） | 工业非管理交换机（STI-050GE / STI-080GE 各 2 台） | rio-popov@mail.ru +7 (391) 2906-315; 2911-424 | 已成单 1 次（STSC20240523008，2024-05-23，USD 1,140）；Simon 文件夹标签 gg（已凉）；详见 research/旧B-1335.json 负责人 | — |
+
+## 产品决策（Saga · 单一决策口径）
+
+| 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
+|---|---|---|---|---|
+| **P1** | STI-288DGGPM | 深挖对位：自动化柜内 DIN 导轨 PoE（替代其介绍的 Phoenix Contact 1000 系列位）：STI-288DGGPM / STI-144GP，分销 20% 档；配 Delta 电源无需 Saga 供电源 | $137.5 USD EXW（㉕ 封顶：20% 档 $139.9 高于 2026-06 Saga 列表价 $137.5，按列表价；SmartByte LT-IS6310GP-2GX8GT 780 CNY，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（分销商/经销商（工业自动化）） |
+| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $180 USD EXW（㉕ ② 群发现价（群发价台账），20% 档公式为 $181.2——同一客户随时可能收到 Alan 的群发，信稿不高于群发价；汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+
+- **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
+
+## 跟进建议
+
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288DGGPM），备选型不进首触。
+
+- **第 1 次**：老客户回访——问上次所购型号的使用情况 + 告知 Marvell 新款（STI-288DGGPM）；只问一个问题：当前在采购的主力型号与月量。
+- **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
+- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
+- 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
+- **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
+
+## SWOT
+
+- **S**：有成交史，信任与开户成本已付；有 2 次实质回复（对方认识我们）；WhatsApp 直达
+- **W**：俄语区：物流/收款/汇率摩擦高于主攻区
+- **O**：P1 STI-288DGGPM 按 20% 档报价，做现供应商的第二货源；规模（调研）：未见人数；地区性大型供应商（自述）
+- **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
+
+## 触达与风险红线
+
+1. 包装、外观、说明书全部中性，不出现「Made in China」，贴客户自己的型号。
+2. 邮件只用表内原值地址；「发不过去」的地址保留并标注，不猜新地址。
+3. 不承诺 UL、EN50155、IP67、云管理；PoE 功率与工业温宽以实测为准。
+4. 乌克兰/军工/公共部门/轨道/生命安全场景守界；巨头分销与品牌厂商不投入。
+5. 同一客户在多张表出现时以本档为唯一入口，避免多人重复触达。
+
+## Qualification 清单
+
+| 门槛 | 状态 |
+|---|---|
+| 需求面成立（在卖/在用交换机或 PoE） | ✅ |
+| 决策人识别 | ✅ |
+| 触达通道 | ✅ WhatsApp 已加 |
+| 现用/在卖交换品牌 | ❓ 未知 |
+| 采购量/预算 | ✅ 有成交史（量待确认） |
+| 商业资格结论 | **技术上合格 / 商业上未合格（待实质回复）→ 慢慢跟** |
+
+## Unknowns（待问清单 · 跟进后逐项消除）
+
+- [ ] 官网当前状态异常（超时（站慢或封锁））——公司是否仍在运营待核
+- [ ] 年走量与现供应商
+
+## 英文跟进邮件（样板 · 可直接发送）
+
+**主题**：WhatsApp / 私信一句话（复制即发；不发邮件）
+
+```text
+Igor, Simon from Saga Telecom (the STI-050GE / STI-080GE samples, May 2024). One question: did the two pairs go into a project, and what stopped a second order - price, a spec gap, or no project? If it is the Phoenix Contact 1000-series slot you cover, the 8-port Gigabit DIN unit is $32.5 USD EXW today and the 5-port $17.0, EAC on your side.
+```
+
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
+
+## 新跟进记录（仓库外发出后补）
+
+| 日期 | 渠道 | 对象 | 我方动作 | 对方回应 | 下一步 | 下次动作日期 |
+|---|---|---|---|---|---|---|
+|  |  |  |  |  |  |  |
+
+> 历史跟进见上文「历史跟进记录（原表照录）」；新动作由用户在仓库外执行后告知日期与渠道，写入 research JSON 的 notes 后重渲染。
+
+## 下次复核
+
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+
+## 变更日志
+
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 A，分数 128）；人工/调研定级 → B
+
+---
+
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -1,0 +1,38 @@
+# SB-332 simplelogin.com · feed_auto · https://simplelogin.io/blog/index.xml · fetched 2026-10-25T07:41:18Z · HTTP 200
+Tue, 19 Nov 2024 00:00:00 +0000	SimpleLogin and Proton Pass lifetime deal for $199	https://simplelogin.io/blog/simplelogin-proton-pass-lifetime/
+Thu, 07 Nov 2024 00:00:00 +0000	Proton Pass premium features are now included in SimpleLogin premium plan	https://simplelogin.io/blog/sl-premium-including-pass-plus/
+Mon, 01 Jan 2024 00:00:00 +0000	SimpleLogin is moving its legal domicile to Switzerland	https://simplelogin.io/blog/simplelogin-switzerland/
+Wed, 05 Oct 2022 00:00:00 +0000	SimpleLogin bug bounty program	https://simplelogin.io/blog/bug-bounty-program/
+Wed, 15 Jun 2022 00:00:00 +0000	SimpleLogin passes an independent security audit	https://simplelogin.io/blog/security-audit/
+Fri, 08 Apr 2022 00:00:00 +0000	SimpleLogin joins the Proton family	https://simplelogin.io/blog/simplelogin-join-proton/
+Sat, 26 Feb 2022 00:00:00 +0000	G Suite email alternative based on email alias	https://simplelogin.io/blog/gsuite-alternative/
+Tue, 22 Feb 2022 00:00:00 +0000	SimpleLogin support is now handled by Zendesk	https://simplelogin.io/blog/support-channel-change/
+Sat, 13 Nov 2021 00:00:00 +0000	Introducing subdomains	https://simplelogin.io/blog/subdomains/
+Thu, 11 Nov 2021 00:00:00 +0000	SimpleLogin receives the best open source award from CNLL	https://simplelogin.io/blog/open-source-award/
+Mon, 11 Oct 2021 00:00:00 +0000	What makes SimpleLogin aliases a better alternative to Gmail aliases	https://simplelogin.io/blog/alternative-to-gmail-alias/
+Tue, 28 Sep 2021 00:00:00 +0000	Outage on July 13, 2021 and what we've learned	https://simplelogin.io/blog/july-13/
+Sat, 21 Aug 2021 00:00:00 +0000	Getting Started with Email Forwarding Services	https://simplelogin.io/blog/email-forwarding-declutter-inbox/
+Sun, 08 Aug 2021 00:00:00 +0000	A great alternative to 33mail	https://simplelogin.io/blog/alternative-33mail/
+Mon, 26 Jul 2021 00:00:00 +0000	Free Email Alias: get yours today in five minutes	https://simplelogin.io/blog/free-email-alias/
+Wed, 21 Jul 2021 00:00:00 +0000	What is an email alias and how it protects your privacy	https://simplelogin.io/blog/what-is-an-email-alias/
+Mon, 19 Jul 2021 00:00:00 +0000	10 Free Ways To Protect Your Privacy Online	https://simplelogin.io/blog/10-free-ways-to-protect-your-privacy-online/
+Mon, 12 Jul 2021 00:00:00 +0000	What makes SimpleLogin a great Burner Mail alternative?	https://simplelogin.io/blog/vs-burner-mail/
+Sun, 27 Jun 2021 00:00:00 +0100	What happened on June 16, 2021, and how we make sure it never happens again	https://simplelogin.io/blog/june-16-2021/
+Fri, 12 Mar 2021 00:00:00 +0100	What makes SimpleLogin a great Firefox Relay alternative?	https://simplelogin.io/blog/vs-firefox-relay/
+Wed, 10 Mar 2021 00:00:00 +0100	Which OS is optimal for your privacy?	https://simplelogin.io/blog/which-os-is-optimal-for-your-privacy/
+Wed, 03 Mar 2021 00:00:00 +0100	Threat Models: How to Establish One to Protect Your Privacy	https://simplelogin.io/blog/threat-models-how-to-establish-one-to-protect-your-privacy/
+Wed, 24 Feb 2021 00:00:00 +0100	Why Your Privacy Matters: A Brief Overview	https://simplelogin.io/blog/why-your-privacy-matters-a-brief-overview/
+Mon, 28 Dec 2020 00:00:00 +0100	If you care about user privacy, do NOT use Facebook JS SDK [Updated]	https://simplelogin.io/blog/do-not-use-facebook-sdk/
+Sat, 19 Dec 2020 00:00:00 +0100	What makes email alias a better alternative to email plus sign (+)	https://simplelogin.io/blog/email-alias-vs-plus-sign/
+Sun, 06 Dec 2020 00:00:00 +0100	Revert reverse-alias generation algorithm	https://simplelogin.io/blog/reverse-alias/
+Wed, 19 Aug 2020 15:13:42 +0100	What happened on August 11 and what we've learned	https://simplelogin.io/blog/august-11/
+Thu, 07 May 2020 10:13:42 +0100	Introducing SimpleLogin Android and iOS app	https://simplelogin.io/blog/mobile/
+Wed, 22 Apr 2020 22:13:42 +0200	Updated Privacy Policy	https://simplelogin.io/blog/new-privacy-policy/
+Thu, 19 Mar 2020 15:13:42 +0100	Introducing PGP	https://simplelogin.io/blog/introducing-pgp/
+Thu, 27 Feb 2020 10:13:42 +0100	Introducing Mailboxes	https://simplelogin.io/blog/introducing-mailbox/
+Mon, 17 Feb 2020 10:13:42 +0100	We decided to leave AWS	https://simplelogin.io/blog/we-left-aws/
+Wed, 05 Feb 2020 10:13:42 +0100	Introducing SimpleLogin Safari extension	https://simplelogin.io/blog/safari-extension/
+Fri, 31 Jan 2020 10:13:42 +0100	Spamgourmet, an inspiration for SimpleLogin	https://simplelogin.io/blog/spamgourmet/
+Tue, 14 Jan 2020 11:13:42 +0100	Introducing Alias Directory | Why it's better than Username	https://simplelogin.io/blog/alias-directory/
+Sun, 15 Dec 2019 11:13:42 +0100	We should have a different email for each website	https://simplelogin.io/blog/an-email-for-each-website/
+Fri, 13 Sep 2019 10:10:42 +0100	Why you shouldn't create your own authentication system	https://simplelogin.io/blog/do-not-create-own-auth-system/

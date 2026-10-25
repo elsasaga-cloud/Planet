@@ -1,108 +1,194 @@
-# SB-1093 uplinker.ru · home · https://uplinker.ru/ · fetched 2026-10-25T07:41:18Z · HTTP 200
-ЛИНКЕР продажа телекоммуникационного оборудования UPLINK - оптические трансиверы
-Каталог
-Медиаконвертеры
-Медиаконвертеры SDI
-Ethernet-медиаконвертеры
-Серверы
-SuperMicro
-Коммутаторы
-Коммутаторы DCN
-Карты DCN
-Блоки питания DCN
-Трансиверы
-xPON Трансиверы
-800G Трансиверы
-400G Трансиверы
-200G Трансиверы
-100G QSFP28 Трансиверы
-400G/200G/100G CFP2 Трансиверы
-100G CFP Трансиверы
-40G QSFP+ Трансиверы
-25G SFP28 Трансиверы
-10G/16G/8G SFP+ Трансиверы
-10G XFP Трансиверы
-1G/2G/4G/SDH SFP Трансиверы
-Конвертеры интерфейсов
-DWDM оборудование
-EDFA DWDM усилители
-Измерители оптической мощности DWDM
-DWDM мультиплексоры
-DWDM оптические фильтры
-DCM компенсаторы дисперсии
-CWDM оборудование
-CWDM мультиплексоры
-CWDM оптические фильтры
-Измерители оптической мощности CWDM
-CATV оборудование
-Оптические фильтры для сетей КТВ
-EDFA CATV усилители
-CATV передатчики
-AOC/DAC кабели
-400G QSFP-DD to QSFP-DD
-100G QSFP28 to QSFP28
-56G QSFP+ to QSFP+
-40G QSFP to QSFP
-25G SFP28 to SFP28
-10G SFP+ to SFP+
-10G XFP to XFP
-10G SFP+ to XFP
-Hydra cables
-Оптические мультиплексоры PDH
-Модульные платформы
-Шасси 1/2/3/5/10 Unit
-Оптические Транспондеры
-Карта управления
-Оптические переключатели (OLP/By-pass)
-Мультиплексоры
-DCC компенсаторы дисперсии
-Усилители EDFA (Booster/Pre-amp/Line-Amp)
-Служебный канал OSC
-Карта GPON
-Оптические компоненты
-Адаптеры оптические
-Аксессуары
-Аттенюаторы оптические
-xPON Оборудование
-Абонентские модемы EPON ONT
-Абонентские модемы GPON ONT
-Оптические фильтры для сетей PON
-Станционные коммутаторы EPON OLT
-Оптические делители PLC/FBT
-Планарные PLC
-Сварные FBT
-Кабельная продукция
-MPO/MTP шнуры оптические
-SX/DX шнуры оптические
-Пигтейлы оптические
-Оптические сборки
-Кабель оптический
-Стойки, шкафы, кроссы
-Шкафы
-Кроссы стоечные
-Кроссы настенные
-Компоненты LGX
-Компоненты MPO
-Аксессуары
-СКС
-Cat5e/Cat6/Cat6e/Cat7
-Органайзеры
-Измерительное оборудование
-Инструмент
-О нас
-Контакты
-Прайс-лист
-✔
-ООО «ЛИНКЕР» продажа телекоммуникационного оборудования
-Оптические трансиверы UPLINK для любых задач
-Компания ООО «ЛИНКЕР», основанная в 2018 году, является ведущим поставщиком волоконно-оптических трансиверов под торговой маркой UPLINK на российский и европейский рынки. ООО «ЛИНКЕР» занимается поставками обширного портфеля высокопроизводительных оптических трансиверов и компонентов для различных приложений информационно-коммуникационные технологий, таких как дата-центры, телекоммуникационные сети (FTTx, LTE и передача данных), системы безопасности, и т. д. Нашей продукции доверяет более 300 клиентов в России и странах Европы.
-Под маркой UPLINK мы предлагаем широчайший в отрасли ассортимент приёмопередающих модулей с качеством и надёжностью мирового класса, отлаженное взаимодействие закупок, производства и логистики позволяет нам поставлять волоконно-оптические трансиверы в больших объёмах любых форм-факторов: SFP, XFP, SFP+, QSFP+, QSFP28, QSFP112, QSFP-DD, OSFP, SFP28, XENPAK, X2, CFP, CFP2, SFP для систем EPON, GPON, GEPON.
-Мультиплексоры CWDM / DWDM для Ваших задач с любыми длинами волн, в любой конфигурации и в любом корпусе
-Мы изготовим мультиплексоры согласно Вашему техническому заданию, с соблюдением всех Ваших пожеланий по конфигурации частотного уплотнения, по видам и расположению оптических портов, форм-фактору корпуса и так далее. Выходной контроль качества гарантирует соблюдение производственного регламента, технических параметров и долгую безотказную работу изделия. При производстве мультиплексоров мы используем комплектующие только от нашего контрактного проверенного производителя, что гарантирует низкие вносимые потери, высокую стабильность работы и низкую стоимость. Покупайте мультиплексоры марки UPLINK для систем уплотнения CWDM и DWDM!
-Оптические шнуры любой конфигурации
-Мы поставляем волоконно-оптические шнуры (патч-корды, пиг-тейлы) любой конфигурации: с одномодовым и многомодовым волокном, симплекс и дуплекс, 8ми-, 12ти- и 24х-волоконные, патч-корды и пигтейлы, гидры и loopback; с различными видами коннекторов: FC, SC, LC, ST, E2000, MPO-8, MPO-12, MPO-24, CS и SN, а также с различными типами полировки: UPC и APC.
-Copyright © 2009-2026 UPLINK LTD. Все права защищены
-Товар добавлен в корзину
-2 987 руб.
-Модуль оптический UpLink CWDM-SFP+-10G-14-29
-Перейти к оформлению
+# SB-1093 vercoma.nl · home · https://www.vercoma.nl/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+Vercoma | Geavanceerde Deurcommunicatie & Toegangsbeheer
+Onze producten
+Deurcommunicatie
+GCloud
+IP G+
+2-draads BUS G2+
+2-draads BUS GTwin
+Kits
+Deuropeners
+Beldrukkers
+Toegangscontrole
+iP-opener
+CCTV
+Professionele NVR systemen
+Basiskits
+Dé intercomoplossing voor elke installateur
+Naar quickscan
+Alles bekijken
+Over Vercoma
+Team Vercoma
+Partners & producten
+Nieuwsbrief
+Algemene leveringsvoorwaarden
+Privacy Statement (AVG)
+Dé intercomoplossing voor elke installateur
+Naar quickscan
+Alles bekijken
+Voor wie?
+VvE's
+Architecten en adviesbureaus
+Woningcorporaties
+Elektrotechnische installatiebedrijven
+Dé intercomoplossing voor elke installateur
+Naar quickscan
+Alles bekijken
+Service
+Schema's, handleidingen en maatvoeringen
+BIM Modellen
+Word GOLMAR specialist, volg een gratis training!
+Retouren
+Support
+Projectbegeleiding
+Support op afstand
+Support bestaande Beoview installaties
+Dé intercomoplossing voor elke installateur
+Naar quickscan
+Alles bekijken
+Projecten
+Jobs
+Inloggen
+Registreren
+Adviesgesprek
+Onze producten
+Deurcommunicatie
+GCloud
+IP G+
+2-draads BUS G2+
+2-draads BUS GTwin
+Kits
+Deuropeners
+Beldrukkers
+Toegangscontrole
+iP-opener
+CCTV
+Professionele NVR systemen
+Basiskits
+Over Vercoma
+Team Vercoma
+Partners & producten
+Nieuwsbrief
+Algemene leveringsvoorwaarden
+Privacy Statement (AVG)
+Voor wie?
+VvE's
+Architecten en adviesbureaus
+Woningcorporaties
+Elektrotechnische installatiebedrijven
+Service
+Schema's, handleidingen en maatvoeringen
+BIM Modellen
+Word GOLMAR specialist, volg een gratis training!
+Retouren
+Support
+Projectbegeleiding
+Support op afstand
+Support bestaande Beoview installaties
+Projecten
+Jobs
+Welkom bij Vercoma
+Al bijna 50 jaar dé intercomspecialist.
+Adviesgesprek
+Of
+Bel mij terug
+Dé intercomoplossing voor elke installateur Vraag een quickscan aan
+Deurcommunicatie
+In IP G+ | 2-draads BUS G2+ | G-Cloud | 2-draads BUS GTwin , | Kits | Beldrukkers | Deuropeners
+Toegangscontrole
+Proximity [bluetooth] met beheer in de cloud | Keypads
+CCTV
+Schaalbaar | Basis kits | Professionele NVR systemen
+Slimme intercom- en toegangscontrole voor elk gebouw.
+Van installatie tot onderhoud: wij bieden innovatieve, betrouwbare en eenvoudig te plaatsen systemen voor installateurs, architecten, woningcorporaties en VvE’s.
+Ontdek onze oplossingen
+Elektrotechnische installatiebedrijven
+Architecten & Adviesbureaus
+Woningcorporaties
+VvE’s & VvE beheerders
+Onze projecten
+Alle projecten
+Thús in Barrahûs
+Naar project
+Hoeverijk te Nieuwegein
+Naar project
+Schakelflats IJsselveld
+Naar project
+Circusterrein Hilversum
+Naar project
+Project Up North | Amsterdam Noord
+Naar project
+Dreef Residential Tower | Amsterdam
+Naar project
+Acht Oan de Diken – Buitenpost (Friesland)
+Naar project
+Amsterdam Zuid | Marathonweg & Hygiëaplein
+Naar project
+Bel mij terug
+Vul dit formulier in en wij nemen zo spoedig mogelijk contact met u op.
+Bedrijfsnaam
+Naam
+Telefoonnummer
+Velden met een * zijn verplicht
+Verzenden
+Sinds 1978 dé specialist in intercom & toegangscontrole.
+Wij leveren innovatieve en solide oplossingen voor nieuwbouw en renovatie. Inclusief technische ondersteuning en langdurige beschikbaarheid van onderdelen.
+Ontdek onze oplossingen
+"G2+" houdt mensen verbonden
+Met trots presenteren wij u onze nieuwe brochure over de G2+ techniek!
+Verder lezen
+TCP/IP PROTOCOL SYSTEEM Eindeloze mogelijkheden
+Hoge capaciteit, veelzijdigheid en integratie
+Verder lezen
+Onze producten
+Golmar systemen
+Deurcommunicatie Systemen
+Deurcommunicatie Kits
+Toegangscontrole
+Beldrukkers
+CCTV
+Deuropeners
+Over Vercoma
+Over ons
+Contact
+Projecten
+Service
+Trainingen
+Nieuws
+Contact
++ 31 (0)75 6 21 76 28
+[email protected]
+© Vercoma Communicatie Systemen B.V. 2026 Sitemap Cookies
+Inloggen
+Gebruikersnaam
+Wachtwoord Wachtwoord vergeten
+Ingelogd blijven
+Inloggen
+Geen klant? Naar registreren
+LET OP!
+Vercoma heeft een vernieuwd klantportal!
+De klantportal heeft een vernieuwd design, verbeterde features en u kunt nu eenvoudig inloggen met uw bij ons geregistreerde e-mailadres en wachtwoord .
+inloggen
+wachtwoord
+vergeten
+Zoek op artikelnaam of omschrijving
+Zoeken
+Dit venster sluiten
+Cookie-voorkeuren
+Wij gebruiken onze eigen cookies en cookies van derden voor advertentie personalisatie, statistische en analytische doeleinden om u de beste ervaring op onze website te bieden.
+Meer informatie vindt u in ons cookiebeleid
+Alle cookies accepteren
+Cookie instellingen
+Wij geven om uw privacy
+U kunt uw cookie-voorkeuren instellen door de verschillende hieronder beschreven cookies te accepteren of te weigeren
+Noodzakelijk
+Noodzakelijke cookies helpen een website bruikbaarder te maken door basisfuncties zoals paginanavigatie en toegang tot beveiligde delen van de website mogelijk te maken. Zonder deze cookies kan de website niet goed functioneren.
+Vereist
+Voorkeuren
+Met voorkeurscookies kan een website informatie onthouden die de manier verandert waarop de website zich gedraagt of eruit ziet, zoals uw voorkeurstaal of de regio waarin u zich bevindt.
+Statistieken
+Statistische cookies helpen website-eigenaren te begrijpen hoe bezoekers omgaan met websites door anoniem informatie te verzamelen en te rapporteren.
+Marketing
+Marketingcookies worden gebruikt om bezoekers op verschillende websites te volgen. Het is de bedoeling advertenties weer te geven die relevant en aantrekkelijk zijn voor de individuele gebruiker en daardoor waardevoller voor uitgevers en externe adverteerders.
+Alle cookies accepteren
+Voorkeuren bevestigen

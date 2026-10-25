@@ -1,223 +1,252 @@
-# SB-831 fossfibreoptics.com · news_1 · https://www.fossfibreoptics.com/news · fetched 2026-10-25T07:41:18Z · HTTP 200
-News & Articles | Fiber Optic Insights, Product Updates & Company News | Foss
-Skip to main content
-To top
-Card payment
-International Shipping
-Customer Service
-Norwegian website
-|
-Contact us
-Language
-English
-Slovak
-German
+# SB-831 actelis.com · news_1 · https://actelis.com/support/actelis-publications/articles/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+Articles & Blog Posts Archives | Actelis Networks
+Skip to content
+info@actelis.com
+My Actelis
+Log In
+Menu
+My Actelis
+Log In
+Industries
+Intelligent Traffic Systems
+Anticipate & fast reaction to Incidents city-wide
+IoT-enabled Sites & Campuses
+Unlocking connectivity hidden in airport, factory, hospital & campus networks
+Smart Rail
+Transform existing rail communications Infrastructure
+Utilities
+Secure, responsive, energy, oil, gas and water communication networks
+Multi-Dwelling Units
+Instant, Gigabit broadband connectivity without building rewiring
+Smart City
+Secure, business-friendly
+connected cities & communities
+Military
+Oversight, awareness, security, fast response for military facilities
+Providers
+Connectivity For Apartments
+Immediate Gigabit connectivity with no building rewiring
+Business Ethernet Connectivity
+Making Business-Class Ethernet possible to millions of new locations
+Residential Broadband
+High-Speed Internet in previously unreached Single and Multi-dwelling Home Locations
+Backhaul Services
+Integrating Industry, IIoT, City and campus Wi-Fi and Fiber-extension backhaul
+Products
+Product Solutions Overview
+By Type
+Solutions Portfolio Overview
+Ethernet Switches
+All Ethernet Switches
+Fiber Optic Switches
+Power over Ethernet Switches
+10 Gigabit Ethernet Switches
+Layer 3 Network Switches
+View by Port Density
+Cybersecurity
+Security & Encryption
+Broadband Amplifiers
+Repeaters
+Enclosures
+Management
+By Technology
+Fiber
+G.fast
+G.hn
+G.SHDSL
+VDSL2, ADSL2+/ADSL2/ADSL
+Product Listing - GigaLine
+GL800 Multi-Gig Hybrid-Fiber
+GL900 Fiber Extender/Splitter
+GL5010 Gigabit DIN Rail Switch
+GL5020 Gigabit DIN Rail Switch
+GL5030 Gigabit DIN Rail Switch
+GL5060 Gigabit DIN Rail Switch
+GL5070 Gigabit DIN Rail Switch
+GL5080 Gigabit DIN Rail Switch
+GL6010 Gigabit Rackmount Switch
+GL6030 Gigabit Rackmount Switch
+GL6040 Gigabit Rackmount Switch
+GL7000 In-Pole Connectivity Switch
+GL9110C PON Extender G.hn Aggregator
+GL9104C PON Extender G.hn Aggregator
+Product Listing - Other Products
+ADSL Broadband Amplifier
+VDSL Broadband Amplifier
+XR239/PFU-8 Repeaters
+EAD/NTU Enclosures
+Product Listing - Cybersecurity
+MetaShield Asset Intelligence & Threat Detection
+Product Listing - MetaLIGHT
+ML230 Compact Ethernet Aggregator
+ML510D-ML5114D/P Gigabit DIN Rail Switch
+ML540E Gigabit Rackmount Switch
+ML540M Gigabit Rackmount Switch
+ML600 Hybrid Fiber-Copper Series
+ML650SV Gigabit Fiber Switch
+ML680D Gigabit DIN Rail Switch
+ML684D Gigabit Hybrid-Fiber DIN Rail Switch
+ML700 Hybrid Fiber-Copper Rackmount
+ML690E/ES/EN/EL Hybrid Mini Aggregator
+ML2300 Aggregation Switch
+ML2300N Hybrid Mini Aggregator
+Technology
+Broadband Technologies
+Fiber Optics
+G.fast
+G.hn
+G.SHDSL and VDSL2
+Cross Talk
+DSL Analog Amplification and Regeneration
+Enhanced System Level Security
+Triple Shield Security
+Ethernet Networking
+Ethernet in the First Mile (EFM)
+Carrier Ethernet 2.0
+Ethernet OAM
+Cybersecurity
+MetaShield Asset Intelligence & Threat Detection
+Performance Enhancement
+EFM plus
+Symmetrical Vectoring (DRB)
+DSS
+Coordinated Calibration
+Broadband Amplifiers
+Support
+Actelis Publications
+Case Studies
+Articles & Blog Posts
+Resource Library
+My Actelis – Home
+My Actelis – Register
+Technical Documentation
+Training Webinars
+Data Sheets
+Performance Calculators
+Product Downloads
+Service and Support
+Support Contact Details
+Education
+Maintenance Services
+Professional Services
 Company
-Favourites
-Log in
-Amount
-All products
+About Actelis
+Why we exist and the difference we make for our customers
 News
+Actelis new customers, applications and product introductions
+Events
+Come visit Actelis at shows and conferences worldwide
+Leadership
+What Actelis leadership team brings to your organization
+Careers
+Opportunties to make a difference to the future of networking
+Investors
+Join us in enabling cyber hardened solutions for IoT
+Contact Us
+Getting started on how Actelis can help you
+Search
+Close
+Contact Us
+Articles & Blog Posts
+Home >
+Actelis News & Publications >
+Articles & Blog Posts
+Comparative Analysis of G.hn and MoCA 2.5 for Broadband Access Networks
+Evaluating Coaxial Infrastructure Solutions in Multi-Dwelling and Brownfield Environments Published December 7, 2025 Executive Summary The reutilization of existing coaxial infrastructure for gigabit broadband access is increasingly appealing in multi-dwelling…
+Continue Reading Comparative Analysis of G.hn and MoCA 2.5 for Broadband Access Networks
+How Actelis’ Cyber Aware Networking Could Change the Game for IoT Security and Redefine the Future of Connected Systems
+Source: How Actelis’ Cyber Aware Networking Could Change the Game for IoT Security and Redefine the Future of Connected Systems (INFOTECH MAG) Published September 9, 2024 In today’s rapidly digitizing…
+Continue Reading How Actelis’ Cyber Aware Networking Could Change the Game for IoT Security and Redefine the Future of Connected Systems
+The Interplay Of IoT And Critical Infrastructure Security
+Author: David Balaban Source: The Interplay Of IoT And Critical Infrastructure Security (forbes.com) Published July 14, 2024 When it comes to technology, what seemed to be science fiction several decades…
+Continue Reading The Interplay Of IoT And Critical Infrastructure Security
+Connectivity – The Backbone of Safer Roadways
+Published January 4, 2024 The Governers Highway Safety Association (GHSA), in conjunction with State Farm, has released a new report about the efficiency of automated enforcement (AE) in increasing safety…
+Continue Reading Connectivity – The Backbone of Safer Roadways
+Phase Two of Fiber Transformation
+Starts Now
+By Tom Starr and Mark Fishburn
+Featured in Nov/Dec 2022 issue of ISE Magazine. www.isemag.com Reprinted with permission
+Continue Reading Phase Two of Fiber Transformation
+Starts Now
+Five FTTH Myths
+Fiber-to-the-Extension-Point (FTTep) Delivers Gigabit Alternative By Tom Starr Fiber-to-the-Home (FTTH) has become so popular that many policy makers, regulators, and service providers believe that FTTH is the only way to…
+Continue Reading Five FTTH Myths
+A Better Quality of Life with ITS, IoT, Smart Applications Driven by Hybrid Fiber-Copper
+Innovations in Intelligent Traffic Systems (ITS), IoT, and smart applications are challenging existing infrastructure. This article will discuss these challenges and their potential solutions. As rapid urbanization occurs, transportation authorities…
+Continue Reading A Better Quality of Life with ITS, IoT, Smart Applications Driven by Hybrid Fiber-Copper
+1
+2
+3
+Go to the next page
+Industries
+Intelligent Traffic Systems
+Smart Rail
+Smart City
+IoT - Sites & Campuses
+Utilities
+Military
+Providers
+Business Ethernet
+Residential Broadband
+Backhaul Services
+Products & Support
+Products
+Technology
+Support
 Company
-Fiber optic systems
-Fiber racks/cabinets
-Rack
-Accessories
-Data Cabinets
-Fiber Panels
-Fiber patch panels
-Modular panels
-Splitters installed in panels/modules
-xWDM installed in panels/modular
-Accessories for panels
-Patch cords
-Pigtails
-Fiber optic Patch cords
-Subscriber cable
-Master patch cords
-Fiber optic cables
-Cables
-Terminated cable
-Tactical cable
-Industry/offshore
-Cable management frame
-Foss wall boxes
-Flexi wall box
-Wall box
-Wall box DIN
-Wall cabinet 24
-Trunk and wall outlet
-MPO
-Terminated cable with MPO
-Fan-Out with MPO
-Panels and modules with MPO
-Wall box DIN Mini with MPO
-Cable management frame
-Rugged Fiber
-Ruggedized connectors
-ProBeam-series
-D38999
-IP-series
-HARTING Han
-Hawke-series
-MPO-PLUS Bayonet Connector
-MPO Field connector
-LC Field-connector
-UAV SPOOL
-Cables for harsh environment
-Tactical cable
-Industry/offshore
-Pre-terminated cable
-Cable reel
-Rotary joint
-Foss Data Center systems
-Data Cabinets
-Accessories for cabinets
-Patch Cable
-Duplex patch cords UniBoot
-Fiber patch panels
-Copper trunk cables
-MPO
-Terminated cable with MPO
-Fan-Out with MPO
-Panels and modules with MPO
-Wall box DIN Mini with MPO
-Plug & play solutions
-Pre-terminated cable
-Terminated cable with MPO
-Fan-Out with MPO
-Panels and modules with MPO
-Wall box DIN Mini with MPO
-Other fiber products
-Splice box
-Splice closures - CommScope
-Cable management frame
-Instruments
-Measuring
-Polishing Machine
-Measurement/inspection equipment
-Fiber Sensing
-Components
-Splitters
-CWDM Components
-Electronics
-Network Electronics
-Transceivers
-Tools
-Toggle navigation
-Language
-English
-Slovak
-German
-Toggle navigation
-Company
+About Actelis
 News
-Production at Foss
-Contact us
-Sale and delivery conditions
-Data protection policy
-For Slovakia and Czech Republic
-NEWS AND ARTICLES
-VIAVI DAS Fiber optic sensing – Intelligent border protection
-Protecting national borders requires reliable monitoring across large, remote and often difficult-to-access areas. Traditional surveillance cameras and physical patrols can have limitations in these environments. Distributed fiber optic sensing provides an additional layer of security by detecting activity along extensive sections of protected infrastructure.
-Read more
-Foss Presents VIAVI DAS Technology at MICOS TELCOM event
-On October 15, FOSS participated in an event hosted by MICOS TELCOM s.r.o., where we presented VIAVI's Distributed Acoustic Sensing (DAS) technology.
-Read more
-A Revolution in Tactical Communications: Why the Modern Battlefield Relies on Fiber
-Modern military operations are undergoing a fundamental transformation. The widespread use of electronic warfare (EW) and continuous surveillance by unmanned systems place increasing demands on reliable and secure communication. Traditional radio communication can be vulnerable to detection, interference and jamming, making tactical fiber optic solutions an increasingly important part of modern defence infrastructure.
-Read more
-Production at Foss – From Concept to Fully Tested Product
-Production at Foss – From Concept to Fully Tested Product Foss has production facilities in both Norway and Slovakia. Here, modern production technology, experienced operators, components from leading manufacturers and our own expertise in termination, assembly, testing and product development come together.
-Read more
-Foss Certified for MMC connector and TMT ferrule termination and assembly
-Foss Fibre Optics has achieved US Conec certification for MMC Connector and TMT Ferrule termination and assembly, strengthening our in-house capabilities for high-density fiber optic solutions.
-Read more
-Hawke – fiber optic connectors for hazardous areas
-Hawke is a British manufacturer of connectivity solutions designed for harsh and hazardous environments. The company is particularly known for cable glands, enclosures and rugged connector systems used in industries such as oil and gas, offshore and process industries.
-Read more
-HARTING – rugged connectors for industrial environments
-HARTING is a leading global manufacturer of industrial connectivity solutions and is particularly well known for its Han® range of rugged, modular industrial connectors.
-Read more
-OCC – tactical fiber optic cable for harsh environments
-Optical Cable Corporation (OCC) is a US manufacturer of fiber optic cable and connectivity solutions, with particular expertise in rugged tactical cables for military, industrial and other harsh-environment applications.
-Read more
-TE Connectivity – rugged fiber, copper and hybrid connectivity
-TE Connectivity is a global manufacturer of connectivity and sensor solutions for industries including industrial, transportation, energy, data centers, aerospace and defense.
-Read more
-Distributed Acoustic Sensing (DAS) – Transforming optical fiber into an intelligent sensing system
-Distributed Acoustic Sensing (DAS) transforms a standard optical fiber into a continuous array of thousands of virtual sensors. By detecting vibrations and acoustic events along the fiber, DAS provides real-time monitoring of critical infrastructure, enabling early event detection, enhanced security, and improved operational awareness across distances of tens of kilometers.
-Read more
-Foss hosts delegation from the Slovak Ministry of Defence
-Foss Fibre Optics recently welcomed representatives from the Slovak Ministry of Defence and the Association of Critical Infrastructure of the Slovak Republic (AKI) to discuss advanced fiber optic technologies for critical infrastructure protection, including the growing potential of Distributed Acoustic Sensing (DAS).
-Read more
-Connectors - Ferrule Geometry
-Most connectors used today have a zirconia ferrule. The diameter of this ferrule is 2.5 mm or 1.25 mm.
-Read more
-Foss at the DRONX Conference
-On 18th March 2026, the DRONYX conference, focused on modern drone and anti-drone technologies, was held as part of the Ampér exhibition.
-Read more
-Foss Fiber Optics Participates in India–Slovakia Defence Industry Hybrid Seminar
-Foss Fibre Optics took part in the India–Slovakia Defence Industry Hybrid Seminar held on March 11, 2026. The event brought together companies from both countries to present their technologies and explore opportunities for cooperation in the defence sector.
-Read more
-Training at 3M: Expanded Beam Optical 3M™ EBO Connector
-Members of the Foss Fiber Optics team in Slovakia recently participated in specialized training at 3M, focused on the Expanded Beam Optical 3M™ EBO Optical Interconnect solution. The training gives Foss the competence to assemble and deliver these advanced connectors directly from our own production.
-Read more
-Foss Fibre Optics Presented at Enforce Tac 2026
-Foss Fibre Optics participated in the Enforce Tac exhibition in Nuremberg, Germany, where the company presented its latest fiber optic solutions for tactical and defense applications. The event provided an opportunity to showcase specialized technologies for military and security environments to an international audience.
-Read more
-Wall box DIN Mini (FPD66)
-FPD66 is a compact wall box for DIN rail and wall mounting of fiber optic cables. Despite its modest dimensions, the box is designed to maintain the correct fiber bend radius and provide enough working space for installers. For easier installation and service, both the lid and the adapter plate can be removed.
-Read more
-Foss successfully completes circuit integrity test according to Metro curve (750°C)
-Foss has once again demonstrated the reliability of its DB4678 fiber optic cables by successfully completing circuit integrity testing in combination with the KOPOS cable support system. The test was conducted under demanding fire conditions following the Metro curve (750°C), confirming the system’s performance in critical environments.
-Read more
-Presentation at the Event: The Future of Wireless Microphones – The Next Level
-On February 11, 2026, the Foss team took part in an event hosted by G‑Tec Professional s.r.o., a company specializing in the sale, installation, and service of professional audio equipment.
-Read more
-Wall Box Flexi
-Wall Box Flexi from Foss Fiberoptikk is designed to make fiber installation easier, faster, and more adaptable – whether for small residential setups or larger professional applications. The box has a modular structure, allowing you to tailor it to your needs, whether installing a single unit or building a larger combination of modules.
-Read more
-IP-J connector for direct connection to RRU
-FOSS offers products based on the SENKO IP-J connector. The connector is designed for outdoor applications and has an IP67 rating. The connector is used for direct connection to RRU (Remote Radio Unit), or other devices with a direct connection to the SFP module.
-Read more
-MPO-PLUS® Bayonet Connector
-FOSS offers assembly based on SENKO’s MPO-PLUS® Bayonet connector. Connector offers unique bayonet locking mechanism. Connector offers ideal solution for all limited space application as on-board optics.
-Read more
-MPO Field fiber optic connector
-Amphenol MPO Field connector offers an easy system to upgrade a standard MPO connector to an harsh environment MPO.
-Read more
-LC Field fiber optic connector
-Amphenol LC Field offers a simple system to convert a standard LC connector to a connector for harsh environments.
-Read more
-FOSS Slovakia is a member of Critical Infrastructure Association of the Slovak Republic
-Read more
-Conversion of ARINC 801 termini to LC Plug
-FOSS offers products based on ARINC 801 termination with the option of conversion to LC connector using LC-T801 receptacle
-Read more
-FOSS Expanded Beam to LC Adapters Receptacle
-Receptacle can be connected directly onto the MIL-DTL-83526 Expanded Beam Plug , and can be therefore used as a quick tool to change the expanded beam port to LC port, by using standard military tactical cables
-Read more
-OFC Conference 2025
-Foss team attended the OFC Conference 30th March to 3th April 2025 in Moscone Convention Center in San Francisco, USA
-Read more
-Data Centres - Overview
-A data centre is a physical space that houses the hardware and computing systems that support a business' digital activity. Data centres store critical data and applications, such as email, databases, and customer relationship management (CRM) systems.
-Read more
-Reliable fiber optic solutions for safety and communication in the transport sector
-Roads and railways place great demands on the network's reliability. The fiber optic equipment must withstand both mechanical stress an large temperature variations. This can make standard materials unsuitable.
-Read more
-High quality products designed for extreme environments
-Rough maritime environments require products with uncompromising quality. Wet and salty environments with mechanical stress and large temperature variations can make standard materials unsuitable. The products must also be easy to install and maintain.
-Read more
-Robust fiber optics solutions for industrial use
-Industrial environments place great demands on equipment. Both mechanical stress and large temperature variations can make standard materials unsuitable.
-Read more
-Rugged fiber optic solutions for defense and harsh environments
-Reliable communication is critical in defense, offshore, industrial and field applications. In these environments, fiber optic systems must withstand repeated handling, moisture, dust, temperature variations and mechanical stress.
-Read more
-Indoor pre-assembled cables LC uniboot to LC uniboot
-Our company Foss Fibre Optics s.r.o. has successfully implemented a system based on pre-terminated cables with LC uniboot connectors for local data centers.
-Read more
-Visit and Training at TE Connectivity
-On October 15th, a group from our production team in Norway had the unique opportunity to
+Events
+Leadership
+Investors
+Careers
+Contact
+Terms of Use
+Privacy Policy
+Facebook
+Twitter
+Linkedin
+Youtube
+©2025 Actelis Networks®, Inc. All Rights Reserved
+We use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits. By clicking “Accept All”, you consent to the use of ALL the cookies. However, you may visit "Cookie Settings" to provide a controlled consent.
+Cookie Settings Accept All
+Manage consent
+Close
+Privacy Overview
+This website uses cookies to improve your experience while you navigate through the website. Out of these, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may affect your browsing experience.
+Necessary
+Always Enabled
+Necessary cookies are absolutely essential for the website to function properly. These cookies ensure basic functionalities and security features of the website, anonymously.
+Cookie
+Duration
+Description
+cookielawinfo-checkbox-analytics
+11 months
+This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Analytics".
+cookielawinfo-checkbox-functional
+11 months
+The cookie is set by GDPR cookie consent to record the user consent for the cookies in the category "Functional".
+cookielawinfo-checkbox-necessary
+11 months
+This cookie is set by GDPR Cookie Consent plugin. The cookies is used to store the user consent for the cookies in the category "Necessary".
+cookielawinfo-checkbox-others
+11 months
+This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Other.
+cookielawinfo-checkbox-performance
+11 months
+This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Performance".
+viewed_cookie_policy
+11 months
+The cookie is set by the GDPR Cookie Consent plugin and is used to store whether or not user has consented to the use of cookies. It does not store any personal data.
+Functional
+Functional cookies help to perform certain functionalities like sharing the content of the website on social media platforms, collect feedbacks, and other third-party features.
+Performance
+Performance cookies are used to understand and analyze the key performance indexes of the website which helps in delivering a better user experience for the visitors.
+Analytics
+Analytical cookies are used to understand how visitors interact with the website. These cookies help provide information on metrics the number of visitors, bounce rate, traffic source, etc.
+Advertisement
+Advertisement cookies are used to provide visitors with relevant ads and marketing campaigns. These cookies track visitors across websites and collect information to provide customized ads.
+Others
+Other uncategorized cookies are those that are being analyzed and have not been classified into a category as yet.
+SAVE & ACCEPT

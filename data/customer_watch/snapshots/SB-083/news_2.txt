@@ -1,107 +1,202 @@
-# SB-083 dci.jp · news_2 · https://dci.jp/news/exhibition072026 · fetched 2026-10-25T07:41:18Z · HTTP 200
-7月開催展示会【JANOG58】【ケーブル技術ショー2026】に出展します。 | データコントロルズ株式会社
-コンテンツへスキップ
-ナビゲーションに移動
-データコントロルズは光通信、運輸、情報、エネルギーのネットワークインフラのメディア変換製品の設計・開発・販売をトータルサポート
-ご購入方法
-よくある質問
-採用情報
-Webショップ
-お問い合わせ
-製品紹介
-OSFP/QSFP/SFP＋/SFP（2芯/BIDI/CWDM/DWDM）
-メディアコンバータ
-400/200/100G DWDM伝送プラットフォーム：DCOTNシリーズ
-マルチプラットフォーム FRM220シリーズ
-WDM マルチプロトコルリピータ：DCWDM2108 /DCWDM2108H
-高密度10G/100G対応OT8200シリーズ
-1G/10G 超コンパクトメディアコンバータ：MMCシリーズ
-40G~100G
-10~16Gbps
-1G~4Gbps
-ファストイーサネット(10/100Mbps)
-イーサネット(10Mbps)
-VDSLコンバータ
-光モデム
-産業用イーサネット
-イーサネットスイッチ
-WDMフィルター/EDFAアンプ
-PoE
-光ケーブル
-光アダプタ/プラグ
-測定機器/テスター
-EOL 販売終了
-トピックス
-会社概要
-検証機器の貸出
-サポート
-無償保証
-センドバック修理サービス１年パック、５年パック(有償)
-スポットセンドバック修理サービス(有償)
-製品資料
-ＨＯＭＥ
-トピックス
-NEWS
-7月開催展示会【JANOG58】【ケーブル技術ショー2026】に出展します。
-トピックス
-7月開催展示会【JANOG58】【ケーブル技術ショー2026】に出展します。
-2026年6月18日
-最終更新日時 :
-2026年6月19日
-dci
-7月に開催される展示会に出展します。
-JANOG58
-ネットワークの最前線を支える技術者たちが集結。
-国内有数のネットワークコミュニティイベントで最新ソリューションをご紹介します。
-名称： JANOG58
-会期：2026年7月15日(水)～17日(金)
-会場：愛媛県県民文化会館[ 会場へのアクセス ]
-ケーブル技術ショー2026
-地域をつなぐ通信インフラの未来がここに。
-CATV・放送・通信業界の最新技術が集まる展示会に出展します。
-名称： ケーブル技術ショー2026
-小間番号： B-04
-会期：2026年7月23日（木）10時～18時　～　7月24日（金）10時～17時
-オンライン開催：2026年6月23日（火）～9月9日（金）
-会場： 東京国際フォーラム 　ホールE[ 館内マップ ]
-[ 事前登録はこちら ]
-────────────────
-カテゴリー
-NEWS
-前の記事
-Interop2026に出展いたします
-2026年5月12日
-次の記事
-【重要】Yahoo!ショッピングのストア閉店のお知らせ
-2026年8月31日
-ご購入方法
-会社概要
-プライバシーポリシー
-Copyright (C) Data Controls Inc. All Rights Reserved.
-MENU
-ＨＯＭＥ
-製品紹介
-OSFP/QSFP/SFP＋/SFP（2芯/BIDI/CWDM/DWDM）
-メディアコンバータ
-産業用イーサネット
-イーサネットスイッチ
-WDMフィルター/EDFAアンプ
-PoE
-光ケーブル
-光アダプタ/プラグ
-測定器/テスター
-EOL 販売終了
-トピックス
-会社概要
-検証機器の貸出
-無償保証
-センドバック修理サービス１年パック、５年パック(有償)
-スポットセンドバック修理サービス(有償)
-サポート
-製品資料
-採用情報
-ご購入方法
-よくある質問
-Webショップ
-お問い合わせ
-トップへ戻る
+# SB-083 MERIT LILIN ENT. CO., LTD. · news_2 · https://meritlilin.com/en/case-studies · fetched 2026-10-25T07:41:18Z · HTTP 200
+LILIN - Case Studies
+Products
+Frontend & Cameras
+AI Smart Cameras
+7-Series / 6-Series Edge AI
+PTZ Cameras
+IMU stabilization / Dual-Spectral
+ToF Sensors
+3D depth sensing technology
+AIDA Frontend Models
+For AI Cameras
+Backend & Systems
+NVR / NAV
+High-capacity recording servers
+X-Path
+Person search and tracking across cameras
+VMS Platform
+Navigator 5.0 management system
+Server-Based AIDA License/Models
+For AI servers
+AI Backend Server
+Video Analytics Server
+Lens, Brackets and Others
+Mounting & Power Supply
+Installation accessories / PoE
+Access Control
+Access Control Integration
+Accessories
+Peripheral Accessories
+TV Wall
+TV Wall Server
+Z7R Flagship Camera
+Built-in latest AI edge computing engine, supporting multi-lane LPR and behavior recognition.
+View Specs
+NDAA & TAA Declaration
+All Products
+Solutions
+By Industry
+Smart Transportation
+LPR / traffic flow / violation detection
+Retail Analytics
+Heatmaps / behavior detection / conversion
+Hotel & Hospitality
+Smart check-in / guest safety
+Factory & Production Line
+Line monitoring / accident prevention
+Casino & Entertainment
+Facial recognition / access control
+By Technology
+Edge LPR Cameras
+Edge-based plate recognition
+AIDA ANPR Software
+ANPR recognition platform
+AI Smart Cameras
+Edge AI detection & analytics
+Law Enforcement
+Violation detection / mobile patrol
+X-Path
+Person search and tracking across cameras
+Featured: Mercedes-Benz
+Seamless vehicle access powered by LILIN LPR
+Read case study
+All Solutions
+Case Studies
+Blog
+Support
+Where to Buy
+Traffic & Storage Calculator
+Camera Resolution Calculator
+Knowledge Base
+DDNS Service
+Remote camera connectivity
+Demo
+Explore LILIN systems online
+Security Advisories
+RMA
+Product repair and return service
+Compatible List
+Check device and accessory compatibility
+GitHub
+AI YOLO Converter Cloud
+Convert your model
+Downloads
+Software & Documents
+Latest Firmware
+Application Software
+Product Catalog PDF
+User Manuals
+Compatibility List
+View All Downloads
+EN
+中
+Case Studies
+How LILIN video solutions are deployed in the field, from airports and light rail to freeway service areas
+Solutions
+Case Studies
+Blog
+Modern Integration of Social Housing
+Combining flexible camera deployment and edge computing to build comprehensive security for modern social housing.
+Parking Surveillance at Nantou Service Area
+High-density camera placement and elevated PTZ coverage let staff search parking incidents by vehicle color, type, or partial plate.
+Dense Deployment and Applications at Songshan Airport
+Densely deploying high-resolution cameras to build seamless perimeter defense at the busy aviation hub.
+Tainan Airport Smart Security System Implementation
+Introducing smart video analytics and central management to upgrade perimeter security for civil airports.
+Security Surveillance Deployment Strategy for Seaside Park
+Overcoming harsh wind and salt-spray environments to deploy reliable, wide-area scenic park surveillance.
+Unattended Surveillance Solutions for Large-Scale Forestry Parks
+Unattended park management via CMS and mobile app, with virtual fencing for people and animals and thermal PTZ cameras for lightless nights.
+AI Surveillance Enhances Safety and Efficiency for Kaohsiung Light Rail
+Integrating AI intrusion detection along light rail tracks and intersections to ensure transit safety.
+Transforming Surveillance Systems in Retail Industry
+Building a centralized VMS platform to consolidate multi-store feeds for operational efficiency and loss prevention.
+Mercedes-Benz's License Plate Recognition Solution
+Tailoring automated access and license plate recognition to elevate guest reception for premium service centers.
+Ecological Monitoring at the Migratory Bird Park
+Using high-power optical zoom and ultra-low-light cameras to remotely monitor migratory birds.
+Efficient Surveillance Deployment at Siraya Scenic Area - Guantian Visitor Center
+Bullet and auto-tracking PTZ cameras feed a CMS video wall, while VMS event indexing speeds up footage retrieval.
+Traffic Flow Control in Rest Area
+Integrating high-accuracy AI traffic analytics to optimize parking flow at a busy highway service area.
+1
+2
+3
+»
+We Create. We Innovate.
+About Us
+Company Introduction
+Made in Taiwan
+Brand Story
+Contact Us
+Global Distributors
+Software Partners
+AI Developer Program
+CSR
+Privacy Policy
+Contact Us
+© 2026 Merit LILIN Co., Ltd. All rights reserved.
+www.meritlilin.com
+Products
+View All
+Frontend & Cameras
+AI Smart Cameras
+PTZ Cameras
+ToF Sensors
+AIDA Frontend Models
+Backend & Systems
+NVR / NAV
+X-Path
+VMS Platform
+Server-Based AIDA License/Models
+AI Backend Server
+Lens, Brackets and Others
+Mounting & Power Supply
+Access Control
+Accessories
+TV Wall
+NDAA & TAA Declaration
+All Products
+Solutions
+View All
+By Industry
+Smart Transportation
+Retail Analytics
+Hotel & Hospitality
+Factory & Production Line
+Casino & Entertainment
+By Technology
+Edge LPR Cameras
+AIDA ANPR Software
+AI Smart Cameras
+Law Enforcement
+X-Path
+All Solutions
+Case Studies
+Blog
+Support
+View All
+Where to Buy
+Traffic & Storage Calculator
+Camera Resolution Calculator
+Knowledge Base
+DDNS Service
+Demo
+Security Advisories
+RMA
+Compatible List
+GitHub
+AI YOLO Converter Cloud
+Downloads
+View All
+Software & Documents
+Latest Firmware
+Application Software
+Product Catalog PDF
+User Manuals
+Compatibility List
+View All Downloads
+Where to Buy
+EN
+中文

@@ -1,79 +1,178 @@
-# SB-391 alidex.it · home · https://www.alidex.it/ · fetched 2026-10-25T07:41:18Z · HTTP 200
-ALIDEX | Networking Industriale, Reti IoT, Cybersecurity OT
-Toggle navigation
-Azienda
-Prodotti
-Soluzioni
-Fabbricanti
-Contatto
-Cerca Cerca
-ALIDEX Soluzioni di Networking Industriale e Cybersecurity OT
-NETWORKING INDUSTRIALE
-Switch Ethernet Industriale
-Router 4G/5G Industriali
-CONNETTIVITÀ OTTICA
-Media Converter Fibra
-Converter Industriali
-CYBERSECURITY INDUSTRIALE
-Network TAPs
-Sistemi Sicurezza OT
-Network TAPs
-Accesso Sicuro a Reti Dati
-Console Servers
-Gestione remota sicura
-Conversione Ottica
-Media Converter
-Connettività Seriale
-RS232/422/485 a IP
-Switch Industriali
-Ethernet Industriale
-Wireless Industriale
-Router & Access Point
-Novità
-IGS-T9062DGP Switch Industrial Managed TSN
-IGS-3084GP-LA Managed Switch 8x 1G + 4x SFP
-IGS-3164GP-LA Managed Industrial Switch
-Cybersicurezza
-Moduli SFP
-Dual e Single Fiber, C/D WDM. Range esteso. Ethernet, Fiber Channel, SONET /SDH/OTN fino 400Gbps
-Acquisizione e analisi traffico
-Analisi intelligente dei dati per rafforzare le prestazioni della rete e le misure di sicurezza informatica.
-Hardware-based Cybersecurity
-Soluzioni Cyber-Secure di Grado Militare per Infrastrutture Critiche. Gateway Unidirezionale e Diodo Dati; separazione fisica di asset critici
-Ethernet Ferroviario
-Switches EN50155
-High PoE Switch
-Lo switch industriale IDS-710HP eletto Prodotto dell' Anno 2023. Porte PoE 802.3bt con una capacità totale di 450W
-IEC 61850 Networking
-Process Level Switches & Gateways
-Bay Level Switches
-Station Level Time Servers & NMS
-Cooperative intelligent TS
-Connected Autonomous Vehicles
-V2X Smart Cars & Smart Cities
-ICS/OT
-Systems for advanced security in Operational Technology Networks
-LAN Extension
-LAN Extenders in grado di superare la limitazione di 100 metri del cablaggio strutturato UTP/STP
-Power over Ethernet
-La tecnología PoE permette alimentare elettricamente apparati di rete, tramite il cablaggio dei dati
-Ethernet Industriale
-Reti Ethernet per ambienti Industriali. Comunicazioni sicure. Tecnologie di Anelli Ridondanti.
-Alidex Italia
-La Alidex è un Distributore di Soluzioni Tecnologiche per il Sud Europa. Sedi in Italia e Spagna.
-Alidex Iberia
+# SB-391 inscapedata.com · home · https://inscapedata.com/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+Outdoor PoE Switch, Leader in Outdoor Network Solutions, Outdoor 2, 4, 8 Port Gigabit PoE Switch, Outdoor PoE Managed Switch, Weatherproof Gigabit PoE Switch, Waterproof PoE Switch, Gigabit PoE Injector, Remote Reboot, Outdoor Power over Ethernet Management, Wired, Wireless & IP Video Surveillance Systems | Inscape Data
+Products & Solutions
+Outdoor PoE & Enclosure Solutions
+Outdoor PoE Switches
+Outdoor Din Rail & Rack Mount PoE Switches
+Outdoor UPS & UPS PoE Systems
+Outdoor Gigabit & 2.5Gb PoE Injectors
+Passive PoE Switches
+Industrial & Commercial PoE Solutions
+Industrial PoE Switches
+Industrial SFP Transceivers
+Commercial PoE Switches & SFP Transceivers
+Commercial PoE & Fiber Optic Media Converter
+Commercial SFP Fiber Optic Switches
+Commercial PoE Converters & Splitters
+Commercial PoE Injectors & Extenders
+Commercial Core Ethernet Switches
+Solutions
+IP Security
+Information Technology
+Smart City
+Smart Home
+Education
+WIFI Service Providers
+Customized Solutions
+Sales
+Online Store
+Distributors
+Resellers
+OEM
+Training
+Support
+Application Notes
+Product Updates
+RMA Policy
+Warranty Policy
+Retired Products
 About
-Contatto Alidex Italia
-Sitemap
+White Paper
+Awards & Recognitions
+Intellectual Property Licensing
+Case Studies
+Events, Newsletter & Press Releases
 Privacy Policy
-Link
-Switch Ethernet Industriale
-Convertitori Fibra Ottica
-Wireless Industriale
-Server Seriali
-Network TAP
-Console Servers
-Moduli Ottici SFP
-© 2025 ALIDEX - ALIDEX NETWORKS SRL - P. IVA IT10924650962
-Homepage
-Contatto
+Contact
+Headquarters & ME Office
+Blog
+Online Store
+Contractor-Grade
+Outdoor Network
+Solutions
+Outdoor PoE switches, intelligent UPS systems, and rugged networking solutions built for mission-critical infrastructure.
+Search Our Site
+×
+Outdoor PoE
+Switch System
+Managed and unmanaged PoE switches built to perform in the harshest environments.
+Port Range: 6-16
+Explore →
+Outdoor
+UPS Systems
+Battery backup systems with advanced power management and remote monitoring options.
+Port Range: 6-64
+Explore →
+Outdoor DIN-Rail
+PoE Systems
+Rugged outdoor DIN-Rail PoE systems designed for scalable, flexible network deployments.
+Port Range: 6-32
+Explore →
+Built for the Extreme Outdoor Environments
+IP67 / IP68
+Rugged Protection
+Up to 90W
+PoE++
+NDAA
+Compliant
+Mobile Surveillance
+Trailers
+−22°C to 158°C
+Operating Temperature
+Made in
+USA
+NEW
+Introducing Managed
+Outdoor UPS Systems
+Advanced power backup with remote monitoring, battery health insights, and smart management for uninterrupted network uptime.
+AGM & LFP
+Battery Options
+Battery Health
+Monitoring
+Mobile Surveillance
+Trailers
+Web GUI
+& Alerts
+Learn More
+Industries We Serve
+IP Security
+Reliable connectivity for outdoor surveillance and security systems.
+IT
+Rugged networking solutions for edge IT infrastructure.
+Smart City
+Power and connectivity for intelligent urban infrastructure.
+Smart Home
+Outdoor connectivity for connected homes and devices.
+Education
+Reliable outdoor networking for schools and campuses.
+Mobile Surveillance Trailer
+Power and connectivity
+for mobile security
+deployments.
+WISP
+Rugged connectivity for wireless broadband networks.
+View All Industries →
+Resources
+Application Notes
+Download technical manuals and configuration references.
+View All →
+Case Studies
+See how we help customers build reliable networks.
+View All →
+Training
+Expand your PoE knowledge with our Certified PoE Training.
+Visit Page →
+Videos
+Product installations, guides, overviews and more.
+View All →
+Ready to Power Your Next Outdoor Network?
+Talk with one of our network specialists.
+Request Quote
+×
+Contact Sales
+Products & Solutions
+Sales
+Support
+Company
+Outdoor PoE & Enclosure Solutions
+Outdoor PoE Switches
+Outdoor Din Rail & Rack Mount PoE Switches
+Outdoor UPS & UPS PoE Systems
+Outdoor Gigabit & 2.5Gb PoE Injectors
+Passive PoE Switches
+Industrial & Commercial PoE Solutions
+Industrial PoE Switches
+Industrial SFP Transceivers
+Commercial PoE Switches & SFP Transceivers
+Commercial PoE & Fiber Optic Media Converter
+Commercial SFP Fiber Optic Switches
+Commercial PoE Converters & Splitters
+Commercial PoE Injectors & Extenders
+Commercial Core Ethernet Switches
+Solutions
+IP Security
+Information Technology
+Smart City
+Smart Home
+Education
+WIFI Service Providers
+Online Store
+Distributors
+Resellers
+OEM
+Application Notes
+Product Updates
+RMA Policy
+Warranty Policy
+Retired Products
+White Paper
+Awards & Recognitions
+Intellectual Property Licensing
+Case Studies
+Events, Newsletter & Press Releases
+Headquarters & ME Office
+2026 Inscape Data Corporation. All rights reserved.
+Privacy Policy
+Designed in California, USA
+We use cookies to ensure you get the best experience on our website. We do not share your information. Learn more
+I agree

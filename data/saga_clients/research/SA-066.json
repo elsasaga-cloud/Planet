@@ -1,220 +1,234 @@
 {
- "code": "SA-066",
- "name_official": "Antronix, Inc.（Cranbury, New Jersey, USA）",
- "website_status": "在线",
- "summary": "新泽西的有线宽带射频设备设计制造商（1980 年创立，约 33 人，营收口径 $4.3M），产品：multi-tap、光节点、放大器、无源器件，面向北美有线运营商；2023 年起强调光纤方案（与 Teleste 合资 Intercept）。用户表：A 已回复 1 次，联系人 Peter Tarquinio / Jim Taxdahl（VP Sales），问 L2/L3 10G、2.5G/10G 商业交换机。",
- "type": "品牌制造商（拓展以太网交换机产品线，OEM 目标）",
- "size": "约 33 人（crustdata）；11–50（LinkedIn）",
- "brands_seen": [
-  "Antronix",
-  "Teleste"
- ],
- "evidence": [
-  {
-   "kind": "第三方（crustdata）",
-   "claim": "规模与管理层（含用户表联系人 Jim Taxdahl）",
-   "quote": "Antronix is a telecommunications company headquartered in Cranbury, New Jersey … The team counts 33 people … Antronix's leadership includes President/CEO Neil Tang … Vice President of Sales Jim Taxdahl",
-   "url": "https://profiles.crustdata.com/company/antronix",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "业务定位",
-   "quote": "Antronix designs and manufactures the components that enable broadband operators to upgrade networks across North America – engineered in-house.",
-   "url": "https://antronix.com/about-antronix/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "公司地址/电话/产品节奏",
-   "quote": "Worldwide Corporate Headquarters and Technology Center 440 Forsgate Drive Cranbury, NJ 08512 T: 1.609.860.0160 … 2.0 GHz SHIPPING SINCE 2024 … 3.0 GHz IN DEVELOPMENT",
-   "url": "https://antronix.com/about-antronix/",
-   "date": "2026-10-07"
-  },
-  {
-   "kind": "进口记录",
-   "claim": "从越南/中国进口分配器与连接器（2026-09）",
-   "quote": "WAY SPLITTER | ANTRONIX INC. | CONG TY TNHH DIEN TU HAN VIET | 2026-09-18 | Vietnam … CONNECTOR | ANTRONIX INC | MAIN BRIGHTNESS LTD | 2026-09-16 | China … BROADBAND COMMUNICATIONS PRODUCTS | ANTRONIX INC | ETECH INDUSTRIES NINGBO CO LTD",
-   "url": "https://www.importgenius.com/importers/antronix-inc",
-   "date": "2026-09-18"
-  },
-  {
-   "kind": "行业媒体",
-   "claim": "Antronix–GiaX 合作 Intercept EO 2.5 Gbps",
-   "quote": "This recent collaboration with GiaX will lead with the Intercept EO 2.5 Gbps ethernet over coax PON Extension powered by MoCA Access",
-   "url": "https://www.cbinsights.com/company/antronix",
-   "date": "2024-09-23"
-  }
- ],
- "kp": [
-  {
-   "name": "Jim Taxdahl",
-   "role": "Vice President of Sales U.S.A",
-   "email": "jimtaxdahl@antronix.com",
-   "phone": "+1 609-860-0160（总机）",
-   "source": "https://antronix.com/about-antronix/"
-  },
-  {
-   "name": "Peter Tarquinio",
-   "role": "联系人（用户表）",
-   "email": "petertarquinio@antronix.com",
-   "phone": "",
-   "source": "Clients/A Replied 09.04.xlsx"
-  }
- ],
- "notes": "A 确认（美国品牌商 + VP 级直联 + 明确 2.5G/10G 需求）：P1 = STC-424XGGPM-280W（24×2.5G PoE + 10G 上联）或 STC-448XGGM(L3)，30% OEM 档；运营商 MDU 场景强调 Marvell 方案与 L3 功能。",
- "researched_at": "2026-10-21",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "深挖 v2（官网 + 进口记录 + 合资）"
- },
- "company_facts": {
-  "legal_name": "Antronix, Inc.",
-  "founded": "1980",
-  "hq": "440 Forsgate Drive, Cranbury, NJ 08512（T 1.609.860.0160）",
-  "staff": "约 33",
-  "revenue": "约 $4.3M（口径）",
-  "other": "自 1980 年；产品 Milenium NXT 2.0 GHz multi-tap（2024 起出货）、1.8 GHz 面板、3.0 GHz 在研；与 Teleste 合资 Teleste Intercept（同址，sales@telesteintercept.com）；与 GiaX 合作 Intercept EO 2.5 Gbps MoCA Access；进口记录显示从越南/中国（Etech Industries Ningbo、Main Brightness）采购分配器/连接器"
- },
- "business_lines": [
-  "有线电视/宽带 RF 设备",
-  "光纤接入方案",
-  "（拓展）商业 L2/L3 交换机、2.5G/10G（用户表询问）",
-  "HFC 无源/有源（multi-tap、放大器、分配器）",
-  "Teleste Intercept：光纤/DAA/PON 接入平台（含以太网交换机，PitchBook 描述）",
-  "（询价）2.5G/10G 商业 L2/L3 交换机"
- ],
- "products_seen": [
-  {
-   "brand": "（拓展采购）",
-   "model": "商业 L2/L3 交换机 2.5G/10G（用户表）",
-   "spec": "问了 2.5G/10G 类产品",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "用户表",
-   "saga": "STC-424XGGPM-280W / STC-448XGGM(L3)"
-  }
- ],
- "channels": {
-  "网站": "https://antronix.com/（2026-09 更新）",
-  "直邮": "petertarquinio@antronix.com / jimtaxdahl@antronix.com（用户表）",
-  "电话": "+1 609 860 0160（官网公开）",
-  "LinkedIn": "https://www.linkedin.com/company/antronix（605 followers）",
-  "合资": "telesteintercept.com"
- },
- "signals": [
-  "用户表：A 已回复 1 次（Peter Tarquinio），兴趣商业 L2/L3/10G、2.5G",
-  "已从中国/越南进口 RF 配件（2026-09 提单）——有成熟中国采购链路，交换机可走同一路径",
-  "Intercept/EO 2.5 Gbps 方案需要 2.5G/10G 以太网配套——对应其询问 2.5G/10G 商业交换机（推断）"
- ],
- "risks": [
-  "北美有线运营商供应链要求 UL/ROHS/一致性与长期供货；交换机为其新品类，决策慢",
-  "10G/2.5G 机型需 SmartByte 规格确认"
- ],
- "saga_fit": {
-  "p1": "STC-424XGGPM-280W",
-  "tier": 30,
-  "why": "询问 2.5G/10G 商业机 → STC-424XGGPM-280W（24 GE PoE + 4×10G SFP+）与 STC-448XGGM(L3) 为对位；若以 Antronix 品牌上市按 30% 档"
- },
- "email_hook": "On the 2.5G and 10G question from earlier, the 24-port PoE+ unit with four 10G SFP+ uplinks and the 48-port L3 version are the two Marvell-based platforms we can supply under the Antronix label, so I am sending both with EXW pricing.",
- "mail_review": {
-  "binding": {
-   "level": "未绑定（询问阶段：要过价、要过手册，没有付样；Elsa 箱：`to:antronix.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 30 / 来 6）（第 74 批(g)））",
-   "type": "美国有线宽带 RF 设备品牌商（≈33 人）扩以太网线；Peter Tarquinio 直联——第一档类型但以太网非主业",
-   "sieve": "2",
-   "stop": "2025-08-11 收到 24 口光交换机手册 + 价格（L2+ 225 / L3 310 USD）后「No worries. Thank you」→ 静默 14 个月；2024-04 要「美国现货样机」，Saga 无美国库存（Simon 转介 Vi-Link 的样机）",
-   "revive": "其 MDU/光节点以太网项目落地；或有人在美国持货（Saga 无）",
-   "lane": "US",
-   "cadence": "2024-01 → 2026-09 去信 30 封；最后实质来信 2025-08-09",
-   "evidence": "k=113bf0edbaff9900 / 320a0015fdc91397 / ca03d94ea39777b8 / 42afe1e39f3c25e0 / 7533abba594ebc6d / dfc4ee1cd58c07be"
-  },
-  "situation": "Peter 2024-01 开口就是「more than 2 SFP ports… 1G SFP and 2.5 SFP+ and 10G SFP+」，2024-04 想在美国先摸一台 4168（Simon 回「另一个美国客户买了样机，也许你们可以从他那拿」，并点名 vilinknet.com）。2025-08 他再问 24 口光交换机价格，Alan 报 225/310 USD 并给了 Web/CLI 手册和软件清单，他回「No worries. Thank you」后再无动静。",
-  "need": "多 SFP 口（1G/2.5G/10G）聚合交换机，美国可先看样；L2+/L3 皆可。",
-  "breakpoint": "两次都停在「拿到资料之后」——不是价格也不是规格，是对方项目没落地。无需推。",
-  "saga_now": {
-   "p1": "STC-4168XGGCM（4×10G + 16 SFP + 8 combo，L2+）/ L3 版——2025-08 已报 225/310 USD",
-   "tier": 30,
-   "price": "按 30% OEM 档复核 2025 报价；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-06-18 $220（Re: 2.5G PoE switch）、2025-01-06 $240（24 Port Fiber Switch）、2025-06-25 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170",
-   "why": "一句话确认停点即可；不重复发规格。已打开的主题（13/30 封有打开记录）：「Re: 2.5G PoE switch」(2024-07-16)、「Re: 24 Port Fiber Switch」(2025-08-09)、「Re: 24 Port Fiber Switch」(2025-08-11)、「Re: 24 Port Fiber Switch」(2025-08-21) → 读者兴趣偏「PoE 接入」；当前 P1 属「10G 汇聚/L3」，下一封按「PoE 接入」给，不按 P1｜已发资料（勿重发）：L3(2025-08-09)、L2+(2025-08-09)、Marvell Based CLI Manual(2025-08-11)、Marvell Based Web Manual(2025-08-11)、Saga Software Function List_7.3, 7.4, (2025-08-11)、Product Link_2026Q2(2026-03-30)、Product Link_2026Q3(2026-07-20)；7.5 Feature List 与 2026Q3 链接都已给过 → 下一封不能再是资料推送，只能是针对其需求的一句话/一个问题",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "2026-11（一次）",
-   "channel": "A 邮箱 → petertarquinio@antronix.com（抄 jimtaxdahl@antronix.com）",
-   "action": "一句话问去年 8 月之后卡在哪",
-   "one_question": "After the 24-SFP manuals last August, what stopped the evaluation — US stock, or product fit for the MDU plan?"
-  },
-  "facts": [
-   {
-    "date": "2024-01-20",
-    "dir": "来",
-    "who": "Peter Tarquinio",
-    "quote": "switches routers with more than 2 SFP ports. Or more than 2 sfp+ ports. I need 1G SFP and 2.5SFP+ and 10G SFP+",
-    "why": "需求",
-    "k": "113bf0edbaff9900"
-   },
-   {
-    "date": "2024-04-19",
-    "dir": "来",
-    "who": "Peter",
-    "quote": "Do you have any of the 4168 in USA? Can I get a sample or do you have one online",
-    "why": "要美国现货样",
-    "k": "320a0015fdc91397"
-   },
-   {
-    "date": "2024-04-20",
-    "dir": "去",
-    "who": "Saga（Simon）",
-    "quote": "Hi, Peter, Now another USA client has bought this model for sample testing. Perhaps you can wait a while and purchase from him?? Not sure if this is an option. For an online store, I got findlight. *https://www.findlight.net/company/zhengzhou-saga-telecom-co-ltd <https://www.findlight.net/company/zh…",
-    "why": "Saga 实质答复原文（主题「Re: 2.5G PoE switch」；第 20 批从 gmail_s 回补）——承诺/口径以此为准",
-    "k": "37b8c7ebfde7af7d"
-   },
-   {
-    "date": "2024-04-24",
-    "dir": "去",
-    "who": "Simon",
-    "quote": "http://vilinknet.com/ This is the client. Now it is just about sample testing… this is between you and me.",
-    "why": "向一客户透露另一客户名（做法记录，不评判）",
-    "k": "ca03d94ea39777b8"
-   },
-   {
-    "date": "2024-04-24",
-    "dir": "来",
-    "who": "Peter Tarquini",
-    "quote": "Is that Jim Luciano?",
-    "why": "2024-04 S 邮箱首轮：对方以为 Saga 的推荐人/联系人是他认识的 Jim Luciano——说明 Simon 当时的开场提到了某个共同人名；此后 2025-08 A 邮箱再来要手册（08-09「Yes, please send manual as well」）",
-    "k": "gmail_s 2024-04-24 Re: 2.5G PoE switch"
-   },
-   {
-    "date": "2025-08-08",
-    "dir": "来",
-    "who": "Peter",
-    "quote": "Thanks.. I'd be interested in the pricing…",
-    "why": "第二轮",
-    "k": "42afe1e39f3c25e0"
-   },
-   {
-    "date": "2025-08-09",
-    "dir": "去",
-    "who": "Alan",
-    "quote": "225usd/pc, L2+ managed 310usd/pc, L3 managed",
-    "why": "报价",
-    "k": "7533abba594ebc6d"
-   },
-   {
-    "date": "2025-08-11",
-    "dir": "来",
-    "who": "Peter",
-    "quote": "No worries. Thank you",
-    "why": "停点",
-    "k": "dfc4ee1cd58c07be"
-   }
+  "code": "SA-066",
+  "name_official": "CCS（ccs-msk.ru，莫斯科；Microsens/Lenovo 官方合作伙伴、Sumitomo 分销商）",
+  "website_status": "在线",
+  "summary": "莫斯科 IT/电信设备分销商（十余年），Microsens 与 Lenovo 官方合作伙伴、日本住友分销商；供应有源/无源网络设备、服务器与存储、工业以太网、FTTO/Smart Office、SAS/Infiniband 等线缆及定制产品；自有/白牌 SFP 目录（SFP-WDM 系列）；E 渠道 2026 年回复（最新互动）。",
+  "type": "分销商（企业网络 + 工业以太网）",
+  "size": "中小型（待补证）",
+  "brands_seen": [
+    "Microsens",
+    "Lenovo",
+    "Sumitomo",
+    "Tyco",
+    "Emcore",
+    "MICROSENS"
   ],
-  "proof_gaps": [],
-  "draft_en": {
-   "subject": "24-SFP aggregation switch — what stopped the evaluation?",
-   "body": "Hi, Peter,\n\nIn August 2025 you had the spec and manuals of the 24-SFP aggregation unit (4x 10G SFP+ + 16x SFP + 8x combo) and the prices: $225 USD L2+ / $310 USD L3, both EXW. Then \"no worries\", and nothing since — which is fine, but I would like to know why.\n\nOne question: what stopped the evaluation — the need for US stock, product fit for the MDU plan, or simply no project? One line is enough; copying Jim in case this moved to his side.\n\nThank you.\nAlan\nSaga Telecom - sagatele.com"
+  "evidence": [
+    {
+      "kind": "官网",
+      "claim": "Microsens/Lenovo 官方合作伙伴、Sumitomo 分销商；供应工业以太网、FTTO、定制产品",
+      "quote": "Компания CCS является официальным партнёром компаний MICROSENS и LENOVO, а также дистрибьютором японской компании SUMITOMO… оборудования промышленного Ethernet, систем FTTO и Smart Office… а также продукции по индивидуальным требованиям",
+      "url": "https://www.ccs-msk.ru/about",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网",
+      "claim": "白牌 SFP BIDI 目录（SFP-WDM-SM 系列）",
+      "quote": "SFP-WDM-SM-0120A · 155M · 1550nm · 20km… SFP-WDM-SM-0240A · 1.25G · 1550nm · 40km",
+      "url": "https://www.ccs-msk.ru/catalog/optical_transcievers/sfp_bidi",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网",
+      "claim": "首页关键词含 Microsens 工业交换机、工业以太网",
+      "quote": "промышленные коммутаторы MICROSENS промышленный ethernet 10G XFP CWDM Copper SFP",
+      "url": "https://www.ccs-msk.ru/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网",
+      "claim": "合作品牌与业务范围",
+      "quote": "Компания CCS является официальным партнёром компаний MICROSENS и LENOVO, а также дистрибьютором японской компании SUMITOMO … оборудования промышленного Ethernet, систем FTTO и Smart Office, кабельной продукции с различными интерфейсами (HDSAS, SAS, SATA, Infiniband и др.) … кабели стандарта SpaceWire",
+      "url": "https://www.ccs-msk.ru/about",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网",
+      "claim": "Microsens Entry Line 工业千兆机规格",
+      "quote": "5/8 портовые промышленные Gigabit Ethernet коммутаторы, Entry Line, SFP слот (MS655200X) … до восьми портов RJ-45 и два SFP слота … 5-портовый коммутатор Gigabit Ethernet, 5x 10/100/1000Base-T, диапазон рабочей температуры от -40 до +75°С · MS655200X",
+      "url": "https://www.ccs-msk.ru/catalog/microsens/industrial_ethernet/gigabit_switches/MS6552XX",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网",
+      "claim": "地址电话邮箱",
+      "quote": "Наши телефоны: (495) 926-86-95, (963) 763-88-43 e-mail: sales@ccs-msk.ru Наш адрес: 107589, г. Москва, ул. Красноярская д.1, корп. 1",
+      "url": "https://www.ccs-msk.ru/contacts",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [
+    {
+      "name": "（见 Clients 表回复签名）",
+      "role": "",
+      "email": "",
+      "phone": "",
+      "source": "用户 Clients 表（'回复里有详细联系方式'）"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "2026 年最新回复 + 分销商身份 + 已卖白牌 SFP 与 Microsens 工业交换机（高价德系）→ Saga 的 STI 工业线可作其'性价比替代'补充。俄罗斯收款路径需核。P1：STI-288DGGPM（对位 Microsens 工业 PoE），分销价阶 20%。",
+  "researched_at": "2026-10-21",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "深挖 v2（官网 Microsens 目录核对）"
   },
-  "as_of": "2026-10-24"
- }
+  "company_facts": {
+    "legal_name": "CCS（ccs-msk.ru）",
+    "hq": "107589, Москва, ул. Красноярская, д.1, корп.1（(495) 926-86-95 / (963) 763-88-43；sales@ccs-msk.ru）",
+    "other": "MICROSENS（德）与 LENOVO 官方合作伙伴、住友电工分销商；供应有源/无源网络设备、服务器/存储、工业以太网、FTTO / Smart Office、SAS/SATA/Infiniband/SpaceWire 线缆与定制；在售 Microsens 工业机：Entry Line MS655200X（5/8×GE + SFP，-40~75℃，继电器）、Profi Line MS650869M-B（7×FE + 1×GE + 2×1000 SX/LX，铁路/能源）、FiberGuard MS650090 光纤保护开关；注：Microsens 俄罗斯独家工业线分销为 2TEST，CCS 为「官方伙伴」"
+  },
+  "business_lines": [
+    "企业网络 + 工业以太网分销（Microsens 等）",
+    "服务器/存储（Lenovo）",
+    "光纤/铜缆与定制线缆（Sumitomo、Tyco）",
+    "Microsens 光纤/工业以太网/FTTO 供应",
+    "Lenovo 服务器存储、住友光纤",
+    "数据中心线缆（SAS/Infiniband/DAC）与定制线"
+  ],
+  "products_seen": [
+    {
+      "brand": "Microsens（在售）",
+      "model": "工业以太网 / FTTO 微型交换机",
+      "spec": "官方合作伙伴",
+      "url": "https://ccs-msk.ru/",
+      "date": "2026-10（首轮调研）",
+      "saga": "STI-288DGGPM / STI-144GP"
+    },
+    {
+      "brand": "（兴趣）",
+      "model": "工业 FS / SFP / AOC / MC",
+      "spec": "很多牌子的",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "用户表",
+      "saga": "STI-110GE"
+    },
+    {
+      "brand": "MICROSENS",
+      "model": "MS655200X（Entry Line）",
+      "spec": "5/8×10/100/1000 + SFP 槽，-40~75℃，冗余电源，继电器，即插即用",
+      "url": "https://www.ccs-msk.ru/catalog/microsens/industrial_ethernet/gigabit_switches/MS6552XX",
+      "date": "2026-10-21",
+      "saga": "STI-288DGGPM / STI-144GP（PoE 版；非 PoE 需核）"
+    },
+    {
+      "brand": "MICROSENS",
+      "model": "MS650869M-B（Profi Line）",
+      "spec": "10 口：7×FE + 1×GE + 2×1000Base-SX/LX，铁路/能源（守界：铁路不供）",
+      "url": "https://www.ccs-msk.ru/catalog/microsens/industrial_ethernet/gigabit_switches/MS650869",
+      "date": "2026-10-21",
+      "saga": "—（铁路用途不对位）"
+    }
+  ],
+  "channels": {
+    "网站": "https://www.ccs-msk.ru/",
+    "直邮": "pkarpov@ccs-msk.ru（用户表）",
+    "电话": "+7 495 926-86-95 / +7 963 763-88-43（官网公开）",
+    "邮箱（公开）": "sales@ccs-msk.ru"
+  },
+  "signals": [
+    "Microsens（德系高价工业/FTTO）在俄供货受限——低价替代位空出（推断，待补证）",
+    "德系 Microsens 在俄供货受限（制裁/物流）——Entry Line 入门工业千兆位是白牌 Marvell 替代的切口；Profi Line 铁路/能源位不碰（2026-10-21）"
+  ],
+  "risks": [
+    "俄罗斯结算/制裁合规由客户侧；Microsens 级客户对功能（环网/管理）要求高",
+    "铁路/能源项目为其 Microsens 主场——只对位 Entry Line 通用工业机，不参与铁路（EN50155）与能源站级项目"
+  ],
+  "saga_fit": {
+    "p1": "STI-288DGGPM",
+    "tier": 20,
+    "why": "Microsens 工业/FTTO 位的低价替代：STI-288DGGPM（8+2 管理）+ STI-144GP；MC 位 STI-110GE；分销 20% 档"
+  },
+  "email_hook": "For the industrial and FTTO positions where a Microsens unit is now hard to source, the Marvell-based 8-port gigabit PoE + 2 SFP managed DIN switch and the 4+1 compact model are the two EXW prices I am sending.",
+  "mail_review": {
+    "binding": {
+      "level": "未绑定（Elsa 邮箱 2026-01-26 Pavel Karpov 问「Can you provide Brocade switches?」→ Elsa 01-30 回复 → 无下文）；补核（第 73 批）：Elsa 01-30 答可代找二手 Brocade 并反问型号/速率/新旧，之后无回；Elsa 1:1 去信 3 轮 2026-04-03→2026-08-04（To 仅本户 pkarpov@ccs-msk.ru；头 msg 19e16ce005f0bc62 核对无 Bcc，称呼「(earlier)」= 个性化逐月 1:1 名单；主题 Industrial PoE Switch、10G Enterprise SFP Switch、24 Port PoE Managed Switch；客户来过信：Elsa 回 2026-01-30 Re:「OEM Core Switching Solution」）（第 74 批(m) `from:e.sagatelecom to:` 全程 complete，直收 4 条）；Elsa 群发 BCC 已触达 2025-07-14「16 Port Ethernet Switch」（稿内无价，第 74 批(p) 已读稿），俄罗斯-5（锚 dozor23.ru 采购；2025-02-22 起月轮，6 轮，2025-07-14 止） 批次 To zakupki@dozor23.ru，0 回（第 74 批 Bcc 头核对 msg 198092904a7b6f12）",
+      "type": "莫斯科企业网/工业以太网分销（Microsens/Lenovo 合作）",
+      "sieve": "0（邮件层无人工回复）",
+      "stop": "需求是 Brocade（品牌货源），不是 OEM",
+      "revive": "其 Microsens 工业线的性价比替代（研究档）",
+      "lane": "RU",
+      "cadence": "不主动",
+      "evidence": "邮件：A/S 两箱均无发信记录（0 去 / 0 来）；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To zakupki@dozor23.ru）本户见于 2025-07-14 名单；该批次最早 2025-02-22 起共 6 轮，更早轮次 Bcc 未读"
+    },
+    "situation": "对 CENTEC 核心交换机群发的回应是问能否供 Brocade——把 Saga 当成了渠道货源。",
+    "need": "Brocade 原厂货（Saga 不做）。",
+    "breakpoint": "需求错位。",
+    "saga_now": {
+      "p1": "STI 工业线（替代 Microsens）",
+      "tier": 20,
+      "price": "锚价：STI-288GPM $78.9（20% 档）/ STI-054GP $32.5（第 72 批 2026-10-24）；—；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-05-11 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2026-05-11；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-08-04 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-04；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
+      "why": "替代 Microsens 的工业线 → 8+2 管理 DIN + 4+1 紧凑款；Brocade 原厂货不做，信里不提",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）",
+      "channel": "E 邮箱 → pkarpov@ccs-msk.ru（Elsa 原串，Pavel Karpov）",
+      "action": "首封前知悉：Elsa 已 1:1 去信 3 轮（2026-04-03→2026-08-04，客户回过信（2026-01-30））（第 74 批(m)）；一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(q) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；Elsa 箱原串、署名 Elsa）",
+      "one_question": "For the industrial and FTTO positions where a Microsens unit is now hard to source, the Marvell-based 8-port gigabit PoE + 2 SFP managed DIN switch and the 4+1 compact model are the two EXW prices I am sending. Is the Microsens replacement still open? Reference: STI-288GPM at $78.9 / STI-054GP at $32.5 USD EXW (MOQ 1, 15-day validity)."
+    },
+    "facts": [
+      {
+        "date": "2025-07-14",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To zakupki@dozor23.ru，俄罗斯-5（锚 dozor23.ru 采购；2025-02-22 起月轮，6 轮，2025-07-14 止） 批次）",
+        "quote": "16 Port Ethernet Switch — （头部未取正文；见 Elsa 箱）",
+        "why": "Elsa 箱群发 BCC 触达证据（命中地址 ccs-msk.ru, sales@ccs-msk.ru）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+        "k": "elsa_bcc"
+      },
+      {
+        "date": "2026-01-26",
+        "dir": "来（Elsa 箱）",
+        "who": "Pavel Karpov（CCS）",
+        "quote": "Hello! Can you provide Brocade switches?",
+        "why": "需求错位",
+        "k": "E 19bf935676cdb7e6"
+      },
+      {
+        "date": "2026-01-30",
+        "dir": "去",
+        "who": "Elsa",
+        "quote": "Currently, Brocade's Ethernet switch business has been integrated into other vendor portfolios, so most Brocade switches available on the market today are legacy or second-hand… We can source Brocade switches depending on the specific model… Which Brocade model(s)? Required port speed (1G, 10G, 40G)? Desired condition (new, refurbished, used)?",
+        "why": "Pavel 要的是 Brocade 现货，Elsa 答可代找二手并反问 → 无下文；这不是 Saga 产品线的需求",
+        "k": "gmail_e 19c0e0388879da5f"
+      },
+      {
+        "date": "2026-04-03",
+        "dir": "out",
+        "who": "Elsa → pkarpov@ccs-msk.ru",
+        "quote": "Industrial PoE Switch（Elsa 1:1 逐月名单第 1/3 轮；To 仅本户）",
+        "why": "第 74 批(m) `from:e.sagatelecom to:pkarpov@ccs-msk.ru` 全程 complete：3 轮直收；客户曾来信（见 Re: 行）",
+        "k": "elsa_1to1",
+        "msg_id": "19d525b2c3ad4147"
+      },
+      {
+        "date": "2026-05-11",
+        "dir": "out",
+        "who": "Elsa → pkarpov@ccs-msk.ru",
+        "quote": "10G Enterprise SFP Switch（Elsa 2026 年 1:1 名单重发；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
+        "why": "本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无）",
+        "k": "elsa_1to1",
+        "msg_id": "19e16ce005f0bc62"
+      },
+      {
+        "date": "2026-08-04",
+        "dir": "out",
+        "who": "Elsa → pkarpov@ccs-msk.ru",
+        "quote": "24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 3/3 轮；To 仅本户；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f）",
+        "why": "第 74 批(m) `from:e.sagatelecom to:pkarpov@ccs-msk.ru` 全程 complete：3 轮直收；客户曾来信（见 Re: 行）",
+        "k": "elsa_1to1",
+        "msg_id": "19fcc373d666821d"
+      }
+    ],
+    "proof_gaps": [
+      "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 去信 3 轮、0 回），仓库未见原文"
+    ],
+    "draft_en": {
+      "subject": "Not Brocade this time - two industrial positions where Microsens got hard to source",
+      "body": "Hello Pavel,\n\nIn January you asked me for Brocade switches and I answered what I could; after that you had my monthly product mails and no reason to reply. This one is specific to your own catalogue.\n\nFor the industrial and FTTO positions where a Microsens unit is now hard to source: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, L2 managed (web GUI, VLAN, QoS, IGMP), Marvell-based, -40 to 75 C, CE/RoHS - model STI-288GPM - $78.9 USD EXW at distributor price (MOQ 1, 15-day validity); compact 4 x Gigabit PoE+ + 1 x Gigabit uplink, unmanaged - STI-054GP - $32.5. EAC stays on your side; your SFP-WDM optics plug in as they are.\n\nOne question: is it the DIN PoE position or the FTTO desktop position where the gap is bigger?\n\nBest regards,\nElsa\nSaga Telecom - sagatele.com"
+    },
+    "as_of": "2026-10-25"
+  }
 }

@@ -18,9 +18,9 @@
 |---|---|---|
 | `Replied` 索引（189 封 / 51 线程，7 页） | ✅ 189/189（06:25Z） | `index_replied.jsonl` |
 | `Replied` 来信正文（客户→Elsa，67 封） | ✅ 67/67（2026-10-23T07:03Z；sales@eurotechindia.com 两封正文为空，见文件 note） | `text/<id>.json` |
-| `Replied` Elsa 回复正文（101 封，其中首封群发为模板） | ⏳ 38/101（2026-10-24T16:22Z，+SB-1009 ×2 +SB-1275 +SB-971 ×2 +SC-1835 03-31「SKD is fine with us」；A/B 档 Elsa「Re:」回复已全部入库，余下 63 封 = 各线程首封群发模板 + C 档 14 封，第 73 批：A/B 档 51 线程里所有「Re:」回复——SB-746 / SB-973 ×2 / SB-427 ×2 / SB-656 / SB-164 / SA-118 / SA-076 ×2 / SA-023 / SB-121 ×3 / SB-099 / SB-462 / SB-178 ×6 / SA-081 ×2 / SB-029 ×2 / SA-147 / SA-116 / SA-046 / SB-580 / SB-960 / SB-261；余下 = 各线程首封群发模板 + C 档） | `text/<id>.json` |
+| `Replied` Elsa 回复正文（101 封，其中首封群发为模板） | ⏳ 38/101（2026-10-24T16:22Z，+SB-896 ×2 +SB-1101 +SC-190 ×2 +SB-1138 03-31「SKD is fine with us」；A/B 档 Elsa「Re:」回复已全部入库，余下 63 封 = 各线程首封群发模板 + C 档 14 封，第 73 批：A/B 档 51 线程里所有「Re:」回复——SB-692 / SB-865 ×2 / SB-447 ×2 / SB-630 / SB-229 / SB-047 / SA-050 ×2 / SA-014 / SB-189 ×3 / SB-169 / SB-477 / SB-243 ×6 / SA-054 ×2 / SB-109 ×2 / SA-071 / SA-066 / SC-003 / SC-097 / SC-189 / SC-039；余下 = 各线程首封群发模板 + C 档） | `text/<id>.json` |
 | 退信（21 封）：仅记录被退地址 | ⏳ | 索引 labels 含 `D` 可识别 |
-| 个人类未进 `Replied` 的来信 | ✅ 已枚举（2026-10-24T16:15Z，第 73 批）：`-from:e.sagatelecom -label:Replied` 共 ≈201 封，剔除退信/自动回复/工单/问卷后真人来信仅 9 封，全部入 `text/`：th-it.com 2026-09-08 婉拒（SB-325）；3lines.com.sa ×3（SB-580，C；2026-02-08 RFQ 附件已拉到 `attachments/`）；tescom.co.tz 2025-08-23（SB-164 第一问，无人答）；rkahir65@gmail.com 2025-07-26 要价（SB-297，**我方欠答**）；bandasonkelly@gmail.com「I am」（SC-2857，C）；weg.net 模板回复；eurotechindia 第三封空正文。其余 = chipdip.ru / zscom.ru / triple-s.no / telecamera.ru / msy / pbtech / r-stahl / actcorp / techgates / Baltic Networks / satmetrix 等自动应答 | `text/<id>.json`，`attachments/` |
+| 个人类未进 `Replied` 的来信 | ✅ 已枚举（2026-10-24T16:15Z，第 73 批）：`-from:e.sagatelecom -label:Replied` 共 ≈201 封，剔除退信/自动回复/工单/问卷后真人来信仅 9 封，全部入 `text/`：th-it.com 2026-09-08 婉拒（SB-366）；3lines.com.sa ×3（SC-097，C；2026-02-08 RFQ 附件已拉到 `attachments/`）；tescom.co.tz 2025-08-23（SB-229 第一问，无人答）；rkahir65@gmail.com 2025-07-26 要价（SB-341，**我方欠答**）；bandasonkelly@gmail.com「I am」（SC-3073，C）；weg.net 模板回复；eurotechindia 第三封空正文。其余 = chipdip.ru / zscom.ru / triple-s.no / telecamera.ru / msy / pbtech / r-stahl / actcorp / techgates / Baltic Networks / satmetrix 等自动应答 | `text/<id>.json`，`attachments/` |
 | 附件原件 | ❌ 不经连接器拉（base64 逐件，体积大） | 需要时 Takeout |
 | 发件群发日志 3,224 封 | ❌ 连接器 ≈108 页不可行 | Takeout 可选 |
 
@@ -37,7 +37,7 @@
 
 ## Elsa 触达史补全（第 74 批，2026-10-25 01:53Z–02:48Z）
 
-- **锚户时间线**：`from:e.sagatelecom to:<锚域>` 一条查询 = 该锚的全部轮次（Elsa 每轮固定 1 To + 同批 Bcc）。读头 60 封 / 锚 36 个（`bcc_batches_2026.json` `batches[]` + `anchors{}`）→ 命中 **757 户（A 4 / B 166 / C 587）**，`elsa_bcc_apply.py` 幂等套用；锚户自己按精确地址改「Elsa 群发 To 直收 N 轮」（10 户，含 SB-973）。
+- **锚户时间线**：`from:e.sagatelecom to:<锚域>` 一条查询 = 该锚的全部轮次（Elsa 每轮固定 1 To + 同批 Bcc）。读头 60 封 / 锚 36 个（`bcc_batches_2026.json` `batches[]` + `anchors{}`）→ 命中 **757 户（A 4 / B 166 / C 587）**，`elsa_bcc_apply.py` 幂等套用；锚户自己按精确地址改「Elsa 群发 To 直收 N 轮」（10 户，含 SB-865）。
 - **国别 TLD 穷举**（`in:sent to:.xx`，≤201 条即 complete）：PL / DE / UK / ES / FR / NL / CZ / AT / BE / SE / FI / NO / DK / CH / PT / IE / HU / RO / GR / CA / NZ 21 国读完（`elsa_sent_tld_probe_2026-10-25.json`）；`.it` `.tr` 201+ 未完（TR 逐户 11/11 为 0，Elsa 基本不发土耳其）；巴尔干/波罗的海 OR 不完整。美国四批（premiertek / nssi / allisontecusa / solimedia）+ 加拿大批读齐。
 - **非锚 1:1 普查**（`in:sent` 排除 39 锚域 + 9 地址，按日期窗分页抄录）：566 行存 `elsa_sent_nonanchor_2026-10-25.json`（全主题；`_note` 记窗口与未爬 `next_page_token`）。结构：首封 **2025-02-10**；2025-02-10→03-14 ≈260 封全球 1:1；之后月度「锚 + Bcc」；1:1 名单重发波 2025-12-10→17「Booster PoE Switch」、2025-12-29/31「Marvell Industrial Alert System」、2026-05-07→21「10G Enterprise SFP Switch」、2026-08-06→31「24 Port PoE」、2026-09-07→15「16 Port Industrial PoE Switch」；末封 **2026-09-15**。命中 430 户（A 7 / B 117 / C 306）→ A/B 139 户写 `elsa_1to1` 事实 + 绑定段。未抄窗口：2025-03-15→12-10（201+）、2026-01-01→05-07 与 05-21→08-06、2026-08-07 22:04→08-10 的第 2 页起。
 - 合计：A/B 1,226 户中 **Elsa 已核实触达 297 户（A 10 / B 287）**；其余 B ≈600 户「未发信/未触达」= S/A 口径 + 欧美土已被 TLD 穷举反向排除。Replied 标签在普查里只见 2 条真回复（bandasonkelly 2026-08-19、lezdco 2026-05-15）。

@@ -1,105 +1,57 @@
-# SB-770 goetz-automation.de · news_1 · https://goetz-automation.de/Referenzen.htm · fetched 2026-10-25T07:41:18Z · HTTP 200
-Referenzen von Götz Automation
-Götz
-Automation
-Dipl.
-Ing. Peter Götz
-Mühlweg
-6
-69253
-Heiligkreuzsteinach
-+49 (0)
-6220 922222
-zurück
-weiter
+# SB-770 lanode.com · news_1 · https://lanode.com/first-fox-video · fetched 2026-10-25T07:41:18Z · HTTP 200
+First Fox Video | don4L's hobbies
+Skip to main content
+don4L's hobbies
+First Fox Video
 Home
-Leistungen
-Anfrage
-Standort
-Impressum
-FAQ´s
-Referenzen
-Im
-Auftrag von
-Hess GmbH:
-Entwicklung eines
-Wiegeverfahrens zur exakten Materialverwiegung für
-industriell genutzte Bandwaagen. Entwicklung eines
-vorrausschauenden Regelungsverfahrungs zur
-Brennstoffdosierung.
-Kraftwerk
-Koehler
-Energie GmbH
-D
-- 77704 Oberkirch
-Elektrotechnische
-Planung & Elektrokonstruktion, Programmierung & Inbetriebnahme einer Anlage zur
-Dosierung von Zusatzbrennstoffen.
-Portlandzementwerk
-Schretter & Cie
-A
-- 6682 Vils - Tirol
-Planung,
-Erstellung, Programmierung, Inbetriebnahme,
-Schulung & Dokumentation der Elektrotechnik
-einer Anlage zur Dosierung von Sekundärbrennstoffen.
-Portlandzementwerk
-WOTAN
-D
-- 54579 Üxheim / Eifel
-Planung,
-Erstellung, Programmierung, Inbetriebnahme,
-Mitarbeiterschulung & Dokumentation der E-Technik
-einer Anlage zur Dosierung von Sekundärbrennstoffen.
-EVO
-Energieversorgung Offenbach
-D
-- 63067 Offenbach
-Programmierung
-einer Versuchsanlage zur Dosierung von BPG-Material.
-Zementwerk
-holcim devils slide USA
-Engineering einer
-Brennstoffdosieranlage für Zusatzbrennstoffe.
-Weidmann
-Infra AG
-CH
-- 8640 Rapperswil
-Entwicklung eines
-S7-profibusbasierten Standard Funktionsbausteines zur
-Ansteuerung von
-Schrittmotorsteuerungen.
-COMTRONIC GmbH
-D - 69250 Schönau / Odenwald
-Entwicklung, Bau &
-Programmierung eines Tastenprüfroboters
-zur
-Kraft-Weg Analyse .
-Neckarwerke
-Stuttgart (EnBw)
-D
-- 70190 Stuttgart - Wasserwerk Berg
-E-Technische
-Planung & Projektierung von Pumpwerken und Modernisierung von Wasserwerk Berg & Gallenklinge.
-Erstellung der Ausschreibung für die zentrale Leitwarte im Wasserwerk Berg.
-Im Auftrag der NWS:
-Strohgäuwasserversorgung
-Ausschreibung
-und Baubegleitung der Fernwirk- und Leittechnik für
-alle Wasserhochbehälter des Wasserzweckverbandes.
-Filderwasserversorgung
-Elektrotechnische
-Betreuung im Auftrag der NWS-AG und Schulung des
-Elektropersonals.
-Im
-Auftrag von MB-Automation D
-- 73099 Adelberg bei K.
-JUNG Gmbh (Schleifring-Gruppe) D
-- 73037 Göppingen Inbetriebnahme
-von Servoantrieben zum Serieneinsatz bei der
-Positionierung von Abrichtsternen. Lichtuhr
-Gmbh D
-- 50825 Köln Beratung
-& Entwicklungsunterstützung
-Schrittmotorantrieb
-einer Lichtuhr .
+Images Mosaics
+Galaxies
+Nebulae
+Lunar
+Clusters
+Open Clusters
+Blender Testing
+My (Humble) PI
+Wildlife Feathered Friends
+Foxes
+Fox News
+Bugs
+Latest
+52 Weekly Challenge
+Video file
+Not Happy!
+NGC Catalogue
+NGC1893 - Auriga Mosaic
+NGC1893 - Tadpoles and Flaming Star
+NGC1907 - Auriga Mosaic
+NGC1931 - Auriga Mosaic
+NGC2236 - Cone and Rosette
+NGC2238 - The Rosette Nebula
+NGC2238 - Cone and Rosette
+NGC2239 - The Rosette Nebula
+NGC2239 - Cone and Rosette
+NGC2248 - Cone and Rosette
+NGC2251 - Cone and Rosette
+NGC2252 - Cone and Rosette
+Pagination
+Page 1
+Next page
+››
+Sharpless Catalogue
+SH2-101 - Sadr, Crescent and Tulip
+SH2-101 - The Crescent (widefield)
+SH2-101 - Tulip Nebula
+SH2-103 - The Veil
+SH2-104 - Sadr, Crescent and Tulip
+SH2-104 - The Crescent (widefield)
+SH2-105 - Sadr, Crescent and Tulip
+SH2-105 - The Crescent (widefield)
+SH2-106 - The Crescent (widefield)
+SH2-108 - The Crescent (widefield)
+SH2-108 - Sadr, Crescent and Tulip
+SH2-112 - The Crescent (widefield)
+Pagination
+Page 1
+Next page
+››
+Powered by Drupal

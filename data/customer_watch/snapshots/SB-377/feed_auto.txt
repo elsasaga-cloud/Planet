@@ -1,7 +1,2 @@
-# SB-377 xblue.com · feed_auto · https://xblue.com/feed/ · fetched 2026-10-25T07:41:18Z · HTTP 200
-Wed, 08 Sep 2021 16:20:44 +0000	Unlimited Landscapes, Stone & Granite	https://xblue.com/unlimited-landscapes-stone-granite/
-Wed, 08 Sep 2021 16:18:27 +0000	Douglas Okanogan County Fire District	https://xblue.com/douglas-okanogan-county-fire-district/
-Wed, 08 Sep 2021 16:16:23 +0000	Massage Height’s – San Antonio	https://xblue.com/massage-heights-san-antonio-texas/
-Wed, 08 Sep 2021 16:03:00 +0000	CVP Productions Inc	https://xblue.com/cvp-productions-inc/
-Wed, 08 Sep 2021 15:59:36 +0000	Upper Canada Marine	https://xblue.com/upper-canada-marine/
-Wed, 08 Sep 2021 14:57:14 +0000	Freedom Coin	https://xblue.com/freedom-coin/
+# SB-377 PROVES · feed_auto · https://proves.com.tr/feed/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+Mon, 19 Oct 2020 10:40:28 +0000	Hello world!	https://proves.com.tr/hello-world/

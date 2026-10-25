@@ -1,504 +1,117 @@
-# SB-854 patton.com · home · https://www.patton.com/ · fetched 2026-10-25T07:41:18Z · HTTP 200
-Patton Electronics | US Manufactured Network Equipment
-Toggle navigation
-COMPANY
-Contact Us
-About Patton
-Jobs
-Capabilities
-Quality & Responsibility
-Legal
-News & Events
-Press Room/Releases
-Training & Events
-Library/Downloads
-Other Websites
-Patton-Electronics.com
-FiberPlex.com
-ToneCommander.com
-Artel.com
-Raymar-Telenetics.com
-PracticalTechnologies.us
-SOLUTIONS
-PRODUCTS
-Unified Communications
-VoIP Adapters
-Fax Adapters
-VoIP Gateways
-VoIP Routers
-VoIP IADs - Integrated Access Devices
-Enterprise Session Border Controllers
-Media Gateways
-SS7 Gateways
-Secure End Points (SIP Phones)
-VoIP Public Address & Mass Notification
-Software and Cloud
-Virtual SBC | Virtualized SBC
-Virtual Access Router
-VPN Server
-IPv6 IPv4 Converter
-Intelligent Edge Orchestration
-NFV & SDN
-Networking & Access
-Ethernet Extenders
-Industrial Switches
-Unmanaged Industrial Ethernet Switches
-Managed Industrial Ethernet Switches
-Industrial PoE Switches
-PoE Extenders
-xDSL Products | DSL Modems, DSL VoIP, DSL Router Modems
-Routers
-Dial-Up Access
-All Products
-Industrial Connectivity
-Industrial PoE Products
-Ethernet Over Fiber
-Line Drivers / Short Range Modems
-Wireline Analog Modems
-Pro AV Live & Media Broadcast Systems
-Fiber Serial DataCom (RS-232/422/530/188C)
-Fiber Telecom (T1/E1/PRI, Analog & ISDN)
-Multiplexers & Sharing Devices
-SFP (Small Form Pluggable) Modules and Kits
-Fiber Alarming, Notification, Relay & Control
-Other Network Extenders
-Defense/Security Fiber Communications
-Baluns
-Surge Protectors & Opto-Isolators
-DataTaps, Testers, Adapters, Rack Kits
-Interface Converters
-Fiber Rack & Enclosure Systems
-Fiber Repeaters & Wavelength Division Multiplexers (WDM)
-Waveguide RF Filters
-Power Supplies and Battery Systems
-Media Transport
-Artel Racks & Chassis Infrastructure
-Video Over IP Transport
-Video Over Fiber Transport
-Video, Audio & Data Over Fiber Transport
-Video & Audio Over Fiber Transport
-Ethernet Over Fiber Transport
-Serial DataComm Over Fiber Transport
-Video, Fiber Testers & Splitters
-Wave Division Multiplexers
-Ethernet Switches
-SFP Modules and Kits
-SUPPORT & SERVICES
-Support Home
-Support Portal
-Premium Support
-Software Upgrades
-Warranty Services
-Returns & RMAs
-Manuals
-Web Wizards
-Special Projects Group
-SPG Home
-Services & Capabilities
-Projects
-Facilities
-CONTRACT SERVICES
-PARTNERS
-RESOURCES
-EVENTS
-BLOG
-LOGIN
-Submit
-*** This website and its related services are not built on PHP, meaning they are structurally immune to the PHP2Shell vulnerabilities. No customer action is required. ***
-×
-Login to Patton's Customer / Vendor Portal
-Your Username
-Your password
-Log in
-Request new password...
-Create new account...
-×
-New Support Ticket
-Please fill out and submit the form below to create a new support ticket.
-Sender Email Address:
-Subject:
-Message:
-Where
-to Buy
-Find a User
-Manual
-Get Support
-Now
-Patton
-Academy
-Get Software
-Upgrades
-Let's
-Blog
-Patton Products
-Patton Brands
-More Than Just Talk
-Going the Distance
-Secure Digital Communications
-State of the Art Legacy Modems
-Media Transport Products
-Secure SIP End Points
-Link Up for Less
-Leading the Edge
-WAN Access Without Excess
-News Alert:
-Patton and alfanar Partner to Accelerate the Secure Digital Transformation of Saudi Power Infrastructure | 9.2.2026
-Tone Commander Secure SIP Phones Obtain Fresh JITC/STIG Certifications | 8.20.2026
-Artel Announces New Carrier-Class PTP Switch Built for the Demands of Modern Broadcast | 7.27.2026
-Patton and XOP Networks Partner to Deliver Secure IP/SIP Emergency Communications | 6.29.2026
-Patton Awarded Subcontract to Develop Source-Secure Fiber Optic Modules for U.S. Defense Applications | 6.10.2026
-Artel Ignites Precision Networking with New Quarra PTP-10G4POE Switch | 6.4.2026
-Patton and Probity Partner to Protect Critical Infrastructure with Revolutionary New Data Diode Kit that Delivers NSA-Listed Security | 5.28.2026
-Patton Unveils Powerful New US-Manufactured 12G-SDI Fiber Extender Kits | 4.23.2026
-Artel Smashes the SDI-to-IP Barrier with Game-Changing FiberLink� ST2110-TD Throw-Down Units | 3.19.2026
-Company
-> Contact Us
-> About Patton
-> Jobs
-> Capabilities
-> Quality & Responsibility
-> Legal
-News & Events
-> Press Room/Releases
-> Training & Events
-> Library/Downloads
-Partners & Resources
-> Partner Programs
-> Resources
-> Blog
-Products
-Unified Communications
-> VoIP Adapters
-> Fax Adapters
-> VoIP Gateways
-> VoIP Routers
-> VoIP IADs - Integrated Access Devices
-> Enterprise Session Border Controllers
-> Media Gateways
-> SS7 Gateways
-> Secure End Points (SIP Phones)
-> VoIP Public Address & Mass Notification
-Software and Cloud
-> Virtual SBC | Virtualized SBC
-> Virtual Access Router
-> VPN Server
-> IPv6 IPv4 Converter
-> Intelligent Edge Orchestration
-> NFV & SDN
-Networking & Access
-> Ethernet Extenders
-> Industrial Switches
-> Industrial Ethernet
-> Unmanaged Industrial Ethernet Switches
-> Managed Industrial Ethernet Switches
-> Industrial PoE Switches
-> PoE Extenders
-> Industrial Network Solutions
-> xDSL Products | DSL Modems, DSL VoIP, DSL Router Modems
-> Routers
-> Dial-Up Access
-Sunset Products
-Datacom Industrial Connectivity
-> Industrial PoE Products
-> Ethernet Over Fiber
-> Line Drivers / Short Range Modems
-> Wireline Analog Modems
-> Pro AV Live & Media Broadcast Systems
-> Fiber Serial DataCom (RS-232/422/530/188C)
-> Fiber Telecom (T1/E1/PRI, Analog & ISDN)
-> Multiplexers & Sharing Devices
-> SFP (Small Form Pluggable) Modules and Kits
-> Fiber Alarming, Notification, Relay & Control
-> Other Network Extenders
-> Defense/Security Fiber Communications
-> Baluns
-> Surge Protectors & Opto-Isolators
-> DataTaps, Testers, Adapters, Rack Kits
-> Interface Converters
-> Fiber Rack & Enclosure Systems
-> Fiber Repeaters & Wavelength Division Multiplexers (WDM)
-> Waveguide RF Filters
-> Power Supplies and Battery Systems
-Media Transport
-> Artel Racks & Chassis Infrastructure
-> Video Over IP Transport
-> Video Over Fiber Transport
-> Video, Audio & Data Over Fiber Transport
-> Video & Audio Over Fiber Transport
-> Ethernet Over Fiber Transport
-> Serial DataComm Over Fiber Transport
-> Video, Fiber Testers & Splitters
-> Wave Division Multiplexers
-> Ethernet Switches
-> SFP Modules and Kits
-Support & Services
-> Support Home
-> Support Portal
-> Premium Support
-> Software Upgrades
-> Warranty Services
-> Returns & RMAs
-> Manuals
-Special Projects Group (SPG)
-> SPG Home
-> Services & Capabilities
-> Projects
-> Facilities
-Select your country
-Afghanistan
-Albania
-Algeria
-American Samoa
-Andorra
-Angola
-Anguilla
-Antigua and Barbuda
-APO
-Argentina
-Armenia
-Aruba
-Australia
-Austria
-Azerbaijan
-Bahamas
-Bahrain
-Bangladesh
-Barbados
-Belgium
-Belize
-Benin
-Bermuda
-Bhutan
-Bolivia
-Bosnia and Herzegovina
-Botswana
-Brazil
-British Virgin Islands
-Brunei Darussalam
-Bulgaria
-Burkina Faso
-Burundi
-Cambodia
-Cameroon
-Canada
-Cape Verde
-Caribbean Netherlands
-Cayman Islands
-Central African Republic
-Chad
-Chile
-China
-Colombia
-Comoros
-Congo
-Cook Islands
-Costa Rica
-Cote d Ivoire
-Croatia
-Cuba
-Curacao
-Cyprus
-Czech Republic
-Dem. Rep. Of Congo
-Denmark
-Djibouti
-Dominica
-Dominican Republic
-DPO
-East Timor
-Ecuador
-Egypt
-El Salvador
-Equatorial Guinea
-Eritrea
-Estonia
-Ethiopia
-Falkland Islands (Malvinas)
-Faroe Islands
-Federated States of Micronesia
-Fiji
-Finland
-FPO
-France
-French Guiana
-French Polynesia
-Gabon
-Gambia
-Georgia
-Germany
-Ghana
-Gibraltar
-Greece
-Greenland
-Grenada
-Guadeloupe
-Guam
-Guatemala
-Guinea
-Guinea-Bissau
-Guyana
-Haiti
-Holy See (Vatican City)
-Honduras
-Hong Kong
-Hungary
-Iceland
-India
-Indonesia
-Iran
-Iraq
-Ireland
-Israel
-Italy
-Jamaica
-Japan
-Jordan
-Kazakhstan
-Kenya
-Kiribati
-Kosovo (Serbia)
-Kuwait
-Kyrgyzstan
-Laos
-Latvia
-Lebanon
-Lesotho
-Liberia
-Libya
-Liechtenstein
-Lithuania
-Luxembourg
-Macau
-Madagascar
-Malawi
-Malaysia
-Maldives
-Mali
-Malta
-Marshall Islands
-Martinique
-Mauritania
-Mauritius
-Mexico
-Moldova
-Monaco
-Mongolia
-Montenegro
-Montserrat
-Morocco
-Mozambique
-Myanmar
-Namibia
-Nauru
-Nepal
-Netherlands
-New Caledonia
-New Zealand
-Nicaragua
-Niger
-Nigeria
-North Korea
-North Macedonia
-Northern Mariana Islands
-Norway
-Oman
-Pakistan
-Palau
-Palestine
-Panama
-Papua New Guinea
-Paraguay
-Peru
-Philippines
-Poland
-Portugal
-Puerto Rico
-Qatar
-Reunion
-Romania
-Rwanda
-Saint Kitts and Nevis
-Saint Maarten
-Saint Martin
-Saint-Barthelemy
-Samoa
-San Marino
-Sao Tome and Principe
-Saudi Arabia
-Senegal
-Serbia
-Seychelles
-Sierra Leone
-Singapore
-Slovakia
-Slovenia
-Solomon Islands
-Somalia
-South Africa
-South Korea
-South Sudan
-Spain
-Sri Lanka
-St. Lucia
-St. Vincent and the Grenadines
-Sudan
-Surinam
-Swaziland
-Sweden
-Switzerland
-Syria
-Taiwan
-Tajikistan
-Tanzania
-Thailand
-Togo
-Trinidad and Tobago
-Tunisia
-Turkey
-Turkmenistan
-Turks and Caicos Islands
-Tuvalu
-Uganda
-Ukraine
-United Arab Emirates
-United Kingdom
-United States
-Uruguay
-US Virgin Islands
-Uzbekistan
-Vanuatu
-Venezuela
-Viet Nam
-Wallis and Futuna
-Yemen
-Zambia
-Zimbabwe
-Sales: [email protected] / +1 301 975 1000
-Support: [email protected] / +1 301 975 1007
-Sales: [email protected] / +1 240 912 1218
-Support: [email protected] / +1 301 975 1007
-Sales: [email protected] / +36 1 439 4840
-Support: [email protected] / +36 1 439-4835
-Sales: /
-Support: [email protected] /
-Sales: [email protected] / +1 240 912 2633
-Support: [email protected] / +1 301 975 1007
-Sales: [email protected] / +1 240 912 1215
-Support: [email protected] / +1 240 912 1215
-Sales: [email protected] / +1 240 912 2635
-Support: [email protected] / +1 301 975 1007
-Sales: [email protected] / +1 240 912 1228
-Support: [email protected] / +1 301 975 1007
-Sales: [email protected] / +41 31 985 2525
-Support: [email protected] / +41 31 985 2555
-Join Our Email List
-Have Us Contact You
-or
-Login
-Connect With Us
-Patton LLC
-Copyright © 2025 All Rights Reserved.
-| Sitemap |
-Legal |
-Privacy Policy |
-Disclaimer |
+# SB-854 NetCat SYSTEMS GmbH · home · https://netcatsystems.de/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+NetCat SYSTEMS GmbH
+NetCat | Startseite
+sales@netcatsystems.de
++ 49 (0) 2307 96 10 - 0
+Bürozeiten:
+Montags bis Freitags
+– Uhr
+Home
+Über uns
+IT-Lösungen
+IT-Lösungen Übersicht
+Für Unternehmen
+IT-Systemhäuser
+Öffentlicher Sektor
+Gesundheitswesen
+Individuelle Lösungen
+Produktportfolio
+Produktportfolio Übersicht
+Hardware
+Software
+Netzwerktechnologie
+Partner
+Airtame
+Referenzen
+Ankauf
+Nachhaltigkeit
+Karriere
+Kontakt
+NetCat SYSTEMS
+We supply IT.
+Sämtliche Produkte aller Hersteller von nur einem Lieferanten.
+Als Deutschlands führender Multi-Supplier profitieren auch Sie von unseren ausgezeichneten Sourcing-Kompetenzen.
+Mehr erfahren
+E-Procurement
+Wir übernehmen die
+Beschaffung für Sie.
+Mit unseren E-Procurement Lösungen optimieren Sie Ihre Beschaffungsaktivitäten und verwalten Ihre Beschaffungsprozesse effektiv.
+NetCat SYSTEMS
+Umfassende Produktpalette
+Wir verfügen über eine beeindruckende Vielfalt an Produkten von führenden Herstellern, die sämtliche Aspekte der IT-Infrastruktur abdecken.
+NetCat SYSTEMS
+Zuverlässigkeit
+Unsere bewährten Supplychains und unser erstklassiger Kundenservice gewährleisten,
+dass Sie die gewünschten Produkte termingerecht erhalten, ohne Kompromisse bei der Qualität einzugehen.
+Maßgeschneiderte Lösungen
+Unser engagiertes Team arbeitet eng mit Ihnen zusammen, um maßgeschneiderte Lösungen zu entwickeln,
+die perfekt auf Ihre spezifischen Anforderungen abgestimmt sind.
+NetCat SYSTEMS
+Supply Chain Solutions für
+IT-Systemhäuser
+mehr lesen
+Innere und äußere Sicherheit
+mehr lesen
+Gesundheitswesen
+mehr lesen
+Städte
+mehr lesen
+Anstalten des öffentlichen Rechts
+mehr lesen
+Bildungswesen
+mehr lesen
+NetCat SYSTEMS
+Benefits
+Vielfältiges Portfolio
+Durch unsere engen Beziehungen zu den führenden IT Herstellern und renommierten Lieferanten weltweit, erweitern wir kontinuierlich unser Portfolio, und bieten Ihnen eine umfassende Auswahl an hochwertigen IT Produkten aus allen Bereichen.
+Kostenersparnisse
+Unsere engen Partnerschaften zu Herstellern und Lieferanten ermöglichen uns Ihnen, attraktive Preise anzubieten, welche langfristig Kosten sparen und das Budget schonen.
+Wir bieten Ihnen kontinuierlich qualitativ hochwertige Produkte zu wettbewerbsfähigen Konditionen.
+Einfache Bestellprozesse
+Wir gestalten unsere internen Auftragsprozesse so, das sich diese reibungslos in Ihre Systeme eingliedern. Somit platzieren Sie schnell und einfach Ihre Bestellungen bei der NetCat SYSTEMS GmbH.
+Bestellabwicklung
+Wir übernehmen die gesamte Bestellabwicklung für Sie, angefangen von der Auftragsannahme bis hin zur zuverlässigen Lieferung an Ihre Wunschadresse.
+Lieferanten für jede IT Bedarfsanforderung
+Dank unseres weitreichenden Netzwerks an Herstellern und Lieferanten sind wir in der Lage, für jede IT-Bedarfsanforderung den optimalen Lieferanten bereitzustellen.
+Zuverlässigkeit
+Unser vorrangiges Ziel ist es, Ihnen einen verlässlichen 360° Service anzubieten, auf den Sie und Ihre Kunden sich jederzeit verlassen können.
+Keine Mindestbestellmenge
+Wir verzichten auf Mindestbestellmengen, um kleine Bedarfsanforderungen schnell und zuverlässig zu erfüllen.
+Unsere Flexibilität im IT Procurement ermöglicht Ihnen, unabhängig von der Bestellgröße genau das zu erhalten, was Sie benötigen.
+NetCat SYSTEMS – We supply IT.
+20
++
+Jahre am Markt
+NetCat SYSTEMS
+Höchste Kompetenz im IT Sourcing
+Wir von NetCat SYSTEMS sind stolz darauf, uns als Experten im Bereich IT-Sourcing & IT Procurement bezeichnen zu dürfen.
+Mit über 20 Jahren Erfahrung in der Branche haben wir uns ein globales Netzwerk an Herstellern und Lieferanten aufgebaut, welches uns ermöglicht, Ihnen immer die gewünschten Produkte und Lösungen zu attraktiven Konditionen anzubieten.
+Nach über 20 Jahre Erfahrungen und Know-how in der IT-Branche wissen wir, dass jeder Kunde einzigartig ist und individuelle Anforderungen hat. Wir hören unseren Kunden zu und gehen auf die einzelnen Bedürfnisse ein. Somit bietet die NetCat SYTEMS GmbH maßgeschneiderte Lösungen, die genau auf ihre Anforderungen abgestimmt sind . Wir generieren einen echten messbaren Mehrwert.
+Mehr erfahren
+Über 6 Millionen Produkte
+Kunden in 30 Ländern
+Über 10.000 zufriedene Kunden
+Kontakt
+NetCat SYSTEMS GmbH
+Weißdornweg 24
+59174 Kamen
+T: + 49 (0) 2307 96 10 - 0
+F: + 49 (0) 2307 96 10 - 199
+E: sales@netcatsystems.de
+Info & Bestellhotline
++ 49 (0) 2307 96 10 - 0
+Zahlung
+Versand
+Qualität
+Die NetCat SYSTEMS GmbH ist ISO9001:2015 zertifiziert. Dies belegt unsere Verpflichtung zur
+Qualitätssicherung und kontinuierlichen Verbesserung unserer Produkte und Dienstleistungen.
+Das Zertifikat bestätigt, dass unsere Geschäftsprozesse den internationalen Standards für Qualitätsmanagement entsprechen,
+um höchste Kundenzufriedenheit zu gewährleisten.
+Kontakt
+FAQ
+Impressum
+AGB
+Datenschutz
+© 2026 NetCat SYSTEMS GmbH
+| website by
+elephantscanjump.de

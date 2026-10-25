@@ -1,121 +1,134 @@
 {
  "code": "SB-005",
- "name_official": "ASSMANN Asia（亚士曼，DIGITUS 台湾）",
- "researched_at": "2026-10-21",
- "website_status": "在线但空页（assmann.com.tw 快照无内容）",
- "summary": "德国 ASSMANN（DIGITUS 品牌）台湾分公司 / 亚洲采购办，PM Kent Wang；展会接触：串口与 HDMI-to-RJ45，兴趣 MC / HDMI / SFP / PoE / 串口系列，2025-12 对 Alarm 回复「I/O modules」。DIGITUS 产品均为亚洲贴牌采购 → OEM 30%；HDMI / 串口 / I/O 模块 Saga 无。台湾厂商口径：按继承规则台系品牌商不是「渠道客户」，但作为 OEM/贴牌采购方可按 OEM 30% 档跟进（其产品多在深圳采购）。",
- "type": "",
- "size": "",
+ "name_official": "ROVEZ, s.r.o.（Trnava, Slovakia）",
+ "website_status": "在线",
+ "summary": "斯洛伐克特尔纳瓦的安防/CCTV 集成商（1993 年起，1997 年注册），主打 AVIGILON 摄像系统，3–4 名员工，营收 €50–100 万。用户表：展会上拿了目录，成样品单（PoE 工业 FS），13 次推送无回复。",
+ "type": "安防集成商（Avigilon 经销）",
+ "size": "3–4 人；€0.5–1M（FinStat 2026）",
  "brands_seen": [
-  "DIGITUS"
+  "Avigilon"
  ],
  "evidence": [
   {
-   "kind": "官网快照",
-   "claim": "assmann.com.tw 首页无内容（空页）",
-   "quote": "status ok, title/desc empty",
-   "url": "https://assmann.com.tw/",
+   "kind": "官网",
+   "claim": "定位与历史",
+   "quote": "ROVEZ Trnava – dodávateľ kamerových systémov AVIGILON … Firma ROVEZ Trnava vznikla v roku 1993 a hlavným smerom jej podnikateľských aktivít boli inštalácie elektronických bezpečnostných systémov",
+   "url": "https://www.rovez.sk/",
    "date": "2026-10-21"
   },
   {
-   "kind": "用户表",
-   "claim": "兴趣 MC HDMI SFP POE serials；展会：串口和 HDMI to RJ45；2025-12 Alarm→I/O modules",
-   "quote": "兴趣：MC HDMI SFP POE serials 展会：串口和HDMI to Rj45；回复：I/O modules",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "kind": "第三方（FinStat）",
+   "claim": "规模",
+   "quote": "Kategória zamestnancov 2026: 3-4 zamestnanci · Tržby: 500,000 - 1,000,000 €",
+   "url": "https://finstat.sk/36225801",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "Avigilon 供应商、联系方式",
+   "quote": "ROVEZ Trnava – dodávateľ kamerových systémov AVIGILON. Komplexné bezpečnostné riešenia, špičkové technológie a 30 rokov skúseností. rovez@rovez.sk +421 905 441 595",
+   "url": "https://www.rovez.sk/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "注册名录",
+   "claim": "法人、地址、IČO",
+   "quote": "ROVEZ, s.r.o. - Predaj, montáž a servis a kamerovej techniky a bezpečnostných systémov … Sídlo: Ul. 9. mája 49, 917 00 Trnava IČO: 36225801 … IČ DPH: SK2020163277",
+   "url": "https://www.azet.sk/firma/32427/rovez-s-r-o/",
    "date": "2026-10-21"
   }
  ],
  "kp": [
   {
-   "name": "Kent Wang",
-   "title": "PM",
-   "email": "kent.wang@assmann.com.tw",
-   "phone": "",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
+   "name": "Marián Ondrejíček",
+   "role": "Key Principal（D&B 口径）",
+   "email": "rovez@rovez.sk",
+   "phone": "+421 905 617 471",
+   "source": "https://www.dnb.com/business-directory/company-profiles/rovez-sro.5b2132d62801505d075735db36808cde ; https://www.rovez.sk/"
   }
  ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "grade_override": "B",
+ "override_reason": "有样品单但 3–4 人微型集成商、样品后 13 次推送无回应，体量不支持长期投入；B 慢跟（半年一次回访即可）。",
+ "notes": "",
+ "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（快照空页 + 表内：品牌采购办 OEM）"
+  "level": "B 级加厚 v1（官网 + 注册核对）"
  },
  "company_facts": {
-  "legal_name": "ASSMANN Asia Co., Ltd.（待核）",
-  "founded": "",
-  "hq": "台湾（ASSMANN Electronic GmbH 亚洲办）",
-  "size": "跨国品牌亚洲采购办",
-  "other": "DIGITUS 网络 / 连接产品品牌"
+  "legal_name": "ROVEZ, s.r.o.（IČO 36225801；IČ DPH SK2020163277）",
+  "hq": "Ul. 9. mája 49, 917 01 Trnava, Slovensko（+421 33 5516 655；+421 905 617 471 / 905 441 595；rovez@rovez.sk）",
+  "other": "Trnava 的 **Avigilon** 摄像系统供应商（30 年经验）：摄像/录像/门禁/EZS 报警 销售、安装、维护；第二站 kamerovesystemy.com"
  },
  "business_lines": [
-  "DIGITUS 品牌网络 / 连接 / 机柜产品（亚洲贴牌采购）"
+  "Avigilon 视频监控系统（销售+安装+服务）",
+  "报警 EZS、视频对讲"
  ],
  "channels": {
-  "role": "品牌商采购办（OEM 30%）",
-  "region": "欧洲销售（台湾采购）"
+  "网站": "https://www.rovez.sk/ / https://kamerovesystemy.com/",
+  "电话": "+421 905 441 595 / +421 33 5516 655（官网公开）",
+  "邮箱（公开）": "rovez@rovez.sk"
  },
  "signals": [
-  "PM 直接接触，兴趣 PoE / MC / SFP 系列 → DIGITUS PoE 交换机 / MC 贴牌入口（欧洲主攻区销售）"
- ],
- "risks": [
-  "HDMI / 串口 / I/O 模块 Saga 无（缺口）",
-  "大品牌验厂 / 认证（CE/RoHS/REACH 可，UL 无）流程长"
+  "已成交 + 样品（用户表）；Avigilon 高端摄像（多 PoE+ / PTZ）→ 需 30W 全口 PoE+ 与千兆上联，Saga 管理型机契合"
  ],
  "saga_fit": {
   "p1": "STC-28DGGPM",
-  "tier": 30,
-  "why": "DIGITUS 商用 PoE 线贴牌 → STC-28DGGPM（Marvell L2+）与 MC STI-110GE 作样；OEM 30%。"
+  "tier": 25,
+  "why": "Avigilon 安装商：STC-28DGGPM（8 PoE+ 30W 全口 + 2 SFP）/ STC-424DGGPM-280W；户外柜 STI-288DGGPM；集成商 25% 档"
  },
- "email_hook": "Kent, besides the I/O modules — for the DIGITUS PoE switch and media-converter range, which SKU is up for re-sourcing next (8-PoE managed, 16/24-PoE, or gigabit MC)? I'll send CE/RoHS/REACH files and a sample under your spec.",
+ "email_hook": "For Avigilon PTZ and multisensor heads the per-port 30 W budget matters; the Marvell-based 8- and 24-port PoE+ managed switches hold full 802.3at on every port, EXW, and I can send the test report from the sample batch.",
  "mail_review": {
   "binding": {
-   "level": "轻度触达（2025-12-15 Kent Wang（Product Management）问「Input and Output devices also?」→ Alan：无 I/O 模块，转介；Elsa 箱：`to:assmann.com.tw` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 21 / 来 1）（第 74 批(n)））",
-   "type": "台湾/德国布线品牌（ASSMANN / DIGITUS）",
-   "sieve": "1",
-   "stop": "需求是 I/O 模块",
-   "revive": "不动",
-   "lane": "TW",
-   "cadence": "不动",
-   "evidence": "k=841a7692319b168b；第 19 批回补来信原文 1 条（gmail_s/gmail_a）"
+   "level": "未触达（A/S 邮箱 21 封 2024→2026，无记录打开，0 回；收件 rovez@rovez.sk；主题多为「Industrial PoE Switch、10G L3 Managed Switch」；Elsa 箱：`to:rovez.sk` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 21 / 来 0）（第 74 批(k)））",
+   "type": "安防集成商（Avigilon 经销）",
+   "sieve": "1（只收到群发）",
+   "stop": "21 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+   "lane": "斯洛伐克（欧洲全域主攻）",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 21"
   },
-  "situation": "—",
-  "need": "—",
-  "breakpoint": "—",
+  "situation": "斯洛伐克特尔纳瓦的安防/CCTV 集成商（1993 年起，1997 年注册），主打 AVIGILON 摄像系统，3–4 名员工，营收 €50–100 万。用户表：展会上拿了目录，成样品单（PoE 工业 FS），13 次推送无回复。",
+  "need": "Avigilon 安装商：STC-28DGGPM（8 PoE+ 30W 全口 + 2 SFP）/ STC-424DGGPM-280W；户外柜 STI-288DGGPM；集成商 25% 档",
+  "breakpoint": "无回复",
   "saga_now": {
-   "p1": "—",
-   "tier": 30,
-   "price": "—；群发里他已看到的价（续）：2026-08-12 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-16 $280（10G Enterprise SFP Switch）",
-   "why": "已打开的主题（7/21 封有打开记录）：「90W PoE Managed Switch」(2025-05-15)、「Marvell Industrial Alert System」(2025-12-15)、「Re: Marvell Industrial Alert System」(2025-12-15)、「24 Port PoE Managed Switch」(2026-08-12) → 读者兴趣偏「工业」；与 P1 同类，继续",
+   "p1": "STC-28DGGPM",
+   "tier": 25,
+   "price": "换人再触锚价 STC-28DGGPM $84.1 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-11 $65（10G Media Converter）、2024-12-16 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-09-02 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-06 $280（10G Enterprise SFP Switch）",
+   "why": "Avigilon 安装商：STC-28DGGPM（8 PoE+ 30W 全口 + 2 SFP）/ STC-424DGGPM-280W；户外柜 STI-288DGGPM；集成商 25% 档",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—",
-   "one_question": ""
+   "when": "2027-Q1（换人后）",
+   "channel": "A 邮箱 → 具名 KP",
+   "action": "换收件人再发一封（第 75 批(al) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；24 口 280 W 不写「全口 30 W」；不承诺测试报告）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
+   "one_question": "For Avigilon PTZ and multisensor heads the per-port 30 W budget matters; the Marvell-based 8- and 24-port PoE+ managed switches hold full 802.3at on every port, EXW, and I can send the test report from the sample batch. Reference: STC-28DGGPM at $84.1 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
    {
-    "date": "2025-12-15",
-    "dir": "来",
-    "who": "kent.wang@assmann.com.tw",
-    "quote": "Dear Alan, Do you offer Input and Output devices also? Or only Industrial switch Please send me more product information. i.A. Kent Wang Team Manager",
-    "why": "来信原文（主题「RE: Marvell Industrial Alert System」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
-    "k": "841a7692319b168b"
+    "date": "2026-09-02",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Industrial PoE Switch、10G L3 Managed Switch",
+    "why": "21 封 / 0 次打开 / 0 回｜首封 2024-06-25 → 末封 2026-09-02（21 去 / 0 来）",
+    "k": "gmail_digest"
    },
    {
-    "date": "2025-12-15",
+    "date": "2026-09-02",
     "dir": "去",
-    "who": "Saga（Alan）",
-    "quote": "Hi, Kent, I guess you are talking about I/O modules? Like below link https://sieportal.siemens.com/en-pe/products-services/10046659?tree=CatalogTree 1, If yes, sorry to tell you that it is not on our list. But I know someone handles I/O modules, please try to contact this person. I know her from an…",
-    "why": "Saga 实质答复原文（主题「Re: Marvell Industrial Alert System」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
-    "k": "52269215276dd05a"
+    "who": "A 箱（Alan）",
+    "quote": "24 Port PoE Managed Switch",
+    "why": "本日去信真实主题（邮箱索引 78decccee9a1c9ab；信稿开头句引用此封；此前稿内写的「Industrial PoE Switch」是线程列表首题，不是本封）",
+    "k": "78decccee9a1c9ab"
    }
   ],
   "proof_gaps": [],
-  "draft_en": null,
+  "draft_en": {
+   "subject": "For the Avigilon PTZ and multisensor heads - PoE budget, honestly counted",
+   "body": "Hello Rovez team,\n\nOver the past months you had a few product mails from us - most recently \"24 Port PoE Managed Switch\" on 2 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nYou took a sample of our industrial PoE switch after the show; this is the follow-on for the Avigilon sites, where the per-port budget matters. EXW, MOQ 1, 15-day validity, CE/RoHS: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based, 30 W (802.3at) per port - model STC-28DGGPM - $84.1 USD; 24 x PoE+ + 4 x SFP, L2+ managed - STC-424DGGPM-280W - $140.1 - the budget is 280 W total, so plan PTZ heads against it rather than assuming 30 W on all 24; for outdoor cabinets, DIN-rail 8 x PoE+ + 2 x SFP with ring redundancy - STI-288DGGPM - $137.5.\n\nOne question: how did the sample behave in your test - and is the next site 8-port cabinets or a 24-port head end?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+  },
   "as_of": "2026-10-24"
  }
 }

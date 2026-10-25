@@ -1,106 +1,103 @@
 {
  "code": "SB-422",
- "name_official": "Optima Engineering / Optima Soft（Optima Mühendislik，Ankara Sincan, TR；optima-engineering.com · optima.tc）",
+ "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "在线",
- "summary": "安卡拉 Sincan Başkent OSB 的车辆出入口安防设备制造商 Optima Engineering（路障/升降柱/滑动门/道闸/破胎器/闸机/车牌识别/停车道闸；总部与工厂 Başkent OSB 19. Cadde No:62 Malıköy；伊斯坦布尔 Perpa 销售办；沙特 KSA 工厂；+90 312 815 15 00；optima@optima.tc；Optima Soft = 其软件/IP 视频团队）。ISAF 记录：技术经理 Furkan Kalkan——只处理 IP 摄像、基本不处理模拟，对 PoE 交换机有兴趣，会来深圳买产品（非参展），已邀其参观公司；2 次跟进 0 回复。设备制造商在柜内配套 PoE 交换机 → OEM/配套 30%。",
- "type": "",
+ "website_status": "在线（efb-elektronik.com.tr，快照 2026-10-21）",
+ "summary": "土耳其 EFB-Elektronik Türkiye（德国 EFB-Elektronik 集团（1988 年起，布线与网络产品制造商）土耳其公司：传输网络技术目录 2026/27、安防方案、PoE 远程供电方案页；表内「MC / 机架 / SFP / DAC / FS / 工业设备」；KP Tuğrul Akarsu（a.tugrul@））；表内 1 次跟进无回复。",
+ "type": "德系布线/网络制造商土耳其公司（自有标网络产品，OEM 采购）",
  "size": "",
  "brands_seen": [],
  "evidence": [
   {
-   "kind": "官网",
-   "claim": "总部/工厂与联系方式",
-   "quote": "Head Office and Factory Phone: +90 312 815 15 00 … Baskent Organize Sanayi Bölgesi 19.Cadde No:62 Malıköy 06909 Sincan / ANKARA-TURKEY optima@optima.tc info@optima-engineering.com Istanbul Sales Office Halil Rıfat Paşa Mah. Perpa Ticaret Merkezi A Blok K : 8 No:701",
-   "url": "https://www.optima-engineering.com/en/contact",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "产品线",
-   "quote": "Products - Road Blockers - Bollards - Sliding Gate - Arm Barriers - Tyre Killers - Turnstiles - Licence Plate Recognition System - Parking Barriers",
-   "url": "https://www.optima-engineering.com/en/corporate/why-optima",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "Instagram",
-   "claim": "沙特工厂",
-   "quote": "Ankara Genel Müdürlük: 0312 815 1500 KSA Fabrika: +966 11 415 0406 optima@optima.tc",
-   "url": "https://www.instagram.com/optima_turkiye/",
+   "kind": "官网快照",
+   "claim": "官网标题：EFB-Elektronik Türkiye - We care for connection；品类词 电信 / FTTH / ISP 设备 / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "EFB-Elektronik network ve güvenlik teknolojileriyle birlikte endüstriyel sistem çözümlerinde önde gelen bir imalatçı ve sistem sağlayıcıdır.",
+   "url": "https://www.efb-elektronik.com.tr/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "ISAF 互动：IP 摄像、PoE 兴趣、来深圳采购",
-   "quote": "只处理IP camera，基本不处理analog video,对POE switch有兴趣 会来深圳买产品但不是参展，邀请了他参观公司",
+   "claim": "表内兴趣/备注",
+   "quote": "MC 机架 SFP DAC FS 工业设备",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "EFB-Elektronik Türkiye 定位",
+   "quote": "EFB-Elektronik network ve güvenlik teknolojileriyle birlikte endüstriyel sistem çözümlerinde önde gelen bir imalatçı ve sistem sağlayıcıdır. ; We care for connection since 1988",
+   "url": "https://www.efb-elektronik.com.tr/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "MC 机架 SFP DAC FS 工业设备",
+   "quote": "MC 机架 SFP DAC FS 工业设备",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
  "kp": [
   {
-   "name": "Furkan Kalkan",
-   "role": "Technical Manager（用户表）",
-   "email": "furkan@optima.tc（用户表）",
-   "phone": "+90 507 463 0566（用户表）",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
+   "name": "Tuğrul Akarsu",
+   "title": "（表内联系人）",
+   "email": "a.tugrul@efb-elektronik.com.tr",
+   "phone": "",
+   "source": "用户表"
   }
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网核对）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "legal_name": "Optima Mühendislik（Optima Engineering）",
-  "hq": "Başkent Organize Sanayi Bölgesi 19. Cadde No:62, Malıköy 06909 Sincan / Ankara（+90 312 815 15 00）；İstanbul Perpa A Blok K:8 No:701",
-  "size": "制造商（人数待核）；沙特设厂",
-  "other": "产品：路障、升降柱、滑动门、道闸、破胎器、闸机、LPR 车牌识别、停车道闸"
+  "hq": "土耳其",
+  "other": "官网 efb-elektronik.com.tr，语言 tr-TR，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "车辆出入口安防设备制造（路障、升降柱、道闸、闸机）",
-  "车牌识别/停车系统（IP 摄像 + 控制柜）"
+  "布线 / 传输网络 / 安防产品（自有品牌 EFB）"
  ],
  "channels": {
-  "网站": "https://www.optima-engineering.com/",
-  "电话": "+90 312 815 15 00（公开）",
-  "邮箱（公开）": "optima@optima.tc / info@optima-engineering.com",
-  "Instagram": "https://www.instagram.com/optima_turkiye/"
+  "role": "德系布线/网络制造商土耳其公司（自有标网络产品，OEM 采购）",
+  "region": "土耳其",
+  "contact": "a.tugrul@efb-elektronik.com.tr、info@efb-elektronik.com.tr"
  },
  "signals": [
-  "LPR/道闸控制柜内需 4–8 口工业 PoE 为 IP 摄像与控制器供电 → 每套设备配一台，可贴 Optima 标；沙特工厂 = 第二出货地",
-  "会来深圳采购 → 可约郑州/深圳面谈并带样"
+  "官网：EFB-Elektronik network ve güvenlik teknolojileriyle birlikte endüstriyel sistem çözümlerinde önde gelen bir imalatçı ve sistem sağlayıcıdır ; We care for connection since 1988",
+  "页面 /coezuemler/remote-powering/poe、/katalogu；kw poe 48 / ethernet 37 / fiber 29；KP Tuğrul Akarsu"
  ],
  "risks": [
-  "公共/军事设施出入口项目按个案守界（设备商本身为民用制造）；2 次跟进 0 回复"
+  "集团采购可能集中在德国总部（土耳其公司为销售/方案）；SFP/DAC/机架为其主品类，Saga 不供",
+  "土耳其：汇率敏感；1 次跟进无回复"
  ],
  "saga_fit": {
-  "p1": "STI-144GP",
+  "p1": "STI-288GPM",
   "tier": 30,
-  "why": "OEM/配套 30% 档：STI-144GP（DIN 4 GE PoE + 1 SFP，$36.9）/ STI-154GP（4 PoE + 1 GE，$40.8）放 LPR 道闸控制柜；8 口 STI-288GP（$62.2）；可贴 Optima 标"
+  "why": "自有 EFB 标工业/PoE 设备 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ 商用 PoE 位 STC-28DGGPM；MC 位 STI-110GE；SFP/DAC/机架 Saga 不供（Q-32）"
  },
- "email_hook": "Furkan Bey, plaka tanıma ve bariyer panolarınız için DIN ray 4 port gigabit PoE + 1 SFP endüstriyel switch (−40/+75 °C) Optima etiketiyle EXW 36,9 USD; Shenzhen ziyaretinizde numuneyi elden teslim edebiliriz — tarih belli mi?",
+ "email_hook": "Tuğrul, for the EFB-labelled PoE and industrial switches in your transmission catalogue, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed, commercial 8/24-PoE L2+) from small lots, CE/RoHS — is product sourcing for Türkiye decided locally or through Bielefeld?",
  "mail_review": {
   "binding": {
-   "level": "未触达（A/S 邮箱 13 封 2024→2026，无记录打开，0 回；收件 furkan@optima.tc；主题多为「10G Enterprise SFP Switch、Industrial PoE Switch」；Elsa 箱：`to:optima-engineering.com OR to:optima.tc` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 13 / 来 0）（第 74 批(i)））",
-   "type": "—",
-   "sieve": "1（只收到群发）",
-   "stop": "13 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "level": "未触达（A/S 邮箱 12 封 2024→2026，1 次记录打开，0 回；收件 a.tugrul@efb-elektronik.com.tr, info@efb-elektronik.com.tr；主题多为「10G Enterprise SFP Switch、Industrial PoE Switch」；Elsa 箱：`to:efb-elektronik.com.tr` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 12 / 来 0）（第 74 批(i)））",
+   "type": "德系布线/网络制造商土耳其公司（自有标网络产品，OEM 采购）",
+   "sieve": "1~2（1 次打开）",
+   "stop": "12 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
    "revive": "保持季度群发到 2027-Q1；无打开即停",
    "lane": "TR 主攻（四主）",
    "cadence": "季度",
-   "evidence": "gmail_digest：out 13；用户表：「只处理IP camera，基本不处理analog video,对POE switch有兴趣 会来深圳买产品但不是参展，邀请了他参观公司」；研究档 risks：公共/军事设施出入口项目按个案守界（设备商本身为民用制造）；2 次跟进 0 回复"
+   "evidence": "gmail_digest：out 12，Opened 标签 1（Simon 群发追踪）；用户表：「MC 机架 SFP DAC FS 工业设备」；研究档 risks：集团采购可能集中在德国总部（土耳其公司为销售/方案）；SFP/DAC/机架为其主品类，Saga 不供"
   },
-  "situation": "安卡拉 Sincan Başkent OSB 的车辆出入口安防设备制造商 Optima Engineering（路障/升降柱/滑动门/道闸/破胎器/闸机/车牌识别/停车道闸；总部与工厂 Başkent OSB 19. Cadde No:62 Malıköy；伊斯坦布尔 Perpa 销售办；沙特 KSA 工厂；+90 312 815 15 00；optima@optima.tc；Optima Soft = 其软件/IP 视频团队）。ISAF 记录：技术经理 Furkan Kalkan——只处理 IP 摄像、基本不处理模拟，对 PoE 交换机有兴趣，会来深圳买产品（非参展），已邀其参观公司；2 次跟进 0 回复。设备制造商在柜内配套 PoE 交换机 → OEM/配套 30%。",
-  "need": "OEM/配套 30% 档：STI-144GP（DIN 4 GE PoE + 1 SFP，$36.9）/ STI-154GP（4 PoE + 1 GE，$40.8）放 LPR 道闸控制柜；8 口 STI-288GP（$62.2）；可贴 Optima 标",
-  "breakpoint": "公共/军事设施出入口项目按个案守界（设备商本身为民用制造）；2 次跟进 0 回复",
+  "situation": "土耳其 EFB-Elektronik Türkiye（德国 EFB-Elektronik 集团（1988 年起，布线与网络产品制造商）土耳其公司：传输网络技术目录 2026/27、安防方案、PoE 远程供电方案页；表内「MC / 机架 / SFP / DAC / FS / 工业设备」；KP Tuğrul Akarsu（a.tugrul@））；表内 1 次跟进无回复。",
+  "need": "自有 EFB 标工业/PoE 设备 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ 商用 PoE 位 STC-28DGGPM；MC 位 STI-110GE；SFP/DAC/机架 Saga 不供（Q-32）",
+  "breakpoint": "集团采购可能集中在德国总部（土耳其公司为销售/方案）；SFP/DAC/机架为其主品类，Saga 不供",
   "saga_now": {
-   "p1": "STI-144GP",
+   "p1": "STI-288GPM",
    "tier": 30,
-   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-26 $280（10G Enterprise SFP Switch）",
-   "why": "OEM/配套 30% 档：STI-144GP（DIN 4 GE PoE + 1 SFP，$36.9）/ STI-154GP（4 PoE + 1 GE，$40.8）放 LPR 道闸控制柜；8 口 STI-288GP（$62.2）；可贴 Optima 标",
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-19 $65（10G fiber media converter）；群发里他已看到的价（续，第 66 批全量复核）：2024-11-25 $300（48 Port PoE Managed Switch）、2025-09-25 $280（10G Enterprise SFP Switch）",
+   "why": "自有 EFB 标工业/PoE 设备 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ 商用 PoE 位 STC-28DGGPM；MC 位 STI-110GE；SFP/DAC/机架 Saga 不供（Q-32）。已打开的主题（1/12 封有打开记录）：「48 Port PoE Managed Switch」(2024-11-25) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
    "repeat": [],
    "gaps": []
   },
@@ -108,30 +105,30 @@
    "when": "群发节奏",
    "channel": "A 邮箱",
    "action": "观察打开",
-   "one_question": "Furkan Bey, plaka tanıma ve bariyer panolarınız için DIN ray 4 port gigabit PoE + 1 SFP endüstriyel switch (−40/+75 °C) Optima etiketiyle EXW 36,9 USD; Shenzhen ziyaretinizde numuneyi elden teslim edebiliriz — tarih belli mi?"
+   "one_question": "Tuğrul, for the EFB-labelled PoE and industrial switches in your transmission catalogue, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed, commercial 8/24-PoE L2+) from small lots, CE/RoHS — is product sourcing for Türkiye decided locally or through Bielefeld?"
   },
   "facts": [
    {
     "date": "2024-11-05",
     "dir": "去",
-    "who": "Simon → Angora Networks（SA-168）附件 Turkey Client List.xlsx",
-    "quote": "名单行：「Technical Manager Commercial PoE furkan@optima.tc 90507 463 0566 Optima Soft」",
+    "who": "Simon → Angora Networks（SA-077）附件 Turkey Client List.xlsx",
+    "quote": "名单行：「a.tugrul@efb-elektronik.com.tr industrial network info@efb-elektronik.com.tr https://www.efb-elektronik.com.tr/ueruenler/ag-coezuemleri」",
     "why": "Saga 2024-11-05 把本户列入交给 Angora（安卡拉，Saga 提议的欧盟/土耳其分销伙伴）的 64 家起步名单；此后 Saga 仍直发本户。若 Angora 已接触过本户，Saga 直发会与自己提议的渠道打架 → Q-51（默认：直发继续，Angora 报了价的户 Saga 只做技术支持）",
     "k": "gmail_s 2024-11-05 Re: Invoice_5pcs STC-424DGGPM-280W（附件）+ Drive PI 7_土耳其 Turkey_Client_List.xlsx"
    },
    {
-    "date": "2026-09-17",
+    "date": "2026-03-03",
     "dir": "去",
     "who": "A/S 群发",
     "quote": "10G Enterprise SFP Switch、Industrial PoE Switch",
-    "why": "13 封 / 0 次打开 / 0 回｜首封 2024-07-22 → 末封 2026-09-17（13 去 / 0 来）",
+    "why": "12 封 / 1 次打开 / 0 回｜首封 2024-06-24 → 末封 2026-03-03（12 去 / 0 来）",
     "k": "gmail_digest"
    },
    {
     "date": "2026-10-21",
     "dir": "用户表",
     "who": "Simon",
-    "quote": "只处理IP camera，基本不处理analog video,对POE switch有兴趣 会来深圳买产品但不是参展，邀请了他参观公司",
+    "quote": "MC 机架 SFP DAC FS 工业设备",
     "why": "表内备注",
     "k": "用户表"
    }

@@ -1,148 +1,197 @@
-# SB-864 sitech-bitdriver.com · home · https://sitech-bitdriver.com/ · fetched 2026-10-25T07:41:18Z · HTTP 200
-A World of Fiber Optic Solutions by S.I. Tech, Inc.
-Careers
-Partners
-News
-About
-Products
-Bit-Driver® Store
-Contact us
-A World of S.I. Tech
-Fiber Optic Solutions
-S.I. Tech manufactures fiber optic communication products in the USA.
-Our products include modems (media converters), multiplexers, repeaters, hubs and cable assemblies for private LAN / WAN industrial applications. Know more
-Industries we serve include Aerospace, Military Defense, Homeland Security, Wind Turbine, SCADA, Building Automation Controls, National R&D Test Labs, Utilities, Airport CT scanners, fiber to the desktop and a myriad of other industries and applications. Many of our products convert electrical signals to light, allowing data to be transmitted over fiber optic cabling. This enables data to be transmitted farther, reduces EMI/RFI interference and provides for secure communications (see why fiber optics ). Know less
-View products
-S.I. Tech products are deployed
-in 40 countries around the
-world
-About
-Products
-Bit-Driver® Store
-Contact us
-Fiber Optic
-Accessories
-Fiber Optic Adapters
-Fiber Optic Attenuators
-Fiber Optic Couplers
-Fiber Optic Connectors
-More
-Fiber Products for WAN
-T1 (DS1) to Fiber Modems
-Fiber Products for
-LAN Applications
-Ethernet Modems
-Optical Repeaters
-Rack Mounted Media
-Converters
-Signal Distribution
-Systems
-Full Catalog
-Fiber Products for
-Industrial Applications
-Fiber Optic Modems
-Fiber Optic Multiplexers
-Fiber Optic Hubs,
-Repeaters, & Switches
-Fiber Cluster®
-Optical Repeaters
-Fiber Optic Modems
-(Media Converters)
-Alarm over Fiber Modems
-Audio & Video Modems
-CAN Bus to Fiber Modem
-ECL to Fiber Media Converters
-Serial to Fiber Media Converters
-TTL to Fiber Media Converters
-USB to Fiber Media Converters
-More
-Fiber Optic
-Multiplexers
-RS-232 to Fiber Mux
-RS-422 to Fiber Mux
-RS-485 to Fiber Mux
-Wave Division Multiplexers
-Product Offering
-Fiber Optic Solutions for
-Fiber Optic
-Modems
-(Media Converters)
-Fiber Optic Bit
-Drivers
-(RS232/Ethernet/USB over
-fiber)
-WAN/LAN
-(Ethernet to
-Fiber)
-Trusted by the leading organizations
-Industries We Serve
-With Our Fiber Optic
-Communication Products
-Aerospace and
-Military Defense
-Homeland Security
-Wind Turbine
-SCADA
-Building Automation Controls
-National Research and Development Test Labs
-Energy Management and Controls
-Utilities
-Oil and Gas
-Defense Contractors
-Airport CT Scanners
-Transportation
-OEMs - Process Control & Manufacturing
-University & College Campus LAN / WAN and Test Labs
-A/V and Audio Video Alarm Systems
-Airports / Sports Stadiums / Prisons - LANs & WANs
-Health Care Facilities
-CT and MRI Audio & Video Solutions
-Telecom
-Data Communications / Computer Companies
-Fiber To The Desk Top
-Entertainment
-Food Companies
-Cosmetics
-The Bit-Driver® Store
-Fiber Optic Accessories
-Explore Products ->
-Fiber Optic Cable Assemblies
-Explore Products ->
-Media Converters
-Explore Products ->
-Fiber Optic Repeaters
-Explore Products ->
-Explore more store products
-Additional assistance
-01 Application Guide
-02 Application Example
-03 Downloads (Catalog)
-04 Frequently Asked Questions
-05 Request Information
-S.I. Tech manufactures fiber optic communication equipment for
-networking applications.
-Learn more ->
-©S.I. Tech Inc. All Rights Reserved
-Privacy policy
-·
-Terms and conditions
-Solutions
-How to Order
-Order tracking
-Technical Support
-Warranty Registration
-Company
-About
-Latest News
-Careers
-Site Map
-Partners
-Contact Us
-Business
-Need a quote
-sales@sitech-bitdriver.com
-To call
-(630) 761-3640
-UL and CE Listed Member-Profibus
-ISO9001:2015
-Certified
+# SB-864 dacelsolutions.com · home · https://www.dacelsolutions.com/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+DACEL Mühendislik - Teknolojik Değişim Lideri
+Yeni web sitemize taşındık! dacel.com.tr - Hemen ziyaret edin.
+MENÜ
+Anasayfa" href="https://www.dacelsolutions.com" >Anasayfa
+Kurumsal
+Değerlerimiz
+Firma Profili
+Kalite Anlayışımız
+İnsan Kaynakları
+Kişisel Verilerin Korunması
+Markalar
+Sistemler
+Yangın Algılama ve Alarm Sistemleri Yangın Sistemi Merkezi Ekipmanları
+Dedektorler
+Siemens Yangın Alarm Butonları
+Yangın sistemi Uyarı Cihazları
+Yangın sistemi Giriş Çıkış Modülleri
+Ex-Proof Saha Cihazları
+CCTV ve Video Kontrol CCTV Sistemi Merkez Ekipmanları
+Kameralar
+CCTV Yönetim ve Entegrasyon Yazılımları
+Switch Üniteleri
+Genel Dokümanlar
+Geçiş Kontrol Sistemleri Geçiş Kontrol Merkez Ekipmanları
+Geçiş Kontrol Saha Ekipmanları
+Geçiş Kontrol Yönetim Yazılımları
+Geçiş Kontrol Entegrasyon Ürünleri
+Gazlı Söndürme Sistemleri Gazlı Söndürme Merkez Ekipmanları
+Gazlı Söndürme Sistemi Dedektörleri
+Gaz Algılama Sistemleri Gaz algılama Sistemi Merkez Ekipmanları
+KNX (EIB) Aydınlatma Otomasyonu KNX (EIB) Görüntüleme ve Çalıştırma Birimleri
+KNX (EIB) Giriş Çıkış Ekipmanları
+KNX (EIB) Aydınlatma
+KNX (EIB) Güneş Koruma Ekipmanları
+KNX (EIB) Oda Kontrol Kutuları
+KNX (EIB) Ağ Geçitleri
+KNX (EIB) Fiziksel Sensörler
+KNX (EIB) Kontrol ve Otomasyon Ekipmanları
+KNX (EIB) Diğer Ekipmanlar
+Acil Anons ve Seslendirme Acil Anons ve Seslendirme Sistem Merkezi Ekipmanları
+Acil Anons ve Seslendirme Hoparlörler
+Acil Anons ve Seslendirme Sistem Bileşenleri
+Acil Anons ve Seslendirme Prensip Şemaları
+HVAC Otomasyon
+Ürünler
+Otomasyon Sistemleri Makina Otomasyon Kontrolörleri (PLC)
+Programlanabilir Lojik Kontrolörler (PLC)
+Uzak G/Ç
+İnsan Makine Arabirimi (HMI)
+Endüstriyel PC
+Endüstriyel IOT
+Otomasyon Yazılımları
+Güç Kaynakları
+Hareket ve Sürücüler Hareket Kontrolörleri
+Servo Sistemler
+AC Motor Inverterleri
+Endüstriyel Robotlar
+Algılama (Sensörler) Fotoelektrik Sensörler
+Fiber Optik Sensörler
+Endüktif Sensörler
+Endüstriyel Kamera Sensörleri ve Kamera Işıkları
+Ultrasonik Sensörler
+Radar Sensörler
+Lazer Sensörler
+Kapasitif Sensörler
+Kablosuz Algılama (Sensör) Ağları
+Çatal Sensörler
+Basınç Sensörleri
+Enkoderler
+Alan Sensörleri
+Optoelektronik Güvenlik Cihazları Işık Bariyeri
+Lazer Alan Tarayıcılar
+Emniyet Kilit Devreleri
+Çift-El Kontrollü Modüller
+Emniyet Kontrolörleri ve Modülleri
+Acil Durum Butonu & Kontrolü
+Ağ (Network) Sistemleri DIN Raya Takılabilen Endüstriyel Ethernet Switch
+19inc Endüstriyel Ethernet Switch
+Endüstriyel Kablosuz LAN
+Endüstriyel Ethernet Omurga Switch
+HSR ve PRP Endüstriyel Ethernet Switchler
+Endüstriyel Firewall
+Yazılım Platformu
+Endüstriyel Ethernet Sistem Aksesuarları
+Endüstriyel GSM Router
+Aydınlatma ve İndikatörler Işık Kuleleri
+Led İndikatörleri
+Baz Montajlı Işıklar
+Pick-to-Light
+Dokunmatik Butonlar
+Endüstri ve Fabrika Otomasyonu için LED Aydınlatma
+Sinyal Lambaları (Trafik Işıkları)
+Kablo ve Konnektörler Endüstriyel Konnektörler
+Belden DataTuff® Endüstriyel Ethernet Kablolar
+Pasif Sensör Dağıtım Kutuları
+Endüstriyel Data ve Proses Otomasyon Kabloları
+Belden RailTuff Demiryolu Onaylı Endüstriyel Ethernet Kablolar
+Belden Sensör ve Aktuatör kabloları
+Belden VFD (Voltaj Frekans Sürücüleri) Kabloları
+Belden Single Pair Ethernet (SPE)
+Sıcaklık Kontrol ve Sayıcılar Sıcaklık Kontrol Cihazları
+Solid State Röle (SSR Röle)
+Sayıcılar
+Zamanlayıcılar
+Kayıt Cihazları
+Destek ve Eğitim
+Download
+Fiyat Listeleri
+Nasıl Yapılır ?
+Arıza Bildirim
+Kütüphane
+Sıkça Sorulan Sorular
+Uygulama Notları
+Dacel Blog
+İletişim
+Hızlı Bağlantılar
+CCTV ve Video Kontrol
+Servo Sistemler
+Endüstriyel Ethernet Switch
+Sensörler
+Yukarı kaydır
+Yangın Algılama ve Alarm Sistemleri
+CCTV ve Video Kontrol
+Geçiş Kontrol Sistemleri
+Gazlı Söndürme Sistemleri
+Gaz Algılama Sistemleri
+KNX Aydınlatma Otomasyonu
+Acil Anons ve Seslendirme
+HVAC Otomasyon
+Trafik ve Park Algılama
+Data Center Çözümleri
+Enerji Otomasyonu ve SCADA
+Ulaşım ve Ulaştırma Sistemleri
+Fabrika Otomasyonu
+Kimya
+Bina Otomasyon Sistemleri
+Endüstri 4.0
+Petrol ve Gaz
+Yangın Algılama ve Alarm Sistemleri
+CCTV ve Video Kontrol
+Geçiş Kontrol Sistemleri
+Gazlı Söndürme Sistemleri
+Gaz Algılama Sistemleri
+KNX (EIB) Aydınlatma Otomasyonu
+Acil Anons ve Seslendirme
+HVAC Otomasyon
+Trafik ve Park Algılama
+Data Center Çözümleri
+Enerji Otomasyonu ve SCADA
+Ulaşım ve Ulaştırma Sistemleri
+Fabrika Otomasyonu
+Bina Otomasyon Sistemleri
+Endüstri 4.0
+Petrol ve Gaz
+1 2 3 4
+Güncel Ürünler
+SLU4 Serisi Ultrasonik Etiket Sensoru
+SLE3 Serisi Yuksek Hızlı Etiket Sensoru
+T30R Serisi Radar Sensör
+S15S Sıcaklık ve Nem Sensörü
+Tehlike Yönetim Sistemi
+Haber ve Duyurular
+Hirschmann RSP-Turkce Manual K..
+2020-06-18
+Hirschmann L2P-MACH10x0 Turkce..
+2020-06-18
+Hirschmann EAGLE 20-30 Static ..
+2020-06-18
+Hirschmann EAGLE 20-30 Mac Fil..
+2020-06-18
+Hirschmann RSTP Ring Kurulumu..
+2020-06-17
+DAC-EL Elektrik, Elektronik, Müh. Sis. San. ve Tic Ltd. Şti.
+DACEL Mühendislik, Endüstriyel Kontrol ve otomasyon ürünleri rekabetçi fiyatlarla ve geniş ürün yelpazesinde satış ve servis desteği ve tedarikçi adresinde yüksek kaliteli çözümler sunmaktadır.
+Hakkımızda
+Hizmetlerimiz
+Yangın Algılama ve Alarm Sistemleri CCTV ve Video Kontrol Geçiş Kontrol Sistemleri Gazlı Söndürme Sistemleri Gaz Algılama Sistemleri KNX (EIB) Aydınlatma Otomasyonu Acil Anons ve Seslendirme HVAC Otomasyon
+Markalarımız
+American Fibertek Autonics Banner Engineering Belden BOSCH Elabo Hirschmann LENEL Lumberg Automation Mitsubishi Electric Onxio SEETEC SIEMENS Vesda WECON XECRO GmbH
+İletişim
+Adres
+:
+Oruçreis Mah. Tekstilkent Cd. Tekstilkent Sanayi Sit.
+A-08 Apt. No:10 AM/Z08-9 Esenler / İstanbul
+Telefon
+:
+0212 210 76 46
+Fax
+:
+0212 220 50 45
+E-Posta
+:
+info@dacel.com.tr
+Sosyal Medya Hesaplarımız
+© Copyright 2021, DAC-EL Elektrik, Elektronik, Müh. Sis. San. ve Tic. Ltd. Şti. | Her Hakkı Saklıdır.
+Site Haritası | Bize Ulaşın | KVKK

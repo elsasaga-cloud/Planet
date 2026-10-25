@@ -1,204 +1,131 @@
-# SB-070 genieproducts.co.uk · home · https://genieproducts.co.uk/ · fetched 2026-10-25T07:41:18Z · HTTP 200
-Home - Genie Products
-Skip to content
-Solutions
-About Genie Solutions
-Video Solutions
-Access Control Solutions
-CADIP8NEBVAF
-8MP NDAA PSTI IP Active Deterrent Eyeball Camera, Auto Focus Varifocal Lens
-Two Way Audio, Intelligent Analytics, White Light, Red and Blue Warning Lights
-Learn more
-Access control & biometrics
-Door Controllers
-Biometric Readers
-Enrolment Readers
-Keypads & Readers
-Exit Buttons
-Enclosures
-Accessories
-WIP2FRTMTP
-Professional robust high quality Full HD camera system designed to utilise any combination of human body temperature sensing, facial recognition and mask detection screening for secure and safe access control and monitoring.
-See more
-CCTV
-AHD
-Body Worn
-HD-SDI
-Network IP
-Wireless Video Transmission
-Housings & Illuminators
-Lenses
-Monitors
-Recorders
-Test Equipment
-Smart Cabling
-Miscellaneous
-WIPX4NMVDVAF
-4MP IP IR vandal dome camera with a 2.8-12mm auto focus lens. The camera features facial recognition and Video Metadata functionality when paired with any Genie AI NVR.
-See more
-Software
-All software
-Recent software updates
-GenieVMS
-GenieVMS Standard for Windows. Free 32 channel license included, but can be expanded to support up to 2048 channels, and is suitable for the Genie Xpert range, Focus range, and Onvif compliant devices.
-See more
+# SB-070 neowine · home · https://neowine.com/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+neowine
+팝업레이어 알림
+팝업레이어 알림이 없습니다.
+Company Logo
+cha
+About
+NEOWINE
+History
+Patents & Publications
+Location
+Product
+ALPU
+DALPU
+MCU
+AI Solution
+R&D Projects
+Business
+Business Area
+Application
+Distributors
 Support
-Contact Us
-Cybersecurity
-Technical Documents
-F.A.Q's
-Contact
-General
-+44(0)1707 330541
-[email protected]
-Support
-+44(0)1707 330541
-[email protected]
-Company
-Genie
-About Genie
-Case Studies
+Document
+Career
 News
-All News
-Latest
-How Surveillance Helps Reduce Employee and Customer Theft
-What Is a PTZ Camera and When Should You Use One?
-How Many CCTV Cameras Do I Need for My Property?
-Shop
-Shop All
-CCTV
-Access Control
-GCN4000
-NDAA and PSTI compliant Video Intercom Entry Station IP67 supporting Face Recognition, Keypad, Proximity, and Wi-fi communication
-See more
-{ $refs.search_input.focus() })"
->
-Search for:
-My account
-Email address
-Password
-Sign in
-Forgot password?
-Don’t have an account?
-Register now
-Total (GBP)
-0
-items
-£ 0.00
-No products in the basket.
-Open menu
-Back
-Solutions
-About Genie Solutions
-Video Solutions
-Access Control Solutions
-Access control & biometrics
-Door Controllers
-Biometric Readers
-Enrolment Readers
-Keypads & Readers
-Exit Buttons
-Enclosures
-Accessories
-CCTV
-AHD
-Body Worn
-HD-SDI
-Network IP
-Wireless Video Transmission
-Housings & Illuminators
-Lenses
-Monitors
-Recorders
-Test Equipment
-Smart Cabling
-Miscellaneous
-Software
-All software
-Support
-Contact Us
-Cybersecurity
-Technical Documents
-F.A.Q's
-Company
-About Genie
-Case Studies
-All News
-Shop
-CCTV
-Access Control
-Genie Solutions
-Smart, safe and secure. Leading edge CCTV and Access Control system solutions to protect and future proof your business today.
-Learn more
-Confidence Installed
-– Supporting Installers throughout the UK – Trade Only
-Supporting Installers across the United Kingdom
-We’ve been keeping UK businesses secure for over 20 years. That’s why installers keep coming back.
-Learn More About Genie
-Helping businesses through Covid
-From flow controlled areas, to live temperature scanning, find out how Genie helped installers and their customers during lockdown.
-View Our Range
-Access Control and Biometric Products
-Learn more
-View our Marine Range
-Learn more
-View our Xpert Range
-Learn more
-Products
-Browse the complete range
-AHD
-Body Worn
-HD-SDI
-Network IP
-Housings & Illuminators
-Wireless Video Transmission
-Lenses
-Monitors
-Recorders
-Test Equipment
-Smart Cabling
-Miscellaneous
-Whether you need one camera, or 1001, simple constant recording or smart recording using modern intelligent analytics, Genie can oblige. Perhaps a total solution, including integration with fully functional biometric access control systems? Absolutely.
-Whatever you need, we have the talent, the experience and the tenacity to exceed your expectations. Get in touch today.
-Suppliers to
-Bio Access
-Case Study
-Base jump
-Base Jump is the biggest trampoline park in the South East of England…
-Learn more
-Access Control
-Case Study
-The Old Tollgate Hotel
-Based in Steyning, West Sussex, and just 10 miles north of Brighton, the Best Western Plus Old Tollgate Hotel is one of the finest hotels within the area. The Challenge Due to the current circumstance of COVID-19, the hotel needed to put procedures in place in order to re-open their doors. With many other measures … Continued
-Learn more
-Keep up to date with
-the latest from Genie
-Sign up today and keep up to date with the latest Genie CCTV and access control news and product announcements.
-Email (Required)
-CAPTCHA
-Submit
-Home
-News
-Privacy Policy
-About Genie Solutions
-Genie Case Studies
-CCTV
-Access Control
-Support
-Cybersecurity
-Contact
-About Us
-F.A.Q’s
-Shop
-My Account
-Terms & Conditions
-Warranty Statement & Returns Procedure
-Sales
-+44(0)1707 330541
-Enquiries
+Notice
+Press
+Exhibition & Events
+Neo Column
+Video
+kor
+eng
+cha
+전체검색
+사이트 내 전체검색
+검색어 필수
+검색
+복제방지 반도체 (ALPU)
+"2002년부터, 불법 복제 0건, 전 세계 2,000개 기업 2억 개 공급"
+"Since 2002, zero cases of illegal duplication, supplying 200 million units to 2,000 companies worldwide"
+더보기
+ALPU-CV
+Security IC for vehicle, AEC-Q100 class 1 acquired
+더보기
+AI Solution
+AI IP & SW are a solution for AI chip developers and AI application developers.
+They can be used to develop AI chips to parallel process AI data.
+더보기
+ALPU series
+전자기기의 시스템 S/W의 불법복제를
+방지하기 위한 보안반도체 IC
+자세히 (Detail)
+DALPU series
+IoT 기기에서 생성하는 데이터의
+인증과 암/복호화 처리를 위해
+PKI 기반 알고리즘이 탑재된 제품
+자세히 (Detail)
+IP for AI Acceleration
+AI 가속을 위한 NPU IP, 컴파일러
+AI 가속을 위한 GPGPU IP
+AI 반도체 교육 시스템
+자세히 (Detail)
+NeoAI+
+생성형AI기반 개인정보 비식별화 솔루션,
+생성형AI기반 학습데이터 증강, 인공지능 OpenAPI 서비스
+자세히 (Detail)
+NOTICE
+[전시참가결과] 스마트라이프위크 2026 (10/6~10/8, Coex,…
+neowine
+10-16
+[논문게재] 디지털콘텐츠학회논문지 제27권 제9호
+neowine
+10-16
+특허 및 논문 페이지 신설
+neowine
+09-17
+국방벤처 협약기업 선정 및 확인 안내
+neowine
+09-10
+《반도체 강국의 역설》출간 및 안내
+neowine
+05-22
+NOTICE 더보기
+Press
+보안뉴스 | 네오와인, 복제 방지 칩으로 대만 시장 공략 나서
+neowine
+06-08
+전자신문 | 이효승 한국시스템반도체협동조합 이사장 “국방반도체, K팹리스…
+neowine
+02-24
+전자신문 | 40나노 파운드리, 늦었지만 반드시 가야 할 길
+neowine
+01-07
+아이뉴스24 | 제3회 팹리스인의 날 기념식 '네오와인' 성남시장 표창
+neowine
+12-02
+디일렉 | (방송본) 대한민국 AI 반도체, 이렇게 가면 망합니다
+neowine
+06-10
+Press 더보기
+Video
+디일렉 | 네오와인-하이퍼비주얼에이아이, GPU·NPU 결합한 엣지 AI…
+neowine
+02-02
+AI 골프 플랫폼 소개영상 (한글)
+neowine
+12-16
+디일렉 | HBM 수율 99.9% 실현? 네오와인의 파격 특허 제안
+neowine
+06-10
+NEOAI 화재연기인식 데모 (2025.3)
+neowine
+03-04
+NPU Inference Demo (네오와인 인공지능 반도체 추론 데모)
+neowine
+07-23
+Video 더보기
+회사명
+Neowine
+대표
+이효승
+주소
+경기도 성남시 분당구 백현로 97 ( 수내동 22-3) 1206호
+전화
+031-706-8484
+팩스
+031-706-8485
+사업문의
 [email protected]
-Returns
-[email protected]
-© Bioaccess Sales Ltd
-Registered Office : c/o Becktech Limited, Terminus Road, Chichester, West Sussex, PO19 8DW | Registered in
-England 12058650 | VAT Number: 325 6941 88
+Copyright © NEOWINE All rights reserved.
+상단으로

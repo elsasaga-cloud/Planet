@@ -1,267 +1,47 @@
-# SB-612 fotech.com.tr · news_1 · https://www.fotech.com.tr/tr/blog/veri-merkezi-altyapi-cozumleri · fetched 2026-10-25T07:41:18Z · HTTP 200
-Veri Merkezi Altyapı Çözümleri - Fotech
-GİRİŞ YAP
-KURUMSAL
-Hakkımızda
-Tarihçe
-İş Ortaklarımız
-Sertifikalarımız
-Kalite Politikamız
-Referanslar
-Teknik Dokümanlar
-Form ve Anketler
-Kariyer
-Seminer Katılım Formu
-KVKK
-ÇÖZÜMLERİMİZ
-Ağ (Network) Sistemleri ve Entegrasyon
-Ağ (Network) Sistemleri
-Sunucu&Depolama Ve Sanallaştırma Çözümleri
-IP Tabanlı Ses ve Görüntü Sistemleri
-Yapısal Kablolama Sistemleri
-PC & Notebook & Printer Ürünleri
-Yazılım ve Yedekleme Çözümleri
-Veri Merkezi
-Verimlilik Çözümleri
-Güç Sistemleri
-İklimlendirme Sistemleri
-Güvenlik Sistemleri
-Altyapı Çözümleri
-Uptime Tier Sertifikasyonu
-Video Wall Çözümleri
-Zayıf Akım Sistemleri
-CCTV Sistemleri
-Geçiş Kontrol Sistemleri
-Ses ve Görüntü (AV) Sistemleri
-KVM (Keyboard, Video, Mouse)
-Kontrol Odası Çözümleri
-Yangın Algılama ve İhbar Sistemi
-Acil Anons ve Seslendirme
-Senkronizasyon
-GNSS Çözümleri
-PTP / SyncE / NTP Çözümleri
-SSU, SDU Çözümleri
-Birincil Referans Kaynakları (ePRTC) / Sezyum Atomik Saat Kaynağı
-Servis Kalitesi
-Fiber Ağ İzleme ve Yönetimi
-Carrier Wi-Fi İzleme ve Yönetimi
-VoLTE QoE Çözümleri
-Performans İzleme ve Yönetimi
-Ağ ve Servis Topolojisi
-Test ve Ölçüm
-Fiber Optik ve Bakır Kablo Test / Sertifikasyon Cihazları
-Kablosuz Ağ Test Cihazları
-Transport ve Datakom Test Cihazları
-Sanal Ağ Test Çözümleri
-Fiber Ek Cihazları
-Cihaz Kiralama Hizmetleri
-ÜRÜNLERİMİZ
-Fiber Ek Cihazları ve Aksesuarları
-Fiber Ek Cihazları
-Fiber Kesiciler (Cleavers)
-Aksesuarlar
-Ek Tipi Konnektörler
-Fiber Optik Test ve Ölçüm Cihazları
-OTDR ve iOLM
-Sertifikasyon Test Cihazı
-Canlı Fiber Tespiti
-Fiber Optik Mikroskoplar
-Optik Güç ve Kayıp Testi
-Test Raporlama ve Otomasyon
-Telekom Test ve Ölçüm Cihazları
-xDSL ve Gfast Testi
-CD - PMD Saçılım Analizör
-OSA Optik Spektrum Analizör
-SONET/SDH, OTN ve Çoklu Ethernet Servis Testi
-Kablolu Ağ Test ve Ölçüm Cihazları
-Bakır Veri Kablosu Test Cihazları
-Ağ Analizörleri ve Aksesuarları
-CCTV, Ağ, Endüstriyel Test Cihazı
-Kablosuz Ağ Test ve Ölçüm Cihazları
-Wi-Fi Test Cihazları
-RF Test Cihazları
-Zamanlama ve Senkronizasyon Sistemleri
-Carrier Grade NTP & PTP IEEE 1588 Grand Masters
-NTP/PTP Sunucular/Kurumsal Ağlar
-GPS Enstrümanları
-Modüler Senkronizasyon Sistemleri
-GNSS Antenleri
-Veri Merkezi Ürünleri
-KVM Sistemleri
-İklimlendirme Sistemleri
-Altyapı Sistemleri
-Güç Sistemleri
-Güvenlik Sistemleri
-Verimlilik Çözümleri
-Zayıf Akım Sistemleri
-Kontrol Sistemleri
-Ses ve Görüntü Sistemleri
-Acil Anons ve Seslendirme
-CCTV
-Geçiş Kontrol
-Yangın Algılama ve İhbar Sistemi
-Networking Sistemleri
-IoT Ürünleri
-Medya Dönüştürücüler
-SFP Aksesuarları
-Switch
-Yapısal Kablolama Sistemleri
-Bakır Bağlantı Ekipmanları
-Fiber Bağlantı Ekipmanları
-MPO / MTP Fiber Kablolar
-Eğitimler
-Temel Fiber Optik Eğitimi
-Uygulamalı Bakır Test Eğitimi
-Uygulamalı Fiber Test Eğitimi
-Tüm Ürünler
-KAMPANYALAR
-İLETİŞİM
-KAYIT OL
-DESTEK TALEBİ
-ENGLISH
-MENÜ
-0
-Destek Talebi
-Üye Girişi
-Yeni Üyelik
-Şifremi Unuttum
-Sipariş Takip
-Sepet 0
-Kurumsal
-Hakkımızda
-Tarihçe
-İş Ortaklarımız
-Sertifikalarımız
-Kalite Politikamız
-Referanslar
-Teknik Dokümanlar
-Form ve Anketler
-Kariyer
-Seminer Katılım Formu
-KVKK
-Çözümlerimiz
-Ağ (Network) Sistemleri ve Entegrasyon
-Ağ (Network) Sistemleri
-Sunucu&Depolama Ve Sanallaştırma Çözümleri
-IP Tabanlı Ses ve Görüntü Sistemleri
-Yapısal Kablolama Sistemleri
-PC & Notebook & Printer Ürünleri
-Yazılım ve Yedekleme Çözümleri
-Veri Merkezi
-Verimlilik Çözümleri
-Güç Sistemleri
-İklimlendirme Sistemleri
-Güvenlik Sistemleri
-Altyapı Çözümleri
-Uptime Tier Sertifikasyonu
-Video Wall Çözümleri
-Zayıf Akım Sistemleri
-CCTV Sistemleri
-Geçiş Kontrol Sistemleri
-Ses ve Görüntü (AV) Sistemleri
-KVM (Keyboard, Video, Mouse)
-Kontrol Odası Çözümleri
-Yangın Algılama ve İhbar Sistemi
-Acil Anons ve Seslendirme
-Senkronizasyon
-GNSS Çözümleri
-PTP / SyncE / NTP Çözümleri
-SSU, SDU Çözümleri
-Birincil Referans Kaynakları (ePRTC) / Sezyum Atomik Saat Kaynağı
-Servis Kalitesi
-Fiber Ağ İzleme ve Yönetimi
-Carrier Wi-Fi İzleme ve Yönetimi
-VoLTE QoE Çözümleri
-Performans İzleme ve Yönetimi
-Ağ ve Servis Topolojisi
-Test ve Ölçüm
-Fiber Optik ve Bakır Kablo Test / Sertifikasyon Cihazları
-Kablosuz Ağ Test Cihazları
-Transport ve Datakom Test Cihazları
-Sanal Ağ Test Çözümleri
-Fiber Ek Cihazları
-Cihaz Kiralama Hizmetleri
-Ürünlerimiz
-Fiber Ek Cihazları ve Aksesuarları
-Fiber Ek Cihazları
-Fiber Kesiciler (Cleavers)
-Aksesuarlar
-Ek Tipi Konnektörler
-Fiber Optik Test ve Ölçüm Cihazları
-OTDR ve iOLM
-Sertifikasyon Test Cihazı
-Canlı Fiber Tespiti
-Fiber Optik Mikroskoplar
-Optik Güç ve Kayıp Testi
-Test Raporlama ve Otomasyon
-Telekom Test ve Ölçüm Cihazları
-xDSL ve Gfast Testi
-CD - PMD Saçılım Analizör
-OSA Optik Spektrum Analizör
-SONET/SDH, OTN ve Çoklu Ethernet Servis Testi
-Kablolu Ağ Test ve Ölçüm Cihazları
-Bakır Veri Kablosu Test Cihazları
-Ağ Analizörleri ve Aksesuarları
-CCTV, Ağ, Endüstriyel Test Cihazı
-Kablosuz Ağ Test ve Ölçüm Cihazları
-Wi-Fi Test Cihazları
-RF Test Cihazları
-Zamanlama ve Senkronizasyon Sistemleri
-Carrier Grade NTP & PTP IEEE 1588 Grand Masters
-NTP/PTP Sunucular/Kurumsal Ağlar
-GPS Enstrümanları
-Modüler Senkronizasyon Sistemleri
-GNSS Antenleri
-Veri Merkezi Ürünleri
-KVM Sistemleri
-İklimlendirme Sistemleri
-Altyapı Sistemleri
-Güç Sistemleri
-Güvenlik Sistemleri
-Verimlilik Çözümleri
-Zayıf Akım Sistemleri
-Kontrol Sistemleri
-Ses ve Görüntü Sistemleri
-Acil Anons ve Seslendirme
-CCTV
-Geçiş Kontrol
-Yangın Algılama ve İhbar Sistemi
-Networking Sistemleri
-IoT Ürünleri
-Medya Dönüştürücüler
-SFP Aksesuarları
-Switch
-Yapısal Kablolama Sistemleri
-Bakır Bağlantı Ekipmanları
-Fiber Bağlantı Ekipmanları
-MPO / MTP Fiber Kablolar
-Eğitimler
-Temel Fiber Optik Eğitimi
-Uygulamalı Bakır Test Eğitimi
-Uygulamalı Fiber Test Eğitimi
-Kampanyalar
-İletişim
-TEKNOLOJİ MERKEZİ
-EN
-Veri Merkezi Altyapı Çözümleri
-Anasayfa
-Bloglar
-Veri Merkezi
-Veri Merkezi Altyapı Çözümleri
-29 Ocak 2019
-VERİ MERKEZİ ALTYAPI ÇÖZÜMLERİ
-Fotech, veri merkezi alanında 2006 yılından bu yana aktif olarak çalışmaktadır.
-Veri merkezi sektörü tüm dünyada gittikçe büyümekte ve önem kazanmaktadır. Fotech, bu trendi yakından takip etmekte ve projelerinde müşterileri için en verimli ve en uygun çözümleri sunmaya devam etmektedir.
-Fotech, bir veri merkezini standartlarına uygun olarak anahtar teslimi tasarlayıp, teslim etme kabiliyetindedir. Ana uzmanlık alanı olan ICT Kablolama Sistem Çözümlerini, Sıcak-Soğuk Koridor yapılandırmaları dahil, tamamlamanın yanında, kaba inşaat halindeki bir salonu, yangına dayanıklı bölümlendirme, yangına dayanıklı kapı, asma tavan, yükseltilmiş döşeme gibi tüm inşai işler dahil olmak üzere, Güç Sistemleri, İklimlendirme Sistemleri, Gazlı Söndürme ve Hassas Yangın Algılama Sistemleri, Video Wall yapısında izleme çözümlerini, CCTV, Geçiş Güvenlik sistemlerini, tüm Ortam İzleme ve DCIM Çözümlerini anahtar teslimi olarak sunmaktadır. Bu çözümlere UPTIME Institute sertifikalandırma da dahildir. Fotech bu alandaki çözümlerini 6 ana grupta toplamıştır:
-● VM Yönetim ve İzleme (DCIM) Yazılımları
-● DC Yapısal Kablolama
-● Güç Sistemleri
-● İklimlendirme
-● Güvenlik Sistemleri
-● Altyapı Sistemleri
-● Uptime TIER Sertifikasyonu çözümlerini bu kapsamda sunmaktadır.
-Tüm bu çözümler, bir veri merkezinin verimli çalışabilmesi için kritik olarak görülen çözümlerdir. Veri merkezlerinde veri iletişimini sağlayan herbir aktif cihazın yüksek performansta, kesintisiz çalışması çok önemlidir. Bunun yanında, gereksiz enerji ve maliyet kaybının da mümkün olduğunca önlenerek verimliliğin arttırılmasına yönelik çalışmalar yapılmalıdır. Fotech, veri merkezi projelerinde ihtiyaçları iyi analiz ederek doğru ve en verimli çözümün bulunması için uzman mühendis kadrosuyla çalışmaktadır. Farklılaşmış sonuçlar elde etmekte ve veri merkezlerinin operasyon maliyetlerini mümkün olan en düşük seviyede tutarak, müşteriye verimli çalışan veri merkezleri kurmaktadır.
-“Güç Sistemleri” ise Fotech’in bu alandaki diğer bir ana çözüm grubudur. Kurumlar, veri merkezlerinde operasyonel süreklilik ve enerji verimliliği elde etmeyi amaçlamaktadır. Güç altyapıları; verimliliği, kullanılabilirliği ve ölçeklenebilirliği doğrudan etkilemektedir. Veri merkezler güç altyapısıyla doğrudan ilişkilidir. Elektriksel kesintiler, büyük felaketlere yol açabilmekte, kurumların önemli bir performans kriteri olan “downtime”ın (çalışmama süresi) yüksek olmasına neden olabilmektedir. Kötü tasarlanmış bir güç altyapısı, veri merkezlerinin gelecekte genişletilmesini de engellemektedir. Bunun yanında, güç altyapısı doğru ve akıllıca tasarlandığında yüksek seviyede enerji tasarrufu sağlanıp verimlilik yükseltilebilir, maliyet azaltılabilir ve veri merkezleri genişletilmeye elverişli hale getirilir. Bu önemli ihtiyaç için Fotech’in sağladığı çözümler ise veri merkezi standartlarına uygun olarak yedekli / yedeksiz güç altyapısı kurmak, UPS (Kesintisiz Güç Kaynağı) ve Güç Dağıtım Sistemleri sağlamaktır. Fotech, kurumlara, doğru güç altyapısını kurma konusunda uzman çalışanları ve dünya lideri iş ortaklarıyla yenilikçi çözümler sunarak ihtiyaca yönelik, kesintisiz veri merkezi operasyonları çözümleri sunar.
-Diğer bir çözüm grubumuz olan “İklimlendirme Sistemleri”, veri merkezlerinde belli bir sıcaklık seviyesini koruyan, düşük nemli ortamlar oluşturmak adına büyük önem taşır. Aktif cihazların ortam sıcaklığını arttırmayı engelleyecek şekilde tasarım yapılması, herhangi bir yangın riskini önlemenin yanında enerji tasarrufu bile sağlayabilmektedir. Bu nedenle, veri merkezi iklimlendirme altyapısı güç altyapısından ayrı düşünülemez. Soğutma, veri merkezlerinde önemli bir maliyet faktörüdür. Eğer kötü bir soğutma sistemi uygulanırsa veri merkezini soğutmak için gereken enerji, aktif cihazları çalıştırmak için gereken enerjiyi aşabilir. Dolayısıyla veri merkezlerindeki sıcaklık ve nem oranı kritiktir ve iklimlendirme altyapısı çok iyi tasarlanmalıdır. Fotech, Türkiye’de ve yurt dışında birçok veri merkezi projesi gerçekleştirmiş olması nedeniyle iklimlendirme altyapısında da uzmanlaşmıştır. Enerji tasarrufunu sağlamak amacıyla “free cooling” (serbest soğutma) seçeneğini göz önünde bulundurduğu çözümler sunmaktadır. Bu alandaki Fotech çözümleri Hassas Kontrollü Klima Sistemleri ile In-Row Cooling Sistemleri olarak ayrışmaktadır.
-Veri merkezi güvenliği, büyük – küçük her ölçekte şirket için en kritik ihtiyaçlardan biridir. Dolayısıyla “Güvenlik Sistemleri” Fotech’in bu alandaki ana çözüm gruplarından biridir. Düzgün bir planlama ve tasarım sayesinde güvenli, korunabilir ve az maliyetli veri merkezi kurmak mümkün. Güvenlik sistemi, veri merkezlerinin olmazsa olmaz bir parçasıdır, ve hem yazılımsal/fiziksel hem de felaket güvenliği konusu büyük önem taşımaktadır. Fiziksel güvenlik için son zamanlarda başvurulan çözümlerden biri kafes sistemidir; her kabinin önlü arkalı her kapısında şifre veya parmak okuyuculu güvenlik mekanizması bulunması, güvenliği arttırıcı önlemlerden biridir. Bu güvenlik mekanizmaları kabin başına olabildiği gibi daha düşük seviyeli olarak sadece oda başına da kurulabilmektedir. Daha sıkı güvenlik gereken durumlarda çok katmanlı fiziksel güvenlik sistemleri kurulabilir: güvenli perimetre, biometrik/kartlı geçişler ve video izleme sistemleri bunlardan bazılarıdır. Hem veri merkezine girişte hem veri merkezi içindeyken ziyaretçi erişimi görüntülenebilir ve kontrol edilebilir. Kapsamlı CCTV video kamera izleme sistemlerinin yanısıra güvenlik ihlali alarmları ve fiziksel bariyerler, yüksek güvenlik gerektiren veri merkezlerinde uygulanabilmektedir.
-Felaket güvenliği için ise öncelikle yangın ve sıvı sızıntısı algılama gibi mekanizmalar, olası felaketlerde acil müdahale sağlama açısından kritiktir. Veri merkezlerinde elektrik, su, ses ve veri gibi hizmetler için ekstra kaynaklar bulunmalı, felaket kurtarma mekanizmaları kurulmalı ve felaket durumunda sorumlu kişilerin rolleri önceden belirlenmiş olmalıdır. Özellikle veri merkezlerinde, birçok ısıya duyarlı elektrikli aktif cihaz bulunması ve havasında statik elektrik olması dolayısıyla, yangının oluşması ve yayılması çok kolaydır. Dolayısıyla iklimlendirme sisteminden ayrı düşünülemeyen yangın algılama sisteminin doğru bir mühendislikle kurulması hayati önem taşı
+# SB-612 clouditnetwork.com · news_1 · https://www.clouditnetwork.com/blog/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+Blog - Cloud It Network
+Skip to content
+Search for:
+Home
+Store
+Blog
+ABOUT US
+นโยบายความเป็นส่วนตัว
+การรับประกันสินค้า
+Contact
+Login
+การใช้งาน Zycoo ในแบบ Hybrid
+สำหรับองค์กร ที่ยังมีระบบโทรศัพท์แบบ Analog อยุ่และต้องการนำระบบ IPPBX มาใช้งานเพื่อรองรับ SIP Trunk หรือฟังชั่นใหม่ ที่ไม่มีในระบบ PABX แบบเดิม แต่ยังต้องการคงการใช้งานโทรศัพท์แบบ Analog ไว้ [...]
+25
+Jan
+โซลูชั่นของ Fanvil ในการใช้งานต่างๆ
+Fanvil audio and Video IP Phones นำมาใช้งานในองค์กร เพื่อเพิ่มประสิทธิภาพในการติดต่อสื่อสารของพนักงาน และลูกค้า ง่ายต่อการติดตั้งและดูแล Fanvil รุ่นที่ใช้งาน Fanvil X7A Android [...]
+24
+Jan
+Fanvil Device Management System
+Fanvil’s Device Management System (FDMS) เป็นระบบ Web base สำหรับบริหารจัดการอุปกรณ์ของ Fanvil แบบ Real Time พัฒนามาสำหรับ Distributors/Resellers/Users [...]
+24
+Jan
+Recent Posts
+การใช้งาน Zycoo ในแบบ Hybrid
+โซลูชั่นของ Fanvil ในการใช้งานต่างๆ
+Fanvil Device Management System
+Categories
+VoIP
+Copyright 2026 © Cloud IT Network Co., Ltd
+Search for:
+Home
+Store
+Blog
+ABOUT US
+นโยบายความเป็นส่วนตัว
+การรับประกันสินค้า
+Contact
+Login
+Newsletter
+Login
+Username or email address *
+Password *
+Remember me
+Log in
+Lost your password?

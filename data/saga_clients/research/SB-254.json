@@ -1,189 +1,158 @@
 {
   "code": "SB-254",
-  "name_official": "AADONA Communication Pvt. Ltd.（印度）",
+  "name_official": "",
   "researched_at": "2026-10-21",
-  "website_status": "在线（aadona.com，快照 2026-10-21）",
-  "summary": "印度「Made in India」网络品牌 AADONA（交换机、服务器、CCTV、无线；有工业交换机产品页），CEO Pinaki Chatterjee / Govind Madhav；表内工业 FS 较多、监控；无跟进记录。自有品牌 → OEM 30%。",
-  "type": "",
+  "website_status": "在线（sicurtecnicanapoli.it，快照 2026-10-21）",
+  "summary": "意大利 Sicurtecnica Napoli（那不勒斯安防经销网店：TruVision（UTC）、UNV、Safire、Crow、Ruijie；表内「Utepo 的工商业交换机」「可以尝试多跟进一下」；KP Arena Enzo（Tecnico））；群发 13 次无回复。",
+  "type": "安防经销网店（意大利，Utepo 工商业 FS 在售）",
   "size": "",
-  "brands_seen": [],
+  "brands_seen": [
+    "Ruijie",
+    "Uniview",
+    "Utepo",
+    "TruVision",
+    "Safire"
+  ],
   "evidence": [
     {
       "kind": "官网快照",
-      "claim": "Made in India 网络产品：交换机、服务器、CCTV、无线",
-      "quote": "AADONA delivers Made in India networking products including switches, servers, CCTV, wireless systems and reliable IT solutions for businesses.",
-      "url": "https://aadona.com/",
+      "claim": "官网标题：sicurtecnicanapoli；品类词 安防监控（CCTV / 门禁） / 无线 / WiFi / 光纤 / 媒体转换 / 网络交换 / PoE",
+      "quote": "Spedizioni Per tutti gli Ordini Pagamenti Alla consegna (in Sede) Sostituzione o Garanzia Prodotto non funzionante",
+      "url": "https://www.sicurtecnicanapoli.it/home/",
       "date": "2026-10-21"
     },
     {
       "kind": "用户表",
-      "claim": "工业 FS 比较多；监控；产品页 /industrial-switches/",
-      "quote": "兴趣：工业FS比较多 监控 https://aadona.com/industrial-switches/",
+      "claim": "表内兴趣/备注",
+      "quote": "Utepo的工商业交换机",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "Sicurtecnica Napoli 首页",
+      "quote": "Home - sicurtecnicanapoli ; TruVision ; Categorie in primo piano ; UTC ; UNV ; SAFIRE ; CROW Italia",
+      "url": "https://www.sicurtecnicanapoli.it/home/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "Utepo 的工商业交换机",
+      "quote": "Utepo的工商业交换机；可以尝试多跟进一下",
       "url": "（本地 Clients/ 表格，无公开 URL）",
       "date": "2026-10-21"
     }
   ],
   "kp": [
     {
-      "name": "Pinaki Chatterjee",
-      "title": "CEO",
-      "email": "ceo@aadona.com",
+      "name": "Arena Enzo",
+      "title": "Tecnico",
+      "email": "info@sicurtecnicanapoli.it",
       "phone": "",
-      "source": "（本地 Clients/ 表格，无公开 URL）"
-    },
-    {
-      "name": "Govind Madhav",
-      "title": "（表内联系人）",
-      "email": "govind.madhav@aadona.com",
-      "phone": "",
-      "source": "（本地 Clients/ 表格，无公开 URL）"
+      "source": "用户表"
     }
   ],
   "grade_override": null,
   "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
   "deep": {
     "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（官网快照：自有品牌 OEM）"
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
   },
   "company_facts": {
-    "legal_name": "AADONA Communication Pvt. Ltd.",
-    "founded": "（待核）",
-    "hq": "India",
-    "size": "中小型品牌商",
-    "other": "Make in India（SKD 组装可能）"
+    "hq": "意大利",
+    "other": "官网 sicurtecnicanapoli.it，语言 it-IT，快照状态 ok；角色判定来源：待核"
   },
   "business_lines": [
-    "网络交换机（含工业）/ 服务器 / CCTV / 无线（自有品牌）"
+    "安防产品经销（CCTV / 入侵 / 网络）"
   ],
   "channels": {
-    "role": "品牌商（OEM/SKD 采购）",
-    "region": "印度"
+    "role": "安防经销网店（意大利，Utepo 工商业 FS 在售）",
+    "region": "意大利",
+    "contact": "info@sicurtecnicanapoli.it"
   },
   "signals": [
-    "自有品牌 + 工业交换机线 → 贴牌 / SKD 对象"
+    "首页：TruVision ; UTC ; UNV ; SAFIRE ; CROW Italia ; ATS1700；kw poe 15 / camera 15 / uniview 4",
+    "表内：Utepo 的工商业交换机；KP Arena Enzo / Tecnico"
   ],
   "risks": [
-    "Make in India 要求 → 可能需 SKD；BIS",
-    "无互动记录"
+    "现卖 Utepo（深圳）价格基准低；网店量小",
+    "13 次无回复 → 改向技术负责人具名首触"
   ],
   "saga_fit": {
-    "p1": "STI-288GPM",
-    "tier": 30,
-    "why": "工业管理 PoE → STI-288GPM（$85.5 @30%）贴 AADONA 标 / SKD。"
+    "p1": "STC-28DGGPM",
+    "tier": 20,
+    "why": "在售 Utepo 工商业 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；工业位 STI-288GPM（$78.9）；非管理位 HRUI STC-028GP"
   },
-  "email_hook": "Mr. Madhav, for the AADONA industrial switch page — Marvell-based DIN managed 8-PoE + 2-SFP (and 16-PoE) can ship under your label or as SKD kits for local assembly; which format fits your Make-in-India requirement?",
+  "email_hook": "Enzo, alongside the Utepo commercial and industrial switches you list with TruVision and UNV cameras, we supply Marvell-based 8-PoE + 2 SFP L2+ and DIN-rail industrial 8-PoE units from small lots, CE/RoHS, EXW USD — which Utepo model do your installers order most, so we quote its equivalent?",
   "mail_review": {
     "binding": {
-      "level": "未触达（A 邮箱 5 封 2025→2026，无记录打开，0 回；收件 ceo@aadona.com, govind.madhav@aadona.com；主题多为「24 Port PoE Managed Switch、48 Port PoE Managed Switch」）；Elsa 1:1 去信 7 轮 2025-05-06→2026-04-01（To 仅本户 ceo@aadona.com / govind.madhav@aadona.com（按地址：ceo@aadona.com 7 轮 / govind.madhav@aadona.com 5 轮）；头 msg 19d4845620351ed3 核对无 Bcc，称呼「Hi, Pinaki」= 个性化逐月 1:1 名单（名字可来自名单，不等于回过信）；主题 Booster PoE Switch、OEM Core Switching Solution、Updated Ethernet Switches Links、Marvell Managed Commercial Switches…；0 回（Elsa 箱 Replied 索引 + 第 73 批真人来信逐户比对均无此户）；S/A digest 看不到 Elsa 的去信，之前据此写的「未触达」是 S/A 口径）（第 74 批(n) `from:e.sagatelecom to:aadona.com` 全程 complete，直收 7 条、无 Re: 行）",
-      "type": "—",
+      "level": "未触达（A/S 邮箱 20 封 2024→2026，无记录打开，0 回；收件 info@sicurtecnicanapoli.it；主题多为「Industrial PoE Switch、16 Port Ethernet Switch」）；Elsa 1:1 去信 1 封（2025-02-19「Mini Industrial PoE Switch」；To 仅本户 info@sicurtecnicanapoli.it；Bcc 未逐封读头；同类名单抽读 24 封均无 Bcc；此后再未进 Elsa 任何名单——全箱 `from:e.sagatelecom to:info@sicurtecnicanapoli.it` 仅此 1 条，complete）（第 74 批(m)）",
+      "type": "安防经销网店（意大利，Utepo 工商业 FS 在售）",
       "sieve": "1（只收到群发）",
-      "stop": "5 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-      "revive": "保持季度群发到 2027-Q1；无打开即停",
-      "lane": "IN 次级（点名）",
-      "cadence": "季度",
-      "evidence": "gmail_digest：out 5；用户表：「兴趣：工业FS比较多 监控 https://aadona.com/industrial-switches/」；研究档 risks：Make in India 要求 → 可能需 SKD；BIS"
+      "stop": "只打通用邮箱，无记录打开",
+      "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+      "lane": "意大利（欧洲全域主攻）",
+      "cadence": "一封",
+      "evidence": "gmail_digest：out 20；用户表：「Utepo的工商业交换机」；研究档 risks：现卖 Utepo（深圳）价格基准低；网店量小"
     },
-    "situation": "印度「Made in India」网络品牌 AADONA（交换机、服务器、CCTV、无线；有工业交换机产品页），CEO Pinaki Chatterjee / Govind Madhav；表内工业 FS 较多、监控；无跟进记录。自有品牌 → OEM 30%。",
-    "need": "工业管理 PoE → STI-288GPM（$85.5 @30%）贴 AADONA 标 / SKD。",
-    "breakpoint": "Make in India 要求 → 可能需 SKD；BIS",
+    "situation": "意大利 Sicurtecnica Napoli（那不勒斯安防经销网店：TruVision（UTC）、UNV、Safire、Crow、Ruijie；表内「Utepo 的工商业交换机」「可以尝试多跟进一下」；KP Arena Enzo（Tecnico））；群发 13 次无回复。",
+    "need": "在售 Utepo 工商业 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；工业位 STI-288GPM（$78.9）；非管理位 HRUI STC-028GP",
+    "breakpoint": "现卖 Utepo（深圳）价格基准低；网店量小",
     "saga_now": {
-      "p1": "STI-288GPM",
-      "tier": 30,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-29 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-04-09 $300（48 Port PoE Managed Switch）、2026-06-19 $16000（32 Port 400GB DC Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-10-15 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2025-10-15；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）",
-      "why": "工业管理 PoE → STI-288GPM（$85.5 @30%）贴 AADONA 标 / SKD。",
+      "p1": "STC-28DGGPM",
+      "tier": 20,
+      "price": "换人再触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-06 $65（10G media converter）；群发里他已看到的价（续，第 66 批全量复核）：2024-07-11 $220（48 port managed switch）、2025-10-16 $280（10G Enterprise SFP Switch）",
+      "why": "在售 Utepo 工商业 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；工业位 STI-288GPM（$78.9）；非管理位 HRUI STC-028GP",
       "repeat": [],
       "gaps": []
     },
     "next_move": {
-      "when": "群发节奏",
-      "channel": "A 邮箱",
-      "action": "首封前知悉：Elsa 已 1:1 去信 7 轮（2025-05-06→2026-04-01，0 回）（第 74 批(n)）；观察打开",
-      "one_question": "Mr. Madhav, for the AADONA industrial switch page — Marvell-based DIN managed 8-PoE + 2-SFP (and 16-PoE) can ship under your label or as SKD kits for local assembly; which format fits your Make-in-India requirement?"
+      "when": "2027-Q1（换人后）",
+      "channel": "A 邮箱 → 具名 KP",
+      "action": "首封前知悉：Elsa 仅 2025-02-19 单发过 1 封「Mini Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(ab) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用；英文稿，不混意大利语）；HRUI 型号不写 Marvell）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
+      "one_question": "Enzo, alongside the Utepo commercial and industrial switches you list with TruVision and UNV cameras, we supply Marvell-based 8-PoE + 2 SFP L2+ and DIN-rail industrial 8-PoE units from small lots, CE/RoHS, EXW USD — which Utepo model do your installers order most, so we quote its equivalent? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
     },
     "facts": [
       {
-        "date": "2025-05-06",
+        "date": "2025-02-19",
         "dir": "out",
-        "who": "Elsa → ceo@aadona.com",
-        "quote": "90W PoE Managed Switch（Elsa 1:1 逐月名单第 1/7 轮；To 仅本户）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:aadona.com` 全程 complete：7 轮直收（头 msg 19d4845620351ed3 无 Bcc，称呼「Hi, Pinaki」）；0 回",
+        "who": "Elsa → info@sicurtecnicanapoli.it",
+        "quote": "Mini Industrial PoE Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+        "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
         "k": "elsa_1to1",
-        "msg_id": "196a57797852295f"
+        "msg_id": "1951df8ce474aa1a"
       },
       {
-        "date": "2025-06-22",
-        "dir": "out",
-        "who": "Elsa → ceo@aadona.com",
-        "quote": "16 Port Ethernet Switch（Elsa 1:1 逐月名单第 2/7 轮；To 仅本户）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:aadona.com` 全程 complete：7 轮直收（头 msg 19d4845620351ed3 无 Bcc，称呼「Hi, Pinaki」）；0 回",
-        "k": "elsa_1to1",
-        "msg_id": "19796a4eacf08758"
-      },
-      {
-        "date": "2025-10-15",
-        "dir": "out",
-        "who": "Elsa → ceo@aadona.com, govind.madhav@aadona.com",
-        "quote": "10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 3/7 轮；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:aadona.com` 全程 complete：7 轮直收（头 msg 19d4845620351ed3 无 Bcc，称呼「Hi, Pinaki」）；0 回",
-        "k": "elsa_1to1",
-        "msg_id": "199e6c95a0eaba6c"
-      },
-      {
-        "date": "2025-12-09",
-        "dir": "out",
-        "who": "Elsa → ceo@aadona.com, govind.madhav@aadona.com",
-        "quote": "Booster PoE Switch（Elsa 1:1 逐月名单第 4/7 轮；To 仅本户）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:aadona.com` 全程 complete：7 轮直收（头 msg 19d4845620351ed3 无 Bcc，称呼「Hi, Pinaki」）；0 回",
-        "k": "elsa_1to1",
-        "msg_id": "19b020d88102c301"
-      },
-      {
-        "date": "2026-01-09",
-        "dir": "out",
-        "who": "Elsa → ceo@aadona.com, govind.madhav@aadona.com",
-        "quote": "OEM Core Switching Solution（Elsa 1:1 逐月名单第 5/7 轮；To 仅本户）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:aadona.com` 全程 complete：7 轮直收（头 msg 19d4845620351ed3 无 Bcc，称呼「Hi, Pinaki」）；0 回",
-        "k": "elsa_1to1",
-        "msg_id": "19ba0fb91a1bbf14"
-      },
-      {
-        "date": "2026-03-03",
-        "dir": "out",
-        "who": "Elsa → ceo@aadona.com, govind.madhav@aadona.com",
-        "quote": "Updated Ethernet Switches Links（Elsa 1:1 逐月名单第 6/7 轮；To 仅本户）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:aadona.com` 全程 complete：7 轮直收（头 msg 19d4845620351ed3 无 Bcc，称呼「Hi, Pinaki」）；0 回",
-        "k": "elsa_1to1",
-        "msg_id": "19cb26ccaf290575"
-      },
-      {
-        "date": "2026-04-01",
-        "dir": "out",
-        "who": "Elsa → ceo@aadona.com, govind.madhav@aadona.com",
-        "quote": "Marvell Managed Commercial Switches（Elsa 1:1 逐月名单第 7/7 轮；To 仅本户）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:aadona.com` 全程 complete：7 轮直收（头 msg 19d4845620351ed3 无 Bcc，称呼「Hi, Pinaki」）；0 回",
-        "k": "elsa_1to1",
-        "msg_id": "19d4845620351ed3"
-      },
-      {
-        "date": "2026-09-02",
+        "date": "2026-09-16",
         "dir": "去",
-        "who": "A 群发",
-        "quote": "24 Port PoE Managed Switch、48 Port PoE Managed Switch",
-        "why": "5 封 / 0 次打开 / 0 回｜首封 2025-04-09 → 末封 2026-09-02（5 去 / 0 来）",
+        "who": "A/S 群发",
+        "quote": "Industrial PoE Switch、16 Port Ethernet Switch",
+        "why": "20 封 / 0 次打开 / 0 回｜首封 2024-07-11 → 末封 2026-09-16（20 去 / 0 来）",
         "k": "gmail_digest"
       },
       {
         "date": "2026-10-21",
         "dir": "用户表",
         "who": "Simon",
-        "quote": "兴趣：工业FS比较多 监控 https://aadona.com/industrial-switches/",
+        "quote": "Utepo的工商业交换机",
         "why": "表内备注",
         "k": "用户表"
+      },
+      {
+        "date": "2026-09-16",
+        "dir": "去",
+        "who": "A 箱（Alan）",
+        "quote": "16 Port Industrial PoE Switch",
+        "why": "本日去信真实主题（邮箱索引 05cc577704ec60f5；信稿开头句引用此封；此前稿内写的「Industrial PoE Switch」是线程列表首题，不是本封）",
+        "k": "05cc577704ec60f5"
       }
     ],
     "proof_gaps": [],
-    "draft_en": null,
+    "draft_en": {
+      "subject": "Alongside the Utepo switches you list with TruVision and UNV - the equivalent of your top model",
+      "body": "Hi Enzo,\n\nWe wrote to you once in February 2025 about a mini industrial switch, and since then only general product mails - most recently \"16 Port Industrial PoE Switch\" on 16 September 2026 - none of which needed an answer. This one is specific.\n\nAlongside the Utepo commercial and industrial switches you list with TruVision and UNV cameras, at distributor price, EXW, MOQ 1, 15-day validity, CE/RoHS: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based - model STC-28DGGPM - $80.7 USD; DIN-rail industrial 8 x PoE+ + 2 x SFP, L2 managed, -40 to 75 C - STI-288GPM - $78.9; budget unmanaged 8 x PoE+ + 2 x Gigabit - STC-028GP - $25.1.\n\nOne question: which Utepo model do your installers order most, so I quote its exact equivalent?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+    },
     "as_of": "2026-10-24"
   }
 }

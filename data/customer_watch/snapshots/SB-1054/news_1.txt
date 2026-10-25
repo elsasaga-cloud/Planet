@@ -1,81 +1,228 @@
-# SB-1054 airlive.com · news_1 · https://www.airlive.com/news.php · fetched 2026-10-25T07:41:18Z · HTTP 200
-wifi6 MESH Router|AirLive|Managed Switch|5G|Your best choice of Smart Network Solution - News 鑫志科技
-Open Navigation Search
-AirCloud
-Products
-AirCloud and Wireless
-Telecom XGPON and Cloud
-Enterprise Campus & Multiport Fiber Switch
-Enterprise L3 Switch
-PoE Switch
-10G Switch(NON POE)
-2.5G Switch(NON POE)
-Gigabit Switch (non PoE)
-Industrial Switch
-Industrial 5G / 4G Gateway
-Network Adapter and Accessories
-AirCam Surveillance Security
-AirCore AI AutoPilot AirSwitch PoE/Non-PoE
-Solutions
-Small Office/Home
-Enterprise
-Data Center
+# SB-1054 luxritesecurity.com · news_1 · https://www.luxritesecurity.com/blog/ · fetched 2026-10-25T07:41:18Z · HTTP 200
 News
-Product News
-Press Review and Award
-Event
-EDM
-Marketing
-Banner
-Catalogues & DM
-Product Photo
-Video
-Commercial Video
-Tutorial Video
-Download
-Document
-User Guide
-QIG
+Contact Us
++44 1438 909168
+New Account | Sign In | Wish List
+0
+£0.00
+Home
+Products HD CCTV HD Cameras
+HD DVRs
+IP CCTV IP NVRs
+IP Cameras
+Networking Switches
+Wireless Bridges
+Access Points
+Wi-Fi Extenders
+Routers
+POE Extenders
+POE Injectors
+Accessories
+Video Intercom Door Stations
+Touchscreen Monitors
+Mounts & Brackets
+Expansion Modules
+Doorbells & Chimes Doorbells
+Chimes
+Cables CAT5e
+CAT6
+Patch Leads
+RG59
+Cable Accessories
+Intruder Ajax
+Dahua
+Texecom
+CQR
+Klaxon
+Kits
+RD Tower
+Fire EN54
+Residential
+Smoke Detectors
+CO Detectors
+Heat Detectors
+Sounders
+Flame Detection
+VADs
+Fire Accessories
+Accessories Brackets & Enclosures
+Baluns & Connectors
+Power Supply
+IP Accessories
+Monitors
+HDMI Extenders
+CCTV Sign
+Audio
+Dummy Cameras
+Access Control All-in-one
+Cards and Tags
+Door Controllers
+Enrolment
+Maglocks
+Readers
+Latest Products
+About us
+Support Demos
+Firmware
+Returns
 Software
-About Us
-Company
-Trademark
-Warranty & RMA
+Technical Support
+Video Academy
+Contact/Register
+News & Offers Articles
+Special Offers
+Clearance Items
+Graded Stock
+Training CCTV Training Level 1
+CCTV Training Level 2
+Video Intercom Training
+Home > News
+Next Page
+News
+Understanding SPRO Security Cameras: Economy, Active Deterrent Lite & Pro Explained
+16 September 2026
+Unlike generic competitor cameras that flood the entire area with light whenever any motion is detected within their field of view, SPRO cameras use precise boundary-based triggers to ensure light and sound are activated only when a real threat is detected.
+Posted in News
+Read more...
+Cross-Brand Security System Integration: Fire, CCTV, Alarms & Access Control
+20 August 2026
+This article explains how security installers can integrate separate subsystemsSPRO CCTV, Dahua Air Shield Intruder Alarms, Ajax EN54 Wireless Fire Systems, and SPRO Access Controlinto a unified security network without custom software. By utilising an Input/Output (I/O) expander connected to an SPRO NVR, a single trigger like a fire alert can automatically release door locks, activate site-wide audio sirens, and turn on camera strobe lights. The setup consolidates system management onto an SPRO 10" Android Smart Control Centre, enabling operators to manage feeds, apps, and post-event resets from a single interface.
+Posted in News
+Read more...
+Beyond the Spec Sheet: How to Use the New SPRO Digital Catalogue to Win More Installs
+13 August 2026
+The SPRO Digital Lifestyle Catalogue is a visual sales tool designed to help security installers win more quotes by shifting client focus away from confusing technical specifications and price comparisons toward real-world benefits. Accessible on phones and tablets, the interactive guide allows installers to easily explain smart security conceptssuch as active deterrence, ColourNight 2.0 full-colour vision, and AcuPick AI searchduring on-site surveys or follow-up proposals. By presenting hardware capabilities through clear, high-level lifestyle visualisations, installers can uncover extra client needs, demonstrate superior professionalism over budget competitors, and secure higher-margin jobs.
+Posted in News
+Read more...
+Beyond the Box: Why World-Class Technical Support is a Security Installers Greatest Asset
+10 August 2026
+In the fast-moving security industry, choosing a equipment supplier goes far beyond hardware specs and pricing. As CCTV systems grow increasingly complexincorporating AI analytics, IP networking, and multi-site remote monitoringexpert after-sales technical support has become a security installer's most valuable asset. Having direct access to experienced technicians saves critical time on-site, protects project profitability, and safeguards the installer's reputation with end-users. Backed by over 33 years of collective experience, Luxrites dedicated support team provides the real-time expertise installers need to complete jobs efficiently and with total confidence.
+Posted in News
+Read more...
+Pre-Configuration Services for Installers | Luxrite Ltd
+23 July 2026 | Admin
+Save installation time with Luxrite's pre-configuration service for Door Entry, Ruijie Reyee and Dahua AirShield systems. Install faster, work smarter. Every installer knows that time is money. The faster you complete an installation without compromising quality, the sooner you can move on to the next job. That's exactly why Luxrite offers a professional Pre-Configuration Service for selected product ranges, helping you reduce installation time while delivering a seamless experience for your customers.
+Posted in News
+Read more...
+How to Fix a Frozen IP Camera Remotely in 60 Seconds with Ruijie Reyee PoE Switches
+19 June 2026 | Admin
+Unbillable service calls for frozen IP cameras are a massive margin drain for security integrators. Ruijie Reyee Cloud-Managed PoE Switches eliminate routine truck rolls with a game-changing Remote Individual PoE Port Reboot feature. Via a lifetime-free cloud app, technicians can power-cycle a single malfunctioning camera in 60 seconds without interrupting the rest of the customer's network or NVR recording.
+Posted in News
+Read more...
+SPRO 4+2x4MP Duo Panoramic IP PTZ: The Ultimate All-in-One Solution for Specialised Surveillance
+16 April 2026 | Admin
+When a standard PTZ or a fixed panoramic camera isn't enough, the industry looks for a hybrid that can do it all. Introducing the "big cousin" of the SPRO range: the SPRO 4+2x4MP Duo Panoramic IP PTZ Camera. Designed for specialised applications where coverage and detail cannot be compromised, this unit is far more than a general-purpose security camera.
+Posted in News
+Read more...
+The Future of Signaling: Why the Texecom SmartCom Pro is a Game-Changer for UK Installers
+24 March 2026 | Admin
+As the UK security industry hurtles toward the PSTN switch-off, the search for a reliable, flexible, and "all-IP" compliant communicator has intensified. While many universal communicators offer basic signalling, the new Texecom SmartCom Pro range aims to provide something more: a professional-grade, future-proof bridge for both Texecom and third-party systems.
+Posted in News
+Read more...
+SPRO 2-Wire 2MP Intercom Kit: The Professional Choice for Seamless Retrofits Reliable, Scalable, and Designed for Simple Installation.
+25 February 2026 | Admin
+Upgrading an old audio-only intercom shouldn't mean ripping up floorboards or running new Cat5e cables throughout a property. For installers looking to bring modern video security to existing buildings, the SPRO 2-Wire Intercom Kit (DHVDPKIT04-S) is the ultimate problem-solver. It delivers high-definition video and remote control using the two wires already in the wall.
+Posted in News
+Read more...
+Ajax EN54 Fire Hub Jeweller: A Smarter, Wireless Fire Alarm Control Panel for Modern Installations
+25 February 2026
+In environments where safety and reliability are paramount, upgrading to a fire alarm solution that delivers clarity, control and compliance can make all the difference. Meet the Ajax EN54 Fire Hub Jeweller  a fully wireless, EN54-certified fire alarm control and indicating panel (CIE) designed to elevate commercial fire safety systems with intuitive operation, robust performance and seamless integration.
+Posted in News
+Read more...
+Next Page
+Page 1 of 4 (37 Posts)
+News Archives
+All Results
+September 2026
+August 2026
+July 2026
+June 2026
+April 2026
+March 2026
+February 2026
+January 2026
+October 2025
+March 2025
+December 2024
+September 2024
+May 2024
+April 2024
+March 2024
+November 2023
+October 2023
+September 2023
+August 2023
+July 2023
+June 2023
+February 2023
+November 2022
+July 2022
+May 2022
+March 2022
+January 2022
+December 2021
+Recent Posts
+16/09/2026
+Understanding SPRO Security Cameras: Economy, Active Deterrent Lite & Pro Explained
+20/08/2026
+Cross-Brand Security System Integration: Fire, CCTV, Alarms & Access Control
+13/08/2026
+Beyond the Spec Sheet: How to Use the New SPRO Digital Catalogue to Win More Installs
+10/08/2026
+Beyond the Box: Why World-Class Technical Support is a Security Installers Greatest Asset
+23/07/2026
+Pre-Configuration Services for Installers | Luxrite Ltd
+19/06/2026
+How to Fix a Frozen IP Camera Remotely in 60 Seconds with Ruijie Reyee PoE Switches
+16/04/2026
+SPRO 4+2x4MP Duo Panoramic IP PTZ: The Ultimate All-in-One Solution for Specialised Surveillance
+24/03/2026
+The Future of Signaling: Why the Texecom SmartCom Pro is a Game-Changer for UK Installers
+25/02/2026
+SPRO 2-Wire 2MP Intercom Kit: The Professional Choice for Seamless Retrofits Reliable, Scalable, and Designed for Simple Installation.
+Ajax EN54 Fire Hub Jeweller: A Smarter, Wireless Fire Alarm Control Panel for Modern Installations
+30/01/2026
+SPRO 4MP Wi-Fi 6 Video Doorbell Kit: The Installers Choice for Smarter Front Door Security
+29/10/2025
+Effortless CCTV Network Separation with Ruijie Reyee
+06/03/2025
+What Are PIDS (Perimeter Intrusion Detection Systems)?
+13/12/2024
+RG-EST310 V2 - The Solution for Modern Surveillance Demands
+02/09/2024
+SPRO's Active Deterrence LITE Cameras
+Home
+About us
+Request a Trade Account
+Terms & Conditions
 Privacy Policy
-Contact Us
-NEWS
-All
-Product News
-AirCore Platform Updates
-AirCore Windows Updates
-Press Review and Award
-Event
-EDM
-AirCore Windows 2.19.7
-2026/10/19
-AirCore Windows Updates
-2.19.7 ships two real-machine-reproduced fixes, plus the accumulated backlog of VN parity work that was already sitting on the shipping branch.
-Fixed
-- Clip Player could crash silently the first time it ever played a real clip with real detection da
-Social
-Facebook
-Youtube
-Instagram
-LatAm
-Phone : 886-2-8912-1060
-Mail : info@airlive.com
-Marketing
-Banner
-Catalogues & DM
-Product Photo
-Video
-Commercial Video
-Tutorial Video
-Sitemap
-About Us
-Company
-Warranty & RMA
-Privacy Policy
-Contact Us
-Copyright © 2026 AirLive Technology Corporation. All rights reserved. WebDesign - GRNET
-TOP
+Delivery
+Careers
+HD CCTV
+IP CCTV
+Video Intercom
+Cables
+Intruder
+Fire
+Accessories
+Networking
+Software
+Demos
+Training
+Remote Support
+Returns
+Firmware
+Statement of Compliance - PSTI
+Telephone: +44 (0)1438 909168
+Email: sales@luxritesecurity.com
+Luxrite Ltd
+Unit 3 Eastman Way
+Pin Green Industrial Estate
+Stevenage
+Hertfordshire
+SG1 4SZ
+© 2026 Luxrite Ltd. Registered in England No 6801342
+Cookies and Privacy
+We use cookies on this website, some of which are essential for the site to work. For more information about how we use cookies, please see our Privacy Policy .
+Accept All
+Essential Only

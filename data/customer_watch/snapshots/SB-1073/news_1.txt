@@ -1,0 +1,328 @@
+# SB-1073 sensoguard.com · news_1 · https://sensoguard.com/blog · fetched 2026-10-25T07:41:18Z · HTTP 200
+Blog - SensoGuard Security Insights
+Home
+Products
+Seismic Shield
+Residential Protection
+Seismic Shield Pro
+Critical Infrastructure
+InvisiFence Plus
+Buried Sensor Cable
+MOSS
+Tactical Wireless Sensors
+UGS Sensors & Receivers
+Wireless Sensor Hardware
+CovertEye
+Surveillance Systems
+CovertEye 4G
+CovertEye 4G Compact
+CovertEye RF
+OutWatch
+AI Analytics Platform
+SG-PPS
+Pipeline Protection Plus
+Software
+CCS-OnSite
+SG-Patrol
+PC Suite
+Use Cases
+Border Protection
+Critical Infrastructure
+Residential Protection
+Remote Sites
+Pipeline Protection
+Prison Protection
+Solar Farm Protection
+Blog
+Support
+Training
+Support Center
+Integration
+Site Design
+About
+Contact Us
+Blog
+Articles, case studies, use cases, and announcements on perimeter security, seismic detection, and critical infrastructure protection.
+Sensei
+Sensei Explains: Why Battery Life Matters More Than You Think
+Sensei explains why AIO X and AIO XR sensors last up to 6 years on one battery: on-sensor DSP sends only confirmed alarms, so the radio stays quiet.
+October 19, 2026
+4 min read
+Announcements
+Introducing Site Design: Plan Your Perimeter Security on a Map
+Plan your perimeter security on a satellite map with SensoGuard's free Site Design tool: place sensors and cameras, get a parts list, and send it for a quote.
+October 12, 2026
+5 min read
+Sensei
+Sensei Explains: How to Install Your AIO X Sensor
+Sensei shows how to install the AIO X sensor in 3 steps: dig 40–50 cm deep, place the base upright, and bury both parts for invisible 24/7 protection.
+October 7, 2026
+3 min read
+Use Cases
+Solar Farm Security: Early Detection for Large Renewable Energy Sites
+Discover how seismic perimeter security improves solar farm security by detecting intruders early while reducing cameras, infrastructure costs, and false alarms.
+September 30, 2026
+6 min read
+Articles
+The Hidden Cost of CCTV Perimeter Security Systems
+CCTV perimeter security systems often require large infrastructure, storage, and maintenance. Learn how modern sensor-driven architectures reduce costs.
+September 22, 2026
+6 min read
+Sensei
+Sensei Explains: Why Underground Detection?
+Sensei breaks down why SensoGuard detects intrusions underground: invisible protection, early detection, no line of sight needed, and signature classification.
+September 14, 2026
+3 min read
+Articles
+Why Sensor-Level DSP Processing Makes Seismic Detection Smarter
+SensoGuard seismic sensors classify vibration signals with onboard DSP processing instead of sending raw data to a central unit.
+September 7, 2026
+6 min read
+Sensei
+Sensei Explains: How Seismic Detection Works
+Sensei walks through the 5 steps of seismic detection: movement above ground, vibrations through soil, sensing, real-time analysis, and instant alerts.
+September 7, 2026
+3 min read
+Articles
+This Shirt Fools AI Cameras. It Can't Fool Seismic Detection.
+An artist's AI-defeating shirt exposes the blind spot in camera-only security, and why two-layer systems can run more sensitively, not less.
+August 31, 2026
+8 min read
+Articles
+What Are Seismic Sensors? How They Detect Intruders
+How buried seismic sensors detect footsteps, vehicles, and digging, and where they fit compared to cameras, fences, and radar.
+August 25, 2026
+5 min read
+Articles
+Seismic Perimeter Intrusion Detection: Invisible Security for Critical Infrastructure
+How buried seismic sensors and AI PTZ camera verification protect solar farms, airports, and data centers with a fraction of the camera infrastructure traditional CCTV requires.
+August 24, 2026
+6 min read
+Articles
+How to Protect VIP Guests in Hotels Without Permanent Infrastructure
+Using the MOSS Indoor Kit to build a temporary, infrastructure-free protective layer around VIP guests and diplomatic delegations.
+August 17, 2026
+7 min read
+Use Cases
+How to Protect Remote Water Facilities Without Infrastructure
+Combining an infrastructure-free camera with AI verification to secure sites with no power or connectivity.
+July 8, 2026
+7 min read
+Articles
+How to Improve Illegal Dumping Enforcement in Open Areas
+Covert wide-area cameras and AI-verified alerts for catching dumping in open, unmanaged terrain.
+June 30, 2026
+9 min read
+Articles
+How MOSS Outdoor Improves Situational Awareness in Temporary Field Operations
+Buried seismic sensors and handheld alerts that deploy in minutes for stakeouts, camps, and mobile missions.
+June 15, 2026
+8 min read
+Articles
+Construction Site Security: Protecting Temporary Sites Without Infrastructure
+Mobile 4G cameras and AI verification for securing sites that change faster than fixed CCTV can keep up.
+June 9, 2026
+5 min read
+Articles
+Why Invisible Security Systems Are Harder to Bypass
+Why hidden underground detection outperforms visible fences and cameras against determined intruders.
+June 4, 2026
+7 min read
+Case Study
+Scalable Border Protection with Unattended Ground Sensors and RF Cameras
+How a three-layer detection, verification, and command architecture secures hundreds of remote border points.
+March 23, 2026
+8 min read
+Use Cases
+How to Secure Remote Infrastructure Without Power or Internet
+Autonomous 4G cameras and AI verification for solar farms, pipelines, and off-grid sites.
+March 16, 2026
+7 min read
+Articles
+How to Reduce False Alarms in Industrial Perimeter Security
+Redesigning a three-layer detection architecture to cut nuisance alarms without losing early detection.
+March 12, 2026
+2 min read
+Articles
+Invisible Home Perimeter Security for Luxury Villas
+Why buried seismic detection catches intruders at the boundary instead of after cameras record the breach.
+March 9, 2026
+9 min read
+Articles
+Designing Multi-Layer Perimeter Protection for Industrial Facilities
+Why industrial perimeter protection is a systems engineering discipline, not a hardware selection exercise.
+February 26, 2026
+2 min read
+Articles
+Why High-End Villas Detect Intruders Too Late
+Why perimeter philosophy, not budget, is why villa alarms only trigger after an intruder is already inside.
+February 26, 2026
+2 min read
+Articles
+The Story Behind the Seismic Shield
+How border-grade seismic detection was reimagined as an invisible, homeowner-friendly perimeter system.
+January 15, 2026
+2 min read
+Articles
+Dual-Layer Detection: Seismic + AI Explained
+Five reasons why pairing buried seismic sensors with AI cameras outperforms single-layer intrusion detection.
+December 18, 2025
+4 min read
+Articles
+Why InvisiFence Plus Outsmarts Intruders
+How a buried sensor cable with no visible hardware catches intruders before they reach the boundary.
+December 4, 2025
+2 min read
+Announcements
+Over 3500 UGS Systems Order from Israel MoD
+The largest order in SensoGuard's decade-long partnership with the Israeli Ministry of Defense.
+November 20, 2025
+2 min read
+Articles
+Choosing the Right Perimeter Security System
+Comparing underground seismic detection, fence-mounted sensors, and IR beams side by side.
+November 6, 2025
+7 min read
+Case Study
+Protecting Our Heritage: Security Solutions for Archaeological Sites
+Buried seismic sensors and solar-powered AI cameras protecting a multi-square-kilometer heritage site.
+October 23, 2025
+3 min read
+Articles
+Early Warning Systems for Tactical Operations
+How the MOSS Kit gives small tactical teams real-time detection, classification, and early warning in the field.
+October 9, 2025
+4 min read
+Articles
+5 Key Facts About Underground Seismic Sensor
+Five essential facts about how buried seismic sensors improve stealth, reliability, and detection accuracy.
+September 25, 2025
+3 min read
+Articles
+Early Alert Systems: Boosting Security Response
+Why placing seismic sensors along access routes gives security teams more time to respond, and what happens after a sensor triggers.
+September 11, 2025
+4 min read
+Announcements
+New Collaboration with the European Ranger Federation (ERF)
+SensoGuard partners with the ERF to support rangers conserving wildlife and combating illegal hunting across Europe.
+August 28, 2025
+2 min read
+Articles
+Real-Time Executive Protection
+How the MOSS Kit's rapid, infrastructure-free deployment gives executive protection teams full coverage in minutes.
+August 14, 2025
+4 min read
+Articles
+MOSS Kit: The Future of Tactical Defense Using Seismic Detector
+360-degree situational awareness, plug-and-play setup, and multi-year battery life for tactical teams.
+July 31, 2025
+4 min read
+Articles
+What is PIDS?
+A plain-language guide to Perimeter Intrusion Detection Systems and why seismic-based PIDS stands out.
+July 20, 2025
+5 min read
+Announcements
+SensoGuard and Digifort Collaborate to Simplify Perimeter Security Management
+A new CCS and Digifort VMS integration streamlines sensor-to-camera alarm management for operators.
+July 17, 2025
+2 min read
+Announcements
+SensoGuard & FLIR Latitude VMS
+Buried perimeter intrusion detection alarms, now monitored directly from the FLIR Latitude map and alarm screens.
+July 3, 2025
+1 min read
+Announcements
+Two-Layered Perimeter Security Solution | IDIS Integration
+Combining seismic detection with IDIS smart analytics object detection for a more reliable, false-alarm-resistant system.
+June 19, 2025
+2 min read
+Articles
+Unmatched Home Security: SensoGuard's Seismic Shield
+Invisible buried sensors paired with an auto-tracking PTZ camera for complete, discreet yard protection.
+June 5, 2025
+2 min read
+Use Cases
+Golf Course Security Systems
+Why buried perimeter detection succeeds where fences, guards, and cameras alone leave wide open ground unmonitored.
+May 22, 2025
+4 min read
+Articles
+Advantages of Buried Intrusion Detection Systems
+Why security teams choose covert, underground detection for borders, prisons, pipelines, and private estates.
+May 8, 2025
+3 min read
+Articles
+New Technology Successfully Prevents Illegal Border Crossings
+How the SG-Cam Kit helped Israeli forces detect and capture intruders crossing through a roadside culvert.
+April 24, 2025
+3 min read
+Announcements
+50 UGS Sensors Order from the Israeli MoD
+A repeat order of unattended ground sensor tactical systems for border protection and anti-smuggling operations.
+April 10, 2025
+2 min read
+Announcements
+New UGS Cover Larger Areas with Fewer Sensors
+SensoGuard's new XR sensors boost detection radius by up to 200%, letting tactical units cover more ground with fewer units.
+March 27, 2025
+2 min read
+Articles
+The Seismic Sensors Cable for Perimeter and Home Security
+A single buried cable of smart seismic sensors that turns any home perimeter into an invisible detection zone.
+March 13, 2025
+3 min read
+Announcements
+SensoGuard & System Surveyor
+SensoGuard's buried sensors are now available directly inside System Surveyor's intelligent system design software.
+February 27, 2025
+1 min read
+Articles
+Underground Sensors Comparison: Seismic vs. Fiber Optic vs. Leaky Coax
+Comparing installation limits, maintenance, cost, and false-alarm performance across three buried detection technologies.
+January 30, 2025
+6 min read
+No posts in this category yet.
+Have a Security Challenge to Solve?
+Talk to our team about the right solution for your site
+Talk to an Expert
+Get our latest news:
+Sign up
+Follow us on:
+Products
+Seismic Shield
+Seismic Shield Pro
+InvisiFence Plus
+MOSS
+UGS Sensors & Receivers
+CovertEye
+OutWatch
+SG-PPS
+Solutions
+All Use Cases
+Border Protection
+Critical Infrastructure
+Residential Protection
+Remote Sites
+Pipeline Protection
+Prison Protection
+Solar Farm Protection
+Support
+Training
+Support Center
+Integrations
+Site Design
+Company
+About Us
+Blog
+Contact
+Headquarters: 4 HaHaruv St Modi'in Region Industrial Park, Shoam, Israel
+© 2026 SensoGuard Ltd. All rights reserved
+Legal
+|
+Privacy Policy
+|
+Cookie Policy
+|
+Manage Cookies

@@ -1,549 +1,327 @@
-# SB-223 gelecekbt.com · home · https://gelecekbt.com/ · fetched 2026-10-25T07:41:18Z · HTTP 200
-GelecekBT Bilgi ve İletişim Teknolojileri
-E-Posta
-İletişim
-$ US Dollar
-Euro €
-Türk Lirası TL
-$ US Dollar
-0 ürün - $0,00 Alışveriş sepetiniz boş!
-MENU
-Anasayfa
-+
-Markalar
-+
-Çözümlerimiz Ağ Çözümleri ve Entegrasyon
-Görüntü ve Ses Sistemleri
-Endüstriyel Haberleşme Çözümleri
-Endüstri 4.0 Çözümleri
-CCTV Güvenlik Çözümleri
-RF Haberleşme Çözümleri
-BT Kablolama Çözümleri
-Veri Depolama Çözümleri
-Sunucu Çözümleri
-Sanallaştırma Çözümleri
-BT Güvenlik Çözümleri
-Teknik Bilgiler
-+
-Kurumsal GelecekBT Hakkında
-İletişim Bilgileri
-Banka Hesap Bilgileri
-Müşteri Memnuniyet Anketi
-İnsan Kaynakları
-Referanslarımız
-+
-Teknik Destek Teknik Şartnameler
-Teknik Çözümler
-Uygulama Dökümanları
-Teknik Eğitim
-Referanslarımız
-Garanti Sayfası
-+
-Web Adreslerimiz Telkolink Kurumsal
-Ethernet Switch Merkezi
-SFP&GBIC Modül
-Test ve Ölçüm Cihazları
-Netkablo BT Kablolama
-+
-Kategoriler
-Ethernet Switch
-+
-Ethernet Switch
-Ethernet POE Switch
-Endüstriyel Switch
-Endüstriyel POE Switch
-Endüstriyel Omurga Switch
-Omurga Fiber Switch
-10Gigabit Switch
-Multirate Switch
-Ethernet SFP Modül
-POE Switch AI
-PD POE Switch
-SFP Modül
-+
-800G
-100M SFP Modül
-1.25G SFP Modül
-2.5G SFP Modül
-10G SFP+ Modül
-10G XFP Modül
-25G SFP28 Modül
-40G QSFP Modül
-100G QSFP28 Modül
-200G QSFP56 Modül
-400G QSFP-DD Modül
-DAC/AOC/MPO Kablolar + MPO Fiber Optik Kablo
-DAC Kablo [10/25/40/100G]
-AOC Fiber Kablo
-Endüstriyel SFP
-HP Uyumlu SFP
-Bidi SFP Modül
-RJ45 SFP Modül
-Fiber Kanal SFP
-SDH STM SFP
-Transceivers
-CFP Modül
-GPON SFP
-Media Converter
-+
-Fast Ethernet Çevirici
-Gigabit Ethernet Çevirici
-10G Ethernet Çevirici
-Endüstriyel Media Converter
-Fiber Mode Converter
-Media Converter Şasi
-Video - Fiber Çevirici
-Telefon - Fiber Çevirici
-HDMI - Fiber Çevirici
-Kuru Kontakt F/O Çevirici
-Canbus - Fiber Çevirici
-POE Media Converter
-Video & Audio Ürünleri
-+
-USB Ürünleri + USB to RJ45
-USB AOC Fiber Kablo
-USB to Fiber
-Görüntü Sistemleri + HDMI Extender
-HDMI KVM Extender
-HDMI F/O Çevirici
-HDMI Matriks & Switch
-HDMI Kablosuz
-HDMI Splitter
-HDMI Video Wall
-HDMI Multiviewer
-HDMI Kablo + Hdmi 1.4 Kablo
-HDMI 2.0 Kablo
-HDMI 2.1 Kablo
-Hdmi Fiber Kablo
-Hdmi ve Sdi Encoder
-HDMI Sunucu
-Display Port
-HDMI Diğer Ürünler
-Ses Sistemleri + Audio - Fiber Çevirici
-Audio Video over IP
-Audio Kablolar
-Audio Cihazları
-VGA/DVI/SDI + VGA KVM Extender
-VGA KVM Switch
-SDI Fiber Converter
-SDI Video Kablosu
-DVI Fiber Converter
-VGA SDI DVI HDMI Kablo
-Digital Signage
-Video Konferans
-Wi-Fi & Wireless
-+
-Wi-Fi Kablosuz Ağ + Indoor AP
-Ceiling AP
-Outdoor AP
-PTP/PTMP Bridge
-4G/5G Wireless CPE
-Anten ve Aksesuarlar
-4G/5G LTE VPN Router
-LoraWAN & IIoT
-Antenler
-Helium Lora Networks
-Mobil & GSM
-Superbox
-Endüstriyel Haberleşme
-+
-Field Bus + EtherCAT
-Canbus
-Modbus
-Profibus/Profinet
-Bacnet Gateway
-M-Bus Gateway
-Otomasyon Switch + EN50155 Railway
-IEC 61850 Switch
-ITxPT Switch
-Profinet Switch
-TSN Switch
-PTP Switch
-Scada & PLC & RTU
-Edge Computing
-Kuru Kontakt F/O Çevirici
-Input & Output Modüller
-Endüstriyel IPC & HMI
-AI Edge Kameralar
-Elektronik Geliştirme
-Datacenter
-+
-Datacenter Switch & SFP
-KVM Switch
-Akıllı IP PDU
-ATS
-Ortam İzleme Sistemleri
-Datacenter Interconnect - DCI
-Seri Haberleşme
-+
-Seri Ethernet Sunucu
-Seri Fiber Optik Çevirici
-RS232/422/485 Çevirici
-Seri to Hücresel Ağ
-Seri TTL Çevirici
-Seri USB Converter
-IT & BT Kablolama
-+
-Fiber Optik + Fiber Optik Kablo + F/O Kablo SM
-F/O Kablo MM OM1
-F/O Kablo MM OM2
-F/O Kablo MM OM3
-F/O Kablo MM OM4
-Fiber Zipcord
-FO Kablo MM OM5
-Fiber Armoured Zipcord
-Fiber OBK Kablo
-Fiber Sonlandırma Kutuları + Rack Tipi Patch Panel
-Duvar Tipi Patch Panel
-Ray Tipi F/O Kutu
-Arazi Tip Fiber Ek Kutusu
-Pivot Tipi Panel
-F/O Plastik Ek Kutusu
-Fiber Optik Patch Cord + FO Patch Kablo - SM
-FO Patch Kablo MM OM1
-FO Patch Kablo MM OM2
-FO Patch Kablo MM OM3
-FO Patch Kablo MM OM4
-Fiber Breakout Kablo
-FO Çelik Zırhlı P. Cord
-F/O G.657 Patch Cord
-Fiber Patch OM5
-MTP/MPO Fiber Kablolama + MPO Fiber Kablo PB
-MPO Fiber Kablo PA
-MPO Kaset ve Panel
-MPO to LC Breakout
-Fiber Optik Adaptör
-Fiber Konnektör
-Fiber Optik Pigtail
-Fiber Optik Splitter
-Çıplak Fiber Adaptörü
-Fiber Optik Attenuator
-Fiber Optik Priz
-F/O Temizleme Ürünleri
-Fiber E2000 Ürünler
-Fiber MTRJ Ürünler
-Fiber Kılavuz
-FTTH Kablolama
-FTTA Kablolama
-Polishing Zımpara
-POF Plastik Fiber
-ONET VELOCITY™
-DAS / DTS
-Yapısal Kablolama + Ağ Kablosu + Dahili Tip Ağ Kablosu
-Harici Tip Ağ Kablosu
-Stranded Ağ Kablosu
-SWA & SWB Ağ Kablosu
-Data Patch Cord + CAT6 Patch Cord
-CAT6A Patch Cord
-CAT7 Patch Kablo
-CAT8 Patch Cord
-Special Patch Cord
-Çelik Zırhlı Patch Cord
-Data Patch Panel + Dolu Patch Panel
-Modüler Patch Panel
-RJ45 to RJ45 Panel
-RJ45 Keystone Jack
-RJ45 Konnektör - Plug
-RJ45 Data Prizi
-Din Rail RJ45
-CAT8 Kablolama
-M12 Patch & Konnektör + M12 Konnektör
-M12 Patch Kablo
-Onet Magnus
-RJ45 / RJ45 Adaptör
-Panel Mount
-Koaksiyel Kablolama + LMR Serisi Kablolama
-MIL-C-17 Koaksiyel Kablo
-BNC Panel & Patch Cord
-Konnektör & Adaptör
-Koaksiyel Patch Kablo
-RG Serisi Kablolar
-Microwave RF Ürünleri
-Semi Rigid Kablo
-RF Haberleşme + RF Kablo
-RF Jumper
-RF Konnektör & Adaptör
-RF Ürünler
-Telsiz Çözümleri
-Telefon Kablolama + Reglet & Modül
-Reglet Çatısı
-Telefon Kutuları
-Test Kordonu & Camper
-Telefon Patch Panel
-El Aletleri + Kablo Etiketleme
-Fiber El Aletleri
-Bakır Kablolama El Aletleri
-Waterproof Konnektörler
-Rack Kabinet + Kabinet Aksesuar
-Duvar Tipi Kabinet
-Dikili Tip Kabinet
-SOHO Kabinet
-Outdoor Kabinet
-Test & Ölçüm Cihazları
-+
-Fiber Ek Cihazları
-OTDR Test Cihazları
-OTDR Tampon Kablosu
-F/O Test Cihazları + Fiber Işık Test Cihazları
-Fiber Optik Güç Ölçer
-Fiber Optik Light Source
-Fiber Optik İdentifier
-Ayarlanabilir Atennuator
-Ağ Test Cihazları
-Telekom Test Cihazları
-CCTV Test Cihazları
-RF Test Cihazları
-Telekomünikasyon
-+
-CWDM / DWDM
-PRI / Fiber Optik Çevirici
-Ethernet to E1 Çevirici
-PRI / V.35 Çevirici
-Telekom Test Cihazları
-SDH Sistemleri
-DSL Ürünler
-DDF Ürünleri
-CCTV Güvenlik
-+
-Analog F/O Çevirici
-PoE Enjektörler
-POE Extender
-Ethernet Extender
-Kameralar + IP Kameralar
-Termal Kameralar
-Kayıt Cihazları
-Güvenlik Diski
-CCTV Monitör
-CCTV Diğer Ürünler
-EOC Ethernet to Koaksiyel
-Otomasyon Sistemleri
-+
-Haberleşme Arayüzleri
-Bina Otomasyonu
-Akıllı Sensörler
-Remote Kontrol
-Datalogger
-Endüstri 4.0 - IoT
-Otomasyon ve Kontrol Kabloları
-Sunucu & Server
-+
-Fiber Kanal SFP
-KVM Switch
-Sunucular
-PCIe Fiber Kartlar
-Sunucu Aksesuarları
-İş İstasyonu
-AI Server
-Sunucu Bellekleri
-Veri Depolama
-+
-NAS / SAN
-Veri Depolama Diski
-Güvenlik Harddisk
-Bulut Depolama
-Ağ Güvenliği
-+
-Firewall
-Ağ Analizi
-DLP - Veri Yedekleme ve Kurtarma
-Kurumsal Antivirüs
-Ağ Ürünleri
-+
-Load Balancer
-NTP/PTP
-Router & Modem
-Ağ Çevre Birimleri
-Enerji / Elektrik
-+
-AC/DC Çevirici
-DC/AC Çevirici
-DC/DC Çevirici
-Akü Şarj Cihazı
-PDU Grup Priz
-Bürotik Priz
-Power Güç Kablosu
-Güç Adaptörleri
-Metal Kasa Güç Kaynağı
-KGK (UPS)
-Enerji Kabloları
-Topraklama Sistemleri
-Elektrik Malzemeleri
-Elektrik Ölçü ve Test
-IP68 Bağlantı
-LED Driver
-Yıldırım Koruma
-+
-Ethernet Surge Arrester
-Seri Surge Arrester
-Koaksiyel & RF Surge Arrester
-Telefon ve DSL Surge Arrester
-Santral & PBX
-+
-Analog Telefon F/O Çevirci
-IP PBX Santral
-IP Telefon
-VoIP Gateway
-Bilgisayar ve Çevre Birimleri
-+
-VGA
-PCI Kart
-Hard Disk
-Centronics Konnektör
-RS232
-Monitör
-Projeksiyon Cihazları
-Teknik Egitim & Çözümler
-+
-Teknik Eğitim
-Teknik Uygulamalar
-Zayıf Akım
-+
-TV Yayın Sistemi + IP TV
-Canlı Yayın Sistemi
-Uydu ve Kablolu TV
-Yangın İhbar + Adresli Yangın Algılama
-Konvansiyonel Yangın Alarm
-Dedektörler
-Haberleşme Sistemleri
-Butonlar
-Geçiş Kontrol + Parmak İzi Okuyucular
-Yüz Okuma Sistemi
-Kartlı Geçiş Sistemleri
-Plaka Tanıma Sistemi
-Bariyer Sistemleri
-Diğer Ürünler
-Ağ Cihazları
-SFP Modül
-HDMI Ürünler
-Media Converter
-Fiber Optik
-CCTV
-Seri Ethernet
-Test & Ölçüm
-Otomasyon
-Ek Cihazı
-CLR Networks
-POE Switch
-ONET
-10G SFP+ Modül
-Ağ Güvenliği
-Fieldbus
-Son Eklenenler
-İletişime Geçiniz
-12 Port 10G SFP+ L3 Yönetilebilir Ethernet Switch CLR-SWT-7312F
-CLR-SWT-7312F 12-Port 1G/10G SFP+ L3 Managed Fiber 10G Omurga Ethernet Switch ..
-Sepete Ekle
-Favorilere Ekle
-Karşılaştırma listesine ekle
-Endüstriyel POE Switch 16 Gigabit RJ45 POE + 4 Gigabit SFP Yönetilebilir CLR-IES-L1620P
-CLR-IES-L1620P # 16 Port Gigabit RJ45 POE + 4 Port Gigabit SFP Endüstriyel ..
-Sepete Ekle
-Favorilere Ekle
-Karşılaştırma listesine ekle
-İletişime Geçiniz
-CLR-ETP-11 @ 1Port Ethernet VDSL Twisted Pair Çevirici
-CLR-ETP-11 # 1Port Ethernet VDSL Twisted Pair Çevirici, 1500mEthernet si..
-Sepete Ekle
-Favorilere Ekle
-Karşılaştırma listesine ekle
-Endüstriyel Switch 4 Port RJ45 + 2 Port SFP Yönetilebilir @ CLR-IES-G402
-CLR-IES-G402 # Ray montajlı 4 Port Port 10/100/1000Base-TX RJ45 + 1 Port 1000Base-FX ..
-Sepete Ekle
-Favorilere Ekle
-Karşılaştırma listesine ekle
-İletişime Geçiniz
-10G Switch 28 Port Stackable @ DGS-1510-28X/A1A
-D-link DGS-1510-28X/A1A 24-Port Gigabit RJ45 + 4-Port SFP+ 10Gbps Switch ..
-Sepete Ekle
-Favorilere Ekle
-Karşılaştırma listesine ekle
-İletişime Geçiniz
-MCSESU053FN0 5 Port 10/100Mbps RJ45 Yönetilemez Endüstriyel Switch
-MCSESU053FN0 # 5x10/100Mbps RJ45 Porta Sahip Standart Endüstriyel Switch, Y..
-Sepete Ekle
-Favorilere Ekle
-Karşılaştırma listesine ekle
-İletişime Geçiniz
-400G QSFP-DD SR8 MPO16 Multimode CLR-400G-SR8
-CLR-400G-SR8 400GBASE-SR8 QSFP-DD Multimode MPO16 Male 850nm 100Mt - 400Gbps
-..
-Sepete Ekle
-Favorilere Ekle
-Karşılaştırma listesine ekle
-İletişime Geçiniz
-FTLF8519P3BNL @ Finisar 1/2GB Fiber Kanal SFP Multimode
-FTLF8519P3BNL @ Finisar 1/2GB Fiber Kanal SFP MM Multimode 500MtFinisar FTLF8519P2BNL
-&Cced..
-Sepete Ekle
-Favorilere Ekle
-Karşılaştırma listesine ekle
-ON-AOC-FB410M @ 40G QSFP+ 4*SFP+ MM OM4 AOC Kablo 10m
-ON-AOC-FB410M # AOC (Active Optical Cable) 40G QSFP+ 4*SFP+ Multimode OM4 Kablo ..
-Sepete Ekle
-Favorilere Ekle
-Karşılaştırma listesine ekle
-CLR-FCS-SR16 @ Fiber Channel SFP+ Modül 16Gbps multirate
-CLR-FCS-SR16 # Fiber Channel Multimode SFP+ Modül 4G/8G/16Gbps Multi-rate, ..
-Sepete Ekle
-Favorilere Ekle
-Karşılaştırma listesine ekle
-CLR-TGS-B40A/B 10G BiDi SFP+ A+B Set LC Simplex 40 km
-CLR-TGS-B40A/B 10G BiDi SFP+ A+B Set LC Simplex 40 kmCLR-TGS-B40A/B; tek kıl singlemode fiber ..
-Sepete Ekle
-Favorilere Ekle
-Karşılaştırma listesine ekle
-İletişime Geçiniz
-200G QSFP56 - 4x 50G SFP56 DAC Kablo 1m 30AWG CLR-200G-D4001
-CLR-200G-D4001 200Gbps QSFP56 - 4x 50Gbps SFP56 DAC Kablo 1m 30AWG CLR-200G..
-Sepete Ekle
-Favorilere Ekle
-Karşılaştırma listesine ekle
-CLR-HDMI-L20R @ HDMI TCPIP Extender 200m Receiver
-CLR-HDMI-L20R # HDMI TCP/IP Cat6 Ethernet Mesafe Uzatıcı 200m Receiver (RX) C..
-Sepete Ekle
-Favorilere Ekle
-Karşılaştırma listesine ekle
-İletişime Geçiniz
-ATEN VE8662 4K HDMI H.265 IP Tabanlı Alıcı-Verici (Transceiver)
-ATEN VE8662 4K HDMI H.265 IP Tabanlı Alıcı-Verici (Transceiver) ATEN VE8662 modeli, p..
-Sepete Ekle
-Favorilere Ekle
-Karşılaştırma listesine ekle
-İletişime Geçiniz
-CLR-WHD-151 @ Wireless SDI/HDMI Extender 150m
-CLR-WHD-151 # SDI/HDMI Kablosuz Mesafe Uzatıcı Extender Seti 150m CLR-WHD-151..
-Sepete Ekle
-Favorilere Ekle
-Karşılaştırma listesine ekle
-İletişime Geçiniz
-CLR-HDMI-LR @ HDMI TCPIP Ethernet Extender HDbitT 150m Receiver
-CLR-HDMI-LR # HDMI TCP/IP Cat6 Ethernet Mesafe Uzatıcı HDbitT 150m Receiver (RX)&..
-Sepete Ekle
-Favorilere Ekle
-Karşılaştırma listesine ekle
-4Kx2K HDMI 1.4 Extender 60 Metre # CLR-HDMI-E603
-CLR-HDMI-E603 4K*2K@30Hz HDMI 1.4 Cat6 Extender Seti 60Metre CLR-HDMI-E603,..
-Sepete Ekle
-Favorilere Ekle
-Karşılaştırma listesine ekle
-İletişime Geçiniz
-HDMI Cat6 Mesafe Uzatıcı 50Metre CM196
-CM196 Ugreen HDMI Cat6 Extender 50metre 1080P Cat5 ve cat6 bakır ..
-Sepete Ekle
-Favorilere Ekle
-Karşılaştırma listesine ekle
-F3-B80412 @ Fast Ethernet Fiber Mode Çevirici SC to SC
-F3-B80412 # 100Base-FX MM 850nm to 100Base-FX SM 1310nm 20km Mode Çevirici&nbs..
-Sepete Ekle
-Favorilere Ekle
-Karşılaştırma listesine ekle
-Canbus Fiber Optik Çevirici Singlemode SC Simplex 1550nm @ CLR-CAN-F11B
-CLR-CAN-F11B # Canbus Fiber Optik Çevirici, Singlemode, SC Simplex, 1550n..
-Sepete Ekle
-Favorilere Ekle
-Karşılaştırma listesine ekle
-İletişime Geçiniz
-Planet XT-705A 100M/1G/2.5G/5G/10G RJ45 to 10GBASE-X SFP+ Media Converter
-Planet XT-705A 100M/1G/2.5G/5G/10G RJ45 to 10GBASE-X SFP+ Media Converter PLANET XT-7..
-Sepete Ekle
-Favoril
+# SB-223 2mtechnology.net · home · https://www.2mtechnology.net/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+Advanced Security for High-Risk Environments | 2M Technology
+Skip to content
+Products
+Close Products
+Open Products
+Surveillance
+Explosion-Proof
+Access Control
+Screening
+Solar CCTV
+Plumbing
+Software
+Network IP Cameras
+Box
+Bullet
+Corner
+Dome
+Turret
+Fisheye
+PTZ
+Panoramic
+Long-Range PTZ
+All Cameras
+Network Recorders (NVRs)
+All NVRs
+4 Channels
+8 Channels
+16 Channels
+32 Channels
+64 Channels
+128 Channels
+Analog Cameras
+Bullet
+Dome
+Turret
+PTZ
+All Cameras
+Digital Recorders (DVRs)
+All DVRs
+4 Channels
+8 Channels
+16 Channels
+Explosion-Proof Cameras
+Bullet
+Crane
+Fisheye
+Infrared (IR)
+PTZ
+Thermal
+All Cameras
+Explosion-Proof Housings
+Bullet
+Dome
+PTZ
+Thermal
+All Housings
+Explosion-Proof Accessories
+Brackets & Mounts
+Junction Boxes
+Monitors
+Audio
+All Accessories
+Custom Explosion-Proof Housings
+Overview
+Explosion-Proof Lighting
+Emergency
+Exit Signs
+Floodlights
+Hanging
+High Bay
+Linear
+Portable
+Spotlights
+Streetlights
+All Lights
+Pedestrian Access Control Turnstiles
+Full Height
+Tripod
+Lane Drop Arm
+Swing
+Glass Swing
+Retractable
+Wing
+Container
+All Turnstiles
+Parking Gate Barriers
+High Speed Toll
+Parking Lot
+Limited Ceiling
+All Barriers
+Vehicle Access Control
+Bollards
+Traffic Spikes
+All Access Control
+X-Ray Scanners
+Luggage
+Pallet
+Food
+All X-Rays
+Metal Detectors
+Walk-Through
+Thermal
+Hand Held
+All Detectors
+Luggage X-Ray Machine Pricing Guide
+Cost breakdown by tunnel size, single vs dual-view, and deployment type.
+Full Cost Guide →
+Solar-Powered CCTV Systems
+Portable Off-Grid
+Pole-Mounted
+Light Towers
+All Systems
+Mobile Solar Security Trailers
+Surveillance Trailers
+Drone Detection
+Mobile Surveillance Trailer Cost Guide
+Costs by power and application, plus competitor pricing and the 2M difference.
+Full Pricing Guide →
+Plumbing Inspection Cameras
+Robot Crawlers
+Push Rod
+Manhole
+All Cameras
+Cloud VMS with Video Analytics
+Cloud License Plate Recognition (LPR)
+Installations
+Close Installations
+Open Installations
+Installations
+Security Systems
+Security Cameras
+Access Control
+Burglar Alarms
+Fire Alarms
+More Installations
+Partnered Brand Systems
+Solutions
+Close Solutions
+Open Solutions
+Industries
+Use Cases
+Aviation
+Construction
+Courthouses
+Education
+Government
+Logistics
+Oil & Gas
+Religious Centers
+Stadiums
+General Security
+Distributed Operational Security
+Large Property Perimeter Security
+Access Control
+Construction Site Workforce Checkpoints
+Industrial Workforce Access Control
+Modular Security Container Systems
+Open Architecture Access Control Checkpoints
+Security Success Stories
+2M Technology helps clients across critical infrastructure, commercial retail, healthcare, industrial, and education sectors deploy smarter security and integration.
+View Case Studies →
+Resources
+Close Resources
+Open Resources
+Company
+Support
+Media
+Contact Us
+About Us
+Knowledge Base
+CCTV Downloads
+Calculators
+Security Blog
+Catalogs
+Search
+Free Quotes
+Engineered Security Systems for High-Risk & Critical Infrastructure
+Explosion-proof cameras, mobile surveillance trailers, X-ray scanners, LPR systems & access control — engineered for real-world deployment.
+Get a Free System Design
+Talk to an Expert
+Drone Detection Trailers
+Our proven mobile surveillance trailer platform combined with passive radio-frequency (RF) drone detection sensors from leading counter-UAS manufacturers.
+See Details
+Custom Container Security Checkpoints
+We transform standard ISO shipping containers into portable turnkey security checkpoints for any location, complete with access control turnstiles, advanced screening equipment, and full surveillance systems.
+Build Your Container
+Integrated Ubiquiti UniFi System Installations
+Unify your networking, access control, and surveillance with a complete Ubiquiti UniFi deployment. From initial system design and hardware mapping to the final installation, we handle every detail.
+Get a System Design
+Custom Explosion-Proof Surveillance
+Transform any security camera of any brand or type into an explosion-proof solution with our custom-designed explosion-proof housings that provide you with the highest level of protection in areas with the highest level of risk.
+Start Customizing
+Mobile Solar Security Trailers
+Deploy reliable, portable surveillance anywhere with easy setup and continuous power for remote areas, construction sites, and short-term events.
+Browse Products
+Explosion-Proof Lighting
+Tough, industrial-grade lighting solutions made for hazardous zones, delivering reliable, high-output illumination to any high-risk work site, any time of day.
+Browse Products
+Custom Security Installations
+Security solutions tailored to your needs. From design to installation, we create custom security systems that protect your property, assets, and people anytime, anywhere.
+Explore Services
+⭐⭐⭐⭐⭐ 5.0 ·
+29 Google Reviews
+|
+🏆 2026 Best Security Systems — Grand Prairie
+What Security Systems We Provide
+2M Technology provides integrated security solutions designed for real-world deployment across commercial, industrial, and high-security environments. These solutions include mobile surveillance trailers, explosion-proof camera systems, X-ray screening equipment, license plate recognition systems, and access control systems
+Surveillance Trailers
+Explosion-Proof Systems
+X-Ray Screening
+Plate Recognition
+Access Control
+Security for Remote & Temporary Sites
+Mobile Surveillance Trailers
+Deploy fully self-contained surveillance systems without power or infrastructure — ideal for construction sites, events and remote locations.
+Fully operational within minutes of arrival
+Stream video remotely using cellular connectivity
+24/7 power via solar panels and battery backups
+Customize with cameras, active deterrents, AI software, and lighting
+Learn More →
+Surveillance for Hazardous Environments
+Explosion-Proof Systems
+Monitor high-risk areas with compliant explosion-proof camera systems designed for oil, gas, chemical, and industrial facilities.
+Designed for safe operation in explosive and high-risk environments
+Heavy-duty camera housings prevent external ignition by containing internal sparks
+Made from 304/316L stainless steel for maximum resistance against corrosion
+Protect any camera from any brand using our custom housings
+Learn More
+High-Throughput Security Screening for Entry Points
+X-Ray Screening Systems
+Detect threats and control access with advanced X-ray scanners and screening systems for buildings, venues, and secure sites.
+Identify threats by distinguishing between organic and inorganic substances
+High-power generators reveal concealed objects through dense materials
+Check high volumes of bags and parcels without creating bottlenecks
+AI threat detection software highlights prohibited items automatically
+Learn More
+Vehicle Monitoring & Access Control for High-Traffic Areas
+License Plate Recognition (LPR)
+Automatically capture, log, and analyze license plates to improve security across parking facilities, gated properties, and campuses.
+Scan license plates on vehicles moving at high speeds
+AI-powered recognition reads plates accurately in various weather conditions
+Integrate with gate barrier systems to automate site entry
+Get alerts when unauthorized vehicles or blacklisted plates are detected
+Learn More
+Entry Management for Secure Facilities
+Access Control Systems
+Control and monitor access with integrated systems, including turnstiles, biometric readers, and credential-based entry solutions.
+Regulate physical access to sensitive areas
+Grant access using credentials like biometrics, PIN codes, RFID cards, and fobs
+Manage permissions and review detailed activity logs from a unified dashboard
+Sync with video surveillance and alarm systems
+Learn More
+The Best in Security
+2M Technology is dedicated to providing our clients with effective security solutions against potential risks. Contact us for a solution today and protect your business with the best in security from 2M Technology.
+20+ Years of Expertise
+450+ Locations Serviced
+700+ Satisfied Clients
+1,200+ Solutions Delivered
+New Products
+2MEJB-9
+Explosion-Proof Power Box
+Secure industrial wiring with this explosion-proof power box built with 304 or 316L stainless steel. Features Ex d IIC T6 rating and IP66/NEMA-4X protection.
+Explore All Features
+2MSLT-3240
+Mobile 3-Panel Solar Light Trailer
+Mobile solar light tower trailer with 3 panels, a 24.6 ft adjustable mast, 40,800 lumens of bright LED coverage, and up to 48 hours of off-grid runtime.
+Explore All Features
+2MSLT-2120
+2-Panel Solar Light Tower Trailer
+2-panel solar light tower trailer featuring 20,400 lumens output, a 21 ft telescopic mast, and up to 40 hours of runtime with zero fuel and noise emissions.
+Explore All Features
+2MEB-IP2MZ
+2MP Motorized Explosion-Proof Bullet Camera for Underground Coal Mining
+Explosion-proof mining bullet camera for underground coal mining surveillance. Features motorized zoom lens, auxiliary lights, and IP68 stainless steel housing.
+Explore All Features
+2MEJB-12
+ATEX/IECEx Certified Explosion-Proof Control Box
+Secure electrical connections in hazardous areas with the explosion-proof control box. ATEX and IECEx certified for Gas Zone 1 and Dust Zone 21.
+Explore All Features
+2MEP-IP4M4X
+4MP 4x Zoom Explosion-Proof Mini PTZ Camera for Mining
+Explosion-proof mini PTZ camera for underground mining surveillance. Features 4MP resolution, 4x optical zoom, and IR lights for up to 20m night vision.
+Explore All Features
+Unified Security Infrastructure for Industrial Facilities
+Integrated Security Infrastructure Design
+2M Technology engineers complete security ecosystems for industrial and critical infrastructure environments, including:
+Explosion-Proof Surveillance • Access Control • LPR • Perimeter Analytics • Fiber Backbone Networking • Remote Monitoring • Mobile Surveillance Systems • Centralized Operations Centers
+Perimeter Detection
+LPR / Vehicle Control
+Access Control
+Hazardous Area Monitoring
+Critical Asset Monitoring
+Mobile Surveillance
+Get a Security System Designed for Your Site
+Tell us about your environment and requirements — we’ll recommend the exact system configuration tailored to your needs.
+Get a Recommendation for Your Site →
+What We Specialize In
+2M Technology specializes in delivering advanced security systems for commercial and industrial environments with unique challenges, including hazardous locations, remote sites and high-security facilities.
+Oil & Gas
+Ensure safety in hazardous areas with explosion-proof monitoring systems made for ATEX, IECEx, & UL compliance.
+Learn More
+Construction
+Secure high-value assets and monitor projects with rapidly deployable, solar-powered surveillance trailers.
+Learn More
+Education
+Protect students and staff while streamlining operations with AI-driven monitoring and threat detection.
+Learn More
+Logistics
+Automate gate entry and protect high-value inventory using high-speed LPR and perimeter surveillance.
+Learn More
+Healthcare
+Ensure patient safety and secure restricted areas with touchless access control and high-definition monitoring.
+Learn More
+Trusted By Commercial & Industrial Clients Across the U.S.
+From small businesses to industrial leaders, organizations nationwide scale their security with 2M Technology.
+Custom Explosion-Proof Verkada Bullet Camera Housings: One Camera, Two Solutions
+Deploy any Verkada camera in hazardous areas without compromise. 2M designs every custom explosion-proof Verkada bullet camera housing to match your specs.
+Read Case Study
+Energy Site: Custom 10-ft Container Turnstile Checkpoint Fabrication
+When a Louisiana energy company needed a portable access control solution, we fabricated a custom 10-ft container turnstile checkpoint in under 3 weeks.
+Read Case Study
+Pappy's Express Car Wash: Explosion Proof Camera Installation
+2M Technology installed explosion proof car wash security cameras at Pappy's Express in Garland, Texas, to monitor tunnels and resolve customer damage claims.
+Read Case Study
+Urology Medical Clinic: Network-Integrated Ubiquiti UniFi Security System Installation
+We designed and installed a scalable, mult

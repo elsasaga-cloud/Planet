@@ -1,0 +1,72 @@
+{
+ "code": "SC-066",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（waystream.com，快照 2026-10-21）",
+ "summary": "瑞典 Waystream（FTTx 接入交换机与路由器研发商：MS7000/MS8000/ASR8000，「Made in Sweden」，Nasdaq First North 上市；表内「商业 switch，质量不错」）；表内 1 次跟进无回复。",
+ "type": "接入交换机厂商（同行/上市）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Waystream | Connecting the Future. One Fiber at a Time.；品类词 电信 / FTTH / ISP 设备 / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "Waystream develops and distributes future-oriented digital infrastructure, such as switches and routers, with a focus on the FTTx market.",
+   "url": "https://www.waystream.com/en/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "商业switch",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Waystream 定位",
+   "quote": "Waystream develops and distributes future-oriented digital infrastructure, such as switches and routers, with a focus on the FTTx market. ; Made in Sweden",
+   "url": "https://www.waystream.com/en/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "商业 switch 质量不错",
+   "quote": "商业switch；质量不错",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "同行：瑞典 FTTx 接入交换机厂商（Waystream，自研自产、上市），非渠道客户；c_sub=同行/厂商",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "瑞典",
+  "other": "官网 waystream.com，语言 en-US，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "FTTx 接入交换机 / 路由器研发"
+ ],
+ "channels": {
+  "role": "接入交换机厂商（同行/上市）",
+  "region": "瑞典",
+  "contact": "sales@waystream.com"
+ },
+ "signals": [
+  "官网：Waystream develops and distributes future-oriented digital infrastructure, such as switches and routers, with a focus on the FTTx market ; Made in Sweden；页面 /en/products-solutions/access-switches/"
+ ],
+ "risks": [
+  "同行：自研自产接入交换机（Made in Sweden），上市公司，非渠道客户"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 25,
+  "why": "自研自产 FTTx 接入交换机的上市厂商 = 同行，非渠道客户 → 改 C"
+ },
+ "email_hook": "（不发送：同行/厂商）"
+}

@@ -1,72 +1,844 @@
-# SB-714 mgt.bayern · home · https://www.mgt.bayern/ · fetched 2026-10-25T07:41:18Z · HTTP 200
-München | Münchner Glasfaser-Technik GmbH | Aubing-Lochhausen-Langwied
-top of page
-Anmelden
-Herzlich Willkommen
-Herzlich Willkommen bei der Münchner Glasfaser-Technik GmbH
-​
-Als spezialisiertes Unternehmen in den Bereichen Informationstechnik, Telekommunikation und Elektroinstallationen können wir unseren Kunden ein breites Spektrum an Lösungen anbieten.
-Unser Team aus Spezialisten steht Ihnen jederzeit für individuelle Installationen rund um ihr Haus oder ihre Gewerbeimmobilie zur Verfügung.
-Auf Grund langjähriger Erfahrung und individueller Weiterbildung in den Bereichen Glasfasertechnik, Elektroinstallationen, Netzwerktechnik, Breitbandkabel-, DVBT-2- und Sat-Anlagen unserer Elektromeister freuen wir uns auf die von Ihnen gestellten Herausforderungen.
-​
-Kontakt aufnehmen
-To play, press and hold the enter key. To stop, release the enter key.
-Jetzt neu
-E-LaDestationen
-Jetzt individuelles Angebot für ihre Wallbox anfordern
-Sie haben ein Problem?
-Wir haben die Lösung!
-Problem
-lösen
-Glasfasertechnik
-Das Medium der Zukunft zur Datenübertragung ist die Glasfaser, welche nun immer weiter von langen Übertragungswegen in die Haushalte wandert.
-weiterlesen
-Elektrotechnik
-Vom Sicherungskasten über die Steckdose bis zum Endgerät. Wir prüfen, moderniesieren und warten ihre Elektroinstallation nach DGUV
-weiterlesen
-Netzwerk und Smart Home
-Die klassische Cat-7 Verkabelung ist nach wie vor der Standard zur hausinternen Verkabelung und die Basis für ein automatisiertes Zuhause
-weiterlesen
-Wartungsdienst
-Regelmäßige Wartung sichert die reibungslose Funktion und verhindert lästige Störungen
-Wir bieten ihnen individuelle Wartungsverträge...
-weiterlesen
-Koax-Anlagen
-Ob Sat, DVBT 2 oder klassische Breitbandanlagen, hier finden Sie ihre perfekte TV-Versorgung
-​
-weiterlesen
-Störungsdienst
-Schwarzes Bild, kein Internet, Leitung defekt?
-Für einen richtigen Notfall sind wir 24/7 erreichbar
-​
-weiterlesen
-HOME
-LEISTUNGEN
-Wallbox E-Ladesäulen
-Störungsdienst
-Glasfasertechnik
-Elektrotechnik
-Koax
-Wartungsdienst
-Netzwerk und Smart Home
-BERATUNG & SCHULUNG
-GALERIE
-UNSER TEAM
-WIR SUCHEN DICH
-Ausbildung
-Office
-Techniker
-KONTAKT
-More
-Use tab to navigate through the menu items.
-KONTAKT
-Münchner Glasfaser-Technik GmbH
-Rudolf-Diesel-Straße 12
-82205 Gilching
-Tel: +49 89 427509510
-​
-Email: info@mgt.bayern
-© 2023 BY FREE LINE CREATIVE STUDIO. PROUDLY CREATED WITH WIX.COM
-Datenschutz
-Impressum
-bottom of page
+# SB-714 netsecurity.com.au · home · https://www.netsecurity.com.au/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+NetDigital Security | Marleston, South Australia - Electronic Security Distributor
+Login
+Register
+Shopping Cart
+Cart:
+0 items
+Total:
+$0.00 ex GST
+Search
+Menu
+Shop Now
+ACCESS CONTROL
+AUDIO/VISUAL/PRO AUDIO
+CCTV SURVEILLANCE
+HOME AUTOMATION
+INTERCOM
+NETWORKING/COMPUTERS
+SECURITY EQUIPMENT
+TRADE CONVENIENCE
+Home
+Products
+ACCESS CONTROL
+Access Controllers & Kits
+ELSEMA
+HIKVISION
+KERI
+NEDAP
+NIDAC
+SEBURY
+SUPREMA
+Biometric Devices
+HIKVISION
+SUPREMA
+ULTRA ACCESS
+Card Accessories
+NETDIGITAL
+Cards & Fobs
+AIRKEY
+BOSCH
+FARPOINTE
+HUGHES
+KERI
+NIDAC
+SEBURY
+ULTRA ACCESS
+Dead Locks
+LOCKWOOD
+Electric Strikes
+DORCAS
+FSH
+LOCKWOOD
+LOX
+NETDIGITAL
+Electromagnetic Locks
+LOX
+TAG
+Electromechanical Locks
+BQT
+LOX
+Exit Switches & Devices
+CLIPSAL
+GEM
+KAC
+NETDIGITAL
+STI
+ULTRA ACCESS
+Misc & Spares
+KAC
+Readers & Code Pads
+AIPHONE
+AIRKEY
+BOSCH
+FARPOINTE
+GEM
+HID
+HIKVISION
+HUGHES
+KERI
+NEDAP
+NIDAC
+ROSSLARE
+SEBURY
+SUPREMA
+AUDIO/VISUAL/PRO AUDIO
+Distributed Audio Misc & Spares
+XTENDR
+Distributed Audio Speakers
+ULTRA AUDIO
+Distributed Audio Systems
+WIIM
+HDMI/DVI/VGA Devices & Cables
+ATEN
+DEKK
+DYNALINK
+NETDIGITAL
+XTENDR
+Monitor Brackets & Mounts
+ATDEC
+DYNALINK
+ULTRA SURVEILLANCE
+PA Microphones & Amplifiers
+CMX AUDIO
+HIKVISION
+NETDIGITAL
+REDBACK
+TOA
+ULTRA AUDIO
+PA Misc & Spares
+CMX AUDIO
+REDBACK
+TOA
+PA Speakers
+CMX AUDIO
+HIKVISION
+REDBACK
+TOA
+CCTV SURVEILLANCE
+Amplifiers Distributors Tx & Rx
+EQL TELECONNECT
+NETDIGITAL
+XTENDR
+CCTV Kits
+HILOOK
+TP LINK
+Cameras - Analogue/AHD
+HIKVISION
+HILOOK
+Cameras - HD-IP
+HANWHA
+HIKVISION
+HIKVISION 4MP
+HIKVISION 6MP
+HIKVISION 8MP
+HILOOK
+TP LINK
+ULTRA SURVEILLANCE
+Cameras - Thermal
+HIKVISION
+HIKVISION 4MP
+Computers & Acc.
+WESTERN DIGITAL
+XTENDR
+Converters & Processors
+MOXA
+XTENDR
+DVR/NVR Recorders
+HIKVISION
+HILOOK
+NETDIGITAL
+TP LINK
+Housings Brackets & Mountings
+HANWHA
+HIKVISION
+TP LINK
+Misc & Spares
+NETDIGITAL
+Monitors
+ACER
+DELL
+HIKVISION
+LG
+PHILIPS
+ULTRA SURVEILLANCE
+Storage
+HIKVISION
+NETDIGITAL
+HOME AUTOMATION
+HA - Access Control
+KONEC
+HA - Gateways
+KONEC
+HA - Kits
+KONEC
+HA - Smart Light Switches
+KONEC
+HA - Smart Lighting
+KONEC
+HA - Smart Power Points
+KONEC
+HA - Smart Sensors
+KONEC
+INTERCOM
+AV - PA Microphones & Amplifiers
+TOA
+Apartment Intercom
+AIPHONE
+HIKVISION
+Audio Intercom
+AIPHONE
+TOA
+Commercial & IP Intercom
+AIPHONE
+HIKVISION
+KONEC
+TOA
+Intercom Kits
+AIPHONE
+Misc & Spares
+AIPHONE
+AMIS
+PA Speakers
+TOA
+Video Intercom
+AIPHONE
+HIKVISION
+HILOOK
+NETWORKING/COMPUTERS
+Computers & Acc.
+NETDIGITAL
+TP LINK
+VERBATIM
+Fibre Transmission
+GARLAND
+PLANET
+TP LINK
+XTENDR
+KVM Devices & Cables
+ATEN
+XTENDR
+Modems & Routers
+TP LINK
+Network Converters & Injectors
+HIKVISION
+PLANET
+TP LINK
+UBIQUITI
+XTENDR
+Network Switches (Non POE)
+HIKVISION
+PLANET
+TP LINK
+UBIQUITI
+Network Switches (POE)
+HIKVISION
+HILOOK
+PLANET
+TP LINK
+Patch Panels & Leads
+GARLAND
+XTENDR
+Rack Cabinets
+HIKVISION
+NETDIGITAL
+PSS DISTRIBUTORS
+USB Devices & Cables
+NETDIGITAL
+XTENDR
+Wireless Networking
+HIKVISION
+TP LINK
+UBIQUITI
+WI-TEK
+SECURITY EQUIPMENT
+Alarm Communicators
+BOSCH
+PERMACONN
+Alarm Kits
+BOSCH 2000 KITS
+BOSCH 3000 KITS
+BOSCH 4000 KITS
+BOSCH 6000 IP KITS
+BOSCH 6000 KITS
+Control Panels & Modules
+BOSCH
+DIGIFLEX
+HIKVISION
+Detectors - Fire
+BOSCH
+HIKVISION
+NETDIGITAL
+SYSTEM SENSOR
+TAKEX
+ULTRA DETECTION
+Detectors - Intrusion
+BOSCH
+HIKVISION
+NETDIGITAL
+SIEMENS
+TAKEX
+ULTRA DETECTION
+Keypads
+BOSCH
+Misc & Spares
+BOSCH
+HIKVISION
+NETDIGITAL
+NIDAC
+SECOR
+TAG
+TAKEX
+RF Equipment
+ACTIVOR
+AIRKEY
+BOSCH
+DIGIFLEX
+ELSEMA
+HIKVISION
+Reed Switches
+BOSCH
+NETDIGITAL
+SENTROL
+TAG
+Sounders, Strobes & Siren Boxes
+ARITECH
+BOSCH
+HIKVISION
+NETDIGITAL
+QLIGHT
+SECOR
+TAG
+ULTRA DETECTION
+ULTRA SURVEILLANCE
+TRADE CONVENIENCE
+240 Volt Accessories
+CABAC
+CLIPSAL
+HPM
+NETDIGITAL
+PLANET
+WATTMASTER
+Batteries - Alkaline
+DURACELL
+ENERGIZER
+Batteries - Lead Acid
+AUSCELL
+TAKEX
+Batteries - Lithium
+ENERGIZER
+NETDIGITAL
+PANASONIC
+SANYO
+SONY
+Cable
+DATAMASTER
+GARLAND
+HIKVISION
+TYCAB
+Conduit & Duct
+AUSSIEDUCT
+CLIPSAL
+Enclosures
+ALLBRO
+LEGRAND
+NETDIGITAL
+PSS DISTRIBUTORS
+Fixings Fasteners & Tapes
+CABAC
+CLIPSAL
+NETDIGITAL
+PROLOK
+RAMSET
+SLEGERS
+WATTMASTER
+XMOUNT
+Leads Plugs & Connectors
+CABAC
+CLICK
+CLIPSAL
+DATAMASTER
+DEKK
+GARLAND
+MADISON
+NETDIGITAL
+PRO.2
+TAG
+TELEMASTER
+ULTRA ACCESS
+XTENDR
+Misc & Spares
+CORRYPLATE
+DOW CORNING
+FRIEDLAND
+NETDIGITAL
+Power Supplies & UPS
+AIPHONE
+BOSCH
+ELSEMA
+HIKVISION
+NETDIGITAL
+POWERMASTER
+PSS DISTRIBUTORS
+ROSSLARE
+ULTRA ACCESS
+Switches
+CLIPSAL
+LOCK IT WELL
+NETDIGITAL
+TAG
+Timers & Relays
+NETDIGITAL
+NIDAC
+PSS DISTRIBUTORS
+ULTRA ACCESS
+Tools - Hand
+ARROW
+BORDO
+CABAC
+CRESCENT
+DATAMASTER
+ELSEMA
+GARLAND
+KLEIN TOOLS
+LED LENSER
+NETDIGITAL
+NICHOLSON
+PROSKIT
+RAMSET
+UNILITE
+VETO PRO PAC
+WATTMASTER
+WELLER
+Tools - Power
+ULTRA SURVEILLANCE
+Brands
+New Products
+Promos
+About
+Contact
+Shop Now
+ACCESS CONTROL
+Access Controllers & Kits
+ELSEMA
+HIKVISION
+KERI
+NEDAP
+NIDAC
+SEBURY
+SUPREMA
+Biometric Devices
+HIKVISION
+SUPREMA
+ULTRA ACCESS
+Card Accessories
+NETDIGITAL
+Cards & Fobs
+AIRKEY
+BOSCH
+FARPOINTE
+HUGHES
+KERI
+NIDAC
+SEBURY
+ULTRA ACCESS
+Dead Locks
+LOCKWOOD
+Electric Strikes
+DORCAS
+FSH
+LOCKWOOD
+LOX
+NETDIGITAL
+Electromagnetic Locks
+LOX
+TAG
+Electromechanical Locks
+BQT
+LOX
+Exit Switches & Devices
+CLIPSAL
+GEM
+KAC
+NETDIGITAL
+STI
+ULTRA ACCESS
+Misc & Spares
+KAC
+Readers & Code Pads
+AIPHONE
+AIRKEY
+BOSCH
+FARPOINTE
+GEM
+HID
+HIKVISION
+HUGHES
+KERI
+NEDAP
+NIDAC
+ROSSLARE
+SEBURY
+SUPREMA
+AUDIO/VISUAL/PRO AUDIO
+Distributed Audio Misc & Spares
+XTENDR
+Distributed Audio Speakers
+ULTRA AUDIO
+Distributed Audio Systems
+WIIM
+HDMI/DVI/VGA Devices & Cables
+ATEN
+DEKK
+DYNALINK
+NETDIGITAL
+XTENDR
+Monitor Brackets & Mounts
+ATDEC
+DYNALINK
+ULTRA SURVEILLANCE
+PA Microphones & Amplifiers
+CMX AUDIO
+HIKVISION
+NETDIGITAL
+REDBACK
+TOA
+ULTRA AUDIO
+PA Misc & Spares
+CMX AUDIO
+REDBACK
+TOA
+PA Speakers
+CMX AUDIO
+HIKVISION
+REDBACK
+TOA
+CCTV SURVEILLANCE
+Amplifiers Distributors Tx & Rx
+EQL TELECONNECT
+NETDIGITAL
+XTENDR
+CCTV Kits
+HILOOK
+TP LINK
+Cameras - Analogue/AHD
+HIKVISION
+HILOOK
+Cameras - HD-IP
+HANWHA
+HIKVISION
+HIKVISION 4MP
+HIKVISION 6MP
+HIKVISION 8MP
+HILOOK
+TP LINK
+ULTRA SURVEILLANCE
+Cameras - Thermal
+HIKVISION
+HIKVISION 4MP
+Computers & Acc.
+WESTERN DIGITAL
+XTENDR
+Converters & Processors
+MOXA
+XTENDR
+DVR/NVR Recorders
+HIKVISION
+HILOOK
+NETDIGITAL
+TP LINK
+Housings Brackets & Mountings
+HANWHA
+HIKVISION
+TP LINK
+Misc & Spares
+NETDIGITAL
+Monitors
+ACER
+DELL
+HIKVISION
+LG
+PHILIPS
+ULTRA SURVEILLANCE
+Storage
+HIKVISION
+NETDIGITAL
+HOME AUTOMATION
+HA - Access Control
+KONEC
+HA - Gateways
+KONEC
+HA - Kits
+KONEC
+HA - Smart Light Switches
+KONEC
+HA - Smart Lighting
+KONEC
+HA - Smart Power Points
+KONEC
+HA - Smart Sensors
+KONEC
+INTERCOM
+AV - PA Microphones & Amplifiers
+TOA
+Apartment Intercom
+AIPHONE
+HIKVISION
+Audio Intercom
+AIPHONE
+TOA
+Commercial & IP Intercom
+AIPHONE
+HIKVISION
+KONEC
+TOA
+Intercom Kits
+AIPHONE
+Misc & Spares
+AIPHONE
+AMIS
+PA Speakers
+TOA
+Video Intercom
+AIPHONE
+HIKVISION
+HILOOK
+NETWORKING/COMPUTERS
+Computers & Acc.
+NETDIGITAL
+TP LINK
+VERBATIM
+Fibre Transmission
+GARLAND
+PLANET
+TP LINK
+XTENDR
+KVM Devices & Cables
+ATEN
+XTENDR
+Modems & Routers
+TP LINK
+Network Converters & Injectors
+HIKVISION
+PLANET
+TP LINK
+UBIQUITI
+XTENDR
+Network Switches (Non POE)
+HIKVISION
+PLANET
+TP LINK
+UBIQUITI
+Network Switches (POE)
+HIKVISION
+HILOOK
+PLANET
+TP LINK
+Patch Panels & Leads
+GARLAND
+XTENDR
+Rack Cabinets
+HIKVISION
+NETDIGITAL
+PSS DISTRIBUTORS
+USB Devices & Cables
+NETDIGITAL
+XTENDR
+Wireless Networking
+HIKVISION
+TP LINK
+UBIQUITI
+WI-TEK
+SECURITY EQUIPMENT
+Alarm Communicators
+BOSCH
+PERMACONN
+Alarm Kits
+BOSCH 2000 KITS
+BOSCH 3000 KITS
+BOSCH 4000 KITS
+BOSCH 6000 IP KITS
+BOSCH 6000 KITS
+Control Panels & Modules
+BOSCH
+DIGIFLEX
+HIKVISION
+Detectors - Fire
+BOSCH
+HIKVISION
+NETDIGITAL
+SYSTEM SENSOR
+TAKEX
+ULTRA DETECTION
+Detectors - Intrusion
+BOSCH
+HIKVISION
+NETDIGITAL
+SIEMENS
+TAKEX
+ULTRA DETECTION
+Keypads
+BOSCH
+Misc & Spares
+BOSCH
+HIKVISION
+NETDIGITAL
+NIDAC
+SECOR
+TAG
+TAKEX
+RF Equipment
+ACTIVOR
+AIRKEY
+BOSCH
+DIGIFLEX
+ELSEMA
+HIKVISION
+Reed Switches
+BOSCH
+NETDIGITAL
+SENTROL
+TAG
+Sounders, Strobes & Siren Boxes
+ARITECH
+BOSCH
+HIKVISION
+NETDIGITAL
+QLIGHT
+SECOR
+TAG
+ULTRA DETECTION
+ULTRA SURVEILLANCE
+TRADE CONVENIENCE
+240 Volt Accessories
+CABAC
+CLIPSAL
+HPM
+NETDIGITAL
+PLANET
+WATTMASTER
+Batteries - Alkaline
+DURACELL
+ENERGIZER
+Batteries - Lead Acid
+AUSCELL
+TAKEX
+Batteries - Lithium
+ENERGIZER
+NETDIGITAL
+PANASONIC
+SANYO
+SONY
+Cable
+DATAMASTER
+GARLAND
+HIKVISION
+TYCAB
+Conduit & Duct
+AUSSIEDUCT
+CLIPSAL
+Enclosures
+ALLBRO
+LEGRAND
+NETDIGITAL
+PSS DISTRIBUTORS
+Fixings Fasteners & Tapes
+CABAC
+CLIPSAL
+NETDIGITAL
+PROLOK
+RAMSET
+SLEGERS
+WATTMASTER
+XMOUNT
+Leads Plugs & Connectors
+CABAC
+CLICK
+CLIPSAL
+DATAMASTER
+DEKK
+GARLAND
+MADISON
+NETDIGITAL
+PRO.2
+TAG
+TELEMASTER
+ULTRA ACCESS
+XTENDR
+Misc & Spares
+CORRYPLATE
+DOW CORNING
+FRIEDLAND
+NETDIGITAL
+Power Supplies & UPS
+AIPHONE
+BOSCH
+ELSEMA
+HIKVISION
+NETDIGITAL
+POWERMASTER
+PSS DISTRIBUTORS
+ROSSLARE
+ULTRA ACCESS
+Switches
+CLIPSAL
+LOCK IT WELL
+NETDIGITAL
+TAG
+Timers & Relays
+NETDIGITAL
+NIDAC
+PSS DISTRIBUTORS
+ULTRA ACCESS
+Tools - Hand
+ARROW
+BORDO
+CABAC
+CRESCENT
+DATAMASTER
+ELSEMA
+GARLAND
+KLEIN TOOLS
+LED LENSER
+NETDIGITAL
+NICHOLSON
+PROSKIT
+RAMSET
+UNILITE
+VETO PRO PAC
+WATTMASTER
+WELLER
+Tools - Power
+ULTRA SURVEILLANCE
+Featured Products
+BOSCH, Radion Series, Wireless panic button keyfob transmitter, 1 button duress, User only, 433MHz, Suits B810, RF120, RF121, RF3212E, STR2, STR3 Receivers, Includes 1× CR2032 battery
+RFPB-SB
+More Info
+BOSCH, Radion Series, Wireless reed switch, For doors/windows/dry contact devices, Integrated magnet, Supervised sensor loop, 433MHz, Suits B810, RF3212E, STR2, STR3 Receivers, Includes 1x CR123A
+RFUN
+More Info
+HIKVISION, Compact Series, 600 VA, 360 W, True line interactive UPS, Power filtering (lightning and surge protection), short circuit/overload protection, AC to DC less than 10ms, 220-240V AC,
+DS-UPS600-AU
+More Info
+HIKVISION, Detector, Dual tech, Outdoor, Blue Wave technology, Auto sensitivity, Microwave + two PIR sensors, Pet immune to 24kg, 85 degrees, 12 x 12m coverage, 1 - 1.5m Mounting Height
+DS-PD2-T12AME-EL
+More Info
+Shop Now
+Featured Products
+New Products
+Current Specials
+Clearance Items
+Customer Service
+Shipping & Returns
+Terms & Conditions
+Privacy Policy
+Account Login
+Our Company
+About Us
+Contact Us
+NetDigital Security
+4 Commercial Street
+Marleston, South Australia 5033
+Phone: (08) 8371 4166
+Fax: (08) 8371 4566
+© Copyright NetDigital Security .

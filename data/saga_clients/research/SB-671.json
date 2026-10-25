@@ -1,59 +1,107 @@
 {
  "code": "SB-671",
- "name_official": "",
+ "name_official": "MyTec（mytec-iq.com，伊拉克）",
  "researched_at": "2026-10-21",
- "website_status": "快照失败（http_error）",
- "summary": "美国 Abaco Systems（AMETEK 旗下国防/航空航天加固嵌入式计算厂商；KP Dan Fitzgerald（Engineer）、Mark Edwards；表内「Networking」）；群发 5 次无回复。",
- "type": "国防嵌入式计算厂商（巨头/守界）",
+ "website_status": "域名不可达（my-tec.co / mytec-iq.com）",
+ "summary": "伊拉克 IT 公司 MyTec（Mushtaq Al Takhakh），表内「有过详细产品交谈，处理公司产品」；WA 19 次无实质回复；域名失效。",
+ "type": "",
  "size": "",
  "brands_seen": [],
  "evidence": [
   {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "Networking",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "kind": "官网快照",
+   "claim": "my-tec.co 不可达",
+   "quote": "status unreachable",
+   "url": "http://my-tec.co/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "Networking",
-   "quote": "Networking",
+   "claim": "处理公司产品，有过详细产品交谈",
+   "quote": "兴趣：处理公司产品 有过详细产品交谈",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
- "kp": [],
- "grade_override": "C",
- "override_reason": "国防嵌入式厂商（守界/巨头）；c_sub=守界（军工）/体量过大",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "kp": [
+  {
+   "name": "Mushtaq Al Takhakh",
+   "title": "（负责人）",
+   "email": "mushtaq@mytec-iq.com",
+   "phone": "+964 770 270 3008",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（快照不可达 + 表内）"
  },
  "company_facts": {
-  "hq": "美国",
-  "other": "官网 abaco.com，语言 ?，快照状态 http_error；角色判定来源：待核"
+  "legal_name": "MyTec（待核）",
+  "founded": "",
+  "hq": "伊拉克",
+  "size": "小型",
+  "other": "域名失效；yahoo 备用"
  },
- "business_lines": [
-  "加固嵌入式计算（国防 / 航空航天）"
- ],
  "channels": {
-  "role": "国防嵌入式计算厂商（巨头/守界）",
-  "region": "美国",
-  "contact": "dan.fitzgerald@abaco.com、mark.edwards@abaco.com"
+  "role": "IT 经销 / 工程（推断）",
+  "region": "伊拉克"
  },
- "signals": [
-  "表内：Networking；KP Dan Fitzgerald / Engineer；mark.edwards@abaco.com",
-  "快照：http_error"
- ],
  "risks": [
-  "守界：国防/航空航天；体量：AMETEK 集团；5 次无回复"
+  "域名失效；伊拉克付款（T/T 预付）"
  ],
  "saga_fit": {
-  "p1": null,
-  "tier": 30,
-  "why": "国防/航空航天加固计算厂商（AMETEK 旗下）→ 改 C（巨头 + 守界）"
+  "p1": "STC-28DGGPM",
+  "tier": 25,
+  "why": "无明确口型；入门 8 PoE 管理机。"
  },
- "email_hook": "（不发送：守界/巨头）"
+ "email_hook": "（低优先；若再询再报）",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：处理公司产品 有过详细产品交谈」；Elsa 箱：`to:my-tec.co OR to:mytec-iq.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(n)））",
+   "type": "—",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "不动（非主攻区；J5：有证据再动）；WhatsApp 已加 → 唤醒走 WhatsApp 一句话，不走邮件",
+   "lane": "伊拉克 非主攻",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 0；用户表：「兴趣：处理公司产品 有过详细产品交谈」；研究档 risks：域名失效；伊拉克付款（T/T 预付）"
+  },
+  "situation": "伊拉克 IT 公司 MyTec（Mushtaq Al Takhakh），表内「有过详细产品交谈，处理公司产品」；WA 19 次无实质回复；域名失效。",
+  "need": "无明确口型；入门 8 PoE 管理机。",
+  "breakpoint": "域名失效；伊拉克付款（T/T 预付）",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "无明确口型；入门 8 PoE 管理机。",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：处理公司产品 有过详细产品交谈",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来",
+   "用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

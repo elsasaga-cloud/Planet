@@ -1,35 +1,28 @@
 {
  "code": "SB-872",
- "name_official": "TSS Co.（tss-e.com，沙特达曼）",
+ "name_official": "（巴基斯坦 · Ahmad Awan，hotmail）",
  "researched_at": "2026-10-21",
- "website_status": "在线（tss-e.com，快照 2026-10-21）",
- "summary": "沙特东部省（+966 13 846 8882）电信 / 安防承包商 TSS（telecom 13），Eng. Murad：需求工业级带光口交换机、SFP 模块，此前问过模块与 PSU；无跟进。",
+ "website_status": "无域名（免费邮箱/仅电话）",
+ "summary": "巴基斯坦个人/小公司买家 Ahmad Awan（hotmail，WA 已加）。2021 年问 E1 光纤 modem（Saga 不做），回「we use LAN/Ethernet to fiber」= 实际用以太网光纤收发器；2023 问价格是否更新、对 bypass 图回「有用」；22 次推送 3 次实质回复，互动尚可。→ B 25%，以 MC/工业小机切入。",
  "type": "",
  "size": "",
  "brands_seen": [],
  "evidence": [
   {
-   "kind": "官网快照",
-   "claim": "TSS Co.；sales@tss-e.com；+966 13 8468882；关键词 telecom 13",
-   "quote": "Welcome to TSS Co.",
-   "url": "https://tss-e.com/",
-   "date": "2026-10-21"
-  },
-  {
    "kind": "用户表",
-   "claim": "工业级带光的交换机、SFP 模块；前一阵子问了模块和 PSU",
-   "quote": "兴趣：工业级带光的交换机 SFP模块 前一阵子问了模块和PSU那个",
+   "claim": "表内需求与回复",
+   "quote": "很早之前问了E1 fiber modem；2021.10.25 发了单模光猫图 → we use LAN/Ethernet to fiber；2023.2.7 → 没进口证/价格更新了吗？；2023.6.15 发了bypass图 → 有用",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
  "kp": [
   {
-   "name": "Eng. Murad",
-   "title": "（工程 / 采购）",
-   "email": "murad@tss-e.com",
-   "phone": "+966 59 832 3625",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
+   "name": "Ahmad Awan",
+   "role": "（职位未核）",
+   "email": "israr_awan@hotmail.com",
+   "phone": "+92 321 507 5737（WA 已加）",
+   "source": "用户 Clients 表"
   }
  ],
  "grade_override": null,
@@ -37,81 +30,78 @@
  "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照 + 表内）"
+  "level": "无域名 · 仅表内信息"
  },
  "company_facts": {
-  "legal_name": "TSS Co.（待核）",
-  "founded": "（待核）",
-  "hq": "Dammam / Khobar, Eastern Province, Saudi Arabia",
-  "size": "小型承包商",
-  "other": ""
+  "legal_name": "待核",
+  "founded": "待核",
+  "hq": "待核",
+  "size": "待核",
+  "other": "+92 321 507 5737；无公司名"
  },
  "business_lines": [
-  "电信 / 安防工程承包"
+  "待核（见表内需求）"
  ],
+ "products_seen": [],
  "channels": {
-  "role": "工程承包商",
-  "region": "沙特东部省"
+  "contact": "israr_awan@hotmail.com，+92 321 507 5737（WA 已加）"
  },
  "signals": [
-  "明确工业带光口交换机需求"
+  "2023-06 对工业 bypass 交换机图回「有用」",
+  "2023-02 主动问价格是否更新"
  ],
  "risks": [
-  "SFP / PSU 为配件需求（Q-32）；无跟进"
+  "无公司实体信息",
+  "首问 E1 modem 非 Saga 产品"
  ],
  "saga_fit": {
-  "p1": "STI-288GP",
+  "p1": "STI-110GE",
   "tier": 25,
-  "why": "工业带光口 PoE → STI-288GP（$59.8 @25%）；模块随机配（Q-32）。"
+  "why": "「LAN/Ethernet to fiber」→ 工业千兆收发器 STI-110GE 起手；bypass 需求对应 SmartByte LT-IS6312GP-4GX8GT-FBP（Saga 无自有型号，报价需标注）"
  },
- "email_hook": "Eng. Murad, the industrial fibre switch you asked about — 2 SFP + 8 PoE DIN, $60 EXW, and we can fit tested 20 km SFPs into the same order; do you also still need the 48 V PSU quoted?",
+ "email_hook": "You mentioned you use Ethernet-to-fiber converters rather than E1 modems — our DIN-rail gigabit media converter is $22–24 EXW in small lots; want the current sheet together with the bypass switch you found useful?",
  "mail_review": {
   "binding": {
-   "level": "未触达（S 邮箱 4 封 2024，无记录打开，0 回；收件 murad@tss-e.com, sales@tss-e.com；主题多为「48 port managed switch、Industrial poe switch」；Elsa 箱：`to:tss-e.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 4 / 来 0）（第 74 批(n)））",
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「很早之前问了E1 fiber modem；2021.10.25 发了单模光猫图 → we use LAN/Etherne」；Elsa 箱：`to:israr_awan@hotmail.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(n)））",
    "type": "—",
-   "sieve": "1（只收到群发）",
-   "stop": "4 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "沙特阿拉伯 非主攻",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 4；用户表：「兴趣：工业级带光的交换机 SFP模块 前一阵子问了模块和PSU那个」；研究档 risks：SFP / PSU 为配件需求（Q-32）；无跟进"
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "不动（非主攻区；J5：有证据再动）",
+   "lane": "巴基斯坦 非主攻",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 0；用户表：「很早之前问了E1 fiber modem；2021.10.25 发了单模光猫图 → we use LAN/Ethernet to fiber；2023.2.7 」；研究档 risks：无公司实体信息"
   },
-  "situation": "沙特东部省（+966 13 846 8882）电信 / 安防承包商 TSS（telecom 13），Eng. Murad：需求工业级带光口交换机、SFP 模块，此前问过模块与 PSU；无跟进。",
-  "need": "工业带光口 PoE → STI-288GP（$59.8 @25%）；模块随机配（Q-32）。",
-  "breakpoint": "SFP / PSU 为配件需求（Q-32）；无跟进",
+  "situation": "巴基斯坦个人/小公司买家 Ahmad Awan（hotmail，WA 已加）。2021 年问 E1 光纤 modem（Saga 不做），回「we use LAN/Ethernet to fiber」= 实际用以太网光纤收发器；2023 问价格是否更新、对 bypass 图回「有用」；22 次推送 3 次实质回复，互动尚可。→ B 25%，以 MC/工业小机切入。",
+  "need": "「LAN/Ethernet to fiber」→ 工业千兆收发器 STI-110GE 起手；bypass 需求对应 SmartByte LT-IS6312GP-4GX8GT-FBP（Saga 无自有型号，报价需标注）",
+  "breakpoint": "无公司实体信息",
   "saga_now": {
-   "p1": "STI-288GP",
+   "p1": "STI-110GE",
    "tier": 25,
-   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-23 $65（10G Media Converter）；群发里他已看到的价（续，第 66 批全量复核）：2024-06-22 $220（48 port managed switch）",
-   "why": "工业带光口 PoE → STI-288GP（$59.8 @25%）；模块随机配（Q-32）。",
+   "price": "按主表（研究档 saga_fit）",
+   "why": "「LAN/Ethernet to fiber」→ 工业千兆收发器 STI-110GE 起手；bypass 需求对应 SmartByte LT-IS6312GP-4GX8GT-FBP（Saga 无自有型号，报价需标注）",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开",
-   "one_question": "Eng. Murad, the industrial fibre switch you asked about — 2 SFP + 8 PoE DIN, $60 EXW, and we can fit tested 20 km SFPs into the same order; do you also still need the 48 V PSU quoted?"
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
   },
   "facts": [
-   {
-    "date": "2024-10-28",
-    "dir": "去",
-    "who": "S 群发",
-    "quote": "48 port managed switch、Industrial poe switch",
-    "why": "4 封 / 0 次打开 / 0 回｜首封 2024-06-22 → 末封 2024-10-28（4 去 / 0 来）",
-    "k": "gmail_digest"
-   },
    {
     "date": "2026-10-21",
     "dir": "用户表",
     "who": "Simon",
-    "quote": "兴趣：工业级带光的交换机 SFP模块 前一阵子问了模块和PSU那个",
+    "quote": "很早之前问了E1 fiber modem；2021.10.25 发了单模光猫图 → we use LAN/Ethernet to fiber；2023.2.7 → 没进口证/价格更新了吗？；2023.6.15 发了bypass图 → 有用",
     "why": "表内备注",
     "k": "用户表"
    }
   ],
-  "proof_gaps": [],
+  "proof_gaps": [
+   "无邮件往来",
+   "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+  ],
   "draft_en": null,
   "as_of": "2026-10-24"
  }

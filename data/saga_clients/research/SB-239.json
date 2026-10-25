@@ -1,152 +1,98 @@
 {
  "code": "SB-239",
- "name_official": "",
+ "name_official": "Empicstar（empicstar.com，尼日利亚；域名现不可达）",
  "researched_at": "2026-10-21",
- "website_status": "在线（solpakutec.com，快照 2026-10-21）",
- "summary": "意大利 Solpakutec（「Smart products for smart industry」：定制软硬件开发、工业产品测试交付；站内 ICP DAS NS-205G / NSM-205GP；表内「工业 FS（ICP DAS 这个牌子的）」；KP Dominik Prieth（Founder，d.prieth@））；群发 6 次无回复。",
- "type": "工业定制方案小商（意大利，ICP DAS 工业 FS）",
+ "website_status": "域名不可达（快照 2026-10-21 unreachable）",
+ "summary": "尼日利亚网络产品平台/转售商 Empicstar（用户备注「FS MC 周边产品，似乎是平台，出现了 TP-Link、ONV 等牌子」；gmail + WA）。2024-03 对商业 PoE 128 信息回「price」；18 次推送 1 次实质回复。域名快照不可达 → 存续待核；→ B 20%（平台转售）。",
+ "type": "",
  "size": "",
- "brands_seen": [
-  "ICP DAS"
- ],
+ "brands_seen": [],
  "evidence": [
   {
-   "kind": "官网快照",
-   "claim": "官网标题：Solpakutec – Solpakutec；品类词 工业自动化 / OT 网络 / 网络交换 / PoE",
-   "quote": "SMART PRODUCTS FOR SMART INDUSTRY SMART PRODUCTS FOR SMART INDUSTRY All our products are extensively tested and checked before they are delivered. With our customised and tailor-made products, you can increase your efficiency and minimise c",
-   "url": "https://solpakutec.com/en/",
-   "date": "2026-10-21"
-  },
-  {
    "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "工业FS（ISPDAS这个牌子的）",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "Solpakutec 智能工业产品",
-   "quote": "SMART PRODUCTS FOR SMART INDUSTRY All our products are extensively tested and checked before they are delivered. With our customised and tailor-made products",
-   "url": "https://solpakutec.com/en/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "工业 FS（ICP DAS）",
-   "quote": "工业FS（ISPDAS这个牌子的）",
+   "claim": "表内需求与回复",
+   "quote": "FS MC 周边产品 似乎是平台 出现了TP-link ONV等牌子；2024.3.28 发了商业POE 128信息 → price",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
- "kp": [
-  {
-   "name": "Dominik Prieth",
-   "title": "Founder",
-   "email": "d.prieth@solpakutec.com",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
+ "kp": [],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（域名核对 → 存续待核 · 需求映射）"
  },
  "company_facts": {
-  "hq": "意大利",
-  "other": "官网 solpakutec.com，语言 en-US，快照状态 ok；角色判定来源：用户表"
+  "legal_name": "待核",
+  "founded": "待核",
+  "hq": "待核",
+  "size": "待核",
+  "other": "+234 803 428 6012；empicstar2014@gmail.com"
  },
  "business_lines": [
-  "工业定制软硬件方案"
+  "待核（见表内需求）"
  ],
+ "products_seen": [],
  "channels": {
-  "role": "工业定制方案小商（意大利，ICP DAS 工业 FS）",
-  "region": "意大利",
-  "contact": "d.prieth@solpakutec.com"
+  "contact": "empicstar2014@gmail.com，+234 803 428 6012（WA 已加）"
  },
  "signals": [
-  "官网：SMART PRODUCTS FOR SMART INDUSTRY … customised and tailor-made products；Hardware-Development / Software-Development",
-  "站内型号 NSM-205GP / NS-205G（ICP DAS）；kw industrial 67",
-  "KP：Dominik Prieth / Founder（表内）"
+  "2024-03 对商业 PoE 回 price"
  ],
  "risks": [
-  "小型定制商：量小",
-  "现用 ICP DAS（台湾）供货稳定；6 次无回复 → 改向 Founder 具名首触"
+  "域名不可达，平台可能已停",
+  "尼日利亚外汇/付款风险"
  ],
  "saga_fit": {
-  "p1": "STI-154GP",
-  "tier": 25,
-  "why": "在用 ICP DAS NSM-205GP（5 口含 PoE）→ 工业 4 PoE + 1 GE STI-154GP（$39.2 @25%）/ 5 GE STI-050GE（$17.8）同口型替换"
+  "p1": "STC-28DGGPM",
+  "tier": 20,
+  "why": "平台转售 TP-Link/ONV 同档 → 8 PoE + 2 SFP L2+ 起手，20% 档"
  },
- "email_hook": "Dominik, next to the ICP DAS NS-205 / NSM-205GP switches you build into your systems, we supply DIN-rail 5-port gigabit and 4-PoE + 1 industrial units (−40~75 °C, CE/RoHS, neutral packing) from single units — which of the two do you use more often?",
- "products_seen": [
-  {
-   "brand": "ICP DAS",
-   "model": "NSM-205GP",
-   "spec": "工业 5 口（4 PoE）非管理",
-   "saga": "STI-154GP",
-   "url": "https://solpakutec.com/en/",
-   "date": "2026-10-21"
-  },
-  {
-   "brand": "ICP DAS",
-   "model": "NS-205G",
-   "spec": "工业 5 GE 非管理",
-   "saga": "STI-050GE",
-   "url": "https://solpakutec.com/en/",
-   "date": "2026-10-21"
-  }
- ],
+ "email_hook": "You asked for the price of our commercial PoE switches last year — for a platform listing alongside TP-Link/ONV, the 8-port PoE+ L2+ model is $81–87 EXW in small lots; want the full sheet?",
  "mail_review": {
   "binding": {
-   "level": "未触达（A 邮箱 17 封 2025→2026，无记录打开，0 回；收件 d.prieth@solpakutec.com；主题多为「Industrial PoE Switch、16 Port Ethernet Switch」；Elsa 箱：`to:solpakutec.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 17 / 来 0）（第 74 批(j)））",
-   "type": "工业定制方案小商（意大利，ICP DAS 工业 FS）",
-   "sieve": "1（只收到群发）",
-   "stop": "17 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "意大利（欧洲全域主攻）",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 17；用户表：「工业FS（ISPDAS这个牌子的）」；研究档 risks：小型定制商：量小"
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「FS MC 周边产品 似乎是平台 出现了TP-link ONV等牌子；2024.3.28 发了商业POE 128信息 →」；Elsa 箱：`to:empicstar.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(n)））",
+   "type": "—",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "不动（非主攻区；J5：有证据再动）",
+   "lane": "尼日利亚 非主攻",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 0；用户表：「FS MC 周边产品 似乎是平台 出现了TP-link ONV等牌子；2024.3.28 发了商业POE 128信息 → price」；研究档 risks：域名不可达，平台可能已停"
   },
-  "situation": "意大利 Solpakutec（「Smart products for smart industry」：定制软硬件开发、工业产品测试交付；站内 ICP DAS NS-205G / NSM-205GP；表内「工业 FS（ICP DAS 这个牌子的）」；KP Dominik Prieth（Founder，d.prieth@））；群发 6 次无回复。",
-  "need": "在用 ICP DAS NSM-205GP（5 口含 PoE）→ 工业 4 PoE + 1 GE STI-154GP（$39.2 @25%）/ 5 GE STI-050GE（$17.8）同口型替换",
-  "breakpoint": "小型定制商：量小",
+  "situation": "尼日利亚网络产品平台/转售商 Empicstar（用户备注「FS MC 周边产品，似乎是平台，出现了 TP-Link、ONV 等牌子」；gmail + WA）。2024-03 对商业 PoE 128 信息回「price」；18 次推送 1 次实质回复。域名快照不可达 → 存续待核；→ B 20%（平台转售）。",
+  "need": "平台转售 TP-Link/ONV 同档 → 8 PoE + 2 SFP L2+ 起手，20% 档",
+  "breakpoint": "域名不可达，平台可能已停",
   "saga_now": {
-   "p1": "STI-154GP",
-   "tier": 25,
-   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-13 $280（10G Enterprise SFP Switch）",
-   "why": "在用 ICP DAS NSM-205GP（5 口含 PoE）→ 工业 4 PoE + 1 GE STI-154GP（$39.2 @25%）/ 5 GE STI-050GE（$17.8）同口型替换",
+   "p1": "STC-28DGGPM",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "平台转售 TP-Link/ONV 同档 → 8 PoE + 2 SFP L2+ 起手，20% 档",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开",
-   "one_question": "Dominik, next to the ICP DAS NS-205 / NSM-205GP switches you build into your systems, we supply DIN-rail 5-port gigabit and 4-PoE + 1 industrial units (−40~75 °C, CE/RoHS, neutral packing) from single units — which of the two do you use more often?"
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
   },
   "facts": [
-   {
-    "date": "2026-10-07",
-    "dir": "去",
-    "who": "A 群发",
-    "quote": "Industrial PoE Switch、16 Port Ethernet Switch",
-    "why": "17 封 / 0 次打开 / 0 回｜首封 2025-01-29 → 末封 2026-10-07（17 去 / 0 来）",
-    "k": "gmail_digest"
-   },
    {
     "date": "2026-10-21",
     "dir": "用户表",
     "who": "Simon",
-    "quote": "工业FS（ISPDAS这个牌子的）",
+    "quote": "FS MC 周边产品 似乎是平台 出现了TP-link ONV等牌子；2024.3.28 发了商业POE 128信息 → price",
     "why": "表内备注",
     "k": "用户表"
    }
   ],
-  "proof_gaps": [],
+  "proof_gaps": [
+   "无邮件往来",
+   "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+  ],
   "draft_en": null,
   "as_of": "2026-10-24"
  }

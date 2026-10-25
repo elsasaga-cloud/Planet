@@ -2,39 +2,23 @@
   "code": "SB-993",
   "name_official": "",
   "researched_at": "2026-10-21",
-  "website_status": "在线（nexlar.com，快照 2026-10-21）",
-  "summary": "美国 Nexlar Security（休斯顿商用安防与门禁安装商：摄像机、门禁、周界、工业场所项目，已服务 1000+ 企业；ZKTeco；表内「很多牌子的 有自己的 logo」）；表内未跟进。",
-  "type": "商用安防集成商（美国休斯顿）",
+  "website_status": "快照失败（http_error）",
+  "summary": "荷兰 Abigo4u（abigo4u.com：MC 与工业 MC，「很多牌子的」多品牌经销；官网 http_error）；表内未跟进。",
+  "type": "MC 多品牌经销商（荷兰）",
   "size": "",
-  "brands_seen": [
-    "ZKTeco"
-  ],
+  "brands_seen": [],
   "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "官网标题：Commercial Security & Access Control System Installation；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 数据中心 / 企业 IT / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
-      "quote": "#1 Commercial Security, Access Control system & Security Camera installation company. Get the latest new technology for your business. Free Site Survey",
-      "url": "https://www.nexlar.com/",
-      "date": "2026-10-21"
-    },
     {
       "kind": "用户表",
       "claim": "表内兴趣/备注",
-      "quote": "很多牌子的 有自己的logo",
+      "quote": "MC 工业MC 很多牌子的",
       "url": "（本地 Clients/ 表格，无公开 URL）",
       "date": "2026-10-21"
     },
     {
-      "kind": "官网快照",
-      "claim": "Nexlar 定位",
-      "quote": "Commercial Security & Access Control System Installation ; #1 Commercial Security, Access Control system & Security Camera installation company ; We Have Secured Over 1000 Businesses",
-      "url": "https://www.nexlar.com/",
-      "date": "2026-10-21"
-    },
-    {
       "kind": "用户表",
-      "claim": "很多牌子 有自己的 logo",
-      "quote": "很多牌子的 有自己的logo",
+      "claim": "MC 工业 MC 很多牌子",
+      "quote": "MC 工业MC 很多牌子的",
       "url": "（本地 Clients/ 表格，无公开 URL）",
       "date": "2026-10-21"
     }
@@ -48,80 +32,72 @@
     "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
   },
   "company_facts": {
-    "hq": "美国",
-    "other": "官网 nexlar.com，语言 en-US，快照状态 ok；角色判定来源：用户表"
+    "hq": "荷兰",
+    "other": "官网 abigo4u.com，语言 ?，快照状态 http_error；角色判定来源：待核"
   },
   "business_lines": [
-    "商用安防 / 门禁 / 摄像机安装（休斯顿）"
+    "MC / 工业 MC 经销（荷兰）"
   ],
   "channels": {
-    "role": "商用安防集成商（美国休斯顿）",
-    "region": "美国",
-    "contact": "info@nexlar.com"
+    "role": "MC 多品牌经销商（荷兰）",
+    "region": "荷兰",
+    "contact": "info@abigo4u.com、sales@abigo4u.com"
   },
   "signals": [
-    "官网：#1 Commercial Security, Access Control system & Security Camera installation company；首页 We Have Secured Over 1000 Businesses；页面 /blogs/industrial-gate-access-control-houston/；kw camera 148 / access control 145 / fiber 11",
-    "表内：很多牌子的 有自己的 logo"
+    "表内：MC 工业 MC 很多牌子的",
+    "快照：http_error"
   ],
   "risks": [
-    "仅 info@，无具名 KP；未跟进过；多品牌采购（Hikvision/Uniview 自带 PoE）"
+    "官网 http_error（经营状态待核）；多品牌经销（白牌契合度待核）；未跟进过"
   ],
   "saga_fit": {
-    "p1": "STC-28DGGPM",
-    "tier": 25,
-    "why": "安防项目配套 PoE（可贴 Nexlar 标）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）；24 口 STC-424DGGPM-280W（$140.1）；室外机柜位工业 STI-288GPM（$82.2）"
+    "p1": "STI-110GE",
+    "tier": 20,
+    "why": "MC/工业 MC 多品牌 → 工业千兆 MC STI-110GE（$22.4 @20%）、工业 PoE MC STI-111GP（$27.8）、工业百兆 MC STI-110FE（$19.7）作白牌预算位"
   },
-  "email_hook": "For the PoE switches in your camera and access-control installs, we supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ models (DIN-rail industrial option for gate and yard cabinets; your label available) from single units, FCC/CE/RoHS, EXW USD — which port count do your Houston projects use most?",
+  "email_hook": "Alongside the media-converter brands you carry, we supply neutral-brand industrial gigabit, Fast Ethernet and PoE MCs (−40~75 °C, CE/RoHS) from single units, EXW USD — is there a budget MC position your customers ask for below the branded lines?",
   "mail_review": {
     "binding": {
-      "level": "Elsa 群发 BCC 已触达 2026-09-08「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，US-2 批次 To info@allisontecusa.com，0 回（第 73 批(o) Bcc 头核对 msg 1a081a79b20c7fbc）；S/A 箱：S/A 邮箱均无往来；来源：用户表「很多牌子的 有自己的logo」",
-      "type": "商用安防集成商（美国休斯顿）",
+      "level": "Elsa 群发 BCC 已触达 2025-02-16「Industrial PoE Switch」（稿内无价，第 74 批(p) 已读稿），北欧/中东欧 批次 To info@alphatelecom.cc，0 回（第 74 批 Bcc 头核对 msg 1950e8126b659a15）；S/A 箱：S/A 邮箱均无往来；来源：用户表「MC 工业MC 很多牌子的」",
+      "type": "MC 多品牌经销商（荷兰）",
       "sieve": "—（未入筛）",
-      "stop": "Elsa 群发 BCC 触达过（最近 2026-09-08）无回；S/A 箱从未单独发过",
+      "stop": "从未触达",
       "revive": "首封（具名 KP 优先，用研究档 email_hook）",
-      "lane": "US 主攻（四主）",
+      "lane": "荷兰（欧洲全域主攻）",
       "cadence": "首封后看打开",
-      "evidence": "gmail_digest：out 0；用户表：「很多牌子的 有自己的logo」；研究档 risks：仅 info@，无具名 KP；未跟进过；多品牌采购（Hikvision/Uniview 自带 PoE）；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To info@allisontecusa.com）2025-04-06→2026-09-08 共 8 轮群发（16 Port PoE Managed Switch、8 Port Industrial PoE Switch、Mini Industrial PoE Switch、16 Port Ethernet Switch、48 Port PoE Managed Switch、10G Enterprise SFP Switch、Updated Ethernet Switches Links、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断"
+      "evidence": "gmail_digest：out 0；用户表：「MC 工业MC 很多牌子的」；研究档 risks：官网 http_error（经营状态待核）；多品牌经销（白牌契合度待核）；未跟进过；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To info@dasys.fi）本户见于 2025-02-16 名单；2026-08-13 最新一轮名单已不含此地址 → 中途被剔除（退信 / 退订 / 手工）"
     },
-    "situation": "美国 Nexlar Security（休斯顿商用安防与门禁安装商：摄像机、门禁、周界、工业场所项目，已服务 1000+ 企业；ZKTeco；表内「很多牌子的 有自己的 logo」）；表内未跟进。",
-    "need": "安防项目配套 PoE（可贴 Nexlar 标）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）；24 口 STC-424DGGPM-280W（$140.1）；室外机柜位工业 STI-288GPM（$82.2）",
-    "breakpoint": "仅 info@，无具名 KP；未跟进过；多品牌采购（Hikvision/Uniview 自带 PoE）",
+    "situation": "荷兰 Abigo4u（abigo4u.com：MC 与工业 MC，「很多牌子的」多品牌经销；官网 http_error）；表内未跟进。",
+    "need": "MC/工业 MC 多品牌 → 工业千兆 MC STI-110GE（$22.4 @20%）、工业 PoE MC STI-111GP（$27.8）、工业百兆 MC STI-110FE（$19.7）作白牌预算位",
+    "breakpoint": "官网 http_error（经营状态待核）；多品牌经销（白牌契合度待核）；未跟进过",
     "saga_now": {
-      "p1": "STC-28DGGPM",
-      "tier": 25,
-      "price": "首触锚价 STC-28DGGPM $84.1 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-09-08 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-08；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
-      "why": "安防项目配套 PoE（可贴 Nexlar 标）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）；24 口 STC-424DGGPM-280W（$140.1）；室外机柜位工业 STI-288GPM（$82.2）",
+      "p1": "STI-110GE",
+      "tier": 20,
+      "price": "首触锚价 STI-110GE $26.5 EXW（最近实报 SA-001 2025-11-27 $26.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
+      "why": "MC/工业 MC 多品牌 → 工业千兆 MC STI-110GE（$22.4 @20%）、工业 PoE MC STI-111GP（$27.8）、工业百兆 MC STI-110FE（$19.7）作白牌预算位",
       "repeat": [],
       "gaps": []
     },
     "next_move": {
       "when": "待 Simon 排期（首封）",
-      "channel": "A 邮箱 → info@nexlar.com（无具名 KP；公用地址）",
-      "action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-09-08「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 75 批(b) 2026-10-25：英文信稿已写 `draft_en`）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
-      "one_question": "For the PoE switches in your camera and access-control installs, we supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ models (DIN-rail industrial option for gate and yard cabinets; your label available) from single units, FCC/CE/RoHS, EXW USD — which port count do your Houston projects use most? Reference: STC-28DGGPM at $84.1 USD EXW (MOQ 1, 15-day validity)."
+      "channel": "A 邮箱 → info@abigo4u.com（无具名 KP；公用地址）",
+      "action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2025-02-16「Industrial PoE Switch」），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生。 首封：按 email_hook 一问（第 75 批(i) 2026-10-25：英文信稿已写 `draft_en`）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
+      "one_question": "Alongside the media-converter brands you carry, we supply neutral-brand industrial gigabit, Fast Ethernet and PoE MCs (−40~75 °C, CE/RoHS) from single units, EXW USD — is there a budget MC position your customers ask for below the branded lines? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
     },
     "facts": [
       {
-        "date": "2025-04-06",
+        "date": "2025-02-16",
         "dir": "去",
-        "who": "Elsa 群发（BCC；To info@allisontecusa.com，US-2 批次）",
-        "quote": "16 Port PoE Managed Switch — This is a Marvell-based 16 Port PoE L2+ Managed Switch. 1, 2*1G/2.5G/10G fiber+16*1G RJ45/PoE 2, Support PoE management, alarm output 3, Customizable ",
-        "why": "Elsa 箱群发 BCC 触达证据（命中地址 info@nexlar.com, nexlar.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-        "k": "elsa_bcc"
-      },
-      {
-        "date": "2026-09-08",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To info@allisontecusa.com，US-2 批次）",
-        "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
-        "why": "Elsa 箱群发 BCC 触达证据（命中地址 info@nexlar.com, nexlar.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+        "who": "Elsa 群发（BCC；To info@alphatelecom.cc，北欧/中东欧 批次）",
+        "quote": "Industrial PoE Switch — This is a Marvell based industrial PoE switch for you. Port: 2*Gigabit SFP+4*Gigabit PoE Feature: 120W budget, PoE watchdog, 250-meter poe distance, s",
+        "why": "Elsa 箱群发 BCC 触达证据（命中地址 abigo4u.com, info@abigo4u.com, sales@abigo4u.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
         "k": "elsa_bcc"
       },
       {
         "date": "2026-10-21",
         "dir": "用户表",
         "who": "Simon",
-        "quote": "很多牌子的 有自己的logo",
+        "quote": "MC 工业MC 很多牌子的",
         "why": "表内备注",
         "k": "用户表"
       }
@@ -130,8 +106,8 @@
       "无邮件往来"
     ],
     "draft_en": {
-      "subject": "PoE switches for your Houston camera and access-control installs - 8 or 24 ports, your label possible",
-      "body": "Hello Nexlar team,\n\nOver the past months you had a few product mails from us - most recently \"24 Port PoE Managed Switch\" on 8 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the PoE switches in your camera and access-control installs: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based, FCC/CE/RoHS - model STC-28DGGPM - $84.1 USD EXW (MOQ 1, 15-day validity); 24 x PoE+ (280 W) + 4 x SFP, STC-424DGGPM-280W, $140.1. For gate and yard cabinets there is a DIN-rail industrial version (-40 to 75 C). Nexlar label on the unit is possible from small lots.\n\nOne question: which port count do your Houston projects use most, 8 or 24?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+      "subject": "A budget industrial media-converter position below the branded lines",
+      "body": "Hello Abigo4u team,\n\nLast year you had a product mail from us - \"Industrial PoE Switch\" on 16 February 2025 - and there was no reason to answer a mass mail. This one is specific.\n\nAlongside the media-converter brands you carry, three neutral-brand industrial converters, DIN-rail, -40 to 75 C, CE/RoHS, from single units: Gigabit, 1 x RJ45 + 1 x SFP slot - model STI-110GE - $26.5 USD EXW (MOQ 1, 15-day validity); Gigabit PoE+ (powers the camera or AP on the copper side) - STI-111GP - $27.8; Fast Ethernet - STI-110FE - $19.7. SFP optics we do not supply.\n\nOne question: is there a budget MC position your customers ask for below the branded lines - and which type, gigabit or PoE?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
     },
     "as_of": "2026-10-25"
   }

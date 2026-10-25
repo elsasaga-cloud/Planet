@@ -1,146 +1,164 @@
 {
  "code": "SB-012",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（maxcomcorp.com，快照 2026-10-21）",
- "summary": "Maxcom, Inc.（光纤传输与数字电视设备制造商：光发射/接收、EDFA、编码器、WDM、RF 开关、光保护开关；表内「广州一个牌子 Gxcom 工业 FS 刷了自己的 logo；光路的 MC」；KP Steve Bradley（steve.bradley@，电话 916.705.4441 — 美国加州区号，表内国别「加拿大」待核）、Tom Maguire（Sales Executive））；群发 14 次无回复。",
- "type": "光纤传输设备制造商（Gxcom 工业 FS 贴标，OEM 采购）",
- "size": "",
+ "name_official": "XCAM CZech s.r.o.（Ostrava, Czech Republic）",
+ "website_status": "在线",
+ "summary": "捷克俄斯特拉发的小型安防集成/安装商（2012 年注册），业务：摄像系统安装与维护、报警/门禁、车牌识别道闸、工地延时摄影、光伏电站摄像，使用 AXIS 等品牌；官网提到 LAN 元件。用户表：已在用 E-link 产品，9 次推送无回复；早期 AI 评 30% B。",
+ "type": "安防集成/安装商（小型）",
+ "size": "未见人数（小型 s.r.o.）",
  "brands_seen": [
-  "Gxcom",
-  "光路"
+  "AXIS",
+  "E-link",
+  "X-（自有标）"
  ],
  "evidence": [
   {
-   "kind": "官网快照",
-   "claim": "官网标题：Manufacturer of fiber optic transport equipment and digital TV equipment | Maxcom, Inc.；品类词 电信 / FTTH / ISP 设备 / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
-   "quote": "Maxcom sells fiber optic transport equipment, Fiber Transmitters, Fiber Receivers, EDFA's, Encoders for Video, RF, Digital TV, ASI signals and Cable TV.",
-   "url": "https://www.maxcomcorp.com/",
+   "kind": "官网",
+   "claim": "业务范围",
+   "quote": "Bezpečnostní kamery - instalace a servis, alarmy, kamery pro solární elektrárny a LAN prvky Instalace a návrhy kamerových systémů, servis, jejich údržba … Adresa : Gen Piky 1A, Ostrava 1 … Email: info@xcam.cz Tel: 597 606 080 · IČO 29397839",
+   "url": "https://www.xcam.cz/",
    "date": "2026-10-21"
   },
   {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "广州 一个牌子 Gxcom 工业FS 刷了自己的logo 光路的MC",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
+   "kind": "官网网店",
+   "claim": "自有标工业 PoE 小交换机与价格",
+   "quote": "LAN PoE MiniSwitch 4+1, Industrial, POE booster 12V, X-IMC005GP LAN SWITCH … Kč 1,480.00 … Bezpečnostní kamery - instalace a servis, alarmy, kamery pro solární elektrárny a LAN prvky",
+   "url": "https://www.xcam.cz/",
+   "date": "2023-10-04"
   },
   {
-   "kind": "官网快照",
-   "claim": "Maxcom 定位",
-   "quote": "Manufacturer of fiber optic transport equipment and digital TV equipment | Maxcom, Inc. ; Maxcom sells fiber optic transport equipment, Fiber Transmitters, Fiber Receivers, EDFA’s, Encoders",
-   "url": "https://www.maxcomcorp.com/",
-   "date": "2026-10-21"
+   "kind": "官网网店",
+   "claim": "X-104GP-SFP 规格",
+   "quote": "LAN POE SWITCH X-104GP-SFP, 4+1SFP, Industrial 104GP-SFP Series is a Mini Industrial 4-Port 10/100/1000T 802.3at PoE + 1-Port 100/1000X SFP Gigabit Ethernet Switch with 12~48VDC Input and Voltage Booster … Kč 1,680.00",
+   "url": "https://www.xcam.cz/produkt/kamera/",
+   "date": "2023-05-22"
   },
   {
-   "kind": "用户表",
-   "claim": "Gxcom 工业 FS 刷了自己的 logo；光路 MC",
-   "quote": "广州 一个牌子 Gxcom  工业FS 刷了自己的logo 光路的MC",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "kind": "姊妹站",
+   "claim": "DIN 导轨 PoE 交换机主推",
+   "quote": "Jedinečný PoE switch pro DIN montáž a pasující do standardních rozvaděčů. Ušetří čas instalace a místo pro Vaše kamerové rozvody. V nabídce také standardní PoE switche do racku",
+   "url": "https://www.excam.cz/",
    "date": "2026-10-21"
   }
  ],
- "kp": [
-  {
-   "name": "Steve Bradley",
-   "title": "（表内联系人，电话 916.705.4441）",
-   "email": "steve.bradley@maxcomcorp.com",
-   "phone": "",
-   "source": "用户表"
-  },
-  {
-   "name": "Tom Maguire",
-   "title": "Sales Executive",
-   "email": "",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "grade_override": "B",
+ "override_reason": "小型安装商、9 次推送零回复、无自有品牌；与早期 AI 评估（30% B）一致。B 慢跟。",
+ "notes": "",
+ "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（官网网店自有标核对）"
  },
  "company_facts": {
-  "hq": "加拿大",
-  "other": "官网 maxcomcorp.com，语言 en-US，快照状态 ok；角色判定来源：用户表"
+  "legal_name": "Xcam.cz（含姊妹站 excam.cz）",
+  "other": "捷克摄像系统安装商 + 网店：安防摄像安装/维护、报警与门禁（住宅、写字楼、厂房）、**光伏电站摄像**；网店以 **X- 自有标**销售工业小型 PoE 交换机（X-IMC005GP 4+1 工业迷你 PoE 带 12V 升压 Kč 1,480；X-104GP-SFP 4 PoE + 1 SFP 工业 12~48VDC 升压 Kč 1,680），excam.cz 主推「DIN 导轨 PoE 交换机，装进标准配电箱」"
  },
  "business_lines": [
-  "光纤传输 / 数字电视设备制造（自有品牌 Maxcom）",
-  "工业交换机 / MC（贴标）"
+  "摄像系统安装与维护（含光伏电站）",
+  "报警与门禁",
+  "网店：X- 自有标工业 PoE 小交换机、LAN 配件"
+ ],
+ "products_seen": [
+  {
+   "brand": "X-（自有标）",
+   "model": "X-IMC005GP",
+   "spec": "LAN PoE MiniSwitch 4+1，工业，PoE booster 12V，Kč 1,480",
+   "url": "https://www.xcam.cz/",
+   "date": "2023-10-04",
+   "saga": "STI-144GP（4 PoE + 上联，X- 标 OEM）"
+  },
+  {
+   "brand": "X-（自有标）",
+   "model": "X-104GP-SFP",
+   "spec": "4×GE 802.3at PoE + 1×100/1000X SFP，12~48VDC 宽压升压，非管理，DIN/壁挂，Kč 1,680",
+   "url": "https://www.xcam.cz/produkt/kamera/",
+   "date": "2023-05-22",
+   "saga": "STI-144GP（同口型）"
+  },
+  {
+   "brand": "eXcam",
+   "model": "DIN 导轨 PoE 交换机（型号未列）",
+   "spec": "装入标准配电箱的 DIN PoE 交换机 + 机架 PoE 交换机",
+   "url": "https://www.excam.cz/",
+   "date": "2026-10-21",
+   "saga": "STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理）"
+  }
  ],
  "channels": {
-  "role": "光纤传输设备制造商（Gxcom 工业 FS 贴标，OEM 采购）",
-  "region": "加拿大",
-  "contact": "steve.bradley@maxcomcorp.com、sales@maxcomcorp.com"
+  "网站/网店": "https://www.xcam.cz/ · https://www.excam.cz/"
  },
  "signals": [
-  "官网：Maxcom sells fiber optic transport equipment, Fiber Transmitters, Fiber Receivers, EDFA’s, Encoders … Wave Division Multiplex；页面 /product-details/fiber-optical-protection-switch/；kw fiber 170 / ethernet 47 / media converter 11",
-  "表内：广州 Gxcom 工业 FS 刷了自己的 logo；光路的 MC；KP Steve Bradley / 916.705.4441；Tom Maguire / Sales Executive"
- ],
- "risks": [
-  "现代工 Gxcom（广州）/ 光路 价格基准低",
-  "14 次无回复 → 改向 Steve Bradley 具名首触；国别待核（美国区号 916）"
+  "已成交（用户表）+ 自有 X- 标工业 PoE 小机在售 → 直接的 OEM 续单型客户：STI-144GP 对位其 4+1 主力 SKU，STI-288DGGPM 补其 DIN 8 口管理空缺"
  ],
  "saga_fit": {
-  "p1": "STI-288GPM",
+  "p1": "STI-144GP",
   "tier": 30,
-  "why": "自有标工业 FS（现 Gxcom 广州代工）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ 非管理 STI-288GP 贴 Maxcom 标；MC 位 STI-110GE（$24.3）对位光路 MC"
+  "why": "X- 自有标 OEM：STI-144GP（4 PoE + 1 上联，宽压 DIN）= 其 X-IMC005GP / X-104GP-SFP 同口型；8 口位 STI-288DGGPM；OEM 30% 档"
  },
- "email_hook": "Steve, for the industrial switches and media converters you sell under the Maxcom label next to your fibre transport range, we can be a second ODM source (DIN-rail 8-PoE + 2 SFP managed on Marvell L2+, or unmanaged, gigabit MC) from small lots in your housing, FCC/CE/RoHS — which model do you reorder most?",
+ "email_hook": "For the X-104GP-SFP slot in your shop, the 4-PoE + SFP DIN unit with 12–48 V input can ship in X- packing at $36.9 EXW; shall I send the label template for the next batch?",
  "mail_review": {
   "binding": {
-   "level": "读而不回（A 邮箱 25 封 2025→2026，其中 2 封被打开，0 回；收件 sales@maxcomcorp.com, steve.bradley@maxcomcorp.com；被打开主题「Marvell Industrial Alert System、Managed Optical Bypass Switch」；Elsa 箱：`to:maxcomcorp.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 25 / 来 0）（第 74 批(h)））",
-   "type": "光纤传输设备制造商（Gxcom 工业 FS 贴标，OEM 采购）",
-   "sieve": "2（有人在读，无人回）",
-   "stop": "读而不回 = 内容未命中或没有当下需求",
-   "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
-   "lane": "CA 主攻",
-   "cadence": "一封；回了再说",
-   "evidence": "gmail_digest：out 25，Opened 标签 2（Simon 群发追踪）；用户表：「广州 一个牌子 Gxcom 工业FS 刷了自己的logo 光路的MC」；研究档 risks：现代工 Gxcom（广州）/ 光路 价格基准低"
+   "level": "未触达（A/S 邮箱 19 封 2025→2026，无记录打开，0 回；收件 info@xcam.cz；主题多为「Managed Optical Bypass Switch、Marvell Industrial Alert System」；Elsa 箱：`to:.cz` 穷举 1 条（2026-10-25，锚批 Bcc 头已读）未见 xcam.cz → Elsa 箱从未发过本户，往来只在 S/A 箱（去 19 / 来 0）（第 74 批(f)））",
+   "type": "安防集成/安装商（小型）",
+   "sieve": "1（只收到群发）",
+   "stop": "只打通用邮箱，无记录打开",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "捷克（欧洲全域主攻）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 19"
   },
-  "situation": "Maxcom, Inc.（光纤传输与数字电视设备制造商：光发射/接收、EDFA、编码器、WDM、RF 开关、光保护开关；表内「广州一个牌子 Gxcom 工业 FS 刷了自己的 logo；光路的 MC」；KP Steve Bradley（steve.bradley@，电话 916.705.4441 — 美国加州区号，表内国别「加拿大」待核）、Tom Maguire（Sales Executive））；群发 14 次无回复。",
-  "need": "自有标工业 FS（现 Gxcom 广州代工）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ 非管理 STI-288GP 贴 Maxcom 标；MC 位 STI-110GE（$24.3）对位光路 MC",
-  "breakpoint": "现代工 Gxcom（广州）/ 光路 价格基准低",
+  "situation": "捷克俄斯特拉发的小型安防集成/安装商（2012 年注册），业务：摄像系统安装与维护、报警/门禁、车牌识别道闸、工地延时摄影、光伏电站摄像，使用 AXIS 等品牌；官网提到 LAN 元件。用户表：已在用 E-link 产品，9 次推送无回复；早期 AI 评 30% B。",
+  "need": "X- 自有标 OEM：STI-144GP（4 PoE + 1 上联，宽压 DIN）= 其 X-IMC005GP / X-104GP-SFP 同口型；8 口位 STI-288DGGPM；OEM 30% 档",
+  "breakpoint": "无回复",
   "saga_now": {
-   "p1": "STI-288GPM",
+   "p1": "STI-144GP",
    "tier": 30,
-   "price": "首触锚价 STI-288GPM $85.5 EXW（主表档位（PDF 上限 $88；SA-026 2025-07 实报 $72 为分销量价）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-17 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-02-13 $300（48 Port PoE Managed Switch）、2025-09-24 $280（10G Enterprise SFP Switch）",
-   "why": "自有标工业 FS（现 Gxcom 广州代工）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ 非管理 STI-288GP 贴 Maxcom 标；MC 位 STI-110GE（$24.3）对位光路 MC。已打开的主题（2/25 封有打开记录）：「Managed Optical Bypass Switch」(2025-05-27)、「Marvell Networking Solutions」(2025-10-17) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-03-05)、Product Link_2026Q3(2026-07-02)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）",
+   "price": "锚价：STI-144GP $36.9（OEM 30% 档，第 74 批(r) 2026-10-25 把钩子句 $35.5（25% 档）改齐 30% 档；若其上次 PI 价更低，发前以 PI 为准）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-26 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-04-17 $300（48 Port PoE Managed Switch）、2025-10-08 $280（10G Enterprise SFP Switch）、2026-06-22 $16000（32 Port 400GB DC Switch）",
+   "why": "X- 自有标 OEM：STI-144GP（4 PoE + 1 上联，宽压 DIN）= 其 X-IMC005GP / X-104GP-SFP 同口型；8 口位 STI-288DGGPM；OEM 30% 档",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "2026-11",
-   "channel": "A 邮箱 → steve.bradley@maxcomcorp.com（Steve Bradley；sales@ 与他并发 25 封都没回，这次只发他一人，不抄 sales@）",
-   "action": "短信一问（email_hook）",
-   "one_question": "Steve, for the industrial switches and media converters you sell under the Maxcom label next to your fibre transport range, we can be a second ODM source (DIN-rail 8-PoE + 2 SFP managed on Marvell L2+, or unmanaged, gigabit MC) from small lots in your housing, FCC/CE/RoHS — which model do you reorder most? Reference: STI-288GPM at $85.5 USD EXW (MOQ 1, 15-day validity)."
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
+   "one_question": "For the X-104GP-SFP slot in your shop, the 4-PoE + SFP DIN unit with 12–48 V input can ship in X- packing at $36.9 EXW; shall I send the label template for the next batch?"
   },
   "facts": [
    {
-    "date": "2026-09-04",
+    "date": "2025-01-09",
     "dir": "去",
-    "who": "A 群发",
-    "quote": "Marvell Industrial Alert System、Managed Optical Bypass Switch",
-    "why": "25 封 / 2 次打开 / 0 回｜首封 2025-02-13 → 末封 2026-09-04（25 去 / 0 来）",
+    "who": "S 箱（Simon）",
+    "quote": "Industrial PoE Switch",
+    "why": "首封去信（邮箱索引；去信共 19 封）",
+    "k": "f9c2730704c47a24"
+   },
+   {
+    "date": "2026-08-26",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "24 Port PoE Managed Switch｜稿内价 $170",
+    "why": "去信正文含价（邮箱索引）",
+    "k": "ac6842823b7be828"
+   },
+   {
+    "date": "2026-10-01",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Managed Optical Bypass Switch、Marvell Industrial Alert System",
+    "why": "19 封 / 0 次打开 / 0 回｜首封 2025-01-09 → 末封 2026-10-01（19 去 / 0 来）",
     "k": "gmail_digest"
    },
    {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "广州 一个牌子 Gxcom 工业FS 刷了自己的logo 光路的MC",
-    "why": "表内备注",
-    "k": "用户表"
+    "date": "2026-10-01",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "Managed PoE Switches",
+    "why": "最近一封去信（邮箱索引；去信共 19 封）",
+    "k": "8043fdc32c6bc899"
    }
   ],
   "proof_gaps": [],
-  "draft_en": {
-   "subject": "One question — Marvell Industrial Alert System",
-   "body": "Hi Steve,\n\nWe have sent you a few mails on \"Marvell Industrial Alert System\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor the industrial switches and media converters you sell under the Maxcom label next to your fibre transport range, we can be a second ODM source (DIN-rail 8-PoE + 2 SFP managed on Marvell L2+, or unmanaged, gigabit MC) from small lots in your housing, FCC/CE/RoHS — which model do you reorder most?\n\nReference price: DIN-rail 8-PoE + 2 SFP L2 managed industrial switch, 240 W (STI-288GPM) $85.5 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
-  },
+  "draft_en": null,
   "as_of": "2026-10-24"
  }
 }

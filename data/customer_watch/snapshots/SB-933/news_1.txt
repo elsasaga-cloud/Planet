@@ -1,252 +1,81 @@
-# SB-933 actelis.com · news_1 · https://actelis.com/support/actelis-publications/articles/ · fetched 2026-10-25T07:41:18Z · HTTP 200
-Articles & Blog Posts Archives | Actelis Networks
-Skip to content
-info@actelis.com
-My Actelis
-Log In
-Menu
-My Actelis
-Log In
-Industries
-Intelligent Traffic Systems
-Anticipate & fast reaction to Incidents city-wide
-IoT-enabled Sites & Campuses
-Unlocking connectivity hidden in airport, factory, hospital & campus networks
-Smart Rail
-Transform existing rail communications Infrastructure
-Utilities
-Secure, responsive, energy, oil, gas and water communication networks
-Multi-Dwelling Units
-Instant, Gigabit broadband connectivity without building rewiring
-Smart City
-Secure, business-friendly
-connected cities & communities
-Military
-Oversight, awareness, security, fast response for military facilities
-Providers
-Connectivity For Apartments
-Immediate Gigabit connectivity with no building rewiring
-Business Ethernet Connectivity
-Making Business-Class Ethernet possible to millions of new locations
-Residential Broadband
-High-Speed Internet in previously unreached Single and Multi-dwelling Home Locations
-Backhaul Services
-Integrating Industry, IIoT, City and campus Wi-Fi and Fiber-extension backhaul
+# SB-933 airlive.com · news_1 · https://www.airlive.com/news.php · fetched 2026-10-25T07:41:18Z · HTTP 200
+wifi6 MESH Router|AirLive|Managed Switch|5G|Your best choice of Smart Network Solution - News 鑫志科技
+Open Navigation Search
+AirCloud
 Products
-Product Solutions Overview
-By Type
-Solutions Portfolio Overview
-Ethernet Switches
-All Ethernet Switches
-Fiber Optic Switches
-Power over Ethernet Switches
-10 Gigabit Ethernet Switches
-Layer 3 Network Switches
-View by Port Density
-Cybersecurity
-Security & Encryption
-Broadband Amplifiers
-Repeaters
-Enclosures
-Management
-By Technology
-Fiber
-G.fast
-G.hn
-G.SHDSL
-VDSL2, ADSL2+/ADSL2/ADSL
-Product Listing - GigaLine
-GL800 Multi-Gig Hybrid-Fiber
-GL900 Fiber Extender/Splitter
-GL5010 Gigabit DIN Rail Switch
-GL5020 Gigabit DIN Rail Switch
-GL5030 Gigabit DIN Rail Switch
-GL5060 Gigabit DIN Rail Switch
-GL5070 Gigabit DIN Rail Switch
-GL5080 Gigabit DIN Rail Switch
-GL6010 Gigabit Rackmount Switch
-GL6030 Gigabit Rackmount Switch
-GL6040 Gigabit Rackmount Switch
-GL7000 In-Pole Connectivity Switch
-GL9110C PON Extender G.hn Aggregator
-GL9104C PON Extender G.hn Aggregator
-Product Listing - Other Products
-ADSL Broadband Amplifier
-VDSL Broadband Amplifier
-XR239/PFU-8 Repeaters
-EAD/NTU Enclosures
-Product Listing - Cybersecurity
-MetaShield Asset Intelligence & Threat Detection
-Product Listing - MetaLIGHT
-ML230 Compact Ethernet Aggregator
-ML510D-ML5114D/P Gigabit DIN Rail Switch
-ML540E Gigabit Rackmount Switch
-ML540M Gigabit Rackmount Switch
-ML600 Hybrid Fiber-Copper Series
-ML650SV Gigabit Fiber Switch
-ML680D Gigabit DIN Rail Switch
-ML684D Gigabit Hybrid-Fiber DIN Rail Switch
-ML700 Hybrid Fiber-Copper Rackmount
-ML690E/ES/EN/EL Hybrid Mini Aggregator
-ML2300 Aggregation Switch
-ML2300N Hybrid Mini Aggregator
-Technology
-Broadband Technologies
-Fiber Optics
-G.fast
-G.hn
-G.SHDSL and VDSL2
-Cross Talk
-DSL Analog Amplification and Regeneration
-Enhanced System Level Security
-Triple Shield Security
-Ethernet Networking
-Ethernet in the First Mile (EFM)
-Carrier Ethernet 2.0
-Ethernet OAM
-Cybersecurity
-MetaShield Asset Intelligence & Threat Detection
-Performance Enhancement
-EFM plus
-Symmetrical Vectoring (DRB)
-DSS
-Coordinated Calibration
-Broadband Amplifiers
-Support
-Actelis Publications
-Case Studies
-Articles & Blog Posts
-Resource Library
-My Actelis – Home
-My Actelis – Register
-Technical Documentation
-Training Webinars
-Data Sheets
-Performance Calculators
-Product Downloads
-Service and Support
-Support Contact Details
-Education
-Maintenance Services
-Professional Services
-Company
-About Actelis
-Why we exist and the difference we make for our customers
+AirCloud and Wireless
+Telecom XGPON and Cloud
+Enterprise Campus & Multiport Fiber Switch
+Enterprise L3 Switch
+PoE Switch
+10G Switch(NON POE)
+2.5G Switch(NON POE)
+Gigabit Switch (non PoE)
+Industrial Switch
+Industrial 5G / 4G Gateway
+Network Adapter and Accessories
+AirCam Surveillance Security
+AirCore AI AutoPilot AirSwitch PoE/Non-PoE
+Solutions
+Small Office/Home
+Enterprise
+Data Center
 News
-Actelis new customers, applications and product introductions
-Events
-Come visit Actelis at shows and conferences worldwide
-Leadership
-What Actelis leadership team brings to your organization
-Careers
-Opportunties to make a difference to the future of networking
-Investors
-Join us in enabling cyber hardened solutions for IoT
-Contact Us
-Getting started on how Actelis can help you
-Search
-Close
-Contact Us
-Articles & Blog Posts
-Home >
-Actelis News & Publications >
-Articles & Blog Posts
-Comparative Analysis of G.hn and MoCA 2.5 for Broadband Access Networks
-Evaluating Coaxial Infrastructure Solutions in Multi-Dwelling and Brownfield Environments Published December 7, 2025 Executive Summary The reutilization of existing coaxial infrastructure for gigabit broadband access is increasingly appealing in multi-dwelling…
-Continue Reading Comparative Analysis of G.hn and MoCA 2.5 for Broadband Access Networks
-How Actelis’ Cyber Aware Networking Could Change the Game for IoT Security and Redefine the Future of Connected Systems
-Source: How Actelis’ Cyber Aware Networking Could Change the Game for IoT Security and Redefine the Future of Connected Systems (INFOTECH MAG) Published September 9, 2024 In today’s rapidly digitizing…
-Continue Reading How Actelis’ Cyber Aware Networking Could Change the Game for IoT Security and Redefine the Future of Connected Systems
-The Interplay Of IoT And Critical Infrastructure Security
-Author: David Balaban Source: The Interplay Of IoT And Critical Infrastructure Security (forbes.com) Published July 14, 2024 When it comes to technology, what seemed to be science fiction several decades…
-Continue Reading The Interplay Of IoT And Critical Infrastructure Security
-Connectivity – The Backbone of Safer Roadways
-Published January 4, 2024 The Governers Highway Safety Association (GHSA), in conjunction with State Farm, has released a new report about the efficiency of automated enforcement (AE) in increasing safety…
-Continue Reading Connectivity – The Backbone of Safer Roadways
-Phase Two of Fiber Transformation
-Starts Now
-By Tom Starr and Mark Fishburn
-Featured in Nov/Dec 2022 issue of ISE Magazine. www.isemag.com Reprinted with permission
-Continue Reading Phase Two of Fiber Transformation
-Starts Now
-Five FTTH Myths
-Fiber-to-the-Extension-Point (FTTep) Delivers Gigabit Alternative By Tom Starr Fiber-to-the-Home (FTTH) has become so popular that many policy makers, regulators, and service providers believe that FTTH is the only way to…
-Continue Reading Five FTTH Myths
-A Better Quality of Life with ITS, IoT, Smart Applications Driven by Hybrid Fiber-Copper
-Innovations in Intelligent Traffic Systems (ITS), IoT, and smart applications are challenging existing infrastructure. This article will discuss these challenges and their potential solutions. As rapid urbanization occurs, transportation authorities…
-Continue Reading A Better Quality of Life with ITS, IoT, Smart Applications Driven by Hybrid Fiber-Copper
-1
-2
-3
-Go to the next page
-Industries
-Intelligent Traffic Systems
-Smart Rail
-Smart City
-IoT - Sites & Campuses
-Utilities
-Military
-Providers
-Business Ethernet
-Residential Broadband
-Backhaul Services
-Products & Support
-Products
-Technology
-Support
+Product News
+Press Review and Award
+Event
+EDM
+Marketing
+Banner
+Catalogues & DM
+Product Photo
+Video
+Commercial Video
+Tutorial Video
+Download
+Document
+User Guide
+QIG
+Software
+About Us
 Company
-About Actelis
-News
-Events
-Leadership
-Investors
-Careers
-Contact
-Terms of Use
+Trademark
+Warranty & RMA
 Privacy Policy
+Contact Us
+NEWS
+All
+Product News
+AirCore Platform Updates
+AirCore Windows Updates
+Press Review and Award
+Event
+EDM
+AirCore Windows 2.19.7
+2026/10/19
+AirCore Windows Updates
+2.19.7 ships two real-machine-reproduced fixes, plus the accumulated backlog of VN parity work that was already sitting on the shipping branch.
+Fixed
+- Clip Player could crash silently the first time it ever played a real clip with real detection da
+Social
 Facebook
-Twitter
-Linkedin
 Youtube
-©2025 Actelis Networks®, Inc. All Rights Reserved
-We use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits. By clicking “Accept All”, you consent to the use of ALL the cookies. However, you may visit "Cookie Settings" to provide a controlled consent.
-Cookie Settings Accept All
-Manage consent
-Close
-Privacy Overview
-This website uses cookies to improve your experience while you navigate through the website. Out of these, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may affect your browsing experience.
-Necessary
-Always Enabled
-Necessary cookies are absolutely essential for the website to function properly. These cookies ensure basic functionalities and security features of the website, anonymously.
-Cookie
-Duration
-Description
-cookielawinfo-checkbox-analytics
-11 months
-This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Analytics".
-cookielawinfo-checkbox-functional
-11 months
-The cookie is set by GDPR cookie consent to record the user consent for the cookies in the category "Functional".
-cookielawinfo-checkbox-necessary
-11 months
-This cookie is set by GDPR Cookie Consent plugin. The cookies is used to store the user consent for the cookies in the category "Necessary".
-cookielawinfo-checkbox-others
-11 months
-This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Other.
-cookielawinfo-checkbox-performance
-11 months
-This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Performance".
-viewed_cookie_policy
-11 months
-The cookie is set by the GDPR Cookie Consent plugin and is used to store whether or not user has consented to the use of cookies. It does not store any personal data.
-Functional
-Functional cookies help to perform certain functionalities like sharing the content of the website on social media platforms, collect feedbacks, and other third-party features.
-Performance
-Performance cookies are used to understand and analyze the key performance indexes of the website which helps in delivering a better user experience for the visitors.
-Analytics
-Analytical cookies are used to understand how visitors interact with the website. These cookies help provide information on metrics the number of visitors, bounce rate, traffic source, etc.
-Advertisement
-Advertisement cookies are used to provide visitors with relevant ads and marketing campaigns. These cookies track visitors across websites and collect information to provide customized ads.
-Others
-Other uncategorized cookies are those that are being analyzed and have not been classified into a category as yet.
-SAVE & ACCEPT
+Instagram
+LatAm
+Phone : 886-2-8912-1060
+Mail : info@airlive.com
+Marketing
+Banner
+Catalogues & DM
+Product Photo
+Video
+Commercial Video
+Tutorial Video
+Sitemap
+About Us
+Company
+Warranty & RMA
+Privacy Policy
+Contact Us
+Copyright © 2026 AirLive Technology Corporation. All rights reserved. WebDesign - GRNET
+TOP

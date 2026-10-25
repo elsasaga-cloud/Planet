@@ -1,0 +1,67 @@
+{
+ "code": "SC-083",
+ "name_official": "AddSecure AB / AddSecure Group（Stockholm, SE；addsecure.com）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线",
+ "summary": "瑞典斯德哥尔摩的安全关键通信与 IoT 集团（Smart Alarms / Care / Grids / Rescue / Surveillance / Transport；1,000+ 员工、€200M 营收（2023）、15 国、Castik Capital 2019 年起控股；CEO Stefan Albertsson；AddSecure AB 本体 88 人、4.2 亿 SEK）。展会记录：看了 2 光 8 管理机，对管理界面与告警功能有兴趣、让发资料；联系人 Tomas Norderstål；15 次跟进 0 回复。按规则「规模大」归 C（资料保留）。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网报告",
+   "claim": "集团规模",
+   "quote": "Majority owned by Castik Capital since 2019 … 1,000+ Employees (end of 2023) … €200 M Annual revenue (2023) … 700,000 Managed SIM connections",
+   "url": "https://www.addsecuregroup.com/wp-content/uploads/sites/24/2024/07/2024-Q2-EN_Addsecure_Sustainability-Report-2023.pdf",
+   "date": "2024-07"
+  },
+  {
+   "kind": "登记",
+   "claim": "瑞典本体规模",
+   "quote": "AddSecure AB Org.nr 556527-2001 … Telefonvägen 26, 126 26 Hägersten Omsättning 2025 422 166 Anställda 88 Verkställande direktör Tore Stefan Albertsson",
+   "url": "https://www.allabolag.se/bransch-s%C3%B6k?q=AddSecure+AB",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "展会互动；15 次跟进 0 回复",
+   "quote": "看了2光8管理，对管理功能界面有兴趣，让发资料",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "规模大：集团 1,000+ 员工、年营收 €200M、PE（Castik Capital）控股的欧洲安全通信/IoT 集团，采购走集团供应链——超出 Saga 可赢规模",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（名录核对 → 规模大降 C）"
+ },
+ "company_facts": {
+  "legal_name": "AddSecure AB（org.nr 556527-2001）/ AddSecure Group",
+  "hq": "Telefonvägen 26, 126 26 Hägersten (Stockholm), Sweden（+46 8 685 15 00）",
+  "size": "集团 1,000+ 人、€200M（2023）；AddSecure AB 88 人、4.22 亿 SEK（2025）",
+  "other": "Castik Capital 控股（2019）；70 万 SIM 连接；业务单元 Smart Alarms/Care/Grids/Rescue/Surveillance/Transport"
+ },
+ "business_lines": [
+  "报警传输与安全 IoT 连接（欧洲）",
+  "车队/交通与监控解决方案"
+ ],
+ "channels": {
+  "网站": "https://www.addsecure.com/",
+  "电话": "+46 8 685 15 00"
+ },
+ "signals": [
+  "对管理界面/告警有兴趣——但集团级供应商准入门槛高"
+ ],
+ "risks": [
+  "规模大 → C；仅在对方主动回复时重开"
+ ],
+ "saga_fit": {
+  "p1": "STI-280DGGM",
+  "tier": 25,
+  "why": "（不推进）如重开：STI-280DGGM（DIN 8 GE + 2 SFP 管理，SNMP/告警，$130.8）对应其所看 2 光 8 管理机"
+ },
+ "email_hook": "（不主动发送）"
+}

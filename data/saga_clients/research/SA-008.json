@@ -1,212 +1,776 @@
 {
  "code": "SA-008",
- "name_official": "ООО «РИО-ИМПОРТ»（RIO Group, Krasnoyarsk）",
+ "name_official": "fiberONE（NYNEX satellite OHG, Darmstadt）",
  "website_status": "在线",
- "summary": "俄罗斯克拉斯诺亚尔斯克工业自动化设备供应商，自称本地区最大的 АСУТП（工业控制系统）设备、机柜设备、电子元件供应商之一（2009 年注册 ОГРН 1092468006047）。用户表：成单客户，A 优质俄罗斯名单。（2026-10-24 并入曾用编号 SB-1335：PI 包补录行 rio-popov@mail.ru / Igor Popov，同一公司）",
- "type": "分销商/经销商（工业自动化）",
- "size": "未见人数；地区性大型供应商（自述）",
- "brands_seen": [
-  "Delta Electronics",
-  "Phoenix Contact"
- ],
+ "summary": "德国达姆施塔特的光纤接入运营商品牌（NYNEX satellite OHG 旗下，11–50 人，2015 年起），在法兰克福/莱茵美因地区自建 FTTB/FTTH 网络（10G 对称），为楼宇提供千兆接入；B2B 提供专线、波长、楼宇网络。用户表：兴趣 SFP/MC 周边并要「自己的 logo」（贴牌），1 次实质回复，邮件中有详细联系方式。",
+ "type": "运营商/ISP（终端 + 自有 logo 贴牌需求）",
+ "size": "11–50 人（LinkedIn）",
+ "brands_seen": [],
  "evidence": [
   {
    "kind": "官网",
-   "claim": "自述：克拉斯诺亚尔斯克地区 АСУТП 全系设备最大供应商之一",
-   "quote": "Группа компаний РИО — одна из крупнейших поставщиков в Красноярском регионе полного спектра оборудования для АСУТП, шкафного оборудования электронных компонентов.",
-   "url": "http://www.rio-krsk.ru/",
+   "claim": "法人与品牌关系",
+   "quote": "fiberONE — a brand of NYNEX satellite OHG … Robert-Bosch-Straße 20 64293 Darmstadt … Email: info@fiberone.de",
+   "url": "https://fiberone.de/impressum/en/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网（新闻）",
+   "claim": "规模：数千套住宅接入，最大项目 1,100 套，自建 AON 网络",
+   "quote": "Jüngster Meilenstein: die Wohnstadt Asemwald in Stuttgart, mit über 1.100 Wohnungen das bislang größte Projekt im Netz … 10 Gbit/s symmetrisch",
+   "url": "https://fiberone.de/presse/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "第三方（LinkedIn）",
+   "claim": "11–50 人，2015 年",
+   "quote": "Branche: Telekommunikation · Größe: 11–50 Beschäftigte · Hauptsitz: Darmstadt · Gegründet: 2015",
+   "url": "https://de.linkedin.com/company/nynexfiberone",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "注册/RIPE",
+   "claim": "Frederik Kriewitz = NYNEX satellite OHG 的 RIPE 联系人，地址与电话公开",
+   "quote": "person: Frederik Kriewitz address: NYNEX satellite OHG Robert-Bosch-Str. 20 64293 Darmstadt Germany phone: +49 6151 50074-009 e-mail: f.kriewitz@nynex.de nic-hdl: NX123",
+   "url": "https://ipinfo.io/AS200519/178.17.236.0/23",
    "date": "2026-10-21"
   },
   {
    "kind": "官网",
-   "claim": "法人与注册号",
-   "quote": "Полное наименование: Общество с ограниченной ответственностью «РИО-ИМПОРТ» … ОГРН 1092468006047 · ИНН 2460214069",
-   "url": "https://www.rio-krsk.ru/company/requisites/",
+   "claim": "公司 2000 年创立、运营商 + 集成商、自有 AS62023",
+   "quote": "NYNEX satellite OHG ist ein inhabergeführter Netzbetreiber und Systemintegrator aus Darmstadt, gegründet im Oktober 2000 von Andreas Buxbaum und Gunter Frank … in einem eigenen Netz mit eigenem autonomem System (AS62023)",
+   "url": "https://nynex.de/leistungen.html",
    "date": "2026-10-21"
   },
   {
    "kind": "官网",
-   "claim": "官网目录品牌与产品线（Delta、SUPU、Dinkle、Hongfa；PLC/HMI/变频/电源/连接器）",
-   "quote": "DELTA ELECTRONICS … SUPU ELECTRONICS … DINKLE ENTERPRISE … HONGFA … Преобразователи сигналов · Источники питания · ПЧ · УПП · Панели оператора · ПЛК · ТК · Сервоситемы",
-   "url": "http://www.rio-krsk.ru/",
+   "claim": "2026 年 26 周年并上线 nynex.ai；fiberONE 光纤自 2015 年",
+   "quote": "Chronik der NYNEX satellite OHG, Darmstadt: VSAT-Netze seit 2000, Glasfaser mit fiberONE seit 2015, KI-Infrastruktur mit nynex.ai seit 2026",
+   "url": "https://nynex.de/geschichte.html",
    "date": "2026-10-21"
   },
   {
-   "kind": "官网",
-   "claim": "官网新闻介绍工业 PoE 交换机（Phoenix Contact 1000 系列）",
-   "quote": "Phoenix Contact дополняет свой ассортимент промышленных коммутаторов PoE новыми управляемыми и неуправляемыми коммутаторами … бюджету мощности PoE в 30 Вт на порт и наличию вариантов со стекловолоконными портами SFP",
-   "url": "http://www.rio-krsk.ru/info/news/prochnye-kommutatory-poe/",
-   "date": "2026-10-21"
+   "kind": "公开文件",
+   "claim": "Kriewitz 与 Frank 代表 NYNEX/fiberONE 署名政策意见书（决策层）",
+   "quote": "Mit freundlichen Grüßen aus Darmstadt, Frederik Kriewitz/Gunter Frank NYNEX satellite OHG/fiberONE Darmstadt, 31. August 2025",
+   "url": "https://bmds.bund.de/fileadmin/BMDS/Dokumente/Gesetzesvorhaben/NYNEX_Stellungnahme_Eckpunktepapier_fiberONE_BMDS_31-August-2025.pdf",
+   "date": "2025-08-31"
   },
   {
-   "kind": "官网",
-   "claim": "电话与邮箱公开",
-   "quote": "(391) 291-14-24 rio-import2003@mail.ru",
-   "url": "http://www.rio-krsk.ru/contacts/",
-   "date": "2026-10-21"
+   "kind": "PI",
+   "claim": "成交单据 STSC20241121015（PI，2024-11-21）：STC-4168XGGCM、STC-424XGGM 共 2 台，USD 600.0；采购 SmartByte RMB 2350.0；Simon 成本表利润 RMB 1284.06",
+   "quote": "",
+   "url": "PI.zip:15 德国 Frederik 活跃 Xtransfer 可发展/STSC20241121015.xls",
+   "date": "2024-11-21"
+  },
+  {
+   "kind": "PI",
+   "claim": "成交单据 STSC20250915015（PI，2025-09-15）：STC-4168XGGCM 共 1 台，USD 420.0；采购 SmartByte RMB 1600.0；Simon 成本表利润 RMB 797.77",
+   "quote": "",
+   "url": "PI.zip:15 德国 Frederik 活跃 Xtransfer 可发展/STSC20250915015.xls",
+   "date": "2025-09-15"
+  },
+  {
+   "kind": "PI",
+   "claim": "成交单据 STSC-20260929-001（PI，2026-09-29）：STC-4168XGGCM 共 20 台，USD 6725.0",
+   "quote": "",
+   "url": "PI.zip:15 德国 Frederik 活跃 Xtransfer 可发展/STSC-20260929-001.xlsx",
+   "date": "2026-09-29"
+  },
+  {
+   "kind": "PI",
+   "claim": "成交单据 STSC-20260930-001（PI，2026-09-30）：STC-4168XGGCM 共 20 台，USD 5944.5",
+   "quote": "",
+   "url": "PI.zip:15 德国 Frederik 活跃 Xtransfer 可发展/STSC-20260930-001.xlsx",
+   "date": "2026-09-30"
+  },
+  {
+   "kind": "PI",
+   "claim": "成交单据 STSC20261006015（PI，2026-10-06）：STC-4168XGGCM 共 20 台，USD 5944.5；采购 SmartByte RMB 34000.0；Simon 成本表利润 RMB 5000",
+   "quote": "",
+   "url": "PI.zip:15 德国 Frederik 活跃 Xtransfer 可发展/STSC20261006015.xlsx",
+   "date": "2026-10-06"
+  },
+  {
+   "kind": "PI",
+   "claim": "PI 包文件夹「德国 Frederik 活跃 Xtransfer 可发展」：Simon 标签 活跃，收款 Xtransfer；单号 5 个，2024-11-21 → 2026-10-06，销售 USD 19634.0 / RMB 0，Simon 成本统计利润合计 RMB 7081.83",
+   "quote": "",
+   "url": "PI.zip:15 德国 Frederik 活跃 Xtransfer 可发展",
+   "date": "2026-10-22"
+  },
+  {
+   "kind": "Gmail 往来（S 邮箱）",
+   "claim": "合规审查：NYNEX 测试 LT-S8328XG 时发现 SmartByte 通用 MIB 内含 3 家其他 OEM 客户/品牌的企业 OID（.57430 Dongguan Huarong、.56813 Fuzhou Dockeer、.171 D-Link），要求说明 Saga 与 SmartByte 关系以报备合规部门；SmartByte 承认「忘了删其他 OEM 客户的 OID」，并提出按客户自有 OID 定制固件；NYNEX 自有 IANA PEN 44770，但要求 SmartByte 先申请自己的 PEN 并把私有 OID 迁到自己的树下，还追问 OEM 数据（产品 ID / PEN 前缀 / logo）是写死在固件还是独立 OEM 配置分区",
+   "quote": "The MIB enterprise IDs (.1.3.6.1.4.1.57430.* and .1.3.6.1.4.1.56813.* and .1.3.6.1.4.1.171.*) are registered to two other companies … How is smart bytes/saga telecom related to these companies? … Can you please request your own SmartByte SNMP enterprise OID at https://www.iana.org/assignments/enterprise-numbers/ … Is the OEM data like the product ID, SNMP PEN prefix, company logo, etc. hardcoded in the firmware (separate firmware file for each OEM)?",
+   "url": "data/gmail_s/messages/2025/2025-03.jsonl（主题 RE: Testing Feedback，f.kriewitz@nynex.de ↔ peter@smartbyte.com.cn，抄 S 邮箱）",
+   "date": "2025-03-27"
+  },
+  {
+   "kind": "S 邮箱原文",
+   "claim": "2026-09-29 NYNEX 询价 20 × STC-4168XGGCM（双 AC 电源，同上次订单）含运到德国；Simon 当日答材料涨价（PCB / RAM）、汇率 6.71、可 EUR 结算",
+   "quote": "can you please share a quote for 20 x STC-4168XGGCM switches (dual AC PSUs, same as last order) including shipping to Germany.",
+   "url": "（S 邮箱 key afced0c9af361141，2026-09-29T13:36Z；回信 key 38d19aa9fadaae82）",
+   "date": "2026-10-22"
+  },
+  {
+   "kind": "S 邮箱原文",
+   "claim": "2026-09-30 Simon 报最终价：2,015 RMB/台 = 300 USD（1:6.71）= 265.2 EUR（1:7.6）；交期 3 周 / 15 个工作日（下单后起算）；客户称因涨价需再找 3 家比价",
+   "quote": "Best offer is 2015RMB/PC USD offer: 300USD/PC … EUR offer: 265.2EUR/PC … Production time: 3 weeks, it is 15 working days. AFTER the order is confirmed!",
+   "url": "（S 邮箱 key 074a700ad4b10bf7，2026-09-30T05:50Z）",
+   "date": "2026-10-22"
+  },
+  {
+   "kind": "S 邮箱原文",
+   "claim": "2026-10-06 NYNEX 要欧元账户 → Simon 发 invoice + 银行确认（同一账户收 USD / EUR）；2026-10-15 NYNEX 付款并要求成品用 SmartByte 原始产品名 / ID 与 SmartByte SNMP 厂商 OID；Simon 同意「let's do SmartByte information」；2026-10-17 确认收款、投产",
+   "quote": "payment has been made (see attachment). One additional note: We would pfeffere to have them with original SmartByte product names/IDs. Please make sure that the SmartByte and SNMP vendor OIDs are used.",
+   "url": "（S 邮箱 key 60ac95de9259a792 / 81f8fe275f461480 / 95b7153bc20857f6，2026-10-15～17）",
+   "date": "2026-10-22"
+  },
+  {
+   "kind": "GitHub 公开仓库",
+   "claim": "Frederik Kriewitz 本人是 LibreNMS 贡献者：PR #18681「Add support for SmartByte OS」2026-01-11 合并，sysObjectID .1.3.6.1.4.1.56166，测试夹具用 Saga 的 STC-4168XGGCM V1.1（序列号 202509160001 = 2025-09 那单）→ NYNEX 用 LibreNMS 纳管 Saga 交换机，并替 Saga/SmartByte 做了上游适配；其 2026-10-15「必须用 SmartByte OID」的技术原因即在此",
+   "quote": "@copyright 2025 Frederik Kriewitz / @author Frederik Kriewitz <frederik@kriewitz.eu> … sysDescr: Product STC-4168XGGCM V1.1 Version hotfix/7.4.7 (r1540 af525c9)",
+   "url": "https://github.com/librenms/librenms/pull/18681 ；LibreNMS/OS/Smartbyte.php；tests/data/smartbyte_stc-4168xggcm.json",
+   "date": "2026-10-22"
+  },
+  {
+   "kind": "GitHub 公开仓库",
+   "claim": "Kriewitz 还向 Oxidized（开源配置备份）提交了 smartbyte 模型（2026-01-23 合并，测试数据同为 STC-4168XGGCM 7.4.7）→ NYNEX 用 LibreNMS + Oxidized 两套工具把 Saga 交换机当长期在网设备运维",
+   "quote": "smartbyte: new model for SmartByte switches — Frderik Kriewitz, 2026-01-23；spec/model/data/smartbyte#STC-4168XGGCM_7.4.7#output.txt",
+   "url": "https://github.com/ytti/oxidized/blob/master/lib/oxidized/model/smartbyte.rb",
+   "date": "2026-10-22"
+  },
+  {
+   "kind": "S 邮箱原文 + GitHub 对齐",
+   "claim": "LibreNMS 支持的来龙去脉：2025-02-11 测试反馈（无 PSU/风扇/温度监控、SNMP 基础、缺 LLDP-V2-MIB/DDM，选 BDCOM S2900）→ 2025-12-10 指出固件企业号=0、旧固件为 57430（Fuzhou Dockeer）→ 2025-12-17 Simon 发修复固件 hotfix/7.4.7 r1540（OID=56166）→ 12-18 确认生效 → 12-19 Frederik 开 LibreNMS PR #18681（2026-01-11 合并，26.1.0 发布）。show version 显示 System MAC fc:cd:2f:d0:4f:db（SmartByte MA-M 块内）、PID STC-4168XGGCM V1.1、SN 202509160001",
+   "quote": "Vendor OID is still 0 … System MAC Address: fc:cd:2f:d0:4f:db PID: STC-4168XGGCM, Hardware Version: V1.1, Serial Number: 202509160001 … Thank you, with this data update the OID was updated, working as expected now.",
+   "url": "data/gmail_s/messages/2025/2025-12.jsonl（f.kriewitz@nynex.de 2025-12-10 / 12-17 / 12-18）+ https://github.com/librenms/librenms/pull/18681",
+   "date": "2026-10-22"
+  },
+  {
+   "kind": "S 邮箱原文（三方线程）",
+   "claim": "Peter（SmartByte）2025-03-26 书面向 NYNEX 说明关系：SmartByte 是 OEM/ODM 工厂，Saga 是其欧洲市场的代表伙伴，今后要买 SmartByte 产品「contact Simon directly」；Frederik 2025-03-25 称要向 compliance department 报备；2025-03-27 NYNEX 自有 PEN 44770 但选择用 SmartByte PEN 并要求用 SmartByte 标准型号",
+   "quote": "Saga Telecom is our partner who represent SmartByte to promote SmartByte's products all over the Europe market. If you are interests in SmartByte's products in future, you can contact Simon directly.",
+   "url": "data/gmail_s/messages/2025/2025-03.jsonl（peter@smartbyte.com.cn 2025-03-26；f.kriewitz@nynex.de 2025-03-25/27）",
+   "date": "2025-03-26"
+  },
+  {
+   "kind": "微信 OCR（Simon↔Peter 2024-11-15）",
+   "claim": "NYNEX 首次询问时自述有 SONiC 移植经验（Broadcom），问 Marvell 芯片/CPU/内存与软件是否自研；Peter 答平台 Marvell 98DX336S / Flash 512M / DRAM 512M / ARM v7 800M、软件自研；100G 为 Aldrin2/Falcon 但系他客户 NDA 定制不卖；双 AC 样品机壳 +200 RMB",
+   "quote": "We've some experience with porting the open source SONiC network operation system to Broadcom devices. As there's some basic marvel support it might be easy to add support for your hardware.",
+   "url": "data/wechat_smartbyte_ocr/Weixin Image_2026-10-20_140337_791.txt",
+   "date": "2024-11-15"
+  },
+  {
+   "kind": "Simon 口述",
+   "claim": "绑定等级：较深绑定——客户把 SmartByte/Saga 设备写进了自己的运维工具链（freddy36 向 LibreNMS / Oxidized 提交 SmartByte 支持），切换成本高",
+   "quote": "尤其是德国那个 我让你爬了它的github 它提交了很多信息 这就是比较深一些的绑定了。客户很难换或者换了成本极高 这就是较深绑定",
+   "url": "docs/requirements/对话全记录.md § T29-U28",
+   "date": "2026-10-23"
+  },
+  {
+   "kind": "Simon 文档",
+   "claim": "绑定等级（文档当时）：轻度绑定——「SmartByte 也背书了」；2026-10-23 Simon 口述升为较深（GitHub 提交 LibreNMS/Oxidized 支持）",
+   "quote": "德国 Frederik　轻度绑定 = Smartbyte也背书了",
+   "url": "Extra Info.zip 根目录《客户绑定情况分析.docx》（data/extra_info_2026-10/text/Extra_Info__客户绑定情况分析.docx__6d196b92.json）",
+   "date": "2026-10-22"
   }
  ],
- "kp": [
-  {
-   "name": "—",
-   "role": "中央办公室",
-   "email": "rio-import2003@mail.ru",
-   "phone": "+7 (391) 291-14-24",
-   "source": "http://www.rio-krsk.ru/contacts/"
-  }
- ],
- "notes": "A 级确认：工业自动化分销 + 成单；主推 STI 工业 DIN L2+ 系列（俄语区付款/物流由用户侧按现有通道）。",
- "researched_at": "2026-10-21",
+ "notes": "A 维持：运营商持续采购楼宇接入交换机（48 口/L2+/2.5G 上联）与贴牌 MC/SFP；P1 改 STC-448XGGPM 或 STC-424XGGPM-280W（10G 上联）。\n【2026-10-22 复盘补】NYNEX 2025-03 的 SNMP/MIB 合规追问是「工程型缓冲层」的真实考题：欧洲客户会用 snmpwalk 核 OID 归属。Saga 应自己申请一个 IANA PEN（免费、在线表单、约 1–2 周）并要求 SmartByte 在 Saga 版固件里只保留 Saga PEN 下的私有 MIB；给 NYNEX/德国客户的 OEM 说明要能回答「OEM 数据是固件内写死还是独立配置分区」。对应 Q-35。 ｜ 针对性加厚 2026-10-22（S 邮箱 2026-09/10 第 6 单，T29-U13 ②） ｜ 【Simon 2026-10-22 口径】NYNEX 由 Peter 技术跟进、只能在 Saga 下单；宣传 SmartByte 品牌是合作约定 → 之前「Saga 自申 PEN」建议作废。维护计划见 docs/成单客户_NYNEX_维护计划_2026-10-22.md ｜ 【2026-10-22T15:48Z】GitHub 监控上线（宪法第九条）：scripts/github_watch/watch.py，每轮必跑，变化见 data/github_watch/变化日志.md",
+ "researched_at": "2026-10-22",
  "deep": {
   "done_at": "2026-10-21",
   "level": "深挖 v1"
  },
  "company_facts": {
-  "legal_name": "ООО «РИО-ИМПОРТ»（RIO Group）",
-  "founded": "2009（ОГРН 1092468006047）",
-  "hq": "Krasnoyarsk, Russia",
-  "other": "自述克拉斯诺亚尔斯克地区最大的 АСУТП/机柜/电子元件供应商之一；官网目录品牌：Delta Electronics、SUPU、Dinkle、Hongfa、UPUN、Optimus Drive、WAIN"
+  "legal_name": "NYNEX satellite OHG（品牌 fiberONE）",
+  "founded": "2000-10（Andreas Buxbaum 与 Gunter Frank 创立）；fiberONE 光纤业务 2015 年起",
+  "hq": "Robert-Bosch-Str. 20, 64293 Darmstadt, Germany",
+  "staff": "11–50（LinkedIn）",
+  "registry": "RIPE：AS62023（NYNEX），IP 段 NYNEX-fiberONE；联系人句柄 NX123 = Frederik Kriewitz",
+  "ownership": "自有网络运营商 + 系统集成商（VSAT、光纤、IP 中转）；2026 年新增 nynex.ai 自建 AI 基础设施",
+  "other": "2025-08-31 以 NYNEX/fiberONE 名义向德国联邦数字部提交 TKG 修法意见书（Kriewitz/Frank 署名）"
  },
  "business_lines": [
-  "工业自动化元件分销（PLC、HMI、变频器、软启、伺服、温控、电源）",
-  "工业连接器（M8/M12/M17/M23/M40）与端子",
-  "信号转换器、继电器",
-  "工业 PoE 交换机（官网新闻介绍 Phoenix Contact PoE 1000 系列）"
+  "VSAT 卫星网络（Ku/Ka）",
+  "fiberONE：法兰克福/莱茵美因 FTTB/FTTH 自建网，楼宇千兆/10G 对称接入",
+  "B2B 专线、波长、楼宇网络",
+  "IP 中转/自有 AS",
+  "nynex.ai（2026 起）"
  ],
  "products_seen": [
   {
-   "brand": "Phoenix Contact（官网新闻介绍）",
-   "model": "工业 PoE 1000 系列（非管理/管理）",
-   "spec": "全千兆、宽温、30W/口、SFP 变体；面向视频监控与楼宇/机器自动化",
-   "url": "http://www.rio-krsk.ru/info/news/prochnye-kommutatory-poe/",
-   "date": "2026-10-21",
-   "saga": "STI-288DGGPM"
-  },
-  {
-   "brand": "Delta Electronics",
-   "model": "工业电源（DIN）",
-   "spec": "官网目录 Источники питания",
-   "url": "http://www.rio-krsk.ru/",
-   "date": "2026-10-21",
-   "saga": "—（配套）"
+   "brand": "fiberONE（自有 logo 需求）",
+   "model": "楼宇接入侧 SFP / MC / 接入交换机",
+   "spec": "用户表：兴趣 SFP、MC 及周边并要「自己的 logo」；FTTB 楼宇侧需要带 SFP 上联的小口数 PoE/非 PoE 接入机",
+   "url": "https://fiberone.de/",
+   "date": "用户表 + 2026-10-21",
+   "saga": "STC-28DGGPM"
   }
  ],
  "channels": {
-  "网站": "http://www.rio-krsk.ru/",
-  "电话": "(391) 291-14-24（官网）",
-  "直邮": "rio-import2003@mail.ru（官网）/ rio-2003@mail.ru / rio-pavel@mail.ru（用户表）",
-  "联系人": "Igor（成单，用户表）"
+  "直邮": "f.kriewitz@nynex.de（RIPE 公开，成单联系人）/ m.kopp@nynex.de / s.valaei@nynex.de（用户表）",
+  "电话": "+49 6151 50074-009（RIPE 公开）",
+  "网站": "https://fiberone.de/ · https://nynex.de/",
+  "LinkedIn": "https://de.linkedin.com/company/nynexfiberone"
  },
  "signals": [
-  "官网目录以 Delta/SUPU/Dinkle 等中国台湾/大陆品牌为主——已习惯采购亚洲品牌（2026-10-21）",
-  "用户表：成单客户"
+  "2025-08-31：Kriewitz/Frank 署名提交 TKG 修法意见书——Kriewitz 为公司决策层之一（https://bmds.bund.de/…/NYNEX_Stellungnahme_Eckpunktepapier_fiberONE_BMDS_31-August-2025.pdf）",
+  "2026-10：公司 26 周年，上线 nynex.ai 自建 AI 基础设施，品牌族 nynex.de/fiberONE/nynex.ai 完整（https://nynex.de/geschichte.html）",
+  "用户表：已成单（Frederik Kriewitz），要自有 logo",
+  "2026-01-11：Frederik Kriewitz 向 LibreNMS 提交并合并 SmartByte OS 支持（PR #18681），测试机为 Saga STC-4168XGGCM —— 客户在为供应商做上游生态适配，是深度绑定信号；跟进时可致谢并提供 MIB 更新 / 新机型 snmprec",
+  "2026-10-22 GitHub 全量盘点（data/github_watch/）：freddy36 共 89 个 PR / 17 个 issue；网管相关 PR 揭示 NYNEX 在用/测过的设备：BDCOM（2024-04→2026-01，含 FS 贴牌 BDCOM）、FS 贴牌 Centec（LibreNMS #16175 2024-07）、Centec CNOS（Oxidized #2023 2020-01、#3892「CNOS: improve support」2026-08-19 合并 2026-09-22 → 2026 年仍在部署 Centec 设备）、Fiberstore S3900（2019/2024）、Edge-Core EdgeCOS（2019→2026-01）、GCOM BNPS（2017）、Mellanox（2020）、NUT/APC UPS、Checkmk（自有仓库 check_mk_extensions ★12）。SmartByte 相关：LibreNMS #18681（2025-12-19→2026-01-11）、#18856 fix opticalVoltage（2026-01-23）、Oxidized #3734（2026-01-23→02-13）。",
+  "2026-10-22：他在 LibreNMS #18955（FS S3410 = FS 贴牌 Ruijie，2026-01-30→02-24）里以审阅者身份指导别人 → 他是 LibreNMS 社区里 FS.com（Fiberstore）贴牌设备的权威；NYNEX 大量采购 FS.com（欧洲仓、现货）—— 2026-01「230 台因交期给了现有供应商」的现有供应商很可能就是 FS.com 系。",
+  "2026-10-22：GitHub star/following 画像：2024-09 star krusic22/SFP-Transceiver-Flashing（改写 SFP EEPROM/厂商锁 → 他们自己刷光模块兼容码，Saga 供 SFP 时要给可编码/不锁码的）；2026-03 star denog/denog-wg-access（DENOG 德国运营商社区成员）；star rtbrick/bngblaster、inex/IXP-Manager、snabb、trex；following bisdn（白盒 NOS 厂商）。近 90 天公开事件仅 1 条（2026-09-22 Oxidized PR 合并）。",
+  "Simon 2026-10-22（T29-U16）决定：CENTEC 线自己想办法；备货与 Peter 私下谈；7.5 固件出货前确认；备件 OK；授权书不主动提（客户提再说）；「欧洲代理」只是说辞，Saga 体量不是总代。"
  ],
  "risks": [
-  "俄罗斯：结算（T/T 受限）、物流、制裁合规——只做民用工业自动化，不碰军工/铁路",
-  "俄语区非主攻，不额外投入"
+  "运营商自建网 → 对设备稳定性与固件（VLAN/QinQ/IGMP）要求高，需提供管理型固件说明",
+  "自有 logo = OEM 30% 档，但 ISP 采购对价格敏感，首单可按 25% 项目档试探",
+  "【2026-10-22 第二遍复盘 F11】第 6 单（20 × STC-4168XGGCM，2026-10-15 付款、10-17 投产）成交单价 2,015 RMB/台，**低于《价格主表》该型号 SmartByte 未税 CNY 2,100**（即三档公式的基数）；PI 包 5 单合计利润 7,081 RMB / USD 19,634 ≈ 5% —— 与「+20/25/30%」规则冲突，两者都保留：要么 SmartByte 对 Saga 的实际进价低于 2024-05 价目表，要么 Saga 对老客让利到贴本。客户最终选择 SmartByte 原名 + SmartByte OID（放弃 Saga 贴牌），对「Saga 品牌」定位是一个真实反馈。"
  ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
-  "tier": 20,
-  "why": "自动化柜内 DIN 导轨 PoE（替代其介绍的 Phoenix Contact 1000 系列位）：STI-288DGGPM / STI-144GP，分销 20% 档；配 Delta 电源无需 Saga 供电源"
+  "p1": "STC-28DGGPM",
+  "tier": 30,
+  "why": "FTTB 楼宇接入：8 口千兆 + 2 SFP 管理型（可贴 fiberONE logo）是楼层/地下室接入的标准位；配 STI-110GE 千兆 MC 作单户光电转换；SFP 由 Saga 配套供货"
  },
- "email_hook": "For the DIN-rail PoE slot you cover with the Phoenix Contact 1000 series, the 8-port gigabit managed unit at distributor EXW is the one Igor's last order came from, so I am refreshing that price plus the 4+1 compact version.",
+ "email_hook": "For the FTTB building side the 8-port gigabit unit with two SFP uplinks is the one we already ship under customer logos, so I am quoting it in fiberONE neutral packing together with the gigabit media converter you took before.",
+ "kp": [
+  {
+   "name": "Frederik Kriewitz",
+   "role": "Systems Engineer / 网络负责人（RIPE 联系人、政策文件署名人；成单联系人）",
+   "email": "f.kriewitz@nynex.de",
+   "phone": "+49 6151 50074-009",
+   "source": "https://ipinfo.io/AS200519/178.17.236.0/23 + 用户表"
+  },
+  {
+   "name": "Gunter Frank",
+   "role": "创始人/合伙人（1999/2000 创立）",
+   "email": "",
+   "phone": "",
+   "source": "https://nynex.de/company/"
+  }
+ ],
+ "deal_pi": {
+  "folder": "15 德国 Frederik 活跃 Xtransfer 可发展",
+  "simon_label": "活跃",
+  "pay": "Xtransfer",
+  "bind": "",
+  "buyer": "NYNEX satellite OHG",
+  "orders": 5,
+  "first": "2024-11-21",
+  "last": "2026-10-06",
+  "usd": 19634.0,
+  "rmb": 0.0,
+  "profit_rmb": 7081.83,
+  "models": "STC-4168XGGCM、STC-424XGGM",
+  "mail_update_2026-10-22": "第 6 单：20 × STC-4168XGGCM @2,015 RMB（$300 / €265.2），EUR 付款 2026-10-15，投产 2026-10-17，客户要求 SmartByte 原名与 OID"
+ },
+ "grade_override": "A",
+ "override_reason": "PI 包成单客户，Simon 标签 活跃 → A",
+ "next_steps": [
+  "本单闭环：固件版本/OID 56166/SmartByte 型号字符串确认 → SN+MAC 清单 → 测试报告 → 尺寸重量 → 追踪号 → 到货后问 LibreNMS 识别",
+  "补 CENTEC 报价欠账（2026-01-20 他要的 datasheets + pricing）",
+  "专属备货协议（dual-AC 常备 N 台 + 价格锁 6 个月）",
+  "7.5 固件 MIB 包 + LLDP-V2-MIB 状态 + snmprec",
+  "备件：PSU / 风扇模块",
+  "让 Peter 出盖章授权函（compliance）"
+ ],
+ "binding_level": "较深",
+ "binding_src": "Simon 口述 2026-10-23（T29-U28）",
  "mail_review": {
   "binding": {
-   "level": "轻度绑定（1 张样品单 2024-05-23：STI-050GE ×2 $24 + STI-080GE ×2 $31 = $110；PI 包标「gg」= 难复购；邮件 0 往来；Elsa 箱：`to:rio-krsk.ru` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(l)））",
-   "type": "克拉斯诺亚尔斯克工业自动化分销（РИО-ИМПОРТ，Igor Popov）——俄罗斯非主攻，收款路径特殊",
-   "sieve": "5（付样付款）",
-   "stop": "样品后 17 个月无下文（PI 包「gg」）",
-   "revive": "其对 STI-050GE/080GE 的复测结果；RU 收款通道",
-   "lane": "RU",
-   "cadence": "半年一句话（WhatsApp/邮件由 Simon 定）",
-   "evidence": "PI STSC20240523008（2024-05-23，Quotation.xls：STI-050GE 2×24、STI-080GE 2×31，Sample Testing）；出货照片 STI-050GE/080GE；成本统计 / 货款支付记录 / 运费 在 PI 包；曾用编号 SB-1335（rio-popov@mail.ru）2026-10-24 并入"
+   "level": "较深（6 单复购 + LibreNMS 提交 SmartByte OID + 客户系统依赖 MIB/固件 + 坚持 SmartByte 原名；Elsa 箱：`to:.de` 穷举 29 条（2026-10-25，锚批 Bcc 头已读）未见 fiberone.de / nynex.de → Elsa 箱从未发过本户，往来只在 S/A 箱（去 59 / 来 45）（第 74 批(f)））",
+   "type": "德国 ISP/FTTH 运营商 NYNEX satellite OHG（fiberONE）（技术流，工程师 Frederik Kriewitz 直接对接）",
+   "sieve": "3（多次 PI/T/T、EUR 付款、固件/MIB 迭代、工程反馈）",
+   "stop": "无明显停点；但两次更大机会流失：230 台项目（2026-01-20「we used our existing supply because you initially quoted a long lead time」）与 1,000+2,000/年 低成本 2×10G+4×2.5G 媒体转换器（2025-10-21，Marvell 无合适芯片替代 RTL8373）",
+   "revive": "已在复购中（2026-10-15 第 6 单 20×STC-4168XGGCM EUR 付款、10-17 投产）；下一级 = 交期承诺 + 媒体转换器方案（Realtek 线可否？）",
+   "lane": "DE 已通（USD/EUR T/T 到同一账户、DHL；Peter 直接处理技术）",
+   "cadence": "最后 2026-10-17 Simon「got the payment and are producing」；实质往来 2024 → 2026-10 持续；S 邮箱 45 来 / A 邮箱无",
+   "evidence": "S 邮箱 k=c921dc47fd9370bb / 8f79a607c3cc831e / 3c32c9ad46e6235d / 61065505a331e5fd / c24584352bd15931 / 60ac95de9259a792；第 19 批回补来信原文 8 条（gmail_s/gmail_a）"
   },
-  "situation": "2024-05 买了两款最小的工业非管理样机（5 口/8 口），之后无邮件、无复购；Simon 在 PI 包里标了「gg」。",
-  "need": "工业 DIN 非管理小口数（自动化分销）。",
-  "breakpoint": "样品后无反馈；俄罗斯付款/物流摩擦。",
+  "situation": "NYNEX（Frederik Kriewitz）是全库唯一「较深」绑定：2025-03 测试反馈即要求 SmartByte 申请 IANA PEN 并把私有 OID 挂到自己树下（后以 SmartByte PEN 56166 落地，LibreNMS 26.1 按 sysObjectID 识别「SmartByte」）；2025-09 为 230 台项目问 AC5 新机（风扇/双电源监控）→ 样机 1 台 → 11–12 月 MIB/固件三轮迭代到「working as expected」；2026-01-20 告知 230 台因 Saga 最初交期长而用了现有供应；2026-09-29 第 6 单 20×STC-4168XGGCM（双 AC，同上单），要 EUR 付款、因涨价需另取 3 家比价，10-15 付款并坚持 **SmartByte 原名 + SNMP 厂商 OID**，10-17 投产。",
+  "need": "① 1G SFP 下联 + 10G 上联接入机（STC-4168XGGCM 双 AC）——持续；② 风扇/双 PSU 状态、温度、CPU/内存全部可 SNMP 读（ENTITY-SENSOR-MIB 标准化建议）；③ **低成本 2×10G + 4×2.5G 轻管理媒体转换器/ONT，首单 1,000、之后 2,000/年**（FTTH 1G→10G 升级，老路由器只支持 1G）；④ 交期短（230 台项目因交期丢）。",
+  "breakpoint": "无停点；真正的瓶颈是**交期与价格基数**（2026-09-29「Due to the price increase I'll have to get 3 more comparison quotes」）以及 Saga 没有接住媒体转换器那条 1,000+2,000/年 的线（Marvell 无对应芯片；Realtek RTL8373 正是他点名的方案——这是 HRUI 线可能的切入点，但要 Simon 判断是否违背「Marvell 口号筛子」）。",
   "saga_now": {
-   "p1": "STI-050GE / STI-080GE（已测）→ STI-288DGGPM 管理型",
-   "tier": 20,
-   "price": "按现价表",
-   "why": "样品在其手上｜毛利复盘：一单 45.1%——高毛利一单客，不主动降价",
+   "p1": "STC-4168XGGCM（在产第 6 单）",
+   "tier": 30,
+   "price": "他见过的实报：2024-11-15 双电源版 STC-424XGGM $300 / 448XGGM $500 / 4168XGGCM $400 / 448XGGMO $660（含双 AC 物料与模具费）；2024-12-12 STC-110XGE $75 / $70@100 / $65@500；第 6 单 20 台 @2,015 RMB 基数（S 邮箱 2026-09/10）；下一单报价按 SmartByte 当期价 ×1.3 ÷ 汇率快照——OEM 品牌商档（他们以 fiberONE 名义部署）；历史报价（邮件原话，老汇率）：2024-11-21 265usd / 35usd；2024-11-20 230usd；2024-11-19 300usd / 260usd；2025-09-15 265usd；**价表版本**：STC-4168XGGCM：群发 2025-09→2026-05 是 $280（1,696 封），NYNEX 2026-09/10 实付 $300 → $265.2（20 台量价）；2026-06-22 PDF 的 $413 从未发出，复购价以最近 PI 为准（口径 #20）",
+   "why": "唯一较深绑定客户，每一单都在加深（OID/MIB/固件进入他们的 LibreNMS/Oxidized 运维体系）；价值 = 长期现金流 + 工程背书 最近一封去信 2026-10-17「收到款、在生产」——下一封 = 发货通知 + SmartByte 名称/OID 资料，不是推销｜已发资料（勿重发）：SWITCH-MIBS-release-7.3.0(2025-03-25)、NMS-MIB(2025-03-25)、Saga Software Function List_7.3, 7.4, (2025-06-23)、Product Link_2026Q2(2026-02-03)、Technical Sales White Paper(2026-04-30)、Saga Feature List_7.5.x_L2+(2026-06-22)、JPMorgan Chase Bank N.A., Hong Kong Br(2026-10-06)；已发单据：PL_STSC-20260929-001(2026-09-29)、STSC-20260929-001(2026-09-29)、STSC-20260930-001(2026-09-30)、STSC20261006015(2026-10-06)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）｜对外统一口径（#4）：2024-11-15「completely self-developed」与 2026-02-03「CENTEC chips & SDK, software handled by our team」都已说出口，NYNEX 合规部门 2025-03 追问后由 Peter 解释过——不主动翻案，新材料一律用「Engineering-led trade & customization」；涨价说明统一「PCB/RAM + 汇率，AC5 约 +$15」｜毛利复盘：三单 29.6% → 26.9% → 11.4%（2026-10 20 台，成本 1,700 + 运费 5,000，收款 44,000）——绑定价极限；下一单报价回到 6.69 汇率 + 运费实报",
    "repeat": [
-    "2024-05-23 唯一一单：STI-050GE + STI-080GE $1,140（Simon 利润 RMB 514；PI 复盘 #8，Simon 标 gg）"
+    "STC-4168XGGCM 双 AC（第 5、6 单）",
+    "2025-09 AC5 样机 1 台"
    ],
    "gaps": [
-    "样品测试反馈从未记录"
+    "媒体转换器 2×10G+4×2.5G：Marvell 无合适低成本芯片，Realtek RTL8373 方案是否走 HRUI 线——Simon 决定（不违背 U29：价在 `价格主表_HRUI.csv`）",
+    "交期：SmartByte 机箱/批次交期是丢 230 台的原因，下一单前要先给出可承诺交期",
+    "PEN/OID 维持 SmartByte（Q-45 默认不动）",
+    "FTTH 10G 用户侧 ONT/MC（2×10G + 4×2.5G 低成本）——NYNEX 2025-10 明确要，Saga 还没给出对位型号与价",
+    "PI 默认附 EUR 收款账户（2026-10-06 又问了一次）"
    ]
   },
   "next_move": {
-   "when": "2027-Q1",
-   "channel": "Simon 原通道",
-   "action": "一句话问样机下落（第 75 批(am) 2026-10-25：英文信稿已写 `draft_en`；WhatsApp 一句话）",
-   "one_question": "The two STI-050GE/080GE samples from May 2024 — did they go into a project, and what stopped a second order?"
+   "when": "第 6 单交付后 1 周（预计 2026-11 上旬）",
+   "channel": "S 邮箱 → f.kriewitz@nynex.de（Frederik Kriewitz）（Simon 主线）",
+   "action": "交付回访 + 一句话重提媒体转换器需求是否仍在（1,000/2,000 年量），附 HRUI 线可行与否的结论",
+   "one_question": "Is the 2×10G + 4×2.5G lite-managed media converter (1,000 initial / 2,000 per year) still on your FTTH roadmap for 2027?"
   },
   "facts": [
    {
-    "date": "2024-02-21",
+    "date": "2024-11-09",
     "dir": "来",
-    "who": "用户表（Simon 跟进记录；渠道 Email）",
-    "quote": "用户表跟进：推「发了2光4小壳相关信息」→ 对方「想测样，价格 模块暂不确定单双纤」",
-    "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
-    "k": "Clients/A/DONE/优质俄罗斯客户 2.9.xlsx no.7 2024.2.21"
+    "who": "fiberONE 工单机器人",
+    "quote": "[NX#10565698] vielen Dank für Ihre Kontaktaufnahme mit fiberONE. Ihr Anliegen wurde unter der Ticketnummer NX#10565698 erfasst",
+    "why": "NYNEX 同一集团下有 fiberONE（ISP 品牌）工单系统，Simon 的群发被当作工单——说明 nynex.de 之外还有 fiberone.de 品牌（NYNEX = 卫星/光纤 ISP 集团，Frederik 是技术决策人）",
+    "k": "gmail_s 2024-11-09"
    },
    {
-    "date": "2024-05-16",
+    "date": "2024-11-15",
     "dir": "来",
-    "who": "用户表（Simon 跟进记录；渠道 Email）",
-    "quote": "用户表跟进：推「发了2层2光8poE管理信息」→ 对方「成单电口设备」",
-    "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
-    "k": "Clients/A/DONE/优质俄罗斯客户 2.9.xlsx no.7 2024.5.16"
+    "who": "f.kriewitz@nynex.de",
+    "quote": "Hello Simon, thank you for the datasheets. Are these units available with dual AC input too? Can you share on which Marvel Chip + management CPUs with",
+    "why": "来信原文（主题「RE: 48 Port PoE Managed Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+    "k": "72bbfb66a5dc2115"
    },
    {
-    "date": "2024-05-22",
+    "date": "2024-11-15",
+    "dir": "来",
+    "who": "f.kriewitz@nynex.de",
+    "quote": "Hello Simon, do you have a 24/48 x SFP version and a non PoE 24/48 BASE-T version too? We’re also looking for a low cost 10G switches with 100G uplink",
+    "why": "来信原文（主题「RE: 48 Port PoE Managed Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+    "k": "709eb72c74251c3c"
+   },
+   {
+    "date": "2024-11-15",
     "dir": "去",
-    "who": "Simon → Igor Popov（Quotation，EXW Russia）",
-    "quote": "STI-050GE (5×GE, DIP, DC12~58V, -40~75℃, DIN, w/o PSU) 2 pcs × $24; STI-080GE (8×GE) 2 pcs × $31 = $110, \"Sample Testing\". Price validity 15 days; leadtime 4~7 working days; warranty 3 years; neutral device, non-brand packing.",
-    "why": "样品价锚：STI-050GE $24 / STI-080GE $31（2024-05，老汇率）；工业非管理 3 年保修口径的书面先例",
-    "k": "PI 包 `8_俄罗斯_Igor_gg/Quotation.xls`"
+    "who": "Simon → Frederik",
+    "quote": "It is single AC input by default. But its OK to do dual AC input. Please see attached quotation, it is based on dual AC input. 2, Marvell 98DX336S Flash:512M DRAM:512M CPU: ARM V7 800M 3, Yes, it is completely self-developed… 4, The 10G/100G switch is based on Marvell Aldrin 2 series and Falcon series… not a datasheet for it at the moment (it is a customized version for a client)… maybe start with above 4 models to familiarize yourself with Marvell codes",
+    "why": "首单前 Saga 的承诺底稿：双 AC 可做（报价按双 AC）、芯片规格公开、「完全自研」、100G 线只有硬件且为国内某客户定制——后两点是 2025-03 合规部门追问「Saga↔SmartByte 关系」的伏笔；对 NYNEX 这种会逐字核对的客户，「self-developed」要有口径",
+    "k": "gmail_s 2024-11-15 Re: 48 Port PoE Managed Switch"
    },
    {
-    "date": "2024-05-23",
-    "dir": "PI",
-    "who": "Simon → Igor Popov",
-    "quote": "STI-050GE … 2 pcs 24 USD; STI-080GE … 2 pcs 31 USD; Sample Testing",
-    "why": "样品单",
-    "k": "PI STSC20240523008"
+    "date": "2024-11-15",
+    "dir": "去",
+    "who": "Simon → Frederik（Quotation.pdf，S 邮箱附件）",
+    "quote": "首张报价单（全部按 **DUAL AC input** 报，\"Unit price is including dual AC material and molding cost\"）：STC-424XGGM $300、STC-448XGGM $500、STC-4168XGGCM $400、STC-448XGGMO（4×10G SFP + 48×1G SFP 全光）$660；L3 managed，Marvell based，5~10 working days，warranty 1 year，validity 15 days。",
+    "why": "NYNEX 的第一组价：双电源版样机价 = 单电源 + $35 的由来（11-21 Simon 改口 $265/pc for dual AC = 单电源 $230 + $35）；STC-448XGGMO 48×SFP 全光机只在这张报价单出现过一次（$660）——NYNEX 当时问 \"24/48 x SFP version\"",
+    "k": "S 邮箱附件 `Quotation.pdf` sha=593b7520f47a6cc4（2024-11-15）"
    },
    {
-    "date": "2024-05-23",
+    "date": "2024-11-19",
+    "dir": "来",
+    "who": "f.kriewitz@nynex.de",
+    "quote": "Hello Simon, you’re right about the Switch ICs BDCOM uses. I’m not aware of any marvel switches made by BDCOM. They also develop their OS in house and",
+    "why": "来信原文（主题「RE: 48 Port PoE Managed Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+    "k": "bb48b4bc9c0ee4fc"
+   },
+   {
+    "date": "2024-11-19",
+    "dir": "来",
+    "who": "f.kriewitz@nynex.de",
+    "quote": "Hello Simon, thank you for the offer but with these prices it doesn’t make much sense to try them. We’re currently using BDCOM switches which are chea",
+    "why": "来信原文（主题「RE: 48 Port PoE Managed Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+    "k": "2c73370ad9f9cefb"
+   },
+   {
+    "date": "2024-11-19",
+    "dir": "去",
+    "who": "Saga（Simon）",
+    "quote": "Hi, Frederik, Thanks for your information. Yes, we have L2 switches, the EDM model, 48-port PoE Managed switch(300usd/pc, single AC input). If you do not need PoE, that is 260usd/pc, single AC input. Because you never tried marvel solution before, maybe single",
+    "why": "历史报价点（主题「Re: 48 Port PoE Managed Switch」；第 20 批从 gmail_s 回补）：300usd / 260usd",
+    "k": "457e16a7973e9b43"
+   },
+   {
+    "date": "2024-11-20",
+    "dir": "来",
+    "who": "f.kriewitz@nynex.de",
+    "quote": "4*1G/2.5G/10G+24*1G Ethernet(PoE optional) 150usd/pc for non-PoE model Is there a SFP version available too? Best Regards Frederik Kriewitz NYNEX sate",
+    "why": "来信原文（主题「RE: 48 Port PoE Managed Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+    "k": "74aac1949ef29187"
+   },
+   {
+    "date": "2024-11-20",
+    "dir": "去",
+    "who": "Saga（Simon）",
+    "quote": "Hi, Frederik, Yes, 230usd/pc, single AC input. 4*1G/2.5G/10G SFP+16*1G SFP+8*1G SFP/RJ45 Combo, L2+ managed Thank you. On Wed, Nov 20, 2024 at 4:13 PM Frederik Kriewitz <f.kriewitz@nynex.de> wrote:",
+    "why": "历史报价点（主题「Re: 48 Port PoE Managed Switch」；第 20 批从 gmail_s 回补）：230usd",
+    "k": "9a7e87c0eef923b1"
+   },
+   {
+    "date": "2024-11-21",
+    "dir": "来",
+    "who": "f.kriewitz@nynex.de",
+    "quote": "We can test both: 4*1G/2.5G/10G SFP+16*1G SFP+8*1G SFP/RJ45 Combo, L2+ managed, Dual AC input 4*1G/2.5G/10G+24*1G Ethernet, L2+ managed, Dual AC input",
+    "why": "来信原文（主题「RE: 48 Port PoE Managed Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+    "k": "0ff5029dc9b104bb"
+   },
+   {
+    "date": "2024-11-21",
+    "dir": "来",
+    "who": "f.kriewitz@nynex.de",
+    "quote": "Ok, please send a quote/invoice for one sample unit for the 24 port BASE-T and SFP switches. Are we the first one asking for the dual AC model? Do you",
+    "why": "来信原文（主题「RE: 48 Port PoE Managed Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+    "k": "aa2f0df9e1b26eee"
+   },
+   {
+    "date": "2024-11-21",
+    "dir": "来",
+    "who": "f.kriewitz@nynex.de",
+    "quote": "Hello Simon, ok, what would be the extra costs for the 2 AC version? Best Regards Frederik Kriewitz NYNEX satellite OHG Robert-Bosch-Str. 20 64293 Dar",
+    "why": "来信原文（主题「RE: 48 Port PoE Managed Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+    "k": "efebdbab211ca5a4"
+   },
+   {
+    "date": "2024-11-21",
+    "dir": "去",
+    "who": "Saga（Simon）",
+    "quote": "Hi, Frederik, Lets do 265usd/pc for dual AC input(an extra 35usd). Thank you. On Thu, Nov 21, 2024 at 5:43 PM Frederik Kriewitz <f.kriewitz@nynex.de> wrote:",
+    "why": "历史报价点（主题「Re: 48 Port PoE Managed Switch」；第 20 批从 gmail_s 回补）：265usd / 35usd",
+    "k": "f2e1b29e2a1ebeae"
+   },
+   {
+    "date": "2024-12-12",
+    "dir": "来",
+    "who": "Frederik Kriewitz（NYNEX）",
+    "quote": "did you get the payment? It was wired on 28.11.2024 (protocol attached: INVOICE STSC20241121015 Protokoll.pdf)… 10G only on the fiber side is something we probably could live with. What marvel IC does it use? What about the pricing (assuming a 100 to 500 units order)?… Other demand is mostly limited to 24 or 48 x 10g/25g SFP+/28 + 4-8 100G ports switches and 12/24/36 100G switches. And maybe you can check if marvell has a suitable chip for 10G media converters for SFP+ to BASE-T conversion… run on different speeds on the two interfaces",
+    "why": "首单 STSC20241121015 付款凭证（2024-11-28 汇出）；同一天 Frederik 已经在问 100–500 台的价格、Marvell 芯片型号、25G/100G 需求和「两侧不同速率」的 10G 光电——NYNEX 从第一单就是按产品线评估 Saga，不是买一台试试",
+    "k": "gmail_s 2024-12-12 RE: 48 Port PoE Managed Switch"
+   },
+   {
+    "date": "2024-12-12",
+    "dir": "去",
+    "who": "Simon → Frederik（Quotation_10G Media Converter.pdf）",
+    "quote": "STC-110XGE 10G 光电转换器（1×10G SFP+ + 1×100M/1G/2.5G/5G/10G RJ45，DC5V，Marvell based，电口自适应、光口不支持 100M/1G/2.5G）阶梯价：1 台 $75 / 100 台 $70 / 500 台 $65；validity 30 days；warranty 1 year；附 Google Drive 资料链接。",
+    "why": "这是对 Frederik「pricing assuming a 100 to 500 units order」的正式答复——10G MC 的 $65 群发价就是 500 台档；NYNEX 后来没下 MC 单，但 $65~$75 是对欧洲分销商的实报锚",
+    "k": "S 邮箱附件 `Quotation_10G Media Converter.pdf` sha=7e73db45c41481a9（2024-12-12）"
+   },
+   {
+    "date": "2025-02-11",
+    "dir": "来",
+    "who": "Frederik Kriewitz（NYNEX）",
+    "quote": "we're using the BDCOM models S2900-24T4X-2AC and S2900-24S8C4X-2AC… we did some basic testing and found several issues: No way of monitoring the power supplies (we want to know if one has failed so we can schedule a replacement before the second one fails). No monitoring of the fan speed. No temperature monitoring…",
+    "why": "NYNEX 的现役机是 BDCOM 双电源 24 口 10G 上联；对 Saga 首批样机的核心不满 = 电源/风扇/温度三项可观测性——这直接决定了第二单要双电源 + 风扇监控，也是 Saga 后来《双电源风扇监控》卖点稿的来源",
+    "k": "gmail_s 2025-02-11 RE: Testing Feedback"
+   },
+   {
+    "date": "2025-02-11",
+    "dir": "去",
+    "who": "Simon → Frederik",
+    "quote": "Yes, the samples do NOT come with the features that monitor the power supply info. We need to change the PCB board, this is costly… May I know the BDCOM model you are talking about? We will check and compare.",
+    "why": "对三项可观测性诉求的第一反应是「要改板、成本高」——后来 AC5 第二单把电源/风扇监控做进去了（CLI 先行、SNMP 后补），说明 NYNEX 的需求实际驱动了产品",
+    "k": "gmail_s 2025-02-11 Re: Testing Feedback"
+   },
+   {
+    "date": "2025-03-07",
+    "dir": "去",
+    "who": "Saga（Simon）",
+    "quote": "Hi, Frederik, Currently we are in a transition status from Marvell Alleycat3 Solution to Marvell Alleycat5 Solution. 1, about the power supply monitoring features, it will be available on this new solution(Alleycat5). This takes some time, it is good to stick with BDcom model for now. I will let you…",
+    "why": "Saga 实质答复原文（主题「Re: Testing Feedback」；第 20 批从 gmail_s 回补）——承诺/口径以此为准",
+    "k": "27536178aa9a5ed0"
+   },
+   {
+    "date": "2025-03-18",
+    "dir": "来",
+    "who": "Frederik Kriewitz（NYNEX）",
+    "quote": "looking forward to your alleycat5 based models, please consider adding standard tachometer/PWM fan monitoring/control + temperature monitoring too. The most important missing SNMP MIBs are LLDP neighbors via the LLDP-V2-MIB… and transceiver DDM monitoring data… Regarding the media converter: 10G fiber only with 10/100/1000/2.5G/5G/10G base-t is exactly what we're looking for, but the marvel based media converter we have was not able to handle e.g. 1G base-T with 10G BASE-X",
+    "why": "AC5 需求清单（风扇转速/PWM/温度 + LLDP-V2-MIB + DDM）；10G 光电 MC 必须支持「光口固定 10G、电口 1G/2.5G/5G/10G 自适应」——03-19/21/22 连续三封教 Simon 怎么测（一台 MC + 一台 10G 交换机、光口固定 10G）",
+    "k": "gmail_s 2025-03-18 RE: Testing Feedback"
+   },
+   {
+    "date": "2025-03-18",
+    "dir": "去",
+    "who": "Simon → Frederik",
+    "quote": "there are still some AlleyCat3 based materials here, so it takes some time to FULLY adopt AlleyCat5 solutions for all models… By when, power/temperature/fan monitoring via SNMP function will be available on all models… 1.1: transceiver DDM monitoring is available now. 1.2: LLDP-V2-MIB, we now only support a few… please specify nodes. 2, fiber port ONLY supports 10G speed while LAN port is 10/100/1000/2.5G/5G/10G auto-sensing",
+    "why": "AC3→AC5 过渡期的书面承诺（SNMP 监控将覆盖全型号）+ 10G MC 的硬限制（光口只固定 10G）——这两句话是 NYNEX 后续每次追问的依据，别再改口",
+    "k": "gmail_s 2025-03-18 Re: Testing Feedback"
+   },
+   {
+    "date": "2025-03-19",
+    "dir": "来",
+    "who": "Frederik Kriewitz",
+    "quote": "could you test it with a media converter + 10G switch instead of 2 media converters? With two media converters and the same speed on both copper ends it's working fine… the 10G transceivers actually will run in 1G mode. Please test it with a fixed 10G copper connection on one end and all speeds on the other end… (03-21) does it support 2.5 or 5G BASE-T? You probably don't need a formal tester… (03-22) Did you configure the switch ports to 10G fixed speed in this test?",
+    "why": "NYNEX 连测试方法都替 Saga 设计（MC 对 10G 固定速率交换机、铜侧各档速率）——第一次 10G MC 评估就暴露「光口只跑 10G、铜侧自适应」的限制；2025-10 的 FTTH ONT 需求（旧路由器只有 1G）正是这个场景的延伸。给 NYNEX 的测试报告要按他的拓扑做，不要用两台 MC 背靠背",
+    "k": "gmail_s 2025-03-19/21/22 RE: Testing Feedback"
+   },
+   {
+    "date": "2025-03-21",
+    "dir": "来",
+    "who": "Frederik Kriewitz（NYNEX）",
+    "quote": "does it support 2,5 or 5G BASE-T? You probably don't need a formal tester… use any of your 10G SFP+ switches (port fixed 10G), connect the media converter SFP+ to the switch and any standard 1G PC network card",
+    "why": "10G 媒体转换器多速率测试——客户在教 Saga 怎么测；Simon 03-22 答「暂无 5G BASE-T 测试条件」",
+    "k": "gmail_s 6f52709a41c57f28"
+   },
+   {
+    "date": "2025-03-22",
+    "dir": "来",
+    "who": "Frederik Kriewitz（NYNEX）",
+    "quote": "Thank you for the report. Did you configure the switch ports to 10G fixed speed in this test?",
+    "why": "测试报告被追问方法——NYNEX 的技术严谨度",
+    "k": "gmail_s 9972645d4ea80155"
+   },
+   {
+    "date": "2025-03-25",
+    "dir": "去",
+    "who": "Saga（Simon）",
+    "quote": "Hi, Frederik, Peter has explained the situation in a separate email. I will take over. 1, Please see attached SNMP file and let us know if upgrading is necessary. 2, Temperature monitoring code SWITCH#enterdebug SWITCH(debug)#show diagnostic temperature Dev 0 Temperature 80. This is for our internal…",
+    "why": "Saga 实质答复原文（主题「Re: Testing Feedback」；第 20 批从 gmail_s 回补）——承诺/口径以此为准",
+    "k": "1f56b62cdf57550a"
+   },
+   {
+    "date": "2025-03-25",
+    "dir": "来",
+    "who": "Frederik Kriewitz（NYNEX）",
+    "quote": "can you please explain how Saga Telecom/Smart bytes are related exactly (I've to inform our compliance department)? Ok, the switch returns a few extra SNMP values which do not resolve with the provided MIB files: enterprises.56813… enterprises.171…",
+    "why": "合规部门要 Saga 与 SmartByte 的关系说明（T29-U15 的 NYNEX 安排由此而来）；残留 OID 问题 Saga 于 04-01 以「mib问题处理」回复（56813/171 已移除）",
+    "k": "gmail_s 2025-03-25 RE: Testing Feedback"
+   },
+   {
+    "date": "2025-03-26",
+    "dir": "来",
+    "who": "Frederik Kriewitz（NYNEX）",
+    "quote": "Can you please request your own SmartByte SNMP enterprise OID at iana.org… and move the various custom enterprise OIDs to this OID tree",
+    "why": "客户推动 OID 规范化 = 把 Saga/SmartByte 写进自己运维体系",
+    "k": "c921dc47fd9370bb"
+   },
+   {
+    "date": "2025-03-27",
+    "dir": "来",
+    "who": "Frederik Kriewitz",
+    "quote": "we've PEN no. 44770 registered with IANA but for now we would prefer that you use your SmartByte PEN… Please use your standard Model Numbers",
+    "why": "坚持 SmartByte 原名/OID 的起点（Q-45）",
+    "k": "8f79a607c3cc831e"
+   },
+   {
+    "date": "2025-04-01",
+    "dir": "去",
+    "who": "Saga → Frederik（mib问题处理.docx / New MIBs Info 2025.4.1，SWITCH-MIBS-release-7.3.3）",
+    "quote": "Q: the switch returns a few extra SNMP values which do not resolve with the provided MIB files: enterprises.56813.5.25.31…, enterprises.171.12.58…, NMS-SYS-MIB::sys.4.1.1 / sys.4.1.2. Reply: The 1.3.6.1.4.1.56813* and 1.3.6.1.4.1.171* SNMP values have been removed. Updated NMS-SYS-MIB to provide definitions for sys.4.1.1 and sys.4.1.2",
+    "why": "NYNEX 逐条验 MIB，Saga 工程侧为其清理残留企业 OID（56813 = 别家 PEN、171 = D-Link）并补 MIB 定义——固件级响应，是「较深」的核心证据；后续 7.4.7 OID 0（2025-12-10/17）继续迭代",
+    "k": "Drive PI 文件夹（data/pi_2026-10/text） 15_Frederik 2nd_order"
+   },
+   {
+    "date": "2025-09-10",
+    "dir": "来",
+    "who": "Frederik Kriewitz",
+    "quote": "we've a larger project where we need 230 Switches (1G SFP downlink, 10G uplinks)… Your old models didn't support fan monitoring/dual PSU status monitoring",
+    "why": "大项目需求 + 硬件监控要求",
+    "k": "3c32c9ad46e6235d"
+   },
+   {
+    "date": "2025-09-11",
+    "dir": "去",
+    "who": "Simon（S 邮箱）",
+    "quote": "yes, it is available now, please see attached photos. But it is only in the prototype testing stage. Our advice is, get a piece for local testing, if it meets your need, let's move on. Or we will collect your feedback for an immediate improvement.",
+    "why": "新机型（风扇/双电源监控版）先给原型让 NYNEX 本地测——NYNEX 当共同开发伙伴的做法",
+    "k": "gmail_s f0a4c9b825ff5e38"
+   },
+   {
+    "date": "2025-09-15",
+    "dir": "去",
+    "who": "Saga（Simon）",
+    "quote": "Hi, Frederik, 1, it is the same price as before, 265usd/pc. It is just an upgrade, and thanks for your feedback. 2, technically, there is no manual for it, it is just readily available, no need for extra configuration. Thank you. On Mon, Sep 15, 2025 at 7:27 P",
+    "why": "历史报价点（主题「Re: Marvell Alleycat5 Solution」；第 20 批从 gmail_s 回补）：265usd",
+    "k": "6683b4837e2e4d62"
+   },
+   {
+    "date": "2025-09-15",
+    "dir": "来",
+    "who": "Frederik Kriewitz（NYNEX）",
+    "quote": "can you provide pricing details and a datasheet/manual…? sounds good, can you arrange a sample order for 1 unit (including shipping) with dual AC power supplies? What's the lead time?… forwarded it to accounting for payment. It would be great if you could arrange production of the enclosure before payment arrives.",
+    "why": "AC5 样机当天三封：要价→要 1 台双 AC 样机→已交财务付款并请先开工做外壳（09-30 付款）——决策链短、信任度高，是「较深」的行为证据",
+    "k": "gmail_s 2025-09-15 RE: Marvell Alleycat5 Solution"
+   },
+   {
+    "date": "2025-09-23",
+    "dir": "去",
+    "who": "Saga 内部（双电源风扇监控.docx，2nd order）",
+    "quote": "fan monitoring / dual PSU status monitoring —— 是一个真实的卖点…把功能 → 可观测性 → 告警/联动 → 商业价值串起来…Web UI / REST / SNMP 展示 PSU 状态、风扇转速、温度、告警历史；SNMP traps / Syslog / webhook 推到 Zabbix / PRTG / Prometheus",
+    "why": "NYNEX 第二单（STC-4168XGGCM 双电源）促使 Saga 把「双电源 + 风扇监控」整理成卖点文档；同一能力 James（SA-078）2026-08 的长期需求里也点名要——可复用",
+    "k": "Drive PI 文件夹（data/pi_2026-10/text） 15_Frederik 2nd_order"
+   },
+   {
+    "date": "2025-09-30",
+    "dir": "来",
+    "who": "Frederik Kriewitz（NYNEX）",
+    "quote": "Money has been sent. Attached you find the bank note (Money-transfer[102833].pdf)… Can you clarify if this model is just an updated PCB with added fan and PSU monitoring or is it using a complete new marvel chip? Which chip is used?",
+    "why": "AC5 方案订单付款凭证；客户在付款当天追问是「换板加风扇/电源监控」还是「全新 Marvell 芯片」——NYNEX 对芯片代际敏感（后来 LibreNMS 以 sysObjectID 识别 SmartByte OS）",
+    "k": "gmail_s 2025-09-30 Re: Marvell Alleycat5 Solution"
+   },
+   {
+    "date": "2025-10-15",
+    "dir": "来",
+    "who": "Frederik Kriewitz（NYNEX）",
+    "quote": "Are you aware of any marvel alternative to the Realtek RTL8373 (2 x 10G, 4 x 2.5G) chip? We're looking for a low cost switch solution with 2x 10G ports and up to 4 x 2.5G ports… (10-23) we intend to use them as Media Converter/ONT for our FTTH deployment. We want to upgrade from 1G to 10G active ethernet but many customers are using older routers supporting only 1G… only aware of the Realtek RTL8372/RTL8373 and MaxLinear MxL86252S/MxL86282S based solutions",
+    "why": "新品类需求：FTTH 10G 有源以太网的用户侧 ONT/MC（2×10G + 4×2.5G 低成本）——数量级是「每个用户一台」。Saga 的 STC-15XGDGE/2+4 2.5G web 管理机（Simon 2024-10 推过 Teltronix）是最接近的现货；Realtek 线 STC-2xx 2.5G 可对位",
+    "k": "gmail_s 2025-10-15 RE: Marvell Alleycat5 Solution"
+   },
+   {
+    "date": "2025-10-21",
+    "dir": "来",
+    "who": "Frederik Kriewitz",
+    "quote": "Demand: initial order 1000 units, after that 2000 units per year. It needs to be lite managed (only basic L2 features like vlans, etc.)",
+    "why": "未接住的年量需求（媒体转换器）",
+    "k": "61065505a331e5fd"
+   },
+   {
+    "date": "2025-10-22",
+    "dir": "去",
+    "who": "Saga（Simon）",
+    "quote": "Hi, Frederik, Sorry for that, its wrong and misleading info, please forget it. Thanks for your information about quantity and demand. By our knowledge, Realtek lite managed model is about 25usd to 35usd. Let's consider it 30usd/pc, price is not high. However,",
+    "why": "历史报价点（主题「Re: Marvell Alleycat5 Solution」；第 20 批从 gmail_s 回补）：25usd / 35usd / 30usd",
+    "k": "e59436a1a5d05de6"
+   },
+   {
+    "date": "2025-10-23",
+    "dir": "去",
+    "who": "Simon → Frederik",
+    "quote": "MaxLinear is the only option for a replacement of Realtek solution at similar costs. 2, for Marvell solutions, it is much more expensive… 98DX226S is a way too high standard… doubled prices or even higher. 3, for now, your OS still focuses on Broadcom… it is kind of safe to say we are the only small company… that focuses on Marvell solutions in Mainland China, but there are more Marvell based options from Taiwan",
+    "why": "对 FTTH 10G ONT/MC 需求的诚实答复：Marvell 做不到 Realtek 价位；NYNEX 的自有 OS 以 Broadcom 为主——这条线如果要接，只能用 Realtek/HRUI 线（STC-2xx 2.5G/10G 桌面机）而不是 Marvell，且要过 Simon 的「国内客户冲突」边界",
+    "k": "gmail_s 2025-10-23 Re: Marvell Alleycat5 Solution"
+   },
+   {
+    "date": "2025-10-23",
+    "dir": "来",
+    "who": "Frederik Kriewitz",
+    "quote": "we intend to use them as Media Converter/ONT for our FTTH deployment. We want to upgrade from 1G to 10G active ethernet but many customers are using older routers supporting only 1G, that's why we're looking for a low cost switch… We're only aware of the Realtek RTL8372/RTL8373 and MaxLinear MxL86252S/MxL86282S based solutions which allow 30/40 USD ma[rket prices]",
+    "why": "FTTH 10G 主动以太网升级 = 1,000 + 2,000/年 的量，但目标价 $30–40 市场价——Marvell 线做不到；Realtek RTL8372/8373 正是 HRUI/STC-2xx 2.5G 桌面机的芯片，若 Simon 愿意让 Realtek 线出海，这是现成的大量需求（Q-52：Realtek 线是否对 NYNEX 开放，默认不动）",
+    "k": "gmail_s 2025-10-23 RE: Marvell Alleycat5 Solution"
+   },
+   {
+    "date": "2025-11-11",
+    "dir": "来",
+    "who": "Frederik Kriewitz（NYNEX）",
+    "quote": "they did some basic testing and will install the unit in a production environment soon. They asked for the latest SNMP MIB version. Two trees do not resolve: .1.3.6.1.4.1.57430.1.2.4.* (temperature?) .1.3.6.1.4.1.57430.1.10.*… SNMP sysObjectID is not used correctly… (11-13) how did you implement the fan monitoring… sense pin RPM or current measurement? (11-18) if it's based on RPM you could use the ENTITY-SENSOR-MIB standard… any network monitoring system would be able to pick up these sensors",
+    "why": "第二单样机进生产环境；NYNEX 工程师逐项审 MIB（PEN 57430 = Saga/SmartByte 私有树、sysObjectID、风扇 RPM 用标准 ENTITY-SENSOR-MIB）——这些建议后来体现在 7.4.7 OID 修正与 LibreNMS 的 SmartByte 识别（Q-45）",
+    "k": "gmail_s 2025-11-11 RE: Marvell Alleycat5 Solution"
+   },
+   {
+    "date": "2025-11-13",
+    "dir": "去",
+    "who": "Simon → Frederik",
+    "quote": "it is NOT supporting SNMP now. Only CLI (show fan / show power). This feature (fan dual PSU status monitoring) is developed upon your request… our engineering team can develop SNMP MIB for you and this project… we are a small company, we will only do customized R&D when requested… Possible to share your OID info?… making it finally serve this big project (230 pieces, right?)… (11-21) our fan MIBs will be ready soon, probably early Dec… too few are asking this",
+    "why": "「按你需求开发」+「小公司只做定制 R&D」+ 点名 230 台项目——Saga 对 NYNEX 的投入逻辑是项目换功能；12-10/12-17 两版 BIN 兑现（fan MIB、OID=56166 SmartByte、0 值映射）",
+    "k": "gmail_s 2025-11-13 Re: Marvell Alleycat5 Solution"
+   },
+   {
+    "date": "2025-11-15",
+    "dir": "去",
+    "who": "Saga（Simon）",
+    "quote": "Hi, Frederik, Thanks for your feedback. 1, Currently, there is no such feature as counting the fan speed, of any kind!! 2, For fan status, it is only about \"normal\" and “failure” When it works normally, there is \"high\" and \"low\" status for fan speed. When it f",
+    "why": "历史报价点（主题「Re: Marvell Alleycat5 Solution」；第 20 批从 gmail_s 回补）：",
+    "k": "eb14772778a52488"
+   },
+   {
+    "date": "2025-11-18",
+    "dir": "来",
+    "who": "Frederik Kriewitz（NYNEX）",
+    "quote": "If it's based on RPM you could use the \"ENTITY-SENSOR-MIB\" standard MIB… Your custom working/not working and low/high speed logic is perfectly fine for us… simply add it to your NMS-SYS mib",
+    "why": "风扇监控 MIB 的实现建议（标准 MIB vs 私有 MIB）——固件 7.4.7 风扇/双电源监控的来源",
+    "k": "gmail_s 06568928a9445bc3"
+   },
+   {
+    "date": "2025-12-10",
+    "dir": "来",
+    "who": "Frederik Kriewitz（NYNEX）",
+    "quote": "We can see the fan data now but all other data from the sys tables are gone (cpu/memory/power state/temperature)… (12-17) can you double check the firmware file you sent, while it has another checksum… it shows the same version/build date: hotfix/7.4.7 (r1540 af525c9) Release Date: 2025-12-11… Vendor OID is still 0",
+    "why": "固件迭代中的回归（风扇出来了、CPU/内存/电源/温度没了；Vendor OID 仍为 0）——NYNEX 替 Saga 做了 QA；这种客户最忌「发错文件」，每次 BIN 要附 checksum + 变更说明",
+    "k": "gmail_s 2025-12-10 RE: Marvell Alleycat5 Solution"
+   },
+   {
+    "date": "2025-12-17",
+    "dir": "来",
+    "who": "Frederik Kriewitz（NYNEX）",
+    "quote": "can you double check the firmware file you sent, while it has another checksum… shows the same version/build date… Vendor OID is still 0: Software Version: hotfix/7.4.7 (r1540 af525c9) Release Date: 2025-12-11… PID: STC-4168XGGCM, Hardware Version: V1.1, Serial Number: 202509160001",
+    "why": "固件包错发（同版本号不同校验和、Vendor OID 仍为 0）——12-18 重发后「OID updated, working as expected」",
+    "k": "gmail_s 68c59647de2f8f4a"
+   },
+   {
+    "date": "2025-12-18",
+    "dir": "来",
+    "who": "Frederik Kriewitz",
+    "quote": "with this data update the OID was updated, working as expected now",
+    "why": "固件/MIB 迭代闭环",
+    "k": "e2c8e6b4f49f56e3"
+   },
+   {
+    "date": "2026-01-14",
+    "dir": "去",
+    "who": "Saga（Simon）",
+    "quote": "Hi, Frederik, Happy new year, wishing you all the magic in 2026!! 1, Is there any progress about the 24-port switch project(230pcs, dual PSUs)? 2, I am introducing our CENTEC-based core and aggregation switches. 1, A cost-effective alternative to Cisco or Huawei models 2, Multiple models(10G~800G) a…",
+    "why": "Saga 实质答复原文（主题「Re: Marvell Alleycat5 Solution」；第 20 批从 gmail_s 回补）——承诺/口径以此为准",
+    "k": "635eaadd4b17a77a"
+   },
+   {
+    "date": "2026-01-20",
+    "dir": "来",
+    "who": "Frederik Kriewitz",
+    "quote": "For the 230pcs project we used our existing supply because you initially quoted a long lead time",
+    "why": "交期丢单的原话",
+    "k": "c24584352bd15931"
+   },
+   {
+    "date": "2026-02-03",
+    "dir": "去",
+    "who": "Saga（Simon）",
+    "quote": "Hi, Frederik, 1, good and sad to know 24-port switch project. Well, let's see and talk if there is any issue. 2, Are you using the standard Centec software? We are using CENTEC chips & SDK. But the software, R&D(including functions, system architecture and external interfaces etc.) are handled by ou…",
+    "why": "Saga 实质答复原文（主题「Re: Marvell Alleycat5 Solution」；第 20 批从 gmail_s 回补）——承诺/口径以此为准",
+    "k": "e08c66c8ff0ae155"
+   },
+   {
+    "date": "2026-09-29",
+    "dir": "来",
+    "who": "Frederik Kriewitz",
+    "quote": "quote for 20 x STC-4168XGGCM switches (dual AC PSUs, same as last order)… Due to the price increase I'll have to get 3 more comparison quotes",
+    "why": "第 6 单 + 价格敏感度上升",
+    "k": "afced0c9af361141"
+   },
+   {
+    "date": "2026-09-29",
+    "dir": "去",
+    "who": "Simon → Frederik",
+    "quote": "due to the increasing material costs (mainly PCBs and RAMs), the unit price goes up. And the exchange rate is not good, USD/RMB = 1:6.71… please let me know if you need a RMB quote, and we got another bank account to receive EUR",
+    "why": "20 台订单报 $300/pc 时的涨价口径（PCB/RAM 涨 + 汇率 6.71）与 EUR 账户——与 08-17 给 Angora 的「RAM/DDR 与 PCB 涨价」同一叙事，可复用为 2026Q4 全线涨价说明",
+    "k": "gmail_s 2026-09-29 Re: Saga Marvell AC5 Series Fully Ready"
+   },
+   {
+    "date": "2026-09-30",
+    "dir": "去",
+    "who": "Saga（Simon）",
+    "quote": "Hi, Frederik, After confirmation, conclusions are as below 1. Best offer is 2015RMB/PC USD offer: 300USD/PC, this is from the exchange rate: 1:6.71 EUR offer: 265.2EUR/PC, this is from the exchange rate: 1:7.6 2. Please see attached quotation in EUR. 3. Produc",
+    "why": "历史报价点（主题「Re: Saga Marvell AC5 Series Fully Ready」；第 20 批从 gmail_s 回补）：300USD",
+    "k": "074a700ad4b10bf7"
+   },
+   {
+    "date": "2026-10-06",
+    "dir": "来",
+    "who": "Frederik Kriewitz（NYNEX）",
+    "quote": "can you share your euro bank account please?",
+    "why": "20 台订单付款前要欧元账户（10-15 已付）——给德国客户的 PI 默认带 EUR 收款信息，省一个来回",
+    "k": "gmail_s 2026-10-06 Re: Saga Marvell AC5 Series Fully Ready"
+   },
+   {
+    "date": "2026-10-06",
     "dir": "内",
     "who": "Simon 成本表（PI 包）",
-    "quote": "内部《成本统计.xlsx》：STSC20240523008：成本 626 / 收款 1,140 / 利润 514（45.1%）",
+    "quote": "内部《成本统计.xlsx》：STSC20241121015：成本 3,051 / 收款 4,335 / 利润 1,284（29.6%） · STSC20250915015：成本 2,172 / 收款 2,970 / 利润 798（26.9%） · STSC20261006015：成本 39,000 / 收款 44,000 / 利润 5,000（11.4%）",
     "why": "利润率 = 利润÷收款；对照 20/25/30 加价 = 16.7%/20%/23% 毛利；详见 docs/成单客户_毛利复盘_内部_2026-10-24.md",
     "k": "cost_sheet"
    },
    {
-    "date": "2024-05-23",
-    "dir": "PI",
-    "who": "Simon → Igor Popov（PI STSC20240523008，**人民币结算**）",
-    "quote": "TOTAL RMB 1,140 = 货 780（4 台）+ \"Shipping Cost 360RMB for about 4Kg volume weight to Russia by Express door-to-door\"。",
-    "why": "这张 PI 是 RMB 不是 USD（SB-1335 旧档写「USD 1,140」有误）；俄罗斯客户走人民币收款——与《EXW 对私收款模式》一致；成本表 45.1% 的利润里含 360 RMB 运费收入 vs 实付国内快递 28 RMB",
-    "k": "PI 包 `STSC20240523008.xls` + `成本统计.xlsx`"
-   },
-   {
-    "date": "2024-05-25",
-    "dir": "内",
-    "who": "出货记录（PI 包《运费.jpg》京东快递面单）",
-    "quote": "寄件：惠州惠阳镇隆（供应商仓，谢广浓）→ 收件：义乌稠城 兴港小区 80 栋 799 库房「迪马 周军」，3.0 kg，基础运费 ¥28，2024-05-25 揽件。",
-    "why": "Igor 的物流线：**义乌俄货集运（迪马）**，不是广州货代——U28 两条物流线之外的第三种（俄罗斯客户自有集运点）；Saga 只付国内段 ¥28",
-    "k": "PI 包 `运费.jpg`（OCR）"
+    "date": "2026-10-15",
+    "dir": "来",
+    "who": "Frederik Kriewitz",
+    "quote": "payment has been made… We would prefer to have them with original SmartByte product names/IDs. Please make sure that the SmartByte and SNMP vendor OIDs are used",
+    "why": "较深绑定的最新证据",
+    "k": "60ac95de9259a792"
    }
   ],
   "proof_gaps": [
-   "无邮件往来（A/S 两箱 0 封）"
+   "A 邮箱无 NYNEX 往来（已核）；Peter 侧技术邮件在 S 邮箱抄送中，微信部分见 OCR 重建"
   ],
   "draft_en": {
-   "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
-   "body": "Igor, Simon from Saga Telecom (the STI-050GE / STI-080GE samples, May 2024). One question: did the two pairs go into a project, and what stopped a second order - price, a spec gap, or no project? If it is the Phoenix Contact 1000-series slot you cover, the 8-port Gigabit DIN unit is $32.5 USD EXW today and the 5-port $17.0, EAC on your side."
+   "subject": "2x10G + 4x2.5G media converter — is 1,000/2,000 pcs still on the 2027 roadmap?",
+   "body": "Hi, Frederik,\n\nThank you for the 6th order; the 20 units ship with original SmartByte names and SNMP strings as you asked.\n\nOn the FTTH 1G-to-10G upgrade: the 2x10G + 4x2.5G lite-managed unit is not a Marvell AC5 product, so we cannot derive it from the switch line. It is doable as a Realtek-based design (the RTL8373 class you mentioned), but only worth opening against a real volume.\n\nOne question: if we bring you a sample at a unit price in the range you had in mind, is 1,000 pcs for the first batch and ~2,000 per year still real for 2027, and what is the ceiling price per unit for your business case?\n\nThank you.\nSimon\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
  }

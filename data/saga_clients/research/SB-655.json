@@ -1,125 +1,226 @@
 {
- "code": "SB-655",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（c-techeg.com，快照 2026-10-21）",
- "summary": "埃及 C-TECH（2017 年成立的系统集成商：数据中心、自动化、CCTV、门禁、7×24 支持；表内「工业 1 光 1 电 PoE / from: 自建站」；KP Ahmed Sonbol）；表内未跟进。",
- "type": "系统集成商（埃及，工业 1 光 1 电 PoE 询盘）",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：C-TECH – Systems Integration Excellence；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 数据中心 / 企业 IT / 网络交换 / PoE",
-   "quote": "Integrated Technology Solutions for Smarter, Safer, and Connected Businesses；Founded in 2017；Trusted Technology Partner；End-to-End Integration；24/7/365 Support & Services；Driving Innovation. Delivering Excellence.",
-   "url": "https://c-techeg.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "工业1光1电PoE / from: 自建站",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "C-TECH 定位",
-   "quote": "C-TECH – Systems Integration Excellence ; Founded in 2017 ; End-to-End Integration ; 24/7/365 Support & Services",
-   "url": "https://c-techeg.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "工业 1 光 1 电 PoE",
-   "quote": "工业1光1电PoE / from: 自建站",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Ahmed Sonbol",
-   "title": "（职务待核）",
-   "email": "ahmed.sonbol@c-techeg.com",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "埃及",
-  "other": "官网 c-techeg.com，语言 en-US，快照状态 ok；角色判定来源：官网文案"
- },
- "business_lines": [
-  "系统集成（数据中心 / 自动化 / 安防，埃及）"
- ],
- "channels": {
-  "role": "系统集成商（埃及，工业 1 光 1 电 PoE 询盘）",
-  "region": "埃及",
-  "contact": "ahmed.sonbol@c-techeg.com"
- },
- "signals": [
-  "首页 Integrated Technology Solutions for Smarter, Safer, and Connected Businesses ; Founded in 2017 ; End-to-End Integration ; 24/7/365 Support；kw data center 27 / automation 20 / access control 16 / cctv 14",
-  "表内：工业 1 光 1 电 PoE / from: 自建站；KP Ahmed Sonbol"
- ],
- "risks": [
-  "非主攻区（T5，埃及）：外汇/进口手续风险；自建站询盘有效性待核"
- ],
- "saga_fit": {
-  "p1": "STI-111GP",
-  "tier": 25,
-  "why": "询盘工业 1 光 1 电 PoE → 工业 PoE MC STI-111GP（$29.0 @25%）；配套 4 PoE + 1 SFP STI-154GP（$39.2）；8 口 PoE+ 2 SFP STC-28DGGPM（$84.1）"
- },
- "email_hook": "Ahmed, following your enquiry for an industrial 1-fibre + 1-PoE unit: we supply the DIN-rail PoE media converter (1 SFP + 1 GE PoE+, −40~75 °C, CE/RoHS) and 4-PoE + 1 SFP models from single units, EXW USD — how many points does the project need and what fibre type (single-mode/distance)?",
- "mail_review": {
-  "binding": {
-   "level": "未发信（S/A 邮箱均无往来；来源：用户表「工业1光1电PoE / from: 自建站」；Elsa 箱：`to:c-techeg.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(n)））",
-   "type": "系统集成商（埃及，工业 1 光 1 电 PoE 询盘）",
-   "sieve": "—（未入筛）",
-   "stop": "从未触达",
-   "revive": "不动（非主攻区；J5：有证据再动）",
-   "lane": "埃及 非主攻",
-   "cadence": "不动",
-   "evidence": "gmail_digest：out 0；用户表：「工业1光1电PoE / from: 自建站」；研究档 risks：非主攻区（T5，埃及）：外汇/进口手续风险；自建站询盘有效性待核"
-  },
-  "situation": "埃及 C-TECH（2017 年成立的系统集成商：数据中心、自动化、CCTV、门禁、7×24 支持；表内「工业 1 光 1 电 PoE / from: 自建站」；KP Ahmed Sonbol）；表内未跟进。",
-  "need": "询盘工业 1 光 1 电 PoE → 工业 PoE MC STI-111GP（$29.0 @25%）；配套 4 PoE + 1 SFP STI-154GP（$39.2）；8 口 PoE+ 2 SFP STC-28DGGPM（$84.1）",
-  "breakpoint": "非主攻区（T5，埃及）：外汇/进口手续风险；自建站询盘有效性待核",
-  "saga_now": {
-   "p1": "STI-111GP",
-   "tier": 25,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "询盘工业 1 光 1 电 PoE → 工业 PoE MC STI-111GP（$29.0 @25%）；配套 4 PoE + 1 SFP STI-154GP（$39.2）；8 口 PoE+ 2 SFP STC-28DGGPM（$84.1）",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—",
-   "one_question": ""
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "工业1光1电PoE / from: 自建站",
-    "why": "表内备注",
-    "k": "用户表"
-   }
+  "code": "SB-655",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（digisol.com，快照 2026-10-21）",
+  "summary": "印度 Digisol（「Made in India」网络品牌：交换机、FTTH/PON、MC、布线、监控；工业交换机 DG-IS1006GP / DG-IS1010GP / DG-IS4628HPSE、新品多千兆 L3/L2 PoE；表内「工业 FS / MC / 线缆 / PON / 周边；工业 FS 来自 HRUI（洪瑞）/ Utepo，商用来自新桥」；KP Nandini Singh（Deputy Manager）、Ranjan Gupta（Dy. Business Development Manager））；表内无跟进记录。",
+  "type": "印度网络品牌商（工业线现由 HRUI/Utepo 代工 → Q-33 口径，OEM 采购）",
+  "size": "",
+  "brands_seen": [
+    "HRUI",
+    "Utepo"
   ],
-  "proof_gaps": [
-   "无邮件往来"
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：Digisol – Leading Networking & IT Solutions in India；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 无线 / WiFi / 数据中心 / 企业 IT / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
+      "quote": "Digisol is a leading networking brand offering \"Made In India\" IT Networking solutions. Explore our innovative network products and technology.",
+      "url": "https://www.digisol.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "工业FS MC 线缆 Pon 周边产品 洪瑞 Upeto的工业FS 新桥商业 洪瑞工业 https://www.digisol.com/product/switching-solutions/industrial-switches/",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "Digisol：印度本土网络品牌",
+      "quote": "Digisol is a leading networking brand offering \"Made In India\" IT Networking solutions.",
+      "url": "https://www.digisol.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "工业 FS 来自洪瑞/Utepo，商用来自新桥",
+      "quote": "洪瑞 Upeto的工业FS 新桥商业 洪瑞工业；工业FS MC 线缆 Pon 周边产品",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "kp": [
+    {
+      "name": "Ranjan Gupta",
+      "title": "Dy. Business Development Manager",
+      "email": "ranjan.gupta@digisol.com",
+      "phone": "",
+      "source": "用户表"
+    },
+    {
+      "name": "Nandini Singh",
+      "title": "Deputy Manager",
+      "email": "nandini.singh@digisol.com",
+      "phone": "",
+      "source": "用户表"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "印度",
+    "other": "官网 digisol.com，语言 en-US，快照状态 ok；角色判定来源：用户表"
+  },
+  "business_lines": [
+    "交换机（商用 / 工业 / 多千兆 L3）",
+    "FTTH / PON / MC / 布线 / 监控（自有品牌）"
+  ],
+  "channels": {
+    "role": "印度网络品牌商（工业线现由 HRUI/Utepo 代工 → Q-33 口径，OEM 采购）",
+    "region": "印度",
+    "contact": "nandini.singh@digisol.com、ranjan.gupta@digisol.com"
+  },
+  "signals": [
+    "新闻页 /digisol-introduces-dg-is1006gp-unmanaged-poe-gigabit-switch-series-…、/introducing-digisols-revolutionary-range-of-multigig-l3-and-l2-poe-and-non-poe-switche…",
+    "站内型号 DG-IS4628FSE / DG-IS4628HPSE / DG-IS1010GP / DG-IS1006GP / DG-MC5123S-PTL",
+    "表内：洪瑞 Utepo 的工业 FS；新桥商业；KP Nandini Singh / Deputy Manager；Ranjan Gupta / Dy. BDM"
+  ],
+  "risks": [
+    "现 ODM 含 HRUI（Saga 供应商）：按 Q-33 口径不竞价同型号，只推 SmartByte/Marvell 线",
+    "印度 BIS：由 Digisol 以其品牌取证；整机关税高 → SKD 可谈",
+    "「Made in India」宣传：进口整机需配合其本地化口径；非主攻区（T5）"
+  ],
+  "saga_fit": {
+    "p1": "STI-288GPM",
+    "tier": 30,
+    "why": "工业线现 HRUI/Utepo 代工 → 按 Q-33 口径只推 SmartByte/Marvell 差异化线：工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）、PoE++ STI-288DGGPM-2BT、商用 L2+ STC-28DGGPM；不以 HRUI 同型号竞价"
+  },
+  "email_hook": "Ranjan, for the DG-IS industrial PoE range, we can add a Marvell-based managed tier (8-PoE + 2 SFP L2+, 90 W PoE++ option, −40~75 °C) as a second source from small lots, with CE/RoHS/FCC reports to support your BIS file — which model would you consider dual-sourcing first?",
+  "products_seen": [
+    {
+      "brand": "Digisol（自有）",
+      "model": "DG-IS1010GP",
+      "spec": "工业 8 PoE + 2 SFP 非管理（推断）",
+      "saga": "STI-288GP（Q-33 口径：只推 SmartByte 线）",
+      "url": "https://www.digisol.com/product/switching-solutions/industrial-switches/",
+      "date": "2026-10-21"
+    },
+    {
+      "brand": "Digisol（自有）",
+      "model": "DG-IS4628HPSE",
+      "spec": "工业 24 PoE + 4 SFP 管理（推断）",
+      "saga": "（Saga 工业 24 口无标准型）",
+      "url": "https://www.digisol.com/",
+      "date": "2026-10-21"
+    }
+  ],
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A/S 邮箱 12 封 2024→2026，无记录打开，0 回；收件 helpdesk@digisol.com, info@digisol.com；主题多为「Mini Industrial PoE Switch、10G Enterprise SFP Switch」）；Elsa 1:1 去信 7 轮 2025-05-05→2026-03-31（To 仅本户 helpdesk@digisol.com / info@digisol.com；头 msg 19d42b128951e1cf 核对无 Bcc，称呼「Hi,」= 无称呼逐月单发名单；主题 Booster PoE Switch、OEM Core Switching Solution、Updated Ethernet Switches Links、Marvell Managed Commercial Switches…；0 回（Elsa 箱 Replied 索引 + 第 73 批真人来信逐户比对均无此户）；S/A digest 看不到 Elsa 的去信，之前据此写的「未触达」是 S/A 口径）（第 74 批(n) `from:e.sagatelecom to:digisol.com` 全程 complete，直收 7 条、无 Re: 行）",
+      "type": "印度网络品牌商（工业线现由 HRUI/Utepo 代工 → Q-33 口径，OEM 采购）",
+      "sieve": "1（只收到群发）",
+      "stop": "12 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱；Q-33 供应商渠道客户",
+      "revive": "不动（Q-33）",
+      "lane": "IN 次级（点名）",
+      "cadence": "不动",
+      "evidence": "gmail_digest：out 12；用户表：「工业FS MC 线缆 Pon 周边产品 洪瑞 Upeto的工业FS 新桥商业 洪瑞工业 https://www.digisol.com/product/swit」；研究档 risks：现 ODM 含 HRUI（Saga 供应商）：按 Q-33 口径不竞价同型号，只推 SmartByte/Marvell 线"
+    },
+    "situation": "印度 Digisol（「Made in India」网络品牌：交换机、FTTH/PON、MC、布线、监控；工业交换机 DG-IS1006GP / DG-IS1010GP / DG-IS4628HPSE、新品多千兆 L3/L2 PoE；表内「工业 FS / MC / 线缆 / PON / 周边；工业 FS 来自 HRUI（洪瑞）/ Utepo，商用来自新桥」；KP Nandini Singh（Deputy Manager）、Ranjan Gupta（Dy. Business Development Manager））；表内无跟进记录。",
+    "need": "工业线现 HRUI/Utepo 代工 → 按 Q-33 口径只推 SmartByte/Marvell 差异化线：工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）、PoE++ STI-288DGGPM-2BT、商用 L2+ STC-28DGGPM；不以 HRUI 同型号竞价",
+    "breakpoint": "现 ODM 含 HRUI（Saga 供应商）：按 Q-33 口径不竞价同型号，只推 SmartByte/Marvell 线",
+    "saga_now": {
+      "p1": "STI-288GPM",
+      "tier": 30,
+      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-23 $65（10G media converter）；群发里他已看到的价（续）：2026-08-26 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-07-05 $220（48 port managed switch）、2026-04-30 $280（10G Enterprise SFP Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-06-17 $300（48 Port PoE Managed Switch = STC-448XGGPM，Elsa 箱 1 轮 2025-06-17；现表 $335.4@20%、Drive 老表 $335——同款写 $335 要先说 2025 群发是 $300、汇率 7.2→6.7）；2025-10-13 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2025-10-13；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）",
+      "why": "工业线现 HRUI/Utepo 代工 → 按 Q-33 口径只推 SmartByte/Marvell 差异化线：工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）、PoE++ STI-288DGGPM-2BT、商用 L2+ STC-28DGGPM；不以 HRUI 同型号竞价",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "不动",
+      "channel": "—",
+      "action": "—",
+      "one_question": ""
+    },
+    "facts": [
+      {
+        "date": "2025-05-05",
+        "dir": "out",
+        "who": "Elsa → info@digisol.com, helpdesk@digisol.com",
+        "quote": "8 Port Industrial PoE Switch（Elsa 1:1 逐月名单第 1/7 轮；To 仅本户）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:digisol.com` 全程 complete：7 轮直收（头 msg 19d42b128951e1cf 无 Bcc，称呼「Hi,」）；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "1969eec2b555c3c5"
+      },
+      {
+        "date": "2025-06-17",
+        "dir": "out",
+        "who": "Elsa → info@digisol.com, helpdesk@digisol.com",
+        "quote": "48 Port PoE Managed Switch（Elsa 1:1 逐月名单第 2/7 轮；To 仅本户；正文价 300usd/pc，第 74 批(p) 读稿 msg 194eff1f9bf46879 / 1973a613b8166b58）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:digisol.com` 全程 complete：7 轮直收（头 msg 19d42b128951e1cf 无 Bcc，称呼「Hi,」）；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "1977c4228727d6c9"
+      },
+      {
+        "date": "2025-10-13",
+        "dir": "out",
+        "who": "Elsa → info@digisol.com, helpdesk@digisol.com",
+        "quote": "10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 3/7 轮；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:digisol.com` 全程 complete：7 轮直收（头 msg 19d42b128951e1cf 无 Bcc，称呼「Hi,」）；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "199dc39cede1d8dd"
+      },
+      {
+        "date": "2025-12-02",
+        "dir": "out",
+        "who": "Elsa → info@digisol.com, helpdesk@digisol.com",
+        "quote": "Booster PoE Switch（Elsa 1:1 逐月名单第 4/7 轮；To 仅本户）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:digisol.com` 全程 complete：7 轮直收（头 msg 19d42b128951e1cf 无 Bcc，称呼「Hi,」）；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "19ade37f3b10b7bd"
+      },
+      {
+        "date": "2026-01-07",
+        "dir": "out",
+        "who": "Elsa → info@digisol.com, helpdesk@digisol.com",
+        "quote": "OEM Core Switching Solution（Elsa 1:1 逐月名单第 5/7 轮；To 仅本户）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:digisol.com` 全程 complete：7 轮直收（头 msg 19d42b128951e1cf 无 Bcc，称呼「Hi,」）；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "19b97c182fa7f207"
+      },
+      {
+        "date": "2026-03-02",
+        "dir": "out",
+        "who": "Elsa → info@digisol.com, helpdesk@digisol.com",
+        "quote": "Updated Ethernet Switches Links（Elsa 1:1 逐月名单第 6/7 轮；To 仅本户）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:digisol.com` 全程 complete：7 轮直收（头 msg 19d42b128951e1cf 无 Bcc，称呼「Hi,」）；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "19caceae112ae320"
+      },
+      {
+        "date": "2026-03-31",
+        "dir": "out",
+        "who": "Elsa → info@digisol.com, helpdesk@digisol.com",
+        "quote": "Marvell Managed Commercial Switches（Elsa 1:1 逐月名单第 7/7 轮；To 仅本户）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:digisol.com` 全程 complete：7 轮直收（头 msg 19d42b128951e1cf 无 Bcc，称呼「Hi,」）；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "19d42b128951e1cf"
+      },
+      {
+        "date": "2026-09-17",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "Mini Industrial PoE Switch、10G Enterprise SFP Switch",
+        "why": "12 封 / 0 次打开 / 0 回｜首封 2024-07-05 → 末封 2026-09-17（12 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "工业FS MC 线缆 Pon 周边产品 洪瑞 Upeto的工业FS 新桥商业 洪瑞工业 https://www.digisol.com/product/switching-solutions/industrial-switches/",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

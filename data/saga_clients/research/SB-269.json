@@ -2,44 +2,50 @@
  "code": "SB-269",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "在线（techfors.cz，快照 2026-10-21）",
- "summary": "捷克 Techfors CZ s.r.o.（CCTV/安防分销：IFS（Interlogix）品牌、PoE、NVR、门禁 ATS8600；表内「IFS 这个牌子，工业 FS MC CCTV」「可以尝试多跟进一下」）；群发 8 次无回复。",
- "type": "安防分销商（捷克，IFS 工业 FS 在售）",
+ "website_status": "在线（contradata.it，快照 2026-10-21）",
+ "summary": "意大利 Contradata（工业计算/嵌入式/工业网络分销商；表内「工业 FS 几个台湾牌子的」；KP Alessandro Damian（General Manager）、Tiziano Cerato（Sales Engineer）；官网快照空）；表内 4 次跟进无回复。",
+ "type": "工业网络/嵌入式分销商（意大利，台湾品牌为主）",
  "size": "",
- "brands_seen": [
-  "IFS"
- ],
+ "brands_seen": [],
  "evidence": [
   {
    "kind": "官网快照",
-   "claim": "官网标题：Techfors CZ s.r.o.；品类词 安防监控（CCTV / 门禁） / 网络交换 / PoE",
-   "quote": "Techfors CZ s.r.o.",
-   "url": "https://www.techfors.cz/",
+   "claim": "官网标题：contradata.it",
+   "quote": "",
+   "url": "https://contradata.it/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
    "claim": "表内兴趣/备注",
-   "quote": "IFS这个牌子 工业FS MC CCTV",
+   "quote": "工业FS 几个台湾牌子的",
    "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "Techfors 站点",
-   "quote": "Techfors CZ s.r.o. ; /cctv/site-data/poe/ ; ATS8600",
-   "url": "https://www.techfors.cz/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "IFS 工业 FS MC CCTV",
-   "quote": "IFS这个牌子  工业FS MC CCTV；可以尝试多跟进一下",
+   "claim": "工业 FS 台湾牌子",
+   "quote": "工业FS 几个台湾牌子的",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Alessandro Damian",
+   "title": "General Manager",
+   "email": "adamian@contradata.it",
+   "phone": "",
+   "source": "用户表"
+  },
+  {
+   "name": "Tiziano Cerato",
+   "title": "Sales Engineer",
+   "email": "info@contradata.it",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
@@ -48,81 +54,78 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "捷克",
-  "other": "官网 techfors.cz，语言 cz，快照状态 ok；角色判定来源：用户表"
+  "hq": "意大利",
+  "other": "官网 contradata.it，语言 ?，快照状态 ok；角色判定来源：待核"
  },
  "business_lines": [
-  "CCTV / 安防分销（IFS 等）"
+  "工业计算 / 嵌入式 / 工业网络分销（意大利）"
  ],
  "channels": {
-  "role": "安防分销商（捷克，IFS 工业 FS 在售）",
-  "region": "捷克",
-  "contact": "firma@techfors.cz"
+  "role": "工业网络/嵌入式分销商（意大利，台湾品牌为主）",
+  "region": "意大利",
+  "contact": "info@contradata.it、adamian@contradata.it"
  },
  "signals": [
-  "页面 /cctv/site-data/poe/；站内 ATS8600 / EV1116 / TC-C34LP；kw cctv 50 / nvr 11 / poe 7",
-  "表内：IFS 这个牌子 工业 FS MC CCTV；可以尝试多跟进一下"
+  "表内：工业 FS 几个台湾牌子的；KP Alessandro Damian / General Manager；Tiziano Cerato / Sales Engineer",
+  "快照：内容为空"
  ],
  "risks": [
-  "IFS（Carrier 旗下）为既定品牌线，白牌为预算补位；8 次无回复，仅 firma@"
+  "品牌经销导向（台湾品牌，白牌契合度待核）；4 次无回复 → 改向 GM/Sales Engineer 具名首触；官网快照空"
  ],
  "saga_fit": {
-  "p1": "STI-288GPM",
+  "p1": "STI-280GE",
   "tier": 20,
-  "why": "现售 IFS（Interlogix/Carrier）工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）作预算线；MC 位 STI-110GE（$22.4）；商用 STC-28DGGPM（$80.7）"
+  "why": "台湾工业 FS 品牌经销 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、工业 8 PoE + 2 SFP 管理 STI-288GPM（$78.9）作白牌预算位；工业千兆 MC STI-110GE（$22.4）"
  },
- "email_hook": "Alongside the IFS industrial switches and media converters you distribute, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units, gigabit MCs and 8-PoE + 2 SFP L2+ commercial switches (CE/RoHS, neutral packing) from small lots, EXW USD — which configuration do your CCTV integrators order most?",
+ "email_hook": "Alessandro, alongside the Taiwanese industrial switch brands you distribute, we supply neutral-brand Marvell-based DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP managed switches (−40~75 °C, CE/RoHS) from single units, EXW USD — is there a budget industrial position your integrator customers ask for below the branded lines?",
  "mail_review": {
   "binding": {
-   "level": "读而不回（A 邮箱 19 封 2025→2026，其中 2 封被打开，0 回；收件 firma@techfors.cz；被打开主题「Managed Optical Bypass Switch、Industrial PoE Switch」；Elsa 箱：`to:.cz` 穷举 1 条（2026-10-25，锚批 Bcc 头已读）未见 techfors.cz → Elsa 箱从未发过本户，往来只在 S/A 箱（去 19 / 来 0）（第 74 批(f)））",
-   "type": "安防分销商（捷克，IFS 工业 FS 在售）",
-   "sieve": "2（有人在读，无人回）",
-   "stop": "读而不回 = 内容未命中或没有当下需求",
-   "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
-   "lane": "捷克（欧洲全域主攻）",
-   "cadence": "一封；回了再说",
-   "evidence": "gmail_digest：out 19，Opened 标签 2（Simon 群发追踪）；用户表：「IFS这个牌子 工业FS MC CCTV」；研究档 risks：IFS（Carrier 旗下）为既定品牌线，白牌为预算补位；8 次无回复，仅 firma@"
+   "level": "未触达（A 邮箱 15 封 2025→2026，无记录打开，0 回；收件 adamian@contradata.it, info@contradata.it；主题多为「Mini Industrial PoE Switch、48 Port PoE Managed Switch」；Elsa 箱：`to:contradata.it` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 15 / 来 0）（第 74 批(j)））",
+   "type": "工业网络/嵌入式分销商（意大利，台湾品牌为主）",
+   "sieve": "1（只收到群发）",
+   "stop": "15 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "意大利（欧洲全域主攻）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 15；用户表：「工业FS 几个台湾牌子的」；研究档 risks：品牌经销导向（台湾品牌，白牌契合度待核）；4 次无回复 → 改向 GM/Sales Engineer 具名首触；官网快照空"
   },
-  "situation": "捷克 Techfors CZ s.r.o.（CCTV/安防分销：IFS（Interlogix）品牌、PoE、NVR、门禁 ATS8600；表内「IFS 这个牌子，工业 FS MC CCTV」「可以尝试多跟进一下」）；群发 8 次无回复。",
-  "need": "现售 IFS（Interlogix/Carrier）工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）作预算线；MC 位 STI-110GE（$22.4）；商用 STC-28DGGPM（$80.7）",
-  "breakpoint": "IFS（Carrier 旗下）为既定品牌线，白牌为预算补位；8 次无回复，仅 firma@",
+  "situation": "意大利 Contradata（工业计算/嵌入式/工业网络分销商；表内「工业 FS 几个台湾牌子的」；KP Alessandro Damian（General Manager）、Tiziano Cerato（Sales Engineer）；官网快照空）；表内 4 次跟进无回复。",
+  "need": "台湾工业 FS 品牌经销 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、工业 8 PoE + 2 SFP 管理 STI-288GPM（$78.9）作白牌预算位；工业千兆 MC STI-110GE（$22.4）",
+  "breakpoint": "品牌经销导向（台湾品牌，白牌契合度待核）；4 次无回复 → 改向 GM/Sales Engineer 具名首触；官网快照空",
   "saga_now": {
-   "p1": "STI-288GPM",
+   "p1": "STI-280GE",
    "tier": 20,
-   "price": "首触锚价 STI-288GPM $78.9 EXW（主表档位（PDF 上限 $88；SA-026 2025-07 实报 $72 为分销量价）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-08 $240（24 Port Fiber Switch）、2025-10-08 $280（10G Enterprise SFP Switch）、2026-06-22 $16000（32 Port 400GB DC Switch）",
-   "why": "现售 IFS（Interlogix/Carrier）工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）作预算线；MC 位 STI-110GE（$22.4）；商用 STC-28DGGPM（$80.7）。已打开的主题（2/19 封有打开记录）：「16 Port Ethernet Switch」(2025-05-20)、「Industrial PoE Switch」(2025-06-25) → 读者兴趣主题类别不明（看原主题）｜已发资料（勿重发）：Product Link_2026Q3(2026-07-21)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）",
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-07-17 $300（48 Port PoE Managed Switch）、2025-09-23 $280（10G Enterprise SFP Switch）",
+   "why": "台湾工业 FS 品牌经销 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、工业 8 PoE + 2 SFP 管理 STI-288GPM（$78.9）作白牌预算位；工业千兆 MC STI-110GE（$22.4）",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "2026-11",
-   "channel": "A 邮箱 → firma@techfors.cz",
-   "action": "短信一问（email_hook）",
-   "one_question": "Alongside the IFS industrial switches and media converters you distribute, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units, gigabit MCs and 8-PoE + 2 SFP L2+ commercial switches (CE/RoHS, neutral packing) from small lots, EXW USD — which configuration do your CCTV integrators order most? Reference: STI-288GPM at $78.9 USD EXW (MOQ 1, 15-day validity)."
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Alessandro, alongside the Taiwanese industrial switch brands you distribute, we supply neutral-brand Marvell-based DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP managed switches (−40~75 °C, CE/RoHS) from single units, EXW USD — is there a budget industrial position your integrator customers ask for below the branded lines?"
   },
   "facts": [
    {
-    "date": "2026-10-01",
+    "date": "2026-10-07",
     "dir": "去",
     "who": "A 群发",
-    "quote": "Managed Optical Bypass Switch、Industrial PoE Switch",
-    "why": "19 封 / 2 次打开 / 0 回｜首封 2025-01-28 → 末封 2026-10-01（19 去 / 0 来）",
+    "quote": "Mini Industrial PoE Switch、48 Port PoE Managed Switch",
+    "why": "15 封 / 0 次打开 / 0 回｜首封 2025-06-20 → 末封 2026-10-07（15 去 / 0 来）",
     "k": "gmail_digest"
    },
    {
     "date": "2026-10-21",
     "dir": "用户表",
     "who": "Simon",
-    "quote": "IFS这个牌子 工业FS MC CCTV",
+    "quote": "工业FS 几个台湾牌子的",
     "why": "表内备注",
     "k": "用户表"
    }
   ],
   "proof_gaps": [],
-  "draft_en": {
-   "subject": "One question — Managed Optical Bypass Switch",
-   "body": "Hello,\n\nWe have sent you a few mails on \"Managed Optical Bypass Switch\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nAlongside the IFS industrial switches and media converters you distribute, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units, gigabit MCs and 8-PoE + 2 SFP L2+ commercial switches (CE/RoHS, neutral packing) from small lots, EXW USD — which configuration do your CCTV integrators order most?\n\nReference price: DIN-rail 8-PoE + 2 SFP L2 managed industrial switch, 240 W (STI-288GPM) $78.9 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
-  },
+  "draft_en": null,
   "as_of": "2026-10-24"
  }
 }

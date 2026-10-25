@@ -1,76 +1,124 @@
 {
  "code": "SB-302",
- "name_official": "",
+ "name_official": "Antalya Turkuaz Bilişim Teknolojileri Ltd. Şti.（Antalya Muratpaşa, TR；antalyaturkuaz.com）",
  "researched_at": "2026-10-21",
- "website_status": "在线（atexshop.com，快照 2026-10-21）",
- "summary": "ATEXshop（2008 年起防爆/本安设备网店：1,800+ ATEX/IECEx 认证产品——防爆手机、平板、摄像机、照明；电话 +31（荷兰），表内国别捷克；Hikvision / Bosch Ex 摄像机；KP Christian Pleijsier（Company Owner））；表内 4 次跟进无回复。",
- "type": "防爆设备网店（ATEX 认证品类，Saga 不做）",
+ "website_status": "在线（含 B2B 门户）",
+ "summary": "安塔利亚的安防/网络技术公司 Antalya Turkuaz Bilişim（25+ 年行业经验；11–50 人（ZoomInfo）；业务：AI 分析/人脸/车牌/热成像安防工程、企业网络基础设施（光纤熔接、结构化布线、机柜、Wi-Fi Mesh）、火灾报警、网络安全；B2B 订货门户 b2b.antalyaturkuaz.com；自述「全球品牌产品分销」；Altındağ Mah. 166. Sok. Doğan Apt. No:24/C Muratpaşa；+90 242 345 36 91；turkuaz@antalyaturkuaz.com）。ISAF 记录：Gökhan Naktar——不会说英语，拿了彩页；无后续跟进。",
+ "type": "",
  "size": "",
- "brands_seen": [
-  "Hikvision",
-  "Bosch"
- ],
+ "brands_seen": [],
  "evidence": [
   {
-   "kind": "官网快照",
-   "claim": "官网标题：ATEXshop | Explosion Proof & Intrinsically Safe Equipment；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
-   "quote": "Online since 2008: more than 1,800 ATEX and IECEx certified products, from explosion proof phones and tablets to cameras and lighting. Advice and quotes.",
-   "url": "https://www.atexshop.com/",
+   "kind": "官网",
+   "claim": "业务与地址",
+   "quote": "Endüstriyel Güvenlik Mühendisliği … yapay zeka destekli analiz, yüz tanıma, plaka okuma ve termal görüş … Kurumsal Network Altyapısı … Fiber optik sonlandırma, yapısal kablolama … 25+ Yıl … turkuaz@antalyaturkuaz.com … Altındağ Mah. 166. Sokak Doğan Apt No:24/C, Muratpaşa, Antalya",
+   "url": "http://www.antalyaturkuaz.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "名录",
+   "claim": "规模与电话",
+   "quote": "Antalya Turkuaz Bilişim Teknolojileri … security camera systems, fire alarm systems, network systems, and cybersecurity solutions … revenue is <$5 Million … has 11-50 employees … Phone number: +90 2423453691",
+   "url": "https://www.zoominfo.com/c/antalya-turkuaz-bilis%CC%A7im-teknolojileri/1339718310",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "Switch",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "ATEXshop 定位",
-   "quote": "ATEXshop | Explosion Proof & Intrinsically Safe Equipment ; Online since 2008: more than 1,800 ATEX and IECEx certified products ; Call Us Now: +31 85 044 1152",
-   "url": "https://www.atexshop.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "Switch",
-   "quote": "Switch",
+   "claim": "ISAF：不会英语，拿彩页",
+   "quote": "不会说英语， 拿了彩页 / Gokhan naktar",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
- "kp": [],
- "grade_override": "C",
- "override_reason": "品类不符：ATEXshop 防爆认证设备专营（Saga 无 ATEX 产品）；c_sub=品类不符（防爆认证）",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "kp": [
+  {
+   "name": "Gökhan Naktar",
+   "role": "（ISAF 名片；职务待核）",
+   "email": "naktar@antalyaturkuaz.com（用户表）",
+   "phone": "+90 242 345 36 91（公司）",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（官网核对）"
  },
  "company_facts": {
-  "hq": "捷克",
-  "other": "官网 atexshop.com，语言 en，快照状态 ok；角色判定来源：表内早期 AI 描述"
+  "legal_name": "Antalya Turkuaz Bilişim Teknolojileri Ltd. Şti.",
+  "hq": "Altındağ Mah. 166. Sokak Doğan Apt. No:24/C, Muratpaşa / Antalya（+90 242 345 36 91；turkuaz@antalyaturkuaz.com）",
+  "size": "11–50（ZoomInfo）；营收 <$5M",
+  "other": "安防工程 + 网络基础设施 + B2B 分销门户；守界：火灾报警主系统不供"
  },
  "business_lines": [
-  "防爆 / 本安设备网店"
+  "AI 安防工程（人脸/车牌/热成像）",
+  "企业网络基础设施（光纤、布线、Wi-Fi）",
+  "B2B 产品分销（b2b 门户）"
  ],
  "channels": {
-  "role": "防爆设备网店（ATEX 认证品类，Saga 不做）",
-  "region": "捷克",
-  "contact": "info@atexshop.com"
+  "网站": "http://www.antalyaturkuaz.com/ · https://b2b.antalyaturkuaz.com/",
+  "电话": "+90 242 345 36 91（公开）",
+  "邮箱（公开）": "turkuaz@antalyaturkuaz.com"
  },
  "signals": [
-  "官网：Online since 2008: more than 1,800 ATEX and IECEx certified products, from explosion proof phones and tablets to cameras and lighting；首页 Call Us Now: +31 85 044 1152；kw camera 105 / cctv 19",
-  "表内：Switch；KP Christian Pleijsier / Company Owner"
+  "既做工程又有 B2B 分销门户 → 可同时自用与上架；安塔利亚酒店/设施安防 → 24 口 PoE 与工业 8 口"
  ],
  "risks": [
-  "品类不符：防爆（ATEX/IECEx）认证设备专营，Saga 无防爆认证产品；国别待核（电话 +31 荷兰，表内捷克）"
+  "语言（土耳其语）；需求未表达；无后续跟进"
  ],
  "saga_fit": {
-  "p1": null,
-  "tier": 20,
-  "why": "全品类要求 ATEX/IECEx 认证（Saga 无防爆认证）→ 品类不符，改 C"
+  "p1": "STC-28DGGPM",
+  "tier": 25,
+  "why": "工程 25% 档：STC-28DGGPM（8 GE PoE+ 2 SFP L2+ 管理，$84.1）作 AI 摄像接入；24 口 STC-424DGGPM-280W（$140.1）；工业现场 STI-288GP（$59.8）"
  },
- "email_hook": "（不发送：品类不符）"
+ "email_hook": "Gökhan Bey, ISAF'ta aldığınız broşürdeki 2 SFP + 8 port PoE+ L2+ switch EXW 84,1 USD, 24 port 280 W sürümü 140,1 USD; B2B portalınızda listelemek için nötr kutulu 10 adetlik deneme partisi hazırlayayım mı?",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「不会说英语， 拿了彩页 / Gokhan naktar」；Elsa 箱：`to:antalyaturkuaz.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(i)））",
+   "type": "—",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+   "lane": "TR 主攻（四主）",
+   "cadence": "首封后看打开",
+   "evidence": "gmail_digest：out 0；用户表：「不会说英语， 拿了彩页 / Gokhan naktar」；研究档 risks：语言（土耳其语）；需求未表达；无后续跟进"
+  },
+  "situation": "安塔利亚的安防/网络技术公司 Antalya Turkuaz Bilişim（25+ 年行业经验；11–50 人（ZoomInfo）；业务：AI 分析/人脸/车牌/热成像安防工程、企业网络基础设施（光纤熔接、结构化布线、机柜、Wi-Fi Mesh）、火灾报警、网络安全；B2B 订货门户 b2b.antalyaturkuaz.com；自述「全球品牌产品分销」；Altındağ Mah. 166. Sok. Doğan Apt. No:24/C Muratpaşa；+90 242 345 36 91；turkuaz@antalyaturkuaz.com）。ISAF 记录：Gökhan Naktar——不会说英语，拿了彩页；无后续跟进。",
+  "need": "工程 25% 档：STC-28DGGPM（8 GE PoE+ 2 SFP L2+ 管理，$84.1）作 AI 摄像接入；24 口 STC-424DGGPM-280W（$140.1）；工业现场 STI-288GP（$59.8）",
+  "breakpoint": "语言（土耳其语）；需求未表达；无后续跟进",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "工程 25% 档：STC-28DGGPM（8 GE PoE+ 2 SFP L2+ 管理，$84.1）作 AI 摄像接入；24 口 STC-424DGGPM-280W（$140.1）；工业现场 STI-288GP（$59.8）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "待 Simon 排期（首封）",
+   "channel": "A 邮箱 → naktar@antalyaturkuaz.com（Gökhan Naktar）",
+   "action": "首封：按 email_hook 一问（第 74 批(r) 2026-10-25：对方不会说英语 → 土耳其语整段发；价与研究档一致，15 天有效）",
+   "one_question": "Gökhan Bey, ISAF'ta aldığınız broşürdeki 2 SFP + 8 port PoE+ L2+ switch EXW 84,1 USD, 24 port 280 W sürümü 140,1 USD; B2B portalınızda listelemek için nötr kutulu 10 adetlik deneme partisi hazırlayayım mı?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "不会说英语， 拿了彩页 / Gokhan naktar",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": {
+   "subject": "Türkçe 整段单发（对方不读英文；邮件/WhatsApp 复制即发，不混英文）",
+   "body": "Gökhan Bey, ISAF'ta aldığınız broşürdeki 2 SFP + 8 port PoE+ L2+ switch 84,1 USD EXW, 24 port (280 W) sürümü 140,1 USD EXW (MOQ 1, 15 gün geçerli). B2B portalınızda listelemek için nötr kutulu 10 adetlik bir deneme partisi hazırlayayım mı?\n\nSaygılarımla,\nSimon\nSaga Telecom - sagatele.com"
+  },
+  "as_of": "2026-10-24"
+ }
 }

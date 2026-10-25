@@ -1,74 +1,129 @@
 {
  "code": "SB-202",
- "name_official": "Simac IDS B.V.（Veldhoven, NL；simac-ids.com；Simac Techniek NV 子公司，2026-03 售予 TimeEdit）",
+ "name_official": "Engineering Group Contractors (EGC)（黎巴嫩；表内误归阿联酋）",
  "researched_at": "2026-10-21",
- "website_status": "在线",
- "summary": "荷兰 Veldhoven 的 Simac IDS（Simac Techniek NV 子公司，2018 年设立，11–50 / 17 人）：面向高等教育的学生参与度/出勤监测云方案（Presto Suite）与 RFID 门禁，荷兰与英国办公室；2026-03-12 宣布整体出售给瑞典 TimeEdit。展会记录：联系人 Patrick Manders 需要小尺寸 5 口工业级交换机；WhatsApp 已加；6 次跟进 0 回复。行业外，归 C（资料保留）。",
+ "website_status": "在线（egc-lb.com，快照 2026-10-21）",
+ "summary": "黎巴嫩（+961 3）弱电 / 电气承包商：防雷接地、消防报警（EN54 网络卡）、监控安防、网络设计安装、PABX、智能家居 / BMS、自动门、应急照明；GM Mohammad Hammoud 谈过 30 台交换机环网、VC（视频 / 数据光端机）、2 光 10 电、BNC 转网，「基本都懂」；WA 19 次无实质回复。表内国家为阿联酋，域名 / 电话指向黎巴嫩（country_fix 黎巴嫩）。",
  "type": "",
  "size": "",
  "brands_seen": [],
  "evidence": [
   {
-   "kind": "官网",
-   "claim": "业务定位",
-   "quote": "Simac IDS is an international cloud provider of solutions for Student Engagement, Student Wellbeing and enhancing the Student Experience … offices in Veldhoven, Ede (the Netherlands) and Greater Manchester (UK)",
-   "url": "https://www.simac-ids.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网新闻",
-   "claim": "被 TimeEdit 收购",
-   "quote": "Vandaag is bekend gemaakt dat Simac IDS is verkocht aan het Zweedse bedrijf TimeEdit. Het betreft alle activiteiten van Simac IDS, zowel in Nederland als in het Verenigd Koninkrijk.",
-   "url": "https://www.simac.com/en/simac-techniek/nieuws/simac-ids-verkocht-aan-timeedit",
-   "date": "2026-03-12"
-  },
-  {
-   "kind": "LinkedIn",
-   "claim": "规模与方向",
-   "quote": "SIMAC IDS … Bedrijfsgrootte: 11 - 50 medewerkers Hoofdkantoor: Veldhoven … Specialismen: Learner Analytics, Learning Analytics, Engagement Monitoring, Attendance Monitoring, RFID en Access Control",
-   "url": "https://nl.linkedin.com/company/simac-ids",
+   "kind": "官网快照",
+   "claim": "业务：防雷接地、消防报警、监控、网络设计安装、PABX、BMS；EGC Lebanon；型号 KX-TDA100D（松下 PABX）、J-NET-EN54 网络卡",
+   "quote": "Lightning, protection, safety, Security… EGC Lebanon… NETWORK DESIGN AND INSTALLATION… SURVEILLANCE AND SECURITY SYSTEMS… FIRE ALARM SYSTEMS… KX-TDA100D… J-NET-EN54-SC-260",
+   "url": "https://egc-lb.com/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "需求 5 口工业小尺寸；WhatsApp 已加；6 次跟进 0 回复",
-   "quote": "需要小尺寸的交换机 5口工业级的",
+   "claim": "谈了 switch，着重问 30 个 switch 环网；问 VC（之前用过，基本视频和数据）；问 2 光 10 电、BNC 转网，基本都懂",
+   "quote": "兴趣：1,谈了switch,着重问了30个switch环网 2，问了VC… 3，问了2光10电，基本都懂，问了BNC转网",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
- "kp": [],
- "grade_override": "C",
- "override_reason": "行业外：学生出勤/参与度云软件与 RFID 门禁方案商（17 人），2026-03 整体售予瑞典教育软件公司 TimeEdit；母公司 Simac Techniek 1,300 人——既非交换机渠道亦非可赢规模",
+ "kp": [
+  {
+   "name": "Mohammad Hammoud",
+   "title": "General Manager",
+   "email": "egc@egc-lb.com",
+   "phone": "+961 3 317 173",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网核对 → 行业外降 C）"
+  "level": "B 级加厚 v1（官网快照核对 + country_fix 黎巴嫩）"
  },
  "company_facts": {
-  "legal_name": "Simac IDS B.V.（KvK 57423016）",
-  "hq": "De Run 1101, 5503 LB Veldhoven, Nederland（+31 40 258 2110；info@simac-ids.com）",
-  "size": "17 人（magnet.me）/ 11–50（LinkedIn）；母公司 Simac Techniek NV 1,309 人",
-  "other": "2026-03 售予 TimeEdit（瑞典）；ISO 27001 范围：门禁与学生登记 ICT 方案"
+  "legal_name": "Engineering Group Contractors (EGC)",
+  "founded": "（待核）",
+  "hq": "Lebanon（电话 +961 3）",
+  "size": "中小型承包商",
+  "other": "消防 / 防雷 / 弱电多线；表内国家误为阿联酋"
  },
  "business_lines": [
-  "学生参与度/出勤监测云软件（Presto）",
-  "RFID 门禁与访客登记方案"
+  "消防报警 / 应急照明（守界：消防系统本身不供，网络配套可）",
+  "防雷接地",
+  "监控 / 网络设计安装 / PABX / BMS"
  ],
  "channels": {
-  "网站": "https://www.simac-ids.com/",
-  "电话": "+31 40 258 2110"
+  "role": "弱电总包 / 集成商",
+  "region": "黎巴嫩"
  },
  "signals": [
-  "曾需要 5 口小型工业交换机（门禁读卡器柜）——一次性小量"
+  "具体项目：30 台交换机环网（ERPS 工业管理机）",
+  "懂 VC / BNC 转网 → 老旧同轴改造场景（Saga 无 BNC 转网，缺口）"
  ],
  "risks": [
-  "行业外 → C；公司被收购、采购归属变化"
+  "黎巴嫩：外汇 / 银行危机 → 仅 T/T 预付或第三国付款",
+  "消防 / 生命安全系统守界（只供网络层）",
+  "WA 19 次无回复"
  ],
  "saga_fit": {
-  "p1": "STI-050GE",
+  "p1": "STI-288GPM",
   "tier": 25,
-  "why": "（不推进）如回复：STI-050GE（DIN 迷你 5 GE 非管理，DC 12–36 V，$17.8）满足其 5 口工业小尺寸需求"
+  "why": "30 节点环网 → 工业管理 ERPS 机 STI-288GPM（$82.2 @25%）；2 光 10 电 ≈ STI-288GPM / 商用 STC-28DGGPM；BNC 转网不供。"
  },
- "email_hook": "（不主动发送）"
+ "email_hook": "Mr. Hammoud, for the 30-switch ring you described — our managed industrial 8-PoE + 2-SFP runs ERPS (<50 ms) and is $82 EXW each at 1 pc; payment T/T in advance via any bank you can use. Is the ring for cameras or a mixed data site?",
+ "country_fix": "黎巴嫩",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 22 封 2024→2026，无记录打开，0 回；收件 egc@egc-lb.com；主题多为「10G L3 Managed Switch、24 Port PoE Managed Switch」；Elsa 箱：`to:egc-lb.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 22 / 来 0）（第 74 批(n)））",
+   "type": "—",
+   "sieve": "1（只收到群发）",
+   "stop": "22 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句；WhatsApp 已加 → 唤醒走 WhatsApp 一句话，不走邮件",
+   "lane": "黎巴嫩 非主攻",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 22；用户表：「兴趣：1,谈了switch,着重问了30个switch环网 2，问了VC… 3，问了2光10电，基本都懂，问了BNC转网」；研究档 risks：黎巴嫩：外汇 / 银行危机 → 仅 T/T 预付或第三国付款"
+  },
+  "situation": "黎巴嫩（+961 3）弱电 / 电气承包商：防雷接地、消防报警（EN54 网络卡）、监控安防、网络设计安装、PABX、智能家居 / BMS、自动门、应急照明；GM Mohammad Hammoud 谈过 30 台交换机环网、VC（视频 / 数据光端机）、2 光 10 电、BNC 转网，「基本都懂」；WA 19 次无实质回复。表内国家为阿联酋，域名 / 电话指向黎巴嫩（country_fix 黎巴嫩）。",
+  "need": "30 节点环网 → 工业管理 ERPS 机 STI-288GPM（$82.2 @25%）；2 光 10 电 ≈ STI-288GPM / 商用 STC-28DGGPM；BNC 转网不供。",
+  "breakpoint": "黎巴嫩：外汇 / 银行危机 → 仅 T/T 预付或第三国付款",
+  "saga_now": {
+   "p1": "STI-288GPM",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-02 $65（10G media converter）；群发里他已看到的价（续）：2026-07-23 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-05-27 $300（48 Port PoE Managed Switch）、2026-04-28 $280（10G Enterprise SFP Switch）",
+   "why": "30 节点环网 → 工业管理 ERPS 机 STI-288GPM（$82.2 @25%）；2 光 10 电 ≈ STI-288GPM / 商用 STC-28DGGPM；BNC 转网不供。",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1（换人后）",
+   "channel": "A 邮箱 → 具名 KP",
+   "action": "换收件人再发一封（第 75 批(aj) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；钩子「ERPS <50 ms」不写——只写 ring redundancy，环网用 STI-288DGGPM；2 光 10 电明说无；VC/BNC 不供）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
+   "one_question": "Mr. Hammoud, for the 30-switch ring you described — our managed industrial 8-PoE + 2-SFP runs ERPS (<50 ms) and is $82 EXW each at 1 pc; payment T/T in advance via any bank you can use. Is the ring for cameras or a mixed data site?"
+  },
+  "facts": [
+   {
+    "date": "2026-09-29",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "10G L3 Managed Switch、24 Port PoE Managed Switch",
+    "why": "22 封 / 0 次打开 / 0 回｜首封 2024-07-05 → 末封 2026-09-29（22 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：1,谈了switch,着重问了30个switch环网 2，问了VC… 3，问了2光10电，基本都懂，问了BNC转网",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+  ],
+  "draft_en": {
+   "subject": "The 30-switch ring you described - the right unit, and what we do not carry",
+   "body": "Dear Mr. Hammoud,\n\nWe talked about a ring of about 30 switches, video-over-fibre, a 2-fibre + 10-copper unit and BNC-to-Ethernet; the mails you had since were general product mails. Here is the specific answer. For the ring: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, L2+ managed with ring redundancy, Marvell-based, -40 to 75 C, CE/RoHS - model STI-288DGGPM - $137.5 USD EXW (MOQ 1, 15-day validity); without ring, L2 managed - STI-288GPM - $82.2. The 2-fibre + 10-copper layout we do not have as a standard model - the nearest is 8 + 2. Video-over-fibre converters and BNC-to-Ethernet we do not carry. Payment T/T in advance through any bank you can use.\n\nOne question: is the ring for cameras only, or a mixed data site - that decides whether the PoE version is needed on every node?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+  },
+  "as_of": "2026-10-24"
+ }
 }

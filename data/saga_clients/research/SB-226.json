@@ -1,122 +1,154 @@
 {
- "code": "SB-226",
- "name_official": "Lanmus Networks（休斯顿）",
- "researched_at": "2026-10-21",
- "website_status": "在线（lanmus.com，快照 2026-10-21）",
- "summary": "美国休斯顿（+1 281 995 9001）交换机品牌 / 经销（管理、非管理、工业、企业级；switch 719 / industrial 353 / cctv 45 / integrator 21），表内「商业 FS 似乎用的长飞的；质量不错」；群发 5 次无回复。自有品牌 → OEM 30%。",
- "type": "",
- "size": "",
- "brands_seen": [
-  "Lanmus（自有）",
-  "长飞（YOFC）"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "管理 / 非管理 / 工业 / 企业级交换机品牌；+1 (281) 995-9001",
-   "quote": "Lanmus Networks offers a wide range of networking switches, including managed, unmanaged, industrial, and enterprise-level solutions.",
-   "url": "https://lanmus.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "商业 FS 似乎用的长飞的；质量不错",
-   "quote": "兴趣：商业FS 似乎用的长飞的",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "（销售）",
-   "title": "Sales",
-   "email": "sales@lanmus.com",
-   "phone": "+1 281 995 9001",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照核对 + 表内）"
- },
- "company_facts": {
-  "legal_name": "Lanmus Networks（待核）",
-  "founded": "",
-  "hq": "Houston, TX, USA",
-  "size": "小型品牌商（贴牌）",
-  "other": "商用 FS 疑由中国同行代工"
- },
- "business_lines": [
-  "交换机品牌（贴牌采购）"
- ],
- "channels": {
-  "role": "品牌商（OEM 采购）",
-  "region": "美国"
- },
- "signals": [
-  "自有品牌全线贴牌 → 可替换 / 补充供应商"
- ],
- "risks": [
-  "美国：零售 / 项目常要求 UL 列名（Saga 无 UL，仅 FCC/CE）→ 首触即说明",
-  "5 次群发无回复；无具名"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 30,
-  "why": "Lanmus 商用管理 PoE 线 → STC-28DGGPM（$87.4 @30%，Marvell）贴牌；工业 STI-288GPM。"
- },
- "email_hook": "For the Lanmus managed PoE line — Marvell L2+ 8/24-PoE and DIN industrial units under your label from small lots (FCC/CE); who handles sourcing so I can send the OEM sheet and a sample?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A 邮箱 16 封 2025→2026，无记录打开，0 回；收件 info@lanmus.com；主题多为「Managed Optical Bypass Switch、10G Enterprise SFP Switch」；Elsa 箱：`to:lanmus.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 16 / 来 0）（第 74 批(h)））",
-   "type": "—",
-   "sieve": "1（只收到群发）",
-   "stop": "只打通用邮箱，无记录打开",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "US 主攻（四主）",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 16；用户表：「兴趣：商业FS 似乎用的长飞的」；研究档 risks：美国：零售 / 项目常要求 UL 列名（Saga 无 UL，仅 FCC/CE）→ 首触即说明"
-  },
-  "situation": "美国休斯顿（+1 281 995 9001）交换机品牌 / 经销（管理、非管理、工业、企业级；switch 719 / industrial 353 / cctv 45 / integrator 21），表内「商业 FS 似乎用的长飞的；质量不错」；群发 5 次无回复。自有品牌 → OEM 30%。",
-  "need": "Lanmus 商用管理 PoE 线 → STC-28DGGPM（$87.4 @30%，Marvell）贴牌；工业 STI-288GPM。",
-  "breakpoint": "美国：零售 / 项目常要求 UL 列名（Saga 无 UL，仅 FCC/CE）→ 首触即说明",
-  "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 30,
-   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-13 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-07-17 $300（48 Port PoE Managed Switch）、2025-10-21 $280（10G Enterprise SFP Switch）",
-   "why": "Lanmus 商用管理 PoE 线 → STC-28DGGPM（$87.4 @30%，Marvell）贴牌；工业 STI-288GPM。",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开",
-   "one_question": "For the Lanmus managed PoE line — Marvell L2+ 8/24-PoE and DIN industrial units under your label from small lots (FCC/CE); who handles sourcing so I can send the OEM sheet and a sample?"
-  },
-  "facts": [
-   {
-    "date": "2026-09-09",
-    "dir": "去",
-    "who": "A 群发",
-    "quote": "Managed Optical Bypass Switch、10G Enterprise SFP Switch",
-    "why": "16 封 / 0 次打开 / 0 回｜首封 2025-07-17 → 末封 2026-09-09（16 去 / 0 来）",
-    "k": "gmail_digest"
-   },
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "兴趣：商业FS 似乎用的长飞的",
-    "why": "表内备注",
-    "k": "用户表"
-   }
+  "code": "SB-226",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（hcin4.com，快照 2026-10-21）",
+  "summary": "韩国 HANCHANG Infotech（hcin4.com / rfoint.com；表内「Volktek 的；会英文 PoE switch；自己的 logo 主要是商业 FS，别人在卖他们家的」；KP Peter Youn（Director，070-4306-9494 / 82-10-5336-2982）、Park）；表内 2 次跟进无回复。",
+  "type": "韩国网络品牌商（自有标商用 FS，现 Volktek）",
+  "size": "",
+  "brands_seen": [
+    "Volktek"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：hcin4.com",
+      "quote": "",
+      "url": "https://hcin4.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "Volktek的；会英文 POE switch；自己的logo 主要是商业FS 别人在卖他们家的；会英文 POE switch / attn: Peter Youn | telephone: 070-4306-9494 | mobile.: 82-10-5336-2982 | fax.: 82-2-714-9495",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "Volktek 的；自己的 logo 商业 FS",
+      "quote": "Volktek的 / 会英文 POE switch / 自己的logo 主要是商业FS 别人在卖他们家的；attn: Peter Youn",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [
+    {
+      "name": "Peter Youn",
+      "title": "Director",
+      "email": "jryoun74@hcin4.com",
+      "phone": "",
+      "source": "用户表"
+    },
+    {
+      "name": "Park",
+      "title": "（姓名/职务待核）",
+      "email": "parkhj4003@hcin4.com",
+      "phone": "",
+      "source": "用户表"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "韩国",
+    "other": "官网 hcin4.com，语言 ?，快照状态 ok；角色判定来源：用户表"
+  },
+  "business_lines": [
+    "网络产品（自有品牌，Volktek 供货）"
+  ],
+  "channels": {
+    "role": "韩国网络品牌商（自有标商用 FS，现 Volktek）",
+    "region": "韩国",
+    "contact": "jryoun74@hcin4.com、parkhj4003@hcin4.com"
+  },
+  "signals": [
+    "表内：Volktek 的 / 会英文 PoE switch / 自己的 logo 主要是商业 FS 别人在卖他们家的；attn: Peter Youn | telephone: 070-4306-9494 | mobile: 82-10-5336-2982",
+    "快照：hcin4.com 内容为空"
+  ],
+  "risks": [
+    "现供 Volktek（台湾，品质基准高）：需以价格/交期差异化；非主攻区（T5，韩国）",
+    "官网快照空；2 次跟进无回复 → 改向 Director 具名首触（邮件中有详细联系信息）"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 30,
+    "why": "自有 logo 商用 FS（现 Volktek 台湾）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）作二供；24 口 STC-424DGGPM-280W（$145.7）"
+  },
+  "email_hook": "Peter, for the PoE switches you sell under your own label, we can be a second source alongside your Taiwanese supplier — Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ models in your packaging from small lots, CE/RoHS; KC by your side — which model do your resellers reorder most?",
+  "mail_review": {
+    "binding": {
+      "level": "轻度触达（2 封：2025-02 要数据表 + 网站；2026-01-16「please give about price」对 CENTEC 核心 → Alan「still working on new prices for 2026」→ 之后只发链接，未补价）；Elsa 1:1 去信 1 封（2025-02-24「16 Port Ethernet Switch」；To 仅本户 jryoun74@hcin4.com；Bcc 未逐封读头；同类名单抽读 24 封均无 Bcc；此后再未进 Elsa 任何名单——全箱 `from:e.sagatelecom to:jryoun74@hcin4.com` 仅此 1 条，complete）（第 74 批(m)）",
+      "type": "韩国网络品牌商（Hanchang Infotech；自有标商用 FS，现 Volktek；Peter/Park）——第一档品牌商",
+      "sieve": "2（两次要资料/价格）",
+      "stop": "Saga 欠价：CENTEC 2026Q2 价表在库（U29）",
+      "revive": "补发 Q2 价表",
+      "lane": "KR 次级（点名）",
+      "cadence": "一封",
+      "evidence": "k=8b775668d592d1fe / edd3336a251448b6 / eae2ff437c2f5e46；第 19 批回补来信原文 1 条（gmail_s/gmail_a）"
+    },
+    "situation": "—",
+    "need": "CENTEC 核心/汇聚 + 商用 FS 贴标。",
+    "breakpoint": "Saga 未补价。",
+    "saga_now": {
+      "p1": "STH 系列 + STC-424XGGPM",
+      "tier": 30,
+      "price": "2026Q2 CENTEC 价表（仓库 data/extra_info_2026-10 …390ae5ed.json，xlrd 32 行）只有 3 行有价：STH-32C-HSI $6,000 / STH-2C6QX-HSI $1,200 / STH-8C48DX-HSI $4,800；STH-2C12XF12XE / 2C24XE / 2C24XF / 14C4DX / 4C48DX / 8C24DX 与整段 STH10G 为空行 → 对 10G 汇聚的报价仓库无价，Alan 2026-02「still finalizing」对 10G 系列并非过时；接入款 STC-424XGGPM-280W 按主表 Saga 列表价 $198（@6.69，2026-10-17）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-24 $65（10G fiber media converter）、2024-11-25 $300（48 Port PoE Managed Switch）、2024-12-24 $240（24 Port Fiber Switch）；**第 63 批基准统一（规则 ㉕）**：STC-424XGGPM-280W 由列表价 $198 改为群发现价 $180；他 2024 收过 $300 / $240 群发，48 口与汇聚款别高于那两个数无解释；群发里他已看到的价（续）：2026-07-23 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-26 $280（10G Enterprise SFP Switch）",
+      "why": "品牌商 + 主动要价。已打开的主题（4/42 封有打开记录）：「24 Port Fiber Switch」(2025-02-04)、「Optional Marvell Chipset Solutions」(2025-12-08)、「Re: OEM Core Switching Solution」(2026-01-19)、「Industrial PoE Switch」(2026-04-23) → 读者兴趣偏「MC/光电」；与 P1 同类，继续｜已发资料（勿重发）：Saga Software Function List_7.3, 7.4, (2025-10-22)、Performance of PeakNetX Platform_EN_V3(2026-01-19)、STH25G Series(2026-01-19)、Saga Software Function List_EN_V2.4(2026-01-19)、Product Link_2026Q2(2026-02-17)、Saga Feature List_7.5.x_L2+(2026-06-30)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "现在",
+      "channel": "A 邮箱 → jryoun74@hcin4.com",
+      "action": "首封前知悉：Elsa 仅 2025-02-24 单发过 1 封「16 Port Ethernet Switch」，之后没再碰他（第 74 批(m)）；补价",
+      "one_question": "Peter — CENTEC 32C $6,000 / 2C6QX $1,200 / 8C48DX $4,800 EXW (2026 Q2) and the 24-port 10G-uplink access at $198 EXW; is the first project 10G/25G aggregation or 100G core?"
+    },
+    "facts": [
+      {
+        "date": "2025-02-04",
+        "dir": "来",
+        "who": "jryoun74@hcin4.com",
+        "quote": "﻿thank you for infromations... please attach datasheet and website... thank you! ---------- Original message ---------- From: \"Alan from Saga Telecom\"",
+        "why": "来信原文（主题「RE: 24 Port Fiber Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+        "k": "8b775668d592d1fe"
+      },
+      {
+        "date": "2025-02-24",
+        "dir": "out",
+        "who": "Elsa → jryoun74@hcin4.com",
+        "quote": "16 Port Ethernet Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+        "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
+        "k": "elsa_1to1",
+        "msg_id": "1953593488087ef5"
+      },
+      {
+        "date": "2026-01-16",
+        "dir": "来",
+        "who": "Peter (jryoun74)",
+        "quote": "thank you for informations~ please give about price~",
+        "why": "要价",
+        "k": "edd3336a251448b6"
+      },
+      {
+        "date": "2026-01-19",
+        "dir": "去",
+        "who": "Saga（Alan）",
+        "quote": "Hi, Peter, Thanks for your interest. 1, we are still working on the new prices for 2026. I will let you know when ready. 2, please see attached files to know about our software features. Btw, is there any specific specification you need?…",
+        "why": "Saga 实质答复原文（主题「Re: OEM Core Switching Solution」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
+        "k": "eae2ff437c2f5e46"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": {
+      "subject": "Price for CENTEC core/aggregation + 24-port access",
+      "body": "Hi, Peter,\n\nYou asked for prices in January and we did not come back properly — sorry for that.\n\nCENTEC core/aggregation (L3, VXLAN/EVPN, MPLS, MLAG; MA license pre-installed; hot-swap PSU):\n- STH-32C-HSI, 32x100G — $6,000 USD EXW\n- STH-2C6QX-HSI, 6x40G + 2x100G, half-width — $1,200 USD EXW\n- STH-8C48DX-HSI, 48x25G + 8x100G — $4,800 USD EXW\n(2026 Q2 list; valid 15 days from this mail.)\n\nFor the Volktek-class access range you sell: 24x1G + 4x10G SFP+ L2+ managed, PoE 280W — $180 USD EXW (the $170 in our summer mail was the previous batch), OEM label/GUI possible from 50 pcs (price per 2026-10 table, valid 15 days).\n\nOne question: is the first project a 10G/25G aggregation box or a 100G core?\n\nThank you.\nAlan\nSaga Telecom - sagatele.com"
+    },
+    "as_of": "2026-10-24"
+  }
 }

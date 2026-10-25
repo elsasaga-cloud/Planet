@@ -1,0 +1,59 @@
+{
+ "code": "SC-028",
+ "name_official": "IES El Palau（公立中学，Sant Andreu de la Barca, Barcelona, ES；institutelpalau.com · xtec.cat）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线",
+ "summary": "西班牙巴塞罗那省 Sant Andreu de la Barca 的公立中学 Institut El Palau（CIF Q5856208C；加泰罗尼亚教育部 xtec.cat 域）。阿里巴巴 RFQ：Jose J. Vargas（教师/IT 负责人，jvargas420@institutelpalau.com）询 10G 光模块；WhatsApp 已加；无跟进。→ C 行业外/公共部门（资料保留）。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "公立中学身份（CIF Q 开头 = 公共机构）与 RFQ 内容",
+   "quote": "IES El Palau Q5856208C / xtec.cat, institutelpalau.com / 10G光模块 / from: 阿里巴巴RFQ",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Jose J. Vargas",
+   "role": "（校内 IT/教师；用户表）",
+   "email": "jvargas420@institutelpalau.com（用户表）",
+   "phone": "—",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": "C",
+ "override_reason": "行业外/公共部门：加泰罗尼亚公立中学（CIF Q5856208C，xtec.cat 教育网域），阿里 RFQ 为 10G 光模块的学校自购；非渠道客户且公立机构采购走政府平台（守界：公共部门）",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（身份判断 → 行业外/公共部门降 C）"
+ },
+ "company_facts": {
+  "legal_name": "Institut El Palau（Generalitat de Catalunya 公立中学，CIF Q5856208C）",
+  "hq": "Sant Andreu de la Barca, Barcelona, Spain",
+  "size": "公立学校",
+  "other": "教育网域 xtec.cat"
+ },
+ "business_lines": [
+  "公立中等教育"
+ ],
+ "channels": {
+  "网站": "https://institutelpalau.com/（用户表域名）"
+ },
+ "signals": [
+  "10G 光模块零星自购 → 非渠道"
+ ],
+ "risks": [
+  "公共部门 + 行业外 → C"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 25,
+  "why": "不推进"
+ },
+ "email_hook": "（不主动发送）"
+}

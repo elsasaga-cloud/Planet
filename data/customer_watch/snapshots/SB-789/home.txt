@@ -1,214 +1,292 @@
-# SB-789 Aptvel global technologies · home · https://aptvelglobal.com/ · fetched 2026-10-25T07:41:18Z · HTTP 200
-Home - Aptvel Global
-Cancel Loader
-When we go to the office every day, we carry on a time-honored tradition of getting to know our clients on a first-name basis, and personally meeting their insurance needs.
-374 William S Canning Blvd, Fall River MA Road 2721, USA
-(+009)155-69566
-support@company.com
-Contact Us
-374 William S Canning Blvd, Fall River MA Road 2721, USA
-(+009)155-69566
-support@company.com
-info@aptvelglobal.com
-+971 48 824 871
-Dubai, UAE
-X-twitter
-Linkedin-in
-Facebook-f
-Home
-Services
-Audio Visual ICT Solution
-Automation & Security
-Digital Media Creations
-Custom Software Development
-Home Cinemas
-Contact
-Let’s Talk
-Home
-Services
-Audio Visual ICT Solution
-Automation & Security
-Digital Media Creations
-Custom Software Development
-Home Cinemas
-Contact
-Search for:
-Let’s Talk
-Smart IT solutions
-Experience Innovation
-Elevate Possibilities
-We blend innovation with technology to create seamless, immersive experiences. From concept to execution, we transform ideas into reality with precision and creativity.
-Get Started
-ASSESS ASSIST ACHIEVE
-Audio visual ICT Solution
-Automation & Security
-Custom Software Development
-Digital Media Creation
-Home Cinemas
-00
-k+
-Total Clients
-1.3% Up from past week
-About company
-Experience Innovation Elevate Possibilities
-We are a team of passionate and skilled professionals with a shared vision of transforming the way industries operate and people learn.
-Established in 2021, we have rapidly grown to become a leading player in the technology sector, empowering businesses, educational institutions, and communities with innovative solutions widespread in multiple countries.
-Customer Centric
-Seamless Integration
-Excellence-Driven
-Innovation
-Sustainable
-Integrity
-Contact Us
-Call Us Now
-971 48 824 871
-Play Intro Video - Play Intro Video -
-Our services
-Revolutionizing Ideas with Impactful Solutions
-Audio - Visual
-ICT Solution
-Expert AV and ICT solutions, from video
-conferencing to audio and digital signage,
-crafted for seamless, high-quality
-experiences.
-Read More
-Automation & Security
-Comprehensive automation and security
-solutions, including OT security services,
-assessments, and products, ensuring safety
-and efficiency
-Read More
-Custom Software Development
-Tailored software solutions to boost efficiency,
-from enterprise tools to educational software
-and IoT integration, meeting the unique needs
-of businesses and institutions.
-Read More
-Digital Media Creation
-Where creativity meets technology, delivering
-captivating visuals, immersive soundscapes,
-and innovative 3D content, driving digital
-transformation with excellence
-Read More
-Home cinemas
-Transform your space with state-of-the-art
-home cinema solutions, custom design, cutting-
-edge technology, and attention to detail for an
-extraordinary cinematic experience
-Read More
-Meet With Team
-Our Core Team
-Our expert team combines diverse skills and innovation to deliver exceptional solutions
-Farooq Abdulrahman, Abdulla Ayoun
-Chairman
-Murali Krishnan
-Cheif Operating Officer
-Muwaffaq Usman
-Technical Manager
-Shebin Ali
-Regional Manager - MENA
-Paul Roberts
-Marketing manager
-Alexandra Stan
-Sr. Consultant
-Success Story
-Igniting Change, Inspiring the Future
-0
-+
-Years of
-Experience
-0
-+
-Years of
-Innovation
-0
-+
-Branch
-Locations
-00
-+
-Clients &
-Partners
-400+ Reviews
-1500+ Reviews
-650+ Reviews
-2000+ Reviews
-our technologies
-Empowering Brands with Technology
-Why Choose Us
-Our Commitment to
-Excellence
-Through innovation and leadership, we're building a brighter, sustainable tomorrow
-5+ Years of Smart & Reliable Solutions
-Aptvel Global specializes in electrical, automation, and IoT solutions to enhance efficiency, security, and sustainability across industries.
-Industry Expertise
-With 5+ years of innovation, we deliver cutting edge energy automation and OT security solutions for seamless operations.
-Trust & Reliability
-From EV charging to building automation and water treatment, we offer scalable, future-ready solutions for businesses.
-Portfolios
-Our Prominent Projects
-ADNOC
-Anamorphic Video for UAE Flag Day
-Al Dhannah ADNOC
-Implementation of AV system in ADNOC Al Dhannah City Auditorium and MPH
-ADNOC
-DigitalLED Screens Comprehensive Maintanance and Support
-ADNOC
-Supply and Installation of Audio-visual System at ADNOC HQ GF Walkway
-Al Wasl Footbal Club
-Al Wasl Stadium Outdoor Score Board LED
-Empower Energy Solution
-Implementation of OT Network Security System
-Abu Dhabi Investment Council
-Energy Management System Field Hardware Replacement Service
-Testimonial
-What Saying Our Customers
-Working with Techtlk has been a game-changer for our business. Their team of experts delivered a custom software solution.
-Abdur Rashid
-Founder & CEO
-Techtlk provided us with innovative solutions that transformed our operations. Their attention to detail & unique requirements set them apart.
-Alen Walker
-Manager
-From the initial consultation to the final delivery, Techio demonstrated provided regular updates throughout professional and reliability partnership.
-Brish Jhonson
-Web Developer
-The team at Techio is highly skilled and responsive. They took the time to understand our business needs and delivered a solution.
-Marry Jaen
-Web Designer
-What expertise we have
-Industry Expertise
-Leveraging extensive industry expertise, we provide innovative solutions that enhance growth, efficiency, and success. Our deep understanding of market trends enables us to deliver tailored strategies that meet the unique needs of each client, ensuring lasting impact and value.
-OIL & GAS
-ENERGY MANAGEMENT
-EDUCATION
-FINANCIAL SERVICES
-HEALTHCARE
-LOGISTICS
-MEDIA & ENTERTAINMENT
-AUTOMOTIVE
-Begin Your Project Journey Today
-Call Us Now
-+971 48 824 871
-Have Any Queries?
-Get in Touch With Us
-Connect with us to discuss your project. We’re here to provide expert solutions
-Email
-sales@aptvelglobal.com
-Phone:
-+971 48 824 871
-+971 50 839 4997
-HEADQUARTERS ADDRESS:
-204, Building 3
-Arenco Offices, DIP 1
-Dubai, United Arab Emirates
-Send a Message
-Provide world wide survival strategies to ensure proactive domination at the day fueling digital transformation.
-Services
-Audio Visual Solutions
-Automation & Security
-Custom Software Devlopment
-Digital Media Creations
-Home Cinemas
-Connect with us
-Social Share:
-Copyright © 2024 Aptvel Global Information Technologies L.L.C
+# SB-789 visarcctv.com · home · https://www.visarcctv.com/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+Prekes viSar
+.content>span>a').attr('href','/prekes/'+$(this).val().replace(/[+]/g,'-').replace(/[\/]/g,'_'));clearTimeout(search_timer);search_timer=setTimeout(search,1000,'/prekes/'+$(this).val().replace(/[+]/g,'-').replace(/[\/]/g,'_'),$(this).parent().find('.select'))" onfocus="$(this).parent().find('.select>.content>span>a').attr('href','/prekes/'+$(this).val().replace(/[+]/g,'-').replace(/[\/]/g,'_'));clearTimeout(search_timer);search_timer=setTimeout(search,1000,'/prekes/'+$(this).val().replace(/[+]/g,'-').replace(/[\/]/g,'_'),$(this).parent().find('.select'))" maxlength=100 />
+Show all results
+lietuvių
+english
+Registracija Prisijungti My Account
+Registracija
+Prisijungti
+.content>span>a').attr('href','/prekes/'+$(this).val().replace(/[+]/g,'-').replace(/[\/]/g,'_'));clearTimeout(search_timer);search_timer=setTimeout(search,1000,'/prekes/'+$(this).val().replace(/[+]/g,'-').replace(/[\/]/g,'_'),$(this).parent().find('.select'))" onfocus="$(this).parent().find('.select>.content>span>a').attr('href','/prekes/'+$(this).val().replace(/[+]/g,'-').replace(/[\/]/g,'_'));clearTimeout(search_timer);search_timer=setTimeout(search,1000,'/prekes/'+$(this).val().replace(/[+]/g,'-').replace(/[\/]/g,'_'),$(this).parent().find('.select'))" maxlength=100 />
+Show all results
+Nauji Produktai
+IP Vaizdo Stebėjimo Sistemos
+HD Vaizdo Stebėjimo Sistemos
+Tinklo Komutatoriai
+Priedai
+Pagalba
+IP Vaizdo Stebėjimo Sistemos IP Kameros Tinkliniai Įrašymo Įrenginiai (NVR) Įeigos Kontrolė
+HD Vaizdo Stebėjimo Sistemos HD Kameros HD Vaizdo Įrašymo Įrenginiai (AHD)
+Tinklo Komutatoriai Komutatoriai POE Tinklo Komutatoriai Pramoniniai POE Tinklo Komutatoriai Priedai
+Priedai Kietieji Diskai Laikikliai, Komutacinės Dėžutės Kabeliai Klaviatūros, Valdymo Svirtys Monitoriai
+Pagalba Parsisiųsti Atitikties deklaracija
+Specialūs pasiūlymai
+VSC IPT8PNDe3b-ALD - IP vaizdo kamera 8MP, Panoraminė, Dual light iki 30m, Obj. klas. funkcija, Garso ir šviesos perspėjimas, P2P, Juoda
+VSC-IPT8PNDE3B-ALD 326 .70 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSC IPT8PNDe3b-AL - IP vaizdo kamera 8MP, Panoraminė, Dual light iki 30m, Obj. klas. funkcija, Garso ir šviesos perspėjimas, P2P
+VSC-IPT8PNDE3B-AL 326 .70 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSC IPT6LR, IP vaizdo kamera 6MP, 7-22mm, IR100, Objektų klasifikavimo funkcija, AI
+VSC-IPT6LR 353 .32 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+Nauji produktai
+Rodyti viska
+VSI ME1104WD, Pasikalbėjimo sistemos mini monitorius
+VSI-ME1104WD 168 .19 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSW KIT0404W1 WiFi vaizdo sistemos komplektas, 4CH WiFi NVR ir 4 vnt. 4MP 2.8mm WiFi IP kameros
+VSW-KIT0404W1 360 .58 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSW KIT0804W1 WiFi vaizdo sistemos komplektas, 8CH WiFi NVR ir 4 vnt. 4MP 2.8mm WiFi IP kameros
+VSW-KIT0804W1 384 .78 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSS W04POE2 4*FE PoE+2*FE PoE komutatorius
+VSS-W04POE2 50 .58 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSS W08POE2G 8*FE+2GE PoE komutatorius
+VSS-W08POE2G 107 .69 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSS W08POE2 8*FE+2FE PoE komutatorius
+VSS-W08POE2 71 .39 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSI MA108S1 IP telefonspynė 2MP, 1-8 abonentų, LAN, Wifi, RFID
+VSI-MA108S1 239 .58 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSC-IPT4GDs4lF28D IP vaizdo kamera 4MP, 2.8mm, IR 30m, skaidrus gaubtas, Juoda
+VSC-IPT4GDs4lF28D 84 .70 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSC-IPT4GDs4lF28 IP vaizdo kamera 4MP, 2.8mm, IR 30m, skaidrus gaubtas
+VSC-IPT4GDs4lF28 84 .70 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSC IPT8PNDe3b-ALD - IP vaizdo kamera 8MP, Panoraminė, Dual light iki 30m, Obj. klas. funkcija, Garso ir šviesos perspėjimas, P2P, Juoda
+VSC-IPT8PNDE3B-ALD 326 .70 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSS W04POE1 4*FE PoE+1*FE PoE komutatorius
+VSS-W04POE1 54 .45 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSC IPT8VDs4cMZ vaizdo kamera 8MP, 2.8-12mm, Dual light iki 50m, objektų klasifikavimo funkcija AI
+VSC-IPT8VDS4CMZ 312 .18 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSC IPT8VDs4cMZD vaizdo kamera 8MP, 2.8-12mm, Dual light iki 50m, objektų klasifikavimo funkcija AI
+VSC-IPT8VDS4CMZD 312 .18 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSC IPT8BLs4cMZ IP vaizdo kamera 8MP, 2.8-12mm, Dual light iki 50m, Objektų klasifikavimo funkcija, P2
+VSC-IPT8BLs4cMZ 312 .18 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSC IPT8BLs4cMZD IP vaizdo kamera 8MP, 2.8-12mm, Dual light iki 50m, Objektų klasifikavimo funkcija, P2
+VSC-IPT8BLs4cMZD 312 .18 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSC IPT8BLs4cF28D IP vaizdo kamera 8MP, 2.8mm, Dual light iki 50m, Objektų klasifikavimo funkcija, P2
+VSC-IPT8BLs4cF28D 239 .58 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSC IPT8VDs4cF28D vaizdo kamera 8MP, 2.8mm, Dual light iki 30m, objektų klasifikavimo funkcija AI
+VSC-IPT8VDS4CF28D 239 .58 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSC IPT8PNDe3b-AL - IP vaizdo kamera 8MP, Panoraminė, Dual light iki 30m, Obj. klas. funkcija, Garso ir šviesos perspėjimas, P2P
+VSC-IPT8PNDE3B-AL 326 .70 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSC IPT8VDs4cF28 vaizdo kamera 8MP, 2.8mm, Dual light iki 30m, objektų klasifikavimo funkcija AI
+VSC-IPT8VDS4CF28 239 .58 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSI SE2223W Daugiaabonentinis domofonas
+VSI-SE2223W 457 .38 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSS W24POE3G 24*FE PoE+2*GE+1*GF PoE komutatorius
+VSS-W24POE3G 240 .79 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSS W16POE3G 16*FE+2*GE+1*GF PoE komutatorius
+VSS-W16POE3G 216 .59 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSS W08GPOE2 8*GE+2GE PoE komutatorius
+VSS-W08GPOE2 157 .30 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSS W04GPOE2 4*GE PoE+2*GE PoE komutatorius
+VSS-W04GPOE2 64 .13 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSS W08G 8 portų 10/100/1000Mbps Gigabitinis tinklo komutatorius
+VSS-W08G 37 .51 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSS W08 8 Portų 10/100Mbps Tinklo komutatorius
+VSS-W08 18 .51 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSS W05G 5 portų 10/100/1000Mbps Gigabitinis tinklo komutatorius
+VSS-W05G 22 .87 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSS W05 5 Portų 10/100Mbps Tinklo komutatorius
+VSS-W05 14 .40 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSC IPT6VDe4F28 (AI PRO) IP vaizdo kamera 6MP, 2.8mm, Dual light iki 30m, P2P
+VSC-IPT6VDe4F28 263 .78 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSC IPT6BLe4F28 (AI PRO) IP vaizdo kamera 6MP, 2.8mm, Dual light iki 50m, P2P
+VSC-IPT6BLe4F28 263 .78 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSC IPT4CWF21 IP vaizdo kamera 4MP, 2.1mm, IR10, Cube, P2P, WiFi
+VSC-IPT4CWF21 119 .79 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSTh IPT5VDe1vF4 IP Šiluminė kamera 5MP
+VSTh-IPT5VDe1vF4 868 .78 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSC IPT8BLs4cF28 IP vaizdo kamera 8MP, 2.8mm, Dual light iki 50m, Objektų klasifikavimo funkcija, P2
+VSC-IPT8BLs4cF28 239 .58 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSI ME2137WD Vaizdo telefonspynės monitorius Juodas
+VSI-ME2137WD 241 .98 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSTh IPT5BLe1vF4 IP Šiluminė kamera 5MP
+VSTh-IPT5BLe1vF4 868 .78 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSC IPT8SD32IR200 8MP Valdoma IP kamera, x32, IR200, AI funkcijos
+VSC-IPT8SD32IR200 1 398 .76 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSI DB1 Komutacinė dėžutė, stogelis skirtas VSI E3110
+VSI-DB1 11 .98 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSI ME2137W Vaizdo telefonspynės monitorius Baltas
+VSI-ME2137W 241 .98 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSM 65IND4K, Pramoninis 4K 65" LCD CCTV monitorius
+VSM-65IND4K 2 359 .50 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSI-E3110 Iškvietimo modulis
+VSI-E3110 191 .18 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+Populiarūs produktai
+Rodyti viska
+VSC-IPT4VD-BSF28 IP vaizdo kamera 4MP, 2.8mm, Dual Light iki 50m, LIght explorer
+VSC-IPT4VD-BSF28 181 .50 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSC-IPT4BL-BSF28 IP vaizdo kamera 4MP, 2.8mm, Dual Light iki 50m, LIght explorer
+VSC-IPT4BL-BSF28 181 .50 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSL ANPRbh2MZ, 2MP Automobilių numerių atpažinimo ANPR kamera su motorizuotu objektyvu
+VSL-ANPR2bhMZ 727 .21 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSC IPT6BLs4cMZD IP vaizdo kamera 6MP, 2.8-12mm, Dual light iki 50m, Objektų klasifikavimo funkc. P2P
+VSC-IPT6BLs4cMZD 220 .22 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSC IPT4BLs4cF28D IP vaizdo kamera 4MP, 2.8mm, Dual light iki 30m, Objektų klasifikavimo funkcija, P2P, Juoda
+VSC-IPT4BLs4cF28D 130 .68 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSC IPT4VDs4cF28D IP vaizdo kamera 4MP, 2.8mm, Dual light iki 50m, Objektų klasifikavimo funkcija, P2P, Juoda
+VSC-IPT4VDs4cF28D 130 .68 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSC IPT2VDs4cF28 IP vaizdo kamera 2MP, 2.8mm, Dual light iki 30m, Objektų klasifikavimo funkcija, P2P
+VSC-IPT2vds4cF28 84 .70 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSC IPT6VD-ALMZD IP vaizdo kamera 6MP, Motor zoom, Dual light iki 50m, Objektų klasifikavimo funkcija, šviesos ir garso perspėjimas, P2P, Juoda
+VSC-IPT6VD-ALMZD 234 .74 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSC IPT6VD-ALMZ IP vaizdo kamera 6MP, Motor zoom, Dual light iki 50m, Objektų klasifikavimo funkcija, šviesos ir garso perspėjimas, P2P
+VSC-IPT6VD-ALMZ 234 .74 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSC IPT6VDs4cMZD IP vaizdo kamera 6MP, Motor zoom, Dual Light iki 50m, Objektų klasifikavimo funkcija, P2P, Juoda
+VSC-IPT6VDs4cMZD 220 .22 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSC IPT6VDs4cMZ IP vaizdo kamera 6MP, Motor zoom, Dual Light iki 50m, Objektų klasifikavimo funkcija, P2P
+VSC-IPT6VDS4CMZ 220 .22 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSC IPT6BL-ALMZD IP Video Camera 6MP, Motor zoom, Dual light up to 40m, Object Classification, Light and Sound Alert, P2P, Black
+VSC-IPT6BL-ALMZD 234 .74 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSC IPT4VD-ALF28D IP vaizdo kamera 4MP, 2.8mm, Dual light, šviesos ir garso perspėjimas, Juoda
+VSC-IPT4VD-ALF28D 215 .38 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSC IPT4BL-ALF28D IP kamera 4 MP, 2,8 mm, dviguba šviesa, mirksinčios įspėjamosios lemputės, juoda
+VSC-IPT4BL-ALF28D 215 .38 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSC IPT6BL-ALMZ IP vaizdo kamera 6MP, Motor zoom, Dual light iki 40m, Objektų klasifikavimo funkcija, šviesos ir garso perspėjimas, P2P
+VSC-IPT6BL-ALMZ 234 .74 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSC IPT4BL-ALF28 IP vaizdo kamera 4MP, 2.8mm, Dual light, šviesos ir garso perspėjimas
+VSC-IPT4BL-ALF28 215 .38 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSC IPT4VD-ALF28 IP vaizdo kamera 4MP, 2.8mm, Dual light, šviesos ir garso perspėjimas
+VSC-IPT4VD-ALF28 215 .38 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSC IPT6BLs4cF28D IP vaizdo kamera 6MP, 2.8mm, Dual light 30m
+VSC-IPT6BLs4cF28D 166 .98 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSC IPT6BLs4cF28 IP vaizdo kamera 6MP, 2.8mm, Dual light 30m
+VSC-IPT6BLs4cF28 166 .98 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSC IPT2BLPF28 IP vaizdo kamera 2MP, 2.8mm, Dual light 20m, Plastikas
+VSC-IPT2BLPF28 62 .92 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSC IPT4VDs4cF28 IP vaizdo kamera 4MP, 2.8mm, Dual light iki 30m, Objektų klasifikavimo funkc., P2P
+VSC-IPT4VDs4cF28 130 .68 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSC IPT6BLs4cMZ IP vaizdo kamera 6MP, 2.8-12mm, Dual light iki 50m, Objektų klasifikavimo funkc. P2P
+VSC-IPT6BLs4cMZ 220 .22 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSC IPT4BLDLF28D IP vaizdo kamera 4MP, 2.8mm, Dual Light 30m, Black
+VSC-IPT4BLDLF28D 94 .38 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSC

@@ -1,0 +1,61 @@
+{
+ "code": "SC-207",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "快照失败（http_error）",
+ "summary": "台湾 Fiberbit（fiberbit.com.tw：MC/SFP/PoE 自有品牌，价格较高；表内「VC 的外壳和 Elink 的很像，可能是和深圳的合作」；官网 http_error）；群发 18 次无回复。",
+ "type": "台湾 MC/SFP 品牌商（同行）",
+ "size": "",
+ "brands_seen": [
+  "Elink"
+ ],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "VC（复杂)POE MC SFP 自己的牌子 价格较高",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "自己的牌子 价格较高；外壳像 Elink",
+   "quote": "VC（复杂)POE MC SFP 自己的牌子 价格较高；VC的外壳和Elink的很像 / 可能是和深圳的合作",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "同行/台湾厂商（自有品牌 MC/SFP），非渠道客户，18 次无回复；c_sub=同行/台湾厂商",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "台湾",
+  "other": "官网 fiberbit.com.tw，语言 ?，快照状态 http_error；角色判定来源：用户表"
+ },
+ "business_lines": [
+  "MC / SFP / PoE（自有品牌，台湾）"
+ ],
+ "channels": {
+  "role": "台湾 MC/SFP 品牌商（同行）",
+  "region": "台湾",
+  "contact": "info@fiberbit.com.tw"
+ },
+ "signals": [
+  "表内：VC（复杂）PoE MC SFP 自己的牌子 价格较高；VC 的外壳和 Elink 的很像 / 可能是和深圳的合作",
+  "快照：http_error"
+ ],
+ "risks": [
+  "同行/台湾厂商：Fiberbit 自有品牌 MC/SFP（可能已与深圳厂合作）；18 次无回复；官网 http_error"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 30,
+  "why": "台湾厂商（自有品牌 MC/SFP），非渠道客户；18 次无回复 → 改 C"
+ },
+ "email_hook": "（不发送：台湾厂商/同行）"
+}

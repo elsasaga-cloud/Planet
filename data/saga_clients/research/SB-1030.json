@@ -1,153 +1,125 @@
 {
- "code": "SB-1030",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（lanpro.com，快照 2026-10-21）",
- "summary": "LanPro（「Connect-and-Forget」：面向网络/电信集成商的组件供应商——铜缆系统、光纤、金属组件、无线、有源设备，定制制造；表内「PoE 配件 switch MC SFP 等」「可以尝试多跟进一下」；KP Trinidad Ledezma（Analista en Marketing Online）；联系邮箱为 gmail）；群发 10 次无回复。",
- "type": "网络组件品牌商（美国/拉美，自有品牌 LanPro）",
- "size": "",
- "brands_seen": [
-  "Ubiquiti"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：LanPro - Connect-and-Forget；品类词 数据中心 / 企业 IT / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
-   "quote": "LanPro® is a leading provider of components for the network and telecom integrator, covering all sectors of the industry, as copper systems, fiber optics, metallic assemblies, wireless systems and active products. All under one roof.",
-   "url": "https://www.lanpro.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "PoE配件 switch MC SFP等",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "LanPro 定位",
-   "quote": "LanPro - Connect-and-Forget ; LanPro® is a leading provider of components for the network and telecom integrator, covering all sectors of the industry, as copper systems, fiber optics, metallic assemblies, wireless systems",
-   "url": "https://www.lanpro.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "PoE 配件 switch MC SFP",
-   "quote": "PoE配件 switch MC SFP等；可以尝试多跟进一下",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Trinidad Ledezma",
-   "title": "Analista en Marketing Online",
-   "email": "asktolanpro@gmail.com",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "美国",
-  "other": "官网 lanpro.com，语言 ?，快照状态 ok；角色判定来源：官网文案"
- },
- "business_lines": [
-  "网络组件（铜缆 / 光纤 / 无线 / 有源，自有品牌 LanPro）"
- ],
- "channels": {
-  "role": "网络组件品牌商（美国/拉美，自有品牌 LanPro）",
-  "region": "美国",
-  "contact": "asktolanpro@gmail.com"
- },
- "signals": [
-  "官网：LanPro® is a leading provider of components for the network and telecom integrator, covering all sectors of the industry, as copper systems, fiber optics, metallic assemblies, wireless systems and act…；页面 /products/active/index.asp；首页 Custom Manufacturing",
-  "表内：PoE 配件 switch MC SFP 等；可以尝试多跟进一下；KP Trinidad Ledezma / Analista en Marketing Online"
- ],
- "risks": [
-  "联系邮箱为 gmail（asktolanpro@gmail.com），非官方域名，真实性待核；KP 为市场分析岗位",
-  "10 次无回复"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 30,
-  "why": "LanPro 标有源线 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；MC 位 STI-110GE（$24.3）；SFP/PoE 配件 Saga 不供（Q-32）"
- },
- "email_hook": "For the active products in the LanPro range (PoE switches and media converters) alongside your cabling systems, we can be an ODM source on a Marvell platform (8-PoE + 2 SFP L2+, 24-PoE + 4 SFP, gigabit MC) in your packaging from small lots, FCC/CE/RoHS — which active SKU do your integrator customers order most?",
- "mail_review": {
-  "binding": {
-   "level": "读而不回（A/S 邮箱 23 封 2025→2026，其中 1 封被打开（1 次「打开」与退信同日 2025-01-22，是退信触发的像素，不算；真实打开 1 次），0 回；收件 asktolanpro@gmail.com, sales@lanpro.com；被打开主题「Industrial PoE Switch、10G Enterprise SFP Switch」；Elsa 箱：`to:lanpro.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 23 / 来 0）（第 74 批(h)））",
-   "type": "网络组件品牌商（美国/拉美，自有品牌 LanPro）",
-   "sieve": "2（有人在读，无人回）",
-   "stop": "读而不回 = 内容未命中或没有当下需求",
-   "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
-   "lane": "US 主攻（四主）",
-   "cadence": "一封；回了再说",
-   "evidence": "gmail_digest：out 23，Opened 标签 2（Simon 群发追踪）；用户表：「PoE配件 switch MC SFP等」；研究档 risks：联系邮箱为 gmail（asktolanpro@gmail.com），非官方域名，真实性待核；KP 为市场分析岗位"
-  },
-  "situation": "LanPro（「Connect-and-Forget」：面向网络/电信集成商的组件供应商——铜缆系统、光纤、金属组件、无线、有源设备，定制制造；表内「PoE 配件 switch MC SFP 等」「可以尝试多跟进一下」；KP Trinidad Ledezma（Analista en Marketing Online）；联系邮箱为 gmail）；群发 10 次无回复。",
-  "need": "LanPro 标有源线 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；MC 位 STI-110GE（$24.3）；SFP/PoE 配件 Saga 不供（Q-32）",
-  "breakpoint": "联系邮箱为 gmail（asktolanpro@gmail.com），非官方域名，真实性待核；KP 为市场分析岗位",
-  "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 30,
-   "price": "首触锚价 STC-28DGGPM $87.4 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-19 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-08-08 $300（48 Port PoE Managed Switch）、2025-10-02 $280（10G Enterprise SFP Switch）",
-   "why": "LanPro 标有源线 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；MC 位 STI-110GE（$24.3）；SFP/PoE 配件 Saga 不供（Q-32）。已打开的主题（2/23 封有打开记录）：「90W PoE Managed Switch」(2025-01-22)、「Optional Marvell Chipset Solutions」(2025-12-10) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-02-12)、Saga Feature List_7.5.x_L2+(2026-06-25)、Product Link_2026Q3(2026-07-17)；7.5 Feature List 与 2026Q3 链接都已给过 → 下一封不能再是资料推送，只能是针对其需求的一句话/一个问题",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "2026-11",
-   "channel": "A 邮箱 → asktolanpro@gmail.com",
-   "action": "短信一问（email_hook）",
-   "one_question": "For the active products in the LanPro range (PoE switches and media converters) alongside your cabling systems, we can be an ODM source on a Marvell platform (8-PoE + 2 SFP L2+, 24-PoE + 4 SFP, gigabit MC) in your packaging from small lots, FCC/CE/RoHS — which active SKU do your integrator customers order most? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity)."
-  },
-  "facts": [
-   {
-    "date": "2025-01-22",
-    "dir": "内",
-    "who": "Gmail 退信（S 邮箱）",
-    "quote": "sales@lanpro.com 永久退信：530 IP 209.85.221.174 denied access to SMTP at 01/22/25 10:30:34",
-    "why": "该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职",
-    "k": "gmail_s 530a633f5d282ffd"
-   },
-   {
-    "date": "2025-01-22",
-    "dir": "内",
-    "who": "Gmail 退信（S 邮箱）",
-    "quote": "sales@lanpro.com 退信：530 IP 209.85.221.174 denied access to SMTP at 01/22/25 10:30:34",
-    "why": "该地址当天收不到信；同日的「Opened」记录是退信触发，不算打开",
-    "k": "gmail_s 530a633f5d282ffd"
-   },
-   {
-    "date": "2026-09-16",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "Industrial PoE Switch、10G Enterprise SFP Switch",
-    "why": "23 封 / 2 次打开 / 0 回｜首封 2025-01-22 → 末封 2026-09-16（23 去 / 0 来）",
-    "k": "gmail_digest"
-   },
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "PoE配件 switch MC SFP等",
-    "why": "表内备注",
-    "k": "用户表"
-   }
+  "code": "SB-1030",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（fibertronics.com，快照 2026-10-21）",
+  "summary": "美国 Fibertronics（美国定制光纤网络方案制造商：MPO 线缆组件、柔性电路、配线、MMC/MDC，面向超大规模/电信/国防/工业；AS9100D；表内「主要是线缆 MC switch VC」）；表内未跟进。",
+  "type": "光纤组件制造商（美国，MC/交换机为配套）",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：Fiber Optic Connectivity Solutions | Fibertronics；品类词 工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
+      "quote": "Fibertronics is a USA manufacturer of custom fiber optic network solutions for hyperscale, telecom, defense, and industrial networks nationwide.",
+      "url": "https://www.fibertronics.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "主要是线缆 MC switch VC",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "Fibertronics 定位",
+      "quote": "Fiber Optic Connectivity Solutions | Fibertronics ; USA manufacturer of custom fiber optic network solutions for hyperscale, telecom, defense, and industrial networks nationwide",
+      "url": "https://www.fibertronics.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "主要是线缆 MC switch VC",
+      "quote": "主要是线缆 MC switch VC",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [],
-  "draft_en": {
-   "subject": "One question — Industrial PoE Switch",
-   "body": "Hi Trinidad,\n\nWe have sent you a few mails on \"Industrial PoE Switch\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor the active products in the LanPro range (PoE switches and media converters) alongside your cabling systems, we can be an ODM source on a Marvell platform (8-PoE + 2 SFP L2+, 24-PoE + 4 SFP, gigabit MC) in your packaging from small lots, FCC/CE/RoHS — which active SKU do your integrator customers order most?\n\nReference price: 8-PoE + 2 × 1G/2.5G SFP L2+ managed switch (Marvell AC5), 120 W (STC-28DGGPM) $87.4 USD EXW, MOQ 1 pc, 15-day validity, 1-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+  "kp": [],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
   },
-  "as_of": "2026-10-24"
- }
+  "company_facts": {
+    "hq": "美国",
+    "other": "官网 fibertronics.com，语言 en-US，快照状态 ok；角色判定来源：官网文案"
+  },
+  "business_lines": [
+    "定制光纤线缆组件 / 配线",
+    "MC / 交换机 / VC 配套"
+  ],
+  "channels": {
+    "role": "光纤组件制造商（美国，MC/交换机为配套）",
+    "region": "美国",
+    "contact": "sales@fibertronics.com"
+  },
+  "signals": [
+    "官网：Fibertronics is a USA manufacturer of custom fiber optic network solutions for hyperscale, telecom, defense, and industrial networks nationwide；首页 MPO Cable Assemblies ; Flex Circuit ; Patch Panel Solutions；kw media converter 29 / fiber 151 / cable 82",
+    "表内：主要是线缆 MC switch VC"
+  ],
+  "risks": [
+    "守界备注：客户含国防（defense）——只供民用电信/工业通用 MC/交换机",
+    "主业线缆（Saga 不做），有源为配套；仅 sales@，未跟进过"
+  ],
+  "saga_fit": {
+    "p1": "STI-110GE",
+    "tier": 20,
+    "why": "线缆主业配套有源 → 工业千兆 MC STI-110GE（$22.4 @20%）/ 商用 MC 用 HRUI 桌面型（列表价，注明）；国防客户不涉（守界）"
+  },
+  "email_hook": "Alongside your fibre assemblies, we supply gigabit media converters and 8-GE + 2 SFP switches (industrial −40~75 °C or desktop, FCC/CE/RoHS, neutral packing) from small lots, EXW USD — which MC configuration do your telecom and industrial customers bundle most with cable orders?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（1 封自动回复）；Elsa 群发 BCC 已触达 2026-09-08「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，US-2 批次 To info@allisontecusa.com，0 回（第 73 批(o) Bcc 头核对 msg 1a081a79b20c7fbc）",
+      "type": "美国光纤组件制造商",
+      "sieve": "0",
+      "stop": "自动回复/机器人，无人工回复",
+      "revive": "不动",
+      "lane": "US",
+      "cadence": "不动",
+      "evidence": "k=4e38d41f74d93c9a；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To info@allisontecusa.com）2025-04-06→2026-09-08 共 8 轮群发（16 Port PoE Managed Switch、8 Port Industrial PoE Switch、Mini Industrial PoE Switch、16 Port Ethernet Switch、48 Port PoE Managed Switch、10G Enterprise SFP Switch、Updated Ethernet Switches Links、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断"
+    },
+    "situation": "来信全部为机器回复；无人读信或无人回信。",
+    "need": "—",
+    "breakpoint": "—",
+    "saga_now": {
+      "p1": "—",
+      "tier": 30,
+      "price": "—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-19 $220（48 port managed switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-09-08 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-08；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
+      "why": "已打开的主题（4/10 封有打开记录）：「24 Port Passive PoE Switch」(2024-09-11)、「Power Converter」(2024-09-13)、「8 Port Ethernet Switch」(2024-10-23)、「10G Ethernet Web Managed Switch」(2024-10-29) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "不动",
+      "channel": "—",
+      "action": "—",
+      "one_question": ""
+    },
+    "facts": [
+      {
+        "date": "2025-04-06",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To info@allisontecusa.com，US-2 批次）",
+        "quote": "16 Port PoE Managed Switch — This is a Marvell-based 16 Port PoE L2+ Managed Switch. 1, 2*1G/2.5G/10G fiber+16*1G RJ45/PoE 2, Support PoE management, alarm output 3, Customizable ",
+        "why": "Elsa 箱群发 BCC 触达证据（命中地址 fibertronics.com, sales@fibertronics.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+        "k": "elsa_bcc"
+      },
+      {
+        "date": "2026-09-08",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To info@allisontecusa.com，US-2 批次）",
+        "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
+        "why": "Elsa 箱群发 BCC 触达证据（命中地址 fibertronics.com, sales@fibertronics.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+        "k": "elsa_bcc"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-25"
+  }
 }

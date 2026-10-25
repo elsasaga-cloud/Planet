@@ -1,16 +1,16 @@
-# SB-924 versitron.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCq7WBvce5EjKVu0Q9XXL_8g · fetched 2026-10-25T07:41:18Z · HTTP 200
-2026-05-28T12:00:05+00:00	NDAA Compliant Fiber Optic Converter for Tethered Drone Systems | Versitron	https://www.youtube.com/watch?v=edTiVdFY-Lk
-2023-07-27T09:03:05+00:00	SG70460 - 4 Port Unmanaged Switch	https://www.youtube.com/shorts/WrnjujjRKiE
-2022-07-15T05:41:05+00:00	How to Choose Fiber SFP and SFP+ Modules?	https://www.youtube.com/watch?v=4eHmxdWEQn8
-2022-06-13T11:46:28+00:00	What is Gigabit PoE/PoE+ Ethernet Switches All About?	https://www.youtube.com/watch?v=H9k4A7A4O7Q
-2022-06-06T05:30:19+00:00	Our Complete Review of Managed Industrial Switches	https://www.youtube.com/watch?v=mDls8HLZd7c
-2022-04-08T10:46:30+00:00	High Speed Fiber Optic Network Switches | Versitron	https://www.youtube.com/watch?v=yitvza_jC2Q
-2020-07-31T05:27:42+00:00	Fiber Optic Fusion Splicing and Mechanical Splicing: Which is Better	https://www.youtube.com/watch?v=Rv8bImaB1rs
-2020-07-31T05:07:25+00:00	HDMI Vs SDI Video Connections - Know the Difference	https://www.youtube.com/watch?v=6sjOtpCVjzo
-2020-07-28T05:31:41+00:00	What is Power Over Ethernet all about?	https://www.youtube.com/watch?v=bZqUgMOglOo
-2019-02-21T19:11:53+00:00	52-Port Fiber Switch with PoE: Features and Benefits	https://www.youtube.com/watch?v=LvncfucSRdU
-2018-05-02T17:34:10+00:00	Video Distribution Amplifier – 16 Analog Inputs, 32 Outputs | Setup & Applications	https://www.youtube.com/watch?v=R8Uy5q0H2Us
-2018-01-15T17:04:44+00:00	HDMI Video to Fiber Optic Installation Kits: Complete Overview	https://www.youtube.com/watch?v=yxA9E76Jc7A
-2017-11-16T21:01:38+00:00	PoE (PoE+) Fiber Optic Switch: Power and Data Over Fiber	https://www.youtube.com/watch?v=79ngEwdpWbw
-2016-09-14T21:24:33+00:00	Modular Network Switch | "Pick a Port" Switch - Flexible Copper & Fiber Connectivity	https://www.youtube.com/watch?v=5WFQEaVBFj8
-2016-01-15T14:34:39+00:00	CCTV 4 Channel Fiber Optic Video Multiplexer - Complete Review	https://www.youtube.com/watch?v=nGUghs_lHlM
+# SB-924 Intracom Middle East FZ-LLC · youtube · https://www.youtube.com/user/IntracomTelecom · fetched 2026-10-25T07:41:18Z · HTTP 200
+2026-10-13T10:59:19+00:00	Unlocking Gigabit Connectivity in Every Building	https://www.youtube.com/watch?v=pfF_WjcjPF0
+2026-09-01T10:45:25+00:00	"Tech Talks by Intracom Telecom" - Episode 3 | E-Band & Microwave	https://www.youtube.com/watch?v=QMOtICL0gcM
+2026-01-28T12:45:58+00:00	"Tech Talks by Intracom Telecom" | Episode 2	https://www.youtube.com/watch?v=atvSFg1i5GY
+2025-12-10T11:29:38+00:00	Border Security & Control: UltraLink-GX80 & OmniBAS	https://www.youtube.com/watch?v=UBb2Oablrgs
+2025-12-04T13:18:28+00:00	Fiber-Like Speeds Anywhere! | Intracom Telecom & GeoLinks	https://www.youtube.com/watch?v=spz420HsPTo
+2025-11-24T12:10:17+00:00	Intracom Telecom at Kifissia Climate Day Week	https://www.youtube.com/watch?v=81DfugHIZpU
+2025-09-10T08:42:00+00:00	Η Intracom Telecom συμμετέχει στο Πρόγραμμα Δίκαιης Αναπτυξιακής Μετάβασης 2021-2027	https://www.youtube.com/watch?v=dwV7QLlhf_I
+2025-07-07T12:56:12+00:00	"Tech Talks by Intracom Telecom" | Episode 1	https://www.youtube.com/watch?v=tWuNglEmTAk
+2025-06-30T09:49:37+00:00	Christos Rizos, CTO Software & ICT Solutions, at MWC Barcelona 2025	https://www.youtube.com/watch?v=7fP1FqE03Hk
+2025-06-30T09:42:51+00:00	Γιάννης Τενίδης, Διπλάσιες Ταχύτητες- Χαμηλότερο Κόστος	https://www.youtube.com/watch?v=2E6O8Zq-33s
+2025-06-30T09:20:42+00:00	Χρήστος Ρίζος, Intracom Telecom: H τεχνητή νοημοσύνη μετασχηματίζει τις τηλεπικοινωνίες	https://www.youtube.com/watch?v=-HhFEwdx3po
+2025-05-08T08:59:36+00:00	Ο ρόλος της τεχνητής νοημοσύνης στην ανάπτυξη των τηλεπικοινωνιών	https://www.youtube.com/watch?v=P8Gxib_vNf0
+2025-03-21T11:10:52+00:00	MWC25 | Wireless Access & Transmission highlights	https://www.youtube.com/watch?v=uG2A51ESiy8
+2025-03-11T08:50:45+00:00	Delivering 15 Gbps over a single 1+0 link	https://www.youtube.com/watch?v=oxRXO2WDDNI
+2025-02-26T09:54:42+00:00	Gigabit to the Premises Fixed Wireless Access	https://www.youtube.com/watch?v=htzkdNCveWQ

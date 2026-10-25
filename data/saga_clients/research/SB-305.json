@@ -1,237 +1,181 @@
 {
   "code": "SB-305",
-  "name_official": "",
+  "name_official": "Bits&Byte Consulting Pvt Ltd（班加罗尔）",
   "researched_at": "2026-10-21",
-  "website_status": "在线（cloudtronics.com.au，快照 2026-10-21）",
-  "summary": "澳大利亚 Cloudtronics®（澳洲自有公司：兼容光模块（100% 兼容保证）、6 周定制 IoT 电子、网络设备；自有标工业 PoE 交换机 CLD-8POE-2SFP-IND（N-net 代工，备注 URL 印尼站 cloudtronics.co.id）；表内「N-net 的工业 FS 带了自己的标，网页做的不错」「可以多跟进一下」；KP Robert Nathan（Director，rnathan@））；群发 22 次无回复。",
-  "type": "澳洲网络/光模块自有品牌商（工业 PoE 贴标，OEM 采购）",
+  "website_status": "在线（bitsandbyte.net，快照 2026-10-21）",
+  "summary": "班加罗尔工程型云 / 网络安全 / 网络与托管服务商（+91 95133 70890），Director Ramachandra R、Executive Director Ankit Arora（BTON 带来）：问环网收敛 <20 ms、2 光 10 电非 PoE 价格、4 光 10 电 10G、bypass 接线图、100G–400G 模块芯片方案、WDM；无跟进记录。技术型买家。",
+  "type": "",
   "size": "",
-  "brands_seen": [
-    "N-net"
-  ],
+  "brands_seen": [],
   "evidence": [
     {
       "kind": "官网快照",
-      "claim": "官网标题：Cloudtronics – Network Solutions and Transceivers Home page；品类词 工业自动化 / OT 网络 / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
-      "quote": "Cloudtronics® is proudly an Australian owned and operated company. Cloudtronics provides unique, tailored solutions with built-in cloud support",
-      "url": "https://cloudtronics.com.au/",
+      "claim": "工程型云、网络安全、网络与托管服务；contact@bitsandbyte.net；+91 95133 70890",
+      "quote": "Engineering-led cloud, cybersecurity, networking and managed services.",
+      "url": "https://bitsandbyte.net/",
       "date": "2026-10-21"
     },
     {
       "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "N-net的工业FS 带了自己的标；N-net的 网页做的不错；https://cloudtronics.co.id/products-and-solutions/network-device/industrial-unmanaged-poe-switch/",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网快照",
-      "claim": "Cloudtronics 定位",
-      "quote": "Cloudtronics® is proudly an Australian owned and operated company. Cloudtronics provides unique, tailored solutions with built-in cloud support ; Transceivers 100% Compatibility Guarantee",
-      "url": "https://cloudtronics.com.au/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "N-net 工业 FS 带自己的标",
-      "quote": "N-net的工业FS 带了自己的标 / N-net的 网页做的不错；可以多跟进一下",
+      "claim": "问 Ring 时间能否小于 20ms；2 光 10 电不要 PoE 价格；4 光 10 电 10G 光；对 bypass 有兴趣看了接线图；问 100G/200G/400G 模块芯片方案",
+      "quote": "兴趣：BTON带过来的 问了Ring时间能否小于20ms 2光10电不要PoE价格 简单谈了4光10电，10G光的 对bypass有兴趣，看了接线图 问了100G/200G/400G模块的芯片方案",
       "url": "（本地 Clients/ 表格，无公开 URL）",
       "date": "2026-10-21"
     }
   ],
   "kp": [
     {
-      "name": "Robert Nathan",
+      "name": "Ramachandra R",
       "title": "Director",
-      "email": "rnathan@cloudtronics.com.au",
-      "phone": "",
-      "source": "用户表"
+      "email": "ramachandra.r@bitsandbyte.net",
+      "phone": "+91 94484 58595",
+      "source": "（本地 Clients/ 表格，无公开 URL）"
+    },
+    {
+      "name": "Ankit Arora",
+      "title": "Executive Director",
+      "email": "ankit@bitsandbyte.net",
+      "phone": "+91 96206 18247",
+      "source": "（本地 Clients/ 表格，无公开 URL）"
     }
   ],
   "grade_override": null,
   "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
   "deep": {
     "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+    "level": "B 级加厚 v1（官网快照 + 表内：技术型买家）"
   },
   "company_facts": {
-    "hq": "澳大利亚",
-    "other": "官网 cloudtronics.com.au，语言 en-AU，快照状态 ok；角色判定来源：用户表"
+    "legal_name": "Bits&Byte Consulting Pvt Ltd",
+    "founded": "（待核）",
+    "hq": "Bengaluru, India",
+    "size": "中小型工程服务商",
+    "other": "与 BTON（百通）有合作"
   },
   "business_lines": [
-    "兼容光模块 / 网络设备 / 定制 IoT 电子（自有品牌 Cloudtronics）"
+    "网络 / 云 / 安全工程与托管服务"
   ],
   "channels": {
-    "role": "澳洲网络/光模块自有品牌商（工业 PoE 贴标，OEM 采购）",
-    "region": "澳大利亚",
-    "contact": "sales@cloudtronics.com.au、rnathan@cloudtronics.com.au"
+    "role": "工程型集成商",
+    "region": "印度（班加罗尔）"
   },
   "signals": [
-    "备注 URL：https://cloudtronics.co.id/products-and-solutions/network-device/industrial-unmanaged-poe-switch/；站内 CLD-8POE-2SFP-IND",
-    "官网：Cloudtronics® is proudly an Australian owned and operated company … Transceivers 100% Compatibility Guarantee ; Customised IoT Electronics in 6 WEEKS"
+    "技术问题具体（ERPS <20 ms、bypass、10G 工业）→ 真实项目评估",
+    "两位董事级联系人"
   ],
   "risks": [
-    "现代工 N-net（深圳）价格基准低；非主攻区（T5），RCM 由客户申报",
-    "22 次无回复 → 改向 Director 具名首触；主品类光模块 Saga 不供"
+    "100G–400G 模块需求 Saga 无",
+    "BTON 竞争在先"
   ],
   "saga_fit": {
-    "p1": "STI-288GP",
-    "tier": 30,
-    "why": "自有 CLD-8POE-2SFP-IND（8 PoE + 2 SFP 工业非管理，N-net 代工）→ 工业 8 PoE + 2 SFP 非管理 STI-288GP（$62.2 @30%）/ 管理 STI-288GPM（$85.5）贴 Cloudtronics 标"
+    "p1": "STI-280GM",
+    "tier": 25,
+    "why": "2 光 10 电非 PoE 管理 ≈ STI-280GM（2 SFP + 8 GE 管理，$71.0 @25%，ERPS <20 ms 可测）；4 光 10 电 10G → STI-480XGGM；bypass → SmartByte FBP 系列（注明）。"
   },
-  "email_hook": "Robert, for the CLD-8POE-2SFP-IND industrial PoE switch, we can be a second ODM source (DIN-rail 8-PoE + 2 SFP unmanaged or managed, −40~75 °C, CE/RoHS) from small lots in your housing — would a managed variant be useful for your IoT deployments?",
-  "products_seen": [
-    {
-      "brand": "Cloudtronics（自有标）",
-      "model": "CLD-8POE-2SFP-IND",
-      "spec": "工业 8 PoE + 2 SFP 非管理（N-net 代工）",
-      "saga": "STI-288GP",
-      "url": "https://cloudtronics.co.id/products-and-solutions/network-device/industrial-unmanaged-poe-switch/",
-      "date": "2026-10-21"
-    }
-  ],
+  "email_hook": "Ramachandra, to close your ring question: ERPS on our managed industrial line recovers in <20 ms (we can send the test log); the 2-SFP + 8-port non-PoE managed is $71 EXW and the 4×10G SFP+ + 8-port is $157. Which topology is the live one?",
   "mail_review": {
     "binding": {
-      "level": "读而不回（A/S 邮箱 38 封 2024→2026，其中 3 封被打开，0 回；收件 rnathan@cloudtronics.com.au, sales@cloudtronics.com.au；被打开主题「Marvell Alleycat5 Solution、Managed Optical Bypass Switch」）；Elsa 1:1 去信 10 轮 2025-02-12→2026-08-10（To 仅本户 sales@cloudtronics.com.au / support@cloudtronics.co.id（按地址：sales@cloudtronics.com.au 1 轮 / support@cloudtronics.co.id 9 轮）；头 msg 19fea2f5b896eb46 核对无 Bcc，称呼「Hi,」= 无称呼逐月单发名单；主题 Marvell Industrial Alert System、Updated Ethernet Switches Links、Marvell Managed Commercial Switches、24 Port PoE Managed Switch…；0 回（Elsa 箱无 Re: 行））（第 74 批(m) `from:e.sagatelecom to:` 全程 complete，直收 10 条）",
-      "type": "澳洲网络/光模块自有品牌商（工业 PoE 贴标，OEM 采购）",
-      "sieve": "2（有人在读，无人回）",
-      "stop": "读而不回 = 内容未命中或没有当下需求",
-      "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
-      "lane": "澳大利亚 非主攻",
-      "cadence": "一封；回了再说",
-      "evidence": "gmail_digest：out 38，Opened 标签 3（Simon 群发追踪）；用户表：「N-net的工业FS 带了自己的标；N-net的 网页做的不错；https://cloudtronics.co.id/products-and-solution」；研究档 risks：现代工 N-net（深圳）价格基准低；非主攻区（T5），RCM 由客户申报"
+      "level": "未触达（A 邮箱 6 封 2025→2026，无记录打开，0 回；收件 ankit@bitsandbyte.net, ramachandra.r@bitsandbyte.net；主题多为「24 Port PoE Managed Switch、90W PoE Managed Switch」）；Elsa 1:1 去信 6 轮 2025-05-07→2026-03-02（To 仅本户 ramachandra.r@bitsandbyte.net；头 msg 19cae0fd83cbc938 核对无 Bcc，称呼「Hi, Ramachandra」= 个性化逐月 1:1 名单（名字可来自名单，不等于回过信）；主题 10G Enterprise SFP Switch、Booster PoE Switch、OEM Core Switching Solution、Updated Ethernet Switches Links…；0 回（Elsa 箱 Replied 索引 + 第 73 批真人来信逐户比对均无此户）；S/A digest 看不到 Elsa 的去信，之前据此写的「未触达」是 S/A 口径）（第 74 批(n) `from:e.sagatelecom to:bitsandbyte.net` 全程 complete，直收 6 条、无 Re: 行）",
+      "type": "—",
+      "sieve": "1（只收到群发）",
+      "stop": "6 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+      "revive": "保持季度群发到 2027-Q1；无打开即停",
+      "lane": "IN 次级（点名）",
+      "cadence": "季度",
+      "evidence": "gmail_digest：out 6；用户表：「兴趣：BTON带过来的 问了Ring时间能否小于20ms 2光10电不要PoE价格 简单谈了4光10电，10G光的 对bypass有兴趣，看了接线图 问了100」；研究档 risks：100G–400G 模块需求 Saga 无"
     },
-    "situation": "澳大利亚 Cloudtronics®（澳洲自有公司：兼容光模块（100% 兼容保证）、6 周定制 IoT 电子、网络设备；自有标工业 PoE 交换机 CLD-8POE-2SFP-IND（N-net 代工，备注 URL 印尼站 cloudtronics.co.id）；表内「N-net 的工业 FS 带了自己的标，网页做的不错」「可以多跟进一下」；KP Robert Nathan（Director，rnathan@））；群发 22 次无回复。",
-    "need": "自有 CLD-8POE-2SFP-IND（8 PoE + 2 SFP 工业非管理，N-net 代工）→ 工业 8 PoE + 2 SFP 非管理 STI-288GP（$62.2 @30%）/ 管理 STI-288GPM（$85.5）贴 Cloudtronics 标",
-    "breakpoint": "现代工 N-net（深圳）价格基准低；非主攻区（T5），RCM 由客户申报",
+    "situation": "班加罗尔工程型云 / 网络安全 / 网络与托管服务商（+91 95133 70890），Director Ramachandra R、Executive Director Ankit Arora（BTON 带来）：问环网收敛 <20 ms、2 光 10 电非 PoE 价格、4 光 10 电 10G、bypass 接线图、100G–400G 模块芯片方案、WDM；无跟进记录。技术型买家。",
+    "need": "2 光 10 电非 PoE 管理 ≈ STI-280GM（2 SFP + 8 GE 管理，$71.0 @25%，ERPS <20 ms 可测）；4 光 10 电 10G → STI-480XGGM；bypass → SmartByte FBP 系列（注明）。",
+    "breakpoint": "100G–400G 模块需求 Saga 无",
     "saga_now": {
-      "p1": "STI-288GP",
-      "tier": 30,
-      "price": "首触锚价 STI-288GP $60 EXW（最近实报 $60（SA-100 2025-03-18；SB-1276 / SA-030 同价）（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-03 $65（10G media converter）、2024-12-16 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2025-07-28 $240（24 Port Fiber Switch）、2025-10-07 $280（10G Enterprise SFP Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-06-09 $300（48 Port PoE Managed Switch = STC-448XGGPM，Elsa 箱 1 轮 2025-06-09；现表 $335.4@20%、Drive 老表 $335——同款写 $335 要先说 2025 群发是 $300、汇率 7.2→6.7）；2026-05-07 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 2 轮 2025-10-08→2026-05-07；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-08-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-10；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
-      "why": "自有 CLD-8POE-2SFP-IND（8 PoE + 2 SFP 工业非管理，N-net 代工）→ 工业 8 PoE + 2 SFP 非管理 STI-288GP（$62.2 @30%）/ 管理 STI-288GPM（$85.5）贴 Cloudtronics 标。已打开的主题（3/38 封有打开记录）：「10G media converter」(2024-08-13)、「8 Port Industrial PoE Switch」(2025-08-22)、「Optional Marvell Chipset Solutions」(2025-12-04) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续｜已发资料（勿重发）：Saga Feature List_7.5.x_L2+(2026-06-30)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）",
+      "p1": "STI-280GM",
+      "tier": 25,
+      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2026-05-06 $280（10G Enterprise SFP Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-06-22 $300（48 Port PoE Managed Switch = STC-448XGGPM，Elsa 箱 1 轮 2025-06-22；现表 $335.4@20%、Drive 老表 $335——同款写 $335 要先说 2025 群发是 $300、汇率 7.2→6.7）；2025-10-14 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2025-10-14；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）",
+      "why": "2 光 10 电非 PoE 管理 ≈ STI-280GM（2 SFP + 8 GE 管理，$71.0 @25%，ERPS <20 ms 可测）；4 光 10 电 10G → STI-480XGGM；bypass → SmartByte FBP 系列（注明）。",
       "repeat": [],
       "gaps": []
     },
     "next_move": {
-      "when": "2026-11",
-      "channel": "A 邮箱 → rnathan@cloudtronics.com.au",
-      "action": "首封前知悉：Elsa 已 1:1 去信 10 轮（2025-02-12→2026-08-10，0 回）（第 74 批(m)）；短信一问（email_hook）（第 76 批(c) 2026-10-25：audit_ab 软项修正：证书口径 CE/RoHS → CE/RoHS (RCM stays on your side)）",
-      "one_question": "Robert, for the CLD-8POE-2SFP-IND industrial PoE switch, we can be a second ODM source (DIN-rail 8-PoE + 2 SFP unmanaged or managed, −40~75 °C, CE/RoHS) from small lots in your housing — would a managed variant be useful for your IoT deployments? Reference: STI-288GP at $60 USD EXW (MOQ 1, 15-day validity)."
+      "when": "群发节奏",
+      "channel": "A 邮箱",
+      "action": "首封前知悉：Elsa 已 1:1 去信 6 轮（2025-05-07→2026-03-02，0 回）（第 74 批(n)）；观察打开",
+      "one_question": "Ramachandra, to close your ring question: ERPS on our managed industrial line recovers in <20 ms (we can send the test log); the 2-SFP + 8-port non-PoE managed is $71 EXW and the 4×10G SFP+ + 8-port is $157. Which topology is the live one?"
     },
     "facts": [
       {
-        "date": "2025-02-12",
+        "date": "2025-05-07",
         "dir": "out",
-        "who": "Elsa → sales@cloudtronics.com.au",
-        "quote": "16 Port Ethernet Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
-        "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
+        "who": "Elsa → ramachandra.r@bitsandbyte.net",
+        "quote": "Industrial PoE Switch（Elsa 1:1 逐月名单第 1/6 轮；To 仅本户）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:bitsandbyte.net` 全程 complete：6 轮直收（头 msg 19cae0fd83cbc938 无 Bcc，称呼「Hi, Ramachandra」）；0 回",
         "k": "elsa_1to1",
-        "msg_id": "194f77495ad0fe55"
+        "msg_id": "196a94b32bb948af"
       },
       {
-        "date": "2025-05-02",
+        "date": "2025-06-22",
         "dir": "out",
-        "who": "Elsa → support@cloudtronics.co.id",
-        "quote": "16 Port Ethernet Switch（Elsa 1:1 逐月名单第 2/10 轮；To 仅本户）",
-        "why": "第 74 批(m) `from:e.sagatelecom to:sales@cloudtronics.com.au` 全程 complete：10 轮直收；0 回",
+        "who": "Elsa → ramachandra.r@bitsandbyte.net",
+        "quote": "48 Port PoE Managed Switch（Elsa 1:1 逐月名单第 2/6 轮；To 仅本户；正文价 300usd/pc，第 74 批(p) 读稿 msg 194eff1f9bf46879 / 1973a613b8166b58）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:bitsandbyte.net` 全程 complete：6 轮直收（头 msg 19cae0fd83cbc938 无 Bcc，称呼「Hi, Ramachandra」）；0 回",
         "k": "elsa_1to1",
-        "msg_id": "1969054d1e6c1440"
+        "msg_id": "197964872d94d146"
       },
       {
-        "date": "2025-06-09",
+        "date": "2025-10-14",
         "dir": "out",
-        "who": "Elsa → support@cloudtronics.co.id",
-        "quote": "48 Port PoE Managed Switch（Elsa 1:1 逐月名单第 3/10 轮；To 仅本户；正文价 300usd/pc，第 74 批(p) 读稿 msg 194eff1f9bf46879 / 1973a613b8166b58）",
-        "why": "第 74 批(m) `from:e.sagatelecom to:sales@cloudtronics.com.au` 全程 complete：10 轮直收；0 回",
+        "who": "Elsa → ramachandra.r@bitsandbyte.net",
+        "quote": "10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 3/6 轮；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:bitsandbyte.net` 全程 complete：6 轮直收（头 msg 19cae0fd83cbc938 无 Bcc，称呼「Hi, Ramachandra」）；0 回",
         "k": "elsa_1to1",
-        "msg_id": "19753eb03c56890e"
+        "msg_id": "199e19718a61ba8f"
       },
       {
-        "date": "2025-10-08",
+        "date": "2025-12-08",
         "dir": "out",
-        "who": "Elsa → support@cloudtronics.co.id",
-        "quote": "10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 4/10 轮；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
-        "why": "第 74 批(m) `from:e.sagatelecom to:sales@cloudtronics.com.au` 全程 complete：10 轮直收；0 回",
+        "who": "Elsa → ramachandra.r@bitsandbyte.net",
+        "quote": "Booster PoE Switch（Elsa 1:1 逐月名单第 4/6 轮；To 仅本户）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:bitsandbyte.net` 全程 complete：6 轮直收（头 msg 19cae0fd83cbc938 无 Bcc，称呼「Hi, Ramachandra」）；0 回",
         "k": "elsa_1to1",
-        "msg_id": "199c2aa89f59abbc"
+        "msg_id": "19afd42bb117dcdb"
       },
       {
-        "date": "2025-12-10",
+        "date": "2026-01-08",
         "dir": "out",
-        "who": "Elsa → support@cloudtronics.co.id",
-        "quote": "Booster PoE Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
-        "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
+        "who": "Elsa → ramachandra.r@bitsandbyte.net",
+        "quote": "OEM Core Switching Solution（Elsa 1:1 逐月名单第 5/6 轮；To 仅本户）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:bitsandbyte.net` 全程 complete：6 轮直收（头 msg 19cae0fd83cbc938 无 Bcc，称呼「Hi, Ramachandra」）；0 回",
         "k": "elsa_1to1",
-        "msg_id": "19b06c607335d43b"
+        "msg_id": "19b9c7a01c569e09"
       },
       {
-        "date": "2026-01-06",
+        "date": "2026-03-02",
         "dir": "out",
-        "who": "Elsa → support@cloudtronics.co.id",
-        "quote": "Marvell Industrial Alert System（Elsa 1:1 逐月名单第 6/10 轮；To 仅本户）",
-        "why": "第 74 批(m) `from:e.sagatelecom to:sales@cloudtronics.com.au` 全程 complete：10 轮直收；0 回",
+        "who": "Elsa → ramachandra.r@bitsandbyte.net",
+        "quote": "Updated Ethernet Switches Links（Elsa 1:1 逐月名单第 6/6 轮；To 仅本户）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:bitsandbyte.net` 全程 complete：6 轮直收（头 msg 19cae0fd83cbc938 无 Bcc，称呼「Hi, Ramachandra」）；0 回",
         "k": "elsa_1to1",
-        "msg_id": "19b91d1ba298f0cb"
+        "msg_id": "19cae0fd83cbc938"
       },
       {
-        "date": "2026-02-27",
-        "dir": "out",
-        "who": "Elsa → support@cloudtronics.co.id",
-        "quote": "Updated Ethernet Switches Links（Elsa 1:1 逐月名单第 7/10 轮；To 仅本户）",
-        "why": "第 74 批(m) `from:e.sagatelecom to:sales@cloudtronics.com.au` 全程 complete：10 轮直收；0 回",
-        "k": "elsa_1to1",
-        "msg_id": "19c9d9c6b06438fb"
-      },
-      {
-        "date": "2026-03-30",
-        "dir": "out",
-        "who": "Elsa → support@cloudtronics.co.id",
-        "quote": "Marvell Managed Commercial Switches（Elsa 1:1 逐月名单第 8/10 轮；To 仅本户）",
-        "why": "第 74 批(m) `from:e.sagatelecom to:sales@cloudtronics.com.au` 全程 complete：10 轮直收；0 回",
-        "k": "elsa_1to1",
-        "msg_id": "19d3dc1bc7d52e8d"
-      },
-      {
-        "date": "2026-05-07",
-        "dir": "out",
-        "who": "Elsa → support@cloudtronics.co.id",
-        "quote": "10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 9/10 轮；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
-        "why": "第 74 批(m) `from:e.sagatelecom to:sales@cloudtronics.com.au` 全程 complete：10 轮直收；0 回",
-        "k": "elsa_1to1",
-        "msg_id": "19e004e6cb7b25d1"
-      },
-      {
-        "date": "2026-08-10",
-        "dir": "out",
-        "who": "Elsa → support@cloudtronics.co.id",
-        "quote": "24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 10/10 轮；To 仅本户；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f）",
-        "why": "第 74 批(m) `from:e.sagatelecom to:sales@cloudtronics.com.au` 全程 complete：10 轮直收；0 回",
-        "k": "elsa_1to1",
-        "msg_id": "19fea2f5b896eb46"
-      },
-      {
-        "date": "2026-09-16",
+        "date": "2026-09-23",
         "dir": "去",
-        "who": "A/S 群发",
-        "quote": "Marvell Alleycat5 Solution、Managed Optical Bypass Switch",
-        "why": "38 封 / 3 次打开 / 0 回｜首封 2024-06-19 → 末封 2026-09-16（38 去 / 0 来）",
+        "who": "A 群发",
+        "quote": "24 Port PoE Managed Switch、90W PoE Managed Switch",
+        "why": "6 封 / 0 次打开 / 0 回｜首封 2025-04-09 → 末封 2026-09-23（6 去 / 0 来）",
         "k": "gmail_digest"
       },
       {
         "date": "2026-10-21",
         "dir": "用户表",
         "who": "Simon",
-        "quote": "N-net的工业FS 带了自己的标；N-net的 网页做的不错；https://cloudtronics.co.id/products-and-solutions/network-device/industrial-unmanaged-po",
+        "quote": "兴趣：BTON带过来的 问了Ring时间能否小于20ms 2光10电不要PoE价格 简单谈了4光10电，10G光的 对bypass有兴趣，看了接线图 问了100G/200G/400G模块的芯片方案",
         "why": "表内备注",
         "k": "用户表"
       }
     ],
     "proof_gaps": [],
-    "draft_en": {
-      "subject": "One question — Marvell Alleycat5 Solution",
-      "body": "Hi Robert,\n\nWe have sent you a few mails on \"Marvell Alleycat5 Solution\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor the CLD-8POE-2SFP-IND industrial PoE switch, we can be a second ODM source (DIN-rail 8-PoE + 2 SFP unmanaged or managed, −40~75 °C, CE/RoHS (RCM stays on your side)) from small lots in your housing — would a managed variant be useful for your IoT deployments?\n\nReference price: DIN-rail 8-PoE + 2 SFP unmanaged industrial switch, 240 W (STI-288GP) $60 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
-    },
+    "draft_en": null,
     "as_of": "2026-10-24"
   }
 }

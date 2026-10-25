@@ -1,76 +1,141 @@
 {
- "code": "SB-1100",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（essentiatechnologies.com，快照 2026-10-21）",
- "summary": "英国 Essentia Technologies（软件/IT 外包公司「Provide us with a job description, we will find the best suited team」；表内「软件公司，在用 Cisco/Netgear 的交换机，看看有没有替换型号的可能，价格低」；KP Chaudhry Nazeer Hussain（Chairman））；群发 17 次无回复。",
- "type": "软件外包公司（终端用户，自用交换机）",
- "size": "",
- "brands_seen": [
-  "Cisco",
-  "Netgear"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：Essentia Technologies；品类词 工业自动化 / OT 网络",
-   "quote": "Get top-notch quality with the right cost and the right experts. Streamline your business tasks with us",
-   "url": "https://essentiatechnologies.com/",
-   "date": "2026-10-21"
+  "code": "SB-1100",
+  "name_official": "IT Broadcast & Cyber Security（印度尼西亚；Firman Wahyudi）",
+  "researched_at": "2026-10-21",
+  "website_status": "无域名（gmail）",
+  "summary": "印尼 IT / 广播 / 网络安全服务商（Firman Wahyudi，LinkedIn 来源），2023 年问如何购买、印尼是否有分销商、网站，对 bypass 系列宣传册回复有用。",
+  "type": "",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "用户表",
+      "claim": "问如何买、印尼分销商、网站；管理小壳→Thanks for sharing；bypass 宣传册 + Ali 链接→有用",
+      "quote": "兴趣：1/如何买你们的产品 2/在印尼是否有分销商 3/网站；回复：Thanks for sharing；有用",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [
+    {
+      "name": "Firman Wahyudi",
+      "title": "（表内联系人）",
+      "email": "kosovaku@gmail.com",
+      "phone": "+62 852 1819 7765",
+      "source": "（本地 Clients/ 表格，无公开 URL）"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "无域名 · 仅表内信息"
   },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "软件公司，在用Cisco/Netager的交换机 看看有没有替换一些型号的可能，价格低",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
+  "company_facts": {
+    "legal_name": "（待核）",
+    "founded": "",
+    "hq": "印度尼西亚",
+    "size": "小型",
+    "other": "gmail；LinkedIn 来源"
   },
-  {
-   "kind": "官网快照",
-   "claim": "Essentia 定位",
-   "quote": "Home - Essentia Technologies ; Provide us with a job description ; We will find the best suited team for you",
-   "url": "https://essentiatechnologies.com/",
-   "date": "2026-10-21"
+  "business_lines": [
+    "IT / 广播 / 网络安全服务"
+  ],
+  "channels": {
+    "role": "集成 / 服务商",
+    "region": "印度尼西亚"
   },
-  {
-   "kind": "用户表",
-   "claim": "软件公司自用 Cisco/Netgear",
-   "quote": "软件公司，在用Cisco/Netager的交换机 看看有没有替换一些型号的可能，价格低",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
+  "signals": [
+    "主动问购买渠道 → 有项目意向",
+    "对 bypass 工业机有用"
+  ],
+  "risks": [
+    "gmail；2023 后无互动"
+  ],
+  "saga_fit": {
+    "p1": "LT-IS6312GP-4GX8GT-FBP",
+    "tier": 25,
+    "why": "其认可的 bypass 系列 → SmartByte LT-IS6312GP-4GX8GT-FBP（8 PoE + 4 SFP，光旁路）（SmartByte 型号；Saga 暂无对应名，报价时注明）；无 bypass 需求时 STI-288GPM。"
+  },
+  "email_hook": "Firman, you asked how to buy and whether we have an Indonesian distributor — we sell direct EXW from 1 pc (no local stock yet); is the bypass industrial switch still for a broadcast link, and what fibre distance?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（1 封自动回复）；Elsa 群发 To 直收 14 轮 2025-02-28→2026-08-11（本户是「印度-3（锚 kosovaku gmail；2025-02-28 起月轮，14 轮）」批次的锚：每轮 To 本户、其余客户 Bcc；最近 2026-08-11「24 Port PoE Managed Switch」，最近一封正文「Price: 170USD/PC」），0 回（第 74 批核对 msg 19fef6807ae77bef）",
+      "type": "印尼 IT 广播/安全公司",
+      "sieve": "0",
+      "stop": "自动回复/机器人，无人工回复",
+      "revive": "不动",
+      "lane": "ID",
+      "cadence": "不动",
+      "evidence": "k=b2ecc1aa5ac7dc6c；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To kosovaku@gmail.com）本户见于 2026-08-11 名单；该批次最早 2025-02-28 起共 14 轮，更早轮次 Bcc 未读"
+    },
+    "situation": "来信全部为机器回复；无人读信或无人回信。",
+    "need": "—",
+    "breakpoint": "—",
+    "saga_now": {
+      "p1": "—",
+      "tier": 20,
+      "price": "—；群发里他已看到的价（续，第 66 批全量复核）：2024-12-05 $300（48 Port PoE Managed Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-05-12 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2026-05-12；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-11；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
+      "why": "已打开的主题（2/4 封有打开记录）：「8 Port Ethernet Switch」(2024-11-08)、「48 Port PoE Managed Switch」(2024-12-05) → 读者兴趣主题类别不明（看原主题）",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "不动",
+      "channel": "—",
+      "action": "首封前知悉：本户是 Elsa 群发批次的锚（每轮 To 本户），已收 14 轮（2025-02-28→2026-08-11，0 回）（第 74 批(m)）；—",
+      "one_question": ""
+    },
+    "facts": [
+      {
+        "date": "2023-05-31",
+        "dir": "来",
+        "who": "用户表（Simon 跟进记录；渠道 领英）",
+        "quote": "用户表跟进：推「发了管理小壳图 DS」→ 对方「Thanks for sharing」",
+        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+        "k": "Clients/E/群发/已重新审核  08.11/领英.xlsx no.1 2023.5.31"
+      },
+      {
+        "date": "2023-07-13",
+        "dir": "来",
+        "who": "用户表（Simon 跟进记录；渠道 领英）",
+        "quote": "用户表跟进：推「发了bypass系列宣传册 Ali链接」→ 对方「有用」",
+        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+        "k": "Clients/E/群发/已重新审核  08.11/领英.xlsx no.1 2023.7.13"
+      },
+      {
+        "date": "2025-02-28",
+        "dir": "out",
+        "who": "Elsa → kosovaku@gmail.com",
+        "quote": "Industrial PoE Switch（本户为该批次的锚：每轮 To 本户、其余客户 Bcc）",
+        "why": "本户是 Elsa 群发批次的 To（锚），不是 1:1 名单；全程见 bcc_batches_2026.json anchors（第 74 批(m) 更正）",
+        "k": "elsa_bcc",
+        "msg_id": "1954a9a97c7bafcd"
+      },
+      {
+        "date": "2026-05-12",
+        "dir": "out",
+        "who": "Elsa → kosovaku@gmail.com",
+        "quote": "10G Enterprise SFP Switch（本户为该批次的锚：每轮 To 本户、其余客户 Bcc；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
+        "why": "本户是 Elsa 群发批次的 To（锚），不是 1:1 名单；全程见 bcc_batches_2026.json anchors（第 74 批(m) 更正）",
+        "k": "elsa_bcc",
+        "msg_id": "19e1ae3890188ab9"
+      },
+      {
+        "date": "2026-08-11",
+        "dir": "out",
+        "who": "Elsa → kosovaku@gmail.com",
+        "quote": "24 Port PoE Managed Switch（本户为该批次的锚：每轮 To 本户、其余客户 Bcc；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f）",
+        "why": "本户是 Elsa 群发批次的 To（锚），不是 1:1 名单；全程见 bcc_batches_2026.json anchors（第 74 批(m) 更正）",
+        "k": "elsa_bcc",
+        "msg_id": "19fef6807ae77bef"
+      }
+    ],
+    "proof_gaps": [
+      "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-25"
   }
- ],
- "kp": [],
- "grade_override": "C",
- "override_reason": "非渠道终端用户（软件外包公司自用交换机），17 次无回复；c_sub=品类不符/终端用户",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "英国",
-  "other": "官网 essentiatechnologies.com，语言 en-US，快照状态 ok；角色判定来源：官网文案"
- },
- "business_lines": [
-  "软件 / IT 外包服务（英国）"
- ],
- "channels": {
-  "role": "软件外包公司（终端用户，自用交换机）",
-  "region": "英国",
-  "contact": "nazeer.chaudhry@essentiatechnologies.com"
- },
- "signals": [
-  "官网：Home - Essentia Technologies ; Get top-notch quality with the right cost and the right experts ; Provide us with a job description ; We will find the best suited team for you",
-  "表内：软件公司，在用 Cisco/Netager 的交换机 看看有没有替换一些型号的可能，价格低；KP Chaudhry Nazeer Hussain / Chairman"
- ],
- "risks": [
-  "非渠道终端用户（自用少量交换机）；17 次无回复"
- ],
- "saga_fit": {
-  "p1": null,
-  "tier": 25,
-  "why": "非渠道终端用户（软件外包公司自用 Cisco/Netgear），17 次无回复 → 改 C"
- },
- "email_hook": "（不发送：终端用户/非渠道）"
 }

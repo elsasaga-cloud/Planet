@@ -1,0 +1,268 @@
+# PBA Forever Technology Co., Ltd.
+**官方名称（调研核实）**：PBA Forever Technology CO., LTD.
+
+> **评级 A**　|　泰国　|　档案编号 `SA-080`　|　优先级 ★★★　|　状态：成交过·活跃（Simon）
+>
+> **类型**：系统集成/工程（推断）　|　**历史关系**：成交/下单过　|　**所在清单**：补录、已成单、PI成单、Simon:活跃、货代走账、成交(PI)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+
+```yaml structured_profile
+code: SA-080
+rating: A
+rating_auto: A
+rating_research: A  # PI 包成单客户，Simon 标签 活跃：活跃/可发展 → A（值得长期跟进）
+name_official: "PBA Forever Technology CO., LTD."
+score: 66
+country: 泰国
+region: 亚太
+website: none
+type: 系统集成/工程
+tier_tags: ["补录", "已成单", "PI成单", "Simon:活跃", "货代走账", "成交(PI)"]
+deal: yes
+replies: 0
+followups: 0
+first_contact: unknown
+last_contact: unknown
+p1: STC-424XGGPM-280W
+price_tier: 25%
+research: done
+site_snapshot: none
+sources: 1
+updated: 2026-10-25
+```
+
+## SALES BRIEF（压缩模型）
+
+- **是谁**：已成单 6 个单号（2024-10-14 → 2026-07-06，RMB 单据合计 ≈37k，货代走账）；Simon 标签：活跃 · 货代走账 · 轻度绑定；详见 research/SA-080.json（调研 2026-10-22；表内兴趣：工业 PoE 管理交换机（STI-21616DGGPM / STI-21616GP / STI-42424DGGPM）、商用 2.5G/10G 非管理（STC-xxXGDGE/XGWE 系列）、STC-80XGO）
+- **为什么是 A 级**：**调研后定级 A**（PI 包成单客户，Simon 标签 活跃：活跃/可发展 → A（值得长期跟进））；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+0 仅免费邮箱；+3 区域 亚太/泰国；+5 最近活动 2026
+- **历史互动**：成交/下单过
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-21616GP（主力复购，¥1,050）；STI-42424DGGPM（汇聚，¥2,200）；Realtek 10G 桌面/光纤小机（STC-15XGDGE ¥238 / STC-80XGO ¥539 / STC-108XGDGP ¥413 / STC-18XGDGPW ¥462） — 6 单、三年、两条供应线都买过；WhatsApp 直达；小额高频、毛利最薄｜档位说明（原 tier 字段文字「RMB 货代走账（不走 USD 三档）」移此）：RMB 货代走账（不走 USD 三档）；绑定价（人民币，三年没动）：STI-21616GP ¥1,050（进 ¥952 → 9.3%，含运费 8.4%）；STI-21616DGGPM ¥1,460（进 ¥1,272 → 12.9%）；STI-42424DGGPM ¥2,200（进 ¥1,912 → 13.1%）；-U ¥2,400（进 ¥2,100 → 12.5%）；Realtek 10G 线 ≈16–17%。下一批按原价不动（Simon U28 绑定价）；若要回到底线：STI-21616GP Marvell 25% → ¥1,269——Simon 的决定，信里不提
+- **第一问（只问一个）**：Khun Peeranun, when is the next STI-21616GP batch — still 2–3 pcs, or a bigger project this time? (Managed models now ship on the AC5 platform; unmanaged STI-21616GP unchanged.)
+- **最大未知**：公司网站（表内无域名，无法核实是否仍在运营）
+- **下一步**：2026-11 下旬（上次 2026-07-06，按 3–6 个月节奏） WhatsApp（Elsa 开 PI） 问下一批 STI-21616GP 数量；顺带告知 AC5 版本已替代 AC3（STI-21616GP 为非管理不受影响，但 STI-42424DGGPM 管理型走 AC5）（第 76 批(b) 2026-10-25：audit_ab 硬错误修正：tier 字段规范为数字）
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-080` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：轻度（Simon U28 定级；6 单 RMB ≈37k，2024-10 → 2026-07，货代走账；Elsa 箱：`to:pomnong9@gmail.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(g)））** ｜ 类型：泰国 CCTV 安防集成/零售（pbacctv.com；价格 + 现货流） ｜ 筛子：3（多次下单，WhatsApp 成交） ｜ 停点：无停点；小额高频，走国内货代与人民币 ｜ 复活：已在复购；下一级 = 让其官网/套餐页出现 Saga 型号（监控快照 pbacctv.com 目前为自有套餐） ｜ 通路：TH 已通（货代走账） ｜ 节奏：最后 PI 2026-07-06；WhatsApp 往来不在邮件（0 封） ｜ 证据：PI 包 6 单；监控 `data/customer_watch` SA-080 三源 HTTP 200
+- **现状一句话**：曼谷 PBA（Peeranun）：WhatsApp 客户，S/A 邮箱 0 封，证据全在 Drive PI 文件夹（6 单 ≈¥37k，2024-10 → 2026-07，货代走账）。首单是 12 个型号 21 台的全线试吃（HRUI 成本 ¥7,885，5 天交付），后续五单从中挑型号复购：STI-21616GP（2025-01 ×2 / 2025-08 ×2 / 2026-07 ×3）、STI-42424DGGPM（2025-01 ×2 / 2025-12 ×1）、10G 桌面系列 STC-15XGDGE / STC-80XGO / STC-108XGDGP（2025-09）。
+- **对方真实需求（有据）**：CCTV/安防集成商的项目件：16 口工业 PoE（STI-21616GP）是主力，24 口工业 PoE 管理（STI-42424DGGPM）作汇聚，10G 桌面/MC 作辅件；节奏 3–6 个月一单、每单 1–5 台。
+- **断点 / 为什么停在这里**：3–6 个月一单、每单 1–5 台（上次 2026-07-06），三年绑定价未动、毛利 9–13%；渠道只有 WhatsApp（pbacctv.com 官网/套餐页至今无 Saga 型号）；AC3→AC5 平台切换只影响管理型（STI-42424DGGPM）——断点 = 下一单时点未知 + 价格无上调空间（全量审计 2026-10-25 U57 补）
+- **Saga 现在该推什么**：P1 **STI-21616GP（主力复购，¥1,050）；STI-42424DGGPM（汇聚，¥2,200）；Realtek 10G 桌面/光纤小机（STC-15XGDGE ¥238 / STC-80XGO ¥539 / STC-108XGDGP ¥413 / STC-18XGDGPW ¥462）**（None% 档，绑定价（人民币，三年没动）：STI-21616GP ¥1,050（进 ¥952 → 9.3%，含运费 8.4%）；STI-21616DGGPM ¥1,460（进 ¥1,272 → 12.9%）；STI-42424DGGPM ¥2,200（进 ¥1,912 → 13.1%）；-U ¥2,400（进 ¥2,100 → 12.5%）；Realtek 10G 线 ≈16–17%。下一批按原价不动（Simon U28 绑定价）；若要回到底线：STI-21616GP Marvell 25% → ¥1,269——Simon 的决定，信里不提）——6 单、三年、两条供应线都买过；WhatsApp 直达；小额高频、毛利最薄｜档位说明（原 tier 字段文字「RMB 货代走账（不走 USD 三档）」移此）：RMB 货代走账（不走 USD 三档）
+  - 复购/在买项：STI-21616GP：2025-01 ×2 / 2025-08 ×2 / 2026-07 ×3；Realtek 10G 小机：2024-10 样机 21 台 → 2025-09 复购 18 台
+  - 做不了 / 要先核的：复购毛利 8–13%，全部低于 20/25 底线（Q：下批是否调价——Simon 定，默认不动）；他的官网/套餐页仍不见 Saga 型号（U18 监控）；2026-07 之后的下一批 STI-21616GP 未到（节奏 3–6 个月 → 2026-11 下旬）
+- **下一步（具体）**：2026-11 下旬（上次 2026-07-06，按 3–6 个月节奏）　WhatsApp（Elsa 开 PI）　问下一批 STI-21616GP 数量；顺带告知 AC5 版本已替代 AC3（STI-21616GP 为非管理不受影响，但 STI-42424DGGPM 管理型走 AC5）（第 76 批(b) 2026-10-25：audit_ab 硬错误修正：tier 字段规范为数字）
+  - 第一问（只问一个）：Khun Peeranun, when is the next STI-21616GP batch — still 2–3 pcs, or a bigger project this time? (Managed models now ship on the AC5 platform; unmanaged STI-21616GP unchanged.)
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2024-10-12 | 去 | Simon → PBA（整线报价表《2.5g 10g network switch 121024》，PBA 回填数量） | 23 款 Realtek 2.5G/10G 商用机两列价：列表 USD/RMB 与 BEST OFFER USD/RMB——STC-15XGDGE $36→$34（¥252→¥238）、18XGDGE $48→$46、216XGDGE $175→$168、224XGDGE $196→$190、80XGO $80→$77、114XGDGP $43→$41、108XGDGP $62→$59、05XGWE $135→$130、08XGWE $186→$180、216XGDGWE $180→$175、224XGDGWE $200→$195、18XGDGPW $70→$66…；条款 15 天 / EXW / 1 年保 / <50 台 5~7 工作日 / 可定制；PBA 在表上填数量 → 合计 ¥13,083 = 第 1 单 | PBA 的成交价 = 列表价 −4%～−7%，这就是对「整线试样单」的折让尺度；全表与 2026 Q3 列表价对比见 docs/reference/价格表_Realtek_2.5G-10G线_2024-10对PBA报价_USD.md | `data/pi_2026-10/text/…13_泰国_Peeranun…Copy_of_Reply_on_Copy_of_2.5g_10g_network_switch_121024_new.xls` |
+| 2024-10-14 | 去 | HRUI → Saga（交期价格确认_2024.10.14.xlsx，1st order 成本表） | ZX-SWTG015AS ×3 ¥200 / ZX-SWTG018AS ×3 ¥270 / ZX-SWTG1216AS ¥980 / ZX-SWTG1224AS ¥1,100（「有最开始不带风扇的裸机…新的外壳 11-8 到」）/ ZX-SWTG1C8F ×2 ¥450 / ZX900-AFG-SWTG015ANS ×3 ¥240 / ZX900-AFG-SWTG018ANS ×2 ¥345 / ZX510S-5T ×2 ¥750（25 天）/ ZX-SWTGW2C80N ¥1,040 / ZX-SWTGW2216AS ¥1,020 / ZX-SWTGW2224AS ¥1,140 / ZX-AFGW-SWTG218ANS-100 ¥350；合计 21 台 ¥7,885；交期多为下单后 5 天 | PBA（曼谷 CCTV 集成商）首单是 12 个型号 21 台的「全线试吃」，HRUI 侧 5 天交付；后续 5 单（2025-02 ¥8,460 / 2025-09 ¥1,904 / 2025-12 ¥1,912 / 2026-07 ¥2,884）都是从这张表里挑型号复购——报价时直接按这些 ZX 料号对 STC/STI 码，不用再问 | `Drive PI 文件夹（data/pi_2026-10/text） 13_Peeranun` |
+| 2024-10-14 | 去 | Saga PI STSC20241014013（第 1 单，Simon 开，RMB） | 21 台 ¥13,083，全部 "Sample Testing"：STC-15XGDGE ×3 @¥238、STC-18XGDGE ×3 @¥322、STC-216XGDGE ×1 @¥1,176、STC-224XGDGE ×1 @¥1,330、STC-80XGO ×2 @¥539、STC-114XGDGP ×3 @¥287、STC-108XGDGP ×2 @¥413、STC-05XGWE/08XGWE 等（Realtek 10G 桌面/MC 线）。 | 首单就是 10G 桌面/光纤小机全系样机（HRUI Realtek 线），人民币结算、货代走账 | `PI 包 `13_泰国_Peeranun_活跃_货代走账_轻度绑定/1st order/STSC20241014013.xls`` |
+| 2024-10-14 | 内 | Saga 采购合同 → HRUI（第 1 单） | ZX-SWTG015AS ×3 @¥200、ZX-SWTG018AS ×3 @¥270、ZX-SWTG1216AS @¥980、ZX-SWTG1224AS @¥1,100、ZX-SWTG1C8F ×2 @¥450、ZX900-AFG-SWTG015ANS ×3 @¥240、ZX900-AFG-SWTG018ANS ×2 @¥345、ZX510S-5T ×2 @¥750；备注「标签写左边型号（HRUI ZX 型号）、美规插头、说明书 Ethernet/PoE/Managed Switch_STSC20241014013」。 | 首单毛利 ≈16–17%（¥238/¥200、¥322/¥270、¥1,176/¥980、¥539/¥450…）——低于 Realtek 20% 底线；**标签印的是 HRUI 的 ZX 型号**而非 STC（样机阶段） | `PI 包 `13_泰国_Peeranun_活跃_货代走账_轻度绑定/1st order/采购合同.xls` + `交期价格确认_2024.10.14.xlsx`` |
+| 2025-01-16 | 去 | Saga PI STSC20250116013（第 2 单）+ 凌特销售合同 P20250220-01 | STI-21616GP ×2 @¥1,050（Unmanaged）、STI-21616DGGPM ×2 @¥1,460、STI-42424DGGPM ×1 @¥2,200、STI-42424DGGPM-U ×1 @¥2,400（Marvell Chip；不含电源，带 Console 线）= 6 台 ¥9,620；进货（凌特 LT-IS6018GP-2GX16GT ¥952 / LT-IS6318GP ¥1,272 / LT-IS6328GP ¥1,912 / -U ¥2,100）= ¥8,460；收货地址 广州白云区白云湖街朗兴路7号 李慧 13416307791。 | 第 2 单转到 Marvell 工业线（SmartByte），毛利 (9,620−8,460)/9,620 = **12.1%**；他的广州货代仓 = 白云湖 李慧 | `PI 包 `13_泰国_Peeranun_活跃_货代走账_轻度绑定/2nd order/STSC20250116013.xls` + `郑州仨戛…P20250220-01_未税8460RMB.doc`` |
+| 2025-08-27 | 去 | Saga PI STSC20250827013（第 3 单）+ P20250909-01 | STI-21616GP ×2 @¥1,050 "Exactly the same as last order STSC20250116013" = ¥2,100；进货 LT-IS6018GP-2GX16GT ×2 @¥952 = ¥1,904（DC44-57V 供电）。 | STI-21616GP 成为他的主力复购件：卖 ¥1,050 / 进 ¥952 → **9.3%** | `PI 包 `13_泰国_Peeranun_活跃_货代走账_轻度绑定/3rd order/STSC20250827013.xls` + `P20250909-01_未税1904RMB.doc`` |
+| 2025-09-09 | 内 | 凌特（SmartByte）销售合同条款（P20250909-01 第八条） | 「工业级产品质保期【五】年，商业级产品质保期【二】年」。 | 上游给 Saga 的是工业 5 年 / 商业 2 年；Saga 对外口径工业 3 年 / 商业 1 年（口径 #5）——有 2 年 / 1 年的缓冲，不往外传 | `PI 包 `13_泰国_Peeranun_活跃_货代走账_轻度绑定/3rd order/P20250909-01.doc`` |
+| 2025-09-24 | 去 | Saga PI STSC20250924013（第 4 单，Neutral） | STC-15XGDGE ×5 @¥238、STC-80XGO ×5 @¥539、STC-108XGDGP ×5 @¥413、STC-18XGDGPW ×3 @¥462 = 18 台 ¥7,336（Realtek 10G 线复购，单价与首单相同）。 | 10G 桌面/光纤小机从「样机」变成批量复购（18 台），价格一年未动 | `PI 包 `13_泰国_Peeranun_活跃_货代走账_轻度绑定/4th order/STSC20250924013.xls`` |
+| 2025-12-12 | 去 | Saga PI STSC20251212013（第 5 单）+ P20251215-01 | STI-42424DGGPM ×1 @¥2,200；进货 LT-IS6328GP-4GX24GT ¥1,912 + 运费 ¥13。 | 24 口工业 PoE 管理汇聚：卖 ¥2,200 / 进 ¥1,912 → **13.1%** | `PI 包 `13_泰国_Peeranun_活跃_货代走账_轻度绑定/5th order/STSC20251212013.xls` + `P20251215-01_未税1912RMB.doc`` |
+| 2026-07-06 | 去 | Saga PI STSC20260706013（第 6 单）+ P20260723-01 | STI-21616GP ×3 @¥1,050 "Exactly the same as last order STSC20250827013" = ¥3,150；进货 ×3 @¥952 + 运费 ¥28 = ¥2,884。 | 第三次买同一型号，单价 ¥1,050 三年不变；毛利 **8.4%**（含运费）——全库最低的复购毛利之一 | `PI 包 `13_泰国_Peeranun_活跃_货代走账_轻度绑定/STSC20260706013.xls` + `P20260723-01_未税2884RMB.doc`` |
+
+- **还缺的证据（等 A 邮箱 / Extra Info）**：邮件 0 封；证据全部来自 Drive PI 包（6 张 PI + 采购/销售合同 + 入账记录）；WhatsApp 聊天记录不在库
+
+## 基本事实（事实/推断/假设分层）
+
+| 项 | 内容 | 层级 |
+|---|---|---|
+| 名称 | PBA Forever Technology Co., Ltd. | 事实（用户表） |
+| 国家 | 泰国 | 事实（用户表）|
+| 网站/域名 | — | 事实（用户表 URL/邮箱域名） |
+| 类型 | 系统集成/工程 | 推断（据兴趣/备注关键词） |
+| 联系人 | Peeranun Ratannabuajan | 事实（用户表） |
+| 来源（From） | 补录：PI 包成单客户（T29-U8） | 事实（用户表） |
+| 兴趣（Interested in） | 工业 PoE 管理交换机（STI-21616DGGPM / STI-21616GP / STI-42424DGGPM）、商用 2.5G/10G 非管理（STC-xxXGDGE/XGWE 系列）、STC-80XGO | 事实（用户表） |
+| 用户备注（Remark） | 已成单 6 个单号（2024-10-14 → 2026-07-06，RMB 单据合计 ≈37k，货代走账）；Simon 标签：活跃 · 货代走账 · 轻度绑定；详见 research/SA-080.json | 事实（用户表） |
+| 用户分档（Category） | 系统集成/工程 | 事实（用户表） |
+| 所在清单 | 补录、已成单、PI成单、Simon:活跃、货代走账、成交(PI) | 事实（文件路径） |
+| 在卖/在用品牌（备注所见） | — | 事实（用户备注）/ 推断 |
+
+## 客户调研（网页核实 · 引文 + URL + 日期）
+
+- **状态：已调研（2026-10-22）**　网站状态：
+- **是谁**：已成单 6 个单号（2024-10-14 → 2026-07-06，RMB 单据合计 ≈37k，货代走账）；Simon 标签：活跃 · 货代走账 · 轻度绑定；详见 research/SA-080.json
+- **类型**：系统集成/工程
+- **【PI】成交单据 STSC20241014013（PI，2024-10-14）：STC-05XGWE、STC-08XGWE、STC-108XGDGP、STC-114XGDGP、STC-15XGDGE、STC-18XGDGE、STC-18XGDGPW、STC-216XGDGE、STC-216XGDGWE、STC-224XGDGE、STC-224XGDGWE、STC-80XGO 共 21 台，RMB 13083.0；采购 HRUI RMB 10850.0**
+  > 来源：PI.zip:13 泰国 Peeranun 活跃 货代走账 轻度绑定/STSC20241014013.xls（抓取 2024-10-14）
+- **【PI】成交单据 STSC20250116013（PI，2025-01-16）：STI-21616DGGPM、STI-21616GP、STI-42424DGGPM、STI-42424DGGPM-U 共 6 台，RMB 9620.0；采购 SmartByte RMB 8460.0**
+  > 来源：PI.zip:13 泰国 Peeranun 活跃 货代走账 轻度绑定/STSC20250116013.xls（抓取 2025-01-16）
+- **【PI】成交单据 STSC20250827013（PI，2025-08-27）：STI-21616GP 共 2 台，RMB 2100.0；采购 SmartByte RMB 1904.0**
+  > 来源：PI.zip:13 泰国 Peeranun 活跃 货代走账 轻度绑定/STSC20250827013.xls（抓取 2025-08-27）
+- **【PI】成交单据 STSC20250924013（PI，2025-09-24）：STC-108XGDGP、STC-15XGDGE、STC-18XGDGPW、STC-80XGO 共 18 台，RMB 7336.0；采购 HRUI RMB 6025.0**
+  > 来源：PI.zip:13 泰国 Peeranun 活跃 货代走账 轻度绑定/STSC20250924013.xls（抓取 2025-09-24）
+- **【PI】成交单据 STSC20251212013（PI，2025-12-12）：STI-42424DGGPM 共 1 台，RMB 2200.0；采购 SmartByte RMB 1912.0**
+  > 来源：PI.zip:13 泰国 Peeranun 活跃 货代走账 轻度绑定/STSC20251212013.xls（抓取 2025-12-12）
+- **【PI】成交单据 STSC20260706013（PI，2026-07-06）：STI-21616GP 共 3 台，RMB 3150.0；采购 SmartByte RMB 2856.0**
+  > 来源：PI.zip:13 泰国 Peeranun 活跃 货代走账 轻度绑定/STSC20260706013.xls（抓取 2026-07-06）
+- **【PI】PI 包文件夹「泰国 Peeranun 活跃 货代走账 轻度绑定」：Simon 标签 活跃，收款 货代走账，轻度绑定；单号 6 个，2024-10-14 → 2026-07-06，销售 USD 0 / RMB 37489.0，Simon 成本统计利润合计 RMB 0**
+  > 来源：PI.zip:13 泰国 Peeranun 活跃 货代走账 轻度绑定（抓取 2026-10-22）
+- **【公开平台核查（T29-U18）】pbacctv.com 页脚：บริษัทพีบีเอ ฟอร์เอฟเวอร์ เทคโนโลยีจำกัด（PBA Forever Technology Co., Ltd.）电话 098-265-6972 / 086-544-2684，办公 02-050-0699，LINE peeranun8336，Email pomnong9@gmail.com**
+  > บริษัทพีบีเอ ฟอร์เอฟเวอร์ เทคโนโลยีจำกัด เบอร์โทร 098-265-6972 , 086-544-2684 สำนักงาน : 02-050-0699 … Line : peeranun8336 Email : pomnong9@gmail.com
+  > 来源：https://www.pbacctv.com/home/product/?id=139（抓取 2026-10-23）
+- **【公开平台核查（T29-U18）】业务：全套 CCTV 安装（住宅/宿舍/公寓/商铺/办公），Hikvision Color Vu 套餐 2 路 13,900฿ … 8 路 26,900฿；另卖 CCTV 电源箱与 UPS**
+  > โปรพิเศษ ลดราคาทุกชุด Hikvision Audio Camera 8 ตัวพร้อมติดตั้ง … ลดเหลือเพียง 26,900฿
+  > 来源：https://www.pbacctv.com/（抓取 2026-10-23）
+- **【Simon 口述】绑定等级：轻度绑定——客户官网宣传了 Saga 的型号**
+  > 轻度：代表没那么死，如果客户官网宣传了我的型号 比如那个泰国客户，他网站是有我型号的，这就算轻度绑定了
+  > 来源：docs/requirements/对话全记录.md § T29-U28（抓取 2026-10-23）
+- **【Simon 文档】绑定等级（文档）：轻度绑定——「网站已经宣传 Saga 型号比较久了」**
+  > 泰国 Peeranun　轻度绑定 = 网站已经宣传Saga型号比较久了
+  > 来源：Extra Info.zip 根目录《客户绑定情况分析.docx》（data/extra_info_2026-10/text/Extra_Info__客户绑定情况分析.docx__6d196b92.json）（抓取 2026-10-22）
+- **KP**：Peeranun Ratannabuajan（CEO）pomnong9@gmail.com 〔PI.zip 单据〕
+- **调研后定级**：A（原自动 A）——PI 包成单客户，Simon 标签 活跃：活跃/可发展 → A（值得长期跟进）
+
+### 加厚挖掘（2026-10-23 · 公开平台核查（T29-U18，针对性：只核活跃平台与触达通道））
+
+- **触达通道（公开）**：公开动态平台（监控中，T29-U18）: 官网 pbacctv.com（泰文 CCTV 安装商站：Hikvision 套餐价、电源/UPS 类目，持续上新）；LINE peeranun8336；电话 098-265-6972 / 086-544-2684 / 02-050-0699；pomnong9@gmail.com
+- **近况信号**：
+  - 2026-10-23 核查：公司网站为 pbacctv.com（此前只知 Gmail）——北榄府 Bang Phli 的 CCTV/门禁/网络安装商，主卖 Hikvision 套餐（2 路 13,900฿、6 路 24,900฿、8 路 26,900฿）+ 电源/UPS（CHUPHOTIC）；对口 = 4/8/16 口 PoE 交换机配套
+- **Saga 对位结论**：P1 待核型（无标准对应）（25% 档）——成单客户，按实际成交型号续单；贴牌/裸板需求按 OEM 30% 档单独核价
+
+## 在卖/在用品牌 → Saga 对位
+
+（备注未提及具体品牌）
+
+## 历史跟进记录（原表照录）
+
+（无跟进表记录）
+
+## 成交记录（PI 包 · 自动汇总）
+
+- **Simon 的标签**（PI 包文件夹名）：**活跃**　|　收款：货代走账　|　轻度绑定　|　买方抬头：PBA Forever Technology CO., LTD.
+- **单号** 6 个（2024-10-14 → 2026-07-06）　|　**销售** USD 0 + RMB 37,489（货代走账）
+
+| 单号 | 日期 | 单据 | 型号 | 数量 | 金额 | 采购（卖方 / RMB） | Simon 成本表（成本 / 收款 / 利润 RMB） |
+|---|---|---|---|---|---|---|---|
+| STSC20241014013 | 2024-10-14 | PI | STC-05XGWE、STC-08XGWE、STC-108XGDGP、STC-114XGDGP、STC-15XGDGE、 | 21 | RMB 13083.0 | HRUI / 10850.0 | — |
+| STSC20250116013 | 2025-01-16 | PI | STI-21616DGGPM、STI-21616GP、STI-42424DGGPM、STI-42424DGGPM-U | 6 | RMB 9620.0 | SmartByte / 8460.0 | — |
+| STSC20250827013 | 2025-08-27 | PI | STI-21616GP | 2 | RMB 2100.0 | SmartByte / 1904.0 | — |
+| STSC20250924013 | 2025-09-24 | PI | STC-108XGDGP、STC-15XGDGE、STC-18XGDGPW、STC-80XGO | 18 | RMB 7336.0 | HRUI / 6025.0 | — |
+| STSC20251212013 | 2025-12-12 | PI | STI-42424DGGPM | 1 | RMB 2200.0 | SmartByte / 1912.0 | — |
+| STSC20260706013 | 2026-07-06 | PI | STI-21616GP | 3 | RMB 3150.0 | SmartByte / 2856.0 | — |
+
+> 口径：同一单号多份文件取 CI > PI（最新修订）> Quotation；Quotation 行不计入销售合计；明细见 `data/pi_orders/销售单据明细.csv`、采购价见 `采购合同明细.csv`；原件在 Release `files-pi_2026-10`。
+
+## 动态监控（自动 · 网站 / 社媒 / 代码库）
+
+- **监控层**：成单精选层　|　**自动源**：3 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-23T02:54:23Z
+- 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-080/`；本节随档案重渲染刷新，实时看日志。
+
+| 源 | 类型 | 状态 | 最近变化 | 摘要 |
+|---|---|---|---|---|
+| [home](https://www.pbacctv.com/) | html | HTTP 200 | 2026-10-23T02:54:23Z | 30232 字符；首行：PBACCTV.COM ออกแบบและติดตั้ง CCTV\|คีการ์ด\|ไม้กระดก\|เครื่องสแกนนิ้ว\|ประตูรี |
+| [promos](https://www.pbacctv.com/home/item/) | html | HTTP 200 | 2026-10-23T02:54:23Z | 17695 字符；首行：PBACCTV.COM SETCCTV Promotion 2ตัว / 4ตัว / 6ตัว / 8ตัว ชุดโปรโมชั่นกล้องวงจรป |
+| [poe_products](https://www.pbacctv.com/home/product/?id=124) | html | HTTP 200 | 2026-10-23T02:54:23Z | 5364 字符；首行：POWER SUPPLY & ADAPTER |
+
+- **人工定期看（登录墙，不自动抓）**：LINE: peeranun8336；电话 098-265-6972 / 086-544-2684 / 02-050-0699（站内）；Facebook 页未检索到确切 URL（站内链接待在 Actions 抓到的首页快照里找）
+
+## 联系方式（已有 · 原值照录）
+
+- 邮箱：`pomnong9@gmail.com`〔免费邮箱；来源：用户表原值〕
+- 联系人（原值）：Peeranun Ratannabuajan
+- 职位（原值）：CEO
+- **邮箱纪律**：只用表内原值，不猜测、不拼接；发不过去的地址标注后保留不删。
+
+## 关键人（KP）与触达通道
+
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Peeranun Ratannabuajan | CEO | pomnong9@gmail.com | 调研核实（公开页） | PI.zip 单据 |
+
+- **通道建议**：仅免费邮箱：可发，但优先找官网公开的企业邮箱（见调研 KP）
+
+## 来源与归并（不漏 · 原始行定位）
+
+本客户只有 1 行原始记录。
+
+| 文件#表:行 | No. | Company（原值） | Country | Person | From | Interested in | Contact | Remark | 跟进表 |
+|---|---|---|---|---|---|---|---|---|---|
+| 补录客户.jsonl#(补录):7 | PI-006 | PBA Forever Technology Co., Ltd. | 泰国 | Peeranun Ratannabuajan | 补录：PI 包成单客户（T29-U8） | 工业 PoE 管理交换机（STI-21616DGGPM / STI-21616GP / STI-42424DGGPM）、商用 2.5G/10G 非管理（STC-xxXGDGE/XGWE 系列）、STC-80XGO | pomnong9@gmail.com | 已成单 6 个单号（2024-10-14 → 2026-07-06，RMB 单据合计 ≈37k，货代走账）；Simon 标签：活跃 · 货代走账 · 轻度绑定；详见 research/SA-080.json CEO | — |
+
+## 产品决策（Saga · 单一决策口径）
+
+| 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
+|---|---|---|---|---|
+| **P1** | STC-424XGGPM-280W | 24 口 PoE + 4×10G 上联 | $180 USD EXW（㉕ ② 群发现价（群发价台账），25% 档公式为 $188.7——同一客户随时可能收到 Alan 的群发，信稿不高于群发价；汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 25%（系统集成/工程） |
+| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $137.5 USD EXW（㉕ 封顶：25% 档 $145.7 高于 2026-06 Saga 列表价 $137.5，按列表价；SmartByte LT-IS6310GP-2GX8GT 780 CNY，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+
+- **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
+
+## 跟进建议
+
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W），备选型不进首触。
+
+- **第 1 次**：老客户回访——问上次所购型号的使用情况 + 告知 Marvell 新款（STC-424XGGPM-280W）；只问一个问题：当前在采购的主力型号与月量。
+- **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
+- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
+- 节奏：A 级 2–3 周一次，按对方时区工作日发；WhatsApp 已加的优先 WhatsApp 短消息，邮件做正式报价。
+- **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
+
+## SWOT
+
+- **S**：有成交史，信任与开户成本已付
+- **W**：没有可靠直达通道
+- **O**：P1 STC-424XGGPM-280W 按 25% 档报价，做现供应商的第二货源
+- **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
+
+## 触达与风险红线
+
+1. 包装、外观、说明书全部中性，不出现「Made in China」，贴客户自己的型号。
+2. 邮件只用表内原值地址；「发不过去」的地址保留并标注，不猜新地址。
+3. 不承诺 UL、EN50155、IP67、云管理；PoE 功率与工业温宽以实测为准。
+4. 乌克兰/军工/公共部门/轨道/生命安全场景守界；巨头分销与品牌厂商不投入。
+5. 同一客户在多张表出现时以本档为唯一入口，避免多人重复触达。
+
+## Qualification 清单
+
+| 门槛 | 状态 |
+|---|---|
+| 需求面成立（在卖/在用交换机或 PoE） | ✅ |
+| 决策人识别 | ✅ |
+| 触达通道 | ⚠️ 仅免费邮箱 |
+| 现用/在卖交换品牌 | ❓ 未知 |
+| 采购量/预算 | ✅ 有成交史（量待确认） |
+| 商业资格结论 | **技术上合格 / 商业上有互动证据（成交或实质回复或面谈）→ 值得长期跟进** |
+
+## Unknowns（待问清单 · 跟进后逐项消除）
+
+- [ ] 公司网站（表内无域名，无法核实是否仍在运营）
+- [ ] 年走量与现供应商
+
+## 英文跟进邮件（样板 · 可直接发送）
+
+**主题**：WhatsApp / 私信一句话（复制即发；不发邮件）
+
+```text
+Khun Peeranun, when is the next STI-21616GP batch — still 2–3 pcs, or a bigger project this time? (Managed models now ship on the AC5 platform; unmanaged STI-21616GP unchanged.)
+```
+
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
+
+## 新跟进记录（仓库外发出后补）
+
+| 日期 | 渠道 | 对象 | 我方动作 | 对方回应 | 下一步 | 下次动作日期 |
+|---|---|---|---|---|---|---|
+|  |  |  |  |  |  |  |
+
+> 历史跟进见上文「历史跟进记录（原表照录）」；新动作由用户在仓库外执行后告知日期与渠道，写入 research JSON 的 notes 后重渲染。
+
+## 下次复核
+
+- **2026-11-08**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+
+## 变更日志
+
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 66）
+
+---
+
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

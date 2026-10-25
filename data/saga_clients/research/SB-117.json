@@ -1,49 +1,28 @@
 {
  "code": "SB-117",
- "name_official": "Başaran Elektronik ve Güvenlik Sistemleri（Gömeç/Balıkesir, TR；basaranelektronik.net）",
+ "name_official": "Softline Technology（科威特；Anand Rajendiran）",
  "researched_at": "2026-10-21",
- "website_status": "在线",
- "summary": "土耳其巴勒克埃西尔 Gömeç 的本地安防安装商 Başaran Elektronik（2001 年成立，电子维修起家；服务 Edremit 海湾地区；CCTV、火灾报警、防盗报警、可视对讲；业主 Emrah Başaran（25 年电子行业）；Mithatpaşa Mh. Hasan Şen Sk. 23/30 Gömeç；+90 542 744 96 95；info@basaranelektronik.net）。ISAF 记录：拿了彩页、没说要什么产品；WhatsApp 已加；无后续跟进。微型安装商 → B 25%，低价 PoE 入门。",
+ "website_status": "无域名（gmail；仅表内信息）",
+ "summary": "科威特网络工程商（印度裔联系人 Anand Rajendiran），2014 年起用阿里国际站，需求 2 光 16 电工业 PoE；2025-07 对 24/48 口商用图回复 useful，2025-11 要公司信息与价格。表内被两份「欧洲」名单收录系误归（科威特）。",
  "type": "",
  "size": "",
  "brands_seen": [],
  "evidence": [
   {
-   "kind": "官网",
-   "claim": "业务与联系方式",
-   "quote": "Güvenlik Kamerası Sistemleri … Yangın Alarm Sistemleri … Hırsız Alarm Sistemleri … Adres : Balıkesir / Gömeç Mithatpaşa Mh. Hasan Şen Sk. 23/30 Tel : 0 (542) 744 96 95 E posta : info@basaranelektronik.net",
-   "url": "https://basaranelektronik.net/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "成立年",
-   "quote": "Başaran Elektronik ve Güvenlik Sistemleri, 2001 yılında Balıkesir'in Gömeç ilçesinde elektronik cihazların tamir, bakım ve onarım hizmetleri sunmak amacıyla kurulmuştur.",
-   "url": "https://basaranelektronik.com.tr/404",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "LinkedIn",
-   "claim": "业主",
-   "quote": "EMRAH BASARAN - BASARAN ELEKTRONİK … 25 yıllık Elektronik sektöründe hizmet vermekteyiz … Location: Gömeç",
-   "url": "https://tr.linkedin.com/in/emrah-basaran-86859130",
-   "date": "2020-09-02"
-  },
-  {
    "kind": "用户表",
-   "claim": "ISAF：拿彩页，未说产品",
-   "quote": "拿了彩页， 没说要什么产品 / 0542 744 9695 已加",
+   "claim": "兴趣 2 光 16 电工业 PoE；2014 年国际站；回复 company info, price / useful",
+   "quote": "兴趣：2光16电工业PoE 2014年使用国际站；回复：company info, price；useful",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
  "kp": [
   {
-   "name": "Emrah Başaran",
-   "role": "Boss / 业主（用户表 + LinkedIn）",
-   "email": "info@basaranelektronik.net（公开）",
-   "phone": "+90 542 744 96 95（公开，WhatsApp 已加）",
-   "source": "https://tr.linkedin.com/in/emrah-basaran-86859130"
+   "name": "Anand Rajendiran",
+   "title": "（表内联系人）",
+   "email": "rajaanand42@gmail.com",
+   "phone": "+965 9415 7777",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
   }
  ],
  "grade_override": null,
@@ -51,81 +30,86 @@
  "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网核对）"
+  "level": "无域名 · 仅表内信息"
  },
  "company_facts": {
-  "legal_name": "Başaran Elektronik ve Güvenlik Sistemleri",
-  "founded": "2001",
-  "hq": "Mithatpaşa Mh. Hasan Şen Sk. 23/30, Gömeç / Balıkesir（+90 542 744 96 95；info@basaranelektronik.net）",
-  "size": "微型（业主 + 数人）",
-  "other": "服务 Edremit 海湾（Ayvalık/Burhaniye/Gömeç）；守界：火灾报警主系统不供"
+  "legal_name": "（待核）",
+  "founded": "",
+  "hq": "科威特",
+  "size": "小型",
+  "other": "gmail；阿里国际站老买家"
  },
  "business_lines": [
-  "CCTV 安装（住宅/商铺）",
-  "防盗/火灾报警、可视对讲"
+  "网络 / 弱电工程（推断）"
  ],
  "channels": {
-  "网站": "https://basaranelektronik.net/",
-  "电话": "+90 542 744 96 95（公开）",
-  "邮箱（公开）": "info@basaranelektronik.net"
+  "role": "工程商",
+  "region": "科威特"
  },
  "signals": [
-  "海湾度假区住宅/商铺 CCTV → 8 口 PoE 非管理小机为主；价格敏感"
+  "明确口型需求 2 光 16 电工业 PoE",
+  "2025-11 主动要公司信息 + 价格"
  ],
  "risks": [
-  "微型、单量小；需求未表达；无后续跟进"
+  "gmail 联系、主体不可核",
+  "海湾项目付款：T/T 预付"
  ],
  "saga_fit": {
-  "p1": "STC-228GP",
+  "p1": "STI-21616GP",
   "tier": 25,
-  "why": "安装商 25% 档：STC-228GP（Saga Realtek 线 2 SFP + 8 GE PoE 非管理，列表 $30.8）/ STC-028GP（$24.2）作 CCTV 标配；需管理再上 STC-28GPM（$62.2）"
+  "why": "2 光 16 电工业 PoE = Saga STI-21616GP（$170.4/177.5/184.6）精确对位。"
  },
- "email_hook": "Emrah Bey, kamera kurulumlarınız için 8 port gigabit PoE + 2 SFP switch (yönetilmeyen) fiyatı 34,6 USD EXW; ayda ortalama kaç kamera projesi yapıyorsunuz — ona göre küçük parti fiyatı vereyim.",
+ "email_hook": "Anand, you asked for our company profile and prices in November — the 16-PoE + 2-SFP industrial unit you specified ships within a week; want the EXW price for 1 pc and for 10 pcs?",
  "mail_review": {
   "binding": {
-   "level": "轻度触达（展会名片 + WhatsApp 已加，邮件 0 封）：用户表「拿了彩页， 没说要什么产品 / 0542 744 9695 已加」；S/A 邮箱 0 封；Elsa 箱：`to:basaranelektronik.net` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(i)）",
+   "level": "未触达（A 邮箱 5 封 2026，无记录打开，0 回；收件 rajaanand42@gmail.com；主题多为「Industrial PoE Switch、10G L3 Managed Switch」；Elsa 箱：`to:rajaanand42@gmail.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 5 / 来 0）（第 74 批(n)））",
    "type": "—",
-   "sieve": "3（已加 WhatsApp，表内有往来）",
-   "stop": "仓库只有用户表一行；往来在 Simon 手机",
-   "revive": "首封邮件（A 邮箱，按 email_hook）+ WhatsApp 一句话",
-   "lane": "土耳其 非主攻",
-   "cadence": "一封",
-   "evidence": "gmail_digest：out 0；用户表：「拿了彩页， 没说要什么产品 / 0542 744 9695 已加」；研究档 risks：微型、单量小；需求未表达；无后续跟进"
+   "sieve": "1（只收到群发）",
+   "stop": "5 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "科威特 非主攻",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 5；用户表：「兴趣：2光16电工业PoE 2014年使用国际站；回复：company info, price；useful」；研究档 risks：gmail 联系、主体不可核"
   },
-  "situation": "土耳其巴勒克埃西尔 Gömeç 的本地安防安装商 Başaran Elektronik（2001 年成立，电子维修起家；服务 Edremit 海湾地区；CCTV、火灾报警、防盗报警、可视对讲；业主 Emrah Başaran（25 年电子行业）；Mithatpaşa Mh. Hasan Şen Sk. 23/30 Gömeç；+90 542 744 96 95；info@basaranelektronik.net）。ISAF 记录：拿了彩页、没说要什么产品；WhatsApp 已加；无后续跟进。微型安装商 → B 25%，低价 PoE 入门。",
-  "need": "安装商 25% 档：STC-228GP（Saga Realtek 线 2 SFP + 8 GE PoE 非管理，列表 $30.8）/ STC-028GP（$24.2）作 CCTV 标配；需管理再上 STC-28GPM（$62.2）",
-  "breakpoint": "微型、单量小；需求未表达；无后续跟进",
+  "situation": "科威特网络工程商（印度裔联系人 Anand Rajendiran），2014 年起用阿里国际站，需求 2 光 16 电工业 PoE；2025-07 对 24/48 口商用图回复 useful，2025-11 要公司信息与价格。表内被两份「欧洲」名单收录系误归（科威特）。",
+  "need": "2 光 16 电工业 PoE = Saga STI-21616GP（$170.4/177.5/184.6）精确对位。",
+  "breakpoint": "gmail 联系、主体不可核",
   "saga_now": {
-   "p1": "STC-228GP",
+   "p1": "STI-21616GP",
    "tier": 25,
-   "price": "Realtek 线按 HRUI 2026-09-30 进价 +25% 现算（Q-47 默认，不用 Drive 旧表价）：STC-228GP $30.8→$34.6；按主表（研究档 saga_fit）",
-   "why": "安装商 25% 档：STC-228GP（Saga Realtek 线 2 SFP + 8 GE PoE 非管理，列表 $30.8）/ STC-028GP（$24.2）作 CCTV 标配；需管理再上 STC-28GPM（$62.2）",
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2026-06-18 $16000（32 Port 400GB DC Switch）",
+   "why": "2 光 16 电工业 PoE = Saga STI-21616GP（$170.4/177.5/184.6）精确对位。",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "2026-11（Simon）",
-   "channel": "A 邮箱首封 + WhatsApp（Simon）",
-   "action": "首封 + 一句话",
-   "one_question": "Emrah Bey, kamera kurulumlarınız için 8 port gigabit PoE + 2 SFP switch (yönetilmeyen) fiyatı 34,6 USD EXW; ayda ortalama kaç kamera projesi yapıyorsunuz — ona göre küçük parti fiyatı vereyim."
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Anand, you asked for our company profile and prices in November — the 16-PoE + 2-SFP industrial unit you specified ships within a week; want the EXW price for 1 pc and for 10 pcs?"
   },
   "facts": [
+   {
+    "date": "2026-09-15",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "Industrial PoE Switch、10G L3 Managed Switch",
+    "why": "5 封 / 0 次打开 / 0 回｜首封 2026-04-15 → 末封 2026-09-15（5 去 / 0 来）",
+    "k": "gmail_digest"
+   },
    {
     "date": "2026-10-21",
     "dir": "用户表",
     "who": "Simon",
-    "quote": "拿了彩页， 没说要什么产品 / 0542 744 9695 已加",
+    "quote": "兴趣：2光16电工业PoE 2014年使用国际站；回复：company info, price；useful",
     "why": "表内备注",
     "k": "用户表"
    }
   ],
   "proof_gaps": [
-   "WhatsApp 往来未入库"
+   "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
   ],
-  "draft_en": {
-   "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
-   "body": "Emrah Bey, kamera kurulumlarınız için 8 port gigabit PoE + 2 SFP switch (yönetilmeyen) fiyatı 34,6 USD EXW; ayda ortalama kaç kamera projesi yapıyorsunuz — ona göre küçük parti fiyatı vereyim."
-  },
+  "draft_en": null,
   "as_of": "2026-10-24"
  }
 }

@@ -11,7 +11,7 @@
  "text": "Hi, Shantanu,\nYes, we have supplied this product to India recently.\nFor some projects, the orders were confirmed directly via\nemail/communication,\nso there is no formal PO available.\nHowever, we can provide supporting documents such as:\nshipping document and proof of delivery.\nPlease let us know if this is acceptable.\nThank you.",
  "char_count": "421",
  "attachments": "[{'filename': 'DIN Rail Unmanaged.jpg', 'mime_type': 'image/jpeg', 'size': 277893}, {'filename': 'AWB.png', 'mime_type': 'image/png', 'size': 140049}, {'filename': 'Whatsapp Talk.png', 'mime_type': 'image/png', 'size': 167512}]",
- "note": "SB-178：HFCL 要印度供货业绩 / PO，Elsa 2026-04-05 答「最近供过印度、无正式 PO，可给运单 + 收货证明」，附 AWB.png + WhatsApp 截图",
+ "note": "SB-243：HFCL 要印度供货业绩 / PO，Elsa 2026-04-05 答「最近供过印度、无正式 PO，可给运单 + 收货证明」，附 AWB.png + WhatsApp 截图",
  "text_source": "text/plain",
  "fetched": "2026-10-24T16:05Z",
  "method": "Arena Gmail connector get_message_text(include_quoted=false)"

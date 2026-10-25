@@ -1,0 +1,74 @@
+{
+ "code": "SC-020",
+ "name_official": "3MEDIALAB S.R.L.（IN LIQUIDAZIONE，Roma；P.IVA 14909621006）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（内容陈旧；公司已进入清算）",
+ "summary": "罗马的小型广播/影视设备经销商（2018-09 成立，ATECO 46.43.3 摄影/电影/光学器材批发；营收 2022 €119.7k → 2023 €60.8k，2025 员工 0，注册资本 €5,800），负责人 Antonio Greco（Sales/Managing Director，+39 324 907 2492）。**商业登记显示公司名已带「IN LIQUIDAZIONE」（清算中）**。用户表：有一次成交记录，0 次后续跟进。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "商业登记",
+   "claim": "公司清算中、员工 0、营收",
+   "quote": "3MEDIALAB S.R.L. IN LIQUIDAZIONE, Partita IVA: 14909621006 … Indirizzo: VIA GIULIO PASQUATI 7 - 00139 - ROMA (RM) … Fatturato: € 60.767,00 (2023) … Dipendenti : 0 (2025) … Data Iscrizione: 21/09/2018 … Capitale sociale: € 5.800,00 (2025)",
+   "url": "https://www.ufficiocamerale.it/6453/3medialab-srl",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "业务与负责人联系方式",
+   "quote": "Siamo una giovane azienda che propone tecnologia e Sistemi, all'avanguardia per la: Produzione, Post Produzione, Distribuzione ed Archiviazione Multimediale (Radio, Tv, Cinema & Web) … antonio.greco@3medialab.com Oppure, contattami al numero +39 324 907 2492",
+   "url": "http://www.3medialab.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "一次成交记录；0 次后续跟进",
+   "quote": "（用户表字段：成交 1 / 跟进 0）",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Antonio Greco",
+   "role": "Managing Director / Sales Manager",
+   "email": "antonio.greco@3medialab.com（官网公开）",
+   "phone": "+39 324 907 2492（官网公开）",
+   "source": "http://www.3medialab.com/"
+  }
+ ],
+ "grade_override": "C",
+ "override_reason": "2026-10-21 商业登记显示 3MEDIALAB S.R.L. IN LIQUIDAZIONE（清算中），2025 年员工 0、2023 营收 €60.8k；历史成交一次性，无复购可能 → C（子原因：公司清算/停业）",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（商业登记核对）"
+ },
+ "company_facts": {
+  "legal_name": "3MEDIALAB S.R.L. IN LIQUIDAZIONE",
+  "registry": "P.IVA/C.F. 14909621006 · REA RM 1554825 · 注册 2018-09-21",
+  "hq": "Via Giulio Pasquati 7, 00139 Roma (RM)",
+  "size": "0 员工（2025）；营收 €60,767（2023）",
+  "other": "PEC 3medialabsrl@pec.3medialab.com；曾代理 Blackmagic 等广播设备、慢动作/视频裁判系统"
+ },
+ "business_lines": [
+  "广播/影视设备经销（Blackmagic 等）"
+ ],
+ "channels": {
+  "网站": "http://www.3medialab.com/"
+ },
+ "signals": [
+  "历史成交为一次性（广播项目配套）；公司清算中、无员工 → 无复购可能"
+ ],
+ "risks": [
+  "公司清算中（IN LIQUIDAZIONE）——不再投入；若 Antonio Greco 另立新公司可重新登记"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 25,
+  "why": "不再推进；如负责人以新主体复购，按集成商 25% 档报 STC-28DGGPM"
+ },
+ "email_hook": "（不发送：公司清算中）"
+}

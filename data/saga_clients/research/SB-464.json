@@ -1,106 +1,83 @@
 {
  "code": "SB-464",
- "name_official": "",
+ "name_official": "Hamdaztech Technologies（沙特 / 印度）",
  "researched_at": "2026-10-21",
- "website_status": "在线（ezy.hr，快照 2026-10-21）",
- "summary": "克罗地亚 EZY Infotech d.o.o.（IT 设备分销：网络（Planet 词频 12、MikroTik）、光纤、无线、PC 组件；表内「分销商」；KP Petra Novosel（Managing Director，petra@）、David Dolenec（Product Manager））；群发 6 次无回复。",
- "type": "IT 设备分销商（克罗地亚，在售 PLANET）",
+ "website_status": "在线（hamdaz.com，快照 2026-10-21）",
+ "summary": "Hamdaz（站内电话 +91 92077 73300，表内国家沙特；Rea Cabidog），询盘表来源，无兴趣描述；WA 无实质回复；身份与国别待核。",
+ "type": "",
  "size": "",
- "brands_seen": [
-  "PLANET",
-  "MikroTik"
- ],
+ "brands_seen": [],
  "evidence": [
   {
    "kind": "官网快照",
-   "claim": "官网标题：EZY Infotech d.o.o.；品类词 无线 / WiFi / 数据中心 / 企业 IT / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
-   "quote": "Distribucija informatičke opreme",
-   "url": "https://ezy.hr/",
+   "claim": "hello@hamdaz.com；+91 9207773300",
+   "quote": "emails hello@hamdaz.com; phones +91 9207773300",
+   "url": "https://hamdaz.com/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "分销商",
+   "claim": "询盘统计表来源，无兴趣描述",
+   "quote": "（空）",
    "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "EZY Infotech 分销",
-   "quote": "EZY Infotech d.o.o. ; Distribucija informatičke opreme",
-   "url": "https://ezy.hr/",
    "date": "2026-10-21"
   }
  ],
  "kp": [
   {
-   "name": "Petra Novosel",
-   "title": "Managing Director",
-   "email": "petra@ezy.hr",
-   "phone": "",
-   "source": "用户表"
-  },
-  {
-   "name": "David Dolenec",
-   "title": "Product Manager",
-   "email": "",
-   "phone": "",
-   "source": "用户表"
+   "name": "Rea Cabidog",
+   "title": "（表内联系人）",
+   "email": "rea@hamdaz.com",
+   "phone": "+966 52 864 8341（待核）",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
   }
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（快照 + 表内）"
  },
  "company_facts": {
-  "hq": "克罗地亚",
-  "other": "官网 ezy.hr，语言 ?，快照状态 ok；角色判定来源：用户表"
+  "legal_name": "Hamdaztech Technologies Inc LLC（待核）",
+  "founded": "",
+  "hq": "（沙特 / 印度，待核）",
+  "size": "小型",
+  "other": ""
  },
- "business_lines": [
-  "IT 设备分销（网络 / 光纤 / 无线 / PC 组件）"
- ],
  "channels": {
-  "role": "IT 设备分销商（克罗地亚，在售 PLANET）",
-  "region": "克罗地亚",
-  "contact": "prodaja@ezy.hr、petra@ezy.hr"
+  "role": "（未知）",
+  "region": "沙特 / 印度"
  },
- "signals": [
-  "官网：Distribucija informatičke opreme；kw planet 12 / mikrotik 6 / switch 42 / poe 39 / fiber 45",
-  "KP：Petra Novosel / Managing Director；David Dolenec / Product Manager（表内）"
- ],
  "risks": [
-  "小国（克罗地亚）：量有限；6 次无回复 → 改向 Managing Director 具名首触",
-  "在售 PLANET / MikroTik 品牌货：白牌需靠价差"
+  "身份不明；无需求"
  ],
  "saga_fit": {
   "p1": "STC-28DGGPM",
-  "tier": 20,
-  "why": "在售 PLANET 商用交换机 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）对位 GS-4210-8P2S；24 口位 STC-424DGGPM-280W"
+  "tier": 25,
+  "why": "无口型。"
  },
- "email_hook": "Petra, alongside the PLANET and MikroTik switches you distribute, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ model and 24-PoE + 4 SFP from small lots, CE/RoHS, EXW USD — which PLANET PoE model do your resellers order most, so we quote its equivalent first?",
+ "email_hook": "（低优先）",
  "mail_review": {
   "binding": {
-   "level": "未触达（A/S 邮箱 17 封 2025→2026，无记录打开，0 回；收件 david@ezy.hr, petra@ezy.hr；主题多为「Industrial PoE Switch、24 Port PoE Managed Switch」；Elsa 箱：`to:ezy.hr` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 17 / 来 0）（第 74 批(k)））",
-   "type": "IT 设备分销商（克罗地亚，在售 PLANET）",
-   "sieve": "1（只收到群发）",
-   "stop": "17 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱；Q-33 供应商渠道客户",
-   "revive": "不动（Q-33）",
-   "lane": "克罗地亚（欧洲全域主攻）",
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「（空）」；Elsa 箱：`to:hamdaz.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(n)））",
+   "type": "—",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "不动（非主攻区；J5：有证据再动）；WhatsApp 已加 → 唤醒走 WhatsApp 一句话，不走邮件",
+   "lane": "沙特阿拉伯 非主攻",
    "cadence": "不动",
-   "evidence": "gmail_digest：out 17；用户表：「分销商」；研究档 risks：小国（克罗地亚）：量有限；6 次无回复 → 改向 Managing Director 具名首触"
+   "evidence": "gmail_digest：out 0；用户表：「（空）」；研究档 risks：身份不明；无需求"
   },
-  "situation": "克罗地亚 EZY Infotech d.o.o.（IT 设备分销：网络（Planet 词频 12、MikroTik）、光纤、无线、PC 组件；表内「分销商」；KP Petra Novosel（Managing Director，petra@）、David Dolenec（Product Manager））；群发 6 次无回复。",
-  "need": "在售 PLANET 商用交换机 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）对位 GS-4210-8P2S；24 口位 STC-424DGGPM-280W",
-  "breakpoint": "小国（克罗地亚）：量有限；6 次无回复 → 改向 Managing Director 具名首触",
+  "situation": "Hamdaz（站内电话 +91 92077 73300，表内国家沙特；Rea Cabidog），询盘表来源，无兴趣描述；WA 无实质回复；身份与国别待核。",
+  "need": "无口型。",
+  "breakpoint": "身份不明；无需求",
   "saga_now": {
    "p1": "STC-28DGGPM",
-   "tier": 20,
-   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-10-08 $180（24 Port PoE Managed Switch = STC-424XGGPM-280W，Alan 2026-09-21 起的现价轮）——同款信稿只能写 $180；群发里他已看到的价（续）：2026-07-29 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-06-19 $300（48 Port PoE Managed Switch）、2025-09-19 $240（24 Port Fiber Switch）、2026-06-18 $16000（32 Port 400GB DC Switch）",
-   "why": "在售 PLANET 商用交换机 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）对位 GS-4210-8P2S；24 口位 STC-424DGGPM-280W",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "无口型。",
    "repeat": [],
    "gaps": []
   },
@@ -112,23 +89,18 @@
   },
   "facts": [
    {
-    "date": "2026-10-08",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "Industrial PoE Switch、24 Port PoE Managed Switch",
-    "why": "17 封 / 0 次打开 / 0 回｜首封 2025-05-02 → 末封 2026-10-08（17 去 / 0 来）",
-    "k": "gmail_digest"
-   },
-   {
     "date": "2026-10-21",
     "dir": "用户表",
     "who": "Simon",
-    "quote": "分销商",
+    "quote": "（空）",
     "why": "表内备注",
     "k": "用户表"
    }
   ],
-  "proof_gaps": [],
+  "proof_gaps": [
+   "无邮件往来",
+   "用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+  ],
   "draft_en": null,
   "as_of": "2026-10-24"
  }

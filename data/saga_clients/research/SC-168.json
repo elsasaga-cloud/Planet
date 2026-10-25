@@ -1,0 +1,61 @@
+{
+ "code": "SC-168",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "快照失败（http_error）",
+ "summary": "台湾 Zulite（SDI/AHD 视频转换器自有 logo，部分工业 FS 为 Allied Telesis；官网 http_error）；表内未跟进。",
+ "type": "台湾视频转换器品牌商（同行/台湾厂商）",
+ "size": "",
+ "brands_seen": [
+  "Allied Telesis"
+ ],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "SDI AHD 主要是VC 自己的logo 部分工业FS allied telesis的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "VC 自己的 logo；Allied Telesis 工业 FS",
+   "quote": "SDI AHD 主要是VC 自己的logo 部分工业FS allied telesis的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "同行/台湾厂商（自有品牌 VC）；c_sub=同行/台湾厂商",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "台湾",
+  "other": "官网 zulite.com.tw，语言 ?，快照状态 http_error；角色判定来源：用户表"
+ },
+ "business_lines": [
+  "SDI / AHD 视频转换器（自有品牌，台湾）"
+ ],
+ "channels": {
+  "role": "台湾视频转换器品牌商（同行/台湾厂商）",
+  "region": "台湾",
+  "contact": "marketing@zulite.com.tw"
+ },
+ "signals": [
+  "表内：SDI AHD 主要是 VC 自己的 logo 部分工业 FS allied telesis 的",
+  "快照：http_error"
+ ],
+ "risks": [
+  "同行/台湾厂商：自有品牌 SDI/AHD 转换器；官网 http_error"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 30,
+  "why": "台湾厂商（自有品牌 VC），非渠道客户 → 改 C"
+ },
+ "email_hook": "（不发送：台湾厂商）"
+}

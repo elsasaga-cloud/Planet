@@ -1,0 +1,60 @@
+{
+ "code": "SC-086",
+ "name_official": "InHand Networks（映翰通，美国办事处）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（inhandnetworks.com，快照 2026-10-21）",
+ "summary": "InHand Networks 为北京映翰通（中国大陆）的工业路由 / IoT 网关 / 工业交换机厂商，此为其美国站（+1 703 348 2988）；表内「工业 FS 物联网 自己的 logo」；群发 20 次无回复。中国大陆厂商海外办事处 → 非客户，降 C。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "InHand（自有）"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "工业路由、IoT 网关、边缘计算、以太网交换机厂商（美国站）",
+   "quote": "InHand provides cellular and industrial routers, IoT gateways, AI edge computers, Ethernet switches, and cloud services… +1(703)348-2988",
+   "url": "https://inhandnetworks.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "工业 FS 物联网 自己的 logo",
+   "quote": "兴趣：工业FS 物联网 自己的logo",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "中国大陆厂商（映翰通）美国办事处，非渠道客户（INH：厂商 / 办事处不是客户；大陆主体）",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（身份判断 → 大陆厂商办事处降 C）"
+ },
+ "company_facts": {
+  "legal_name": "InHand Networks Inc.（映翰通美国）",
+  "founded": "2001（北京）",
+  "hq": "Fairfax, VA, USA（总部北京）",
+  "size": "中国大陆厂商海外办事处",
+  "other": ""
+ },
+ "business_lines": [
+  "工业路由 / 网关 / 交换机制造（竞品）"
+ ],
+ "channels": {
+  "role": "中国大陆厂商海外办事处",
+  "region": "美国"
+ },
+ "signals": [],
+ "risks": [
+  "中国大陆厂商（竞品）办事处，非客户"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 30,
+  "why": "不主动跟进。"
+ },
+ "email_hook": "（不主动发送）"
+}

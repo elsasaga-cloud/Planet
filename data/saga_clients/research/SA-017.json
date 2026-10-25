@@ -1,256 +1,200 @@
 {
  "code": "SA-017",
- "name_official": "(주)이지넷유비쿼터스 EZ-NET Ubiquitous Co., Ltd.（品牌 NEXTU，Seoul）",
+ "name_official": "Parallax Digital Technologies Ltd（Cramlington, Northumberland, UK）",
  "website_status": "在线",
- "summary": "韩国首尔网络/数码周边分销商（2004 年成立），自有品牌 NEXTU / NEXTLINK 约 1,000 个 SKU，网络产品线齐全：L2/L3/安防/90W/网管/非网管 PoE 交换机、工业 PoE、10G 工业 S-RING、政府采购业务；代表 김우경。用户表：Secon 2023 参展商，去过深圳，三次到访谈 bypass/2.5G/10G/波分，MC 与工业 FS 想用自己牌子，联系人 Roadman Kim。",
- "type": "品牌商/分销商（自有品牌 NEXTU，OEM 采购）",
- "size": "未见人数；自有品牌约 1,000 SKU（JobKorea）",
+ "summary": "英国诺森伯兰的微型 OEM/ODM 技术公司（2016 年注册，申报雇员 1 人，营业额 <£1M），自有品牌网络设备/数显/视频处理产品，交换产品已用于伦敦等城市高层住宅的消防探测网络（多家市政与住房协会）；代理 Riden 电源、Weipu 连接器。用户表：2 次实质回复，兴趣工业 FS，已有 E-link 5 电口。",
+ "type": "微型 OEM/ODM 品牌商（自有品牌网络设备）",
+ "size": "1 人申报 / <£1M（Endole）",
  "brands_seen": [
-  "NEXTU",
-  "NEXTLINK",
-  "SUNIX"
+  "E-link",
+  "Riden",
+  "Weipu"
  ],
  "evidence": [
   {
    "kind": "官网",
-   "claim": "产品线：PoE/L2/L3/工业 PoE 交换机全覆盖",
-   "quote": "Network Equipment · PoE Switch Hub · Security PoE Switch · L2 PoE Switch · L3 PoE Switch · 90W High Power PoE Switch · Web Smart PoE Switch · Unmanaged PoE Switch · Ethernet Switch Hub … Industrial PoE Switch Hub",
-   "url": "https://www.ez-net.co.kr/en/sub/sub01_01.php?cat_no=237",
+   "claim": "自有品牌 OEM/ODM 网络设备，交换产品已部署于英国高层住宅消防探测网络",
+   "quote": "the Company has created and developed its own brand of digital products and services, incorporating a hybrid OEM/ODM model, including computer networking equipment … Our network designs and switching products have been in service in tower blocks in London and other cities, providing critical, secure, fault-tolerant infrastructure solutions for fire detection systems",
+   "url": "https://parallaxdigital.co.uk/about-us/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "第三方（Endole）",
+   "claim": "规模：雇员 1，营业额 <£1M",
+   "quote": "Parallax Digital Technologies Limited … Turnover is under £1M · Under 10 employees … Employees 1",
+   "url": "https://open.endole.co.uk/insight/company/10314407-parallax-digital-technologies-limited",
    "date": "2026-10-21"
   },
   {
    "kind": "官网",
-   "claim": "工业 90W PoE / 10G 工业 S-RING / 政府采购",
-   "quote": "Network Equipment - High-Power PoE - CCTV - Wireless remote control - 10G Industrial S-RING - Procurement Business · Industrial 90W PoE Switch / Injector",
-   "url": "https://ez-net.co.kr/en/network/sub01_01.php",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "第三方（JobKorea）",
-   "claim": "2004 年成立，自有品牌 NEXT 约 1,000 SKU",
-   "quote": "㈜이지넷유비쿼터스는 2004년도에 설립하여 … 약 1000여개의 자사 전문브랜드인 ‘NEXT’제품으로",
-   "url": "https://www.jobkorea.co.kr/recruit/co_read/c/jjwpac22",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网（商城）",
-   "claim": "法人代表与官方邮箱",
-   "quote": "회사명 : (주)이지넷유비쿼터스 · 대표자 : 김우경 · 이메일 : marketing@ez-net.co.kr · 대표전화 : 02-715-0372",
-   "url": "https://nextu.kr/article/q-a/6/12691",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网商城",
-   "claim": "NEXT-POE8022GDT 售价",
-   "quote": "산업용 기가 8포트 POE 스위치허브 NEXT-POE8022GDT - 소비자가 : 300,000원 - 판매가 : 205,500원",
-   "url": "https://nextu.kr/category/%EC%82%B0%EC%97%85%EC%9A%A9-poe-%EC%8A%A4%EC%9C%84%EC%B9%98/362/",
+   "claim": "销售邮箱/电话",
+   "quote": "Sales sales@parallaxdigital.co.uk … Phone: +44 (0)1670 202001",
+   "url": "https://parallaxdigital.co.uk/contact/",
    "date": "2026-10-21"
   },
   {
    "kind": "官网",
-   "claim": "工业 PoE 交换机分类（L2/安全/L3/BT/非管理）",
-   "quote": "산업용 PoE 스위치허브 - L2 POE 스위치 - 보안기능POE 스위치 - L3 POE 스위치 - BT 고출력 POE 스위치 - 언매니지드 POE 스위치",
-   "url": "https://ez-net.co.kr/sub/sub01_01.php?cat_no=149",
+   "claim": "自有品牌工业 PoE 交换机 PDT-NSU-7104-MP-SF-I 规格",
+   "quote": "The PDT-NSU-7104-MP-SF-I is an Ultra-Small Form Factor Industrial PoE Switch, supporting 4 x 10/100/1000 BASE-T PoE+ RJ45 Ports, and 1 x 100/1000 BASE-X auto-detecting SFP Port … 12-48VDC Power Input with Voltage Booster … Up to 120W PoE Budget (48VDC) … -40°C to +80°C … Manufacturer: Parallax Digital Technologies",
+   "url": "https://parallaxdigital.co.uk/shop/industrial-networking-equipment/micro-net/pdt-nsu-7104-mp-sf-i-4-port-10-100-1000-base-t-max-poe-1-port-10-100-1000-base-x-sfp-unmanaged-sff-industrial-switch-12-48vdc/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "公司注册信息与地址；销售/网络运维邮箱公开",
+   "quote": "Parallax Digital Technologies Ltd Unit 19 Endeavour Park, Baker Road, Nelson Park West, Cramlington, Northumberland, NE23 1XA Company No. 10314407 VAT No. GB251731130 … Sales sales@parallaxdigital.co.uk Network Support networkops@parallaxdigital.co.uk",
+   "url": "https://parallaxdigital.co.uk/contact/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "自称英国最大交换机库存之一；高层住宅消防探测网络用其交换产品",
+   "quote": "we also have probably the largest stock of managed and unmanaged network switches (PoE and non-PoE) in the UK … Our network designs and switching products have been in service in tower blocks in London and other cities … for fire detection systems",
+   "url": "https://parallaxdigital.co.uk/about-us/",
    "date": "2026-10-21"
   }
  ],
  "kp": [
   {
-   "name": "Roadman Kim",
-   "role": "展会名片联系人（用户表）",
-   "email": "",
-   "phone": "+82 2-715-3889 / +82 10-2503-1288",
-   "source": "Clients/A/DONE/KR.xlsx"
-  },
-  {
-   "name": "김우경（Kim Woo-kyung）",
-   "role": "代表（법인 대표）",
-   "email": "marketing@ez-net.co.kr",
-   "phone": "+82 2-715-0372",
-   "source": "https://nextu.kr/article/q-a/6/12691"
+   "name": "Jeffrey Allan Ferrier",
+   "role": "Founder/Director（Companies House）",
+   "email": "jeff.ferrier@parallaxdigital.co.uk（本人来信地址 2024-06 / 2024-10）；sales@parallaxdigital.co.uk",
+   "phone": "+44 1670 202001",
+   "source": "https://open.endole.co.uk/insight/company/10314407-parallax-digital-technologies-limited；S 邮箱来信表头"
   }
  ],
- "notes": "A 确认（顶级 OEM 目标）：自有品牌全系交换机 + 三次主动到访 + 明确 bypass/10G 需求；P1 改 STI-488XGGPM（工业 10G 上联）或 bypass 型号（如 SmartByte 有 bypass 款需标注），走 30% OEM 档。",
+ "notes": "A 维持但体量极小（1 人公司）：有真实装机场景（消防探测网络用工业交换机）+ 2 次实质回复 + 已在买中国 E-link；适合 Saga 的小批量多批次模式。P1 = STI-244GP/288GP 非管理工业（对位 E-link 5 电口）。",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
   "level": "深挖 v1"
  },
  "company_facts": {
-  "legal_name": "(주)이지넷유비쿼터스 EZ-NET Ubiquitous Co., Ltd.（品牌 NEXTU / NEXTLINK）",
-  "founded": "2004",
-  "hq": "Seoul, Korea",
-  "other": "自有品牌约 1,000 SKU；官网目录含「산업용 PoE 스위치허브」L2/L3/보안/BT/비관리 五类；自营商城 nextu.kr 明码标价"
+  "legal_name": "Parallax Digital Technologies Ltd",
+  "founded": "2016-08-05（Company No. 10314407，VAT GB251731130）",
+  "hq": "Unit 19 Endeavour Park, Baker Road, Cramlington, Northumberland NE23 1XA, UK",
+  "staff": "1 人申报（Endole）/ 2–10（LinkedIn）",
+  "revenue": "<£1M",
+  "other": "自有 PDT- 前缀工业交换机 + Cisco 清仓 + Weipu/Riden 代理；自称「probably the largest stock of managed and unmanaged network switches (PoE and non-PoE) in the UK」，eBay 店铺分类含工业 PoE 交换机/注入器/延长器/分离器"
  },
  "business_lines": [
-  "工业以太网/PoE 交换机（L2/L3/安全功能/bt 高功率/非管理）",
-  "工业 PoE 光纤 MC（NEXT 300FSCSWA-POE 等）",
-  "商用交换机、数码周边"
+  "自有品牌工业交换机（PDT-NSU 系列 Micro-Net）",
+  "商用交换机转售（Cisco SG110D-08 £29.95，库存 414）、路由器、SFP、PoE 分离器",
+  "工业连接器（Weipu IP67/IP68）、电源（Riden/Meanwell）",
+  "FireAngel 消防报警产品与网关（高层住宅消防探测网络）"
  ],
  "products_seen": [
   {
-   "brand": "NEXTU",
-   "model": "NEXT-POE8022GDT",
-   "spec": "工业千兆 8 PoE 交换机，商城 205,500 KRW（定价 300,000）",
-   "url": "https://nextu.kr/category/%EC%82%B0%EC%97%85%EC%9A%A9-poe-%EC%8A%A4%EC%9C%84%EC%B9%98/362/",
+   "brand": "PDT（自有）",
+   "model": "PDT-NSU-7104-MP-SF-I",
+   "spec": "超小型工业 4×GE PoE+ + 1 SFP 非管理，12–48VDC 升压，120W@48V，IP40 铝壳，-40~80℃，DIN/壁挂",
+   "url": "https://parallaxdigital.co.uk/shop/industrial-networking-equipment/micro-net/pdt-nsu-7104-mp-sf-i-4-port-10-100-1000-base-t-max-poe-1-port-10-100-1000-base-x-sfp-unmanaged-sff-industrial-switch-12-48vdc/",
    "date": "2026-10-21",
-   "saga": "STI-288DGGPM"
+   "saga": "STI-144GP"
   },
   {
-   "brand": "NEXTU",
-   "model": "POE9628GDT（피어방）",
-   "spec": "工业 1G 8 PoE + 2 SFP 迷你，232,500 KRW",
-   "url": "https://nextu.kr/category/poe/58/",
+   "brand": "Cisco（转售）",
+   "model": "SG110D-08-BR-WS",
+   "spec": "8 口桌面非管理，£29.95，库存 414",
+   "url": "https://parallaxdigital.co.uk/shop/commercial-networking-equipment/commercial-unmanaged-non-poe-switches/cisco-sg110d-08-br-ws/",
    "date": "2026-10-21",
-   "saga": "STI-288DGGPM"
+   "saga": "STC-28DGGPM（PoE 升级位）"
   },
   {
-   "brand": "NEXTU",
-   "model": "POE9518GDT（인루트 U1）",
-   "spec": "工业 16 PoE+ + 2 SFP 240W 非管理（新品）",
-   "url": "https://nextu.kr/",
-   "date": "2026-10-21",
-   "saga": "STI-21616GP"
-  },
-  {
-   "brand": "NEXTU",
-   "model": "POE9968DX（인루트 MX2）",
-   "spec": "工业 16 GE PoE+ + 4×10G SFP+ 370W L2 管理",
-   "url": "https://ez-net.co.kr/en/sub/sub01_01.php?cat_no=&sk=&brand=NEXTU&is_new=&f1=&f2=&f3=&f4=&f5=&f6=&f7=&f8=&f9=&f10=&icons=&offset=216",
-   "date": "2026-10-21",
-   "saga": "STC-424XGGPM-280W（机架位）"
-  },
-  {
-   "brand": "NEXTU",
-   "model": "POE9848MDTL3-10G",
-   "spec": "工业 L3 8 PoE 240W + 4×1/2.5/10G SFP，ERPS/OSPF/BGP",
-   "url": "https://nextu.kr/product/%ED%94%BC%EC%95%84%EB%B0%B4-%EC%82%B0%EC%97%85%EC%9A%A9-8%ED%8F%AC%ED%8A%B8-1g-tp-10g-4sfp-l3%EB%A7%A4%EB%8B%88%EC%A7%80%EB%93%9C-poe-%EC%8A%A4%EC%9C%84%EC%B9%98%ED%97%88%EB%B8%8C-poe9848mdtl3-10g/1497/",
-   "date": "2026-10-21",
-   "saga": "—（工业 L3 10G 需 SmartByte 核型）"
-  },
-  {
-   "brand": "NEXTU",
-   "model": "NEXT-POE516FDT-B / NEXT 300FSCSWA-POE",
-   "spec": "工业百兆 PoE 光纤 MC，70,500 KRW",
-   "url": "https://rftown.com/product/%EB%84%A5%EC%8A%A4%ED%8A%B8%EC%9C%A0-next-poe516fdt-b-%EC%82%B0%EC%97%85%EC%9A%A9-%EC%8A%A4%EC%9C%84%EC%B9%98-10100m-mm-duplex-1310nm-sc-type-2km-poe/14534/",
-   "date": "2026-10-21",
-   "saga": "STI-110GE（千兆位）"
+   "brand": "E-link",
+   "model": "5 电口工业（用户表）",
+   "spec": "已在用",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "用户表",
+   "saga": "STI-144GP"
   }
  ],
  "channels": {
-  "网站": "https://ez-net.co.kr/ · https://nextu.kr/（商城）",
-  "直邮": "eznet66@naver.com（用户表）",
-  "二级渠道": "rftown.com 等"
+  "网站/网店": "https://parallaxdigital.co.uk/shop/",
+  "eBay": "https://www.ebay.co.uk/str/parallaxdigitaltechnologies",
+  "直邮": "sales@parallaxdigital.co.uk（官网）/ jeff.ferrier@parallaxdigital.co.uk / networkops@parallaxdigital.co.uk（用户表）",
+  "联系人": "Jeffrey Allan Ferrier（董事）"
  },
  "signals": [
-  "2026 年仍在上新工业 PoE（POE9518GDT、POE9968DX）与 L3 10G 机型——工业线扩张期（2026-10-21）",
-  "用户表：三次到访，问 bypass、2.5G/10G bypass、波分设备"
+  "自有 PDT-NSU-7104-MP-SF-I 在售——已在以自有品牌卖华南 ODM 工业 PoE 机，需要稳定货源（2026-10-21）",
+  "用户表：2 次实质回复，兴趣工业 FS，已有 E-link 5 电口"
  ],
  "risks": [
-  "韩国 KC 认证与韩文 Web UI 要求（其 L3 机型卖点是「한글 웹 설정」）",
-  "bypass/波分不在 Saga 型谱；韩国不在主攻区"
+  "1 人公司，单次量小；消防探测网络 = 生命安全相关，Saga 只供其商用/工业网络部分，不承诺消防认证",
+  "eBay 清仓导向，价格压力大"
  ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
+  "p1": "STI-144GP",
   "tier": 30,
-  "why": "NEXT-POE8022GDT / POE9628GDT（8 PoE + 2 SFP 工业）与 STI-288DGGPM 同位；16 口位 STI-21616GP；OEM 30% 档；bypass 另核"
+  "why": "自有 PDT-NSU-7104-MP-SF-I（4 GE PoE + 1 SFP 超小 DIN）与 STI-144GP 同位；8 口位→STI-288DGGPM；贴 PDT 标 30% 档（量小可 25%）"
  },
- "email_hook": "Your POE9628GDT and NEXT-POE8022GDT sit on the same 8-port gigabit PoE + 2 SFP industrial footprint we build on a Marvell core, so I am quoting that in NEXTU packing with the 16-port 240W model as the second SKU.",
+ "email_hook": "Your PDT-NSU-7104-MP-SF-I is the same 4-port PoE+ with SFP uplink footprint we build in DIN format, so I am quoting that unit in PDT packing with the 8-port managed version as the next size up.",
  "mail_review": {
   "binding": {
-   "level": "未绑定（三轮询价：16 口工业 PoE、bypass 4×4/2×2；无付样）——线下三次到访（用户表；Elsa 箱：`to:ez-net.co.kr` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 35 / 来 3）（第 74 批(g)））",
-   "type": "韩国自有品牌 NEXTU（≈1,000 SKU）分销商；Roadman Kim——第一档 OEM 类型",
-   "sieve": "2",
-   "stop": "价格 vs 规格：2025-03-04「yr price is higher but yr spec is lower… should support over 300~380w… should be much cheaper」；Alan 2025-03-05 书面说明筛选逻辑并报 95 / 170 USD；2025-05-26 bypass 4×4/2×2 报 280 USD 后无回音",
-   "revive": "370W 外壳款（-40~+60℃）存在（Alan 已提）；bypass 2×2 项目落地；Kim 来深圳时见面",
-   "lane": "KR（Simon 2026-08-02：韩国客户「一些」）",
-   "cadence": "2024-07 → 2026-09 去信 35 封；最后来信 2025-05-26",
-   "evidence": "k=350843fae7f7201b / a073d6411a2a52db / 7a23a71b55abbff5 / b5cbfcb83f46328a / 6b7ea5b03a91b1ef；A 邮箱外发报价单正文（`data/gmail_a/attachments/text/`，2026-10-24 对表）"
+   "level": "未绑定（两次回复都是「不需要」：有 $124 的 Cisco 52 口库存；客户只要 24V 或 48V 单一版本；Elsa 箱：`to:.uk` 穷举 34 条（2026-10-25，锚批 Bcc 头已读）未见 parallaxdigital.co.uk → Elsa 箱从未发过本户，往来只在 S/A 箱（去 26 / 来 2）（第 74 批(f)））",
+   "type": "英国 1 人 OEM/ODM 品牌商（消防探测网络用工业交换机，已买中国 E-link）；Jeff Ferrier",
+   "sieve": "1",
+   "stop": "2024-06-03「I have a large number of cisco 52 port gigabit layer 3 switches that cost me $124 each」；2024-10-24「Customers usually want one or the other and not a combo」",
+   "revive": "其 E-link 供货出问题；或消防网络项目要 DIN 工业非管理",
+   "lane": "UK",
+   "cadence": "2024-06 → 2026-09 去信 26 封；最后来信 2024-10-24",
+   "evidence": "k=f38bda5c25315e89 / c935ae4f928d5620 / d86526863f22737d"
   },
-  "situation": "Kim 2025-02/03 为 16 口工业机讨价（要 300–380W、Marvell、2 SFP、非管理且便宜），Alan 的回信是 A 邮箱里对 C2 筛子最直白的书面表述：「Yes, the prices are high, we can actually reduce it. The purpose for this is, we are filtering our clients… For clients who do not accept or use Marvell solutions, we let it go」，并报 16 口铜 95 USD / 16 口 PoE+2 SFP 170 USD、PoE 预算 240W（-40~+70℃）或 370W（-40~+60℃）。2025-05 Kim 又问 bypass 4×4 / 2×2 / 独立 bypass 盒，Alan 报 280 USD、独立盒暂无。此后静默。",
-  "need": "16 口工业 PoE ≥300W（2 SFP）、bypass 4×4 / 2×2 管理型、独立 bypass 盒；贴 NEXTU 标。",
-  "breakpoint": "价格筛子生效（对方要 Realtek 价位的 Marvell 机）；但 bypass 是 Saga 少有人问的差异品，停在 280 USD 后没人再问一句。",
+  "situation": "Jeff 两次回复都给出了真实市场信息：二手/库存 Cisco 52 口 L3 只要 $124（Saga 的 300 USD 新机没有位置）；PoE 客户要么 24V 要么 48V，不要自动切换的组合款（Simon 坚持「这是卖点」）。此后 20 封群发无回。",
+  "need": "消防探测网络用小型工业交换机（E-link 5 电口类）；二手 Cisco 覆盖机架需求。",
+  "breakpoint": "客户已经说清楚了什么不要；Saga 继续发的是同类。",
   "saga_now": {
-   "p1": "Bypass：LT-IS6312G-4GX8GT-FBP / -2FBP（Saga 无对应型号，沿用 SmartByte 名；CNY 1,160 / 1,460 → $225.4 / $283.7 @30%，汇率 6.69 快照 2026-10-17）；16 口 PoE：STI-21616DGGPM（LT-IS6318GP-2GX16GT，CNY 1,340 → $260.4 @30%）",
+   "p1": "STI-244GP / STI-288GP 非管理工业（E-link 5 电口对位）",
    "tier": 30,
-   "price": "历史锚：STI-0160GE $105 / STI-21616GP $185（2025-02-21 报价单，EXW）；bypass 款 $225.4 / $283.7 / $242.0 USD EXW（2026-10-17 快照，15 天有效）；群发里他已看到的价（续）：2026-08-12 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-09-03 $65（10G Media Converter）、2024-11-11 $300（48 Port PoE Managed Switch）、2025-01-06 $240（24 Port Fiber Switch）、2025-09-25 $280（10G Enterprise SFP Switch）、2026-06-17 $16000（32 Port 400GB DC Switch）（㉕ 封顶：STI-21616DGGPM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25）",
-   "why": "J4：只追 bypass 一条线（差异品），16 口价格战不追。已打开的主题（6/35 封有打开记录）：「Re: 16 Port Ethernet Switch」(2025-03-05)、「Re: 16 Port Ethernet Switch」(2025-04-07)、「Managed Optical Bypass Switch」(2025-05-20)、「Re: Managed Optical Bypass Switch」(2025-05-26) → 读者兴趣偏「其他」；当前 P1 属「旁路/Booster」，下一封按「其他」给，不按 P1 最近一封去信是 2026-09-23 A 邮箱 16 口 DIN PoE 模板（在本档最后一条事实之后）——下一封必须回到真人线程、不再叠模板｜已发资料（勿重发）：STI-0160GE(2025-02-21)、STI-21616GP(2025-02-21)、Saga Software Function List-release 7.(2025-04-29)、STI-488XGGPM2B-2BT(2025-05-26)、Product Link_2026Q2(2026-03-30)、Product Link_2026Q3(2026-07-20)；已发单据：Quotation(2025-02-21)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）｜对外统一口径（#12）：2025-03-05 Alan 说「prices are high… we are filtering our clients」只对 eznet 说过一次，不再用；涨价说明统一「PCB/RAM + 汇率」",
+   "price": "按 30% 自有标档；群发里他已看到的价（续）：2026-08-07 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-06-03 $220（48 port managed switch）、2025-09-25 $280（10G Enterprise SFP Switch）",
+   "why": "只在 DIN 非管理这一条线上发一次。已打开的主题（3/26 封有打开记录）：「48 port managed switch」(2024-06-03)、「24V/48V PoE Switch」(2024-10-24)、「Re: 24V/48V PoE Switch」(2024-10-30) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
    "repeat": [],
-   "gaps": [
-    "370W 外壳款的 SmartByte 型号与价格未在 `价格主表` 标出",
-    "Kim 三次到访的内容（用户表）无邮件痕迹"
-   ]
+   "gaps": []
   },
   "next_move": {
-   "when": "2026-11",
-   "channel": "A 邮箱 → eznet66@naver.com（Kim 本人，不发 sales@）",
-   "action": "一句话问 bypass 2×2 项目；附 FBP 规格书",
-   "one_question": "Did the 2×2 bypass requirement from May 2025 turn into a project, and is Marvell still acceptable on the NEXTU industrial line?"
+   "when": "2027-Q1",
+   "channel": "S 邮箱 → jeff.ferrier@",
+   "action": "一封只讲 DIN 5/8 口非管理工业款（对位 E-link）（第 75 批(o) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用；换人/一问口径））（第 76 批(c) 2026-10-25：audit_ab 软项修正：证书口径 CE/RoHS → CE/UKCA/RoHS）",
+   "one_question": "For the fire-detection networks, what does the E-link 5-port unit cost you landed, and what would make you dual-source it?"
   },
   "facts": [
    {
-    "date": "2025-02-21",
+    "date": "2024-06-03",
+    "dir": "来",
+    "who": "Jeff Ferrier（Director）",
+    "quote": "I have a large number of cisco 52 port gigabit layer 3 switches that cost me $124 each so will have to pass on your kind offer for now",
+    "why": "价格基准",
+    "k": "f38bda5c25315e89"
+   },
+   {
+    "date": "2024-10-24",
+    "dir": "来",
+    "who": "Jeff",
+    "quote": "Customers usually want one or the other and not a combo We sell desktop and rack for both",
+    "why": "24V/48V 组合款被否",
+    "k": "c935ae4f928d5620"
+   },
+   {
+    "date": "2024-10-30",
     "dir": "去",
-    "who": "Alan（Quotation.pdf，Buyer EZ-NET Ubiquitous / Roadman Kim，EXW，Destination Korea）",
-    "quote": "STI-0160GE 16×GE 非管理工业 $105 ×1；STI-21616GP 16×GE PoE + 2×SFP 240W 非管理 $185 ×1；TOTAL 2 pcs $290.00；Price validity 15 days；Warranty 3 years, lifetime technical support；Production time 4~7 working days",
-    "why": "正式报价单上的两个锚（2025-02，老汇率）；对方三次到访后仍未付样",
-    "k": "gmail_a att 2025-02-21"
+    "who": "Simon",
+    "quote": "Its actually a selling point(auto voltage output)",
+    "why": "Saga 坚持",
+    "k": "d86526863f22737d"
    },
    {
-    "date": "2025-02-21",
+    "date": "2024-12-28",
     "dir": "来",
-    "who": "Kim Woo-kyung（roadman, 韩国）",
-    "quote": "there is no uplink port and unmanaged? pls let me know a quotation for this model.（回 Alan 推的 16 口 DIN 千兆非管理机）",
-    "why": "第四轮询价（档案记三轮）：16 口 DIN 非管理、无上联——Alan 后续报价见 2025-02 的 STI-0160GE $105；韩国客户四次问价没有一次下样 = 价格比价型",
-    "k": "gmail_a 2025-02-21 RE: 16 Port Ethernet Switch"
-   },
-   {
-    "date": "2025-03-04",
-    "dir": "来",
-    "who": "Roadman Kim",
-    "quote": "yr price is higher but yr spec is lower. 1. we think 16 port industrial poe switch is better to support over 300~380w… based on this spec, a price should be much cheaper.",
-    "why": "价格 vs 规格",
-    "k": "a073d6411a2a52db"
-   },
-   {
-    "date": "2025-03-05",
-    "dir": "去",
-    "who": "Alan",
-    "quote": "Yes, the prices are high, we can actually reduce it. The purpose for this is, we are filtering our clients… For clients who do not accept or use Marvell solutions, we let it go… 16-port copper, non-PoE: 95usd/pc 16-port PoE+2*1G SFP: 170usd/pc",
-    "why": "C2 筛子的书面原话 + 报价",
-    "k": "7a23a71b55abbff5"
-   },
-   {
-    "date": "2025-05-20",
-    "dir": "来",
-    "who": "用户表（Simon 跟进记录；渠道 A）",
-    "quote": "用户表跟进：推「Bypass」→ 对方「问了价格」",
+    "who": "用户表（Simon 跟进记录；渠道 Email）",
+    "quote": "用户表跟进：推「发了工业电源价格册」→ 对方「will check 问了网站 后续发了2光4小壳」",
     "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
-    "k": "Clients/A Replied 09.04.xlsx no.36 2025.5.20"
-   },
-   {
-    "date": "2025-05-26",
-    "dir": "来",
-    "who": "Kim",
-    "quote": "pls let me know a quotation with bypass function for 4*4. do you have also bypass switch with 2*2 ? and do you have unmanaged bypass switch hub?",
-    "why": "bypass 需求",
-    "k": "b5cbfcb83f46328a"
-   },
-   {
-    "date": "2025-05-26",
-    "dir": "去",
-    "who": "Alan",
-    "quote": "both 4*4 and 2*2 are available… Its price is 280usd/pc… standalone bypass unit… unavailable for now",
-    "why": "bypass 报价",
-    "k": "6b7ea5b03a91b1ef"
+    "k": "Clients/A/DONE/UK.xlsx no.56 2024.12.28"
    }
   ],
-  "proof_gaps": [
-   "用户表「三次到访 / Secon 参展」无邮件印证"
-  ],
+  "proof_gaps": [],
   "draft_en": {
-   "subject": "Bypass switch 4x4 / 2x2 — updated prices",
-   "body": "Hi, Mr. Kim,\n\nLast May you asked for bypass industrial switches (4x4 and 2x2). The $280 figure then was a placeholder; here are the actual numbers:\n\n- 8x GbE + 4x SFP industrial managed, 1 fibre bypass pair (2x2) — $225.4 USD EXW\n- same unit, 2 fibre bypass pairs (4x4) — $283.7 USD EXW\n- 16x GbE PoE (>=300 W) + 2x SFP industrial L2+ — $242 USD EXW (list)\n(2026-10 price table, valid 15 days from this mail)\n\nStandalone bypass boxes are still not in the range. NEXTU label, model name and GUI can be applied from 50 pcs.\n\nOne question: did the 2x2 bypass requirement from May 2025 turn into a project, and is a Marvell-based unit acceptable on the NEXTU industrial line?\n\nThank you.\nAlan\nSaga Telecom - sagatele.com"
+   "subject": "Only DIN 5/8-port industrial, 48 V fixed - nothing else this time",
+   "body": "Hi Jeff,\n\nYou told us two things in 2024: the 52-port Cisco stock at $124 leaves no room for a new rack switch, and your customers want 24 V or 48 V, not a combo. The mails you had since ignored both; this one does not.\n\nFor the fire-detection networks where you use the E-link 5-port: DIN-rail 5 x Gigabit unmanaged, 12-58 V DC in, -40 to 75 C, CE/UKCA/RoHS - model STI-050GE - $26.0 USD EXW (MOQ 1, 15-day validity); 8-port - STI-080GE - $34.0; 4 x Gigabit PoE+ + 1 x SFP, 48 V fixed (44-57 V DC in, no auto-switching) - STI-144GP - $36.9. PDT packing from small lots.\n\nOne question: for the high-rise fire-detection networks, is it the 5-port copper unit or the 4-PoE unit that gets specified most?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
  }

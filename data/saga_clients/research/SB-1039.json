@@ -1,194 +1,133 @@
 {
   "code": "SB-1039",
-  "name_official": "",
+  "name_official": "ICO Innovative Computer GmbH（德国）",
   "researched_at": "2026-10-21",
-  "website_status": "在线（blueskill.co，快照 2026-10-21）",
-  "summary": "哥伦比亚 Blue Skill Ltd（安防与智能技术方案：家庭、社区、商业、持续监控；阿里巴巴询盘「2 光 4 PoE 5 个」；KP Francisco Javier Zúñiga）；表内 1 次跟进无回复。",
-  "type": "安防集成商（哥伦比亚，2 光 4 PoE ×5 询盘）",
+  "website_status": "在线（ico.de，快照 2026-10-21，德语）",
+  "summary": "德国服务器 / 工控机 / 面板 PC / 条码 / POS 系统商（switch 220 / industrial 163 / poe 154 / sfp 62），vertrieb@；表内「工业 FS Antaira 的，很多牌子的；质量一般」；无跟进。",
+  "type": "",
   "size": "",
-  "brands_seen": [],
+  "brands_seen": [
+    "Antaira"
+  ],
   "evidence": [
     {
       "kind": "官网快照",
-      "claim": "官网标题：Blue Skill - Soluciones de Seguridad；品类词 安防监控（CCTV / 门禁）",
-      "quote": "Sistemas de seguridad y tecnologÃ­a inteligente.",
-      "url": "https://blueskill.co/",
+      "claim": "服务器、19 英寸服务器、工控机、条码扫描、POS、PC 系统",
+      "quote": "Server, 19 Zoll Server, Industriecomputer, Barcodescanner, Kassensysteme und PC-Systeme",
+      "url": "https://ico.de/",
       "date": "2026-10-21"
     },
     {
       "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "工业FS；2光4PoE 5个 / from: 阿里巴巴询盘",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网快照",
-      "claim": "Blue Skill 定位",
-      "quote": "Blue Skill - Soluciones de Seguridad ; Sistemas de seguridad y tecnología inteligente",
-      "url": "https://blueskill.co/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "2 光 4 PoE 5 个",
-      "quote": "2光4PoE 5个 / from: 阿里巴巴询盘",
+      "claim": "工业 FS antaria 的 很多牌子的",
+      "quote": "兴趣：工业FS antaria的 很多牌子的",
       "url": "（本地 Clients/ 表格，无公开 URL）",
       "date": "2026-10-21"
     }
   ],
   "kp": [
     {
-      "name": "Francisco Javier Zúñiga",
-      "title": "（职务待核）",
-      "email": "javier.zuniga@blueskill.co",
+      "name": "（销售）",
+      "title": "Vertrieb",
+      "email": "vertrieb@ico.de",
       "phone": "",
-      "source": "用户表"
+      "source": "（本地 Clients/ 表格，无公开 URL）"
     }
   ],
   "grade_override": null,
   "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
   "deep": {
     "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+    "level": "B 级加厚 v1（官网快照核对 + 表内）"
   },
   "company_facts": {
-    "hq": "哥伦比亚",
-    "other": "官网 blueskill.co，语言 es，快照状态 ok；角色判定来源：官网文案"
+    "legal_name": "ICO Innovative Computer GmbH",
+    "founded": "1982（待核）",
+    "hq": "Diez, Germany",
+    "size": "中型系统商 / 分销",
+    "other": "Antaira（美 / 台）工业交换机在售"
   },
   "business_lines": [
-    "安防 / 智能技术方案（哥伦比亚）"
+    "服务器 / 工控机 / 工业网络分销"
   ],
   "channels": {
-    "role": "安防集成商（哥伦比亚，2 光 4 PoE ×5 询盘）",
-    "region": "哥伦比亚",
-    "contact": "javier.zuniga@blueskill.co"
+    "role": "系统商 / 分销",
+    "region": "德国"
   },
   "signals": [
-    "官网：Blue Skill - Soluciones de Seguridad ; Sistemas de seguridad y tecnología inteligente ; Hogar y Familia ; Condominios y Vecindarios ; Comercios y Empresas",
-    "表内：工业 FS；2 光 4PoE 5 个 / from: 阿里巴巴询盘；KP Francisco Javier Zuniga"
+    "Antaira 之下的价位带"
   ],
   "risks": [
-    "非主攻区（T5，哥伦比亚）；询盘时效待核；1 次无回复"
+    "无具名；无跟进"
   ],
   "saga_fit": {
-    "p1": "STI-244GPM",
-    "tier": 25,
-    "why": "询盘 2 SFP + 4 PoE ×5 → 工业管理 4 PoE + 2 SFP STI-244GPM（$67.3 @25%，5 台 ≈ $336.5）；待核时效"
+    "p1": "STI-288GP",
+    "tier": 20,
+    "why": "Antaira 之下工业 2 光 8 PoE → STI-288GP（$57.4 @20%）。"
   },
-  "email_hook": "Javier, following your enquiry for five 2-SFP + 4-PoE industrial switches: we can supply a managed DIN-rail 4-PoE + 2 SFP model (−40~75 °C, 12–57 V, 802.3at, CE/RoHS) from single units, EXW USD, 10–15 days — is the requirement still open, and do you need SFP modules included?",
+  "email_hook": "Guten Tag — for the Industrial-Ethernet category beside Antaira: DIN 2-SFP + 8-PoE at $57 and Marvell managed at $79 EXW, CE/RoHS; who is the product manager for networking at ICO?",
   "mail_review": {
     "binding": {
-      "level": "未触达（A 邮箱 6 封 2025，无记录打开，0 回；收件 javier.zuniga@blueskill.co；主题多为「Industrial PoE Switch、16 Port PoE Managed Switch」）；Elsa 1:1 去信 7 轮 2025-10-10→2026-08-05（To 仅本户 javier.zuniga@blueskill.co；头 msg 19fd04af1ff28c60 核对无 Bcc，称呼「Hi, Javier」= 个性化逐月 1:1 名单（名字可来自名单，不等于回过信）；主题 Updated Ethernet Switches Links、Marvell Managed Commercial Switches、Industrial PoE Switch、24 Port PoE Managed Switch…；0 回（Elsa 箱 Replied 索引 + 第 73 批真人来信逐户比对均无此户）；S/A digest 看不到 Elsa 的去信，之前据此写的「未触达」是 S/A 口径）（第 74 批(n) `from:e.sagatelecom to:blueskill.co` 全程 complete，直收 7 条、无 Re: 行）",
-      "type": "安防集成商（哥伦比亚，2 光 4 PoE ×5 询盘）",
-      "sieve": "1（只收到群发）",
-      "stop": "6 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-      "revive": "保持季度群发到 2027-Q1；无打开即停",
-      "lane": "哥伦比亚 非主攻",
-      "cadence": "季度",
-      "evidence": "gmail_digest：out 6；用户表：「工业FS；2光4PoE 5个 / from: 阿里巴巴询盘」；研究档 risks：非主攻区（T5，哥伦比亚）；询盘时效待核；1 次无回复"
+      "level": "Elsa 群发 BCC 已触达 2026-08-31「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，DE 批次 To office@all4fiber.com，0 回（第 73 批(o) Bcc 头核对 msg 1a056d5159d35ca3）；S/A 箱：S/A 邮箱均无往来；来源：用户表「兴趣：工业FS antaria的 很多牌子的」",
+      "type": "—",
+      "sieve": "—（未入筛）",
+      "stop": "Elsa 群发 BCC 触达过（最近 2026-08-31）无回；S/A 箱从未单独发过",
+      "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+      "lane": "DE 主攻（四主）",
+      "cadence": "首封后看打开",
+      "evidence": "gmail_digest：out 0；用户表：「兴趣：工业FS antaria的 很多牌子的」；研究档 risks：无具名；无跟进；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To office@all4fiber.com）2025-03-28→2026-08-31 共 9 轮群发（16 Port Ethernet Switch、8 Port Industrial PoE Switch、48 Port PoE Managed Switch、Managed Optical Bypass Switch、Mini Industrial PoE Switch、Industrial PoE Switch、10G Enterprise SFP Switch、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断"
     },
-    "situation": "哥伦比亚 Blue Skill Ltd（安防与智能技术方案：家庭、社区、商业、持续监控；阿里巴巴询盘「2 光 4 PoE 5 个」；KP Francisco Javier Zúñiga）；表内 1 次跟进无回复。",
-    "need": "询盘 2 SFP + 4 PoE ×5 → 工业管理 4 PoE + 2 SFP STI-244GPM（$67.3 @25%，5 台 ≈ $336.5）；待核时效",
-    "breakpoint": "非主攻区（T5，哥伦比亚）；询盘时效待核；1 次无回复",
+    "situation": "德国服务器 / 工控机 / 面板 PC / 条码 / POS 系统商（switch 220 / industrial 163 / poe 154 / sfp 62），vertrieb@；表内「工业 FS Antaira 的，很多牌子的；质量一般」；无跟进。",
+    "need": "Antaira 之下工业 2 光 8 PoE → STI-288GP（$57.4 @20%）。",
+    "breakpoint": "无具名；无跟进",
     "saga_now": {
-      "p1": "STI-244GPM",
-      "tier": 25,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-05-05 $300（48 Port PoE Managed Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-10-10 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2025-10-10；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-08-05 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-05；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
-      "why": "询盘 2 SFP + 4 PoE ×5 → 工业管理 4 PoE + 2 SFP STI-244GPM（$67.3 @25%，5 台 ≈ $336.5）；待核时效",
+      "p1": "STI-288GP",
+      "tier": 20,
+      "price": "按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-31；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
+      "why": "Antaira 之下工业 2 光 8 PoE → STI-288GP（$57.4 @20%）。",
       "repeat": [],
       "gaps": []
     },
     "next_move": {
-      "when": "群发节奏",
-      "channel": "A 邮箱",
-      "action": "首封前知悉：Elsa 已 1:1 去信 7 轮（2025-10-10→2026-08-05，0 回）（第 74 批(n)）；观察打开",
-      "one_question": "Javier, following your enquiry for five 2-SFP + 4-PoE industrial switches: we can supply a managed DIN-rail 4-PoE + 2 SFP model (−40~75 °C, 12–57 V, 802.3at, CE/RoHS) from single units, EXW USD, 10–15 days — is the requirement still open, and do you need SFP modules included?"
+      "when": "待 Simon 排期（首封）",
+      "channel": "A 邮箱 → vertrieb@ico.de",
+      "action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-31「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 75 批(e) 2026-10-25：英文信稿已写 `draft_en`）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
+      "one_question": "Guten Tag — for the Industrial-Ethernet category beside Antaira: DIN 2-SFP + 8-PoE at $57 and Marvell managed at $79 EXW, CE/RoHS; who is the product manager for networking at ICO?"
     },
     "facts": [
       {
-        "date": "2025-08-04",
+        "date": "2025-03-28",
         "dir": "去",
-        "who": "A 群发",
-        "quote": "Industrial PoE Switch、16 Port PoE Managed Switch",
-        "why": "6 封 / 0 次打开 / 0 回｜首封 2025-02-13 → 末封 2025-08-04（6 去 / 0 来）",
-        "k": "gmail_digest"
+        "who": "Elsa 群发（BCC；To office@all4fiber.com，DE 批次）",
+        "quote": "16 Port Ethernet Switch — There is a 16-port Din Gigabit Ethernet switch for you. It is good for vehicle network and industrial automation. Model choice 1. 5 Port/8 Port/24 Por",
+        "why": "Elsa 箱群发 BCC 触达证据（命中地址 eruiauwi@ico.de, ico.de）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+        "k": "elsa_bcc"
       },
       {
-        "date": "2025-10-10",
-        "dir": "out",
-        "who": "Elsa → javier.zuniga@blueskill.co",
-        "quote": "10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 1/7 轮；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:blueskill.co` 全程 complete：7 轮直收（头 msg 19fd04af1ff28c60 无 Bcc，称呼「Hi, Javier」）；0 回",
-        "k": "elsa_1to1",
-        "msg_id": "199c9b44a85348b9"
-      },
-      {
-        "date": "2025-12-03",
-        "dir": "out",
-        "who": "Elsa → javier.zuniga@blueskill.co",
-        "quote": "Booster PoE Switch（Elsa 1:1 逐月名单第 2/7 轮；To 仅本户）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:blueskill.co` 全程 complete：7 轮直收（头 msg 19fd04af1ff28c60 无 Bcc，称呼「Hi, Javier」）；0 回",
-        "k": "elsa_1to1",
-        "msg_id": "19ae05d446046aae"
-      },
-      {
-        "date": "2026-01-01",
-        "dir": "out",
-        "who": "Elsa → javier.zuniga@blueskill.co",
-        "quote": "Marvell Industrial Alert System（Elsa 1:1 逐月名单第 3/7 轮；To 仅本户）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:blueskill.co` 全程 complete：7 轮直收（头 msg 19fd04af1ff28c60 无 Bcc，称呼「Hi, Javier」）；0 回",
-        "k": "elsa_1to1",
-        "msg_id": "19b79e4da315e67c"
-      },
-      {
-        "date": "2026-02-16",
-        "dir": "out",
-        "who": "Elsa → javier.zuniga@blueskill.co",
-        "quote": "Updated Ethernet Switches Links（Elsa 1:1 逐月名单第 4/7 轮；To 仅本户）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:blueskill.co` 全程 complete：7 轮直收（头 msg 19fd04af1ff28c60 无 Bcc，称呼「Hi, Javier」）；0 回",
-        "k": "elsa_1to1",
-        "msg_id": "19c66f728e985aaf"
-      },
-      {
-        "date": "2026-03-23",
-        "dir": "out",
-        "who": "Elsa → javier.zuniga@blueskill.co",
-        "quote": "Marvell Managed Commercial Switches（Elsa 1:1 逐月名单第 5/7 轮；To 仅本户）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:blueskill.co` 全程 complete：7 轮直收（头 msg 19fd04af1ff28c60 无 Bcc，称呼「Hi, Javier」）；0 回",
-        "k": "elsa_1to1",
-        "msg_id": "19d1b111f7f1ac66"
-      },
-      {
-        "date": "2026-05-04",
-        "dir": "out",
-        "who": "Elsa → javier.zuniga@blueskill.co",
-        "quote": "Industrial PoE Switch（Elsa 1:1 逐月名单第 6/7 轮；To 仅本户）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:blueskill.co` 全程 complete：7 轮直收（头 msg 19fd04af1ff28c60 无 Bcc，称呼「Hi, Javier」）；0 回",
-        "k": "elsa_1to1",
-        "msg_id": "19df300a8ccccbf7"
-      },
-      {
-        "date": "2026-08-05",
-        "dir": "out",
-        "who": "Elsa → javier.zuniga@blueskill.co",
-        "quote": "24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 7/7 轮；To 仅本户；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:blueskill.co` 全程 complete：7 轮直收（头 msg 19fd04af1ff28c60 无 Bcc，称呼「Hi, Javier」）；0 回",
-        "k": "elsa_1to1",
-        "msg_id": "19fd04af1ff28c60"
+        "date": "2026-08-31",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To office@all4fiber.com，DE 批次）",
+        "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
+        "why": "Elsa 箱群发 BCC 触达证据（命中地址 eruiauwi@ico.de, ico.de）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+        "k": "elsa_bcc"
       },
       {
         "date": "2026-10-21",
         "dir": "用户表",
         "who": "Simon",
-        "quote": "工业FS；2光4PoE 5个 / from: 阿里巴巴询盘",
+        "quote": "兴趣：工业FS antaria的 很多牌子的",
         "why": "表内备注",
         "k": "用户表"
       }
     ],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+    "proof_gaps": [
+      "无邮件往来"
+    ],
+    "draft_en": {
+      "subject": "Industrial Ethernet beside Antaira - a value tier for ICO",
+      "body": "Guten Tag,\n\nOver the past months you had a few product mails from us - most recently \"24 Port PoE Managed Switch\" on 31 August 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the Industrial-Ethernet category beside Antaira, a value tier in the same DIN-rail form factor, CE/RoHS, from single units: 8 x Gigabit PoE+ + 2 x SFP unmanaged, -40 to 75 C - model STI-288GP - $57.4 USD EXW at distributor price (MOQ 1, 15-day validity); the L2 managed version (VLAN, QoS, IGMP), Marvell-based - STI-288GPM - $78.9.\n\nOne question: who is the product manager for networking at ICO?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+    },
+    "as_of": "2026-10-25"
   }
 }

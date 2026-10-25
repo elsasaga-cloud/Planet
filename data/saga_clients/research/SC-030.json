@@ -1,0 +1,73 @@
+{
+ "code": "SC-030",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（visionarwindows.com，快照 2026-10-21）",
+ "summary": "加拿大 Visionar Window Systems Inc.（窗户五金制造商：KidGuard WOCD、AutoArm 窗自动化；阿里巴巴 RFQ「2 光 10 电」；KP Brent Friesen（Manager/Owner））；表内未跟进。",
+ "type": "窗户五金制造商（终端用户）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Visionar Window Systems；品类词 工业自动化 / OT 网络 / 网络交换 / PoE",
+   "quote": "Who we are and products that we are developing for the window industry.",
+   "url": "https://www.visionarwindows.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "2光10电 / from: 阿里巴巴RFQ",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Visionar 定位",
+   "quote": "Visionar Window Systems ; products that we are developing for the window industry ; KidGuard WOCD",
+   "url": "https://www.visionarwindows.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "2 光 10 电 RFQ",
+   "quote": "2光10电 / from: 阿里巴巴RFQ",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "非渠道终端用户（窗户五金制造商）；c_sub=品类不符/终端用户",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "加拿大",
+  "other": "官网 visionarwindows.com，语言 en-US，快照状态 ok；角色判定来源：用户表"
+ },
+ "business_lines": [
+  "窗户五金 / 窗自动化（加拿大）"
+ ],
+ "channels": {
+  "role": "窗户五金制造商（终端用户）",
+  "region": "加拿大",
+  "contact": "brent@visionarwindows.com"
+ },
+ "signals": [
+  "官网：Visionar Window Systems ; Who we are and products that we are developing for the window industry ; KidGuard WOCD ; AutoArm Casement Automation",
+  "表内：2 光 10 电 / from: 阿里巴巴 RFQ；KP Brent Friesen, Manager/Owner"
+ ],
+ "risks": [
+  "非渠道终端用户（窗户五金制造商自用）"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 20,
+  "why": "非渠道终端用户（窗户五金厂自用），单次 RFQ → 改 C"
+ },
+ "email_hook": "（不发送：终端用户）"
+}

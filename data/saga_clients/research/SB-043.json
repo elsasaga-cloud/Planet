@@ -1,138 +1,166 @@
 {
  "code": "SB-043",
- "name_official": "STORM ICT LLC（Pristina, 科索沃；storm-ict.com；克罗地亚 Storm Group 成员）",
- "researched_at": "2026-10-21",
- "website_status": "在线",
- "summary": "科索沃普里什蒂纳的 ICT 系统集成商 Storm ICT LLC（2013 年成立；克罗地亚 Storm Group 成员；科索沃 + 北马其顿办公室；11–50 人（RocketReach 6）；业务：有源/无源网络基础设施、信息通信方案、专业服务、行业与应用方案；CEO Alban S. Beqiri（20+ 年 IT/金融业经验）；CTO Vegim Zhitija；Rruga Tahir Zajmi (Kosovatex) pn, 10000 Prishtinë；+383 38 732 731/732；info@storm-ict.com）。ISAF 记录：英文很好，平时用工业级交换机、PoE 用得多、带管理，拿了彩页；WhatsApp 两个号都加不上；无后续跟进。用户表邮箱 alban.beqiri@storm.ict.com 域名疑有误（公司域为 storm-ict.com）。",
- "type": "",
- "size": "",
- "brands_seen": [],
+ "name_official": "Euro Technology（阿布扎比，阿联酋）",
+ "website_status": "在线（eurotechnology.net）",
+ "summary": "阿布扎比安防系统集成商（CCTV、门禁、报警、门闸、PA、消防报警；品牌 Paradox/CAME/Deister/Virdi/CDVI），约 9 人、营收估 700 万美元，另有伊拉克业务；客户群自述含军方、VVIP 宫殿、银行、医疗、政府；WA 在线，41 次跟进中 4 次回复（索要资料）。",
+ "type": "安防系统集成商",
+ "size": "小型（≈9 人，≈$7M）",
+ "brands_seen": [
+  "Paradox",
+  "CAME",
+  "Deister Electronic",
+  "Virdi",
+  "CDVI",
+  "Minor（排队系统）"
+ ],
  "evidence": [
   {
+   "kind": "行业目录",
+   "claim": "产品：CCTV、门禁、入侵报警；客户垂直含军方、VVIP 宫殿、银行、医疗、政府",
+   "quote": "Euro Technology provides a wide range of fully integrated security technology based business solutions… spanning various verticals like military , VVIP palaces , banking and finance, healthcare, government",
+   "url": "https://www.sourcesecurity.com/companies/euro-technology.html",
+   "date": "2026-10-21"
+  },
+  {
    "kind": "官网",
-   "claim": "法人与地址",
-   "quote": "Storm ICT, A limited liability company Rruga Tahir Zajmi (KOSOVATEX), pn, 10000 Prishtinë, Kosovë +383 38 732 731 +383 38 732 732 info@storm-ict.com",
-   "url": "https://www.storm-ict.com/en/about-us/general-informations",
+   "claim": "阿布扎比电话与伊拉克业务",
+   "quote": "For UAE and IRAQ For Abu Dhabi – UAE Tel : + 971 2 6417222… info@eurotechnology.net",
+   "url": "https://eurotechnology.net/contact/",
    "date": "2026-10-21"
   },
   {
-   "kind": "LinkedIn",
-   "claim": "集团归属、规模、业务",
-   "quote": "STORM ICT LLC (Kosovo & North Macedonia Office) is a solution oriented company … STORM ICT is the newest member of the STORM Group - leading Croatian companies … Company size: 11-50 employees … Founded: 2013 … Specialties: … Active and passive network infrastructure",
-   "url": "https://www.linkedin.com/company/storm-ict-llc",
+   "kind": "黄页",
+   "claim": "代理品牌 CAME/Deister/Minor/Paradox/Virdi",
+   "quote": "Brands: CAME Access Control System | DEISTER ELECTRONIC… PARADOX Alarm Systems… VIRDI Access Control System",
+   "url": "https://www.yellowpages-uae.com/abu-dhabi-euro-technology-131527.html",
    "date": "2026-10-21"
   },
   {
-   "kind": "LinkedIn",
-   "claim": "CEO",
-   "quote": "Alban S. Beqiri - CEO at STORM ICT LLC (member of Storm Group) … 20+ years of professional experience in IT and Financial Industry … CEO STORM ICT LLC Sep 2013 - Present … Kosovo … Sep 2020 - Present … North Macedonia",
-   "url": "https://www.linkedin.com/in/albanbeqiri/",
-   "date": "2025-09-29"
+   "kind": "RocketReach",
+   "claim": "约 9 人，营收约 700 万美元",
+   "quote": "$7 million in revenue and 9 employees",
+   "url": "https://rocketreach.co/euror-technology-group-automated-surveillance-security-control-monitoring-systems-profile_b44b7834fcfbbf73",
+   "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "ISAF：英文好；用工业级管理 PoE；WA 加不上",
-   "quote": "英文很好， 平时用工业级交换机，PoE用的多， 带管理， 拿了彩页 / 383 3873 2732 加不上 383 49637000 加不上",
+   "claim": "IFSEC 2010；41 次跟进；WA 已加；索要资料",
+   "quote": "资料 / Mohamad Asaad Maarouf Manager / 971 26417222 T 050751 4160 已加 / IFSEC 2010",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
  "kp": [
   {
-   "name": "Alban S. Beqiri",
-   "role": "CEO（LinkedIn 公开）",
-   "email": "alban.beqiri@storm.ict.com（用户表；域名疑误，应为 storm-ict.com——待核）",
-   "phone": "+383 38 732 732（公司）；+383 49 637 000（用户表，WA 加不上）",
-   "source": "https://www.linkedin.com/in/albanbeqiri/"
-  },
-  {
-   "name": "Vegim Zhitija",
-   "role": "CTO（名录公开）",
-   "email": "—",
-   "phone": "—",
-   "source": "https://www.zoominfo.com/c/storm-ict-llc/430375477"
+   "name": "（见 Clients 表联系人）",
+   "role": "",
+   "email": "info@eurotechnology.net（公开）",
+   "phone": "+971 2 6417222 / +971 50 751 4160（WA）",
+   "source": "用户 Clients 表 + 官网"
   }
  ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "grade_override": "B",
+ "override_reason": "41 次跟进仅 4 次'要资料'式回复，无询价；中东非主攻区；客户群含军方/政府（守界）→ 慢跟，只做商业/银行/医疗项目。",
+ "notes": "WA 维持；有项目时报 STC-424DGGPM-280W（项目 25%）。",
+ "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网 + LinkedIn 核对）"
+  "level": "B 级加厚 v1（基于首轮调研整理 + 需求映射）"
  },
  "company_facts": {
-  "legal_name": "STORM ICT L.L.C.",
-  "founded": "2013",
-  "hq": "Rruga Tahir Zajmi (KOSOVATEX), pn, 10000 Prishtinë, Kosovo（+383 38 732 731；info@storm-ict.com）",
-  "size": "11–50（LinkedIn）；6（RocketReach）",
-  "other": "Storm Group（克罗地亚）成员；北马其顿办公室（2020）"
+  "legal_name": "Euro Technology（eurotechnology.ae / eurotechnology.net；关联 Neton Technologies netontechnologies.com）",
+  "hq": "Abu Dhabi, UAE（+971 2 641 7222；+971 50 751 4160 已加 WA）",
+  "size": "约 9 人；营收估 $7M（首轮调研）",
+  "other": "安防集成（CCTV、门禁、报警、门闸、PA、消防报警）；品牌 Paradox / CAME / Deister / Virdi / CDVI；伊拉克业务"
  },
  "business_lines": [
-  "有源/无源网络基础设施集成",
-  "ICT 方案、专业服务与应用方案（金融/企业）"
+  "安防系统集成（阿布扎比 + 伊拉克）",
+  "消防报警（守界：主系统不供）"
  ],
  "channels": {
-  "网站": "https://www.storm-ict.com/",
-  "电话": "+383 38 732 731 / 732（公开）",
-  "邮箱（公开）": "info@storm-ict.com",
-  "LinkedIn": "https://www.linkedin.com/company/storm-ict-llc"
+  "网站": "https://eurotechnology.net/",
+  "邮箱": "m.maarouf@eurotechnology.ae（用户表）；info@netontechnologies.com",
+  "WhatsApp": "+971 50 751 4160（已加）"
  },
  "signals": [
-  "明确「平时用工业级管理型 PoE」→ 直接报 STI-288DGGPM；CEO 英文好、ISAF 主动交流；集团背景可带北马其顿项目"
+  "41 次跟进中 4 次回复（索要资料）→ 互动最活跃的中东 B 客户；经理 Mohamad Asaad Maarouf 直达",
+  "客户群含军方/VVIP 宫殿/政府 → 按个案守界，仅供民用安防网络层"
  ],
  "risks": [
-  "科索沃物流/清关；WhatsApp 加不上（走邮件 info@ + CEO）；邮箱域名需核对"
+  "守界（军方/政府项目）；伊拉克业务付款与物流；小团队"
  ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
+  "p1": "STC-28DGGPM",
   "tier": 25,
-  "why": "集成商 25% 档：STI-288DGGPM（DIN 8 GE PoE+ 2 SFP L2+ 管理，−40~+75 ℃，$137.5）对应「工业级 + PoE + 管理」；16 口 STI-21616GP（$177.5）"
+  "why": "集成 25% 档：STC-28DGGPM（2 SFP + 8 GE PoE+ L2+，$84.1）作 CCTV/门禁接入；24 口 STC-424DGGPM-280W（$140.1）；工业 STI-288GP（$59.8）"
  },
- "email_hook": "Following our chat at ISAF about managed industrial PoE: DIN-rail 8× GbE PoE+ (240 W) + 2× SFP L2+ managed, −40 to +75 °C, $137.5 EXW at 25-unit tier — how many units does your next infrastructure project in Pristina or Skopje need?",
+ "email_hook": "Any live CCTV site this quarter where a 4-port DIN PoE (38 USD class) would fit?",
  "mail_review": {
   "binding": {
-   "level": "未发信（S/A 邮箱均无往来；来源：用户表「英文很好， 平时用工业级交换机，PoE用的多， 带管理， 拿了彩页 / 383 3873 2732 加不上 383 49」；Elsa 箱：`to:storm-ict.com OR to:ict.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(n)））",
-   "type": "—",
-   "sieve": "—（未入筛）",
-   "stop": "从未触达",
-   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
-   "lane": "科索沃（欧洲全域主攻）",
-   "cadence": "首封后看打开",
-   "evidence": "gmail_digest：out 0；用户表：「英文很好， 平时用工业级交换机，PoE用的多， 带管理， 拿了彩页 / 383 3873 2732 加不上 383 49637000 加不上」；研究档 risks：科索沃物流/清关；WhatsApp 加不上（走邮件 info@ + CEO）；邮箱域名需核对"
+   "level": "未绑定（询问阶段两轮：10G MC「interested」、STI-154GP 38 USD 报价后无回音；Elsa 箱：`to:eurotechnology.ae OR to:netontechnologies.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 36 / 来 2）（第 74 批(n)））",
+   "type": "阿布扎比/迪拜安防集成商（NetOn Technologies 域名在同一实体档案内；Chandra）——第四档，中东非主攻",
+   "sieve": "1–2",
+   "stop": "2024-08-14 报 STI-154GP 38 USD 后静默；2024-07 10G MC 规格书后也无下文",
+   "revive": "其项目出现；WA 季度一句话",
+   "lane": "AE 非主攻",
+   "cadence": "2024-06 → 2026-09 去信 36 封；最后来信 2024-08-14",
+   "evidence": "k=98852d1abcd4b4a6 / 68986281c27a13e8 / 71f84f290da90e77"
   },
-  "situation": "科索沃普里什蒂纳的 ICT 系统集成商 Storm ICT LLC（2013 年成立；克罗地亚 Storm Group 成员；科索沃 + 北马其顿办公室；11–50 人（RocketReach 6）；业务：有源/无源网络基础设施、信息通信方案、专业服务、行业与应用方案；CEO Alban S. Beqiri（20+ 年 IT/金融业经验）；CTO Vegim Zhitija；Rruga Tahir Zajmi (Kosovatex) pn, 10000 Prishtinë；+383 38 732 731/732；info@storm-ict.com）。ISAF 记录：英文很好，平时用工业级交换机、PoE 用得多、带管理，拿了彩页；WhatsApp 两个号都加不上；无后续跟进。用户表邮箱 alban.beqiri@storm.ict.com 域名疑有误（公司域为 storm-ict.com）",
-  "need": "集成商 25% 档：STI-288DGGPM（DIN 8 GE PoE+ 2 SFP L2+ 管理，−40~+75 ℃，$137.5）对应「工业级 + PoE + 管理」；16 口 STI-21616GP（$177.5）",
-  "breakpoint": "科索沃物流/清关；WhatsApp 加不上（走邮件 info@ + CEO）；邮箱域名需核对",
+  "situation": "Chandra 2024-07 对 10G MC 回「Yes, interested」，2024-08 对工业 PoE 回「Whats the pricing」，Simon 报 STI-154GP 38 USD（-40~75℃，DIN，不含光模块/电源）后再无来信；此后 Saga 群发 30+ 封。",
+  "need": "10G MC、4 口工业 PoE（CCTV 项目配套）。",
+  "breakpoint": "两次都在价格/规格书之后停——项目型客户没有项目就没有下文；中东非主攻，不追。",
   "saga_now": {
-   "p1": "STI-288DGGPM",
+   "p1": "STI-154GP（按现价重算）",
    "tier": 25,
-   "price": "按主表（研究档 saga_fit）（㉕ 封顶：STI-288DGGPM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25）",
-   "why": "集成商 25% 档：STI-288DGGPM（DIN 8 GE PoE+ 2 SFP L2+ 管理，−40~+75 ℃，$137.5）对应「工业级 + PoE + 管理」；16 口 STI-21616GP（$177.5）",
+   "price": "按 25% 集成档；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-20 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-07-07 $65（10g fiber media converter）、2025-08-27 $240（24 Port Fiber Switch）、2025-09-25 $280（10G Enterprise SFP Switch）",
+   "why": "WA 季度一句话即可。已打开的主题（4/36 封有打开记录）：「10G fiber media converter」(2024-07-07)、「Re: 10G fiber media converter」(2024-07-08)、「Re: 10G fiber media converter」(2024-08-14)、「Optional Marvell Chipset Solutions」(2025-11-17) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "待 Simon 排期（首封）",
-   "channel": "A 邮箱 → alban.beqiri@storm.ict.com（Alban S. Beqiri）",
-   "action": "首封：按 email_hook 一问（第 75 批(k) 2026-10-25：英文信稿已写 `draft_en`）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
-   "one_question": "Following our chat at ISAF about managed industrial PoE: DIN-rail 8× GbE PoE+ (240 W) + 2× SFP L2+ managed, −40 to +75 °C, $137.5 EXW at 25-unit tier — how many units does your next infrastructure project in Pristina or Skopje need?"
+   "when": "季度",
+   "channel": "WhatsApp",
+   "action": "一句话问是否有在手项目（第 75 批(an) 2026-10-25：一句话稿已写 `draft_en`；2024 报 $38 → 今 25% 档 $39.2 如实）",
+   "one_question": "Any live CCTV site this quarter where a 4-port DIN PoE (38 USD class) would fit?"
   },
   "facts": [
    {
-    "date": "2026-10-21",
-    "dir": "用户表",
+    "date": "2024-05-17",
+    "dir": "来",
+    "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+    "quote": "用户表跟进：推「发了mini工业交换机图」→ 对方「2光8PoE管理带电源」",
+    "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+    "k": "Clients/A/DONE/阿联酋 沙特阿拉伯  2.3.xlsx no.9 2024.5.17"
+   },
+   {
+    "date": "2024-07-07",
+    "dir": "来",
+    "who": "Chandra（NetOn）",
+    "quote": "Yes, interested",
+    "why": "10G MC",
+    "k": "98852d1abcd4b4a6"
+   },
+   {
+    "date": "2024-08-14",
+    "dir": "来",
+    "who": "Chandra",
+    "quote": "hi Whats the pricing.",
+    "why": "询价",
+    "k": "68986281c27a13e8"
+   },
+   {
+    "date": "2024-08-14",
+    "dir": "去",
     "who": "Simon",
-    "quote": "英文很好， 平时用工业级交换机，PoE用的多， 带管理， 拿了彩页 / 383 3873 2732 加不上 383 49637000 加不上",
-    "why": "表内备注",
-    "k": "用户表"
+    "quote": "38usd/pc STI-154GP… -40℃ to 75℃, Din mounted, Without SFP Transceiver, Without Power Supply",
+    "why": "报价后停",
+    "k": "71f84f290da90e77"
    }
   ],
-  "proof_gaps": [
-   "无邮件往来"
-  ],
+  "proof_gaps": [],
   "draft_en": {
-   "subject": "Managed industrial PoE for your Pristina and Skopje projects - from ISAF",
-   "body": "Hi Alban,\n\nWe met at ISAF 2025 in Istanbul last October - this picks up what we discussed at the booth about managed industrial PoE.\n\nThe unit: DIN-rail 8 x Gigabit PoE+ (240 W budget) + 2 x SFP, L2+ managed with ring redundancy, Marvell-based, -40 to 75 C, CE/RoHS - model STI-288DGGPM - $137.5 USD EXW (MOQ 1, 15-day validity). For larger cabinets, a 16 x PoE+ + 2 x SFP industrial unmanaged unit, STI-21616GP, $177.5.\n\nOne question: how many units does your next infrastructure project in Pristina or Skopje need?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+   "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+   "body": "Chandra, Simon from Saga Telecom. You asked the price of the 4-port DIN PoE in 2024 - $38 then; the same unit, 4 x Gigabit PoE+ + 1 x Gigabit + 1 x SFP, -40 to 75 C, is $39.2 USD EXW today (MOQ 1, 15-day validity). One question: any live CCTV site this quarter where it would fit, or shall I check again next quarter?"
   },
   "as_of": "2026-10-24"
  }

@@ -1,0 +1,73 @@
+{
+ "code": "SC-058",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（fbk.it，快照 2026-10-21）",
+ "summary": "意大利 FBK SRL（AI 招标管理平台（生命科学/医疗）；阿里巴巴 RFQ「100G 80KM/100KM 模块」；KP Brown K）；表内未跟进。",
+ "type": "软件平台公司（光模块 RFQ）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：AI for Tender Management | FBK；品类词 工业自动化 / OT 网络",
+   "quote": "AI-powered tender management platform that automates every stage of tendering for life sciences & healthcare.",
+   "url": "https://fbk.it/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "100G 80KM/100KM模块 / from: 阿里巴巴RFQ",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "FBK 定位",
+   "quote": "AI for Tender Management | FBK ; AI-powered tender management platform",
+   "url": "https://fbk.it/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "100G 模块 RFQ",
+   "quote": "100G 80KM/100KM模块 / from: 阿里巴巴RFQ",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "软件公司 + 100G 光模块 RFQ（Saga 不供）；c_sub=品类不符（软件）",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "意大利",
+  "other": "官网 fbk.it，语言 en，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "AI 招标管理软件（意大利）"
+ ],
+ "channels": {
+  "role": "软件平台公司（光模块 RFQ）",
+  "region": "意大利",
+  "contact": "sales@fbk.it"
+ },
+ "signals": [
+  "官网：AI for Tender Management | FBK ; AI-powered tender management platform that automates every stage of tendering for life sciences & healthcare",
+  "表内：100G 80KM/100KM 模块 / from: 阿里巴巴 RFQ"
+ ],
+ "risks": [
+  "品类不符：软件平台；RFQ 100G 光模块 Saga 不供"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 25,
+  "why": "软件公司、RFQ 为 100G 光模块（Saga 不供）→ 改 C"
+ },
+ "email_hook": "（不发送：软件公司/品类不供）"
+}

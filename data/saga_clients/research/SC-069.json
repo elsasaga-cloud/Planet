@@ -1,0 +1,81 @@
+{
+ "code": "SC-069",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（imagine.com.bn，快照 2026-10-21）",
+ "summary": "文莱 Imagine Sdn. Bhd.（文莱领先电信运营商：宽带、移动、企业业务；表内「工业交换机 / from: 于总推荐」；KP Hj Muhammad Al-Wadud bin Hj Aini（Senior Manager, Infrastructure & Network））；表内未跟进。",
+ "type": "电信运营商（文莱，于总推荐）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：imagine；品类词 电信 / FTTH / ISP 设备 / 光纤 / 媒体转换",
+   "quote": "Imagine Sdn. Bhd. is Brunei’s leading telecommunications provider, offering a comprehensive suite of broadband, mobile, and moving Beyond Connectivity offer...",
+   "url": "https://imagine.com.bn/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "工业交换机 / from: 于总推荐",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Imagine 定位",
+   "quote": "Home | imagine ; Imagine Sdn. Bhd. is Brunei’s leading telecommunications provider",
+   "url": "https://imagine.com.bn/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "工业交换机 于总推荐",
+   "quote": "工业交换机 / from: 于总推荐",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Hj Muhammad Al-Wadud bin Hj Aini",
+   "title": "Senior Manager (Infrastructure & Network)",
+   "email": "wadud.a@imagine.com.bn",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
+ "grade_override": "C",
+ "override_reason": "运营商（守界）；于总推荐待用户裁定；c_sub=运营商",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "文莱",
+  "other": "官网 imagine.com.bn，语言 en-US，快照状态 ok；角色判定来源：用户表"
+ },
+ "business_lines": [
+  "电信运营（文莱）"
+ ],
+ "channels": {
+  "role": "电信运营商（文莱，于总推荐）",
+  "region": "文莱",
+  "contact": "wadud.a@imagine.com.bn"
+ },
+ "signals": [
+  "官网：Imagine Sdn. Bhd. is Brunei’s leading telecommunications provider, offering a comprehensive suite of broadband, mobile…",
+  "表内：工业交换机 / from: 于总推荐；KP Hj Muhammad Al-Wadud bin Hj Aini, Senior Manager"
+ ],
+ "risks": [
+  "守界：运营商（自用采购、招标/合规流程）；非主攻区（文莱）；「于总推荐」——是否例外跟进待用户裁定"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 25,
+  "why": "电信运营商（守界：运营商自用采购/招标体系）→ 改 C；因「于总推荐」保留具名联系人，待用户裁定是否例外"
+ },
+ "email_hook": "（不发送：运营商；待用户裁定）"
+}

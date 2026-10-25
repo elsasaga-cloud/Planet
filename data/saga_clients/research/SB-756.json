@@ -2,72 +2,144 @@
  "code": "SB-756",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "在线（araknisnetworks.com，快照 2026-10-21）",
- "summary": "Araknis Networks（Snap One 旗下集成商网络品牌：Wi-Fi / 路由 / 交换机，OvrC 远程管理；Snap One 2024 年并入 Resideo；表内国别「澳大利亚」（站点为品牌全球站）；表内「Switch 自己的 logo」「可以多跟进一下」）；群发 22 次无回复。",
- "type": "集团品牌（Snap One / Resideo）",
+ "website_status": "在线（fluxlight.com，快照 2026-10-21）",
+ "summary": "美国 FluxLight（光收发器与互连产品制造/品牌：Cisco/Juniper/Aruba 等兼容 SFP/SFP28/QSFP、DAC、MC、机架；表内「MC / SFP（主要）/ 机架，自己的 logo」）；群发 19 次无回复。",
+ "type": "光收发器自有品牌商（美国，MC 为副线，OEM 采购）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Cisco",
+  "Juniper",
+  "D-Link",
+  "Aruba",
+  "Allied Telesis",
+  "Netgear",
+  "Huawei",
+  "H3C",
+  "Fortinet"
+ ],
  "evidence": [
   {
    "kind": "官网快照",
-   "claim": "官网标题：Professional Networking Built for Integrators | Araknis；品类词 网络交换 / PoE",
-   "quote": "Professional-grade Wi-Fi, routing, and switching designed for custom integrators. Reliable installs, remote management via OvrC, and a complete product ecosystem.",
-   "url": "https://araknisnetworks.com/",
+   "claim": "官网标题：FluxLight | Optical Transceiver Solutions, Cables & Media Converters；品类词 工业自动化 / OT 网络 / 布线 / 线缆 / 光纤 / 媒体转换",
+   "quote": "Build your network bigger, faster, and stronger with FluxLight. We manufacture fiber optic transceivers and interconnect products for networking use.",
+   "url": "https://fluxlight.com/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
    "claim": "表内兴趣/备注",
-   "quote": "Switch 自己的logo",
+   "quote": "MC SFP（主要）机架 自己的logo",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   },
   {
    "kind": "官网快照",
-   "claim": "Araknis 定位",
-   "quote": "Professional Networking Built for Integrators | Araknis ; Professional-grade Wi-Fi, routing, and switching designed for custom integrators … remote management via OvrC",
-   "url": "https://araknisnetworks.com/",
+   "claim": "FluxLight 定位",
+   "quote": "Build your network bigger, faster, and stronger with FluxLight. We manufacture fiber optic transceivers and interconnect products for networking use.",
+   "url": "https://fluxlight.com/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "Switch 自己的 logo",
-   "quote": "Switch 自己的logo；可以多跟进一下",
+   "claim": "MC SFP 主要，机架，自己的 logo",
+   "quote": "MC SFP（主要）机架 自己的logo",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
  "kp": [],
- "grade_override": "C",
- "override_reason": "集团品牌：Araknis（Snap One / Resideo 上市集团），既定 ODM + OvrC 云管理；c_sub=厂商/集团品牌（非渠道）",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "澳大利亚",
-  "other": "官网 araknisnetworks.com，语言 ?，快照状态 ok；角色判定来源：用户表"
+  "hq": "美国",
+  "other": "官网 fluxlight.com，语言 en，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "集成商网络产品品牌（AP / 交换机 / 路由）"
+  "兼容光模块 / DAC / MC（自有品牌 FluxLight）"
  ],
  "channels": {
-  "role": "集团品牌（Snap One / Resideo）",
-  "region": "澳大利亚",
-  "contact": "info@araknisnetworks.com"
+  "role": "光收发器自有品牌商（美国，MC 为副线，OEM 采购）",
+  "region": "美国",
+  "contact": "sales@fluxlight.com"
  },
  "signals": [
-  "官网：Professional-grade Wi-Fi, routing, and switching designed for custom integrators. Reliable installs, remote management via OvrC；页面 /switches",
-  "表内：Switch 自己的 logo；可以多跟进一下"
+  "官网：We manufacture fiber optic transceivers and interconnect products for networking use；首页 SFP-H25G-CU1M-FL Cisco Compatible 25G SFP28 DAC；kw fiber 110 / sfp 61 / media converter 28",
+  "表内：MC SFP（主要）机架 自己的 logo"
  ],
  "risks": [
-  "集团品牌：Snap One（Resideo 上市集团）旗下 Araknis，既定 ODM 与 OvrC 云管理绑定，非 Saga 可承接；22 次无回复"
+  "主品类 SFP/DAC：Saga 不供（Q-32），仅 MC 可对位，契合度低",
+  "19 次无回复，仅 sales@/quotes@；MC 机架 Saga 无"
  ],
  "saga_fit": {
-  "p1": null,
+  "p1": "STI-110GE",
   "tier": 30,
-  "why": "上市集团（Resideo）旗下品牌，交换机线有既定大型 ODM 与 OvrC 云管理 → 改 C"
+  "why": "主品类 SFP/DAC Saga 不供（Q-32）；仅 MC 可对位 → 工业千兆 MC STI-110GE（$24.3 @30%）/ PoE MC STI-111GP（$30.1）贴 FluxLight 标；桌面 MC 与 MC 机架 Saga 列表无（注明）"
  },
- "email_hook": "（不发送：集团品牌）"
+ "email_hook": "For the FluxLight media-converter line, we can supply industrial gigabit and PoE media converters under your label from small lots (−40~75 °C, FCC/CE/RoHS) — is there an MC configuration your transceiver customers keep asking for that you do not stock today?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 22 封 2024→2026，1 次记录打开，0 回；收件 sales@fluxlight.com；主题多为「48 Port SFP Switch、Marvell Software Function List」；Elsa 箱：`to:fluxlight.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 22 / 来 0）（第 74 批(h)））",
+   "type": "光收发器自有品牌商（美国，MC 为副线，OEM 采购）",
+   "sieve": "1~2（1 次打开）",
+   "stop": "只打通用邮箱，无记录打开",
+   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+   "lane": "US 主攻（四主）",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 22，Opened 标签 1（Simon 群发追踪）；用户表：「MC SFP（主要）机架 自己的logo」；研究档 risks：主品类 SFP/DAC：Saga 不供（Q-32），仅 MC 可对位，契合度低"
+  },
+  "situation": "美国 FluxLight（光收发器与互连产品制造/品牌：Cisco/Juniper/Aruba 等兼容 SFP/SFP28/QSFP、DAC、MC、机架；表内「MC / SFP（主要）/ 机架，自己的 logo」）；群发 19 次无回复。",
+  "need": "主品类 SFP/DAC Saga 不供（Q-32）；仅 MC 可对位 → 工业千兆 MC STI-110GE（$24.3 @30%）/ PoE MC STI-111GP（$30.1）贴 FluxLight 标；桌面 MC 与 MC 机架 Saga 列表无（注明）",
+  "breakpoint": "主品类 SFP/DAC：Saga 不供（Q-32），仅 MC 可对位，契合度低",
+  "saga_now": {
+   "p1": "STI-110GE",
+   "tier": 30,
+   "price": "换人再触锚价 STI-110GE $26.5 EXW（最近实报 SA-001 2025-11-27 $26.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-30 $220（48 port managed switch）；群发里他已看到的价（续，第 66 批全量复核）：2024-12-17 $240（24 Port Fiber Switch）、2025-10-03 $280（10G Enterprise SFP Switch）",
+   "why": "主品类 SFP/DAC Saga 不供（Q-32）；仅 MC 可对位 → 工业千兆 MC STI-110GE（$24.3 @30%）/ PoE MC STI-111GP（$30.1）贴 FluxLight 标；桌面 MC 与 MC 机架 Saga 列表无（注明）。已打开的主题（1/22 封有打开记录）：「24 Port Fiber Switch」(2024-12-17) → 读者兴趣偏「MC/光电」；当前 P1 属「10G 汇聚/L3」，下一封按「MC/光电」给，不按 P1",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1（换人后）",
+   "channel": "A 邮箱 → 具名 KP",
+   "action": "换收件人再发一封（第 75 批(w) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
+   "one_question": "For the FluxLight media-converter line, we can supply industrial gigabit and PoE media converters under your label from small lots (−40~75 °C, FCC/CE/RoHS) — is there an MC configuration your transceiver customers keep asking for that you do not stock today? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
+  },
+  "facts": [
+   {
+    "date": "2026-02-12",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "48 Port SFP Switch、Marvell Software Function List",
+    "why": "22 封 / 1 次打开 / 0 回｜首封 2024-07-01 → 末封 2026-02-12（22 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "MC SFP（主要）机架 自己的logo",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026-02-12",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "Updated Ethernet Switches Links",
+    "why": "本日去信真实主题（邮箱索引 c03cc424dcd5ff74；信稿开头句引用此封；此前稿内写的「48 Port SFP Switch」是线程列表首题，不是本封）",
+    "k": "c03cc424dcd5ff74"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": {
+   "subject": "For the FluxLight media-converter line - the industrial configurations you may not stock",
+   "body": "Hello FluxLight team,\n\nOver the past months you had a few product mails from us - most recently \"Updated Ethernet Switches Links\" on 12 February 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nTransceivers and DAC are your core and we do not carry them. For the FluxLight media-converter line, under your label from small lots, -40 to 75 C, FCC/CE/RoHS: industrial Gigabit converter, DIN-rail, 1 x RJ45 + 1 x SFP slot - model STI-110GE - $26.5 USD EXW (MOQ 1, 15-day validity); PoE version - STI-111GP - $30.1. Desktop converters and converter racks are not on our list - said up front.\n\nOne question: is there a converter configuration your transceiver customers keep asking for that you do not stock today?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+  },
+  "as_of": "2026-10-24"
+ }
 }

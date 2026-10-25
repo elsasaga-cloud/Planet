@@ -1,4 +1,11 @@
-# SA-081 softnetworks.net · feed_auto · https://softnetworks.net/feed/ · fetched 2026-10-25T07:41:18Z · HTTP 200
-Mon, 09 Feb 2026 00:45:02 +0000	Buying Refurbished Hardware	https://softnetworks.net/buying-refurbished-hardware/
-Sun, 30 Nov 2025 10:10:07 +0000	Why buy Used or Refurbished Chromebooks ?	https://softnetworks.net/why-buy-used-or-refurbished-chromebooks/
-Sun, 30 Nov 2025 10:09:17 +0000	Unlocking Value with Used & Refurbished Cisco C9200 and C9300 Series Switches	https://softnetworks.net/unlocking-value-with-used-refurbished-cisco-c9200-and-c9300-series-switches/
+# SA-081 4power.it · feed_auto · https://www.4power.it/feed/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+Mon, 12 Oct 2026 23:43:28 +0000	4Net 4N-WSG24P2F: switch PoE Web Smart 24 porte Gigabit, 2 SFP, 300 W	https://www.4power.it/4n-wsg24p2f-switch-web-smart-24p1000-poe-8023at-300w-2p1000-sfp/
+Sat, 26 Sep 2026 07:29:04 +0000	PLANET CB-QSFP100G-5M: cavo DAC QSFP28 100G da 5 m	https://www.4power.it/planet-cb-qsfp100g-5m-cavo-dac-100g/
+Sat, 26 Sep 2026 07:28:35 +0000	PLANET CB-QSFP100G-3M: cavo DAC QSFP28 100G da 3 m	https://www.4power.it/planet-cb-qsfp100g-3m-cavo-dac-100g/
+Fri, 25 Sep 2026 21:19:43 +0000	Eurogroup Micro Pro LCD 2000: UPS 2000 VA / 1200 W | MLPMM200010T	https://www.4power.it/eurogroup-micro-pro-lcd-2000-ups-2000va/
+Fri, 25 Sep 2026 21:19:41 +0000	Eurogroup Micro Pro LCD 1500: UPS 1500 VA / 900 W | MLPMM150010T	https://www.4power.it/eurogroup-micro-pro-lcd-1500-ups-1500va/
+Fri, 25 Sep 2026 21:19:40 +0000	Eurogroup Micro Pro LCD 1000: UPS 1000 VA / 600 W | MLPMM100010T	https://www.4power.it/eurogroup-micro-pro-lcd-1000-ups-1000va/
+Fri, 25 Sep 2026 21:19:40 +0000	Eurogroup Micro Pro LCD 1200: UPS 1200 VA / 720 W | MLPMM120010T	https://www.4power.it/eurogroup-micro-pro-lcd-1200-ups-1200va/
+Fri, 25 Sep 2026 21:19:39 +0000	Eurogroup Micro Pro LCD 850: UPS 850 VA / 480 W | MLPMM085010T	https://www.4power.it/eurogroup-micro-pro-lcd-850-ups-850va/
+Fri, 25 Sep 2026 21:19:38 +0000	Eurogroup Micro Pro LCD 650: UPS 650 VA / 360 W | MLPMM065010T	https://www.4power.it/eurogroup-micro-pro-lcd-650-ups-650va/
+Fri, 25 Sep 2026 20:54:23 +0000	Eurogroup Micro 650: UPS 650 VA / 360 W | MCRMM065010T	https://www.4power.it/ups-micro-650-potenza-nominale-650va/

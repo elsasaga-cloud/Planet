@@ -1,150 +1,155 @@
 {
  "code": "SB-869",
- "name_official": "",
+ "name_official": "Futurist (Pvt) Ltd.",
  "researched_at": "2026-10-21",
- "website_status": "在线（tccomm.com，快照 2026-10-21）",
- "summary": "美国加州 TC Communications（光纤通信与工业以太网产品设计制造商：复用器、DIN 工业交换机、JumboSwitch；行业：公用事业 / 公共安全 / 政府 / 轨道 / 航空；表内「工业 FS / MC / 光猫，Switch 协议类产品」；KP Steve Cragg（stevec@）、Larry（novaca.com）、Fredrick Chow）；群发 19 次无回复。",
- "type": "工业光通信制造商（自有品牌，入门工业交换机可 OEM）",
+ "website_status": "在线（futurist.com.pk；快照未覆盖）",
+ "summary": "伊斯兰堡网络工程承包商 / 通信设备经销商（2011 年成立，CEO Aqeel Abbas，联系人 Tajamal Ishaq），Yokogawa / OPNET / Furukawa 关联，Volza 记录 128 票进口（47 家供应商，中国 + 美国）；多次就 2 光 8 电管理 PoE、2 光 4 小壳、mini 工业机问价，表示工业电源「可搭配工业交换机」，最初兴趣为光猫（ONU，Saga 无）。",
+ "type": "",
  "size": "",
  "brands_seen": [],
  "evidence": [
   {
-   "kind": "官网快照",
-   "claim": "官网标题：TC Communications - Fiber Optic Networks and Industrial Ethernet Solutions；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 光纤 / 媒体转换 / 网络交换 / PoE",
-   "quote": "TC Communications design and manufacture the most reliable and efficient fiber optic communications products for public safety, utilities, transportation, and other industrial networks",
-   "url": "https://tccomm.com/",
+   "kind": "名录",
+   "claim": "公司信息：伊斯兰堡 I-10/4，2011 年，管理人 Aqeel Abbas / Tajamal Ishaq，关联 Yokogawa / OPNET / Furukawa",
+   "quote": "Futurist (Pvt) Ltd. 524, Main Double Road, Street 19, I-10/4, Islamabad… Managed By: Mr. Aqeel Abbas Mr. Tajamal Ishaq… Y.O.E: 2011… Affiliations: Yokogawa Electric Corporation OPNET Technologies Co. Ltd. Furukawa Electric Group",
+   "url": "https://www.lookup.pk/company/112444-Futurist-Pvt-Ltd",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "名录",
+   "claim": "经营范围：网络承包、光缆、通信设备批发、CCTV、UPS、测试仪器",
+   "quote": "dealing in Computer Networking Contractors, Computer Networks Equipment Dealers & Distributors, Optical Fiber Cables… Telecommunication Equipment & Supplies Wholesale Dealers… CCTv Equipment",
+   "url": "https://www.lookup.pk/company/112444-Futurist-Pvt-Ltd",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "海关",
+   "claim": "进口商：128 票 / 47 家供应商（中国、美国）",
+   "quote": "Futurist Pvt Limited Pakistan is an importer with 128 import shipments from 47 suppliers… China, and United States",
+   "url": "https://www.volza.com/company-profile/futurist-pvt-limited-30979764/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "名录",
+   "claim": "CEO Aqeel Abbas（2011 至今，前 Zong）",
+   "quote": "2011 - now CEO @ FUTURIST (Pvt) Ltd; 2007 - 2011 Manager NPS @ ZonG",
+   "url": "https://rocketreach.co/aqeel-abbas-email_44568110",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "工业FS MC 光猫；Switch 协议类产品",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "为公用事业、公共安全、交通等工业网络设计制造光纤通信产品",
-   "quote": "TC Communications design and manufacture the most reliable and efficient fiber optic communications products for public safety, utilities, transportation, and other industrial networks",
-   "url": "https://tccomm.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "工业 FS / MC / 光猫 / 协议类",
-   "quote": "工业FS MC 光猫 / Switch 协议类产品",
+   "claim": "回复链：2 光 8 管理 PoE 出货图→问价；工业电源→「可以搭配工业交换机」；2 光 4 小壳→price；mini 工业机→will check；4/8 口工业 PoE→发来竞品图（疑天博通信）",
+   "quote": "发了2光8管理POE出货图等信息→问了价格；发了工业电源相关信息→有用 可以搭配工业交换机；发了2光4小壳信息→price；4 8口工业PoE→发了右图 应该是天博通信的",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
  "kp": [
   {
-   "name": "Steve Cragg",
-   "title": "（表内联系人）",
-   "email": "stevec@tccomm.com",
-   "phone": "",
-   "source": "用户表"
+   "name": "Tajamal Ishaq",
+   "title": "Manager（表内联系人）",
+   "email": "tajamal@futurist.com.pk",
+   "phone": "+92 333 519 9946",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
   },
   {
-   "name": "Fredrick Chow",
-   "title": "（表内联系人）",
+   "name": "Aqeel Abbas",
+   "title": "CEO",
    "email": "",
    "phone": "",
-   "source": "用户表"
+   "source": "https://rocketreach.co/aqeel-abbas-email_44568110"
   }
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（名录 + 海关核对）"
  },
  "company_facts": {
-  "hq": "美国",
-  "other": "官网 tccomm.com，语言 ?，快照状态 ok；角色判定来源：官网文案"
+  "legal_name": "Futurist (Pvt) Ltd.",
+  "founded": "2011",
+  "hq": "524 Main Double Road, I-10/4, Islamabad, Pakistan",
+  "size": "小型（名录无人数；进口 128 票）",
+  "other": "info@futurist.com.pk；座机 +92-51-4446394"
  },
  "business_lines": [
-  "光纤复用器 / 工业以太网（自研）",
-  "DIN 工业交换机",
-  "行业：公用事业 / 公共安全 / 轨道 / 航空"
+  "网络 / 光纤工程承包",
+  "通信与测试设备进口经销（Yokogawa、Furukawa 关联）",
+  "CCTV / UPS / 太阳能供应"
+ ],
+ "products_seen": [
+  {
+   "brand": "（竞品）",
+   "model": "4/8 口工业 PoE（客户回发图，疑天博通信）",
+   "spec": "工业 PoE 交换机",
+   "saga": "Saga STI-288GP / STI-144GP 同口型",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
  ],
  "channels": {
-  "role": "工业光通信制造商（自有品牌，入门工业交换机可 OEM）",
-  "region": "美国",
-  "contact": "larry@novaca.com、stevec@tccomm.com"
+  "role": "进口经销 + 工程承包",
+  "region": "巴基斯坦（伊斯兰堡）"
  },
  "signals": [
-  "产品页 /FiberOpticProducts/Products/Multiplexers/Ethernet/192/DIN-Rail-Industrial-Ethernet-Swit…、/JumboSwitch/Index/Industrial_Networking",
-  "站内型号 TC3846-6 / TC3848-1 / TC3240",
-  "KP：Steve Cragg、Fredrick Chow、Larry（表内）"
+  "多轮问价（2 光 8 管理 PoE、2 光 4、mini 工业）",
+  "有在比价的工业 PoE 竞品（天博通信）",
+  "是 Volza 可查的活跃进口商"
  ],
  "risks": [
-  "守界：公用事业 / 公共安全 / 政府 / 轨道 / 航空为关键基础设施，只供非关键节点、不进轨道车载",
-  "自研制造商：外采意愿未知，19 次无回复",
-  "表内 novaca.com 为另一域名（Larry）：身份需核"
+  "比价型客户，目标价偏低概率高",
+  "光猫 / ONU 需求 Saga 无（Q-32 外，PON 不做）"
  ],
  "saga_fit": {
-  "p1": "STI-288GPM",
-  "tier": 30,
-  "why": "自研高端复用器为主，DIN 入门工业交换机可外采 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）贴 TC 标；MC 位 STI-110GE；仅报非关键节点（公用事业/公共安全/轨道守界）"
+  "p1": "STC-28DGGPM",
+  "tier": 20,
+  "why": "其最明确的问价对象 = 2 光 8 电管理 PoE，对应 Saga STC-28DGGPM；工业 4/8 口 PoE 备选 STI-144GP / STI-288GP 与竞品对价。"
  },
- "email_hook": "Steve, for the entry DIN-rail Ethernet switch positions below your JumboSwitch line, we build Marvell-based 8-port managed PoE and gigabit media converters under your label from small lots (−40~75 °C, CE/RoHS/FCC) — is there an entry model you would rather source than design?",
+ "email_hook": "Tajamal, you asked us for the 8-PoE + 2-SFP managed unit price and later compared a 4/8-port industrial PoE from another factory — if you send the exact port/PoE-budget spec you are benchmarking, I'll quote the matching Saga model EXW the same day.",
  "mail_review": {
   "binding": {
-   "level": "未触达（唯一来信为 Chavan（SB-761）抄送 NovaCA 的误归属；Elsa 箱：`to:tccomm.com OR to:novaca.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 43 / 来 1）（第 74 批(h)））",
-   "type": "美国工业光通信制造商（TC Communications）",
-   "sieve": "0",
-   "stop": "误归属；本户零回复",
-   "revive": "不动",
-   "lane": "US",
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「发了2光8管理POE出货图等信息→问了价格；发了工业电源相关信息→有用 可以搭配工业交换机；发了2光4小壳信息→pric」；Elsa 箱：`to:futurist.com.pk` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(n)））",
+   "type": "—",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "不动（非主攻区；J5：有证据再动）",
+   "lane": "巴基斯坦 非主攻",
    "cadence": "不动",
-   "evidence": "k=5a42faf06fd8915e（属 SB-761）"
+   "evidence": "gmail_digest：out 0；用户表：「发了2光8管理POE出货图等信息→问了价格；发了工业电源相关信息→有用 可以搭配工业交换机；发了2光4小壳信息→price；4 8口工业PoE→发了右图 应该是」；研究档 risks：比价型客户，目标价偏低概率高"
   },
-  "situation": "来信全部为机器回复；无人读信或无人回信。",
-  "need": "—",
-  "breakpoint": "—",
+  "situation": "伊斯兰堡网络工程承包商 / 通信设备经销商（2011 年成立，CEO Aqeel Abbas，联系人 Tajamal Ishaq），Yokogawa / OPNET / Furukawa 关联，Volza 记录 128 票进口（47 家供应商，中国 + 美国）；多次就 2 光 8 电管理 PoE、2 光 4 小壳、mini 工业机问价，表示工业电源「可搭配工业交换机」，最初兴趣为光猫（ONU，Saga 无）。",
+  "need": "其最明确的问价对象 = 2 光 8 电管理 PoE，对应 Saga STC-28DGGPM；工业 4/8 口 PoE 备选 STI-144GP / STI-288GP 与竞品对价。",
+  "breakpoint": "比价型客户，目标价偏低概率高",
   "saga_now": {
-   "p1": "—",
-   "tier": 30,
-   "price": "—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-06-19 $220（48 port managed switch）；群发里他已看到的价（续）：2026-08-13 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-11-26 $65（10G Media Converter）、2025-02-19 $300（48 Port PoE Managed Switch）、2025-09-25 $280（10G Enterprise SFP Switch）",
-   "why": "已打开的主题（5/43 封有打开记录）：「10G Ethernet Web Managed Switch」(2024-10-30)、「10G Media Converter」(2024-11-26)、「Managed Optical Bypass Switch」(2025-07-08)、「Mini Industrial PoE Switch」(2025-08-05) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续",
+   "p1": "STC-28DGGPM",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "其最明确的问价对象 = 2 光 8 电管理 PoE，对应 Saga STC-28DGGPM；工业 4/8 口 PoE 备选 STI-144GP / STI-288GP 与竞品对价。",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
    "when": "不动",
    "channel": "—",
-   "action": "—（第 76 批(c) 2026-10-25：0 事实户补时间线事实）",
+   "action": "—",
    "one_question": ""
   },
   "facts": [
    {
-    "date": "2024-06-19",
-    "dir": "去",
-    "who": "S 箱（Simon）",
-    "quote": "48 port managed switch",
-    "why": "首封去信（邮箱索引；去信共 43 封）",
-    "k": "59eac8f4234fa84e"
-   },
-   {
-    "date": "2026-09-09",
-    "dir": "去",
-    "who": "A 箱（Alan）",
-    "quote": "16 Port Industrial PoE Switch",
-    "why": "最近一封去信（邮箱索引；去信共 43 封）",
-    "k": "81ea8a5561a68212"
-   },
-   {
-    "date": "2024-10-30",
-    "dir": "来",
-    "who": "chk999@outlook.com",
-    "quote": "Re: 10G Ethernet Web Managed Switch｜Hi, Does it have the https (not http, but https with s at the end http secure protocol) and can we store third party htt",
-    "why": "误归属：Chavan Koya = SB-761（NovaCA），回信抄送 larry@novaca.com 落到本户标签；Simon 2024-10-31 已答「HTTPS 不在功能表」。本户（tccomm.com）无人工回复",
-    "k": "5a42faf06fd8915e"
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "发了2光8管理POE出货图等信息→问了价格；发了工业电源相关信息→有用 可以搭配工业交换机；发了2光4小壳信息→price；4 8口工业PoE→发了右图 应该是天博通信的",
+    "why": "表内备注",
+    "k": "用户表"
    }
   ],
-  "proof_gaps": [],
+  "proof_gaps": [
+   "无邮件往来",
+   "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+  ],
   "draft_en": null,
   "as_of": "2026-10-24"
  }

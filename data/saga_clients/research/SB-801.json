@@ -1,190 +1,159 @@
 {
-  "code": "SB-801",
-  "name_official": "Preciso Technology Sdn Bhd（马来西亚）",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（precisotechnology.com.my，快照 2026-10-21，内容空）",
-  "summary": "马来西亚 Kota Damansara 系统集成商（IoT），Senior Manager C.S. Chong（张志祥，会中文），会去深圳看展，拿了光路彩页，问工业级能否到 85 ℃（Saga 工业线 -40~75 ℃）；无跟进。",
-  "type": "",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "precisotechnology.com.my 首页无内容",
-      "quote": "status ok, empty",
-      "url": "https://precisotechnology.com.my/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "系统集成商 IOT，会去深圳看展，拿了光路彩页，问工业级可以达到 85 度吗；地址 48-2, Jalan PJU 5/20D, The Strand Kota Damansara 47810",
-      "quote": "兴趣：系统集成商 IOT，会去深圳看展，拿了光路的彩页，问了工业级可以达到85度吗",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "C.S. Chong（张志祥）",
-      "title": "Senior Manager",
-      "email": "cschong@precisotechnology.com.my",
-      "phone": "+60 16 222 1954",
-      "source": "（本地 Clients/ 表格，无公开 URL）"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（快照空页 + 表内）"
+ "code": "SB-801",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（aurcore.net，快照 2026-10-21）",
+ "summary": "美国 AurCore Technology（开放架构网络硬件：AI 400G 以太网、智慧城市、工业环境，「built in the U.S.」；产品 AES 系列企业交换机、AIS4001P / AIS2002P 工业 PoE；60 天试用；表内「DC switch、常规 switch」；KP Bryan W（VP，bryan@）、Kyle Yu（Senior Product Manager，kyle.yu@））；表内无跟进记录。",
+ "type": "美国开放网络硬件品牌（工业 PoE 线可二供）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：AurCore Technology；品类词 工业自动化 / OT 网络 / 数据中心 / 企业 IT / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "AurCore Technology delivers high-performance, open-architecture networking hardware for AI, smart cities, and industrial environments — built in the U.S., scaled for the world.",
+   "url": "https://www.aurcore.net/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "legal_name": "Preciso Technology Sdn Bhd",
-    "founded": "（待核）",
-    "hq": "48-2, Jalan PJU 5/20D, The Strand, Kota Damansara 47810, Selangor, Malaysia",
-    "size": "小型 SI（IoT）",
-    "other": "中文沟通"
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "DC Switch 常规的Switch",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "IoT / 系统集成"
-  ],
-  "channels": {
-    "role": "系统集成商",
-    "region": "马来西亚"
+  {
+   "kind": "官网快照",
+   "claim": "AurCore 开放架构网络硬件",
+   "quote": "AurCore Technology delivers high-performance, open-architecture networking hardware for AI, smart cities, and industrial environments — built in the U.S., scaled for the world.",
+   "url": "https://www.aurcore.net/",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "计划访深圳 → 可约 SmartByte 工厂",
-    "问 85 ℃ → 高温场景（需如实说明 75 ℃ 上限）"
-  ],
-  "risks": [
-    "85 ℃ 要求超出 Saga 工业线（-40~75 ℃）"
-  ],
-  "saga_fit": {
-    "p1": "STI-288GPM",
-    "tier": 25,
-    "why": "工业管理 PoE → STI-288GPM（$82.2 @25%）；工作温度 -40~75 ℃（85 ℃ 需原厂确认降额）。"
-  },
-  "email_hook": "张经理，上次您问工业机能否到 85 ℃：我们工业线标称 -40~75 ℃，85 ℃ 需原厂确认降额使用；您下次来深圳看展时，我可以安排到 SmartByte 工厂做一次高温箱实测。方便告诉我安装环境吗？",
-  "mail_review": {
-    "binding": {
-      "level": "未触达（S 邮箱 8 封 2024→2025，无记录打开，0 回；收件 cschong@precisotechnology.com.my；主题多为「8 port 2.5 Switch、48 port switch」）；Elsa 群发 BCC 已触达 7 轮 2025-04-12→2026-09-08（锚 To desmond@multitradepac.com 7 轮 2025-04-12→2026-09-08；本户在 Bcc；主题 48 Port PoE Managed Switch、10G Enterprise SFP Switch、Industrial PoE Switch、24 Port PoE Managed Switch…；0 回（Elsa 箱 Replied 索引 + 第 73 批真人来信逐户比对均无此户）；S/A digest 看不到 Elsa 的去信，之前据此写的「未触达」是 S/A 口径）（第 74 批(n) `from:e.sagatelecom to:precisotechnology.com.my` 全程 complete：命中 7 行、To 均为锚地址 ⇒ 本户在锚的 Bcc 名单）",
-      "type": "—",
-      "sieve": "1（只收到群发）",
-      "stop": "8 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱；Q-33 供应商渠道客户",
-      "revive": "不动（Q-33）",
-      "lane": "马来西亚 非主攻",
-      "cadence": "不动",
-      "evidence": "gmail_digest：out 8；用户表：「兴趣：系统集成商 IOT，会去深圳看展，拿了光路的彩页，问了工业级可以达到85度吗」；研究档 risks：85 ℃ 要求超出 Saga 工业线（-40~75 ℃）"
-    },
-    "situation": "马来西亚 Kota Damansara 系统集成商（IoT），Senior Manager C.S. Chong（张志祥，会中文），会去深圳看展，拿了光路彩页，问工业级能否到 85 ℃（Saga 工业线 -40~75 ℃）；无跟进。",
-    "need": "工业管理 PoE → STI-288GPM（$82.2 @25%）；工作温度 -40~75 ℃（85 ℃ 需原厂确认降额）。",
-    "breakpoint": "85 ℃ 要求超出 Saga 工业线（-40~75 ℃）",
-    "saga_now": {
-      "p1": "STI-288GPM",
-      "tier": 25,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-07 $220（48 port switch）、2024-10-09 $65（10G Media Converter）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-04-12 $240（24 Port Fiber Switch = STC-4168XGGCM 单 AC 稿，Elsa 箱 1 轮 2025-04-12；同款 2025-09 起群发 $280（双 AC 稿）——再提这款说 $280）；2025-07-04 $300（48 Port PoE Managed Switch = STC-448XGGPM，Elsa 箱 1 轮 2025-07-04；现表 $335.4@20%、Drive 老表 $335——同款写 $335 要先说 2025 群发是 $300、汇率 7.2→6.7）；2025-10-06 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2025-10-06；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-09-08 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-08；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
-      "why": "工业管理 PoE → STI-288GPM（$82.2 @25%）；工作温度 -40~75 ℃（85 ℃ 需原厂确认降额）。",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "不动",
-      "channel": "—",
-      "action": "—",
-      "one_question": ""
-    },
-    "facts": [
-      {
-        "date": "2023-07-01",
-        "dir": "备",
-        "who": "Saga 内部马来西亚线索表 Client_List_待决定.xlsx（XSPec/Sugito 文件夹）",
-        "quote": "名单行：「20 Preciso Technology SDN BHD 张志祥 C.S.Chong Senior manager Mitec 2023 系统集成商 IOT，会去深圳看展，拿了光路的彩页，问了工业级可以达到85度吗 公司地址：48-2, Jalan PJU 5/20DThe Strand Kota Damansara47810 Petaling JayaSelangor D.E., MALAYSIA cschong@precisote」",
-        "why": "Saga 自己的线索表里对本户的一手备注（来源/兴趣点/是否已加 WhatsApp/展会现场对话）（名单无日期；条目为 Mitec 2023 展会现场记录，按 2023-07 归期）——比群发打开率更硬的证据；写下一封邮件时直接引用这里的兴趣点；Mitec 2023 现场见过面 = 可用「we met at MITEC 2023」开头",
-        "k": "Drive PI 文件夹 9_马来西亚_Sugito"
-      },
-      {
-        "date": "2025-01-21",
-        "dir": "去",
-        "who": "S 群发",
-        "quote": "8 port 2.5 Switch、48 port switch",
-        "why": "8 封 / 0 次打开 / 0 回｜首封 2024-07-10 → 末封 2025-01-21（8 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2025-04-12",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To desmond@multitradepac.com）",
-        "quote": "24 Port Fiber Switch（Elsa 群发第 1/7 轮；本户在 Bcc，锚 To desmond@multitradepac.com；正文价 240usd/pc，第 74 批(p) 读稿 msg 19628286dc08373a / 19874a707c2ed712）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:precisotechnology.com.my` 命中行 To=desmond@multitradepac.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
-        "k": "elsa_bcc",
-        "msg_id": "19628286dc08373a"
-      },
-      {
-        "date": "2025-05-04",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To desmond@multitradepac.com）",
-        "quote": "8 Port Industrial PoE Switch（Elsa 群发第 2/7 轮；本户在 Bcc，锚 To desmond@multitradepac.com）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:precisotechnology.com.my` 命中行 To=desmond@multitradepac.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
-        "k": "elsa_bcc",
-        "msg_id": "19699410e40c0aa2"
-      },
-      {
-        "date": "2025-06-05",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To desmond@multitradepac.com）",
-        "quote": "Mini Industrial PoE Switch（Elsa 群发第 3/7 轮；本户在 Bcc，锚 To desmond@multitradepac.com）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:precisotechnology.com.my` 命中行 To=desmond@multitradepac.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
-        "k": "elsa_bcc",
-        "msg_id": "1973ef1711c6bc51"
-      },
-      {
-        "date": "2025-07-04",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To desmond@multitradepac.com）",
-        "quote": "48 Port PoE Managed Switch（Elsa 群发第 4/7 轮；本户在 Bcc，锚 To desmond@multitradepac.com；正文价 300usd/pc，第 74 批(p) 读稿 msg 194eff1f9bf46879 / 1973a613b8166b58）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:precisotechnology.com.my` 命中行 To=desmond@multitradepac.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
-        "k": "elsa_bcc",
-        "msg_id": "197d3e094a95cda2"
-      },
-      {
-        "date": "2025-10-06",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To desmond@multitradepac.com）",
-        "quote": "10G Enterprise SFP Switch（Elsa 群发第 5/7 轮；本户在 Bcc，锚 To desmond@multitradepac.com；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:precisotechnology.com.my` 命中行 To=desmond@multitradepac.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
-        "k": "elsa_bcc",
-        "msg_id": "199b78040ff23e1c"
-      },
-      {
-        "date": "2025-11-19",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To desmond@multitradepac.com）",
-        "quote": "Industrial PoE Switch（Elsa 群发第 6/7 轮；本户在 Bcc，锚 To desmond@multitradepac.com）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:precisotechnology.com.my` 命中行 To=desmond@multitradepac.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
-        "k": "elsa_bcc",
-        "msg_id": "19a9a0dfef96747f"
-      },
-      {
-        "date": "2026-09-08",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To desmond@multitradepac.com）",
-        "quote": "24 Port PoE Managed Switch（Elsa 群发第 7/7 轮；本户在 Bcc，锚 To desmond@multitradepac.com；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:precisotechnology.com.my` 命中行 To=desmond@multitradepac.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
-        "k": "elsa_bcc",
-        "msg_id": "1a07f2e0ee8e17c2"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "兴趣：系统集成商 IOT，会去深圳看展，拿了光路的彩页，问了工业级可以达到85度吗",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "DC switch 常规 switch",
+   "quote": "DC Switch 常规的Switch",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Kyle Yu",
+   "title": "Senior Product Manager",
+   "email": "kyle.yu@aurcore.net",
+   "phone": "",
+   "source": "用户表"
+  },
+  {
+   "name": "Bryan W",
+   "title": "VP",
+   "email": "bryan@aurcore.net",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "美国",
+  "other": "官网 aurcore.net，语言 en，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "AI / 数据中心以太网（400G）",
+  "企业交换机（AES）/ 工业 PoE（AIS）"
+ ],
+ "channels": {
+  "role": "美国开放网络硬件品牌（工业 PoE 线可二供）",
+  "region": "美国",
+  "contact": "bryan@aurcore.net、kyle.yu@aurcore.net"
+ },
+ "signals": [
+  "官网：high-performance, open-architecture networking hardware for AI, smart cities, and industrial environments — built in the U.S.",
+  "站内型号 AES8001 / AIS4001P / AIS2002P；页面 /product/1/aes2001、/product/21/aes6001",
+  "KP：Bryan W / VP；Kyle Yu / Senior Product Manager（表内）"
+ ],
+ "risks": [
+  "「built in the U.S.」口径：可能要求美国组装，贴标进口需核其口径",
+  "主业 AI/DC 400G：工业线为副线；表内无跟进"
+ ],
+ "saga_fit": {
+  "p1": "STI-288GPM",
+  "tier": 30,
+  "why": "自有 AIS 工业 PoE 线（AIS4001P / AIS2002P）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）、4 口 STI-154GP 作二供；DC/400G 线 Saga 不做"
+ },
+ "email_hook": "Kyle, for the AIS industrial PoE models in your range, we can be a second ODM source (DIN-rail 4-PoE and 8-PoE + 2 SFP, −40~75 °C; managed versions on a Marvell platform) from small lots under the AurCore label with FCC/CE/RoHS reports — which AIS model would you dual-source first?",
+ "products_seen": [
+  {
+   "brand": "AurCore（自有）",
+   "model": "AIS4001P",
+   "spec": "工业 PoE（4 口，推断）",
+   "saga": "STI-154GP",
+   "url": "https://www.aurcore.net/",
+   "date": "2026-10-21"
+  },
+  {
+   "brand": "AurCore（自有）",
+   "model": "AIS2002P",
+   "spec": "工业 PoE（推断）",
+   "saga": "STI-288GPM（近似）",
+   "url": "https://www.aurcore.net/",
+   "date": "2026-10-21"
+  }
+ ],
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 1 封 2026，无记录打开，0 回；收件 bryan@aurcore.net, kyle.yu@aurcore.net；主题多为「24 Port PoE Managed Switch」；Elsa 箱：`to:aurcore.net` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 1 / 来 0）（第 74 批(h)））",
+   "type": "美国开放网络硬件品牌（工业 PoE 线可二供）",
+   "sieve": "1（只收到群发）",
+   "stop": "1 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "US 主攻（四主）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 1；用户表：「DC Switch 常规的Switch」；研究档 risks：「built in the U.S.」口径：可能要求美国组装，贴标进口需核其口径"
+  },
+  "situation": "美国 AurCore Technology（开放架构网络硬件：AI 400G 以太网、智慧城市、工业环境，「built in the U.S.」；产品 AES 系列企业交换机、AIS4001P / AIS2002P 工业 PoE；60 天试用；表内「DC switch、常规 switch」；KP Bryan W（VP，bryan@）、Kyle Yu（Senior Product Manager，kyle.yu@））；表内无跟进记录。",
+  "need": "自有 AIS 工业 PoE 线（AIS4001P / AIS2002P）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）、4 口 STI-154GP 作二供；DC/400G 线 Saga 不做",
+  "breakpoint": "「built in the U.S.」口径：可能要求美国组装，贴标进口需核其口径",
+  "saga_now": {
+   "p1": "STI-288GPM",
+   "tier": 30,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170",
+   "why": "自有 AIS 工业 PoE 线（AIS4001P / AIS2002P）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）、4 口 STI-154GP 作二供；DC/400G 线 Saga 不做",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Kyle, for the AIS industrial PoE models in your range, we can be a second ODM source (DIN-rail 4-PoE and 8-PoE + 2 SFP, −40~75 °C; managed versions on a Marvell platform) from small lots under the AurCore label with FCC/CE/RoHS reports — which AIS model would you dual-source first?"
+  },
+  "facts": [
+   {
+    "date": "2026-08-10",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "24 Port PoE Managed Switch",
+    "why": "1 封 / 0 次打开 / 0 回｜首封 2026-08-10 → 末封 2026-08-10（1 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "DC Switch 常规的Switch",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

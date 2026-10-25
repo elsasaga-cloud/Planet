@@ -1,132 +1,201 @@
 {
   "code": "SB-1139",
-  "name_official": "Tubal Egypt（开罗；联系人 Daniel Adel Harvey，董事）",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（tubal-egypt.com = 铝管制造商官网；网络业务未见于站点）",
-  "summary": "埃及开罗 Tubal Egypt（官网为可折叠铝管制造商，Heliopolis），董事会成员 Daniel Adel Harvey（评「good」）主要处理 PoE：对 2 光 10 电讲解比较懂，问告警口能否外接 EMS，问 **SKD（外壳与板分开供货）**便于清关 —— Saga 回复可以；1 次跟进无实质回复。网络业务疑为其另一公司 / 新业务（待核）。",
-  "type": "",
+  "name_official": "Arnoldo Beltetón Mohr（Solution Architect / Project Manager；gmail；国别未填，姓氏 Beltetón 常见于危地马拉——待证）",
+  "researched_at": "2026-10-24",
+  "website_status": "无域名（gmail）",
+  "summary": "A 邮箱 2025-04 起 8 轮群发；2026-01-15 对「OEM Core Switching Solution」真回：CENTEC「could be a great alternative in our market」，2 月有高端交换机项目；2026-03-10 带客户需求来：若干台 Cisco C9300L-48P-4X 等价物（48×1G PoE+ + 4×10G SFP+），要堆叠（StackWise-320，8 台 / 320 Gbps）；Alan 03-11 二选一（无堆叠→STC-448XGGPM；要堆叠→CENTEC STH-2QX4DX48GP-HSI，附 STH1G Series.pdf），03-12 给出堆叠参数（最多 8 台、360 Gbps、2×40G+4×25G 光口堆叠、链/环）并问数量 → 至今无回（7 个月）。",
+  "type": "方案商 / 项目经理（为终端客户找 Cisco 替代）",
   "size": "",
-  "brands_seen": [],
+  "brands_seen": [
+    "Cisco C9300L-48P-4X"
+  ],
   "evidence": [
     {
-      "kind": "官网快照",
-      "claim": "站点为埃及铝管公司（可折叠铝管），地址 18 Ashmoun St., Heliopolis, Cairo",
-      "quote": "We are Egyptian Aluminum Tubes Company 'Tubal Egypt', in the production of collapsible Aluminium Tubes… 18 Ashmoun St., Heliopolis, Cairo",
-      "url": "https://tubal-egypt.com/",
-      "date": "2026-10-21"
+      "kind": "邮件",
+      "claim": "对 CENTEC 表兴趣：「great alternative in our market」",
+      "quote": "The OEM switch proposal looks very interesting. I think it would be worthwhile to learn more about CENTEC, as it could be a great alternative in our market",
+      "url": "gmail_a data/gmail_a/messages/2026/2026-01.jsonl / 2026-03.jsonl（线程 OEM Core Switching Solution）",
+      "date": "2026-01-15"
     },
     {
-      "kind": "用户表",
-      "claim": "主要处理 POE；对 2 光 10 电详细讲解比较懂；问 alarm port 能外接 EMS 吗；SKD 可以吗，外壳和板子分开提供，回复可以，客户说容易清关；Board member good",
-      "quote": "兴趣：主要处理POE，对2光10电做了详细讲解，比较懂… SKD可以嘛？把外壳和板子分开提供 回复说可以 客户说这样容易清关",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
+      "kind": "邮件",
+      "claim": "2 月有高端交换机项目",
+      "quote": "I have a project in February that requires high-end switches",
+      "url": "gmail_a data/gmail_a/messages/2026/2026-01.jsonl / 2026-03.jsonl（线程 OEM Core Switching Solution）",
+      "date": "2026-01-19"
+    },
+    {
+      "kind": "邮件",
+      "claim": "终端客户要 Cisco C9300L-48P-4X 等价物并要报价",
+      "quote": "client who's requesting several switches similar to the Cisco C9300L-48P-4X… 48x1G PoE+ Base-T/4x10G SFP+… get a quote?",
+      "url": "gmail_a data/gmail_a/messages/2026/2026-01.jsonl / 2026-03.jsonl（线程 OEM Core Switching Solution）",
+      "date": "2026-03-10"
+    },
+    {
+      "kind": "邮件",
+      "claim": "堆叠是硬需求（8 台 / StackWise-320）",
+      "quote": "my client needs stacking… up to 8 units using StackWise-320… 320 Gbps",
+      "url": "gmail_a data/gmail_a/messages/2026/2026-01.jsonl / 2026-03.jsonl（线程 OEM Core Switching Solution）",
+      "date": "2026-03-11"
+    },
+    {
+      "kind": "邮件（去）",
+      "claim": "Alan 锁定 STH-2QX4DX48GP-HSI 并给堆叠参数，问数量",
+      "quote": "max 8 units… 360Gbps… 2*40G and 4*25G… chain and ring… what is the quantity you need?",
+      "url": "gmail_a data/gmail_a/messages/2026/2026-01.jsonl / 2026-03.jsonl（线程 OEM Core Switching Solution）",
+      "date": "2026-03-12"
     }
   ],
   "kp": [
     {
-      "name": "Daniel Adel Harvey",
-      "title": "Board Member",
-      "email": "info@tubal-egypt.com",
-      "phone": "+20 122 787 9183",
-      "source": "（本地 Clients/ 表格，无公开 URL）"
+      "name": "Arnoldo Beltetón Mohr",
+      "title": "Solution Architect / Project Manager",
+      "email": "arnoldomohr@gmail.com",
+      "phone": "",
+      "source": "gmail_a data/gmail_a/messages/2026/2026-01.jsonl / 2026-03.jsonl（线程 OEM Core Switching Solution）"
     }
   ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "grade_override": "B",
+  "override_reason": "5 封实质来信（2026-01 ×2、03 ×3），带终端客户具体型号（C9300L-48P-4X 等价 + 堆叠）进入 CENTEC STH1G 选型，停在「数量？」；gmail 地址导致自动 C，按证据升 B（慢慢跟进）。",
+  "notes": "国别未填：信中「our market」未点名；姓氏 Beltetón 多见于危地马拉（待证）。非欧美土主攻，但是仓内唯一一个把 STH1G（CENTEC 48×1G PoE 堆叠线）谈到参数层面的客户（另一个是 SB-826 Versitron，只发未回）。",
   "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（官网快照：主体待核 + SKD 意向）"
+    "done_at": "2026-10-24",
+    "level": "仅邮件证据 · 无域名"
   },
   "company_facts": {
-    "legal_name": "Tubal Egypt（Egyptian Aluminum Tubes Co.）",
-    "founded": "（待核）",
-    "hq": "18 Ashmoun St., Heliopolis, Cairo 11341, Egypt",
-    "size": "中型制造（铝管）；网络业务规模待核",
-    "other": "SKD 进口意向（清关）"
+    "legal_name": "（未知；gmail 联系人）",
+    "founded": "",
+    "hq": "（未填）",
+    "size": "",
+    "other": "Solution Architect 署名；2026-03 为终端客户选型"
   },
-  "business_lines": [
-    "铝管制造（主业）",
-    "PoE 网络设备进口 / 组装（新业务，待核）"
-  ],
   "channels": {
-    "role": "进口 / SKD 组装（OEM 口径）",
-    "region": "埃及"
+    "role": "方案商 / 项目经理",
+    "region": "（未填；疑危地马拉）"
   },
-  "signals": [
-    "SKD 分开供货意向 + 懂产品 + 董事级联系人 → OEM 30% 可成",
-    "问告警口接 EMS → 工业管理型需求"
-  ],
   "risks": [
-    "埃及外汇配额 / 进口登记（ACID）→ T/T 预付或信用证",
-    "网络业务主体待核（官网为铝管）"
+    "终端客户是否已选其他品牌不明（03-12 后无回）",
+    "STH1G 仓内无价（主表/CENTEC Q2 xls 均无 STH-2QX4DX 行）——报价要 Simon 自己定",
+    "gmail 联系人，公司实体不明"
   ],
   "saga_fit": {
-    "p1": "STI-288GPM",
+    "p1": "STH-2QX4DX48GP-HSI（CENTEC STH1G，48×PoE++ + 4×25G + 2×40G，堆叠 ≤8）",
     "tier": 30,
-    "why": "2 光 8/10 电带告警口（DI/DO 可接 EMS）工业管理 PoE → STI-288GPM（$85.5 @30%）；SKD 按 OEM 口径与 SmartByte 确认散件出货。"
+    "why": "终端客户要 C9300L-48P-4X 可堆叠等价——接入 AC5 不堆叠，只能走 CENTEC STH1G；仓内无价。"
   },
-  "email_hook": "Daniel, on your two questions: yes, the alarm relay (DI/DO) on the managed industrial unit can feed an external EMS, and SKD (enclosure + board shipped separately) is possible from the factory — what monthly volume would the Cairo assembly handle, so I price the kits?",
+  "email_hook": "（见 mail_review.draft_en）",
   "mail_review": {
+    "as_of": "2026-10-24",
     "binding": {
-      "level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：主要处理POE，对2光10电做了详细讲解，比较懂… SKD可以嘛？把外壳和板子分开提供 回复说可以 客户说这样容易」）；但 Elsa 邮箱 2026-08/09 已群发 1 封（无回）；Elsa 1:1 去信 1 封（2026-09-14「16 Port Industrial PoE Switch」；To 仅本户 info@tubal-egypt.com；Bcc 未逐封读头；同类名单抽读 24 封均无 Bcc；此后再未进 Elsa 任何名单——全箱 `from:e.sagatelecom to:info@tubal-egypt.com` 仅此 1 条，complete）（第 74 批(m)）",
-      "type": "—",
-      "sieve": "—（未入筛）",
-      "stop": "从未触达",
-      "revive": "不动（非主攻区；J5：有证据再动）",
-      "lane": "埃及 非主攻",
-      "cadence": "不动",
-      "evidence": "gmail_digest：out 0；用户表：「兴趣：主要处理POE，对2光10电做了详细讲解，比较懂… SKD可以嘛？把外壳和板子分开提供 回复说可以 客户说这样容易清关」；研究档 risks：埃及外汇配额 / 进口登记（ACID）→ T/T 预付或信用证"
+      "level": "轻度触达（A 邮箱 5 封实质来信：2026-01-15/01-19 对 CENTEC 表兴趣 + 2 月项目；03-10/03-11 带终端客户 C9300L-48P-4X 等价 + 堆叠 8 台需求；Alan 03-12 给 STH-2QX4DX48GP-HSI 堆叠参数并问数量 → 无回 7 个月）；Elsa 1:1 去信 1 封（2025-02-18「16 Port Ethernet Switch」DIN 16 口千兆稿，To 仅 arnoldomohr@gmail.com，头 19518491f1515deb 无 Bcc，称呼「Hi, Mr. Arnoldo」）——他 2026-01 才在 A 邮箱主动写 CENTEC，比 Elsa 这封晚 11 个月；全箱 `from:e.sagatelecom to:arnoldomohr@gmail.com` 仅此 1 条，complete",
+      "type": "方案商（为终端客户选型）",
+      "sieve": "4~5（具体型号 + 堆叠参数层面）",
+      "stop": "停在「what is the quantity you need?」（2026-03-12 去）——他要先回客户，后无音；STH1G 无价也让我们没法主动给数",
+      "revive": "一封「STH1G 对 C9300L 对表 + 一个问题」；不发新品群发",
+      "lane": "拉美（疑危地马拉）非主攻；CENTEC 敲门砖案例",
+      "cadence": "季度",
+      "evidence": "gmail_a 2026-01-15 → 2026-03-12（17 封：9 群发、3 实质去信、5 来信）；附件 STH1G Series.pdf（2026-03-11 去，sha df9670bdd28f51ac）；digest in 5 / out 21"
     },
-    "situation": "埃及开罗 Tubal Egypt（官网为可折叠铝管制造商，Heliopolis），董事会成员 Daniel Adel Harvey（评「good」）主要处理 PoE：对 2 光 10 电讲解比较懂，问告警口能否外接 EMS，问 **SKD（外壳与板分开供货）**便于清关 —— Saga 回复可以；1 次跟进无实质回复。网络业务疑为其另一公司 / 新业务（待核）。",
-    "need": "2 光 8/10 电带告警口（DI/DO 可接 EMS）工业管理 PoE → STI-288GPM（$85.5 @30%）；SKD 按 OEM 口径与 SmartByte 确认散件出货。",
-    "breakpoint": "埃及外汇配额 / 进口登记（ACID）→ T/T 预付或信用证",
+    "situation": "方案商 Arnoldo（Solution Architect）2026-01 对 CENTEC 感兴趣，03-10 带来终端客户需求：若干台 Cisco C9300L-48P-4X 等价（48×1G PoE+ + 4×10G SFP+），03-11 明确要堆叠（8 台 / StackWise-320）。Alan 当天给出二选一，03-12 锁定 CENTEC STH-2QX4DX48GP-HSI 并给堆叠参数，问数量——此后无回。",
+    "need": "Cisco C9300L-48P-4X 的可堆叠等价物（48×PoE+ + 10G 上联，8 台堆叠），要价格和数量级别的对表。",
+    "breakpoint": "我们问「数量」时没给价，他回客户拿不到数就断了；且 STH1G 仓内无价，Simon 得自己定一个区间才能重启。",
     "saga_now": {
-      "p1": "STI-288GPM",
+      "p1": "STH-2QX4DX48GP-HSI（48×PoE++ 90W + 4×25G + 2×40G，双热插拔 1200W，堆叠 ≤8）；预算紧则 STH-2QX4DX48GP-SFI（PoE+ 30W，单电源）",
       "tier": 30,
-      "price": "按主表（研究档 saga_fit）",
-      "why": "2 光 8/10 电带告警口（DI/DO 可接 EMS）工业管理 PoE → STI-288GPM（$85.5 @30%）；SKD 按 OEM 口径与 SmartByte 确认散件出货。",
-      "repeat": [],
-      "gaps": []
+      "price": "他见过的实价：STC-2224GFP-24V $90（2024-11-24 样品价）；仓内无 STH1G 价；CENTEC 线已有价仅 32C $6,000 / 2C6QX $1,200 / 8C48DX $4,800 EXW（2026 Q2）",
+      "why": "对外统一口径（#1）：接入 AC5 不堆叠；可堆叠 48 口 PoE 只能是 CENTEC STH1G（ST 许可，≤8 台）——这户是仓内把 STH1G 谈到参数层面的唯一客户｜已发资料（勿重发）：STH1G Series.pdf、Vastlake/STOS 链接（2026-03-11/12）｜档位说明（原 tier 字段文字「OEM 30%（方案商 / 私标）——CENTEC 底线 ≥35% 并行」移此）：OEM 30%（方案商 / 私标）——CENTEC 底线 ≥35% 并行",
+      "repeat": "若成，终端客户项目制；方案商可带下一个项目",
+      "gaps": "国别/公司实体；终端客户是否已定；数量；STH1G 价"
     },
     "next_move": {
-      "when": "不动",
-      "channel": "—",
-      "action": "首封前知悉：Elsa 仅 2026-09-14 单发过 1 封「16 Port Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；—",
-      "one_question": ""
+      "when": "2026-11",
+      "channel": "A 邮箱 → arnoldomohr@gmail.com（回 2026-03-12 原线程「OEM Core Switching Solution」）",
+      "action": "一封对表信：STH-2QX4DX48GP-HSI 对 C9300L-48P-4X 四行对表（PoE 预算、上联、堆叠 8 台/360G、L3 特性），价格先给「按数量报」而不是空着——Simon 需先定 STH1G 的 EXW 区间（仓内无价）；只问一个问题：项目还在不在 + 数量级别（第 76 批(b) 2026-10-25：audit_ab 硬错误修正：tier 字段规范为数字）",
+      "one_question": "Arnoldo — is the C9300L-48P-4X replacement still open, and roughly how many units (8-unit stacks × how many sites)? With that I can give you the EXW price for STH-2QX4DX48GP-HSI rather than a datasheet."
     },
     "facts": [
       {
-        "date": "2026-09-14",
+        "date": "2024-11-23",
+        "dir": "来",
+        "who": "Arnoldo（arnoldomohr@gmail.com，S 邮箱）",
+        "quote": "「Yes I need some samples for testing, can you send to me?」（回 11-15 的 24 口被动 PoE 群发）",
+        "why": "与 Alan 2026 年的 CENTEC/堆叠对话是同一个人——他从 2024-11 就在 S 邮箱里要样品；两年两条线都停在「要东西 → 给条件 → 无回」",
+        "k": "k=2725966d7f583826（S 邮箱 2024-11-23 17:47Z Re: 24 Port Passive PoE Switch）"
+      },
+      {
+        "date": "2024-11-24",
         "dir": "去",
-        "who": "Elsa（e.sagatelecom，Gmail 连接器实时查询）",
-        "quote": "Elsa 邮箱群发「16 Port Industrial PoE Switch」→ info@tubal-egypt.com（截至 2026-10-24 无回复）",
-        "why": "仓库 gmail_e 只收录有回复的线程，Elsa 2026-08-19 → 09-15 的 201 封群发不在库里；本户在前 100 封内。意义：S/A 邮箱的「未发信/未触达」判断不等于 Elsa 没碰过——三个邮箱对同一户的触达要合看；Elsa 群发无回 = 再加一次「读而不回/未触达」证据",
-        "k": "Gmail 连接器 list_messages newer_than:70d from:e.sagatelecom（2026-10-24 07:3x Z）"
+        "who": "Simon（附 Passive PoE.pdf）",
+        "quote": "「Its not free samples, we do not do free samples. **90usd/pc, STC-2224GFP-24V** 2×1G SFP + 2×GE 上联 + 24×100M PoE 下联，非管理，被动 PoE 300W，AC，1U，含电源线。Please let me know if you decide to proceed」+ 被动 PoE 手册《Passive PoE.pdf》（2024 版）内含价表：STC-024FP-24V $14 / 014GP-24V $20 / 028FP-24V $20 / 028GP-24V $31 / 1116CGFP-24V $51 / 2216GP-24V $84 / 2224GP-24V $92 / 0224GFP-24V $84 / 2024GP-24V $90（24V 被动 PoE，AC 输入，1U）；条款：批量 50/50，T/T 每笔 $25，PayPal 5%",
+        "why": "样品价 $90 给了就无回——这位的模式是「免费样品 / 高端项目」两头问，没有付费动作；2026-03 的 8 台堆叠需求也无回。下一步只回不追",
+        "k": "k=c9057ef48518bc9c（S 邮箱 2024-11-24 01:46Z）；附件 sha=052eecb9f79ac4d7"
       },
       {
-        "date": "2026-09-14",
+        "date": "2025-02-18",
         "dir": "out",
-        "who": "Elsa → info@tubal-egypt.com",
-        "quote": "16 Port Industrial PoE Switch（Elsa 2026 年 1:1 名单重发；To 仅本户）",
-        "why": "本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无）",
+        "who": "Elsa → arnoldomohr@gmail.com",
+        "quote": "16 Port Ethernet Switch（Elsa 1:1 第 1/1 轮；To 仅本户）",
+        "why": "第 74 批(o) `from:e.sagatelecom to:arnoldomohr@gmail.com` 全程 complete：1 行；To=本户 ⇒ 1:1 直收",
         "k": "elsa_1to1",
-        "msg_id": "1a09f777138ed71f"
+        "msg_id": "19518491f1515deb"
       },
       {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "兴趣：主要处理POE，对2光10电做了详细讲解，比较懂… SKD可以嘛？把外壳和板子分开提供 回复说可以 客户说这样容易清关",
-        "why": "表内备注",
-        "k": "用户表"
+        "date": "2026-01-15",
+        "dir": "来",
+        "who": "Arnoldo Beltetón Mohr",
+        "quote": "The OEM switch proposal looks very interesting. I think it would be worthwhile to learn more about CENTEC, as it could be a great alternative in our market",
+        "why": "CENTEC 敲门砖在他的市场成立",
+        "k": "interest"
+      },
+      {
+        "date": "2026-01-19",
+        "dir": "来",
+        "who": "Arnoldo",
+        "quote": "I'm interested in learning more about CENTEC, as I have a project in February that requires high-end switches",
+        "why": "2 月项目——Alan 01-20 答 10G~800G 都有、等规格、Simon 可谈",
+        "k": "project"
+      },
+      {
+        "date": "2026-03-10",
+        "dir": "来",
+        "who": "Arnoldo（Solution Architect）",
+        "quote": "I have a client who's requesting several switches similar to the Cisco C9300L-48P-4X… 48x1G PoE+ Base-T/4x10G SFP+/Network Essentials. I'd like to get in touch to see if we have a good option with Centec or SAGA. Do you think we can move forward and get a quote?",
+        "why": "终端客户型号明确；要报价",
+        "k": "rfq"
+      },
+      {
+        "date": "2026-03-11",
+        "dir": "去",
+        "who": "Alan",
+        "quote": "Need to know if your client needs \"stacking\" feature. This is important. If no, let's just do Marvell solution. STC-448XGGPM, 10G L3 with PoE. If yes, we need to go with CENTEC solution… STH-2QX4DX48GP-HSI. The fiber uplink is about 25G/40G, but it can be configured as 10G.（附 STH1G Series.pdf）",
+        "why": "二选一分叉；AC5 不堆叠的口径在此已用对",
+        "k": "offer"
+      },
+      {
+        "date": "2026-03-11",
+        "dir": "来",
+        "who": "Arnoldo",
+        "quote": "Yes, my client needs stacking, since the c9300l-48P-4X is a fixed-uplink switch that supports stacking up to 8 units using StackWise-320 technology… total stack bandwidth of 320 Gbps… if you have something equivalent or superior it's very good.",
+        "why": "堆叠是硬需求，标尺 = 8 台 / 320G",
+        "k": "need"
+      },
+      {
+        "date": "2026-03-12",
+        "dir": "去",
+        "who": "Alan",
+        "quote": "Yes, let's do CENTEC solution… we will focus on STH-2QX4DX48GP-HSI. About stacking: 1. max 8 units; 2. bandwidth max 360Gbps, uplinks 2*40G and 4*25G; 3. fiber uplinks for stacking; 4. both chain and ring… what is the quantity you need?",
+        "why": "对表完成但没给价——断点",
+        "k": "offer"
       }
     ],
     "proof_gaps": [
-      "无邮件往来"
+      "国别/公司（gmail，信中只说 our market）",
+      "03-12 之后是否有 WhatsApp/会议等线外接触——仓内无",
+      "STH1G EXW 价（主表无）"
     ],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+    "draft_en": {
+      "subject": "Re: OEM Core Switching Solution — STH-2QX4DX48GP-HSI vs C9300L-48P-4X, is the project still open?",
+      "body": "Hi, Arnoldo,\n\nIn March we settled on the CENTEC-based STH-2QX4DX48GP-HSI as the stackable alternative to the C9300L-48P-4X, and I owe you a cleaner comparison than a datasheet:\n\n- Access: 48 x 1G PoE++ (90 W per port, 1200 W dual hot-swap PSU) vs 48 x 1G PoE+ on the Cisco\n- Uplinks: 4 x 25G SFP28 + 2 x 40G QSFP+ (25G ports can run at 10G) vs 4 x 10G SFP+\n- Stacking: up to 8 units, ring or chain over the fiber ports, 360 Gbps vs StackWise-320\n- Software: L3 with OSPF/BGP/PIM, VXLAN-EVPN, MPLS, MACsec, SNMP v3/CLI/Web; your own logo and model name on the unit\n\nIf the budget is tighter, the -SFI version (PoE+ 30 W, single PSU) is the lighter option.\n\nOne question: is the C9300L replacement still open, and roughly how many units (how many 8-unit stacks, how many sites)? With that I will give you the EXW unit price instead of a range.\n\nThank you.\nAlan\nSaga Telecom - sagatele.com"
+    }
   }
 }

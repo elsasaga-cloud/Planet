@@ -11,7 +11,7 @@
  "text": "Hi, Neal,\nWe got managed series.\nPlease see attached a typical model, it is a lengthy datasheet with plenty\nof information, take your time.\nThank you.",
  "char_count": "154",
  "attachments": "[{'filename': 'image001.jpg', 'mime_type': 'image/jpeg', 'size': 24536}, {'filename': 'STI-288DGGPM.pdf', 'mime_type': 'application/pdf', 'size': 2642550}]",
- "note": "SA-081：Elsa 2025-04-30 答「有管理系列」+ STI-288DGGPM 规格书（Elsa 自己加了星标）",
+ "note": "SA-054：Elsa 2025-04-30 答「有管理系列」+ STI-288DGGPM 规格书（Elsa 自己加了星标）",
  "text_source": "text/plain",
  "fetched": "2026-10-24T16:05Z",
  "method": "Arena Gmail connector get_message_text(include_quoted=false)"

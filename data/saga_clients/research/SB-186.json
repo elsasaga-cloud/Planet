@@ -1,38 +1,49 @@
 {
  "code": "SB-186",
- "name_official": "PF Electronic Sp. z o.o.（波兰卡托维兹）",
+ "name_official": "Başaran Elektronik ve Güvenlik Sistemleri（Gömeç/Balıkesir, TR；basaranelektronik.net）",
  "researched_at": "2026-10-21",
- "website_status": "在线（pf-electronic.pl，快照 2026-10-21，波兰语）",
- "summary": "波兰工业自动化元件官方分销商（传感器、连接器、交换机、控制系统、编码器；Advantech、Hirschmann；poe 151 / switch 112 / sfp 53；+48 32 256 25 33），Dariusz Piwowar（表内「可着重跟」）；表内「外壳比较特别」；群发 8 次无回复。",
+ "website_status": "在线",
+ "summary": "土耳其巴勒克埃西尔 Gömeç 的本地安防安装商 Başaran Elektronik（2001 年成立，电子维修起家；服务 Edremit 海湾地区；CCTV、火灾报警、防盗报警、可视对讲；业主 Emrah Başaran（25 年电子行业）；Mithatpaşa Mh. Hasan Şen Sk. 23/30 Gömeç；+90 542 744 96 95；info@basaranelektronik.net）。ISAF 记录：拿了彩页、没说要什么产品；WhatsApp 已加；无后续跟进。微型安装商 → B 25%，低价 PoE 入门。",
  "type": "",
  "size": "",
- "brands_seen": [
-  "Advantech",
-  "Hirschmann"
- ],
+ "brands_seen": [],
  "evidence": [
   {
-   "kind": "官网快照",
-   "claim": "工业自动化元件官方分销：传感器、连接器、交换机、控制系统、编码器；Advantech / Hirschmann；+48 32 256 25 33",
-   "quote": "Oficjalny dystrybutor podzespołów i elementów automatyki przemysłowej. Czujniki, sensoryka, złącza, switche, systemy sterowania, enkodery, elektronika… brands Advantech, Hirschmann",
-   "url": "https://pf-electronic.pl/",
+   "kind": "官网",
+   "claim": "业务与联系方式",
+   "quote": "Güvenlik Kamerası Sistemleri … Yangın Alarm Sistemleri … Hırsız Alarm Sistemleri … Adres : Balıkesir / Gömeç Mithatpaşa Mh. Hasan Şen Sk. 23/30 Tel : 0 (542) 744 96 95 E posta : info@basaranelektronik.net",
+   "url": "https://basaranelektronik.net/",
    "date": "2026-10-21"
   },
   {
+   "kind": "官网",
+   "claim": "成立年",
+   "quote": "Başaran Elektronik ve Güvenlik Sistemleri, 2001 yılında Balıkesir'in Gömeç ilçesinde elektronik cihazların tamir, bakım ve onarım hizmetleri sunmak amacıyla kurulmuştur.",
+   "url": "https://basaranelektronik.com.tr/404",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "LinkedIn",
+   "claim": "业主",
+   "quote": "EMRAH BASARAN - BASARAN ELEKTRONİK … 25 yıllık Elektronik sektöründe hizmet vermekteyiz … Location: Gömeç",
+   "url": "https://tr.linkedin.com/in/emrah-basaran-86859130",
+   "date": "2020-09-02"
+  },
+  {
    "kind": "用户表",
-   "claim": "外壳比较特别；可以着重跟一下",
-   "quote": "兴趣：外壳比较特别",
+   "claim": "ISAF：拿彩页，未说产品",
+   "quote": "拿了彩页， 没说要什么产品 / 0542 744 9695 已加",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
  "kp": [
   {
-   "name": "Dariusz Piwowar",
-   "title": "（表内联系人）",
-   "email": "dariusz.piwowar@pf-electronic.pl",
-   "phone": "+48 32 256 25 33",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
+   "name": "Emrah Başaran",
+   "role": "Boss / 业主（用户表 + LinkedIn）",
+   "email": "info@basaranelektronik.net（公开）",
+   "phone": "+90 542 744 96 95（公开，WhatsApp 已加）",
+   "source": "https://tr.linkedin.com/in/emrah-basaran-86859130"
   }
  ],
  "grade_override": null,
@@ -40,82 +51,81 @@
  "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照核对 + 表内）"
+  "level": "B 级加厚 v1（官网核对）"
  },
  "company_facts": {
-  "legal_name": "PF Electronic Sp. z o.o.",
-  "founded": "",
-  "hq": "Katowice, Poland（+48 32）",
-  "size": "中小型工业分销",
-  "other": ""
+  "legal_name": "Başaran Elektronik ve Güvenlik Sistemleri",
+  "founded": "2001",
+  "hq": "Mithatpaşa Mh. Hasan Şen Sk. 23/30, Gömeç / Balıkesir（+90 542 744 96 95；info@basaranelektronik.net）",
+  "size": "微型（业主 + 数人）",
+  "other": "服务 Edremit 海湾（Ayvalık/Burhaniye/Gömeç）；守界：火灾报警主系统不供"
  },
  "business_lines": [
-  "工业自动化元件分销"
+  "CCTV 安装（住宅/商铺）",
+  "防盗/火灾报警、可视对讲"
  ],
  "channels": {
-  "role": "工业分销商",
-  "region": "波兰"
+  "网站": "https://basaranelektronik.net/",
+  "电话": "+90 542 744 96 95（公开）",
+  "邮箱（公开）": "info@basaranelektronik.net"
  },
  "signals": [
-  "Hirschmann / Advantech 之下价位带；具名联系人"
+  "海湾度假区住宅/商铺 CCTV → 8 口 PoE 非管理小机为主；价格敏感"
  ],
  "risks": [
-  "8 次群发无回复"
+  "微型、单量小；需求未表达；无后续跟进"
  ],
  "saga_fit": {
-  "p1": "STI-288GPM",
-  "tier": 20,
-  "why": "工业管理 PoE → STI-288GPM（$78.9 @20%）；mini STI-050GE。"
+  "p1": "STC-228GP",
+  "tier": 25,
+  "why": "安装商 25% 档：STC-228GP（Saga Realtek 线 2 SFP + 8 GE PoE 非管理，列表 $30.8）/ STC-028GP（$24.2）作 CCTV 标配；需管理再上 STC-28GPM（$62.2）"
  },
- "email_hook": "Dariusz, under the Hirschmann/Advantech lines — Marvell DIN managed 8-PoE + 2-SFP at $79 and 5-port mini at $17 EXW (CE/RoHS, −40~75 ℃); one evaluation unit for Katowice?",
+ "email_hook": "Emrah Bey, kamera kurulumlarınız için 8 port gigabit PoE + 2 SFP switch (yönetilmeyen) fiyatı 34,6 USD EXW; ayda ortalama kaç kamera projesi yapıyorsunuz — ona göre küçük parti fiyatı vereyim.",
  "mail_review": {
   "binding": {
-   "level": "未触达（A/S 邮箱 16 封 2025→2026，1 次记录打开，0 回；收件 dariusz.piwowar@pf-electronic.pl, sklep@pf-electronic.pl；主题多为「Managed Optical Bypass Switch、L3 Managed Switch」；Elsa 箱：`to:.pl` 穷举 24 条（2026-10-25，锚批 Bcc 头已读）未见 pf-electronic.pl → Elsa 箱从未发过本户，往来只在 S/A 箱（去 16 / 来 0）（第 74 批(f)））",
+   "level": "轻度触达（展会名片 + WhatsApp 已加，邮件 0 封）：用户表「拿了彩页， 没说要什么产品 / 0542 744 9695 已加」；S/A 邮箱 0 封；Elsa 箱：`to:basaranelektronik.net` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(i)）",
    "type": "—",
-   "sieve": "1~2（1 次打开）",
-   "stop": "16 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "PL 次级重点",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 16，Opened 标签 1（Simon 群发追踪）；用户表：「兴趣：外壳比较特别」；研究档 risks：8 次群发无回复"
+   "sieve": "3（已加 WhatsApp，表内有往来）",
+   "stop": "仓库只有用户表一行；往来在 Simon 手机",
+   "revive": "首封邮件（A 邮箱，按 email_hook）+ WhatsApp 一句话",
+   "lane": "土耳其 非主攻",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 0；用户表：「拿了彩页， 没说要什么产品 / 0542 744 9695 已加」；研究档 risks：微型、单量小；需求未表达；无后续跟进"
   },
-  "situation": "波兰工业自动化元件官方分销商（传感器、连接器、交换机、控制系统、编码器；Advantech、Hirschmann；poe 151 / switch 112 / sfp 53；+48 32 256 25 33），Dariusz Piwowar（表内「可着重跟」）；表内「外壳比较特别」；群发 8 次无回复。",
-  "need": "工业管理 PoE → STI-288GPM（$78.9 @20%）；mini STI-050GE。",
-  "breakpoint": "8 次群发无回复",
+  "situation": "土耳其巴勒克埃西尔 Gömeç 的本地安防安装商 Başaran Elektronik（2001 年成立，电子维修起家；服务 Edremit 海湾地区；CCTV、火灾报警、防盗报警、可视对讲；业主 Emrah Başaran（25 年电子行业）；Mithatpaşa Mh. Hasan Şen Sk. 23/30 Gömeç；+90 542 744 96 95；info@basaranelektronik.net）。ISAF 记录：拿了彩页、没说要什么产品；WhatsApp 已加；无后续跟进。微型安装商 → B 25%，低价 PoE 入门。",
+  "need": "安装商 25% 档：STC-228GP（Saga Realtek 线 2 SFP + 8 GE PoE 非管理，列表 $30.8）/ STC-028GP（$24.2）作 CCTV 标配；需管理再上 STC-28GPM（$62.2）",
+  "breakpoint": "微型、单量小；需求未表达；无后续跟进",
   "saga_now": {
-   "p1": "STI-288GPM",
-   "tier": 20,
-   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-21 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-21 $280（10G Enterprise SFP Switch）",
-   "why": "工业管理 PoE → STI-288GPM（$78.9 @20%）；mini STI-050GE。已打开的主题（1/16 封有打开记录）：「Mini Industrial PoE Switch」(2025-02-05) → 读者兴趣偏「工业」；与 P1 同类，继续",
+   "p1": "STC-228GP",
+   "tier": 25,
+   "price": "Realtek 线按 HRUI 2026-09-30 进价 +25% 现算（Q-47 默认，不用 Drive 旧表价）：STC-228GP $30.8→$34.6；按主表（研究档 saga_fit）",
+   "why": "安装商 25% 档：STC-228GP（Saga Realtek 线 2 SFP + 8 GE PoE 非管理，列表 $30.8）/ STC-028GP（$24.2）作 CCTV 标配；需管理再上 STC-28GPM（$62.2）",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开",
-   "one_question": "Dariusz, under the Hirschmann/Advantech lines — Marvell DIN managed 8-PoE + 2-SFP at $79 and 5-port mini at $17 EXW (CE/RoHS, −40~75 ℃); one evaluation unit for Katowice?"
+   "when": "2026-11（Simon）",
+   "channel": "A 邮箱首封 + WhatsApp（Simon）",
+   "action": "首封 + 一句话",
+   "one_question": "Emrah Bey, kamera kurulumlarınız için 8 port gigabit PoE + 2 SFP switch (yönetilmeyen) fiyatı 34,6 USD EXW; ayda ortalama kaç kamera projesi yapıyorsunuz — ona göre küçük parti fiyatı vereyim."
   },
   "facts": [
-   {
-    "date": "2026-09-25",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "Managed Optical Bypass Switch、L3 Managed Switch",
-    "why": "16 封 / 1 次打开 / 0 回｜首封 2025-02-05 → 末封 2026-09-25（16 去 / 0 来）",
-    "k": "gmail_digest"
-   },
    {
     "date": "2026-10-21",
     "dir": "用户表",
     "who": "Simon",
-    "quote": "兴趣：外壳比较特别",
+    "quote": "拿了彩页， 没说要什么产品 / 0542 744 9695 已加",
     "why": "表内备注",
     "k": "用户表"
    }
   ],
-  "proof_gaps": [],
-  "draft_en": null,
+  "proof_gaps": [
+   "WhatsApp 往来未入库"
+  ],
+  "draft_en": {
+   "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+   "body": "Emrah Bey, kamera kurulumlarınız için 8 port gigabit PoE + 2 SFP switch (yönetilmeyen) fiyatı 34,6 USD EXW; ayda ortalama kaç kamera projesi yapıyorsunuz — ona göre küçük parti fiyatı vereyim."
+  },
   "as_of": "2026-10-24"
  }
 }

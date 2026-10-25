@@ -561,10 +561,12 @@ def main():
     # 人工归并（T27 问 1）：data/saga_clients/人工归并.csv（编号A,编号B,理由,日期）
     # 用上一轮 entities.json 的「来源定位」把两个编号名下的全部原始行连成一个实体；小编号保留，大编号进 code_aliases。
     manual_merge_keys = {}
+    prev_alias = {}  # 上一轮的「曾用编号」：2026-10-25 编号重排后死号已不在登记簿里，靠上一轮 entities.json 延续
     mm_path = os.path.join(DATA, '人工归并.csv')
     prev_path = os.path.join(DATA, 'entities.json')
     if os.path.exists(mm_path) and os.path.exists(prev_path):
         prev = json.load(open(prev_path, encoding='utf-8'))
+        prev_alias = {e['code']: e['code_aliases'] for e in prev if e.get('code_aliases')}
         loc_by_code = {}
         for e in prev:
             locs = {(s['file'], s.get('sheet', ''), int(s.get('row', 0) or 0)) for s in e['sources']}
@@ -707,6 +709,8 @@ def main():
         for k in ks:
             registry['keys'].setdefault(k, code)
         ent['code'] = code
+        if not ent.get('code_aliases') and code in prev_alias:
+            ent['code_aliases'] = prev_alias[code]
         ent['grade'] = ent['grade_auto']
         # 人工定级 / 调研覆盖
         ov = None

@@ -2,156 +2,129 @@
  "code": "SB-361",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "在线（mapleye.com，快照 2026-10-21）",
- "summary": "加拿大 Mapleye Technologies（多伦多视频监控公司：商用与住宅安防系统，自有标套装 MYK-4K4R1T54-MCA 等、8 口 PoE 交换机 / PoE NVR 页；表内「PoE switch，HiSource 的」；KP Elmir Mammadov（Co-Founder，elmir@））；群发 16 次无回复。",
- "type": "多伦多安防品牌/安装商（自有标，HiSource 代工迹象，OEM 采购）",
+ "website_status": "在线（luckyjoint.com.sg，快照 2026-10-21）",
+ "summary": "新加坡 Lucky Joint Construction Pte Ltd（独立电信网络设计、建设与维护公司；表内「PoE switch / PoE 网口能传 250m 吗」「可以多跟进一下」；KP Kee Ching Hai、Jackson Ho（Senior Manager (Network Engineering)））；群发 8 次无回复。",
+ "type": "电信网络工程商（新加坡，PoE 长距需求）",
  "size": "",
- "brands_seen": [
-  "HiSource"
- ],
+ "brands_seen": [],
  "evidence": [
   {
    "kind": "官网快照",
-   "claim": "官网标题：Mapleye Security Cameras - Security Systems, Security Camera；品类词 安防监控（CCTV / 门禁） / 无线 / WiFi / 网络交换 / PoE",
-   "quote": "Mapleye Technologies is a Toronto-based video surveillance company. Contact for the best security systems solutions for commercial and residential properties.",
-   "url": "https://mapleye.com/",
+   "claim": "官网标题：Lucky Joint Construction Pte Ltd；品类词 电信 / FTTH / ISP 设备 / 无线 / WiFi / 布线 / 线缆 / 光纤 / 媒体转换",
+   "quote": "Connectivity Simplified Lucky Joint Construction (LJC) is a leading independent company specializing in the design, construction and maintenance of telecommunication networks in Singapore. Yearsof business intelecommunication industry 0 ful",
+   "url": "https://www.luckyjoint.com.sg/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
    "claim": "表内兴趣/备注",
-   "quote": "POE switch；POE switch hisource的",
+   "quote": "POE switch POE网口能传250m吗",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   },
   {
    "kind": "官网快照",
-   "claim": "多伦多视频监控公司",
-   "quote": "Mapleye Technologies is a Toronto-based video surveillance company. Contact for the best security systems solutions for commercial and residential properties.",
-   "url": "https://mapleye.com/",
+   "claim": "LJC 定位",
+   "quote": "Home - Lucky Joint Construction Pte Ltd ; leading independent company specializing in the design, construction and maintenance of telecommunication networks in Singapore",
+   "url": "https://www.luckyjoint.com.sg/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "PoE switch，HiSource 的",
-   "quote": "POE switch；hisource的",
+   "claim": "PoE 网口能传 250m 吗",
+   "quote": "POE switch POE网口能传250m吗；可以多跟进一下",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
  "kp": [
   {
-   "name": "Elmir Mammadov",
-   "title": "Co-Founder",
-   "email": "elmir@mapleye.com",
+   "name": "Jackson Ho",
+   "title": "Senior Manager (Network Engineering)",
+   "email": "robin@luckyjoint.com.sg",
+   "phone": "",
+   "source": "用户表"
+  },
+  {
+   "name": "Kee Ching Hai",
+   "title": "（职务待核）",
+   "email": "sales@luckyjoint.com.sg",
    "phone": "",
    "source": "用户表"
   }
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "加拿大",
-  "other": "官网 mapleye.com，语言 en-CA，快照状态 ok；角色判定来源：官网文案"
+  "hq": "新加坡",
+  "other": "官网 luckyjoint.com.sg，语言 en-US，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "视频监控系统（自有标套装）",
-  "配套 PoE 交换机 / NVR"
+  "电信网络设计 / 建设 / 维护（新加坡）"
  ],
  "channels": {
-  "role": "多伦多安防品牌/安装商（自有标，HiSource 代工迹象，OEM 采购）",
-  "region": "加拿大",
-  "contact": "info@mapleye.com、elmir@mapleye.com"
+  "role": "电信网络工程商（新加坡，PoE 长距需求）",
+  "region": "新加坡",
+  "contact": "sales@luckyjoint.com.sg、robin@luckyjoint.com.sg"
  },
  "signals": [
-  "页面 /8-port-poe-switch、/poe-network-switch、/ip-poe-nvr",
-  "官网：Mapleye Technologies is a Toronto-based video surveillance company",
-  "KP：Elmir Mammadov / Co-Founder（表内）"
+  "官网：Lucky Joint Construction (LJC) is a leading independent company specializing in the design, construction and maintenance of telecommunication networks in Singapore ; Connectivity Simplified",
+  "表内：POE switch POE 网口能传 250m 吗；KP Kee Ching Hai 可以多跟进一下；Jackson Ho / Senior Manager (Network Engineering)"
  ],
  "risks": [
-  "现代工 HiSource（深圳）价格基准低",
-  "16 次无回复 → 改向 Co-Founder 具名首触；本地安装商体量小"
+  "250 m 长距模式参数待核（SmartByte 规格）；非主攻区（T5，新加坡）；工程商（量随项目）；8 次无回复 → 改向 Senior Manager 具名首触"
  ],
  "saga_fit": {
   "p1": "STC-28DGGPM",
-  "tier": 30,
-  "why": "自有标 8 口 PoE（HiSource）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Mapleye 标；百兆位 HRUI STC-028GFP（$17.6）"
+  "tier": 25,
+  "why": "PoE 长距（250 m）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%，长距模式 250 m@10 Mbps 待核）、工业 8 PoE + 2 SFP STI-288GPM（$82.2）"
  },
- "email_hook": "Elmir, for the 8-port PoE switch you bundle with Mapleye camera kits, we can be a second source on a Marvell L2+ platform (8-PoE + 2 SFP, your housing and label) from small lots with FCC/CE/RoHS reports — would a sample against your current unit be useful?",
- "products_seen": [
-  {
-   "brand": "Mapleye（自有标）",
-   "model": "8-port PoE switch",
-   "spec": "8 口 PoE（HiSource 代工）",
-   "saga": "STC-28DGGPM",
-   "url": "https://www.mapleye.com/8-port-poe-switch",
-   "date": "2026-10-21"
-  }
- ],
+ "email_hook": "Jackson, on your question about 250 m PoE runs: our Marvell-based 8-PoE + 2 SFP L2+ switch supports an extended-reach mode on PoE ports (250 m at 10 Mbps for cameras; standard 100 m at gigabit) — shall I confirm the exact figures on a datasheet and quote one evaluation unit, EXW USD?",
  "mail_review": {
   "binding": {
-   "level": "未触达（A/S 邮箱 26 封 2024→2026，无记录打开，0 回；收件 elmir@mapleye.com, info@mapleye.com；主题多为「Marvell Industrial Alert System、Industrial PoE Switch」；Elsa 箱：`to:mapleye.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 26 / 来 0）（第 74 批(h)））",
-   "type": "多伦多安防品牌/安装商（自有标，HiSource 代工迹象，OEM 采购）",
-   "sieve": "1（只收到群发）",
-   "stop": "26 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
-   "lane": "CA 主攻",
-   "cadence": "一封",
-   "evidence": "gmail_digest：out 26；用户表：「POE switch；POE switch hisource的」；研究档 risks：现代工 HiSource（深圳）价格基准低"
+   "level": "未触达（1 封 2023-11 自动回复；Elsa 箱：`to:luckyjoint.com.sg` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 19 / 来 1）（第 74 批(n)））",
+   "type": "新加坡电信工程商（Lucky Joint）",
+   "sieve": "0",
+   "stop": "自动回复/机器人，无人工回复",
+   "revive": "不动；备用具名邮箱：hxng@luckyjoint.com.sg（自动回复指定代理人 Hui Xian，2023-11-06，k=8132922529f0518a；从未发过）",
+   "lane": "SG",
+   "cadence": "不动",
+   "evidence": "k=8132922529f0518a"
   },
-  "situation": "加拿大 Mapleye Technologies（多伦多视频监控公司：商用与住宅安防系统，自有标套装 MYK-4K4R1T54-MCA 等、8 口 PoE 交换机 / PoE NVR 页；表内「PoE switch，HiSource 的」；KP Elmir Mammadov（Co-Founder，elmir@））；群发 16 次无回复。",
-  "need": "自有标 8 口 PoE（HiSource）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Mapleye 标；百兆位 HRUI STC-028GFP（$17.6）",
-  "breakpoint": "现代工 HiSource（深圳）价格基准低",
+  "situation": "来信全部为机器回复；无人读信或无人回信。",
+  "need": "—",
+  "breakpoint": "—",
   "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 30,
-   "price": "换人再触锚价 STC-28DGGPM $87.4 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-27 $300（48 Port PoE Managed Switch）、2024-12-25 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-08-06 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-07-03 $65（10G Media Converter）、2025-09-24 $280（10G Enterprise SFP Switch）",
-   "why": "自有标 8 口 PoE（HiSource）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Mapleye 标；百兆位 HRUI STC-028GFP（$17.6）",
+   "p1": "—",
+   "tier": 20,
+   "price": "—；群发里他已看到的价（续）：2026-08-17 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-05-05 $300（48 Port PoE Managed Switch）、2025-08-06 $240（24 Port Fiber Switch）、2025-10-13 $280（10G Enterprise SFP Switch）",
+   "why": "已打开的主题（2/19 封有打开记录）：「48 Port PoE Managed Switch」(2025-05-05)、「24 Port Fiber Switch」(2025-08-06) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "2027-Q1（换人后）",
-   "channel": "A 邮箱 → 具名 KP",
-   "action": "换收件人再发一封（第 75 批(aa) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用）；STC-028GP/2216GPM/204GP/028GFP/28GM 为 HRUI，不写 Marvell）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
-   "one_question": "Elmir, for the 8-port PoE switch you bundle with Mapleye camera kits, we can be a second source on a Marvell L2+ platform (8-PoE + 2 SFP, your housing and label) from small lots with FCC/CE/RoHS reports — would a sample against your current unit be useful? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity)."
+   "when": "不动",
+   "channel": "—；备用具名邮箱 → hxng@luckyjoint.com.sg",
+   "action": "—",
+   "one_question": ""
   },
   "facts": [
    {
-    "date": "2026-09-21",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "Marvell Industrial Alert System、Industrial PoE Switch",
-    "why": "26 封 / 0 次打开 / 0 回｜首封 2024-07-03 → 末封 2026-09-21（26 去 / 0 来）",
-    "k": "gmail_digest"
-   },
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "POE switch；POE switch hisource的",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2026-09-21",
-    "dir": "去",
-    "who": "A 箱（Alan）",
-    "quote": "16 Port Industrial PoE Switch",
-    "why": "本日去信真实主题（邮箱索引 fb9c496beed96c49；信稿开头句引用此封；此前稿内写的「Marvell Industrial Alert System」是线程列表首题，不是本封）",
-    "k": "fb9c496beed96c49"
+    "date": "2023-11-06",
+    "dir": "来",
+    "who": "自动回复",
+    "quote": "自动回复里给出代理人/同事邮箱 hxng@luckyjoint.com.sg（Hui Xian）",
+    "why": "群发一直发给休假/离职的人；这个地址从未发过，是换具名邮箱的现成入口",
+    "k": "8132922529f0518a"
    }
   ],
   "proof_gaps": [],
-  "draft_en": {
-   "subject": "The 8-port PoE switch in Mapleye kits - a sample against your current unit",
-   "body": "Hi Elmir,\n\nOver the past months you had a few product mails from us - most recently \"16 Port Industrial PoE Switch\" on 21 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the 8-port PoE switch you bundle with Mapleye camera kits (HiSource today), a second source in your housing and label from small lots, FCC/CE/RoHS reports included: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based - model STC-28DGGPM - $87.4 USD EXW with your logo (MOQ 1, 15-day validity); if the kit position is Fast Ethernet, 8 x 10/100 PoE+ + 2 x Gigabit uplinks - STC-028GFP - $17.9. Samples are paid at the same price.\n\nOne question: would a sample against your current unit be useful - and is the kit position Gigabit or Fast Ethernet?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
-  },
+  "draft_en": null,
   "as_of": "2026-10-24"
  }
 }

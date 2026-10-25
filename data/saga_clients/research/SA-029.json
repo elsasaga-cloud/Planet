@@ -1,267 +1,224 @@
 {
  "code": "SA-029",
- "name_official": "ALLNET GmbH Computersysteme（Germering bei München）",
+ "name_official": "GTWAVE Co., Ltd.（(주)지티웨이브, Seongnam, Korea）",
  "website_status": "在线",
- "summary": "德国增值分销商 + 自有品牌厂商（1991 年成立，Wolfgang Marcus Bauer），分销网络/无线/UCC/视频监控/安全/测量产品，并以 ALLNET 品牌自产网络、电信、WLAN、视频监控产品；2013 年营收 €5,800 万（德国分销商第 27 位）。用户表：A 已回复，自己的 logo、工业 FS/MC/SFP/周边，有 E-link 的产品。",
- "type": "分销商 + 自有品牌（ALLNET，OEM 采购）",
- "size": "€58M 营收（2013，channelpartner）",
+ "summary": "韩国板桥的自有品牌网络/无线设备商（2001 年成立，11–50 人）：智能 PoE 交换机、工业 PoE 交换机、PoE 注入器/延长器、户外/工业 AP（KCMVP/CC 认证联动，可用于军用无线）、无线 CCTV、无人机图传、天线；有 CB/CE/ISO 认证。用户表：A 已回复，兴趣自己的 logo、工业 FS、FS PoE，提到海思方案。",
+ "type": "品牌商（OEM/ODM 需求）",
+ "size": "11–50 人（EC21）",
  "brands_seen": [
-  "ALLNET",
-  "E-link"
+  "GT-Wave"
  ],
  "evidence": [
   {
-   "kind": "第三方（Wikipedia）",
-   "claim": "定位：增值分销 + 自产 ALLNET 品牌产品",
-   "quote": "Die ALLNET GmbH Computersysteme ist ein deutscher Value add Distributor für Produkte im Bereich der Netzwerktechnik … Das Unternehmen produziert und vermarktet und dem Namen \"ALLNET\" zudem Produkte",
-   "url": "https://de.wikipedia.org/wiki/ALLNET",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "第三方（channelpartner）",
-   "claim": "体量",
-   "quote": "Platz 27: Allnet · Unternehmen: Allnet GmbH Computersysteme Schwerpunkt: Netzwerke Umsatz: 58 Mio. Euro (2013)",
-   "url": "https://www.channelpartner.de/g/die-groessten-distributoren-in-deutschland-rangliste-nach-umsatz,109904,5",
-   "date": "2026-10-21"
-  },
-  {
    "kind": "官网",
-   "claim": "销售/新客户邮箱",
-   "quote": "Neukundenbetreuung Mail: neukunde(at)allnet.de · Vertrieb allgemein (Sales) Mail: sales(at)allnet.de Tel.: (089) 894-222-22",
-   "url": "https://distribution.allnet.de/contact-allnet-distribution.html",
+   "claim": "自有品牌产品线含 PoE 交换机/工业 AP",
+   "quote": "Intelligent PoE Switch / Outdoor AP / Public WiFi / Antenna / Wireless CCTV / Video Transmission for Drones … PoE Switch · PoE Injector · PoE Extender (repeater) · Network Switch … E-mail : master@gtwave.co.kr",
+   "url": "https://www.gtwave.co.kr/",
    "date": "2026-10-21"
   },
   {
-   "kind": "官网",
-   "claim": "ALL-SGI8004P 工业 4 口 bt + 2 SFP 180W DIN",
-   "quote": "ALLNET switch unmanaged industrial 4-port Gigabit 180W / 2x PoE bt / 2x SFP / fanless / DIN / IP40 / ALL-SGI8004P … 2x HighPower PoE ports, up to 90 Watt per port",
-   "url": "https://www.allnet.de/en/allnet-brand/produkte/industrial-switches/switches/p/allnet-switch-unmanaged-industrial-4-port-gigabit-120w-2x-poe-2x-sfp-luefterlos-din-ip40/",
+   "kind": "第三方（EC21）",
+   "claim": "规模与联系人",
+   "quote": "Gtwave Co.,Ltd … Korea · 2001 · 11 - 50 … Main Products PoE Network Switch, 8Port PoE (GT8P-2G-HA) · Industrial PoE Network Switch, 4port Poe … Contact MOONSOO,PARK(Mr.)",
+   "url": "https://www.ec21.com/product-details/PoE-Network-Switch-8Port-PoE--11968346.html",
    "date": "2026-10-21"
   },
   {
-   "kind": "官网",
-   "claim": "ALL-SGI8016PM 工业 L3 PoE 16 口（12 PoE + 4 SFP）",
-   "quote": "ALLNET ALL-SGI8016PM is a professional yet affordable industrial L3 PoE switch with 16 Gigabit ports, supporting up to 12*10/100/1000M PoE downlink ports and 4* 1000M SFP ports",
-   "url": "https://www.allnet.de/en/allnet-brand/produkte/industrial-switches/switches/p/allnet-switch-managed-l2-l3-industrial-12-port-gigabit-12/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "零售渠道",
-   "claim": "2025-05-26 新品 ALL-SGI8112PM-BT（JSON API）",
-   "quote": "ALLNET Industrial Switch fully managed Layer 2+ with 12 ports GbE or PoE, budget 240W, 8x PoE BT, 4x SFP, fanless, DIN, JSON API, model ALL-SGI8112PMJ-BT … Release date · 26.5.2025",
-   "url": "https://www.galaxus.ch/en/s1/product/allnet-switch-industrial-full-managed-layer2-gbe-poe-budget-240w-8x-bt-12-ports-network-switches-58884553",
-   "date": "2026-10-21"
+   "kind": "展会目录",
+   "claim": "GTWave 工业 PoE 型号表（iG8P-2SMB/2SB/4SMB/8GE/8FE、DNS8-2SM、iG4P-2SMB）",
+   "quote": "iG8P-2SMB | Web관리, 8PoE Gbps, 2SFP, 지능형 PoE, consol 1, Ring 구성(ERPS, EAPS) | iG8P-2SB | non managed, 8PoE Gbps, 2 SFP … iG8P-4SMB | Web관리, 8PoE Gbps, 4SFP … DNS8-2SM | Web관리, Ring 구성(ERPS, EAPS), 8GE + 2SFP",
+   "url": "https://oemfile.informamarkets-info.com/FileUpload/2025SEC_39523/20250116080429651.pdf",
+   "date": "2025-01-16"
   }
  ],
  "kp": [
   {
-   "name": "Wolfgang Marcus Bauer",
-   "role": "Geschäftsführer",
-   "email": "",
-   "phone": "+49 89 894 222-22",
-   "source": "https://www.allnet.de/impressum.html"
-  },
-  {
-   "name": "Gerhard Zerwes",
-   "role": "来信署名人（职务未在邮件署名里出现）",
-   "email": "zerwes@allnet.de",
-   "phone": "",
-   "source": "S/A 邮箱来信 2024-06-04 → 2025-07-10 来信 3 封（第 72 批从邮件表头补）"
+   "name": "Moonsoo Park",
+   "role": "对外联系人（EC21 供应商页）",
+   "email": "master@gtwave.co.kr",
+   "phone": "+82 31 707 4670",
+   "source": "https://www.ec21.com/product-details/PoE-Network-Switch-8Port-PoE--11968346.html"
   }
  ],
- "notes": "A 维持（用户 A 已回复 + 自有品牌已从中国 E-link 采购）；体量偏大但贴牌采购决策在产品经理层，可做。P1 = STI-288DGGPM（工业 PoE 贴牌），30% 档；强调 Marvell 方案与 L2+ 固件差异化。",
+ "notes": "A 确认（韩国自有品牌 PoE 交换机 + 已回复 + 明确贴牌）；注意其部分 AP 用于军用无线——Saga 只供交换机硬件，守界不碰军品项目；P1 = STI-288DGGPM 工业 PoE，30% OEM 档。",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
   "level": "深挖 v1"
  },
  "company_facts": {
-  "legal_name": "ALLNET GmbH Computersysteme",
-  "founded": "1991（Wolfgang Marcus Bauer）",
-  "hq": "Germering bei München, Germany",
-  "revenue": "€58M（2013 口径，待更新）",
-  "other": "自有品牌 ALLNET 工业交换机全线（ALL-SGI 系列：Entry Line 非管理 / smart managed / full managed L2+，含 bt 90W、JSON API），2025-05 仍在发新品；也供应 Reichelt、Galaxus 等零售渠道"
+  "legal_name": "GTWAVE Co., Ltd.（(주)지티웨이브）",
+  "founded": "2001",
+  "hq": "Seongnam (Pangyo), Korea",
+  "staff": "11–50",
+  "other": "自有品牌 GT-Wave：智能 PoE（通信故障自恢复）、工业 PoE iG 系列、PoE 注入器/延长器、户外 AP（KCMVP/CC 联动可军用）、无线桥接、无人机图传；2025 SEC 展会目录；用户表「海思的」"
  },
  "business_lines": [
-  "增值分销（网络/无线/UCC/视频监控/安全/测量）",
-  "ALLNET 品牌：工业 DIN 交换机 ALL-SGI 系列、商用交换机、WLAN、监控、电信",
-  "欧洲渠道（ALLNET Italia 等子公司）"
+  "工业 PoE 交换机 iG4P/iG8P 系列（Web 管理、ERPS/EAPS、温湿度监测、-40~80℃）",
+  "商用 PoE GT8P-2G-HA、DNS8-2SM",
+  "PoE 注入/延长器（GAW-i90G 90W、GT2P-EX2）",
+  "户外/工业 AP、无线桥接 GT-Wave860S"
  ],
  "products_seen": [
   {
-   "brand": "ALLNET",
-   "model": "ALL-SGI8004P",
-   "spec": "工业非管理 4×GE（2×PoE bt 90W）+ 2 SFP，180W，无风扇，DIN，IP40（Art. 189228）",
-   "url": "https://www.allnet.de/en/allnet-brand/produkte/industrial-switches/switches/p/allnet-switch-unmanaged-industrial-4-port-gigabit-120w-2x-poe-2x-sfp-luefterlos-din-ip40/",
-   "date": "2026-10-21",
-   "saga": "STI-144GP"
+   "brand": "GT-Wave",
+   "model": "iG8P-2SMB / iG8P-4SMB",
+   "spec": "Web 管理 8 GE PoE + 2/4 SFP，智能 PoE，ERPS/EAPS，DC48–52V",
+   "url": "https://oemfile.informamarkets-info.com/FileUpload/2025SEC_39523/20250116080429651.pdf",
+   "date": "2025-01-16",
+   "saga": "STI-288DGGPM"
   },
   {
-   "brand": "ALLNET",
-   "model": "ALL-SGI8206v2P",
-   "spec": "工业非管理 4×GE PoE（3 at + 1 bt）+ 2 combo，150W，-40~75℃，110×163×46 mm",
-   "url": "https://www.allnet.de/en/allnet-brand/produkte/industrial-switches/switches/p/allnet-all-sgi8206pm-unmanaged-industrial-switch-4-port-hpoe-gigabit-2x-combo-tpsfp/",
-   "date": "2026-10-21",
-   "saga": "STI-144GP"
+   "brand": "GT-Wave",
+   "model": "iG8P-2SB / iG8P-8GE / iG8P-8FE",
+   "spec": "非管理 8 PoE（+2 SFP）自恢复",
+   "url": "https://oemfile.informamarkets-info.com/FileUpload/2025SEC_39523/20250116080429651.pdf",
+   "date": "2025-01-16",
+   "saga": "STI-288DGGPM"
   },
   {
-   "brand": "ALLNET",
-   "model": "ALL-SGI8108v2",
-   "spec": "工业非管理 8×GE + 2 SFP，DIN，IP40",
-   "url": "https://www.allnet.de/en/allnet-brand/produkte/industrial-switches/switches/",
-   "date": "2026-10-21",
-   "saga": "STI-288DGGPM（非 PoE 版待核）"
+   "brand": "GT-Wave",
+   "model": "iG4P-2SMB",
+   "spec": "6 口（4 PoE，3/4 口 90W bt）+ 2 SFP，环网，-40~80℃",
+   "url": "https://oemfile.informamarkets-info.com/FileUpload/2025SEC_39523/20250116080429651.pdf",
+   "date": "2025-01-16",
+   "saga": "STI-144GP（bt 需核）"
   },
   {
-   "brand": "ALLNET",
-   "model": "ALL-SGI8104PM",
-   "spec": "工业管理 4×GE PoE af/at + 2 SFP，DIN（Art. 174877）",
-   "url": "https://cdn-reichelt.de/documents/datenblatt/E910/ALLNET_SGI8104PM_DB-DE.pdf",
+   "brand": "GT-Wave",
+   "model": "GT8P-2G-HA",
+   "spec": "商用 8 PoE + 2 GE（EC21）",
+   "url": "https://www.ec21.com/product-details/PoE-Network-Switch-8Port-PoE--11968346.html",
    "date": "2026-10-21",
-   "saga": "STI-144GP（管理版待核）"
+   "saga": "STC-28DGGPM"
   },
   {
-   "brand": "ALLNET",
-   "model": "ALL-SGI8016PM",
-   "spec": "工业 L2+/L3 管理 12×GE PoE+ + 4 SFP，360W，DIN（Art. 189896）",
-   "url": "https://www.allnet.de/en/allnet-brand/produkte/industrial-switches/switches/p/allnet-switch-managed-l2-l3-industrial-12-port-gigabit-12/",
-   "date": "2026-10-21",
-   "saga": "STI-21616GP"
-  },
-  {
-   "brand": "ALLNET",
-   "model": "ALL-SGI8112PM-BT（JSON API）",
-   "spec": "工业 full managed L2+ 12 口，8×bt，240W，4 SFP，2025-05-26 上市",
-   "url": "https://www.galaxus.ch/en/s1/product/allnet-switch-industrial-full-managed-layer2-gbe-poe-budget-240w-8x-bt-12-ports-network-switches-58884553",
-   "date": "2026-10-21",
-   "saga": "STI-288DGGPM（bt 版待核）"
+   "brand": "GT-Wave",
+   "model": "GAW-i90G",
+   "spec": "90W bt 注入器（2026 英文单页）",
+   "url": "https://camerasamsung.com/uploads/tiny_uploads/GAW-i90G_Eng2026_1.pdf",
+   "date": "2026",
+   "saga": "—"
   }
  ],
  "channels": {
-  "网站": "https://www.allnet.de/en/allnet-brand/produkte/industrial-switches/switches/",
-  "直邮": "zerwes@allnet.de（用户表，A 已回复）",
-  "零售渠道": "Reichelt / Galaxus / ALLNET Italia 网店"
+  "网站": "https://www.gtwave.co.kr/",
+  "直邮": "master@gtwave.co.kr（用户表）",
+  "展会": "SEC 2025（informamarkets 目录）",
+  "出口": "EC21 店；越南 Trường Sơn（SA-031）为其分销（Non-China/NDAA 卖点）"
  },
  "signals": [
-  "2025-05-26：新品 ALL-SGI8112PM-BT 上市（JSON API）——ALLNET 工业线仍在迭代、持续 ODM 采购（Galaxus 2026-10-21）",
-  "用户表：A 已回复，自己的 logo，工业 FS/MC/SFP/周边，有 E-link 的产品"
+  "2025 展会目录 + 2026 英文单页——出口活跃；越南分销 SA-031 主打「Non-China」——注意 GTWave 对外可能标榜韩国制造",
+  "用户表：自己的 logo，工业 FS/PoE，海思方案"
  ],
  "risks": [
-  "大型分销商 + 成熟 ODM 供应链（E-link 等），切入门槛是价格与 ERP/EAN/包装合规（德语说明书、WEEE、CE 文件）",
-  "对 Marvell 平台无特殊偏好，需以某一空缺型号（如 8 口 bt 管理 DIN）切入而非整线替换"
+  "军用 AP/KCMVP 相关守界；Saga 只供商用/工业 PoE",
+  "其「Non-China」出口卖点与中国 ODM 来源存在张力——OEM 条款需明确中性包装（Saga 本就中性）"
  ],
  "saga_fit": {
   "p1": "STI-288DGGPM",
   "tier": 30,
-  "why": "ALLNET ALL-SGI 系列从 4 口到 16 口与 Saga STI 工业线一一对应（SGI8004P/8206v2P→STI-144GP；SGI8108v2/8112PM→STI-288DGGPM；SGI8016PM→STI-21616GP）；贴 ALLNET 标 30% 档，但分销体量按 25% 谈"
+  "why": "iG8P-2SMB（8 GE PoE + 2 SFP 管理，ERPS）= STI-288DGGPM；GT8P-2G-HA 商用位 = STC-28DGGPM；OEM 30% 档"
  },
- "email_hook": "Across the ALL-SGI line the 8-port gigabit PoE managed DIN unit with 2 SFP is where a Marvell-based second source makes the most sense, so I am quoting that in ALLNET packing with full CE/RoHS documentation, and can add the 4-port bt version if useful.",
+ "email_hook": "Your iG8P-2SMB spec sheet, 8 gigabit PoE ports plus 2 SFP with ERPS ring and dual DC, maps one-to-one onto the Marvell-based industrial unit we build, so I am quoting it in neutral GT-Wave-ready packing with the 8-port commercial GT8P class model as a second line.",
  "mail_review": {
   "binding": {
-   "level": "未绑定（产品经理 Gerhard Zerwes 明确「we have our solution」；Elsa 箱：`to:.de` 穷举 29 条（2026-10-25，锚批 Bcc 头已读）未见 allnet.de → Elsa 箱从未发过本户，往来只在 S/A 箱（去 21 / 来 3）（第 74 批(f)））",
-   "type": "德国分销 + 自有品牌 ALLNET（€58M）——既有白牌来源（E-link 等）",
+   "level": "未绑定（2025-04 要公司名与目录 → 给了 → 无下文；Elsa 箱：`to:gtwave.co.kr` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 28 / 来 1）（第 74 批(g)））",
+   "type": "韩国自有品牌 PoE 交换机/AP（部分军用无线——守界只供硬件）；Moonsoo Park",
    "sieve": "1",
-   "stop": "2025-07-10「sorry we have our solution with SFP Slots and Managed Versions」——供给已满足",
-   "revive": "其现供应商断供/涨价；或要 Marvell L2+ 特定功能（ERPS/PIM-SM/IPv6）",
-   "lane": "DE（主攻区）",
-   "cadence": "2024-06 → 2026-10 去信 21 封；最后来信 2025-07-10；Gerhard 每年 5–6 月在亚洲（Computex 台北）",
-   "evidence": "k=3bed67df76fec9ba / 27176790332e9c58 / 15f87700ebc70348"
+   "stop": "2025-04-16 目录后无回",
+   "revive": "其 PoE 交换机换源",
+   "lane": "KR",
+   "cadence": "2024-06 → 2026-09 去信 28 封；最后来信 2025-04-15",
+   "evidence": "k=2cc027d0b96713b6 / e7ae897881e06df3"
   },
-  "situation": "ALLNET 的产品经理 Gerhard Zerwes 是真人回复：2025-07-10 对 16 口 DIN 群发回「我们已有带 SFP 槽和管理型的方案」。他每年 5–6 月去 Computex 并在亚洲停留一个月（2024 自动回复）。Saga 之后继续每月一封群发到 sales@/zerwes@，无回。",
-  "need": "自有品牌 ALLNET 工业/商用交换机货源——目前已满足。",
-  "breakpoint": "对方不是没需求而是已有供给；只有「供给侧变化」才是入口，不是更多产品图。",
+  "situation": "Park 2025-04-15 回「Let me know your company name and send me catalogue」，Alan 次日给公司名 + 目录；无回。群发邮件没有公司名——对方第一反应是「你是谁」。",
+  "need": "自有品牌 PoE 交换机。",
+  "breakpoint": "身份不清（群发署名只有 Alan/Saga Telecom/OEM Factory）→ 目录后无回。",
   "saga_now": {
-   "p1": "STI-288DGGPM（若其 E-link 线出现缺口）",
+   "p1": "STI-288DGGPM",
    "tier": 30,
-   "price": "换人再触锚价 STI-288DGGPM $137.5 EXW（2026-06 PDF 上限 $137.5（档位 139.9–151.6 超上限；Angora/Astel 实报 $125 为成单户价）；第 72 批 2026-10-24）；按 30% 自有标档；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-05 $220（48 port managed switch）、2026-10-08 $180（24 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-17 $280（10G Enterprise SFP Switch）",
-   "why": "保活不推销。已打开的主题（2/21 封有打开记录）：「16 Port Ethernet Switch」(2025-07-09)、「Re: 16 Port Ethernet Switch」(2025-07-11) → 读者兴趣主题类别不明（看原主题）",
+   "price": "换人再触锚价 STI-288DGGPM $137.5 EXW（2026-06 PDF 上限 $137.5（档位 139.9–151.6 超上限；Angora/Astel 实报 $125 为成单户价）；第 72 批 2026-10-24）；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-06-17 $65（10G media converter）、2024-07-17 $220（10G managed switch）；群发里他已看到的价（续）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-07-24 $300（48 Port PoE Managed Switch）、2025-09-01 $240（24 Port Fiber Switch）、2025-10-09 $280（10G Enterprise SFP Switch）",
+   "why": "保活。已打开的主题（3/28 封有打开记录）：「Marvell Software Function List」(2025-04-15)、「Re: Marvell Software Function List」(2025-04-16)、「Optional Marvell Chipset Solutions」(2025-12-02) → 读者兴趣偏「价格/目录」；与 P1 同类，继续",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "2027-Q1（之前只保活）；或 2027-05 Computex 期间当面",
-   "channel": "S 邮箱 → zerwes@allnet.de",
-   "action": "一句话问其工业线最难采购的 SKU（第 75 批(o) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用；换人/一问口径）；无价、只一问（对方已明说有方案））（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
-   "one_question": "Which SKU in the ALLNET industrial line is hardest to source today — lead time or price? Reference: STI-288DGGPM at $137.5 USD EXW (MOQ 1, 15-day validity)."
+   "when": "2027-Q1",
+   "channel": "A 邮箱 → master@gtwave.co.kr（Moonsoo Park）",
+   "action": "一句话问 PoE 线外采情况（第 75 批(p) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
+   "one_question": "Is the GTWAVE PoE switch line bought-in today, and which model is the volume one? Reference: STI-288DGGPM at $137.5 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
    {
-    "date": "2024-06-04",
-    "dir": "来",
-    "who": "Gerhard Zerwes（自动回复）",
-    "quote": "business trip in Asia from 24.05.2024 to 23.06.24 inclusive with a trade fair in Taiwan \"Computex\"",
-    "why": "每年亚洲行",
-    "k": "3bed67df76fec9ba"
-   },
-   {
-    "date": "2024-06-04",
-    "dir": "来",
-    "who": "zerwes@allnet.de",
-    "quote": "Automatische Antwort: 10G media converter｜Sehr geehrte Partner,  vielen Dank f?r Ihre Email. Ich bin vom 24.05.2024 bis einschl. 23.06.24 auf Gesch?ftsreise in Asien mit Messe in Taiwan \"Compu",
-    "why": "自动回复/退信/工单（机器，不算人工回复）",
-    "k": "3bed67df76fec9ba"
-   },
-   {
-    "date": "2024-07-03",
+    "date": "2024-06-17",
     "dir": "去",
     "who": "S 箱（Simon）",
-    "quote": "24 port managed switch",
-    "why": "首封去信（邮箱索引；去信共 21 封）",
-    "k": "8c23e12b3ebab7af"
+    "quote": "10G media converter",
+    "why": "首封去信（邮箱索引；去信共 28 封）",
+    "k": "d2a506d0f5570404"
    },
    {
-    "date": "2024-08-05",
-    "dir": "来",
-    "who": "zerwes@allnet.de",
-    "quote": "Automatische Antwort: 48 port managed switch｜Sehr geehrte Partner,  vielen Dank f?r Ihre Email. Ich bin vom 26.07.2024 bis einschl. 09.08.24 im Urlaub.  Ihre Email wird in der zwischenzeit nicht ",
-    "why": "自动回复/退信/工单（机器，不算人工回复）",
-    "k": "2f53ef9e4553a91a"
+    "date": "2024-06-17",
+    "dir": "去",
+    "who": "S 箱（Simon）",
+    "quote": "10G media converter｜稿内价 $65",
+    "why": "去信正文含价（邮箱索引）",
+    "k": "d2a506d0f5570404"
    },
    {
-    "date": "2024-08-05",
+    "date": "2024-06-17",
     "dir": "去",
     "who": "S 箱（Simon）报价",
-    "quote": "48 port managed switch｜ $220（原句：Price is very competitive, 220usd/pc）",
+    "quote": "10G media converter｜ $65（原句：Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unma）",
     "why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
-    "k": "345bbc1b97f18eb4"
+    "k": "d2a506d0f5570404"
    },
    {
-    "date": "2025-07-10",
-    "dir": "来",
-    "who": "Gerhard Zerwes",
-    "quote": "sorry we have our solution with SFP Slots and Managed Versions.",
-    "why": "停点原话",
-    "k": "27176790332e9c58"
+    "date": "2024-07-17",
+    "dir": "去",
+    "who": "S 箱（Simon）报价",
+    "quote": "10G managed switch｜ $220（原句：Price is very competitive, 220usd/pc）",
+    "why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
+    "k": "3282b23e6ebb27e1"
    },
    {
-    "date": "2025-07-10",
+    "date": "2025-04-15",
     "dir": "来",
-    "who": "zerwes@allnet.de",
-    "quote": "AW: 16 Port Ethernet Switch｜Hallo Alan,  sorry we have our solution with SFP Slots and Managed Versions.  Thanks Gerhard  Von: Alan from Saga Telecom <a.sagatelecom@gmail.com> Ge",
+    "who": "Moonsoo Park",
+    "quote": "Let me know your company name and send me catalogue.",
+    "why": "「你是谁」",
+    "k": "2cc027d0b96713b6"
+   },
+   {
+    "date": "2025-04-15",
+    "dir": "来",
+    "who": "master@gtwave.co.kr",
+    "quote": "RE: Marvell Software Function List｜Thank you for your information.     Let me know your company name and send me catalogue.     Moonsoo,Park     From: Alan from Saga Telecom <a.sagatele",
     "why": "来信（邮箱索引；原文见 k；是否人工回复以原文为准）",
-    "k": "27176790332e9c58"
+    "k": "2cc027d0b96713b6"
    },
    {
-    "date": "2026-10-08",
+    "date": "2025-09-01",
     "dir": "去",
-    "who": "S 箱（Simon）",
-    "quote": "24 Port PoE Managed Switch",
-    "why": "最近一封去信（邮箱索引；去信共 21 封）",
-    "k": "15f87700ebc70348"
+    "who": "A 箱（Alan）",
+    "quote": "24 Port Fiber Switch｜稿内价 $240",
+    "why": "去信正文含价（邮箱索引）",
+    "k": "ec46f307cda26d4c"
    },
    {
-    "date": "2026-10-08",
+    "date": "2026-09-07",
     "dir": "去",
-    "who": "S 箱（Simon）报价",
-    "quote": "24 Port PoE Managed Switch｜ $180（原句：*Price: 180USD/PC*）",
-    "why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
-    "k": "15f87700ebc70348"
+    "who": "A 箱（Alan）",
+    "quote": "16 Port Industrial PoE Switch",
+    "why": "最近一封去信（邮箱索引；去信共 28 封）",
+    "k": "f39c5b2143564be5"
    }
   ],
   "proof_gaps": [],
   "draft_en": {
-   "subject": "One question on the ALL-SGI industrial line - no product pictures",
-   "body": "Hi Gerhard,\n\nYou said it clearly in July 2025: ALLNET has its solution with SFP slots and managed versions. Noted - so no more product pictures from us.\n\nOne question, and only that: across the ALL-SGI industrial line, which SKU is the hardest to source on your side today - lead time, MOQ or price? If there is one, that is the one where a Marvell-based second source from small lots could be worth a look; if there is none, I will leave it until Computex.\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+   "subject": "From Saga Telecom (we sent the catalogue in April 2025) - your iG8P-2SMB footprint",
+   "body": "Dear Mr. Park,\n\nIn April 2025 you asked who we are and for a catalogue; I sent both the next day and we did not hear back - the mail probably arrived without a clear sender context, so once more: Saga Telecom, Shenzhen, switches on Marvell silicon for brand owners, small lots.\n\nYour iG8P-2SMB - 8 x Gigabit PoE + 2 x SFP, ring, dual DC - maps one-to-one onto our industrial unit: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, L2+ managed with ring redundancy, dual DC input, -40 to 75 C, CE/RoHS - model STI-288DGGPM - $137.5 USD EXW in GT-Wave packing (MOQ 1, 15-day validity); the commercial 8-port class next to your GT8P - STC-28DGGPM - $87.4. KC stays on your side.\n\nOne question: is the PoE switch line bought in today, and from a Hisilicon-based source as before?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
  }

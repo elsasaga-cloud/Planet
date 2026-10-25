@@ -1,0 +1,398 @@
+# SB-675 pandacomdirekt.de · home · https://www.pandacomdirekt.de/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+STARTSEITE | Nets get connected! - Pan Dacom Direkt
+Home
+Produkte
+Übersicht - alle Produkte
+Optischer Transport
+Übersicht
+Muxponder
+Element Management System
+Transponderkarten
+Optische Verstärker
+Managementkarte
+Baugruppenträger
+Passive WDM Multiplexer
+Fiber Monitoring und aktive Glasfaserüberwachung
+Optischer Umschalter
+Richtfunk
+Übersicht
+Service Richtfunk
+Lizenzierter Richtfunk
+Lizenzfreier Richtfunk
+Richtfunk-Zubehör
+Verschlüsselung
+Übersicht
+100G Ethernet Verschlüsseler
+100M Ethernet Verschlüsseler
+1G Ethernet Verschlüsseler
+10G Ethernet Verschlüsseler
+40G Ethernet Verschlüsseler
+Fiber Monitoring und aktive Glasfaserüberwachung
+Transceiver
+Übersicht
+QSFP-DD
+CFP/CFP2/CFP4
+QSFP28
+QSFP+
+SFP FE
+SFP FE BIDI
+SFP STM-1
+SFP STM-4
+SFP GE
+SFP GE BIDI
+SFP multirate
+SFP+ 10GE
+SFP+ 10G BIDI
+SFP+ 8GFC
+SFP+ 16GFC
+XFP 10GE
+XFP 10G BIDI
+XFP 10GFC
+AOC Kabel
+DAC Cable
+Unified Management
+Übersicht
+Inventory & Discovery
+Performance Management (PM)
+Fehler Management (FM)
+Network Configuration and Change Management (NCCM)
+Compliance Management/Policy Checking mit NCCM
+Lifecycle Management mit NCCM
+Schwachstellenanalyse / Vulnarability Checks mit NCCM
+Management von Cisco Application Centric Infrastructure (ACI) Lösungen (C-SDN)
+Service Analyzer & Netzwerk Service Analyzer
+SHDSL
+Übersicht
+SPEED-DSL.bis MINI Serie
+SPEED-DSL. bis Modems
+SPEED-DSL.bis Repeater
+SPEED-DSL.bis GigaSpeed Modem
+VDSL2 Extender
+ML600 Series
+ML230/ML2300
+XR239 Repeater
+Access Netzwerke
+Übersicht
+Optical Line Terminals
+DSLAMs
+ONTs (Optical Network Termination)
+Passive Produkte
+Carrier Ethernet/IP Router
+Übersicht
+Demarcation
+Aggregation
+Access und CPE
+Switching
+Backbone und Core
+Lösungen
+Übersicht - alle Lösungen
+Cisco ACI und WDM-Technologie - Synergien und Integration
+Übersicht
+Glasfaserüberwachung 24x7 für aktive LWL und Dark Fiber
+Übersicht
+10G Ethernet Verschlüsseler
+Fiber Monitoring und aktive Glasfaserüberwachung
+400G QSFP-DD Transceiver Applikationen
+Übersicht
+BNG-Router / End-to-End-MPLS-Lösungen
+Übersicht
+FTTH Gesamtkonzept
+Übersicht
+Optical Line Terminals
+DSLAMs
+ONTs (Optical Network Termination)
+Herstellerübergreifende Orchestrierung
+Übersicht
+L2BSA
+Übersicht
+Next Generation Optical Backbone
+Übersicht
+Rechenzentrumskopplung, Standortvernetzung & DCI
+Übersicht
+Muxponder
+Transponderkarten
+Baugruppenträger
+Fiber Monitoring und aktive Glasfaserüberwachung
+Regionale Standortvernetzung
+Übersicht
+Muxponder
+Lizenzierter Richtfunk
+Lizenzfreier Richtfunk
+100M Ethernet Verschlüsseler
+1G Ethernet Verschlüsseler
+10G Ethernet Verschlüsseler
+40G Ethernet Verschlüsseler
+Transponderkarten
+Baugruppenträger
+Smarte Netze, IoT & LoRa Management
+Übersicht
+Umbrella NMS & Automation für Carrier
+Übersicht
+Verschlüsselung für Glasfaserverbindungen
+Übersicht
+Muxponder
+100M Ethernet Verschlüsseler
+1G Ethernet Verschlüsseler
+10G Ethernet Verschlüsseler
+40G Ethernet Verschlüsseler
+Transponderkarten
+Fiber Monitoring und aktive Glasfaserüberwachung
+Technologien
+Übersicht - alle Technologien
+WDM und xWDM | Grundlagen, Funktionen und Anwendungen
+Richtfunk Grundlagen | Was ist Lizenzfreier und Lizensierter-Richtfunk
+DCI (Data Center Interconnect) | Grundlagen und Funktionsweise
+Carrier Ethernet | Grundlagen
+Verschlüsselung für Netzwerke | Grundlagen
+FTTx | Grundlagen
+Service
+Übersicht - Service
+Beratung & Planung
+Support & Installation
+DCI as a Service
+Wireless Leased Line as a Service
+Engineering as a Service
+Demo Terminvereinbarung
+Entwicklung
+Unternehmen
+Über uns
+Nachhaltigkeit
+Blog
+Events
+Pan Dacom Explainer Videos
+HIGHSPEED - der Netzwerk Podcast
+Webinar
+Schulungen
+Referenzen
+Werden Sie Partner
+Registrierung Kundencenter
+Bautagebuch zum neuen Pan Dacom Campus
+Pressemeldungen
+Karriere
+Übersicht
+Was wir bieten
+Wofür wir stehen
+Offene Stellen
+Professionals
+Berufseinsteiger
+Praktikum
+Studium
+Ausbildung
+Kontakt
+Kosten-Check
+Login
+de
+en
+de
+en
+Konfiguratoren DWDM Konfigurator
+Richtfunk Konfigurator
+Dark Fiber Check
+Standortvernetzung
+SHDSL Modem-Konfigurator
+Layer 2 und 3 Verschlüsselung
+Transceiver Konfigurator
+Login
+Home
+Produkte
+Übersicht - alle Produkte
+Optischer Transport
+Richtfunk
+Verschlüsselung
+Transceiver
+Unified Management
+SHDSL
+Access Netzwerke
+Carrier Ethernet/IP Router
+Produktübersicht
+Muxponder
+Element Management System
+Transponderkarten
+Optische Verstärker
+Managementkarte
+Baugruppenträger
+Passive WDM Multiplexer
+Fiber Monitoring und aktive Glasfaserüberwachung
+Optischer Umschalter
+Produktübersicht
+Service Richtfunk
+Lizenzierter Richtfunk
+Lizenzfreier Richtfunk
+Richtfunk-Zubehör
+Produktübersicht
+100G Ethernet Verschlüsseler
+100M Ethernet Verschlüsseler
+1G Ethernet Verschlüsseler
+10G Ethernet Verschlüsseler
+40G Ethernet Verschlüsseler
+Fiber Monitoring und aktive Glasfaserüberwachung
+Produktübersicht
+QSFP-DD
+CFP/CFP2/CFP4
+QSFP28
+QSFP+
+SFP FE
+SFP FE BIDI
+SFP STM-1
+SFP STM-4
+SFP GE
+SFP GE BIDI
+SFP multirate
+SFP+ 10GE
+SFP+ 10G BIDI
+SFP+ 8GFC
+SFP+ 16GFC
+XFP 10GE
+XFP 10G BIDI
+XFP 10GFC
+AOC Kabel
+DAC Cable
+Produktübersicht
+Inventory & Discovery
+Performance Management (PM)
+Fehler Management (FM)
+Network Configuration and Change Management (NCCM)
+Compliance Management/Policy Checking mit NCCM
+Lifecycle Management mit NCCM
+Schwachstellenanalyse / Vulnarability Checks mit NCCM
+Management von Cisco Application Centric Infrastructure (ACI) Lösungen (C-SDN)
+Service Analyzer & Netzwerk Service Analyzer
+Produktübersicht
+SPEED-DSL.bis MINI Serie
+SPEED-DSL. bis Modems
+SPEED-DSL.bis Repeater
+SPEED-DSL.bis GigaSpeed Modem
+VDSL2 Extender
+ML600 Series
+ML230/ML2300
+XR239 Repeater
+Produktübersicht
+Optical Line Terminals
+DSLAMs
+ONTs (Optical Network Termination)
+Passive Produkte
+Produktübersicht
+Demarcation
+Aggregation
+Access und CPE
+Switching
+Backbone und Core
+Produkte
+Auf Basis technologischer Neuerungen lassen sich höhere Bandbreiten realisieren, neue Anforderungen umsetzen und vielfach Kosteneinsparungen für unsere Kunden erzielen.
+Hochverfügbare Rechenzentrumskopplung (DCI) und Access Netze mit Diensten bis zu 400 Gbit/s
+CWDM/DWDM/OADM/BWDM Übertragungstechnik
+Brocade Zertifizierung
+Hochskalierbare Lösung mit Verschlüsselung
+Mit bis zu 25,6 Tbit/s über eine Glasfaser
+Richtfunk - Moderne Funklösungen zur schnellen Realisierung von Standortverbindungen mit hohen Datenraten
+Hochperformante kabellose Datenanbindung
+Bandbreiten bis zu 10 Gbit/s volldublex
+Reichweiten bis zu 50 km
+Lizenzfreie und Lizenzierte Systeme
+AES 256 Verschlüsselung für hochsichere Verbindungen, Nachrüstoption für bestehende Verbindungen und Managed Services
+BSI-zugelassene Systeme
+Layer 2 Verschlüsselung
+Tamperschutz
+Konform zum BDSG
+Kompatible Transceiver für nahezu alle Systemhersteller
+Flexible Lösungen mit allen üblichen Formfaktoren
+Datenraten bis zu 100Gbit/s
+100% Funktionsgarantie auf kompatible Transceiver
+Konform zu MSA Standards
+Herstellerunabhängiges Managementsystem "Made in Germany"
+Netze automatisch inventarisieren
+überwachen & messen
+konsolidieren & automatisieren
+sichern & wiederherstellen
+visualisieren & reporten
+Symetrische G.SHDSL.bis+ Modems und Repeater
+Datenrate bis 15,2 Mbit/s pro DA
+Ethernet und zahlreiche serielle Schnittstellen
+Tischgeräte und gehärtete Industriegeräte
+Bündelung von bis zu 16 DA
+Repeater für Reichweiten bis zu 30 km
+FTTx und DSLAM Lösungen über Glasfaser und Kupfer
+Leistungsstarke Ultrabreitband-Zugangsnetzwerke mit intelligenter Aggregation
+GPON-, XG-PON-, XGS-PON-, GE- und 10-GE-Zugang
+POL, FTTH, FTTB und FTTC
+Spezifikationen für große, mittlere und kleine Umgebungen
+Carrier Ethernet und IP Netzwerke für Übertragung auf Layer 2 und Layer 3 Ebene
+Hochleistungsnetzwerke für anspruchsvolle Anwendungen
+Hohe Routing Kapazitäten für Schnittstellen bis zu nx 100G
+Features vom Backbone bis zum CPE
+Value Added Services
+Lösungen
+Übersicht - alle Lösungen
+Cisco ACI und WDM-Technologie - Synergien und Integration
+Glasfaserüberwachung 24x7 für aktive LWL und Dark Fiber
+400G QSFP-DD Transceiver Applikationen
+BNG-Router / End-to-End-MPLS-Lösungen
+FTTH Gesamtkonzept
+Herstellerübergreifende Orchestrierung
+L2BSA
+Next Generation Optical Backbone
+Rechenzentrumskopplung, Standortvernetzung & DCI
+Regionale Standortvernetzung
+Smarte Netze, IoT & LoRa Management
+Umbrella NMS & Automation für Carrier
+Verschlüsselung für Glasfaserverbindungen
+Produktübersicht
+10G Ethernet Verschlüsseler
+Fiber Monitoring und aktive Glasfaserüberwachung
+Produktübersicht
+Optical Line Terminals
+DSLAMs
+ONTs (Optical Network Termination)
+Produktübersicht
+Muxponder
+Transponderkarten
+Baugruppenträger
+Fiber Monitoring und aktive Glasfaserüberwachung
+Produktübersicht
+Muxponder
+Lizenzierter Richtfunk
+Lizenzfreier Richtfunk
+100M Ethernet Verschlüsseler
+1G Ethernet Verschlüsseler
+10G Ethernet Verschlüsseler
+40G Ethernet Verschlüsseler
+Transponderkarten
+Baugruppenträger
+Produktübersicht
+Muxponder
+100M Ethernet Verschlüsseler
+1G Ethernet Verschlüsseler
+10G Ethernet Verschlüsseler
+40G Ethernet Verschlüsseler
+Transponderkarten
+Fiber Monitoring und aktive Glasfaserüberwachung
+Lösungen
+Kundenorientierung und technologische Innovation sind für uns von strategischer Bedeutung. Der ständig steigende Bedarf an höheren Bandbreiten führt dazu, dass Anforderungen, die gestern noch nicht denkbar waren, morgen schon umgesetzt werden müssen.
+Synergien und Integration: ACI und WDM-Technologie
+Cisco ACI und die WDM-Technologie von Pan Dacom Direkt, SPEED-OTS-5000, lassen sich gut miteinander kombinieren. So vereinen Sie Automatisierungs- und Mikrosegmentierungs-Funktionalitäten mit einer robusten und ausfallsicheren optischen Übertragungstechnologie.
+Überwachung von eigenen Glasfasernetzen oder gemieteter Dark Fiber Strecken
+Die Live-Glasfaserüberwachungs-Lösung ermöglicht Ihnen die 24x7 Überwachung von Glasfaserstrecken auf dem optischen Layer.
+400G Transceiver Technologie - die Highlights auf einen Blick
+Ultra-Breitband stellt Internet Access Provider vor neue Herausforderungen
+Mit dem Aufschwung neuer Technologien wie 4K-Video-Streaming, Live-Video, Virtual Reality (VR) und Internet of Things (IoT) wächst der Netzwerkverkehr, insbesondere der Videoverkehr, exponenziell.
+Um den Glasfaserausbau erfolgreich und wirtschaftlich attraktiv zu gestalten, müssen ganzheitliche Lösungen betrachtet werden, die die Hardware, die Erschließung und die Netzvermarktung in betracht ziehen und in einem Gesamtkonzept zusammen führen.
+Zentrale und automatisierte Überwachung und Konfiguration unterschiedlicher Hardware von verschiedenen Systemherstellern
+Seit Anfang 2017 bietet die Deutsche Telekom AG das Vorleistungsprodukt Layer-2 Bitstream Access (L2BSA, auch: L2-BSA) deutschlandweit an. Für lokal agierende Internet Anbieter ergibt sich hierdurch die Möglichkeit, Produkte auf Vectoring-Geschwindigkeit anbieten zu können.
+Viele Netzbetreiber sowie Firmen mit eigenem Backbone stehen vor einem Umbruch. Rasante Veränderungen zwingen die Betreiber ihre Konzepte für den eigenen optischen Backbone zu überdenken oder zu erweitern.
+Hochverfügbare Rechenzentrumskopplung
+Unser Komplett-Service-Angebot
+Anbindung von Außenstandorten an eine Zentrale über Glasfaserinfrastruktur
+Rollout und Überwachung von neuen Netzen mit Sensoren, IoT Geräten, Maschinen und Robotern
+Gesamtsicht auf das Netzwerk durch Konsolidierung der Element Manager und Kosteneinsparungen bis zu 70%
+SPEED-MUX 800G: Voller Datendurchsatz mit hardwarebasierter AES 256 Bit Layer 1 Verschlüsselung.
+Technologien
+Übersicht - alle Technologien
+WDM und xWDM | Grundlagen, Funktionen und Anwendungen
+Richtfunk Grundlagen | Was ist Lizenzfreier und Lizensierter-Richtfunk
+DCI (Data Center Interconnect) | Grundlagen und Funktionsweise
+Carrier Ethernet | Grundlagen
+Verschlüsselung für Netzwerke | Grundlagen
+FTTx | Grundlagen
+Technologien
+Technischer Fortschritt und neue Technologien entwickeln sich heutzutage so rasant wie nie. Einige von ihnen haben das Potenzial, unsere Gesellschaft umfassend zu verändern und neue Ansätze wie z.B. künstliche Intelligenz, Big Data, IoT, autonome Netze etc. werden unsere Zukunft bestimmen.
+WDM ermöglicht die Mehrfach-Nutzung bestehender Glasfaserinf

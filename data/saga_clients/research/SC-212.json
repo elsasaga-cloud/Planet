@@ -1,0 +1,76 @@
+{
+ "code": "SC-212",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（essentiatechnologies.com，快照 2026-10-21）",
+ "summary": "英国 Essentia Technologies（软件/IT 外包公司「Provide us with a job description, we will find the best suited team」；表内「软件公司，在用 Cisco/Netgear 的交换机，看看有没有替换型号的可能，价格低」；KP Chaudhry Nazeer Hussain（Chairman））；群发 17 次无回复。",
+ "type": "软件外包公司（终端用户，自用交换机）",
+ "size": "",
+ "brands_seen": [
+  "Cisco",
+  "Netgear"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Essentia Technologies；品类词 工业自动化 / OT 网络",
+   "quote": "Get top-notch quality with the right cost and the right experts. Streamline your business tasks with us",
+   "url": "https://essentiatechnologies.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "软件公司，在用Cisco/Netager的交换机 看看有没有替换一些型号的可能，价格低",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Essentia 定位",
+   "quote": "Home - Essentia Technologies ; Provide us with a job description ; We will find the best suited team for you",
+   "url": "https://essentiatechnologies.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "软件公司自用 Cisco/Netgear",
+   "quote": "软件公司，在用Cisco/Netager的交换机 看看有没有替换一些型号的可能，价格低",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "非渠道终端用户（软件外包公司自用交换机），17 次无回复；c_sub=品类不符/终端用户",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "英国",
+  "other": "官网 essentiatechnologies.com，语言 en-US，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "软件 / IT 外包服务（英国）"
+ ],
+ "channels": {
+  "role": "软件外包公司（终端用户，自用交换机）",
+  "region": "英国",
+  "contact": "nazeer.chaudhry@essentiatechnologies.com"
+ },
+ "signals": [
+  "官网：Home - Essentia Technologies ; Get top-notch quality with the right cost and the right experts ; Provide us with a job description ; We will find the best suited team for you",
+  "表内：软件公司，在用 Cisco/Netager 的交换机 看看有没有替换一些型号的可能，价格低；KP Chaudhry Nazeer Hussain / Chairman"
+ ],
+ "risks": [
+  "非渠道终端用户（自用少量交换机）；17 次无回复"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 25,
+  "why": "非渠道终端用户（软件外包公司自用 Cisco/Netgear），17 次无回复 → 改 C"
+ },
+ "email_hook": "（不发送：终端用户/非渠道）"
+}

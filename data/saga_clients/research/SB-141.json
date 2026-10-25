@@ -1,142 +1,114 @@
 {
  "code": "SB-141",
- "name_official": "",
+ "name_official": "Agile Network（菲律宾宿务；表内域名 agilenetworks.com 误配）",
  "researched_at": "2026-10-21",
- "website_status": "在线（ccontrols.de，快照 2026-10-21）",
- "summary": "德国 Contemporary Controls（美国 Contemporary Controls 德国公司；楼宇自动化方案（BACnet）与定制设计制造，1975 年起；自有 CTRLink 系列交换机 EISK5-GT / EISK8P-GT（PoE）、EIPE PoE 注入；表内「工业 FS / MC / PoE / 周边，自己的 logo」「可以着重跟一下」）；群发 8 次无回复。",
- "type": "楼宇自动化品牌商（自有 CTRLink 交换机线，OEM 采购）",
+ "website_status": "表内域名误配：agilenetworks.com = Agile Network Builders LLC（美国俄亥俄 ISP），非本客户；本客户无已知官网",
+ "summary": "菲律宾宿务的小型网络公司 Agile Network（CEO Neil Rule，gmail + WA，地址 Pari-an, Cebu）。表内兴趣「工业品」，2024-08 对 10G MC 回「单多模价格一样吗？」；20 次推送 1 次实质回复。表内域名 agilenetworks.com 实为美国俄亥俄 ISP（已标记误配）。B 慢跟 25%。",
+ "type": "",
  "size": "",
  "brands_seen": [],
  "evidence": [
   {
-   "kind": "官网快照",
-   "claim": "官网标题：Contemporary Controls；品类词 工业自动化 / OT 网络 / 网络交换 / PoE",
-   "quote": "Innovative Lösungen；für Gebäudeautomation；Auftragsanfertigungen；Kundenspezifisches Design und Fertigung；Seit 1975；Erfahrung, der Sie vertrauen können",
-   "url": "https://ccontrols.de/",
+   "kind": "第三方",
+   "claim": "agilenetworks.com 归属（排除）",
+   "quote": "Agile Network Builders LLC, founded in 2010, is a leading provider of telecommunications solutions… hybrid fiber wireless broadband data networks（Ohio, USA）",
+   "url": "https://agilenetworks.com/company/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "工业FS MC POE 周边产品 自己的logo",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "Contemporary Controls 楼宇自动化与定制制造",
-   "quote": "Innovative Lösungen für Gebäudeautomation ; Auftragsanfertigungen ; Kundenspezifisches Design und Fertigung ; Seit 1975",
-   "url": "https://ccontrols.de/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "工业 FS MC PoE 周边，自己的 logo，可着重跟",
-   "quote": "工业FS MC POE 周边产品 自己的logo；可以着重跟一下",
+   "claim": "表内地址与联系人",
+   "quote": "Neil Rule / CEO；Address: PH, CEBU, UNIT 202 HTY BLDG., 57 J.C. ZAMORA ST., PARI-AN 6000；2024.8.14 10G MC → 单多模价格一样吗？",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Neil Rule",
+   "role": "CEO（表内）",
+   "email": "ph.agilenetwork@gmail.com",
+   "phone": "+63 917 322 5477（WA 已加）",
+   "source": "用户 Clients 表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（域名误配判定 + 需求映射）"
  },
  "company_facts": {
-  "hq": "德国",
-  "other": "官网 ccontrols.de，语言 de，快照状态 ok；角色判定来源：用户表"
+  "legal_name": "待核（表内 Agile Network / Agile Networks）",
+  "founded": "待核",
+  "hq": "Unit 202 HTY Bldg., 57 J.C. Zamora St., Pari-an, Cebu City 6000, Philippines（表内地址）",
+  "size": "待核（小型）",
+  "other": "联系人 Neil Rule / CEO，+63 917 322 5477（WA 已加），ph.agilenetwork@gmail.com"
  },
  "business_lines": [
-  "楼宇自动化（BACnet 路由/网关）",
-  "CTRLink 工业交换机 / PoE 注入（自有品牌）"
+  "待核（表内：工业网络产品采购 / 10G 光纤收发器询价）"
  ],
+ "products_seen": [],
  "channels": {
-  "role": "楼宇自动化品牌商（自有 CTRLink 交换机线，OEM 采购）",
-  "region": "德国",
-  "contact": "info@ccontrols.de"
+  "contact": "Neil Rule（CEO）ph.agilenetwork@gmail.com，+63 917 322 5477（WA 已加）"
  },
  "signals": [
-  "页面 /ctrlink/poe.htm、/ctrlink/eiskpoe.htm、/ctrlink/switches.htm、/sd/switchinfo.htm；站内 EISK5-GT / EISK8P-GT / EIPE-1 / EIPE-2",
-  "官网：Innovative Lösungen für Gebäudeautomation；Auftragsanfertigungen – Kundenspezifisches Design und Fertigung；Seit 1975"
+  "2024-08-14 问 10G MC 单模/多模是否同价（有具体项目在算料）"
  ],
  "risks": [
-  "楼宇自动化（BACnet）生态：对 24 VAC 供电/认证细节有要求，需核规格",
-  "8 次无回复，仅 info@；用户表「可以着重跟一下」"
+  "无企业域名/官网，公司实体规模不明",
+  "10G MC 不在 Saga 价目（需向 SmartByte 索价）"
  ],
  "saga_fit": {
   "p1": "STI-288GP",
-  "tier": 30,
-  "why": "自有 EISK8P-GT（8 口千兆 PoE DIN 非管理）→ 工业非管理 8 PoE + 2 SFP STI-288GP（$62.2 @30%）贴 CTRLink 标；EISK5-GT → STI-050GE（$18.5）；PoE 注入 Saga 无"
+  "tier": 25,
+  "why": "表内兴趣「工业品」→ 工业 8 PoE+ 2 SFP 起手；其 10G MC 询价需另向 SmartByte 索价（Saga 价目无 10G MC）"
  },
- "email_hook": "For the CTRLink EISK5-GT and EISK8P-GT DIN-rail switches, we can be a second ODM source (5-GE, 8-PoE + 2 SFP, −40~75 °C, 24 VAC/DC option on request; managed versions on a Marvell platform) from small lots under your label, CE/RoHS — which model would you dual-source first?",
- "products_seen": [
-  {
-   "brand": "Contemporary Controls（自有 CTRLink）",
-   "model": "EISK8P-GT",
-   "spec": "DIN 8 口千兆 PoE 非管理",
-   "saga": "STI-288GP",
-   "url": "https://www.ccontrols.de/ctrlink/eiskpoe.htm",
-   "date": "2026-10-21"
-  },
-  {
-   "brand": "Contemporary Controls（自有 CTRLink）",
-   "model": "EISK5-GT",
-   "spec": "DIN 5 口千兆非管理",
-   "saga": "STI-050GE",
-   "url": "https://ccontrols.de/",
-   "date": "2026-10-21"
-  }
- ],
+ "email_hook": "You asked last year whether our 10G media converter is priced the same for single-mode and multimode — for the industrial DIN-rail switches you were also looking at, the 8-port PoE + 2 SFP model is our most common starter; want the current price sheet?",
+ "site_mismatch": "agilenetworks.com 为美国俄亥俄州 Agile Network Builders LLC（2010 年成立，混合光纤/无线宽带 ISP，总裁 Bob Mangum），与表内菲律宾宿务 Agile Network（CEO Neil Rule，ph.agilenetwork@gmail.com，地址 Unit 202 HTY Bldg., 57 J.C. Zamora St., Pari-an, Cebu 6000）不是同一公司；快照内容不采用",
  "mail_review": {
   "binding": {
-   "level": "未触达（A 邮箱 16 封 2025→2026，1 次记录打开，0 回；收件 info@ccontrols.de；主题多为「10G Enterprise SFP Switch、16 Port Ethernet Switch」；Elsa 箱：`to:.de` 穷举 29 条（2026-10-25，锚批 Bcc 头已读）未见 ccontrols.de → Elsa 箱从未发过本户，往来只在 S/A 箱（去 16 / 来 0）（第 74 批(f)））",
-   "type": "楼宇自动化品牌商（自有 CTRLink 交换机线，OEM 采购）",
-   "sieve": "1~2（1 次打开）",
-   "stop": "只打通用邮箱，无记录打开",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "DE 主攻（四主）",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 16，Opened 标签 1（Simon 群发追踪）；用户表：「工业FS MC POE 周边产品 自己的logo」；研究档 risks：楼宇自动化（BACnet）生态：对 24 VAC 供电/认证细节有要求，需核规格"
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「Neil Rule / CEO；Address: PH, CEBU, UNIT 202 HTY BLDG., 57 J.」；Elsa 箱：`to:agilenetworks.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(n)））",
+   "type": "—",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "不动（非主攻区；J5：有证据再动）",
+   "lane": "菲律宾 非主攻",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 0；用户表：「Neil Rule / CEO；Address: PH, CEBU, UNIT 202 HTY BLDG., 57 J.C. ZAMORA ST., PARI-」；研究档 risks：无企业域名/官网，公司实体规模不明"
   },
-  "situation": "德国 Contemporary Controls（美国 Contemporary Controls 德国公司；楼宇自动化方案（BACnet）与定制设计制造，1975 年起；自有 CTRLink 系列交换机 EISK5-GT / EISK8P-GT（PoE）、EIPE PoE 注入；表内「工业 FS / MC / PoE / 周边，自己的 logo」「可以着重跟一下」）；群发 8 次无回复。",
-  "need": "自有 EISK8P-GT（8 口千兆 PoE DIN 非管理）→ 工业非管理 8 PoE + 2 SFP STI-288GP（$62.2 @30%）贴 CTRLink 标；EISK5-GT → STI-050GE（$18.5）；PoE 注入 Saga 无",
-  "breakpoint": "楼宇自动化（BACnet）生态：对 24 VAC 供电/认证细节有要求，需核规格",
+  "situation": "菲律宾宿务的小型网络公司 Agile Network（CEO Neil Rule，gmail + WA，地址 Pari-an, Cebu）。表内兴趣「工业品」，2024-08 对 10G MC 回「单多模价格一样吗？」；20 次推送 1 次实质回复。表内域名 agilenetworks.com 实为美国俄亥俄 ISP（已标记误配）。B 慢跟 25%。",
+  "need": "表内兴趣「工业品」→ 工业 8 PoE+ 2 SFP 起手；其 10G MC 询价需另向 SmartByte 索价（Saga 价目无 10G MC）",
+  "breakpoint": "无企业域名/官网，公司实体规模不明",
   "saga_now": {
    "p1": "STI-288GP",
-   "tier": 30,
-   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-18 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-06-06 $300（48 Port PoE Managed Switch）、2025-09-25 $280（10G Enterprise SFP Switch）",
-   "why": "自有 EISK8P-GT（8 口千兆 PoE DIN 非管理）→ 工业非管理 8 PoE + 2 SFP STI-288GP（$62.2 @30%）贴 CTRLink 标；EISK5-GT → STI-050GE（$18.5）；PoE 注入 Saga 无。已打开的主题（1/16 封有打开记录）：「Mini Industrial PoE Switch」(2025-07-14) → 读者兴趣偏「工业」；与 P1 同类，继续",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "表内兴趣「工业品」→ 工业 8 PoE+ 2 SFP 起手；其 10G MC 询价需另向 SmartByte 索价（Saga 价目无 10G MC）",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开",
-   "one_question": "For the CTRLink EISK5-GT and EISK8P-GT DIN-rail switches, we can be a second ODM source (5-GE, 8-PoE + 2 SFP, −40~75 °C, 24 VAC/DC option on request; managed versions on a Marvell platform) from small lots under your label, CE/RoHS — which model would you dual-source first?"
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
   },
   "facts": [
-   {
-    "date": "2026-09-23",
-    "dir": "去",
-    "who": "A 群发",
-    "quote": "10G Enterprise SFP Switch、16 Port Ethernet Switch",
-    "why": "16 封 / 1 次打开 / 0 回｜首封 2025-02-25 → 末封 2026-09-23（16 去 / 0 来）",
-    "k": "gmail_digest"
-   },
    {
     "date": "2026-10-21",
     "dir": "用户表",
     "who": "Simon",
-    "quote": "工业FS MC POE 周边产品 自己的logo",
+    "quote": "Neil Rule / CEO；Address: PH, CEBU, UNIT 202 HTY BLDG., 57 J.C. ZAMORA ST., PARI-AN 6000；2024.8.14 10G MC → 单多模价格一样吗？",
     "why": "表内备注",
     "k": "用户表"
    }
   ],
-  "proof_gaps": [],
+  "proof_gaps": [
+   "无邮件往来",
+   "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+  ],
   "draft_en": null,
   "as_of": "2026-10-24"
  }

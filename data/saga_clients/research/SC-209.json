@@ -1,0 +1,75 @@
+{
+ "code": "SC-209",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（htnetglobal.com，快照 2026-10-21）",
+ "summary": "HT Networks / Hi-Tech Networks Technology Ltd.（表内澳大利亚；站点为云管理平台、无线漫游、多 WAN、PoE 管理工业交换机页，ISO9001、OEM/ODM 字样；表内「商业 PoE / 工业交换机；深圳有办事处」）；群发 14 次无回复。",
+ "type": "中国厂商海外站（深圳办事处，OEM/ODM 自称）",
+ "size": "",
+ "brands_seen": [
+  "Ubiquiti"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：HT Networks；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "Hi- Tech Networks Technology Ltd.；Intelligent multi-service cloud management platform；Wireless Seamless Roaming；Load Balancing；Centralized Management Control；Multi-WAN Management",
+   "url": "https://htnetglobal.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "商业POE 工业交换机 深圳有办事处；https://htnetglobal.com/poe-managed-industrial-switch.html",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "HT Networks 首页",
+   "quote": "HT Networks | Home ; Hi- Tech Networks Technology Ltd. ; Intelligent multi-service cloud management platform ; Cloud Management ; ISO9001",
+   "url": "https://htnetglobal.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "深圳有办事处",
+   "quote": "商业POE 工业交换机 深圳有办事处；可以多跟进一下",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "同行：中国厂商海外站（HT Networks，深圳办事处、OEM/ODM 自称），非渠道客户；c_sub=中国厂商海外办事处",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "澳大利亚",
+  "other": "官网 htnetglobal.com，语言 en，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "网络设备（云管理 / PoE / 工业交换机）"
+ ],
+ "channels": {
+  "role": "中国厂商海外站（深圳办事处，OEM/ODM 自称）",
+  "region": "澳大利亚",
+  "contact": "hello@htnetglobal.com"
+ },
+ "signals": [
+  "首页：Hi- Tech Networks Technology Ltd. ; Intelligent multi-service cloud management platform ; Cloud Management；kw oem 3 / odm 3；站内 ISO9001",
+  "表内：商业 PoE 工业交换机；深圳有办事处；备注 URL https://htnetglobal.com/poe-managed-industrial-switch.html"
+ ],
+ "risks": [
+  "同行：中国厂商（深圳）海外站，自称 OEM/ODM，非海外渠道客户；14 次无回复"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 30,
+  "why": "站点特征（ISO9001、OEM/ODM、云管理平台）+ 表内「深圳有办事处」→ 中国厂商海外门面 = 同行，非渠道 → 改 C"
+ },
+ "email_hook": "（不发送：同行/中国厂商海外站）"
+}

@@ -2,79 +2,139 @@
  "code": "SB-555",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "在线（omnitron-systems.com，快照 2026-10-21）",
- "summary": "美国 Omnitron Systems（工业 PoE 交换机与 MC 自研制造商（加州 Irvine）；博客多篇工业 PoE 选型文章；KP Arie G（CEO）、Sankar R（VP Engineering and Product Management）；表内「工业 switch」）；群发 9 次无回复。",
- "type": "工业交换机/MC 自研制造商（同行）",
+ "website_status": "在线（tacel.ca，快照 2026-10-21）",
+ "summary": "加拿大 Tacel（交通管理、道路安全与智能交通系统（ITS）方案商，安大略/魁北克/阿尔伯塔/BC 四办公室；表内「Etherwan 的工业 FS」「可以多跟进一下」；KP Gil Marques（President）、George Soares（General Manager）、Gabor Szabo）；群发 8 次无回复。",
+ "type": "ITS/交通方案集成商（加拿大，EtherWAN 在用）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "EtherWAN"
+ ],
  "evidence": [
   {
    "kind": "官网快照",
-   "claim": "官网标题：You are being redirected...",
-   "quote": "",
-   "url": "https://omnitron-systems.com/",
+   "claim": "官网标题：Tacel - Traffic Management & Road Safety Solutions",
+   "quote": "Tacel is a Canadian leader in providing traffic management, road safety, and intelligent transportation systems.",
+   "url": "https://www.tacel.ca/en",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
    "claim": "表内兴趣/备注",
-   "quote": "工业switch",
+   "quote": "Etherwan的工业FS",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   },
   {
    "kind": "官网快照",
-   "claim": "官网标题：You are being redirected...；品类词 网络交换 / PoE",
-   "quote": "",
-   "url": "https://omnitron-systems.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "Omnitron 博客",
-   "quote": "omnitron-systems.com ; /blog/omnitron-industrial-poe-switches-overview-powering-networks-in-harsh-env…",
-   "url": "https://omnitron-systems.com/",
+   "claim": "Tacel 定位",
+   "quote": "Tacel - Traffic Management & Road Safety Solutions ; Tacel is a Canadian leader in providing traffic management, road safety, and intelligent transportation systems",
+   "url": "https://www.tacel.ca/en",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "工业 switch",
-   "quote": "工业switch",
+   "claim": "EtherWAN 的工业 FS",
+   "quote": "Etherwan的工业FS；可以多跟进一下",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
- "kp": [],
- "grade_override": "C",
- "override_reason": "同行：自研自产工业交换机/MC 厂商；c_sub=同行/自研",
+ "kp": [
+  {
+   "name": "Gabor Szabo",
+   "title": "（职务待核）",
+   "email": "gabor.szabo@tacel.ca",
+   "phone": "",
+   "source": "用户表"
+  },
+  {
+   "name": "Gil Marques",
+   "title": "President",
+   "email": "gil.marques@tacel.ca",
+   "phone": "",
+   "source": "用户表"
+  },
+  {
+   "name": "George Soares",
+   "title": "General Manager",
+   "email": "",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "美国",
-  "other": "官网 omnitron-systems.com，语言 ?，快照状态 ok；角色判定来源：官网文案"
+  "hq": "加拿大",
+  "other": "官网 tacel.ca，语言 en，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "工业 PoE 交换机 / MC（自有品牌 Omnitron）"
+  "交通管理 / 道路安全 / ITS 方案"
  ],
  "channels": {
-  "role": "工业交换机/MC 自研制造商（同行）",
-  "region": "美国",
-  "contact": "info@omnitron-systems.com"
+  "role": "ITS/交通方案集成商（加拿大，EtherWAN 在用）",
+  "region": "加拿大",
+  "contact": "gabor.szabo@tacel.ca、gil.marques@tacel.ca"
  },
  "signals": [
-  "页面 /blog/omnitron-industrial-poe-switches-overview-powering-networks-in-harsh-env…、/blog/how-do-you-choose-between-a-commercial-vs-industrial-poe-switch",
-  "表内：工业 switch；KP Arie G / CEO；Sankar R / VP Engineering and Product Management"
+  "官网：Tacel is a Canadian leader in providing traffic management, road safety, and intelligent transportation systems；首页 Ontario Office ; Quebec Office ; Alberta Office ; British Columbia Office；站内品牌 EtherWAN",
+  "表内：Etherwan 的工业 FS；可以多跟进一下；KP Gil Marques / President；George Soares / General Manager；Gabor Szabo"
  ],
  "risks": [
-  "同行：自研自产工业 PoE 交换机与 MC；9 次无回复"
+  "交通路侧场景常要求 NEMA TS2 / 公共项目指定品牌（EtherWAN 既定）；公共部门采购口径（守界备注：仅通用交换机）",
+  "8 次无回复 → 改向 Gabor Szabo 具名首触（职务待核）"
  ],
  "saga_fit": {
-  "p1": null,
-  "tier": 30,
-  "why": "Omnitron 自研自产工业交换机与 MC（同行），非 ODM 采购方 → 改 C"
+  "p1": "STI-288GPM",
+  "tier": 25,
+  "why": "路侧机柜工业 PoE（现 EtherWAN）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）/ 非 PoE STI-280GE（$48.6）；NEMA TS2 认证 Saga 无（注明）"
  },
- "email_hook": "（不发送：同行自研）"
+ "email_hook": "Gabor, for the industrial switches in your roadside and intersection cabinets, we supply Marvell-based DIN-rail 8-PoE + 2 SFP and 8-GE + 2 SFP managed units (−40~75 °C, redundant input, FCC/CE/RoHS) from single units, EXW USD — which configuration do your ITS projects standardise on alongside EtherWAN?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（1 封自动回复；Elsa 箱：`to:.ca` 穷举 13 条（2026-10-25，锚批 Bcc 头已读）未见 tacel.ca → Elsa 箱从未发过本户，往来只在 S/A 箱（去 19 / 来 1）（第 74 批(f)））",
+   "type": "加拿大 ITS/交通集成（Tacel；EtherWAN 在用）",
+   "sieve": "0",
+   "stop": "自动回复/机器人，无人工回复",
+   "revive": "不动；备用具名邮箱：yassine.benamghar@tacel.ca（自动回复指定代理人 Yassine Benamghar，2025-01-16，k=3f49bc512bb93c92；从未发过）",
+   "lane": "CA",
+   "cadence": "不动",
+   "evidence": "k=3f49bc512bb93c92"
+  },
+  "situation": "来信全部为机器回复；无人读信或无人回信。",
+  "need": "—",
+  "breakpoint": "—",
+  "saga_now": {
+   "p1": "—",
+   "tier": 25,
+   "price": "—；群发里他已看到的价（续）：2026-08-18 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-06-25 $300（48 Port PoE Managed Switch）、2025-09-23 $280（10G Enterprise SFP Switch）",
+   "why": "—",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—；备用具名邮箱 → yassine.benamghar@tacel.ca",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2025-01-16",
+    "dir": "来",
+    "who": "自动回复",
+    "quote": "自动回复里给出代理人/同事邮箱 yassine.benamghar@tacel.ca（Yassine Benamghar）",
+    "why": "群发一直发给休假/离职的人；这个地址从未发过，是换具名邮箱的现成入口",
+    "k": "3f49bc512bb93c92"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

@@ -1,0 +1,73 @@
+{
+ "code": "SC-027",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（edgelab.eu，快照 2026-10-21）",
+ "summary": "意大利 Edgelab Srl（AUV 水下机器人、海洋技术与传感器；阿里巴巴 RFQ「收发器 FC 光口」；KP Michele Cocco）；表内未跟进。",
+ "type": "海洋机器人厂商（终端用户，光模块 RFQ）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Edgelab",
+   "quote": "AUVs, underwater robotics, marine technologies and sensors.",
+   "url": "https://www.edgelab.eu/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "收发器 FC光口 / from: 阿里巴巴RFQ",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Edgelab 定位",
+   "quote": "Edgelab ; AUVs, underwater robotics, marine technologies and sensors",
+   "url": "https://www.edgelab.eu/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "收发器 FC 光口 RFQ",
+   "quote": "收发器 FC光口 / from: 阿里巴巴RFQ",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "非渠道终端用户 + 光模块 RFQ（Saga 不供）；c_sub=品类不符/终端用户",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "意大利",
+  "other": "官网 edgelab.eu，语言 en-US，快照状态 ok；角色判定来源：待核"
+ },
+ "business_lines": [
+  "AUV / 水下机器人 / 海洋传感器（意大利）"
+ ],
+ "channels": {
+  "role": "海洋机器人厂商（终端用户，光模块 RFQ）",
+  "region": "意大利",
+  "contact": "edgelab@edgelab.eu"
+ },
+ "signals": [
+  "官网：Edgelab ; AUVs, underwater robotics, marine technologies and sensors ; U_Tracker ® ; USV_CAT",
+  "表内：收发器 FC 光口 / from: 阿里巴巴 RFQ；KP Michele Cocco"
+ ],
+ "risks": [
+  "非渠道终端用户；RFQ 品类光收发器 Saga 不供（Q-32）"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 25,
+  "why": "非渠道终端用户（水下机器人），RFQ 为 FC 光收发器（Saga 不供）→ 改 C"
+ },
+ "email_hook": "（不发送：终端用户/品类不供）"
+}

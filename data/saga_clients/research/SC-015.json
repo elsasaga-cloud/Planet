@@ -1,0 +1,73 @@
+{
+ "code": "SC-015",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（schnetzler.ch，快照 2026-10-21）",
+ "summary": "瑞士 Schnetzler Metallbau AG（Laufenburg 金属与玻璃建筑施工企业；2015 年阿里巴巴 RFQ「10G 网交换机」；KP Roland Schnetzler；邮箱 gmx.org 免费邮箱）；表内未跟进。",
+ "type": "金属建筑施工企业（终端用户，十年前 RFQ）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Schnetzler Metallbau AG, Laufenburg",
+   "quote": "Erstklassige Lösungen aus Metall und Glas；Schnetzler Metallbau AG；Unsere Fakten；Wie wir arbeiten",
+   "url": "https://www.schnetzler.ch/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "10G网交换机；2015年使用国际站；10G网交换机 / from: 阿里巴巴RFQ",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Schnetzler 定位",
+   "quote": "Startseite - Schnetzler Metallbau AG, Laufenburg ; Erstklassige Lösungen aus Metall und Glas",
+   "url": "https://www.schnetzler.ch/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "10G 交换机 RFQ 2015",
+   "quote": "2015年使用国际站 / 10G网交换机 / from: 阿里巴巴RFQ",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "非渠道终端用户（金属建筑公司），2015 年陈旧 RFQ，免费邮箱；c_sub=品类不符/终端用户",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "瑞士",
+  "other": "官网 schnetzler.ch，语言 de，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "金属 / 玻璃建筑施工（瑞士）"
+ ],
+ "channels": {
+  "role": "金属建筑施工企业（终端用户，十年前 RFQ）",
+  "region": "瑞士",
+  "contact": "othmar@gmx.org"
+ },
+ "signals": [
+  "官网：Startseite - Schnetzler Metallbau AG, Laufenburg ; Erstklassige Lösungen aus Metall und Glas",
+  "表内：10G 网交换机 / from: 阿里巴巴 RFQ；2015 年使用国际站；KP Roland Schnetzler"
+ ],
+ "risks": [
+  "非渠道终端用户；RFQ 为 2015 年（陈旧）；联系邮箱 gmx.org 免费邮箱"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 20,
+  "why": "非渠道终端用户（金属建筑公司）、2015 年陈旧 RFQ、免费邮箱 → 改 C"
+ },
+ "email_hook": "（不发送：终端用户/陈旧线索）"
+}

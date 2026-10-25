@@ -2,40 +2,46 @@
  "code": "SB-622",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "在线（t1nexus.com，快照 2026-10-21）",
- "summary": "美国 T1 Nexus（OEM 兼容光模块与线缆品牌（ISO/TL9000，终身保修），兼售 MC（18 处）与交换机（T1-DS2024G）；表内「MC 光路的」）；表内 3 次跟进无回复。",
- "type": "兼容光模块/线缆品牌商（美国，MC/交换机副线）",
+ "website_status": "在线（market-telecom.kz，快照 2026-10-21）",
+ "summary": "哈萨克斯坦 Авантаж Маркет / market-telecom.kz（多品牌 IT 基础设施与安防设备供应商：办公/企业/仓库/住宅项目；站内 TP-Link 38 / Dahua 42 / Hikvision 35 / Ubiquiti 18 / MikroTik 6，博客 PoE/ONV；表内「ONV、Witech、Planet 及其他牌子；工业 FS / SFP / MC」）；群发 18 次无回复。",
+ "type": "多品牌 IT/安防设备供应商（哈萨克斯坦）",
  "size": "",
  "brands_seen": [
-  "Cisco",
-  "Juniper"
+  "ONV",
+  "Witech",
+  "Planet",
+  "TP-Link",
+  "Dahua",
+  "Hikvision",
+  "Ubiquiti",
+  "MikroTik"
  ],
  "evidence": [
   {
    "kind": "官网快照",
-   "claim": "官网标题：Affordable OEM Transceivers and OEM Cable；品类词 数据中心 / 企业 IT / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
-   "quote": "Access cost-effective, quality-checked next-gen switches, compatible coded oem transceivers, oem cables, and advanced end-user and production coding solutions.",
-   "url": "https://t1nexus.com/",
+   "claim": "官网标题：Сетевое и телекоммуникационное оборудование в Казахстане；品类词 电信 / FTTH / ISP 设备 / 无线 / WiFi / 数据中心 / 企业 IT / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "«Авантаж Маркет» — мультибрендовый поставщик оборудования для IT-инфраструктуры и систем безопасности. Решения для офисов, предприятий, складов, ЖК и коммерческих объектов с официальной гарантией и доставкой по Казахстану.",
+   "url": "https://market-telecom.kz/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
    "claim": "表内兴趣/备注",
-   "quote": "MC 光路的",
+   "quote": "ONV Witech planet 以及其他牌子 工业FS SFP MC",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   },
   {
    "kind": "官网快照",
-   "claim": "T1 Nexus 定位",
-   "quote": "Affordable OEM Transceivers and OEM Cable ; quality-checked next-gen switches, compatible coded oem transceivers ; /product/t1-ds2024g/",
-   "url": "https://t1nexus.com/",
+   "claim": "多品牌 IT 基础设施与安防设备供应商",
+   "quote": "«Авантаж Маркет» — мультибрендовый поставщик оборудования для IT-инфраструктуры и систем безопасности.",
+   "url": "https://market-telecom.kz/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "MC 光路的",
-   "quote": "MC 光路的",
+   "claim": "ONV / Witech / Planet；工业 FS / SFP / MC",
+   "quote": "ONV Witech planet 以及其他牌子；工业FS SFP MC",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
@@ -43,78 +49,79 @@
  "kp": [],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "美国",
-  "other": "官网 t1nexus.com，语言 en-US，快照状态 ok；角色判定来源：官网文案"
+  "hq": "哈萨克斯坦",
+  "other": "官网 market-telecom.kz，语言 ru，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "兼容光模块 / 线缆 / MC / 交换机（自有品牌 T1）"
+  "IT 基础设施 / 安防设备多品牌供应"
  ],
  "channels": {
-  "role": "兼容光模块/线缆品牌商（美国，MC/交换机副线）",
-  "region": "美国",
-  "contact": "info@t1nexus.com"
+  "role": "多品牌 IT/安防设备供应商（哈萨克斯坦）",
+  "region": "哈萨克斯坦",
+  "contact": "info@market-telecom.kz"
  },
  "signals": [
-  "官网：Access cost-effective, quality-checked next-gen switches, compatible coded oem transceivers, oem cables ; ISO and TL9000 Quality with a Lifetime Warranty；页面 /product/t1-ds2024g/、/product/t1-sfp-1g-lx/；kw media converter 18 / sfp 25 / cable 83",
-  "表内：MC 光路的"
+  "官网：мультибрендовый поставщик оборудования для IT-инфраструктуры и систем безопасности",
+  "博客 /blog/poe-onv、/blog/4k-switch-poe；站内 kw：poe 223"
  ],
  "risks": [
-  "主业兼容光模块（Saga 不供），MC/交换机为副线；3 次无回复，仅 info@"
+  "非主攻区（T5）；中亚物流/结算需按单核",
+  "多品牌供应商：白牌同质化；18 次无回复，无具名 KP"
  ],
  "saga_fit": {
-  "p1": "STI-110GE",
-  "tier": 30,
-  "why": "T1 标 MC → 工业千兆 MC STI-110GE（$24.3 @30%）、工业 PoE MC STI-111GP（$30.1）；T1 标接入交换机 24 GE + 4×10G STC-424XGGM（$138.0）；光模块/线缆 Saga 不供"
+  "p1": "STC-28DGGPM",
+  "tier": 20,
+  "why": "在售 ONV / Witech / Planet → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）对位 ONV/Planet 8 口 PoE；工业位 STI-288GP（$57.4）"
  },
- "email_hook": "For the media converters and access switches sold under the T1 label alongside your optics, we can supply gigabit/PoE MCs and Marvell-based 24-GE + 4×10G L2+ switches in your packaging from small lots, FCC/CE/RoHS — which MC configuration do your data-center and telecom customers order most?",
+ "email_hook": "Alongside the ONV and Planet PoE switches you carry, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and DIN-rail industrial PoE models from small lots, EXW — which band moves more for your projects, commercial or industrial PoE?",
  "mail_review": {
   "binding": {
-   "level": "未触达（A/S 邮箱 8 封 2024→2026，无记录打开，0 回；收件 info@t1nexus.com；主题多为「Industrial PoE Switch、10G Enterprise SFP Switch」；Elsa 箱：`to:t1nexus.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 8 / 来 0）（第 74 批(h)））",
-   "type": "兼容光模块/线缆品牌商（美国，MC/交换机副线）",
-   "sieve": "1（只收到群发）",
-   "stop": "只打通用邮箱，无记录打开",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "US 主攻（四主）",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 8；用户表：「MC 光路的」；研究档 risks：主业兼容光模块（Saga 不供），MC/交换机为副线；3 次无回复，仅 info@"
+   "level": "未触达（A/S 邮箱 28 封 2024→2026，1 次记录打开，0 回；收件 info@market-telecom.kz；主题多为「10G Enterprise SFP Switch、10G Media Converter」；Elsa 箱：`to:market-telecom.kz` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 28 / 来 0）（第 74 批(n)））",
+   "type": "多品牌 IT/安防设备供应商（哈萨克斯坦）",
+   "sieve": "1~2（1 次打开）",
+   "stop": "只打通用邮箱，无记录打开；Q-33 供应商渠道客户",
+   "revive": "不动（Q-33）",
+   "lane": "哈萨克斯坦 非主攻",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 28，Opened 标签 1（Simon 群发追踪）；用户表：「ONV Witech planet 以及其他牌子 工业FS SFP MC」；研究档 risks：非主攻区（T5）；中亚物流/结算需按单核"
   },
-  "situation": "美国 T1 Nexus（OEM 兼容光模块与线缆品牌（ISO/TL9000，终身保修），兼售 MC（18 处）与交换机（T1-DS2024G）；表内「MC 光路的」）；表内 3 次跟进无回复。",
-  "need": "T1 标 MC → 工业千兆 MC STI-110GE（$24.3 @30%）、工业 PoE MC STI-111GP（$30.1）；T1 标接入交换机 24 GE + 4×10G STC-424XGGM（$138.0）；光模块/线缆 Saga 不供",
-  "breakpoint": "主业兼容光模块（Saga 不供），MC/交换机为副线；3 次无回复，仅 info@",
+  "situation": "哈萨克斯坦 Авантаж Маркет / market-telecom.kz（多品牌 IT 基础设施与安防设备供应商：办公/企业/仓库/住宅项目；站内 TP-Link 38 / Dahua 42 / Hikvision 35 / Ubiquiti 18 / MikroTik 6，博客 PoE/ONV；表内「ONV、Witech、Planet 及其他牌子；工业 FS / SFP / MC」）；群发 18 次无回复。",
+  "need": "在售 ONV / Witech / Planet → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）对位 ONV/Planet 8 口 PoE；工业位 STI-288GP（$57.4）",
+  "breakpoint": "非主攻区（T5）；中亚物流/结算需按单核",
   "saga_now": {
-   "p1": "STI-110GE",
-   "tier": 30,
-   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-15 $280（10G Enterprise SFP Switch）",
-   "why": "T1 标 MC → 工业千兆 MC STI-110GE（$24.3 @30%）、工业 PoE MC STI-111GP（$30.1）；T1 标接入交换机 24 GE + 4×10G STC-424XGGM（$138.0）；光模块/线缆 Saga 不供",
+   "p1": "STC-28DGGPM",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-06 $65（10G Media Converter）；群发里他已看到的价（续）：2026-08-06 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-07-08 $220（48 port managed switch）、2024-12-31 $240（24 Port Fiber Switch）、2025-07-21 $300（48 Port PoE Managed Switch）、2025-10-17 $280（10G Enterprise SFP Switch）",
+   "why": "在售 ONV / Witech / Planet → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）对位 ONV/Planet 8 口 PoE；工业位 STI-288GP（$57.4）。已打开的主题（1/28 封有打开记录）：「24 Port Fiber Switch」(2024-12-31) → 读者兴趣偏「MC/光电」；与 P1 同类，继续",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开",
-   "one_question": "For the media converters and access switches sold under the T1 label alongside your optics, we can supply gigabit/PoE MCs and Marvell-based 24-GE + 4×10G L2+ switches in your packaging from small lots, FCC/CE/RoHS — which MC configuration do your data-center and telecom customers order most?"
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
   },
   "facts": [
    {
-    "date": "2026-02-06",
+    "date": "2026-10-07",
     "dir": "去",
     "who": "A/S 群发",
-    "quote": "Industrial PoE Switch、10G Enterprise SFP Switch",
-    "why": "8 封 / 0 次打开 / 0 回｜首封 2024-06-27 → 末封 2026-02-06（8 去 / 0 来）",
+    "quote": "10G Enterprise SFP Switch、10G Media Converter",
+    "why": "28 封 / 1 次打开 / 0 回｜首封 2024-07-08 → 末封 2026-10-07（28 去 / 0 来）",
     "k": "gmail_digest"
    },
    {
     "date": "2026-10-21",
     "dir": "用户表",
     "who": "Simon",
-    "quote": "MC 光路的",
+    "quote": "ONV Witech planet 以及其他牌子 工业FS SFP MC",
     "why": "表内备注",
     "k": "用户表"
    }

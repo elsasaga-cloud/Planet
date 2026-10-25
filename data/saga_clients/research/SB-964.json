@@ -1,153 +1,125 @@
 {
-  "code": "SB-964",
-  "name_official": "",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（airpro.in，快照 2026-10-21）",
-  "summary": "印度 AirPro（自有品牌有线/无线网络产品，自称有内部研发：WLAN AP / 控制器 / PoE 交换机 AP-ES108P-2GE、AP-ES106P、工业 AP-IGS9014P、注入器 AP-PX411；表内「PoE / MC / SFP 自己的标，没啥工业品」「比较重要 Deepak」）；表内无跟进记录。",
-  "type": "印度自有品牌网络厂商（OEM 采购）",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "官网标题：AirPro - Best Wireless WiFi Router, Networking Products for Home & Business；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
-      "quote": "AirPro has its in-house R&D unit which specializes in design, development and customization of wired and wireless solutions, esp. DISCOVER MORE JUST ARRIVED OUR NEWEST PRODUCTS WLAN APs and Controllers Outdoor Access Point PoE Switch Fiber ",
-      "url": "https://airpro.in/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "其他；POE MC SFP 自己的标 没啥工业品",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网快照",
-      "claim": "AirPro 自有研发的有线/无线网络产品",
-      "quote": "AirPro has its in-house R&D unit which specializes in design, development and customization of wired and wireless solutions",
-      "url": "https://airpro.in/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "PoE MC SFP 自己的标，没啥工业品",
-      "quote": "POE MC SFP 自己的标；没啥工业品；比较重要 Deepak",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Deepak",
-      "title": "（表内：比较重要）",
-      "email": "sales@airpro.in",
-      "phone": "",
-      "source": "用户表"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ "code": "SB-964",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（uplinker.ru，快照 2026-10-21）",
+ "summary": "俄罗斯 ООО «ЛИНКЕР» / UPLINK（电信设备销售与技术方案：自有品牌 UPLINK 光模块（SFP 95 处、10G 24 处）、WDM MC（MC-WDM1000A/B、MC-1000-SFP-MINI）、PDH 复用器；表内「有很多 DCN 的 / WDM SFP」）；表内未跟进。",
+ "type": "电信设备经销商（俄罗斯，自有品牌 UPLINK）",
+ "size": "",
+ "brands_seen": [
+  "DCN"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：ЛИНКЕР продажа телекоммуникационного оборудования UPLINK - оптические трансиверы；品类词 布线 / 线缆 / 光纤 / 媒体转换",
+   "quote": "ООО ЛИНКЕР - разработка технических решений в сфере телекоммуникаций, продажа оборудования, продажа оптоволоконных систем связи. 8-812-666-2-666 UPLINK оптические трансиверы мультиплексоры dwdm cwdm",
+   "url": "https://uplinker.ru/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "hq": "印度",
-    "other": "官网 airpro.in，语言 en-US，快照状态 ok；角色判定来源：用户表"
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "有很多DCN的；WDM SFP",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "WLAN AP / 控制器（自有品牌）",
-    "PoE 交换机 / 注入器 / MC（自有品牌）"
-  ],
-  "channels": {
-    "role": "印度自有品牌网络厂商（OEM 采购）",
-    "region": "印度",
-    "contact": "sales@airpro.in、support@airpro.in"
+  {
+   "kind": "官网快照",
+   "claim": "ЛИНКЕР 定位",
+   "quote": "ООО «ЛИНКЕР» продажа телекоммуникационного оборудования ; Оптические трансиверы UPLINK ; MC-WDM1000B",
+   "url": "https://uplinker.ru/",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "官网：AirPro has its in-house R&D unit which specializes in design, development and customization of wired and wireless solutions",
-    "站内型号 AP-ES108P-2GE / AP-ES106P / AP-IGS9014P / AP-PX411",
-    "表内：PoE MC SFP 自己的标；比较重要 Deepak"
-  ],
-  "risks": [
-    "印度 BIS：由 AirPro 以其品牌取证；整机关税高 → SKD 可谈",
-    "自称内部研发：实际为深圳 ODM 贴标，价格基准低",
-    "非主攻区（T5）；KP 仅名「Deepak」，邮箱为 sales@"
-  ],
-  "saga_fit": {
-    "p1": "STC-28DGGPM",
-    "tier": 30,
-    "why": "自有 AP-ES108P-2GE（8 PoE + 2 GE）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 AirPro 标；工业 AP-IGS9014P 位 STI-288GPM；MC 位 STI-110GE"
-  },
-  "email_hook": "Deepak, for the AP-ES108P-2GE class of PoE switches under the AirPro label, we can be a second ODM source on a Marvell platform (8-PoE + 2 SFP L2+, plus 4/8-port unmanaged) from small lots with CE/RoHS/FCC reports for your BIS file — which model would you dual-source first?",
-  "products_seen": [
-    {
-      "brand": "AirPro（自有）",
-      "model": "AP-ES108P-2GE",
-      "spec": "8 PoE + 2 GE 上联",
-      "saga": "STC-28DGGPM",
-      "url": "https://airpro.in/",
-      "date": "2026-10-21"
-    },
-    {
-      "brand": "AirPro（自有）",
-      "model": "AP-IGS9014P",
-      "spec": "工业 PoE（9+4 口，推断）",
-      "saga": "STI-288GPM / STI-488DGGPM",
-      "url": "https://airpro.in/",
-      "date": "2026-10-21"
-    }
-  ],
-  "mail_review": {
-    "binding": {
-      "level": "未触达（10 封来信全部自动回复）；Elsa 群发 BCC 已触达 2026-09-08「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，印度-6 安防分销（锚 gunjan@xexagon.co.in；2025-04-10 起，7 轮） 批次 To gunjan@xexagon.co.in，首见 2026-02-06，0 回（第 74 批 Bcc 头核对 msg 1a08075d070c32df）",
-      "type": "印度自有品牌网络厂商（AirPro）",
-      "sieve": "0",
-      "stop": "自动回复/机器人，无人工回复",
-      "revive": "不动",
-      "lane": "IN",
-      "cadence": "不动",
-      "evidence": "k=c577ca44068fd6a4 等；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To gunjan@xexagon.co.in）2026-02-06→2026-09-08 共 3 轮群发（OEM Core Switching Solution、Updated Ethernet Switches Links、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断；该批次最早 2025-04-10 起共 7 轮，更早轮次 Bcc 未读"
-    },
-    "situation": "来信全部为机器回复；无人读信或无人回信。",
-    "need": "—",
-    "breakpoint": "—",
-    "saga_now": {
-      "p1": "—",
-      "tier": 30,
-      "price": "—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-17 $220（48 port managed switch）、2024-12-13 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-07-24 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-11-04 $300（48 Port PoE Managed Switch）、2026-05-01 $280（10G Enterprise SFP Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-09-08 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-08；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
-      "why": "已打开的主题（2/22 封有打开记录）：「48 Port PoE Managed Switch」(2024-11-04)、「8 Port Industrial PoE Switch」(2024-12-18) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "不动",
-      "channel": "—",
-      "action": "—",
-      "one_question": ""
-    },
-    "facts": [
-      {
-        "date": "2026-02-06",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To gunjan@xexagon.co.in，印度-6 安防分销（锚 gunjan@xexagon.co.in；2025-04-10 起，7 轮） 批次）",
-        "quote": "OEM Core Switching Solution — I am introducing our CENTEC-based core and aggregation switches. 1, A cost-effective alternative to Cisco or Huawei models 2, Multiple models(10G~800G",
-        "why": "Elsa 箱群发 BCC 触达证据（命中地址 airpro.in, jain.deepak1@gmail.com, sales@airpro.in）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-        "k": "elsa_bcc"
-      },
-      {
-        "date": "2026-09-08",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To gunjan@xexagon.co.in，印度-6 安防分销（锚 gunjan@xexagon.co.in；2025-04-10 起，7 轮） 批次）",
-        "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
-        "why": "Elsa 箱群发 BCC 触达证据（命中地址 airpro.in, jain.deepak1@gmail.com, sales@airpro.in）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-        "k": "elsa_bcc"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-25"
+  {
+   "kind": "用户表",
+   "claim": "有很多 DCN 的；WDM SFP",
+   "quote": "有很多DCN的 / WDM SFP",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "俄罗斯",
+  "other": "官网 uplinker.ru，语言 ru，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "电信设备销售 / 光模块（自有品牌 UPLINK，俄罗斯）"
+ ],
+ "channels": {
+  "role": "电信设备经销商（俄罗斯，自有品牌 UPLINK）",
+  "region": "俄罗斯",
+  "contact": "sales@uplink.ru、sales@uplinker.ru"
+ },
+ "signals": [
+  "官网：ЛИНКЕР продажа телекоммуникационного оборудования UPLINK - оптические трансиверы ; Оптические трансиверы UPLINK для любых задач；站内 MC-WDM1000B / MC-1000-SFP-MINI；页面 /item/pdh_opticheskiy_multipleksor_uplink_2e1_1fe_sfp_dt_22_industrial/",
+  "表内：有很多 DCN 的 / WDM SFP"
+ ],
+ "risks": [
+  "俄罗斯：结算/物流/合规风险；主业光模块/WDM（Saga 不供）；DCN 在供价格基准低；未跟进过，仅 sales@"
+ ],
+ "saga_fit": {
+  "p1": "STI-110GE",
+  "tier": 30,
+  "why": "UPLINK 标 MC → 工业千兆 MC STI-110GE（$24.3 @30%）、PoE MC STI-111GP（$30.1）；接入交换机 24 GE + 4×10G STC-424XGGM（$138.0）；光模块/WDM/PDH Saga 不供"
+ },
+ "email_hook": "For the media converters and access switches sold under the UPLINK label, we can supply gigabit/PoE MCs and Marvell-based 24-GE + 4×10G L2+ switches in your packaging from small lots, CE/RoHS; EAC by your side — which MC configuration runs the highest volume for you?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 5 封 2025→2026，无记录打开，0 回；收件 sales@uplink.ru；主题多为「Optional Marvell Chipset Solutions、OEM Core Switching Solution」；Elsa 箱：`to:uplinker.ru OR to:uplink.ru` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 5 / 来 0）（第 74 批(l)））",
+   "type": "电信设备经销商（俄罗斯，自有品牌 UPLINK）",
+   "sieve": "1（只收到群发）",
+   "stop": "只打通用邮箱，无记录打开",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "RU 次级（Simon 2026-08 点名）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 5；用户表：「有很多DCN的；WDM SFP」；研究档 risks：俄罗斯：结算/物流/合规风险；主业光模块/WDM（Saga 不供）；DCN 在供价格基准低；未跟进过，仅 sales@"
+  },
+  "situation": "俄罗斯 ООО «ЛИНКЕР» / UPLINK（电信设备销售与技术方案：自有品牌 UPLINK 光模块（SFP 95 处、10G 24 处）、WDM MC（MC-WDM1000A/B、MC-1000-SFP-MINI）、PDH 复用器；表内「有很多 DCN 的 / WDM SFP」）；表内未跟进。",
+  "need": "UPLINK 标 MC → 工业千兆 MC STI-110GE（$24.3 @30%）、PoE MC STI-111GP（$30.1）；接入交换机 24 GE + 4×10G STC-424XGGM（$138.0）；光模块/WDM/PDH Saga 不供",
+  "breakpoint": "俄罗斯：结算/物流/合规风险；主业光模块/WDM（Saga 不供）；DCN 在供价格基准低；未跟进过，仅 sales@",
+  "saga_now": {
+   "p1": "STI-110GE",
+   "tier": 30,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-25 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170",
+   "why": "UPLINK 标 MC → 工业千兆 MC STI-110GE（$24.3 @30%）、PoE MC STI-111GP（$30.1）；接入交换机 24 GE + 4×10G STC-424XGGM（$138.0）；光模块/WDM/PDH Saga 不供",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "For the media converters and access switches sold under the UPLINK label, we can supply gigabit/PoE MCs and Marvell-based 24-GE + 4×10G L2+ switches in your packaging from small lots, CE/RoHS; EAC by your side — which MC configuration runs the highest volume for you?"
+  },
+  "facts": [
+   {
+    "date": "2026-08-25",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "Optional Marvell Chipset Solutions、OEM Core Switching Solution",
+    "why": "5 封 / 0 次打开 / 0 回｜首封 2025-12-12 → 末封 2026-08-25（5 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "有很多DCN的；WDM SFP",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

@@ -1,292 +1,351 @@
-# SB-933 actelis.com · home · https://actelis.com/ · fetched 2026-10-25T07:41:18Z · HTTP 200
-Home Page | Actelis Networks
-Skip to content
-info@actelis.com
-My Actelis
-Log In
-Menu
-My Actelis
-Log In
-Industries
-Intelligent Traffic Systems
-Anticipate & fast reaction to Incidents city-wide
-IoT-enabled Sites & Campuses
-Unlocking connectivity hidden in airport, factory, hospital & campus networks
-Smart Rail
-Transform existing rail communications Infrastructure
-Utilities
-Secure, responsive, energy, oil, gas and water communication networks
-Multi-Dwelling Units
-Instant, Gigabit broadband connectivity without building rewiring
-Smart City
-Secure, business-friendly
-connected cities & communities
-Military
-Oversight, awareness, security, fast response for military facilities
-Providers
-Connectivity For Apartments
-Immediate Gigabit connectivity with no building rewiring
-Business Ethernet Connectivity
-Making Business-Class Ethernet possible to millions of new locations
-Residential Broadband
-High-Speed Internet in previously unreached Single and Multi-dwelling Home Locations
-Backhaul Services
-Integrating Industry, IIoT, City and campus Wi-Fi and Fiber-extension backhaul
+# SB-933 airlive.com · home · https://www.airlive.com/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+wifi6 MESH Router|AirLive|Managed Switch|5G|Your best choice of Smart Network Solution 鑫志科技
+Open Navigation Search
+AirCloud
 Products
-Product Solutions Overview
-By Type
-Solutions Portfolio Overview
-Ethernet Switches
-All Ethernet Switches
-Fiber Optic Switches
-Power over Ethernet Switches
-10 Gigabit Ethernet Switches
-Layer 3 Network Switches
-View by Port Density
-Cybersecurity
-Security & Encryption
-Broadband Amplifiers
-Repeaters
-Enclosures
-Management
-By Technology
-Fiber
-G.fast
-G.hn
-G.SHDSL
-VDSL2, ADSL2+/ADSL2/ADSL
-Product Listing - GigaLine
-GL800 Multi-Gig Hybrid-Fiber
-GL900 Fiber Extender/Splitter
-GL5010 Gigabit DIN Rail Switch
-GL5020 Gigabit DIN Rail Switch
-GL5030 Gigabit DIN Rail Switch
-GL5060 Gigabit DIN Rail Switch
-GL5070 Gigabit DIN Rail Switch
-GL5080 Gigabit DIN Rail Switch
-GL6010 Gigabit Rackmount Switch
-GL6030 Gigabit Rackmount Switch
-GL6040 Gigabit Rackmount Switch
-GL7000 In-Pole Connectivity Switch
-GL9110C PON Extender G.hn Aggregator
-GL9104C PON Extender G.hn Aggregator
-Product Listing - Other Products
-ADSL Broadband Amplifier
-VDSL Broadband Amplifier
-XR239/PFU-8 Repeaters
-EAD/NTU Enclosures
-Product Listing - Cybersecurity
-MetaShield Asset Intelligence & Threat Detection
-Product Listing - MetaLIGHT
-ML230 Compact Ethernet Aggregator
-ML510D-ML5114D/P Gigabit DIN Rail Switch
-ML540E Gigabit Rackmount Switch
-ML540M Gigabit Rackmount Switch
-ML600 Hybrid Fiber-Copper Series
-ML650SV Gigabit Fiber Switch
-ML680D Gigabit DIN Rail Switch
-ML684D Gigabit Hybrid-Fiber DIN Rail Switch
-ML700 Hybrid Fiber-Copper Rackmount
-ML690E/ES/EN/EL Hybrid Mini Aggregator
-ML2300 Aggregation Switch
-ML2300N Hybrid Mini Aggregator
-Technology
-Broadband Technologies
-Fiber Optics
-G.fast
-G.hn
-G.SHDSL and VDSL2
-Cross Talk
-DSL Analog Amplification and Regeneration
-Enhanced System Level Security
-Triple Shield Security
-Ethernet Networking
-Ethernet in the First Mile (EFM)
-Carrier Ethernet 2.0
-Ethernet OAM
-Cybersecurity
-MetaShield Asset Intelligence & Threat Detection
-Performance Enhancement
-EFM plus
-Symmetrical Vectoring (DRB)
-DSS
-Coordinated Calibration
-Broadband Amplifiers
-Support
-Actelis Publications
-Case Studies
-Articles & Blog Posts
-Resource Library
-My Actelis – Home
-My Actelis – Register
-Technical Documentation
-Training Webinars
-Data Sheets
-Performance Calculators
-Product Downloads
-Service and Support
-Support Contact Details
-Education
-Maintenance Services
-Professional Services
-Company
-About Actelis
-Why we exist and the difference we make for our customers
+AirCloud and Wireless
+Aircore
+Telecom XGPON and Cloud
+Enterprise Campus & Multiport Fiber Switch
+Enterprise L3 Switch
+PoE Switch
+10G Switch(NON POE)
+2.5G Switch(NON POE)
+Gigabit Switch (non PoE)
+Industrial Switch
+Industrial 5G / 4G Gateway
+Network Adapter and Accessories
+AirCam Surveillance Security
+AirCore AI AutoPilot AirSwitch PoE/Non-PoE
+Solutions
+Small Office/Home
+Enterprise
+Data Center
 News
-Actelis new customers, applications and product introductions
-Events
-Come visit Actelis at shows and conferences worldwide
-Leadership
-What Actelis leadership team brings to your organization
-Careers
-Opportunties to make a difference to the future of networking
-Investors
-Join us in enabling cyber hardened solutions for IoT
-Contact Us
-Getting started on how Actelis can help you
-Search
-Close
-Contact Us
-Cyber-Hardened, Hybrid-Fiber
-Networking Solutions
-We work with the network infrastructure you already own to
-enable immediate Gigabit performance
-We work with the network infrastructure you already own to enable immediate Gigabit performance
-Unlock the hidden value in your network
-Actelis maximizes the performance of existing essential industrial, commercial and community networks,
-facilitating fast project completion at a fraction of the cost.
-Actelis maximizes the performance of existing essential industrial, commercial and community networks, facilitating fast project completion at a fraction of the cost.
-Immediate Fiber-Grade Connectivity
-Tremendous
-Cost Savings
-Uses the Network
-That You Have
-Network Protection
-at the Edge
-Smart City, Transportation, and
-Campus IoT Network Expansion
-Smart City, Transportation, and Campus IoT Network Expansion
-Actelis enables instant and secure network connectivity for Intelligent Transportation Systems, public safety networks, campus IoT deployments, and much more!
-Expand Your Smart City Network Today!
-Federal Networks &
-Military Base Modernization
-Federal Networks & Military Base Modernization
-With our FIPS and JITC certified networking solutions, we help military bases quickly deploy fiber-grade connectivity with no heavy engineering or construction.
-Modernize Your On-Base Operations Overnight!
-Overnight Gigabit Connectivity
-for Apartments & Hotels
-Overnight Gigabit Connectivity for Apartments & Hotels
-Our GigaLine 900 solution enables instant broadband services within MDUs without the need for costly building rewiring. Reach millions more residents and guests with Actelis!
-Learn About Our Multi-Dwelling Unit Solutions
-What is Hybrid-Fiber Networking?
-Enables immediate Gigabit, fiber-grade performance from any combination of newly deployed fiber infrastructure and existing copper and coaxial lines
-Greatly reduces project completion times from months and years to just days
-Avoids costly construction and heavy engineering, saving hundreds of thousands of dollars
-Hybrid-Fiber Networking for IoT Deployments
-Gigabit speed, no rewiring, cyber hardened, mission critical.
-Actelis' hybrid-fiber approach enables fast IoT network expansion to connect cameras, sensors, smart city Wi-Fi backhaul, and more using a mix of fiber and copper wiring!
-Explore our porfolio of immediate deployment networking solutions
-Learn More
-Hybrid-Fiber Networking for Multi-Dwelling Units
-Extend the reach of your fiber deployment from the curb throughout the apartment!
-Symmetrical Gigabit
-Utilizes existing building wiring
-Cross-talk free
-Ultra-low power consumption
-Reverse power options
-Get ultra-fast ROI and simplify your MDU deployments
-Protect Your Assets
-All The Way At The Edge
-Using The Network
-Protect Your Assets All The Way At The Edge Using The Network
-AI Powered Asset Intelligence
-Threat Prevention
-Anomaly Detection
-The farther a network expands, the less protection typically exists against cyberattacks. Actelis solves that problem with MetaShield, providing instant network protection with same-day rapid deployment and no change of network architecture or configuration.
-Learn More About MetaShield
-Actelis Now
-AI Implementation Progress to Accelerate Growth and Enhance Operational Efficiency
-Find Out More
-New Order for Rural Broadband Connectivity Enhancement in Oklahoma
-Click to Learn More
-Significant New Orders for Military Base Modernization for Rapid Deployment
-Click to Read
-Cyber-Hardened Distribution Network Connectivity for Major Central German Utility Provider
-Learn More
-UK Presence Expansion with a Major Tier 2 Carrier Win for Enterprise Connectivity Solutions
-Learn More
-Strategic Order from the FAA for Critical Air Traffic Control Infrastructure Modernization
-Learn More
-Order for GL800 Multi-Gigabit Connectivity Serving SOHO Customers
-Click To Read
-Industries
-Intelligent Traffic Systems
-Smart Rail
-Smart City
-IoT - Sites & Campuses
-Utilities
-Military
-Providers
-Business Ethernet
-Residential Broadband
-Backhaul Services
-Products & Support
-Products
-Technology
-Support
+Product News
+AirCore Platform Updates
+AirCore Windows Updates
+Press Review and Award
+Event
+EDM
+Marketing
+Banner
+Catalogues & DM
+Product Photo
+Video
+Commercial Video
+Tutorial Video
+Download
+Document
+Software
+About Us
 Company
-About Actelis
-News
-Events
-Leadership
-Investors
-Careers
-Contact
-Terms of Use
+Trademark
+Warranty & RMA
 Privacy Policy
-Facebook
-Twitter
-Linkedin
-Youtube
-©2025 Actelis Networks®, Inc. All Rights Reserved
-We use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits. By clicking “Accept All”, you consent to the use of ALL the cookies. However, you may visit "Cookie Settings" to provide a controlled consent.
-Cookie Settings Accept All
-Manage consent
-Close
-Privacy Overview
-This website uses cookies to improve your experience while you navigate through the website. Out of these, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may affect your browsing experience.
-Necessary
-Always Enabled
-Necessary cookies are absolutely essential for the website to function properly. These cookies ensure basic functionalities and security features of the website, anonymously.
-Cookie
-Duration
-Description
-cookielawinfo-checkbox-analytics
-11 months
-This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Analytics".
-cookielawinfo-checkbox-functional
-11 months
-The cookie is set by GDPR cookie consent to record the user consent for the cookies in the category "Functional".
-cookielawinfo-checkbox-necessary
-11 months
-This cookie is set by GDPR Cookie Consent plugin. The cookies is used to store the user consent for the cookies in the category "Necessary".
-cookielawinfo-checkbox-others
-11 months
-This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Other.
-cookielawinfo-checkbox-performance
-11 months
-This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Performance".
-viewed_cookie_policy
-11 months
-The cookie is set by the GDPR Cookie Consent plugin and is used to store whether or not user has consented to the use of cookies. It does not store any personal data.
-Functional
-Functional cookies help to perform certain functionalities like sharing the content of the website on social media platforms, collect feedbacks, and other third-party features.
-Performance
-Performance cookies are used to understand and analyze the key performance indexes of the website which helps in delivering a better user experience for the visitors.
-Analytics
-Analytical cookies are used to understand how visitors interact with the website. These cookies help provide information on metrics the number of visitors, bounce rate, traffic source, etc.
-Advertisement
-Advertisement cookies are used to provide visitors with relevant ads and marketing campaigns. These cookies track visitors across websites and collect information to provide customized ads.
-Others
-Other uncategorized cookies are those that are being analyzed and have not been classified into a category as yet.
-SAVE & ACCEPT
+Contact Us
+Product Search
+News Search
+Marketing Search
+Download Search
+Search Close Search Form
+AirCore AI Autopilot
+Transform your network with AI-powered intelligent management and automation
+Explore AirCore Platform
+Read More
+SCROLL
+Major Products
+AirCam EYDL-630XAI
+6MP Dome Dual Light POE IP Camera with Smart AI
+ADD INQUIRY
+POE-2TX801-150 AT: 9-port Multi-Gigabit POE+ Switch, 802.3af/at, 150W
+9-port 2.5GBase-T MultiGiga PoE+ Switch including 10G SFP+
+ADD INQUIRY
+L3D-2TX4806-40GF: 54-Port L3 2.5G Multi Giga Core Switch including 6-Port Fiber Uplink (40G &10G/25G)
+54-Port 2.5G RJ-45 include 4 x 10/25G SFP28 & 2 x 40G QSFP+
+ADD INQUIRY
+L3D-100XGF32-100GF:32-Port L3 100G Fiber Core switch
+32-Port 100G QSFP28
+ADD INQUIRY
+AirLive EMS Cloud
+AirLive OLT EMS Cloud Platform
+ADD INQUIRY
+L3POE-2TX2406-450 BT: L3 Managed Multi Giga PoE+ Switch with 10G uplink
+24-Port PoE+/PoE++ Multi Gigabit + 6 Ports 10G SFP+
+ADD INQUIRY
+AirCam PTZD-630MAI
+6MP Autofocus IP66 Dome PTZ POE IP Camera with Smart AI, 3X Zoom
+ADD INQUIRY
+AirCam PTZB-630MAI
+6MP Autofocus IP66 Bullet PTZ POE IP Camera with Smart AI, 4X Zoom
+ADD INQUIRY
+AirCam VD-640MAI
+6MP Autofocus Vandal Dome POE IP Camera with Smart AI, 4X Zoom
+ADD INQUIRY
+AirCam VD-240M
+2MP Autofocus Vandal-proof POE DOME IP Camera, 4X Optical Zoom
+ADD INQUIRY
+AirCam MD-215
+2MP IP66 POE MINI DOME IP Camera
+ADD INQUIRY
+AirCam BU-640MAI
+6MP Autofocus IP66 Bullet POE IP Camera with Smart AI, 4X Zoom
+ADD INQUIRY
+AirCam BU-225S
+2MP IP66 waterproof POE Bullet IP Camera
+ADD INQUIRY
+AirCam BU-240M
+2MP Autofocus IP66 waterproof POE Bullet IP Camera, Motorized 4X Optical Zoom
+ADD INQUIRY
+WLAN-128GM: Enterprise Wireless Controller & Gateway
+ADD INQUIRY
+AirCloud: AirLive Cloud-Based Controller
+ADD INQUIRY
+SNMP-GSH2404M: L2+ Managed Gigabit Switch
+28-Port Gigabit including 4 SFP ports
+ADD INQUIRY
+Fiber Optical Layer 3 Switches For Cloud Data Center Application
+ADD INQUIRY
+IGM-1484POE-2.5G: Industrial Ring Managed Gigabit PoE+ Switch
+14-Port PoE+ Gigabit including 2x2.5G SFP, 2x1.25G SFP and 2x1000T Ports
+ADD INQUIRY
+MC-10GSFP+: Multi Giga Network Fiber Media Converter
+SFP+, auto-fall back, dual-mode FX
+ADD INQUIRY
+MC-1GSFP: Gigabit Network Fiber Media Converter
+Single or Multi FX Mode auto-negotiable
+ADD INQUIRY
+POE-GSH2404M-400: Managed 400W Gigabit PoE+ Switch
+28-Port PoE+ Gigabit Managed Switch including 4-Port Combo
+ADD INQUIRY
+AirMax4GW: 4G LTE Outdoor Gateway with WiFi
+4G LTE Outdoor Gateway with WiFi
+ADD INQUIRY
+AI-WPOE-2TX801-150: AirCore 9-Port WEB-Smart and AI Management 2.5GE PoE+ Switch, including 1*10G SFP+
+8-Port PoE+ Gigabit RJ-45 + 1 Port 10G SFP+
+ADD INQUIRY
+AI-L3-10XGF8: AirCore 8-Port 10G SFP+ Fiber L3 and AI Management Switch
+8-Port 10G Multi Gigabit SFP+
+ADD INQUIRY
+AI-L3POE-10TX800-150: AirCore 8-Port L3 and AI Management 10GE PoE+ Switch
+8-Port PoE+ 10G Multi Gigabit RJ-45
+ADD INQUIRY
+XGSPON OLT-1XGS: 1 Port 10G XGSPON OLT with 10G SFP+
+1-Port XG(S) PON + 1x 10G SFP+ & 2x 1G RJ45
+ADD INQUIRY
+AirCam EYDL-630XAI-RBMS
+6MP Dome Dual Light POE IP Camera with Smart AI, Red&Blue Alarm LED
+ADD INQUIRY
+ANVR8 AI
+8-CH AI Network Video Recorder with HDMI
+ADD INQUIRY
+WPOE-10TX804-260 BT: 10Gbps Web Smart Multi Gigabit POE++ Switch
+12- Port Multi Giga incl 8 x 10G POE+/++ RJ45, 4 x SFP+ 10G
+ADD INQUIRY
+M2M-4G5AC: Industrial AIoT M2M 4G LTE Router with AC1200
+Industrial AIoT M2M 4G LTE Router with AC1200
+ADD INQUIRY
+QSFP28-100G-850-100M-MP: 100G MPO-12 QSFP28 transceiver
+ADD INQUIRY
+ONU-10XGS-AX304P-2.5G: 1 Port 10G XGS PON Wi-Fi AX3000 ONU
+1x PON XGS, 1x 2.5G RJ45, 3x 1G RJ45, AX3000 Wi-Fi 6, 1x POTS, 1x USB3.0
+ADD INQUIRY
+L3D-25XGF56-100GF:56-Port L3 25G Fiber Core switch including 8-Port 100G QSFP28
+56-Port 25G SFP28 include 8 x 100G QSFP28
+ADD INQUIRY
+WEB-10XGF8: 8-port 10G SFP+ Web Smart Multi Gigabit Fiber Switch
+8-Port Multi Gigabit 1G/2.5G/10G SFP+
+ADD INQUIRY
+L3POE-XGS4804-850 BT: Layer 3 850W Managed Gigabit PoE+ Switch with 10G uplink
+48-Port PoE+ Gigabit + 4 Ports 10G SFP+
+ADD INQUIRY
+POE-2TX801-100 AT: 9-port Multi-Gigabit POE+ Switch, 802.3af/at, 100W
+9-port 2.5GBase-T MultiGiga PoE+ Switch including 10G SFP+
+ADD INQUIRY
+Live-2TX2402: 2.5Gbps Base-T Multi Gigabit Switch, VLAN, Auto-Adaptive
+26-Port Multi Giga incl 24 x 2.5G RJ45, 2 x SFP+ 10G
+ADD INQUIRY
+Live-24GT: 24-port SOHO Gigabit switch, VLAN, Plug and Play
+24-port Gigabit RJ-45 Switch
+ADD INQUIRY
+L3-2TX2406: L3 Managed Multi Giga Switch with 10G uplink
+24-Port Multi Gigabit + 6 Ports 10G SFP+
+ADD INQUIRY
+GPON OLT SFP C++++ Module
+GPON OLT Optical Module 2.5G/1.25G 20KM TX1490nm/RX1310nm
+ADD INQUIRY
+IG-601R: Industrial Unmanaged Gigabit Switch
+6-Port Gigabit include 1 x 1.25G SFP Ports
+ADD INQUIRY
+2.5GE XPON ONU
+XPON 2.5GE XPON ONU, 1x 2.5G, 1x 1G RJ45
+ADD INQUIRY
+WLAN-64GM: Enterprise Wireless Controller & Gateway
+ADD INQUIRY
+SNMP-GSH802M: L2+ Managed Gigabit Switch
+10-Port Gigabit including 2 SFP ports
+ADD INQUIRY
+POE-GSH1602M-200: Managed Gigabit 200W PoE+ Switch
+20-Port PoE+ Gigabit incl 2 SFP and 2 RJ-45 Ports Uplink
+ADD INQUIRY
+L3-XGF28: L3 28-port Managed Gigabit Fiber Switch with 10G uplink
+24-SFP slot, 4*10G SFP+ slots, 8* GE RJ45 (combo)
+ADD INQUIRY
+IGM-14104BT-2.5G: Industrial Ring Managed Gigabit PoE++ Switch
+14-Port PoE+ Gigabit including 2x2.5G and 2x1.25G SFP Ports
+ADD INQUIRY
+IGM-1484POE-1.25G: Industrial Ring Managed Gigabit PoE+ Switch
+14-Port PoE+ Gigabit including 4x1.25G SFP and 2x1000T Ports
+ADD INQUIRY
+W6 184QAX: Wi-Fi 6 1800Mbps Easy MESH & VPN Dual Bands Gigabit Router
+Wi-Fi 6 AX 1800 Indoor Gigabit Router
+ADD INQUIRY
+ONU-10XGS-AX304-2.5G: 1 Port 10G XGS PON Wi-Fi AX3000 ONU
+1x PON XGS, 1x 2.5G RJ45, 3x 1G RJ45, AX3000 Wi-Fi 6, 1x USB3.0
+ADD INQUIRY
+Live-10TX8T-DC: 8-port 10Gbps Base-T Multi Gigabit Switch
+8 Port Multi Gigabit 100M/1G/2.5G/5G/10G RJ-45 DC
+ADD INQUIRY
+AI-L3-10TX800: AirCore 8-Port 10GE L3 and AI Management Switch
+8-Port 10G Multi Gigabit RJ-45
+ADD INQUIRY
+AI-L3POE-2TX2406-850 BT: AirCore 30-Port L3 and AI Management 2.5GE PoE++ Switch, including 6*10G SFP+
+24-Port PoE+/PoE++ 2.5G Multi Gigabit RJ-45 + 6 Ports 10G SFP+
+ADD INQUIRY
+ANVR16-2S AI
+16-CH AI Network Video Recorder with HDMI
+ADD INQUIRY
+AirCam EYDL-640MXAI-2713
+6MP Autofocus Dome Dual Light POE IP Camera with Smart AI, 5x Zoom
+ADD INQUIRY
+XPON 2.5GE ONU InWall
+XPON 2.5GE InWall ONU, 1x 2.5G, 1x 1G RJ45
+ADD INQUIRY
+M2M-5G5AC: Industrial AIoT M2M 5G-NR Router with AC1200
+Industrial AIoT M2M 5G-NR Router with AC1200
+ADD INQUIRY
+XG(S)PON OLT SFP+ N1 Module
+XG(S)PON OLT Optical Module 10G/2.5G 20KM TX1577nm/RX1270nm
+ADD INQUIRY
+QSFP-40G-850-100M-MP: 40G MPO-12 QSFP+ transceiver
+ADD INQUIRY
+L3D-10XGF26-100GF: 28-Port L3 10G Fiber Core switch including 2-Port 100G QSFP28
+26-Port 10G SFP+ include 2 x 100G QSFP28
+ADD INQUIRY
+XGSPON OLT-2XGS: 2 Port 10G XGSPON OLT with 10G SFP+
+2-Port XG(S) PON + 2x 10G SFP+ & 2x 1G RJ45
+ADD INQUIRY
+POE-2TX411-65 AT: 6-port Multi-Gigabit POE+ Switch, 802.3af/at, 65W
+6-port 2.5GBase-T MultiGiga PoE+ Switch including 10G SFP+
+ADD INQUIRY
+Live-2TX1602: 2.5Gbps Base-T Multi Gigabit Switch, VLAN, Auto-Adaptive
+18-Port Multi Giga incl 16 x 2.5G RJ45, 2 x SFP+ 10G
+ADD INQUIRY
+IG-1082RPOE: Industrial Unmanaged Gigabit PoE+ Switch
+10-Port PoE+ Gigabit include 2 x 1.25G SFP Ports
+ADD INQUIRY
+L3POE-XGS4804-400 BT: Layer 3 400W Managed Gigabit PoE+ Switch with 10G uplink
+48-Port PoE+ Gigabit + 4 Ports 10G SFP+
+ADD INQUIRY
+IG-602R: Industrial Unmanaged Gigabit Switch
+6-Port Gigabit include 2 x 1.25G SFP Ports
+ADD INQUIRY
+L3-XGS4804: L3 Managed Gigabit Switch with 10G uplink
+48-Port Gigabit + 4 Ports 10G SFP+
+ADD INQUIRY
+Revolve Wi-Fi 6: MESH Bundle AX 1800Mbps
+Wi-Fi 6 AX 1800 Indoor Mesh Bundle
+ADD INQUIRY
+IGM-14104BT-1.25G: Industrial Ring Managed Gigabit PoE++ Switch
+14-Port PoE+ Gigabit including 4x1.25G SFP Ports
+ADD INQUIRY
+IGM-1082BT-2.5G: Industrial Ring Managed Gigabit PoE++ Switch
+10-Port including 2 x 90W PoE++, 6 x 30W PoE+ Gigabit Ports with 2 x 2.5G SFP Ports
+ADD INQUIRY
+IGM-1082POE-2.5G: Industrial Ring Managed Gigabit PoE+ Switch
+10-Port PoE+ Gigabit including 2 x 2.5G SFP Ports
+ADD INQUIRY
+POE-GSH802M-120: Managed 120W Gigabit PoE+ Switch
+10-Port PoE+ Gigabit Managed Switch including 2-Port SFP
+ADD INQUIRY
+AirCam EYDL-840MXAI-2713
+8MP Autofocus Dome Dual Light POE IP Camera with Smart AI, 5x Zoom
+ADD INQUIRY
+Live-10TX5T-DC: 5-port 10Gbps Base-T Multi Gigabit Switch
+5 Port Multi Gigabit 100M/1G/2.5G/5G/10G RJ-45 DC
+ADD INQUIRY
+AI-L3-10TX8T-DC: AirCore 8-Port 10GE L3 and AI Management Switch
+8-Port 10G Multi Gigabit RJ-45 DC
+ADD INQUIRY
+AI-L3POE-2TX1606-420 BT: AirCore 22-Port L3 and AI Management 2.5GE PoE++ Switch, including 6*10G SFP+
+16-Port PoE+/PoE++ 2.5G Multi Gigabit RJ-45 + 6 Ports 10G SFP+
+ADD INQUIRY
+WLAN-64GM v2: Enterprise Wireless Controller & Gateway
+ADD INQUIRY
+AirCloud TOP-11GBE-2.5G-6GHz: Wi-Fi 7 BE11000 Multi Giga PoE Access Point
+Central Management, Multi function, Ultra High Speed
+ADD INQUIRY
+ANVR32-2S AI
+32-CH AI Network Video Recorder with HDMI
+ADD INQUIRY
+AWOD-30AXi-2.5GE: Wi-Fi 6 AX3000 Outdoor Omni AP
+AX3000 Dual-band High Throughput Outdoor AP
+ADD INQUIRY
+SFP28-25G-850-100M-MP: 25G SR SFP28 transceiver
+ADD INQUIRY
+XG(S)PON/GPON Combo OLT SFP+ N2/C+ Module
+XG(S)PON/GPON OLT Optical Module 10G/2.5G/1.25G 20KM TX1490/1577nm/RX1310/1270nm
+ADD INQUIRY
+WEB-2TX2402: 2.5Gbps Base-T Web Smart Multi Gigabit Switch
+26-Port Multi Giga incl 24 x 2.5G RJ45, 2 x SFP+ 10G
+ADD INQUIRY
+Live-16GT: 16-port SOHO Gigabit switch, VLAN, Plug and Play
+16-port Gigabit RJ-45 Switch
+ADD INQUIRY
+POE-GSH2422-300 AT: 28-port Gigabit POE+ Switch, 802.3af/at, 300W
+28-port Gigabit incl 24 x 30W PoE+, 2 x 1.25G SFP, 2 x 1000T
+ADD INQUIRY
+XPON ONU-1GE
+XPON 1GE XPON ONU, Single Port
+ADD INQUIRY
+Live-26G: 26-port SOHO Gigabit Switch, VLAN, QoS, Plug and Play
+26-port Gigabit incl 2 x 1.25G SFP
+ADD INQUIRY
+L3-XGS2404: L3 Managed Gigabit Switch with 10G uplink
+24-Port Gigabit + 4 Ports 10G SFP+
+ADD INQUIRY
+USB-18AX: Wi-Fi 6 AX 1800Mbps USB3.0 Wireless Ethernet Adapter
+ADD INQUIRY
+IGM-1082BT-1.25G: Industrial Ring Managed Gigabit PoE++ Switch
+10-Port PoE++ Gigabit including 2 x 1.25G SFP Ports
+ADD INQUIRY
+IGM-1082POE-1.25G: Industrial Ring Managed Gigabit PoE+ Switch
+10-Port PoE+ Gigabit including 2x1.25G SFP Ports
+ADD INQUIRY
+POE-FSH808PW 10-port Web-smart PoE Switch
+8-port 24V-PoE 10/100Mbps, 1*1000Base-T, 1*SFP
+ADD INQUIRY
+ANVR32-4S AI
+32-CH AI Network Video Recorder with HDMI
+ADD INQUIRY
+AI-L3-10TX5T-DC: AirCore 5-Port 10GE L3 and AI Management Switch
+5-Port 10G Multi Gigabit RJ-45 DC
+ADD INQUIRY
+AI-L3POE-2TX804-250 BT: AirCore 12-Port L3 and AI Management 2.5GE PoE++ Switch, including 4*10G SFP+
+8-Port PoE+/PoE++ 2.5G Multi Gigabit RJ-45 + 4 Ports 10G SFP+
+ADD INQUIRY
+GPON OLT-121-64: 1 PON Port GPON OLT with 10G SFP+
+ADD INQUIRY
+AirCloud TOP-36BE-2.5G: Wi-Fi 7 BE3600 Multi Giga PoE Access Point
+Central Management, Multi function, Super High Speed
+ADD INQUIRY
+AirCam EYDL-830XAI-MS
+8MP Dome Dual Light POE IP Camera with Smart AI, with Mic/Speaker
+ADD INQUIRY
+WEB-2TX1602: 2.5Gbps Base-T Web Smart Multi Gigabit Switch
+18-Port Multi Giga incl 16 x 2.5G RJ45, 2 x SFP+ 10G
+ADD INQUIRY
+Live-16GTM: 16-port SOHO Gigabit switch, VLAN, Plug and Play
+16 x Gigabit RJ-45 Switch
+ADD INQUIRY
+POE-GSH1622-

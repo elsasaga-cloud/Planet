@@ -1,44 +1,721 @@
-# SB-697 entpa.com.tr · home · https://entpa.com.tr/ · fetched 2026-10-25T07:41:18Z · HTTP 200
-ENTPA Elektronik
-select your language:
-ENTPA Elektronik
-ENTPA, 1980 yılından bu güne üstün Türk mühendisliği ve 30 yıllık bilgi birikimini özgün tasarımlarıyla buluşturarak, ürünlerini dünyanın 5 kıtasında 50'ye yakın ülkeye "Global Tedarikçi" kimliğiyle ihraç eden ve Türkiye elektronik sektörünün öncü firması olan ENTES'in ortakları tarafından 2003 yılında kurulmuştur.
-Uluslararası ithalatçı ve dağıtıcı kimliğiyle öne çıkan ENTPA'nın faaliyet alanı 2012 yılının ikinci yarısından itibaren güvenlik sektörüdür. ENTPA'nın temel vizyonu müşterilerinin ihtiyaçlarını kaliteli ve kullanıcı dostu ürünlerle karşılamak, güvenlik sektöründe kaliteli ürün dağıtımı ve müşteri odaklı hizmet anlayışıyla katma değer yaratmaktır.
-devamı >>
-ENTPA'dan Haberler
-STONET Switch’ler Stoklarımızda !!!
-devamı
-SUNELL CCTV ürünleri Stoklarımızda !!!
-devamı
-SUNELL ENTPA ELEKTRONİK Güvencesiyle Türkiye'de!
-devamı
-Termal Kamera & Kişi Sayma Çözümü’müz için Bize Ulaşın!
-devamı
-Kişi Tespiti & Maske Kontrolü Çözümü’müz için Bize Ulaşın!
-devamı
-Kadınların Can Simidi 6284 Sayılı Kanun
-devamı
-Sanal Pos Platformumuz entpapos.com'u Ziyaret Ettiniz mi?
-devamı
-Yeni Kataloglar
-YENİ Honeywell CCTV , Honeywell Morley IAS ve Wisenet Kataloğları web sitemize eklenmiştir.
-devamı
-Referanslarımız
-Arama
-Teknik Destek
-PDF formatında katalog, broşür ve kullanım talimatlarını bilgisayarınıza indirin
-ENTPA Elektronik Cihazlar Tic. Paz. ve Turizm A.Ş.
-Y.Dudullu OSB. 1.Cadde No:23 34775
-Ümraniye - Istanbul / TR.
-Telefon: +90 (216) 314 36 44
-Faks: +90 (216) 314 16 15
-İnsan Kaynakları
-Gizlilik Politikası
-Site Haritası
-Genel Bilgi: info@entpa.com.tr
-Yurtiçi Satış: satis@entpa.com.tr
-ENTPA bir ENTES kuruluşudur.
-© Entpa Elektronik 2013. Tüm hakları saklıdır.
-web tasarım: easyasnet
-v.r.3.3.7 (user ip:
-172.184.174.145)
+# SB-697 alliedasia.com.sg · home · https://alliedasia.com.sg/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+Allied Asia – Your Trusted Connectivity Solutions
+Comodo SSL
+Search here
+Categories
+Dante
+Dante Audio Adapter
+USB
+USB Type-A Adapter
+USB-A (Female/Female)
+USB-A (Male/Female)
+USB Type-C Adapter
+USB-C (Female/Female)
+USB-C (Male/Female)
+USB Multimedia
+USB Extender
+USB Repeater
+Data Communication
+USB Converter
+USB Hub
+USB Sharing
+USB KVM
+USB Cables
+USB2.0 Cables
+USB3.0 Cables
+USB3.2 Cables(Type-C)
+USB4 (Type-C)
+USB Accessories
+Faceplate Accessories
+Faceplate (Metal)
+Faceplate (Metal) D-Type
+Faceplate (Plastic)
+USB Charging
+Uncategorized
+Monitor
+Rackmount Industrial Monitor w/Drawer
+Rackmount Industrial Monitor
+KVM
+Desktop KVM
+Rackmount KVM
+Rackmount LCD KVM
+LCD KVM - VGA
+LCD KVM - HDMI
+LCD KVM - CAT6
+LCD KVM - Short Depth
+LCD KVM - Large Screen
+LCD KVM - Standard
+Rackmount LCD Console
+Standard
+Short Depth
+Large Screen
+Portable
+Dual Monitor
+Triple Monitor
+KVM accessories
+KVM Over-IP
+KVM Cable
+Cables
+Active Optical Cables (AOC)
+Displayport AOC
+HDMI AOC
+USB AOC
+Audio Cables
+XLR mic Cables
+3.5mm Stereo Cables
+6.35mm Cables
+RCA Cables
+TOSLink Cables
+Displayport Cables
+DP1.2
+DP to USB-C
+DP1.4 (8K)
+DP to HDMI
+DP to VGA
+DP to DVI
+Mini DP to Mini DP
+Mini DP to DP
+Mini DP to HDMI
+Mini DP to VGA
+Mini DP to DVI
+DVI Cables
+DVI to DVI
+DVI to HDMI
+DVI to VGA
+Fiber Optic Cables
+OM1 Multimode
+OM2 Multimode
+OM3 Multimode
+OM4 Multimode
+OS2 Singlemode
+HDMI Cables
+HDMI to DP Cables
+HDMI to USB-C Cables
+HDMI v1.4
+HDMI v2.0
+HDMI v2.0 (Premium)
+HDMI v2.0 (Booster)
+HDMI v2.0 (AOC)
+HDMI v2.0 (Extension)
+HDMI v2.1 (8K)
+HDMI v2.1 (8K AOC)
+Networking Cables
+Cat.5E
+Cat.6
+Cat.6A
+Cat.7
+Cat.8
+RGB VGA Cables
+VGA Male/Female
+VGA Male/Male
+VGA Male+Audio
+Serial Cables
+DB9 Male/Female
+DB9 Female/Female
+USB Cables
+USB 2.0 Cables
+USB 3.0 Cables
+USB 3.2 Cables(Type-C)
+USB 4 Cables (Type-C)
+Adapters
+Fiber Adapter
+LC/LC Adapters
+SC/LC Adapters
+SC/SC Adapters
+ST Adapters
+Audio Adapter
+Displayport Adapter
+Displayport MST Hub
+Displayport to HDMI
+Displayport to USB-C
+Displayport to VGA
+Displayport to DVI
+Displayport to Mini DP
+DVI Adapter
+HDMI Adapter
+HDMI Adapter (Male/Female)
+HDMI Adapter (Female/Female)
+HDMI to USB-C
+HDMI to Displayport
+HDMI to VGA
+HDMI to DVI
+mini HDMI
+micro HDMI
+Mini Displayport Adapter
+Mini Displayport to DVI
+Mini Displayport to VGA
+Mini Displayport to HDMI
+Mini Displayport to DP
+USB Type-A Adapter
+USB-A (Male/Female)
+USB-A (Female/Female)
+USB Type-C Adapter
+USB-C (Male/Female)
+USB-C (Female/Female)
+HDMI
+HDMI Modular Matrix Switcher
+HDMI Video Capture
+HDMI Converter
+HDMI Audio DE-EMBEDDER (Extractor)
+HDMI Audio EMBEDDER
+HDMI 4K Scaler
+HDCP Converter
+DVI to HDMI
+HDMI to VGA
+VGA to HDMI
+HDMI to RCA
+RCA to HDMI
+HDMI to RGB
+RGB to HDMI
+HDMI to SDI
+SDI to HDMI
+HDMI to Displayport
+HDMI to USB-C
+HDMI Cables
+HDMI to DP Cables
+HDMI to USB-C Cables
+HDMI v1.4
+HDMI v2.0
+HDMI v2.0 (Premium)
+HDMI v2.0 (Booster)
+HDMI v2.0 (AOC)
+HDMI v2.0 (Extension)
+HDMI v2.1 (8K)
+HDMI v2.1 (8K AOC)
+HDMI Extender
+HDMI Wireless
+HDMI Repeater
+HDMI over Cat5e/6
+HDMI over IP (LAN)
+HDMI over Fiber
+HDMI+USB (KVM)
+HDMI Splitter
+HDMI v1.4 Splitter
+HDMI v2.0 Splitter
+HDMI v2.1 Splitter (8K)
+HDMI Switch
+HDMI v1.4 Switch
+HDMI v2.0 Switch
+HDMI v2.1 Switch (8K)
+HDMI Multiviewer Switch
+HDMI Matrix Switch
+HDMI Video Wall
+HDMI Accessories
+Faceplate Accessories
+Faceplate (Metal) D-Type
+Faceplate (Metal)
+Faceplate (Plastic)
+HDMI Troubleshooter
+HDMI Signal Generator
+HDBaseT™
+HDBaseT™ Extender
+HDBT Extender Kit
+HDBT Receiver Box
+HDBT Receiver Wall plate
+HDBT Sender Box
+HDBT Sender Wall plate
+HDBaseT™ Splitter
+HDBT 1x4 Splitter
+HDBT 1x8 Splitter
+HDBaseT™ Matrix
+HDBT 4x4 Matrix
+HDBT 8x8 Matrix
+VGA
+VGA Splitter + Audio
+VGA Spltter
+VGA Switcher
+VGA Matrix Switcher
+VGA Extender
+VGA Converter
+VGA Cables
+VGA Accessories
+Faceplate Accessories
+Faceplate (Metal)
+Faceplate (Metal) D-Type
+Faceplate (Plastic)
+DVI
+DVI Extender
+DVI Splitter
+DVI Converter
+DVI Cables
+SDI
+SDI over fiber
+SDI video capture
+SDI Splitter
+SDI Converter
+POE
+POE Injector
+POE Switch
+POE Splitter
+POE Extender
+POE EOC Extender
+Networking
+Media Converter
+Gigabit media converter
+10G media converter
+POE media converter
+Video over fiber
+SFP Transceiver
+1.25G Fiber SFP
+10G Fiber SFP+
+RJ45 Copper SFP
+Networking Cables
+Cat.5E
+Cat.6
+Cat.6A
+Cat.7
+Cat.8
+Fiber patch cables
+Cable Management
+Patch Panels
+Connectors
+RJ45 Plug
+RJ45 Jack
+RJ45 inline Coupler
+RJ45 Coupler (Waterproof)
+RJ45 Keystone Coupler
+HDMI Keystone Coupler
+USB3.0 Keystone Coupler
+USB-C Keystone Coupler
+Accessories
+Table Mount
+Cable Reel
+Wall Plates
+RJ45 Boot
+Surge Protector
+Fiber Adapters
+Tools
+Tools Kit
+Crimp Tool
+Punch Tool
+Cable Tester
+Power
+Power Adapters
+Power Cords
+Power Extension
+Compare 0
+Wishlist 0
+0 Items $ 0.00
+Homepage
+About Us About ALLIED ASIA RESOURCES P/L
+Address & contact
+Our Affiliate
+Brands ATZ Connectors
+Dante Audio Adapter
+Accessories
+USB
+Monitor
+KVM
+Cables
+Adapters
+HDMI
+VGA
+DVI
+SDI
+POE
+Networking
+Whats New
+Products Dante Dante Audio Adapter
+USB USB Type-A Adapter USB-A (Male/Female)
+USB-A (Female/Female)
+USB Type-C Adapter USB-C (Male/Female)
+USB-C (Female/Female)
+USB Multimedia
+USB Extender
+USB Repeater
+Data Communication USB Converter
+USB Hub
+USB Sharing
+USB KVM
+USB Cables USB2.0 Cables
+USB3.0 Cables
+USB3.2 Cables(Type-C)
+USB4 (Type-C)
+USB Accessories Faceplate (Metal)
+Faceplate (Metal) D-Type
+Faceplate (Plastic)
+USB Charging
+Monitor Rackmount Industrial Monitor w/Drawer
+Rackmount Industrial Monitor
+KVM Desktop KVM
+Rackmount KVM
+Rackmount LCD KVM LCD KVM – VGA
+LCD KVM – HDMI
+LCD KVM – CAT6
+LCD KVM – Short Depth
+LCD KVM – Large Screen
+LCD KVM – Standard
+Rackmount LCD Console Standard
+Short Depth
+Large Screen
+Portable
+Dual Monitor
+Triple Monitor
+KVM accessories KVM Over-IP
+KVM Cable
+Cables Active Optical Cables (AOC) HDMI AOC
+Displayport AOC
+USB AOC
+Audio Cables XLR mic Cables
+6.35mm Cables
+3.5mm Stereo Cables
+RCA Cables
+TOSLink Cables
+Displayport Cables DP1.2
+DP1.4 (8K)
+DP to USB-C
+DP to HDMI
+DP to VGA
+DP to DVI
+Mini DP to Mini DP
+Mini DP to DP
+Mini DP to HDMI
+Mini DP to VGA
+Mini DP to DVI
+DVI Cables DVI to DVI
+DVI to HDMI
+DVI to VGA
+Fiber Optic Cables OM1 Multimode
+OM2 Multimode
+OM3 Multimode
+OM4 Multimode
+OS2 Singlemode
+HDMI Cables HDMI v1.4
+HDMI v2.0
+HDMI v2.0 (Premium)
+HDMI v2.0 (Booster)
+HDMI v2.0 (AOC)
+HDMI v2.0 (Extension)
+HDMI v2.1 (8K)
+HDMI v2.1 (8K AOC)
+HDMI to DP Cables
+HDMI to USB-C Cables
+Networking Cables Cat.5E
+Cat.6
+Cat.6A
+Cat.7
+Cat.8
+RGB VGA Cables VGA Male/Male
+VGA Male/Female
+VGA Male+Audio
+Serial Cables DB9 Male/Female
+DB9 Female/Female
+USB Cables USB 2.0 Cables
+USB 3.0 Cables
+USB 3.2 Cables(Type-C)
+USB 4 Cables (Type-C)
+Adapters Fiber Adapter ST Adapters
+SC/SC Adapters
+SC/LC Adapters
+LC/LC Adapters
+Audio Adapter
+HDMI Adapter HDMI Adapter (Male/Female)
+HDMI Adapter (Female/Female)
+HDMI to USB-C
+HDMI to Displayport
+HDMI to VGA
+HDMI to DVI
+mini HDMI
+micro HDMI
+Mini Displayport Adapter Mini Displayport to DVI
+Mini Displayport to VGA
+Mini Displayport to HDMI
+Mini Displayport to DP
+Displayport Adapter Displayport MST Hub
+Displayport to USB-C
+Displayport to HDMI
+Displayport to VGA
+Displayport to DVI
+Displayport to Mini DP
+DVI Adapter
+USB Type-A Adapter USB-A (Male/Female)
+USB-A (Female/Female)
+USB Type-C Adapter USB-C (Male/Female)
+USB-C (Female/Female)
+HDMI HDMI Converter HDMI Audio DE-EMBEDDER (Extractor)
+HDMI Audio EMBEDDER
+HDMI 4K Scaler
+HDCP Converter
+DVI to HDMI
+HDMI to VGA
+VGA to HDMI
+HDMI to RCA
+RCA to HDMI
+HDMI to RGB
+RGB to HDMI
+HDMI to SDI
+SDI to HDMI
+HDMI to Displayport
+HDMI to USB-C
+HDMI Video Capture
+HDMI Cables HDMI v1.4
+HDMI v2.0
+HDMI v2.0 (Premium)
+HDMI v2.0 (Booster)
+HDMI v2.0 (AOC)
+HDMI v2.0 (Extension)
+HDMI v2.1 (8K)
+HDMI v2.1 (8K AOC)
+HDMI to DP Cables
+HDMI to USB-C Cables
+HDMI Extender HDMI Wireless
+HDMI Repeater
+HDMI over Cat5e/6
+HDMI over IP (LAN)
+HDMI over Fiber
+HDMI+USB (KVM)
+HDMI Splitter HDMI v1.4 Splitter
+HDMI v2.0 Splitter
+HDMI v2.1 Splitter (8K)
+HDMI Switch HDMI v1.4 Switch
+HDMI v2.0 Switch
+HDMI v2.1 Switch (8K)
+HDMI Multiviewer Switch
+HDMI Matrix Switch
+HDMI Video Wall
+HDMI Modular Matrix Switcher
+HDMI Accessories Faceplate (Metal)
+Faceplate (Metal) D-Type
+Faceplate (Plastic)
+HDMI Troubleshooter
+HDMI Signal Generator
+HDBaseT™ HDBaseT™ Extender HDBT Extender Kit
+HDBT Sender Box
+HDBT Receiver Box
+HDBT Sender Wall plate
+HDBT Receiver Wall plate
+HDBaseT™ Splitter HDBT 1×4 Splitter
+HDBT 1×8 Splitter
+HDBaseT™ Matrix HDBT 4×4 Matrix
+HDBT 8×8 Matrix
+VGA VGA Splitter + Audio
+VGA Spltter
+VGA Switcher
+VGA Matrix Switcher
+VGA Extender
+VGA Converter
+VGA Cables
+VGA Accessories Faceplate (Metal)
+Faceplate (Metal) D-Type
+Faceplate (Plastic)
+DVI DVI Extender
+DVI Splitter
+DVI Converter
+DVI Cables
+SDI SDI Converter
+SDI Splitter
+SDI over fiber
+SDI video capture
+POE POE Switch
+POE Injector
+POE Splitter
+POE Extender
+POE EOC Extender
+Networking Media Converter Gigabit media converter
+10G media converter
+POE media converter
+Video over fiber
+SFP Transceiver 1.25G Fiber SFP
+10G Fiber SFP+
+RJ45 Copper SFP
+Networking Cables Cat.5E
+Cat.6
+Cat.6A
+Cat.7
+Cat.8
+Fiber patch cables
+Cable Management
+Patch Panels
+Connectors RJ45 Plug
+RJ45 Jack
+RJ45 inline Coupler
+RJ45 Coupler (Waterproof)
+RJ45 Keystone Coupler
+HDMI Keystone Coupler
+USB3.0 Keystone Coupler
+USB-C Keystone Coupler
+Accessories Table Mount
+Cable Reel
+Wall Plates
+RJ45 Boot
+Surge Protector
+Fiber Adapters
+Tools Tools Kit
+Crimp Tool
+Punch Tool
+Cable Tester
+Power Power Adapters
+Power Cords
+Power Extension
+Partners
+Contact Us Enquiry form
+Contact Information
+How To Get Here
+Support FAQs
+Terms of Use
+Privacy Policy
+ADD SOMETHING HERE...
+Compare 0
+Wishlist 0
+Register or sign in
+Compare 0
+Wishlist 0
+0 Items $ 0.00
+Check Out
+Search here
+Categories
+Dante
+Dante Audio Adapter
+USB
+USB Type-A Adapter
+USB-A (Female/Female)
+USB-A (Male/Female)
+USB Type-C Adapter
+USB-C (Female/Female)
+USB-C (Male/Female)
+USB Multimedia
+USB Extender
+USB Repeater
+Data Communication
+USB Converter
+USB Hub
+USB Sharing
+USB KVM
+USB Cables
+USB2.0 Cables
+USB3.0 Cables
+USB3.2 Cables(Type-C)
+USB4 (Type-C)
+USB Accessories
+Faceplate Accessories
+Faceplate (Metal)
+Faceplate (Metal) D-Type
+Faceplate (Plastic)
+USB Charging
+Uncategorized
+Monitor
+Rackmount Industrial Monitor w/Drawer
+Rackmount Industrial Monitor
+KVM
+Desktop KVM
+Rackmount KVM
+Rackmount LCD KVM
+LCD KVM - VGA
+LCD KVM - HDMI
+LCD KVM - CAT6
+LCD KVM - Short Depth
+LCD KVM - Large Screen
+LCD KVM - Standard
+Rackmount LCD Console
+Standard
+Short Depth
+Large Screen
+Portable
+Dual Monitor
+Triple Monitor
+KVM accessories
+KVM Over-IP
+KVM Cable
+Cables
+Active Optical Cables (AOC)
+Displayport AOC
+HDMI AOC
+USB AOC
+Audio Cables
+XLR mic Cables
+3.5mm Stereo Cables
+6.35mm Cables
+RCA Cables
+TOSLink Cables
+Displayport Cables
+DP1.2
+DP to USB-C
+DP1.4 (8K)
+DP to HDMI
+DP to VGA
+DP to DVI
+Mini DP to Mini DP
+Mini DP to DP
+Mini DP to HDMI
+Mini DP to VGA
+Mini DP to DVI
+DVI Cables
+DVI to DVI
+DVI to HDMI
+DVI to VGA
+Fiber Optic Cables
+OM1 Multimode
+OM2 Multimode
+OM3 Multimode
+OM4 Multimode
+OS2 Singlemode
+HDMI Cables
+HDMI to DP Cables
+HDMI to USB-C Cables
+HDMI v1.4
+HDMI v2.0
+HDMI v2.0 (Premium)
+HDMI v2.0 (Booster)
+HDMI v2.0 (AOC)
+HDMI v2.0 (Extension)
+HDMI v2.1 (8K)
+HDMI v2.1 (8K AOC)
+Networking Cables
+Cat.5E
+Cat.6
+Cat.6A
+Cat.7
+Cat.8
+RGB VGA Cables
+VGA Male/Female
+VGA Male/Male
+VGA Male+Audio
+Serial Cables
+DB9 Male/Female
+DB9 Female/Female
+USB Cables
+USB 2.0 Cables
+USB 3.0 Cables
+USB 3.2 Cables(Type-C)
+USB 4 Cables (Type-C)
+Adapters
+Fiber Adapter
+LC/LC Adapters
+SC/LC Adapters
+SC/SC Adapters
+ST Adapters
+Audio Adapter
+Displayport Adapter
+Displayport MST Hub
+Displayport to HDMI
+Displayport to USB-C
+Displayport to VGA
+Displayport to DVI
+Displayport to Mini DP
+DVI Adapter
+HDMI Adapter
+HDMI Adapter (Male/Female)
+HDMI Adapter (Female/Female)
+HDMI to USB-C
+HDMI to Displayport
+HDMI to VGA
+HDMI to DVI
+mini HDMI
+micro HDMI
+Mini Displayport Adapter
+Mini Displayport to DVI
+Mini Displayport to VGA
+Mini Displayport to HDMI
+Mini Displayport to DP
+USB Type-A Adapter
+USB-A (Male/Female)
+USB-A (Female/Female)
+USB Type-C Adapter
+USB-C (Male/Female)
+USB-C (Female/Female)
+HDMI
+HDMI Modular Matrix Switcher
+HDMI Video Capture
+HDMI Converter
+HDMI Audio DE-EMBEDDER (Extractor)
+HDMI Audio EMBED

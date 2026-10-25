@@ -1,121 +1,129 @@
 {
-  "code": "SB-080",
-  "name_official": "JguyTech（法国；联系人 J.-Y. Guibreteau，Gmail）",
-  "researched_at": "2026-10-21",
-  "website_status": "无域名（仅表内信息）",
-  "summary": "法国个体/小型技术服务商 JguyTech（Gmail）：已成样品单——OM4301 网络延长器 1 对（成交）；无后续跟进记录。已成交客户，复购路径为网络延长/光电转换/小 PoE。",
-  "type": "",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "用户表",
-      "claim": "OM4301 网络延长器 1 对成样品单（成交）",
-      "quote": "OM4301网络延长器 1对 成样品单",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "J.-Y. Guibreteau（邮箱推断；全名待核）",
-      "role": "用户表联系人（WhatsApp 为主通道）",
-      "email": "jyguibreteau@gmail.com",
-      "phone": "",
-      "source": "用户表 / entities 邮箱"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "无域名 · 仅表内信息（已成交）"
+ "code": "SB-080",
+ "name_official": "Cyber Tec（cyber-tec.net，伊拉克卡尔巴拉；域名现不可达）",
+ "website_status": "域名不可达（快照 2026-10-21 unreachable；搜索无收录）",
+ "summary": "伊拉克卡尔巴拉的小型 IT/网络公司（联系人 Sarmad Alwakil，sarmad@cyber-tec.net + yahoo，WA 已加）。表内兴趣 TA510-FE（百兆工业收发器类型号），2024-03 问「价格含电源吗？电源价格」；19 次推送 1 次实质回复。域名已不可达、无公开资料 → 公司存续待核；伊拉克非主攻区 → B 慢跟 25%。",
+ "type": "IT 经销/集成商",
+ "size": "待补证",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户记录",
+   "claim": "TA510-FE；WA 已加；1 次回复 / 19 次",
+   "quote": "TA510-FE；964077361 04911 已加（用户 Clients 表摘录）",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "legal_name": "JguyTech（表内；未能核实）",
-    "hq": "法国",
-    "size": "微型/个体"
+  {
+   "kind": "用户表",
+   "claim": "需求与回复",
+   "quote": "兴趣 TA510-FE；2024.3.15 发了工业MC系列信息 → price 含电源嘛？电源价格",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "弱电/网络延长安装（推断）"
-  ],
-  "channels": {
-    "邮箱": "（表内 Gmail）"
-  },
-  "signals": [
-    "已成交（样品单）→ 直接复购邀约"
-  ],
-  "risks": [
-    "个体、单量小；0 次跟进记录（需补跟进）"
-  ],
-  "saga_fit": {
-    "p1": "STC-28DGGPM",
-    "tier": 25,
-    "why": "终端 25% 档：STC-28DGGPM（$84.1）与 STI-110GE（$23.4）作延长器之后的下一件"
-  },
-  "email_hook": "How did the OM4301 extender pair perform on site? If the next job needs PoE at the far end, the 8-port gigabit PoE+ switch is $84.1 EXW and ships with the extenders in one parcel.",
-  "mail_review": {
-    "binding": {
-      "level": "轻度绑定（邮件无证，WhatsApp/WeChat 线）：用户表「OM4301网络延长器 1对 成样品单」；S/A 邮箱 0 封；Elsa 群发 BCC 已触达 2026-09-03「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，FR 批次 To kairosmusique@gmail.com，0 回（第 73 批(o) Bcc 头核对 msg 1a0673806b7c310d）",
-      "type": "—",
-      "sieve": "5（表内成单/样品单）",
-      "stop": "仓库只有用户表一行；往来在 Simon 手机",
-      "revive": "Simon WhatsApp 一句话（问复购/样品结论）",
-      "lane": "法国 非主攻",
-      "cadence": "一封",
-      "evidence": "gmail_digest：out 0；用户表：「OM4301网络延长器 1对 成样品单」；研究档 risks：个体、单量小；0 次跟进记录（需补跟进）；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To kairosmusique@gmail.com）2025-04-07→2026-09-03 共 10 轮群发（90W PoE Managed Switch、8 Port Industrial PoE Switch、Mini Industrial PoE Switch、16 Port Ethernet Switch、Industrial PoE Switch、10G Enterprise SFP Switch、OEM Core Switching Solution、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断"
-    },
-    "situation": "法国个体/小型技术服务商 JguyTech（Gmail）：已成样品单——OM4301 网络延长器 1 对（成交）；无后续跟进记录。已成交客户，复购路径为网络延长/光电转换/小 PoE。",
-    "need": "终端 25% 档：STC-28DGGPM（$84.1）与 STI-110GE（$23.4）作延长器之后的下一件",
-    "breakpoint": "个体、单量小；0 次跟进记录（需补跟进）",
-    "saga_now": {
-      "p1": "STC-28DGGPM",
-      "tier": 25,
-      "price": "按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-09-03 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-03；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
-      "why": "终端 25% 档：STC-28DGGPM（$84.1）与 STI-110GE（$23.4）作延长器之后的下一件",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "现在（Simon）",
-      "channel": "WhatsApp（Simon）",
-      "action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-09-03「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 一句话",
-      "one_question": "How did the OM4301 extender pair perform on site? If the next job needs PoE at the far end, the 8-port gigabit PoE+ switch is $84.1 EXW and ships with the extenders in one parcel."
-    },
-    "facts": [
-      {
-        "date": "2025-04-07",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To gildas.rault@faiveleytransport.com，FR 批次）",
-        "quote": "90W PoE Managed Switch — This is a Marvell based layer 2 managed PoE switch. 1. Highly programmable GUI 2. 2*PoE af/at/bt+6*PoE af/at, 240W budget 3. Support PoE management It",
-        "why": "Elsa 箱群发 BCC 触达证据（命中地址 jyguibreteau@gmail.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-        "k": "elsa_bcc"
-      },
-      {
-        "date": "2026-09-03",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To kairosmusique@gmail.com，FR 批次）",
-        "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
-        "why": "Elsa 箱群发 BCC 触达证据（命中地址 jyguibreteau@gmail.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-        "k": "elsa_bcc"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "OM4301网络延长器 1对 成样品单",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [
-      "WhatsApp 往来未入库"
-    ],
-    "draft_en": {
-      "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
-      "body": "How did the OM4301 extender pair perform on site? If the next job needs PoE at the far end, the 8-port gigabit PoE+ switch is $84.1 EXW and ships with the extenders in one parcel."
-    },
-    "as_of": "2026-10-25"
+  {
+   "kind": "官网快照",
+   "claim": "域名状态",
+   "quote": "site_snapshot 2026-10-21：cyber-tec.net unreachable（DNS/连接失败）；web 搜索无该域收录",
+   "url": "（data/saga_clients/site_snapshots/SB-080.json）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Sarmad Alwakil",
+   "role": "（职位未核）",
+   "email": "sarmad@cyber-tec.net / sarmad.karbala@yahoo.com",
+   "phone": "+964 773 610 4911（WA 已加）",
+   "source": "用户 Clients 表"
+  }
+ ],
+ "grade_override": "B",
+ "override_reason": "伊拉克非主攻区（收款/物流风险），1 次回复后 18 次无果 → 慢跟。",
+ "notes": "WA 季度触达。",
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（域名核对 → 存续待核 · 需求映射）"
+ },
+ "company_facts": {
+  "legal_name": "待核",
+  "founded": "待核",
+  "hq": "Karbala, Iraq（表内邮箱 sarmad.karbala@yahoo.com）",
+  "size": "待核（小型）",
+  "other": "+964 773 610 4911（WA）"
+ },
+ "business_lines": [
+  "待核（表内：工业光纤收发器采购）"
+ ],
+ "products_seen": [],
+ "channels": {
+  "contact": "Sarmad Alwakil sarmad@cyber-tec.net / sarmad.karbala@yahoo.com，+964 773 610 4911（WA 已加）"
+ },
+ "signals": [
+  "2024-03-15 问工业 MC 价格是否含电源（在比价）"
+ ],
+ "risks": [
+  "官网域名失效，企业邮箱可能退信 → 先用 yahoo/WA",
+  "伊拉克清关与付款风险；非主攻区"
+ ],
+ "saga_fit": {
+  "p1": "STI-110FE",
+  "tier": 25,
+  "why": "TA510-FE 类百兆工业收发器 → STI-110FE（1×FE + 1×100M SFP，DIN）；报价注明电源适配器另计"
+ },
+ "email_hook": "You once asked whether our industrial media converter price includes the power adapter — it is quoted separately; shall I send the 100M and gigabit versions with and without the 48 V adapter?",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣 TA510-FE；2024.3.15 发了工业MC系列信息 → price 含电源嘛？电源价格」；Elsa 箱：`to:cyber-tec.net` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(n)））",
+   "type": "IT 经销/集成商",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "不动（非主攻区；J5：有证据再动）",
+   "lane": "伊拉克 非主攻",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 0；用户表：「兴趣 TA510-FE；2024.3.15 发了工业MC系列信息 → price 含电源嘛？电源价格」；研究档 risks：官网域名失效，企业邮箱可能退信 → 先用 yahoo/WA"
+  },
+  "situation": "伊拉克卡尔巴拉的小型 IT/网络公司（联系人 Sarmad Alwakil，sarmad@cyber-tec.net + yahoo，WA 已加）。表内兴趣 TA510-FE（百兆工业收发器类型号），2024-03 问「价格含电源吗？电源价格」；19 次推送 1 次实质回复。域名已不可达、无公开资料 → 公司存续待核；伊拉克非主攻区 → B 慢跟 25%。",
+  "need": "TA510-FE 类百兆工业收发器 → STI-110FE（1×FE + 1×100M SFP，DIN）；报价注明电源适配器另计",
+  "breakpoint": "官网域名失效，企业邮箱可能退信 → 先用 yahoo/WA",
+  "saga_now": {
+   "p1": "STI-110FE",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "TA510-FE 类百兆工业收发器 → STI-110FE（1×FE + 1×100M SFP，DIN）；报价注明电源适配器另计",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2024-03-15",
+    "dir": "来",
+    "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+    "quote": "用户表跟进：推「发了工业MC系列信息」→ 对方「price 含电源嘛？ 电源价格」",
+    "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+    "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.110 2024.3.15"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣 TA510-FE；2024.3.15 发了工业MC系列信息 → price 含电源嘛？电源价格",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来",
+   "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

@@ -1,138 +1,164 @@
 {
  "code": "SB-910",
- "name_official": "",
+ "name_official": "Etic Telecom（etictelecom.com，法国）",
  "researched_at": "2026-10-21",
- "website_status": "在线（lorwen.it，快照 2026-10-21）",
- "summary": "意大利 Lorwen（视频监控网店：自有 LW- 系列 NVR（4K、PoE 口）、IP/AHD 摄像机、5 口千兆 PoE 即插即用交换机、54V 电源、PoE 分离器；表内「switch 看着像是丰润达的」；表内无邮箱，官网快照 info@lorwen.it）；表内无跟进记录。",
- "type": "CCTV 自有品牌网店（意大利，OEM 采购）",
+ "website_status": "在线",
+ "summary": "法国工业通信设备制造商（1985 年起）：工业 VPN 路由器 IPL 系列、机器远程维护盒 RAS、SHDSL/SPE 以太网延长器 XSLAN/XELAN、VPN 集中器 SIG，以及**军规战术 SHDSL 交换机 XSMIL**（Airbus Defence & Space 选用）；市场为水务、能源、交通、城市基础设施与工业 4.0。其产品线没有常规千兆管理 PoE 交换机。用户表：S 重点，1 次实质回复，22 次跟进，**用户已判定「不行」**；联系人 Charles Chaussonnier。",
+ "type": "",
  "size": "",
  "brands_seen": [
-  "丰润达（疑）"
+  "Etic Telecom（自产）"
  ],
  "evidence": [
   {
-   "kind": "官网快照",
-   "claim": "官网标题：Lorwen - Soluzioni Sicurezza Video e Impianti di Videosorveglianza；品类词 安防监控（CCTV / 门禁） / 无线 / WiFi / 网络交换 / PoE",
-   "quote": "Lorwen propone un'ampia selezione di NVR, Telecamere IP, XVR e Accessori per impianti di videosorveglianza di alta qualità. Acquista subito online!",
-   "url": "https://lorwen.it/",
-   "date": "2026-10-21"
+   "kind": "官网",
+   "claim": "产品线构成",
+   "quote": "Our product lines Machine Access Box RAS Family Industrial VPN router IPL Family Ethernet extender XSLAN/XELAN Family VPN servers SIG Family SHDSL tactical switch XSMIL family",
+   "url": "https://www.etictelecom.com/en/",
+   "date": "2024-01-03"
+  },
+  {
+   "kind": "官网",
+   "claim": "公司历史与市场",
+   "quote": "Etic Telecom designs and markets safe, simple, robust and low consumption products … Since 1985, we have been active in the water, energy, transportation, urban infrastructure and industry 4.0 markets. Etic Telecom is a European player designing and selling Telecom Products (routers, VPN servers, gateways, SHDSL switches, modem).",
+   "url": "https://www.etictelecom.com/en/about-us/",
+   "date": "2024-08-20"
+  },
+  {
+   "kind": "官网新闻",
+   "claim": "国防客户（守界依据）",
+   "quote": "Airbus Defense & Space chooses Etic Telecom technologies … has chosen Etic Telecom technologies (IPL routers and Ethernet extender XSLAN) for networking barracks and mobile operational equipment.",
+   "url": "https://www.etictelecom.com/en/airbus-defense-space-chooses-etic-telecom-technologies/",
+   "date": "2020-07-09"
   },
   {
    "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "switch 看着像是丰润达的",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "Lorwen 网店",
-   "quote": "Lorwen propone un’ampia selezione di NVR, Telecamere IP, XVR e Accessori per impianti di videosorveglianza di alta qualità. Acquista subito online!",
-   "url": "https://lorwen.it/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "switch 看着像丰润达的",
-   "quote": "switch 看着像是丰润达的",
+   "claim": "S 重点；1 次实质回复；22 次跟进；用户判定不行；联系人 Charles Chaussonnier",
+   "quote": "（用户表字段）",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
  "kp": [
   {
-   "name": "（info@）",
-   "title": "官网公开邮箱",
-   "email": "info@lorwen.it",
-   "phone": "",
-   "source": "官网快照"
+   "name": "Charles Chaussonnier",
+   "role": "联系人（用户表）",
+   "email": "charles.chaussonnier@etictelecom.com",
+   "phone": "—",
+   "source": "用户表"
   }
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（官网产品线核对）"
  },
  "company_facts": {
-  "hq": "意大利",
-  "other": "官网 lorwen.it，语言 it-IT，快照状态 ok；角色判定来源：官网文案"
+  "legal_name": "Etic Telecom",
+  "founded": "1985",
+  "hq": "France（官网未列详细地址于摘要）",
+  "other": "自研自产，欧洲玩家；产品线 RAS / IPL / XSLAN-XELAN / SIG / XSMIL；配置手册公开（SHDSL 交换机 XSLAN+1xxx/2xxx/4xxx，XSMIL-4200 军规 4 口）"
  },
  "business_lines": [
-  "视频监控网店（自有品牌 Lorwen NVR / 摄像机 / PoE）"
+  "工业 VPN 路由器与远程维护（IPL / RAS / SIG）",
+  "SHDSL / SPE 以太网延长器（XSLAN / XELAN）",
+  "军规战术通信（XSMIL；守界：不参与）"
  ],
- "channels": {
-  "role": "CCTV 自有品牌网店（意大利，OEM 采购）",
-  "region": "意大利",
-  "contact": "（表内无邮箱）"
- },
- "signals": [
-  "页面 /prodotto/switch-poe-5-porte-10-100-1000-plug-n-play/、/prodotto/alimentatore-54v-per-nvr-e-switch-poe/、/prodotto/splitter-poe-12v-15-4w-10-100-mbps/；站内 LW-NVR4KS9C4P / LW-NVR12M9C8P",
-  "官网：Lorwen propone un’ampia selezione di NVR, Telecamere IP, XVR e Accessori；kw nvr 197 / poe 52"
- ],
- "risks": [
-  "现供疑为丰润达（深圳）价格基准低；网店量小",
-  "邮箱来自官网快照（info@），无具名 KP；无跟进记录"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 30,
-  "why": "自有 LW 标 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴标；5 口 PoE 即插即用位 HRUI STC-114GP（$16.5 列表价）；电源/分离器 Saga 不做"
- },
- "email_hook": "For the PoE switches you sell under the Lorwen label next to your LW NVR range, we can be a second source on a Marvell L2+ platform (8-PoE + 2 SFP) and budget 5/8-port plug-and-play PoE units from small lots in your packaging, CE/RoHS, EXW USD — which size ships most with your NVR kits?",
  "products_seen": [
   {
-   "brand": "Lorwen（自有）",
-   "model": "Switch PoE 5 porte 10/100/1000 plug n play",
-   "spec": "5 口千兆 PoE 非管理",
-   "saga": "HRUI STC-114GP（列表价，注明）",
-   "url": "https://lorwen.it/prodotto/switch-poe-5-porte-10-100-1000-plug-n-play/",
-   "date": "2026-10-21"
+   "brand": "Etic Telecom",
+   "model": "IPL-E-100 / IPL-E-400 / IPL-E-220",
+   "spec": "工业路由器 IP31 金属壳 DIN 导轨，10 条 VPN，SPI 防火墙，−20~+70 ℃，QoS/VLAN",
+   "url": "https://www.etictelecom.com/en/etic-product/ipl-e-100/",
+   "date": "2024-12-09",
+   "saga": "—（路由器，Saga 无）"
+  },
+  {
+   "brand": "Etic Telecom",
+   "model": "XSLAN+1xxx/2xxx/4xxx · XSMIL-4200",
+   "spec": "工业级 1/2/4 口 SHDSL 以太网交换机；XSMIL-4200 军规",
+   "url": "https://www.etictelecom.com/wp-content/uploads/2021/01/DOC_DEV_XS_Setup_guide_C.pdf",
+   "date": "2021-01-01",
+   "saga": "—（SHDSL 介质，Saga 无）"
   }
  ],
+ "channels": {
+  "网站": "https://www.etictelecom.com/en/"
+ },
+ "signals": [
+  "唯一可能的切入点：其工业路由器/延长器需要配套的 DIN 导轨千兆管理 PoE 交换机（产品线空白）→ OEM 补线（Etic 标或中性）；但用户已判定「不行」，仅作低频备案"
+ ],
+ "risks": [
+  "军规/国防客户（Airbus Defence & Space、XSMIL）→ 守界，仅限水务/能源等民用线",
+  "制造商兼潜在竞争者；用户判定不行 → 不主动推进"
+ ],
+ "saga_fit": {
+  "p1": "STI-288DGGPM",
+  "tier": 30,
+  "why": "若重启：以 OEM（Etic 标）补其产品线空白——STI-288DGGPM DIN 导轨 8 PoE+ + 2 SFP 管理机，与 IPL 路由器同柜；OEM 30% 档；默认不推进（用户判定不行）"
+ },
+ "email_hook": "（用户已判定不行，默认不发；若重启）Alongside the IPL routers your water and energy customers deploy, a DIN-rail 8-port PoE+ managed switch in Etic packing would fill the one slot your range does not cover — would a sample for your lab be useful?",
  "mail_review": {
   "binding": {
-   "level": "未发信（S/A 邮箱均无往来；来源：用户表「switch 看着像是丰润达的」；Elsa 箱：`to:lorwen.it` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(j)））",
-   "type": "CCTV 自有品牌网店（意大利，OEM 采购）",
-   "sieve": "—（未入筛）",
-   "stop": "从未触达",
-   "revive": "不动（Q-33 供应商渠道客户）",
-   "lane": "意大利（欧洲全域主攻）",
-   "cadence": "不动",
-   "evidence": "gmail_digest：out 0；用户表：「switch 看着像是丰润达的」；研究档 risks：现供疑为丰润达（深圳）价格基准低；网店量小"
+   "level": "轻度绑定→未闭环（唯一一封来信 2024-05-22「What is the price DDP for 10, 50, 100 units?」= 三档量询价；Simon 当天给了 EXW 报价并声明不含清关；之后 Simon 两次追问无回，再 20+ 封群发无回；Elsa 箱：`to:etictelecom.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 26 / 来 1）（第 74 批(k)））",
+   "type": "法国工业路由器/远程访问制造商（Etic Telecom；Charles = 采购/产品）——第一档品牌商，问的是 DDP 三档价 = 真在做成本模型",
+   "sieve": "3（三档量询价）",
+   "stop": "他要 DDP，Saga 给 EXW + 「不含清关」——对法国品牌商这等于没报；没有 10/50/100 的阶梯也没有到门成本",
+   "revive": "重报一次：按 10/50/100 三档 + 百运网 DAP 法国（DAP 不是 DDP，但把运费与大致关税写清）",
+   "lane": "FR 主攻",
+   "cadence": "一封重报",
+   "evidence": "k=1e2c24b00883813d（DDP 10/50/100）；320115425c459bcb（EXW 报价 + NOT including customs）；096d6be144a97e35（追问 + Marvell 话术）"
   },
-  "situation": "意大利 Lorwen（视频监控网店：自有 LW- 系列 NVR（4K、PoE 口）、IP/AHD 摄像机、5 口千兆 PoE 即插即用交换机、54V 电源、PoE 分离器；表内「switch 看着像是丰润达的」；表内无邮箱，官网快照 info@lorwen.it）；表内无跟进记录。",
-  "need": "自有 LW 标 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴标；5 口 PoE 即插即用位 HRUI STC-114GP（$16.5 列表价）；电源/分离器 Saga 不做",
-  "breakpoint": "现供疑为丰润达（深圳）价格基准低；网店量小",
+  "situation": "客户问了一个采购经理才会问的问题（三档量的到门价），Saga 回了一张不含清关的 EXW 报价单，然后用「Marvell 是最贵的方案」追问——方向反了。",
+  "need": "DIN 24 口 L3 管理 PoE（10G 上联）作为其工业路由器的配套。",
+  "breakpoint": "贸易条款与阶梯价。",
   "saga_now": {
-   "p1": "STC-28DGGPM",
+   "p1": "STI-42424XGGPM 三档 DAP 价",
    "tier": 30,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "自有 LW 标 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴标；5 口 PoE 即插即用位 HRUI STC-114GP（$16.5 列表价）；电源/分离器 Saga 不做",
+   "price": "按主表 OEM 30% 档 + 百运网 DAP；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-10-24 $65（10G Media Converter）、2024-11-20 $300（48 Port PoE Managed Switch）、2025-10-29 $280（10G Enterprise SFP Switch）、2026-07-20 $1500（24 Port 10G SFP+ Switch）、2026-09-08 $170（24 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2025-01-03 $240（24 Port Fiber Switch）",
+   "why": "法国品牌商 + 真询价｜已发资料（勿重发）：STI-4240XGGM(2024-05-22)、CLI Manual(2024-05-22)、Marvell Based Web Manual(2024-05-22)、Product Link_2026Q2(2026-03-02)、Saga Feature List_7.5.x_L2+(2026-06-22)；已发单据：Quotation(2024-05-22)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）",
    "repeat": [],
-   "gaps": []
+   "gaps": "DAP 运费按百运网当期报价 → 阶梯表由 Simon 填；仓库不编运费"
   },
   "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—",
-   "one_question": ""
+   "when": "现在",
+   "channel": "S 邮箱 → charles.chaussonnier@etictelecom.com",
+   "action": "重报三档 DAP；附件：10 / 50 / 100 pcs 三档 DAP 表——Simon 先按百运网报价算到 Lyon 的运费再填，信里只写「attached sheet」",
+   "one_question": "Charles — here is the 10/50/100 ladder on DAP-France terms for the 24-port DIN L3 PoE; is this still a live requirement for your router bundles?"
   },
   "facts": [
    {
-    "date": "2026-10-21",
-    "dir": "用户表",
+    "date": "2024-05-22",
+    "dir": "来",
+    "who": "Charles Chaussonnier",
+    "quote": "What is the price DDP for 10, 50, 100 units?",
+    "why": "三档量询价",
+    "k": "1e2c24b00883813d"
+   },
+   {
+    "date": "2024-05-22",
+    "dir": "去",
     "who": "Simon",
-    "quote": "switch 看着像是丰润达的",
-    "why": "表内备注",
-    "k": "用户表"
+    "quote": "Please see attached quotation. Please know that the quotation is NOT including customs clearance cost at your side.",
+    "why": "条款错位",
+    "k": "320115425c459bcb"
+   },
+   {
+    "date": "2024-06-21",
+    "dir": "去",
+    "who": "Saga（Simon）",
+    "quote": "Hi, Charles, How are you? Any update about our offer last time? Not sure if you care about chip solution, we are using Marvell chip, basically one of the most expensive solutions on the market. Let me recommend a new unmanaged model(paralleled to the market prices). Feature: Support DIP dialing and…",
+    "why": "Saga 实质答复原文（主题「Re: 24 port managed switch」；第 20 批从 gmail_s 回补）——承诺/口径以此为准",
+    "k": "096d6be144a97e35"
    }
   ],
-  "proof_gaps": [
-   "无邮件往来"
-  ],
-  "draft_en": null,
+  "proof_gaps": [],
+  "draft_en": {
+   "subject": "24-port DIN L3 PoE — 10/50/100 pcs, DAP France",
+   "body": "Hi, Charles,\n\nIn May 2024 you asked for DDP prices for 10/50/100 units of the 24-port DIN-rail L3 managed PoE with 10G uplinks, and we only answered EXW. Here is the proper answer.\n\n- Base: STI-42424XGGPM (L3), 24x GbE PoE + 4x 10G SFP+, -40 to +70 C at 240 W PoE budget (-40 to +60 C at 370 W) — $517 USD/pc EXW (2026-10 table, valid 15 days).\n- 10 / 50 / 100 pcs: tiered prices on the attached sheet.\n- Terms: DAP France via our forwarder (sea or air, your choice); import VAT/duty handled by you or your broker — we do not do DDP into the EU.\n\nOne question: is this still a live requirement for your router bundles, and which quantity should I firm up first?\n\nThank you.\nSimon\nSaga Telecom - sagatele.com"
+  },
   "as_of": "2026-10-24"
  }
 }

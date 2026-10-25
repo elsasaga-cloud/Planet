@@ -1,0 +1,66 @@
+{
+ "code": "SC-074",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（pultar.org，快照 2026-10-21）",
+ "summary": "法国 pultar.org（个人网站「Pultars’ Website」；Alibaba RTS 订单「2 个 D4*4B bypass」；KP Giray Pultar）；表内未跟进。",
+ "type": "个人买家（RTS 订单）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Pultars' Website",
+   "quote": "",
+   "url": "https://www.pultar.org/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "2个D4*4B bypass / from: Alibaba RTS订单",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "bypass ×2 RTS",
+   "quote": "2个D4*4B bypass / from: Alibaba RTS订单",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "个人零售买家，非渠道；c_sub=品类不符/终端用户",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "法国",
+  "other": "官网 pultar.org，语言 ?，快照状态 ok；角色判定来源：待核"
+ },
+ "business_lines": [
+  "（个人买家）"
+ ],
+ "channels": {
+  "role": "个人买家（RTS 订单）",
+  "region": "法国",
+  "contact": "giray@pultar.org、mustafa@pultar.org"
+ },
+ "signals": [
+  "快照：Pultars’ Website",
+  "表内：2 个 D4*4B bypass / from: Alibaba RTS 订单；KP Giray Pultar"
+ ],
+ "risks": [
+  "个人零售买家（非渠道）"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 20,
+  "why": "个人网站域、零售订单，非渠道 → 改 C"
+ },
+ "email_hook": "（不发送：个人买家）"
+}

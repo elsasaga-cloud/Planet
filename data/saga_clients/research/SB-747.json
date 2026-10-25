@@ -1,125 +1,136 @@
 {
- "code": "SB-747",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（binhilal.ae，快照 2026-10-21）",
- "summary": "阿联酋 Bin Hilal Group / Bin Hilal Holdings（多元化集团：安全与安防、能源与公用事业、贸易、建筑与基础设施、设施管理；阿里巴巴 RFQ「5 电口」；KP Mehar Asad（Head of Department Procurement，gmail 邮箱））；表内未跟进。",
- "type": "多元化集团采购（阿联酋，5 口 RFQ）",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：Bin Hilal Holdings Empowering by innovation",
-   "quote": "Safety & Security；Energy & Utilities；Trading；Construction & Infrastructure；Agriculture & Environment；Facilities & Property Management",
-   "url": "https://binhilal.ae/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "5电口 / from: 阿里巴巴RFQ",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "Bin Hilal 定位",
-   "quote": "Bin Hilal Holdings Empowering by innovation ; Safety & Security ; Energy & Utilities ; Trading",
-   "url": "https://binhilal.ae/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "5 电口 RFQ",
-   "quote": "5电口 / from: 阿里巴巴RFQ",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Mehar Asad",
-   "title": "Head of Department Procurement",
-   "email": "mehar.asad786@gmail.com",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "阿联酋",
-  "other": "官网 binhilal.ae，语言 en-US，快照状态 ok；角色判定来源：官网文案"
- },
- "business_lines": [
-  "多元化集团（安防 / 能源 / 贸易 / 建筑，阿联酋）"
- ],
- "channels": {
-  "role": "多元化集团采购（阿联酋，5 口 RFQ）",
-  "region": "阿联酋",
-  "contact": "mehar.asad786@gmail.com"
- },
- "signals": [
-  "官网：Bin Hilal Holdings Empowering by innovation ; Safety & Security ; Energy & Utilities ; Trading ; Construction & Infrastructure ; Facilities & Property Management",
-  "表内：5 电口 / from: 阿里巴巴 RFQ；KP Mehar Asad, Head of Department Procurement；mehar.asad786@gmail.com"
- ],
- "risks": [
-  "采购负责人使用 gmail 免费邮箱（实体/身份待核）；集团自用采购（非渠道，量随项目）；非主攻区（T5，阿联酋）；RFQ 时效待核"
- ],
- "saga_fit": {
-  "p1": "STI-050GE",
-  "tier": 25,
-  "why": "RFQ 5 电口 → 工业 5 GE 非管理 STI-050GE（$17.8 @25%）；项目延伸 8 GE + 2 SFP 管理 STI-280GE（$48.6）、8 口 PoE+ 2 SFP STC-28DGGPM（$84.1）"
- },
- "email_hook": "Mehar, following your request for 5-port switches: our DIN-rail 5-GE industrial unit (−40~75 °C, 12–57 V, CE/RoHS) ships from single units, EXW USD, 10–15 days — how many units does the project need, and will PoE or fibre uplinks be required elsewhere on the same site?",
- "mail_review": {
-  "binding": {
-   "level": "未发信（S/A 邮箱均无往来；来源：用户表「5电口 / from: 阿里巴巴RFQ」；Elsa 箱：`to:binhilal.ae` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(n)））",
-   "type": "多元化集团采购（阿联酋，5 口 RFQ）",
-   "sieve": "—（未入筛）",
-   "stop": "从未触达",
-   "revive": "不动（非主攻区；J5：有证据再动）",
-   "lane": "阿联酋 非主攻",
-   "cadence": "不动",
-   "evidence": "gmail_digest：out 0；用户表：「5电口 / from: 阿里巴巴RFQ」；研究档 risks：采购负责人使用 gmail 免费邮箱（实体/身份待核）；集团自用采购（非渠道，量随项目）；非主攻区（T5，阿联酋）；RFQ 时效待核"
-  },
-  "situation": "阿联酋 Bin Hilal Group / Bin Hilal Holdings（多元化集团：安全与安防、能源与公用事业、贸易、建筑与基础设施、设施管理；阿里巴巴 RFQ「5 电口」；KP Mehar Asad（Head of Department Procurement，gmail 邮箱））；表内未跟进。",
-  "need": "RFQ 5 电口 → 工业 5 GE 非管理 STI-050GE（$17.8 @25%）；项目延伸 8 GE + 2 SFP 管理 STI-280GE（$48.6）、8 口 PoE+ 2 SFP STC-28DGGPM（$84.1）",
-  "breakpoint": "采购负责人使用 gmail 免费邮箱（实体/身份待核）；集团自用采购（非渠道，量随项目）；非主攻区（T5，阿联酋）；RFQ 时效待核",
-  "saga_now": {
-   "p1": "STI-050GE",
-   "tier": 25,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "RFQ 5 电口 → 工业 5 GE 非管理 STI-050GE（$17.8 @25%）；项目延伸 8 GE + 2 SFP 管理 STI-280GE（$48.6）、8 口 PoE+ 2 SFP STC-28DGGPM（$84.1）",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—",
-   "one_question": ""
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "5电口 / from: 阿里巴巴RFQ",
-    "why": "表内备注",
-    "k": "用户表"
-   }
+  "code": "SB-747",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（digitclik.it，快照 2026-10-21）",
+  "summary": "意大利 Digitclik（digitclik.it / digitclik.com：销售平台型网店，工业 FS 与周边产品，「像是国内的工商业 switch」；表内「可以尝试多跟进一下」；快照为斯洛文尼亚语「Stran v izdelavi」建设中页（域名/站点待核））；群发 15 次无回复。",
+  "type": "网络产品网店（意大利，站点待核）",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：Viras",
+      "quote": "Stran v izdelavi ...；KONTAKT:",
+      "url": "https://www.viras.si",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "销售平台 工业FS 周边产品 像是国内的工商业switch",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "销售平台 工业 FS 国内工商业 switch",
+      "quote": "销售平台 工业FS 周边产品 像是国内的工商业switch；可以尝试多跟进一下",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [
-   "无邮件往来"
+  "kp": [],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "意大利",
+    "other": "官网 digitclik.it，语言 sl，快照状态 ok；角色判定来源：用户表"
+  },
+  "business_lines": [
+    "网络产品网店 / 销售平台（意大利）"
   ],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "channels": {
+    "role": "网络产品网店（意大利，站点待核）",
+    "region": "意大利",
+    "contact": "info@digitclik.com"
+  },
+  "signals": [
+    "快照：Viras ; Stran v izdelavi ... ; KONTAKT:",
+    "表内：销售平台 工业 FS 周边产品 像是国内的工商业 switch；可以尝试多跟进一下"
+  ],
+  "risks": [
+    "快照为建设中页（斯洛文尼亚语，与意大利实体不符——站点待核）；平台型卖家（低粘性）；15 次无回复，仅 info@"
+  ],
+  "saga_fit": {
+    "p1": "STI-280GE",
+    "tier": 20,
+    "why": "工业 FS 位 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、工业 8 PoE + 2 SFP STI-288GPM（$78.9）、商用 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7）"
+  },
+  "email_hook": "For the industrial and commercial switches on your platform, we supply neutral-brand Marvell-based DIN-rail 8-GE + 2 SFP, 8-PoE + 2 SFP and commercial 8-PoE L2+ units from single units, CE/RoHS, EXW USD — which switch SKU do your customers order most?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A/S 邮箱 23 封 2024→2026，无记录打开，0 回；收件 info@digitclik.com；主题多为「Industrial PoE Switch、Marvell Alleycat5 Solution」）；Elsa 1:1 去信 1 封（2025-02-10「90W PoE Managed Switch」；To 仅本户 info@digitclik.com；Bcc 未逐封读头；同类名单抽读 24 封均无 Bcc；此后再未进 Elsa 任何名单——全箱 `from:e.sagatelecom to:info@digitclik.com` 仅此 1 条，complete）（第 74 批(m)）",
+      "type": "网络产品网店（意大利，站点待核）",
+      "sieve": "1（只收到群发）",
+      "stop": "只打通用邮箱，无记录打开",
+      "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+      "lane": "意大利（欧洲全域主攻）",
+      "cadence": "一封",
+      "evidence": "gmail_digest：out 23；用户表：「销售平台 工业FS 周边产品 像是国内的工商业switch」；研究档 risks：快照为建设中页（斯洛文尼亚语，与意大利实体不符——站点待核）；平台型卖家（低粘性）；15 次无回复，仅 info@"
+    },
+    "situation": "意大利 Digitclik（digitclik.it / digitclik.com：销售平台型网店，工业 FS 与周边产品，「像是国内的工商业 switch」；表内「可以尝试多跟进一下」；快照为斯洛文尼亚语「Stran v izdelavi」建设中页（域名/站点待核））；群发 15 次无回复。",
+    "need": "工业 FS 位 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、工业 8 PoE + 2 SFP STI-288GPM（$78.9）、商用 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7）",
+    "breakpoint": "快照为建设中页（斯洛文尼亚语，与意大利实体不符——站点待核）；平台型卖家（低粘性）；15 次无回复，仅 info@",
+    "saga_now": {
+      "p1": "STI-280GE",
+      "tier": 20,
+      "price": "换人再触锚价 STI-280GE $46 EXW（Saga 2025 Realtek 工业线对外价 $46（非管理工业线不用档位价 ㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-12-16 $240（24 Port Fiber Switch）；群发里他已看到的价（续，第 66 批全量复核）：2024-06-25 $220（48 port managed switch）、2025-10-15 $280（10G Enterprise SFP Switch）",
+      "why": "工业 FS 位 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、工业 8 PoE + 2 SFP STI-288GPM（$78.9）、商用 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7）",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "2027-Q1（换人后）",
+      "channel": "A 邮箱 → 具名 KP",
+      "action": "首封前知悉：Elsa 仅 2025-02-10 单发过 1 封「90W PoE Managed Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(ac) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
+      "one_question": "For the industrial and commercial switches on your platform, we supply neutral-brand Marvell-based DIN-rail 8-GE + 2 SFP, 8-PoE + 2 SFP and commercial 8-PoE L2+ units from single units, CE/RoHS, EXW USD — which switch SKU do your customers order most? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity)."
+    },
+    "facts": [
+      {
+        "date": "2025-02-10",
+        "dir": "out",
+        "who": "Elsa → info@digitclik.com",
+        "quote": "90W PoE Managed Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+        "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
+        "k": "elsa_1to1",
+        "msg_id": "194ef31b43384449"
+      },
+      {
+        "date": "2026-10-08",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "Industrial PoE Switch、Marvell Alleycat5 Solution",
+        "why": "23 封 / 0 次打开 / 0 回｜首封 2024-06-25 → 末封 2026-10-08（23 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "销售平台 工业FS 周边产品 像是国内的工商业switch",
+        "why": "表内备注",
+        "k": "用户表"
+      },
+      {
+        "date": "2026-10-08",
+        "dir": "去",
+        "who": "A 箱（Alan）",
+        "quote": "Managed PoE Switches",
+        "why": "本日去信真实主题（邮箱索引 6eaef23f37b1211b；信稿开头句引用此封；此前稿内写的「Industrial PoE Switch」是线程列表首题，不是本封）",
+        "k": "6eaef23f37b1211b"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": {
+      "subject": "For the industrial and commercial switches on your platform - three neutral-brand numbers",
+      "body": "Hello Digitclik team,\n\nWe wrote to you once in February 2025 about a 90 W PoE managed switch, and since then only general product mails - most recently \"Managed PoE Switches\" on 8 October 2026 - none of which needed an answer. This one is specific.\n\nFor the industrial and commercial switches on your platform, neutral-brand units at distributor price, EXW, from single units, 15-day validity, CE/RoHS: DIN-rail 8 x Gigabit + 2 x SFP, unmanaged, -40 to 75 C - model STI-280GE - $46 USD; DIN-rail 8 x Gigabit PoE+ + 2 x SFP, L2 managed, Marvell-based - STI-288GPM - $78.9; commercial 8 x PoE+ + 2 x SFP, L2+ managed - STC-28DGGPM - $80.7.\n\nOne question: which switch SKU do your customers order most - industrial or commercial PoE?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+    },
+    "as_of": "2026-10-24"
+  }
 }

@@ -1,169 +1,250 @@
 {
- "code": "SB-827",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（fastercable.com，快照 2026-10-21）",
- "summary": "美国 FasterCable（线缆供应商；自有 EISW8-100T / EISW16-100T 工业以太网交换机（百兆电口）；表内「5/8/16 电口工业 FS 周边产品」；KP Richard Ozols（Sales Manager）、Juliette O（V. President））；群发 20 次无回复。",
- "type": "线缆供应商（美国，自有标工业电口 FS）",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：FasterCable；品类词 布线 / 线缆 / 网络交换 / PoE",
-   "quote": "Featured Products；New Products",
-   "url": "https://fastercable.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "5/8/16电口工业FS 周边产品",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "FasterCable 站点型号",
-   "quote": "FasterCable ; Featured Products ; EISW16-100T ; EISW8-100T",
-   "url": "https://fastercable.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "5/8/16 电口工业 FS",
-   "quote": "5/8/16电口工业FS 周边产品",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Richard Ozols",
-   "title": "Sales Manager",
-   "email": "richard@fastercable.com",
-   "phone": "",
-   "source": "用户表"
-  },
-  {
-   "name": "Juliette O",
-   "title": "V. President",
-   "email": "",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "美国",
-  "other": "官网 fastercable.com，语言 en，快照状态 ok；角色判定来源：官网文案"
- },
- "business_lines": [
-  "线缆 / 网络配件",
-  "工业以太网交换机（自有 EISW 系列）"
- ],
- "channels": {
-  "role": "线缆供应商（美国，自有标工业电口 FS）",
-  "region": "美国",
-  "contact": "richard@fastercable.com、sales@fastercable.com"
- },
- "signals": [
-  "站内 EISW16-100T / EISW8-100T；kw cable 191 / switch 21 / ethernet 14",
-  "表内：5/8/16 电口工业 FS 周边产品；KP Richard Ozols / Sales Manager；Juliette O / V. President"
- ],
- "risks": [
-  "主业线缆（Saga 不做），交换机为周边；现款为百兆（价格基准低）",
-  "20 次无回复 → 改向 Sales Manager 具名首触"
- ],
- "saga_fit": {
-  "p1": "STI-080GE",
-  "tier": 30,
-  "why": "自有 EISW 系列 5/8/16 电口工业 FS → 工业 8 GE 非管理 STI-080GE（$34.0 @30%）/ 5 GE STI-050GE（$18.5）升级千兆；16 电口工业位 SmartByte 对应型号（注明）"
- },
- "email_hook": "Richard, for the EISW-series industrial switches you sell alongside your cable lines, we can supply gigabit DIN-rail 5/8/16-port unmanaged units (−40~75 °C, 12–57 V dual input, FCC/CE/RoHS) under your label from small lots — would a gigabit upgrade of the 8/16-port models fit your range?",
- "products_seen": [
-  {
-   "brand": "FasterCable（自有）",
-   "model": "EISW8-100T",
-   "spec": "8 口百兆工业交换机",
-   "saga": "STI-080GE（千兆升级）",
-   "url": "https://fastercable.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "brand": "FasterCable（自有）",
-   "model": "EISW16-100T",
-   "spec": "16 口百兆工业交换机",
-   "saga": "SmartByte 16 电口工业型号（注明）",
-   "url": "https://fastercable.com/",
-   "date": "2026-10-21"
-  }
- ],
- "mail_review": {
-  "binding": {
-   "level": "未触达（A/S 邮箱 30 封 2024→2026，无记录打开，0 回；收件 juliette@fastercable.com, richard@fastercable.com；主题多为「90W PoE Managed Switch、Managed Optical Bypass Switch」；Elsa 箱：`to:fastercable.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 30 / 来 0）（第 74 批(h)））",
-   "type": "线缆供应商（美国，自有标工业电口 FS）",
-   "sieve": "1（只收到群发）",
-   "stop": "30 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
-   "lane": "US 主攻（四主）",
-   "cadence": "一封",
-   "evidence": "gmail_digest：out 30；用户表：「5/8/16电口工业FS 周边产品」；研究档 risks：主业线缆（Saga 不做），交换机为周边；现款为百兆（价格基准低）"
-  },
-  "situation": "美国 FasterCable（线缆供应商；自有 EISW8-100T / EISW16-100T 工业以太网交换机（百兆电口）；表内「5/8/16 电口工业 FS 周边产品」；KP Richard Ozols（Sales Manager）、Juliette O（V. President））；群发 20 次无回复。",
-  "need": "自有 EISW 系列 5/8/16 电口工业 FS → 工业 8 GE 非管理 STI-080GE（$34.0 @30%）/ 5 GE STI-050GE（$18.5）升级千兆；16 电口工业位 SmartByte 对应型号（注明）",
-  "breakpoint": "主业线缆（Saga 不做），交换机为周边；现款为百兆（价格基准低）",
-  "saga_now": {
-   "p1": "STI-080GE",
-   "tier": 30,
-   "price": "换人再触锚价 STI-080GE $32.5 EXW（最近实报 SB-1019 2025-07-07 $32.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-22 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-07-27 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-06-26 $65（10G Media Converter）、2025-10-09 $280（10G Enterprise SFP Switch）",
-   "why": "自有 EISW 系列 5/8/16 电口工业 FS → 工业 8 GE 非管理 STI-080GE（$34.0 @30%）/ 5 GE STI-050GE（$18.5）升级千兆；16 电口工业位 SmartByte 对应型号（注明）",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "2027-Q1（换人后）",
-   "channel": "A 邮箱 → 具名 KP",
-   "action": "换收件人再发一封（第 75 批(w) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
-   "one_question": "Richard, for the EISW-series industrial switches you sell alongside your cable lines, we can supply gigabit DIN-rail 5/8/16-port unmanaged units (−40~75 °C, 12–57 V dual input, FCC/CE/RoHS) under your label from small lots — would a gigabit upgrade of the 8/16-port models fit your range? Reference: STI-080GE at $32.5 USD EXW (MOQ 1, 15-day validity)."
-  },
-  "facts": [
-   {
-    "date": "2026-10-01",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "90W PoE Managed Switch、Managed Optical Bypass Switch",
-    "why": "30 封 / 0 次打开 / 0 回｜首封 2024-06-26 → 末封 2026-10-01（30 去 / 0 来）",
-    "k": "gmail_digest"
-   },
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "5/8/16电口工业FS 周边产品",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2026-10-01",
-    "dir": "去",
-    "who": "A 箱（Alan）",
-    "quote": "Managed PoE Switches",
-    "why": "本日去信真实主题（邮箱索引 23406378bf11be3e；信稿开头句引用此封；此前稿内写的「90W PoE Managed Switch」是线程列表首题，不是本封）",
-    "k": "23406378bf11be3e"
-   }
+  "code": "SB-827",
+  "name_official": "GO IP Global Services Pvt. Ltd.（Syrotech Networks，Noida）",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（goip.in / syrotech.com，快照 2026-10-21）",
+  "summary": "印度诺伊达 **Syrotech** 品牌母公司（1994 年成立，201–500 人，500 家渠道伙伴覆盖 100 城，CRISIL 评级；自有品牌占多数销售），产品 OLT/ONT、MC、1G–400G SFP、PoE / L2+ 交换机、无线、CCTV、门禁道闸；Grandstream 分销；2026-04 新 CEO Pankaj Sodhi（表内「有回复了」）。表内：SFP BiDi 3 km 量很大（Saga 无）、**自己的 logo：MC / PoE / 工业 FS**，在卖丰润达工业 FS；BD Akshat Pandey / Naman Gupta。= 标准 OEM 30% 大客户候选。",
+  "type": "",
+  "size": "",
+  "brands_seen": [
+    "Syrotech（自有）",
+    "Grandstream",
+    "丰润达（Fengrunda）"
   ],
-  "proof_gaps": [],
-  "draft_en": {
-   "subject": "A gigabit upgrade for the EISW-series switches - under your label",
-   "body": "Hi Richard,\n\nOver the past months you had a few product mails from us - most recently \"Managed PoE Switches\" on 1 October 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nYour EISW8-100T / EISW16-100T are Fast Ethernet. A gigabit upgrade of the same positions under your label from small lots, DIN-rail, -40 to 75 C, FCC/CE/RoHS: 8 x Gigabit unmanaged, 12-58 V DC - model STI-080GE - $32.5 USD EXW (MOQ 1, 15-day validity); 5 x Gigabit, 12-36 V DC - STI-050GE - $18.5; the 16-port industrial position I quote against the exact port mix you want (copper only, or with 2 x SFP).\n\nOne question: would a gigabit upgrade of the 8- and 16-port models fit the range, or do your customers still ask for 10/100?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+  "evidence": [
+    {
+      "kind": "官网",
+      "claim": "Syrotech 为自有品牌（网络、光纤、门禁），30+ 年经验；Grandstream 分销",
+      "quote": "Syrotech, our own brand, delivers reliable and scalable solutions for networking, fiber and entrance automation… our distribution of Grandstream products",
+      "url": "https://www.goip.in/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "LinkedIn",
+      "claim": "201–500 人，Noida，1994 年",
+      "quote": "Company size: 201-500 employees… Headquarters: Noida, UP… Founded: 1994",
+      "url": "https://in.linkedin.com/company/syrotech-networks",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "评级",
+      "claim": "500 渠道伙伴覆盖 100 城；自有品牌 Syrotech 占多数销售",
+      "quote": "widespread distribution network spanning 100 cities across India through its 500 channel partners. The company has its own brand named Syrotech, under which it records majority of its sales",
+      "url": "https://www.crisilratings.com/mnt/winshare/Ratings/RatingList/RatingDocs/GOIPGlobalServicesPrivateLimited_July%2015_%202025_RR_346107.html",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网",
+      "claim": "2026-04-03 任命 Pankaj Sodhi 为 CEO",
+      "quote": "Noida, April 3, 2026: GOIP Global Services Pvt. Ltd., under its flagship brand Syrotech, has announced the appointment of Mr. Pankaj Sodhi as its new Chief Executive Officer",
+      "url": "https://www.syrotech.com/post/goip-global-services-syrotech-networks-appoints-pankaj-sodhi-as-chief-executive-officer",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "名录",
+      "claim": "产品：OLT/ONT、MC、1G–400G SFP、管理 / 非管理 PoE、L2/L3 交换机、AP、CCTV、道闸",
+      "quote": "OLT, ONT, and media converters… SFP modules from 1G to 400G… managed and unmanaged PoE switches, L2/L3 network switches… CCTV… boom barriers",
+      "url": "https://rocketreach.co/syrotech-networks-profile_b6a4a1b3c878eeea",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "SFP bidi 3KM 数量很大；2023 加入国际站；Simon 之前跟过；自己的 logo MC POE 工业 FS SFP；在卖丰润达的工业 FS",
+      "quote": "兴趣：SFP bidi 3KM 数量很大… 自己的logo MC POE 工业FS SFP 周边产品 在卖丰润达的工业FS",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [
+    {
+      "name": "Akshat Pandey",
+      "title": "BD Manager",
+      "email": "akshat.pandey@goip.in",
+      "phone": "+91 89202 45569",
+      "source": "（本地 Clients/ 表格，无公开 URL）"
+    },
+    {
+      "name": "Naman Gupta",
+      "title": "BD",
+      "email": "naman.gupta@goip.in",
+      "phone": "+91 98702 95096",
+      "source": "（本地 Clients/ 表格，无公开 URL）"
+    },
+    {
+      "name": "Pankaj Sodhi",
+      "title": "CEO（2026-04 起；表内「有回复了」）",
+      "email": "pankaj.sodhi@goip.in",
+      "phone": "WhatsApp +91-98189 89801（2024-10-24 他自己给的）；Skype pankaj.sodhi",
+      "source": "S 邮箱 2024-10-24 来信「Kindly share Price… I am on WhatsApp at +91-9818989801」"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（官网 + LinkedIn + CRISIL 核对：品牌商 OEM，A 候选）"
   },
-  "as_of": "2026-10-24"
- }
+  "company_facts": {
+    "legal_name": "GO IP Global Services Private Limited",
+    "founded": "1994（Syrotech 品牌 2014）",
+    "hq": "D-206, Sector 63, Noida, Uttar Pradesh, India",
+    "size": "201–500 人；500 渠道伙伴",
+    "other": "CRISIL 评级；Make in India 组装"
+  },
+  "business_lines": [
+    "FTTx（OLT/ONT）与光模块（自有品牌）",
+    "PoE / L2+ 交换机、工业交换机（贴牌采购）",
+    "无线、CCTV、门禁道闸"
+  ],
+  "products_seen": [
+    {
+      "brand": "Syrotech",
+      "model": "工业 FS（丰润达代工）",
+      "spec": "工业 PoE / 光纤交换机",
+      "saga": "Saga STI-288GP / STI-288GPM 同规格替换",
+      "url": "https://www.syrotech.com/",
+      "date": "2026-10-21"
+    }
+  ],
+  "channels": {
+    "role": "品牌商（OEM 采购中国工业 / PoE 交换机）",
+    "region": "印度全国 500 渠道"
+  },
+  "signals": [
+    "自有品牌 + 明确要贴 logo 的 MC / PoE / 工业 FS → OEM 30% 量级客户（A 候选，待实质回复后升级）",
+    "现供应商丰润达 → Marvell 管理型 / 工业线可差异化",
+    "新 CEO 上任（2026-04）= 供应链重审窗口"
+  ],
+  "risks": [
+    "规模大、压价强、BIS 认证与 Make in India 本地组装要求（可能要 SKD）",
+    "SFP BiDi 大量需求 Saga 无（Q-32）"
+  ],
+  "saga_fit": {
+    "p1": "STI-288GPM",
+    "tier": 30,
+    "why": "Syrotech 工业 FS 线替换 / 补充 → STI-288GPM（管理型 2 SFP + 8 PoE，$85.5 @30%）贴 Syrotech 标；非管理 STI-288GP；商用 PoE STC-28DGGPM。"
+  },
+  "email_hook": "Akshat, for the Syrotech industrial PoE line — we supply Marvell-based managed 8-PoE + 2-SFP DIN units under your label with SKD option for Noida assembly; which two SKUs does Syrotech move most, so I quote those first?",
+  "mail_review": {
+    "binding": {
+      "level": "轻度触达（7 封来信中 6 封是 Syrotech 工单自动回复；1 封实质：2024-10-24 Pankaj Sodhi「Semi manage or manage? Kindly share Price… WhatsApp +91-9818989801」；后续在 WhatsApp 与否未知）；退信：pankaj@syrotech.com 2024-07-03、sachin.verma@goip.in 2026-09-01；Elsa 1:1 去信 5 轮 2025-10-14→2026-08-10（To 仅本户 info@goip.in / naman.gupta@goip.in（按地址：info@goip.in 3 轮 / naman.gupta@goip.in 2 轮）；头 msg 19feaaf89986d63f 核对无 Bcc，称呼「Hi, Naman」= 个性化逐月 1:1 名单（名字可来自名单，不等于回过信）；主题 OEM Core Switching Solution、DWDM Core Switching Solution、Marvell Managed Commercial Switches、24 Port PoE Managed Switch…；0 回（Elsa 箱 Replied 索引 + 第 73 批真人来信逐户比对均无此户））（第 74 批(n) `from:e.sagatelecom to:goip.in OR to:syrotech.com` 全程 complete，直收 5 条、无 Re: 行）",
+      "type": "印度光网络品牌商（GOIP / Syrotech，诺伊达；Pankaj = 采购）——第一档品牌商",
+      "sieve": "2",
+      "stop": "转 WhatsApp 后仓库失明",
+      "revive": "不动（印度非主攻）",
+      "lane": "IN 非主攻",
+      "cadence": "不动",
+      "evidence": "k=dd23844381a28569"
+    },
+    "situation": "—",
+    "need": "8 口 2.5G + 10G 上联。",
+    "breakpoint": "—",
+    "saga_now": {
+      "p1": "—",
+      "tier": 30,
+      "price": "—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-13 $220（10G managed switch）；群发里他已看到的价（续）：2026-07-24 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2026-05-01 $280（10G Enterprise SFP Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-10-14 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2025-10-14；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-08-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-10；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
+      "why": "已打开的主题（3/23 封有打开记录）：「24 port poe switch」(2024-07-03)、「8 Port 2.5G Switch」(2024-10-22)、「24 Port PoE Managed Switch」(2026-09-01) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
+      "repeat": [],
+      "gaps": [
+        "WhatsApp 是否有后续"
+      ]
+    },
+    "next_move": {
+      "when": "不动",
+      "channel": "—",
+      "action": "—",
+      "one_question": ""
+    },
+    "facts": [
+      {
+        "date": "2024-07-03",
+        "dir": "内",
+        "who": "Gmail 退信（S 邮箱）",
+        "quote": "pankaj@syrotech.com 邮箱满（暂时性）：550 Mailbox is full / Blocks limit exceeded / Inode limit exceeded",
+        "why": "该地址当时收不到信，之后若无再发成功记录就别再往这个地址发",
+        "k": "gmail_s a739df251b28f025"
+      },
+      {
+        "date": "2024-07-03",
+        "dir": "内",
+        "who": "Gmail 退信（S 邮箱）",
+        "quote": "pankaj@syrotech.com 退信：550 Mailbox is full / Blocks limit exceeded / Inode limit exceeded",
+        "why": "该地址当天收不到信；同日的「Opened」记录是退信触发，不算打开",
+        "k": "gmail_s a739df251b28f025"
+      },
+      {
+        "date": "2024-10-24",
+        "dir": "来",
+        "who": "Pankaj Sodhi",
+        "quote": "Kindly share Price for this switch. If you are available on Skype or WhatsApp lets connect.",
+        "why": "要价 + 转 WA",
+        "k": "dd23844381a28569"
+      },
+      {
+        "date": "2025-10-14",
+        "dir": "out",
+        "who": "Elsa → info@goip.in",
+        "quote": "10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 1/5 轮；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:goip.in OR to:syrotech.com` 全程 complete：5 轮直收（头 msg 19feaaf89986d63f 无 Bcc，称呼「Hi, Naman」）；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "199e116ed8d15613"
+      },
+      {
+        "date": "2026-01-08",
+        "dir": "out",
+        "who": "Elsa → info@goip.in",
+        "quote": "OEM Core Switching Solution（Elsa 1:1 逐月名单第 2/5 轮；To 仅本户）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:goip.in OR to:syrotech.com` 全程 complete：5 轮直收（头 msg 19feaaf89986d63f 无 Bcc，称呼「Hi, Naman」）；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "19b9bf9d46e133cc"
+      },
+      {
+        "date": "2026-02-13",
+        "dir": "out",
+        "who": "Elsa → naman.gupta@goip.in",
+        "quote": "DWDM Core Switching Solution（Elsa 1:1 逐月名单第 3/5 轮；To 仅本户）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:goip.in OR to:syrotech.com` 全程 complete：5 轮直收（头 msg 19feaaf89986d63f 无 Bcc，称呼「Hi, Naman」）；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "19c5528c00e77755"
+      },
+      {
+        "date": "2026-03-31",
+        "dir": "out",
+        "who": "Elsa → info@goip.in",
+        "quote": "Marvell Managed Commercial Switches（Elsa 1:1 逐月名单第 4/5 轮；To 仅本户）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:goip.in OR to:syrotech.com` 全程 complete：5 轮直收（头 msg 19feaaf89986d63f 无 Bcc，称呼「Hi, Naman」）；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "19d43684531686c0"
+      },
+      {
+        "date": "2026-08-10",
+        "dir": "out",
+        "who": "Elsa → naman.gupta@goip.in",
+        "quote": "24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 5/5 轮；To 仅本户；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:goip.in OR to:syrotech.com` 全程 complete：5 轮直收（头 msg 19feaaf89986d63f 无 Bcc，称呼「Hi, Naman」）；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "19feaaf89986d63f"
+      },
+      {
+        "date": "2026-09-01",
+        "dir": "内",
+        "who": "Gmail 退信（A 邮箱）",
+        "quote": "sachin.verma@goip.in 永久退信：550 5.4.1 Recipient address rejected: Access denied. For more information see https://aka.ms/EXOSmtpErrors",
+        "why": "该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职",
+        "k": "gmail_a 0de6557f58082926"
+      },
+      {
+        "date": "2026-09-01",
+        "dir": "内",
+        "who": "Gmail 退信（A 邮箱）",
+        "quote": "sachin.verma@goip.in 退信：550 5.4.1 Recipient address rejected: Access denied. For more information see https://aka.ms/EXOSmtpErr",
+        "why": "该地址当天收不到信；同日的「Opened」记录是退信触发，不算打开",
+        "k": "gmail_a 0de6557f58082926"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

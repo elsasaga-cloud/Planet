@@ -1,107 +1,131 @@
 {
  "code": "SB-286",
- "name_official": "（身份未明）Alex Malinovich —— simplelogin.com 匿名别名邮箱（用户表国家：美国）",
+ "name_official": "Rima Elektronik Bilişim ve Güvenlik Sistemleri San. ve Dış Tic. Ltd. Şti.",
  "researched_at": "2026-10-21",
- "website_status": "无企业域名（邮箱别名服务）",
- "summary": "自建站询盘：Alex Malinovich（unpledged154@simplelogin.com，WhatsApp 已加）询「2 光 8 PoE 管理 Vitesse」机型；无跟进。simplelogin.com 为 Proton 旗下邮箱别名服务，非公司域名 → 公司身份/规模无法核实，仅表内信息；B 托底（有可达邮箱 + 明确型号需求）。",
+ "website_status": "在线（rimaelektronik.com；并档 Planet 渠道档案 PB-032）",
+ "summary": "伊斯坦布尔的安防集成商，自己设计安装校园/企业监控系统并在线销售 PLANET PoE 交换机。类型：安防集成商/经销（2000 年起；CCTV/IP 监控系统设计、安装、技术服务 + 产品销售；兼工业自动化方案；Turkcell 数字业务合作伙伴）。信号：网店在售 Planet PL-GS-4210-8P2S、IGS-5225-8P4S（「IP Ekipmanları › PoE Switch」类目）。Planet 渠道档案 PB-032 评级 B（需求：PLANET PoE/工业 PoE 在售 + 自装监控项目；触达：bilgi@rimaelektronik.com 官网公开，无具名；体量小型 Ltd.，可赢；区域土耳其（T05 新增））。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-286，土耳其，Saga 群发已推送 2 次无回复）与 Planet 渠道挖掘名单，首触邮件此前未发送。",
  "type": "",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "PLANET"
+ ],
  "evidence": [
   {
-   "kind": "用户表",
-   "claim": "自建站询盘：2 光 8 PoE 管理 Vitesse；别名邮箱",
-   "quote": "2光8PoE管理Vitesse / from: 自建站 / unpledged154@simplelogin.com",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
+   "kind": "卖方目录",
+   "claim": "PLANET PoE 在售",
+   "quote": "8 Port: Planet PL GS 4210 8P2S PoE Switch - IP Kamera Güvenlik Sistemleri … 12 Port: Planet IGS 5225 8P4S Endüstriyel PoE Switch",
+   "url": "https://www.rimaelektronik.com/ip-ekipmanlari/poe-switch/8-port/planet-pl-gs-4210-8p2s-poe-switch.html",
+   "date": "2026-10-19"
+  },
   {
-   "name": "Alex Malinovich",
-   "role": "（自建站询盘人）",
-   "email": "unpledged154@simplelogin.com（用户表）",
-   "phone": "—（WhatsApp 已加）",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
+   "kind": "公司自述",
+   "claim": "联系与业务；客户评价证明自装项目",
+   "quote": "bilgi@rimaelektronik.com … 1. İnönü Cad. No:18 Kat:1 Beşyol / Florya İSTANBUL … Dört farklı lokasyonda yer alan kampüslerimiz için yapmış oldukları güvenlik kamera sisteminin projelendirilmesi, kurulum ve devreye alınması",
+   "url": "https://www.rimaelektronik.com/iletisim",
+   "date": "2026-10-19"
+  },
+  {
+   "kind": "第三方",
+   "claim": "业务描述",
+   "quote": "Rima Elektronik is a Turkish company specialize primarily in security systems and solutions also industrial automation solutions … Sales and Installation of Security Equipment（ensun）",
+   "url": "https://ensun.io/company/rima-elektronik-bilisim-ve-guvenlik-sistemleri-san-ve-dis-tic-ltd-sti-6831d40abb221e8f64779ca4-managed",
+   "date": "2026-10-19"
   }
  ],
+ "kp": [],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "无域名 · 仅表内信息"
+  "level": "B 级加厚 v1（并档 Planet 渠道档案 PB-032，W 批次调研 2026-10-19/20）"
  },
  "company_facts": {
-  "legal_name": "（待核）",
-  "hq": "（用户表：美国）",
-  "size": "待核",
-  "other": "别名邮箱，公司不明"
+  "legal_name": "Rima Elektronik Bilişim ve Güvenlik Sistemleri San. ve Dış Tic. Ltd. Şti.",
+  "founded": "",
+  "hq": "İstanbul（Florya）, 土耳其",
+  "size": "",
+  "other": "Planet 渠道档案 PB-032（2026-10-19_W04_土耳其与北美并档_TR-US-CA-CZ-DE-AT-IT-NL.json）；自有品牌：否；最大未知：年项目数与交换机台数；是否也转售给其他安装商"
  },
  "business_lines": [
-  "（待核）"
+  "安防集成商/经销（2000 年起；CCTV/IP 监控系统设计、安装、技术服务 + 产品销售；兼工业自动化方案；Turkcell 数字业务合作伙伴）"
+ ],
+ "products_seen": [
+  {
+   "brand": "PLANET",
+   "model": "PL-GS-4210-8P2S",
+   "spec": "8×GE PoE+ + 2 SFP",
+   "saga": "STC-28DGGPM",
+   "url": "https://rimaelektronik.com",
+   "date": "2026-10-19"
+  },
+  {
+   "brand": "PLANET",
+   "model": "IGS-5225-8P4S",
+   "spec": "工业 8 口 PoE + 4 SFP",
+   "saga": "STI-488DGGPM",
+   "url": "https://rimaelektronik.com",
+   "date": "2026-10-19"
+  }
  ],
  "channels": {
-  "邮箱": "unpledged154@simplelogin.com（用户表）"
+  "role": "安防集成商/经销（2000 年起；CCTV/IP 监控系统设计、安装、技术服务 + 产品销售；兼工业自动化方案；Turkcell 数字业务合作伙伴）",
+  "region": "土耳其"
  },
  "signals": [
-  "明确询 2 光 8 PoE 管理型 → 先问清公司与用途再报价"
+  "自己做校园级监控项目（客户评价：四个校区的监控系统设计与安装）→ PoE 交换机是其每个项目的标配；小公司 bilgi@ 直达"
  ],
  "risks": [
-  "身份不明；美国关税；无后续跟进"
+  "年项目数与交换机台数；是否也转售给其他安装商",
+  "Planet 首触邮件未发送（Elsa 账号待定）",
+  "Saga 群发已推送 2 次无回复 → 改用具名收件人与新钩子（勿再用群发模板）"
  ],
  "saga_fit": {
-  "p1": "STC-28DGGPM",
+  "p1": "STC-424DGGPM-280W",
   "tier": 25,
-  "why": "默认 25% 档：STC-28DGGPM（8 GE PoE+ 2 SFP L2+ 管理，$84.1）对应「2 光 8 PoE 管理」；Realtek 低价位 STC-28GPM（$62.2）"
+  "why": "监控项目最走量的 24 口 PoE；其在售 8 口 PL-GS-4210-8P2S 对位 STC-28DGGPM 作第二台阶；集成/安装型 → 25%（沿用 Planet 档案 PB-032）；需求："
  },
- "email_hook": "On the 2× SFP + 8× PoE managed switch you asked about: L2+ managed, 120 W budget, $84.1 EXW at 25-unit tier — may I ask which company/project this is for so I can quote the right quantity and shipping to the US?",
+ "email_hook": "Every multi-campus camera project you deliver needs PoE switching; a 24-port PoE+ at integrator pricing lowers your bill of materials without changing the design. On a typical campus camera project, do you deploy one 24-port PoE+ per building or several 8-port units per floor?",
  "mail_review": {
   "binding": {
-   "level": "未发信（S/A 邮箱均无往来；来源：用户表「2光8PoE管理Vitesse / from: 自建站 / unpledged154@simplelogin.com」；Elsa 箱：`to:simplelogin.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(h)））",
+   "level": "未触达（A 邮箱 12 封 2025→2026，无记录打开，0 回；收件 bilgi@rimaelektronik.com, salih.senyurt@rimaelektronik.com；主题多为「10G Enterprise SFP Switch、Industrial PoE Switch」；Elsa 箱：`to:rimaelektronik.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 12 / 来 0）（第 74 批(i)））",
    "type": "—",
-   "sieve": "—（未入筛）",
-   "stop": "从未触达",
-   "revive": "首封（具名 KP 优先，用研究档 email_hook）；WhatsApp 已加 → 唤醒走 WhatsApp 一句话，不走邮件",
-   "lane": "US 主攻（四主）",
-   "cadence": "首封后看打开",
-   "evidence": "gmail_digest：out 0；用户表：「2光8PoE管理Vitesse / from: 自建站 / unpledged154@simplelogin.com」；研究档 risks：身份不明；美国关税；无后续跟进"
+   "sieve": "1（只收到群发）",
+   "stop": "12 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱；Q-33 供应商渠道客户",
+   "revive": "不动（Q-33）",
+   "lane": "TR 主攻（四主）",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 12；研究档 risks：年项目数与交换机台数；是否也转售给其他安装商"
   },
-  "situation": "自建站询盘：Alex Malinovich（unpledged154@simplelogin.com，WhatsApp 已加）询「2 光 8 PoE 管理 Vitesse」机型；无跟进。simplelogin.com 为 Proton 旗下邮箱别名服务，非公司域名 → 公司身份/规模无法核实，仅表内信息；B 托底（有可达邮箱 + 明确型号需求）。",
-  "need": "默认 25% 档：STC-28DGGPM（8 GE PoE+ 2 SFP L2+ 管理，$84.1）对应「2 光 8 PoE 管理」；Realtek 低价位 STC-28GPM（$62.2）",
-  "breakpoint": "身份不明；美国关税；无后续跟进",
+  "situation": "伊斯坦布尔的安防集成商，自己设计安装校园/企业监控系统并在线销售 PLANET PoE 交换机。类型：安防集成商/经销（2000 年起；CCTV/IP 监控系统设计、安装、技术服务 + 产品销售；兼工业自动化方案；Turkcell 数字业务合作伙伴）。信号：网店在售 Planet PL-GS-4210-8P2S、IGS-5225-8P4S（「IP Ekipmanları › PoE Switch」类目）。Planet 渠道档案 PB-032 评级 B（需求：PLANET PoE/工业 PoE 在售 + 自装监控项目；触达：bilgi@rimaelektronik.com 官网公开，无具名；体量小型 Ltd.，可赢；区域土耳其（T05 新增））。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-286，土耳其，Saga 群发已推送 2 次无回复）与 Planet 渠道挖掘名单，首",
+  "need": "监控项目最走量的 24 口 PoE；其在售 8 口 PL-GS-4210-8P2S 对位 STC-28DGGPM 作第二台阶；集成/安装型 → 25%（沿用 Planet 档案 PB-032）；需求：",
+  "breakpoint": "年项目数与交换机台数；是否也转售给其他安装商",
   "saga_now": {
-   "p1": "STC-28DGGPM",
+   "p1": "STC-424DGGPM-280W",
    "tier": 25,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "默认 25% 档：STC-28DGGPM（8 GE PoE+ 2 SFP L2+ 管理，$84.1）对应「2 光 8 PoE 管理」；Realtek 低价位 STC-28GPM（$62.2）",
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-30 $280（10G Enterprise SFP Switch）",
+   "why": "监控项目最走量的 24 口 PoE；其在售 8 口 PL-GS-4210-8P2S 对位 STC-28DGGPM 作第二台阶；集成/安装型 → 25%（沿用 Planet 档案 PB-032）；需求：",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "待 Simon 排期（首封）",
-   "channel": "A 邮箱 → unpledged154@simplelogin.com（Alex Malinovich）",
-   "action": "首封：按 email_hook 一问（第 75 批(b) 2026-10-25：英文信稿已写 `draft_en`）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
-   "one_question": "On the 2× SFP + 8× PoE managed switch you asked about: L2+ managed, 120 W budget, $84.1 EXW at 25-unit tier — may I ask which company/project this is for so I can quote the right quantity and shipping to the US?"
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
   },
   "facts": [
    {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "2光8PoE管理Vitesse / from: 自建站 / unpledged154@simplelogin.com",
-    "why": "表内备注",
-    "k": "用户表"
+    "date": "2026-10-06",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "10G Enterprise SFP Switch、Industrial PoE Switch",
+    "why": "12 封 / 0 次打开 / 0 回｜首封 2025-09-30 → 末封 2026-10-06（12 去 / 0 来）",
+    "k": "gmail_digest"
    }
   ],
-  "proof_gaps": [
-   "无邮件往来",
-   "用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
-  ],
-  "draft_en": {
-   "subject": "The 2 x SFP + 8 x PoE managed switch you asked about - price and next step",
-   "body": "Hi Alex,\n\nYou asked on our site about the 2 x SFP + 8 x PoE managed switch; here is the concrete answer.\n\nThe current unit on that footprint is L2+ managed on a Marvell platform (web GUI, VLAN, QoS, IGMP), 8 x Gigabit PoE+ (120 W budget) + 2 x SFP, FCC/CE/RoHS - model STC-28DGGPM - $84.1 USD EXW (MOQ 1, 15-day validity). A lower-cost L2 managed version on our commercial line, STC-28GPM, is $74.0.\n\nOne question: which company or project is this for, so I can quote the right quantity and the shipping to the US?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
-  },
+  "proof_gaps": [],
+  "draft_en": null,
   "as_of": "2026-10-24"
  }
 }

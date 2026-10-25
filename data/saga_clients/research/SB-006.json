@@ -1,154 +1,261 @@
 {
  "code": "SB-006",
- "name_official": "EDIMAX Technology Co., Ltd.（讯舟，台湾）",
- "researched_at": "2026-10-21",
- "website_status": "在线（edimax.com；快照超时）",
- "summary": "台湾网络品牌 EDIMAX（上市，消费 / SMB / 工业网络产品），表内 Jesse Chen / Bruce Yang 兴趣工业 FS、SFP、周边，2025-07 对 16 电回复 INFO。EDIMAX 工业线多为外购贴牌 → OEM 30%。台湾厂商口径：按继承规则台系品牌商不是「渠道客户」，但作为 OEM/贴牌采购方可按 OEM 30% 档跟进。",
- "type": "",
- "size": "",
- "brands_seen": [],
+ "name_official": "United Control Engineers India Pvt. Ltd.（Greater Noida）",
+ "website_status": "在线",
+ "summary": "印度大诺伊达的工业自动化产品分销商/系统集成商（2001 年起，11–50 人，营收 $10–15M 口径），Delta/ABB/Phoenix Contact/nVent Hoffman/Schneider 等授权渠道，产品类目含工业路由器、SMPS、VFD。用户表：3 次实质回复，WhatsApp 已加，兴趣 5/8 口非管理工业 FS。",
+ "type": "分销商 + 系统集成（工业自动化）",
+ "size": "11–50 人（LinkedIn）；$10–50M（SignalHire）/ $15.2M（ZoomInfo）",
+ "brands_seen": [
+  "Delta",
+  "ABB",
+  "Phoenix Contact",
+  "nVent Hoffman",
+  "Schneider Electric",
+  "Teltonika"
+ ],
  "evidence": [
   {
-   "kind": "官网快照",
-   "claim": "edimax.com 抓取超时（站点正常，反爬 / 慢）",
-   "quote": "status timeout",
-   "url": "https://www.edimax.com/",
+   "kind": "官网",
+   "claim": "定位：德里 NCR 工业自动化产品公司，2001 年起；类目含工业路由器",
+   "quote": "United Control Engineers India Pvt. Ltd., since 2001 is the top industrial automation products company in Delhi NCR … Industrial Router · SMPS · VFD · Power Supply",
+   "url": "https://unitedcontrolengg.com/",
    "date": "2026-10-21"
   },
   {
-   "kind": "用户表",
-   "claim": "兴趣工业 FS FS SFP 周边产品；2025-07 16 电→INFO",
-   "quote": "兴趣：工业FS FS SFP 周边产品；回复：INFO",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "kind": "第三方（LinkedIn）",
+   "claim": "规模",
+   "quote": "Industry: Automation Machinery Manufacturing · Company size: 11-50 employees · Headquarters: Greater Noida, Uttar Pradesh · Founded: 2001",
+   "url": "https://in.linkedin.com/company/united-control-engineers-india-pvt-ltd",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "官方邮箱/电话",
+   "quote": "+919311150492 · +919990632600 · Marketing@unitedcontrolengg.com · Office@unitedcontrolengg.com",
+   "url": "https://unitedcontrolengg.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "交换机落地页列 Phoenix Contact FL SWITCH SFNB 5TX / 1016N 与 Teltonika TSW 系列",
+   "quote": "FL SWITCH SFNB 5TX This compact unmanaged switch … 5 RJ45 ports … FL SWITCH 1016N … 16 Ethernet ports … TSW100 A compact unmanaged Gigabit switch with PoE support for industrial applications … TSW200 A managed Industrial Ethernet Switch",
+   "url": "https://unitedcontrolengg.com/ethernet-switch/",
+   "date": "2026-05-23"
+  },
+  {
+   "kind": "PI",
+   "claim": "成交单据 STSC20240416005（CI，2024-04-22）：Industrial Switch 共 4 台，USD 120.0；采购 、SmartByte RMB 524.0；Simon 成本表利润 RMB 481.99",
+   "quote": "",
+   "url": "PI.zip:5 印度 Rajesh gg/普通快递发票.xlsx",
+   "date": "2024-04-22"
+  },
+  {
+   "kind": "PI",
+   "claim": "PI 包文件夹「印度 Rajesh gg」：Simon 标签 gg；单号 1 个，2024-04-22 → 2024-04-22，销售 USD 120.0 / RMB 0，Simon 成本统计利润合计 RMB 481.99",
+   "quote": "",
+   "url": "PI.zip:5 印度 Rajesh gg",
+   "date": "2026-10-22"
+  },
+  {
+   "kind": "公开平台核查（T29-U18）",
+   "claim": "RocketReach：营收 $15.2M，28 人在册；signalhire：专长含 IIoT、RTU、远程通信、交通行业自动化、能源管理",
+   "quote": "Revenue · $15.2 million Employees · 28 … Specialities: Factory Automation, Infrastructure Automation, Industry 4.0, IIoT, Datalogging, Remote Communication, RTU",
+   "url": "https://rocketreach.co/united-control-engineers-india-pvt-ltd-profile_b7dc2582c0cb47fa",
+   "date": "2026-10-23"
   }
  ],
  "kp": [
   {
-   "name": "Jesse Chen",
-   "title": "（采购 / PM，表内联系人）",
-   "email": "jessechen@edimax.com.tw",
-   "phone": "",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
+   "name": "—",
+   "role": "市场部",
+   "email": "marketing@unitedcontrolengg.com",
+   "phone": "+91 93111 50492",
+   "source": "https://unitedcontrolengg.com/"
   },
   {
-   "name": "Bruce Yang",
-   "title": "（表内联系人）",
-   "email": "bruceyang@edimax.com.tw",
+   "name": "Rajesh",
+   "role": "单据联系人",
+   "email": "accounts@unitedcontrolengg.com",
    "phone": "",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
+   "source": "PI.zip 单据"
   }
  ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "A 确认：工业自动化分销商是 STI 非管理工业交换机（STI-244GP/288GP）的天然渠道；印度区价格敏感，报 20% 分销档并给 MOQ 阶梯。",
+ "researched_at": "2026-10-22",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（快照超时 + 表内：台系品牌 OEM）"
+  "level": "深挖 v1"
  },
  "company_facts": {
-  "legal_name": "EDIMAX Technology Co., Ltd.（訊舟科技）",
-  "founded": "1986",
-  "hq": "新北市，台湾",
-  "size": "上市品牌商",
-  "other": "工业 / SMB 交换机线外购贴牌"
+  "legal_name": "United Control Engineers India Pvt. Ltd.",
+  "founded": "2001",
+  "hq": "Greater Noida, Delhi NCR, India",
+  "staff": "11–50（LinkedIn）",
+  "revenue": "$10–15M（口径不一）",
+  "other": "Delta/ABB/Phoenix Contact/nVent Hoffman/Schneider 授权渠道；官网有独立「Ethernet Switch」落地页（2026-05-23）"
  },
  "business_lines": [
-  "SMB / 消费网络（路由、交换、无线）",
-  "工业以太网交换机（贴牌）",
-  "IoT / 空气质量传感"
+  "工业自动化分销 + 系统集成",
+  "工业以太网交换机（Phoenix Contact FL SWITCH、Teltonika TSW 系列）",
+  "工业路由器（Teltonika）、SMPS、VFD"
+ ],
+ "products_seen": [
+  {
+   "brand": "Phoenix Contact",
+   "model": "FL SWITCH SFNB 5TX",
+   "spec": "5 口 RJ45 非管理 DIN 紧凑型",
+   "url": "https://unitedcontrolengg.com/ethernet-switch/",
+   "date": "2026-05-23",
+   "saga": "STI-144GP（PoE 版）"
+  },
+  {
+   "brand": "Phoenix Contact",
+   "model": "FL SWITCH 1016N",
+   "spec": "16 口非管理工业",
+   "url": "https://unitedcontrolengg.com/ethernet-switch/",
+   "date": "2026-05-23",
+   "saga": "STI-21616GP"
+  },
+  {
+   "brand": "Teltonika",
+   "model": "TSW100 / TSW110 / TSW200 / TSW210 / TSW212 / TSW010 / TSW030",
+   "spec": "TSW100 紧凑千兆 PoE 非管理；TSW200/210/212 管理型",
+   "url": "https://unitedcontrolengg.com/ethernet-switch/",
+   "date": "2026-05-23",
+   "saga": "STI-144GP（TSW100 位）/ STI-288DGGPM（TSW200 位）"
+  }
  ],
  "channels": {
-  "role": "台系品牌商（OEM 采购）",
-  "region": "全球"
+  "网站": "https://unitedcontrolengg.com/（有交换机落地页与询盘表单）",
+  "直邮": "marketing@unitedcontrolengg.com（官网）；sumitagrwal@yahoo.com（Sumit Agrawal，成单，用户表）",
+  "WhatsApp": "已加（用户表）",
+  "LinkedIn": "https://in.linkedin.com/company/united-control-engineers-india-pvt-ltd",
+  "公开动态平台（监控中，T29-U18）": "官网博客 unitedcontrolengg.com（WordPress，2026-09/10 仍更新，RSS）；LinkedIn 公司页 989 followers；Facebook unitedcontrolengg；IndiaMART（Pramendra Chaudhary，Director）"
  },
  "signals": [
-  "对 16 口工业 PoE 要 INFO → 补 SKU 采购窗口"
+  "2026-10-23 核查：UCE 是大诺伊达 40 人规模的 Delta/Schneider/ABB/Phoenix Contact/nVent 授权分销 + 盘柜集成商（RocketReach 营收 $15.2M）——Phoenix Contact 工业交换机是其现成货架，Saga 工业系列价格仅其 1/3；对口 = 盘柜项目配套的 DIN 导轨非网管/网管交换机；gg 维持但值得一年两次 LinkedIn 看项目动态",
+  "2026-05-23：官网新建「Industrial Ethernet Switch Solutions」页，列 Phoenix + Teltonika 全系——正在把交换机做成独立品类（https://unitedcontrolengg.com/ethernet-switch/）",
+  "用户表：3 次实质回复，兴趣 5/8 口非管理工业 FS，已成单"
  ],
  "risks": [
-  "台系品牌商口径；验厂 / 认证流程长",
-  "量大压价"
+  "印度 BIS 认证（IS 13252）对部分 IT 设备强制，需确认交换机是否需 BIS；进口关税高",
+  "客户已有 Phoenix/Teltonika 授权线 → Saga 定位为低价第二品牌"
  ],
  "saga_fit": {
-  "p1": "STI-21616GP",
-  "tier": 30,
-  "why": "16 电工业 PoE → STI-21616GP 贴 EDIMAX 标（OEM 30%）；配套 SFP 不在价目（Q-32）。"
+  "p1": "STI-144GP",
+  "tier": 20,
+  "why": "其交换机页主推 5 口（SFNB 5TX / TSW100）与 8–16 口非管理工业机 → STI-144GP（4+1 PoE）/ STI-288DGGPM（8+2 管理）/ STI-21616GP（16 PoE）；分销 20% 档"
  },
- "email_hook": "Jesse, on the 16-port industrial PoE you asked about — 16×PoE+ + 2 SFP, L2+ managed, −40~75 ℃, CE/FCC/RoHS; if EDIMAX is re-sourcing that SKU, I can send the OEM spec and a sample price this week.",
+ "email_hook": "Next to the FL SWITCH SFNB 5TX and TSW100 slots on your new Ethernet-switch page, a 4+1 gigabit PoE DIN unit at distributor EXW usually becomes the volume SKU, so that is the one I am pricing first with the 8-port managed version as the step-up.",
+ "deal_pi": {
+  "folder": "5 印度 Rajesh gg",
+  "simon_label": "gg",
+  "pay": "",
+  "bind": "",
+  "buyer": "UNITED CONTROL ENGINEERS INDIA PRIVATE LIMITED",
+  "orders": 1,
+  "first": "2024-04-22",
+  "last": "2024-04-22",
+  "usd": 120.0,
+  "rmb": 0.0,
+  "profit_rmb": 481.99,
+  "models": "Industrial Switch"
+ },
+ "watch": {
+  "as_of": "2026-10-23",
+  "github_watch": [],
+  "web_watch_targets": "scripts/web_watch/targets.json#SB-006",
+  "status": "data/customer_watch/当前状态.md",
+  "log": "data/customer_watch/变化日志.md"
+ },
  "mail_review": {
   "binding": {
-   "level": "轻度触达（2025-07-09 Jesse Chen（EDIMAX）要目录与价表 → 链接 → 「We will study your list and feedback soon」；无后续；Elsa 箱：`to:edimax.com.tw OR to:edimax.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 12 / 来 2）（第 74 批(n)））",
-   "type": "台湾网络品牌商（EDIMAX 讯舟）——台湾厂商口径 OEM/ODM 二供",
-   "sieve": "2",
-   "stop": "资料后无回",
-   "revive": "年度一次",
-   "lane": "TW",
-   "cadence": "年度",
-   "evidence": "k=b21df8d3abb40eb6 / 07bd3a88e1d5f61c；第 19 批回补来信原文 2 条（gmail_s/gmail_a）；Jesse 的首封是回 Alan 发给 contact@acelink.com.tw（SB-889 Acelink，讯舟关联公司）的信——两户一条线"
+   "level": "轻度绑定→已冷（一单样机 $178.5，2024-04-16：STI-050FE ×2 @23 + STI-080FE ×2 @37；PI 包「gg」；A/S 邮箱 0 封——用户表「3 次实质回复 + WhatsApp」全在 WhatsApp；Elsa 箱：`to:unitedcontrolengg.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(n)））",
+   "type": "大诺伊达工业自动化分销 + 集成（UCE，2001 年起，Delta/ABB/Phoenix 渠道；Rajesh）——STI 非管理工业线的天然渠道，但印度价格敏感",
+   "sieve": "5（付样）",
+   "stop": "样机后 18 个月无单；百兆款（FE）说明其项目价格段极低",
+   "revive": "WhatsApp 一句话问样机下落；给 MOQ 阶梯（研究档）",
+   "lane": "IN 非主攻",
+   "cadence": "WhatsApp 半年",
+   "evidence": "PI STSC20240416005（$178.5，Sample Units）；A/S 邮箱无任何邮件"
   },
-  "situation": "台湾网络品牌商 EDIMAX（讯舟）。2025-07-09 Alan 发给关联公司 Acelink（contact@acelink.com.tw，SB-889）的 16 口 DIN 群发被讯舟业务 Jesse Chen 接住：要目录与价表 → Alan 给链接 → 「We will study your list and feedback to you soon」；之后 Alan 08-22 / 10-20 两次同线程催、2026 年 4 封群发，无回。台湾厂商口径 = OEM/ODM 二供，年度一次即可；Acelink 与 EDIMAX 别分开发。",
-  "need": "—",
-  "breakpoint": "—",
+  "situation": "2024-04 买了 5 口/8 口百兆工业非管理样机各 2 台，之后无下文。Phoenix Contact/ABB 渠道商拿中国工业交换机做低价补充线是合理的，但百兆样机 = 预算极低的项目。",
+  "need": "5/8 口非管理工业 FS（百兆/千兆）。",
+  "breakpoint": "价格段 + 无跟进。",
   "saga_now": {
-   "p1": "—",
-   "tier": 30,
-   "price": "—；群发里他已看到的价（续）：2026-08-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-04-29 $300（48 Port PoE Managed Switch）",
-   "why": "已打开的主题（3/12 封有打开记录）：「Re: 16 Port Ethernet Switch」(2025-07-09)、「Re: 16 Port Ethernet Switch」(2025-08-22)、「Re: 16 Port Ethernet Switch」(2025-10-20) → 读者兴趣主题类别不明（看原主题）",
-   "repeat": [],
-   "gaps": []
+   "p1": "STI-050GE / STI-080GE（千兆版）+ MOQ 阶梯",
+   "tier": 20,
+   "price": "按主表 20% 分销档",
+   "why": "样机在手｜毛利复盘：一单 39.6%（STI-050FE/080FE，PayPal）——高毛利一单客",
+   "repeat": [
+    "2024-04-22 唯一一单：Industrial Switch $120 样品级（Simon 利润 RMB 482；PI 复盘 #5，Simon 标 gg）"
+   ],
+   "gaps": [
+    "样机测试反馈"
+   ]
   },
   "next_move": {
-   "when": "2027",
-   "channel": "—",
-   "action": "—（第 75 批(am) 2026-10-25：英文信稿已写 `draft_en`；STI-21616GP 为非管理，钩子「L2+」纠正；管理版 STI-21616XGGPM $322.6）",
-   "one_question": ""
+   "when": "2027-Q1",
+   "channel": "WhatsApp（Simon）",
+   "action": "一句话（第 75 批(am) 2026-10-25：英文信稿已写 `draft_en`；WhatsApp 一句话）",
+   "one_question": "Rajesh — did the STI-050FE/080FE samples go into any panel, and would a 20/50-pc price ladder on the gigabit versions change the picture?"
   },
   "facts": [
    {
-    "date": "2025-07-09",
+    "date": "2024-04-16",
+    "dir": "PI",
+    "who": "Simon → Rajesh",
+    "quote": "STI-050FE 2×23 = 46；STI-080FE 2×37 = 74；… TOTAL 4 / 178.5 USD；Sample Units",
+    "why": "样机单",
+    "k": "PI STSC20240416005"
+   },
+   {
+    "date": "2024-04-16",
+    "dir": "去",
+    "who": "Saga 内部（订单要求.docx，STSC20240416005）",
+    "quote": "使用发的说明书并作相应折叠；放置挂耳；产品标签请使用下述样式；箱标…需要贴2张，另外一张是STI-080FE，相当于是一个小箱子混装了2个型号4个设备",
+    "why": "$178.5 样机单也走了完整的贴标/箱标/说明书流程（2 型号 4 台混装一箱）——Saga 对印度小样机的交付细节不打折；客户进口资料（GST RC、IEC 证书、AWB）齐全 = 有进口资质的买家（U28 目标画像第二档）",
+    "k": "Drive PI 文件夹（data/pi_2026-10/text） 5_Rajesh"
+   },
+   {
+    "date": "2024-04-16",
+    "dir": "内",
+    "who": "Simon 成本表（PI 包）",
+    "quote": "内部《成本统计.xlsx》：STSC20240416005：成本 734 / 收款 1,216 / 利润 482（39.6%）",
+    "why": "利润率 = 利润÷收款；对照 20/25/30 加价 = 16.7%/20%/23% 毛利；详见 docs/成单客户_毛利复盘_内部_2026-10-24.md",
+    "k": "cost_sheet"
+   },
+   {
+    "date": "2024-04-20",
+    "dir": "内",
+    "who": "Saga 给客户的进口须知（PI 包「客户进口信息/shipment_related_information.docx」）",
+    "quote": "Company Name UNITED CONTROL ENGINEERS INDIA PVT. LTD. · GSTIN/UIN 09AACCU4195M1ZP · FedEx 273802216228 · After getting the tracking number log in https://kyc.fedex.com, upload GSTIN code and KYC (Proof of identity and address recognized by the Government of India), upload POA information (customs clearance power of attorney)",
+    "why": "印度小单的清关门槛：收货人要自己在 FedEx 做 KYC（GSTIN + 身份地址证明 + 清关授权），不是 Saga 这边能代办的——给印度客户发样前先把这段话发过去，省一次卡关",
+    "k": "data/pi_2026-10/text/…5_印度_Rajesh_gg…shipment_related_information.docx"
+   },
+   {
+    "date": "2024-05-27",
     "dir": "来",
-    "who": "jessechen@edimax.com.tw",
-    "quote": "Hi Alan, Thanks for your information. We will study your list and feedback to you soon. Regards, Jesse Chen",
-    "why": "来信原文（主题「RE: 16 Port Ethernet Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
-    "k": "07bd3a88e1d5f61c"
+    "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+    "quote": "用户表跟进：推「问测试结果」→ 对方「will check」",
+    "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+    "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.73 2024.5.27"
    },
    {
-    "date": "2025-07-09",
+    "date": "2024-08-13",
     "dir": "来",
-    "who": "jessechen@edimax.com.tw",
-    "quote": "Hi Alan, Can you send product catalogue and price list for my reference ? Regards, Jesse Chen",
-    "why": "来信原文（主题「RE: 16 Port Ethernet Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
-    "k": "b21df8d3abb40eb6"
-   },
-   {
-    "date": "2025-07-09",
-    "dir": "去",
-    "who": "Saga（Alan，群发 → contact@acelink.com.tw）",
-    "quote": "There is a 16-port Din Gigabit Ethernet switch for you. It is good for vehicle network and industrial automation.",
-    "why": "引出 Jesse 回复的那封，收件人是 Acelink 不是 EDIMAX",
-    "k": "gmail_a（thr 1836987067716081325）"
-   },
-   {
-    "date": "2025-08-22",
-    "dir": "去",
-    "who": "Saga（Alan）",
-    "quote": "Re: 16 Port Ethernet Switch（同线程催问）",
-    "why": "资料后第一次催，无回",
-    "k": "gmail_a bdfe1e2f97b68dcb"
-   },
-   {
-    "date": "2025-10-20",
-    "dir": "去",
-    "who": "Saga（Alan）",
-    "quote": "Re: 16 Port Ethernet Switch（同线程第二次催）",
-    "why": "无回；之后转为群发",
-    "k": "gmail_a 98f870e641fc26ff"
+    "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+    "quote": "用户表跟进：推「问需求」→ 对方「基本只需要电口 不要光」",
+    "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+    "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.73 2024.8.13"
    }
   ],
-  "proof_gaps": [],
+  "proof_gaps": [
+   "WhatsApp 往来未入库；A/S 邮箱 0 封"
+  ],
   "draft_en": {
-   "subject": "The 16-port industrial PoE you asked about in 2025 - unmanaged exists at $185, managed at $322.6",
-   "body": "Hi Jesse,\n\nIn July 2025 you asked for our catalogue and price list around a 16-port DIN Gigabit switch and said you would study it; two chasers from us went unanswered, so this is a once-a-year note, not a chase. The 16-port industrial PoE, honestly labelled: 16 x Gigabit PoE+ + 2 x SFP, unmanaged, -40 to 75 C, CE/FCC/RoHS - model STI-21616GP - $185 USD EXW at OEM tier (MOQ 1, 15-day validity); the L2+ managed version with 2 x 10G SFP+ uplinks, Marvell-based - STI-21616XGGPM - $322.6. EDIMAX label from small lots.\n\nOne question: is EDIMAX re-sourcing the 16-port industrial PoE SKU in 2027, and is it the managed or the unmanaged position?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+   "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+   "body": "Rajesh, Simon from Saga Telecom (the STI-050FE / STI-080FE samples, April 2024). One question: did the samples go into any panel? You said copper only, no fibre - if a 5/8-port Gigabit DIN unit at distributor price with a 20/50-piece ladder is useful next to the Phoenix and Teltonika slots on your switch page, I send it; if the panels went another way, tell me and I stop asking."
   },
   "as_of": "2026-10-24"
  }

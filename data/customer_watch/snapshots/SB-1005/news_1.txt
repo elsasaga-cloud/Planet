@@ -1,0 +1,482 @@
+# SB-1005 asit.it · news_1 · https://www.asit.it/blog/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+Blog – Asit Online Store Skip to content Asit Online Store
+Innovation Delivered
+Registrati
+Accedi
+Carrello
+Password dimenticata?
+Ricordami
+Azienda About
+Financial Reporting
+Contatti
+Condizioni di Vendita
+Servizi Pre-Sales
+Help Desk
+Training
+RMA
+Interventi On-Site
+Servizi Finanziari
+Eventi & Academy Calendario corsi
+Careers
+Asit News
+B.U. Cabling & Datacenter
+UCC
+TVCC
+Networking
+AV
+Cabling & Datacenter Cabling & Datacenter
+Sistemi di cablaggio strutturato Soluzioni in rame
+Soluzioni in fibra ottica
+Consumabili elettrici
+Armadi Rack Armadi server
+Armadi a pavimento
+Armadi a parete
+Armadi 10"
+Accessori rack
+Gruppi di Continuità UPS Desktop
+UPS Rack
+UPS Rack/Tower
+UPS Tower
+UPS Accessori
+Strumentazione Kit strumentazione rame e fibra
+Strumentazione sistemi in Fibra Ottica
+Strumentazione sistemi in Rame
+Giuntatrici a Fusione
+Sistemi di stampa Etichettatrici
+Etichette
+Accessori
+UCC UCC
+Telefonia/Voip Telefoni
+Audioconferenza
+Sistemi Dect
+Centralini Hardware
+Centralini Software
+Cuffie
+Gateway
+Sistemi di integrazione con centralini
+Session Border Controller
+Videoconferenza End Point
+Wireless Presentation System
+Servizi Cloud
+Accessori Videoconferenza
+Bundle Collaboration
+Networking Networking
+Network Security Firewall
+Licenze e Rinnovi
+Multifactor Authentication
+End Point Protection
+Apparati Attivi Supporto
+Switch
+Software
+Router
+Accessori
+Wireless Access Point Outdoor
+Access Point Indoor
+Licenze / Rinnovi
+Site Survey
+Accessori Wireless
+TVCC TVCC
+Videosorveglianza Telecamere
+NVR
+Lettura Targhe
+Software & VMS
+Accessori video sorveglianza
+Controllo Accessi Reader
+Videocitofoni
+Accessori Controllo Accessi
+A/V A/V
+Soluzioni Video Commercial Display
+Interactive Display
+Ledwall
+Staffe a Muro
+Staffe a Soffitto
+Stand
+Carrelli
+Accessori Video
+Audio Professionale Microfoni
+Speakers
+Amplificatori
+Finale Potenza
+Lettori Multimediali
+Accessori Audio
+Networking A/V Switch A/V
+Gestione Segnale Extenders
+Sistemi di controllo
+Switchers
+Cavi ed Accessori
+Workplace Management Workspace Hardware
+Workspace Licenze
+VENDOR VENDOR
+3CX
+ACOME
+Adam Hall
+AFL Hyperscale
+Ascom
+Atlona
+Avaya
+Belden
+Brother
+Btech Av Mounts
+D-Link
+Dahua
+Ekahau
+Fluke Networks
+Fujikura
+Hisense
+Huawei
+Humly
+Imagicle
+Jabra
+JBF
+Leviton
+LG
+Lifesize
+MAXHUB
+Mitel
+Neomounts
+Netgear
+Panduit
+Patton
+Prysmian
+Rack Asit
+Ribbon
+Riello
+Selea
+Sennheiser
+Snom
+R&M
+WatchGuard
+Wyebot
+Yealink
+Zyxel
+Promozioni
+Cerca:
+Asit News
+Il blog sul mondo dell' ITC .
+News dai Vendors e approfondimenti per il canale.
+Blog
+Huawei eKitEngine AP673: Wi-Fi 7 Enterprise
+Pubblicato il 22 Ottobre 2026 22 Ottobre 2026 da Matteo
+Huawei eKitEngine AP673: La risposta Wi-Fi 7 ad alta densità per progetti B2B.
+Scopri come l’ Access Point indoor eKitEngine AP673 combina prestazioni enterprise, Smart Antennas e configurazione Cloud/App immediata per massimizzare il valore dei tuoi progetti Wi-Fi.
+Vai all’articolo “Huawei eKitEngine AP673: Wi-Fi 7 Enterprise”
+Categoria: Focus sui prodotti , News
+Tags: access point , huawei , networking
+MVC 4th Gen: l’AI Rivoluziona le Sala Riunioni
+Pubblicato il 12 Ottobre 2026 12 Ottobre 2026 da Matteo
+Da piccoli spazi a sale ProAV: la 4ª generazione Yealink MVC integra l’I.A. e processori Intel per trasformare l’esperienza Microsoft Teams
+Vai all’articolo “MVC 4th Gen: l’AI Rivoluziona le Sala Riunioni”
+Categoria: Focus sui prodotti , News
+Tags: collaboration , videoconferenza , yealink
+Architetture MTR Yealink
+Pubblicato il 5 Ottobre 2026 5 Ottobre 2026 da Matteo
+Scopri come scegliere la tecnologia giusta per le sale riunioni aziendali.
+Vai all’articolo “Architetture MTR Yealink”
+Categoria: Focus sui prodotti , Focus sulle applicazioni , News
+Tags: av , collaborazione , video , yealink
+IP-DECT Ascom: guida ai terminali
+Pubblicato il 22 Settembre 2026 29 Settembre 2026 da Matteo
+La mobilità aziendale richiede soluzioni su misura. Dalla fonia essenziale alle comunicazioni critiche, scopri come i terminali IP-DECT Ascom adattano la gestione di voce, allarmi e sicurezza alle esigenze specifiche di Retail, Sanità e Industria.
+Vai all’articolo “IP-DECT Ascom: guida ai terminali”
+Categoria: Focus sui prodotti , In evidenza , News
+Tags: ascom , dect , sicurezza
+Yealink MTower: Intelligenza per le Tue Riunioni
+Pubblicato il 18 Settembre 2026 18 Settembre 2026 da Matteo
+Nel contesto dinamico del lavoro ibrido, la qualità delle riunioni virtuali gioca un ruolo cruciale nel determinare l’efficacia della collaborazione. La Yealink MTower emerge come una soluzione sofisticata, una videocamera intelligente per sale riunioni progettata per offrire un’esperienza di comunicazione remota superiore.
+Vai all’articolo “Yealink MTower: Intelligenza per le Tue Riunioni”
+Categoria: Focus sui prodotti , News
+Tags: av , ucc , yealink
+Yealink SkySound: l’Audio di Nuova Generazione
+Pubblicato il 10 Settembre 2026 21 Settembre 2026 da Matteo
+Scopri Yealink SkySound , il sistema audio a soffitto Certified for Teams . Copertura AI e installazione pulita e discreta per ogni spazio.
+Vai all’articolo “Yealink SkySound: l’Audio di Nuova Generazione”
+Categoria: Focus sui prodotti , News
+Tags: av , collaborazione , yealink
+HUAWEI eKitEngine Serie S630
+Pubblicato il 9 Settembre 2026 9 Settembre 2026 da Matteo
+Scopri la nuova serie di switch core progettata per le PMI strutturate. Prestazioni elevate fino a 100GE, gestione cloud semplificata e un’architettura hardware ridondante che azzera i fermi macchina. Un investimento sicuro per far crescere il business dei tuoi clienti.
+Vai all’articolo “HUAWEI eKitEngine Serie S630”
+Categoria: Focus sui prodotti , News
+Tags: huawei , networking , switch
+ASIT vi invita all’ALLIANZ STADIUM
+Pubblicato il 12 Agosto 2026 12 Agosto 2026 da Matteo
+Assisti alle partite della Juventus direttamente dallo SkyBox dell’ Allianz Stadium !
+Vai all’articolo “ASIT vi invita all’ALLIANZ STADIUM”
+Categoria: Comunicati Stampa , News
+Tags: asit
+Sicurezza industriale: il caso Newchem
+Pubblicato il 3 Agosto 2026 3 Agosto 2026 da Matteo
+Come la tecnologia di comunicazione critica ASCOM protegge i lavoratori isolati negli ambienti ad alto rischio ATEX . L’esperienza di Newchem e i trend per le Smart Factory .
+Vai all’articolo “Sicurezza industriale: il caso Newchem”
+Categoria: Focus sui prodotti , News
+Tags: ascom , sicurezza , ucc
+Humly: Workplace Management
+Pubblicato il 3 Agosto 2026 3 Agosto 2026 da Matteo
+Gestire spazi e smart working è la vera sfida B2B . Scopri come l’hardware e il software Humly eliminano i costi fantasma e migliorano la Workplace Experience aziendale.
+Vai all’articolo “Humly: Workplace Management”
+Categoria: Focus sui prodotti , Focus sulle applicazioni
+Tags: av , collaborazione , humly
+Yealink MeetingBoard Pro
+Pubblicato il 22 Luglio 2026 22 Luglio 2026 da Matteo
+Yealink introduce la nuova MeetingBoard Pro !
+Vai all’articolo “Yealink MeetingBoard Pro”
+Categoria: Focus sui prodotti , News
+Tags: av , ucc , yealink , yealinkucc
+MeetingBoard C-EDLA: Soluzione Google Native
+Pubblicato il 9 Luglio 2026 9 Luglio 2026 da Matteo
+Yealink MeetingBoard C EDLA trasforma le sale riunioni in 15 minuti. Tutto l’ecosistema Google nativo, videoconferenze in 4K con regia AI e lavagna interattiva all-in-one. Scopri come azzerare la complessità in ufficio.
+Vai all’articolo “MeetingBoard C-EDLA: Soluzione Google Native”
+Categoria: Focus sui prodotti , News
+Tags: collaborazione , video , yealink
+Navigazione articoli
+Articoli meno recenti
+Categorie
+Comunicati Stampa (33)
+Focus sui prodotti (212)
+Focus sulle applicazioni (137)
+In evidenza (8)
+News (343)
+Promo (104)
+Rassegna Stampa (13)
+Ultimi Articoli
+Huawei eKitEngine AP673: Wi-Fi 7 Enterprise 22 Ottobre 2026
+MVC 4th Gen: l’AI Rivoluziona le Sala Riunioni 12 Ottobre 2026
+Architetture MTR Yealink 5 Ottobre 2026
+IP-DECT Ascom: guida ai terminali 22 Settembre 2026
+Yealink MTower: Intelligenza per le Tue Riunioni 18 Settembre 2026
+Yealink SkySound: l’Audio di Nuova Generazione 10 Settembre 2026
+HUAWEI eKitEngine Serie S630 9 Settembre 2026
+ASIT vi invita all’ALLIANZ STADIUM 12 Agosto 2026
+Sicurezza industriale: il caso Newchem 3 Agosto 2026
+Humly: Workplace Management 3 Agosto 2026
+Yealink MeetingBoard Pro 22 Luglio 2026
+MeetingBoard C-EDLA: Soluzione Google Native 9 Luglio 2026
+Iscriviti alla nostra Newsletter per essere aggiornato su novità e promo Asit!
+Ho Preso Visione della Privacy Policy
+Do il consenso ai sensi dell’art. 6 /a del Reg. 679/2016 al p.1 dell’informativa
+Asit SpA è un punto di riferimento della distribuzione specializzata ICT in Italia. Da sempre ci distinguiamo per partnership con Top Brand a livello internazionale. La nostra Mission è guardare al di là della vendita ed offrire Valore tramite la nostra suite di servizi a corredo.
+Siamo un team di 42 persone , collaboriamo con più di 35 Vendor e siamo dislocati capillarmente in Italia su 5 filali e 2 agenzie .
+Brands
+3CX
+ACOME
+Adam Hall
+AFL Hyperscale
+Ascom
+Atlona
+Avaya
+Belden
+Btech Av Mounts
+Brother
+D-Link
+Dahua
+Ekahau
+Fluke Networks
+Fujikura
+Hisense
+Huawei
+Humly
+Imagicle
+Jabra
+JBF
+LG
+Leviton
+Lifesize
+MAXHUB
+Mitel
+Neomounts
+Netgear
+Panduit
+Patton
+Prysmian
+Rack Asit
+R&M
+Ribbon
+Riello
+Selea
+Sennheiser
+Snom
+Vertiv
+WatchGuard
+Wyebot
+Yealink
+Zyxel
+Sistemi di Cablaggio Strutturato
+Consumabili elettrici
+Soluzioni in fibra ottica
+Soluzioni in rame
+Armadi Rack
+LAN 9
+Accessori rack
+Armadi 10"
+Armadi a parete
+Armadi a pavimento
+Armadi da esterno
+Armadi server
+Gruppi di Continuità
+Accessori UPS
+UPS Desktop
+Ups Desktop/Tower
+Ups Rack
+Ups Rack/Tower
+UPS Tower
+Strumentazione
+Accessori UPS
+UPS Desktop
+Ups Desktop/Tower
+Ups Rack
+Ups Rack/Tower
+UPS Tower
+Telefonia VoIP
+Session Border Controller
+Audioconferenza
+Centralini Hardware
+Centralini Software
+Cuffie
+Gateway
+Sistemi Dect
+Sistemi di integrazione con centralini
+Telefoni
+Videoconferenza
+Accessori Videoconferenza
+Bundle Cloud - End Point
+Desktop System
+End Point
+Infrastructure
+MCU
+Servizi Cloud
+Whiteboard LIM
+Wireless Presentation System
+Networking
+Software
+Supporto
+Accessori
+Router
+Switch
+Wireless
+Access Point Indoor
+Access Point Outdoor
+Accessori Wireless
+Licenze / Rinnovi
+Site Survey
+Network Security
+End Point Protection
+Multifactor Authentication
+Firewall
+Licenze e Rinnovi
+Videosorveglianza
+Lettura Targhe
+NVR
+Accessori video sorveglianza
+Software & VMS
+Telecamere
+Controllo Accessi
+Accessori Controllo Accessi
+Reader
+Videocitofoni
+brand_3cx
+Acome
+Adam Hall Group
+aflhyperscale
+Ascom
+Atlona
+Avaya
+Belden
+Brother
+Btech Av Mounts
+D-Link
+Dahua
+Ekahau
+Vertiv
+Fluke Networks
+Fujikura
+Hisense
+Humly
+Imagicle
+Jabra
+JBF
+Leviton
+LG
+Lifesize
+Maxhub
+Mitel
+Neomounts
+Netgear
+Panduit
+Patton
+Prysmian
+RACK ASIT
+Ribbon
+Riello
+Selea
+Sennheiser
+Snom
+R&M
+watchguard
+Yealink
+Wyebot
+Huawei
+Copyright 2016 Asit SpA. P. Iva 06221270017 - Sede Via Goretta 90/F 10079 Mappano (TO) - Registro AEE IT22010000013576 - Capitale Sociale €250.000 interamente versato | Condizioni di vendita
+Cabling & Datacenter Sistemi di cablaggio strutturato Soluzioni in rame
+Soluzioni in fibra ottica
+Consumabili elettrici
+Back
+Armadi Rack Armadi server
+Armadi a pavimento
+Armadi a parete
+Armadi 10″
+Accessori rack
+Back
+Gruppi di Continuità UPS Desktop
+UPS Rack
+UPS Rack/Tower
+UPS Tower
+UPS Accessori
+Back
+Strumentazione Kit strumentazione rame e fibra
+Strumentazione sistemi in Fibra Ottica
+Strumentazione sistemi in Rame
+Giuntatrici a Fusione
+Back
+Sistemi di stampa Etichettatrici
+Etichette
+Accessori
+Back
+UCC Telefonia/Voip Telefoni
+Audioconferenza
+Sistemi Dect
+Centralini Hardware
+Centralini Software
+Cuffie
+Gateway
+Sistemi di integrazione con centralini
+Session Border Controller
+Back
+Videoconferenza End Point
+Wireless Presentation System
+Servizi Cloud
+Accessori Videoconferenza
+Bundle Collaboration
+Back
+Networking Network Security Firewall
+Licenze e Rinnovi
+Multifactor Authentication
+End Point Protection
+Back
+Apparati Attivi Supporto
+Switch
+Software
+Router
+Accessori
+Back
+Wireless Access Point Outdoor
+Access Point Indoor
+Licenze / Rinnovi
+Site Survey
+Accessori Wireless
+Back
+TVCC Videosorveglianza Telecamere
+NVR
+Lettura Targhe
+Software & VMS
+Accessori video sorveglianza
+Bac

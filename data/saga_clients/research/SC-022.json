@@ -1,0 +1,73 @@
+{
+ "code": "SC-022",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（mcelroy.co.uk，快照 2026-10-21）",
+ "summary": "英国 Canonbury / mcelroy.co.uk（站点为「Tenancy Agreements」在线租约服务；2014 年阿里巴巴 RFQ「5 口交换机带 PoE」；KP Roger McElroy；「经常回复回执」「质量一般」；电话加不上）；表内未跟进。",
+ "type": "非渠道终端用户（陈旧 RFQ）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Tenancy Agreements",
+   "quote": "Tenancy agreements online",
+   "url": "http://mcelroy.co.uk/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "5口交换机带PoE；经常回复回执；2014年使用国际站, 44 - 020 - 7118100 加不上；5口交换机带PoE / from: 阿里巴巴RFQ",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "mcelroy.co.uk 快照",
+   "quote": "Tenancy Agreements ; Tenancy agreements online",
+   "url": "http://mcelroy.co.uk/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "5 口 PoE RFQ 2014",
+   "quote": "2014年使用国际站 / 5口交换机带PoE / from: 阿里巴巴RFQ；经常回复回执",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "非渠道终端用户 + 2014 年陈旧 RFQ；c_sub=品类不符/终端用户",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "英国",
+  "other": "官网 mcelroy.co.uk，语言 ?，快照状态 ok；角色判定来源：待核"
+ },
+ "business_lines": [
+  "在线租约服务（英国）"
+ ],
+ "channels": {
+  "role": "非渠道终端用户（陈旧 RFQ）",
+  "region": "英国",
+  "contact": "roger@mcelroy.co.uk"
+ },
+ "signals": [
+  "快照：Tenancy Agreements ; Tenancy agreements online",
+  "表内：5 口交换机带 PoE / from: 阿里巴巴 RFQ；2014 年使用国际站；经常回复回执；KP Roger McElroy；质量一般"
+ ],
+ "risks": [
+  "非渠道终端用户（在线租约服务）；RFQ 为 2014 年（陈旧）；仅自动回执"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 20,
+  "why": "租约服务网站（非渠道），2014 年 5 口 PoE 陈旧 RFQ → 改 C"
+ },
+ "email_hook": "（不发送：终端用户/陈旧线索）"
+}

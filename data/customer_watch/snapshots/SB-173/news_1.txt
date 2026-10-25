@@ -1,496 +1,197 @@
-# SB-173 digimax.it · news_1 · https://www.digimax.it/it/blog · fetched 2026-10-25T07:41:18Z · HTTP 200
-Digimax | Visita il nostro blog: news, articoli e approfondimenti
-Contattaci
-RMA
-window.location.href = $event.target.value">
-IT
-EN
-Contattaci
-RMA
-window.location.href = $event.target.value">
-IT
-EN
-INDUSTRIA & AUTOMAZIONE
-ALIMENTATORI INDUSTRIALI
-Tutti i ALIMENTATORI INDUSTRIALI
-ALIMENTATORI ENCLOSED
-ALIMENTAZIONE BARRA DIN
-ALIMENTATORI OPEN FRAME
-ADATTATORI
-CARICABATTERIE E BATTERIE
-INVERTER
-RACK POWER
-DC/DC CONVERTER
-ALIMENTATORI PC INDUSTRIALI
-ACCESSORI DI ALIMENTAZIONE
-UPS
-ALIMENTATORI INDUSTRIALI
-INDUSTRIAL PC
-Tutti i INDUSTRIAL PC
-EMBEDDED PC
-EMBEDDED SBC
-EMBEDDED SOM
-INDUSTRIAL MOTHERBOARD
-INDUSTRIAL CHASSIS
-INDUSTRIAL MONITOR
-PANEL PC
-RUGGED TABLET
-DATA ACQUISITION MODULE
-SERVER PC
-INDUSTRIAL PC
-DISPLAY
-Tutti i DISPLAY
-DISPLAY TFT LCD
-TOUCH SCREEN
-MONITORS PROFESSIONALI
-DISPLAY LCD
-DISPLAY OLED
-SMART DISPLAY
-DISPLAY
-NETWORKING & COMPONENTS
-Tutti i NETWORKING & COMPONENTS
-INDUSTRIAL ETHERNET
-SENSORI
-MACHINE VISION
-NETWORKING & COMPONENTS
-Le nostre industries
-Vending
-Logistica Avanzata
-Medicale
-Trasporti
-Le nostre competenze al tuo servizio
-Servizi per l'industria e l'automazione
-INDUSTRIA & AUTOMAZIONE
-ALIMENTATORI INDUSTRIALI
-Tutti i ALIMENTATORI INDUSTRIALI
-ALIMENTATORI ENCLOSED
-ALIMENTAZIONE BARRA DIN
-ALIMENTATORI OPEN FRAME
-ADATTATORI
-CARICABATTERIE E BATTERIE
-INVERTER
-RACK POWER
-DC/DC CONVERTER
-ALIMENTATORI PC INDUSTRIALI
-ACCESSORI DI ALIMENTAZIONE
-UPS
-ALIMENTATORI INDUSTRIALI
-INDUSTRIAL PC
-Tutti i INDUSTRIAL PC
-EMBEDDED PC
-EMBEDDED SBC
-EMBEDDED SOM
-INDUSTRIAL MOTHERBOARD
-INDUSTRIAL CHASSIS
-INDUSTRIAL MONITOR
-PANEL PC
-RUGGED TABLET
-DATA ACQUISITION MODULE
-SERVER PC
-INDUSTRIAL PC
-DISPLAY
-Tutti i DISPLAY
-DISPLAY TFT LCD
-TOUCH SCREEN
-MONITORS PROFESSIONALI
-DISPLAY LCD
-DISPLAY OLED
-SMART DISPLAY
-DISPLAY
-NETWORKING & COMPONENTS
-Tutti i NETWORKING & COMPONENTS
-INDUSTRIAL ETHERNET
-SENSORI
-MACHINE VISION
-NETWORKING & COMPONENTS
-ALIMENTATORI INDUSTRIALI
-Tutti i ALIMENTATORI INDUSTRIALI
-ALIMENTATORI ENCLOSED
-ALIMENTAZIONE BARRA DIN
-ALIMENTATORI OPEN FRAME
-ADATTATORI
-CARICABATTERIE E BATTERIE
-INVERTER
-RACK POWER
-DC/DC CONVERTER
-ALIMENTATORI PC INDUSTRIALI
-ACCESSORI DI ALIMENTAZIONE
-UPS
-INDUSTRIAL PC
-Tutti i INDUSTRIAL PC
-EMBEDDED PC
-EMBEDDED SBC
-EMBEDDED SOM
-INDUSTRIAL MOTHERBOARD
-INDUSTRIAL CHASSIS
-INDUSTRIAL MONITOR
-PANEL PC
-RUGGED TABLET
-DATA ACQUISITION MODULE
-SERVER PC
-DISPLAY
-Tutti i DISPLAY
-DISPLAY TFT LCD
-TOUCH SCREEN
-MONITORS PROFESSIONALI
-DISPLAY LCD
-DISPLAY OLED
-SMART DISPLAY
-NETWORKING & COMPONENTS
-Tutti i NETWORKING & COMPONENTS
-INDUSTRIAL ETHERNET
-SENSORI
-MACHINE VISION
-Le nostre industries
-Vending
-Logistica Avanzata
-Medicale
-Trasporti
-Le nostre competenze al tuo servizio
-Servizi per l'industria e l'automazione
-Illuminazione professionale
-SOLUZIONI LED
-Tutti i SOLUZIONI LED
-LED STRIP
-NEON STRIP
-COB LED
-OTTICHE
-DISSIPATORI LED
-TRACK LIGHT
-SOLUZIONI LED
-DIMMING CONTROL
-Tutti i DIMMING CONTROL
-DIMMER
-GATEWAY
-CONTROL DEVICES
-PIXEL TO PIXEL- SPI
-SENSORISTICA
-DIMMING CONTROL
-DRIVER LED
-Tutti i DRIVER LED
-DRIVER LED CORRENTE COSTANTE
-DRIVER LED TENSIONE COSTANTE
-DC/DC CONVERTER LED DRIVER
-DRIVER LED
-ACCESSORI LED
-Tutti i ACCESSORI LED
-CAVI E SURGE PROTECTOR
-ACCESSORI SOLUZIONI LED
-ACCESSORI LED
-Le nostre industries
-Illuminazione indoor
-Illuminazione outdoor
-Le nostre competenze al tuo servizio
-Servizi per l'Illuminazione
-Illuminazione professionale
-SOLUZIONI LED
-Tutti i SOLUZIONI LED
-LED STRIP
-NEON STRIP
-COB LED
-OTTICHE
-DISSIPATORI LED
-TRACK LIGHT
-SOLUZIONI LED
-DIMMING CONTROL
-Tutti i DIMMING CONTROL
-DIMMER
-GATEWAY
-CONTROL DEVICES
-PIXEL TO PIXEL- SPI
-SENSORISTICA
-DIMMING CONTROL
-DRIVER LED
-Tutti i DRIVER LED
-DRIVER LED CORRENTE COSTANTE
-DRIVER LED TENSIONE COSTANTE
-DC/DC CONVERTER LED DRIVER
-DRIVER LED
-ACCESSORI LED
-Tutti i ACCESSORI LED
-CAVI E SURGE PROTECTOR
-ACCESSORI SOLUZIONI LED
-ACCESSORI LED
-SOLUZIONI LED
-Tutti i SOLUZIONI LED
-LED STRIP
-NEON STRIP
-COB LED
-OTTICHE
-DISSIPATORI LED
-TRACK LIGHT
-DIMMING CONTROL
-Tutti i DIMMING CONTROL
-DIMMER
-GATEWAY
-CONTROL DEVICES
-PIXEL TO PIXEL- SPI
-SENSORISTICA
-DRIVER LED
-Tutti i DRIVER LED
-DRIVER LED CORRENTE COSTANTE
-DRIVER LED TENSIONE COSTANTE
-DC/DC CONVERTER LED DRIVER
-ACCESSORI LED
-Tutti i ACCESSORI LED
-CAVI E SURGE PROTECTOR
-ACCESSORI SOLUZIONI LED
-Le nostre industries
-Illuminazione indoor
-Illuminazione outdoor
-Le nostre competenze al tuo servizio
-Servizi per l'Illuminazione
-Brand
-Tutti i Brand
-MEAN WELL
-COLORS
-ADVANTECH
-SNAPPY
-EAGLERISE
-DALCNET
-AAEON
-IEI
-ORING
-AMPIRE
-ARCH
-CAMTEC
-CASAMBI
-CINCON
-CITIZEN
-COTO
-DWIN
-EDAC
-EFENTO
-DLC DISPLAY
-EVERPOWER
-FSP
-HG POWER
-IRAYPLE
-LEDIL
-LENSVECTOR
-LUMENRADIO
-MECHATRONIX
-P-DUKE TECHNOLOGY
-PHILIPS
-PNI SENSORS
-POWERGEAR
-PROTOPIXEL
-RAYSTAR
-ROCKTECH
-ROCKTOUCH
-SKYDANCE
-Smart Display - WINSTAR
-UPOWERTEK
-WINMATE
-YDS
-YES OPTOELECTRONICS
-ZETAQLAB
-Brand
-Risorse
-Blog
-Corsi
-Cataloghi E Brochure
-Tool di calcolo
-Risorse
-Scopri digimax
-Company Profile
-Impegno sulla sostenibilità
-Certificazioni
-People of Digimax
-Lavora con noi
-Soluzioni
-Scopri digimax
-INDUSTRIES
-Industria & Automazione
-Medicale
-Medicale/Biomedicale
-Computer, Monitor e Tablet Certificati per il Settore Medicale
-Alimentatori Medicali Certificati EN60601
-Estetico/Cosmetico
-Display Professionali per il Settore Clinico ed Estetico
-Alimentazione Professionale per Macchinari Estetici
-Pharma
-Sistemi Panel PC per i Produttori del Settore Farmaceutico
-Monitoraggio della Catena del Freddo nel Settore Pharma
-Settore Trasporti
-Navale/Marino
-Panel PC, embedded rugged box PC e Monitor per Applicazioni Navali
-Switch di Rete per Ambienti Marini e Navali
-Alimentatori Certificati DNV per la Nautica
-Veicolare / In-Vehicle
-Soluzioni Display e Smart Display In-Vehicle
-Computer e Panel PC per Installazione Veicolare
-PC Embedded per Applicazioni AI Bordo Mezzo
-Sistemi di Controllo e Joystick Veicolari
-Ferroviario
-Box-PC e Panel PC AI ready per il Ferroviario
-Switch Ethernet per Applicazioni Ferroviarie
-Convertitori DC/DC Certificati per Ferroviario
-Food & Beverage
-Food & Beverage Machines
-Panel PC Inox IP69K per il Settore Alimentare
-Telecamere ispezione per il Controllo Alimentare
-PC Rack per AI per il settore Alimentare
-Vending Machines
-Smart Display per l'Automazione Vending
-Automazione Industriale
-Sistemi di Alimentazione Professionale Industriale
-Sistemi di Illuminazione LED Industriale IP68
-Sistemi e Moduli per l'Acquisizione Dati
-Switch Ethernet Industriali per Barra DIN
-Machine Vision
-Computer Embedded per Visione Artificiale
-Telecamere Industriali per Ispezione e Controllo Qualità
-Packaging
-Sistemi di Lettura Barcode e QR Code per Packaging
-Schede Embedded per Automazione Packaging
-Robotics
-Tablet e Controller Industriali per la Robotica
-PC Embedded AI ready per Robotica
-Logistica Avanzata
-PC e schede Embedded per AGV, AMR e Logistica
-Computer di Bordo per Muletti e Forklift
-Soluzioni di Alimentazione per AGV e Robotica
-Tablet Rugged per Logistica e Magazzino: Efficienza e Resilienza Operativa
-Videocamere e Code Reader per AGV
-Power & Energy
-Energy & Utility
-Switch Ethernet per il Settore Energy & Utility
-Computer Industriali per Sottostazioni Energetiche
-Oil & Gas
-Box PC e Switch Ethernet Certificati ATEX
-Monitor e Panel PC HMI per Zone ATEX
-Household/WhiteGoods
-Vai a Household/WhiteGoods
-Smart Display per Elettrodomestici Industriali e Professionali
-Soluzioni di Alimentazione per Elettrodomestici e Smart Home
-Digital Signage
-Vai a Digital Signage
-Alimentazione Slim per Sistemi Digital Signage
-Monitor Professionali per Digital Signage e Chioschi Interattivi
-Building Automation
-Vai a Building Automation
-Moduli I/O per l'Automazione degli Ambienti Industriali
-Sensori Ambientali per Building Automation
-Sistemi di Alimentazione DIN RAIL per Building Automation
-Display e Interfacce Touch per Building Automation
-Smart City & Video Surveillance
-Vai a Smart City & Video Surveillance
-Schede Embedded AI per Traffic Monitoring e Smart City
-Switch e Access Point per Smart City
-PC embedded Nvidia Jetson AI-enabled per Smart City
-Difesa
-Vai a Difesa
-Sensori di posizionamento, navigazione e precisione per Droni
-Componenti di Alimentazione per il Settore Difesa
-Computer Embedded Rugged per applicazioni Mission Critical
-Panel PC, Monitor e Tablet MIL-STD per la Difesa
-Illuminazione Professionale
-Illuminazione Indoor
-Illuminazione Museale
-COB LED ad Alta Fedeltà Cromatica per Musei e Arte
-Ottiche e Intensità del Fascio Luminoso per l'Arte
-Strip LED ad Alta Resa per Musei e Gallerie
-Sistemi di Controllo e Dimmerazione per Musei
-Illuminazione Magazzini e Industria
-Illuminazione Neon LED per Ambienti Industriali
-Sistemi di Controllo Luce per Magazzini e Industria
-Sensori di Luce e Presenza per l'Efficienza Industriale
-Alimentatori Driver LED IP67 per l'Industria
-Illuminazione Hospitality
-Soluzioni LED per Saune, Piscine e Wellness
-Master DMX per Centri Wellness e Piscine
-Sistemi di Dimmerazione per Piscine e Saune
-Alimentatori e Driver LED nell'Hospitality
-COB LED Efficienti per l'Hospitality
-Controllo DALI, CASAMBI e Zigbee nell'Hospitality
-Strip e Neon LED per l'Illuminazione nell'Hospitality
-Sistemi di Dimmerazione per l'Hospitality
-Illuminazione Negozi Retail
-Soluzioni LED per Negozi, Retail e Showroom
-COB LED ad Alta Resa Cromatica per Negozi e Retail
-Driver LED Compatti per Sistemi a Binario
-Sensori di Luminosità e Presenza Wireless per il Retail
-Sistemi di Controllo Luce per Negozi e Showroom
-Illuminazione Uffici
-Illuminazione LED per Uffici e Studi Professionali
-Sensori di Luce Wireless per Uffici e Studi Professionali
-Alimentatori Driver LED per Uffici e Studi Professionali
-Dimmer Casambi, DALI e NFC per Uffici
-Illuminazione Arredamento
-Alimentatori LED per Mobili, Specchiere e Cucine
-Strip e Neon LED Free-Cutting per Arredamento
-Dimmer e Controlli Luce per Mobili e Cucine
-Illuminazione Ho.Re.Ca.
-Alimentatori per Banchi Frigo ed Espositori Frigoriferi
-Illuminazione LED per Banchi Frigo e Alimentari
-Illuminazione Outdoor
-Illuminazione Architetturale
-Strip LED RGB/RGBW IP67 per Facciate e Vialetti
-Alimentatori Outdoor: Driver LED per Esterni
-Sistemi di Controllo DMX per Facciate Esterne
-Master Lighting DMX per Scenografie Colorate
-Sistemi di Controllo Digitale pixel to pixel
-Illuminazione Paesaggistica
-Soluzioni LED per Giardini e Aree Calpestabili
-Alimentatori Driver LED IP67 per Esterni
-Sistemi di Controllo Luce per Giardini e Vialetti
-Sensori di Presenza e Luminosità per l'Automazione Giardini
-Illuminazione Nautica
-Soluzioni Lineari LED per Navi, Yacht e Nautica
-COB LED ad Alta Efficienza per Navi e Yacht
-Sistemi Master DMX per l'Illuminazione Nautica
-Sistemi Dimming per Navi e Yacht
-Alimentatori Driver LED per Settore Nautico
-Illuminazione Stradale
-Alimentatori Stradali con Standard ZHAGA
-Sistema di Controllo Wireless per l'Arredo Urbano
-Sistemi di Controllo Dimming per Arredo Urbano
-INDUSTRIES
-Industria & Automazione
-Illuminazione Professionale
-Medicale
-Settore Trasporti
-Food & Beverage
-Automazione Industriale
-Power & Energy
-Household/WhiteGoods
-Digital Signage
-Building Automation
-Smart City & Video Surveillance
-Difesa
-Illuminazione Indoor
-Illuminazione Outdoor
-open = false, 150)"
-@l4-close.window="open = false"
-:class="`flex justify-between items-center gap-3 ${open ? 'text-primary-500' : ''}`"
->
-Medicale/Biomedicale
-open = false, 150)"
-@l4-close.window="open = false"
-:class="`flex justify-between items-center gap-3 ${open ? 'text-primary-500' : ''}`"
->
-Estetico/Cosmetico
-open = false, 150)"
-@l4-close.window="open = false"
-:class="`flex justify-between items-center gap-3 ${open ? 'text-primary-500' : ''}`"
->
-Pharma
-open = false, 150)"
-@l4-close.window="open = false"
-:class="`flex justify-between items-center gap-3 ${open ? 'text-primary-500' : ''}`"
->
-Navale/Marino
-open = false, 150)"
-@l4-close.window="open = false"
-:class="`flex justify-between items-center gap-3 ${open ? 'text-primary-500' : ''}`"
->
-Veicolare / In-Vehicle
-open = false, 150)"
-@l4-close.window="open = false"
-:class="`flex justify-between items-center gap-3 ${open ? 'text-primary-500' : ''}`"
->
-Ferroviario
-open = false, 150)"
-@l4-close.window="open = false"
-:class="`flex justify-between i
+# SB-173 inaxsys.com · news_1 · https://inaxsys.com/en/about-us/press-center · fetched 2026-10-25T07:41:18Z · HTTP 200
+Contact Marketing Team | Inaxsys Security Systems
+Search
+Need help ?
+Products
+Inaxsys Cameras
+All products
+IP
+HD Over Coax
+Video Decoder
+Accessories
+Arkiv Video Management Software
+All products
+Arkiv
+Inaxsys Video Recorders
+All products
+Plug & Play Kits
+HD over Coax Video Recorders
+Plug & Play Video Recorders
+Inaxsys Servers & Workstations
+All products
+Workstations
+Rackmount Servers
+Servers Optional Upgrades
+Accessories
+Inaxsys Power Supplies
+All products
+Inaxsys Switches
+All products
+Switches
+Accessories
+ICT Access Control
+All products
+Controllers
+Expansion Modules
+Keypads, Touchscreens & Intercoms
+Wireless Locks
+Readers
+Cards & Tags
+Rover
+Training
+Demo Kit
+Server
+Integration Licences
+Protege WX Kits
+Transmitters & Receivers
+Communication Products
+Inaxsys Communicators & Receivers
+All products
+LTE communicators
+Intercom System
+Alarm receivers and line cards
+LTE SIM cards
+Cable
+Ajax Systems
+All products
+SPECIAL KIT PROMO
+Control panels
+Range extenders
+Indoor security
+Outdoor security
+Fire detection
+Flood prevention
+Controls and panic buttons
+Sirens
+Automation
+Integration modules
+Power supplies
+Comfort & Productivity
+Video Surveillance
+Portable Security Tower
+Accessories
+Rover Inaxsys
+All products
+Inaxsys Cables
+All products
+CAT6
+RS485
+Distributors
+Find a distributor
+Become a distributor
+Support
+FAQ
+Ask for help
+Download center
+Surveillance hard drive storage calculator
+RMA Center
+Register for My ICT Account
+Ajax Systems Technical Support
+About us
+Careers
+Press center
+News & Articles
+Events
+Available Roadshows
+Contact us
+Inaxsys Portal
+Sign in
+Register
+FR
+Contact the Marketing Team
+Inaxsys Marketing Team
+marketing@inaxsys.com
+See news & articles
+Downloads for the medias
+Download Logos
+Download Branding Chart
+What's new at Inaxsys ?
+News
+2026-10-20 ,
+by Inaxsys Team
+ICT and Inaxsys Partner to Expand Protege GX Availability Across North AmericaNow available through ADI and Wesco, ICT’s Protege GX...
+Read Now
+Inaxsys at Security Canada Central 2025
+News
+2025-09-05 ,
+by Inaxsys Team
+Once again, Inaxsys Security Systems is proud to be part of Security Canada Central 2025 — a tradition we look...
+Read Now
+Discover Legend NX, the new range of security solutions from Inaxsys security systems
+LEGEND
+2024-12-09 ,
+by Inaxsys Team
+Legend NX: A New Era in Security Solutions Inaxsys is proud to unveil Legend NX, our next-generation security product line...
+Read Now
+Event Security Canada 2024 Recap
+News
+2024-10-31 ,
+by Inaxsys Team
+Event Security Canada 2024 Recap Celebrating Innovation in Toronto As we reflect on an incredible experience at Event Security Canada 2024, held...
+Read Now
+See news & articles
+Inaxsys is much more than just a camera manufacturer and a security brand. It's
+a
+team of human beings committed to supporting you and who are proud to contribute to the
+success
+of your organization.
+We're here to make a difference for you.
+Products
+Inaxsys Cameras
+Arkiv Video Management Software
+Inaxsys Video Recorders
+Inaxsys Servers & Workstations
+Inaxsys Power Supplies
+Inaxsys Switches
+ICT Access Control
+Inaxsys Communicators & Receivers
+Ajax Systems
+Rover Inaxsys
+Inaxsys Cables
+About us
+Careers
+Press center
+News & Articles
+Events
+Available Roadshows
+Support
+FAQ
+Ask for help
+Download center
+Surveillance hard drive storage calculator
+RMA Center
+Find a distributor
+Become a distributor
+Contact us
+Inaxsys Portal
+Inaxsys Security Systems Inc.
+11685 Avenue Philippe-Panneton,
+Montréal (QC) Canada, H1E 4M1
+Tel : +1 (514) 648-6648
+Fax : +1 (514) 667-0745
+Toll-Free Number : 1-888-648-6648
+FR
+Privacy Policy -
+Terms of Use -
+Returns and warranty policies
+© Inaxsys Security Systems Inc. 2024 - All Rights Reserved. SiteWeb developed by 3wDesign
+INTERRUPTION DE SERVICE – RÉPARATION D'URGENCE
+SERVICE INTERRUPTION – EMERGENCY REPAIR
+✖
+Une réparation d'urgence liée à un bris impliquant l'ensemble de nos fournisseurs Internet aura lieu le vendredi 24 avril entre 8 h et 17 h. L'heure exacte de l'intervention est actuellement inconnue.
+Une interruption d'environ 120 minutes est à prévoir et affectera l'ensemble de nos services , incluant :
+Services cloud
+Commandes
+Communications (courriel, téléphone et support technique)
+Nous vous remercions de votre compréhension.
+— L'équipe Inaxsys
+An emergency repair related to an issue involving all our internet providers will take place on Friday, April 24 between 8 a.m. and 5 p.m. The exact time of the intervention is currently unknown.
+An interruption of approximately 120 minutes is expected and will affect all of our services , including:
+Cloud services
+Orders
+Communications (email, phone and technical support)
+We appreciate your understanding.
+— The Inaxsys Team
+We use cookies to improve your experience on our site. You may accept or decline non-essential cookies.
+Decline
+Accept

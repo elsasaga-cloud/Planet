@@ -2,161 +2,167 @@
  "code": "SB-754",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "在线（aironix.co.il，快照 2026-10-21）",
- "summary": "以色列 Aironix（工业/无线网络产品分销；表内「工业 FS O-ring 的」「可以尝试多跟进一下」；KP Yair Turjeman（Chief Executive Officer）、Eytan Birenzwige（Vice President Operations））；群发 8 次无回复。",
- "type": "工业网络分销商（以色列，ORing 在供）",
+ "website_status": "在线（fastercable.com，快照 2026-10-21）",
+ "summary": "美国 FasterCable（线缆供应商；自有 EISW8-100T / EISW16-100T 工业以太网交换机（百兆电口）；表内「5/8/16 电口工业 FS 周边产品」；KP Richard Ozols（Sales Manager）、Juliette O（V. President））；群发 20 次无回复。",
+ "type": "线缆供应商（美国，自有标工业电口 FS）",
  "size": "",
- "brands_seen": [
-  "ORing"
- ],
+ "brands_seen": [],
  "evidence": [
   {
    "kind": "官网快照",
-   "claim": "官网标题：aironix.co.il",
-   "quote": "",
-   "url": "https://aironix.co.il/",
+   "claim": "官网标题：FasterCable；品类词 布线 / 线缆 / 网络交换 / PoE",
+   "quote": "Featured Products；New Products",
+   "url": "https://fastercable.com/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
    "claim": "表内兴趣/备注",
-   "quote": "工业FS O-ring的",
+   "quote": "5/8/16电口工业FS 周边产品",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   },
   {
+   "kind": "官网快照",
+   "claim": "FasterCable 站点型号",
+   "quote": "FasterCable ; Featured Products ; EISW16-100T ; EISW8-100T",
+   "url": "https://fastercable.com/",
+   "date": "2026-10-21"
+  },
+  {
    "kind": "用户表",
-   "claim": "工业 FS ORing",
-   "quote": "工业FS O-ring的；可以尝试多跟进一下",
+   "claim": "5/8/16 电口工业 FS",
+   "quote": "5/8/16电口工业FS 周边产品",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
  "kp": [
   {
-   "name": "Yair Turjeman",
-   "title": "Chief Executive Officer",
-   "email": "yair@aironix.co.il",
-   "phone": "WhatsApp +972 54 831 8384（2026-08-15 他自己写「WhatsApp +972548318384」）",
+   "name": "Richard Ozols",
+   "title": "Sales Manager",
+   "email": "richard@fastercable.com",
+   "phone": "",
    "source": "用户表"
   },
   {
-   "name": "Eytan Birenzwige",
-   "title": "Vice President Operations",
-   "email": "info@aironix.co.il",
+   "name": "Juliette O",
+   "title": "V. President",
+   "email": "",
    "phone": "",
    "source": "用户表"
   }
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "以色列",
-  "other": "官网 aironix.co.il，语言 ?，快照状态 ok；角色判定来源：待核"
+  "hq": "美国",
+  "other": "官网 fastercable.com，语言 en，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "工业 / 无线网络产品分销（以色列）"
+  "线缆 / 网络配件",
+  "工业以太网交换机（自有 EISW 系列）"
  ],
  "channels": {
-  "role": "工业网络分销商（以色列，ORing 在供）",
-  "region": "以色列",
-  "contact": "info@aironix.co.il、yair@aironix.co.il"
+  "role": "线缆供应商（美国，自有标工业电口 FS）",
+  "region": "美国",
+  "contact": "richard@fastercable.com、sales@fastercable.com"
  },
  "signals": [
-  "表内：工业 FS O-ring 的；KP Yair Turjeman / Chief Executive Officer；Eytan Birenzwige / Vice President Operations；可以尝试多跟进一下",
-  "快照：内容为空"
+  "站内 EISW16-100T / EISW8-100T；kw cable 191 / switch 21 / ethernet 14",
+  "表内：5/8/16 电口工业 FS 周边产品；KP Richard Ozols / Sales Manager；Juliette O / V. President"
  ],
  "risks": [
-  "非主攻区（T5，以色列）；ORing（台湾）品牌粘性；8 次无回复 → 改向 CEO 具名首触；官网快照空"
+  "主业线缆（Saga 不做），交换机为周边；现款为百兆（价格基准低）",
+  "20 次无回复 → 改向 Sales Manager 具名首触"
  ],
  "saga_fit": {
-  "p1": "STI-280GE",
-  "tier": 20,
-  "why": "ORing 位预算替代 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、8 PoE + 2 SFP STI-288GPM（$78.9）、5 GE STI-050GE（$17.0）"
+  "p1": "STI-080GE",
+  "tier": 30,
+  "why": "自有 EISW 系列 5/8/16 电口工业 FS → 工业 8 GE 非管理 STI-080GE（$34.0 @30%）/ 5 GE STI-050GE（$18.5）升级千兆；16 电口工业位 SmartByte 对应型号（注明）"
  },
- "email_hook": "Yair, alongside the ORing industrial switches you distribute, we supply neutral-brand DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP units (−40~75 °C, CE/RoHS; managed versions on a Marvell platform) from single units, EXW USD — is there a lower-priced industrial position your integrator customers ask for?",
+ "email_hook": "Richard, for the EISW-series industrial switches you sell alongside your cable lines, we can supply gigabit DIN-rail 5/8/16-port unmanaged units (−40~75 °C, 12–57 V dual input, FCC/CE/RoHS) under your label from small lots — would a gigabit upgrade of the 8/16-port models fit your range?",
+ "products_seen": [
+  {
+   "brand": "FasterCable（自有）",
+   "model": "EISW8-100T",
+   "spec": "8 口百兆工业交换机",
+   "saga": "STI-080GE（千兆升级）",
+   "url": "https://fastercable.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "brand": "FasterCable（自有）",
+   "model": "EISW16-100T",
+   "spec": "16 口百兆工业交换机",
+   "saga": "SmartByte 16 电口工业型号（注明）",
+   "url": "https://fastercable.com/",
+   "date": "2026-10-21"
+  }
+ ],
  "mail_review": {
   "binding": {
-   "level": "轻度绑定→活线索（2026-08-13 Yair：「equivalent to Allied AT-GS910-24, 47 pcs, 300 pcs a year」→ Alan 给近似款 → Yair「customer target $150」→ Alan「$60 EXW… I think we can make it」；之后 Yair 无回，Alan 9-18 改发 16 口群发；Elsa 箱：`to:aironix.co.il` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 21 / 来 2）（第 74 批(n)））",
-   "type": "以色列工业网络分销（Aironix；ORing 在供；Yair = 销售/采购，WhatsApp 公开）——第二档分销，手里有 47+300/年的项目",
-   "sieve": "3→4（规格对表 + 目标价，差一步样品）",
-   "stop": "价格空间巨大（$60 vs 目标 $150）却没有闭环：Alan 的回复里带了「ChatGPT 说是 technically suitable candidate」——把判断责任推给客户；之后没有追「要不要 2 台样品」",
-   "revive": "一句话：按 AT-GS910-24 逐项对表（24×GE 非管理 L2 web smart？实际 GS910/24 是非管理机架 24 口）+ 2 台付费样品 + 47 台价与 300 台/年价两档",
-   "lane": "IL 非主攻——但 J5：300 台/年证据压过地区",
-   "cadence": "现在；之后按项目",
-   "evidence": "k=e38d26c7ab40da80（47/300 pcs）；8cd7e98463599356（近似款）；3a08877b73cf6f38（target $150）；44e2d2b34a060ccb（$60 EXW + ChatGPT）；67992b2d19d5a0b8（9-18 群发）"
+   "level": "未触达（A/S 邮箱 30 封 2024→2026，无记录打开，0 回；收件 juliette@fastercable.com, richard@fastercable.com；主题多为「90W PoE Managed Switch、Managed Optical Bypass Switch」；Elsa 箱：`to:fastercable.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 30 / 来 0）（第 74 批(h)））",
+   "type": "线缆供应商（美国，自有标工业电口 FS）",
+   "sieve": "1（只收到群发）",
+   "stop": "30 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+   "lane": "US 主攻（四主）",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 30；用户表：「5/8/16电口工业FS 周边产品」；研究档 risks：主业线缆（Saga 不做），交换机为周边；现款为百兆（价格基准低）"
   },
-  "situation": "两个月前的活线索：客户给了型号、数量、年量、目标价四个要素，Saga 的价只有目标价的 40%。断在没有人把「对表 + 样品 + 两档价」一次给齐。",
-  "need": "AT-GS910-24 替代：24 口千兆非管理/轻管理机架交换机，47 台首批，300 台/年。",
-  "breakpoint": "Saga 未闭环。",
+  "situation": "美国 FasterCable（线缆供应商；自有 EISW8-100T / EISW16-100T 工业以太网交换机（百兆电口）；表内「5/8/16 电口工业 FS 周边产品」；KP Richard Ozols（Sales Manager）、Juliette O（V. President））；群发 20 次无回复。",
+  "need": "自有 EISW 系列 5/8/16 电口工业 FS → 工业 8 GE 非管理 STI-080GE（$34.0 @30%）/ 5 GE STI-050GE（$18.5）升级千兆；16 电口工业位 SmartByte 对应型号（注明）",
+  "breakpoint": "主业线缆（Saga 不做），交换机为周边；现款为百兆（价格基准低）",
   "saga_now": {
-   "p1": "STC-024GE-U（24×GE 非管理、机架型，Saga 列表价 $48.4；Alan 2026-08-15 发的是桌面型 STC-024GE-D.docx，列表价 $42.9——AT-GS910/24 为 1U 机架机，应改发 -U 版）",
-   "tier": 20,
-   "price": "$60 USD EXW（Alan 2026-08-15 报，附件 STC-024GE-D.docx）；HRUI 对照表列表价 STC-024GE-D $42.9 / STC-024GE-U $48.4 → $60 可立住；客户采购目标 $150 为其买价；300 台/年档由 Simon 在列表价之上自定（此前 $58/$54 为臆造，已撤）；群发里他已看到的价（续）：2026-08-13 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-29 $280（10G Enterprise SFP Switch）",
-   "why": "数量 + 目标价 + 距今 2 个月 最近一封去信是 2026-10-07 A 邮箱 AC5 管理 PoE 模板（在本档最后一条事实之后）——下一封必须回到真人线程、不再叠模板｜已发资料（勿重发）：Product Link_2026Q2(2026-04-02)、Product Link_2026Q3(2026-07-13)、STC-024GE-D(2026-08-15)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）",
+   "p1": "STI-080GE",
+   "tier": 30,
+   "price": "换人再触锚价 STI-080GE $32.5 EXW（最近实报 SB-905 2025-07-07 $32.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-22 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-07-27 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-06-26 $65（10G Media Converter）、2025-10-09 $280（10G Enterprise SFP Switch）",
+   "why": "自有 EISW 系列 5/8/16 电口工业 FS → 工业 8 GE 非管理 STI-080GE（$34.0 @30%）/ 5 GE STI-050GE（$18.5）升级千兆；16 电口工业位 SmartByte 对应型号（注明）",
    "repeat": [],
-   "gaps": [
-    "客户是否已另购",
-    "GS910/24 关键参数（非管理、桌面/机架、风扇）逐项对表"
-   ]
+   "gaps": []
   },
   "next_move": {
-   "when": "现在",
-   "channel": "A 邮箱 → yair@aironix.co.il（+WhatsApp +972 54 831 8384）",
-   "action": "对表 + 样品 + 两档价一次给齐；附件：STC-024GE-U 规格书（24 × GE 非管理机架版）",
-   "one_question": "Yair — $60 USD EXW stands (quoted 2026-08-15) for the rack version STC-024GE-U; shall I prepare a 2-pc sample invoice, or the 47-pc proforma directly?"
+   "when": "2027-Q1（换人后）",
+   "channel": "A 邮箱 → 具名 KP",
+   "action": "换收件人再发一封（第 75 批(w) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
+   "one_question": "Richard, for the EISW-series industrial switches you sell alongside your cable lines, we can supply gigabit DIN-rail 5/8/16-port unmanaged units (−40~75 °C, 12–57 V dual input, FCC/CE/RoHS) under your label from small lots — would a gigabit upgrade of the 8/16-port models fit your range? Reference: STI-080GE at $32.5 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
    {
-    "date": "2026-08-13",
-    "dir": "来",
-    "who": "Yair",
-    "quote": "Can you Offer an equivalent product to Allied AT-GS910-24, 47 pcs, 300 pcs a year.",
-    "why": "需求四要素",
-    "k": "e38d26c7ab40da80"
-   },
-   {
-    "date": "2026-08-15",
-    "dir": "来",
-    "who": "Yair",
-    "quote": "my customer buying target price is 150usd each",
-    "why": "目标价",
-    "k": "3a08877b73cf6f38"
-   },
-   {
-    "date": "2026-08-15",
+    "date": "2026-10-01",
     "dir": "去",
-    "who": "Alan",
-    "quote": "I checked with ChatGPT… \"Technically suitable replacement candidate\"… About the price, it is 60USD/PC, EXW term.",
-    "why": "价差 2.5 倍，未闭环",
-    "k": "44e2d2b34a060ccb"
+    "who": "A/S 群发",
+    "quote": "90W PoE Managed Switch、Managed Optical Bypass Switch",
+    "why": "30 封 / 0 次打开 / 0 回｜首封 2024-06-26 → 末封 2026-10-01（30 去 / 0 来）",
+    "k": "gmail_digest"
    },
    {
-    "date": "2026-08-15",
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "5/8/16电口工业FS 周边产品",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026-10-01",
     "dir": "去",
-    "who": "Alan",
-    "quote": "Yes, please see attached datasheet, it is similar.（附件 STC-024GE-D.docx）",
-    "why": "对位型号为 STC-024GE-D 桌面型；AT-GS910/24 是机架型 → 应发 STC-024GE-U",
-    "k": "8cd7e98463599356"
-   },
-   {
-    "date": "2026-08-13",
-    "dir": "来",
-    "who": "Yair（附件）",
-    "quote": "AT-GS910-24@ALLIED TEL.pdf（Allied Telesis 规格书，5,658 字已抽取）",
-    "why": "对表依据在仓库 data/gmail_a/attachments",
-    "k": "e38d26c7ab40da80"
+    "who": "A 箱（Alan）",
+    "quote": "Managed PoE Switches",
+    "why": "本日去信真实主题（邮箱索引 23406378bf11be3e；信稿开头句引用此封；此前稿内写的「90W PoE Managed Switch」是线程列表首题，不是本封）",
+    "k": "23406378bf11be3e"
    }
   ],
   "proof_gaps": [],
   "draft_en": {
-   "subject": "Re: 24 Port PoE Managed Switch — AT-GS910/24 replacement, 47 pcs",
-   "body": "Hi, Yair,\n\nComing back on the AT-GS910/24 replacement for your customer (47 pcs now, ~300 pcs/year).\n\n- Price stays $60 USD/pc EXW Shenzhen as quoted on 15 Aug 2026 (valid 15 days from this mail); with your customer's $150 target there is room for freight, duty and your margin.\n- For a 1U rack role like the AT-GS910/24, the right unit is our rack version STC-024GE-U (24x GbE unmanaged, VLAN/extend mode, loop alarm, AC input) — datasheet attached; the desktop version I sent earlier is the same electronics in a different housing.\n- We can ship 2 test units this month by DHL (paid samples, credited against the first 47).\n\nOne question: shall I prepare the sample invoice for 2 pcs, or do you want the 47-pc proforma directly?\n\nThank you.\nAlan\nSaga Telecom - sagatele.com"
+   "subject": "A gigabit upgrade for the EISW-series switches - under your label",
+   "body": "Hi Richard,\n\nOver the past months you had a few product mails from us - most recently \"Managed PoE Switches\" on 1 October 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nYour EISW8-100T / EISW16-100T are Fast Ethernet. A gigabit upgrade of the same positions under your label from small lots, DIN-rail, -40 to 75 C, FCC/CE/RoHS: 8 x Gigabit unmanaged, 12-58 V DC - model STI-080GE - $32.5 USD EXW (MOQ 1, 15-day validity); 5 x Gigabit, 12-36 V DC - STI-050GE - $18.5; the 16-port industrial position I quote against the exact port mix you want (copper only, or with 2 x SFP).\n\nOne question: would a gigabit upgrade of the 8- and 16-port models fit the range, or do your customers still ask for 10/100?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
  }

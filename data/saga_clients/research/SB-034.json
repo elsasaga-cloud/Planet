@@ -1,131 +1,140 @@
 {
  "code": "SB-034",
- "name_official": "Swift Solution & Services (SSS)",
- "researched_at": "2026-10-21",
- "website_status": "在线（swift.net.pk，快照 2026-10-21）",
- "summary": "伊斯兰堡电信 / 网络 / 广播解决方案商，2003 年成立，业主 Abdul Mateen Awan（ICCI 会员名录），团队来自巴电信业，做视频会议、数据通信、生物识别、RFID、无线电广播、IP 电话；客户含政府、广播、国防、教育（守界按单核）。表内兴趣「1 光 8 ST」，2024-05 要商用交换机价目。",
- "type": "",
- "size": "",
+ "name_official": "TJ Computer（泰国；Peter Ponganan Ruenboon）",
+ "website_status": "域名不可达（tj2003.net）",
+ "summary": "泰国电脑 / CCTV 店（tj2003.net 失效；tjcomputercctv@ 邮箱），Peter（Ponganan Ruenboon），需求 5 电口并要具体产品信息，2025-03 对 2 光 8 PoE 回复 Interested。",
+ "type": "小型经销商",
+ "size": "微型（待补证）",
  "brands_seen": [],
  "evidence": [
   {
-   "kind": "官网",
-   "claim": "2003 年成立；电信 / 网络 / 广播综合方案商；客户含政府、广播、国防、教育",
-   "quote": "SSS was founded in 2003 as a comprehensive solutions provider in the field of telecommunications, networks and broadcasting… clientele… including governance, services, communications, broadcasting, defence and education",
-   "url": "https://swift.net.pk/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "名录",
-   "claim": "ICCI 会员：业务线电信；业主 Abdul Mateen Awan；E-8 伊斯兰堡",
-   "quote": "SWIFT SOLUTION & SERVICES — BUSINESS LINE: TELECOMMUNICATION — MR.ABDUL MATEEN AWAN – PROPRIETOR — D-14L Naval Shopping Complex, E-8, Islamabad — 051-4340841 — info@swift.net.pk",
-   "url": "https://www.icci.pk/listing/swift-solution-services/",
+   "kind": "用户记录",
+   "claim": "5 电口需求，需要具体产品信息；WA 加不上",
+   "quote": "5电口 需要具体的产品信息；0622179229 加不上（用户 Clients 表摘录）",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   },
   {
    "kind": "官网快照",
-   "claim": "公开邮箱 info@ / jamil@ / mateen@swift.net.pk；关键词 telecom 3 / switch 2",
-   "quote": "emails info@swift.net.pk, jamil@swift.net.pk, mateen@swift.net.pk",
-   "url": "https://swift.net.pk/",
+   "claim": "tj2003.net 不可达",
+   "quote": "status unreachable",
+   "url": "http://tj2003.net/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "兴趣 1 光 8 ST；2024-05 mini 工业机→要商业交换机 price list",
-   "quote": "兴趣：1光8 ST；回复：商业交换机的price list",
+   "claim": "5 电口 需要具体的产品信息；2025-03 28PoE→Interested",
+   "quote": "兴趣：5电口 需要具体的产品信息；回复：Interested",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
  "kp": [
   {
-   "name": "Abdul Mateen Awan",
-   "title": "Proprietor",
-   "email": "mateen@swift.net.pk",
-   "phone": "+92 333 512 0078",
-   "source": "https://www.icci.pk/listing/swift-solution-services/"
+   "name": "Peter (Ponganan Ruenboon)",
+   "title": "（经营者）",
+   "email": "tjcomputercctv@tj2003.net（2025-03 / 05 来信地址；署名 พงศ์นันท์ รื่นบุญ (ปีเตอร์)）；tjcomputer2003@gmail.com",
+   "phone": "08-0069-1918 / 06-2217-9229（2025-05-14 签名）",
+   "source": "A 邮箱来信表头 + 签名"
   }
  ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "grade_override": "B",
+ "override_reason": "微型经销商、5 口非管理交换机客单价极低、WA 不通 → 慢跟。",
+ "notes": "邮件一次性给 STI-244GP/5 口型号资料即可。",
+ "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照 + 名录核对）"
+  "level": "B 级加厚 v1（快照不可达 + 表内）"
  },
  "company_facts": {
-  "legal_name": "Swift Solution & Services",
-  "founded": "2003",
-  "hq": "D-14L Naval Shopping Complex, E-8, Islamabad, Pakistan",
-  "size": "小型（独资）",
-  "other": "ICCI 会员"
+  "legal_name": "TJ Computer（2003）",
+  "founded": "2003（域名推断）",
+  "hq": "泰国",
+  "size": "小型零售 / 安装",
+  "other": "CCTV 业务"
  },
  "business_lines": [
-  "电信 / 数据通信集成",
-  "广播与无线电",
-  "视频会议 / IP 电话",
-  "生物识别 / RFID"
+  "电脑 / CCTV 零售安装"
  ],
  "channels": {
-  "role": "系统集成 / 方案商（项目）",
-  "region": "巴基斯坦"
+  "role": "零售 / 安装商",
+  "region": "泰国"
  },
  "signals": [
-  "要过商用交换机价目",
-  "电信/广播项目有接入层需求"
+  "对 2 光 8 PoE Interested；5 口需求"
  ],
  "risks": [
-  "守界：客户含国防 — 按单核对最终用户，不供军方项目",
-  "独资小公司，项目型"
+  "小店小量；域名失效"
  ],
  "saga_fit": {
   "p1": "STC-28DGGPM",
   "tier": 25,
-  "why": "其要的商用交换机价目 → 以 STC-28DGGPM 起手；「1 光 8」工业口型对 STI-188 无，最近为 STI-288GP（2 SFP）。"
+  "why": "2 光 8 PoE Interested → STC-28DGGPM；5 口 → STI-050GE / 商用 5 口按 HRUI 另询。"
  },
- "email_hook": "Mateen, you asked for our commercial switch price list in May 2024 — for your telecom and broadcast sites, is the 8-port PoE with SFP uplink the size you quote most, or should I lead with the 24-port?",
+ "email_hook": "Peter, you were interested in the 8-PoE + 2-SFP unit — $84 EXW at 1 pc; for the 5-port need, do you want PoE or plain gigabit? I'll send both sheets.",
  "mail_review": {
   "binding": {
-   "level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：1光8 ST；回复：商业交换机的price list」；Elsa 箱：`to:swift.net.pk` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(n)））",
-   "type": "—",
-   "sieve": "—（未入筛）",
-   "stop": "从未触达",
-   "revive": "不动（非主攻区；J5：有证据再动）",
-   "lane": "巴基斯坦 非主攻",
-   "cadence": "不动",
-   "evidence": "gmail_digest：out 0；用户表：「兴趣：1光8 ST；回复：商业交换机的price list」；研究档 risks：守界：客户含国防 — 按单核对最终用户，不供军方项目"
+   "level": "未绑定（两次「interested / 多少钱」→ bypass 款 300 USD → 停；Elsa 箱：`to:tj2003.net` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 18 / 来 2）（第 74 批(n)））",
+   "type": "泰国小经销（Peter）——第四档；TH 非主攻",
+   "sieve": "2",
+   "stop": "2025-05-15 STI-488XGGPM2B-2BT 300 USD 后无回",
+   "revive": "不主动",
+   "lane": "TH",
+   "cadence": "2025-02 → 2026-09 去信 18 封；最后来信 2025-05-14",
+   "evidence": "k=2c5f175a9c8a8571 / 02da3feea2aac332 / 60215e5a3bb8a816；A 邮箱外发报价单正文（`data/gmail_a/attachments/text/`，2026-10-24 对表）"
   },
-  "situation": "伊斯兰堡电信 / 网络 / 广播解决方案商，2003 年成立，业主 Abdul Mateen Awan（ICCI 会员名录），团队来自巴电信业，做视频会议、数据通信、生物识别、RFID、无线电广播、IP 电话；客户含政府、广播、国防、教育（守界按单核）。表内兴趣「1 光 8 ST」，2024-05 要商用交换机价目。",
-  "need": "其要的商用交换机价目 → 以 STC-28DGGPM 起手；「1 光 8」工业口型对 STI-188 无，最近为 STI-288GP（2 SFP）。",
-  "breakpoint": "守界：客户含国防 — 按单核对最终用户，不供军方项目",
+  "situation": "Peter 对 8 口工业 PoE 回「interested」、对 bypass 回「多少钱」，Alan 报 300 USD（4×10G + 8 PoE，2 通道 bypass，L2+）后无回。",
+  "need": "8 口工业 PoE；bypass。",
+  "breakpoint": "泰国小经销的价格段与 Marvell 不匹配。",
   "saga_now": {
-   "p1": "STC-28DGGPM",
+   "p1": "STI-244GP / 5 口非管理（一次给齐）",
    "tier": 25,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "其要的商用交换机价目 → 以 STC-28DGGPM 起手；「1 光 8」工业口型对 STI-188 无，最近为 STI-288GP（2 SFP）。",
+   "price": "—；群发里他已看到的价（续）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-04-23 $300（48 Port PoE Managed Switch）、2025-08-13 $240（24 Port Fiber Switch）、2025-10-15 $280（10G Enterprise SFP Switch）",
+   "why": "不主动。已打开的主题（7/18 封有打开记录）：「Managed Optical Bypass Switch」(2025-05-14)、「Re: Managed Optical Bypass Switch」(2025-05-15)、「Commercial PoE Switch」(2025-06-20)、「16 Port Ethernet Switch」(2025-07-14) → 读者兴趣偏「工业」；与 P1 同类，继续",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
    "when": "不动",
-   "channel": "—",
-   "action": "—",
+   "channel": "A 邮箱",
+   "action": "来信时一次给 STI-244GP 资料",
    "one_question": ""
   },
   "facts": [
    {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "兴趣：1光8 ST；回复：商业交换机的price list",
-    "why": "表内备注",
-    "k": "用户表"
+    "date": "2025-03-18",
+    "dir": "去",
+    "who": "Alan（Quotation.pdf，Buyer TJ Computer / Peter Ponganan Ruenboon，EXW，Destination Thailand）",
+    "quote": "STI-288GP 2×SFP + 8×GE PoE af/at 240W 非管理 ×1 $60.00",
+    "why": "泰国 1 台样机报价（未付）；与 52 Networks 同款 $58 同期",
+    "k": "gmail_a att 2025-03-18"
+   },
+   {
+    "date": "2025-03-18",
+    "dir": "来",
+    "who": "พงษ์อนันต์（泰国）",
+    "quote": "interested（回 Alan 2025-03-18「8 Port Industrial PoE Switch」）",
+    "why": "一词回复「interested」——泰国小集成商的典型反应；A 邮箱之后有无跟进见 digest；可作 WhatsApp 线索",
+    "k": "gmail_a 2025-03-18 Re: 8 Port Industrial PoE Switch"
+   },
+   {
+    "date": "2025-05-14",
+    "dir": "来",
+    "who": "Peter（TJ Computer）",
+    "quote": "ราคาเท่าไหร่?（多少钱？）",
+    "why": "bypass 询价",
+    "k": "02da3feea2aac332"
+   },
+   {
+    "date": "2025-05-15",
+    "dir": "去",
+    "who": "Alan",
+    "quote": "300usd/pc STI-488XGGPM2B-2BT… 2 channels single fiber Bypass ports… L2+ managed, Marvell chip",
+    "why": "报价后停",
+    "k": "60215e5a3bb8a816"
    }
   ],
-  "proof_gaps": [
-   "无邮件往来",
-   "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
-  ],
+  "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-24"
  }

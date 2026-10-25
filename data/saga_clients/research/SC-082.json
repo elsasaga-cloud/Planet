@@ -1,0 +1,72 @@
+{
+ "code": "SC-082",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（techaya.com，快照 2026-10-21）",
+ "summary": "以色列 Techaya（军用加固以太网交换机 / 路由 / USB Hub / MC 设计制造商，面向陆海空军用平台；表内「工业 FS / MC，自己的 logo」；KP Udi Palgi）；群发 16 次无回复。",
+ "type": "军工制造商（军用加固以太网）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Military Rugged Ethernet Switches, Routers, USB HUBS and Media Converters | Techaya | Mili；品类词 工业自动化 / OT 网络 / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "Techaya is a leading designer, developer and manufacturer of rugged military ethernet communications solutions for military ground, air and naval applications. Our complete line of Military Ethernet switches, routers, USB hubs and media con",
+   "url": "https://www.techaya.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "工业FS FS MC这两类不太一样 自己的logo",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "军用加固以太网通信方案设计制造商",
+   "quote": "Techaya is a leading designer, developer and manufacturer of rugged military ethernet communications solutions for military ground, air and naval applications.",
+   "url": "https://www.techaya.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "工业 FS / MC，自己的 logo",
+   "quote": "工业FS FS MC这两类不太一样 自己的logo",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "守界：以色列军工制造商（军用加固以太网 Techaya）；c_sub=守界：军工",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "以色列",
+  "other": "官网 techaya.com，语言 ?，快照状态 ok；角色判定来源：用户表"
+ },
+ "business_lines": [
+  "军用加固以太网交换机 / 路由 / MC"
+ ],
+ "channels": {
+  "role": "军工制造商（军用加固以太网）",
+  "region": "以色列",
+  "contact": "udi@techaya.com、info@techaya.com"
+ },
+ "signals": [
+  "官网：rugged military ethernet communications solutions for military ground, air and naval applications；MIL-STD-810 / 1275 / 461"
+ ],
+ "risks": [
+  "守界：军用加固以太网制造商，应用为军事"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 25,
+  "why": "军用平台（MIL-STD）= 守界 → 改 C（与 SC-062 Milpower / SC-206 Enercon 同口径）"
+ },
+ "email_hook": "（不发送：军工守界）"
+}

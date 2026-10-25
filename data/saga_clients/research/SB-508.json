@@ -1,114 +1,122 @@
 {
  "code": "SB-508",
- "name_official": "Solus Tecnologia（巴西圣埃斯皮里图州）",
+ "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "在线（solustecnologia.com，快照 2026-10-21，葡语）",
- "summary": "巴西 ES 州 20+ 年电子安防集成商（CFTV、报警、门禁、自动化；住宅 / 企业 / 政府项目），Eduardo；需求 2 光 6 PoE 大壳；WA 6 次无实质回复。",
- "type": "",
+ "website_status": "在线（gotinc.co.kr，快照 2026-10-21）",
+ "summary": "韩国 GOT Inc.（官网快照为防机器人验证页；表内「自己的 logo，拿的 G-net 的；工业 FS PoE 海思的」「可以尝试多跟进一下」）；群发 22 次无回复。",
+ "type": "韩国网络品牌商（自有标，现 G-net 海思方案）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "G-net"
+ ],
  "evidence": [
   {
    "kind": "官网快照",
-   "claim": "20+ 年电子安防：CFTV、报警、门禁、自动化，服务住宅、企业与公共机构（ES 州）",
-   "quote": "Mais de 20 anos em segurança eletrônica: CFTV, alarme, controle de acesso e automação para residências, empresas e órgãos públicos no ES",
-   "url": "https://solustecnologia.com/",
+   "claim": "官网标题：gotinc.co.kr",
+   "quote": "ìëë±ë¡ë°©ì§ë¥¼ ìí´ ë³´ìì ì°¨ë¥¼ ê±°ì¹ê³ ììµëë¤.",
+   "url": "https://gotinc.co.kr/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "2 光 6 POE 大壳",
-   "quote": "兴趣：2光6POE大壳",
+   "claim": "表内兴趣/备注",
+   "quote": "自己的logo 拿的G-net的 工业FS POE 海思的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "自己的 logo；G-net 海思工业 PoE",
+   "quote": "自己的logo 拿的G-net的 工业FS POE 海思的；可以尝试多跟进一下",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
- "kp": [
-  {
-   "name": "Eduardo",
-   "title": "（表内联系人）",
-   "email": "eduardo@solustecnologia.com",
-   "phone": "+55 27 99874 0449",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
-  }
- ],
+ "kp": [],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照核对）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "legal_name": "Solus Tecnologia",
-  "founded": "约 2005（20+ 年）",
-  "hq": "Espírito Santo, Brazil",
-  "size": "中小型安防集成商",
-  "other": "政府项目（守界：按单核）"
+  "hq": "韩国",
+  "other": "官网 gotinc.co.kr，语言 ko，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "CFTV / 报警 / 门禁 / 自动化集成"
+  "工业 PoE 交换机（自有品牌，G-net 供货）"
  ],
  "channels": {
-  "role": "安防集成商",
-  "region": "巴西 ES 州"
+  "role": "韩国网络品牌商（自有标，现 G-net 海思方案）",
+  "region": "韩国",
+  "contact": "gotsales@gotinc.co.kr"
  },
  "signals": [
-  "明确口型 2 光 6 PoE（机架 / 大壳）"
+  "表内：自己的 logo 拿的 G-net 的 工业 FS PoE 海思的；可以尝试多跟进一下",
+  "快照：防机器人验证页"
  ],
  "risks": [
-  "巴西 ANATEL 认证与进口税",
-  "WA 无回复"
+  "现供 G-net（深圳）价格基准低；官网快照为验证页（待核）；非主攻区（T5，韩国）",
+  "22 次无回复，仅 gotsales@"
  ],
  "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 25,
-  "why": "2 光 6 PoE 大壳 ≈ 2 SFP + 8 PoE 机架 STC-28DGGPM（$84.1 @25%）；工业大壳版 STI-288GPM。"
+  "p1": "STI-288GPM",
+  "tier": 30,
+  "why": "现 G-net（深圳）海思方案工业 PoE 贴标 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%，Marvell 平台差异化）；商用 STC-28DGGPM（$87.4）"
  },
- "email_hook": "Eduardo, for the 2-fibre + 6-PoE rack unit — our closest is 2 SFP + 8 PoE L2+ managed (Marvell) at $84 EXW; is it for a government CFTV site (then I'll confirm what ANATEL paperwork you need)?",
+ "email_hook": "For the industrial PoE switches you sell under your own label, we can add a Marvell-platform tier (DIN-rail 8-PoE + 2 SFP managed, −40~75 °C) alongside your current HiSilicon-based line, in your packaging from small lots, CE/RoHS; KC by your side — which model do your customers reorder most?",
  "mail_review": {
   "binding": {
-   "level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：2光6POE大壳」；Elsa 箱：`to:solustecnologia.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(n)））",
-   "type": "—",
-   "sieve": "—（未入筛）",
-   "stop": "从未触达",
-   "revive": "不动（非主攻区；J5：有证据再动）；WhatsApp 已加 → 唤醒走 WhatsApp 一句话，不走邮件",
-   "lane": "巴西 非主攻",
-   "cadence": "不动",
-   "evidence": "gmail_digest：out 0；用户表：「兴趣：2光6POE大壳」；研究档 risks：巴西 ANATEL 认证与进口税"
+   "level": "读而不回（A/S 邮箱 34 封 2024→2026，其中 2 封被打开，0 回；收件 gotsales@gotinc.co.kr；被打开主题「Industrial PoE Switch、Marvell Industrial Alert System」；Elsa 箱：`to:gotinc.co.kr` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 34 / 来 0）（第 74 批(n)））",
+   "type": "韩国网络品牌商（自有标，现 G-net 海思方案）",
+   "sieve": "2（有人在读，无人回）",
+   "stop": "读而不回 = 内容未命中或没有当下需求",
+   "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
+   "lane": "KR 次级（点名）",
+   "cadence": "一封；回了再说",
+   "evidence": "gmail_digest：out 34，Opened 标签 2（Simon 群发追踪）；用户表：「自己的logo 拿的G-net的 工业FS POE 海思的」；研究档 risks：现供 G-net（深圳）价格基准低；官网快照为验证页（待核）；非主攻区（T5，韩国）"
   },
-  "situation": "巴西 ES 州 20+ 年电子安防集成商（CFTV、报警、门禁、自动化；住宅 / 企业 / 政府项目），Eduardo；需求 2 光 6 PoE 大壳；WA 6 次无实质回复。",
-  "need": "2 光 6 PoE 大壳 ≈ 2 SFP + 8 PoE 机架 STC-28DGGPM（$84.1 @25%）；工业大壳版 STI-288GPM。",
-  "breakpoint": "巴西 ANATEL 认证与进口税",
+  "situation": "韩国 GOT Inc.（官网快照为防机器人验证页；表内「自己的 logo，拿的 G-net 的；工业 FS PoE 海思的」「可以尝试多跟进一下」）；群发 22 次无回复。",
+  "need": "现 G-net（深圳）海思方案工业 PoE 贴标 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%，Marvell 平台差异化）；商用 STC-28DGGPM（$87.4）",
+  "breakpoint": "现供 G-net（深圳）价格基准低；官网快照为验证页（待核）；非主攻区（T5，韩国）",
   "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 25,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "2 光 6 PoE 大壳 ≈ 2 SFP + 8 PoE 机架 STC-28DGGPM（$84.1 @25%）；工业大壳版 STI-288GPM。",
+   "p1": "STI-288GPM",
+   "tier": 30,
+   "price": "首触锚价 STI-288GPM $85.5 EXW（主表档位（PDF 上限 $88；SA-016 2025-07 实报 $72 为分销量价）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-14 $65（10G media converter）、2024-12-25 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-08-26 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-06-17 $220（48 port managed switch）、2025-07-04 $300（48 Port PoE Managed Switch）、2025-10-09 $280（10G Enterprise SFP Switch）、2026-06-16 $16000（32 Port 400GB DC Switch）",
+   "why": "现 G-net（深圳）海思方案工业 PoE 贴标 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%，Marvell 平台差异化）；商用 STC-28DGGPM（$87.4）。已打开的主题（2/34 封有打开记录）：「90W PoE Managed Switch」(2025-07-24)、「32 Port 400GB DC Switch」(2026-06-16) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续｜已发资料（勿重发）：Saga Software Function List-release 7.(2025-04-15)、Product Link_2026Q2(2026-03-02)、Product Link_2026Q3(2026-07-08)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—",
-   "one_question": ""
+   "when": "2026-11",
+   "channel": "A 邮箱 → gotsales@gotinc.co.kr",
+   "action": "短信一问（email_hook）",
+   "one_question": "For the industrial PoE switches you sell under your own label, we can add a Marvell-platform tier (DIN-rail 8-PoE + 2 SFP managed, −40~75 °C) alongside your current HiSilicon-based line, in your packaging from small lots, CE/RoHS; KC by your side — which model do your customers reorder most? Reference: STI-288GPM at $85.5 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
+   {
+    "date": "2026-09-22",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Industrial PoE Switch、Marvell Industrial Alert System",
+    "why": "34 封 / 2 次打开 / 0 回｜首封 2024-06-17 → 末封 2026-09-22（34 去 / 0 来）",
+    "k": "gmail_digest"
+   },
    {
     "date": "2026-10-21",
     "dir": "用户表",
     "who": "Simon",
-    "quote": "兴趣：2光6POE大壳",
+    "quote": "自己的logo 拿的G-net的 工业FS POE 海思的",
     "why": "表内备注",
     "k": "用户表"
    }
   ],
-  "proof_gaps": [
-   "无邮件往来",
-   "用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
-  ],
-  "draft_en": null,
+  "proof_gaps": [],
+  "draft_en": {
+   "subject": "One question — Industrial PoE Switch",
+   "body": "Hello,\n\nWe have sent you a few mails on \"Industrial PoE Switch\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor the industrial PoE switches you sell under your own label, we can add a Marvell-platform tier (DIN-rail 8-PoE + 2 SFP managed, −40~75 °C) alongside your current HiSilicon-based line, in your packaging from small lots, CE/RoHS; KC by your side — which model do your customers reorder most?\n\nReference price: DIN-rail 8-PoE + 2 SFP L2 managed industrial switch, 240 W (STI-288GPM) $85.5 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+  },
   "as_of": "2026-10-24"
  }
 }

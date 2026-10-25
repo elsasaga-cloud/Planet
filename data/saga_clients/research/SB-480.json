@@ -2,130 +2,127 @@
  "code": "SB-480",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "在线（raskpreke.lt，快照 2026-10-21）",
- "summary": "立陶宛 Rask Prekę（raskpreke.lt：安防系统与电工产品网店——摄像机、传感器、报警主机；Ubiquiti（31）/ Hikvision / Dahua / Ajax，PoE 适配器/注入器与交换设备栏目；表内「有 Utepo 的」；表内国别「意大利」有误：.lt 域名 + 立陶宛语站点 → 立陶宛）；表内 1 次跟进无回复。",
- "type": "安防/电工网店（立陶宛，Utepo 在售）",
+ "website_status": "在线（hanyotele.com，快照 2026-10-21）",
+ "summary": "韩国 Hanyo Tele（hanyotele.com 快照 403；ec21 上架 PoE Media Converter 10/100；表内「MC 工业 FS 自己的 logo；多功能 VC 一些无源产品」；KP Nam Sang Jun(Mr.)；表内无邮箱）；表内未跟进。",
+ "type": "韩国 MC/工业 FS 品牌商（自有 logo）",
  "size": "",
- "brands_seen": [
-  "Ubiquiti",
-  "Hikvision",
-  "Ajax",
-  "Utepo",
-  "Dahua"
- ],
+ "brands_seen": [],
  "evidence": [
   {
    "kind": "官网快照",
-   "claim": "官网标题：Apsaugos sistemos - Elektros prekės - Rask Prekę；品类词 安防监控（CCTV / 门禁） / 无线 / WiFi / 网络交换 / PoE",
-   "quote": "Apsaugos įranga internetu – vaizdo stebėjimo kameros, judesio ir dūmų jutikliai, apsaugos centralės. Raskpreke.lt – saugūs namai nuo A iki Z!",
-   "url": "https://www.raskpreke.lt/",
+   "claim": "官网标题：403Error ¿äÃ»ÇÏ½Å ÆäÀÌÁö¿¡ Á¢±Ù ±ÇÇÑÀÌ ¾ø½À´Ï´Ù.",
+   "quote": "",
+   "url": "https://error.blueweb.co.kr/403.html",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
    "claim": "表内兴趣/备注",
-   "quote": "有Utepo的",
+   "quote": "MC 工业FS 自己的logo 多功能VC 一些无源产品；https://www.ec21.com/product-details/POE-Media-Converter-10-100--9424691.html",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "MC 工业 FS 自己的 logo",
+   "quote": "MC 工业FS 自己的logo 多功能VC 一些无源产品",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   },
   {
    "kind": "官网快照",
-   "claim": "Rask Prekę 网店（立陶宛语）",
-   "quote": "Apsaugos sistemos - Elektros prekės - Rask Prekę ; Apsaugos įranga internetu – vaizdo stebėjimo kameros … Raskpreke.lt – saugūs namai nuo A iki Z!",
-   "url": "https://www.raskpreke.lt/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "有 Utepo 的",
-   "quote": "有Utepo的",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "claim": "ec21 产品页",
+   "quote": "POE Media Converter 10/100",
+   "url": "https://www.ec21.com/product-details/POE-Media-Converter-10-100--9424691.html",
    "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Nam Sang Jun",
+   "title": "（职务待核）",
+   "email": "",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "意大利",
-  "other": "官网 raskpreke.lt，语言 lt-LT，快照状态 ok；角色判定来源：官网文案"
+  "hq": "韩国",
+  "other": "官网 hanyotele.com，语言 ?，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "安防系统 / 电工产品网店"
+  "MC / 工业 FS / 无源产品（自有品牌，韩国）"
  ],
  "channels": {
-  "role": "安防/电工网店（立陶宛，Utepo 在售）",
-  "region": "立陶宛",
-  "contact": "info@raskpreke.lt"
+  "role": "韩国 MC/工业 FS 品牌商（自有 logo）",
+  "region": "韩国",
+  "contact": "（表内无邮箱）"
  },
  "signals": [
-  "页面 /en/network-equipment-and-wifi-2/commutation-switching-equipment、/…/poe-adapters-injector…；kw ubiquiti 31 / poe 38 / nvr 30",
-  "官网：Apsaugos įranga internetu – vaizdo stebėjimo kameros, judesio ir dūmų jutikliai, apsaugos centralės. Raskpreke.lt"
+  "表内：MC 工业 FS 自己的 logo 多功能 VC 一些无源产品；备注 https://www.ec21.com/product-details/POE-Media-Converter-10-100--9424691.html；KP Nam Sang Jun(Mr.)；可以尝试多跟进一下",
+  "快照：hanyotele.com 403Error"
  ],
  "risks": [
-  "小国（立陶宛，非主动挖掘范围）：量小；国别已更正（表内误填意大利）",
-  "1 次跟进无回复，仅 info@"
+  "邮箱待补（表内无邮箱，官网 403）；非主攻区（T5，韩国）；无源产品 Saga 不供"
  ],
  "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 20,
-  "why": "在售 Utepo 商用 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）"
+  "p1": "STI-111GP",
+  "tier": 30,
+  "why": "自有 logo MC/工业 FS → 工业 PoE MC STI-111GP（$30.1 @30%）、工业千兆 MC STI-110GE（$24.3）、工业 8 GE + 2 SFP STI-280GE（$50.5）贴 Hanyo 标；无源产品 Saga 不供"
  },
- "email_hook": "Alongside the Utepo and Ubiquiti PoE switches in your network category, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port unmanaged PoE units from small lots, CE/RoHS, EXW USD — which size do your camera-kit buyers choose most?",
- "country_fix": "立陶宛",
+ "email_hook": "Mr. Nam, for the media converters and industrial switches sold under the Hanyo label, we can be a second ODM source (PoE/gigabit MCs, DIN-rail 5/8-GE + SFP, −40~75 °C, CE/RoHS; KC by your side) from small lots — which MC or switch SKU do you reorder most?",
  "mail_review": {
   "binding": {
-   "level": "未触达（A 邮箱 12 封 2025→2026，无记录打开，0 回；收件 info@raskpreke.lt；主题多为「10G Enterprise SFP Switch、Booster PoE Switch」；Elsa 箱：`to:raskpreke.lt` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 12 / 来 0）（第 74 批(k)））",
-   "type": "安防/电工网店（立陶宛，Utepo 在售）",
-   "sieve": "1（只收到群发）",
-   "stop": "只打通用邮箱，无记录打开",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "立陶宛（欧洲全域主攻）",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 12；用户表：「有Utepo的」；研究档 risks：小国（立陶宛，非主动挖掘范围）：量小；国别已更正（表内误填意大利）"
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「MC 工业FS 自己的logo 多功能VC 一些无源产品；https://www.ec21.com/product-de」；Elsa 箱：`to:hanyotele.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(n)））",
+   "type": "韩国 MC/工业 FS 品牌商（自有 logo）",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+   "lane": "KR 次级（点名）",
+   "cadence": "首封后看打开",
+   "evidence": "gmail_digest：out 0；用户表：「MC 工业FS 自己的logo 多功能VC 一些无源产品；https://www.ec21.com/product-details/POE-Media-Conv」；研究档 risks：邮箱待补（表内无邮箱，官网 403）；非主攻区（T5，韩国）；无源产品 Saga 不供"
   },
-  "situation": "立陶宛 Rask Prekę（raskpreke.lt：安防系统与电工产品网店——摄像机、传感器、报警主机；Ubiquiti（31）/ Hikvision / Dahua / Ajax，PoE 适配器/注入器与交换设备栏目；表内「有 Utepo 的」；表内国别「意大利」有误：.lt 域名 + 立陶宛语站点 → 立陶宛）；表内 1 次跟进无回复。",
-  "need": "在售 Utepo 商用 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）",
-  "breakpoint": "小国（立陶宛，非主动挖掘范围）：量小；国别已更正（表内误填意大利）",
+  "situation": "韩国 Hanyo Tele（hanyotele.com 快照 403；ec21 上架 PoE Media Converter 10/100；表内「MC 工业 FS 自己的 logo；多功能 VC 一些无源产品」；KP Nam Sang Jun(Mr.)；表内无邮箱）；表内未跟进。",
+  "need": "自有 logo MC/工业 FS → 工业 PoE MC STI-111GP（$30.1 @30%）、工业千兆 MC STI-110GE（$24.3）、工业 8 GE + 2 SFP STI-280GE（$50.5）贴 Hanyo 标；无源产品 Saga 不供",
+  "breakpoint": "邮箱待补（表内无邮箱，官网 403）；非主攻区（T5，韩国）；无源产品 Saga 不供",
   "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 20,
-   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-09-24 $280（10G Enterprise SFP Switch）",
-   "why": "在售 Utepo 商用 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）",
+   "p1": "STI-111GP",
+   "tier": 30,
+   "price": "首触锚价 STI-111GP $30.1 EXW（主表档位（无实报；PDF 上限 $36.3）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
+   "why": "自有 logo MC/工业 FS → 工业 PoE MC STI-111GP（$30.1 @30%）、工业千兆 MC STI-110GE（$24.3）、工业 8 GE + 2 SFP STI-280GE（$50.5）贴 Hanyo 标；无源产品 Saga 不供",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开",
-   "one_question": "Alongside the Utepo and Ubiquiti PoE switches in your network category, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port unmanaged PoE units from small lots, CE/RoHS, EXW USD — which size do your camera-kit buyers choose most?"
+   "when": "待 Simon 排期（首封）",
+   "channel": "A 邮箱 → 待找地址（Nam Sang Jun；hanyotele.com 官网 / EC21 页；库内无邮箱）",
+   "action": "首封：按 email_hook 一问（第 75 批(m) 2026-10-25：英文信稿已写 `draft_en`；库内无邮箱——官网/EC21 找到再发）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
+   "one_question": "Mr. Nam, for the media converters and industrial switches sold under the Hanyo label, we can be a second ODM source (PoE/gigabit MCs, DIN-rail 5/8-GE + SFP, −40~75 °C, CE/RoHS; KC by your side) from small lots — which MC or switch SKU do you reorder most? Reference: STI-111GP at $30.1 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
-   {
-    "date": "2026-10-07",
-    "dir": "去",
-    "who": "A 群发",
-    "quote": "10G Enterprise SFP Switch、Booster PoE Switch",
-    "why": "12 封 / 0 次打开 / 0 回｜首封 2025-09-24 → 末封 2026-10-07（12 去 / 0 来）",
-    "k": "gmail_digest"
-   },
    {
     "date": "2026-10-21",
     "dir": "用户表",
     "who": "Simon",
-    "quote": "有Utepo的",
+    "quote": "MC 工业FS 自己的logo 多功能VC 一些无源产品；https://www.ec21.com/product-details/POE-Media-Converter-10-100--9424691.html",
     "why": "表内备注",
     "k": "用户表"
    }
   ],
-  "proof_gaps": [],
-  "draft_en": null,
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": {
+   "subject": "Second ODM source for the Hanyo-label media converters and industrial switches",
+   "body": "Dear Mr. Nam,\n\nFor the media converters and industrial switches sold under the Hanyo label, we can be a second ODM source from small lots, DIN-rail, -40 to 75 C, CE/RoHS: Gigabit PoE+ media converter (1 x RJ45 PoE + 1 x SFP) - model STI-111GP - $30.1 USD EXW with your logo (MOQ 1, 15-day validity); Gigabit media converter - STI-110GE - $26.5; 8 x Gigabit + 2 x SFP industrial switch - STI-280GE - $46. Passive products we do not make; KC stays on your side.\n\nOne question: which MC or switch SKU do you reorder most?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+  },
   "as_of": "2026-10-24"
  }
 }

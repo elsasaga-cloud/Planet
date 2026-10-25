@@ -1,388 +1,234 @@
-# SB-131 katalita.lt · home · https://www.katalita.lt/ · fetched 2026-10-25T07:41:18Z · HTTP 200
-Nauji produktai - Katalita.lt
-0
-Turite klausimų? Tel: +370 603 03213 ,
-El. paštas: [email protected]
-Ieškoti
-Prisijungti |
-Registruotis
-Krepšelis 0.00€
-Mikrotik
-Ethernet maršrutizatoriai (Routers)
-Komutatoriai (Switches)
-Bevielis tinklas namams ir biurui
-Bevielio ryšio sistemos
-LTE produktai
-Tinklo įranga elektros laidais
-IoTproduktai
-Maršrutizatoriaus plokštės
-Maršrutizatoriaus korpusai / dėžutės
-Sąsajos
-Bevielio ryšio antenos
-Atributika
-Priedai
-Ubiquiti
-UniFi
-UniFi Bevielis ryšys
-UniFi Maršrutizavimas ir komutavimas
-UniFi SmartPower naujiena
-UniFi Vaizdo stebėjimo įranga
-UniFi Kameros
-Vaizdo stebėjimo įrangos priedai
-AmpliFi
-Viso namo WiFi sistemos
-UniFi Praėjimo kontrolės sistema
-UniFi VoIP naujiena
-LTU
-LTU Bevielio ryšio įranga
-airMAX
-airMAX Bevielio ryšio įranga (CPE)
-airMAX Priedai
-airMAX Antenos
-airMAX Bridžai (Bridges)
-airMAX Prieigos taškai
-UFiber
-UFiber Optiniai OLT/ONT/ONU įrenginiai
-UFiber Moduliai ir kabeliai
-airFiber
-airFiber Bevielio ryšio įranga (Radios)
-airFiber Bevielio ryšio antenos
-airFiber Priedai
-EdgeMAX "Carrier" maršrutizavimas
-EdgeMax komutavimas
-EdgeMax maršrutizavimas
-EdgePower
-EdgeMax priedai
-Wave naujiena
-Ubiquiti Priedai
-Kabeliai ir jungtys
-PoE adapteriai ir konverteriai
-Nevaldomi komutatoriai
-Kiti
-Valdymas ir automatizavimas
-TP-Link
-Verslui
-Omada bevieliai sprendimai verslui
-SafeStream komutatoriai
-JetStream komutatoriai
-Pharos belaidis plačiajuostis ryšys
-Auranet WiFi verslui
-LiteWave komutatoriai
-VIGI vaizdo stebėjimas naujiena
-Priedai
-Namams
-Viso namo WiFi sistemos
-SOHO komutatoriai
-Išmanūs namai
-Maršrutizatoriai
-Tinklo plėtra
-PCI Express adapteriai
-Modemai ir šliuzai (Gateways)
-Mobilus WiFi
-Adapteriai
-Priedai
-Mimosa
-Taškas - taškas (PTP)
-Taškas - daug taškų (PTMP)
-Priedai ir antenos
-Jirous
-10/11 Ghz Antenos
-5 GHz Sektorinės antenos
-5/6 GHz parabolinės antenos
-Priedai
-Teltonika
-Maršrutizatoriai
-Mobilusis ryšys
-Ethernet ir belaidis ryšys
-Objektų padėties ir būklės stebėjimas
-Modemai
-Šliuzai (Gateways)
-Komutatoriai naujiena
-Belaidės prieigos taškai naujiena
-Antenos ir priedai
-Trečių šalių sprendimai TELTONIKA produktams (QuWireless)
-QuMax
-QuSpot
-QuPanel naujiena
-QuOmni naujiena
-Accessories naujiena
-IMOU
-Vaizdo stebėjimo kameros
-NVR vaizdo įrašymo įrenginiai
-Namų apsauga naujiena
-Priedai
-Netonix
-Komutatoriai
-Priedai
-ALFA Network
-CampPro Serija
-4G/LTE
-Vidaus WiFi
-Lauko WiFi
-Bevielio ryšio antenos
-PoE įrenginiai naujiena
-Priedai
-ASUS
-Maršrutizatoriai
-USB Adapteriai
-PCI tinklo plokštės
-Ryšio stiprinimas
-Extralink
-Optiniai tinklai
-Jungtys / adapteriai
-Optiniai "Patch Cords" kabeliai
-Optiniai kabeliai
-Sujungimo kabeliai (Pigtails)
-SFP/SFP+ Moduliai
-Šakotuvai (Splitters / Couplers)
-Užbaigimo ir paskirstymo dėžės
-Komutacinės spintos ir priedai
-WiFi sistemos & maršrutizatoriai
-Komutatoriai
-LAN kabeliai ir jungtys
-Energijos šaltiniai
-Kilnojamos energijos stotelės
-Įtampos keitikliai ir rezerviniai energijos šaltiniai
-Akumuliatoriai ir baterijos
-Maitinimo šaltiniai ir įkrovikliai
-Priedai
-Kiti priedai
-Kiti gamintojai
-ZTE Corporation
-SanDisk
-HUAWEI
-ISKRA
-ITELITE
-MERCUSYS
-RF Elements
-QuWireless
-NITECORE
-Aqara
-Kiti produktai
-Kategorijos
-Gamintojai
-IŠPARDUODAMOS PREKĖS !!!
-PoE komutatoriai
-ALFA Network Produktai
-AQARA Išmaniems namams
-NAUJIENA
-ASUS Bevielio Tinklo Produktai
-EZVIZ Produktai
-NAUJIENA
-IMOU Išmaniems namams
-Apsaugos kameros
-Valdymo ir kontrolės įranga
-NAUJIENA
-HUAWEI LTE Produktai
-Optinių tinklų įranga
-SFP/SFP+ Moduliai
-PON Įranga (GPON/EPON)
-Optiniai kabeliai
-Jungiamieji kabeliai (Pigtail)
-Optiniai kabeliai (Patch Cords)
-Optiniai dalikliai
-Optinio paskirstimo dėžės
-Optiniai sujungimai ir adapteriai
-Komutacinės spintos ir jų priedai
-Kiti priedai
-NETONIX Produktai - Valdomi POE komutatoriai ir jų priedai
-TELTONIKA GSM 3G 4G LTE WIFI Maršrutizatoriai, Komutatoriai, Objektų monitoringo įranga
-GSM 3G 4G LTE WIFI Maršrutizatoriai, objektų monitoringo įranga
-QuWireless antenos Teltonikos maršrutizatoriams
-MIKROTIK Produktai (RouterBOARD plokštės, Wifi integruoti sprendimai, maršrutizatoriai, korpusai)
-UBIQUITI NETWORKS Produktai
-UBIQUITI NETWORKS mFi Produktai
-MIMOSA Produktai
-Vidaus Sąlygų 2,4Ghz/5Ghz/3G/4G/LTE Wifi Maršrutizatoriai (WiFi Routers)
-3G 4G LTE produktai (maršrutizatoriai, modemai, antenos ir kt.)
-WiFi bevieliai moduliukai / plokštės (miniPCI, PCI)
-2.4Ghz (802.11b/g/n) Antenos
-5Ghz (802.11a/n) Antenos
-10/11Ghz Antenos
-MERCUSYS Produktai
-TP-LINK Tinklo šakotuvai
-PoE Tinklo šakotuvai
-Nevaldomi tinklo šakotuvai
-Valdomi tinklo šakotuvai
-TP-LINK Bevielio Tinklo Produktai
-TP-LINK Laidiniai Maršrutizatoriai, Print Serveriai (Wired routers, Print servers)
-TP-LINK VIGI Stebėjimo sistemos
-TP-LINK Powerline produktai (duomenų perdavimas el. tinklu)
-TP-LINK Optikos produktai (Fiber Optics)
-TP-Link USB šakotuvai ir adapteriai
-EXTRALINK Tinklo šakotuvai
-UBIQUITI Networks IP Vaizdo Stebėjimo Kameros
-SANDISK Atminties kortelės
-NITECORE Produktai
-Žibintuvėliai
-Elementų krovikliai
-Elementai
-Priedai
-Maitinimo šaltiniai, POE komponentai
-Lauko ir vidaus dėžutės įrangai
-Jungiamieji kabeliai - Perėjimai (Pigtail)
-Jungtys
-LAN Tinklo Kabeliai, Jungtys
-Tvirtinimo Elementai, Žaibo apsaugos
-Mikrotik
-Ubiquiti Networks
-TP-LINK
-TELTONIKA NETWORKS, UAB
-Wireless Instruments / QuWireless
-LigoWave
-Xiaomi
-Itelite
-Mimosa Networks, Inc.
-Extralink
-Netonix
-Jirous
-RF elements
-Iskra
-Netis systems
-Imou
-ASUSTeK COMPUTER INC.
-ZTE Corporation
-Dahua
-Cambium Networks, Ltd.
-EZVIZ
-MERCUSYS Technologies Co., Ltd
-NITECORE
-Others
-SAMSUNG
-SanDisk by Western Digital
-TELTONIKA ENERGY, UAB
-TELTONIKA TELEMATICS, UAB
-Kategorijos
-Gamintojai
-IŠPARDUODAMOS PREKĖS !!!
-PoE komutatoriai
-ALFA Network Produktai
-AQARA Išmaniems namams
-NAUJIENA
-ASUS Bevielio Tinklo Produktai
-EZVIZ Produktai
-NAUJIENA
-IMOU Išmaniems namams
-Apsaugos kameros
-Valdymo ir kontrolės įranga
-NAUJIENA
-HUAWEI LTE Produktai
-Optinių tinklų įranga
-SFP/SFP+ Moduliai
-PON Įranga (GPON/EPON)
-Optiniai kabeliai
-Jungiamieji kabeliai (Pigtail)
-Optiniai kabeliai (Patch Cords)
-Optiniai dalikliai
-Optinio paskirstimo dėžės
-Optiniai sujungimai ir adapteriai
-Komutacinės spintos ir jų priedai
-Kiti priedai
-NETONIX Produktai - Valdomi POE komutatoriai ir jų priedai
-TELTONIKA GSM 3G 4G LTE WIFI Maršrutizatoriai, Komutatoriai, Objektų monitoringo įranga
-GSM 3G 4G LTE WIFI Maršrutizatoriai, objektų monitoringo įranga
-QuWireless antenos Teltonikos maršrutizatoriams
-MIKROTIK Produktai (RouterBOARD plokštės, Wifi integruoti sprendimai, maršrutizatoriai, korpusai)
-UBIQUITI NETWORKS Produktai
-UBIQUITI NETWORKS mFi Produktai
-MIMOSA Produktai
-Vidaus Sąlygų 2,4Ghz/5Ghz/3G/4G/LTE Wifi Maršrutizatoriai (WiFi Routers)
-3G 4G LTE produktai (maršrutizatoriai, modemai, antenos ir kt.)
-WiFi bevieliai moduliukai / plokštės (miniPCI, PCI)
-2.4Ghz (802.11b/g/n) Antenos
-5Ghz (802.11a/n) Antenos
-10/11Ghz Antenos
-MERCUSYS Produktai
-TP-LINK Tinklo šakotuvai
-PoE Tinklo šakotuvai
-Nevaldomi tinklo šakotuvai
-Valdomi tinklo šakotuvai
-TP-LINK Bevielio Tinklo Produktai
-TP-LINK Laidiniai Maršrutizatoriai, Print Serveriai (Wired routers, Print servers)
-TP-LINK VIGI Stebėjimo sistemos
-TP-LINK Powerline produktai (duomenų perdavimas el. tinklu)
-TP-LINK Optikos produktai (Fiber Optics)
-TP-Link USB šakotuvai ir adapteriai
-EXTRALINK Tinklo šakotuvai
-UBIQUITI Networks IP Vaizdo Stebėjimo Kameros
-SANDISK Atminties kortelės
-NITECORE Produktai
-Žibintuvėliai
-Elementų krovikliai
-Elementai
-Priedai
-Maitinimo šaltiniai, POE komponentai
-Lauko ir vidaus dėžutės įrangai
-Jungiamieji kabeliai - Perėjimai (Pigtail)
-Jungtys
-LAN Tinklo Kabeliai, Jungtys
-Tvirtinimo Elementai, Žaibo apsaugos
-Mikrotik
-Ubiquiti Networks
-TP-LINK
-TELTONIKA NETWORKS, UAB
-Wireless Instruments / QuWireless
-LigoWave
-Xiaomi
-Itelite
-Mimosa Networks, Inc.
-Extralink
-Netonix
-Jirous
-RF elements
-Iskra
-Netis systems
-Imou
-ASUSTeK COMPUTER INC.
-ZTE Corporation
-Dahua
-Cambium Networks, Ltd.
-EZVIZ
-MERCUSYS Technologies Co., Ltd
-NITECORE
-Others
-SAMSUNG
-SanDisk by Western Digital
-TELTONIKA ENERGY, UAB
-TELTONIKA TELEMATICS, UAB
-Your browser does not support the video tag.
-Nauji produktai
-2026-10-19
-MIKROTIK IoT Gateway KNOT LR8 (L14G-2ax-BT5-LR8&EG800K)
-LoRa® 868MHz | CAT1 bis LTE modem | nanoSIM/eSIM | Wi-Fi 6 2.4 GHz wireless (802.11b/g/n/ax) | Bluetooth (V5.1) | Gigabit Ethernet | PoE-In (af/at) & surge protection | Multi- GNSS GPS | IP66 | Router OS (Licence level 4)
-2026-10-16
-AQARA Smart Home Panel Hub S1 Plus (Desktop Version) (MP-K05D)
-Wireless Protocols: Zigbee 3.0, Bluetooth | Wi-Fi IEEE 802.11 a/b/g/n/ac 2.4/5 GHz | Touch Screen Resolution: 1440 x 720 | Up to 60 devices | USB-C powering (5V 2A) | Built-in Speaker | Matter Compatible
-2026-10-09
-UBIQUITI Indoor/outdoor, 2x2 MU-MIMO, 2.4/5 GHz, WiFi 7 Access Point WiFi 7 Mesh (U7-Mesh)
-Aggregated wireless data transfer speed up to 5 Gbps | 2.4/5 GHz | Standards 802.11a/b/g/n/ac/ax/be is supported | MU-MIMO 2×2 | PoE 802.3af supported | IPX6-rated | WiFi 7
-2026-09-25
-UBIQUITI UniFi Protect G6 Mini Dome Camera, Black (UVC-G6-Mini-Dome-B)
-4K (8MP) Ultra HD Resolution (3840 x 2160, 30 FPS) | H.264 | Up to 20 m (65 ft) IR night vision | AI event detections (Multi-TOPS AI Engine) | Two-way audio | IK08 | Wall/Ceiling Mount | 802.3af/802.3at support (PoE adapter not included)
-2026-09-25
-UBIQUITI UniFi Protect G6 Mini Dome Camera, White (UVC-G6-Mini-Dome-W)
-4K (8MP) Ultra HD Resolution (3840 x 2160, 30 FPS) | H.264 | Up to 20 m (65 ft) IR night vision | AI event detections (Multi-TOPS AI Engine) | Two-way audio | IK08 | Wall/Ceiling Mount | 802.3af/802.3at support (PoE adapter not included)
-2026-09-25
-UBIQUITI UniFi Protect G6 Pro Dome Camera, Black (UVC-G6-Pro-Dome-B)
-4K (8MP) Ultra HD Resolution (3840 x 2160, 30 FPS) | 2.36x Optical Zoom (F 5.9-13.8 mm, ƒ/1.5 to ƒ/2.9) | H.264 | Up to 40 m (131 ft) IR night vision | AI event detections | Microphone | IP66/IK10 | Wall/Ceiling Mount | 802.3af/802.3at support (PoE adapter not included)
-2026-09-25
-UBIQUITI UniFi Protect G6 Pro Dome Camera, White (UVC-G6-Pro-Dome-W)
-4K (8MP) Ultra HD Resolution (3840 x 2160, 30 FPS) | 2.36x Optical Zoom (F 5.9-13.8 mm, ƒ/1.5 to ƒ/2.9) | H.264 | Up to 40 m (131 ft) IR night vision | AI event detections | Microphone | IP66/IK10 | Wall/Ceiling Mount | 802.3af/802.3at support (PoE adapter not included)
-2026-09-22
-TP-LINK Omada 4G+ Cat6 AX3000 Wi-Fi 6 Vidau/Lauko Sąlygų Šliuzas (ER703WP-4G-Outdoor)
-4G+ Cat6 iki 300 Mbps | 1x nano SIM kortelės lizdas | 3x gigabitinės RJ45 LAN/WAN jungtys (2 × PoE Out, 1 × PoE In) | AX3000 Wi-Fi 6 su 2402 Mbps per 5 GHz ir 574 Mbps per 2.4 GHz | 802.3at/bt PoE arba 12V/2A DC maitinimas | WPA3 | IP55 pritaikytas lauko sąlygom
-2026-09-18
-UBIQUITI Dream Router 5G Max (UDR-5G-Max)
-Default WAN ports: 1x 10G SFP+ port, 1x 2.5 Gigabits RJ45 port | LAN ports: 1x 10G SFP+ port, 4x 2.5 Gigabits RJ45 ports (1x PoE out) | 1x MicroSD Card | Dual SIM/eSIM | High-performance 5G (3.4 Gbps) Modem | 802.11a/b/g/n/ac/ax/be (WiFi 6/6E, WiFi 7) | WPA3 | 4.7" touchscreen
-2026-09-17
-TP-LINK Omada Dual-Band Directional/Omnidirectional BE5000 4-Stream Outdoor Wi-Fi 7 Access Point (EAP725-OUTDOOR)
-1x 2.5 Gigabits LAN port (supports IEEE802.3at) | Omnidirectional Antennas: 2.4 GHz: 2× 4.5 dBi, 5 GHz: 2× 5.3 dBi, Directional Antennas: 2.4 GHz: 2× 8.3 dBi, 5 GHz: 2× 13.2 dBi | Wireless Standards: IEEE 802.11be/ax/ac/n/g/b/a (Wi-Fi 7) | Simultaneous 688 Mbps on 2.4GHz, 4324 Mbps on 5GHz Speeds | Recommended True Dual-Band Omnidirectional Coverage: 300m2 (3,200ft2), Directional Coverage: 510m2 (5,500ft2) | Free Omada App, Centralized Management, Cloud Access
-2026-09-09
-MIKROTIK 802.3af/at PoE to 24V Passive PoE Converter (GPOE-CON-mini)
-2x 2.5 Gigabits RJ45 ports | Max total output: 0.635A | Fits inside the GPeR-IP67-Case
-2026-09-02
-UBIQUITI UniFi Vape Detection & Air Quality Sensor (UP-AirQuality)
-PoE-powered sensor delivering real-time vape detection, air quality monitoring, and instant alerts for schools, workplaces, hospitality, and commercial environments
-2026-08-28
-AQARA Camera Hub G350 (CH-C14D)
-4K (3840x2160) Ultra HD Dual-Lens | 9X Hybrid Zoom | 133° Wide-angle lens (diagonal) | Wi-Fi IEEE 802.11b/g/n/a/ac/ax 2.4/
+# SB-131 DE secure · home · https://desecuretechnology.com/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+Desecure Technology
+İçeriğe geç
+ALARM İZLEME MERKEZİ // 7/24 İZLEME // VİDEO DOĞRULAMA
+RİSKLERİ OLUŞMADAN YÖNETİYORUZ
+Teklif Al Çözümleri İncele
+İçeriğe geç ↓ Ekosistemi keşfet →
+RİSKLERİ OLUŞMADAN YÖNETİYORUZ
+ALARM İZLEME MERKEZİ // 7/24 İZLEME // VİDEO DOĞRULAMA
+Teklif Al Çözümleri İncele
+20+ yıl saha deneyimi · 7/24 Alarm İzleme Merkezi
+444 76 49
+Çözümler AI Güvenlik Teknolojileri Görüntüyü güvenlik operasyonuna dönüştüren analiz
+Video Gözetim ve Akıllı Kamera Her saha için doğru kamera, doğru senaryo
+Çevre Güvenliği 3D LiDAR, entegre radar ve termal kamera
+Yangın Algılama ve Erken Uyarı Sıcaklık artışını alev oluşmadan görmek
+IoT ve Entegrasyon Sensörler, BESS ve çok lokasyon
+Tüm çözümler ->
+Hizmetler Alarm İzleme Merkezi 7/24 · 5188 7/24 doğrulama, müdahale ve raporlama
+Uzaktan Video İzleme Bağlantı, kayıt, VMS ve çok lokasyon altyapısı
+Tüm hizmetler ->
+Proaktif Teknolojiler Mobil Güvenlik Sistemleri MİK, MAS, MİD ve MİA; altyapısız sahalar
+Canlı İletişim Sahayla görüntülü ve çift yönlü sesli iletişim
+Tüm proaktif teknolojiler ->
+Sektörler Enerji ve Yenilenebilir SEKTÖREL ODAK RES, GES, BESS ve hibrit santraller
+Üretim ve Fabrika Çevre hattı, giriş kontrol, İSG ve yangın riski
+Sanayi ve OSB Çok tesisli bölgelerde ortak prosedür
+Lojistik ve Depolama Araç giriş çıkışı, yükleme alanı, açık saha
+Maden ve Saha Geniş açık saha, uzun çevre hattı, uzak lokasyon
+Havalimanı ve Liman Terminal alanları, araç ve ekipman takibi
+İnşaat ve Şantiye Altyapısız sahada mobil izleme birimleri
+Tüm sektörler ->
+Kurumsal Hakkımızda Kim olduğumuz, grup yapısı ve operasyon ağı
+Neden Desecure Saha deneyimi, 7/24 izleme ve kurulum sonrası destek
+Yaklaşımımız Olay olmadan önce yöneten proaktif model
+İletişim
+Kaynaklar Blog Teknik yazılar ve saha rehberleri
+Sıkça Sorulan Sorular Kaynaklı kısa cevaplar
+444 76 49 Teklif Al Menü Kapat Çözümler + Tüm çözümler ->
+AI Güvenlik Teknolojileri
+Video Gözetim ve Akıllı Kamera
+Çevre Güvenliği
+Yangın Algılama ve Erken Uyarı
+IoT ve Entegrasyon
+Hizmetler + Tüm hizmetler ->
+Alarm İzleme Merkezi
+Uzaktan Video İzleme
+Proaktif Teknolojiler + Tüm proaktif teknolojiler ->
+Mobil Güvenlik Sistemleri
+Canlı İletişim
+Sektörler + Tüm sektörler ->
+Enerji ve Yenilenebilir
+Üretim ve Fabrika
+Sanayi ve OSB
+Lojistik ve Depolama
+Maden ve Saha
+Havalimanı ve Liman
+İnşaat ve Şantiye
+Kurumsal + Kurumsal ->
+Hakkımızda
+Neden Desecure
+Yaklaşımımız
+İletişim
+Kaynaklar + Kaynaklar ->
+Blog
+Sıkça Sorulan Sorular
+20+ yıl saha deneyimi · 7/24 Alarm İzleme Merkezi
+Kurumsal Kanıt Sayıları
+20+ yıl saha güvenliği deneyimi
+317+ kurumsal müşteri
+7/24 kesintisiz izleme
+1.400+ personel
+9 lokasyon
+5188 sayılı kanun kapsamında lisanslı alarm izleme merkezi
+TANITIM FİLMİ ·
+Desecure Technology tanıtım filmi
+Alarm İzleme Merkezi, çevre hattı, mobil sistemler ve saha ekipleri, Desecure'un kendi çekimlerinde.
+Desecure Technology tanıtım filmi
+ALARM İZLEME MERKEZİ SAHA MOBİL SİSTEMLER
+Konumlandırma
+Ana konumlandırma
+Desecure Technology, kritik tesislerin güvenlik ihtiyaçlarını teknoloji, mühendislik ve 7/24 Alarm İzleme Merkezi operasyonuyla yöneten bir güvenlik teknolojileri şirketidir. Sahaya özel güvenlik mimarileri tasarlar, sistemleri entegre eder, uzaktan izler ve sürdürülebilirliğini sağlar.
+0 1 Yerli teknoloji
+Mobil İzleme Kulesi'nden Desecure Vision'a kadar saha bileşenlerini kendimiz tasarlıyoruz. Hepsi Alarm İzleme Merkezi'ne bağlanır ve aynı merkezden izlenir.
+0 2 Güçlü operasyon
+İçişleri Bakanlığı ruhsatlı Alarm İzleme Merkezi gelen her alarmı canlı görüntüyle doğrular, sahaya canlı sesli anons yapar ve müdahale sürecini 7/24 yönetir.
+0 3 Proaktif güvenlik
+Geleneksel sistemler olay olduktan sonra kayıt sunar; Desecure modeli tehdidi olay gerçekleşmeden tespit eder, teyit eder, müdahale eder ve raporlar.
+Hibrit model nasıl çalışır
+Proaktif güvenlik döngüsü, yapay zeka analizini Alarm İzleme Merkezi operatörünün teyidi ve canlı müdahaleyle birleştiren dört adımlı bir süreçtir.
+01
+Tespit Et
+Yapay zeka analizi
+Tespit Et adımında yapay zeka destekli kameralar insan, araç, alan ihlali veya şüpheli davranışı algılar ve alarmı saniyeler içinde Alarm İzleme Merkezi'ne iletir.
+02
+Teyit Et
+Canlı görüntü + operatör
+Teyit Et adımında Alarm İzleme Merkezi operatörü, işaretlenen olayı canlı görüntü üzerinden inceleyerek gerçek tehdidi yanlış alarmdan ayırır.
+03
+Müdahale Et
+Canlı sesli anons + koordinasyon
+Müdahale Et adımında operatör IP hoparlör, siren veya interkom üzerinden sahaya canlı sesli anons yapar; tehdit olay gerçekleşmeden sahadan uzaklaştırılır ve gerektiğinde kolluk kuvvetleriyle koordinasyon yürütülür.
+04
+Raporla
+Zaman damgası + olay kaydı
+Raporla adımında olayın tüm akışı zaman damgası, görüntü kaydı ve olay raporuyla kayıt altına alınır ve müşteriye sunulur.
+Desecure Grubu
+Teknoloji ve saha operasyonu tek çatıda
+Desecure grubunda güvenlik teknolojisinden Desecure Technology, sahadaki güvenlik operasyonundan Desecure Özel Güvenlik sorumludur.
+Sistem sürekliliği
+Desecure Technology
+Kamera, termal kamera, LiDAR, radar ve IoT sensörlerini tesise göre tasarlar ve kurar. Yapay zeka destekli video analizi ve alarm izlemeyi 7/24 işletir.
+Operasyon sürekliliği
+Desecure Özel Güvenlik
+Sahadaki özel güvenlik operasyonunu yürütür.
+desecure.com.tr ->
+Çok katmanlı sınır güvenliği
+Çevre güvenliği ->
+Desecure Technology, enerji santralleri ve geniş sahalarda sınır güvenliğini algılama, sınıflandırma, görüntülü doğrulama, sesli müdahale ve Alarm İzleme Merkezi operasyonunun birlikte çalıştığı çok katmanlı bir yapı olarak kurar.
+Kilometrelerce uzanan bir çevre hattında yalnızca kamerayla izleme yeterli olmayabilir. Radar, LiDAR, termal görüntüleme ve yapay zeka destekli video analizi standart bir paket olarak değil, sahanın risk profiline göre seçilir; iki farklı enerji santralinde bile çözüm her sahanın kendi riskine göre tasarlanır.
+ÇEVRE HATTI // SAHA
+Katman 01 Algılama
+Radar, LiDAR, termal görüntüleme, yapay zeka destekli video analizi ve uzun menzilli algılama, çevre hattındaki insan veya araç hareketini erken aşamada yakalar.
+Katman 02 Sınıflandırma
+Algılanan hareket insan ve araç olarak sınıflandırılır; yanlış alarmlar gerçek risklerden ayrıştırılır.
+Katman 03 Görüntülü doğrulama
+Alarm İzleme Merkezi operatörü olayı canlı görüntü üzerinden inceler ve gerçek riski doğrular.
+Katman 04 Sesli müdahale
+Operatör sahaya canlı sesli anons yapar; doğrulanan riske olay gerçekleşirken müdahale edilir.
+Katman 05 Merkez operasyonu ve raporlama
+Alarm İzleme Merkezi süreci 7/24 yönetir, gerektiğinde ilgili ekipleri harekete geçirir ve olayın tüm akışını raporlar.
+Çok katmanlı yapı, güvenliği olay sonrasındaki kayıttan çıkarır ve olay anında yönetilir hale getirir.
+Çözümler
+Tüm çözümler ->
+Desecure Technology bu beş çözümü tek başına ya da birlikte kurar; hangisinin kurulacağını tesisin riski belirler.
+01 AI Güvenlik Teknolojileri
+Kamera görüntüsünde insanı, aracı, şüpheli davranışı ve yasak alana girişi algılar; alarmı Alarm İzleme Merkezi'ne gönderir.
+-> İncele
+02 Video Gözetim ve Akıllı Kamera
+Çevre hattında termal ve PTZ, giriş noktasında bullet ya da dome kamera kullanılır; kamera tipini sahanın koşulu belirler.
+-> İncele
+03 Çevre Güvenliği
+360° 3D LiDAR ve radar, çevre hattına yaklaşan insanı ve aracı aydınlatma gerekmeden algılar.
+-> İncele
+04 Yangın Algılama ve Erken Uyarı
+Termal kamera yüzeydeki ısınmayı duman ya da alev çıkmadan fark edebilir; termal veri Alarm İzleme Merkezi'nde doğrulanır.
+-> İncele
+05 IoT ve Entegrasyon
+Ekipman, sıcaklık ve ortam sensörlerini Alarm İzleme Merkezi'ne bağlar; batarya enerji depolama sahaları da buna dahildir.
+-> İncele
+Altyapısız sahalar için mobil birimler
+Mobil güvenlik sistemleri ->
+Desecure Technology'nin mobil güvenlik birimleri, elektrik ve internet altyapısı bulunmayan alanlarda kurulan taşınabilir güvenlik birimleridir. Şantiye, enerji sahası ve geçici operasyonlarda altyapı beklemeden çalışır ve 7/24 Alarm İzleme Merkezi'ne bağlanır.
+MİK // 3B
+/ 01 MİK , Mobil İzleme Kulesi
+Orta ve büyük ölçekli işletmeler için elektriksiz ve internetsiz çalışan taşınabilir güvenlik kulesi.
+MAS // 3B
+/ 02 MAS , Mobil Alarm Standı
+Elektrik veya internet gerektirmeden çalışan, sahada düzenli raporlama yapan alarm standı.
+MİD // 3B
+/ 03 MİD , Mobil İzleme Direği
+Küçük ve orta ölçekli projeler için teleskopik yapılı, hızlı kurulumlu izleme direği.
+MİA // 3B
+/ 04 MİA , Mobil İzleme Aracı
+Sahada hızlı hareket edebilen, altyapıdan bağımsız çalışan römork tabanlı izleme aracı.
+7/24 İZLEME İÇİŞLERİ BAKANLIĞI RUHSATLI CANLI ANONS
+Alarm İzleme Merkezi
+İçişleri Bakanlığı ruhsatlı Alarm İzleme Merkezi, tesislerden gelen alarm, görüntü ve sensör olaylarını 7/24 izler; her alarmı canlı görüntüyle doğrular, sahaya canlı sesli anons yapar ve müdahale koordinasyonunu yürütür.
+-> uzaktan video izleme
+Alarm İzleme Merkezi
+MERKEZ // İZLENİYOR 7/24
+Sektörler
+Tüm sektörler ->
+Korunacak alan sektöre göre değişir: fabrikada yükleme rampası, limanda konteyner sahası, santralde şalt alanı. Keşif ekibi kamerayı ve sensörü bu alanın riskine göre seçer. Öncelikli sektörümüz enerji ve yenilenebilir tesislerdir.
+Sektörel odak
+Enerji ve Yenilenebilir
+RES, GES, enerji depolama ve şalt sahalarında çevre hattını, ekipmanı ve sıcaklığı Alarm İzleme Merkezi izler, ihlalde müdahaleyi başlatır. Güvenliğini sağladığımız enerji santralleri 2024 yılında yaklaşık 338,6 milyon kWh elektrik üretti.
+->
+Üretim ve Fabrika
+->
+Sanayi ve OSB
+->
+Lojistik ve Depolama
+->
+Maden ve Saha
+->
+Havalimanı ve Liman
+->
+İnşaat ve Şantiye
+->
+Güven ve Yetkinlik
+Alarm İzleme Merkezi, tesislerden gelen alarmı ve kamera görüntüsünü aşağıdaki ruhsat ve KVKK yetkisiyle izler ve kaydeder.
+Alarm İzleme Merkezi, İçişleri Bakanlığı tarafından ruhsatlandırılarak yetkilendirilmiştir; müdahale süreci 5188 sayılı Özel Güvenlik Hizmetlerine Dair Kanun kapsamında yürütülür.
+-> İÇİŞLERİ BAKANLIĞI RUHSATI
+Alarm İzleme Merkezi, KVKK mevzuatına göre görüntü izleme, işleme ve saklama yetkilerine sahiptir.
+-> KVKK YETKİSİ
+Teklif için önce tesisinizi yerinde inceliyoruz
+Teklif Al ->
+Çözümleri Keşfet ->
+Site haritası ve künye
+Çözümler
+AI Güvenlik Teknolojileri
+Video Gözetim ve Akıllı Kamera
+Çevre Güvenliği
+Yangın Algılama ve Erken Uyarı
+IoT ve Entegrasyon
+Hizmetler ve Teknolojiler
+Alarm İzleme Merkezi
+Uzaktan Video İzleme
+Mobil Güvenlik Sistemleri
+Proaktif Teknolojiler
+Kurumsal
+Hakkımızda
+Neden Desecure
+Yaklaşımımız
+Sektörler
+Enerji ve Yenilenebilir
+Üretim ve Fabrika
+İletişim
+Teklif Al
+Kaynaklar ve Yasal
+Blog
+Sıkça Sorulan Sorular
+KVKK
+Kişisel Verilerin Korunması ve İşlenmesi Politikası
+KVKK Aydınlatma Metni
+Çerez Politikası
+İlgili Kişi Başvuru Formu
+Desecure Teknoloji A.Ş.
+Genel Müdürlük Vadistanbul, Ayazağa Mah. Azerbaycan Cad. 3/I 2A Blok No: 89, Sarıyer 34396 İstanbul
+Operasyon ve Teknoloji Merkezi Desecure Plaza, Topraklık Mah. İzmir Bulvarı No: 17, Pamukkale 20150 Denizli
+444 76 49 bilgi@desecuretechnology.com LinkedIn ->
+Desecure grubu şirketi. Fiziki güvenlik hizmetleri: desecure.com.tr
+Çerez tercihleri

@@ -1,72 +1,419 @@
-# SB-778 netronicsnetworks.com · home · https://www.netronicsnetworks.com/ · fetched 2026-10-25T07:41:18Z · HTTP 200
-HOME | Netronics
-top of page
-HOME
-PRODUCTS
-Primo/Diplo - Point to Point (6-42 GHz)
-1G / 10G - Point to Point (71-82 GHz)
-NetStream - Point to Point (Sub 6 GHz)
-NetAstra - Point to Multi-Point
-High Performance Antennas
-SOLUTIONS
-Wireless ISPs
-Enterprise Networks
-Oil, Gas & Industries
-Public Safety
-Municipalities
-Open-pit Mining
-Seaports
-Water and Utilities
-SERVICES
-Support
-Training
-Link Design
-Knowledge Base
-CONTACT US
-More
-Use tab to navigate through the menu items.
-LET'S BE REALISTIC,
-ASK FOR THE IMPOSSIBLE
-More Products
-NetStream Primo 10G
-10 Gigabit millimeter backhaul link
-Read More
-NetStream Primo 1G
-Gigabit millimeter backhaul link
-Read More
-NetAstra Turbo
-High-speed Point to Multi-Point base station with beam forming
-Read More
-PRODUCTS
-SOLUTIONS
-Wireless ISPs
-Are you an ISP with operations in urban and rural areas where communication infrastructure is limited, the cooper quality is not good enough for DSL services and distances are long? We have the solution.
-Enterprise Networking
-Do you only have two weeks to build IT infrastructure for a new building on the other side of town? How would you connect this facility to the enterprise network in time and within your tight budget? We have the solution.
-Oil, Gas & Industries
-With reduced lifting costs, remote video surveillance, VoIP and multi-megabit mobile access over water or on wheels, high-capacity wireless broadband is the ultimate solution for this industry, and we have the solution.
-More Solutions
-SERVICES
-Customer Support
-Training
-Link Design
-ABOUT
-Netronics Communications is a leading designer and manufacturer of networking and communications equipment based in Ontario, Canada. For over two decades, we have successfully leveraged our knowledge of the latest radio, laser and wireless communication technologies to provide high quality and highly reliable equipment. These equipments serve connectivity solutions for applications of different sizes and functionalities.
-Besides a rich product portfolio, our radio network planning services offer a complete report on the achievable capacity, antenna type, tower height and redundancy/diversity requirements along with availability percentage; based on coordinates submitted by our clients.
-1996
-Year Established
-58
-Countries Covered
-500+
-Certified Specialists
-12
-Gbps per Cell
-Contact Us
-ABOUT US
-SUPPORT
-PARTNERS
-CAREER
-PRIVACY POLICY
-CONTACT US
-©2024 Netronics Networks
-bottom of page
+# SB-778 pyramid.lt · home · https://www.pyramid.lt/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+Stebėjimo kameros, signalizacijos, apsaugos sistemos | Pyramid.lt
+slapuk\u0173 nuostat\u0173 puslapyje .","acceptAllBtn":"Leisti visus","acceptNecessaryBtn":"Atmesti visus neb\u016btinus","showPreferencesBtn":"Slapuk\u0173 pasirinkimai"},"preferencesModal":{"title":"Slapuk\u0173 pasirinkimai","acceptAllBtn":"Leisti visus","acceptNecessaryBtn":"Atmesti visus neb\u016btinus","savePreferencesBtn":"I\u0161saugoti pasirinkimus","closeIconLabel":"U\u017edaryti","sections":[{"description":"Galite pasirinkti, su kuriomis slapuk\u0173 kategorijomis sutikti. Susipa\u017einti su apra\u0161ymais ir pakeisti pasirinkimus galite spustel\u0117j\u0119 ant konkre\u010dios slapuk\u0173 kategorijos. U\u017eblokavus kai kuri\u0173 tip\u0173 slapukus gali sutrikti Jums svetain\u0117je teikiamos funkcijos ir paslaugos. Daugiau informacijos rasite slapuk\u0173 nuostat\u0173 puslapyje ."},{"title":"B\u016btinieji slapukai","description":"\u0160ie slapukai yra b\u016btini tinkamam svetain\u0117s veikimui u\u017etikrinti. B\u016btinieji slapukai sudaro galimyb\u0119 nar\u0161yti svetain\u0117je, naudotis svetain\u0117s teikiamomis paslaugomis ir funkcijomis. \u0160i\u0173 slapuk\u0173 i\u0161jungti negalima.","linkedCategory":"necessary"},{"title":"Funkciniai slapukai","description":"\u0160ie slapukai \u012fgalina naudingas funkcijas, pagerinan\u010dias lankytojo nar\u0161ymo patirt\u012f - atsimena lankytojo nustatymus ir pasirinkimus. \u0160ie slapukai yra anoniminiai ir neseka nar\u0161ymo veiklos kitose interneto svetain\u0117se. I\u0161jungus funkcinius slapukus, kai kurios svetain\u0117s funkcijos gali neveikti tinkamai.","linkedCategory":"functionality"},{"title":"Analitiniai slapukai","description":"\u0160ie slapukai renka informacij\u0105 apie tai, kaip lankytojai naudojasi svetaine, ir padeda mums tobulinti klient\u0173 patirt\u012f, analizuojant lankytoj\u0173 srautus ir veiksm\u0173 tendencijas svetain\u0117je, vertinant puslapi\u0173 populiarum\u0105 ir pan. Informacija yra anonimin\u0117 ir apibendrinta.","linkedCategory":"analytics"},{"title":"Rinkodaros slapukai","description":"Rinkodaros slapukai naudojami steb\u0117ti lankytojus internete, \u012fvertinti reklamos efektyvum\u0105, taip pat tikslinei rinkodarai, siekiant parodyti suasmenintus reklaminius prane\u0161imus lankytojui \u0161ioje ar kitose svetain\u0117se.","linkedCategory":"marketing"}]}}}}}' data-post-code-validation-rules='{"LT":{"regexp":"^(?:LT(?:-|\\W{1,})?)?([a-z0-9]{5})$","regexp_flags":"i","short_message":"LT-XXXXX"},"LV":{"regexp":"^(?:LV(?:-|\\W{1,})?)?([a-z0-9]{4})$","regexp_flags":"i","short_message":"LV-XXXX"},"EE":{"regexp":"^(?:EE(?:-|\\W{1,})?)?([a-z0-9]{5})$","regexp_flags":"i","short_message":"EE-XXXXX"}}' data-user-wishlist-enabled='1' >
+LT
+EN
+RU
+LV
+EE
+Prisijungimas
+Palyginti prekes ( 0 )
+Prisijungti
+LT
+EN
+RU
+LV
+EE
+Prekių krepšelis
+Krepšelis tuščias.
+Krepšelis
+Krepšelis tuščias.
+Uždaryti
+Dirbame - darbo dienomis bei  - savaitgaliais!
++370-662-52200
+Susisiekite
+PREKIŲ KATALOGAS
+Stebėjimo kameros
+IP kameros
+WIFI kameros
+AHD kameros
+HD-CVI kameros
+HD-TVI kameros
+Analoginės kameros
+Valdomos kameros (PTZ)
+Slaptos kameros
+Kameros su SIM kortele
+Medžiotojų kameros
+Terminės kameros
+Numerių nuskaitymo kameros ANPR
+Kamerų imitacijos (muliažai)
+Mikrofonai
+IR prožektoriai
+Vaizdo signalo keitikliai
+Nuotolinis valdymas
+MicroSD kortelės
+Kamerų laikikliai
+Montavimo bazės-laikikliai
+Kampiniai laikikliai apvalioms kameroms
+Tvirtinami prie stulpo
+Kampiniai laikikliai
+Laikikliai pakabinamoms luboms
+Laikikliai su 1/4" tvirtinimu
+Valdomų kamerų laikikliai
+Laikiklių adapteriai
+Kamerų nameliai ir laikikliai
+Kameros transporto priemonėms
+Vaizdo registratoriai
+AHD kameros automobiliams
+AHD įrašymo įrenginiai automobiliams
+Priedai automobilinėms AHD sistemoms
+IP kameros automobiliams
+IP įrašymo įrenginiai automobiliams
+Priedai automobilinėms IP sistemoms
+Įrašymo įrenginiai
+IP vaizdo įrašymo įrenginiai (NVR)
+AHD vaizdo įrašymo įrenginiai (XVR)
+HD-CVI vaizdo įrašymo įrenginiai (CVR)
+Analoginiai vaizdo įrašymo įrenginiai (DVR)
+Kietieji diskai (HDD)
+SSD diskai
+Kamerų komplektai
+IP kamerų komplektai
+WIFI kamerų komplektai
+AHD kamerų komplektai
+Monitoriai
+Kompiuterių monitoriai
+Pramoniniai monitoriai
+Apsaugos sistemos
+Signalizacijos komplektai
+Signalizacijos centralės
+Centralių išplėtimo moduliai
+Ryšio moduliai
+Laidiniai jutikliai
+Laidiniai PIR jutikliai
+Laidiniai PIR + MW jutikliai
+Laidiniai dūmų, dujų ir karščio detektoriai
+Laidiniai magnetiniai jutikliai
+Kiti laidiniai jutikliai
+IR spindulių barjerai
+PIR detektoriai - 230V
+Belaidžiai jutikliai
+Belaidžiai PIR jutikliai
+Belaidžiai PIR + MW jutikliai
+Belaidžiai dūmų, dujų ir karščio detektoriai
+Belaidžiai magnetiniai jutikliai
+Kiti belaidžiai jutikliai
+Autonominiai jutikliai
+Sirenos
+Vidaus patalpų sirenos
+Lauko sirenos
+Klaviatūros
+Nuotoliniai pulteliai ir valdikliai
+Korpusai, dėžės
+Signalizacijų kabeliai
+Programavimo kabeliai
+Signalizacijos laidai
+Kiti signalizacijų priedai
+Lęšiai aliarmo jutikliams
+Signalizacijos jutiklių laikikliai
+Kiti signalizacijų priedai
+Mini signalizacijos
+Domofonai
+IP video domofonai
+Domofonų komplektai
+Išoriniai paneliai
+Vidiniai paneliai
+2-laidų video domofonai
+Analoginiai video domofonai
+Belaidžiai video domofonai
+Analoginiai audio domofonai
+Belaidžiai audio domofonai
+Domofonų priedai
+Praėjimo kontrolė
+Autonominiai bekontakčiai skaitytuvai
+Veido atpažinimo įrenginiai
+Centralės ir kontroleriai
+Pirštų atspaudų skaitytuvai
+Bekontakčiai skaitytuvai
+Elektromagnetinės spynos
+Elektromagnetinės sklendės
+Durų atidarymo mygtukai
+Priedai praėjimo kontrolės sistemoms
+Kortelės, pakabukai, identifikatoriai
+Kortelės
+Pakabukai
+Žymekliai
+Automatika vartams
+Vartų pavaros
+Automatikos priedai
+Kontrolė ir darbo laiko registracija
+Apsaugos darbo kontrolė
+Belaidžiai ir laidiniai skambučiai
+Seifai
+Priešgaisrinės sistemos
+Centralės
+Išplėtimo moduliai
+Jutikliai
+Dūminiai barjerai
+Temperatūros kabeliai
+Sirenos
+Kita įranga
+Išmanūs namai
+Robotai siurbliai
+Vejos pjovimo robotai
+EV įkrovimo sprendimai
+Išmanieji valdikliai
+Išmanieji jutikliai
+Spynos
+Kita įranga
+Maitinimo šaltiniai
+5-9V maitinimo šaltiniai
+12V maitinimo šaltiniai
+Su kištuku
+Montuojami ant DIN bėgio
+Montuojami į RACK spintas
+LED maitinimo šaltiniai
+Maitinimo adapterių moduliai
+Buferiniai maitintuvai
+Sieninėse dėžutėse
+24V maitinimo šaltiniai
+Maitinimo adapterių moduliai
+Montuojami ant DIN bėgio
+Kintamosios elektros srovės (AC)
+48V maitinimo šaltiniai
+Su kištuku
+Montuojami ant DIN bėgio
+Montuojami į RACK spintas
+Kiti maitinimo adapteriai
+POE maitinimas
+POE tinklo šakotuvai (switch)
+Pasyvus POE maitinimas
+Stabilizatoriai iš PoE į 12V
+Atsarginio maitinimo šaltiniai (UPS)
+Maitinimo juostos, prailgintuvai
+Ilgintuvai 230V AC
+AC 230V ilgintuvai su viršįtampio apsauga
+AC 230V ilgintuvai skirti Rack korpusams
+Baterijos
+Šarminės baterijos
+Ličio ir kitos baterijos
+Diskinės baterijos
+Akumuliatoriai
+1,2V - 9V Akumuliatoriai
+12V Akumuliatoriai
+Akumuliatorių krovikliai
+Laboratoriniai maitintuvai
+Maitinimo skirstikliai
+Saugikliai
+Relės
+5V DC
+12V DC
+24V DC
+230V AC
+Elektros energijos generatoriai
+Automobilių krovimo stotelės
+Kabeliai
+UTP, FTP kabeliai
+UTP kabeliai su jungtimis
+UTP, FTP kabeliai be jungčių
+Koaksialiniai kabeliai
+Koaksialiniai laidai su BNC jungtimis
+Koaksialiniai kabeliai 75 Ω skirti TV-SAT
+Koaksialiniai kabeliai 75 Ω pramoninei TV
+Koaksialiniai kabeliai 50 Ω
+HDMI kabeliai ir adapteriai
+HDMI kabeliai
+HDMI šakotuvai
+HDMI perjungikliai
+HDMI konverteriai
+HDMI ekstenderiai
+HDMI lizdai
+Kiti HDMI įrenginiai ir priedai
+Kiti laidai
+Sujungimo laidai IEC ir F (TV-VIDEO)
+Sujungimo laidai telefoniniai (RJ-9, RJ-11)
+Telefonų kabeliai
+Kamerų ir mobiliųjų registratorių laidai
+Kiti kabeliai ir laidai
+USB kabeliai
+Audio ir video kabeliai
+Signalizacijos kabeliai
+Priešgaisriniai kabeliai
+Elektros kabeliai
+Maitinimo laidai
+Elektros kabeliai
+Kabelių jungtys
+RJ telekomunikacinės jungtys
+RJ kištukai
+RJ kištukų gaubtai
+RJ perėjimai ir jungtys
+BNC jungtys
+BNC kištukai, prisukami
+BNC kištukai, užspaudžiami
+Kompresiniai BNC kištukai
+BNC lizdai
+BNC Perėjimai ir jungtys
+Maitinimo jungtys
+RCA jungtys
+Audio jungtys
+Jungtys 50Ω
+TV antenų jungtys
+F tipo jungtys
+F tipo kištukai, prisukami
+F tipo užspaudžiami ir kompresiniai kištukai
+F tipo perėjimai ir jungtys
+Rankiniai įrankiai
+RJ jungčių užspaudimo įrankiai
+Koaksialinių jungčių užspaudimo replės
+Kompresinių jungčių replės
+Krone peiliai
+Izoliacijos nuėmikliai
+Kiti kabeliams skirti įrankiai
+Matavimo prietaisai
+Universalūs matavimo prietaisai
+Gnybtiniai matavimo prietaisai
+Varžos izoliacijos matavimo prietaisai
+Įtampos ir fazių eiliškumo rodikliai
+Laboratoriniai matavimo prietaisai
+Laboratoriniai maitintuvai
+TV/SAT signalo lygio matuokliai
+Temperatūros matuokliai
+Lazeriniai tolimačiai
+Video testeriai su LCD ekranu
+Kiti matavimo prietaisai
+Priedai
+LAN ir WIFI tinklo įranga
+Tinklo šakotuvai
+Tinklo šakotuvai su POE maitinimu
+LAN ir šviesolaidžio konverteriai
+SFP moduliai
+Viršįtampių apsauga
+Sieninės ir paviršinės LAN rozetės
+Kiti LAN priedai
+Maršrutizatoriai, WIFI prisijungimo taškai
+WIFI adapteriai
+WIFI antenos
+5 GHz antenos
+2.4 GHz antenos
+GSM/4G/LTE/5G antenos
+Tinklo spintos Rack 10" ir 19"
+Tinklo spintos Rack 10"
+Tinklo spintos Rack 19"
+Lentynos Rack spintoms
+Komutaciniai skydeliai Rack spintoms
+Maitinimo juostos Rack spintoms
+Avarinis maitinimas - UPS įrenginiai Rack spintoms
+Paskirstymo lizdai Rack spintoms
+Priedai Rack spintoms
+Termostatai
+Šildytuvai
+Elektros instaliacijos įranga
+Paskirstymo skydas
+Paskirstymo skydai
+Paskirstymo skydų priedai
+Automatiniai jungikliai
+Nuotėkio relės
+Mygtukiniai jungikliai
+Signalizavimo lemputės
+Saugiklių išjungikliai
+Lydžiųjų saugiklių įdėklai
+Rozetės ir jungikliai
+Sieniniai jungikliai
+Rozetės 230V
+Kištukai 230V
+Silpnų srovių lizdai
+Rėmeliai lizdams ir jungikliams
+Elektros šakotuvai 230V
+Instaliacinės medžiagos
+Greitos jungtys
+Elektrinės kaladėlės
+Antgaliai su akute ir jungtys
+Kabelių tvarkyklės
+Nuo karščio susitraukiantys vamzdeliai
+Spiraliniai vamzdžiai
+Standūs elektros instaliacijos vamzdžiai
+Kabelių loveliai
+Kabelių dirželiai
+Kabelių laikikliai
+Suspaudimo raiščių laikikliai
+Kabelių movos
+Izoliacinės juostos
+Informaciniai lipdukai
+Jungčių hermetizavimas
+Jungčių dėžės Gelbox
+Išskyrimo movos Gelbox
+Gelbox sujungimo movos
+Sujungimo skardinės
+Sandarinimo preparatai
+Instaliacijos priedai
+Elektros dėžutės
+Potinkinės dėžutės
+Virštinkinės dėžutės
+Atšakų dėžutės
+Sujungimo dėžutės
+Montavimo įranga
+Montavimo dėžės
+Stiebai
+Laisvai stovintys ažūriniai stiebai
+Sudedami stiebai (daugiasegmenčiai)
+Tiesūs stiebai (viensegmenčiai)
+Priedai stiebams
+Laikikliai
+Sieniniai laikikliai
+Vamzdiniai laikikliai
+Apkabos
+Sieninės apkabos
+Kamino apkabos
+Prispaudžiamosios apkabos
+Televizorių ir monitorių laikikliai
+Televizorių ir monitorių iki 40 kg laikikliai
+Televizorių ir monitorių iki 80 kg laikikliai
+Rankiniai įrankiai
+Plokšti atsuktuvai
+Kryžminiai atsuktuvai
+Plokšti - kilpiniai raktai
+Reguliuojami raktai
+Peiliai su sudedamais ašmenimis
+Įrankių rinkiniai ir daugiafunkciniai įrankiai
+Kiti įrankiai
+Grąžtai
+Grąžtai SDS-PLUS
+Žibintuvėliai
+Radijo ryšys
+Kiti montavimo priedai
+Paslaugos
+Stebėjimo sistemų montavimas
+Stebėjimo kamerų aptarnavimas
+Akcijos
+Top prekės
+Pagalba
+Didmeninė prekyba
+Montavimas
+Gamintojai
+Kontaktai
+Prekių katalogas
+PREKIŲ KATALOGAS
+Stebėjimo kameros
+IP kameros
+WIFI kameros
+AHD kameros
+HD-CVI kameros
+HD-TVI kameros
+Analoginės kameros
+Valdomos kameros (PTZ)
+Slaptos kameros
+Kameros su SIM kortele
+Medžiotojų kameros
+Terminės kameros
+Numerių nuskaitymo kameros ANPR
+Kamerų imitacijos (muliažai)
+Mikrofonai
+IR prožektoriai
+Vaizdo signalo keitikliai
+Nuotolinis valdymas
+MicroSD kortelės
+Kamerų laikikliai
+Montavimo bazės-laikikliai
+Kampiniai laikikliai apvalioms kameroms
+Tvirtinami prie stulpo
+Kampiniai laikikliai
+Laikikliai pakabinamoms luboms
+Laikikliai su 1/4" tvirtinimu
+Valdomų kamerų laikikliai
+Laikiklių adapteriai
+Kamerų nameliai ir laikikliai
+Kameros transporto priemonėms
+Vaizdo registratoriai
+AHD kameros automobiliams
+AHD įrašymo įrenginiai automobiliams
+Priedai automobilinėms AHD sis

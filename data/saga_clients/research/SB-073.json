@@ -1,134 +1,153 @@
 {
  "code": "SB-073",
- "name_official": "Nexxus（nexxus.cc，美国）",
- "researched_at": "2026-10-21",
- "website_status": "在线（nexxus.cc，快照 2026-10-21）",
- "summary": "美国网络方案 / 品牌 Nexxus（switch 157 / industrial 80），info@；表内「ONV 的工业 FS 带了自己的标」；群发 18 次无回复。自有标（ONV 代工）→ OEM 30%。",
- "type": "",
- "size": "",
+ "name_official": "A.N.B. Rimex SA（AnB-Rimex，Herstal/Liège, BE；anb-rimex.be；BE 0424.592.259）",
+ "website_status": "在线（含 eShop）",
+ "summary": "比利时列日 Herstal 的安防与楼宇自动化公司 AnB-Rimex SA（1983-07 注册；12.7 FTE；比利时报警/家庭自动化系统的开发商、生产商与集成商（TriCom 主机、TriCare AI），同时分销 CCTV、门禁、火灾探测；2018 年成为首家 INCERT 认证 CCTV 分销商；设有 Academy 培训与 eShop；+32 4 229 37 97；info@anb-rimex.be）。展会（埃森 2024）记录：CCTV 产品经理 Ibrahim Tiryaki——需求 IP67 网口、小体积、PoE 为主，拿了很多同行彩页；6 次推送 0 回复。Saga 无 IP67——以小体积 IP40 DIN PoE 对应。",
+ "type": "集成/经销商",
+ "size": "待补证",
  "brands_seen": [
-  "ONV",
-  "Nexxus（自有）",
-  "Ubiquiti"
+  "TriCom（自有品牌）"
  ],
  "evidence": [
   {
-   "kind": "官网快照",
-   "claim": "Nexxus 网络方案与产品",
-   "quote": "Discover why customers love Nexxus networking services. With our high-quality products and exceptional support",
-   "url": "https://nexxus.cc/",
+   "kind": "用户记录",
+   "claim": "IP67 网口、小体积 PoE；拿了很多同行彩页；0 回复 / 6 次",
+   "quote": "IP67网口 小体积 PoE为主 拿了很多同行的彩页；32 496 34 18 97（用户 Clients 表摘录）",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "登记",
+   "claim": "法人、成立、规模",
+   "quote": "A.N.B. RIMEX (SA) … Established 26-07-1983 … Company size Medium-sized 12,7 FTE … Legal form Société anonyme (SA)",
+   "url": "https://www.companyweb.be/en/0424592259/a-n-b-rimex",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "Facebook",
+   "claim": "业务定位",
+   "quote": "Belgian developper, producer and integrator of Alarm and Home Automation systems. Distributor of CCTV, Access Control and Fire Detection products",
+   "url": "https://www.facebook.com/AnBRimex1981/",
+   "date": "2025-12-26"
+  },
+  {
+   "kind": "官网",
+   "claim": "INCERT CCTV 分销商与自研主机",
+   "quote": "2018: AnB-Rimex est le PREMIER distributeur agréé INCERT CCTV 2019: TriCom, la nouvelle pièce maîtresse d'AnB-Rimex est présentée.",
+   "url": "https://anb-rimex.be/fr/a-propos-de-nous/histoire/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "联系方式",
+   "quote": "AnB-Rimex SA rue de l'Abbaye 89 Parc industriel des Hauts Sarts 4040 Herstal België +32 (0)4 229 37 97 info@anb-rimex.be",
+   "url": "https://anb-rimex.be/nl-be/eshop",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "ONV 的工业 FS 带了自己的标",
-   "quote": "兴趣：ONV的工业FS 带了自己的标",
+   "claim": "IP67、小体积、PoE 为主；6 次推送 0 回复",
+   "quote": "IP67网口 小体积 PoE为主 拿了很多同行的彩页",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
  "kp": [
   {
-   "name": "（未具名）",
-   "title": "",
-   "email": "info@nexxus.cc",
-   "phone": "",
+   "name": "Ibrahim Tiryaki",
+   "role": "Product Manager CCTV（用户表）",
+   "email": "it@anb-rimex.be（用户表）",
+   "phone": "+32 496 34 18 97（用户表）",
    "source": "（本地 Clients/ 表格，无公开 URL）"
   }
  ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "grade_override": "B",
+ "override_reason": "核心需求 IP67（Saga 不做 IP67）；比价型（收集多家彩页）；0 回复 / 6 次 → 慢跟。",
+ "notes": "只在其需求转为 IP30/IP40 小体积 PoE 时用 STI-244GP 重启。",
+ "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照核对 + 表内）"
+  "level": "B 级加厚 v1（官网 + 登记核对）"
  },
  "company_facts": {
-  "legal_name": "Nexxus（待核）",
-  "founded": "",
-  "hq": "USA",
-  "size": "小型品牌商",
-  "other": "ONV 代工贴标"
+  "legal_name": "A.N.B. Rimex SA（BE 0424.592.259）",
+  "founded": "1983-07-26",
+  "hq": "Rue de l'Abbaye 89, Parc industriel des Hauts Sarts, 4040 Herstal, Belgium（+32 4 229 37 97；info@anb-rimex.be）",
+  "size": "12.7 FTE（2025 年报）；LinkedIn 11–50",
+  "other": "自研报警/家庭自动化（TriCom）；INCERT 认证 CCTV 分销商（2018）；eShop + Academy"
  },
  "business_lines": [
-  "网络交换机（自有标）"
+  "报警与家庭自动化系统自研/生产（TriCom、TriCare）",
+  "CCTV / 门禁 / 可视对讲 / 火灾探测分销（守界：火灾主系统不供）",
+  "安装商培训 Academy 与 eShop"
  ],
  "channels": {
-  "role": "品牌商（OEM 采购，现 ONV）",
-  "region": "美国"
+  "网站": "https://anb-rimex.be/",
+  "eShop": "https://anb-rimex.be/nl-be/eshop",
+  "电话": "+32 4 229 37 97（公开）",
+  "邮箱（公开）": "info@anb-rimex.be"
  },
  "signals": [
-  "已贴标 ONV 工业 FS → 同规格替换"
+  "自有品牌（TriCom）+ eShop 分销 → 小体积 PoE 交换机可作 AnB 标配件进 eShop",
+  "INCERT 认证渠道 → 对 CE/RoHS 文件要求明确"
  ],
  "risks": [
-  "美国：常要求 UL 列名（Saga 无 UL，仅 FCC/CE）→ 首触即说明",
-  "18 次群发无回复；无具名"
+  "IP67 需求 Saga 不满足；6 次推送 0 回复"
  ],
  "saga_fit": {
-  "p1": "STI-288GP",
-  "tier": 30,
-  "why": "替换 ONV 工业 2 光 8 PoE → STI-288GP（$62.2 @30%）贴 Nexxus 标。"
+  "p1": "STI-144GP",
+  "tier": 20,
+  "why": "分销 20% 档：STI-144GP（小体积 DIN 4 PoE + 1 SFP，IP40，$34.1）对应「小体积 PoE 为主」；8 口 STI-288GP（$57.4）；明示无 IP67，推荐配户外箱"
  },
- "email_hook": "For the Nexxus-labelled industrial switches (ONV-built today) — like-for-like 2-SFP + 8-PoE DIN units, plus a Marvell managed version, under your label from small lots; send me the ONV part number and I'll quote it directly.",
+ "email_hook": "Ibrahim, for the compact PoE units you were comparing in Essen: our DIN-rail 4-port gigabit PoE + 1 SFP switch is 32 mm wide, IP40, −40 to +75 °C, $34.1 EXW (IP67 we do not make, so installers pair it with a pole box) — would three pieces for the AnB eShop test range make sense?",
  "mail_review": {
   "binding": {
-   "level": "未触达（A/S 邮箱 31 封 2024→2026，1 次记录打开，0 回；收件 info@nexxus.cc；主题多为「Industrial PoE Switch、Marvell Industrial Alert System」；Elsa 箱：`to:nexxus.cc` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 31 / 来 0）（第 74 批(h)））",
-   "type": "—",
+   "level": "未触达（A 邮箱 16 封 2025→2026，1 次记录打开，0 回；收件 it@anb-rimex.be；主题多为「Industrial PoE Switch、Mini Industrial PoE Switch」；Elsa 箱：`to:.be` 穷举 16 条（2026-10-25，锚批 Bcc 头已读）未见 anb-rimex.be → Elsa 箱从未发过本户，往来只在 S/A 箱（去 16 / 来 0）（第 74 批(f)））",
+   "type": "集成/经销商",
    "sieve": "1~2（1 次打开）",
-   "stop": "只打通用邮箱，无记录打开",
-   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
-   "lane": "US 主攻（四主）",
-   "cadence": "一封",
-   "evidence": "gmail_digest：out 31，Opened 标签 1（Simon 群发追踪）；用户表：「兴趣：ONV的工业FS 带了自己的标」；研究档 risks：美国：常要求 UL 列名（Saga 无 UL，仅 FCC/CE）→ 首触即说明"
+   "stop": "16 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "比利时（欧洲全域主攻）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 16，Opened 标签 1（Simon 群发追踪）；用户表：「IP67网口 小体积 PoE为主 拿了很多同行的彩页」；研究档 risks：IP67 需求 Saga 不满足；6 次推送 0 回复"
   },
-  "situation": "美国网络方案 / 品牌 Nexxus（switch 157 / industrial 80），info@；表内「ONV 的工业 FS 带了自己的标」；群发 18 次无回复。自有标（ONV 代工）→ OEM 30%。",
-  "need": "替换 ONV 工业 2 光 8 PoE → STI-288GP（$62.2 @30%）贴 Nexxus 标。",
-  "breakpoint": "美国：常要求 UL 列名（Saga 无 UL，仅 FCC/CE）→ 首触即说明",
+  "situation": "比利时列日 Herstal 的安防与楼宇自动化公司 AnB-Rimex SA（1983-07 注册；12.7 FTE；比利时报警/家庭自动化系统的开发商、生产商与集成商（TriCom 主机、TriCare AI），同时分销 CCTV、门禁、火灾探测；2018 年成为首家 INCERT 认证 CCTV 分销商；设有 Academy 培训与 eShop；+32 4 229 37 97；info@anb-rimex.be）。展会（埃森 2024）记录：CCTV 产品经理 Ibrahim Tiryaki——需求 IP67 网口、小体积、PoE 为主，拿了很多同行彩页；6 次推送 0 回复。Saga 无 IP67——以小体积 IP40 DIN PoE 对应。",
+  "need": "分销 20% 档：STI-144GP（小体积 DIN 4 PoE + 1 SFP，IP40，$34.1）对应「小体积 PoE 为主」；8 口 STI-288GP（$57.4）；明示无 IP67，推荐配户外箱",
+  "breakpoint": "IP67 需求 Saga 不满足；6 次推送 0 回复",
   "saga_now": {
-   "p1": "STI-288GP",
-   "tier": 30,
-   "price": "换人再触锚价 STI-288GP $62.2 EXW（本户贴标 OEM 30% 档；最近实报 $60（SA-100 2025-03-18；SB-1276 / SA-030 同价）（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-10-08 $65（10G Media Converter）；群发里他已看到的价（续）：2026-07-22 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-06 $280（10G Enterprise SFP Switch）",
-   "why": "替换 ONV 工业 2 光 8 PoE → STI-288GP（$62.2 @30%）贴 Nexxus 标。已打开的主题（1/31 封有打开记录）：「Marvell Alleycat5 Solution」(2025-03-18) → 读者兴趣主题类别不明（看原主题）",
+   "p1": "STI-144GP",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-07-31 $300（48 Port PoE Managed Switch）、2025-10-08 $280（10G Enterprise SFP Switch）、2026-06-18 $16000（32 Port 400GB DC Switch）",
+   "why": "分销 20% 档：STI-144GP（小体积 DIN 4 PoE + 1 SFP，IP40，$34.1）对应「小体积 PoE 为主」；8 口 STI-288GP（$57.4）；明示无 IP67，推荐配户外箱。已打开的主题（1/16 封有打开记录）：「Booster PoE Switch」(2025-11-12) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "2027-Q1（换人后）",
-   "channel": "A 邮箱 → 具名 KP",
-   "action": "换收件人再发一封（第 75 批(t) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用；具名 KP 见 channel））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（第 76 批(d) 2026-10-25：锚价文本与稿价对齐：OEM 30% 档 $62.2，实报 $60 留作下限）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
-   "one_question": "For the Nexxus-labelled industrial switches (ONV-built today) — like-for-like 2-SFP + 8-PoE DIN units, plus a Marvell managed version, under your label from small lots; send me the ONV part number and I'll quote it directly. Reference: STI-288GP at $60 USD EXW (MOQ 1, 15-day validity)."
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Ibrahim, for the compact PoE units you were comparing in Essen: our DIN-rail 4-port gigabit PoE + 1 SFP switch is 32 mm wide, IP40, −40 to +75 °C, $34.1 EXW (IP67 we do not make, so installers pair it with a pole box) — would three pieces for the AnB eShop test range make sense?"
   },
   "facts": [
    {
-    "date": "2026-09-18",
+    "date": "2026-09-14",
     "dir": "去",
-    "who": "A/S 群发",
-    "quote": "Industrial PoE Switch、Marvell Industrial Alert System",
-    "why": "31 封 / 1 次打开 / 0 回｜首封 2024-06-27 → 末封 2026-09-18（31 去 / 0 来）",
+    "who": "A 群发",
+    "quote": "Industrial PoE Switch、Mini Industrial PoE Switch",
+    "why": "16 封 / 1 次打开 / 0 回｜首封 2025-03-20 → 末封 2026-09-14（16 去 / 0 来）",
     "k": "gmail_digest"
    },
    {
     "date": "2026-10-21",
     "dir": "用户表",
     "who": "Simon",
-    "quote": "兴趣：ONV的工业FS 带了自己的标",
+    "quote": "IP67网口 小体积 PoE为主 拿了很多同行的彩页",
     "why": "表内备注",
     "k": "用户表"
-   },
-   {
-    "date": "2026-09-18",
-    "dir": "去",
-    "who": "A 箱（Alan）",
-    "quote": "16 Port Industrial PoE Switch",
-    "why": "本日去信真实主题（邮箱索引 251124c5a74f5627；信稿开头句引用此封；此前稿内写的「Industrial PoE Switch」是线程列表首题，不是本封）",
-    "k": "251124c5a74f5627"
    }
   ],
   "proof_gaps": [],
-  "draft_en": {
-   "subject": "The Nexxus-labelled industrial switches - like-for-like, under your label, from small lots",
-   "body": "Hello Nexxus team,\n\nOver the past months you had a few product mails from us - most recently \"16 Port Industrial PoE Switch\" on 18 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nYour Nexxus-labelled industrial switches are ONV-built today. Like-for-like from us, under the Nexxus label from small lots, -40 to 75 C, FCC/CE/RoHS: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, unmanaged - model STI-288GP - $62.2 USD EXW with your logo (MOQ 1, 15-day validity); the same footprint L2+ managed with ring redundancy on a Marvell platform - STI-288DGGPM - $137.5. Logo on the unit is free; colour box from 200 sets.\n\nOne question: which ONV part number is your volume item - send it and I quote that one directly?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
-  },
+  "draft_en": null,
   "as_of": "2026-10-24"
  }
 }

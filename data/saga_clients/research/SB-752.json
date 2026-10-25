@@ -2,57 +2,146 @@
  "code": "SB-752",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "无域名",
- "summary": "德国「Super Shops」（阿里巴巴 RFQ「16 槽管理机架」；KP Lorena Bosnjak，两个 hotmail 免费邮箱，无公司域名）；表内未跟进。",
- "type": "个人/可疑 RFQ（免费邮箱）",
+ "website_status": "在线（enika.cz，快照 2026-10-21）",
+ "summary": "捷克 Enika Nova Paka（捷克无线技术制造商、照明与电气元件分销商，库存 20,000+ 品项；项目案例（西班牙工业仓库、法国办公楼）；表内「电口，网页是项目类的」「可以尝试多跟进一下」；KP Iva Horáčková、p.gottwald@）；群发 8 次无回复。",
+ "type": "电气/照明分销商（捷克，网络为边缘品类）",
  "size": "",
  "brands_seen": [],
  "evidence": [
   {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "16槽管理机架 / from: 阿里巴巴RFQ",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "kind": "官网快照",
+   "claim": "官网标题：Enika Nova Paka；品类词 工业自动化 / OT 网络 / 无线 / WiFi / 布线 / 线缆 / 网络交换 / PoE",
+   "quote": "Czech manufacturer of wireless technologies, distributor of lighting and electrical components.",
+   "url": "https://www.enika.eu/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "16 槽管理机架 RFQ",
-   "quote": "16槽管理机架 / from: 阿里巴巴RFQ",
+   "claim": "表内兴趣/备注",
+   "quote": "电口 网页是项目类的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Enika 定位",
+   "quote": "Enika Nova Paka ; Czech manufacturer of wireless technologies, distributor of lighting and electrical components ; More than 20 000 items in stock",
+   "url": "https://www.enika.eu/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "电口 项目类",
+   "quote": "电口 网页是项目类的；可以尝试多跟进一下",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
- "kp": [],
- "grade_override": "C",
- "override_reason": "个人/可疑 RFQ（免费邮箱）且品类不供；c_sub=个人买家",
+ "kp": [
+  {
+   "name": "Iva Horáčková",
+   "title": "（职务待核）",
+   "email": "i.horackova@enika.cz",
+   "phone": "",
+   "source": "用户表"
+  },
+  {
+   "name": "P. Gottwald",
+   "title": "（姓名/职务待核）",
+   "email": "p.gottwald@enika.cz",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "德国",
-  "other": "无官网快照；角色判定来源：用户表"
+  "hq": "捷克",
+  "other": "官网 enika.cz，语言 en，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "（个人/可疑 RFQ）"
+  "无线技术制造（自有）",
+  "照明 / 电气元件分销"
  ],
  "channels": {
-  "role": "个人/可疑 RFQ（免费邮箱）",
-  "region": "德国",
-  "contact": "inesjovanovice@hotmail.com、tasnimlinahmifsud@hotmail.com"
+  "role": "电气/照明分销商（捷克，网络为边缘品类）",
+  "region": "捷克",
+  "contact": "i.horackova@enika.cz、p.gottwald@enika.cz"
  },
  "signals": [
-  "表内：16 槽管理机架 / from: 阿里巴巴 RFQ；KP Lorena Bosnjak；inesjovanovice@hotmail.com / tasnimlinahmifsud@hotmail.com"
+  "官网：Czech manufacturer of wireless technologies, distributor of lighting and electrical components；首页 More than 20 000 items in stock；页面 /article/182/industrial-warehouse-spain/、/article/186/poesia-office-building-france/；kw switch 18 / wireless 13",
+  "表内：电口 网页是项目类的；可以尝试多跟进一下；KP Iva Horáčková"
  ],
  "risks": [
-  "仅 hotmail 免费邮箱（两个）、无公司域名（可疑）；MC 机架品类 Saga 不供（Q-32）"
+  "电气/照明分销为主（网络为边缘品类，量小）；8 次无回复 → 改向 Iva Horáčková 具名首触（职务待核）"
  ],
  "saga_fit": {
-  "p1": null,
+  "p1": "STC-28GM",
   "tier": 20,
-  "why": "无公司域名、多个免费邮箱、品类（MC 机架）Saga 不供 → 改 C"
+  "why": "电口需求（非 PoE）→ 8 GE + 2 SFP 管理 STC-28GM（HRUI 列表价 $50.6，注明）/ 工业 8 GE + 2 SFP STI-280GE（$46.6 @20%）"
  },
- "email_hook": "（不发送：可疑零散 RFQ）"
+ "email_hook": "Iva, for the copper Ethernet switches you supply with lighting-control and building projects, we offer neutral-brand 8-GE + 2 SFP managed and DIN-rail industrial 8-GE models from small lots, CE/RoHS, EXW USD — which port count do your project customers ask for most?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（1 封自动回复；Elsa 箱：`to:.cz` 穷举 1 条（2026-10-25，锚批 Bcc 头已读）未见 enika.cz → Elsa 箱从未发过本户，往来只在 S/A 箱（去 12 / 来 1）（第 74 批(f)））",
+   "type": "捷克电气/照明分销",
+   "sieve": "0",
+   "stop": "自动回复/机器人，无人工回复",
+   "revive": "不动",
+   "lane": "CZ",
+   "cadence": "不动",
+   "evidence": "k=e25fa84b6b9e3cb9"
+  },
+  "situation": "来信全部为机器回复；无人读信或无人回信。",
+  "need": "—",
+  "breakpoint": "—",
+  "saga_now": {
+   "p1": "—",
+   "tier": 20,
+   "price": "—；群发里他已看到的价（续，第 66 批全量复核）：2025-05-21 $300（48 Port PoE Managed Switch）、2025-10-08 $280（10G Enterprise SFP Switch）",
+   "why": "已打开的主题（1/12 封有打开记录）：「Managed Optical Bypass Switch」(2025-06-25) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—（第 76 批(c) 2026-10-25：0 事实户补时间线事实）",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2025-01-30",
+    "dir": "去",
+    "who": "S 箱（Simon）",
+    "quote": "16 Port Ethernet Switch",
+    "why": "首封去信（邮箱索引；去信共 12 封）",
+    "k": "b19a695a76d27eb0"
+   },
+   {
+    "date": "2026-02-09",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "Managed Optical Bypass Switch",
+    "why": "最近一封去信（邮箱索引；去信共 12 封）",
+    "k": "f3ea13043f51cc5d"
+   },
+   {
+    "date": "2025-01-30",
+    "dir": "来",
+    "who": "p.gottwald@enika.cz",
+    "quote": "Automatická odpověď: 16 Port Ethernet Switch｜﻿ ﻿ ﻿ ﻿﻿Dobrý den,  jsem na dovolené. Zpět budu 3.2. V urgentních případech prosím kontaktujte kolegy na svitidla@enika.",
+    "why": "来信（邮箱索引；原文见 k）",
+    "k": "e25fa84b6b9e3cb9"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

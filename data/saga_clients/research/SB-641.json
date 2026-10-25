@@ -2,57 +2,50 @@
  "code": "SB-641",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "在线（jeatech.com.au，快照 2026-10-21）",
- "summary": "澳大利亚 JEA Technologies（工业电子外设分销：4G/5G 工业蜂窝路由（Teltonika / Milesight）、工业面板 PC、电子纸、HMI；在售 ORing IDGPS-C1042GP（表内「卖 ORing 的」）；KP Craig Kinder（Manager，craigk@）、Tony Ioannidis（Operations Manager））；群发 7 次无回复。",
- "type": "工业电子分销商（澳洲，ORing 工业线）",
+ "website_status": "在线（apolloinfoways.in，快照 2026-10-21）",
+ "summary": "印度 Apollo Infoways / WatchDog（企业网络品牌「WatchDog」：交换机 / 路由 / 无线 / 服务器 / 防火墙 / SFP，自有型号 WD6822-24X6H / WD6822-48X6H / WD5890；表内「买丰润达的商业 PoE，工业 FS 是 AOA 的，8 PORT ROUTER WIRED」；KP Ravi Prakash（Founder & CEO，ravi@））；表内无跟进记录。",
+ "type": "印度网络品牌商（自有 WatchDog 型号，中国 ODM 采购）",
  "size": "",
  "brands_seen": [
-  "ORing",
-  "Teltonika",
-  "Milesight"
+  "Ubiquiti",
+  "丰润达",
+  "AOA"
  ],
  "evidence": [
   {
    "kind": "官网快照",
-   "claim": "官网标题：JEA Technologies；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 无线 / WiFi / 光纤 / 媒体转换 / 网络交换 / PoE",
-   "quote": "Discover a range of industrial tech solutions at JEA Technologies, an Australian leading electronic peripherals distributor",
-   "url": "https://jeatech.com.au/",
+   "claim": "官网标题：WatchDog | Enterprise Networking, Data Center, Cloud & Security；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 数据中心 / 企业 IT / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "WatchDog delivers enterprise networking, data center, cloud, wireless, security, and automation solutions designed to secure and power modern networks.",
+   "url": "https://www.mywatchdog.in/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
    "claim": "表内兴趣/备注",
-   "quote": "卖Oring的",
+   "quote": "买丰润达的商业PoE 工业FS AOA的 8 PORT ROUTER WIRED",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   },
   {
    "kind": "官网快照",
-   "claim": "澳洲工业电子外设分销商",
-   "quote": "Discover a range of industrial tech solutions at JEA Technologies, an Australian leading electronic peripherals distributor",
-   "url": "https://jeatech.com.au/",
+   "claim": "WatchDog：企业网络 / 数据中心 / 云 / 无线 / 安全 / 自动化方案",
+   "quote": "WatchDog delivers enterprise networking, data center, cloud, wireless, security, and automation solutions designed to secure and power modern networks.",
+   "url": "https://www.mywatchdog.in/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "卖 ORing 的",
-   "quote": "卖Oring的",
+   "claim": "买丰润达商业 PoE、AOA 工业 FS",
+   "quote": "买丰润达的商业PoE 工业FS AOA的 8 PORT ROUTER WIRED",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
  "kp": [
   {
-   "name": "Craig Kinder",
-   "title": "Manager",
-   "email": "craigk@jeatech.com.au",
-   "phone": "",
-   "source": "用户表"
-  },
-  {
-   "name": "Tony Ioannidis",
-   "title": "Operations Manager",
-   "email": "",
+   "name": "Ravi Prakash",
+   "title": "Founder & CEO",
+   "email": "ravi@apolloinfoways.in",
    "phone": "",
    "source": "用户表"
   }
@@ -65,91 +58,134 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "澳大利亚",
-  "other": "官网 jeatech.com.au，语言 en-AU，快照状态 ok；角色判定来源：官网文案"
+  "hq": "印度",
+  "other": "官网 apolloinfoways.in，语言 en，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "工业蜂窝路由 / 面板 PC / 电子纸 / HMI 分销",
-  "工业交换机（ORing）"
+  "企业网络 / 数据中心 / 安全（自有品牌 WatchDog）"
  ],
  "channels": {
-  "role": "工业电子分销商（澳洲，ORing 工业线）",
-  "region": "澳大利亚",
-  "contact": "sales@jeatech.com.au、craigk@jeatech.com.au"
+  "role": "印度网络品牌商（自有 WatchDog 型号，中国 ODM 采购）",
+  "region": "印度",
+  "contact": "ravi@apolloinfoways.in、info@apolloinfoways.in"
  },
  "signals": [
-  "官网：Discover a range of industrial tech solutions at JEA Technologies, an Australian leading electronic peripherals distributor",
-  "栏目：4G/5G Industrial Cellular Modems Routers Gateways M2M IoT (27)；站内 IDGPS-C1042GP（ORing）",
-  "KP：Craig Kinder / Manager；Tony Ioannidis / Operations Manager（表内）"
+  "站内型号 WD6822-24X6H / WD6822-48X6H / WD5890 / WD25000AI（自有）",
+  "官网：Enterprise Networking, Data Center, Cloud & Security；品类 Switch / Router / Wireless / Server / Firewall / SFP",
+  "KP：Ravi Prakash / Founder & CEO（表内）"
  ],
  "risks": [
-  "非主攻区（T5）；RCM 合规由客户申报",
-  "现有 ORing（台湾）供货稳定：需以价格/交期切入；7 次无回复"
+  "印度 BIS 认证：由客户以其品牌取证（Saga 提供测试报告）",
+  "现供应商丰润达 / AOA：价格基准低；非主攻区（T5）",
+  "数据中心级（WD6822 24×10G + 6×100G）Saga 不做"
  ],
  "saga_fit": {
-  "p1": "STI-288GPM",
-  "tier": 20,
-  "why": "在售 ORing IDGPS-C1042GP（工业 PoE 管理）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-288GP 同口型替换"
+  "p1": "STC-28DGGPM",
+  "tier": 30,
+  "why": "现从丰润达采购商业 PoE、AOA 工业 FS → Saga 作 Marvell 平台二供：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 WatchDog 标；24 口 STC-424DGGPM-280W；10G 汇聚 STC-424XGGM；数据中心 WD6822（24×10G/6×100G）Saga 不做"
  },
- "email_hook": "Craig, alongside the ORing industrial PoE switches you carry with your Teltonika and Milesight routers, we supply DIN-rail 8-PoE + 2 SFP managed (Marvell L2+) or unmanaged units (−40~75 °C, neutral packing) from small lots, EXW — which ORing model moves most for you, so we quote its equivalent?",
- "products_seen": [
-  {
-   "brand": "ORing",
-   "model": "IDGPS-C1042GP",
-   "spec": "工业 PoE 管理（4 PoE + 2 SFP，推断）",
-   "saga": "STI-288GPM / STI-154GP",
-   "url": "https://jeatech.com.au/",
-   "date": "2026-10-21"
-  }
- ],
+ "email_hook": "Ravi, for the WatchDog access-switch range you currently source from Fengrunda and AOA, we can supply Marvell-based 8-PoE + 2 SFP and 24-PoE L2+ models under your label from small lots, with CE/RoHS/FCC reports for your BIS file — which model is due for a second source first?",
  "mail_review": {
   "binding": {
-   "level": "未触达（A 邮箱 19 封 2025→2026，1 次记录打开，0 回；收件 craigk@jeatech.com.au, sales@jeatech.com.au；主题多为「8 Port Industrial PoE Switch、Industrial PoE Switch」；Elsa 箱：`to:jeatech.com.au` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 19 / 来 0）（第 74 批(n)））",
-   "type": "工业电子分销商（澳洲，ORing 工业线）",
-   "sieve": "1~2（1 次打开）",
-   "stop": "19 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "澳大利亚 非主攻",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 19，Opened 标签 1（Simon 群发追踪）；用户表：「卖Oring的」；研究档 risks：非主攻区（T5）；RCM 合规由客户申报"
+   "level": "轻度触达（S/A 邮箱 5 封来信 2024-09→2025-01 + Elsa 邮箱 2025-12-08 Ravi「How about Console port and management ports」对 Booster PoE——Ravi 仍在读、仍在问；Q-33/印度口径不变）；补核（第 73 批）：Ravi 12-08 的问题是线程最后一封，Elsa 未回 → 我方欠答 10 个月，信稿按补答写",
+   "type": "印度网络品牌商（Apollo Infoways / WatchDog 自有型号，中国 ODM 采购；Ravi = 老板）——第一档品牌商但印度价格段",
+   "sieve": "3（问价 + 规格）",
+   "stop": "管理型 24V/48V $110 对印度品牌商偏高；30V/55V 不支持；Simon 2026-10-25：不用管了（T29-U51），不再提醒",
+   "revive": "补一句规格实话（Console RJ45 + Web/CLI/SNMP 带内管理；无独立 OOB 管理口）；不推进",
+   "lane": "IN 非主攻",
+   "cadence": "不动",
+   "evidence": "k=87e3b8ad670eab84 / e3fdaaebc77d14ee / f38de7254a2ba19a / 48e1b99fa850f527 / 79e45ea6c45d68d9；Elsa 邮箱 `data/gmail_e/text/`（Replied 线程，客户→Elsa 正文；Elsa 回复正文未入库）；第 19 批回补来信原文 4 条（gmail_s/gmail_a）"
   },
-  "situation": "澳大利亚 JEA Technologies（工业电子外设分销：4G/5G 工业蜂窝路由（Teltonika / Milesight）、工业面板 PC、电子纸、HMI；在售 ORing IDGPS-C1042GP（表内「卖 ORing 的」）；KP Craig Kinder（Manager，craigk@）、Tony Ioannidis（Operations Manager））；群发 7 次无回复。",
-  "need": "在售 ORing IDGPS-C1042GP（工业 PoE 管理）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-288GP 同口型替换",
-  "breakpoint": "非主攻区（T5）；RCM 合规由客户申报",
+  "situation": "—",
+  "need": "24V/48V 混供 PoE 管理型。",
+  "breakpoint": "价格段。",
   "saga_now": {
-   "p1": "STI-288GPM",
-   "tier": 20,
-   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-27 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-04 $300（48 Port PoE Managed Switch）、2025-09-26 $280（10G Enterprise SFP Switch）、2026-06-17 $16000（32 Port 400GB DC Switch）",
-   "why": "在售 ORing IDGPS-C1042GP（工业 PoE 管理）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-288GP 同口型替换。已打开的主题（1/19 封有打开记录）：「Optional Marvell Chipset Solutions」(2025-11-24) → 读者兴趣主题类别不明（看原主题）",
+   "p1": "—",
+   "tier": 30,
+   "price": "$110（2024-09）；历史报价（邮件原话，老汇率）：2024-09-18 110usd；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-22 $65（10G media converter）；群发里他已看到的价（续）：2026-07-23 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-01-06 $240（24 Port Fiber Switch）、2026-05-01 $280（10G Enterprise SFP Switch）、2026-06-15 $16000（32 Port 400GB DC Switch）",
+   "why": "已打开的主题（8/18 封有打开记录）：「Re: Industrial PoE Switch」(2024-11-15)、「Mini Industrial PoE Switch」(2024-12-12)、「24 Port Fiber Switch」(2025-01-06)、「Re: 24 Port Fiber Switch」(2025-01-06) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续｜已发资料（勿重发）：Passive PoE(2024-09-17)、L2 Web Manual(2024-09-18)、STC-208GPM-AUTO(2024-09-18)、STI-154GP(2024-11-04)、STC-4168XGGCM(2025-01-06)、Marvell Based CLI Manual(2025-01-06)、Marvell Based Web Manual(2025-01-06)；已发单据：Quotation(2024-11-04)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开",
-   "one_question": "Craig, alongside the ORing industrial PoE switches you carry with your Teltonika and Milesight routers, we supply DIN-rail 8-PoE + 2 SFP managed (Marvell L2+) or unmanaged units (−40~75 °C, neutral packing) from small lots, EXW — which ORing model moves most for you, so we quote its equivalent?"
+   "when": "不动",
+   "channel": "Elsa 邮箱回原线程",
+   "action": "Simon 2026-10-25 裁定：这桩旧欠答不用管了（T29-U51）——补答信稿留档不发；若对方再来信再按「我方欠答」口径接。原拟动作：补答；回原串（Elsa 邮箱 thread，邮件客户端自动带 Re:），开头承认 12 月的问题没人答",
+   "one_question": "Ravi — the booster-PoE managed unit has an RJ45 console port and in-band management (web/CLI/SNMP); no dedicated out-of-band management port. Does your spec need OOB?"
   },
   "facts": [
    {
-    "date": "2026-08-27",
-    "dir": "去",
-    "who": "A 群发",
-    "quote": "8 Port Industrial PoE Switch、Industrial PoE Switch",
-    "why": "19 封 / 1 次打开 / 0 回｜首封 2025-07-03 → 末封 2026-08-27（19 去 / 0 来）",
-    "k": "gmail_digest"
+    "date": "2023-12-13",
+    "dir": "备",
+    "who": "Saga 内部印度线索表 List_2023.12.13.xlsx（存于 Fastball/Rishi 文件夹）",
+    "quote": "名单行：「152 https://apolloinfoways.in/ 印度 买了丰润达的 富通天下 switch info@apolloinfoways.in」",
+    "why": "Saga 自己的线索表里对本户的一手备注（来源/兴趣点/是否已加 WhatsApp/展会现场对话）——比群发打开率更硬的证据；写下一封邮件时直接引用这里的兴趣点",
+    "k": "Drive PI 文件夹 2_印度_Rishi"
    },
    {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "卖Oring的",
-    "why": "表内备注",
-    "k": "用户表"
+    "date": "2024-09-16",
+    "dir": "来",
+    "who": "ravi@apolloinfoways.in",
+    "quote": "Is this managed or unmanaged. Regards Ravi ________________________________",
+    "why": "来信原文（主题「Re: 24V/48V PoE Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+    "k": "87e3b8ad670eab84"
+   },
+   {
+    "date": "2024-09-18",
+    "dir": "来",
+    "who": "Ravi",
+    "quote": "I need manage switch for 24V/48V POE.",
+    "why": "需求",
+    "k": "e3fdaaebc77d14ee"
+   },
+   {
+    "date": "2024-09-18",
+    "dir": "去",
+    "who": "Saga（Simon）",
+    "quote": "Hi, Ravi, Please see attached information. It is 110usd/pc. Thank you.",
+    "why": "历史报价点（主题「Re: 24V/48V PoE Switch」；第 20 批从 gmail_s 回补）：110usd",
+    "k": "f38de7254a2ba19a"
+   },
+   {
+    "date": "2024-09-19",
+    "dir": "来",
+    "who": "ravi@apolloinfoways.in",
+    "quote": "Will this also support 30V and 55V too? Rrgards, Ravi ⁣Get BlueMail for Android ​",
+    "why": "来信原文（主题「Re: 24V/48V PoE Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+    "k": "48e1b99fa850f527"
+   },
+   {
+    "date": "2024-11-03",
+    "dir": "来",
+    "who": "ravi@apolloinfoways.in",
+    "quote": "Is it managed or unmanaged switch? Regards Ravi ⁣Get BlueMail for Android ​",
+    "why": "来信原文（主题「Re: Industrial PoE Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+    "k": "fa79557f8a8ef2a4"
+   },
+   {
+    "date": "2025-01-06",
+    "dir": "来",
+    "who": "ravi@apolloinfoways.in",
+    "quote": "Pls share the Datasheet for this. Ravi ________________________________",
+    "why": "来信原文（主题「Re: 24 Port Fiber Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+    "k": "79e45ea6c45d68d9"
+   },
+   {
+    "date": "2025-12-08",
+    "dir": "来",
+    "who": "Ravi（Apollo Infoways）",
+    "quote": "How about Console port and management ports.",
+    "why": "问管理口/Console = 在比对自家 WatchDog 型号规格；Elsa 是否答复未入库",
+    "k": "gmail_e"
    }
   ],
-  "proof_gaps": [],
-  "draft_en": null,
+  "proof_gaps": [
+   "（已核 2026-10-24，第 73 批）线程 2025-12-08 以 Ravi 的「How about Console port and management ports」收尾，Elsa 没有回信可入库 → 不是「未入库」，是我方欠答 10 个月"
+  ],
+  "draft_en": {
+   "subject": "Console and management ports — the answer you asked for",
+   "body": "Hi Ravi,\n\nYour note of 2025-12-08 (\"How about Console port and management ports…\") went unanswered on our side — apologies. Instead of another catalog mail, one question:\n\nThe booster-PoE managed unit has an RJ45 console port and in-band management (web/CLI/SNMP); no dedicated out-of-band management port. Does your spec need OOB?\n\nIf there is no live project, just say so and I will stop here.\n\nBest regards,\nElsa\nSaga Telecom - sagatele.com"
+  },
   "as_of": "2026-10-24"
  }
 }

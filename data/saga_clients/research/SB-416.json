@@ -1,73 +1,141 @@
 {
- "code": "SB-416",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（vivanet.tr，快照 2026-10-21）",
- "summary": "土耳其 vivanet / Uğur Eren（光纤互联网运营商（10 Gbps 套餐、AS212193）；领英线索「Bypass 模块」；KP Uğur Eren（founder））；表内未跟进。",
- "type": "光纤 ISP（运营商，bypass 模块需求）",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：Fiber İnternet, Altyapı Sorgulama ve Tarifeler | vivanet；品类词 电信 / FTTH / ISP 设备 / 无线 / WiFi / 光纤 / 媒体转换",
-   "quote": "vivanet ile fiber internet, altyapı sorgulama, yüksek hızlı internet tarifeleri ve online abonelik işlemlerini tek adreste keşfedin. Hemen başvurun.",
-   "url": "https://vivanet.tr/",
-   "date": "2026-10-21"
+  "code": "SB-416",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（abcv.pl，快照 2026-10-21）",
+  "summary": "波兰 ABC Vision（安防系统网店：报警、IP 监控、CCTV；Hikvision 86 / Dahua / Axis / Hanwha / Pulsar；Ceneo 上有 ABCVISION 自有标交换机；表内「MC / switch 等，有 Hasivo 的商业 PoE，应该比较多从国内买」「质量一般」）；表内 1 次跟进无回复。",
+  "type": "安防网店 + 自有标交换机（波兰，Hasivo 代工迹象）",
+  "size": "",
+  "brands_seen": [
+    "Hikvision",
+    "Hanwha",
+    "Axis",
+    "Pulsar",
+    "Hasivo",
+    "Dahua"
+  ],
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：ABC VISION - SYSTEMY ZABEZPIECZEŃ ALARMY MONITORING IP TELEWIZJA PRZEMYSŁOWA CCTV；品类词 安防监控（CCTV / 门禁） / 无线 / WiFi / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
+      "quote": "Sklep internetowy firmy ABC VISION - SYSTEMY ZABEZPIECZEŃ. Profesjonalna obsługa oraz atrakcyjne ceny gwarantowane! Posiadamy w stałej ofercie setki urządzeń służących do intalacji systemu monitoringu, monitoringu IP, HD-SDI, HD-CVI, HD-TVI",
+      "url": "https://abcv.pl/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "MC Switch等；有haviso的商业PoE 应该是比较多从国内买；https://www.ceneo.pl/Switche_i_huby/p:ABCVISION.htm",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "ABC Vision 安防系统网店",
+      "quote": "Sklep internetowy firmy ABC VISION - SYSTEMY ZABEZPIECZEŃ. Profesjonalna obsługa oraz atrakcyjne ceny gwarantowane!",
+      "url": "https://abcv.pl/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "有 Hasivo 的商业 PoE，从国内买",
+      "quote": "MC Switch等 / 有haviso的商业PoE 应该是比较多从国内买；https://www.ceneo.pl/Switche_i_huby/p:ABCVISION.htm",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
   },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "Bypass模块 / from: 领英",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
+  "company_facts": {
+    "hq": "波兰",
+    "other": "官网 abcv.pl，语言 pl，快照状态 ok；角色判定来源：官网文案"
   },
-  {
-   "kind": "官网快照",
-   "claim": "vivanet 定位",
-   "quote": "Fiber İnternet, Altyapı Sorgulama ve Tarifeler | vivanet ; Vivanet’ten 10.000 Mbps (10Gbps) hızına kadar sınır tanımayan internet",
-   "url": "https://vivanet.tr/",
-   "date": "2026-10-21"
+  "business_lines": [
+    "安防系统网店（报警 / 监控 / CCTV）",
+    "自有标交换机（ABCVISION）"
+  ],
+  "channels": {
+    "role": "安防网店 + 自有标交换机（波兰，Hasivo 代工迹象）",
+    "region": "波兰",
+    "contact": "sklep@abcvision.pl"
   },
-  {
-   "kind": "用户表",
-   "claim": "Bypass 模块 领英",
-   "quote": "Bypass模块 / from: 领英",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
+  "signals": [
+    "表内链接 https://www.ceneo.pl/Switche_i_huby/p:ABCVISION.htm（自有标交换机）",
+    "官网：Sklep internetowy firmy ABC VISION - SYSTEMY ZABEZPIECZEŃ … setki urządzeń służących do intalacji systemu monitoringu",
+    "站内 kw：hikvision 86 / switch 60 / poe 41"
+  ],
+  "risks": [
+    "现货源 Hasivo（深圳）价格基准极低",
+    "网店体量中小；1 次跟进无回复，无具名 KP（sklep@）"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 30,
+    "why": "自有标（ABCVISION）PoE 现由 Hasivo 类代工 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴标；非管理位 HRUI STC-028GP（$24.2）"
+  },
+  "email_hook": "For the ABCVISION-branded PoE switches listed on Ceneo, we can be a second source on a Marvell L2+ platform (8-PoE + 2 SFP) plus budget unmanaged 4/8-PoE units from small lots in your packaging, CE/RoHS — which model do you reorder most often?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A 邮箱 10 封 2025→2026，无记录打开，0 回；收件 sklep@abcvision.pl；主题多为「10G Enterprise SFP Switch、Booster PoE Switch」）；Elsa 群发 BCC 已触达 2025-04-03「L3 Managed Switch」（稿内无价，第 74 批(p) 已读稿），PL-2 批次 To j.zaczek@mbs-systems.pl，0 回（第 74 批 Bcc 头核对 msg 195fba131b824d36）",
+      "type": "安防网店 + 自有标交换机（波兰，Hasivo 代工迹象）",
+      "sieve": "1（只收到群发）",
+      "stop": "10 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+      "revive": "保持季度群发到 2027-Q1；无打开即停",
+      "lane": "PL 次级重点",
+      "cadence": "季度",
+      "evidence": "gmail_digest：out 10；用户表：「MC Switch等；有haviso的商业PoE 应该是比较多从国内买；https://www.ceneo.pl/Switche_i_huby/p:ABCVIS」；研究档 risks：现货源 Hasivo（深圳）价格基准极低；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To j.zaczek@mbs-systems.pl）本户见于 2025-04-03 名单；2026-09-01 最新一轮名单已不含此地址 → 中途被剔除（退信 / 退订 / 手工）"
+    },
+    "situation": "波兰 ABC Vision（安防系统网店：报警、IP 监控、CCTV；Hikvision 86 / Dahua / Axis / Hanwha / Pulsar；Ceneo 上有 ABCVISION 自有标交换机；表内「MC / switch 等，有 Hasivo 的商业 PoE，应该比较多从国内买」「质量一般」）；表内 1 次跟进无回复。",
+    "need": "自有标（ABCVISION）PoE 现由 Hasivo 类代工 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴标；非管理位 HRUI STC-028GP（$24.2）",
+    "breakpoint": "现货源 Hasivo（深圳）价格基准极低",
+    "saga_now": {
+      "p1": "STC-28DGGPM",
+      "tier": 30,
+      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-20 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-21 $280（10G Enterprise SFP Switch）",
+      "why": "自有标（ABCVISION）PoE 现由 Hasivo 类代工 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴标；非管理位 HRUI STC-028GP（$24.2）",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "群发节奏",
+      "channel": "A 邮箱",
+      "action": "观察打开",
+      "one_question": "For the ABCVISION-branded PoE switches listed on Ceneo, we can be a second source on a Marvell L2+ platform (8-PoE + 2 SFP) plus budget unmanaged 4/8-PoE units from small lots in your packaging, CE/RoHS — which model do you reorder most often?"
+    },
+    "facts": [
+      {
+        "date": "2025-04-03",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To j.zaczek@mbs-systems.pl，PL-2 批次）",
+        "quote": "L3 Managed Switch — This is a Marvell-based L3 Managed 24 port DIN PoE Switch. 1, PoE af/at/bt, 370W budget, max 60℃ 2, Support DI/DO/RS485, USB, Alarm 3, Customizable We",
+        "why": "Elsa 箱群发 BCC 触达证据（命中地址 abcvision.pl, sklep@abcvision.pl）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+        "k": "elsa_bcc"
+      },
+      {
+        "date": "2026-09-25",
+        "dir": "去",
+        "who": "A 群发",
+        "quote": "10G Enterprise SFP Switch、Booster PoE Switch",
+        "why": "10 封 / 0 次打开 / 0 回｜首封 2025-10-21 → 末封 2026-09-25（10 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "MC Switch等；有haviso的商业PoE 应该是比较多从国内买；https://www.ceneo.pl/Switche_i_huby/p:ABCVISION.htm",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-25"
   }
- ],
- "kp": [],
- "grade_override": "C",
- "override_reason": "运营商（ISP）+ bypass 模块需求（Saga 不供）；c_sub=运营商/品类不符",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "土耳其",
-  "other": "官网 vivanet.tr，语言 tr，快照状态 ok；角色判定来源：官网文案"
- },
- "business_lines": [
-  "光纤互联网运营（土耳其）"
- ],
- "channels": {
-  "role": "光纤 ISP（运营商，bypass 模块需求）",
-  "region": "土耳其",
-  "contact": "iletisim@ugureren.com"
- },
- "signals": [
-  "官网：vivanet ile fiber internet, altyapı sorgulama, yüksek hızlı internet tarifeleri ; Vivanet’ten 10.000 Mbps (10Gbps) hızına kadar；站内 AS212193",
-  "表内：Bypass 模块 / from: 领英；KP Uğur Eren, founder"
- ],
- "risks": [
-  "运营商（ISP）采购体系；需求 bypass 模块 Saga 不供（整机 bypass 仅 SmartByte 型号）"
- ],
- "saga_fit": {
-  "p1": null,
-  "tier": 25,
-  "why": "运营商（ISP）且需求为 bypass 模块（Saga 不供）→ 改 C"
- },
- "email_hook": "（不发送：运营商/品类不供）"
 }

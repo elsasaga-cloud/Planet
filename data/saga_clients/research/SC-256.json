@@ -1,0 +1,40 @@
+{
+ "code": "SC-256",
+ "name_official": "Spearhead Group（巴基斯坦）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（spearheadgroup.pk，快照 2026-10-21）",
+ "summary": "官网自述「国防与安全解决方案提供商」，2012 年起为军队、执法、私人安保与合法狩猎行业提供训练与供应；表内兴趣为 VC 安全防护、问过 4/8 口工业 PoE 价格。军工/执法主业 → 守界，降 C。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "定位：国防与安全解决方案，服务政府/执法/私人安保/狩猎",
+   "quote": "Spearhead Group specializes in defense and security solutions for governments, law enforcement, private security, and the legal hunting industry… We Are Training & Supplying LEA's, Defense & Private Security Organizations Globally Since 2012",
+   "url": "https://spearheadgroup.pk/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "兴趣 VC 安全防护；2024-08 4/8 口工业 PoE→price",
+   "quote": "兴趣：VC 安全防护；回复：price",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "守界：国防 / 执法供应商为主业（与 SC-169、SC-001 同口径）",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照身份判断 → 守界降 C）"
+ },
+ "saga_fit": {
+  "p1": null,
+  "tier": 25,
+  "why": "军工/执法主业，不主动供货。"
+ },
+ "email_hook": "（不主动发送）"
+}

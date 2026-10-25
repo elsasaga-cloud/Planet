@@ -1,0 +1,118 @@
+{
+ "code": "SC-081",
+ "name_official": "REPOTEC Co., Ltd.（台湾）",
+ "researched_at": "2026-10-21",
+ "website_status": "（见官网快照）",
+ "summary": "台湾网络品牌 REPOTEC（MC / FS / 工业小壳 / SFP），表内「不跟了，他们那在面谈了」（SmartByte 原厂已直接面谈）→ 台系品牌 + SmartByte 直接客户 → Q-33 且不跟进。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "SmartByte（！）"
+ ],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "列于 Clients/A/同行/Smartbyte.xlsx（SmartByte 经销名单）→ Q-33",
+   "quote": "Clients/A/同行/Smartbyte.xlsx 总表",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "MC FS 工业品（有小壳类产品）SFP；不跟了 他们那在面谈了",
+   "quote": "兴趣：MC FS 工业品（有小壳类产品） SFP；备注：不跟了 他们那在面谈了",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户裁定",
+   "claim": "SmartByte 经销名单客户不碰（潜在渠道冲突）",
+   "quote": "不碰 标记一下 没必要去跟：会有潜在冲突的",
+   "url": "（对话全记录 T27-U5）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "（销售）",
+   "title": "Sales",
+   "email": "sales@repotec.com",
+   "phone": "",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": "C",
+ "override_reason": "Q-33 裁定（Simon 2026-10-21）：SmartByte 经销名单客户，潜在渠道冲突，不碰；c_sub=渠道冲突（Q-33 不碰）",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ Q-33 裁定（Simon 2026-10-21）：不碰、标记、不跟进。",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（名单识别：SmartByte 经销 → Q-33）"
+ },
+ "channels": {
+  "role": "SmartByte 经销 / 用户（渠道冲突）",
+  "region": "台湾"
+ },
+ "risks": [
+  "⛔ **Q-33 裁定（Simon 2026-10-21）：不碰**——SmartByte 经销名单客户，潜在渠道冲突；不主动发送、不跟进，仅留档防重复开发"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 20,
+  "why": "Q-33 待裁定；不主动报价。"
+ },
+ "email_hook": "（⛔ 不发送：Q-33 裁定不碰，SmartByte 经销名单客户）",
+ "signals": [
+  "Q-33 裁定：不碰（2026-10-21）"
+ ],
+ "mail_review": {
+  "as_of": "2026-10-25",
+  "binding": {
+   "level": "已发未回（无人工回复、无打开记录；A 2 封 2025-03-20→2025-04-18，共 2 封群发，0 真实回复；Elsa 单发去信 1 封（2025-02-18「10G Media Converter」→ sales@repotec.com，未见回复（Elsa 箱 Replied 标签无）））（第 74 批(e)：S/A mail_dump + Elsa 箱 in:sent 排锚扫描 2026-10-25）",
+   "type": "台系品牌 + SmartByte 直接客户（Q-33）",
+   "sieve": "—",
+   "stop": "渠",
+   "evidence": [
+    "mail_dump.py SC-081（S/A 全量）",
+    "data/gmail_e/elsa_sent_nonanchor_2026-10-25.json（Elsa 1:1 普查）"
+   ]
+  },
+  "situation": "台湾 REPOTEC（MC/FS/工业小壳/SFP 品牌；表内「不跟了，他们那在面谈了」= SmartByte 原厂直接面谈 → Q-33）",
+  "need": "Q-33：不碰",
+  "breakpoint": "SmartByte 直接客户 + 台系品牌",
+  "saga_now": {
+   "p1": null,
+   "tier": null,
+   "price": null,
+   "why": "Q-33：不碰",
+   "repeat": "无成单；不动",
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "不动：Q-33（SmartByte 直接面谈）",
+   "one_question": null
+  },
+  "facts": [
+   {
+    "date": "2025-04-18",
+    "dir": "去",
+    "who": "S/A 群发",
+    "quote": "Marvell Alleycat5 Solution, Commercial Network Switch",
+    "why": "A 2 封 2025-03-20→2025-04-18，共 2 封群发，0 真实回复｜首封 2025-03-20 → 末封 2025-04-18",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2025-02-18",
+    "dir": "out",
+    "who": "Elsa → sales@repotec.com",
+    "quote": "10G Media Converter（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+    "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
+    "k": "elsa_1to1",
+    "msg_id": "19517f6b9de255f4"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null
+ }
+}

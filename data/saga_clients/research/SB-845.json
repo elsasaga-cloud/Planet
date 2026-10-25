@@ -2,128 +2,141 @@
  "code": "SB-845",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "在线（konturm.ru，快照 2026-10-21）",
- "summary": "俄罗斯 Контур-М Kontur-M（多业务数据与电视传输网络：设备、设计、安装；SFP/FTTH/有线电视头端（EQ8096、DTC-720）；品牌 D-Link、Cisco、Huawei、Dahua、BDCOM；表内「全线产品」）；表内 1 次跟进无回复。",
- "type": "数据/有线电视网络集成兼设备商（俄罗斯）",
+ "website_status": "在线（osbornsalessolutions.com，快照 2026-10-21）",
+ "summary": "美国 Osborn Sales Solutions（制造商销售代表公司：工业网络、通信、安防；表内「网站上没啥东西 sales 公司」「可以尝试多跟进一下」；KP Kyle Desouza（Managing Partner）、William O（President））；群发 10 次无回复。",
+ "type": "制造商销售代表公司（美国，代理性质）",
  "size": "",
- "brands_seen": [
-  "D-Link",
-  "Cisco",
-  "Huawei",
-  "BDCOM",
-  "Dahua"
- ],
+ "brands_seen": [],
  "evidence": [
   {
    "kind": "官网快照",
-   "claim": "官网标题：Контур-М - мультисервисные сети передачи данных и телевидения: оборудование, проектировани；品类词 电信 / FTTH / ISP 设备 / 布线 / 线缆 / 光纤 / 媒体转换",
-   "quote": "Контур-М - мультисервисные сети передачи данных и телевидения: оборудование, проектирование и монтаж.",
-   "url": "https://konturm.ru/",
+   "claim": "官网标题：Osborn Sales Solutions",
+   "quote": "",
+   "url": "https://www.osbornsalessolutions.com/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
    "claim": "表内兴趣/备注",
-   "quote": "全线产品",
+   "quote": "Industrial Networking Communications Security",
    "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "Kontur-M 定位",
-   "quote": "Контур-М - мультисервисные сети передачи данных и телевидения: оборудование, проектирование и монтаж",
-   "url": "https://konturm.ru/",
    "date": "2026-10-21"
   },
   {
    "kind": "用户表",
-   "claim": "全线产品 BDCOM",
-   "quote": "全线产品；BDCOM",
+   "claim": "sales 公司 工业网络 通信 安防",
+   "quote": "Industrial Networking Communications Security；网站上没啥东西 sales公司；可以尝试多跟进一下",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Kyle Desouza",
+   "title": "Managing Partner",
+   "email": "sales@osbornsalessolutions.com",
+   "phone": "",
+   "source": "用户表"
+  },
+  {
+   "name": "William O",
+   "title": "President",
+   "email": "bill@osbornsalessolutions.com",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "俄罗斯",
-  "other": "官网 konturm.ru，语言 ?，快照状态 ok；角色判定来源：官网文案"
+  "hq": "美国",
+  "other": "官网 osbornsalessolutions.com，语言 en-US，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "多业务数据 / 有线电视网络设备与集成（俄罗斯）"
+  "制造商销售代表（工业网络 / 通信 / 安防）"
  ],
  "channels": {
-  "role": "数据/有线电视网络集成兼设备商（俄罗斯）",
-  "region": "俄罗斯",
-  "contact": "info@konturm.ru"
+  "role": "制造商销售代表公司（美国，代理性质）",
+  "region": "美国",
+  "contact": "sales@osbornsalessolutions.com、bill@osbornsalessolutions.com"
  },
  "signals": [
-  "官网：Контур-М - мультисервисные сети передачи данных и телевидения: оборудование, проектирование и монтаж；页面 /catalog.php?id=tehn、/catalog.php?id=firm；kw sfp 17 / ftth 5 / dahua 6；brands D-Link / Cisco / Huawei",
-  "表内：全线产品；BDCOM"
+  "表内：Industrial Networking Communications Security；网站上没啥东西 sales 公司；KP Kyle Desouza / Managing Partner；William O / President；可以尝试多跟进一下",
+  "快照：Osborn Sales Solutions（内容空）"
  ],
  "risks": [
-  "俄罗斯：结算/物流/合规风险（EAC 由客户申报）；BDCOM/D-Link 价格基准低；仅 info@"
+  "代理性质（佣金制，非采购方；合作模式待定）；10 次无回复 → 改向 Managing Partner 具名首触"
  ],
  "saga_fit": {
-  "p1": "STC-28DGGPM",
+  "p1": "STI-280GE",
   "tier": 25,
-  "why": "运营商/楼宇接入配套 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 GE + 4×10G STC-424XGGM（$132.7）；SFP/头端设备 Saga 不供"
+  "why": "代表公司（非直接采购）→ 以代理合作切入：工业 8 GE + 2 SFP 管理 STI-280GE（$48.6 @25%）、工业 8 PoE + 2 SFP STI-288GPM（$82.2）、商用 STC-28DGGPM（$84.1）"
  },
- "email_hook": "For the access switches in your multiservice data and CATV network projects, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and 24-GE + 4×10G models from small lots, CE/RoHS, EXW USD; EAC by your side — which access SKU do your projects use most alongside BDCOM and D-Link?",
+ "email_hook": "Kyle, as a rep firm covering industrial networking and security, would you consider adding a neutral-brand industrial PoE switch line (DIN-rail 8-GE/8-PoE + 2 SFP, managed versions on a Marvell platform, −40~75 °C, FCC/CE/RoHS, small-lot EXW USD) to your bag — and which territories do you cover?",
  "mail_review": {
   "binding": {
-   "level": "未触达（A 邮箱 6 封 2025→2026，无记录打开，0 回；收件 info@konturm.ru；主题多为「OEM Core Switching Solution、10G Enterprise SFP Switch」；Elsa 箱：`to:konturm.ru` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 6 / 来 0）（第 74 批(l)））",
-   "type": "数据/有线电视网络集成兼设备商（俄罗斯）",
+   "level": "未触达（A/S 邮箱 23 封 2025→2026，无记录打开，0 回；收件 bill@osbornsalessolutions.com, derek@osbornsalessolutions.com；主题多为「Managed Optical Bypass Switch、10G Enterprise SFP Switch」；Elsa 箱：`to:osbornsalessolutions.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 23 / 来 0）（第 74 批(h)））",
+   "type": "制造商销售代表公司（美国，代理性质）",
    "sieve": "1（只收到群发）",
-   "stop": "只打通用邮箱，无记录打开",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "RU 次级（Simon 2026-08 点名）",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 6；用户表：「全线产品」；研究档 risks：俄罗斯：结算/物流/合规风险（EAC 由客户申报）；BDCOM/D-Link 价格基准低；仅 info@"
+   "stop": "23 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+   "lane": "US 主攻（四主）",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 23；用户表：「Industrial Networking Communications Security」；研究档 risks：代理性质（佣金制，非采购方；合作模式待定）；10 次无回复 → 改向 Managing Partner 具名首触"
   },
-  "situation": "俄罗斯 Контур-М Kontur-M（多业务数据与电视传输网络：设备、设计、安装；SFP/FTTH/有线电视头端（EQ8096、DTC-720）；品牌 D-Link、Cisco、Huawei、Dahua、BDCOM；表内「全线产品」）；表内 1 次跟进无回复。",
-  "need": "运营商/楼宇接入配套 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 GE + 4×10G STC-424XGGM（$132.7）；SFP/头端设备 Saga 不供",
-  "breakpoint": "俄罗斯：结算/物流/合规风险（EAC 由客户申报）；BDCOM/D-Link 价格基准低；仅 info@",
+  "situation": "美国 Osborn Sales Solutions（制造商销售代表公司：工业网络、通信、安防；表内「网站上没啥东西 sales 公司」「可以尝试多跟进一下」；KP Kyle Desouza（Managing Partner）、William O（President））；群发 10 次无回复。",
+  "need": "代表公司（非直接采购）→ 以代理合作切入：工业 8 GE + 2 SFP 管理 STI-280GE（$48.6 @25%）、工业 8 PoE + 2 SFP STI-288GPM（$82.2）、商用 STC-28DGGPM（$84.1）",
+  "breakpoint": "代理性质（佣金制，非采购方；合作模式待定）；10 次无回复 → 改向 Managing Partner 具名首触",
   "saga_now": {
-   "p1": "STC-28DGGPM",
+   "p1": "STI-280GE",
    "tier": 25,
-   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-09-04 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-11-03 $280（10G Enterprise SFP Switch）",
-   "why": "运营商/楼宇接入配套 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 GE + 4×10G STC-424XGGM（$132.7）；SFP/头端设备 Saga 不供",
+   "price": "换人再触锚价 STI-280GE $46 EXW（Saga 2025 Realtek 工业线对外价 $46（非管理工业线不用档位价 ㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-13 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-01-16 $300（48 Port PoE Managed Switch）、2025-09-29 $280（10G Enterprise SFP Switch）",
+   "why": "代表公司（非直接采购）→ 以代理合作切入：工业 8 GE + 2 SFP 管理 STI-280GE（$48.6 @25%）、工业 8 PoE + 2 SFP STI-288GPM（$82.2）、商用 STC-28DGGPM（$84.1）",
    "repeat": [],
    "gaps": []
   },
   "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开",
-   "one_question": "For the access switches in your multiservice data and CATV network projects, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and 24-GE + 4×10G models from small lots, CE/RoHS, EXW USD; EAC by your side — which access SKU do your projects use most alongside BDCOM and D-Link?"
+   "when": "2027-Q1（换人后）",
+   "channel": "A 邮箱 → 具名 KP",
+   "action": "换收件人再发一封（第 75 批(w) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用）；代理条款（佣金、无库存义务）是对外承诺，Simon 发前确认）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
+   "one_question": "Kyle, as a rep firm covering industrial networking and security, would you consider adding a neutral-brand industrial PoE switch line (DIN-rail 8-GE/8-PoE + 2 SFP, managed versions on a Marvell platform, −40~75 °C, FCC/CE/RoHS, small-lot EXW USD) to your bag — and which territories do you cover? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
    {
-    "date": "2026-09-04",
+    "date": "2026-09-09",
     "dir": "去",
-    "who": "A 群发",
-    "quote": "OEM Core Switching Solution、10G Enterprise SFP Switch",
-    "why": "6 封 / 0 次打开 / 0 回｜首封 2025-11-03 → 末封 2026-09-04（6 去 / 0 来）",
+    "who": "A/S 群发",
+    "quote": "Managed Optical Bypass Switch、10G Enterprise SFP Switch",
+    "why": "23 封 / 0 次打开 / 0 回｜首封 2025-01-16 → 末封 2026-09-09（23 去 / 0 来）",
     "k": "gmail_digest"
    },
    {
     "date": "2026-10-21",
     "dir": "用户表",
     "who": "Simon",
-    "quote": "全线产品",
+    "quote": "Industrial Networking Communications Security",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-09-09",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "16 Port Industrial PoE Switch",
+    "why": "本日去信真实主题（邮箱索引 9c876dbe6b6b8064；信稿开头句引用此封；此前稿内写的「Managed Optical Bypass Switch」是线程列表首题，不是本封）",
+    "k": "9c876dbe6b6b8064"
    }
   ],
   "proof_gaps": [],
-  "draft_en": null,
+  "draft_en": {
+   "subject": "For a rep firm in industrial networking - a neutral-brand industrial switch line for the bag",
+   "body": "Hi Kyle,\n\nOver the past months you had a few product mails from us - most recently \"16 Port Industrial PoE Switch\" on 9 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nYou represent manufacturers in industrial networking and security; we build industrial switches in Shenzhen and have no US representation. The line, neutral-brand, -40 to 75 C, FCC/CE/RoHS, small lots, EXW USD, 15-day validity: DIN-rail 8 x Gigabit + 2 x SFP unmanaged - model STI-280GE - $46; 8 x Gigabit PoE+ + 2 x SFP, L2 managed, Marvell-based - STI-288GPM - $82.2; commercial 8 x PoE+ + 2 x SFP L2+ - STC-28DGGPM - $84.1. Rep terms: commission on invoiced sales in your territory, no stock obligation.\n\nOne question: which territories do you cover, and would an industrial switch line fit next to what you already carry?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+  },
   "as_of": "2026-10-24"
  }
 }

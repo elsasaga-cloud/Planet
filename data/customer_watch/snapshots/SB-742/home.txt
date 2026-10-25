@@ -1,183 +1,61 @@
-# SB-742 teslakom.com · home · https://www.teslakom.com/ · fetched 2026-10-25T07:41:18Z · HTTP 200
-Teslakom – Unique Solutions
-TR
-EN
-Bize Ulaşın
-Blog
-Çözümler
-Network
-Endüstriyel Network
-Network Güvenliği
-Veri Güvenliği
-Son Kullanıcı Güvenliği
-Danışmanlık
-Markalar
-MARKALAR
-NIAGARA NETWORKS
-FUDO
-VIPRINET
-SYCOPE
-LANTECH
-CELERWAY
-WANTASTIC
-AUKUA
-Kurumsal
-Anasayfa
-Kurumsal
-Markalar
-NIAGARA NETWORKS
-FUDO
-VIPRINET
-SYCOPE
-LANTECH
-CELERWAY
-WANTASTIC
-AUKUA
-Çözümler
-Blog
-Bize Ulaşın
-Niagara Networks
-Network görünürlük çözümleri ile kaynak izleme, yönetme
-ve güvenliğinde maliyet avantajı ve kolaylık sağlar.
-PACKET BROKER I BYPASS SWITCH I TAP
-Detaylı Bilgi
-Sycope Performans Takip
-Performansı artırmak ve IT altyapısını güvenli hale getirmek
-için gerçek zamanlı akış analizini kullanan
-bir ağ trafiği izleme ve güvenlik aracı
-Detaylı Bilgi
-Wantastic Bonding
-Kesintisiz, hızlı ve güvenli veri iletişimi
-Bonding, SD-WAN, Servis Sağlayacılığı
-Detaylı Bilgi
-FUDO PAM
-Yeni nesil ayrıcalıklı erişim/yetki yönetimi
-ile kaynaklarınızı koruma altına alın.
-ACCESS I SESSION I BEHAVIUOR I TASK
-Detaylı Bilgi
-Aukua Systems
-Hepsi bir arada Kapsamlı ve Güçlü
-Ethernet Testi, Sorun Giderme ve İzleme Sistemi
-Detaylı Bilgi
-Celerway SD-WAN
-Kritik altyapılar için sunulan yük dengeleme ve
-SD-WAN çözümleri ile esnek, mobil ve yedekli bağlantı.
-Detaylı Bilgi
-Lantech Networks
-Tamamı endüstriyel switch, router, AP ürünleri ile
-her ihtiyaca uygun çözümler üretir.
-EGM Onaylı I EN50155 I IEC 61850-3 I Layer 3 I PoE
-Detaylı Bilgi
-Viprinet Bonding
-Kesintisiz, hızlı ve güvenli veri iletişimi
-Noktadan-noktaya, mobil ve hareketli.
-Detaylı Bilgi
-MARKALAR
-ÇÖZÜMLER
-Network
-Teslakom’un sunduğu Network Çözümleri ile kurumsal ağınızın sürekli güvende, kesintisiz ve verimli olmasını sağlarsınız. Kaynaklarınızı daha etkin, daha kontrollü ve daha derinlemesine kullanarak, hem yenilikçi çözümleri sistemlerinize entegre eder, hem de maliyet avantajı yakalarsınız.
-Çözümlerimiz arasında yeni nesil SD-WAN ve Bonding çözümleri, mobil 4.5G router ve yük dengeleme çözümleri, ağınızı takip ve izlemenizi sağlayan ve performans ölçümleri yapan yazılımlar ile erişim hatlarınızın kapasitesini ve kesintisizliğini optimizasyon çözümleri bulunmaktadır.
-Endüstriyel Network
-Teslakom IP Ethernet teknolojisi üzerinde geliştirdiği geniş bilgi birikimi ve deneyimini en iyi ve en dayanıklı Endüstriyel Network ürünleriyle birleştirip size eşsiz çözümler sunuyor.
-Teslakom’un Endüstriyel Network çözümleri arasında Endüstriyel Kablosuz, Endüstriyel EN50155, Endüstriyel Layer 3, Endüstriyel IEC 61850-3 ve Endüstriyel PoE ürünleri bulunmaktadır. Bu ürünlerin uygulamala alanları arasında raylı sistemlerde iletişim çözümleri, bina otomasyon sistemleri, fabrika otomasyonları, toplu taşıma iletişim sistemleri, kara yolu iletişim çözümleri, internet servis sağlayıcısı altyapıları, su altı iletişim sistemleri, rüzgar enerjisi iletişim sistemleri, scada sistemleri vb. bulunmaktadır.
-Network Güvenliği
-Teslakom’un sunduğu Network Güvenliği çözümleri ile kurumsal ağ altyapınızda oluşabilecek yetkisiz erişim, hatalı kullanım, arıza gibi sorunlardan korumak için donanım ve yazılım temelli önleyici tedbirler alırsınız. Böylece ağınızdaki tüm kullanıcıların, cihazların, sunucuların ve yazılımların güvenli bir platformda çalışmasını sağlarsınız.
-Teslakom Network Güvenliği Çözümleri arasında ağ erişim kontrolü (NAC), yeni nesil güvenlik duvarı (NGFW), DDoS atak önleme, SSL VPN ve SSL inspection, Sandbox uygulamaları, web uygulama duvarı (WAF), URL/içerik filtreleme yer almaktadır."
-Veri Güvenliği
-Teslakom’un sunduğu Veri Güvenliği çözümleri ile kurumsal ağ altyapınızda dolaşan tüm verinin güvenliğini riske atabilecek verinin kasıtlı veya kazayla imhası, değişikliği veya ifşası tehditlerine karşı sizi koruyan teknolojilere sahip olursunuz.
-Teslakom Veri Güvenliği Çözümleri arasında veri sızıntısı önleme (DLP), veri şifreleme, veri sınıflandırma, e-posta güvenliği, güvenlik düzenleme ve müdahale otomasyonu (SOAR), ayrıcalıklı erişim yönetimi (PAM), süreç otomasyonu ve tehdit/olay yönetimi (SIEM) yazılımları yer almaktadır.
-Son Kullanıcı Güvenliği
-Teslakom’un sunduğu Kullanıcı Güvenliğini sağlayan Antivirüs yazılımları ile virüsler, kötü amaçlı yazılımlar, fidye yazılımları, casus yazılımlar ve diğerleri gibi tehditleri karşı her zaman hazırlıklı ve güvende olursunuz. İnternete bağlı olsun veya olmasın, bilgisayarlar var olduğu ve olacağı sürece, her zaman antivirüs yazılımına ihtiyaç duyulur. Antivirüs yazılımı ile her tür siber saldırı önlenemez, ancak bir bilgisayara izinsiz giriş yapılmasını önlemeye çalışırken büyük bir varlık olabilir.
-Bilgisayara yapılan her saldırı, hasara neden olmak veya değerli bilgileri çalmak anlamına gelmese de, saldırının tehlikeli olmadığı anlamına da gelmez. Tüm bu saldırı risklerine karşı Teslakom çözümleri ile güvendesiniz.
-Danışmanlık
-TESLAKOM Danışmanlık Hizmetleri global bilgi ve deneyimi, bilişim ve telekomünikasyon pazarının günlük işleyiş, kural ve koşulları ile harmanlayarak, müşterilerine detaylı analizler ve stratejik yol haritaları sunar.
-Özellikle gelişmekte olan ülkelerde edindiğimiz bilişim, telekomünikasyon, ilgili ekosistemin tüm parçalarına ilişkin deneyimleri ve dinamik vizyonumuzu; servis sağlayıcılar, kamu kuruluşları, belediyeler, üreticiler, kurumsal firmalar ve yatırımcılar gibi bilişim ve telekomünikasyon pazarıyla ilgili bilgi talep eden tüm müşterilerimiz ile paylaşmaktayız.
-HABERLER
-2 Ocak 2020
-Wantastic Bonding ile Kesintisiz Bağlantı
-WANtastic mevcut ADSL/VDSL bağlantınız 4G bağlantı ile birleştirilerek hem hızlı hem de kesintisiz bir bağlantı sunar.
-Devamını oku...
-1 Mayıs 2019
-Teslakom Niagara Networks Distribütörü
-Niagara Networks'un ağ görünürlük portföyünde Packet Broker, Bypass Switch ve Network Tap ürünleri bulunmaktadır.
-Devamını oku...
-10 Şubat 2019
-Celerway SD-WAN Çözümleri Artık Türkiye'de
-Teslakom Celerway Mobil Router Çözümleri ile Türkiye distribütörü olarak SD-WAN çözüm portföyünü genişletti.
-Devamını oku...
-Diğer Haberler
-BLOG
-29 Mart 2020
-Ayrıcalıklı Süreç Otomasyonu (PPA) Nedir?
-PPA uzman becerileri gerektiren BT ve iş süreçlerini otomatikleştiren bir platformdur.
-Devamını oku...
-7 Mart 2020
-Port Tarama Saldırısı Nedir? Nasıl Engellenir?
-Port taraması ile saldırganlar ağınızın zayıf noktaları hakkında bilgi edinir. Her açık port ağınız için bir tehdit oluşturur.
-Devamını oku...
-24 Ocak 2020
-Bulut Tabanlı NAC Güvenlik Çözümü
-Portnox CLEAR, kablolu, kablosuz ve VPN katmanlarında ağ erişim kontrolü sağlayan bulut tabanlı çözümdür.
-Devamını oku...
-23 Ocak 2020
-Neden Ayrıcalıklı Erişim Yönetimi Kullanmalısınız?
-Ayrıcalıklı Erişim Yönetimi (PAM) çözümü şifreleri ve kimlik bilgilerini koruyarak kurumunuzun en büyük varlıklarını güvende tutar.
-Devamını oku...
-23 Ocak 2020
-Network Packet Broker Nedir? Ne İşe Yarar?
-Packet Broker veri paketlerini SPAN ve TAP noktalarından gerekli güvenlik, izleme ve performans cihazlarına yönlendirir.
-Devamını oku...
-Diğer blog yazıları
-Sizin için buradayız.
-İstek ve taleplerinize en hızlı şekilde cevap alabilirsiniz.
-Demo Talebi
-Ürünlerimizin kurumsal ihtiyaçlarınızı çözmenize nasıl yardımcı olabileceğini kendiniz deneyimlemek için hemen iletişime geçin.
-Demo Talebi
-Bilgi Talebi
-Ürünlerimiz ve çözümlerimiz hakkında aklınıza gelebilecek her türlü soruyu cevaplamak ve detaylı bilgi sunmak için hazırız.
-Bilgi Talebi
-Teklif Talebi
-Satış uzmanlarımızla görüşüp ihtiyaçlarınıza uygun fiyat teklifini hazırlamamız için linke tıklayıp formu doldurunuz.
-Teklif Talebi
-Bayilik Talebi
-Siz de ürün ve çözümlerimizi kendi müşterilerinize sunmak ve iş ortağımız olmak isterseniz, hemen bizimle iletişime geçin.
-Bayilik Talebi
-MEMNUN, GÜVENDE, KESİNTİSİZ, VİZYONER
-Mükemmel Müşteri Deneyimi mottosuna sahip Teslakom’un sunduğu çözümlerin uygulama alanları KOBİ’lerden kurumsal firmalara, kamu kurumlarından servis sağlayıcılara kadar yayılmaktadır. Teslakom dinamik, uzman ve tecrübeli kadrosuyla müşterilerinin ihtiyaçlarına benzersiz ve eksiksiz çözümler sunar.
-Kobiler
-Küçük ve orta büyüklükteki işletmelerin büyüme hedeflerinin önünde birer zorluk olarak ortaya çıkan sınırlı kaynak, yetkin personel eksikliği ve karmaşık güvenlik tehditlerine karşı, maliyet-etkin, ölçeklenebilir, esnek ve geleceğe hazır ağ ve güvenlik altyapı yatırımları sunuyoruz.
-Kurumsal / Kamu
-Sürekli gelişen ve rekabetin arttığı pazarlarda, bir yandan dijital dönüşüme ayak uydurmaya çalışan, bir yandan da yeni nesil teknolojileri kurum içi sistemlere entegre etme uğraşı veren tüm Kurumsal ve Kamu müşterileri için ağ ve güvenlik çözümleri hazırlıyoruz.
-Servis Sağlayıcılar
-Son kullanıcıları olan işletmelere yönetilebilir ağ ve güvenlik hizmetleri kapsamında çözümler sunan servis sağlayıcılara farklı segmentlerdeki hedef müşterilerinin iş ihtiyaçlarına ve önceliklerine uygun şekilde ürün, hizmet ve altyapı çözümlerimizle destek oluyoruz.
-Teslakom Sertifikalar
-Özel Çözümler
-Hizmet Kataloğu
-Şirket Sunumu
-İLETİŞİM:
-İstanbul Genel Müdürlük:
-Koçman Cd. No: 54 Demirkol Plaza C Blok Kat: 2 Bağcılar, İstanbul, Türkiye
-Ankara Bölge Müdürlüğü:
-1606. Cad, No: 4/A, Cyberpark Cyperplaza A Blok, 2.Kat No: A207, 06800 Bilkent, Ankara, Türkiye
-Tel : 0312 472 99 67
-Tel: 0212 356 46 46
-Fax: 0212 216 10 58
-E-Posta: iletisim@teslakom.com
-MARKALAR:
--NIAGARA NETWORKS
--FUDO
--VIPRINET
--SYCOPE
--LANTECH
--CELERWAY
--WANTASTIC
--AUKUA
-ÇÖZÜMLER:
--Network
--Endüstriyel Network
--Network Güvenliği
--Veri Güvenliği
--Son Kullanıcı Güvenliği
--Danışmanlık
-Copyright 2020 Her Haklı Saklıdır
-web tasarım : studyocrea
+# SB-742 cctvroom.com · home · https://www.cctvroom.com/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+CCTVRoom | Secure Your Future
+0
+Skip to Content
+Your Project
+Solutions
+Services
+About
+Lets Meet
+Open Menu
+Close Menu
+Your Project
+Solutions
+Services
+About
+Lets Meet
+Open Menu
+Close Menu
+Your Project
+Solutions
+Services
+About
+Lets Meet
+CCTVRoom Help Desk
+Expert Guidance.
+Premium Solutions.
+Total Peace of Mind.
+CCTVRoom is Washington’s leading provider of high-quality video security solutions for residential, commercial, and industrial needs. With over 15 years of experience, we specialize in advanced surveillance systems that offer real-time monitoring, mobile alerts, and intelligent analytics.
+Our Services
+Residential
+Protect your home and loved ones with smart, reliable security solutions. Our advanced surveillance systems provide 24/7 self monitoring, mobile alerts, and crystal-clear footage to keep your property safe and secure.
+Learn more
+Commercial
+Safeguard your business assets and operations with tailored security solutions. From offices to retail spaces, our surveillance systems offer real-time monitoring, advanced analytics, and multi-location support for peace of mind.
+Learn more
+Industrial
+Keep large-scale facilities, warehouses, and production sites secure with robust surveillance solutions built for tough environments. Monitor operations, ensure safety compliance, and protect against unauthorized access with industrial-grade technology.
+Learn more
+Do-It-Yourself
+Take control of your security with our easy-to-install, user-friendly DIY systems. Enjoy professional-grade video surveillance without the hassle—set up, monitor, and manage everything directly from your smartphone.
+Learn more
+Schedule Your Security Consultation
+Ready to protect what matters most? Our expert team is here to help you find the perfect video security solution. Schedule an appointment today for a free consultation tailored to your needs:
+Residential : Get personalized recommendations to safeguard your home.
+Commercial : Protect your business with smart, scalable security solutions.
+Industrial : Enhance safety and security for large-scale operations.
+DIY : Learn how to set up and manage your own security system with ease.
+Let us help you secure your future with cutting-edge surveillance technology.
+Contact us today to book your appointment!
+About
+our company
+CCTVRoom is Washington’s leading provider of high-quality video security equipment and services, with over 15 years of experience in developing and improving surveillance technology. Based in downtown Tacoma, we serve clients statewide and nationwide, offering tailored security solutions for residential, commercial, industrial, and DIY needs. Our expert team is dedicated to delivering innovative, reliable, and professional-grade protection to keep your home, business, or facility secure.
+Learn more
+Copyright © 2025 CCTVRoom. All rights reserved.
+Privacy Policy | This site uses Cookies
+Visit us here.
+222 E 26th St Suite 105
+Tacoma, WA. 98421
+Get in touch with us.
+info@cctvroom.com
+(253) 683-2288

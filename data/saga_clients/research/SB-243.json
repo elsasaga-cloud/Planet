@@ -1,135 +1,258 @@
 {
- "code": "SB-243",
- "name_official": "Viva Bilgisayar（Hikvision Hatay Silver Partner，Antakya/Defne, Hatay, TR；vivabilgisayar.net · hisvisionhatay.com）",
- "researched_at": "2026-10-21",
- "website_status": "在线",
- "summary": "土耳其哈塔伊（安塔基亚）的 IT/安防服务商 Viva Bilgisayar（2000/2002 年起；1–10 人（RocketReach 4 人）；Hikvision Hatay Silver Partner、项目集成商与经销商，兼 Dahua；业务：IP 摄像集成、网络基础设施、软件/网页设计、短信服务；业主 İsmet Yavuz；Sümerler Mah. 16. Sk. No:16/3 Defne/Hatay；+90 544 649 11 42；info@vivabilgisayar.net）。ISAF 记录：要工业级交换机；WhatsApp 已加；无后续跟进。",
- "type": "",
- "size": "",
- "brands_seen": [
-  "Hikvision（Silver Partner）",
-  "Dahua"
- ],
- "evidence": [
-  {
-   "kind": "官网",
-   "claim": "公司定位",
-   "quote": "Viva Bilgisayar; yazılım geliştirme, kurumsal bilgisayar ve donanım tedariği, güvenlik sistemleri alanında Hatay ve çevresine uçtan uca hizmet veren bir teknoloji firmasıdır … IP kamera entegrasyonları, network altyapıları … 25+ yıllık sektör tecrübesi - Hikvision yetkili satıcı ve servis … Telefon Numarası 0544 649 11 42 E-Posta Adresi is_ya@hotmail.com",
-   "url": "https://vivabilgisayar.net/kurumsal/",
-   "date": "2026-07-29"
-  },
-  {
-   "kind": "官网",
-   "claim": "地址",
-   "quote": "Sümerler Mahallesi, 16. Sk. No:16/3 Defne/Hatay, Türkiye - info@vivabilgisayar.net - 0544 649 1142",
-   "url": "https://vivabilgisayar.net/index.php/iletisim/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "名录",
-   "claim": "规模与成立",
-   "quote": "VİVA BİLGİSAYAR HIKVISION HATAY SILVER PARTNER … Employees · 4 … Founded · 2000",
-   "url": "https://rocketreach.co/viva-bilgisayar-hikvision-hatay-silver-partner-profile_b7f11a0fc25dee31",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "ISAF：要工业级交换机；WhatsApp 已加",
-   "quote": "要工业级交换机 / 90 54464 91142 已加",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "İsmet Yavuz",
-   "role": "Boss / 业主（用户表 + LinkedIn）",
-   "email": "is_ya@hotmail.com（公开 + 用户表）",
-   "phone": "+90 544 649 11 42（公开，WhatsApp 已加）",
-   "source": "https://www.linkedin.com/in/ismet-yavuz-608269100/"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网核对）"
- },
- "company_facts": {
-  "legal_name": "Viva Bilgisayar Bilgisayar & Güvenlik Sistemleri",
-  "founded": "2000（RocketReach）/ 2002（官网）",
-  "hq": "Sümerler Mahallesi 16. Sk. No:16/3, Defne / Hatay（+90 544 649 11 42；info@vivabilgisayar.net）",
-  "size": "1–10（Lusha）；4（RocketReach）",
-  "other": "Hikvision Hatay Silver Partner；Dahua；Haikon 区域经销"
- },
- "business_lines": [
-  "Hikvision/Dahua CCTV 项目集成与经销",
-  "网络基础设施、IT 硬件、软件/网页/短信服务"
- ],
- "channels": {
-  "网站": "https://vivabilgisayar.net/",
-  "电话": "+90 544 649 11 42（公开）",
-  "邮箱（公开）": "info@vivabilgisayar.net / is_ya@hotmail.com",
-  "LinkedIn": "https://www.linkedin.com/in/ismet-yavuz-608269100/"
- },
- "signals": [
-  "Hikvision 项目集成商明确要工业级交换机 → 户外/工地 CCTV 柜用 DIN 8 PoE；哈塔伊灾后重建期户外监控需求"
- ],
- "risks": [
-  "微型团队、单量小；无后续跟进"
- ],
- "saga_fit": {
-  "p1": "STI-288GP",
-  "tier": 25,
-  "why": "集成商 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，−40~+75 ℃，$59.8）作 Hikvision 户外柜标配；管理型 STI-288DGGPM（$137.5）；4 口 STI-144GP（$35.5）"
- },
- "email_hook": "İsmet Bey, ISAF'ta sorduğunuz endüstriyel switch: DIN ray 8 port gigabit PoE+ + 2 SFP, −40/+75 °C, EXW 59,8 USD (yönetilebilir sürüm 137,5 USD); Hikvision saha panolarınız için ilk etapta kaç adet lazım?",
- "mail_review": {
-  "binding": {
-   "level": "轻度触达（邮件无证，WhatsApp/WeChat 已加）：用户表「要工业级交换机 / 90 54464 91142 已加」；S/A 邮箱 0 封；Elsa 箱：`to:hisvisionhatay.com OR to:vivabilgisayar.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(i)）",
-   "type": "—",
-   "sieve": "3（已加 WhatsApp，表内有往来）",
-   "stop": "仓库只有用户表一行；往来在 Simon 手机",
-   "revive": "首封邮件（A 邮箱，按 email_hook）+ WhatsApp 一句话",
-   "lane": "土耳其 非主攻",
-   "cadence": "一封",
-   "evidence": "gmail_digest：out 0；用户表：「要工业级交换机 / 90 54464 91142 已加」；研究档 risks：微型团队、单量小；无后续跟进"
-  },
-  "situation": "土耳其哈塔伊（安塔基亚）的 IT/安防服务商 Viva Bilgisayar（2000/2002 年起；1–10 人（RocketReach 4 人）；Hikvision Hatay Silver Partner、项目集成商与经销商，兼 Dahua；业务：IP 摄像集成、网络基础设施、软件/网页设计、短信服务；业主 İsmet Yavuz；Sümerler Mah. 16. Sk. No:16/3 Defne/Hatay；+90 544 649 11 42；info@vivabilgisayar.net）。ISAF 记录：要工业级交换机；WhatsApp 已加；无后续跟进。",
-  "need": "集成商 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，−40~+75 ℃，$59.8）作 Hikvision 户外柜标配；管理型 STI-288DGGPM（$137.5）；4 口 STI-144GP（$35.5）",
-  "breakpoint": "微型团队、单量小；无后续跟进",
-  "saga_now": {
-   "p1": "STI-288GP",
-   "tier": 25,
-   "price": "按主表（研究档 saga_fit）（㉕ 封顶：STI-288DGGPM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25）",
-   "why": "集成商 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，−40~+75 ℃，$59.8）作 Hikvision 户外柜标配；管理型 STI-288DGGPM（$137.5）；4 口 STI-144GP（$35.5）",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "2026-11（Simon）",
-   "channel": "A 邮箱首封 + WhatsApp（Simon）",
-   "action": "首封 + 一句话",
-   "one_question": "İsmet Bey, ISAF'ta sorduğunuz endüstriyel switch: DIN ray 8 port gigabit PoE+ + 2 SFP, −40/+75 °C, EXW 59,8 USD (yönetilebilir sürüm 137,5 USD); Hikvision saha panolarınız için ilk etapta kaç adet lazım?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "要工业级交换机 / 90 54464 91142 已加",
-    "why": "表内备注",
-    "k": "用户表"
-   }
+  "code": "SB-243",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（hfcl.com，快照 2026-10-21）",
+  "summary": "印度 HFCL（上市电信/光纤制造集团：光缆（fiber 250）、FTTH、数据中心、IO 网络品牌——24 口 L3 PoE/非 PoE 管理交换机产品页；表内「工业 FS 自己的 logo」，**有回复，回复里有详细联系方式**；KP Shantanu Rana（shantanu.kumar@）、iosales@）。",
+  "type": "印度上市电信制造集团（IO 自有标交换机，OEM 采购；有回复）",
+  "size": "",
+  "brands_seen": [
+    "Ubiquiti"
   ],
-  "proof_gaps": [
-   "WhatsApp 往来未入库"
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：HFCL - Leading Provider of Telecom and Networking Solutions；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 数据中心 / 企业 IT / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
+      "quote": "HFCL is a global leader in delivering innovative telecom and networking solutions, offering cutting-edge products and services for connectivity, communication, and digital transformation. Explore our range of solutions designed to drive bus",
+      "url": "https://www.hfcl.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "工业FS 自己的logo；回复里有详细联系方式",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "HFCL 定位与 IO 交换机",
+      "quote": "HFCL is a global leader in delivering innovative telecom and networking solutions, offering cutting-edge products and services for connectivity ; /products/detail/24-port-poe-l3-managed-switch",
+      "url": "https://www.hfcl.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "工业 FS 自己的 logo；有回复",
+      "quote": "工业FS 自己的logo；回复里有详细联系方式",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "draft_en": {
-   "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
-   "body": "İsmet Bey, ISAF'ta sorduğunuz endüstriyel switch: DIN ray 8 port gigabit PoE+ + 2 SFP, −40/+75 °C, EXW 59,8 USD (yönetilebilir sürüm 137,5 USD); Hikvision saha panolarınız için ilk etapta kaç adet lazım?"
+  "kp": [
+    {
+      "name": "Shantanu Rana",
+      "title": "（有回复，职务待核）",
+      "email": "shantanu.kumar@hfcl.com",
+      "phone": "",
+      "source": "用户表"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
   },
-  "as_of": "2026-10-24"
- }
+  "company_facts": {
+    "hq": "印度",
+    "other": "官网 hfcl.com，语言 en，快照状态 ok；角色判定来源：用户表"
+  },
+  "business_lines": [
+    "光缆 / FTTH / 数据中心 / IO 网络设备（自有品牌）"
+  ],
+  "channels": {
+    "role": "印度上市电信制造集团（IO 自有标交换机，OEM 采购；有回复）",
+    "region": "印度",
+    "contact": "shantanu.kumar@hfcl.com、iosales@hfcl.com"
+  },
+  "signals": [
+    "页面 /products/detail/24-port-poe-l3-managed-switch、/products/detail/24-port-l3-non-poe-switch、/insights/blogs/network-switches-for-bfsi-security-compliance",
+    "官网：HFCL is a global leader in delivering innovative telecom and networking solutions；kw fiber 250 / cable 192 / telecom 33",
+    "表内：回复里有详细联系方式；KP Shantanu Rana"
+  ],
+  "risks": [
+    "体量大（上市集团）：决策链长、BIS 认证与 SKD 本地化要求；仅二供/补位口径",
+    "**有回复**：详细联系方式在 Gmail 线程（s./a. 邮箱待导出核对）"
+  ],
+  "saga_fit": {
+    "p1": "STI-288GPM",
+    "tier": 30,
+    "why": "自有 IO 标工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ L3 工业 STI-448XGGGPM(L3)（$384.8）贴 IO 标；商用 24 口 L3 位 STC-424XGGPM-280W"
+  },
+  "email_hook": "Shantanu, following your reply: for the IO industrial switch line, we can supply Marvell-based DIN-rail 8-PoE + 2 SFP managed and 8-GE + 4×10G L3 units under your label from small lots (−40~75 °C, CE/RoHS; BIS/SKD route to be discussed) — which model would you evaluate first?",
+  "products_seen": [
+    {
+      "brand": "HFCL IO（自有标）",
+      "model": "24-port PoE L3 managed switch",
+      "spec": "24 口 PoE L3 管理",
+      "saga": "STC-424XGGPM-280W（商用）/ STI-448XGGGPM(L3)（工业）",
+      "url": "https://www.hfcl.com/products/detail/24-port-poe-l3-managed-switch",
+      "date": "2026-10-21"
+    }
+  ],
+  "mail_review": {
+    "binding": {
+      "level": "轻度触达→WhatsApp 线（Elsa 邮箱 6 来 5 去 2026-01-08 → 04-06：HFCL DGM Shantanu Rana 问 MII 60%，Elsa 答「SKD 起步 → CKD 深度本地化 → 软件/合规随项目推进」并附 STH100G 规格书 + 软件功能表 V2.4 + PeakNetX 性能 + CENTEC Web UI；04-05 Elsa 报工业 PoE 2 SFP + 4 PoE 非管理 120W $35/pc、附印度出货 AWB 与客户 WhatsApp 确认截图；04-06 对方要 WhatsApp，Elsa「My colleague Simon said hi on WhatsApp」→ 之后在 Simon 手机；S/A 邮箱 9 封 0 回)；Elsa 1:1 去信 3 轮 2026-04-03→2026-08-04（To 仅本户 shantanu.kumar@hfcl.com；头 msg 19fcb92717cd5e0a 核对无 Bcc，称呼「Hi, Shantanu」= 个性化逐月 1:1 名单；主题 Industrial PoE Switch、10G Enterprise SFP Switch、24 Port PoE Managed Switch；客户来过信：Elsa 回 2026-01-08 Re:「OEM Core Switching Solution」、2026-01-08 Re:「OEM Core Switching Solution」、2026-04-05 Re:「Industrial PoE Switch」、2026-04-05 Re:「Industrial PoE Switch」、2026-04-06 Re:「Industrial PoE Switch」、2026-04-06 Re:「Industrial PoE Switch」）（第 74 批(m) `from:e.sagatelecom to:` 全程 complete，直收 9 条）",
+      "type": "印度上市电信制造集团（IO 自有标交换机，OEM 采购；有回复）",
+      "sieve": "3（要价要证要 WhatsApp，但 MII 门槛未解）",
+      "stop": "2026-04-06 转 Simon WhatsApp 后邮件侧无记录；Elsa 5-11 / 8-04 仍按群发节奏发新品信",
+      "revive": "Simon 判断：MII 60% 做不到就一句话说清（不设印度组装）；能走「SKD + 印度伙伴组装」才值得继续",
+      "lane": "IN 次级（Simon 2026-08 点名）；但 HFCL 体量属「OEM 品牌商」首选序列（《背景信息》）",
+      "cadence": "季度",
+      "evidence": "gmail_digest：out 9；用户表：「工业FS 自己的logo；回复里有详细联系方式」；研究档 risks：体量大（上市集团）：决策链长、BIS 认证与 SKD 本地化要求；仅二供/补位口径；Elsa 邮箱 `data/gmail_e/text/`（Replied 线程，客户→Elsa 正文；Elsa 回复正文未入库）；Elsa 回复正文 2026-10-24 经 Gmail 连接器读取（msg 19b9ce96044d34d2 / 19d5dda75eb2844d / 19d5df7137413d07 / 19d61799606c69e0）"
+    },
+    "situation": "印度 HFCL（上市电信/光纤制造集团：光缆（fiber 250）、FTTH、数据中心、IO 网络品牌——24 口 L3 PoE/非 PoE 管理交换机产品页；表内「工业 FS 自己的 logo」，**有回复，回复里有详细联系方式**；KP Shantanu Rana（shantanu.kumar@）、iosales@）。",
+    "need": "自有 IO 标工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ L3 工业 STI-448XGGGPM(L3)（$384.8）贴 IO 标；商用 24 口 L3 位 STC-424XGGPM-280W",
+    "breakpoint": "MII 60% 本地含量（印度公共采购口径）——Saga 无印度产能；只有 SKD/伙伴组装一条路，且偏离 C1「接口层」",
+    "saga_now": {
+      "p1": "STI-288GPM",
+      "tier": 30,
+      "price": "Elsa 2026-04-05 报 $35/pc（2 SFP + 4 PoE 非管理 120W）——低于 STI-244GP 列表价 $49.5；下次按 `$49.5 USD EXW（2026-10-17 快照，15 天有效）` 或 Simon 对 HFCL 的量价另定；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-13 $65（10G media converter）、2024-11-19 $300（48 Port PoE Managed Switch）、2024-12-16 $240（24 Port Fiber Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-05-11 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2026-05-11；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-08-04 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-04；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
+      "why": "自有 IO 标工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ L3 工业 STI-448XGGGPM(L3)（$384.8）贴 IO 标；商用 24 口 L3 位 STC-424XGGPM-280W",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "2026-11（Simon 先定 MII 口径）",
+      "channel": "WhatsApp（Simon，对方 2026-04-06 要求）+ Elsa 邮箱存档",
+      "action": "首封前知悉：Elsa 已 1:1 去信 3 轮（2026-04-03→2026-08-04，客户回过信（2026-01-08、2026-01-08、2026-04-05、2026-04-05、2026-04-06、2026-04-06））（第 74 批(m)）；一句话定调",
+      "one_question": "Shantanu — on MII: SKD kits assembled by an Indian partner is the only route we can support (no Saga plant in India); which HFCL programme is this for, and what local-content percentage does that tender actually score?"
+    },
+    "facts": [
+      {
+        "date": "2023-12-13",
+        "dir": "备",
+        "who": "Saga 内部印度线索表 List_2023.12.13.xlsx（存于 Fastball/Rishi 文件夹）",
+        "quote": "名单行：「85 https://io.hfcl.com/products/industrial-access-switch 印度 谷歌 商业FS 工业FS iosales@hfcl.com」",
+        "why": "Saga 自己的线索表里对本户的一手备注（来源/兴趣点/是否已加 WhatsApp/展会现场对话）——比群发打开率更硬的证据；写下一封邮件时直接引用这里的兴趣点",
+        "k": "Drive PI 文件夹 2_印度_Rishi"
+      },
+      {
+        "date": "2025-03-03",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "Marvell Alleycat5 Solution、poe managed switch",
+        "why": "9 封 / 0 次打开 / 0 回｜首封 2024-06-17 → 末封 2025-03-03（9 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
+        "date": "2026-01-08",
+        "dir": "来",
+        "who": "Shantanu Rana（HFCL, DGM Key Strategic Accounts）",
+        "quote": "How we will handle MII 60 percent. … Pls guide how we will achieve MII and share Datasheet also.",
+        "why": "Make-in-India 60% 本地含量是 HFCL 采购的硬门槛——这不是价格问题，是「能否在印度组装/贴牌」的结构问题（C10 边界：Saga 不设厂）",
+        "k": "gmail_e"
+      },
+      {
+        "date": "2026-01-08",
+        "dir": "去",
+        "who": "Elsa",
+        "quote": "About MII 2.1 Start with SKD units for initial testing 2.2 Progress to CKD if deeper localization is needed … Are you doing your own brand or just introducing some certain models for local projects?（附 STH100G Series.pdf / Saga Software Function List_EN_V2.4.pdf / Performance of PeakNetX Platform_EN_V3.1.pdf / CENTEC WEB UI.jpg）",
+        "why": "Saga 对 MII 的正式口径 = SKD→CKD；这是对 HFCL 的承诺边界，Simon 需确认是否真能做 SKD",
+        "k": "gmail_e 19b9ce96044d34d2"
+      },
+      {
+        "date": "2026-01-08",
+        "dir": "去",
+        "who": "Elsa",
+        "quote": "We understand that MTCTE (TEC) certification is mandatory for commercial deployment in India. Typically, TEC certification is handled by the local Indian entity. From our side as the OEM, we can fully support the certification process by providing the required technical documentation, test support, and version control… To achieve MII 60%, our usual approach is: Start with SKD / Move to CKD / Gradually increase localization… 3.1 Whether you can handle import procedures for complete units, SKD, and CKD 3.2 Your current thoughts or plans regarding MII implementation",
+        "why": "Elsa 第一封（16:45）把 TEC/MTCTE 归印度实体办、Saga 出技术文件 + 版本控制——这是对 HFCL 的书面承诺边界，信稿「what we can / cannot do」要与之一致",
+        "k": "gmail_e 19b9cc89605f3b64"
+      },
+      {
+        "date": "2026-04-03",
+        "dir": "来",
+        "who": "Shantanu Rana",
+        "quote": "Manufacturing country- Price- Model number IPR- Kindly share details",
+        "why": "四件套问法 = 真实采购评估清单",
+        "k": "gmail_e"
+      },
+      {
+        "date": "2026-04-03",
+        "dir": "out",
+        "who": "Elsa → shantanu.kumar@hfcl.com",
+        "quote": "Industrial PoE Switch（Elsa 1:1 逐月名单第 1/3 轮；To 仅本户）",
+        "why": "第 74 批(m) `from:e.sagatelecom to:shantanu.kumar@hfcl.com` 全程 complete：3 轮直收；客户曾来信（见 Re: 行）",
+        "k": "elsa_1to1",
+        "msg_id": "19d52243cab611e5"
+      },
+      {
+        "date": "2026-04-05",
+        "dir": "来",
+        "who": "Shantanu Rana",
+        "quote": "if it is imported to India in latest, can we have the PO for reference and the proof of selling.",
+        "why": "要印度进口先例（Saga 有 Sundar Techno 3 张 PI、Apollo 等印度往来可作 proof，但需 Simon 决定是否出示）",
+        "k": "gmail_e"
+      },
+      {
+        "date": "2026-04-05",
+        "dir": "去",
+        "who": "Elsa",
+        "quote": "Manufacturing country: China Price: 35USD/PC industrial PoE Switch 2*Gigabit SFP+4*10/100/1000M RJ45, POE af/at, 120W, Unmanaged, Support DIP, DC44V~DC57V",
+        "why": "对 HFCL 报的是 STI-244GP 级（列表价 $49.5）→ $35 低于列表价，属老汇率/低价口径",
+        "k": "gmail_e 19d5dda75eb2844d"
+      },
+      {
+        "date": "2026-04-05",
+        "dir": "去",
+        "who": "Elsa",
+        "quote": "we have supplied this product to India recently … no formal PO … we can provide shipping document and proof of delivery（附 AWB.png / Whatsapp Talk.png）",
+        "why": "印度先例证明已给（AWB + 客户 WhatsApp 截图）",
+        "k": "gmail_e 19d5df7137413d07"
+      },
+      {
+        "date": "2026-04-06",
+        "dir": "来",
+        "who": "Shantanu Rana",
+        "quote": "Can you text me on wats app",
+        "why": "对方把渠道切到 WhatsApp → 之后仓库失明；Elsa 的回复正文未入库",
+        "k": "gmail_e"
+      },
+      {
+        "date": "2026-04-06",
+        "dir": "去",
+        "who": "Elsa",
+        "quote": "My colleague Simon said hi on WhatsApp.",
+        "why": "渠道交接点：此后进展只在 Simon 手机",
+        "k": "gmail_e 19d61799606c69e0"
+      },
+      {
+        "date": "2026-05-11",
+        "dir": "out",
+        "who": "Elsa → shantanu.kumar@hfcl.com",
+        "quote": "10G Enterprise SFP Switch（Elsa 2026 年 1:1 名单重发；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
+        "why": "本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无）",
+        "k": "elsa_1to1",
+        "msg_id": "19e15f15c32be6ea"
+      },
+      {
+        "date": "2026-08-04",
+        "dir": "out",
+        "who": "Elsa → shantanu.kumar@hfcl.com",
+        "quote": "24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 3/3 轮；To 仅本户；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f）",
+        "why": "第 74 批(m) `from:e.sagatelecom to:shantanu.kumar@hfcl.com` 全程 complete：3 轮直收；客户曾来信（见 Re: 行）",
+        "k": "elsa_1to1",
+        "msg_id": "19fcb92717cd5e0a"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "工业FS 自己的logo；回复里有详细联系方式",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [
+      "WhatsApp 之后（2026-04-06 →）的进展只在 Simon 手机",
+      "SKD/CKD 能力承诺是否得到 SmartByte/HRUI 支持未核"
+    ],
+    "draft_en": {
+      "subject": "MII / local content — what we can and cannot do",
+      "body": "Dear Shantanu,\n\nAfter our April exchange (industrial PoE at $35, AWB and delivery proof for India) the thread moved to WhatsApp with Simon. One point deserves a written answer: Make-in-India content.\n\nWhat we can do: ship SKD kits for assembly by an Indian partner and progress to CKD as volumes justify it; firmware and web GUI under HFCL branding. What we cannot do: claim a Saga plant in India or certify a local-content percentage ourselves.\n\nOne question: which HFCL programme is this for, and what local-content percentage does that tender actually score? With that number we can tell you honestly whether the SKD route gets you there.\n\nBest regards,\nElsa\nSaga Telecom - sagatele.com"
+    },
+    "as_of": "2026-10-24"
+  }
 }

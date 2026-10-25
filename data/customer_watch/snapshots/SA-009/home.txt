@@ -1,44 +1,25 @@
-# SA-009 fhn-na.com · home · https://fhn-na.com/ · fetched 2026-10-25T07:41:18Z · HTTP 200
-Home
-About
-Solutions
-News
-Contact
-Home
-About
-Solutions
-News
-Contact
-Ongoing Technology Innovations, from ideas to solutions, make FHN-NA a leader in global Telecom and Network markets
-Innovation
-Satisfied Online Experiences
-All Online - Real time experiences are enabled by our Fiber Optic network solutions
-Total Solution of Active FTTH
-Carrier class Ethernet /FTTx solutions allow multi-services in one platform.
-Total Fiber Optic Conectivity/Cable Solutions
-Complete Fiber Optic Solutions - from Active to Passive
-01
-5G+ Industrial Internet - Digital Connection
-Digitization is the key to the survival and development of enterprises. The next Year 5G+ Plan outline has clarified a
-02
-Upgrade Gigabit Fiber Network to Accelerate "Broadband"
-applications...
-The optical network is the cornerstone of information for today's core networks, and it contributes major capacity...
-03
-FHN actively explores 10G PON solutions based
-on ongoing development of ...
-FHN actively explores the business extension of 10G PON network from home scenarios to industrial scenarios...
-Solutions
-F-engine B3100 Multi-Service Access Platform
-Read More
-F-ENGINE M8416E Carrier Ethernet Multi-sVC Platform
-Read More
-F-ENGINE S2200ME-PAF Carrier Ethernet POE Switch
-Read More
-© Copyright 2022, FHN-NA.com
-Solutions
-Products
-Satisfactions
-News
-About Us
-Contact Us
+# SA-009 coptek.com.tr · home · https://coptek.com.tr/ · fetched 2026-10-25T07:41:18Z · HTTP 200
+Omurga,Layer2,Layer3 POE Switchler
+> ">
+ANA SAYFA HAKKIMIZDA ÜRÜNLER REFERANSLAR DESTEK İLETİŞİM
+2000 yılında Lenovo Grup'tan ayrılarak kurulmuş olan DCN Digital China Network(DC Yunke Networks LTD.) yüksek teknoloji Omurga, Datacenter Switch, Layer 2, Layer 3 Switch, Wireless Controller, AP ve Firewall/Gateway ürünleri üreticisidir.Tüm ürünler ortak DCNOS işletim sistemine sahip ve harware IPv6 Ready özelliğindedir. Firmamız 2010 yılından beri DCN ürünlerinin distribütörlüğünü yapmaktadır.Kısa zamanda büyük bir başarıya imza atılarak birçok proje gerçekleştirilmiş bulunmaktadır. Ortak komut sistemi/web arayüzü ve tüm protokoller standart olarak cihaz yazılımlarında mevcuttur. 2020 yılı itibariyle Türkiye'de çalışan ürün sayısı 10.000'in üzerindedir. DCN ürünleri 3 yıl garantili olup arıza oranı sıfıra yakındır. Ayrıca düşük bir bedel karşılığı garanti süresi istendiği kadar uzatılabilir. Ürünlerin kullanıldığı örnek projeleri Referanslar bölümünden görebilirsiniz.
+Koptek Bilgisayar ve İletişim Sistemleri LTD.ŞTİ.
+HAKKIMIZDA
+REFERANSLAR
+DESTEK
+İLETİŞİM
+Fuat Sarp Sokak.No:5/1 Balmumcu-İSTANBUL
++90 212-2757953
++90 212-2884336
+info@coptek.com.tr
+ÜRÜNLER
+Omurga Switch
+Data Center Switch
+PoE Switch
+Layer 3 Switch
+Layer 2 Switch
+Endüstriyel Ethernet Ürünleri
+Wireless ve AP Controller
+Fiber Ethernet
+SFP Modül
+Fiber Çevirici

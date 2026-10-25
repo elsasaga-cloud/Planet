@@ -1,0 +1,125 @@
+{
+ "code": "SB-971",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（integrated-ps.com，快照 2026-10-21）",
+ "summary": "埃及 IPS – Integrated Premium Solutions（安防与业务方案集成：CCTV、门禁、自动化、证卡打印机（Edikio/Agilia）、BENTSAI 手持喷码；自建站询盘「4V1D 1080P」；KP Ahmed）；表内未跟进。",
+ "type": "安防/业务方案集成商（埃及）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：IPS – Integrated Premium Solutions；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络",
+   "quote": "We protect your property, enhance service, improve safety & security；What We Do?；Introducing Our New Solution；Digital Signature Pad；Edikio Card Printer；Agilia Card Printer",
+   "url": "https://integrated-ps.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "4V1D 1080P / from: 自建站",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "IPS 定位",
+   "quote": "IPS – Integrated Premium Solutions ; We protect your property, enhance service, improve safety & security",
+   "url": "https://integrated-ps.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "4V1D 1080P 自建站询盘",
+   "quote": "4V1D 1080P / from: 自建站",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Ahmed",
+   "title": "（职务待核）",
+   "email": "ahmed@integrated-ps.com",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "埃及",
+  "other": "官网 integrated-ps.com，语言 en-US，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "安防 / 门禁 / 业务方案集成（埃及）"
+ ],
+ "channels": {
+  "role": "安防/业务方案集成商（埃及）",
+  "region": "埃及",
+  "contact": "ahmed@integrated-ps.com"
+ },
+ "signals": [
+  "官网：IPS – Integrated Premium Solutions ; We protect your property, enhance service, improve safety & security ; Edikio Card Printer ; BENTSAI Inkjet Printer；kw camera 33 / access control 23 / automation 25",
+  "表内：4V1D 1080P / from: 自建站；KP Ahmed"
+ ],
+ "risks": [
+  "非主攻区（T5，埃及）；询盘品类（4V1D 1080P 视频光端机）Saga 不供；未跟进过"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 25,
+  "why": "CCTV/门禁配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424DGGPM-280W（$140.1）；4V1D 视频光端机 Saga 不供"
+ },
+ "email_hook": "Ahmed, following your enquiry on our site: for the PoE switches behind your camera and access-control installations we supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ models from single units, CE/RoHS, EXW USD — which port count does your current project need?",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「4V1D 1080P / from: 自建站」；Elsa 箱：`to:integrated-ps.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(n)））",
+   "type": "安防/业务方案集成商（埃及）",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "不动（非主攻区；J5：有证据再动）",
+   "lane": "埃及 非主攻",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 0；用户表：「4V1D 1080P / from: 自建站」；研究档 risks：非主攻区（T5，埃及）；询盘品类（4V1D 1080P 视频光端机）Saga 不供；未跟进过"
+  },
+  "situation": "埃及 IPS – Integrated Premium Solutions（安防与业务方案集成：CCTV、门禁、自动化、证卡打印机（Edikio/Agilia）、BENTSAI 手持喷码；自建站询盘「4V1D 1080P」；KP Ahmed）；表内未跟进。",
+  "need": "CCTV/门禁配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424DGGPM-280W（$140.1）；4V1D 视频光端机 Saga 不供",
+  "breakpoint": "非主攻区（T5，埃及）；询盘品类（4V1D 1080P 视频光端机）Saga 不供；未跟进过",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "CCTV/门禁配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424DGGPM-280W（$140.1）；4V1D 视频光端机 Saga 不供",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "4V1D 1080P / from: 自建站",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
+}

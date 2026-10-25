@@ -1,84 +1,107 @@
 {
  "code": "SB-423",
- "name_official": "Spring Network（南非；表内名）",
+ "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "无域名（gmail；仅表内信息）",
- "summary": "南非网络承包商 Sylvanus Adejumo（表内注「可以多跟进一下」），需求 4 光 8 电工业大壳 PoE；2024 年回复「2 光 4 已经有了」「有 154 了」（手上已有同口型机），2025-10 发了 DAC 资料并邮件跟进。",
- "type": "",
+ "website_status": "在线（es-france.com，快照 2026-10-21）",
+ "summary": "法国 ES France（1963 年起增值分销：元器件、仪器、IT 与网络四大部门，样品/借测/演示；站内 ORing 工业交换机与电源 IGPS-1080-24V-I；表内「ORing 的工业 FS」）；表内 2 次跟进无回复。",
+ "type": "增值技术分销商（法国，ORing 工业 FS）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "ORing"
+ ],
  "evidence": [
   {
+   "kind": "官网快照",
+   "claim": "官网标题：ES France | Distributeur à valeur ajoutée depuis 1963 : Composants, Instrumentation, Infor；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 无线 / WiFi / 数据中心 / 企业 IT / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "Faites confiance à un spécialiste renommé en France. Contactez nos experts techniques dans ces 4 domaines : Composants, Instrumentation, Informatique et Réseaux. Echantillons, prêts, démonstrations de produits possibles.",
+   "url": "https://www.es-france.com/",
+   "date": "2026-10-21"
+  },
+  {
    "kind": "用户表",
-   "claim": "兴趣：4 光 8 工业大壳 PoE；回复：2 光 4 已经有了；4/8 口工业 PoE→有 154 了；DAC→email 也发了",
-   "quote": "兴趣：4光8工业大壳 PoE；回复：已经有了；有154了；email也发了",
+   "claim": "表内兴趣/备注",
+   "quote": "Oring的工业FS",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "ES France 增值分销",
+   "quote": "ES France | Distributeur à valeur ajoutée depuis 1963 : Composants, Instrumentation, Informatique et Réseaux",
+   "url": "https://www.es-france.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "ORing 的工业 FS",
+   "quote": "Oring的工业FS",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
  ],
- "kp": [
-  {
-   "name": "Sylvanus Adejumo",
-   "title": "（表内联系人，备注「可以多跟进一下」）",
-   "email": "adejumokojo@gmail.com",
-   "phone": "+27 73 427 3414",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
-  }
- ],
+ "kp": [],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "无域名 · 仅表内信息"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "legal_name": "（待核）",
-  "founded": "",
-  "hq": "南非（表内）",
-  "size": "小型（gmail 联系）",
-  "other": ""
+  "hq": "法国",
+  "other": "官网 es-france.com，语言 fr-fr，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "网络 / 工业以太网安装（推断）"
+  "元器件 / 仪器 / IT 与网络增值分销"
  ],
  "channels": {
-  "role": "承包商 / 安装商",
-  "region": "南非"
+  "role": "增值技术分销商（法国，ORing 工业 FS）",
+  "region": "法国",
+  "contact": "contact@es-france.com"
  },
  "signals": [
-  "明确需求 4 光 8 电工业 PoE（大壳）",
-  "已持有 2 光 4 与 154 同口型机 → 已有供应渠道，需差异化"
+  "官网：Distributeur à valeur ajoutée depuis 1963 : Composants, Instrumentation, Informatique et Réseaux ; Echantillons, prêts, démonstrations",
+  "站内 ORing / IGPS-1080-24V-I；kw ethernet 51 / fibre 31 / switch 29 / poe 25"
  ],
  "risks": [
-  "gmail 联系、公司信息不可核",
-  "南非清关 / 付款：T/T 预付"
+  "ORing（台湾）既定代理线：白牌为补充预算线",
+  "2 次跟进无回复，仅 contact@；分销部门多、决策人未知"
  ],
  "saga_fit": {
-  "p1": "STI-488GP",
-  "tier": 25,
-  "why": "4 光 8 电工业 PoE 大壳 = Saga STI-488GP（$107.6/112.1/116.6）；DAC 线缆 Saga 价目无（Q-32 配件缺口）。"
+  "p1": "STI-288GPM",
+  "tier": 20,
+  "why": "在售 ORing 工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-280GE（$46.6）作预算线"
  },
- "email_hook": "Sylvanus, you were after a 4-SFP + 8-PoE industrial unit in the larger housing — ours is DIN/wall-mount with 240W budget; shall I send the spec sheet and a 1-pc sample price?",
+ "email_hook": "Alongside the ORing industrial switches in your Réseaux department, we supply DIN-rail 8-PoE + 2 SFP managed and 8-GE + 2 SFP unmanaged units (−40~75 °C, CE/RoHS, neutral packing) from small lots as a budget line — which ORing port count do your customers order most?",
+ "products_seen": [
+  {
+   "brand": "ORing",
+   "model": "IGPS-1080-24V-I",
+   "spec": "工业电源（ORing 线）",
+   "saga": "—（Saga 不做电源）",
+   "url": "https://www.es-france.com/",
+   "date": "2026-10-21"
+  }
+ ],
  "mail_review": {
   "binding": {
-   "level": "未触达（A 邮箱 4 封 2025→2026，无记录打开，0 回；收件 adejumokojo@gmail.com；主题多为「10G Enterprise SFP Switch、Booster PoE Switch」；Elsa 箱：`to:adejumokojo@gmail.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 4 / 来 0）（第 74 批(n)））",
-   "type": "—",
-   "sieve": "1（只收到群发）",
-   "stop": "4 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "level": "未触达（A 邮箱 5 封 2025→2026，1 次记录打开，0 回；收件 contact@es-france.com；主题多为「Industrial PoE Switch、10G Enterprise SFP Switch」；Elsa 箱：`to:es-france.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 5 / 来 0）（第 74 批(k)））",
+   "type": "增值技术分销商（法国，ORing 工业 FS）",
+   "sieve": "1~2（1 次打开）",
+   "stop": "只打通用邮箱，无记录打开",
    "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "南非 非主攻",
+   "lane": "法国（欧洲全域主攻）",
    "cadence": "季度",
-   "evidence": "gmail_digest：out 4；用户表：「兴趣：4光8工业大壳 PoE；回复：已经有了；有154了；email也发了」；研究档 risks：gmail 联系、公司信息不可核"
+   "evidence": "gmail_digest：out 5，Opened 标签 1（Simon 群发追踪）；用户表：「Oring的工业FS」；研究档 risks：ORing（台湾）既定代理线：白牌为补充预算线"
   },
-  "situation": "南非网络承包商 Sylvanus Adejumo（表内注「可以多跟进一下」），需求 4 光 8 电工业大壳 PoE；2024 年回复「2 光 4 已经有了」「有 154 了」（手上已有同口型机），2025-10 发了 DAC 资料并邮件跟进。",
-  "need": "4 光 8 电工业 PoE 大壳 = Saga STI-488GP（$107.6/112.1/116.6）；DAC 线缆 Saga 价目无（Q-32 配件缺口）。",
-  "breakpoint": "gmail 联系、公司信息不可核",
+  "situation": "法国 ES France（1963 年起增值分销：元器件、仪器、IT 与网络四大部门，样品/借测/演示；站内 ORing 工业交换机与电源 IGPS-1080-24V-I；表内「ORing 的工业 FS」）；表内 2 次跟进无回复。",
+  "need": "在售 ORing 工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-280GE（$46.6）作预算线",
+  "breakpoint": "ORing（台湾）既定代理线：白牌为补充预算线",
   "saga_now": {
-   "p1": "STI-488GP",
-   "tier": 25,
-   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-01 $280（10G Enterprise SFP Switch）",
-   "why": "4 光 8 电工业 PoE 大壳 = Saga STI-488GP（$107.6/112.1/116.6）；DAC 线缆 Saga 价目无（Q-32 配件缺口）。",
+   "p1": "STI-288GPM",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-22 $280（10G Enterprise SFP Switch）",
+   "why": "在售 ORing 工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-280GE（$46.6）作预算线。已打开的主题（1/5 封有打开记录）：「Industrial PoE Switch」(2025-09-18) → 读者兴趣偏「工业」；与 P1 同类，继续",
    "repeat": [],
    "gaps": []
   },
@@ -86,29 +109,27 @@
    "when": "群发节奏",
    "channel": "A 邮箱",
    "action": "观察打开",
-   "one_question": "Sylvanus, you were after a 4-SFP + 8-PoE industrial unit in the larger housing — ours is DIN/wall-mount with 240W budget; shall I send the spec sheet and a 1-pc sample price?"
+   "one_question": "Alongside the ORing industrial switches in your Réseaux department, we supply DIN-rail 8-PoE + 2 SFP managed and 8-GE + 2 SFP unmanaged units (−40~75 °C, CE/RoHS, neutral packing) from small lots as a budget line — which ORing port count do your customers order most?"
   },
   "facts": [
    {
-    "date": "2026-02-05",
+    "date": "2026-01-29",
     "dir": "去",
     "who": "A 群发",
-    "quote": "10G Enterprise SFP Switch、Booster PoE Switch",
-    "why": "4 封 / 0 次打开 / 0 回｜首封 2025-10-01 → 末封 2026-02-05（4 去 / 0 来）",
+    "quote": "Industrial PoE Switch、10G Enterprise SFP Switch",
+    "why": "5 封 / 1 次打开 / 0 回｜首封 2025-09-18 → 末封 2026-01-29（5 去 / 0 来）",
     "k": "gmail_digest"
    },
    {
     "date": "2026-10-21",
     "dir": "用户表",
     "who": "Simon",
-    "quote": "兴趣：4光8工业大壳 PoE；回复：已经有了；有154了；email也发了",
+    "quote": "Oring的工业FS",
     "why": "表内备注",
     "k": "用户表"
    }
   ],
-  "proof_gaps": [
-   "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
-  ],
+  "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-24"
  }
