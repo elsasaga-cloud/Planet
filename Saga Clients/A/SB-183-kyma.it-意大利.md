@@ -39,7 +39,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM（8 PoE+ + 2 SFP） — 自 1994 进口 PLANET、现兼营 3onedata → 直采流程已熟；与 3onedata 同价位带但 Marvell + ERPS；锚价：STI-288GPM $78.9（20% 档）（第 72 批 2026-10-24）；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-20 $65（10G media converter）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-15 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Kyma has imported PLANET since 1994 and now also carries 3onedata, so direct sourcing from Asia is already part of how you run the business. Which industrial PoE configuration do your customers ask for most: 8-port PoE+ with 2 SFP, or the 4 SFP version? Reference: STI-288GPM at $78.9 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问） A 邮箱 → info@kyma.it（Davide Zisios） 首封前知悉：Elsa 仅 2025-02-17 单发过 1 封「16 Port Ethernet Switch」，之后没再碰他（第 74 批(m)）；一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(al) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））
+- **下一步**：2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问） A 邮箱 → info@kyma.it（Davide Zisios） 首封前知悉：Elsa 仅 2025-02-17 单发过 1 封「16 Port Ethernet Switch」，之后没再碰他（第 74 批(m)）；一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(al) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -50,12 +50,13 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：8 PoE+ + 2 SFP 或 4 SFP 版工业 PoE（二选一先问）
 - **断点 / 为什么停在这里**：—
 - **Saga 现在该推什么**：P1 **STI-288GPM（8 PoE+ + 2 SFP）**（20% 档，锚价：STI-288GPM $78.9（20% 档）（第 72 批 2026-10-24）；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-20 $65（10G media converter）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-15 $280（10G Enterprise SFP Switch））——自 1994 进口 PLANET、现兼营 3onedata → 直采流程已熟；与 3onedata 同价位带但 Marvell + ERPS
-- **下一步（具体）**：2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）　A 邮箱 → info@kyma.it（Davide Zisios）　首封前知悉：Elsa 仅 2025-02-17 单发过 1 封「16 Port Ethernet Switch」，之后没再碰他（第 74 批(m)）；一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(al) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））
+- **下一步（具体）**：2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）　A 邮箱 → info@kyma.it（Davide Zisios）　首封前知悉：Elsa 仅 2025-02-17 单发过 1 封「16 Port Ethernet Switch」，之后没再碰他（第 74 批(m)）；一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(al) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
   - 第一问（只问一个）：Kyma has imported PLANET since 1994 and now also carries 3onedata, so direct sourcing from Asia is already part of how you run the business. Which industrial PoE configuration do your customers ask for most: 8-port PoE+ with 2 SFP, or the 4 SFP version? Reference: STI-288GPM at $78.9 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2025-02-17 | out | Elsa → info@kyma.it | 16 Port Ethernet Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
+| 2026-09-16 | 去 | A 箱（Alan） | 16 Port Industrial PoE Switch | 本日去信真实主题（邮箱索引 dfebdad691c2481a；信稿开头句引用此封；此前稿内写的「Industrial PoE Switch」是线程列表首题，不是本封） | `dfebdad691c2481a` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 去信 1 轮、0 回），仓库未见原文
 
@@ -289,7 +290,7 @@ updated: 2026-10-25
 ```text
 Hello Davide,
 
-We wrote to you once in February 2025 about a 16-port Ethernet switch, and since then only general product mails - most recently "Industrial PoE Switch" on 16 September 2026 - none of which needed an answer. This one is specific.
+We wrote to you once in February 2025 about a 16-port Ethernet switch, and since then only general product mails - most recently "16 Port Industrial PoE Switch" on 16 September 2026 - none of which needed an answer. This one is specific.
 
 Kyma has imported PLANET since 1994 and now carries 3onedata, so buying industrial switches direct from Asia is already how you work. At distributor price, EXW, MOQ 1, 15-day validity, -40 to 75 C, CE/RoHS: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, L2 managed, Marvell-based - model STI-288GPM - $78.9 USD; the L2+ version with ring redundancy - STI-288DGGPM - $137.5; 8 x Gigabit PoE+ + 4 x SFP, L2+ with ring - STI-488DGGPM - $147.1. Neutral brand, English web GUI.
 

@@ -125,7 +125,7 @@
   "next_move": {
    "when": "2027-Q1（换人后）",
    "channel": "A 邮箱 → 具名 KP",
-   "action": "换收件人再发一封（第 75 批(aj) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））",
+   "action": "换收件人再发一封（第 75 批(aj) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）",
    "one_question": "Ken, for the entry models of your industrial line (8-PoE + 2 SFP, 8-PoE + 4×10G), we can be a second source on a Marvell platform from small lots, leaving your IEC 61850-3 and PTP models untouched — is a lower-cost tier something you would consider dual-sourcing? Reference: STI-288GPM at $85.5 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
@@ -144,12 +144,20 @@
     "quote": "工业控制 工业FS 自己的logo 功能比较复杂一些 接口多",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-09-10",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "16 Port Industrial PoE Switch",
+    "why": "本日去信真实主题（邮箱索引 a4462c41ccb3079f；信稿开头句引用此封；此前稿内写的「Managed Optical Bypass Switch」是线程列表首题，不是本封）",
+    "k": "a4462c41ccb3079f"
    }
   ],
   "proof_gaps": [],
   "draft_en": {
    "subject": "A lower-cost tier for the entry models of your industrial line - IEC 61850-3 and PTP untouched",
-   "body": "Hi Ken,\n\nOver the past months you had a few product mails from us - most recently \"Managed Optical Bypass Switch\" on 10 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the entry models of your industrial line only - the IEC 61850-3 and PTP models stay yours - a second source from small lots, -40 to 75 C, CE/RoHS: DCS-8GP-2GS position - DIN-rail 8 x Gigabit PoE+ + 2 x SFP, L2 managed, Marvell-based - model STI-288GPM - $85.5 USD EXW under your label (MOQ 1, 15-day validity); DAS-8GHP-4X position - 8 x Gigabit PoE+ + 4 x 10G SFP+, L2+ managed with ring redundancy - STI-488XGGPM - $178.8.\n\nOne question: is a lower-cost tier something you would consider dual-sourcing, or does every Intrising unit have to carry the full feature set?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+   "body": "Hi Ken,\n\nOver the past months you had a few product mails from us - most recently \"16 Port Industrial PoE Switch\" on 10 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the entry models of your industrial line only - the IEC 61850-3 and PTP models stay yours - a second source from small lots, -40 to 75 C, CE/RoHS: DCS-8GP-2GS position - DIN-rail 8 x Gigabit PoE+ + 2 x SFP, L2 managed, Marvell-based - model STI-288GPM - $85.5 USD EXW under your label (MOQ 1, 15-day validity); DAS-8GHP-4X position - 8 x Gigabit PoE+ + 4 x 10G SFP+, L2+ managed with ring redundancy - STI-488XGGPM - $178.8.\n\nOne question: is a lower-cost tier something you would consider dual-sourcing, or does every Intrising unit have to carry the full feature set?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
  }

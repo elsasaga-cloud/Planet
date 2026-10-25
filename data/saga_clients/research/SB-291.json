@@ -99,7 +99,7 @@
   "next_move": {
    "when": "2027-Q1（换人后）",
    "channel": "A 邮箱 → 具名 KP",
-   "action": "换收件人再发一封（第 75 批(ae) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用；KC stays on your side）；管理版明写 2 上联非 2+2；STC-228GP 为 HRUI）",
+   "action": "换收件人再发一封（第 75 批(ae) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用；KC stays on your side）；管理版明写 2 上联非 2+2；STC-228GP 为 HRUI）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）",
    "one_question": "Byron, the 2-SFP + 2-GE uplink + 8-PoE unit you asked about exists in unmanaged ($35.9) and Marvell L2+ managed ($87) versions, and can carry the INTERCOAX label from small lots; which one matches the EoC kits you ship?"
   },
   "facts": [
@@ -118,12 +118,20 @@
     "quote": "兴趣：之前联系的那个韩国买样客户… 问了2+2+8，上联2个光2个网的型号",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-09-17",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "16 Port Industrial PoE Switch",
+    "why": "本日去信真实主题（邮箱索引 1496a3a1ed5acd75；信稿开头句引用此封；此前稿内写的「Industrial PoE Switch」是线程列表首题，不是本封）",
+    "k": "1496a3a1ed5acd75"
    }
   ],
   "proof_gaps": [],
   "draft_en": {
    "subject": "The 2 + 2 + 8 unit you asked about - unmanaged exists exactly, managed is 2 SFP + 8",
-   "body": "Hi Byron,\n\nOver the past months you had a steady stream of product mails from us - most recently \"Industrial PoE Switch\" on 17 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nYou bought samples from us before and asked about a 2 x SFP + 2 x Gigabit uplink + 8 x PoE unit. Exactly that layout exists unmanaged: 8 x Gigabit PoE+ + 2 x Gigabit + 2 x SFP - model STC-228GP - $35.9 USD EXW with the INTERCOAX label (MOQ 1, 15-day validity). The managed version is 8 x Gigabit PoE+ + 2 x SFP, L2+ on a Marvell platform - STC-28DGGPM - $87.4 - two uplinks, not four, said up front. CE/RoHS; KC stays on your side.\n\nOne question: which one matches the EoC kits you ship - the unmanaged 2 + 2 + 8, or managed?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+   "body": "Hi Byron,\n\nOver the past months you had a steady stream of product mails from us - most recently \"16 Port Industrial PoE Switch\" on 17 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nYou bought samples from us before and asked about a 2 x SFP + 2 x Gigabit uplink + 8 x PoE unit. Exactly that layout exists unmanaged: 8 x Gigabit PoE+ + 2 x Gigabit + 2 x SFP - model STC-228GP - $35.9 USD EXW with the INTERCOAX label (MOQ 1, 15-day validity). The managed version is 8 x Gigabit PoE+ + 2 x SFP, L2+ on a Marvell platform - STC-28DGGPM - $87.4 - two uplinks, not four, said up front. CE/RoHS; KC stays on your side.\n\nOne question: which one matches the EoC kits you ship - the unmanaged 2 + 2 + 8, or managed?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
  }

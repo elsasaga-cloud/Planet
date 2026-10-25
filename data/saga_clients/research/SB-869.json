@@ -115,10 +115,35 @@
   "next_move": {
    "when": "不动",
    "channel": "—",
-   "action": "—",
+   "action": "—（第 76 批(c) 2026-10-25：0 事实户补时间线事实）",
    "one_question": ""
   },
-  "facts": [],
+  "facts": [
+   {
+    "date": "2024-06-19",
+    "dir": "去",
+    "who": "S 箱（Simon）",
+    "quote": "48 port managed switch",
+    "why": "首封去信（邮箱索引；去信共 43 封）",
+    "k": "59eac8f4234fa84e"
+   },
+   {
+    "date": "2026-09-09",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "16 Port Industrial PoE Switch",
+    "why": "最近一封去信（邮箱索引；去信共 43 封）",
+    "k": "81ea8a5561a68212"
+   },
+   {
+    "date": "2024-10-30",
+    "dir": "来",
+    "who": "chk999@outlook.com",
+    "quote": "Re: 10G Ethernet Web Managed Switch｜Hi, Does it have the https (not http, but https with s at the end http secure protocol) and can we store third party htt",
+    "why": "误归属：Chavan Koya = SB-761（NovaCA），回信抄送 larry@novaca.com 落到本户标签；Simon 2024-10-31 已答「HTTPS 不在功能表」。本户（tccomm.com）无人工回复",
+    "k": "5a42faf06fd8915e"
+   }
+  ],
   "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-24"

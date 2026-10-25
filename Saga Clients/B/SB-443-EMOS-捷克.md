@@ -38,7 +38,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — —；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-03 $65（10G media converter）、2024-12-06 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-09 $280（10G Enterprise SFP Switch）、2026-06-22 $16000（32 Port 400GB DC Switch）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
-- **下一步**：不动 — —
+- **下一步**：不动 — —（第 76 批(c) 2026-10-25：0 事实户补时间线事实）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -49,7 +49,13 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：—
 - **断点 / 为什么停在这里**：—
 - **Saga 现在该推什么**：P1 **—**（30% 档，—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-03 $65（10G media converter）、2024-12-06 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-09 $280（10G Enterprise SFP Switch）、2026-06-22 $16000（32 Port 400GB DC Switch））———
-- **下一步（具体）**：不动　—　—
+- **下一步（具体）**：不动　—　—（第 76 批(c) 2026-10-25：0 事实户补时间线事实）
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2024-07-11 | 去 | S 箱（Simon） | 8 port Ethernet Switch | 首封去信（邮箱索引；去信共 25 封） | `f2de04da233322a4` |
+| 2026-10-01 | 去 | A 箱（Alan） | Managed PoE Switches | 最近一封去信（邮箱索引；去信共 25 封） | `ae1ca47711d41952` |
+| 2024-12-06 | 来 | pavel.valcuha@emos.cz | Automatická odpověď: 48 Port PoE Managed Switch｜﻿Dobrý den,  jsem mimo kancelář. Vaše emaily nejsou přesměrovány a nebudou tedy zracovány.  Hello,  I'm out of the offic | 来信（邮箱索引；原文见 k） | `22e19b96edf97fa4` |
 
 ## 基本事实（事实/推断/假设分层）
 

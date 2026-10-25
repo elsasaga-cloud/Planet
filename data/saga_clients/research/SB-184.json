@@ -107,10 +107,59 @@
   "next_move": {
    "when": "不动",
    "channel": "—",
-   "action": "—",
+   "action": "—（第 76 批(c) 2026-10-25：0 事实户补时间线事实）",
    "one_question": ""
   },
-  "facts": [],
+  "facts": [
+   {
+    "date": "2024-07-04",
+    "dir": "去",
+    "who": "S 箱（Simon）",
+    "quote": "24 port poe switch",
+    "why": "首封去信（邮箱索引；去信共 27 封）",
+    "k": "455bdd68f9c0f2ef"
+   },
+   {
+    "date": "2026-08-31",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "24 Port PoE Managed Switch",
+    "why": "最近一封去信（邮箱索引；去信共 27 封）",
+    "k": "9fceab76406d21da"
+   },
+   {
+    "date": "2024-05-10",
+    "dir": "来",
+    "who": "customerservice@nellyssecurity.com",
+    "quote": "How would you rate the support you received here at Nelly's?｜##- Please type your reply above this line -##    Hi Simon,    We would love to hear from you regarding the customer sup",
+    "why": "自动工单回执 / 满意度调查（机器，不算人工回复）",
+    "k": "742436a1c91614a5"
+   },
+   {
+    "date": "2024-06-04",
+    "dir": "来",
+    "who": "customerservice@nellyssecurity.com",
+    "quote": "How would you rate the support you received here at Nelly's?｜##- Please type your reply above this line -##    Hi Simon,    We would love to hear from you regarding the customer sup",
+    "why": "自动工单回执 / 满意度调查（机器，不算人工回复）",
+    "k": "9ac616b1e77c6c7c"
+   },
+   {
+    "date": "2024-07-04",
+    "dir": "来",
+    "who": "customerservice@nellyssecurity.com",
+    "quote": "[Request received] 24 port poe switch｜##- Please type your reply above this line -##  Your request (252114) has been received and is being reviewed by our sup",
+    "why": "自动工单回执 / 满意度调查（机器，不算人工回复）",
+    "k": "a8425797c1332005"
+   },
+   {
+    "date": "2024-07-08",
+    "dir": "来",
+    "who": "customerservice@nellyssecurity.com",
+    "quote": "How would you rate the support you received here at Nelly's?｜##- Please type your reply above this line -##    Hi Simon,    We would love to hear from you regarding the customer sup",
+    "why": "自动工单回执 / 满意度调查（机器，不算人工回复）",
+    "k": "3b93d5d7d4f8b5f8"
+   }
+  ],
   "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-24"

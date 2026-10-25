@@ -111,10 +111,35 @@
   "next_move": {
    "when": "不动",
    "channel": "—",
-   "action": "—",
+   "action": "—（第 76 批(c) 2026-10-25：0 事实户补时间线事实）",
    "one_question": ""
   },
-  "facts": [],
+  "facts": [
+   {
+    "date": "2025-01-30",
+    "dir": "去",
+    "who": "S 箱（Simon）",
+    "quote": "16 Port Ethernet Switch",
+    "why": "首封去信（邮箱索引；去信共 12 封）",
+    "k": "b19a695a76d27eb0"
+   },
+   {
+    "date": "2026-02-09",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "Managed Optical Bypass Switch",
+    "why": "最近一封去信（邮箱索引；去信共 12 封）",
+    "k": "f3ea13043f51cc5d"
+   },
+   {
+    "date": "2025-01-30",
+    "dir": "来",
+    "who": "p.gottwald@enika.cz",
+    "quote": "Automatická odpověď: 16 Port Ethernet Switch｜﻿ ﻿ ﻿ ﻿﻿Dobrý den,  jsem na dovolené. Zpět budu 3.2. V urgentních případech prosím kontaktujte kolegy na svitidla@enika.",
+    "why": "来信（邮箱索引；原文见 k）",
+    "k": "e25fa84b6b9e3cb9"
+   }
+  ],
   "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-24"

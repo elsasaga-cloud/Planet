@@ -36,10 +36,10 @@ updated: 2026-10-25
 - **是谁**：S/A 邮箱 2024-05 起 20 余封；两次真互动都指向高速/数据中心：2024-05-17「Do you have 48x25G + 8x100G and 32x40/100G switches?」（Simon 答「not available… coming soon… can help design」）；2025-12-03 先说没有相关项目，Alan 追问「do you sometimes use data center switches? 100G/10G」后答「Yes, we have 100-25G projects. What is your company website?」——Alan 回「still focusing on access switches… It will be CENTEC based」，没给网站、没给 CENTEC 型号与价（而 2025-01-06 已群发过 8C48XF）。此后只有 2026-03 Product Link 与 2026-08 $170 推送。（调研 2026-10-24；表内兴趣：SFP 机架设备(类似WDM)）
 - **为什么是 B 级**：**调研后定级 B**（两次具名真互动均为 25G/100G 数据中心需求（Simon：DC 交换机客户优先）；2025-12 明说「we have 100-25G projects」后被我们一句「still focusing on access」放掉；俄罗斯为次要市场，按 B 慢慢跟进。）；自动分级 C：+0 数据中心交换机线索（Hohunet/CENTEC 线）；+2 兴趣仅 MC/SFP/配件（边缘品类）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/俄罗斯
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STH-8C48DX-HSI（48×25G + 8×100G）；STH-32C-HSI（32×100G） — 需求台账 #13：他是仓内最早（2024-05）明确要 48×25G+8×100G 的人；对俄付款问题在他回信后再谈（RMB via CN agent）｜已发资料（勿重发）：8C48XF.png(2025-01-06)、Product Link_2026Q2(2026-03-12)；2026 Q2：8C48DX $4,800 / 32C $6,000 / 2C6QX $1,200 EXW
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STH-8C48DX-HSI（48×25G + 8×100G）；STH-32C-HSI（32×100G） — 需求台账 #13：他是仓内最早（2024-05）明确要 48×25G+8×100G 的人；对俄付款问题在他回信后再谈（RMB via CN agent）｜已发资料（勿重发）：8C48XF.png(2025-01-06)、Product Link_2026Q2(2026-03-12)｜档位说明（原 tier 字段文字「集成商/项目 25%；CENTEC 底线 ≥35% 并行」移此）：集成商/项目 25%；CENTEC 底线 ≥35% 并行；2026 Q2：8C48DX $4,800 / 32C $6,000 / 2C6QX $1,200 EXW
 - **第一问（只问一个）**：Yaroslav — in May 2024 you asked for 48x25G + 8x100G and 32x100G; both exist now on our CENTEC-based line (STH-8C48DX-HSI $4,800, STH-32C-HSI $6,000 USD EXW, 2026 Q2 list). When is the 100/25G project you mentioned in December due, and how many units?
 - **最大未知**：年走量与现供应商
-- **下一步**：2026-11 A 邮箱 → yb@comtinu.ru（回 2025-12-03 原线程「Booster PoE Switch」或新主题「48x25G + 8x100G — the two models you asked for in 2024」） 一封对表信：①网站 sagatele.com（他问过没答）；②他 2024-05-17 问的两款现在的型号与 EXW 价；③只问一个问题：100/25G 项目的时间与台数
+- **下一步**：2026-11 A 邮箱 → yb@comtinu.ru（回 2025-12-03 原线程「Booster PoE Switch」或新主题「48x25G + 8x100G — the two models you asked for in 2024」） 一封对表信：①网站 sagatele.com（他问过没答）；②他 2024-05-17 问的两款现在的型号与 EXW 价；③只问一个问题：100/25G 项目的时间与台数（第 76 批(b) 2026-10-25：audit_ab 硬错误修正：tier 字段规范为数字）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -49,10 +49,10 @@ updated: 2026-10-25
 - **现状一句话**：Yaroslav 2024-05 直接问 48×25G+8×100G 和 32×100G，当时没有；2025-12 说手上有 100/25G 项目并问公司网站，Alan 回「还在专注接入交换机、将来 CENTEC」——既没给网站也没给已有的 CENTEC 型号。至今 10 个月只收到群发。
 - **对方真实需求（有据）**：25G/100G 数据中心/核心交换（48×25G+8×100G；32×100G）。
 - **断点 / 为什么停在这里**：2025-12-03 我们的回答自己把门关了；他要的东西其实 2025-01 就已在群发里（8C48XF）。
-- **Saga 现在该推什么**：P1 **STH-8C48DX-HSI（48×25G + 8×100G）；STH-32C-HSI（32×100G）**（集成商/项目 25%；CENTEC 底线 ≥35% 并行% 档，2026 Q2：8C48DX $4,800 / 32C $6,000 / 2C6QX $1,200 EXW）——需求台账 #13：他是仓内最早（2024-05）明确要 48×25G+8×100G 的人；对俄付款问题在他回信后再谈（RMB via CN agent）｜已发资料（勿重发）：8C48XF.png(2025-01-06)、Product Link_2026Q2(2026-03-12)
+- **Saga 现在该推什么**：P1 **STH-8C48DX-HSI（48×25G + 8×100G）；STH-32C-HSI（32×100G）**（25% 档，2026 Q2：8C48DX $4,800 / 32C $6,000 / 2C6QX $1,200 EXW）——需求台账 #13：他是仓内最早（2024-05）明确要 48×25G+8×100G 的人；对俄付款问题在他回信后再谈（RMB via CN agent）｜已发资料（勿重发）：8C48XF.png(2025-01-06)、Product Link_2026Q2(2026-03-12)｜档位说明（原 tier 字段文字「集成商/项目 25%；CENTEC 底线 ≥35% 并行」移此）：集成商/项目 25%；CENTEC 底线 ≥35% 并行
   - 复购/在买项：项；目；制；；；D；C； ；客；户；单；价；高
   - 做不了 / 要先核的：项；目；时；间；/；台；数；；；付；款；路；径；；；公；司；规；模
-- **下一步（具体）**：2026-11　A 邮箱 → yb@comtinu.ru（回 2025-12-03 原线程「Booster PoE Switch」或新主题「48x25G + 8x100G — the two models you asked for in 2024」）　一封对表信：①网站 sagatele.com（他问过没答）；②他 2024-05-17 问的两款现在的型号与 EXW 价；③只问一个问题：100/25G 项目的时间与台数
+- **下一步（具体）**：2026-11　A 邮箱 → yb@comtinu.ru（回 2025-12-03 原线程「Booster PoE Switch」或新主题「48x25G + 8x100G — the two models you asked for in 2024」）　一封对表信：①网站 sagatele.com（他问过没答）；②他 2024-05-17 问的两款现在的型号与 EXW 价；③只问一个问题：100/25G 项目的时间与台数（第 76 批(b) 2026-10-25：audit_ab 硬错误修正：tier 字段规范为数字）
   - 第一问（只问一个）：Yaroslav — in May 2024 you asked for 48x25G + 8x100G and 32x100G; both exist now on our CENTEC-based line (STH-8C48DX-HSI $4,800, STH-32C-HSI $6,000 USD EXW, 2026 Q2 list). When is the 100/25G project you mentioned in December due, and how many units?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |

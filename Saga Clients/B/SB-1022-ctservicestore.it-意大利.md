@@ -36,7 +36,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 在售 ONV 百兆/千兆小 PoE → 千兆 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；百兆位 HRUI STC-028GFP（$17.6）、4 口位 HRUI STC-204GP（$20.4）。已打开的主题（1/21 封有打开记录）：「OEM Core Switching Solution」(2026-01-28) → 读者兴趣偏「DC 核心/CENTEC」；与 P1 同类，继续；换人再触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-08-10 $65（10G Media Converter）、2025-10-16 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：For the PoE switches you list with your camera kits (the 8-FE and 4-GE models), we supply a neutral-brand gigabit 8-PoE + 2 SFP L2+ model plus budget 4/8-port PoE units from small lots, CE/RoHS — which size sells most for you? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 首封前知悉：Elsa 仅 2025-02-19 单发过 1 封「Mini Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(ab) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用；英文稿，不混意大利语）；HRUI 型号不写 Marvell）
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 首封前知悉：Elsa 仅 2025-02-19 单发过 1 封「Mini Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(ab) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用；英文稿，不混意大利语）；HRUI 型号不写 Marvell）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -47,7 +47,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：在售 ONV 百兆/千兆小 PoE → 千兆 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；百兆位 HRUI STC-028GFP（$17.6）、4 口位 HRUI STC-204GP（$20.4）
 - **断点 / 为什么停在这里**：个体商户（gmail 联系），采购量小
 - **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，换人再触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-08-10 $65（10G Media Converter）、2025-10-16 $280（10G Enterprise SFP Switch））——在售 ONV 百兆/千兆小 PoE → 千兆 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；百兆位 HRUI STC-028GFP（$17.6）、4 口位 HRUI STC-204GP（$20.4）。已打开的主题（1/21 封有打开记录）：「OEM Core Switching Solution」(2026-01-28) → 读者兴趣偏「DC 核心/CENTEC」；与 P1 同类，继续
-- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　首封前知悉：Elsa 仅 2025-02-19 单发过 1 封「Mini Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(ab) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用；英文稿，不混意大利语）；HRUI 型号不写 Marvell）
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　首封前知悉：Elsa 仅 2025-02-19 单发过 1 封「Mini Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(ab) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用；英文稿，不混意大利语）；HRUI 型号不写 Marvell）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
   - 第一问（只问一个）：For the PoE switches you list with your camera kits (the 8-FE and 4-GE models), we supply a neutral-brand gigabit 8-PoE + 2 SFP L2+ model plus budget 4/8-port PoE units from small lots, CE/RoHS — which size sells most for you? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -55,6 +55,7 @@ updated: 2026-10-25
 | 2025-02-19 | out | Elsa → ctservicemolise@gmail.com | Mini Industrial PoE Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 | 2026-09-16 | 去 | A/S 群发 | Industrial PoE Switch、Marvell Alleycat5 Solution | 21 封 / 1 次打开 / 0 回｜首封 2024-06-15 → 末封 2026-09-16（21 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 商业PoE ONV的 | 表内备注 | `用户表` |
+| 2026-09-16 | 去 | A 箱（Alan） | 16 Port Industrial PoE Switch | 本日去信真实主题（邮箱索引 dc64aecabef85dcf；信稿开头句引用此封；此前稿内写的「Industrial PoE Switch」是线程列表首题，不是本封） | `dc64aecabef85dcf` |
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -276,7 +277,7 @@ updated: 2026-10-25
 ```text
 Hello Gianluca,
 
-We wrote to you once in February 2025 about a mini industrial switch, and since then only general product mails - most recently "Industrial PoE Switch" on 16 September 2026 - none of which needed an answer. This one is specific.
+We wrote to you once in February 2025 about a mini industrial switch, and since then only general product mails - most recently "16 Port Industrial PoE Switch" on 16 September 2026 - none of which needed an answer. This one is specific.
 
 Next to the SW8FE2FE-100W and SW4GE1GE-65W units you list with camera kits, neutral-brand, at distributor price, EXW, MOQ 1, 15-day validity, CE/RoHS: gigabit 8 x PoE+ + 2 x SFP, L2+ managed, Marvell-based - model STC-28DGGPM - $80.7 USD; budget 8 x 10/100 PoE+ + 2 x Gigabit - STC-028GFP - $17.9; 4 x Gigabit PoE+ + 2 x Gigabit - STC-204GP - $24.2.
 

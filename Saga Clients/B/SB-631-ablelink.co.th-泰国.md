@@ -36,7 +36,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-280GE — 工业 FS（现 Oring/Witek）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、8 PoE + 2 SFP STI-288GPM（$78.9）、工业千兆 MC STI-110GE（$22.4）作白牌预算位；换人再触锚价 STI-280GE $46 EXW（Saga 2025 Realtek 工业线对外价 $46（非管理工业线不用档位价 ㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-14 $65（10G media converter）、2024-09-09 $300（48 port switch）、2024-12-17 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-07-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-15 $280（10G Enterprise SFP Switch）、2026-06-26 $16000（32 Port 400GB DC Switch）
 - **第一问（只问一个）**：Alongside the ORing and Witek lines you distribute to system integrators, we supply neutral-brand Marvell-based DIN-rail 8-GE/8-PoE + 2 SFP managed switches and gigabit MCs from small lots, CE/RoHS, EXW USD — is there a budget industrial position your SI customers ask for? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封（第 75 批(ai) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封（第 75 批(ai) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -47,13 +47,14 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：工业 FS（现 Oring/Witek）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、8 PoE + 2 SFP STI-288GPM（$78.9）、工业千兆 MC STI-110GE（$22.4）作白牌预算位
 - **断点 / 为什么停在这里**：非主攻区（T5，泰国）；多品牌分销（Oring 价格基准中等、Witek 低）；18 次无回复，仅 info@
 - **Saga 现在该推什么**：P1 **STI-280GE**（20% 档，换人再触锚价 STI-280GE $46 EXW（Saga 2025 Realtek 工业线对外价 $46（非管理工业线不用档位价 ㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-14 $65（10G media converter）、2024-09-09 $300（48 port switch）、2024-12-17 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-07-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-15 $280（10G Enterprise SFP Switch）、2026-06-26 $16000（32 Port 400GB DC Switch））——工业 FS（现 Oring/Witek）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、8 PoE + 2 SFP STI-288GPM（$78.9）、工业千兆 MC STI-110GE（$22.4）作白牌预算位
-- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封（第 75 批(ai) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封（第 75 批(ai) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
   - 第一问（只问一个）：Alongside the ORing and Witek lines you distribute to system integrators, we supply neutral-brand Marvell-based DIN-rail 8-GE/8-PoE + 2 SFP managed switches and gigabit MCs from small lots, CE/RoHS, EXW USD — is there a budget industrial position your SI customers ask for? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-09-28 | 去 | A/S 群发 | Industrial PoE Switch、24 Port PoE Managed Switch | 27 封 / 0 次打开 / 0 回｜首封 2024-06-25 → 末封 2026-09-28（27 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 好几个牌子的产品 Witek Oring MC 工业FS SFP等 | 表内备注 | `用户表` |
+| 2026-09-28 | 去 | A 箱（Alan） | Managed PoE Switches | 本日去信真实主题（邮箱索引 f122b36e6b4b44ea；信稿开头句引用此封；此前稿内写的「Industrial PoE Switch」是线程列表首题，不是本封） | `f122b36e6b4b44ea` |
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -273,7 +274,7 @@ updated: 2026-10-25
 ```text
 Hello ABLELINK team,
 
-Over the past months you had a few product mails from us - most recently "Industrial PoE Switch" on 28 September 2026 - and there was no reason to answer a mass mail. This one is specific.
+Over the past months you had a few product mails from us - most recently "Managed PoE Switches" on 28 September 2026 - and there was no reason to answer a mass mail. This one is specific.
 
 Alongside the ORing and Witek lines you distribute to system integrators, a budget industrial position, neutral-brand, at distributor price, EXW, MOQ 1, 15-day validity, -40 to 75 C, CE/RoHS: DIN-rail 8 x Gigabit + 2 x SFP, unmanaged - model STI-280GE - $46 USD; 8 x Gigabit PoE+ + 2 x SFP, L2 managed, Marvell-based - STI-288GPM - $78.9; Gigabit media converter, 1 x RJ45 + 1 x SFP slot - STI-110GE - $26.5. SFPs stay with your current source.
 

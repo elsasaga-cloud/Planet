@@ -36,7 +36,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — —｜已发资料（勿重发）：Product Link_2026Q2(2026-03-10)、Saga Feature List_7.5.x_L2+(2026-07-13)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）；换人再触锚价 STC-28DGGPM $80.7（20% 档；第 72 批 2026-10-24）；—；群发里他已看到的价（续）：2026-08-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-19 $65（10G Media Converter）、2025-10-16 $280（10G Enterprise SFP Switch）、2026-06-17 $16000（32 Port 400GB DC Switch）
 - **第一问（只问一个）**：For the switches you list across brands, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and 24-GE + 4×10G models from small lots, CE/RoHS, EXW USD; RCM by your side — which switch SKU sells most on your platform? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
-- **下一步**：2027-Q1（非主攻区；cs@ 自 2025-08 起已收群发 0 回 → 换人一问，不加频） A 邮箱 → cs@ubwh.com.au（无具名 KP；先在网店「Contact」页找采购姓名） 一问（研究档 email_hook + 价锚）（第 75 批(ah) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；RCM stays on your side；按 action「一问」写短信）
+- **下一步**：2027-Q1（非主攻区；cs@ 自 2025-08 起已收群发 0 回 → 换人一问，不加频） A 邮箱 → cs@ubwh.com.au（无具名 KP；先在网店「Contact」页找采购姓名） 一问（研究档 email_hook + 价锚）（第 75 批(ah) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；RCM stays on your side；按 action「一问」写短信）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -48,12 +48,13 @@ updated: 2026-10-25
 - **断点 / 为什么停在这里**：—
 - **Saga 现在该推什么**：P1 **—**（20% 档，换人再触锚价 STC-28DGGPM $80.7（20% 档；第 72 批 2026-10-24）；—；群发里他已看到的价（续）：2026-08-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-19 $65（10G Media Converter）、2025-10-16 $280（10G Enterprise SFP Switch）、2026-06-17 $16000（32 Port 400GB DC Switch））———｜已发资料（勿重发）：Product Link_2026Q2(2026-03-10)、Saga Feature List_7.5.x_L2+(2026-07-13)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）
   - 做不了 / 要先核的：具名联系人
-- **下一步（具体）**：2027-Q1（非主攻区；cs@ 自 2025-08 起已收群发 0 回 → 换人一问，不加频）　A 邮箱 → cs@ubwh.com.au（无具名 KP；先在网店「Contact」页找采购姓名）　一问（研究档 email_hook + 价锚）（第 75 批(ah) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；RCM stays on your side；按 action「一问」写短信）
+- **下一步（具体）**：2027-Q1（非主攻区；cs@ 自 2025-08 起已收群发 0 回 → 换人一问，不加频）　A 邮箱 → cs@ubwh.com.au（无具名 KP；先在网店「Contact」页找采购姓名）　一问（研究档 email_hook + 价锚）（第 75 批(ah) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；RCM stays on your side；按 action「一问」写短信）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
   - 第一问（只问一个）：For the switches you list across brands, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and 24-GE + 4×10G models from small lots, CE/RoHS, EXW USD; RCM by your side — which switch SKU sells most on your platform? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2025-06-20 | 来 | store@ubwh.com.au | The email address 'store@ubwh.com.au' is obsolete and no longer monitored. Please re-send your email to: cs@ubwh.com.au | 来信原文（主题「Delivery failed: Un-monitored email」；第 19 批从 gmail_a 回补，之前只有计数没有原话） | `38270940dcccfc56` |
+| 2026-08-28 | 去 | A 箱（Alan） | 24 Port PoE Managed Switch | 本日去信真实主题（邮箱索引 a5d7984695768a16；信稿开头句引用此封；此前稿内写的「Industrial PoE Switch」是线程列表首题，不是本封） | `a5d7984695768a16` |
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -248,7 +249,7 @@ updated: 2026-10-25
 ```text
 Hello,
 
-One question for whoever buys switches for UBWH: the product mails you had from us - most recently "Industrial PoE Switch" on 28 August 2026 - were general ones; is there a neutral-brand switch SKU you would list, and which sells most on your platform, 8-port PoE or 24-port?
+One question for whoever buys switches for UBWH: the product mails you had from us - most recently "24 Port PoE Managed Switch" on 28 August 2026 - were general ones; is there a neutral-brand switch SKU you would list, and which sells most on your platform, 8-port PoE or 24-port?
 
 For reference, at distributor price, EXW, MOQ 1, 15-day validity, CE/RoHS: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based - model STC-28DGGPM - $80.7 USD. RCM stays on your side.
 

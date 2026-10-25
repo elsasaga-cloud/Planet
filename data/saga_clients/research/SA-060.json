@@ -150,7 +150,7 @@
     "next_move": {
       "when": "2027-Q1（换人后）",
       "channel": "A 邮箱 → 具名 KP",
-      "action": "首封前知悉：Elsa 2025-02 已 1:1 发过「Industrial PoE Switch」给 graham@securitytec.co.uk（0 回），开头按 ㉝ 带一句「we wrote once in Feb 2025 about X, no reason you'd have replied」，别当完全陌生。 换收件人再发一封（第 75 批(al) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））",
+      "action": "首封前知悉：Elsa 2025-02 已 1:1 发过「Industrial PoE Switch」给 graham@securitytec.co.uk（0 回），开头按 ㉝ 带一句「we wrote once in Feb 2025 about X, no reason you'd have replied」，别当完全陌生。 换收件人再发一封（第 75 批(al) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）",
       "one_question": "Your NTP3-GSW0802S-MTP150 and the Marvell-based 8-port PoE+ 2-SFP managed switch are the same port layout; as a second source in Securitytec packing at EXW cost it protects your trade price against the HiLook £44 tier. Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
     },
     "facts": [
@@ -170,12 +170,20 @@
         "quote": "10G Enterprise SFP Switch、Marvell Alleycat5 Solution",
         "why": "26 封 / 1 次打开 / 0 回｜首封 2024-07-05 → 末封 2026-09-18（26 去 / 0 来）",
         "k": "gmail_digest"
+      },
+      {
+        "date": "2026-09-18",
+        "dir": "去",
+        "who": "A 箱（Alan）",
+        "quote": "16 Port Industrial PoE Switch",
+        "why": "本日去信真实主题（邮箱索引 a0f873641860f24e；信稿开头句引用此封；此前稿内写的「10G Enterprise SFP Switch」是线程列表首题，不是本封）",
+        "k": "a0f873641860f24e"
       }
     ],
     "proof_gaps": [],
     "draft_en": {
       "subject": "Your NTP3-GSW0802S-MTP150 and ours are the same layout - a second source in Securitytec packing",
-      "body": "Hi Graham,\n\nWe wrote to you once in February 2025 about an industrial PoE switch, and since then only general product mails - most recently \"10G Enterprise SFP Switch\" on 18 September 2026 - none of which needed an answer. This one is specific.\n\nYour NTP3-GSW0802S-MTP150 and our unit are the same port layout: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based - model STC-28DGGPM - $80.7 USD EXW at distributor tier (MOQ 1, 15-day validity), in Securitytec packing from small lots, CE/RoHS/UKCA. As a second source it protects your trade price against the HiLook tier around 44 pounds. For the 16/24-port positions: 16 x PoE+ + 2 x SFP unmanaged industrial - STI-21616GP - $185; 24 x PoE+ (280 W) + 4 x SFP, L2+ managed - STC-424DGGPM-280W - $134.5.\n\nOne question: which of your installers' orders is the 8-port in - the camera kits, or sold separately?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+      "body": "Hi Graham,\n\nWe wrote to you once in February 2025 about an industrial PoE switch, and since then only general product mails - most recently \"16 Port Industrial PoE Switch\" on 18 September 2026 - none of which needed an answer. This one is specific.\n\nYour NTP3-GSW0802S-MTP150 and our unit are the same port layout: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based - model STC-28DGGPM - $80.7 USD EXW at distributor tier (MOQ 1, 15-day validity), in Securitytec packing from small lots, CE/RoHS/UKCA. As a second source it protects your trade price against the HiLook tier around 44 pounds. For the 16/24-port positions: 16 x PoE+ + 2 x SFP unmanaged industrial - STI-21616GP - $185; 24 x PoE+ (280 W) + 4 x SFP, L2+ managed - STC-424DGGPM-280W - $134.5.\n\nOne question: which of your installers' orders is the 8-port in - the camera kits, or sold separately?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
     },
     "as_of": "2026-10-25"
   }

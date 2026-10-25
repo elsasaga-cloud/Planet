@@ -101,7 +101,7 @@
   "next_move": {
    "when": "2027-Q1（换人后）",
    "channel": "A 邮箱 → 具名 KP",
-   "action": "换收件人再发一封（第 75 批(ab) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用；英文稿，不混意大利语））",
+   "action": "换收件人再发一封（第 75 批(ab) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用；英文稿，不混意大利语））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）",
    "one_question": "For the Innowatt-branded industrial PoE switches, we can be a second ODM source (DIN-rail 8-PoE + 2 SFP unmanaged/managed, −40~75 °C, CE/RoHS) from small lots in your packaging, EXW USD — which model do you reorder most often? Reference: STI-288GP at $60 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
@@ -120,12 +120,20 @@
     "quote": "工业FS 中科德能的",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-09-16",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "16 Port Industrial PoE Switch",
+    "why": "本日去信真实主题（邮箱索引 3016573139791dd0；信稿开头句引用此封；此前稿内写的「Industrial PoE Switch」是线程列表首题，不是本封）",
+    "k": "3016573139791dd0"
    }
   ],
   "proof_gaps": [],
   "draft_en": {
    "subject": "A second ODM source for the Innowatt-branded industrial PoE switches",
-   "body": "Hello Innowatt team,\n\nOver the past months you had a few product mails from us - most recently \"Industrial PoE Switch\" on 16 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the Innowatt-branded industrial PoE switches, a second ODM source in your packaging from small lots, -40 to 75 C, CE/RoHS: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, unmanaged - model STI-288GP - $62.2 USD EXW with your logo (MOQ 1, 15-day validity); the same L2 managed, Marvell-based - STI-288GPM - $85.5; commercial 8 x PoE+ + 2 x SFP L2+ - STC-28DGGPM - $87.4.\n\nOne question: which model do you reorder most often from your current source - that is the one worth a side-by-side?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+   "body": "Hello Innowatt team,\n\nOver the past months you had a few product mails from us - most recently \"16 Port Industrial PoE Switch\" on 16 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the Innowatt-branded industrial PoE switches, a second ODM source in your packaging from small lots, -40 to 75 C, CE/RoHS: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, unmanaged - model STI-288GP - $62.2 USD EXW with your logo (MOQ 1, 15-day validity); the same L2 managed, Marvell-based - STI-288GPM - $85.5; commercial 8 x PoE+ + 2 x SFP L2+ - STC-28DGGPM - $87.4.\n\nOne question: which model do you reorder most often from your current source - that is the one worth a side-by-side?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
  }

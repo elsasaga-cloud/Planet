@@ -39,7 +39,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GP — 分销 20% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，$57.4）= ONV-IPS33108PF 同口型；L2+ STI-288DGGPM（$137.5）；商用 24 口 STC-424DGGPM-280W（$134.5）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-03 $65（10G media converter）；群发里他已看到的价（续）：2026-07-27 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-07-10 $220（48 port managed switch）、2025-10-13 $280（10G Enterprise SFP Switch）、2026-06-25 $16000（32 Port 400GB DC Switch）（㉕ 封顶：STI-288DGGPM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25）（㉕ ②：STC-424XGGPM-280W / STC-448XGGPM 文本价改为群发现价 $180 / $335；第 75 批 2026-10-25）
 - **第一问（只问一个）**：Hello ITK team, next to the ONV-IPS33108PF you list at ฿8,330: our same-port-type DIN-rail 8× GbE PoE+ + 2× SFP industrial switch is $57.4 EXW (L2+ managed $137.5), 3-year warranty (industrial line), neutral or ITK-branded — shall I send a sample unit for your project inquiries?
 - **最大未知**：年走量与现供应商
-- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封（第 75 批(am) 2026-10-25：英文信稿已写 `draft_en`）
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封（第 75 批(am) 2026-10-25：英文信稿已写 `draft_en`）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -50,13 +50,14 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：分销 20% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，$57.4）= ONV-IPS33108PF 同口型；L2+ STI-288DGGPM（$137.5）；商用 24 口 STC-424DGGPM-280W（$134.5）
 - **断点 / 为什么停在这里**：亚太非主攻区；16 次推送无回复（改用泰国同口型对价 + 项目询价通道）；多品牌比价
 - **Saga 现在该推什么**：P1 **STI-288GP**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-03 $65（10G media converter）；群发里他已看到的价（续）：2026-07-27 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-07-10 $220（48 port managed switch）、2025-10-13 $280（10G Enterprise SFP Switch）、2026-06-25 $16000（32 Port 400GB DC Switch）（㉕ 封顶：STI-288DGGPM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25）（㉕ ②：STC-424XGGPM-280W / STC-448XGGPM 文本价改为群发现价 $180 / $335；第 75 批 2026-10-25））——分销 20% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，$57.4）= ONV-IPS33108PF 同口型；L2+ STI-288DGGPM（$137.5）；商用 24 口 STC-424DGGPM-280W（$134.5）
-- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封（第 75 批(am) 2026-10-25：英文信稿已写 `draft_en`）
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封（第 75 批(am) 2026-10-25：英文信稿已写 `draft_en`）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
   - 第一问（只问一个）：Hello ITK team, next to the ONV-IPS33108PF you list at ฿8,330: our same-port-type DIN-rail 8× GbE PoE+ + 2× SFP industrial switch is $57.4 EXW (L2+ managed $137.5), 3-year warranty (industrial line), neutral or ITK-branded — shall I send a sample unit for your project inquiries?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-09-28 | 去 | A/S 群发 | Industrial PoE Switch、24 Port PoE Managed Switch | 25 封 / 0 次打开 / 0 回｜首封 2024-07-10 → 末封 2026-09-28（25 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 工业FS 也有一些有名的牌子 有ONV的 | 表内备注 | `用户表` |
+| 2026-09-28 | 去 | A 箱（Alan） | Managed PoE Switches | 本日去信真实主题（邮箱索引 72a73c813f816c08；信稿开头句引用此封；此前稿内写的「Industrial PoE Switch」是线程列表首题，不是本封） | `72a73c813f816c08` |
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -286,7 +287,7 @@ updated: 2026-10-25
 ```text
 Hello ITK team,
 
-Over the past months you had a few product mails from us - most recently "Industrial PoE Switch" on 28 September 2026 - and there was no reason to answer a mass mail. This one is specific.
+Over the past months you had a few product mails from us - most recently "Managed PoE Switches" on 28 September 2026 - and there was no reason to answer a mass mail. This one is specific.
 
 Next to the ONV-IPS33108PF you list at 8,330 baht, the same port type at distributor price, EXW, MOQ 1, 15-day validity, -40 to 75 C, CE/RoHS, 3-year warranty on the industrial line: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, unmanaged - model STI-288GP - $60 USD; the L2+ managed version with ring redundancy, Marvell-based (your ONV-IPS33148PFM position) - STI-288DGGPM - $137.5; commercial 24 x PoE+ (280 W) + 4 x SFP, L2+ managed - STC-424DGGPM-280W - $134.5. Neutral or ITK-branded from small lots.
 

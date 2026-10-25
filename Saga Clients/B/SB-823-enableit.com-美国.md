@@ -38,7 +38,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 替换 ONV 配套商用 PoE → STC-28DGGPM（$87.4 @30%）贴 Enable-IT 标。已打开的主题（2/29 封有打开记录）：「48 Port PoE Managed Switch」(2024-11-05)、「Industrial PoE Switch」(2025-08-14) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-02-16)、Saga Feature List_7.5.x_L2+(2026-06-26)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）；首触锚价 STC-28DGGPM $87.4 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-12-25 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-07-22 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-11-05 $300（48 Port PoE Managed Switch）、2025-10-06 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：David, for the PoE switches you bundle with the extenders (ONV today) — Marvell L2+ 8-PoE + 2-SFP under the Enable-IT label from small lots, FCC/CE (no UL); send me the ONV part number and I'll quote like-for-like. Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：2026-11 A 邮箱 → dconners@enableit.com 短信一问（email_hook）
+- **下一步**：2026-11 A 邮箱 → dconners@enableit.com 短信一问（email_hook）（第 76 批(c) 2026-10-25：一问改成问句）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -49,7 +49,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：替换 ONV 配套商用 PoE → STC-28DGGPM（$87.4 @30%）贴 Enable-IT 标。
 - **断点 / 为什么停在这里**：美国：常要求 UL 列名（Saga 无 UL，仅 FCC/CE）→ 首触即说明
 - **Saga 现在该推什么**：P1 **STC-28DGGPM**（30% 档，首触锚价 STC-28DGGPM $87.4 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-12-25 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-07-22 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-11-05 $300（48 Port PoE Managed Switch）、2025-10-06 $280（10G Enterprise SFP Switch））——替换 ONV 配套商用 PoE → STC-28DGGPM（$87.4 @30%）贴 Enable-IT 标。已打开的主题（2/29 封有打开记录）：「48 Port PoE Managed Switch」(2024-11-05)、「Industrial PoE Switch」(2025-08-14) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-02-16)、Saga Feature List_7.5.x_L2+(2026-06-26)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）
-- **下一步（具体）**：2026-11　A 邮箱 → dconners@enableit.com　短信一问（email_hook）
+- **下一步（具体）**：2026-11　A 邮箱 → dconners@enableit.com　短信一问（email_hook）（第 76 批(c) 2026-10-25：一问改成问句）
   - 第一问（只问一个）：David, for the PoE switches you bundle with the extenders (ONV today) — Marvell L2+ 8-PoE + 2-SFP under the Enable-IT label from small lots, FCC/CE (no UL); send me the ONV part number and I'll quote like-for-like. Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -279,7 +279,7 @@ Hi David,
 
 We have sent you a few mails on "Marvell Industrial Alert System" and you never had a reason to answer — fair enough. No brochure this time, just one question:
 
-For the PoE switches you bundle with the extenders (ONV today) — Marvell L2+ 8-PoE + 2-SFP under the Enable-IT label from small lots, FCC/CE (no UL); send me the ONV part number and I'll quote like-for-like.
+For the PoE switches you bundle with the extenders (ONV today) we can supply a Marvell L2+ 8-PoE + 2-SFP under the Enable-IT label from small lots, FCC/CE/RoHS (no UL). One question: which ONV part number do you bundle today? Send it and I will quote like-for-like.
 
 Reference price: 8-PoE + 2 × 1G/2.5G SFP L2+ managed switch (Marvell AC5), 120 W (STC-28DGGPM) $87.4 USD EXW, MOQ 1 pc, 15-day validity, 1-year warranty.
 

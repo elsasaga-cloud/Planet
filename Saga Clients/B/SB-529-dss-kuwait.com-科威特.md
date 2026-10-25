@@ -36,7 +36,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — 已打开的主题（2/23 封有打开记录）：「48 Port PoE Managed Switch」(2024-11-18)、「16 Port Industrial PoE Switch」(2026-09-10) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续；—；群发里他已看到的价（续）：2026-07-27 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-11-18 $300（48 Port PoE Managed Switch）、2025-10-07 $280（10G Enterprise SFP Switch）、2026-06-16 $16000（32 Port 400GB DC Switch）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
-- **下一步**：不动 — —
+- **下一步**：不动 — —（第 76 批(c) 2026-10-25：0 事实户补时间线事实）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -47,7 +47,13 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：—
 - **断点 / 为什么停在这里**：—
 - **Saga 现在该推什么**：P1 **—**（20% 档，—；群发里他已看到的价（续）：2026-07-27 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-11-18 $300（48 Port PoE Managed Switch）、2025-10-07 $280（10G Enterprise SFP Switch）、2026-06-16 $16000（32 Port 400GB DC Switch））——已打开的主题（2/23 封有打开记录）：「48 Port PoE Managed Switch」(2024-11-18)、「16 Port Industrial PoE Switch」(2026-09-10) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续
-- **下一步（具体）**：不动　—　—
+- **下一步（具体）**：不动　—　—（第 76 批(c) 2026-10-25：0 事实户补时间线事实）
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2024-07-08 | 去 | S 箱（Simon） | Passive PoE Switch | 首封去信（邮箱索引；去信共 23 封） | `ecd99befeaa14703` |
+| 2026-09-10 | 去 | A 箱（Alan） | 16 Port Industrial PoE Switch | 最近一封去信（邮箱索引；去信共 23 封） | `e316074b47782e03` |
+| 2024-08-06 | 来 | dalal@dss-kuwait.com | Automatic reply: PoE Switch｜HHello!  I am away on vacation From Aug 1st 2024 To Aug 31st 2024.  I will respond as soon as I return. For urgent matte | 自动回复/退信（机器，不算人工回复） | `eedb744221423d3a` |
 
 ## 基本事实（事实/推断/假设分层）
 

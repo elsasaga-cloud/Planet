@@ -32,13 +32,13 @@ updated: 2026-10-25
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：马来西亚的经销/集成（类型待核）；兴趣/在卖：产品线比较像
+- **是谁**：吉隆坡 ICT/门禁/CCTV 集成商 WizardsInc Sdn Bhd（Technology Park Malaysia 孵化器；CEO Raja Kumaran）：2026-08 一单 RMB 10,500 / 42 件（STI-288GPM ×2、STI-21616GP ×4、STI-21616GPM ×1 + 工业光模块 28 + 电源），PI 标「Sample Testing」= 项目前的批量样机；关系全在 WhatsApp/WeChat，A/S 邮箱 0 封；曾被留在 Elsa 群发 Bcc（成单后仍收 $170 群发稿）。（调研 2026-10-22；表内兴趣：产品线比较像）
 - **为什么是 A 级**：**调研后定级 A**（PI 包成单客户，Simon 标签 可发展 → A）；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；-6 群发批次名单；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/马来西亚
 - **历史互动**：成交/下单过；WhatsApp 已加
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-21616GP / STI-21616GPM（已测）→ 项目批量 — 刚成交、毛利好、项目型；按 2026-08 成交价（RMB）；项目批量时复核；成交价（RMB，2026-08-21）：STI-288GPM ¥550、STI-21616GP ¥1,140、STI-21616GPM ¥1,550、NDR-240-48 ¥270、工业 SFP ¥50；进价见 P20260821-01（整单毛利 18.8%，整机 16–17%）——项目批量时整机按 Marvell 25% 档重核（STI-21616GP ¥1,269 / STI-21616GPM ¥1,707），光模块可让；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-05-04 $300（48 Port PoE Managed Switch = STC-448XGGPM，Elsa 箱 1 轮 2025-05-04；现表 $335.4@20%、Drive 老表 $335——同款写 $335 要先说 2025 群发是 $300、汇率 7.2→6.7）；2025-10-06 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2025-10-06；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-09-08 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-08；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：Raja — how did the 16-port managed vs unmanaged units behave in the test ring, and when does the project batch get sized?
 - **最大未知**：年走量与现供应商
-- **下一步**：现在（距发货 ≈2 个月） WhatsApp（Simon） 先把 Raja 从 Elsa 群发 Bcc 名单剔出（2026-09-08 仍在 sofyan 锚的 Bcc，成单后还在收 $170 群发稿）（第 74 批(o)）；一句话问测试结论与项目批量
+- **下一步**：现在（距发货 ≈2 个月） WhatsApp（Simon） 先把 Raja 从 Elsa 群发 Bcc 名单剔出（2026-09-08 仍在 sofyan 锚的 Bcc，成单后还在收 $170 群发稿）（第 74 批(o)）；一句话问测试结论与项目批量（第 76 批(c) 2026-10-25：audit_ab 软项修正：补 summary）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -51,7 +51,7 @@ updated: 2026-10-25
 - **Saga 现在该推什么**：P1 **STI-21616GP / STI-21616GPM（已测）→ 项目批量**（25% 档，按 2026-08 成交价（RMB）；项目批量时复核；成交价（RMB，2026-08-21）：STI-288GPM ¥550、STI-21616GP ¥1,140、STI-21616GPM ¥1,550、NDR-240-48 ¥270、工业 SFP ¥50；进价见 P20260821-01（整单毛利 18.8%，整机 16–17%）——项目批量时整机按 Marvell 25% 档重核（STI-21616GP ¥1,269 / STI-21616GPM ¥1,707），光模块可让；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-05-04 $300（48 Port PoE Managed Switch = STC-448XGGPM，Elsa 箱 1 轮 2025-05-04；现表 $335.4@20%、Drive 老表 $335——同款写 $335 要先说 2025 群发是 $300、汇率 7.2→6.7）；2025-10-06 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2025-10-06；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-09-08 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-08；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170））——刚成交、毛利好、项目型
   - 复购/在买项：2026-08-21（唯一）
   - 做不了 / 要先核的：测试结论；项目规模与时间表；为何 RMB 结算（马来西亚客户在华有货代/公司？）
-- **下一步（具体）**：现在（距发货 ≈2 个月）　WhatsApp（Simon）　先把 Raja 从 Elsa 群发 Bcc 名单剔出（2026-09-08 仍在 sofyan 锚的 Bcc，成单后还在收 $170 群发稿）（第 74 批(o)）；一句话问测试结论与项目批量
+- **下一步（具体）**：现在（距发货 ≈2 个月）　WhatsApp（Simon）　先把 Raja 从 Elsa 群发 Bcc 名单剔出（2026-09-08 仍在 sofyan 锚的 Bcc，成单后还在收 $170 群发稿）（第 74 批(o)）；一句话问测试结论与项目批量（第 76 批(c) 2026-10-25：audit_ab 软项修正：补 summary）
   - 第一问（只问一个）：Raja — how did the 16-port managed vs unmanaged units behave in the test ring, and when does the project batch get sized?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -91,7 +91,7 @@ updated: 2026-10-25
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：已调研（2026-10-22）**　网站状态：
-- **是谁**：
+- **是谁**：吉隆坡 ICT/门禁/CCTV 集成商 WizardsInc Sdn Bhd（Technology Park Malaysia 孵化器；CEO Raja Kumaran）：2026-08 一单 RMB 10,500 / 42 件（STI-288GPM ×2、STI-21616GP ×4、STI-21616GPM ×1 + 工业光模块 28 + 电源），PI 标「Sample Testing」= 项目前的批量样机；关系全在 WhatsApp/WeChat，A/S 邮箱 0 封；曾被留在 Elsa 群发 Bcc（成单后仍收 $170 群发稿）。
 - **【PI】成交单据 STS-20260818-001（Quotation，2026-08-18）：NDR-240-48、STI-288GP、STI-G2-MD、STI-G20-SD 共 36 台，RMB 7580.0**
   > 来源：PI.zip:19 马来西亚 Raja 可发展/STS-20260818-001.xlsx（抓取 2026-08-18）
 - **【PI】成交单据 STSC20260819019（PI，2026-08-19）：NDR-240-48、STI-288GP、STI-G2-MD、STI-G20-SD 共 42 台，RMB 9090.0；采购 SmartByte RMB 5348.0**

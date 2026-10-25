@@ -36,7 +36,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-050GE — 自有标小壳工业交换机 → 工业 5 GE 非管理 STI-050GE（$18.5 @30%）、8 GE STI-080GE（$34.0）；工业 MC 位 STI-110GE（$24.3）；高标价 = 贴标毛利空间大；换人再触锚价 STI-050GE $25 EXW（最近实报 $25（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-07-11 $300（48 Port PoE Managed Switch）、2025-09-30 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：For the compact industrial Ethernet switches and gigabit fiber converters in your range, we build 5/8-port DIN-rail units and SFP media converters under your label from small lots (−40~75 °C, CE/RoHS/FCC) — which of the two would you want a sample quote on first? Reference: STI-050GE at $25 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 首封前知悉：Elsa 仅 2025-02-23 单发过 1 封「Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(u) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 首封前知悉：Elsa 仅 2025-02-23 单发过 1 封「Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(u) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -47,7 +47,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：自有标小壳工业交换机 → 工业 5 GE 非管理 STI-050GE（$18.5 @30%）、8 GE STI-080GE（$34.0）；工业 MC 位 STI-110GE（$24.3）；高标价 = 贴标毛利空间大
 - **断点 / 为什么停在这里**：串口/隔离器为主业：交换机为配套线
 - **Saga 现在该推什么**：P1 **STI-050GE**（30% 档，换人再触锚价 STI-050GE $25 EXW（最近实报 $25（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-07-11 $300（48 Port PoE Managed Switch）、2025-09-30 $280（10G Enterprise SFP Switch））——自有标小壳工业交换机 → 工业 5 GE 非管理 STI-050GE（$18.5 @30%）、8 GE STI-080GE（$34.0）；工业 MC 位 STI-110GE（$24.3）；高标价 = 贴标毛利空间大
-- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　首封前知悉：Elsa 仅 2025-02-23 单发过 1 封「Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(u) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　首封前知悉：Elsa 仅 2025-02-23 单发过 1 封「Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(u) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
   - 第一问（只问一个）：For the compact industrial Ethernet switches and gigabit fiber converters in your range, we build 5/8-port DIN-rail units and SFP media converters under your label from small lots (−40~75 °C, CE/RoHS/FCC) — which of the two would you want a sample quote on first? Reference: STI-050GE at $25 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -55,6 +55,7 @@ updated: 2026-10-25
 | 2025-02-23 | out | Elsa → sales@commfront.com | Industrial PoE Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 | 2026-09-10 | 去 | A/S 群发 | Managed Optical Bypass Switch、10G Enterprise SFP Switch | 22 封 / 0 次打开 / 0 回｜首封 2025-01-17 → 末封 2026-09-10（22 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 工业FS（小壳） 工业MC 串口 标价高 | 表内备注 | `用户表` |
+| 2026-09-10 | 去 | A 箱（Alan） | 16 Port Industrial PoE Switch | 本日去信真实主题（邮箱索引 865c6b67d614c4c9；信稿开头句引用此封；此前稿内写的「Managed Optical Bypass Switch」是线程列表首题，不是本封） | `865c6b67d614c4c9` |
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -281,7 +282,7 @@ updated: 2026-10-25
 ```text
 Hello CommFront team,
 
-Over the past months you had a few product mails from us - most recently "Managed Optical Bypass Switch" on 10 September 2026 - and there was no reason to answer a mass mail. This one is specific.
+Over the past months you had a few product mails from us - most recently "16 Port Industrial PoE Switch" on 10 September 2026 - and there was no reason to answer a mass mail. This one is specific.
 
 Serial and Modbus are yours; for the compact industrial Ethernet switches and gigabit fibre converters in the range, under the CommFront label from small lots, -40 to 75 C, CE/RoHS/FCC: DIN-rail 5 x Gigabit unmanaged, 12-36 V DC - model STI-050GE - $18.5 USD EXW (MOQ 1, 15-day validity; wide 12-58 V version $25); 8 x Gigabit - STI-080GE - $34.0; Gigabit media converter, 1 x RJ45 + 1 x SFP slot - STI-110GE - $26.5.
 

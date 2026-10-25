@@ -38,7 +38,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STC-28DGGPM — 安装商渠道 8 PoE 管理 → STC-28DGGPM（$80.7 @20%，CE/UKCA）；非管理 STC-028GP。已打开的主题（1/21 封有打开记录）：「Industrial PoE Switch」(2025-08-13) → 读者兴趣偏「工业」；与 P1 同类，继续；换人再触锚价 STC-28DGGPM $80.7 + STC-028GP $25.1 EXW（20% 档；028GP 按洪瑞 2026-09-30 进价 +20%，旧表 $24 不用；第 73 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-05 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-10 $280（10G Enterprise SFP Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-02-21 $240（24 Port Fiber Switch = STC-4168XGGCM 单 AC 稿，Elsa 箱 1 轮 2025-02-21；同款 2025-09 起群发 $280（双 AC 稿）——再提这款说 $280）
 - **第一问（只问一个）**：Shaun, for the installer trade beside TP-Link — Marvell L2+ 8-PoE + 2-SFP at $80.7 and unmanaged 8-PoE + 2 uplinks at $25.1 USD EXW, UKCA/CE marked; would a 5-pc trial carton suit the ACE price list?
 - **最大未知**：年走量与现供应商
-- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 首封前知悉：Elsa 2025-02 已 1:1 发过「24 Port Fiber Switch」给 sales@aceonline.co.uk（0 回），开头按 ㉝ 带一句「we wrote once in Feb 2025 about X, no reason you'd have replied」，别当完全陌生。 换收件人再发一封（第 75 批(y) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用）；STC-204GP/028GP/2016GP/08GE/05GE 为 HRUI，不写 Marvell）
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 首封前知悉：Elsa 2025-02 已 1:1 发过「24 Port Fiber Switch」给 sales@aceonline.co.uk（0 回），开头按 ㉝ 带一句「we wrote once in Feb 2025 about X, no reason you'd have replied」，别当完全陌生。 换收件人再发一封（第 75 批(y) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用）；STC-204GP/028GP/2016GP/08GE/05GE 为 HRUI，不写 Marvell）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-25）
 
@@ -49,7 +49,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：安装商渠道 8 PoE 管理 → STC-28DGGPM（$80.7 @20%，CE/UKCA）；非管理 STC-028GP。
 - **断点 / 为什么停在这里**：10 次群发无回复；UKCA
 - **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，换人再触锚价 STC-28DGGPM $80.7 + STC-028GP $25.1 EXW（20% 档；028GP 按洪瑞 2026-09-30 进价 +20%，旧表 $24 不用；第 73 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-05 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-10 $280（10G Enterprise SFP Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-02-21 $240（24 Port Fiber Switch = STC-4168XGGCM 单 AC 稿，Elsa 箱 1 轮 2025-02-21；同款 2025-09 起群发 $280（双 AC 稿）——再提这款说 $280））——安装商渠道 8 PoE 管理 → STC-28DGGPM（$80.7 @20%，CE/UKCA）；非管理 STC-028GP。已打开的主题（1/21 封有打开记录）：「Industrial PoE Switch」(2025-08-13) → 读者兴趣偏「工业」；与 P1 同类，继续
-- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　首封前知悉：Elsa 2025-02 已 1:1 发过「24 Port Fiber Switch」给 sales@aceonline.co.uk（0 回），开头按 ㉝ 带一句「we wrote once in Feb 2025 about X, no reason you'd have replied」，别当完全陌生。 换收件人再发一封（第 75 批(y) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用）；STC-204GP/028GP/2016GP/08GE/05GE 为 HRUI，不写 Marvell）
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　首封前知悉：Elsa 2025-02 已 1:1 发过「24 Port Fiber Switch」给 sales@aceonline.co.uk（0 回），开头按 ㉝ 带一句「we wrote once in Feb 2025 about X, no reason you'd have replied」，别当完全陌生。 换收件人再发一封（第 75 批(y) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用）；STC-204GP/028GP/2016GP/08GE/05GE 为 HRUI，不写 Marvell）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
   - 第一问（只问一个）：Shaun, for the installer trade beside TP-Link — Marvell L2+ 8-PoE + 2-SFP at $80.7 and unmanaged 8-PoE + 2 uplinks at $25.1 USD EXW, UKCA/CE marked; would a 5-pc trial carton suit the ACE price list?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -57,6 +57,7 @@ updated: 2026-10-25
 | 2025-02-21 | 去 | Elsa 1:1 去信（To sales@aceonline.co.uk） | 24 Port Fiber Switch — 24×1G SFP + 8×1G SFP/RJ45 combo + 4×10G SFP+ aggregation; Price: 240usd/pc | Elsa 箱 in:sent 按国别后缀探测（to:.de/.uk/.pl/.cz）命中：2025-02 Elsa 开箱头两周的逐户单发，无称呼；Elsa Replied 线程 0、来询未回清单 0 → 0 回；S/A digest 看不到这封 | `elsa_1to1` |
 | 2026-09-08 | 去 | A/S 群发 | Industrial PoE Switch、10G Enterprise SFP Switch | 21 封 / 1 次打开 / 0 回｜首封 2025-01-24 → 末封 2026-09-08（21 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 兴趣：商业PoE 也有tplink的 | 表内备注 | `用户表` |
+| 2026-09-08 | 去 | A 箱（Alan） | 16 Port Industrial PoE Switch | 本日去信真实主题（邮箱索引 b52f7000bb23c28f；信稿开头句引用此封；此前稿内写的「Industrial PoE Switch」是线程列表首题，不是本封） | `b52f7000bb23c28f` |
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -271,7 +272,7 @@ updated: 2026-10-25
 ```text
 Hi Shaun,
 
-We wrote to you once in February 2025 about a 24-port fibre switch, and since then only general product mails - most recently "Industrial PoE Switch" on 8 September 2026 - none of which needed an answer. This one is specific.
+We wrote to you once in February 2025 about a 24-port fibre switch, and since then only general product mails - most recently "16 Port Industrial PoE Switch" on 8 September 2026 - none of which needed an answer. This one is specific.
 
 For the installer trade beside TP-Link on the ACE price list, at distributor price, EXW, 15-day validity, UKCA/CE marked: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based - model STC-28DGGPM - $80.7 USD; unmanaged 8 x PoE+ + 2 x Gigabit uplinks - STC-028GP - $25.1. Neutral brand.
 

@@ -36,7 +36,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — 已打开的主题（1/32 封有打开记录）：「Industrial PoE Switch」(2025-08-12) → 读者兴趣偏「工业」；与 P1 同类，继续；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-06-25 $65（10G fiber media converter）、2024-11-22 $300（48 Port PoE Managed Switch）、2024-12-23 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-09-04 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-30 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：官网当前状态异常（域名不可达（DNS/连接失败））——公司是否仍在运营待核
-- **下一步**：不动 — —
+- **下一步**：不动 — —（第 76 批(c) 2026-10-25：0 事实户补时间线事实）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -47,7 +47,16 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：—
 - **断点 / 为什么停在这里**：—
 - **Saga 现在该推什么**：P1 **—**（20% 档，—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-06-25 $65（10G fiber media converter）、2024-11-22 $300（48 Port PoE Managed Switch）、2024-12-23 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-09-04 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-30 $280（10G Enterprise SFP Switch））——已打开的主题（1/32 封有打开记录）：「Industrial PoE Switch」(2025-08-12) → 读者兴趣偏「工业」；与 P1 同类，继续
-- **下一步（具体）**：不动　—　—
+- **下一步（具体）**：不动　—　—（第 76 批(c) 2026-10-25：0 事实户补时间线事实）
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2024-06-25 | 去 | S 箱（Simon） | 10G fiber media converter | 首封去信（邮箱索引；去信共 32 封） | `75736e8b4d9ebc48` |
+| 2026-09-04 | 去 | A 箱（Alan） | 24 Port PoE Managed Switch | 最近一封去信（邮箱索引；去信共 32 封） | `44647e08d8340ed5` |
+| 2024-04-29 | 来 | sales@ksm.com.au | Thank you for your email, please select from one of the options below?｜In order to best service your inquiry, please make a selection:   For immediate attention please call reception: 02 8003 | 自动分流回复（「please select from one of the options」，机器） | `20a1ffdbfe080423` |
+| 2024-05-23 | 来 | sales@ksm.com.au | Thank you for your email, please select from one of the options below?｜In order to best service your inquiry, please make a selection:   For immediate attention please call reception: 02 8003 | 自动分流回复（「please select from one of the options」，机器） | `8c52c7e804df5e5b` |
+| 2024-06-25 | 来 | sales@ksm.com.au | Thank you for your email, please select from one of the options below?｜In order to best service your inquiry, please make a selection:   For immediate attention please call reception: 02 8003 | 自动分流回复（「please select from one of the options」，机器） | `c09ebf5a9eef70eb` |
+| 2024-07-19 | 来 | sales@ksm.com.au | Thank you for your email, please select from one of the options below?｜In order to best service your inquiry, please make a selection:   For immediate attention please call reception: 02 8003 | 自动分流回复（「please select from one of the options」，机器） | `44c06ef904f344a1` |
 
 ## 基本事实（事实/推断/假设分层）
 

@@ -130,7 +130,7 @@
   "next_move": {
    "when": "2027-Q1（换人后）",
    "channel": "A 邮箱 → 具名 KP",
-   "action": "换收件人再发一封（第 75 批(w) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））",
+   "action": "换收件人再发一封（第 75 批(w) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）",
    "one_question": "Richard, for the EISW-series industrial switches you sell alongside your cable lines, we can supply gigabit DIN-rail 5/8/16-port unmanaged units (−40~75 °C, 12–57 V dual input, FCC/CE/RoHS) under your label from small lots — would a gigabit upgrade of the 8/16-port models fit your range? Reference: STI-080GE at $32.5 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
@@ -149,12 +149,20 @@
     "quote": "5/8/16电口工业FS 周边产品",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-01",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "Managed PoE Switches",
+    "why": "本日去信真实主题（邮箱索引 23406378bf11be3e；信稿开头句引用此封；此前稿内写的「90W PoE Managed Switch」是线程列表首题，不是本封）",
+    "k": "23406378bf11be3e"
    }
   ],
   "proof_gaps": [],
   "draft_en": {
    "subject": "A gigabit upgrade for the EISW-series switches - under your label",
-   "body": "Hi Richard,\n\nOver the past months you had a few product mails from us - most recently \"90W PoE Managed Switch\" on 1 October 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nYour EISW8-100T / EISW16-100T are Fast Ethernet. A gigabit upgrade of the same positions under your label from small lots, DIN-rail, -40 to 75 C, FCC/CE/RoHS: 8 x Gigabit unmanaged, 12-58 V DC - model STI-080GE - $32.5 USD EXW (MOQ 1, 15-day validity); 5 x Gigabit, 12-36 V DC - STI-050GE - $18.5; the 16-port industrial position I quote against the exact port mix you want (copper only, or with 2 x SFP).\n\nOne question: would a gigabit upgrade of the 8- and 16-port models fit the range, or do your customers still ask for 10/100?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+   "body": "Hi Richard,\n\nOver the past months you had a few product mails from us - most recently \"Managed PoE Switches\" on 1 October 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nYour EISW8-100T / EISW16-100T are Fast Ethernet. A gigabit upgrade of the same positions under your label from small lots, DIN-rail, -40 to 75 C, FCC/CE/RoHS: 8 x Gigabit unmanaged, 12-58 V DC - model STI-080GE - $32.5 USD EXW (MOQ 1, 15-day validity); 5 x Gigabit, 12-36 V DC - STI-050GE - $18.5; the 16-port industrial position I quote against the exact port mix you want (copper only, or with 2 x SFP).\n\nOne question: would a gigabit upgrade of the 8- and 16-port models fit the range, or do your customers still ask for 10/100?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
  }

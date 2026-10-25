@@ -73,7 +73,7 @@
   "next_move": {
    "when": "2027-Q1（换人后）",
    "channel": "A 邮箱 → 具名 KP",
-   "action": "换收件人再发一封（第 75 批(u) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））",
+   "action": "换收件人再发一封（第 75 批(u) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）",
    "one_question": "Instead of a single industrial PoE injector, a DIN-rail 4-port gigabit PoE switch (−40 to +75 °C, 44–57 V DC) is $32.5 EXW and powers up to four devices; is the field device 802.3af or at?"
   },
   "facts": [
@@ -100,6 +100,14 @@
     "quote": "工业PoE injector 符合他的要求 https://www.redlion.net/product/100-Po…",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-09-28",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "Managed PoE Switches",
+    "why": "本日去信真实主题（邮箱索引 02f31c8d662ec57c；信稿开头句引用此封；此前稿内写的「Commercial PoE Switch」是线程列表首题，不是本封）",
+    "k": "02f31c8d662ec57c"
    }
   ],
   "proof_gaps": [
@@ -107,7 +115,7 @@
   ],
   "draft_en": {
    "subject": "Instead of the Red Lion injector - a 4-port industrial PoE switch at $32.5",
-   "body": "Hi Wayne,\n\nOver the past months you had a few product mails from us - most recently \"Commercial PoE Switch\" on 28 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nYou pointed us at the Red Lion 100-PoE injector; we do not carry a single-port injector, but the unit that normally replaces it: DIN-rail 4 x Gigabit PoE+ + 1 x Gigabit uplink, unmanaged, -40 to 75 C, 44-57 V DC - model STI-054GP - $32.5 USD EXW (MOQ 1, 15-day validity), powers up to four devices from one box; with an SFP uplink instead - STI-144GP - $35.5. FCC/CE/RoHS.\n\nOne question: is the field device 802.3af or 802.3at, and how many of them per site?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+   "body": "Hi Wayne,\n\nOver the past months you had a few product mails from us - most recently \"Managed PoE Switches\" on 28 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nYou pointed us at the Red Lion 100-PoE injector; we do not carry a single-port injector, but the unit that normally replaces it: DIN-rail 4 x Gigabit PoE+ + 1 x Gigabit uplink, unmanaged, -40 to 75 C, 44-57 V DC - model STI-054GP - $32.5 USD EXW (MOQ 1, 15-day validity), powers up to four devices from one box; with an SFP uplink instead - STI-144GP - $35.5. FCC/CE/RoHS.\n\nOne question: is the field device 802.3af or 802.3at, and how many of them per site?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
  }

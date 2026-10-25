@@ -36,7 +36,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — CCTV 配套商用 PoE（现 Hisource）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理 4/8 PoE 位 HRUI STC-114GP / STC-028GP（列表价，注明）；换人再触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-10 $65（10G media converter）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-15 $280（10G Enterprise SFP Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-02-10 $300（48 Port PoE Managed Switch = STC-448XGGPM，Elsa 箱 1 轮 2025-02-10；现表 $335.4@20%、Drive 老表 $335——同款写 $335 要先说 2025 群发是 $300、汇率 7.2→6.7）
 - **第一问（只问一个）**：For the PoE switches you list alongside CCTV and Shelly devices, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ (and budget 4/8-PoE unmanaged) from single units, CE/RoHS, EXW USD — which PoE port count do your installer customers buy most? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 首封前知悉：Elsa 仅 2025-02-10 单发过 1 封「48 Port PoE Managed Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(ab) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用；英文稿，不混意大利语）；HRUI 型号不写 Marvell）
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 首封前知悉：Elsa 仅 2025-02-10 单发过 1 封「48 Port PoE Managed Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(ab) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用；英文稿，不混意大利语）；HRUI 型号不写 Marvell）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -47,7 +47,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：CCTV 配套商用 PoE（现 Hisource）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理 4/8 PoE 位 HRUI STC-114GP / STC-028GP（列表价，注明）
 - **断点 / 为什么停在这里**：主业暖通/光伏（Saga 不做），网络为边缘品类；现供 Hisource 价格基准低；13 次无回复，仅 info@
 - **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，换人再触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-10 $65（10G media converter）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-15 $280（10G Enterprise SFP Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-02-10 $300（48 Port PoE Managed Switch = STC-448XGGPM，Elsa 箱 1 轮 2025-02-10；现表 $335.4@20%、Drive 老表 $335——同款写 $335 要先说 2025 群发是 $300、汇率 7.2→6.7））——CCTV 配套商用 PoE（现 Hisource）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理 4/8 PoE 位 HRUI STC-114GP / STC-028GP（列表价，注明）
-- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　首封前知悉：Elsa 仅 2025-02-10 单发过 1 封「48 Port PoE Managed Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(ab) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用；英文稿，不混意大利语）；HRUI 型号不写 Marvell）
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　首封前知悉：Elsa 仅 2025-02-10 单发过 1 封「48 Port PoE Managed Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(ab) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用；英文稿，不混意大利语）；HRUI 型号不写 Marvell）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
   - 第一问（只问一个）：For the PoE switches you list alongside CCTV and Shelly devices, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ (and budget 4/8-PoE unmanaged) from single units, CE/RoHS, EXW USD — which PoE port count do your installer customers buy most? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -55,6 +55,7 @@ updated: 2026-10-25
 | 2025-02-10 | out | Elsa → info@dalessandris.it | 48 Port PoE Managed Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次；正文价 300usd/pc，第 74 批(p) 读稿 msg 194eff1f9bf46879 / 1973a613b8166b58） | 本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 | 2026-10-08 | 去 | A/S 群发 | Industrial PoE Switch、Booster PoE Switch | 23 封 / 0 次打开 / 0 回｜首封 2024-06-15 → 末封 2026-10-08（23 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 商业PoE Hisource的 主要是CCTV | 表内备注 | `用户表` |
+| 2026-10-08 | 去 | A 箱（Alan） | Managed PoE Switches | 本日去信真实主题（邮箱索引 b5061450ce9ed4ba；信稿开头句引用此封；此前稿内写的「Industrial PoE Switch」是线程列表首题，不是本封） | `b5061450ce9ed4ba` |
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -271,7 +272,7 @@ updated: 2026-10-25
 ```text
 Hello,
 
-We wrote to you once in February 2025 about a 48-port PoE managed switch, and since then only general product mails - most recently "Industrial PoE Switch" on 8 October 2026 - none of which needed an answer. This one is specific.
+We wrote to you once in February 2025 about a 48-port PoE managed switch, and since then only general product mails - most recently "Managed PoE Switches" on 8 October 2026 - none of which needed an answer. This one is specific.
 
 For the PoE switches you list alongside CCTV and Shelly devices (HiSource today), neutral-brand units from single pieces, EXW, 15-day validity, CE/RoHS: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based - model STC-28DGGPM - $80.7 USD; budget 4 x PoE+ + 1 x Gigabit + 1 x SFP - STC-114GP - $17.0; 8 x PoE+ + 2 x Gigabit - STC-028GP - $25.1.
 

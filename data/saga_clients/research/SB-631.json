@@ -98,7 +98,7 @@
   "next_move": {
    "when": "2027-Q1（换人后）",
    "channel": "A 邮箱 → 具名 KP",
-   "action": "换收件人再发一封（第 75 批(ai) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））",
+   "action": "换收件人再发一封（第 75 批(ai) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）",
    "one_question": "Alongside the ORing and Witek lines you distribute to system integrators, we supply neutral-brand Marvell-based DIN-rail 8-GE/8-PoE + 2 SFP managed switches and gigabit MCs from small lots, CE/RoHS, EXW USD — is there a budget industrial position your SI customers ask for? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
@@ -117,12 +117,20 @@
     "quote": "好几个牌子的产品 Witek Oring MC 工业FS SFP等",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-09-28",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "Managed PoE Switches",
+    "why": "本日去信真实主题（邮箱索引 f122b36e6b4b44ea；信稿开头句引用此封；此前稿内写的「Industrial PoE Switch」是线程列表首题，不是本封）",
+    "k": "f122b36e6b4b44ea"
    }
   ],
   "proof_gaps": [],
   "draft_en": {
    "subject": "A budget industrial position next to ORing and Witek for your SI customers",
-   "body": "Hello ABLELINK team,\n\nOver the past months you had a few product mails from us - most recently \"Industrial PoE Switch\" on 28 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nAlongside the ORing and Witek lines you distribute to system integrators, a budget industrial position, neutral-brand, at distributor price, EXW, MOQ 1, 15-day validity, -40 to 75 C, CE/RoHS: DIN-rail 8 x Gigabit + 2 x SFP, unmanaged - model STI-280GE - $46 USD; 8 x Gigabit PoE+ + 2 x SFP, L2 managed, Marvell-based - STI-288GPM - $78.9; Gigabit media converter, 1 x RJ45 + 1 x SFP slot - STI-110GE - $26.5. SFPs stay with your current source.\n\nOne question: is there a budget industrial position your SI customers ask for that ORing prices too high?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+   "body": "Hello ABLELINK team,\n\nOver the past months you had a few product mails from us - most recently \"Managed PoE Switches\" on 28 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nAlongside the ORing and Witek lines you distribute to system integrators, a budget industrial position, neutral-brand, at distributor price, EXW, MOQ 1, 15-day validity, -40 to 75 C, CE/RoHS: DIN-rail 8 x Gigabit + 2 x SFP, unmanaged - model STI-280GE - $46 USD; 8 x Gigabit PoE+ + 2 x SFP, L2 managed, Marvell-based - STI-288GPM - $78.9; Gigabit media converter, 1 x RJ45 + 1 x SFP slot - STI-110GE - $26.5. SFPs stay with your current source.\n\nOne question: is there a budget industrial position your SI customers ask for that ORing prices too high?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
  }

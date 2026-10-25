@@ -36,7 +36,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — Eclipse 标 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 口 STC-424DGGPM-280W（$145.7）贴标；非管理 4/8/16 PoE 位 HRUI（列表价，注明）；换人再触锚价 STC-28DGGPM $87.4 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-05-13 $300（48 Port PoE Managed Switch）、2025-10-01 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Tony, for the PoE switches sold under the Eclipse label with your cameras, we can supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches in your packaging from small lots, FCC/CE/RoHS — which PoE SKU do your dealers reorder most? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
-- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封（第 75 批(u) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用）；STC-05GE / STC-028GP 为 HRUI，不写 Marvell）
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封（第 75 批(u) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用）；STC-05GE / STC-028GP 为 HRUI，不写 Marvell）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -47,13 +47,14 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：Eclipse 标 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 口 STC-424DGGPM-280W（$145.7）贴标；非管理 4/8/16 PoE 位 HRUI（列表价，注明）
 - **断点 / 为什么停在这里**：官网 http_error；10 次无回复 → 改向 Sales Executive 具名首触；NDAA 场景（§889 适用范围待核）
 - **Saga 现在该推什么**：P1 **STC-28DGGPM**（30% 档，换人再触锚价 STC-28DGGPM $87.4 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-05-13 $300（48 Port PoE Managed Switch）、2025-10-01 $280（10G Enterprise SFP Switch））——Eclipse 标 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 口 STC-424DGGPM-280W（$145.7）贴标；非管理 4/8/16 PoE 位 HRUI（列表价，注明）
-- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封（第 75 批(u) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用）；STC-05GE / STC-028GP 为 HRUI，不写 Marvell）
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封（第 75 批(u) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用）；STC-05GE / STC-028GP 为 HRUI，不写 Marvell）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
   - 第一问（只问一个）：Tony, for the PoE switches sold under the Eclipse label with your cameras, we can supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches in your packaging from small lots, FCC/CE/RoHS — which PoE SKU do your dealers reorder most? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-09-16 | 去 | A/S 群发 | Industrial PoE Switch、Managed Optical Bypass Switch | 23 封 / 0 次打开 / 0 回｜首封 2025-01-21 → 末封 2026-09-16（23 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 商业PoE | 表内备注 | `用户表` |
+| 2026-09-16 | 去 | A 箱（Alan） | 16 Port Industrial PoE Switch | 本日去信真实主题（邮箱索引 9b7ce5c2e2e15d46；信稿开头句引用此封；此前稿内写的「Industrial PoE Switch」是线程列表首题，不是本封） | `9b7ce5c2e2e15d46` |
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -259,7 +260,7 @@ updated: 2026-10-25
 ```text
 Hi Tony,
 
-Over the past months you had a few product mails from us - most recently "Industrial PoE Switch" on 16 September 2026 - and there was no reason to answer a mass mail. This one is specific.
+Over the past months you had a few product mails from us - most recently "16 Port Industrial PoE Switch" on 16 September 2026 - and there was no reason to answer a mass mail. This one is specific.
 
 For the PoE switches sold under the Eclipse label with your cameras, in your packaging from small lots, FCC/CE/RoHS: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based - model STC-28DGGPM - $87.4 USD EXW with your logo (MOQ 1, 15-day validity); 24 x Gigabit PoE+ (280 W) + 4 x SFP, L2+ managed - STC-424DGGPM-280W - $145.7; unmanaged 8 x PoE+ + 2 x uplink for the kit positions - STC-028GP - $27.2. Web GUI with the Eclipse logo; colour box from 200 sets.
 

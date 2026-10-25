@@ -122,7 +122,7 @@
   "next_move": {
    "when": "2027-Q1（换人后）",
    "channel": "A 邮箱 → 具名 KP",
-   "action": "换收件人再发一封（第 75 批(t) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用；具名 KP 见 channel））",
+   "action": "换收件人再发一封（第 75 批(t) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用；具名 KP 见 channel））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）",
    "one_question": "Christopher, for the GEMS2 / GEUS switch and media-converter range, we can be a second ODM source (DIN-rail 5/8-GE unmanaged, 8-PoE + 2 SFP managed, gigabit MC) from small lots in your housing, FCC/CE/RoHS — which model do you reorder most? Reference: STI-288GPM at $85.5 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
@@ -141,12 +141,20 @@
     "quote": "MC Switch 自己的牌子",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-09-17",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "16 Port Industrial PoE Switch",
+    "why": "本日去信真实主题（邮箱索引 007df7603db58182；信稿开头句引用此封；此前稿内写的「Marvell Industrial Alert System」是线程列表首题，不是本封）",
+    "k": "007df7603db58182"
    }
   ],
   "proof_gaps": [],
   "draft_en": {
    "subject": "GEMS2 / GEUS range - a second ODM source in your housing",
-   "body": "Hi Christopher,\n\nOver the past months you had a few product mails from us - most recently \"Marvell Industrial Alert System\" on 17 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the GEMS2 / GEUS switch and media-converter range, a second ODM source in your housing from small lots, -40 to 75 C, FCC/CE/RoHS: GEMS2-8T position - DIN-rail 8 x Gigabit PoE+ + 2 x SFP, L2 managed, Marvell-based - model STI-288GPM - $85.5 USD EXW (MOQ 1, 15-day validity); GEUS-5T position - DIN-rail 5 x Gigabit unmanaged - STI-050GE - $18.5; media converter, 1 x RJ45 + 1 x SFP - STI-110GE - $26.5.\n\nOne question: which of the three do you reorder most for the traffic and government jobs?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+   "body": "Hi Christopher,\n\nOver the past months you had a few product mails from us - most recently \"16 Port Industrial PoE Switch\" on 17 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the GEMS2 / GEUS switch and media-converter range, a second ODM source in your housing from small lots, -40 to 75 C, FCC/CE/RoHS: GEMS2-8T position - DIN-rail 8 x Gigabit PoE+ + 2 x SFP, L2 managed, Marvell-based - model STI-288GPM - $85.5 USD EXW (MOQ 1, 15-day validity); GEUS-5T position - DIN-rail 5 x Gigabit unmanaged - STI-050GE - $18.5; media converter, 1 x RJ45 + 1 x SFP - STI-110GE - $26.5.\n\nOne question: which of the three do you reorder most for the traffic and government jobs?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
  }

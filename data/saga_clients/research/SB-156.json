@@ -147,10 +147,35 @@
   "next_move": {
    "when": "不动",
    "channel": "—",
-   "action": "—",
+   "action": "—（第 76 批(c) 2026-10-25：0 事实户补时间线事实）",
    "one_question": ""
   },
-  "facts": [],
+  "facts": [
+   {
+    "date": "2024-07-04",
+    "dir": "去",
+    "who": "S 箱（Simon）",
+    "quote": "10G media converter",
+    "why": "首封去信（邮箱索引；去信共 28 封）",
+    "k": "4a25bf2c14223ec6"
+   },
+   {
+    "date": "2026-09-17",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "16 Port Industrial PoE Switch",
+    "why": "最近一封去信（邮箱索引；去信共 28 封）",
+    "k": "9bc0cb22b735b9b5"
+   },
+   {
+    "date": "2024-05-10",
+    "dir": "来",
+    "who": "sales@tyconsystems.com",
+    "quote": "Automatic reply: 5 port industrial switch｜Hello,  I am out of the office until Monday. We have received this email and will respond as soon as possible.  If you n",
+    "why": "自动回复/退信（机器，不算人工回复）",
+    "k": "7feaa342e0d73d83"
+   }
+  ],
   "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-24"

@@ -39,7 +39,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STC-28DGGPM — 批发商自有标 NTP3-GSW0802S 同口型 = STC-28DGGPM（8 GE PoE + 2 SFP 管理）；16/24 口位 STI-21616GP / STC-424DGGPM-280W；分销 20% 档。已打开的主题（1/26 封有打开记录）：「10G Media Converter」(2024-11-12) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续；换人再触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-12-05 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-05 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-11-12 $65（10G Media Converter）、2025-10-13 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Your NTP3-GSW0802S-MTP150 and the Marvell-based 8-port PoE+ 2-SFP managed switch are the same port layout; as a second source in Securitytec packing at EXW cost it protects your trade price against the HiLook £44 tier. Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 首封前知悉：Elsa 2025-02 已 1:1 发过「Industrial PoE Switch」给 graham@securitytec.co.uk（0 回），开头按 ㉝ 带一句「we wrote once in Feb 2025 about X, no reason you'd have replied」，别当完全陌生。 换收件人再发一封（第 75 批(al) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 首封前知悉：Elsa 2025-02 已 1:1 发过「Industrial PoE Switch」给 graham@securitytec.co.uk（0 回），开头按 ㉝ 带一句「we wrote once in Feb 2025 about X, no reason you'd have replied」，别当完全陌生。 换收件人再发一封（第 75 批(al) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-25）
 
@@ -50,13 +50,14 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：批发商自有标 NTP3-GSW0802S 同口型 = STC-28DGGPM（8 GE PoE + 2 SFP 管理）；16/24 口位 STI-21616GP / STC-424DGGPM-280W；分销 20% 档
 - **断点 / 为什么停在这里**：无回复
 - **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，换人再触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-12-05 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-05 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-11-12 $65（10G Media Converter）、2025-10-13 $280（10G Enterprise SFP Switch））——批发商自有标 NTP3-GSW0802S 同口型 = STC-28DGGPM（8 GE PoE + 2 SFP 管理）；16/24 口位 STI-21616GP / STC-424DGGPM-280W；分销 20% 档。已打开的主题（1/26 封有打开记录）：「10G Media Converter」(2024-11-12) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续
-- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　首封前知悉：Elsa 2025-02 已 1:1 发过「Industrial PoE Switch」给 graham@securitytec.co.uk（0 回），开头按 ㉝ 带一句「we wrote once in Feb 2025 about X, no reason you'd have replied」，别当完全陌生。 换收件人再发一封（第 75 批(al) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　首封前知悉：Elsa 2025-02 已 1:1 发过「Industrial PoE Switch」给 graham@securitytec.co.uk（0 回），开头按 ㉝ 带一句「we wrote once in Feb 2025 about X, no reason you'd have replied」，别当完全陌生。 换收件人再发一封（第 75 批(al) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
   - 第一问（只问一个）：Your NTP3-GSW0802S-MTP150 and the Marvell-based 8-port PoE+ 2-SFP managed switch are the same port layout; as a second source in Securitytec packing at EXW cost it protects your trade price against the HiLook £44 tier. Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2025-02-24 | 去 | Elsa 1:1 去信（To graham@securitytec.co.uk） | Industrial PoE Switch — Marvell based industrial PoE, 2×GE SFP + 4×GE PoE, 120W, watchdog, 250 m, DIP（稿内无价，第 74 批(p) 已读稿） | Elsa 箱 in:sent 按国别后缀探测（to:.de/.uk/.pl/.cz）命中：2025-02 Elsa 开箱头两周的逐户单发，称呼「Hi, Graham」；Elsa Replied 线程 0、来询未回清单 0 → 0 回；S/A digest 看不到这封 | `elsa_1to1` |
 | 2026-09-18 | 去 | A/S 群发 | 10G Enterprise SFP Switch、Marvell Alleycat5 Solution | 26 封 / 1 次打开 / 0 回｜首封 2024-07-05 → 末封 2026-09-18（26 去 / 0 来） | `gmail_digest` |
+| 2026-09-18 | 去 | A 箱（Alan） | 16 Port Industrial PoE Switch | 本日去信真实主题（邮箱索引 a0f873641860f24e；信稿开头句引用此封；此前稿内写的「10G Enterprise SFP Switch」是线程列表首题，不是本封） | `a0f873641860f24e` |
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -296,7 +297,7 @@ updated: 2026-10-25
 ```text
 Hi Graham,
 
-We wrote to you once in February 2025 about an industrial PoE switch, and since then only general product mails - most recently "10G Enterprise SFP Switch" on 18 September 2026 - none of which needed an answer. This one is specific.
+We wrote to you once in February 2025 about an industrial PoE switch, and since then only general product mails - most recently "16 Port Industrial PoE Switch" on 18 September 2026 - none of which needed an answer. This one is specific.
 
 Your NTP3-GSW0802S-MTP150 and our unit are the same port layout: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based - model STC-28DGGPM - $80.7 USD EXW at distributor tier (MOQ 1, 15-day validity), in Securitytec packing from small lots, CE/RoHS/UKCA. As a second source it protects your trade price against the HiLook tier around 44 pounds. For the 16/24-port positions: 16 x PoE+ + 2 x SFP unmanaged industrial - STI-21616GP - $185; 24 x PoE+ (280 W) + 4 x SFP, L2+ managed - STC-424DGGPM-280W - $134.5.
 

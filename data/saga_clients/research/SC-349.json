@@ -2,7 +2,7 @@
  "code": "SC-349",
  "name_official": "Obmac Systems",
  "website_status": "",
- "summary": "",
+ "summary": "卢萨卡 ICT + 机电承包商 Obmac Systems（Pythias Kachepa，Gmail 私箱）：2024-01-17 一单 $9,350 / 265 件（STC-4248XGGCM ×15 @295 + STI-244GP ×50 @36 + 工业 SFP ×200 @7.5 + FedEx 1,600），PI 包「gg」；2026 起转向 11 MWp 光伏 EPC，网络设备为项目配套；之后 2025 年 9 封群发 0 回，Elsa 2026-09-14 单发 1 封未回。",
  "type": "",
  "size": "",
  "brands_seen": [],
@@ -109,7 +109,7 @@
   "next_move": {
    "when": "2027-Q1",
    "channel": "LinkedIn / WhatsApp（若有）",
-   "action": "首封前知悉：Elsa 2026-09-14 单发过「16 Port Industrial PoE Switch」（未见回复（Elsa 箱 Replied 标签无））；一句话问 2024 那批设备的运行情况 + 光伏电站项目是否需要工业交换机（第 75 批(an) 2026-10-25：一句话稿已写 `draft_en`；成单户一问（LinkedIn/WhatsApp））",
+   "action": "首封前知悉：Elsa 2026-09-14 单发过「16 Port Industrial PoE Switch」（未见回复（Elsa 箱 Replied 标签无））；一句话问 2024 那批设备的运行情况 + 光伏电站项目是否需要工业交换机（第 75 批(an) 2026-10-25：一句话稿已写 `draft_en`；成单户一问（LinkedIn/WhatsApp））（第 76 批(c) 2026-10-25：audit_ab 软项修正：补 summary）",
    "one_question": "Pythias — are the 2024 STC-4248XGGCM/STI-244GP units still in service, and does the 11 MWp solar EPC need ring-capable industrial switches for SCADA?"
   },
   "facts": [

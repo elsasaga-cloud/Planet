@@ -112,14 +112,55 @@
   "next_move": {
    "when": "2026-11",
    "channel": "A 邮箱 → dustin@dmsimfg.com（Dustin Hall；Kelly 已退休，sales@ 只回自动信；evan@dmsimfg.com 备用）",
-   "action": "换人",
+   "action": "换人（第 76 批(c) 2026-10-25：audit_ab 软项修正：署名「Alan Yan」→「Alan」（A 箱实际署名））（第 76 批(c) 2026-10-25：0 事实户补时间线事实）",
    "one_question": "Do you resell switches alongside your DC hardware, or only source them for your own builds?"
   },
-  "facts": [],
+  "facts": [
+   {
+    "date": "2024-06-24",
+    "dir": "去",
+    "who": "S 箱（Simon）",
+    "quote": "Industrial PoE Managed Switch",
+    "why": "首封去信（邮箱索引；去信共 30 封）",
+    "k": "3fc9871299c44094"
+   },
+   {
+    "date": "2026-09-28",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "Managed PoE Switches",
+    "why": "最近一封去信（邮箱索引；去信共 30 封）",
+    "k": "10091d622fd77f9a"
+   },
+   {
+    "date": "2024-05-02",
+    "dir": "来",
+    "who": "kelly@dmsimfg.com",
+    "quote": "Vacation｜Monday April 29, 2024 I’ll be on vacation the rest of today returning Wednesday May 8.  Please see contacts below while ",
+    "why": "自动回复/退信（机器，不算人工回复）",
+    "k": "89918dafbe1936c9"
+   },
+   {
+    "date": "2024-05-23",
+    "dir": "来",
+    "who": "kelly@dmsimfg.com",
+    "quote": "Vacation｜If you are seeing this message then I have officially RETIRED!  Please redirect your email to the contacts listed below ",
+    "why": "自动回复/退信（机器，不算人工回复）",
+    "k": "02e8365a9e7d02a0"
+   },
+   {
+    "date": "2025-01-02",
+    "dir": "来",
+    "who": "brandon@dmsimfg.com",
+    "quote": "Automatic reply: 48 Port 10G Core Switch｜December 25th through January 5th DMSI facilities are closed.  We will re-open on Monday January 6th.   The sales team i",
+    "why": "自动回复/退信（机器，不算人工回复）",
+    "k": "ed65b17afbbc82ba"
+   }
+  ],
   "proof_gaps": [],
   "draft_en": {
    "subject": "For Randy Harris — 100G / 25G data-center switches, priced",
-   "body": "Hello DMSI team,\n\nEarlier mails went to a mailbox that now auto-replies as retired, so this is addressed to sales@ for Randy Harris (Data Center & Broadband Sales).\n\nThree data-center SKUs are priced today, all EXW (2026 Q2 list): 32× 100G QSFP28 USD 6,000; 6× 40G + 2× 100G USD 1,200; 48× 25G + 8× 100G USD 4,800. CENTEC silicon, SONiC-ready on request, neutral or your label.\n\nOne question: do you resell switches alongside your DC hardware, or only source them for your own builds?\n\nAlan Yan\nSaga Telecom"
+   "body": "Hello DMSI team,\n\nEarlier mails went to a mailbox that now auto-replies as retired, so this is addressed to sales@ for Randy Harris (Data Center & Broadband Sales).\n\nThree data-center SKUs are priced today, all EXW (2026 Q2 list): 32× 100G QSFP28 USD 6,000; 6× 40G + 2× 100G USD 1,200; 48× 25G + 8× 100G USD 4,800. CENTEC silicon, SONiC-ready on request, neutral or your label.\n\nOne question: do you resell switches alongside your DC hardware, or only source them for your own builds?\n\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
  }

@@ -86,10 +86,19 @@
   "next_move": {
    "when": "待 Simon 排期（首封）",
    "channel": "A 邮箱 → sales@nabludenie.by（无具名 KP；公用地址）",
-   "action": "首封：按 email_hook 一问（第 75 批(l) 2026-10-25：英文信稿已写 `draft_en`）",
+   "action": "首封：按 email_hook 一问（第 75 批(l) 2026-10-25：英文信稿已写 `draft_en`）（第 76 批(c) 2026-10-25：0 事实户补时间线事实）",
    "one_question": "For the PoE switches you install with Hikvision kits, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port unmanaged PoE units from small lots, EXW — which band do your installations use most? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
   },
-  "facts": [],
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "研",
+    "who": "官网快照",
+    "quote": "官网标题：Системы видеонаблюдения в Минске по выгодной цене；品类词 安防监控（CCTV / 门禁） / 光纤 / 媒体转换 / 网络交换 / PoE：➤Широкий ассортимент систем видеонаблюдения. Качественный подбор оборудования. ➤Демократические цены. Гарантия качества ",
+    "why": "无任何邮件往来；唯一证据为研究/用户表记录",
+    "k": "https://nabludenie.by/"
+   }
+  ],
   "proof_gaps": [
    "无邮件往来"
   ],

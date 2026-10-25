@@ -105,10 +105,43 @@
   "next_move": {
    "when": "不动",
    "channel": "—",
-   "action": "—",
+   "action": "—（第 76 批(c) 2026-10-25：0 事实户补时间线事实）",
    "one_question": ""
   },
-  "facts": [],
+  "facts": [
+   {
+    "date": "2024-07-11",
+    "dir": "去",
+    "who": "S 箱（Simon）",
+    "quote": "48 port managed switch",
+    "why": "首封去信（邮箱索引；去信共 26 封）",
+    "k": "5e1a1e2bbaf7f062"
+   },
+   {
+    "date": "2026-08-14",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "24 Port PoE Managed Switch",
+    "why": "最近一封去信（邮箱索引；去信共 26 封）",
+    "k": "074d336ab7855dba"
+   },
+   {
+    "date": "2023-12-25",
+    "dir": "来",
+    "who": "info@securasound.co.uk",
+    "quote": "Automatic reply: Din Power Supply｜Our Offices are now closed and will reopen at 9am on Tuesday 2nd January 2024 – Any orders placed will not be dispatched",
+    "why": "自动回复/退信（机器，不算人工回复）",
+    "k": "c899d22bff81b409"
+   },
+   {
+    "date": "2024-05-14",
+    "dir": "来",
+    "who": "info@securasound.co.uk",
+    "quote": "Automatic reply: Industrial poe switch｜If you have sent us images of a product to identify we will generally respond to you within 1 working day. Please check ",
+    "why": "自动回复/退信（机器，不算人工回复）",
+    "k": "ce7192e0322a174b"
+   }
+  ],
   "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-24"

@@ -39,7 +39,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-2016GP — 分销 20% 档：STC-2016GP（16 GE PoE + 2 SFP 非管理，Saga Realtek 线列表 $88.0）= UNIPOE PM3018GSNL-330 同口型；24 口 STC-2024GP（$93.5）；8 口 STC-028GP（$24.2）。已打开的主题（1/25 封有打开记录）：「48 Port PoE Managed Switch」(2024-11-14) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-19 $65（10g media converter）；群发里他已看到的价（续）：2026-08-06 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-11-14 $300（48 Port PoE Managed Switch）、2025-09-18 $240（24 Port Fiber Switch）、2025-10-22 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Здравствуйте, рядом с UNIPOE PM3018GSNL-330 V2 (118 195 ₸ в вашем магазине): наш коммутатор той же конфигурации 16 PoE + 2 SFP — 88,0 USD EXW, 24 PoE + 2 SFP — 93,5 USD, нейтральная или ваша упаковка. Нужен ли вам второй источник на случай сроков или цен UNIPOE?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
-- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 首封前知悉：Elsa 仅 2025-02-24 单发过 1 封「Mini Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(am) 2026-10-25：英文信稿已写 `draft_en`；俄文钩子改英文稿；EAC 对方侧；HRUI 不写 Marvell）
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 首封前知悉：Elsa 仅 2025-02-24 单发过 1 封「Mini Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(am) 2026-10-25：英文信稿已写 `draft_en`；俄文钩子改英文稿；EAC 对方侧；HRUI 不写 Marvell）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -50,7 +50,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：分销 20% 档：STC-2016GP（16 GE PoE + 2 SFP 非管理，Saga Realtek 线列表 $88.0）= UNIPOE PM3018GSNL-330 同口型；24 口 STC-2024GP（$93.5）；8 口 STC-028GP（$24.2）
 - **断点 / 为什么停在这里**：UNIPOE 独家关系（冲突）；17 次推送 0 回复；俄语区非主攻区；Hikvision 分销商体量偏大
 - **Saga 现在该推什么**：P1 **STC-2016GP**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-19 $65（10g media converter）；群发里他已看到的价（续）：2026-08-06 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-11-14 $300（48 Port PoE Managed Switch）、2025-09-18 $240（24 Port Fiber Switch）、2025-10-22 $280（10G Enterprise SFP Switch））——分销 20% 档：STC-2016GP（16 GE PoE + 2 SFP 非管理，Saga Realtek 线列表 $88.0）= UNIPOE PM3018GSNL-330 同口型；24 口 STC-2024GP（$93.5）；8 口 STC-028GP（$24.2）。已打开的主题（1/25 封有打开记录）：「48 Port PoE Managed Switch」(2024-11-14) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续
-- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　首封前知悉：Elsa 仅 2025-02-24 单发过 1 封「Mini Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(am) 2026-10-25：英文信稿已写 `draft_en`；俄文钩子改英文稿；EAC 对方侧；HRUI 不写 Marvell）
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　首封前知悉：Elsa 仅 2025-02-24 单发过 1 封「Mini Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(am) 2026-10-25：英文信稿已写 `draft_en`；俄文钩子改英文稿；EAC 对方侧；HRUI 不写 Marvell）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
   - 第一问（只问一个）：Здравствуйте, рядом с UNIPOE PM3018GSNL-330 V2 (118 195 ₸ в вашем магазине): наш коммутатор той же конфигурации 16 PoE + 2 SFP — 88,0 USD EXW, 24 PoE + 2 SFP — 93,5 USD, нейтральная или ваша упаковка. Нужен ли вам второй источник на случай сроков или цен UNIPOE?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -58,6 +58,7 @@ updated: 2026-10-25
 | 2025-02-24 | out | Elsa → info@pulsar.kz | Mini Industrial PoE Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 | 2026-10-07 | 去 | A/S 群发 | Marvell Alleycat5 Solution、Commercial Network Switch | 25 封 / 1 次打开 / 0 回｜首封 2024-06-29 → 末封 2026-10-07（25 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 从UnipoE买一些商业poE / 买了Unipoe的1216POE | 表内备注 | `用户表` |
+| 2026-10-07 | 去 | A 箱（Alan） | Managed PoE Switches | 本日去信真实主题（邮箱索引 81de345d724d61ea；信稿开头句引用此封；此前稿内写的「Marvell Alleycat5 Solution」是线程列表首题，不是本封） | `81de345d724d61ea` |
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -299,7 +300,7 @@ updated: 2026-10-25
 ```text
 Hello Pulsar Systems team,
 
-We wrote to you once in February 2025 about a mini industrial switch, and since then only general product mails - most recently "Marvell Alleycat5 Solution" on 7 October 2026 - none of which needed an answer. This one is specific.
+We wrote to you once in February 2025 about a mini industrial switch, and since then only general product mails - most recently "Managed PoE Switches" on 7 October 2026 - none of which needed an answer. This one is specific.
 
 Next to the UNIPOE PM3018GSNL-330 V2 (118,195 tenge in your shop), the same configurations as a second source, neutral or your packaging, at distributor price, EXW, MOQ 1, 15-day validity, CE/RoHS: 16 x Gigabit PoE+ + 2 x SFP, unmanaged - model STC-2016GP - $88.0 USD; 24 x Gigabit PoE+ + 2 x Gigabit + 2 x SFP, unmanaged, 300 W - STC-2024GP - $93.5; 8 x PoE+ + 2 x Gigabit - STC-028GP - $25.1. EAC stays on your side.
 

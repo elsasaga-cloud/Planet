@@ -97,7 +97,7 @@
   "next_move": {
    "when": "2027-Q1（换人后）",
    "channel": "A 邮箱 → 具名 KP",
-   "action": "换收件人再发一封（第 75 批(z) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））",
+   "action": "换收件人再发一封（第 75 批(z) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）",
    "one_question": "For the wienet industrial switch range, we can serve as a second ODM source (DIN-rail 5/8-GE unmanaged, 8-PoE + 2 SFP managed, −40~75 °C, CE/RoHS) from small lots in your housing — is there a port count in the range you currently source from a single supplier? Reference: STI-288GPM at $85.5 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
@@ -116,12 +116,20 @@
     "quote": "工业FS 自己的logo SFP 周边产品 配件 有人卖他们的",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-09-22",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "16 Port Industrial PoE Switch",
+    "why": "本日去信真实主题（邮箱索引 e6b4b23ea52b6995；信稿开头句引用此封；此前稿内写的「Marvell Industrial Alert System」是线程列表首题，不是本封）",
+    "k": "e6b4b23ea52b6995"
    }
   ],
   "proof_gaps": [],
   "draft_en": {
    "subject": "The wienet industrial switch range - a second ODM source for the single-sourced port counts",
-   "body": "Hello Wieland Electric team,\n\nOver the past months you had a few product mails from us - most recently \"Marvell Industrial Alert System\" on 22 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the wienet industrial switch range, a second ODM source in your housing from small lots, -40 to 75 C, CE/RoHS: DIN-rail 8 x Gigabit unmanaged, 12-58 V DC - model STI-080GE - $32.5 USD EXW (MOQ 1, 15-day validity); 5-port - STI-050GE - $18.5; 8 x Gigabit PoE+ + 2 x SFP, L2 managed, Marvell-based - STI-288GPM - $85.5. SFPs and accessories stay with your current sources.\n\nOne question: is there a port count in the wienet range that you currently source from a single supplier - that is where a second source earns its place?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+   "body": "Hello Wieland Electric team,\n\nOver the past months you had a few product mails from us - most recently \"16 Port Industrial PoE Switch\" on 22 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the wienet industrial switch range, a second ODM source in your housing from small lots, -40 to 75 C, CE/RoHS: DIN-rail 8 x Gigabit unmanaged, 12-58 V DC - model STI-080GE - $32.5 USD EXW (MOQ 1, 15-day validity); 5-port - STI-050GE - $18.5; 8 x Gigabit PoE+ + 2 x SFP, L2 managed, Marvell-based - STI-288GPM - $85.5. SFPs and accessories stay with your current sources.\n\nOne question: is there a port count in the wienet range that you currently source from a single supplier - that is where a second source earns its place?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
  }

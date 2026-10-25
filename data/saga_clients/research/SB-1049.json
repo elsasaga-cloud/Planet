@@ -135,7 +135,7 @@
     "next_move": {
       "when": "2026-11",
       "channel": "A 邮箱 → jasonk@soltech.co.kr",
-      "action": "首封前知悉：Elsa 仅 2025-02-25 单发过 1 封「L3 Managed Switch」，之后没再碰他（第 74 批(m)）；短信一问（email_hook）",
+      "action": "首封前知悉：Elsa 仅 2025-02-25 单发过 1 封「L3 Managed Switch」，之后没再碰他（第 74 批(m)）；短信一问（email_hook）（第 76 批(c) 2026-10-25：audit_ab 软项修正：证书口径 CE/RoHS → CE/RoHS (KC stays on your side)）",
       "one_question": "Mr. Kim, for the SFC industrial switch models you asked about, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed, 16-PoE + 2×10G) from small lots in your housing, CE/RoHS — which SFC model would you evaluate first? Reference: STI-288GPM at $85.5 USD EXW (MOQ 1, 15-day validity)."
     },
     "facts": [
@@ -168,7 +168,7 @@
     "proof_gaps": [],
     "draft_en": {
       "subject": "One question — Managed Optical Bypass Switch",
-      "body": "Hi Jason,\n\nWe have sent you a few mails on \"Managed Optical Bypass Switch\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nMr. Kim, for the SFC industrial switch models you asked about, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed, 16-PoE + 2×10G) from small lots in your housing, CE/RoHS — which SFC model would you evaluate first?\n\nReference price: DIN-rail 8-PoE + 2 SFP L2 managed industrial switch, 240 W (STI-288GPM) $85.5 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+      "body": "Hi Jason,\n\nWe have sent you a few mails on \"Managed Optical Bypass Switch\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nMr. Kim, for the SFC industrial switch models you asked about, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed, 16-PoE + 2×10G) from small lots in your housing, CE/RoHS (KC stays on your side) — which SFC model would you evaluate first?\n\nReference price: DIN-rail 8-PoE + 2 SFP L2 managed industrial switch, 240 W (STI-288GPM) $85.5 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
     },
     "as_of": "2026-10-24"
   }

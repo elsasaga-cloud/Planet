@@ -103,10 +103,35 @@
   "next_move": {
    "when": "不动",
    "channel": "—",
-   "action": "—",
+   "action": "—（第 76 批(c) 2026-10-25：0 事实户补时间线事实）",
    "one_question": ""
   },
-  "facts": [],
+  "facts": [
+   {
+    "date": "2025-01-30",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "8 Port Industrial PoE Switch",
+    "why": "首封去信（邮箱索引；去信共 18 封）",
+    "k": "55dc6c372f6fc558"
+   },
+   {
+    "date": "2026-09-30",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "Managed PoE Switches",
+    "why": "最近一封去信（邮箱索引；去信共 18 封）",
+    "k": "00b231ccb2778bd9"
+   },
+   {
+    "date": "2024-08-11",
+    "dir": "来",
+    "who": "marlex@marlexconexion.com",
+    "quote": "Respuesta automática: Mini Industrial Switch｜﻿﻿ Thanks for your e-mail.  Marlex Conexion SL will be closed from August 12 to 16 (both included)   -------------------",
+    "why": "来信（邮箱索引；原文见 k）",
+    "k": "808dac70a8f6e2ed"
+   }
+  ],
   "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-24"

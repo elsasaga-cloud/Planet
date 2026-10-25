@@ -36,7 +36,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-054GP — 远端站点配套 PoE（现 Elink 配件）→ 工业 4 PoE + 1 GE STI-054GP（$33.8 @30%）/ 4 PoE + 1 SFP STI-154GP（$40.8）贴 Ground Control 标；PoE 注入器类配件 Saga 不供（Q-32）。已打开的主题（1/25 封有打开记录）：「Industrial PoE Switch」(2025-08-21) → 读者兴趣偏「工业」；与 P1 同类，继续；换人再触锚价 STI-054GP $32.5 EXW（最近实报 $32.5（SB-093 $33）（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-10-22 $65（10G Media Converter）；群发里他已看到的价（续）：2026-08-07 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-06-10 $300（48 Port PoE Managed Switch）、2025-07-07 $240（24 Port Fiber Switch）、2025-10-13 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Scotty, for the PoE feeding cameras and sensors next to your satellite terminals at remote sites, we can supply compact industrial 4-PoE + 1 uplink switches (−40~75 °C, 12–57 V, CE/RoHS/UKCA) under your label from small lots — which input voltage do your remote installations provide? Reference: STI-054GP at $32.5 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 首封前知悉：Elsa 仅 2025-02-24 单发过 1 封「8 Port Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(y) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 首封前知悉：Elsa 仅 2025-02-24 单发过 1 封「8 Port Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(y) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -47,7 +47,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：远端站点配套 PoE（现 Elink 配件）→ 工业 4 PoE + 1 GE STI-054GP（$33.8 @30%）/ 4 PoE + 1 SFP STI-154GP（$40.8）贴 Ground Control 标；PoE 注入器类配件 Saga 不供（Q-32）
 - **断点 / 为什么停在这里**：PoE 配件（注入器/分离器）Saga 不供（Q-32）；交换机为卫星方案配套（量小）；15 次无回复 → 改向 Solution Architect 具名首触
 - **Saga 现在该推什么**：P1 **STI-054GP**（30% 档，换人再触锚价 STI-054GP $32.5 EXW（最近实报 $32.5（SB-093 $33）（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-10-22 $65（10G Media Converter）；群发里他已看到的价（续）：2026-08-07 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-06-10 $300（48 Port PoE Managed Switch）、2025-07-07 $240（24 Port Fiber Switch）、2025-10-13 $280（10G Enterprise SFP Switch））——远端站点配套 PoE（现 Elink 配件）→ 工业 4 PoE + 1 GE STI-054GP（$33.8 @30%）/ 4 PoE + 1 SFP STI-154GP（$40.8）贴 Ground Control 标；PoE 注入器类配件 Saga 不供（Q-32）。已打开的主题（1/25 封有打开记录）：「Industrial PoE Switch」(2025-08-21) → 读者兴趣偏「工业」；与 P1 同类，继续
-- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　首封前知悉：Elsa 仅 2025-02-24 单发过 1 封「8 Port Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(y) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　首封前知悉：Elsa 仅 2025-02-24 单发过 1 封「8 Port Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(y) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
   - 第一问（只问一个）：Scotty, for the PoE feeding cameras and sensors next to your satellite terminals at remote sites, we can supply compact industrial 4-PoE + 1 uplink switches (−40~75 °C, 12–57 V, CE/RoHS/UKCA) under your label from small lots — which input voltage do your remote installations provide? Reference: STI-054GP at $32.5 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -55,6 +55,7 @@ updated: 2026-10-25
 | 2025-02-24 | out | Elsa → hello@groundcontrol.com | 8 Port Industrial PoE Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 | 2026-09-24 | 去 | A/S 群发 | Industrial PoE Switch、10G Enterprise SFP Switch | 25 封 / 1 次打开 / 0 回｜首封 2024-06-28 → 末封 2026-09-24（25 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | PoE配件 Elink的 | 表内备注 | `用户表` |
+| 2026-09-24 | 去 | A 箱（Alan） | Managed PoE Switches | 本日去信真实主题（邮箱索引 6da8d0122603ad0d；信稿开头句引用此封；此前稿内写的「Industrial PoE Switch」是线程列表首题，不是本封） | `6da8d0122603ad0d` |
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -285,7 +286,7 @@ updated: 2026-10-25
 ```text
 Hi Scotty,
 
-Over the past months you had a few product mails from us - most recently "Industrial PoE Switch" on 24 September 2026 - and there was no reason to answer a mass mail. This one is specific.
+Over the past months you had a few product mails from us - most recently "Managed PoE Switches" on 24 September 2026 - and there was no reason to answer a mass mail. This one is specific.
 
 For the PoE feeding cameras and sensors next to your satellite terminals at remote sites, under the Ground Control label from small lots, -40 to 75 C, CE/RoHS/UKCA: compact DIN-rail 4 x Gigabit PoE+ + 1 x Gigabit uplink, unmanaged, 44-57 V DC - model STI-054GP - $32.5 USD EXW (MOQ 1, 15-day validity); with an SFP uplink - STI-154GP - $40.8. Injectors and PoE accessories we do not carry.
 

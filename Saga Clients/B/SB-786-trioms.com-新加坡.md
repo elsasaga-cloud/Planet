@@ -36,7 +36,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-110FE — 站内 10/100TX–100FX 工业 MC 位 → 工业百兆 MC STI-110FE（$19.7 @20%）、千兆 STI-110GE（$22.4）。已打开的主题（1/24 封有打开记录）：「Managed Optical Bypass Switch」(2025-05-07) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续；换人再触锚价 STI-110FE $19.7 EXW（主表档位（无实报；PDF 上限 $23.1）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-19 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-15 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：For the industrial 10/100 media converter on your site, we supply neutral-brand DIN-rail Fast Ethernet and gigabit MCs (−40~75 °C, CE/RoHS) from single units, EXW USD — is the AOA unit still selling, and would a lower-priced equivalent fit your catalogue? Reference: STI-110FE at $19.7 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
-- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封（第 75 批(ah) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封（第 75 批(ah) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -47,13 +47,14 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：站内 10/100TX–100FX 工业 MC 位 → 工业百兆 MC STI-110FE（$19.7 @20%）、千兆 STI-110GE（$22.4）
 - **断点 / 为什么停在这里**：品类边缘（仪器分销，MC 仅一款）；非主攻区（T5，新加坡）；14 次无回复，仅 sales@
 - **Saga 现在该推什么**：P1 **STI-110FE**（20% 档，换人再触锚价 STI-110FE $19.7 EXW（主表档位（无实报；PDF 上限 $23.1）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-19 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-15 $280（10G Enterprise SFP Switch））——站内 10/100TX–100FX 工业 MC 位 → 工业百兆 MC STI-110FE（$19.7 @20%）、千兆 STI-110GE（$22.4）。已打开的主题（1/24 封有打开记录）：「Managed Optical Bypass Switch」(2025-05-07) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续
-- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封（第 75 批(ah) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封（第 75 批(ah) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
   - 第一问（只问一个）：For the industrial 10/100 media converter on your site, we supply neutral-brand DIN-rail Fast Ethernet and gigabit MCs (−40~75 °C, CE/RoHS) from single units, EXW USD — is the AOA unit still selling, and would a lower-priced equivalent fit your catalogue? Reference: STI-110FE at $19.7 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-09-17 | 去 | A/S 群发 | Industrial PoE Switch、10G Enterprise SFP Switch | 24 封 / 1 次打开 / 0 回｜首封 2024-06-29 → 末封 2026-09-17（24 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | AOA的工业MC 就这一款 | 表内备注 | `用户表` |
+| 2026-09-17 | 去 | A 箱（Alan） | 16 Port Industrial PoE Switch | 本日去信真实主题（邮箱索引 3aa7abbd661b453d；信稿开头句引用此封；此前稿内写的「Industrial PoE Switch」是线程列表首题，不是本封） | `3aa7abbd661b453d` |
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -270,7 +271,7 @@ updated: 2026-10-25
 ```text
 Hello Trioms team,
 
-Over the past months you had a few product mails from us - most recently "Industrial PoE Switch" on 17 September 2026 - and there was no reason to answer a mass mail. This one is specific.
+Over the past months you had a few product mails from us - most recently "16 Port Industrial PoE Switch" on 17 September 2026 - and there was no reason to answer a mass mail. This one is specific.
 
 For the industrial 10/100 media converter on your site (AOA today), a lower-priced equivalent, neutral-brand, at distributor price, EXW, from single units, 15-day validity, -40 to 75 C, CE/RoHS: DIN-rail Fast Ethernet converter, 1 x RJ45 + 1 x 100M fibre (SC standard, SFP slot optional) - model STI-110FE - $19.7 USD; Gigabit version, 1 x RJ45 + 1 x SFP slot - STI-110GE - $26.5.
 

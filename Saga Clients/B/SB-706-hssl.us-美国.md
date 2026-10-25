@@ -36,7 +36,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — —；—；群发里他已看到的价（续，第 66 批全量复核）：2025-10-07 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
-- **下一步**：不动 — —
+- **下一步**：不动 — —（第 76 批(c) 2026-10-25：0 事实户补时间线事实）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -47,7 +47,13 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：—
 - **断点 / 为什么停在这里**：—
 - **Saga 现在该推什么**：P1 **—**（20% 档，—；群发里他已看到的价（续，第 66 批全量复核）：2025-10-07 $280（10G Enterprise SFP Switch））———
-- **下一步（具体）**：不动　—　—
+- **下一步（具体）**：不动　—　—（第 76 批(c) 2026-10-25：0 事实户补时间线事实）
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2025-05-21 | 去 | A 箱（Alan） | Marvell Alleycat5 Solution | 首封去信（邮箱索引；去信共 12 封） | `a6decdf29b1b8dca` |
+| 2026-02-16 | 去 | A 箱（Alan） | Updated Ethernet Switches Links | 最近一封去信（邮箱索引；去信共 12 封） | `f8d5e8ff3bcf0b48` |
+| 2025-05-21 | 来 | sales@hssl.us | Re: HSSL Request/Inquiry id ##1014746##｜Dear Alan from Saga Telecom,    Thank you for reaching out to our team. We have received your request/inquiry and a tick | 自动工单回执（HSSL ticket，机器） | `1eb68c09068fca9e` |
 
 ## 基本事实（事实/推断/假设分层）
 

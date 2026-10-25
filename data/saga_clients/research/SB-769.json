@@ -132,7 +132,7 @@
   "next_move": {
    "when": "2027-Q1（换人后）",
    "channel": "A 邮箱 → 具名 KP",
-   "action": "换收件人再发一封（第 75 批(ag) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））",
+   "action": "换收件人再发一封（第 75 批(ag) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）",
    "one_question": "Mohsen, alongside the Moxa EDS-205/208 unmanaged switches you distribute, we supply DIN-rail 5/8-port gigabit unmanaged units (−40~75 °C, 12–58 VDC, CE/RoHS, neutral packing) from small lots at a lower price tier — would a sample for comparison be useful for your SI customers? Reference: STI-080GE at $32.5 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
@@ -151,12 +151,20 @@
     "quote": "分销商 工业以太网",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-09-29",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "Managed PoE Switches",
+    "why": "本日去信真实主题（邮箱索引 2150ec8205635643；信稿开头句引用此封；此前稿内写的「Marvell Industrial Alert System」是线程列表首题，不是本封）",
+    "k": "2150ec8205635643"
    }
   ],
   "proof_gaps": [],
   "draft_en": {
    "subject": "Alongside the Moxa EDS-205/208 you distribute - a lower price tier, sample for comparison",
-   "body": "Hi Mohsen,\n\nOver the past months you had a few product mails from us - most recently \"Marvell Industrial Alert System\" on 29 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nAlongside the Moxa EDS-205 / EDS-208 unmanaged switches you distribute, a lower price tier for the SI customers who do not need the Moxa name on the panel, neutral packing, at distributor price, EXW, MOQ 1, 15-day validity, -40 to 75 C, CE/RoHS: DIN-rail 8 x Gigabit unmanaged, 12-58 V DC - model STI-080GE - $32.5 USD; 5-port, 12-36 V DC - STI-050GE - $17.0; 8 x Gigabit PoE+ + 2 x SFP unmanaged - STI-288GP - $60. Rail-grade (TN series) positions we do not quote.\n\nOne question: would a sample of the 8-port for comparison be useful for your SI customers - and to Dubai or Riyadh?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+   "body": "Hi Mohsen,\n\nOver the past months you had a few product mails from us - most recently \"Managed PoE Switches\" on 29 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nAlongside the Moxa EDS-205 / EDS-208 unmanaged switches you distribute, a lower price tier for the SI customers who do not need the Moxa name on the panel, neutral packing, at distributor price, EXW, MOQ 1, 15-day validity, -40 to 75 C, CE/RoHS: DIN-rail 8 x Gigabit unmanaged, 12-58 V DC - model STI-080GE - $32.5 USD; 5-port, 12-36 V DC - STI-050GE - $17.0; 8 x Gigabit PoE+ + 2 x SFP unmanaged - STI-288GP - $60. Rail-grade (TN series) positions we do not quote.\n\nOne question: would a sample of the 8-port for comparison be useful for your SI customers - and to Dubai or Riyadh?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
  }

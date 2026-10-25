@@ -159,7 +159,7 @@
   "saga_now": {
    "p1": "STI-244GP / STI-288DGGPM 对位 CIEN3206GP",
    "tier": 25,
-   "price": "按 25%；**第 63 批基准统一（规则 ㉕）**：STI-244GP 列表价 $49.5 → 老表 $45；STI-288DGGPM $137.5 / STI-21616DGGPM $242 = 列表价封顶（25% 档更高）；群发里他已看到的价（续）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-30 $280（10G Enterprise SFP Switch）",
+   "price": "按 25%；**第 63 批基准统一（规则 ㉕）**：STI-244GP 列表价 $49.5 → 老表 $45；STI-288DGGPM $137.5 / STI-21616DGGPM $242 = 列表价封顶（25% 档更高）；群发里他已看到的价（续）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-30 $280（10G Enterprise SFP Switch）；第 76 批(b)：STI-244GP「老表 $45」高于主表 25% 档 $36.6 与历史实报 $35–40，文本改 $36.6",
    "why": "TR 主攻 + 已回复 = 写第二封。已打开的主题（2/9 封有打开记录）：「Booster PoE Switch」(2025-12-01)、「Re: Booster PoE Switch」(2025-12-02) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续｜已发资料（勿重发）：Download Link_Alan(2025-12-02)、Saga Feature List_7.5.x_L2+(2026-07-20)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）",
    "repeat": [],
    "gaps": [
@@ -169,7 +169,7 @@
   "next_move": {
    "when": "2026-11",
    "channel": "A 邮箱 → muratg@sge.com.tr",
-   "action": "对位表（2 款）+ 交期 10–15 天 + 一句话",
+   "action": "对位表（2 款）+ 交期 10–15 天 + 一句话（第 76 批(b) 2026-10-25：audit_ab 硬错误修正：STI-244GP $45 → $36.6）（第 76 批(c) 2026-10-25：audit_ab 软项修正：证书口径 CE/RoHS/FCC → CE/RoHS）",
    "one_question": "For the industrial PoE units you resell today, is a 10–15-day lead time (vs ~5 weeks) worth a sample on one SKU?"
   },
   "facts": [
@@ -185,7 +185,7 @@
   "proof_gaps": [],
   "draft_en": {
    "subject": "Price list — industrial PoE for resale",
-   "body": "Hi, Murat,\n\nYou asked for our price list in December and got a link; here is the part that matters for an industrial-PoE reseller, in the body:\n\n- STI-244GP: 4x GbE PoE + 2x SFP, unmanaged, DIN — $45 USD EXW\n- STI-288DGGPM: 8x GbE PoE + 2x SFP, L2+ managed, DIN — $137.5 USD EXW\n- STI-21616DGGPM: 16x GbE PoE + 2x SFP, L2+ managed — $242 USD EXW\n(2026-10 price table, valid 15 days from this mail)\nAll -40 to +75 C, CE/RoHS/FCC; 4-7 working days ex-works, i.e. 10-15 days to Istanbul by air.\n\nOne question: for the industrial PoE units you resell today, is that lead time (vs ~5 weeks from your current source) worth a paid sample on one SKU?\n\nThank you.\nAlan"
+   "body": "Hi, Murat,\n\nYou asked for our price list in December and got a link; here is the part that matters for an industrial-PoE reseller, in the body:\n\n- STI-244GP: 4x GbE PoE + 2x SFP, unmanaged, DIN — $36.6 USD EXW\n- STI-288DGGPM: 8x GbE PoE + 2x SFP, L2+ managed, DIN — $137.5 USD EXW\n- STI-21616DGGPM: 16x GbE PoE + 2x SFP, L2+ managed — $242 USD EXW\n(2026-10 price table, valid 15 days from this mail)\nAll -40 to +75 C, CE/RoHS; 4-7 working days ex-works, i.e. 10-15 days to Istanbul by air.\n\nOne question: for the industrial PoE units you resell today, is that lead time (vs ~5 weeks from your current source) worth a paid sample on one SKU?\n\nThank you.\nAlan"
   },
   "as_of": "2026-10-24"
  }

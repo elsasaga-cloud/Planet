@@ -36,7 +36,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GP — 自有 Innowatt 标工业 FS（现中科德能）→ 工业 8 PoE + 2 SFP 非管理 STI-288GP（$62.2 @30%）/ 管理 STI-288GPM（$85.5）贴标；商用位 STC-28DGGPM。已打开的主题（1/22 封有打开记录）：「OEM Core Switching Solution」(2026-01-28) → 读者兴趣偏「DC 核心/CENTEC」；与 P1 同类，继续；换人再触锚价 STI-288GP $60 EXW（最近实报 $60（SA-100 2025-03-18；SB-1276 / SA-030 同价）（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-19 $65（10G media converter）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-15 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：For the Innowatt-branded industrial PoE switches, we can be a second ODM source (DIN-rail 8-PoE + 2 SFP unmanaged/managed, −40~75 °C, CE/RoHS) from small lots in your packaging, EXW USD — which model do you reorder most often? Reference: STI-288GP at $60 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封（第 75 批(ab) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用；英文稿，不混意大利语））
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封（第 75 批(ab) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用；英文稿，不混意大利语））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -47,13 +47,14 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：自有 Innowatt 标工业 FS（现中科德能）→ 工业 8 PoE + 2 SFP 非管理 STI-288GP（$62.2 @30%）/ 管理 STI-288GPM（$85.5）贴标；商用位 STC-28DGGPM
 - **断点 / 为什么停在这里**：现代工中科德能（深圳）价格基准低；网店量小
 - **Saga 现在该推什么**：P1 **STI-288GP**（30% 档，换人再触锚价 STI-288GP $60 EXW（最近实报 $60（SA-100 2025-03-18；SB-1276 / SA-030 同价）（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-19 $65（10G media converter）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-15 $280（10G Enterprise SFP Switch））——自有 Innowatt 标工业 FS（现中科德能）→ 工业 8 PoE + 2 SFP 非管理 STI-288GP（$62.2 @30%）/ 管理 STI-288GPM（$85.5）贴标；商用位 STC-28DGGPM。已打开的主题（1/22 封有打开记录）：「OEM Core Switching Solution」(2026-01-28) → 读者兴趣偏「DC 核心/CENTEC」；与 P1 同类，继续
-- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封（第 75 批(ab) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用；英文稿，不混意大利语））
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封（第 75 批(ab) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用；英文稿，不混意大利语））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
   - 第一问（只问一个）：For the Innowatt-branded industrial PoE switches, we can be a second ODM source (DIN-rail 8-PoE + 2 SFP unmanaged/managed, −40~75 °C, CE/RoHS) from small lots in your packaging, EXW USD — which model do you reorder most often? Reference: STI-288GP at $60 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-09-16 | 去 | A/S 群发 | Industrial PoE Switch、Marvell Industrial Alert System | 22 封 / 1 次打开 / 0 回｜首封 2024-06-28 → 末封 2026-09-16（22 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 工业FS 中科德能的 | 表内备注 | `用户表` |
+| 2026-09-16 | 去 | A 箱（Alan） | 16 Port Industrial PoE Switch | 本日去信真实主题（邮箱索引 3016573139791dd0；信稿开头句引用此封；此前稿内写的「Industrial PoE Switch」是线程列表首题，不是本封） | `3016573139791dd0` |
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -278,7 +279,7 @@ updated: 2026-10-25
 ```text
 Hello Innowatt team,
 
-Over the past months you had a few product mails from us - most recently "Industrial PoE Switch" on 16 September 2026 - and there was no reason to answer a mass mail. This one is specific.
+Over the past months you had a few product mails from us - most recently "16 Port Industrial PoE Switch" on 16 September 2026 - and there was no reason to answer a mass mail. This one is specific.
 
 For the Innowatt-branded industrial PoE switches, a second ODM source in your packaging from small lots, -40 to 75 C, CE/RoHS: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, unmanaged - model STI-288GP - $62.2 USD EXW with your logo (MOQ 1, 15-day validity); the same L2 managed, Marvell-based - STI-288GPM - $85.5; commercial 8 x PoE+ + 2 x SFP L2+ - STC-28DGGPM - $87.4.
 

@@ -35,10 +35,10 @@ updated: 2026-10-25
 - **是谁**：土耳其伊斯坦布尔网络设备分销商（2006 年注册），自 2010 年起为中国 DCN（神州数码网络）交换机的土耳其分销商，官网称 2020 年起在土运行 DCN 设备超 10,000 台，产品线：核心/数据中心/L2/L3/PoE 交换机。用户表：2026 年自建站询盘「IM-FS280GW 100 台」（工业光纤交换机），兴趣 SFP/MC/商业 FS，也卖 ONV 工业 FS。（调研 2026-10-21；表内兴趣：SFP MC 商业FS  也有ONV的工业FS）
 - **为什么是 A 级**：+50 有成单/下单/买过记录（用户备注或跟进表）；+12 主动询盘（阿里巴巴/自建站/转介）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2026
 - **历史互动**：成交/下单过；WhatsApp 已加；推送 2 次（2025-09-29 → 2025-10-28）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM 对位 IM-FS280GW — 已打开的主题（1/17 封有打开记录）：「Industrial PoE Switch」(2025-10-28) → 读者兴趣偏「工业」；与 P1 同类，继续 最近一封去信是 2026-10-06 A 邮箱模板（在本档最后一条事实之后）——下一封必须回到真人线程、不再叠模板｜已发资料（勿重发）：Product Link_2026Q2(2026-03-05)、Product Link_2026Q3(2026-07-17)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-06 $65（10G fiber media converter）；群发里他已看到的价（续）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-29 $280（10G Enterprise SFP Switch）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM 对位 IM-FS280GW — 已打开的主题（1/17 封有打开记录）：「Industrial PoE Switch」(2025-10-28) → 读者兴趣偏「工业」；与 P1 同类，继续 最近一封去信是 2026-10-06 A 邮箱模板（在本档最后一条事实之后）——下一封必须回到真人线程、不再叠模板｜已发资料（勿重发）：Product Link_2026Q2(2026-03-05)、Product Link_2026Q3(2026-07-17)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-06 $65（10G fiber media converter）；群发里他已看到的价（续）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-29 $280（10G Enterprise SFP Switch）；第 76 批(c)：土耳其语整稿改英文（无「不懂英文」证据，两年邮件往来皆英文；信稿对位改为非 PoE STI-280DGGM $121（㉕ 封顶）+ PoE STI-288DGGPM $137.5）
 - **第一问（只问一个）**：Is the 100-unit industrial fiber-switch requirement (2×SFP + 8×GE) still open, and what spec sheet did the other vendor win on?
 - **最大未知**：年走量与现供应商
-- **下一步**：2026-11 A 邮箱 → info@coptek.com.tr（+ WA 若有） 一封对位表 + 问 100 台询盘
+- **下一步**：2026-11 A 邮箱 → info@coptek.com.tr（+ WA 若有） 一封对位表 + 问 100 台询盘（第 76 批(c) 2026-10-25：audit_ab 软项修正：署名「Alan Yan」→「Alan」（A 箱实际署名））（第 76 批(c) 2026-10-25：audit_ab 软项修正：土耳其语整稿 → 英文稿）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -48,14 +48,15 @@ updated: 2026-10-25
 - **现状一句话**：17 封群发只被打开 1 次（2025-10）。用户表说有 100 台工业光纤交换机询盘——若属实是 TR 最大单一需求之一，但邮件/PI 无痕迹。
 - **对方真实需求（有据）**：工业光纤交换机 2 光 8 电（100 台级）。
 - **断点 / 为什么停在这里**：渠道未知（WhatsApp/展会？）。
-- **Saga 现在该推什么**：P1 **STI-288DGGPM 对位 IM-FS280GW**（20% 档，—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-06 $65（10G fiber media converter）；群发里他已看到的价（续）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-29 $280（10G Enterprise SFP Switch））——已打开的主题（1/17 封有打开记录）：「Industrial PoE Switch」(2025-10-28) → 读者兴趣偏「工业」；与 P1 同类，继续 最近一封去信是 2026-10-06 A 邮箱模板（在本档最后一条事实之后）——下一封必须回到真人线程、不再叠模板｜已发资料（勿重发）：Product Link_2026Q2(2026-03-05)、Product Link_2026Q3(2026-07-17)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）
-- **下一步（具体）**：2026-11　A 邮箱 → info@coptek.com.tr（+ WA 若有）　一封对位表 + 问 100 台询盘
+- **Saga 现在该推什么**：P1 **STI-288DGGPM 对位 IM-FS280GW**（20% 档，—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-06 $65（10G fiber media converter）；群发里他已看到的价（续）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-29 $280（10G Enterprise SFP Switch）；第 76 批(c)：土耳其语整稿改英文（无「不懂英文」证据，两年邮件往来皆英文；信稿对位改为非 PoE STI-280DGGM $121（㉕ 封顶）+ PoE STI-288DGGPM $137.5））——已打开的主题（1/17 封有打开记录）：「Industrial PoE Switch」(2025-10-28) → 读者兴趣偏「工业」；与 P1 同类，继续 最近一封去信是 2026-10-06 A 邮箱模板（在本档最后一条事实之后）——下一封必须回到真人线程、不再叠模板｜已发资料（勿重发）：Product Link_2026Q2(2026-03-05)、Product Link_2026Q3(2026-07-17)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）
+- **下一步（具体）**：2026-11　A 邮箱 → info@coptek.com.tr（+ WA 若有）　一封对位表 + 问 100 台询盘（第 76 批(c) 2026-10-25：audit_ab 软项修正：署名「Alan Yan」→「Alan」（A 箱实际署名））（第 76 批(c) 2026-10-25：audit_ab 软项修正：土耳其语整稿 → 英文稿）
   - 第一问（只问一个）：Is the 100-unit industrial fiber-switch requirement (2×SFP + 8×GE) still open, and what spec sheet did the other vendor win on?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2024-11-05 | 去 | Simon → Angora Networks（SA-168）附件 Turkey Client List.xlsx | 名单行：「Commercial PoE info@coptek.com.tr http://www.coptek.com.tr/end%C3%BCstriyelethernet.html」 | Saga 2024-11-05 把本户列入交给 Angora（安卡拉，Saga 提议的欧盟/土耳其分销伙伴）的 64 家起步名单；此后 Saga 仍直发本户。若 Angora 已接触过本户，Saga 直发会与自己提议的渠道打架 → Q-51（默认：直发继续，Angora 报了价的户 Saga 只做技术支持） | `gmail_s 2024-11-05 Re: Invoice_5pcs STC-424DGGPM-280W（附件）+ Drive PI 7_土耳其 Turkey_Client_List.xlsx` |
 | 2025-10-28 | 去 | Saga（群发） | 「Industrial PoE Switch」被打开（Mailtrack Opened 标签） | 唯一的互动痕迹 | `04dd529092533295` |
+| 2026-10-06 | 去 | A 箱（Alan） | Managed PoE Switches | 最近一封去信（邮箱索引）；信稿开头句引用 | `mail_index` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：「100 台工业 FS 询盘」出处未见；在 Saga 给 Angora 的 Turkey Client List（2024-11-05）里——Angora 是否接触过本户无记录（Q-51）
 
@@ -283,19 +284,25 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：2×SFP + 8×GE endüstriyel switch — 100 adetlik talep
+**主题**：The 100-unit 2 x SFP + 8 x GE industrial switch requirement - still open?
 
 ```text
-Merhaba,
+Hello Coptek team,
 
-Daha önce konuştuğumuz 100 adetlik endüstriyel fiber switch (2× SFP + 8× GE) talebi hâlâ açık mı?
+Over the past two years you had a steady stream of product mails from us - most recently "Managed PoE Switches" on 6 October 2026 - and there was no reason to answer a mass mail. This one is specific.
 
-IM-FS280GW yerine önerimiz STI-288DGGPM: Marvell AC5, L2+ yönetilebilir, -40~75°C, 240 W PoE bütçesi (PoE'siz sürüm de var). Fiyatı USD 137.5 EXW (2026-10-17 anlık fiyat, 15 gün geçerli); 100 adette ayrıca konuşuruz.
+You once discussed with us a 100-unit requirement for an industrial fibre switch, 2 x SFP + 8 x Gigabit (the IM-FS280GW class). Our direct equivalents, DIN-rail, -40 to 75 C, L2+ managed, Marvell-based, CE/RoHS:
 
-Tek sorum: diğer tedarikçi hangi spesifikasyon/fiyatla kazandı? Bilirsek boşuna yazmayız.
+- non-PoE: 8 x Gigabit + 2 x 2.5G SFP - model STI-280DGGM - $121 USD EXW (MOQ 1, 15-day validity)
+- PoE+ version, 240 W budget: model STI-288DGGPM - $137.5 USD EXW
 
-Alan Yan
-Saga Telecom
+At 100 units the price is discussed separately; a sample is paid and credited against the order.
+
+One question: is the 100-unit requirement still open - and if it was already placed, which spec and price won it? If we know, we will not write for nothing.
+
+Best regards,
+Alan
+Saga Telecom - sagatele.com
 ```
 
 > 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。

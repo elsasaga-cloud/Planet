@@ -36,7 +36,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-154GP — 自有 JDK-POE-4P12（4 PoE 工业）→ 工业 4 PoE + 1 GE STI-154GP（$40.8 @30%）/ 8 口位 STI-288GPM（$85.5）贴 JDK 标；现 ONV 代工。已打开的主题（2/30 封有打开记录）：「10G media converter」(2024-09-02)、「Firmware 7.5 L2+ Feature Update」(2026-06-30) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续｜已发资料（勿重发）：Saga Software Function List_7.3, 7.4, (2025-10-24)、Saga Feature List_7.5.x_L2+(2026-06-30)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）；首触锚价 STI-154GP $40.8 EXW（主表档位（2024 实报 $36–38 低于档位，可用档位；PDF 上限 $51.7）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-12-17 $300（48 Port PoE Managed Switch）、2025-01-17 $240（24 Port Fiber Switch）；群发里他已看到的价（续，第 66 批全量复核）：2024-09-02 $65（10G Media Converter）、2025-10-07 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：For the JDK-POE-4P12 and your other industrial PoE models, we can be a second ODM source (DIN-rail 4-PoE + 1 GE, 8-PoE + 2 SFP managed; −40~75 °C, CE/RoHS; managed versions on a Marvell platform) from small lots in your housing — which model do you reorder most often? Reference: STI-154GP at $40.8 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：2026-11 A 邮箱 → info@jdktech.com.au 首封前知悉：Elsa 仅 2025-02-13 单发过 1 封「Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；短信一问（email_hook）
+- **下一步**：2026-11 A 邮箱 → info@jdktech.com.au 首封前知悉：Elsa 仅 2025-02-13 单发过 1 封「Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；短信一问（email_hook）（第 76 批(c) 2026-10-25：audit_ab 软项修正：证书口径 CE/RoHS → CE/RoHS (RCM stays on your side)）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -47,7 +47,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：自有 JDK-POE-4P12（4 PoE 工业）→ 工业 4 PoE + 1 GE STI-154GP（$40.8 @30%）/ 8 口位 STI-288GPM（$85.5）贴 JDK 标；现 ONV 代工
 - **断点 / 为什么停在这里**：现代工 ONV（深圳）价格基准低；非主攻区（T5），RCM 由客户申报
 - **Saga 现在该推什么**：P1 **STI-154GP**（30% 档，首触锚价 STI-154GP $40.8 EXW（主表档位（2024 实报 $36–38 低于档位，可用档位；PDF 上限 $51.7）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-12-17 $300（48 Port PoE Managed Switch）、2025-01-17 $240（24 Port Fiber Switch）；群发里他已看到的价（续，第 66 批全量复核）：2024-09-02 $65（10G Media Converter）、2025-10-07 $280（10G Enterprise SFP Switch））——自有 JDK-POE-4P12（4 PoE 工业）→ 工业 4 PoE + 1 GE STI-154GP（$40.8 @30%）/ 8 口位 STI-288GPM（$85.5）贴 JDK 标；现 ONV 代工。已打开的主题（2/30 封有打开记录）：「10G media converter」(2024-09-02)、「Firmware 7.5 L2+ Feature Update」(2026-06-30) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续｜已发资料（勿重发）：Saga Software Function List_7.3, 7.4, (2025-10-24)、Saga Feature List_7.5.x_L2+(2026-06-30)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）
-- **下一步（具体）**：2026-11　A 邮箱 → info@jdktech.com.au　首封前知悉：Elsa 仅 2025-02-13 单发过 1 封「Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；短信一问（email_hook）
+- **下一步（具体）**：2026-11　A 邮箱 → info@jdktech.com.au　首封前知悉：Elsa 仅 2025-02-13 单发过 1 封「Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；短信一问（email_hook）（第 76 批(c) 2026-10-25：audit_ab 软项修正：证书口径 CE/RoHS → CE/RoHS (RCM stays on your side)）
   - 第一问（只问一个）：For the JDK-POE-4P12 and your other industrial PoE models, we can be a second ODM source (DIN-rail 4-PoE + 1 GE, 8-PoE + 2 SFP managed; −40~75 °C, CE/RoHS; managed versions on a Marvell platform) from small lots in your housing — which model do you reorder most often? Reference: STI-154GP at $40.8 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -291,7 +291,7 @@ Hello,
 
 We have sent you a few mails on "Managed Optical Bypass Switch" and you never had a reason to answer — fair enough. No brochure this time, just one question:
 
-For the JDK-POE-4P12 and your other industrial PoE models, we can be a second ODM source (DIN-rail 4-PoE + 1 GE, 8-PoE + 2 SFP managed; −40~75 °C, CE/RoHS; managed versions on a Marvell platform) from small lots in your housing — which model do you reorder most often?
+For the JDK-POE-4P12 and your other industrial PoE models, we can be a second ODM source (DIN-rail 4-PoE + 1 GE, 8-PoE + 2 SFP managed; −40~75 °C, CE/RoHS (RCM stays on your side); managed versions on a Marvell platform) from small lots in your housing — which model do you reorder most often?
 
 Reference price: DIN-rail 4-PoE + 1-GE + 1-SFP unmanaged industrial switch (STI-154GP) $40.8 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.
 

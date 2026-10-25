@@ -96,10 +96,59 @@
   "next_move": {
    "when": "不动",
    "channel": "—",
-   "action": "—",
+   "action": "—（第 76 批(c) 2026-10-25：0 事实户补时间线事实）",
    "one_question": ""
   },
-  "facts": [],
+  "facts": [
+   {
+    "date": "2024-06-25",
+    "dir": "去",
+    "who": "S 箱（Simon）",
+    "quote": "10G fiber media converter",
+    "why": "首封去信（邮箱索引；去信共 32 封）",
+    "k": "75736e8b4d9ebc48"
+   },
+   {
+    "date": "2026-09-04",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "24 Port PoE Managed Switch",
+    "why": "最近一封去信（邮箱索引；去信共 32 封）",
+    "k": "44647e08d8340ed5"
+   },
+   {
+    "date": "2024-04-29",
+    "dir": "来",
+    "who": "sales@ksm.com.au",
+    "quote": "Thank you for your email, please select from one of the options below?｜In order to best service your inquiry, please make a selection:   For immediate attention please call reception: 02 8003",
+    "why": "自动分流回复（「please select from one of the options」，机器）",
+    "k": "20a1ffdbfe080423"
+   },
+   {
+    "date": "2024-05-23",
+    "dir": "来",
+    "who": "sales@ksm.com.au",
+    "quote": "Thank you for your email, please select from one of the options below?｜In order to best service your inquiry, please make a selection:   For immediate attention please call reception: 02 8003",
+    "why": "自动分流回复（「please select from one of the options」，机器）",
+    "k": "8c52c7e804df5e5b"
+   },
+   {
+    "date": "2024-06-25",
+    "dir": "来",
+    "who": "sales@ksm.com.au",
+    "quote": "Thank you for your email, please select from one of the options below?｜In order to best service your inquiry, please make a selection:   For immediate attention please call reception: 02 8003",
+    "why": "自动分流回复（「please select from one of the options」，机器）",
+    "k": "c09ebf5a9eef70eb"
+   },
+   {
+    "date": "2024-07-19",
+    "dir": "来",
+    "who": "sales@ksm.com.au",
+    "quote": "Thank you for your email, please select from one of the options below?｜In order to best service your inquiry, please make a selection:   For immediate attention please call reception: 02 8003",
+    "why": "自动分流回复（「please select from one of the options」，机器）",
+    "k": "44c06ef904f344a1"
+   }
+  ],
   "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-24"

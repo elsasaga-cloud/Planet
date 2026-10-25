@@ -36,7 +36,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 2 光 10 电需求 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%，口数 8+2，注明差异；10 GE + 2 SFP 型号待核）贴 tinycontrol 标；4F1G 位 HRUI STC-114GP（列表价，注明）；换人再触锚价 STC-28DGGPM $87.4 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-13 $65（10G Media Converter）；群发里他已看到的价（续）：2026-08-21 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-06-17 $220（48 port managed switch）、2025-10-21 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Marcin, for the PoE switches in the tinycontrol range (4F1G and the 2-fibre + 10-copper spec you asked about), we can be an ODM source on a Marvell L2+ platform (8/10-GE PoE + 2 SFP, web-managed, CE/RoHS) in your packaging from small lots — which configuration do you want quoted first? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封（第 75 批(af) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用）；2 光 10 电无标准型号，明说；STC-114GP 为 HRUI）
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封（第 75 批(af) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用）；2 光 10 电无标准型号，明说；STC-114GP 为 HRUI）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -47,13 +47,14 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：2 光 10 电需求 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%，口数 8+2，注明差异；10 GE + 2 SFP 型号待核）贴 tinycontrol 标；4F1G 位 HRUI STC-114GP（列表价，注明）
 - **断点 / 为什么停在这里**：22 次无回复（低期望，但用户标「可以着重跟一下」）；10 GE + 2 SFP 精确规格在 Saga 列表中待核；官网快照空
 - **Saga 现在该推什么**：P1 **STC-28DGGPM**（30% 档，换人再触锚价 STC-28DGGPM $87.4 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-13 $65（10G Media Converter）；群发里他已看到的价（续）：2026-08-21 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-06-17 $220（48 port managed switch）、2025-10-21 $280（10G Enterprise SFP Switch））——2 光 10 电需求 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%，口数 8+2，注明差异；10 GE + 2 SFP 型号待核）贴 tinycontrol 标；4F1G 位 HRUI STC-114GP（列表价，注明）
-- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封（第 75 批(af) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用）；2 光 10 电无标准型号，明说；STC-114GP 为 HRUI）
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封（第 75 批(af) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用）；2 光 10 电无标准型号，明说；STC-114GP 为 HRUI）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
   - 第一问（只问一个）：Marcin, for the PoE switches in the tinycontrol range (4F1G and the 2-fibre + 10-copper spec you asked about), we can be an ODM source on a Marvell L2+ platform (8/10-GE PoE + 2 SFP, web-managed, CE/RoHS) in your packaging from small lots — which configuration do you want quoted first? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-09-28 | 去 | A/S 群发 | 10G Enterprise SFP Switch、8 Port Industrial PoE Switch | 39 封 / 0 次打开 / 0 回｜首封 2024-06-17 → 末封 2026-09-28（39 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 产品比较少 但看着都比较专业；2光10电；下边是客户CC的 | 表内备注 | `用户表` |
+| 2026-09-28 | 去 | A 箱（Alan） | Managed PoE Switches | 本日去信真实主题（邮箱索引 b541a4df6d276a61；信稿开头句引用此封；此前稿内写的「10G Enterprise SFP Switch」是线程列表首题，不是本封） | `b541a4df6d276a61` |
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -283,7 +284,7 @@ updated: 2026-10-25
 ```text
 Hi Marcin,
 
-Over the past months you had a steady stream of product mails from us - most recently "10G Enterprise SFP Switch" on 28 September 2026 - and there was no reason to answer a mass mail. This one is specific.
+Over the past months you had a steady stream of product mails from us - most recently "Managed PoE Switches" on 28 September 2026 - and there was no reason to answer a mass mail. This one is specific.
 
 For the tinycontrol PoE range, straight: the 2-fibre + 10-copper layout you asked about we do not have as a standard model; the nearest is 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based - model STC-28DGGPM - $87.4 USD EXW with your logo (MOQ 1, 15-day validity). The 4F1G position exists exactly: 4 x Gigabit PoE+ + 1 x Gigabit + 1 x SFP, unmanaged - STC-114GP - $18.5. CE/RoHS; colour box from 200 sets.
 

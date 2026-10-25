@@ -95,10 +95,59 @@
   "next_move": {
    "when": "不动",
    "channel": "—",
-   "action": "—",
+   "action": "—（第 76 批(c) 2026-10-25：0 事实户补时间线事实）",
    "one_question": ""
   },
-  "facts": [],
+  "facts": [
+   {
+    "date": "2025-02-20",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "90W PoE Managed Switch",
+    "why": "首封去信（邮箱索引；去信共 18 封）",
+    "k": "31b5f5ee6776ba7a"
+   },
+   {
+    "date": "2026-09-23",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "Managed PoE Switches",
+    "why": "最近一封去信（邮箱索引；去信共 18 封）",
+    "k": "9c7e166425737891"
+   },
+   {
+    "date": "2023-11-02",
+    "dir": "来",
+    "who": "info@lanopia.de",
+    "quote": "Ihr email an Lanopia GmbH｜Vielen Dank fuer Ihr Email und das Interesse an unseren Lanopia Produkten und Dienstleistungen. Unser Kundendienst oder ",
+    "why": "自动回执（「Ihr email an Lanopia GmbH」，机器）",
+    "k": "8624aa9d96551841"
+   },
+   {
+    "date": "2023-12-21",
+    "dir": "来",
+    "who": "info@lanopia.de",
+    "quote": "Ihr email an Lanopia GmbH｜Vielen Dank fuer Ihr Email und das Interesse an unseren Lanopia Produkten und Dienstleistungen. Unser Kundendienst oder ",
+    "why": "自动回执（「Ihr email an Lanopia GmbH」，机器）",
+    "k": "a13983463633964b"
+   },
+   {
+    "date": "2024-03-11",
+    "dir": "来",
+    "who": "info@lanopia.de",
+    "quote": "Ihr email an Lanopia GmbH｜Vielen Dank fuer Ihr Email und das Interesse an unseren Lanopia Produkten und Dienstleistungen. Unser Kundendienst oder ",
+    "why": "自动回执（「Ihr email an Lanopia GmbH」，机器）",
+    "k": "ea3cc0c899b4ef91"
+   },
+   {
+    "date": "2024-04-15",
+    "dir": "来",
+    "who": "info@lanopia.de",
+    "quote": "Ihr email an Lanopia GmbH｜Vielen Dank fuer Ihr Email und das Interesse an unseren Lanopia Produkten und Dienstleistungen. Unser Kundendienst oder ",
+    "why": "自动回执（「Ihr email an Lanopia GmbH」，机器）",
+    "k": "a28f054e0c03188d"
+   }
+  ],
   "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-24"

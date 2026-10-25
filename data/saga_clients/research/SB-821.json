@@ -116,7 +116,7 @@
   "next_move": {
    "when": "2027-Q1（换人后）",
    "channel": "A 邮箱 → 具名 KP",
-   "action": "换收件人再发一封（第 75 批(aa) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））",
+   "action": "换收件人再发一封（第 75 批(aa) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）",
    "one_question": "Wassim, alongside the Utepo industrial switches in your edge range, we supply DIN-rail 8-PoE + 2 SFP managed (Marvell L2+) or unmanaged units (−40~75 °C, neutral packing) from small lots — is the industrial edge line something ECIN still stocks actively? Reference: STI-288GPM at $78.9 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
@@ -135,12 +135,20 @@
     "quote": "似乎是个分销商 有Upeto的 工业FS（宇航外壳） SFP DAC",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-09-09",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "16 Port Industrial PoE Switch",
+    "why": "本日去信真实主题（邮箱索引 031a2f0052ad4893；信稿开头句引用此封；此前稿内写的「Industrial PoE Switch」是线程列表首题，不是本封）",
+    "k": "031a2f0052ad4893"
    }
   ],
   "proof_gaps": [],
   "draft_en": {
    "subject": "Alongside the Utepo industrial switches in your edge range - is that line still active?",
-   "body": "Hi Wassim,\n\nOver the past months you had a few product mails from us - most recently \"Industrial PoE Switch\" on 9 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nSONiC white boxes, optics and TAPs are your core and we do not touch them. Alongside the Utepo industrial switches in your edge range, neutral packing, at distributor price, EXW, MOQ 1, 15-day validity, -40 to 75 C, FCC/CE/RoHS: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, L2 managed, Marvell-based - model STI-288GPM - $78.9 USD; the same unmanaged - STI-288GP - $60.\n\nOne question: is the industrial edge line something ECIN still stocks actively, or is it project-by-project now?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+   "body": "Hi Wassim,\n\nOver the past months you had a few product mails from us - most recently \"16 Port Industrial PoE Switch\" on 9 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nSONiC white boxes, optics and TAPs are your core and we do not touch them. Alongside the Utepo industrial switches in your edge range, neutral packing, at distributor price, EXW, MOQ 1, 15-day validity, -40 to 75 C, FCC/CE/RoHS: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, L2 managed, Marvell-based - model STI-288GPM - $78.9 USD; the same unmanaged - STI-288GP - $60.\n\nOne question: is the industrial edge line something ECIN still stocks actively, or is it project-by-project now?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
  }

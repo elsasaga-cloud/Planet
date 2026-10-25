@@ -36,7 +36,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424XGGM — 服务器/IT 经销配套 → 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）、8 口 PoE+ 2 SFP STC-28DGGPM（$80.7）；首触锚价 STC-424XGGM $127.4 EXW（主表档位（PDF 上限 $143；SA-002 2026-07 实报 $130）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：For the access switches you supply with servers, we offer neutral-brand Marvell-based 24-GE + 4×10G and 8-PoE + 2 SFP L2+ models from small lots, CE/RoHS; EAC by your side — which port count do your customers order most? Reference: STC-424XGGM at $127.4 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；具体需求型号（表内兴趣列为空）；官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
-- **下一步**：待 Simon 排期（首封） A 邮箱 → sales@server-x.by（无具名 KP；公用地址） 首封：按 email_hook 一问（第 75 批(l) 2026-10-25：英文信稿已写 `draft_en`）
+- **下一步**：待 Simon 排期（首封） A 邮箱 → sales@server-x.by（无具名 KP；公用地址） 首封：按 email_hook 一问（第 75 批(l) 2026-10-25：英文信稿已写 `draft_en`）（第 76 批(c) 2026-10-25：0 事实户补时间线事实）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -47,8 +47,12 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：服务器/IT 经销配套 → 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）、8 口 PoE+ 2 SFP STC-28DGGPM（$80.7）
 - **断点 / 为什么停在这里**：业务范围待核（官网 http_error、表内无兴趣备注）；白俄罗斯结算/合规风险；国别已改白俄罗斯（表内保加利亚为误记）
 - **Saga 现在该推什么**：P1 **STC-424XGGM**（20% 档，首触锚价 STC-424XGGM $127.4 EXW（主表档位（PDF 上限 $143；SA-002 2026-07 实报 $130）；第 72 批 2026-10-24）；按主表（研究档 saga_fit））——服务器/IT 经销配套 → 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）、8 口 PoE+ 2 SFP STC-28DGGPM（$80.7）
-- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → sales@server-x.by（无具名 KP；公用地址）　首封：按 email_hook 一问（第 75 批(l) 2026-10-25：英文信稿已写 `draft_en`）
+- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → sales@server-x.by（无具名 KP；公用地址）　首封：按 email_hook 一问（第 75 批(l) 2026-10-25：英文信稿已写 `draft_en`）（第 76 批(c) 2026-10-25：0 事实户补时间线事实）
   - 第一问（只问一个）：For the access switches you supply with servers, we offer neutral-brand Marvell-based 24-GE + 4×10G and 8-PoE + 2 SFP L2+ models from small lots, CE/RoHS; EAC by your side — which port count do your customers order most? Reference: STC-424XGGM at $127.4 USD EXW (MOQ 1, 15-day validity).
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 研 | 官网快照 / 用户表 | server-x.by 官网 http_error；表内国别误记「保加利亚」（.by = 白俄罗斯）；表内未跟进、无邮件往来 | 无任何邮件往来；唯一证据为研究快照与用户表 | `site_snapshot` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
 

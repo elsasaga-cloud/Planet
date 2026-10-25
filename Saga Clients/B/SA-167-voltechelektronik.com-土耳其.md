@@ -38,7 +38,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM — 安装商 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理，−40~+75 ℃，$137.5）；预算型 STI-288GP 非管理（$59.8）；按主表（研究档 saga_fit）（㉕ 封顶：STI-288DGGPM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25）
 - **第一问（只问一个）**：ISAF'ta aradığınız endüstriyel yönetilebilir PoE switch: DIN ray, 8 PoE+ port + 2 SFP, −40/+75 °C, $137.5 EXW; yönetilemeyen versiyonu $59.8. Saha dolabı 48 V DC mi?
 - **最大未知**：官网当前状态异常（域名不可达（DNS/连接失败））——公司是否仍在运营待核
-- **下一步**：待 Simon 排期（首封） A 邮箱 → info@voltechelektronik.com（无具名 KP；公用地址） 首封：按 email_hook 一问（第 74 批(r) 2026-10-25：英文信稿已写 `draft_en`，内容 = 土耳其语钩子句的英文版；土耳其语一句话仍在研究档备注里，对方若不读英文就整段单发）
+- **下一步**：待 Simon 排期（首封） A 邮箱 → info@voltechelektronik.com（无具名 KP；公用地址） 首封：按 email_hook 一问（第 74 批(r) 2026-10-25：英文信稿已写 `draft_en`，内容 = 土耳其语钩子句的英文版；土耳其语一句话仍在研究档备注里，对方若不读英文就整段单发）（第 76 批(c) 2026-10-25：0 事实户补时间线事实）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -49,8 +49,12 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：安装商 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理，−40~+75 ℃，$137.5）；预算型 STI-288GP 非管理（$59.8）
 - **断点 / 为什么停在这里**：微型；官网未建成
 - **Saga 现在该推什么**：P1 **STI-288DGGPM**（25% 档，按主表（研究档 saga_fit）（㉕ 封顶：STI-288DGGPM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25））——安装商 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理，−40~+75 ℃，$137.5）；预算型 STI-288GP 非管理（$59.8）
-- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → info@voltechelektronik.com（无具名 KP；公用地址）　首封：按 email_hook 一问（第 74 批(r) 2026-10-25：英文信稿已写 `draft_en`，内容 = 土耳其语钩子句的英文版；土耳其语一句话仍在研究档备注里，对方若不读英文就整段单发）
+- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → info@voltechelektronik.com（无具名 KP；公用地址）　首封：按 email_hook 一问（第 74 批(r) 2026-10-25：英文信稿已写 `draft_en`，内容 = 土耳其语钩子句的英文版；土耳其语一句话仍在研究档备注里，对方若不读英文就整段单发）（第 76 批(c) 2026-10-25：0 事实户补时间线事实）
   - 第一问（只问一个）：ISAF'ta aradığınız endüstriyel yönetilebilir PoE switch: DIN ray, 8 PoE+ port + 2 SFP, −40/+75 °C, $137.5 EXW; yönetilemeyen versiyonu $59.8. Saha dolabı 48 V DC mi?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 研 | 官网 | 业务范围与 WhatsApp 号码；网站建设中：Voltech Elektronik: Kamera sistemleri, telefon santral, bilgisayar çözümleri, alarm ve güvenlik sistemleri… Silivri ve çevresinde… Web sitemiz yapım aşamasında… WhatsApp: +90 551 375 12 25 | 无任何邮件往来；唯一证据为研究/用户表记录 | `http://www.voltechelektronik.com/` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来；用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码
 

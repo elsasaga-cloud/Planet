@@ -144,10 +144,27 @@
     "next_move": {
       "when": "2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）",
       "channel": "LinkedIn Pasquale Pirozzi / 4power.it 表单（无邮箱）",
-      "action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(al) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；LinkedIn/表单一句话；Q-33 渠道户但 Simon 定 A，一问不加频）",
+      "action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(al) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；LinkedIn/表单一句话；Q-33 渠道户但 Simon 定 A，一问不加频）（第 76 批(c) 2026-10-25：0 事实户补时间线事实）",
       "one_question": "You are PLANET's official Italian distributor and you also run your own 4Net networking brand, so you already know what Taiwan-grade PoE switches cost and what Italian installers accept. For the 4Net brand, do you source PoE switches as finished goods under your label today, or only resell PLANET as-is? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
     },
-    "facts": [],
+    "facts": [
+      {
+        "date": "2025-01-29",
+        "dir": "去",
+        "who": "A 箱（Alan）",
+        "quote": "L3 Managed Switch",
+        "why": "首封去信（邮箱索引；去信共 17 封）",
+        "k": "cd820a5afe406a84"
+      },
+      {
+        "date": "2026-10-08",
+        "dir": "去",
+        "who": "A 箱（Alan）",
+        "quote": "Managed PoE Switches",
+        "why": "最近一封去信（邮箱索引；去信共 17 封）",
+        "k": "e0fe9ccf2544222f"
+      }
+    ],
     "proof_gaps": [
       "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 从未去信、Replied 索引亦无此户），仓库未见原文"
     ],

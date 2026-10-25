@@ -38,7 +38,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-4168XGGCM — 集成商 25% 档（仅商用项目）：STC-4168XGGCM（16 SFP + 8 Combo + 4×10G，L3，$392.4）作光纤汇聚；接入 STC-28DGGPM；仅供非政府、非交通项目。已打开的主题（1/22 封有打开记录）：「Marvell Industrial Alert System」(2025-12-12) → 读者兴趣偏「工业」；与 P1 同类，继续；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-11 $300（48 Port PoE Managed Switch）、2024-12-31 $240（24 Port Fiber Switch）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-07 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：For your commercial fiber-to-the-building jobs, a 16-SFP + 8-combo L3 aggregation switch with 4×10G uplinks is $392.4 EXW; if a private-campus project is coming up I can quote it with the matching PoE edge units.
 - **最大未知**：年走量与现供应商
-- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封（第 75 批(w) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用）；STC-4168XGGCM 不报价（他 2025-10 见过群发 $280，档位 $392 冲突）；政府/军/轨交守界已在信里划开）
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封（第 75 批(w) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用）；STC-4168XGGCM 不报价（他 2025-10 见过群发 $280，档位 $392 冲突）；政府/军/轨交守界已在信里划开）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -49,13 +49,14 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：集成商 25% 档（仅商用项目）：STC-4168XGGCM（16 SFP + 8 Combo + 4×10G，L3，$392.4）作光纤汇聚；接入 STC-28DGGPM；仅供非政府、非交通项目
 - **断点 / 为什么停在这里**：政府/DoD/交通项目占比高 → TAA/BAA 与守界；18 次跟进 0 回复；仅商用项目可推进
 - **Saga 现在该推什么**：P1 **STC-4168XGGCM**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-11 $300（48 Port PoE Managed Switch）、2024-12-31 $240（24 Port Fiber Switch）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-07 $280（10G Enterprise SFP Switch））——集成商 25% 档（仅商用项目）：STC-4168XGGCM（16 SFP + 8 Combo + 4×10G，L3，$392.4）作光纤汇聚；接入 STC-28DGGPM；仅供非政府、非交通项目。已打开的主题（1/22 封有打开记录）：「Marvell Industrial Alert System」(2025-12-12) → 读者兴趣偏「工业」；与 P1 同类，继续
-- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封（第 75 批(w) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用）；STC-4168XGGCM 不报价（他 2025-10 见过群发 $280，档位 $392 冲突）；政府/军/轨交守界已在信里划开）
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封（第 75 批(w) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用）；STC-4168XGGCM 不报价（他 2025-10 见过群发 $280，档位 $392 冲突）；政府/军/轨交守界已在信里划开）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
   - 第一问（只问一个）：For your commercial fiber-to-the-building jobs, a 16-SFP + 8-combo L3 aggregation switch with 4×10G uplinks is $392.4 EXW; if a private-campus project is coming up I can quote it with the matching PoE edge units.
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-02-16 | 去 | A/S 群发 | Marvell Industrial Alert System、OEM Core Switching Solution | 22 封 / 1 次打开 / 0 回｜首封 2024-06-29 → 末封 2026-02-16（22 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | （用户表字段） | 表内备注 | `用户表` |
+| 2026-02-16 | 去 | A 箱（Alan） | Updated Ethernet Switches Links | 本日去信真实主题（邮箱索引 1238f68b8cc2c28e；信稿开头句引用此封；此前稿内写的「Marvell Industrial Alert System」是线程列表首题，不是本封） | `1238f68b8cc2c28e` |
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -272,7 +273,7 @@ updated: 2026-10-25
 ```text
 Hello J&M Fiber Optics team,
 
-Over the past months you had a few product mails from us - most recently "Marvell Industrial Alert System" on 16 February 2026 - and there was no reason to answer a mass mail. This one is specific.
+Over the past months you had a few product mails from us - most recently "Updated Ethernet Switches Links" on 16 February 2026 - and there was no reason to answer a mass mail. This one is specific.
 
 For the commercial fibre-to-the-building and private-campus jobs (not the government or transit work - different rules there), the PoE edge unit, FCC/CE/RoHS: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based - model STC-28DGGPM - $84.1 USD EXW (MOQ 1, 15-day validity); 24 x PoE+ (280 W) + 4 x 10G SFP+ - STC-424XGGPM-280W - $180. The fibre aggregation unit (16 x SFP + 8 x combo, 4 x 10G uplinks, L3) I quote against the project's port plan rather than as a list number.
 

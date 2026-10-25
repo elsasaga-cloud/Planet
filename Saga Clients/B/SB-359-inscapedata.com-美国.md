@@ -38,7 +38,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-488XGGPM — 10G 大口工业 PoE → STI-488XGGPM（4×10G SFP+ + 8 PoE，$178.7 @30%）贴 Inscape 标；入门 STI-288GP。已打开的主题（1/31 封有打开记录）：「24 Port Fiber Switch」(2025-01-07) → 读者兴趣偏「MC/光电」；与 P1 同类，继续；换人再触锚价 STI-488XGGPM $178.8 EXW（主表档位（Q-59 默认；PDF $269.5 远高于档位，档案注差价）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-22 $220（10G managed switch）；群发里他已看到的价（续）：2026-07-27 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-01-07 $240（24 Port Fiber Switch）、2025-10-09 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Sergio, for the Inscape / PoEsuperstore industrial line — DIN 8-PoE with 4×10G SFP+ uplinks (L2+, −40~75 ℃) under your label from small lots, FCC/CE; is the 10G-uplink SKU the gap you mentioned, or the plain 2-SFP one? Reference: STI-488XGGPM at $178.8 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封（第 75 批(u) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封（第 75 批(u) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -49,13 +49,14 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：10G 大口工业 PoE → STI-488XGGPM（4×10G SFP+ + 8 PoE，$178.7 @30%）贴 Inscape 标；入门 STI-288GP。
 - **断点 / 为什么停在这里**：美国：常要求 UL 列名（Saga 无 UL，仅 FCC/CE）→ 首触即说明
 - **Saga 现在该推什么**：P1 **STI-488XGGPM**（30% 档，换人再触锚价 STI-488XGGPM $178.8 EXW（主表档位（Q-59 默认；PDF $269.5 远高于档位，档案注差价）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-22 $220（10G managed switch）；群发里他已看到的价（续）：2026-07-27 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-01-07 $240（24 Port Fiber Switch）、2025-10-09 $280（10G Enterprise SFP Switch））——10G 大口工业 PoE → STI-488XGGPM（4×10G SFP+ + 8 PoE，$178.7 @30%）贴 Inscape 标；入门 STI-288GP。已打开的主题（1/31 封有打开记录）：「24 Port Fiber Switch」(2025-01-07) → 读者兴趣偏「MC/光电」；与 P1 同类，继续
-- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封（第 75 批(u) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封（第 75 批(u) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
   - 第一问（只问一个）：Sergio, for the Inscape / PoEsuperstore industrial line — DIN 8-PoE with 4×10G SFP+ uplinks (L2+, −40~75 ℃) under your label from small lots, FCC/CE; is the 10G-uplink SKU the gap you mentioned, or the plain 2-SFP one? Reference: STI-488XGGPM at $178.8 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-10-01 | 去 | A/S 群发 | Managed Optical Bypass Switch、Marvell Industrial Alert System | 31 封 / 1 次打开 / 0 回｜首封 2024-06-25 → 末封 2026-10-01（31 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 兴趣：工业FS MC PoE配件 SFP 10G大口 他们的店铺 https://www.PoEsuperstore.com/ | 表内备注 | `用户表` |
+| 2026-10-01 | 去 | A 箱（Alan） | Managed PoE Switches | 本日去信真实主题（邮箱索引 492907df13fa09a9；信稿开头句引用此封；此前稿内写的「Managed Optical Bypass Switch」是线程列表首题，不是本封） | `492907df13fa09a9` |
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -292,7 +293,7 @@ updated: 2026-10-25
 ```text
 Hi Sergio,
 
-Over the past months you had a few product mails from us - most recently "Managed Optical Bypass Switch" on 1 October 2026 - and there was no reason to answer a mass mail. This one is specific.
+Over the past months you had a few product mails from us - most recently "Managed PoE Switches" on 1 October 2026 - and there was no reason to answer a mass mail. This one is specific.
 
 For the Inscape / PoEsuperstore industrial line, under your label from small lots, -40 to 75 C, FCC/CE: DIN-rail 8 x Gigabit PoE+ + 4 x 10G SFP+, L2+ managed with ring redundancy, Marvell-based - model STI-488XGGPM - $178.8 USD EXW (MOQ 1, 15-day validity); entry unit, 8 x PoE+ + 2 x SFP unmanaged - STI-288GP - $62.2. Logo on the unit is free; colour box from 200 sets.
 

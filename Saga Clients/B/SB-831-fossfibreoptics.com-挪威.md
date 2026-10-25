@@ -36,7 +36,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — —；—；群发里他已看到的价（续）：2026-07-29 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-07-16 $300（48 Port PoE Managed Switch）、2025-09-19 $240（24 Port Fiber Switch）、2026-06-18 $16000（32 Port 400GB DC Switch）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
-- **下一步**：不动 — —
+- **下一步**：不动 — —（第 76 批(c) 2026-10-25：0 事实户补时间线事实）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -47,7 +47,13 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：—
 - **断点 / 为什么停在这里**：—
 - **Saga 现在该推什么**：P1 **—**（20% 档，—；群发里他已看到的价（续）：2026-07-29 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-07-16 $300（48 Port PoE Managed Switch）、2025-09-19 $240（24 Port Fiber Switch）、2026-06-18 $16000（32 Port 400GB DC Switch））———
-- **下一步（具体）**：不动　—　—
+- **下一步（具体）**：不动　—　—（第 76 批(c) 2026-10-25：0 事实户补时间线事实）
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2025-06-20 | 去 | A 箱（Alan） | 8 Port Industrial PoE Switch | 首封去信（邮箱索引；去信共 13 封） | `cc97fd4f41434a29` |
+| 2026-09-14 | 去 | A 箱（Alan） | 16 Port Industrial PoE Switch | 最近一封去信（邮箱索引；去信共 13 封） | `404533ecd9518ad1` |
+| 2025-06-20 | 来 | info@foss-as.no | Hjertelig velkommen til｜Hei Alan from Saga,  Du mottar denne e-posten fordi vi har registrert personopplysninger om deg i vårt system, og vil in | GDPR 登记通知（机器群发，不算回复） | `6d519848b7f9569a` |
 
 ## 基本事实（事实/推断/假设分层）
 

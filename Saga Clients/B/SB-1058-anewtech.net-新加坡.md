@@ -36,7 +36,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 在售 ORing 工业系列 → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-288GP 同口型替换；EN50155 轨道线不报。已打开的主题（1/25 封有打开记录）：「16 Port Ethernet Switch」(2025-06-10) → 读者兴趣主题类别不明（看原主题）；换人再触锚价 STI-288GPM $78.9 EXW（主表档位（PDF 上限 $88；SA-026 2025-07 实报 $72 为分销量价）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-22 $300（48 port poe managed switch）、2024-11-28 $65（10G Media Converter）；群发里他已看到的价（续）：2026-07-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-20 $280（10G Enterprise SFP Switch）、2026-06-15 $16000（32 Port 400GB DC Switch）
 - **第一问（只问一个）**：Alongside the ORing industrial switches you supply with your IPC platforms, we offer DIN-rail 8-PoE + 2 SFP managed (Marvell L2+) or unmanaged units (−40~75 °C, neutral packing, CE/RoHS) from small lots, EXW — which ORing model do your projects use most, so we quote its equivalent? Reference: STI-288GPM at $78.9 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
-- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封（第 75 批(ah) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封（第 75 批(ah) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -47,13 +47,14 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：在售 ORing 工业系列 → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-288GP 同口型替换；EN50155 轨道线不报
 - **断点 / 为什么停在这里**：非主攻区（T5）；现有 ORing（台湾）供货稳定
 - **Saga 现在该推什么**：P1 **STI-288GPM**（20% 档，换人再触锚价 STI-288GPM $78.9 EXW（主表档位（PDF 上限 $88；SA-026 2025-07 实报 $72 为分销量价）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-22 $300（48 port poe managed switch）、2024-11-28 $65（10G Media Converter）；群发里他已看到的价（续）：2026-07-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-20 $280（10G Enterprise SFP Switch）、2026-06-15 $16000（32 Port 400GB DC Switch））——在售 ORing 工业系列 → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-288GP 同口型替换；EN50155 轨道线不报。已打开的主题（1/25 封有打开记录）：「16 Port Ethernet Switch」(2025-06-10) → 读者兴趣主题类别不明（看原主题）
-- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封（第 75 批(ah) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封（第 75 批(ah) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
   - 第一问（只问一个）：Alongside the ORing industrial switches you supply with your IPC platforms, we offer DIN-rail 8-PoE + 2 SFP managed (Marvell L2+) or unmanaged units (−40~75 °C, neutral packing, CE/RoHS) from small lots, EXW — which ORing model do your projects use most, so we quote its equivalent? Reference: STI-288GPM at $78.9 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-09-22 | 去 | A/S 群发 | Marvell Industrial Alert System、Industrial PoE Switch | 25 封 / 1 次打开 / 0 回｜首封 2024-07-01 → 末封 2026-09-22（25 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 主要是Oring的工业系列 | 表内备注 | `用户表` |
+| 2026-09-22 | 去 | A 箱（Alan） | 16 Port Industrial PoE Switch | 本日去信真实主题（邮箱索引 1c3b46d610a21c42；信稿开头句引用此封；此前稿内写的「Marvell Industrial Alert System」是线程列表首题，不是本封） | `1c3b46d610a21c42` |
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -280,7 +281,7 @@ updated: 2026-10-25
 ```text
 Hello Anewtech team,
 
-Over the past months you had a few product mails from us - most recently "Marvell Industrial Alert System" on 22 September 2026 - and there was no reason to answer a mass mail. This one is specific.
+Over the past months you had a few product mails from us - most recently "16 Port Industrial PoE Switch" on 22 September 2026 - and there was no reason to answer a mass mail. This one is specific.
 
 Alongside the ORing industrial switches you supply with your IPC platforms, neutral packing, at distributor price, EXW, MOQ 1, 15-day validity, -40 to 75 C, CE/RoHS: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, L2 managed, Marvell-based - model STI-288GPM - $78.9 USD; the same unmanaged - STI-288GP - $60. EN 50155 rail positions we do not quote - said up front.
 

@@ -36,7 +36,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：光 bypass 管理型 — 已打开的主题（3/29 封有打开记录）：「24 Port Fiber Switch」(2025-08-05)、「10G Media Converter」(2025-09-01)、「Re: OEM Core Switching Solution」(2026-02-06) → 读者兴趣偏「MC/光电」；当前 P1 属「旁路/Booster」，下一封按「MC/光电」给，不按 P1｜已发资料（勿重发）：STI-488XGGPM2B-2BT(2026-02-06)、Product Link_2026Q2(2026-03-31)、Product Link_2026Q3(2026-07-15)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）；按主表；历史报价（邮件原话，老汇率）：2026-02-06 ；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-28 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-08-05 $240（24 Port Fiber Switch）、2025-09-01 $65（10G Media Converter）、2025-09-23 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：What volume would copper bypass need, and in which form — built-in or a separate 1U module?
 - **最大未知**：年走量与现供应商
-- **下一步**：2026-11 A 邮箱 → jskim@solway.co.kr 首封前知悉：Elsa 仅 2025-02-12 单发过 1 封「Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；补价
+- **下一步**：2026-11 A 邮箱 → jskim@solway.co.kr 首封前知悉：Elsa 仅 2025-02-12 单发过 1 封「Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；补价（第 76 批(c) 2026-10-25：audit_ab 软项修正：署名「Alan Yan」→「Alan」（A 箱实际署名））
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -48,7 +48,7 @@ updated: 2026-10-25
 - **断点 / 为什么停在这里**：产品线。
 - **Saga 现在该推什么**：P1 **光 bypass 管理型**（25% 档，按主表；历史报价（邮件原话，老汇率）：2026-02-06 ；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-28 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-08-05 $240（24 Port Fiber Switch）、2025-09-01 $65（10G Media Converter）、2025-09-23 $280（10G Enterprise SFP Switch））——已打开的主题（3/29 封有打开记录）：「24 Port Fiber Switch」(2025-08-05)、「10G Media Converter」(2025-09-01)、「Re: OEM Core Switching Solution」(2026-02-06) → 读者兴趣偏「MC/光电」；当前 P1 属「旁路/Booster」，下一封按「MC/光电」给，不按 P1｜已发资料（勿重发）：STI-488XGGPM2B-2BT(2026-02-06)、Product Link_2026Q2(2026-03-31)、Product Link_2026Q3(2026-07-15)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）
   - 做不了 / 要先核的：光 bypass 报价是否已给
-- **下一步（具体）**：2026-11　A 邮箱 → jskim@solway.co.kr　首封前知悉：Elsa 仅 2025-02-12 单发过 1 封「Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；补价
+- **下一步（具体）**：2026-11　A 邮箱 → jskim@solway.co.kr　首封前知悉：Elsa 仅 2025-02-12 单发过 1 封「Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；补价（第 76 批(c) 2026-10-25：audit_ab 软项修正：署名「Alan Yan」→「Alan」（A 箱实际署名））
   - 第一问（只问一个）：What volume would copper bypass need, and in which form — built-in or a separate 1U module?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -240,8 +240,8 @@ In February I quoted the optical-bypass managed industrial switch at USD 280 and
 1. Current list for the 1-channel optical-bypass unit is USD 225.4 EXW and the 2-channel unit USD 283.7 EXW (snapshot 2026-10-17, valid 15 days).
 2. Copper bypass can be developed if there is a quantity behind it — what volume would your project need, and in which form (built into the switch, or a separate 1U module)?
 
-Alan Yan
-Saga Telecom
+Alan
+Saga Telecom - sagatele.com
 ```
 
 > 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。

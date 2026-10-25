@@ -106,7 +106,7 @@
   "next_move": {
    "when": "2027-Q1（换人后）",
    "channel": "A 邮箱 → 具名 KP",
-   "action": "换收件人再发一封（第 75 批(v) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））",
+   "action": "换收件人再发一封（第 75 批(v) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）",
    "one_question": "Charles, for the media converters in the Canary range, we can be a second source alongside your current Taiwanese supplier — industrial gigabit and PoE MCs plus 8-GE + 2 SFP switches in your packaging from small lots, FCC/CE/RoHS — which MC model do your distributors reorder most? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
@@ -125,12 +125,20 @@
     "quote": "从VOLKTEK 买MC",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-09-16",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "16 Port Industrial PoE Switch",
+    "why": "本日去信真实主题（邮箱索引 eef9395cf4d46f7c；信稿开头句引用此封；此前稿内写的「10G Enterprise SFP Switch」是线程列表首题，不是本封）",
+    "k": "eef9395cf4d46f7c"
    }
   ],
   "proof_gaps": [],
   "draft_en": {
    "subject": "A second source for the media converters in the Canary range",
-   "body": "Hi Charles,\n\nOver the past months you had a few product mails from us - most recently \"10G Enterprise SFP Switch\" on 16 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the media converters in the Canary range (GT-55PD / GF-55 class), a second source alongside your current Taiwanese supplier, in Canary packaging from small lots, FCC/CE/RoHS: industrial Gigabit converter, 1 x RJ45 + 1 x SFP slot (fixed SC optional) - model STI-110GE - $26.5 USD EXW (MOQ 1, 15-day validity); PoE version - STI-111GP - $30.1; and an 8 x Gigabit + 2 x SFP unmanaged DIN switch - STI-280GE - $46.\n\nOne question: which converter model do your distributors reorder most - that is the one worth a side-by-side with the Volktek unit?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+   "body": "Hi Charles,\n\nOver the past months you had a few product mails from us - most recently \"16 Port Industrial PoE Switch\" on 16 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the media converters in the Canary range (GT-55PD / GF-55 class), a second source alongside your current Taiwanese supplier, in Canary packaging from small lots, FCC/CE/RoHS: industrial Gigabit converter, 1 x RJ45 + 1 x SFP slot (fixed SC optional) - model STI-110GE - $26.5 USD EXW (MOQ 1, 15-day validity); PoE version - STI-111GP - $30.1; and an 8 x Gigabit + 2 x SFP unmanaged DIN switch - STI-280GE - $46.\n\nOne question: which converter model do your distributors reorder most - that is the one worth a side-by-side with the Volktek unit?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
  }

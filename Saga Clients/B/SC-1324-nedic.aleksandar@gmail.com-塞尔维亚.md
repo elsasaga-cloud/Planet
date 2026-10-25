@@ -36,10 +36,10 @@ updated: 2026-10-25
 - **是谁**：S 邮箱 2024-05-16 两封来信：要产品目录、想订几台测试；再问价表与 MOQ。Simon 两次都让他自己去 Profile 第 13 页的 Google Drive 链接看（「We do not have a standard catalog」「MoQ is 2 pieces」）→ 无回；2026-09-15 推 16 口 DIN PoE 无回。（调研 2026-10-24；表内兴趣：PoE 工商业都用 工业为主）
 - **为什么是 B 级**：**调研后定级 B**（欧洲（塞尔维亚）、两封主动来信、明确想买测试样机；断点在我们（让客户自己去 Drive 翻）；B 慢慢跟进。）；自动分级 C：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+0 仅免费邮箱；-15 只有免费邮箱、无公司名无网站（个人买家特征）；+8 区域 欧洲/塞尔维亚；+5 最近活动 2025；-10 推送 14 次无任何回复（聋名单）
 - **历史互动**：推送 14 次（2024-05-15 → 2025-10-06）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：工业 PoE 三款：STI-154GP（4 PoE+1 SFP+1 GE）/ STI-288DGGPM（8 PoE + 2×2.5G SFP，$137.5）/ STC-28DGGPM（$99） — 已发资料（勿重发）：PROFILE + 价表照片(2024-05-16)；STC-28DGGPM $99；STI-288DGGPM $137.5；STI-054GP $42.9（主表 @6.69）；**第 63 批基准统一（规则 ㉕）**：STC-28DGGPM 列表价 $99 → 25% 档 $84.1；STI-054GP 列表价 $42.9 → 老表 $39（非管理工业线 SmartByte 成本表是 2024 的，档位价 $32.5 不可靠；Simon 2026-04 给 SB-093 报 $33）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：工业 PoE 三款：STI-154GP（4 PoE+1 SFP+1 GE）/ STI-288DGGPM（8 PoE + 2×2.5G SFP，$137.5）/ STC-28DGGPM（$99） — 已发资料（勿重发）：PROFILE + 价表照片(2024-05-16)｜档位说明（原 tier 字段文字「经销 25%」移此）：经销 25%；STC-28DGGPM $99；STI-288DGGPM $137.5；STI-054GP $42.9（主表 @6.69）；**第 63 批基准统一（规则 ㉕）**：STC-28DGGPM 列表价 $99 → 25% 档 $84.1；STI-054GP 列表价 $42.9 → 老表 $39（非管理工业线 SmartByte 成本表是 2024 的，档位价 $32.5 不可靠；Simon 2026-04 给 SB-093 报 $33）
 - **第一问（只问一个）**：Aleksandar — in 2024 you asked for a catalog and test units and I sent you links instead of prices; here they are: 8-PoE + 2 SFP industrial $137.5, 8-PoE + 4 SFP desktop $99, 4-PoE + 1 GE industrial $42.9 USD EXW, single units OK. Which one would you test first?
 - **最大未知**：公司网站（表内无域名，无法核实是否仍在运营）
-- **下一步**：2026-12 S 邮箱 → nedic.aleksandar@gmail.com（回 2024-05-16 原线程「Industrial PoE Switch」） 一封把价写在信里的信：3 款工业/商用 PoE 的 EXW 价 + MOQ 1 + 样机可单台；问他要测哪一款
+- **下一步**：2026-12 S 邮箱 → nedic.aleksandar@gmail.com（回 2024-05-16 原线程「Industrial PoE Switch」） 一封把价写在信里的信：3 款工业/商用 PoE 的 EXW 价 + MOQ 1 + 样机可单台；问他要测哪一款（第 76 批(b) 2026-10-25：audit_ab 硬错误修正：tier 字段规范为数字）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -49,10 +49,10 @@ updated: 2026-10-25
 - **现状一句话**：塞尔维亚的 Aleksandar 2024-05 想要目录和测试样机，Simon 让他去 Profile 第 13 页的 Drive 链接自取，再无音讯。
 - **对方真实需求（有据）**：拓展网络业务的起步采购：目录、价表、MOQ、测试样机。
 - **断点 / 为什么停在这里**：没有人把价直接写在信里。
-- **Saga 现在该推什么**：P1 **工业 PoE 三款：STI-154GP（4 PoE+1 SFP+1 GE）/ STI-288DGGPM（8 PoE + 2×2.5G SFP，$137.5）/ STC-28DGGPM（$99）**（经销 25%% 档，STC-28DGGPM $99；STI-288DGGPM $137.5；STI-054GP $42.9（主表 @6.69）；**第 63 批基准统一（规则 ㉕）**：STC-28DGGPM 列表价 $99 → 25% 档 $84.1；STI-054GP 列表价 $42.9 → 老表 $39（非管理工业线 SmartByte 成本表是 2024 的，档位价 $32.5 不可靠；Simon 2026-04 给 SB-093 报 $33））——已发资料（勿重发）：PROFILE + 价表照片(2024-05-16)
+- **Saga 现在该推什么**：P1 **工业 PoE 三款：STI-154GP（4 PoE+1 SFP+1 GE）/ STI-288DGGPM（8 PoE + 2×2.5G SFP，$137.5）/ STC-28DGGPM（$99）**（25% 档，STC-28DGGPM $99；STI-288DGGPM $137.5；STI-054GP $42.9（主表 @6.69）；**第 63 批基准统一（规则 ㉕）**：STC-28DGGPM 列表价 $99 → 25% 档 $84.1；STI-054GP 列表价 $42.9 → 老表 $39（非管理工业线 SmartByte 成本表是 2024 的，档位价 $32.5 不可靠；Simon 2026-04 给 SB-093 报 $33））——已发资料（勿重发）：PROFILE + 价表照片(2024-05-16)｜档位说明（原 tier 字段文字「经销 25%」移此）：经销 25%
   - 复购/在买项：小；量；起；步
   - 做不了 / 要先核的：他；要；的；「；s；o；m；e； ；p；i；e；c；e；s； ；o；f； ；e；q；u；i；p；m；e；n；t；」；是；什；么
-- **下一步（具体）**：2026-12　S 邮箱 → nedic.aleksandar@gmail.com（回 2024-05-16 原线程「Industrial PoE Switch」）　一封把价写在信里的信：3 款工业/商用 PoE 的 EXW 价 + MOQ 1 + 样机可单台；问他要测哪一款
+- **下一步（具体）**：2026-12　S 邮箱 → nedic.aleksandar@gmail.com（回 2024-05-16 原线程「Industrial PoE Switch」）　一封把价写在信里的信：3 款工业/商用 PoE 的 EXW 价 + MOQ 1 + 样机可单台；问他要测哪一款（第 76 批(b) 2026-10-25：audit_ab 硬错误修正：tier 字段规范为数字）
   - 第一问（只问一个）：Aleksandar — in 2024 you asked for a catalog and test units and I sent you links instead of prices; here they are: 8-PoE + 2 SFP industrial $137.5, 8-PoE + 4 SFP desktop $99, 4-PoE + 1 GE industrial $42.9 USD EXW, single units OK. Which one would you test first?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |

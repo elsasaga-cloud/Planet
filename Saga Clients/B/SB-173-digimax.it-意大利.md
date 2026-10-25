@@ -36,7 +36,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — —；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-19 $65（10G media converter）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-15 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
-- **下一步**：不动 — —
+- **下一步**：不动 — —（第 76 批(c) 2026-10-25：0 事实户补时间线事实）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -47,7 +47,13 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：—
 - **断点 / 为什么停在这里**：—
 - **Saga 现在该推什么**：P1 **—**（20% 档，—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-19 $65（10G media converter）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-15 $280（10G Enterprise SFP Switch））———
-- **下一步（具体）**：不动　—　—
+- **下一步（具体）**：不动　—　—（第 76 批(c) 2026-10-25：0 事实户补时间线事实）
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2024-06-28 | 去 | S 箱（Simon） | 5 port industrial switch | 首封去信（邮箱索引；去信共 20 封） | `a55e7b2056545155` |
+| 2026-09-16 | 去 | A 箱（Alan） | 16 Port Industrial PoE Switch | 最近一封去信（邮箱索引；去信共 20 封） | `d7c724f583498e71` |
+| 2026-09-16 | 来 | f.zordan@digimax.it | Risposta automatica: 16 Port Industrial PoE Switch｜Buongiorno, nelle giornate del 15/09/2026 e 16/09/2026 sarò assente e avrò un accesso limitato alla posta elettronica. S | 来信（邮箱索引；原文见 k） | `c1e244fa91a9d099` |
 
 ## 基本事实（事实/推断/假设分层）
 

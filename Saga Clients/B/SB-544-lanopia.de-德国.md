@@ -38,7 +38,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — —；—；群发里他已看到的价（续）：2026-08-17 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-24 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
-- **下一步**：不动 — —
+- **下一步**：不动 — —（第 76 批(c) 2026-10-25：0 事实户补时间线事实）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -50,7 +50,16 @@ updated: 2026-10-25
 - **断点 / 为什么停在这里**：无人读信。
 - **Saga 现在该推什么**：P1 **—**（20% 档，—；群发里他已看到的价（续）：2026-08-17 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-24 $280（10G Enterprise SFP Switch））———
   - 做不了 / 要先核的：具名联系人
-- **下一步（具体）**：不动　—　—
+- **下一步（具体）**：不动　—　—（第 76 批(c) 2026-10-25：0 事实户补时间线事实）
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2025-02-20 | 去 | A 箱（Alan） | 90W PoE Managed Switch | 首封去信（邮箱索引；去信共 18 封） | `31b5f5ee6776ba7a` |
+| 2026-09-23 | 去 | A 箱（Alan） | Managed PoE Switches | 最近一封去信（邮箱索引；去信共 18 封） | `9c7e166425737891` |
+| 2023-11-02 | 来 | info@lanopia.de | Ihr email an Lanopia GmbH｜Vielen Dank fuer Ihr Email und das Interesse an unseren Lanopia Produkten und Dienstleistungen. Unser Kundendienst oder  | 自动回执（「Ihr email an Lanopia GmbH」，机器） | `8624aa9d96551841` |
+| 2023-12-21 | 来 | info@lanopia.de | Ihr email an Lanopia GmbH｜Vielen Dank fuer Ihr Email und das Interesse an unseren Lanopia Produkten und Dienstleistungen. Unser Kundendienst oder  | 自动回执（「Ihr email an Lanopia GmbH」，机器） | `a13983463633964b` |
+| 2024-03-11 | 来 | info@lanopia.de | Ihr email an Lanopia GmbH｜Vielen Dank fuer Ihr Email und das Interesse an unseren Lanopia Produkten und Dienstleistungen. Unser Kundendienst oder  | 自动回执（「Ihr email an Lanopia GmbH」，机器） | `ea3cc0c899b4ef91` |
+| 2024-04-15 | 来 | info@lanopia.de | Ihr email an Lanopia GmbH｜Vielen Dank fuer Ihr Email und das Interesse an unseren Lanopia Produkten und Dienstleistungen. Unser Kundendienst oder  | 自动回执（「Ihr email an Lanopia GmbH」，机器） | `a28f054e0c03188d` |
 
 ## 基本事实（事实/推断/假设分层）
 

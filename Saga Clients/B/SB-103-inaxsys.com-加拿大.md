@@ -36,7 +36,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — —；—；群发里他已看到的价（续）：2026-08-17 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-08-26 $300（48 Port PoE Managed Switch）、2025-10-15 $280（10G Enterprise SFP Switch）（㉕ ②：STC-424XGGPM-280W / STC-448XGGPM 文本价改为群发现价 $180 / $335；第 75 批 2026-10-25）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
-- **下一步**：不动 — —
+- **下一步**：不动 — —（第 76 批(c) 2026-10-25：0 事实户补时间线事实）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -47,7 +47,16 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：—
 - **断点 / 为什么停在这里**：—
 - **Saga 现在该推什么**：P1 **—**（30% 档，—；群发里他已看到的价（续）：2026-08-17 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-08-26 $300（48 Port PoE Managed Switch）、2025-10-15 $280（10G Enterprise SFP Switch）（㉕ ②：STC-424XGGPM-280W / STC-448XGGPM 文本价改为群发现价 $180 / $335；第 75 批 2026-10-25））———
-- **下一步（具体）**：不动　—　—
+- **下一步（具体）**：不动　—　—（第 76 批(c) 2026-10-25：0 事实户补时间线事实）
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2025-01-13 | 去 | S 箱（Simon） | 48 Port SFP Switch | 首封去信（邮箱索引；去信共 20 封） | `cef203ff9c55fc8a` |
+| 2026-09-04 | 去 | A 箱（Alan） | 16 Port Industrial PoE Switch | 最近一封去信（邮箱索引；去信共 20 封） | `fd24a3477accbf36` |
+| 2024-06-17 | 来 | support@inaxsys.com | [Request received]｜##- Please type your reply above this line -##  Your request (39751) has been received and is being reviewed by our supp | 自动工单回执（Zendesk「Request received」，机器，不算人工回复） | `4254f07f7989d16f` |
+| 2024-07-20 | 来 | support@inaxsys.com | [Request received]｜##- Please type your reply above this line -##  Your request (40391) has been received and is being reviewed by our supp | 自动工单回执（Zendesk「Request received」，机器，不算人工回复） | `555b84372f4df62a` |
+| 2024-11-11 | 来 | support@inaxsys.com | [Request received]｜##- Please type your reply above this line -##  Your request (42608) has been received and is being reviewed by our supp | 自动工单回执（Zendesk「Request received」，机器，不算人工回复） | `bf2bcad5ed4780e1` |
+| 2025-01-13 | 来 | support@inaxsys.com | [Request received]｜##- Please type your reply above this line -##  Your request (43828) has been received and is being reviewed by our supp | 自动工单回执（Zendesk「Request received」，机器，不算人工回复） | `c581b8a1ca2df519` |
 
 ## 基本事实（事实/推断/假设分层）
 

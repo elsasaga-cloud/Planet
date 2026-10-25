@@ -36,7 +36,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-110GE — 自有标 MC（含 PoE MC）→ 工业 MC STI-110GE（$24.3 @30%）/ PoE MC STI-111GP（$30.1）贴标；商用桌面 MC 与 14 槽机架 Saga 价目无（Q-32，待向 HRUI 询价）；FS 位 STC-28DGGPM。已打开的主题（1/31 封有打开记录）：「Industrial poe switch」(2024-07-21) → 读者兴趣偏「工业」；当前 P1 属「10G 汇聚/L3」，下一封按「工业」给，不按 P1；换人再触锚价 STI-110GE $26.5 EXW（最近实报 SA-001 2025-11-27 $26.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-27 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-06-26 $220（48 port managed switch）、2025-10-08 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Mark, for the ME-series media converters under your label (including the PoE models), we can be a second ODM source for gigabit SFP and fixed-fiber converters from small lots, and quote a 14-slot rack on request — which ME model do you reorder most often? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封（第 75 批(t) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用；具名 KP 见 channel））
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封（第 75 批(t) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用；具名 KP 见 channel））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -47,13 +47,14 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：自有标 MC（含 PoE MC）→ 工业 MC STI-110GE（$24.3 @30%）/ PoE MC STI-111GP（$30.1）贴标；商用桌面 MC 与 14 槽机架 Saga 价目无（Q-32，待向 HRUI 询价）；FS 位 STC-28DGGPM
 - **断点 / 为什么停在这里**：主需求为商用桌面 MC / 机架：Saga 价目无 SKU（Q-32），需先询价再报
 - **Saga 现在该推什么**：P1 **STI-110GE**（30% 档，换人再触锚价 STI-110GE $26.5 EXW（最近实报 SA-001 2025-11-27 $26.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-27 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-06-26 $220（48 port managed switch）、2025-10-08 $280（10G Enterprise SFP Switch））——自有标 MC（含 PoE MC）→ 工业 MC STI-110GE（$24.3 @30%）/ PoE MC STI-111GP（$30.1）贴标；商用桌面 MC 与 14 槽机架 Saga 价目无（Q-32，待向 HRUI 询价）；FS 位 STC-28DGGPM。已打开的主题（1/31 封有打开记录）：「Industrial poe switch」(2024-07-21) → 读者兴趣偏「工业」；当前 P1 属「10G 汇聚/L3」，下一封按「工业」给，不按 P1
-- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封（第 75 批(t) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用；具名 KP 见 channel））
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封（第 75 批(t) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用；具名 KP 见 channel））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
   - 第一问（只问一个）：Mark, for the ME-series media converters under your label (including the PoE models), we can be a second ODM source for gigabit SFP and fixed-fiber converters from small lots, and quote a 14-slot rack on request — which ME model do you reorder most often? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-09-28 | 去 | A/S 群发 | Industrial PoE Switch、Managed Optical Bypass Switch | 31 封 / 1 次打开 / 0 回｜首封 2024-06-26 → 末封 2026-09-28（31 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | MC 14机架 FS 自己的标 周边产品 SFP | 表内备注 | `用户表` |
+| 2026-09-28 | 去 | A 箱（Alan） | Managed PoE Switches | 本日去信真实主题（邮箱索引 63601453cf38efe6；信稿开头句引用此封；此前稿内写的「Industrial PoE Switch」是线程列表首题，不是本封） | `63601453cf38efe6` |
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -284,7 +285,7 @@ updated: 2026-10-25
 ```text
 Hi Mark,
 
-Over the past months you had a few product mails from us - most recently "Industrial PoE Switch" on 28 September 2026 - and there was no reason to answer a mass mail. This one is specific.
+Over the past months you had a few product mails from us - most recently "Managed PoE Switches" on 28 September 2026 - and there was no reason to answer a mass mail. This one is specific.
 
 For the ME-series converters under your label, a second ODM source from small lots, FCC/CE/RoHS: ME-4040-SFP-POE position - industrial Gigabit PoE media converter, 1 x RJ45 PoE + 1 x SFP - model STI-111GP - $30.1 USD EXW with your logo (MOQ 1, 15-day validity); ME-3860 position - Gigabit converter, 1 x RJ45 + 1 x SFP (fixed SC optional) - STI-110GE - $26.5. The 14-slot rack I quote on request against your current chassis drawing.
 

@@ -115,10 +115,59 @@
   "next_move": {
    "when": "不动",
    "channel": "—",
-   "action": "—",
+   "action": "—（第 76 批(c) 2026-10-25：0 事实户补时间线事实）",
    "one_question": ""
   },
-  "facts": [],
+  "facts": [
+   {
+    "date": "2025-01-13",
+    "dir": "去",
+    "who": "S 箱（Simon）",
+    "quote": "48 Port SFP Switch",
+    "why": "首封去信（邮箱索引；去信共 20 封）",
+    "k": "cef203ff9c55fc8a"
+   },
+   {
+    "date": "2026-09-04",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "16 Port Industrial PoE Switch",
+    "why": "最近一封去信（邮箱索引；去信共 20 封）",
+    "k": "fd24a3477accbf36"
+   },
+   {
+    "date": "2024-06-17",
+    "dir": "来",
+    "who": "support@inaxsys.com",
+    "quote": "[Request received]｜##- Please type your reply above this line -##  Your request (39751) has been received and is being reviewed by our supp",
+    "why": "自动工单回执（Zendesk「Request received」，机器，不算人工回复）",
+    "k": "4254f07f7989d16f"
+   },
+   {
+    "date": "2024-07-20",
+    "dir": "来",
+    "who": "support@inaxsys.com",
+    "quote": "[Request received]｜##- Please type your reply above this line -##  Your request (40391) has been received and is being reviewed by our supp",
+    "why": "自动工单回执（Zendesk「Request received」，机器，不算人工回复）",
+    "k": "555b84372f4df62a"
+   },
+   {
+    "date": "2024-11-11",
+    "dir": "来",
+    "who": "support@inaxsys.com",
+    "quote": "[Request received]｜##- Please type your reply above this line -##  Your request (42608) has been received and is being reviewed by our supp",
+    "why": "自动工单回执（Zendesk「Request received」，机器，不算人工回复）",
+    "k": "bf2bcad5ed4780e1"
+   },
+   {
+    "date": "2025-01-13",
+    "dir": "来",
+    "who": "support@inaxsys.com",
+    "quote": "[Request received]｜##- Please type your reply above this line -##  Your request (43828) has been received and is being reviewed by our supp",
+    "why": "自动工单回执（Zendesk「Request received」，机器，不算人工回复）",
+    "k": "c581b8a1ca2df519"
+   }
+  ],
   "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-24"

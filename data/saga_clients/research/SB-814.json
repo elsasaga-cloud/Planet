@@ -98,7 +98,7 @@
   "next_move": {
    "when": "2027-Q1（换人后）",
    "channel": "A 邮箱 → 具名 KP",
-   "action": "换收件人再发一封（第 75 批(w) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））",
+   "action": "换收件人再发一封（第 75 批(w) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）",
    "one_question": "Ryan, for the media converters and industrial switches sold under the Cleerline label alongside SSF fibre, we can be a second ODM source (gigabit/PoE MCs, DIN-rail 8-GE + 2 SFP, −40~75 °C, FCC/CE/RoHS) from small lots — which active SKU do your integrator dealers reorder most? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
@@ -117,12 +117,20 @@
     "quote": "工业FS 10GMC SFP 周边产品；工业FS 10GMC SFP 周边产品 光路是供应商",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-09-25",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "Managed PoE Switches",
+    "why": "本日去信真实主题（邮箱索引 4fe6d11b7d085ce0；信稿开头句引用此封；此前稿内写的「8 Port Industrial PoE Switch」是线程列表首题，不是本封）",
+    "k": "4fe6d11b7d085ce0"
    }
   ],
   "proof_gaps": [],
   "draft_en": {
    "subject": "Active SKUs under the Cleerline label - a second ODM source next to SSF fibre",
-   "body": "Hi Ryan,\n\nOver the past months you had a few product mails from us - most recently \"8 Port Industrial PoE Switch\" on 25 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the media converters and industrial switches sold under the Cleerline label alongside SSF fibre, a second ODM source from small lots, -40 to 75 C, FCC/CE/RoHS: industrial Gigabit converter, 1 x RJ45 + 1 x SFP slot - model STI-110GE - $26.5 USD EXW with your logo (MOQ 1, 15-day validity); PoE version - STI-111GP - $30.1; DIN-rail 8 x Gigabit + 2 x SFP unmanaged - STI-280GE - $46. 10G converters and SFPs stay with your current source - we do not carry them.\n\nOne question: which active SKU do your integrator dealers reorder most?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+   "body": "Hi Ryan,\n\nOver the past months you had a few product mails from us - most recently \"Managed PoE Switches\" on 25 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the media converters and industrial switches sold under the Cleerline label alongside SSF fibre, a second ODM source from small lots, -40 to 75 C, FCC/CE/RoHS: industrial Gigabit converter, 1 x RJ45 + 1 x SFP slot - model STI-110GE - $26.5 USD EXW with your logo (MOQ 1, 15-day validity); PoE version - STI-111GP - $30.1; DIN-rail 8 x Gigabit + 2 x SFP unmanaged - STI-280GE - $46. 10G converters and SFPs stay with your current source - we do not carry them.\n\nOne question: which active SKU do your integrator dealers reorder most?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
  }

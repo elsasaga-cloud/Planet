@@ -36,7 +36,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — —｜已发资料（勿重发）：Product Link_2026Q2(2026-03-12)、Saga Feature List_7.5.x_L2+(2026-07-13)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）；—；群发里他已看到的价（续）：2026-08-12 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-04 $240（24 Port Fiber Switch）、2025-10-01 $280（10G Enterprise SFP Switch）、2026-06-22 $16000（32 Port 400GB DC Switch）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
-- **下一步**：2026-12 A 邮箱 → george.g@enssecurity.com（自动回复指明的代理人） 换人（第 75 批(b) 2026-10-25：英文信稿已写 `draft_en`）
+- **下一步**：2026-12 A 邮箱 → george.g@enssecurity.com（自动回复指明的代理人） 换人（第 75 批(b) 2026-10-25：英文信稿已写 `draft_en`）（第 76 批(c) 2026-10-25：0 事实户补时间线事实）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -48,7 +48,13 @@ updated: 2026-10-25
 - **断点 / 为什么停在这里**：—
 - **Saga 现在该推什么**：P1 **—**（20% 档，—；群发里他已看到的价（续）：2026-08-12 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-04 $240（24 Port Fiber Switch）、2025-10-01 $280（10G Enterprise SFP Switch）、2026-06-22 $16000（32 Port 400GB DC Switch））———｜已发资料（勿重发）：Product Link_2026Q2(2026-03-12)、Saga Feature List_7.5.x_L2+(2026-07-13)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）
   - 做不了 / 要先核的：具名联系人
-- **下一步（具体）**：2026-12　A 邮箱 → george.g@enssecurity.com（自动回复指明的代理人）　换人（第 75 批(b) 2026-10-25：英文信稿已写 `draft_en`）
+- **下一步（具体）**：2026-12　A 邮箱 → george.g@enssecurity.com（自动回复指明的代理人）　换人（第 75 批(b) 2026-10-25：英文信稿已写 `draft_en`）（第 76 批(c) 2026-10-25：0 事实户补时间线事实）
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2025-01-21 | 去 | S 箱（Simon） | Industrial PoE Switch | 首封去信（邮箱索引；去信共 32 封） | `5e6171f2fbf8e78e` |
+| 2026-09-08 | 去 | A 箱（Alan） | 16 Port Industrial PoE Switch | 最近一封去信（邮箱索引；去信共 32 封） | `9719b2a1ddc0fea6` |
+| 2025-02-25 | 来 | shawn.s@enssecurity.com | Out of the Office until Thursday, Feb 27th. Re: 90W PoE Managed Switch｜Good morning / afternoon,  I will be out of the office Tuesday Feb 25th and Wednesday Feb 26th, returning Thursday Feb 2 | 来信（邮箱索引；原文见 k） | `c5720148018ed954` |
 
 ## 基本事实（事实/推断/假设分层）
 

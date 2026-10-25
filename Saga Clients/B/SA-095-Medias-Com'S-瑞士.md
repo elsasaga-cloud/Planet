@@ -38,7 +38,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-144GP — 终端项目 25% 档：候车亭柜内 STI-144GP（4 PoE + 上联，宽压 DIN）；汇聚点 STI-288DGGPM；非 IP67 需装柜；首触锚价 STI-144GP $35.5 EXW（主表档位（无 Saga 实报；PDF 上限 $46.2）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：For the next batch of digital bus shelters, the 4-port PoE DIN unit you sampled now ships with the wide 12–48 V input as standard; how many shelters are planned for the coming phase so I can hold EXW pricing for them? Reference: STI-144GP at $35.5 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：待 Simon 排期（首封） A 邮箱 → admin-dir@medias-coms.ch 首封：按 email_hook 一问（第 75 批(i) 2026-10-25：英文信稿已写 `draft_en`；钩子「12–48 V 宽压」有误——STI-144GP 主表 DC 44~57V，已改）
+- **下一步**：待 Simon 排期（首封） A 邮箱 → admin-dir@medias-coms.ch 首封：按 email_hook 一问（第 75 批(i) 2026-10-25：英文信稿已写 `draft_en`；钩子「12–48 V 宽压」有误——STI-144GP 主表 DC 44~57V，已改）（第 76 批(c) 2026-10-25：0 事实户补时间线事实）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -49,8 +49,12 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：终端项目 25% 档：候车亭柜内 STI-144GP（4 PoE + 上联，宽压 DIN）；汇聚点 STI-288DGGPM；非 IP67 需装柜
 - **断点 / 为什么停在这里**：终端用户、项目节奏不可控；瑞士 230V 户外柜需 DIN 宽温机，Saga 不做 IP67，只能柜内安装
 - **Saga 现在该推什么**：P1 **STI-144GP**（25% 档，首触锚价 STI-144GP $35.5 EXW（主表档位（无 Saga 实报；PDF 上限 $46.2）；第 72 批 2026-10-24）；按主表（研究档 saga_fit））——终端项目 25% 档：候车亭柜内 STI-144GP（4 PoE + 上联，宽压 DIN）；汇聚点 STI-288DGGPM；非 IP67 需装柜
-- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → admin-dir@medias-coms.ch　首封：按 email_hook 一问（第 75 批(i) 2026-10-25：英文信稿已写 `draft_en`；钩子「12–48 V 宽压」有误——STI-144GP 主表 DC 44~57V，已改）
+- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → admin-dir@medias-coms.ch　首封：按 email_hook 一问（第 75 批(i) 2026-10-25：英文信稿已写 `draft_en`；钩子「12–48 V 宽压」有误——STI-144GP 主表 DC 44~57V，已改）（第 76 批(c) 2026-10-25：0 事实户补时间线事实）
   - 第一问（只问一个）：For the next batch of digital bus shelters, the 4-port PoE DIN unit you sampled now ships with the wide 12–48 V input as standard; how many shelters are planned for the coming phase so I can hold EXW pricing for them? Reference: STI-144GP at $35.5 USD EXW (MOQ 1, 15-day validity).
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 研 | 用户记录 | 2020 年样品单：IM-MC110FE、IM-FP144FE 各 2 台；之后 0 次跟进：IM-MC110FE IM-FP144FE 各2个 成样品单；Director Manager（用户 Clients 表摘录） | 无任何邮件往来；唯一证据为研究/用户表记录 | `（本地 Clients/ 表格，无公开 URL）` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
 

@@ -36,7 +36,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GP — 专页在推「工业交换机分销 KSA」且表内在卖 N-net 工业 FS → 非管理工业 8 PoE + 2 SFP STI-288GP（$57.4 @20%）对位 N-net；商用位 STC-424DGGPM-280W。已打开的主题（1/30 封有打开记录）：「8 Port Industrial PoE Switch」(2025-04-04) → 读者兴趣偏「工业」；与 P1 同类，继续；换人再触锚价 STI-288GP $60 EXW（最近实报 $60（SA-100 2025-03-18；SB-1276 / SA-030 同价）（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-12-31 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-12 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-22 $240（24 Port Fiber Switch）、2025-10-22 $280（10G Enterprise SFP Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-06-04 $300（48 Port PoE Managed Switch = STC-448XGGPM，Elsa 箱 1 轮 2025-06-04；现表 $335.4@20%、Drive 老表 $335——同款写 $335 要先说 2025 群发是 $300、汇率 7.2→6.7）；2025-10-05 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2025-10-05；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）
 - **第一问（只问一个）**：Mohammad, for the industrial-switch line you promote in KSA alongside N-net, we supply DIN-rail 8-port PoE+ switches with 2 SFP (−40~75 °C) and the managed version (Marvell platform), neutral packing from small lots — is unmanaged or managed the bigger volume for your KSA projects? Reference: STI-288GP at $60 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 首封前知悉：Elsa 群发 BCC 已触达 7 轮（2025-04-09→2025-11-20，锚 To amr_sha@hotmail.com，0 回）（第 74 批(n)）；换收件人再发一封（第 75 批(ag) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 首封前知悉：Elsa 群发 BCC 已触达 7 轮（2025-04-09→2025-11-20，锚 To amr_sha@hotmail.com，0 回）（第 74 批(n)）；换收件人再发一封（第 75 批(ag) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -47,7 +47,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：专页在推「工业交换机分销 KSA」且表内在卖 N-net 工业 FS → 非管理工业 8 PoE + 2 SFP STI-288GP（$57.4 @20%）对位 N-net；商用位 STC-424DGGPM-280W
 - **断点 / 为什么停在这里**：自述「中东最大分销商之一」：以大牌代理为主，Saga 白牌只作价格补充线
 - **Saga 现在该推什么**：P1 **STI-288GP**（20% 档，换人再触锚价 STI-288GP $60 EXW（最近实报 $60（SA-100 2025-03-18；SB-1276 / SA-030 同价）（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-12-31 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-12 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-22 $240（24 Port Fiber Switch）、2025-10-22 $280（10G Enterprise SFP Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-06-04 $300（48 Port PoE Managed Switch = STC-448XGGPM，Elsa 箱 1 轮 2025-06-04；现表 $335.4@20%、Drive 老表 $335——同款写 $335 要先说 2025 群发是 $300、汇率 7.2→6.7）；2025-10-05 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2025-10-05；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档））——专页在推「工业交换机分销 KSA」且表内在卖 N-net 工业 FS → 非管理工业 8 PoE + 2 SFP STI-288GP（$57.4 @20%）对位 N-net；商用位 STC-424DGGPM-280W。已打开的主题（1/30 封有打开记录）：「8 Port Industrial PoE Switch」(2025-04-04) → 读者兴趣偏「工业」；与 P1 同类，继续
-- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　首封前知悉：Elsa 群发 BCC 已触达 7 轮（2025-04-09→2025-11-20，锚 To amr_sha@hotmail.com，0 回）（第 74 批(n)）；换收件人再发一封（第 75 批(ag) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　首封前知悉：Elsa 群发 BCC 已触达 7 轮（2025-04-09→2025-11-20，锚 To amr_sha@hotmail.com，0 回）（第 74 批(n)）；换收件人再发一封（第 75 批(ag) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
   - 第一问（只问一个）：Mohammad, for the industrial-switch line you promote in KSA alongside N-net, we supply DIN-rail 8-port PoE+ switches with 2 SFP (−40~75 °C) and the managed version (Marvell platform), neutral packing from small lots — is unmanaged or managed the bigger volume for your KSA projects? Reference: STI-288GP at $60 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -61,6 +61,7 @@ updated: 2026-10-25
 | 2025-11-20 | 去 | Elsa 群发（BCC；To amr_sha@hotmail.com） | Industrial PoE Switch（Elsa 群发第 7/7 轮；本户在 Bcc，锚 To amr_sha@hotmail.com） | 第 74 批(n) `from:e.sagatelecom to:zoomlinenetwork.com` 命中行 To=amr_sha@hotmail.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
 | 2026-09-22 | 去 | A/S 群发 | 8 Port Industrial PoE Switch、48 Port PoE Managed Switch | 30 封 / 1 次打开 / 0 回｜首封 2024-07-04 → 末封 2026-09-22（30 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 工业FS 商业FS 周边产品 无源产品也比较多；很多牌子的 有Nnet的；工业FS 商业FS 周边产品 无源产品也比较多 N-net的工业FS | 表内备注 | `用户表` |
+| 2026-09-22 | 去 | A 箱（Alan） | 16 Port Industrial PoE Switch | 本日去信真实主题（邮箱索引 02d5599b31cf2163；信稿开头句引用此封；此前稿内写的「8 Port Industrial PoE Switch」是线程列表首题，不是本封） | `02d5599b31cf2163` |
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -293,7 +294,7 @@ updated: 2026-10-25
 ```text
 Hello Zoom Line team,
 
-Over the past months you had a steady stream of product mails from us - most recently "8 Port Industrial PoE Switch" on 22 September 2026 - and there was no reason to answer a mass mail. This one is specific.
+Over the past months you had a steady stream of product mails from us - most recently "16 Port Industrial PoE Switch" on 22 September 2026 - and there was no reason to answer a mass mail. This one is specific.
 
 For the industrial-switch line you promote in KSA alongside N-net, neutral packing, at distributor price, EXW, MOQ 1, 15-day validity, -40 to 75 C, CE/RoHS: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, unmanaged - model STI-288GP - $60 USD; the same L2 managed, Marvell-based - STI-288GPM - $78.9; and for the commercial CCTV projects, 24 x PoE+ (280 W) + 4 x SFP, L2+ managed - STC-424DGGPM-280W - $134.5.
 

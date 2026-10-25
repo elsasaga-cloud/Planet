@@ -38,7 +38,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-080GE — 5/8 电口工业非管理 → STI-080GE（$34.0 @30%）/ STI-050GE（$18.5 @30%）贴 Brainboxes 标。；换人再触锚价 STI-080GE $32.5 EXW（最近实报 SB-1019 2025-07-07 $32.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-05-19 $300（48 Port PoE Managed Switch）、2025-10-10 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Luke, for the 5- and 8-port unmanaged industrial switches you'd brand as Brainboxes — DIN, 12–48 V, −40~75 ℃, CE/UKCA, from small lots; what warranty term do you need from the factory to back your lifetime promise? Reference: STI-080GE at $32.5 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 首封前知悉：Elsa 仅 2025-02-18 单发过 1 封「16 Port PoE Managed Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(x) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用）；5 年保修 + 备机是提议，Simon 发前确认）
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 首封前知悉：Elsa 仅 2025-02-18 单发过 1 封「16 Port PoE Managed Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(x) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用）；5 年保修 + 备机是提议，Simon 发前确认）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -49,7 +49,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：5/8 电口工业非管理 → STI-080GE（$34.0 @30%）/ STI-050GE（$18.5 @30%）贴 Brainboxes 标。
 - **断点 / 为什么停在这里**：终身保修要求 → 品质 / 保修条款需谈
 - **Saga 现在该推什么**：P1 **STI-080GE**（30% 档，换人再触锚价 STI-080GE $32.5 EXW（最近实报 SB-1019 2025-07-07 $32.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-05-19 $300（48 Port PoE Managed Switch）、2025-10-10 $280（10G Enterprise SFP Switch））——5/8 电口工业非管理 → STI-080GE（$34.0 @30%）/ STI-050GE（$18.5 @30%）贴 Brainboxes 标。
-- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　首封前知悉：Elsa 仅 2025-02-18 单发过 1 封「16 Port PoE Managed Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(x) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用）；5 年保修 + 备机是提议，Simon 发前确认）
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　首封前知悉：Elsa 仅 2025-02-18 单发过 1 封「16 Port PoE Managed Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(x) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用）；5 年保修 + 备机是提议，Simon 发前确认）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
   - 第一问（只问一个）：Luke, for the 5- and 8-port unmanaged industrial switches you'd brand as Brainboxes — DIN, 12–48 V, −40~75 ℃, CE/UKCA, from small lots; what warranty term do you need from the factory to back your lifetime promise? Reference: STI-080GE at $32.5 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -57,6 +57,7 @@ updated: 2026-10-25
 | 2025-02-18 | out | Elsa → sales@brainboxes.com | 16 Port PoE Managed Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 | 2026-09-04 | 去 | A/S 群发 | Marvell Industrial Alert System、Industrial PoE Switch | 21 封 / 0 次打开 / 0 回｜首封 2025-01-20 → 末封 2026-09-04（21 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 兴趣：5/8电口工业FS 自己的logo | 表内备注 | `用户表` |
+| 2026-09-04 | 去 | A 箱（Alan） | 16 Port Industrial PoE Switch | 本日去信真实主题（邮箱索引 ee0eb596422705e6；信稿开头句引用此封；此前稿内写的「Marvell Industrial Alert System」是线程列表首题，不是本封） | `ee0eb596422705e6` |
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -279,7 +280,7 @@ updated: 2026-10-25
 ```text
 Hi Luke,
 
-Over the past months you had a few product mails from us - most recently "Marvell Industrial Alert System" on 4 September 2026 - and there was no reason to answer a mass mail. This one is specific.
+Over the past months you had a few product mails from us - most recently "16 Port Industrial PoE Switch" on 4 September 2026 - and there was no reason to answer a mass mail. This one is specific.
 
 For the 5- and 8-port unmanaged industrial switches you would brand as Brainboxes, from small lots, DIN-rail, -40 to 75 C, CE/RoHS/UKCA: 8 x Gigabit, 12-58 V DC - model STI-080GE - $32.5 USD EXW (MOQ 1, 15-day validity); 5 x Gigabit, 12-36 V DC - STI-050GE - $18.5. Factory warranty on the industrial units is 3 years.
 

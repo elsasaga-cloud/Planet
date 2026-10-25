@@ -36,7 +36,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-110GE — 工业 MC/FS（现 AOA）→ 工业千兆 MC STI-110GE（$22.4 @20%）、百兆 STI-110FE（$19.7）、工业 8 GE + 2 SFP STI-280GE（$46.6）；换人再触锚价 STI-110GE $26.5 EXW（最近实报 SA-001 2025-11-27 $26.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-12-03 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-07 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-06-19 $65（10g fiber media converter）、2025-02-20 $240（24 Port Fiber Switch）、2025-09-18 $65（10G Media Converter）、2025-10-09 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Alongside the AOA industrial products you carry, we supply neutral-brand DIN-rail gigabit/Fast Ethernet MCs and 8-GE + 2 SFP managed switches (−40~75 °C, CE/RoHS) from single units, EXW USD; RCM by your side — which MC configuration do your customers order most? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
-- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封（第 75 批(ah) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；RCM stays on your side）
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封（第 75 批(ah) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；RCM stays on your side）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -47,13 +47,14 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：工业 MC/FS（现 AOA）→ 工业千兆 MC STI-110GE（$22.4 @20%）、百兆 STI-110FE（$19.7）、工业 8 GE + 2 SFP STI-280GE（$46.6）
 - **断点 / 为什么停在这里**：非主攻区（T5，澳大利亚；RCM 由客户侧）；产品少、周边为主；官网 http_error；24 次无回复，仅 sales@
 - **Saga 现在该推什么**：P1 **STI-110GE**（20% 档，换人再触锚价 STI-110GE $26.5 EXW（最近实报 SA-001 2025-11-27 $26.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-12-03 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-07 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-06-19 $65（10g fiber media converter）、2025-02-20 $240（24 Port Fiber Switch）、2025-09-18 $65（10G Media Converter）、2025-10-09 $280（10G Enterprise SFP Switch））——工业 MC/FS（现 AOA）→ 工业千兆 MC STI-110GE（$22.4 @20%）、百兆 STI-110FE（$19.7）、工业 8 GE + 2 SFP STI-280GE（$46.6）
-- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封（第 75 批(ah) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；RCM stays on your side）
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封（第 75 批(ah) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；RCM stays on your side）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
   - 第一问（只问一个）：Alongside the AOA industrial products you carry, we supply neutral-brand DIN-rail gigabit/Fast Ethernet MCs and 8-GE + 2 SFP managed switches (−40~75 °C, CE/RoHS) from single units, EXW USD; RCM by your side — which MC configuration do your customers order most? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-09-24 | 去 | A/S 群发 | Industrial PoE Switch、Managed Optical Bypass Switch | 31 封 / 0 次打开 / 0 回｜首封 2024-06-19 → 末封 2026-09-24（31 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 工业FS 工业MC 产品比较少 很多是周边产品 AOA的 | 表内备注 | `用户表` |
+| 2026-09-24 | 去 | A 箱（Alan） | Managed PoE Switches | 本日去信真实主题（邮箱索引 c51c081a3c66d481；信稿开头句引用此封；此前稿内写的「Industrial PoE Switch」是线程列表首题，不是本封） | `c51c081a3c66d481` |
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -272,7 +273,7 @@ updated: 2026-10-25
 ```text
 Hello Krysma team,
 
-Over the past months you had a steady stream of product mails from us - most recently "Industrial PoE Switch" on 24 September 2026 - and there was no reason to answer a mass mail. This one is specific.
+Over the past months you had a steady stream of product mails from us - most recently "Managed PoE Switches" on 24 September 2026 - and there was no reason to answer a mass mail. This one is specific.
 
 Alongside the AOA industrial products you carry, neutral-brand units at distributor price, EXW, from single units, 15-day validity, -40 to 75 C, CE/RoHS: industrial Gigabit media converter, 1 x RJ45 + 1 x SFP slot (fixed SC optional) - model STI-110GE - $26.5 USD; Fast Ethernet version - STI-110FE - $19.7; DIN-rail 8 x Gigabit + 2 x SFP unmanaged - STI-280GE - $46. RCM stays on your side.
 

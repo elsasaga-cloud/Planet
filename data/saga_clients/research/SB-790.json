@@ -81,7 +81,7 @@
     "next_move": {
       "when": "2026-11（Simon）",
       "channel": "A 邮箱首封 + WhatsApp（Simon）",
-      "action": "首封 + 一句话",
+      "action": "首封 + 一句话（第 76 批(b) 2026-10-25：audit_ab 硬错误修正：ERPS → halka yedekliliği）",
       "one_question": "İbrahim Bey, ISAF'ta sorduğunuz 2 SFP + 8 port PoE endüstriyel switch: L2+ yönetilebilir, toplam PoE bütçesi 240 W (port başına 30 W), EXW 137,5 USD; bypass'lı sürüm 4 SFP + 8 PoE olarak 194,3 USD — projenizde bypass şart mı yoksa ERPS halka yeterli mi?"
     },
     "facts": [
@@ -99,7 +99,7 @@
     ],
     "draft_en": {
       "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
-      "body": "İbrahim Bey, ISAF'ta sorduğunuz 2 SFP + 8 port PoE endüstriyel switch: L2+ yönetilebilir, toplam PoE bütçesi 240 W (port başına 30 W), EXW 137,5 USD; bypass'lı sürüm 4 SFP + 8 PoE olarak 194,3 USD — projenizde bypass şart mı yoksa ERPS halka yeterli mi?"
+      "body": "İbrahim Bey, ISAF'ta sorduğunuz 2 SFP + 8 port PoE endüstriyel switch: L2+ yönetilebilir, toplam PoE bütçesi 240 W (port başına 30 W), EXW 137,5 USD; bypass'lı sürüm 4 SFP + 8 PoE olarak 194,3 USD — projenizde bypass şart mı yoksa halka yedekliliği (ring redundancy) yeterli mi?"
     },
     "as_of": "2026-10-24"
   }

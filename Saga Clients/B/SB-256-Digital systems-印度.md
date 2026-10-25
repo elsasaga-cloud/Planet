@@ -37,7 +37,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-110GE — 进口 MC 的经销商 → Saga 工业千兆 MC STI-110GE（$22.4/23.4/24.3）起步；10G MC Saga 价目无，按 SmartByte 型号报并注明。；首触锚价 STI-110GE $26.5 EXW（最近实报 SA-001 2025-11-27 $26.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Jayesh, you mentioned moving from local-market media converters to direct import — for a first mixed carton (gigabit + 10G MC), what quantity per model would make the freight worthwhile for you? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：公司网站（表内无域名，无法核实是否仍在运营）
-- **下一步**：待 Simon 排期（首封） A 邮箱 → digital_sys@hotmail.com（Jayesh Patel） 首封：按 email_hook 一问（第 75 批(m) 2026-10-25：英文信稿已写 `draft_en`）
+- **下一步**：待 Simon 排期（首封） A 邮箱 → digital_sys@hotmail.com（Jayesh Patel） 首封：按 email_hook 一问（第 75 批(m) 2026-10-25：英文信稿已写 `draft_en`）（第 76 批(c) 2026-10-25：audit_ab 软项修正：证书口径 CE/RoHS → CE/RoHS (BIS stays on your side)）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -48,7 +48,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：进口 MC 的经销商 → Saga 工业千兆 MC STI-110GE（$22.4/23.4/24.3）起步；10G MC Saga 价目无，按 SmartByte 型号报并注明。
 - **断点 / 为什么停在这里**：印度进口小批量成本高（BIS 认证风险）
 - **Saga 现在该推什么**：P1 **STI-110GE**（20% 档，首触锚价 STI-110GE $26.5 EXW（最近实报 SA-001 2025-11-27 $26.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit））——进口 MC 的经销商 → Saga 工业千兆 MC STI-110GE（$22.4/23.4/24.3）起步；10G MC Saga 价目无，按 SmartByte 型号报并注明。
-- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → digital_sys@hotmail.com（Jayesh Patel）　首封：按 email_hook 一问（第 75 批(m) 2026-10-25：英文信稿已写 `draft_en`）
+- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → digital_sys@hotmail.com（Jayesh Patel）　首封：按 email_hook 一问（第 75 批(m) 2026-10-25：英文信稿已写 `draft_en`）（第 76 批(c) 2026-10-25：audit_ab 软项修正：证书口径 CE/RoHS → CE/RoHS (BIS stays on your side)）
   - 第一问（只问一个）：Jayesh, you mentioned moving from local-market media converters to direct import — for a first mixed carton (gigabit + 10G MC), what quantity per model would make the freight worthwhile for you? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -208,7 +208,7 @@ updated: 2026-10-25
 ```text
 Hi Jayesh,
 
-You mentioned moving from local-market media converters to importing directly. The gigabit converter for a first mixed carton: industrial Gigabit, 1 x RJ45 + 1 x SFP slot (or fixed SC 20 km), DIN-rail, -40 to 75 C, CE/RoHS - model STI-110GE - $26.5 USD EXW (MOQ 1, 15-day validity); the 10G media converter we discussed is quoted separately once I know the quantity.
+You mentioned moving from local-market media converters to importing directly. The gigabit converter for a first mixed carton: industrial Gigabit, 1 x RJ45 + 1 x SFP slot (or fixed SC 20 km), DIN-rail, -40 to 75 C, CE/RoHS (BIS stays on your side) - model STI-110GE - $26.5 USD EXW (MOQ 1, 15-day validity); the 10G media converter we discussed is quoted separately once I know the quantity.
 
 One question: for a first mixed carton of gigabit and 10G converters, what quantity per model would make the freight worthwhile for you?
 

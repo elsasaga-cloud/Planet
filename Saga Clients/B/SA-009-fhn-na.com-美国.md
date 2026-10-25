@@ -39,7 +39,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424XGGM — 机会型 25% 档：光模块订单为主，交换机配 STC-424XGGM（24 GE + 4×10G SFP+，$132.7）作实验室/演示；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-09 $65（10G media converter）；群发里他已看到的价（续，第 66 批全量复核）：2025-07-07 $300（48 Port PoE Managed Switch）、2025-09-02 $240（24 Port Fiber Switch）、2025-09-22 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Picking up the SFP transceiver sample we nearly closed: I can ship 10 × 10G SR/LR modules with a 24-port 4×10G switch for lab use at $132.7 EXW — which wavelength and reach did your team need?
 - **最大未知**：年走量与现供应商
-- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封（第 75 批(al) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；SFP 明说不供（钩子「ship 10 modules」不用））
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封（第 75 批(al) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；SFP 明说不供（钩子「ship 10 modules」不用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -50,7 +50,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：机会型 25% 档：光模块订单为主，交换机配 STC-424XGGM（24 GE + 4×10G SFP+，$132.7）作实验室/演示
 - **断点 / 为什么停在这里**：中资大厂分公司，采购走集团渠道；机会型而非渠道型
 - **Saga 现在该推什么**：P1 **STC-424XGGM**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-09 $65（10G media converter）；群发里他已看到的价（续，第 66 批全量复核）：2025-07-07 $300（48 Port PoE Managed Switch）、2025-09-02 $240（24 Port Fiber Switch）、2025-09-22 $280（10G Enterprise SFP Switch））——机会型 25% 档：光模块订单为主，交换机配 STC-424XGGM（24 GE + 4×10G SFP+，$132.7）作实验室/演示
-- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封（第 75 批(al) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；SFP 明说不供（钩子「ship 10 modules」不用））
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封（第 75 批(al) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；SFP 明说不供（钩子「ship 10 modules」不用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
   - 第一问（只问一个）：Picking up the SFP transceiver sample we nearly closed: I can ship 10 × 10G SR/LR modules with a 24-port 4×10G switch for lab use at $132.7 EXW — which wavelength and reach did your team need?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -58,6 +58,7 @@ updated: 2026-10-25
 | 2023-08-29 | 来 | 用户表（Simon 跟进记录；渠道 —） | 用户表跟进：推「—」→ 对方「Full FE 2+4」 | Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写 | `Clients/A/DONE/US.xlsx no.257 2023.8.29` |
 | 2026-03-09 | 去 | A/S 群发 | Managed Optical Bypass Switch、Industrial PoE Switch | 20 封 / 0 次打开 / 0 回｜首封 2024-08-13 → 末封 2026-03-09（20 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 烽火美国分公司 · 收发器/差点成样品单 | 表内备注 | `用户表` |
+| 2026-03-09 | 去 | A 箱（Alan） | Updated Ethernet Switches Links | 本日去信真实主题（邮箱索引 d4749e65fc7389b4；信稿开头句引用此封；此前稿内写的「Managed Optical Bypass Switch」是线程列表首题，不是本封） | `d4749e65fc7389b4` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码
 
@@ -270,7 +271,7 @@ updated: 2026-10-25
 ```text
 Hi Gary,
 
-Picking up where the transceiver sample nearly closed: straight answer first - we do not carry SFP transceivers any more, so I will not quote modules we cannot support. What we do build, and what your lab may still need next to the optics you source elsewhere: 24 x Gigabit + 4 x 10G SFP+, L2+ managed, Marvell-based - model STC-424XGGM - $132.7 USD EXW (MOQ 1, 15-day validity), FCC/CE/RoHS; your 10G SR/LR modules plug in as they are. The product mails you had since (most recently "Managed Optical Bypass Switch" on 9 March 2026) were general ones.
+Picking up where the transceiver sample nearly closed: straight answer first - we do not carry SFP transceivers any more, so I will not quote modules we cannot support. What we do build, and what your lab may still need next to the optics you source elsewhere: 24 x Gigabit + 4 x 10G SFP+, L2+ managed, Marvell-based - model STC-424XGGM - $132.7 USD EXW (MOQ 1, 15-day validity), FCC/CE/RoHS; your 10G SR/LR modules plug in as they are. The product mails you had since (most recently "Updated Ethernet Switches Links" on 9 March 2026) were general ones.
 
 One question: is there still a lab or demo need for a 10G-uplink switch on your side, or has that moved in-group?
 

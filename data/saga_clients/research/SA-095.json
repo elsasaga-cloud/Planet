@@ -88,10 +88,19 @@
   "next_move": {
    "when": "待 Simon 排期（首封）",
    "channel": "A 邮箱 → admin-dir@medias-coms.ch",
-   "action": "首封：按 email_hook 一问（第 75 批(i) 2026-10-25：英文信稿已写 `draft_en`；钩子「12–48 V 宽压」有误——STI-144GP 主表 DC 44~57V，已改）",
+   "action": "首封：按 email_hook 一问（第 75 批(i) 2026-10-25：英文信稿已写 `draft_en`；钩子「12–48 V 宽压」有误——STI-144GP 主表 DC 44~57V，已改）（第 76 批(c) 2026-10-25：0 事实户补时间线事实）",
    "one_question": "For the next batch of digital bus shelters, the 4-port PoE DIN unit you sampled now ships with the wide 12–48 V input as standard; how many shelters are planned for the coming phase so I can hold EXW pricing for them? Reference: STI-144GP at $35.5 USD EXW (MOQ 1, 15-day validity)."
   },
-  "facts": [],
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "研",
+    "who": "用户记录",
+    "quote": "2020 年样品单：IM-MC110FE、IM-FP144FE 各 2 台；之后 0 次跟进：IM-MC110FE IM-FP144FE 各2个 成样品单；Director Manager（用户 Clients 表摘录）",
+    "why": "无任何邮件往来；唯一证据为研究/用户表记录",
+    "k": "（本地 Clients/ 表格，无公开 URL）"
+   }
+  ],
   "proof_gaps": [
    "无邮件往来"
   ],

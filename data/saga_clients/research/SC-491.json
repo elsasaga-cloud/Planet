@@ -85,16 +85,16 @@
   "breakpoint": "2025-12-03 我们的回答自己把门关了；他要的东西其实 2025-01 就已在群发里（8C48XF）。",
   "saga_now": {
    "p1": "STH-8C48DX-HSI（48×25G + 8×100G）；STH-32C-HSI（32×100G）",
-   "tier": "集成商/项目 25%；CENTEC 底线 ≥35% 并行",
+   "tier": 25,
    "price": "2026 Q2：8C48DX $4,800 / 32C $6,000 / 2C6QX $1,200 EXW",
-   "why": "需求台账 #13：他是仓内最早（2024-05）明确要 48×25G+8×100G 的人；对俄付款问题在他回信后再谈（RMB via CN agent）｜已发资料（勿重发）：8C48XF.png(2025-01-06)、Product Link_2026Q2(2026-03-12)",
+   "why": "需求台账 #13：他是仓内最早（2024-05）明确要 48×25G+8×100G 的人；对俄付款问题在他回信后再谈（RMB via CN agent）｜已发资料（勿重发）：8C48XF.png(2025-01-06)、Product Link_2026Q2(2026-03-12)｜档位说明（原 tier 字段文字「集成商/项目 25%；CENTEC 底线 ≥35% 并行」移此）：集成商/项目 25%；CENTEC 底线 ≥35% 并行",
    "repeat": "项目制；DC 客户单价高",
    "gaps": "项目时间/台数；付款路径；公司规模"
   },
   "next_move": {
    "when": "2026-11",
    "channel": "A 邮箱 → yb@comtinu.ru（回 2025-12-03 原线程「Booster PoE Switch」或新主题「48x25G + 8x100G — the two models you asked for in 2024」）",
-   "action": "一封对表信：①网站 sagatele.com（他问过没答）；②他 2024-05-17 问的两款现在的型号与 EXW 价；③只问一个问题：100/25G 项目的时间与台数",
+   "action": "一封对表信：①网站 sagatele.com（他问过没答）；②他 2024-05-17 问的两款现在的型号与 EXW 价；③只问一个问题：100/25G 项目的时间与台数（第 76 批(b) 2026-10-25：audit_ab 硬错误修正：tier 字段规范为数字）",
    "one_question": "Yaroslav — in May 2024 you asked for 48x25G + 8x100G and 32x100G; both exist now on our CENTEC-based line (STH-8C48DX-HSI $4,800, STH-32C-HSI $6,000 USD EXW, 2026 Q2 list). When is the 100/25G project you mentioned in December due, and how many units?"
   },
   "facts": [

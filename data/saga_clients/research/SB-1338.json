@@ -62,7 +62,7 @@
   "next_move": {
    "when": "2026-11",
    "channel": "S 邮箱 → hassancheema@litech.com.pk",
-   "action": "一封",
+   "action": "一封（第 76 批(c) 2026-10-25：audit_ab 软项修正：署名「Alan Yan」→「Alan」（A 箱实际署名））（第 76 批(c) 2026-10-25：audit_ab 软项修正：补一问）",
    "one_question": "Is the 2024 switch RFQ (or a successor project) still open — port count and quantity?"
   },
   "facts": [
@@ -78,7 +78,7 @@
   "proof_gaps": [],
   "draft_en": {
    "subject": "RFQ — access / aggregation switches (March 2024)",
-   "body": "Hassan,\n\nAn overdue reply to the switch RFQ you sent in March 2024 — it was missed on our side, my apologies.\n\nWhat we can cover: access switches (24/48× GbE + 4× 10G SFP+, L2+/L3, Marvell AC5) and 10G/25G/100G aggregation on CENTEC silicon. Routers we do not make.\n\nIf the project or a successor is still open, send the current port-count and quantity and you will have EXW prices within one working day; our 24× GbE + 4× 10G L2+ lists at USD 143 EXW (snapshot 2026-10-17, valid 15 days).\n\nAlan Yan\nSaga Telecom"
+   "body": "Hassan,\n\nAn overdue reply to the switch RFQ you sent in March 2024 — it was missed on our side, my apologies.\n\nWhat we can cover: access switches (24/48× GbE + 4× 10G SFP+, L2+/L3, Marvell AC5) and 10G/25G/100G aggregation on CENTEC silicon. Routers we do not make.\n\nOne question: is that project, or a successor, still open? If yes, send the current port-count and quantity and you will have EXW prices within one working day; our 24× GbE + 4× 10G L2+ lists at USD 143 EXW (snapshot 2026-10-17, valid 15 days).\n\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
  }

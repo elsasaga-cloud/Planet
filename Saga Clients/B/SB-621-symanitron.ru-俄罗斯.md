@@ -33,10 +33,10 @@ updated: 2026-10-25
 - **是谁**：俄罗斯 SYMANITRON（symanitron.ru / s-avt.ru；「俄罗斯工业网络与电信设备制造商」+ 合同制造：PoE 交换机 SWMP-82GC-AT、SWDGP-22（24V）；表内「工业 FS（带光开关）、SFP、工业 MC，自己的 logo」；KP Massov（地推），回执来自 koe@s-avt.ru）；群发 18 次无回复。（调研 2026-10-21；表内兴趣：工业FS（带光开关） SFP 工业MC    自己的logo）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/俄罗斯；+5 最近活动 2025；-16 推送 18 次无任何回复（聋名单）
 - **历史互动**：推送 18 次（2024-05-02 → 2025-10-31）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — 已打开的主题（2/27 封有打开记录）：「Marvell Industrial Alert System」(2025-07-17)、「Optional Marvell Chipset Solutions」(2025-12-04) → 读者兴趣偏「工业」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-03-23)、Product Link_2026Q3(2026-07-03)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-19 $65（10G media converter）、2024-08-21 $65（10G media converter）、2024-11-20 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-24 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-25 $280（10G Enterprise SFP Switch）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — 已打开的主题（2/27 封有打开记录）：「Marvell Industrial Alert System」(2025-07-17)、「Optional Marvell Chipset Solutions」(2025-12-04) → 读者兴趣偏「工业」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-03-23)、Product Link_2026Q3(2026-07-03)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-19 $65（10G media converter）、2024-08-21 $65（10G media converter）、2024-11-20 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-24 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-25 $280（10G Enterprise SFP Switch）；第 76 批(c)：俄语整稿改英文（无语言障碍证据；按 INH 规则对客户用英文）
 - **第一问（只问一个）**：Do you consider third-party platforms for your line, or build everything in-house?
 - **最大未知**：年走量与现供应商
-- **下一步**：2026-12 A 邮箱 → ion@symanitron.ru 换人
+- **下一步**：2026-12 A 邮箱 → ion@symanitron.ru 换人（第 76 批(c) 2026-10-25：audit_ab 软项修正：署名「Alan Yan」→「Alan」（A 箱实际署名））（第 76 批(c) 2026-10-25：audit_ab 软项修正：俄语整稿 → 英文稿）（第 76 批(c) 2026-10-25：0 事实户补时间线事实）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -46,10 +46,17 @@ updated: 2026-10-25
 - **现状一句话**：来信全部为机器回复；无人读信或无人回信。
 - **对方真实需求（有据）**：—
 - **断点 / 为什么停在这里**：—
-- **Saga 现在该推什么**：P1 **—**（30% 档，—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-19 $65（10G media converter）、2024-08-21 $65（10G media converter）、2024-11-20 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-24 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-25 $280（10G Enterprise SFP Switch））——已打开的主题（2/27 封有打开记录）：「Marvell Industrial Alert System」(2025-07-17)、「Optional Marvell Chipset Solutions」(2025-12-04) → 读者兴趣偏「工业」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-03-23)、Product Link_2026Q3(2026-07-03)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）
+- **Saga 现在该推什么**：P1 **—**（30% 档，—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-19 $65（10G media converter）、2024-08-21 $65（10G media converter）、2024-11-20 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-24 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-25 $280（10G Enterprise SFP Switch）；第 76 批(c)：俄语整稿改英文（无语言障碍证据；按 INH 规则对客户用英文））——已打开的主题（2/27 封有打开记录）：「Marvell Industrial Alert System」(2025-07-17)、「Optional Marvell Chipset Solutions」(2025-12-04) → 读者兴趣偏「工业」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-03-23)、Product Link_2026Q3(2026-07-03)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）
   - 做不了 / 要先核的：具名联系人
-- **下一步（具体）**：2026-12　A 邮箱 → ion@symanitron.ru　换人
+- **下一步（具体）**：2026-12　A 邮箱 → ion@symanitron.ru　换人（第 76 批(c) 2026-10-25：audit_ab 软项修正：署名「Alan Yan」→「Alan」（A 箱实际署名））（第 76 批(c) 2026-10-25：audit_ab 软项修正：俄语整稿 → 英文稿）（第 76 批(c) 2026-10-25：0 事实户补时间线事实）
   - 第一问（只问一个）：Do you consider third-party platforms for your line, or build everything in-house?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2024-06-24 | 去 | S 箱（Simon） | 8 port Network Switch | 首封去信（邮箱索引；去信共 27 封） | `a1922de633dd3fe3` |
+| 2026-08-24 | 去 | A 箱（Alan） | 24 Port PoE Managed Switch | 最近一封去信（邮箱索引；去信共 27 封） | `c313f931d33bd3fd` |
+| 2024-07-01 | 来 | marina@s-avt.ru | Автоматический ответ: Commercial poe switch｜Добрый день! Я нахожусь в отпуске до 15.07.2024г. Ваше сообщение автоматически перенаправлено Измайлову Олегу Николаевич | 自动回复/退信（机器，不算人工回复） | `3a5b900fd44405f5` |
+| 2024-09-10 | 来 | marina@s-avt.ru | Автоматический ответ: 2.5G Web Managed Switch｜Добрый день! Я нахожусь в отпуске до 12.09.2024г. Ваше сообщение автоматически перенаправлено Измайлову Олегу Николаевич | 自动回复/退信（机器，不算人工回复） | `8f1a2192a4db3fa3` |
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -281,19 +288,20 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：Промышленные управляемые коммутаторы Marvell — для Symanitron
+**主题**：Industrial managed switches on Marvell for the Symanitron line - one question
 
 ```text
-Здравствуйте,
+Hello Symanitron team,
 
-Пишу на этот адрес, так как прежние письма возвращались автоответами об отпуске.
+Writing to this address because earlier mails to your general mailbox came back with holiday auto-replies pointing here.
 
-Saga Telecom поставляет промышленные управляемые коммутаторы на чипах Marvell AC5 (8× GbE PoE + 2× SFP, -40~75°C, DIN, L2+) под нейтральной или вашей маркой. Прайс: USD 137.5 EXW (снимок 2026-10-17, действителен 15 дней).
+Saga Telecom supplies industrial managed switches on the Marvell AC5 platform - 8 x Gigabit PoE+ + 2 x SFP, DIN-rail, -40 to 75 C, L2+ - under a neutral label or your brand, from small lots. Reference price: model STI-288DGGPM - $137.5 USD EXW (MOQ 1, 15-day validity). CE/RoHS; EAC stays on your side.
 
-Один вопрос: вы рассматриваете сторонние платформы для своей линейки, или производите всё сами?
+One question: do you consider third-party platforms for your line, or is everything built in-house?
 
-Alan Yan
-Saga Telecom
+Best regards,
+Alan
+Saga Telecom - sagatele.com
 ```
 
 > 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。

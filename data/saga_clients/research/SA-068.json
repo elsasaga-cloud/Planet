@@ -166,7 +166,7 @@
   "next_move": {
    "when": "2026-11 中（一次）",
    "channel": "A 邮箱 → sales.support@dymec.com + thom.sherer@dymec.com（同时覆盖 BlueWarrior）",
-   "action": "三行：-40~+75℃ 工业 8GE+4×10G L2+，$163.2 EXW，规格书首页；问 TAA",
+   "action": "三行：-40~+75℃ 工业 8GE+4×10G L2+，$163.2 EXW，规格书首页；问 TAA（第 76 批(b) 2026-10-25：audit_ab 硬错误修正：STI-480XGGM $163 → $163.2（30% 档精确值））",
    "one_question": "For the 8×GE + 4×10G industrial unit rated -40 to +75 °C, is TAA a must for your KY economy line, or only for federal SKUs?"
   },
   "facts": [

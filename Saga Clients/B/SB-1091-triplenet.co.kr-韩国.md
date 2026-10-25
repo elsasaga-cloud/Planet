@@ -36,7 +36,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — switch → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）。已打开的主题（1/34 封有打开记录）：「Industrial PoE Switch」(2025-09-01) → 读者兴趣偏「工业」；与 P1 同类，继续；换人再触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-26 $65（10G media converter）、2024-12-27 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-08-27 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-06-26 $220（10G managed switch）、2025-09-23 $280（10G Enterprise SFP Switch）、2026-06-18 $16000（32 Port 400GB DC Switch）
 - **第一问（只问一个）**：For the switches you supply, we offer neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and 24-GE + 4×10G models from small lots, CE/RoHS; KC by your side — which port count do your customers order most? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；官网当前状态异常（域名不可达（DNS/连接失败））——公司是否仍在运营待核
-- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 首封前知悉：Elsa 仅 2025-02-12 单发过 1 封「48 Port 10G Core Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(ad) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用；KC stays on your side））
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 首封前知悉：Elsa 仅 2025-02-12 单发过 1 封「48 Port 10G Core Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(ad) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用；KC stays on your side））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -47,7 +47,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：switch → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）
 - **断点 / 为什么停在这里**：非主攻区（T5，韩国；KC 由客户侧）；官网 unreachable（业务待核）；23 次无回复
 - **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，换人再触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-26 $65（10G media converter）、2024-12-27 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-08-27 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-06-26 $220（10G managed switch）、2025-09-23 $280（10G Enterprise SFP Switch）、2026-06-18 $16000（32 Port 400GB DC Switch））——switch → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）。已打开的主题（1/34 封有打开记录）：「Industrial PoE Switch」(2025-09-01) → 读者兴趣偏「工业」；与 P1 同类，继续
-- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　首封前知悉：Elsa 仅 2025-02-12 单发过 1 封「48 Port 10G Core Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(ad) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用；KC stays on your side））
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　首封前知悉：Elsa 仅 2025-02-12 单发过 1 封「48 Port 10G Core Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(ad) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用；KC stays on your side））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
   - 第一问（只问一个）：For the switches you supply, we offer neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and 24-GE + 4×10G models from small lots, CE/RoHS; KC by your side — which port count do your customers order most? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -55,6 +55,7 @@ updated: 2026-10-25
 | 2025-02-12 | out | Elsa → triplehris@triplenet.co.kr | 48 Port 10G Core Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 | 2026-09-24 | 去 | A/S 群发 | Industrial PoE Switch、Managed Optical Bypass Switch | 34 封 / 1 次打开 / 0 回｜首封 2024-06-26 → 末封 2026-09-24（34 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | switch | 表内备注 | `用户表` |
+| 2026-09-24 | 去 | A 箱（Alan） | Managed PoE Switches | 本日去信真实主题（邮箱索引 9216b111c4f29135；信稿开头句引用此封；此前稿内写的「Industrial PoE Switch」是线程列表首题，不是本封） | `9216b111c4f29135` |
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -267,7 +268,7 @@ updated: 2026-10-25
 ```text
 Hello Triplenet team,
 
-We wrote to you once in February 2025 about a 48-port 10G core switch, and since then only general product mails - most recently "Industrial PoE Switch" on 24 September 2026 - none of which needed an answer. This one is specific.
+We wrote to you once in February 2025 about a 48-port 10G core switch, and since then only general product mails - most recently "Managed PoE Switches" on 24 September 2026 - none of which needed an answer. This one is specific.
 
 For the switches you supply, neutral-brand units at distributor price, EXW, MOQ 1, 15-day validity, CE/RoHS: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based - model STC-28DGGPM - $80.7 USD; 24 x Gigabit + 4 x 10G SFP+, L2+ managed - STC-424XGGM - $127.4. KC stays on your side.
 

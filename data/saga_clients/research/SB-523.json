@@ -117,7 +117,7 @@
     "next_move": {
       "when": "2027-Q1（换人后）",
       "channel": "A 邮箱 → 具名 KP",
-      "action": "首封前知悉：Elsa 仅 2025-02-17 单发过 1 封「16 Port PoE Managed Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(ac) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））",
+      "action": "首封前知悉：Elsa 仅 2025-02-17 单发过 1 封「16 Port PoE Managed Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(ac) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）",
       "one_question": "Massimiliano, alongside the Digitus and Utepo industrial switches in your shop, we supply DIN-rail 8-PoE + 2 SFP unmanaged/managed units and gigabit media converters (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your rack customers order most? Reference: STI-288GP at $60 USD EXW (MOQ 1, 15-day validity)."
     },
     "facts": [
@@ -145,12 +145,20 @@
         "quote": "Digitus Upeto的工业FS Linkcreative的MC",
         "why": "表内备注",
         "k": "用户表"
+      },
+      {
+        "date": "2026-09-16",
+        "dir": "去",
+        "who": "A 箱（Alan）",
+        "quote": "16 Port Industrial PoE Switch",
+        "why": "本日去信真实主题（邮箱索引 fa541ee622d8b380；信稿开头句引用此封；此前稿内写的「Industrial PoE Switch」是线程列表首题，不是本封）",
+        "k": "fa541ee622d8b380"
       }
     ],
     "proof_gaps": [],
     "draft_en": {
       "subject": "Alongside the Digitus and Utepo industrial switches in your shop - three neutral-brand numbers",
-      "body": "Hi Massimiliano,\n\nWe wrote to you once in February 2025 about a 16-port PoE managed switch, and since then only general product mails - most recently \"Industrial PoE Switch\" on 16 September 2026 - none of which needed an answer. This one is specific.\n\nAlongside the Digitus and Utepo industrial switches and the Linkcreative converters in your shop, neutral-brand units at distributor price, EXW, MOQ 1, 15-day validity, -40 to 75 C, CE/RoHS: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, unmanaged - model STI-288GP - $60 USD; the same L2 managed, Marvell-based - STI-288GPM - $78.9; Gigabit media converter, 1 x RJ45 + 1 x SFP slot - STI-110GE - $26.5.\n\nOne question: which port count do your rack customers order most - 8-port PoE, or the small 5-port?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+      "body": "Hi Massimiliano,\n\nWe wrote to you once in February 2025 about a 16-port PoE managed switch, and since then only general product mails - most recently \"16 Port Industrial PoE Switch\" on 16 September 2026 - none of which needed an answer. This one is specific.\n\nAlongside the Digitus and Utepo industrial switches and the Linkcreative converters in your shop, neutral-brand units at distributor price, EXW, MOQ 1, 15-day validity, -40 to 75 C, CE/RoHS: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, unmanaged - model STI-288GP - $60 USD; the same L2 managed, Marvell-based - STI-288GPM - $78.9; Gigabit media converter, 1 x RJ45 + 1 x SFP slot - STI-110GE - $26.5.\n\nOne question: which port count do your rack customers order most - 8-port PoE, or the small 5-port?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
     },
     "as_of": "2026-10-24"
   }

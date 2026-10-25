@@ -36,7 +36,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 自有 OSD 工业 PoE 系列靠 ODM → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）作二供；24 口 PoE（OSD2524P）位 STC-424DGGPM-280W（商用，注明）；VC 不做。已打开的主题（2/12 封有打开记录）：「OEM Core Switching Solution」(2026-01-22)、「Marvell Managed Commercial Switches」(2026-04-01) → 读者兴趣偏「DC 核心/CENTEC」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-03-04)、Saga Feature List_7.5.x_L2+(2026-07-10)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）；首触锚价 STI-288GPM $85.5 EXW（主表档位（PDF 上限 $88；SA-026 2025-07 实报 $72 为分销量价）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-25 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-16 $280（10G Enterprise SFP Switch）、2026-06-16 $16000（32 Port 400GB DC Switch）
 - **第一问（只问一个）**：Nick, for the entry models in the OSD industrial PoE range, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed, 24-PoE + 4 SFP) from small lots under your label, CE/RoHS — which model would you consider dual-sourcing first? Reference: STI-288GPM at $85.5 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：2026-11 A 邮箱 → nickf@osd.com.au 短信一问（email_hook）
+- **下一步**：2026-11 A 邮箱 → nickf@osd.com.au 短信一问（email_hook）（第 76 批(c) 2026-10-25：audit_ab 软项修正：证书口径 CE/RoHS → CE/RoHS (RCM stays on your side)）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -47,7 +47,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：自有 OSD 工业 PoE 系列靠 ODM → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）作二供；24 口 PoE（OSD2524P）位 STC-424DGGPM-280W（商用，注明）；VC 不做
 - **断点 / 为什么停在这里**：「Engineered in Australia」品牌：自有设计/ODM 体系，导入需工程验证
 - **Saga 现在该推什么**：P1 **STI-288GPM**（30% 档，首触锚价 STI-288GPM $85.5 EXW（主表档位（PDF 上限 $88；SA-026 2025-07 实报 $72 为分销量价）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-25 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-16 $280（10G Enterprise SFP Switch）、2026-06-16 $16000（32 Port 400GB DC Switch））——自有 OSD 工业 PoE 系列靠 ODM → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）作二供；24 口 PoE（OSD2524P）位 STC-424DGGPM-280W（商用，注明）；VC 不做。已打开的主题（2/12 封有打开记录）：「OEM Core Switching Solution」(2026-01-22)、「Marvell Managed Commercial Switches」(2026-04-01) → 读者兴趣偏「DC 核心/CENTEC」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-03-04)、Saga Feature List_7.5.x_L2+(2026-07-10)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）
-- **下一步（具体）**：2026-11　A 邮箱 → nickf@osd.com.au　短信一问（email_hook）
+- **下一步（具体）**：2026-11　A 邮箱 → nickf@osd.com.au　短信一问（email_hook）（第 76 批(c) 2026-10-25：audit_ab 软项修正：证书口径 CE/RoHS → CE/RoHS (RCM stays on your side)）
   - 第一问（只问一个）：Nick, for the entry models in the OSD industrial PoE range, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed, 24-PoE + 4 SFP) from small lots under your label, CE/RoHS — which model would you consider dual-sourcing first? Reference: STI-288GPM at $85.5 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -273,7 +273,7 @@ Hi Nick,
 
 We have sent you a few mails on "Optional Marvell Chipset Solutions" and you never had a reason to answer — fair enough. No brochure this time, just one question:
 
-For the entry models in the OSD industrial PoE range, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed, 24-PoE + 4 SFP) from small lots under your label, CE/RoHS — which model would you consider dual-sourcing first?
+For the entry models in the OSD industrial PoE range, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed, 24-PoE + 4 SFP) from small lots under your label, CE/RoHS (RCM stays on your side) — which model would you consider dual-sourcing first?
 
 Reference price: DIN-rail 8-PoE + 2 SFP L2 managed industrial switch, 240 W (STI-288GPM) $85.5 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.
 

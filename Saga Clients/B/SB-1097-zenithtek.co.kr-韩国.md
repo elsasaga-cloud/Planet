@@ -36,7 +36,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-110GE — MC/switch → 工业千兆 MC STI-110GE（$22.4 @20%）、8 口 PoE+ 2 SFP STC-28DGGPM（$80.7）。已打开的主题（1/34 封有打开记录）：「Mini Industrial PoE Switch」(2024-12-02) → 读者兴趣偏「工业」；当前 P1 属「10G 汇聚/L3」，下一封按「工业」给，不按 P1；换人再触锚价 STI-110GE $26.5 EXW（最近实报 SA-001 2025-11-27 $26.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-12-30 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-06-27 $220（10G managed switch）、2025-06-02 $300（48 Port PoE Managed Switch）、2025-09-23 $280（10G Enterprise SFP Switch）、2026-06-19 $16000（32 Port 400GB DC Switch）
 - **第一问（只问一个）**：For the media converters and switches you supply, we offer neutral-brand gigabit MCs and Marvell-based 8-PoE + 2 SFP L2+ switches from small lots, CE/RoHS; KC by your side — which product do your customers order most? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
-- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 首封前知悉：Elsa 仅 2025-02-13 单发过 1 封「8 Port Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(ae) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用；KC stays on your side））
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 首封前知悉：Elsa 仅 2025-02-13 单发过 1 封「8 Port Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(ae) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用；KC stays on your side））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -47,7 +47,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：MC/switch → 工业千兆 MC STI-110GE（$22.4 @20%）、8 口 PoE+ 2 SFP STC-28DGGPM（$80.7）
 - **断点 / 为什么停在这里**：非主攻区（T5，韩国；KC 由客户侧）；官网 http_error（业务待核）；23 次无回复
 - **Saga 现在该推什么**：P1 **STI-110GE**（20% 档，换人再触锚价 STI-110GE $26.5 EXW（最近实报 SA-001 2025-11-27 $26.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-12-30 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-06-27 $220（10G managed switch）、2025-06-02 $300（48 Port PoE Managed Switch）、2025-09-23 $280（10G Enterprise SFP Switch）、2026-06-19 $16000（32 Port 400GB DC Switch））——MC/switch → 工业千兆 MC STI-110GE（$22.4 @20%）、8 口 PoE+ 2 SFP STC-28DGGPM（$80.7）。已打开的主题（1/34 封有打开记录）：「Mini Industrial PoE Switch」(2024-12-02) → 读者兴趣偏「工业」；当前 P1 属「10G 汇聚/L3」，下一封按「工业」给，不按 P1
-- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　首封前知悉：Elsa 仅 2025-02-13 单发过 1 封「8 Port Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(ae) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用；KC stays on your side））
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　首封前知悉：Elsa 仅 2025-02-13 单发过 1 封「8 Port Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(ae) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用；KC stays on your side））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
   - 第一问（只问一个）：For the media converters and switches you supply, we offer neutral-brand gigabit MCs and Marvell-based 8-PoE + 2 SFP L2+ switches from small lots, CE/RoHS; KC by your side — which product do your customers order most? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -57,6 +57,7 @@ updated: 2026-10-25
 | 2025-02-13 | out | Elsa → zenithtek@zenithtek.co.kr | 8 Port Industrial PoE Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 | 2026-09-25 | 去 | A/S 群发 | Managed Optical Bypass Switch、Industrial PoE Switch | 34 封 / 1 次打开 / 0 回｜首封 2024-06-27 → 末封 2026-09-25（34 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | MC switch等 | 表内备注 | `用户表` |
+| 2026-09-25 | 去 | A 箱（Alan） | Managed PoE Switches | 本日去信真实主题（邮箱索引 78a0fc42cc087210；信稿开头句引用此封；此前稿内写的「Managed Optical Bypass Switch」是线程列表首题，不是本封） | `78a0fc42cc087210` |
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -271,7 +272,7 @@ updated: 2026-10-25
 ```text
 Hello Zenithtek team,
 
-We wrote to you once in February 2025 about an 8-port industrial PoE switch, and since then only general product mails - most recently "Managed Optical Bypass Switch" on 25 September 2026 - none of which needed an answer. This one is specific.
+We wrote to you once in February 2025 about an 8-port industrial PoE switch, and since then only general product mails - most recently "Managed PoE Switches" on 25 September 2026 - none of which needed an answer. This one is specific.
 
 For the media converters and switches you supply, neutral-brand units at distributor price, EXW, MOQ 1, 15-day validity, CE/RoHS: industrial Gigabit media converter, 1 x RJ45 + 1 x SFP slot, -40 to 75 C - model STI-110GE - $26.5 USD; 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based - STC-28DGGPM - $80.7. KC stays on your side.
 

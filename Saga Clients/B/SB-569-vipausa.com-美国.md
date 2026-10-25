@@ -36,7 +36,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-080GE — VIPA 标工业交换机为配套线（由其品牌方供货）→ 白牌切入点弱；入门位工业 8 GE 非管理 STI-080GE（$31.4 @20%）、5 GE STI-050GE（$17.0）作价格补充；换人再触锚价 STI-080GE $32.5 EXW（最近实报 SB-1019 2025-07-07 $32.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-06-27 $220（48 port managed switch）、2025-10-03 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Alongside the VIPA-branded industrial switches in your PLC accessories, we can supply DIN-rail 5/8-port gigabit units in neutral packing from small lots (−40~75 °C, FCC/CE/RoHS) for price-sensitive panels — do your integrator customers ask for a lower-cost switch option? Reference: STI-080GE at $32.5 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封（第 75 批(v) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封（第 75 批(v) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -47,13 +47,14 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：VIPA 标工业交换机为配套线（由其品牌方供货）→ 白牌切入点弱；入门位工业 8 GE 非管理 STI-080GE（$31.4 @20%）、5 GE STI-050GE（$17.0）作价格补充
 - **断点 / 为什么停在这里**：品牌方（VIPA/Yaskawa）体系内分销：自有标交换机由集团供货，白牌切入点弱
 - **Saga 现在该推什么**：P1 **STI-080GE**（20% 档，换人再触锚价 STI-080GE $32.5 EXW（最近实报 SB-1019 2025-07-07 $32.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-06-27 $220（48 port managed switch）、2025-10-03 $280（10G Enterprise SFP Switch））——VIPA 标工业交换机为配套线（由其品牌方供货）→ 白牌切入点弱；入门位工业 8 GE 非管理 STI-080GE（$31.4 @20%）、5 GE STI-050GE（$17.0）作价格补充
-- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封（第 75 批(v) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封（第 75 批(v) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
   - 第一问（只问一个）：Alongside the VIPA-branded industrial switches in your PLC accessories, we can supply DIN-rail 5/8-port gigabit units in neutral packing from small lots (−40~75 °C, FCC/CE/RoHS) for price-sensitive panels — do your integrator customers ask for a lower-cost switch option? Reference: STI-080GE at $32.5 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-02-13 | 去 | A/S 群发 | Marvell Industrial Alert System、Marvell Alleycat5 Solution | 22 封 / 0 次打开 / 0 回｜首封 2024-06-27 → 末封 2026-02-13（22 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 工业FS 自己的logo | 表内备注 | `用户表` |
+| 2026-02-13 | 去 | A 箱（Alan） | Updated Ethernet Switches Links | 本日去信真实主题（邮箱索引 eedd3f8c38739ec4；信稿开头句引用此封；此前稿内写的「Marvell Industrial Alert System」是线程列表首题，不是本封） | `eedd3f8c38739ec4` |
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -274,7 +275,7 @@ updated: 2026-10-25
 ```text
 Hello VIPA ControlsAmerica team,
 
-Over the past months you had a few product mails from us - most recently "Marvell Industrial Alert System" on 13 February 2026 - and there was no reason to answer a mass mail. This one is specific.
+Over the past months you had a few product mails from us - most recently "Updated Ethernet Switches Links" on 13 February 2026 - and there was no reason to answer a mass mail. This one is specific.
 
 The VIPA-branded switches come from your brand owner, understood. For the price-sensitive panels where an integrator asks for a lower-cost option, from small lots, neutral packing, -40 to 75 C, FCC/CE/RoHS: DIN-rail 8 x Gigabit unmanaged, 12-58 V DC - model STI-080GE - $32.5 USD EXW at distributor price (MOQ 1, 15-day validity); 5 x Gigabit, 12-36 V DC - STI-050GE - $17.0.
 

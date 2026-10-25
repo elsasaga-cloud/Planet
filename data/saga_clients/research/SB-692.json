@@ -94,10 +94,43 @@
   "next_move": {
    "when": "不动",
    "channel": "—",
-   "action": "—",
+   "action": "—（第 76 批(c) 2026-10-25：0 事实户补时间线事实）",
    "one_question": ""
   },
-  "facts": [],
+  "facts": [
+   {
+    "date": "2024-07-05",
+    "dir": "去",
+    "who": "S 箱（Simon）",
+    "quote": "8 port 2.5G switch",
+    "why": "首封去信（邮箱索引；去信共 23 封）",
+    "k": "c753d218c8e5db62"
+   },
+   {
+    "date": "2026-09-30",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "Managed PoE Switches",
+    "why": "最近一封去信（邮箱索引；去信共 23 封）",
+    "k": "818c97f0babf9c11"
+   },
+   {
+    "date": "2024-08-05",
+    "dir": "来",
+    "who": "jrsalvador@davantel.com",
+    "quote": "Ausente - Out of office｜Estaré fuera de la oficina con acceso limitado al email hasta el 19 de  Agosto. En caso de urgencia llamar al 933408712.",
+    "why": "自动回复/退信（机器，不算人工回复）",
+    "k": "3e83fe6bdfdeb580"
+   },
+   {
+    "date": "2024-08-05",
+    "dir": "来",
+    "who": "jrsalvador@davantel.com",
+    "quote": "Ausente - Out of office｜Estaré fuera de la oficina con acceso limitado al email hasta el 19 de  Agosto. En caso de urgencia llamar al 933408712.",
+    "why": "自动回复/退信（机器，不算人工回复）",
+    "k": "f3e06f468c9f4dc0"
+   }
+  ],
   "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-24"

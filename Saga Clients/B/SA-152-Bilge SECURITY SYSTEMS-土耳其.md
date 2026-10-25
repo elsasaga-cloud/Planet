@@ -38,7 +38,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 安装商 25% 档：STC-28DGGPM（$84.1）；低价位 Realtek 线 STC-028GP（$24.2）；WhatsApp 用土耳其语图片报价；Realtek 线按 HRUI 2026-09-30 进价 +25% 现算（Q-47 默认，不用 Drive 旧表价）：STC-208GP $24.2→$26.2；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：ISAF'ta görüştüğümüz PoE switch için: 8 port gigabit PoE+ yönetilebilir, 2 SFP, $84.1 EXW; yönetilemeyen 8 port PoE $26.2. Kaç kamera için planlıyorsunuz?
 - **最大未知**：年走量与现供应商
-- **下一步**：待 Simon 排期（首封） A 邮箱 → bilge.guvenlik@hotmail.com 首封：按 email_hook 一问（第 74 批(r) 2026-10-25：对方不懂英文、WA 已加 → 土耳其语整段 WhatsApp 单发；价与研究档一致，15 天有效）
+- **下一步**：待 Simon 排期（首封） A 邮箱 → bilge.guvenlik@hotmail.com 首封：按 email_hook 一问（第 74 批(r) 2026-10-25：对方不懂英文、WA 已加 → 土耳其语整段 WhatsApp 单发；价与研究档一致，15 天有效）（第 76 批(c) 2026-10-25：0 事实户补时间线事实）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -49,8 +49,12 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：安装商 25% 档：STC-28DGGPM（$84.1）；低价位 Realtek 线 STC-028GP（$24.2）；WhatsApp 用土耳其语图片报价
 - **断点 / 为什么停在这里**：不懂英文；规模小
 - **Saga 现在该推什么**：P1 **STC-28DGGPM**（25% 档，Realtek 线按 HRUI 2026-09-30 进价 +25% 现算（Q-47 默认，不用 Drive 旧表价）：STC-208GP $24.2→$26.2；按主表（研究档 saga_fit））——安装商 25% 档：STC-28DGGPM（$84.1）；低价位 Realtek 线 STC-028GP（$24.2）；WhatsApp 用土耳其语图片报价
-- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → bilge.guvenlik@hotmail.com　首封：按 email_hook 一问（第 74 批(r) 2026-10-25：对方不懂英文、WA 已加 → 土耳其语整段 WhatsApp 单发；价与研究档一致，15 天有效）
+- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → bilge.guvenlik@hotmail.com　首封：按 email_hook 一问（第 74 批(r) 2026-10-25：对方不懂英文、WA 已加 → 土耳其语整段 WhatsApp 单发；价与研究档一致，15 天有效）（第 76 批(c) 2026-10-25：0 事实户补时间线事实）
   - 第一问（只问一个）：ISAF'ta görüştüğümüz PoE switch için: 8 port gigabit PoE+ yönetilebilir, 2 SFP, $84.1 EXW; yönetilemeyen 8 port PoE $26.2. Kaç kamera için planlıyorsunuz?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2025-10 | 面 | ISAF 2025 现场（用户 Clients 表记录） | 不懂英文， 拿了彩页， 说了要POE SWITCH；90 53212 02931 已加（用户 Clients 表摘录） | 展会面谈记录（录入 2026-10-21） | `clients_table` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来；用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码
 

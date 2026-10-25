@@ -38,7 +38,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM 对位 RF-GP2803PGM — 已打开的主题（1/17 封有打开记录）：「90W PoE Managed Switch」(2025-04-21) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续 最近一封去信是 2026-09-25 A 邮箱模板（在本档最后一条事实之后）——下一封必须回到真人线程、不再叠模板｜已发资料（勿重发）：Product Link_2026Q2(2026-03-12)、Product Link_2026Q3(2026-07-10)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）；—；群发里他已看到的价（续）：2026-08-20 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-10 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：For RF-GP2803PGM, what landed cost and lead time does N-Net give you today?
 - **最大未知**：年走量与现供应商
-- **下一步**：2026-11 A 邮箱 → tomasz.paszkowski@rfog.pl 一封对位表
+- **下一步**：2026-11 A 邮箱 → tomasz.paszkowski@rfog.pl 一封对位表（第 76 批(c) 2026-10-25：audit_ab 软项修正：署名「Alan Yan」→「Alan」（A 箱实际署名））
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -49,7 +49,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：8GE PoE + 2SFP 工业管理。
 - **断点 / 为什么停在这里**：—
 - **Saga 现在该推什么**：P1 **STI-288DGGPM 对位 RF-GP2803PGM**（20% 档，—；群发里他已看到的价（续）：2026-08-20 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-10 $280（10G Enterprise SFP Switch））——已打开的主题（1/17 封有打开记录）：「90W PoE Managed Switch」(2025-04-21) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续 最近一封去信是 2026-09-25 A 邮箱模板（在本档最后一条事实之后）——下一封必须回到真人线程、不再叠模板｜已发资料（勿重发）：Product Link_2026Q2(2026-03-12)、Product Link_2026Q3(2026-07-10)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）
-- **下一步（具体）**：2026-11　A 邮箱 → tomasz.paszkowski@rfog.pl　一封对位表
+- **下一步（具体）**：2026-11　A 邮箱 → tomasz.paszkowski@rfog.pl　一封对位表（第 76 批(c) 2026-10-25：audit_ab 软项修正：署名「Alan Yan」→「Alan」（A 箱实际署名））
   - 第一问（只问一个）：For RF-GP2803PGM, what landed cost and lead time does N-Net give you today?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -309,8 +309,8 @@ List is USD 137.5 EXW (snapshot 2026-10-17, valid 15 days); your own label and w
 
 Only question: what landed cost and lead time does N-Net give you today? If we cannot beat both, I will stop writing.
 
-Alan Yan
-Saga Telecom
+Alan
+Saga Telecom - sagatele.com
 ```
 
 > 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。

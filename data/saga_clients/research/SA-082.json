@@ -181,7 +181,7 @@
     "next_move": {
       "when": "按 WA 节奏",
       "channel": "WhatsApp",
-      "action": "WA 一句话（第 75 批(r) 2026-10-25：WhatsApp 一句话版已写 `draft_en`（Simon 按 WA 节奏自发））",
+      "action": "WA 一句话（第 75 批(r) 2026-10-25：WhatsApp 一句话版已写 `draft_en`（Simon 按 WA 节奏自发））（第 76 批(c) 2026-10-25：audit_ab 软项修正：证书口径 CE/FCC files → CE/RoHS files）",
       "one_question": "Which ONV/Xinqiao industrial PoE SKU is your volume item, and what would make you add a Marvell second source?"
     },
     "facts": [
@@ -200,7 +200,7 @@
     ],
     "draft_en": {
       "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
-      "body": "Mr. Pekyurek, Simon from Saga Telecom - ISAF follow-up on the industrial line. Two NVC-branded SKUs, EXW, MOQ 1, 15-day validity, CE/FCC files: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, L2+ managed with ring redundancy, Marvell-based - STI-288DGGPM - $137.5; compact 4 x Gigabit PoE+ + 1 x SFP, unmanaged - STI-144GP - $35.5. Which ONV / Xinqiao industrial PoE SKU is your volume item today, so I line ours up against that one?"
+      "body": "Mr. Pekyurek, Simon from Saga Telecom - ISAF follow-up on the industrial line. Two NVC-branded SKUs, EXW, MOQ 1, 15-day validity, CE/RoHS files: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, L2+ managed with ring redundancy, Marvell-based - STI-288DGGPM - $137.5; compact 4 x Gigabit PoE+ + 1 x SFP, unmanaged - STI-144GP - $35.5. Which ONV / Xinqiao industrial PoE SKU is your volume item today, so I line ours up against that one?"
     },
     "as_of": "2026-10-24"
   }

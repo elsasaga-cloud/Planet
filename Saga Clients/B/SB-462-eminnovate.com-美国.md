@@ -37,7 +37,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STC-28DGGPM — 身份待核：默认按终端/集成商 25% 档以 STC-28DGGPM 试探；核实后再定；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-06-29 $300（48 Port PoE Managed Switch = STC-448XGGPM，Elsa 箱 1 轮 2025-06-29；现表 $335.4@20%、Drive 老表 $335——同款写 $335 要先说 2025 群发是 $300、汇率 7.2→6.7）；2026-05-11 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 2 轮 2025-10-01→2026-05-11；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）
 - **第一问（只问一个）**：Michael — no rear-facing-port models in our range (ports are front; airflow front-to-rear on the CENTEC units). What is the rack situation that needs rear ports — cabling to a patch panel behind?
 - **最大未知**：年走量与现供应商
-- **下一步**：2026-11（顺手） Elsa 邮箱回原线程 首封前知悉：Elsa 已 1:1 去信 5 轮（2025-10-01→2026-05-11，0 回），此前还经锚 Bcc 触达（第 74 批(m)）；首封前知悉：Elsa 已 BCC 群发触达（最近 2025-04-05「Marvell Alleycat5 Solution」），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生。 一问；回原串沿用原主题（邮件客户端自动加 Re:），上面的主题只在另起新信时用
+- **下一步**：2026-11（顺手） Elsa 邮箱回原线程 首封前知悉：Elsa 已 1:1 去信 5 轮（2025-10-01→2026-05-11，0 回），此前还经锚 Bcc 触达（第 74 批(m)）；首封前知悉：Elsa 已 BCC 群发触达（最近 2025-04-05「Marvell Alleycat5 Solution」），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生。 一问；回原串沿用原主题（邮件客户端自动加 Re:），上面的主题只在另起新信时用（第 76 批(c) 2026-10-25：audit_ab 软项修正：署名「Alan Yan」→「Alan」（A 箱实际署名））
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-25）
 
@@ -48,7 +48,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：身份待核：默认按终端/集成商 25% 档以 STC-28DGGPM 试探；核实后再定
 - **断点 / 为什么停在这里**：身份未核实；若为印度 IT 服务公司则不在目标区域/行业
 - **Saga 现在该推什么**：P1 **STC-28DGGPM**（25% 档，按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-06-29 $300（48 Port PoE Managed Switch = STC-448XGGPM，Elsa 箱 1 轮 2025-06-29；现表 $335.4@20%、Drive 老表 $335——同款写 $335 要先说 2025 群发是 $300、汇率 7.2→6.7）；2026-05-11 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 2 轮 2025-10-01→2026-05-11；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档））——身份待核：默认按终端/集成商 25% 档以 STC-28DGGPM 试探；核实后再定
-- **下一步（具体）**：2026-11（顺手）　Elsa 邮箱回原线程　首封前知悉：Elsa 已 1:1 去信 5 轮（2025-10-01→2026-05-11，0 回），此前还经锚 Bcc 触达（第 74 批(m)）；首封前知悉：Elsa 已 BCC 群发触达（最近 2025-04-05「Marvell Alleycat5 Solution」），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生。 一问；回原串沿用原主题（邮件客户端自动加 Re:），上面的主题只在另起新信时用
+- **下一步（具体）**：2026-11（顺手）　Elsa 邮箱回原线程　首封前知悉：Elsa 已 1:1 去信 5 轮（2025-10-01→2026-05-11，0 回），此前还经锚 Bcc 触达（第 74 批(m)）；首封前知悉：Elsa 已 BCC 群发触达（最近 2025-04-05「Marvell Alleycat5 Solution」），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生。 一问；回原串沿用原主题（邮件客户端自动加 Re:），上面的主题只在另起新信时用（第 76 批(c) 2026-10-25：audit_ab 软项修正：署名「Alan Yan」→「Alan」（A 箱实际署名））
   - 第一问（只问一个）：Michael — no rear-facing-port models in our range (ports are front; airflow front-to-rear on the CENTEC units). What is the rack situation that needs rear ports — cabling to a patch panel behind?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -230,8 +230,8 @@ What is the rack situation that needs rear ports — cabling to a patch panel be
 
 And one thing I should have asked first: what is the company and the typical project, so I send only what fits.
 
-Alan Yan
-Saga Telecom
+Alan
+Saga Telecom - sagatele.com
 ```
 
 > 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。

@@ -36,7 +36,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-280GE — 工业 FS（现 CTC Union）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$48.6 @25%）、工业 8 PoE + 2 SFP STI-288GPM（$82.2）、工业千兆 MC STI-110GE（$23.4）；换人再触锚价 STI-280GE $46 EXW（Saga 2025 Realtek 工业线对外价 $46（非管理工业线不用档位价 ㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-07-07 $300（48 Port PoE Managed Switch）、2025-10-15 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Stefano, alongside the CTC Union industrial switches you deploy, we supply Marvell-based DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP managed switches plus gigabit MCs (−40~75 °C, CE/RoHS) from single units, EXW USD — which industrial position in your telematics projects is most price-sensitive? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 首封前知悉：Elsa 仅 2025-02-17 单发过 1 封「16 Port PoE Managed Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(ac) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 首封前知悉：Elsa 仅 2025-02-17 单发过 1 封「16 Port PoE Managed Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(ac) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -47,7 +47,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：工业 FS（现 CTC Union）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$48.6 @25%）、工业 8 PoE + 2 SFP STI-288GPM（$82.2）、工业千兆 MC STI-110GE（$23.4）
 - **断点 / 为什么停在这里**：快照为托管占位页（官网待核）；CTC Union（台湾）价格基准中等；12 次无回复 → 改向 Deputy CTO 具名首触
 - **Saga 现在该推什么**：P1 **STI-280GE**（25% 档，换人再触锚价 STI-280GE $46 EXW（Saga 2025 Realtek 工业线对外价 $46（非管理工业线不用档位价 ㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-07-07 $300（48 Port PoE Managed Switch）、2025-10-15 $280（10G Enterprise SFP Switch））——工业 FS（现 CTC Union）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$48.6 @25%）、工业 8 PoE + 2 SFP STI-288GPM（$82.2）、工业千兆 MC STI-110GE（$23.4）
-- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　首封前知悉：Elsa 仅 2025-02-17 单发过 1 封「16 Port PoE Managed Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(ac) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　首封前知悉：Elsa 仅 2025-02-17 单发过 1 封「16 Port PoE Managed Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(ac) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
   - 第一问（只问一个）：Stefano, alongside the CTC Union industrial switches you deploy, we supply Marvell-based DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP managed switches plus gigabit MCs (−40~75 °C, CE/RoHS) from single units, EXW USD — which industrial position in your telematics projects is most price-sensitive? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -55,6 +55,7 @@ updated: 2026-10-25
 | 2025-02-17 | out | Elsa → sysnettelematica@legalmail.it | 16 Port PoE Managed Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 | 2026-09-16 | 去 | A/S 群发 | Industrial PoE Switch、16 Port Ethernet Switch | 20 封 / 0 次打开 / 0 回｜首封 2024-07-01 → 末封 2026-09-16（20 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 工业FS CTCU的 | 表内备注 | `用户表` |
+| 2026-09-16 | 去 | A 箱（Alan） | 16 Port Industrial PoE Switch | 本日去信真实主题（邮箱索引 83def2bded8932b9；信稿开头句引用此封；此前稿内写的「Industrial PoE Switch」是线程列表首题，不是本封） | `83def2bded8932b9` |
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -271,7 +272,7 @@ updated: 2026-10-25
 ```text
 Hi Stefano,
 
-We wrote to you once in February 2025 about a 16-port PoE managed switch, and since then only general product mails - most recently "Industrial PoE Switch" on 16 September 2026 - none of which needed an answer. This one is specific.
+We wrote to you once in February 2025 about a 16-port PoE managed switch, and since then only general product mails - most recently "16 Port Industrial PoE Switch" on 16 September 2026 - none of which needed an answer. This one is specific.
 
 Alongside the CTC Union industrial switches you deploy, three units from single pieces, -40 to 75 C, CE/RoHS, EXW, 15-day validity: DIN-rail 8 x Gigabit + 2 x SFP, unmanaged - model STI-280GE - $46 USD; 8 x Gigabit PoE+ + 2 x SFP, L2 managed, Marvell-based - STI-288GPM - $82.2; Gigabit media converter, 1 x RJ45 + 1 x SFP slot - STI-110GE - $26.5.
 

@@ -36,7 +36,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-110GE — 现从 Volktek（台湾）采购 MC → 工业千兆 MC STI-110GE（$24.3 @30%）/ PoE MC STI-111GP（$30.1）贴 Canary 标作二供；桌面 MC 用 HRUI（列表价，注明）；8 GE + 2 SFP 位 STI-280GE；换人再触锚价 STI-110GE $26.5 EXW（最近实报 SA-001 2025-11-27 $26.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-19 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-02-26 $65（10G Media Converter）、2025-06-11 $300（48 Port PoE Managed Switch）、2025-10-02 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Charles, for the media converters in the Canary range, we can be a second source alongside your current Taiwanese supplier — industrial gigabit and PoE MCs plus 8-GE + 2 SFP switches in your packaging from small lots, FCC/CE/RoHS — which MC model do your distributors reorder most? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封（第 75 批(v) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封（第 75 批(v) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -47,13 +47,14 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：现从 Volktek（台湾）采购 MC → 工业千兆 MC STI-110GE（$24.3 @30%）/ PoE MC STI-111GP（$30.1）贴 Canary 标作二供；桌面 MC 用 HRUI（列表价，注明）；8 GE + 2 SFP 位 STI-280GE
 - **断点 / 为什么停在这里**：现供 Volktek（台湾，品质基准高）：需以价格/交期差异化
 - **Saga 现在该推什么**：P1 **STI-110GE**（30% 档，换人再触锚价 STI-110GE $26.5 EXW（最近实报 SA-001 2025-11-27 $26.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-19 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-02-26 $65（10G Media Converter）、2025-06-11 $300（48 Port PoE Managed Switch）、2025-10-02 $280（10G Enterprise SFP Switch））——现从 Volktek（台湾）采购 MC → 工业千兆 MC STI-110GE（$24.3 @30%）/ PoE MC STI-111GP（$30.1）贴 Canary 标作二供；桌面 MC 用 HRUI（列表价，注明）；8 GE + 2 SFP 位 STI-280GE
-- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封（第 75 批(v) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封（第 75 批(v) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
   - 第一问（只问一个）：Charles, for the media converters in the Canary range, we can be a second source alongside your current Taiwanese supplier — industrial gigabit and PoE MCs plus 8-GE + 2 SFP switches in your packaging from small lots, FCC/CE/RoHS — which MC model do your distributors reorder most? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-09-16 | 去 | A/S 群发 | 10G Enterprise SFP Switch、10G Media Converter | 22 封 / 0 次打开 / 0 回｜首封 2025-01-22 → 末封 2026-09-16（22 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 从VOLKTEK 买MC | 表内备注 | `用户表` |
+| 2026-09-16 | 去 | A 箱（Alan） | 16 Port Industrial PoE Switch | 本日去信真实主题（邮箱索引 eef9395cf4d46f7c；信稿开头句引用此封；此前稿内写的「10G Enterprise SFP Switch」是线程列表首题，不是本封） | `eef9395cf4d46f7c` |
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -268,7 +269,7 @@ updated: 2026-10-25
 ```text
 Hi Charles,
 
-Over the past months you had a few product mails from us - most recently "10G Enterprise SFP Switch" on 16 September 2026 - and there was no reason to answer a mass mail. This one is specific.
+Over the past months you had a few product mails from us - most recently "16 Port Industrial PoE Switch" on 16 September 2026 - and there was no reason to answer a mass mail. This one is specific.
 
 For the media converters in the Canary range (GT-55PD / GF-55 class), a second source alongside your current Taiwanese supplier, in Canary packaging from small lots, FCC/CE/RoHS: industrial Gigabit converter, 1 x RJ45 + 1 x SFP slot (fixed SC optional) - model STI-110GE - $26.5 USD EXW (MOQ 1, 15-day validity); PoE version - STI-111GP - $30.1; and an 8 x Gigabit + 2 x SFP unmanaged DIN switch - STI-280GE - $46.
 

@@ -36,7 +36,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — —；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-11 $220（48 port managed switch）、2024-08-09 $65（10G media converter）；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-01-29 $240（24 Port Fiber Switch）、2025-09-26 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
-- **下一步**：不动 — —
+- **下一步**：不动 — —（第 76 批(c) 2026-10-25：0 事实户补时间线事实）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -47,7 +47,14 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：—
 - **断点 / 为什么停在这里**：—
 - **Saga 现在该推什么**：P1 **—**（20% 档，—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-11 $220（48 port managed switch）、2024-08-09 $65（10G media converter）；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-01-29 $240（24 Port Fiber Switch）、2025-09-26 $280（10G Enterprise SFP Switch））———
-- **下一步（具体）**：不动　—　—
+- **下一步（具体）**：不动　—　—（第 76 批(c) 2026-10-25：0 事实户补时间线事实）
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2024-07-11 | 去 | S 箱（Simon） | 48 port managed switch | 首封去信（邮箱索引；去信共 26 封） | `5e1a1e2bbaf7f062` |
+| 2026-08-14 | 去 | A 箱（Alan） | 24 Port PoE Managed Switch | 最近一封去信（邮箱索引；去信共 26 封） | `074d336ab7855dba` |
+| 2023-12-25 | 来 | info@securasound.co.uk | Automatic reply: Din Power Supply｜Our Offices are now closed and will reopen at 9am on Tuesday 2nd January 2024 – Any orders placed will not be dispatched | 自动回复/退信（机器，不算人工回复） | `c899d22bff81b409` |
+| 2024-05-14 | 来 | info@securasound.co.uk | Automatic reply: Industrial poe switch｜If you have sent us images of a product to identify we will generally respond to you within 1 working day. Please check  | 自动回复/退信（机器，不算人工回复） | `ce7192e0322a174b` |
 
 ## 基本事实（事实/推断/假设分层）
 

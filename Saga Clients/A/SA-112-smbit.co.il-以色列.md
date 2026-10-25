@@ -38,7 +38,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM — 已打开的主题（1/16 封有打开记录）：「OEM Core Switching Solution」(2026-02-02) → 读者兴趣偏「DC 核心/CENTEC」；与 P1 同类，继续 最近一封去信是 2026-10-07 A 邮箱模板（在本档最后一条事实之后）——下一封必须回到真人线程、不再叠模板｜已发资料（勿重发）：Product Link_2026Q2(2026-04-02)、Product Link_2026Q3(2026-07-13)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）；—；群发里他已看到的价（续）：2026-08-13 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-07-03 $300（48 Port PoE Managed Switch）、2025-10-27 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Is the ~150-unit/year industrial PoE requirement still live, and which spec did it settle on?
 - **最大未知**：年走量与现供应商
-- **下一步**：2026-11 A 邮箱 → yoav@smbit.co.il 一句话
+- **下一步**：2026-11 A 邮箱 → yoav@smbit.co.il 一句话（第 76 批(c) 2026-10-25：audit_ab 软项修正：署名「Alan Yan」→「Alan」（A 箱实际署名））
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -49,7 +49,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：工业 PoE 150 台/年（市政/学校）。
 - **断点 / 为什么停在这里**：—
 - **Saga 现在该推什么**：P1 **STI-288DGGPM**（25% 档，—；群发里他已看到的价（续）：2026-08-13 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-07-03 $300（48 Port PoE Managed Switch）、2025-10-27 $280（10G Enterprise SFP Switch））——已打开的主题（1/16 封有打开记录）：「OEM Core Switching Solution」(2026-02-02) → 读者兴趣偏「DC 核心/CENTEC」；与 P1 同类，继续 最近一封去信是 2026-10-07 A 邮箱模板（在本档最后一条事实之后）——下一封必须回到真人线程、不再叠模板｜已发资料（勿重发）：Product Link_2026Q2(2026-04-02)、Product Link_2026Q3(2026-07-13)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）
-- **下一步（具体）**：2026-11　A 邮箱 → yoav@smbit.co.il　一句话
+- **下一步（具体）**：2026-11　A 邮箱 → yoav@smbit.co.il　一句话（第 76 批(c) 2026-10-25：audit_ab 软项修正：署名「Alan Yan」→「Alan」（A 箱实际署名））
   - 第一问（只问一个）：Is the ~150-unit/year industrial PoE requirement still live, and which spec did it settle on?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -299,8 +299,8 @@ You once mentioned roughly 150 industrial PoE units a year for municipal and sch
 
 For reference our 8× GbE PoE + 2× SFP industrial managed unit (STI-288DGGPM, Marvell AC5, -40~75°C) is USD 137.5 EXW (snapshot 2026-10-17, valid 15 days). A paid evaluation unit ships in 4–7 working days.
 
-Alan Yan
-Saga Telecom
+Alan
+Saga Telecom - sagatele.com
 ```
 
 > 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。

@@ -36,7 +36,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — 已打开的主题（1/12 封有打开记录）：「Managed Optical Bypass Switch」(2025-06-25) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续；—；群发里他已看到的价（续，第 66 批全量复核）：2025-05-21 $300（48 Port PoE Managed Switch）、2025-10-08 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
-- **下一步**：不动 — —
+- **下一步**：不动 — —（第 76 批(c) 2026-10-25：0 事实户补时间线事实）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -47,7 +47,13 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：—
 - **断点 / 为什么停在这里**：—
 - **Saga 现在该推什么**：P1 **—**（20% 档，—；群发里他已看到的价（续，第 66 批全量复核）：2025-05-21 $300（48 Port PoE Managed Switch）、2025-10-08 $280（10G Enterprise SFP Switch））——已打开的主题（1/12 封有打开记录）：「Managed Optical Bypass Switch」(2025-06-25) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续
-- **下一步（具体）**：不动　—　—
+- **下一步（具体）**：不动　—　—（第 76 批(c) 2026-10-25：0 事实户补时间线事实）
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2025-01-30 | 去 | S 箱（Simon） | 16 Port Ethernet Switch | 首封去信（邮箱索引；去信共 12 封） | `b19a695a76d27eb0` |
+| 2026-02-09 | 去 | A 箱（Alan） | Managed Optical Bypass Switch | 最近一封去信（邮箱索引；去信共 12 封） | `f3ea13043f51cc5d` |
+| 2025-01-30 | 来 | p.gottwald@enika.cz | Automatická odpověď: 16 Port Ethernet Switch｜﻿ ﻿ ﻿ ﻿﻿Dobrý den,  jsem na dovolené. Zpět budu 3.2. V urgentních případech prosím kontaktujte kolegy na svitidla@enika. | 来信（邮箱索引；原文见 k） | `e25fa84b6b9e3cb9` |
 
 ## 基本事实（事实/推断/假设分层）
 

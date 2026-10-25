@@ -36,7 +36,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-110GE — 主品类 TAP/EoC Saga 不做；可对位 MC → 工业千兆 MC STI-110GE（$24.3 @30%）/ PoE MC STI-111GP 贴 Dualcomm 标；桌面 MC 注明；换人再触锚价 STI-110GE $26.5 EXW（最近实报 SA-001 2025-11-27 $26.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-13 $65（10G media converter）、2024-12-16 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-07-27 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-08 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：For the media converters in your catalogue next to the ETAP and DECA lines, we can supply industrial gigabit and PoE MCs under the Dualcomm label from small lots (−40~75 °C, FCC/CE/RoHS) — is there an MC or small PoE switch SKU you plan to add to the range? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
-- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封（第 75 批(t) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用；具名 KP 见 channel））
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封（第 75 批(t) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用；具名 KP 见 channel））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -47,13 +47,14 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：主品类 TAP/EoC Saga 不做；可对位 MC → 工业千兆 MC STI-110GE（$24.3 @30%）/ PoE MC STI-111GP 贴 Dualcomm 标；桌面 MC 注明
 - **断点 / 为什么停在这里**：主品类 TAP / EoC：Saga 不做（Q-32），仅 MC 可对位，契合度低
 - **Saga 现在该推什么**：P1 **STI-110GE**（30% 档，换人再触锚价 STI-110GE $26.5 EXW（最近实报 SA-001 2025-11-27 $26.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-13 $65（10G media converter）、2024-12-16 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-07-27 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-08 $280（10G Enterprise SFP Switch））——主品类 TAP/EoC Saga 不做；可对位 MC → 工业千兆 MC STI-110GE（$24.3 @30%）/ PoE MC STI-111GP 贴 Dualcomm 标；桌面 MC 注明
-- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封（第 75 批(t) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用；具名 KP 见 channel））
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封（第 75 批(t) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用；具名 KP 见 channel））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
   - 第一问（只问一个）：For the media converters in your catalogue next to the ETAP and DECA lines, we can supply industrial gigabit and PoE MCs under the Dualcomm label from small lots (−40~75 °C, FCC/CE/RoHS) — is there an MC or small PoE switch SKU you plan to add to the range? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-10-01 | 去 | A/S 群发 | Industrial PoE Switch、Managed Optical Bypass Switch | 31 封 / 0 次打开 / 0 回｜首封 2024-06-25 → 末封 2026-10-01（31 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | MC FS 工业MC EOC 标价很高 最近在上新品 自己的牌子 | 表内备注 | `用户表` |
+| 2026-10-01 | 去 | A 箱（Alan） | Managed PoE Switches | 本日去信真实主题（邮箱索引 af3e41b2c6f950b7；信稿开头句引用此封；此前稿内写的「Industrial PoE Switch」是线程列表首题，不是本封） | `af3e41b2c6f950b7` |
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -284,7 +285,7 @@ updated: 2026-10-25
 ```text
 Hello Dualcomm team,
 
-Over the past months you had a few product mails from us - most recently "Industrial PoE Switch" on 1 October 2026 - and there was no reason to answer a mass mail. This one is specific.
+Over the past months you had a few product mails from us - most recently "Managed PoE Switches" on 1 October 2026 - and there was no reason to answer a mass mail. This one is specific.
 
 TAPs and EoC are your core and not ours. Where we can add to the range under the Dualcomm label from small lots, -40 to 75 C, FCC/CE/RoHS: industrial Gigabit media converter, 1 x RJ45 + 1 x SFP slot - model STI-110GE - $26.5 USD EXW (MOQ 1, 15-day validity); the PoE version powering a camera or AP at the far end - STI-111GP - $30.1. Both with your logo on the unit.
 

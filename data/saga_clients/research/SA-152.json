@@ -82,10 +82,19 @@
   "next_move": {
    "when": "待 Simon 排期（首封）",
    "channel": "A 邮箱 → bilge.guvenlik@hotmail.com",
-   "action": "首封：按 email_hook 一问（第 74 批(r) 2026-10-25：对方不懂英文、WA 已加 → 土耳其语整段 WhatsApp 单发；价与研究档一致，15 天有效）",
+   "action": "首封：按 email_hook 一问（第 74 批(r) 2026-10-25：对方不懂英文、WA 已加 → 土耳其语整段 WhatsApp 单发；价与研究档一致，15 天有效）（第 76 批(c) 2026-10-25：0 事实户补时间线事实）",
    "one_question": "ISAF'ta görüştüğümüz PoE switch için: 8 port gigabit PoE+ yönetilebilir, 2 SFP, $84.1 EXW; yönetilemeyen 8 port PoE $26.2. Kaç kamera için planlıyorsunuz?"
   },
-  "facts": [],
+  "facts": [
+   {
+    "date": "2025-10",
+    "dir": "面",
+    "who": "ISAF 2025 现场（用户 Clients 表记录）",
+    "quote": "不懂英文， 拿了彩页， 说了要POE SWITCH；90 53212 02931 已加（用户 Clients 表摘录）",
+    "why": "展会面谈记录（录入 2026-10-21）",
+    "k": "clients_table"
+   }
+  ],
   "proof_gaps": [
    "无邮件往来",
    "用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"

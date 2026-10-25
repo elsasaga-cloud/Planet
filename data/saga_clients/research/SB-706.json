@@ -99,10 +99,35 @@
   "next_move": {
    "when": "不动",
    "channel": "—",
-   "action": "—",
+   "action": "—（第 76 批(c) 2026-10-25：0 事实户补时间线事实）",
    "one_question": ""
   },
-  "facts": [],
+  "facts": [
+   {
+    "date": "2025-05-21",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "Marvell Alleycat5 Solution",
+    "why": "首封去信（邮箱索引；去信共 12 封）",
+    "k": "a6decdf29b1b8dca"
+   },
+   {
+    "date": "2026-02-16",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "Updated Ethernet Switches Links",
+    "why": "最近一封去信（邮箱索引；去信共 12 封）",
+    "k": "f8d5e8ff3bcf0b48"
+   },
+   {
+    "date": "2025-05-21",
+    "dir": "来",
+    "who": "sales@hssl.us",
+    "quote": "Re: HSSL Request/Inquiry id ##1014746##｜Dear Alan from Saga Telecom,    Thank you for reaching out to our team. We have received your request/inquiry and a tick",
+    "why": "自动工单回执（HSSL ticket，机器）",
+    "k": "1eb68c09068fca9e"
+   }
+  ],
   "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-24"

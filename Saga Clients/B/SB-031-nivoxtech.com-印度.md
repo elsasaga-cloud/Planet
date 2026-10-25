@@ -37,7 +37,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-110GE — 其最初询价对象 = 工业 MC（要证书）→ Saga STI-110GE（$22.4/23.4/24.3，CE/FCC/RoHS）贴 IVEONET 品牌，OEM 30% 档；工业 PoE 备选 STI-288GP；EN50155 需求不接。；首触锚价 STI-110GE $26.5 EXW（最近实报 SA-001 2025-11-27 $26.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Hemanth, for the IVEONET line — our DIN-rail gigabit media converter (−40~75 ℃, CE/FCC/RoHS, no EN50155) can carry your brand from 1 pc; which fibre option do you move most, SFP slot or fixed SC 20 km? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：待 Simon 排期（首封） A 邮箱 → hemanth@nivoxtech.com（Hemanth Kumar） 首封：按 email_hook 一问（第 75 批(m) 2026-10-25：英文信稿已写 `draft_en`）
+- **下一步**：待 Simon 排期（首封） A 邮箱 → hemanth@nivoxtech.com（Hemanth Kumar） 首封：按 email_hook 一问（第 75 批(m) 2026-10-25：英文信稿已写 `draft_en`）（第 76 批(c) 2026-10-25：audit_ab 软项修正：证书口径 CE/FCC/RoHS → CE/RoHS (BIS stays on your side)）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -48,7 +48,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：其最初询价对象 = 工业 MC（要证书）→ Saga STI-110GE（$22.4/23.4/24.3，CE/FCC/RoHS）贴 IVEONET 品牌，OEM 30% 档；工业 PoE 备选 STI-288GP；EN50155 需求不接。
 - **断点 / 为什么停在这里**：守界：问 EN50155 = 铁路项目；Saga 无 EN50155，不供铁路
 - **Saga 现在该推什么**：P1 **STI-110GE**（30% 档，首触锚价 STI-110GE $26.5 EXW（最近实报 SA-001 2025-11-27 $26.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit））——其最初询价对象 = 工业 MC（要证书）→ Saga STI-110GE（$22.4/23.4/24.3，CE/FCC/RoHS）贴 IVEONET 品牌，OEM 30% 档；工业 PoE 备选 STI-288GP；EN50155 需求不接。
-- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → hemanth@nivoxtech.com（Hemanth Kumar）　首封：按 email_hook 一问（第 75 批(m) 2026-10-25：英文信稿已写 `draft_en`）
+- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → hemanth@nivoxtech.com（Hemanth Kumar）　首封：按 email_hook 一问（第 75 批(m) 2026-10-25：英文信稿已写 `draft_en`）（第 76 批(c) 2026-10-25：audit_ab 软项修正：证书口径 CE/FCC/RoHS → CE/RoHS (BIS stays on your side)）
   - 第一问（只问一个）：Hemanth, for the IVEONET line — our DIN-rail gigabit media converter (−40~75 ℃, CE/FCC/RoHS, no EN50155) can carry your brand from 1 pc; which fibre option do you move most, SFP slot or fixed SC 20 km? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -243,7 +243,7 @@ Hi Hemanth,
 
 In 2024 you asked us for industrial media-converter prices and certificates, and in 2025 about EN 50155 - straight answer on that one: we have no EN 50155 line, so nothing for the rail projects.
 
-For the IVEONET line, the industrial Gigabit media converter can carry your brand from small lots: 1 x RJ45 + 1 x SFP slot (or fixed SC 20 km), DIN-rail, -40 to 75 C, CE/FCC/RoHS - model STI-110GE - $26.5 USD EXW (MOQ 1, 15-day validity); the industrial 8 x PoE+ + 2 x SFP unmanaged switch - STI-288GP - $62.2.
+For the IVEONET line, the industrial Gigabit media converter can carry your brand from small lots: 1 x RJ45 + 1 x SFP slot (or fixed SC 20 km), DIN-rail, -40 to 75 C, CE/RoHS (BIS stays on your side) - model STI-110GE - $26.5 USD EXW (MOQ 1, 15-day validity); the industrial 8 x PoE+ + 2 x SFP unmanaged switch - STI-288GP - $62.2.
 
 One question: which fibre option do you move most - SFP slot, or fixed SC 20 km?
 

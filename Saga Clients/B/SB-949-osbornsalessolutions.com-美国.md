@@ -36,7 +36,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-280GE — 代表公司（非直接采购）→ 以代理合作切入：工业 8 GE + 2 SFP 管理 STI-280GE（$48.6 @25%）、工业 8 PoE + 2 SFP STI-288GPM（$82.2）、商用 STC-28DGGPM（$84.1）；换人再触锚价 STI-280GE $46 EXW（Saga 2025 Realtek 工业线对外价 $46（非管理工业线不用档位价 ㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-13 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-01-16 $300（48 Port PoE Managed Switch）、2025-09-29 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Kyle, as a rep firm covering industrial networking and security, would you consider adding a neutral-brand industrial PoE switch line (DIN-rail 8-GE/8-PoE + 2 SFP, managed versions on a Marvell platform, −40~75 °C, FCC/CE/RoHS, small-lot EXW USD) to your bag — and which territories do you cover? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封（第 75 批(w) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用）；代理条款（佣金、无库存义务）是对外承诺，Simon 发前确认）
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封（第 75 批(w) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用）；代理条款（佣金、无库存义务）是对外承诺，Simon 发前确认）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -47,13 +47,14 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：代表公司（非直接采购）→ 以代理合作切入：工业 8 GE + 2 SFP 管理 STI-280GE（$48.6 @25%）、工业 8 PoE + 2 SFP STI-288GPM（$82.2）、商用 STC-28DGGPM（$84.1）
 - **断点 / 为什么停在这里**：代理性质（佣金制，非采购方；合作模式待定）；10 次无回复 → 改向 Managing Partner 具名首触
 - **Saga 现在该推什么**：P1 **STI-280GE**（25% 档，换人再触锚价 STI-280GE $46 EXW（Saga 2025 Realtek 工业线对外价 $46（非管理工业线不用档位价 ㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-13 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-01-16 $300（48 Port PoE Managed Switch）、2025-09-29 $280（10G Enterprise SFP Switch））——代表公司（非直接采购）→ 以代理合作切入：工业 8 GE + 2 SFP 管理 STI-280GE（$48.6 @25%）、工业 8 PoE + 2 SFP STI-288GPM（$82.2）、商用 STC-28DGGPM（$84.1）
-- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封（第 75 批(w) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用）；代理条款（佣金、无库存义务）是对外承诺，Simon 发前确认）
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封（第 75 批(w) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用）；代理条款（佣金、无库存义务）是对外承诺，Simon 发前确认）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
   - 第一问（只问一个）：Kyle, as a rep firm covering industrial networking and security, would you consider adding a neutral-brand industrial PoE switch line (DIN-rail 8-GE/8-PoE + 2 SFP, managed versions on a Marvell platform, −40~75 °C, FCC/CE/RoHS, small-lot EXW USD) to your bag — and which territories do you cover? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-09-09 | 去 | A/S 群发 | Managed Optical Bypass Switch、10G Enterprise SFP Switch | 23 封 / 0 次打开 / 0 回｜首封 2025-01-16 → 末封 2026-09-09（23 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | Industrial Networking Communications Security | 表内备注 | `用户表` |
+| 2026-09-09 | 去 | A 箱（Alan） | 16 Port Industrial PoE Switch | 本日去信真实主题（邮箱索引 9c876dbe6b6b8064；信稿开头句引用此封；此前稿内写的「Managed Optical Bypass Switch」是线程列表首题，不是本封） | `9c876dbe6b6b8064` |
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -264,7 +265,7 @@ updated: 2026-10-25
 ```text
 Hi Kyle,
 
-Over the past months you had a few product mails from us - most recently "Managed Optical Bypass Switch" on 9 September 2026 - and there was no reason to answer a mass mail. This one is specific.
+Over the past months you had a few product mails from us - most recently "16 Port Industrial PoE Switch" on 9 September 2026 - and there was no reason to answer a mass mail. This one is specific.
 
 You represent manufacturers in industrial networking and security; we build industrial switches in Shenzhen and have no US representation. The line, neutral-brand, -40 to 75 C, FCC/CE/RoHS, small lots, EXW USD, 15-day validity: DIN-rail 8 x Gigabit + 2 x SFP unmanaged - model STI-280GE - $46; 8 x Gigabit PoE+ + 2 x SFP, L2 managed, Marvell-based - STI-288GPM - $82.2; commercial 8 x PoE+ + 2 x SFP L2+ - STC-28DGGPM - $84.1. Rep terms: commission on invoiced sales in your territory, no stock obligation.
 

@@ -225,7 +225,7 @@
     "next_move": {
       "when": "2026-11（第二单后 15 个月；三款测试机结论未知）",
       "channel": "WhatsApp",
-      "action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-01-23「OEM Core Switching Solution」），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生。 问三款测试机（PRT-SG-1428PM / 1424M / 1208PMI）的测试结论和 PRT-SF-1110P 的库存消耗；告知管理型已切 AC5、挂耳模具在、授权书到 2028——给他一个「现在补货不加模具费、标签照旧」的理由",
+      "action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-01-23「OEM Core Switching Solution」），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生。 问三款测试机（PRT-SG-1428PM / 1424M / 1208PMI）的测试结论和 PRT-SF-1110P 的库存消耗；告知管理型已切 AC5、挂耳模具在、授权书到 2028——给他一个「现在补货不加模具费、标签照旧」的理由（第 76 批(b) 2026-10-25：audit_ab 硬错误修正：tier 字段规范为数字）",
       "one_question": "Andrey, how did the three Priorat test units (PRT-SG-1428PM / 1424M / 1208PMI) do — ready to brand them for the next batch together with a PRT-SF-1110P refill? Tooling and label files are on file, no extra charge."
     },
     "draft_en": {
@@ -233,9 +233,9 @@
       "body": "Andrey, how did the three Priorat test units (PRT-SG-1428PM / 1424M / 1208PMI) do — ready to brand them for the next batch together with a PRT-SF-1110P refill? Tooling and label files are on file, no extra charge."
     },
     "saga_now": {
-      "why": "毛利复盘：2023 小单 24.3%，2025-07 130 台 14.2%（含挂耳返工+运费 1,809，备忘「后续慢慢拿回来」）——下一单把挂耳/包装写进 PI 项",
+      "why": "毛利复盘：2023 小单 24.3%，2025-07 130 台 14.2%（含挂耳返工+运费 1,809，备忘「后续慢慢拿回来」）——下一单把挂耳/包装写进 PI 项｜档位说明（原 tier 字段文字「OEM 30% 档名义；实际按 2025-07 绑定价（USD，货代走账）」移此）：OEM 30% 档名义；实际按 2025-07 绑定价（USD，货代走账）",
       "p1": "PRT-SF-1110P（= STC-128GFP 百兆 8 PoE + 2 GE/SFP，Priorat 贴牌，$22）补货；三款测试机 PRT-SG-1428PM（STC-4424GCPM $130）/ PRT-SG-1424M（STC-424GM $92）/ PRT-SG-1208PMI（STI-288GPM $72）转批量",
-      "tier": "OEM 30% 档名义；实际按 2025-07 绑定价（USD，货代走账）",
+      "tier": 30,
       "price": "2025-07-31 PI STSC20250731004 成交价：PRT-SF-1110P $22 ×100（含 Priorat logo 不加价）、PRT-SG-1428PM $130、PRT-SG-1424M $92、PRT-SG-1208PMI $72（各 ×10，中性测试）；该单毛利 14.2%（含挂耳返工 ¥1,309 + 运费）。下一批同型号按原价不动（Simon U28 绑定价）；管理型已切 AC5——STC-4424GCPM 的 AC5 对应款按主表重核再报，别沿用 $130 当默认",
       "repeat": [
         "2023-11 首单 STC-28GPM 小批（$898 收款）→ 2025-07 130 台（$5,165）；间隔 20 个月"

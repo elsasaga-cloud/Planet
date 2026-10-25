@@ -105,7 +105,7 @@
   "next_move": {
    "when": "2027-Q1（换人后）",
    "channel": "A 邮箱 → 具名 KP",
-   "action": "换收件人再发一封（第 75 批(ad) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用；KC stays on your side））",
+   "action": "换收件人再发一封（第 75 批(ad) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用；KC stays on your side））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）",
    "one_question": "Michael, alongside the Diva media converters you carry, we supply neutral-brand gigabit/PoE media converters and Marvell-based 8-PoE + 2 SFP L2+ switches from single units, CE/RoHS, EXW USD; KC by your side — which MC configuration do your customers order most? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
@@ -124,12 +124,20 @@
     "quote": "买的MC 全都是Diva这个牌子 公司：MC POE switch 机架 光猫；https://fiberbase-net.com/default/product/sub2.php https://www.fiberbase-net.com",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-09-11",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "16 Port Industrial PoE Switch",
+    "why": "本日去信真实主题（邮箱索引 40db383b4a8494e7；信稿开头句引用此封；此前稿内写的「Managed Optical Bypass Switch」是线程列表首题，不是本封）",
+    "k": "40db383b4a8494e7"
    }
   ],
   "proof_gaps": [],
   "draft_en": {
    "subject": "Alongside the Diva converters you carry - two converter numbers and an 8-port PoE",
-   "body": "Hi Michael,\n\nOver the past months you had a steady stream of product mails from us - most recently \"Managed Optical Bypass Switch\" on 11 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nAlongside the Diva media converters you carry, neutral-brand units at distributor price, EXW, from single pieces, 15-day validity, CE/RoHS: industrial Gigabit converter, 1 x RJ45 + 1 x SFP slot (fixed SC optional), -40 to 75 C - model STI-110GE - $26.5 USD; PoE version - STI-111GP - $27.8; 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based - STC-28DGGPM - $80.7. Racks and ONUs we do not carry. KC stays on your side.\n\nOne question: which converter configuration do your customers order most - SFP-slot or fixed SC, and at what monthly quantity?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+   "body": "Hi Michael,\n\nOver the past months you had a steady stream of product mails from us - most recently \"16 Port Industrial PoE Switch\" on 11 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nAlongside the Diva media converters you carry, neutral-brand units at distributor price, EXW, from single pieces, 15-day validity, CE/RoHS: industrial Gigabit converter, 1 x RJ45 + 1 x SFP slot (fixed SC optional), -40 to 75 C - model STI-110GE - $26.5 USD; PoE version - STI-111GP - $27.8; 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based - STC-28DGGPM - $80.7. Racks and ONUs we do not carry. KC stays on your side.\n\nOne question: which converter configuration do your customers order most - SFP-slot or fixed SC, and at what monthly quantity?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
  }

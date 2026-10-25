@@ -36,7 +36,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STC-28DGGPM — 在售 Ruijie RG-ES106F-P / Hik DS-3E1105P 等 4–5 口非管理 PoE（$20–35 价带）→ 对价 HRUI STC-204GP（$20.4）/ STC-028GP（$24.2）；管理位 STC-28DGGPM（$80.7 @20%）；换人再触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-22 $220（48 port managed switch）、2024-08-16 $65（10G media converter）；群发里他已看到的价（续）：2026-08-05 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-04-21 $300（48 Port PoE Managed Switch）、2025-09-15 $240（24 Port Fiber Switch）、2025-10-10 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Iain, next to the Ruijie ES106F-P and Hikvision DS-3E11xx PoE switches you stock, we supply a neutral-brand 8-port PoE+ L2+ switch (2 SFP) and a budget 4/8-port unmanaged PoE line from small lots with UKCA/CE — which price band do your installers buy most, unmanaged or managed? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 首封前知悉：Elsa 2025-02 已 1:1 发过「Mini Industrial PoE Switch」给 sales@cctv-global.co.uk（0 回），开头按 ㉝ 带一句「we wrote once in Feb 2025 about X, no reason you'd have replied」，别当完全陌生。 换收件人再发一封（第 75 批(x) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用）；STC-204GP/028GP/2216GPM/08GE 为 HRUI，不写 Marvell）
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 首封前知悉：Elsa 2025-02 已 1:1 发过「Mini Industrial PoE Switch」给 sales@cctv-global.co.uk（0 回），开头按 ㉝ 带一句「we wrote once in Feb 2025 about X, no reason you'd have replied」，别当完全陌生。 换收件人再发一封（第 75 批(x) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用）；STC-204GP/028GP/2216GPM/08GE 为 HRUI，不写 Marvell）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-25）
 
@@ -47,7 +47,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：在售 Ruijie RG-ES106F-P / Hik DS-3E1105P 等 4–5 口非管理 PoE（$20–35 价带）→ 对价 HRUI STC-204GP（$20.4）/ STC-028GP（$24.2）；管理位 STC-28DGGPM（$80.7 @20%）
 - **断点 / 为什么停在这里**：Hikvision 渠道分销：PoE 多随摄像机套装走，白牌交换机为补充
 - **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，换人再触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-22 $220（48 port managed switch）、2024-08-16 $65（10G media converter）；群发里他已看到的价（续）：2026-08-05 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-04-21 $300（48 Port PoE Managed Switch）、2025-09-15 $240（24 Port Fiber Switch）、2025-10-10 $280（10G Enterprise SFP Switch））——在售 Ruijie RG-ES106F-P / Hik DS-3E1105P 等 4–5 口非管理 PoE（$20–35 价带）→ 对价 HRUI STC-204GP（$20.4）/ STC-028GP（$24.2）；管理位 STC-28DGGPM（$80.7 @20%）
-- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　首封前知悉：Elsa 2025-02 已 1:1 发过「Mini Industrial PoE Switch」给 sales@cctv-global.co.uk（0 回），开头按 ㉝ 带一句「we wrote once in Feb 2025 about X, no reason you'd have replied」，别当完全陌生。 换收件人再发一封（第 75 批(x) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用）；STC-204GP/028GP/2216GPM/08GE 为 HRUI，不写 Marvell）
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　首封前知悉：Elsa 2025-02 已 1:1 发过「Mini Industrial PoE Switch」给 sales@cctv-global.co.uk（0 回），开头按 ㉝ 带一句「we wrote once in Feb 2025 about X, no reason you'd have replied」，别当完全陌生。 换收件人再发一封（第 75 批(x) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用）；STC-204GP/028GP/2216GPM/08GE 为 HRUI，不写 Marvell）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
   - 第一问（只问一个）：Iain, next to the Ruijie ES106F-P and Hikvision DS-3E11xx PoE switches you stock, we supply a neutral-brand 8-port PoE+ L2+ switch (2 SFP) and a budget 4/8-port unmanaged PoE line from small lots with UKCA/CE — which price band do your installers buy most, unmanaged or managed? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -55,6 +55,7 @@ updated: 2026-10-25
 | 2025-02-21 | 去 | Elsa 1:1 去信（To sales@cctv-global.co.uk） | Mini Industrial PoE Switch — MINI DIN unmanaged, 100/1000M auto-adaptive SFP, DIP, PoE optional, support OEM（稿内无价，第 74 批(p) 已读稿） | Elsa 箱 in:sent 按国别后缀探测（to:.de/.uk/.pl/.cz）命中：2025-02 Elsa 开箱头两周的逐户单发，无称呼；Elsa Replied 线程 0、来询未回清单 0 → 0 回；S/A digest 看不到这封 | `elsa_1to1` |
 | 2026-09-08 | 去 | A/S 群发 | Industrial PoE Switch、10G Enterprise SFP Switch | 25 封 / 0 次打开 / 0 回｜首封 2024-06-24 → 末封 2026-09-08（25 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 主要是CCTV类产品 卖Longse的 | 表内备注 | `用户表` |
+| 2026-09-08 | 去 | A 箱（Alan） | 16 Port Industrial PoE Switch | 本日去信真实主题（邮箱索引 faa112bc9cf21fd6；信稿开头句引用此封；此前稿内写的「Industrial PoE Switch」是线程列表首题，不是本封） | `faa112bc9cf21fd6` |
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -277,7 +278,7 @@ updated: 2026-10-25
 ```text
 Hi Iain,
 
-We wrote to you once in February 2025 about a mini industrial switch, and since then only general product mails - most recently "Industrial PoE Switch" on 8 September 2026 - none of which needed an answer. This one is specific.
+We wrote to you once in February 2025 about a mini industrial switch, and since then only general product mails - most recently "16 Port Industrial PoE Switch" on 8 September 2026 - none of which needed an answer. This one is specific.
 
 Next to the Ruijie RG-ES106F-P and Hikvision DS-3E11xx units you stock, two price bands at distributor price, EXW, MOQ 1, 15-day validity, CE/RoHS/UKCA: budget unmanaged - 4 x Gigabit PoE+ + 2 x Gigabit - model STC-204GP - $24.2 USD; 8 x PoE+ + 2 x Gigabit - STC-028GP - $25.1; managed - 8 x Gigabit PoE+ + 2 x SFP, L2+, Marvell-based - STC-28DGGPM - $80.7. Neutral brand.
 

@@ -36,7 +36,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 自有 AN-SXGM12P8S（8 PoE + 2 SFP + 2 GE 管理）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Amatek 标；AN-SXGM6P4 ↔ STI-144GP/STC-204GP 位；云管理 AN-SW10P8 = Saga 不做云。已打开的主题（1/46 封有打开记录）：「Optional Marvell Chipset Solutions」(2025-12-04) → 读者兴趣主题类别不明（看原主题）；换人再触锚价 STC-28DGGPM $87.4 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-01 $65（10G fiber media converter）、2024-07-26 $220（48 port managed switch）、2024-08-15 $220（48 port managed switch）、2024-09-10 $65（10G Media Converter）、2025-01-02 $240（24 Port Fiber Switch）、2025-01-16 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-08-19 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-24 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Aleksandr, for the AN-SXGM series PoE switches under the Amatek label, we build Marvell-based 8-PoE + 2 SFP L2+ and 4-PoE compact models to your spec from small lots (neutral packing) — which model in the range is due for a second source, the 8-port managed or the 4-port? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封（第 75 批(ag) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；明说无云管理；2 上联非 2+2；STC-204GP 为 HRUI）
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封（第 75 批(ag) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；明说无云管理；2 上联非 2+2；STC-204GP 为 HRUI）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -47,13 +47,14 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：自有 AN-SXGM12P8S（8 PoE + 2 SFP + 2 GE 管理）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Amatek 标；AN-SXGM6P4 ↔ STI-144GP/STC-204GP 位；云管理 AN-SW10P8 = Saga 不做云
 - **断点 / 为什么停在这里**：俄罗斯：结算/物流通道受限（需经第三国），非主攻区（T5）
 - **Saga 现在该推什么**：P1 **STC-28DGGPM**（30% 档，换人再触锚价 STC-28DGGPM $87.4 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-01 $65（10G fiber media converter）、2024-07-26 $220（48 port managed switch）、2024-08-15 $220（48 port managed switch）、2024-09-10 $65（10G Media Converter）、2025-01-02 $240（24 Port Fiber Switch）、2025-01-16 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-08-19 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-24 $280（10G Enterprise SFP Switch））——自有 AN-SXGM12P8S（8 PoE + 2 SFP + 2 GE 管理）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Amatek 标；AN-SXGM6P4 ↔ STI-144GP/STC-204GP 位；云管理 AN-SW10P8 = Saga 不做云。已打开的主题（1/46 封有打开记录）：「Optional Marvell Chipset Solutions」(2025-12-04) → 读者兴趣主题类别不明（看原主题）
-- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封（第 75 批(ag) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；明说无云管理；2 上联非 2+2；STC-204GP 为 HRUI）
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封（第 75 批(ag) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；明说无云管理；2 上联非 2+2；STC-204GP 为 HRUI）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
   - 第一问（只问一个）：Aleksandr, for the AN-SXGM series PoE switches under the Amatek label, we build Marvell-based 8-PoE + 2 SFP L2+ and 4-PoE compact models to your spec from small lots (neutral packing) — which model in the range is due for a second source, the 8-port managed or the 4-port? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-08-24 | 去 | A/S 群发 | 10G Enterprise SFP Switch、Industrial PoE Switch | 46 封 / 1 次打开 / 0 回｜首封 2024-06-24 → 末封 2026-08-24（46 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 工商业FS 自己的logo 有人在卖他们的；普通POE FS AHD IP cameras 工业FS；产品上是自己的logo | 表内备注 | `用户表` |
+| 2026-08-24 | 去 | A 箱（Alan） | 24 Port PoE Managed Switch | 本日去信真实主题（邮箱索引 83dd93e1d3ff6479；信稿开头句引用此封；此前稿内写的「10G Enterprise SFP Switch」是线程列表首题，不是本封） | `83dd93e1d3ff6479` |
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -321,7 +322,7 @@ updated: 2026-10-25
 ```text
 Hello Aleksandr,
 
-Over the past months you had a steady stream of product mails from us - most recently "10G Enterprise SFP Switch" on 24 August 2026 - and there was no reason to answer a mass mail. This one is specific.
+Over the past months you had a steady stream of product mails from us - most recently "24 Port PoE Managed Switch" on 24 August 2026 - and there was no reason to answer a mass mail. This one is specific.
 
 For the AN-SXGM series PoE switches under the Amatek label, built to your spec from small lots, neutral packing or yours, CE/RoHS: AN-SXGM12P8S position - 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based - model STC-28DGGPM - $87.4 USD EXW with your logo (MOQ 1, 15-day validity; two SFP uplinks, not 2 + 2 - said up front); AN-SXGM6P4 position - 4 x Gigabit PoE+ + 2 x Gigabit, unmanaged - STC-204GP - $26.2; industrial 4 x PoE+ + 1 x SFP - STI-144GP - $36.9. Cloud management (your AN-SW10P8) we do not have. EAC stays on your side.
 

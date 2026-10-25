@@ -36,7 +36,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424XGGM — 大口 FS → 24 GE + 4×10G L2+ STC-424XGGM（$138.0 @30%）、48 口 PoE STC-448XGGPM（$335）；bypass 款以 SmartByte LT-IS6312GP-4GX8GT-FBP（$202.1，注明）替代；换人再触锚价 STC-424XGGM $138 EXW（主表档位（PDF 上限 $143；SA-002 2026-07 实报 $130）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-24 $65（10G fiber media converter）、2024-12-23 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-08-25 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-05-12 $300（48 Port PoE Managed Switch）、2025-10-01 $280（10G Enterprise SFP Switch）、2026-06-15 $16000（32 Port 400GB DC Switch）（㉕ ②：STC-424XGGPM-280W / STC-448XGGPM 文本价改为群发现价 $180 / $335；第 75 批 2026-10-25）
 - **第一问（只问一个）**：For the high-port-count and bypass switch positions you source, we can supply Marvell-based 24-GE + 4×10G and 48-PoE + 4×10G L2+ switches plus an industrial 8-GE + 4-SFP model with hardware bypass, in your packaging from small lots, CE/RoHS; KC by your side — which configuration should I quote first? Reference: STC-424XGGM at $138 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封（第 75 批(ad) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用；KC stays on your side）；bypass 款无 Saga 型号，只描述不写型号（$202.1 = 30% 档））
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封（第 75 批(ad) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用；KC stays on your side）；bypass 款无 Saga 型号，只描述不写型号（$202.1 = 30% 档））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（第 76 批(b) 2026-10-25：audit_ab 硬错误修正：STC-448XGGPM 已见 $300 → $335 补汇率说明（㉟））
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -47,13 +47,14 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：大口 FS → 24 GE + 4×10G L2+ STC-424XGGM（$138.0 @30%）、48 口 PoE STC-448XGGPM（$335）；bypass 款以 SmartByte LT-IS6312GP-4GX8GT-FBP（$202.1，注明）替代
 - **断点 / 为什么停在这里**：业务范围待核（快照仅标题）；bypass 款不在 Saga 列表（以 SmartByte 替代，注明）；非主攻区（T5，韩国）；23 次无回复，仅 support@
 - **Saga 现在该推什么**：P1 **STC-424XGGM**（30% 档，换人再触锚价 STC-424XGGM $138 EXW（主表档位（PDF 上限 $143；SA-002 2026-07 实报 $130）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-24 $65（10G fiber media converter）、2024-12-23 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-08-25 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-05-12 $300（48 Port PoE Managed Switch）、2025-10-01 $280（10G Enterprise SFP Switch）、2026-06-15 $16000（32 Port 400GB DC Switch）（㉕ ②：STC-424XGGPM-280W / STC-448XGGPM 文本价改为群发现价 $180 / $335；第 75 批 2026-10-25））——大口 FS → 24 GE + 4×10G L2+ STC-424XGGM（$138.0 @30%）、48 口 PoE STC-448XGGPM（$335）；bypass 款以 SmartByte LT-IS6312GP-4GX8GT-FBP（$202.1，注明）替代
-- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封（第 75 批(ad) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用；KC stays on your side）；bypass 款无 Saga 型号，只描述不写型号（$202.1 = 30% 档））
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封（第 75 批(ad) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用；KC stays on your side）；bypass 款无 Saga 型号，只描述不写型号（$202.1 = 30% 档））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（第 76 批(b) 2026-10-25：audit_ab 硬错误修正：STC-448XGGPM 已见 $300 → $335 补汇率说明（㉟））
   - 第一问（只问一个）：For the high-port-count and bypass switch positions you source, we can supply Marvell-based 24-GE + 4×10G and 48-PoE + 4×10G L2+ switches plus an industrial 8-GE + 4-SFP model with hardware bypass, in your packaging from small lots, CE/RoHS; KC by your side — which configuration should I quote first? Reference: STC-424XGGM at $138 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-09-21 | 去 | A/S 群发 | Marvell Industrial Alert System、Industrial PoE Switch | 35 封 / 0 次打开 / 0 回｜首封 2024-06-24 → 末封 2026-09-21（35 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | bypass 大口FS | 表内备注 | `用户表` |
+| 2026-09-21 | 去 | A 箱（Alan） | 16 Port Industrial PoE Switch | 本日去信真实主题（邮箱索引 57561975a20da74e；信稿开头句引用此封；此前稿内写的「Marvell Industrial Alert System」是线程列表首题，不是本封） | `57561975a20da74e` |
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -268,9 +269,9 @@ updated: 2026-10-25
 ```text
 Hello Nemon team,
 
-Over the past months you had a steady stream of product mails from us - most recently "Marvell Industrial Alert System" on 21 September 2026 - and there was no reason to answer a mass mail. This one is specific.
+Over the past months you had a steady stream of product mails from us - most recently "16 Port Industrial PoE Switch" on 21 September 2026 - and there was no reason to answer a mass mail. This one is specific.
 
-For the high-port-count and bypass switch positions you source, in your packaging from small lots, CE/RoHS, EXW, 15-day validity: 24 x Gigabit + 4 x 10G SFP+, L2+ managed, Marvell-based - model STC-424XGGM - $138.0 USD; 48 x Gigabit PoE+ + 4 x 10G SFP+, L2+ managed - STC-448XGGPM - $335; industrial DIN-rail 8 x Gigabit PoE+ + 4 x SFP with hardware fibre bypass (link stays up when the unit loses power), L2+ managed, -40 to 75 C - $202.1. KC stays on your side.
+For the high-port-count and bypass switch positions you source, in your packaging from small lots, CE/RoHS, EXW, 15-day validity: 24 x Gigabit + 4 x 10G SFP+, L2+ managed, Marvell-based - model STC-424XGGM - $138.0 USD; 48 x Gigabit PoE+ + 4 x 10G SFP+, L2+ managed - STC-448XGGPM - $335 (the May 2025 mail said $300; the RMB/USD rate has moved from 7.2 to 6.7 since); industrial DIN-rail 8 x Gigabit PoE+ + 4 x SFP with hardware fibre bypass (link stays up when the unit loses power), L2+ managed, -40 to 75 C - $202.1. KC stays on your side.
 
 One question: which configuration should I quote in full first - the bypass unit or the 48-port?
 

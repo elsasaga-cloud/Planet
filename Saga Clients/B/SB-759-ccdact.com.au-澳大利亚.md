@@ -36,7 +36,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-110GE — 自有标 MC → 工业千兆 MC STI-110GE（$24.3 @30%）/ PoE MC STI-111GP（$30.1）；桌面商用 MC Saga 列表无（HRUI/SmartByte 注明）；CCD-POE-4100 位 HRUI STC-204GP（列表价）；SFP 不供（Q-32）。已打开的主题（4/31 封有打开记录）：「48 Port PoE Managed Switch」(2024-11-29)、「8 Port Industrial PoE Switch」(2025-01-22)、「Commercial Network Switch」(2025-08-05)、「Optional Marvell Chipset Solutions」(2025-12-10) → 读者兴趣偏「其他」；当前 P1 属「10G 汇聚/L3」，下一封按「其他」给，不按 P1｜已发资料（勿重发）：Product Link_2026Q2(2026-02-17)、Saga Feature List_7.5.x_L2+(2026-07-07)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）；首触锚价 STI-110GE $26.5 EXW（最近实报 SA-001 2025-11-27 $26.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-18 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-11-29 $300（48 Port PoE Managed Switch）、2025-09-24 $280（10G Enterprise SFP Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-02-25 $65（10G Media Converter = 10G 媒体转换器，Elsa 箱 1 轮 2025-02-25；Simon 实报就是 $65）
 - **第一问（只问一个）**：Marcus, for the CCD media-converter and PoE switch lines, we can be a second source for gigabit and PoE media converters and 4/8-port PoE switches under your label from small lots, CE/RoHS — which CCD model do you reorder most often? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：2026-11 A 邮箱 → mk@ccdact.com 首封前知悉：Elsa 仅 2025-02-25 单发过 1 封「10G Media Converter」，之后没再碰他（第 74 批(m)）；短信一问（email_hook）
+- **下一步**：2026-11 A 邮箱 → mk@ccdact.com 首封前知悉：Elsa 仅 2025-02-25 单发过 1 封「10G Media Converter」，之后没再碰他（第 74 批(m)）；短信一问（email_hook）（第 76 批(c) 2026-10-25：audit_ab 软项修正：证书口径 CE/RoHS → CE/RoHS (RCM stays on your side)）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -47,7 +47,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：自有标 MC → 工业千兆 MC STI-110GE（$24.3 @30%）/ PoE MC STI-111GP（$30.1）；桌面商用 MC Saga 列表无（HRUI/SmartByte 注明）；CCD-POE-4100 位 HRUI STC-204GP（列表价）；SFP 不供（Q-32）
 - **断点 / 为什么停在这里**：SFP 为其主品类之一，Saga 不供（Q-32）；商用桌面 MC 需以 SmartByte/HRUI 型号注明报价
 - **Saga 现在该推什么**：P1 **STI-110GE**（30% 档，首触锚价 STI-110GE $26.5 EXW（最近实报 SA-001 2025-11-27 $26.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-18 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-11-29 $300（48 Port PoE Managed Switch）、2025-09-24 $280（10G Enterprise SFP Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-02-25 $65（10G Media Converter = 10G 媒体转换器，Elsa 箱 1 轮 2025-02-25；Simon 实报就是 $65））——自有标 MC → 工业千兆 MC STI-110GE（$24.3 @30%）/ PoE MC STI-111GP（$30.1）；桌面商用 MC Saga 列表无（HRUI/SmartByte 注明）；CCD-POE-4100 位 HRUI STC-204GP（列表价）；SFP 不供（Q-32）。已打开的主题（4/31 封有打开记录）：「48 Port PoE Managed Switch」(2024-11-29)、「8 Port Industrial PoE Switch」(2025-01-22)、「Commercial Network Switch」(2025-08-05)、「Optional Marvell Chipset Solutions」(2025-12-10) → 读者兴趣偏「其他」；当前 P1 属「10G 汇聚/L3」，下一封按「其他」给，不按 P1｜已发资料（勿重发）：Product Link_2026Q2(2026-02-17)、Saga Feature List_7.5.x_L2+(2026-07-07)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）
-- **下一步（具体）**：2026-11　A 邮箱 → mk@ccdact.com　首封前知悉：Elsa 仅 2025-02-25 单发过 1 封「10G Media Converter」，之后没再碰他（第 74 批(m)）；短信一问（email_hook）
+- **下一步（具体）**：2026-11　A 邮箱 → mk@ccdact.com　首封前知悉：Elsa 仅 2025-02-25 单发过 1 封「10G Media Converter」，之后没再碰他（第 74 批(m)）；短信一问（email_hook）（第 76 批(c) 2026-10-25：audit_ab 软项修正：证书口径 CE/RoHS → CE/RoHS (RCM stays on your side)）
   - 第一问（只问一个）：Marcus, for the CCD media-converter and PoE switch lines, we can be a second source for gigabit and PoE media converters and 4/8-port PoE switches under your label from small lots, CE/RoHS — which CCD model do you reorder most often? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -294,7 +294,7 @@ Hi Marcus,
 
 We have sent you a few mails on "Industrial PoE Switch" and you never had a reason to answer — fair enough. No brochure this time, just one question:
 
-For the CCD media-converter and PoE switch lines, we can be a second source for gigabit and PoE media converters and 4/8-port PoE switches under your label from small lots, CE/RoHS — which CCD model do you reorder most often?
+For the CCD media-converter and PoE switch lines, we can be a second source for gigabit and PoE media converters and 4/8-port PoE switches under your label from small lots, CE/RoHS (RCM stays on your side) — which CCD model do you reorder most often?
 
 Reference price: DIN-rail 1-GE + 1-SFP industrial switch / media converter (STI-110GE) $26.5 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.
 

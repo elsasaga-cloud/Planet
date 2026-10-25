@@ -92,16 +92,16 @@
   "breakpoint": "2024-06-20「没有正好的」之后没人再问他有没有新项目。",
   "saga_now": {
    "p1": "STC-4168XGGCM（L3）$413；STI-4168XGGCM-U $511.5 / (L3) $605；STI-288DGGPM $137.5",
-   "tier": "经销 25%",
+   "tier": 25,
    "price": "2024-06-20 报过 $550 / $120（老汇率 7.2）——再报前对表：同款 2026-10 表 $511.5（L2+）或 $605（L3）、$137.5；**第 63 批基准统一（规则 ㉕）**：STC-4168XGGCM 由列表价 $413 改为 25% 档 $392.4；他没收过 $240/$280 群发；工业 -U 两档 $511.5 / $605 = 列表价 ≤ 档位价，封顶保留",
-   "why": "已发资料（勿重发）：CLI 手册(2024-05-07)、STI-480XGGM 资料(2024-05-07)、Realtek 6×10G+24×2.5G 规格书(2024-06-20)；对俄付款在回信后谈",
+   "why": "已发资料（勿重发）：CLI 手册(2024-05-07)、STI-480XGGM 资料(2024-05-07)、Realtek 6×10G+24×2.5G 规格书(2024-06-20)；对俄付款在回信后谈｜档位说明（原 tier 字段文字「经销 25%」移此）：经销 25%",
    "repeat": "项目制",
    "gaps": "是否还在做项目；付款路径；L2 DIN 2×SFP + 8×PoE 240W 项目的 Realtek 工业线对位：STI-288GPM-2BT（2025-04 表 $110，vs Marvell STI-288DGGPM $137.5）——只在他再来问价时给，不主动（docs/reference/价格表_Realtek工业线_Saga对外_2025.md）"
   },
   "next_move": {
    "when": "2026-12",
    "channel": "S 邮箱 → ddmitry@raisecom.su（回 2024-06-20 原线程「L2 managed switch」）",
-   "action": "一句话：2024 年答「没有」的 L3 商用 8–12 SFP+ + 12–24 GE 现在有（STC-4168XGGCM，4×10G SFP+ + 16×SFP + 8 Combo，L3，$413 EXW）；问有没有新项目",
+   "action": "一句话：2024 年答「没有」的 L3 商用 8–12 SFP+ + 12–24 GE 现在有（STC-4168XGGCM，4×10G SFP+ + 16×SFP + 8 Combo，L3，$413 EXW）；问有没有新项目（第 76 批(b) 2026-10-25：audit_ab 硬错误修正：tier 字段规范为数字）",
    "one_question": "Dmitry — in June 2024 I had nothing for your \"L3 commercial, 8-12 SFP+ and 12-24 GE\" request; today we do: 4 x 10G SFP+ + 16 x 1G SFP + 8 x combo, L3, $413 USD EXW. Do you have a project this winter where it fits?"
   },
   "facts": [

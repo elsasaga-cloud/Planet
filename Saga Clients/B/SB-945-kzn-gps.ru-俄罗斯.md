@@ -36,7 +36,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 网店 PoE 交换机品类（MikroTik/Ubiquiti 价带）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；SFP 模块位 Saga 无价目（Q-32）；换人再触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-07 $300（48 Port PoE Managed Switch）、2024-12-23 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-09-04 $65（10G Media Converter）、2025-10-01 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Alexander, for the PoE switch category next to MikroTik and Ubiquiti, we supply Marvell-based 8-PoE + 2 SFP L2+ and 24-PoE models in neutral packing from small lots — which port count sells more in Kazan, 8 or 24? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封（第 75 批(ag) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；EAC stays on your side）
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封（第 75 批(ag) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；EAC stays on your side）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -47,13 +47,14 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：网店 PoE 交换机品类（MikroTik/Ubiquiti 价带）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；SFP 模块位 Saga 无价目（Q-32）
 - **断点 / 为什么停在这里**：俄罗斯：结算/物流经第三国，非主攻区（T5）
 - **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，换人再触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-07 $300（48 Port PoE Managed Switch）、2024-12-23 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-09-04 $65（10G Media Converter）、2025-10-01 $280（10G Enterprise SFP Switch））——网店 PoE 交换机品类（MikroTik/Ubiquiti 价带）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；SFP 模块位 Saga 无价目（Q-32）
-- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封（第 75 批(ag) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；EAC stays on your side）
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封（第 75 批(ag) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；EAC stays on your side）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
   - 第一问（只问一个）：Alexander, for the PoE switch category next to MikroTik and Ubiquiti, we supply Marvell-based 8-PoE + 2 SFP L2+ and 24-PoE models in neutral packing from small lots — which port count sells more in Kazan, 8 or 24? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-08-14 | 去 | A/S 群发 | Industrial PoE Switch、10G Enterprise SFP Switch | 21 封 / 0 次打开 / 0 回｜首封 2024-09-04 → 末封 2026-08-14（21 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | Switch等啥都卖；7-9173910585 WA | 表内备注 | `用户表` |
+| 2026-08-14 | 去 | A 箱（Alan） | 24 Port PoE Managed Switch | 本日去信真实主题（邮箱索引 b5e6e6adebacbd2a；信稿开头句引用此封；此前稿内写的「Industrial PoE Switch」是线程列表首题，不是本封） | `b5e6e6adebacbd2a` |
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -274,7 +275,7 @@ updated: 2026-10-25
 ```text
 Hi Alexander,
 
-Over the past months you had a few product mails from us - most recently "Industrial PoE Switch" on 14 August 2026 - and there was no reason to answer a mass mail. This one is specific.
+Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 14 August 2026 - and there was no reason to answer a mass mail. This one is specific.
 
 For the PoE switch category next to MikroTik and Ubiquiti, neutral-brand units at distributor price, EXW, MOQ 1, 15-day validity, CE/RoHS: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based - model STC-28DGGPM - $80.7 USD; 24 x Gigabit PoE+ (280 W) + 4 x SFP, L2+ managed - STC-424DGGPM-280W - $134.5. SFP modules and PoE power supplies we do not carry; EAC stays on your side. You have my WhatsApp as well if that is quicker.
 

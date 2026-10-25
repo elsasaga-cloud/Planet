@@ -77,16 +77,16 @@
     "breakpoint": "拿到价表后沉默；我们没问他的目标价和年量。",
     "saga_now": {
       "p1": "STC-28DGGPM $99 / STC-424DGGPM-280W $165 / 工业非管理 STI-154GP 级",
-      "tier": "经销 20%",
+      "tier": 20,
       "price": "2024 报价单（老汇率 7.2，仓内未解析逐项）；再报按 2026-10 表；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-07 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-07；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
-      "why": "已发资料（勿重发）：报价单 + 规格书(2024-06-25)、工业非管理价表(2024-11-20)",
+      "why": "已发资料（勿重发）：报价单 + 规格书(2024-06-25)、工业非管理价表(2024-11-20)｜档位说明（原 tier 字段文字「经销 20%」移此）：经销 20%",
       "repeat": "经销：若价格进得去是持续量",
       "gaps": "目标价；年量；进口方式"
     },
     "next_move": {
       "when": "2027-Q1",
       "channel": "S 邮箱 → transivideo@gmail.com",
-      "action": "首封前知悉：Elsa 2026-08-07 单发过「24 Port PoE Managed Switch」（未见回复（Elsa 箱 Replied 标签无））；一句话问 8+2/16+2/24+2 的年量与目标价（他两次要价都没说量）",
+      "action": "首封前知悉：Elsa 2026-08-07 单发过「24 Port PoE Managed Switch」（未见回复（Elsa 箱 Replied 标签无））；一句话问 8+2/16+2/24+2 的年量与目标价（他两次要价都没说量）（第 76 批(b) 2026-10-25：audit_ab 硬错误修正：tier 字段规范为数字）",
       "one_question": "Fabian — for the 8+2 / 16+2 / 24+2 PoE models you priced twice in 2024: what yearly volume and landed target price would make it work in Brazil? I will tell you honestly whether we can meet it."
     },
     "facts": [

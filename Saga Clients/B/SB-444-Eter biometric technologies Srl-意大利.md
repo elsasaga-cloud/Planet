@@ -36,7 +36,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — 已打开的主题（3/12 封有打开记录）：「Managed Optical Bypass Switch」(2025-05-29)、「48 Port PoE Managed Switch」(2025-07-08)、「WiFi 7 Ready Access Switch」(2026-08-05) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-03-04)、Saga Feature List_7.5.x_L2+(2026-07-01)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）；—；群发里他已看到的价（续，第 66 批全量复核）：2025-07-08 $300（48 Port PoE Managed Switch）、2025-10-16 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Do your biometric readers get PoE from the installer, or do you supply the switch as well?
 - **最大未知**：年走量与现供应商
-- **下一步**：2026-11 A 邮箱 → a.giacobazzi@eter.it（Andrea Giacobazzi；commerciale@ 是自动转办箱，按其自动回复指引直发 Andrea） 按其指引改发
+- **下一步**：2026-11 A 邮箱 → commerciale@eter.it（info@ 与 Andrea 的自动回复都指明「报价找 commerciale@」）；cc a.giacobazzi@eter.it 按其指引改发（第 76 批(c) 2026-10-25：audit_ab 软项修正：署名「Alan Yan」→「Alan」（A 箱实际署名））（第 76 批(c) 2026-10-25：0 事实户补时间线事实）（第 76 批(c) 2026-10-25：意大利语整稿改英文；channel 按两种自动回复原文改为 commerciale@ + cc Andrea，此前写「直发 Andrea」与自动回复不符）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -47,8 +47,17 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：—
 - **断点 / 为什么停在这里**：—
 - **Saga 现在该推什么**：P1 **—**（25% 档，—；群发里他已看到的价（续，第 66 批全量复核）：2025-07-08 $300（48 Port PoE Managed Switch）、2025-10-16 $280（10G Enterprise SFP Switch））——已打开的主题（3/12 封有打开记录）：「Managed Optical Bypass Switch」(2025-05-29)、「48 Port PoE Managed Switch」(2025-07-08)、「WiFi 7 Ready Access Switch」(2026-08-05) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-03-04)、Saga Feature List_7.5.x_L2+(2026-07-01)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）
-- **下一步（具体）**：2026-11　A 邮箱 → a.giacobazzi@eter.it（Andrea Giacobazzi；commerciale@ 是自动转办箱，按其自动回复指引直发 Andrea）　按其指引改发
+- **下一步（具体）**：2026-11　A 邮箱 → commerciale@eter.it（info@ 与 Andrea 的自动回复都指明「报价找 commerciale@」）；cc a.giacobazzi@eter.it　按其指引改发（第 76 批(c) 2026-10-25：audit_ab 软项修正：署名「Alan Yan」→「Alan」（A 箱实际署名））（第 76 批(c) 2026-10-25：0 事实户补时间线事实）（第 76 批(c) 2026-10-25：意大利语整稿改英文；channel 按两种自动回复原文改为 commerciale@ + cc Andrea，此前写「直发 Andrea」与自动回复不符）
   - 第一问（只问一个）：Do your biometric readers get PoE from the installer, or do you supply the switch as well?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2025-05-29 | 去 | A 箱（Alan） | Managed Optical Bypass Switch | 首封去信（邮箱索引；去信共 12 封） | `e77630d1f868a2a0` |
+| 2026-09-17 | 去 | A 箱（Alan） | 16 Port Industrial PoE Switch | 最近一封去信（邮箱索引；去信共 12 封） | `772b1404753baa56` |
+| 2025-05-29 | 来 | info@eter.it | Re: Managed Optical Bypass Switch｜Grazie per averci contattato!  Vi preghiamo di inoltrare la vostra richiesta all'ufficio competente: Per preventivi: com | 自动回复/退信（机器，不算人工回复） | `77015acab5634ba1` |
+| 2025-05-29 | 来 | a.giacobazzi@eter.it | Re: Managed Optical Bypass Switch｜Sarò fuori sede fino al 29/05/2025 compreso, con accesso limitato all’email. Per urgenze tecniche scrivere a ufficiotecn | 自动回复/退信（机器，不算人工回复） | `8575db49dcf3f1a4` |
+| 2025-07-08 | 来 | info@eter.it | Re: 48 Port PoE Managed Switch｜Grazie per averci contattato!  Vi preghiamo di inoltrare la vostra richiesta all'ufficio competente: Per preventivi: com | 自动回复/退信（机器，不算人工回复） | `53d5e6cb48a878b5` |
+| 2026-08-05 | 来 | a.giacobazzi@eter.it | Re: WiFi 7 Ready Access Switch｜Sarò fuori sede fino al 3/7/2026 compreso, con accesso limitato all’email. Per urgenze tecniche scrivere a ufficiotecnic | 自动回复/退信（机器，不算人工回复） | `434dcaf226e2aa4b` |
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -261,19 +270,20 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：Switch industriali per sistemi biometrici — breve presentazione
+**主题**：Industrial switches for access-control and biometric sites - one question
 
 ```text
-Buongiorno,
+Hello Eter team,
 
-scrivo a commerciale@ come indicato dalla vostra risposta automatica.
+Your auto-replies route quotation requests to commerciale@, so this comes here rather than to the general mailbox; copy to Andrea, who went through the bypass wiring diagram with us.
 
-Saga Telecom produce switch industriali gestiti su chip Marvell (8× GbE PoE + 2× SFP, -40~75°C, DIN) per installazioni di controllo accessi e biometria; etichetta neutra o vostra. Listino: USD 137.5 EXW (snapshot 2026-10-17, valido 15 giorni).
+Saga Telecom supplies industrial managed switches on the Marvell platform - 8 x Gigabit PoE+ + 2 x SFP, DIN-rail, -40 to 75 C, L2+ - for access-control and biometric reader networks, neutral label or yours, from single units. Reference price: model STI-288DGGPM - $137.5 USD EXW (MOQ 1, 15-day validity), CE/RoHS. The hardware-bypass version Andrea asked about is quoted separately against the site plan.
 
-Una sola domanda: i vostri lettori biometrici vengono alimentati in PoE dall'installatore, o fornite voi anche lo switch?
+One question: do your biometric readers get PoE from the installer, or do you supply the switch as well?
 
-Alan Yan
-Saga Telecom
+Best regards,
+Alan
+Saga Telecom - sagatele.com
 ```
 
 > 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。

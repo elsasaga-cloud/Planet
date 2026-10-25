@@ -35,10 +35,10 @@ updated: 2026-10-25
 - **是谁**：美国佛州杰克逊维尔的 CCTV 批发分销商/品牌商（1999 年成立，11–50 人，营收约 $5.3M），25,000 平方英尺仓库 600+ SKU，面向安装商/经销商/集成商直至财富 500 强客户，产品自行测试并定制（自有品牌），类目含 NDAA 合规摄像机、NVR/DVR、Networking/PoE、太阳能监控。用户表：S 重点，兴趣 VC/HDMI/FS/商业 PoE/光模块，1 次实质回复，邮件中有详细联系信息。（调研 2026-10-21；表内兴趣：VC HDMI FS 商业POE 光模块）
 - **为什么是 A 级**：+22 实质回复 1 次；+25 在 Simon 的 S 重点名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；+5 跟进表最近平台标记 S
 - **历史互动**：实质回复 1 次；推送 21 次（2024-05-02 → 2025-12-29）；最近一次客户回复：2024-10-30：4 8口price ds
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-154GP（4 口）/ STI-288DGGPM 或非管理 8 口（按价格主表） — J2：补一封三件套。已打开的主题（2/24 封有打开记录）：「Re: Industrial PoE Switch」(2024-10-30)、「24 Port 10G SFP+ Switch」(2026-07-20) → 读者兴趣偏「工业」；与 P1 同类，继续｜已发资料（勿重发）：STI-244GP(2024-10-30)、STI-154GP(2024-10-30)、STI-288GP(2024-10-30)、Saga Software Function List-release 7.(2025-03-28)、Product Link_2026Q2(2026-03-02)；已发单据：Quotation(2024-10-30)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）；按 30% 自有标档；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-06-25 $220（48 port managed switch）、2024-11-15 $300（Re: Industrial PoE Switch）、2025-08-27 $240（24 Port Fiber Switch）、2025-10-29 $280（10G Enterprise SFP Switch）、2026-09-08 $170（24 Port PoE Managed Switch）；**第 63 批基准统一（规则 ㉕）**：STI-154GP 列表价 $51.7 → 老表 $47（非管理工业线）；STI-288DGGPM $137.5 封顶保留；他 2026-09-08 收过 24 口 $170 群发——若谈到 STC-424XGGPM-280W 写 $180 并点明；群发里他已看到的价（续，第 66 批全量复核）：2026-07-20 $1500（24 Port 10G SFP+ Switch）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-154GP（4 口）/ STI-288DGGPM 或非管理 8 口（按价格主表） — J2：补一封三件套。已打开的主题（2/24 封有打开记录）：「Re: Industrial PoE Switch」(2024-10-30)、「24 Port 10G SFP+ Switch」(2026-07-20) → 读者兴趣偏「工业」；与 P1 同类，继续｜已发资料（勿重发）：STI-244GP(2024-10-30)、STI-154GP(2024-10-30)、STI-288GP(2024-10-30)、Saga Software Function List-release 7.(2025-03-28)、Product Link_2026Q2(2026-03-02)；已发单据：Quotation(2024-10-30)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）；按 30% 自有标档；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-06-25 $220（48 port managed switch）、2024-11-15 $300（Re: Industrial PoE Switch）、2025-08-27 $240（24 Port Fiber Switch）、2025-10-29 $280（10G Enterprise SFP Switch）、2026-09-08 $170（24 Port PoE Managed Switch）；**第 63 批基准统一（规则 ㉕）**：STI-154GP 列表价 $51.7 → 老表 $47（非管理工业线）；STI-288DGGPM $137.5 封顶保留；他 2026-09-08 收过 24 口 $170 群发——若谈到 STC-424XGGPM-280W 写 $180 并点明；群发里他已看到的价（续，第 66 批全量复核）：2026-07-20 $1500（24 Port 10G SFP+ Switch）；STI-154GP 文本价 $47（来源不明，任何价表无此数）→ $40.8（30% 档，主表；列表价 51.7）
 - **第一问（只问一个）**：For your private-label PoE line, is the 4-port or the 8-port DIN unit the volume SKU, and what landed cost do you need to switch source?
 - **最大未知**：官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
-- **下一步**：2026-11 S 邮箱 → purchasing@optiviewusa.com（silvia.flores@ 2026-07-20 已「Address not found」，先问接替的采购是谁） 先一句话问 purchasing@ 现在谁接 Silvia 的工作；再给三件套一页：4 口 / 8 口价格、交期、FCC
+- **下一步**：2026-11 S 邮箱 → purchasing@optiviewusa.com（silvia.flores@ 2026-07-20 已「Address not found」，先问接替的采购是谁） 先一句话问 purchasing@ 现在谁接 Silvia 的工作；再给三件套一页：4 口 / 8 口价格、交期、FCC（第 76 批(b) 2026-10-25：audit_ab 硬错误修正：STI-154GP $47 → $40.8）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -48,9 +48,9 @@ updated: 2026-10-25
 - **现状一句话**：Optiview 采购 Silvia 2024-10-29 两封：要 4 口/8 口工业 PoE 的规格书、要两款价格。Simon 次日一封「see attached information」（价格是否在附件内不可考）。此后无回。
 - **对方真实需求（有据）**：4/8 口工业 PoE（CCTV 批发 SKU）。
 - **断点 / 为什么停在这里**：采购员要的是「规格 + 价格 + 交期」三件套，回复只给了附件；无跟进问题。
-- **Saga 现在该推什么**：P1 **STI-154GP（4 口）/ STI-288DGGPM 或非管理 8 口（按价格主表）**（30% 档，按 30% 自有标档；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-06-25 $220（48 port managed switch）、2024-11-15 $300（Re: Industrial PoE Switch）、2025-08-27 $240（24 Port Fiber Switch）、2025-10-29 $280（10G Enterprise SFP Switch）、2026-09-08 $170（24 Port PoE Managed Switch）；**第 63 批基准统一（规则 ㉕）**：STI-154GP 列表价 $51.7 → 老表 $47（非管理工业线）；STI-288DGGPM $137.5 封顶保留；他 2026-09-08 收过 24 口 $170 群发——若谈到 STC-424XGGPM-280W 写 $180 并点明；群发里他已看到的价（续，第 66 批全量复核）：2026-07-20 $1500（24 Port 10G SFP+ Switch））——J2：补一封三件套。已打开的主题（2/24 封有打开记录）：「Re: Industrial PoE Switch」(2024-10-30)、「24 Port 10G SFP+ Switch」(2026-07-20) → 读者兴趣偏「工业」；与 P1 同类，继续｜已发资料（勿重发）：STI-244GP(2024-10-30)、STI-154GP(2024-10-30)、STI-288GP(2024-10-30)、Saga Software Function List-release 7.(2025-03-28)、Product Link_2026Q2(2026-03-02)；已发单据：Quotation(2024-10-30)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）
+- **Saga 现在该推什么**：P1 **STI-154GP（4 口）/ STI-288DGGPM 或非管理 8 口（按价格主表）**（30% 档，按 30% 自有标档；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-06-25 $220（48 port managed switch）、2024-11-15 $300（Re: Industrial PoE Switch）、2025-08-27 $240（24 Port Fiber Switch）、2025-10-29 $280（10G Enterprise SFP Switch）、2026-09-08 $170（24 Port PoE Managed Switch）；**第 63 批基准统一（规则 ㉕）**：STI-154GP 列表价 $51.7 → 老表 $47（非管理工业线）；STI-288DGGPM $137.5 封顶保留；他 2026-09-08 收过 24 口 $170 群发——若谈到 STC-424XGGPM-280W 写 $180 并点明；群发里他已看到的价（续，第 66 批全量复核）：2026-07-20 $1500（24 Port 10G SFP+ Switch）；STI-154GP 文本价 $47（来源不明，任何价表无此数）→ $40.8（30% 档，主表；列表价 51.7））——J2：补一封三件套。已打开的主题（2/24 封有打开记录）：「Re: Industrial PoE Switch」(2024-10-30)、「24 Port 10G SFP+ Switch」(2026-07-20) → 读者兴趣偏「工业」；与 P1 同类，继续｜已发资料（勿重发）：STI-244GP(2024-10-30)、STI-154GP(2024-10-30)、STI-288GP(2024-10-30)、Saga Software Function List-release 7.(2025-03-28)、Product Link_2026Q2(2026-03-02)；已发单据：Quotation(2024-10-30)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）
   - 做不了 / 要先核的：2024-10-30 附件是否含价格
-- **下一步（具体）**：2026-11　S 邮箱 → purchasing@optiviewusa.com（silvia.flores@ 2026-07-20 已「Address not found」，先问接替的采购是谁）　先一句话问 purchasing@ 现在谁接 Silvia 的工作；再给三件套一页：4 口 / 8 口价格、交期、FCC
+- **下一步（具体）**：2026-11　S 邮箱 → purchasing@optiviewusa.com（silvia.flores@ 2026-07-20 已「Address not found」，先问接替的采购是谁）　先一句话问 purchasing@ 现在谁接 Silvia 的工作；再给三件套一页：4 口 / 8 口价格、交期、FCC（第 76 批(b) 2026-10-25：audit_ab 硬错误修正：STI-154GP $47 → $40.8）
   - 第一问（只问一个）：For your private-label PoE line, is the 4-port or the 8-port DIN unit the volume SKU, and what landed cost do you need to switch source?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -297,7 +297,7 @@ Hi, Silvia,
 
 In October 2024 you asked for data sheets and prices for the 4-port and 8-port industrial PoE units and we sent the attachments without the three things a buyer actually needs in the body. Here they are:
 
-- STI-154GP: 4x GbE PoE + 1x SFP + 1x GbE uplink, 120 W, DIN, -40 to +75 C — $47 USD EXW
+- STI-154GP: 4x GbE PoE + 1x SFP + 1x GbE uplink, 120 W, DIN, -40 to +75 C — $40.8 USD EXW
 - STI-288DGGPM: 8x GbE PoE + 2x SFP, L2+ managed, DIN, -40 to +75 C — $137.5 USD EXW
 (2026-10 price table, valid 15 days from this mail)
 - Lead time: 4-7 working days ex-works; private label (Optiview logo, model name, GUI) from 50 pcs.

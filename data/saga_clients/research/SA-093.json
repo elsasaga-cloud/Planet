@@ -143,7 +143,7 @@
   "need": "24×10G + 100G 上联、DC 供电、MPLS（与 H3C 互通）的汇聚/核心机；小尺寸 8 SFP+ 接入机。",
   "breakpoint": "ISP 采购按项目窗口走，一次报价后窗口关了；再追规格无意义，只问项目。",
   "saga_now": {
-   "p1": "STH-2C24XFHSI（CENTEC 24×10G + 2×100G，DC，MA 许可）1,250 USD（2026-06-08 报价）",
+   "p1": "STH-2C24XF-HSI（CENTEC 24×10G + 2×100G，DC，MA 许可）1,250 USD（2026-06-08 报价）",
    "tier": 25,
    "price": "1,250 USD EXW 不含光模块（2026-06 报价；复核 CENTEC ≥35% 底线）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-20 $300（48 Port PoE Managed Switch）、2025-01-01 $240（24 Port Fiber Switch）；**进价对照（Drive 价格比对 2026-03-01：STH-2C24XF-HSI = HohuNet S5624XH-2Z-EI 7,300 RMB）：$1,250 → 毛利 @7 16.6% / @6.69 12.7%，低于 Marvell 25% 线更低于 CENTEC 35% 线；同款 2026-07-20 群发 $1,500（27–30%）、35% 地板 $1,680 @6.69 → 再报 FiberX 不低于 $1,500 并说明是含 MA 的现行表价（见 CENTEC 锚表 §5.2）**；群发里他已看到的价（续）：2026-07-23 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-07-22 $65（10g fiber media converter）、2025-10-08 $280（10G Enterprise SFP Switch）",
    "why": "J5：只问项目窗口，不再发无关 PoE 群发（他收的 4 封都是 PoE）。已打开的主题（5/36 封有打开记录）：「Re: 24 Port Fiber Switch」(2025-01-03)、「10G L3 Managed Switch」(2026-06-05)、「Re: 10G L3 Managed Switch」(2026-06-06)、「Re: 10G L3 Managed Switch」(2026-06-08) → 读者兴趣偏「10G 汇聚/L3」；当前 P1 属「DC 核心/CENTEC」，下一封按「10G 汇聚/L3」给，不按 P1 最近一封去信是 2026-09-25 A 邮箱 AC5 管理 PoE 模板（在本档最后一条事实之后）——下一封必须回到真人线程、不再叠模板｜已发资料（勿重发）：STI-4168XGGCM-U(2025-01-03)、Saga Software Function List-release 7.(2025-03-20)、Product Link_2026Q2(2026-02-26)、Saga Software Function List_EN_V2.4(2026-06-06)、Performance of VastLakes Platform_EN_3(2026-06-06)、XLite Series(2026-06-06)、Saga Feature List_7.5.x_L2+(2026-06-29)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）",
@@ -156,7 +156,7 @@
   "next_move": {
    "when": "2026-11（一次）",
    "channel": "A 邮箱 → irivera@fiberx.net + emorillo@fiberx.net",
-   "action": "一句话问 6 月报价是否进了项目、测试窗口是否还在",
+   "action": "一句话问 6 月报价是否进了项目、测试窗口是否还在（第 76 批(c) 2026-10-25：audit_ab 软项修正：型号笔误 STH-2C24XFHSI → STH-2C24XF-HSI）",
    "one_question": "Did the 1,250-USD DC + MA-license quote reach the H3C MPLS project, and is a test slot still open this year?"
   },
   "facts": [

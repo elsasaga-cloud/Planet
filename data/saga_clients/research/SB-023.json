@@ -149,10 +149,35 @@
   "next_move": {
    "when": "不动",
    "channel": "—",
-   "action": "—",
+   "action": "—（第 76 批(c) 2026-10-25：0 事实户补时间线事实）",
    "one_question": ""
   },
-  "facts": [],
+  "facts": [
+   {
+    "date": "2025-04-14",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "8 Port Industrial PoE Switch",
+    "why": "首封去信（邮箱索引；去信共 15 封）",
+    "k": "273894cb960a6383"
+   },
+   {
+    "date": "2026-09-23",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "Managed PoE Switches",
+    "why": "最近一封去信（邮箱索引；去信共 15 封）",
+    "k": "77209253d2cccd6c"
+   },
+   {
+    "date": "2025-05-12",
+    "dir": "来",
+    "who": "ludwig.bergschneider@abetechs.com",
+    "quote": "Out of Office｜Hi,  Thank you for your message. I am currently out of the office and will return on May 15th. If you need immediate ass",
+    "why": "自动回复/退信（机器，不算人工回复）",
+    "k": "244ba9abd5d05d58"
+   }
+  ],
   "proof_gaps": [
    "用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
   ],

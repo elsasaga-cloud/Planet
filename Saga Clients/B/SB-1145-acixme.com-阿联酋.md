@@ -37,7 +37,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 门禁/CCTV 配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424DGGPM-280W（$140.1）；户外柜工业 8 PoE STI-288GP（$59.8）作 Utepo 二供。已打开的主题（1/24 封有打开记录）：「48 Port PoE Managed Switch」(2024-12-27) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续；换人再触锚价 STC-28DGGPM $84.1 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-10 $65（10G fiber media converter）、2024-08-21 $65（10G media converter）、2024-11-14 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-21 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-24 $280（10G Enterprise SFP Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-06-04 $300（48 Port PoE Managed Switch = STC-448XGGPM，Elsa 箱 1 轮 2025-06-04；现表 $335.4@20%、Drive 老表 $335——同款写 $335 要先说 2025 群发是 $300、汇率 7.2→6.7）；2025-10-05 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2025-10-05；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-09-08 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-08；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：Dipesh, for the PoE switches behind your access-control, LPR and camera installations, we supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches plus DIN-rail 8-PoE units for outdoor cabinets from single units, CE/RoHS, EXW USD — which PoE position in your Dubai projects would you like priced first? Reference: STC-28DGGPM at $84.1 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 首封前知悉：Elsa 群发 BCC 已触达 10 轮（2025-04-09→2026-09-08，锚 To amr_sha@hotmail.com，0 回）（第 74 批(n)）；换收件人再发一封（第 75 批(aj) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 首封前知悉：Elsa 群发 BCC 已触达 10 轮（2025-04-09→2026-09-08，锚 To amr_sha@hotmail.com，0 回）（第 74 批(n)）；换收件人再发一封（第 75 批(aj) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -48,7 +48,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：门禁/CCTV 配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424DGGPM-280W（$140.1）；户外柜工业 8 PoE STI-288GP（$59.8）作 Utepo 二供
 - **断点 / 为什么停在这里**：非主攻区（T5，阿联酋）；现供 Utepo 价格基准低；国别已改阿联酋（表内沙特为误记）；2 次无回复
 - **Saga 现在该推什么**：P1 **STC-28DGGPM**（25% 档，换人再触锚价 STC-28DGGPM $84.1 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-10 $65（10G fiber media converter）、2024-08-21 $65（10G media converter）、2024-11-14 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-21 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-24 $280（10G Enterprise SFP Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-06-04 $300（48 Port PoE Managed Switch = STC-448XGGPM，Elsa 箱 1 轮 2025-06-04；现表 $335.4@20%、Drive 老表 $335——同款写 $335 要先说 2025 群发是 $300、汇率 7.2→6.7）；2025-10-05 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2025-10-05；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-09-08 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-08；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170））——门禁/CCTV 配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424DGGPM-280W（$140.1）；户外柜工业 8 PoE STI-288GP（$59.8）作 Utepo 二供。已打开的主题（1/24 封有打开记录）：「48 Port PoE Managed Switch」(2024-12-27) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续
-- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　首封前知悉：Elsa 群发 BCC 已触达 10 轮（2025-04-09→2026-09-08，锚 To amr_sha@hotmail.com，0 回）（第 74 批(n)）；换收件人再发一封（第 75 批(aj) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　首封前知悉：Elsa 群发 BCC 已触达 10 轮（2025-04-09→2026-09-08，锚 To amr_sha@hotmail.com，0 回）（第 74 批(n)）；换收件人再发一封（第 75 批(aj) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
   - 第一问（只问一个）：Dipesh, for the PoE switches behind your access-control, LPR and camera installations, we supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches plus DIN-rail 8-PoE units for outdoor cabinets from single units, CE/RoHS, EXW USD — which PoE position in your Dubai projects would you like priced first? Reference: STC-28DGGPM at $84.1 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -65,6 +65,7 @@ updated: 2026-10-25
 | 2026-09-08 | 去 | Elsa 群发（BCC；To amr_sha@hotmail.com） | 24 Port PoE Managed Switch（Elsa 群发第 10/10 轮；本户在 Bcc，锚 To amr_sha@hotmail.com；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f） | 第 74 批(n) `from:e.sagatelecom to:acixme.com` 命中行 To=amr_sha@hotmail.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
 | 2026-10-01 | 去 | A/S 群发 | Industrial PoE Switch、48 Port PoE Managed Switch | 24 封 / 1 次打开 / 0 回｜首封 2024-07-07 → 末封 2026-10-01（24 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 有Utepo的；主要是CCTV | 表内备注 | `用户表` |
+| 2026-10-01 | 去 | A 箱（Alan） | Managed PoE Switches | 本日去信真实主题（邮箱索引 c360284887c39c52；信稿开头句引用此封；此前稿内写的「Industrial PoE Switch」是线程列表首题，不是本封） | `c360284887c39c52` |
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -286,7 +287,7 @@ updated: 2026-10-25
 ```text
 Hi Dipesh,
 
-Over the past months you had a steady stream of product mails from us - most recently "Industrial PoE Switch" on 1 October 2026 - and there was no reason to answer a mass mail. This one is specific.
+Over the past months you had a steady stream of product mails from us - most recently "Managed PoE Switches" on 1 October 2026 - and there was no reason to answer a mass mail. This one is specific.
 
 For the PoE switches behind your access-control, LPR and camera installations in Dubai, from single units, EXW, 15-day validity, CE/RoHS: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based - model STC-28DGGPM - $84.1 USD; 24 x Gigabit PoE+ (280 W) + 4 x SFP, L2+ managed - STC-424DGGPM-280W - $140.1; for outdoor cabinets, DIN-rail 8 x PoE+ + 2 x SFP, unmanaged, -40 to 75 C - STI-288GP - $60 (the Utepo position).
 

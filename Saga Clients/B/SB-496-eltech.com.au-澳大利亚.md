@@ -36,7 +36,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-080GE — 自有 logo 少量交换机（配电柜/自动化配套）→ 工业 8 GE 非管理 STI-080GE（$34.0 @30%）、5 GE STI-050GE（$18.5）贴 Eltech 标；换人再触锚价 STI-080GE $32.5 EXW（最近实报 SB-1019 2025-07-07 $32.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-22 $65（10G media converter）、2024-12-30 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-12 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-22 $240（24 Port Fiber Switch）、2025-10-09 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Todd, for the Eltech-branded switches you offer with your automation and switchboard range, we can supply DIN-rail 5/8-port gigabit units under your label from small lots (−40~75 °C, 12–58 VDC, CE/RoHS) — which port count do your electrical customers pick most? Reference: STI-080GE at $32.5 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封（第 75 批(ah) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；RCM stays on your side）
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封（第 75 批(ah) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；RCM stays on your side）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -47,13 +47,14 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：自有 logo 少量交换机（配电柜/自动化配套）→ 工业 8 GE 非管理 STI-080GE（$34.0 @30%）、5 GE STI-050GE（$18.5）贴 Eltech 标
 - **断点 / 为什么停在这里**：非主攻区（T5）；RCM 由客户申报
 - **Saga 现在该推什么**：P1 **STI-080GE**（30% 档，换人再触锚价 STI-080GE $32.5 EXW（最近实报 SB-1019 2025-07-07 $32.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-22 $65（10G media converter）、2024-12-30 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-12 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-22 $240（24 Port Fiber Switch）、2025-10-09 $280（10G Enterprise SFP Switch））——自有 logo 少量交换机（配电柜/自动化配套）→ 工业 8 GE 非管理 STI-080GE（$34.0 @30%）、5 GE STI-050GE（$18.5）贴 Eltech 标
-- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封（第 75 批(ah) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；RCM stays on your side）
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封（第 75 批(ah) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；RCM stays on your side）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
   - 第一问（只问一个）：Todd, for the Eltech-branded switches you offer with your automation and switchboard range, we can supply DIN-rail 5/8-port gigabit units under your label from small lots (−40~75 °C, 12–58 VDC, CE/RoHS) — which port count do your electrical customers pick most? Reference: STI-080GE at $32.5 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-09-25 | 去 | A/S 群发 | Industrial PoE Switch、Managed Optical Bypass Switch | 32 封 / 0 次打开 / 0 回｜首封 2024-06-26 → 末封 2026-09-25（32 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 少量switch 自己的logo | 表内备注 | `用户表` |
+| 2026-09-25 | 去 | A 箱（Alan） | Managed PoE Switches | 本日去信真实主题（邮箱索引 e372609ce60c0ed8；信稿开头句引用此封；此前稿内写的「Industrial PoE Switch」是线程列表首题，不是本封） | `e372609ce60c0ed8` |
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -286,7 +287,7 @@ updated: 2026-10-25
 ```text
 Hi Todd,
 
-Over the past months you had a steady stream of product mails from us - most recently "Industrial PoE Switch" on 25 September 2026 - and there was no reason to answer a mass mail. This one is specific.
+Over the past months you had a steady stream of product mails from us - most recently "Managed PoE Switches" on 25 September 2026 - and there was no reason to answer a mass mail. This one is specific.
 
 For the Eltech-branded switches you offer with the automation and switchboard range, under your label from small lots, DIN-rail, -40 to 75 C, CE/RoHS: 8 x Gigabit unmanaged, 12-58 V DC - model STI-080GE - $32.5 USD EXW (MOQ 1, 15-day validity); 5 x Gigabit, 12-36 V DC - STI-050GE - $18.5. Logo on the unit is free. RCM stays on your side.
 

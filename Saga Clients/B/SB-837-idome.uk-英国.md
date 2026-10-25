@@ -36,7 +36,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 自有标摄像机配套 PoE（POE82 = 8+2）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 IDome 标；POE42/POE162 位 HRUI STC-204GP（$20.4）/ STC-2016GP（$88.0）；换人再触锚价 STC-28DGGPM $87.4 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-08 $220（48 port managed switch）、2024-09-05 $65（10G media converter）；群发里他已看到的价（续）：2026-08-07 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-02-25 $240（24 Port Fiber Switch）、2025-10-13 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：For the POE42 / POE82 / POE162 switches you bundle with IDome cameras, we can supply the same 4+2 / 8+2 / 16+2 layouts under your label from small lots, plus a Marvell-based gigabit L2+ 8-PoE model, CE/RoHS/UKCA — which size ships most with your kits? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封（第 75 批(y) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用）；STC-204GP/028GP/2016GP/08GE/05GE 为 HRUI，不写 Marvell）
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封（第 75 批(y) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用）；STC-204GP/028GP/2016GP/08GE/05GE 为 HRUI，不写 Marvell）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -47,13 +47,14 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：自有标摄像机配套 PoE（POE82 = 8+2）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 IDome 标；POE42/POE162 位 HRUI STC-204GP（$20.4）/ STC-2016GP（$88.0）
 - **断点 / 为什么停在这里**：现货源深圳（表内「帝捷安」）价格基准低
 - **Saga 现在该推什么**：P1 **STC-28DGGPM**（30% 档，换人再触锚价 STC-28DGGPM $87.4 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-08 $220（48 port managed switch）、2024-09-05 $65（10G media converter）；群发里他已看到的价（续）：2026-08-07 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-02-25 $240（24 Port Fiber Switch）、2025-10-13 $280（10G Enterprise SFP Switch））——自有标摄像机配套 PoE（POE82 = 8+2）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 IDome 标；POE42/POE162 位 HRUI STC-204GP（$20.4）/ STC-2016GP（$88.0）
-- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封（第 75 批(y) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用）；STC-204GP/028GP/2016GP/08GE/05GE 为 HRUI，不写 Marvell）
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封（第 75 批(y) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用）；STC-204GP/028GP/2016GP/08GE/05GE 为 HRUI，不写 Marvell）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
   - 第一问（只问一个）：For the POE42 / POE82 / POE162 switches you bundle with IDome cameras, we can supply the same 4+2 / 8+2 / 16+2 layouts under your label from small lots, plus a Marvell-based gigabit L2+ 8-PoE model, CE/RoHS/UKCA — which size ships most with your kits? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-09-28 | 去 | A/S 群发 | Industrial PoE Switch、10G Enterprise SFP Switch | 26 封 / 0 次打开 / 0 回｜首封 2024-07-10 → 末封 2026-09-28（26 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 销售平台 商业PoE 有帝捷安的 | 表内备注 | `用户表` |
+| 2026-09-28 | 去 | A 箱（Alan） | Managed PoE Switches | 本日去信真实主题（邮箱索引 fcc12cc4127a4fc6；信稿开头句引用此封；此前稿内写的「Industrial PoE Switch」是线程列表首题，不是本封） | `fcc12cc4127a4fc6` |
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -278,7 +279,7 @@ updated: 2026-10-25
 ```text
 Hello IDome team,
 
-Over the past months you had a few product mails from us - most recently "Industrial PoE Switch" on 28 September 2026 - and there was no reason to answer a mass mail. This one is specific.
+Over the past months you had a few product mails from us - most recently "Managed PoE Switches" on 28 September 2026 - and there was no reason to answer a mass mail. This one is specific.
 
 For the POE42 / POE82 / POE162 switches you bundle with IDome cameras, the same layouts under your label from small lots, CE/RoHS/UKCA: 4 x PoE+ + 2 x Gigabit - model STC-204GP - $26.2 USD EXW (MOQ 1, 15-day validity); 16 x PoE+ + 2 x Gigabit - STC-2016GP - $88.0; and for the 8 + 2 position a managed step-up, 8 x Gigabit PoE+ + 2 x SFP L2+ on a Marvell platform - STC-28DGGPM - $87.4. Logo on the unit is free; colour box from 200 sets.
 

@@ -36,7 +36,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 自有 label 工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）贴 Diatrend 标；MC 位 STI-110GE（$24.3）；SFP/PoE 注入器 Saga 不供（Q-32）。已打开的主题（1/31 封有打开记录）：「Mini Industrial PoE Switch」(2024-11-22) → 读者兴趣偏「工业」；与 P1 同类，继续；换人再触锚价 STI-288GPM $85.5 EXW（主表档位（PDF 上限 $88；SA-026 2025-07 实报 $72 为分销量价）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-06-25 $65（10G media converter）、2024-08-14 $220（48 port managed switch）、2024-12-13 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-08-06 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-08 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Miyashita-san, for the industrial switches and media converters sold under the Diatrend label alongside your PoE and cable products, we can be an ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed, gigabit MC; −40~75 °C, CE/RoHS) from small lots in your packaging — which model do your Japanese customers reorder most? Reference: STI-288GPM at $85.5 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 首封前知悉：Elsa 已 1:1 去信 2 轮（2025-05-02→2025-06-23，0 回）（第 74 批(n)）；换收件人再发一封（第 75 批(ai) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；PSE 只写 Mean Well 适配器）
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 首封前知悉：Elsa 已 1:1 去信 2 轮（2025-05-02→2025-06-23，0 回）（第 74 批(n)）；换收件人再发一封（第 75 批(ai) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；PSE 只写 Mean Well 适配器）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -47,7 +47,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：自有 label 工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）贴 Diatrend 标；MC 位 STI-110GE（$24.3）；SFP/PoE 注入器 Saga 不供（Q-32）
 - **断点 / 为什么停在这里**：非主攻区（T5，日本）：PSE/VCCI 由客户申报，品质门槛高
 - **Saga 现在该推什么**：P1 **STI-288GPM**（30% 档，换人再触锚价 STI-288GPM $85.5 EXW（主表档位（PDF 上限 $88；SA-026 2025-07 实报 $72 为分销量价）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-06-25 $65（10G media converter）、2024-08-14 $220（48 port managed switch）、2024-12-13 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-08-06 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-08 $280（10G Enterprise SFP Switch））——自有 label 工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）贴 Diatrend 标；MC 位 STI-110GE（$24.3）；SFP/PoE 注入器 Saga 不供（Q-32）。已打开的主题（1/31 封有打开记录）：「Mini Industrial PoE Switch」(2024-11-22) → 读者兴趣偏「工业」；与 P1 同类，继续
-- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　首封前知悉：Elsa 已 1:1 去信 2 轮（2025-05-02→2025-06-23，0 回）（第 74 批(n)）；换收件人再发一封（第 75 批(ai) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；PSE 只写 Mean Well 适配器）
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　首封前知悉：Elsa 已 1:1 去信 2 轮（2025-05-02→2025-06-23，0 回）（第 74 批(n)）；换收件人再发一封（第 75 批(ai) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；PSE 只写 Mean Well 适配器）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
   - 第一问（只问一个）：Miyashita-san, for the industrial switches and media converters sold under the Diatrend label alongside your PoE and cable products, we can be an ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed, gigabit MC; −40~75 °C, CE/RoHS) from small lots in your packaging — which model do your Japanese customers reorder most? Reference: STI-288GPM at $85.5 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -56,6 +56,7 @@ updated: 2026-10-25
 | 2025-06-23 | out | Elsa → info@diatrend.co.jp, info@diatrend.com | Marvell Industrial Alert System（Elsa 1:1 逐月名单第 2/2 轮；To 仅本户） | 第 74 批(n) `from:e.sagatelecom to:diatrend.com OR to:diatrend.co.jp` 全程 complete：2 轮直收（头 msg 1979a8384f55eae2 无 Bcc，称呼「Hi,」）；0 回 | `elsa_1to1` |
 | 2026-09-29 | 去 | A/S 群发 | Managed Optical Bypass Switch、10G Enterprise SFP Switch | 31 封 / 1 次打开 / 0 回｜首封 2024-06-18 → 末封 2026-09-29（31 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 工业FS MC SFP 自己的label | 表内备注 | `用户表` |
+| 2026-09-29 | 去 | A 箱（Alan） | Managed PoE Switches | 本日去信真实主题（邮箱索引 26bbc18e0ed2f3c1；信稿开头句引用此封；此前稿内写的「Managed Optical Bypass Switch」是线程列表首题，不是本封） | `26bbc18e0ed2f3c1` |
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -271,7 +272,7 @@ updated: 2026-10-25
 ```text
 Dear Mr. Miyashita,
 
-Over the past months you had a few product mails from us - most recently "Managed Optical Bypass Switch" on 29 September 2026 - and there was no reason to answer a mass mail. This one is specific.
+Over the past months you had a few product mails from us - most recently "Managed PoE Switches" on 29 September 2026 - and there was no reason to answer a mass mail. This one is specific.
 
 For the industrial switches and media converters sold under the Diatrend label alongside your PoE and cable products, an ODM source in your packaging from small lots, -40 to 75 C, CE/RoHS: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, L2 managed, Marvell-based - model STI-288GPM - $85.5 USD EXW with your logo (MOQ 1, 15-day validity); Gigabit media converter, 1 x RJ45 + 1 x SFP slot - STI-110GE - $26.5. SFPs and PoE injectors (your DEPX / DEIJ line) we do not carry. Japanese-market colour box from 200 sets; PSE-marked Mean Well adapters.
 

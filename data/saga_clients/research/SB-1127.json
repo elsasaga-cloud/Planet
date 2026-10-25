@@ -96,7 +96,7 @@
   "next_move": {
    "when": "2026-11",
    "channel": "A 邮箱 → anton@throughput.co.za",
-   "action": "短信一问（email_hook）（第 75 批(ak) 2026-10-25：信稿复检修正——「(ERPS,」→「(ring redundancy,」）",
+   "action": "短信一问（email_hook）（第 75 批(ak) 2026-10-25：信稿复检修正——「(ERPS,」→「(ring redundancy,」）（第 76 批(c) 2026-10-25：audit_ab 软项修正：℃ → C）",
    "one_question": "Anton, for mining and plant-floor nodes where Westermo is over-spec — a Marvell-based managed DIN 8-PoE + 2-SFP (ERPS, −40~75 ℃, CE/FCC) at $79 EXW; not for rail or nuclear. Worth one evaluation unit?"
   },
   "facts": [
@@ -130,7 +130,7 @@
   ],
   "draft_en": {
    "subject": "One question — Marvell Alleycat5 Solution",
-   "body": "Hi Anton,\n\nWe have sent you a few mails on \"Marvell Alleycat5 Solution\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor mining and plant-floor nodes where Westermo is over-spec — a Marvell-based managed DIN 8-PoE + 2-SFP (ring redundancy, −40~75 ℃, CE/FCC) at $79 EXW; not for rail or nuclear. Worth one evaluation unit?\n\nPrices are USD EXW, 2026-10-17 snapshot, valid 15 days.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+   "body": "Hi Anton,\n\nWe have sent you a few mails on \"Marvell Alleycat5 Solution\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor mining and plant-floor nodes where Westermo is over-spec — a Marvell-based managed DIN 8-PoE + 2-SFP (ring redundancy, −40~75  C, CE/FCC) at $79 EXW; not for rail or nuclear. Worth one evaluation unit?\n\nPrices are USD EXW, 2026-10-17 snapshot, valid 15 days.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
   },
   "as_of": "2026-10-24"
  }

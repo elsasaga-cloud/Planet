@@ -39,7 +39,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM（4Net 贴牌） — PLANET 意大利官方分销 + 自有 4Net 品牌 → 第二货源切入点是 4Net 贴牌的 8 口 L2+，价位要低于其 PLANET 进货价；锚价：STC-28DGGPM $80.7（20% 档）（第 72 批 2026-10-24）；—；群发里他已看到的价（续，第 66 批全量复核）：2025-10-13 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：You are PLANET's official Italian distributor and you also run your own 4Net networking brand, so you already know what Taiwan-grade PoE switches cost and what Italian installers accept. For the 4Net brand, do you source PoE switches as finished goods under your label today, or only resell PLANET as-is? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问） LinkedIn Pasquale Pirozzi / 4power.it 表单（无邮箱） 一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(al) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；LinkedIn/表单一句话；Q-33 渠道户但 Simon 定 A，一问不加频）
+- **下一步**：2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问） LinkedIn Pasquale Pirozzi / 4power.it 表单（无邮箱） 一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(al) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；LinkedIn/表单一句话；Q-33 渠道户但 Simon 定 A，一问不加频）（第 76 批(c) 2026-10-25：0 事实户补时间线事实）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -50,8 +50,13 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：4Net 自有品牌 PoE 交换机第二货源（研究档）
 - **断点 / 为什么停在这里**：—
 - **Saga 现在该推什么**：P1 **STC-28DGGPM（4Net 贴牌）**（20% 档，锚价：STC-28DGGPM $80.7（20% 档）（第 72 批 2026-10-24）；—；群发里他已看到的价（续，第 66 批全量复核）：2025-10-13 $280（10G Enterprise SFP Switch））——PLANET 意大利官方分销 + 自有 4Net 品牌 → 第二货源切入点是 4Net 贴牌的 8 口 L2+，价位要低于其 PLANET 进货价
-- **下一步（具体）**：2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）　LinkedIn Pasquale Pirozzi / 4power.it 表单（无邮箱）　一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(al) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；LinkedIn/表单一句话；Q-33 渠道户但 Simon 定 A，一问不加频）
+- **下一步（具体）**：2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）　LinkedIn Pasquale Pirozzi / 4power.it 表单（无邮箱）　一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(al) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；LinkedIn/表单一句话；Q-33 渠道户但 Simon 定 A，一问不加频）（第 76 批(c) 2026-10-25：0 事实户补时间线事实）
   - 第一问（只问一个）：You are PLANET's official Italian distributor and you also run your own 4Net networking brand, so you already know what Taiwan-grade PoE switches cost and what Italian installers accept. For the 4Net brand, do you source PoE switches as finished goods under your label today, or only resell PLANET as-is? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity).
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2025-01-29 | 去 | A 箱（Alan） | L3 Managed Switch | 首封去信（邮箱索引；去信共 17 封） | `cd820a5afe406a84` |
+| 2026-10-08 | 去 | A 箱（Alan） | Managed PoE Switches | 最近一封去信（邮箱索引；去信共 17 封） | `e0fe9ccf2544222f` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 从未去信、Replied 索引亦无此户），仓库未见原文
 

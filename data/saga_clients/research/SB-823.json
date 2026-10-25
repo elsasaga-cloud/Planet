@@ -95,7 +95,7 @@
   "next_move": {
    "when": "2026-11",
    "channel": "A 邮箱 → dconners@enableit.com",
-   "action": "短信一问（email_hook）",
+   "action": "短信一问（email_hook）（第 76 批(c) 2026-10-25：一问改成问句）",
    "one_question": "David, for the PoE switches you bundle with the extenders (ONV today) — Marvell L2+ 8-PoE + 2-SFP under the Enable-IT label from small lots, FCC/CE (no UL); send me the ONV part number and I'll quote like-for-like. Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
@@ -119,7 +119,7 @@
   "proof_gaps": [],
   "draft_en": {
    "subject": "One question — Marvell Industrial Alert System",
-   "body": "Hi David,\n\nWe have sent you a few mails on \"Marvell Industrial Alert System\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor the PoE switches you bundle with the extenders (ONV today) — Marvell L2+ 8-PoE + 2-SFP under the Enable-IT label from small lots, FCC/CE (no UL); send me the ONV part number and I'll quote like-for-like.\n\nReference price: 8-PoE + 2 × 1G/2.5G SFP L2+ managed switch (Marvell AC5), 120 W (STC-28DGGPM) $87.4 USD EXW, MOQ 1 pc, 15-day validity, 1-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+   "body": "Hi David,\n\nWe have sent you a few mails on \"Marvell Industrial Alert System\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor the PoE switches you bundle with the extenders (ONV today) we can supply a Marvell L2+ 8-PoE + 2-SFP under the Enable-IT label from small lots, FCC/CE/RoHS (no UL). One question: which ONV part number do you bundle today? Send it and I will quote like-for-like.\n\nReference price: 8-PoE + 2 × 1G/2.5G SFP L2+ managed switch (Marvell AC5), 120 W (STC-28DGGPM) $87.4 USD EXW, MOQ 1 pc, 15-day validity, 1-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
   },
   "as_of": "2026-10-24"
  }

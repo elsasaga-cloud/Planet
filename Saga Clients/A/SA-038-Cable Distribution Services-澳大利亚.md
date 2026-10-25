@@ -38,7 +38,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-144GP — 已打开的主题（2/28 封有打开记录）：「CCTV poe switch」(2024-06-21)、「Optional Marvell Chipset Solutions」(2025-11-19) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续；锚价：STI-144GP $34.1（20% 档；无实报）（第 72 批 2026-10-24）；—；群发里他已看到的价（续）：2026-08-17 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-07-16 $300（48 Port PoE Managed Switch）、2025-09-24 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：For the 1-fibre 4-copper industrial PoE unit you were pricing, here is the 4-port gigabit PoE + 1 SFP DIN switch (STI-144GP) at EXW, with the datasheet so you can line it up against the two quotes you already have. Is that project still open? Reference: STI-144GP at $34.1 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问） A 邮箱 → paul@cabledistribution.com.au（用户表称实质回复在 WhatsApp → 由 Simon 决定走 WA） 首封前知悉：Elsa 仅 2025-02-25 单发过 1 封「Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(p) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；信里写「datasheet on request」而非 attached）
+- **下一步**：2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问） A 邮箱 → paul@cabledistribution.com.au（用户表称实质回复在 WhatsApp → 由 Simon 决定走 WA） 首封前知悉：Elsa 仅 2025-02-25 单发过 1 封「Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(p) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；信里写「datasheet on request」而非 attached）（第 76 批(c) 2026-10-25：audit_ab 软项修正：证书口径 CE/RoHS → CE/RoHS (RCM stays on your side)）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -49,7 +49,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：1 光 4 电工业 PoE。
 - **断点 / 为什么停在这里**：—
 - **Saga 现在该推什么**：P1 **STI-144GP**（20% 档，锚价：STI-144GP $34.1（20% 档；无实报）（第 72 批 2026-10-24）；—；群发里他已看到的价（续）：2026-08-17 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-07-16 $300（48 Port PoE Managed Switch）、2025-09-24 $280（10G Enterprise SFP Switch））——已打开的主题（2/28 封有打开记录）：「CCTV poe switch」(2024-06-21)、「Optional Marvell Chipset Solutions」(2025-11-19) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续
-- **下一步（具体）**：2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）　A 邮箱 → paul@cabledistribution.com.au（用户表称实质回复在 WhatsApp → 由 Simon 决定走 WA）　首封前知悉：Elsa 仅 2025-02-25 单发过 1 封「Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(p) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；信里写「datasheet on request」而非 attached）
+- **下一步（具体）**：2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）　A 邮箱 → paul@cabledistribution.com.au（用户表称实质回复在 WhatsApp → 由 Simon 决定走 WA）　首封前知悉：Elsa 仅 2025-02-25 单发过 1 封「Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(p) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；信里写「datasheet on request」而非 attached）（第 76 批(c) 2026-10-25：audit_ab 软项修正：证书口径 CE/RoHS → CE/RoHS (RCM stays on your side)）
   - 第一问（只问一个）：For the 1-fibre 4-copper industrial PoE unit you were pricing, here is the 4-port gigabit PoE + 1 SFP DIN switch (STI-144GP) at EXW, with the datasheet so you can line it up against the two quotes you already have. Is that project still open? Reference: STI-144GP at $34.1 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -308,7 +308,7 @@ updated: 2026-10-25
 ```text
 Hi Paul,
 
-You were pricing a 1-fibre + 4-copper industrial PoE switch and had two quotes already; here is ours to line up against them: DIN-rail 4 x Gigabit PoE+ + 1 x SFP, unmanaged, 44-57 V DC, -40 to 75 C, CE/RoHS - model STI-144GP - $34.1 USD EXW at distributor price (MOQ 1, 15-day validity). Datasheet goes with this mail on request - say the word and it follows in the same thread.
+You were pricing a 1-fibre + 4-copper industrial PoE switch and had two quotes already; here is ours to line up against them: DIN-rail 4 x Gigabit PoE+ + 1 x SFP, unmanaged, 44-57 V DC, -40 to 75 C, CE/RoHS (RCM stays on your side) - model STI-144GP - $34.1 USD EXW at distributor price (MOQ 1, 15-day validity). Datasheet goes with this mail on request - say the word and it follows in the same thread.
 
 One question: for the mining and pumping sites you supply, is the 4-port unit going into existing cabinets with 48 V available, or do you need the version with a wide 12-58 V input?
 

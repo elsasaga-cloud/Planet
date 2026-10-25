@@ -120,7 +120,7 @@
  ],
  "mail_review": {
   "binding": {
-   "level": "轻度触达→边界户（A 邮箱 2025-05 → 2026-07 来 14 去 24，三位 KP：Alexander Cheskis / Andrey Zarudniy（Sales）/ Oksana Loi；四轮实质：① 2025-05 光旁路交换机技术问答（98DX2515 口径）② 2025-12 旁路 PoE STI-488XGGPM2B-2BT 报 $295，对方要样机与批量价后无单 ③ 2026-03-30 其客户 8,000 台校园 L2（24×1G + 4×10G SFP+，目标 $250）→ Alan 03-31「与我们一个国内客户冲突，内部决定，到此为止」（Q-49）④ 2026-05/06 Larch 推销 SONiC 商业支持并邀 6-10/11 线上会 → Alan 06-05 婉拒（Saga 高速线用 CENTEC，Marvell 线只做 SMB L2+/L3）；07-02 求购 DX1518/DX1548 芯片 10 颗 → 无货)；Elsa 箱：`to:larch-networks.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 24 / 来 14）（第 74 批(n)）",
+   "level": "轻度触达→边界户（A 邮箱 2025-05 → 2026-07 来 14 去 24，三位 KP：Alexander Cheskis / Andrey Zarudniy（Sales）/ Oksana Loi；四轮实质：① 2025-05 光旁路交换机技术问答（98DX2515 口径）② 2025-12 旁路 PoE STI-488XGGPM-2BT 报 $295，对方要样机与批量价后无单 ③ 2026-03-30 其客户 8,000 台校园 L2（24×1G + 4×10G SFP+，目标 $250）→ Alan 03-31「与我们一个国内客户冲突，内部决定，到此为止」（Q-49）④ 2026-05/06 Larch 推销 SONiC 商业支持并邀 6-10/11 线上会 → Alan 06-05 婉拒（Saga 高速线用 CENTEC，Marvell 线只做 SMB L2+/L3）；07-02 求购 DX1518/DX1548 芯片 10 颗 → 无货)；Elsa 箱：`to:larch-networks.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 24 / 来 14）（第 74 批(n)）",
    "type": "以色列 SONiC/NOS 软件服务商 + 渠道（Larch Networks；既是潜在客户也是潜在供应商）",
    "sieve": "2（技术问答 + 询价 + 项目需求；未付样）",
    "stop": "两头都停：Saga 拒了 8,000 台项目（国内客户冲突）、拒了 SONiC 合作与芯片；对方对 $295 旁路机没有下文",
@@ -133,9 +133,9 @@
   "need": "① 旁路 PoE 工业管理机（已报 $295）② 8,000 台校园 L2 交换机（已拒）③ 把 Saga 的 Marvell 线作为 SONiC 落地硬件（Saga 不要）④ Marvell 芯片现货（无）",
   "breakpoint": "不是对方不买，而是 Saga 两次说不（项目冲突、SONiC 方向）。剩下的唯一商业线是旁路/Booster PoE 机的样机——对方 2025-12-09 明确要「sample and bulk price」，Alan 给了单价 $295 但没推样机付款流程，线就冷了。",
   "saga_now": {
-   "p1": "STI-488XGGPM2B-2BT（4×10G SFP+ + 8×GE PoE，2 通道光旁路，L2+，-40~75℃；2025-12-09 报 $295）",
+   "p1": "STI-488XGGPM-2BT（4×10G SFP+ + 8×GE PoE，2 通道光旁路，L2+，-40~75℃；2025-12-09 报 $295）",
    "tier": 25,
-   "price": "$295 USD EXW（2025-12-09 口径）；现以 `列表价 USD EXW（2026-10-17 快照，15 天有效）` 重报，bypass -2FBP 档 $283.7 @30% 为主表锚；历史报价（邮件原话，老汇率）：2025-12-09 STI-488XGGPM2B-2BT 295usd；2025-12-01 STI-488XGGBPM 215usd",
+   "price": "$295 USD EXW（2025-12-09 口径）；现以 `列表价 USD EXW（2026-10-17 快照，15 天有效）` 重报，bypass -2FBP 档 $283.7 @30% 为主表锚；历史报价（邮件原话，老汇率）：2025-12-09 STI-488XGGPM-2BT 295usd；2025-12-01 STI-488XGGBPM 215usd",
    "why": "C10/C11：这户的价值是**情报**（他们知道谁在做 8,000 台项目、SONiC 市场动向），不是订单。已打开的主题（21/24 封有打开记录）：「Re: Supported SONiC for Saga Ethernet 」(2026-05-27)、「Re: Supported SONiC for Saga Ethernet 」(2026-06-03)、「Re: Supported SONiC for Saga Ethernet 」(2026-06-05)、「Re: Request for DX1518/DX1548 Chips」(2026-07-02) → 读者兴趣偏「旁路/Booster」；当前 P1 属「10G 汇聚/L3」，下一封按「旁路/Booster」给，不按 P1｜对外统一口径（#2/#12）：2026-03-31 Alan 反问「Do you require Marvell SDK/BSP support」暗示可给 BSP——Saga 不提供 SDK/BSP，对 Larch（SONiC/白盒）只谈整机或 PCBA；2026-05-27「AC5 整线 +$15（内存涨价）」是对外涨价基准",
    "repeat": [],
    "gaps": [
@@ -145,7 +145,7 @@
   "next_move": {
    "when": "被动（Q-49）；若对方再来信，先把旁路机样机这条线接上",
    "channel": "A 邮箱（alexander@ / azarudniy@ / oksana@larch-networks.com）",
-   "action": "不主动发；来信时只谈旁路/Booster PoE 样机，不碰校园项目与 SONiC",
+   "action": "不主动发；来信时只谈旁路/Booster PoE 样机，不碰校园项目与 SONiC（第 76 批(c) 2026-10-25：型号笔误 STI-488XGGPM2B-2BT → STI-488XGGPM-2BT）",
    "one_question": "Andrey — the 2-channel bypass PoE unit you priced in December ($295): is a paid evaluation sample still useful for your customer, or has that requirement closed?"
   },
   "facts": [
@@ -209,8 +209,8 @@
     "date": "2025-12-09",
     "dir": "去",
     "who": "Saga（Alan）",
-    "quote": "Hi, Andrey, 1, Unit price: 295usd/pc STI-488XGGPM2B-2BT 4*1G/2.5G/10G SFP+8*100/1000M RJ45/PoE +1*Console Port 2*PoE af/at/bt, 6*PoE af/at, 240W, L2+ Managed, Active PoE DC48V output, Support Bypass feature(2 channels) DC44V~DC57V, (Removable 4-PIN Industrial",
-    "why": "历史报价点（主题「Re: Booster PoE Switch」；第 20 批从 gmail_a 回补）：STI-488XGGPM2B-2BT 295usd",
+    "quote": "Hi, Andrey, 1, Unit price: 295usd/pc STI-488XGGPM-2BT 4*1G/2.5G/10G SFP+8*100/1000M RJ45/PoE +1*Console Port 2*PoE af/at/bt, 6*PoE af/at, 240W, L2+ Managed, Active PoE DC48V output, Support Bypass feature(2 channels) DC44V~DC57V, (Removable 4-PIN Industrial",
+    "why": "历史报价点（主题「Re: Booster PoE Switch」；第 20 批从 gmail_a 回补）：STI-488XGGPM-2BT 295usd",
     "k": "2c412f7579125bdb"
    },
    {

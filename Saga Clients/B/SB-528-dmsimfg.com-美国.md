@@ -36,7 +36,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — 已打开的主题（2/30 封有打开记录）：「48 Port PoE Managed Switch」(2024-11-21)、「Managed Optical Bypass Switch」(2025-04-23) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续 最近一封去信是 2026-09-28 A 邮箱模板（在本档最后一条事实之后）——下一封必须回到真人线程、不再叠模板｜已发资料（勿重发）：Saga Software Function List-release 7.(2025-03-21)、Product Link_2026Q2(2026-02-26)、Saga Feature List_7.5.x_L2+(2026-06-27)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）；—；群发里他已看到的价（续）：2026-07-27 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-11-21 $300（48 Port PoE Managed Switch）、2025-10-08 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Do you resell switches alongside your DC hardware, or only source them for your own builds?
 - **最大未知**：年走量与现供应商
-- **下一步**：2026-11 A 邮箱 → dustin@dmsimfg.com（Dustin Hall；Kelly 已退休，sales@ 只回自动信；evan@dmsimfg.com 备用） 换人
+- **下一步**：2026-11 A 邮箱 → dustin@dmsimfg.com（Dustin Hall；Kelly 已退休，sales@ 只回自动信；evan@dmsimfg.com 备用） 换人（第 76 批(c) 2026-10-25：audit_ab 软项修正：署名「Alan Yan」→「Alan」（A 箱实际署名））（第 76 批(c) 2026-10-25：0 事实户补时间线事实）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -48,8 +48,16 @@ updated: 2026-10-25
 - **断点 / 为什么停在这里**：—
 - **Saga 现在该推什么**：P1 **—**（30% 档，—；群发里他已看到的价（续）：2026-07-27 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-11-21 $300（48 Port PoE Managed Switch）、2025-10-08 $280（10G Enterprise SFP Switch））——已打开的主题（2/30 封有打开记录）：「48 Port PoE Managed Switch」(2024-11-21)、「Managed Optical Bypass Switch」(2025-04-23) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续 最近一封去信是 2026-09-28 A 邮箱模板（在本档最后一条事实之后）——下一封必须回到真人线程、不再叠模板｜已发资料（勿重发）：Saga Software Function List-release 7.(2025-03-21)、Product Link_2026Q2(2026-02-26)、Saga Feature List_7.5.x_L2+(2026-06-27)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）
   - 做不了 / 要先核的：新联系人
-- **下一步（具体）**：2026-11　A 邮箱 → dustin@dmsimfg.com（Dustin Hall；Kelly 已退休，sales@ 只回自动信；evan@dmsimfg.com 备用）　换人
+- **下一步（具体）**：2026-11　A 邮箱 → dustin@dmsimfg.com（Dustin Hall；Kelly 已退休，sales@ 只回自动信；evan@dmsimfg.com 备用）　换人（第 76 批(c) 2026-10-25：audit_ab 软项修正：署名「Alan Yan」→「Alan」（A 箱实际署名））（第 76 批(c) 2026-10-25：0 事实户补时间线事实）
   - 第一问（只问一个）：Do you resell switches alongside your DC hardware, or only source them for your own builds?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2024-06-24 | 去 | S 箱（Simon） | Industrial PoE Managed Switch | 首封去信（邮箱索引；去信共 30 封） | `3fc9871299c44094` |
+| 2026-09-28 | 去 | A 箱（Alan） | Managed PoE Switches | 最近一封去信（邮箱索引；去信共 30 封） | `10091d622fd77f9a` |
+| 2024-05-02 | 来 | kelly@dmsimfg.com | Vacation｜Monday April 29, 2024 I’ll be on vacation the rest of today returning Wednesday May 8.  Please see contacts below while  | 自动回复/退信（机器，不算人工回复） | `89918dafbe1936c9` |
+| 2024-05-23 | 来 | kelly@dmsimfg.com | Vacation｜If you are seeing this message then I have officially RETIRED!  Please redirect your email to the contacts listed below  | 自动回复/退信（机器，不算人工回复） | `02e8365a9e7d02a0` |
+| 2025-01-02 | 来 | brandon@dmsimfg.com | Automatic reply: 48 Port 10G Core Switch｜December 25th through January 5th DMSI facilities are closed.  We will re-open on Monday January 6th.   The sales team i | 自动回复/退信（机器，不算人工回复） | `ed65b17afbbc82ba` |
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -274,8 +282,8 @@ Three data-center SKUs are priced today, all EXW (2026 Q2 list): 32× 100G QSFP2
 
 One question: do you resell switches alongside your DC hardware, or only source them for your own builds?
 
-Alan Yan
-Saga Telecom
+Alan
+Saga Telecom - sagatele.com
 ```
 
 > 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。

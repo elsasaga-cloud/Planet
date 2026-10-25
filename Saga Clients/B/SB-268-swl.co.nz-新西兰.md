@@ -36,7 +36,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — —；—；群发里他已看到的价（续，第 66 批全量复核）：2025-09-24 $280（10G Enterprise SFP Switch）、2026-06-18 $16000（32 Port 400GB DC Switch）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
-- **下一步**：不动 — —
+- **下一步**：不动 — —（第 76 批(c) 2026-10-25：0 事实户补时间线事实）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -47,7 +47,13 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：—
 - **断点 / 为什么停在这里**：—
 - **Saga 现在该推什么**：P1 **—**（20% 档，—；群发里他已看到的价（续，第 66 批全量复核）：2025-09-24 $280（10G Enterprise SFP Switch）、2026-06-18 $16000（32 Port 400GB DC Switch））———
-- **下一步（具体）**：不动　—　—
+- **下一步（具体）**：不动　—　—（第 76 批(c) 2026-10-25：0 事实户补时间线事实）
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2025-09-24 | 去 | A 箱（Alan） | 10G Enterprise SFP Switch | 首封去信（邮箱索引；去信共 10 封） | `c186a672508b3bcf` |
+| 2026-09-15 | 去 | A 箱（Alan） | 16 Port Industrial PoE Switch | 最近一封去信（邮箱索引；去信共 10 封） | `6fe75ece3a7c9e70` |
+| 2026-09-15 | 来 | andrew@swl.co.nz | Automatic reply: 16 Port Industrial PoE Switch｜﻿I am on leave with limited access to phone and email.  For all urgent enquiries please contact the office on +649 580 1 | 自动回复/退信（机器，不算人工回复） | `757c37ba09d77f9c` |
 
 ## 基本事实（事实/推断/假设分层）
 

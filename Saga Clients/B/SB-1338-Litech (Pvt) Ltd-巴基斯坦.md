@@ -38,7 +38,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC/STH 按规格 — —；—
 - **第一问（只问一个）**：Is the 2024 switch RFQ (or a successor project) still open — port count and quantity?
 - **最大未知**：年走量与现供应商
-- **下一步**：2026-11 S 邮箱 → hassancheema@litech.com.pk 一封
+- **下一步**：2026-11 S 邮箱 → hassancheema@litech.com.pk 一封（第 76 批(c) 2026-10-25：audit_ab 软项修正：署名「Alan Yan」→「Alan」（A 箱实际署名））（第 76 批(c) 2026-10-25：audit_ab 软项修正：补一问）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -50,7 +50,7 @@ updated: 2026-10-25
 - **断点 / 为什么停在这里**：未回。
 - **Saga 现在该推什么**：P1 **STC/STH 按规格**（25% 档，—）———
   - 做不了 / 要先核的：是否在 WhatsApp 回过
-- **下一步（具体）**：2026-11　S 邮箱 → hassancheema@litech.com.pk　一封
+- **下一步（具体）**：2026-11　S 邮箱 → hassancheema@litech.com.pk　一封（第 76 批(c) 2026-10-25：audit_ab 软项修正：署名「Alan Yan」→「Alan」（A 箱实际署名））（第 76 批(c) 2026-10-25：audit_ab 软项修正：补一问）
   - 第一问（只问一个）：Is the 2024 switch RFQ (or a successor project) still open — port count and quantity?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -207,10 +207,10 @@ An overdue reply to the switch RFQ you sent in March 2024 — it was missed on o
 
 What we can cover: access switches (24/48× GbE + 4× 10G SFP+, L2+/L3, Marvell AC5) and 10G/25G/100G aggregation on CENTEC silicon. Routers we do not make.
 
-If the project or a successor is still open, send the current port-count and quantity and you will have EXW prices within one working day; our 24× GbE + 4× 10G L2+ lists at USD 143 EXW (snapshot 2026-10-17, valid 15 days).
+One question: is that project, or a successor, still open? If yes, send the current port-count and quantity and you will have EXW prices within one working day; our 24× GbE + 4× 10G L2+ lists at USD 143 EXW (snapshot 2026-10-17, valid 15 days).
 
-Alan Yan
-Saga Telecom
+Alan
+Saga Telecom - sagatele.com
 ```
 
 > 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。

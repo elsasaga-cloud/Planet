@@ -36,7 +36,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — 已打开的主题（5/43 封有打开记录）：「10G Ethernet Web Managed Switch」(2024-10-30)、「10G Media Converter」(2024-11-26)、「Managed Optical Bypass Switch」(2025-07-08)、「Mini Industrial PoE Switch」(2025-08-05) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-06-19 $220（48 port managed switch）；群发里他已看到的价（续）：2026-08-13 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-11-26 $65（10G Media Converter）、2025-02-19 $300（48 Port PoE Managed Switch）、2025-09-25 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
-- **下一步**：不动 — —
+- **下一步**：不动 — —（第 76 批(c) 2026-10-25：0 事实户补时间线事实）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -47,7 +47,13 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：—
 - **断点 / 为什么停在这里**：—
 - **Saga 现在该推什么**：P1 **—**（30% 档，—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-06-19 $220（48 port managed switch）；群发里他已看到的价（续）：2026-08-13 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-11-26 $65（10G Media Converter）、2025-02-19 $300（48 Port PoE Managed Switch）、2025-09-25 $280（10G Enterprise SFP Switch））——已打开的主题（5/43 封有打开记录）：「10G Ethernet Web Managed Switch」(2024-10-30)、「10G Media Converter」(2024-11-26)、「Managed Optical Bypass Switch」(2025-07-08)、「Mini Industrial PoE Switch」(2025-08-05) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续
-- **下一步（具体）**：不动　—　—
+- **下一步（具体）**：不动　—　—（第 76 批(c) 2026-10-25：0 事实户补时间线事实）
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2024-06-19 | 去 | S 箱（Simon） | 48 port managed switch | 首封去信（邮箱索引；去信共 43 封） | `59eac8f4234fa84e` |
+| 2026-09-09 | 去 | A 箱（Alan） | 16 Port Industrial PoE Switch | 最近一封去信（邮箱索引；去信共 43 封） | `81ea8a5561a68212` |
+| 2024-10-30 | 来 | chk999@outlook.com | Re: 10G Ethernet Web Managed Switch｜Hi, Does it have the https (not http, but https with s at the end http secure protocol) and can we store third party htt | 误归属：Chavan Koya = SB-761（NovaCA），回信抄送 larry@novaca.com 落到本户标签；Simon 2024-10-31 已答「HTTPS 不在功能表」。本户（tccomm.com）无人工回复 | `5a42faf06fd8915e` |
 
 ## 基本事实（事实/推断/假设分层）
 

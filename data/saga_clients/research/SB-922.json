@@ -97,10 +97,19 @@
   "next_move": {
    "when": "待 Simon 排期（首封）",
    "channel": "A 邮箱 → info@t-automation.by（无具名 KP；公用地址）",
-   "action": "首封：按 email_hook 一问（第 75 批(l) 2026-10-25：英文信稿已写 `draft_en`）",
+   "action": "首封：按 email_hook 一问（第 75 批(l) 2026-10-25：英文信稿已写 `draft_en`）（第 76 批(c) 2026-10-25：0 事实户补时间线事实）",
    "one_question": "Alongside the Advantech EKI industrial switches in your catalogue, we supply DIN-rail 8-PoE + 2 SFP managed (Marvell L2+) and unmanaged units (−40~75 °C, neutral packing, CE/RoHS) from small lots, EXW — which EKI model do your automation customers order most, so we quote its equivalent? Reference: STI-288GPM at $78.9 USD EXW (MOQ 1, 15-day validity)."
   },
-  "facts": [],
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "研",
+    "who": "官网快照",
+    "quote": "官网标题：Территория Автоматизации Минск；品类词 工业自动化 / OT 网络 / 光纤 / 媒体转换 / 网络交换 / PoE：Оборудование и ПО для промышленной автоматизации, интернета вещей, контрольно-измерительных и встраиваемых систем",
+    "why": "无任何邮件往来；唯一证据为研究/用户表记录",
+    "k": "https://t-automation.by/"
+   }
+  ],
   "proof_gaps": [
    "无邮件往来"
   ],

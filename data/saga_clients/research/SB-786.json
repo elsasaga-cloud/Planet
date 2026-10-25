@@ -97,7 +97,7 @@
   "next_move": {
    "when": "2027-Q1（换人后）",
    "channel": "A 邮箱 → 具名 KP",
-   "action": "换收件人再发一封（第 75 批(ah) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））",
+   "action": "换收件人再发一封（第 75 批(ah) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）",
    "one_question": "For the industrial 10/100 media converter on your site, we supply neutral-brand DIN-rail Fast Ethernet and gigabit MCs (−40~75 °C, CE/RoHS) from single units, EXW USD — is the AOA unit still selling, and would a lower-priced equivalent fit your catalogue? Reference: STI-110FE at $19.7 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
@@ -116,12 +116,20 @@
     "quote": "AOA的工业MC 就这一款",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-09-17",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "16 Port Industrial PoE Switch",
+    "why": "本日去信真实主题（邮箱索引 3aa7abbd661b453d；信稿开头句引用此封；此前稿内写的「Industrial PoE Switch」是线程列表首题，不是本封）",
+    "k": "3aa7abbd661b453d"
    }
   ],
   "proof_gaps": [],
   "draft_en": {
    "subject": "The industrial 10/100 media converter on your site - is the AOA unit still selling?",
-   "body": "Hello Trioms team,\n\nOver the past months you had a few product mails from us - most recently \"Industrial PoE Switch\" on 17 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the industrial 10/100 media converter on your site (AOA today), a lower-priced equivalent, neutral-brand, at distributor price, EXW, from single units, 15-day validity, -40 to 75 C, CE/RoHS: DIN-rail Fast Ethernet converter, 1 x RJ45 + 1 x 100M fibre (SC standard, SFP slot optional) - model STI-110FE - $19.7 USD; Gigabit version, 1 x RJ45 + 1 x SFP slot - STI-110GE - $26.5.\n\nOne question: is the AOA unit still selling for you, and would a lower-priced equivalent fit the catalogue?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+   "body": "Hello Trioms team,\n\nOver the past months you had a few product mails from us - most recently \"16 Port Industrial PoE Switch\" on 17 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the industrial 10/100 media converter on your site (AOA today), a lower-priced equivalent, neutral-brand, at distributor price, EXW, from single units, 15-day validity, -40 to 75 C, CE/RoHS: DIN-rail Fast Ethernet converter, 1 x RJ45 + 1 x 100M fibre (SC standard, SFP slot optional) - model STI-110FE - $19.7 USD; Gigabit version, 1 x RJ45 + 1 x SFP slot - STI-110GE - $26.5.\n\nOne question: is the AOA unit still selling for you, and would a lower-priced equivalent fit the catalogue?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
  }

@@ -2,7 +2,7 @@
   "code": "SC-1006",
   "name_official": "WIZARDSINC SDN BHD",
   "website_status": "",
-  "summary": "",
+  "summary": "吉隆坡 ICT/门禁/CCTV 集成商 WizardsInc Sdn Bhd（Technology Park Malaysia 孵化器；CEO Raja Kumaran）：2026-08 一单 RMB 10,500 / 42 件（STI-288GPM ×2、STI-21616GP ×4、STI-21616GPM ×1 + 工业光模块 28 + 电源），PI 标「Sample Testing」= 项目前的批量样机；关系全在 WhatsApp/WeChat，A/S 邮箱 0 封；曾被留在 Elsa 群发 Bcc（成单后仍收 $170 群发稿）。",
   "type": "",
   "size": "",
   "brands_seen": [],
@@ -139,7 +139,7 @@
     "next_move": {
       "when": "现在（距发货 ≈2 个月）",
       "channel": "WhatsApp（Simon）",
-      "action": "先把 Raja 从 Elsa 群发 Bcc 名单剔出（2026-09-08 仍在 sofyan 锚的 Bcc，成单后还在收 $170 群发稿）（第 74 批(o)）；一句话问测试结论与项目批量",
+      "action": "先把 Raja 从 Elsa 群发 Bcc 名单剔出（2026-09-08 仍在 sofyan 锚的 Bcc，成单后还在收 $170 群发稿）（第 74 批(o)）；一句话问测试结论与项目批量（第 76 批(c) 2026-10-25：audit_ab 软项修正：补 summary）",
       "one_question": "Raja — how did the 16-port managed vs unmanaged units behave in the test ring, and when does the project batch get sized?"
     },
     "facts": [

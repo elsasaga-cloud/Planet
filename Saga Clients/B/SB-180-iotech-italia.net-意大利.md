@@ -38,7 +38,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM — 分销/代表 20% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理，−40~+75 ℃）入其工业交换机类目；非 PoE STI-280DGGM；4 口 STI-144GP；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-05 $65（10G media converter）；群发里他已看到的价（续，第 66 批全量复核）：2024-07-04 $220（48 port managed switch）、2025-10-16 $280（10G Enterprise SFP Switch）（㉕ 封顶：STI-288DGGPM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25）
 - **第一问（只问一个）**：For the Switch Ethernet Industriali line on iotech-italia.net, a Marvell-based DIN 8-port PoE+ managed switch with 2 SFP (−40 to +75 °C, 12–58 V) at $137.5 EXW complements the Wlink routers you represent; would a datasheet in Italian-ready format help?
 - **最大未知**：年走量与现供应商
-- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封（第 75 批(ab) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用；英文稿，不混意大利语）；意文一页摘要是提议，Simon 决定）
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封（第 75 批(ab) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用；英文稿，不混意大利语）；意文一页摘要是提议，Simon 决定）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -49,13 +49,14 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：分销/代表 20% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理，−40~+75 ℃）入其工业交换机类目；非 PoE STI-280DGGM；4 口 STI-144GP
 - **断点 / 为什么停在这里**：一人公司，量小；13 次跟进 0 回复——需以「代理 STI 工业系列」而非单台报价切入
 - **Saga 现在该推什么**：P1 **STI-288DGGPM**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-05 $65（10G media converter）；群发里他已看到的价（续，第 66 批全量复核）：2024-07-04 $220（48 port managed switch）、2025-10-16 $280（10G Enterprise SFP Switch）（㉕ 封顶：STI-288DGGPM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25））——分销/代表 20% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理，−40~+75 ℃）入其工业交换机类目；非 PoE STI-280DGGM；4 口 STI-144GP
-- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封（第 75 批(ab) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用；英文稿，不混意大利语）；意文一页摘要是提议，Simon 决定）
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封（第 75 批(ab) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用；英文稿，不混意大利语）；意文一页摘要是提议，Simon 决定）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
   - 第一问（只问一个）：For the Switch Ethernet Industriali line on iotech-italia.net, a Marvell-based DIN 8-port PoE+ managed switch with 2 SFP (−40 to +75 °C, 12–58 V) at $137.5 EXW complements the Wlink routers you represent; would a datasheet in Italian-ready format help?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-09-16 | 去 | A/S 群发 | Marvell Industrial Alert System、48 Port 10G Core Switch | 21 封 / 0 次打开 / 0 回｜首封 2024-07-04 → 末封 2026-09-16（21 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | （用户表字段） | 表内备注 | `用户表` |
+| 2026-09-16 | 去 | A 箱（Alan） | 16 Port Industrial PoE Switch | 本日去信真实主题（邮箱索引 2b872db780701b81；信稿开头句引用此封；此前稿内写的「Marvell Industrial Alert System」是线程列表首题，不是本封） | `2b872db780701b81` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码
 
@@ -286,7 +287,7 @@ updated: 2026-10-25
 ```text
 Hello Luca,
 
-Over the past months you had a few product mails from us - most recently "Marvell Industrial Alert System" on 16 September 2026 - and there was no reason to answer a mass mail. This one is specific.
+Over the past months you had a few product mails from us - most recently "16 Port Industrial PoE Switch" on 16 September 2026 - and there was no reason to answer a mass mail. This one is specific.
 
 For the industrial Ethernet switch line you represent next to the Wlink routers, at representative/distributor price, EXW, MOQ 1, 15-day validity, -40 to 75 C, CE/RoHS: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, L2+ managed with ring redundancy, Marvell-based - model STI-288DGGPM - $137.5 USD; the non-PoE version - STI-280DGGM - $121; compact 4 x PoE+ + 1 x SFP, unmanaged - STI-144GP - $34.1. English datasheets; an Italian one-page summary I can prepare from your wording.
 

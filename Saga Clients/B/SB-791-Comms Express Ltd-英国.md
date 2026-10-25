@@ -36,7 +36,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 电商 switch 位 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 GE + 4×10G STC-424XGGM（$127.4）、工业 8 GE + 2 SFP STI-280GE（$46.6）；光纤配件 Saga 不供；换人再触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-12-02 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-10-07 $180（24 Port PoE Managed Switch = STC-424XGGPM-280W，Alan 2026-09-21 起的现价轮）——同款信稿只能写 $180；群发里他已看到的价（续）：2026-08-27 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-03-07 $240（24 Port Fiber Switch）、2025-10-02 $280（10G Enterprise SFP Switch）、2026-06-11 $16000（32 Port 400GB DC Switch）
 - **第一问（只问一个）**：Justin, for the switch category at Comms Express, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+, 24-GE + 4×10G and DIN-rail industrial units from small lots, CE/RoHS/UKCA, EXW USD — is there an own-label or budget switch position you would consider listing? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
-- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封（第 75 批(y) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封（第 75 批(y) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -47,7 +47,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：电商 switch 位 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 GE + 4×10G STC-424XGGM（$127.4）、工业 8 GE + 2 SFP STI-280GE（$46.6）；光纤配件 Saga 不供
 - **断点 / 为什么停在这里**：电商平台（品牌导向、上架流程）；官网 http_error（快照）；18 次无回复 → 改向 MD 具名首触
 - **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，换人再触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-12-02 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-10-07 $180（24 Port PoE Managed Switch = STC-424XGGPM-280W，Alan 2026-09-21 起的现价轮）——同款信稿只能写 $180；群发里他已看到的价（续）：2026-08-27 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-03-07 $240（24 Port Fiber Switch）、2025-10-02 $280（10G Enterprise SFP Switch）、2026-06-11 $16000（32 Port 400GB DC Switch））——电商 switch 位 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 GE + 4×10G STC-424XGGM（$127.4）、工业 8 GE + 2 SFP STI-280GE（$46.6）；光纤配件 Saga 不供
-- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封（第 75 批(y) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封（第 75 批(y) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
   - 第一问（只问一个）：Justin, for the switch category at Comms Express, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+, 24-GE + 4×10G and DIN-rail industrial units from small lots, CE/RoHS/UKCA, EXW USD — is there an own-label or budget switch position you would consider listing? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -265,7 +265,7 @@ updated: 2026-10-25
 ```text
 Hi Justin,
 
-Over the past months you had a few product mails from us - most recently "Industrial PoE Switch" on 7 October 2026 - and there was no reason to answer a mass mail. This one is specific.
+Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 7 October 2026 - and there was no reason to answer a mass mail. This one is specific.
 
 For the switch category at Comms Express, neutral-brand units at distributor price, EXW, MOQ 1, 15-day validity, CE/RoHS/UKCA: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based - model STC-28DGGPM - $80.7 USD; 24 x Gigabit + 4 x 10G SFP+, L2+ managed, non-PoE - STC-424XGGM - $127.4; DIN-rail industrial 8 x Gigabit + 2 x SFP, unmanaged - STI-280GE - $46. Fibre accessories stay with your current suppliers - we do not carry them.
 

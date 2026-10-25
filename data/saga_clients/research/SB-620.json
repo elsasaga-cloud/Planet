@@ -98,7 +98,7 @@
     "next_move": {
       "when": "2026-11",
       "channel": "A 邮箱 → jskim@solway.co.kr",
-      "action": "首封前知悉：Elsa 仅 2025-02-12 单发过 1 封「Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；补价",
+      "action": "首封前知悉：Elsa 仅 2025-02-12 单发过 1 封「Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；补价（第 76 批(c) 2026-10-25：audit_ab 软项修正：署名「Alan Yan」→「Alan」（A 箱实际署名））",
       "one_question": "What volume would copper bypass need, and in which form — built-in or a separate 1U module?"
     },
     "facts": [
@@ -131,7 +131,7 @@
     "proof_gaps": [],
     "draft_en": {
       "subject": "Re: OEM Core Switching Solution — bypass pricing follow-up",
-      "body": "Jinsoo-nim,\n\nIn February I quoted the optical-bypass managed industrial switch at USD 280 and confirmed we have no copper bypass today. Two updates:\n\n1. Current list for the 1-channel optical-bypass unit is USD 225.4 EXW and the 2-channel unit USD 283.7 EXW (snapshot 2026-10-17, valid 15 days).\n2. Copper bypass can be developed if there is a quantity behind it — what volume would your project need, and in which form (built into the switch, or a separate 1U module)?\n\nAlan Yan\nSaga Telecom"
+      "body": "Jinsoo-nim,\n\nIn February I quoted the optical-bypass managed industrial switch at USD 280 and confirmed we have no copper bypass today. Two updates:\n\n1. Current list for the 1-channel optical-bypass unit is USD 225.4 EXW and the 2-channel unit USD 283.7 EXW (snapshot 2026-10-17, valid 15 days).\n2. Copper bypass can be developed if there is a quantity behind it — what volume would your project need, and in which form (built into the switch, or a separate 1U module)?\n\nAlan\nSaga Telecom - sagatele.com"
     },
     "as_of": "2026-10-24"
   }

@@ -103,10 +103,35 @@
   "next_move": {
    "when": "不动",
    "channel": "—",
-   "action": "—",
+   "action": "—（第 76 批(c) 2026-10-25：0 事实户补时间线事实）",
    "one_question": ""
   },
-  "facts": [],
+  "facts": [
+   {
+    "date": "2025-02-25",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "48 Port PoE Managed Switch",
+    "why": "首封去信（邮箱索引；去信共 16 封）",
+    "k": "6bf705ae3a7e50ae"
+   },
+   {
+    "date": "2026-09-24",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "Managed PoE Switches",
+    "why": "最近一封去信（邮箱索引；去信共 16 封）",
+    "k": "5398e64f32a2fe4c"
+   },
+   {
+    "date": "2026-09-24",
+    "dir": "来",
+    "who": "nf@comtime-com.de",
+    "quote": "Urlaub｜\"\"Ich bin zur Zeit nicht im Büro. Ihre mails werden gelesen und bearbeitet.\"  \"",
+    "why": "来信（邮箱索引；原文见 k）",
+    "k": "039b5332d630ba22"
+   }
+  ],
   "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-24"

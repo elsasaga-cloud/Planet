@@ -235,7 +235,7 @@
   "next_move": {
    "when": "2026-11 下旬（上次 2026-07-06，按 3–6 个月节奏）",
    "channel": "WhatsApp（Elsa 开 PI）",
-   "action": "问下一批 STI-21616GP 数量；顺带告知 AC5 版本已替代 AC3（STI-21616GP 为非管理不受影响，但 STI-42424DGGPM 管理型走 AC5）",
+   "action": "问下一批 STI-21616GP 数量；顺带告知 AC5 版本已替代 AC3（STI-21616GP 为非管理不受影响，但 STI-42424DGGPM 管理型走 AC5）（第 76 批(b) 2026-10-25：audit_ab 硬错误修正：tier 字段规范为数字）",
    "one_question": "Khun Peeranun, when is the next STI-21616GP batch — still 2–3 pcs, or a bigger project this time? (Managed models now ship on the AC5 platform; unmanaged STI-21616GP unchanged.)"
   },
   "draft_en": {
@@ -244,9 +244,9 @@
   },
   "saga_now": {
    "p1": "STI-21616GP（主力复购，¥1,050）；STI-42424DGGPM（汇聚，¥2,200）；Realtek 10G 桌面/光纤小机（STC-15XGDGE ¥238 / STC-80XGO ¥539 / STC-108XGDGP ¥413 / STC-18XGDGPW ¥462）",
-   "tier": "RMB 货代走账（不走 USD 三档）",
+   "tier": null,
    "price": "绑定价（人民币，三年没动）：STI-21616GP ¥1,050（进 ¥952 → 9.3%，含运费 8.4%）；STI-21616DGGPM ¥1,460（进 ¥1,272 → 12.9%）；STI-42424DGGPM ¥2,200（进 ¥1,912 → 13.1%）；-U ¥2,400（进 ¥2,100 → 12.5%）；Realtek 10G 线 ≈16–17%。下一批按原价不动（Simon U28 绑定价）；若要回到底线：STI-21616GP Marvell 25% → ¥1,269——Simon 的决定，信里不提",
-   "why": "6 单、三年、两条供应线都买过；WhatsApp 直达；小额高频、毛利最薄",
+   "why": "6 单、三年、两条供应线都买过；WhatsApp 直达；小额高频、毛利最薄｜档位说明（原 tier 字段文字「RMB 货代走账（不走 USD 三档）」移此）：RMB 货代走账（不走 USD 三档）",
    "repeat": [
     "STI-21616GP：2025-01 ×2 / 2025-08 ×2 / 2026-07 ×3",
     "Realtek 10G 小机：2024-10 样机 21 台 → 2025-09 复购 18 台"

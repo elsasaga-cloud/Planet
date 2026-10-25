@@ -38,7 +38,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — 已打开的主题（3/27 封有打开记录）：「24 port poe switch」(2024-07-04)、「PoE switch」(2024-08-06)、「8 Port Industrial PoE Switch」(2025-04-01) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-06 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-24 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
-- **下一步**：不动 — —
+- **下一步**：不动 — —（第 76 批(c) 2026-10-25：0 事实户补时间线事实）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -50,7 +50,16 @@ updated: 2026-10-25
 - **断点 / 为什么停在这里**：—
 - **Saga 现在该推什么**：P1 **—**（20% 档，—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-06 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-24 $280（10G Enterprise SFP Switch））——已打开的主题（3/27 封有打开记录）：「24 port poe switch」(2024-07-04)、「PoE switch」(2024-08-06)、「8 Port Industrial PoE Switch」(2025-04-01) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续
   - 做不了 / 要先核的：采购邮箱
-- **下一步（具体）**：不动　—　—
+- **下一步（具体）**：不动　—　—（第 76 批(c) 2026-10-25：0 事实户补时间线事实）
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2024-07-04 | 去 | S 箱（Simon） | 24 port poe switch | 首封去信（邮箱索引；去信共 27 封） | `455bdd68f9c0f2ef` |
+| 2026-08-31 | 去 | A 箱（Alan） | 24 Port PoE Managed Switch | 最近一封去信（邮箱索引；去信共 27 封） | `9fceab76406d21da` |
+| 2024-05-10 | 来 | customerservice@nellyssecurity.com | How would you rate the support you received here at Nelly's?｜##- Please type your reply above this line -##    Hi Simon,    We would love to hear from you regarding the customer sup | 自动工单回执 / 满意度调查（机器，不算人工回复） | `742436a1c91614a5` |
+| 2024-06-04 | 来 | customerservice@nellyssecurity.com | How would you rate the support you received here at Nelly's?｜##- Please type your reply above this line -##    Hi Simon,    We would love to hear from you regarding the customer sup | 自动工单回执 / 满意度调查（机器，不算人工回复） | `9ac616b1e77c6c7c` |
+| 2024-07-04 | 来 | customerservice@nellyssecurity.com | [Request received] 24 port poe switch｜##- Please type your reply above this line -##  Your request (252114) has been received and is being reviewed by our sup | 自动工单回执 / 满意度调查（机器，不算人工回复） | `a8425797c1332005` |
+| 2024-07-08 | 来 | customerservice@nellyssecurity.com | How would you rate the support you received here at Nelly's?｜##- Please type your reply above this line -##    Hi Simon,    We would love to hear from you regarding the customer sup | 自动工单回执 / 满意度调查（机器，不算人工回复） | `3b93d5d7d4f8b5f8` |
 
 ## 基本事实（事实/推断/假设分层）
 

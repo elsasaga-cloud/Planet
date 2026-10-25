@@ -85,16 +85,16 @@
     "breakpoint": "「I'll leave you with some feedback」之后没人追问；我们的下一封是 16 口 DIN PoE——话题断了。",
     "saga_now": {
       "p1": "STH-8C48DX-HSI（48×25G + 8×100G，$4,800 EXW）/ STH25G 系列（已发 pptx）",
-      "tier": "集成商 25%",
+      "tier": 25,
       "price": "CENTEC 2026 Q2：8C48DX $4,800 / 2C6QX $1,200 / 32C $6,000 EXW",
-      "why": "已发资料（勿重发）：STI-488XGGPM2B-2BT.pdf + Optical Bypass Switch.jpg(2025-05-31)、PeakNetX V3.1 / Function List V2.4 / STH25G(2026-01-20)、16 port PoE.png(2026-09-09)；下一封只接 DC 话题",
+      "why": "已发资料（勿重发）：STI-488XGGPM2B-2BT.pdf + Optical Bypass Switch.jpg(2025-05-31)、PeakNetX V3.1 / Function List V2.4 / STH25G(2026-01-20)、16 port PoE.png(2026-09-09)；下一封只接 DC 话题｜档位说明（原 tier 字段文字「集成商 25%」移此）：集成商 25%",
       "repeat": "集成商：项目制，成一单可带下一单",
       "gaps": "DC 客户是谁/规模；是否已选型；他要的「feedback」是价格还是技术"
     },
     "next_move": {
       "when": "2026-11",
       "channel": "A 邮箱 → gerencia@conexionderedes.com（回 2026-01-20 原线程「OEM Core Switching Solution」）",
-      "action": "一句话接回 DC 话题：问那个数据中心客户的反馈/是否已定，顺带给 8C48DX 的 EXW 价作锚；不推 PoE",
+      "action": "一句话接回 DC 话题：问那个数据中心客户的反馈/是否已定，顺带给 8C48DX 的 EXW 价作锚；不推 PoE（第 76 批(b) 2026-10-25：audit_ab 硬错误修正：tier 字段规范为数字）",
       "one_question": "Antonio — in January you were taking the CENTEC material to a data-center client and promised some feedback: did they decide, and if the 25G/100G core is still open, would a 48×25G + 8×100G unit at $4,800 EXW be in their range?"
     },
     "facts": [

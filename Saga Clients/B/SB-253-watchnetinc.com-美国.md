@@ -36,7 +36,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 自有 POESW 系列（现 Utepo）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 WatchNET 标；16 口位 HRUI STC-2216GPM（列表价，注明）；24 口 STC-424DGGPM-280W（$145.7）。已打开的主题（1/37 封有打开记录）：「10G Enterprise SFP Switch」(2025-10-07) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续；换人再触锚价 STC-28DGGPM $87.4 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-06-25 $65（10G fiber media converter）、2024-07-15 $65（10G media converter）、2024-08-18 $300（PoE managed switch）、2024-12-26 $240（24 Port Fiber Switch）、2025-01-08 $65（10G Media Converter）；群发里他已看到的价（续）：2026-07-23 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-04-07 $300（48 Port PoE Managed Switch）、2025-10-07 $280（10G Enterprise SFP Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-10-07 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2025-10-07；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-08-03 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-03；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：Harish, for the POESW-series switches that ship with your NVR and camera systems, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 16/24-PoE + 4 SFP, FCC/CE/RoHS) from small lots in your packaging — which model do your dealers reorder most? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 首封前知悉：Elsa 已 1:1 去信 11 轮（2025-05-06→2026-09-14，0 回）（第 74 批(m)）；换收件人再发一封（第 75 批(t) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用；具名 KP 见 channel）；STC-2216GPM 为 HRUI 线 30% 档）
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 首封前知悉：Elsa 已 1:1 去信 11 轮（2025-05-06→2026-09-14，0 回）（第 74 批(m)）；换收件人再发一封（第 75 批(t) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用；具名 KP 见 channel）；STC-2216GPM 为 HRUI 线 30% 档）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -47,7 +47,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：自有 POESW 系列（现 Utepo）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 WatchNET 标；16 口位 HRUI STC-2216GPM（列表价，注明）；24 口 STC-424DGGPM-280W（$145.7）
 - **断点 / 为什么停在这里**：国别待核：WatchNET 总部在加拿大安大略（表内美国）；现供 Utepo（深圳）价格基准低
 - **Saga 现在该推什么**：P1 **STC-28DGGPM**（30% 档，换人再触锚价 STC-28DGGPM $87.4 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-06-25 $65（10G fiber media converter）、2024-07-15 $65（10G media converter）、2024-08-18 $300（PoE managed switch）、2024-12-26 $240（24 Port Fiber Switch）、2025-01-08 $65（10G Media Converter）；群发里他已看到的价（续）：2026-07-23 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-04-07 $300（48 Port PoE Managed Switch）、2025-10-07 $280（10G Enterprise SFP Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-10-07 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2025-10-07；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-08-03 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-03；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170））——自有 POESW 系列（现 Utepo）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 WatchNET 标；16 口位 HRUI STC-2216GPM（列表价，注明）；24 口 STC-424DGGPM-280W（$145.7）。已打开的主题（1/37 封有打开记录）：「10G Enterprise SFP Switch」(2025-10-07) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续
-- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　首封前知悉：Elsa 已 1:1 去信 11 轮（2025-05-06→2026-09-14，0 回）（第 74 批(m)）；换收件人再发一封（第 75 批(t) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用；具名 KP 见 channel）；STC-2216GPM 为 HRUI 线 30% 档）
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　首封前知悉：Elsa 已 1:1 去信 11 轮（2025-05-06→2026-09-14，0 回）（第 74 批(m)）；换收件人再发一封（第 75 批(t) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用；具名 KP 见 channel）；STC-2216GPM 为 HRUI 线 30% 档）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
   - 第一问（只问一个）：Harish, for the POESW-series switches that ship with your NVR and camera systems, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 16/24-PoE + 4 SFP, FCC/CE/RoHS) from small lots in your packaging — which model do your dealers reorder most? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -66,6 +66,7 @@ updated: 2026-10-25
 | 2026-09-14 | out | Elsa → info@watchnetinc.com | 16 Port Industrial PoE Switch（Elsa 2026 年 1:1 名单重发；To 仅本户） | 本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 | 2026-09-18 | 去 | A/S 群发 | Industrial PoE Switch、8 Port Industrial PoE Switch | 37 封 / 1 次打开 / 0 回｜首封 2024-06-19 → 末封 2026-09-18（37 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | Utepo；网站：主要是商业POE switch；主要是CCTV 商业PoE Utepo的 | 表内备注 | `用户表` |
+| 2026-09-18 | 去 | A 箱（Alan） | 16 Port Industrial PoE Switch | 本日去信真实主题（邮箱索引 ad639c1da9f684ca；信稿开头句引用此封；此前稿内写的「Industrial PoE Switch」是线程列表首题，不是本封） | `ad639c1da9f684ca` |
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -311,7 +312,7 @@ updated: 2026-10-25
 ```text
 Hi Harish,
 
-Over the past months you had a steady stream of product mails from us - most recently "Industrial PoE Switch" on 18 September 2026 - and there was no reason to answer a mass mail. This one is specific.
+Over the past months you had a steady stream of product mails from us - most recently "16 Port Industrial PoE Switch" on 18 September 2026 - and there was no reason to answer a mass mail. This one is specific.
 
 Your POESW04R3 / 08R3 / 16R3 are Utepo-built and you are happy with them - this is about a second source, not a replacement. In WatchNET packaging from small lots, FCC/CE/RoHS: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based - model STC-28DGGPM - $87.4 USD EXW with your logo (MOQ 1, 15-day validity); 16 x Gigabit PoE+ + 2 x SFP, L2 managed - STC-2216GPM - $153.5; 24 x PoE+ (280 W) + 4 x SFP, L2+ managed - STC-424DGGPM-280W - $145.7.
 

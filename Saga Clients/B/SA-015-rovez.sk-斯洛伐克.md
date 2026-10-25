@@ -39,7 +39,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — Avigilon 安装商：STC-28DGGPM（8 PoE+ 30W 全口 + 2 SFP）/ STC-424DGGPM-280W；户外柜 STI-288DGGPM；集成商 25% 档；换人再触锚价 STC-28DGGPM $84.1 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-11 $65（10G Media Converter）、2024-12-16 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-09-02 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-06 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：For Avigilon PTZ and multisensor heads the per-port 30 W budget matters; the Marvell-based 8- and 24-port PoE+ managed switches hold full 802.3at on every port, EXW, and I can send the test report from the sample batch. Reference: STC-28DGGPM at $84.1 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封（第 75 批(al) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；24 口 280 W 不写「全口 30 W」；不承诺测试报告）
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封（第 75 批(al) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；24 口 280 W 不写「全口 30 W」；不承诺测试报告）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -50,12 +50,13 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：Avigilon 安装商：STC-28DGGPM（8 PoE+ 30W 全口 + 2 SFP）/ STC-424DGGPM-280W；户外柜 STI-288DGGPM；集成商 25% 档
 - **断点 / 为什么停在这里**：无回复
 - **Saga 现在该推什么**：P1 **STC-28DGGPM**（25% 档，换人再触锚价 STC-28DGGPM $84.1 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-11 $65（10G Media Converter）、2024-12-16 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-09-02 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-06 $280（10G Enterprise SFP Switch））——Avigilon 安装商：STC-28DGGPM（8 PoE+ 30W 全口 + 2 SFP）/ STC-424DGGPM-280W；户外柜 STI-288DGGPM；集成商 25% 档
-- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封（第 75 批(al) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；24 口 280 W 不写「全口 30 W」；不承诺测试报告）
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封（第 75 批(al) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；24 口 280 W 不写「全口 30 W」；不承诺测试报告）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
   - 第一问（只问一个）：For Avigilon PTZ and multisensor heads the per-port 30 W budget matters; the Marvell-based 8- and 24-port PoE+ managed switches hold full 802.3at on every port, EXW, and I can send the test report from the sample batch. Reference: STC-28DGGPM at $84.1 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-09-02 | 去 | A/S 群发 | Industrial PoE Switch、10G L3 Managed Switch | 21 封 / 0 次打开 / 0 回｜首封 2024-06-25 → 末封 2026-09-02（21 去 / 0 来） | `gmail_digest` |
+| 2026-09-02 | 去 | A 箱（Alan） | 24 Port PoE Managed Switch | 本日去信真实主题（邮箱索引 78decccee9a1c9ab；信稿开头句引用此封；此前稿内写的「Industrial PoE Switch」是线程列表首题，不是本封） | `78decccee9a1c9ab` |
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -279,7 +280,7 @@ updated: 2026-10-25
 ```text
 Hello Rovez team,
 
-Over the past months you had a few product mails from us - most recently "Industrial PoE Switch" on 2 September 2026 - and there was no reason to answer a mass mail. This one is specific.
+Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 2 September 2026 - and there was no reason to answer a mass mail. This one is specific.
 
 You took a sample of our industrial PoE switch after the show; this is the follow-on for the Avigilon sites, where the per-port budget matters. EXW, MOQ 1, 15-day validity, CE/RoHS: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based, 30 W (802.3at) per port - model STC-28DGGPM - $84.1 USD; 24 x PoE+ + 4 x SFP, L2+ managed - STC-424DGGPM-280W - $140.1 - the budget is 280 W total, so plan PTZ heads against it rather than assuming 30 W on all 24; for outdoor cabinets, DIN-rail 8 x PoE+ + 2 x SFP with ring redundancy - STI-288DGGPM - $137.5.
 

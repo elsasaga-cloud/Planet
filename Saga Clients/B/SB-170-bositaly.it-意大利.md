@@ -38,7 +38,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GP — 对位 Hasivo 工业 2 光 8 PoE → STI-288GP（$57.4 @20%）。；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-11 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2024-06-28 $65（10G Media Converter）、2025-03-06 $240（24 Port Fiber Switch）、2025-10-16 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Buongiorno — beside the Hasivo industrial switches: DIN 2-SFP + 8-PoE at $57 and Marvell managed at $79 EXW, CE/RoHS; shall I send a sample to Vicenza?
 - **最大未知**：年走量与现供应商
-- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封（第 75 批(ab) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用；英文稿，不混意大利语））
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封（第 75 批(ab) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用；英文稿，不混意大利语））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -49,13 +49,14 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：对位 Hasivo 工业 2 光 8 PoE → STI-288GP（$57.4 @20%）。
 - **断点 / 为什么停在这里**：13 次群发无回复；无具名
 - **Saga 现在该推什么**：P1 **STI-288GP**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-11 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2024-06-28 $65（10G Media Converter）、2025-03-06 $240（24 Port Fiber Switch）、2025-10-16 $280（10G Enterprise SFP Switch））——对位 Hasivo 工业 2 光 8 PoE → STI-288GP（$57.4 @20%）。
-- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封（第 75 批(ab) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用；英文稿，不混意大利语））
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封（第 75 批(ab) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用；英文稿，不混意大利语））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
   - 第一问（只问一个）：Buongiorno — beside the Hasivo industrial switches: DIN 2-SFP + 8-PoE at $57 and Marvell managed at $79 EXW, CE/RoHS; shall I send a sample to Vicenza?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-09-16 | 去 | A/S 群发 | Industrial PoE Switch、24 Port Fiber Switch | 22 封 / 0 次打开 / 0 回｜首封 2024-06-28 → 末封 2026-09-16（22 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 兴趣：工业FS Hasivo的 | 表内备注 | `用户表` |
+| 2026-09-16 | 去 | A 箱（Alan） | 16 Port Industrial PoE Switch | 本日去信真实主题（邮箱索引 e599db7ae211ede6；信稿开头句引用此封；此前稿内写的「Industrial PoE Switch」是线程列表首题，不是本封） | `e599db7ae211ede6` |
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -276,7 +277,7 @@ updated: 2026-10-25
 ```text
 Hello Bos Italy team,
 
-Over the past months you had a few product mails from us - most recently "Industrial PoE Switch" on 16 September 2026 - and there was no reason to answer a mass mail. This one is specific.
+Over the past months you had a few product mails from us - most recently "16 Port Industrial PoE Switch" on 16 September 2026 - and there was no reason to answer a mass mail. This one is specific.
 
 Beside the Hasivo industrial switches in your range, at distributor price, EXW, MOQ 1, 15-day validity, -40 to 75 C, CE/RoHS: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, unmanaged - model STI-288GP - $60 USD; the same L2 managed, Marvell-based - STI-288GPM - $78.9. Samples are paid at the same price and ship by courier.
 

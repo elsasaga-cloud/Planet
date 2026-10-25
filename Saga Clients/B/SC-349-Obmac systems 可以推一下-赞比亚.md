@@ -33,13 +33,13 @@ updated: 2026-10-25
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：赞比亚的系统集成/工程商；兴趣/在卖：主做项目的   VC VoIP optical networks
+- **是谁**：卢萨卡 ICT + 机电承包商 Obmac Systems（Pythias Kachepa，Gmail 私箱）：2024-01-17 一单 $9,350 / 265 件（STC-4248XGGCM ×15 @295 + STI-244GP ×50 @36 + 工业 SFP ×200 @7.5 + FedEx 1,600），PI 包「gg」；2026 起转向 11 MWp 光伏 EPC，网络设备为项目配套；之后 2025 年 9 封群发 0 回，Elsa 2026-09-14 单发 1 封未回。（调研 2026-10-22；表内兴趣：主做项目的   VC VoIP optical networks）
 - **为什么是 B 级**：**调研后定级 B**（PI 包成单客户（2024-01 一单 265 台 USD 9,350，Simon 成本表利润 RMB 23,118；Simon 标签 gg）→ 至少 B）；自动分级 C：+50 有成单/下单/买过记录（用户备注或跟进表）；-6 E 冷名单（按国家群发）；-15 兴趣只在 Saga 不做的品类（VC/光端机/DWDM/OTDR/CCTV/云管理等）；+0 仅免费邮箱；-6 区域 非洲/赞比亚；+5 最近活动 2025；-10 推送 8 次无任何回复（聋名单）
 - **历史互动**：成交/下单过；WhatsApp 已加；推送 8 次（2025-02-13 → 2025-10-10）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：不推；若其 ICT 项目再来，按 2024 清单复购 — 已成交一单大单｜毛利复盘：一单 34.5%，利润 23,118 RMB（机架设备 15 + 2光4工业 PoE 50 + 光模块 200）——全库第二大利润单，C 级只因无复购；按主表
 - **第一问（只问一个）**：Pythias — are the 2024 STC-4248XGGCM/STI-244GP units still in service, and does the 11 MWp solar EPC need ring-capable industrial switches for SCADA?
 - **最大未知**：公司网站（表内无域名，无法核实是否仍在运营）
-- **下一步**：2027-Q1 LinkedIn / WhatsApp（若有） 首封前知悉：Elsa 2026-09-14 单发过「16 Port Industrial PoE Switch」（未见回复（Elsa 箱 Replied 标签无））；一句话问 2024 那批设备的运行情况 + 光伏电站项目是否需要工业交换机（第 75 批(an) 2026-10-25：一句话稿已写 `draft_en`；成单户一问（LinkedIn/WhatsApp））
+- **下一步**：2027-Q1 LinkedIn / WhatsApp（若有） 首封前知悉：Elsa 2026-09-14 单发过「16 Port Industrial PoE Switch」（未见回复（Elsa 箱 Replied 标签无））；一句话问 2024 那批设备的运行情况 + 光伏电站项目是否需要工业交换机（第 75 批(an) 2026-10-25：一句话稿已写 `draft_en`；成单户一问（LinkedIn/WhatsApp））（第 76 批(c) 2026-10-25：audit_ab 软项修正：补 summary）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -52,7 +52,7 @@ updated: 2026-10-25
 - **Saga 现在该推什么**：P1 **不推；若其 ICT 项目再来，按 2024 清单复购**（25% 档，按主表）——已成交一单大单｜毛利复盘：一单 34.5%，利润 23,118 RMB（机架设备 15 + 2光4工业 PoE 50 + 光模块 200）——全库第二大利润单，C 级只因无复购
   - 复购/在买项：2024-01-17 唯一一单：265 台 $9,350（STC-4248XGGCM、STI-244GP、STI-SFP1G-SMD20-1310LC；Simon 利润 RMB 23,118；PI 复盘 #3——金额最大的单次 C 档客户，Simon 标 gg）
   - 做不了 / 要先核的：2024 设备运行反馈（从未问）
-- **下一步（具体）**：2027-Q1　LinkedIn / WhatsApp（若有）　首封前知悉：Elsa 2026-09-14 单发过「16 Port Industrial PoE Switch」（未见回复（Elsa 箱 Replied 标签无））；一句话问 2024 那批设备的运行情况 + 光伏电站项目是否需要工业交换机（第 75 批(an) 2026-10-25：一句话稿已写 `draft_en`；成单户一问（LinkedIn/WhatsApp））
+- **下一步（具体）**：2027-Q1　LinkedIn / WhatsApp（若有）　首封前知悉：Elsa 2026-09-14 单发过「16 Port Industrial PoE Switch」（未见回复（Elsa 箱 Replied 标签无））；一句话问 2024 那批设备的运行情况 + 光伏电站项目是否需要工业交换机（第 75 批(an) 2026-10-25：一句话稿已写 `draft_en`；成单户一问（LinkedIn/WhatsApp））（第 76 批(c) 2026-10-25：audit_ab 软项修正：补 summary）
   - 第一问（只问一个）：Pythias — are the 2024 STC-4248XGGCM/STI-244GP units still in service, and does the 11 MWp solar EPC need ring-capable industrial switches for SCADA?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -83,7 +83,7 @@ updated: 2026-10-25
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：已调研（2026-10-22）**　网站状态：
-- **是谁**：
+- **是谁**：卢萨卡 ICT + 机电承包商 Obmac Systems（Pythias Kachepa，Gmail 私箱）：2024-01-17 一单 $9,350 / 265 件（STC-4248XGGCM ×15 @295 + STI-244GP ×50 @36 + 工业 SFP ×200 @7.5 + FedEx 1,600），PI 包「gg」；2026 起转向 11 MWp 光伏 EPC，网络设备为项目配套；之后 2025 年 9 封群发 0 回，Elsa 2026-09-14 单发 1 封未回。
 - **【PI】成交单据 STSC20240117003（CI，2024-01-17）：STC-4248XGGCM、STI-244GP、STI-SFP1G-SMD20-1310LC 共 265 台，USD 9350.0；采购 HRUI、SmartByte RMB 33800.0；Simon 成本表利润 RMB 23118.35**
   > 来源：PI.zip:3  赞比亚 Pythias gg/CI.xls（抓取 2024-01-17）
 - **【PI】PI 包文件夹「赞比亚 Pythias gg」：Simon 标签 gg；单号 1 个，2024-01-17 → 2024-01-17，销售 USD 9350.0 / RMB 0，Simon 成本统计利润合计 RMB 23118.35**

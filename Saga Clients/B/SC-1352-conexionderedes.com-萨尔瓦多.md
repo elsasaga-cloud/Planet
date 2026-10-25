@@ -36,10 +36,10 @@ updated: 2026-10-25
 - **是谁**：A 邮箱 24 去 3 来；总经理 Antonio 三次真回：2025-05-28 要旁路交换机更多资料（给 STI-488XGGPM2B-2BT）；2026-01-19 对 CENTEC「OEM Core Switching Solution」说「Interesting solution. Please send the technical information so we can share it with our clients」→ Alan 01-20 发 PeakNetX V3.1 + Function List V2.4 + STH25G；01-20 回「Thank you for your support and for processing the information with the Data Center client. I'll leave you with some feedback」→ feedback 从未到；2026-09-09 推 16 口 DIN PoE 无回。（调研 2026-10-24；表内兴趣：AOA的工业FS 商业PoE SFP模块）
 - **为什么是 B 级**：**调研后定级 B**（总经理 3 次具名真回（2025-05、2026-01 ×2），有「Data Center client」在手并承诺反馈；自动 C 系无互动评分；按证据升 B（慢慢跟进，非主攻区）。）；自动分级 C：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-15 AI/Claude 评估 C；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-4 区域 拉美/萨尔瓦多；+5 最近活动 2025；-10 推送 13 次无任何回复（聋名单）
 - **历史互动**：推送 13 次（2024-07-04 → 2025-10-07）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STH-8C48DX-HSI（48×25G + 8×100G，$4,800 EXW）/ STH25G 系列（已发 pptx） — 已发资料（勿重发）：STI-488XGGPM2B-2BT.pdf + Optical Bypass Switch.jpg(2025-05-31)、PeakNetX V3.1 / Function List V2.4 / STH25G(2026-01-20)、16 port PoE.png(2026-09-09)；下一封只接 DC 话题；CENTEC 2026 Q2：8C48DX $4,800 / 2C6QX $1,200 / 32C $6,000 EXW
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STH-8C48DX-HSI（48×25G + 8×100G，$4,800 EXW）/ STH25G 系列（已发 pptx） — 已发资料（勿重发）：STI-488XGGPM2B-2BT.pdf + Optical Bypass Switch.jpg(2025-05-31)、PeakNetX V3.1 / Function List V2.4 / STH25G(2026-01-20)、16 port PoE.png(2026-09-09)；下一封只接 DC 话题｜档位说明（原 tier 字段文字「集成商 25%」移此）：集成商 25%；CENTEC 2026 Q2：8C48DX $4,800 / 2C6QX $1,200 / 32C $6,000 EXW
 - **第一问（只问一个）**：Antonio — in January you were taking the CENTEC material to a data-center client and promised some feedback: did they decide, and if the 25G/100G core is still open, would a 48×25G + 8×100G unit at $4,800 EXW be in their range?
 - **最大未知**：年走量与现供应商
-- **下一步**：2026-11 A 邮箱 → gerencia@conexionderedes.com（回 2026-01-20 原线程「OEM Core Switching Solution」） 一句话接回 DC 话题：问那个数据中心客户的反馈/是否已定，顺带给 8C48DX 的 EXW 价作锚；不推 PoE
+- **下一步**：2026-11 A 邮箱 → gerencia@conexionderedes.com（回 2026-01-20 原线程「OEM Core Switching Solution」） 一句话接回 DC 话题：问那个数据中心客户的反馈/是否已定，顺带给 8C48DX 的 EXW 价作锚；不推 PoE（第 76 批(b) 2026-10-25：audit_ab 硬错误修正：tier 字段规范为数字）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -49,10 +49,10 @@ updated: 2026-10-25
 - **现状一句话**：萨尔瓦多集成商总经理 Antonio 2026-01 把 CENTEC 资料（PeakNetX V3.1 / Function List V2.4 / STH25G）转给一个数据中心客户，承诺反馈后沉默；此后 Saga 只发了群发和一封不相关的 DIN PoE 推送。
 - **对方真实需求（有据）**：数据中心客户的核心/汇聚方案（CENTEC 25G/100G）；更早对光纤旁路机有兴趣。
 - **断点 / 为什么停在这里**：「I'll leave you with some feedback」之后没人追问；我们的下一封是 16 口 DIN PoE——话题断了。
-- **Saga 现在该推什么**：P1 **STH-8C48DX-HSI（48×25G + 8×100G，$4,800 EXW）/ STH25G 系列（已发 pptx）**（集成商 25%% 档，CENTEC 2026 Q2：8C48DX $4,800 / 2C6QX $1,200 / 32C $6,000 EXW）——已发资料（勿重发）：STI-488XGGPM2B-2BT.pdf + Optical Bypass Switch.jpg(2025-05-31)、PeakNetX V3.1 / Function List V2.4 / STH25G(2026-01-20)、16 port PoE.png(2026-09-09)；下一封只接 DC 话题
+- **Saga 现在该推什么**：P1 **STH-8C48DX-HSI（48×25G + 8×100G，$4,800 EXW）/ STH25G 系列（已发 pptx）**（25% 档，CENTEC 2026 Q2：8C48DX $4,800 / 2C6QX $1,200 / 32C $6,000 EXW）——已发资料（勿重发）：STI-488XGGPM2B-2BT.pdf + Optical Bypass Switch.jpg(2025-05-31)、PeakNetX V3.1 / Function List V2.4 / STH25G(2026-01-20)、16 port PoE.png(2026-09-09)；下一封只接 DC 话题｜档位说明（原 tier 字段文字「集成商 25%」移此）：集成商 25%
   - 复购/在买项：集；成；商；：；项；目；制；，；成；一；单；可；带；下；一；单
   - 做不了 / 要先核的：D；C； ；客；户；是；谁；/；规；模；；；是；否；已；选；型；；；他；要；的；「；f；e；e；d；b；a；c；k；」；是；价；格；还；是；技；术
-- **下一步（具体）**：2026-11　A 邮箱 → gerencia@conexionderedes.com（回 2026-01-20 原线程「OEM Core Switching Solution」）　一句话接回 DC 话题：问那个数据中心客户的反馈/是否已定，顺带给 8C48DX 的 EXW 价作锚；不推 PoE
+- **下一步（具体）**：2026-11　A 邮箱 → gerencia@conexionderedes.com（回 2026-01-20 原线程「OEM Core Switching Solution」）　一句话接回 DC 话题：问那个数据中心客户的反馈/是否已定，顺带给 8C48DX 的 EXW 价作锚；不推 PoE（第 76 批(b) 2026-10-25：audit_ab 硬错误修正：tier 字段规范为数字）
   - 第一问（只问一个）：Antonio — in January you were taking the CENTEC material to a data-center client and promised some feedback: did they decide, and if the 25G/100G core is still open, would a 48×25G + 8×100G unit at $4,800 EXW be in their range?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |

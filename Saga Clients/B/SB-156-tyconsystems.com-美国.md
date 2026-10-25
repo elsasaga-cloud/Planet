@@ -36,7 +36,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — 已打开的主题（3/28 封有打开记录）：「10G Ethernet Web Managed Switch」(2024-11-06)、「48 Port PoE Managed Switch」(2024-12-02)、「90W PoE Managed Switch」(2024-12-19) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-04 $65（10G media converter）；群发里他已看到的价（续）：2026-08-20 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-12-02 $300（48 Port PoE Managed Switch）、2025-10-03 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
-- **下一步**：不动 — —
+- **下一步**：不动 — —（第 76 批(c) 2026-10-25：0 事实户补时间线事实）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -47,7 +47,13 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：—
 - **断点 / 为什么停在这里**：—
 - **Saga 现在该推什么**：P1 **—**（30% 档，—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-04 $65（10G media converter）；群发里他已看到的价（续）：2026-08-20 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-12-02 $300（48 Port PoE Managed Switch）、2025-10-03 $280（10G Enterprise SFP Switch））——已打开的主题（3/28 封有打开记录）：「10G Ethernet Web Managed Switch」(2024-11-06)、「48 Port PoE Managed Switch」(2024-12-02)、「90W PoE Managed Switch」(2024-12-19) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续
-- **下一步（具体）**：不动　—　—
+- **下一步（具体）**：不动　—　—（第 76 批(c) 2026-10-25：0 事实户补时间线事实）
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2024-07-04 | 去 | S 箱（Simon） | 10G media converter | 首封去信（邮箱索引；去信共 28 封） | `4a25bf2c14223ec6` |
+| 2026-09-17 | 去 | A 箱（Alan） | 16 Port Industrial PoE Switch | 最近一封去信（邮箱索引；去信共 28 封） | `9bc0cb22b735b9b5` |
+| 2024-05-10 | 来 | sales@tyconsystems.com | Automatic reply: 5 port industrial switch｜Hello,  I am out of the office until Monday. We have received this email and will respond as soon as possible.  If you n | 自动回复/退信（机器，不算人工回复） | `7feaa342e0d73d83` |
 
 ## 基本事实（事实/推断/假设分层）
 

@@ -36,7 +36,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-110GE — 光缆系统配套有源 → 工业千兆 MC STI-110GE（$22.4 @20%）、工业 8 GE + 2 SFP STI-280GE（$46.6）、商用 24 GE + 4×10G STC-424XGGM（$127.4）。已打开的主题（1/34 封有打开记录）：「16 Port Ethernet Switch」(2024-12-18) → 读者兴趣偏「其他」；当前 P1 属「10G 汇聚/L3」，下一封按「其他」给，不按 P1；换人再触锚价 STI-110GE $26.5 EXW（最近实报 SA-001 2025-11-27 $26.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-23 $220（48 port managed switch）、2024-08-21 $65（Media Converter）；群发里他已看到的价（续）：2026-07-29 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-08-28 $240（24 Port Fiber Switch）、2025-10-01 $280（10G Enterprise SFP Switch）、2026-06-11 $16000（32 Port 400GB DC Switch）
 - **第一问（只问一个）**：For the active side of your fibre cabling systems, we supply neutral-brand gigabit MCs and DIN-rail 8-GE + 2 SFP units and Marvell-based 24-GE + 4×10G managed switches from single units, CE/RoHS, EXW USD; KC by your side — which active SKU do your cabling projects need most? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 首封前知悉：Elsa 仅 2025-02-28 单发过 1 封「Mini Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(ad) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用；KC stays on your side））
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 首封前知悉：Elsa 仅 2025-02-28 单发过 1 封「Mini Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(ad) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用；KC stays on your side））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -47,7 +47,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：光缆系统配套有源 → 工业千兆 MC STI-110GE（$22.4 @20%）、工业 8 GE + 2 SFP STI-280GE（$46.6）、商用 24 GE + 4×10G STC-424XGGM（$127.4）
 - **断点 / 为什么停在这里**：非主攻区（T5，韩国；KC 由客户侧）；官网快照乱码（业务待核）；23 次无回复，仅 unitel@
 - **Saga 现在该推什么**：P1 **STI-110GE**（20% 档，换人再触锚价 STI-110GE $26.5 EXW（最近实报 SA-001 2025-11-27 $26.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-23 $220（48 port managed switch）、2024-08-21 $65（Media Converter）；群发里他已看到的价（续）：2026-07-29 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-08-28 $240（24 Port Fiber Switch）、2025-10-01 $280（10G Enterprise SFP Switch）、2026-06-11 $16000（32 Port 400GB DC Switch））——光缆系统配套有源 → 工业千兆 MC STI-110GE（$22.4 @20%）、工业 8 GE + 2 SFP STI-280GE（$46.6）、商用 24 GE + 4×10G STC-424XGGM（$127.4）。已打开的主题（1/34 封有打开记录）：「16 Port Ethernet Switch」(2024-12-18) → 读者兴趣偏「其他」；当前 P1 属「10G 汇聚/L3」，下一封按「其他」给，不按 P1
-- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　首封前知悉：Elsa 仅 2025-02-28 单发过 1 封「Mini Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(ad) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用；KC stays on your side））
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　首封前知悉：Elsa 仅 2025-02-28 单发过 1 封「Mini Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(ad) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用；KC stays on your side））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
   - 第一问（只问一个）：For the active side of your fibre cabling systems, we supply neutral-brand gigabit MCs and DIN-rail 8-GE + 2 SFP units and Marvell-based 24-GE + 4×10G managed switches from single units, CE/RoHS, EXW USD; KC by your side — which active SKU do your cabling projects need most? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -55,6 +55,7 @@ updated: 2026-10-25
 | 2025-02-28 | out | Elsa → unitel@unitelco.co.kr | Mini Industrial PoE Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 | 2026-09-17 | 去 | A/S 群发 | Industrial PoE Switch、Marvell Industrial Alert System | 34 封 / 1 次打开 / 0 回｜首封 2024-06-21 → 末封 2026-09-17（34 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 看着很专业 像是光缆系统产品 也有switch 右图 | 表内备注 | `用户表` |
+| 2026-09-17 | 去 | A 箱（Alan） | 16 Port Industrial PoE Switch | 本日去信真实主题（邮箱索引 a8ecddf58d14e308；信稿开头句引用此封；此前稿内写的「Industrial PoE Switch」是线程列表首题，不是本封） | `a8ecddf58d14e308` |
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -269,7 +270,7 @@ updated: 2026-10-25
 ```text
 Hello Unitelco team,
 
-We wrote to you once in February 2025 about a mini industrial switch, and since then only general product mails - most recently "Industrial PoE Switch" on 17 September 2026 - none of which needed an answer. This one is specific.
+We wrote to you once in February 2025 about a mini industrial switch, and since then only general product mails - most recently "16 Port Industrial PoE Switch" on 17 September 2026 - none of which needed an answer. This one is specific.
 
 For the active side of your fibre cabling systems, neutral-brand units at distributor price, EXW, from single pieces, 15-day validity, CE/RoHS: industrial Gigabit media converter, 1 x RJ45 + 1 x SFP slot - model STI-110GE - $26.5 USD; DIN-rail 8 x Gigabit + 2 x SFP unmanaged, -40 to 75 C - STI-280GE - $46; 24 x Gigabit + 4 x 10G SFP+, L2+ managed, Marvell-based - STC-424XGGM - $127.4. KC stays on your side.
 

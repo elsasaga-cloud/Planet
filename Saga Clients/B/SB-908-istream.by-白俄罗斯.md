@@ -36,7 +36,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — CCTV 配套 PoE（现 DK100 系列）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；4 口位 HRUI STC-204GP（$20.4 列表价）；首触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：For the PoE switches you install with your camera and intercom systems, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port unmanaged PoE units from small lots, CE/RoHS, EXW USD — which size do your installations use most? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；具体需求型号（表内兴趣列为空）
-- **下一步**：待 Simon 排期（首封） A 邮箱 → info@istream.by（无具名 KP；公用地址） 首封：按 email_hook 一问（第 75 批(l) 2026-10-25：英文信稿已写 `draft_en`）
+- **下一步**：待 Simon 排期（首封） A 邮箱 → info@istream.by（无具名 KP；公用地址） 首封：按 email_hook 一问（第 75 批(l) 2026-10-25：英文信稿已写 `draft_en`）（第 76 批(c) 2026-10-25：0 事实户补时间线事实）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -47,8 +47,12 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：CCTV 配套 PoE（现 DK100 系列）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；4 口位 HRUI STC-204GP（$20.4 列表价）
 - **断点 / 为什么停在这里**：白俄罗斯：结算/物流受限，非主攻区（T5）；国别已更正（表内误填保加利亚）
 - **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，首触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit））——CCTV 配套 PoE（现 DK100 系列）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；4 口位 HRUI STC-204GP（$20.4 列表价）
-- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → info@istream.by（无具名 KP；公用地址）　首封：按 email_hook 一问（第 75 批(l) 2026-10-25：英文信稿已写 `draft_en`）
+- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → info@istream.by（无具名 KP；公用地址）　首封：按 email_hook 一问（第 75 批(l) 2026-10-25：英文信稿已写 `draft_en`）（第 76 批(c) 2026-10-25：0 事实户补时间线事实）
   - 第一问（只问一个）：For the PoE switches you install with your camera and intercom systems, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port unmanaged PoE units from small lots, CE/RoHS, EXW USD — which size do your installations use most? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity).
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 研 | 官网快照 | 官网标题：Купить видеонаблюдение по низким ценам от Айстрим Плюс；品类词 安防监控（CCTV / 门禁） / 光纤 / 媒体转换 / 网络交换 / PoE：Видеонаблюдение, контроль доступа, видеодомофоны, сигнализации - все от продажи до установки по лучшим ценам! | 无任何邮件往来；唯一证据为研究/用户表记录 | `https://istream.by/` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
 

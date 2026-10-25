@@ -112,7 +112,7 @@
     "next_move": {
       "when": "2027-Q1（换人后）",
       "channel": "A 邮箱 → 具名 KP",
-      "action": "首封前知悉：Elsa 仅 2025-02-17 单发过 1 封「90W PoE Managed Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(af) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））",
+      "action": "首封前知悉：Elsa 仅 2025-02-17 单发过 1 封「90W PoE Managed Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(af) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）",
       "one_question": "Stephane, for the industrial and managed switches sold under the Kyolis label next to your fibre/coax converters, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed, 24-PoE rack L2+, gigabit MC; CE/RoHS) from small lots in your housing — which switch model do your French integrators reorder most? Reference: STI-288GPM at $85.5 USD EXW (MOQ 1, 15-day validity)."
     },
     "facts": [
@@ -140,12 +140,20 @@
         "quote": "工业MC 工业FS SFP EOC 自己的logo",
         "why": "表内备注",
         "k": "用户表"
+      },
+      {
+        "date": "2026-09-21",
+        "dir": "去",
+        "who": "A 箱（Alan）",
+        "quote": "16 Port Industrial PoE Switch",
+        "why": "本日去信真实主题（邮箱索引 156ace4cf696e3a8；信稿开头句引用此封；此前稿内写的「Marvell Industrial Alert System」是线程列表首题，不是本封）",
+        "k": "156ace4cf696e3a8"
       }
     ],
     "proof_gaps": [],
     "draft_en": {
       "subject": "A second ODM source for the switches under the Kyolis label - next to your fibre/coax converters",
-      "body": "Hello Stephane,\n\nWe wrote to you once in February 2025 about a 90 W PoE managed switch, and since then only general product mails - most recently \"Marvell Industrial Alert System\" on 21 September 2026 - none of which needed an answer. This one is specific.\n\nYour fibre/coax video converters are your own design; for the industrial and managed switches sold under the Kyolis label next to them, a second ODM source in your housing from small lots, CE/RoHS: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, L2 managed, Marvell-based, -40 to 75 C - model STI-288GPM - $85.5 USD EXW (MOQ 1, 15-day validity); rack 24 x Gigabit PoE+ (280 W) + 4 x SFP, L2+ managed - STC-424DGGPM-280W - $145.7; Gigabit media converter, 1 x RJ45 + 1 x SFP - STI-110GE - $26.5. EoC and SFPs we do not carry.\n\nOne question: which switch model do your French integrators reorder most - that is the one worth a side-by-side?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+      "body": "Hello Stephane,\n\nWe wrote to you once in February 2025 about a 90 W PoE managed switch, and since then only general product mails - most recently \"16 Port Industrial PoE Switch\" on 21 September 2026 - none of which needed an answer. This one is specific.\n\nYour fibre/coax video converters are your own design; for the industrial and managed switches sold under the Kyolis label next to them, a second ODM source in your housing from small lots, CE/RoHS: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, L2 managed, Marvell-based, -40 to 75 C - model STI-288GPM - $85.5 USD EXW (MOQ 1, 15-day validity); rack 24 x Gigabit PoE+ (280 W) + 4 x SFP, L2+ managed - STC-424DGGPM-280W - $145.7; Gigabit media converter, 1 x RJ45 + 1 x SFP - STI-110GE - $26.5. EoC and SFPs we do not carry.\n\nOne question: which switch model do your French integrators reorder most - that is the one worth a side-by-side?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
     },
     "as_of": "2026-10-24"
   }

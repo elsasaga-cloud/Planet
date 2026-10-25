@@ -101,16 +101,16 @@
     "breakpoint": "我们问「数量」时没给价，他回客户拿不到数就断了；且 STH1G 仓内无价，Simon 得自己定一个区间才能重启。",
     "saga_now": {
       "p1": "STH-2QX4DX48GP-HSI（48×PoE++ 90W + 4×25G + 2×40G，双热插拔 1200W，堆叠 ≤8）；预算紧则 STH-2QX4DX48GP-SFI（PoE+ 30W，单电源）",
-      "tier": "OEM 30%（方案商 / 私标）——CENTEC 底线 ≥35% 并行",
+      "tier": 30,
       "price": "他见过的实价：STC-2224GFP-24V $90（2024-11-24 样品价）；仓内无 STH1G 价；CENTEC 线已有价仅 32C $6,000 / 2C6QX $1,200 / 8C48DX $4,800 EXW（2026 Q2）",
-      "why": "对外统一口径（#1）：接入 AC5 不堆叠；可堆叠 48 口 PoE 只能是 CENTEC STH1G（ST 许可，≤8 台）——这户是仓内把 STH1G 谈到参数层面的唯一客户｜已发资料（勿重发）：STH1G Series.pdf、Vastlake/STOS 链接（2026-03-11/12）",
+      "why": "对外统一口径（#1）：接入 AC5 不堆叠；可堆叠 48 口 PoE 只能是 CENTEC STH1G（ST 许可，≤8 台）——这户是仓内把 STH1G 谈到参数层面的唯一客户｜已发资料（勿重发）：STH1G Series.pdf、Vastlake/STOS 链接（2026-03-11/12）｜档位说明（原 tier 字段文字「OEM 30%（方案商 / 私标）——CENTEC 底线 ≥35% 并行」移此）：OEM 30%（方案商 / 私标）——CENTEC 底线 ≥35% 并行",
       "repeat": "若成，终端客户项目制；方案商可带下一个项目",
       "gaps": "国别/公司实体；终端客户是否已定；数量；STH1G 价"
     },
     "next_move": {
       "when": "2026-11",
       "channel": "A 邮箱 → arnoldomohr@gmail.com（回 2026-03-12 原线程「OEM Core Switching Solution」）",
-      "action": "一封对表信：STH-2QX4DX48GP-HSI 对 C9300L-48P-4X 四行对表（PoE 预算、上联、堆叠 8 台/360G、L3 特性），价格先给「按数量报」而不是空着——Simon 需先定 STH1G 的 EXW 区间（仓内无价）；只问一个问题：项目还在不在 + 数量级别",
+      "action": "一封对表信：STH-2QX4DX48GP-HSI 对 C9300L-48P-4X 四行对表（PoE 预算、上联、堆叠 8 台/360G、L3 特性），价格先给「按数量报」而不是空着——Simon 需先定 STH1G 的 EXW 区间（仓内无价）；只问一个问题：项目还在不在 + 数量级别（第 76 批(b) 2026-10-25：audit_ab 硬错误修正：tier 字段规范为数字）",
       "one_question": "Arnoldo — is the C9300L-48P-4X replacement still open, and roughly how many units (8-unit stacks × how many sites)? With that I can give you the EXW price for STH-2QX4DX48GP-HSI rather than a datasheet."
     },
     "facts": [

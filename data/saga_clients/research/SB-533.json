@@ -110,7 +110,7 @@
     "next_move": {
       "when": "2027-Q1（换人后）",
       "channel": "A 邮箱 → 具名 KP",
-      "action": "首封前知悉：Elsa 仅 2025-02-12 单发过 1 封「8 Port Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(af) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））",
+      "action": "首封前知悉：Elsa 仅 2025-02-12 单发过 1 封「8 Port Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(af) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）",
       "one_question": "Franck, for the Elfcam-branded switch pages (PoE and 10G), we build Marvell-based 24-GE + 4×10G SFP+ L2+ and 8-PoE + 2 SFP models under your label from small lots, CE/RoHS, neutral packing — which page needs a stronger-housing model first, the PoE or the 10G one? Reference: STC-424XGGM at $138 USD EXW (MOQ 1, 15-day validity)."
     },
     "facts": [
@@ -138,12 +138,20 @@
         "quote": "商业POE 外壳普遍一般",
         "why": "表内备注",
         "k": "用户表"
+      },
+      {
+        "date": "2026-09-22",
+        "dir": "去",
+        "who": "A 箱（Alan）",
+        "quote": "16 Port Industrial PoE Switch",
+        "why": "本日去信真实主题（邮箱索引 bfe296a8ccd4dfe9；信稿开头句引用此封；此前稿内写的「Marvell Industrial Alert System」是线程列表首题，不是本封）",
+        "k": "bfe296a8ccd4dfe9"
       }
     ],
     "proof_gaps": [],
     "draft_en": {
       "subject": "For the Elfcam switch pages - a stronger-housing model for PoE or for 10G first?",
-      "body": "Hello Franck,\n\nWe wrote to you once in February 2025 about an 8-port industrial PoE switch, and since then only general product mails - most recently \"Marvell Industrial Alert System\" on 22 September 2026 - none of which needed an answer. This one is specific.\n\nFor the Elfcam-branded switch pages, under your label from small lots, CE/RoHS, neutral packing: 24 x Gigabit + 4 x 10G SFP+, L2+ managed, Marvell-based, steel housing - model STC-424XGGM - $138.0 USD EXW (MOQ 1, 15-day validity); 8 x Gigabit PoE+ + 2 x SFP, L2+ managed - STC-28DGGPM - $87.4. Your own SFPs plug in as they are. A small 2.5G desktop switch we do not have as a standard model - said up front.\n\nOne question: which page needs a stronger-housing model first - the PoE page or the 10G one?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+      "body": "Hello Franck,\n\nWe wrote to you once in February 2025 about an 8-port industrial PoE switch, and since then only general product mails - most recently \"16 Port Industrial PoE Switch\" on 22 September 2026 - none of which needed an answer. This one is specific.\n\nFor the Elfcam-branded switch pages, under your label from small lots, CE/RoHS, neutral packing: 24 x Gigabit + 4 x 10G SFP+, L2+ managed, Marvell-based, steel housing - model STC-424XGGM - $138.0 USD EXW (MOQ 1, 15-day validity); 8 x Gigabit PoE+ + 2 x SFP, L2+ managed - STC-28DGGPM - $87.4. Your own SFPs plug in as they are. A small 2.5G desktop switch we do not have as a standard model - said up front.\n\nOne question: which page needs a stronger-housing model first - the PoE page or the 10G one?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
     },
     "as_of": "2026-10-24"
   }

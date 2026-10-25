@@ -117,10 +117,35 @@
   "next_move": {
    "when": "不动",
    "channel": "—",
-   "action": "—",
+   "action": "—（第 76 批(c) 2026-10-25：0 事实户补时间线事实）",
    "one_question": ""
   },
-  "facts": [],
+  "facts": [
+   {
+    "date": "2024-06-28",
+    "dir": "去",
+    "who": "S 箱（Simon）",
+    "quote": "5 port industrial switch",
+    "why": "首封去信（邮箱索引；去信共 20 封）",
+    "k": "a55e7b2056545155"
+   },
+   {
+    "date": "2026-09-16",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "16 Port Industrial PoE Switch",
+    "why": "最近一封去信（邮箱索引；去信共 20 封）",
+    "k": "d7c724f583498e71"
+   },
+   {
+    "date": "2026-09-16",
+    "dir": "来",
+    "who": "f.zordan@digimax.it",
+    "quote": "Risposta automatica: 16 Port Industrial PoE Switch｜Buongiorno, nelle giornate del 15/09/2026 e 16/09/2026 sarò assente e avrò un accesso limitato alla posta elettronica. S",
+    "why": "来信（邮箱索引；原文见 k）",
+    "k": "c1e244fa91a9d099"
+   }
+  ],
   "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-24"

@@ -36,7 +36,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — 已打开的主题（1/16 封有打开记录）：「Marvell Industrial Alert System」(2025-07-14) → 读者兴趣偏「工业」；与 P1 同类，继续；—；群发里他已看到的价（续）：2026-08-18 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-02-25 $300（48 Port PoE Managed Switch）、2025-10-06 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
-- **下一步**：不动 — —
+- **下一步**：不动 — —（第 76 批(c) 2026-10-25：0 事实户补时间线事实）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -47,7 +47,13 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：—
 - **断点 / 为什么停在这里**：—
 - **Saga 现在该推什么**：P1 **—**（30% 档，—；群发里他已看到的价（续）：2026-08-18 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-02-25 $300（48 Port PoE Managed Switch）、2025-10-06 $280（10G Enterprise SFP Switch））——已打开的主题（1/16 封有打开记录）：「Marvell Industrial Alert System」(2025-07-14) → 读者兴趣偏「工业」；与 P1 同类，继续
-- **下一步（具体）**：不动　—　—
+- **下一步（具体）**：不动　—　—（第 76 批(c) 2026-10-25：0 事实户补时间线事实）
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2025-02-25 | 去 | A 箱（Alan） | 48 Port PoE Managed Switch | 首封去信（邮箱索引；去信共 16 封） | `6bf705ae3a7e50ae` |
+| 2026-09-24 | 去 | A 箱（Alan） | Managed PoE Switches | 最近一封去信（邮箱索引；去信共 16 封） | `5398e64f32a2fe4c` |
+| 2026-09-24 | 来 | nf@comtime-com.de | Urlaub｜""Ich bin zur Zeit nicht im Büro. Ihre mails werden gelesen und bearbeitet."  " | 来信（邮箱索引；原文见 k） | `039b5332d630ba22` |
 
 ## 基本事实（事实/推断/假设分层）
 

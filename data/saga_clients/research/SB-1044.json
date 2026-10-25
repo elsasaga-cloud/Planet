@@ -123,10 +123,35 @@
   "next_move": {
    "when": "不动",
    "channel": "—",
-   "action": "—",
+   "action": "—（第 76 批(c) 2026-10-25：0 事实户补时间线事实）",
    "one_question": ""
   },
-  "facts": [],
+  "facts": [
+   {
+    "date": "2024-06-25",
+    "dir": "去",
+    "who": "S 箱（Simon）",
+    "quote": "10G media converter",
+    "why": "首封去信（邮箱索引；去信共 2 封）",
+    "k": "0c9a2ccdc3336015"
+   },
+   {
+    "date": "2024-07-29",
+    "dir": "去",
+    "who": "S 箱（Simon）",
+    "quote": "PoE managed switch",
+    "why": "最近一封去信（邮箱索引；去信共 2 封）",
+    "k": "c830e6dd7a076c37"
+   },
+   {
+    "date": "2025-03-06",
+    "dir": "来",
+    "who": "jbyoon@miraesignal.com",
+    "quote": "[미래시그널 ]_2025 SECON 보안엑스포 무료사전등록 초대장 안내의 건｜안녕하십니까.  귀사의 성장과 번영을 기원합니다.  미래시그널이 오는 3월 19일부터 3일간 개최되는 SECON 2025 보안전시회에 참가하게 되어 기쁜 마음으로 안내드립니다.   본 전시는 킨텍스 제1전시장 3홀~",
+    "why": "对方展会邀请群发（SECON 2025，营销群发，不算回复）",
+    "k": "a71ed91fdc4fc72f"
+   }
+  ],
   "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-24"

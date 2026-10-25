@@ -38,7 +38,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 商用 PoE（Marvell 芯片卖点）→ STC-28DGGPM（$87.4 @30%）贴 Deonet 标；工业 STI-288GPM。已打开的主题（5/34 封有打开记录）：「Managed Optical Bypass Switch」(2025-04-03)、「Marvell Alleycat5 Solution」(2025-04-22)、「Commercial Network Switch」(2025-06-24)、「Booster PoE Switch」(2025-11-03) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-03-04)、Product Link_2026Q3(2026-07-14)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）；首触锚价 STC-28DGGPM $87.4 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-29 $300（48 port managed switch）；群发里他已看到的价（续）：2026-09-01 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-01-28 $240（24 Port Fiber Switch）、2025-09-24 $280（10G Enterprise SFP Switch）、2025-10-15 $65（10G Media Converter）、2026-06-22 $16000（32 Port 400GB DC Switch）
 - **第一问（只问一个）**：Chris, you asked which chipset — our managed PoE line is Marvell (L2+), the industrial line Marvell/Realtek depending on model; if Deonet needs a labelled 8-PoE + 2-SFP under your SM- numbering, I can send the spec and a sample price. Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：2026-11 A 邮箱 → chris@deonet.co.kr 首封前知悉：Elsa 仅 2025-02-14 单发过 1 封「Industrial PoE Switch」，之后没再碰他（第 74 批(n)）；短信一问（email_hook）
+- **下一步**：2026-11 A 邮箱 → chris@deonet.co.kr 首封前知悉：Elsa 仅 2025-02-14 单发过 1 封「Industrial PoE Switch」，之后没再碰他（第 74 批(n)）；短信一问（email_hook）（第 76 批(c) 2026-10-25：一问改成问句）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -49,7 +49,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：商用 PoE（Marvell 芯片卖点）→ STC-28DGGPM（$87.4 @30%）贴 Deonet 标；工业 STI-288GPM。
 - **断点 / 为什么停在这里**：GPON/EPON 不供；韩国 KC；无回复
 - **Saga 现在该推什么**：P1 **STC-28DGGPM**（30% 档，首触锚价 STC-28DGGPM $87.4 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-29 $300（48 port managed switch）；群发里他已看到的价（续）：2026-09-01 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-01-28 $240（24 Port Fiber Switch）、2025-09-24 $280（10G Enterprise SFP Switch）、2025-10-15 $65（10G Media Converter）、2026-06-22 $16000（32 Port 400GB DC Switch））——商用 PoE（Marvell 芯片卖点）→ STC-28DGGPM（$87.4 @30%）贴 Deonet 标；工业 STI-288GPM。已打开的主题（5/34 封有打开记录）：「Managed Optical Bypass Switch」(2025-04-03)、「Marvell Alleycat5 Solution」(2025-04-22)、「Commercial Network Switch」(2025-06-24)、「Booster PoE Switch」(2025-11-03) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-03-04)、Product Link_2026Q3(2026-07-14)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）
-- **下一步（具体）**：2026-11　A 邮箱 → chris@deonet.co.kr　首封前知悉：Elsa 仅 2025-02-14 单发过 1 封「Industrial PoE Switch」，之后没再碰他（第 74 批(n)）；短信一问（email_hook）
+- **下一步（具体）**：2026-11　A 邮箱 → chris@deonet.co.kr　首封前知悉：Elsa 仅 2025-02-14 单发过 1 封「Industrial PoE Switch」，之后没再碰他（第 74 批(n)）；短信一问（email_hook）（第 76 批(c) 2026-10-25：一问改成问句）
   - 第一问（只问一个）：Chris, you asked which chipset — our managed PoE line is Marvell (L2+), the industrial line Marvell/Realtek depending on model; if Deonet needs a labelled 8-PoE + 2-SFP under your SM- numbering, I can send the spec and a sample price. Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -278,7 +278,7 @@ Hi Chris,
 
 We have sent you a few mails on "Marvell Alleycat5 Solution" and you never had a reason to answer — fair enough. No brochure this time, just one question:
 
-You asked which chipset — our managed PoE line is Marvell (L2+), the industrial line Marvell/Realtek depending on model; if Deonet needs a labelled 8-PoE + 2-SFP under your SM- numbering, I can send the spec and a sample price.
+You asked which chipset — our managed PoE line is Marvell (L2+); the industrial line is Marvell or Realtek depending on model. One question: does Deonet need a labelled 8-PoE + 2-SFP under your SM- numbering? If yes, I will send the spec and a sample price.
 
 Reference price: 8-PoE + 2 × 1G/2.5G SFP L2+ managed switch (Marvell AC5), 120 W (STC-28DGGPM) $87.4 USD EXW, MOQ 1 pc, 15-day validity, 1-year warranty.
 

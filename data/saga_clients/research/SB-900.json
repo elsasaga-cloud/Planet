@@ -100,10 +100,35 @@
   "next_move": {
    "when": "2026-12",
    "channel": "A 邮箱 → george.g@enssecurity.com（自动回复指明的代理人）",
-   "action": "换人（第 75 批(b) 2026-10-25：英文信稿已写 `draft_en`）",
+   "action": "换人（第 75 批(b) 2026-10-25：英文信稿已写 `draft_en`）（第 76 批(c) 2026-10-25：0 事实户补时间线事实）",
    "one_question": ""
   },
-  "facts": [],
+  "facts": [
+   {
+    "date": "2025-01-21",
+    "dir": "去",
+    "who": "S 箱（Simon）",
+    "quote": "Industrial PoE Switch",
+    "why": "首封去信（邮箱索引；去信共 32 封）",
+    "k": "5e6171f2fbf8e78e"
+   },
+   {
+    "date": "2026-09-08",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "16 Port Industrial PoE Switch",
+    "why": "最近一封去信（邮箱索引；去信共 32 封）",
+    "k": "9719b2a1ddc0fea6"
+   },
+   {
+    "date": "2025-02-25",
+    "dir": "来",
+    "who": "shawn.s@enssecurity.com",
+    "quote": "Out of the Office until Thursday, Feb 27th. Re: 90W PoE Managed Switch｜Good morning / afternoon,  I will be out of the office Tuesday Feb 25th and Wednesday Feb 26th, returning Thursday Feb 2",
+    "why": "来信（邮箱索引；原文见 k）",
+    "k": "c5720148018ed954"
+   }
+  ],
   "proof_gaps": [],
   "draft_en": {
    "subject": "ENS own-label PoE switches - second ODM source (Shawn's auto-reply pointed to you)",

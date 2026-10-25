@@ -109,7 +109,7 @@
     "next_move": {
       "when": "2026-11",
       "channel": "A 邮箱 → george@ltsecurityinc.com.au",
-      "action": "首封前知悉：Elsa 仅 2025-02-14 单发过 1 封「24 Port Fiber Switch」，之后没再碰他（第 74 批(m)）；短信一问（email_hook）",
+      "action": "首封前知悉：Elsa 仅 2025-02-14 单发过 1 封「24 Port Fiber Switch」，之后没再碰他（第 74 批(m)）；短信一问（email_hook）（第 76 批(c) 2026-10-25：audit_ab 软项修正：证书口径 CE/RoHS → CE/RoHS (RCM stays on your side)）",
       "one_question": "George, for the industrial PoE switches you carry under your own model numbers, we can be a second ODM source (DIN-rail 8-PoE + 2 SFP, −40~75 °C; managed versions on a Marvell platform) from small lots in your housing, CE/RoHS — would a sample against your current Utepo unit be useful? Reference: STI-288GP at $60 USD EXW (MOQ 1, 15-day validity)."
     },
     "facts": [
@@ -142,7 +142,7 @@
     "proof_gaps": [],
     "draft_en": {
       "subject": "One question — Marvell Industrial Alert System",
-      "body": "Hi George,\n\nWe have sent you a few mails on \"Marvell Industrial Alert System\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor the industrial PoE switches you carry under your own model numbers, we can be a second ODM source (DIN-rail 8-PoE + 2 SFP, −40~75 °C; managed versions on a Marvell platform) from small lots in your housing, CE/RoHS — would a sample against your current Utepo unit be useful?\n\nReference price: DIN-rail 8-PoE + 2 SFP unmanaged industrial switch, 240 W (STI-288GP) $60 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+      "body": "Hi George,\n\nWe have sent you a few mails on \"Marvell Industrial Alert System\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor the industrial PoE switches you carry under your own model numbers, we can be a second ODM source (DIN-rail 8-PoE + 2 SFP, −40~75 °C; managed versions on a Marvell platform) from small lots in your housing, CE/RoHS (RCM stays on your side) — would a sample against your current Utepo unit be useful?\n\nReference price: DIN-rail 8-PoE + 2 SFP unmanaged industrial switch, 240 W (STI-288GP) $60 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
     },
     "as_of": "2026-10-24"
   }

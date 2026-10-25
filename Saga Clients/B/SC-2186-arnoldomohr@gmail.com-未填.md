@@ -36,10 +36,10 @@ updated: 2026-10-25
 - **是谁**：A 邮箱 2025-04 起 8 轮群发；2026-01-15 对「OEM Core Switching Solution」真回：CENTEC「could be a great alternative in our market」，2 月有高端交换机项目；2026-03-10 带客户需求来：若干台 Cisco C9300L-48P-4X 等价物（48×1G PoE+ + 4×10G SFP+），要堆叠（StackWise-320，8 台 / 320 Gbps）；Alan 03-11 二选一（无堆叠→STC-448XGGPM；要堆叠→CENTEC STH-2QX4DX48GP-HSI，附 STH1G Series.pdf），03-12 给出堆叠参数（最多 8 台、360 Gbps、2×40G+4×25G 光口堆叠、链/环）并问数量 → 至今无回（7 个月）。（调研 2026-10-24；表内兴趣：—）
 - **为什么是 B 级**：**调研后定级 B**（5 封实质来信（2026-01 ×2、03 ×3），带终端客户具体型号（C9300L-48P-4X 等价 + 堆叠）进入 CENTEC STH1G 选型，停在「数量？」；gmail 地址导致自动 C，按证据升 B（慢慢跟进）。）；自动分级 C：+0 数据中心交换机线索（Hohunet/CENTEC 线）；+0 仅免费邮箱；-15 只有免费邮箱、无公司名无网站（个人买家特征）；-3 区域 未知/未填
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STH-2QX4DX48GP-HSI（48×PoE++ 90W + 4×25G + 2×40G，双热插拔 1200W，堆叠 ≤8）；预算紧则 STH-2QX4DX48GP-SFI（PoE+ 30W，单电源） — 对外统一口径（#1）：接入 AC5 不堆叠；可堆叠 48 口 PoE 只能是 CENTEC STH1G（ST 许可，≤8 台）——这户是仓内把 STH1G 谈到参数层面的唯一客户｜已发资料（勿重发）：STH1G Series.pdf、Vastlake/STOS 链接（2026-03-11/12）；他见过的实价：STC-2224GFP-24V $90（2024-11-24 样品价）；仓内无 STH1G 价；CENTEC 线已有价仅 32C $6,000 / 2C6QX $1,200 / 8C48DX $4,800 EXW（2026 Q2）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STH-2QX4DX48GP-HSI（48×PoE++ 90W + 4×25G + 2×40G，双热插拔 1200W，堆叠 ≤8）；预算紧则 STH-2QX4DX48GP-SFI（PoE+ 30W，单电源） — 对外统一口径（#1）：接入 AC5 不堆叠；可堆叠 48 口 PoE 只能是 CENTEC STH1G（ST 许可，≤8 台）——这户是仓内把 STH1G 谈到参数层面的唯一客户｜已发资料（勿重发）：STH1G Series.pdf、Vastlake/STOS 链接（2026-03-11/12）｜档位说明（原 tier 字段文字「OEM 30%（方案商 / 私标）——CENTEC 底线 ≥35% 并行」移此）：OEM 30%（方案商 / 私标）——CENTEC 底线 ≥35% 并行；他见过的实价：STC-2224GFP-24V $90（2024-11-24 样品价）；仓内无 STH1G 价；CENTEC 线已有价仅 32C $6,000 / 2C6QX $1,200 / 8C48DX $4,800 EXW（2026 Q2）
 - **第一问（只问一个）**：Arnoldo — is the C9300L-48P-4X replacement still open, and roughly how many units (8-unit stacks × how many sites)? With that I can give you the EXW price for STH-2QX4DX48GP-HSI rather than a datasheet.
 - **最大未知**：公司网站（表内无域名，无法核实是否仍在运营）；具体需求型号（表内兴趣列为空）
-- **下一步**：2026-11 A 邮箱 → arnoldomohr@gmail.com（回 2026-03-12 原线程「OEM Core Switching Solution」） 一封对表信：STH-2QX4DX48GP-HSI 对 C9300L-48P-4X 四行对表（PoE 预算、上联、堆叠 8 台/360G、L3 特性），价格先给「按数量报」而不是空着——Simon 需先定 STH1G 的 EXW 区间（仓内无价）；只问一个问题：项目还在不在 + 数量级别
+- **下一步**：2026-11 A 邮箱 → arnoldomohr@gmail.com（回 2026-03-12 原线程「OEM Core Switching Solution」） 一封对表信：STH-2QX4DX48GP-HSI 对 C9300L-48P-4X 四行对表（PoE 预算、上联、堆叠 8 台/360G、L3 特性），价格先给「按数量报」而不是空着——Simon 需先定 STH1G 的 EXW 区间（仓内无价）；只问一个问题：项目还在不在 + 数量级别（第 76 批(b) 2026-10-25：audit_ab 硬错误修正：tier 字段规范为数字）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -49,10 +49,10 @@ updated: 2026-10-25
 - **现状一句话**：方案商 Arnoldo（Solution Architect）2026-01 对 CENTEC 感兴趣，03-10 带来终端客户需求：若干台 Cisco C9300L-48P-4X 等价（48×1G PoE+ + 4×10G SFP+），03-11 明确要堆叠（8 台 / StackWise-320）。Alan 当天给出二选一，03-12 锁定 CENTEC STH-2QX4DX48GP-HSI 并给堆叠参数，问数量——此后无回。
 - **对方真实需求（有据）**：Cisco C9300L-48P-4X 的可堆叠等价物（48×PoE+ + 10G 上联，8 台堆叠），要价格和数量级别的对表。
 - **断点 / 为什么停在这里**：我们问「数量」时没给价，他回客户拿不到数就断了；且 STH1G 仓内无价，Simon 得自己定一个区间才能重启。
-- **Saga 现在该推什么**：P1 **STH-2QX4DX48GP-HSI（48×PoE++ 90W + 4×25G + 2×40G，双热插拔 1200W，堆叠 ≤8）；预算紧则 STH-2QX4DX48GP-SFI（PoE+ 30W，单电源）**（OEM 30%（方案商 / 私标）——CENTEC 底线 ≥35% 并行% 档，他见过的实价：STC-2224GFP-24V $90（2024-11-24 样品价）；仓内无 STH1G 价；CENTEC 线已有价仅 32C $6,000 / 2C6QX $1,200 / 8C48DX $4,800 EXW（2026 Q2））——对外统一口径（#1）：接入 AC5 不堆叠；可堆叠 48 口 PoE 只能是 CENTEC STH1G（ST 许可，≤8 台）——这户是仓内把 STH1G 谈到参数层面的唯一客户｜已发资料（勿重发）：STH1G Series.pdf、Vastlake/STOS 链接（2026-03-11/12）
+- **Saga 现在该推什么**：P1 **STH-2QX4DX48GP-HSI（48×PoE++ 90W + 4×25G + 2×40G，双热插拔 1200W，堆叠 ≤8）；预算紧则 STH-2QX4DX48GP-SFI（PoE+ 30W，单电源）**（30% 档，他见过的实价：STC-2224GFP-24V $90（2024-11-24 样品价）；仓内无 STH1G 价；CENTEC 线已有价仅 32C $6,000 / 2C6QX $1,200 / 8C48DX $4,800 EXW（2026 Q2））——对外统一口径（#1）：接入 AC5 不堆叠；可堆叠 48 口 PoE 只能是 CENTEC STH1G（ST 许可，≤8 台）——这户是仓内把 STH1G 谈到参数层面的唯一客户｜已发资料（勿重发）：STH1G Series.pdf、Vastlake/STOS 链接（2026-03-11/12）｜档位说明（原 tier 字段文字「OEM 30%（方案商 / 私标）——CENTEC 底线 ≥35% 并行」移此）：OEM 30%（方案商 / 私标）——CENTEC 底线 ≥35% 并行
   - 复购/在买项：若；成；，；终；端；客；户；项；目；制；；；方；案；商；可；带；下；一；个；项；目
   - 做不了 / 要先核的：国；别；/；公；司；实；体；；；终；端；客；户；是；否；已；定；；；数；量；；；S；T；H；1；G； ；价
-- **下一步（具体）**：2026-11　A 邮箱 → arnoldomohr@gmail.com（回 2026-03-12 原线程「OEM Core Switching Solution」）　一封对表信：STH-2QX4DX48GP-HSI 对 C9300L-48P-4X 四行对表（PoE 预算、上联、堆叠 8 台/360G、L3 特性），价格先给「按数量报」而不是空着——Simon 需先定 STH1G 的 EXW 区间（仓内无价）；只问一个问题：项目还在不在 + 数量级别
+- **下一步（具体）**：2026-11　A 邮箱 → arnoldomohr@gmail.com（回 2026-03-12 原线程「OEM Core Switching Solution」）　一封对表信：STH-2QX4DX48GP-HSI 对 C9300L-48P-4X 四行对表（PoE 预算、上联、堆叠 8 台/360G、L3 特性），价格先给「按数量报」而不是空着——Simon 需先定 STH1G 的 EXW 区间（仓内无价）；只问一个问题：项目还在不在 + 数量级别（第 76 批(b) 2026-10-25：audit_ab 硬错误修正：tier 字段规范为数字）
   - 第一问（只问一个）：Arnoldo — is the C9300L-48P-4X replacement still open, and roughly how many units (8-unit stacks × how many sites)? With that I can give you the EXW price for STH-2QX4DX48GP-HSI rather than a datasheet.
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
