@@ -1,179 +1,179 @@
 {
- "code": "SA-060",
- "name_official": "Securitytec Ltd（Coulsdon, Surrey, UK；Companies House 05585047）",
- "website_status": "在线",
- "summary": "伦敦南郊的 Hikvision 授权批发商（2005 年注册，3 名员工），面向安装商供应 CCTV/门禁/对讲/报警及配件，网店含 78 个网络产品、Ruijie Reyee 55 个、Utepo 3 个。用户表：Graham Smith（Director）；对 video over fiber 感兴趣、曾买 IP camera 样品；17 次推送 0 回复，WhatsApp 加不上。",
- "type": "安防批发商（小型）",
- "size": "3 人（2025 年报）",
- "brands_seen": [
-  "Hikvision",
-  "HiLook",
-  "Ruijie Reyee",
-  "Utepo",
-  "Pyronix",
-  "Ruijie-Reyee",
-  "EZVIZ",
-  "Uniview"
- ],
- "evidence": [
-  {
-   "kind": "第三方（Companies House 摘录）",
-   "claim": "规模与董事",
-   "quote": "SECURITYTEC LIMITED … Incorporated: 2005-10-06 · Employees: 3 (2025 accounts) … MR Graham David SMITH Director",
-   "url": "https://www.companiesintheuk.co.uk/ltd/securitytec-1",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "在售网络品类（含 Utepo）",
-   "quote": "Networking Products 78 item · Ruije Reyee Networks 55 item … Brand: Hikvision 404 item … Utepo 3 item",
-   "url": "https://www.securitytec.co.uk/our-products.html",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网网店",
-   "claim": "自有标 8 口千兆管理 PoE 交换机规格",
-   "quote": "8-Port Gigabit Managed PoE Switch with 2 x SFP Fiber uplinks … Total PoE power budget is up to 135W, single port power output max 30W … UTP3-GSW0802S-MTP150, the full Gigabit managed PoE switch … Product Code: NTP3-GSW0802S-MTP150",
-   "url": "https://www.securitytec.co.uk/product/8-port-gigabit-poe-switch/",
-   "date": "2021-07-21"
-  },
-  {
-   "kind": "官网网店",
-   "claim": "在售交换机品牌与价格",
-   "quote": "Ruijie-Reyee, 15 watt, 52v Gigabit PoE+ injector SKU: RG-POE-AF15 £16.00 … Ruijie-Reyee, 6 PORT 100Mbps UNMANAGED PoE SWITCH SKU: RG-ES106F-P Trade Customers Only … Hikvision Smart Managed 4-Port + 1-uplink 100Mbps PoE Switch SKU: DS-3E1105P-EI … 8-Port 100Mbps PoE Switch, 1x uplink, HILOOK BY HIKVISION SKU: NS-0109P-60(B) £44.00",
-   "url": "https://www.securitytec.co.uk/our-products/networking-products/network-switches.html",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "名录",
-   "claim": "地址与联系人",
-   "quote": "Mr Graham Smith Unit 2 Redlands Centre Redlands Coulsdon Surrey Croydon CR5 2HT … WE ARE A PROUD HIKVISION DISTRIBUTOR Securitytec Ltd are a UK based Hikvision Authorised Wholesaler",
-   "url": "https://www.construction.co.uk/c/633203/securitytec",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Graham Smith",
-   "role": "Director",
-   "email": "graham@securitytec.co.uk",
-   "phone": "+44 20 8660 5888",
-   "source": "https://www.securitytec.co.uk/contact"
-  },
-  {
-   "name": "Graham Smith",
-   "role": "联系人（construction.co.uk 公司名录公开）",
-   "email": "—（未公开）",
-   "phone": "—",
-   "source": "https://www.construction.co.uk/c/633203/securitytec"
-  }
- ],
- "grade_override": "B",
- "override_reason": "3 人微型批发商，17 次推送零回复，兴趣在 VC（Saga 不做）；保留 B 慢跟（Utepo 在售说明有 PoE 替代空间）。",
- "notes": "",
- "researched_at": "2026-10-21",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网网店目录核对）"
- },
- "company_facts": {
-  "legal_name": "Securitytec Ltd",
-  "hq": "Unit 2 Redlands Centre, Redlands, Coulsdon, Surrey CR5 2HT（M25 J7 内 10 分钟）",
-  "other": "英国 Hikvision 授权批发商（trade counter + DPD 次日达）；价格匹配 Hikvision / Pyronix / EZVIZ / HiLook；网店在售交换机：自有标 **NTP3-GSW0802S-MTP150**（8 GE 管理 PoE + 2 SFP，135W，描述残留「UTP3-」= Utepo 贴牌）、Ruijie-Reyee（RG-ES106F-P、RG-ES110FG-P、PoE 注入器 £16–17）、Hikvision DS-3E1105P-EI / DS-3E1106HP-EI、HiLook NS-0109P-60(B) £44；NVR 清仓 Uniview NVR301-08L-P8 £79"
- },
- "business_lines": [
-  "Hikvision / HiLook / Pyronix / EZVIZ 安防批发（安装商客户）",
-  "网络交换与 PoE 配件（Ruijie-Reyee、自有标 NTP3-）",
-  "门禁 / 对讲 / 报警"
- ],
- "products_seen": [
-  {
-   "brand": "Securitytec（自有标，Utepo 源）",
-   "model": "NTP3-GSW0802S-MTP150",
-   "spec": "8×GE PoE + 2×SFP，L2 管理，135W，30W/口，4M 缓存",
-   "url": "https://www.securitytec.co.uk/product/8-port-gigabit-poe-switch/",
-   "date": "2021-07-21",
-   "saga": "STC-28DGGPM（同口型 Marvell 替代）"
-  },
-  {
-   "brand": "Ruijie-Reyee",
-   "model": "RG-ES106F-P / RG-ES110FG-P",
-   "spec": "6/8 口百兆非管理 PoE（trade only）",
-   "url": "https://www.securitytec.co.uk/our-products/networking-products/network-switches.html",
-   "date": "2026-10-21",
-   "saga": "STC-28DGGPM（千兆升级）"
-  },
-  {
-   "brand": "HiLook",
-   "model": "NS-0109P-60(B)",
-   "spec": "8 口百兆 PoE + 1 上联，£44",
-   "url": "https://www.securitytec.co.uk/our-products/networking-products/network-switches.html",
-   "date": "2026-10-21",
-   "saga": "—（价位参照）"
-  }
- ],
- "channels": {
-  "网站/网店": "https://www.securitytec.co.uk/",
-  "名录联系人": "Mr Graham Smith（construction.co.uk 公开名录）"
- },
- "signals": [
-  "已成交 + 样品（用户表）；自有标 NTP3- 8 口千兆管理 PoE 已在售——Saga 同口型可直接作二供/升级 SKU（2026-10-21）"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 20,
-  "why": "批发商自有标 NTP3-GSW0802S 同口型 = STC-28DGGPM（8 GE PoE + 2 SFP 管理）；16/24 口位 STI-21616GP / STC-424DGGPM-280W；分销 20% 档"
- },
- "email_hook": "Your NTP3-GSW0802S-MTP150 and the Marvell-based 8-port PoE+ 2-SFP managed switch are the same port layout; as a second source in Securitytec packing at EXW cost it protects your trade price against the HiLook £44 tier.",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A/S 邮箱 26 封 2024→2026，1 次记录打开，0 回；收件 graham@securitytec.co.uk；主题多为「10G Enterprise SFP Switch、Marvell Alleycat5 Solution」）；Elsa 1:1 去信 2025-02-24「Industrial PoE Switch」（To graham@securitytec.co.uk），0 回（Elsa 箱 in:sent 核对 msg 195385d6745e8ebb）",
-   "type": "安防批发商（小型）",
-   "sieve": "1~2（1 次打开）",
-   "stop": "26 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
-   "lane": "UK 主攻（四主）",
-   "cadence": "一封",
-   "evidence": "gmail_digest：out 26，Opened 标签 1（Simon 群发追踪）；data/gmail_e/elsa_sent_tld_probe_2026-10-25.json（国别后缀探测，该国 Elsa 触达全集 complete:true）"
-  },
-  "situation": "伦敦南郊的 Hikvision 授权批发商（2005 年注册，3 名员工），面向安装商供应 CCTV/门禁/对讲/报警及配件，网店含 78 个网络产品、Ruijie Reyee 55 个、Utepo 3 个。用户表：Graham Smith（Director）；对 video over fiber 感兴趣、曾买 IP camera 样品；17 次推送 0 回复，WhatsApp 加不上。",
-  "need": "批发商自有标 NTP3-GSW0802S 同口型 = STC-28DGGPM（8 GE PoE + 2 SFP 管理）；16/24 口位 STI-21616GP / STC-424DGGPM-280W；分销 20% 档",
-  "breakpoint": "无回复",
-  "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 20,
-   "price": "换人再触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-12-05 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-05 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-11-12 $65（10G Media Converter）、2025-10-13 $280（10G Enterprise SFP Switch）",
-   "why": "批发商自有标 NTP3-GSW0802S 同口型 = STC-28DGGPM（8 GE PoE + 2 SFP 管理）；16/24 口位 STI-21616GP / STC-424DGGPM-280W；分销 20% 档。已打开的主题（1/26 封有打开记录）：「10G Media Converter」(2024-11-12) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "2027-Q1（换人后）",
-   "channel": "A 邮箱 → 具名 KP",
-   "action": "首封前知悉：Elsa 2025-02 已 1:1 发过「Industrial PoE Switch」给 graham@securitytec.co.uk（0 回），开头按 ㉝ 带一句「we wrote once in Feb 2025 about X, no reason you'd have replied」，别当完全陌生。 换收件人再发一封",
-   "one_question": "Your NTP3-GSW0802S-MTP150 and the Marvell-based 8-port PoE+ 2-SFP managed switch are the same port layout; as a second source in Securitytec packing at EXW cost it protects your trade price against the HiLook £44 tier. Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
-  },
-  "facts": [
-   {
-    "date": "2025-02-24",
-    "dir": "去",
-    "who": "Elsa 1:1 去信（To graham@securitytec.co.uk）",
-    "quote": "Industrial PoE Switch — Marvell based industrial PoE, 2×GE SFP + 4×GE PoE, 120W, watchdog, 250 m, DIP（摘要无价）",
-    "why": "Elsa 箱 in:sent 按国别后缀探测（to:.de/.uk/.pl/.cz）命中：2025-02 Elsa 开箱头两周的逐户单发，称呼「Hi, Graham」；Elsa Replied 线程 0、来询未回清单 0 → 0 回；S/A digest 看不到这封",
-    "k": "elsa_1to1",
-    "msg_id": "195385d6745e8ebb"
-   },
-   {
-    "date": "2026-09-18",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "10G Enterprise SFP Switch、Marvell Alleycat5 Solution",
-    "why": "26 封 / 1 次打开 / 0 回｜首封 2024-07-05 → 末封 2026-09-18（26 去 / 0 来）",
-    "k": "gmail_digest"
-   }
+  "code": "SA-060",
+  "name_official": "Securitytec Ltd（Coulsdon, Surrey, UK；Companies House 05585047）",
+  "website_status": "在线",
+  "summary": "伦敦南郊的 Hikvision 授权批发商（2005 年注册，3 名员工），面向安装商供应 CCTV/门禁/对讲/报警及配件，网店含 78 个网络产品、Ruijie Reyee 55 个、Utepo 3 个。用户表：Graham Smith（Director）；对 video over fiber 感兴趣、曾买 IP camera 样品；17 次推送 0 回复，WhatsApp 加不上。",
+  "type": "安防批发商（小型）",
+  "size": "3 人（2025 年报）",
+  "brands_seen": [
+    "Hikvision",
+    "HiLook",
+    "Ruijie Reyee",
+    "Utepo",
+    "Pyronix",
+    "Ruijie-Reyee",
+    "EZVIZ",
+    "Uniview"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-25"
- }
+  "evidence": [
+    {
+      "kind": "第三方（Companies House 摘录）",
+      "claim": "规模与董事",
+      "quote": "SECURITYTEC LIMITED … Incorporated: 2005-10-06 · Employees: 3 (2025 accounts) … MR Graham David SMITH Director",
+      "url": "https://www.companiesintheuk.co.uk/ltd/securitytec-1",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网",
+      "claim": "在售网络品类（含 Utepo）",
+      "quote": "Networking Products 78 item · Ruije Reyee Networks 55 item … Brand: Hikvision 404 item … Utepo 3 item",
+      "url": "https://www.securitytec.co.uk/our-products.html",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网网店",
+      "claim": "自有标 8 口千兆管理 PoE 交换机规格",
+      "quote": "8-Port Gigabit Managed PoE Switch with 2 x SFP Fiber uplinks … Total PoE power budget is up to 135W, single port power output max 30W … UTP3-GSW0802S-MTP150, the full Gigabit managed PoE switch … Product Code: NTP3-GSW0802S-MTP150",
+      "url": "https://www.securitytec.co.uk/product/8-port-gigabit-poe-switch/",
+      "date": "2021-07-21"
+    },
+    {
+      "kind": "官网网店",
+      "claim": "在售交换机品牌与价格",
+      "quote": "Ruijie-Reyee, 15 watt, 52v Gigabit PoE+ injector SKU: RG-POE-AF15 £16.00 … Ruijie-Reyee, 6 PORT 100Mbps UNMANAGED PoE SWITCH SKU: RG-ES106F-P Trade Customers Only … Hikvision Smart Managed 4-Port + 1-uplink 100Mbps PoE Switch SKU: DS-3E1105P-EI … 8-Port 100Mbps PoE Switch, 1x uplink, HILOOK BY HIKVISION SKU: NS-0109P-60(B) £44.00",
+      "url": "https://www.securitytec.co.uk/our-products/networking-products/network-switches.html",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "名录",
+      "claim": "地址与联系人",
+      "quote": "Mr Graham Smith Unit 2 Redlands Centre Redlands Coulsdon Surrey Croydon CR5 2HT … WE ARE A PROUD HIKVISION DISTRIBUTOR Securitytec Ltd are a UK based Hikvision Authorised Wholesaler",
+      "url": "https://www.construction.co.uk/c/633203/securitytec",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [
+    {
+      "name": "Graham Smith",
+      "role": "Director",
+      "email": "graham@securitytec.co.uk",
+      "phone": "+44 20 8660 5888",
+      "source": "https://www.securitytec.co.uk/contact"
+    },
+    {
+      "name": "Graham Smith",
+      "role": "联系人（construction.co.uk 公司名录公开）",
+      "email": "—（未公开）",
+      "phone": "—",
+      "source": "https://www.construction.co.uk/c/633203/securitytec"
+    }
+  ],
+  "grade_override": "B",
+  "override_reason": "3 人微型批发商，17 次推送零回复，兴趣在 VC（Saga 不做）；保留 B 慢跟（Utepo 在售说明有 PoE 替代空间）。",
+  "notes": "",
+  "researched_at": "2026-10-21",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（官网网店目录核对）"
+  },
+  "company_facts": {
+    "legal_name": "Securitytec Ltd",
+    "hq": "Unit 2 Redlands Centre, Redlands, Coulsdon, Surrey CR5 2HT（M25 J7 内 10 分钟）",
+    "other": "英国 Hikvision 授权批发商（trade counter + DPD 次日达）；价格匹配 Hikvision / Pyronix / EZVIZ / HiLook；网店在售交换机：自有标 **NTP3-GSW0802S-MTP150**（8 GE 管理 PoE + 2 SFP，135W，描述残留「UTP3-」= Utepo 贴牌）、Ruijie-Reyee（RG-ES106F-P、RG-ES110FG-P、PoE 注入器 £16–17）、Hikvision DS-3E1105P-EI / DS-3E1106HP-EI、HiLook NS-0109P-60(B) £44；NVR 清仓 Uniview NVR301-08L-P8 £79"
+  },
+  "business_lines": [
+    "Hikvision / HiLook / Pyronix / EZVIZ 安防批发（安装商客户）",
+    "网络交换与 PoE 配件（Ruijie-Reyee、自有标 NTP3-）",
+    "门禁 / 对讲 / 报警"
+  ],
+  "products_seen": [
+    {
+      "brand": "Securitytec（自有标，Utepo 源）",
+      "model": "NTP3-GSW0802S-MTP150",
+      "spec": "8×GE PoE + 2×SFP，L2 管理，135W，30W/口，4M 缓存",
+      "url": "https://www.securitytec.co.uk/product/8-port-gigabit-poe-switch/",
+      "date": "2021-07-21",
+      "saga": "STC-28DGGPM（同口型 Marvell 替代）"
+    },
+    {
+      "brand": "Ruijie-Reyee",
+      "model": "RG-ES106F-P / RG-ES110FG-P",
+      "spec": "6/8 口百兆非管理 PoE（trade only）",
+      "url": "https://www.securitytec.co.uk/our-products/networking-products/network-switches.html",
+      "date": "2026-10-21",
+      "saga": "STC-28DGGPM（千兆升级）"
+    },
+    {
+      "brand": "HiLook",
+      "model": "NS-0109P-60(B)",
+      "spec": "8 口百兆 PoE + 1 上联，£44",
+      "url": "https://www.securitytec.co.uk/our-products/networking-products/network-switches.html",
+      "date": "2026-10-21",
+      "saga": "—（价位参照）"
+    }
+  ],
+  "channels": {
+    "网站/网店": "https://www.securitytec.co.uk/",
+    "名录联系人": "Mr Graham Smith（construction.co.uk 公开名录）"
+  },
+  "signals": [
+    "已成交 + 样品（用户表）；自有标 NTP3- 8 口千兆管理 PoE 已在售——Saga 同口型可直接作二供/升级 SKU（2026-10-21）"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 20,
+    "why": "批发商自有标 NTP3-GSW0802S 同口型 = STC-28DGGPM（8 GE PoE + 2 SFP 管理）；16/24 口位 STI-21616GP / STC-424DGGPM-280W；分销 20% 档"
+  },
+  "email_hook": "Your NTP3-GSW0802S-MTP150 and the Marvell-based 8-port PoE+ 2-SFP managed switch are the same port layout; as a second source in Securitytec packing at EXW cost it protects your trade price against the HiLook £44 tier.",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A/S 邮箱 26 封 2024→2026，1 次记录打开，0 回；收件 graham@securitytec.co.uk；主题多为「10G Enterprise SFP Switch、Marvell Alleycat5 Solution」）；Elsa 1:1 去信 1 封（2025-02-24「Industrial PoE Switch」；To 仅本户 graham@securitytec.co.uk；Bcc 未逐封读头；同类名单抽读 24 封均无 Bcc；此后再未进 Elsa 任何名单——全箱 `from:e.sagatelecom to:graham@securitytec.co.uk` 仅此 1 条，complete）（第 74 批(m)）",
+      "type": "安防批发商（小型）",
+      "sieve": "1~2（1 次打开）",
+      "stop": "26 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+      "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+      "lane": "UK 主攻（四主）",
+      "cadence": "一封",
+      "evidence": "gmail_digest：out 26，Opened 标签 1（Simon 群发追踪）；data/gmail_e/elsa_sent_tld_probe_2026-10-25.json（国别后缀探测，该国 Elsa 触达全集 complete:true）"
+    },
+    "situation": "伦敦南郊的 Hikvision 授权批发商（2005 年注册，3 名员工），面向安装商供应 CCTV/门禁/对讲/报警及配件，网店含 78 个网络产品、Ruijie Reyee 55 个、Utepo 3 个。用户表：Graham Smith（Director）；对 video over fiber 感兴趣、曾买 IP camera 样品；17 次推送 0 回复，WhatsApp 加不上。",
+    "need": "批发商自有标 NTP3-GSW0802S 同口型 = STC-28DGGPM（8 GE PoE + 2 SFP 管理）；16/24 口位 STI-21616GP / STC-424DGGPM-280W；分销 20% 档",
+    "breakpoint": "无回复",
+    "saga_now": {
+      "p1": "STC-28DGGPM",
+      "tier": 20,
+      "price": "换人再触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-12-05 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-05 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-11-12 $65（10G Media Converter）、2025-10-13 $280（10G Enterprise SFP Switch）",
+      "why": "批发商自有标 NTP3-GSW0802S 同口型 = STC-28DGGPM（8 GE PoE + 2 SFP 管理）；16/24 口位 STI-21616GP / STC-424DGGPM-280W；分销 20% 档。已打开的主题（1/26 封有打开记录）：「10G Media Converter」(2024-11-12) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "2027-Q1（换人后）",
+      "channel": "A 邮箱 → 具名 KP",
+      "action": "首封前知悉：Elsa 2025-02 已 1:1 发过「Industrial PoE Switch」给 graham@securitytec.co.uk（0 回），开头按 ㉝ 带一句「we wrote once in Feb 2025 about X, no reason you'd have replied」，别当完全陌生。 换收件人再发一封",
+      "one_question": "Your NTP3-GSW0802S-MTP150 and the Marvell-based 8-port PoE+ 2-SFP managed switch are the same port layout; as a second source in Securitytec packing at EXW cost it protects your trade price against the HiLook £44 tier. Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
+    },
+    "facts": [
+      {
+        "date": "2025-02-24",
+        "dir": "去",
+        "who": "Elsa 1:1 去信（To graham@securitytec.co.uk）",
+        "quote": "Industrial PoE Switch — Marvell based industrial PoE, 2×GE SFP + 4×GE PoE, 120W, watchdog, 250 m, DIP（摘要无价）",
+        "why": "Elsa 箱 in:sent 按国别后缀探测（to:.de/.uk/.pl/.cz）命中：2025-02 Elsa 开箱头两周的逐户单发，称呼「Hi, Graham」；Elsa Replied 线程 0、来询未回清单 0 → 0 回；S/A digest 看不到这封",
+        "k": "elsa_1to1",
+        "msg_id": "195385d6745e8ebb"
+      },
+      {
+        "date": "2026-09-18",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "10G Enterprise SFP Switch、Marvell Alleycat5 Solution",
+        "why": "26 封 / 1 次打开 / 0 回｜首封 2024-07-05 → 末封 2026-09-18（26 去 / 0 来）",
+        "k": "gmail_digest"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-25"
+  }
 }

@@ -1,142 +1,142 @@
 {
- "code": "SB-864",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（sitech-bitdriver.com，快照 2026-10-21）",
- "summary": "美国 S.I. Tech, Inc. / Bit-Driver（制造光纤调制解调器、复用器、中继器、线缆组件等 LAN/WAN/工业通信设备；Bit-Driver 商店；表内「VC 多功能 光猫 机架 工业 FS / Switch MC 串口为主」「可以尝试多跟进一下」；KP Ramesh S（President））；群发 19 次无回复。",
- "type": "美国光纤通信设备制造商（串口/MC 为主，交换机二供口径）",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：A World of Fiber Optic Solutions by S.I. Tech, Inc.；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
-   "quote": "SI Tech manufactures fiber optic modems, multiplexers, repeaters, cable assemblies, and other communication equipment for LAN, WAN, and Industrial Applications.",
-   "url": "https://sitech-bitdriver.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "VC多功能 光猫 机架 工业FS；Switch MC 串口为主",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "S.I. Tech 定位",
-   "quote": "A World of Fiber Optic Solutions by S.I. Tech, Inc. ; SI Tech manufactures fiber optic modems, multiplexers, repeaters, cable assemblies ; /products/switch.htm",
-   "url": "https://sitech-bitdriver.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "VC 光猫 机架 工业 FS；Switch MC 串口",
-   "quote": "VC多功能 光猫 机架 工业FS / Switch MC 串口为主；可以尝试多跟进一下",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Ramesh S",
-   "title": "President",
-   "email": "sales@sitech-bitdriver.com",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "美国",
-  "other": "官网 sitech-bitdriver.com，语言 en，快照状态 ok；角色判定来源：官网文案"
- },
- "business_lines": [
-  "光纤调制解调器 / 复用器 / 中继器（自有品牌 Bit-Driver）",
-  "以太网 MC / 交换机"
- ],
- "channels": {
-  "role": "美国光纤通信设备制造商（串口/MC 为主，交换机二供口径）",
-  "region": "美国",
-  "contact": "sales@sitech-bitdriver.com、contact@tracnova.com"
- },
- "signals": [
-  "官网：SI Tech manufactures fiber optic modems, multiplexers, repeaters, cable assemblies, and other communication equipment for LAN, WAN, and Industrial Applications；页面 /products/switch.htm、/products/lan.htm；kw fiber 148 / media converter 15 / scada 8",
-  "表内：VC 多功能 光猫 机架 工业 FS / Switch MC 串口为主；可以尝试多跟进一下；KP Ramesh S / President"
- ],
- "risks": [
-  "主业串口光纤调制解调器/复用器（自研，Saga 不供）：以太网 MC/交换机为副线",
-  "19 次无回复 → 改向 President 具名首触"
- ],
- "saga_fit": {
-  "p1": "STI-110GE",
-  "tier": 30,
-  "why": "以太网 MC/交换机位 → 工业千兆 MC STI-110GE（$24.3 @30%）/ 工业 8 GE + 2 SFP STI-280GE（$50.5）贴 S.I. Tech 标；串口光猫/复用器 Saga 不供"
- },
- "email_hook": "Ramesh, for the Ethernet media converters and small industrial switches in the Bit-Driver catalogue, we can be a second source on a Marvell/Realtek platform (gigabit MC, DIN-rail 8-GE/8-PoE + 2 SFP; −40~75 °C, FCC/CE/RoHS) in your housing from small lots — which Ethernet model do your SCADA customers order most?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A/S 邮箱 35 封 2025→2026，无记录打开，0 回；收件 contact@tracnova.com, ramesh@sitech-bitdriver.com；主题多为「Managed Optical Bypass Switch、90W PoE Managed Switch」）；Elsa 单发去信 1 封（2025-02-25「Mini Industrial PoE Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）",
-   "type": "美国光纤通信设备制造商（串口/MC 为主，交换机二供口径）",
-   "sieve": "1（只收到群发）",
-   "stop": "35 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
-   "lane": "US 主攻（四主）",
-   "cadence": "一封",
-   "evidence": "gmail_digest：out 35；用户表：「VC多功能 光猫 机架 工业FS；Switch MC 串口为主」；研究档 risks：主业串口光纤调制解调器/复用器（自研，Saga 不供）：以太网 MC/交换机为副线"
-  },
-  "situation": "美国 S.I. Tech, Inc. / Bit-Driver（制造光纤调制解调器、复用器、中继器、线缆组件等 LAN/WAN/工业通信设备；Bit-Driver 商店；表内「VC 多功能 光猫 机架 工业 FS / Switch MC 串口为主」「可以尝试多跟进一下」；KP Ramesh S（President））；群发 19 次无回复。",
-  "need": "以太网 MC/交换机位 → 工业千兆 MC STI-110GE（$24.3 @30%）/ 工业 8 GE + 2 SFP STI-280GE（$50.5）贴 S.I. Tech 标；串口光猫/复用器 Saga 不供",
-  "breakpoint": "主业串口光纤调制解调器/复用器（自研，Saga 不供）：以太网 MC/交换机为副线",
-  "saga_now": {
-   "p1": "STI-110GE",
-   "tier": 30,
-   "price": "换人再触锚价 STI-110GE $26.5 EXW（最近实报 SA-001 2025-11-27 $26.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-05-02 $300（48 Port PoE Managed Switch）、2025-08-06 $240（24 Port Fiber Switch）、2025-09-26 $280（10G Enterprise SFP Switch）",
-   "why": "以太网 MC/交换机位 → 工业千兆 MC STI-110GE（$24.3 @30%）/ 工业 8 GE + 2 SFP STI-280GE（$50.5）贴 S.I. Tech 标；串口光猫/复用器 Saga 不供",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "2027-Q1（换人后）",
-   "channel": "A 邮箱 → 具名 KP",
-   "action": "首封前知悉：Elsa 2025-02-25 单发过「Mini Industrial PoE Switch」（未见回复（Elsa 箱 Replied 标签无））；换收件人再发一封",
-   "one_question": "Ramesh, for the Ethernet media converters and small industrial switches in the Bit-Driver catalogue, we can be a second source on a Marvell/Realtek platform (gigabit MC, DIN-rail 8-GE/8-PoE + 2 SFP; −40~75 °C, FCC/CE/RoHS) in your housing from small lots — which Ethernet model do your SCADA customers order most? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
-  },
-  "facts": [
-   {
-    "date": "2026-09-10",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "Managed Optical Bypass Switch、90W PoE Managed Switch",
-    "why": "35 封 / 0 次打开 / 0 回｜首封 2025-01-20 → 末封 2026-09-10（35 去 / 0 来）",
-    "k": "gmail_digest"
-   },
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "VC多功能 光猫 机架 工业FS；Switch MC 串口为主",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2025-02-25",
-    "dir": "out",
-    "who": "Elsa → sales@sitech-bitdriver.com",
-    "quote": "Mini Industrial PoE Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
-    "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
-    "k": "elsa_1to1",
-    "msg_id": "19538b0b65109cc5"
-   }
+  "code": "SB-864",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（sitech-bitdriver.com，快照 2026-10-21）",
+  "summary": "美国 S.I. Tech, Inc. / Bit-Driver（制造光纤调制解调器、复用器、中继器、线缆组件等 LAN/WAN/工业通信设备；Bit-Driver 商店；表内「VC 多功能 光猫 机架 工业 FS / Switch MC 串口为主」「可以尝试多跟进一下」；KP Ramesh S（President））；群发 19 次无回复。",
+  "type": "美国光纤通信设备制造商（串口/MC 为主，交换机二供口径）",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：A World of Fiber Optic Solutions by S.I. Tech, Inc.；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
+      "quote": "SI Tech manufactures fiber optic modems, multiplexers, repeaters, cable assemblies, and other communication equipment for LAN, WAN, and Industrial Applications.",
+      "url": "https://sitech-bitdriver.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "VC多功能 光猫 机架 工业FS；Switch MC 串口为主",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "S.I. Tech 定位",
+      "quote": "A World of Fiber Optic Solutions by S.I. Tech, Inc. ; SI Tech manufactures fiber optic modems, multiplexers, repeaters, cable assemblies ; /products/switch.htm",
+      "url": "https://sitech-bitdriver.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "VC 光猫 机架 工业 FS；Switch MC 串口",
+      "quote": "VC多功能 光猫 机架 工业FS / Switch MC 串口为主；可以尝试多跟进一下",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "kp": [
+    {
+      "name": "Ramesh S",
+      "title": "President",
+      "email": "sales@sitech-bitdriver.com",
+      "phone": "",
+      "source": "用户表"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "美国",
+    "other": "官网 sitech-bitdriver.com，语言 en，快照状态 ok；角色判定来源：官网文案"
+  },
+  "business_lines": [
+    "光纤调制解调器 / 复用器 / 中继器（自有品牌 Bit-Driver）",
+    "以太网 MC / 交换机"
+  ],
+  "channels": {
+    "role": "美国光纤通信设备制造商（串口/MC 为主，交换机二供口径）",
+    "region": "美国",
+    "contact": "sales@sitech-bitdriver.com、contact@tracnova.com"
+  },
+  "signals": [
+    "官网：SI Tech manufactures fiber optic modems, multiplexers, repeaters, cable assemblies, and other communication equipment for LAN, WAN, and Industrial Applications；页面 /products/switch.htm、/products/lan.htm；kw fiber 148 / media converter 15 / scada 8",
+    "表内：VC 多功能 光猫 机架 工业 FS / Switch MC 串口为主；可以尝试多跟进一下；KP Ramesh S / President"
+  ],
+  "risks": [
+    "主业串口光纤调制解调器/复用器（自研，Saga 不供）：以太网 MC/交换机为副线",
+    "19 次无回复 → 改向 President 具名首触"
+  ],
+  "saga_fit": {
+    "p1": "STI-110GE",
+    "tier": 30,
+    "why": "以太网 MC/交换机位 → 工业千兆 MC STI-110GE（$24.3 @30%）/ 工业 8 GE + 2 SFP STI-280GE（$50.5）贴 S.I. Tech 标；串口光猫/复用器 Saga 不供"
+  },
+  "email_hook": "Ramesh, for the Ethernet media converters and small industrial switches in the Bit-Driver catalogue, we can be a second source on a Marvell/Realtek platform (gigabit MC, DIN-rail 8-GE/8-PoE + 2 SFP; −40~75 °C, FCC/CE/RoHS) in your housing from small lots — which Ethernet model do your SCADA customers order most?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A/S 邮箱 35 封 2025→2026，无记录打开，0 回；收件 contact@tracnova.com, ramesh@sitech-bitdriver.com；主题多为「Managed Optical Bypass Switch、90W PoE Managed Switch」）；Elsa 1:1 去信 1 封（2025-02-25「Mini Industrial PoE Switch」；To 仅本户 sales@sitech-bitdriver.com；头 msg 19fcbedfe7807ff7 核对无 Bcc，称呼「Hi, Faisal」= 个性化逐月 1:1 名单；此后再未进 Elsa 任何名单——全箱 `from:e.sagatelecom to:sales@sitech-bitdriver.com` 仅此 1 条，complete）（第 74 批(m)）",
+      "type": "美国光纤通信设备制造商（串口/MC 为主，交换机二供口径）",
+      "sieve": "1（只收到群发）",
+      "stop": "35 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+      "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+      "lane": "US 主攻（四主）",
+      "cadence": "一封",
+      "evidence": "gmail_digest：out 35；用户表：「VC多功能 光猫 机架 工业FS；Switch MC 串口为主」；研究档 risks：主业串口光纤调制解调器/复用器（自研，Saga 不供）：以太网 MC/交换机为副线"
+    },
+    "situation": "美国 S.I. Tech, Inc. / Bit-Driver（制造光纤调制解调器、复用器、中继器、线缆组件等 LAN/WAN/工业通信设备；Bit-Driver 商店；表内「VC 多功能 光猫 机架 工业 FS / Switch MC 串口为主」「可以尝试多跟进一下」；KP Ramesh S（President））；群发 19 次无回复。",
+    "need": "以太网 MC/交换机位 → 工业千兆 MC STI-110GE（$24.3 @30%）/ 工业 8 GE + 2 SFP STI-280GE（$50.5）贴 S.I. Tech 标；串口光猫/复用器 Saga 不供",
+    "breakpoint": "主业串口光纤调制解调器/复用器（自研，Saga 不供）：以太网 MC/交换机为副线",
+    "saga_now": {
+      "p1": "STI-110GE",
+      "tier": 30,
+      "price": "换人再触锚价 STI-110GE $26.5 EXW（最近实报 SA-001 2025-11-27 $26.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-05-02 $300（48 Port PoE Managed Switch）、2025-08-06 $240（24 Port Fiber Switch）、2025-09-26 $280（10G Enterprise SFP Switch）",
+      "why": "以太网 MC/交换机位 → 工业千兆 MC STI-110GE（$24.3 @30%）/ 工业 8 GE + 2 SFP STI-280GE（$50.5）贴 S.I. Tech 标；串口光猫/复用器 Saga 不供",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "2027-Q1（换人后）",
+      "channel": "A 邮箱 → 具名 KP",
+      "action": "首封前知悉：Elsa 仅 2025-02-25 单发过 1 封「Mini Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封",
+      "one_question": "Ramesh, for the Ethernet media converters and small industrial switches in the Bit-Driver catalogue, we can be a second source on a Marvell/Realtek platform (gigabit MC, DIN-rail 8-GE/8-PoE + 2 SFP; −40~75 °C, FCC/CE/RoHS) in your housing from small lots — which Ethernet model do your SCADA customers order most? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
+    },
+    "facts": [
+      {
+        "date": "2025-02-25",
+        "dir": "out",
+        "who": "Elsa → sales@sitech-bitdriver.com",
+        "quote": "Mini Industrial PoE Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+        "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
+        "k": "elsa_1to1",
+        "msg_id": "19538b0b65109cc5"
+      },
+      {
+        "date": "2026-09-10",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "Managed Optical Bypass Switch、90W PoE Managed Switch",
+        "why": "35 封 / 0 次打开 / 0 回｜首封 2025-01-20 → 末封 2026-09-10（35 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "VC多功能 光猫 机架 工业FS；Switch MC 串口为主",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

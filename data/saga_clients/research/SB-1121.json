@@ -1,126 +1,126 @@
 {
- "code": "SB-1121",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（olsontech.com，快照 2026-10-21）",
- "summary": "美国 OlsonTech（光纤设备：EDFA、Laser Plus 光发射机（1310/1550 nm）、EdgePON、edgeswitch；OEM/集成商导向；表内「MC WDM 模块 光产品」）；群发 11 次无回复。",
- "type": "CATV/PON 光设备商（美国，MC 为副线）",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：OlsonTech；品类词 数据中心 / 企业 IT / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
-   "quote": "This is the homepage of the website",
-   "url": "https://olsontech.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "MC WDM模块 光产品",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "OlsonTech 首页",
-   "quote": "Home | OlsonTech ; Fiber Optic Equipment ; EDFA ; Laser Plus ; EdgePON ; Optical Transmitters ; /edgeswitch",
-   "url": "https://olsontech.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "MC WDM 模块 光产品",
-   "quote": "MC WDM模块 光产品",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "美国",
-  "other": "官网 olsontech.com，语言 en-US，快照状态 ok；角色判定来源：官网文案"
- },
- "business_lines": [
-  "CATV / PON 光设备（EDFA、光发射机）",
-  "edgeswitch / MC"
- ],
- "channels": {
-  "role": "CATV/PON 光设备商（美国，MC 为副线）",
-  "region": "美国",
-  "contact": "sales@olsontech.com"
- },
- "signals": [
-  "首页 Fiber Optic Equipment ; EDFA ; Laser Plus ; EdgePON ; Optical Transmitters ; 1550 or 1310 nm；页面 /edgeswitch、/shop；kw oem 9 / integrator 8",
-  "表内：MC WDM 模块 光产品"
- ],
- "risks": [
-  "主业 CATV/PON 光设备（Saga 不供），MC 为副线；WDM 模块需求 Saga 不供",
-  "11 次无回复，仅 sales@"
- ],
- "saga_fit": {
-  "p1": "STI-110GE",
-  "tier": 30,
-  "why": "主业 CATV 光发射/EDFA/PON（Saga 不供）→ MC 位 工业千兆 MC STI-110GE（$24.3 @30%）/ 桌面 MC 用 HRUI（列表价，注明）贴 OlsonTech 标；WDM 模块 Saga 不供"
- },
- "email_hook": "For the media converters and edge switches you offer alongside your optical transmitters and EDFAs, we can supply gigabit MCs and 8-GE + 2 SFP switches in your packaging from small lots, FCC/CE/RoHS — which Ethernet SKU do your integrator customers order most?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（3 封来信 = Olson 营销信 + Antronix Peter（SA-066）抄送 sales@olsontech.com 的误归属）；Elsa 单发去信 1 封（2025-02-28「16 Port PoE Managed Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）",
-   "type": "美国 CATV/PON 光设备商（Olson Technology）",
-   "sieve": "0",
-   "stop": "误归属：真实回复人是 SA-066 Peter Tarquinio",
-   "revive": "不动",
-   "lane": "US",
-   "cadence": "不动",
-   "evidence": "k=42afe1e39f3c25e0 / b64dad136b4bdc24（属 SA-066）"
-  },
-  "situation": "—",
-  "need": "—",
-  "breakpoint": "—",
-  "saga_now": {
-   "p1": "—",
-   "tier": 30,
-   "price": "历史报价（邮件原话，老汇率）：2025-08-09 225usd / 310usd；群发里他已看到的价（续，第 66 批全量复核）：2025-08-08 $240（24 Port Fiber Switch）、2025-10-02 $280（10G Enterprise SFP Switch）",
-   "why": "已打开的主题（2/15 封有打开记录）：「24 Port Fiber Switch」(2025-08-08)、「Re: 24 Port Fiber Switch」(2025-08-09) → 读者兴趣偏「MC/光电」；与 P1 同类，继续",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "首封前知悉：Elsa 2025-02-28 单发过「16 Port PoE Managed Switch」（未见回复（Elsa 箱 Replied 标签无））；—",
-   "one_question": ""
-  },
-  "facts": [
-   {
-    "date": "2025-08-09",
-    "dir": "去",
-    "who": "Saga（Alan）",
-    "quote": "Hi, Peter, Thanks for your interest. There are 2 versions for this model. 225usd/pc, L2+ managed 310usd/pc, L3 managed Please see attached datasheets and let me know if you need web/cli manual & software list. Thank you. On Sat, Aug 9, 2025 at 3:21 AM Peter Ta",
-    "why": "历史报价点（主题「Re: 24 Port Fiber Switch」；第 20 批从 gmail_a 回补）：225usd / 310usd",
-    "k": "7533abba594ebc6d"
-   },
-   {
-    "date": "2025-02-28",
-    "dir": "out",
-    "who": "Elsa → sales@olsontech.com",
-    "quote": "16 Port PoE Managed Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
-    "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
-    "k": "elsa_1to1",
-    "msg_id": "19548754532821ba"
-   }
+  "code": "SB-1121",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（olsontech.com，快照 2026-10-21）",
+  "summary": "美国 OlsonTech（光纤设备：EDFA、Laser Plus 光发射机（1310/1550 nm）、EdgePON、edgeswitch；OEM/集成商导向；表内「MC WDM 模块 光产品」）；群发 11 次无回复。",
+  "type": "CATV/PON 光设备商（美国，MC 为副线）",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：OlsonTech；品类词 数据中心 / 企业 IT / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
+      "quote": "This is the homepage of the website",
+      "url": "https://olsontech.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "MC WDM模块 光产品",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "OlsonTech 首页",
+      "quote": "Home | OlsonTech ; Fiber Optic Equipment ; EDFA ; Laser Plus ; EdgePON ; Optical Transmitters ; /edgeswitch",
+      "url": "https://olsontech.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "MC WDM 模块 光产品",
+      "quote": "MC WDM模块 光产品",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "kp": [],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "美国",
+    "other": "官网 olsontech.com，语言 en-US，快照状态 ok；角色判定来源：官网文案"
+  },
+  "business_lines": [
+    "CATV / PON 光设备（EDFA、光发射机）",
+    "edgeswitch / MC"
+  ],
+  "channels": {
+    "role": "CATV/PON 光设备商（美国，MC 为副线）",
+    "region": "美国",
+    "contact": "sales@olsontech.com"
+  },
+  "signals": [
+    "首页 Fiber Optic Equipment ; EDFA ; Laser Plus ; EdgePON ; Optical Transmitters ; 1550 or 1310 nm；页面 /edgeswitch、/shop；kw oem 9 / integrator 8",
+    "表内：MC WDM 模块 光产品"
+  ],
+  "risks": [
+    "主业 CATV/PON 光设备（Saga 不供），MC 为副线；WDM 模块需求 Saga 不供",
+    "11 次无回复，仅 sales@"
+  ],
+  "saga_fit": {
+    "p1": "STI-110GE",
+    "tier": 30,
+    "why": "主业 CATV 光发射/EDFA/PON（Saga 不供）→ MC 位 工业千兆 MC STI-110GE（$24.3 @30%）/ 桌面 MC 用 HRUI（列表价，注明）贴 OlsonTech 标；WDM 模块 Saga 不供"
+  },
+  "email_hook": "For the media converters and edge switches you offer alongside your optical transmitters and EDFAs, we can supply gigabit MCs and 8-GE + 2 SFP switches in your packaging from small lots, FCC/CE/RoHS — which Ethernet SKU do your integrator customers order most?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（3 封来信 = Olson 营销信 + Antronix Peter（SA-066）抄送 sales@olsontech.com 的误归属）；Elsa 1:1 去信 1 封（2025-02-28「16 Port PoE Managed Switch」；To 仅本户 sales@olsontech.com；Bcc 未逐封读头；同类名单抽读 24 封均无 Bcc；此后再未进 Elsa 任何名单——全箱 `from:e.sagatelecom to:sales@olsontech.com` 仅此 1 条，complete）（第 74 批(m)）",
+      "type": "美国 CATV/PON 光设备商（Olson Technology）",
+      "sieve": "0",
+      "stop": "误归属：真实回复人是 SA-066 Peter Tarquinio",
+      "revive": "不动",
+      "lane": "US",
+      "cadence": "不动",
+      "evidence": "k=42afe1e39f3c25e0 / b64dad136b4bdc24（属 SA-066）"
+    },
+    "situation": "—",
+    "need": "—",
+    "breakpoint": "—",
+    "saga_now": {
+      "p1": "—",
+      "tier": 30,
+      "price": "历史报价（邮件原话，老汇率）：2025-08-09 225usd / 310usd；群发里他已看到的价（续，第 66 批全量复核）：2025-08-08 $240（24 Port Fiber Switch）、2025-10-02 $280（10G Enterprise SFP Switch）",
+      "why": "已打开的主题（2/15 封有打开记录）：「24 Port Fiber Switch」(2025-08-08)、「Re: 24 Port Fiber Switch」(2025-08-09) → 读者兴趣偏「MC/光电」；与 P1 同类，继续",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "不动",
+      "channel": "—",
+      "action": "首封前知悉：Elsa 仅 2025-02-28 单发过 1 封「16 Port PoE Managed Switch」，之后没再碰他（第 74 批(m)）；—",
+      "one_question": ""
+    },
+    "facts": [
+      {
+        "date": "2025-02-28",
+        "dir": "out",
+        "who": "Elsa → sales@olsontech.com",
+        "quote": "16 Port PoE Managed Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+        "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
+        "k": "elsa_1to1",
+        "msg_id": "19548754532821ba"
+      },
+      {
+        "date": "2025-08-09",
+        "dir": "去",
+        "who": "Saga（Alan）",
+        "quote": "Hi, Peter, Thanks for your interest. There are 2 versions for this model. 225usd/pc, L2+ managed 310usd/pc, L3 managed Please see attached datasheets and let me know if you need web/cli manual & software list. Thank you. On Sat, Aug 9, 2025 at 3:21 AM Peter Ta",
+        "why": "历史报价点（主题「Re: 24 Port Fiber Switch」；第 20 批从 gmail_a 回补）：225usd / 310usd",
+        "k": "7533abba594ebc6d"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

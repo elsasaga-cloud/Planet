@@ -42,7 +42,7 @@ updated: 2026-10-25
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-879` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-25。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A 邮箱 11 封 2025→2026，无记录打开，0 回；收件 info@wut.de；主题多为「Marvell Alleycat5 Solution、Managed Optical Bypass Switch」）；Elsa 1:1 去信 2025-02-21「16 Port Ethernet Switch」（To info@wut.de），0 回（Elsa 箱 in:sent 核对 msg 195287c7548a2341）** ｜ 类型：德国工业接口制造商（配套工业交换机线，OEM 采购） ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：DE 主攻（四主） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 11；用户表：「Switch 主要是工业通讯」；研究档 risks：德国工程型制造商：对品质/文档要求高，验证周期长；data/gmail_e/elsa_sent_tld_probe_2026-10-25.json（国别后缀探测，该国 Elsa 触达全集 complete:true）
+- **绑定等级：未触达（A 邮箱 11 封 2025→2026，无记录打开，0 回；收件 info@wut.de；主题多为「Marvell Alleycat5 Solution、Managed Optical Bypass Switch」）；Elsa 1:1 去信 1 封（2025-02-21「16 Port Ethernet Switch」；To 仅本户 info@wut.de；Bcc 未逐封读头；同类名单抽读 24 封均无 Bcc；此后再未进 Elsa 任何名单——全箱 `from:e.sagatelecom to:info@wut.de` 仅此 1 条，complete）（第 74 批(m)）** ｜ 类型：德国工业接口制造商（配套工业交换机线，OEM 采购） ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：DE 主攻（四主） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 11；用户表：「Switch 主要是工业通讯」；研究档 risks：德国工程型制造商：对品质/文档要求高，验证周期长；data/gmail_e/elsa_sent_tld_probe_2026-10-25.json（国别后缀探测，该国 Elsa 触达全集 complete:true）
 - **现状一句话**：德国 Wiesemann & Theis GmbH（W&T；TCP/IP、以太网、RS-232/485、USB、20mA 与光纤接口产品，Web-IO 数字/模拟 I/O，「Service – made in Wuppertal」自产；站内 Networking 栏目含交换机；表内「switch 主要是工业通讯」「可以着重跟一下」）；群发 8 次无回复。
 - **对方真实需求（有据）**：W&T 自产接口产品，交换机为补充线（贴标外采）→ 工业非管理 8 GE + 2 SFP STI-280GE（$50.5 @30%）、5 口 STI-050GE（$18.5）、PoE STI-288GP
 - **断点 / 为什么停在这里**：德国工程型制造商：对品质/文档要求高，验证周期长

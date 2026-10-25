@@ -44,7 +44,7 @@ updated: 2026-10-25
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-144` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-25。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：Elsa 群发 BCC 已触达 2026-09-07「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，巴基斯坦（锚 globalconnectsynergy PK） 批次 To info@globalconnectsynergy.com，0 回（第 74 批 Bcc 头核对 msg 1a07aaaa8ce34b26）；S/A 箱：S/A 邮箱均无往来；来源：用户表「IT居多 买过 UnManaged Switch / 买了百兆交换机 网站看不出啥东西 / 谷歌」）** ｜ 类型：IT 公司 ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：不动（非主攻区；J5：有证据再动） ｜ 通路：巴基斯坦 非主攻 ｜ 节奏：不动 ｜ 证据：gmail_digest：out 0；用户表：「IT居多 买过 UnManaged Switch / 买了百兆交换机 网站看不出啥东西 / 谷歌」；研究档 risks：南亚非主攻区；主体与需求模糊；无互动；data/gmail_e/bcc_batches_2026.json
+- **绑定等级：Elsa 群发 BCC 已触达 2026-09-07「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，巴基斯坦（锚 globalconnectsynergy PK） 批次 To info@globalconnectsynergy.com，0 回（第 74 批 Bcc 头核对 msg 1a07aaaa8ce34b26）；S/A 箱：S/A 邮箱均无往来；来源：用户表「IT居多 买过 UnManaged Switch / 买了百兆交换机 网站看不出啥东西 / 谷歌」）** ｜ 类型：IT 公司 ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：不动（非主攻区；J5：有证据再动） ｜ 通路：巴基斯坦 非主攻 ｜ 节奏：不动 ｜ 证据：gmail_digest：out 0；用户表：「IT居多 买过 UnManaged Switch / 买了百兆交换机 网站看不出啥东西 / 谷歌」；研究档 risks：南亚非主攻区；主体与需求模糊；无互动；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To info@globalconnectsynergy.com）2025-04-09→2026-09-07 共 9 轮群发（Mini Industrial PoE Switch、Commercial Network Switch、10G Media Converter、16 Port Ethernet Switch、8 Port Industrial PoE Switch、10G Enterprise SFP Switch、Industrial PoE Switch、Updated Ethernet Switches Links、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断
 - **现状一句话**：巴基斯坦 IT 公司（IT 为主），曾买过非管理/百兆交换机，群发名单，无互动；用户备注网站看不出业务。
 - **对方真实需求（有据）**：默认 25% 档：STC-08GE（8 GE 桌面非管理，$10.5）作百兆升级；PoE 版 STC-028GP（$24.2）
 - **断点 / 为什么停在这里**：南亚非主攻区；主体与需求模糊；无互动
@@ -53,6 +53,7 @@ updated: 2026-10-25
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2025-04-09 | 去 | Elsa 群发（BCC；To info@globalconnectsynergy.com，巴基斯坦（锚 globalconnectsynergy PK） 批次） | Mini Industrial PoE Switch — （头部未取正文；见 Elsa 箱） | Elsa 箱群发 BCC 触达证据（命中地址 info@mutexsystemsltd.com, mutexsystemsltd.com, support@mutexsystemsltd.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-09-07 | 去 | Elsa 群发（BCC；To info@globalconnectsynergy.com，巴基斯坦（锚 globalconnectsynergy PK） 批次） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发 BCC 触达证据（命中地址 info@mutexsystemsltd.com, mutexsystemsltd.com, support@mutexsystemsltd.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-10-21 | 用户表 | Simon | IT居多 买过 UnManaged Switch / 买了百兆交换机 网站看不出啥东西 / 谷歌 | 表内备注 | `用户表` |
 

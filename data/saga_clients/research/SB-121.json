@@ -1,228 +1,362 @@
 {
- "code": "SB-121",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（vintronsmartvision.com，快照 2026-10-21）",
- "summary": "印度德里 Vintron（1991 年起的印度 CCTV 制造商：摄像机 / PoE 交换机 / 电源，CE/FCC/BIS 认证，另有 EMS 代工服务；自有 PoE 型号 VS-POE-42065 / 82096 / 42078，品类页 gold / network / ultra / premium PoE switches；表内「PoE switch CCTV 为主、PoE 管理型、数据中心类产品，从 10Gtek 买东西」；KP Varun Gupta（Director，varun@）；回复里有详细联系方式 +91 98181 22003）。",
- "type": "印度 CCTV 制造商（自有 PoE 交换机线，OEM/SKD 采购）",
- "size": "",
- "brands_seen": [
-  "10Gtek"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：CCTV Manufacturer India | Vintron | CCTV Manufacturer India — PoE Switches, Cameras & Powe；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
-   "quote": "CCTV Manufacturer India since 1991. Vintron is a leading CCTV Manufacturer India — CE, FCC, BIS certified, 2-Year Warranty. Call 1800-121-4322.",
-   "url": "https://vintronsmartvision.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "PoE switch CCTV为主 DVR NVR；POE managed switch；数据中心类产品 从10G tek买东西；周边产品比较多；回复里有详细联系方式 91 9818122003/91 11 43740000(43740003)",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "1991 年起的印度 CCTV 制造商，CE/FCC/BIS 认证",
-   "quote": "CCTV Manufacturer India since 1991. Vintron is a leading CCTV Manufacturer India — CE, FCC, BIS certified, 2-Year Warranty.",
-   "url": "https://vintronsmartvision.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "PoE 管理型 / 数据中心类，从 10Gtek 买",
-   "quote": "PoE switch CCTV为主 DVR NVR / POE managed switch / 数据中心类产品 / 从10G tek买东西",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Varun Gupta",
-   "title": "Director",
-   "email": "varun@vintronsmartvision.com",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "印度",
-  "other": "官网 vintronsmartvision.com，语言 en，快照状态 ok；角色判定来源：用户表"
- },
- "business_lines": [
-  "CCTV 摄像机 / NVR 制造（印度）",
-  "PoE 交换机（自有 VS-POE 系列）",
-  "EMS 代工服务"
- ],
- "channels": {
-  "role": "印度 CCTV 制造商（自有 PoE 交换机线，OEM/SKD 采购）",
-  "region": "印度",
-  "contact": "lead@vintronsmartvision.com、varun@vintronsmartvision.com"
- },
- "signals": [
-  "品类页 /gold-poe-switches、/network-poe-switch、/ultra-poe-switches、/premium-poe-switches",
-  "站内型号 VS-POE-42065 / VS-POE-82096 / VS-POE-42078",
-  "KP：Varun Gupta / Director（表内，电话 +91 98181 22003）",
-  "官网：EMS Services（有自有产线）"
- ],
- "risks": [
-  "印度 BIS 认证由 Vintron 自持（已有 BIS 能力，利好）；整机进口关税高 → SKD 更可行",
-  "非主攻区（T5）；表内另有 quippro.kz / airlinkwifi.net 域名（关联或误配，需核）"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 30,
-  "why": "自有 VS-POE-82096（8 PoE 96W）等非管理线 + 表内「PoE 管理型」需求 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Vintron 标；非管理位 HRUI STC-028GP（$24.2）；已从 10Gtek 外采 = 接受中国货源"
- },
- "email_hook": "Varun, for the Vintron PoE switch range (VS-POE series), we can add a Marvell-based 8-PoE + 2 SFP L2+ managed model and supply unmanaged 8/16-port PoE as full units or SKD kits for your Delhi line, with CE/RoHS/FCC reports for your BIS file — which do you need first, the managed 8-port or the unmanaged?",
- "products_seen": [
-  {
-   "brand": "Vintron（自有）",
-   "model": "VS-POE-82096",
-   "spec": "8 口 PoE 96W 非管理",
-   "saga": "STC-028GP（HRUI 列表价 $24.2，非 SmartByte）",
-   "url": "https://www.vintronsmartvision.com/network-poe-switch",
-   "date": "2026-10-21"
-  },
-  {
-   "brand": "Vintron（自有）",
-   "model": "VS-POE-42065",
-   "spec": "4 口 PoE 65W",
-   "saga": "STC-204GP（HRUI 列表价 $20.4，非 SmartByte）",
-   "url": "https://vintronsmartvision.com/",
-   "date": "2026-10-21"
-  }
- ],
- "mail_review": {
-  "binding": {
-   "level": "合并档（三家不同公司被并成一户：Vintron Smart Vision 印度 / Quip Pro LLP 哈萨克斯坦 / AirLink iLife 台湾）；Elsa 邮箱各有一封实质回复：2026-02-06 Rahul Kansal（Vintron）「share brochure with technical sheet」；2026-03-12 Vadim Rudenko（Quip Pro，项目经理）「share your models for 10/25/100/400/800G switches and prices for MOQ and test samples」；2026-04-27 Leann（AirLink）「send price list」；S/A 邮箱 24 封 4 次打开 0 回；Elsa 单发去信 2 封（2026-05-11「10G Enterprise SFP Switch」；2026-05-11「10G Enterprise SFP Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）",
-   "type": "印度 CCTV 制造商（自有 PoE 交换机线，OEM/SKD 采购）",
-   "sieve": "2（有人在读，无人回）",
-   "stop": "读而不回 = 内容未命中或没有当下需求",
-   "revive": "先拆档（三户各自建档）再各回：Quip Pro 发 CENTEC 3 个有价型号 + 样机规则；Vintron 发 CENTEC 规格书；AirLink 发价表（同行，低优先）",
-   "lane": "IN 次级（点名）",
-   "cadence": "一封；回了再说",
-   "evidence": "gmail_digest：out 24，Opened 标签 4（Simon 群发追踪）；用户表：「PoE switch CCTV为主 DVR NVR；POE managed switch；数据中心类产品 从10G tek买东西；周边产品比较多；回复里有详细联」；研究档 risks：印度 BIS 认证由 Vintron 自持（已有 BIS 能力，利好）；整机进口关税高 → SKD 更可行；Elsa 邮箱 `data/gmail_e/text/`（Replied 线程，客户→Elsa 正文；Elsa 回复正文未入库）"
-  },
-  "situation": "印度德里 Vintron（1991 年起的印度 CCTV 制造商：摄像机 / PoE 交换机 / 电源，CE/FCC/BIS 认证，另有 EMS 代工服务；自有 PoE 型号 VS-POE-42065 / 82096 / 42078，品类页 gold / network / ultra / premium PoE switches；表内「PoE switch CCTV 为主、PoE 管理型、数据中心类产品，从 10Gtek 买东西」；KP Varun Gupta（Director，varun@）；回复里有详细联系方式 +91 98181 22003）。",
-  "need": "自有 VS-POE-82096（8 PoE 96W）等非管理线 + 表内「PoE 管理型」需求 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Vintron 标；非管理位 HRUI STC-028GP（$24.2）；已从 10Gtek 外采 = 接受中国货源",
-  "breakpoint": "印度 BIS 认证由 Vintron 自持（已有 BIS 能力，利好）；整机进口关税高 → SKD 更可行",
-  "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 30,
-   "price": "Quip Pro（Vadim）自家实报：STH-8C48DX-HSI $5,000、STH-2C24XF-HSI $1,350（Elsa 2026-03-13，MOQ 1，「RAM/磁盘涨价只按型号报」）——同人再触按这两价，不按 Q2 表；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-26 $300（48 port poe managed switch）、2024-11-11 $300（48 Port PoE Managed Switch）、2024-12-01 $300（48 Port PoE Managed Switch）、2024-12-05 $300（48 Port PoE Managed Switch）、2024-12-31 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-07-29 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-08-07 $65（10G Media Converter）、2026-05-14 $280（10G Enterprise SFP Switch）",
-   "why": "自有 VS-POE-82096（8 PoE 96W）等非管理线 + 表内「PoE 管理型」需求 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Vintron 标；非管理位 HRUI STC-028GP（$24.2）；已从 10Gtek 外采 = 接受中国货源",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "2026-11（拆档后）",
-   "channel": "Elsa 邮箱回原线程",
-   "action": "首封前知悉：Elsa 2026-05-11 单发过「10G Enterprise SFP Switch」（未见回复（Elsa 箱 Replied 标签无））；拆档 + 各一问；回原串沿用原主题（邮件客户端自动加 Re:），上面的主题只在另起新信时用",
-   "one_question": "Vadim — the two test units Elsa priced in March (STH-8C48DX-HSI USD 5,000; STH-2C24XF-HSI USD 1,350, MOQ 1, EXW) still stand subject to confirmation at order time; which capacity is the first project, and is the sample for a telecom or a data-centre site?"
-  },
-  "facts": [
-   {
-    "date": "2026-02-06",
-    "dir": "来",
-    "who": "Rahul Kansal（Vintron Smart Vision，印度）",
-    "quote": "Please share brochure with technical sheet to do further analysis.",
-    "why": "CENTEC 核心信触发；印度 CCTV 制造商",
-    "k": "gmail_e"
-   },
-   {
-    "date": "2026-02-12",
-    "dir": "去",
-    "who": "Elsa",
-    "quote": "Please check attached product links and let me know.（→ Rahul Kansal，抄 Brajesh Gupta / harkush / arti；附 Product Link_2026Q2.pdf + Roadmap.png）",
-    "why": "Vintron 要 brochure + technical sheet，Elsa 只给链接 PDF → 无下文",
-    "k": "gmail_e 19c51749f4d0a7b2"
-   },
-   {
-    "date": "2026-03-12",
-    "dir": "来",
-    "who": "Vadim Rudenko（QUIP PRO LLP，阿拉木图）",
-    "quote": "Please share your models for 10Gbs / 25Gbs / 100Gbs / 400Gbs / 800Gbs switches And also prices for MOQ and for a test samples.",
-    "why": "哈萨克项目方要 CENTEC 全系价 + 样机价——这是三家里最实的一问",
-    "k": "gmail_e"
-   },
-   {
-    "date": "2026-03-13",
-    "dir": "去",
-    "who": "Elsa",
-    "quote": "Yes, let's do sample testing. MOQ is 1pc for any model. I would suggest STH-8C48DX-HSI (STH25G series) and STH-2C24XF-HSI (XLite series) for testing. Prices are 5000USD and 1350USD respectively. 3, We are subject to increasing material costs, mainly about the RAM and Disk prices... So we will only quote by models for now… Is your business project-based, or you have a plan to build your own brand?（→ Vadim Rudenko，抄 momarov@quippro.kz；附 Drive 链接）",
-    "why": "Saga 给 Quip Pro 的实价：8C48DX-HSI $5,000、2C24XF-HSI $1,350（MOQ 1）——信稿按自家实报走，不按 Q2 表 $4,800/$1,500",
-    "k": "gmail_e 19ce660ef90ba4c2"
-   },
-   {
-    "date": "2026-04-27",
-    "dir": "来",
-    "who": "Leann（AirLink iLife Inc.，台湾）",
-    "quote": "Can you send price list for viewing?",
-    "why": "台湾同行式问价",
-    "k": "gmail_e"
-   },
-   {
-    "date": "2026-04-29",
-    "dir": "去",
-    "who": "Elsa",
-    "quote": "Prices are ALREADY available in the links. You will find a price list in each category, please try.（→ Leann，info@airlink-ilife.com）",
-    "why": "AirLink 要 price list，Elsa 答「链接里有」→ 无下文",
-    "k": "gmail_e 19dd873da75a3343"
-   },
-   {
-    "date": "2026-09-24",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "48 Port PoE Managed Switch、24 Port PoE Managed Switch",
-    "why": "24 封 / 4 次打开 / 0 回｜首封 2024-07-03 → 末封 2026-09-24（24 去 / 0 来）",
-    "k": "gmail_digest"
-   },
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "PoE switch CCTV为主 DVR NVR；POE managed switch；数据中心类产品 从10G tek买东西；周边产品比较多；回复里有详细联系方式 91 9818122003/91 11 43740000(4374000",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2026-05-11",
-    "dir": "out",
-    "who": "Elsa → varun@vintronsmartvision.com",
-    "quote": "10G Enterprise SFP Switch（Elsa 2026 年 1:1 名单重发；To 仅本户）",
-    "why": "本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无）",
-    "k": "elsa_1to1",
-    "msg_id": "19e167ab07a22c33"
-   },
-   {
-    "date": "2026-05-11",
-    "dir": "out",
-    "who": "Elsa → sales@quippro.kz",
-    "quote": "10G Enterprise SFP Switch（Elsa 2026 年 1:1 名单重发；To 仅本户）",
-    "why": "本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无）",
-    "k": "elsa_1to1",
-    "msg_id": "19e157eeaf6de784"
-   }
+  "code": "SB-121",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（vintronsmartvision.com，快照 2026-10-21）",
+  "summary": "印度德里 Vintron（1991 年起的印度 CCTV 制造商：摄像机 / PoE 交换机 / 电源，CE/FCC/BIS 认证，另有 EMS 代工服务；自有 PoE 型号 VS-POE-42065 / 82096 / 42078，品类页 gold / network / ultra / premium PoE switches；表内「PoE switch CCTV 为主、PoE 管理型、数据中心类产品，从 10Gtek 买东西」；KP Varun Gupta（Director，varun@）；回复里有详细联系方式 +91 98181 22003）。",
+  "type": "印度 CCTV 制造商（自有 PoE 交换机线，OEM/SKD 采购）",
+  "size": "",
+  "brands_seen": [
+    "10Gtek"
   ],
-  "proof_gaps": [
-   "实体合并错误：vintronsmartvision.com / quippro.kz / airlink-ilife.com 应为三户（T26/T27 去重待修，U42 期间不动结构）",
-   "（已核 2026-10-24，第 73 批）三家各一封 Elsa 回复已读：Vintron 02-12 链接 PDF；Quip Pro 03-13 实报 STH-8C48DX-HSI $5,000 / STH-2C24XF-HSI $1,350 并问项目/品牌；AirLink 04-29「价格在链接里」；三家之后均无回"
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：CCTV Manufacturer India | Vintron | CCTV Manufacturer India — PoE Switches, Cameras & Powe；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
+      "quote": "CCTV Manufacturer India since 1991. Vintron is a leading CCTV Manufacturer India — CE, FCC, BIS certified, 2-Year Warranty. Call 1800-121-4322.",
+      "url": "https://vintronsmartvision.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "PoE switch CCTV为主 DVR NVR；POE managed switch；数据中心类产品 从10G tek买东西；周边产品比较多；回复里有详细联系方式 91 9818122003/91 11 43740000(43740003)",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "1991 年起的印度 CCTV 制造商，CE/FCC/BIS 认证",
+      "quote": "CCTV Manufacturer India since 1991. Vintron is a leading CCTV Manufacturer India — CE, FCC, BIS certified, 2-Year Warranty.",
+      "url": "https://vintronsmartvision.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "PoE 管理型 / 数据中心类，从 10Gtek 买",
+      "quote": "PoE switch CCTV为主 DVR NVR / POE managed switch / 数据中心类产品 / 从10G tek买东西",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "draft_en": {
-   "subject": "Your test-sample request — the two units Elsa priced",
-   "body": "Vadim,\n\nIn March Elsa suggested two test units for Quip Pro — STH-8C48DX-HSI (48× 25G + 8× 100G) at USD 5,000 and STH-2C24XF-HSI (24× 10G SFP+ + 2× 100G) at USD 1,350, MOQ 1, EXW — and asked whether your work is project-based or own-brand. We did not hear back. Both prices are confirmed at order time (memory and SSD costs have moved since March).\n\nWhich capacity is the first project, and is the test sample for a telecom site or a data-centre site? That decides the firmware image we ship.\n\nAlan Yan\nSaga Telecom"
+  "kp": [
+    {
+      "name": "Varun Gupta",
+      "title": "Director",
+      "email": "varun@vintronsmartvision.com",
+      "phone": "",
+      "source": "用户表"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
   },
-  "as_of": "2026-10-24"
- }
+  "company_facts": {
+    "hq": "印度",
+    "other": "官网 vintronsmartvision.com，语言 en，快照状态 ok；角色判定来源：用户表"
+  },
+  "business_lines": [
+    "CCTV 摄像机 / NVR 制造（印度）",
+    "PoE 交换机（自有 VS-POE 系列）",
+    "EMS 代工服务"
+  ],
+  "channels": {
+    "role": "印度 CCTV 制造商（自有 PoE 交换机线，OEM/SKD 采购）",
+    "region": "印度",
+    "contact": "lead@vintronsmartvision.com、varun@vintronsmartvision.com"
+  },
+  "signals": [
+    "品类页 /gold-poe-switches、/network-poe-switch、/ultra-poe-switches、/premium-poe-switches",
+    "站内型号 VS-POE-42065 / VS-POE-82096 / VS-POE-42078",
+    "KP：Varun Gupta / Director（表内，电话 +91 98181 22003）",
+    "官网：EMS Services（有自有产线）"
+  ],
+  "risks": [
+    "印度 BIS 认证由 Vintron 自持（已有 BIS 能力，利好）；整机进口关税高 → SKD 更可行",
+    "非主攻区（T5）；表内另有 quippro.kz / airlinkwifi.net 域名（关联或误配，需核）"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 30,
+    "why": "自有 VS-POE-82096（8 PoE 96W）等非管理线 + 表内「PoE 管理型」需求 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Vintron 标；非管理位 HRUI STC-028GP（$24.2）；已从 10Gtek 外采 = 接受中国货源"
+  },
+  "email_hook": "Varun, for the Vintron PoE switch range (VS-POE series), we can add a Marvell-based 8-PoE + 2 SFP L2+ managed model and supply unmanaged 8/16-port PoE as full units or SKD kits for your Delhi line, with CE/RoHS/FCC reports for your BIS file — which do you need first, the managed 8-port or the unmanaged?",
+  "products_seen": [
+    {
+      "brand": "Vintron（自有）",
+      "model": "VS-POE-82096",
+      "spec": "8 口 PoE 96W 非管理",
+      "saga": "STC-028GP（HRUI 列表价 $24.2，非 SmartByte）",
+      "url": "https://www.vintronsmartvision.com/network-poe-switch",
+      "date": "2026-10-21"
+    },
+    {
+      "brand": "Vintron（自有）",
+      "model": "VS-POE-42065",
+      "spec": "4 口 PoE 65W",
+      "saga": "STC-204GP（HRUI 列表价 $20.4，非 SmartByte）",
+      "url": "https://vintronsmartvision.com/",
+      "date": "2026-10-21"
+    }
+  ],
+  "mail_review": {
+    "binding": {
+      "level": "合并档（三家不同公司被并成一户：Vintron Smart Vision 印度 / Quip Pro LLP 哈萨克斯坦 / AirLink iLife 台湾）；Elsa 邮箱各有一封实质回复：2026-02-06 Rahul Kansal（Vintron）「share brochure with technical sheet」；2026-03-12 Vadim Rudenko（Quip Pro，项目经理）「share your models for 10/25/100/400/800G switches and prices for MOQ and test samples」；2026-04-27 Leann（AirLink）「send price list」；S/A 邮箱 24 封 4 次打开 0 回；Elsa 1:1 去信 16 轮 2025-03-03→2026-08-04（To 仅本户 sales@quippro.kz / varun@vintronsmartvision.com（按地址：sales@quippro.kz 13 轮 / varun@vintronsmartvision.com 3 轮）；头 msg 19fcc24ed79b743a 核对无 Bcc，称呼「Hi,」= 无称呼逐月单发名单；主题 10G Enterprise SFP Switch、Booster PoE Switch、OEM Core Switching Solution、24 Port PoE Managed Switch…；0 回（Elsa 箱无 Re: 行）；此前经 锚 gunjan@xexagon.co.in 的 Bcc 收到 5 轮（2025-04-10→2026-02-06））（第 74 批(m) `from:e.sagatelecom to:` 全程 complete，直收 16 条）；Elsa 群发 BCC 已触达 2026-02-06「OEM Core Switching Solution」（价格未读），印度-6 安防分销（锚 gunjan@xexagon.co.in；2025-04-10 起，7 轮） 批次 To gunjan@xexagon.co.in，0 回（第 74 批 Bcc 头核对 msg 19c31cb1a96624ed）",
+      "type": "印度 CCTV 制造商（自有 PoE 交换机线，OEM/SKD 采购）",
+      "sieve": "2（有人在读，无人回）",
+      "stop": "读而不回 = 内容未命中或没有当下需求",
+      "revive": "先拆档（三户各自建档）再各回：Quip Pro 发 CENTEC 3 个有价型号 + 样机规则；Vintron 发 CENTEC 规格书；AirLink 发价表（同行，低优先）",
+      "lane": "IN 次级（点名）",
+      "cadence": "一封；回了再说",
+      "evidence": "gmail_digest：out 24，Opened 标签 4（Simon 群发追踪）；用户表：「PoE switch CCTV为主 DVR NVR；POE managed switch；数据中心类产品 从10G tek买东西；周边产品比较多；回复里有详细联」；研究档 risks：印度 BIS 认证由 Vintron 自持（已有 BIS 能力，利好）；整机进口关税高 → SKD 更可行；Elsa 邮箱 `data/gmail_e/text/`（Replied 线程，客户→Elsa 正文；Elsa 回复正文未入库）；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To gunjan@xexagon.co.in）本户见于 2026-02-06 名单；2026-09-08 最新一轮名单已不含此地址 → 中途被剔除（退信 / 退订 / 手工）；该批次最早 2025-04-10 起共 7 轮，更早轮次 Bcc 未读"
+    },
+    "situation": "印度德里 Vintron（1991 年起的印度 CCTV 制造商：摄像机 / PoE 交换机 / 电源，CE/FCC/BIS 认证，另有 EMS 代工服务；自有 PoE 型号 VS-POE-42065 / 82096 / 42078，品类页 gold / network / ultra / premium PoE switches；表内「PoE switch CCTV 为主、PoE 管理型、数据中心类产品，从 10Gtek 买东西」；KP Varun Gupta（Director，varun@）；回复里有详细联系方式 +91 98181 22003）。",
+    "need": "自有 VS-POE-82096（8 PoE 96W）等非管理线 + 表内「PoE 管理型」需求 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Vintron 标；非管理位 HRUI STC-028GP（$24.2）；已从 10Gtek 外采 = 接受中国货源",
+    "breakpoint": "印度 BIS 认证由 Vintron 自持（已有 BIS 能力，利好）；整机进口关税高 → SKD 更可行",
+    "saga_now": {
+      "p1": "STC-28DGGPM",
+      "tier": 30,
+      "price": "Quip Pro（Vadim）自家实报：STH-8C48DX-HSI $5,000、STH-2C24XF-HSI $1,350（Elsa 2026-03-13，MOQ 1，「RAM/磁盘涨价只按型号报」）——同人再触按这两价，不按 Q2 表；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-26 $300（48 port poe managed switch）、2024-11-11 $300（48 Port PoE Managed Switch）、2024-12-01 $300（48 Port PoE Managed Switch）、2024-12-05 $300（48 Port PoE Managed Switch）、2024-12-31 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-07-29 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-08-07 $65（10G Media Converter）、2026-05-14 $280（10G Enterprise SFP Switch）",
+      "why": "自有 VS-POE-82096（8 PoE 96W）等非管理线 + 表内「PoE 管理型」需求 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Vintron 标；非管理位 HRUI STC-028GP（$24.2）；已从 10Gtek 外采 = 接受中国货源",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "2026-11（拆档后）",
+      "channel": "Elsa 邮箱回原线程",
+      "action": "首封前知悉：Elsa 已 1:1 去信 16 轮（2025-03-03→2026-08-04，0 回），此前还经锚 Bcc 触达（第 74 批(m)）；拆档 + 各一问；回原串沿用原主题（邮件客户端自动加 Re:），上面的主题只在另起新信时用",
+      "one_question": "Vadim — the two test units Elsa priced in March (STH-8C48DX-HSI USD 5,000; STH-2C24XF-HSI USD 1,350, MOQ 1, EXW) still stand subject to confirmation at order time; which capacity is the first project, and is the sample for a telecom or a data-centre site?"
+    },
+    "facts": [
+      {
+        "date": "2025-03-03",
+        "dir": "out",
+        "who": "Elsa → sales@quippro.kz",
+        "quote": "Industrial PoE Switch（Elsa 1:1 逐月名单第 1/16 轮；To 仅本户）",
+        "why": "第 74 批(m) `from:e.sagatelecom to:sales@quippro.kz` 全程 complete：16 轮直收；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "1955ab27792ec2ea"
+      },
+      {
+        "date": "2025-04-16",
+        "dir": "out",
+        "who": "Elsa → sales@quippro.kz",
+        "quote": "10G Media Converter（Elsa 1:1 逐月名单第 2/16 轮；To 仅本户）",
+        "why": "第 74 批(m) `from:e.sagatelecom to:sales@quippro.kz` 全程 complete：16 轮直收；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "1963d1357a33c8ab"
+      },
+      {
+        "date": "2025-05-08",
+        "dir": "out",
+        "who": "Elsa → sales@quippro.kz",
+        "quote": "16 Port Ethernet Switch（Elsa 1:1 逐月名单第 3/16 轮；To 仅本户）",
+        "why": "第 74 批(m) `from:e.sagatelecom to:sales@quippro.kz` 全程 complete：16 轮直收；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "196ae962edfc6873"
+      },
+      {
+        "date": "2025-06-10",
+        "dir": "out",
+        "who": "Elsa → sales@quippro.kz",
+        "quote": "48 Port PoE Managed Switch（Elsa 1:1 逐月名单第 4/16 轮；To 仅本户）",
+        "why": "第 74 批(m) `from:e.sagatelecom to:sales@quippro.kz` 全程 complete：16 轮直收；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "1975843600e2fb55"
+      },
+      {
+        "date": "2025-07-10",
+        "dir": "out",
+        "who": "Elsa → sales@quippro.kz",
+        "quote": "8 Port Industrial PoE Switch（Elsa 1:1 逐月名单第 5/16 轮；To 仅本户）",
+        "why": "第 74 批(m) `from:e.sagatelecom to:sales@quippro.kz` 全程 complete：16 轮直收；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "197f28fcde76eaca"
+      },
+      {
+        "date": "2025-08-11",
+        "dir": "out",
+        "who": "Elsa → sales@quippro.kz",
+        "quote": "Mini Industrial PoE Switch（Elsa 1:1 逐月名单第 6/16 轮；To 仅本户）",
+        "why": "第 74 批(m) `from:e.sagatelecom to:sales@quippro.kz` 全程 complete：16 轮直收；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "1989789ff1083ccd"
+      },
+      {
+        "date": "2025-09-27",
+        "dir": "out",
+        "who": "Elsa → sales@quippro.kz",
+        "quote": "10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 7/16 轮；To 仅本户）",
+        "why": "第 74 批(m) `from:e.sagatelecom to:sales@quippro.kz` 全程 complete：16 轮直收；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "1998968065ad46e7"
+      },
+      {
+        "date": "2025-10-29",
+        "dir": "out",
+        "who": "Elsa → sales@quippro.kz",
+        "quote": "Industrial PoE Switch（Elsa 1:1 逐月名单第 8/16 轮；To 仅本户）",
+        "why": "第 74 批(m) `from:e.sagatelecom to:sales@quippro.kz` 全程 complete：16 轮直收；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "19a2e6237457402a"
+      },
+      {
+        "date": "2025-12-10",
+        "dir": "out",
+        "who": "Elsa → sales@quippro.kz",
+        "quote": "Booster PoE Switch（Elsa 1:1 逐月名单第 9/16 轮；To 仅本户）",
+        "why": "第 74 批(m) `from:e.sagatelecom to:sales@quippro.kz` 全程 complete：16 轮直收；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "19b067cc93bc3ea5"
+      },
+      {
+        "date": "2026-01-19",
+        "dir": "out",
+        "who": "Elsa → sales@quippro.kz",
+        "quote": "OEM Core Switching Solution（Elsa 1:1 逐月名单第 10/16 轮；To 仅本户）",
+        "why": "第 74 批(m) `from:e.sagatelecom to:sales@quippro.kz` 全程 complete：16 轮直收；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "19bd4c1a8a5c8f66"
+      },
+      {
+        "date": "2026-02-06",
+        "dir": "来",
+        "who": "Rahul Kansal（Vintron Smart Vision，印度）",
+        "quote": "Please share brochure with technical sheet to do further analysis.",
+        "why": "CENTEC 核心信触发；印度 CCTV 制造商",
+        "k": "gmail_e"
+      },
+      {
+        "date": "2026-02-06",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To gunjan@xexagon.co.in，印度-6 安防分销（锚 gunjan@xexagon.co.in；2025-04-10 起，7 轮） 批次）",
+        "quote": "OEM Core Switching Solution — I am introducing our CENTEC-based core and aggregation switches. 1, A cost-effective alternative to Cisco or Huawei models 2, Multiple models(10G~800G",
+        "why": "Elsa 箱群发 BCC 触达证据（命中地址 varun@vintronsmartvision.com, vintronsmartvision.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+        "k": "elsa_bcc"
+      },
+      {
+        "date": "2026-02-12",
+        "dir": "去",
+        "who": "Elsa",
+        "quote": "Please check attached product links and let me know.（→ Rahul Kansal，抄 Brajesh Gupta / harkush / arti；附 Product Link_2026Q2.pdf + Roadmap.png）",
+        "why": "Vintron 要 brochure + technical sheet，Elsa 只给链接 PDF → 无下文",
+        "k": "gmail_e 19c51749f4d0a7b2"
+      },
+      {
+        "date": "2026-03-12",
+        "dir": "来",
+        "who": "Vadim Rudenko（QUIP PRO LLP，阿拉木图）",
+        "quote": "Please share your models for 10Gbs / 25Gbs / 100Gbs / 400Gbs / 800Gbs switches And also prices for MOQ and for a test samples.",
+        "why": "哈萨克项目方要 CENTEC 全系价 + 样机价——这是三家里最实的一问",
+        "k": "gmail_e"
+      },
+      {
+        "date": "2026-03-13",
+        "dir": "去",
+        "who": "Elsa",
+        "quote": "Yes, let's do sample testing. MOQ is 1pc for any model. I would suggest STH-8C48DX-HSI (STH25G series) and STH-2C24XF-HSI (XLite series) for testing. Prices are 5000USD and 1350USD respectively. 3, We are subject to increasing material costs, mainly about the RAM and Disk prices... So we will only quote by models for now… Is your business project-based, or you have a plan to build your own brand?（→ Vadim Rudenko，抄 momarov@quippro.kz；附 Drive 链接）",
+        "why": "Saga 给 Quip Pro 的实价：8C48DX-HSI $5,000、2C24XF-HSI $1,350（MOQ 1）——信稿按自家实报走，不按 Q2 表 $4,800/$1,500",
+        "k": "gmail_e 19ce660ef90ba4c2"
+      },
+      {
+        "date": "2026-04-03",
+        "dir": "out",
+        "who": "Elsa → varun@vintronsmartvision.com",
+        "quote": "Industrial PoE Switch（Elsa 1:1 逐月名单第 11/16 轮；To 仅本户）",
+        "why": "第 74 批(m) `from:e.sagatelecom to:sales@quippro.kz` 全程 complete：16 轮直收；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "19d5211ef945ba33"
+      },
+      {
+        "date": "2026-04-03",
+        "dir": "out",
+        "who": "Elsa → sales@quippro.kz",
+        "quote": "Industrial PoE Switch（Elsa 1:1 逐月名单第 12/16 轮；To 仅本户）",
+        "why": "第 74 批(m) `from:e.sagatelecom to:sales@quippro.kz` 全程 complete：16 轮直收；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "19d51ff9e79e17a3"
+      },
+      {
+        "date": "2026-04-27",
+        "dir": "来",
+        "who": "Leann（AirLink iLife Inc.，台湾）",
+        "quote": "Can you send price list for viewing?",
+        "why": "台湾同行式问价",
+        "k": "gmail_e"
+      },
+      {
+        "date": "2026-04-29",
+        "dir": "去",
+        "who": "Elsa",
+        "quote": "Prices are ALREADY available in the links. You will find a price list in each category, please try.（→ Leann，info@airlink-ilife.com）",
+        "why": "AirLink 要 price list，Elsa 答「链接里有」→ 无下文",
+        "k": "gmail_e 19dd873da75a3343"
+      },
+      {
+        "date": "2026-05-11",
+        "dir": "out",
+        "who": "Elsa → varun@vintronsmartvision.com",
+        "quote": "10G Enterprise SFP Switch（Elsa 2026 年 1:1 名单重发；To 仅本户）",
+        "why": "本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无）",
+        "k": "elsa_1to1",
+        "msg_id": "19e167ab07a22c33"
+      },
+      {
+        "date": "2026-05-11",
+        "dir": "out",
+        "who": "Elsa → sales@quippro.kz",
+        "quote": "10G Enterprise SFP Switch（Elsa 2026 年 1:1 名单重发；To 仅本户）",
+        "why": "本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无）",
+        "k": "elsa_1to1",
+        "msg_id": "19e157eeaf6de784"
+      },
+      {
+        "date": "2026-08-04",
+        "dir": "out",
+        "who": "Elsa → sales@quippro.kz",
+        "quote": "24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 15/16 轮；To 仅本户）",
+        "why": "第 74 批(m) `from:e.sagatelecom to:sales@quippro.kz` 全程 complete：16 轮直收；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "19fcc24ed79b743a"
+      },
+      {
+        "date": "2026-08-04",
+        "dir": "out",
+        "who": "Elsa → varun@vintronsmartvision.com",
+        "quote": "24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 16/16 轮；To 仅本户）",
+        "why": "第 74 批(m) `from:e.sagatelecom to:sales@quippro.kz` 全程 complete：16 轮直收；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "19fcbc9611b6a037"
+      },
+      {
+        "date": "2026-09-24",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "48 Port PoE Managed Switch、24 Port PoE Managed Switch",
+        "why": "24 封 / 4 次打开 / 0 回｜首封 2024-07-03 → 末封 2026-09-24（24 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "PoE switch CCTV为主 DVR NVR；POE managed switch；数据中心类产品 从10G tek买东西；周边产品比较多；回复里有详细联系方式 91 9818122003/91 11 43740000(4374000",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [
+      "实体合并错误：vintronsmartvision.com / quippro.kz / airlink-ilife.com 应为三户（T26/T27 去重待修，U42 期间不动结构）",
+      "（已核 2026-10-24，第 73 批）三家各一封 Elsa 回复已读：Vintron 02-12 链接 PDF；Quip Pro 03-13 实报 STH-8C48DX-HSI $5,000 / STH-2C24XF-HSI $1,350 并问项目/品牌；AirLink 04-29「价格在链接里」；三家之后均无回"
+    ],
+    "draft_en": {
+      "subject": "Your test-sample request — the two units Elsa priced",
+      "body": "Vadim,\n\nIn March Elsa suggested two test units for Quip Pro — STH-8C48DX-HSI (48× 25G + 8× 100G) at USD 5,000 and STH-2C24XF-HSI (24× 10G SFP+ + 2× 100G) at USD 1,350, MOQ 1, EXW — and asked whether your work is project-based or own-brand. We did not hear back. Both prices are confirmed at order time (memory and SSD costs have moved since March).\n\nWhich capacity is the first project, and is the test sample for a telecom site or a data-centre site? That decides the firmware image we ship.\n\nAlan Yan\nSaga Telecom"
+    },
+    "as_of": "2026-10-25"
+  }
 }

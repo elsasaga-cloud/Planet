@@ -1,142 +1,142 @@
 {
- "code": "SB-561",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（sysnettelematica.it，快照 2026-10-21）",
- "summary": "意大利 Sysnet Telematica（ICT/电信集成商（sysnetexplorer.com）；表内「工业 FS CTCU 的」「可以尝试多跟进一下」；KP Stefano Cornelli（Deputy CTO）、Christian Tufariello（Chief Operating Officer）；快照为 Seeweb 托管占位页）；群发 12 次无回复。",
- "type": "ICT/电信集成商（意大利，工业 FS 现 CTC Union）",
- "size": "",
- "brands_seen": [
-  "CTC Union"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：Seeweb",
-   "quote": "Grazie per averci scelto!",
-   "url": "https://sysnettelematica.it/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "工业FS CTCU的",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "工业 FS CTCU",
-   "quote": "工业FS CTCU的；可以尝试多跟进一下",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Stefano Cornelli",
-   "title": "Deputy CTO",
-   "email": "stefano.cornelli@sysnetexplorer.com",
-   "phone": "",
-   "source": "用户表"
-  },
-  {
-   "name": "Christian Tufariello",
-   "title": "Chief Operating Officer",
-   "email": "",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "意大利",
-  "other": "官网 sysnettelematica.it，语言 it，快照状态 ok；角色判定来源：待核"
- },
- "business_lines": [
-  "ICT / 电信集成（意大利）"
- ],
- "channels": {
-  "role": "ICT/电信集成商（意大利，工业 FS 现 CTC Union）",
-  "region": "意大利",
-  "contact": "sysnettelematica@legalmail.it、stefano.cornelli@sysnetexplorer.com"
- },
- "signals": [
-  "快照：Seeweb ; Grazie per averci scelto!（托管占位）",
-  "表内：工业 FS CTCU 的；KP Stefano Cornelli / Deputy CTO；Christian Tufariello / Chief Operating Officer；可以尝试多跟进一下"
- ],
- "risks": [
-  "快照为托管占位页（官网待核）；CTC Union（台湾）价格基准中等；12 次无回复 → 改向 Deputy CTO 具名首触"
- ],
- "saga_fit": {
-  "p1": "STI-280GE",
-  "tier": 25,
-  "why": "工业 FS（现 CTC Union）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$48.6 @25%）、工业 8 PoE + 2 SFP STI-288GPM（$82.2）、工业千兆 MC STI-110GE（$23.4）"
- },
- "email_hook": "Stefano, alongside the CTC Union industrial switches you deploy, we supply Marvell-based DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP managed switches plus gigabit MCs (−40~75 °C, CE/RoHS) from single units, EXW USD — which industrial position in your telematics projects is most price-sensitive?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A/S 邮箱 20 封 2024→2026，无记录打开，0 回；收件 christian.tufariello@sysnetexplorer.com, stefano.cornelli@sysnetexplorer.com；主题多为「Industrial PoE Switch、16 Port Ethernet Switch」）；Elsa 单发去信 1 封（2025-02-17「16 Port PoE Managed Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）",
-   "type": "ICT/电信集成商（意大利，工业 FS 现 CTC Union）",
-   "sieve": "1（只收到群发）",
-   "stop": "20 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
-   "lane": "意大利（欧洲全域主攻）",
-   "cadence": "一封",
-   "evidence": "gmail_digest：out 20；用户表：「工业FS CTCU的」；研究档 risks：快照为托管占位页（官网待核）；CTC Union（台湾）价格基准中等；12 次无回复 → 改向 Deputy CTO 具名首触"
-  },
-  "situation": "意大利 Sysnet Telematica（ICT/电信集成商（sysnetexplorer.com）；表内「工业 FS CTCU 的」「可以尝试多跟进一下」；KP Stefano Cornelli（Deputy CTO）、Christian Tufariello（Chief Operating Officer）；快照为 Seeweb 托管占位页）；群发 12 次无回复。",
-  "need": "工业 FS（现 CTC Union）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$48.6 @25%）、工业 8 PoE + 2 SFP STI-288GPM（$82.2）、工业千兆 MC STI-110GE（$23.4）",
-  "breakpoint": "快照为托管占位页（官网待核）；CTC Union（台湾）价格基准中等；12 次无回复 → 改向 Deputy CTO 具名首触",
-  "saga_now": {
-   "p1": "STI-280GE",
-   "tier": 25,
-   "price": "换人再触锚价 STI-280GE $46 EXW（Saga 2025 Realtek 工业线对外价 $46（非管理工业线不用档位价 ㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-07-07 $300（48 Port PoE Managed Switch）、2025-10-15 $280（10G Enterprise SFP Switch）",
-   "why": "工业 FS（现 CTC Union）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$48.6 @25%）、工业 8 PoE + 2 SFP STI-288GPM（$82.2）、工业千兆 MC STI-110GE（$23.4）",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "2027-Q1（换人后）",
-   "channel": "A 邮箱 → 具名 KP",
-   "action": "首封前知悉：Elsa 2025-02-17 单发过「16 Port PoE Managed Switch」（未见回复（Elsa 箱 Replied 标签无））；换收件人再发一封",
-   "one_question": "Stefano, alongside the CTC Union industrial switches you deploy, we supply Marvell-based DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP managed switches plus gigabit MCs (−40~75 °C, CE/RoHS) from single units, EXW USD — which industrial position in your telematics projects is most price-sensitive? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity)."
-  },
-  "facts": [
-   {
-    "date": "2026-09-16",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "Industrial PoE Switch、16 Port Ethernet Switch",
-    "why": "20 封 / 0 次打开 / 0 回｜首封 2024-07-01 → 末封 2026-09-16（20 去 / 0 来）",
-    "k": "gmail_digest"
-   },
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "工业FS CTCU的",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2025-02-17",
-    "dir": "out",
-    "who": "Elsa → sysnettelematica@legalmail.it",
-    "quote": "16 Port PoE Managed Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
-    "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
-    "k": "elsa_1to1",
-    "msg_id": "195133e38f872bc7"
-   }
+  "code": "SB-561",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（sysnettelematica.it，快照 2026-10-21）",
+  "summary": "意大利 Sysnet Telematica（ICT/电信集成商（sysnetexplorer.com）；表内「工业 FS CTCU 的」「可以尝试多跟进一下」；KP Stefano Cornelli（Deputy CTO）、Christian Tufariello（Chief Operating Officer）；快照为 Seeweb 托管占位页）；群发 12 次无回复。",
+  "type": "ICT/电信集成商（意大利，工业 FS 现 CTC Union）",
+  "size": "",
+  "brands_seen": [
+    "CTC Union"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：Seeweb",
+      "quote": "Grazie per averci scelto!",
+      "url": "https://sysnettelematica.it/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "工业FS CTCU的",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "工业 FS CTCU",
+      "quote": "工业FS CTCU的；可以尝试多跟进一下",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [
+    {
+      "name": "Stefano Cornelli",
+      "title": "Deputy CTO",
+      "email": "stefano.cornelli@sysnetexplorer.com",
+      "phone": "",
+      "source": "用户表"
+    },
+    {
+      "name": "Christian Tufariello",
+      "title": "Chief Operating Officer",
+      "email": "",
+      "phone": "",
+      "source": "用户表"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "意大利",
+    "other": "官网 sysnettelematica.it，语言 it，快照状态 ok；角色判定来源：待核"
+  },
+  "business_lines": [
+    "ICT / 电信集成（意大利）"
+  ],
+  "channels": {
+    "role": "ICT/电信集成商（意大利，工业 FS 现 CTC Union）",
+    "region": "意大利",
+    "contact": "sysnettelematica@legalmail.it、stefano.cornelli@sysnetexplorer.com"
+  },
+  "signals": [
+    "快照：Seeweb ; Grazie per averci scelto!（托管占位）",
+    "表内：工业 FS CTCU 的；KP Stefano Cornelli / Deputy CTO；Christian Tufariello / Chief Operating Officer；可以尝试多跟进一下"
+  ],
+  "risks": [
+    "快照为托管占位页（官网待核）；CTC Union（台湾）价格基准中等；12 次无回复 → 改向 Deputy CTO 具名首触"
+  ],
+  "saga_fit": {
+    "p1": "STI-280GE",
+    "tier": 25,
+    "why": "工业 FS（现 CTC Union）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$48.6 @25%）、工业 8 PoE + 2 SFP STI-288GPM（$82.2）、工业千兆 MC STI-110GE（$23.4）"
+  },
+  "email_hook": "Stefano, alongside the CTC Union industrial switches you deploy, we supply Marvell-based DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP managed switches plus gigabit MCs (−40~75 °C, CE/RoHS) from single units, EXW USD — which industrial position in your telematics projects is most price-sensitive?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A/S 邮箱 20 封 2024→2026，无记录打开，0 回；收件 christian.tufariello@sysnetexplorer.com, stefano.cornelli@sysnetexplorer.com；主题多为「Industrial PoE Switch、16 Port Ethernet Switch」）；Elsa 1:1 去信 1 封（2025-02-17「16 Port PoE Managed Switch」；To 仅本户 sysnettelematica@legalmail.it；Bcc 未逐封读头；同类名单抽读 24 封均无 Bcc；此后再未进 Elsa 任何名单——全箱 `from:e.sagatelecom to:sysnettelematica@legalmail.it` 仅此 1 条，complete）（第 74 批(m)）",
+      "type": "ICT/电信集成商（意大利，工业 FS 现 CTC Union）",
+      "sieve": "1（只收到群发）",
+      "stop": "20 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+      "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+      "lane": "意大利（欧洲全域主攻）",
+      "cadence": "一封",
+      "evidence": "gmail_digest：out 20；用户表：「工业FS CTCU的」；研究档 risks：快照为托管占位页（官网待核）；CTC Union（台湾）价格基准中等；12 次无回复 → 改向 Deputy CTO 具名首触"
+    },
+    "situation": "意大利 Sysnet Telematica（ICT/电信集成商（sysnetexplorer.com）；表内「工业 FS CTCU 的」「可以尝试多跟进一下」；KP Stefano Cornelli（Deputy CTO）、Christian Tufariello（Chief Operating Officer）；快照为 Seeweb 托管占位页）；群发 12 次无回复。",
+    "need": "工业 FS（现 CTC Union）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$48.6 @25%）、工业 8 PoE + 2 SFP STI-288GPM（$82.2）、工业千兆 MC STI-110GE（$23.4）",
+    "breakpoint": "快照为托管占位页（官网待核）；CTC Union（台湾）价格基准中等；12 次无回复 → 改向 Deputy CTO 具名首触",
+    "saga_now": {
+      "p1": "STI-280GE",
+      "tier": 25,
+      "price": "换人再触锚价 STI-280GE $46 EXW（Saga 2025 Realtek 工业线对外价 $46（非管理工业线不用档位价 ㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-07-07 $300（48 Port PoE Managed Switch）、2025-10-15 $280（10G Enterprise SFP Switch）",
+      "why": "工业 FS（现 CTC Union）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$48.6 @25%）、工业 8 PoE + 2 SFP STI-288GPM（$82.2）、工业千兆 MC STI-110GE（$23.4）",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "2027-Q1（换人后）",
+      "channel": "A 邮箱 → 具名 KP",
+      "action": "首封前知悉：Elsa 仅 2025-02-17 单发过 1 封「16 Port PoE Managed Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封",
+      "one_question": "Stefano, alongside the CTC Union industrial switches you deploy, we supply Marvell-based DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP managed switches plus gigabit MCs (−40~75 °C, CE/RoHS) from single units, EXW USD — which industrial position in your telematics projects is most price-sensitive? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity)."
+    },
+    "facts": [
+      {
+        "date": "2025-02-17",
+        "dir": "out",
+        "who": "Elsa → sysnettelematica@legalmail.it",
+        "quote": "16 Port PoE Managed Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+        "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
+        "k": "elsa_1to1",
+        "msg_id": "195133e38f872bc7"
+      },
+      {
+        "date": "2026-09-16",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "Industrial PoE Switch、16 Port Ethernet Switch",
+        "why": "20 封 / 0 次打开 / 0 回｜首封 2024-07-01 → 末封 2026-09-16（20 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "工业FS CTCU的",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

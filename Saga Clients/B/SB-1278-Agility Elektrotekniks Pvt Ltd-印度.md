@@ -26,7 +26,7 @@ price_tier: 25%
 research: done
 site_snapshot: none
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -34,26 +34,27 @@ updated: 2026-10-24
 - **是谁**：印度古吉拉特 Vadodara 电气 / 自动化工程公司（Atul Tiwari），2023 年要目录、问证书，对 2×2 bypass 与 bypass 系列宣传册回复有用。（调研 2026-10-21；表内兴趣：1/catalogue）
 - **为什么是 B 级**：+30 实质回复 2 次（问价/要资料/问型号等）；-6 群发批次名单；+0 仅免费邮箱；-6 区域 南亚/印度；托底 B：有实质回复的客户至少 B
 - **历史互动**：实质回复 2 次；推送 8 次（2023-03-02 → 2023-09-11）；最近一次客户回复：2023-08-15：有用
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：LT-IS6312GP-4GX8GT-FBP — bypass 系列 → SmartByte LT-IS6312GP-4GX8GT-FBP（SmartByte 型号；Saga 暂无对应名，报价时注明）；一般工业 PoE → STI-288GPM。；首触锚价 LT-IS6312GP-4GX8GT-FBP $194.3 EXW（主表档位（Saga 暂无对应型号；信里不写 SmartByte 型号）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：LT-IS6312GP-4GX8GT-FBP — bypass 系列 → SmartByte LT-IS6312GP-4GX8GT-FBP（SmartByte 型号；Saga 暂无对应名，报价时注明）；一般工业 PoE → STI-288GPM。；首触锚价 LT-IS6312GP-4GX8GT-FBP $194.3 EXW（主表档位（Saga 暂无对应型号；信里不写 SmartByte 型号）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Atul, you asked about certificates for the bypass industrial switch — CE / FCC / RoHS files are ready (no UL / BIS); is the project a ring of panels on one fibre, and how many nodes? Reference: the bypass unit at $194.3 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：公司网站（表内无域名，无法核实是否仍在运营）
-- **下一步**：待 Simon 排期（首封） A 邮箱 → agilitybaroda@gmail.com（Atul Tiwari） 首封：按 email_hook 一问
+- **下一步**：待 Simon 排期（首封） A 邮箱 → agilitybaroda@gmail.com（Atul Tiwari） 首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-11「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问
 
-## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-25）
 
-> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1278` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1278` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-25。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「回复：thanks 问了证书 产品对他有用；有用」）** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：IN 次级（点名） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「回复：thanks 问了证书 产品对他有用；有用」；研究档 risks：印度 BIS 认证要求；gmail
+- **绑定等级：Elsa 群发 BCC 已触达 2026-08-11「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，印度-3（锚 kosovaku gmail；2025-02-28 起月轮，14 轮） 批次 To kosovaku@gmail.com，0 回（第 74 批 Bcc 头核对 msg 19fef6807ae77bef）；S/A 箱：S/A 邮箱均无往来；来源：用户表「回复：thanks 问了证书 产品对他有用；有用」）** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：IN 次级（点名） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「回复：thanks 问了证书 产品对他有用；有用」；研究档 risks：印度 BIS 认证要求；gmail；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To kosovaku@gmail.com）本户见于 2026-08-11 名单；该批次最早 2025-02-28 起共 14 轮，更早轮次 Bcc 未读
 - **现状一句话**：印度古吉拉特 Vadodara 电气 / 自动化工程公司（Atul Tiwari），2023 年要目录、问证书，对 2×2 bypass 与 bypass 系列宣传册回复有用。
 - **对方真实需求（有据）**：bypass 系列 → SmartByte LT-IS6312GP-4GX8GT-FBP（SmartByte 型号；Saga 暂无对应名，报价时注明）；一般工业 PoE → STI-288GPM。
 - **断点 / 为什么停在这里**：印度 BIS 认证要求；gmail
 - **Saga 现在该推什么**：P1 **LT-IS6312GP-4GX8GT-FBP**（25% 档，首触锚价 LT-IS6312GP-4GX8GT-FBP $194.3 EXW（主表档位（Saga 暂无对应型号；信里不写 SmartByte 型号）；第 72 批 2026-10-24）；按主表（研究档 saga_fit））——bypass 系列 → SmartByte LT-IS6312GP-4GX8GT-FBP（SmartByte 型号；Saga 暂无对应名，报价时注明）；一般工业 PoE → STI-288GPM。
-- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → agilitybaroda@gmail.com（Atul Tiwari）　首封：按 email_hook 一问
+- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → agilitybaroda@gmail.com（Atul Tiwari）　首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-11「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问
   - 第一问（只问一个）：Atul, you asked about certificates for the bypass industrial switch — CE / FCC / RoHS files are ready (no UL / BIS); is the project a ring of panels on one fibre, and how many nodes? Reference: the bypass unit at $194.3 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2023-06-19 | 来 | 用户表（Simon 跟进记录；渠道 领英） | 用户表跟进：推「发了2*2bypass图 DS 特点」→ 对方「thanks  问了证书 产品对他有用」 | Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写 | `Clients/E/群发/已重新审核  08.11/领英.xlsx no.7 2023.6.19` |
+| 2026-08-11 | 去 | Elsa 群发（BCC；To kosovaku@gmail.com，印度-3（锚 kosovaku gmail；2025-02-28 起月轮，14 轮） 批次） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发 BCC 触达证据（命中地址 agilitybaroda@gmail.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-10-21 | 用户表 | Simon | 回复：thanks 问了证书 产品对他有用；有用 | 表内备注 | `用户表` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来；用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码
@@ -221,12 +222,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 18）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 18）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

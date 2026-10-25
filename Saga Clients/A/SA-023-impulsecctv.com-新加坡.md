@@ -38,18 +38,18 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM — 已打开的主题（2/21 封有打开记录）：「2.5G Ethernet Switch」(2024-07-08)、「8 Port Industrial PoE Switch」(2025-02-21) → 读者兴趣偏「2.5G」；与 P1 同类，继续 最近一封去信是 2026-09-21 A 邮箱模板（在本档最后一条事实之后）——下一封必须回到真人线程、不再叠模板｜已发资料（勿重发）：Product Link_2026Q2(2026-03-03)、Product Link_2026Q3(2026-07-17)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）；再触锚价 STI-288DGGPM $137.5（PDF 上限；30% 档 151.6 超；第 72 批 2026-10-24）；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-02 $65（10g media converter）；群发里他已看到的价（续）：2026-08-21 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-08-08 $300（48 Port PoE Managed Switch）、2025-10-17 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Our site is now live at sagatele.com — which Impulse PoE SKU is sourced from ONV today? Reference: STI-288DGGPM at $137.5 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：2026-11 E 或 A 邮箱 → ak@impulsecctv.com 首封前知悉：Elsa 2026-05-11 单发过「10G Enterprise SFP Switch」（未见回复（Elsa 箱 Replied 标签无））；一封：sagatele.com + 地址 + 一句话
+- **下一步**：2026-11 E 或 A 邮箱 → ak@impulsecctv.com 首封前知悉：Elsa 已 1:1 去信 4 轮（2026-03-02→2026-08-04，客户回过信（2026-01-08））（第 74 批(m)）；一封：sagatele.com + 地址 + 一句话
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-023` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未绑定（Elsa 邮箱 2026-01-07 Amol Kumar 回「pls share your company website and your address」→ Elsa 01-08 回复后无下文；A/S 邮箱 21 封 0 回）；补核（第 73 批）：Elsa 01-08 的回复没给网站/地址（当时无官网），只反问项目/自有品牌 + MII；Elsa 单发去信 1 封（2026-05-11「10G Enterprise SFP Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）** ｜ 类型：新加坡安防品牌 Impulse CCTV（自有 PoE 交换机线，要贴 logo——用户表） ｜ 筛子：0（邮件层无人工回复） ｜ 停点：可信度核验（网站/地址）后停；当时 sagatele.com 未上线 ｜ 复活：用 sagatele.com + 公司地址重发一次 ｜ 通路：SG 非主攻 ｜ 节奏：一次 ｜ 证据：邮件：去信 21 封（2024-07-08 → 2026-09-21），来信 0；Opened 标签 2 次（2025-02-21、2024-07-08）；收件人 info@impulsecctv.com, ps@impulsecctv.com
+- **绑定等级：未绑定（Elsa 邮箱 2026-01-07 Amol Kumar 回「pls share your company website and your address」→ Elsa 01-08 回复后无下文；A/S 邮箱 21 封 0 回）；补核（第 73 批）：Elsa 01-08 的回复没给网站/地址（当时无官网），只反问项目/自有品牌 + MII；Elsa 1:1 去信 4 轮 2026-03-02→2026-08-04（To 仅本户 ak@impulsecctv.com；头 msg 19fcb4933308f270 核对无 Bcc，称呼「Hi, Amol」= 个性化逐月 1:1 名单；主题 Updated Ethernet Switches Links、Industrial PoE Switch、10G Enterprise SFP Switch、24 Port PoE Managed Switch；客户来过信：Elsa 回 2026-01-08 Re:「OEM Core Switching Solution」）（第 74 批(m) `from:e.sagatelecom to:` 全程 complete，直收 5 条）** ｜ 类型：新加坡安防品牌 Impulse CCTV（自有 PoE 交换机线，要贴 logo——用户表） ｜ 筛子：0（邮件层无人工回复） ｜ 停点：可信度核验（网站/地址）后停；当时 sagatele.com 未上线 ｜ 复活：用 sagatele.com + 公司地址重发一次 ｜ 通路：SG 非主攻 ｜ 节奏：一次 ｜ 证据：邮件：去信 21 封（2024-07-08 → 2026-09-21），来信 0；Opened 标签 2 次（2025-02-21、2024-07-08）；收件人 info@impulsecctv.com, ps@impulsecctv.com
 - **现状一句话**：唯一的人工回复在 Elsa 邮箱：对 CENTEC 核心交换机群发问「公司网站和地址」。这是身份核验，不是需求。
 - **对方真实需求（有据）**：自有品牌 PoE 交换机（对位其在用 ONV——用户表）。
 - **断点 / 为什么停在这里**：可信度门槛；现有网站可补。
 - **Saga 现在该推什么**：P1 **STI-288DGGPM**（30% 档，再触锚价 STI-288DGGPM $137.5（PDF 上限；30% 档 151.6 超；第 72 批 2026-10-24）；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-02 $65（10g media converter）；群发里他已看到的价（续）：2026-08-21 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-08-08 $300（48 Port PoE Managed Switch）、2025-10-17 $280（10G Enterprise SFP Switch））——已打开的主题（2/21 封有打开记录）：「2.5G Ethernet Switch」(2024-07-08)、「8 Port Industrial PoE Switch」(2025-02-21) → 读者兴趣偏「2.5G」；与 P1 同类，继续 最近一封去信是 2026-09-21 A 邮箱模板（在本档最后一条事实之后）——下一封必须回到真人线程、不再叠模板｜已发资料（勿重发）：Product Link_2026Q2(2026-03-03)、Product Link_2026Q3(2026-07-17)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）
-- **下一步（具体）**：2026-11　E 或 A 邮箱 → ak@impulsecctv.com　首封前知悉：Elsa 2026-05-11 单发过「10G Enterprise SFP Switch」（未见回复（Elsa 箱 Replied 标签无））；一封：sagatele.com + 地址 + 一句话
+- **下一步（具体）**：2026-11　E 或 A 邮箱 → ak@impulsecctv.com　首封前知悉：Elsa 已 1:1 去信 4 轮（2026-03-02→2026-08-04，客户回过信（2026-01-08））（第 74 批(m)）；一封：sagatele.com + 地址 + 一句话
   - 第一问（只问一个）：Our site is now live at sagatele.com — which Impulse PoE SKU is sourced from ONV today? Reference: STI-288DGGPM at $137.5 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -58,7 +58,10 @@ updated: 2026-10-25
 | 2025-02-21 | 去 | Saga（群发） | 「8 Port Industrial PoE Switch」被打开（Mailtrack Opened 标签） | 唯一的互动痕迹 | `f408faefdae4dd88` |
 | 2026-01-07 | 来（Elsa 箱） | Amol Kumar（Impulse CCTV） | pls share your company website and your address | 核验 | `E 19b9767e81c6fe96` |
 | 2026-01-08 | 去 | Elsa | For detailed CENTEC-based product information(specifications and datasheets), we usually provide them directly to partners via email… 1. Are you working on a project or developing your own brand? 2. Is this regarding MII compliance, or just a regular import?（附 8C48XF.png） | Amol 01-07 要网站 + 地址，Elsa 01-08 没给（当时无官网），反问项目/品牌 + MII → 无下文；现在 sagatele.com 上线，信稿补这一笔是对的 | `gmail_e 19b9ccd03f17ff1c` |
+| 2026-03-02 | out | Elsa → ak@impulsecctv.com | Updated Ethernet Switches Links（Elsa 1:1 逐月名单第 1/4 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:ak@impulsecctv.com` 全程 complete：4 轮直收；客户曾来信（见 Re: 行） | `elsa_1to1` |
+| 2026-04-03 | out | Elsa → ak@impulsecctv.com | Industrial PoE Switch（Elsa 1:1 逐月名单第 2/4 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:ak@impulsecctv.com` 全程 complete：4 轮直收；客户曾来信（见 Re: 行） | `elsa_1to1` |
 | 2026-05-11 | out | Elsa → ak@impulsecctv.com | 10G Enterprise SFP Switch（Elsa 2026 年 1:1 名单重发；To 仅本户） | 本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
+| 2026-08-04 | out | Elsa → ak@impulsecctv.com | 24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 4/4 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:ak@impulsecctv.com` 全程 complete：4 轮直收；客户曾来信（见 Re: 行） | `elsa_1to1` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文
 

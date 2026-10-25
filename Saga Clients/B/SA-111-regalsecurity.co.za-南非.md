@@ -39,27 +39,27 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：暂无；若对方自有标部门出现，才按 STC-28DGGPM / STI-110GE 对位 — ZA 非主攻 + 体量过大 + 零互动 → 维持最低频保活。已打开的主题（2/23 封有打开记录）：「Re: 8 Port Industrial PoE Switch [#RS9」(2024-10-17)、「48 Port PoE Managed Switch」(2024-12-11) → 读者兴趣偏「工业」；当前 P1 属「10G 汇聚/L3」，下一封按「工业」给，不按 P1；按 20% 分销档；群发里他已看到的价（续）：2026-08-07 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-12-11 $300（48 Port PoE Managed Switch）、2025-10-01 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Does Regal's Securi-Prod line source any OEM switches, and who owns that decision?
 - **最大未知**：官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
-- **下一步**：2027-Q1（之前不发） A 邮箱 → Jacques 首封前知悉：Elsa 2025-02-10 单发过「Industrial PoE Switch」（未见回复（Elsa 箱 Replied 标签无））；一句话问自有标部门归口；停止向 nsc.support 发任何群发
+- **下一步**：2027-Q1（之前不发） A 邮箱 → Jacques 首封前知悉：Elsa 仅 2025-02-10 单发过 1 封「Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；一句话问自有标部门归口；停止向 nsc.support 发任何群发
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-111` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未绑定（0 次人工回复；15 封来信 = 14 封工单机器人 + 1 封 Regal 给 Saga 的报价单）；Elsa 单发去信 1 封（2025-02-10「Industrial PoE Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）** ｜ 类型：南非大型多品牌安防分销（201–500 人，29 分支）——体量 ≫ Saga；目标序列第三档 ｜ 筛子：0 ｜ 停点：触达层错位：群发进了 nsc.support 工单队列（每封生成一个 RS 工单号），2024-10 对方甚至把 Saga 当买家发来报价单；IT 总监 Jacques du Plessis 2025-10 起 A 邮箱 10+ 封零回复 ｜ 复活：只有其自有标 Securi-Prod 的产品经理主动找 OEM 货源；否则不投入（ZA 非主攻） ｜ 通路：ZA（非主攻区） ｜ 节奏：2023-11 → 2026-10 共 23 封去信；建议停发 nsc.support，Jacques 每季 1 封 ｜ 证据：k=de1495c39c4e07ba / f41d4564c84c5f93 / 54e2f9d2852f5f15 / c343cd55d5c20ee8
+- **绑定等级：未绑定（0 次人工回复；15 封来信 = 14 封工单机器人 + 1 封 Regal 给 Saga 的报价单）；Elsa 1:1 去信 1 封（2025-02-10「Industrial PoE Switch」；To 仅本户 enquiries@regalsecurity.co.za；Bcc 未逐封读头；同类名单抽读 24 封均无 Bcc；此后再未进 Elsa 任何名单——全箱 `from:e.sagatelecom to:enquiries@regalsecurity.co.za` 仅此 1 条，complete）（第 74 批(m)）** ｜ 类型：南非大型多品牌安防分销（201–500 人，29 分支）——体量 ≫ Saga；目标序列第三档 ｜ 筛子：0 ｜ 停点：触达层错位：群发进了 nsc.support 工单队列（每封生成一个 RS 工单号），2024-10 对方甚至把 Saga 当买家发来报价单；IT 总监 Jacques du Plessis 2025-10 起 A 邮箱 10+ 封零回复 ｜ 复活：只有其自有标 Securi-Prod 的产品经理主动找 OEM 货源；否则不投入（ZA 非主攻） ｜ 通路：ZA（非主攻区） ｜ 节奏：2023-11 → 2026-10 共 23 封去信；建议停发 nsc.support，Jacques 每季 1 封 ｜ 证据：k=de1495c39c4e07ba / f41d4564c84c5f93 / 54e2f9d2852f5f15 / c343cd55d5c20ee8
 - **现状一句话**：Regal 是南非最大的安防分销商之一，但 Saga 两年多的 23 封去信没有触达任何决策人：S 邮箱时期全部进入 nsc.support 的工单系统（14 个自动工单），2024-10-17 销售支持甚至回了一份 Regal 自己的报价单（K8 Quotation-25992001.pdf）——把 Saga 的「8 Port Industrial PoE Switch」当成了采购询价；A 邮箱 2025-10 起直发 IT 总监 Jacques du Plessis（170 USD 24 口 PoE 等）零回复。研究档「2025-10 已给报价」= Saga 单向报价，不是互动。
 - **对方真实需求（有据）**：无可证需求；在售 PLANET GS-4210-8P2S / Genata / TP-Link / UTEPO，自有标 Securi-Prod / Sola-Prod。
 - **断点 / 为什么停在这里**：错把「有回信」当「有互动」——回信全是机器人。大型分销商的 OEM 决策在产品经理，不在 IT 总监或工单台。
 - **Saga 现在该推什么**：P1 **暂无；若对方自有标部门出现，才按 STC-28DGGPM / STI-110GE 对位**（20% 档，按 20% 分销档；群发里他已看到的价（续）：2026-08-07 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-12-11 $300（48 Port PoE Managed Switch）、2025-10-01 $280（10G Enterprise SFP Switch））——ZA 非主攻 + 体量过大 + 零互动 → 维持最低频保活。已打开的主题（2/23 封有打开记录）：「Re: 8 Port Industrial PoE Switch [#RS9」(2024-10-17)、「48 Port PoE Managed Switch」(2024-12-11) → 读者兴趣偏「工业」；当前 P1 属「10G 汇聚/L3」，下一封按「工业」给，不按 P1
   - 做不了 / 要先核的：Securi-Prod 产品经理是谁（LinkedIn 可查，未做）
-- **下一步（具体）**：2027-Q1（之前不发）　A 邮箱 → Jacques　首封前知悉：Elsa 2025-02-10 单发过「Industrial PoE Switch」（未见回复（Elsa 箱 Replied 标签无））；一句话问自有标部门归口；停止向 nsc.support 发任何群发
+- **下一步（具体）**：2027-Q1（之前不发）　A 邮箱 → Jacques　首封前知悉：Elsa 仅 2025-02-10 单发过 1 封「Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；一句话问自有标部门归口；停止向 nsc.support 发任何群发
   - 第一问（只问一个）：Does Regal's Securi-Prod line source any OEM switches, and who owns that decision?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2023-11-21 | 来 | nsc.support（机器人） | We have received your request… Support Ticket Reference [#RS26837] | 第 1 个工单（共 14 个） | `de1495c39c4e07ba` |
 | 2024-10-17 | 来 | Josephine Davis（Sales Support） | Morning Simon Please find the Attached Quote（K8 document Quotation-25992001.pdf） | Regal 反向给 Saga 报价——证明 Saga 邮件被当成采购 | `f41d4564c84c5f93` |
-| 2026-08-07 | 去 | Alan → Jacques du Plessis | 24 Port PoE Managed Switch… Price: 170USD/PC | A 邮箱直发 IT 总监，无回 | `54e2f9d2852f5f15` |
 | 2025-02-10 | out | Elsa → enquiries@regalsecurity.co.za | Industrial PoE Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
+| 2026-08-07 | 去 | Alan → Jacques du Plessis | 24 Port PoE Managed Switch… Price: 170USD/PC | A 邮箱直发 IT 总监，无回 | `54e2f9d2852f5f15` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：Regal 报价单 PDF 未入库（附件未存），不知其报的产品与价格——若能找回，是 ZA 市场 8 口工业 PoE 的竞品价格情报
 

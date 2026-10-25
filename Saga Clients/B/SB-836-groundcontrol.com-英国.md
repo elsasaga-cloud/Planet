@@ -36,25 +36,25 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-054GP — 远端站点配套 PoE（现 Elink 配件）→ 工业 4 PoE + 1 GE STI-054GP（$33.8 @30%）/ 4 PoE + 1 SFP STI-154GP（$40.8）贴 Ground Control 标；PoE 注入器类配件 Saga 不供（Q-32）。已打开的主题（1/25 封有打开记录）：「Industrial PoE Switch」(2025-08-21) → 读者兴趣偏「工业」；与 P1 同类，继续；换人再触锚价 STI-054GP $32.5 EXW（最近实报 $32.5（SB-093 $33）（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-10-22 $65（10G Media Converter）；群发里他已看到的价（续）：2026-08-07 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-06-10 $300（48 Port PoE Managed Switch）、2025-07-07 $240（24 Port Fiber Switch）、2025-10-13 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Scotty, for the PoE feeding cameras and sensors next to your satellite terminals at remote sites, we can supply compact industrial 4-PoE + 1 uplink switches (−40~75 °C, 12–57 V, CE/RoHS/UKCA) under your label from small lots — which input voltage do your remote installations provide? Reference: STI-054GP at $32.5 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 首封前知悉：Elsa 2025-02-24 单发过「8 Port Industrial PoE Switch」（未见回复（Elsa 箱 Replied 标签无））；换收件人再发一封
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 首封前知悉：Elsa 仅 2025-02-24 单发过 1 封「8 Port Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-836` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A/S 邮箱 25 封 2024→2026，1 次记录打开，0 回；收件 hello@groundcontrol.com, scotty.thibodeaux@groundcontrol.com；主题多为「Industrial PoE Switch、10G Enterprise SFP Switch」）；Elsa 单发去信 1 封（2025-02-24「8 Port Industrial PoE Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）** ｜ 类型：卫星 IoT 设备制造商（英国，PoE 配件为配套） ｜ 筛子：1~2（1 次打开） ｜ 停点：25 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：停发群发；若要继续，换具名邮箱 + 只问一句 ｜ 通路：UK 主攻（四主） ｜ 节奏：一封 ｜ 证据：gmail_digest：out 25，Opened 标签 1（Simon 群发追踪）；用户表：「PoE配件 Elink的」；研究档 risks：PoE 配件（注入器/分离器）Saga 不供（Q-32）；交换机为卫星方案配套（量小）；15 次无回复 → 改向 Solution Architect 具名首触
+- **绑定等级：未触达（A/S 邮箱 25 封 2024→2026，1 次记录打开，0 回；收件 hello@groundcontrol.com, scotty.thibodeaux@groundcontrol.com；主题多为「Industrial PoE Switch、10G Enterprise SFP Switch」）；Elsa 1:1 去信 1 封（2025-02-24「8 Port Industrial PoE Switch」；To 仅本户 hello@groundcontrol.com；Bcc 未逐封读头；同类名单抽读 24 封均无 Bcc；此后再未进 Elsa 任何名单——全箱 `from:e.sagatelecom to:hello@groundcontrol.com` 仅此 1 条，complete）（第 74 批(m)）** ｜ 类型：卫星 IoT 设备制造商（英国，PoE 配件为配套） ｜ 筛子：1~2（1 次打开） ｜ 停点：25 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：停发群发；若要继续，换具名邮箱 + 只问一句 ｜ 通路：UK 主攻（四主） ｜ 节奏：一封 ｜ 证据：gmail_digest：out 25，Opened 标签 1（Simon 群发追踪）；用户表：「PoE配件 Elink的」；研究档 risks：PoE 配件（注入器/分离器）Saga 不供（Q-32）；交换机为卫星方案配套（量小）；15 次无回复 → 改向 Solution Architect 具名首触
 - **现状一句话**：英国 Ground Control（卫星 IoT 与追踪设备设计制造商（RockFLEET、Iridium/Viasat 空时）；表内「PoE 配件 Elink 的」「可以多跟进一下」；KP Scotty Thibodeaux（IoT Solution Architect））；群发 15 次无回复。
 - **对方真实需求（有据）**：远端站点配套 PoE（现 Elink 配件）→ 工业 4 PoE + 1 GE STI-054GP（$33.8 @30%）/ 4 PoE + 1 SFP STI-154GP（$40.8）贴 Ground Control 标；PoE 注入器类配件 Saga 不供（Q-32）
 - **断点 / 为什么停在这里**：PoE 配件（注入器/分离器）Saga 不供（Q-32）；交换机为卫星方案配套（量小）；15 次无回复 → 改向 Solution Architect 具名首触
 - **Saga 现在该推什么**：P1 **STI-054GP**（30% 档，换人再触锚价 STI-054GP $32.5 EXW（最近实报 $32.5（SB-093 $33）（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-10-22 $65（10G Media Converter）；群发里他已看到的价（续）：2026-08-07 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-06-10 $300（48 Port PoE Managed Switch）、2025-07-07 $240（24 Port Fiber Switch）、2025-10-13 $280（10G Enterprise SFP Switch））——远端站点配套 PoE（现 Elink 配件）→ 工业 4 PoE + 1 GE STI-054GP（$33.8 @30%）/ 4 PoE + 1 SFP STI-154GP（$40.8）贴 Ground Control 标；PoE 注入器类配件 Saga 不供（Q-32）。已打开的主题（1/25 封有打开记录）：「Industrial PoE Switch」(2025-08-21) → 读者兴趣偏「工业」；与 P1 同类，继续
-- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　首封前知悉：Elsa 2025-02-24 单发过「8 Port Industrial PoE Switch」（未见回复（Elsa 箱 Replied 标签无））；换收件人再发一封
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　首封前知悉：Elsa 仅 2025-02-24 单发过 1 封「8 Port Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封
   - 第一问（只问一个）：Scotty, for the PoE feeding cameras and sensors next to your satellite terminals at remote sites, we can supply compact industrial 4-PoE + 1 uplink switches (−40~75 °C, 12–57 V, CE/RoHS/UKCA) under your label from small lots — which input voltage do your remote installations provide? Reference: STI-054GP at $32.5 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2025-02-24 | out | Elsa → hello@groundcontrol.com | 8 Port Industrial PoE Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 | 2026-09-24 | 去 | A/S 群发 | Industrial PoE Switch、10G Enterprise SFP Switch | 25 封 / 1 次打开 / 0 回｜首封 2024-06-28 → 末封 2026-09-24（25 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | PoE配件 Elink的 | 表内备注 | `用户表` |
-| 2025-02-24 | out | Elsa → hello@groundcontrol.com | 8 Port Industrial PoE Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 
 ## 基本事实（事实/推断/假设分层）
 

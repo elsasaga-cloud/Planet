@@ -38,31 +38,38 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 对位 ATMIS-6208PI → STI-288GPM 贴 ATMIS 标（OEM 30%）；6216PI → STI-21616GP；6408PI → STI-488GP。已打开的主题（1/9 封有打开记录）：「10G media converter」(2024-08-08) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续｜需求台账 #1（2026-10-24 改正）：「Stacking is mandatory」的正确答法不是只说没有——AC5 没有，但 CENTEC STH1G（STH-2QX4DX48GP，≤8 台）有；信里两层都说；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-12-27 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2024-08-08 $65（10G Media Converter）
 - **第一问（只问一个）**：Subhash — on stacking: our Marvell access units do not stack (redundancy there is ERPS G.8032 + 10G uplinks). Where stacking is mandatory we have the CENTEC-based STH-2QX4DX48GP, 48×1G PoE++ + 4×25G + 2×40G, stacking up to 8 units as one logical switch. Is stacking a tender clause in your projects, and at what port count?
 - **最大未知**：年走量与现供应商
-- **下一步**：2026-11 Elsa 邮箱 → subhash@andatelecom.com（抄 harish@） 首封前知悉：Elsa 2026-05-11 单发过「10G Enterprise SFP Switch」（之后 Elsa 箱 Replied 标签见 2026-08-04 来信）；只问一句
+- **下一步**：2026-11 Elsa 邮箱 → subhash@andatelecom.com（抄 harish@） 首封前知悉：Elsa 已 1:1 去信 9 轮（2025-05-05→2026-08-04，0 回）（第 74 批(m)）；只问一句
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-746` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：轻度触达（Elsa 邮箱 3 封来信：2025-06-17 Harish Gupta 董事催内部「Nitin/Subhash please reply」；2026-08-04 Subhash 两封——先要 datasheet，收到后答「will check… no a days Stacking is mandatory」；S/A 邮箱 9 封 1 次打开 0 回）；Elsa 单发去信 1 封（2026-05-11「10G Enterprise SFP Switch」；To 本户、非 BCC；之后 Elsa 箱 Replied 标签见 2026-08-04 来信）（第 74 批(e) Elsa 箱 in:sent 排锚扫描）；另 Elsa 单发 1 封（2025-12-29「Marvell Industrial Alert System」）** ｜ 类型：— ｜ 筛子：3（要了规格书、给了卡点） ｜ 停点：2026-08-04 对方「will check」后无下文（Elsa 侧） ｜ 复活：一封实话：AC5 固件堆叠的真实边界（见 SB-924 口径）+ 问「堆叠是标书硬条款还是运维习惯」 ｜ 通路：IN 次级（点名） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 9，Opened 标签 1（Simon 群发追踪）；用户表：「兴趣：对EDFA台式很有兴趣 画了一个应用图;从ONV买 也有其他国内的 也买AOA的」；研究档 risks：EDFA 为其兴趣点（Saga 无）；Elsa 邮箱 `data/gmail_e/text/`（Replied 线程，客户→Elsa 正文；Elsa 回复正文未入库）
+- **绑定等级：轻度触达（Elsa 邮箱 3 封来信：2025-06-17 Harish Gupta 董事催内部「Nitin/Subhash please reply」；2026-08-04 Subhash 两封——先要 datasheet，收到后答「will check… no a days Stacking is mandatory」；S/A 邮箱 9 封 1 次打开 0 回）；Elsa 1:1 去信 9 轮 2025-05-05→2026-08-04（To 仅本户 harish@andatelecom.com / info@andatelecom.com（按地址：harish@andatelecom.com 4 轮 / info@andatelecom.com 5 轮）；头 msg 19fcb2494a8853cf 核对无 Bcc，称呼「Hi, Harish」= 个性化逐月 1:1 名单；主题 Booster PoE Switch、Marvell Industrial Alert System、Updated Ethernet Switches Links、24 Port PoE Managed Switch…；0 回（Elsa 箱无 Re: 行））（第 74 批(m) `from:e.sagatelecom to:` 全程 complete，直收 9 条）** ｜ 类型：— ｜ 筛子：3（要了规格书、给了卡点） ｜ 停点：2026-08-04 对方「will check」后无下文（Elsa 侧） ｜ 复活：一封实话：AC5 固件堆叠的真实边界（见 SB-924 口径）+ 问「堆叠是标书硬条款还是运维习惯」 ｜ 通路：IN 次级（点名） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 9，Opened 标签 1（Simon 群发追踪）；用户表：「兴趣：对EDFA台式很有兴趣 画了一个应用图;从ONV买 也有其他国内的 也买AOA的」；研究档 risks：EDFA 为其兴趣点（Saga 无）；Elsa 邮箱 `data/gmail_e/text/`（Replied 线程，客户→Elsa 正文；Elsa 回复正文未入库）
 - **现状一句话**：印度诺伊达（+91 120）电信级光纤产品公司：自有 **ATMIS-** 系列管理 / 工业接入交换机（ATMIS-6208PI = 2 SFP + 8 PoE 工业、6216PI、6408PI、402G）、PDH / E1 转换、光复用器、MC、VoIP；表内 Director Harish Gupta「已有回复」，对台式 EDFA 很有兴趣（画了应用图），从 ONV 与其他国内厂采购，也买 AOA（光模块）。自有型号 = 贴牌 → OEM 30%。
 - **对方真实需求（有据）**：对位 ATMIS-6208PI → STI-288GPM 贴 ATMIS 标（OEM 30%）；6216PI → STI-21616GP；6408PI → STI-488GP。
 - **断点 / 为什么停在这里**：堆叠（stacking）被视为必需；AC5 口径与 Versitron 同题
 - **Saga 现在该推什么**：P1 **STI-288GPM**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-12-27 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2024-08-08 $65（10G Media Converter））——对位 ATMIS-6208PI → STI-288GPM 贴 ATMIS 标（OEM 30%）；6216PI → STI-21616GP；6408PI → STI-488GP。已打开的主题（1/9 封有打开记录）：「10G media converter」(2024-08-08) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续｜需求台账 #1（2026-10-24 改正）：「Stacking is mandatory」的正确答法不是只说没有——AC5 没有，但 CENTEC STH1G（STH-2QX4DX48GP，≤8 台）有；信里两层都说
-- **下一步（具体）**：2026-11　Elsa 邮箱 → subhash@andatelecom.com（抄 harish@）　首封前知悉：Elsa 2026-05-11 单发过「10G Enterprise SFP Switch」（之后 Elsa 箱 Replied 标签见 2026-08-04 来信）；只问一句
+- **下一步（具体）**：2026-11　Elsa 邮箱 → subhash@andatelecom.com（抄 harish@）　首封前知悉：Elsa 已 1:1 去信 9 轮（2025-05-05→2026-08-04，0 回）（第 74 批(m)）；只问一句
   - 第一问（只问一个）：Subhash — on stacking: our Marvell access units do not stack (redundancy there is ERPS G.8032 + 10G uplinks). Where stacking is mandatory we have the CENTEC-based STH-2QX4DX48GP, 48×1G PoE++ + 4×25G + 2×40G, stacking up to 8 units as one logical switch. Is stacking a tender clause in your projects, and at what port count?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2023-12-13 | 备 | Saga 内部印度线索表 List_2023.12.13.xlsx（存于 Fastball/Rishi 文件夹） | 名单行：「96 https://www.andatelecomindia.com/ 印度 外贸邦 MC Switch 周边产品 harish@andatelecom.com ‘91（0）935025 7173 已加」 | Saga 自己的线索表里对本户的一手备注（来源/兴趣点/是否已加 WhatsApp/展会现场对话）——比群发打开率更硬的证据；写下一封邮件时直接引用这里的兴趣点 | `Drive PI 文件夹 2_印度_Rishi` |
 | 2025-02-14 | 去 | A/S 群发 | 48 Port PoE Managed Switch、24V poe switch | 9 封 / 1 次打开 / 0 回｜首封 2024-06-19 → 末封 2025-02-14（9 去 / 0 来） | `gmail_digest` |
+| 2025-05-05 | out | Elsa → info@andatelecom.com | 90W PoE Managed Switch（Elsa 1:1 逐月名单第 1/9 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:harish@andatelecom.com` 全程 complete：9 轮直收；0 回 | `elsa_1to1` |
 | 2025-06-17 | 来 | Harish Gupta（Director, ANDA Telecom） | Dear Nitin/Subhash Please reply. | 董事把 Elsa 的 16 口信转给采购两人 = 内部有兴趣 | `gmail_e` |
+| 2025-06-17 | out | Elsa → info@andatelecom.com | 16 Port Ethernet Switch（Elsa 1:1 逐月名单第 2/9 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:harish@andatelecom.com` 全程 complete：9 轮直收；0 回 | `elsa_1to1` |
+| 2025-10-02 | out | Elsa → info@andatelecom.com | 10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 3/9 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:harish@andatelecom.com` 全程 complete：9 轮直收；0 回 | `elsa_1to1` |
+| 2025-12-04 | out | Elsa → info@andatelecom.com | Booster PoE Switch（Elsa 1:1 逐月名单第 4/9 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:harish@andatelecom.com` 全程 complete：9 轮直收；0 回 | `elsa_1to1` |
+| 2025-12-29 | out | Elsa → info@andatelecom.com | Marvell Industrial Alert System（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；之后 Elsa 箱 Replied 标签见 2026-08-04 来信 | `elsa_1to1` |
+| 2026-03-02 | out | Elsa → harish@andatelecom.com | Updated Ethernet Switches Links（Elsa 1:1 逐月名单第 6/9 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:harish@andatelecom.com` 全程 complete：9 轮直收；0 回 | `elsa_1to1` |
+| 2026-04-03 | out | Elsa → harish@andatelecom.com | 10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 7/9 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:harish@andatelecom.com` 全程 complete：9 轮直收；0 回 | `elsa_1to1` |
+| 2026-05-11 | out | Elsa → harish@andatelecom.com | 10G Enterprise SFP Switch（Elsa 2026 年 1:1 名单重发；To 仅本户） | 本户在 Elsa 的 1:1 名单里（非 BCC 批次）；之后 Elsa 箱 Replied 标签见 2026-08-04 来信 | `elsa_1to1` |
 | 2026-08-04 | 来 | Subhash（ANDA Telecom） | First share us data sheet for the same | 24 口 PoE（AC5）信当天要规格书 | `gmail_e` |
 | 2026-08-04 | 来 | Subhash | we will check and update you soon, You have mentioned some Not supported features (no a days Stacking is mandatory) | 卡点 = 堆叠；Elsa 的规格书里明写了不支持项（诚实），对方以堆叠为必需 | `gmail_e` |
 | 2026-08-04 | 去 | Elsa | Please check attached datasheet.（附件 = STC-424XGGPM-280W.docx） | Subhash 要的规格书 = 24 口 PoE 管理机 STC-424XGGPM-280W；他看完才说「stacking is mandatory」——比对对象就是这款 | `gmail_e 19fcc40506a0a404` |
+| 2026-08-04 | out | Elsa → harish@andatelecom.com | 24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 9/9 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:harish@andatelecom.com` 全程 complete：9 轮直收；0 回 | `elsa_1to1` |
 | 2026-10-21 | 用户表 | Simon | 兴趣：对EDFA台式很有兴趣 画了一个应用图;从ONV买 也有其他国内的 也买AOA的 | 表内备注 | `用户表` |
-| 2026-05-11 | out | Elsa → harish@andatelecom.com | 10G Enterprise SFP Switch（Elsa 2026 年 1:1 名单重发；To 仅本户） | 本户在 Elsa 的 1:1 名单里（非 BCC 批次）；之后 Elsa 箱 Replied 标签见 2026-08-04 来信 | `elsa_1to1` |
-| 2025-12-29 | out | Elsa → info@andatelecom.com | Marvell Industrial Alert System（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；之后 Elsa 箱 Replied 标签见 2026-08-04 来信 | `elsa_1to1` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：（已核 2026-10-24，第 73 批）Elsa 2026-08-04 规格书 = STC-424XGGPM-280W.docx（连接器读 Elsa 回复正文）
 

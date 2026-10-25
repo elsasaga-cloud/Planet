@@ -1,156 +1,156 @@
 {
- "code": "SB-146",
- "name_official": "ФТИ-Оптроник（FTI-Optronic，АО/ООО，圣彼得堡；fti-optronic.com）",
- "researched_at": "2026-10-21",
- "website_status": "在线（搜索可见；快照 2026-10-21 unreachable——俄站对境外 IP 限制）",
- "summary": "俄罗斯圣彼得堡的光模块/媒体转换器**制造商与品牌商** ФТИ-Оптроник（生产 1×9/SFP/SFP+/XFP/QSFP/CFP 光模块、光纤媒体转换器、转换器机箱，并售工业 MC；地址 Политехническая 28；info@fti-optronic.com，8 800 333 04 94）。表内兴趣 MC/SFP/机架，2024-04 对群发的 5 电口交换机回「有兴趣」；18 次推送 1 次实质回复。MC/SFP 与 Saga 重叠（同行），但交换机可做其品牌补充品类 → B 30%（OEM 贴牌），俄罗斯结算/合规风险注明。",
- "type": "",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "第三方",
-   "claim": "制造商定位",
-   "quote": "На сегодняшний день производит: Оптические трансиверы форм-факторов 1х9, SFP, SFP+ 10g, SFP xPON, XFP 10g, SFP CWDM и DWDM, QSFP 40g, CFP 100g, GBIC, X2; Медиаконвертеры оптические, конвертерные шасси… Санкт-Петербург, улица Политехническая, дом 28",
-   "url": "https://www.oborudunion.ru/company/4245169/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "自述",
-   "quote": "Мы производим оптические модули форм-факторов 1×9, SFP, SFP+ 10g, SFP xPON, XFP 10g, SFP CWDM и DWDM, QSFP 40g, CFP 100g, GBIC, X2",
-   "url": "https://www.fti-optronic.com/about_company/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "联系方式",
-   "quote": "Телефон: (812) 448-08-60; E-mail: info@fti-optronic.com; Адрес: 194021, Россия, г. Санкт-Петербург, ул. Политехническая, д.28",
-   "url": "https://www.fti-optronic.com/contacts/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "第三方",
-   "claim": "登记",
-   "quote": "АО «ФТИ-Оптроник» ИНН 7802059121, КПП 780201001, ОГРН 1037804018911 … ОКВЭД: 46.69.5",
-   "url": "https://saby.ru/profile/7802059121-780201001",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "需求与回复",
-   "quote": "MC SFP 机架；2024.4.26 群发了5电口 → 有兴趣",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网 + 登记核对 · 同行品牌/OEM 判断）"
- },
- "company_facts": {
-  "legal_name": "АО «ФТИ-Оптроник»（ИНН 7802059121）/ ООО «ФТИ-Оптроник»（ИНН 7802830545）",
-  "founded": "АО：2003（ОГРН 1037804018911）",
-  "hq": "194064 Санкт-Петербург, ул. Политехническая, д. 28, лит. А；(812) 448-08-60；info@fti-optronic.com",
-  "size": "待核（中型制造商）",
-  "other": "ОКВЭД 46.69.5 批发；自产光模块全形态 + 媒体转换器 + 机箱 + 固态激光器；有工业 MC 产品线（MCSFP2-10/100/1000-IT）"
- },
- "business_lines": [
-  "光模块制造（SFP/SFP+/XFP/QSFP/CFP、CWDM/DWDM、xPON）",
-  "光纤媒体转换器与转换器机箱（含工业级）",
-  "固态激光器等光电产品"
- ],
- "products_seen": [
-  {
-   "brand": "ФТИ-Оптроник（自产）",
-   "model": "MCSFP2-10/100/1000 / MCSFP2-10/100/1000-IT",
-   "spec": "SFP 千兆媒体转换器（1,310–1,454 ₽）/ 工业版（~8,005–8,961 ₽）",
-   "saga": "MC 与 STI-110GE 直接重叠（同行）；交换机为其空白品类 → 5/8 口非管理工业款可贴牌",
-   "url": "https://www.fti-optronic.com/catalog/konvertery-pod-sfp/sfp-mediakonverter-10-100-1000-mcsfp2-10-100-1000/",
-   "date": "2026-10-21"
-  }
- ],
- "channels": {
-  "official": "info@fti-optronic.com；8 (800) 333-04-94 / (812) 448-08-60",
-  "contact": "（表内仅 info@；WA 已加，号码未记）"
- },
- "signals": [
-  "2024-04 对 5 电口非管理交换机回「有兴趣」（补品类）"
- ],
- "risks": [
-  "同行：MC/SFP 不要推（其自产）",
-  "对俄供货合规/结算风险（用户自判）",
-  "品牌商要求贴牌、固件与包装定制"
- ],
- "saga_fit": {
-  "p1": "STI-050GE",
-  "tier": 30,
-  "why": "其唯一正向回复为 5 电口工业非管理款 → STI-050GE（$17.0–18.5）做贴牌样机；MC/SFP 不推"
- },
- "email_hook": "Вы отметили интерес к 5-портовому промышленному неуправляемому коммутатору: можем поставить его под вашей маркой (нейтральная упаковка, шелкография логотипа), 5×GE DIN от $17 EXW; прислать образец и спецификацию?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A/S 邮箱 13 封 2024→2026，1 次记录打开，0 回；收件 info@fti-optronic.com；主题多为「Marvell Alleycat5 Solution、Managed Optical Bypass Switch」）；Elsa 单发去信 1 封（2025-02-28「8 Port Industrial PoE Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）",
-   "type": "—",
-   "sieve": "1~2（1 次打开）",
-   "stop": "只打通用邮箱，无记录打开",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "RU 次级（Simon 2026-08 点名）",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 13，Opened 标签 1（Simon 群发追踪）；用户表：「MC SFP 机架；2024.4.26 群发了5电口 → 有兴趣」；研究档 risks：同行：MC/SFP 不要推（其自产）"
-  },
-  "situation": "俄罗斯圣彼得堡的光模块/媒体转换器**制造商与品牌商** ФТИ-Оптроник（生产 1×9/SFP/SFP+/XFP/QSFP/CFP 光模块、光纤媒体转换器、转换器机箱，并售工业 MC；地址 Политехническая 28；info@fti-optronic.com，8 800 333 04 94）。表内兴趣 MC/SFP/机架，2024-04 对群发的 5 电口交换机回「有兴趣」；18 次推送 1 次实质回复。MC/SFP 与 Saga 重叠（同行），但交换机可做其品牌补充品类 → B 30%（OEM 贴牌），俄罗斯结算/合规风险注明。",
-  "need": "其唯一正向回复为 5 电口工业非管理款 → STI-050GE（$17.0–18.5）做贴牌样机；MC/SFP 不推",
-  "breakpoint": "同行：MC/SFP 不要推（其自产）",
-  "saga_now": {
-   "p1": "STI-050GE",
-   "tier": 30,
-   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-12-13 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2024-09-09 $65（10G Media Converter）、2025-10-23 $280（10G Enterprise SFP Switch）",
-   "why": "其唯一正向回复为 5 电口工业非管理款 → STI-050GE（$17.0–18.5）做贴牌样机；MC/SFP 不推。已打开的主题（1/13 封有打开记录）：「10G media converter」(2024-09-09) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "首封前知悉：Elsa 2025-02-28 单发过「8 Port Industrial PoE Switch」（未见回复（Elsa 箱 Replied 标签无））；观察打开",
-   "one_question": "Вы отметили интерес к 5-портовому промышленному неуправляемому коммутатору: можем поставить его под вашей маркой (нейтральная упаковка, шелкография логотипа), 5×GE DIN от $17 EXW; прислать образец и спецификацию?"
-  },
-  "facts": [
-   {
-    "date": "2026-01-09",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "Marvell Alleycat5 Solution、Managed Optical Bypass Switch",
-    "why": "13 封 / 1 次打开 / 0 回｜首封 2024-06-18 → 末封 2026-01-09（13 去 / 0 来）",
-    "k": "gmail_digest"
-   },
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "MC SFP 机架；2024.4.26 群发了5电口 → 有兴趣",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2025-02-28",
-    "dir": "out",
-    "who": "Elsa → info@fti-optronic.com",
-    "quote": "8 Port Industrial PoE Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
-    "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
-    "k": "elsa_1to1",
-    "msg_id": "1954b08732160d1d"
-   }
+  "code": "SB-146",
+  "name_official": "ФТИ-Оптроник（FTI-Optronic，АО/ООО，圣彼得堡；fti-optronic.com）",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（搜索可见；快照 2026-10-21 unreachable——俄站对境外 IP 限制）",
+  "summary": "俄罗斯圣彼得堡的光模块/媒体转换器**制造商与品牌商** ФТИ-Оптроник（生产 1×9/SFP/SFP+/XFP/QSFP/CFP 光模块、光纤媒体转换器、转换器机箱，并售工业 MC；地址 Политехническая 28；info@fti-optronic.com，8 800 333 04 94）。表内兴趣 MC/SFP/机架，2024-04 对群发的 5 电口交换机回「有兴趣」；18 次推送 1 次实质回复。MC/SFP 与 Saga 重叠（同行），但交换机可做其品牌补充品类 → B 30%（OEM 贴牌），俄罗斯结算/合规风险注明。",
+  "type": "",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "第三方",
+      "claim": "制造商定位",
+      "quote": "На сегодняшний день производит: Оптические трансиверы форм-факторов 1х9, SFP, SFP+ 10g, SFP xPON, XFP 10g, SFP CWDM и DWDM, QSFP 40g, CFP 100g, GBIC, X2; Медиаконвертеры оптические, конвертерные шасси… Санкт-Петербург, улица Политехническая, дом 28",
+      "url": "https://www.oborudunion.ru/company/4245169/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网",
+      "claim": "自述",
+      "quote": "Мы производим оптические модули форм-факторов 1×9, SFP, SFP+ 10g, SFP xPON, XFP 10g, SFP CWDM и DWDM, QSFP 40g, CFP 100g, GBIC, X2",
+      "url": "https://www.fti-optronic.com/about_company/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网",
+      "claim": "联系方式",
+      "quote": "Телефон: (812) 448-08-60; E-mail: info@fti-optronic.com; Адрес: 194021, Россия, г. Санкт-Петербург, ул. Политехническая, д.28",
+      "url": "https://www.fti-optronic.com/contacts/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "第三方",
+      "claim": "登记",
+      "quote": "АО «ФТИ-Оптроник» ИНН 7802059121, КПП 780201001, ОГРН 1037804018911 … ОКВЭД: 46.69.5",
+      "url": "https://saby.ru/profile/7802059121-780201001",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "需求与回复",
+      "quote": "MC SFP 机架；2024.4.26 群发了5电口 → 有兴趣",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [
-   "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+  "kp": [],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（官网 + 登记核对 · 同行品牌/OEM 判断）"
+  },
+  "company_facts": {
+    "legal_name": "АО «ФТИ-Оптроник»（ИНН 7802059121）/ ООО «ФТИ-Оптроник»（ИНН 7802830545）",
+    "founded": "АО：2003（ОГРН 1037804018911）",
+    "hq": "194064 Санкт-Петербург, ул. Политехническая, д. 28, лит. А；(812) 448-08-60；info@fti-optronic.com",
+    "size": "待核（中型制造商）",
+    "other": "ОКВЭД 46.69.5 批发；自产光模块全形态 + 媒体转换器 + 机箱 + 固态激光器；有工业 MC 产品线（MCSFP2-10/100/1000-IT）"
+  },
+  "business_lines": [
+    "光模块制造（SFP/SFP+/XFP/QSFP/CFP、CWDM/DWDM、xPON）",
+    "光纤媒体转换器与转换器机箱（含工业级）",
+    "固态激光器等光电产品"
   ],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "products_seen": [
+    {
+      "brand": "ФТИ-Оптроник（自产）",
+      "model": "MCSFP2-10/100/1000 / MCSFP2-10/100/1000-IT",
+      "spec": "SFP 千兆媒体转换器（1,310–1,454 ₽）/ 工业版（~8,005–8,961 ₽）",
+      "saga": "MC 与 STI-110GE 直接重叠（同行）；交换机为其空白品类 → 5/8 口非管理工业款可贴牌",
+      "url": "https://www.fti-optronic.com/catalog/konvertery-pod-sfp/sfp-mediakonverter-10-100-1000-mcsfp2-10-100-1000/",
+      "date": "2026-10-21"
+    }
+  ],
+  "channels": {
+    "official": "info@fti-optronic.com；8 (800) 333-04-94 / (812) 448-08-60",
+    "contact": "（表内仅 info@；WA 已加，号码未记）"
+  },
+  "signals": [
+    "2024-04 对 5 电口非管理交换机回「有兴趣」（补品类）"
+  ],
+  "risks": [
+    "同行：MC/SFP 不要推（其自产）",
+    "对俄供货合规/结算风险（用户自判）",
+    "品牌商要求贴牌、固件与包装定制"
+  ],
+  "saga_fit": {
+    "p1": "STI-050GE",
+    "tier": 30,
+    "why": "其唯一正向回复为 5 电口工业非管理款 → STI-050GE（$17.0–18.5）做贴牌样机；MC/SFP 不推"
+  },
+  "email_hook": "Вы отметили интерес к 5-портовому промышленному неуправляемому коммутатору: можем поставить его под вашей маркой (нейтральная упаковка, шелкография логотипа), 5×GE DIN от $17 EXW; прислать образец и спецификацию?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A/S 邮箱 13 封 2024→2026，1 次记录打开，0 回；收件 info@fti-optronic.com；主题多为「Marvell Alleycat5 Solution、Managed Optical Bypass Switch」）；Elsa 1:1 去信 1 封（2025-02-28「8 Port Industrial PoE Switch」；To 仅本户 info@fti-optronic.com；Bcc 未逐封读头；同类名单抽读 24 封均无 Bcc；此后再未进 Elsa 任何名单——全箱 `from:e.sagatelecom to:info@fti-optronic.com` 仅此 1 条，complete）（第 74 批(m)）",
+      "type": "—",
+      "sieve": "1~2（1 次打开）",
+      "stop": "只打通用邮箱，无记录打开",
+      "revive": "保持季度群发到 2027-Q1；无打开即停",
+      "lane": "RU 次级（Simon 2026-08 点名）",
+      "cadence": "季度",
+      "evidence": "gmail_digest：out 13，Opened 标签 1（Simon 群发追踪）；用户表：「MC SFP 机架；2024.4.26 群发了5电口 → 有兴趣」；研究档 risks：同行：MC/SFP 不要推（其自产）"
+    },
+    "situation": "俄罗斯圣彼得堡的光模块/媒体转换器**制造商与品牌商** ФТИ-Оптроник（生产 1×9/SFP/SFP+/XFP/QSFP/CFP 光模块、光纤媒体转换器、转换器机箱，并售工业 MC；地址 Политехническая 28；info@fti-optronic.com，8 800 333 04 94）。表内兴趣 MC/SFP/机架，2024-04 对群发的 5 电口交换机回「有兴趣」；18 次推送 1 次实质回复。MC/SFP 与 Saga 重叠（同行），但交换机可做其品牌补充品类 → B 30%（OEM 贴牌），俄罗斯结算/合规风险注明。",
+    "need": "其唯一正向回复为 5 电口工业非管理款 → STI-050GE（$17.0–18.5）做贴牌样机；MC/SFP 不推",
+    "breakpoint": "同行：MC/SFP 不要推（其自产）",
+    "saga_now": {
+      "p1": "STI-050GE",
+      "tier": 30,
+      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-12-13 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2024-09-09 $65（10G Media Converter）、2025-10-23 $280（10G Enterprise SFP Switch）",
+      "why": "其唯一正向回复为 5 电口工业非管理款 → STI-050GE（$17.0–18.5）做贴牌样机；MC/SFP 不推。已打开的主题（1/13 封有打开记录）：「10G media converter」(2024-09-09) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "群发节奏",
+      "channel": "A 邮箱",
+      "action": "首封前知悉：Elsa 仅 2025-02-28 单发过 1 封「8 Port Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；观察打开",
+      "one_question": "Вы отметили интерес к 5-портовому промышленному неуправляемому коммутатору: можем поставить его под вашей маркой (нейтральная упаковка, шелкография логотипа), 5×GE DIN от $17 EXW; прислать образец и спецификацию?"
+    },
+    "facts": [
+      {
+        "date": "2025-02-28",
+        "dir": "out",
+        "who": "Elsa → info@fti-optronic.com",
+        "quote": "8 Port Industrial PoE Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+        "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
+        "k": "elsa_1to1",
+        "msg_id": "1954b08732160d1d"
+      },
+      {
+        "date": "2026-01-09",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "Marvell Alleycat5 Solution、Managed Optical Bypass Switch",
+        "why": "13 封 / 1 次打开 / 0 回｜首封 2024-06-18 → 末封 2026-01-09（13 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "MC SFP 机架；2024.4.26 群发了5电口 → 有兴趣",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [
+      "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

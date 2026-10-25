@@ -1,140 +1,140 @@
 {
- "code": "SB-770",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（goetz-automation.de，快照 2026-10-21）",
- "summary": "德国 Goetz Ing. Büro für Automation（机器与工业设备自动化工程师事务所：设计、项目规划、PLC 编程、可视化、驱动技术；2008 年阿里巴巴 RFQ「10 台升压 5 口」；KP Peter Goetz；「可以着重跟一下」；电话加不上）；群发 8 次无回复。",
- "type": "自动化工程事务所（德国，机器网络配套）",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：Goetz Ing. Buero für Automation SPS Programmierung Antriebstechnik",
-   "quote": "Automatisierung von Maschinen und Industrieanlagen. Unser Aufgabengebiet ist: Entwurf - Projektierung - SPS Programmierung, Visualisierungen, Dokumentation. Unsere Erfahrung in Antriebs- & Steuerungstechnik bringt solide, einfache & preiswe",
-   "url": "https://goetz-automation.de/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "10台升压5口；49 - 6220 - 922222 加不上 2008年使用国际站；10台升压5口 / from: 阿里巴巴RFQ",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "Goetz 定位",
-   "quote": "Goetz Ing. Buero für Automation SPS Programmierung Antriebstechnik ; Automatisierung von Maschinen und Industrieanlagen",
-   "url": "https://goetz-automation.de/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "10 台升压 5 口 RFQ 2008",
-   "quote": "2008年使用国际站 / 10台升压5口 / from: 阿里巴巴RFQ；可以着重跟一下",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Peter Goetz",
-   "title": "（负责人）",
-   "email": "peter@goetz-automation.de",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "德国",
-  "other": "官网 goetz-automation.de，语言 ?，快照状态 ok；角色判定来源：官网文案"
- },
- "business_lines": [
-  "机器 / 工业设备自动化工程（德国）"
- ],
- "channels": {
-  "role": "自动化工程事务所（德国，机器网络配套）",
-  "region": "德国",
-  "contact": "peter@goetz-automation.de"
- },
- "signals": [
-  "官网：Automatisierung von Maschinen und Industrieanlagen. Unser Aufgabengebiet ist: Entwurf - Projektierung - SPS Programmierung, Visualisierungen, Dokumentation",
-  "表内：10 台升压 5 口 / from: 阿里巴巴 RFQ；2008 年使用国际站；KP Peter Goetz；可以着重跟一下"
- ],
- "risks": [
-  "RFQ 为 2008 年（陈旧）；升压 PoE 输入范围在 Saga 列表中待核；小型事务所（量小）；8 次无回复、电话不通——用户标「可以着重跟一下」保留 B"
- ],
- "saga_fit": {
-  "p1": "STI-050GE",
-  "tier": 25,
-  "why": "5 口（升压 PoE 需求待核）→ 工业 5 GE 非管理 STI-050GE（$17.8 @25%）/ 4 PoE + 1 GE STI-054GP（$32.5，低压升压输入待核）；8 GE + 2 SFP 管理 STI-280GE（$48.6）"
- },
- "email_hook": "Peter, for the small switches in your machine and plant automation cabinets, we supply DIN-rail 5-GE unmanaged, 4-PoE + 1 GE and 8-GE + 2 SFP managed units (−40~75 °C, 12–57 V, CE/RoHS) from single units, EXW USD — do your panels still need 24 V-input PoE (boost) models?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A 邮箱 12 封 2025→2026，无记录打开，0 回；收件 peter@goetz-automation.de；主题多为「16 Port Ethernet Switch、Mini Industrial PoE Switch」）；Elsa 1:1 去信 2025-02-12「Industrial PoE Switch」（To peter@goetz-automation.de），0 回（Elsa 箱 in:sent 核对 msg 194f97e6c4735c04）",
-   "type": "自动化工程事务所（德国，机器网络配套）",
-   "sieve": "1（只收到群发）",
-   "stop": "12 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "DE 主攻（四主）",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 12；用户表：「10台升压5口；49 - 6220 - 922222 加不上 2008年使用国际站；10台升压5口 / from: 阿里巴巴RFQ」；研究档 risks：RFQ 为 2008 年（陈旧）；升压 PoE 输入范围在 Saga 列表中待核；小型事务所（量小）；8 次无回复、电话不通——用户标「可以着重跟一下」保留 B；data/gmail_e/elsa_sent_tld_probe_2026-10-25.json（国别后缀探测，该国 Elsa 触达全集 complete:true）"
-  },
-  "situation": "德国 Goetz Ing. Büro für Automation（机器与工业设备自动化工程师事务所：设计、项目规划、PLC 编程、可视化、驱动技术；2008 年阿里巴巴 RFQ「10 台升压 5 口」；KP Peter Goetz；「可以着重跟一下」；电话加不上）；群发 8 次无回复。",
-  "need": "5 口（升压 PoE 需求待核）→ 工业 5 GE 非管理 STI-050GE（$17.8 @25%）/ 4 PoE + 1 GE STI-054GP（$32.5，低压升压输入待核）；8 GE + 2 SFP 管理 STI-280GE（$48.6）",
-  "breakpoint": "RFQ 为 2008 年（陈旧）；升压 PoE 输入范围在 Saga 列表中待核；小型事务所（量小）；8 次无回复、电话不通——用户标「可以着重跟一下」保留 B",
-  "saga_now": {
-   "p1": "STI-050GE",
-   "tier": 25,
-   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-06-03 $300（48 Port PoE Managed Switch）、2025-09-22 $280（10G Enterprise SFP Switch）",
-   "why": "5 口（升压 PoE 需求待核）→ 工业 5 GE 非管理 STI-050GE（$17.8 @25%）/ 4 PoE + 1 GE STI-054GP（$32.5，低压升压输入待核）；8 GE + 2 SFP 管理 STI-280GE（$48.6）",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "首封前知悉：Elsa 2025-02 已 1:1 发过「Industrial PoE Switch」给 peter@goetz-automation.de（0 回），开头按 ㉝ 带一句「we wrote once in Feb 2025 about X, no reason you'd have replied」，别当完全陌生。 观察打开",
-   "one_question": "Peter, for the small switches in your machine and plant automation cabinets, we supply DIN-rail 5-GE unmanaged, 4-PoE + 1 GE and 8-GE + 2 SFP managed units (−40~75 °C, 12–57 V, CE/RoHS) from single units, EXW USD — do your panels still need 24 V-input PoE (boost) models?"
-  },
-  "facts": [
-   {
-    "date": "2025-02-12",
-    "dir": "去",
-    "who": "Elsa 1:1 去信（To peter@goetz-automation.de）",
-    "quote": "Industrial PoE Switch — Marvell based industrial PoE, 2×GE SFP + 4×GE PoE, 120W, watchdog, 250 m, DIP（摘要无价）",
-    "why": "Elsa 箱 in:sent 按国别后缀探测（to:.de/.uk/.pl/.cz）命中：2025-02 Elsa 开箱头两周的逐户单发，称呼「Hi, Peter」；Elsa Replied 线程 0、来询未回清单 0 → 0 回；S/A digest 看不到这封",
-    "k": "elsa_1to1",
-    "msg_id": "194f97e6c4735c04"
-   },
-   {
-    "date": "2026-03-09",
-    "dir": "去",
-    "who": "A 群发",
-    "quote": "16 Port Ethernet Switch、Mini Industrial PoE Switch",
-    "why": "12 封 / 0 次打开 / 0 回｜首封 2025-03-25 → 末封 2026-03-09（12 去 / 0 来）",
-    "k": "gmail_digest"
-   },
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "10台升压5口；49 - 6220 - 922222 加不上 2008年使用国际站；10台升压5口 / from: 阿里巴巴RFQ",
-    "why": "表内备注",
-    "k": "用户表"
-   }
+  "code": "SB-770",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（goetz-automation.de，快照 2026-10-21）",
+  "summary": "德国 Goetz Ing. Büro für Automation（机器与工业设备自动化工程师事务所：设计、项目规划、PLC 编程、可视化、驱动技术；2008 年阿里巴巴 RFQ「10 台升压 5 口」；KP Peter Goetz；「可以着重跟一下」；电话加不上）；群发 8 次无回复。",
+  "type": "自动化工程事务所（德国，机器网络配套）",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：Goetz Ing. Buero für Automation SPS Programmierung Antriebstechnik",
+      "quote": "Automatisierung von Maschinen und Industrieanlagen. Unser Aufgabengebiet ist: Entwurf - Projektierung - SPS Programmierung, Visualisierungen, Dokumentation. Unsere Erfahrung in Antriebs- & Steuerungstechnik bringt solide, einfache & preiswe",
+      "url": "https://goetz-automation.de/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "10台升压5口；49 - 6220 - 922222 加不上 2008年使用国际站；10台升压5口 / from: 阿里巴巴RFQ",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "Goetz 定位",
+      "quote": "Goetz Ing. Buero für Automation SPS Programmierung Antriebstechnik ; Automatisierung von Maschinen und Industrieanlagen",
+      "url": "https://goetz-automation.de/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "10 台升压 5 口 RFQ 2008",
+      "quote": "2008年使用国际站 / 10台升压5口 / from: 阿里巴巴RFQ；可以着重跟一下",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-25"
- }
+  "kp": [
+    {
+      "name": "Peter Goetz",
+      "title": "（负责人）",
+      "email": "peter@goetz-automation.de",
+      "phone": "",
+      "source": "用户表"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "德国",
+    "other": "官网 goetz-automation.de，语言 ?，快照状态 ok；角色判定来源：官网文案"
+  },
+  "business_lines": [
+    "机器 / 工业设备自动化工程（德国）"
+  ],
+  "channels": {
+    "role": "自动化工程事务所（德国，机器网络配套）",
+    "region": "德国",
+    "contact": "peter@goetz-automation.de"
+  },
+  "signals": [
+    "官网：Automatisierung von Maschinen und Industrieanlagen. Unser Aufgabengebiet ist: Entwurf - Projektierung - SPS Programmierung, Visualisierungen, Dokumentation",
+    "表内：10 台升压 5 口 / from: 阿里巴巴 RFQ；2008 年使用国际站；KP Peter Goetz；可以着重跟一下"
+  ],
+  "risks": [
+    "RFQ 为 2008 年（陈旧）；升压 PoE 输入范围在 Saga 列表中待核；小型事务所（量小）；8 次无回复、电话不通——用户标「可以着重跟一下」保留 B"
+  ],
+  "saga_fit": {
+    "p1": "STI-050GE",
+    "tier": 25,
+    "why": "5 口（升压 PoE 需求待核）→ 工业 5 GE 非管理 STI-050GE（$17.8 @25%）/ 4 PoE + 1 GE STI-054GP（$32.5，低压升压输入待核）；8 GE + 2 SFP 管理 STI-280GE（$48.6）"
+  },
+  "email_hook": "Peter, for the small switches in your machine and plant automation cabinets, we supply DIN-rail 5-GE unmanaged, 4-PoE + 1 GE and 8-GE + 2 SFP managed units (−40~75 °C, 12–57 V, CE/RoHS) from single units, EXW USD — do your panels still need 24 V-input PoE (boost) models?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A 邮箱 12 封 2025→2026，无记录打开，0 回；收件 peter@goetz-automation.de；主题多为「16 Port Ethernet Switch、Mini Industrial PoE Switch」）；Elsa 1:1 去信 1 封（2025-02-12「Industrial PoE Switch」；To 仅本户 peter@goetz-automation.de；Bcc 未逐封读头；同类名单抽读 24 封均无 Bcc；此后再未进 Elsa 任何名单——全箱 `from:e.sagatelecom to:peter@goetz-automation.de` 仅此 1 条，complete）（第 74 批(m)）",
+      "type": "自动化工程事务所（德国，机器网络配套）",
+      "sieve": "1（只收到群发）",
+      "stop": "12 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+      "revive": "保持季度群发到 2027-Q1；无打开即停",
+      "lane": "DE 主攻（四主）",
+      "cadence": "季度",
+      "evidence": "gmail_digest：out 12；用户表：「10台升压5口；49 - 6220 - 922222 加不上 2008年使用国际站；10台升压5口 / from: 阿里巴巴RFQ」；研究档 risks：RFQ 为 2008 年（陈旧）；升压 PoE 输入范围在 Saga 列表中待核；小型事务所（量小）；8 次无回复、电话不通——用户标「可以着重跟一下」保留 B；data/gmail_e/elsa_sent_tld_probe_2026-10-25.json（国别后缀探测，该国 Elsa 触达全集 complete:true）"
+    },
+    "situation": "德国 Goetz Ing. Büro für Automation（机器与工业设备自动化工程师事务所：设计、项目规划、PLC 编程、可视化、驱动技术；2008 年阿里巴巴 RFQ「10 台升压 5 口」；KP Peter Goetz；「可以着重跟一下」；电话加不上）；群发 8 次无回复。",
+    "need": "5 口（升压 PoE 需求待核）→ 工业 5 GE 非管理 STI-050GE（$17.8 @25%）/ 4 PoE + 1 GE STI-054GP（$32.5，低压升压输入待核）；8 GE + 2 SFP 管理 STI-280GE（$48.6）",
+    "breakpoint": "RFQ 为 2008 年（陈旧）；升压 PoE 输入范围在 Saga 列表中待核；小型事务所（量小）；8 次无回复、电话不通——用户标「可以着重跟一下」保留 B",
+    "saga_now": {
+      "p1": "STI-050GE",
+      "tier": 25,
+      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-06-03 $300（48 Port PoE Managed Switch）、2025-09-22 $280（10G Enterprise SFP Switch）",
+      "why": "5 口（升压 PoE 需求待核）→ 工业 5 GE 非管理 STI-050GE（$17.8 @25%）/ 4 PoE + 1 GE STI-054GP（$32.5，低压升压输入待核）；8 GE + 2 SFP 管理 STI-280GE（$48.6）",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "群发节奏",
+      "channel": "A 邮箱",
+      "action": "首封前知悉：Elsa 2025-02 已 1:1 发过「Industrial PoE Switch」给 peter@goetz-automation.de（0 回），开头按 ㉝ 带一句「we wrote once in Feb 2025 about X, no reason you'd have replied」，别当完全陌生。 观察打开",
+      "one_question": "Peter, for the small switches in your machine and plant automation cabinets, we supply DIN-rail 5-GE unmanaged, 4-PoE + 1 GE and 8-GE + 2 SFP managed units (−40~75 °C, 12–57 V, CE/RoHS) from single units, EXW USD — do your panels still need 24 V-input PoE (boost) models?"
+    },
+    "facts": [
+      {
+        "date": "2025-02-12",
+        "dir": "去",
+        "who": "Elsa 1:1 去信（To peter@goetz-automation.de）",
+        "quote": "Industrial PoE Switch — Marvell based industrial PoE, 2×GE SFP + 4×GE PoE, 120W, watchdog, 250 m, DIP（摘要无价）",
+        "why": "Elsa 箱 in:sent 按国别后缀探测（to:.de/.uk/.pl/.cz）命中：2025-02 Elsa 开箱头两周的逐户单发，称呼「Hi, Peter」；Elsa Replied 线程 0、来询未回清单 0 → 0 回；S/A digest 看不到这封",
+        "k": "elsa_1to1",
+        "msg_id": "194f97e6c4735c04"
+      },
+      {
+        "date": "2026-03-09",
+        "dir": "去",
+        "who": "A 群发",
+        "quote": "16 Port Ethernet Switch、Mini Industrial PoE Switch",
+        "why": "12 封 / 0 次打开 / 0 回｜首封 2025-03-25 → 末封 2026-03-09（12 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "10台升压5口；49 - 6220 - 922222 加不上 2008年使用国际站；10台升压5口 / from: 阿里巴巴RFQ",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-25"
+  }
 }

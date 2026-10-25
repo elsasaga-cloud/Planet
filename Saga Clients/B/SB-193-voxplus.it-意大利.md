@@ -36,25 +36,25 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-154GP — 现用 Maiwe MIEN2205P-4T（5 口工业 PoE）→ 工业 4 PoE + 1 GE STI-154GP（$39.2 @25%）；8 PoE + 4×10G 位 STI-488XGGPM（L2+，非 L3）；M12/EtherCAT 不做。已打开的主题（1/20 封有打开记录）：「24 port poe switch」(2024-08-05) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续；换人再触锚价 STI-154GP $39.2 EXW（主表档位（2024 实报 $36–38 低于档位，可用档位；PDF 上限 $51.7）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-23 $65（10G media converter）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-15 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Gianni, next to the Maiwe industrial switches you specify, we supply Marvell-based DIN-rail 5-port and 8-PoE + 4×10G industrial units (−40~75 °C, neutral packing) from small lots for your building-automation and IoT projects — which model do you use most often, so we quote its equivalent? Reference: STI-154GP at $39.2 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 首封前知悉：Elsa 2025-02-17 单发过「8 Port Industrial PoE Switch」（未见回复（Elsa 箱 Replied 标签无））；换收件人再发一封
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 首封前知悉：Elsa 仅 2025-02-17 单发过 1 封「8 Port Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-193` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A/S 邮箱 20 封 2024→2026，1 次记录打开，0 回；收件 fabio.frigerio@voxplus.it, gianni.scandroglio@voxplus.it；主题多为「Industrial PoE Switch、Marvell Networking Solutions」）；Elsa 单发去信 1 封（2025-02-17「8 Port Industrial PoE Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）** ｜ 类型：系统集成商（意大利，工业线用 Maiwe） ｜ 筛子：1~2（1 次打开） ｜ 停点：20 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：停发群发；若要继续，换具名邮箱 + 只问一句 ｜ 通路：意大利（欧洲全域主攻） ｜ 节奏：一封 ｜ 证据：gmail_digest：out 20，Opened 标签 1（Simon 群发追踪）；用户表：「工业FS MC 串口 有小壳但比较大；工业FS MC 串口 有小壳但比较大 供应商Maiwe」；研究档 risks：现用 Maiwe（武汉）价格基准低
+- **绑定等级：未触达（A/S 邮箱 20 封 2024→2026，1 次记录打开，0 回；收件 fabio.frigerio@voxplus.it, gianni.scandroglio@voxplus.it；主题多为「Industrial PoE Switch、Marvell Networking Solutions」）；Elsa 1:1 去信 1 封（2025-02-17「8 Port Industrial PoE Switch」；To 仅本户 info@voxplus.it；Bcc 未逐封读头；同类名单抽读 24 封均无 Bcc；此后再未进 Elsa 任何名单——全箱 `from:e.sagatelecom to:info@voxplus.it` 仅此 1 条，complete）（第 74 批(m)）** ｜ 类型：系统集成商（意大利，工业线用 Maiwe） ｜ 筛子：1~2（1 次打开） ｜ 停点：20 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：停发群发；若要继续，换具名邮箱 + 只问一句 ｜ 通路：意大利（欧洲全域主攻） ｜ 节奏：一封 ｜ 证据：gmail_digest：out 20，Opened 标签 1（Simon 群发追踪）；用户表：「工业FS MC 串口 有小壳但比较大；工业FS MC 串口 有小壳但比较大 供应商Maiwe」；研究档 risks：现用 Maiwe（武汉）价格基准低
 - **现状一句话**：意大利 VOXplus（系统集成商：网络安全 / 网络与 VoIP / 数据中心与布线 / 楼宇自动化与 IoT；站内 Maiwe 工业交换机产品页 MIEN2205P-4T（5 口工业 PoE）、MISCOM8212GP-4XGF（8 PoE 90W + 4×10G L3）、ADMAS2024 M12、EtherCAT；表内「工业 FS / MC / 串口，有小壳但比较大；供应商 Maiwe」；KP Gianni Scandroglio（CEO，gianni.scandroglio@）、Fabio Frigerio（Project Manager））；群发 13 次无回复。
 - **对方真实需求（有据）**：现用 Maiwe MIEN2205P-4T（5 口工业 PoE）→ 工业 4 PoE + 1 GE STI-154GP（$39.2 @25%）；8 PoE + 4×10G 位 STI-488XGGPM（L2+，非 L3）；M12/EtherCAT 不做
 - **断点 / 为什么停在这里**：现用 Maiwe（武汉）价格基准低
 - **Saga 现在该推什么**：P1 **STI-154GP**（25% 档，换人再触锚价 STI-154GP $39.2 EXW（主表档位（2024 实报 $36–38 低于档位，可用档位；PDF 上限 $51.7）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-23 $65（10G media converter）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-15 $280（10G Enterprise SFP Switch））——现用 Maiwe MIEN2205P-4T（5 口工业 PoE）→ 工业 4 PoE + 1 GE STI-154GP（$39.2 @25%）；8 PoE + 4×10G 位 STI-488XGGPM（L2+，非 L3）；M12/EtherCAT 不做。已打开的主题（1/20 封有打开记录）：「24 port poe switch」(2024-08-05) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续
-- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　首封前知悉：Elsa 2025-02-17 单发过「8 Port Industrial PoE Switch」（未见回复（Elsa 箱 Replied 标签无））；换收件人再发一封
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　首封前知悉：Elsa 仅 2025-02-17 单发过 1 封「8 Port Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封
   - 第一问（只问一个）：Gianni, next to the Maiwe industrial switches you specify, we supply Marvell-based DIN-rail 5-port and 8-PoE + 4×10G industrial units (−40~75 °C, neutral packing) from small lots for your building-automation and IoT projects — which model do you use most often, so we quote its equivalent? Reference: STI-154GP at $39.2 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2025-02-17 | out | Elsa → info@voxplus.it | 8 Port Industrial PoE Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 | 2026-09-16 | 去 | A/S 群发 | Industrial PoE Switch、Marvell Networking Solutions | 20 封 / 1 次打开 / 0 回｜首封 2024-07-05 → 末封 2026-09-16（20 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 工业FS MC 串口 有小壳但比较大；工业FS MC 串口 有小壳但比较大 供应商Maiwe | 表内备注 | `用户表` |
-| 2025-02-17 | out | Elsa → info@voxplus.it | 8 Port Industrial PoE Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 
 ## 基本事实（事实/推断/假设分层）
 

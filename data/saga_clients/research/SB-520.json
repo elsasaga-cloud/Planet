@@ -1,133 +1,133 @@
 {
- "code": "SB-520",
- "name_official": "ACE Distributors / Oxford Aerials（英国）",
- "researched_at": "2026-10-21",
- "website_status": "在线（aceonline.co.uk，快照 2026-10-21）",
- "summary": "英国天线 / 卫星行业配件分销商（30+ 年；监控、音频、线缆、CCTV、安装设备；Dahua、Ajax、TP-Link、Ubiquiti、Ruijie；switch 126 / poe 49），Director Shaun Guard（Oxford Aerials）；表内「商业 PoE，也有 TP-Link 的；可多跟进」；群发 10 次无回复。",
- "type": "",
- "size": "",
- "brands_seen": [
-  "Dahua",
-  "Ajax",
-  "TP-Link",
-  "Ubiquiti",
-  "Ruijie"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "30+ 年供应英国天线与卫星行业：监控、音频、线缆、CCTV、安装设备；品牌 Dahua / Ajax / TP-Link / Ubiquiti / Ruijie",
-   "quote": "We have been supplying the UK Aerials & Satellite industries with quality components for more than 30 years. Surveillance, Audio, Cables, CCTV, Installation Equipment",
-   "url": "https://aceonline.co.uk/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "商业 PoE 也有 tplink 的；可以尝试多跟进一下",
-   "quote": "兴趣：商业PoE 也有tplink的",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Shaun Guard",
-   "title": "Director",
-   "email": "shaun@oxfordaerials.co.uk",
-   "phone": "",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照核对 + 表内）"
- },
- "company_facts": {
-  "legal_name": "ACE Distributors Ltd（待核）",
-  "founded": "约 1990",
-  "hq": "Oxford, UK",
-  "size": "中小型行业分销",
-  "other": "关联 Oxford Aerials"
- },
- "business_lines": [
-  "天线 / 卫星 / CCTV 配件分销"
- ],
- "channels": {
-  "role": "行业分销商",
-  "region": "英国"
- },
- "signals": [
-  "Director 具名；商用 PoE 在售（TP-Link）"
- ],
- "risks": [
-  "10 次群发无回复；UKCA"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 20,
-  "why": "安装商渠道 8 PoE 管理 → STC-28DGGPM（$80.7 @20%，CE/UKCA）；非管理 STC-028GP。"
- },
- "email_hook": "Shaun, for the installer trade beside TP-Link — Marvell L2+ 8-PoE + 2-SFP at $80.7 and unmanaged 8-PoE + 2 uplinks at $25.1 USD EXW, UKCA/CE marked; would a 5-pc trial carton suit the ACE price list?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A/S 邮箱 21 封 2025→2026，1 次记录打开，0 回；收件 sales@aceonline.co.uk, shaun@oxfordaerials.co.uk；主题多为「Industrial PoE Switch、10G Enterprise SFP Switch」）；Elsa 1:1 去信 2025-02-21「24 Port Fiber Switch」（To sales@aceonline.co.uk），0 回（Elsa 箱 in:sent 核对 msg 195284587152d205）",
-   "type": "—",
-   "sieve": "1~2（1 次打开）",
-   "stop": "21 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
-   "lane": "UK 主攻（四主）",
-   "cadence": "一封",
-   "evidence": "gmail_digest：out 21，Opened 标签 1（Simon 群发追踪）；用户表：「兴趣：商业PoE 也有tplink的」；研究档 risks：10 次群发无回复；UKCA；data/gmail_e/elsa_sent_tld_probe_2026-10-25.json（国别后缀探测，该国 Elsa 触达全集 complete:true）"
-  },
-  "situation": "英国天线 / 卫星行业配件分销商（30+ 年；监控、音频、线缆、CCTV、安装设备；Dahua、Ajax、TP-Link、Ubiquiti、Ruijie；switch 126 / poe 49），Director Shaun Guard（Oxford Aerials）；表内「商业 PoE，也有 TP-Link 的；可多跟进」；群发 10 次无回复。",
-  "need": "安装商渠道 8 PoE 管理 → STC-28DGGPM（$80.7 @20%，CE/UKCA）；非管理 STC-028GP。",
-  "breakpoint": "10 次群发无回复；UKCA",
-  "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 20,
-   "price": "换人再触锚价 STC-28DGGPM $80.7 + STC-028GP $25.1 EXW（20% 档；028GP 按洪瑞 2026-09-30 进价 +20%，旧表 $24 不用；第 73 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-05 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-10 $280（10G Enterprise SFP Switch）",
-   "why": "安装商渠道 8 PoE 管理 → STC-28DGGPM（$80.7 @20%，CE/UKCA）；非管理 STC-028GP。已打开的主题（1/21 封有打开记录）：「Industrial PoE Switch」(2025-08-13) → 读者兴趣偏「工业」；与 P1 同类，继续",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "2027-Q1（换人后）",
-   "channel": "A 邮箱 → 具名 KP",
-   "action": "首封前知悉：Elsa 2025-02 已 1:1 发过「24 Port Fiber Switch」给 sales@aceonline.co.uk（0 回），开头按 ㉝ 带一句「we wrote once in Feb 2025 about X, no reason you'd have replied」，别当完全陌生。 换收件人再发一封",
-   "one_question": "Shaun, for the installer trade beside TP-Link — Marvell L2+ 8-PoE + 2-SFP at $80.7 and unmanaged 8-PoE + 2 uplinks at $25.1 USD EXW, UKCA/CE marked; would a 5-pc trial carton suit the ACE price list?"
-  },
-  "facts": [
-   {
-    "date": "2025-02-21",
-    "dir": "去",
-    "who": "Elsa 1:1 去信（To sales@aceonline.co.uk）",
-    "quote": "24 Port Fiber Switch — 24×1G SFP + 8×1G SFP/RJ45 combo + 4×10G SFP+ aggregation; Price: 240usd/pc",
-    "why": "Elsa 箱 in:sent 按国别后缀探测（to:.de/.uk/.pl/.cz）命中：2025-02 Elsa 开箱头两周的逐户单发，无称呼；Elsa Replied 线程 0、来询未回清单 0 → 0 回；S/A digest 看不到这封",
-    "k": "elsa_1to1",
-    "msg_id": "195284587152d205"
-   },
-   {
-    "date": "2026-09-08",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "Industrial PoE Switch、10G Enterprise SFP Switch",
-    "why": "21 封 / 1 次打开 / 0 回｜首封 2025-01-24 → 末封 2026-09-08（21 去 / 0 来）",
-    "k": "gmail_digest"
-   },
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "兴趣：商业PoE 也有tplink的",
-    "why": "表内备注",
-    "k": "用户表"
-   }
+  "code": "SB-520",
+  "name_official": "ACE Distributors / Oxford Aerials（英国）",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（aceonline.co.uk，快照 2026-10-21）",
+  "summary": "英国天线 / 卫星行业配件分销商（30+ 年；监控、音频、线缆、CCTV、安装设备；Dahua、Ajax、TP-Link、Ubiquiti、Ruijie；switch 126 / poe 49），Director Shaun Guard（Oxford Aerials）；表内「商业 PoE，也有 TP-Link 的；可多跟进」；群发 10 次无回复。",
+  "type": "",
+  "size": "",
+  "brands_seen": [
+    "Dahua",
+    "Ajax",
+    "TP-Link",
+    "Ubiquiti",
+    "Ruijie"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-25"
- }
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "30+ 年供应英国天线与卫星行业：监控、音频、线缆、CCTV、安装设备；品牌 Dahua / Ajax / TP-Link / Ubiquiti / Ruijie",
+      "quote": "We have been supplying the UK Aerials & Satellite industries with quality components for more than 30 years. Surveillance, Audio, Cables, CCTV, Installation Equipment",
+      "url": "https://aceonline.co.uk/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "商业 PoE 也有 tplink 的；可以尝试多跟进一下",
+      "quote": "兴趣：商业PoE 也有tplink的",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [
+    {
+      "name": "Shaun Guard",
+      "title": "Director",
+      "email": "shaun@oxfordaerials.co.uk",
+      "phone": "",
+      "source": "（本地 Clients/ 表格，无公开 URL）"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（官网快照核对 + 表内）"
+  },
+  "company_facts": {
+    "legal_name": "ACE Distributors Ltd（待核）",
+    "founded": "约 1990",
+    "hq": "Oxford, UK",
+    "size": "中小型行业分销",
+    "other": "关联 Oxford Aerials"
+  },
+  "business_lines": [
+    "天线 / 卫星 / CCTV 配件分销"
+  ],
+  "channels": {
+    "role": "行业分销商",
+    "region": "英国"
+  },
+  "signals": [
+    "Director 具名；商用 PoE 在售（TP-Link）"
+  ],
+  "risks": [
+    "10 次群发无回复；UKCA"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 20,
+    "why": "安装商渠道 8 PoE 管理 → STC-28DGGPM（$80.7 @20%，CE/UKCA）；非管理 STC-028GP。"
+  },
+  "email_hook": "Shaun, for the installer trade beside TP-Link — Marvell L2+ 8-PoE + 2-SFP at $80.7 and unmanaged 8-PoE + 2 uplinks at $25.1 USD EXW, UKCA/CE marked; would a 5-pc trial carton suit the ACE price list?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A/S 邮箱 21 封 2025→2026，1 次记录打开，0 回；收件 sales@aceonline.co.uk, shaun@oxfordaerials.co.uk；主题多为「Industrial PoE Switch、10G Enterprise SFP Switch」）；Elsa 1:1 去信 1 封（2025-02-21「24 Port Fiber Switch」；To 仅本户 sales@aceonline.co.uk；Bcc 未逐封读头；同类名单抽读 24 封均无 Bcc；此后再未进 Elsa 任何名单——全箱 `from:e.sagatelecom to:sales@aceonline.co.uk` 仅此 1 条，complete）（第 74 批(m)）",
+      "type": "—",
+      "sieve": "1~2（1 次打开）",
+      "stop": "21 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+      "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+      "lane": "UK 主攻（四主）",
+      "cadence": "一封",
+      "evidence": "gmail_digest：out 21，Opened 标签 1（Simon 群发追踪）；用户表：「兴趣：商业PoE 也有tplink的」；研究档 risks：10 次群发无回复；UKCA；data/gmail_e/elsa_sent_tld_probe_2026-10-25.json（国别后缀探测，该国 Elsa 触达全集 complete:true）"
+    },
+    "situation": "英国天线 / 卫星行业配件分销商（30+ 年；监控、音频、线缆、CCTV、安装设备；Dahua、Ajax、TP-Link、Ubiquiti、Ruijie；switch 126 / poe 49），Director Shaun Guard（Oxford Aerials）；表内「商业 PoE，也有 TP-Link 的；可多跟进」；群发 10 次无回复。",
+    "need": "安装商渠道 8 PoE 管理 → STC-28DGGPM（$80.7 @20%，CE/UKCA）；非管理 STC-028GP。",
+    "breakpoint": "10 次群发无回复；UKCA",
+    "saga_now": {
+      "p1": "STC-28DGGPM",
+      "tier": 20,
+      "price": "换人再触锚价 STC-28DGGPM $80.7 + STC-028GP $25.1 EXW（20% 档；028GP 按洪瑞 2026-09-30 进价 +20%，旧表 $24 不用；第 73 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-05 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-10 $280（10G Enterprise SFP Switch）",
+      "why": "安装商渠道 8 PoE 管理 → STC-28DGGPM（$80.7 @20%，CE/UKCA）；非管理 STC-028GP。已打开的主题（1/21 封有打开记录）：「Industrial PoE Switch」(2025-08-13) → 读者兴趣偏「工业」；与 P1 同类，继续",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "2027-Q1（换人后）",
+      "channel": "A 邮箱 → 具名 KP",
+      "action": "首封前知悉：Elsa 2025-02 已 1:1 发过「24 Port Fiber Switch」给 sales@aceonline.co.uk（0 回），开头按 ㉝ 带一句「we wrote once in Feb 2025 about X, no reason you'd have replied」，别当完全陌生。 换收件人再发一封",
+      "one_question": "Shaun, for the installer trade beside TP-Link — Marvell L2+ 8-PoE + 2-SFP at $80.7 and unmanaged 8-PoE + 2 uplinks at $25.1 USD EXW, UKCA/CE marked; would a 5-pc trial carton suit the ACE price list?"
+    },
+    "facts": [
+      {
+        "date": "2025-02-21",
+        "dir": "去",
+        "who": "Elsa 1:1 去信（To sales@aceonline.co.uk）",
+        "quote": "24 Port Fiber Switch — 24×1G SFP + 8×1G SFP/RJ45 combo + 4×10G SFP+ aggregation; Price: 240usd/pc",
+        "why": "Elsa 箱 in:sent 按国别后缀探测（to:.de/.uk/.pl/.cz）命中：2025-02 Elsa 开箱头两周的逐户单发，无称呼；Elsa Replied 线程 0、来询未回清单 0 → 0 回；S/A digest 看不到这封",
+        "k": "elsa_1to1",
+        "msg_id": "195284587152d205"
+      },
+      {
+        "date": "2026-09-08",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "Industrial PoE Switch、10G Enterprise SFP Switch",
+        "why": "21 封 / 1 次打开 / 0 回｜首封 2025-01-24 → 末封 2026-09-08（21 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "兴趣：商业PoE 也有tplink的",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-25"
+  }
 }

@@ -36,25 +36,25 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — switch → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）。已打开的主题（1/33 封有打开记录）：「Industrial PoE Switch」(2025-08-30) → 读者兴趣偏「工业」；与 P1 同类，继续；换人再触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-29 $65（10g fiber media converter）、2024-10-29 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-27 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-03-05 $240（24 Port Fiber Switch）、2025-09-23 $280（10G Enterprise SFP Switch）、2026-06-18 $16000（32 Port 400GB DC Switch）
 - **第一问（只问一个）**：For the switches you supply, we offer neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and 24-GE + 4×10G models from small lots, CE/RoHS; KC by your side — which port count do your customers order most? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：官网当前状态异常（域名不可达（DNS/连接失败））——公司是否仍在运营待核
-- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 首封前知悉：Elsa 2025-02-12 单发过「90W PoE Managed Switch」（未见回复（Elsa 箱 Replied 标签无））；换收件人再发一封
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 首封前知悉：Elsa 仅 2025-02-12 单发过 1 封「90W PoE Managed Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1095` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A/S 邮箱 33 封 2024→2026，1 次记录打开，0 回；收件 sales@view-tel.co.kr；主题多为「Managed Optical Bypass Switch、10G Enterprise SFP Switch」）；Elsa 单发去信 1 封（2025-02-12「90W PoE Managed Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）** ｜ 类型：网络/通信公司（韩国，待核） ｜ 筛子：1~2（1 次打开） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：停发群发；若要继续，换具名邮箱 + 只问一句 ｜ 通路：KR 次级（点名） ｜ 节奏：一封 ｜ 证据：gmail_digest：out 33，Opened 标签 1（Simon 群发追踪）；用户表：「switch」；研究档 risks：非主攻区（T5，韩国；KC 由客户侧）；官网 unreachable（业务待核）；22 次无回复
+- **绑定等级：未触达（A/S 邮箱 33 封 2024→2026，1 次记录打开，0 回；收件 sales@view-tel.co.kr；主题多为「Managed Optical Bypass Switch、10G Enterprise SFP Switch」）；Elsa 1:1 去信 1 封（2025-02-12「90W PoE Managed Switch」；To 仅本户 sales@view-tel.co.kr；Bcc 未逐封读头；同类名单抽读 24 封均无 Bcc；此后再未进 Elsa 任何名单——全箱 `from:e.sagatelecom to:sales@view-tel.co.kr` 仅此 1 条，complete）（第 74 批(m)）** ｜ 类型：网络/通信公司（韩国，待核） ｜ 筛子：1~2（1 次打开） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：停发群发；若要继续，换具名邮箱 + 只问一句 ｜ 通路：KR 次级（点名） ｜ 节奏：一封 ｜ 证据：gmail_digest：out 33，Opened 标签 1（Simon 群发追踪）；用户表：「switch」；研究档 risks：非主攻区（T5，韩国；KC 由客户侧）；官网 unreachable（业务待核）；22 次无回复
 - **现状一句话**：韩国 View-tel（view-tel.co.kr；表内「switch」「可以尝试多跟进一下」；官网 unreachable）；群发 22 次无回复。
 - **对方真实需求（有据）**：switch → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）
 - **断点 / 为什么停在这里**：非主攻区（T5，韩国；KC 由客户侧）；官网 unreachable（业务待核）；22 次无回复
 - **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，换人再触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-29 $65（10g fiber media converter）、2024-10-29 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-27 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-03-05 $240（24 Port Fiber Switch）、2025-09-23 $280（10G Enterprise SFP Switch）、2026-06-18 $16000（32 Port 400GB DC Switch））——switch → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）。已打开的主题（1/33 封有打开记录）：「Industrial PoE Switch」(2025-08-30) → 读者兴趣偏「工业」；与 P1 同类，继续
-- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　首封前知悉：Elsa 2025-02-12 单发过「90W PoE Managed Switch」（未见回复（Elsa 箱 Replied 标签无））；换收件人再发一封
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　首封前知悉：Elsa 仅 2025-02-12 单发过 1 封「90W PoE Managed Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封
   - 第一问（只问一个）：For the switches you supply, we offer neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and 24-GE + 4×10G models from small lots, CE/RoHS; KC by your side — which port count do your customers order most? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2025-02-12 | out | Elsa → sales@view-tel.co.kr | 90W PoE Managed Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 | 2026-09-24 | 去 | A/S 群发 | Managed Optical Bypass Switch、10G Enterprise SFP Switch | 33 封 / 1 次打开 / 0 回｜首封 2024-06-26 → 末封 2026-09-24（33 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | switch | 表内备注 | `用户表` |
-| 2025-02-12 | out | Elsa → sales@view-tel.co.kr | 90W PoE Managed Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 
 ## 基本事实（事实/推断/假设分层）
 

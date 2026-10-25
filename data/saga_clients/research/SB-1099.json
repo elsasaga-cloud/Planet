@@ -1,158 +1,158 @@
 {
- "code": "SB-1099",
- "name_official": "EION Inc.（EION Wireless 事业部，eionwireless.com / eion.com，Ottawa-Kanata, ON）",
- "researched_at": "2026-10-21",
- "website_status": "在线（eionwireless.com）",
- "summary": "加拿大渥太华的私营无线宽带/4G LTE 系统供应商（2001 年成立；2011 年收购 Aviat Networks 的 WiMAX 业务；51–200 人口径，营收 $20.9M；印度设全球客户支持中心；165+ 渠道伙伴；CEO Dr. Kalai Kalaichelvan）：面向 Tier-1 运营商、ISP、企业、政府、油气、国防与安防行业的点对多点无线接入与 CPE。基站侧/回传汇聚需要工业级 PoE/10G 交换机（为 CPE/AP 供电）——OEM 或配套机会。用户表：WhatsApp 已加，8 次跟进 0 回复。",
- "type": "",
- "size": "",
- "brands_seen": [
-  "EION（自产无线）"
- ],
- "evidence": [
-  {
-   "kind": "官网",
-   "claim": "公司定位与渠道规模",
-   "quote": "EION Wireless, a division of EION Inc. Since being founded in 2001, EION Wireless has been recognized multiple times as one of the fifty fastest growing wireless companies by Deloitte and Touche … works with more than 165 channel partners worldwide … privately owned Canadian company headquartered in Ottawa Canada",
-   "url": "https://www.eionwireless.com/who/company",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "LinkedIn",
-   "claim": "规模与成立年",
-   "quote": "EION Wireless … Industry: Wireless Services Company size: 51-200 employees Headquarters: Kanata, Ontario … Founded: 2001 Specialties: Software Services, Wireless, WiMAX, LTE, and Broadband",
-   "url": "https://ca.linkedin.com/company/eion",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "名录",
-   "claim": "地址、电话、营收",
-   "quote": "150 Katimavik Rd Ste 304, Ottawa, Ontario, K2L 2N2, Canada (613) 271-4400 … Revenue $20.9 M Employees 47 Founded 2001",
-   "url": "https://www.datanyze.com/companies/eion-wireless/1164264922",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "新闻",
-   "claim": "收购 Aviat WiMAX 业务",
-   "quote": "Aviat Networks … has sold its WiMAX business to EION Networks, Inc. which is a privately owned Canadian Company headquartered in Ottawa, Ontario.",
-   "url": "https://investors.aviatnetworks.com/news-releases/news-release-details/aviat-networks-announces-sale-wimax-business-eion-wireless",
-   "date": "2011-09-06"
-  },
-  {
-   "kind": "用户表",
-   "claim": "WhatsApp 已加；8 次跟进 0 回复",
-   "quote": "（用户表字段）",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Kalai Kalaichelvan（Dr.）",
-   "role": "Founder, President & CEO（公开）",
-   "email": "—（未公开）",
-   "phone": "+1 613-271-4400（公司）",
-   "source": "https://www.crunchbase.com/organization/eion-wireless"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网 + 名录核对）"
- },
- "company_facts": {
-  "legal_name": "EION Inc.（EION Networks, Inc.；EION Wireless 为事业部）",
-  "founded": "2001",
-  "hq": "150 Katimavik Rd, Ste 304, Kanata (Ottawa), ON K2L 2N2, Canada（+1 613-271-4400）；Calgary 分部",
-  "size": "51–200（LinkedIn）/ 47 人、$20.9M（Datanyze）",
-  "other": "Deloitte 50 强多次；WiMAX→LTE；行业：企业、政府、油气、安防、国防（守界：国防线不供）"
- },
- "business_lines": [
-  "4G LTE / 宽带无线接入系统（基站、CPE）",
-  "运营商与 ISP 方案（165+ 渠道伙伴）",
-  "行业无线（油气、安防、政府）"
- ],
- "channels": {
-  "网站": "https://www.eionwireless.com/",
-  "电话": "+1 613-271-4400（名录公开）",
-  "LinkedIn": "https://ca.linkedin.com/company/eion"
- },
- "signals": [
-  "无线系统商的塔站/机房需要宽温 PoE 交换机为 CPE/AP/摄像供电并做 10G 回传汇聚——STI-288DGGPM / STI-448XGGGPM 可作配套或 EION 标 OEM 配件"
- ],
- "risks": [
-  "国防/政府客户线守界；加拿大客户可能要求 cUL——Saga 仅 FCC/CE；8 次跟进 0 回复"
- ],
- "saga_fit": {
-  "p1": "STI-288DGGPM",
-  "tier": 30,
-  "why": "OEM/配套 30% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP，−40~+75 ℃）作基站侧供电/汇聚配件；10G 回传 STI-448XGGGPM；仅民用运营商/企业线"
- },
- "email_hook": "For the tower and rooftop cabinets behind your LTE base stations, a −40 to +75 °C DIN 8-port PoE+ switch with 2 SFP uplinks (EION label possible) powers CPE and cameras from one box; would your channel partners want it on the price list?",
- "mail_review": {
-  "binding": {
-   "level": "读而不回（A/S 邮箱 18 封 2024→2026，其中 6 封被打开，0 回；收件 harshul@eion.com；被打开主题「Mini Industrial PoE Switch、Commercial PoE Switch」）；Elsa 单发去信 1 封（2025-02-27「Industrial PoE Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）",
-   "type": "—",
-   "sieve": "2（有人在读，无人回）",
-   "stop": "读而不回 = 内容未命中或没有当下需求",
-   "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）；WhatsApp 已加 → 唤醒走 WhatsApp 一句话，不走邮件",
-   "lane": "CA 主攻",
-   "cadence": "一封；回了再说",
-   "evidence": "gmail_digest：out 18，Opened 标签 6（Simon 群发追踪）；用户表：「（用户表字段）」；研究档 risks：国防/政府客户线守界；加拿大客户可能要求 cUL——Saga 仅 FCC/CE；8 次跟进 0 回复"
-  },
-  "situation": "加拿大渥太华的私营无线宽带/4G LTE 系统供应商（2001 年成立；2011 年收购 Aviat Networks 的 WiMAX 业务；51–200 人口径，营收 $20.9M；印度设全球客户支持中心；165+ 渠道伙伴；CEO Dr. Kalai Kalaichelvan）：面向 Tier-1 运营商、ISP、企业、政府、油气、国防与安防行业的点对多点无线接入与 CPE。基站侧/回传汇聚需要工业级 PoE/10G 交换机（为 CPE/AP 供电）——OEM 或配套机会。用户表：WhatsApp 已加，8 次跟进 0 回复。",
-  "need": "OEM/配套 30% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP，−40~+75 ℃）作基站侧供电/汇聚配件；10G 回传 STI-448XGGGPM；仅民用运营商/企业线",
-  "breakpoint": "国防/政府客户线守界；加拿大客户可能要求 cUL——Saga 仅 FCC/CE；8 次跟进 0 回复",
-  "saga_now": {
-   "p1": "STI-288DGGPM",
-   "tier": 30,
-   "price": "首触锚价 STI-288DGGPM $137.5 EXW（2026-06 PDF 上限 $137.5（档位 139.9–151.6 超上限；Angora/Astel 实报 $125 为成单户价）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2025-01-16 $240（24 Port Fiber Switch）；群发里他已看到的价（续，第 66 批全量复核）：2024-06-17 $220（48 port managed switch）、2024-08-16 $65（10G Media Converter）、2025-06-25 $300（48 Port PoE Managed Switch）、2025-09-23 $280（10G Enterprise SFP Switch）",
-   "why": "OEM/配套 30% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP，−40~+75 ℃）作基站侧供电/汇聚配件；10G 回传 STI-448XGGGPM；仅民用运营商/企业线。已打开的主题（6/18 封有打开记录）：「100G Data Center Switch」(2024-09-11)、「8 Port 2.5G Switch」(2024-10-08)、「Industrial PoE Switch」(2024-11-12)、「Mini Industrial PoE Switch」(2024-12-10) → 读者兴趣偏「工业」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-03-04)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "2026-11",
-   "channel": "A 邮箱 → harshul@eion.com",
-   "action": "首封前知悉：Elsa 2025-02-27 单发过「Industrial PoE Switch」（未见回复（Elsa 箱 Replied 标签无））；短信一问（email_hook）",
-   "one_question": "For the tower and rooftop cabinets behind your LTE base stations, a −40 to +75 °C DIN 8-port PoE+ switch with 2 SFP uplinks (EION label possible) powers CPE and cameras from one box; would your channel partners want it on the price list? Reference: STI-288DGGPM at $137.5 USD EXW (MOQ 1, 15-day validity)."
-  },
-  "facts": [
-   {
-    "date": "2026-03-04",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "Mini Industrial PoE Switch、Commercial PoE Switch",
-    "why": "18 封 / 6 次打开 / 0 回｜首封 2024-06-17 → 末封 2026-03-04（18 去 / 0 来）",
-    "k": "gmail_digest"
-   },
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "（用户表字段）",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2025-02-27",
-    "dir": "out",
-    "who": "Elsa → harshul@eion.com",
-    "quote": "Industrial PoE Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
-    "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
-    "k": "elsa_1to1",
-    "msg_id": "1954821f5bcb3a37"
-   }
+  "code": "SB-1099",
+  "name_official": "EION Inc.（EION Wireless 事业部，eionwireless.com / eion.com，Ottawa-Kanata, ON）",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（eionwireless.com）",
+  "summary": "加拿大渥太华的私营无线宽带/4G LTE 系统供应商（2001 年成立；2011 年收购 Aviat Networks 的 WiMAX 业务；51–200 人口径，营收 $20.9M；印度设全球客户支持中心；165+ 渠道伙伴；CEO Dr. Kalai Kalaichelvan）：面向 Tier-1 运营商、ISP、企业、政府、油气、国防与安防行业的点对多点无线接入与 CPE。基站侧/回传汇聚需要工业级 PoE/10G 交换机（为 CPE/AP 供电）——OEM 或配套机会。用户表：WhatsApp 已加，8 次跟进 0 回复。",
+  "type": "",
+  "size": "",
+  "brands_seen": [
+    "EION（自产无线）"
   ],
-  "proof_gaps": [
-   "用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「读而不回」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+  "evidence": [
+    {
+      "kind": "官网",
+      "claim": "公司定位与渠道规模",
+      "quote": "EION Wireless, a division of EION Inc. Since being founded in 2001, EION Wireless has been recognized multiple times as one of the fifty fastest growing wireless companies by Deloitte and Touche … works with more than 165 channel partners worldwide … privately owned Canadian company headquartered in Ottawa Canada",
+      "url": "https://www.eionwireless.com/who/company",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "LinkedIn",
+      "claim": "规模与成立年",
+      "quote": "EION Wireless … Industry: Wireless Services Company size: 51-200 employees Headquarters: Kanata, Ontario … Founded: 2001 Specialties: Software Services, Wireless, WiMAX, LTE, and Broadband",
+      "url": "https://ca.linkedin.com/company/eion",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "名录",
+      "claim": "地址、电话、营收",
+      "quote": "150 Katimavik Rd Ste 304, Ottawa, Ontario, K2L 2N2, Canada (613) 271-4400 … Revenue $20.9 M Employees 47 Founded 2001",
+      "url": "https://www.datanyze.com/companies/eion-wireless/1164264922",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "新闻",
+      "claim": "收购 Aviat WiMAX 业务",
+      "quote": "Aviat Networks … has sold its WiMAX business to EION Networks, Inc. which is a privately owned Canadian Company headquartered in Ottawa, Ontario.",
+      "url": "https://investors.aviatnetworks.com/news-releases/news-release-details/aviat-networks-announces-sale-wimax-business-eion-wireless",
+      "date": "2011-09-06"
+    },
+    {
+      "kind": "用户表",
+      "claim": "WhatsApp 已加；8 次跟进 0 回复",
+      "quote": "（用户表字段）",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "draft_en": {
-   "subject": "One question — Mini Industrial PoE Switch",
-   "body": "Hi Harshul,\n\nWe have sent you a few mails on \"Mini Industrial PoE Switch\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor the tower and rooftop cabinets behind your LTE base stations, a −40 to +75 °C DIN 8-port PoE+ switch with 2 SFP uplinks (EION label possible) powers CPE and cameras from one box; would your channel partners want it on the price list?\n\nReference price: DIN-rail 8-PoE + 2 × 2.5G SFP L2+ managed industrial switch (Marvell AC5) (STI-288DGGPM) $137.5 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+  "kp": [
+    {
+      "name": "Kalai Kalaichelvan（Dr.）",
+      "role": "Founder, President & CEO（公开）",
+      "email": "—（未公开）",
+      "phone": "+1 613-271-4400（公司）",
+      "source": "https://www.crunchbase.com/organization/eion-wireless"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（官网 + 名录核对）"
   },
-  "as_of": "2026-10-24"
- }
+  "company_facts": {
+    "legal_name": "EION Inc.（EION Networks, Inc.；EION Wireless 为事业部）",
+    "founded": "2001",
+    "hq": "150 Katimavik Rd, Ste 304, Kanata (Ottawa), ON K2L 2N2, Canada（+1 613-271-4400）；Calgary 分部",
+    "size": "51–200（LinkedIn）/ 47 人、$20.9M（Datanyze）",
+    "other": "Deloitte 50 强多次；WiMAX→LTE；行业：企业、政府、油气、安防、国防（守界：国防线不供）"
+  },
+  "business_lines": [
+    "4G LTE / 宽带无线接入系统（基站、CPE）",
+    "运营商与 ISP 方案（165+ 渠道伙伴）",
+    "行业无线（油气、安防、政府）"
+  ],
+  "channels": {
+    "网站": "https://www.eionwireless.com/",
+    "电话": "+1 613-271-4400（名录公开）",
+    "LinkedIn": "https://ca.linkedin.com/company/eion"
+  },
+  "signals": [
+    "无线系统商的塔站/机房需要宽温 PoE 交换机为 CPE/AP/摄像供电并做 10G 回传汇聚——STI-288DGGPM / STI-448XGGGPM 可作配套或 EION 标 OEM 配件"
+  ],
+  "risks": [
+    "国防/政府客户线守界；加拿大客户可能要求 cUL——Saga 仅 FCC/CE；8 次跟进 0 回复"
+  ],
+  "saga_fit": {
+    "p1": "STI-288DGGPM",
+    "tier": 30,
+    "why": "OEM/配套 30% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP，−40~+75 ℃）作基站侧供电/汇聚配件；10G 回传 STI-448XGGGPM；仅民用运营商/企业线"
+  },
+  "email_hook": "For the tower and rooftop cabinets behind your LTE base stations, a −40 to +75 °C DIN 8-port PoE+ switch with 2 SFP uplinks (EION label possible) powers CPE and cameras from one box; would your channel partners want it on the price list?",
+  "mail_review": {
+    "binding": {
+      "level": "读而不回（A/S 邮箱 18 封 2024→2026，其中 6 封被打开，0 回；收件 harshul@eion.com；被打开主题「Mini Industrial PoE Switch、Commercial PoE Switch」）；Elsa 1:1 去信 1 封（2025-02-27「Industrial PoE Switch」；To 仅本户 harshul@eion.com；Bcc 未逐封读头；同类名单抽读 24 封均无 Bcc；此后再未进 Elsa 任何名单——全箱 `from:e.sagatelecom to:harshul@eion.com` 仅此 1 条，complete）（第 74 批(m)）",
+      "type": "—",
+      "sieve": "2（有人在读，无人回）",
+      "stop": "读而不回 = 内容未命中或没有当下需求",
+      "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）；WhatsApp 已加 → 唤醒走 WhatsApp 一句话，不走邮件",
+      "lane": "CA 主攻",
+      "cadence": "一封；回了再说",
+      "evidence": "gmail_digest：out 18，Opened 标签 6（Simon 群发追踪）；用户表：「（用户表字段）」；研究档 risks：国防/政府客户线守界；加拿大客户可能要求 cUL——Saga 仅 FCC/CE；8 次跟进 0 回复"
+    },
+    "situation": "加拿大渥太华的私营无线宽带/4G LTE 系统供应商（2001 年成立；2011 年收购 Aviat Networks 的 WiMAX 业务；51–200 人口径，营收 $20.9M；印度设全球客户支持中心；165+ 渠道伙伴；CEO Dr. Kalai Kalaichelvan）：面向 Tier-1 运营商、ISP、企业、政府、油气、国防与安防行业的点对多点无线接入与 CPE。基站侧/回传汇聚需要工业级 PoE/10G 交换机（为 CPE/AP 供电）——OEM 或配套机会。用户表：WhatsApp 已加，8 次跟进 0 回复。",
+    "need": "OEM/配套 30% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP，−40~+75 ℃）作基站侧供电/汇聚配件；10G 回传 STI-448XGGGPM；仅民用运营商/企业线",
+    "breakpoint": "国防/政府客户线守界；加拿大客户可能要求 cUL——Saga 仅 FCC/CE；8 次跟进 0 回复",
+    "saga_now": {
+      "p1": "STI-288DGGPM",
+      "tier": 30,
+      "price": "首触锚价 STI-288DGGPM $137.5 EXW（2026-06 PDF 上限 $137.5（档位 139.9–151.6 超上限；Angora/Astel 实报 $125 为成单户价）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2025-01-16 $240（24 Port Fiber Switch）；群发里他已看到的价（续，第 66 批全量复核）：2024-06-17 $220（48 port managed switch）、2024-08-16 $65（10G Media Converter）、2025-06-25 $300（48 Port PoE Managed Switch）、2025-09-23 $280（10G Enterprise SFP Switch）",
+      "why": "OEM/配套 30% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP，−40~+75 ℃）作基站侧供电/汇聚配件；10G 回传 STI-448XGGGPM；仅民用运营商/企业线。已打开的主题（6/18 封有打开记录）：「100G Data Center Switch」(2024-09-11)、「8 Port 2.5G Switch」(2024-10-08)、「Industrial PoE Switch」(2024-11-12)、「Mini Industrial PoE Switch」(2024-12-10) → 读者兴趣偏「工业」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-03-04)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "2026-11",
+      "channel": "A 邮箱 → harshul@eion.com",
+      "action": "首封前知悉：Elsa 仅 2025-02-27 单发过 1 封「Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；短信一问（email_hook）",
+      "one_question": "For the tower and rooftop cabinets behind your LTE base stations, a −40 to +75 °C DIN 8-port PoE+ switch with 2 SFP uplinks (EION label possible) powers CPE and cameras from one box; would your channel partners want it on the price list? Reference: STI-288DGGPM at $137.5 USD EXW (MOQ 1, 15-day validity)."
+    },
+    "facts": [
+      {
+        "date": "2025-02-27",
+        "dir": "out",
+        "who": "Elsa → harshul@eion.com",
+        "quote": "Industrial PoE Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+        "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
+        "k": "elsa_1to1",
+        "msg_id": "1954821f5bcb3a37"
+      },
+      {
+        "date": "2026-03-04",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "Mini Industrial PoE Switch、Commercial PoE Switch",
+        "why": "18 封 / 6 次打开 / 0 回｜首封 2024-06-17 → 末封 2026-03-04（18 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "（用户表字段）",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [
+      "用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「读而不回」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+    ],
+    "draft_en": {
+      "subject": "One question — Mini Industrial PoE Switch",
+      "body": "Hi Harshul,\n\nWe have sent you a few mails on \"Mini Industrial PoE Switch\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor the tower and rooftop cabinets behind your LTE base stations, a −40 to +75 °C DIN 8-port PoE+ switch with 2 SFP uplinks (EION label possible) powers CPE and cameras from one box; would your channel partners want it on the price list?\n\nReference price: DIN-rail 8-PoE + 2 × 2.5G SFP L2+ managed industrial switch (Marvell AC5) (STI-288DGGPM) $137.5 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+    },
+    "as_of": "2026-10-24"
+  }
 }

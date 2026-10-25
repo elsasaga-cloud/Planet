@@ -34,30 +34,38 @@ updated: 2026-10-25
 - **是谁**：肯尼亚联系人 Musine，需求千兆 PoE 媒体转换器，2025-04 对芯片介绍回复 interested；无公司名。（调研 2026-10-21；表内兴趣：千兆PoE MC）
 - **为什么是 B 级**：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+0 仅免费邮箱；-15 只有免费邮箱、无公司名无网站（个人买家特征）；-6 区域 非洲/肯尼亚；+5 最近活动 2025；-3 跟进表最近平台标记 E（已降为群发）
 - **历史互动**：实质回复 1 次；WhatsApp 已加；推送 5 次（2025-03-02 → 2025-10-01）；最近一次客户回复：2025-04-22：interested
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-111GP — 千兆 PoE MC = Saga 工业 STI-111GP（$27.8/29.0/30.1）。；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STI-111GP — 千兆 PoE MC = Saga 工业 STI-111GP（$27.8/29.0/30.1）。；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：公司网站（表内无域名，无法核实是否仍在运营）
-- **下一步**：不动 — 首封前知悉：Elsa 2026-05-11 单发过「10G Enterprise SFP Switch」（未见回复（Elsa 箱 Replied 标签无））；—
+- **下一步**：不动 — 首封前知悉：Elsa 已 1:1 去信 9 轮（2025-05-12→2026-08-04，客户回过信（2025-04-17、2025-04-22）），此前还经锚 Bcc 触达（第 74 批(m)）；—
 
-## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-25）
 
-> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1009` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1009` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-25。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未发信→一句「interested」（Elsa 邮箱 2025-04-16 wafulamusine@gmail.com 回「Am good… Am interested」；S/A 邮箱 0 封；个人 gmail、肯尼亚）；Elsa 单发去信 1 封（2026-05-11「10G Enterprise SFP Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）；另 Elsa 单发 1 封（2025-12-29「Marvell Industrial Alert System」）** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：不动（非主攻区；一句兴趣无需求） ｜ 通路：肯尼亚 非主攻 ｜ 节奏：不动 ｜ 证据：gmail_digest：out 0；用户表：「兴趣：千兆PoE MC；回复：interested」；研究档 risks：身份不明；东非付款 T/T 预付；Elsa 邮箱 `data/gmail_e/text/`（Replied 线程，客户→Elsa 正文；Elsa 回复正文已入库（第 73 批））
+- **绑定等级：未发信→一句「interested」（Elsa 邮箱 2025-04-16 wafulamusine@gmail.com 回「Am good… Am interested」；S/A 邮箱 0 封；个人 gmail、肯尼亚）；Elsa 1:1 去信 9 轮 2025-05-12→2026-08-04（To 仅本户 wafulamusine@gmail.com；头 msg 19fcc6e2b389afed 核对无 Bcc，称呼「Hi, Musine」= 个性化逐月 1:1 名单；主题 Marvell Industrial Alert System、Updated Ethernet Switches Links、Industrial PoE Switch、24 Port PoE Managed Switch…；客户来过信：Elsa 回 2025-04-17 Re:「Marvell Alleycat5 Solution」、2025-04-22 Re:「Marvell Alleycat5 Solution」；此前经 锚 sibandaprofp@gmail.com 的 Bcc 收到 2 轮（2025-03-02→2025-04-15）→ 回信后被 Elsa 从 Bcc 名单剔出、转入 1:1 名单）（第 74 批(m) `from:e.sagatelecom to:` 全程 complete，直收 11 条）；Elsa 群发 BCC 已触达 2025-04-15「Marvell Alleycat5 Solution」（价格未读），非洲/中亚/中东散户-2（锚 2025 sibanda ZW） 批次 To sibandaprofp@gmail.com，0 回（第 74 批 Bcc 头核对 msg 1963891c7a76ab19）** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：不动（非主攻区；一句兴趣无需求） ｜ 通路：肯尼亚 非主攻 ｜ 节奏：不动 ｜ 证据：gmail_digest：out 0；用户表：「兴趣：千兆PoE MC；回复：interested」；研究档 risks：身份不明；东非付款 T/T 预付；Elsa 邮箱 `data/gmail_e/text/`（Replied 线程，客户→Elsa 正文；Elsa 回复正文已入库（第 73 批））；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To sibandaprofp@gmail.com）本户见于 2025-04-15 名单；2025-12-09 最新一轮名单已不含此地址 → 中途被剔除（退信 / 退订 / 手工）；该批次最早 2025-03-02 起共 9 轮，更早轮次 Bcc 未读
 - **现状一句话**：肯尼亚联系人 Musine，需求千兆 PoE 媒体转换器，2025-04 对芯片介绍回复 interested；无公司名。
 - **对方真实需求（有据）**：千兆 PoE MC = Saga 工业 STI-111GP（$27.8/29.0/30.1）。
 - **断点 / 为什么停在这里**：身份不明；东非付款 T/T 预付
 - **Saga 现在该推什么**：P1 **STI-111GP**（25% 档，按主表（研究档 saga_fit））——千兆 PoE MC = Saga 工业 STI-111GP（$27.8/29.0/30.1）。
-- **下一步（具体）**：不动　—　首封前知悉：Elsa 2026-05-11 单发过「10G Enterprise SFP Switch」（未见回复（Elsa 箱 Replied 标签无））；—
+- **下一步（具体）**：不动　—　首封前知悉：Elsa 已 1:1 去信 9 轮（2025-05-12→2026-08-04，客户回过信（2025-04-17、2025-04-22）），此前还经锚 Bcc 触达（第 74 批(m)）；—
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2025-04-15 | 去 | Elsa 群发（BCC；To sibandaprofp@gmail.com，非洲/中亚/中东散户-2（锚 2025 sibanda ZW） 批次） | Marvell Alleycat5 Solution — （头部未取正文；见 Elsa 箱） | Elsa 箱群发 BCC 触达证据（命中地址 wafulamusine@gmail.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2025-04-16 | 来 | Musine（肯尼亚，个人 gmail） | Am good .... Am interested | 一句兴趣，无需求细节；非主攻区 | `gmail_e` |
 | 2025-04-17 | 去 | Elsa | Thanks for your interest. Please see attached links for all information.（附 Download Link.pdf） | 对「Am interested」只给链接 | `gmail_e 19642de7fdf8791b` |
 | 2025-04-22 | 去 | Elsa | Did you check the product information? Any interested models? | 追问一次，之后无回 → 一句兴趣到此为止 | `gmail_e 1965c9c762c8b5a9` |
-| 2026-10-21 | 用户表 | Simon | 兴趣：千兆PoE MC；回复：interested | 表内备注 | `用户表` |
-| 2026-05-11 | out | Elsa → wafulamusine@gmail.com | 10G Enterprise SFP Switch（Elsa 2026 年 1:1 名单重发；To 仅本户） | 本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
+| 2025-05-12 | out | Elsa → wafulamusine@gmail.com | 48 Port PoE Managed Switch（Elsa 1:1 逐月名单第 1/9 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:wafulamusine@gmail.com` 全程 complete：9 轮直收；客户曾来信（见 Re: 行） | `elsa_1to1` |
+| 2025-06-21 | out | Elsa → wafulamusine@gmail.com | 16 Port Ethernet Switch（Elsa 1:1 逐月名单第 2/9 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:wafulamusine@gmail.com` 全程 complete：9 轮直收；客户曾来信（见 Re: 行） | `elsa_1to1` |
+| 2025-10-01 | out | Elsa → wafulamusine@gmail.com | 10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 3/9 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:wafulamusine@gmail.com` 全程 complete：9 轮直收；客户曾来信（见 Re: 行） | `elsa_1to1` |
+| 2025-12-03 | out | Elsa → wafulamusine@gmail.com | Booster PoE Switch（Elsa 1:1 逐月名单第 4/9 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:wafulamusine@gmail.com` 全程 complete：9 轮直收；客户曾来信（见 Re: 行） | `elsa_1to1` |
 | 2025-12-29 | out | Elsa → wafulamusine@gmail.com | Marvell Industrial Alert System（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
+| 2026-03-02 | out | Elsa → wafulamusine@gmail.com | Updated Ethernet Switches Links（Elsa 1:1 逐月名单第 6/9 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:wafulamusine@gmail.com` 全程 complete：9 轮直收；客户曾来信（见 Re: 行） | `elsa_1to1` |
+| 2026-04-03 | out | Elsa → wafulamusine@gmail.com | Industrial PoE Switch（Elsa 1:1 逐月名单第 7/9 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:wafulamusine@gmail.com` 全程 complete：9 轮直收；客户曾来信（见 Re: 行） | `elsa_1to1` |
+| 2026-05-11 | out | Elsa → wafulamusine@gmail.com | 10G Enterprise SFP Switch（Elsa 2026 年 1:1 名单重发；To 仅本户） | 本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
+| 2026-08-04 | out | Elsa → wafulamusine@gmail.com | 24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 9/9 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:wafulamusine@gmail.com` 全程 complete：9 轮直收；客户曾来信（见 Re: 行） | `elsa_1to1` |
+| 2026-10-21 | 用户表 | Simon | 兴趣：千兆PoE MC；回复：interested | 表内备注 | `用户表` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：（已核 2026-10-24，第 73 批）Elsa 邮箱完整往来：04-15 群发 → 04-16「Am good… Am interested」→ 04-17 Elsa 给下载链接 → 04-22 追问 → 无回；用户表「有回复·跟进中」= 这条；不动不变
 

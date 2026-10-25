@@ -39,23 +39,31 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-228GP — 默认 25% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，$30.8）替代延长器做远端接入（光纤 + PoE）；延长器待 Q-32；Realtek 线按 HRUI 2026-09-30 进价 +25% 现算（Q-47 默认，不用 Drive 旧表价）：STC-228GP $30.8→$34.6；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-06 $65（10G Media Converter）
 - **第一问（只问一个）**：Pak Nur / Pak Gunawan, after the 12 extenders in 2011: for long-reach camera links we now recommend a 2× SFP + 8× PoE switch at $34.6 EXW (fibre instead of extenders) — are your current projects still copper-extender based, or moving to fibre?
 - **最大未知**：官网当前状态异常（超时（站慢或封锁））——公司是否仍在运营待核
-- **下一步**：群发节奏 A 邮箱 首封前知悉：Elsa 2025-04→2026-08 已 1:1 发过 9 轮（最近 $170 24 口 PoE），S 箱另 6 封，共 15 封 0 回 → 不再按「未触达」首触；观察打开
+- **下一步**：群发节奏 A 邮箱 首封前知悉：Elsa 已 1:1 去信 9 轮（2025-04-30→2026-08-10，0 回）（第 74 批(m)）；观察打开
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-122` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（S 邮箱 6 封 2024，无记录打开，0 回；收件 gunawan@pt-aag.co.id；主题多为「48 port managed switch、Industrial poe switch」）；Elsa 1:1 去信 9 轮 2025-04-30→2026-08-10（To 仅 gunawan@pt-aag.co.id、无 Bcc，是 Elsa 单独维护的逐月序列；最近 2026-08-10「24 Port PoE Managed Switch」$170），0 回（Elsa 箱 in:sent to:.pt 探测核对 msg 19fea7899c2e971b）** ｜ 类型：经销/集成商 ｜ 筛子：1（只收到群发） ｜ 停点：6 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：印度尼西亚 非主攻 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 6；研究档 risks：延长器 SKU 缺口；亚太非主攻区；1 次跟进无回复
+- **绑定等级：未触达（S 邮箱 6 封 2024，无记录打开，0 回；收件 gunawan@pt-aag.co.id；主题多为「48 port managed switch、Industrial poe switch」）；Elsa 1:1 去信 9 轮 2025-04-30→2026-08-10（To 仅本户 gunawan@pt-aag.co.id；Bcc 未逐封读头；同类名单抽读 24 封均无 Bcc；主题 Marvell Industrial Alert System、Updated Ethernet Switches Links、Marvell Managed Commercial Switches、24 Port PoE Managed Switch…；0 回（Elsa 箱无 Re: 行））（第 74 批(m) `from:e.sagatelecom to:` 全程 complete，直收 9 条）** ｜ 类型：经销/集成商 ｜ 筛子：1（只收到群发） ｜ 停点：6 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：印度尼西亚 非主攻 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 6；研究档 risks：延长器 SKU 缺口；亚太非主攻区；1 次跟进无回复
 - **现状一句话**：印尼公司，2011 年买过 12 台延长器，E 冷名单 1 次跟进 0 回复。
 - **对方真实需求（有据）**：默认 25% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，$30.8）替代延长器做远端接入（光纤 + PoE）；延长器待 Q-32
 - **断点 / 为什么停在这里**：延长器 SKU 缺口；亚太非主攻区；1 次跟进无回复
 - **Saga 现在该推什么**：P1 **STC-228GP**（25% 档，Realtek 线按 HRUI 2026-09-30 进价 +25% 现算（Q-47 默认，不用 Drive 旧表价）：STC-228GP $30.8→$34.6；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-06 $65（10G Media Converter））——默认 25% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，$30.8）替代延长器做远端接入（光纤 + PoE）；延长器待 Q-32
-- **下一步（具体）**：群发节奏　A 邮箱　首封前知悉：Elsa 2025-04→2026-08 已 1:1 发过 9 轮（最近 $170 24 口 PoE），S 箱另 6 封，共 15 封 0 回 → 不再按「未触达」首触；观察打开
+- **下一步（具体）**：群发节奏　A 邮箱　首封前知悉：Elsa 已 1:1 去信 9 轮（2025-04-30→2026-08-10，0 回）（第 74 批(m)）；观察打开
   - 第一问（只问一个）：Pak Nur / Pak Gunawan, after the 12 extenders in 2011: for long-reach camera links we now recommend a 2× SFP + 8× PoE switch at $34.6 EXW (fibre instead of extenders) — are your current projects still copper-extender based, or moving to fibre?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2024-12-04 | 去 | S 群发 | 48 port managed switch、Industrial poe switch | 6 封 / 0 次打开 / 0 回｜首封 2024-07-05 → 末封 2024-12-04（6 去 / 0 来） | `gmail_digest` |
+| 2025-04-30 | out | Elsa → gunawan@pt-aag.co.id | 8 Port Industrial PoE Switch（Elsa 1:1 逐月名单第 1/9 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:gunawan@pt-aag.co.id` 全程 complete：9 轮直收；0 回 | `elsa_1to1` |
+| 2025-06-09 | out | Elsa → gunawan@pt-aag.co.id | 48 Port PoE Managed Switch（Elsa 1:1 逐月名单第 2/9 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:gunawan@pt-aag.co.id` 全程 complete：9 轮直收；0 回 | `elsa_1to1` |
+| 2025-10-08 | out | Elsa → gunawan@pt-aag.co.id | 10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 3/9 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:gunawan@pt-aag.co.id` 全程 complete：9 轮直收；0 回 | `elsa_1to1` |
+| 2025-12-11 | out | Elsa → gunawan@pt-aag.co.id | Booster PoE Switch（Elsa 1:1 逐月名单第 4/9 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:gunawan@pt-aag.co.id` 全程 complete：9 轮直收；0 回 | `elsa_1to1` |
+| 2026-01-06 | out | Elsa → gunawan@pt-aag.co.id | Marvell Industrial Alert System（Elsa 1:1 逐月名单第 5/9 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:gunawan@pt-aag.co.id` 全程 complete：9 轮直收；0 回 | `elsa_1to1` |
+| 2026-02-27 | out | Elsa → gunawan@pt-aag.co.id | Updated Ethernet Switches Links（Elsa 1:1 逐月名单第 6/9 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:gunawan@pt-aag.co.id` 全程 complete：9 轮直收；0 回 | `elsa_1to1` |
+| 2026-03-30 | out | Elsa → gunawan@pt-aag.co.id | Marvell Managed Commercial Switches（Elsa 1:1 逐月名单第 7/9 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:gunawan@pt-aag.co.id` 全程 complete：9 轮直收；0 回 | `elsa_1to1` |
+| 2026-05-07 | out | Elsa → gunawan@pt-aag.co.id | 10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 8/9 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:gunawan@pt-aag.co.id` 全程 complete：9 轮直收；0 回 | `elsa_1to1` |
 | 2026-08-10 | out | Elsa → gunawan@pt-aag.co.id | 24 Port PoE Managed Switch … Price: 170USD/PC（第 9 轮；此前 2025-04-30 / 06-09 / 10-08 / 12-11、2026-01-06 / 02-27 / 03-30 / 05-07） | 本户不是 BCC 群发对象，而是 Elsa 的 1:1 月度序列收件人（9 轮无 Bcc）；S 箱 6 封 + Elsa 9 封 = 15 封 0 回 → 「未触达」应改读为「读而不回/地址冷」 | `elsa_1to1` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：Elsa 9 轮 1:1 是否有打开记录未核（Elsa 箱无 Opened 标签）

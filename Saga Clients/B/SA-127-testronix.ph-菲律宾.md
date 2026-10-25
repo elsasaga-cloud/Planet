@@ -39,25 +39,34 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — 待核型：光模块不在价格表（Q-32）；可搭 STI-110GE MC（$23.4）/ STC-228GP（$30.8）；Realtek 线按 HRUI 2026-09-30 进价 +25% 现算（Q-47 默认，不用 Drive 旧表价）：STC-228GP $30.8→$34.6；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-03-18 $240（24 Port Fiber Switch）
 - **第一问（只问一个）**：Hello Testronix team, alongside the optical modules you import: 2× SFP + 8× PoE switches at $34.6 EXW and industrial gigabit media converters at $23.4 — which SFP types (1G/10G, distance) do you move most, so I can pair a quote?
 - **最大未知**：年走量与现供应商
-- **下一步**：群发节奏 A 邮箱 首封前知悉：Elsa 2025-02-12 单发过「16 Port Ethernet Switch」（未见回复（Elsa 箱 Replied 标签无））；观察打开
+- **下一步**：群发节奏 A 邮箱 首封前知悉：Elsa 已 1:1 去信 10 轮（2025-02-12→2026-08-06，0 回）（第 74 批(m)）；观察打开
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-127` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A 邮箱 1 封 2025，无记录打开，0 回；收件 sales@testronix.com.ph；主题多为「24 Port Fiber Switch」）；Elsa 单发去信 1 封（2025-02-12「16 Port Ethernet Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）** ｜ 类型：经销商 ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：菲律宾 非主攻 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 1；用户表：「从uponcomm买了很多模块 / 网站：信息比较晦涩 / 富通天下」；研究档 risks：SFP 不在价格表；亚太非主攻区；1 次跟进无回复
+- **绑定等级：未触达（A 邮箱 1 封 2025，无记录打开，0 回；收件 sales@testronix.com.ph；主题多为「24 Port Fiber Switch」）；Elsa 1:1 去信 10 轮 2025-02-12→2026-08-06（To 仅本户 sales@testronix.com.ph；头 msg 19fd55efd2827f1c 核对无 Bcc，称呼「Hi,」= 无称呼逐月单发名单；主题 Marvell Industrial Alert System、Updated Ethernet Switches Links、Marvell Managed Commercial Switches、24 Port PoE Managed Switch…；0 回（Elsa 箱无 Re: 行））（第 74 批(m) `from:e.sagatelecom to:` 全程 complete，直收 10 条）** ｜ 类型：经销商 ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：菲律宾 非主攻 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 1；用户表：「从uponcomm买了很多模块 / 网站：信息比较晦涩 / 富通天下」；研究档 risks：SFP 不在价格表；亚太非主攻区；1 次跟进无回复
 - **现状一句话**：菲律宾电子/网络产品经销商，曾从 uponcomm 购买大量模块（用户记录），E 冷名单 1 次跟进 0 回复。
 - **对方真实需求（有据）**：待核型：光模块不在价格表（Q-32）；可搭 STI-110GE MC（$23.4）/ STC-228GP（$30.8）
 - **断点 / 为什么停在这里**：SFP 不在价格表；亚太非主攻区；1 次跟进无回复
 - **Saga 现在该推什么**：P1 **—**（25% 档，Realtek 线按 HRUI 2026-09-30 进价 +25% 现算（Q-47 默认，不用 Drive 旧表价）：STC-228GP $30.8→$34.6；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-03-18 $240（24 Port Fiber Switch））——待核型：光模块不在价格表（Q-32）；可搭 STI-110GE MC（$23.4）/ STC-228GP（$30.8）
-- **下一步（具体）**：群发节奏　A 邮箱　首封前知悉：Elsa 2025-02-12 单发过「16 Port Ethernet Switch」（未见回复（Elsa 箱 Replied 标签无））；观察打开
+- **下一步（具体）**：群发节奏　A 邮箱　首封前知悉：Elsa 已 1:1 去信 10 轮（2025-02-12→2026-08-06，0 回）（第 74 批(m)）；观察打开
   - 第一问（只问一个）：Hello Testronix team, alongside the optical modules you import: 2× SFP + 8× PoE switches at $34.6 EXW and industrial gigabit media converters at $23.4 — which SFP types (1G/10G, distance) do you move most, so I can pair a quote?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
-| 2025-03-18 | 去 | A 群发 | 24 Port Fiber Switch | 1 封 / 0 次打开 / 0 回｜首封 2025-03-18 → 末封 2025-03-18（1 去 / 0 来） | `gmail_digest` |
-| 2026-10-21 | 用户表 | Simon | 从uponcomm买了很多模块 / 网站：信息比较晦涩 / 富通天下 | 表内备注 | `用户表` |
 | 2025-02-12 | out | Elsa → sales@testronix.com.ph | 16 Port Ethernet Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
+| 2025-03-18 | 去 | A 群发 | 24 Port Fiber Switch | 1 封 / 0 次打开 / 0 回｜首封 2025-03-18 → 末封 2025-03-18（1 去 / 0 来） | `gmail_digest` |
+| 2025-05-01 | out | Elsa → sales@testronix.com.ph | 8 Port Industrial PoE Switch（Elsa 1:1 逐月名单第 2/10 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:sales@testronix.com.ph` 全程 complete：10 轮直收；0 回 | `elsa_1to1` |
+| 2025-06-18 | out | Elsa → sales@testronix.com.ph | 48 Port PoE Managed Switch（Elsa 1:1 逐月名单第 3/10 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:sales@testronix.com.ph` 全程 complete：10 轮直收；0 回 | `elsa_1to1` |
+| 2025-10-09 | out | Elsa → sales@testronix.com.ph | 10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 4/10 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:sales@testronix.com.ph` 全程 complete：10 轮直收；0 回 | `elsa_1to1` |
+| 2025-12-09 | out | Elsa → sales@testronix.com.ph | Booster PoE Switch（Elsa 1:1 逐月名单第 5/10 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:sales@testronix.com.ph` 全程 complete：10 轮直收；0 回 | `elsa_1to1` |
+| 2026-01-07 | out | Elsa → sales@testronix.com.ph | Marvell Industrial Alert System（Elsa 1:1 逐月名单第 6/10 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:sales@testronix.com.ph` 全程 complete：10 轮直收；0 回 | `elsa_1to1` |
+| 2026-02-18 | out | Elsa → sales@testronix.com.ph | Updated Ethernet Switches Links（Elsa 1:1 逐月名单第 7/10 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:sales@testronix.com.ph` 全程 complete：10 轮直收；0 回 | `elsa_1to1` |
+| 2026-03-24 | out | Elsa → sales@testronix.com.ph | Marvell Managed Commercial Switches（Elsa 1:1 逐月名单第 8/10 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:sales@testronix.com.ph` 全程 complete：10 轮直收；0 回 | `elsa_1to1` |
+| 2026-05-05 | out | Elsa → sales@testronix.com.ph | 10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 9/10 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:sales@testronix.com.ph` 全程 complete：10 轮直收；0 回 | `elsa_1to1` |
+| 2026-08-06 | out | Elsa → sales@testronix.com.ph | 24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 10/10 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:sales@testronix.com.ph` 全程 complete：10 轮直收；0 回 | `elsa_1to1` |
+| 2026-10-21 | 用户表 | Simon | 从uponcomm买了很多模块 / 网站：信息比较晦涩 / 富通天下 | 表内备注 | `用户表` |
 
 ## 基本事实（事实/推断/假设分层）
 

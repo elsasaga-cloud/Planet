@@ -43,7 +43,7 @@ updated: 2026-10-25
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1283` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-25。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：Elsa 群发 BCC 已触达 2026-08-12「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，非洲/中亚/中东散户-2（锚 2026 起 jango KZ） 批次 To jango.94.94@gmail.com，首见 2025-12-09，0 回（第 74 批 Bcc 头核对 msg 19ff56a1da83b526）；S/A 箱：S/A 邮箱均无往来；来源：用户表「兴趣：千兆双纤20KM工业模块；回复：12.13: 一直是一个对勾 没看信息」）** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：不动（非主攻区；J5：有证据再动） ｜ 通路：埃塞俄比亚 非主攻 ｜ 节奏：不动 ｜ 证据：gmail_digest：out 0；用户表：「兴趣：千兆双纤20KM工业模块；回复：12.13: 一直是一个对勾 没看信息」；研究档 risks：需求为 SFP 模块（缺口 Q-32）；消息未读；埃塞外汇管制；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To sibandaprofp@gmail.com）本户见于 2025-12-09 名单；该批次最早 2025-03-02 起共 9 轮，更早轮次 Bcc 未读；同批次（To jango.94.94@gmail.com）本户见于 2026-08-12 名单；该批次最早 2026-05-12 起共 2 轮，更早轮次 Bcc 未读
+- **绑定等级：Elsa 群发 BCC 已触达 2026-08-12「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，非洲/中亚/中东散户-2（锚 2026 起 jango KZ） 批次 To jango.94.94@gmail.com，首见 2025-12-09，0 回（第 74 批 Bcc 头核对 msg 19ff56a1da83b526）；S/A 箱：S/A 邮箱均无往来；来源：用户表「兴趣：千兆双纤20KM工业模块；回复：12.13: 一直是一个对勾 没看信息」）** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：不动（非主攻区；J5：有证据再动） ｜ 通路：埃塞俄比亚 非主攻 ｜ 节奏：不动 ｜ 证据：gmail_digest：out 0；用户表：「兴趣：千兆双纤20KM工业模块；回复：12.13: 一直是一个对勾 没看信息」；研究档 risks：需求为 SFP 模块（缺口 Q-32）；消息未读；埃塞外汇管制；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To sibandaprofp@gmail.com）2025-04-15→2025-12-09 共 8 轮群发（Booster PoE Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断；该批次最早 2025-03-02 起共 9 轮，更早轮次 Bcc 未读；同批次（To jango.94.94@gmail.com）本户见于 2026-08-12 名单；该批次最早 2026-05-12 起共 2 轮，更早轮次 Bcc 未读
 - **现状一句话**：埃塞俄比亚自建站最早询盘（2022-11），需求千兆双纤 20 km 工业光模块（SFP，Saga 价目无，Q-32）；消息未读，无后续。
 - **对方真实需求（有据）**：SFP 模块不在价目；无主推型。
 - **断点 / 为什么停在这里**：需求为 SFP 模块（缺口 Q-32）；消息未读；埃塞外汇管制
@@ -52,6 +52,7 @@ updated: 2026-10-25
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2025-04-15 | 去 | Elsa 群发（BCC；To sibandaprofp@gmail.com，非洲/中亚/中东散户-2（锚 2025 sibanda ZW） 批次） | Marvell Alleycat5 Solution — （头部未取正文；见 Elsa 箱） | Elsa 箱群发 BCC 触达证据（命中地址 mulugetawendosen@gmail.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2025-12-09 | 去 | Elsa 群发（BCC；To sibandaprofp@gmail.com，非洲/中亚/中东散户-2（锚 2025 sibanda ZW） 批次） | Booster PoE Switch — This is about our Marvell based managed switch with power boosting feature. 1, Fiber: 4*100M/1G/2.5G/10G 2, Copper: 8*1G RJ45/PoE, max 240W budget 3,  | Elsa 箱群发 BCC 触达证据（命中地址 mulugetawendosen@gmail.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-08-12 | 去 | Elsa 群发（BCC；To jango.94.94@gmail.com，非洲/中亚/中东散户-2（锚 2026 起 jango KZ） 批次） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发 BCC 触达证据（命中地址 mulugetawendosen@gmail.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-10-21 | 用户表 | Simon | 兴趣：千兆双纤20KM工业模块；回复：12.13: 一直是一个对勾 没看信息 | 表内备注 | `用户表` |

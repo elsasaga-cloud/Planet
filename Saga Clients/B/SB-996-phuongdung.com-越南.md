@@ -36,18 +36,18 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — —；—
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：官网当前状态异常（超时（站慢或封锁））——公司是否仍在运营待核
-- **下一步**：不动 — 首封前知悉：Elsa 2025-02-10 单发过「8 Port Industrial PoE Switch」（未见回复（Elsa 箱 Replied 标签无））；—
+- **下一步**：不动 — 首封前知悉：Elsa 仅 2025-02-10 单发过 1 封「8 Port Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；—
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-996` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（2 封越南语自动回复）；Elsa 单发去信 1 封（2025-02-10「8 Port Industrial PoE Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）** ｜ 类型：越南网络分销（Phuong Dung；ONV 在售） ｜ 筛子：0 ｜ 停点：自动回复/机器人，无人工回复 ｜ 复活：不动 ｜ 通路：VN ｜ 节奏：不动 ｜ 证据：k=3ea34507e854cd6f / 1a8db5fe61ecbe82
+- **绑定等级：未触达（2 封越南语自动回复）；Elsa 1:1 去信 1 封（2025-02-10「8 Port Industrial PoE Switch」；To 仅本户 info@phuongdung.com；Bcc 未逐封读头；同类名单抽读 24 封均无 Bcc；此后再未进 Elsa 任何名单——全箱 `from:e.sagatelecom to:info@phuongdung.com` 仅此 1 条，complete）（第 74 批(m)）** ｜ 类型：越南网络分销（Phuong Dung；ONV 在售） ｜ 筛子：0 ｜ 停点：自动回复/机器人，无人工回复 ｜ 复活：不动 ｜ 通路：VN ｜ 节奏：不动 ｜ 证据：k=3ea34507e854cd6f / 1a8db5fe61ecbe82
 - **现状一句话**：来信全部为机器回复；无人读信或无人回信。
 - **对方真实需求（有据）**：—
 - **断点 / 为什么停在这里**：—
 - **Saga 现在该推什么**：P1 **—**（20% 档，—）———
-- **下一步（具体）**：不动　—　首封前知悉：Elsa 2025-02-10 单发过「8 Port Industrial PoE Switch」（未见回复（Elsa 箱 Replied 标签无））；—
+- **下一步（具体）**：不动　—　首封前知悉：Elsa 仅 2025-02-10 单发过 1 封「8 Port Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；—
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|

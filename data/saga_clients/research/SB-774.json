@@ -1,133 +1,133 @@
 {
- "code": "SB-774",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（ktinet.com.tw，快照 2026-10-21）",
- "summary": "台湾 KTI Networks（1983 年成立；自有品牌工业交换机 / MC：KGS-2461-HP、KGS-1064-HP、KGC-310M、KGC-460；表内「工业 FS / MC / SFP，自己的牌子，有人卖他们的」）；群发 9 次无回复。",
- "type": "台湾品牌制造商（按「台湾厂商口径」只谈 OEM/ODM 二供）",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：KTI Networks；品类词 工业自动化 / OT 网络 / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
-   "quote": "Spotlight Products；KGS-2461-HP；KGS-1064-HP；KGS-2422-TG；KGC-310M Ver.C；KGC-460",
-   "url": "https://www.ktinet.com.tw/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "工业FS MC SFP 自己的牌子 有人卖他们的",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "首页聚焦产品 KGS/KGC 系列",
-   "quote": "Spotlight Products ; KGS-2461-HP ; KGS-1064-HP ; KGS-2422-TG ; KGC-310M Ver.C ; KGC-460 ; KGC-240",
-   "url": "https://www.ktinet.com.tw/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "工业 FS / MC / SFP 自有品牌",
-   "quote": "工业FS MC SFP 自己的牌子 有人卖他们的",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "台湾",
-  "other": "官网 ktinet.com.tw，语言 en-US，快照状态 ok；角色判定来源：用户表"
- },
- "business_lines": [
-  "工业交换机 / 媒体转换器（自有品牌 KTI）"
- ],
- "channels": {
-  "role": "台湾品牌制造商（按「台湾厂商口径」只谈 OEM/ODM 二供）",
-  "region": "台湾",
-  "contact": "kti@ktinet.com.tw"
- },
- "signals": [
-  "首页 Spotlight：KGS-2461-HP / KGS-1064-HP / KGS-2422-TG / KGC-310M / KGC-460 / KGC-240",
-  "站内 kw：ethernet 339 / industrial 143 / media converter 108"
- ],
- "risks": [
-  "台湾自有品牌厂商：外采意愿低",
-  "非主攻区（T5）；9 次无回复，仅 kti@ 通用邮箱"
- ],
- "saga_fit": {
-  "p1": "STI-288GPM",
-  "tier": 30,
-  "why": "自有工业 PoE 管理线（KGS-2461-HP）→ 二供位 STI-288GPM（$85.5 @30%）；MC 位（KGC 系列）STI-110GE / STI-111GP"
- },
- "email_hook": "For the KGS/KGC industrial switch and media converter lines, we can be a second source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed, gigabit MC) from small lots — is there an entry model you would rather source than build?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A 邮箱 14 封 2025→2026，1 次记录打开，0 回；收件 kti@ktinet.com.tw；主题多为「Marvell Industrial Alert System、Managed Optical Bypass Switch」）；Elsa 单发去信 1 封（2025-02-17「L3 Managed Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）",
-   "type": "台湾品牌制造商（按「台湾厂商口径」只谈 OEM/ODM 二供）",
-   "sieve": "1~2（1 次打开）",
-   "stop": "14 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "台湾 非主攻",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 14，Opened 标签 1（Simon 群发追踪）；用户表：「工业FS MC SFP 自己的牌子 有人卖他们的」；研究档 risks：台湾自有品牌厂商：外采意愿低"
-  },
-  "situation": "台湾 KTI Networks（1983 年成立；自有品牌工业交换机 / MC：KGS-2461-HP、KGS-1064-HP、KGC-310M、KGC-460；表内「工业 FS / MC / SFP，自己的牌子，有人卖他们的」）；群发 9 次无回复。",
-  "need": "自有工业 PoE 管理线（KGS-2461-HP）→ 二供位 STI-288GPM（$85.5 @30%）；MC 位（KGC 系列）STI-110GE / STI-111GP",
-  "breakpoint": "台湾自有品牌厂商：外采意愿低",
-  "saga_now": {
-   "p1": "STI-288GPM",
-   "tier": 30,
-   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-12 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-07-07 $300（48 Port PoE Managed Switch）、2025-10-16 $280（10G Enterprise SFP Switch）",
-   "why": "自有工业 PoE 管理线（KGS-2461-HP）→ 二供位 STI-288GPM（$85.5 @30%）；MC 位（KGC 系列）STI-110GE / STI-111GP。已打开的主题（1/14 封有打开记录）：「Mini Industrial PoE Switch」(2025-09-15) → 读者兴趣偏「工业」；与 P1 同类，继续",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "首封前知悉：Elsa 2025-02-17 单发过「L3 Managed Switch」（未见回复（Elsa 箱 Replied 标签无））；观察打开",
-   "one_question": "For the KGS/KGC industrial switch and media converter lines, we can be a second source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed, gigabit MC) from small lots — is there an entry model you would rather source than build?"
-  },
-  "facts": [
-   {
-    "date": "2026-08-12",
-    "dir": "去",
-    "who": "A 群发",
-    "quote": "Marvell Industrial Alert System、Managed Optical Bypass Switch",
-    "why": "14 封 / 1 次打开 / 0 回｜首封 2025-03-17 → 末封 2026-08-12（14 去 / 0 来）",
-    "k": "gmail_digest"
-   },
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "工业FS MC SFP 自己的牌子 有人卖他们的",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2025-02-17",
-    "dir": "out",
-    "who": "Elsa → kti@ktinet.com.tw",
-    "quote": "L3 Managed Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
-    "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
-    "k": "elsa_1to1",
-    "msg_id": "195127df715ac6df"
-   }
+  "code": "SB-774",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（ktinet.com.tw，快照 2026-10-21）",
+  "summary": "台湾 KTI Networks（1983 年成立；自有品牌工业交换机 / MC：KGS-2461-HP、KGS-1064-HP、KGC-310M、KGC-460；表内「工业 FS / MC / SFP，自己的牌子，有人卖他们的」）；群发 9 次无回复。",
+  "type": "台湾品牌制造商（按「台湾厂商口径」只谈 OEM/ODM 二供）",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：KTI Networks；品类词 工业自动化 / OT 网络 / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
+      "quote": "Spotlight Products；KGS-2461-HP；KGS-1064-HP；KGS-2422-TG；KGC-310M Ver.C；KGC-460",
+      "url": "https://www.ktinet.com.tw/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "工业FS MC SFP 自己的牌子 有人卖他们的",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "首页聚焦产品 KGS/KGC 系列",
+      "quote": "Spotlight Products ; KGS-2461-HP ; KGS-1064-HP ; KGS-2422-TG ; KGC-310M Ver.C ; KGC-460 ; KGC-240",
+      "url": "https://www.ktinet.com.tw/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "工业 FS / MC / SFP 自有品牌",
+      "quote": "工业FS MC SFP 自己的牌子 有人卖他们的",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "kp": [],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "台湾",
+    "other": "官网 ktinet.com.tw，语言 en-US，快照状态 ok；角色判定来源：用户表"
+  },
+  "business_lines": [
+    "工业交换机 / 媒体转换器（自有品牌 KTI）"
+  ],
+  "channels": {
+    "role": "台湾品牌制造商（按「台湾厂商口径」只谈 OEM/ODM 二供）",
+    "region": "台湾",
+    "contact": "kti@ktinet.com.tw"
+  },
+  "signals": [
+    "首页 Spotlight：KGS-2461-HP / KGS-1064-HP / KGS-2422-TG / KGC-310M / KGC-460 / KGC-240",
+    "站内 kw：ethernet 339 / industrial 143 / media converter 108"
+  ],
+  "risks": [
+    "台湾自有品牌厂商：外采意愿低",
+    "非主攻区（T5）；9 次无回复，仅 kti@ 通用邮箱"
+  ],
+  "saga_fit": {
+    "p1": "STI-288GPM",
+    "tier": 30,
+    "why": "自有工业 PoE 管理线（KGS-2461-HP）→ 二供位 STI-288GPM（$85.5 @30%）；MC 位（KGC 系列）STI-110GE / STI-111GP"
+  },
+  "email_hook": "For the KGS/KGC industrial switch and media converter lines, we can be a second source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed, gigabit MC) from small lots — is there an entry model you would rather source than build?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A 邮箱 14 封 2025→2026，1 次记录打开，0 回；收件 kti@ktinet.com.tw；主题多为「Marvell Industrial Alert System、Managed Optical Bypass Switch」）；Elsa 1:1 去信 1 封（2025-02-17「L3 Managed Switch」；To 仅本户 kti@ktinet.com.tw；Bcc 未逐封读头；同类名单抽读 24 封均无 Bcc；此后再未进 Elsa 任何名单——全箱 `from:e.sagatelecom to:kti@ktinet.com.tw` 仅此 1 条，complete）（第 74 批(m)）",
+      "type": "台湾品牌制造商（按「台湾厂商口径」只谈 OEM/ODM 二供）",
+      "sieve": "1~2（1 次打开）",
+      "stop": "14 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+      "revive": "保持季度群发到 2027-Q1；无打开即停",
+      "lane": "台湾 非主攻",
+      "cadence": "季度",
+      "evidence": "gmail_digest：out 14，Opened 标签 1（Simon 群发追踪）；用户表：「工业FS MC SFP 自己的牌子 有人卖他们的」；研究档 risks：台湾自有品牌厂商：外采意愿低"
+    },
+    "situation": "台湾 KTI Networks（1983 年成立；自有品牌工业交换机 / MC：KGS-2461-HP、KGS-1064-HP、KGC-310M、KGC-460；表内「工业 FS / MC / SFP，自己的牌子，有人卖他们的」）；群发 9 次无回复。",
+    "need": "自有工业 PoE 管理线（KGS-2461-HP）→ 二供位 STI-288GPM（$85.5 @30%）；MC 位（KGC 系列）STI-110GE / STI-111GP",
+    "breakpoint": "台湾自有品牌厂商：外采意愿低",
+    "saga_now": {
+      "p1": "STI-288GPM",
+      "tier": 30,
+      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-12 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-07-07 $300（48 Port PoE Managed Switch）、2025-10-16 $280（10G Enterprise SFP Switch）",
+      "why": "自有工业 PoE 管理线（KGS-2461-HP）→ 二供位 STI-288GPM（$85.5 @30%）；MC 位（KGC 系列）STI-110GE / STI-111GP。已打开的主题（1/14 封有打开记录）：「Mini Industrial PoE Switch」(2025-09-15) → 读者兴趣偏「工业」；与 P1 同类，继续",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "群发节奏",
+      "channel": "A 邮箱",
+      "action": "首封前知悉：Elsa 仅 2025-02-17 单发过 1 封「L3 Managed Switch」，之后没再碰他（第 74 批(m)）；观察打开",
+      "one_question": "For the KGS/KGC industrial switch and media converter lines, we can be a second source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed, gigabit MC) from small lots — is there an entry model you would rather source than build?"
+    },
+    "facts": [
+      {
+        "date": "2025-02-17",
+        "dir": "out",
+        "who": "Elsa → kti@ktinet.com.tw",
+        "quote": "L3 Managed Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+        "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
+        "k": "elsa_1to1",
+        "msg_id": "195127df715ac6df"
+      },
+      {
+        "date": "2026-08-12",
+        "dir": "去",
+        "who": "A 群发",
+        "quote": "Marvell Industrial Alert System、Managed Optical Bypass Switch",
+        "why": "14 封 / 1 次打开 / 0 回｜首封 2025-03-17 → 末封 2026-08-12（14 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "工业FS MC SFP 自己的牌子 有人卖他们的",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

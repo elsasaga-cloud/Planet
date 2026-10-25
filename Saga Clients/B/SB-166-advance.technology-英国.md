@@ -36,25 +36,25 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-111GP — 自有 Advance 标 PoE MC → 工业 PoE MC STI-111GP（$30.1 @30%）/ 千兆 MC STI-110GE（$24.3）；PoE 交换机位 STC-28DGGPM；SFP 为其主品类，Saga 不供（Q-32）。已打开的主题（2/21 封有打开记录）：「L3 Managed Switch」(2025-01-20)、「10G Enterprise SFP Switch」(2025-10-09) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-02-11)、Saga Feature List_7.5.x_L2+(2026-06-26)、Product Link_2026Q3(2026-07-02)；7.5 Feature List 与 2026Q3 链接都已给过 → 下一封不能再是资料推送，只能是针对其需求的一句话/一个问题；首触锚价 STI-111GP $30.1 EXW（主表档位（无实报；PDF 上限 $36.3）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-08-12 $300（48 Port PoE Managed Switch）、2025-10-09 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：For the Advance-branded PoE media converters and PoE switches, we can be a second ODM source on a Marvell/Realtek platform (gigabit and PoE MC, 8-PoE + 2 SFP L2+) from small lots in your packaging, CE/RoHS/UKCA — which MC variant do you reorder most? Reference: STI-111GP at $30.1 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：2026-11 A 邮箱 → info@advance.technology 首封前知悉：Elsa 2025-02-18 单发过「Mini Industrial PoE Switch」（未见回复（Elsa 箱 Replied 标签无））；短信一问（email_hook）
+- **下一步**：2026-11 A 邮箱 → info@advance.technology 首封前知悉：Elsa 仅 2025-02-18 单发过 1 封「Mini Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；短信一问（email_hook）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-166` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：读而不回（A/S 邮箱 21 封 2025→2026，其中 2 封被打开，0 回；收件 info@advance.technology；被打开主题「Industrial PoE Switch、10G Enterprise SFP Switch」）；Elsa 单发去信 1 封（2025-02-18「Mini Industrial PoE Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）** ｜ 类型：英国兼容光模块/配件自有品牌商（MC/PoE 贴标，OEM 采购） ｜ 筛子：2（有人在读，无人回） ｜ 停点：读而不回 = 内容未命中或没有当下需求 ｜ 复活：一封「只问一句」的短信给打开过的地址（不附图不附表） ｜ 通路：UK 主攻（四主） ｜ 节奏：一封；回了再说 ｜ 证据：gmail_digest：out 21，Opened 标签 2（Simon 群发追踪）；用户表：「外壳比较杂 很多是国内的 MC PoE 自己logo 很多SFP模块」；研究档 risks：主品类 SFP：Saga 不供（Q-32），仅 MC/PoE 可对位
+- **绑定等级：读而不回（A/S 邮箱 21 封 2025→2026，其中 2 封被打开，0 回；收件 info@advance.technology；被打开主题「Industrial PoE Switch、10G Enterprise SFP Switch」）；Elsa 1:1 去信 1 封（2025-02-18「Mini Industrial PoE Switch」；To 仅本户 info@advance.technology；Bcc 未逐封读头；同类名单抽读 24 封均无 Bcc；此后再未进 Elsa 任何名单——全箱 `from:e.sagatelecom to:info@advance.technology` 仅此 1 条，complete）（第 74 批(m)）** ｜ 类型：英国兼容光模块/配件自有品牌商（MC/PoE 贴标，OEM 采购） ｜ 筛子：2（有人在读，无人回） ｜ 停点：读而不回 = 内容未命中或没有当下需求 ｜ 复活：一封「只问一句」的短信给打开过的地址（不附图不附表） ｜ 通路：UK 主攻（四主） ｜ 节奏：一封；回了再说 ｜ 证据：gmail_digest：out 21，Opened 标签 2（Simon 群发追踪）；用户表：「外壳比较杂 很多是国内的 MC PoE 自己logo 很多SFP模块」；研究档 risks：主品类 SFP：Saga 不供（Q-32），仅 MC/PoE 可对位
 - **现状一句话**：英国 Advance Technology Solutions Ltd（「Compatible, affordable」兼容光模块品牌（sfp 512）、PoE 媒体转换器页、线缆（204）、10G/2.5G；表内「外壳比较杂，很多是国内的；MC / PoE 自己 logo，很多 SFP 模块」「可以尝试多跟进一下」）；群发 10 次无回复。
 - **对方真实需求（有据）**：自有 Advance 标 PoE MC → 工业 PoE MC STI-111GP（$30.1 @30%）/ 千兆 MC STI-110GE（$24.3）；PoE 交换机位 STC-28DGGPM；SFP 为其主品类，Saga 不供（Q-32）
 - **断点 / 为什么停在这里**：主品类 SFP：Saga 不供（Q-32），仅 MC/PoE 可对位
 - **Saga 现在该推什么**：P1 **STI-111GP**（30% 档，首触锚价 STI-111GP $30.1 EXW（主表档位（无实报；PDF 上限 $36.3）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-08-12 $300（48 Port PoE Managed Switch）、2025-10-09 $280（10G Enterprise SFP Switch））——自有 Advance 标 PoE MC → 工业 PoE MC STI-111GP（$30.1 @30%）/ 千兆 MC STI-110GE（$24.3）；PoE 交换机位 STC-28DGGPM；SFP 为其主品类，Saga 不供（Q-32）。已打开的主题（2/21 封有打开记录）：「L3 Managed Switch」(2025-01-20)、「10G Enterprise SFP Switch」(2025-10-09) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-02-11)、Saga Feature List_7.5.x_L2+(2026-06-26)、Product Link_2026Q3(2026-07-02)；7.5 Feature List 与 2026Q3 链接都已给过 → 下一封不能再是资料推送，只能是针对其需求的一句话/一个问题
-- **下一步（具体）**：2026-11　A 邮箱 → info@advance.technology　首封前知悉：Elsa 2025-02-18 单发过「Mini Industrial PoE Switch」（未见回复（Elsa 箱 Replied 标签无））；短信一问（email_hook）
+- **下一步（具体）**：2026-11　A 邮箱 → info@advance.technology　首封前知悉：Elsa 仅 2025-02-18 单发过 1 封「Mini Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；短信一问（email_hook）
   - 第一问（只问一个）：For the Advance-branded PoE media converters and PoE switches, we can be a second ODM source on a Marvell/Realtek platform (gigabit and PoE MC, 8-PoE + 2 SFP L2+) from small lots in your packaging, CE/RoHS/UKCA — which MC variant do you reorder most? Reference: STI-111GP at $30.1 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2025-02-18 | out | Elsa → info@advance.technology | Mini Industrial PoE Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 | 2026-09-04 | 去 | A/S 群发 | Industrial PoE Switch、10G Enterprise SFP Switch | 21 封 / 2 次打开 / 0 回｜首封 2025-01-20 → 末封 2026-09-04（21 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 外壳比较杂 很多是国内的 MC PoE 自己logo 很多SFP模块 | 表内备注 | `用户表` |
-| 2025-02-18 | out | Elsa → info@advance.technology | Mini Industrial PoE Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 
 ## 基本事实（事实/推断/假设分层）
 

@@ -27,7 +27,7 @@ price_tier: 25%
 research: done
 site_snapshot: none
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -35,16 +35,16 @@ updated: 2026-10-24
 - **是谁**：越南公司 Tiên Phong CP（Trung，gmail semtec2017），需求 16/24/32 口 PoE 交换机；2025-11 收 48 口邮件、2025-12 收 2+2 mini 邮件；无域名。（调研 2026-10-21；表内兴趣：16 24 32 port POE Switch）
 - **为什么是 B 级**：+30 实质回复 2 次（问价/要资料/问型号等）；-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+0 仅免费邮箱；+0 区域 亚太/越南；+5 最近活动 2025
 - **历史互动**：实质回复 2 次；WhatsApp 已加；推送 10 次（2024-04-29 → 2025-01-01）；最近一次客户回复：2024-12-13：1216email发了22mini
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424DGGPM-280W — 16/24 口 PoE → Saga STC-424DGGPM-280W（$134.5/140.1/145.7）；16 口 STC-2216GPM（HRUI 列表 $137.5）；32 口无（24/48 口替代）。已打开的主题（1/3 封有打开记录）：「Mini Industrial PoE Switch」(2024-12-16) → 读者兴趣偏「工业」；与 P1 同类，继续；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-11-20 $300（48 Port PoE Managed Switch）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STC-424DGGPM-280W — 16/24 口 PoE → Saga STC-424DGGPM-280W（$134.5/140.1/145.7）；16 口 STC-2216GPM（HRUI 列表 $137.5）；32 口无（24/48 口替代）。已打开的主题（1/3 封有打开记录）：「Mini Industrial PoE Switch」(2024-12-16) → 读者兴趣偏「工业」；与 P1 同类，继续；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-11-20 $300（48 Port PoE Managed Switch）
 - **第一问（只问一个）**：Trung, for the 16/24/32-port PoE sizes — we have 16 and 24 (and 48) in Marvell L2+; which PoE budget do your camera projects need, 250 W or 400 W class?
 - **最大未知**：公司网站（表内无域名，无法核实是否仍在运营）
 - **下一步**：群发节奏 A 邮箱 观察打开
 
-## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-25）
 
-> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-581` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-581` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-25。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（S 邮箱 3 封 2024→2025，1 次记录打开，0 回；收件 semtec2017@gmail.com；主题多为「48 Port PoE Managed Switch、Mini Industrial PoE Switch」）** ｜ 类型：— ｜ 筛子：1~2（1 次打开） ｜ 停点：3 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：越南 非主攻 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 3，Opened 标签 1（Simon 群发追踪）；用户表：「兴趣：16 24 32 port POE Switch；回复：1120email发了48口；1216email发了22mini」；研究档 risks：越南低价市场；gmail
+- **绑定等级：未触达（S 邮箱 3 封 2024→2025，1 次记录打开，0 回；收件 semtec2017@gmail.com；主题多为「48 Port PoE Managed Switch、Mini Industrial PoE Switch」）；Elsa 群发 BCC 已触达 2026-09-10「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，越南-2（锚 thuyluc1973 gmail；仅 2026-09-10 一轮） 批次 To thuyluc1973@gmail.com，0 回（第 74 批 Bcc 头核对 msg 1a08a7cf5fc993e4）** ｜ 类型：— ｜ 筛子：1~2（1 次打开） ｜ 停点：3 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：越南 非主攻 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 3，Opened 标签 1（Simon 群发追踪）；用户表：「兴趣：16 24 32 port POE Switch；回复：1120email发了48口；1216email发了22mini」；研究档 risks：越南低价市场；gmail；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To thuyluc1973@gmail.com）本户见于 2026-09-10 名单
 - **现状一句话**：越南公司 Tiên Phong CP（Trung，gmail semtec2017），需求 16/24/32 口 PoE 交换机；2025-11 收 48 口邮件、2025-12 收 2+2 mini 邮件；无域名。
 - **对方真实需求（有据）**：16/24 口 PoE → Saga STC-424DGGPM-280W（$134.5/140.1/145.7）；16 口 STC-2216GPM（HRUI 列表 $137.5）；32 口无（24/48 口替代）。
 - **断点 / 为什么停在这里**：越南低价市场；gmail
@@ -55,6 +55,7 @@ updated: 2026-10-24
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2025-01-10 | 去 | S 群发 | 48 Port PoE Managed Switch、Mini Industrial PoE Switch | 3 封 / 1 次打开 / 0 回｜首封 2024-11-20 → 末封 2025-01-10（3 去 / 0 来） | `gmail_digest` |
+| 2026-09-10 | 去 | Elsa 群发（BCC；To thuyluc1973@gmail.com，越南-2（锚 thuyluc1973 gmail；仅 2026-09-10 一轮） 批次） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发 BCC 触达证据（命中地址 semtec2017@gmail.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-10-21 | 用户表 | Simon | 兴趣：16 24 32 port POE Switch；回复：1120email发了48口；1216email发了22mini | 表内备注 | `用户表` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码
@@ -239,12 +240,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 37）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 37）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

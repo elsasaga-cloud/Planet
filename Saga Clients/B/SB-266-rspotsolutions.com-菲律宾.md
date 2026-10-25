@@ -38,25 +38,34 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-228GP — 分销 20% 档：STC-228GP（2 SFP + 8 GE PoE，$30.8）；16 口 STC-2016GP（$88.0）；HDMI 延长类不在 Saga 线；Realtek 线按 HRUI 2026-09-30 进价 +20% 现算（Q-47 默认，不用 Drive 旧表价）：STC-228GP $30.8→$33.2；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Hello R-Spot team, for your CCTV and cabling customers: 2× SFP + 8× PoE switches at $33.2 EXW, 16-port PoE at $88.0, neutral packing, MOQ 1 — which port count sells best in VisMin so I can quote a first lot?
 - **最大未知**：年走量与现供应商
-- **下一步**：群发节奏 A 邮箱 首封前知悉：Elsa 2025-02-12 单发过「Industrial PoE Switch」（未见回复（Elsa 箱 Replied 标签无））；观察打开
+- **下一步**：群发节奏 A 邮箱 首封前知悉：Elsa 已 1:1 去信 10 轮（2025-02-12→2026-08-06，0 回）（第 74 批(m)）；观察打开
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-266` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A 邮箱 1 封 2025，无记录打开，0 回；收件 vismin@rspotsolutions.com；主题多为「Marvell Alleycat5 Solution」）；Elsa 单发去信 1 封（2025-02-12「Industrial PoE Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：1 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：菲律宾 非主攻 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 1；用户表：「从holink买了HDMI类产品 / Cabling CCTV等 / 从中国买很多」；研究档 risks：亚太非主攻区；1 次跟进无回复；低价竞争
+- **绑定等级：未触达（A 邮箱 1 封 2025，无记录打开，0 回；收件 vismin@rspotsolutions.com；主题多为「Marvell Alleycat5 Solution」）；Elsa 1:1 去信 10 轮 2025-02-12→2026-08-06（To 仅本户 vismin@rspotsolutions.com；头 msg 19fd5714d4bdf8d1 核对无 Bcc，称呼「Hi,」= 无称呼逐月单发名单；主题 Marvell Industrial Alert System、Updated Ethernet Switches Links、Marvell Managed Commercial Switches、24 Port PoE Managed Switch…；0 回（Elsa 箱无 Re: 行））（第 74 批(m) `from:e.sagatelecom to:` 全程 complete，直收 10 条）** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：1 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：菲律宾 非主攻 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 1；用户表：「从holink买了HDMI类产品 / Cabling CCTV等 / 从中国买很多」；研究档 risks：亚太非主攻区；1 次跟进无回复；低价竞争
 - **现状一句话**：菲律宾布线/CCTV 供应商 R-Spot Solutions（用户表注：Cabling、CCTV 等，从中国买很多；vismin@rspotsolutions.com = 米沙鄢-棉兰老（VisMin）区域邮箱）。用户表（富通天下外贸数据）：「从 holink 买了 HDMI 类产品」，非 Saga 成交；E 冷名单 1 次跟进 0 回复。CCTV/布线供应商 → PoE 交换机走量。
 - **对方真实需求（有据）**：分销 20% 档：STC-228GP（2 SFP + 8 GE PoE，$30.8）；16 口 STC-2016GP（$88.0）；HDMI 延长类不在 Saga 线
 - **断点 / 为什么停在这里**：亚太非主攻区；1 次跟进无回复；低价竞争
 - **Saga 现在该推什么**：P1 **STC-228GP**（20% 档，Realtek 线按 HRUI 2026-09-30 进价 +20% 现算（Q-47 默认，不用 Drive 旧表价）：STC-228GP $30.8→$33.2；按主表（研究档 saga_fit））——分销 20% 档：STC-228GP（2 SFP + 8 GE PoE，$30.8）；16 口 STC-2016GP（$88.0）；HDMI 延长类不在 Saga 线
-- **下一步（具体）**：群发节奏　A 邮箱　首封前知悉：Elsa 2025-02-12 单发过「Industrial PoE Switch」（未见回复（Elsa 箱 Replied 标签无））；观察打开
+- **下一步（具体）**：群发节奏　A 邮箱　首封前知悉：Elsa 已 1:1 去信 10 轮（2025-02-12→2026-08-06，0 回）（第 74 批(m)）；观察打开
   - 第一问（只问一个）：Hello R-Spot team, for your CCTV and cabling customers: 2× SFP + 8× PoE switches at $33.2 EXW, 16-port PoE at $88.0, neutral packing, MOQ 1 — which port count sells best in VisMin so I can quote a first lot?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
-| 2025-03-17 | 去 | A 群发 | Marvell Alleycat5 Solution | 1 封 / 0 次打开 / 0 回｜首封 2025-03-17 → 末封 2025-03-17（1 去 / 0 来） | `gmail_digest` |
-| 2026-10-21 | 用户表 | Simon | 从holink买了HDMI类产品 / Cabling CCTV等 / 从中国买很多 | 表内备注 | `用户表` |
 | 2025-02-12 | out | Elsa → vismin@rspotsolutions.com | Industrial PoE Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
+| 2025-03-17 | 去 | A 群发 | Marvell Alleycat5 Solution | 1 封 / 0 次打开 / 0 回｜首封 2025-03-17 → 末封 2025-03-17（1 去 / 0 来） | `gmail_digest` |
+| 2025-05-01 | out | Elsa → vismin@rspotsolutions.com | 10G Media Converter（Elsa 1:1 逐月名单第 2/10 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:vismin@rspotsolutions.com` 全程 complete：10 轮直收；0 回 | `elsa_1to1` |
+| 2025-06-18 | out | Elsa → vismin@rspotsolutions.com | 16 Port Ethernet Switch（Elsa 1:1 逐月名单第 3/10 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:vismin@rspotsolutions.com` 全程 complete：10 轮直收；0 回 | `elsa_1to1` |
+| 2025-10-09 | out | Elsa → vismin@rspotsolutions.com | 10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 4/10 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:vismin@rspotsolutions.com` 全程 complete：10 轮直收；0 回 | `elsa_1to1` |
+| 2025-12-09 | out | Elsa → vismin@rspotsolutions.com | Booster PoE Switch（Elsa 1:1 逐月名单第 5/10 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:vismin@rspotsolutions.com` 全程 complete：10 轮直收；0 回 | `elsa_1to1` |
+| 2026-01-07 | out | Elsa → vismin@rspotsolutions.com | Marvell Industrial Alert System（Elsa 1:1 逐月名单第 6/10 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:vismin@rspotsolutions.com` 全程 complete：10 轮直收；0 回 | `elsa_1to1` |
+| 2026-02-18 | out | Elsa → vismin@rspotsolutions.com | Updated Ethernet Switches Links（Elsa 1:1 逐月名单第 7/10 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:vismin@rspotsolutions.com` 全程 complete：10 轮直收；0 回 | `elsa_1to1` |
+| 2026-03-24 | out | Elsa → vismin@rspotsolutions.com | Marvell Managed Commercial Switches（Elsa 1:1 逐月名单第 8/10 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:vismin@rspotsolutions.com` 全程 complete：10 轮直收；0 回 | `elsa_1to1` |
+| 2026-05-05 | out | Elsa → vismin@rspotsolutions.com | 10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 9/10 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:vismin@rspotsolutions.com` 全程 complete：10 轮直收；0 回 | `elsa_1to1` |
+| 2026-08-06 | out | Elsa → vismin@rspotsolutions.com | 24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 10/10 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:vismin@rspotsolutions.com` 全程 complete：10 轮直收；0 回 | `elsa_1to1` |
+| 2026-10-21 | 用户表 | Simon | 从holink买了HDMI类产品 / Cabling CCTV等 / 从中国买很多 | 表内备注 | `用户表` |
 
 ## 基本事实（事实/推断/假设分层）
 

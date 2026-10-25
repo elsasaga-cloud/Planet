@@ -1,136 +1,136 @@
 {
- "code": "SB-475",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "快照失败（timeout）",
- "summary": "俄罗斯 НПО Телеком / NPO Telecom（电信设备企业；表内「比较重要 Mikhail Afonin」、有回复；KP Mikhail Afonin、Rashid Abdullin（Sales and Marketing Specialist）；兴趣 Switch；官网 timeout）；群发 17 次，有回复。",
- "type": "电信设备企业（俄罗斯，有回复，用户标重要）",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "Switch",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "比较重要；有回复",
-   "quote": "比较重要 Mikhail Afonin；Switch",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Mikhail Afonin",
-   "title": "（职务待核）",
-   "email": "afonin@npotelecom.ru",
-   "phone": "",
-   "source": "用户表"
-  },
-  {
-   "name": "Rashid Abdullin",
-   "title": "Sales and Marketing Specialist",
-   "email": "sale@npotelecom.ru",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "俄罗斯",
-  "other": "官网 npotelecom.ru，语言 ?，快照状态 timeout；角色判定来源：待核"
- },
- "business_lines": [
-  "电信设备（俄罗斯）"
- ],
- "channels": {
-  "role": "电信设备企业（俄罗斯，有回复，用户标重要）",
-  "region": "俄罗斯",
-  "contact": "sale@npotelecom.ru、afonin@npotelecom.ru"
- },
- "signals": [
-  "表内：Switch；比较重要 Mikhail Afonin；Rashid Abdullin / Sales and Marketing Specialist；有回复",
-  "快照：timeout"
- ],
- "risks": [
-  "有回复——沟通内容在 Gmail 待核（续谈勿重复首触）；用户标「比较重要」；俄罗斯：结算/物流/合规风险；官网 timeout"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 30,
-  "why": "Switch 需求（有回复）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 GE + 4×10G STC-424XGGM（$138.0）、工业 8 GE + 2 SFP STI-280GE（$50.5）贴 NPO 标"
- },
- "email_hook": "Mikhail, following your reply on switches: we can supply Marvell-based 8-PoE + 2 SFP L2+, 24-GE + 4×10G and DIN-rail 8-GE + 2 SFP managed models in your packaging from small lots, CE/RoHS; EAC by your side — which configuration and quantity should I quote first?",
- "mail_review": {
-  "binding": {
-   "level": "轻度触达（2 封技术尽调：2024-06「What manufacturer is the chip?」；2026-05「What city is your factory located in? Do you produce switches based on Microchip and Centec chips?」→ Alan：China；Marvell + CENTEC）；Elsa 单发去信 1 封（2025-02-28「24 Port Fiber Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）",
-   "type": "俄罗斯电信设备企业（НПО Телеком；Mikhail Afonin = 技术/采购；用户标重要）——第一档",
-   "sieve": "2（芯片/产地尽调）",
-   "stop": "两年两问都是尽调，没有需求；「工厂在哪个城市」问的是制造商身份——Alan 答「based on China」回避了",
-   "revive": "若发：直接说明 Saga 模式（工程 + 供应链，SmartByte 制造）+ CENTEC 型号表",
-   "lane": "RU（点名）",
-   "cadence": "一封",
-   "evidence": "k=a8f5e788a70b0a31 / f954ab2b523be0e6 / 3c59867d902a0b69；第 19 批回补来信原文 1 条（gmail_s/gmail_a）"
-  },
-  "situation": "—",
-  "need": "CENTEC/Microchip 平台交换机（自有产品线对标）。",
-  "breakpoint": "身份回答。",
-  "saga_now": {
-   "p1": "STH 系列",
-   "tier": 30,
-   "price": "按 CENTEC 价表；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-19 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-17 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-24 $280（10G Enterprise SFP Switch）",
-   "why": "用户标重要 + CENTEC 对口。已打开的主题（9/26 封有打开记录）：「Power Converter」(2024-09-16)、「10G Enterprise SFP Switch」(2026-05-11)、「Re: 10G Enterprise SFP Switch」(2026-05-12)、「Re: 10G Enterprise SFP Switch」(2026-05-15) → 读者兴趣偏「工业」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-03-13)、Product Link_2026Q3(2026-07-02)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "2026-11",
-   "channel": "A 邮箱 → afonin@npotelecom.ru",
-   "action": "首封前知悉：Elsa 2025-02-28 单发过「24 Port Fiber Switch」（未见回复（Elsa 箱 Replied 标签无））；CENTEC 表 + 身份说明",
-   "one_question": "Mikhail — Zhengzhou engineering + Shenzhen partner factories; Marvell/CENTEC/Realtek, no Microchip; which platform are you evaluating, OEM label or reference design?"
-  },
-  "facts": [
-   {
-    "date": "2024-06-05",
-    "dir": "来",
-    "who": "afonin@npotelecom.ru",
-    "quote": "Hi Simon, What manufacturer is the chip inside your switch? С уважением, Михаил Афонин 8 /3412/ 57 30 31, 8 912 854 73 58 Kind regards, Mikhail Afonin",
-    "why": "来信原文（主题「RE: Industrial fiber switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
-    "k": "a8f5e788a70b0a31"
-   },
-   {
-    "date": "2026-05-12",
-    "dir": "来",
-    "who": "Mikhail Afonin",
-    "quote": "What city is your factory located in? Do you produce switches based on Microchip and Centec chips?",
-    "why": "尽调",
-    "k": "f954ab2b523be0e6"
-   },
-   {
-    "date": "2025-02-28",
-    "dir": "out",
-    "who": "Elsa → sale@npotelecom.ru",
-    "quote": "24 Port Fiber Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
-    "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
-    "k": "elsa_1to1",
-    "msg_id": "1954b23eb305640a"
-   }
+  "code": "SB-475",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "快照失败（timeout）",
+  "summary": "俄罗斯 НПО Телеком / NPO Telecom（电信设备企业；表内「比较重要 Mikhail Afonin」、有回复；KP Mikhail Afonin、Rashid Abdullin（Sales and Marketing Specialist）；兴趣 Switch；官网 timeout）；群发 17 次，有回复。",
+  "type": "电信设备企业（俄罗斯，有回复，用户标重要）",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "Switch",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "比较重要；有回复",
+      "quote": "比较重要 Mikhail Afonin；Switch",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [],
-  "draft_en": {
-   "subject": "Where we build, and which platforms",
-   "body": "Hi, Mikhail,\n\nYour May question deserved a direct answer. We are an engineering-led supply partner based in Zhengzhou; production runs at our partner factories in Shenzhen under our specification and QA. Platforms: Marvell (access switches), CENTEC (L3 core/aggregation: VXLAN/EVPN, MPLS, MLAG), Realtek (entry). We do not build on Microchip.\n\nCENTEC units priced today: 32x100G $6,000 / 6x40G+2x100G $1,200 / 48x25G+8x100G $4,800 USD EXW (2026 Q2 list, valid 15 days).\n\nOne question: which platform are you evaluating for NPO Telecom's own range, and is it an OEM (your label) or a reference-design requirement?\n\nThank you.\nAlan"
+  "kp": [
+    {
+      "name": "Mikhail Afonin",
+      "title": "（职务待核）",
+      "email": "afonin@npotelecom.ru",
+      "phone": "",
+      "source": "用户表"
+    },
+    {
+      "name": "Rashid Abdullin",
+      "title": "Sales and Marketing Specialist",
+      "email": "sale@npotelecom.ru",
+      "phone": "",
+      "source": "用户表"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
   },
-  "as_of": "2026-10-24"
- }
+  "company_facts": {
+    "hq": "俄罗斯",
+    "other": "官网 npotelecom.ru，语言 ?，快照状态 timeout；角色判定来源：待核"
+  },
+  "business_lines": [
+    "电信设备（俄罗斯）"
+  ],
+  "channels": {
+    "role": "电信设备企业（俄罗斯，有回复，用户标重要）",
+    "region": "俄罗斯",
+    "contact": "sale@npotelecom.ru、afonin@npotelecom.ru"
+  },
+  "signals": [
+    "表内：Switch；比较重要 Mikhail Afonin；Rashid Abdullin / Sales and Marketing Specialist；有回复",
+    "快照：timeout"
+  ],
+  "risks": [
+    "有回复——沟通内容在 Gmail 待核（续谈勿重复首触）；用户标「比较重要」；俄罗斯：结算/物流/合规风险；官网 timeout"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 30,
+    "why": "Switch 需求（有回复）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 GE + 4×10G STC-424XGGM（$138.0）、工业 8 GE + 2 SFP STI-280GE（$50.5）贴 NPO 标"
+  },
+  "email_hook": "Mikhail, following your reply on switches: we can supply Marvell-based 8-PoE + 2 SFP L2+, 24-GE + 4×10G and DIN-rail 8-GE + 2 SFP managed models in your packaging from small lots, CE/RoHS; EAC by your side — which configuration and quantity should I quote first?",
+  "mail_review": {
+    "binding": {
+      "level": "轻度触达（2 封技术尽调：2024-06「What manufacturer is the chip?」；2026-05「What city is your factory located in? Do you produce switches based on Microchip and Centec chips?」→ Alan：China；Marvell + CENTEC）；Elsa 1:1 去信 1 封（2025-02-28「24 Port Fiber Switch」；To 仅本户 sale@npotelecom.ru；Bcc 未逐封读头；同类名单抽读 24 封均无 Bcc；此后再未进 Elsa 任何名单——全箱 `from:e.sagatelecom to:sale@npotelecom.ru` 仅此 1 条，complete）（第 74 批(m)）",
+      "type": "俄罗斯电信设备企业（НПО Телеком；Mikhail Afonin = 技术/采购；用户标重要）——第一档",
+      "sieve": "2（芯片/产地尽调）",
+      "stop": "两年两问都是尽调，没有需求；「工厂在哪个城市」问的是制造商身份——Alan 答「based on China」回避了",
+      "revive": "若发：直接说明 Saga 模式（工程 + 供应链，SmartByte 制造）+ CENTEC 型号表",
+      "lane": "RU（点名）",
+      "cadence": "一封",
+      "evidence": "k=a8f5e788a70b0a31 / f954ab2b523be0e6 / 3c59867d902a0b69；第 19 批回补来信原文 1 条（gmail_s/gmail_a）"
+    },
+    "situation": "—",
+    "need": "CENTEC/Microchip 平台交换机（自有产品线对标）。",
+    "breakpoint": "身份回答。",
+    "saga_now": {
+      "p1": "STH 系列",
+      "tier": 30,
+      "price": "按 CENTEC 价表；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-19 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-17 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-24 $280（10G Enterprise SFP Switch）",
+      "why": "用户标重要 + CENTEC 对口。已打开的主题（9/26 封有打开记录）：「Power Converter」(2024-09-16)、「10G Enterprise SFP Switch」(2026-05-11)、「Re: 10G Enterprise SFP Switch」(2026-05-12)、「Re: 10G Enterprise SFP Switch」(2026-05-15) → 读者兴趣偏「工业」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-03-13)、Product Link_2026Q3(2026-07-02)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "2026-11",
+      "channel": "A 邮箱 → afonin@npotelecom.ru",
+      "action": "首封前知悉：Elsa 仅 2025-02-28 单发过 1 封「24 Port Fiber Switch」，之后没再碰他（第 74 批(m)）；CENTEC 表 + 身份说明",
+      "one_question": "Mikhail — Zhengzhou engineering + Shenzhen partner factories; Marvell/CENTEC/Realtek, no Microchip; which platform are you evaluating, OEM label or reference design?"
+    },
+    "facts": [
+      {
+        "date": "2024-06-05",
+        "dir": "来",
+        "who": "afonin@npotelecom.ru",
+        "quote": "Hi Simon, What manufacturer is the chip inside your switch? С уважением, Михаил Афонин 8 /3412/ 57 30 31, 8 912 854 73 58 Kind regards, Mikhail Afonin",
+        "why": "来信原文（主题「RE: Industrial fiber switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+        "k": "a8f5e788a70b0a31"
+      },
+      {
+        "date": "2025-02-28",
+        "dir": "out",
+        "who": "Elsa → sale@npotelecom.ru",
+        "quote": "24 Port Fiber Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+        "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
+        "k": "elsa_1to1",
+        "msg_id": "1954b23eb305640a"
+      },
+      {
+        "date": "2026-05-12",
+        "dir": "来",
+        "who": "Mikhail Afonin",
+        "quote": "What city is your factory located in? Do you produce switches based on Microchip and Centec chips?",
+        "why": "尽调",
+        "k": "f954ab2b523be0e6"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": {
+      "subject": "Where we build, and which platforms",
+      "body": "Hi, Mikhail,\n\nYour May question deserved a direct answer. We are an engineering-led supply partner based in Zhengzhou; production runs at our partner factories in Shenzhen under our specification and QA. Platforms: Marvell (access switches), CENTEC (L3 core/aggregation: VXLAN/EVPN, MPLS, MLAG), Realtek (entry). We do not build on Microchip.\n\nCENTEC units priced today: 32x100G $6,000 / 6x40G+2x100G $1,200 / 48x25G+8x100G $4,800 USD EXW (2026 Q2 list, valid 15 days).\n\nOne question: which platform are you evaluating for NPO Telecom's own range, and is it an OEM (your label) or a reference-design requirement?\n\nThank you.\nAlan"
+    },
+    "as_of": "2026-10-24"
+  }
 }

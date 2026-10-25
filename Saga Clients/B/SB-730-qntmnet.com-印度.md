@@ -36,25 +36,29 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 自有工业 PoE QN-IS-225-8（8 口）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）作二供；4 口位 STI-154GP（$40.8）；云管理由其自有平台处理，Saga 只供 L2 管理/非管理硬件；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-09-02 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-05-20 $300（48 Port PoE Managed Switch）、2025-09-19 $240（24 Port Fiber Switch）、2026-06-19 $16000（32 Port 400GB DC Switch）
 - **第一问（只问一个）**：Vidur, for the QN-IS industrial PoE 4- and 8-port models, we can be a second ODM source (DIN-rail, −40~75 °C, L2 managed on Marvell or unmanaged, CE/RoHS/FCC reports for BIS) from small lots — would you consider dual-sourcing the 8-port first?
 - **最大未知**：年走量与现供应商
-- **下一步**：群发节奏 A 邮箱 首封前知悉：Elsa 2025-12-10 单发过「Booster PoE Switch」（未见回复（Elsa 箱 Replied 标签无））；观察打开
+- **下一步**：群发节奏 A 邮箱 首封前知悉：Elsa 已 1:1 去信 5 轮（2025-10-15→2026-04-01，0 回）（第 74 批(m)）；观察打开
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-730` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A 邮箱 11 封 2025→2026，无记录打开，0 回；收件 abhijit@qntmnet.com, sales@qntmnet.com；主题多为「Industrial PoE Switch、16 Port Ethernet Switch」）；Elsa 单发去信 1 封（2025-12-10「Booster PoE Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）** ｜ 类型：印度云管理网络品牌商（工业线外采中国 ODM） ｜ 筛子：1（只收到群发） ｜ 停点：11 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：IN 次级（点名） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 11；用户表：「国内的工业switch」；研究档 risks：云管理生态：Saga 不做云管理，仅能供硬件，需其自有管理层适配
+- **绑定等级：未触达（A 邮箱 11 封 2025→2026，无记录打开，0 回；收件 abhijit@qntmnet.com, sales@qntmnet.com；主题多为「Industrial PoE Switch、16 Port Ethernet Switch」）；Elsa 1:1 去信 5 轮 2025-10-15→2026-04-01（To 仅本户 sales@qntmnet.com；头 msg 19d48b33f391740e 核对无 Bcc，称呼「Hi,」= 无称呼逐月单发名单；主题 Booster PoE Switch、OEM Core Switching Solution、Updated Ethernet Switches Links、Marvell Managed Commercial Switches…；0 回（Elsa 箱无 Re: 行））（第 74 批(m) `from:e.sagatelecom to:` 全程 complete，直收 5 条）** ｜ 类型：印度云管理网络品牌商（工业线外采中国 ODM） ｜ 筛子：1（只收到群发） ｜ 停点：11 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：IN 次级（点名） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 11；用户表：「国内的工业switch」；研究档 risks：云管理生态：Saga 不做云管理，仅能供硬件，需其自有管理层适配
 - **现状一句话**：印度 Quantum Networks（云管理全栈网络品牌：QN-S 系列交换机、工业 PoE 4/8 口 QN-IS-225-8；站内 Ubiquiti / Cisco / Aruba 对比；表内「国内的工业 switch」（现用中国产工业交换机）；KP Vidur Batra（VP – System Engineering，vidur.batra@）、Abhijit Potdar（Corporate VP，abhijit@））；表内无跟进记录。
 - **对方真实需求（有据）**：自有工业 PoE QN-IS-225-8（8 口）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）作二供；4 口位 STI-154GP（$40.8）；云管理由其自有平台处理，Saga 只供 L2 管理/非管理硬件
 - **断点 / 为什么停在这里**：云管理生态：Saga 不做云管理，仅能供硬件，需其自有管理层适配
 - **Saga 现在该推什么**：P1 **STI-288GPM**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-09-02 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-05-20 $300（48 Port PoE Managed Switch）、2025-09-19 $240（24 Port Fiber Switch）、2026-06-19 $16000（32 Port 400GB DC Switch））——自有工业 PoE QN-IS-225-8（8 口）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）作二供；4 口位 STI-154GP（$40.8）；云管理由其自有平台处理，Saga 只供 L2 管理/非管理硬件
-- **下一步（具体）**：群发节奏　A 邮箱　首封前知悉：Elsa 2025-12-10 单发过「Booster PoE Switch」（未见回复（Elsa 箱 Replied 标签无））；观察打开
+- **下一步（具体）**：群发节奏　A 邮箱　首封前知悉：Elsa 已 1:1 去信 5 轮（2025-10-15→2026-04-01，0 回）（第 74 批(m)）；观察打开
   - 第一问（只问一个）：Vidur, for the QN-IS industrial PoE 4- and 8-port models, we can be a second ODM source (DIN-rail, −40~75 °C, L2 managed on Marvell or unmanaged, CE/RoHS/FCC reports for BIS) from small lots — would you consider dual-sourcing the 8-port first?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2025-10-15 | out | Elsa → sales@qntmnet.com | 10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 1/5 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:sales@qntmnet.com` 全程 complete：5 轮直收；0 回 | `elsa_1to1` |
+| 2025-12-10 | out | Elsa → sales@qntmnet.com | Booster PoE Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
+| 2026-01-09 | out | Elsa → sales@qntmnet.com | OEM Core Switching Solution（Elsa 1:1 逐月名单第 3/5 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:sales@qntmnet.com` 全程 complete：5 轮直收；0 回 | `elsa_1to1` |
+| 2026-03-03 | out | Elsa → sales@qntmnet.com | Updated Ethernet Switches Links（Elsa 1:1 逐月名单第 4/5 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:sales@qntmnet.com` 全程 complete：5 轮直收；0 回 | `elsa_1to1` |
+| 2026-04-01 | out | Elsa → sales@qntmnet.com | Marvell Managed Commercial Switches（Elsa 1:1 逐月名单第 5/5 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:sales@qntmnet.com` 全程 complete：5 轮直收；0 回 | `elsa_1to1` |
 | 2026-09-02 | 去 | A 群发 | Industrial PoE Switch、16 Port Ethernet Switch | 11 封 / 0 次打开 / 0 回｜首封 2025-04-17 → 末封 2026-09-02（11 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 国内的工业switch | 表内备注 | `用户表` |
-| 2025-12-10 | out | Elsa → sales@qntmnet.com | Booster PoE Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 
 ## 基本事实（事实/推断/假设分层）
 

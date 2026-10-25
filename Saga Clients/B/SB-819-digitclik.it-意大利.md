@@ -36,25 +36,25 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-280GE — 工业 FS 位 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、工业 8 PoE + 2 SFP STI-288GPM（$78.9）、商用 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7）；换人再触锚价 STI-280GE $46 EXW（Saga 2025 Realtek 工业线对外价 $46（非管理工业线不用档位价 ㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-12-16 $240（24 Port Fiber Switch）；群发里他已看到的价（续，第 66 批全量复核）：2024-06-25 $220（48 port managed switch）、2025-10-15 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：For the industrial and commercial switches on your platform, we supply neutral-brand Marvell-based DIN-rail 8-GE + 2 SFP, 8-PoE + 2 SFP and commercial 8-PoE L2+ units from single units, CE/RoHS, EXW USD — which switch SKU do your customers order most? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 首封前知悉：Elsa 2025-02-10 单发过「90W PoE Managed Switch」（未见回复（Elsa 箱 Replied 标签无））；换收件人再发一封
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 首封前知悉：Elsa 仅 2025-02-10 单发过 1 封「90W PoE Managed Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-819` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A/S 邮箱 23 封 2024→2026，无记录打开，0 回；收件 info@digitclik.com；主题多为「Industrial PoE Switch、Marvell Alleycat5 Solution」）；Elsa 单发去信 1 封（2025-02-10「90W PoE Managed Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）** ｜ 类型：网络产品网店（意大利，站点待核） ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：停发群发；若要继续，换具名邮箱 + 只问一句 ｜ 通路：意大利（欧洲全域主攻） ｜ 节奏：一封 ｜ 证据：gmail_digest：out 23；用户表：「销售平台 工业FS 周边产品 像是国内的工商业switch」；研究档 risks：快照为建设中页（斯洛文尼亚语，与意大利实体不符——站点待核）；平台型卖家（低粘性）；15 次无回复，仅 info@
+- **绑定等级：未触达（A/S 邮箱 23 封 2024→2026，无记录打开，0 回；收件 info@digitclik.com；主题多为「Industrial PoE Switch、Marvell Alleycat5 Solution」）；Elsa 1:1 去信 1 封（2025-02-10「90W PoE Managed Switch」；To 仅本户 info@digitclik.com；Bcc 未逐封读头；同类名单抽读 24 封均无 Bcc；此后再未进 Elsa 任何名单——全箱 `from:e.sagatelecom to:info@digitclik.com` 仅此 1 条，complete）（第 74 批(m)）** ｜ 类型：网络产品网店（意大利，站点待核） ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：停发群发；若要继续，换具名邮箱 + 只问一句 ｜ 通路：意大利（欧洲全域主攻） ｜ 节奏：一封 ｜ 证据：gmail_digest：out 23；用户表：「销售平台 工业FS 周边产品 像是国内的工商业switch」；研究档 risks：快照为建设中页（斯洛文尼亚语，与意大利实体不符——站点待核）；平台型卖家（低粘性）；15 次无回复，仅 info@
 - **现状一句话**：意大利 Digitclik（digitclik.it / digitclik.com：销售平台型网店，工业 FS 与周边产品，「像是国内的工商业 switch」；表内「可以尝试多跟进一下」；快照为斯洛文尼亚语「Stran v izdelavi」建设中页（域名/站点待核））；群发 15 次无回复。
 - **对方真实需求（有据）**：工业 FS 位 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、工业 8 PoE + 2 SFP STI-288GPM（$78.9）、商用 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7）
 - **断点 / 为什么停在这里**：快照为建设中页（斯洛文尼亚语，与意大利实体不符——站点待核）；平台型卖家（低粘性）；15 次无回复，仅 info@
 - **Saga 现在该推什么**：P1 **STI-280GE**（20% 档，换人再触锚价 STI-280GE $46 EXW（Saga 2025 Realtek 工业线对外价 $46（非管理工业线不用档位价 ㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-12-16 $240（24 Port Fiber Switch）；群发里他已看到的价（续，第 66 批全量复核）：2024-06-25 $220（48 port managed switch）、2025-10-15 $280（10G Enterprise SFP Switch））——工业 FS 位 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、工业 8 PoE + 2 SFP STI-288GPM（$78.9）、商用 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7）
-- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　首封前知悉：Elsa 2025-02-10 单发过「90W PoE Managed Switch」（未见回复（Elsa 箱 Replied 标签无））；换收件人再发一封
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　首封前知悉：Elsa 仅 2025-02-10 单发过 1 封「90W PoE Managed Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封
   - 第一问（只问一个）：For the industrial and commercial switches on your platform, we supply neutral-brand Marvell-based DIN-rail 8-GE + 2 SFP, 8-PoE + 2 SFP and commercial 8-PoE L2+ units from single units, CE/RoHS, EXW USD — which switch SKU do your customers order most? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2025-02-10 | out | Elsa → info@digitclik.com | 90W PoE Managed Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 | 2026-10-08 | 去 | A/S 群发 | Industrial PoE Switch、Marvell Alleycat5 Solution | 23 封 / 0 次打开 / 0 回｜首封 2024-06-25 → 末封 2026-10-08（23 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 销售平台 工业FS 周边产品 像是国内的工商业switch | 表内备注 | `用户表` |
-| 2025-02-10 | out | Elsa → info@digitclik.com | 90W PoE Managed Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 
 ## 基本事实（事实/推断/假设分层）
 

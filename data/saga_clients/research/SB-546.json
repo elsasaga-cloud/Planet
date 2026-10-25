@@ -1,132 +1,132 @@
 {
- "code": "SB-546",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "快照失败（http_error）",
- "summary": "德国 Lütze（LÜTZE：工业电缆与自动化集团（德/英/西等多国），工业通信目录含自有品牌工业以太网交换机；表内「工业 FS 自己的牌子 质量还行，主要是工业电缆」「可以着重跟一下」「比较重要」；备注 luetze.com/es-es/catalogo/Control/Comunicación-industrial）；群发 27 次无回复。",
- "type": "德国工业电缆/自动化集团（自有标工业 FS；用户标「重要」，二供口径）",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "工业FS 自己的牌子 质量还行 主要是工业电缆；自己的牌子；https://www.luetze.com/es-es/catalogo/Control/Comunicaci%C3%B3n-industrial",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "工业 FS 自己的牌子；主要是工业电缆；重要",
-   "quote": "工业FS  自己的牌子  质量还行 主要是工业电缆 / 自己的牌子；可以着重跟一下；比较重要",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "德国",
-  "other": "官网 luetze.com，语言 ?，快照状态 http_error；角色判定来源：用户表"
- },
- "business_lines": [
-  "工业电缆 / 自动化（LÜTZE 集团）",
-  "工业通信（自有标工业交换机）"
- ],
- "channels": {
-  "role": "德国工业电缆/自动化集团（自有标工业 FS；用户标「重要」，二供口径）",
-  "region": "德国",
-  "contact": "info@luetze.de、sales.gb@lutze.co.uk"
- },
- "signals": [
-  "表内：工业 FS 自己的牌子 质量还行 主要是工业电缆；https://www.luetze.com/es-es/catalogo/Control/Comunicación-industrial；可以着重跟一下；比较重要",
-  "快照：luetze.com http_error（目录页未抓到）"
- ],
- "risks": [
-  "体量较大（LÜTZE 集团，多国分支）：供应商准入与质量体系要求高；27 次无回复，仅 info@/sales.gb@",
-  "用户标「比较重要」「着重跟」→ 优先换渠道（LinkedIn 采购/产品经理）"
- ],
- "saga_fit": {
-  "p1": "STI-288GPM",
-  "tier": 30,
-  "why": "自有 LÜTZE 标工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ 非管理 STI-280GE（$50.5）作二供；需符合其机柜导轨系列外观"
- },
- "email_hook": "For the industrial Ethernet switches in the LÜTZE industrial-communication catalogue, we can be a second ODM source (DIN-rail 8-GE/8-PoE + 2 SFP managed on Marvell L2+, or unmanaged, −40~75 °C, CE/RoHS) from small lots in your housing — is there a model in the range you would like a second-source quote for?",
- "mail_review": {
-  "binding": {
-   "level": "读而不回（A/S 邮箱 37 封 2024→2026，其中 2 封被打开，0 回；收件 dimitrios.koutrouvis@luetze.de, info@luetze.de；被打开主题「Mini Industrial PoE Switch、10G Enterprise SFP Switch」）；Elsa 1:1 去信 2025-02-19「90W PoE Managed Switch」（To info@luetze.de），0 回（Elsa 箱 in:sent 核对 msg 1951e66ab5cdd221）；Elsa 1:1 去信 2025-02-21「8 Port Industrial PoE Switch」（To sales.gb@lutze.co.uk），0 回（Elsa 箱 in:sent 核对 msg 195293bcdf3dee16）",
-   "type": "德国工业电缆/自动化集团（自有标工业 FS；用户标「重要」，二供口径）",
-   "sieve": "2（有人在读，无人回）",
-   "stop": "读而不回 = 内容未命中或没有当下需求",
-   "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
-   "lane": "DE 主攻（四主）",
-   "cadence": "一封；回了再说",
-   "evidence": "gmail_digest：out 37，Opened 标签 2（Simon 群发追踪）；用户表：「工业FS 自己的牌子 质量还行 主要是工业电缆；自己的牌子；https://www.luetze.com/es-es/catalogo/Control/Comu」；研究档 risks：体量较大（LÜTZE 集团，多国分支）：供应商准入与质量体系要求高；27 次无回复，仅 info@/sales.gb@；data/gmail_e/elsa_sent_tld_probe_2026-10-25.json（国别后缀探测，该国 Elsa 触达全集 complete:true）"
-  },
-  "situation": "德国 Lütze（LÜTZE：工业电缆与自动化集团（德/英/西等多国），工业通信目录含自有品牌工业以太网交换机；表内「工业 FS 自己的牌子 质量还行，主要是工业电缆」「可以着重跟一下」「比较重要」；备注 luetze.com/es-es/catalogo/Control/Comunicación-industrial）；群发 27 次无回复。",
-  "need": "自有 LÜTZE 标工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ 非管理 STI-280GE（$50.5）作二供；需符合其机柜导轨系列外观",
-  "breakpoint": "体量较大（LÜTZE 集团，多国分支）：供应商准入与质量体系要求高；27 次无回复，仅 info@/sales.gb@",
-  "saga_now": {
-   "p1": "STI-288GPM",
-   "tier": 30,
-   "price": "首触锚价 STI-288GPM $85.5 EXW（主表档位（PDF 上限 $88；SA-026 2025-07 实报 $72 为分销量价）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-05 $65（10G fiber media converter）、2024-11-25 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-17 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-12-18 $240（24 Port Fiber Switch）、2025-09-24 $280（10G Enterprise SFP Switch）",
-   "why": "自有 LÜTZE 标工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ 非管理 STI-280GE（$50.5）作二供；需符合其机柜导轨系列外观。已打开的主题（2/37 封有打开记录）：「24 Port Fiber Switch」(2024-12-18)、「90W PoE Managed Switch」(2025-01-09) → 读者兴趣偏「MC/光电」；与 P1 同类，继续｜已发资料（勿重发）：Saga Software Function List-release 7.(2025-04-23)、Product Link_2026Q2(2026-02-11)、Saga Feature List_7.5.x_L2+(2026-07-07)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "2026-11",
-   "channel": "A 邮箱 → dimitrios.koutrouvis@luetze.de",
-   "action": "首封前知悉：Elsa 2025-02 已 1:1 发过「90W PoE Managed Switch」给 info@luetze.de（0 回），开头按 ㉝ 带一句「we wrote once in Feb 2025 about X, no reason you'd have replied」，别当完全陌生。 短信一问（email_hook）",
-   "one_question": "For the industrial Ethernet switches in the LÜTZE industrial-communication catalogue, we can be a second ODM source (DIN-rail 8-GE/8-PoE + 2 SFP managed on Marvell L2+, or unmanaged, −40~75 °C, CE/RoHS) from small lots in your housing — is there a model in the range you would like a second-source quote for? Reference: STI-288GPM at $85.5 USD EXW (MOQ 1, 15-day validity)."
-  },
-  "facts": [
-   {
-    "date": "2025-02-19",
-    "dir": "去",
-    "who": "Elsa 1:1 去信（To info@luetze.de）",
-    "quote": "90W PoE Managed Switch — Marvell L2 managed PoE, programmable GUI, 2×PoE af/at/bt + 6×PoE af/at, 240W, PoE management（摘要无价）",
-    "why": "Elsa 箱 in:sent 按国别后缀探测（to:.de/.uk/.pl/.cz）命中：2025-02 Elsa 开箱头两周的逐户单发，无称呼；Elsa Replied 线程 0、来询未回清单 0 → 0 回；S/A digest 看不到这封",
-    "k": "elsa_1to1",
-    "msg_id": "1951e66ab5cdd221"
-   },
-   {
-    "date": "2025-02-21",
-    "dir": "去",
-    "who": "Elsa 1:1 去信（To sales.gb@lutze.co.uk）",
-    "quote": "8 Port Industrial PoE Switch — Marvell based unmanaged 8 GE PoE, 30W/port, 250 m PoE, watchdog, DIP, SFP/SC/FC/ST（摘要无价）",
-    "why": "Elsa 箱 in:sent 按国别后缀探测（to:.de/.uk/.pl/.cz）命中：2025-02 Elsa 开箱头两周的逐户单发，无称呼；Elsa Replied 线程 0、来询未回清单 0 → 0 回；S/A digest 看不到这封",
-    "k": "elsa_1to1",
-    "msg_id": "195293bcdf3dee16"
-   },
-   {
-    "date": "2026-09-23",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "Mini Industrial PoE Switch、10G Enterprise SFP Switch",
-    "why": "37 封 / 2 次打开 / 0 回｜首封 2024-07-03 → 末封 2026-09-23（37 去 / 0 来）",
-    "k": "gmail_digest"
-   },
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "工业FS 自己的牌子 质量还行 主要是工业电缆；自己的牌子；https://www.luetze.com/es-es/catalogo/Control/Comunicaci%C3%B3n-industrial",
-    "why": "表内备注",
-    "k": "用户表"
-   }
+  "code": "SB-546",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "快照失败（http_error）",
+  "summary": "德国 Lütze（LÜTZE：工业电缆与自动化集团（德/英/西等多国），工业通信目录含自有品牌工业以太网交换机；表内「工业 FS 自己的牌子 质量还行，主要是工业电缆」「可以着重跟一下」「比较重要」；备注 luetze.com/es-es/catalogo/Control/Comunicación-industrial）；群发 27 次无回复。",
+  "type": "德国工业电缆/自动化集团（自有标工业 FS；用户标「重要」，二供口径）",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "工业FS 自己的牌子 质量还行 主要是工业电缆；自己的牌子；https://www.luetze.com/es-es/catalogo/Control/Comunicaci%C3%B3n-industrial",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "工业 FS 自己的牌子；主要是工业电缆；重要",
+      "quote": "工业FS  自己的牌子  质量还行 主要是工业电缆 / 自己的牌子；可以着重跟一下；比较重要",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [],
-  "draft_en": {
-   "subject": "One question — Mini Industrial PoE Switch",
-   "body": "Hi Dimitrios,\n\nWe have sent you a few mails on \"Mini Industrial PoE Switch\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor the industrial Ethernet switches in the LÜTZE industrial-communication catalogue, we can be a second ODM source (DIN-rail 8-GE/8-PoE + 2 SFP managed on Marvell L2+, or unmanaged, −40~75 °C, CE/RoHS) from small lots in your housing — is there a model in the range you would like a second-source quote for?\n\nReference price: DIN-rail 8-PoE + 2 SFP L2 managed industrial switch, 240 W (STI-288GPM) $85.5 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+  "kp": [],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
   },
-  "as_of": "2026-10-25"
- }
+  "company_facts": {
+    "hq": "德国",
+    "other": "官网 luetze.com，语言 ?，快照状态 http_error；角色判定来源：用户表"
+  },
+  "business_lines": [
+    "工业电缆 / 自动化（LÜTZE 集团）",
+    "工业通信（自有标工业交换机）"
+  ],
+  "channels": {
+    "role": "德国工业电缆/自动化集团（自有标工业 FS；用户标「重要」，二供口径）",
+    "region": "德国",
+    "contact": "info@luetze.de、sales.gb@lutze.co.uk"
+  },
+  "signals": [
+    "表内：工业 FS 自己的牌子 质量还行 主要是工业电缆；https://www.luetze.com/es-es/catalogo/Control/Comunicación-industrial；可以着重跟一下；比较重要",
+    "快照：luetze.com http_error（目录页未抓到）"
+  ],
+  "risks": [
+    "体量较大（LÜTZE 集团，多国分支）：供应商准入与质量体系要求高；27 次无回复，仅 info@/sales.gb@",
+    "用户标「比较重要」「着重跟」→ 优先换渠道（LinkedIn 采购/产品经理）"
+  ],
+  "saga_fit": {
+    "p1": "STI-288GPM",
+    "tier": 30,
+    "why": "自有 LÜTZE 标工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ 非管理 STI-280GE（$50.5）作二供；需符合其机柜导轨系列外观"
+  },
+  "email_hook": "For the industrial Ethernet switches in the LÜTZE industrial-communication catalogue, we can be a second ODM source (DIN-rail 8-GE/8-PoE + 2 SFP managed on Marvell L2+, or unmanaged, −40~75 °C, CE/RoHS) from small lots in your housing — is there a model in the range you would like a second-source quote for?",
+  "mail_review": {
+    "binding": {
+      "level": "读而不回（A/S 邮箱 37 封 2024→2026，其中 2 封被打开，0 回；收件 dimitrios.koutrouvis@luetze.de, info@luetze.de；被打开主题「Mini Industrial PoE Switch、10G Enterprise SFP Switch」）；Elsa 1:1 去信 2 轮 2025-02-19→2025-02-21（To 仅本户 info@luetze.de / sales.gb@lutze.co.uk（按地址：info@luetze.de 1 轮 / sales.gb@lutze.co.uk 1 轮）；Bcc 未逐封读头；同类名单抽读 24 封均无 Bcc；主题 90W PoE Managed Switch、8 Port Industrial PoE Switch；0 回（Elsa 箱无 Re: 行））（第 74 批(m) `from:e.sagatelecom to:` 全程 complete，直收 2 条）",
+      "type": "德国工业电缆/自动化集团（自有标工业 FS；用户标「重要」，二供口径）",
+      "sieve": "2（有人在读，无人回）",
+      "stop": "读而不回 = 内容未命中或没有当下需求",
+      "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
+      "lane": "DE 主攻（四主）",
+      "cadence": "一封；回了再说",
+      "evidence": "gmail_digest：out 37，Opened 标签 2（Simon 群发追踪）；用户表：「工业FS 自己的牌子 质量还行 主要是工业电缆；自己的牌子；https://www.luetze.com/es-es/catalogo/Control/Comu」；研究档 risks：体量较大（LÜTZE 集团，多国分支）：供应商准入与质量体系要求高；27 次无回复，仅 info@/sales.gb@；data/gmail_e/elsa_sent_tld_probe_2026-10-25.json（国别后缀探测，该国 Elsa 触达全集 complete:true）"
+    },
+    "situation": "德国 Lütze（LÜTZE：工业电缆与自动化集团（德/英/西等多国），工业通信目录含自有品牌工业以太网交换机；表内「工业 FS 自己的牌子 质量还行，主要是工业电缆」「可以着重跟一下」「比较重要」；备注 luetze.com/es-es/catalogo/Control/Comunicación-industrial）；群发 27 次无回复。",
+    "need": "自有 LÜTZE 标工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ 非管理 STI-280GE（$50.5）作二供；需符合其机柜导轨系列外观",
+    "breakpoint": "体量较大（LÜTZE 集团，多国分支）：供应商准入与质量体系要求高；27 次无回复，仅 info@/sales.gb@",
+    "saga_now": {
+      "p1": "STI-288GPM",
+      "tier": 30,
+      "price": "首触锚价 STI-288GPM $85.5 EXW（主表档位（PDF 上限 $88；SA-026 2025-07 实报 $72 为分销量价）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-05 $65（10G fiber media converter）、2024-11-25 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-17 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-12-18 $240（24 Port Fiber Switch）、2025-09-24 $280（10G Enterprise SFP Switch）",
+      "why": "自有 LÜTZE 标工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ 非管理 STI-280GE（$50.5）作二供；需符合其机柜导轨系列外观。已打开的主题（2/37 封有打开记录）：「24 Port Fiber Switch」(2024-12-18)、「90W PoE Managed Switch」(2025-01-09) → 读者兴趣偏「MC/光电」；与 P1 同类，继续｜已发资料（勿重发）：Saga Software Function List-release 7.(2025-04-23)、Product Link_2026Q2(2026-02-11)、Saga Feature List_7.5.x_L2+(2026-07-07)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "2026-11",
+      "channel": "A 邮箱 → dimitrios.koutrouvis@luetze.de",
+      "action": "首封前知悉：Elsa 2025-02 已 1:1 发过「90W PoE Managed Switch」给 info@luetze.de（0 回），开头按 ㉝ 带一句「we wrote once in Feb 2025 about X, no reason you'd have replied」，别当完全陌生。 短信一问（email_hook）",
+      "one_question": "For the industrial Ethernet switches in the LÜTZE industrial-communication catalogue, we can be a second ODM source (DIN-rail 8-GE/8-PoE + 2 SFP managed on Marvell L2+, or unmanaged, −40~75 °C, CE/RoHS) from small lots in your housing — is there a model in the range you would like a second-source quote for? Reference: STI-288GPM at $85.5 USD EXW (MOQ 1, 15-day validity)."
+    },
+    "facts": [
+      {
+        "date": "2025-02-19",
+        "dir": "去",
+        "who": "Elsa 1:1 去信（To info@luetze.de）",
+        "quote": "90W PoE Managed Switch — Marvell L2 managed PoE, programmable GUI, 2×PoE af/at/bt + 6×PoE af/at, 240W, PoE management（摘要无价）",
+        "why": "Elsa 箱 in:sent 按国别后缀探测（to:.de/.uk/.pl/.cz）命中：2025-02 Elsa 开箱头两周的逐户单发，无称呼；Elsa Replied 线程 0、来询未回清单 0 → 0 回；S/A digest 看不到这封",
+        "k": "elsa_1to1",
+        "msg_id": "1951e66ab5cdd221"
+      },
+      {
+        "date": "2025-02-21",
+        "dir": "去",
+        "who": "Elsa 1:1 去信（To sales.gb@lutze.co.uk）",
+        "quote": "8 Port Industrial PoE Switch — Marvell based unmanaged 8 GE PoE, 30W/port, 250 m PoE, watchdog, DIP, SFP/SC/FC/ST（摘要无价）",
+        "why": "Elsa 箱 in:sent 按国别后缀探测（to:.de/.uk/.pl/.cz）命中：2025-02 Elsa 开箱头两周的逐户单发，无称呼；Elsa Replied 线程 0、来询未回清单 0 → 0 回；S/A digest 看不到这封",
+        "k": "elsa_1to1",
+        "msg_id": "195293bcdf3dee16"
+      },
+      {
+        "date": "2026-09-23",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "Mini Industrial PoE Switch、10G Enterprise SFP Switch",
+        "why": "37 封 / 2 次打开 / 0 回｜首封 2024-07-03 → 末封 2026-09-23（37 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "工业FS 自己的牌子 质量还行 主要是工业电缆；自己的牌子；https://www.luetze.com/es-es/catalogo/Control/Comunicaci%C3%B3n-industrial",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": {
+      "subject": "One question — Mini Industrial PoE Switch",
+      "body": "Hi Dimitrios,\n\nWe have sent you a few mails on \"Mini Industrial PoE Switch\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor the industrial Ethernet switches in the LÜTZE industrial-communication catalogue, we can be a second ODM source (DIN-rail 8-GE/8-PoE + 2 SFP managed on Marvell L2+, or unmanaged, −40~75 °C, CE/RoHS) from small lots in your housing — is there a model in the range you would like a second-source quote for?\n\nReference price: DIN-rail 8-PoE + 2 SFP L2 managed industrial switch, 240 W (STI-288GPM) $85.5 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+    },
+    "as_of": "2026-10-25"
+  }
 }

@@ -1,134 +1,142 @@
 {
- "code": "SB-1012",
- "name_official": "Дозор23（Dozor23，阿纳帕）",
- "researched_at": "2026-10-21",
- "website_status": "在线（dozor23.ru，快照 2026-10-21，俄语）",
- "summary": "俄罗斯克拉斯诺达尔边疆区阿纳帕的视频监控 / 安防交钥匙安装与网店（摄像机、报警、门禁、LED、线缆），表内 Сергей（采购 zakupki@），谈过一次 4/8 口商用 PoE；WhatsApp 23 次跟进无实质回复。",
- "type": "",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "阿纳帕视频监控与安防交钥匙；+7 918 337 73 66 / snk@dozor23.ru",
-   "quote": "Компания «Дозор23» специализируется на оказании профессиональных услуг в области продажи, установки систем безопасности и контроля доступа… Анапа",
-   "url": "https://dozor23.ru/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "谈过一次 4 8 口商业 POE；摄像头公司",
-   "quote": "兴趣：谈过一次4 8口商业POE;摄像头公司",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Сергей (Sergey)",
-   "title": "закупки（采购）",
-   "email": "zakupki@dozor23.ru",
-   "phone": "+7 960 472 6772",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照核对）"
- },
- "company_facts": {
-  "legal_name": "（待核，ИП/ООО «Дозор23»）",
-  "founded": "",
-  "hq": "Анапа, Краснодарский край, Россия",
-  "size": "小型安装商 + 网店",
-  "other": ""
- },
- "business_lines": [
-  "视频监控 / 报警 / 门禁安装",
-  "安防网店（摄像机、录像机、线缆、LED）"
- ],
- "channels": {
-  "role": "安装商 / 本地零售",
-  "region": "俄罗斯南部"
- },
- "signals": [
-  "4/8 口商用 PoE 需求（摄像机配套）"
- ],
- "risks": [
-  "俄罗斯收款 / 制裁；小量",
-  "23 次 WA 无回复"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 25,
-  "why": "4/8 口商用 PoE → STC-28DGGPM（8 PoE + 2 SFP）；非管理 8 口 HRUI STC-028GP（$24.2）备选。"
- },
- "email_hook": "Сергей, по 4/8-портовым PoE для камер: 8×PoE + 2×SFP управляемый — $84 EXW за 1 шт., неуправляемый 8×PoE — около $26.2; оплата через третью страну или в юанях. Какой вариант пригодится на ближайший объект?",
- "mail_review": {
-  "binding": {
-   "level": "读而不回（A/S 邮箱 10 封 2024→2026，其中 5 封被打开，0 回；收件 zakupki@dozor23.ru；被打开主题「10G Enterprise SFP Switch、Saga Q3 Product Links」）；Elsa 单发去信 1 封（2025-02-22「Industrial PoE Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）",
-   "type": "—",
-   "sieve": "2（有人在读，无人回）",
-   "stop": "读而不回 = 内容未命中或没有当下需求",
-   "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）；WhatsApp 已加 → 唤醒走 WhatsApp 一句话，不走邮件",
-   "lane": "RU 次级（Simon 2026-08 点名）",
-   "cadence": "一封；回了再说",
-   "evidence": "gmail_digest：out 10，Opened 标签 5（Simon 群发追踪）；用户表：「兴趣：谈过一次4 8口商业POE;摄像头公司」；研究档 risks：俄罗斯收款 / 制裁；小量"
-  },
-  "situation": "俄罗斯克拉斯诺达尔边疆区阿纳帕的视频监控 / 安防交钥匙安装与网店（摄像机、报警、门禁、LED、线缆），表内 Сергей（采购 zakupki@），谈过一次 4/8 口商用 PoE；WhatsApp 23 次跟进无实质回复。",
-  "need": "4/8 口商用 PoE → STC-28DGGPM（8 PoE + 2 SFP）；非管理 8 口 HRUI STC-028GP（$24.2）备选。",
-  "breakpoint": "俄罗斯收款 / 制裁；小量",
-  "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 25,
-   "price": "第 73 批 2026-10-24：无管理款按洪瑞 2026-09-30 进价 +25%（028GP $26.2 / 228GP $34.6），旧表 $24/$31 不用；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-12-15 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-08-24 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-07-14 $65（10G Media Converter）、2026-05-12 $280（10G Enterprise SFP Switch）",
-   "why": "4/8 口商用 PoE → STC-28DGGPM（8 PoE + 2 SFP）；非管理 8 口 HRUI STC-028GP（$24.2）备选。已打开的主题（5/10 封有打开记录）：「8 port poe switch」(2024-08-20)、「Industrial PoE Switch」(2024-09-15)、「Mini Industrial PoE Switch」(2024-11-19)、「L3 Managed Switch」(2025-01-29) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q3(2026-07-08)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "2026-11",
-   "channel": "A 邮箱 → zakupki@dozor23.ru",
-   "action": "首封前知悉：Elsa 2025-02-22 单发过「Industrial PoE Switch」（未见回复（Elsa 箱 Replied 标签无））；短信一问（email_hook）",
-   "one_question": "Сергей, по 4/8-портовым PoE для камер: 8×PoE + 2×SFP управляемый — $84 EXW за 1 шт., неуправляемый 8×PoE — около $26.2; оплата через третью страну или в юанях. Какой вариант пригодится на ближайший объект?"
-  },
-  "facts": [
-   {
-    "date": "2026-08-24",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "10G Enterprise SFP Switch、Saga Q3 Product Links",
-    "why": "10 封 / 5 次打开 / 0 回｜首封 2024-07-14 → 末封 2026-08-24（10 去 / 0 来）",
-    "k": "gmail_digest"
-   },
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "兴趣：谈过一次4 8口商业POE;摄像头公司",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2025-02-22",
-    "dir": "out",
-    "who": "Elsa → zakupki@dozor23.ru",
-    "quote": "Industrial PoE Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
-    "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
-    "k": "elsa_1to1",
-    "msg_id": "1952d875b7672370"
-   }
+  "code": "SB-1012",
+  "name_official": "Дозор23（Dozor23，阿纳帕）",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（dozor23.ru，快照 2026-10-21，俄语）",
+  "summary": "俄罗斯克拉斯诺达尔边疆区阿纳帕的视频监控 / 安防交钥匙安装与网店（摄像机、报警、门禁、LED、线缆），表内 Сергей（采购 zakupki@），谈过一次 4/8 口商用 PoE；WhatsApp 23 次跟进无实质回复。",
+  "type": "",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "阿纳帕视频监控与安防交钥匙；+7 918 337 73 66 / snk@dozor23.ru",
+      "quote": "Компания «Дозор23» специализируется на оказании профессиональных услуг в области продажи, установки систем безопасности и контроля доступа… Анапа",
+      "url": "https://dozor23.ru/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "谈过一次 4 8 口商业 POE；摄像头公司",
+      "quote": "兴趣：谈过一次4 8口商业POE;摄像头公司",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [
-   "用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「读而不回」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+  "kp": [
+    {
+      "name": "Сергей (Sergey)",
+      "title": "закупки（采购）",
+      "email": "zakupki@dozor23.ru",
+      "phone": "+7 960 472 6772",
+      "source": "（本地 Clients/ 表格，无公开 URL）"
+    }
   ],
-  "draft_en": {
-   "subject": "One question — 10G Enterprise SFP Switch",
-   "body": "Hello,\n\nWe have sent you a few mails on \"10G Enterprise SFP Switch\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nСергей, по 4/8-портовым PoE для камер: 8×PoE + 2×SFP управляемый — $84 EXW за 1 шт., неуправляемый 8×PoE — около $26.2; оплата через третью страну или в юанях. Какой вариант пригодится на ближайший объект?\n\nPrices are USD EXW, 2026-10-17 snapshot, valid 15 days.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（官网快照核对）"
   },
-  "as_of": "2026-10-24"
- }
+  "company_facts": {
+    "legal_name": "（待核，ИП/ООО «Дозор23»）",
+    "founded": "",
+    "hq": "Анапа, Краснодарский край, Россия",
+    "size": "小型安装商 + 网店",
+    "other": ""
+  },
+  "business_lines": [
+    "视频监控 / 报警 / 门禁安装",
+    "安防网店（摄像机、录像机、线缆、LED）"
+  ],
+  "channels": {
+    "role": "安装商 / 本地零售",
+    "region": "俄罗斯南部"
+  },
+  "signals": [
+    "4/8 口商用 PoE 需求（摄像机配套）"
+  ],
+  "risks": [
+    "俄罗斯收款 / 制裁；小量",
+    "23 次 WA 无回复"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 25,
+    "why": "4/8 口商用 PoE → STC-28DGGPM（8 PoE + 2 SFP）；非管理 8 口 HRUI STC-028GP（$24.2）备选。"
+  },
+  "email_hook": "Сергей, по 4/8-портовым PoE для камер: 8×PoE + 2×SFP управляемый — $84 EXW за 1 шт., неуправляемый 8×PoE — около $26.2; оплата через третью страну или в юанях. Какой вариант пригодится на ближайший объект?",
+  "mail_review": {
+    "binding": {
+      "level": "读而不回（A/S 邮箱 10 封 2024→2026，其中 5 封被打开，0 回；收件 zakupki@dozor23.ru；被打开主题「10G Enterprise SFP Switch、Saga Q3 Product Links」）；Elsa 群发 To 直收 6 轮 2025-02-22→2025-07-14（本户是「俄罗斯-5（锚 dozor23.ru 采购；2025-02-22 起月轮，6 轮，2025-07-14 止）」批次的锚：每轮 To 本户、其余客户 Bcc；最近 2025-07-14「16 Port Ethernet Switch」），0 回（第 74 批核对 msg 198092904a7b6f12）",
+      "type": "—",
+      "sieve": "2（有人在读，无人回）",
+      "stop": "读而不回 = 内容未命中或没有当下需求",
+      "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）；WhatsApp 已加 → 唤醒走 WhatsApp 一句话，不走邮件",
+      "lane": "RU 次级（Simon 2026-08 点名）",
+      "cadence": "一封；回了再说",
+      "evidence": "gmail_digest：out 10，Opened 标签 5（Simon 群发追踪）；用户表：「兴趣：谈过一次4 8口商业POE;摄像头公司」；研究档 risks：俄罗斯收款 / 制裁；小量；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To zakupki@dozor23.ru）本户见于 2025-07-14 名单；该批次最早 2025-02-22 起共 6 轮，更早轮次 Bcc 未读"
+    },
+    "situation": "俄罗斯克拉斯诺达尔边疆区阿纳帕的视频监控 / 安防交钥匙安装与网店（摄像机、报警、门禁、LED、线缆），表内 Сергей（采购 zakupki@），谈过一次 4/8 口商用 PoE；WhatsApp 23 次跟进无实质回复。",
+    "need": "4/8 口商用 PoE → STC-28DGGPM（8 PoE + 2 SFP）；非管理 8 口 HRUI STC-028GP（$24.2）备选。",
+    "breakpoint": "俄罗斯收款 / 制裁；小量",
+    "saga_now": {
+      "p1": "STC-28DGGPM",
+      "tier": 25,
+      "price": "第 73 批 2026-10-24：无管理款按洪瑞 2026-09-30 进价 +25%（028GP $26.2 / 228GP $34.6），旧表 $24/$31 不用；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-12-15 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-08-24 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-07-14 $65（10G Media Converter）、2026-05-12 $280（10G Enterprise SFP Switch）",
+      "why": "4/8 口商用 PoE → STC-28DGGPM（8 PoE + 2 SFP）；非管理 8 口 HRUI STC-028GP（$24.2）备选。已打开的主题（5/10 封有打开记录）：「8 port poe switch」(2024-08-20)、「Industrial PoE Switch」(2024-09-15)、「Mini Industrial PoE Switch」(2024-11-19)、「L3 Managed Switch」(2025-01-29) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q3(2026-07-08)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "2026-11",
+      "channel": "A 邮箱 → zakupki@dozor23.ru",
+      "action": "首封前知悉：本户是 Elsa 群发批次的锚（每轮 To 本户），已收 6 轮（2025-02-22→2025-07-14，0 回）（第 74 批(m)）；短信一问（email_hook）",
+      "one_question": "Сергей, по 4/8-портовым PoE для камер: 8×PoE + 2×SFP управляемый — $84 EXW за 1 шт., неуправляемый 8×PoE — около $26.2; оплата через третью страну или в юанях. Какой вариант пригодится на ближайший объект?"
+    },
+    "facts": [
+      {
+        "date": "2025-02-22",
+        "dir": "out",
+        "who": "Elsa → zakupki@dozor23.ru",
+        "quote": "Industrial PoE Switch（本户为该批次的锚：每轮 To 本户、其余客户 Bcc）",
+        "why": "本户是 Elsa 群发批次的 To（锚），不是 1:1 名单；全程见 bcc_batches_2026.json anchors（第 74 批(m) 更正）",
+        "k": "elsa_bcc",
+        "msg_id": "1952d875b7672370"
+      },
+      {
+        "date": "2025-07-14",
+        "dir": "去",
+        "who": "Elsa 群发（To 直收：本户是「俄罗斯-5（锚 dozor23.ru 采购；2025-02-22 起月轮，6 轮，2025-07-14 止）」批次的锚，其余客户在 Bcc）",
+        "quote": "16 Port Ethernet Switch — （头部未取正文；见 Elsa 箱）",
+        "why": "Elsa 箱群发直达证据（To zakupki@dozor23.ru）；该批次 6 轮 2025-02-22→2025-07-14 每轮都以本户为 To；S/A digest 看不到 Elsa 的发信",
+        "k": "elsa_bcc"
+      },
+      {
+        "date": "2026-08-24",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "10G Enterprise SFP Switch、Saga Q3 Product Links",
+        "why": "10 封 / 5 次打开 / 0 回｜首封 2024-07-14 → 末封 2026-08-24（10 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "兴趣：谈过一次4 8口商业POE;摄像头公司",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [
+      "用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「读而不回」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+    ],
+    "draft_en": {
+      "subject": "One question — 10G Enterprise SFP Switch",
+      "body": "Hello,\n\nWe have sent you a few mails on \"10G Enterprise SFP Switch\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nСергей, по 4/8-портовым PoE для камер: 8×PoE + 2×SFP управляемый — $84 EXW за 1 шт., неуправляемый 8×PoE — около $26.2; оплата через третью страну или в юанях. Какой вариант пригодится на ближайший объект?\n\nPrices are USD EXW, 2026-10-17 snapshot, valid 15 days.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+    },
+    "as_of": "2026-10-25"
+  }
 }

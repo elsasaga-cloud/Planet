@@ -42,7 +42,7 @@ updated: 2026-10-25
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-541` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-25。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A 邮箱 16 封 2025→2026，无记录打开，0 回；收件 info@ipcomm.de；主题多为「10G Enterprise SFP Switch、Marvell Software Function List」）；Elsa 1:1 去信 2025-02-24「Industrial PoE Switch」（To info@ipcomm.de），0 回（Elsa 箱 in:sent 核对 msg 195374abdb7e87c7）** ｜ 类型：能源自动化通信方案商（德国，仅民用口径） ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：DE 主攻（四主） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 16；用户表：「商业POE 工业FS等 比较专业」；研究档 risks：守界备注：电力/变电站场景——只供民用通用工业交换机；IEC 61850-3 / IEEE 1613 认证 Saga 无；data/gmail_e/elsa_sent_tld_probe_2026-10-25.json（国别后缀探测，该国 Elsa 触达全集 complete:true）
+- **绑定等级：未触达（A 邮箱 16 封 2025→2026，无记录打开，0 回；收件 info@ipcomm.de；主题多为「10G Enterprise SFP Switch、Marvell Software Function List」）；Elsa 1:1 去信 1 封（2025-02-24「Industrial PoE Switch」；To 仅本户 info@ipcomm.de；Bcc 未逐封读头；同类名单抽读 24 封均无 Bcc；此后再未进 Elsa 任何名单——全箱 `from:e.sagatelecom to:info@ipcomm.de` 仅此 1 条，complete）（第 74 批(m)）** ｜ 类型：能源自动化通信方案商（德国，仅民用口径） ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：DE 主攻（四主） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 16；用户表：「商业POE 工业FS等 比较专业」；研究档 risks：守界备注：电力/变电站场景——只供民用通用工业交换机；IEC 61850-3 / IEEE 1613 认证 Saga 无；data/gmail_e/elsa_sent_tld_probe_2026-10-25.json（国别后缀探测，该国 Elsa 触达全集 complete:true）
 - **现状一句话**：德国 IPCOMM（变电站/能源自动化通信：IEC 61850 / IEC 60870-5-101 协议网关与 SCADA 通信产品，工作坊；表内「商业 PoE 工业 FS 等 比较专业」「可以着重跟一下」）；群发 8 次无回复。
 - **对方真实需求（有据）**：变电站/SCADA 机柜配套工业交换机 → 工业 8 GE + 2 SFP 管理（非 PoE）位 STI-280GE（$48.6 @25%）/ PoE 管理 STI-288GPM（$82.2）；IEC 61850-3 认证 Saga 无（注明）
 - **断点 / 为什么停在这里**：守界备注：电力/变电站场景——只供民用通用工业交换机；IEC 61850-3 / IEEE 1613 认证 Saga 无

@@ -1,145 +1,145 @@
 {
- "code": "SB-183",
- "name_official": "Kyma Srl",
- "researched_at": "2026-10-21",
- "website_status": "在线（kyma.it；并档 Planet 渠道档案 PA-006）",
- "summary": "雷焦艾米利亚的三人家族进口商，30 年卖 PLANET、近年加卖中国 3onedata，业主自己回邮件。类型：分销商/进口商（PLANET + 3onedata 工业网络，家族企业 3 人）。信号：官网自述 1994 年起进口分销 PLANET；同时代理中国品牌 3onedata（已直接从中国进口工业交换机）。Planet 渠道档案 PA-006 评级 A（需求面：PLANET 进口分销 30 年 + 已进口中国品牌；触达：info@kyma.it 直达业主（3 人公司，业主具名）；体量 €3.52M 营收（2024）可赢；区域意大利（一线））。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-183，意大利，Saga 群发已推送 12 次无回复）与 Planet 渠道挖掘名单，首触邮件此前未发送。",
- "type": "",
- "size": "",
- "brands_seen": [
-  "PLANET",
-  "3onedata"
- ],
- "evidence": [
-  {
-   "kind": "公司自述",
-   "claim": "1994 年起进口分销 PLANET 与 3onedata",
-   "quote": "importatore e distributore … PLANET … 3onedata（检索摘要，原文待 fetch 核对）",
-   "url": "https://www.kyma.it/",
-   "date": "2026-10-19"
-  },
-  {
-   "kind": "第三方",
-   "claim": "员工 3 人，2024 营收 €3.52M，家族经营（Zisios）",
-   "quote": "ufficiocamerale 摘要：3 dipendenti；fatturato 2024 €3,52M（检索摘要）",
-   "url": "https://www.ufficiocamerale.it/",
-   "date": "2026-10-19"
-  },
-  {
-   "kind": "公司自述",
-   "claim": "联系方式",
-   "quote": "info@kyma.it · +39 0522 232208 · Via Masaccio 6 / Via Zacchetti 31, 42124 Reggio Emilia",
-   "url": "https://www.kyma.it/contatti-2/",
-   "date": "2026-10-19"
-  }
- ],
- "kp": [
-  {
-   "name": "Davide Zisios",
-   "title": "Titolare（业主，家族企业）；具名（官网/工商摘要）；邮箱为公司通用 info@（3 人公司）",
-   "email": "info@kyma.it",
-   "phone": "+39 0522 232208",
-   "source": "https://www.kyma.it/contatti-2/"
-  }
- ],
- "grade_override": "A",
- "override_reason": "Planet 渠道档案 PA-006 评 A（真实需求 + 具名联系人 + 体量可赢，规则 INH）；Saga 表内未互动故自动评 B，按调研提升",
- "notes": "（无首轮调研；由 deepen.py 建档）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（并档 Planet 渠道档案 PA-006，W 批次调研 2026-10-19/20）"
- },
- "company_facts": {
-  "legal_name": "Kyma Srl",
-  "founded": "",
-  "hq": "Reggio Emilia, 意大利",
+  "code": "SB-183",
+  "name_official": "Kyma Srl",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（kyma.it；并档 Planet 渠道档案 PA-006）",
+  "summary": "雷焦艾米利亚的三人家族进口商，30 年卖 PLANET、近年加卖中国 3onedata，业主自己回邮件。类型：分销商/进口商（PLANET + 3onedata 工业网络，家族企业 3 人）。信号：官网自述 1994 年起进口分销 PLANET；同时代理中国品牌 3onedata（已直接从中国进口工业交换机）。Planet 渠道档案 PA-006 评级 A（需求面：PLANET 进口分销 30 年 + 已进口中国品牌；触达：info@kyma.it 直达业主（3 人公司，业主具名）；体量 €3.52M 营收（2024）可赢；区域意大利（一线））。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-183，意大利，Saga 群发已推送 12 次无回复）与 Planet 渠道挖掘名单，首触邮件此前未发送。",
+  "type": "",
   "size": "",
-  "other": "Planet 渠道档案 PA-006（2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json）；自有品牌：否；最大未知：3onedata 是否独家/排他；年进口台数"
- },
- "business_lines": [
-  "分销商/进口商（PLANET + 3onedata 工业网络，家族企业 3 人）"
- ],
- "products_seen": [
-  {
-   "brand": "PLANET",
-   "model": "IGS-4215-8P2T2S",
-   "spec": "工业 8 口 PoE + 2 SFP",
-   "saga": "STI-288DGGPM",
-   "url": "https://kyma.it",
-   "date": "2026-10-19"
+  "brands_seen": [
+    "PLANET",
+    "3onedata"
+  ],
+  "evidence": [
+    {
+      "kind": "公司自述",
+      "claim": "1994 年起进口分销 PLANET 与 3onedata",
+      "quote": "importatore e distributore … PLANET … 3onedata（检索摘要，原文待 fetch 核对）",
+      "url": "https://www.kyma.it/",
+      "date": "2026-10-19"
+    },
+    {
+      "kind": "第三方",
+      "claim": "员工 3 人，2024 营收 €3.52M，家族经营（Zisios）",
+      "quote": "ufficiocamerale 摘要：3 dipendenti；fatturato 2024 €3,52M（检索摘要）",
+      "url": "https://www.ufficiocamerale.it/",
+      "date": "2026-10-19"
+    },
+    {
+      "kind": "公司自述",
+      "claim": "联系方式",
+      "quote": "info@kyma.it · +39 0522 232208 · Via Masaccio 6 / Via Zacchetti 31, 42124 Reggio Emilia",
+      "url": "https://www.kyma.it/contatti-2/",
+      "date": "2026-10-19"
+    }
+  ],
+  "kp": [
+    {
+      "name": "Davide Zisios",
+      "title": "Titolare（业主，家族企业）；具名（官网/工商摘要）；邮箱为公司通用 info@（3 人公司）",
+      "email": "info@kyma.it",
+      "phone": "+39 0522 232208",
+      "source": "https://www.kyma.it/contatti-2/"
+    }
+  ],
+  "grade_override": "A",
+  "override_reason": "Planet 渠道档案 PA-006 评 A（真实需求 + 具名联系人 + 体量可赢，规则 INH）；Saga 表内未互动故自动评 B，按调研提升",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（并档 Planet 渠道档案 PA-006，W 批次调研 2026-10-19/20）"
   },
-  {
-   "brand": "PLANET",
-   "model": "GS-4210-24P4C",
-   "spec": "24 口 PoE 商用",
-   "saga": "STC-424DGGPM-280W",
-   "url": "https://kyma.it",
-   "date": "2026-10-19"
+  "company_facts": {
+    "legal_name": "Kyma Srl",
+    "founded": "",
+    "hq": "Reggio Emilia, 意大利",
+    "size": "",
+    "other": "Planet 渠道档案 PA-006（2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json）；自有品牌：否；最大未知：3onedata 是否独家/排他；年进口台数"
+  },
+  "business_lines": [
+    "分销商/进口商（PLANET + 3onedata 工业网络，家族企业 3 人）"
+  ],
+  "products_seen": [
+    {
+      "brand": "PLANET",
+      "model": "IGS-4215-8P2T2S",
+      "spec": "工业 8 口 PoE + 2 SFP",
+      "saga": "STI-288DGGPM",
+      "url": "https://kyma.it",
+      "date": "2026-10-19"
+    },
+    {
+      "brand": "PLANET",
+      "model": "GS-4210-24P4C",
+      "spec": "24 口 PoE 商用",
+      "saga": "STC-424DGGPM-280W",
+      "url": "https://kyma.it",
+      "date": "2026-10-19"
+    }
+  ],
+  "channels": {
+    "role": "分销商/进口商（PLANET + 3onedata 工业网络，家族企业 3 人）",
+    "region": "意大利"
+  },
+  "signals": [
+    "已习惯从中国直接进口（3onedata）；3 人公司 info@ 直达业主 Davide/Mara Zisios；PLANET 在其线上是高价档",
+    "第二货源对位：与 3onedata 同价位带但 Marvell 芯片 + ERPS<20ms；直采流程他们已熟",
+    "样机到 Reggio Emilia：30 天并行测试，不要求承诺；兼容其在用 SFP"
+  ],
+  "risks": [
+    "3onedata 是否独家/排他；年进口台数",
+    "Planet 首触邮件未发送（Elsa 账号待定）",
+    "Saga 群发已推送 12 次无回复 → 改用具名收件人与新钩子（勿再用群发模板）"
+  ],
+  "saga_fit": {
+    "p1": "STI-288DGGPM",
+    "tier": 20,
+    "why": "其 3onedata/PLANET 双线均以工业 DIN 交换机为主，8×GE PoE + 2 SFP 是入门走量款；分销走量 → 20%（沿用 Planet 档案 PA-006）；需求：工业 DIN PoE、ERPS、宽温；商用 24 口 PoE"
+  },
+  "email_hook": "Kyma has imported PLANET since 1994 and now also carries 3onedata, so direct sourcing from Asia is already part of how you run the business. Which industrial PoE configuration do your customers ask for most: 8-port PoE+ with 2 SFP, or the 4 SFP version?",
+  "mail_review": {
+    "binding": {
+      "level": "未绑定（邮件 20 封 0 回、Opened 0）；Elsa 1:1 去信 1 封（2025-02-17「16 Port Ethernet Switch」；To 仅本户 info@kyma.it；Bcc 未逐封读头；同类名单抽读 24 封均无 Bcc；此后再未进 Elsa 任何名单——全箱 `from:e.sagatelecom to:info@kyma.it` 仅此 1 条，complete）（第 74 批(m)）",
+      "type": "意大利 Kyma Srl",
+      "sieve": "0（邮件层无人工回复）",
+      "stop": "—",
+      "revive": "—",
+      "lane": "IT/EU",
+      "cadence": "不主动",
+      "evidence": "邮件：去信 20 封（2024-06-27 → 2026-09-16），来信 0；Opened 标签 0 次；收件人 info@kyma.it, mara@kyma.it"
+    },
+    "situation": "20 封 0 打开。",
+    "need": "8 PoE+ + 2 SFP 或 4 SFP 版工业 PoE（二选一先问）",
+    "breakpoint": "—",
+    "saga_now": {
+      "p1": "STI-288GPM（8 PoE+ + 2 SFP）",
+      "tier": 20,
+      "price": "锚价：STI-288GPM $78.9（20% 档）（第 72 批 2026-10-24）；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-20 $65（10G media converter）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-15 $280（10G Enterprise SFP Switch）",
+      "why": "自 1994 进口 PLANET、现兼营 3onedata → 直采流程已熟；与 3onedata 同价位带但 Marvell + ERPS",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）",
+      "channel": "A 邮箱 → info@kyma.it（Davide Zisios）",
+      "action": "首封前知悉：Elsa 仅 2025-02-17 单发过 1 封「16 Port Ethernet Switch」，之后没再碰他（第 74 批(m)）；一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频",
+      "one_question": "Kyma has imported PLANET since 1994 and now also carries 3onedata, so direct sourcing from Asia is already part of how you run the business. Which industrial PoE configuration do your customers ask for most: 8-port PoE+ with 2 SFP, or the 4 SFP version? Reference: STI-288GPM at $78.9 USD EXW (MOQ 1, 15-day validity)."
+    },
+    "facts": [
+      {
+        "date": "2025-02-17",
+        "dir": "out",
+        "who": "Elsa → info@kyma.it",
+        "quote": "16 Port Ethernet Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+        "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
+        "k": "elsa_1to1",
+        "msg_id": "19512ebd4c3c6228"
+      }
+    ],
+    "proof_gaps": [
+      "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-24"
   }
- ],
- "channels": {
-  "role": "分销商/进口商（PLANET + 3onedata 工业网络，家族企业 3 人）",
-  "region": "意大利"
- },
- "signals": [
-  "已习惯从中国直接进口（3onedata）；3 人公司 info@ 直达业主 Davide/Mara Zisios；PLANET 在其线上是高价档",
-  "第二货源对位：与 3onedata 同价位带但 Marvell 芯片 + ERPS<20ms；直采流程他们已熟",
-  "样机到 Reggio Emilia：30 天并行测试，不要求承诺；兼容其在用 SFP"
- ],
- "risks": [
-  "3onedata 是否独家/排他；年进口台数",
-  "Planet 首触邮件未发送（Elsa 账号待定）",
-  "Saga 群发已推送 12 次无回复 → 改用具名收件人与新钩子（勿再用群发模板）"
- ],
- "saga_fit": {
-  "p1": "STI-288DGGPM",
-  "tier": 20,
-  "why": "其 3onedata/PLANET 双线均以工业 DIN 交换机为主，8×GE PoE + 2 SFP 是入门走量款；分销走量 → 20%（沿用 Planet 档案 PA-006）；需求：工业 DIN PoE、ERPS、宽温；商用 24 口 PoE"
- },
- "email_hook": "Kyma has imported PLANET since 1994 and now also carries 3onedata, so direct sourcing from Asia is already part of how you run the business. Which industrial PoE configuration do your customers ask for most: 8-port PoE+ with 2 SFP, or the 4 SFP version?",
- "mail_review": {
-  "binding": {
-   "level": "未绑定（邮件 20 封 0 回、Opened 0）；Elsa 单发去信 1 封（2025-02-17「16 Port Ethernet Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）",
-   "type": "意大利 Kyma Srl",
-   "sieve": "0（邮件层无人工回复）",
-   "stop": "—",
-   "revive": "—",
-   "lane": "IT/EU",
-   "cadence": "不主动",
-   "evidence": "邮件：去信 20 封（2024-06-27 → 2026-09-16），来信 0；Opened 标签 0 次；收件人 info@kyma.it, mara@kyma.it"
-  },
-  "situation": "20 封 0 打开。",
-  "need": "8 PoE+ + 2 SFP 或 4 SFP 版工业 PoE（二选一先问）",
-  "breakpoint": "—",
-  "saga_now": {
-   "p1": "STI-288GPM（8 PoE+ + 2 SFP）",
-   "tier": 20,
-   "price": "锚价：STI-288GPM $78.9（20% 档）（第 72 批 2026-10-24）；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-20 $65（10G media converter）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-15 $280（10G Enterprise SFP Switch）",
-   "why": "自 1994 进口 PLANET、现兼营 3onedata → 直采流程已熟；与 3onedata 同价位带但 Marvell + ERPS",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）",
-   "channel": "A 邮箱 → info@kyma.it（Davide Zisios）",
-   "action": "首封前知悉：Elsa 2025-02-17 单发过「16 Port Ethernet Switch」（未见回复（Elsa 箱 Replied 标签无））；一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频",
-   "one_question": "Kyma has imported PLANET since 1994 and now also carries 3onedata, so direct sourcing from Asia is already part of how you run the business. Which industrial PoE configuration do your customers ask for most: 8-port PoE+ with 2 SFP, or the 4 SFP version? Reference: STI-288GPM at $78.9 USD EXW (MOQ 1, 15-day validity)."
-  },
-  "facts": [
-   {
-    "date": "2025-02-17",
-    "dir": "out",
-    "who": "Elsa → info@kyma.it",
-    "quote": "16 Port Ethernet Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
-    "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
-    "k": "elsa_1to1",
-    "msg_id": "19512ebd4c3c6228"
-   }
-  ],
-  "proof_gaps": [
-   "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文"
-  ],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
 }

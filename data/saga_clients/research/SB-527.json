@@ -1,153 +1,153 @@
 {
- "code": "SB-527",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（commfront.com，快照 2026-10-21）",
- "summary": "美国 CommFront（工业以太网交换机 / USB-RS232-RS485-RS422 串口 / 光纤转换器 / 隔离器 / Modbus 网关自有品牌网店，「industrial ruggedness proven since 2005」、RoHS；表内「工业 FS（小壳）、工业 MC、串口；标价高」）；群发 10 次无回复。",
- "type": "工业通信配件自有品牌网店（美国，高标价）",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：Industrial Ethernet Switch USB RS232 RS485 RS422 Fiber Optic Converter – CommFront；品类词 工业自动化 / OT 网络 / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
-   "quote": "Industrial Ethernet Switches, Industrial USB RS232 RS485 RS422 TTL Serial Fast and Gigabit Ethernet Fiber Optic Converters / Isolators / Extenders / Hubs, Mobus RTU to TCP, Serial to Ethernet Converters, SGS/TUV/ISO-9001 Certified, 5-Yr War",
-   "url": "https://www.commfront.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "工业FS（小壳） 工业MC 串口 标价高",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "工业以太网交换机与串口/光纤转换器",
-   "quote": "Industrial Ethernet Switches, Industrial USB RS232 RS485 RS422 TTL Serial Fast and Gigabit Ethernet Fiber Optic Converters / Isolators / Extenders / Hubs, Mobus RTU to TCP",
-   "url": "https://www.commfront.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "工业 FS 小壳 / 工业 MC / 串口，标价高",
-   "quote": "工业FS（小壳） 工业MC 串口；标价高",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "美国",
-  "other": "官网 commfront.com，语言 ?，快照状态 ok；角色判定来源：官网文案"
- },
- "business_lines": [
-  "工业串口转换 / 隔离器 / Modbus 网关（自有品牌）",
-  "工业以太网交换机 / 光纤转换器"
- ],
- "channels": {
-  "role": "工业通信配件自有品牌网店（美国，高标价）",
-  "region": "美国",
-  "contact": "sales@commfront.com"
- },
- "signals": [
-  "官网：Industrial Ethernet Switches, Industrial USB RS232 RS485 RS422 TTL Serial Fast and Gigabit Ethernet Fiber Optic Converters / Isolators / Extenders",
-  "博客 /blogs/keys/69888835-industrial-ruggedness-proven-since-2005、/lead-free-rohs-compliant-products",
-  "站内 kw：fiber 182 / ethernet 201 / industrial 119"
- ],
- "risks": [
-  "串口/隔离器为主业：交换机为配套线",
-  "现货源未知（表内「标价高」= 疑为深圳贴牌加价）；10 次无回复，无具名 KP"
- ],
- "saga_fit": {
-  "p1": "STI-050GE",
-  "tier": 30,
-  "why": "自有标小壳工业交换机 → 工业 5 GE 非管理 STI-050GE（$18.5 @30%）、8 GE STI-080GE（$34.0）；工业 MC 位 STI-110GE（$24.3）；高标价 = 贴标毛利空间大"
- },
- "email_hook": "For the compact industrial Ethernet switches and gigabit fiber converters in your range, we build Marvell-based 5/8-port DIN-rail units and SFP media converters under your label from small lots (−40~75 °C, CE/RoHS/FCC) — which of the two would you want a sample quote on first?",
- "products_seen": [
-  {
-   "brand": "CommFront（自有）",
-   "model": "工业以太网交换机（小壳）",
-   "spec": "5/8 口工业非管理（推断）",
-   "saga": "STI-050GE / STI-080GE",
-   "url": "https://www.commfront.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "brand": "CommFront（自有）",
-   "model": "千兆光纤转换器",
-   "spec": "工业 MC",
-   "saga": "STI-110GE",
-   "url": "https://www.commfront.com/",
-   "date": "2026-10-21"
-  }
- ],
- "mail_review": {
-  "binding": {
-   "level": "未触达（A/S 邮箱 22 封 2025→2026，无记录打开，0 回；收件 sales@commfront.com；主题多为「Managed Optical Bypass Switch、10G Enterprise SFP Switch」）；Elsa 单发去信 1 封（2025-02-23「Industrial PoE Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）",
-   "type": "工业通信配件自有品牌网店（美国，高标价）",
-   "sieve": "1（只收到群发）",
-   "stop": "只打通用邮箱，无记录打开",
-   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
-   "lane": "US 主攻（四主）",
-   "cadence": "一封",
-   "evidence": "gmail_digest：out 22；用户表：「工业FS（小壳） 工业MC 串口 标价高」；研究档 risks：串口/隔离器为主业：交换机为配套线"
-  },
-  "situation": "美国 CommFront（工业以太网交换机 / USB-RS232-RS485-RS422 串口 / 光纤转换器 / 隔离器 / Modbus 网关自有品牌网店，「industrial ruggedness proven since 2005」、RoHS；表内「工业 FS（小壳）、工业 MC、串口；标价高」）；群发 10 次无回复。",
-  "need": "自有标小壳工业交换机 → 工业 5 GE 非管理 STI-050GE（$18.5 @30%）、8 GE STI-080GE（$34.0）；工业 MC 位 STI-110GE（$24.3）；高标价 = 贴标毛利空间大",
-  "breakpoint": "串口/隔离器为主业：交换机为配套线",
-  "saga_now": {
-   "p1": "STI-050GE",
-   "tier": 30,
-   "price": "换人再触锚价 STI-050GE $25 EXW（最近实报 $25（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-07-11 $300（48 Port PoE Managed Switch）、2025-09-30 $280（10G Enterprise SFP Switch）",
-   "why": "自有标小壳工业交换机 → 工业 5 GE 非管理 STI-050GE（$18.5 @30%）、8 GE STI-080GE（$34.0）；工业 MC 位 STI-110GE（$24.3）；高标价 = 贴标毛利空间大",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "2027-Q1（换人后）",
-   "channel": "A 邮箱 → 具名 KP",
-   "action": "首封前知悉：Elsa 2025-02-23 单发过「Industrial PoE Switch」（未见回复（Elsa 箱 Replied 标签无））；换收件人再发一封",
-   "one_question": "For the compact industrial Ethernet switches and gigabit fiber converters in your range, we build Marvell-based 5/8-port DIN-rail units and SFP media converters under your label from small lots (−40~75 °C, CE/RoHS/FCC) — which of the two would you want a sample quote on first? Reference: STI-050GE at $25 USD EXW (MOQ 1, 15-day validity)."
-  },
-  "facts": [
-   {
-    "date": "2026-09-10",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "Managed Optical Bypass Switch、10G Enterprise SFP Switch",
-    "why": "22 封 / 0 次打开 / 0 回｜首封 2025-01-17 → 末封 2026-09-10（22 去 / 0 来）",
-    "k": "gmail_digest"
-   },
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "工业FS（小壳） 工业MC 串口 标价高",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2025-02-23",
-    "dir": "out",
-    "who": "Elsa → sales@commfront.com",
-    "quote": "Industrial PoE Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
-    "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
-    "k": "elsa_1to1",
-    "msg_id": "1952eb579f39a107"
-   }
+  "code": "SB-527",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（commfront.com，快照 2026-10-21）",
+  "summary": "美国 CommFront（工业以太网交换机 / USB-RS232-RS485-RS422 串口 / 光纤转换器 / 隔离器 / Modbus 网关自有品牌网店，「industrial ruggedness proven since 2005」、RoHS；表内「工业 FS（小壳）、工业 MC、串口；标价高」）；群发 10 次无回复。",
+  "type": "工业通信配件自有品牌网店（美国，高标价）",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：Industrial Ethernet Switch USB RS232 RS485 RS422 Fiber Optic Converter – CommFront；品类词 工业自动化 / OT 网络 / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
+      "quote": "Industrial Ethernet Switches, Industrial USB RS232 RS485 RS422 TTL Serial Fast and Gigabit Ethernet Fiber Optic Converters / Isolators / Extenders / Hubs, Mobus RTU to TCP, Serial to Ethernet Converters, SGS/TUV/ISO-9001 Certified, 5-Yr War",
+      "url": "https://www.commfront.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "工业FS（小壳） 工业MC 串口 标价高",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "工业以太网交换机与串口/光纤转换器",
+      "quote": "Industrial Ethernet Switches, Industrial USB RS232 RS485 RS422 TTL Serial Fast and Gigabit Ethernet Fiber Optic Converters / Isolators / Extenders / Hubs, Mobus RTU to TCP",
+      "url": "https://www.commfront.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "工业 FS 小壳 / 工业 MC / 串口，标价高",
+      "quote": "工业FS（小壳） 工业MC 串口；标价高",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "kp": [],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "美国",
+    "other": "官网 commfront.com，语言 ?，快照状态 ok；角色判定来源：官网文案"
+  },
+  "business_lines": [
+    "工业串口转换 / 隔离器 / Modbus 网关（自有品牌）",
+    "工业以太网交换机 / 光纤转换器"
+  ],
+  "channels": {
+    "role": "工业通信配件自有品牌网店（美国，高标价）",
+    "region": "美国",
+    "contact": "sales@commfront.com"
+  },
+  "signals": [
+    "官网：Industrial Ethernet Switches, Industrial USB RS232 RS485 RS422 TTL Serial Fast and Gigabit Ethernet Fiber Optic Converters / Isolators / Extenders",
+    "博客 /blogs/keys/69888835-industrial-ruggedness-proven-since-2005、/lead-free-rohs-compliant-products",
+    "站内 kw：fiber 182 / ethernet 201 / industrial 119"
+  ],
+  "risks": [
+    "串口/隔离器为主业：交换机为配套线",
+    "现货源未知（表内「标价高」= 疑为深圳贴牌加价）；10 次无回复，无具名 KP"
+  ],
+  "saga_fit": {
+    "p1": "STI-050GE",
+    "tier": 30,
+    "why": "自有标小壳工业交换机 → 工业 5 GE 非管理 STI-050GE（$18.5 @30%）、8 GE STI-080GE（$34.0）；工业 MC 位 STI-110GE（$24.3）；高标价 = 贴标毛利空间大"
+  },
+  "email_hook": "For the compact industrial Ethernet switches and gigabit fiber converters in your range, we build Marvell-based 5/8-port DIN-rail units and SFP media converters under your label from small lots (−40~75 °C, CE/RoHS/FCC) — which of the two would you want a sample quote on first?",
+  "products_seen": [
+    {
+      "brand": "CommFront（自有）",
+      "model": "工业以太网交换机（小壳）",
+      "spec": "5/8 口工业非管理（推断）",
+      "saga": "STI-050GE / STI-080GE",
+      "url": "https://www.commfront.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "brand": "CommFront（自有）",
+      "model": "千兆光纤转换器",
+      "spec": "工业 MC",
+      "saga": "STI-110GE",
+      "url": "https://www.commfront.com/",
+      "date": "2026-10-21"
+    }
+  ],
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A/S 邮箱 22 封 2025→2026，无记录打开，0 回；收件 sales@commfront.com；主题多为「Managed Optical Bypass Switch、10G Enterprise SFP Switch」）；Elsa 1:1 去信 1 封（2025-02-23「Industrial PoE Switch」；To 仅本户 sales@commfront.com；Bcc 未逐封读头；同类名单抽读 24 封均无 Bcc；此后再未进 Elsa 任何名单——全箱 `from:e.sagatelecom to:sales@commfront.com` 仅此 1 条，complete）（第 74 批(m)）",
+      "type": "工业通信配件自有品牌网店（美国，高标价）",
+      "sieve": "1（只收到群发）",
+      "stop": "只打通用邮箱，无记录打开",
+      "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+      "lane": "US 主攻（四主）",
+      "cadence": "一封",
+      "evidence": "gmail_digest：out 22；用户表：「工业FS（小壳） 工业MC 串口 标价高」；研究档 risks：串口/隔离器为主业：交换机为配套线"
+    },
+    "situation": "美国 CommFront（工业以太网交换机 / USB-RS232-RS485-RS422 串口 / 光纤转换器 / 隔离器 / Modbus 网关自有品牌网店，「industrial ruggedness proven since 2005」、RoHS；表内「工业 FS（小壳）、工业 MC、串口；标价高」）；群发 10 次无回复。",
+    "need": "自有标小壳工业交换机 → 工业 5 GE 非管理 STI-050GE（$18.5 @30%）、8 GE STI-080GE（$34.0）；工业 MC 位 STI-110GE（$24.3）；高标价 = 贴标毛利空间大",
+    "breakpoint": "串口/隔离器为主业：交换机为配套线",
+    "saga_now": {
+      "p1": "STI-050GE",
+      "tier": 30,
+      "price": "换人再触锚价 STI-050GE $25 EXW（最近实报 $25（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-07-11 $300（48 Port PoE Managed Switch）、2025-09-30 $280（10G Enterprise SFP Switch）",
+      "why": "自有标小壳工业交换机 → 工业 5 GE 非管理 STI-050GE（$18.5 @30%）、8 GE STI-080GE（$34.0）；工业 MC 位 STI-110GE（$24.3）；高标价 = 贴标毛利空间大",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "2027-Q1（换人后）",
+      "channel": "A 邮箱 → 具名 KP",
+      "action": "首封前知悉：Elsa 仅 2025-02-23 单发过 1 封「Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封",
+      "one_question": "For the compact industrial Ethernet switches and gigabit fiber converters in your range, we build Marvell-based 5/8-port DIN-rail units and SFP media converters under your label from small lots (−40~75 °C, CE/RoHS/FCC) — which of the two would you want a sample quote on first? Reference: STI-050GE at $25 USD EXW (MOQ 1, 15-day validity)."
+    },
+    "facts": [
+      {
+        "date": "2025-02-23",
+        "dir": "out",
+        "who": "Elsa → sales@commfront.com",
+        "quote": "Industrial PoE Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+        "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
+        "k": "elsa_1to1",
+        "msg_id": "1952eb579f39a107"
+      },
+      {
+        "date": "2026-09-10",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "Managed Optical Bypass Switch、10G Enterprise SFP Switch",
+        "why": "22 封 / 0 次打开 / 0 回｜首封 2025-01-17 → 末封 2026-09-10（22 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "工业FS（小壳） 工业MC 串口 标价高",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

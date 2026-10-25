@@ -36,25 +36,29 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-080GE — 询盘 Atop EHG6408（8 口千兆工业）→ 工业 8 GE 非管理 STI-080GE（$32.7 @25%）；管理版 8 GE + 2 SFP STI-280GE（$48.6）；BIS 由客户侧办理；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-09-02 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2026-06-19 $16000（32 Port 400GB DC Switch）
 - **第一问（只问一个）**：Rajendra, following your enquiry for an 8-port gigabit industrial switch (EHG6408 class): we supply DIN-rail 8-GE unmanaged and 8-GE + 2 SFP managed units (−40~75 °C, redundant 12–57 V, CE/RoHS) from single units, EXW USD — how many units and is managed or unmanaged required?
 - **最大未知**：年走量与现供应商
-- **下一步**：群发节奏 A 邮箱 首封前知悉：Elsa 2025-12-10 单发过「Booster PoE Switch」（未见回复（Elsa 箱 Replied 标签无））；观察打开
+- **下一步**：群发节奏 A 邮箱 首封前知悉：Elsa 已 1:1 去信 5 轮（2025-10-15→2026-04-01，0 回）（第 74 批(m)）；观察打开
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-474` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A 邮箱 7 封 2025→2026，无记录打开，0 回；收件 info@ngapl.com；主题多为「8 Port Industrial PoE Switch、Mini Industrial PoE Switch」）；Elsa 单发去信 1 封（2025-12-10「Booster PoE Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）** ｜ 类型：工业自动化集成商（印度，Atop EHG6408 询盘） ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：IN 次级（点名） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 7；用户表：「EHG6408 8电口；EHG6408 8电口 / from: 阿里巴巴」；研究档 risks：非主攻区（T5，印度）：BIS 认证由客户侧办理；阿里巴巴询盘有效性待核；Siemens/Phoenix 生态价格基准高
+- **绑定等级：未触达（A 邮箱 7 封 2025→2026，无记录打开，0 回；收件 info@ngapl.com；主题多为「8 Port Industrial PoE Switch、Mini Industrial PoE Switch」）；Elsa 1:1 去信 5 轮 2025-10-15→2026-04-01（To 仅本户 info@ngapl.com；Bcc 未逐封读头；同类名单抽读 24 封均无 Bcc；主题 Booster PoE Switch、OEM Core Switching Solution、Updated Ethernet Switches Links、Marvell Managed Commercial Switches…；0 回（Elsa 箱无 Re: 行））（第 74 批(m) `from:e.sagatelecom to:` 全程 complete，直收 5 条）** ｜ 类型：工业自动化集成商（印度，Atop EHG6408 询盘） ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：IN 次级（点名） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 7；用户表：「EHG6408 8电口；EHG6408 8电口 / from: 阿里巴巴」；研究档 risks：非主攻区（T5，印度）：BIS 认证由客户侧办理；阿里巴巴询盘有效性待核；Siemens/Phoenix 生态价格基准高
 - **现状一句话**：印度 NextGen Automation（NGAPL，「Solutions Simplified」工业自动化方案商：合作 MRA、VAHLE、Ouster、Kymati、Siemens；SCADA/自动化；阿里巴巴询盘「EHG6408 8 电口」（Atop 型号）；KP Rajendra Khamkar（Operation Head））；表内未跟进。
 - **对方真实需求（有据）**：询盘 Atop EHG6408（8 口千兆工业）→ 工业 8 GE 非管理 STI-080GE（$32.7 @25%）；管理版 8 GE + 2 SFP STI-280GE（$48.6）；BIS 由客户侧办理
 - **断点 / 为什么停在这里**：非主攻区（T5，印度）：BIS 认证由客户侧办理；阿里巴巴询盘有效性待核；Siemens/Phoenix 生态价格基准高
 - **Saga 现在该推什么**：P1 **STI-080GE**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-09-02 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2026-06-19 $16000（32 Port 400GB DC Switch））——询盘 Atop EHG6408（8 口千兆工业）→ 工业 8 GE 非管理 STI-080GE（$32.7 @25%）；管理版 8 GE + 2 SFP STI-280GE（$48.6）；BIS 由客户侧办理
-- **下一步（具体）**：群发节奏　A 邮箱　首封前知悉：Elsa 2025-12-10 单发过「Booster PoE Switch」（未见回复（Elsa 箱 Replied 标签无））；观察打开
+- **下一步（具体）**：群发节奏　A 邮箱　首封前知悉：Elsa 已 1:1 去信 5 轮（2025-10-15→2026-04-01，0 回）（第 74 批(m)）；观察打开
   - 第一问（只问一个）：Rajendra, following your enquiry for an 8-port gigabit industrial switch (EHG6408 class): we supply DIN-rail 8-GE unmanaged and 8-GE + 2 SFP managed units (−40~75 °C, redundant 12–57 V, CE/RoHS) from single units, EXW USD — how many units and is managed or unmanaged required?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2025-10-15 | out | Elsa → info@ngapl.com | 10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 1/5 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:info@ngapl.com` 全程 complete：5 轮直收；0 回 | `elsa_1to1` |
+| 2025-12-10 | out | Elsa → info@ngapl.com | Booster PoE Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
+| 2026-01-09 | out | Elsa → info@ngapl.com | OEM Core Switching Solution（Elsa 1:1 逐月名单第 3/5 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:info@ngapl.com` 全程 complete：5 轮直收；0 回 | `elsa_1to1` |
+| 2026-03-03 | out | Elsa → info@ngapl.com | Updated Ethernet Switches Links（Elsa 1:1 逐月名单第 4/5 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:info@ngapl.com` 全程 complete：5 轮直收；0 回 | `elsa_1to1` |
+| 2026-04-01 | out | Elsa → info@ngapl.com | Marvell Managed Commercial Switches（Elsa 1:1 逐月名单第 5/5 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:info@ngapl.com` 全程 complete：5 轮直收；0 回 | `elsa_1to1` |
 | 2026-09-02 | 去 | A 群发 | 8 Port Industrial PoE Switch、Mini Industrial PoE Switch | 7 封 / 0 次打开 / 0 回｜首封 2025-07-15 → 末封 2026-09-02（7 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | EHG6408 8电口；EHG6408 8电口 / from: 阿里巴巴 | 表内备注 | `用户表` |
-| 2025-12-10 | out | Elsa → info@ngapl.com | Booster PoE Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 
 ## 基本事实（事实/推断/假设分层）
 

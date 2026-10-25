@@ -34,32 +34,38 @@ updated: 2026-10-25
 - **是谁**：坦桑尼亚 ICT 服务与安防设备安装 / 办公设备供应商（Mossad Masheu；+255 712 565 698），询盘表来源，需求 1 光 2 电千兆 MC；WA 1 次无实质回复。（调研 2026-10-21；表内兴趣：MC1光2电千兆）
 - **为什么是 B 级**：+18 在「已回复」名单（A/E Replied）；+12 主动询盘（阿里巴巴/自建站/转介）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 非洲/坦桑尼亚；+5 最近活动 2025；-3 跟进表最近平台标记 E（已降为群发）
 - **历史互动**：WhatsApp 已加；推送 1 次（2025-10-01 → 2025-10-01）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-110GE — 1 光 2 电千兆 MC：Saga 价目为 1 光 1 电 STI-110GE（$23.4 @25%）；1 光 2 电按 SmartByte LT-IMC 型号另询并注明。；再触锚价 STI-110GE $26.5（最近实报；第 72 批 2026-10-24）；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STI-110GE — 1 光 2 电千兆 MC：Saga 价目为 1 光 1 电 STI-110GE（$23.4 @25%）；1 光 2 电按 SmartByte LT-IMC 型号另询并注明。；再触锚价 STI-110GE $26.5（最近实报；第 72 批 2026-10-24）；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：We have 8/16/24/48-port commercial and 4-24-port industrial PoE switches plus media converters — which project size are you quoting for in Tanzania? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：2026-11（顺手） Elsa 邮箱回原线程 首封前知悉：Elsa 2026-05-11 单发过「10G Enterprise SFP Switch」（未见回复（Elsa 箱 Replied 标签无））；目录 + 一问；回原串沿用原主题（邮件客户端自动加 Re:），上面的主题只在另起新信时用
+- **下一步**：2026-11（顺手） Elsa 邮箱回原线程 首封前知悉：Elsa 已 1:1 去信 6 轮（2025-12-03→2026-08-04，客户回过信（2025-08-26、2025-10-01）），此前还经锚 Bcc 触达（第 74 批(m)）；目录 + 一问；回原串沿用原主题（邮件客户端自动加 Re:），上面的主题只在另起新信时用
 
-## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-25）
 
-> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-164` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-164` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-25。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：轻度触达（Elsa 邮箱 2025-10-01 samuisso@tescom.co.tz 回「you have only 24 port and how many types of switch you have」——Elsa 的信发给 unilinkcommunication.com，回信来自 TESCOM（同一人/转发）；S/A 邮箱 0 封）；补核（第 73 批）：Elsa 当天回 5 张照片 + 反问，无型号无价，之后无回；补核（第 73 批）：08-23 第一问无人答，10-01 第二问只得照片 → 两次都没拿到型号/价；Elsa 单发去信 1 封（2026-05-11「10G Enterprise SFP Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）；另 Elsa 单发 1 封（2025-12-29「Marvell Industrial Alert System」）** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：一封目录信（8/16/24/48 口 + 工业款）即可；不追 ｜ 通路：坦桑尼亚 非主攻 ｜ 节奏：不动 ｜ 证据：gmail_digest：out 0；用户表：「兴趣：MC1光2电千兆」；研究档 risks：东非付款 T/T 预付；小量；Elsa 邮箱 `data/gmail_e/text/`（Replied 线程，客户→Elsa 正文；Elsa 回复正文未入库）
+- **绑定等级：轻度触达（Elsa 邮箱 2025-10-01 samuisso@tescom.co.tz 回「you have only 24 port and how many types of switch you have」——那封信是 unilink 锚轮的群发，samuisso@tescom.co.tz 在 Bcc 名单里（第 74 批(m) 头 msg 1999e5b2e63ea7b6 核对），不是转发；回信后 Elsa 把他从 Bcc 名单剔出（2026-08-13 头 msg 19ffadf35e0679b0 已无此址）、转入 1:1 名单；S/A 邮箱 0 封）；补核（第 73 批）：Elsa 当天回 5 张照片 + 反问，无型号无价，之后无回；补核（第 73 批）：08-23 第一问无人答，10-01 第二问只得照片 → 两次都没拿到型号/价；Elsa 1:1 去信 6 轮 2025-12-03→2026-08-04（To 仅本户 samuisso@tescom.co.tz；头 msg 19fcc807ba11176c 核对无 Bcc，称呼「Hi, Mr.Mossad」= 个性化逐月 1:1 名单；主题 Updated Ethernet Switches Links、Industrial PoE Switch、10G Enterprise SFP Switch、24 Port PoE Managed Switch…；客户来过信：Elsa 回 2025-08-26 Re:「24 Port Fiber Switch」、2025-10-01 Re:「10G Enterprise SFP Switch」；此前经 锚 sales@unilinkcommunication.com 的 Bcc 收到 7 轮（2025-03-07→2025-10-01）→ 回信后被 Elsa 从 Bcc 名单剔出、转入 1:1 名单）（第 74 批(m) `from:e.sagatelecom to:` 全程 complete，直收 8 条）；Elsa 群发 BCC 已触达 2025-10-01「10G Enterprise SFP Switch」（价格未读），BE/NZ/BG/TR/IE/MD/RO+非洲散户 批次 To sales@unilinkcommunication.com，0 回（第 74 批 Bcc 头核对 msg 1999e5b2e63ea7b6）** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：一封目录信（8/16/24/48 口 + 工业款）即可；不追 ｜ 通路：坦桑尼亚 非主攻 ｜ 节奏：不动 ｜ 证据：gmail_digest：out 0；用户表：「兴趣：MC1光2电千兆」；研究档 risks：东非付款 T/T 预付；小量；Elsa 邮箱 `data/gmail_e/text/`（Replied 线程，客户→Elsa 正文；Elsa 回复正文未入库）；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To sales@unilinkcommunication.com）本户见于 2025-10-01 名单；2026-08-13 最新一轮名单已不含此地址 → 中途被剔除（退信 / 退订 / 手工）；该批次最早 2025-02-15 起共 14 轮，更早轮次 Bcc 未读
 - **现状一句话**：坦桑尼亚 ICT 服务与安防设备安装 / 办公设备供应商（Mossad Masheu；+255 712 565 698），询盘表来源，需求 1 光 2 电千兆 MC；WA 1 次无实质回复。
 - **对方真实需求（有据）**：1 光 2 电千兆 MC：Saga 价目为 1 光 1 电 STI-110GE（$23.4 @25%）；1 光 2 电按 SmartByte LT-IMC 型号另询并注明。
 - **断点 / 为什么停在这里**：东非付款 T/T 预付；小量
 - **Saga 现在该推什么**：P1 **STI-110GE**（25% 档，再触锚价 STI-110GE $26.5（最近实报；第 72 批 2026-10-24）；按主表（研究档 saga_fit））——1 光 2 电千兆 MC：Saga 价目为 1 光 1 电 STI-110GE（$23.4 @25%）；1 光 2 电按 SmartByte LT-IMC 型号另询并注明。
-- **下一步（具体）**：2026-11（顺手）　Elsa 邮箱回原线程　首封前知悉：Elsa 2026-05-11 单发过「10G Enterprise SFP Switch」（未见回复（Elsa 箱 Replied 标签无））；目录 + 一问；回原串沿用原主题（邮件客户端自动加 Re:），上面的主题只在另起新信时用
+- **下一步（具体）**：2026-11（顺手）　Elsa 邮箱回原线程　首封前知悉：Elsa 已 1:1 去信 6 轮（2025-12-03→2026-08-04，客户回过信（2025-08-26、2025-10-01）），此前还经锚 Bcc 触达（第 74 批(m)）；目录 + 一问；回原串沿用原主题（邮件客户端自动加 Re:），上面的主题只在另起新信时用
   - 第一问（只问一个）：We have 8/16/24/48-port commercial and 4-24-port industrial PoE switches plus media converters — which project size are you quoting for in Tanzania? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2025-08-18 | 去 | Elsa（群发，发给 sales@unilinkcommunication.com） | I would like to recommend a switch, 24 port 1G SFP+8 port 1G SFP/RJ45 combo +4*10G SFP+. It is a price-competitive aggregation switch. Price: 240usd/pc | Tescom 第一次来信回的是这封——所以他看过的 24 SFP 汇聚机价 = $240（2025-08，老汇率），不是 10 月那轮 | `gmail_e 198d7414a2738d97（引用）` |
 | 2025-08-23 | 来 | mmedad（samuisso@tescom.co.tz） | Hello thanks for your recomendation please what is the type of switch | 比 10-01 那封早 5 周的第一问；没有 Replied 标签、线程里无 Elsa 回信 → 这封没人答，他 10-01 又问一次「how many types」，Elsa 才回 5 张照片 | `gmail_e 198d7414a2738d97` |
+| 2025-08-26 | out | Elsa → samuisso@tescom.co.tz | Re: 24 Port Fiber Switch（Elsa 回客户来信） | Elsa 箱 Re: 行 = 客户在此之前来过信；内容见 Elsa 箱线程（第 74 批(m)） | `elsa_reply` |
 | 2025-10-01 | 来 | Samuisso（TESCOM，坦桑尼亚） | you have only 24 port and how many types of switch you have | 问产品线广度 = 想要目录；非主攻区 | `gmail_e` |
 | 2025-10-01 | 去 | Elsa | We have many switches covering 1G/2.5G/10G speed and 4/8/16/24/48 port. Please see attached some photos. Which type do you most need?（附 Dual AC.jpg / MINI.png / L3 Managed.jpg / 1U Umanaged.jpg / Marvell Series.jpg） | Elsa 当天只回 5 张照片 + 反问，没型号没价 → 无下文 | `gmail_e 1999fd227ad22507` |
-| 2026-10-21 | 用户表 | Simon | 兴趣：MC1光2电千兆 | 表内备注 | `用户表` |
-| 2026-05-11 | out | Elsa → samuisso@tescom.co.tz | 10G Enterprise SFP Switch（Elsa 2026 年 1:1 名单重发；To 仅本户） | 本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
+| 2025-10-01 | 去 | Elsa 群发（BCC；To sales@unilinkcommunication.com，BE/NZ/BG/TR/IE/MD/RO+非洲散户 批次） | 10G Enterprise SFP Switch — This is our 24-port Marvell-based managed SFP switch. 1, 4 port 1G SFP+8-port 1G SFP/RJ45 Combo +4*10G SFP+ 2, Dual AC input 3, Support fan monitoring | Elsa 箱群发 BCC 触达证据（命中地址 samuisso@tescom.co.tz, tescom.co.tz）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
+| 2025-12-03 | out | Elsa → samuisso@tescom.co.tz | Booster PoE Switch（Elsa 1:1 逐月名单第 1/6 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:samuisso@tescom.co.tz` 全程 complete：6 轮直收；客户曾来信（见 Re: 行） | `elsa_1to1` |
 | 2025-12-29 | out | Elsa → samuisso@tescom.co.tz | Marvell Industrial Alert System（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
+| 2026-03-02 | out | Elsa → samuisso@tescom.co.tz | Updated Ethernet Switches Links（Elsa 1:1 逐月名单第 3/6 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:samuisso@tescom.co.tz` 全程 complete：6 轮直收；客户曾来信（见 Re: 行） | `elsa_1to1` |
+| 2026-04-03 | out | Elsa → samuisso@tescom.co.tz | Industrial PoE Switch（Elsa 1:1 逐月名单第 4/6 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:samuisso@tescom.co.tz` 全程 complete：6 轮直收；客户曾来信（见 Re: 行） | `elsa_1to1` |
+| 2026-05-11 | out | Elsa → samuisso@tescom.co.tz | 10G Enterprise SFP Switch（Elsa 2026 年 1:1 名单重发；To 仅本户） | 本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
+| 2026-08-04 | out | Elsa → samuisso@tescom.co.tz | 24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 6/6 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:samuisso@tescom.co.tz` 全程 complete：6 轮直收；客户曾来信（见 Re: 行） | `elsa_1to1` |
+| 2026-10-21 | 用户表 | Simon | 兴趣：MC1光2电千兆 | 表内备注 | `用户表` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：（已核 2026-10-24，第 73 批）Elsa 2025-10-01 回 5 张产品照片 + 「which type do you most need」，无型号无价，之后无回；（已核 2026-10-24，第 73 批）Tescom 其实问过两次：08-23「what is the type of switch」（无人答）→ 10-01「how many types」（Elsa 回 5 张照片无型号）；他看过的 24 SFP 汇聚机价 = $240（2025-08-18 群发）
 

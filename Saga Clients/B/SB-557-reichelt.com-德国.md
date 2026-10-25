@@ -36,25 +36,25 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-280GE — 工业 FS 分类 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、工业 5 GE STI-050GE（$17.0）、工业 8 PoE + 2 SFP STI-288GPM（$78.9）作自有/中性标预算位；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-17 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-07-11 $300（48 Port PoE Managed Switch）、2025-09-25 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：For the industrial Ethernet switch category at reichelt, we supply Marvell-based DIN-rail 5-GE, 8-GE + 2 SFP managed and 8-PoE + 2 SFP units (−40~75 °C, CE/RoHS) neutral-brand or private-label from small lots, EXW USD — who handles listing new industrial networking suppliers?
 - **最大未知**：年走量与现供应商
-- **下一步**：群发节奏 A 邮箱 首封前知悉：Elsa 2025-02-24 单发过「16 Port Ethernet Switch」（未见回复（Elsa 箱 Replied 标签无））；观察打开
+- **下一步**：群发节奏 A 邮箱 首封前知悉：Elsa 仅 2025-02-24 单发过 1 封「16 Port Ethernet Switch」，之后没再碰他（第 74 批(m)）；观察打开
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-557` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A 邮箱 16 封 2025→2026，无记录打开，0 回；收件 info@reichelt.com；主题多为「10G Enterprise SFP Switch、8 Port Industrial PoE Switch」）；Elsa 单发去信 1 封（2025-02-24「16 Port Ethernet Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）** ｜ 类型：大型电子目录电商（德国，用户着重） ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：DE 主攻（四主） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 16；用户表：「工业FS 有宇航的」；研究档 risks：体量：大型目录电商（供应商准入与上架流程长）——用户标「可以着重跟一下」，保留 B；8 次无回复，仅 info@
+- **绑定等级：未触达（A 邮箱 16 封 2025→2026，无记录打开，0 回；收件 info@reichelt.com；主题多为「10G Enterprise SFP Switch、8 Port Industrial PoE Switch」）；Elsa 1:1 去信 1 封（2025-02-24「16 Port Ethernet Switch」；To 仅本户 info@reichelt.com；Bcc 未逐封读头；同类名单抽读 24 封均无 Bcc；此后再未进 Elsa 任何名单——全箱 `from:e.sagatelecom to:info@reichelt.com` 仅此 1 条，complete）（第 74 批(m)）** ｜ 类型：大型电子目录电商（德国，用户着重） ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：DE 主攻（四主） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 16；用户表：「工业FS 有宇航的」；研究档 risks：体量：大型目录电商（供应商准入与上架流程长）——用户标「可以着重跟一下」，保留 B；8 次无回复，仅 info@
 - **现状一句话**：德国 reichelt elektronik（15 万+ 技术/电子产品的大型目录电商（家族企业）；表内「工业 FS 有宇航的」「可以着重跟一下」）；群发 8 次无回复。
 - **对方真实需求（有据）**：工业 FS 分类 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、工业 5 GE STI-050GE（$17.0）、工业 8 PoE + 2 SFP STI-288GPM（$78.9）作自有/中性标预算位
 - **断点 / 为什么停在这里**：体量：大型目录电商（供应商准入与上架流程长）——用户标「可以着重跟一下」，保留 B；8 次无回复，仅 info@
 - **Saga 现在该推什么**：P1 **STI-280GE**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-17 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-07-11 $300（48 Port PoE Managed Switch）、2025-09-25 $280（10G Enterprise SFP Switch））——工业 FS 分类 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、工业 5 GE STI-050GE（$17.0）、工业 8 PoE + 2 SFP STI-288GPM（$78.9）作自有/中性标预算位
-- **下一步（具体）**：群发节奏　A 邮箱　首封前知悉：Elsa 2025-02-24 单发过「16 Port Ethernet Switch」（未见回复（Elsa 箱 Replied 标签无））；观察打开
+- **下一步（具体）**：群发节奏　A 邮箱　首封前知悉：Elsa 仅 2025-02-24 单发过 1 封「16 Port Ethernet Switch」，之后没再碰他（第 74 批(m)）；观察打开
   - 第一问（只问一个）：For the industrial Ethernet switch category at reichelt, we supply Marvell-based DIN-rail 5-GE, 8-GE + 2 SFP managed and 8-PoE + 2 SFP units (−40~75 °C, CE/RoHS) neutral-brand or private-label from small lots, EXW USD — who handles listing new industrial networking suppliers?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2025-02-24 | out | Elsa → info@reichelt.com | 16 Port Ethernet Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 | 2026-09-23 | 去 | A 群发 | 10G Enterprise SFP Switch、8 Port Industrial PoE Switch | 16 封 / 0 次打开 / 0 回｜首封 2025-04-11 → 末封 2026-09-23（16 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 工业FS 有宇航的 | 表内备注 | `用户表` |
-| 2025-02-24 | out | Elsa → info@reichelt.com | 16 Port Ethernet Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 
 ## 基本事实（事实/推断/假设分层）
 

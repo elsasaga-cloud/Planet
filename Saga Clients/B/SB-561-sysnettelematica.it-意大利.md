@@ -36,25 +36,25 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-280GE — 工业 FS（现 CTC Union）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$48.6 @25%）、工业 8 PoE + 2 SFP STI-288GPM（$82.2）、工业千兆 MC STI-110GE（$23.4）；换人再触锚价 STI-280GE $46 EXW（Saga 2025 Realtek 工业线对外价 $46（非管理工业线不用档位价 ㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-07-07 $300（48 Port PoE Managed Switch）、2025-10-15 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Stefano, alongside the CTC Union industrial switches you deploy, we supply Marvell-based DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP managed switches plus gigabit MCs (−40~75 °C, CE/RoHS) from single units, EXW USD — which industrial position in your telematics projects is most price-sensitive? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 首封前知悉：Elsa 2025-02-17 单发过「16 Port PoE Managed Switch」（未见回复（Elsa 箱 Replied 标签无））；换收件人再发一封
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 首封前知悉：Elsa 仅 2025-02-17 单发过 1 封「16 Port PoE Managed Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-561` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A/S 邮箱 20 封 2024→2026，无记录打开，0 回；收件 christian.tufariello@sysnetexplorer.com, stefano.cornelli@sysnetexplorer.com；主题多为「Industrial PoE Switch、16 Port Ethernet Switch」）；Elsa 单发去信 1 封（2025-02-17「16 Port PoE Managed Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）** ｜ 类型：ICT/电信集成商（意大利，工业 FS 现 CTC Union） ｜ 筛子：1（只收到群发） ｜ 停点：20 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：停发群发；若要继续，换具名邮箱 + 只问一句 ｜ 通路：意大利（欧洲全域主攻） ｜ 节奏：一封 ｜ 证据：gmail_digest：out 20；用户表：「工业FS CTCU的」；研究档 risks：快照为托管占位页（官网待核）；CTC Union（台湾）价格基准中等；12 次无回复 → 改向 Deputy CTO 具名首触
+- **绑定等级：未触达（A/S 邮箱 20 封 2024→2026，无记录打开，0 回；收件 christian.tufariello@sysnetexplorer.com, stefano.cornelli@sysnetexplorer.com；主题多为「Industrial PoE Switch、16 Port Ethernet Switch」）；Elsa 1:1 去信 1 封（2025-02-17「16 Port PoE Managed Switch」；To 仅本户 sysnettelematica@legalmail.it；Bcc 未逐封读头；同类名单抽读 24 封均无 Bcc；此后再未进 Elsa 任何名单——全箱 `from:e.sagatelecom to:sysnettelematica@legalmail.it` 仅此 1 条，complete）（第 74 批(m)）** ｜ 类型：ICT/电信集成商（意大利，工业 FS 现 CTC Union） ｜ 筛子：1（只收到群发） ｜ 停点：20 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：停发群发；若要继续，换具名邮箱 + 只问一句 ｜ 通路：意大利（欧洲全域主攻） ｜ 节奏：一封 ｜ 证据：gmail_digest：out 20；用户表：「工业FS CTCU的」；研究档 risks：快照为托管占位页（官网待核）；CTC Union（台湾）价格基准中等；12 次无回复 → 改向 Deputy CTO 具名首触
 - **现状一句话**：意大利 Sysnet Telematica（ICT/电信集成商（sysnetexplorer.com）；表内「工业 FS CTCU 的」「可以尝试多跟进一下」；KP Stefano Cornelli（Deputy CTO）、Christian Tufariello（Chief Operating Officer）；快照为 Seeweb 托管占位页）；群发 12 次无回复。
 - **对方真实需求（有据）**：工业 FS（现 CTC Union）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$48.6 @25%）、工业 8 PoE + 2 SFP STI-288GPM（$82.2）、工业千兆 MC STI-110GE（$23.4）
 - **断点 / 为什么停在这里**：快照为托管占位页（官网待核）；CTC Union（台湾）价格基准中等；12 次无回复 → 改向 Deputy CTO 具名首触
 - **Saga 现在该推什么**：P1 **STI-280GE**（25% 档，换人再触锚价 STI-280GE $46 EXW（Saga 2025 Realtek 工业线对外价 $46（非管理工业线不用档位价 ㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-07-07 $300（48 Port PoE Managed Switch）、2025-10-15 $280（10G Enterprise SFP Switch））——工业 FS（现 CTC Union）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$48.6 @25%）、工业 8 PoE + 2 SFP STI-288GPM（$82.2）、工业千兆 MC STI-110GE（$23.4）
-- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　首封前知悉：Elsa 2025-02-17 单发过「16 Port PoE Managed Switch」（未见回复（Elsa 箱 Replied 标签无））；换收件人再发一封
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　首封前知悉：Elsa 仅 2025-02-17 单发过 1 封「16 Port PoE Managed Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封
   - 第一问（只问一个）：Stefano, alongside the CTC Union industrial switches you deploy, we supply Marvell-based DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP managed switches plus gigabit MCs (−40~75 °C, CE/RoHS) from single units, EXW USD — which industrial position in your telematics projects is most price-sensitive? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2025-02-17 | out | Elsa → sysnettelematica@legalmail.it | 16 Port PoE Managed Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 | 2026-09-16 | 去 | A/S 群发 | Industrial PoE Switch、16 Port Ethernet Switch | 20 封 / 0 次打开 / 0 回｜首封 2024-07-01 → 末封 2026-09-16（20 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 工业FS CTCU的 | 表内备注 | `用户表` |
-| 2025-02-17 | out | Elsa → sysnettelematica@legalmail.it | 16 Port PoE Managed Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 
 ## 基本事实（事实/推断/假设分层）
 

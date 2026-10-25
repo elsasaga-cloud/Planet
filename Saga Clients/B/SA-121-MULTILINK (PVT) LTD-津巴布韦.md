@@ -39,27 +39,37 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 集成 25% 档：STC-28DGGPM（2 SFP + 8 GE PoE+ L2+，$84.1）替代当年光端机做 IP CCTV 接入；工业 STI-288GP（$59.8）；24 口 STC-424DGGPM-280W（$140.1）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-12-20 $240（24 Port Fiber Switch）；群发里他已看到的价（续，第 66 批全量复核）：2024-11-07 $300（48 Port PoE Managed Switch）
 - **第一问（只问一个）**：Hello Securico electronic-security team, you bought our 8/16-channel video converters and fibre switches in 2011–2013; today's equivalent for IP CCTV is a 2× SFP + 8× GbE PoE+ L2+ switch at $84.1 EXW (24-port 280 W at $140.1) — who now handles equipment purchasing for the electronic division?
 - **最大未知**：年走量与现供应商
-- **下一步**：群发节奏 A 邮箱 首封前知悉：Elsa 2026-09-14 单发过「16 Port Industrial PoE Switch」（未见回复（Elsa 箱 Replied 标签无））；观察打开
+- **下一步**：群发节奏 A 邮箱 首封前知悉：Elsa 已 1:1 去信 12 轮（2025-04-07→2026-09-14，0 回）（第 74 批(m)）；观察打开
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-121` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A/S 邮箱 9 封 2024→2025，无记录打开，0 回；收件 info@securico.co.zw；主题多为「Mini Industrial PoE Switch、Passive PoE Switch」）；Elsa 单发去信 1 封（2026-09-14「16 Port Industrial PoE Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）；另 Elsa 单发 1 封（2025-12-31「Marvell Industrial Alert System」）** ｜ 类型：经销/集成商 ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：津巴布韦 非主攻 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 9；用户表：「8V1D 16V1D 18机架 11 13年 / 13年买了FS 很多种类的」；研究档 risks：非洲非主攻区；津巴布韦外汇管制/付款；联系人可能已变动
+- **绑定等级：未触达（A/S 邮箱 9 封 2024→2025，无记录打开，0 回；收件 info@securico.co.zw；主题多为「Mini Industrial PoE Switch、Passive PoE Switch」）；Elsa 1:1 去信 12 轮 2025-04-07→2026-09-14（To 仅本户 info@securico.co.zw；头 msg 1a09fdc24eede558 核对无 Bcc，称呼「Hi, Samuel」= 个性化逐月 1:1 名单；主题 OEM Core Switching Solution、Updated Ethernet Switches Links、24 Port PoE Managed Switch、16 Port Industrial PoE Switch…；0 回（Elsa 箱无 Re: 行））（第 74 批(m) `from:e.sagatelecom to:` 全程 complete，直收 12 条）** ｜ 类型：经销/集成商 ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：津巴布韦 非主攻 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 9；用户表：「8V1D 16V1D 18机架 11 13年 / 13年买了FS 很多种类的」；研究档 risks：非洲非主攻区；津巴布韦外汇管制/付款；联系人可能已变动
 - **现状一句话**：津巴布韦最大安保服务商 SECURICO（DDNS Security Operations (Pvt) Ltd，1998 年创立，4,300+ 员工，ISO 9001/45001/14001；2008 年收购电子安防公司 Multi-Link (Pvt) Ltd 并并入为电子安防事业部，津巴布韦第二大电子安防系统商，与南非/中国/印度有合作；Ebenezer House, 10 Millwood Road, Workington, Harare；+263 242 621 956/7；info@securico.co.zw）。用户表：2011–2013 年多次成交（8V1D / 16V1D / 18 路机架光端机，2013 年买过 FS）；E 冷名单 1 次跟进 0 回复。老客户 + 电子安防事业部 → CCTV 网络化复购。
 - **对方真实需求（有据）**：集成 25% 档：STC-28DGGPM（2 SFP + 8 GE PoE+ L2+，$84.1）替代当年光端机做 IP CCTV 接入；工业 STI-288GP（$59.8）；24 口 STC-424DGGPM-280W（$140.1）
 - **断点 / 为什么停在这里**：非洲非主攻区；津巴布韦外汇管制/付款；联系人可能已变动
 - **Saga 现在该推什么**：P1 **STC-28DGGPM**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-12-20 $240（24 Port Fiber Switch）；群发里他已看到的价（续，第 66 批全量复核）：2024-11-07 $300（48 Port PoE Managed Switch））——集成 25% 档：STC-28DGGPM（2 SFP + 8 GE PoE+ L2+，$84.1）替代当年光端机做 IP CCTV 接入；工业 STI-288GP（$59.8）；24 口 STC-424DGGPM-280W（$140.1）
-- **下一步（具体）**：群发节奏　A 邮箱　首封前知悉：Elsa 2026-09-14 单发过「16 Port Industrial PoE Switch」（未见回复（Elsa 箱 Replied 标签无））；观察打开
+- **下一步（具体）**：群发节奏　A 邮箱　首封前知悉：Elsa 已 1:1 去信 12 轮（2025-04-07→2026-09-14，0 回）（第 74 批(m)）；观察打开
   - 第一问（只问一个）：Hello Securico electronic-security team, you bought our 8/16-channel video converters and fibre switches in 2011–2013; today's equivalent for IP CCTV is a 2× SFP + 8× GbE PoE+ L2+ switch at $84.1 EXW (24-port 280 W at $140.1) — who now handles equipment purchasing for the electronic division?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2025-02-20 | 去 | A/S 群发 | Mini Industrial PoE Switch、Passive PoE Switch | 9 封 / 0 次打开 / 0 回｜首封 2024-06-30 → 末封 2025-02-20（9 去 / 0 来） | `gmail_digest` |
-| 2026-09-14 | 去 | Elsa（e.sagatelecom，Gmail 连接器实时查询） | Elsa 邮箱群发「16 Port Industrial PoE Switch」→ info@securico.co.zw（截至 2026-10-24 无回复） | 仓库 gmail_e 只收录有回复的线程，Elsa 2026-08-19 → 09-15 的 201 封群发不在库里；本户在前 100 封内。意义：S/A 邮箱的「未发信/未触达」判断不等于 Elsa 没碰过——三个邮箱对同一户的触达要合看；Elsa 群发无回 = 再加一次「读而不回/未触达」证据 | `Gmail 连接器 list_messages newer_than:70d from:e.sagatelecom（2026-10-24 07:3x Z）` |
-| 2026-10-21 | 用户表 | Simon | 8V1D 16V1D 18机架 11 13年 / 13年买了FS 很多种类的 | 表内备注 | `用户表` |
-| 2026-09-14 | out | Elsa → info@securico.co.zw | 16 Port Industrial PoE Switch（Elsa 2026 年 1:1 名单重发；To 仅本户） | 本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
+| 2025-04-07 | out | Elsa → info@securico.co.zw | 8 Port Industrial PoE Switch（Elsa 1:1 逐月名单第 1/12 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:info@securico.co.zw` 全程 complete：12 轮直收；0 回 | `elsa_1to1` |
+| 2025-05-05 | out | Elsa → info@securico.co.zw | Managed Optical Bypass Switch（Elsa 1:1 逐月名单第 2/12 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:info@securico.co.zw` 全程 complete：12 轮直收；0 回 | `elsa_1to1` |
+| 2025-06-09 | out | Elsa → info@securico.co.zw | 16 Port Ethernet Switch（Elsa 1:1 逐月名单第 3/12 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:info@securico.co.zw` 全程 complete：12 轮直收；0 回 | `elsa_1to1` |
+| 2025-07-16 | out | Elsa → info@securico.co.zw | Industrial PoE Switch（Elsa 1:1 逐月名单第 4/12 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:info@securico.co.zw` 全程 complete：12 轮直收；0 回 | `elsa_1to1` |
+| 2025-10-07 | out | Elsa → info@securico.co.zw | 10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 5/12 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:info@securico.co.zw` 全程 complete：12 轮直收；0 回 | `elsa_1to1` |
+| 2025-12-02 | out | Elsa → info@securico.co.zw | Booster PoE Switch（Elsa 1:1 逐月名单第 6/12 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:info@securico.co.zw` 全程 complete：12 轮直收；0 回 | `elsa_1to1` |
 | 2025-12-31 | out | Elsa → info@securico.co.zw | Marvell Industrial Alert System（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
+| 2026-02-10 | out | Elsa → info@securico.co.zw | OEM Core Switching Solution（Elsa 1:1 逐月名单第 8/12 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:info@securico.co.zw` 全程 complete：12 轮直收；0 回 | `elsa_1to1` |
+| 2026-03-19 | out | Elsa → info@securico.co.zw | Updated Ethernet Switches Links（Elsa 1:1 逐月名单第 9/12 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:info@securico.co.zw` 全程 complete：12 轮直收；0 回 | `elsa_1to1` |
+| 2026-05-01 | out | Elsa → info@securico.co.zw | Industrial PoE Switch（Elsa 1:1 逐月名单第 10/12 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:info@securico.co.zw` 全程 complete：12 轮直收；0 回 | `elsa_1to1` |
+| 2026-08-03 | out | Elsa → info@securico.co.zw | 24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 11/12 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:info@securico.co.zw` 全程 complete：12 轮直收；0 回 | `elsa_1to1` |
+| 2026-09-14 | 去 | Elsa（e.sagatelecom，Gmail 连接器实时查询） | Elsa 邮箱群发「16 Port Industrial PoE Switch」→ info@securico.co.zw（截至 2026-10-24 无回复） | 仓库 gmail_e 只收录有回复的线程，Elsa 2026-08-19 → 09-15 的 201 封群发不在库里；本户在前 100 封内。意义：S/A 邮箱的「未发信/未触达」判断不等于 Elsa 没碰过——三个邮箱对同一户的触达要合看；Elsa 群发无回 = 再加一次「读而不回/未触达」证据 | `Gmail 连接器 list_messages newer_than:70d from:e.sagatelecom（2026-10-24 07:3x Z）` |
+| 2026-09-14 | out | Elsa → info@securico.co.zw | 16 Port Industrial PoE Switch（Elsa 2026 年 1:1 名单重发；To 仅本户） | 本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
+| 2026-10-21 | 用户表 | Simon | 8V1D 16V1D 18机架 11 13年 / 13年买了FS 很多种类的 | 表内备注 | `用户表` |
 
 ## 基本事实（事实/推断/假设分层）
 

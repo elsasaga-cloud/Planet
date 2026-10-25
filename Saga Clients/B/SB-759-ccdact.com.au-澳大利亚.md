@@ -36,25 +36,25 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-110GE — 自有标 MC → 工业千兆 MC STI-110GE（$24.3 @30%）/ PoE MC STI-111GP（$30.1）；桌面商用 MC Saga 列表无（HRUI/SmartByte 注明）；CCD-POE-4100 位 HRUI STC-204GP（列表价）；SFP 不供（Q-32）。已打开的主题（4/31 封有打开记录）：「48 Port PoE Managed Switch」(2024-11-29)、「8 Port Industrial PoE Switch」(2025-01-22)、「Commercial Network Switch」(2025-08-05)、「Optional Marvell Chipset Solutions」(2025-12-10) → 读者兴趣偏「其他」；当前 P1 属「10G 汇聚/L3」，下一封按「其他」给，不按 P1｜已发资料（勿重发）：Product Link_2026Q2(2026-02-17)、Saga Feature List_7.5.x_L2+(2026-07-07)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）；首触锚价 STI-110GE $26.5 EXW（最近实报 SA-001 2025-11-27 $26.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-18 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-11-29 $300（48 Port PoE Managed Switch）、2025-09-24 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Marcus, for the CCD media-converter and PoE switch lines, we can be a second source for Marvell/Realtek-based gigabit and PoE media converters and 4/8-port PoE switches under your label from small lots, CE/RoHS — which CCD model do you reorder most often? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：2026-11 A 邮箱 → mk@ccdact.com 首封前知悉：Elsa 2025-02-25 单发过「10G Media Converter」（未见回复（Elsa 箱 Replied 标签无））；短信一问（email_hook）
+- **下一步**：2026-11 A 邮箱 → mk@ccdact.com 首封前知悉：Elsa 仅 2025-02-25 单发过 1 封「10G Media Converter」，之后没再碰他（第 74 批(m)）；短信一问（email_hook）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-759` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：读而不回（A/S 邮箱 31 封 2024→2026，其中 4 封被打开，0 回；收件 mk@ccdact.com, sales@ccdact.com.au；被打开主题「Industrial PoE Switch、Marvell Industrial Alert System」）；Elsa 单发去信 1 封（2025-02-25「10G Media Converter」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）** ｜ 类型：澳洲网络配件自有品牌商（MC/SFP 为主，OEM 采购） ｜ 筛子：2（有人在读，无人回） ｜ 停点：读而不回 = 内容未命中或没有当下需求 ｜ 复活：一封「只问一句」的短信给打开过的地址（不附图不附表） ｜ 通路：澳大利亚 非主攻 ｜ 节奏：一封；回了再说 ｜ 证据：gmail_digest：out 31，Opened 标签 4（Simon 群发追踪）；用户表：「MC SFP 自己的牌子 标价较高」；研究档 risks：SFP 为其主品类之一，Saga 不供（Q-32）；商用桌面 MC 需以 SmartByte/HRUI 型号注明报价
+- **绑定等级：读而不回（A/S 邮箱 31 封 2024→2026，其中 4 封被打开，0 回；收件 mk@ccdact.com, sales@ccdact.com.au；被打开主题「Industrial PoE Switch、Marvell Industrial Alert System」）；Elsa 1:1 去信 1 封（2025-02-25「10G Media Converter」；To 仅本户 mk@ccdact.com；Bcc 未逐封读头；同类名单抽读 24 封均无 Bcc；此后再未进 Elsa 任何名单——全箱 `from:e.sagatelecom to:mk@ccdact.com` 仅此 1 条，complete）（第 74 批(m)）** ｜ 类型：澳洲网络配件自有品牌商（MC/SFP 为主，OEM 采购） ｜ 筛子：2（有人在读，无人回） ｜ 停点：读而不回 = 内容未命中或没有当下需求 ｜ 复活：一封「只问一句」的短信给打开过的地址（不附图不附表） ｜ 通路：澳大利亚 非主攻 ｜ 节奏：一封；回了再说 ｜ 证据：gmail_digest：out 31，Opened 标签 4（Simon 群发追踪）；用户表：「MC SFP 自己的牌子 标价较高」；研究档 risks：SFP 为其主品类之一，Saga 不供（Q-32）；商用桌面 MC 需以 SmartByte/HRUI 型号注明报价
 - **现状一句话**：澳大利亚 CCD Networking（「leading manufacturer of premium network infrastructure equipment」：MC、SFP、网线，自有 CCD-5100/7100/9100 MC、CCD-POE-4100；表内「MC / SFP 自己的牌子，标价较高」「可以多跟进一下」；KP Marcus King（Director，mk@ccdact.com））；群发 21 次无回复。
 - **对方真实需求（有据）**：自有标 MC → 工业千兆 MC STI-110GE（$24.3 @30%）/ PoE MC STI-111GP（$30.1）；桌面商用 MC Saga 列表无（HRUI/SmartByte 注明）；CCD-POE-4100 位 HRUI STC-204GP（列表价）；SFP 不供（Q-32）
 - **断点 / 为什么停在这里**：SFP 为其主品类之一，Saga 不供（Q-32）；商用桌面 MC 需以 SmartByte/HRUI 型号注明报价
 - **Saga 现在该推什么**：P1 **STI-110GE**（30% 档，首触锚价 STI-110GE $26.5 EXW（最近实报 SA-001 2025-11-27 $26.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-18 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-11-29 $300（48 Port PoE Managed Switch）、2025-09-24 $280（10G Enterprise SFP Switch））——自有标 MC → 工业千兆 MC STI-110GE（$24.3 @30%）/ PoE MC STI-111GP（$30.1）；桌面商用 MC Saga 列表无（HRUI/SmartByte 注明）；CCD-POE-4100 位 HRUI STC-204GP（列表价）；SFP 不供（Q-32）。已打开的主题（4/31 封有打开记录）：「48 Port PoE Managed Switch」(2024-11-29)、「8 Port Industrial PoE Switch」(2025-01-22)、「Commercial Network Switch」(2025-08-05)、「Optional Marvell Chipset Solutions」(2025-12-10) → 读者兴趣偏「其他」；当前 P1 属「10G 汇聚/L3」，下一封按「其他」给，不按 P1｜已发资料（勿重发）：Product Link_2026Q2(2026-02-17)、Saga Feature List_7.5.x_L2+(2026-07-07)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）
-- **下一步（具体）**：2026-11　A 邮箱 → mk@ccdact.com　首封前知悉：Elsa 2025-02-25 单发过「10G Media Converter」（未见回复（Elsa 箱 Replied 标签无））；短信一问（email_hook）
+- **下一步（具体）**：2026-11　A 邮箱 → mk@ccdact.com　首封前知悉：Elsa 仅 2025-02-25 单发过 1 封「10G Media Converter」，之后没再碰他（第 74 批(m)）；短信一问（email_hook）
   - 第一问（只问一个）：Marcus, for the CCD media-converter and PoE switch lines, we can be a second source for Marvell/Realtek-based gigabit and PoE media converters and 4/8-port PoE switches under your label from small lots, CE/RoHS — which CCD model do you reorder most often? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2025-02-25 | out | Elsa → mk@ccdact.com | 10G Media Converter（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 | 2026-10-01 | 去 | A/S 群发 | Industrial PoE Switch、Marvell Industrial Alert System | 31 封 / 4 次打开 / 0 回｜首封 2024-06-30 → 末封 2026-10-01（31 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | MC SFP 自己的牌子 标价较高 | 表内备注 | `用户表` |
-| 2025-02-25 | out | Elsa → mk@ccdact.com | 10G Media Converter（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 
 ## 基本事实（事实/推断/假设分层）
 

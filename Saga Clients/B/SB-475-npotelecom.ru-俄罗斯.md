@@ -36,25 +36,25 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STH 系列 — 用户标重要 + CENTEC 对口。已打开的主题（9/26 封有打开记录）：「Power Converter」(2024-09-16)、「10G Enterprise SFP Switch」(2026-05-11)、「Re: 10G Enterprise SFP Switch」(2026-05-12)、「Re: 10G Enterprise SFP Switch」(2026-05-15) → 读者兴趣偏「工业」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-03-13)、Product Link_2026Q3(2026-07-02)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）；按 CENTEC 价表；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-19 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-17 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-24 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Mikhail — Zhengzhou engineering + Shenzhen partner factories; Marvell/CENTEC/Realtek, no Microchip; which platform are you evaluating, OEM label or reference design?
 - **最大未知**：官网当前状态异常（超时（站慢或封锁））——公司是否仍在运营待核
-- **下一步**：2026-11 A 邮箱 → afonin@npotelecom.ru 首封前知悉：Elsa 2025-02-28 单发过「24 Port Fiber Switch」（未见回复（Elsa 箱 Replied 标签无））；CENTEC 表 + 身份说明
+- **下一步**：2026-11 A 邮箱 → afonin@npotelecom.ru 首封前知悉：Elsa 仅 2025-02-28 单发过 1 封「24 Port Fiber Switch」，之后没再碰他（第 74 批(m)）；CENTEC 表 + 身份说明
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-475` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：轻度触达（2 封技术尽调：2024-06「What manufacturer is the chip?」；2026-05「What city is your factory located in? Do you produce switches based on Microchip and Centec chips?」→ Alan：China；Marvell + CENTEC）；Elsa 单发去信 1 封（2025-02-28「24 Port Fiber Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）** ｜ 类型：俄罗斯电信设备企业（НПО Телеком；Mikhail Afonin = 技术/采购；用户标重要）——第一档 ｜ 筛子：2（芯片/产地尽调） ｜ 停点：两年两问都是尽调，没有需求；「工厂在哪个城市」问的是制造商身份——Alan 答「based on China」回避了 ｜ 复活：若发：直接说明 Saga 模式（工程 + 供应链，SmartByte 制造）+ CENTEC 型号表 ｜ 通路：RU（点名） ｜ 节奏：一封 ｜ 证据：k=a8f5e788a70b0a31 / f954ab2b523be0e6 / 3c59867d902a0b69；第 19 批回补来信原文 1 条（gmail_s/gmail_a）
+- **绑定等级：轻度触达（2 封技术尽调：2024-06「What manufacturer is the chip?」；2026-05「What city is your factory located in? Do you produce switches based on Microchip and Centec chips?」→ Alan：China；Marvell + CENTEC）；Elsa 1:1 去信 1 封（2025-02-28「24 Port Fiber Switch」；To 仅本户 sale@npotelecom.ru；Bcc 未逐封读头；同类名单抽读 24 封均无 Bcc；此后再未进 Elsa 任何名单——全箱 `from:e.sagatelecom to:sale@npotelecom.ru` 仅此 1 条，complete）（第 74 批(m)）** ｜ 类型：俄罗斯电信设备企业（НПО Телеком；Mikhail Afonin = 技术/采购；用户标重要）——第一档 ｜ 筛子：2（芯片/产地尽调） ｜ 停点：两年两问都是尽调，没有需求；「工厂在哪个城市」问的是制造商身份——Alan 答「based on China」回避了 ｜ 复活：若发：直接说明 Saga 模式（工程 + 供应链，SmartByte 制造）+ CENTEC 型号表 ｜ 通路：RU（点名） ｜ 节奏：一封 ｜ 证据：k=a8f5e788a70b0a31 / f954ab2b523be0e6 / 3c59867d902a0b69；第 19 批回补来信原文 1 条（gmail_s/gmail_a）
 - **现状一句话**：—
 - **对方真实需求（有据）**：CENTEC/Microchip 平台交换机（自有产品线对标）。
 - **断点 / 为什么停在这里**：身份回答。
 - **Saga 现在该推什么**：P1 **STH 系列**（30% 档，按 CENTEC 价表；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-19 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-17 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-24 $280（10G Enterprise SFP Switch））——用户标重要 + CENTEC 对口。已打开的主题（9/26 封有打开记录）：「Power Converter」(2024-09-16)、「10G Enterprise SFP Switch」(2026-05-11)、「Re: 10G Enterprise SFP Switch」(2026-05-12)、「Re: 10G Enterprise SFP Switch」(2026-05-15) → 读者兴趣偏「工业」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-03-13)、Product Link_2026Q3(2026-07-02)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）
-- **下一步（具体）**：2026-11　A 邮箱 → afonin@npotelecom.ru　首封前知悉：Elsa 2025-02-28 单发过「24 Port Fiber Switch」（未见回复（Elsa 箱 Replied 标签无））；CENTEC 表 + 身份说明
+- **下一步（具体）**：2026-11　A 邮箱 → afonin@npotelecom.ru　首封前知悉：Elsa 仅 2025-02-28 单发过 1 封「24 Port Fiber Switch」，之后没再碰他（第 74 批(m)）；CENTEC 表 + 身份说明
   - 第一问（只问一个）：Mikhail — Zhengzhou engineering + Shenzhen partner factories; Marvell/CENTEC/Realtek, no Microchip; which platform are you evaluating, OEM label or reference design?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2024-06-05 | 来 | afonin@npotelecom.ru | Hi Simon, What manufacturer is the chip inside your switch? С уважением, Михаил Афонин 8 /3412/ 57 30 31, 8 912 854 73 58 Kind regards, Mikhail Afonin | 来信原文（主题「RE: Industrial fiber switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话） | `a8f5e788a70b0a31` |
-| 2026-05-12 | 来 | Mikhail Afonin | What city is your factory located in? Do you produce switches based on Microchip and Centec chips? | 尽调 | `f954ab2b523be0e6` |
 | 2025-02-28 | out | Elsa → sale@npotelecom.ru | 24 Port Fiber Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
+| 2026-05-12 | 来 | Mikhail Afonin | What city is your factory located in? Do you produce switches based on Microchip and Centec chips? | 尽调 | `f954ab2b523be0e6` |
 
 ## 基本事实（事实/推断/假设分层）
 

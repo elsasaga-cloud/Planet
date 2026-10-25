@@ -1,146 +1,146 @@
 {
- "code": "SB-1061",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（cominet.co.kr，快照 2026-10-21）",
- "summary": "韩国 Cominet（光中继/光传输 OIRU-80S / OIRP-100S / OIRP-160S-FT、CMS-7010 / CMS-5006 交换机、红外热像仪、KMC 摄像机；表内「工业 FS fiber solution」「可以尝试多跟进一下」；邮箱 tcsong@）；群发 23 次无回复。",
- "type": "韩国光传输/安防设备商（自有 CMS 系列交换机）",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：Cominet；品类词 安防监控（CCTV / 门禁） / 数据中心 / 企业 IT / 网络交换 / PoE",
-   "quote": "주메뉴；QNSS-KMC100C；Live Video Demo；IR Thermal Camera；OIRU-80S；OIRP-100S",
-   "url": "http://cominet.co.kr/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "工业FS fiber solution",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "Cominet 首页",
-   "quote": "Cominet ; QNSS-KMC100C ; IR Thermal Camera ; OIRU-80S ; OIRP-100S ; OIRP-160S-FT ; CMS-7010",
-   "url": "http://cominet.co.kr/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "工业 FS fiber solution",
-   "quote": "工业FS fiber solution；可以尝试多跟进一下",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "（tcsong，姓名待核）",
-   "title": "（职务待核）",
-   "email": "tcsong@cominet.co.kr",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "韩国",
-  "other": "官网 cominet.co.kr，语言 ko，快照状态 ok；角色判定来源：用户表"
- },
- "business_lines": [
-  "光中继 / 光传输",
-  "安防摄像 / 热像",
-  "交换机（CMS 系列）"
- ],
- "channels": {
-  "role": "韩国光传输/安防设备商（自有 CMS 系列交换机）",
-  "region": "韩国",
-  "contact": "tcsong@cominet.co.kr"
- },
- "signals": [
-  "首页 QNSS-KMC100C ; Live Video Demo ; IR Thermal Camera ; OIRU-80S ; OIRP-100S ; OIRP-160S-FT；站内 CMS-7010 / CMS-5006；kw switch 23 / poe 21",
-  "表内：工业 FS fiber solution；可以尝试多跟进一下"
- ],
- "risks": [
-  "非主攻区（T5，韩国）；主业光中继/热像（Saga 不做），交换机为配套",
-  "23 次无回复，仅个人邮箱 tcsong@（姓名/职务待核）"
- ],
- "saga_fit": {
-  "p1": "STI-288GPM",
-  "tier": 30,
-  "why": "自有 CMS 系列 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）贴 Cominet 标；MC 位 STI-110GE"
- },
- "email_hook": "For the CMS-series switches that ship with your optical repeater and camera systems, we can supply Marvell-based DIN-rail 8-PoE + 2 SFP managed and gigabit MC units under the Cominet label from small lots, CE/RoHS; KC by your side — which configuration do your projects use most?",
- "mail_review": {
-  "binding": {
-   "level": "读而不回（A/S 邮箱 35 封 2024→2026，其中 2 封被打开，0 回；收件 tcsong@cominet.co.kr；被打开主题「Marvell Industrial Alert System、Industrial PoE Switch」）；Elsa 单发去信 1 封（2025-02-28「90W PoE Managed Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）",
-   "type": "韩国光传输/安防设备商（自有 CMS 系列交换机）",
-   "sieve": "2（有人在读，无人回）",
-   "stop": "读而不回 = 内容未命中或没有当下需求",
-   "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
-   "lane": "KR 次级（点名）",
-   "cadence": "一封；回了再说",
-   "evidence": "gmail_digest：out 35，Opened 标签 2（Simon 群发追踪）；用户表：「工业FS fiber solution」；研究档 risks：非主攻区（T5，韩国）；主业光中继/热像（Saga 不做），交换机为配套"
-  },
-  "situation": "韩国 Cominet（光中继/光传输 OIRU-80S / OIRP-100S / OIRP-160S-FT、CMS-7010 / CMS-5006 交换机、红外热像仪、KMC 摄像机；表内「工业 FS fiber solution」「可以尝试多跟进一下」；邮箱 tcsong@）；群发 23 次无回复。",
-  "need": "自有 CMS 系列 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）贴 Cominet 标；MC 位 STI-110GE",
-  "breakpoint": "非主攻区（T5，韩国）；主业光中继/热像（Saga 不做），交换机为配套",
-  "saga_now": {
-   "p1": "STI-288GPM",
-   "tier": 30,
-   "price": "首触锚价 STI-288GPM $85.5 EXW（主表档位（PDF 上限 $88；SA-026 2025-07 实报 $72 为分销量价）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-06-27 $220（Commercial managed switch）、2024-09-24 $65（10G Media Converter）、2024-11-25 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-25 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-07-24 $240（24 Port Fiber Switch）、2025-10-01 $280（10G Enterprise SFP Switch）、2026-06-12 $16000（32 Port 400GB DC Switch）",
-   "why": "自有 CMS 系列 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）贴 Cominet 标；MC 位 STI-110GE。已打开的主题（2/35 封有打开记录）：「Updated Ethernet Switches Links」(2026-02-27)、「24 Port PoE Managed Switch」(2026-08-25) → 读者兴趣偏「固件/功能」；与 P1 同类，继续｜已发资料（勿重发）：Saga Software Function List-release 7.(2025-03-27)、Product Link_2026Q2(2026-02-27)、Product Link_2026Q3(2026-07-06)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "2026-11",
-   "channel": "A 邮箱 → tcsong@cominet.co.kr",
-   "action": "首封前知悉：Elsa 2025-02-28 单发过「90W PoE Managed Switch」（未见回复（Elsa 箱 Replied 标签无））；短信一问（email_hook）",
-   "one_question": "For the CMS-series switches that ship with your optical repeater and camera systems, we can supply Marvell-based DIN-rail 8-PoE + 2 SFP managed and gigabit MC units under the Cominet label from small lots, CE/RoHS; KC by your side — which configuration do your projects use most? Reference: STI-288GPM at $85.5 USD EXW (MOQ 1, 15-day validity)."
-  },
-  "facts": [
-   {
-    "date": "2026-09-18",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "Marvell Industrial Alert System、Industrial PoE Switch",
-    "why": "35 封 / 2 次打开 / 0 回｜首封 2024-06-24 → 末封 2026-09-18（35 去 / 0 来）",
-    "k": "gmail_digest"
-   },
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "工业FS fiber solution",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2025-02-28",
-    "dir": "out",
-    "who": "Elsa → tcsong@cominet.co.kr",
-    "quote": "90W PoE Managed Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
-    "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
-    "k": "elsa_1to1",
-    "msg_id": "1954a7f1e60d6ab0"
-   }
+  "code": "SB-1061",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（cominet.co.kr，快照 2026-10-21）",
+  "summary": "韩国 Cominet（光中继/光传输 OIRU-80S / OIRP-100S / OIRP-160S-FT、CMS-7010 / CMS-5006 交换机、红外热像仪、KMC 摄像机；表内「工业 FS fiber solution」「可以尝试多跟进一下」；邮箱 tcsong@）；群发 23 次无回复。",
+  "type": "韩国光传输/安防设备商（自有 CMS 系列交换机）",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：Cominet；品类词 安防监控（CCTV / 门禁） / 数据中心 / 企业 IT / 网络交换 / PoE",
+      "quote": "주메뉴；QNSS-KMC100C；Live Video Demo；IR Thermal Camera；OIRU-80S；OIRP-100S",
+      "url": "http://cominet.co.kr/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "工业FS fiber solution",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "Cominet 首页",
+      "quote": "Cominet ; QNSS-KMC100C ; IR Thermal Camera ; OIRU-80S ; OIRP-100S ; OIRP-160S-FT ; CMS-7010",
+      "url": "http://cominet.co.kr/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "工业 FS fiber solution",
+      "quote": "工业FS fiber solution；可以尝试多跟进一下",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [],
-  "draft_en": {
-   "subject": "One question — Marvell Industrial Alert System",
-   "body": "Hi Tcsong,\n\nWe have sent you a few mails on \"Marvell Industrial Alert System\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor the CMS-series switches that ship with your optical repeater and camera systems, we can supply Marvell-based DIN-rail 8-PoE + 2 SFP managed and gigabit MC units under the Cominet label from small lots, CE/RoHS; KC by your side — which configuration do your projects use most?\n\nReference price: DIN-rail 8-PoE + 2 SFP L2 managed industrial switch, 240 W (STI-288GPM) $85.5 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+  "kp": [
+    {
+      "name": "（tcsong，姓名待核）",
+      "title": "（职务待核）",
+      "email": "tcsong@cominet.co.kr",
+      "phone": "",
+      "source": "用户表"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
   },
-  "as_of": "2026-10-24"
- }
+  "company_facts": {
+    "hq": "韩国",
+    "other": "官网 cominet.co.kr，语言 ko，快照状态 ok；角色判定来源：用户表"
+  },
+  "business_lines": [
+    "光中继 / 光传输",
+    "安防摄像 / 热像",
+    "交换机（CMS 系列）"
+  ],
+  "channels": {
+    "role": "韩国光传输/安防设备商（自有 CMS 系列交换机）",
+    "region": "韩国",
+    "contact": "tcsong@cominet.co.kr"
+  },
+  "signals": [
+    "首页 QNSS-KMC100C ; Live Video Demo ; IR Thermal Camera ; OIRU-80S ; OIRP-100S ; OIRP-160S-FT；站内 CMS-7010 / CMS-5006；kw switch 23 / poe 21",
+    "表内：工业 FS fiber solution；可以尝试多跟进一下"
+  ],
+  "risks": [
+    "非主攻区（T5，韩国）；主业光中继/热像（Saga 不做），交换机为配套",
+    "23 次无回复，仅个人邮箱 tcsong@（姓名/职务待核）"
+  ],
+  "saga_fit": {
+    "p1": "STI-288GPM",
+    "tier": 30,
+    "why": "自有 CMS 系列 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）贴 Cominet 标；MC 位 STI-110GE"
+  },
+  "email_hook": "For the CMS-series switches that ship with your optical repeater and camera systems, we can supply Marvell-based DIN-rail 8-PoE + 2 SFP managed and gigabit MC units under the Cominet label from small lots, CE/RoHS; KC by your side — which configuration do your projects use most?",
+  "mail_review": {
+    "binding": {
+      "level": "读而不回（A/S 邮箱 35 封 2024→2026，其中 2 封被打开，0 回；收件 tcsong@cominet.co.kr；被打开主题「Marvell Industrial Alert System、Industrial PoE Switch」）；Elsa 1:1 去信 1 封（2025-02-28「90W PoE Managed Switch」；To 仅本户 tcsong@cominet.co.kr；Bcc 未逐封读头；同类名单抽读 24 封均无 Bcc；此后再未进 Elsa 任何名单——全箱 `from:e.sagatelecom to:tcsong@cominet.co.kr` 仅此 1 条，complete）（第 74 批(m)）",
+      "type": "韩国光传输/安防设备商（自有 CMS 系列交换机）",
+      "sieve": "2（有人在读，无人回）",
+      "stop": "读而不回 = 内容未命中或没有当下需求",
+      "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
+      "lane": "KR 次级（点名）",
+      "cadence": "一封；回了再说",
+      "evidence": "gmail_digest：out 35，Opened 标签 2（Simon 群发追踪）；用户表：「工业FS fiber solution」；研究档 risks：非主攻区（T5，韩国）；主业光中继/热像（Saga 不做），交换机为配套"
+    },
+    "situation": "韩国 Cominet（光中继/光传输 OIRU-80S / OIRP-100S / OIRP-160S-FT、CMS-7010 / CMS-5006 交换机、红外热像仪、KMC 摄像机；表内「工业 FS fiber solution」「可以尝试多跟进一下」；邮箱 tcsong@）；群发 23 次无回复。",
+    "need": "自有 CMS 系列 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）贴 Cominet 标；MC 位 STI-110GE",
+    "breakpoint": "非主攻区（T5，韩国）；主业光中继/热像（Saga 不做），交换机为配套",
+    "saga_now": {
+      "p1": "STI-288GPM",
+      "tier": 30,
+      "price": "首触锚价 STI-288GPM $85.5 EXW（主表档位（PDF 上限 $88；SA-026 2025-07 实报 $72 为分销量价）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-06-27 $220（Commercial managed switch）、2024-09-24 $65（10G Media Converter）、2024-11-25 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-25 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-07-24 $240（24 Port Fiber Switch）、2025-10-01 $280（10G Enterprise SFP Switch）、2026-06-12 $16000（32 Port 400GB DC Switch）",
+      "why": "自有 CMS 系列 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）贴 Cominet 标；MC 位 STI-110GE。已打开的主题（2/35 封有打开记录）：「Updated Ethernet Switches Links」(2026-02-27)、「24 Port PoE Managed Switch」(2026-08-25) → 读者兴趣偏「固件/功能」；与 P1 同类，继续｜已发资料（勿重发）：Saga Software Function List-release 7.(2025-03-27)、Product Link_2026Q2(2026-02-27)、Product Link_2026Q3(2026-07-06)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "2026-11",
+      "channel": "A 邮箱 → tcsong@cominet.co.kr",
+      "action": "首封前知悉：Elsa 仅 2025-02-28 单发过 1 封「90W PoE Managed Switch」，之后没再碰他（第 74 批(m)）；短信一问（email_hook）",
+      "one_question": "For the CMS-series switches that ship with your optical repeater and camera systems, we can supply Marvell-based DIN-rail 8-PoE + 2 SFP managed and gigabit MC units under the Cominet label from small lots, CE/RoHS; KC by your side — which configuration do your projects use most? Reference: STI-288GPM at $85.5 USD EXW (MOQ 1, 15-day validity)."
+    },
+    "facts": [
+      {
+        "date": "2025-02-28",
+        "dir": "out",
+        "who": "Elsa → tcsong@cominet.co.kr",
+        "quote": "90W PoE Managed Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+        "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
+        "k": "elsa_1to1",
+        "msg_id": "1954a7f1e60d6ab0"
+      },
+      {
+        "date": "2026-09-18",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "Marvell Industrial Alert System、Industrial PoE Switch",
+        "why": "35 封 / 2 次打开 / 0 回｜首封 2024-06-24 → 末封 2026-09-18（35 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "工业FS fiber solution",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": {
+      "subject": "One question — Marvell Industrial Alert System",
+      "body": "Hi Tcsong,\n\nWe have sent you a few mails on \"Marvell Industrial Alert System\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor the CMS-series switches that ship with your optical repeater and camera systems, we can supply Marvell-based DIN-rail 8-PoE + 2 SFP managed and gigabit MC units under the Cominet label from small lots, CE/RoHS; KC by your side — which configuration do your projects use most?\n\nReference price: DIN-rail 8-PoE + 2 SFP L2 managed industrial switch, 240 W (STI-288GPM) $85.5 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+    },
+    "as_of": "2026-10-24"
+  }
 }

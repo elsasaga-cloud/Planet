@@ -38,28 +38,34 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — 已打开的主题（4/9 封有打开记录）：「Industrial Ethernet Switch」(2024-05-22)、「Re: Industrial Ethernet Switch」(2024-05-25)、「Re: Industrial Ethernet Switch」(2024-06-30)、「Re: Industrial Ethernet Switch」(2024-07-31) → 读者兴趣偏「工业」；与 P1 同类，继续；—；群发里他已看到的价（续，第 66 批全量复核）：2024-09-30 $65（10G Media Converter）、2024-12-05 $300（48 Port PoE Managed Switch）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：公司网站（表内无域名，无法核实是否仍在运营）
-- **下一步**：不动 — 首封前知悉：Elsa 2026-05-11 单发过「10G Enterprise SFP Switch」（未见回复（Elsa 箱 Replied 标签无））；—
+- **下一步**：不动 — 首封前知悉：Elsa 已 1:1 去信 9 轮（2025-02-28→2026-08-04，客户回过信（2025-04-08））（第 74 批(m)）；—
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1275` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：轻度触达（2024-05-24 Waseem「send me your website」→ Drive 链接；2025-02-28 Elsa 邮箱再回「no need sample… we promote your product in Pakistan」= 想做推广不是买）；Elsa 单发去信 1 封（2026-05-11「10G Enterprise SFP Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）；另 Elsa 单发 1 封（2025-02-28「Mini Industrial PoE Switch」）；另 Elsa 单发 1 封（2025-12-29「Marvell Industrial Alert System」）** ｜ 类型：巴基斯坦电源/工程（Power Logic；Gmail） ｜ 筛子：1 ｜ 停点：— ｜ 复活：不动 ｜ 通路：PK ｜ 节奏：不动 ｜ 证据：k=53639b11bc8d96b5；第 19 批回补来信原文 1 条（gmail_s/gmail_a）；gmail_e 2025-02-28 回信 + Elsa 2025-04-08 再回（正文已入库，第 73 批：只给下载链接）
+- **绑定等级：轻度触达（2024-05-24 Waseem「send me your website」→ Drive 链接；2025-02-28 Elsa 邮箱再回「no need sample… we promote your product in Pakistan」= 想做推广不是买）；Elsa 1:1 去信 9 轮 2025-02-28→2026-08-04（To 仅本户 powerlogic1965@gmail.com；头 msg 19fcc129f517e2e1 核对无 Bcc，称呼「Hi, Waseem」= 个性化逐月 1:1 名单；主题 Updated Ethernet Switches Links、Industrial PoE Switch、10G Enterprise SFP Switch、24 Port PoE Managed Switch…；客户来过信：Elsa 回 2025-04-08 Re:「Mini Industrial PoE Switch」）（第 74 批(m) `from:e.sagatelecom to:` 全程 complete，直收 10 条）** ｜ 类型：巴基斯坦电源/工程（Power Logic；Gmail） ｜ 筛子：1 ｜ 停点：— ｜ 复活：不动 ｜ 通路：PK ｜ 节奏：不动 ｜ 证据：k=53639b11bc8d96b5；第 19 批回补来信原文 1 条（gmail_s/gmail_a）；gmail_e 2025-02-28 回信 + Elsa 2025-04-08 再回（正文已入库，第 73 批：只给下载链接）
 - **现状一句话**：—
 - **对方真实需求（有据）**：—
 - **断点 / 为什么停在这里**：—
 - **Saga 现在该推什么**：P1 **—**（20% 档，—；群发里他已看到的价（续，第 66 批全量复核）：2024-09-30 $65（10G Media Converter）、2024-12-05 $300（48 Port PoE Managed Switch））——已打开的主题（4/9 封有打开记录）：「Industrial Ethernet Switch」(2024-05-22)、「Re: Industrial Ethernet Switch」(2024-05-25)、「Re: Industrial Ethernet Switch」(2024-06-30)、「Re: Industrial Ethernet Switch」(2024-07-31) → 读者兴趣偏「工业」；与 P1 同类，继续
-- **下一步（具体）**：不动　—　首封前知悉：Elsa 2026-05-11 单发过「10G Enterprise SFP Switch」（未见回复（Elsa 箱 Replied 标签无））；—
+- **下一步（具体）**：不动　—　首封前知悉：Elsa 已 1:1 去信 9 轮（2025-02-28→2026-08-04，客户回过信（2025-04-08））（第 74 批(m)）；—
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2024-05-24 | 来 | powerlogic1965@gmail.com | hello good morning thankyou for the email . please send me your website i want to see what product you are making very best regard waseem zafar | 来信原文（主题「Re: Industrial Ethernet Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话） | `53639b11bc8d96b5` |
 | 2024-05-25 | 去 | Saga（Simon） | Hi, Waseem, Please see below link. *https://drive.google.com/drive/folders/10pI-PIGftC6UVEngjg_cLlC8-X14fA9A?usp=drive_link* <https://drive.google.com/drive/folders/10pI-PIGftC6UVEngjg_cLlC8-X14fA9A?usp=drive_link> In the *PROFILE*, there are some download links(on page 13). It contains FULL informa… | Saga 实质答复原文（主题「Re: Industrial Ethernet Switch」；第 20 批从 gmail_s 回补）——承诺/口径以此为准 | `e8ccb44bae99d13f` |
 | 2025-02-28 | 来 | Wasim Zafar / Waseem Shah（FM Electric Company，巴基斯坦；powerlogic1965@gmail.com） | Right now no need sample. We requested to you if you want we promote your product in Pakistan it's owned for us. First of all please guide us your product function and how to used it. Then we introduced your product to our clients | Elsa 邮箱 2025-02-28「Mini Industrial PoE Switch」群发的回信：不是买家，是想做巴基斯坦推广/代理、要先学产品；Elsa 04-08 再回（正文未入库）。与 2024-05「send me your website」一致 = 两次都停在「给我资料」。用户表「有回复·跟进中」的来源就是这两封；没有任何询价/数量 → 维持不动，除非他报出一个具体项目 | `gmail_e index_replied 2025-02-28 / 2025-04-08` |
-| 2025-04-08 | 去 | Elsa | Please see attached download link file. Each link contains full information about our products. Please check and let me know the interested models.（附 Download Link.pdf + MINI.png） | 对 02-28「想做推广不是买」隔 39 天只回下载链接 → 无下文；不动不变 | `gmail_e 19614d7a8d5db131` |
-| 2026-05-11 | out | Elsa → powerlogic1965@gmail.com | 10G Enterprise SFP Switch（Elsa 2026 年 1:1 名单重发；To 仅本户） | 本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 | 2025-02-28 | out | Elsa → powerlogic1965@gmail.com | Mini Industrial PoE Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；之后 Elsa 箱 Replied 标签见 2025-02-28 来信 | `elsa_1to1` |
+| 2025-04-08 | 去 | Elsa | Please see attached download link file. Each link contains full information about our products. Please check and let me know the interested models.（附 Download Link.pdf + MINI.png） | 对 02-28「想做推广不是买」隔 39 天只回下载链接 → 无下文；不动不变 | `gmail_e 19614d7a8d5db131` |
+| 2025-05-12 | out | Elsa → powerlogic1965@gmail.com | 16 Port Ethernet Switch（Elsa 1:1 逐月名单第 2/9 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:powerlogic1965@gmail.com` 全程 complete：9 轮直收；客户曾来信（见 Re: 行） | `elsa_1to1` |
+| 2025-06-22 | out | Elsa → powerlogic1965@gmail.com | 8 Port Industrial PoE Switch（Elsa 1:1 逐月名单第 3/9 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:powerlogic1965@gmail.com` 全程 complete：9 轮直收；客户曾来信（见 Re: 行） | `elsa_1to1` |
+| 2025-12-04 | out | Elsa → powerlogic1965@gmail.com | Booster PoE Switch（Elsa 1:1 逐月名单第 4/9 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:powerlogic1965@gmail.com` 全程 complete：9 轮直收；客户曾来信（见 Re: 行） | `elsa_1to1` |
 | 2025-12-29 | out | Elsa → powerlogic1965@gmail.com | Marvell Industrial Alert System（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
+| 2026-03-02 | out | Elsa → powerlogic1965@gmail.com | Updated Ethernet Switches Links（Elsa 1:1 逐月名单第 6/9 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:powerlogic1965@gmail.com` 全程 complete：9 轮直收；客户曾来信（见 Re: 行） | `elsa_1to1` |
+| 2026-04-03 | out | Elsa → powerlogic1965@gmail.com | Industrial PoE Switch（Elsa 1:1 逐月名单第 7/9 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:powerlogic1965@gmail.com` 全程 complete：9 轮直收；客户曾来信（见 Re: 行） | `elsa_1to1` |
+| 2026-05-11 | out | Elsa → powerlogic1965@gmail.com | 10G Enterprise SFP Switch（Elsa 2026 年 1:1 名单重发；To 仅本户） | 本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
+| 2026-08-04 | out | Elsa → powerlogic1965@gmail.com | 24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 9/9 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:powerlogic1965@gmail.com` 全程 complete：9 轮直收；客户曾来信（见 Re: 行） | `elsa_1to1` |
 
 ## 基本事实（事实/推断/假设分层）
 

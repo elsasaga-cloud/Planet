@@ -42,7 +42,7 @@ updated: 2026-10-25
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-530` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-25。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（2 封自动回复）；Elsa 1:1 去信 2025-02-18「8 Port Industrial PoE Switch」（To sales@dynamode.co.uk），0 回（Elsa 箱 in:sent 核对 msg 19519c8b85ba846e）** ｜ 类型：英国自有品牌网络配件商（Dynamode） ｜ 筛子：0 ｜ 停点：自动回复/机器人，无人工回复 ｜ 复活：不动 ｜ 通路：UK ｜ 节奏：不动 ｜ 证据：k=38c9744f2d9b362b / 1796d3be871fec93；data/gmail_e/elsa_sent_tld_probe_2026-10-25.json（国别后缀探测，该国 Elsa 触达全集 complete:true）
+- **绑定等级：未触达（2 封自动回复）；Elsa 1:1 去信 1 封（2025-02-18「8 Port Industrial PoE Switch」；To 仅本户 sales@dynamode.co.uk；Bcc 未逐封读头；同类名单抽读 24 封均无 Bcc；此后再未进 Elsa 任何名单——全箱 `from:e.sagatelecom to:sales@dynamode.co.uk` 仅此 1 条，complete）（第 74 批(m)）** ｜ 类型：英国自有品牌网络配件商（Dynamode） ｜ 筛子：0 ｜ 停点：自动回复/机器人，无人工回复 ｜ 复活：不动 ｜ 通路：UK ｜ 节奏：不动 ｜ 证据：k=38c9744f2d9b362b / 1796d3be871fec93；data/gmail_e/elsa_sent_tld_probe_2026-10-25.json（国别后缀探测，该国 Elsa 触达全集 complete:true）
 - **现状一句话**：来信全部为机器回复；无人读信或无人回信。
 - **对方真实需求（有据）**：—
 - **断点 / 为什么停在这里**：—

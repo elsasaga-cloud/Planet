@@ -1,132 +1,132 @@
 {
- "code": "SB-165",
- "name_official": "Advanced Innovations S.r.l.（意大利蒙扎）",
- "researched_at": "2026-10-21",
- "website_status": "在线（ad-in.net，快照 2026-10-21）",
- "summary": "意大利 **Uniview 与 UTEPO 官方分销商**（集团 1979 年成立，安防系统制造与分销；sfp 422 / switch 163 / poe 114 / industrial 43；+39 039 682 9636），Vice President Fabio Cavalleri（表内「可多跟进」）；表内「MC 工业 FS 机架式 PoE SFP；MC 统一外壳；UTEPO 工业 FS」；群发 13 次无回复。UTEPO（中国同行）渠道 → 直接对位。",
- "type": "",
- "size": "",
- "brands_seen": [
-  "Uniview",
-  "UTEPO"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "Uniview 与 UTEPO 官方分销商；集团 1979 年成立，安防系统制造与分销；+39 039 682 96 36",
-   "quote": "Advanced Innovations distributore ufficiale UNIVIEW e UTEPO… parte di un gruppo fondato nel 1979 specializzato nella produzione e distribuzione di sistemi di sicurezza",
-   "url": "https://ad-in.net/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "MC 工业 FS 机架式 PoE SFP；MC 是统一外壳；Upeto 工业 FS；可以尝试多跟进一下",
-   "quote": "兴趣：MC 工业FS 机架式 PoE SFP MC是统一外壳 Upeto工业FS",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Fabio Cavalleri",
-   "title": "Vice President",
-   "email": "fabio@ad-in.net",
-   "phone": "+39 039 682 9636",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照核对 + 表内）"
- },
- "company_facts": {
-  "legal_name": "Advanced Innovations S.r.l.",
-  "founded": "集团 1979",
-  "hq": "Monza, Italy（+39 039）",
-  "size": "中型安防分销",
-  "other": "UTEPO 意大利官方分销"
- },
- "business_lines": [
-  "Uniview 监控分销",
-  "UTEPO 交换机 / MC 分销"
- ],
- "channels": {
-  "role": "安防分销商（UTEPO 渠道）",
-  "region": "意大利"
- },
- "signals": [
-  "UTEPO 官方分销 → Saga 作为第二货源 / 高配（Marvell 管理型）补位",
-  "VP 具名"
- ],
- "risks": [
-  "UTEPO 排他性未知；13 次群发无回复"
- ],
- "saga_fit": {
-  "p1": "STI-288GPM",
-  "tier": 20,
-  "why": "UTEPO 工业线之上的管理型 → STI-288GPM（$78.9 @20%，Marvell）；机架 PoE STC-424DGGPM-280W。"
- },
- "email_hook": "Fabio, as the UTEPO house in Italy you know the value tier well — our Marvell-based DIN managed 8-PoE + 2-SFP ($79 EXW) and 24-PoE rack unit ($135) could be the managed step-up beside it; is your UTEPO agreement exclusive for switches?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A/S 邮箱 19 封 2024→2026，无记录打开，0 回；收件 fabio@ad-in.net, info@ad-in.net；主题多为「Marvell Alleycat5 Solution、16 Port Ethernet Switch」）；Elsa 单发去信 1 封（2025-02-17「L3 Managed Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）",
-   "type": "—",
-   "sieve": "1（只收到群发）",
-   "stop": "19 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "意大利（欧洲全域主攻）",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 19；用户表：「兴趣：MC 工业FS 机架式 PoE SFP MC是统一外壳 Upeto工业FS」；研究档 risks：UTEPO 排他性未知；13 次群发无回复"
-  },
-  "situation": "意大利 **Uniview 与 UTEPO 官方分销商**（集团 1979 年成立，安防系统制造与分销；sfp 422 / switch 163 / poe 114 / industrial 43；+39 039 682 9636），Vice President Fabio Cavalleri（表内「可多跟进」）；表内「MC 工业 FS 机架式 PoE SFP；MC 统一外壳；UTEPO 工业 FS」；群发 13 次无回复。UTEPO（中国同行）渠道 → 直接对位。",
-  "need": "UTEPO 工业线之上的管理型 → STI-288GPM（$78.9 @20%，Marvell）；机架 PoE STC-424DGGPM-280W。",
-  "breakpoint": "UTEPO 排他性未知；13 次群发无回复",
-  "saga_now": {
-   "p1": "STI-288GPM",
-   "tier": 20,
-   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-22 $65（10G media converter）、2024-11-13 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-16 $280（10G Enterprise SFP Switch）",
-   "why": "UTEPO 工业线之上的管理型 → STI-288GPM（$78.9 @20%，Marvell）；机架 PoE STC-424DGGPM-280W。",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "首封前知悉：Elsa 2025-02-17 单发过「L3 Managed Switch」（未见回复（Elsa 箱 Replied 标签无））；观察打开",
-   "one_question": "Fabio, as the UTEPO house in Italy you know the value tier well — our Marvell-based DIN managed 8-PoE + 2-SFP ($79 EXW) and 24-PoE rack unit ($135) could be the managed step-up beside it; is your UTEPO agreement exclusive for switches?"
-  },
-  "facts": [
-   {
-    "date": "2026-09-16",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "Marvell Alleycat5 Solution、16 Port Ethernet Switch",
-    "why": "19 封 / 0 次打开 / 0 回｜首封 2024-07-04 → 末封 2026-09-16（19 去 / 0 来）",
-    "k": "gmail_digest"
-   },
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "兴趣：MC 工业FS 机架式 PoE SFP MC是统一外壳 Upeto工业FS",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2025-02-17",
-    "dir": "out",
-    "who": "Elsa → info@ad-in.net",
-    "quote": "L3 Managed Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
-    "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
-    "k": "elsa_1to1",
-    "msg_id": "19514356a4871b8e"
-   }
+  "code": "SB-165",
+  "name_official": "Advanced Innovations S.r.l.（意大利蒙扎）",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（ad-in.net，快照 2026-10-21）",
+  "summary": "意大利 **Uniview 与 UTEPO 官方分销商**（集团 1979 年成立，安防系统制造与分销；sfp 422 / switch 163 / poe 114 / industrial 43；+39 039 682 9636），Vice President Fabio Cavalleri（表内「可多跟进」）；表内「MC 工业 FS 机架式 PoE SFP；MC 统一外壳；UTEPO 工业 FS」；群发 13 次无回复。UTEPO（中国同行）渠道 → 直接对位。",
+  "type": "",
+  "size": "",
+  "brands_seen": [
+    "Uniview",
+    "UTEPO"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "Uniview 与 UTEPO 官方分销商；集团 1979 年成立，安防系统制造与分销；+39 039 682 96 36",
+      "quote": "Advanced Innovations distributore ufficiale UNIVIEW e UTEPO… parte di un gruppo fondato nel 1979 specializzato nella produzione e distribuzione di sistemi di sicurezza",
+      "url": "https://ad-in.net/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "MC 工业 FS 机架式 PoE SFP；MC 是统一外壳；Upeto 工业 FS；可以尝试多跟进一下",
+      "quote": "兴趣：MC 工业FS 机架式 PoE SFP MC是统一外壳 Upeto工业FS",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [
+    {
+      "name": "Fabio Cavalleri",
+      "title": "Vice President",
+      "email": "fabio@ad-in.net",
+      "phone": "+39 039 682 9636",
+      "source": "（本地 Clients/ 表格，无公开 URL）"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（官网快照核对 + 表内）"
+  },
+  "company_facts": {
+    "legal_name": "Advanced Innovations S.r.l.",
+    "founded": "集团 1979",
+    "hq": "Monza, Italy（+39 039）",
+    "size": "中型安防分销",
+    "other": "UTEPO 意大利官方分销"
+  },
+  "business_lines": [
+    "Uniview 监控分销",
+    "UTEPO 交换机 / MC 分销"
+  ],
+  "channels": {
+    "role": "安防分销商（UTEPO 渠道）",
+    "region": "意大利"
+  },
+  "signals": [
+    "UTEPO 官方分销 → Saga 作为第二货源 / 高配（Marvell 管理型）补位",
+    "VP 具名"
+  ],
+  "risks": [
+    "UTEPO 排他性未知；13 次群发无回复"
+  ],
+  "saga_fit": {
+    "p1": "STI-288GPM",
+    "tier": 20,
+    "why": "UTEPO 工业线之上的管理型 → STI-288GPM（$78.9 @20%，Marvell）；机架 PoE STC-424DGGPM-280W。"
+  },
+  "email_hook": "Fabio, as the UTEPO house in Italy you know the value tier well — our Marvell-based DIN managed 8-PoE + 2-SFP ($79 EXW) and 24-PoE rack unit ($135) could be the managed step-up beside it; is your UTEPO agreement exclusive for switches?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A/S 邮箱 19 封 2024→2026，无记录打开，0 回；收件 fabio@ad-in.net, info@ad-in.net；主题多为「Marvell Alleycat5 Solution、16 Port Ethernet Switch」）；Elsa 1:1 去信 1 封（2025-02-17「L3 Managed Switch」；To 仅本户 info@ad-in.net；Bcc 未逐封读头；同类名单抽读 24 封均无 Bcc；此后再未进 Elsa 任何名单——全箱 `from:e.sagatelecom to:info@ad-in.net` 仅此 1 条，complete）（第 74 批(m)）",
+      "type": "—",
+      "sieve": "1（只收到群发）",
+      "stop": "19 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+      "revive": "保持季度群发到 2027-Q1；无打开即停",
+      "lane": "意大利（欧洲全域主攻）",
+      "cadence": "季度",
+      "evidence": "gmail_digest：out 19；用户表：「兴趣：MC 工业FS 机架式 PoE SFP MC是统一外壳 Upeto工业FS」；研究档 risks：UTEPO 排他性未知；13 次群发无回复"
+    },
+    "situation": "意大利 **Uniview 与 UTEPO 官方分销商**（集团 1979 年成立，安防系统制造与分销；sfp 422 / switch 163 / poe 114 / industrial 43；+39 039 682 9636），Vice President Fabio Cavalleri（表内「可多跟进」）；表内「MC 工业 FS 机架式 PoE SFP；MC 统一外壳；UTEPO 工业 FS」；群发 13 次无回复。UTEPO（中国同行）渠道 → 直接对位。",
+    "need": "UTEPO 工业线之上的管理型 → STI-288GPM（$78.9 @20%，Marvell）；机架 PoE STC-424DGGPM-280W。",
+    "breakpoint": "UTEPO 排他性未知；13 次群发无回复",
+    "saga_now": {
+      "p1": "STI-288GPM",
+      "tier": 20,
+      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-22 $65（10G media converter）、2024-11-13 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-16 $280（10G Enterprise SFP Switch）",
+      "why": "UTEPO 工业线之上的管理型 → STI-288GPM（$78.9 @20%，Marvell）；机架 PoE STC-424DGGPM-280W。",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "群发节奏",
+      "channel": "A 邮箱",
+      "action": "首封前知悉：Elsa 仅 2025-02-17 单发过 1 封「L3 Managed Switch」，之后没再碰他（第 74 批(m)）；观察打开",
+      "one_question": "Fabio, as the UTEPO house in Italy you know the value tier well — our Marvell-based DIN managed 8-PoE + 2-SFP ($79 EXW) and 24-PoE rack unit ($135) could be the managed step-up beside it; is your UTEPO agreement exclusive for switches?"
+    },
+    "facts": [
+      {
+        "date": "2025-02-17",
+        "dir": "out",
+        "who": "Elsa → info@ad-in.net",
+        "quote": "L3 Managed Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+        "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
+        "k": "elsa_1to1",
+        "msg_id": "19514356a4871b8e"
+      },
+      {
+        "date": "2026-09-16",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "Marvell Alleycat5 Solution、16 Port Ethernet Switch",
+        "why": "19 封 / 0 次打开 / 0 回｜首封 2024-07-04 → 末封 2026-09-16（19 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "兴趣：MC 工业FS 机架式 PoE SFP MC是统一外壳 Upeto工业FS",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

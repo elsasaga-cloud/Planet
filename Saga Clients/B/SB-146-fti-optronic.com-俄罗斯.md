@@ -38,25 +38,25 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-050GE — 其唯一正向回复为 5 电口工业非管理款 → STI-050GE（$17.0–18.5）做贴牌样机；MC/SFP 不推。已打开的主题（1/13 封有打开记录）：「10G media converter」(2024-09-09) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-12-13 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2024-09-09 $65（10G Media Converter）、2025-10-23 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Вы отметили интерес к 5-портовому промышленному неуправляемому коммутатору: можем поставить его под вашей маркой (нейтральная упаковка, шелкография логотипа), 5×GE DIN от $17 EXW; прислать образец и спецификацию?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；官网当前状态异常（域名不可达（DNS/连接失败））——公司是否仍在运营待核
-- **下一步**：群发节奏 A 邮箱 首封前知悉：Elsa 2025-02-28 单发过「8 Port Industrial PoE Switch」（未见回复（Elsa 箱 Replied 标签无））；观察打开
+- **下一步**：群发节奏 A 邮箱 首封前知悉：Elsa 仅 2025-02-28 单发过 1 封「8 Port Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；观察打开
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-146` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A/S 邮箱 13 封 2024→2026，1 次记录打开，0 回；收件 info@fti-optronic.com；主题多为「Marvell Alleycat5 Solution、Managed Optical Bypass Switch」）；Elsa 单发去信 1 封（2025-02-28「8 Port Industrial PoE Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）** ｜ 类型：— ｜ 筛子：1~2（1 次打开） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：RU 次级（Simon 2026-08 点名） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 13，Opened 标签 1（Simon 群发追踪）；用户表：「MC SFP 机架；2024.4.26 群发了5电口 → 有兴趣」；研究档 risks：同行：MC/SFP 不要推（其自产）
+- **绑定等级：未触达（A/S 邮箱 13 封 2024→2026，1 次记录打开，0 回；收件 info@fti-optronic.com；主题多为「Marvell Alleycat5 Solution、Managed Optical Bypass Switch」）；Elsa 1:1 去信 1 封（2025-02-28「8 Port Industrial PoE Switch」；To 仅本户 info@fti-optronic.com；Bcc 未逐封读头；同类名单抽读 24 封均无 Bcc；此后再未进 Elsa 任何名单——全箱 `from:e.sagatelecom to:info@fti-optronic.com` 仅此 1 条，complete）（第 74 批(m)）** ｜ 类型：— ｜ 筛子：1~2（1 次打开） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：RU 次级（Simon 2026-08 点名） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 13，Opened 标签 1（Simon 群发追踪）；用户表：「MC SFP 机架；2024.4.26 群发了5电口 → 有兴趣」；研究档 risks：同行：MC/SFP 不要推（其自产）
 - **现状一句话**：俄罗斯圣彼得堡的光模块/媒体转换器**制造商与品牌商** ФТИ-Оптроник（生产 1×9/SFP/SFP+/XFP/QSFP/CFP 光模块、光纤媒体转换器、转换器机箱，并售工业 MC；地址 Политехническая 28；info@fti-optronic.com，8 800 333 04 94）。表内兴趣 MC/SFP/机架，2024-04 对群发的 5 电口交换机回「有兴趣」；18 次推送 1 次实质回复。MC/SFP 与 Saga 重叠（同行），但交换机可做其品牌补充品类 → B 30%（OEM 贴牌），俄罗斯结算/合规风险注明。
 - **对方真实需求（有据）**：其唯一正向回复为 5 电口工业非管理款 → STI-050GE（$17.0–18.5）做贴牌样机；MC/SFP 不推
 - **断点 / 为什么停在这里**：同行：MC/SFP 不要推（其自产）
 - **Saga 现在该推什么**：P1 **STI-050GE**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-12-13 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2024-09-09 $65（10G Media Converter）、2025-10-23 $280（10G Enterprise SFP Switch））——其唯一正向回复为 5 电口工业非管理款 → STI-050GE（$17.0–18.5）做贴牌样机；MC/SFP 不推。已打开的主题（1/13 封有打开记录）：「10G media converter」(2024-09-09) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续
-- **下一步（具体）**：群发节奏　A 邮箱　首封前知悉：Elsa 2025-02-28 单发过「8 Port Industrial PoE Switch」（未见回复（Elsa 箱 Replied 标签无））；观察打开
+- **下一步（具体）**：群发节奏　A 邮箱　首封前知悉：Elsa 仅 2025-02-28 单发过 1 封「8 Port Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；观察打开
   - 第一问（只问一个）：Вы отметили интерес к 5-портовому промышленному неуправляемому коммутатору: можем поставить его под вашей маркой (нейтральная упаковка, шелкография логотипа), 5×GE DIN от $17 EXW; прислать образец и спецификацию?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2025-02-28 | out | Elsa → info@fti-optronic.com | 8 Port Industrial PoE Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 | 2026-01-09 | 去 | A/S 群发 | Marvell Alleycat5 Solution、Managed Optical Bypass Switch | 13 封 / 1 次打开 / 0 回｜首封 2024-06-18 → 末封 2026-01-09（13 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | MC SFP 机架；2024.4.26 群发了5电口 → 有兴趣 | 表内备注 | `用户表` |
-| 2025-02-28 | out | Elsa → info@fti-optronic.com | 8 Port Industrial PoE Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码
 

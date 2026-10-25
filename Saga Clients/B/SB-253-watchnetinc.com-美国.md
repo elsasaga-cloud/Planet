@@ -36,27 +36,36 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 自有 POESW 系列（现 Utepo）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 WatchNET 标；16 口位 HRUI STC-2216GPM（列表价，注明）；24 口 STC-424DGGPM-280W（$145.7）。已打开的主题（1/37 封有打开记录）：「10G Enterprise SFP Switch」(2025-10-07) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续；换人再触锚价 STC-28DGGPM $87.4 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-06-25 $65（10G fiber media converter）、2024-07-15 $65（10G media converter）、2024-08-18 $300（PoE managed switch）、2024-12-26 $240（24 Port Fiber Switch）、2025-01-08 $65（10G Media Converter）；群发里他已看到的价（续）：2026-07-23 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-04-07 $300（48 Port PoE Managed Switch）、2025-10-07 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Harish, for the POESW-series switches that ship with your NVR and camera systems, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 16/24-PoE + 4 SFP, FCC/CE/RoHS) from small lots in your packaging — which model do your dealers reorder most? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 首封前知悉：Elsa 2026-09-14 单发过「16 Port Industrial PoE Switch」（未见回复（Elsa 箱 Replied 标签无））；换收件人再发一封
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 首封前知悉：Elsa 已 1:1 去信 11 轮（2025-05-06→2026-09-14，0 回）（第 74 批(m)）；换收件人再发一封
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-253` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A/S 邮箱 37 封 2024→2026，1 次记录打开，0 回；收件 harish@watchnetinc.com, info@watchnetinc.com；主题多为「Industrial PoE Switch、8 Port Industrial PoE Switch」）；Elsa 单发去信 1 封（2026-09-14「16 Port Industrial PoE Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）；另 Elsa 单发 1 封（2025-12-31「Marvell Industrial Alert System」）** ｜ 类型：北美安防品牌商（自有 POESW 系列，OEM 采购） ｜ 筛子：1~2（1 次打开） ｜ 停点：37 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：停发群发；若要继续，换具名邮箱 + 只问一句 ｜ 通路：US 主攻（四主） ｜ 节奏：一封 ｜ 证据：gmail_digest：out 37，Opened 标签 1（Simon 群发追踪）；用户表：「Utepo；网站：主要是商业POE switch；主要是CCTV 商业PoE Utepo的」；研究档 risks：国别待核：WatchNET 总部在加拿大安大略（表内美国）；现供 Utepo（深圳）价格基准低
+- **绑定等级：未触达（A/S 邮箱 37 封 2024→2026，1 次记录打开，0 回；收件 harish@watchnetinc.com, info@watchnetinc.com；主题多为「Industrial PoE Switch、8 Port Industrial PoE Switch」）；Elsa 1:1 去信 11 轮 2025-05-06→2026-09-14（To 仅本户 info@watchnetinc.com；头 msg 19fc67e65ced6293 核对无 Bcc，称呼「Hi,」= 无称呼逐月单发名单；主题 Updated Ethernet Switches Links、Industrial PoE Switch、24 Port PoE Managed Switch、16 Port Industrial PoE Switch…；0 回（Elsa 箱无 Re: 行））（第 74 批(m) `from:e.sagatelecom to:` 全程 complete，直收 11 条）** ｜ 类型：北美安防品牌商（自有 POESW 系列，OEM 采购） ｜ 筛子：1~2（1 次打开） ｜ 停点：37 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：停发群发；若要继续，换具名邮箱 + 只问一句 ｜ 通路：US 主攻（四主） ｜ 节奏：一封 ｜ 证据：gmail_digest：out 37，Opened 标签 1（Simon 群发追踪）；用户表：「Utepo；网站：主要是商业POE switch；主要是CCTV 商业PoE Utepo的」；研究档 risks：国别待核：WatchNET 总部在加拿大安大略（表内美国）；现供 Utepo（深圳）价格基准低
 - **现状一句话**：WatchNET inc（北美 CCTV、门禁与 NVR 方案商，总部加拿大安大略（表内国别「美国」，待核）；自有 POESW04R3 / POESW08R3 / POESW16R3 PoE 交换机（Utepo 代工，表内「utepo 的商业 switch / good」）；KP Harish Vettukuzhiyil（VP Sales & Marketing）、Junaize E（Technical Support Engineer））；群发 19 次无回复。
 - **对方真实需求（有据）**：自有 POESW 系列（现 Utepo）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 WatchNET 标；16 口位 HRUI STC-2216GPM（列表价，注明）；24 口 STC-424DGGPM-280W（$145.7）
 - **断点 / 为什么停在这里**：国别待核：WatchNET 总部在加拿大安大略（表内美国）；现供 Utepo（深圳）价格基准低
 - **Saga 现在该推什么**：P1 **STC-28DGGPM**（30% 档，换人再触锚价 STC-28DGGPM $87.4 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-06-25 $65（10G fiber media converter）、2024-07-15 $65（10G media converter）、2024-08-18 $300（PoE managed switch）、2024-12-26 $240（24 Port Fiber Switch）、2025-01-08 $65（10G Media Converter）；群发里他已看到的价（续）：2026-07-23 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-04-07 $300（48 Port PoE Managed Switch）、2025-10-07 $280（10G Enterprise SFP Switch））——自有 POESW 系列（现 Utepo）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 WatchNET 标；16 口位 HRUI STC-2216GPM（列表价，注明）；24 口 STC-424DGGPM-280W（$145.7）。已打开的主题（1/37 封有打开记录）：「10G Enterprise SFP Switch」(2025-10-07) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续
-- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　首封前知悉：Elsa 2026-09-14 单发过「16 Port Industrial PoE Switch」（未见回复（Elsa 箱 Replied 标签无））；换收件人再发一封
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　首封前知悉：Elsa 已 1:1 去信 11 轮（2025-05-06→2026-09-14，0 回）（第 74 批(m)）；换收件人再发一封
   - 第一问（只问一个）：Harish, for the POESW-series switches that ship with your NVR and camera systems, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 16/24-PoE + 4 SFP, FCC/CE/RoHS) from small lots in your packaging — which model do your dealers reorder most? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2025-05-06 | out | Elsa → info@watchnetinc.com | Mini Industrial PoE Switch（Elsa 1:1 逐月名单第 1/11 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:info@watchnetinc.com` 全程 complete：11 轮直收；0 回 | `elsa_1to1` |
+| 2025-06-17 | out | Elsa → info@watchnetinc.com | Commercial PoE Switch（Elsa 1:1 逐月名单第 2/11 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:info@watchnetinc.com` 全程 complete：11 轮直收；0 回 | `elsa_1to1` |
+| 2025-07-17 | out | Elsa → info@watchnetinc.com | 16 Port Ethernet Switch（Elsa 1:1 逐月名单第 3/11 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:info@watchnetinc.com` 全程 complete：11 轮直收；0 回 | `elsa_1to1` |
+| 2025-10-07 | out | Elsa → info@watchnetinc.com | 10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 4/11 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:info@watchnetinc.com` 全程 complete：11 轮直收；0 回 | `elsa_1to1` |
+| 2025-12-02 | out | Elsa → info@watchnetinc.com | Booster PoE Switch（Elsa 1:1 逐月名单第 5/11 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:info@watchnetinc.com` 全程 complete：11 轮直收；0 回 | `elsa_1to1` |
+| 2025-12-31 | out | Elsa → info@watchnetinc.com | Marvell Industrial Alert System（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
+| 2026-02-10 | out | Elsa → info@watchnetinc.com | OEM Core Switching Solution（Elsa 1:1 逐月名单第 7/11 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:info@watchnetinc.com` 全程 complete：11 轮直收；0 回 | `elsa_1to1` |
+| 2026-03-19 | out | Elsa → info@watchnetinc.com | Updated Ethernet Switches Links（Elsa 1:1 逐月名单第 8/11 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:info@watchnetinc.com` 全程 complete：11 轮直收；0 回 | `elsa_1to1` |
+| 2026-05-01 | out | Elsa → info@watchnetinc.com | Industrial PoE Switch（Elsa 1:1 逐月名单第 9/11 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:info@watchnetinc.com` 全程 complete：11 轮直收；0 回 | `elsa_1to1` |
+| 2026-08-03 | out | Elsa → info@watchnetinc.com | 24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 10/11 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:info@watchnetinc.com` 全程 complete：11 轮直收；0 回 | `elsa_1to1` |
 | 2026-09-14 | 去 | Elsa（e.sagatelecom，Gmail 连接器实时查询） | Elsa 邮箱群发「16 Port Industrial PoE Switch」→ info@watchnetinc.com（截至 2026-10-24 无回复） | 仓库 gmail_e 只收录有回复的线程，Elsa 2026-08-19 → 09-15 的 201 封群发不在库里；本户在前 100 封内。意义：S/A 邮箱的「未发信/未触达」判断不等于 Elsa 没碰过——三个邮箱对同一户的触达要合看；Elsa 群发无回 = 再加一次「读而不回/未触达」证据 | `Gmail 连接器 list_messages newer_than:70d from:e.sagatelecom（2026-10-24 07:3x Z）` |
+| 2026-09-14 | out | Elsa → info@watchnetinc.com | 16 Port Industrial PoE Switch（Elsa 2026 年 1:1 名单重发；To 仅本户） | 本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 | 2026-09-18 | 去 | A/S 群发 | Industrial PoE Switch、8 Port Industrial PoE Switch | 37 封 / 1 次打开 / 0 回｜首封 2024-06-19 → 末封 2026-09-18（37 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | Utepo；网站：主要是商业POE switch；主要是CCTV 商业PoE Utepo的 | 表内备注 | `用户表` |
-| 2026-09-14 | out | Elsa → info@watchnetinc.com | 16 Port Industrial PoE Switch（Elsa 2026 年 1:1 名单重发；To 仅本户） | 本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
-| 2025-12-31 | out | Elsa → info@watchnetinc.com | Marvell Industrial Alert System（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 
 ## 基本事实（事实/推断/假设分层）
 

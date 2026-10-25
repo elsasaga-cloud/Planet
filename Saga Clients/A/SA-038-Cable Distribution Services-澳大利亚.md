@@ -38,26 +38,26 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-144GP — 已打开的主题（2/28 封有打开记录）：「CCTV poe switch」(2024-06-21)、「Optional Marvell Chipset Solutions」(2025-11-19) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续；锚价：STI-144GP $34.1（20% 档；无实报）（第 72 批 2026-10-24）；—；群发里他已看到的价（续）：2026-08-17 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-07-16 $300（48 Port PoE Managed Switch）、2025-09-24 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：For the 1-fibre 4-copper industrial PoE unit you were pricing, here is the 4-port gigabit PoE + 1 SFP DIN switch (STI-144GP) at EXW, with the datasheet so you can line it up against the two quotes you already have. Is that project still open? Reference: STI-144GP at $34.1 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问） A 邮箱 → paul@cabledistribution.com.au（用户表称实质回复在 WhatsApp → 由 Simon 决定走 WA） 首封前知悉：Elsa 2025-02-25 单发过「Industrial PoE Switch」（未见回复（Elsa 箱 Replied 标签无））；一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频
+- **下一步**：2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问） A 邮箱 → paul@cabledistribution.com.au（用户表称实质回复在 WhatsApp → 由 Simon 决定走 WA） 首封前知悉：Elsa 仅 2025-02-25 单发过 1 封「Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-038` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未绑定（邮件 28 封 0 回，Opened 2 次（2024-06-21 当天）；用户表「2 次实质回复 + 问价」应在 WhatsApp）；Elsa 单发去信 1 封（2025-02-25「Industrial PoE Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）** ｜ 类型：澳洲工业线缆分销（CDS） ｜ 筛子：0（邮件层无人工回复） ｜ 停点：首封被打开后两年静默 ｜ 复活：— ｜ 通路：AU 非主攻 ｜ 节奏：不主动 ｜ 证据：邮件：去信 28 封（2024-06-21 → 2026-09-30），来信 0；Opened 标签 2 次（2025-11-19、2024-06-21）；收件人 paul@cabledistribution.com.au, ross.wasserman@cabledistribution.com.au
+- **绑定等级：未绑定（邮件 28 封 0 回，Opened 2 次（2024-06-21 当天）；用户表「2 次实质回复 + 问价」应在 WhatsApp）；Elsa 1:1 去信 1 封（2025-02-25「Industrial PoE Switch」；To 仅本户 paul@cabledistribution.com.au；Bcc 未逐封读头；同类名单抽读 24 封均无 Bcc；此后再未进 Elsa 任何名单——全箱 `from:e.sagatelecom to:paul@cabledistribution.com.au` 仅此 1 条，complete）（第 74 批(m)）** ｜ 类型：澳洲工业线缆分销（CDS） ｜ 筛子：0（邮件层无人工回复） ｜ 停点：首封被打开后两年静默 ｜ 复活：— ｜ 通路：AU 非主攻 ｜ 节奏：不主动 ｜ 证据：邮件：去信 28 封（2024-06-21 → 2026-09-30），来信 0；Opened 标签 2 次（2025-11-19、2024-06-21）；收件人 paul@cabledistribution.com.au, ross.wasserman@cabledistribution.com.au
 - **现状一句话**：首日打开两次之后 27 封无动静。
 - **对方真实需求（有据）**：1 光 4 电工业 PoE。
 - **断点 / 为什么停在这里**：—
 - **Saga 现在该推什么**：P1 **STI-144GP**（20% 档，锚价：STI-144GP $34.1（20% 档；无实报）（第 72 批 2026-10-24）；—；群发里他已看到的价（续）：2026-08-17 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-07-16 $300（48 Port PoE Managed Switch）、2025-09-24 $280（10G Enterprise SFP Switch））——已打开的主题（2/28 封有打开记录）：「CCTV poe switch」(2024-06-21)、「Optional Marvell Chipset Solutions」(2025-11-19) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续
-- **下一步（具体）**：2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）　A 邮箱 → paul@cabledistribution.com.au（用户表称实质回复在 WhatsApp → 由 Simon 决定走 WA）　首封前知悉：Elsa 2025-02-25 单发过「Industrial PoE Switch」（未见回复（Elsa 箱 Replied 标签无））；一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频
+- **下一步（具体）**：2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）　A 邮箱 → paul@cabledistribution.com.au（用户表称实质回复在 WhatsApp → 由 Simon 决定走 WA）　首封前知悉：Elsa 仅 2025-02-25 单发过 1 封「Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频
   - 第一问（只问一个）：For the 1-fibre 4-copper industrial PoE unit you were pricing, here is the 4-port gigabit PoE + 1 SFP DIN switch (STI-144GP) at EXW, with the datasheet so you can line it up against the two quotes you already have. Is that project still open? Reference: STI-144GP at $34.1 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2024-06-21 | 去 | Saga（群发） | 「CCTV poe switch」被打开（Mailtrack Opened 标签） | 唯一的互动痕迹 | `b135d2a3fa4dece3` |
 | 2024-11-19 | 来 | 用户表（Simon 跟进记录；渠道 Whatsapp） | 用户表跟进：推「引流机型」→ 对方「1121email发了8电口」 | Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写 | `Clients/A/DONE/AU.xlsx no.29 1119` |
-| 2025-11-19 | 去 | Saga（群发） | 「Optional Marvell Chipset Solutions」被打开（Mailtrack Opened 标签） | 唯一的互动痕迹 | `be9998111900ae04` |
 | 2025-02-25 | out | Elsa → paul@cabledistribution.com.au | Industrial PoE Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
+| 2025-11-19 | 去 | Saga（群发） | 「Optional Marvell Chipset Solutions」被打开（Mailtrack Opened 标签） | 唯一的互动痕迹 | `be9998111900ae04` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文
 

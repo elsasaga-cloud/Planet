@@ -42,7 +42,7 @@ updated: 2026-10-25
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-217` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-25。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A 邮箱 16 封 2025→2026，无记录打开，0 回；收件 damix@damixsat.pl, serwis@damixsat.pl；主题多为「10G Enterprise SFP Switch、48 Port PoE Managed Switch」）；Elsa 1:1 去信 2025-02-10「16 Port Ethernet Switch」（To damix@damixsat.pl…），0 回（Elsa 箱 in:sent 核对 msg 194ef4d2c36a24e0）** ｜ 类型：卫星/网络产品网店（波兰） ｜ 筛子：1（只收到群发） ｜ 停点：16 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：PL 次级重点 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 16；用户表：「工商业switch 有国内的」；研究档 risks：已有国内货源（比价激烈）；官网 http_error；7 次无回复；data/gmail_e/elsa_sent_tld_probe_2026-10-25.json（国别后缀探测，该国 Elsa 触达全集 complete:true）
+- **绑定等级：未触达（A 邮箱 16 封 2025→2026，无记录打开，0 回；收件 damix@damixsat.pl, serwis@damixsat.pl；主题多为「10G Enterprise SFP Switch、48 Port PoE Managed Switch」）；Elsa 1:1 去信 1 封（2025-02-10「16 Port Ethernet Switch」；To 仅本户 damix@damixsat.pl；Bcc 未逐封读头；同类名单抽读 24 封均无 Bcc；此后再未进 Elsa 任何名单——全箱 `from:e.sagatelecom to:damix@damixsat.pl` 仅此 1 条，complete）（第 74 批(m)）** ｜ 类型：卫星/网络产品网店（波兰） ｜ 筛子：1（只收到群发） ｜ 停点：16 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：PL 次级重点 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 16；用户表：「工商业switch 有国内的」；研究档 risks：已有国内货源（比价激烈）；官网 http_error；7 次无回复；data/gmail_e/elsa_sent_tld_probe_2026-10-25.json（国别后缀探测，该国 Elsa 触达全集 complete:true）
 - **现状一句话**：波兰 Damixsat（卫星/电视与网络产品网店；表内「工商业 switch 有国内的」；官网 http_error）；表内 7 次跟进无回复。
 - **对方真实需求（有据）**：工商业 switch（现国内货）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、工业 8 GE + 2 SFP STI-280GE（$46.6）
 - **断点 / 为什么停在这里**：已有国内货源（比价激烈）；官网 http_error；7 次无回复

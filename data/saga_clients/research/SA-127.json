@@ -1,128 +1,209 @@
 {
- "code": "SA-127",
- "name_official": "Testronix（testronix.ph，菲律宾）",
- "website_status": "未单独检索（仅用户记录）",
- "summary": "菲律宾电子/网络产品经销商，曾从 uponcomm 购买大量模块（用户记录），E 冷名单 1 次跟进 0 回复。",
- "type": "经销商",
- "size": "待补证",
- "brands_seen": [
-  "uponcomm（用户记录：在采）"
- ],
- "evidence": [
-  {
-   "kind": "用户记录",
-   "claim": "从 uponcomm 买了很多模块；0 回复",
-   "quote": "从uponcomm买了很多模块（用户 Clients 表摘录）",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "富通天下：从 uponcomm 买模块",
-   "quote": "从uponcomm买了很多模块 / 网站：信息比较晦涩 / 富通天下",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "（见 Clients 表联系人）",
-   "role": "",
-   "email": "",
-   "phone": "",
-   "source": "用户 Clients 表"
-  }
- ],
- "grade_override": "B",
- "override_reason": "品类为光模块（非主线），菲律宾非主攻区，冷名单无回复 → B。",
- "notes": "一封邮件带 SFP 光口交换机即可。",
- "researched_at": "2026-10-21",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（基于首轮调研整理 + 需求映射；「成交」为富通天下外贸数据）"
- },
- "company_facts": {
-  "legal_name": "Testronix（testronix.com.ph）",
-  "hq": "Philippines",
-  "size": "待核",
-  "other": "注：表内「从 uponcomm 买了很多模块」为富通天下外贸数据（从同行采购），非 Saga 成交"
- },
- "business_lines": [
-  "电子/网络产品经销（光模块）"
- ],
- "channels": {
-  "网站": "testronix.ph / testronix.com.ph",
-  "邮箱": "sales@testronix.com.ph（用户表）"
- },
- "signals": [
-  "大量采购光模块 → SFP 需求（Q-32）；可搭 2 SFP 交换机/MC"
- ],
- "risks": [
-  "SFP 不在价格表；亚太非主攻区；1 次跟进无回复"
- ],
- "saga_fit": {
-  "p1": null,
-  "tier": 25,
-  "why": "待核型：光模块不在价格表（Q-32）；可搭 STI-110GE MC（$23.4）/ STC-228GP（$30.8）"
- },
- "email_hook": "Hello Testronix team, alongside the optical modules you import: 2× SFP + 8× PoE switches at $34.6 EXW and industrial gigabit media converters at $23.4 — which SFP types (1G/10G, distance) do you move most, so I can pair a quote?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A 邮箱 1 封 2025，无记录打开，0 回；收件 sales@testronix.com.ph；主题多为「24 Port Fiber Switch」）；Elsa 单发去信 1 封（2025-02-12「16 Port Ethernet Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）",
-   "type": "经销商",
-   "sieve": "1（只收到群发）",
-   "stop": "只打通用邮箱，无记录打开",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "菲律宾 非主攻",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 1；用户表：「从uponcomm买了很多模块 / 网站：信息比较晦涩 / 富通天下」；研究档 risks：SFP 不在价格表；亚太非主攻区；1 次跟进无回复"
-  },
-  "situation": "菲律宾电子/网络产品经销商，曾从 uponcomm 购买大量模块（用户记录），E 冷名单 1 次跟进 0 回复。",
-  "need": "待核型：光模块不在价格表（Q-32）；可搭 STI-110GE MC（$23.4）/ STC-228GP（$30.8）",
-  "breakpoint": "SFP 不在价格表；亚太非主攻区；1 次跟进无回复",
-  "saga_now": {
-   "p1": "—",
-   "tier": 25,
-   "price": "Realtek 线按 HRUI 2026-09-30 进价 +25% 现算（Q-47 默认，不用 Drive 旧表价）：STC-228GP $30.8→$34.6；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-03-18 $240（24 Port Fiber Switch）",
-   "why": "待核型：光模块不在价格表（Q-32）；可搭 STI-110GE MC（$23.4）/ STC-228GP（$30.8）",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "首封前知悉：Elsa 2025-02-12 单发过「16 Port Ethernet Switch」（未见回复（Elsa 箱 Replied 标签无））；观察打开",
-   "one_question": "Hello Testronix team, alongside the optical modules you import: 2× SFP + 8× PoE switches at $34.6 EXW and industrial gigabit media converters at $23.4 — which SFP types (1G/10G, distance) do you move most, so I can pair a quote?"
-  },
-  "facts": [
-   {
-    "date": "2025-03-18",
-    "dir": "去",
-    "who": "A 群发",
-    "quote": "24 Port Fiber Switch",
-    "why": "1 封 / 0 次打开 / 0 回｜首封 2025-03-18 → 末封 2025-03-18（1 去 / 0 来）",
-    "k": "gmail_digest"
-   },
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "从uponcomm买了很多模块 / 网站：信息比较晦涩 / 富通天下",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2025-02-12",
-    "dir": "out",
-    "who": "Elsa → sales@testronix.com.ph",
-    "quote": "16 Port Ethernet Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
-    "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
-    "k": "elsa_1to1",
-    "msg_id": "194f7fde9c995e72"
-   }
+  "code": "SA-127",
+  "name_official": "Testronix（testronix.ph，菲律宾）",
+  "website_status": "未单独检索（仅用户记录）",
+  "summary": "菲律宾电子/网络产品经销商，曾从 uponcomm 购买大量模块（用户记录），E 冷名单 1 次跟进 0 回复。",
+  "type": "经销商",
+  "size": "待补证",
+  "brands_seen": [
+    "uponcomm（用户记录：在采）"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "evidence": [
+    {
+      "kind": "用户记录",
+      "claim": "从 uponcomm 买了很多模块；0 回复",
+      "quote": "从uponcomm买了很多模块（用户 Clients 表摘录）",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "富通天下：从 uponcomm 买模块",
+      "quote": "从uponcomm买了很多模块 / 网站：信息比较晦涩 / 富通天下",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [
+    {
+      "name": "（见 Clients 表联系人）",
+      "role": "",
+      "email": "",
+      "phone": "",
+      "source": "用户 Clients 表"
+    }
+  ],
+  "grade_override": "B",
+  "override_reason": "品类为光模块（非主线），菲律宾非主攻区，冷名单无回复 → B。",
+  "notes": "一封邮件带 SFP 光口交换机即可。",
+  "researched_at": "2026-10-21",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（基于首轮调研整理 + 需求映射；「成交」为富通天下外贸数据）"
+  },
+  "company_facts": {
+    "legal_name": "Testronix（testronix.com.ph）",
+    "hq": "Philippines",
+    "size": "待核",
+    "other": "注：表内「从 uponcomm 买了很多模块」为富通天下外贸数据（从同行采购），非 Saga 成交"
+  },
+  "business_lines": [
+    "电子/网络产品经销（光模块）"
+  ],
+  "channels": {
+    "网站": "testronix.ph / testronix.com.ph",
+    "邮箱": "sales@testronix.com.ph（用户表）"
+  },
+  "signals": [
+    "大量采购光模块 → SFP 需求（Q-32）；可搭 2 SFP 交换机/MC"
+  ],
+  "risks": [
+    "SFP 不在价格表；亚太非主攻区；1 次跟进无回复"
+  ],
+  "saga_fit": {
+    "p1": null,
+    "tier": 25,
+    "why": "待核型：光模块不在价格表（Q-32）；可搭 STI-110GE MC（$23.4）/ STC-228GP（$30.8）"
+  },
+  "email_hook": "Hello Testronix team, alongside the optical modules you import: 2× SFP + 8× PoE switches at $34.6 EXW and industrial gigabit media converters at $23.4 — which SFP types (1G/10G, distance) do you move most, so I can pair a quote?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A 邮箱 1 封 2025，无记录打开，0 回；收件 sales@testronix.com.ph；主题多为「24 Port Fiber Switch」）；Elsa 1:1 去信 10 轮 2025-02-12→2026-08-06（To 仅本户 sales@testronix.com.ph；头 msg 19fd55efd2827f1c 核对无 Bcc，称呼「Hi,」= 无称呼逐月单发名单；主题 Marvell Industrial Alert System、Updated Ethernet Switches Links、Marvell Managed Commercial Switches、24 Port PoE Managed Switch…；0 回（Elsa 箱无 Re: 行））（第 74 批(m) `from:e.sagatelecom to:` 全程 complete，直收 10 条）",
+      "type": "经销商",
+      "sieve": "1（只收到群发）",
+      "stop": "只打通用邮箱，无记录打开",
+      "revive": "保持季度群发到 2027-Q1；无打开即停",
+      "lane": "菲律宾 非主攻",
+      "cadence": "季度",
+      "evidence": "gmail_digest：out 1；用户表：「从uponcomm买了很多模块 / 网站：信息比较晦涩 / 富通天下」；研究档 risks：SFP 不在价格表；亚太非主攻区；1 次跟进无回复"
+    },
+    "situation": "菲律宾电子/网络产品经销商，曾从 uponcomm 购买大量模块（用户记录），E 冷名单 1 次跟进 0 回复。",
+    "need": "待核型：光模块不在价格表（Q-32）；可搭 STI-110GE MC（$23.4）/ STC-228GP（$30.8）",
+    "breakpoint": "SFP 不在价格表；亚太非主攻区；1 次跟进无回复",
+    "saga_now": {
+      "p1": "—",
+      "tier": 25,
+      "price": "Realtek 线按 HRUI 2026-09-30 进价 +25% 现算（Q-47 默认，不用 Drive 旧表价）：STC-228GP $30.8→$34.6；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-03-18 $240（24 Port Fiber Switch）",
+      "why": "待核型：光模块不在价格表（Q-32）；可搭 STI-110GE MC（$23.4）/ STC-228GP（$30.8）",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "群发节奏",
+      "channel": "A 邮箱",
+      "action": "首封前知悉：Elsa 已 1:1 去信 10 轮（2025-02-12→2026-08-06，0 回）（第 74 批(m)）；观察打开",
+      "one_question": "Hello Testronix team, alongside the optical modules you import: 2× SFP + 8× PoE switches at $34.6 EXW and industrial gigabit media converters at $23.4 — which SFP types (1G/10G, distance) do you move most, so I can pair a quote?"
+    },
+    "facts": [
+      {
+        "date": "2025-02-12",
+        "dir": "out",
+        "who": "Elsa → sales@testronix.com.ph",
+        "quote": "16 Port Ethernet Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+        "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
+        "k": "elsa_1to1",
+        "msg_id": "194f7fde9c995e72"
+      },
+      {
+        "date": "2025-03-18",
+        "dir": "去",
+        "who": "A 群发",
+        "quote": "24 Port Fiber Switch",
+        "why": "1 封 / 0 次打开 / 0 回｜首封 2025-03-18 → 末封 2025-03-18（1 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
+        "date": "2025-05-01",
+        "dir": "out",
+        "who": "Elsa → sales@testronix.com.ph",
+        "quote": "8 Port Industrial PoE Switch（Elsa 1:1 逐月名单第 2/10 轮；To 仅本户）",
+        "why": "第 74 批(m) `from:e.sagatelecom to:sales@testronix.com.ph` 全程 complete：10 轮直收；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "1968a374443e99fa"
+      },
+      {
+        "date": "2025-06-18",
+        "dir": "out",
+        "who": "Elsa → sales@testronix.com.ph",
+        "quote": "48 Port PoE Managed Switch（Elsa 1:1 逐月名单第 3/10 轮；To 仅本户）",
+        "why": "第 74 批(m) `from:e.sagatelecom to:sales@testronix.com.ph` 全程 complete：10 轮直收；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "197815635a4c030c"
+      },
+      {
+        "date": "2025-10-09",
+        "dir": "out",
+        "who": "Elsa → sales@testronix.com.ph",
+        "quote": "10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 4/10 轮；To 仅本户）",
+        "why": "第 74 批(m) `from:e.sagatelecom to:sales@testronix.com.ph` 全程 complete：10 轮直收；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "199c7a31d8c54a6d"
+      },
+      {
+        "date": "2025-12-09",
+        "dir": "out",
+        "who": "Elsa → sales@testronix.com.ph",
+        "quote": "Booster PoE Switch（Elsa 1:1 逐月名单第 5/10 轮；To 仅本户）",
+        "why": "第 74 批(m) `from:e.sagatelecom to:sales@testronix.com.ph` 全程 complete：10 轮直收；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "19b010d2f77ba791"
+      },
+      {
+        "date": "2026-01-07",
+        "dir": "out",
+        "who": "Elsa → sales@testronix.com.ph",
+        "quote": "Marvell Industrial Alert System（Elsa 1:1 逐月名单第 6/10 轮；To 仅本户）",
+        "why": "第 74 批(m) `from:e.sagatelecom to:sales@testronix.com.ph` 全程 complete：10 轮直收；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "19b96c129a865e98"
+      },
+      {
+        "date": "2026-02-18",
+        "dir": "out",
+        "who": "Elsa → sales@testronix.com.ph",
+        "quote": "Updated Ethernet Switches Links（Elsa 1:1 逐月名单第 7/10 轮；To 仅本户）",
+        "why": "第 74 批(m) `from:e.sagatelecom to:sales@testronix.com.ph` 全程 complete：10 轮直收；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "19c6f0c40c59cef4"
+      },
+      {
+        "date": "2026-03-24",
+        "dir": "out",
+        "who": "Elsa → sales@testronix.com.ph",
+        "quote": "Marvell Managed Commercial Switches（Elsa 1:1 逐月名单第 8/10 轮；To 仅本户）",
+        "why": "第 74 批(m) `from:e.sagatelecom to:sales@testronix.com.ph` 全程 complete：10 轮直收；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "19d1e2479d6c7f2e"
+      },
+      {
+        "date": "2026-05-05",
+        "dir": "out",
+        "who": "Elsa → sales@testronix.com.ph",
+        "quote": "10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 9/10 轮；To 仅本户）",
+        "why": "第 74 批(m) `from:e.sagatelecom to:sales@testronix.com.ph` 全程 complete：10 轮直收；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "19df66f9101df174"
+      },
+      {
+        "date": "2026-08-06",
+        "dir": "out",
+        "who": "Elsa → sales@testronix.com.ph",
+        "quote": "24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 10/10 轮；To 仅本户）",
+        "why": "第 74 批(m) `from:e.sagatelecom to:sales@testronix.com.ph` 全程 complete：10 轮直收；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "19fd55efd2827f1c"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "从uponcomm买了很多模块 / 网站：信息比较晦涩 / 富通天下",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

@@ -36,25 +36,25 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 自有 SFC 标工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ 16 口位 STI-21616GP 贴 SOLTECH 标；KC 认证由客户申报。已打开的主题（5/34 封有打开记录）：「Industrial PoE Switch」(2024-11-26)、「48 Port PoE Managed Switch」(2024-12-19)、「8 Port Industrial PoE Switch」(2025-10-24)、「Optional Marvell Chipset Solutions」(2025-12-09) → 读者兴趣偏「工业」；与 P1 同类，继续｜已发资料（勿重发）：Saga Software Function List-release 7.(2025-04-10)、Product Link_2026Q2(2026-03-16)、Saga Feature List_7.5.x_L2+(2026-06-29)、Product Link_2026Q3(2026-07-21)；7.5 Feature List 与 2026Q3 链接都已给过 → 下一封不能再是资料推送，只能是针对其需求的一句话/一个问题；首触锚价 STI-288GPM $85.5 EXW（主表档位（PDF 上限 $88；SA-026 2025-07 实报 $72 为分销量价）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-17 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-08-23 $65（10G Media Converter）、2024-12-19 $300（48 Port PoE Managed Switch）、2025-08-25 $240（24 Port Fiber Switch）、2025-09-29 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Mr. Kim, for the SFC industrial switch models you asked about, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed, 16-PoE + 2×10G) from small lots in your housing, CE/RoHS — which SFC model would you evaluate first? Reference: STI-288GPM at $85.5 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：2026-11 A 邮箱 → jasonk@soltech.co.kr 首封前知悉：Elsa 2025-02-25 单发过「L3 Managed Switch」（未见回复（Elsa 箱 Replied 标签无））；短信一问（email_hook）
+- **下一步**：2026-11 A 邮箱 → jasonk@soltech.co.kr 首封前知悉：Elsa 仅 2025-02-25 单发过 1 封「L3 Managed Switch」，之后没再碰他（第 74 批(m)）；短信一问（email_hook）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1049` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：读而不回（A/S 邮箱 34 封 2024→2026，其中 5 封被打开，0 回；收件 jasonk@soltech.co.kr, ksh@soltech.co.kr；被打开主题「Managed Optical Bypass Switch、Marvell Industrial Alert System」）；Elsa 单发去信 1 封（2025-02-25「L3 Managed Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）** ｜ 类型：韩国网络设备厂商（自有 SFC 标工业交换机，OEM 采购；Simon 客户） ｜ 筛子：2（有人在读，无人回） ｜ 停点：读而不回 = 内容未命中或没有当下需求 ｜ 复活：一封「只问一句」的短信给打开过的地址（不附图不附表） ｜ 通路：KR 次级（点名） ｜ 节奏：一封；回了再说 ｜ 证据：gmail_digest：out 34，Opened 标签 5（Simon 群发追踪）；用户表：「几个工业交换机型号；Simon客户 / attn: Kwang Young Kim(金广永） | telephone: 82-10-3046-5653 | mo」；研究档 risks：非主攻区（T5，韩国）；KC 认证由客户申报；23 次无回复（Simon 客户，线下渠道待核）
+- **绑定等级：读而不回（A/S 邮箱 34 封 2024→2026，其中 5 封被打开，0 回；收件 jasonk@soltech.co.kr, ksh@soltech.co.kr；被打开主题「Managed Optical Bypass Switch、Marvell Industrial Alert System」）；Elsa 1:1 去信 1 封（2025-02-25「L3 Managed Switch」；To 仅本户 jasonk@soltech.co.kr；Bcc 未逐封读头；同类名单抽读 24 封均无 Bcc；此后再未进 Elsa 任何名单——全箱 `from:e.sagatelecom to:jasonk@soltech.co.kr` 仅此 1 条，complete）（第 74 批(m)）** ｜ 类型：韩国网络设备厂商（自有 SFC 标工业交换机，OEM 采购；Simon 客户） ｜ 筛子：2（有人在读，无人回） ｜ 停点：读而不回 = 内容未命中或没有当下需求 ｜ 复活：一封「只问一句」的短信给打开过的地址（不附图不附表） ｜ 通路：KR 次级（点名） ｜ 节奏：一封；回了再说 ｜ 证据：gmail_digest：out 34，Opened 标签 5（Simon 群发追踪）；用户表：「几个工业交换机型号；Simon客户 / attn: Kwang Young Kim(金广永） | telephone: 82-10-3046-5653 | mo」；研究档 risks：非主攻区（T5，韩国）；KC 认证由客户申报；23 次无回复（Simon 客户，线下渠道待核）
 - **现状一句话**：韩国 SOLTECH（솔텍：光传输/网络设备厂商，自有 SFC 系列（SFC510HP / SFC516HP / SFC1200-HDFT），Fibermart 网店（光缆、交换机、机柜、光配件）；表内「几个工业交换机型号」「质量高」「Simon 客户」；KP Kim Kwang Young（金广永）/ Jason（jasonk@、kky@），电话 +82-10-3046-5653）；群发 23 次无回复。
 - **对方真实需求（有据）**：自有 SFC 标工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ 16 口位 STI-21616GP 贴 SOLTECH 标；KC 认证由客户申报
 - **断点 / 为什么停在这里**：非主攻区（T5，韩国）；KC 认证由客户申报；23 次无回复（Simon 客户，线下渠道待核）
 - **Saga 现在该推什么**：P1 **STI-288GPM**（30% 档，首触锚价 STI-288GPM $85.5 EXW（主表档位（PDF 上限 $88；SA-026 2025-07 实报 $72 为分销量价）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-17 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-08-23 $65（10G Media Converter）、2024-12-19 $300（48 Port PoE Managed Switch）、2025-08-25 $240（24 Port Fiber Switch）、2025-09-29 $280（10G Enterprise SFP Switch））——自有 SFC 标工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ 16 口位 STI-21616GP 贴 SOLTECH 标；KC 认证由客户申报。已打开的主题（5/34 封有打开记录）：「Industrial PoE Switch」(2024-11-26)、「48 Port PoE Managed Switch」(2024-12-19)、「8 Port Industrial PoE Switch」(2025-10-24)、「Optional Marvell Chipset Solutions」(2025-12-09) → 读者兴趣偏「工业」；与 P1 同类，继续｜已发资料（勿重发）：Saga Software Function List-release 7.(2025-04-10)、Product Link_2026Q2(2026-03-16)、Saga Feature List_7.5.x_L2+(2026-06-29)、Product Link_2026Q3(2026-07-21)；7.5 Feature List 与 2026Q3 链接都已给过 → 下一封不能再是资料推送，只能是针对其需求的一句话/一个问题
-- **下一步（具体）**：2026-11　A 邮箱 → jasonk@soltech.co.kr　首封前知悉：Elsa 2025-02-25 单发过「L3 Managed Switch」（未见回复（Elsa 箱 Replied 标签无））；短信一问（email_hook）
+- **下一步（具体）**：2026-11　A 邮箱 → jasonk@soltech.co.kr　首封前知悉：Elsa 仅 2025-02-25 单发过 1 封「L3 Managed Switch」，之后没再碰他（第 74 批(m)）；短信一问（email_hook）
   - 第一问（只问一个）：Mr. Kim, for the SFC industrial switch models you asked about, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed, 16-PoE + 2×10G) from small lots in your housing, CE/RoHS — which SFC model would you evaluate first? Reference: STI-288GPM at $85.5 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2025-02-25 | out | Elsa → jasonk@soltech.co.kr | L3 Managed Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 | 2026-09-08 | 去 | A/S 群发 | Managed Optical Bypass Switch、Marvell Industrial Alert System | 34 封 / 5 次打开 / 0 回｜首封 2024-06-30 → 末封 2026-09-08（34 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 几个工业交换机型号；Simon客户 / attn: Kwang Young Kim(金广永） \| telephone: 82-10-3046-5653 \| mobile.: 82-70-4628-5232 \| fax.: 82-2-701- | 表内备注 | `用户表` |
-| 2025-02-25 | out | Elsa → jasonk@soltech.co.kr | L3 Managed Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 
 ## 基本事实（事实/推断/假设分层）
 

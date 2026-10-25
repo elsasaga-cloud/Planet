@@ -36,25 +36,25 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 品牌授权分销为主 → 白牌价位 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）作 SI 项目补位；预期低。已打开的主题（1/20 封有打开记录）：「Booster PoE Switch」(2025-11-14) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续；换人再触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-12-24 $300（48 Port PoE Managed Switch）、2025-03-14 $240（24 Port Fiber Switch）、2025-10-14 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Allen, alongside the LevelOne, Zyxel and DrayTek switches you distribute to Hong Kong SIs, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ model and 24-PoE + 4 SFP from small lots, CE/RoHS, EXW USD — is there a price band your SIs ask for below the branded lines? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 首封前知悉：Elsa 2025-02-12 单发过「90W PoE Managed Switch」（未见回复（Elsa 箱 Replied 标签无））；换收件人再发一封
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 首封前知悉：Elsa 仅 2025-02-12 单发过 1 封「90W PoE Managed Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1184` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A/S 邮箱 20 封 2024→2026，1 次记录打开，0 回；收件 allenc@everbesthk.com, ariel@everbesthk.com；主题多为「Industrial PoE Switch、10G Enterprise SFP Switch」）；Elsa 单发去信 1 封（2025-02-12「90W PoE Managed Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）** ｜ 类型：港澳品牌独家分销商（香港） ｜ 筛子：1~2（1 次打开） ｜ 停点：20 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：停发群发；若要继续，换具名邮箱 + 只问一句 ｜ 通路：香港 非主攻 ｜ 节奏：一封 ｜ 证据：gmail_digest：out 20，Opened 标签 1（Simon 群发追踪）；用户表：「卖几个有名的牌子」；研究档 risks：品牌独家分销模式（厂商授权）：白牌与其定位冲突，契合度低；非主攻区（T5）
+- **绑定等级：未触达（A/S 邮箱 20 封 2024→2026，1 次记录打开，0 回；收件 allenc@everbesthk.com, ariel@everbesthk.com；主题多为「Industrial PoE Switch、10G Enterprise SFP Switch」）；Elsa 1:1 去信 1 封（2025-02-12「90W PoE Managed Switch」；To 仅本户 sales@everbesthk.com；Bcc 未逐封读头；同类名单抽读 24 封均无 Bcc；此后再未进 Elsa 任何名单——全箱 `from:e.sagatelecom to:sales@everbesthk.com` 仅此 1 条，complete）（第 74 批(m)）** ｜ 类型：港澳品牌独家分销商（香港） ｜ 筛子：1~2（1 次打开） ｜ 停点：20 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：停发群发；若要继续，换具名邮箱 + 只问一句 ｜ 通路：香港 非主攻 ｜ 节奏：一封 ｜ 证据：gmail_digest：out 20，Opened 标签 1（Simon 群发追踪）；用户表：「卖几个有名的牌子」；研究档 risks：品牌独家分销模式（厂商授权）：白牌与其定位冲突，契合度低；非主攻区（T5）
 - **现状一句话**：香港 Everbest Technologies Ltd. 永佳科技（1991 年起港澳独家分销：ATEN、AVer、AverMedia、CyberPower、DIGIEVER、DrayTek、LevelOne、Zyxel、Vivotek、Axis；SI 研讨会（TP-Link 交换机海报）；表内「卖几个有名的牌子」「可以尝试多跟进一下」；KP Allen Chan（Director，allenc@）、Ariel Cheng（Product Manager））；群发 9 次无回复。
 - **对方真实需求（有据）**：品牌授权分销为主 → 白牌价位 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）作 SI 项目补位；预期低
 - **断点 / 为什么停在这里**：品牌独家分销模式（厂商授权）：白牌与其定位冲突，契合度低；非主攻区（T5）
 - **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，换人再触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-12-24 $300（48 Port PoE Managed Switch）、2025-03-14 $240（24 Port Fiber Switch）、2025-10-14 $280（10G Enterprise SFP Switch））——品牌授权分销为主 → 白牌价位 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）作 SI 项目补位；预期低。已打开的主题（1/20 封有打开记录）：「Booster PoE Switch」(2025-11-14) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续
-- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　首封前知悉：Elsa 2025-02-12 单发过「90W PoE Managed Switch」（未见回复（Elsa 箱 Replied 标签无））；换收件人再发一封
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　首封前知悉：Elsa 仅 2025-02-12 单发过 1 封「90W PoE Managed Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封
   - 第一问（只问一个）：Allen, alongside the LevelOne, Zyxel and DrayTek switches you distribute to Hong Kong SIs, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ model and 24-PoE + 4 SFP from small lots, CE/RoHS, EXW USD — is there a price band your SIs ask for below the branded lines? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2025-02-12 | out | Elsa → sales@everbesthk.com | 90W PoE Managed Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 | 2026-09-15 | 去 | A/S 群发 | Industrial PoE Switch、10G Enterprise SFP Switch | 20 封 / 1 次打开 / 0 回｜首封 2024-12-24 → 末封 2026-09-15（20 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 卖几个有名的牌子 | 表内备注 | `用户表` |
-| 2025-02-12 | out | Elsa → sales@everbesthk.com | 90W PoE Managed Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 
 ## 基本事实（事实/推断/假设分层）
 

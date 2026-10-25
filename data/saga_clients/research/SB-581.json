@@ -57,14 +57,14 @@
  "email_hook": "Trung, for the 16/24/32-port PoE sizes — we have 16 and 24 (and 48) in Marvell L2+; which PoE budget do your camera projects need, 250 W or 400 W class?",
  "mail_review": {
   "binding": {
-   "level": "未触达（S 邮箱 3 封 2024→2025，1 次记录打开，0 回；收件 semtec2017@gmail.com；主题多为「48 Port PoE Managed Switch、Mini Industrial PoE Switch」）",
+   "level": "未触达（S 邮箱 3 封 2024→2025，1 次记录打开，0 回；收件 semtec2017@gmail.com；主题多为「48 Port PoE Managed Switch、Mini Industrial PoE Switch」）；Elsa 群发 BCC 已触达 2026-09-10「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，越南-2（锚 thuyluc1973 gmail；仅 2026-09-10 一轮） 批次 To thuyluc1973@gmail.com，0 回（第 74 批 Bcc 头核对 msg 1a08a7cf5fc993e4）",
    "type": "—",
    "sieve": "1~2（1 次打开）",
    "stop": "3 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
    "revive": "保持季度群发到 2027-Q1；无打开即停",
    "lane": "越南 非主攻",
    "cadence": "季度",
-   "evidence": "gmail_digest：out 3，Opened 标签 1（Simon 群发追踪）；用户表：「兴趣：16 24 32 port POE Switch；回复：1120email发了48口；1216email发了22mini」；研究档 risks：越南低价市场；gmail"
+   "evidence": "gmail_digest：out 3，Opened 标签 1（Simon 群发追踪）；用户表：「兴趣：16 24 32 port POE Switch；回复：1120email发了48口；1216email发了22mini」；研究档 risks：越南低价市场；gmail；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To thuyluc1973@gmail.com）本户见于 2026-09-10 名单"
   },
   "situation": "越南公司 Tiên Phong CP（Trung，gmail semtec2017），需求 16/24/32 口 PoE 交换机；2025-11 收 48 口邮件、2025-12 收 2+2 mini 邮件；无域名。",
   "need": "16/24 口 PoE → Saga STC-424DGGPM-280W（$134.5/140.1/145.7）；16 口 STC-2216GPM（HRUI 列表 $137.5）；32 口无（24/48 口替代）。",
@@ -93,6 +93,14 @@
     "k": "gmail_digest"
    },
    {
+    "date": "2026-09-10",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To thuyluc1973@gmail.com，越南-2（锚 thuyluc1973 gmail；仅 2026-09-10 一轮） 批次）",
+    "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
+    "why": "Elsa 箱群发 BCC 触达证据（命中地址 semtec2017@gmail.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+    "k": "elsa_bcc"
+   },
+   {
     "date": "2026-10-21",
     "dir": "用户表",
     "who": "Simon",
@@ -105,6 +113,6 @@
    "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
   ],
   "draft_en": null,
-  "as_of": "2026-10-24"
+  "as_of": "2026-10-25"
  }
 }

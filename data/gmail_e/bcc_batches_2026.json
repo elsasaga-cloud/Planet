@@ -1,6 +1,6 @@
 {
  "_note": "Elsa 邮箱群发 = 1 个 To + 15–40 个 Bcc；S/A 邮箱 digest 看不到这些触达。本文件 = 第 73 批(o) 2026-10-24 经连接器 get_message(metadata) 读到的 Bcc 头（最近一轮「24 Port PoE Managed Switch」$170 群发 19 封 + 2026-05 10G 群发 1 封）。全量重建（317 封 / 本轮；3,224 封 / 全部）见 Q-60。 ｜ 2026-10-25 03:4x 第 74 批(l)：RU B 逐户探测命中 2 新锚 sales@cmd-sec.ru（RU-3，15 轮）/ sales@soyuzsp.ru（RU-4，13 轮），各读首尾两头 Bcc；并纠正：此前写的「201+」是 `to:<域>` 列表的 result_size_estimate 估算伪数，真实轮数以 `from:e.sagatelecom to:<锚>`（complete:true）为准：nnz 14 / bas-ip 11 / mintusony 12 / eletrotecnicasoares 13 / cmd-sec 15 / soyuzsp 13，全部始于 2025-02-20～26。",
- "fetched_at": "2026-10-25T01:57Z",
+ "fetched_at": "2026-10-25T01:57Z | (m) 2026-10-25T03:56:06Z",
  "batches": [
   {
    "msg_id": "1a05bfb71364077f",
@@ -2268,6 +2268,513 @@
     "info@keno-cctv.ru",
     "office@powervideo.ru"
    ]
+  },
+  {
+   "msg_id": "198092904a7b6f12",
+   "date": "2025-07-14",
+   "subject": "16 Port Ethernet Switch",
+   "price_text": "（头部未取正文；见 Elsa 箱）",
+   "to": "zakupki@dozor23.ru",
+   "batch": "俄罗斯-5（锚 dozor23.ru 采购；2025-02-22 起月轮，6 轮，2025-07-14 止）",
+   "bcc": [
+    "s.markin@mip-sb.ru",
+    "denisov@dmty.ru",
+    "industriya-t@yandex.ru",
+    "0560qg@gmail.com",
+    "sales@5sgroup.ru",
+    "sales@bouz.ru",
+    "support@aliradar.com",
+    "info@plcsystems.ru",
+    "info@wgspb.ru",
+    "buyakova@abn.ru",
+    "info@abn.ru",
+    "siemon@abn.ru",
+    "hitech@abn.ru",
+    "kurs@abn.ru",
+    "sales@ipc2u.ru",
+    "kip@bbrc.ru",
+    "sale@stalviscom.by",
+    "welcome@vialight.ru",
+    "sales@dekker-it.com",
+    "sales@ccs-msk.ru",
+    "info.korea@wago.com"
+   ],
+   "_src": "第 74 批(m) 2026-10-25 逐户 from:e.sagatelecom to:<户> 发现 To≠本户 → 读该锚头 Bcc"
+  },
+  {
+   "msg_id": "197cbb5832cf968b",
+   "date": "2025-07-02",
+   "subject": "16 Port Ethernet Switch",
+   "price_text": "（头部未取正文；见 Elsa 箱）",
+   "to": "businesswise1@hotmail.com",
+   "batch": "拉美-2（锚 businesswise1 hotmail；2025-02-12 起月轮，11 轮）",
+   "bcc": [
+    "jamtvproduccion@hotmail.com",
+    "daniel@linkstore.cl",
+    "aihuamanj@gmail.com",
+    "fernandochrist@hotmail.com",
+    "emiranda@surlink-tech.com",
+    "causa8@gmail.com",
+    "cgutierrez@canalonce.com.uy",
+    "eliel.alarcon.lozada@gmail.com",
+    "luismoreta3@gmail.com",
+    "mpjlopeza@gmail.com",
+    "castillerojose@yahoo.com",
+    "jose.castillero@masters-solutions.com",
+    "rosulos@gmail.com",
+    "buying@relevantmediasa.com",
+    "helectromar@live.cl",
+    "mail@mitechsystems.net",
+    "mitechmail@gmail.com"
+   ],
+   "_src": "第 74 批(m) 2026-10-25 逐户 from:e.sagatelecom to:<户> 发现 To≠本户 → 读该锚头 Bcc"
+  },
+  {
+   "msg_id": "1963891c7a76ab19",
+   "date": "2025-04-15",
+   "subject": "Marvell Alleycat5 Solution",
+   "price_text": "（头部未取正文；见 Elsa 箱）",
+   "to": "sibandaprofp@gmail.com",
+   "batch": "非洲/中亚/中东散户-2（锚 2025 sibanda ZW）",
+   "bcc": [
+    "jango.94.94@gmail.com",
+    "connexus.ci@gmail.com",
+    "pzhiharev@bk.ru",
+    "coreipro76@gmail.com",
+    "fatskayv@hotmail.com",
+    "adil.9711@mail.ru",
+    "jimmy.faro@hotmail.com",
+    "a.chhim@synergates.ma",
+    "erkan@neobil.com",
+    "hundeorow@gmail.com",
+    "halebtradingplc@gmail.com",
+    "h.kazemi@daya-sanat.com",
+    "mulugetawendosen@gmail.com",
+    "sergio.deza@gmail.com",
+    "riyaz.rka@gmail.com",
+    "juniorkitenge972@gmail.com",
+    "drwotolara@gtechlimited.com",
+    "m.jamshidi@climaxoilfield.ae",
+    "ajithpr@distribolutions.com",
+    "faditayfour7@gmail.com",
+    "eyamzash@damamax.jo",
+    "ismail@3lines.com.sa",
+    "ramasalum224@gmail.com",
+    "kalakalaregini@gmail.com",
+    "hamzakihel96@gmail.com",
+    "temboa631@gmail.com",
+    "caafibile6@gmail.com",
+    "kumbemikal@gmail.com",
+    "wafulamusine@gmail.com",
+    "rezahabibzadeh01@gmail.com",
+    "info@imteg.com.tr",
+    "petru.pislariu@bluenote.ro",
+    "alan.saikawa@gmail.com",
+    "anassidido@gmail.com",
+    "ttiecoro@hotmail.com"
+   ],
+   "_src": "第 74 批(m) 2026-10-25 逐户 from:e.sagatelecom to:<户> 发现 To≠本户 → 读该锚头 Bcc"
+  },
+  {
+   "msg_id": "19619224a25f0228",
+   "date": "2025-04-09",
+   "subject": "Mini Industrial PoE Switch",
+   "price_text": "（头部未取正文；见 Elsa 箱）",
+   "to": "info@globalconnectsynergy.com",
+   "batch": "巴基斯坦（锚 globalconnectsynergy PK）",
+   "bcc": [
+    "support@mutexsystemsltd.com",
+    "info@ayk.com.pk",
+    "qamar@terralink.com.pk",
+    "info@terralink.com.pk",
+    "info@microtech.net.pk",
+    "sales@microtech.net.pk",
+    "info@ahmerenterprises.com",
+    "umarmsibtain@gmail.com",
+    "hkkswat@gmail.com",
+    "info@infrasol.com.pk",
+    "rahim@infrasol.com.pk",
+    "info@mutexsystemsltd.com",
+    "info@ite.net.pk",
+    "sales@ite.net.pk",
+    "info@ltepakistan.com",
+    "ladha@bbl.com.pk",
+    "bblkhipk@hotmail.com",
+    "rafidone@gmail.com",
+    "jalal.hamid@gmail.com",
+    "info@rtautomation.pk",
+    "resco@reliable.com.pk",
+    "apac@ict-integrators.com"
+   ],
+   "_src": "第 74 批(m) 2026-10-25 逐户 from:e.sagatelecom to:<户> 发现 To≠本户 → 读该锚头 Bcc"
+  },
+  {
+   "msg_id": "19fef6807ae77bef",
+   "date": "2026-08-11",
+   "subject": "24 Port PoE Managed Switch",
+   "price_text": "Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI Price: 170USD/PC",
+   "to": "kosovaku@gmail.com",
+   "batch": "印度-3（锚 kosovaku gmail；2025-02-28 起月轮，14 轮）",
+   "bcc": [
+    "faizuddin.pasha@acceron.net",
+    "agilitybaroda@gmail.com",
+    "smchan91@gmail.com",
+    "sales@cpplusworld.com",
+    "sales@hytec.co.jp",
+    "sales@cogenttechsolutions.in",
+    "smalleye4u@gmail.com",
+    "4urservice.info@gmail.com",
+    "ammol_009@live.com",
+    "ammol_009@hotmail.com",
+    "sales@vectorinfotech.com",
+    "patelpradeep86@gmail.com",
+    "support@zebronics.com"
+   ],
+   "_src": "第 74 批(m) 2026-10-25 逐户 from:e.sagatelecom to:<户> 发现 To≠本户 → 读该锚头 Bcc"
+  },
+  {
+   "msg_id": "1999e5b2e63ea7b6",
+   "date": "2025-10-01",
+   "subject": "10G Enterprise SFP Switch",
+   "price_text": "Hi, How are you? This is our 24-port Marvell-based managed SFP switch. 1, 4 port 1G SFP+8-port 1G SFP/RJ45 Combo +4*10G SFP+ 2, Dual AC input 3, Support fan monitoring/dual PSU status monitoring",
+   "to": "sales@unilinkcommunication.com",
+   "batch": "BE/NZ/BG/TR/IE/MD/RO+非洲散户",
+   "bcc": [
+    "info@hms-networks.com",
+    "info@belram.be",
+    "alanw@atlasgentech.co.nz",
+    "angelov@andi-bg.com",
+    "okan@okisan.com",
+    "magallsys@yahoo.com",
+    "michale.cotter@aniar.ie",
+    "melbin.pj@axis-solutions.com",
+    "andrei.cornea@daac-system.md",
+    "alexander.carajia@daac-system.md",
+    "magda@emporium.ro",
+    "bfatmata110@gmail.com",
+    "samuisso@tescom.co.tz",
+    "ildar.i.salimov@gmail.com",
+    "zacariaseuzebioeuzebio@gmail.com",
+    "cebuka.generalsupply@gmail.com",
+    "mcobonyo290@gmail.com",
+    "jmlobognon@gmail.com"
+   ],
+   "_src": "第 74 批(m) 2026-10-25 逐户 from:e.sagatelecom to:<户> 发现 To≠本户 → 读该锚头 Bcc"
+  },
+  {
+   "msg_id": "1a08a7cf5fc993e4",
+   "date": "2026-09-10",
+   "subject": "24 Port PoE Managed Switch",
+   "price_text": "Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI Price: 170USD/PC",
+   "to": "thuyluc1973@gmail.com",
+   "batch": "越南-2（锚 thuyluc1973 gmail；仅 2026-09-10 一轮）",
+   "bcc": [
+    "vugiasecurity@gmail.com",
+    "tuong.tv@nme.vn",
+    "info@nme.vn",
+    "tuong.tv@outlook.com",
+    "semtec2017@gmail.com",
+    "info@c-link.vn",
+    "congviet@c-link.vn",
+    "hoa.lx@ictech.vn",
+    "duan@mangthanhcong.vn",
+    "ketoan@mangthanhcong.vn",
+    "huong.ttm@ictech.vn",
+    "thinh@vncc.vn",
+    "info@phucbinh.com.vn"
+   ],
+   "_src": "第 74 批(m) 2026-10-25 逐户 from:e.sagatelecom to:<户> 发现 To≠本户 → 读该锚头 Bcc"
+  },
+  {
+   "msg_id": "199c6c679ed7a131",
+   "date": "2025-10-09",
+   "subject": "10G Enterprise SFP Switch",
+   "price_text": "Hi, How are you? This is our 24-port Marvell-based managed SFP switch. 1, 4 port 1G SFP+8-port 1G SFP/RJ45 Combo +4*10G SFP+ 2, Dual AC input 3, Support fan monitoring/dual PSU status monitoring",
+   "to": "apr.securitysystems@bosch.com",
+   "batch": "新加坡（锚 bosch APR SG；2025-04-04 起月轮，7 轮，2025-10-09 止）",
+   "bcc": [
+    "alan_ftss@yahoo.com.sg",
+    "roy.xr.tan@starhub.com",
+    "james@actel.com.sg",
+    "sales@actel.com.sg",
+    "enquiries@syspro.com.sg",
+    "lloydpan@hotmail.com",
+    "sales@prolink2u.com"
+   ],
+   "_src": "第 74 批(m) 2026-10-25 逐户 from:e.sagatelecom to:<户> 发现 To≠本户 → 读该锚头 Bcc"
+  },
+  {
+   "msg_id": "1a045b847fd024f7",
+   "date": "2026-08-28",
+   "subject": "24 Port PoE Managed Switch",
+   "price_text": "Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI Price: 170USD/PC",
+   "to": "sales@fibresales.com.au",
+   "batch": "澳大利亚（锚 fibresales.com.au；2025-04-13 起月轮，10 轮）",
+   "bcc": [
+    "misaltech@bigpond.com",
+    "lysangloc@defence.gov.au",
+    "sales@grovecoms.net.au",
+    "sales@cablesonline.com.au",
+    "info@bennett-electronics.com.au",
+    "sales@streakwave.com.au",
+    "jawn1011@hotmail.com",
+    "info@iot-store.com.au",
+    "sales@eql.com.au",
+    "shop@wisp.net.au",
+    "sales@gsasystems.com.au",
+    "enquiry@opticalsolutions.com.au",
+    "wangara@ple.com.au",
+    "bentley@ple.com.au",
+    "enquiries@csd.com.au",
+    "support@cplonline.com.au",
+    "sales@4cabling.com.au",
+    "support@msy.com.au",
+    "sales@ass.com.au",
+    "ganaa725@gmail.com",
+    "markozlad123@gmail.com",
+    "info@oceancontrols.com.au",
+    "sales@sapply.com",
+    "customerservice@ipd.com.au",
+    "sales@tekdis.com.au",
+    "denis@cqit.com.au",
+    "info@matchmaster.com.au",
+    "sales@jamellcables.com.au"
+   ],
+   "_src": "第 74 批(m) 2026-10-25 逐户 from:e.sagatelecom to:<户> 发现 To≠本户 → 读该锚头 Bcc"
+  },
+  {
+   "msg_id": "1977c547836f79ed",
+   "date": "2025-06-17",
+   "subject": "10G Media Converter",
+   "price_text": "Hi, How are you? This is a 10G Ethernet media converter for you. Good outlook and 14-slot rack mountable. Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non-PoE, DC5~12V input",
+   "to": "sureshch1968@gmail.com",
+   "batch": "印度-4（锚 sureshch1968 gmail；2025-03-13 起月轮，13 轮）",
+   "bcc": [
+    "shalvi_infotech@yahoo.com",
+    "parushaprashanth@gmail.com",
+    "vipinjangra786@gmail.com",
+    "stsinfonet@gmail.com",
+    "kamaljitharish@gmail.com",
+    "shaib3605@gmail.com",
+    "lodhibhupendrasingh432@gmail.com",
+    "bmcablenet@gmail.com",
+    "sushilkumarjaisalmer@gmail.com",
+    "sureshrajanmp@gmail.com",
+    "kodan.r@gmail.com",
+    "moiz1973@gmail.com",
+    "lohiarajesh@yahoo.co.in",
+    "muthuvi15885@gmail.com",
+    "info@citsindia.com",
+    "subash1982@gmail.com",
+    "chashmitabaroda@gmail.com",
+    "hyduniversal@gmail.com",
+    "uttechno@gmail.com",
+    "sanjaytelecom@hotmail.com",
+    "vizorsanjay@gmail.com",
+    "info@daccess.co.in",
+    "manish_kanchi@rediffmail.com",
+    "contact.spyvision@gmail.com"
+   ],
+   "_src": "第 74 批(m) 2026-10-25 逐户 from:e.sagatelecom to:<户> 发现 To≠本户 → 读该锚头 Bcc"
+  },
+  {
+   "msg_id": "197bbf1dffd89c7f",
+   "date": "2025-06-29",
+   "subject": "48 Port PoE Managed Switch",
+   "price_text": "Hi, How are you? There is a Marvell based 52 port Rack network switch for you. 4*1G/2.5G/10G SFP+48*10/100/1000M Copper, L2+ Managed, PoE af/at, 400W budget Support STP/RSTP/MSTP/ERPS, L3 static",
+   "to": "sales@solimedia.net",
+   "batch": "US-3",
+   "bcc": [
+    "sales@snwtech.com",
+    "sales@questtel.com",
+    "sales@sescom.com",
+    "sales@sealevel.com",
+    "sales@rspsupply.com",
+    "gary.morin@filocleantech.com",
+    "orders@filocleantech.com",
+    "dennis@filocleantech.com",
+    "sales@icomtechinc.com",
+    "sales@provantage.com",
+    "info@reichelt.de",
+    "mohammadmhagghhhj@gmail.com",
+    "aelman@aol.com",
+    "michael@crystaloneit.com",
+    "banilists@gmail.com",
+    "salman_fas@hotmail.com",
+    "fb7supriyadi@gmail.com",
+    "lucas.stoco@7techusa.com",
+    "jason.lee@harddiskdirect.com",
+    "info@3deye.me",
+    "vermarhemi@hotmail.com",
+    "cozorthuckles@hotmail.com",
+    "marketing@silmarelectronics.com",
+    "sales@fibersavvy.com",
+    "graybarsupport@graybar.com",
+    "store@hardboxusa.com",
+    "sales@neteon.net",
+    "purchasing@towerpower.com",
+    "sales@markertek.com",
+    "editsystems@markertek.com",
+    "sales@westwardsales.com",
+    "alimard_mehrdad@yahoo.com",
+    "nate.cline@alphanetcom.com",
+    "sales@dlvweb.com",
+    "sales@linhaw.com",
+    "sales@fiberopticsupply.com",
+    "nisar6@surewest.net",
+    "sales@eminnovate.com",
+    "sales@accuratetechnologies.com",
+    "sales@sfpex.com",
+    "info@fibersystem.com",
+    "sales@compufox.com",
+    "jsibrava@amphenol-aao.com"
+   ],
+   "_src": "第 74 批(m) 2026-10-25 逐户 from:e.sagatelecom to:<户> 发现 To≠本户 → 读该锚头 Bcc"
+  },
+  {
+   "msg_id": "1961e48a695e465f",
+   "date": "2025-04-10",
+   "subject": "Industrial PoE Switch",
+   "price_text": "Hi, How are you? This is a Marvell based industrial PoE switch for you. Port: 2*Gigabit SFP+4*Gigabit PoE Feature: 120W budget, PoE watchdog, 250-meter poe distance, support DIP",
+   "to": "support@sislinfotech.com",
+   "batch": "印度-5 工业/仪控（锚 sislinfotech；2025-04-10 起月轮，10 轮）",
+   "bcc": [
+    "arjun_mittal@sislinfotech.com",
+    "gentopapp@gmail.com",
+    "sales@modiithub.com",
+    "viswanadh@sritech.in",
+    "sales@bbcpl.in",
+    "info@bioroles.com",
+    "ramex.htech@gmail.com",
+    "kamleshwar@k15solutions.com",
+    "infoautomation18@gmail.com",
+    "pyrotech@pyrotechindia.com",
+    "info@atronic.co.in",
+    "sales@masibus.com",
+    "sharjah@masibus.com",
+    "raj@mootek.in",
+    "netlink@netlinkict.com",
+    "info@thetacontrols.com",
+    "sales@thetacontrols.com",
+    "info@sigma-byte.com",
+    "info@econtroldevices.com",
+    "hanutechsolution2018@gmail.com",
+    "sales@apmkingstrack.com",
+    "info@cohesiveglobal.com",
+    "kalpak.arware@smartlink.co.in",
+    "info@lapistechnologies.in"
+   ],
+   "_src": "第 74 批(m) 2026-10-25 逐户 from:e.sagatelecom to:<户> 发现 To≠本户 → 读该锚头 Bcc"
+  },
+  {
+   "msg_id": "1a07c2c1996302a5",
+   "date": "2026-09-07",
+   "subject": "24 Port PoE Managed Switch",
+   "price_text": "Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI Price: 170USD/PC",
+   "to": "businesswise1@hotmail.com",
+   "batch": "拉美-2（锚 businesswise1 hotmail；2025-02-12 起月轮，11 轮）",
+   "bcc": [
+    "jamtvproduccion@hotmail.com",
+    "daniel@linkstore.cl",
+    "aihuamanj@gmail.com",
+    "fernandochrist@hotmail.com",
+    "causa8@gmail.com",
+    "cgutierrez@canalonce.com.uy",
+    "eliel.alarcon.lozada@gmail.com",
+    "luismoreta3@gmail.com",
+    "mpjlopeza@gmail.com",
+    "castillerojose@yahoo.com",
+    "jose.castillero@masters-solutions.com",
+    "rosulos@gmail.com",
+    "buying@relevantmediasa.com",
+    "mail@mitechsystems.net",
+    "mitechmail@gmail.com"
+   ],
+   "_src": "第 74 批(m) 2026-10-25 逐户 from:e.sagatelecom to:<户> 发现 To≠本户 → 读该锚头 Bcc"
+  },
+  {
+   "msg_id": "19c31cb1a96624ed",
+   "date": "2026-02-06",
+   "subject": "OEM Core Switching Solution",
+   "price_text": "Hi, How are you? I am introducing our CENTEC-based core and aggregation switches. 1, A cost-effective alternative to Cisco or Huawei models 2, Multiple models(10G~800G) available for various network",
+   "to": "gunjan@xexagon.co.in",
+   "batch": "印度-6 安防分销（锚 gunjan@xexagon.co.in；2025-04-10 起，7 轮）",
+   "bcc": [
+    "info@xexagon.co.in",
+    "sales@xexagon.co.in",
+    "admin@asi.ind.in",
+    "info@globusinfocom.com",
+    "sales@globusinfocom.com",
+    "sales@securuscctv.com",
+    "presales.dm@discreet.co.in",
+    "ikar@mayenet.com",
+    "thekbinfotech@gmail.com",
+    "varun@vintronsmartvision.com",
+    "matchdigisol@gmail.com",
+    "admin@indraheera.org",
+    "info@mywatchdog.in",
+    "wenmdc@gmail.com",
+    "jain.deepak1@gmail.com",
+    "sales@airpro.in",
+    "info@hifocuscctv.com",
+    "support@hifocuscctv.com",
+    "info@anextech.co.in",
+    "rahul_gupta@sssl.co.in",
+    "sales@pramaindia.in",
+    "sales@optilinknetwork.com",
+    "support@optilinknetwork.com",
+    "info@fibrostechnology.com",
+    "sales@fibrostechnology.com",
+    "vipin.chauhan@netronetworks.in",
+    "sales@netronetworks.in",
+    "sales@consistent.in",
+    "info@telenetsystems.com",
+    "care@trueview.co.in",
+    "sales@eurotechindia.com",
+    "rajeev@biolinkindia.com"
+   ],
+   "_src": "第 74 批(m) 2026-10-25 04:0x 逐户查 SB-121 时发现 varun 在 gunjan 轮的 Bcc → 读头"
+  },
+  {
+   "msg_id": "1a08075d070c32df",
+   "date": "2026-09-08",
+   "subject": "24 Port PoE Managed Switch",
+   "price_text": "Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI Price: 170USD/PC",
+   "to": "gunjan@xexagon.co.in",
+   "batch": "印度-6 安防分销（锚 gunjan@xexagon.co.in；2025-04-10 起，7 轮）",
+   "bcc": [
+    "info@xexagon.co.in",
+    "sales@xexagon.co.in",
+    "admin@asi.ind.in",
+    "info@globusinfocom.com",
+    "sales@globusinfocom.com",
+    "sales@securuscctv.com",
+    "presales.dm@discreet.co.in",
+    "ikar@mayenet.com",
+    "thekbinfotech@gmail.com",
+    "matchdigisol@gmail.com",
+    "admin@indraheera.org",
+    "info@mywatchdog.in",
+    "wenmdc@gmail.com",
+    "jain.deepak1@gmail.com",
+    "sales@airpro.in",
+    "info@hifocuscctv.com",
+    "support@hifocuscctv.com",
+    "info@anextech.co.in",
+    "rahul_gupta@sssl.co.in",
+    "sales@pramaindia.in",
+    "sales@optilinknetwork.com",
+    "support@optilinknetwork.com",
+    "info@fibrostechnology.com",
+    "sales@fibrostechnology.com",
+    "vipin.chauhan@netronetworks.in",
+    "sales@netronetworks.in",
+    "sales@consistent.in",
+    "info@telenetsystems.com",
+    "care@trueview.co.in",
+    "sales@eurotechindia.com"
+   ],
+   "_src": "第 74 批(m) 2026-10-25 04:0x 逐户查 SB-121 时发现 varun 在 gunjan 轮的 Bcc → 读头"
   }
  ],
  "campaign_24poe_heads": {
@@ -5249,7 +5756,507 @@
     }
    ],
    "_src": "2026-10-25 03:4x 第 74 批(l)：`from:e.sagatelecom to:sales@soyuzsp.ru` 一次拉全程 complete:true = 13 轮 2025-02-20→2026-08-26（此前「201+」是 Gmail result_size_estimate 的估算伪数，不是轮数）"
+  },
+  "zakupki@dozor23.ru": {
+   "batch": "俄罗斯-5（锚 dozor23.ru 采购；2025-02-22 起月轮，6 轮，2025-07-14 止）",
+   "campaigns": [
+    {
+     "msg_id": "1952d875b7672370",
+     "date": "2025-02-22",
+     "subject": "Industrial PoE Switch"
+    },
+    {
+     "msg_id": "195a87b2f6460b4f",
+     "date": "2025-03-18",
+     "subject": "Marvell Alleycat5 Solution"
+    },
+    {
+     "msg_id": "1962446293b5b185",
+     "date": "2025-04-11",
+     "subject": "Commercial PoE Switch"
+    },
+    {
+     "msg_id": "196bf1840ae319cf",
+     "date": "2025-05-11",
+     "subject": "8 Port Industrial PoE Switch"
+    },
+    {
+     "msg_id": "1976e065dcac9f3a",
+     "date": "2025-06-14",
+     "subject": "48 Port PoE Managed Switch"
+    },
+    {
+     "msg_id": "198092904a7b6f12",
+     "date": "2025-07-14",
+     "subject": "16 Port Ethernet Switch"
+    }
+   ],
+   "_src": "第 74 批(m) 2026-10-25 `from:e.sagatelecom to:zakupki@dozor23.ru` complete:true，6 轮（Re: 行已剔）"
+  },
+  "businesswise1@hotmail.com": {
+   "batch": "拉美-2（锚 businesswise1 hotmail；2025-02-12 起月轮，11 轮）",
+   "campaigns": [
+    {
+     "msg_id": "194f646759c1fda8",
+     "date": "2025-02-12",
+     "subject": "10G Media Converter"
+    },
+    {
+     "msg_id": "1961168c180e53ab",
+     "date": "2025-04-08",
+     "subject": "Industrial PoE Switch"
+    },
+    {
+     "msg_id": "196914c022a941c0",
+     "date": "2025-05-02",
+     "subject": "Commercial PoE Switch"
+    },
+    {
+     "msg_id": "19731915fa672245",
+     "date": "2025-06-03",
+     "subject": "48 Port PoE Managed Switch"
+    },
+    {
+     "msg_id": "197cbb5832cf968b",
+     "date": "2025-07-02",
+     "subject": "16 Port Ethernet Switch"
+    },
+    {
+     "msg_id": "1987fd40d724720e",
+     "date": "2025-08-06",
+     "subject": "Mini Industrial PoE Switch"
+    },
+    {
+     "msg_id": "199ba0eda100bf34",
+     "date": "2025-10-06",
+     "subject": "10G Enterprise SFP Switch"
+    },
+    {
+     "msg_id": "19a97813b1ceabaf",
+     "date": "2025-11-18",
+     "subject": "Industrial PoE Switch"
+    },
+    {
+     "msg_id": "19c28fd13ff294dd",
+     "date": "2026-02-04",
+     "subject": "OEM Core Switching Solution"
+    },
+    {
+     "msg_id": "19dd4859efd434a4",
+     "date": "2026-04-28",
+     "subject": "Updated Ethernet Switches Links"
+    },
+    {
+     "msg_id": "1a07c2c1996302a5",
+     "date": "2026-09-07",
+     "subject": "24 Port PoE Managed Switch"
+    }
+   ],
+   "_src": "第 74 批(m) 2026-10-25 `from:e.sagatelecom to:businesswise1@hotmail.com` complete:true，11 轮（Re: 行已剔）"
+  },
+  "info@globalconnectsynergy.com": {
+   "batch": "巴基斯坦（锚 globalconnectsynergy PK）",
+   "campaigns": [
+    {
+     "msg_id": "19619224a25f0228",
+     "date": "2025-04-09",
+     "subject": "Mini Industrial PoE Switch"
+    },
+    {
+     "msg_id": "1968fc7d5cf6c690",
+     "date": "2025-05-02",
+     "subject": "Commercial Network Switch"
+    },
+    {
+     "msg_id": "19734cb2d789fa43",
+     "date": "2025-06-03",
+     "subject": "10G Media Converter"
+    },
+    {
+     "msg_id": "197c9c636e41b230",
+     "date": "2025-07-02",
+     "subject": "16 Port Ethernet Switch"
+    },
+    {
+     "msg_id": "19878f37c6c76419",
+     "date": "2025-08-05",
+     "subject": "8 Port Industrial PoE Switch"
+    },
+    {
+     "msg_id": "199bd50e7afe0255",
+     "date": "2025-10-07",
+     "subject": "10G Enterprise SFP Switch"
+    },
+    {
+     "msg_id": "19a90661299e1de4",
+     "date": "2025-11-17",
+     "subject": "Industrial PoE Switch"
+    },
+    {
+     "msg_id": "19dcddce91f66570",
+     "date": "2026-04-27",
+     "subject": "Updated Ethernet Switches Links"
+    },
+    {
+     "msg_id": "1a07aaaa8ce34b26",
+     "date": "2026-09-07",
+     "subject": "24 Port PoE Managed Switch"
+    }
+   ],
+   "_src": "第 74 批(m) 2026-10-25 `from:e.sagatelecom to:info@globalconnectsynergy.com` complete:true，9 轮（Re: 行已剔）"
+  },
+  "kosovaku@gmail.com": {
+   "batch": "印度-3（锚 kosovaku gmail；2025-02-28 起月轮，14 轮）",
+   "campaigns": [
+    {
+     "msg_id": "1954a9a97c7bafcd",
+     "date": "2025-02-28",
+     "subject": "Industrial PoE Switch"
+    },
+    {
+     "msg_id": "195cb9081631e2ef",
+     "date": "2025-03-25",
+     "subject": "48 Port PoE Managed Switch"
+    },
+    {
+     "msg_id": "19660968788c11c6",
+     "date": "2025-04-23",
+     "subject": "Commercial PoE Switch"
+    },
+    {
+     "msg_id": "196ec26fa6963c14",
+     "date": "2025-05-20",
+     "subject": "Commercial Network Switch"
+    },
+    {
+     "msg_id": "1978bb0a977a5498",
+     "date": "2025-06-20",
+     "subject": "16 Port Ethernet Switch"
+    },
+    {
+     "msg_id": "198266af302a19c3",
+     "date": "2025-07-20",
+     "subject": "8 Port Industrial PoE Switch"
+    },
+    {
+     "msg_id": "198c56b4b2af1ef4",
+     "date": "2025-08-20",
+     "subject": "Mini Industrial PoE Switch"
+    },
+    {
+     "msg_id": "1998441aa43d2fda",
+     "date": "2025-09-26",
+     "subject": "10G Enterprise SFP Switch"
+    },
+    {
+     "msg_id": "19a2447db77f9fee",
+     "date": "2025-10-27",
+     "subject": "Industrial PoE Switch"
+    },
+    {
+     "msg_id": "19afc5dd9d43fffe",
+     "date": "2025-12-08",
+     "subject": "Booster PoE Switch"
+    },
+    {
+     "msg_id": "19cb701942401494",
+     "date": "2026-03-04",
+     "subject": "Updated Ethernet Switches Links"
+    },
+    {
+     "msg_id": "19d618416df12324",
+     "date": "2026-04-06",
+     "subject": "Marvell Managed Commercial Switches"
+    },
+    {
+     "msg_id": "19e1ae3890188ab9",
+     "date": "2026-05-12",
+     "subject": "10G Enterprise SFP Switch"
+    },
+    {
+     "msg_id": "19fef6807ae77bef",
+     "date": "2026-08-11",
+     "subject": "24 Port PoE Managed Switch"
+    }
+   ],
+   "_src": "第 74 批(m) 2026-10-25 `from:e.sagatelecom to:kosovaku@gmail.com` complete:true，14 轮（Re: 行已剔）"
+  },
+  "thuyluc1973@gmail.com": {
+   "batch": "越南-2（锚 thuyluc1973 gmail；仅 2026-09-10 一轮）",
+   "campaigns": [
+    {
+     "msg_id": "1a08a7cf5fc993e4",
+     "date": "2026-09-10",
+     "subject": "24 Port PoE Managed Switch"
+    }
+   ],
+   "_src": "第 74 批(m) 2026-10-25 `from:e.sagatelecom to:thuyluc1973@gmail.com` complete:true，1 轮（Re: 行已剔）"
+  },
+  "apr.securitysystems@bosch.com": {
+   "batch": "新加坡（锚 bosch APR SG；2025-04-04 起月轮，7 轮，2025-10-09 止）",
+   "campaigns": [
+    {
+     "msg_id": "195fe86c5c62aa4f",
+     "date": "2025-04-04",
+     "subject": "48 Port PoE Managed Switch"
+    },
+    {
+     "msg_id": "1967f6ef2b154db0",
+     "date": "2025-04-29",
+     "subject": "8 Port Industrial PoE Switch"
+    },
+    {
+     "msg_id": "1970ac03ce6e5974",
+     "date": "2025-05-26",
+     "subject": "Mini Industrial PoE Switch"
+    },
+    {
+     "msg_id": "197aa379827953d9",
+     "date": "2025-06-26",
+     "subject": "16 Port Ethernet Switch"
+    },
+    {
+     "msg_id": "19844ac4e56b98ed",
+     "date": "2025-07-26",
+     "subject": "10G Media Converter"
+    },
+    {
+     "msg_id": "198e552b61bf23dd",
+     "date": "2025-08-26",
+     "subject": "Industrial PoE Switch"
+    },
+    {
+     "msg_id": "199c6c679ed7a131",
+     "date": "2025-10-09",
+     "subject": "10G Enterprise SFP Switch"
+    }
+   ],
+   "_src": "第 74 批(m) 2026-10-25 `from:e.sagatelecom to:apr.securitysystems@bosch.com` complete:true，7 轮（Re: 行已剔）"
+  },
+  "sales@fibresales.com.au": {
+   "batch": "澳大利亚（锚 fibresales.com.au；2025-04-13 起月轮，10 轮）",
+   "campaigns": [
+    {
+     "msg_id": "1962ca912c4d547b",
+     "date": "2025-04-13",
+     "subject": "Marvell Alleycat5 Solution"
+    },
+    {
+     "msg_id": "1969df32537ac0fa",
+     "date": "2025-05-05",
+     "subject": "Mini Industrial PoE Switch"
+    },
+    {
+     "msg_id": "19742c07b1bc4dcb",
+     "date": "2025-06-06",
+     "subject": "90W PoE Managed Switch"
+    },
+    {
+     "msg_id": "197e22eb0fd47021",
+     "date": "2025-07-07",
+     "subject": "16 Port Ethernet Switch"
+    },
+    {
+     "msg_id": "1988707eb5d5035f",
+     "date": "2025-08-08",
+     "subject": "8 Port Industrial PoE Switch"
+    },
+    {
+     "msg_id": "199acb7076d9f0c7",
+     "date": "2025-10-04",
+     "subject": "10G Enterprise SFP Switch"
+    },
+    {
+     "msg_id": "19a5bcf3e19f8d8e",
+     "date": "2025-11-07",
+     "subject": "Industrial PoE Switch"
+    },
+    {
+     "msg_id": "19bf7b51abc91de7",
+     "date": "2026-01-26",
+     "subject": "OEM Core Switching Solution"
+    },
+    {
+     "msg_id": "19da82fd4599ea1d",
+     "date": "2026-04-20",
+     "subject": "Updated Ethernet Switches Links"
+    },
+    {
+     "msg_id": "1a045b847fd024f7",
+     "date": "2026-08-28",
+     "subject": "24 Port PoE Managed Switch"
+    }
+   ],
+   "_src": "第 74 批(m) 2026-10-25 `from:e.sagatelecom to:sales@fibresales.com.au` complete:true，10 轮（Re: 行已剔）"
+  },
+  "sureshch1968@gmail.com": {
+   "batch": "印度-4（锚 sureshch1968 gmail；2025-03-13 起月轮，13 轮）",
+   "campaigns": [
+    {
+     "msg_id": "1958e16960904a0b",
+     "date": "2025-03-13",
+     "subject": "16 Port Ethernet Switch"
+    },
+    {
+     "msg_id": "196580143ca9185d",
+     "date": "2025-04-21",
+     "subject": "24 Port Fiber Switch"
+    },
+    {
+     "msg_id": "196e28a0aa30fff9",
+     "date": "2025-05-18",
+     "subject": "Industrial PoE Switch"
+    },
+    {
+     "msg_id": "1977c547836f79ed",
+     "date": "2025-06-17",
+     "subject": "10G Media Converter"
+    },
+    {
+     "msg_id": "198178d1adc232e3",
+     "date": "2025-07-17",
+     "subject": "8 Port Industrial PoE Switch"
+    },
+    {
+     "msg_id": "198b714f23d23248",
+     "date": "2025-08-17",
+     "subject": "16 Port Ethernet Switch"
+    },
+    {
+     "msg_id": "19999646eebf24db",
+     "date": "2025-09-30",
+     "subject": "10G Enterprise SFP Switch"
+    },
+    {
+     "msg_id": "19a48d1ca3e3fb7b",
+     "date": "2025-11-03",
+     "subject": "Industrial PoE Switch"
+    },
+    {
+     "msg_id": "19bc058bec977991",
+     "date": "2026-01-15",
+     "subject": "OEM Core Switching Solution"
+    },
+    {
+     "msg_id": "19cd18e742e8025b",
+     "date": "2026-03-09",
+     "subject": "Updated Ethernet Switches Links"
+    },
+    {
+     "msg_id": "19d71a34baba8328",
+     "date": "2026-04-09",
+     "subject": "Marvell Managed Commercial Switches"
+    },
+    {
+     "msg_id": "19e2577ab4e815b5",
+     "date": "2026-05-14",
+     "subject": "10G Enterprise SFP Switch"
+    },
+    {
+     "msg_id": "19fff12096e4d075",
+     "date": "2026-08-14",
+     "subject": "24 Port PoE Managed Switch"
+    }
+   ],
+   "_src": "第 74 批(m) 2026-10-25 `from:e.sagatelecom to:sureshch1968@gmail.com` complete:true，13 轮（Re: 行已剔）"
+  },
+  "support@sislinfotech.com": {
+   "batch": "印度-5 工业/仪控（锚 sislinfotech；2025-04-10 起月轮，10 轮）",
+   "campaigns": [
+    {
+     "msg_id": "1961e48a695e465f",
+     "date": "2025-04-10",
+     "subject": "Industrial PoE Switch"
+    },
+    {
+     "msg_id": "19695443f9f3f199",
+     "date": "2025-05-03",
+     "subject": "48 Port PoE Managed Switch"
+    },
+    {
+     "msg_id": "197391978213ca78",
+     "date": "2025-06-04",
+     "subject": "16 Port Ethernet Switch"
+    },
+    {
+     "msg_id": "197ceb779dafe54f",
+     "date": "2025-07-03",
+     "subject": "8 Port Industrial PoE Switch"
+    },
+    {
+     "msg_id": "1987dace7c3983e2",
+     "date": "2025-08-06",
+     "subject": "24 Port Fiber Switch"
+    },
+    {
+     "msg_id": "199b831df6db1eb4",
+     "date": "2025-10-06",
+     "subject": "10G Enterprise SFP Switch"
+    },
+    {
+     "msg_id": "19a9af10c873fde3",
+     "date": "2025-11-19",
+     "subject": "Industrial PoE Switch"
+    },
+    {
+     "msg_id": "19c315c52da03aac",
+     "date": "2026-02-06",
+     "subject": "OEM Core Switching Solution"
+    },
+    {
+     "msg_id": "19dd82d4be7e4e57",
+     "date": "2026-04-29",
+     "subject": "Updated Ethernet Switches Links"
+    },
+    {
+     "msg_id": "1a07fec7dd405d59",
+     "date": "2026-09-08",
+     "subject": "24 Port PoE Managed Switch"
+    }
+   ],
+   "_src": "第 74 批(m) 2026-10-25 `from:e.sagatelecom to:support@sislinfotech.com` complete:true，10 轮（Re: 行已剔）"
+  },
+  "gunjan@xexagon.co.in": {
+   "batch": "印度-6 安防分销（锚 gunjan@xexagon.co.in；2025-04-10 起，7 轮）",
+   "campaigns": [
+    {
+     "msg_id": "1961ed1fbf6ef005",
+     "date": "2025-04-10",
+     "subject": "48 Port PoE Managed Switch"
+    },
+    {
+     "msg_id": "19695cd92235914a",
+     "date": "2025-05-03",
+     "subject": "Commercial PoE Switch"
+    },
+    {
+     "msg_id": "19739a0f64b377a0",
+     "date": "2025-06-04",
+     "subject": "Industrial PoE Switch"
+    },
+    {
+     "msg_id": "199b88702ea1768a",
+     "date": "2025-10-06",
+     "subject": "10G Enterprise SFP Switch"
+    },
+    {
+     "msg_id": "19c31cb1a96624ed",
+     "date": "2026-02-06",
+     "subject": "OEM Core Switching Solution"
+    },
+    {
+     "msg_id": "19dd8d3006dff066",
+     "date": "2026-04-29",
+     "subject": "Updated Ethernet Switches Links"
+    },
+    {
+     "msg_id": "1a08075d070c32df",
+     "date": "2026-09-08",
+     "subject": "24 Port PoE Managed Switch"
+    }
+   ],
+   "_src": "第 74 批(m) `from:e.sagatelecom to:gunjan@xexagon.co.in` complete：To 仅 gunjan 的 7 行 = 锚轮；「VInod <sales@agsplus.in>, gunjan@」7 行 = Vinod 2025-06-06 回信后的个性化 1:1（称呼 Hi, Vinod）"
   }
  },
- "_anchors_note": "anchors = 每个群发批次的 To 首收件人（Elsa 的名单顺序稳定，同一批次每轮都是同一个 To）；campaigns = 该批次收到的全部群发（`from:e.sagatelecom to:<anchor>` complete:true）。首尾两轮 Bcc 都读过的批次，名单稳定（UK 21→38、DE 42→40、PL 19→28、US-3 43→39、IT 31→25，少数地址中途剔除/加入）。 ｜ 2026-10-25 02:0x 追加 16 锚（共 21）：每锚 `from:e.sagatelecom to:<锚>` 一次拉全程（complete:true）；锚 To 即该批次每轮同一收件人，Bcc 名单 2025-02→2026-09 基本稳定；andasis 批次最后一轮 2026-05-12（8–9 月 24-PoE 轮未发该批）；avigilon/nssi 批次 2025-07/08 才建。"
+ "_anchors_note": "anchors = 每个群发批次的 To 首收件人（Elsa 的名单顺序稳定，同一批次每轮都是同一个 To）；campaigns = 该批次收到的全部群发（`from:e.sagatelecom to:<anchor>` complete:true）。首尾两轮 Bcc 都读过的批次，名单稳定（UK 21→38、DE 42→40、PL 19→28、US-3 43→39、IT 31→25，少数地址中途剔除/加入）。 ｜ 2026-10-25 02:0x 追加 16 锚（共 21）：每锚 `from:e.sagatelecom to:<锚>` 一次拉全程（complete:true）；锚 To 即该批次每轮同一收件人，Bcc 名单 2025-02→2026-09 基本稳定；andasis 批次最后一轮 2026-05-12（8–9 月 24-PoE 轮未发该批）；avigilon/nssi 批次 2025-07/08 才建。 ｜ 2026-10-25 第 74 批(m)：逐户 `from:e.sagatelecom to:<户地址>`（to 列水合）把 120 个有 elsa_1to1 事实的 A/B 全查一遍，To≠本户的行 = 本户是该轮锚的 Bcc 收件人 → 新增锚 dozor23 / businesswise1 / kosovaku / thuyluc1973 / bosch-APR-SG / fibresales.com.au / sureshch1968 / sislinfotech（+ 已有锚 sibanda/unilink/solimedia/globalconnect 补早期或中期头）；规律：客户回过一次信后，Elsa 会把他从 Bcc 名单剔出、转入个性化逐月 1:1 名单（称呼「Hi, <名>」；如 samuisso 2025-10-01 还在 unilink Bcc，2026-08-13 已不在；emiranda 2025-07-02 在 businesswise1 Bcc，2026-09-07 已不在）。"
 }

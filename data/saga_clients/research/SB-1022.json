@@ -1,139 +1,139 @@
 {
- "code": "SB-1022",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（ctservicestore.it，快照 2026-10-21）",
- "summary": "意大利 Techlu di CT Service（Cerino Gianluca 个体安防商店/网店：防盗报警 / 自动化 / 监控套装 / 网络 / 工具 / 可视对讲；Ajax 目录；在售 PoE 交换机 SW8FE2FE-100W、SW4GE1GE-65W、PoE 分离器、Safire DIN PoE；表内「商业 PoE，ONV 的」；联系邮箱为 gmail）；群发 13 次无回复。",
- "type": "个体安防安装商兼网店（意大利南部）",
- "size": "",
- "brands_seen": [
-  "ONV",
-  "Safire",
-  "Ajax"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：Techlu di Ct Service di Cerino Gianluca；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 无线 / WiFi / 光纤 / 媒体转换 / 网络交换 / PoE",
-   "quote": "Antifurto & Allarmi Automazione Kit Videosorveglianza Networking Utensili Videocitofoni Videosorveglianza Catalogo Ajax I nostri Ultimi Articoli I nostri prodotti più venduti",
-   "url": "https://www.techlu.it/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "商业PoE ONV的",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "Techlu di CT Service：报警、自动化、监控套装、网络",
-   "quote": "Techlu di Ct Service di Cerino Gianluca ; Antifurto & Allarmi Automazione Kit Videosorveglianza Networking Utensili Videocitofoni",
-   "url": "https://www.techlu.it/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "商业 PoE ONV 的",
-   "quote": "商业PoE ONV的",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "意大利",
-  "other": "官网 ctservicestore.it，语言 it-IT，快照状态 ok；角色判定来源：官网文案"
- },
- "business_lines": [
-  "报警 / 监控 / 对讲安装与网店"
- ],
- "channels": {
-  "role": "个体安防安装商兼网店（意大利南部）",
-  "region": "意大利",
-  "contact": "ctservicemolise@gmail.com"
- },
- "signals": [
-  "栏目：Antifurto & Allarmi / Automazione / Kit Videosorveglianza / Networking / Videocitofoni",
-  "商品页 /prodotto/switch-poe-100w-sw8fe2fe-100w/、/switch-poe-gigabit-sw4ge1ge-65w/、/poe-split-30w/",
-  "站内 Safire SF-SWI1008HIPOE-GF-AC-130-DIN"
- ],
- "risks": [
-  "个体商户（gmail 联系），采购量小",
-  "现卖 ONV（深圳）：价格基准低",
-  "13 次无回复"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 20,
-  "why": "在售 ONV 百兆/千兆小 PoE → 千兆 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；百兆位 HRUI STC-028GFP（$17.6）、4 口位 HRUI STC-204GP（$20.4）"
- },
- "email_hook": "For the PoE switches you list with your camera kits (the 8-FE and 4-GE models), we supply a neutral-brand gigabit 8-PoE + 2 SFP L2+ model plus budget 4/8-port PoE units from small lots, CE/RoHS — which size sells most for you?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A/S 邮箱 21 封 2024→2026，1 次记录打开，0 回；收件 ctservicemolise@gmail.com；主题多为「Industrial PoE Switch、Marvell Alleycat5 Solution」）；Elsa 单发去信 1 封（2025-02-19「Mini Industrial PoE Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）",
-   "type": "个体安防安装商兼网店（意大利南部）",
-   "sieve": "1~2（1 次打开）",
-   "stop": "21 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
-   "lane": "意大利（欧洲全域主攻）",
-   "cadence": "一封",
-   "evidence": "gmail_digest：out 21，Opened 标签 1（Simon 群发追踪）；用户表：「商业PoE ONV的」；研究档 risks：个体商户（gmail 联系），采购量小"
-  },
-  "situation": "意大利 Techlu di CT Service（Cerino Gianluca 个体安防商店/网店：防盗报警 / 自动化 / 监控套装 / 网络 / 工具 / 可视对讲；Ajax 目录；在售 PoE 交换机 SW8FE2FE-100W、SW4GE1GE-65W、PoE 分离器、Safire DIN PoE；表内「商业 PoE，ONV 的」；联系邮箱为 gmail）；群发 13 次无回复。",
-  "need": "在售 ONV 百兆/千兆小 PoE → 千兆 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；百兆位 HRUI STC-028GFP（$17.6）、4 口位 HRUI STC-204GP（$20.4）",
-  "breakpoint": "个体商户（gmail 联系），采购量小",
-  "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 20,
-   "price": "换人再触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-08-10 $65（10G Media Converter）、2025-10-16 $280（10G Enterprise SFP Switch）",
-   "why": "在售 ONV 百兆/千兆小 PoE → 千兆 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；百兆位 HRUI STC-028GFP（$17.6）、4 口位 HRUI STC-204GP（$20.4）。已打开的主题（1/21 封有打开记录）：「OEM Core Switching Solution」(2026-01-28) → 读者兴趣偏「DC 核心/CENTEC」；与 P1 同类，继续",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "2027-Q1（换人后）",
-   "channel": "A 邮箱 → 具名 KP",
-   "action": "首封前知悉：Elsa 2025-02-19 单发过「Mini Industrial PoE Switch」（未见回复（Elsa 箱 Replied 标签无））；换收件人再发一封",
-   "one_question": "For the PoE switches you list with your camera kits (the 8-FE and 4-GE models), we supply a neutral-brand gigabit 8-PoE + 2 SFP L2+ model plus budget 4/8-port PoE units from small lots, CE/RoHS — which size sells most for you? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
-  },
-  "facts": [
-   {
-    "date": "2026-09-16",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "Industrial PoE Switch、Marvell Alleycat5 Solution",
-    "why": "21 封 / 1 次打开 / 0 回｜首封 2024-06-15 → 末封 2026-09-16（21 去 / 0 来）",
-    "k": "gmail_digest"
-   },
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "商业PoE ONV的",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2025-02-19",
-    "dir": "out",
-    "who": "Elsa → ctservicemolise@gmail.com",
-    "quote": "Mini Industrial PoE Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
-    "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
-    "k": "elsa_1to1",
-    "msg_id": "1951e4b355960072"
-   }
+  "code": "SB-1022",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（ctservicestore.it，快照 2026-10-21）",
+  "summary": "意大利 Techlu di CT Service（Cerino Gianluca 个体安防商店/网店：防盗报警 / 自动化 / 监控套装 / 网络 / 工具 / 可视对讲；Ajax 目录；在售 PoE 交换机 SW8FE2FE-100W、SW4GE1GE-65W、PoE 分离器、Safire DIN PoE；表内「商业 PoE，ONV 的」；联系邮箱为 gmail）；群发 13 次无回复。",
+  "type": "个体安防安装商兼网店（意大利南部）",
+  "size": "",
+  "brands_seen": [
+    "ONV",
+    "Safire",
+    "Ajax"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：Techlu di Ct Service di Cerino Gianluca；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 无线 / WiFi / 光纤 / 媒体转换 / 网络交换 / PoE",
+      "quote": "Antifurto & Allarmi Automazione Kit Videosorveglianza Networking Utensili Videocitofoni Videosorveglianza Catalogo Ajax I nostri Ultimi Articoli I nostri prodotti più venduti",
+      "url": "https://www.techlu.it/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "商业PoE ONV的",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "Techlu di CT Service：报警、自动化、监控套装、网络",
+      "quote": "Techlu di Ct Service di Cerino Gianluca ; Antifurto & Allarmi Automazione Kit Videosorveglianza Networking Utensili Videocitofoni",
+      "url": "https://www.techlu.it/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "商业 PoE ONV 的",
+      "quote": "商业PoE ONV的",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "意大利",
+    "other": "官网 ctservicestore.it，语言 it-IT，快照状态 ok；角色判定来源：官网文案"
+  },
+  "business_lines": [
+    "报警 / 监控 / 对讲安装与网店"
+  ],
+  "channels": {
+    "role": "个体安防安装商兼网店（意大利南部）",
+    "region": "意大利",
+    "contact": "ctservicemolise@gmail.com"
+  },
+  "signals": [
+    "栏目：Antifurto & Allarmi / Automazione / Kit Videosorveglianza / Networking / Videocitofoni",
+    "商品页 /prodotto/switch-poe-100w-sw8fe2fe-100w/、/switch-poe-gigabit-sw4ge1ge-65w/、/poe-split-30w/",
+    "站内 Safire SF-SWI1008HIPOE-GF-AC-130-DIN"
+  ],
+  "risks": [
+    "个体商户（gmail 联系），采购量小",
+    "现卖 ONV（深圳）：价格基准低",
+    "13 次无回复"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 20,
+    "why": "在售 ONV 百兆/千兆小 PoE → 千兆 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；百兆位 HRUI STC-028GFP（$17.6）、4 口位 HRUI STC-204GP（$20.4）"
+  },
+  "email_hook": "For the PoE switches you list with your camera kits (the 8-FE and 4-GE models), we supply a neutral-brand gigabit 8-PoE + 2 SFP L2+ model plus budget 4/8-port PoE units from small lots, CE/RoHS — which size sells most for you?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A/S 邮箱 21 封 2024→2026，1 次记录打开，0 回；收件 ctservicemolise@gmail.com；主题多为「Industrial PoE Switch、Marvell Alleycat5 Solution」）；Elsa 1:1 去信 1 封（2025-02-19「Mini Industrial PoE Switch」；To 仅本户 ctservicemolise@gmail.com；Bcc 未逐封读头；同类名单抽读 24 封均无 Bcc；此后再未进 Elsa 任何名单——全箱 `from:e.sagatelecom to:ctservicemolise@gmail.com` 仅此 1 条，complete）（第 74 批(m)）",
+      "type": "个体安防安装商兼网店（意大利南部）",
+      "sieve": "1~2（1 次打开）",
+      "stop": "21 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+      "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+      "lane": "意大利（欧洲全域主攻）",
+      "cadence": "一封",
+      "evidence": "gmail_digest：out 21，Opened 标签 1（Simon 群发追踪）；用户表：「商业PoE ONV的」；研究档 risks：个体商户（gmail 联系），采购量小"
+    },
+    "situation": "意大利 Techlu di CT Service（Cerino Gianluca 个体安防商店/网店：防盗报警 / 自动化 / 监控套装 / 网络 / 工具 / 可视对讲；Ajax 目录；在售 PoE 交换机 SW8FE2FE-100W、SW4GE1GE-65W、PoE 分离器、Safire DIN PoE；表内「商业 PoE，ONV 的」；联系邮箱为 gmail）；群发 13 次无回复。",
+    "need": "在售 ONV 百兆/千兆小 PoE → 千兆 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；百兆位 HRUI STC-028GFP（$17.6）、4 口位 HRUI STC-204GP（$20.4）",
+    "breakpoint": "个体商户（gmail 联系），采购量小",
+    "saga_now": {
+      "p1": "STC-28DGGPM",
+      "tier": 20,
+      "price": "换人再触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-08-10 $65（10G Media Converter）、2025-10-16 $280（10G Enterprise SFP Switch）",
+      "why": "在售 ONV 百兆/千兆小 PoE → 千兆 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；百兆位 HRUI STC-028GFP（$17.6）、4 口位 HRUI STC-204GP（$20.4）。已打开的主题（1/21 封有打开记录）：「OEM Core Switching Solution」(2026-01-28) → 读者兴趣偏「DC 核心/CENTEC」；与 P1 同类，继续",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "2027-Q1（换人后）",
+      "channel": "A 邮箱 → 具名 KP",
+      "action": "首封前知悉：Elsa 仅 2025-02-19 单发过 1 封「Mini Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封",
+      "one_question": "For the PoE switches you list with your camera kits (the 8-FE and 4-GE models), we supply a neutral-brand gigabit 8-PoE + 2 SFP L2+ model plus budget 4/8-port PoE units from small lots, CE/RoHS — which size sells most for you? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
+    },
+    "facts": [
+      {
+        "date": "2025-02-19",
+        "dir": "out",
+        "who": "Elsa → ctservicemolise@gmail.com",
+        "quote": "Mini Industrial PoE Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+        "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
+        "k": "elsa_1to1",
+        "msg_id": "1951e4b355960072"
+      },
+      {
+        "date": "2026-09-16",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "Industrial PoE Switch、Marvell Alleycat5 Solution",
+        "why": "21 封 / 1 次打开 / 0 回｜首封 2024-06-15 → 末封 2026-09-16（21 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "商业PoE ONV的",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

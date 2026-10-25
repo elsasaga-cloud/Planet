@@ -35,28 +35,33 @@ updated: 2026-10-25
 - **是谁**：玻利维亚圣克鲁斯的技术产品批发分销商（布线 Cat6/Cat6a、光纤 SM/MM、ADSS 五金、机柜；Corning 玻利维亚分销商），官网列出销售团队邮箱/手机；E 渠道已回复，需求 550 只 90 W 工业 PoE 注入器（2017 年起用阿里国际站）。（调研 2026-10-21；表内兴趣：550个90W 工业PoE injector 2017年使用国际站）
 - **为什么是 A 级**：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-4 区域 拉美/玻利维亚；+5 最近活动 2025；-3 跟进表最近平台标记 E（已降为群发）
 - **历史互动**：实质回复 1 次；推送 2 次（2025-07-02 → 2025-10-01）；最近一次客户回复：2025-07-02：全系列电口信息
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：HRUI/Realtek 非管理 PoE 全口数（Simon 决定是否开线） — 他要的是 550 只 90W 注入器（非 Saga 品类）+ 南美批发价位 → 只有 HRUI/Realtek 非管理 PoE 线能对位，是否开线 Simon 定；在此之前不主动；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-22 $65（10G media converter）；群发里他已看到的价（续，第 66 批全量复核）：2024-06-28 $220（48 port managed switch）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：HRUI/Realtek 非管理 PoE 全口数（Simon 决定是否开线） — 他要的是 550 只 90W 注入器（非 Saga 品类）+ 南美批发价位 → 只有 HRUI/Realtek 非管理 PoE 线能对位，是否开线 Simon 定；在此之前不主动；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-22 $65（10G media converter）；群发里他已看到的价（续，第 66 批全量复核）：2024-06-28 $220（48 port managed switch）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
 - **最大未知**：官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
-- **下一步**：— — 首封前知悉：Elsa 2026-05-11 单发过「10G Enterprise SFP Switch」（未见回复（Elsa 箱 Replied 标签无））；不主动；若 Simon 开 Realtek 线则一次对位表
+- **下一步**：— — 首封前知悉：Elsa 已 1:1 去信 6 轮（2025-10-01→2026-08-04，客户回过信（2025-07-03）），此前还经锚 Bcc 触达（第 74 批(m)）；不主动；若 Simon 开 Realtek 线则一次对位表
 
-## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-25）
 
-> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-147` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-147` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-25。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未绑定（Elsa 邮箱 2025-07-02 Eduardo Miranda 要 5/8/16/24 口非管理 PoE（10/100 与千兆）「with your standard brand name and standard carton box」+ 图片 → Elsa 07-03 回复 → 无下文）；Elsa 单发去信 1 封（2026-05-11「10G Enterprise SFP Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）；另 Elsa 单发 1 封（2025-12-29「Marvell Industrial Alert System」）** ｜ 类型：玻利维亚圣克鲁斯批发分销（布线/光纤/网络，Gerente Eduardo Miranda）——南美非主攻 ｜ 筛子：0（邮件层无人工回复） ｜ 停点：Elsa 回复后无下文（回复正文未入库）；用户表「550 只 90W 注入器」需求在邮件无痕 ｜ 复活：其再次询价 ｜ 通路：BO 非主攻 ｜ 节奏：不主动 ｜ 证据：邮件：去信 8 封（2024-06-28 → 2025-01-10），来信 0；Opened 标签 0 次；收件人 emiranda@surlink-tech.com
+- **绑定等级：未绑定（Elsa 邮箱 2025-07-02 Eduardo Miranda 要 5/8/16/24 口非管理 PoE（10/100 与千兆）「with your standard brand name and standard carton box」+ 图片 → Elsa 07-03 回复 → 无下文）；Elsa 1:1 去信 6 轮 2025-10-01→2026-08-04（To 仅本户 emiranda@surlink-tech.com；头 msg 19fcd49e5fd77ab5 核对无 Bcc，称呼「Hi, Eduardo」= 个性化逐月 1:1 名单；主题 Booster PoE Switch、Marvell Industrial Alert System、Industrial PoE Switch、24 Port PoE Managed Switch…；客户来过信：Elsa 回 2025-07-03 Re:「16 Port Ethernet Switch」；此前经 锚 businesswise1@hotmail.com 的 Bcc 收到 5 轮（2025-02-12→2025-07-02）→ 回信后被 Elsa 从 Bcc 名单剔出、转入 1:1 名单）（第 74 批(m) `from:e.sagatelecom to:` 全程 complete，直收 7 条）；Elsa 群发 BCC 已触达 2025-07-02「16 Port Ethernet Switch」（价格未读），拉美-2（锚 businesswise1 hotmail；2025-02-12 起月轮，11 轮） 批次 To businesswise1@hotmail.com，0 回（第 74 批 Bcc 头核对 msg 197cbb5832cf968b）** ｜ 类型：玻利维亚圣克鲁斯批发分销（布线/光纤/网络，Gerente Eduardo Miranda）——南美非主攻 ｜ 筛子：0（邮件层无人工回复） ｜ 停点：Elsa 回复后无下文（回复正文未入库）；用户表「550 只 90W 注入器」需求在邮件无痕 ｜ 复活：其再次询价 ｜ 通路：BO 非主攻 ｜ 节奏：不主动 ｜ 证据：邮件：去信 8 封（2024-06-28 → 2025-01-10），来信 0；Opened 标签 0 次；收件人 emiranda@surlink-tech.com；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To businesswise1@hotmail.com）本户见于 2025-07-02 名单；2026-09-07 最新一轮名单已不含此地址 → 中途被剔除（退信 / 退订 / 手工）；该批次最早 2025-02-12 起共 11 轮，更早轮次 Bcc 未读
 - **现状一句话**：Eduardo 的来信是一张清楚的采购清单：非管理 PoE 全口数、Saga 标准品牌与标准彩盒、要图片——是批发商选品。Elsa 回了，之后无回。
 - **对方真实需求（有据）**：非管理 PoE 5/8/16/24 口（商用，标准包装）。
 - **断点 / 为什么停在这里**：回复后静默；价格段（南美批发）可能不匹配 Marvell。
 - **Saga 现在该推什么**：P1 **HRUI/Realtek 非管理 PoE 全口数（Simon 决定是否开线）**（20% 档，—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-22 $65（10G media converter）；群发里他已看到的价（续，第 66 批全量复核）：2024-06-28 $220（48 port managed switch））——他要的是 550 只 90W 注入器（非 Saga 品类）+ 南美批发价位 → 只有 HRUI/Realtek 非管理 PoE 线能对位，是否开线 Simon 定；在此之前不主动
-- **下一步（具体）**：—　—　首封前知悉：Elsa 2026-05-11 单发过「10G Enterprise SFP Switch」（未见回复（Elsa 箱 Replied 标签无））；不主动；若 Simon 开 Realtek 线则一次对位表
+- **下一步（具体）**：—　—　首封前知悉：Elsa 已 1:1 去信 6 轮（2025-10-01→2026-08-04，客户回过信（2025-07-03）），此前还经锚 Bcc 触达（第 74 批(m)）；不主动；若 Simon 开 Realtek 线则一次对位表
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2025-07-02 | 来（Elsa 箱） | Ing. Eduardo Miranda（Gerente） | Switch 10 100 non manageable poe / 10 100 1000 non manageable poe 5 ports 8 ports 16 ports 24 ports Must be with your standart brand name and standart carton box. Need to have pictures | 采购清单 | `E 197cbce0cb34789f` |
+| 2025-07-02 | 去 | Elsa 群发（BCC；To businesswise1@hotmail.com，拉美-2（锚 businesswise1 hotmail；2025-02-12 起月轮，11 轮） 批次） | 16 Port Ethernet Switch — （头部未取正文；见 Elsa 箱） | Elsa 箱群发 BCC 触达证据（命中地址 emiranda@surlink-tech.com, surlink-tech.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2025-07-03 | 去 | Elsa | Please see attached quotation including 1, prices 2, photos 3, packing info. It is about unit price. If you are doing a bulk purchase, lets discuss the final prices.（附 Quotation.xls，3.7 MB） | Elsa 次日回了整张报价单（5/8/16/24 口非管理 PoE）→ 无下文；报价单数字在附件里，连接器不拉附件 | `gmail_e 197cf9203e1b9d65` |
-| 2026-05-11 | out | Elsa → emiranda@surlink-tech.com | 10G Enterprise SFP Switch（Elsa 2026 年 1:1 名单重发；To 仅本户） | 本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
+| 2025-10-01 | out | Elsa → emiranda@surlink-tech.com | 10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 1/6 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:emiranda@surlink-tech.com` 全程 complete：6 轮直收；客户曾来信（见 Re: 行） | `elsa_1to1` |
+| 2025-12-03 | out | Elsa → emiranda@surlink-tech.com | Booster PoE Switch（Elsa 1:1 逐月名单第 2/6 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:emiranda@surlink-tech.com` 全程 complete：6 轮直收；客户曾来信（见 Re: 行） | `elsa_1to1` |
 | 2025-12-29 | out | Elsa → emiranda@surlink-tech.com | Marvell Industrial Alert System（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
+| 2026-04-03 | out | Elsa → emiranda@surlink-tech.com | Industrial PoE Switch（Elsa 1:1 逐月名单第 4/6 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:emiranda@surlink-tech.com` 全程 complete：6 轮直收；客户曾来信（见 Re: 行） | `elsa_1to1` |
+| 2026-05-11 | out | Elsa → emiranda@surlink-tech.com | 10G Enterprise SFP Switch（Elsa 2026 年 1:1 名单重发；To 仅本户） | 本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
+| 2026-08-04 | out | Elsa → emiranda@surlink-tech.com | 24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 6/6 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:emiranda@surlink-tech.com` 全程 complete：6 轮直收；客户曾来信（见 Re: 行） | `elsa_1to1` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：「550 只 90W 注入器」出处未见；（已核 2026-10-24，第 73 批）Elsa 07-03 回 Quotation.xls（单价 + 照片 + 装箱，「批量再谈」）；表内数字仍未入库（附件需 Takeout）
 

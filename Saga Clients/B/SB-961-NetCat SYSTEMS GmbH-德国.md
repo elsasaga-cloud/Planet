@@ -42,7 +42,7 @@ updated: 2026-10-25
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-961` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-25。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A/S 邮箱 24 封 2024→2026，无记录打开，0 回；收件 joerg.ridder@netcatsystems.de；主题多为「10G Enterprise SFP Switch、Marvell Alleycat5 Solution」）；Elsa 1:1 去信 2025-02-12「16 Port PoE Managed Switch」（To joerg.ridder@netcatsystems.de），0 回（Elsa 箱 in:sent 核对 msg 194fa3eb1c18035e）** ｜ 类型：IT 采购服务商/经销（德国，用户标「着重跟」） ｜ 筛子：1（只收到群发） ｜ 停点：24 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：停发群发；若要继续，换具名邮箱 + 只问一句 ｜ 通路：DE 主攻（四主） ｜ 节奏：一封 ｜ 证据：gmail_digest：out 24；用户表：「POE；T 49-2307-96100 加不上」；研究档 risks：采购代理型经销（品牌导向，按客户指定采购）：白牌契合度低；data/gmail_e/elsa_sent_tld_probe_2026-10-25.json（国别后缀探测，该国 Elsa 触达全集 complete:true）
+- **绑定等级：未触达（A/S 邮箱 24 封 2024→2026，无记录打开，0 回；收件 joerg.ridder@netcatsystems.de；主题多为「10G Enterprise SFP Switch、Marvell Alleycat5 Solution」）；Elsa 1:1 去信 1 封（2025-02-12「16 Port PoE Managed Switch」；To 仅本户 joerg.ridder@netcatsystems.de；Bcc 未逐封读头；同类名单抽读 24 封均无 Bcc；此后再未进 Elsa 任何名单——全箱 `from:e.sagatelecom to:joerg.ridder@netcatsystems.de` 仅此 1 条，complete）（第 74 批(m)）** ｜ 类型：IT 采购服务商/经销（德国，用户标「着重跟」） ｜ 筛子：1（只收到群发） ｜ 停点：24 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：停发群发；若要继续，换具名邮箱 + 只问一句 ｜ 通路：DE 主攻（四主） ｜ 节奏：一封 ｜ 证据：gmail_digest：out 24；用户表：「POE；T 49-2307-96100 加不上」；研究档 risks：采购代理型经销（品牌导向，按客户指定采购）：白牌契合度低；data/gmail_e/elsa_sent_tld_probe_2026-10-25.json（国别后缀探测，该国 Elsa 触达全集 complete:true）
 - **现状一句话**：德国 NetCat SYSTEMS GmbH（「We supply IT」IT 采购/供应链服务商：全品类、ISO9001、定制方案；站内 Cisco / Ubiquiti / Netgear；表内「PoE」「可以着重跟一下」，备注电话加不上；KP Joerg Ridder）；群发 15 次无回复。
 - **对方真实需求（有据）**：企业 IT 采购配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）作品牌线下的预算位；24 口 STC-424DGGPM-280W（$134.5）
 - **断点 / 为什么停在这里**：采购代理型经销（品牌导向，按客户指定采购）：白牌契合度低
