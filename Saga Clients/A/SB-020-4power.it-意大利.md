@@ -39,7 +39,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM（4Net 贴牌） — PLANET 意大利官方分销 + 自有 4Net 品牌 → 第二货源切入点是 4Net 贴牌的 8 口 L2+，价位要低于其 PLANET 进货价；锚价：STC-28DGGPM $80.7（20% 档）（第 72 批 2026-10-24）；—；群发里他已看到的价（续，第 66 批全量复核）：2025-10-13 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：You are PLANET's official Italian distributor and you also run your own 4Net networking brand, so you already know what Taiwan-grade PoE switches cost and what Italian installers accept. For the 4Net brand, do you source PoE switches as finished goods under your label today, or only resell PLANET as-is? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问） LinkedIn Pasquale Pirozzi / 4power.it 表单（无邮箱） 一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频
+- **下一步**：2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问） LinkedIn Pasquale Pirozzi / 4power.it 表单（无邮箱） 一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(al) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；LinkedIn/表单一句话；Q-33 渠道户但 Simon 定 A，一问不加频）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -50,7 +50,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：4Net 自有品牌 PoE 交换机第二货源（研究档）
 - **断点 / 为什么停在这里**：—
 - **Saga 现在该推什么**：P1 **STC-28DGGPM（4Net 贴牌）**（20% 档，锚价：STC-28DGGPM $80.7（20% 档）（第 72 批 2026-10-24）；—；群发里他已看到的价（续，第 66 批全量复核）：2025-10-13 $280（10G Enterprise SFP Switch））——PLANET 意大利官方分销 + 自有 4Net 品牌 → 第二货源切入点是 4Net 贴牌的 8 口 L2+，价位要低于其 PLANET 进货价
-- **下一步（具体）**：2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）　LinkedIn Pasquale Pirozzi / 4power.it 表单（无邮箱）　一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频
+- **下一步（具体）**：2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）　LinkedIn Pasquale Pirozzi / 4power.it 表单（无邮箱）　一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(al) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；LinkedIn/表单一句话；Q-33 渠道户但 Simon 定 A，一问不加频）
   - 第一问（只问一个）：You are PLANET's official Italian distributor and you also run your own 4Net networking brand, so you already know what Taiwan-grade PoE switches cost and what Italian installers accept. For the 4Net brand, do you source PoE switches as finished goods under your label today, or only resell PLANET as-is? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity).
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 从未去信、Replied 索引亦无此户），仓库未见原文
@@ -281,23 +281,13 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-424DGGPM-280W - 24-port Gigabit PoE+ L2+ managed switch (Marvell-based, neutral label)
+**主题**：LinkedIn / 表单一句话（复制即发；无邮箱）
 
 ```text
-Hi Pasquale,
-
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. You are PLANET's official Italian distributor and you also run your own 4Net networking brand, so you already know what Taiwan-grade PoE switches cost and what Italian installers accept. For the 4Net brand, do you source PoE switches as finished goods under your label today, or only resell PLANET as-is?
-
-We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as your PLANET GS-4210-24P4C at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $140.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
-If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Pasquale, Simon from Saga Telecom (Shenzhen). You distribute PLANET in Italy and run your own 4Net brand, so you know exactly what Taiwan-grade PoE costs. One question: for 4Net, do you buy PoE switches as finished goods under your label today, or only resell PLANET as-is? If the former: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based, $80.7 USD EXW at distributor tier (MOQ 1, 15-day validity), 4Net logo free, colour box from 200 sets.
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 

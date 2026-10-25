@@ -124,7 +124,7 @@
   "next_move": {
    "when": "2027-Q1",
    "channel": "S 邮箱 → zack@",
-   "action": "对位表 + 一句话",
+   "action": "对位表 + 一句话（第 75 批(al) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））",
    "one_question": "Which of your IGS-series SKUs would you dual-source first if a Marvell L2+ unit landed 20% under your current cost? Reference: STI-288DGGPM at $137.5 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
@@ -146,7 +146,10 @@
    }
   ],
   "proof_gaps": [],
-  "draft_en": null,
+  "draft_en": {
+   "subject": "Your IGS / IMC / IPSW series against ours - the three positions, one number each",
+   "body": "Hi Zack,\n\nIn November 2024 your VP Sales asked for the 10G media-converter datasheet and we sent it; since then only general product mails. Here is the short mapping of your own-label series against ours, at OEM tier, EXW, MOQ 1, 15-day validity, FCC/CE/RoHS, your label from small lots:\n\n- IGS 8-port Gigabit managed PoE (your $699 position): DIN-rail 8 x Gigabit PoE+ + 2 x SFP, L2+ managed with ring redundancy, Marvell-based, -40 to 75 C - model STI-288DGGPM - $137.5 USD; the L2 managed version - STI-288GPM - $85.5.\n- IPSW 6-port unmanaged PoE (your $145 position): 4 x Gigabit PoE+ + 1 x Gigabit + 1 x SFP - STI-154GP - $40.8.\n- IMC industrial media converter: Gigabit, 1 x RJ45 + 1 x SFP slot - STI-110GE - $26.5.\n\nOne question: which IGS-series SKU would you dual-source first if the managed unit landed well under your current cost?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+  },
   "as_of": "2026-10-24"
  }
 }

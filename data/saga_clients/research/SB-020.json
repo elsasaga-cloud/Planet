@@ -144,14 +144,17 @@
     "next_move": {
       "when": "2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）",
       "channel": "LinkedIn Pasquale Pirozzi / 4power.it 表单（无邮箱）",
-      "action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频",
+      "action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(al) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；LinkedIn/表单一句话；Q-33 渠道户但 Simon 定 A，一问不加频）",
       "one_question": "You are PLANET's official Italian distributor and you also run your own 4Net networking brand, so you already know what Taiwan-grade PoE switches cost and what Italian installers accept. For the 4Net brand, do you source PoE switches as finished goods under your label today, or only resell PLANET as-is? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
     },
     "facts": [],
     "proof_gaps": [
       "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 从未去信、Replied 索引亦无此户），仓库未见原文"
     ],
-    "draft_en": null,
+    "draft_en": {
+      "subject": "LinkedIn / 表单一句话（复制即发；无邮箱）",
+      "body": "Pasquale, Simon from Saga Telecom (Shenzhen). You distribute PLANET in Italy and run your own 4Net brand, so you know exactly what Taiwan-grade PoE costs. One question: for 4Net, do you buy PoE switches as finished goods under your label today, or only resell PLANET as-is? If the former: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based, $80.7 USD EXW at distributor tier (MOQ 1, 15-day validity), 4Net logo free, colour box from 200 sets."
+    },
     "as_of": "2026-10-24"
   }
 }
