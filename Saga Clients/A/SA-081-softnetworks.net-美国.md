@@ -265,7 +265,7 @@ Hi Neal,
 
 In May 2025 you asked the price of the 90 W managed PoE unit and I quoted $140; since then you had my monthly product mails and, reasonably, no reason to answer them. One real question instead.
 
-The unit is still the same: DIN-rail 8 x Gigabit PoE++ (802.3bt, 90 W ports) + 2 x SFP, L2+ managed with ring redundancy, Marvell-based, -40 to 75 C, FCC/CE/RoHS - model STI-288DGGPM-2BT - today $154 USD EXW (MOQ 1, 15-day validity; the RMB has moved from 7.2 to 6.7 against the dollar since May 2025).
+The unit is still the same: DIN-rail 8 x Gigabit PoE (6 x PoE+ and 2 x 802.3bt 90 W ports) + 2 x SFP, L2+ managed with ring redundancy, Marvell-based, -40 to 75 C, FCC/CE/RoHS - model STI-288DGGPM-2BT - today $154 USD EXW (MOQ 1, 15-day validity; the RMB has moved from 7.2 to 6.7 against the dollar since May 2025).
 
 One question: did $140 land anywhere near the price points your refurb customers accept for a managed industrial PoE unit - and if not, what would?
 
