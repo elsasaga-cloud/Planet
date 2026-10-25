@@ -252,7 +252,7 @@ updated: 2026-10-25
 ```text
 Hi Francisco,
 
-Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 2026-08-05 - and there was no reason to answer a mass mail. This one is specific. Javier, following your enquiry for five 2-SFP + 4-PoE industrial switches: we can supply a managed DIN-rail 4-PoE + 2 SFP model (−40~75 °C, 12–57 V, 802.3at, CE/RoHS) from single units, EXW USD, 10–15 days — is the requirement still open, and do you need SFP modules included?
+Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 2026-08-05 - and there was no reason to answer a mass mail. This one is specific. Following your enquiry for five 2-SFP + 4-PoE industrial switches: we can supply a managed DIN-rail 4-PoE + 2 SFP model (−40~75 °C, 12–57 V, 802.3at, CE/RoHS) from single units, EXW USD, 10–15 days — is the requirement still open, and do you need SFP modules included?
 
 We supply a Marvell-based industrial DIN-rail L2 managed switch, 4x Gigabit PoE+ plus 2 SFP (120 W) - model STI-244GPM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it with neutral packaging. Current price: $67.3 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

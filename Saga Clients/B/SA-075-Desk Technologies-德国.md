@@ -282,7 +282,7 @@ updated: 2026-10-25
 ```text
 Hi Daniel,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Herr Rupp, for the 60–80 m outdoor camera runs you described in Essen: we do not build IP67 switches, but the DIN-rail 8-port PoE+ managed unit (IP40, −40 to +75 °C, $145.7 EXW) fitted in an IP66 pole box is what our integrators use — would a sample of that configuration help your next police-site tender?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the 60–80 m outdoor camera runs you described in Essen: we do not build IP67 switches, but the DIN-rail 8-port PoE+ managed unit (IP40, −40 to +75 °C, $145.7 EXW) fitted in an IP66 pole box is what our integrators use — would a sample of that configuration help your next police-site tender?
 
 We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it with neutral packaging. Current price: $145.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

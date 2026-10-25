@@ -815,6 +815,30 @@ def elsa_touch(ent):
     return (len(facts), last['date'], subj, seen)
 
 
+
+_FOREIGN_GREET = re.compile(r"^(?:(?:Hola|Bonjour|Buongiorno|Merhaba|Dzień dobry|Здравствуйте|Olá|Hallo|Guten Tag|Ciao|Hej|Hei|Sayın|Herr|Frau|Anh|Chị|Đinh)(?:\s+[A-ZÀ-Ý][\w'’.-]+){0,2}|Chào anh/chị [^,—–-]+|[A-ZÀ-Ý][\w'’.-]+(?: Bey| Hanım)?)\s*[,，—–:-]+\s*")
+_ENG_WORDS = {'the', 'for', 'we', 'your', 'you', 'and', 'with', 'our', 'which', 'can', 'supply', 'switches', 'switch', 'next', 'beside',
+              'alongside', 'under', 'from', 'that', 'this', 'would', 'not', 'but', 'price', 'unit', 'units', 'have', 'there', 'what', 'how', 'is', 'are',
+              'any', 'where', 'still', 'could', 'should', 'need', 'it', 'same', 'also', 'only', 'worth', 'fit', 'fits', 'list', 'listing', 'range', 'sell',
+              'site', 'sites', 'first', 'before', 'after', 'when', 'again', 'more', 'than', 'asked', 'about', 'into', 'class', 'quarter', 'airflow', 'to', 'relevant'}
+
+
+def hook_lang(hk):
+    """研究档 email_hook 语言判定：返回 (english_hook, native_hook)。
+    英文钩子句（可能带外语称呼「Hola —」「Herr X,」「X Bey,」）→ 去称呼后返回英文；
+    土/俄/法/西/德/意等客户语言整句 → 不混进英文样板，整段原样返回 native 供单发。"""
+    hk = (hk or '').strip()
+    if not hk:
+        return '', ''
+    t = _FOREIGN_GREET.sub('', hk, count=1).strip()
+    words = re.findall(r"[^\W\d_]+", t.lower())
+    eng = sum(1 for w in words if w in _ENG_WORDS)
+    if re.search(r'[Ѐ-ӿ]', t) or eng < 3:
+        return '', hk
+    if t and t[0].islower():
+        t = t[0].upper() + t[1:]
+    return t, ''
+
 def email_draft(ent, g, typ, p1, tier, brands, first_q):
     if g == 'C':
         return '> C 级不出邮件样板（不主动跟进）。'
@@ -826,6 +850,11 @@ def email_draft(ent, g, typ, p1, tier, brands, first_q):
         if re.search(r'[\u4e00-\u9fff]', hook):
             m_en = re.search(r'[：:]\s*([A-Z][^）]{30,})', hook)
             hook = m_en.group(1).strip() if m_en else ''
+        native0 = ''
+        if hook:
+            hook, native0 = hook_lang(hook)
+        if native0:
+            return (f'> 研究档 email_hook 为客户语言一句话（不混进英文样板；要用就整段单发 WhatsApp/邮件，或按「产品决策」P1 手写英文稿）：\n>\n> {native0}')
         if hook:
             name = greeting_name(ent)
             hi = f'Hi {name},' if name else 'Hello,'
@@ -927,12 +956,17 @@ def email_draft(ent, g, typ, p1, tier, brands, first_q):
             return f'> 研究档 email_hook 标注「{hk}」：不出邮件样板（对方来询再按「产品决策」P1 手写）。'
         m_en = re.search(r'[：:]\s*([A-Z][^）]{30,})', hk)
         hk = m_en.group(1).strip() if m_en else ''
+    native = ''
     if hk:
         if name:  # 称呼已在 Hi 行：钩子句开头的「Name,」/「Name Bey,」去重
             hk = re.sub(r'^' + re.escape(name) + r'(?: Bey| Hanım| Bey,)?,\s*', '', hk)
             if hk and hk[0].islower():
                 hk = hk[0].upper() + hk[1:]
-        opener = opener + ' ' + hk
+        hk, native = hook_lang(hk)
+        if native:
+            hook_note = f'客户语言一句话（研究档 email_hook；要用就整段单发，不混进英文信）：{native}'
+        if hk:
+            opener = opener + ' ' + hk
     oem = ' under your own label with neutral packaging' if ('品牌' in typ or 'OEM' in typ or '分销' in typ or '经销' in typ) else ' with neutral packaging'
     short = re.split(r' \(|, ', desc)[0]
     subj = f'{p1} - {short} ({chip + ", " if chip else ""}neutral label)'

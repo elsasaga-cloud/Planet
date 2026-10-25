@@ -206,19 +206,9 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：Follow-up on your switch requirement (model confirmation in progress)
-
-```text
-Hi Şahin,
-
-We have been in touch before about PoE and industrial switches; this is a specific follow-up rather than a catalogue. ISAF'ta sorduğunuz SFP modüller için tip (1G/10G, SM/MM, mesafe) ve adet bilgisini alabilir miyim? Fiyatla birlikte 2 SFP + 8 port PoE switch (30,8 USD EXW) seçeneğini de ekleyeyim.
-
-Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
-```
-
-> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
+> 研究档 email_hook 为客户语言一句话（不混进英文样板；要用就整段单发 WhatsApp/邮件，或按「产品决策」P1 手写英文稿）：
+>
+> Şahin Bey, ISAF'ta sorduğunuz SFP modüller için tip (1G/10G, SM/MM, mesafe) ve adet bilgisini alabilir miyim? Fiyatla birlikte 2 SFP + 8 port PoE switch (30,8 USD EXW) seçeneğini de ekleyeyim.
 
 ## 新跟进记录（仓库外发出后补）
 

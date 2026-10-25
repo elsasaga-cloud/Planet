@@ -246,9 +246,11 @@ updated: 2026-10-25
 ```text
 Hi Nalan,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Rejitek endüstriyel PC hattınızın yanına DIN ray 8 port PoE+ + 2 SFP L2+ endüstriyel switch (−40/+75 °C) distribütör fiyatı EXW 139,9 USD, sunucu kabinleri için 24 port + 4×10G L3 switch 269,1 USD — 'network appliance' talebiniz bu iki gruptan hangisine yakın?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option.
 
 We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $139.9 USD EXW (price snapshot 2026-10-17, valid 15 days).
+
+One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 
 If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 
@@ -256,6 +258,8 @@ Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
 https://sagatele.com/
 ```
+
+> 研究档备注（未并入正文）：客户语言一句话（研究档 email_hook；要用就整段单发，不混进英文信）：Rejitek endüstriyel PC hattınızın yanına DIN ray 8 port PoE+ + 2 SFP L2+ endüstriyel switch (−40/+75 °C) distribütör fiyatı EXW 139,9 USD, sunucu kabinleri için 24 port + 4×10G L3 switch 269,1 USD — 'network appliance' talebiniz bu iki gruptan hangisine yakın?
 
 > 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
 

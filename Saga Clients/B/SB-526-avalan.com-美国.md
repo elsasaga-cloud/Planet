@@ -277,7 +277,7 @@ updated: 2026-10-25
 ```text
 Hi Cindy,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. John, for the small industrial PoE switches you bundle with your fuel-center wireless kits, we can supply DIN-rail 4-PoE + 1 GE and 8-PoE + 2 SFP units (−40~75 °C, 12–57 V input, FCC/CE/RoHS; managed versions on a Marvell platform) under your label from small lots — which port count do your dispenser and canopy installs use most?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the small industrial PoE switches you bundle with your fuel-center wireless kits, we can supply DIN-rail 4-PoE + 1 GE and 8-PoE + 2 SFP units (−40~75 °C, 12–57 V input, FCC/CE/RoHS; managed versions on a Marvell platform) under your label from small lots — which port count do your dispenser and canopy installs use most?
 
 We supply an industrial DIN-rail switch, 4x Gigabit PoE+ plus 1 SFP and 1 copper uplink (unmanaged) - model STI-154GP - that fits the same slot as the units you source today at a lower landed cost, and we can ship it with neutral packaging. Current price: $40.8 USD EXW (valid 15 days).
 

@@ -266,7 +266,7 @@ updated: 2026-10-25
 ```text
 Hello,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Merhaba — next to the PLANET IGS/GS lines you sell, our 2-SFP + 8-PoE industrial is $57 EXW and the Marvell L2+ GS-4210-class is $81; would a 1+1 sample to Ankara help you compare?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Next to the PLANET IGS/GS lines you sell, our 2-SFP + 8-PoE industrial is $57 EXW and the Marvell L2+ GS-4210-class is $81; would a 1+1 sample to Ankara help you compare?
 
 We supply an industrial DIN-rail switch, 8x Gigabit PoE+ plus 2 SFP (unmanaged) - model STI-288GP - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $57.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

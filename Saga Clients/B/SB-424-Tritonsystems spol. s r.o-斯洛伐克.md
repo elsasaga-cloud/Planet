@@ -268,7 +268,7 @@ updated: 2026-10-25
 ```text
 Hi Michal,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Stanislav, following your enquiry for a managed 8-PoE + 2 SFP switch: we supply that configuration on a Marvell L2+ platform (VLAN/QoS, 802.3at, web/SNMP) and a DIN-rail industrial version for outdoor cabinets, under your label from small lots, CE/RoHS — how many units per car park installation?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Following your enquiry for a managed 8-PoE + 2 SFP switch: we supply that configuration on a Marvell L2+ platform (VLAN/QoS, 802.3at, web/SNMP) and a DIN-rail industrial version for outdoor cabinets, under your label from small lots, CE/RoHS — how many units per car park installation?
 
 We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it with neutral packaging. Current price: $87.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

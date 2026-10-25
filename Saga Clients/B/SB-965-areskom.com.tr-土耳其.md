@@ -269,7 +269,7 @@ updated: 2026-10-25
 ```text
 Hello,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Merhaba — under the Westermo price points, a Marvell DIN managed 8-PoE + 2-SFP at $79 and gigabit MC at $22 EXW (CE/RoHS, −40~75 ℃); who is the product manager for industrial Ethernet at Areskom?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Under the Westermo price points, a Marvell DIN managed 8-PoE + 2-SFP at $79 and gigabit MC at $22 EXW (CE/RoHS, −40~75 ℃); who is the product manager for industrial Ethernet at Areskom?
 
 We supply a Marvell-based industrial DIN-rail L2 managed switch, 8x Gigabit PoE+ plus 2 SFP (240 W) - model STI-288GPM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it with neutral packaging. Current price: $78.9 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

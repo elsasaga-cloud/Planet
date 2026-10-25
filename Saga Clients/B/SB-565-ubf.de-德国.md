@@ -261,7 +261,7 @@ updated: 2026-10-25
 ```text
 Hello,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Guten Tag — for the Industrial-Ethernet range: DIN 2-SFP + 8-PoE at $57, 5-port mini at $17 and gigabit MC at $22 EXW (CE/RoHS, −40~75 ℃); shall I send the catalogue with the housing variants you asked about?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the Industrial-Ethernet range: DIN 2-SFP + 8-PoE at $57, 5-port mini at $17 and gigabit MC at $22 EXW (CE/RoHS, −40~75 ℃); shall I send the catalogue with the housing variants you asked about?
 
 We supply an industrial DIN-rail switch, 8x Gigabit PoE+ plus 2 SFP (unmanaged) - model STI-288GP - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $57.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

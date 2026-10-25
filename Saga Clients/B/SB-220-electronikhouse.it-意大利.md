@@ -266,7 +266,7 @@ updated: 2026-10-25
 ```text
 Hello,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Buongiorno — beside the Digitus industrial switches and the MCs you list: DIN 2-SFP + 8-PoE at $57 and gigabit MC at $22 EXW with photos / CE files for listing; shall I send the sheet?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Beside the Digitus industrial switches and the MCs you list: DIN 2-SFP + 8-PoE at $57 and gigabit MC at $22 EXW with photos / CE files for listing; shall I send the sheet?
 
 We supply an industrial DIN-rail switch, 8x Gigabit PoE+ plus 2 SFP (unmanaged) - model STI-288GP - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $57.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

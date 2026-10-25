@@ -245,7 +245,7 @@ updated: 2026-10-25
 ```text
 Hi Serkan,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Serkan Bey — for Art Sistem's 5,000 dealers, a private-label Marvell L2+ 24-PoE at $135 EXW (8-PoE $81) could sit under your Hikvision/Dahua kits; who owns private-label sourcing on your side?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For Art Sistem's 5,000 dealers, a private-label Marvell L2+ 24-PoE at $135 EXW (8-PoE $81) could sit under your Hikvision/Dahua kits; who owns private-label sourcing on your side?
 
 We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $134.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

@@ -252,7 +252,7 @@ updated: 2026-10-25
 ```text
 Hello,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Merhaba — beside the E-link converters, our DIN gigabit MC is $22 EXW and 10G SFP+/RJ45 MCs are available on request; what monthly MC volume do you move?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Beside the E-link converters, our DIN gigabit MC is $22 EXW and 10G SFP+/RJ45 MCs are available on request; what monthly MC volume do you move?
 
 We supply an industrial mini Gigabit media converter (1 fiber + 1 copper) - model STI-110GE - that fits the same slot as the E-link class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $22.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

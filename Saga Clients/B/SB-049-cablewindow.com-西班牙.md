@@ -255,7 +255,7 @@ updated: 2026-10-25
 ```text
 Hello,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Hola — next to the UTEPO switches on cablewindow.com, a Marvell L2+ 8-PoE + 2-SFP at $81 and DIN industrial 8-PoE at $57 EXW, with photos and EU files for listing; interested in 2 trial units?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Next to the UTEPO switches on cablewindow.com, a Marvell L2+ 8-PoE + 2-SFP at $81 and DIN industrial 8-PoE at $57 EXW, with photos and EU files for listing; interested in 2 trial units?
 
 We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the Utepo class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $80.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

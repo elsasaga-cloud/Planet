@@ -233,9 +233,11 @@ updated: 2026-10-25
 ```text
 Hi Dauren,
 
-Thank you again for your earlier order with us - this is a short update rather than a cold mail. Даурен, давно не списывались: новая цена на коммутатор 2 SFP + 8 портов PoE — 33,2 USD EXW (управляемый 71,0 USD), нейтральная упаковка. Какие модели сейчас лучше всего продаются у вас в Узбекистане?
+Thank you again for your earlier order with us - this is a short update rather than a cold mail.
 
 We supply an 8-port Gigabit PoE switch with 2 SFP and 2 copper uplinks (unmanaged, 120 W, PoE watchdog) - model STC-228GP - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $30.8 USD EXW (valid 15 days).
+
+One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 
 If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 
@@ -243,6 +245,8 @@ Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
 https://sagatele.com/
 ```
+
+> 研究档备注（未并入正文）：客户语言一句话（研究档 email_hook；要用就整段单发，不混进英文信）：Даурен, давно не списывались: новая цена на коммутатор 2 SFP + 8 портов PoE — 33,2 USD EXW (управляемый 71,0 USD), нейтральная упаковка. Какие модели сейчас лучше всего продаются у вас в Узбекистане?
 
 > 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
 

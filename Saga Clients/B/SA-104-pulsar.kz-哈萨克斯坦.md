@@ -299,9 +299,11 @@ updated: 2026-10-25
 ```text
 Hello,
 
-Thank you again for your earlier order with us - this is a short update rather than a cold mail. Здравствуйте, рядом с UNIPOE PM3018GSNL-330 V2 (118 195 ₸ в вашем магазине): наш коммутатор той же конфигурации 16 PoE + 2 SFP — 88,0 USD EXW, 24 PoE + 2 SFP — 93,5 USD, нейтральная или ваша упаковка. Нужен ли вам второй источник на случай сроков или цен UNIPOE?
+Thank you again for your earlier order with us - this is a short update rather than a cold mail.
 
 We supply a 16-port Gigabit PoE switch with 2 SFP uplinks (unmanaged, 300 W) - model STC-2016GP - that fits the same slot as your UNIPOE PM3018GSNL-330 V2 at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $88.0 USD EXW (valid 15 days).
+
+One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 
 If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 
@@ -309,6 +311,8 @@ Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
 https://sagatele.com/
 ```
+
+> 研究档备注（未并入正文）：客户语言一句话（研究档 email_hook；要用就整段单发，不混进英文信）：Здравствуйте, рядом с UNIPOE PM3018GSNL-330 V2 (118 195 ₸ в вашем магазине): наш коммутатор той же конфигурации 16 PoE + 2 SFP — 88,0 USD EXW, 24 PoE + 2 SFP — 93,5 USD, нейтральная или ваша упаковка. Нужен ли вам второй источник на случай сроков или цен UNIPOE?
 
 > 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
 

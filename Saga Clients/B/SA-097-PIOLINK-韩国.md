@@ -291,7 +291,7 @@ updated: 2026-10-25
 ```text
 Hi Tae,
 
-Picking up our earlier exchange about PoE / industrial switches. Jayden, you mentioned a 24-fibre unit on a higher-end Realtek/Marvell platform — if PIOLINK needs an ODM access/aggregation SKU below the TiFRONT line, I can send the L3 24+4×10G spec and a sample price; which chipset family is your software team already on?
+Picking up our earlier exchange about PoE / industrial switches. You mentioned a 24-fibre unit on a higher-end Realtek/Marvell platform — if PIOLINK needs an ODM access/aggregation SKU below the TiFRONT line, I can send the L3 24+4×10G spec and a sample price; which chipset family is your software team already on?
 
 We supply a Marvell-based 24-port Gigabit L3 switch with 4x10G SFP+ uplinks - model STC-424XGGM(L3) - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $291.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

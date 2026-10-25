@@ -260,9 +260,11 @@ updated: 2026-10-25
 ```text
 Hi Anastasia,
 
-Thank you again for your earlier order with us - this is a short update rather than a cold mail. Анастасия, по вашей линейке DK: мы делаем те же платформы — Marvell L2+ 2 SFP + 8 GbE PoE+ под маркой FIBO 87,4 USD EXW, Realtek L2 версия 77,0 USD, L3 24 GbE + 4×10G 291,5 USD, прошивка с вашим логотипом. Какую модель DK вы сейчас закупаете в наибольшем объёме?
+Thank you again for your earlier order with us - this is a short update rather than a cold mail.
 
 We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as your FIBO DK DK2110M-8T2S at a lower landed cost, and we can ship it with neutral packaging. Current price: $87.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
+
+One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 
 If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 
@@ -270,6 +272,8 @@ Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
 https://sagatele.com/
 ```
+
+> 研究档备注（未并入正文）：客户语言一句话（研究档 email_hook；要用就整段单发，不混进英文信）：Анастасия, по вашей линейке DK: мы делаем те же платформы — Marvell L2+ 2 SFP + 8 GbE PoE+ под маркой FIBO 87,4 USD EXW, Realtek L2 версия 77,0 USD, L3 24 GbE + 4×10G 291,5 USD, прошивка с вашим логотипом. Какую модель DK вы сейчас закупаете в наибольшем объёме?
 
 > 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
 

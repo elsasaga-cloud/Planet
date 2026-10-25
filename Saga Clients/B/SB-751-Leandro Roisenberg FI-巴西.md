@@ -223,7 +223,7 @@ updated: 2026-10-25
 ```text
 Hello,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Leandro, below the ORing price points — Marvell-based DIN managed 8-PoE + 2-SFP at $79 EXW and unmanaged at $57, CE/FCC/RoHS, 3-year warranty (industrial line); would a 10-pc stock trial with your NF-e flow make sense?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Below the ORing price points — Marvell-based DIN managed 8-PoE + 2-SFP at $79 EXW and unmanaged at $57, CE/FCC/RoHS, 3-year warranty (industrial line); would a 10-pc stock trial with your NF-e flow make sense?
 
 We supply a Marvell-based industrial DIN-rail L2 managed switch, 8x Gigabit PoE+ plus 2 SFP (240 W) - model STI-288GPM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $78.9 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

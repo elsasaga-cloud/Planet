@@ -234,7 +234,7 @@ updated: 2026-10-25
 ```text
 Hi Cao,
 
-Thank you again for your earlier order with us - this is a short update rather than a cold mail. Anh Duy, alongside the optical modules COMTEC imports: 2× SFP + 8× PoE switches at $33.2 EXW and industrial gigabit media converters at $22.4, neutral packing — which SFP types (1G/10G, km) do your Viettel/VNPT projects consume most, so I can pair a module quote?
+Thank you again for your earlier order with us - this is a short update rather than a cold mail. Alongside the optical modules COMTEC imports: 2× SFP + 8× PoE switches at $33.2 EXW and industrial gigabit media converters at $22.4, neutral packing — which SFP types (1G/10G, km) do your Viettel/VNPT projects consume most, so I can pair a module quote?
 
 We supply an 8-port Gigabit PoE switch with 2 SFP and 2 copper uplinks (unmanaged, 120 W, PoE watchdog) - model STC-228GP - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $30.8 USD EXW (valid 15 days).
 

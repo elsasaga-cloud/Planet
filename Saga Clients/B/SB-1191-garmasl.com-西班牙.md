@@ -243,7 +243,7 @@ updated: 2026-10-25
 ```text
 Hello,
 
-Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 2026-09-02 - and there was no reason to answer a mass mail. This one is specific. Hola — under the Red Lion/N-Tron price points, a Marvell DIN managed 8-PoE + 2-SFP at $79 EXW (ERPS, −40~75 ℃, CE); one evaluation unit for your Gipuzkoa customers?
+Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 2026-09-02 - and there was no reason to answer a mass mail. This one is specific. Under the Red Lion/N-Tron price points, a Marvell DIN managed 8-PoE + 2-SFP at $79 EXW (ERPS, −40~75 ℃, CE); one evaluation unit for your Gipuzkoa customers?
 
 We supply a Marvell-based industrial DIN-rail L2 managed switch, 8x Gigabit PoE+ plus 2 SFP (240 W) - model STI-288GPM - that fits the same slot as the redlion class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $78.9 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

@@ -225,7 +225,7 @@ updated: 2026-10-25
 ```text
 Hi Đinh,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Đinh Tú, following your request for a gigabit 1-SFP + 4-GE switch: we can supply a 1 SFP + 4 GE (PoE) desktop model or a DIN-rail 1 SFP + 4 PoE industrial unit from single units, CE/RoHS, EXW USD — how many units do you need, and is PoE required on the copper ports?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Following your request for a gigabit 1-SFP + 4-GE switch: we can supply a 1 SFP + 4 GE (PoE) desktop model or a DIN-rail 1 SFP + 4 PoE industrial unit from single units, CE/RoHS, EXW USD — how many units do you need, and is PoE required on the copper ports?
 
 We supply a 4-port Gigabit PoE switch with 1 SFP and 1 copper uplink (unmanaged) - model STC-114GP - that fits the same slot as the units you source today at a lower landed cost, and we can ship it with neutral packaging. Current price: $16.5 USD EXW (valid 15 days).
 

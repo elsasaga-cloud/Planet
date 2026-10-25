@@ -271,7 +271,7 @@ updated: 2026-10-25
 ```text
 Hi Kiyomasa,
 
-Some time ago you had a few product mails from us - most recently "Marvell Industrial Alert System" on 2025-06-23 - and there was no reason to answer a mass mail. This one is specific. Miyashita-san, for the industrial switches and media converters sold under the Diatrend label alongside your PoE and cable products, we can be an ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed, gigabit MC; −40~75 °C, CE/RoHS) from small lots in your packaging — which model do your Japanese customers reorder most?
+Some time ago you had a few product mails from us - most recently "Marvell Industrial Alert System" on 2025-06-23 - and there was no reason to answer a mass mail. This one is specific. For the industrial switches and media converters sold under the Diatrend label alongside your PoE and cable products, we can be an ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed, gigabit MC; −40~75 °C, CE/RoHS) from small lots in your packaging — which model do your Japanese customers reorder most?
 
 We supply a Marvell-based industrial DIN-rail L2 managed switch, 8x Gigabit PoE+ plus 2 SFP (240 W) - model STI-288GPM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $85.5 USD EXW (valid 15 days).
 

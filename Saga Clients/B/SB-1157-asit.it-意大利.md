@@ -265,7 +265,7 @@ updated: 2026-10-25
 ```text
 Hi Jacopo,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Marco, for the CCTV and SMB channel — Marvell L2+ 24-PoE + 4 uplinks at $135 and 24-GE + 4×10G at $127 EXW, neutral box; would a 2-unit test next to the Netgear/Zyxel units you list make sense?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the CCTV and SMB channel — Marvell L2+ 24-PoE + 4 uplinks at $135 and 24-GE + 4×10G at $127 EXW, neutral box; would a 2-unit test next to the Netgear/Zyxel units you list make sense?
 
 We supply a Marvell-based 24-port Gigabit L2+ managed switch with 4x10G SFP+ uplinks - model STC-424XGGM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $127.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

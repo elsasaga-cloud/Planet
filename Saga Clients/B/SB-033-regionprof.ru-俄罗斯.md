@@ -225,9 +225,11 @@ updated: 2026-10-25
 ```text
 Hello,
 
-Thank you again for your earlier order with us - this is a short update rather than a cold mail. Здравствуйте, вы импортируете промышленные коммутаторы Maiwe — предлагаем второй источник той же конфигурации: DIN-rail 2 SFP + 8 GbE L2+ с ERPS 139,9 USD EXW (без PoE 68,2 USD), −40/+75 °C, расчёт в CNY. Какие модели Maiwe у вас в наибольшем обороте, чтобы подготовить прямое сопоставление?
+Thank you again for your earlier order with us - this is a short update rather than a cold mail.
 
 We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as the Maiwe class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $139.9 USD EXW (price snapshot 2026-10-17, valid 15 days).
+
+One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 
 If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 
@@ -235,6 +237,8 @@ Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
 https://sagatele.com/
 ```
+
+> 研究档备注（未并入正文）：客户语言一句话（研究档 email_hook；要用就整段单发，不混进英文信）：Здравствуйте, вы импортируете промышленные коммутаторы Maiwe — предлагаем второй источник той же конфигурации: DIN-rail 2 SFP + 8 GbE L2+ с ERPS 139,9 USD EXW (без PoE 68,2 USD), −40/+75 °C, расчёт в CNY. Какие модели Maiwe у вас в наибольшем обороте, чтобы подготовить прямое сопоставление?
 
 > 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
 

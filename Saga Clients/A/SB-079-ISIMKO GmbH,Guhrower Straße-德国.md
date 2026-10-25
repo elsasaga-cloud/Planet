@@ -259,9 +259,11 @@ updated: 2026-10-25
 ```text
 Hi Ralph,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Herr Hannemann, zu Ihrer Anfrage „12 × Glasfaser / 12 × Kupfer": das nächstliegende Industriegerät ist 8 × SFP + 4 × 10G SFP+ und 8 × RJ45 (DIN, −40 bis +75 °C, $332.6 EXW); alternativ ein 19"-Gerät mit 16 SFP + 8 Combo-Ports ($392.4) — welche Variante passt zum Schaltschrank?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option.
 
 We supply a Marvell-based industrial L2+ managed switch, 8x Gigabit plus 8 SFP plus 4x 2.5G SFP uplinks - model STI-488DGGGM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $332.6 USD EXW (valid 15 days).
+
+One question: Which switch model are you buying most often right now, and roughly how many units a month?
 
 If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 
@@ -269,6 +271,8 @@ Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
 https://sagatele.com/
 ```
+
+> 研究档备注（未并入正文）：客户语言一句话（研究档 email_hook；要用就整段单发，不混进英文信）：Herr Hannemann, zu Ihrer Anfrage „12 × Glasfaser / 12 × Kupfer": das nächstliegende Industriegerät ist 8 × SFP + 4 × 10G SFP+ und 8 × RJ45 (DIN, −40 bis +75 °C, $332.6 EXW); alternativ ein 19"-Gerät mit 16 SFP + 8 Combo-Ports ($392.4) — welche Variante passt zum Schaltschrank?
 
 > 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
 

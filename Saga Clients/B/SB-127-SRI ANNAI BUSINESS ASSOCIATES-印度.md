@@ -229,7 +229,7 @@ updated: 2026-10-25
 ```text
 Hello,
 
-Picking up our earlier exchange about PoE / industrial switches. Sampath, we quoted you the 8-PoE + 2-SFP managed unit at USD 75 in April 2024 — is that camera project still open, and would a 10-pc trial price help you close it?
+Picking up our earlier exchange about PoE / industrial switches. We quoted you the 8-PoE + 2-SFP managed unit at USD 75 in April 2024 — is that camera project still open, and would a 10-pc trial price help you close it?
 
 We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $84.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

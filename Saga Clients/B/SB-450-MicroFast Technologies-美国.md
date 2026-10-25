@@ -214,7 +214,7 @@ updated: 2026-10-25
 ```text
 Hi Manishkumar,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Manish, following your Ethernet-over-coax enquiry: we do not carry EoC adapters, but we supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches for CCTV and PBX installs from single units, FCC/CE/RoHS, EXW USD — is there a PoE switch position in the same hotel or office project we could quote?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Following your Ethernet-over-coax enquiry: we do not carry EoC adapters, but we supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches for CCTV and PBX installs from single units, FCC/CE/RoHS, EXW USD — is there a PoE switch position in the same hotel or office project we could quote?
 
 We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it with neutral packaging. Current price: $84.1 USD EXW (valid 15 days).
 

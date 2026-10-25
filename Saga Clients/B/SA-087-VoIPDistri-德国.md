@@ -272,7 +272,7 @@ updated: 2026-10-25
 ```text
 Hi Mathias,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Herr Gottensträter, next to the E-link industrial switches in your shop: our DIN-rail 8-port PoE+ managed switch with 2 SFP is $139.9 EXW (unmanaged $57.4), shipped direct to Halle with no German distributor in between — which E-link SKU sells best so I can match that one first?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Next to the E-link industrial switches in your shop: our DIN-rail 8-port PoE+ managed switch with 2 SFP is $139.9 EXW (unmanaged $57.4), shipped direct to Halle with no German distributor in between — which E-link SKU sells best so I can match that one first?
 
 We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as the Elink class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $139.9 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

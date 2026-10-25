@@ -261,7 +261,7 @@ updated: 2026-10-25
 ```text
 Hello,
 
-Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 2026-09-01 - and there was no reason to answer a mass mail. This one is specific. Dzień dobry — beside the Hasivo switches you list, Marvell L2+ 8-PoE + 2-SFP at $81 and 24-PoE at $135 EXW, 1-year warranty (commercial line), EU files; 2 trial units for the B2B shop?
+Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 2026-09-01 - and there was no reason to answer a mass mail. This one is specific. Beside the Hasivo switches you list, Marvell L2+ 8-PoE + 2-SFP at $81 and 24-PoE at $135 EXW, 1-year warranty (commercial line), EU files; 2 trial units for the B2B shop?
 
 We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $80.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

@@ -239,7 +239,7 @@ updated: 2026-10-25
 ```text
 Hi Mohamad,
 
-Some time ago you had a few product mails from us - most recently "10G Enterprise SFP Switch" on 2025-10-06 - and there was no reason to answer a mass mail. This one is specific. Faiza, the optical-bypass industrial switch you liked: 8 PoE + 4 SFP, L2+ managed, bypass holds the ring when the unit loses power — $194 EXW (non-PoE $179); I'll include the patch-cord/bypass wiring diagram you asked about. Which fibre type, SM LC?
+Some time ago you had a few product mails from us - most recently "10G Enterprise SFP Switch" on 2025-10-06 - and there was no reason to answer a mass mail. This one is specific. The optical-bypass industrial switch you liked: 8 PoE + 4 SFP, L2+ managed, bypass holds the ring when the unit loses power — $194 EXW (non-PoE $179); I'll include the patch-cord/bypass wiring diagram you asked about. Which fibre type, SM LC?
 
 Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)

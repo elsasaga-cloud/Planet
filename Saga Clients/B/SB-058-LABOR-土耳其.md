@@ -216,9 +216,11 @@ updated: 2026-10-25
 ```text
 Hi Ramazan,
 
-Good to meet you at ISAF 2025 in Istanbul - this follows up on what we discussed at the booth. ISAF'ta istediğiniz endüstriyel PoE switch fiyat listesi ektedir: DIN ray 8 PoE + 2 SFP 59,8 USD, 4 PoE + 1 SFP 35,5 USD, yönetilebilir 8 PoE 145,7 USD (EXW) — projeniz için hangi port sayısı öncelikli?
+Good to meet you at ISAF 2025 in Istanbul - this follows up on what we discussed at the booth.
 
 We supply an industrial DIN-rail switch, 8x Gigabit PoE+ plus 2 SFP (unmanaged) - model STI-288GP - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $59.8 USD EXW (price snapshot 2026-10-17, valid 15 days).
+
+One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 
 If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 
@@ -226,6 +228,8 @@ Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
 https://sagatele.com/
 ```
+
+> 研究档备注（未并入正文）：客户语言一句话（研究档 email_hook；要用就整段单发，不混进英文信）：ISAF'ta istediğiniz endüstriyel PoE switch fiyat listesi ektedir: DIN ray 8 PoE + 2 SFP 59,8 USD, 4 PoE + 1 SFP 35,5 USD, yönetilebilir 8 PoE 145,7 USD (EXW) — projeniz için hangi port sayısı öncelikli?
 
 > 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
 

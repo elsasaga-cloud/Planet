@@ -267,9 +267,11 @@ updated: 2026-10-25
 ```text
 Hi Olivier,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Bonjour Olivier, pour les 3 switches PoE industriels : 1 SFP + 4 PoE sur rail DIN à 35,5 $ pièce EXW (ou 2 SFP + 8 PoE à 60 $), expédition DHL vers Ajaccio en 5–7 jours ; de combien de ports PoE avez-vous besoin par site ?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option.
 
 We supply a compact industrial switch, 4x Gigabit PoE+ plus 1 SFP (unmanaged) - model STI-144GP - that fits the same slot as the units you source today at a lower landed cost, and we can ship it with neutral packaging. Current price: $35.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
+
+One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 
 If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 
@@ -277,6 +279,8 @@ Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
 https://sagatele.com/
 ```
+
+> 研究档备注（未并入正文）：客户语言一句话（研究档 email_hook；要用就整段单发，不混进英文信）：Bonjour Olivier, pour les 3 switches PoE industriels : 1 SFP + 4 PoE sur rail DIN à 35,5 $ pièce EXW (ou 2 SFP + 8 PoE à 60 $), expédition DHL vers Ajaccio en 5–7 jours ; de combien de ports PoE avez-vous besoin par site ?
 
 > 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
 

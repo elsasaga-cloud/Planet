@@ -262,7 +262,7 @@ updated: 2026-10-25
 ```text
 Hi Marek,
 
-Some time ago you had a product mail from us - "Marvell Alleycat5 Solution" on 2025-04-03 - and there was no reason to answer a mass mail. This one is specific. Media-konwertery.pl is built around converters and industrial switches, so a Marvell-based DIN PoE switch with ERPS fits your catalogue logic exactly. Which industrial PoE size sells most on your sites: 4-port, 8-port, or 16-port?
+Some time ago you had a product mail from us - "Marvell Alleycat5 Solution" on 2025-04-03 - and there was no reason to answer a mass mail. This one is specific. Konwertery.pl is built around converters and industrial switches, so a Marvell-based DIN PoE switch with ERPS fits your catalogue logic exactly. Which industrial PoE size sells most on your sites: 4-port, 8-port, or 16-port?
 
 We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as your PLANET IGS-4215-4P4T at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $139.9 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
