@@ -147,7 +147,7 @@
   "next_move": {
    "when": "2027-Q1",
    "channel": "A 邮箱 → ets@",
-   "action": "问现供价位段",
+   "action": "问现供价位段（第 75 批(q) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；预算线 HRUI STC-028GP/114GP 不写 Marvell）",
    "one_question": "What landed price per 8-port PoE switch do you pay today, so we can tell you honestly whether Marvell fits? Reference: STC-28DGGPM at $84.1 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
@@ -169,7 +169,10 @@
    }
   ],
   "proof_gaps": [],
-  "draft_en": null,
+  "draft_en": {
+   "subject": "You said our prices were rather high - so here is the budget line, and one question",
+   "body": "Hello Lachezar,\n\nIn December you looked at our price list and concluded the prices were rather high; Alan asked which model to re-price and that is where it stopped - our side as much as yours.\n\nSo, the budget line for camera sites that do not need management, CE/RoHS, EXW, MOQ 1, 15-day validity: 8 x Gigabit PoE+ + 2 x Gigabit uplinks, unmanaged - model STC-028GP - $26.2 USD; 4 x Gigabit PoE+ + 1 x Gigabit + 1 x SFP - STC-114GP - $17.8. Where a site needs VLAN and ring, the managed 8-port on Marvell stays at $84.1 - STC-28DGGPM.\n\nOne question: what do you pay today for the 8-port PoE you install most - a band is enough, and I will say yes or no in one line.\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+  },
   "as_of": "2026-10-24"
  }
 }

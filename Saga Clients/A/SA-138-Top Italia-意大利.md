@@ -39,7 +39,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM（ONV 对位主力）+ STC-4168XGGCM（他问过的 12 光 12 电 → 16 SFP + 8 Combo） — 已打开的主题（2/23 封有打开记录）：「Marvell Industrial Alert System」(2025-07-08)、「16 Port Ethernet Switch」(2025-08-13) → 读者兴趣偏「工业」；与 P1 同类，继续；首触锚价 STC-28DGGPM $87.4 + STC-4168XGGCM $408.1 EXW（30% 贴牌档——Videostar 自有品牌；PDF 上限 $99 / $413；第 73 批 2026-10-24）；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-12 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-16 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Sig. Timpanaro, for the Videostar PoE line: an 8-port gigabit PoE+ managed switch with 2 SFP (Marvell, STC-28DGGPM) is $87.4 USD EXW with your logo in the web UI (printed carton from 200 sets), and the 16-SFP + 8-combo aggregation unit you asked us about at IFSEC 2023 (STC-4168XGGCM) is $408.1 USD EXW, MOQ 1, 15-day validity — shall I send the model-by-model comparison against your current ONV codes?
 - **最大未知**：年走量与现供应商
-- **下一步**：2027-Q1 A 邮箱 → alfredo.timpanaro@topsicurezza.com（Alfredo Timpanaro） 一封对位表
+- **下一步**：2027-Q1 A 邮箱 → alfredo.timpanaro@topsicurezza.com（Alfredo Timpanaro） 一封对位表（第 75 批(q) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；STC-4168XGGCM 不报价（他 2025-10 见过群发 $280，档位 $408 冲突）——改问 ONV 型号再报）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -50,7 +50,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：12 光 12 电（ONV 对位）。
 - **断点 / 为什么停在这里**：—
 - **Saga 现在该推什么**：P1 **STC-28DGGPM（ONV 对位主力）+ STC-4168XGGCM（他问过的 12 光 12 电 → 16 SFP + 8 Combo）**（25% 档，首触锚价 STC-28DGGPM $87.4 + STC-4168XGGCM $408.1 EXW（30% 贴牌档——Videostar 自有品牌；PDF 上限 $99 / $413；第 73 批 2026-10-24）；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-12 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-16 $280（10G Enterprise SFP Switch））——已打开的主题（2/23 封有打开记录）：「Marvell Industrial Alert System」(2025-07-08)、「16 Port Ethernet Switch」(2025-08-13) → 读者兴趣偏「工业」；与 P1 同类，继续
-- **下一步（具体）**：2027-Q1　A 邮箱 → alfredo.timpanaro@topsicurezza.com（Alfredo Timpanaro）　一封对位表
+- **下一步（具体）**：2027-Q1　A 邮箱 → alfredo.timpanaro@topsicurezza.com（Alfredo Timpanaro）　一封对位表（第 75 批(q) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；STC-4168XGGCM 不报价（他 2025-10 见过群发 $280，档位 $408 冲突）——改问 ONV 型号再报）
   - 第一问（只问一个）：Sig. Timpanaro, for the Videostar PoE line: an 8-port gigabit PoE+ managed switch with 2 SFP (Marvell, STC-28DGGPM) is $87.4 USD EXW with your logo in the web UI (printed carton from 200 sets), and the 16-SFP + 8-combo aggregation unit you asked us about at IFSEC 2023 (STC-4168XGGCM) is $408.1 USD EXW, MOQ 1, 15-day validity — shall I send the model-by-model comparison against your current ONV codes?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -277,23 +277,23 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
+**主题**：Per la linea Videostar - 8-port PoE+ managed, and your ONV code for the 12-fibre unit
 
 ```text
-Hi Alfredo,
+Dear Sig. Timpanaro,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Sig. Timpanaro, for the Videostar PoE line: an 8-port gigabit PoE+ managed switch with 2 SFP (Marvell, STC-28DGGPM) is $87.4 USD EXW with your logo in the web UI (printed carton from 200 sets), and the 16-SFP + 8-combo aggregation unit you asked us about at IFSEC 2023 (STC-4168XGGCM) is $408.1 USD EXW, MOQ 1, 15-day validity — shall I send the model-by-model comparison against your current ONV codes?
+At IFSEC 2023 you told us you buy from ONV, are happy with the quality but find the price high at times, and asked about a 12-fibre + 12-copper unit and the chipset and power supply inside. The mails you had from us since were general ones; this is specific.
 
-We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the ONV class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $87.4 USD EXW (valid 15 days).
+For the Videostar PoE line: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell switch core, industrial-grade power stage, CE/RoHS - model STC-28DGGPM - $87.4 USD EXW with the Videostar logo in the web UI (MOQ 1, 15-day validity; printed carton from 200 sets). For the 12-fibre + 12-copper position I quote against the exact ONV code rather than guess.
 
-If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: which ONV code do you buy for the 12-fibre + 12-copper unit today?
 
 Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Simon
+Saga Telecom - sagatele.com
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 

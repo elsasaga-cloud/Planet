@@ -40223,7 +40223,7 @@
 "next_move": {
 "when": "2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）",
 "channel": "A 邮箱 → imports@bselectronics.gr（Vasilis Stavridis）",
-"action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频",
+"action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(q) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；2.5G 用 HRUI STC-114XGDGP；「升压 5 口」型号未核，写先确认输入电压）",
 "one_question": "Your BS-SWP series is fast-Ethernet today, so the Marvell-based gigabit managed 8-port PoE+ with 2 SFP in BS packing is the natural step up, and the 24-port version with four 10G SFP+ uplinks answers the 2.5G question from ISAF. Shall I quote the 8-port in BS packing first? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
@@ -40247,7 +40247,10 @@
 "proof_gaps": [
 "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：TLD 穷举未见 Elsa 去信、Replied 索引亦无此户），仓库未见原文"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "ISAF follow-up - the 8-port quote you asked for, and the 2.5G answer",
+"body": "Dear Vasilis,\n\nWe met at ISAF 2025 in Istanbul last October - this picks up what we discussed at the booth: you have worked with EWIND for five years, and you asked for an 8-port quote plus the 2.5G question.\n\nThe 8-port, gigabit where your BS-SWP series is still Fast Ethernet: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based, CE/RoHS - model STC-28DGGPM - $80.7 USD EXW at distributor price (MOQ 1, 15-day validity), in BS packing from small lots. The 2.5G answer: 4 x 2.5G PoE+ + 1 x 2.5G + 1 x 10G SFP+, unmanaged - STC-114XGDGP - $44.0. The 5-port booster unit I quote once you confirm the input voltage you have at the camera end.\n\nOne question: for the 8-port, is it tens or hundreds a year - that decides whether the carton carries the BS logo from the first lot?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -42794,7 +42797,7 @@
 "next_move": {
 "when": "2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）",
 "channel": "S 邮箱 → sales@born-spb.ru（Федотов Сергей Иванович（Sergey I. Fedotov））（Born SPb；用户表 5 次回复渠道不明）",
-"action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频",
+"action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(q) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））",
 "one_question": "For the media converter and 8-port PoE lines you trade, the gigabit SFP media converter and the Marvell-based 8-port PoE+ 2 SFP managed switch are the two EXW prices I am sending for your next comparison. Shall I send both for your next comparison? Reference: STI-110GE at $26.5 / STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
@@ -42850,7 +42853,10 @@
 "proof_gaps": [
 "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 从未去信、Replied 索引亦无此户），仓库未见原文"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "Two EXW numbers for your next comparison - converter and 8-port PoE",
+"body": "Hello Sergey,\n\nOver the years we exchanged a few short messages and you had our product mails; nothing in them needed an answer. For the media-converter and 8-port PoE lines you trade, the two numbers for your next comparison: industrial Gigabit media converter, 1 x RJ45 + 1 x SFP slot - model STI-110GE - $26.5 USD EXW at distributor price (MOQ 1, 15-day validity); 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based - STC-28DGGPM - $80.7. CE/RoHS files supplied; EAC stays on your side.\n\nOne question: which of the two moves more volume in your shop today, so I keep the comparison to that one?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -44243,7 +44249,7 @@
 "next_move": {
 "when": "2027-Q1",
 "channel": "LinkedIn / 官网表单",
-"action": "一次对位表",
+"action": "一次对位表（第 75 批(q) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；LinkedIn/表单短版）",
 "one_question": "Which of the DCE media-converter SKUs is sourced in Asia today, and what would a second source need to match? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
@@ -44257,7 +44263,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "LinkedIn / web form: a gigabit PoE refresh for the DCE ANS208 / ANS205CR slots",
+"body": "Hello DCE team,\n\nYour ANS208 and ANS205CR are 10/100 non-PoE; a gigabit PoE refresh under the DCE label from small lots: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, unmanaged, -40 to 75 C, FCC/CE/RoHS - model STI-288GP - $62.2 USD EXW (MOQ 1, 15-day validity); 4 x PoE+ + 1 x SFP - STI-144GP - $36.9; the 8 + 2 also as an L2+ managed version on a Marvell platform - STI-288DGGPM - $137.5. The gigabit SFP converter matching your GMC series - STI-110GE - $26.5.\n\nOne question: who owns the industrial switch and converter line at DCE now, so I send the model-by-model table to the right inbox?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -55525,7 +55534,7 @@
 "next_move": {
 "when": "2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）",
 "channel": "E 邮箱 → pkarpov@ccs-msk.ru（Elsa 原串，Pavel Karpov）",
-"action": "首封前知悉：Elsa 已 1:1 去信 3 轮（2026-04-03→2026-08-04，客户回过信（2026-01-30））（第 74 批(m)）；一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频",
+"action": "首封前知悉：Elsa 已 1:1 去信 3 轮（2026-04-03→2026-08-04，客户回过信（2026-01-30））（第 74 批(m)）；一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(q) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；Elsa 箱原串、署名 Elsa）",
 "one_question": "For the industrial and FTTO positions where a Microsens unit is now hard to source, the Marvell-based 8-port gigabit PoE + 2 SFP managed DIN switch and the 4+1 compact model are the two EXW prices I am sending. Is the Microsens replacement still open? Reference: STI-288GPM at $78.9 / STI-054GP at $32.5 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
@@ -55584,7 +55593,10 @@
 "proof_gaps": [
 "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 去信 3 轮、0 回），仓库未见原文"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "Not Brocade this time - two industrial positions where Microsens got hard to source",
+"body": "Hello Pavel,\n\nIn January you asked me for Brocade switches and I answered what I could; after that you had my monthly product mails and no reason to reply. This one is specific to your own catalogue.\n\nFor the industrial and FTTO positions where a Microsens unit is now hard to source: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, L2 managed (web GUI, VLAN, QoS, IGMP), Marvell-based, -40 to 75 C, CE/RoHS - model STI-288GPM - $78.9 USD EXW at distributor price (MOQ 1, 15-day validity); compact 4 x Gigabit PoE+ + 1 x Gigabit uplink, unmanaged - STI-054GP - $32.5. EAC stays on your side; your SFP-WDM optics plug in as they are.\n\nOne question: is it the DIN PoE position or the FTTO desktop position where the gap is bigger?\n\nBest regards,\nElsa\nSaga Telecom - sagatele.com"
+},
 "as_of": "2026-10-25"
 }
 }
@@ -64954,7 +64966,7 @@
 "next_move": {
 "when": "2027-Q1",
 "channel": "A 邮箱 → alfredo.timpanaro@topsicurezza.com（Alfredo Timpanaro）",
-"action": "一封对位表",
+"action": "一封对位表（第 75 批(q) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；STC-4168XGGCM 不报价（他 2025-10 见过群发 $280，档位 $408 冲突）——改问 ONV 型号再报）",
 "one_question": "Sig. Timpanaro, for the Videostar PoE line: an 8-port gigabit PoE+ managed switch with 2 SFP (Marvell, STC-28DGGPM) is $87.4 USD EXW with your logo in the web UI (printed carton from 200 sets), and the 16-SFP + 8-combo aggregation unit you asked us about at IFSEC 2023 (STC-4168XGGCM) is $408.1 USD EXW, MOQ 1, 15-day validity — shall I send the model-by-model comparison against your current ONV codes?"
 },
 "facts": [
@@ -64978,7 +64990,10 @@
 "proof_gaps": [
 "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 从未去信、Replied 索引亦无此户），仓库未见原文"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "Per la linea Videostar - 8-port PoE+ managed, and your ONV code for the 12-fibre unit",
+"body": "Dear Sig. Timpanaro,\n\nAt IFSEC 2023 you told us you buy from ONV, are happy with the quality but find the price high at times, and asked about a 12-fibre + 12-copper unit and the chipset and power supply inside. The mails you had from us since were general ones; this is specific.\n\nFor the Videostar PoE line: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell switch core, industrial-grade power stage, CE/RoHS - model STC-28DGGPM - $87.4 USD EXW with the Videostar logo in the web UI (MOQ 1, 15-day validity; printed carton from 200 sets). For the 12-fibre + 12-copper position I quote against the exact ONV code rather than guess.\n\nOne question: which ONV code do you buy for the 12-fibre + 12-copper unit today?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -68659,7 +68674,7 @@
 "next_move": {
 "when": "2027-Q1",
 "channel": "WhatsApp",
-"action": "一页式报价（研究档）（用 one_question 这句，WhatsApp 直接发，不附资料）",
+"action": "一页式报价（研究档）（用 one_question 这句，WhatsApp 直接发，不附资料）（第 75 批(q) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；WhatsApp 一句话版）",
 "one_question": "Francesco, the detailed price list you asked for at IFSEC: commercial 24-port PoE+ with 4 SFP at $134.5 EXW, 8-port PoE+ managed at $80.7, and the DIN-rail industrial 8-port PoE+ at $137.5 — which of the three would you like a sample of for the Caserta demo room?"
 },
 "facts": [
@@ -68683,7 +68698,10 @@
 "proof_gaps": [
 "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 从未去信、Replied 索引亦无此户），仓库未见原文"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+"body": "Francesco, Simon from Saga Telecom (we met at IFSEC). The detailed price list you asked for, in three lines, distributor price, EXW, MOQ 1, 15-day validity: commercial 24 x PoE+ (280 W) + 4 x SFP L2+ managed, Marvell-based - STC-424DGGPM-280W - $134.5; 8 x PoE+ + 2 x SFP L2+ managed - STC-28DGGPM - $80.7; DIN-rail industrial 8 x PoE+ + 2 x SFP L2+ managed - STI-288DGGPM - $137.5. Which of the three would you like as a sample for the Caserta demo room?"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -69144,7 +69162,7 @@
 "next_move": {
 "when": "2027-Q1（Simon 决定是否重启；视频会后 7 封 0 回）",
 "channel": "A 邮箱 / Simon 原通道（Vicom）",
-"action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频",
+"action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(q) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））",
 "one_question": "Your VIES7511-8PGE2GF-DC and the 24GP4GC-L2M are the two footprints we build on a Marvell core, so I am quoting both in VICOM packing as a second source, with the 16-port PoE model following the same datasheet layout. Which of the two footprints would VICOM second-source first? Reference: STI-288GPM at $85.5 / STC-424DGGPM-280W at $145.7 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
@@ -69176,7 +69194,10 @@
 "proof_gaps": [
 "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 群发 Bcc 已触达（锚月轮 12 轮，最近 2026-08-17）、0 回），仓库未见原文"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "VICOM packing - the VIES7511-8PGE2GF-DC and 24GP4GC-L2M footprints",
+"body": "Hello VICOM team,\n\nAfter the video call and the mails that followed, nothing from us needed an answer until now. Your VIES7511-8PGE2GF-DC and 24GP4GC-L2M are two footprints we build on a Marvell core, in VICOM packing as a second source: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, L2 managed, -40 to 75 C - model STI-288GPM - $85.5 USD EXW with your logo (MOQ 1, 15-day validity); 24 x Gigabit PoE+ (280 W) + 4 x SFP, L2+ managed - STC-424DGGPM-280W - $145.7. The 16-port PoE follows the same datasheet layout. CE/RoHS files supplied; BIS stays on your side.\n\nOne question: you mentioned a unified management platform - which one, so I check what the web GUI and SNMP of these units need to expose to it?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+},
 "as_of": "2026-10-25"
 }
 }
@@ -70076,7 +70097,7 @@
 "next_move": {
 "when": "2027-Q1",
 "channel": "A 邮箱 → ets@",
-"action": "问现供价位段",
+"action": "问现供价位段（第 75 批(q) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；预算线 HRUI STC-028GP/114GP 不写 Marvell）",
 "one_question": "What landed price per 8-port PoE switch do you pay today, so we can tell you honestly whether Marvell fits? Reference: STC-28DGGPM at $84.1 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
@@ -70098,7 +70119,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "You said our prices were rather high - so here is the budget line, and one question",
+"body": "Hello Lachezar,\n\nIn December you looked at our price list and concluded the prices were rather high; Alan asked which model to re-price and that is where it stopped - our side as much as yours.\n\nSo, the budget line for camera sites that do not need management, CE/RoHS, EXW, MOQ 1, 15-day validity: 8 x Gigabit PoE+ + 2 x Gigabit uplinks, unmanaged - model STC-028GP - $26.2 USD; 4 x Gigabit PoE+ + 1 x Gigabit + 1 x SFP - STC-114GP - $17.8. Where a site needs VLAN and ring, the managed 8-port on Marvell stays at $84.1 - STC-28DGGPM.\n\nOne question: what do you pay today for the 8-port PoE you install most - a band is enough, and I will say yes or no in one line.\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -70467,7 +70491,7 @@
 "next_move": {
 "when": "2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）",
 "channel": "A 邮箱 → info@falke-security.de（Nuri Sahin）",
-"action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频",
+"action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(q) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））",
 "one_question": "You asked at the show for the 8-copper models with fibre uplinks, so here are the two closest Marvell-based units, the 8-port PoE+ with 2 SFP and the 24-port with four 10G SFP+ uplinks, both at EXW. Which of the two should I price first? Reference: STC-28DGGPM at $84.1 / STC-424XGGPM-280W at $180 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
@@ -70491,7 +70515,10 @@
 "proof_gaps": [
 "机型兴趣出处未见"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "The two models you asked about at the show - 8 copper with fibre uplinks",
+"body": "Hello Mr. Sahin,\n\nAt the show you looked at the 8-copper models with fibre uplinks - the 4 x 10G version and the 2.5G 1-fibre + 8-copper - and asked for prices; the mails you had since were general product mails. Here are the numbers.\n\n8 x Gigabit PoE+ + 2 x 2.5G SFP, L2+ managed, Marvell-based, CE/RoHS - model STC-28DGGPM - $84.1 USD EXW (MOQ 1, 15-day validity). 24 x Gigabit PoE+ (280 W) + 4 x 10G SFP+, L2+ managed, Marvell-based - STC-424XGGPM-280W - $180 (the mail you had in August said $170; the RMB has moved from 7.2 to 6.7 since). 1 x 10G SFP+ + 8 x 2.5G, non-PoE, unmanaged - STC-18XGDGE - $50.1.\n\nOne question: for your 1-256 channel camera projects, is the 8-port going into the cabinet as PoE for cameras, or as a non-PoE aggregation unit?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }

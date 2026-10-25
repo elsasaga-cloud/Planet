@@ -37,7 +37,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STI 工业线（替代 Microsens） — 替代 Microsens 的工业线 → 8+2 管理 DIN + 4+1 紧凑款；Brocade 原厂货不做，信里不提；锚价：STI-288GPM $78.9（20% 档）/ STI-054GP $32.5（第 72 批 2026-10-24）；—；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-05-11 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2026-05-11；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-08-04 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-04；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：For the industrial and FTTO positions where a Microsens unit is now hard to source, the Marvell-based 8-port gigabit PoE + 2 SFP managed DIN switch and the 4+1 compact model are the two EXW prices I am sending. Is the Microsens replacement still open? Reference: STI-288GPM at $78.9 / STI-054GP at $32.5 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问） E 邮箱 → pkarpov@ccs-msk.ru（Elsa 原串，Pavel Karpov） 首封前知悉：Elsa 已 1:1 去信 3 轮（2026-04-03→2026-08-04，客户回过信（2026-01-30））（第 74 批(m)）；一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频
+- **下一步**：2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问） E 邮箱 → pkarpov@ccs-msk.ru（Elsa 原串，Pavel Karpov） 首封前知悉：Elsa 已 1:1 去信 3 轮（2026-04-03→2026-08-04，客户回过信（2026-01-30））（第 74 批(m)）；一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(q) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；Elsa 箱原串、署名 Elsa）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-25）
 
@@ -48,7 +48,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：Brocade 原厂货（Saga 不做）。
 - **断点 / 为什么停在这里**：需求错位。
 - **Saga 现在该推什么**：P1 **STI 工业线（替代 Microsens）**（20% 档，锚价：STI-288GPM $78.9（20% 档）/ STI-054GP $32.5（第 72 批 2026-10-24）；—；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-05-11 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2026-05-11；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-08-04 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-04；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170））——替代 Microsens 的工业线 → 8+2 管理 DIN + 4+1 紧凑款；Brocade 原厂货不做，信里不提
-- **下一步（具体）**：2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）　E 邮箱 → pkarpov@ccs-msk.ru（Elsa 原串，Pavel Karpov）　首封前知悉：Elsa 已 1:1 去信 3 轮（2026-04-03→2026-08-04，客户回过信（2026-01-30））（第 74 批(m)）；一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频
+- **下一步（具体）**：2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）　E 邮箱 → pkarpov@ccs-msk.ru（Elsa 原串，Pavel Karpov）　首封前知悉：Elsa 已 1:1 去信 3 轮（2026-04-03→2026-08-04，客户回过信（2026-01-30））（第 74 批(m)）；一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(q) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；Elsa 箱原串、署名 Elsa）
   - 第一问（只问一个）：For the industrial and FTTO positions where a Microsens unit is now hard to source, the Marvell-based 8-port gigabit PoE + 2 SFP managed DIN switch and the 4+1 compact model are the two EXW prices I am sending. Is the Microsens replacement still open? Reference: STI-288GPM at $78.9 / STI-054GP at $32.5 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -247,25 +247,23 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-288DGGPM - industrial DIN-rail L2+ managed switch (Marvell-based, neutral label)
+**主题**：Not Brocade this time - two industrial positions where Microsens got hard to source
 
 ```text
-Hi Pavel,
+Hello Pavel,
 
-Picking up our earlier exchange about PoE / industrial switches. For the industrial and FTTO positions where a Microsens unit is now hard to source, the Marvell-based 8-port gigabit PoE + 2 SFP managed DIN switch and the 4+1 compact model are the two EXW prices I am sending.
+In January you asked me for Brocade switches and I answered what I could; after that you had my monthly product mails and no reason to reply. This one is specific to your own catalogue.
 
-We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $137.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
+For the industrial and FTTO positions where a Microsens unit is now hard to source: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, L2 managed (web GUI, VLAN, QoS, IGMP), Marvell-based, -40 to 75 C, CE/RoHS - model STI-288GPM - $78.9 USD EXW at distributor price (MOQ 1, 15-day validity); compact 4 x Gigabit PoE+ + 1 x Gigabit uplink, unmanaged - STI-054GP - $32.5. EAC stays on your side; your SFP-WDM optics plug in as they are.
 
-One question: Which switch model are you buying most often right now, and roughly how many units a month?
-
-If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: is it the DIN PoE position or the FTTO desktop position where the gap is bigger?
 
 Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Elsa
+Saga Telecom - sagatele.com
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 

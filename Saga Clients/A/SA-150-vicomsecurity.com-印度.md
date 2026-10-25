@@ -38,7 +38,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STC-424DGGPM-280W — 4 光 24 电管理 PoE 贴牌（VICOM）→ STC-424DGGPM-280W 对位，8+2 DIN（VIES7511）同问；锚价：STI-288GPM $85.5 / STC-424DGGPM-280W $145.7（30% 档）（第 72 批 2026-10-24）；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-25 $65（10G Media Converter）、2024-11-01 $300（48 Port PoE Managed Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-17 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-17；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：Your VIES7511-8PGE2GF-DC and the 24GP4GC-L2M are the two footprints we build on a Marvell core, so I am quoting both in VICOM packing as a second source, with the 16-port PoE model following the same datasheet layout. Which of the two footprints would VICOM second-source first? Reference: STI-288GPM at $85.5 / STC-424DGGPM-280W at $145.7 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：2027-Q1（Simon 决定是否重启；视频会后 7 封 0 回） A 邮箱 / Simon 原通道（Vicom） 一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频
+- **下一步**：2027-Q1（Simon 决定是否重启；视频会后 7 封 0 回） A 邮箱 / Simon 原通道（Vicom） 一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(q) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-25）
 
@@ -49,7 +49,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：4 光 24 电管理 PoE 贴牌。
 - **断点 / 为什么停在这里**：—
 - **Saga 现在该推什么**：P1 **STC-424DGGPM-280W**（30% 档，锚价：STI-288GPM $85.5 / STC-424DGGPM-280W $145.7（30% 档）（第 72 批 2026-10-24）；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-25 $65（10G Media Converter）、2024-11-01 $300（48 Port PoE Managed Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-17 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-17；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170））——4 光 24 电管理 PoE 贴牌（VICOM）→ STC-424DGGPM-280W 对位，8+2 DIN（VIES7511）同问
-- **下一步（具体）**：2027-Q1（Simon 决定是否重启；视频会后 7 封 0 回）　A 邮箱 / Simon 原通道（Vicom）　一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频
+- **下一步（具体）**：2027-Q1（Simon 决定是否重启；视频会后 7 封 0 回）　A 邮箱 / Simon 原通道（Vicom）　一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(q) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））
   - 第一问（只问一个）：Your VIES7511-8PGE2GF-DC and the 24GP4GC-L2M are the two footprints we build on a Marvell core, so I am quoting both in VICOM packing as a second source, with the 16-port PoE model following the same datasheet layout. Which of the two footprints would VICOM second-source first? Reference: STI-288GPM at $85.5 / STC-424DGGPM-280W at $145.7 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -279,25 +279,21 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-288DGGPM - industrial DIN-rail L2+ managed switch (Marvell-based, neutral label)
+**主题**：VICOM packing - the VIES7511-8PGE2GF-DC and 24GP4GC-L2M footprints
 
 ```text
-Hi Rajesh,
+Hello VICOM team,
 
-Picking up our earlier exchange about PoE / industrial switches. Your VIES7511-8PGE2GF-DC and the 24GP4GC-L2M are the two footprints we build on a Marvell core, so I am quoting both in VICOM packing as a second source, with the 16-port PoE model following the same datasheet layout.
+After the video call and the mails that followed, nothing from us needed an answer until now. Your VIES7511-8PGE2GF-DC and 24GP4GC-L2M are two footprints we build on a Marvell core, in VICOM packing as a second source: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, L2 managed, -40 to 75 C - model STI-288GPM - $85.5 USD EXW with your logo (MOQ 1, 15-day validity); 24 x Gigabit PoE+ (280 W) + 4 x SFP, L2+ managed - STC-424DGGPM-280W - $145.7. The 16-port PoE follows the same datasheet layout. CE/RoHS files supplied; BIS stays on your side.
 
-We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as your VICOM VTD-9442E3B-A / VTD-8583IE3N at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $137.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
-One question: Which switch model are you buying most often right now, and roughly how many units a month?
-
-If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: you mentioned a unified management platform - which one, so I check what the web GUI and SNMP of these units need to expose to it?
 
 Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Simon
+Saga Telecom - sagatele.com
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 

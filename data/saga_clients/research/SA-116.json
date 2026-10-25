@@ -166,7 +166,7 @@
     "next_move": {
       "when": "2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）",
       "channel": "E 邮箱 → pkarpov@ccs-msk.ru（Elsa 原串，Pavel Karpov）",
-      "action": "首封前知悉：Elsa 已 1:1 去信 3 轮（2026-04-03→2026-08-04，客户回过信（2026-01-30））（第 74 批(m)）；一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频",
+      "action": "首封前知悉：Elsa 已 1:1 去信 3 轮（2026-04-03→2026-08-04，客户回过信（2026-01-30））（第 74 批(m)）；一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(q) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；Elsa 箱原串、署名 Elsa）",
       "one_question": "For the industrial and FTTO positions where a Microsens unit is now hard to source, the Marvell-based 8-port gigabit PoE + 2 SFP managed DIN switch and the 4+1 compact model are the two EXW prices I am sending. Is the Microsens replacement still open? Reference: STI-288GPM at $78.9 / STI-054GP at $32.5 USD EXW (MOQ 1, 15-day validity)."
     },
     "facts": [
@@ -225,7 +225,10 @@
     "proof_gaps": [
       "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 去信 3 轮、0 回），仓库未见原文"
     ],
-    "draft_en": null,
+    "draft_en": {
+      "subject": "Not Brocade this time - two industrial positions where Microsens got hard to source",
+      "body": "Hello Pavel,\n\nIn January you asked me for Brocade switches and I answered what I could; after that you had my monthly product mails and no reason to reply. This one is specific to your own catalogue.\n\nFor the industrial and FTTO positions where a Microsens unit is now hard to source: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, L2 managed (web GUI, VLAN, QoS, IGMP), Marvell-based, -40 to 75 C, CE/RoHS - model STI-288GPM - $78.9 USD EXW at distributor price (MOQ 1, 15-day validity); compact 4 x Gigabit PoE+ + 1 x Gigabit uplink, unmanaged - STI-054GP - $32.5. EAC stays on your side; your SFP-WDM optics plug in as they are.\n\nOne question: is it the DIN PoE position or the FTTO desktop position where the gap is bigger?\n\nBest regards,\nElsa\nSaga Telecom - sagatele.com"
+    },
     "as_of": "2026-10-25"
   }
 }

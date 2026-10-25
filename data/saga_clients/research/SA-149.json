@@ -130,7 +130,7 @@
     "next_move": {
       "when": "2027-Q1",
       "channel": "WhatsApp",
-      "action": "一页式报价（研究档）（用 one_question 这句，WhatsApp 直接发，不附资料）",
+      "action": "一页式报价（研究档）（用 one_question 这句，WhatsApp 直接发，不附资料）（第 75 批(q) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；WhatsApp 一句话版）",
       "one_question": "Francesco, the detailed price list you asked for at IFSEC: commercial 24-port PoE+ with 4 SFP at $134.5 EXW, 8-port PoE+ managed at $80.7, and the DIN-rail industrial 8-port PoE+ at $137.5 — which of the three would you like a sample of for the Caserta demo room?"
     },
     "facts": [
@@ -154,7 +154,10 @@
     "proof_gaps": [
       "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 从未去信、Replied 索引亦无此户），仓库未见原文"
     ],
-    "draft_en": null,
+    "draft_en": {
+      "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+      "body": "Francesco, Simon from Saga Telecom (we met at IFSEC). The detailed price list you asked for, in three lines, distributor price, EXW, MOQ 1, 15-day validity: commercial 24 x PoE+ (280 W) + 4 x SFP L2+ managed, Marvell-based - STC-424DGGPM-280W - $134.5; 8 x PoE+ + 2 x SFP L2+ managed - STC-28DGGPM - $80.7; DIN-rail industrial 8 x PoE+ + 2 x SFP L2+ managed - STI-288DGGPM - $137.5. Which of the three would you like as a sample for the Caserta demo room?"
+    },
     "as_of": "2026-10-24"
   }
 }

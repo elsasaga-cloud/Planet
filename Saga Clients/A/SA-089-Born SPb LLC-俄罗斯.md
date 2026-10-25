@@ -38,7 +38,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-110GE — 已打开的主题（1/18 封有打开记录）：「90W PoE Managed Switch」(2024-12-18) → 读者兴趣偏「PoE 接入」；当前 P1 属「10G 汇聚/L3」，下一封按「PoE 接入」给，不按 P1；锚价：STI-110GE $26.5 / STC-28DGGPM $80.7（20% 档）（第 72 批 2026-10-24）；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-20 $300（48 port poe managed switch）、2024-09-24 $65（10G Media Converter）；群发里他已看到的价（续，第 66 批全量复核）：2025-01-10 $240（24 Port Fiber Switch）、2025-10-02 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：For the media converter and 8-port PoE lines you trade, the gigabit SFP media converter and the Marvell-based 8-port PoE+ 2 SFP managed switch are the two EXW prices I am sending for your next comparison. Shall I send both for your next comparison? Reference: STI-110GE at $26.5 / STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问） S 邮箱 → sales@born-spb.ru（Федотов Сергей Иванович（Sergey I. Fedotov））（Born SPb；用户表 5 次回复渠道不明） 一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频
+- **下一步**：2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问） S 邮箱 → sales@born-spb.ru（Федотов Сергей Иванович（Sergey I. Fedotov））（Born SPb；用户表 5 次回复渠道不明） 一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(q) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -49,7 +49,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：MC / 工业 FS。
 - **断点 / 为什么停在这里**：—
 - **Saga 现在该推什么**：P1 **STI-110GE**（20% 档，锚价：STI-110GE $26.5 / STC-28DGGPM $80.7（20% 档）（第 72 批 2026-10-24）；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-20 $300（48 port poe managed switch）、2024-09-24 $65（10G Media Converter）；群发里他已看到的价（续，第 66 批全量复核）：2025-01-10 $240（24 Port Fiber Switch）、2025-10-02 $280（10G Enterprise SFP Switch））——已打开的主题（1/18 封有打开记录）：「90W PoE Managed Switch」(2024-12-18) → 读者兴趣偏「PoE 接入」；当前 P1 属「10G 汇聚/L3」，下一封按「PoE 接入」给，不按 P1
-- **下一步（具体）**：2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）　S 邮箱 → sales@born-spb.ru（Федотов Сергей Иванович（Sergey I. Fedotov））（Born SPb；用户表 5 次回复渠道不明）　一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频
+- **下一步（具体）**：2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）　S 邮箱 → sales@born-spb.ru（Федотов Сергей Иванович（Sergey I. Fedotov））（Born SPb；用户表 5 次回复渠道不明）　一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(q) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））
   - 第一问（只问一个）：For the media converter and 8-port PoE lines you trade, the gigabit SFP media converter and the Marvell-based 8-port PoE+ 2 SFP managed switch are the two EXW prices I am sending for your next comparison. Shall I send both for your next comparison? Reference: STI-110GE at $26.5 / STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -323,25 +323,21 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-110GE - industrial mini Gigabit media converter (neutral label)
+**主题**：Two EXW numbers for your next comparison - converter and 8-port PoE
 
 ```text
-Hi Sergey,
+Hello Sergey,
 
-Picking up our earlier exchange about PoE / industrial switches. For the media converter and 8-port PoE lines you trade, the gigabit SFP media converter and the Marvell-based 8-port PoE+ 2 SFP managed switch are the two EXW prices I am sending for your next comparison.
+Over the years we exchanged a few short messages and you had our product mails; nothing in them needed an answer. For the media-converter and 8-port PoE lines you trade, the two numbers for your next comparison: industrial Gigabit media converter, 1 x RJ45 + 1 x SFP slot - model STI-110GE - $26.5 USD EXW at distributor price (MOQ 1, 15-day validity); 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based - STC-28DGGPM - $80.7. CE/RoHS files supplied; EAC stays on your side.
 
-We supply an industrial mini Gigabit media converter (1 fiber + 1 copper) - model STI-110GE - that fits the same slot as your NSGate NFG-SFP at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $26.5 USD EXW (valid 15 days).
-
-One question: Which switch model are you buying most often right now, and roughly how many units a month?
-
-If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: which of the two moves more volume in your shop today, so I keep the comparison to that one?
 
 Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Simon
+Saga Telecom - sagatele.com
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 

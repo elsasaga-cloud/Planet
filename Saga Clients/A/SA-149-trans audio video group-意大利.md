@@ -39,7 +39,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM / STC-424DGGPM-280W — 已打开的主题（2/23 封有打开记录）：「24 port passive poe switch」(2024-08-07)、「8 Port Ethernet Switch」(2024-11-12) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-04 $65（10G media converter）、2024-10-14 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-16 $280（10G Enterprise SFP Switch）（㉕ 封顶：STI-288DGGPM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25）
 - **第一问（只问一个）**：Francesco, the detailed price list you asked for at IFSEC: commercial 24-port PoE+ with 4 SFP at $134.5 EXW, 8-port PoE+ managed at $80.7, and the DIN-rail industrial 8-port PoE+ at $137.5 — which of the three would you like a sample of for the Caserta demo room?
 - **最大未知**：年走量与现供应商
-- **下一步**：2027-Q1 WhatsApp 一页式报价（研究档）（用 one_question 这句，WhatsApp 直接发，不附资料）
+- **下一步**：2027-Q1 WhatsApp 一页式报价（研究档）（用 one_question 这句，WhatsApp 直接发，不附资料）（第 75 批(q) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；WhatsApp 一句话版）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -50,7 +50,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：8/24 口 PoE 项目价。
 - **断点 / 为什么停在这里**：—
 - **Saga 现在该推什么**：P1 **STC-28DGGPM / STC-424DGGPM-280W**（25% 档，—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-04 $65（10G media converter）、2024-10-14 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-16 $280（10G Enterprise SFP Switch）（㉕ 封顶：STI-288DGGPM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25））——已打开的主题（2/23 封有打开记录）：「24 port passive poe switch」(2024-08-07)、「8 Port Ethernet Switch」(2024-11-12) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续
-- **下一步（具体）**：2027-Q1　WhatsApp　一页式报价（研究档）（用 one_question 这句，WhatsApp 直接发，不附资料）
+- **下一步（具体）**：2027-Q1　WhatsApp　一页式报价（研究档）（用 one_question 这句，WhatsApp 直接发，不附资料）（第 75 批(q) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；WhatsApp 一句话版）
   - 第一问（只问一个）：Francesco, the detailed price list you asked for at IFSEC: commercial 24-port PoE+ with 4 SFP at $134.5 EXW, 8-port PoE+ managed at $80.7, and the DIN-rail industrial 8-port PoE+ at $137.5 — which of the three would you like a sample of for the Caserta demo room?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -283,23 +283,13 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-424DGGPM-280W - 24-port Gigabit PoE+ L2+ managed switch (Marvell-based, neutral label)
+**主题**：WhatsApp / 私信一句话（复制即发；不发邮件）
 
 ```text
-Hi Francesco,
-
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. The detailed price list you asked for at IFSEC: commercial 24-port PoE+ with 4 SFP at $134.5 EXW, 8-port PoE+ managed at $80.7, and the DIN-rail industrial 8-port PoE+ at $137.5 — which of the three would you like a sample of for the Caserta demo room?
-
-We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as the units you source today at a lower landed cost, and we can ship it with neutral packaging. Current price: $134.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
-If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Francesco, Simon from Saga Telecom (we met at IFSEC). The detailed price list you asked for, in three lines, distributor price, EXW, MOQ 1, 15-day validity: commercial 24 x PoE+ (280 W) + 4 x SFP L2+ managed, Marvell-based - STC-424DGGPM-280W - $134.5; 8 x PoE+ + 2 x SFP L2+ managed - STC-28DGGPM - $80.7; DIN-rail industrial 8 x PoE+ + 2 x SFP L2+ managed - STI-288DGGPM - $137.5. Which of the three would you like as a sample for the Caserta demo room?
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 

@@ -38,7 +38,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM（8 口 PoE 商用）；若 Simon 开 Realtek 线则 HRUI 对位 — 一句话问其现供价位段，不再发链接。已打开的主题（4/14 封有打开记录）：「Optional Marvell Chipset Solutions」(2025-12-04)、「Re: Optional Marvell Chipset Solutions」(2025-12-04)、「Re: Optional Marvell Chipset Solutions」(2025-12-15)、「Re: Optional Marvell Chipset Solutions」(2025-12-18) → 读者兴趣偏「其他」；当前 P1 属「PoE 接入」，下一封按「其他」给，不按 P1；换人再触锚价 STC-28DGGPM $84.1 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按 25% 集成档；群发里他已看到的价（续）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-05-30 $300（48 Port PoE Managed Switch）、2025-10-03 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：What landed price per 8-port PoE switch do you pay today, so we can tell you honestly whether Marvell fits? Reference: STC-28DGGPM at $84.1 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：2027-Q1 A 邮箱 → ets@ 问现供价位段
+- **下一步**：2027-Q1 A 邮箱 → ets@ 问现供价位段（第 75 批(q) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；预算线 HRUI STC-028GP/114GP 不写 Marvell）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -50,7 +50,7 @@ updated: 2026-10-25
 - **断点 / 为什么停在这里**：价格筛子生效；C6 不设计让价，但「点名型号」这一步对方没走——说明差距不是 10%。
 - **Saga 现在该推什么**：P1 **STC-28DGGPM（8 口 PoE 商用）；若 Simon 开 Realtek 线则 HRUI 对位**（25% 档，换人再触锚价 STC-28DGGPM $84.1 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按 25% 集成档；群发里他已看到的价（续）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-05-30 $300（48 Port PoE Managed Switch）、2025-10-03 $280（10G Enterprise SFP Switch））——一句话问其现供价位段，不再发链接。已打开的主题（4/14 封有打开记录）：「Optional Marvell Chipset Solutions」(2025-12-04)、「Re: Optional Marvell Chipset Solutions」(2025-12-04)、「Re: Optional Marvell Chipset Solutions」(2025-12-15)、「Re: Optional Marvell Chipset Solutions」(2025-12-18) → 读者兴趣偏「其他」；当前 P1 属「PoE 接入」，下一封按「其他」给，不按 P1
   - 做不了 / 要先核的：其现用 PoE 交换机品牌/价位（用户表无）
-- **下一步（具体）**：2027-Q1　A 邮箱 → ets@　问现供价位段
+- **下一步（具体）**：2027-Q1　A 邮箱 → ets@　问现供价位段（第 75 批(q) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；预算线 HRUI STC-028GP/114GP 不写 Marvell）
   - 第一问（只问一个）：What landed price per 8-port PoE switch do you pay today, so we can tell you honestly whether Marvell fits? Reference: STC-28DGGPM at $84.1 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -261,25 +261,23 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
+**主题**：You said our prices were rather high - so here is the budget line, and one question
 
 ```text
-Hi Lachezar,
+Hello Lachezar,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the 4- and 8-port PoE positions on your camera sites, the 8-port gigabit PoE+ managed unit and the 4+1 industrial DIN model are the two I am sending with a full price list and datasheets as you asked.
+In December you looked at our price list and concluded the prices were rather high; Alan asked which model to re-price and that is where it stopped - our side as much as yours.
 
-We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it with neutral packaging. Current price: $84.1 USD EXW (valid 15 days).
+So, the budget line for camera sites that do not need management, CE/RoHS, EXW, MOQ 1, 15-day validity: 8 x Gigabit PoE+ + 2 x Gigabit uplinks, unmanaged - model STC-028GP - $26.2 USD; 4 x Gigabit PoE+ + 1 x Gigabit + 1 x SFP - STC-114GP - $17.8. Where a site needs VLAN and ring, the managed 8-port on Marvell stays at $84.1 - STC-28DGGPM.
 
-One question: Which switch model are you buying most often right now, and roughly how many units a month?
-
-If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: what do you pay today for the 8-port PoE you install most - a band is enough, and I will say yes or no in one line.
 
 Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Simon
+Saga Telecom - sagatele.com
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 

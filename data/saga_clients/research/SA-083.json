@@ -190,7 +190,7 @@
     "next_move": {
       "when": "2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）",
       "channel": "A 邮箱 → imports@bselectronics.gr（Vasilis Stavridis）",
-      "action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频",
+      "action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(q) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；2.5G 用 HRUI STC-114XGDGP；「升压 5 口」型号未核，写先确认输入电压）",
       "one_question": "Your BS-SWP series is fast-Ethernet today, so the Marvell-based gigabit managed 8-port PoE+ with 2 SFP in BS packing is the natural step up, and the 24-port version with four 10G SFP+ uplinks answers the 2.5G question from ISAF. Shall I quote the 8-port in BS packing first? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
     },
     "facts": [
@@ -214,7 +214,10 @@
     "proof_gaps": [
       "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：TLD 穷举未见 Elsa 去信、Replied 索引亦无此户），仓库未见原文"
     ],
-    "draft_en": null,
+    "draft_en": {
+      "subject": "ISAF follow-up - the 8-port quote you asked for, and the 2.5G answer",
+      "body": "Dear Vasilis,\n\nWe met at ISAF 2025 in Istanbul last October - this picks up what we discussed at the booth: you have worked with EWIND for five years, and you asked for an 8-port quote plus the 2.5G question.\n\nThe 8-port, gigabit where your BS-SWP series is still Fast Ethernet: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based, CE/RoHS - model STC-28DGGPM - $80.7 USD EXW at distributor price (MOQ 1, 15-day validity), in BS packing from small lots. The 2.5G answer: 4 x 2.5G PoE+ + 1 x 2.5G + 1 x 10G SFP+, unmanaged - STC-114XGDGP - $44.0. The 5-port booster unit I quote once you confirm the input voltage you have at the camera end.\n\nOne question: for the 8-port, is it tens or hundreds a year - that decides whether the carton carries the BS logo from the first lot?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+    },
     "as_of": "2026-10-24"
   }
 }
