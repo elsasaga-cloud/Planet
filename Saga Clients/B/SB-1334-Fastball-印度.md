@@ -38,7 +38,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：无 — —｜毛利复盘：首单 23.4%（80 台 @19.75 成本）——正常；STC-204GP $24.2（洪瑞 2026-09-30 进价 135 CNY +20%，Q-47 默认；Drive 旧表 $20.4 不用）；—
 - **第一问（只问一个）**：Rishi — your IndiaMART page lists a "4 Port Industrial Ethernet Switch FBC-204GP", which matches our STC-204GP (4 × PoE + 2 × SFP). Is it a live stock item for you, or a listing from the 2023 catalogue? If live, the current price is STC-204GP $24.2 USD EXW (MOQ 1, 15-day validity) and I can quote 20/50-pc tiers; if not, I will leave you alone.
 - **最大未知**：年走量与现供应商
-- **下一步**：2027-Q1（非主攻区，顺带一问；不投入） A 邮箱 → office@fastball.in（Rishi Kumar Bansal） 一问：IndiaMART 上的 FBC-204GP 列表是不是在卖我方 STC-204GP（有则给现价，无则不再发）
+- **下一步**：2027-Q1（非主攻区，顺带一问；不投入） A 邮箱 → office@fastball.in（Rishi Kumar Bansal） 一问：IndiaMART 上的 FBC-204GP 列表是不是在卖我方 STC-204GP（有则给现价，无则不再发）（第 75 批(aj) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；按 action「一问」：IndiaMART FBC-204GP 是否我方 STC-204GP；BIS 对方侧）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -50,7 +50,7 @@ updated: 2026-10-25
 - **断点 / 为什么停在这里**：授权诉求 vs Saga 不做区域授权。
 - **Saga 现在该推什么**：P1 **无**（20% 档，STC-204GP $24.2（洪瑞 2026-09-30 进价 135 CNY +20%，Q-47 默认；Drive 旧表 $20.4 不用）；—）———｜毛利复盘：首单 23.4%（80 台 @19.75 成本）——正常
   - 复购/在买项：2023-10-09 唯一一单：$260（Simon 利润 RMB 553；PI 复盘 #2，Simon 标 gg）；IndiaMART 仍挂 FBC-204GP（= STC-204GP）
-- **下一步（具体）**：2027-Q1（非主攻区，顺带一问；不投入）　A 邮箱 → office@fastball.in（Rishi Kumar Bansal）　一问：IndiaMART 上的 FBC-204GP 列表是不是在卖我方 STC-204GP（有则给现价，无则不再发）
+- **下一步（具体）**：2027-Q1（非主攻区，顺带一问；不投入）　A 邮箱 → office@fastball.in（Rishi Kumar Bansal）　一问：IndiaMART 上的 FBC-204GP 列表是不是在卖我方 STC-204GP（有则给现价，无则不再发）（第 75 批(aj) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；按 action「一问」：IndiaMART FBC-204GP 是否我方 STC-204GP；BIS 对方侧）
   - 第一问（只问一个）：Rishi — your IndiaMART page lists a "4 Port Industrial Ethernet Switch FBC-204GP", which matches our STC-204GP (4 × PoE + 2 × SFP). Is it a live stock item for you, or a listing from the 2023 catalogue? If live, the current price is STC-204GP $24.2 USD EXW (MOQ 1, 15-day validity) and I can quote 20/50-pc tiers; if not, I will leave you alone.
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -229,25 +229,19 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-424DGGPM-280W - 24-port Gigabit PoE+ L2+ managed switch (Marvell-based, neutral label)
+**主题**：One question, Rishi - the FBC-204GP on IndiaMART
 
 ```text
 Hi Rishi,
 
-Thank you again for your earlier order with us - this is a short update rather than a cold mail.
-
-We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $134.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
-One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
-
-If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: the FBC-204GP listed under Fastball on IndiaMART - is that our STC-204GP (4 x Gigabit PoE+ + 2 x Gigabit uplinks, 65 W) that you are selling on? If yes, the current price is $24.2 USD EXW at distributor tier (MOQ 1, 15-day validity), and I will keep you on the price updates; if no, I will not write again about it. BIS stays on your side.
 
 Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Simon
+Saga Telecom - sagatele.com
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 

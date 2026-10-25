@@ -97,7 +97,7 @@
   "next_move": {
    "when": "2027-Q1（换人后）",
    "channel": "A 邮箱 → 具名 KP",
-   "action": "换收件人再发一封",
+   "action": "换收件人再发一封（第 75 批(aj) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；DAP 需百运网算后再报）",
    "one_question": "For the PoE switches in your camera and home-automation installations, we supply Marvell-based 8-PoE + 2 SFP L2+ and DIN-rail 8-PoE industrial units from single units, CE/RoHS, EXW USD — which PoE port count do your installations use most? Reference: STC-28DGGPM at $84.1 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
@@ -119,7 +119,10 @@
    }
   ],
   "proof_gaps": [],
-  "draft_en": null,
+  "draft_en": {
+   "subject": "PoE switches for your camera and home-automation installations - two units from single pieces",
+   "body": "Hello Basithami team,\n\nOver the past months you had a few product mails from us - most recently \"Industrial PoE Switch\" on 6 October 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the PoE switches in your camera and home-automation installations (Utepo today), from single units, EXW, 15-day validity, CE/RoHS: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based - model STC-28DGGPM - $84.1 USD; DIN-rail industrial 8 x PoE+ + 2 x SFP, unmanaged, -40 to 75 C, for outdoor boxes - STI-288GP - $60. Shipping by courier; DAP to your city on request.\n\nOne question: which PoE port count do your installations use most - 4, 8 or 16?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+  },
   "as_of": "2026-10-24"
  }
 }

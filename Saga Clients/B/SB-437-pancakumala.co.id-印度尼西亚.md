@@ -38,7 +38,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424XGGPM-280W — 对位其 DCN S5750E-28X-P-EI（24 PoE + 4×10G）→ Saga STC-424XGGPM-280W；DIN 工业补 STI-288GPM；经销 20%。；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-03-04 $240（24 Port Fiber Switch）、2025-05-01 $300（48 Port PoE Managed Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-05-06 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 2 轮 2025-10-08→2026-05-06；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-08-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-10；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）（㉕ ②：STC-424XGGPM-280W / STC-448XGGPM 文本价改为群发现价 $180 / $335；第 75 批 2026-10-25）
 - **第一问（只问一个）**：For the DCN-based IPTV and CCTV jobs — where DCN is over-spec, would a Marvell 24-PoE + 4×10G L2+ at $181 EXW or a DIN-rail 8-PoE + 2-SFP at $79 fill the lower tier? Happy to send 1 sample of each to Kedoya.
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
-- **下一步**：2027-Q1 A 邮箱 → customerservice.pkj@gmail.com 首封前知悉：Elsa 已 1:1 去信 8 轮（2025-06-09→2026-08-10，只有 2025-10-07 一封空回）且他 2026-08 看到过 24 口 PoE $170（第 74 批(o)）；季度
+- **下一步**：2027-Q1 A 邮箱 → customerservice.pkj@gmail.com 首封前知悉：Elsa 已 1:1 去信 8 轮（2025-06-09→2026-08-10，只有 2025-10-07 一封空回）且他 2026-08 看到过 24 口 PoE $170（第 74 批(o)）；季度（第 75 批(aj) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；$170→$180 按 ㉟ 先说 8 月那封 $170 + FX 7.2→6.7；2025-10 空回点明）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -49,7 +49,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：对位其 DCN S5750E-28X-P-EI（24 PoE + 4×10G）→ Saga STC-424XGGPM-280W；DIN 工业补 STI-288GPM；经销 20%。
 - **断点 / 为什么停在这里**：DCN 渠道身份：只会拿 DCN 不覆盖的低价 SKU
 - **Saga 现在该推什么**：P1 **STC-424XGGPM-280W**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-03-04 $240（24 Port Fiber Switch）、2025-05-01 $300（48 Port PoE Managed Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-05-06 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 2 轮 2025-10-08→2026-05-06；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-08-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-10；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）（㉕ ②：STC-424XGGPM-280W / STC-448XGGPM 文本价改为群发现价 $180 / $335；第 75 批 2026-10-25））——对位其 DCN S5750E-28X-P-EI（24 PoE + 4×10G）→ Saga STC-424XGGPM-280W；DIN 工业补 STI-288GPM；经销 20%。
-- **下一步（具体）**：2027-Q1　A 邮箱 → customerservice.pkj@gmail.com　首封前知悉：Elsa 已 1:1 去信 8 轮（2025-06-09→2026-08-10，只有 2025-10-07 一封空回）且他 2026-08 看到过 24 口 PoE $170（第 74 批(o)）；季度
+- **下一步（具体）**：2027-Q1　A 邮箱 → customerservice.pkj@gmail.com　首封前知悉：Elsa 已 1:1 去信 8 轮（2025-06-09→2026-08-10，只有 2025-10-07 一封空回）且他 2026-08 看到过 24 口 PoE $170（第 74 批(o)）；季度（第 75 批(aj) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；$170→$180 按 ㉟ 先说 8 月那封 $170 + FX 7.2→6.7；2025-10 空回点明）
   - 第一问（只问一个）：For the DCN-based IPTV and CCTV jobs — where DCN is over-spec, would a Marvell 24-PoE + 4×10G L2+ at $181 EXW or a DIN-rail 8-PoE + 2-SFP at $79 fill the lower tier? Happy to send 1 sample of each to Kedoya.
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -247,23 +247,23 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-424XGGPM-280W - 24-port Gigabit PoE+ L2+ managed switch with 4x10G SFP+ uplinks (Marvell-based, neutral label)
+**主题**：Where DCN is over-spec on your IPTV and CCTV jobs - a lower tier, with the price change explained
 
 ```text
-Hello,
+Hello PT Panca Kumala Jaya team,
 
-Picking up our earlier exchange about PoE / industrial switches. For the DCN-based IPTV and CCTV jobs — where DCN is over-spec, would a Marvell 24-PoE + 4×10G L2+ at $181 EXW or a DIN-rail 8-PoE + 2-SFP at $79 fill the lower tier? Happy to send 1 sample of each to Kedoya.
+You had several mails from us over the past year - the last one, "24 Port PoE Managed Switch" in August 2026, showed the 24-port PoE unit at $170; your reply in October 2025 came through with the signature only, so I assume it was sent by mistake. This one is specific, and the price has moved, so first the reason: the yuan went from about 7.2 to 6.7 against the dollar, so the same unit is $180 today.
 
-We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch with 4x10G SFP+ uplinks - model STC-424XGGPM-280W - that fits the same slot as your DCN IS2100D-4GF10GT-P at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $180 USD EXW (MOQ 1, 15-day validity; our 2026-08 mail showed $170 - the difference is the CNY/USD move from 7.2 to 6.7).
+Where DCN is over-spec on the IPTV and CCTV jobs, at distributor price, EXW, MOQ 1, 15-day validity, CE/RoHS: S5750E-28X-P-EI position - 24 x Gigabit PoE+ (280 W) + 4 x 10G SFP+, L2+ managed, Marvell-based - model STC-424XGGPM-280W - $180 USD; DIN-rail industrial 8 x Gigabit PoE+ + 2 x SFP, L2 managed - STI-288GPM - $78.9. Samples are paid at the same price and ship by courier to Kedoya.
 
-If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: on a typical IPTV or CCTV job, how many of the 24-port units go in - one per site, or several?
 
 Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Simon
+Saga Telecom - sagatele.com
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 

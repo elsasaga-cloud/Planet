@@ -36,7 +36,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 品牌授权分销为主 → 白牌价位 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）作 SI 项目补位；预期低。已打开的主题（1/20 封有打开记录）：「Booster PoE Switch」(2025-11-14) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续；换人再触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-12-24 $300（48 Port PoE Managed Switch）、2025-03-14 $240（24 Port Fiber Switch）、2025-10-14 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Allen, alongside the LevelOne, Zyxel and DrayTek switches you distribute to Hong Kong SIs, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ model and 24-PoE + 4 SFP from small lots, CE/RoHS, EXW USD — is there a price band your SIs ask for below the branded lines? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 首封前知悉：Elsa 仅 2025-02-12 单发过 1 封「90W PoE Managed Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 首封前知悉：Elsa 仅 2025-02-12 单发过 1 封「90W PoE Managed Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(aj) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -47,7 +47,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：品牌授权分销为主 → 白牌价位 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）作 SI 项目补位；预期低
 - **断点 / 为什么停在这里**：品牌独家分销模式（厂商授权）：白牌与其定位冲突，契合度低；非主攻区（T5）
 - **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，换人再触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-12-24 $300（48 Port PoE Managed Switch）、2025-03-14 $240（24 Port Fiber Switch）、2025-10-14 $280（10G Enterprise SFP Switch））——品牌授权分销为主 → 白牌价位 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）作 SI 项目补位；预期低。已打开的主题（1/20 封有打开记录）：「Booster PoE Switch」(2025-11-14) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续
-- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　首封前知悉：Elsa 仅 2025-02-12 单发过 1 封「90W PoE Managed Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　首封前知悉：Elsa 仅 2025-02-12 单发过 1 封「90W PoE Managed Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(aj) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））
   - 第一问（只问一个）：Allen, alongside the LevelOne, Zyxel and DrayTek switches you distribute to Hong Kong SIs, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ model and 24-PoE + 4 SFP from small lots, CE/RoHS, EXW USD — is there a price band your SIs ask for below the branded lines? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -271,23 +271,23 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
+**主题**：A price band below LevelOne, Zyxel and DrayTek for your Hong Kong SIs
 
 ```text
-Hi Ariel,
+Hi Allen,
 
-Some time ago you had a product mail from us - "90W PoE Managed Switch" on 12 February 2025 - and there was no reason to answer a mass mail. This one is specific. Alongside the LevelOne, Zyxel and DrayTek switches you distribute to Hong Kong SIs, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ model and 24-PoE + 4 SFP from small lots, CE/RoHS, EXW USD — is there a price band your SIs ask for below the branded lines?
+We wrote to you once in February 2025 about a 90 W PoE managed switch, and since then only general product mails - most recently "Industrial PoE Switch" on 15 September 2026 - none of which needed an answer. This one is specific.
 
-We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $80.7 USD EXW (valid 15 days).
+Alongside the LevelOne, Zyxel and DrayTek switches you distribute to Hong Kong SIs, a neutral-brand band below them, at distributor price, EXW, MOQ 1, 15-day validity, CE/RoHS: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based - model STC-28DGGPM - $80.7 USD; 24 x Gigabit PoE+ (280 W) + 4 x SFP, L2+ managed - STC-424DGGPM-280W - $134.5. Shenzhen is next door, so a sample is a day away.
 
-If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: is there a price band your SIs ask for below the branded lines, or do they stay with the names?
 
 Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Simon
+Saga Telecom - sagatele.com
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 

@@ -119,7 +119,7 @@
   "next_move": {
    "when": "2027-Q1（非主攻区，顺带一问；不投入）",
    "channel": "A 邮箱 → office@fastball.in（Rishi Kumar Bansal）",
-   "action": "一问：IndiaMART 上的 FBC-204GP 列表是不是在卖我方 STC-204GP（有则给现价，无则不再发）",
+   "action": "一问：IndiaMART 上的 FBC-204GP 列表是不是在卖我方 STC-204GP（有则给现价，无则不再发）（第 75 批(aj) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；按 action「一问」：IndiaMART FBC-204GP 是否我方 STC-204GP；BIS 对方侧）",
    "one_question": "Rishi — your IndiaMART page lists a \"4 Port Industrial Ethernet Switch FBC-204GP\", which matches our STC-204GP (4 × PoE + 2 × SFP). Is it a live stock item for you, or a listing from the 2023 catalogue? If live, the current price is STC-204GP $24.2 USD EXW (MOQ 1, 15-day validity) and I can quote 20/50-pc tiers; if not, I will leave you alone."
   },
   "facts": [
@@ -189,7 +189,10 @@
    }
   ],
   "proof_gaps": [],
-  "draft_en": null,
+  "draft_en": {
+   "subject": "One question, Rishi - the FBC-204GP on IndiaMART",
+   "body": "Hi Rishi,\n\nOne question: the FBC-204GP listed under Fastball on IndiaMART - is that our STC-204GP (4 x Gigabit PoE+ + 2 x Gigabit uplinks, 65 W) that you are selling on? If yes, the current price is $24.2 USD EXW at distributor tier (MOQ 1, 15-day validity), and I will keep you on the price updates; if no, I will not write again about it. BIS stays on your side.\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+  },
   "as_of": "2026-10-24"
  }
 }

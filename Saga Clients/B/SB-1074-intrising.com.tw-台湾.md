@@ -36,7 +36,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 自有 DCS-8GP-2GS（8 PoE + 2 SFP）→ 二供位工业管理 STI-288GPM（$85.5 @30%）；8 PoE + 4×10G（DAS-8GHP-4X）→ STI-488XGGPM（$178.7）；IEC 61850-3 变电站线不报（守界/无认证）。已打开的主题（1/22 封有打开记录）：「24 Port Fiber Switch」(2025-01-07) → 读者兴趣偏「MC/光电」；与 P1 同类，继续；换人再触锚价 STI-288GPM $85.5 EXW（主表档位（PDF 上限 $88；SA-026 2025-07 实报 $72 为分销量价）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-22 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2024-06-24 $65（10g fiber media converter）、2025-01-07 $240（24 Port Fiber Switch）、2025-10-23 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Ken, for the entry models of your industrial line (8-PoE + 2 SFP, 8-PoE + 4×10G), we can be a second source on a Marvell platform from small lots, leaving your IEC 61850-3 and PTP models untouched — is a lower-cost tier something you would consider dual-sourcing? Reference: STI-288GPM at $85.5 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封（第 75 批(aj) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -47,7 +47,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：自有 DCS-8GP-2GS（8 PoE + 2 SFP）→ 二供位工业管理 STI-288GPM（$85.5 @30%）；8 PoE + 4×10G（DAS-8GHP-4X）→ STI-488XGGPM（$178.7）；IEC 61850-3 变电站线不报（守界/无认证）
 - **断点 / 为什么停在这里**：台湾品牌商：自有 ODM 体系，仅二供/补缺；19 次无回复
 - **Saga 现在该推什么**：P1 **STI-288GPM**（30% 档，换人再触锚价 STI-288GPM $85.5 EXW（主表档位（PDF 上限 $88；SA-026 2025-07 实报 $72 为分销量价）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-22 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2024-06-24 $65（10g fiber media converter）、2025-01-07 $240（24 Port Fiber Switch）、2025-10-23 $280（10G Enterprise SFP Switch））——自有 DCS-8GP-2GS（8 PoE + 2 SFP）→ 二供位工业管理 STI-288GPM（$85.5 @30%）；8 PoE + 4×10G（DAS-8GHP-4X）→ STI-488XGGPM（$178.7）；IEC 61850-3 变电站线不报（守界/无认证）。已打开的主题（1/22 封有打开记录）：「24 Port Fiber Switch」(2025-01-07) → 读者兴趣偏「MC/光电」；与 P1 同类，继续
-- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封（第 75 批(aj) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））
   - 第一问（只问一个）：Ken, for the entry models of your industrial line (8-PoE + 2 SFP, 8-PoE + 4×10G), we can be a second source on a Marvell platform from small lots, leaving your IEC 61850-3 and PTP models untouched — is a lower-cost tier something you would consider dual-sourcing? Reference: STI-288GPM at $85.5 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -274,23 +274,23 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-288GPM - industrial DIN-rail L2 managed switch (Marvell-based, neutral label)
+**主题**：A lower-cost tier for the entry models of your industrial line - IEC 61850-3 and PTP untouched
 
 ```text
 Hi Ken,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the entry models of your industrial line (8-PoE + 2 SFP, 8-PoE + 4×10G), we can be a second source on a Marvell platform from small lots, leaving your IEC 61850-3 and PTP models untouched — is a lower-cost tier something you would consider dual-sourcing?
+Over the past months you had a few product mails from us - most recently "Managed Optical Bypass Switch" on 10 September 2026 - and there was no reason to answer a mass mail. This one is specific.
 
-We supply a Marvell-based industrial DIN-rail L2 managed switch, 8x Gigabit PoE+ plus 2 SFP (240 W) - model STI-288GPM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $85.5 USD EXW (valid 15 days).
+For the entry models of your industrial line only - the IEC 61850-3 and PTP models stay yours - a second source from small lots, -40 to 75 C, CE/RoHS: DCS-8GP-2GS position - DIN-rail 8 x Gigabit PoE+ + 2 x SFP, L2 managed, Marvell-based - model STI-288GPM - $85.5 USD EXW under your label (MOQ 1, 15-day validity); DAS-8GHP-4X position - 8 x Gigabit PoE+ + 4 x 10G SFP+, L2+ managed with ring redundancy - STI-488XGGPM - $178.8.
 
-If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: is a lower-cost tier something you would consider dual-sourcing, or does every Intrising unit have to carry the full feature set?
 
 Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Simon
+Saga Telecom - sagatele.com
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 
