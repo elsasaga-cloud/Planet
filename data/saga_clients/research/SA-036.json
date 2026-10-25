@@ -157,7 +157,7 @@
   "next_move": {
    "when": "2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）",
    "channel": "A 邮箱 → matt@addoncomputer.com",
-   "action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(o) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用；换人/一问口径）；「200 台 10–15 天」是对外承诺，发前 Simon 自己确认交期）",
+   "action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(o) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用；换人/一问口径）；「200 台 10–15 天」是对外承诺，发前 Simon 自己确认交期）（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
    "one_question": "On the ADD-GMC-SFP class gigabit converter we can now commit a firm 10–15 day lead time from order for the first 200 units, which was the point that stalled things after the six samples. Is the gigabit SFP converter still sourced externally, and shall I hold that lead time with a current EXW quote? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
@@ -170,11 +170,35 @@
     "k": "d4c6d5fe4ffb46a9"
    },
    {
+    "date": "2025-04-02",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "90W PoE Managed Switch",
+    "why": "首封去信（邮箱索引；去信共 33 封）",
+    "k": "d4c6d5fe4ffb46a9"
+   },
+   {
+    "date": "2025-04-02",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "10G Media Converter｜稿内价 $65",
+    "why": "去信正文含价（邮箱索引）",
+    "k": "40ee0efb805e335c"
+   },
+   {
     "date": "2026-08-31",
     "dir": "去",
     "who": "Saga（Alan）",
     "quote": "「24 Port PoE Managed Switch」——最后一封，发 anthony.giunta@ + tyler.griffey@",
     "why": "AddOn 是光模块/线缆大厂，群发主题（24 口 PoE）与其 MC 补源需求不对口 → 下一封只谈 SFP 转换器交期",
+    "k": "9a4cd7f8c26980fe"
+   },
+   {
+    "date": "2026-08-31",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "24 Port PoE Managed Switch",
+    "why": "最近一封去信（邮箱索引；去信共 33 封）",
     "k": "9a4cd7f8c26980fe"
    }
   ],

@@ -122,10 +122,34 @@
     "next_move": {
       "when": "2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）",
       "channel": "A 邮箱 → info@kyma.it（Davide Zisios）",
-      "action": "首封前知悉：Elsa 仅 2025-02-17 单发过 1 封「16 Port Ethernet Switch」，之后没再碰他（第 74 批(m)）；一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(al) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）",
+      "action": "首封前知悉：Elsa 仅 2025-02-17 单发过 1 封「16 Port Ethernet Switch」，之后没再碰他（第 74 批(m)）；一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(al) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
       "one_question": "Kyma has imported PLANET since 1994 and now also carries 3onedata, so direct sourcing from Asia is already part of how you run the business. Which industrial PoE configuration do your customers ask for most: 8-port PoE+ with 2 SFP, or the 4 SFP version? Reference: STI-288GPM at $78.9 USD EXW (MOQ 1, 15-day validity)."
     },
     "facts": [
+      {
+        "date": "2024-06-27",
+        "dir": "去",
+        "who": "S 箱（Simon）",
+        "quote": "Industrial Ethernet Switch",
+        "why": "首封去信（邮箱索引；去信共 20 封）",
+        "k": "d7db4293491aa104"
+      },
+      {
+        "date": "2024-08-20",
+        "dir": "去",
+        "who": "S 箱（Simon）",
+        "quote": "10G media converter｜稿内价 $65",
+        "why": "去信正文含价（邮箱索引）",
+        "k": "135bc0edf19035a0"
+      },
+      {
+        "date": "2024-08-20",
+        "dir": "去",
+        "who": "S 箱（Simon）报价",
+        "quote": "10G media converter｜ $65（原句：Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unma）",
+        "why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
+        "k": "135bc0edf19035a0"
+      },
       {
         "date": "2025-02-17",
         "dir": "out",

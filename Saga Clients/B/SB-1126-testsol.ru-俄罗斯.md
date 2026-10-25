@@ -36,7 +36,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 在售 Maiwe/EtherWAN 工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-080GE（$31.4）；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-11-03 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Alongside the Maiwe, EtherWAN and Advantech industrial switches you represent, we supply DIN-rail 8-PoE + 2 SFP managed and 5/8-GE unmanaged units (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your customers order most?
 - **最大未知**：具体需求型号（表内兴趣列为空）
-- **下一步**：群发节奏 A 邮箱 观察打开
+- **下一步**：群发节奏 A 邮箱 观察打开（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -47,12 +47,14 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：在售 Maiwe/EtherWAN 工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-080GE（$31.4）
 - **断点 / 为什么停在这里**：俄罗斯：结算/物流受限，非主攻区（T5）；站点信息少（快照仅品牌页）
 - **Saga 现在该推什么**：P1 **STI-288GPM**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-11-03 $280（10G Enterprise SFP Switch））——在售 Maiwe/EtherWAN 工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-080GE（$31.4）
-- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+- **下一步（具体）**：群发节奏　A 邮箱　观察打开（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）
   - 第一问（只问一个）：Alongside the Maiwe, EtherWAN and Advantech industrial switches you represent, we supply DIN-rail 8-PoE + 2 SFP managed and 5/8-GE unmanaged units (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your customers order most?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2025-11-03 | 去 | A 箱（Alan） | 10G Enterprise SFP Switch | 首封去信（邮箱索引；去信共 4 封） | `585cffa0b532ea3e` |
 | 2026-02-10 | 去 | A 群发 | 10G Enterprise SFP Switch、Marvell Industrial Alert System | 4 封 / 0 次打开 / 0 回｜首封 2025-11-03 → 末封 2026-02-10（4 去 / 0 来） | `gmail_digest` |
+| 2026-02-10 | 去 | A 箱（Alan） | Managed Optical Bypass Switch | 最近一封去信（邮箱索引；去信共 4 封） | `f1e6a1924ae6d1ee` |
 
 ## 基本事实（事实/推断/假设分层）
 

@@ -129,7 +129,7 @@
   "next_move": {
    "when": "2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）",
    "channel": "A 邮箱 → info@falke-security.de（Nuri Sahin）",
-   "action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(q) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））",
+   "action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(q) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
    "one_question": "You asked at the show for the 8-copper models with fibre uplinks, so here are the two closest Marvell-based units, the 8-port PoE+ with 2 SFP and the 24-port with four 10G SFP+ uplinks, both at EXW. Which of the two should I price first? Reference: STC-28DGGPM at $84.1 / STC-424XGGPM-280W at $180 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
@@ -142,11 +142,27 @@
     "k": "0443766a26891554"
    },
    {
+    "date": "2025-04-15",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "L3 Managed Switch",
+    "why": "首封去信（邮箱索引；去信共 15 封）",
+    "k": "0443766a26891554"
+   },
+   {
     "date": "2026-09-24",
     "dir": "去",
     "who": "Saga（Alan）",
     "quote": "「Managed PoE Switches」——最后一封",
     "why": "公用 info@ 打了 17 个月无反应；具名 Nuri Sahin 下次直发",
+    "k": "d564e14c35bc58ca"
+   },
+   {
+    "date": "2026-09-24",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "Managed PoE Switches",
+    "why": "最近一封去信（邮箱索引；去信共 15 封）",
     "k": "d564e14c35bc58ca"
    }
   ],

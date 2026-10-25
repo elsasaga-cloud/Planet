@@ -149,7 +149,7 @@
     "next_move": {
       "when": "2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）",
       "channel": "A 邮箱 → MT-Link 具名 KP 待找",
-      "action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(p) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；具名 KP 待找）",
+      "action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(p) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；具名 KP 待找）（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
       "one_question": "Your MT-SW1024PE is still a fast-Ethernet PoE unit, so a Marvell-based 24-port gigabit PoE+ managed switch with 4 SFP under an MT- part number is the gap I would fill first, with the 8-port PoE+ 2 SFP model alongside. Would the 24-port be the first SKU to sample under an MT- part number? Reference: STC-424DGGPM-280W at $145.7 / STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity)."
     },
     "facts": [
@@ -168,6 +168,30 @@
         "quote": "用户表跟进：推「发了24光combo型号」→ 对方「price」",
         "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
         "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.88 2024.2.27"
+      },
+      {
+        "date": "2026-03-12",
+        "dir": "去",
+        "who": "A 箱（Alan）",
+        "quote": "OEM Core Switching Solution",
+        "why": "首封去信（邮箱索引；去信共 2 封）",
+        "k": "61345c495835cf03"
+      },
+      {
+        "date": "2026-08-10",
+        "dir": "去",
+        "who": "A 箱（Alan）",
+        "quote": "24 Port PoE Managed Switch",
+        "why": "最近一封去信（邮箱索引；去信共 2 封）",
+        "k": "e46a56a1a0754324"
+      },
+      {
+        "date": "2026-08-10",
+        "dir": "去",
+        "who": "A 箱（Alan）",
+        "quote": "24 Port PoE Managed Switch｜稿内价 $170",
+        "why": "去信正文含价（邮箱索引）",
+        "k": "e46a56a1a0754324"
       }
     ],
     "proof_gaps": [

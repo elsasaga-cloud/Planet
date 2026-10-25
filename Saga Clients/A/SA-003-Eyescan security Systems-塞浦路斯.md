@@ -38,7 +38,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424DGGPM-280W — 已打开的主题（1/16 封有打开记录）：「Mini Industrial PoE Switch」(2025-05-29) → 读者兴趣偏「工业」；与 P1 同类，继续；—；群发里他已看到的价（续）：2026-07-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-03-19 $300（48 Port PoE Managed Switch）、2025-10-08 $280（10G Enterprise SFP Switch）、2026-06-17 $16000（32 Port 400GB DC Switch）
 - **第一问（只问一个）**：Which of the two 24-port configs (4×SFP / 2×SFP) did the price land for, and is the project still live?
 - **最大未知**：年走量与现供应商
-- **下一步**：按 WA 节奏 WhatsApp WhatsApp 一句话（第 75 批(r) 2026-10-25：WhatsApp 一句话版已写 `draft_en`（Simon 按 WA 节奏自发））
+- **下一步**：按 WA 节奏 WhatsApp WhatsApp 一句话（第 75 批(r) 2026-10-25：WhatsApp 一句话版已写 `draft_en`（Simon 按 WA 节奏自发））（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -49,12 +49,14 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：24 口 PoE 管理（4 光/2 光）。
 - **断点 / 为什么停在这里**：邮件不是其渠道。
 - **Saga 现在该推什么**：P1 **STC-424DGGPM-280W**（25% 档，—；群发里他已看到的价（续）：2026-07-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-03-19 $300（48 Port PoE Managed Switch）、2025-10-08 $280（10G Enterprise SFP Switch）、2026-06-17 $16000（32 Port 400GB DC Switch））——已打开的主题（1/16 封有打开记录）：「Mini Industrial PoE Switch」(2025-05-29) → 读者兴趣偏「工业」；与 P1 同类，继续
-- **下一步（具体）**：按 WA 节奏　WhatsApp　WhatsApp 一句话（第 75 批(r) 2026-10-25：WhatsApp 一句话版已写 `draft_en`（Simon 按 WA 节奏自发））
+- **下一步（具体）**：按 WA 节奏　WhatsApp　WhatsApp 一句话（第 75 批(r) 2026-10-25：WhatsApp 一句话版已写 `draft_en`（Simon 按 WA 节奏自发））（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）
   - 第一问（只问一个）：Which of the two 24-port configs (4×SFP / 2×SFP) did the price land for, and is the project still live?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2025-03-19 | 去 | A 箱（Alan） | 48 Port PoE Managed Switch | 首封去信（邮箱索引；去信共 16 封） | `bdfae7d60ad9d6fc` |
 | 2025-05-29 | 去 | Saga（群发） | 「Mini Industrial PoE Switch」被打开（Mailtrack Opened 标签） | 唯一的互动痕迹 | `66ef1c3d2c1a5e08` |
+| 2026-09-14 | 去 | A 箱（Alan） | 16 Port Industrial PoE Switch | 最近一封去信（邮箱索引；去信共 16 封） | `f6c64abd03bd5dab` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 从未去信、Replied 索引亦无此户），仓库未见原文
 

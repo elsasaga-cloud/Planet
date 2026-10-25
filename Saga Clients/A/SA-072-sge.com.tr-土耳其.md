@@ -38,7 +38,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-244GP / STI-288DGGPM 对位 CIEN3206GP — TR 主攻 + 已回复 = 写第二封。已打开的主题（2/9 封有打开记录）：「Booster PoE Switch」(2025-12-01)、「Re: Booster PoE Switch」(2025-12-02) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续｜已发资料（勿重发）：Download Link_Alan(2025-12-02)、Saga Feature List_7.5.x_L2+(2026-07-20)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）；按 25%；**第 63 批基准统一（规则 ㉕）**：STI-244GP 列表价 $49.5 → 老表 $45；STI-288DGGPM $137.5 / STI-21616DGGPM $242 = 列表价封顶（25% 档更高）；群发里他已看到的价（续）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-30 $280（10G Enterprise SFP Switch）；第 76 批(b)：STI-244GP「老表 $45」高于主表 25% 档 $36.6 与历史实报 $35–40，文本改 $36.6
 - **第一问（只问一个）**：For the industrial PoE units you resell today, is a 10–15-day lead time (vs ~5 weeks) worth a sample on one SKU?
 - **最大未知**：年走量与现供应商
-- **下一步**：2026-11 A 邮箱 → muratg@sge.com.tr 对位表（2 款）+ 交期 10–15 天 + 一句话（第 76 批(b) 2026-10-25：audit_ab 硬错误修正：STI-244GP $45 → $36.6）（第 76 批(c) 2026-10-25：audit_ab 软项修正：证书口径 CE/RoHS/FCC → CE/RoHS）
+- **下一步**：2026-11 A 邮箱 → muratg@sge.com.tr 对位表（2 款）+ 交期 10–15 天 + 一句话（第 76 批(b) 2026-10-25：audit_ab 硬错误修正：STI-244GP $45 → $36.6）（第 76 批(c) 2026-10-25：audit_ab 软项修正：证书口径 CE/RoHS/FCC → CE/RoHS）（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -50,12 +50,15 @@ updated: 2026-10-25
 - **断点 / 为什么停在这里**：价表链接式回复；土耳其主攻区却只投了 9 封。
 - **Saga 现在该推什么**：P1 **STI-244GP / STI-288DGGPM 对位 CIEN3206GP**（25% 档，按 25%；**第 63 批基准统一（规则 ㉕）**：STI-244GP 列表价 $49.5 → 老表 $45；STI-288DGGPM $137.5 / STI-21616DGGPM $242 = 列表价封顶（25% 档更高）；群发里他已看到的价（续）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-30 $280（10G Enterprise SFP Switch）；第 76 批(b)：STI-244GP「老表 $45」高于主表 25% 档 $36.6 与历史实报 $35–40，文本改 $36.6）——TR 主攻 + 已回复 = 写第二封。已打开的主题（2/9 封有打开记录）：「Booster PoE Switch」(2025-12-01)、「Re: Booster PoE Switch」(2025-12-02) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续｜已发资料（勿重发）：Download Link_Alan(2025-12-02)、Saga Feature List_7.5.x_L2+(2026-07-20)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）
   - 做不了 / 要先核的：其 CIEN3206GP 网店售价（研究档有线索，报前核）
-- **下一步（具体）**：2026-11　A 邮箱 → muratg@sge.com.tr　对位表（2 款）+ 交期 10–15 天 + 一句话（第 76 批(b) 2026-10-25：audit_ab 硬错误修正：STI-244GP $45 → $36.6）（第 76 批(c) 2026-10-25：audit_ab 软项修正：证书口径 CE/RoHS/FCC → CE/RoHS）
+- **下一步（具体）**：2026-11　A 邮箱 → muratg@sge.com.tr　对位表（2 款）+ 交期 10–15 天 + 一句话（第 76 批(b) 2026-10-25：audit_ab 硬错误修正：STI-244GP $45 → $36.6）（第 76 批(c) 2026-10-25：audit_ab 软项修正：证书口径 CE/RoHS/FCC → CE/RoHS）（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）
   - 第一问（只问一个）：For the industrial PoE units you resell today, is a 10–15-day lead time (vs ~5 weeks) worth a sample on one SKU?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2025-09-30 | 去 | A 箱（Alan） | 10G Enterprise SFP Switch | 首封去信（邮箱索引；去信共 9 封） | `498c4e83f7633cf9` |
 | 2025-12-01 | 来 | Murat Gül（Electrical Engineer） | Can you send to me the price list of your products? | 要价表 | `d6656fb30ed9002e` |
+| 2025-12-01 | 来 | muratg@sge.com.tr | RE: Booster PoE Switch｜Can you send to me the price list of your products?     İyi çalışmalar dilerim  ______________________________________________________________________ | 来信（邮箱索引；原文见 k；是否人工回复以原文为准） | `d6656fb30ed9002e` |
+| 2026-09-07 | 去 | A 箱（Alan） | 16 Port Industrial PoE Switch | 最近一封去信（邮箱索引；去信共 9 封） | `193a64fe5f2fb9e4` |
 
 ## 基本事实（事实/推断/假设分层）
 

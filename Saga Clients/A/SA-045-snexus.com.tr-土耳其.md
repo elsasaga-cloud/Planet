@@ -38,7 +38,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424DGGM 类 24+4（对位 SN-GS2300-28F） — 已打开的主题（1/17 封有打开记录）：「Booster PoE Switch」(2025-11-26) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续；—；群发里他已看到的价（续）：2026-08-13 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-08-16 $65（10G Media Converter）、2024-10-28 $300（48 Port PoE Managed Switch）、2025-09-25 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：If the sample is paid but credited against a 20-pc first batch, does SN-GS2300-28F dual-sourcing go ahead?
 - **最大未知**：年走量与现供应商
-- **下一步**：按 WA 节奏 WhatsApp WA 一句话（付样 + 首批量）（第 75 批(r) 2026-10-25：WhatsApp 一句话版已写 `draft_en`（Simon 按 WA 节奏自发））
+- **下一步**：按 WA 节奏 WhatsApp WA 一句话（付样 + 首批量）（第 75 批(r) 2026-10-25：WhatsApp 一句话版已写 `draft_en`（Simon 按 WA 节奏自发））（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -49,13 +49,19 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：24+4 SFP 管理型贴牌。
 - **断点 / 为什么停在这里**：免费样。
 - **Saga 现在该推什么**：P1 **STC-424DGGM 类 24+4（对位 SN-GS2300-28F）**（30% 档，—；群发里他已看到的价（续）：2026-08-13 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-08-16 $65（10G Media Converter）、2024-10-28 $300（48 Port PoE Managed Switch）、2025-09-25 $280（10G Enterprise SFP Switch））——已打开的主题（1/17 封有打开记录）：「Booster PoE Switch」(2025-11-26) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续
-- **下一步（具体）**：按 WA 节奏　WhatsApp　WA 一句话（付样 + 首批量）（第 75 批(r) 2026-10-25：WhatsApp 一句话版已写 `draft_en`（Simon 按 WA 节奏自发））
+- **下一步（具体）**：按 WA 节奏　WhatsApp　WA 一句话（付样 + 首批量）（第 75 批(r) 2026-10-25：WhatsApp 一句话版已写 `draft_en`（Simon 按 WA 节奏自发））（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）
   - 第一问（只问一个）：If the sample is paid but credited against a 20-pc first batch, does SN-GS2300-28F dual-sourcing go ahead?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2024-06-24 | 去 | S 箱（Simon） | Industrial PoE Switch | 首封去信（邮箱索引；去信共 17 封） | `29c24de1d33bc316` |
+| 2024-08-16 | 去 | S 箱（Simon） | 10G media converter｜稿内价 $65 | 去信正文含价（邮箱索引） | `4b76faeca354d0cc` |
+| 2024-08-16 | 去 | S 箱（Simon）报价 | 10G media converter｜ $65（原句：Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unma） | S 邮箱报价史（规则 ㉕ ① 自报价优先） | `4b76faeca354d0cc` |
+| 2024-10-28 | 去 | S 箱（Simon）报价 | 48 Port PoE Managed Switch｜ $300（原句：*Price is very competitive, 300usd/pc*） | S 邮箱报价史（规则 ㉕ ① 自报价优先） | `0e3d05496b6b2e32` |
 | 2024-11-05 | 去 | Simon → Angora Networks（SA-168）附件 Turkey Client List.xlsx | 名单行：「industrial network info@snexus.com.tr 90 53340 48364 https://www.snexus.com.tr/」 | Saga 2024-11-05 把本户列入交给 Angora（安卡拉，Saga 提议的欧盟/土耳其分销伙伴）的 64 家起步名单；此后 Saga 仍直发本户。若 Angora 已接触过本户，Saga 直发会与自己提议的渠道打架 → Q-51（默认：直发继续，Angora 报了价的户 Saga 只做技术支持） | `gmail_s 2024-11-05 Re: Invoice_5pcs STC-424DGGPM-280W（附件）+ Drive PI 7_土耳其 Turkey_Client_List.xlsx` |
 | 2025-11-26 | 去 | Saga（群发） | 「Booster PoE Switch」被打开（Mailtrack Opened 标签） | 唯一的互动痕迹 | `7386567b0f7ec1c7` |
+| 2026-08-13 | 去 | A 箱（Alan） | 24 Port PoE Managed Switch｜稿内价 $170 | 去信正文含价（邮箱索引） | `5c79ffffc51eec37` |
+| 2026-09-17 | 去 | A 箱（Alan） | 16 Port Industrial PoE Switch | 最近一封去信（邮箱索引；去信共 17 封） | `6c17e8b243d49a3c` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 从未去信、Replied 索引亦无此户），仓库未见原文；在 Saga 给 Angora 的 Turkey Client List（2024-11-05）里——Angora 是否接触过本户无记录（Q-51）
 

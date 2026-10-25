@@ -173,7 +173,7 @@
   "next_move": {
    "when": "2027-Q1",
    "channel": "LinkedIn / 官网表单",
-   "action": "一次对位表（第 75 批(q) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；LinkedIn/表单短版）",
+   "action": "一次对位表（第 75 批(q) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；LinkedIn/表单短版）（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
    "one_question": "Which of the DCE media-converter SKUs is sourced in Asia today, and what would a second source need to match? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
@@ -184,6 +184,62 @@
     "quote": "Yes, I would like to learn more about your 10G media converter…",
     "why": "误归属说明",
     "k": "6350a98e7dcd08eb"
+   },
+   {
+    "date": "2024-08-24",
+    "dir": "去",
+    "who": "S 箱（Simon）",
+    "quote": "10G media converter",
+    "why": "首封去信（邮箱索引；去信共 27 封）",
+    "k": "1d40fa686d57be9b"
+   },
+   {
+    "date": "2024-08-24",
+    "dir": "去",
+    "who": "S 箱（Simon）",
+    "quote": "10G media converter｜稿内价 $65",
+    "why": "去信正文含价（邮箱索引）",
+    "k": "1d40fa686d57be9b"
+   },
+   {
+    "date": "2024-08-24",
+    "dir": "来",
+    "who": "nate.cline@alphanetcom.com",
+    "quote": "RE: 10G media converter｜Hi Simon,     Yes, I would like to learn more about your 10G media converter.     Can you send me a price list and I want to ask if I can buy from you",
+    "why": "来信（邮箱索引；原文见 k；是否人工回复以原文为准）",
+    "k": "6350a98e7dcd08eb"
+   },
+   {
+    "date": "2024-08-24",
+    "dir": "去",
+    "who": "S 箱（Simon）报价",
+    "quote": "10G media converter｜ $65（原句：Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unma）",
+    "why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
+    "k": "1d40fa686d57be9b"
+   },
+   {
+    "date": "2024-12-11",
+    "dir": "去",
+    "who": "S 箱（Simon）报价",
+    "quote": "48 Port PoE Managed Switch｜ $300（原句：*Price is very competitive, 300usd/pc*）",
+    "why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
+    "k": "654b21b6912a9b67"
+   },
+   {
+    "date": "2026-10-02",
+    "dir": "去",
+    "who": "S 箱（Simon）",
+    "quote": "24 Port PoE Managed Switch",
+    "why": "最近一封去信（邮箱索引；去信共 27 封）",
+    "k": "481d052423caa372"
+   },
+   {
+    "date": "2026-10-02",
+    "dir": "去",
+    "who": "S 箱（Simon）报价",
+    "quote": "24 Port PoE Managed Switch｜ $180（原句：*Price: 180USD/PC*）",
+    "why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
+    "k": "481d052423caa372"
    }
   ],
   "proof_gaps": [],

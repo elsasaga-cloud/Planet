@@ -38,7 +38,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-244GP 管理版 — 2 光 4 电 ERPS 环 → 带环保护的管理型 8 PoE + 2 SFP DIN（STI-244GP 非管理无 ERPS，管理版才有）；—；群发里他已看到的价（续，第 66 批全量复核）：2024-11-20 $65（10G Media Converter）、2025-02-04 $240（24 Port Fiber Switch）
 - **第一问（只问一个）**：For the 2-fibre 4-copper ERPS ring requirement, the managed 8-port gigabit PoE + 2 SFP DIN switch is the unit that carries ring protection, so I am quoting that and confirming the ERPS firmware detail with the factory.
 - **最大未知**：年走量与现供应商
-- **下一步**：按 WA 节奏 WhatsApp WA（用 one_question 这句，WhatsApp 直接发，不附资料）（第 75 批(r) 2026-10-25：WhatsApp 一句话版已写 `draft_en`（Simon 按 WA 节奏自发）；环网只写 ring redundancy）
+- **下一步**：按 WA 节奏 WhatsApp WA（用 one_question 这句，WhatsApp 直接发，不附资料）（第 75 批(r) 2026-10-25：WhatsApp 一句话版已写 `draft_en`（Simon 按 WA 节奏自发）；环网只写 ring redundancy）（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -49,13 +49,17 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：STI 2 光 4 电管理 + ERPS。
 - **断点 / 为什么停在这里**：—
 - **Saga 现在该推什么**：P1 **STI-244GP 管理版**（25% 档，—；群发里他已看到的价（续，第 66 批全量复核）：2024-11-20 $65（10G Media Converter）、2025-02-04 $240（24 Port Fiber Switch））——2 光 4 电 ERPS 环 → 带环保护的管理型 8 PoE + 2 SFP DIN（STI-244GP 非管理无 ERPS，管理版才有）
-- **下一步（具体）**：按 WA 节奏　WhatsApp　WA（用 one_question 这句，WhatsApp 直接发，不附资料）（第 75 批(r) 2026-10-25：WhatsApp 一句话版已写 `draft_en`（Simon 按 WA 节奏自发）；环网只写 ring redundancy）
+- **下一步（具体）**：按 WA 节奏　WhatsApp　WA（用 one_question 这句，WhatsApp 直接发，不附资料）（第 75 批(r) 2026-10-25：WhatsApp 一句话版已写 `draft_en`（Simon 按 WA 节奏自发）；环网只写 ring redundancy）（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）
   - 第一问（只问一个）：For the 2-fibre 4-copper ERPS ring requirement, the managed 8-port gigabit PoE + 2 SFP DIN switch is the unit that carries ring protection, so I am quoting that and confirming the ERPS firmware detail with the factory.
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2024-05-19 | 来 | 用户表（Simon 跟进记录；渠道 Whatsapp） | 用户表跟进：推「发了几个mini工业交换机」→ 对方「之前的项目没拿到」 | Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写 | `Clients/Whatsapp_S跟进 2026.08.04.xlsx no.15 2024.5.19` |
 | 2024-11-19 | 来 | 用户表（Simon 跟进记录；渠道 Whatsapp） | 用户表跟进：推「引流机型」→ 对方「1120email发了10gmc」 | Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写 | `Clients/Whatsapp_S跟进 2026.08.04.xlsx no.15 1119` |
+| 2024-11-20 | 去 | S 箱（Simon） | 10G Media Converter | 首封去信（邮箱索引；去信共 2 封） | `b979651deadaf930` |
+| 2024-11-20 | 去 | S 箱（Simon） | 10G Media Converter｜稿内价 $65 | 去信正文含价（邮箱索引） | `b979651deadaf930` |
+| 2025-02-04 | 去 | A 箱（Alan） | 24 Port Fiber Switch | 最近一封去信（邮箱索引；去信共 2 封） | `0dc3573924bf301a` |
+| 2025-02-04 | 去 | A 箱（Alan） | 24 Port Fiber Switch｜稿内价 $240 | 去信正文含价（邮箱索引） | `0dc3573924bf301a` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 从未去信、Replied 索引亦无此户），仓库未见原文
 

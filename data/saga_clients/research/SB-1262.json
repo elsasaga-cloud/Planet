@@ -187,7 +187,7 @@
     "next_move": {
       "when": "2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）",
       "channel": "A 邮箱 → volker.pompetzki@ute.de",
-      "action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(al) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；STI-054FP 价未列，写 on request；Elsa BCC 08-31 已触达，开头点明）",
+      "action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(al) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；STI-054FP 价未列，写 on request；Elsa BCC 08-31 已触达，开头点明）（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
       "one_question": "Your Industrial Ethernet category runs on PLANET DIN-rail units (ISW-504PS at €178.50 net) — a neutral-packed STI line at EXW (managed versions on a Marvell platform) gives the same slot a second source with margin you set yourself. For the 4-port PoE DIN-rail class (ISW-504PS), do your Systemhaus customers mostly need Fast Ethernet, or has demand moved to Gigabit PoE — so I send the right sample first? Reference: STI-054GP (4 × GE PoE + 1 × GE, DIN-rail) at $32.5 USD EXW (MOQ 1, 15-day validity)."
     },
     "facts": [
@@ -200,12 +200,28 @@
         "k": "elsa_bcc"
       },
       {
+        "date": "2025-03-28",
+        "dir": "去",
+        "who": "Elsa 箱群发 Bcc",
+        "quote": "16 Port Ethernet Switch｜Hi, How are you? There is a 16-port Din Gigabit Ethernet swi",
+        "why": "Elsa 群发命中（批 DE，锚 To office@all4fiber.com）",
+        "k": "195dbdf4e5b5d628"
+      },
+      {
         "date": "2026-08-31",
         "dir": "去",
         "who": "Elsa 群发（BCC；To office@all4fiber.com，DE 批次）",
         "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
         "why": "Elsa 箱群发 BCC 触达证据（命中地址 info@ute.de, nils.linnemann@ute.de, ute.de, volker.pompetzki@ute.de）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
         "k": "elsa_bcc"
+      },
+      {
+        "date": "2026-08-31",
+        "dir": "去",
+        "who": "Elsa 箱群发 Bcc",
+        "quote": "24 Port PoE Managed Switch｜Price: 170USD/PC",
+        "why": "Elsa 群发命中（批 DE，锚 To office@all4fiber.com）",
+        "k": "1a056d5159d35ca3"
       }
     ],
     "proof_gaps": [

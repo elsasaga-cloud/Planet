@@ -38,7 +38,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM（8 口 PoE 商用）；若 Simon 开 Realtek 线则 HRUI 对位 — 一句话问其现供价位段，不再发链接。已打开的主题（4/14 封有打开记录）：「Optional Marvell Chipset Solutions」(2025-12-04)、「Re: Optional Marvell Chipset Solutions」(2025-12-04)、「Re: Optional Marvell Chipset Solutions」(2025-12-15)、「Re: Optional Marvell Chipset Solutions」(2025-12-18) → 读者兴趣偏「其他」；当前 P1 属「PoE 接入」，下一封按「其他」给，不按 P1；换人再触锚价 STC-28DGGPM $84.1 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按 25% 集成档；群发里他已看到的价（续）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-05-30 $300（48 Port PoE Managed Switch）、2025-10-03 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：What landed price per 8-port PoE switch do you pay today, so we can tell you honestly whether Marvell fits? Reference: STC-28DGGPM at $84.1 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：2027-Q1 A 邮箱 → ets@ 问现供价位段（第 75 批(q) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；预算线 HRUI STC-028GP/114GP 不写 Marvell）
+- **下一步**：2027-Q1 A 邮箱 → ets@ 问现供价位段（第 75 批(q) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；预算线 HRUI STC-028GP/114GP 不写 Marvell）（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -50,13 +50,17 @@ updated: 2026-10-25
 - **断点 / 为什么停在这里**：价格筛子生效；C6 不设计让价，但「点名型号」这一步对方没走——说明差距不是 10%。
 - **Saga 现在该推什么**：P1 **STC-28DGGPM（8 口 PoE 商用）；若 Simon 开 Realtek 线则 HRUI 对位**（25% 档，换人再触锚价 STC-28DGGPM $84.1 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按 25% 集成档；群发里他已看到的价（续）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-05-30 $300（48 Port PoE Managed Switch）、2025-10-03 $280（10G Enterprise SFP Switch））——一句话问其现供价位段，不再发链接。已打开的主题（4/14 封有打开记录）：「Optional Marvell Chipset Solutions」(2025-12-04)、「Re: Optional Marvell Chipset Solutions」(2025-12-04)、「Re: Optional Marvell Chipset Solutions」(2025-12-15)、「Re: Optional Marvell Chipset Solutions」(2025-12-18) → 读者兴趣偏「其他」；当前 P1 属「PoE 接入」，下一封按「其他」给，不按 P1
   - 做不了 / 要先核的：其现用 PoE 交换机品牌/价位（用户表无）
-- **下一步（具体）**：2027-Q1　A 邮箱 → ets@　问现供价位段（第 75 批(q) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；预算线 HRUI STC-028GP/114GP 不写 Marvell）
+- **下一步（具体）**：2027-Q1　A 邮箱 → ets@　问现供价位段（第 75 批(q) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；预算线 HRUI STC-028GP/114GP 不写 Marvell）（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）
   - 第一问（只问一个）：What landed price per 8-port PoE switch do you pay today, so we can tell you honestly whether Marvell fits? Reference: STC-28DGGPM at $84.1 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2025-02-26 | 去 | A 箱（Alan） | Industrial PoE Switch | 首封去信（邮箱索引；去信共 14 封） | `5f68ac5af5095d8c` |
 | 2025-12-04 | 来 | Lachezar（Elite Team Security） | We are definitely interested in exploring your Marvell AC3 and AC5 solutions… we would appreciate receiving an approximate price range | 兴趣 | `a42411d30baef3d6` |
+| 2025-12-04 | 来 | ets@elitteamsecurity.com | Re: Optional Marvell Chipset Solutions｜*Hi,*  Thank you for your message and the detailed overview. We are definitely interested in exploring your Marvell AC3 and AC5 solutions, especially  | 来信（邮箱索引；原文见 k；是否人工回复以原文为准） | `a42411d30baef3d6` |
 | 2025-12-17 | 来 | Lachezar | there are quite a few useful and interesting points that we could apply, but overall, the prices are rather high. | 价格停点 | `4c204b4351556387` |
+| 2025-12-17 | 来 | ets@elitteamsecurity.com | Re: Optional Marvell Chipset Solutions｜*Hi,*  Yes, I reviewed the information — there are quite a few useful and interesting points that we could apply, but overall, the prices are rather h | 来信（邮箱索引；原文见 k；是否人工回复以原文为准） | `4c204b4351556387` |
+| 2026-09-07 | 去 | A 箱（Alan） | 16 Port Industrial PoE Switch | 最近一封去信（邮箱索引；去信共 14 封） | `5468323c3bbb5692` |
 
 ## 基本事实（事实/推断/假设分层）
 

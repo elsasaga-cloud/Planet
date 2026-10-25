@@ -175,10 +175,42 @@
     "next_move": {
       "when": "按 WA 节奏",
       "channel": "WhatsApp",
-      "action": "WA 一句话（付样 + 首批量）（第 75 批(r) 2026-10-25：WhatsApp 一句话版已写 `draft_en`（Simon 按 WA 节奏自发））",
+      "action": "WA 一句话（付样 + 首批量）（第 75 批(r) 2026-10-25：WhatsApp 一句话版已写 `draft_en`（Simon 按 WA 节奏自发））（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
       "one_question": "If the sample is paid but credited against a 20-pc first batch, does SN-GS2300-28F dual-sourcing go ahead?"
     },
     "facts": [
+      {
+        "date": "2024-06-24",
+        "dir": "去",
+        "who": "S 箱（Simon）",
+        "quote": "Industrial PoE Switch",
+        "why": "首封去信（邮箱索引；去信共 17 封）",
+        "k": "29c24de1d33bc316"
+      },
+      {
+        "date": "2024-08-16",
+        "dir": "去",
+        "who": "S 箱（Simon）",
+        "quote": "10G media converter｜稿内价 $65",
+        "why": "去信正文含价（邮箱索引）",
+        "k": "4b76faeca354d0cc"
+      },
+      {
+        "date": "2024-08-16",
+        "dir": "去",
+        "who": "S 箱（Simon）报价",
+        "quote": "10G media converter｜ $65（原句：Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unma）",
+        "why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
+        "k": "4b76faeca354d0cc"
+      },
+      {
+        "date": "2024-10-28",
+        "dir": "去",
+        "who": "S 箱（Simon）报价",
+        "quote": "48 Port PoE Managed Switch｜ $300（原句：*Price is very competitive, 300usd/pc*）",
+        "why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
+        "k": "0e3d05496b6b2e32"
+      },
       {
         "date": "2024-11-05",
         "dir": "去",
@@ -194,6 +226,22 @@
         "quote": "「Booster PoE Switch」被打开（Mailtrack Opened 标签）",
         "why": "唯一的互动痕迹",
         "k": "7386567b0f7ec1c7"
+      },
+      {
+        "date": "2026-08-13",
+        "dir": "去",
+        "who": "A 箱（Alan）",
+        "quote": "24 Port PoE Managed Switch｜稿内价 $170",
+        "why": "去信正文含价（邮箱索引）",
+        "k": "5c79ffffc51eec37"
+      },
+      {
+        "date": "2026-09-17",
+        "dir": "去",
+        "who": "A 箱（Alan）",
+        "quote": "16 Port Industrial PoE Switch",
+        "why": "最近一封去信（邮箱索引；去信共 17 封）",
+        "k": "6c17e8b243d49a3c"
       }
     ],
     "proof_gaps": [

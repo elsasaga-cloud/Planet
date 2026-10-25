@@ -158,7 +158,7 @@
     "next_move": {
       "when": "2026-11",
       "channel": "A 邮箱 → tomasz.paszkowski@rfog.pl",
-      "action": "一封对位表（第 76 批(c) 2026-10-25：audit_ab 软项修正：署名「Alan Yan」→「Alan」（A 箱实际署名））",
+      "action": "一封对位表（第 76 批(c) 2026-10-25：audit_ab 软项修正：署名「Alan Yan」→「Alan」（A 箱实际署名））（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
       "one_question": "For RF-GP2803PGM, what landed cost and lead time does N-Net give you today?"
     },
     "facts": [
@@ -171,12 +171,28 @@
         "k": "Clients/A/DONE/PL 2.6.xlsx no.13 2024.3.28"
       },
       {
+        "date": "2024-09-30",
+        "dir": "去",
+        "who": "S 箱（Simon）",
+        "quote": "Mini Industrial PoE Switch",
+        "why": "首封去信（邮箱索引；去信共 17 封）",
+        "k": "0f1649253578b2ab"
+      },
+      {
         "date": "2025-04-21",
         "dir": "去",
         "who": "Saga（群发）",
         "quote": "「90W PoE Managed Switch」被打开（Mailtrack Opened 标签）",
         "why": "唯一的互动痕迹",
         "k": "8e20d308a9952ad4"
+      },
+      {
+        "date": "2026-09-25",
+        "dir": "去",
+        "who": "A 箱（Alan）",
+        "quote": "Managed PoE Switches",
+        "why": "最近一封去信（邮箱索引；去信共 17 封）",
+        "k": "f9316e06662a1d36"
       }
     ],
     "proof_gaps": [

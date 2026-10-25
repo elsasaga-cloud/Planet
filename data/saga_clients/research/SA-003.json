@@ -137,10 +137,18 @@
     "next_move": {
       "when": "按 WA 节奏",
       "channel": "WhatsApp",
-      "action": "WhatsApp 一句话（第 75 批(r) 2026-10-25：WhatsApp 一句话版已写 `draft_en`（Simon 按 WA 节奏自发））",
+      "action": "WhatsApp 一句话（第 75 批(r) 2026-10-25：WhatsApp 一句话版已写 `draft_en`（Simon 按 WA 节奏自发））（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
       "one_question": "Which of the two 24-port configs (4×SFP / 2×SFP) did the price land for, and is the project still live?"
     },
     "facts": [
+      {
+        "date": "2025-03-19",
+        "dir": "去",
+        "who": "A 箱（Alan）",
+        "quote": "48 Port PoE Managed Switch",
+        "why": "首封去信（邮箱索引；去信共 16 封）",
+        "k": "bdfae7d60ad9d6fc"
+      },
       {
         "date": "2025-05-29",
         "dir": "去",
@@ -148,6 +156,14 @@
         "quote": "「Mini Industrial PoE Switch」被打开（Mailtrack Opened 标签）",
         "why": "唯一的互动痕迹",
         "k": "66ef1c3d2c1a5e08"
+      },
+      {
+        "date": "2026-09-14",
+        "dir": "去",
+        "who": "A 箱（Alan）",
+        "quote": "16 Port Industrial PoE Switch",
+        "why": "最近一封去信（邮箱索引；去信共 16 封）",
+        "k": "f6c64abd03bd5dab"
       }
     ],
     "proof_gaps": [

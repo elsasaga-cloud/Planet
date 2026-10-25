@@ -38,7 +38,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM — NVC 商用 PoE 已有（新桥/ONV）→ ISAF 谈的工业线：8 PoE + 2 SFP 管理 DIN + 4+1 紧凑款贴 NVC 标；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-10 $65（10G media converter）；群发里他已看到的价（续）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-29 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Which ONV/Xinqiao industrial PoE SKU is your volume item, and what would make you add a Marvell second source?
 - **最大未知**：年走量与现供应商
-- **下一步**：按 WA 节奏 WhatsApp WA 一句话（第 75 批(r) 2026-10-25：WhatsApp 一句话版已写 `draft_en`（Simon 按 WA 节奏自发））（第 76 批(c) 2026-10-25：audit_ab 软项修正：证书口径 CE/FCC files → CE/RoHS files）
+- **下一步**：按 WA 节奏 WhatsApp WA 一句话（第 75 批(r) 2026-10-25：WhatsApp 一句话版已写 `draft_en`（Simon 按 WA 节奏自发））（第 76 批(c) 2026-10-25：audit_ab 软项修正：证书口径 CE/FCC files → CE/RoHS files）（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -49,12 +49,16 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：工业 PoE 贴牌（在用新桥/ONV）。
 - **断点 / 为什么停在这里**：渠道。
 - **Saga 现在该推什么**：P1 **STI-288DGGPM**（25% 档，—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-10 $65（10G media converter）；群发里他已看到的价（续）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-29 $280（10G Enterprise SFP Switch））——NVC 商用 PoE 已有（新桥/ONV）→ ISAF 谈的工业线：8 PoE + 2 SFP 管理 DIN + 4+1 紧凑款贴 NVC 标
-- **下一步（具体）**：按 WA 节奏　WhatsApp　WA 一句话（第 75 批(r) 2026-10-25：WhatsApp 一句话版已写 `draft_en`（Simon 按 WA 节奏自发））（第 76 批(c) 2026-10-25：audit_ab 软项修正：证书口径 CE/FCC files → CE/RoHS files）
+- **下一步（具体）**：按 WA 节奏　WhatsApp　WA 一句话（第 75 批(r) 2026-10-25：WhatsApp 一句话版已写 `draft_en`（Simon 按 WA 节奏自发））（第 76 批(c) 2026-10-25：audit_ab 软项修正：证书口径 CE/FCC files → CE/RoHS files）（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）
   - 第一问（只问一个）：Which ONV/Xinqiao industrial PoE SKU is your volume item, and what would make you add a Marvell second source?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2024-06-14 | 去 | S 箱（Simon） | Industrial network switch | 首封去信（邮箱索引；去信共 24 封） | `0e226ef6066b98b4` |
+| 2024-08-10 | 去 | S 箱（Simon） | 10G media converter｜稿内价 $65 | 去信正文含价（邮箱索引） | `eae4bec0a71847bf` |
+| 2024-08-10 | 去 | S 箱（Simon）报价 | 10G media converter｜ $65（原句：Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unma） | S 邮箱报价史（规则 ㉕ ① 自报价优先） | `eae4bec0a71847bf` |
 | 2024-11-05 | 去 | Simon → Angora Networks（SA-168）附件 Turkey Client List.xlsx | 名单行：「switch info@nova-grup.com https://www.novacom.com.tr/urun-kategori/poe-switch/」 | Saga 2024-11-05 把本户列入交给 Angora（安卡拉，Saga 提议的欧盟/土耳其分销伙伴）的 64 家起步名单；此后 Saga 仍直发本户。若 Angora 已接触过本户，Saga 直发会与自己提议的渠道打架 → Q-51（默认：直发继续，Angora 报了价的户 Saga 只做技术支持） | `gmail_s 2024-11-05 Re: Invoice_5pcs STC-424DGGPM-280W（附件）+ Drive PI 7_土耳其 Turkey_Client_List.xlsx` |
+| 2026-10-06 | 去 | A 箱（Alan） | Managed PoE Switches | 最近一封去信（邮箱索引；去信共 24 封） | `dc7c0490ebc381fe` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 从未去信、Replied 索引亦无此户），仓库未见原文；在 Saga 给 Angora 的 Turkey Client List（2024-11-05）里——Angora 是否接触过本户无记录（Q-51）
 

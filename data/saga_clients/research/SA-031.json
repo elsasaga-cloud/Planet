@@ -158,10 +158,42 @@
   "next_move": {
    "when": "2027-Q1",
    "channel": "A 邮箱 → tjargielo@ / ahyz@",
-   "action": "一句话问其外采的非核心 SKU（第 75 批(o) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用；换人/一问口径））（第 76 批(b) 2026-10-25：audit_ab 硬错误修正：同款群发价 $170→$180 补汇率说明（㉟））",
+   "action": "一句话问其外采的非核心 SKU（第 75 批(o) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用；换人/一问口径））（第 76 批(b) 2026-10-25：audit_ab 硬错误修正：同款群发价 $170→$180 补汇率说明（㉟））（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
    "one_question": "Which part of the BitStream catalogue is bought-in today (unmanaged DIN, MC, SFP), and would an externally sourced unmanaged DIN line (and a Marvell L2+ managed tier above it) be considered? Reference: STI-244GP at $35 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
+   {
+    "date": "2024-06-24",
+    "dir": "去",
+    "who": "S 箱（Simon）",
+    "quote": "industrial PoE Switch",
+    "why": "首封去信（邮箱索引；去信共 20 封）",
+    "k": "22105ed97d7fc03d"
+   },
+   {
+    "date": "2024-08-17",
+    "dir": "去",
+    "who": "S 箱（Simon）",
+    "quote": "10G media converter｜稿内价 $65",
+    "why": "去信正文含价（邮箱索引）",
+    "k": "5a4481b7a50bac3f"
+   },
+   {
+    "date": "2024-08-17",
+    "dir": "去",
+    "who": "S 箱（Simon）报价",
+    "quote": "10G media converter｜ $65（原句：Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unma）",
+    "why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
+    "k": "5a4481b7a50bac3f"
+   },
+   {
+    "date": "2024-11-22",
+    "dir": "去",
+    "who": "S 箱（Simon）报价",
+    "quote": "48 Port PoE Managed Switch｜ $300（原句：*Price is very competitive, 300usd/pc*）",
+    "why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
+    "k": "4c3cbe3a33e8be4e"
+   },
    {
     "date": "2025-01-30",
     "dir": "来",
@@ -177,6 +209,38 @@
     "quote": "140usd/pc STI-288DGGPM-2BT… L3 managed version si also available",
     "why": "报价后停",
     "k": "627139dd3ba20af7"
+   },
+   {
+    "date": "2025-01-30",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "Re: 90W PoE Managed Switch｜稿内价 $140",
+    "why": "去信正文含价（邮箱索引）",
+    "k": "627139dd3ba20af7"
+   },
+   {
+    "date": "2025-01-30",
+    "dir": "来",
+    "who": "ksurowiec@bitstream.pl",
+    "quote": "Re: 90W PoE Managed Switch｜What is the price?  -- Pozdrawiam,    *Katarzyna Surowiec*Asystentka Zarządu  *Phone* +48 81 743 86 43 *Web* www.bitstream.pl *Email* ksurowiec@bitstr",
+    "why": "来信（邮箱索引；原文见 k；是否人工回复以原文为准）",
+    "k": "ab20a2586535bf26"
+   },
+   {
+    "date": "2026-08-11",
+    "dir": "来",
+    "who": "ahyz@bitstream.pl",
+    "quote": "Nieobecność Re: 24 Port PoE Managed Switch｜W dniach 07-21.08.2026 jestem na urlopie. W sprawach pilnych proszę kontaktować się z Tomaszem Jargieło na adres mailowy tjargielo@bitstream.pl  --   ",
+    "why": "来信（邮箱索引；原文见 k；是否人工回复以原文为准）",
+    "k": "97cffda9f4680ebc"
+   },
+   {
+    "date": "2026-09-07",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "16 Port Industrial PoE Switch",
+    "why": "最近一封去信（邮箱索引；去信共 20 封）",
+    "k": "559de04d8706b132"
    }
   ],
   "proof_gaps": [],

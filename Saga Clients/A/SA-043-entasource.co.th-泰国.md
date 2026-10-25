@@ -38,7 +38,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：无（缺口） — 有货再说。已打开的主题（2/21 封有打开记录）：「Commercial PoE Switch」(2025-06-16)、「Re: Commercial PoE Switch」(2025-06-16) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-23 $65（10G media converter）、2024-11-14 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-13 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
 - **最大未知**：年走量与现供应商
-- **下一步**：不动 — —
+- **下一步**：不动 — —（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -50,12 +50,18 @@ updated: 2026-10-25
 - **断点 / 为什么停在这里**：电源规格缺口（DC 输入商用机）。
 - **Saga 现在该推什么**：P1 **无（缺口）**（20% 档，—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-23 $65（10G media converter）、2024-11-14 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-13 $280（10G Enterprise SFP Switch））——有货再说。已打开的主题（2/21 封有打开记录）：「Commercial PoE Switch」(2025-06-16)、「Re: Commercial PoE Switch」(2025-06-16) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续
   - 做不了 / 要先核的：HRUI 是否有 DC48V 输入 24 口商用非管理——查索引
-- **下一步（具体）**：不动　—　—
+- **下一步（具体）**：不动　—　—（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2024-07-05 | 去 | S 箱（Simon） | Industrial Network Switch | 首封去信（邮箱索引；去信共 21 封） | `678cd06b0d02c703` |
+| 2024-08-23 | 去 | S 箱（Simon） | 10G media converter｜稿内价 $65 | 去信正文含价（邮箱索引） | `9a7dd6d012ab5cf1` |
+| 2024-08-23 | 去 | S 箱（Simon）报价 | 10G media converter｜ $65（原句：Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unma） | S 邮箱报价史（规则 ㉕ ① 自报价优先） | `9a7dd6d012ab5cf1` |
+| 2024-11-14 | 去 | S 箱（Simon）报价 | 48 Port PoE Managed Switch｜ $300（原句：*Price is very competitive, 300usd/pc*） | S 邮箱报价史（规则 ㉕ ① 自报价优先） | `619de6e6fa3019fe` |
 | 2025-06-16 | 来 | Janejira N. | Do you have 24*10/100/1000Mbps ports with 2 Ports SFP Uplink unmanaged commercial switches… Rack mount switch. Input 48 VDC | 精确需求 | `da8a7bcd11691b0e` |
 | 2025-06-16 | 去 | Alan | We only have AC input model | 缺口 | `ed149581e201dace` |
+| 2025-06-16 | 来 | sale@entasource.co.th | Re: Commercial PoE Switch｜Good afternoon  Do you have 24*10/100/1000Mbps ports with 2 Ports SFP Uplink unmanaged commercial switches or not?  Rack mount switch. Input 48 VDC  I | 来信（邮箱索引；原文见 k；是否人工回复以原文为准） | `da8a7bcd11691b0e` |
+| 2026-09-07 | 去 | A 箱（Alan） | 16 Port Industrial PoE Switch | 最近一封去信（邮箱索引；去信共 21 封） | `d4a52432d6b65a0e` |
 
 ## 基本事实（事实/推断/假设分层）
 

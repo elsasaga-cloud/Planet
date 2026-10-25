@@ -74,10 +74,18 @@
   "next_move": {
    "when": "群发节奏",
    "channel": "A 邮箱",
-   "action": "观察打开",
+   "action": "观察打开（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
    "one_question": "Gökhan, for the access-switch positions in your distribution portfolio, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and 24-GE + 4×10G models from small lots, CE/RoHS, EXW USD — is there an entry-level managed position your resellers ask for?"
   },
   "facts": [
+   {
+    "date": "2025-10-29",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "10G Enterprise SFP Switch",
+    "why": "首封去信（邮箱索引；去信共 5 封）",
+    "k": "1daad2b8424cb576"
+   },
    {
     "date": "2026-03-05",
     "dir": "去",
@@ -85,6 +93,14 @@
     "quote": "10G Enterprise SFP Switch、Booster PoE Switch",
     "why": "5 封 / 0 次打开 / 0 回｜首封 2025-10-29 → 末封 2026-03-05（5 去 / 0 来）",
     "k": "gmail_digest"
+   },
+   {
+    "date": "2026-03-05",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "Updated Ethernet Switches Links",
+    "why": "最近一封去信（邮箱索引；去信共 5 封）",
+    "k": "0652ce42a540bde0"
    }
   ],
   "proof_gaps": [],

@@ -38,7 +38,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：HRUI 同源 8 口 PoE（`hrui_STC对照表`） — 一句话问收款方式与首批量。已打开的主题（3/22 封有打开记录）：「Industrial poe switch」(2024-08-13)、「Industrial PoE Switch」(2025-08-28)、「Re: Industrial PoE Switch」(2026-01-05) → 读者兴趣偏「工业」；当前 P1 属「PoE 接入」，下一封按「工业」给，不按 P1；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-11 $65（10G Media Converter）、2024-12-09 $300（48 Port PoE Managed Switch）、2024-12-26 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-08-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-02 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：For a first batch, which 8-port PoE SKU and what payment route (RMB agent / T/T) works for you?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
-- **下一步**：2027-Q1 A 邮箱 → zakaz@ 问付款通道 + 首批 SKU（第 75 批(p) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））
+- **下一步**：2027-Q1 A 邮箱 → zakaz@ 问付款通道 + 首批 SKU（第 75 批(p) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -49,13 +49,20 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：PoE 交换机 + 光模块/电源（网店 SKU）。
 - **断点 / 为什么停在这里**：价表式回复无后续问题；RU 收款通道未谈。
 - **Saga 现在该推什么**：P1 **HRUI 同源 8 口 PoE（`hrui_STC对照表`）**（20% 档，—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-11 $65（10G Media Converter）、2024-12-09 $300（48 Port PoE Managed Switch）、2024-12-26 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-08-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-02 $280（10G Enterprise SFP Switch））——一句话问收款方式与首批量。已打开的主题（3/22 封有打开记录）：「Industrial poe switch」(2024-08-13)、「Industrial PoE Switch」(2025-08-28)、「Re: Industrial PoE Switch」(2026-01-05) → 读者兴趣偏「工业」；当前 P1 属「PoE 接入」，下一封按「工业」给，不按 P1
-- **下一步（具体）**：2027-Q1　A 邮箱 → zakaz@　问付款通道 + 首批 SKU（第 75 批(p) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））
+- **下一步（具体）**：2027-Q1　A 邮箱 → zakaz@　问付款通道 + 首批 SKU（第 75 批(p) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）
   - 第一问（只问一个）：For a first batch, which 8-port PoE SKU and what payment route (RMB agent / T/T) works for you?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2024-06-19 | 去 | S 箱（Simon） | 8 port fiber switch | 首封去信（邮箱索引；去信共 22 封） | `ec9ddaaae415a2aa` |
+| 2024-11-11 | 去 | S 箱（Simon） | 10G Media Converter｜稿内价 $65 | 去信正文含价（邮箱索引） | `410b2799e316dc6a` |
+| 2024-12-26 | 去 | S 箱（Simon） | 24 Port Fiber Switch｜稿内价 $240 | 去信正文含价（邮箱索引） | `1498a663d372dc88` |
+| 2025-06-30 | 去 | A 箱（Alan） | 24 Port Fiber Switch｜稿内价 $240 | 去信正文含价（邮箱索引） | `dbaab31a89f6c8d8` |
 | 2025-08-28 | 来 | 用户表（Simon 跟进记录；渠道 A） | 用户表跟进：推「24PoE」→ 对方「Price List」 | Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写 | `Clients/A Replied 09.04.xlsx no.48 2025.8.28` |
 | 2026-01-04 | 来 | SVN 销售部 | send me please your pricelists with POE switches and accessories | 要价表 | `e5396399dcef3822` |
+| 2026-01-04 | 来 | zakaz@svn-video.ru | Re: Industrial PoE Switch｜Hi, send me please your pricelists with POE switches and accessories  ______________________________________________  C уважением, отдел продаж интерн | 来信（邮箱索引；原文见 k；是否人工回复以原文为准） | `e5396399dcef3822` |
+| 2026-08-10 | 去 | A 箱（Alan） | 24 Port PoE Managed Switch｜稿内价 $170 | 去信正文含价（邮箱索引） | `e39865805e2c55d8` |
+| 2026-09-07 | 去 | A 箱（Alan） | 16 Port Industrial PoE Switch | 最近一封去信（邮箱索引；去信共 22 封） | `cd90acab1f8de2bf` |
 
 ## 基本事实（事实/推断/假设分层）
 

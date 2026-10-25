@@ -147,10 +147,18 @@
   "next_move": {
    "when": "2027-Q1",
    "channel": "A 邮箱 → ets@",
-   "action": "问现供价位段（第 75 批(q) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；预算线 HRUI STC-028GP/114GP 不写 Marvell）",
+   "action": "问现供价位段（第 75 批(q) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；预算线 HRUI STC-028GP/114GP 不写 Marvell）（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
    "one_question": "What landed price per 8-port PoE switch do you pay today, so we can tell you honestly whether Marvell fits? Reference: STC-28DGGPM at $84.1 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
+   {
+    "date": "2025-02-26",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "Industrial PoE Switch",
+    "why": "首封去信（邮箱索引；去信共 14 封）",
+    "k": "5f68ac5af5095d8c"
+   },
    {
     "date": "2025-12-04",
     "dir": "来",
@@ -160,12 +168,36 @@
     "k": "a42411d30baef3d6"
    },
    {
+    "date": "2025-12-04",
+    "dir": "来",
+    "who": "ets@elitteamsecurity.com",
+    "quote": "Re: Optional Marvell Chipset Solutions｜*Hi,*  Thank you for your message and the detailed overview. We are definitely interested in exploring your Marvell AC3 and AC5 solutions, especially ",
+    "why": "来信（邮箱索引；原文见 k；是否人工回复以原文为准）",
+    "k": "a42411d30baef3d6"
+   },
+   {
     "date": "2025-12-17",
     "dir": "来",
     "who": "Lachezar",
     "quote": "there are quite a few useful and interesting points that we could apply, but overall, the prices are rather high.",
     "why": "价格停点",
     "k": "4c204b4351556387"
+   },
+   {
+    "date": "2025-12-17",
+    "dir": "来",
+    "who": "ets@elitteamsecurity.com",
+    "quote": "Re: Optional Marvell Chipset Solutions｜*Hi,*  Yes, I reviewed the information — there are quite a few useful and interesting points that we could apply, but overall, the prices are rather h",
+    "why": "来信（邮箱索引；原文见 k；是否人工回复以原文为准）",
+    "k": "4c204b4351556387"
+   },
+   {
+    "date": "2026-09-07",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "16 Port Industrial PoE Switch",
+    "why": "最近一封去信（邮箱索引；去信共 14 封）",
+    "k": "5468323c3bbb5692"
    }
   ],
   "proof_gaps": [],

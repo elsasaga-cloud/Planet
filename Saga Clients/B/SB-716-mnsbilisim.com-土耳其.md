@@ -36,7 +36,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424XGGM — 主推 Ruijie 6120（10G 上联接入）→ 24 GE + 4×10G SFP+ L2+ STC-424XGGM（$132.7 @25%）作预算线；PoE 版 STC-424XGGPM-280W（$180）；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-29 $280（10G Enterprise SFP Switch）（㉕ ②：STC-424XGGPM-280W / STC-448XGGPM 文本价改为群发现价 $180 / $335；第 75 批 2026-10-25）
 - **第一问（只问一个）**：Mahmut, alongside the Ruijie 6120 series you deploy for 10G-uplink access, we supply Marvell-based 24-GE + 4×10G SFP+ L2+ switches (PoE 280 W option, CLI/web managed, CE/RoHS) from single units, EXW USD — which configuration do your corporate projects order most?
 - **最大未知**：具体需求型号（表内兴趣列为空）
-- **下一步**：群发节奏 A 邮箱 观察打开
+- **下一步**：群发节奏 A 邮箱 观察打开（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -47,12 +47,14 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：主推 Ruijie 6120（10G 上联接入）→ 24 GE + 4×10G SFP+ L2+ STC-424XGGM（$132.7 @25%）作预算线；PoE 版 STC-424XGGPM-280W（$180）
 - **断点 / 为什么停在这里**：Ruijie 性价比基准高（土耳其官方渠道）；1 次跟进无回复，联系人职务待核
 - **Saga 现在该推什么**：P1 **STC-424XGGM**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-29 $280（10G Enterprise SFP Switch）（㉕ ②：STC-424XGGPM-280W / STC-448XGGPM 文本价改为群发现价 $180 / $335；第 75 批 2026-10-25））——主推 Ruijie 6120（10G 上联接入）→ 24 GE + 4×10G SFP+ L2+ STC-424XGGM（$132.7 @25%）作预算线；PoE 版 STC-424XGGPM-280W（$180）
-- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+- **下一步（具体）**：群发节奏　A 邮箱　观察打开（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）
   - 第一问（只问一个）：Mahmut, alongside the Ruijie 6120 series you deploy for 10G-uplink access, we supply Marvell-based 24-GE + 4×10G SFP+ L2+ switches (PoE 280 W option, CLI/web managed, CE/RoHS) from single units, EXW USD — which configuration do your corporate projects order most?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2025-10-29 | 去 | A 箱（Alan） | 10G Enterprise SFP Switch | 首封去信（邮箱索引；去信共 5 封） | `c6029adb719c523b` |
 | 2026-03-10 | 去 | A 群发 | 10G Enterprise SFP Switch、Booster PoE Switch | 5 封 / 0 次打开 / 0 回｜首封 2025-10-29 → 末封 2026-03-10（5 去 / 0 来） | `gmail_digest` |
+| 2026-03-10 | 去 | A 箱（Alan） | Updated Ethernet Switches Links | 最近一封去信（邮箱索引；去信共 5 封） | `f8b10ddcc709f373` |
 
 ## 基本事实（事实/推断/假设分层）
 

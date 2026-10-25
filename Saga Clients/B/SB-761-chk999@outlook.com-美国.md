@@ -38,7 +38,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — 已打开的主题（1/25 封有打开记录）：「Re: 10G Ethernet Web Managed Switch」(2024-10-31) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续｜需求台账 #7：他 2024-10 问的 HTTPS 现在有了（7.5 表）——两年后回原线程一句「现在有了」是零成本的信用动作；第三方证书上传仓内无证，不承诺；—；群发里他已看到的价（续）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-12-11 $300（48 Port PoE Managed Switch）、2025-09-22 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Chavan — closing the loop on your Oct-2024 question: HTTPS web management is now standard on our AC5 units (firmware 7.5); third-party certificate upload I will confirm on the exact model before you order. Is the 10G web-managed switch still on your list?
 - **最大未知**：公司网站（表内无域名，无法核实是否仍在运营）
-- **下一步**：2026-11 S 邮箱 → chk999@outlook.com（回 2024-10-30 原线程「10G Ethernet Web Managed Switch」） 两年前答他「HTTPS 不在功能表」；7.5 L2+ 功能表已有 HTTPS（v4/v6）——回原线程一句话补上，并直接回答第三方证书问题（仓内无证 → 只说「HTTPS yes；third-party certificate upload: to be confirmed on your unit」），不带新品。
+- **下一步**：2026-11 S 邮箱 → chk999@outlook.com（回 2024-10-30 原线程「10G Ethernet Web Managed Switch」） 两年前答他「HTTPS 不在功能表」；7.5 L2+ 功能表已有 HTTPS（v4/v6）——回原线程一句话补上，并直接回答第三方证书问题（仓内无证 → 只说「HTTPS yes；third-party certificate upload: to be confirmed on your unit」），不带新品。（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -50,12 +50,15 @@ updated: 2026-10-25
 - **断点 / 为什么停在这里**：功能缺口。
 - **Saga 现在该推什么**：P1 **—**（25% 档，—；群发里他已看到的价（续）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-12-11 $300（48 Port PoE Managed Switch）、2025-09-22 $280（10G Enterprise SFP Switch））——已打开的主题（1/25 封有打开记录）：「Re: 10G Ethernet Web Managed Switch」(2024-10-31) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续｜需求台账 #7：他 2024-10 问的 HTTPS 现在有了（7.5 表）——两年后回原线程一句「现在有了」是零成本的信用动作；第三方证书上传仓内无证，不承诺
   - 做不了 / 要先核的：固件 7.5 HTTPS 状态
-- **下一步（具体）**：2026-11　S 邮箱 → chk999@outlook.com（回 2024-10-30 原线程「10G Ethernet Web Managed Switch」）　两年前答他「HTTPS 不在功能表」；7.5 L2+ 功能表已有 HTTPS（v4/v6）——回原线程一句话补上，并直接回答第三方证书问题（仓内无证 → 只说「HTTPS yes；third-party certificate upload: to be confirmed on your unit」），不带新品。
+- **下一步（具体）**：2026-11　S 邮箱 → chk999@outlook.com（回 2024-10-30 原线程「10G Ethernet Web Managed Switch」）　两年前答他「HTTPS 不在功能表」；7.5 L2+ 功能表已有 HTTPS（v4/v6）——回原线程一句话补上，并直接回答第三方证书问题（仓内无证 → 只说「HTTPS yes；third-party certificate upload: to be confirmed on your unit」），不带新品。（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）
   - 第一问（只问一个）：Chavan — closing the loop on your Oct-2024 question: HTTPS web management is now standard on our AC5 units (firmware 7.5); third-party certificate upload I will confirm on the exact model before you order. Is the 10G web-managed switch still on your list?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2024-10-30 | 来 | Chavan | Does it have the https… and can we store third party https certificates ? | 安全要求 | `5a42faf06fd8915e` |
+| 2024-10-30 | 来 | chk999@outlook.com | Re: 10G Ethernet Web Managed Switch｜Hi, Does it have the https (not http, but https with s at the end http secure protocol) and can we store third party https certificates ?  Best Regard | 来信（邮箱索引；原文见 k；是否人工回复以原文为准） | `5a42faf06fd8915e` |
+| 2024-10-31 | 去 | S 箱（Simon） | Re: 10G Ethernet Web Managed Switch | 首封去信（邮箱索引；去信共 25 封） | `becf0a5ee00f725f` |
+| 2026-08-31 | 去 | A 箱（Alan） | 24 Port PoE Managed Switch | 最近一封去信（邮箱索引；去信共 25 封） | `7ab052e13938468c` |
 
 ## 基本事实（事实/推断/假设分层）
 

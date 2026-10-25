@@ -132,7 +132,7 @@
     "next_move": {
       "when": "按 WA 节奏",
       "channel": "WhatsApp",
-      "action": "WhatsApp（用 one_question 这句，WhatsApp 直接发，不附资料）（第 75 批(r) 2026-10-25：WhatsApp 一句话版已写 `draft_en`（Simon 按 WA 节奏自发）；DAP 报价须 Simon 按百运网实算后再发）",
+      "action": "WhatsApp（用 one_question 这句，WhatsApp 直接发，不附资料）（第 75 批(r) 2026-10-25：WhatsApp 一句话版已写 `draft_en`（Simon 按 WA 节奏自发）；DAP 报价须 Simon 按百运网实算后再发）（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
       "one_question": "For the camera closets in your VMS projects, the Marvell-based 8-port gigabit PoE+ managed switch with 2 SFP and the 4+1 industrial DIN unit for outdoor cabinets are the two I am quoting EXW."
     },
     "facts": [
@@ -159,6 +159,22 @@
         "quote": "用户表跟进：推「4 8口工业FS」→ 对方「price list」",
         "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
         "k": "Clients/A/DONE/South Africa 2.5.xlsx no.37 2024.8.13"
+      },
+      {
+        "date": "2026-08-07",
+        "dir": "去",
+        "who": "A 箱（Alan）",
+        "quote": "24 Port PoE Managed Switch",
+        "why": "首封去信（邮箱索引；去信共 2 封）",
+        "k": "710d157e75764365"
+      },
+      {
+        "date": "2026-10-06",
+        "dir": "去",
+        "who": "A 箱（Alan）",
+        "quote": "Managed PoE Switches",
+        "why": "最近一封去信（邮箱索引；去信共 2 封）",
+        "k": "6f3a2dd5db0ba500"
       }
     ],
     "proof_gaps": [

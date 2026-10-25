@@ -38,7 +38,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM / STI-488XGGPM（工业 L2+） — 保活。已打开的主题（7/26 封有打开记录）：「Re: 10g media converter」(2024-07-23)、「Mini Industrial PoE Switch」(2024-12-11)、「Industrial PoE Switch」(2025-09-30)、「Updated Ethernet Switches Links」(2026-03-02) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续；换人再触锚价 STI-288DGGPM $137.5 EXW（2026-06 PDF 上限 $137.5（档位 139.9–151.6 超上限；Angora/Astel 实报 $125 为成单户价）；第 72 批 2026-10-24）；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-19 $300（48 Port PoE Managed Switch）、2025-10-29 $280（10G Enterprise SFP Switch）、2026-07-20 $1500（24 Port 10G SFP+ Switch）、2026-09-08 $170（24 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2025-08-27 $240（24 Port Fiber Switch）
 - **第一问（只问一个）**：Which CXR industrial SKUs are bought-in rather than built in Abondant, and would a Marvell L2+ DIN unit be considered? Reference: STI-288DGGPM at $137.5 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：2027-Q1 S 邮箱 → marco.divalerio@cxr.fr 一句话问外采范围（第 75 批(o) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用；换人/一问口径）；10G MC $65 = Simon 2024 实报，仍按 $65）
+- **下一步**：2027-Q1 S 邮箱 → marco.divalerio@cxr.fr 一句话问外采范围（第 75 批(o) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用；换人/一问口径）；10G MC $65 = Simon 2024 实报，仍按 $65）（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -49,14 +49,25 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：10G MC（当时）。
 - **断点 / 为什么停在这里**：MC 价格流 + 层级错配。
 - **Saga 现在该推什么**：P1 **STI-288DGGPM / STI-488XGGPM（工业 L2+）**（30% 档，换人再触锚价 STI-288DGGPM $137.5 EXW（2026-06 PDF 上限 $137.5（档位 139.9–151.6 超上限；Angora/Astel 实报 $125 为成单户价）；第 72 批 2026-10-24）；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-19 $300（48 Port PoE Managed Switch）、2025-10-29 $280（10G Enterprise SFP Switch）、2026-07-20 $1500（24 Port 10G SFP+ Switch）、2026-09-08 $170（24 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2025-08-27 $240（24 Port Fiber Switch））——保活。已打开的主题（7/26 封有打开记录）：「Re: 10g media converter」(2024-07-23)、「Mini Industrial PoE Switch」(2024-12-11)、「Industrial PoE Switch」(2025-09-30)、「Updated Ethernet Switches Links」(2026-03-02) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续
-- **下一步（具体）**：2027-Q1　S 邮箱 → marco.divalerio@cxr.fr　一句话问外采范围（第 75 批(o) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用；换人/一问口径）；10G MC $65 = Simon 2024 实报，仍按 $65）
+- **下一步（具体）**：2027-Q1　S 邮箱 → marco.divalerio@cxr.fr　一句话问外采范围（第 75 批(o) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用；换人/一问口径）；10G MC $65 = Simon 2024 实报，仍按 $65）（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）
   - 第一问（只问一个）：Which CXR industrial SKUs are bought-in rather than built in Abondant, and would a Marvell L2+ DIN unit be considered? Reference: STI-288DGGPM at $137.5 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2024-05-30 | 来 | Marco Di Valerio（COO） | please could you send data sheet please | 要规格书 | `afbdeb9d5505018c` |
 | 2024-05-30 | 去 | Simon | Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged | 报价后停 | `696d6a213ad761ca` |
+| 2024-05-30 | 去 | S 箱（Simon） | 10g media converter | 首封去信（邮箱索引；去信共 26 封） | `ae8dc264c029716e` |
+| 2024-05-30 | 去 | S 箱（Simon） | Re: 10g media converter｜稿内价 $65 | 去信正文含价（邮箱索引） | `696d6a213ad761ca` |
+| 2024-05-30 | 来 | marco.divalerio@cxr.fr | Re: 10g media converter｜Hi Simon,  Thanks, please could you send data sheet please  Marco Di Valerio COO  Regards   Le jeu. 30 mai 2024, 11:02, Simon <s.sagatelecom@gmail.com | 来信（邮箱索引；原文见 k；是否人工回复以原文为准） | `afbdeb9d5505018c` |
+| 2024-05-30 | 去 | S 箱（Simon）报价 | Re: 10g media converter｜ $65（原句：Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unma） | S 邮箱报价史（规则 ㉕ ① 自报价优先） | `696d6a213ad761ca` |
 | 2024-06-25 | 去 | Saga（Simon） | Hi, Marco, How are you? Last time we discussed 10G media converter, do you need some units for testing? And I would like to recommend a new model. This is a Marvell based layer 2 managed PoE switch. 1. Highly programmable GUI 2. 2*PoE af/at/bt+6*PoE af/at, 240W budget 3. Support DI/DO/RS485 function… | Saga 实质答复原文（主题「Re: 10g media converter」；第 20 批从 gmail_s 回补）——承诺/口径以此为准 | `d3deca09f7f9a22b` |
+| 2024-11-19 | 去 | S 箱（Simon）报价 | 48 Port PoE Managed Switch｜ $300（原句：*Price is very competitive, 300usd/pc*） | S 邮箱报价史（规则 ㉕ ① 自报价优先） | `4b98c00a19e0083f` |
+| 2025-08-27 | 去 | S 箱（Simon） | 24 Port Fiber Switch｜稿内价 $240 | 去信正文含价（邮箱索引） | `327a21504f3b8ee9` |
+| 2025-08-27 | 去 | S 箱（Simon）报价 | 24 Port Fiber Switch｜ $240（原句：Price: 240usd/pc） | S 邮箱报价史（规则 ㉕ ① 自报价优先） | `327a21504f3b8ee9` |
+| 2025-10-29 | 去 | S 箱（Simon）报价 | 10G Enterprise SFP Switch｜ $280（原句：It is a price-competitive aggregation switch(280usd/pc)） | S 邮箱报价史（规则 ㉕ ① 自报价优先） | `a93909c35addd96e` |
+| 2026-07-20 | 去 | S 箱（Simon）报价 | 24 Port 10G SFP+ Switch｜ $1500（原句：*Price: 1500USD/PC*） | S 邮箱报价史（规则 ㉕ ① 自报价优先） | `00f989b452b62e8b` |
+| 2026-09-08 | 去 | S 箱（Simon） | 24 Port PoE Managed Switch | 最近一封去信（邮箱索引；去信共 26 封） | `31c3846e3e090787` |
+| 2026-09-08 | 去 | S 箱（Simon）报价 | 24 Port PoE Managed Switch｜ $170（原句：*Price: 170USD/PC*） | S 邮箱报价史（规则 ㉕ ① 自报价优先） | `31c3846e3e090787` |
 
 ## 基本事实（事实/推断/假设分层）
 

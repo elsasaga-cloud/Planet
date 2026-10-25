@@ -192,7 +192,7 @@
     "next_move": {
       "when": "不动",
       "channel": "—",
-      "action": "—",
+      "action": "—（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
       "one_question": ""
     },
     "facts": [
@@ -205,12 +205,28 @@
         "k": "elsa_bcc"
       },
       {
+        "date": "2025-04-12",
+        "dir": "去",
+        "who": "Elsa 箱群发 Bcc",
+        "quote": "Marvell Alleycat5 Solution｜Hi, How are you? We are doing Marvell Alleycat5 chip for tai",
+        "why": "Elsa 群发命中（批 CZ，锚 To office@ergate.cz）",
+        "k": "196298c90e618602"
+      },
+      {
         "date": "2026-08-28",
         "dir": "去",
         "who": "Elsa 群发（BCC；To office@ergate.cz，CZ 批次）",
         "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
         "why": "Elsa 箱群发 BCC 触达证据（命中地址 info@lancomat.cz, lancomat.cz）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
         "k": "elsa_bcc"
+      },
+      {
+        "date": "2026-08-28",
+        "dir": "去",
+        "who": "Elsa 箱群发 Bcc",
+        "quote": "24 Port PoE Managed Switch｜Price: 170USD/PC",
+        "why": "Elsa 群发命中（批 CZ，锚 To office@ergate.cz）",
+        "k": "1a04798efe1a50d8"
       }
     ],
     "proof_gaps": [],

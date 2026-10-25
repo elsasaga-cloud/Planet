@@ -38,7 +38,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-244GP / STI-110GE（非管理工业 / MC） — 换到非核心 SKU 问一次。已打开的主题（5/20 封有打开记录）：「90W PoE Managed Switch」(2025-01-30)、「Re: 90W PoE Managed Switch」(2025-01-30)、「Re: 90W PoE Managed Switch」(2025-03-20)、「Re: 90W PoE Managed Switch」(2025-04-21) → 读者兴趣偏「PoE 接入」；当前 P1 属「10G 汇聚/L3」，下一封按「PoE 接入」给，不按 P1；换人再触锚价 STI-244GP $35 EXW（最近实报 $35（㉕）；第 72 批 2026-10-24）；按 30%；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-22 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-08-17 $65（10G Media Converter）、2025-10-10 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Which part of the BitStream catalogue is bought-in today (unmanaged DIN, MC, SFP), and would an externally sourced unmanaged DIN line (and a Marvell L2+ managed tier above it) be considered? Reference: STI-244GP at $35 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：2027-Q1 A 邮箱 → tjargielo@ / ahyz@ 一句话问其外采的非核心 SKU（第 75 批(o) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用；换人/一问口径））（第 76 批(b) 2026-10-25：audit_ab 硬错误修正：同款群发价 $170→$180 补汇率说明（㉟））
+- **下一步**：2027-Q1 A 邮箱 → tjargielo@ / ahyz@ 一句话问其外采的非核心 SKU（第 75 批(o) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用；换人/一问口径））（第 76 批(b) 2026-10-25：audit_ab 硬错误修正：同款群发价 $170→$180 补汇率说明（㉟））（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -49,13 +49,21 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：工业 L2+ PoE（bt）——但 BitStream 自研线覆盖此段。
 - **断点 / 为什么停在这里**：同业型品牌商：Saga 的管理型正是其自研段；只有非核心 SKU 有空间。
 - **Saga 现在该推什么**：P1 **STI-244GP / STI-110GE（非管理工业 / MC）**（30% 档，换人再触锚价 STI-244GP $35 EXW（最近实报 $35（㉕）；第 72 批 2026-10-24）；按 30%；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-22 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-08-17 $65（10G Media Converter）、2025-10-10 $280（10G Enterprise SFP Switch））——换到非核心 SKU 问一次。已打开的主题（5/20 封有打开记录）：「90W PoE Managed Switch」(2025-01-30)、「Re: 90W PoE Managed Switch」(2025-01-30)、「Re: 90W PoE Managed Switch」(2025-03-20)、「Re: 90W PoE Managed Switch」(2025-04-21) → 读者兴趣偏「PoE 接入」；当前 P1 属「10G 汇聚/L3」，下一封按「PoE 接入」给，不按 P1
-- **下一步（具体）**：2027-Q1　A 邮箱 → tjargielo@ / ahyz@　一句话问其外采的非核心 SKU（第 75 批(o) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用；换人/一问口径））（第 76 批(b) 2026-10-25：audit_ab 硬错误修正：同款群发价 $170→$180 补汇率说明（㉟））
+- **下一步（具体）**：2027-Q1　A 邮箱 → tjargielo@ / ahyz@　一句话问其外采的非核心 SKU（第 75 批(o) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用；换人/一问口径））（第 76 批(b) 2026-10-25：audit_ab 硬错误修正：同款群发价 $170→$180 补汇率说明（㉟））（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）
   - 第一问（只问一个）：Which part of the BitStream catalogue is bought-in today (unmanaged DIN, MC, SFP), and would an externally sourced unmanaged DIN line (and a Marvell L2+ managed tier above it) be considered? Reference: STI-244GP at $35 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2024-06-24 | 去 | S 箱（Simon） | industrial PoE Switch | 首封去信（邮箱索引；去信共 20 封） | `22105ed97d7fc03d` |
+| 2024-08-17 | 去 | S 箱（Simon） | 10G media converter｜稿内价 $65 | 去信正文含价（邮箱索引） | `5a4481b7a50bac3f` |
+| 2024-08-17 | 去 | S 箱（Simon）报价 | 10G media converter｜ $65（原句：Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unma） | S 邮箱报价史（规则 ㉕ ① 自报价优先） | `5a4481b7a50bac3f` |
+| 2024-11-22 | 去 | S 箱（Simon）报价 | 48 Port PoE Managed Switch｜ $300（原句：*Price is very competitive, 300usd/pc*） | S 邮箱报价史（规则 ㉕ ① 自报价优先） | `4c3cbe3a33e8be4e` |
 | 2025-01-30 | 来 | Katarzyna Surowiec | What is the price? | 询价 | `ab20a2586535bf26` |
 | 2025-01-30 | 去 | Alan | 140usd/pc STI-288DGGPM-2BT… L3 managed version si also available | 报价后停 | `627139dd3ba20af7` |
+| 2025-01-30 | 去 | A 箱（Alan） | Re: 90W PoE Managed Switch｜稿内价 $140 | 去信正文含价（邮箱索引） | `627139dd3ba20af7` |
+| 2025-01-30 | 来 | ksurowiec@bitstream.pl | Re: 90W PoE Managed Switch｜What is the price?  -- Pozdrawiam,    *Katarzyna Surowiec*Asystentka Zarządu  *Phone* +48 81 743 86 43 *Web* www.bitstream.pl *Email* ksurowiec@bitstr | 来信（邮箱索引；原文见 k；是否人工回复以原文为准） | `ab20a2586535bf26` |
+| 2026-08-11 | 来 | ahyz@bitstream.pl | Nieobecność Re: 24 Port PoE Managed Switch｜W dniach 07-21.08.2026 jestem na urlopie. W sprawach pilnych proszę kontaktować się z Tomaszem Jargieło na adres mailowy tjargielo@bitstream.pl  --    | 来信（邮箱索引；原文见 k；是否人工回复以原文为准） | `97cffda9f4680ebc` |
+| 2026-09-07 | 去 | A 箱（Alan） | 16 Port Industrial PoE Switch | 最近一封去信（邮箱索引；去信共 20 封） | `559de04d8706b132` |
 
 ## 基本事实（事实/推断/假设分层）
 

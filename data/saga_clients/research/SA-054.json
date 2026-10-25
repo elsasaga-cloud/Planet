@@ -155,10 +155,42 @@
   "next_move": {
    "when": "2027-Q1",
    "channel": "A 邮箱 → zakaz@",
-   "action": "问付款通道 + 首批 SKU（第 75 批(p) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））",
+   "action": "问付款通道 + 首批 SKU（第 75 批(p) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
    "one_question": "For a first batch, which 8-port PoE SKU and what payment route (RMB agent / T/T) works for you?"
   },
   "facts": [
+   {
+    "date": "2024-06-19",
+    "dir": "去",
+    "who": "S 箱（Simon）",
+    "quote": "8 port fiber switch",
+    "why": "首封去信（邮箱索引；去信共 22 封）",
+    "k": "ec9ddaaae415a2aa"
+   },
+   {
+    "date": "2024-11-11",
+    "dir": "去",
+    "who": "S 箱（Simon）",
+    "quote": "10G Media Converter｜稿内价 $65",
+    "why": "去信正文含价（邮箱索引）",
+    "k": "410b2799e316dc6a"
+   },
+   {
+    "date": "2024-12-26",
+    "dir": "去",
+    "who": "S 箱（Simon）",
+    "quote": "24 Port Fiber Switch｜稿内价 $240",
+    "why": "去信正文含价（邮箱索引）",
+    "k": "1498a663d372dc88"
+   },
+   {
+    "date": "2025-06-30",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "24 Port Fiber Switch｜稿内价 $240",
+    "why": "去信正文含价（邮箱索引）",
+    "k": "dbaab31a89f6c8d8"
+   },
    {
     "date": "2025-08-28",
     "dir": "来",
@@ -174,6 +206,30 @@
     "quote": "send me please your pricelists with POE switches and accessories",
     "why": "要价表",
     "k": "e5396399dcef3822"
+   },
+   {
+    "date": "2026-01-04",
+    "dir": "来",
+    "who": "zakaz@svn-video.ru",
+    "quote": "Re: Industrial PoE Switch｜Hi, send me please your pricelists with POE switches and accessories  ______________________________________________  C уважением, отдел продаж интерн",
+    "why": "来信（邮箱索引；原文见 k；是否人工回复以原文为准）",
+    "k": "e5396399dcef3822"
+   },
+   {
+    "date": "2026-08-10",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "24 Port PoE Managed Switch｜稿内价 $170",
+    "why": "去信正文含价（邮箱索引）",
+    "k": "e39865805e2c55d8"
+   },
+   {
+    "date": "2026-09-07",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "16 Port Industrial PoE Switch",
+    "why": "最近一封去信（邮箱索引；去信共 22 封）",
+    "k": "cd90acab1f8de2bf"
    }
   ],
   "proof_gaps": [],

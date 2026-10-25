@@ -38,7 +38,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-154GP — 不主动。已打开的主题（6/25 封有打开记录）：「Re: Industrial PoE Switch」(2024-09-28)、「Re: Industrial PoE Switch」(2024-10-08)、「Re: Industrial PoE Switch」(2024-10-23)、「24 Port Fiber Switch」(2025-08-28) → 读者兴趣偏「工业」；与 P1 同类，继续；历史报价（邮件原话，老汇率）：2024-09-28 STI-154GP 38usd；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-19 $65（10G media converter）、2024-11-20 $300（48 Port PoE Managed Switch）、2025-10-29 $280（10G Enterprise SFP Switch）、2026-07-20 $1500（24 Port 10G SFP+ Switch）、2026-09-08 $170（24 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2025-08-28 $240（24 Port Fiber Switch）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
 - **最大未知**：年走量与现供应商
-- **下一步**：不动 — —
+- **下一步**：不动 — —（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -49,12 +49,25 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：4 口工业 PoE（矿业）。
 - **断点 / 为什么停在这里**：项目型；非重点区。
 - **Saga 现在该推什么**：P1 **STI-154GP**（25% 档，历史报价（邮件原话，老汇率）：2024-09-28 STI-154GP 38usd；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-19 $65（10G media converter）、2024-11-20 $300（48 Port PoE Managed Switch）、2025-10-29 $280（10G Enterprise SFP Switch）、2026-07-20 $1500（24 Port 10G SFP+ Switch）、2026-09-08 $170（24 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2025-08-28 $240（24 Port Fiber Switch））——不主动。已打开的主题（6/25 封有打开记录）：「Re: Industrial PoE Switch」(2024-09-28)、「Re: Industrial PoE Switch」(2024-10-08)、「Re: Industrial PoE Switch」(2024-10-23)、「24 Port Fiber Switch」(2025-08-28) → 读者兴趣偏「工业」；与 P1 同类，继续
-- **下一步（具体）**：不动　—　—
+- **下一步（具体）**：不动　—　—（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2024-06-26 | 去 | S 箱（Simon） | Industrial fiber switch | 首封去信（邮箱索引；去信共 25 封） | `73134d166d475758` |
+| 2024-08-19 | 去 | S 箱（Simon） | 10G media converter｜稿内价 $65 | 去信正文含价（邮箱索引） | `966486459c09d600` |
+| 2024-08-19 | 去 | S 箱（Simon）报价 | 10G media converter｜ $65（原句：Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unma） | S 邮箱报价史（规则 ㉕ ① 自报价优先） | `966486459c09d600` |
 | 2024-09-27 | 来 | Ling Fuentes | Can you please give me the price and minimum quantity? | 询价 | `de350c97144e5285` |
+| 2024-09-27 | 来 | ventas@energyplusystems.cl | Re: Industrial PoE Switch｜Hi Simon Can you please give me the price and minimum quantity?  Thank you Ling Fuentes F. Ingeniero de Ventas ventas@energyplusystems.cl Cel +5699218 | 来信（邮箱索引；原文见 k；是否人工回复以原文为准） | `de350c97144e5285` |
 | 2024-09-28 | 去 | Saga（Simon） | Hi, Ling, Thanks for your interest. Please see attached datasheet. 38usd/pc STI-154GP: industrial PoE Switch 1*Gigabit SFP+1*1G Copper Uplink+4*10/100/1000M PoE Downlink, POE af/at, 120W, Unmanaged Support DIP function, DC44V~DC57V(Removable 4 PIN Industrial T | 历史报价点（主题「Re: Industrial PoE Switch」；第 20 批从 gmail_s 回补）：STI-154GP 38usd | `dd2380a46a6ba1cc` |
+| 2024-09-28 | 去 | S 箱（Simon） | Re: Industrial PoE Switch｜稿内价 $38 | 去信正文含价（邮箱索引） | `dd2380a46a6ba1cc` |
+| 2024-09-28 | 去 | S 箱（Simon）报价 | Re: Industrial PoE Switch｜STI-154GP $38（原句：38usd/pc） | S 邮箱报价史（规则 ㉕ ① 自报价优先） | `dd2380a46a6ba1cc` |
+| 2024-11-20 | 去 | S 箱（Simon）报价 | 48 Port PoE Managed Switch｜ $300（原句：*Price is very competitive, 300usd/pc*） | S 邮箱报价史（规则 ㉕ ① 自报价优先） | `d38f2e742cda8850` |
+| 2025-08-28 | 去 | S 箱（Simon） | 24 Port Fiber Switch｜稿内价 $240 | 去信正文含价（邮箱索引） | `5285f4f822d9a47d` |
+| 2025-08-28 | 去 | S 箱（Simon）报价 | 24 Port Fiber Switch｜ $240（原句：Price: 240usd/pc） | S 邮箱报价史（规则 ㉕ ① 自报价优先） | `5285f4f822d9a47d` |
+| 2025-10-29 | 去 | S 箱（Simon）报价 | 10G Enterprise SFP Switch｜ $280（原句：It is a price-competitive aggregation switch(280usd/pc)） | S 邮箱报价史（规则 ㉕ ① 自报价优先） | `6da1fa692fe34306` |
+| 2026-07-20 | 去 | S 箱（Simon）报价 | 24 Port 10G SFP+ Switch｜ $1500（原句：*Price: 1500USD/PC*） | S 邮箱报价史（规则 ㉕ ① 自报价优先） | `fd1a9009a3a0c59d` |
+| 2026-09-08 | 去 | S 箱（Simon） | 24 Port PoE Managed Switch | 最近一封去信（邮箱索引；去信共 25 封） | `7ea24f4303e4aeb1` |
+| 2026-09-08 | 去 | S 箱（Simon）报价 | 24 Port PoE Managed Switch｜ $170（原句：*Price: 170USD/PC*） | S 邮箱报价史（规则 ㉕ ① 自报价优先） | `7ea24f4303e4aeb1` |
 
 ## 基本事实（事实/推断/假设分层）
 

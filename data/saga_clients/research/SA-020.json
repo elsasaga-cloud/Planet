@@ -138,7 +138,7 @@
     "next_move": {
       "when": "2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）",
       "channel": "A 邮箱 → thawat@widen.co.th（具名但 27 封 0 回、0 打开——先核地址是否还活；不活就在 widen.co.th 找第二个人）",
-      "action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(o) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用；换人/一问口径））",
+      "action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(o) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用；换人/一问口径））（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
       "one_question": "Your WIDEN industrial PoE converters are still 10/100 on the 4- and 8-port versions, so the gigabit 8-port DIN unit with two SFP uplinks in WIDEN packing is the obvious next SKU, and I can quote it together with the gigabit SFP converter you already brand. Shall I quote the gigabit 8-port PoE DIN unit with 2 SFP in WIDEN packing together with the gigabit SFP converter you already brand? Reference: STI-288GP at $60 / STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
     },
     "facts": [
@@ -151,11 +151,43 @@
         "k": "b43d00bf4155c428"
       },
       {
+        "date": "2024-06-24",
+        "dir": "去",
+        "who": "S 箱（Simon）",
+        "quote": "5 port industrial switch",
+        "why": "首封去信（邮箱索引；去信共 27 封）",
+        "k": "b43d00bf4155c428"
+      },
+      {
+        "date": "2024-12-17",
+        "dir": "去",
+        "who": "S 箱（Simon）报价",
+        "quote": "48 Port PoE Managed Switch｜ $300（原句：*Price is very competitive, 300usd/pc*）",
+        "why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
+        "k": "e0d09f1b5653a95f"
+      },
+      {
+        "date": "2025-02-03",
+        "dir": "去",
+        "who": "A 箱（Alan）",
+        "quote": "24 Port Fiber Switch｜稿内价 $240",
+        "why": "去信正文含价（邮箱索引）",
+        "k": "1f829f9328c49ed2"
+      },
+      {
         "date": "2026-09-28",
         "dir": "去",
         "who": "Saga（Alan）",
         "quote": "「Managed PoE Switches」——最后一封群发",
         "why": "thawat@ 是具名地址但两年不回 → 要么地址死了要么人不对；先核再换人",
+        "k": "f68e0de76ea765a6"
+      },
+      {
+        "date": "2026-09-28",
+        "dir": "去",
+        "who": "A 箱（Alan）",
+        "quote": "Managed PoE Switches",
+        "why": "最近一封去信（邮箱索引；去信共 27 封）",
         "k": "f68e0de76ea765a6"
       }
     ],

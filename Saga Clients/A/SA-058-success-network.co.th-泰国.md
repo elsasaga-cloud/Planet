@@ -38,7 +38,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：无 — 不碰。已打开的主题（3/21 封有打开记录）：「Industrial PoE Switch」(2025-08-12)、「Mini Industrial PoE Switch」(2025-09-12)、「24 Port PoE Managed Switch」(2026-10-20) → 读者兴趣偏「工业」；与 P1 同类，继续；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-12 $300（48 Port PoE Managed Switch）、2025-01-31 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-10-20 $180（24 Port PoE Managed Switch = STC-424XGGPM-280W，Alan 2026-09-21 起的现价轮）——同款信稿只能写 $180；群发里他已看到的价（续）：2026-08-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-13 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
 - **最大未知**：年走量与现供应商
-- **下一步**：不动 — —
+- **下一步**：不动 — —（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -49,12 +49,20 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：—
 - **断点 / 为什么停在这里**：Q-33。
 - **Saga 现在该推什么**：P1 **无**（20% 档，—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-12 $300（48 Port PoE Managed Switch）、2025-01-31 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-10-20 $180（24 Port PoE Managed Switch = STC-424XGGPM-280W，Alan 2026-09-21 起的现价轮）——同款信稿只能写 $180；群发里他已看到的价（续）：2026-08-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-13 $280（10G Enterprise SFP Switch））——不碰。已打开的主题（3/21 封有打开记录）：「Industrial PoE Switch」(2025-08-12)、「Mini Industrial PoE Switch」(2025-09-12)、「24 Port PoE Managed Switch」(2026-10-20) → 读者兴趣偏「工业」；与 P1 同类，继续
-- **下一步（具体）**：不动　—　—
+- **下一步（具体）**：不动　—　—（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2024-07-09 | 去 | S 箱（Simon） | Industrial poe switch | 首封去信（邮箱索引；去信共 21 封） | `2358c76c64b01fb7` |
+| 2024-11-12 | 去 | S 箱（Simon）报价 | 48 Port PoE Managed Switch｜ $300（原句：*Price is very competitive, 300usd/pc*） | S 邮箱报价史（规则 ㉕ ① 自报价优先） | `9bab146adffc4030` |
+| 2025-01-31 | 去 | S 箱（Simon） | 24 Port Fiber Switch｜稿内价 $240 | 去信正文含价（邮箱索引） | `e3816a77ff1eed4f` |
+| 2025-01-31 | 去 | S 箱（Simon）报价 | 24 Port Fiber Switch｜ $240（原句：Price: 240usd/pc） | S 邮箱报价史（规则 ㉕ ① 自报价优先） | `e3816a77ff1eed4f` |
 | 2025-09-12 | 来 | Success Network | Thanks for information | 礼貌回复 | `e0f000957aae1a7a` |
+| 2025-09-12 | 来 | info@success-network.co.th | Re: Mini Industrial PoE Switch｜Thanks for information ________________________________ From: Alan from Saga Telecom <a.sagatelecom@gmail.com> Sent: Friday, September 12, 2025 12:00  | 来信（邮箱索引；原文见 k；是否人工回复以原文为准） | `e0f000957aae1a7a` |
+| 2026-08-10 | 去 | A 箱（Alan） | 24 Port PoE Managed Switch｜稿内价 $170 | 去信正文含价（邮箱索引） | `5c93b47d50460ec4` |
 | 2026-10-20 | 内 | Gmail 退信（S 邮箱） | sawithree@success-network.co.th 永久退信：550 No such recipient here | 该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职 | `gmail_s 098f53c592a27464` |
+| 2026-10-20 | 去 | S 箱（Simon） | 24 Port PoE Managed Switch | 最近一封去信（邮箱索引；去信共 21 封） | `b7d2811f984127c8` |
+| 2026-10-20 | 去 | S 箱（Simon）报价 | 24 Port PoE Managed Switch｜ $180（原句：*Price: 180USD/PC*） | S 邮箱报价史（规则 ㉕ ① 自报价优先） | `b7d2811f984127c8` |
 
 ## 基本事实（事实/推断/假设分层）
 

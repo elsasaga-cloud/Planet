@@ -38,7 +38,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM — WA。已打开的主题（2/20 封有打开记录）：「24 Port Fiber Switch」(2025-08-26)、「Marvell Industrial Alert System」(2025-12-19) → 读者兴趣偏「MC/光电」；与 P1 同类，继续；—；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-08-26 $240（24 Port Fiber Switch）、2025-09-23 $65（10G Media Converter）、2025-10-22 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：You asked at ISAF whether the standard switches carry an alarm output: the industrial 8-port gigabit PoE + 2 SFP managed DIN unit does, with dual DC input, so that is the model I am quoting as a second source next to your N-Net units.
 - **最大未知**：官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
-- **下一步**：按 Simon WA 节奏 WhatsApp —（用 one_question 这句，WhatsApp 直接发，不附资料）（第 75 批(s) 2026-10-25：WhatsApp 一句话版已写 `draft_en`（报警继电器主表未载——信里不断言，改为「发规格书页自己看」；发前 Simon 核 SmartByte 规格书））
+- **下一步**：按 Simon WA 节奏 WhatsApp —（用 one_question 这句，WhatsApp 直接发，不附资料）（第 75 批(s) 2026-10-25：WhatsApp 一句话版已写 `draft_en`（报警继电器主表未载——信里不断言，改为「发规格书页自己看」；发前 Simon 核 SmartByte 规格书））（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -49,13 +49,18 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：工业 PoE（在用 N-Net，研究档）。
 - **断点 / 为什么停在这里**：渠道错位：销售台 vs 采购。
 - **Saga 现在该推什么**：P1 **STI-288DGGPM**（30% 档，—；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-08-26 $240（24 Port Fiber Switch）、2025-09-23 $65（10G Media Converter）、2025-10-22 $280（10G Enterprise SFP Switch））——WA。已打开的主题（2/20 封有打开记录）：「24 Port Fiber Switch」(2025-08-26)、「Marvell Industrial Alert System」(2025-12-19) → 读者兴趣偏「MC/光电」；与 P1 同类，继续
-- **下一步（具体）**：按 Simon WA 节奏　WhatsApp　—（用 one_question 这句，WhatsApp 直接发，不附资料）（第 75 批(s) 2026-10-25：WhatsApp 一句话版已写 `draft_en`（报警继电器主表未载——信里不断言，改为「发规格书页自己看」；发前 Simon 核 SmartByte 规格书））
+- **下一步（具体）**：按 Simon WA 节奏　WhatsApp　—（用 one_question 这句，WhatsApp 直接发，不附资料）（第 75 批(s) 2026-10-25：WhatsApp 一句话版已写 `draft_en`（报警继电器主表未载——信里不断言，改为「发规格书页自己看」；发前 Simon 核 SmartByte 规格书））（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）
   - 第一问（只问一个）：You asked at ISAF whether the standard switches carry an alarm output: the industrial 8-port gigabit PoE + 2 SFP managed DIN unit does, with dual DC input, so that is the model I am quoting as a second source next to your N-Net units.
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2025-03-26 | 去 | A 箱（Alan） | Marvell Alleycat5 Solution | 首封去信（邮箱索引；去信共 20 封） | `3ccbb8e1e1bae77e` |
+| 2025-08-26 | 去 | A 箱（Alan） | 24 Port Fiber Switch｜稿内价 $240 | 去信正文含价（邮箱索引） | `4fca8a4abcf531df` |
+| 2025-09-23 | 去 | A 箱（Alan） | 10G Media Converter｜稿内价 $65 | 去信正文含价（邮箱索引） | `99c1298cc781f9fd` |
 | 2026-08-12 | 来 | Jomini Midhun（Sales Coordinator） | Could you please confirm whether you are looking for a BORN COMMERCIAL 24-port managed switch? | 误读为采购 | `75714cbe9fd11aa2` |
+| 2026-08-12 | 来 | sales@ipns-uae.com | Confirmation: BORN 24-Port Managed Switch Requirement｜Dear Sir,     Greetings      Could you please confirm whether you are looking for a BORN COMMERCIAL 24-port managed switch?     Thanks & Regards   Jom | 来信（邮箱索引；原文见 k；是否人工回复以原文为准） | `75714cbe9fd11aa2` |
 | 2026-08-15 | 去 | Saga（Alan） | Hi, Jomini, 1. I am recommending our models. We focus on Marvell based L2+ switches, checking if we could cooperate in some way. 2. I met George on IFSEC UK 2023 and know that you deal with Ethernet switches with a supplier from Shenzhen. Maybe our products can be useful in some projects, or we can… | Saga 实质答复原文（主题「Re: Confirmation: BORN 24-Port Managed S」；第 20 批从 gmail_a 回补）——承诺/口径以此为准 | `5eacc9efe7146ba8` |
+| 2026-09-22 | 去 | A 箱（Alan） | 16 Port Industrial PoE Switch | 最近一封去信（邮箱索引；去信共 20 封） | `b23b79036dc5cabb` |
 
 ## 基本事实（事实/推断/假设分层）
 

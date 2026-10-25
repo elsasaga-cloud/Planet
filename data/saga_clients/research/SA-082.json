@@ -181,10 +181,34 @@
     "next_move": {
       "when": "按 WA 节奏",
       "channel": "WhatsApp",
-      "action": "WA 一句话（第 75 批(r) 2026-10-25：WhatsApp 一句话版已写 `draft_en`（Simon 按 WA 节奏自发））（第 76 批(c) 2026-10-25：audit_ab 软项修正：证书口径 CE/FCC files → CE/RoHS files）",
+      "action": "WA 一句话（第 75 批(r) 2026-10-25：WhatsApp 一句话版已写 `draft_en`（Simon 按 WA 节奏自发））（第 76 批(c) 2026-10-25：audit_ab 软项修正：证书口径 CE/FCC files → CE/RoHS files）（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
       "one_question": "Which ONV/Xinqiao industrial PoE SKU is your volume item, and what would make you add a Marvell second source?"
     },
     "facts": [
+      {
+        "date": "2024-06-14",
+        "dir": "去",
+        "who": "S 箱（Simon）",
+        "quote": "Industrial network switch",
+        "why": "首封去信（邮箱索引；去信共 24 封）",
+        "k": "0e226ef6066b98b4"
+      },
+      {
+        "date": "2024-08-10",
+        "dir": "去",
+        "who": "S 箱（Simon）",
+        "quote": "10G media converter｜稿内价 $65",
+        "why": "去信正文含价（邮箱索引）",
+        "k": "eae4bec0a71847bf"
+      },
+      {
+        "date": "2024-08-10",
+        "dir": "去",
+        "who": "S 箱（Simon）报价",
+        "quote": "10G media converter｜ $65（原句：Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unma）",
+        "why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
+        "k": "eae4bec0a71847bf"
+      },
       {
         "date": "2024-11-05",
         "dir": "去",
@@ -192,6 +216,14 @@
         "quote": "名单行：「switch info@nova-grup.com https://www.novacom.com.tr/urun-kategori/poe-switch/」",
         "why": "Saga 2024-11-05 把本户列入交给 Angora（安卡拉，Saga 提议的欧盟/土耳其分销伙伴）的 64 家起步名单；此后 Saga 仍直发本户。若 Angora 已接触过本户，Saga 直发会与自己提议的渠道打架 → Q-51（默认：直发继续，Angora 报了价的户 Saga 只做技术支持）",
         "k": "gmail_s 2024-11-05 Re: Invoice_5pcs STC-424DGGPM-280W（附件）+ Drive PI 7_土耳其 Turkey_Client_List.xlsx"
+      },
+      {
+        "date": "2026-10-06",
+        "dir": "去",
+        "who": "A 箱（Alan）",
+        "quote": "Managed PoE Switches",
+        "why": "最近一封去信（邮箱索引；去信共 24 封）",
+        "k": "dc7c0490ebc381fe"
       }
     ],
     "proof_gaps": [

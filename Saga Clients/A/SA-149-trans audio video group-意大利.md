@@ -39,7 +39,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM / STC-424DGGPM-280W — 已打开的主题（2/23 封有打开记录）：「24 port passive poe switch」(2024-08-07)、「8 Port Ethernet Switch」(2024-11-12) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-04 $65（10G media converter）、2024-10-14 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-16 $280（10G Enterprise SFP Switch）（㉕ 封顶：STI-288DGGPM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25）
 - **第一问（只问一个）**：Francesco, the detailed price list you asked for at IFSEC: commercial 24-port PoE+ with 4 SFP at $134.5 EXW, 8-port PoE+ managed at $80.7, and the DIN-rail industrial 8-port PoE+ at $137.5 — which of the three would you like a sample of for the Caserta demo room?
 - **最大未知**：年走量与现供应商
-- **下一步**：2027-Q1 WhatsApp 一页式报价（研究档）（用 one_question 这句，WhatsApp 直接发，不附资料）（第 75 批(q) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；WhatsApp 一句话版）
+- **下一步**：2027-Q1 WhatsApp 一页式报价（研究档）（用 one_question 这句，WhatsApp 直接发，不附资料）（第 75 批(q) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；WhatsApp 一句话版）（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -50,13 +50,18 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：8/24 口 PoE 项目价。
 - **断点 / 为什么停在这里**：—
 - **Saga 现在该推什么**：P1 **STC-28DGGPM / STC-424DGGPM-280W**（25% 档，—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-04 $65（10G media converter）、2024-10-14 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-16 $280（10G Enterprise SFP Switch）（㉕ 封顶：STI-288DGGPM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25））——已打开的主题（2/23 封有打开记录）：「24 port passive poe switch」(2024-08-07)、「8 Port Ethernet Switch」(2024-11-12) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续
-- **下一步（具体）**：2027-Q1　WhatsApp　一页式报价（研究档）（用 one_question 这句，WhatsApp 直接发，不附资料）（第 75 批(q) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；WhatsApp 一句话版）
+- **下一步（具体）**：2027-Q1　WhatsApp　一页式报价（研究档）（用 one_question 这句，WhatsApp 直接发，不附资料）（第 75 批(q) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；WhatsApp 一句话版）（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）
   - 第一问（只问一个）：Francesco, the detailed price list you asked for at IFSEC: commercial 24-port PoE+ with 4 SFP at $134.5 EXW, 8-port PoE+ managed at $80.7, and the DIN-rail industrial 8-port PoE+ at $137.5 — which of the three would you like a sample of for the Caserta demo room?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2024-07-09 | 去 | S 箱（Simon） | industrial poe switch | 首封去信（邮箱索引；去信共 23 封） | `af7c015c0c0a0398` |
 | 2024-08-07 | 去 | Saga（群发） | 「24 port passive poe switch」被打开（Mailtrack Opened 标签） | 唯一的互动痕迹 | `535fa639b6b07db7` |
+| 2024-09-04 | 去 | S 箱（Simon） | 10G media converter｜稿内价 $65 | 去信正文含价（邮箱索引） | `a9b45304e9fc36a5` |
+| 2024-09-04 | 去 | S 箱（Simon）报价 | 10G media converter｜ $65（原句：Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unma） | S 邮箱报价史（规则 ㉕ ① 自报价优先） | `a9b45304e9fc36a5` |
+| 2024-10-14 | 去 | S 箱（Simon）报价 | 48 Port PoE Managed Switch｜ $300（原句：Price is very competitive, 300usd/pc） | S 邮箱报价史（规则 ㉕ ① 自报价优先） | `84e028cb13691dc1` |
 | 2024-11-12 | 去 | Saga（群发） | 「8 Port Ethernet Switch」被打开（Mailtrack Opened 标签） | 唯一的互动痕迹 | `8fcd8b6dea1d95ec` |
+| 2026-09-16 | 去 | A 箱（Alan） | 16 Port Industrial PoE Switch | 最近一封去信（邮箱索引；去信共 23 封） | `256b93299e19a6e2` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 从未去信、Replied 索引亦无此户），仓库未见原文
 

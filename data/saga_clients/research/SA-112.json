@@ -149,10 +149,18 @@
   "next_move": {
    "when": "2026-11",
    "channel": "A 邮箱 → yoav@smbit.co.il",
-   "action": "一句话（第 76 批(c) 2026-10-25：audit_ab 软项修正：署名「Alan Yan」→「Alan」（A 箱实际署名））",
+   "action": "一句话（第 76 批(c) 2026-10-25：audit_ab 软项修正：署名「Alan Yan」→「Alan」（A 箱实际署名））（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
    "one_question": "Is the ~150-unit/year industrial PoE requirement still live, and which spec did it settle on?"
   },
   "facts": [
+   {
+    "date": "2025-06-04",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "Industrial PoE Switch",
+    "why": "首封去信（邮箱索引；去信共 16 封）",
+    "k": "6c169e28e08ceac7"
+   },
    {
     "date": "2026-02-02",
     "dir": "去",
@@ -160,6 +168,14 @@
     "quote": "「OEM Core Switching Solution」被打开（Mailtrack Opened 标签）",
     "why": "唯一的互动痕迹",
     "k": "b55e88e2576e6c73"
+   },
+   {
+    "date": "2026-10-07",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "Managed PoE Switches",
+    "why": "最近一封去信（邮箱索引；去信共 16 封）",
+    "k": "4ea04edc08c2cc81"
    }
   ],
   "proof_gaps": [

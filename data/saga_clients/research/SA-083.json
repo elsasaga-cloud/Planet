@@ -190,7 +190,7 @@
     "next_move": {
       "when": "2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）",
       "channel": "A 邮箱 → imports@bselectronics.gr（Vasilis Stavridis）",
-      "action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(q) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；2.5G 用 HRUI STC-114XGDGP；「升压 5 口」型号未核，写先确认输入电压）",
+      "action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(q) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；2.5G 用 HRUI STC-114XGDGP；「升压 5 口」型号未核，写先确认输入电压）（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
       "one_question": "Your BS-SWP series is fast-Ethernet today, so the Marvell-based gigabit managed 8-port PoE+ with 2 SFP in BS packing is the natural step up, and the 24-port version with four 10G SFP+ uplinks answers the 2.5G question from ISAF. Shall I quote the 8-port in BS packing first? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
     },
     "facts": [
@@ -203,11 +203,27 @@
         "k": "98f7e4e8b4b4c419"
       },
       {
+        "date": "2025-03-19",
+        "dir": "去",
+        "who": "A 箱（Alan）",
+        "quote": "8 Port Industrial PoE Switch",
+        "why": "首封去信（邮箱索引；去信共 16 封）",
+        "k": "98f7e4e8b4b4c419"
+      },
+      {
         "date": "2026-09-14",
         "dir": "去",
         "who": "Saga（Alan）",
         "quote": "「16 Port Industrial PoE Switch」——最后一封",
         "why": "进口部公用箱；具名 Vasilis Stavridis 在 kp 里但没单独发过",
+        "k": "ef2f8188a0b4f8e7"
+      },
+      {
+        "date": "2026-09-14",
+        "dir": "去",
+        "who": "A 箱（Alan）",
+        "quote": "16 Port Industrial PoE Switch",
+        "why": "最近一封去信（邮箱索引；去信共 16 封）",
         "k": "ef2f8188a0b4f8e7"
       }
     ],

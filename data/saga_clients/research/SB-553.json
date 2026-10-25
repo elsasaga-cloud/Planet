@@ -128,7 +128,7 @@
     "next_move": {
       "when": "2026-11",
       "channel": "A 邮箱 → norm@nsidistribution.com",
-      "action": "一句话",
+      "action": "一句话（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
       "one_question": "Our June note on the 24-port PoE / 10G unit — is there a line in the NSI catalogue it would fit, and who decides on new vendors?"
     },
     "facts": [
@@ -138,6 +138,14 @@
         "who": "Saga（群发）",
         "quote": "「Industrial PoE Switch」被打开（Mailtrack Opened 标签）",
         "why": "唯一的互动痕迹",
+        "k": "c5c7abff2df78e77"
+      },
+      {
+        "date": "2025-05-27",
+        "dir": "去",
+        "who": "A 箱（Alan）",
+        "quote": "Industrial PoE Switch",
+        "why": "首封去信（邮箱索引；去信共 18 封）",
         "k": "c5c7abff2df78e77"
       },
       {
@@ -155,6 +163,14 @@
         "quote": "「10G L3 Managed Switch」被打开（Mailtrack Opened 标签）",
         "why": "唯一的互动痕迹",
         "k": "0e8efb29e3a824ef"
+      },
+      {
+        "date": "2026-09-24",
+        "dir": "去",
+        "who": "A 箱（Alan）",
+        "quote": "Managed PoE Switches",
+        "why": "最近一封去信（邮箱索引；去信共 18 封）",
+        "k": "229930f76646812f"
       }
     ],
     "proof_gaps": [

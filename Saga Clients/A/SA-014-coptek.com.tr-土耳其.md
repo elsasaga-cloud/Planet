@@ -38,7 +38,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM 对位 IM-FS280GW — 已打开的主题（1/17 封有打开记录）：「Industrial PoE Switch」(2025-10-28) → 读者兴趣偏「工业」；与 P1 同类，继续 最近一封去信是 2026-10-06 A 邮箱模板（在本档最后一条事实之后）——下一封必须回到真人线程、不再叠模板｜已发资料（勿重发）：Product Link_2026Q2(2026-03-05)、Product Link_2026Q3(2026-07-17)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-06 $65（10G fiber media converter）；群发里他已看到的价（续）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-29 $280（10G Enterprise SFP Switch）；第 76 批(c)：土耳其语整稿改英文（无「不懂英文」证据，两年邮件往来皆英文；信稿对位改为非 PoE STI-280DGGM $121（㉕ 封顶）+ PoE STI-288DGGPM $137.5）
 - **第一问（只问一个）**：Is the 100-unit industrial fiber-switch requirement (2×SFP + 8×GE) still open, and what spec sheet did the other vendor win on?
 - **最大未知**：年走量与现供应商
-- **下一步**：2026-11 A 邮箱 → info@coptek.com.tr（+ WA 若有） 一封对位表 + 问 100 台询盘（第 76 批(c) 2026-10-25：audit_ab 软项修正：署名「Alan Yan」→「Alan」（A 箱实际署名））（第 76 批(c) 2026-10-25：audit_ab 软项修正：土耳其语整稿 → 英文稿）
+- **下一步**：2026-11 A 邮箱 → info@coptek.com.tr（+ WA 若有） 一封对位表 + 问 100 台询盘（第 76 批(c) 2026-10-25：audit_ab 软项修正：署名「Alan Yan」→「Alan」（A 箱实际署名））（第 76 批(c) 2026-10-25：audit_ab 软项修正：土耳其语整稿 → 英文稿）（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -49,13 +49,17 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：工业光纤交换机 2 光 8 电（100 台级）。
 - **断点 / 为什么停在这里**：渠道未知（WhatsApp/展会？）。
 - **Saga 现在该推什么**：P1 **STI-288DGGPM 对位 IM-FS280GW**（20% 档，—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-06 $65（10G fiber media converter）；群发里他已看到的价（续）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-29 $280（10G Enterprise SFP Switch）；第 76 批(c)：土耳其语整稿改英文（无「不懂英文」证据，两年邮件往来皆英文；信稿对位改为非 PoE STI-280DGGM $121（㉕ 封顶）+ PoE STI-288DGGPM $137.5））——已打开的主题（1/17 封有打开记录）：「Industrial PoE Switch」(2025-10-28) → 读者兴趣偏「工业」；与 P1 同类，继续 最近一封去信是 2026-10-06 A 邮箱模板（在本档最后一条事实之后）——下一封必须回到真人线程、不再叠模板｜已发资料（勿重发）：Product Link_2026Q2(2026-03-05)、Product Link_2026Q3(2026-07-17)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）
-- **下一步（具体）**：2026-11　A 邮箱 → info@coptek.com.tr（+ WA 若有）　一封对位表 + 问 100 台询盘（第 76 批(c) 2026-10-25：audit_ab 软项修正：署名「Alan Yan」→「Alan」（A 箱实际署名））（第 76 批(c) 2026-10-25：audit_ab 软项修正：土耳其语整稿 → 英文稿）
+- **下一步（具体）**：2026-11　A 邮箱 → info@coptek.com.tr（+ WA 若有）　一封对位表 + 问 100 台询盘（第 76 批(c) 2026-10-25：audit_ab 软项修正：署名「Alan Yan」→「Alan」（A 箱实际署名））（第 76 批(c) 2026-10-25：audit_ab 软项修正：土耳其语整稿 → 英文稿）（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）
   - 第一问（只问一个）：Is the 100-unit industrial fiber-switch requirement (2×SFP + 8×GE) still open, and what spec sheet did the other vendor win on?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2024-07-08 | 去 | S 箱（Simon） | Passive PoE Switch | 首封去信（邮箱索引；去信共 17 封） | `51e9a64c23e3ef38` |
+| 2024-08-06 | 去 | S 箱（Simon） | 10G fiber media converter｜稿内价 $65 | 去信正文含价（邮箱索引） | `04d870a68af9ad7f` |
+| 2024-08-06 | 去 | S 箱（Simon）报价 | 10G fiber media converter｜ $65（原句：Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unma） | S 邮箱报价史（规则 ㉕ ① 自报价优先） | `04d870a68af9ad7f` |
 | 2024-11-05 | 去 | Simon → Angora Networks（SA-168）附件 Turkey Client List.xlsx | 名单行：「Commercial PoE info@coptek.com.tr http://www.coptek.com.tr/end%C3%BCstriyelethernet.html」 | Saga 2024-11-05 把本户列入交给 Angora（安卡拉，Saga 提议的欧盟/土耳其分销伙伴）的 64 家起步名单；此后 Saga 仍直发本户。若 Angora 已接触过本户，Saga 直发会与自己提议的渠道打架 → Q-51（默认：直发继续，Angora 报了价的户 Saga 只做技术支持） | `gmail_s 2024-11-05 Re: Invoice_5pcs STC-424DGGPM-280W（附件）+ Drive PI 7_土耳其 Turkey_Client_List.xlsx` |
 | 2025-10-28 | 去 | Saga（群发） | 「Industrial PoE Switch」被打开（Mailtrack Opened 标签） | 唯一的互动痕迹 | `04dd529092533295` |
+| 2026-08-31 | 去 | A 箱（Alan） | 24 Port PoE Managed Switch｜稿内价 $170 | 去信正文含价（邮箱索引） | `9bee2f0150574ce7` |
 | 2026-10-06 | 去 | A 箱（Alan） | Managed PoE Switches | 最近一封去信（邮箱索引）；信稿开头句引用 | `mail_index` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：「100 台工业 FS 询盘」出处未见；在 Saga 给 Angora 的 Turkey Client List（2024-11-05）里——Angora 是否接触过本户无记录（Q-51）

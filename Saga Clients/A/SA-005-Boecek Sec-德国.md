@@ -38,7 +38,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM（8 口管理 DIN）+ STI-144GP（4+1 PoE） — 展会扫货后拿了 5 口工业样机 + DIN 电源 → 顺位是 8 口管理 DIN 与 4+1 PoE；他在意运费/关税 → 只报 EXW；锚价：STI-288GPM $82.2（25% 档）（第 72 批 2026-10-24）；—；群发里他已看到的价（续）：2026-08-18 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-06-09 $300（48 Port PoE Managed Switch）、2025-10-06 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Since you took the 5-port industrial samples with the DIN power supply, the natural next step is the 8-port managed DIN unit with CLI and the 4+1 PoE version, both quoted EXW so the freight and import-duty side is transparent. Are the 5-port samples still in service, and is the 8-port managed DIN unit worth a current quote? Reference: STI-288GPM at $82.2 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：官网当前状态异常（停放/空站（疑停业或仅占位））——公司是否仍在运营待核
-- **下一步**：2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问） A 邮箱 → boecek@（先核地址是否有效；无具名 KP） 一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(o) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用；换人/一问口径）；钩子「CLI」不写——未核实）
+- **下一步**：2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问） A 邮箱 → boecek@（先核地址是否有效；无具名 KP） 一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(o) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用；换人/一问口径）；钩子「CLI」不写——未核实）（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -49,13 +49,16 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：5 口工业样机之后的 8 口管理 DIN / 4+1 PoE（用户表）
 - **断点 / 为什么停在这里**：触达无效 + 证据缺失。
 - **Saga 现在该推什么**：P1 **STI-288GPM（8 口管理 DIN）+ STI-144GP（4+1 PoE）**（25% 档，锚价：STI-288GPM $82.2（25% 档）（第 72 批 2026-10-24）；—；群发里他已看到的价（续）：2026-08-18 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-06-09 $300（48 Port PoE Managed Switch）、2025-10-06 $280（10G Enterprise SFP Switch））——展会扫货后拿了 5 口工业样机 + DIN 电源 → 顺位是 8 口管理 DIN 与 4+1 PoE；他在意运费/关税 → 只报 EXW
-- **下一步（具体）**：2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）　A 邮箱 → boecek@（先核地址是否有效；无具名 KP）　一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(o) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用；换人/一问口径）；钩子「CLI」不写——未核实）
+- **下一步（具体）**：2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）　A 邮箱 → boecek@（先核地址是否有效；无具名 KP）　一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(o) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用；换人/一问口径）；钩子「CLI」不写——未核实）（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）
   - 第一问（只问一个）：Since you took the 5-port industrial samples with the DIN power supply, the natural next step is the 8-port managed DIN unit with CLI and the 4+1 PoE version, both quoted EXW so the freight and import-duty side is transparent. Are the 5-port samples still in service, and is the 8-port managed DIN unit worth a current quote? Reference: STI-288GPM at $82.2 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2025-04-14 | 去 | Saga（Alan） | 「16 Port Ethernet Switch」——A 邮箱对 boecek@boecek.de 的第 1 封群发 | A 级（人工定）却从未有任何来信；15 封群发 2025-04→2026-09 无一次打开记录 | `f5b9385c457b416c` |
+| 2025-04-14 | 去 | A 箱（Alan） | 16 Port Ethernet Switch | 首封去信（邮箱索引；去信共 15 封） | `f5b9385c457b416c` |
+| 2026-08-18 | 去 | A 箱（Alan） | 24 Port PoE Managed Switch｜稿内价 $170 | 去信正文含价（邮箱索引） | `3711c54c803677ad` |
 | 2026-09-23 | 去 | Saga（Alan） | 「Managed PoE Switches」——最后一封群发，仍是 boecek@ 公用地址 | 同一地址打了 17 个月；换人（找具名采购）比再发更有用 | `7c09d3b669698238` |
+| 2026-09-23 | 去 | A 箱（Alan） | Managed PoE Switches | 最近一封去信（邮箱索引；去信共 15 封） | `7c09d3b669698238` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：用户表「样品购买」无 PI；邮件 0 打开
 

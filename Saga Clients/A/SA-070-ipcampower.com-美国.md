@@ -38,7 +38,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：无 — 移出群发。已打开的主题（2/17 封有打开记录）：「Industrial PoE Switch」(2025-08-21)、「24 Port PoE Managed Switch」(2026-08-11) → 读者兴趣偏「工业」；与 P1 同类，继续；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-14 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-07-30 $65（10G Media Converter）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
 - **最大未知**：年走量与现供应商
-- **下一步**：不动；移出群发 — —
+- **下一步**：不动；移出群发 — —（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -49,11 +49,17 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：TAA/UL PoE 交换机。
 - **断点 / 为什么停在这里**：TAA/UL 边界。
 - **Saga 现在该推什么**：P1 **无**（30% 档，—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-14 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-07-30 $65（10G Media Converter））——移出群发。已打开的主题（2/17 封有打开记录）：「Industrial PoE Switch」(2025-08-21)、「24 Port PoE Managed Switch」(2026-08-11) → 读者兴趣偏「工业」；与 P1 同类，继续
-- **下一步（具体）**：不动；移出群发　—　—
+- **下一步（具体）**：不动；移出群发　—　—（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2024-07-01 | 去 | S 箱（Simon） | Passive poe switch | 首封去信（邮箱索引；去信共 17 封） | `7d23297509d68cfa` |
+| 2024-07-30 | 去 | S 箱（Simon） | 10G media converter｜稿内价 $65 | 去信正文含价（邮箱索引） | `72ed6686dbe62a71` |
+| 2024-07-30 | 去 | S 箱（Simon）报价 | 10G media converter｜ $65（原句：Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unma） | S 邮箱报价史（规则 ㉕ ① 自报价优先） | `72ed6686dbe62a71` |
+| 2024-11-14 | 去 | S 箱（Simon）报价 | 48 Port PoE Managed Switch｜ $300（原句：*Price is very competitive, 300usd/pc*） | S 邮箱报价史（规则 ㉕ ① 自报价优先） | `9425376a2465b5f4` |
 | 2025-08-21 | 来 | Sean Nelson | We require TAA Compliant and UL Listed switches. If you have this, please let me know. | 边界原话 | `465526f0a93e971c` |
+| 2025-08-21 | 来 | sales@ipcampower.com | RE: Industrial PoE Switch｜Hello there,   We require TAA Compliant and UL Listed switches. If you have this, please let me know.     Thanks,     Sean Nelson IPCAMPOWER.com   <ht | 来信（邮箱索引；原文见 k；是否人工回复以原文为准） | `465526f0a93e971c` |
+| 2026-09-07 | 去 | A 箱（Alan） | 16 Port Industrial PoE Switch | 最近一封去信（邮箱索引；去信共 17 封） | `1b384f86b0ccd72d` |
 
 ## 基本事实（事实/推断/假设分层）
 

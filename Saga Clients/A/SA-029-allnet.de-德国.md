@@ -38,7 +38,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM（若其 E-link 线出现缺口） — 保活不推销。已打开的主题（2/21 封有打开记录）：「16 Port Ethernet Switch」(2025-07-09)、「Re: 16 Port Ethernet Switch」(2025-07-11) → 读者兴趣主题类别不明（看原主题）；换人再触锚价 STI-288DGGPM $137.5 EXW（2026-06 PDF 上限 $137.5（档位 139.9–151.6 超上限；Angora/Astel 实报 $125 为成单户价）；第 72 批 2026-10-24）；按 30% 自有标档；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-05 $220（48 port managed switch）、2026-10-08 $180（24 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-17 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Which SKU in the ALLNET industrial line is hardest to source today — lead time or price? Reference: STI-288DGGPM at $137.5 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：2027-Q1（之前只保活）；或 2027-05 Computex 期间当面 S 邮箱 → zerwes@allnet.de 一句话问其工业线最难采购的 SKU（第 75 批(o) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用；换人/一问口径）；无价、只一问（对方已明说有方案））
+- **下一步**：2027-Q1（之前只保活）；或 2027-05 Computex 期间当面 S 邮箱 → zerwes@allnet.de 一句话问其工业线最难采购的 SKU（第 75 批(o) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用；换人/一问口径）；无价、只一问（对方已明说有方案））（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -49,13 +49,20 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：自有品牌 ALLNET 工业/商用交换机货源——目前已满足。
 - **断点 / 为什么停在这里**：对方不是没需求而是已有供给；只有「供给侧变化」才是入口，不是更多产品图。
 - **Saga 现在该推什么**：P1 **STI-288DGGPM（若其 E-link 线出现缺口）**（30% 档，换人再触锚价 STI-288DGGPM $137.5 EXW（2026-06 PDF 上限 $137.5（档位 139.9–151.6 超上限；Angora/Astel 实报 $125 为成单户价）；第 72 批 2026-10-24）；按 30% 自有标档；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-05 $220（48 port managed switch）、2026-10-08 $180（24 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-17 $280（10G Enterprise SFP Switch））——保活不推销。已打开的主题（2/21 封有打开记录）：「16 Port Ethernet Switch」(2025-07-09)、「Re: 16 Port Ethernet Switch」(2025-07-11) → 读者兴趣主题类别不明（看原主题）
-- **下一步（具体）**：2027-Q1（之前只保活）；或 2027-05 Computex 期间当面　S 邮箱 → zerwes@allnet.de　一句话问其工业线最难采购的 SKU（第 75 批(o) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用；换人/一问口径）；无价、只一问（对方已明说有方案））
+- **下一步（具体）**：2027-Q1（之前只保活）；或 2027-05 Computex 期间当面　S 邮箱 → zerwes@allnet.de　一句话问其工业线最难采购的 SKU（第 75 批(o) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用；换人/一问口径）；无价、只一问（对方已明说有方案））（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）
   - 第一问（只问一个）：Which SKU in the ALLNET industrial line is hardest to source today — lead time or price? Reference: STI-288DGGPM at $137.5 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2024-06-04 | 来 | Gerhard Zerwes（自动回复） | business trip in Asia from 24.05.2024 to 23.06.24 inclusive with a trade fair in Taiwan "Computex" | 每年亚洲行 | `3bed67df76fec9ba` |
+| 2024-06-04 | 来 | zerwes@allnet.de | Automatische Antwort: 10G media converter｜Sehr geehrte Partner,  vielen Dank f?r Ihre Email. Ich bin vom 24.05.2024 bis einschl. 23.06.24 auf Gesch?ftsreise in Asien mit Messe in Taiwan "Compu | 自动回复/退信/工单（机器，不算人工回复） | `3bed67df76fec9ba` |
+| 2024-07-03 | 去 | S 箱（Simon） | 24 port managed switch | 首封去信（邮箱索引；去信共 21 封） | `8c23e12b3ebab7af` |
+| 2024-08-05 | 来 | zerwes@allnet.de | Automatische Antwort: 48 port managed switch｜Sehr geehrte Partner,  vielen Dank f?r Ihre Email. Ich bin vom 26.07.2024 bis einschl. 09.08.24 im Urlaub.  Ihre Email wird in der zwischenzeit nicht  | 自动回复/退信/工单（机器，不算人工回复） | `2f53ef9e4553a91a` |
+| 2024-08-05 | 去 | S 箱（Simon）报价 | 48 port managed switch｜ $220（原句：Price is very competitive, 220usd/pc） | S 邮箱报价史（规则 ㉕ ① 自报价优先） | `345bbc1b97f18eb4` |
 | 2025-07-10 | 来 | Gerhard Zerwes | sorry we have our solution with SFP Slots and Managed Versions. | 停点原话 | `27176790332e9c58` |
+| 2025-07-10 | 来 | zerwes@allnet.de | AW: 16 Port Ethernet Switch｜Hallo Alan,  sorry we have our solution with SFP Slots and Managed Versions.  Thanks Gerhard  Von: Alan from Saga Telecom <a.sagatelecom@gmail.com> Ge | 来信（邮箱索引；原文见 k；是否人工回复以原文为准） | `27176790332e9c58` |
+| 2026-10-08 | 去 | S 箱（Simon） | 24 Port PoE Managed Switch | 最近一封去信（邮箱索引；去信共 21 封） | `15f87700ebc70348` |
+| 2026-10-08 | 去 | S 箱（Simon）报价 | 24 Port PoE Managed Switch｜ $180（原句：*Price: 180USD/PC*） | S 邮箱报价史（规则 ㉕ ① 自报价优先） | `15f87700ebc70348` |
 
 ## 基本事实（事实/推断/假设分层）
 

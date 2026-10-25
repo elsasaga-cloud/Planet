@@ -38,7 +38,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424XGGPM-280W — 他要的就是 STC-424XGGPM-280W + 2.5G 1 光 8 电 → 两款先定哪个先报；锚价：STC-28DGGPM $84.1（25% 档）；STC-424XGGPM-280W $180（群发价）（第 72 批 2026-10-24）；—；群发里他已看到的价（续）：2026-08-18 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-06 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：You asked at the show for the 8-copper models with fibre uplinks, so here are the two closest Marvell-based units, the 8-port PoE+ with 2 SFP and the 24-port with four 10G SFP+ uplinks, both at EXW. Which of the two should I price first? Reference: STC-28DGGPM at $84.1 / STC-424XGGPM-280W at $180 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问） A 邮箱 → info@falke-security.de（Nuri Sahin） 一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(q) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））
+- **下一步**：2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问） A 邮箱 → info@falke-security.de（Nuri Sahin） 一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(q) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -49,13 +49,15 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：STC-424XGGPM-280W / 2.5G 1 光 8 电。
 - **断点 / 为什么停在这里**：触达层。
 - **Saga 现在该推什么**：P1 **STC-424XGGPM-280W**（25% 档，锚价：STC-28DGGPM $84.1（25% 档）；STC-424XGGPM-280W $180（群发价）（第 72 批 2026-10-24）；—；群发里他已看到的价（续）：2026-08-18 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-06 $280（10G Enterprise SFP Switch））——他要的就是 STC-424XGGPM-280W + 2.5G 1 光 8 电 → 两款先定哪个先报
-- **下一步（具体）**：2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）　A 邮箱 → info@falke-security.de（Nuri Sahin）　一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(q) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））
+- **下一步（具体）**：2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）　A 邮箱 → info@falke-security.de（Nuri Sahin）　一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(q) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）
   - 第一问（只问一个）：You asked at the show for the 8-copper models with fibre uplinks, so here are the two closest Marvell-based units, the 8-port PoE+ with 2 SFP and the 24-port with four 10G SFP+ uplinks, both at EXW. Which of the two should I price first? Reference: STC-28DGGPM at $84.1 / STC-424XGGPM-280W at $180 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2025-04-15 | 去 | Saga（Alan） | 「L3 Managed Switch」——对 info@falke-security.de 的第 1 封 | 15 封 2025-04→2026-09 全发 info@，0 回、0 打开记录 | `0443766a26891554` |
+| 2025-04-15 | 去 | A 箱（Alan） | L3 Managed Switch | 首封去信（邮箱索引；去信共 15 封） | `0443766a26891554` |
 | 2026-09-24 | 去 | Saga（Alan） | 「Managed PoE Switches」——最后一封 | 公用 info@ 打了 17 个月无反应；具名 Nuri Sahin 下次直发 | `d564e14c35bc58ca` |
+| 2026-09-24 | 去 | A 箱（Alan） | Managed PoE Switches | 最近一封去信（邮箱索引；去信共 15 封） | `d564e14c35bc58ca` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：机型兴趣出处未见
 

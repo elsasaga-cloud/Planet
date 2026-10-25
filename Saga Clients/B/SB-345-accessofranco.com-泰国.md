@@ -36,7 +36,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-050GE — 在用 MaiWe MIEN2205/2208（5/8 口 L2）→ 工业 5 GE STI-050GE（$17.8 @25%）/ 8 GE STI-080GE（$32.7）；管理位 STI-288GPM；工业路由 Saga 不做。已打开的主题（1/12 封有打开记录）：「Marvell Managed Commercial Switches」(2026-03-16) → 读者兴趣主题类别不明（看原主题）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-17 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-13 $280（10G Enterprise SFP Switch）、2026-06-23 $16000（32 Port 400GB DC Switch）
 - **第一问（只问一个）**：Alongside the MaiWe MIEN2205 / MIEN2208 switches in your energy-monitoring cabinets, we supply DIN-rail 5/8-GE unmanaged and 8-PoE + 2 SFP managed units (−40~75 °C, 12–58 VDC, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your sites use most?
 - **最大未知**：具体需求型号（表内兴趣列为空）
-- **下一步**：群发节奏 A 邮箱 观察打开
+- **下一步**：群发节奏 A 邮箱 观察打开（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -47,12 +47,15 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：在用 MaiWe MIEN2205/2208（5/8 口 L2）→ 工业 5 GE STI-050GE（$17.8 @25%）/ 8 GE STI-080GE（$32.7）；管理位 STI-288GPM；工业路由 Saga 不做
 - **断点 / 为什么停在这里**：非主攻区（T5，泰国）；MaiWe（迈威，北京）既定线
 - **Saga 现在该推什么**：P1 **STI-050GE**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-17 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-13 $280（10G Enterprise SFP Switch）、2026-06-23 $16000（32 Port 400GB DC Switch））——在用 MaiWe MIEN2205/2208（5/8 口 L2）→ 工业 5 GE STI-050GE（$17.8 @25%）/ 8 GE STI-080GE（$32.7）；管理位 STI-288GPM；工业路由 Saga 不做。已打开的主题（1/12 封有打开记录）：「Marvell Managed Commercial Switches」(2026-03-16) → 读者兴趣主题类别不明（看原主题）
-- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+- **下一步（具体）**：群发节奏　A 邮箱　观察打开（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）
   - 第一问（只问一个）：Alongside the MaiWe MIEN2205 / MIEN2208 switches in your energy-monitoring cabinets, we supply DIN-rail 5/8-GE unmanaged and 8-PoE + 2 SFP managed units (−40~75 °C, 12–58 VDC, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your sites use most?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2025-10-13 | 去 | A 箱（Alan） | 10G Enterprise SFP Switch | 首封去信（邮箱索引；去信共 12 封） | `f96b0d925a6e19ca` |
+| 2026-08-17 | 去 | A 箱（Alan） | 24 Port PoE Managed Switch｜稿内价 $170 | 去信正文含价（邮箱索引） | `bf3bc46b37a11a29` |
 | 2026-09-24 | 去 | A 群发 | 10G Enterprise SFP Switch、Booster PoE Switch | 12 封 / 1 次打开 / 0 回｜首封 2025-10-13 → 末封 2026-09-24（12 去 / 0 来） | `gmail_digest` |
+| 2026-09-24 | 去 | A 箱（Alan） | Managed PoE Switches | 最近一封去信（邮箱索引；去信共 12 封） | `e6599ebb77c27855` |
 
 ## 基本事实（事实/推断/假设分层）
 

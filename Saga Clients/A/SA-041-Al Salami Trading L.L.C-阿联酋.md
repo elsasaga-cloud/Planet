@@ -38,7 +38,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-144GP — 不主动。已打开的主题（3/14 封有打开记录）：「Industrial PoE Switch」(2025-03-25)、「Re: Industrial PoE Switch」(2025-06-16)、「Re: Industrial PoE Switch」(2025-07-03) → 读者兴趣偏「工业」；与 P1 同类，继续；—；群发里他已看到的价（续）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-05-06 $300（48 Port PoE Managed Switch）、2025-10-27 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
 - **最大未知**：官网当前状态异常（超时（站慢或封锁））——公司是否仍在运营待核
-- **下一步**：不动 A 邮箱 —
+- **下一步**：不动 A 邮箱 —（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -50,13 +50,16 @@ updated: 2026-10-25
 - **断点 / 为什么停在这里**：本地化缺失（展厅/现货）；中东非主攻。
 - **Saga 现在该推什么**：P1 **STI-144GP**（25% 档，—；群发里他已看到的价（续）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-05-06 $300（48 Port PoE Managed Switch）、2025-10-27 $280（10G Enterprise SFP Switch））——不主动。已打开的主题（3/14 封有打开记录）：「Industrial PoE Switch」(2025-03-25)、「Re: Industrial PoE Switch」(2025-06-16)、「Re: Industrial PoE Switch」(2025-07-03) → 读者兴趣偏「工业」；与 P1 同类，继续
   - 做不了 / 要先核的：研究档「首单 2 台」出处——PI 包无 Al Salami
-- **下一步（具体）**：不动　A 邮箱　—
+- **下一步（具体）**：不动　A 邮箱　—（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2025-03-25 | 去 | A 箱（Alan） | Industrial PoE Switch | 首封去信（邮箱索引；去信共 14 封） | `2cc4deb941fe82c4` |
 | 2025-06-02 | 来 | 用户表（Simon 跟进记录；渠道 A） | 用户表跟进：推「22mini」→ 对方「DS」 | Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写 | `Clients/A Replied 09.04.xlsx no.7 2025.6.2` |
 | 2025-06-16 | 来 | Reyann Salazar Brosoto | Do you have datasheet for below industrial switch? And do you have any showroom location here in Dubai? | 规格 + 本地化 | `a81a527303ac3a8d` |
 | 2025-06-16 | 去 | Alan | sorry, we do not have any branch/agent in Dubai. We only ship purchased items to Dubai. | 答复 | `10ae2338468afc5d` |
+| 2025-06-16 | 来 | reyann@alsalami.com | RE: Industrial PoE Switch｜Dear Mr. Alan,     Do you have datasheet for below industrial switch?  And do you have any showroom location here in Dubai?     Best Regards,  Reyann  | 来信（邮箱索引；原文见 k；是否人工回复以原文为准） | `a81a527303ac3a8d` |
+| 2026-09-07 | 去 | A 箱（Alan） | 16 Port Industrial PoE Switch | 最近一封去信（邮箱索引；去信共 14 封） | `0168ce7da6b5c635` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：「首单仅 2 台」无 PI 证据
 

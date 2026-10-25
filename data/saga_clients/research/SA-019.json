@@ -171,7 +171,7 @@
   "next_move": {
    "when": "2027-Q1",
    "channel": "S 邮箱 → marco.divalerio@cxr.fr",
-   "action": "一句话问外采范围（第 75 批(o) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用；换人/一问口径）；10G MC $65 = Simon 2024 实报，仍按 $65）",
+   "action": "一句话问外采范围（第 75 批(o) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用；换人/一问口径）；10G MC $65 = Simon 2024 实报，仍按 $65）（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
    "one_question": "Which CXR industrial SKUs are bought-in rather than built in Abondant, and would a Marvell L2+ DIN unit be considered? Reference: STI-288DGGPM at $137.5 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
@@ -192,12 +192,100 @@
     "k": "696d6a213ad761ca"
    },
    {
+    "date": "2024-05-30",
+    "dir": "去",
+    "who": "S 箱（Simon）",
+    "quote": "10g media converter",
+    "why": "首封去信（邮箱索引；去信共 26 封）",
+    "k": "ae8dc264c029716e"
+   },
+   {
+    "date": "2024-05-30",
+    "dir": "去",
+    "who": "S 箱（Simon）",
+    "quote": "Re: 10g media converter｜稿内价 $65",
+    "why": "去信正文含价（邮箱索引）",
+    "k": "696d6a213ad761ca"
+   },
+   {
+    "date": "2024-05-30",
+    "dir": "来",
+    "who": "marco.divalerio@cxr.fr",
+    "quote": "Re: 10g media converter｜Hi Simon,  Thanks, please could you send data sheet please  Marco Di Valerio COO  Regards   Le jeu. 30 mai 2024, 11:02, Simon <s.sagatelecom@gmail.com",
+    "why": "来信（邮箱索引；原文见 k；是否人工回复以原文为准）",
+    "k": "afbdeb9d5505018c"
+   },
+   {
+    "date": "2024-05-30",
+    "dir": "去",
+    "who": "S 箱（Simon）报价",
+    "quote": "Re: 10g media converter｜ $65（原句：Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unma）",
+    "why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
+    "k": "696d6a213ad761ca"
+   },
+   {
     "date": "2024-06-25",
     "dir": "去",
     "who": "Saga（Simon）",
     "quote": "Hi, Marco, How are you? Last time we discussed 10G media converter, do you need some units for testing? And I would like to recommend a new model. This is a Marvell based layer 2 managed PoE switch. 1. Highly programmable GUI 2. 2*PoE af/at/bt+6*PoE af/at, 240W budget 3. Support DI/DO/RS485 function…",
     "why": "Saga 实质答复原文（主题「Re: 10g media converter」；第 20 批从 gmail_s 回补）——承诺/口径以此为准",
     "k": "d3deca09f7f9a22b"
+   },
+   {
+    "date": "2024-11-19",
+    "dir": "去",
+    "who": "S 箱（Simon）报价",
+    "quote": "48 Port PoE Managed Switch｜ $300（原句：*Price is very competitive, 300usd/pc*）",
+    "why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
+    "k": "4b98c00a19e0083f"
+   },
+   {
+    "date": "2025-08-27",
+    "dir": "去",
+    "who": "S 箱（Simon）",
+    "quote": "24 Port Fiber Switch｜稿内价 $240",
+    "why": "去信正文含价（邮箱索引）",
+    "k": "327a21504f3b8ee9"
+   },
+   {
+    "date": "2025-08-27",
+    "dir": "去",
+    "who": "S 箱（Simon）报价",
+    "quote": "24 Port Fiber Switch｜ $240（原句：Price: 240usd/pc）",
+    "why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
+    "k": "327a21504f3b8ee9"
+   },
+   {
+    "date": "2025-10-29",
+    "dir": "去",
+    "who": "S 箱（Simon）报价",
+    "quote": "10G Enterprise SFP Switch｜ $280（原句：It is a price-competitive aggregation switch(280usd/pc)）",
+    "why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
+    "k": "a93909c35addd96e"
+   },
+   {
+    "date": "2026-07-20",
+    "dir": "去",
+    "who": "S 箱（Simon）报价",
+    "quote": "24 Port 10G SFP+ Switch｜ $1500（原句：*Price: 1500USD/PC*）",
+    "why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
+    "k": "00f989b452b62e8b"
+   },
+   {
+    "date": "2026-09-08",
+    "dir": "去",
+    "who": "S 箱（Simon）",
+    "quote": "24 Port PoE Managed Switch",
+    "why": "最近一封去信（邮箱索引；去信共 26 封）",
+    "k": "31c3846e3e090787"
+   },
+   {
+    "date": "2026-09-08",
+    "dir": "去",
+    "who": "S 箱（Simon）报价",
+    "quote": "24 Port PoE Managed Switch｜ $170（原句：*Price: 170USD/PC*）",
+    "why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
+    "k": "31c3846e3e090787"
    }
   ],
   "proof_gaps": [],

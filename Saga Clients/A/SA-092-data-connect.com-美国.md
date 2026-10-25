@@ -38,7 +38,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-110GE MC 对位表 — 换渠道。已打开的主题（1/27 封有打开记录）：「10G media converter」(2024-08-24) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续；换人再触锚价 STI-110GE $26.5 EXW（最近实报 SA-001 2025-11-27 $26.5（㉕）；第 72 批 2026-10-24）；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-12-11 $300（48 Port PoE Managed Switch）、2026-10-02 $180（24 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-08-24 $65（10G Media Converter）、2025-09-22 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Which of the DCE media-converter SKUs is sourced in Asia today, and what would a second source need to match? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：2027-Q1 LinkedIn / 官网表单 一次对位表（第 75 批(q) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；LinkedIn/表单短版）
+- **下一步**：2027-Q1 LinkedIn / 官网表单 一次对位表（第 75 批(q) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；LinkedIn/表单短版）（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -50,12 +50,19 @@ updated: 2026-10-25
 - **断点 / 为什么停在这里**：触达问题，不是需求问题；频率无用。
 - **Saga 现在该推什么**：P1 **STI-110GE MC 对位表**（30% 档，换人再触锚价 STI-110GE $26.5 EXW（最近实报 SA-001 2025-11-27 $26.5（㉕）；第 72 批 2026-10-24）；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-12-11 $300（48 Port PoE Managed Switch）、2026-10-02 $180（24 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-08-24 $65（10G Media Converter）、2025-09-22 $280（10G Enterprise SFP Switch））——换渠道。已打开的主题（1/27 封有打开记录）：「10G media converter」(2024-08-24) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续
   - 做不了 / 要先核的：DCE 产品经理联系人
-- **下一步（具体）**：2027-Q1　LinkedIn / 官网表单　一次对位表（第 75 批(q) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；LinkedIn/表单短版）
+- **下一步（具体）**：2027-Q1　LinkedIn / 官网表单　一次对位表（第 75 批(q) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；LinkedIn/表单短版）（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）
   - 第一问（只问一个）：Which of the DCE media-converter SKUs is sourced in Asia today, and what would a second source need to match? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2024-08-24 | 来 | Nate Cline（Alpha Net，抄送 DCE） | Yes, I would like to learn more about your 10G media converter… | 误归属说明 | `6350a98e7dcd08eb` |
+| 2024-08-24 | 去 | S 箱（Simon） | 10G media converter | 首封去信（邮箱索引；去信共 27 封） | `1d40fa686d57be9b` |
+| 2024-08-24 | 去 | S 箱（Simon） | 10G media converter｜稿内价 $65 | 去信正文含价（邮箱索引） | `1d40fa686d57be9b` |
+| 2024-08-24 | 来 | nate.cline@alphanetcom.com | RE: 10G media converter｜Hi Simon,     Yes, I would like to learn more about your 10G media converter.     Can you send me a price list and I want to ask if I can buy from you | 来信（邮箱索引；原文见 k；是否人工回复以原文为准） | `6350a98e7dcd08eb` |
+| 2024-08-24 | 去 | S 箱（Simon）报价 | 10G media converter｜ $65（原句：Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unma） | S 邮箱报价史（规则 ㉕ ① 自报价优先） | `1d40fa686d57be9b` |
+| 2024-12-11 | 去 | S 箱（Simon）报价 | 48 Port PoE Managed Switch｜ $300（原句：*Price is very competitive, 300usd/pc*） | S 邮箱报价史（规则 ㉕ ① 自报价优先） | `654b21b6912a9b67` |
+| 2026-10-02 | 去 | S 箱（Simon） | 24 Port PoE Managed Switch | 最近一封去信（邮箱索引；去信共 27 封） | `481d052423caa372` |
+| 2026-10-02 | 去 | S 箱（Simon）报价 | 24 Port PoE Managed Switch｜ $180（原句：*Price: 180USD/PC*） | S 邮箱报价史（规则 ㉕ ① 自报价优先） | `481d052423caa372` |
 
 ## 基本事实（事实/推断/假设分层）
 

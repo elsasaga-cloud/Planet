@@ -1803,10 +1803,18 @@
 "next_move": {
 "when": "按 WA 节奏",
 "channel": "WhatsApp",
-"action": "WhatsApp 一句话（第 75 批(r) 2026-10-25：WhatsApp 一句话版已写 `draft_en`（Simon 按 WA 节奏自发））",
+"action": "WhatsApp 一句话（第 75 批(r) 2026-10-25：WhatsApp 一句话版已写 `draft_en`（Simon 按 WA 节奏自发））（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
 "one_question": "Which of the two 24-port configs (4×SFP / 2×SFP) did the price land for, and is the project still live?"
 },
 "facts": [
+{
+"date": "2025-03-19",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "48 Port PoE Managed Switch",
+"why": "首封去信（邮箱索引；去信共 16 封）",
+"k": "bdfae7d60ad9d6fc"
+},
 {
 "date": "2025-05-29",
 "dir": "去",
@@ -1814,6 +1822,14 @@
 "quote": "「Mini Industrial PoE Switch」被打开（Mailtrack Opened 标签）",
 "why": "唯一的互动痕迹",
 "k": "66ef1c3d2c1a5e08"
+},
+{
+"date": "2026-09-14",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "16 Port Industrial PoE Switch",
+"why": "最近一封去信（邮箱索引；去信共 16 封）",
+"k": "f6c64abd03bd5dab"
 }
 ],
 "proof_gaps": [
@@ -2565,7 +2581,7 @@
 "next_move": {
 "when": "2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）",
 "channel": "A 邮箱 → boecek@（先核地址是否有效；无具名 KP）",
-"action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(o) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用；换人/一问口径）；钩子「CLI」不写——未核实）",
+"action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(o) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用；换人/一问口径）；钩子「CLI」不写——未核实）（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
 "one_question": "Since you took the 5-port industrial samples with the DIN power supply, the natural next step is the 8-port managed DIN unit with CLI and the 4+1 PoE version, both quoted EXW so the freight and import-duty side is transparent. Are the 5-port samples still in service, and is the 8-port managed DIN unit worth a current quote? Reference: STI-288GPM at $82.2 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
@@ -2578,11 +2594,35 @@
 "k": "f5b9385c457b416c"
 },
 {
+"date": "2025-04-14",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "16 Port Ethernet Switch",
+"why": "首封去信（邮箱索引；去信共 15 封）",
+"k": "f5b9385c457b416c"
+},
+{
+"date": "2026-08-18",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "24 Port PoE Managed Switch｜稿内价 $170",
+"why": "去信正文含价（邮箱索引）",
+"k": "3711c54c803677ad"
+},
+{
 "date": "2026-09-23",
 "dir": "去",
 "who": "Saga（Alan）",
 "quote": "「Managed PoE Switches」——最后一封群发，仍是 boecek@ 公用地址",
 "why": "同一地址打了 17 个月；换人（找具名采购）比再发更有用",
+"k": "7c09d3b669698238"
+},
+{
+"date": "2026-09-23",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "Managed PoE Switches",
+"why": "最近一封去信（邮箱索引；去信共 15 封）",
 "k": "7c09d3b669698238"
 }
 ],
@@ -5331,7 +5371,7 @@
 "next_move": {
 "when": "按 WA 节奏",
 "channel": "WhatsApp",
-"action": "WhatsApp（用 one_question 这句，WhatsApp 直接发，不附资料）（第 75 批(r) 2026-10-25：WhatsApp 一句话版已写 `draft_en`（Simon 按 WA 节奏自发）；DAP 报价须 Simon 按百运网实算后再发）",
+"action": "WhatsApp（用 one_question 这句，WhatsApp 直接发，不附资料）（第 75 批(r) 2026-10-25：WhatsApp 一句话版已写 `draft_en`（Simon 按 WA 节奏自发）；DAP 报价须 Simon 按百运网实算后再发）（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
 "one_question": "For the camera closets in your VMS projects, the Marvell-based 8-port gigabit PoE+ managed switch with 2 SFP and the 4+1 industrial DIN unit for outdoor cabinets are the two I am quoting EXW."
 },
 "facts": [
@@ -5358,6 +5398,22 @@
 "quote": "用户表跟进：推「4 8口工业FS」→ 对方「price list」",
 "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
 "k": "Clients/A/DONE/South Africa 2.5.xlsx no.37 2024.8.13"
+},
+{
+"date": "2026-08-07",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "24 Port PoE Managed Switch",
+"why": "首封去信（邮箱索引；去信共 2 封）",
+"k": "710d157e75764365"
+},
+{
+"date": "2026-10-06",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "Managed PoE Switches",
+"why": "最近一封去信（邮箱索引；去信共 2 封）",
+"k": "6f3a2dd5db0ba500"
 }
 ],
 "proof_gaps": [
@@ -8309,10 +8365,34 @@
 "next_move": {
 "when": "2026-11",
 "channel": "A 邮箱 → info@coptek.com.tr（+ WA 若有）",
-"action": "一封对位表 + 问 100 台询盘（第 76 批(c) 2026-10-25：audit_ab 软项修正：署名「Alan Yan」→「Alan」（A 箱实际署名））（第 76 批(c) 2026-10-25：audit_ab 软项修正：土耳其语整稿 → 英文稿）",
+"action": "一封对位表 + 问 100 台询盘（第 76 批(c) 2026-10-25：audit_ab 软项修正：署名「Alan Yan」→「Alan」（A 箱实际署名））（第 76 批(c) 2026-10-25：audit_ab 软项修正：土耳其语整稿 → 英文稿）（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
 "one_question": "Is the 100-unit industrial fiber-switch requirement (2×SFP + 8×GE) still open, and what spec sheet did the other vendor win on?"
 },
 "facts": [
+{
+"date": "2024-07-08",
+"dir": "去",
+"who": "S 箱（Simon）",
+"quote": "Passive PoE Switch",
+"why": "首封去信（邮箱索引；去信共 17 封）",
+"k": "51e9a64c23e3ef38"
+},
+{
+"date": "2024-08-06",
+"dir": "去",
+"who": "S 箱（Simon）",
+"quote": "10G fiber media converter｜稿内价 $65",
+"why": "去信正文含价（邮箱索引）",
+"k": "04d870a68af9ad7f"
+},
+{
+"date": "2024-08-06",
+"dir": "去",
+"who": "S 箱（Simon）报价",
+"quote": "10G fiber media converter｜ $65（原句：Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unma）",
+"why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
+"k": "04d870a68af9ad7f"
+},
 {
 "date": "2024-11-05",
 "dir": "去",
@@ -8328,6 +8408,14 @@
 "quote": "「Industrial PoE Switch」被打开（Mailtrack Opened 标签）",
 "why": "唯一的互动痕迹",
 "k": "04dd529092533295"
+},
+{
+"date": "2026-08-31",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "24 Port PoE Managed Switch｜稿内价 $170",
+"why": "去信正文含价（邮箱索引）",
+"k": "9bee2f0150574ce7"
 },
 {
 "date": "2026-10-06",
@@ -11202,7 +11290,7 @@
 "next_move": {
 "when": "2027-Q1",
 "channel": "S 邮箱 → marco.divalerio@cxr.fr",
-"action": "一句话问外采范围（第 75 批(o) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用；换人/一问口径）；10G MC $65 = Simon 2024 实报，仍按 $65）",
+"action": "一句话问外采范围（第 75 批(o) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用；换人/一问口径）；10G MC $65 = Simon 2024 实报，仍按 $65）（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
 "one_question": "Which CXR industrial SKUs are bought-in rather than built in Abondant, and would a Marvell L2+ DIN unit be considered? Reference: STI-288DGGPM at $137.5 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
@@ -11223,12 +11311,100 @@
 "k": "696d6a213ad761ca"
 },
 {
+"date": "2024-05-30",
+"dir": "去",
+"who": "S 箱（Simon）",
+"quote": "10g media converter",
+"why": "首封去信（邮箱索引；去信共 26 封）",
+"k": "ae8dc264c029716e"
+},
+{
+"date": "2024-05-30",
+"dir": "去",
+"who": "S 箱（Simon）",
+"quote": "Re: 10g media converter｜稿内价 $65",
+"why": "去信正文含价（邮箱索引）",
+"k": "696d6a213ad761ca"
+},
+{
+"date": "2024-05-30",
+"dir": "来",
+"who": "marco.divalerio@cxr.fr",
+"quote": "Re: 10g media converter｜Hi Simon,  Thanks, please could you send data sheet please  Marco Di Valerio COO  Regards   Le jeu. 30 mai 2024, 11:02, Simon <s.sagatelecom@gmail.com",
+"why": "来信（邮箱索引；原文见 k；是否人工回复以原文为准）",
+"k": "afbdeb9d5505018c"
+},
+{
+"date": "2024-05-30",
+"dir": "去",
+"who": "S 箱（Simon）报价",
+"quote": "Re: 10g media converter｜ $65（原句：Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unma）",
+"why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
+"k": "696d6a213ad761ca"
+},
+{
 "date": "2024-06-25",
 "dir": "去",
 "who": "Saga（Simon）",
 "quote": "Hi, Marco, How are you? Last time we discussed 10G media converter, do you need some units for testing? And I would like to recommend a new model. This is a Marvell based layer 2 managed PoE switch. 1. Highly programmable GUI 2. 2*PoE af/at/bt+6*PoE af/at, 240W budget 3. Support DI/DO/RS485 function…",
 "why": "Saga 实质答复原文（主题「Re: 10g media converter」；第 20 批从 gmail_s 回补）——承诺/口径以此为准",
 "k": "d3deca09f7f9a22b"
+},
+{
+"date": "2024-11-19",
+"dir": "去",
+"who": "S 箱（Simon）报价",
+"quote": "48 Port PoE Managed Switch｜ $300（原句：*Price is very competitive, 300usd/pc*）",
+"why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
+"k": "4b98c00a19e0083f"
+},
+{
+"date": "2025-08-27",
+"dir": "去",
+"who": "S 箱（Simon）",
+"quote": "24 Port Fiber Switch｜稿内价 $240",
+"why": "去信正文含价（邮箱索引）",
+"k": "327a21504f3b8ee9"
+},
+{
+"date": "2025-08-27",
+"dir": "去",
+"who": "S 箱（Simon）报价",
+"quote": "24 Port Fiber Switch｜ $240（原句：Price: 240usd/pc）",
+"why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
+"k": "327a21504f3b8ee9"
+},
+{
+"date": "2025-10-29",
+"dir": "去",
+"who": "S 箱（Simon）报价",
+"quote": "10G Enterprise SFP Switch｜ $280（原句：It is a price-competitive aggregation switch(280usd/pc)）",
+"why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
+"k": "a93909c35addd96e"
+},
+{
+"date": "2026-07-20",
+"dir": "去",
+"who": "S 箱（Simon）报价",
+"quote": "24 Port 10G SFP+ Switch｜ $1500（原句：*Price: 1500USD/PC*）",
+"why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
+"k": "00f989b452b62e8b"
+},
+{
+"date": "2026-09-08",
+"dir": "去",
+"who": "S 箱（Simon）",
+"quote": "24 Port PoE Managed Switch",
+"why": "最近一封去信（邮箱索引；去信共 26 封）",
+"k": "31c3846e3e090787"
+},
+{
+"date": "2026-09-08",
+"dir": "去",
+"who": "S 箱（Simon）报价",
+"quote": "24 Port PoE Managed Switch｜ $170（原句：*Price: 170USD/PC*）",
+"why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
+"k": "31c3846e3e090787"
 }
 ],
 "proof_gaps": [],
@@ -11732,7 +11908,7 @@
 "next_move": {
 "when": "2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）",
 "channel": "A 邮箱 → thawat@widen.co.th（具名但 27 封 0 回、0 打开——先核地址是否还活；不活就在 widen.co.th 找第二个人）",
-"action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(o) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用；换人/一问口径））",
+"action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(o) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用；换人/一问口径））（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
 "one_question": "Your WIDEN industrial PoE converters are still 10/100 on the 4- and 8-port versions, so the gigabit 8-port DIN unit with two SFP uplinks in WIDEN packing is the obvious next SKU, and I can quote it together with the gigabit SFP converter you already brand. Shall I quote the gigabit 8-port PoE DIN unit with 2 SFP in WIDEN packing together with the gigabit SFP converter you already brand? Reference: STI-288GP at $60 / STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
@@ -11745,11 +11921,43 @@
 "k": "b43d00bf4155c428"
 },
 {
+"date": "2024-06-24",
+"dir": "去",
+"who": "S 箱（Simon）",
+"quote": "5 port industrial switch",
+"why": "首封去信（邮箱索引；去信共 27 封）",
+"k": "b43d00bf4155c428"
+},
+{
+"date": "2024-12-17",
+"dir": "去",
+"who": "S 箱（Simon）报价",
+"quote": "48 Port PoE Managed Switch｜ $300（原句：*Price is very competitive, 300usd/pc*）",
+"why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
+"k": "e0d09f1b5653a95f"
+},
+{
+"date": "2025-02-03",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "24 Port Fiber Switch｜稿内价 $240",
+"why": "去信正文含价（邮箱索引）",
+"k": "1f829f9328c49ed2"
+},
+{
 "date": "2026-09-28",
 "dir": "去",
 "who": "Saga（Alan）",
 "quote": "「Managed PoE Switches」——最后一封群发",
 "why": "thawat@ 是具名地址但两年不回 → 要么地址死了要么人不对；先核再换人",
+"k": "f68e0de76ea765a6"
+},
+{
+"date": "2026-09-28",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "Managed PoE Switches",
+"why": "最近一封去信（邮箱索引；去信共 27 封）",
 "k": "f68e0de76ea765a6"
 }
 ],
@@ -12243,10 +12451,34 @@
 "next_move": {
 "when": "2027-Q1",
 "channel": "S 邮箱 → johnson@",
-"action": "一句话问 2.5G 线是否仍外采（第 75 批(o) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用；换人/一问口径）；2.5G PoE 版（STC-108XGDGP）今价未核，信里写 on request）",
+"action": "一句话问 2.5G 线是否仍外采（第 75 批(o) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用；换人/一问口径）；2.5G PoE 版（STC-108XGDGP）今价未核，信里写 on request）（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
 "one_question": "Is the 8×2.5G + 10G SFP class still outsourced at ALFA, and what certification file do you need from a supplier before a sample? Reference: STC-18XGDGE at $50.1 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
+{
+"date": "2024-06-26",
+"dir": "去",
+"who": "S 箱（Simon）",
+"quote": "Industrial poe switch",
+"why": "首封去信（邮箱索引；去信共 26 封）",
+"k": "c9f3259296f7e835"
+},
+{
+"date": "2024-07-22",
+"dir": "去",
+"who": "S 箱（Simon）",
+"quote": "10G fiber media converter｜稿内价 $65",
+"why": "去信正文含价（邮箱索引）",
+"k": "aeadae1ed076a531"
+},
+{
+"date": "2024-07-22",
+"dir": "去",
+"who": "S 箱（Simon）报价",
+"quote": "10G fiber media converter｜ $65（原句：Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unma）",
+"why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
+"k": "aeadae1ed076a531"
+},
 {
 "date": "2024-08-15",
 "dir": "来",
@@ -12264,12 +12496,108 @@
 "k": "1d7b74c6c5e4034f"
 },
 {
+"date": "2024-08-15",
+"dir": "去",
+"who": "S 箱（Simon）",
+"quote": "Re: 2.5G network switch｜稿内价 $50",
+"why": "去信正文含价（邮箱索引）",
+"k": "1d7b74c6c5e4034f"
+},
+{
+"date": "2024-08-15",
+"dir": "来",
+"who": "johnson@alfa.com.tw",
+"quote": "RE: 2.5G network switch｜Hello, Simon     Please provide your company information.   And what’s the price for non-PoE and PoE model.  Thank you     Johnson ALFA NETWORK Inc. W",
+"why": "来信（邮箱索引；原文见 k；是否人工回复以原文为准）",
+"k": "a3c986b6ffa372aa"
+},
+{
+"date": "2024-08-15",
+"dir": "去",
+"who": "S 箱（Simon）报价",
+"quote": "Re: 2.5G network switch｜STC-18XGDGE $50（原句：non-PoE model, 50Usd/pc）",
+"why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
+"k": "1d7b74c6c5e4034f"
+},
+{
+"date": "2024-08-15",
+"dir": "去",
+"who": "S 箱（Simon）报价",
+"quote": "Re: 2.5G network switch｜STC-18XGDGE $65（原句：PoE model, 65usd/pc）",
+"why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
+"k": "1d7b74c6c5e4034f"
+},
+{
+"date": "2024-12-11",
+"dir": "去",
+"who": "S 箱（Simon）报价",
+"quote": "48 Port PoE Managed Switch｜ $300（原句：*Price is very competitive, 300usd/pc*）",
+"why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
+"k": "f8d0149031fb24a1"
+},
+{
+"date": "2025-01-06",
+"dir": "去",
+"who": "S 箱（Simon）",
+"quote": "24 Port Fiber Switch｜稿内价 $240",
+"why": "去信正文含价（邮箱索引）",
+"k": "fd39a313fd38118a"
+},
+{
+"date": "2025-01-06",
+"dir": "去",
+"who": "S 箱（Simon）报价",
+"quote": "24 Port Fiber Switch｜ $240（原句：Price: 240usd/pc）",
+"why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
+"k": "fd39a313fd38118a"
+},
+{
 "date": "2025-07-28",
 "dir": "来",
 "who": "sandy_chien@alfa.com.tw",
 "quote": "Thanks With Best Regards, SANDY CHIEN 誠釱科技股份有限公司 台北市114內湖區瑞光路106號4樓之1 TEL: (02)2796-8477 # 332 FAX: (02)2796-8478 Web: www.alfa.com.tw <https://apc01.",
 "why": "来信原文（主题「Re: 16 Port Ethernet Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
 "k": "f8c4407a865d3647"
+},
+{
+"date": "2025-07-28",
+"dir": "来",
+"who": "sandy_chien@alfa.com.tw",
+"quote": "Re: 16 Port Ethernet Switch｜Thanks With Best Regards,   SANDY CHIEN  誠釱科技股份有限公司 台北市114內湖區瑞光路106號4樓之1 TEL: (02)2796-8477 # 332 FAX: (02)2796-8478 Web: www.alfa.com.tw <https://apc",
+"why": "来信（邮箱索引；原文见 k；是否人工回复以原文为准）",
+"k": "f8c4407a865d3647"
+},
+{
+"date": "2025-10-29",
+"dir": "去",
+"who": "S 箱（Simon）报价",
+"quote": "10G Enterprise SFP Switch｜ $280（原句：It is a price-competitive aggregation switch(280usd/pc)）",
+"why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
+"k": "2cc3b444c4714d74"
+},
+{
+"date": "2026-07-20",
+"dir": "去",
+"who": "S 箱（Simon）报价",
+"quote": "24 Port 10G SFP+ Switch｜ $1500（原句：*Price: 1500USD/PC*）",
+"why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
+"k": "b6adec4516d15445"
+},
+{
+"date": "2026-09-08",
+"dir": "去",
+"who": "S 箱（Simon）",
+"quote": "24 Port PoE Managed Switch",
+"why": "最近一封去信（邮箱索引；去信共 26 封）",
+"k": "416daea2221fc20d"
+},
+{
+"date": "2026-09-08",
+"dir": "去",
+"who": "S 箱（Simon）报价",
+"quote": "24 Port PoE Managed Switch｜ $170（原句：*Price: 170USD/PC*）",
+"why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
+"k": "416daea2221fc20d"
 }
 ],
 "proof_gaps": [],
@@ -15969,7 +16297,7 @@
 "next_move": {
 "when": "2027-Q1（之前只保活）；或 2027-05 Computex 期间当面",
 "channel": "S 邮箱 → zerwes@allnet.de",
-"action": "一句话问其工业线最难采购的 SKU（第 75 批(o) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用；换人/一问口径）；无价、只一问（对方已明说有方案））",
+"action": "一句话问其工业线最难采购的 SKU（第 75 批(o) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用；换人/一问口径）；无价、只一问（对方已明说有方案））（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
 "one_question": "Which SKU in the ALLNET industrial line is hardest to source today — lead time or price? Reference: STI-288DGGPM at $137.5 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
@@ -15982,12 +16310,68 @@
 "k": "3bed67df76fec9ba"
 },
 {
+"date": "2024-06-04",
+"dir": "来",
+"who": "zerwes@allnet.de",
+"quote": "Automatische Antwort: 10G media converter｜Sehr geehrte Partner,  vielen Dank f?r Ihre Email. Ich bin vom 24.05.2024 bis einschl. 23.06.24 auf Gesch?ftsreise in Asien mit Messe in Taiwan \"Compu",
+"why": "自动回复/退信/工单（机器，不算人工回复）",
+"k": "3bed67df76fec9ba"
+},
+{
+"date": "2024-07-03",
+"dir": "去",
+"who": "S 箱（Simon）",
+"quote": "24 port managed switch",
+"why": "首封去信（邮箱索引；去信共 21 封）",
+"k": "8c23e12b3ebab7af"
+},
+{
+"date": "2024-08-05",
+"dir": "来",
+"who": "zerwes@allnet.de",
+"quote": "Automatische Antwort: 48 port managed switch｜Sehr geehrte Partner,  vielen Dank f?r Ihre Email. Ich bin vom 26.07.2024 bis einschl. 09.08.24 im Urlaub.  Ihre Email wird in der zwischenzeit nicht ",
+"why": "自动回复/退信/工单（机器，不算人工回复）",
+"k": "2f53ef9e4553a91a"
+},
+{
+"date": "2024-08-05",
+"dir": "去",
+"who": "S 箱（Simon）报价",
+"quote": "48 port managed switch｜ $220（原句：Price is very competitive, 220usd/pc）",
+"why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
+"k": "345bbc1b97f18eb4"
+},
+{
 "date": "2025-07-10",
 "dir": "来",
 "who": "Gerhard Zerwes",
 "quote": "sorry we have our solution with SFP Slots and Managed Versions.",
 "why": "停点原话",
 "k": "27176790332e9c58"
+},
+{
+"date": "2025-07-10",
+"dir": "来",
+"who": "zerwes@allnet.de",
+"quote": "AW: 16 Port Ethernet Switch｜Hallo Alan,  sorry we have our solution with SFP Slots and Managed Versions.  Thanks Gerhard  Von: Alan from Saga Telecom <a.sagatelecom@gmail.com> Ge",
+"why": "来信（邮箱索引；原文见 k；是否人工回复以原文为准）",
+"k": "27176790332e9c58"
+},
+{
+"date": "2026-10-08",
+"dir": "去",
+"who": "S 箱（Simon）",
+"quote": "24 Port PoE Managed Switch",
+"why": "最近一封去信（邮箱索引；去信共 21 封）",
+"k": "15f87700ebc70348"
+},
+{
+"date": "2026-10-08",
+"dir": "去",
+"who": "S 箱（Simon）报价",
+"quote": "24 Port PoE Managed Switch｜ $180（原句：*Price: 180USD/PC*）",
+"why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
+"k": "15f87700ebc70348"
 }
 ],
 "proof_gaps": [],
@@ -16799,10 +17183,42 @@
 "next_move": {
 "when": "2027-Q1",
 "channel": "A 邮箱 → tjargielo@ / ahyz@",
-"action": "一句话问其外采的非核心 SKU（第 75 批(o) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用；换人/一问口径））（第 76 批(b) 2026-10-25：audit_ab 硬错误修正：同款群发价 $170→$180 补汇率说明（㉟））",
+"action": "一句话问其外采的非核心 SKU（第 75 批(o) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用；换人/一问口径））（第 76 批(b) 2026-10-25：audit_ab 硬错误修正：同款群发价 $170→$180 补汇率说明（㉟））（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
 "one_question": "Which part of the BitStream catalogue is bought-in today (unmanaged DIN, MC, SFP), and would an externally sourced unmanaged DIN line (and a Marvell L2+ managed tier above it) be considered? Reference: STI-244GP at $35 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
+{
+"date": "2024-06-24",
+"dir": "去",
+"who": "S 箱（Simon）",
+"quote": "industrial PoE Switch",
+"why": "首封去信（邮箱索引；去信共 20 封）",
+"k": "22105ed97d7fc03d"
+},
+{
+"date": "2024-08-17",
+"dir": "去",
+"who": "S 箱（Simon）",
+"quote": "10G media converter｜稿内价 $65",
+"why": "去信正文含价（邮箱索引）",
+"k": "5a4481b7a50bac3f"
+},
+{
+"date": "2024-08-17",
+"dir": "去",
+"who": "S 箱（Simon）报价",
+"quote": "10G media converter｜ $65（原句：Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unma）",
+"why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
+"k": "5a4481b7a50bac3f"
+},
+{
+"date": "2024-11-22",
+"dir": "去",
+"who": "S 箱（Simon）报价",
+"quote": "48 Port PoE Managed Switch｜ $300（原句：*Price is very competitive, 300usd/pc*）",
+"why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
+"k": "4c3cbe3a33e8be4e"
+},
 {
 "date": "2025-01-30",
 "dir": "来",
@@ -16818,6 +17234,38 @@
 "quote": "140usd/pc STI-288DGGPM-2BT… L3 managed version si also available",
 "why": "报价后停",
 "k": "627139dd3ba20af7"
+},
+{
+"date": "2025-01-30",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "Re: 90W PoE Managed Switch｜稿内价 $140",
+"why": "去信正文含价（邮箱索引）",
+"k": "627139dd3ba20af7"
+},
+{
+"date": "2025-01-30",
+"dir": "来",
+"who": "ksurowiec@bitstream.pl",
+"quote": "Re: 90W PoE Managed Switch｜What is the price?  -- Pozdrawiam,    *Katarzyna Surowiec*Asystentka Zarządu  *Phone* +48 81 743 86 43 *Web* www.bitstream.pl *Email* ksurowiec@bitstr",
+"why": "来信（邮箱索引；原文见 k；是否人工回复以原文为准）",
+"k": "ab20a2586535bf26"
+},
+{
+"date": "2026-08-11",
+"dir": "来",
+"who": "ahyz@bitstream.pl",
+"quote": "Nieobecność Re: 24 Port PoE Managed Switch｜W dniach 07-21.08.2026 jestem na urlopie. W sprawach pilnych proszę kontaktować się z Tomaszem Jargieło na adres mailowy tjargielo@bitstream.pl  --   ",
+"why": "来信（邮箱索引；原文见 k；是否人工回复以原文为准）",
+"k": "97cffda9f4680ebc"
+},
+{
+"date": "2026-09-07",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "16 Port Industrial PoE Switch",
+"why": "最近一封去信（邮箱索引；去信共 20 封）",
+"k": "559de04d8706b132"
 }
 ],
 "proof_gaps": [],
@@ -18032,10 +18480,26 @@
 "next_move": {
 "when": "群发节奏",
 "channel": "A 邮箱",
-"action": "观察打开",
+"action": "观察打开（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
 "one_question": "For the X-104GP-SFP slot in your shop, the 4-PoE + SFP DIN unit with 12–48 V input can ship in X- packing at $36.9 EXW; shall I send the label template for the next batch?"
 },
 "facts": [
+{
+"date": "2025-01-09",
+"dir": "去",
+"who": "S 箱（Simon）",
+"quote": "Industrial PoE Switch",
+"why": "首封去信（邮箱索引；去信共 19 封）",
+"k": "f9c2730704c47a24"
+},
+{
+"date": "2026-08-26",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "24 Port PoE Managed Switch｜稿内价 $170",
+"why": "去信正文含价（邮箱索引）",
+"k": "ac6842823b7be828"
+},
 {
 "date": "2026-10-01",
 "dir": "去",
@@ -18043,6 +18507,14 @@
 "quote": "Managed Optical Bypass Switch、Marvell Industrial Alert System",
 "why": "19 封 / 0 次打开 / 0 回｜首封 2025-01-09 → 末封 2026-10-01（19 去 / 0 来）",
 "k": "gmail_digest"
+},
+{
+"date": "2026-10-01",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "Managed PoE Switches",
+"why": "最近一封去信（邮箱索引；去信共 19 封）",
+"k": "8043fdc32c6bc899"
 }
 ],
 "proof_gaps": [],
@@ -18977,7 +19449,7 @@
 "next_move": {
 "when": "2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）",
 "channel": "A 邮箱 → matt@addoncomputer.com",
-"action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(o) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用；换人/一问口径）；「200 台 10–15 天」是对外承诺，发前 Simon 自己确认交期）",
+"action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(o) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用；换人/一问口径）；「200 台 10–15 天」是对外承诺，发前 Simon 自己确认交期）（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
 "one_question": "On the ADD-GMC-SFP class gigabit converter we can now commit a firm 10–15 day lead time from order for the first 200 units, which was the point that stalled things after the six samples. Is the gigabit SFP converter still sourced externally, and shall I hold that lead time with a current EXW quote? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
@@ -18990,11 +19462,35 @@
 "k": "d4c6d5fe4ffb46a9"
 },
 {
+"date": "2025-04-02",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "90W PoE Managed Switch",
+"why": "首封去信（邮箱索引；去信共 33 封）",
+"k": "d4c6d5fe4ffb46a9"
+},
+{
+"date": "2025-04-02",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "10G Media Converter｜稿内价 $65",
+"why": "去信正文含价（邮箱索引）",
+"k": "40ee0efb805e335c"
+},
+{
 "date": "2026-08-31",
 "dir": "去",
 "who": "Saga（Alan）",
 "quote": "「24 Port PoE Managed Switch」——最后一封，发 anthony.giunta@ + tyler.griffey@",
 "why": "AddOn 是光模块/线缆大厂，群发主题（24 口 PoE）与其 MC 补源需求不对口 → 下一封只谈 SFP 转换器交期",
+"k": "9a4cd7f8c26980fe"
+},
+{
+"date": "2026-08-31",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "24 Port PoE Managed Switch",
+"why": "最近一封去信（邮箱索引；去信共 33 封）",
 "k": "9a4cd7f8c26980fe"
 }
 ],
@@ -19387,10 +19883,18 @@
 "next_move": {
 "when": "2027-Q1",
 "channel": "A 邮箱 → info@fcnet.pl",
-"action": "一句话问管理型 PoE 的来源（第 75 批(p) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））",
+"action": "一句话问管理型 PoE 的来源（第 75 批(p) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
 "one_question": "For managed PoE switches (not MC), who is your current source and what is the gap you would switch for? Reference: STC-424DGGPM-280W at $134.5 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
+{
+"date": "2025-02-04",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "L3 Managed Switch",
+"why": "首封去信（邮箱索引；去信共 24 封）",
+"k": "e78dd839307d2620"
+},
 {
 "date": "2025-04-18",
 "dir": "来",
@@ -19408,12 +19912,52 @@
 "k": "9e557e84dc8bdbf1"
 },
 {
+"date": "2025-04-18",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "10G Media Converter｜稿内价 $65",
+"why": "去信正文含价（邮箱索引）",
+"k": "1ec7c5f774ee3065"
+},
+{
+"date": "2025-04-18",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "Re: 10G Media Converter｜稿内价 $65",
+"why": "去信正文含价（邮箱索引）",
+"k": "9e557e84dc8bdbf1"
+},
+{
+"date": "2025-04-18",
+"dir": "来",
+"who": "info@fcnet.pl",
+"quote": "Re: 10G Media Converter｜And the price is ?    Pozdrawiam / Best regards  FCNET sp. z o.o. | ul. Św. Jacka 2 45-073 Opole t: +48 775-418-475 | e-mail info@fcnet.pl NIP: 754291",
+"why": "来信（邮箱索引；原文见 k；是否人工回复以原文为准）",
+"k": "5f2f240aad79e90d"
+},
+{
 "date": "2025-04-22",
 "dir": "来",
 "who": "FCNET",
 "quote": "We have much better price for this product from different supplier.",
 "why": "价格流停点",
 "k": "34b75cab2668542d"
+},
+{
+"date": "2025-04-22",
+"dir": "来",
+"who": "info@fcnet.pl",
+"quote": "Re: 10G Media Converter｜We have much better price for this product from different supplier.    Pozdrawiam / Best regards  FCNET sp. z o.o. | ul. Św. Jacka 2 45-073 Opole t: +",
+"why": "来信（邮箱索引；原文见 k；是否人工回复以原文为准）",
+"k": "34b75cab2668542d"
+},
+{
+"date": "2026-09-28",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "Managed PoE Switches",
+"why": "最近一封去信（邮箱索引；去信共 24 封）",
+"k": "03690d2c8c5731ec"
 }
 ],
 "proof_gaps": [],
@@ -21190,10 +21734,18 @@
 "next_move": {
 "when": "不动",
 "channel": "A 邮箱",
-"action": "—",
+"action": "—（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
 "one_question": ""
 },
 "facts": [
+{
+"date": "2025-03-25",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "Industrial PoE Switch",
+"why": "首封去信（邮箱索引；去信共 14 封）",
+"k": "2cc4deb941fe82c4"
+},
 {
 "date": "2025-06-02",
 "dir": "来",
@@ -21217,6 +21769,22 @@
 "quote": "sorry, we do not have any branch/agent in Dubai. We only ship purchased items to Dubai.",
 "why": "答复",
 "k": "10ae2338468afc5d"
+},
+{
+"date": "2025-06-16",
+"dir": "来",
+"who": "reyann@alsalami.com",
+"quote": "RE: Industrial PoE Switch｜Dear Mr. Alan,     Do you have datasheet for below industrial switch?  And do you have any showroom location here in Dubai?     Best Regards,  Reyann ",
+"why": "来信（邮箱索引；原文见 k；是否人工回复以原文为准）",
+"k": "a81a527303ac3a8d"
+},
+{
+"date": "2026-09-07",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "16 Port Industrial PoE Switch",
+"why": "最近一封去信（邮箱索引；去信共 14 封）",
+"k": "0168ce7da6b5c635"
 }
 ],
 "proof_gaps": [
@@ -21995,10 +22563,42 @@
 "next_move": {
 "when": "不动",
 "channel": "—",
-"action": "—",
+"action": "—（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
 "one_question": ""
 },
 "facts": [
+{
+"date": "2024-07-05",
+"dir": "去",
+"who": "S 箱（Simon）",
+"quote": "Industrial Network Switch",
+"why": "首封去信（邮箱索引；去信共 21 封）",
+"k": "678cd06b0d02c703"
+},
+{
+"date": "2024-08-23",
+"dir": "去",
+"who": "S 箱（Simon）",
+"quote": "10G media converter｜稿内价 $65",
+"why": "去信正文含价（邮箱索引）",
+"k": "9a7dd6d012ab5cf1"
+},
+{
+"date": "2024-08-23",
+"dir": "去",
+"who": "S 箱（Simon）报价",
+"quote": "10G media converter｜ $65（原句：Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unma）",
+"why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
+"k": "9a7dd6d012ab5cf1"
+},
+{
+"date": "2024-11-14",
+"dir": "去",
+"who": "S 箱（Simon）报价",
+"quote": "48 Port PoE Managed Switch｜ $300（原句：*Price is very competitive, 300usd/pc*）",
+"why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
+"k": "619de6e6fa3019fe"
+},
 {
 "date": "2025-06-16",
 "dir": "来",
@@ -22014,6 +22614,22 @@
 "quote": "We only have AC input model",
 "why": "缺口",
 "k": "ed149581e201dace"
+},
+{
+"date": "2025-06-16",
+"dir": "来",
+"who": "sale@entasource.co.th",
+"quote": "Re: Commercial PoE Switch｜Good afternoon  Do you have 24*10/100/1000Mbps ports with 2 Ports SFP Uplink unmanaged commercial switches or not?  Rack mount switch. Input 48 VDC  I",
+"why": "来信（邮箱索引；原文见 k；是否人工回复以原文为准）",
+"k": "da8a7bcd11691b0e"
+},
+{
+"date": "2026-09-07",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "16 Port Industrial PoE Switch",
+"why": "最近一封去信（邮箱索引；去信共 21 封）",
+"k": "d4a52432d6b65a0e"
 }
 ],
 "proof_gaps": [],
@@ -22289,10 +22905,42 @@
 "next_move": {
 "when": "2027-Q1",
 "channel": "A 邮箱 → master@gtwave.co.kr（Moonsoo Park）",
-"action": "一句话问 PoE 线外采情况（第 75 批(p) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））",
+"action": "一句话问 PoE 线外采情况（第 75 批(p) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
 "one_question": "Is the GTWAVE PoE switch line bought-in today, and which model is the volume one? Reference: STI-288DGGPM at $137.5 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
+{
+"date": "2024-06-17",
+"dir": "去",
+"who": "S 箱（Simon）",
+"quote": "10G media converter",
+"why": "首封去信（邮箱索引；去信共 28 封）",
+"k": "d2a506d0f5570404"
+},
+{
+"date": "2024-06-17",
+"dir": "去",
+"who": "S 箱（Simon）",
+"quote": "10G media converter｜稿内价 $65",
+"why": "去信正文含价（邮箱索引）",
+"k": "d2a506d0f5570404"
+},
+{
+"date": "2024-06-17",
+"dir": "去",
+"who": "S 箱（Simon）报价",
+"quote": "10G media converter｜ $65（原句：Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unma）",
+"why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
+"k": "d2a506d0f5570404"
+},
+{
+"date": "2024-07-17",
+"dir": "去",
+"who": "S 箱（Simon）报价",
+"quote": "10G managed switch｜ $220（原句：Price is very competitive, 220usd/pc）",
+"why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
+"k": "3282b23e6ebb27e1"
+},
 {
 "date": "2025-04-15",
 "dir": "来",
@@ -22300,6 +22948,30 @@
 "quote": "Let me know your company name and send me catalogue.",
 "why": "「你是谁」",
 "k": "2cc027d0b96713b6"
+},
+{
+"date": "2025-04-15",
+"dir": "来",
+"who": "master@gtwave.co.kr",
+"quote": "RE: Marvell Software Function List｜Thank you for your information.     Let me know your company name and send me catalogue.     Moonsoo,Park     From: Alan from Saga Telecom <a.sagatele",
+"why": "来信（邮箱索引；原文见 k；是否人工回复以原文为准）",
+"k": "2cc027d0b96713b6"
+},
+{
+"date": "2025-09-01",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "24 Port Fiber Switch｜稿内价 $240",
+"why": "去信正文含价（邮箱索引）",
+"k": "ec46f307cda26d4c"
+},
+{
+"date": "2026-09-07",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "16 Port Industrial PoE Switch",
+"why": "最近一封去信（邮箱索引；去信共 28 封）",
+"k": "f39c5b2143564be5"
 }
 ],
 "proof_gaps": [],
@@ -22723,10 +23395,42 @@
 "next_move": {
 "when": "按 WA 节奏",
 "channel": "WhatsApp",
-"action": "WA 一句话（付样 + 首批量）（第 75 批(r) 2026-10-25：WhatsApp 一句话版已写 `draft_en`（Simon 按 WA 节奏自发））",
+"action": "WA 一句话（付样 + 首批量）（第 75 批(r) 2026-10-25：WhatsApp 一句话版已写 `draft_en`（Simon 按 WA 节奏自发））（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
 "one_question": "If the sample is paid but credited against a 20-pc first batch, does SN-GS2300-28F dual-sourcing go ahead?"
 },
 "facts": [
+{
+"date": "2024-06-24",
+"dir": "去",
+"who": "S 箱（Simon）",
+"quote": "Industrial PoE Switch",
+"why": "首封去信（邮箱索引；去信共 17 封）",
+"k": "29c24de1d33bc316"
+},
+{
+"date": "2024-08-16",
+"dir": "去",
+"who": "S 箱（Simon）",
+"quote": "10G media converter｜稿内价 $65",
+"why": "去信正文含价（邮箱索引）",
+"k": "4b76faeca354d0cc"
+},
+{
+"date": "2024-08-16",
+"dir": "去",
+"who": "S 箱（Simon）报价",
+"quote": "10G media converter｜ $65（原句：Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unma）",
+"why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
+"k": "4b76faeca354d0cc"
+},
+{
+"date": "2024-10-28",
+"dir": "去",
+"who": "S 箱（Simon）报价",
+"quote": "48 Port PoE Managed Switch｜ $300（原句：*Price is very competitive, 300usd/pc*）",
+"why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
+"k": "0e3d05496b6b2e32"
+},
 {
 "date": "2024-11-05",
 "dir": "去",
@@ -22742,6 +23446,22 @@
 "quote": "「Booster PoE Switch」被打开（Mailtrack Opened 标签）",
 "why": "唯一的互动痕迹",
 "k": "7386567b0f7ec1c7"
+},
+{
+"date": "2026-08-13",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "24 Port PoE Managed Switch｜稿内价 $170",
+"why": "去信正文含价（邮箱索引）",
+"k": "5c79ffffc51eec37"
+},
+{
+"date": "2026-09-17",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "16 Port Industrial PoE Switch",
+"why": "最近一封去信（邮箱索引；去信共 17 封）",
+"k": "6c17e8b243d49a3c"
 }
 ],
 "proof_gaps": [
@@ -23518,10 +24238,18 @@
 "next_move": {
 "when": "群发节奏",
 "channel": "A 邮箱",
-"action": "观察打开",
+"action": "观察打开（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
 "one_question": "Since the last order, the 8-port PoE+ managed switch now ships with the 2 SFP uplinks as standard; if you have a CCTV job coming up in Menorca or Mallorca I can hold EXW pricing for 15 days."
 },
 "facts": [
+{
+"date": "2026-05-19",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "10G L3 Managed Switch",
+"why": "首封去信（邮箱索引；去信共 4 封）",
+"k": "30eb6e73fe31e45c"
+},
 {
 "date": "2026-09-03",
 "dir": "去",
@@ -23529,6 +24257,14 @@
 "quote": "24 Port PoE Managed Switch、10G L3 Managed Switch",
 "why": "4 封 / 0 次打开 / 0 回｜首封 2026-05-19 → 末封 2026-09-03（4 去 / 0 来）",
 "k": "gmail_digest"
+},
+{
+"date": "2026-09-03",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "24 Port PoE Managed Switch",
+"why": "最近一封去信（邮箱索引；去信共 4 封）",
+"k": "faea4c7dadab37be"
 }
 ],
 "proof_gaps": [],
@@ -25803,7 +26539,7 @@
 "next_move": {
 "when": "2026-11",
 "channel": "A 邮箱 → tomasz.paszkowski@rfog.pl",
-"action": "一封对位表（第 76 批(c) 2026-10-25：audit_ab 软项修正：署名「Alan Yan」→「Alan」（A 箱实际署名））",
+"action": "一封对位表（第 76 批(c) 2026-10-25：audit_ab 软项修正：署名「Alan Yan」→「Alan」（A 箱实际署名））（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
 "one_question": "For RF-GP2803PGM, what landed cost and lead time does N-Net give you today?"
 },
 "facts": [
@@ -25816,12 +26552,28 @@
 "k": "Clients/A/DONE/PL 2.6.xlsx no.13 2024.3.28"
 },
 {
+"date": "2024-09-30",
+"dir": "去",
+"who": "S 箱（Simon）",
+"quote": "Mini Industrial PoE Switch",
+"why": "首封去信（邮箱索引；去信共 17 封）",
+"k": "0f1649253578b2ab"
+},
+{
 "date": "2025-04-21",
 "dir": "去",
 "who": "Saga（群发）",
 "quote": "「90W PoE Managed Switch」被打开（Mailtrack Opened 标签）",
 "why": "唯一的互动痕迹",
 "k": "8e20d308a9952ad4"
+},
+{
+"date": "2026-09-25",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "Managed PoE Switches",
+"why": "最近一封去信（邮箱索引；去信共 17 封）",
+"k": "f9316e06662a1d36"
 }
 ],
 "proof_gaps": [
@@ -27145,10 +27897,42 @@
 "next_move": {
 "when": "2027-Q1",
 "channel": "A 邮箱 → zakaz@",
-"action": "问付款通道 + 首批 SKU（第 75 批(p) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））",
+"action": "问付款通道 + 首批 SKU（第 75 批(p) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
 "one_question": "For a first batch, which 8-port PoE SKU and what payment route (RMB agent / T/T) works for you?"
 },
 "facts": [
+{
+"date": "2024-06-19",
+"dir": "去",
+"who": "S 箱（Simon）",
+"quote": "8 port fiber switch",
+"why": "首封去信（邮箱索引；去信共 22 封）",
+"k": "ec9ddaaae415a2aa"
+},
+{
+"date": "2024-11-11",
+"dir": "去",
+"who": "S 箱（Simon）",
+"quote": "10G Media Converter｜稿内价 $65",
+"why": "去信正文含价（邮箱索引）",
+"k": "410b2799e316dc6a"
+},
+{
+"date": "2024-12-26",
+"dir": "去",
+"who": "S 箱（Simon）",
+"quote": "24 Port Fiber Switch｜稿内价 $240",
+"why": "去信正文含价（邮箱索引）",
+"k": "1498a663d372dc88"
+},
+{
+"date": "2025-06-30",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "24 Port Fiber Switch｜稿内价 $240",
+"why": "去信正文含价（邮箱索引）",
+"k": "dbaab31a89f6c8d8"
+},
 {
 "date": "2025-08-28",
 "dir": "来",
@@ -27164,6 +27948,30 @@
 "quote": "send me please your pricelists with POE switches and accessories",
 "why": "要价表",
 "k": "e5396399dcef3822"
+},
+{
+"date": "2026-01-04",
+"dir": "来",
+"who": "zakaz@svn-video.ru",
+"quote": "Re: Industrial PoE Switch｜Hi, send me please your pricelists with POE switches and accessories  ______________________________________________  C уважением, отдел продаж интерн",
+"why": "来信（邮箱索引；原文见 k；是否人工回复以原文为准）",
+"k": "e5396399dcef3822"
+},
+{
+"date": "2026-08-10",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "24 Port PoE Managed Switch｜稿内价 $170",
+"why": "去信正文含价（邮箱索引）",
+"k": "e39865805e2c55d8"
+},
+{
+"date": "2026-09-07",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "16 Port Industrial PoE Switch",
+"why": "最近一封去信（邮箱索引；去信共 22 封）",
+"k": "cd90acab1f8de2bf"
 }
 ],
 "proof_gaps": [],
@@ -28152,7 +28960,7 @@
 "next_move": {
 "when": "2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）",
 "channel": "A 邮箱 → DNC 具名 KP 待找",
-"action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(p) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；具名 KP 待找）（第 76 批(c) 2026-10-25：audit_ab 软项修正：证书口径 CE/RoHS → CE/RoHS (BIS stays on your side)）",
+"action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(p) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；具名 KP 待找）（第 76 批(c) 2026-10-25：audit_ab 软项修正：证书口径 CE/RoHS → CE/RoHS (BIS stays on your side)）（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
 "one_question": "For your DNC 4-PoE + 1-FX switch and the MC-10100G converter, I can supply the 4-port gigabit PoE+ with SFP (STI-154GP) and the gigabit media converter (STI-110GE) in DNC packing, EXW, with CE/RoHS files. Which one first — the 4-PoE + SFP switch or the gigabit converter? Reference: STI-154GP at $40.8 / STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
@@ -28165,12 +28973,36 @@
 "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.74 2024.6.18"
 },
 {
+"date": "2024-06-19",
+"dir": "去",
+"who": "S 箱（Simon）",
+"quote": "48 port managed switch",
+"why": "首封去信（邮箱索引；去信共 3 封）",
+"k": "8313d2e91f1c946c"
+},
+{
+"date": "2024-06-19",
+"dir": "去",
+"who": "S 箱（Simon）报价",
+"quote": "48 port managed switch｜ $220（原句：Price is very competitive, 220usd/pc）",
+"why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
+"k": "8313d2e91f1c946c"
+},
+{
 "date": "2024-12-09",
 "dir": "来",
 "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
 "quote": "用户表跟进：推「引流」→ 对方「1211: 22迷你」",
 "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
 "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.74 1209"
+},
+{
+"date": "2024-12-11",
+"dir": "去",
+"who": "S 箱（Simon）",
+"quote": "Mini Industrial PoE Switch",
+"why": "最近一封去信（邮箱索引；去信共 3 封）",
+"k": "a6946d60c14d3655"
 }
 ],
 "proof_gaps": [
@@ -28704,7 +29536,7 @@
 "next_move": {
 "when": "2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）",
 "channel": "A 邮箱 → MT-Link 具名 KP 待找",
-"action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(p) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；具名 KP 待找）",
+"action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(p) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；具名 KP 待找）（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
 "one_question": "Your MT-SW1024PE is still a fast-Ethernet PoE unit, so a Marvell-based 24-port gigabit PoE+ managed switch with 4 SFP under an MT- part number is the gap I would fill first, with the 8-port PoE+ 2 SFP model alongside. Would the 24-port be the first SKU to sample under an MT- part number? Reference: STC-424DGGPM-280W at $145.7 / STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
@@ -28723,6 +29555,30 @@
 "quote": "用户表跟进：推「发了24光combo型号」→ 对方「price」",
 "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
 "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.88 2024.2.27"
+},
+{
+"date": "2026-03-12",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "OEM Core Switching Solution",
+"why": "首封去信（邮箱索引；去信共 2 封）",
+"k": "61345c495835cf03"
+},
+{
+"date": "2026-08-10",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "24 Port PoE Managed Switch",
+"why": "最近一封去信（邮箱索引；去信共 2 封）",
+"k": "e46a56a1a0754324"
+},
+{
+"date": "2026-08-10",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "24 Port PoE Managed Switch｜稿内价 $170",
+"why": "去信正文含价（邮箱索引）",
+"k": "e46a56a1a0754324"
 }
 ],
 "proof_gaps": [
@@ -29059,10 +29915,42 @@
 "next_move": {
 "when": "不动",
 "channel": "—",
-"action": "—",
+"action": "—（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
 "one_question": ""
 },
 "facts": [
+{
+"date": "2024-07-09",
+"dir": "去",
+"who": "S 箱（Simon）",
+"quote": "Industrial poe switch",
+"why": "首封去信（邮箱索引；去信共 21 封）",
+"k": "2358c76c64b01fb7"
+},
+{
+"date": "2024-11-12",
+"dir": "去",
+"who": "S 箱（Simon）报价",
+"quote": "48 Port PoE Managed Switch｜ $300（原句：*Price is very competitive, 300usd/pc*）",
+"why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
+"k": "9bab146adffc4030"
+},
+{
+"date": "2025-01-31",
+"dir": "去",
+"who": "S 箱（Simon）",
+"quote": "24 Port Fiber Switch｜稿内价 $240",
+"why": "去信正文含价（邮箱索引）",
+"k": "e3816a77ff1eed4f"
+},
+{
+"date": "2025-01-31",
+"dir": "去",
+"who": "S 箱（Simon）报价",
+"quote": "24 Port Fiber Switch｜ $240（原句：Price: 240usd/pc）",
+"why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
+"k": "e3816a77ff1eed4f"
+},
 {
 "date": "2025-09-12",
 "dir": "来",
@@ -29072,12 +29960,44 @@
 "k": "e0f000957aae1a7a"
 },
 {
+"date": "2025-09-12",
+"dir": "来",
+"who": "info@success-network.co.th",
+"quote": "Re: Mini Industrial PoE Switch｜Thanks for information ________________________________ From: Alan from Saga Telecom <a.sagatelecom@gmail.com> Sent: Friday, September 12, 2025 12:00 ",
+"why": "来信（邮箱索引；原文见 k；是否人工回复以原文为准）",
+"k": "e0f000957aae1a7a"
+},
+{
+"date": "2026-08-10",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "24 Port PoE Managed Switch｜稿内价 $170",
+"why": "去信正文含价（邮箱索引）",
+"k": "5c93b47d50460ec4"
+},
+{
 "date": "2026-10-20",
 "dir": "内",
 "who": "Gmail 退信（S 邮箱）",
 "quote": "sawithree@success-network.co.th 永久退信：550 No such recipient here",
 "why": "该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职",
 "k": "gmail_s 098f53c592a27464"
+},
+{
+"date": "2026-10-20",
+"dir": "去",
+"who": "S 箱（Simon）",
+"quote": "24 Port PoE Managed Switch",
+"why": "最近一封去信（邮箱索引；去信共 21 封）",
+"k": "b7d2811f984127c8"
+},
+{
+"date": "2026-10-20",
+"dir": "去",
+"who": "S 箱（Simon）报价",
+"quote": "24 Port PoE Managed Switch｜ $180（原句：*Price: 180USD/PC*）",
+"why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
+"k": "b7d2811f984127c8"
 }
 ],
 "proof_gaps": [],
@@ -31353,7 +32273,7 @@
 "next_move": {
 "when": "2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）",
 "channel": "A 邮箱 → sales@fibermarkt.com（无具名 KP）",
-"action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(p) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））",
+"action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(p) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
 "one_question": "Your LO-IGS-4GT2GF-POE and LO-IGS-8GT2GF-POE sit exactly on the 4+2 and 8+2 industrial PoE footprints we build, so I am quoting both in LightOptics packing with the managed versions on a Marvell platform as the differentiator against your current source. Which footprint moves more units for you, 4+2 or 8+2, so I quote that one first? Reference: STI-288DGGPM at $137.5 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
@@ -31372,6 +32292,38 @@
 "quote": "用户表跟进：推「发了几个商业交换机图」→ 对方「email发了2光8BT信息」",
 "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
 "k": "Clients/A/DONE/PL 2.6.xlsx no.32 2024.6.19"
+},
+{
+"date": "2024-06-19",
+"dir": "去",
+"who": "S 箱（Simon）",
+"quote": "90W poe managed switch",
+"why": "首封去信（邮箱索引；去信共 23 封）",
+"k": "0e9d6e3fc507809a"
+},
+{
+"date": "2024-11-19",
+"dir": "去",
+"who": "S 箱（Simon）报价",
+"quote": "48 Port PoE Managed Switch｜ $300（原句：*Price is very competitive, 300usd/pc*）",
+"why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
+"k": "e5f1f002a33fa0f0"
+},
+{
+"date": "2026-08-21",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "24 Port PoE Managed Switch｜稿内价 $170",
+"why": "去信正文含价（邮箱索引）",
+"k": "ffc710b07244cdbd"
+},
+{
+"date": "2026-09-25",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "Managed PoE Switches",
+"why": "最近一封去信（邮箱索引；去信共 23 封）",
+"k": "c12866c8e3aa01f1"
 }
 ],
 "proof_gaps": [
@@ -34032,10 +34984,34 @@
 "next_move": {
 "when": "不动",
 "channel": "—",
-"action": "—",
+"action": "—（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
 "one_question": ""
 },
 "facts": [
+{
+"date": "2024-06-26",
+"dir": "去",
+"who": "S 箱（Simon）",
+"quote": "Industrial fiber switch",
+"why": "首封去信（邮箱索引；去信共 25 封）",
+"k": "73134d166d475758"
+},
+{
+"date": "2024-08-19",
+"dir": "去",
+"who": "S 箱（Simon）",
+"quote": "10G media converter｜稿内价 $65",
+"why": "去信正文含价（邮箱索引）",
+"k": "966486459c09d600"
+},
+{
+"date": "2024-08-19",
+"dir": "去",
+"who": "S 箱（Simon）报价",
+"quote": "10G media converter｜ $65（原句：Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unma）",
+"why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
+"k": "966486459c09d600"
+},
 {
 "date": "2024-09-27",
 "dir": "来",
@@ -34045,12 +35021,92 @@
 "k": "de350c97144e5285"
 },
 {
+"date": "2024-09-27",
+"dir": "来",
+"who": "ventas@energyplusystems.cl",
+"quote": "Re: Industrial PoE Switch｜Hi Simon Can you please give me the price and minimum quantity?  Thank you Ling Fuentes F. Ingeniero de Ventas ventas@energyplusystems.cl Cel +5699218",
+"why": "来信（邮箱索引；原文见 k；是否人工回复以原文为准）",
+"k": "de350c97144e5285"
+},
+{
 "date": "2024-09-28",
 "dir": "去",
 "who": "Saga（Simon）",
 "quote": "Hi, Ling, Thanks for your interest. Please see attached datasheet. 38usd/pc STI-154GP: industrial PoE Switch 1*Gigabit SFP+1*1G Copper Uplink+4*10/100/1000M PoE Downlink, POE af/at, 120W, Unmanaged Support DIP function, DC44V~DC57V(Removable 4 PIN Industrial T",
 "why": "历史报价点（主题「Re: Industrial PoE Switch」；第 20 批从 gmail_s 回补）：STI-154GP 38usd",
 "k": "dd2380a46a6ba1cc"
+},
+{
+"date": "2024-09-28",
+"dir": "去",
+"who": "S 箱（Simon）",
+"quote": "Re: Industrial PoE Switch｜稿内价 $38",
+"why": "去信正文含价（邮箱索引）",
+"k": "dd2380a46a6ba1cc"
+},
+{
+"date": "2024-09-28",
+"dir": "去",
+"who": "S 箱（Simon）报价",
+"quote": "Re: Industrial PoE Switch｜STI-154GP $38（原句：38usd/pc）",
+"why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
+"k": "dd2380a46a6ba1cc"
+},
+{
+"date": "2024-11-20",
+"dir": "去",
+"who": "S 箱（Simon）报价",
+"quote": "48 Port PoE Managed Switch｜ $300（原句：*Price is very competitive, 300usd/pc*）",
+"why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
+"k": "d38f2e742cda8850"
+},
+{
+"date": "2025-08-28",
+"dir": "去",
+"who": "S 箱（Simon）",
+"quote": "24 Port Fiber Switch｜稿内价 $240",
+"why": "去信正文含价（邮箱索引）",
+"k": "5285f4f822d9a47d"
+},
+{
+"date": "2025-08-28",
+"dir": "去",
+"who": "S 箱（Simon）报价",
+"quote": "24 Port Fiber Switch｜ $240（原句：Price: 240usd/pc）",
+"why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
+"k": "5285f4f822d9a47d"
+},
+{
+"date": "2025-10-29",
+"dir": "去",
+"who": "S 箱（Simon）报价",
+"quote": "10G Enterprise SFP Switch｜ $280（原句：It is a price-competitive aggregation switch(280usd/pc)）",
+"why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
+"k": "6da1fa692fe34306"
+},
+{
+"date": "2026-07-20",
+"dir": "去",
+"who": "S 箱（Simon）报价",
+"quote": "24 Port 10G SFP+ Switch｜ $1500（原句：*Price: 1500USD/PC*）",
+"why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
+"k": "fd1a9009a3a0c59d"
+},
+{
+"date": "2026-09-08",
+"dir": "去",
+"who": "S 箱（Simon）",
+"quote": "24 Port PoE Managed Switch",
+"why": "最近一封去信（邮箱索引；去信共 25 封）",
+"k": "7ea24f4303e4aeb1"
+},
+{
+"date": "2026-09-08",
+"dir": "去",
+"who": "S 箱（Simon）报价",
+"quote": "24 Port PoE Managed Switch｜ $170（原句：*Price: 170USD/PC*）",
+"why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
+"k": "7ea24f4303e4aeb1"
 }
 ],
 "proof_gaps": [],
@@ -34329,10 +35385,42 @@
 "next_move": {
 "when": "不动；移出群发",
 "channel": "—",
-"action": "—",
+"action": "—（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
 "one_question": ""
 },
 "facts": [
+{
+"date": "2024-07-01",
+"dir": "去",
+"who": "S 箱（Simon）",
+"quote": "Passive poe switch",
+"why": "首封去信（邮箱索引；去信共 17 封）",
+"k": "7d23297509d68cfa"
+},
+{
+"date": "2024-07-30",
+"dir": "去",
+"who": "S 箱（Simon）",
+"quote": "10G media converter｜稿内价 $65",
+"why": "去信正文含价（邮箱索引）",
+"k": "72ed6686dbe62a71"
+},
+{
+"date": "2024-07-30",
+"dir": "去",
+"who": "S 箱（Simon）报价",
+"quote": "10G media converter｜ $65（原句：Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unma）",
+"why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
+"k": "72ed6686dbe62a71"
+},
+{
+"date": "2024-11-14",
+"dir": "去",
+"who": "S 箱（Simon）报价",
+"quote": "48 Port PoE Managed Switch｜ $300（原句：*Price is very competitive, 300usd/pc*）",
+"why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
+"k": "9425376a2465b5f4"
+},
 {
 "date": "2025-08-21",
 "dir": "来",
@@ -34340,6 +35428,22 @@
 "quote": "We require TAA Compliant and UL Listed switches. If you have this, please let me know.",
 "why": "边界原话",
 "k": "465526f0a93e971c"
+},
+{
+"date": "2025-08-21",
+"dir": "来",
+"who": "sales@ipcampower.com",
+"quote": "RE: Industrial PoE Switch｜Hello there,   We require TAA Compliant and UL Listed switches. If you have this, please let me know.     Thanks,     Sean Nelson IPCAMPOWER.com   <ht",
+"why": "来信（邮箱索引；原文见 k；是否人工回复以原文为准）",
+"k": "465526f0a93e971c"
+},
+{
+"date": "2026-09-07",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "16 Port Industrial PoE Switch",
+"why": "最近一封去信（邮箱索引；去信共 17 封）",
+"k": "1b384f86b0ccd72d"
 }
 ],
 "proof_gaps": [],
@@ -34857,10 +35961,18 @@
 "next_move": {
 "when": "2026-11",
 "channel": "A 邮箱 → muratg@sge.com.tr",
-"action": "对位表（2 款）+ 交期 10–15 天 + 一句话（第 76 批(b) 2026-10-25：audit_ab 硬错误修正：STI-244GP $45 → $36.6）（第 76 批(c) 2026-10-25：audit_ab 软项修正：证书口径 CE/RoHS/FCC → CE/RoHS）",
+"action": "对位表（2 款）+ 交期 10–15 天 + 一句话（第 76 批(b) 2026-10-25：audit_ab 硬错误修正：STI-244GP $45 → $36.6）（第 76 批(c) 2026-10-25：audit_ab 软项修正：证书口径 CE/RoHS/FCC → CE/RoHS）（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
 "one_question": "For the industrial PoE units you resell today, is a 10–15-day lead time (vs ~5 weeks) worth a sample on one SKU?"
 },
 "facts": [
+{
+"date": "2025-09-30",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "10G Enterprise SFP Switch",
+"why": "首封去信（邮箱索引；去信共 9 封）",
+"k": "498c4e83f7633cf9"
+},
 {
 "date": "2025-12-01",
 "dir": "来",
@@ -34868,6 +35980,22 @@
 "quote": "Can you send to me the price list of your products?",
 "why": "要价表",
 "k": "d6656fb30ed9002e"
+},
+{
+"date": "2025-12-01",
+"dir": "来",
+"who": "muratg@sge.com.tr",
+"quote": "RE: Booster PoE Switch｜Can you send to me the price list of your products?     İyi çalışmalar dilerim  ______________________________________________________________________",
+"why": "来信（邮箱索引；原文见 k；是否人工回复以原文为准）",
+"k": "d6656fb30ed9002e"
+},
+{
+"date": "2026-09-07",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "16 Port Industrial PoE Switch",
+"why": "最近一封去信（邮箱索引；去信共 9 封）",
+"k": "193a64fe5f2fb9e4"
 }
 ],
 "proof_gaps": [],
@@ -35386,10 +36514,66 @@
 "next_move": {
 "when": "2026-11（一次）",
 "channel": "A 邮箱 → inam@alrajhitel.com（不再发 info@ekhalas.com）",
-"action": "一句话问 2024 的样品需求是否仍在、口数是否变了（第 76 批(b) 2026-10-25：audit_ab 硬错误修正：STI-154GP $47 → $39.2）",
+"action": "一句话问 2024 的样品需求是否仍在、口数是否变了（第 76 批(b) 2026-10-25：audit_ab 硬错误修正：STI-154GP $47 → $39.2）（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
 "one_question": "Your 2024 sample request for the 4-port industrial PoE (STI-154GP, 36 USD then) — still relevant for a current site, or has the need moved to 8/16 ports?"
 },
 "facts": [
+{
+"date": "2024-06-05",
+"dir": "来",
+"who": "info@ekhalas.com",
+"quote": "Thank you for contacting us!Dear｜Thank you for reaching out to us regarding your query. We appreciate you taking the time to contact our team, and we want to assure you that we are wo",
+"why": "来信（邮箱索引；原文见 k；是否人工回复以原文为准）",
+"k": "9a3a665f4d154a32"
+},
+{
+"date": "2024-06-27",
+"dir": "去",
+"who": "S 箱（Simon）",
+"quote": "Industrial PoE managed switch",
+"why": "首封去信（邮箱索引；去信共 26 封）",
+"k": "2025501e175a33bc"
+},
+{
+"date": "2024-06-27",
+"dir": "来",
+"who": "info@ekhalas.com",
+"quote": "Thank you for contacting us!Dear｜Thank you for reaching out to us regarding your query. We appreciate you taking the time to contact our team, and we want to assure you that we are wo",
+"why": "来信（邮箱索引；原文见 k；是否人工回复以原文为准）",
+"k": "a509263771a57f10"
+},
+{
+"date": "2024-07-24",
+"dir": "去",
+"who": "S 箱（Simon）",
+"quote": "10G media converter｜稿内价 $65",
+"why": "去信正文含价（邮箱索引）",
+"k": "8978e4f7fbab6a08"
+},
+{
+"date": "2024-07-24",
+"dir": "来",
+"who": "info@ekhalas.com",
+"quote": "Thank you for contacting us!Dear｜Thank you for reaching out to us regarding your query. We appreciate you taking the time to contact our team, and we want to assure you that we are wo",
+"why": "来信（邮箱索引；原文见 k；是否人工回复以原文为准）",
+"k": "a5b2a2a03d63d4a8"
+},
+{
+"date": "2024-07-24",
+"dir": "去",
+"who": "S 箱（Simon）报价",
+"quote": "10G media converter｜ $65（原句：Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unma）",
+"why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
+"k": "8978e4f7fbab6a08"
+},
+{
+"date": "2024-08-19",
+"dir": "来",
+"who": "info@ekhalas.com",
+"quote": "Thank you for contacting us!Dear｜Thank you for reaching out to us regarding your query. We appreciate you taking the time to contact our team, and we want to assure you that we are wo",
+"why": "来信（邮箱索引；原文见 k；是否人工回复以原文为准）",
+"k": "703cae2282ea3bc3"
+},
 {
 "date": "2024-10-22",
 "dir": "来",
@@ -35407,12 +36591,68 @@
 "k": "775f9ed585dd20d5"
 },
 {
+"date": "2024-10-22",
+"dir": "来",
+"who": "info@ekhalas.com",
+"quote": "Thank you for contacting us!Dear｜Thank you for reaching out to us regarding your query. We appreciate you taking the time to contact our team, and we want to assure you that we are wo",
+"why": "来信（邮箱索引；原文见 k；是否人工回复以原文为准）",
+"k": "4fa3c4d06fe1dbad"
+},
+{
+"date": "2024-12-12",
+"dir": "去",
+"who": "S 箱（Simon）报价",
+"quote": "48 Port PoE Managed Switch｜ $300（原句：*Price is very competitive, 300usd/pc*）",
+"why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
+"k": "29773944aefa6480"
+},
+{
+"date": "2025-02-27",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "24 Port Fiber Switch｜稿内价 $240",
+"why": "去信正文含价（邮箱索引）",
+"k": "0c82437aea35daea"
+},
+{
+"date": "2025-02-27",
+"dir": "来",
+"who": "info@ekhalas.com",
+"quote": "Thank you for contacting us!Dear｜Thank you for reaching out to us regarding your query. We appreciate you taking the time to contact our team, and we want to assure you that we are wo",
+"why": "来信（邮箱索引；原文见 k；是否人工回复以原文为准）",
+"k": "924030a08d2f1ca6"
+},
+{
+"date": "2025-03-31",
+"dir": "来",
+"who": "info@ekhalas.com",
+"quote": "Thank you for contacting us!Dear｜Thank you for reaching out to us regarding your query. We appreciate you taking the time to contact our team, and we want to assure you that we are wo",
+"why": "来信（邮箱索引；原文见 k；是否人工回复以原文为准）",
+"k": "f6a72456865c11f8"
+},
+{
+"date": "2025-04-28",
+"dir": "来",
+"who": "info@ekhalas.com",
+"quote": "Thank you for contacting us!Dear｜Thank you for reaching out to us regarding your query. We appreciate you taking the time to contact our team, and we want to assure you that we are wo",
+"why": "来信（邮箱索引；原文见 k；是否人工回复以原文为准）",
+"k": "4e36da1a6de4b051"
+},
+{
 "date": "2026-09-22",
 "dir": "来",
 "who": "info@ekhalas.com（机器人）",
 "quote": "Thank you for reaching out to us regarding your query…",
 "why": "第 10 封机器人回复——两年群发都寄错了收件人",
 "k": "3b9a30d69e46d2e7"
+},
+{
+"date": "2026-09-22",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "16 Port Industrial PoE Switch",
+"why": "最近一封去信（邮箱索引；去信共 26 封）",
+"k": "5a95d0e149d90de0"
 }
 ],
 "proof_gaps": [
@@ -37982,7 +39222,7 @@
 "next_move": {
 "when": "按 WA 节奏",
 "channel": "WhatsApp",
-"action": "WA（用 one_question 这句，WhatsApp 直接发，不附资料）（第 75 批(r) 2026-10-25：WhatsApp 一句话版已写 `draft_en`（Simon 按 WA 节奏自发）；环网只写 ring redundancy）",
+"action": "WA（用 one_question 这句，WhatsApp 直接发，不附资料）（第 75 批(r) 2026-10-25：WhatsApp 一句话版已写 `draft_en`（Simon 按 WA 节奏自发）；环网只写 ring redundancy）（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
 "one_question": "For the 2-fibre 4-copper ERPS ring requirement, the managed 8-port gigabit PoE + 2 SFP DIN switch is the unit that carries ring protection, so I am quoting that and confirming the ERPS firmware detail with the factory."
 },
 "facts": [
@@ -38001,6 +39241,38 @@
 "quote": "用户表跟进：推「引流机型」→ 对方「1120email发了10gmc」",
 "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
 "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.15 1119"
+},
+{
+"date": "2024-11-20",
+"dir": "去",
+"who": "S 箱（Simon）",
+"quote": "10G Media Converter",
+"why": "首封去信（邮箱索引；去信共 2 封）",
+"k": "b979651deadaf930"
+},
+{
+"date": "2024-11-20",
+"dir": "去",
+"who": "S 箱（Simon）",
+"quote": "10G Media Converter｜稿内价 $65",
+"why": "去信正文含价（邮箱索引）",
+"k": "b979651deadaf930"
+},
+{
+"date": "2025-02-04",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "24 Port Fiber Switch",
+"why": "最近一封去信（邮箱索引；去信共 2 封）",
+"k": "0dc3573924bf301a"
+},
+{
+"date": "2025-02-04",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "24 Port Fiber Switch｜稿内价 $240",
+"why": "去信正文含价（邮箱索引）",
+"k": "0dc3573924bf301a"
 }
 ],
 "proof_gaps": [
@@ -39876,10 +41148,34 @@
 "next_move": {
 "when": "按 WA 节奏",
 "channel": "WhatsApp",
-"action": "WA 一句话（第 75 批(r) 2026-10-25：WhatsApp 一句话版已写 `draft_en`（Simon 按 WA 节奏自发））（第 76 批(c) 2026-10-25：audit_ab 软项修正：证书口径 CE/FCC files → CE/RoHS files）",
+"action": "WA 一句话（第 75 批(r) 2026-10-25：WhatsApp 一句话版已写 `draft_en`（Simon 按 WA 节奏自发））（第 76 批(c) 2026-10-25：audit_ab 软项修正：证书口径 CE/FCC files → CE/RoHS files）（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
 "one_question": "Which ONV/Xinqiao industrial PoE SKU is your volume item, and what would make you add a Marvell second source?"
 },
 "facts": [
+{
+"date": "2024-06-14",
+"dir": "去",
+"who": "S 箱（Simon）",
+"quote": "Industrial network switch",
+"why": "首封去信（邮箱索引；去信共 24 封）",
+"k": "0e226ef6066b98b4"
+},
+{
+"date": "2024-08-10",
+"dir": "去",
+"who": "S 箱（Simon）",
+"quote": "10G media converter｜稿内价 $65",
+"why": "去信正文含价（邮箱索引）",
+"k": "eae4bec0a71847bf"
+},
+{
+"date": "2024-08-10",
+"dir": "去",
+"who": "S 箱（Simon）报价",
+"quote": "10G media converter｜ $65（原句：Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unma）",
+"why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
+"k": "eae4bec0a71847bf"
+},
 {
 "date": "2024-11-05",
 "dir": "去",
@@ -39887,6 +41183,14 @@
 "quote": "名单行：「switch info@nova-grup.com https://www.novacom.com.tr/urun-kategori/poe-switch/」",
 "why": "Saga 2024-11-05 把本户列入交给 Angora（安卡拉，Saga 提议的欧盟/土耳其分销伙伴）的 64 家起步名单；此后 Saga 仍直发本户。若 Angora 已接触过本户，Saga 直发会与自己提议的渠道打架 → Q-51（默认：直发继续，Angora 报了价的户 Saga 只做技术支持）",
 "k": "gmail_s 2024-11-05 Re: Invoice_5pcs STC-424DGGPM-280W（附件）+ Drive PI 7_土耳其 Turkey_Client_List.xlsx"
+},
+{
+"date": "2026-10-06",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "Managed PoE Switches",
+"why": "最近一封去信（邮箱索引；去信共 24 封）",
+"k": "dc7c0490ebc381fe"
 }
 ],
 "proof_gaps": [
@@ -40319,7 +41623,7 @@
 "next_move": {
 "when": "2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）",
 "channel": "A 邮箱 → imports@bselectronics.gr（Vasilis Stavridis）",
-"action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(q) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；2.5G 用 HRUI STC-114XGDGP；「升压 5 口」型号未核，写先确认输入电压）",
+"action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(q) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；2.5G 用 HRUI STC-114XGDGP；「升压 5 口」型号未核，写先确认输入电压）（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
 "one_question": "Your BS-SWP series is fast-Ethernet today, so the Marvell-based gigabit managed 8-port PoE+ with 2 SFP in BS packing is the natural step up, and the 24-port version with four 10G SFP+ uplinks answers the 2.5G question from ISAF. Shall I quote the 8-port in BS packing first? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
@@ -40332,11 +41636,27 @@
 "k": "98f7e4e8b4b4c419"
 },
 {
+"date": "2025-03-19",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "8 Port Industrial PoE Switch",
+"why": "首封去信（邮箱索引；去信共 16 封）",
+"k": "98f7e4e8b4b4c419"
+},
+{
 "date": "2026-09-14",
 "dir": "去",
 "who": "Saga（Alan）",
 "quote": "「16 Port Industrial PoE Switch」——最后一封",
 "why": "进口部公用箱；具名 Vasilis Stavridis 在 kp 里但没单独发过",
+"k": "ef2f8188a0b4f8e7"
+},
+{
+"date": "2026-09-14",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "16 Port Industrial PoE Switch",
+"why": "最近一封去信（邮箱索引；去信共 16 封）",
 "k": "ef2f8188a0b4f8e7"
 }
 ],
@@ -41394,10 +42714,18 @@
 "next_move": {
 "when": "群发节奏",
 "channel": "A 邮箱",
-"action": "观察打开",
+"action": "观察打开（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
 "one_question": "Jimmy, from the catalogue you took at ISAF: the 8-port gigabit PoE+ managed switch is $80.7 EXW at the wholesale tier and the unmanaged 8-port PoE $25.1 — shall I send a 5+5 starter carton to Markaryd?"
 },
 "facts": [
+{
+"date": "2025-03-19",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "8 Port Industrial PoE Switch",
+"why": "首封去信（邮箱索引；去信共 16 封）",
+"k": "ed45c2f264fb0f64"
+},
 {
 "date": "2026-09-14",
 "dir": "去",
@@ -41405,6 +42733,14 @@
 "quote": "Industrial PoE Switch、8 Port Industrial PoE Switch",
 "why": "16 封 / 1 次打开 / 0 回｜首封 2025-03-19 → 末封 2026-09-14（16 去 / 0 来）",
 "k": "gmail_digest"
+},
+{
+"date": "2026-09-14",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "16 Port Industrial PoE Switch",
+"why": "最近一封去信（邮箱索引；去信共 16 封）",
+"k": "ef48d7f7f6c91b69"
 }
 ],
 "proof_gaps": [
@@ -44345,7 +45681,7 @@
 "next_move": {
 "when": "2027-Q1",
 "channel": "LinkedIn / 官网表单",
-"action": "一次对位表（第 75 批(q) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；LinkedIn/表单短版）",
+"action": "一次对位表（第 75 批(q) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；LinkedIn/表单短版）（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
 "one_question": "Which of the DCE media-converter SKUs is sourced in Asia today, and what would a second source need to match? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
@@ -44356,6 +45692,62 @@
 "quote": "Yes, I would like to learn more about your 10G media converter…",
 "why": "误归属说明",
 "k": "6350a98e7dcd08eb"
+},
+{
+"date": "2024-08-24",
+"dir": "去",
+"who": "S 箱（Simon）",
+"quote": "10G media converter",
+"why": "首封去信（邮箱索引；去信共 27 封）",
+"k": "1d40fa686d57be9b"
+},
+{
+"date": "2024-08-24",
+"dir": "去",
+"who": "S 箱（Simon）",
+"quote": "10G media converter｜稿内价 $65",
+"why": "去信正文含价（邮箱索引）",
+"k": "1d40fa686d57be9b"
+},
+{
+"date": "2024-08-24",
+"dir": "来",
+"who": "nate.cline@alphanetcom.com",
+"quote": "RE: 10G media converter｜Hi Simon,     Yes, I would like to learn more about your 10G media converter.     Can you send me a price list and I want to ask if I can buy from you",
+"why": "来信（邮箱索引；原文见 k；是否人工回复以原文为准）",
+"k": "6350a98e7dcd08eb"
+},
+{
+"date": "2024-08-24",
+"dir": "去",
+"who": "S 箱（Simon）报价",
+"quote": "10G media converter｜ $65（原句：Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unma）",
+"why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
+"k": "1d40fa686d57be9b"
+},
+{
+"date": "2024-12-11",
+"dir": "去",
+"who": "S 箱（Simon）报价",
+"quote": "48 Port PoE Managed Switch｜ $300（原句：*Price is very competitive, 300usd/pc*）",
+"why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
+"k": "654b21b6912a9b67"
+},
+{
+"date": "2026-10-02",
+"dir": "去",
+"who": "S 箱（Simon）",
+"quote": "24 Port PoE Managed Switch",
+"why": "最近一封去信（邮箱索引；去信共 27 封）",
+"k": "481d052423caa372"
+},
+{
+"date": "2026-10-02",
+"dir": "去",
+"who": "S 箱（Simon）报价",
+"quote": "24 Port PoE Managed Switch｜ $180（原句：*Price: 180USD/PC*）",
+"why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
+"k": "481d052423caa372"
 }
 ],
 "proof_gaps": [],
@@ -47082,7 +48474,7 @@
 "next_move": {
 "when": "按 WA 节奏",
 "channel": "WhatsApp",
-"action": "WA（用 one_question 这句，WhatsApp 直接发，不附资料）（第 75 批(r) 2026-10-25：WhatsApp 一句话版已写 `draft_en`（Simon 按 WA 节奏自发））",
+"action": "WA（用 one_question 这句，WhatsApp 直接发，不附资料）（第 75 批(r) 2026-10-25：WhatsApp 一句话版已写 `draft_en`（Simon 按 WA 节奏自发））（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
 "one_question": "For the two 12-SFP + 12-RJ45 units, could you confirm the deployment (your own SOC rack or a client site) and whether you need L3 features, so I quote the right build rather than a generic one?"
 },
 "facts": [
@@ -47095,12 +48487,28 @@
 "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.52 2024.2.9"
 },
 {
+"date": "2024-09-09",
+"dir": "去",
+"who": "S 箱（Simon）",
+"quote": "Mini industrial switch",
+"why": "首封去信（邮箱索引；去信共 2 封）",
+"k": "ac4dacf4a3e987e2"
+},
+{
 "date": "2024-10-11",
 "dir": "来",
 "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
 "quote": "用户表跟进：推「2.5g/10g network」→ 对方「有兴趣 让发资料」",
 "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
 "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.52 1011"
+},
+{
+"date": "2024-10-11",
+"dir": "去",
+"who": "S 箱（Simon）",
+"quote": "2.5G/10G network switch",
+"why": "最近一封去信（邮箱索引；去信共 2 封）",
+"k": "ff2fdd83c9098338"
 },
 {
 "date": "2025-01-02",
@@ -49113,10 +50521,34 @@
 "next_move": {
 "when": "按 Simon WA 节奏",
 "channel": "WhatsApp",
-"action": "—（用 one_question 这句，WhatsApp 直接发，不附资料）（第 75 批(s) 2026-10-25：WhatsApp 一句话版已写 `draft_en`（报警继电器主表未载——信里不断言，改为「发规格书页自己看」；发前 Simon 核 SmartByte 规格书））",
+"action": "—（用 one_question 这句，WhatsApp 直接发，不附资料）（第 75 批(s) 2026-10-25：WhatsApp 一句话版已写 `draft_en`（报警继电器主表未载——信里不断言，改为「发规格书页自己看」；发前 Simon 核 SmartByte 规格书））（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
 "one_question": "You asked at ISAF whether the standard switches carry an alarm output: the industrial 8-port gigabit PoE + 2 SFP managed DIN unit does, with dual DC input, so that is the model I am quoting as a second source next to your N-Net units."
 },
 "facts": [
+{
+"date": "2025-03-26",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "Marvell Alleycat5 Solution",
+"why": "首封去信（邮箱索引；去信共 20 封）",
+"k": "3ccbb8e1e1bae77e"
+},
+{
+"date": "2025-08-26",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "24 Port Fiber Switch｜稿内价 $240",
+"why": "去信正文含价（邮箱索引）",
+"k": "4fca8a4abcf531df"
+},
+{
+"date": "2025-09-23",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "10G Media Converter｜稿内价 $65",
+"why": "去信正文含价（邮箱索引）",
+"k": "99c1298cc781f9fd"
+},
 {
 "date": "2026-08-12",
 "dir": "来",
@@ -49126,12 +50558,28 @@
 "k": "75714cbe9fd11aa2"
 },
 {
+"date": "2026-08-12",
+"dir": "来",
+"who": "sales@ipns-uae.com",
+"quote": "Confirmation: BORN 24-Port Managed Switch Requirement｜Dear Sir,     Greetings      Could you please confirm whether you are looking for a BORN COMMERCIAL 24-port managed switch?     Thanks & Regards   Jom",
+"why": "来信（邮箱索引；原文见 k；是否人工回复以原文为准）",
+"k": "75714cbe9fd11aa2"
+},
+{
 "date": "2026-08-15",
 "dir": "去",
 "who": "Saga（Alan）",
 "quote": "Hi, Jomini, 1. I am recommending our models. We focus on Marvell based L2+ switches, checking if we could cooperate in some way. 2. I met George on IFSEC UK 2023 and know that you deal with Ethernet switches with a supplier from Shenzhen. Maybe our products can be useful in some projects, or we can…",
 "why": "Saga 实质答复原文（主题「Re: Confirmation: BORN 24-Port Managed S」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
 "k": "5eacc9efe7146ba8"
+},
+{
+"date": "2026-09-22",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "16 Port Industrial PoE Switch",
+"why": "最近一封去信（邮箱索引；去信共 20 封）",
+"k": "b23b79036dc5cabb"
 }
 ],
 "proof_gaps": [],
@@ -53716,10 +55164,18 @@
 "next_move": {
 "when": "2026-11",
 "channel": "A 邮箱 → yoav@smbit.co.il",
-"action": "一句话（第 76 批(c) 2026-10-25：audit_ab 软项修正：署名「Alan Yan」→「Alan」（A 箱实际署名））",
+"action": "一句话（第 76 批(c) 2026-10-25：audit_ab 软项修正：署名「Alan Yan」→「Alan」（A 箱实际署名））（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
 "one_question": "Is the ~150-unit/year industrial PoE requirement still live, and which spec did it settle on?"
 },
 "facts": [
+{
+"date": "2025-06-04",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "Industrial PoE Switch",
+"why": "首封去信（邮箱索引；去信共 16 封）",
+"k": "6c169e28e08ceac7"
+},
 {
 "date": "2026-02-02",
 "dir": "去",
@@ -53727,6 +55183,14 @@
 "quote": "「OEM Core Switching Solution」被打开（Mailtrack Opened 标签）",
 "why": "唯一的互动痕迹",
 "k": "b55e88e2576e6c73"
+},
+{
+"date": "2026-10-07",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "Managed PoE Switches",
+"why": "最近一封去信（邮箱索引；去信共 16 封）",
+"k": "4ea04edc08c2cc81"
 }
 ],
 "proof_gaps": [
@@ -65126,10 +66590,26 @@
 "next_move": {
 "when": "2027-Q1",
 "channel": "A 邮箱 → alfredo.timpanaro@topsicurezza.com（Alfredo Timpanaro）",
-"action": "一封对位表（第 75 批(q) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；STC-4168XGGCM 不报价（他 2025-10 见过群发 $280，档位 $408 冲突）——改问 ONV 型号再报）",
+"action": "一封对位表（第 75 批(q) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；STC-4168XGGCM 不报价（他 2025-10 见过群发 $280，档位 $408 冲突）——改问 ONV 型号再报）（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
 "one_question": "Sig. Timpanaro, for the Videostar PoE line: an 8-port gigabit PoE+ managed switch with 2 SFP (Marvell, STC-28DGGPM) is $87.4 USD EXW with your logo in the web UI (printed carton from 200 sets), and the 16-SFP + 8-combo aggregation unit you asked us about at IFSEC 2023 (STC-4168XGGCM) is $408.1 USD EXW, MOQ 1, 15-day validity — shall I send the model-by-model comparison against your current ONV codes?"
 },
 "facts": [
+{
+"date": "2024-07-09",
+"dir": "去",
+"who": "S 箱（Simon）",
+"quote": "Passive poe switch",
+"why": "首封去信（邮箱索引；去信共 23 封）",
+"k": "8ff489d4b817eb5c"
+},
+{
+"date": "2024-11-12",
+"dir": "去",
+"who": "S 箱（Simon）报价",
+"quote": "48 Port PoE Managed Switch｜ $300（原句：*Price is very competitive, 300usd/pc*）",
+"why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
+"k": "784af58865e1a452"
+},
 {
 "date": "2025-07-08",
 "dir": "去",
@@ -65145,6 +66625,14 @@
 "quote": "「16 Port Ethernet Switch」被打开（Mailtrack Opened 标签）",
 "why": "唯一的互动痕迹",
 "k": "456350d728a34de6"
+},
+{
+"date": "2026-09-17",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "16 Port Industrial PoE Switch",
+"why": "最近一封去信（邮箱索引；去信共 23 封）",
+"k": "f09564c6c1e0c215"
 }
 ],
 "proof_gaps": [
@@ -68834,10 +70322,18 @@
 "next_move": {
 "when": "2027-Q1",
 "channel": "WhatsApp",
-"action": "一页式报价（研究档）（用 one_question 这句，WhatsApp 直接发，不附资料）（第 75 批(q) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；WhatsApp 一句话版）",
+"action": "一页式报价（研究档）（用 one_question 这句，WhatsApp 直接发，不附资料）（第 75 批(q) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；WhatsApp 一句话版）（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
 "one_question": "Francesco, the detailed price list you asked for at IFSEC: commercial 24-port PoE+ with 4 SFP at $134.5 EXW, 8-port PoE+ managed at $80.7, and the DIN-rail industrial 8-port PoE+ at $137.5 — which of the three would you like a sample of for the Caserta demo room?"
 },
 "facts": [
+{
+"date": "2024-07-09",
+"dir": "去",
+"who": "S 箱（Simon）",
+"quote": "industrial poe switch",
+"why": "首封去信（邮箱索引；去信共 23 封）",
+"k": "af7c015c0c0a0398"
+},
 {
 "date": "2024-08-07",
 "dir": "去",
@@ -68847,12 +70343,44 @@
 "k": "535fa639b6b07db7"
 },
 {
+"date": "2024-09-04",
+"dir": "去",
+"who": "S 箱（Simon）",
+"quote": "10G media converter｜稿内价 $65",
+"why": "去信正文含价（邮箱索引）",
+"k": "a9b45304e9fc36a5"
+},
+{
+"date": "2024-09-04",
+"dir": "去",
+"who": "S 箱（Simon）报价",
+"quote": "10G media converter｜ $65（原句：Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unma）",
+"why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
+"k": "a9b45304e9fc36a5"
+},
+{
+"date": "2024-10-14",
+"dir": "去",
+"who": "S 箱（Simon）报价",
+"quote": "48 Port PoE Managed Switch｜ $300（原句：Price is very competitive, 300usd/pc）",
+"why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
+"k": "84e028cb13691dc1"
+},
+{
 "date": "2024-11-12",
 "dir": "去",
 "who": "Saga（群发）",
 "quote": "「8 Port Ethernet Switch」被打开（Mailtrack Opened 标签）",
 "why": "唯一的互动痕迹",
 "k": "8fcd8b6dea1d95ec"
+},
+{
+"date": "2026-09-16",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "16 Port Industrial PoE Switch",
+"why": "最近一封去信（邮箱索引；去信共 23 封）",
+"k": "256b93299e19a6e2"
 }
 ],
 "proof_gaps": [
@@ -69322,7 +70850,7 @@
 "next_move": {
 "when": "2027-Q1（Simon 决定是否重启；视频会后 7 封 0 回）",
 "channel": "A 邮箱 / Simon 原通道（Vicom）",
-"action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(q) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））",
+"action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(q) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
 "one_question": "Your VIES7511-8PGE2GF-DC and the 24GP4GC-L2M are the two footprints we build on a Marvell core, so I am quoting both in VICOM packing as a second source, with the 16-port PoE model following the same datasheet layout. Which of the two footprints would VICOM second-source first? Reference: STI-288GPM at $85.5 / STC-424DGGPM-280W at $145.7 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
@@ -69343,12 +70871,60 @@
 "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.62 2024.5.19"
 },
 {
+"date": "2024-06-29",
+"dir": "去",
+"who": "S 箱（Simon）",
+"quote": "Passive PoE Switch",
+"why": "首封去信（邮箱索引；去信共 7 封）",
+"k": "d506b84843049f1c"
+},
+{
+"date": "2024-09-25",
+"dir": "去",
+"who": "S 箱（Simon）",
+"quote": "10G Media Converter｜稿内价 $65",
+"why": "去信正文含价（邮箱索引）",
+"k": "b9e9b5734c182bc5"
+},
+{
+"date": "2024-09-25",
+"dir": "去",
+"who": "S 箱（Simon）报价",
+"quote": "10G Media Converter｜ $65（原句：Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unma）",
+"why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
+"k": "b9e9b5734c182bc5"
+},
+{
+"date": "2024-11-01",
+"dir": "去",
+"who": "S 箱（Simon）报价",
+"quote": "48 Port PoE Managed Switch｜ $300（原句：*Price is very competitive, 300usd/pc*）",
+"why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
+"k": "059353780a2260c5"
+},
+{
+"date": "2024-12-20",
+"dir": "去",
+"who": "S 箱（Simon）",
+"quote": "90W PoE Managed Switch",
+"why": "最近一封去信（邮箱索引；去信共 7 封）",
+"k": "c91df850a91c2cb9"
+},
+{
 "date": "2026-08-17",
 "dir": "去",
 "who": "Elsa 群发（BCC；To mintusony@gmail.com，印度-2（锚 mintusony IN；2025-02-25 起月轮，12 轮） 批次）",
 "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
 "why": "Elsa 箱群发 BCC 触达证据（命中地址 info@vicomsecurity.com, vicomsecurity.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
 "k": "elsa_bcc"
+},
+{
+"date": "2026-08-17",
+"dir": "去",
+"who": "Elsa 箱群发 Bcc",
+"quote": "24 Port PoE Managed Switch｜Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24",
+"why": "Elsa 群发命中（批 印度-2（锚 mintusony IN；，锚 To mintusony@gmail.com）",
+"k": "1a00e1740d3438ea"
 }
 ],
 "proof_gaps": [
@@ -70266,10 +71842,18 @@
 "next_move": {
 "when": "2027-Q1",
 "channel": "A 邮箱 → ets@",
-"action": "问现供价位段（第 75 批(q) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；预算线 HRUI STC-028GP/114GP 不写 Marvell）",
+"action": "问现供价位段（第 75 批(q) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；预算线 HRUI STC-028GP/114GP 不写 Marvell）（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
 "one_question": "What landed price per 8-port PoE switch do you pay today, so we can tell you honestly whether Marvell fits? Reference: STC-28DGGPM at $84.1 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
+{
+"date": "2025-02-26",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "Industrial PoE Switch",
+"why": "首封去信（邮箱索引；去信共 14 封）",
+"k": "5f68ac5af5095d8c"
+},
 {
 "date": "2025-12-04",
 "dir": "来",
@@ -70279,12 +71863,36 @@
 "k": "a42411d30baef3d6"
 },
 {
+"date": "2025-12-04",
+"dir": "来",
+"who": "ets@elitteamsecurity.com",
+"quote": "Re: Optional Marvell Chipset Solutions｜*Hi,*  Thank you for your message and the detailed overview. We are definitely interested in exploring your Marvell AC3 and AC5 solutions, especially ",
+"why": "来信（邮箱索引；原文见 k；是否人工回复以原文为准）",
+"k": "a42411d30baef3d6"
+},
+{
 "date": "2025-12-17",
 "dir": "来",
 "who": "Lachezar",
 "quote": "there are quite a few useful and interesting points that we could apply, but overall, the prices are rather high.",
 "why": "价格停点",
 "k": "4c204b4351556387"
+},
+{
+"date": "2025-12-17",
+"dir": "来",
+"who": "ets@elitteamsecurity.com",
+"quote": "Re: Optional Marvell Chipset Solutions｜*Hi,*  Yes, I reviewed the information — there are quite a few useful and interesting points that we could apply, but overall, the prices are rather h",
+"why": "来信（邮箱索引；原文见 k；是否人工回复以原文为准）",
+"k": "4c204b4351556387"
+},
+{
+"date": "2026-09-07",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "16 Port Industrial PoE Switch",
+"why": "最近一封去信（邮箱索引；去信共 14 封）",
+"k": "5468323c3bbb5692"
 }
 ],
 "proof_gaps": [],
@@ -70660,7 +72268,7 @@
 "next_move": {
 "when": "2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）",
 "channel": "A 邮箱 → info@falke-security.de（Nuri Sahin）",
-"action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(q) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））",
+"action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(q) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
 "one_question": "You asked at the show for the 8-copper models with fibre uplinks, so here are the two closest Marvell-based units, the 8-port PoE+ with 2 SFP and the 24-port with four 10G SFP+ uplinks, both at EXW. Which of the two should I price first? Reference: STC-28DGGPM at $84.1 / STC-424XGGPM-280W at $180 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
@@ -70673,11 +72281,27 @@
 "k": "0443766a26891554"
 },
 {
+"date": "2025-04-15",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "L3 Managed Switch",
+"why": "首封去信（邮箱索引；去信共 15 封）",
+"k": "0443766a26891554"
+},
+{
 "date": "2026-09-24",
 "dir": "去",
 "who": "Saga（Alan）",
 "quote": "「Managed PoE Switches」——最后一封",
 "why": "公用 info@ 打了 17 个月无反应；具名 Nuri Sahin 下次直发",
+"k": "d564e14c35bc58ca"
+},
+{
+"date": "2026-09-24",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "Managed PoE Switches",
+"why": "最近一封去信（邮箱索引；去信共 15 封）",
 "k": "d564e14c35bc58ca"
 }
 ],
@@ -71906,10 +73530,18 @@
 "next_move": {
 "when": "群发节奏",
 "channel": "A 邮箱",
-"action": "观察打开",
+"action": "观察打开（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
 "one_question": "For the camera tower BOM, a DIN-rail 4-port gigabit PoE switch with SFP uplink, 44–57 V DC input and −40 to +75 °C rating is $36.9 EXW in volume — what PoE budget per tower do your PRO SOLAR units allow?"
 },
 "facts": [
+{
+"date": "2025-04-11",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "8 Port Industrial PoE Switch",
+"why": "首封去信（邮箱索引；去信共 15 封）",
+"k": "eef96240e0f14528"
+},
 {
 "date": "2026-09-23",
 "dir": "去",
@@ -71917,6 +73549,14 @@
 "quote": "10G Enterprise SFP Switch、8 Port Industrial PoE Switch",
 "why": "15 封 / 1 次打开 / 0 回｜首封 2025-04-11 → 末封 2026-09-23（15 去 / 0 来）",
 "k": "gmail_digest"
+},
+{
+"date": "2026-09-23",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "Managed PoE Switches",
+"why": "最近一封去信（邮箱索引；去信共 15 封）",
+"k": "e9d6cad1b5da85cc"
 }
 ],
 "proof_gaps": [
@@ -106890,7 +108530,7 @@
 "next_move": {
 "when": "2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）",
 "channel": "A 邮箱 → r.hannemann@isimko.de（德语）",
-"action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 74 批(r) 2026-10-25：英文信稿已写 `draft_en`（= 客户语言钩子句的英文版，客户语言一句话留在备注里））（第 76 批(c) 2026-10-25：0 事实户补时间线事实）",
+"action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 74 批(r) 2026-10-25：英文信稿已写 `draft_en`（= 客户语言钩子句的英文版，客户语言一句话留在备注里））（第 76 批(c) 2026-10-25：0 事实户补时间线事实）（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
 "one_question": "Herr Hannemann, zu Ihrer Anfrage „12 × Glasfaser / 12 × Kupfer\": das nächstliegende Industriegerät ist 8 × SFP + 4 × 10G SFP+ und 8 × RJ45 (DIN, −40 bis +75 °C, $332.6 EXW); alternativ ein 19\"-Gerät mit 16 SFP + 8 Combo-Ports ($392.4) — welche Variante passt zum Schaltschrank?"
 },
 "facts": [
@@ -106908,6 +108548,14 @@
 "who": "S 箱（Simon）",
 "quote": "24 Port PoE Managed Switch",
 "why": "最近一封去信（邮箱索引；去信共 11 封）",
+"k": "6d2437354be82f93"
+},
+{
+"date": "2026-09-30",
+"dir": "去",
+"who": "S 箱（Simon）报价",
+"quote": "24 Port PoE Managed Switch｜ $180（原句：*Price: 180USD/PC*）",
+"why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
 "k": "6d2437354be82f93"
 }
 ],
@@ -165448,10 +167096,18 @@
 "next_move": {
 "when": "群发节奏",
 "channel": "A 邮箱",
-"action": "观察打开",
+"action": "观察打开（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
 "one_question": "Alongside the Maiwe, EtherWAN and Advantech industrial switches you represent, we supply DIN-rail 8-PoE + 2 SFP managed and 5/8-GE unmanaged units (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your customers order most?"
 },
 "facts": [
+{
+"date": "2025-11-03",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "10G Enterprise SFP Switch",
+"why": "首封去信（邮箱索引；去信共 4 封）",
+"k": "585cffa0b532ea3e"
+},
 {
 "date": "2026-02-10",
 "dir": "去",
@@ -165459,6 +167115,14 @@
 "quote": "10G Enterprise SFP Switch、Marvell Industrial Alert System",
 "why": "4 封 / 0 次打开 / 0 回｜首封 2025-11-03 → 末封 2026-02-10（4 去 / 0 来）",
 "k": "gmail_digest"
+},
+{
+"date": "2026-02-10",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "Managed Optical Bypass Switch",
+"why": "最近一封去信（邮箱索引；去信共 4 封）",
+"k": "f1e6a1924ae6d1ee"
 }
 ],
 "proof_gaps": [],
@@ -172245,10 +173909,18 @@
 "next_move": {
 "when": "群发节奏",
 "channel": "A 邮箱",
-"action": "观察打开",
+"action": "观察打开（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
 "one_question": "Kenneth, for the PoE switches installed inside your weatherproof enclosures, we can supply DIN-rail 4-PoE and 8-PoE + 2 SFP units (−40~75 °C, 12–57 V, FCC/CE/RoHS; managed versions on a Marvell platform) under the Altelix label from small lots — would a pre-bundled enclosure + PoE switch SKU fit your range?"
 },
 "facts": [
+{
+"date": "2026-04-24",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "Industrial PoE Switch",
+"why": "首封去信（邮箱索引；去信共 6 封）",
+"k": "4b6bbc8289a48f6d"
+},
 {
 "date": "2026-09-01",
 "dir": "去",
@@ -172256,6 +173928,14 @@
 "quote": "Industrial PoE Switch、10G Enterprise SFP Switch",
 "why": "6 封 / 0 次打开 / 0 回｜首封 2026-04-24 → 末封 2026-09-01（6 去 / 0 来）",
 "k": "gmail_digest"
+},
+{
+"date": "2026-09-01",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "24 Port PoE Managed Switch",
+"why": "最近一封去信（邮箱索引；去信共 6 封）",
+"k": "fdf9e803873a9f27"
 }
 ],
 "proof_gaps": [],
@@ -197253,10 +198933,18 @@
 "next_move": {
 "when": "群发节奏",
 "channel": "A 邮箱",
-"action": "观察打开",
+"action": "观察打开（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
 "one_question": "Ido, for the PoE switches that aggregate your seismic sensor units and cameras at solar farms and industrial sites, we supply compact DIN-rail 4-PoE + 1 SFP and 8-PoE + 2 SFP industrial units (−40~75 °C, 12–57 V, FCC/CE/RoHS) from small lots, EXW USD — which port count do your remote-site kits typically need?"
 },
 "facts": [
+{
+"date": "2026-04-24",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "Industrial PoE Switch",
+"why": "首封去信（邮箱索引；去信共 6 封）",
+"k": "7bf6009dd9a70126"
+},
 {
 "date": "2026-09-01",
 "dir": "去",
@@ -197264,6 +198952,14 @@
 "quote": "Industrial PoE Switch、10G Enterprise SFP Switch",
 "why": "6 封 / 0 次打开 / 0 回｜首封 2026-04-24 → 末封 2026-09-01（6 去 / 0 来）",
 "k": "gmail_digest"
+},
+{
+"date": "2026-09-01",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "24 Port PoE Managed Switch",
+"why": "最近一封去信（邮箱索引；去信共 6 封）",
+"k": "3149e71aaf74a2c3"
 }
 ],
 "proof_gaps": [],
@@ -203548,7 +205244,7 @@
 "next_move": {
 "when": "2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）",
 "channel": "A 邮箱 → volker.pompetzki@ute.de",
-"action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(al) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；STI-054FP 价未列，写 on request；Elsa BCC 08-31 已触达，开头点明）",
+"action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(al) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；STI-054FP 价未列，写 on request；Elsa BCC 08-31 已触达，开头点明）（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
 "one_question": "Your Industrial Ethernet category runs on PLANET DIN-rail units (ISW-504PS at €178.50 net) — a neutral-packed STI line at EXW (managed versions on a Marvell platform) gives the same slot a second source with margin you set yourself. For the 4-port PoE DIN-rail class (ISW-504PS), do your Systemhaus customers mostly need Fast Ethernet, or has demand moved to Gigabit PoE — so I send the right sample first? Reference: STI-054GP (4 × GE PoE + 1 × GE, DIN-rail) at $32.5 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
@@ -203561,12 +205257,28 @@
 "k": "elsa_bcc"
 },
 {
+"date": "2025-03-28",
+"dir": "去",
+"who": "Elsa 箱群发 Bcc",
+"quote": "16 Port Ethernet Switch｜Hi, How are you? There is a 16-port Din Gigabit Ethernet swi",
+"why": "Elsa 群发命中（批 DE，锚 To office@all4fiber.com）",
+"k": "195dbdf4e5b5d628"
+},
+{
 "date": "2026-08-31",
 "dir": "去",
 "who": "Elsa 群发（BCC；To office@all4fiber.com，DE 批次）",
 "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
 "why": "Elsa 箱群发 BCC 触达证据（命中地址 info@ute.de, nils.linnemann@ute.de, ute.de, volker.pompetzki@ute.de）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
 "k": "elsa_bcc"
+},
+{
+"date": "2026-08-31",
+"dir": "去",
+"who": "Elsa 箱群发 Bcc",
+"quote": "24 Port PoE Managed Switch｜Price: 170USD/PC",
+"why": "Elsa 群发命中（批 DE，锚 To office@all4fiber.com）",
+"k": "1a056d5159d35ca3"
 }
 ],
 "proof_gaps": [
@@ -235163,10 +236875,34 @@
 "next_move": {
 "when": "2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）",
 "channel": "A 邮箱 → info@kyma.it（Davide Zisios）",
-"action": "首封前知悉：Elsa 仅 2025-02-17 单发过 1 封「16 Port Ethernet Switch」，之后没再碰他（第 74 批(m)）；一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(al) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）",
+"action": "首封前知悉：Elsa 仅 2025-02-17 单发过 1 封「16 Port Ethernet Switch」，之后没再碰他（第 74 批(m)）；一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(al) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
 "one_question": "Kyma has imported PLANET since 1994 and now also carries 3onedata, so direct sourcing from Asia is already part of how you run the business. Which industrial PoE configuration do your customers ask for most: 8-port PoE+ with 2 SFP, or the 4 SFP version? Reference: STI-288GPM at $78.9 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
+{
+"date": "2024-06-27",
+"dir": "去",
+"who": "S 箱（Simon）",
+"quote": "Industrial Ethernet Switch",
+"why": "首封去信（邮箱索引；去信共 20 封）",
+"k": "d7db4293491aa104"
+},
+{
+"date": "2024-08-20",
+"dir": "去",
+"who": "S 箱（Simon）",
+"quote": "10G media converter｜稿内价 $65",
+"why": "去信正文含价（邮箱索引）",
+"k": "135bc0edf19035a0"
+},
+{
+"date": "2024-08-20",
+"dir": "去",
+"who": "S 箱（Simon）报价",
+"quote": "10G media converter｜ $65（原句：Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unma）",
+"why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
+"k": "135bc0edf19035a0"
+},
 {
 "date": "2025-02-17",
 "dir": "out",
@@ -291033,10 +292769,34 @@
 "next_move": {
 "when": "2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）",
 "channel": "A 邮箱 → eds@eds.com.tr（Osman Yıldız；土耳其语）",
-"action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 74 批(r) 2026-10-25：英文信稿已写 `draft_en`（= 客户语言钩子句的英文版，客户语言一句话留在备注里）；「以前的客户」只据用户表，具体型号未知——信里请对方报型号，不编）（第 76 批(d) 2026-10-25：锚价小数写法 137,5 → $137.5）",
+"action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 74 批(r) 2026-10-25：英文信稿已写 `draft_en`（= 客户语言钩子句的英文版，客户语言一句话留在备注里）；「以前的客户」只据用户表，具体型号未知——信里请对方报型号，不编）（第 76 批(d) 2026-10-25：锚价小数写法 137,5 → $137.5）（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
 "one_question": "Osman Bey, ISAF'ta görüşmemizin devamı olarak: önceki siparişlerinizdeki modellerin güncel karşılıklarını ve EDS etiketli DIN ray 8 PoE+ + 2 SFP L2+ endüstriyel switch (137,5 USD EXW) fiyatını tek sayfada hazırladım — ithalat tarafında Münevver Hanım'a mı yoksa Gülnihal Hanım'a mı iletmemi istersiniz?"
 },
 "facts": [
+{
+"date": "2024-07-05",
+"dir": "去",
+"who": "S 箱（Simon）",
+"quote": "PoE Switch",
+"why": "首封去信（邮箱索引；去信共 12 封）",
+"k": "515efc7b73b526b1"
+},
+{
+"date": "2024-08-08",
+"dir": "去",
+"who": "S 箱（Simon）",
+"quote": "10G media converter｜稿内价 $65",
+"why": "去信正文含价（邮箱索引）",
+"k": "e1f47565ed2822b1"
+},
+{
+"date": "2024-08-08",
+"dir": "去",
+"who": "S 箱（Simon）报价",
+"quote": "10G media converter｜ $65（原句：Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unma）",
+"why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
+"k": "e1f47565ed2822b1"
+},
 {
 "date": "2024-11-05",
 "dir": "去",
@@ -291044,6 +292804,22 @@
 "quote": "名单行：「Munevver Acarer import eds@eds.com.tr 90 216 528 45 00 Eds protection technology」",
 "why": "Saga 2024-11-05 把本户列入交给 Angora（安卡拉，Saga 提议的欧盟/土耳其分销伙伴）的 64 家起步名单；此后 Saga 仍直发本户。若 Angora 已接触过本户，Saga 直发会与自己提议的渠道打架 → Q-51（默认：直发继续，Angora 报了价的户 Saga 只做技术支持）",
 "k": "gmail_s 2024-11-05 Re: Invoice_5pcs STC-424DGGPM-280W（附件）+ Drive PI 7_土耳其 Turkey_Client_List.xlsx"
+},
+{
+"date": "2024-11-13",
+"dir": "去",
+"who": "S 箱（Simon）报价",
+"quote": "48 Port PoE Managed Switch｜ $300（原句：*Price is very competitive, 300usd/pc*）",
+"why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
+"k": "57581384353465d0"
+},
+{
+"date": "2026-03-05",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "Updated Ethernet Switches Links",
+"why": "最近一封去信（邮箱索引；去信共 12 封）",
+"k": "6e89b919a842eec0"
 }
 ],
 "proof_gaps": [
@@ -293507,10 +295283,26 @@
 "next_move": {
 "when": "群发节奏",
 "channel": "A 邮箱",
-"action": "观察打开",
+"action": "观察打开（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
 "one_question": "Alongside the MaiWe MIEN2205 / MIEN2208 switches in your energy-monitoring cabinets, we supply DIN-rail 5/8-GE unmanaged and 8-PoE + 2 SFP managed units (−40~75 °C, 12–58 VDC, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your sites use most?"
 },
 "facts": [
+{
+"date": "2025-10-13",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "10G Enterprise SFP Switch",
+"why": "首封去信（邮箱索引；去信共 12 封）",
+"k": "f96b0d925a6e19ca"
+},
+{
+"date": "2026-08-17",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "24 Port PoE Managed Switch｜稿内价 $170",
+"why": "去信正文含价（邮箱索引）",
+"k": "bf3bc46b37a11a29"
+},
 {
 "date": "2026-09-24",
 "dir": "去",
@@ -293518,6 +295310,14 @@
 "quote": "10G Enterprise SFP Switch、Booster PoE Switch",
 "why": "12 封 / 1 次打开 / 0 回｜首封 2025-10-13 → 末封 2026-09-24（12 去 / 0 来）",
 "k": "gmail_digest"
+},
+{
+"date": "2026-09-24",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "Managed PoE Switches",
+"why": "最近一封去信（邮箱索引；去信共 12 封）",
+"k": "e6599ebb77c27855"
 }
 ],
 "proof_gaps": [],
@@ -333004,10 +334804,18 @@
 "next_move": {
 "when": "群发节奏",
 "channel": "A 邮箱",
-"action": "观察打开",
+"action": "观察打开（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
 "one_question": "Asuman, alongside the SZNT PoE switches in your dealer portal, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and budget 4/8-port PoE models from small lots, CE/RoHS, EXW USD — which band do your dealers order most, FE or gigabit PoE?"
 },
 "facts": [
+{
+"date": "2025-10-30",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "10G Enterprise SFP Switch",
+"why": "首封去信（邮箱索引；去信共 11 封）",
+"k": "c50cc052b64499c4"
+},
 {
 "date": "2026-10-06",
 "dir": "去",
@@ -333015,6 +334823,14 @@
 "quote": "10G Enterprise SFP Switch、Booster PoE Switch",
 "why": "11 封 / 0 次打开 / 0 回｜首封 2025-10-30 → 末封 2026-10-06（11 去 / 0 来）",
 "k": "gmail_digest"
+},
+{
+"date": "2026-10-06",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "Managed PoE Switches",
+"why": "最近一封去信（邮箱索引；去信共 11 封）",
+"k": "bb5d3a4356775b8e"
 }
 ],
 "proof_gaps": [],
@@ -334082,10 +335898,18 @@
 "next_move": {
 "when": "群发节奏",
 "channel": "A 邮箱",
-"action": "观察打开",
+"action": "观察打开（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
 "one_question": "Gökhan, alongside the Hikvision and Dahua systems you import, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switches and budget 8/16-port PoE units for camera kits from small lots, CE/RoHS, EXW USD — which port count do your dealers order most?"
 },
 "facts": [
+{
+"date": "2025-10-30",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "10G Enterprise SFP Switch",
+"why": "首封去信（邮箱索引；去信共 11 封）",
+"k": "e58549f8f147fe00"
+},
 {
 "date": "2026-10-06",
 "dir": "去",
@@ -334093,6 +335917,14 @@
 "quote": "10G Enterprise SFP Switch、Booster PoE Switch",
 "why": "11 封 / 0 次打开 / 0 回｜首封 2025-10-30 → 末封 2026-10-06（11 去 / 0 来）",
 "k": "gmail_digest"
+},
+{
+"date": "2026-10-06",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "Managed PoE Switches",
+"why": "最近一封去信（邮箱索引；去信共 11 封）",
+"k": "ac4266285c010758"
 }
 ],
 "proof_gaps": [],
@@ -339199,10 +341031,18 @@
 "next_move": {
 "when": "群发节奏",
 "channel": "A 邮箱",
-"action": "观察打开",
+"action": "观察打开（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
 "one_question": "Salih, for the PoE switches at your PTP/PTMP radio sites and smart-city poles, we supply DIN-rail 4-PoE + 1 GE and 8-PoE + 2 SFP units (−40~75 °C, 90 W PoE++ option, CE/RoHS, neutral packing; the 8-PoE managed version on a Marvell platform) from small lots, EXW USD — which port count do your energy and smart-city sites use most?"
 },
 "facts": [
+{
+"date": "2025-10-30",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "10G Enterprise SFP Switch",
+"why": "首封去信（邮箱索引；去信共 11 封）",
+"k": "e63f7c6afb1eca1b"
+},
 {
 "date": "2026-10-06",
 "dir": "去",
@@ -339210,6 +341050,14 @@
 "quote": "10G Enterprise SFP Switch、Booster PoE Switch",
 "why": "11 封 / 0 次打开 / 0 回｜首封 2025-10-30 → 末封 2026-10-06（11 去 / 0 来）",
 "k": "gmail_digest"
+},
+{
+"date": "2026-10-06",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "Managed PoE Switches",
+"why": "最近一封去信（邮箱索引；去信共 11 封）",
+"k": "493d8da7280e84d8"
 }
 ],
 "proof_gaps": [],
@@ -368597,7 +370445,7 @@
 "next_move": {
 "when": "2026-11",
 "channel": "A 邮箱 → norm@nsidistribution.com",
-"action": "一句话",
+"action": "一句话（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
 "one_question": "Our June note on the 24-port PoE / 10G unit — is there a line in the NSI catalogue it would fit, and who decides on new vendors?"
 },
 "facts": [
@@ -368607,6 +370455,14 @@
 "who": "Saga（群发）",
 "quote": "「Industrial PoE Switch」被打开（Mailtrack Opened 标签）",
 "why": "唯一的互动痕迹",
+"k": "c5c7abff2df78e77"
+},
+{
+"date": "2025-05-27",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "Industrial PoE Switch",
+"why": "首封去信（邮箱索引；去信共 18 封）",
 "k": "c5c7abff2df78e77"
 },
 {
@@ -368624,6 +370480,14 @@
 "quote": "「10G L3 Managed Switch」被打开（Mailtrack Opened 标签）",
 "why": "唯一的互动痕迹",
 "k": "0e8efb29e3a824ef"
+},
+{
+"date": "2026-09-24",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "Managed PoE Switches",
+"why": "最近一封去信（邮箱索引；去信共 18 封）",
+"k": "229930f76646812f"
 }
 ],
 "proof_gaps": [
@@ -408887,10 +410751,18 @@
 "next_move": {
 "when": "群发节奏",
 "channel": "A 邮箱",
-"action": "观察打开",
+"action": "观察打开（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
 "one_question": "We supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and 24-PoE + 4 SFP switches plus DIN-rail industrial units from single units, CE/RoHS, EXW USD — does your business carry or install network switches, and if so which port count do your customers ask for most?"
 },
 "facts": [
+{
+"date": "2025-10-30",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "10G Enterprise SFP Switch",
+"why": "首封去信（邮箱索引；去信共 5 封）",
+"k": "362191717a902f72"
+},
 {
 "date": "2026-03-11",
 "dir": "去",
@@ -408898,6 +410770,14 @@
 "quote": "10G Enterprise SFP Switch、Booster PoE Switch",
 "why": "5 封 / 0 次打开 / 0 回｜首封 2025-10-30 → 末封 2026-03-11（5 去 / 0 来）",
 "k": "gmail_digest"
+},
+{
+"date": "2026-03-11",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "Updated Ethernet Switches Links",
+"why": "最近一封去信（邮箱索引；去信共 5 封）",
+"k": "601ab8dcfb544389"
 }
 ],
 "proof_gaps": [],
@@ -409101,10 +410981,18 @@
 "next_move": {
 "when": "群发节奏",
 "channel": "A 邮箱",
-"action": "观察打开",
+"action": "观察打开（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
 "one_question": "For the access switches you deploy under corporate IT maintenance contracts, we supply Marvell-based 8-PoE + 2 SFP L2+ and 24-GE + 4×10G models from single units, CE/RoHS, EXW USD — which switch position comes up most in your Istanbul client sites?"
 },
 "facts": [
+{
+"date": "2025-10-27",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "10G Enterprise SFP Switch",
+"why": "首封去信（邮箱索引；去信共 5 封）",
+"k": "6a97c84bd6f8673b"
+},
 {
 "date": "2026-03-04",
 "dir": "去",
@@ -409112,6 +411000,14 @@
 "quote": "10G Enterprise SFP Switch、Booster PoE Switch",
 "why": "5 封 / 0 次打开 / 0 回｜首封 2025-10-27 → 末封 2026-03-04（5 去 / 0 来）",
 "k": "gmail_digest"
+},
+{
+"date": "2026-03-04",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "Updated Ethernet Switches Links",
+"why": "最近一封去信（邮箱索引；去信共 5 封）",
+"k": "d807fe9d03f61713"
 }
 ],
 "proof_gaps": [],
@@ -409617,10 +411513,18 @@
 "next_move": {
 "when": "群发节奏",
 "channel": "A 邮箱",
-"action": "观察打开",
+"action": "观察打开（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
 "one_question": "For the PoE switches behind your Karel IP telephony and Dahua camera installations, we supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ models (QoS/VLAN for voice) from single units, CE/RoHS, EXW USD — which port count do your projects use most?"
 },
 "facts": [
+{
+"date": "2025-10-30",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "10G Enterprise SFP Switch",
+"why": "首封去信（邮箱索引；去信共 5 封）",
+"k": "c91b02b7dbd6c401"
+},
 {
 "date": "2026-03-11",
 "dir": "去",
@@ -409628,6 +411532,14 @@
 "quote": "10G Enterprise SFP Switch、Booster PoE Switch",
 "why": "5 封 / 0 次打开 / 0 回｜首封 2025-10-30 → 末封 2026-03-11（5 去 / 0 来）",
 "k": "gmail_digest"
+},
+{
+"date": "2026-03-11",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "Updated Ethernet Switches Links",
+"why": "最近一封去信（邮箱索引；去信共 5 封）",
+"k": "95a32fcad90818d1"
 }
 ],
 "proof_gaps": [],
@@ -410079,10 +411991,18 @@
 "next_move": {
 "when": "群发节奏",
 "channel": "A 邮箱",
-"action": "观察打开",
+"action": "观察打开（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
 "one_question": "Müjde, for the PoE switches that power the IP phones and cameras in your unified-communications and security projects, we supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ models (voice QoS/VLAN) from single units, CE/RoHS, EXW USD — which port count do your call-centre and office projects use most?"
 },
 "facts": [
+{
+"date": "2025-10-30",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "10G Enterprise SFP Switch",
+"why": "首封去信（邮箱索引；去信共 5 封）",
+"k": "0ee726d503eb3ff2"
+},
 {
 "date": "2026-03-11",
 "dir": "去",
@@ -410090,6 +412010,14 @@
 "quote": "10G Enterprise SFP Switch、Booster PoE Switch",
 "why": "5 封 / 0 次打开 / 0 回｜首封 2025-10-30 → 末封 2026-03-11（5 去 / 0 来）",
 "k": "gmail_digest"
+},
+{
+"date": "2026-03-11",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "Updated Ethernet Switches Links",
+"why": "最近一封去信（邮箱索引；去信共 5 封）",
+"k": "51e38f0090422439"
 }
 ],
 "proof_gaps": [],
@@ -410300,10 +412228,18 @@
 "next_move": {
 "when": "群发节奏",
 "channel": "A 邮箱",
-"action": "观察打开",
+"action": "观察打开（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
 "one_question": "For the PoE switches you install with Hikvision cameras and Karel PBX systems, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port unmanaged PoE units from small lots, CE/RoHS, EXW USD — which band do your projects use most?"
 },
 "facts": [
+{
+"date": "2025-10-30",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "10G Enterprise SFP Switch",
+"why": "首封去信（邮箱索引；去信共 5 封）",
+"k": "bd84a89f43da79c4"
+},
 {
 "date": "2026-03-11",
 "dir": "去",
@@ -410311,6 +412247,14 @@
 "quote": "10G Enterprise SFP Switch、Booster PoE Switch",
 "why": "5 封 / 0 次打开 / 0 回｜首封 2025-10-30 → 末封 2026-03-11（5 去 / 0 来）",
 "k": "gmail_digest"
+},
+{
+"date": "2026-03-11",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "Updated Ethernet Switches Links",
+"why": "最近一封去信（邮箱索引；去信共 5 封）",
+"k": "f1a2fef21eb60ac3"
 }
 ],
 "proof_gaps": [],
@@ -410530,10 +412474,18 @@
 "next_move": {
 "when": "群发节奏",
 "channel": "A 邮箱",
-"action": "观察打开",
+"action": "观察打开（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
 "one_question": "Hakan, alongside the Korenix industrial PoE switches you list for energy and IIoT cabinets, we supply DIN-rail 8-PoE + 2 SFP managed (Marvell L2+) or unmanaged units (−40~75 °C, redundant input, CE/RoHS, neutral packing) from single units, EXW USD — which configuration do your SCADA and RTU sites use most?"
 },
 "facts": [
+{
+"date": "2025-10-30",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "10G Enterprise SFP Switch",
+"why": "首封去信（邮箱索引；去信共 5 封）",
+"k": "d084b0509c4d3544"
+},
 {
 "date": "2026-03-11",
 "dir": "去",
@@ -410541,6 +412493,14 @@
 "quote": "10G Enterprise SFP Switch、Booster PoE Switch",
 "why": "5 封 / 0 次打开 / 0 回｜首封 2025-10-30 → 末封 2026-03-11（5 去 / 0 来）",
 "k": "gmail_digest"
+},
+{
+"date": "2026-03-11",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "Updated Ethernet Switches Links",
+"why": "最近一封去信（邮箱索引；去信共 5 封）",
+"k": "7ca9e7d0bde1c202"
 }
 ],
 "proof_gaps": [],
@@ -410760,10 +412720,18 @@
 "next_move": {
 "when": "群发节奏",
 "channel": "A 邮箱",
-"action": "观察打开",
+"action": "观察打开（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
 "one_question": "Başak, for the PoE switches your dealers buy with Tiandy and Dahua NVR kits, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ model and budget 4/8-port unmanaged PoE units from small lots, CE/RoHS, EXW USD — which size do your dealers order most?"
 },
 "facts": [
+{
+"date": "2025-10-30",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "10G Enterprise SFP Switch",
+"why": "首封去信（邮箱索引；去信共 5 封）",
+"k": "59fb9b54589ceff8"
+},
 {
 "date": "2026-03-11",
 "dir": "去",
@@ -410771,6 +412739,14 @@
 "quote": "10G Enterprise SFP Switch、Booster PoE Switch",
 "why": "5 封 / 0 次打开 / 0 回｜首封 2025-10-30 → 末封 2026-03-11（5 去 / 0 来）",
 "k": "gmail_digest"
+},
+{
+"date": "2026-03-11",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "Updated Ethernet Switches Links",
+"why": "最近一封去信（邮箱索引；去信共 5 封）",
+"k": "14e3d7f505f80248"
 }
 ],
 "proof_gaps": [],
@@ -410988,10 +412964,18 @@
 "next_move": {
 "when": "群发节奏",
 "channel": "A 邮箱",
-"action": "观察打开",
+"action": "观察打开（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
 "one_question": "Erdal, for the PoE switches sold under the VGuard and Bullwark labels, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE 280 W, 802.3bt options) in your packaging from small lots, CE/RoHS — which PoE SKU do your dealers reorder most with camera kits?"
 },
 "facts": [
+{
+"date": "2025-10-30",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "10G Enterprise SFP Switch",
+"why": "首封去信（邮箱索引；去信共 5 封）",
+"k": "78be6cf1e8de588c"
+},
 {
 "date": "2026-03-11",
 "dir": "去",
@@ -410999,6 +412983,14 @@
 "quote": "10G Enterprise SFP Switch、Booster PoE Switch",
 "why": "5 封 / 0 次打开 / 0 回｜首封 2025-10-30 → 末封 2026-03-11（5 去 / 0 来）",
 "k": "gmail_digest"
+},
+{
+"date": "2026-03-11",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "Updated Ethernet Switches Links",
+"why": "最近一封去信（邮箱索引；去信共 5 封）",
+"k": "3a44944f9d39651b"
 }
 ],
 "proof_gaps": [],
@@ -412547,10 +414539,18 @@
 "next_move": {
 "when": "群发节奏",
 "channel": "A 邮箱",
-"action": "观察打开",
+"action": "观察打开（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
 "one_question": "For the network switches in your building-control and CCTV installations, we supply Marvell-based 8-PoE + 2 SFP L2+ and DIN-rail 8-GE + 2 SFP industrial units (−40~75 °C, CE/RoHS) from single units, EXW USD — which switch position do your Schneider EcoXpert projects use most?"
 },
 "facts": [
+{
+"date": "2025-10-30",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "10G Enterprise SFP Switch",
+"why": "首封去信（邮箱索引；去信共 5 封）",
+"k": "df583b5933a4c7c3"
+},
 {
 "date": "2026-03-11",
 "dir": "去",
@@ -412558,6 +414558,14 @@
 "quote": "10G Enterprise SFP Switch、Booster PoE Switch",
 "why": "5 封 / 0 次打开 / 0 回｜首封 2025-10-30 → 末封 2026-03-11（5 去 / 0 来）",
 "k": "gmail_digest"
+},
+{
+"date": "2026-03-11",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "Updated Ethernet Switches Links",
+"why": "最近一封去信（邮箱索引；去信共 5 封）",
+"k": "78449f5b33b3e0c0"
 }
 ],
 "proof_gaps": [],
@@ -412777,10 +414785,18 @@
 "next_move": {
 "when": "群发节奏",
 "channel": "A 邮箱",
-"action": "观察打开",
+"action": "观察打开（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
 "one_question": "Gokhan, alongside the Ruijie RG-ES switches you wholesale with Hikvision, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 8-port unmanaged models from small lots, CE/RoHS, EXW USD — which band do your dealers order most?"
 },
 "facts": [
+{
+"date": "2025-10-30",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "10G Enterprise SFP Switch",
+"why": "首封去信（邮箱索引；去信共 5 封）",
+"k": "14d44d281ddae685"
+},
 {
 "date": "2026-03-11",
 "dir": "去",
@@ -412788,6 +414804,14 @@
 "quote": "10G Enterprise SFP Switch、Booster PoE Switch",
 "why": "5 封 / 0 次打开 / 0 回｜首封 2025-10-30 → 末封 2026-03-11（5 去 / 0 来）",
 "k": "gmail_digest"
+},
+{
+"date": "2026-03-11",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "Updated Ethernet Switches Links",
+"why": "最近一封去信（邮箱索引；去信共 5 封）",
+"k": "0f7e40ec10359f9f"
 }
 ],
 "proof_gaps": [],
@@ -412996,10 +415020,18 @@
 "next_move": {
 "when": "群发节奏",
 "channel": "A 邮箱",
-"action": "观察打开",
+"action": "观察打开（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
 "one_question": "Alongside the Uniview and Ajax lines you distribute, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches from small lots, CE/RoHS, EXW USD — which PoE port count do your installer customers order most?"
 },
 "facts": [
+{
+"date": "2025-10-30",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "10G Enterprise SFP Switch",
+"why": "首封去信（邮箱索引；去信共 5 封）",
+"k": "7a0b31eb6dbd72cc"
+},
 {
 "date": "2026-03-11",
 "dir": "去",
@@ -413007,6 +415039,14 @@
 "quote": "10G Enterprise SFP Switch、Booster PoE Switch",
 "why": "5 封 / 0 次打开 / 0 回｜首封 2025-10-30 → 末封 2026-03-11（5 去 / 0 来）",
 "k": "gmail_digest"
+},
+{
+"date": "2026-03-11",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "Updated Ethernet Switches Links",
+"why": "最近一封去信（邮箱索引；去信共 5 封）",
+"k": "00d8c20483778e23"
 }
 ],
 "proof_gaps": [],
@@ -413212,10 +415252,18 @@
 "next_move": {
 "when": "群发节奏",
 "channel": "A 邮箱",
-"action": "观察打开",
+"action": "观察打开（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
 "one_question": "For the PoE switches sold with your CCTV and NVR range in export markets, we can be an ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE 280 W) in ENTPA packaging from small lots, CE/RoHS — which PoE SKU do your export dealers request most?"
 },
 "facts": [
+{
+"date": "2025-10-30",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "10G Enterprise SFP Switch",
+"why": "首封去信（邮箱索引；去信共 5 封）",
+"k": "c047803d6541cc9e"
+},
 {
 "date": "2026-03-11",
 "dir": "去",
@@ -413223,6 +415271,14 @@
 "quote": "10G Enterprise SFP Switch、Booster PoE Switch",
 "why": "5 封 / 0 次打开 / 0 回｜首封 2025-10-30 → 末封 2026-03-11（5 去 / 0 来）",
 "k": "gmail_digest"
+},
+{
+"date": "2026-03-11",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "Updated Ethernet Switches Links",
+"why": "最近一封去信（邮箱索引；去信共 5 封）",
+"k": "a58af8aca3ba38b7"
 }
 ],
 "proof_gaps": [],
@@ -414111,10 +416167,18 @@
 "next_move": {
 "when": "群发节奏",
 "channel": "A 邮箱",
-"action": "观察打开",
+"action": "观察打开（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
 "one_question": "For the access layer in your hotel and infrastructure projects, we supply Marvell-based 24-PoE + 4 SFP/SFP+ L2+ and 8-PoE + 2 SFP switches from single units, CE/RoHS, EXW USD — which access configuration do your current projects specify most?"
 },
 "facts": [
+{
+"date": "2025-10-30",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "10G Enterprise SFP Switch",
+"why": "首封去信（邮箱索引；去信共 5 封）",
+"k": "0d5026a4c3e46ef1"
+},
 {
 "date": "2026-03-11",
 "dir": "去",
@@ -414122,6 +416186,14 @@
 "quote": "10G Enterprise SFP Switch、Booster PoE Switch",
 "why": "5 封 / 0 次打开 / 0 回｜首封 2025-10-30 → 末封 2026-03-11（5 去 / 0 来）",
 "k": "gmail_digest"
+},
+{
+"date": "2026-03-11",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "Updated Ethernet Switches Links",
+"why": "最近一封去信（邮箱索引；去信共 5 封）",
+"k": "72282f7d95c00c1a"
 }
 ],
 "proof_gaps": [],
@@ -414706,10 +416778,18 @@
 "next_move": {
 "when": "群发节奏",
 "channel": "A 邮箱",
-"action": "观察打开",
+"action": "观察打开（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
 "one_question": "Murat, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and 24-PoE + 4 SFP switches plus DIN-rail industrial units from single units, CE/RoHS, EXW USD — does Goldnet resell or install network switches, and which port count do your customers ask for most?"
 },
 "facts": [
+{
+"date": "2025-10-30",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "10G Enterprise SFP Switch",
+"why": "首封去信（邮箱索引；去信共 5 封）",
+"k": "6aa92ffbca137432"
+},
 {
 "date": "2026-03-11",
 "dir": "去",
@@ -414717,6 +416797,14 @@
 "quote": "10G Enterprise SFP Switch、Booster PoE Switch",
 "why": "5 封 / 0 次打开 / 0 回｜首封 2025-10-30 → 末封 2026-03-11（5 去 / 0 来）",
 "k": "gmail_digest"
+},
+{
+"date": "2026-03-11",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "Updated Ethernet Switches Links",
+"why": "最近一封去信（邮箱索引；去信共 5 封）",
+"k": "1f62bfa2b7c2948e"
 }
 ],
 "proof_gaps": [],
@@ -416532,10 +418620,18 @@
 "next_move": {
 "when": "群发节奏",
 "channel": "A 邮箱",
-"action": "观察打开",
+"action": "观察打开（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
 "one_question": "Ali, alongside the BasIP intercoms and Fanvil phones you distribute, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switches and budget 4/8-port PoE units for installer kits from small lots, CE/RoHS, EXW USD — which port count do your dealers order most?"
 },
 "facts": [
+{
+"date": "2025-10-29",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "10G Enterprise SFP Switch",
+"why": "首封去信（邮箱索引；去信共 5 封）",
+"k": "fb81abde6e8ef329"
+},
 {
 "date": "2026-03-11",
 "dir": "去",
@@ -416543,6 +418639,14 @@
 "quote": "10G Enterprise SFP Switch、Booster PoE Switch",
 "why": "5 封 / 0 次打开 / 0 回｜首封 2025-10-29 → 末封 2026-03-11（5 去 / 0 来）",
 "k": "gmail_digest"
+},
+{
+"date": "2026-03-11",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "Updated Ethernet Switches Links",
+"why": "最近一封去信（邮箱索引；去信共 5 封）",
+"k": "41afcc40efc8951e"
 }
 ],
 "proof_gaps": [],
@@ -416751,10 +418855,18 @@
 "next_move": {
 "when": "群发节奏",
 "channel": "A 邮箱",
-"action": "观察打开",
+"action": "观察打开（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
 "one_question": "For the PoE switches in your camera and access-control installations, we supply Marvell-based 8-PoE + 2 SFP L2+ and DIN-rail 8-PoE industrial units from single units, CE/RoHS, EXW USD — which PoE port count do your industrial-site projects use most?"
 },
 "facts": [
+{
+"date": "2025-10-29",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "10G Enterprise SFP Switch",
+"why": "首封去信（邮箱索引；去信共 5 封）",
+"k": "aeaecbcf7d8c3f2b"
+},
 {
 "date": "2026-03-10",
 "dir": "去",
@@ -416762,6 +418874,14 @@
 "quote": "10G Enterprise SFP Switch、Booster PoE Switch",
 "why": "5 封 / 0 次打开 / 0 回｜首封 2025-10-29 → 末封 2026-03-10（5 去 / 0 来）",
 "k": "gmail_digest"
+},
+{
+"date": "2026-03-10",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "Updated Ethernet Switches Links",
+"why": "最近一封去信（邮箱索引；去信共 5 封）",
+"k": "42c86faf55f5fb1b"
 }
 ],
 "proof_gaps": [],
@@ -417662,10 +419782,18 @@
 "next_move": {
 "when": "群发节奏",
 "channel": "A 邮箱",
-"action": "观察打开",
+"action": "观察打开（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
 "one_question": "Mahmut, alongside the Ruijie 6120 series you deploy for 10G-uplink access, we supply Marvell-based 24-GE + 4×10G SFP+ L2+ switches (PoE 280 W option, CLI/web managed, CE/RoHS) from single units, EXW USD — which configuration do your corporate projects order most?"
 },
 "facts": [
+{
+"date": "2025-10-29",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "10G Enterprise SFP Switch",
+"why": "首封去信（邮箱索引；去信共 5 封）",
+"k": "c6029adb719c523b"
+},
 {
 "date": "2026-03-10",
 "dir": "去",
@@ -417673,6 +419801,14 @@
 "quote": "10G Enterprise SFP Switch、Booster PoE Switch",
 "why": "5 封 / 0 次打开 / 0 回｜首封 2025-10-29 → 末封 2026-03-10（5 去 / 0 来）",
 "k": "gmail_digest"
+},
+{
+"date": "2026-03-10",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "Updated Ethernet Switches Links",
+"why": "最近一封去信（邮箱索引；去信共 5 封）",
+"k": "f8b10ddcc709f373"
 }
 ],
 "proof_gaps": [],
@@ -417889,10 +420025,18 @@
 "next_move": {
 "when": "群发节奏",
 "channel": "A 邮箱",
-"action": "观察打开",
+"action": "观察打开（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
 "one_question": "Murat, alongside the TP-Link and Hikvision lines in your shop, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switches and budget 8-port PoE units from small lots, CE/RoHS, EXW USD — which port count do your camera-kit customers buy most?"
 },
 "facts": [
+{
+"date": "2025-10-29",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "10G Enterprise SFP Switch",
+"why": "首封去信（邮箱索引；去信共 5 封）",
+"k": "53b0fc50d1092947"
+},
 {
 "date": "2026-03-10",
 "dir": "去",
@@ -417900,6 +420044,14 @@
 "quote": "10G Enterprise SFP Switch、Booster PoE Switch",
 "why": "5 封 / 0 次打开 / 0 回｜首封 2025-10-29 → 末封 2026-03-10（5 去 / 0 来）",
 "k": "gmail_digest"
+},
+{
+"date": "2026-03-10",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "Updated Ethernet Switches Links",
+"why": "最近一封去信（邮箱索引；去信共 5 封）",
+"k": "82bba2d751bcdd1e"
 }
 ],
 "proof_gaps": [],
@@ -418848,10 +421000,18 @@
 "next_move": {
 "when": "2026-12",
 "channel": "A 邮箱 → inus@netshieldsa.com",
-"action": "一句话",
+"action": "一句话（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
 "one_question": "Inus — after the March list, is there one SKU worth a 2-unit sample under the Netshield label? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
+{
+"date": "2025-03-26",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "90W PoE Managed Switch",
+"why": "首封去信（邮箱索引；去信共 18 封）",
+"k": "d4bb441f58c20a3e"
+},
 {
 "date": "2026-03-23",
 "dir": "来",
@@ -418859,6 +421019,22 @@
 "quote": "Hi, Please give me indication of pricing on all your switches? Regards Inus",
 "why": "来信原文（主题「RE: Marvell Managed Commercial Swit」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
 "k": "e0c4b6cd7947d58e"
+},
+{
+"date": "2026-03-23",
+"dir": "来",
+"who": "inus@netshieldsa.com",
+"quote": "RE: Marvell Managed Commercial Switches｜Hi,  Please give me indication of pricing on all your switches?  Regards Inus  From: Alan from Saga Telecom <a.sagatelecom@gmail.com> Sent: 23 March 2",
+"why": "来信（邮箱索引；原文见 k；是否人工回复以原文为准）",
+"k": "e0c4b6cd7947d58e"
+},
+{
+"date": "2026-10-06",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "Managed PoE Switches",
+"why": "最近一封去信（邮箱索引；去信共 18 封）",
+"k": "50a2705b5790237b"
 }
 ],
 "proof_gaps": [],
@@ -420651,10 +422827,18 @@
 "next_move": {
 "when": "群发节奏",
 "channel": "A 邮箱",
-"action": "观察打开",
+"action": "观察打开（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
 "one_question": "Cenk, for the PoE switches that power your face-recognition terminals, turnstiles and car-park cameras, we can supply Marvell-based 8-PoE + 2 SFP L2+ and compact industrial 4-PoE units under the Perkotek label from small lots, CE/RoHS — which PoE SKU ships most with your access-control projects?"
 },
 "facts": [
+{
+"date": "2025-10-29",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "10G Enterprise SFP Switch",
+"why": "首封去信（邮箱索引；去信共 5 封）",
+"k": "beacf098ee129b3b"
+},
 {
 "date": "2026-03-09",
 "dir": "去",
@@ -420662,6 +422846,14 @@
 "quote": "10G Enterprise SFP Switch、Booster PoE Switch",
 "why": "5 封 / 0 次打开 / 0 回｜首封 2025-10-29 → 末封 2026-03-09（5 去 / 0 来）",
 "k": "gmail_digest"
+},
+{
+"date": "2026-03-09",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "Updated Ethernet Switches Links",
+"why": "最近一封去信（邮箱索引；去信共 5 封）",
+"k": "e3708fbe98a6b47a"
 }
 ],
 "proof_gaps": [],
@@ -422491,10 +424683,18 @@
 "next_move": {
 "when": "群发节奏",
 "channel": "A 邮箱",
-"action": "观察打开",
+"action": "观察打开（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
 "one_question": "For the switches listed under your active-devices category, we supply neutral-brand Marvell-based 24-GE + 4×10G and 24-PoE + 4 SFP L2+ switches (plus 8-PoE + 2 SFP) from small lots, CE/RoHS, EXW USD — would a cabinet + switch bundle SKU fit your data-network offer?"
 },
 "facts": [
+{
+"date": "2025-10-29",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "10G Enterprise SFP Switch",
+"why": "首封去信（邮箱索引；去信共 5 封）",
+"k": "83bff6859f92e2be"
+},
 {
 "date": "2026-03-09",
 "dir": "去",
@@ -422502,6 +424702,14 @@
 "quote": "10G Enterprise SFP Switch、Booster PoE Switch",
 "why": "5 封 / 0 次打开 / 0 回｜首封 2025-10-29 → 末封 2026-03-09（5 去 / 0 来）",
 "k": "gmail_digest"
+},
+{
+"date": "2026-03-09",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "Updated Ethernet Switches Links",
+"why": "最近一封去信（邮箱索引；去信共 5 封）",
+"k": "bf566d539f013c5f"
 }
 ],
 "proof_gaps": [],
@@ -424704,10 +426912,18 @@
 "next_move": {
 "when": "群发节奏",
 "channel": "A 邮箱",
-"action": "观察打开",
+"action": "观察打开（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
 "one_question": "Veli, alongside the D-Link PoE and industrial switches in your catalogue, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and DIN-rail industrial 8-PoE + 2 SFP units from small lots, CE/RoHS, EXW USD — which D-Link model do your customers order most, so we quote its equivalent?"
 },
 "facts": [
+{
+"date": "2025-10-29",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "10G Enterprise SFP Switch",
+"why": "首封去信（邮箱索引；去信共 5 封）",
+"k": "754f48f75551098c"
+},
 {
 "date": "2026-03-09",
 "dir": "去",
@@ -424715,6 +426931,14 @@
 "quote": "10G Enterprise SFP Switch、Booster PoE Switch",
 "why": "5 封 / 1 次打开 / 0 回｜首封 2025-10-29 → 末封 2026-03-09（5 去 / 0 来）",
 "k": "gmail_digest"
+},
+{
+"date": "2026-03-09",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "Updated Ethernet Switches Links",
+"why": "最近一封去信（邮箱索引；去信共 5 封）",
+"k": "762e632cba9654a6"
 }
 ],
 "proof_gaps": [],
@@ -425539,10 +427763,18 @@
 "next_move": {
 "when": "群发节奏",
 "channel": "A 邮箱",
-"action": "观察打开",
+"action": "观察打开（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
 "one_question": "For the PoE switches behind your access-control terminals, turnstiles and car-park barriers, we supply Marvell-based 8-PoE + 2 SFP L2+ and compact industrial 4-PoE units from single units, CE/RoHS, EXW USD — which PoE port count do your installations use most?"
 },
 "facts": [
+{
+"date": "2025-10-28",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "10G Enterprise SFP Switch",
+"why": "首封去信（邮箱索引；去信共 4 封）",
+"k": "045f15eefdb56c9c"
+},
 {
 "date": "2026-03-05",
 "dir": "去",
@@ -425550,6 +427782,14 @@
 "quote": "10G Enterprise SFP Switch、Booster PoE Switch",
 "why": "4 封 / 0 次打开 / 0 回｜首封 2025-10-28 → 末封 2026-03-05（4 去 / 0 来）",
 "k": "gmail_digest"
+},
+{
+"date": "2026-03-05",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "Updated Ethernet Switches Links",
+"why": "最近一封去信（邮箱索引；去信共 4 封）",
+"k": "19ead8b62050213a"
 }
 ],
 "proof_gaps": [],
@@ -425748,10 +427988,18 @@
 "next_move": {
 "when": "群发节奏",
 "channel": "A 邮箱",
-"action": "观察打开",
+"action": "观察打开（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
 "one_question": "Gökhan, for the access-switch positions in your distribution portfolio, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and 24-GE + 4×10G models from small lots, CE/RoHS, EXW USD — is there an entry-level managed position your resellers ask for?"
 },
 "facts": [
+{
+"date": "2025-10-29",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "10G Enterprise SFP Switch",
+"why": "首封去信（邮箱索引；去信共 5 封）",
+"k": "1daad2b8424cb576"
+},
 {
 "date": "2026-03-05",
 "dir": "去",
@@ -425759,6 +428007,14 @@
 "quote": "10G Enterprise SFP Switch、Booster PoE Switch",
 "why": "5 封 / 0 次打开 / 0 回｜首封 2025-10-29 → 末封 2026-03-05（5 去 / 0 来）",
 "k": "gmail_digest"
+},
+{
+"date": "2026-03-05",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "Updated Ethernet Switches Links",
+"why": "最近一封去信（邮箱索引；去信共 5 封）",
+"k": "0652ce42a540bde0"
 }
 ],
 "proof_gaps": [],
@@ -431154,7 +433410,7 @@
 "next_move": {
 "when": "2026-11",
 "channel": "S 邮箱 → chk999@outlook.com（回 2024-10-30 原线程「10G Ethernet Web Managed Switch」）",
-"action": "两年前答他「HTTPS 不在功能表」；7.5 L2+ 功能表已有 HTTPS（v4/v6）——回原线程一句话补上，并直接回答第三方证书问题（仓内无证 → 只说「HTTPS yes；third-party certificate upload: to be confirmed on your unit」），不带新品。",
+"action": "两年前答他「HTTPS 不在功能表」；7.5 L2+ 功能表已有 HTTPS（v4/v6）——回原线程一句话补上，并直接回答第三方证书问题（仓内无证 → 只说「HTTPS yes；third-party certificate upload: to be confirmed on your unit」），不带新品。（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
 "one_question": "Chavan — closing the loop on your Oct-2024 question: HTTPS web management is now standard on our AC5 units (firmware 7.5); third-party certificate upload I will confirm on the exact model before you order. Is the 10G web-managed switch still on your list?"
 },
 "facts": [
@@ -431165,6 +433421,30 @@
 "quote": "Does it have the https… and can we store third party https certificates ?",
 "why": "安全要求",
 "k": "5a42faf06fd8915e"
+},
+{
+"date": "2024-10-30",
+"dir": "来",
+"who": "chk999@outlook.com",
+"quote": "Re: 10G Ethernet Web Managed Switch｜Hi, Does it have the https (not http, but https with s at the end http secure protocol) and can we store third party https certificates ?  Best Regard",
+"why": "来信（邮箱索引；原文见 k；是否人工回复以原文为准）",
+"k": "5a42faf06fd8915e"
+},
+{
+"date": "2024-10-31",
+"dir": "去",
+"who": "S 箱（Simon）",
+"quote": "Re: 10G Ethernet Web Managed Switch",
+"why": "首封去信（邮箱索引；去信共 25 封）",
+"k": "becf0a5ee00f725f"
+},
+{
+"date": "2026-08-31",
+"dir": "去",
+"who": "A 箱（Alan）",
+"quote": "24 Port PoE Managed Switch",
+"why": "最近一封去信（邮箱索引；去信共 25 封）",
+"k": "7ab052e13938468c"
 }
 ],
 "proof_gaps": [],
@@ -889158,7 +891438,7 @@
 "next_move": {
 "when": "不动",
 "channel": "—",
-"action": "—",
+"action": "—（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
 "one_question": ""
 },
 "facts": [
@@ -889171,12 +891451,28 @@
 "k": "elsa_bcc"
 },
 {
+"date": "2025-04-12",
+"dir": "去",
+"who": "Elsa 箱群发 Bcc",
+"quote": "Marvell Alleycat5 Solution｜Hi, How are you? We are doing Marvell Alleycat5 chip for tai",
+"why": "Elsa 群发命中（批 CZ，锚 To office@ergate.cz）",
+"k": "196298c90e618602"
+},
+{
 "date": "2026-08-28",
 "dir": "去",
 "who": "Elsa 群发（BCC；To office@ergate.cz，CZ 批次）",
 "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
 "why": "Elsa 箱群发 BCC 触达证据（命中地址 info@lancomat.cz, lancomat.cz）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
 "k": "elsa_bcc"
+},
+{
+"date": "2026-08-28",
+"dir": "去",
+"who": "Elsa 箱群发 Bcc",
+"quote": "24 Port PoE Managed Switch｜Price: 170USD/PC",
+"why": "Elsa 群发命中（批 CZ，锚 To office@ergate.cz）",
+"k": "1a04798efe1a50d8"
 }
 ],
 "proof_gaps": [],

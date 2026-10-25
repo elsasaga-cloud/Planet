@@ -124,7 +124,7 @@
     "next_move": {
       "when": "2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）",
       "channel": "A 邮箱 → r.hannemann@isimko.de（德语）",
-      "action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 74 批(r) 2026-10-25：英文信稿已写 `draft_en`（= 客户语言钩子句的英文版，客户语言一句话留在备注里））（第 76 批(c) 2026-10-25：0 事实户补时间线事实）",
+      "action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 74 批(r) 2026-10-25：英文信稿已写 `draft_en`（= 客户语言钩子句的英文版，客户语言一句话留在备注里））（第 76 批(c) 2026-10-25：0 事实户补时间线事实）（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
       "one_question": "Herr Hannemann, zu Ihrer Anfrage „12 × Glasfaser / 12 × Kupfer\": das nächstliegende Industriegerät ist 8 × SFP + 4 × 10G SFP+ und 8 × RJ45 (DIN, −40 bis +75 °C, $332.6 EXW); alternativ ein 19\"-Gerät mit 16 SFP + 8 Combo-Ports ($392.4) — welche Variante passt zum Schaltschrank?"
     },
     "facts": [
@@ -142,6 +142,14 @@
         "who": "S 箱（Simon）",
         "quote": "24 Port PoE Managed Switch",
         "why": "最近一封去信（邮箱索引；去信共 11 封）",
+        "k": "6d2437354be82f93"
+      },
+      {
+        "date": "2026-09-30",
+        "dir": "去",
+        "who": "S 箱（Simon）报价",
+        "quote": "24 Port PoE Managed Switch｜ $180（原句：*Price: 180USD/PC*）",
+        "why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
         "k": "6d2437354be82f93"
       }
     ],

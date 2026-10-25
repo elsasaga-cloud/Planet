@@ -88,7 +88,7 @@
   "next_move": {
    "when": "2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）",
    "channel": "A 邮箱 → boecek@（先核地址是否有效；无具名 KP）",
-   "action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(o) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用；换人/一问口径）；钩子「CLI」不写——未核实）",
+   "action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(o) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用；换人/一问口径）；钩子「CLI」不写——未核实）（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
    "one_question": "Since you took the 5-port industrial samples with the DIN power supply, the natural next step is the 8-port managed DIN unit with CLI and the 4+1 PoE version, both quoted EXW so the freight and import-duty side is transparent. Are the 5-port samples still in service, and is the 8-port managed DIN unit worth a current quote? Reference: STI-288GPM at $82.2 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
@@ -101,11 +101,35 @@
     "k": "f5b9385c457b416c"
    },
    {
+    "date": "2025-04-14",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "16 Port Ethernet Switch",
+    "why": "首封去信（邮箱索引；去信共 15 封）",
+    "k": "f5b9385c457b416c"
+   },
+   {
+    "date": "2026-08-18",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "24 Port PoE Managed Switch｜稿内价 $170",
+    "why": "去信正文含价（邮箱索引）",
+    "k": "3711c54c803677ad"
+   },
+   {
     "date": "2026-09-23",
     "dir": "去",
     "who": "Saga（Alan）",
     "quote": "「Managed PoE Switches」——最后一封群发，仍是 boecek@ 公用地址",
     "why": "同一地址打了 17 个月；换人（找具名采购）比再发更有用",
+    "k": "7c09d3b669698238"
+   },
+   {
+    "date": "2026-09-23",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "Managed PoE Switches",
+    "why": "最近一封去信（邮箱索引；去信共 15 封）",
     "k": "7c09d3b669698238"
    }
   ],

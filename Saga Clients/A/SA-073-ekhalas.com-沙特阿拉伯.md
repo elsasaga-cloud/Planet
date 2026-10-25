@@ -38,7 +38,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-154GP（1 SFP + 1 GE 上联 + 4 PoE，120W，非管理）——2024 报 36 USD，现价按 `价格主表` 20/25/30 规则重算后再报 — 一次性修正收件人 + 一句话，成本≈0；中东非主攻，不追加。已打开的主题（1/26 封有打开记录）：「Industrial PoE Switch」(2024-10-22) → 读者兴趣偏「工业」；当前 P1 属「PoE 接入」，下一封按「工业」给，不按 P1｜已发资料（勿重发）：Saga Feature List_7.5.x_L2+(2026-07-02)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）；按 25% 集成档，格式 `$xx USD EXW（快照日期，15 天有效）`；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-24 $65（10G media converter）、2024-12-12 $300（48 Port PoE Managed Switch）；**第 63 批基准统一（规则 ㉕）**：STI-154GP 列表价 $51.7 → 老表 $47（非管理工业线）；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-02-27 $240（24 Port Fiber Switch）、2025-09-23 $280（10G Enterprise SFP Switch）；STI-154GP 文本价 $47（任何价表无此数）→ $39.2（25% 档，主表）+ 对他 2024 实报 $36 的汇率说明
 - **第一问（只问一个）**：Your 2024 sample request for the 4-port industrial PoE (STI-154GP, 36 USD then) — still relevant for a current site, or has the need moved to 8/16 ports?
 - **最大未知**：年走量与现供应商
-- **下一步**：2026-11（一次） A 邮箱 → inam@alrajhitel.com（不再发 info@ekhalas.com） 一句话问 2024 的样品需求是否仍在、口数是否变了（第 76 批(b) 2026-10-25：audit_ab 硬错误修正：STI-154GP $47 → $39.2）
+- **下一步**：2026-11（一次） A 邮箱 → inam@alrajhitel.com（不再发 info@ekhalas.com） 一句话问 2024 的样品需求是否仍在、口数是否变了（第 76 批(b) 2026-10-25：audit_ab 硬错误修正：STI-154GP $47 → $39.2）（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -50,14 +50,28 @@ updated: 2026-10-25
 - **断点 / 为什么停在这里**：付样规则本身是筛子（C 层不改），但收件人错了两年——投入都花在机器人身上。
 - **Saga 现在该推什么**：P1 **STI-154GP（1 SFP + 1 GE 上联 + 4 PoE，120W，非管理）——2024 报 36 USD，现价按 `价格主表` 20/25/30 规则重算后再报**（25% 档，按 25% 集成档，格式 `$xx USD EXW（快照日期，15 天有效）`；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-24 $65（10G media converter）、2024-12-12 $300（48 Port PoE Managed Switch）；**第 63 批基准统一（规则 ㉕）**：STI-154GP 列表价 $51.7 → 老表 $47（非管理工业线）；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-02-27 $240（24 Port Fiber Switch）、2025-09-23 $280（10G Enterprise SFP Switch）；STI-154GP 文本价 $47（任何价表无此数）→ $39.2（25% 档，主表）+ 对他 2024 实报 $36 的汇率说明）——一次性修正收件人 + 一句话，成本≈0；中东非主攻，不追加。已打开的主题（1/26 封有打开记录）：「Industrial PoE Switch」(2024-10-22) → 读者兴趣偏「工业」；当前 P1 属「PoE 接入」，下一封按「工业」给，不按 P1｜已发资料（勿重发）：Saga Feature List_7.5.x_L2+(2026-07-02)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）
   - 做不了 / 要先核的：36 USD 的 STI-154GP 当年属于哪条线（Marvell 非管理？）——核 `价格主表` 后再报；用户表「工业 FS 在用 OTS」出处（邮件无）
-- **下一步（具体）**：2026-11（一次）　A 邮箱 → inam@alrajhitel.com（不再发 info@ekhalas.com）　一句话问 2024 的样品需求是否仍在、口数是否变了（第 76 批(b) 2026-10-25：audit_ab 硬错误修正：STI-154GP $47 → $39.2）
+- **下一步（具体）**：2026-11（一次）　A 邮箱 → inam@alrajhitel.com（不再发 info@ekhalas.com）　一句话问 2024 的样品需求是否仍在、口数是否变了（第 76 批(b) 2026-10-25：audit_ab 硬错误修正：STI-154GP $47 → $39.2）（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）
   - 第一问（只问一个）：Your 2024 sample request for the 4-port industrial PoE (STI-154GP, 36 USD then) — still relevant for a current site, or has the need moved to 8/16 ports?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2024-06-05 | 来 | info@ekhalas.com | Thank you for contacting us!Dear｜Thank you for reaching out to us regarding your query. We appreciate you taking the time to contact our team, and we want to assure you that we are wo | 来信（邮箱索引；原文见 k；是否人工回复以原文为准） | `9a3a665f4d154a32` |
+| 2024-06-27 | 去 | S 箱（Simon） | Industrial PoE managed switch | 首封去信（邮箱索引；去信共 26 封） | `2025501e175a33bc` |
+| 2024-06-27 | 来 | info@ekhalas.com | Thank you for contacting us!Dear｜Thank you for reaching out to us regarding your query. We appreciate you taking the time to contact our team, and we want to assure you that we are wo | 来信（邮箱索引；原文见 k；是否人工回复以原文为准） | `a509263771a57f10` |
+| 2024-07-24 | 去 | S 箱（Simon） | 10G media converter｜稿内价 $65 | 去信正文含价（邮箱索引） | `8978e4f7fbab6a08` |
+| 2024-07-24 | 来 | info@ekhalas.com | Thank you for contacting us!Dear｜Thank you for reaching out to us regarding your query. We appreciate you taking the time to contact our team, and we want to assure you that we are wo | 来信（邮箱索引；原文见 k；是否人工回复以原文为准） | `a5b2a2a03d63d4a8` |
+| 2024-07-24 | 去 | S 箱（Simon）报价 | 10G media converter｜ $65（原句：Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unma） | S 邮箱报价史（规则 ㉕ ① 自报价优先） | `8978e4f7fbab6a08` |
+| 2024-08-19 | 来 | info@ekhalas.com | Thank you for contacting us!Dear｜Thank you for reaching out to us regarding your query. We appreciate you taking the time to contact our team, and we want to assure you that we are wo | 来信（邮箱索引；原文见 k；是否人工回复以原文为准） | `703cae2282ea3bc3` |
 | 2024-10-22 | 来 | Inam Ahmed（Data Center Division Manager） | Please send me a sample to test | 唯一人工来信 | `2291cc97643c8854` |
 | 2024-10-22 | 去 | Simon | It is NOT free samples. 36usd/pc STI-154GP… Please let me know if you are ready to order. | 付样规则生效 | `775f9ed585dd20d5` |
+| 2024-10-22 | 来 | info@ekhalas.com | Thank you for contacting us!Dear｜Thank you for reaching out to us regarding your query. We appreciate you taking the time to contact our team, and we want to assure you that we are wo | 来信（邮箱索引；原文见 k；是否人工回复以原文为准） | `4fa3c4d06fe1dbad` |
+| 2024-12-12 | 去 | S 箱（Simon）报价 | 48 Port PoE Managed Switch｜ $300（原句：*Price is very competitive, 300usd/pc*） | S 邮箱报价史（规则 ㉕ ① 自报价优先） | `29773944aefa6480` |
+| 2025-02-27 | 去 | A 箱（Alan） | 24 Port Fiber Switch｜稿内价 $240 | 去信正文含价（邮箱索引） | `0c82437aea35daea` |
+| 2025-02-27 | 来 | info@ekhalas.com | Thank you for contacting us!Dear｜Thank you for reaching out to us regarding your query. We appreciate you taking the time to contact our team, and we want to assure you that we are wo | 来信（邮箱索引；原文见 k；是否人工回复以原文为准） | `924030a08d2f1ca6` |
+| 2025-03-31 | 来 | info@ekhalas.com | Thank you for contacting us!Dear｜Thank you for reaching out to us regarding your query. We appreciate you taking the time to contact our team, and we want to assure you that we are wo | 来信（邮箱索引；原文见 k；是否人工回复以原文为准） | `f6a72456865c11f8` |
+| 2025-04-28 | 来 | info@ekhalas.com | Thank you for contacting us!Dear｜Thank you for reaching out to us regarding your query. We appreciate you taking the time to contact our team, and we want to assure you that we are wo | 来信（邮箱索引；原文见 k；是否人工回复以原文为准） | `4e36da1a6de4b051` |
 | 2026-09-22 | 来 | info@ekhalas.com（机器人） | Thank you for reaching out to us regarding your query… | 第 10 封机器人回复——两年群发都寄错了收件人 | `3b9a30d69e46d2e7` |
+| 2026-09-22 | 去 | A 箱（Alan） | 16 Port Industrial PoE Switch | 最近一封去信（邮箱索引；去信共 26 封） | `5a95d0e149d90de0` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：用户表「有 1 次实质回复 / 工业 FS 在用 OTS」——OTS 一说邮件无证据
 

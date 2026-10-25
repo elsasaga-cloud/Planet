@@ -149,10 +149,18 @@
   "next_move": {
    "when": "2027-Q1",
    "channel": "A 邮箱 → info@fcnet.pl",
-   "action": "一句话问管理型 PoE 的来源（第 75 批(p) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））",
+   "action": "一句话问管理型 PoE 的来源（第 75 批(p) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
    "one_question": "For managed PoE switches (not MC), who is your current source and what is the gap you would switch for? Reference: STC-424DGGPM-280W at $134.5 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
+   {
+    "date": "2025-02-04",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "L3 Managed Switch",
+    "why": "首封去信（邮箱索引；去信共 24 封）",
+    "k": "e78dd839307d2620"
+   },
    {
     "date": "2025-04-18",
     "dir": "来",
@@ -170,12 +178,52 @@
     "k": "9e557e84dc8bdbf1"
    },
    {
+    "date": "2025-04-18",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "10G Media Converter｜稿内价 $65",
+    "why": "去信正文含价（邮箱索引）",
+    "k": "1ec7c5f774ee3065"
+   },
+   {
+    "date": "2025-04-18",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "Re: 10G Media Converter｜稿内价 $65",
+    "why": "去信正文含价（邮箱索引）",
+    "k": "9e557e84dc8bdbf1"
+   },
+   {
+    "date": "2025-04-18",
+    "dir": "来",
+    "who": "info@fcnet.pl",
+    "quote": "Re: 10G Media Converter｜And the price is ?    Pozdrawiam / Best regards  FCNET sp. z o.o. | ul. Św. Jacka 2 45-073 Opole t: +48 775-418-475 | e-mail info@fcnet.pl NIP: 754291",
+    "why": "来信（邮箱索引；原文见 k；是否人工回复以原文为准）",
+    "k": "5f2f240aad79e90d"
+   },
+   {
     "date": "2025-04-22",
     "dir": "来",
     "who": "FCNET",
     "quote": "We have much better price for this product from different supplier.",
     "why": "价格流停点",
     "k": "34b75cab2668542d"
+   },
+   {
+    "date": "2025-04-22",
+    "dir": "来",
+    "who": "info@fcnet.pl",
+    "quote": "Re: 10G Media Converter｜We have much better price for this product from different supplier.    Pozdrawiam / Best regards  FCNET sp. z o.o. | ul. Św. Jacka 2 45-073 Opole t: +",
+    "why": "来信（邮箱索引；原文见 k；是否人工回复以原文为准）",
+    "k": "34b75cab2668542d"
+   },
+   {
+    "date": "2026-09-28",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "Managed PoE Switches",
+    "why": "最近一封去信（邮箱索引；去信共 24 封）",
+    "k": "03690d2c8c5731ec"
    }
   ],
   "proof_gaps": [],

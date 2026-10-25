@@ -133,10 +133,34 @@
   "next_move": {
    "when": "2027-Q1",
    "channel": "S 邮箱 → johnson@",
-   "action": "一句话问 2.5G 线是否仍外采（第 75 批(o) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用；换人/一问口径）；2.5G PoE 版（STC-108XGDGP）今价未核，信里写 on request）",
+   "action": "一句话问 2.5G 线是否仍外采（第 75 批(o) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用；换人/一问口径）；2.5G PoE 版（STC-108XGDGP）今价未核，信里写 on request）（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
    "one_question": "Is the 8×2.5G + 10G SFP class still outsourced at ALFA, and what certification file do you need from a supplier before a sample? Reference: STC-18XGDGE at $50.1 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
+   {
+    "date": "2024-06-26",
+    "dir": "去",
+    "who": "S 箱（Simon）",
+    "quote": "Industrial poe switch",
+    "why": "首封去信（邮箱索引；去信共 26 封）",
+    "k": "c9f3259296f7e835"
+   },
+   {
+    "date": "2024-07-22",
+    "dir": "去",
+    "who": "S 箱（Simon）",
+    "quote": "10G fiber media converter｜稿内价 $65",
+    "why": "去信正文含价（邮箱索引）",
+    "k": "aeadae1ed076a531"
+   },
+   {
+    "date": "2024-07-22",
+    "dir": "去",
+    "who": "S 箱（Simon）报价",
+    "quote": "10G fiber media converter｜ $65（原句：Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unma）",
+    "why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
+    "k": "aeadae1ed076a531"
+   },
    {
     "date": "2024-08-15",
     "dir": "来",
@@ -154,12 +178,108 @@
     "k": "1d7b74c6c5e4034f"
    },
    {
+    "date": "2024-08-15",
+    "dir": "去",
+    "who": "S 箱（Simon）",
+    "quote": "Re: 2.5G network switch｜稿内价 $50",
+    "why": "去信正文含价（邮箱索引）",
+    "k": "1d7b74c6c5e4034f"
+   },
+   {
+    "date": "2024-08-15",
+    "dir": "来",
+    "who": "johnson@alfa.com.tw",
+    "quote": "RE: 2.5G network switch｜Hello, Simon     Please provide your company information.   And what’s the price for non-PoE and PoE model.  Thank you     Johnson ALFA NETWORK Inc. W",
+    "why": "来信（邮箱索引；原文见 k；是否人工回复以原文为准）",
+    "k": "a3c986b6ffa372aa"
+   },
+   {
+    "date": "2024-08-15",
+    "dir": "去",
+    "who": "S 箱（Simon）报价",
+    "quote": "Re: 2.5G network switch｜STC-18XGDGE $50（原句：non-PoE model, 50Usd/pc）",
+    "why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
+    "k": "1d7b74c6c5e4034f"
+   },
+   {
+    "date": "2024-08-15",
+    "dir": "去",
+    "who": "S 箱（Simon）报价",
+    "quote": "Re: 2.5G network switch｜STC-18XGDGE $65（原句：PoE model, 65usd/pc）",
+    "why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
+    "k": "1d7b74c6c5e4034f"
+   },
+   {
+    "date": "2024-12-11",
+    "dir": "去",
+    "who": "S 箱（Simon）报价",
+    "quote": "48 Port PoE Managed Switch｜ $300（原句：*Price is very competitive, 300usd/pc*）",
+    "why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
+    "k": "f8d0149031fb24a1"
+   },
+   {
+    "date": "2025-01-06",
+    "dir": "去",
+    "who": "S 箱（Simon）",
+    "quote": "24 Port Fiber Switch｜稿内价 $240",
+    "why": "去信正文含价（邮箱索引）",
+    "k": "fd39a313fd38118a"
+   },
+   {
+    "date": "2025-01-06",
+    "dir": "去",
+    "who": "S 箱（Simon）报价",
+    "quote": "24 Port Fiber Switch｜ $240（原句：Price: 240usd/pc）",
+    "why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
+    "k": "fd39a313fd38118a"
+   },
+   {
     "date": "2025-07-28",
     "dir": "来",
     "who": "sandy_chien@alfa.com.tw",
     "quote": "Thanks With Best Regards, SANDY CHIEN 誠釱科技股份有限公司 台北市114內湖區瑞光路106號4樓之1 TEL: (02)2796-8477 # 332 FAX: (02)2796-8478 Web: www.alfa.com.tw <https://apc01.",
     "why": "来信原文（主题「Re: 16 Port Ethernet Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
     "k": "f8c4407a865d3647"
+   },
+   {
+    "date": "2025-07-28",
+    "dir": "来",
+    "who": "sandy_chien@alfa.com.tw",
+    "quote": "Re: 16 Port Ethernet Switch｜Thanks With Best Regards,   SANDY CHIEN  誠釱科技股份有限公司 台北市114內湖區瑞光路106號4樓之1 TEL: (02)2796-8477 # 332 FAX: (02)2796-8478 Web: www.alfa.com.tw <https://apc",
+    "why": "来信（邮箱索引；原文见 k；是否人工回复以原文为准）",
+    "k": "f8c4407a865d3647"
+   },
+   {
+    "date": "2025-10-29",
+    "dir": "去",
+    "who": "S 箱（Simon）报价",
+    "quote": "10G Enterprise SFP Switch｜ $280（原句：It is a price-competitive aggregation switch(280usd/pc)）",
+    "why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
+    "k": "2cc3b444c4714d74"
+   },
+   {
+    "date": "2026-07-20",
+    "dir": "去",
+    "who": "S 箱（Simon）报价",
+    "quote": "24 Port 10G SFP+ Switch｜ $1500（原句：*Price: 1500USD/PC*）",
+    "why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
+    "k": "b6adec4516d15445"
+   },
+   {
+    "date": "2026-09-08",
+    "dir": "去",
+    "who": "S 箱（Simon）",
+    "quote": "24 Port PoE Managed Switch",
+    "why": "最近一封去信（邮箱索引；去信共 26 封）",
+    "k": "416daea2221fc20d"
+   },
+   {
+    "date": "2026-09-08",
+    "dir": "去",
+    "who": "S 箱（Simon）报价",
+    "quote": "24 Port PoE Managed Switch｜ $170（原句：*Price: 170USD/PC*）",
+    "why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
+    "k": "416daea2221fc20d"
    }
   ],
   "proof_gaps": [],
