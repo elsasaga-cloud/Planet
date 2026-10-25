@@ -224,13 +224,11 @@ updated: 2026-10-25
 ```text
 Hi Jürgen,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Next to your transceivers you list PLANET 24-port PoE and industrial units (SGSW-24040P4, IGS-20160HPT) — a Marvell-based, neutral-packed switch line at EXW pairs naturally with your optics as a switch-plus-SFP bundle. When customers take a 24-port PoE switch with your SFPs, is the SGSW-24040P4 / GS-4210-24P2S class what they ask for, or do they go straight to 10G-uplink units — so I send the right sample first?
+Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 2026-08-31 - and there was no reason to answer a mass mail. This one is specific. Next to your transceivers you list PLANET 24-port PoE and industrial units (SGSW-24040P4, IGS-20160HPT) — a Marvell-based, neutral-packed switch line at EXW pairs naturally with your optics as a switch-plus-SFP bundle. When customers take a 24-port PoE switch with your SFPs, is the SGSW-24040P4 / GS-4210-24P2S class what they ask for, or do they go straight to 10G-uplink units — so I send the right sample first?
 
 We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as your PLANET SGSW-24040P4 at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $134.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
-One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
-
-If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 
 Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)

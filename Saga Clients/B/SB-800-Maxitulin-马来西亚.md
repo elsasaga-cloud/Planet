@@ -253,13 +253,11 @@ updated: 2026-10-25
 ```text
 Hi P.Kumar,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Kumar, for the IPC jobs where Cisco/Aruba is overkill — 24-PoE + 4 uplinks L2+ (Marvell, 280 W) at $140 EXW and 8-PoE + 2-SFP at $84; and the bypass unit you photographed is $194. Want a 1-pc sample of the 24-port?
+Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 2026-09-08 - and there was no reason to answer a mass mail. This one is specific. Kumar, for the IPC jobs where Cisco/Aruba is overkill — 24-PoE + 4 uplinks L2+ (Marvell, 280 W) at $140 EXW and 8-PoE + 2-SFP at $84; and the bypass unit you photographed is $194. Want a 1-pc sample of the 24-port?
 
 We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as the Cisco class you work with at a lower landed cost, and we can ship it with neutral packaging. Current price: $140.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
-One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
-
-If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 
 Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)

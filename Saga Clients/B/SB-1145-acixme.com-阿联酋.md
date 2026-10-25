@@ -286,13 +286,11 @@ updated: 2026-10-25
 ```text
 Hi Dipesh,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Dipesh, for the PoE switches behind your access-control, LPR and camera installations, we supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches plus DIN-rail 8-PoE units for outdoor cabinets from single units, CE/RoHS, EXW USD — which PoE position in your Dubai projects would you like priced first?
+Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 2026-09-08 - and there was no reason to answer a mass mail. This one is specific. Dipesh, for the PoE switches behind your access-control, LPR and camera installations, we supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches plus DIN-rail 8-PoE units for outdoor cabinets from single units, CE/RoHS, EXW USD — which PoE position in your Dubai projects would you like priced first?
 
 We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the Utepo class you work with at a lower landed cost, and we can ship it with neutral packaging. Current price: $84.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
-One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
-
-If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 
 Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)

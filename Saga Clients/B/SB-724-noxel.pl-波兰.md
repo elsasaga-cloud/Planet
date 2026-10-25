@@ -264,13 +264,11 @@ updated: 2026-10-25
 ```text
 Hello,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the PoE switches behind your Dahua camera kits, we supply a neutral-brand 8-PoE + 2 SFP L2+ switch and a budget unmanaged 4/8-PoE line from small lots, CE/RoHS — which band do your installer customers buy most, unmanaged or managed PoE?
+Some time ago you had a product mail from us - "L3 Managed Switch" on 2025-04-03 - and there was no reason to answer a mass mail. This one is specific. For the PoE switches behind your Dahua camera kits, we supply a neutral-brand 8-PoE + 2 SFP L2+ switch and a budget unmanaged 4/8-PoE line from small lots, CE/RoHS — which band do your installer customers buy most, unmanaged or managed PoE?
 
 We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it with neutral packaging. Current price: $80.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
-One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
-
-If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 
 Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)

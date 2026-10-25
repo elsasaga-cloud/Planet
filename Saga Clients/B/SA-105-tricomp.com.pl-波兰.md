@@ -276,7 +276,7 @@ We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE bud
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 
-If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 
 Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)

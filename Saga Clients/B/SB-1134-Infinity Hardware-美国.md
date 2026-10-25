@@ -236,13 +236,11 @@ updated: 2026-10-25
 ```text
 Hello,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For your industrial line next to Cisco IE: DIN-rail 8× GbE PoE+ (240 W) + 2× SFP L2+ managed, −40 to +75 °C, FCC/CE, neutral packing, $139.9 EXW at 20-unit tier — would you like one evaluation unit shipped to High Point first?
+Over the past months you had a product mail from us - "24 Port PoE Managed Switch" on 2026-08-17 - and there was no reason to answer a mass mail. This one is specific. For your industrial line next to Cisco IE: DIN-rail 8× GbE PoE+ (240 W) + 2× SFP L2+ managed, −40 to +75 °C, FCC/CE, neutral packing, $139.9 EXW at 20-unit tier — would you like one evaluation unit shipped to High Point first?
 
 We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as the Cisco class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $139.9 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
-One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
-
-If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 
 Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)

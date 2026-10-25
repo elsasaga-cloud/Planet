@@ -730,6 +730,34 @@ def greeting_name(ent):
     return ''
 
 
+# 第 74 批(q) 2026-10-25：自动样板对 Elsa 箱触达史的感知（规则 ㉝ 开头句、㉟ 已见价）
+ELSA_SEEN = {  # 群发主题 → (型号, 稿内价)
+    '24 Port PoE Managed Switch': ('STC-424XGGPM-280W', 170),
+    '48 Port PoE Managed Switch': ('STC-448XGGPM', 300),
+    '10G Enterprise SFP Switch': ('STC-4168XGGCM', 280),
+    '24 Port Fiber Switch': ('STC-4168XGGCM', 240),
+}
+ELSA_LIVE = {'STC-424XGGPM-280W': 180, 'STC-448XGGPM': 335, 'STC-4168XGGCM': 280}  # 群发价台账「现价」
+
+
+def elsa_touch(ent):
+    """从 research.mail_review.facts 取 Elsa 箱去信：(轮数, 最近日期, 最近主题, {型号: (已见价, 日期)}) 或 None。"""
+    mr = ((ent.get('research') or {}).get('mail_review') or {})
+    facts = [f for f in (mr.get('facts') or []) if isinstance(f, dict) and str(f.get('k') or '').startswith('elsa') and f.get('date')]
+    if not facts:
+        return None
+    facts.sort(key=lambda f: f['date'])
+    last = facts[-1]
+    subj = re.split(r'（| — |：', str(last.get('quote') or ''))[0].strip() or 'our product mail'
+    seen = {}
+    for f in facts:
+        q = str(f.get('quote') or '')
+        for sub, (model, pr) in ELSA_SEEN.items():
+            if q.startswith(sub):
+                seen[model] = (pr, f['date'])
+    return (len(facts), last['date'], subj, seen)
+
+
 def email_draft(ent, g, typ, p1, tier, brands, first_q):
     if g == 'C':
         return '> C 级不出邮件样板（不主动跟进）。'
@@ -759,6 +787,23 @@ def email_draft(ent, g, typ, p1, tier, brands, first_q):
         opener = 'Picking up our earlier exchange about PoE / industrial switches.'
     else:
         opener = 'We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option.'
+    et = elsa_touch(ent)
+    if et and not deal and not ent['reply_sub'] and 'ISAF2025展会' not in ent['tags']:
+        # 只替换「泛泛开头」；真实往来（回过信/成单/展会）保留原开头
+        n, last_d, last_s, _seen = et
+        many = 'a few product mails' if n >= 2 else 'a product mail'
+        when = 'Over the past months' if last_d >= '2026-04-01' else 'Some time ago'
+        recent = 'most recently ' if n >= 2 else ''
+        opener = (f'{when} you had {many} from us - {recent}"{last_s}" on {last_d} - '
+                  f'and there was no reason to answer a mass mail. This one is specific.')
+    if et and et[3].get(p1):
+        seen_pr, seen_d = et[3][p1]
+        live = ELSA_LIVE.get(p1)
+        if live and live > seen_pr:
+            why_fx = ' - the difference is the CNY/USD move from 7.2 to 6.7' if p1 in ('STC-424XGGPM-280W', 'STC-448XGGPM') else ''
+            price = (f'${live} USD EXW (MOQ 1, 15-day validity; our {seen_d[:7]} mail showed ${seen_pr}{why_fx})')
+        elif live:
+            price = f'${live} USD EXW (same as the ${seen_pr} you saw in our {seen_d[:7]} mail; MOQ 1, 15-day validity)'
     rs = ent.get('research') or {}
     sb = [b for b in brands if b in SWITCH_BRANDS]
     slot = f'the {sb[0]} class you work with' if sb else 'the usual Taiwan-grade units'
@@ -770,13 +815,13 @@ def email_draft(ent, g, typ, p1, tier, brands, first_q):
     oem = ' under your own label with neutral packaging' if ('品牌' in typ or 'OEM' in typ or '分销' in typ or '经销' in typ) else ' with neutral packaging'
     short = re.split(r' \(|, ', desc)[0]
     subj = f'{p1} - {short} ({chip}, neutral label)'
+    hook_q = bool(rs.get('email_hook')) and rs['email_hook'].strip().rstrip('.').endswith('?')
     body = '\n'.join([
         hi, '',
         opener, '',
         f'We supply a {chip} {desc} - model {p1} - that fits the same slot as {slot} at a lower landed cost, and we can ship it{oem}. '
-        f'Current price: {price}.', '',
-        f'One question: {first_q}', '',
-        'If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.', '',
+        f'Current price: {price}.', ''] + ([] if hook_q else [f'One question: {first_q}', '']) + [
+        'If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.', '',
         'Best regards,',
         'Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)',
         'https://sagatele.com/',

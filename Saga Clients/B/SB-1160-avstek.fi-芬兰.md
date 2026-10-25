@@ -239,13 +239,11 @@ updated: 2026-10-25
 ```text
 Hello,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Every PoE switch you stock is PLANET (GSD-908HP at €181.17 incl. VAT) — a Marvell-based, neutral-packed 8-port PoE+ unit at EXW gives your camera and alarm installs the same slot at a margin you set yourself. For your camera installs, is the 8-port PoE class (GSD-908HP) the unit you go through most, or the 24-port GSW-2620HP — so I send the right sample first?
+Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 2026-08-13 - and there was no reason to answer a mass mail. This one is specific. Every PoE switch you stock is PLANET (GSD-908HP at €181.17 incl. VAT) — a Marvell-based, neutral-packed 8-port PoE+ unit at EXW gives your camera and alarm installs the same slot at a margin you set yourself. For your camera installs, is the 8-port PoE class (GSD-908HP) the unit you go through most, or the 24-port GSW-2620HP — so I send the right sample first?
 
 We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as your PLANET GSD-908HP at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $80.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
-One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
-
-If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 
 Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)

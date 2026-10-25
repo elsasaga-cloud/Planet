@@ -241,13 +241,11 @@ updated: 2026-10-25
 ```text
 Hi Oscar,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Oscar, following our earlier contact: for the gigabit media converters and compact Ethernet switches in your commercial fiber range, we can supply Marvell-based DIN-rail units under the Fibersystem label from small lots (CE/RoHS) — is the converter or the switch the more frequent request from your customers?
+Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 2026-09-08 - and there was no reason to answer a mass mail. This one is specific. Oscar, following our earlier contact: for the gigabit media converters and compact Ethernet switches in your commercial fiber range, we can supply Marvell-based DIN-rail units under the Fibersystem label from small lots (CE/RoHS) — is the converter or the switch the more frequent request from your customers?
 
 We supply a Marvell-based industrial mini Gigabit media converter (1 fiber + 1 copper) - model STI-110GE - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $24.3 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
-One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
-
-If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 
 Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)

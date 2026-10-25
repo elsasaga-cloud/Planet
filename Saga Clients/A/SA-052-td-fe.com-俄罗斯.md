@@ -306,7 +306,7 @@ We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE
 
 One question: Which switch model are you buying most often right now, and roughly how many units a month?
 
-If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 
 Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
