@@ -26,7 +26,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -43,7 +43,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-480` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A 邮箱 12 封 2025→2026，无记录打开，0 回；收件 info@raskpreke.lt；主题多为「10G Enterprise SFP Switch、Booster PoE Switch」）** ｜ 类型：安防/电工网店（立陶宛，Utepo 在售） ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：立陶宛（欧洲全域主攻） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 12；用户表：「有Utepo的」；研究档 risks：小国（立陶宛，非主动挖掘范围）：量小；国别已更正（表内误填意大利）
+- **绑定等级：未触达（A 邮箱 12 封 2025→2026，无记录打开，0 回；收件 info@raskpreke.lt；主题多为「10G Enterprise SFP Switch、Booster PoE Switch」；Elsa 箱：`to:raskpreke.lt` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 12 / 来 0）（第 74 批(k)））** ｜ 类型：安防/电工网店（立陶宛，Utepo 在售） ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：立陶宛（欧洲全域主攻） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 12；用户表：「有Utepo的」；研究档 risks：小国（立陶宛，非主动挖掘范围）：量小；国别已更正（表内误填意大利）
 - **现状一句话**：立陶宛 Rask Prekę（raskpreke.lt：安防系统与电工产品网店——摄像机、传感器、报警主机；Ubiquiti（31）/ Hikvision / Dahua / Ajax，PoE 适配器/注入器与交换设备栏目；表内「有 Utepo 的」；表内国别「意大利」有误：.lt 域名 + 立陶宛语站点 → 立陶宛）；表内 1 次跟进无回复。
 - **对方真实需求（有据）**：在售 Utepo 商用 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）
 - **断点 / 为什么停在这里**：小国（立陶宛，非主动挖掘范围）：量小；国别已更正（表内误填意大利）
@@ -286,12 +286,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 40）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 40）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

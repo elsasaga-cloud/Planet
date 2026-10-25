@@ -27,7 +27,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -44,7 +44,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1141` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：读而不回（A/S 邮箱 24 封 2024→2026，其中 2 封被打开，0 回；收件 p.christos@wave-electronics.com.cy；被打开主题「Industrial PoE Switch、24 Port PoE Managed Switch」）** ｜ 类型：— ｜ 筛子：2（有人在读，无人回） ｜ 停点：读而不回 = 内容未命中或没有当下需求 ｜ 复活：一封「只问一句」的短信给打开过的地址（不附图不附表） ｜ 通路：塞浦路斯（欧洲全域主攻） ｜ 节奏：一封；回了再说 ｜ 证据：gmail_digest：out 24，Opened 标签 2（Simon 群发追踪）；用户表：「对switch有兴趣」；研究档 risks：机场等公共关键设施守界按个案；16 次跟进 0 回复
+- **绑定等级：读而不回（A/S 邮箱 24 封 2024→2026，其中 2 封被打开，0 回；收件 p.christos@wave-electronics.com.cy；被打开主题「Industrial PoE Switch、24 Port PoE Managed Switch」；Elsa 箱：`to:wave-electronics.com.cy` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 24 / 来 0）（第 74 批(k)））** ｜ 类型：— ｜ 筛子：2（有人在读，无人回） ｜ 停点：读而不回 = 内容未命中或没有当下需求 ｜ 复活：一封「只问一句」的短信给打开过的地址（不附图不附表） ｜ 通路：塞浦路斯（欧洲全域主攻） ｜ 节奏：一封；回了再说 ｜ 证据：gmail_digest：out 24，Opened 标签 2（Simon 群发追踪）；用户表：「对switch有兴趣」；研究档 risks：机场等公共关键设施守界按个案；16 次跟进 0 回复
 - **现状一句话**：塞浦路斯尼科西亚的老牌安防系统集成商（1983 年注册 HE 19231；1–24 人；1,100+ 项目：拉纳卡国际机场、利马索尔总医院、塞浦路斯银行与 COOP 银行网点等；业务：安防系统设计/销售/安装/维护、A 级电气安装与自动化、电子安防/监控/生命安全交钥匙项目；负责人 Charalampos Charalampous；2023 年增登记商号 Wave Electronics Fire & Security Systems）。展会记录：对交换机有兴趣；联系人 p.christos；16 次跟进 0 回复。
 - **对方真实需求（有据）**：集成商 25% 档：STC-424DGGPM-280W（24 PoE+ 4 SFP，$140.1）用于银行网点/医院楼层；8 口 STC-28DGGPM；户外 STI-288DGGPM
 - **断点 / 为什么停在这里**：机场等公共关键设施守界按个案；16 次跟进 0 回复
@@ -308,12 +308,12 @@ Saga Telecom · sagatele.com
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 25）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 25）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

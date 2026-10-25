@@ -1,114 +1,114 @@
 {
-  "code": "SB-868",
-  "name_official": "（未具名）保加利亚 · sstamenov91@gmail.com（S. Stamenov，+359 89）",
-  "researched_at": "2026-10-21",
-  "website_status": "无域名（仅表内信息）",
-  "summary": "保加利亚个人/小型安装商 S. Stamenov（Gmail）：WhatsApp 已加，回复「最近没啥需要」，之后 19 次跟进无果。",
-  "type": "",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "用户表",
-      "claim": "WhatsApp 已加；回复「最近没啥需要」；19 次跟进",
-      "quote": "说最近没啥需要 … 359-089910 5551 已加",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "无域名 · 仅表内信息"
-  },
-  "company_facts": {
-    "legal_name": "未具名（个人邮箱）",
-    "hq": "保加利亚",
-    "size": "个人/微型"
-  },
-  "business_lines": [
-    "未知"
-  ],
-  "channels": {
-    "邮箱": "（表内 Gmail）",
-    "WhatsApp": "已加"
-  },
-  "signals": [
-    "曾回复 → 邮箱有效；低频触达即可"
-  ],
-  "risks": [
-    "保加利亚非主动开拓市场；明确表示暂无需求"
-  ],
-  "saga_fit": {
-    "p1": "STC-28DGGPM",
-    "tier": 25,
-    "why": "默认 25% 档：STC-28DGGPM（$84.1）；每季度一次价目更新即可"
-  },
-  "email_hook": "Understood there was nothing needed last time; here is the one-line update — 8-port gigabit PoE+ managed with 2 SFP now $84.1 EXW. If a site comes up, reply with the camera count and I will size it.",
-  "mail_review": {
-    "binding": {
-      "level": "轻度触达（邮件无证，WhatsApp/WeChat 已加）：用户表「说最近没啥需要 … 359-089910 5551 已加」；S/A 邮箱 0 封",
-      "type": "—",
-      "sieve": "3（已加 WhatsApp，表内有往来）",
-      "stop": "仓库只有用户表一行；往来在 Simon 手机",
-      "revive": "首封邮件（A 邮箱，按 email_hook）+ WhatsApp 一句话",
-      "lane": "保加利亚 非主攻",
-      "cadence": "一封",
-      "evidence": "gmail_digest：out 0；用户表：「说最近没啥需要 … 359-089910 5551 已加」；研究档 risks：保加利亚非主动开拓市场；明确表示暂无需求"
-    },
-    "situation": "保加利亚个人/小型安装商 S. Stamenov（Gmail）：WhatsApp 已加，回复「最近没啥需要」，之后 19 次跟进无果。",
-    "need": "默认 25% 档：STC-28DGGPM（$84.1）；每季度一次价目更新即可",
-    "breakpoint": "保加利亚非主动开拓市场；明确表示暂无需求",
-    "saga_now": {
-      "p1": "STC-28DGGPM",
-      "tier": 25,
-      "price": "按主表（研究档 saga_fit）",
-      "why": "默认 25% 档：STC-28DGGPM（$84.1）；每季度一次价目更新即可",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "2026-11（Simon）",
-      "channel": "A 邮箱首封 + WhatsApp（Simon）",
-      "action": "首封 + 一句话",
-      "one_question": "Understood there was nothing needed last time; here is the one-line update — 8-port gigabit PoE+ managed with 2 SFP now $84.1 EXW. If a site comes up, reply with the camera count and I will size it."
-    },
-    "facts": [
-      {
-        "date": "2023-11-30",
-        "dir": "来",
-        "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
-        "quote": "用户表跟进：推「发了2光8管理POE出货图等信息」→ 对方「暂时没需求」",
-        "why": "Simon 跟进表里的**婉拒/无需求**记录——这是 stop 原因的直接证据，节奏按「不动，等他开口」",
-        "k": "Clients/A/DONE/其他优质欧洲客户 2.26.xlsx no.59 2023.11.30"
-      },
-      {
-        "date": "2024-01-16",
-        "dir": "来",
-        "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
-        "quote": "用户表跟进：推「打了个招呼 没推产品」→ 对方「hi」",
-        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
-        "k": "Clients/A/DONE/其他优质欧洲客户 2.26.xlsx no.59 2024.1.16"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "说最近没啥需要 … 359-089910 5551 已加",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [
-      "WhatsApp 往来未入库"
-    ],
-    "draft_en": {
-      "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
-      "body": "Understood there was nothing needed last time; here is the one-line update — 8-port gigabit PoE+ managed with 2 SFP now $84.1 EXW. If a site comes up, reply with the camera count and I will size it."
-    },
-    "as_of": "2026-10-24"
+ "code": "SB-868",
+ "name_official": "（未具名）保加利亚 · sstamenov91@gmail.com（S. Stamenov，+359 89）",
+ "researched_at": "2026-10-21",
+ "website_status": "无域名（仅表内信息）",
+ "summary": "保加利亚个人/小型安装商 S. Stamenov（Gmail）：WhatsApp 已加，回复「最近没啥需要」，之后 19 次跟进无果。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "WhatsApp 已加；回复「最近没啥需要」；19 次跟进",
+   "quote": "说最近没啥需要 … 359-089910 5551 已加",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "无域名 · 仅表内信息"
+ },
+ "company_facts": {
+  "legal_name": "未具名（个人邮箱）",
+  "hq": "保加利亚",
+  "size": "个人/微型"
+ },
+ "business_lines": [
+  "未知"
+ ],
+ "channels": {
+  "邮箱": "（表内 Gmail）",
+  "WhatsApp": "已加"
+ },
+ "signals": [
+  "曾回复 → 邮箱有效；低频触达即可"
+ ],
+ "risks": [
+  "保加利亚非主动开拓市场；明确表示暂无需求"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 25,
+  "why": "默认 25% 档：STC-28DGGPM（$84.1）；每季度一次价目更新即可"
+ },
+ "email_hook": "Understood there was nothing needed last time; here is the one-line update — 8-port gigabit PoE+ managed with 2 SFP now $84.1 EXW. If a site comes up, reply with the camera count and I will size it.",
+ "mail_review": {
+  "binding": {
+   "level": "轻度触达（邮件无证，WhatsApp/WeChat 已加）：用户表「说最近没啥需要 … 359-089910 5551 已加」；S/A 邮箱 0 封；Elsa 箱：`to:sstamenov91@gmail.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(k)）",
+   "type": "—",
+   "sieve": "3（已加 WhatsApp，表内有往来）",
+   "stop": "仓库只有用户表一行；往来在 Simon 手机",
+   "revive": "首封邮件（A 邮箱，按 email_hook）+ WhatsApp 一句话",
+   "lane": "保加利亚 非主攻",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 0；用户表：「说最近没啥需要 … 359-089910 5551 已加」；研究档 risks：保加利亚非主动开拓市场；明确表示暂无需求"
+  },
+  "situation": "保加利亚个人/小型安装商 S. Stamenov（Gmail）：WhatsApp 已加，回复「最近没啥需要」，之后 19 次跟进无果。",
+  "need": "默认 25% 档：STC-28DGGPM（$84.1）；每季度一次价目更新即可",
+  "breakpoint": "保加利亚非主动开拓市场；明确表示暂无需求",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "默认 25% 档：STC-28DGGPM（$84.1）；每季度一次价目更新即可",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2026-11（Simon）",
+   "channel": "A 邮箱首封 + WhatsApp（Simon）",
+   "action": "首封 + 一句话",
+   "one_question": "Understood there was nothing needed last time; here is the one-line update — 8-port gigabit PoE+ managed with 2 SFP now $84.1 EXW. If a site comes up, reply with the camera count and I will size it."
+  },
+  "facts": [
+   {
+    "date": "2023-11-30",
+    "dir": "来",
+    "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+    "quote": "用户表跟进：推「发了2光8管理POE出货图等信息」→ 对方「暂时没需求」",
+    "why": "Simon 跟进表里的**婉拒/无需求**记录——这是 stop 原因的直接证据，节奏按「不动，等他开口」",
+    "k": "Clients/A/DONE/其他优质欧洲客户 2.26.xlsx no.59 2023.11.30"
+   },
+   {
+    "date": "2024-01-16",
+    "dir": "来",
+    "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+    "quote": "用户表跟进：推「打了个招呼 没推产品」→ 对方「hi」",
+    "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+    "k": "Clients/A/DONE/其他优质欧洲客户 2.26.xlsx no.59 2024.1.16"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "说最近没啥需要 … 359-089910 5551 已加",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "WhatsApp 往来未入库"
+  ],
+  "draft_en": {
+   "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+   "body": "Understood there was nothing needed last time; here is the one-line update — 8-port gigabit PoE+ managed with 2 SFP now $84.1 EXW. If a site comes up, reply with the camera count and I will size it."
+  },
+  "as_of": "2026-10-24"
+ }
 }

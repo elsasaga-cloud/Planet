@@ -1,114 +1,114 @@
 {
-  "code": "SB-227",
-  "name_official": "",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（marlexconexion.com，快照 2026-10-21）",
-  "summary": "西班牙 Marlex Conexión（连接/网络产品分销商；表内「很多牌子的」「可以尝试多跟进一下」；KP Joan Torras（Owner）、Philippe Provost（Sales Technician）；快照为 Bot Detection 页）；表内 7 次跟进无回复。",
-  "type": "网络产品分销商（西班牙，多品牌）",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "官网标题：Bot Detection",
-      "quote": "Please wait while we check if you are a Human",
-      "url": "https://marlexconexion.com/challenge",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "很多牌子的",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "很多牌子的",
-      "quote": "很多牌子的；可以尝试多跟进一下",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Joan Torras",
-      "title": "Owner",
-      "email": "joan@marlexconexion.com",
-      "phone": "",
-      "source": "用户表"
-    },
-    {
-      "name": "Philippe Provost",
-      "title": "Sales Technician",
-      "email": "marlex@marlexconexion.com",
-      "phone": "",
-      "source": "用户表"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ "code": "SB-227",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（marlexconexion.com，快照 2026-10-21）",
+ "summary": "西班牙 Marlex Conexión（连接/网络产品分销商；表内「很多牌子的」「可以尝试多跟进一下」；KP Joan Torras（Owner）、Philippe Provost（Sales Technician）；快照为 Bot Detection 页）；表内 7 次跟进无回复。",
+ "type": "网络产品分销商（西班牙，多品牌）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Bot Detection",
+   "quote": "Please wait while we check if you are a Human",
+   "url": "https://marlexconexion.com/challenge",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "hq": "西班牙",
-    "other": "官网 marlexconexion.com，语言 en，快照状态 ok；角色判定来源：表内早期 AI 描述"
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "很多牌子的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "连接 / 网络产品分销（西班牙）"
-  ],
-  "channels": {
-    "role": "网络产品分销商（西班牙，多品牌）",
-    "region": "西班牙",
-    "contact": "marlex@marlexconexion.com、joan@marlexconexion.com"
-  },
-  "signals": [
-    "快照：Bot Detection ; Please wait while we check if you are a Human",
-    "表内：很多牌子的；KP Joan Torras / Owner；Philippe Provost / Sales Technician；可以尝试多跟进一下"
-  ],
-  "risks": [
-    "快照为 Bot Detection 页（内容待核）；多品牌分销（白牌契合度待核）；7 次无回复 → 改向 Owner 具名首触"
-  ],
-  "saga_fit": {
-    "p1": "STC-28DGGPM",
-    "tier": 20,
-    "why": "多品牌分销 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）作白牌预算位"
-  },
-  "email_hook": "Joan, alongside the brands you distribute, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches from small lots, CE/RoHS, EXW USD — is there a budget PoE position your installer customers ask for below the branded lines?",
-  "mail_review": {
-    "binding": {
-      "level": "未触达（1 封自动回复）",
-      "type": "西班牙多品牌网络分销（Marlex Conexión）",
-      "sieve": "0",
-      "stop": "自动回复/机器人，无人工回复",
-      "revive": "不动",
-      "lane": "ES",
-      "cadence": "不动",
-      "evidence": "k=808dac70a8f6e2ed"
-    },
-    "situation": "来信全部为机器回复；无人读信或无人回信。",
-    "need": "—",
-    "breakpoint": "—",
-    "saga_now": {
-      "p1": "—",
-      "tier": 20,
-      "price": "—；群发里他已看到的价（续）：2026-08-27 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-07-11 $300（48 Port PoE Managed Switch）、2025-10-02 $280（10G Enterprise SFP Switch）",
-      "why": "—",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "不动",
-      "channel": "—",
-      "action": "—",
-      "one_question": ""
-    },
-    "facts": [],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "很多牌子的",
+   "quote": "很多牌子的；可以尝试多跟进一下",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Joan Torras",
+   "title": "Owner",
+   "email": "joan@marlexconexion.com",
+   "phone": "",
+   "source": "用户表"
+  },
+  {
+   "name": "Philippe Provost",
+   "title": "Sales Technician",
+   "email": "marlex@marlexconexion.com",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "西班牙",
+  "other": "官网 marlexconexion.com，语言 en，快照状态 ok；角色判定来源：表内早期 AI 描述"
+ },
+ "business_lines": [
+  "连接 / 网络产品分销（西班牙）"
+ ],
+ "channels": {
+  "role": "网络产品分销商（西班牙，多品牌）",
+  "region": "西班牙",
+  "contact": "marlex@marlexconexion.com、joan@marlexconexion.com"
+ },
+ "signals": [
+  "快照：Bot Detection ; Please wait while we check if you are a Human",
+  "表内：很多牌子的；KP Joan Torras / Owner；Philippe Provost / Sales Technician；可以尝试多跟进一下"
+ ],
+ "risks": [
+  "快照为 Bot Detection 页（内容待核）；多品牌分销（白牌契合度待核）；7 次无回复 → 改向 Owner 具名首触"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 20,
+  "why": "多品牌分销 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）作白牌预算位"
+ },
+ "email_hook": "Joan, alongside the brands you distribute, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches from small lots, CE/RoHS, EXW USD — is there a budget PoE position your installer customers ask for below the branded lines?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（1 封自动回复；Elsa 箱：`to:marlexconexion.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 18 / 来 1）（第 74 批(k)））",
+   "type": "西班牙多品牌网络分销（Marlex Conexión）",
+   "sieve": "0",
+   "stop": "自动回复/机器人，无人工回复",
+   "revive": "不动",
+   "lane": "ES",
+   "cadence": "不动",
+   "evidence": "k=808dac70a8f6e2ed"
+  },
+  "situation": "来信全部为机器回复；无人读信或无人回信。",
+  "need": "—",
+  "breakpoint": "—",
+  "saga_now": {
+   "p1": "—",
+   "tier": 20,
+   "price": "—；群发里他已看到的价（续）：2026-08-27 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-07-11 $300（48 Port PoE Managed Switch）、2025-10-02 $280（10G Enterprise SFP Switch）",
+   "why": "—",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

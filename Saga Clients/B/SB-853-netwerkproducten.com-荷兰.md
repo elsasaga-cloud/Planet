@@ -25,7 +25,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -42,7 +42,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-853` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A/S 邮箱 24 封 2024→2026，1 次记录打开，0 回；收件 klantenservice@netwerkproducten.com；主题多为「16 Port Ethernet Switch、Marvell Alleycat5 Solution」）** ｜ 类型：网络产品网店（荷兰） ｜ 筛子：1~2（1 次打开） ｜ 停点：24 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱；Q-33 供应商渠道客户 ｜ 复活：不动（Q-33） ｜ 通路：荷兰（欧洲全域主攻） ｜ 节奏：不动 ｜ 证据：gmail_digest：out 24，Opened 标签 1（Simon 群发追踪）；用户表：「比较多的外壳 有国内的 switch」；研究档 risks：网店已有国内白牌多外壳供货：价格基准低
+- **绑定等级：未触达（A/S 邮箱 24 封 2024→2026，1 次记录打开，0 回；收件 klantenservice@netwerkproducten.com；主题多为「16 Port Ethernet Switch、Marvell Alleycat5 Solution」；Elsa 箱：`to:netwerkproducten.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 24 / 来 0）（第 74 批(k)））** ｜ 类型：网络产品网店（荷兰） ｜ 筛子：1~2（1 次打开） ｜ 停点：24 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱；Q-33 供应商渠道客户 ｜ 复活：不动（Q-33） ｜ 通路：荷兰（欧洲全域主攻） ｜ 节奏：不动 ｜ 证据：gmail_digest：out 24，Opened 标签 1（Simon 群发追踪）；用户表：「比较多的外壳 有国内的 switch」；研究档 risks：网店已有国内白牌多外壳供货：价格基准低
 - **现状一句话**：荷兰 MP2 Netwerkproducten（网络产品网店：16 点前下单当天发货、满 100 欧包邮；交换机 94、MC 18、光纤 40；Planet GSD-1020S；表内「比较多的外壳，有国内的；switch」）；群发 15 次无回复。
 - **对方真实需求（有据）**：网店交换机品类（含国内白牌）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-08GE（$10.5）；MC 位 STI-110GE
 - **断点 / 为什么停在这里**：网店已有国内白牌多外壳供货：价格基准低
@@ -299,12 +299,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 32）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 32）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

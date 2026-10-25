@@ -1,136 +1,136 @@
 {
-  "code": "SB-362",
-  "name_official": "",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（maxtel.bg，快照 2026-10-21）",
-  "summary": "保加利亚 Maxtel（МАКСТЕЛ：安防、视频监控、门禁、通信与工业 LED 照明产品分销商；Vivotek/Bosch/Milesight；表内「ONV 的工业 FS PoE switch」；KP Evelin Slavev（e.slavev@））；群发 15 次无回复。",
-  "type": "安防/通信分销商（保加利亚，工业 PoE 现 ONV）",
-  "size": "",
-  "brands_seen": [
-    "Vivotek",
-    "Bosch",
-    "Milesight",
-    "ONV"
-  ],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "官网标题：Начало - Макстел；品类词 安防监控（CCTV / 门禁） / 网络交换 / PoE",
-      "quote": "[:bg]МАКСТЕЛ предлага на своите клиенти богата гама от продукти за сигурност, видеонаблюдение, контрол на достъпа, комуникация и индустриално LED осветление.[:en]MAXTEL offers its customers a wide range of security products, video surveilla",
-      "url": "https://maxtel.bg/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "ONV的工业FS PoEswitch；e.slavev@maxtel.bg",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网快照",
-      "claim": "Maxtel 定位",
-      "quote": "МАКСТЕЛ предлага на своите клиенти богата гама от продукти за сигурност, видеонаблюдение, контрол на достъпа, комуникация и индустриално LED осветление",
-      "url": "https://maxtel.bg/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "ONV 工业 FS PoE switch",
-      "quote": "ONV的工业FS PoEswitch",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Evelin Slavev",
-      "title": "（职务待核）",
-      "email": "e.slavev@maxtel.bg",
-      "phone": "",
-      "source": "用户表"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ "code": "SB-362",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（maxtel.bg，快照 2026-10-21）",
+ "summary": "保加利亚 Maxtel（МАКСТЕЛ：安防、视频监控、门禁、通信与工业 LED 照明产品分销商；Vivotek/Bosch/Milesight；表内「ONV 的工业 FS PoE switch」；KP Evelin Slavev（e.slavev@））；群发 15 次无回复。",
+ "type": "安防/通信分销商（保加利亚，工业 PoE 现 ONV）",
+ "size": "",
+ "brands_seen": [
+  "Vivotek",
+  "Bosch",
+  "Milesight",
+  "ONV"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Начало - Макстел；品类词 安防监控（CCTV / 门禁） / 网络交换 / PoE",
+   "quote": "[:bg]МАКСТЕЛ предлага на своите клиенти богата гама от продукти за сигурност, видеонаблюдение, контрол на достъпа, комуникация и индустриално LED осветление.[:en]MAXTEL offers its customers a wide range of security products, video surveilla",
+   "url": "https://maxtel.bg/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "hq": "保加利亚",
-    "other": "官网 maxtel.bg，语言 bg-BG，快照状态 ok；角色判定来源：官网文案"
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "ONV的工业FS PoEswitch；e.slavev@maxtel.bg",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "安防 / 视频监控 / 门禁 / 通信 / 工业 LED 分销（保加利亚）"
-  ],
-  "channels": {
-    "role": "安防/通信分销商（保加利亚，工业 PoE 现 ONV）",
-    "region": "保加利亚",
-    "contact": "info@maxtel.bg、varna@maxtel.bg"
+  {
+   "kind": "官网快照",
+   "claim": "Maxtel 定位",
+   "quote": "МАКСТЕЛ предлага на своите клиенти богата гама от продукти за сигурност, видеонаблюдение, контрол на достъпа, комуникация и индустриално LED осветление",
+   "url": "https://maxtel.bg/",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "官网：MAXTEL offers its customers a wide range of products for security, video surveillance, access control, communication and industrial LED lighting；brands Vivotek / Bosch / Milesight",
-    "表内：ONV 的工业 FS PoE switch；KP Evelin Slavev（e.slavev@maxtel.bg）"
-  ],
-  "risks": [
-    "小国（保加利亚，非主动开拓区）；现供 ONV 价格基准低；15 次无回复 → 改向 Evelin 具名首触"
-  ],
-  "saga_fit": {
-    "p1": "STI-288GP",
-    "tier": 20,
-    "why": "工业 PoE（现 ONV）→ 工业 8 PoE + 2 SFP 非管理 STI-288GP（$57.4 @20%）/ 管理 STI-288GPM（$78.9）；室内 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7）"
-  },
-  "email_hook": "Evelin, alongside the ONV industrial PoE switches you carry, we supply neutral-brand DIN-rail 8-PoE + 2 SFP (managed on Marvell L2+, or unmanaged) and 8-PoE + 2 SFP L2+ commercial switches from small lots, CE/RoHS, EXW USD — which industrial PoE SKU do your installers order most?",
-  "mail_review": {
-    "binding": {
-      "level": "未触达（A/S 邮箱 23 封 2024→2026，1 次记录打开，0 回；收件 e.slavev@maxtel.bg, info@maxtel.bg；主题多为「Industrial PoE Switch、10G L3 Managed Switch」）",
-      "type": "安防/通信分销商（保加利亚，工业 PoE 现 ONV）",
-      "sieve": "1~2（1 次打开）",
-      "stop": "23 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-      "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
-      "lane": "保加利亚（欧洲全域主攻）",
-      "cadence": "一封",
-      "evidence": "gmail_digest：out 23，Opened 标签 1（Simon 群发追踪）；用户表：「ONV的工业FS PoEswitch；e.slavev@maxtel.bg」；研究档 risks：小国（保加利亚，非主动开拓区）；现供 ONV 价格基准低；15 次无回复 → 改向 Evelin 具名首触"
-    },
-    "situation": "保加利亚 Maxtel（МАКСТЕЛ：安防、视频监控、门禁、通信与工业 LED 照明产品分销商；Vivotek/Bosch/Milesight；表内「ONV 的工业 FS PoE switch」；KP Evelin Slavev（e.slavev@））；群发 15 次无回复。",
-    "need": "工业 PoE（现 ONV）→ 工业 8 PoE + 2 SFP 非管理 STI-288GP（$57.4 @20%）/ 管理 STI-288GPM（$78.9）；室内 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7）",
-    "breakpoint": "小国（保加利亚，非主动开拓区）；现供 ONV 价格基准低；15 次无回复 → 改向 Evelin 具名首触",
-    "saga_now": {
-      "p1": "STI-288GP",
-      "tier": 20,
-      "price": "换人再触锚价 STI-288GP $60 EXW（最近实报 $60（SA-100 2025-03-18；SB-1276 / SA-030 同价）（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-27 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-10-22 $65（10G Media Converter）、2025-07-30 $300（48 Port PoE Managed Switch）、2025-10-07 $280（10G Enterprise SFP Switch）",
-      "why": "工业 PoE（现 ONV）→ 工业 8 PoE + 2 SFP 非管理 STI-288GP（$57.4 @20%）/ 管理 STI-288GPM（$78.9）；室内 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7）。已打开的主题（1/23 封有打开记录）：「10G Media Converter」(2024-10-22) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "2027-Q1（换人后）",
-      "channel": "A 邮箱 → 具名 KP",
-      "action": "换收件人再发一封",
-      "one_question": "Evelin, alongside the ONV industrial PoE switches you carry, we supply neutral-brand DIN-rail 8-PoE + 2 SFP (managed on Marvell L2+, or unmanaged) and 8-PoE + 2 SFP L2+ commercial switches from small lots, CE/RoHS, EXW USD — which industrial PoE SKU do your installers order most? Reference: STI-288GP at $60 USD EXW (MOQ 1, 15-day validity)."
-    },
-    "facts": [
-      {
-        "date": "2026-09-10",
-        "dir": "去",
-        "who": "A/S 群发",
-        "quote": "Industrial PoE Switch、10G L3 Managed Switch",
-        "why": "23 封 / 1 次打开 / 0 回｜首封 2024-07-08 → 末封 2026-09-10（23 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "ONV的工业FS PoEswitch；e.slavev@maxtel.bg",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "ONV 工业 FS PoE switch",
+   "quote": "ONV的工业FS PoEswitch",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Evelin Slavev",
+   "title": "（职务待核）",
+   "email": "e.slavev@maxtel.bg",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "保加利亚",
+  "other": "官网 maxtel.bg，语言 bg-BG，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "安防 / 视频监控 / 门禁 / 通信 / 工业 LED 分销（保加利亚）"
+ ],
+ "channels": {
+  "role": "安防/通信分销商（保加利亚，工业 PoE 现 ONV）",
+  "region": "保加利亚",
+  "contact": "info@maxtel.bg、varna@maxtel.bg"
+ },
+ "signals": [
+  "官网：MAXTEL offers its customers a wide range of products for security, video surveillance, access control, communication and industrial LED lighting；brands Vivotek / Bosch / Milesight",
+  "表内：ONV 的工业 FS PoE switch；KP Evelin Slavev（e.slavev@maxtel.bg）"
+ ],
+ "risks": [
+  "小国（保加利亚，非主动开拓区）；现供 ONV 价格基准低；15 次无回复 → 改向 Evelin 具名首触"
+ ],
+ "saga_fit": {
+  "p1": "STI-288GP",
+  "tier": 20,
+  "why": "工业 PoE（现 ONV）→ 工业 8 PoE + 2 SFP 非管理 STI-288GP（$57.4 @20%）/ 管理 STI-288GPM（$78.9）；室内 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7）"
+ },
+ "email_hook": "Evelin, alongside the ONV industrial PoE switches you carry, we supply neutral-brand DIN-rail 8-PoE + 2 SFP (managed on Marvell L2+, or unmanaged) and 8-PoE + 2 SFP L2+ commercial switches from small lots, CE/RoHS, EXW USD — which industrial PoE SKU do your installers order most?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 23 封 2024→2026，1 次记录打开，0 回；收件 e.slavev@maxtel.bg, info@maxtel.bg；主题多为「Industrial PoE Switch、10G L3 Managed Switch」；Elsa 箱：`to:maxtel.bg` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 23 / 来 0）（第 74 批(k)））",
+   "type": "安防/通信分销商（保加利亚，工业 PoE 现 ONV）",
+   "sieve": "1~2（1 次打开）",
+   "stop": "23 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+   "lane": "保加利亚（欧洲全域主攻）",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 23，Opened 标签 1（Simon 群发追踪）；用户表：「ONV的工业FS PoEswitch；e.slavev@maxtel.bg」；研究档 risks：小国（保加利亚，非主动开拓区）；现供 ONV 价格基准低；15 次无回复 → 改向 Evelin 具名首触"
+  },
+  "situation": "保加利亚 Maxtel（МАКСТЕЛ：安防、视频监控、门禁、通信与工业 LED 照明产品分销商；Vivotek/Bosch/Milesight；表内「ONV 的工业 FS PoE switch」；KP Evelin Slavev（e.slavev@））；群发 15 次无回复。",
+  "need": "工业 PoE（现 ONV）→ 工业 8 PoE + 2 SFP 非管理 STI-288GP（$57.4 @20%）/ 管理 STI-288GPM（$78.9）；室内 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7）",
+  "breakpoint": "小国（保加利亚，非主动开拓区）；现供 ONV 价格基准低；15 次无回复 → 改向 Evelin 具名首触",
+  "saga_now": {
+   "p1": "STI-288GP",
+   "tier": 20,
+   "price": "换人再触锚价 STI-288GP $60 EXW（最近实报 $60（SA-100 2025-03-18；SB-1276 / SA-030 同价）（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-27 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-10-22 $65（10G Media Converter）、2025-07-30 $300（48 Port PoE Managed Switch）、2025-10-07 $280（10G Enterprise SFP Switch）",
+   "why": "工业 PoE（现 ONV）→ 工业 8 PoE + 2 SFP 非管理 STI-288GP（$57.4 @20%）/ 管理 STI-288GPM（$78.9）；室内 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7）。已打开的主题（1/23 封有打开记录）：「10G Media Converter」(2024-10-22) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1（换人后）",
+   "channel": "A 邮箱 → 具名 KP",
+   "action": "换收件人再发一封",
+   "one_question": "Evelin, alongside the ONV industrial PoE switches you carry, we supply neutral-brand DIN-rail 8-PoE + 2 SFP (managed on Marvell L2+, or unmanaged) and 8-PoE + 2 SFP L2+ commercial switches from small lots, CE/RoHS, EXW USD — which industrial PoE SKU do your installers order most? Reference: STI-288GP at $60 USD EXW (MOQ 1, 15-day validity)."
+  },
+  "facts": [
+   {
+    "date": "2026-09-10",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Industrial PoE Switch、10G L3 Managed Switch",
+    "why": "23 封 / 1 次打开 / 0 回｜首封 2024-07-08 → 末封 2026-09-10（23 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "ONV的工业FS PoEswitch；e.slavev@maxtel.bg",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

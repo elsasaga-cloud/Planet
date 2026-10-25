@@ -28,7 +28,7 @@ price_tier: 25%
 research: done
 site_snapshot: http_error  # 2026-10-21
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -45,7 +45,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-047` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A 邮箱 4 封 2026，无记录打开，0 回；收件 vicente.jimenez@intecseg.com；主题多为「24 Port PoE Managed Switch、10G L3 Managed Switch」）** ｜ 类型：待核实（疑似安防/电信安装商） ｜ 筛子：1（只收到群发） ｜ 停点：4 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：西班牙（欧洲全域主攻） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 4
+- **绑定等级：未触达（A 邮箱 4 封 2026，无记录打开，0 回；收件 vicente.jimenez@intecseg.com；主题多为「24 Port PoE Managed Switch、10G L3 Managed Switch」；Elsa 箱：`to:intecseg.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 4 / 来 0）（第 74 批(k)））** ｜ 类型：待核实（疑似安防/电信安装商） ｜ 筛子：1（只收到群发） ｜ 停点：4 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：西班牙（欧洲全域主攻） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 4
 - **现状一句话**：用户表：西班牙「ITS, S.L.-S.B.T.」联系人 Vicente Jimenez（vicente.jimenez@intecseg.com，+34 616 913 800，WhatsApp 已加），兴趣工业交换机；20 次推送 0 回复。公开检索无法确认该域名对应公司，疑似已停用域名或小型安防/电信安装商。
 - **对方真实需求（有据）**：安装商自用：STC-28DGGPM（8 PoE + 2 SFP）为主，STC-424DGGPM-280W 为大项目；集成商 25% 档
 - **断点 / 为什么停在这里**：无回复
@@ -286,12 +286,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 82）；人工/调研定级 → B
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 82）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

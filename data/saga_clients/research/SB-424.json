@@ -1,138 +1,138 @@
 {
-  "code": "SB-424",
-  "name_official": "",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（tritonsystems.eu，快照 2026-10-21）",
-  "summary": "斯洛伐克 Tritonsystems spol. s r.o.（ParkIS 智能停车与缴费系统（含监控中心）开发商；阿里巴巴询盘「2 光 8 PoE 管理 Vitesse」；KP Stanislav Lupták、Michal Chvála）；表内 6 次跟进无回复。",
-  "type": "停车系统开发商（斯洛伐克，PoE 为系统配套）",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "官网标题：ParkIS Tritonsystems",
-      "quote": "Intelligent parking and payment system for car parks with a surveillance center",
-      "url": "https://tritonsystems.eu/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "2光8PoE管理Vitesse；2光8PoE管理Vitesse / from: 阿里巴巴询盘",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网快照",
-      "claim": "ParkIS 定位",
-      "quote": "ParkIS Tritonsystems ; Intelligent parking and payment system for car parks with a surveillance center",
-      "url": "https://tritonsystems.eu/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "2 光 8 PoE 管理 Vitesse",
-      "quote": "2光8PoE管理Vitesse / from: 阿里巴巴询盘",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Michal Chvála",
-      "title": "（职务待核）",
-      "email": "michal.chvala@triton.eu",
-      "phone": "",
-      "source": "用户表"
-    },
-    {
-      "name": "Stanislav Lupták",
-      "title": "（职务待核）",
-      "email": "",
-      "phone": "",
-      "source": "用户表"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ "code": "SB-424",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（tritonsystems.eu，快照 2026-10-21）",
+ "summary": "斯洛伐克 Tritonsystems spol. s r.o.（ParkIS 智能停车与缴费系统（含监控中心）开发商；阿里巴巴询盘「2 光 8 PoE 管理 Vitesse」；KP Stanislav Lupták、Michal Chvála）；表内 6 次跟进无回复。",
+ "type": "停车系统开发商（斯洛伐克，PoE 为系统配套）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：ParkIS Tritonsystems",
+   "quote": "Intelligent parking and payment system for car parks with a surveillance center",
+   "url": "https://tritonsystems.eu/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "hq": "斯洛伐克",
-    "other": "官网 tritonsystems.eu，语言 ?，快照状态 ok；角色判定来源：官网文案"
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "2光8PoE管理Vitesse；2光8PoE管理Vitesse / from: 阿里巴巴询盘",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "智能停车与缴费系统（ParkIS）"
-  ],
-  "channels": {
-    "role": "停车系统开发商（斯洛伐克，PoE 为系统配套）",
-    "region": "斯洛伐克",
-    "contact": "michal.chvala@triton.eu"
+  {
+   "kind": "官网快照",
+   "claim": "ParkIS 定位",
+   "quote": "ParkIS Tritonsystems ; Intelligent parking and payment system for car parks with a surveillance center",
+   "url": "https://tritonsystems.eu/",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "官网：ParkIS Tritonsystems ; Intelligent parking and payment system for car parks with a surveillance center ; ParkIS Core ; ParkIS Supervision Center",
-    "表内：2 光 8PoE 管理 Vitesse / from: 阿里巴巴询盘；KP Stanislav Luptak；邮箱 michal.chvala@triton.eu"
-  ],
-  "risks": [
-    "询盘指定 Vitesse 平台（需说明 Marvell 等效）；系统配套量随项目；6 次无回复"
-  ],
-  "saga_fit": {
-    "p1": "STC-28DGGPM",
-    "tier": 30,
-    "why": "询盘 2 光 8 PoE 管理（Vitesse 平台）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%，Marvell 平台）贴 ParkIS 标；室外柜用工业 STI-288GPM（$85.5）"
-  },
-  "email_hook": "Stanislav, following your enquiry for a managed 8-PoE + 2 SFP switch: we supply that configuration on a Marvell L2+ platform (VLAN/QoS, 802.3at, web/SNMP) and a DIN-rail industrial version for outdoor cabinets, under your label from small lots, CE/RoHS — how many units per car park installation?",
-  "mail_review": {
-    "binding": {
-      "level": "未触达（A 邮箱 16 封 2025→2026，无记录打开，0 回；收件 michal.chvala@triton.eu；主题多为「Industrial PoE Switch、10G L3 Managed Switch」）",
-      "type": "停车系统开发商（斯洛伐克，PoE 为系统配套）",
-      "sieve": "1（只收到群发）",
-      "stop": "16 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-      "revive": "保持季度群发到 2027-Q1；无打开即停",
-      "lane": "斯洛伐克（欧洲全域主攻）",
-      "cadence": "季度",
-      "evidence": "gmail_digest：out 16；用户表：「2光8PoE管理Vitesse；2光8PoE管理Vitesse / from: 阿里巴巴询盘」；研究档 risks：询盘指定 Vitesse 平台（需说明 Marvell 等效）；系统配套量随项目；6 次无回复"
-    },
-    "situation": "斯洛伐克 Tritonsystems spol. s r.o.（ParkIS 智能停车与缴费系统（含监控中心）开发商；阿里巴巴询盘「2 光 8 PoE 管理 Vitesse」；KP Stanislav Lupták、Michal Chvála）；表内 6 次跟进无回复。",
-    "need": "询盘 2 光 8 PoE 管理（Vitesse 平台）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%，Marvell 平台）贴 ParkIS 标；室外柜用工业 STI-288GPM（$85.5）",
-    "breakpoint": "询盘指定 Vitesse 平台（需说明 Marvell 等效）；系统配套量随项目；6 次无回复",
-    "saga_now": {
-      "p1": "STC-28DGGPM",
-      "tier": 30,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-09-01 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-06-04 $300（48 Port PoE Managed Switch）",
-      "why": "询盘 2 光 8 PoE 管理（Vitesse 平台）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%，Marvell 平台）贴 ParkIS 标；室外柜用工业 STI-288GPM（$85.5）",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "群发节奏",
-      "channel": "A 邮箱",
-      "action": "观察打开",
-      "one_question": "Stanislav, following your enquiry for a managed 8-PoE + 2 SFP switch: we supply that configuration on a Marvell L2+ platform (VLAN/QoS, 802.3at, web/SNMP) and a DIN-rail industrial version for outdoor cabinets, under your label from small lots, CE/RoHS — how many units per car park installation?"
-    },
-    "facts": [
-      {
-        "date": "2026-09-01",
-        "dir": "去",
-        "who": "A 群发",
-        "quote": "Industrial PoE Switch、10G L3 Managed Switch",
-        "why": "16 封 / 0 次打开 / 0 回｜首封 2025-03-25 → 末封 2026-09-01（16 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "2光8PoE管理Vitesse；2光8PoE管理Vitesse / from: 阿里巴巴询盘",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "2 光 8 PoE 管理 Vitesse",
+   "quote": "2光8PoE管理Vitesse / from: 阿里巴巴询盘",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Michal Chvála",
+   "title": "（职务待核）",
+   "email": "michal.chvala@triton.eu",
+   "phone": "",
+   "source": "用户表"
+  },
+  {
+   "name": "Stanislav Lupták",
+   "title": "（职务待核）",
+   "email": "",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "斯洛伐克",
+  "other": "官网 tritonsystems.eu，语言 ?，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "智能停车与缴费系统（ParkIS）"
+ ],
+ "channels": {
+  "role": "停车系统开发商（斯洛伐克，PoE 为系统配套）",
+  "region": "斯洛伐克",
+  "contact": "michal.chvala@triton.eu"
+ },
+ "signals": [
+  "官网：ParkIS Tritonsystems ; Intelligent parking and payment system for car parks with a surveillance center ; ParkIS Core ; ParkIS Supervision Center",
+  "表内：2 光 8PoE 管理 Vitesse / from: 阿里巴巴询盘；KP Stanislav Luptak；邮箱 michal.chvala@triton.eu"
+ ],
+ "risks": [
+  "询盘指定 Vitesse 平台（需说明 Marvell 等效）；系统配套量随项目；6 次无回复"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 30,
+  "why": "询盘 2 光 8 PoE 管理（Vitesse 平台）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%，Marvell 平台）贴 ParkIS 标；室外柜用工业 STI-288GPM（$85.5）"
+ },
+ "email_hook": "Stanislav, following your enquiry for a managed 8-PoE + 2 SFP switch: we supply that configuration on a Marvell L2+ platform (VLAN/QoS, 802.3at, web/SNMP) and a DIN-rail industrial version for outdoor cabinets, under your label from small lots, CE/RoHS — how many units per car park installation?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 16 封 2025→2026，无记录打开，0 回；收件 michal.chvala@triton.eu；主题多为「Industrial PoE Switch、10G L3 Managed Switch」；Elsa 箱：`to:tritonsystems.eu OR to:triton.eu` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 16 / 来 0）（第 74 批(k)））",
+   "type": "停车系统开发商（斯洛伐克，PoE 为系统配套）",
+   "sieve": "1（只收到群发）",
+   "stop": "16 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "斯洛伐克（欧洲全域主攻）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 16；用户表：「2光8PoE管理Vitesse；2光8PoE管理Vitesse / from: 阿里巴巴询盘」；研究档 risks：询盘指定 Vitesse 平台（需说明 Marvell 等效）；系统配套量随项目；6 次无回复"
+  },
+  "situation": "斯洛伐克 Tritonsystems spol. s r.o.（ParkIS 智能停车与缴费系统（含监控中心）开发商；阿里巴巴询盘「2 光 8 PoE 管理 Vitesse」；KP Stanislav Lupták、Michal Chvála）；表内 6 次跟进无回复。",
+  "need": "询盘 2 光 8 PoE 管理（Vitesse 平台）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%，Marvell 平台）贴 ParkIS 标；室外柜用工业 STI-288GPM（$85.5）",
+  "breakpoint": "询盘指定 Vitesse 平台（需说明 Marvell 等效）；系统配套量随项目；6 次无回复",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 30,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-09-01 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-06-04 $300（48 Port PoE Managed Switch）",
+   "why": "询盘 2 光 8 PoE 管理（Vitesse 平台）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%，Marvell 平台）贴 ParkIS 标；室外柜用工业 STI-288GPM（$85.5）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Stanislav, following your enquiry for a managed 8-PoE + 2 SFP switch: we supply that configuration on a Marvell L2+ platform (VLAN/QoS, 802.3at, web/SNMP) and a DIN-rail industrial version for outdoor cabinets, under your label from small lots, CE/RoHS — how many units per car park installation?"
+  },
+  "facts": [
+   {
+    "date": "2026-09-01",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "Industrial PoE Switch、10G L3 Managed Switch",
+    "why": "16 封 / 0 次打开 / 0 回｜首封 2025-03-25 → 末封 2026-09-01（16 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "2光8PoE管理Vitesse；2光8PoE管理Vitesse / from: 阿里巴巴询盘",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

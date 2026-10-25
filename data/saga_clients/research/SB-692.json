@@ -1,105 +1,105 @@
 {
-  "code": "SB-692",
-  "name_official": "Desarrollos Avanzados en Telecomunicaciones S.L. (DAVANTEL)（巴塞罗那）",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（davantel.com，快照 2026-10-21，西语）",
-  "summary": "西班牙巴塞罗那（+34 93 340 8712）电信接入 / 传输方案公司（面向运营商、工程公司与集成商；Teltonika；switch 130 / poe 165 / industrial 137），CTO Jose Salvador Collado；表内「外购 10G MC、工业 FS 管理型」；群发 14 次无回复。",
-  "type": "",
-  "size": "",
-  "brands_seen": [
-    "Teltonika"
-  ],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "面向运营商 / 工程公司 / 集成商的接入与传输方案；+34 93 3408712",
-      "quote": "DESARROLLOS AVANZADOS EN TELECOMUNICACIONES, S.L. (DAVANTEL) es una empresa orientada a ofrecer soluciones avanzadas de acceso y transporte a los operadores, ingenierías",
-      "url": "https://davantel.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "外购 10G MC；工业 FS 管理",
-      "quote": "兴趣：外购10G MC 工业FS 管理",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Jose Salvador Collado",
-      "title": "CTO - Director",
-      "email": "jrsalvador@davantel.com",
-      "phone": "+34 93 340 8712",
-      "source": "（本地 Clients/ 表格，无公开 URL）"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（官网快照核对 + 表内）"
+ "code": "SB-692",
+ "name_official": "Desarrollos Avanzados en Telecomunicaciones S.L. (DAVANTEL)（巴塞罗那）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（davantel.com，快照 2026-10-21，西语）",
+ "summary": "西班牙巴塞罗那（+34 93 340 8712）电信接入 / 传输方案公司（面向运营商、工程公司与集成商；Teltonika；switch 130 / poe 165 / industrial 137），CTO Jose Salvador Collado；表内「外购 10G MC、工业 FS 管理型」；群发 14 次无回复。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "Teltonika"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "面向运营商 / 工程公司 / 集成商的接入与传输方案；+34 93 3408712",
+   "quote": "DESARROLLOS AVANZADOS EN TELECOMUNICACIONES, S.L. (DAVANTEL) es una empresa orientada a ofrecer soluciones avanzadas de acceso y transporte a los operadores, ingenierías",
+   "url": "https://davantel.com/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "legal_name": "Desarrollos Avanzados en Telecomunicaciones, S.L.",
-    "founded": "",
-    "hq": "Barcelona, Spain",
-    "size": "中小型电信方案商（自有产品 + 外购）",
-    "other": "外购 10G MC"
-  },
-  "business_lines": [
-    "电信接入 / 传输方案（运营商）",
-    "工业网络产品（部分外购）"
-  ],
-  "channels": {
-    "role": "方案商 / 品牌商（OEM 采购）",
-    "region": "西班牙"
-  },
-  "signals": [
-    "CTO 具名 + 明确外购 10G MC 与工业管理 FS → OEM 入口"
-  ],
-  "risks": [
-    "10G MC 不在 Saga 价目（SmartByte 另询）",
-    "14 次群发无回复"
-  ],
-  "saga_fit": {
-    "p1": "STI-288GPM",
-    "tier": 30,
-    "why": "工业管理 FS → STI-288GPM（$85.5 @30%）贴 Davantel 标；10G MC 按 SmartByte 型号另询注明。"
-  },
-  "email_hook": "Jose, for the industrial managed switches and 10G media converters you source — Marvell-based DIN 8-PoE + 2-SFP managed under your label from small lots, and 10G SFP+/RJ45 MCs on request; which of the two is up for re-sourcing first?",
-  "mail_review": {
-    "binding": {
-      "level": "未触达（2 封自动回复）",
-      "type": "巴塞罗那电信方案商（Davantel）",
-      "sieve": "0",
-      "stop": "自动回复/机器人，无人工回复",
-      "revive": "不动",
-      "lane": "ES",
-      "cadence": "不动",
-      "evidence": "k=3e83fe6bdfdeb580 / f3e06f468c9f4dc0"
-    },
-    "situation": "来信全部为机器回复；无人读信或无人回信。",
-    "need": "—",
-    "breakpoint": "—",
-    "saga_now": {
-      "p1": "—",
-      "tier": 20,
-      "price": "—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-10-18 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-07-22 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-02 $280（10G Enterprise SFP Switch）",
-      "why": "已打开的主题（1/23 封有打开记录）：「Unmanaged switch」(2024-08-05) → 读者兴趣主题类别不明（看原主题）",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "不动",
-      "channel": "—",
-      "action": "—",
-      "one_question": ""
-    },
-    "facts": [],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "外购 10G MC；工业 FS 管理",
+   "quote": "兴趣：外购10G MC 工业FS 管理",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Jose Salvador Collado",
+   "title": "CTO - Director",
+   "email": "jrsalvador@davantel.com",
+   "phone": "+34 93 340 8712",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照核对 + 表内）"
+ },
+ "company_facts": {
+  "legal_name": "Desarrollos Avanzados en Telecomunicaciones, S.L.",
+  "founded": "",
+  "hq": "Barcelona, Spain",
+  "size": "中小型电信方案商（自有产品 + 外购）",
+  "other": "外购 10G MC"
+ },
+ "business_lines": [
+  "电信接入 / 传输方案（运营商）",
+  "工业网络产品（部分外购）"
+ ],
+ "channels": {
+  "role": "方案商 / 品牌商（OEM 采购）",
+  "region": "西班牙"
+ },
+ "signals": [
+  "CTO 具名 + 明确外购 10G MC 与工业管理 FS → OEM 入口"
+ ],
+ "risks": [
+  "10G MC 不在 Saga 价目（SmartByte 另询）",
+  "14 次群发无回复"
+ ],
+ "saga_fit": {
+  "p1": "STI-288GPM",
+  "tier": 30,
+  "why": "工业管理 FS → STI-288GPM（$85.5 @30%）贴 Davantel 标；10G MC 按 SmartByte 型号另询注明。"
+ },
+ "email_hook": "Jose, for the industrial managed switches and 10G media converters you source — Marvell-based DIN 8-PoE + 2-SFP managed under your label from small lots, and 10G SFP+/RJ45 MCs on request; which of the two is up for re-sourcing first?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（2 封自动回复；Elsa 箱：`to:davantel.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 23 / 来 2）（第 74 批(k)））",
+   "type": "巴塞罗那电信方案商（Davantel）",
+   "sieve": "0",
+   "stop": "自动回复/机器人，无人工回复",
+   "revive": "不动",
+   "lane": "ES",
+   "cadence": "不动",
+   "evidence": "k=3e83fe6bdfdeb580 / f3e06f468c9f4dc0"
+  },
+  "situation": "来信全部为机器回复；无人读信或无人回信。",
+  "need": "—",
+  "breakpoint": "—",
+  "saga_now": {
+   "p1": "—",
+   "tier": 20,
+   "price": "—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-10-18 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-07-22 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-02 $280（10G Enterprise SFP Switch）",
+   "why": "已打开的主题（1/23 封有打开记录）：「Unmanaged switch」(2024-08-05) → 读者兴趣主题类别不明（看原主题）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

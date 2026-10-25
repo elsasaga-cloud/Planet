@@ -78,7 +78,7 @@
  "email_hook": "Alongside the RaySharp recorders you represent, an 8-port gigabit PoE switch under the AVICAM label is $25.1 EXW (managed with 2 SFP $80.7); would you like the label mock-up and a 5-unit trial price?",
  "mail_review": {
   "binding": {
-   "level": "未触达（A 邮箱 16 封 2025→2026，1 次记录打开，0 回；收件 sales@avicam-bg.com；主题多为「Industrial PoE Switch、90W PoE Managed Switch」）",
+   "level": "未触达（A 邮箱 16 封 2025→2026，1 次记录打开，0 回；收件 sales@avicam-bg.com；主题多为「Industrial PoE Switch、90W PoE Managed Switch」；Elsa 箱：`to:avicam-bg.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 16 / 来 0）（第 74 批(k)））",
    "type": "—",
    "sieve": "1~2（1 次打开）",
    "stop": "只打通用邮箱，无记录打开",

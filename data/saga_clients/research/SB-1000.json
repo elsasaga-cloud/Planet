@@ -1,134 +1,134 @@
 {
-  "code": "SB-1000",
-  "name_official": "STASANET d.o.o. Beograd-Vračar（Belgrade, 塞尔维亚；stasanet.rs；布拉格 Stasanet s.r.o. 分支）",
-  "researched_at": "2026-10-21",
-  "website_status": "在线",
-  "summary": "贝尔格莱德的安防技术分销商 Stasanet d.o.o.（2013-10-29 注册；MB 20967374；布拉格 Stasanet s.r.o.（欧洲安防分销商）的第 8 家、最小的分公司，MVA Group s.r.o. 持股 85%、董事 Predrag Čegar 15%；2–10 人；2014-01 首批进口；Jablotron 报警等；Kneza Stracimira 28 / Vojvode Hrvoja 28, Beograd；+381 65 247 0170；sales@stasanet.rs）。ISAF 记录：Predrag（= 董事 Predrag Čegar，待核）——Ady 加了 WhatsApp，拿了彩页；无后续跟进。国家更正：实为塞尔维亚（用户表「土耳其」= 参展地）；塞尔维亚属不主动开发的小国，但对方已在 ISAF 接触 → 被动跟进 B 20%。",
-  "type": "",
-  "size": "",
-  "brands_seen": [
-    "Jablotron（合作伙伴）"
-  ],
-  "evidence": [
-    {
-      "kind": "登记名录",
-      "claim": "法人、地址、董事、股东",
-      "quote": "STASANET doo je registrovano na adresi KNEZA STRACIMIRA 28, 11050, Beograd (Vračar), Srbija i posluje od 29.10.2013. … kontakt email cegar@stasanet.rs. Trenutni direktor je Predrag Čegar. Vlasnik: Predrag Čegar(15,00%) Vlasnik: MVA GROUP s.r.o.(85,00%) … Veličina preduzeća: Mikro",
-      "url": "https://www.companywall.rs/firma/stasanet-doo/MMrzq2Z0",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网",
-      "claim": "布拉格母公司背景",
-      "quote": "Stasanet DOO je osnovao g. Jakubik sa svojim partnerima iz Praga. Počinje sa radom kao osma i najmanja poslovnica evropske trgovinske kuće Stasanet SRO, sa centralom u Pragu koja duže vreme deluje na Evropskom tržištu kao distributer bezbednosne tehnike. Prvi uvoz opreme u januaru 2014.",
-      "url": "https://www.stasanet.rs/o-nama",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "LinkedIn",
-      "claim": "规模",
-      "quote": "STASANETrs … Industry: Security and Investigations … Company size: 2-10 employees … Headquarters: Belgrade … Founded: 2013",
-      "url": "https://rs.linkedin.com/company/stasanet-doo",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "ISAF：Ady 加 WhatsApp，拿彩页",
-      "quote": "Ady加了WhatsApp， 拿了彩页 / Predrag / stasanet.rs",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Predrag Čegar",
-      "role": "Direktor（登记公开）",
-      "email": "cegar@stasanet.rs（登记公开）",
-      "phone": "+381 65 247 0170（公开；用户表 WhatsApp 已加）",
-      "source": "https://www.companywall.rs/firma/stasanet-doo/MMrzq2Z0"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 国别由表内「土耳其」更正为「塞尔维亚」（country_fix，依据见加厚块）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（登记 + 官网核对；国家更正 RS）"
+ "code": "SB-1000",
+ "name_official": "STASANET d.o.o. Beograd-Vračar（Belgrade, 塞尔维亚；stasanet.rs；布拉格 Stasanet s.r.o. 分支）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线",
+ "summary": "贝尔格莱德的安防技术分销商 Stasanet d.o.o.（2013-10-29 注册；MB 20967374；布拉格 Stasanet s.r.o.（欧洲安防分销商）的第 8 家、最小的分公司，MVA Group s.r.o. 持股 85%、董事 Predrag Čegar 15%；2–10 人；2014-01 首批进口；Jablotron 报警等；Kneza Stracimira 28 / Vojvode Hrvoja 28, Beograd；+381 65 247 0170；sales@stasanet.rs）。ISAF 记录：Predrag（= 董事 Predrag Čegar，待核）——Ady 加了 WhatsApp，拿了彩页；无后续跟进。国家更正：实为塞尔维亚（用户表「土耳其」= 参展地）；塞尔维亚属不主动开发的小国，但对方已在 ISAF 接触 → 被动跟进 B 20%。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "Jablotron（合作伙伴）"
+ ],
+ "evidence": [
+  {
+   "kind": "登记名录",
+   "claim": "法人、地址、董事、股东",
+   "quote": "STASANET doo je registrovano na adresi KNEZA STRACIMIRA 28, 11050, Beograd (Vračar), Srbija i posluje od 29.10.2013. … kontakt email cegar@stasanet.rs. Trenutni direktor je Predrag Čegar. Vlasnik: Predrag Čegar(15,00%) Vlasnik: MVA GROUP s.r.o.(85,00%) … Veličina preduzeća: Mikro",
+   "url": "https://www.companywall.rs/firma/stasanet-doo/MMrzq2Z0",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "legal_name": "STASANET doo BEOGRAD-VRAČAR（MB 20967374，PIB 108279647）",
-    "founded": "2013-10-29",
-    "hq": "Kneza Stracimira 28, 11050 Beograd (Vračar)；通讯 Vojvode Hrvoja 28（+381 65 247 0170；sales@stasanet.rs）",
-    "size": "2–10（LinkedIn）；微型（登记）",
-    "other": "布拉格 Stasanet s.r.o. 分支（MVA Group 85%）；安防技术分销 + 设计咨询；Jablotron 合作伙伴"
+  {
+   "kind": "官网",
+   "claim": "布拉格母公司背景",
+   "quote": "Stasanet DOO je osnovao g. Jakubik sa svojim partnerima iz Praga. Počinje sa radom kao osma i najmanja poslovnica evropske trgovinske kuće Stasanet SRO, sa centralom u Pragu koja duže vreme deluje na Evropskom tržištu kao distributer bezbednosne tehnike. Prvi uvoz opreme u januaru 2014.",
+   "url": "https://www.stasanet.rs/o-nama",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "安防技术分销（报警、CCTV、门禁）",
-    "技术保护系统设计与咨询"
-  ],
-  "channels": {
-    "网站": "https://www.stasanet.rs/",
-    "电话": "+381 65 247 0170 / +381 11 4065 158（公开）",
-    "邮箱（公开）": "sales@stasanet.rs；cegar@stasanet.rs（登记公开）"
+  {
+   "kind": "LinkedIn",
+   "claim": "规模",
+   "quote": "STASANETrs … Industry: Security and Investigations … Company size: 2-10 employees … Headquarters: Belgrade … Founded: 2013",
+   "url": "https://rs.linkedin.com/company/stasanet-doo",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "安防分销商 + 布拉格母公司渠道 → 8 口 PoE 与工业机可进其目录；塞尔维亚非欧盟（清关/关税单独）"
-  ],
-  "risks": [
-    "小国小公司（被动跟进）；母公司集中采购可能在布拉格；无后续跟进"
-  ],
-  "saga_fit": {
-    "p1": "STC-28GPM",
-    "tier": 20,
-    "why": "分销 20% 档：STC-28GPM（Saga Realtek 线 2 SFP + 8 GE PoE L2 管理，列表 $62.2）/ STC-228GP（$30.8）作安防分销 SKU；工业 STI-288GP（$57.4）"
-  },
-  "email_hook": "Following ISAF: for your security-distribution catalogue, 2× SFP + 8× GbE PoE L2 managed at $71.0 list EXW (unmanaged $33.2), neutral packing — would you like me to quote delivered-to-Belgrade for a first 20-unit lot, or does purchasing run through Prague?",
-  "country_fix": "塞尔维亚",
-  "mail_review": {
-    "binding": {
-      "level": "轻度触达（展会名片 + WhatsApp 已加，邮件 0 封）：用户表「Ady加了WhatsApp， 拿了彩页 / Predrag / stasanet.rs」；S/A 邮箱 0 封",
-      "type": "—",
-      "sieve": "3（已加 WhatsApp，表内有往来）",
-      "stop": "仓库只有用户表一行；往来在 Simon 手机",
-      "revive": "首封邮件（A 邮箱，按 email_hook）+ WhatsApp 一句话",
-      "lane": "塞尔维亚 非主攻",
-      "cadence": "一封",
-      "evidence": "gmail_digest：out 0；用户表：「Ady加了WhatsApp， 拿了彩页 / Predrag / stasanet.rs」；研究档 risks：小国小公司（被动跟进）；母公司集中采购可能在布拉格；无后续跟进"
-    },
-    "situation": "贝尔格莱德的安防技术分销商 Stasanet d.o.o.（2013-10-29 注册；MB 20967374；布拉格 Stasanet s.r.o.（欧洲安防分销商）的第 8 家、最小的分公司，MVA Group s.r.o. 持股 85%、董事 Predrag Čegar 15%；2–10 人；2014-01 首批进口；Jablotron 报警等；Kneza Stracimira 28 / Vojvode Hrvoja 28, Beograd；+381 65 247 0170；sales@stasanet.rs）。ISAF 记录：Predrag（= 董事 Predrag Čegar，待核）——Ady 加了 WhatsApp，拿了彩页；无后续跟进。国家更正：实为塞尔维亚（用户表「土耳其」= 参展地）；塞尔维亚属不主动开发的小国，但对方已在 ISAF 接触 → 被动跟进 B 20%。",
-    "need": "分销 20% 档：STC-28GPM（Saga Realtek 线 2 SFP + 8 GE PoE L2 管理，列表 $62.2）/ STC-228GP（$30.8）作安防分销 SKU；工业 STI-288GP（$57.4）",
-    "breakpoint": "小国小公司（被动跟进）；母公司集中采购可能在布拉格；无后续跟进",
-    "saga_now": {
-      "p1": "STC-28GPM",
-      "tier": 20,
-      "price": "Realtek 线按 HRUI 2026-09-30 进价 +20% 现算（Q-47 默认，不用 Drive 旧表价）：STC-228GP $30.8→$33.2；STC-28GPM $62.2→$71.0；按主表（研究档 saga_fit）",
-      "why": "分销 20% 档：STC-28GPM（Saga Realtek 线 2 SFP + 8 GE PoE L2 管理，列表 $62.2）/ STC-228GP（$30.8）作安防分销 SKU；工业 STI-288GP（$57.4）",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "2026-11（Simon）",
-      "channel": "A 邮箱首封 + WhatsApp（Simon）",
-      "action": "首封 + 一句话",
-      "one_question": "Following ISAF: for your security-distribution catalogue, 2× SFP + 8× GbE PoE L2 managed at $71.0 list EXW (unmanaged $33.2), neutral packing — would you like me to quote delivered-to-Belgrade for a first 20-unit lot, or does purchasing run through Prague?"
-    },
-    "facts": [
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "Ady加了WhatsApp， 拿了彩页 / Predrag / stasanet.rs",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [
-      "WhatsApp 往来未入库"
-    ],
-    "draft_en": {
-      "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
-      "body": "Following ISAF: for your security-distribution catalogue, 2× SFP + 8× GbE PoE L2 managed at $71.0 list EXW (unmanaged $33.2), neutral packing — would you like me to quote delivered-to-Belgrade for a first 20-unit lot, or does purchasing run through Prague?"
-    },
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "ISAF：Ady 加 WhatsApp，拿彩页",
+   "quote": "Ady加了WhatsApp， 拿了彩页 / Predrag / stasanet.rs",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Predrag Čegar",
+   "role": "Direktor（登记公开）",
+   "email": "cegar@stasanet.rs（登记公开）",
+   "phone": "+381 65 247 0170（公开；用户表 WhatsApp 已加）",
+   "source": "https://www.companywall.rs/firma/stasanet-doo/MMrzq2Z0"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 国别由表内「土耳其」更正为「塞尔维亚」（country_fix，依据见加厚块）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（登记 + 官网核对；国家更正 RS）"
+ },
+ "company_facts": {
+  "legal_name": "STASANET doo BEOGRAD-VRAČAR（MB 20967374，PIB 108279647）",
+  "founded": "2013-10-29",
+  "hq": "Kneza Stracimira 28, 11050 Beograd (Vračar)；通讯 Vojvode Hrvoja 28（+381 65 247 0170；sales@stasanet.rs）",
+  "size": "2–10（LinkedIn）；微型（登记）",
+  "other": "布拉格 Stasanet s.r.o. 分支（MVA Group 85%）；安防技术分销 + 设计咨询；Jablotron 合作伙伴"
+ },
+ "business_lines": [
+  "安防技术分销（报警、CCTV、门禁）",
+  "技术保护系统设计与咨询"
+ ],
+ "channels": {
+  "网站": "https://www.stasanet.rs/",
+  "电话": "+381 65 247 0170 / +381 11 4065 158（公开）",
+  "邮箱（公开）": "sales@stasanet.rs；cegar@stasanet.rs（登记公开）"
+ },
+ "signals": [
+  "安防分销商 + 布拉格母公司渠道 → 8 口 PoE 与工业机可进其目录；塞尔维亚非欧盟（清关/关税单独）"
+ ],
+ "risks": [
+  "小国小公司（被动跟进）；母公司集中采购可能在布拉格；无后续跟进"
+ ],
+ "saga_fit": {
+  "p1": "STC-28GPM",
+  "tier": 20,
+  "why": "分销 20% 档：STC-28GPM（Saga Realtek 线 2 SFP + 8 GE PoE L2 管理，列表 $62.2）/ STC-228GP（$30.8）作安防分销 SKU；工业 STI-288GP（$57.4）"
+ },
+ "email_hook": "Following ISAF: for your security-distribution catalogue, 2× SFP + 8× GbE PoE L2 managed at $71.0 list EXW (unmanaged $33.2), neutral packing — would you like me to quote delivered-to-Belgrade for a first 20-unit lot, or does purchasing run through Prague?",
+ "country_fix": "塞尔维亚",
+ "mail_review": {
+  "binding": {
+   "level": "轻度触达（展会名片 + WhatsApp 已加，邮件 0 封）：用户表「Ady加了WhatsApp， 拿了彩页 / Predrag / stasanet.rs」；S/A 邮箱 0 封；Elsa 箱：`to:stasanet.rs` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(k)）",
+   "type": "—",
+   "sieve": "3（已加 WhatsApp，表内有往来）",
+   "stop": "仓库只有用户表一行；往来在 Simon 手机",
+   "revive": "首封邮件（A 邮箱，按 email_hook）+ WhatsApp 一句话",
+   "lane": "塞尔维亚 非主攻",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 0；用户表：「Ady加了WhatsApp， 拿了彩页 / Predrag / stasanet.rs」；研究档 risks：小国小公司（被动跟进）；母公司集中采购可能在布拉格；无后续跟进"
+  },
+  "situation": "贝尔格莱德的安防技术分销商 Stasanet d.o.o.（2013-10-29 注册；MB 20967374；布拉格 Stasanet s.r.o.（欧洲安防分销商）的第 8 家、最小的分公司，MVA Group s.r.o. 持股 85%、董事 Predrag Čegar 15%；2–10 人；2014-01 首批进口；Jablotron 报警等；Kneza Stracimira 28 / Vojvode Hrvoja 28, Beograd；+381 65 247 0170；sales@stasanet.rs）。ISAF 记录：Predrag（= 董事 Predrag Čegar，待核）——Ady 加了 WhatsApp，拿了彩页；无后续跟进。国家更正：实为塞尔维亚（用户表「土耳其」= 参展地）；塞尔维亚属不主动开发的小国，但对方已在 ISAF 接触 → 被动跟进 B 20%。",
+  "need": "分销 20% 档：STC-28GPM（Saga Realtek 线 2 SFP + 8 GE PoE L2 管理，列表 $62.2）/ STC-228GP（$30.8）作安防分销 SKU；工业 STI-288GP（$57.4）",
+  "breakpoint": "小国小公司（被动跟进）；母公司集中采购可能在布拉格；无后续跟进",
+  "saga_now": {
+   "p1": "STC-28GPM",
+   "tier": 20,
+   "price": "Realtek 线按 HRUI 2026-09-30 进价 +20% 现算（Q-47 默认，不用 Drive 旧表价）：STC-228GP $30.8→$33.2；STC-28GPM $62.2→$71.0；按主表（研究档 saga_fit）",
+   "why": "分销 20% 档：STC-28GPM（Saga Realtek 线 2 SFP + 8 GE PoE L2 管理，列表 $62.2）/ STC-228GP（$30.8）作安防分销 SKU；工业 STI-288GP（$57.4）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2026-11（Simon）",
+   "channel": "A 邮箱首封 + WhatsApp（Simon）",
+   "action": "首封 + 一句话",
+   "one_question": "Following ISAF: for your security-distribution catalogue, 2× SFP + 8× GbE PoE L2 managed at $71.0 list EXW (unmanaged $33.2), neutral packing — would you like me to quote delivered-to-Belgrade for a first 20-unit lot, or does purchasing run through Prague?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "Ady加了WhatsApp， 拿了彩页 / Predrag / stasanet.rs",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "WhatsApp 往来未入库"
+  ],
+  "draft_en": {
+   "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+   "body": "Following ISAF: for your security-distribution catalogue, 2× SFP + 8× GbE PoE L2 managed at $71.0 list EXW (unmanaged $33.2), neutral packing — would you like me to quote delivered-to-Belgrade for a first 20-unit lot, or does purchasing run through Prague?"
+  },
+  "as_of": "2026-10-24"
+ }
 }

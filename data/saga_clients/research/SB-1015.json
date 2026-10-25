@@ -1,107 +1,107 @@
 {
-  "code": "SB-1015",
-  "name_official": "Hersnet Ltd（匈牙利；联系邮箱 antennatechnika@gmail.com）",
-  "researched_at": "2026-10-21",
-  "website_status": "无域名（网络无足迹）",
-  "summary": "匈牙利天线/弱电技术个体（邮箱 antennatechnika = 「天线技术」；电话 +36 20），表内名称 Hersnet Ltd 未检索到任何公开登记或网站；需求 HDMI KVM 延长器；WhatsApp 已加，1 次回复后 20 次跟进无果。",
-  "type": "",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "用户表",
-      "claim": "需求 HDMI KVM 延长器；WhatsApp 已加；1 次回复、20 次跟进",
-      "quote": "HDMI KVM 延长器 … 36-20-94 66366 已加",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "无域名 · 仅表内信息（检索无果）"
-  },
-  "company_facts": {
-    "legal_name": "Hersnet Ltd（表内；未能核实）",
-    "hq": "匈牙利（+36 20 移动号）",
-    "size": "微型/个体"
-  },
-  "business_lines": [
-    "天线/弱电安装（据邮箱推断）",
-    "HDMI KVM 延长需求"
-  ],
-  "channels": {
-    "邮箱": "（表内 Gmail）",
-    "WhatsApp": "已加"
-  },
-  "signals": [
-    "需求为 AV 延长器而非交换机；可顺带报 STI-110GE 光电转换与 HDMI 光端机"
-  ],
-  "risks": [
-    "无法核实身份；20 次跟进无果 → 低优先"
-  ],
-  "saga_fit": {
-    "p1": "STI-110GE",
-    "tier": 25,
-    "why": "终端 25% 档：STI-110GE（$23.4）光电转换 + HDMI 光端机报价；交换机需求待对方提出"
-  },
-  "email_hook": "For the HDMI KVM extension you asked about, do you need it over Cat6 (up to 70 m) or over single-mode fibre (up to 20 km)? I will quote the matching extender plus a $23.4 gigabit media converter if fibre.",
-  "mail_review": {
-    "binding": {
-      "level": "轻度触达（邮件无证，WhatsApp/WeChat 已加）：用户表「HDMI KVM 延长器 … 36-20-94 66366 已加」；S/A 邮箱 0 封",
-      "type": "—",
-      "sieve": "3（已加 WhatsApp，表内有往来）",
-      "stop": "仓库只有用户表一行；往来在 Simon 手机",
-      "revive": "首封邮件（A 邮箱，按 email_hook）+ WhatsApp 一句话",
-      "lane": "匈牙利 非主攻",
-      "cadence": "一封",
-      "evidence": "gmail_digest：out 0；用户表：「HDMI KVM 延长器 … 36-20-94 66366 已加」；研究档 risks：无法核实身份；20 次跟进无果 → 低优先"
-    },
-    "situation": "匈牙利天线/弱电技术个体（邮箱 antennatechnika = 「天线技术」；电话 +36 20），表内名称 Hersnet Ltd 未检索到任何公开登记或网站；需求 HDMI KVM 延长器；WhatsApp 已加，1 次回复后 20 次跟进无果。",
-    "need": "终端 25% 档：STI-110GE（$23.4）光电转换 + HDMI 光端机报价；交换机需求待对方提出",
-    "breakpoint": "无法核实身份；20 次跟进无果 → 低优先",
-    "saga_now": {
-      "p1": "STI-110GE",
-      "tier": 25,
-      "price": "按主表（研究档 saga_fit）",
-      "why": "终端 25% 档：STI-110GE（$23.4）光电转换 + HDMI 光端机报价；交换机需求待对方提出",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "2026-11（Simon）",
-      "channel": "A 邮箱首封 + WhatsApp（Simon）",
-      "action": "首封 + 一句话",
-      "one_question": "For the HDMI KVM extension you asked about, do you need it over Cat6 (up to 70 m) or over single-mode fibre (up to 20 km)? I will quote the matching extender plus a $23.4 gigabit media converter if fibre."
-    },
-    "facts": [
-      {
-        "date": "2024-03-15",
-        "dir": "来",
-        "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
-        "quote": "用户表跟进：推「发了2光8商业POE管理信息」→ 对方「有兴趣 让发资料」",
-        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
-        "k": "Clients/A/DONE/其他优质欧洲客户 2.26.xlsx no.39 2024.3.15"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "HDMI KVM 延长器 … 36-20-94 66366 已加",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [
-      "WhatsApp 往来未入库"
-    ],
-    "draft_en": {
-      "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
-      "body": "For the HDMI KVM extension you asked about, do you need it over Cat6 (up to 70 m) or over single-mode fibre (up to 20 km)? I will quote the matching extender plus a $23.4 USD EXW gigabit media converter if fibre."
-    },
-    "as_of": "2026-10-24"
+ "code": "SB-1015",
+ "name_official": "Hersnet Ltd（匈牙利；联系邮箱 antennatechnika@gmail.com）",
+ "researched_at": "2026-10-21",
+ "website_status": "无域名（网络无足迹）",
+ "summary": "匈牙利天线/弱电技术个体（邮箱 antennatechnika = 「天线技术」；电话 +36 20），表内名称 Hersnet Ltd 未检索到任何公开登记或网站；需求 HDMI KVM 延长器；WhatsApp 已加，1 次回复后 20 次跟进无果。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "需求 HDMI KVM 延长器；WhatsApp 已加；1 次回复、20 次跟进",
+   "quote": "HDMI KVM 延长器 … 36-20-94 66366 已加",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "无域名 · 仅表内信息（检索无果）"
+ },
+ "company_facts": {
+  "legal_name": "Hersnet Ltd（表内；未能核实）",
+  "hq": "匈牙利（+36 20 移动号）",
+  "size": "微型/个体"
+ },
+ "business_lines": [
+  "天线/弱电安装（据邮箱推断）",
+  "HDMI KVM 延长需求"
+ ],
+ "channels": {
+  "邮箱": "（表内 Gmail）",
+  "WhatsApp": "已加"
+ },
+ "signals": [
+  "需求为 AV 延长器而非交换机；可顺带报 STI-110GE 光电转换与 HDMI 光端机"
+ ],
+ "risks": [
+  "无法核实身份；20 次跟进无果 → 低优先"
+ ],
+ "saga_fit": {
+  "p1": "STI-110GE",
+  "tier": 25,
+  "why": "终端 25% 档：STI-110GE（$23.4）光电转换 + HDMI 光端机报价；交换机需求待对方提出"
+ },
+ "email_hook": "For the HDMI KVM extension you asked about, do you need it over Cat6 (up to 70 m) or over single-mode fibre (up to 20 km)? I will quote the matching extender plus a $23.4 gigabit media converter if fibre.",
+ "mail_review": {
+  "binding": {
+   "level": "轻度触达（邮件无证，WhatsApp/WeChat 已加）：用户表「HDMI KVM 延长器 … 36-20-94 66366 已加」；S/A 邮箱 0 封；Elsa 箱：`to:antennatechnika@gmail.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(k)）",
+   "type": "—",
+   "sieve": "3（已加 WhatsApp，表内有往来）",
+   "stop": "仓库只有用户表一行；往来在 Simon 手机",
+   "revive": "首封邮件（A 邮箱，按 email_hook）+ WhatsApp 一句话",
+   "lane": "匈牙利 非主攻",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 0；用户表：「HDMI KVM 延长器 … 36-20-94 66366 已加」；研究档 risks：无法核实身份；20 次跟进无果 → 低优先"
+  },
+  "situation": "匈牙利天线/弱电技术个体（邮箱 antennatechnika = 「天线技术」；电话 +36 20），表内名称 Hersnet Ltd 未检索到任何公开登记或网站；需求 HDMI KVM 延长器；WhatsApp 已加，1 次回复后 20 次跟进无果。",
+  "need": "终端 25% 档：STI-110GE（$23.4）光电转换 + HDMI 光端机报价；交换机需求待对方提出",
+  "breakpoint": "无法核实身份；20 次跟进无果 → 低优先",
+  "saga_now": {
+   "p1": "STI-110GE",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "终端 25% 档：STI-110GE（$23.4）光电转换 + HDMI 光端机报价；交换机需求待对方提出",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2026-11（Simon）",
+   "channel": "A 邮箱首封 + WhatsApp（Simon）",
+   "action": "首封 + 一句话",
+   "one_question": "For the HDMI KVM extension you asked about, do you need it over Cat6 (up to 70 m) or over single-mode fibre (up to 20 km)? I will quote the matching extender plus a $23.4 gigabit media converter if fibre."
+  },
+  "facts": [
+   {
+    "date": "2024-03-15",
+    "dir": "来",
+    "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+    "quote": "用户表跟进：推「发了2光8商业POE管理信息」→ 对方「有兴趣 让发资料」",
+    "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+    "k": "Clients/A/DONE/其他优质欧洲客户 2.26.xlsx no.39 2024.3.15"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "HDMI KVM 延长器 … 36-20-94 66366 已加",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "WhatsApp 往来未入库"
+  ],
+  "draft_en": {
+   "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+   "body": "For the HDMI KVM extension you asked about, do you need it over Cat6 (up to 70 m) or over single-mode fibre (up to 20 km)? I will quote the matching extender plus a $23.4 USD EXW gigabit media converter if fibre."
+  },
+  "as_of": "2026-10-24"
+ }
 }

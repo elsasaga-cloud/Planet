@@ -27,7 +27,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -44,7 +44,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1000` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：轻度触达（展会名片 + WhatsApp 已加，邮件 0 封）：用户表「Ady加了WhatsApp， 拿了彩页 / Predrag / stasanet.rs」；S/A 邮箱 0 封** ｜ 类型：— ｜ 筛子：3（已加 WhatsApp，表内有往来） ｜ 停点：仓库只有用户表一行；往来在 Simon 手机 ｜ 复活：首封邮件（A 邮箱，按 email_hook）+ WhatsApp 一句话 ｜ 通路：塞尔维亚 非主攻 ｜ 节奏：一封 ｜ 证据：gmail_digest：out 0；用户表：「Ady加了WhatsApp， 拿了彩页 / Predrag / stasanet.rs」；研究档 risks：小国小公司（被动跟进）；母公司集中采购可能在布拉格；无后续跟进
+- **绑定等级：轻度触达（展会名片 + WhatsApp 已加，邮件 0 封）：用户表「Ady加了WhatsApp， 拿了彩页 / Predrag / stasanet.rs」；S/A 邮箱 0 封；Elsa 箱：`to:stasanet.rs` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(k)）** ｜ 类型：— ｜ 筛子：3（已加 WhatsApp，表内有往来） ｜ 停点：仓库只有用户表一行；往来在 Simon 手机 ｜ 复活：首封邮件（A 邮箱，按 email_hook）+ WhatsApp 一句话 ｜ 通路：塞尔维亚 非主攻 ｜ 节奏：一封 ｜ 证据：gmail_digest：out 0；用户表：「Ady加了WhatsApp， 拿了彩页 / Predrag / stasanet.rs」；研究档 risks：小国小公司（被动跟进）；母公司集中采购可能在布拉格；无后续跟进
 - **现状一句话**：贝尔格莱德的安防技术分销商 Stasanet d.o.o.（2013-10-29 注册；MB 20967374；布拉格 Stasanet s.r.o.（欧洲安防分销商）的第 8 家、最小的分公司，MVA Group s.r.o. 持股 85%、董事 Predrag Čegar 15%；2–10 人；2014-01 首批进口；Jablotron 报警等；Kneza Stracimira 28 / Vojvode Hrvoja 28, Beograd；+381 65 247 0170；sales@stasanet.rs）。ISAF 记录：Predrag（= 董事 Predrag Čegar，待核）——Ady 加了 WhatsApp，拿了彩页；无后续跟进。国家更正：实为塞尔维亚（用户表「土耳其」= 参展地）；塞尔维亚属不主动开发的小国，但对方已在 ISAF 接触 → 被动跟进 B 20%。
 - **对方真实需求（有据）**：分销 20% 档：STC-28GPM（Saga Realtek 线 2 SFP + 8 GE PoE L2 管理，列表 $62.2）/ STC-228GP（$30.8）作安防分销 SKU；工业 STI-288GP（$57.4）
 - **断点 / 为什么停在这里**：小国小公司（被动跟进）；母公司集中采购可能在布拉格；无后续跟进
@@ -247,12 +247,12 @@ Following ISAF: for your security-distribution catalogue, 2× SFP + 8× GbE PoE 
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 29）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 29）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

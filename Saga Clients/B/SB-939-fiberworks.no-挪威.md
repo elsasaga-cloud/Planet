@@ -27,7 +27,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 4
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -44,7 +44,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-939` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：读而不回（A/S 邮箱 24 封 2024→2026，其中 2 封被打开，0 回；收件 jonkjetilgrimsrud@gmail.com, roger@fiberworks.no；被打开主题「Industrial PoE Switch、24 Port PoE Managed Switch」）** ｜ 类型：— ｜ 筛子：2（有人在读，无人回） ｜ 停点：读而不回 = 内容未命中或没有当下需求；Q-33 供应商渠道客户 ｜ 复活：不动（Q-33） ｜ 通路：挪威（欧洲全域主攻） ｜ 节奏：不动 ｜ 证据：gmail_digest：out 24，Opened 标签 2（Simon 群发追踪）；研究档 risks：PLANET 类目哪些 SKU 真有库存（默认只列在库品，价格多需登录）；工业/PoE 的终端客群（offshore / infrastruktur？）；For
+- **绑定等级：读而不回（A/S 邮箱 24 封 2024→2026，其中 2 封被打开，0 回；收件 jonkjetilgrimsrud@gmail.com, roger@fiberworks.no；被打开主题「Industrial PoE Switch、24 Port PoE Managed Switch」；Elsa 箱：`to:fiberworks.no OR to:fiberworks.net` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 24 / 来 0）（第 74 批(k)））** ｜ 类型：— ｜ 筛子：2（有人在读，无人回） ｜ 停点：读而不回 = 内容未命中或没有当下需求；Q-33 供应商渠道客户 ｜ 复活：不动（Q-33） ｜ 通路：挪威（欧洲全域主攻） ｜ 节奏：不动 ｜ 证据：gmail_digest：out 24，Opened 标签 2（Simon 群发追踪）；研究档 risks：PLANET 类目哪些 SKU 真有库存（默认只列在库品，价格多需登录）；工业/PoE 的终端客群（offshore / infrastruktur？）；For
 - **现状一句话**：奥斯陆一家光纤产品专业分销商（收发器/WDM/光缆/仪表），有源设备货架同时上 PLANET 全线（9 子类）与 ORing 工业交换机。类型：分销/网店（光纤网络产品专业分销：收发器 / WDM / 光缆 / 仪表 + 有源设备；有源类目下「PLANET nettverksprodukter」独立类目 9 子类 + 「ORing Industrial Switches」类目；ISO 9001:2015 / 14001:2015；Org. nr. 959 977 046）。信号：fiberworks.no 「PLANET nettverksprodukter」类目（筛选：PoE output (PSE) 17 件、For DIN-skinne 13 件、Industriell temp. 2 件）；商品页 IGS-510TF（Product nr MC-PLANET-IGS-510TF，2
 - **对方真实需求（有据）**：其 PLANET 类目筛选 PoE PSE 17 件 + DIN 导轨 13 件 → 工业 PoE 管理型是其 PLANET 侧主量；STI-288GPM（8×GE PoE+ + 2×SFP，L2 管理，-40~75°C）同时对位 PLANET IGS-10020 级与 ORing IGPS-9084 级；分销/网店 → 20%（沿用 Planet 档案 PB-073）；需求：
 - **断点 / 为什么停在这里**：PLANET 类目哪些 SKU 真有库存（默认只列在库品，价格多需登录）；工业/PoE 的终端客群（offshore / infrastruktur？）；Forsvar（国防）方案占比（守界）；选品负责人；Mikrotik 仓 B-517 首触是否已发（本仓不发）
@@ -320,12 +320,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 4 行原始记录归并；自动评级 B，分数 30）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 4 行原始记录归并；自动评级 B，分数 30）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -25,7 +25,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -42,7 +42,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-397` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A 邮箱 5 封 2025→2026，1 次记录打开，0 回；收件 contact@es-france.com；主题多为「Industrial PoE Switch、10G Enterprise SFP Switch」）** ｜ 类型：增值技术分销商（法国，ORing 工业 FS） ｜ 筛子：1~2（1 次打开） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：法国（欧洲全域主攻） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 5，Opened 标签 1（Simon 群发追踪）；用户表：「Oring的工业FS」；研究档 risks：ORing（台湾）既定代理线：白牌为补充预算线
+- **绑定等级：未触达（A 邮箱 5 封 2025→2026，1 次记录打开，0 回；收件 contact@es-france.com；主题多为「Industrial PoE Switch、10G Enterprise SFP Switch」；Elsa 箱：`to:es-france.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 5 / 来 0）（第 74 批(k)））** ｜ 类型：增值技术分销商（法国，ORing 工业 FS） ｜ 筛子：1~2（1 次打开） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：法国（欧洲全域主攻） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 5，Opened 标签 1（Simon 群发追踪）；用户表：「Oring的工业FS」；研究档 risks：ORing（台湾）既定代理线：白牌为补充预算线
 - **现状一句话**：法国 ES France（1963 年起增值分销：元器件、仪器、IT 与网络四大部门，样品/借测/演示；站内 ORing 工业交换机与电源 IGPS-1080-24V-I；表内「ORing 的工业 FS」）；表内 2 次跟进无回复。
 - **对方真实需求（有据）**：在售 ORing 工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-280GE（$46.6）作预算线
 - **断点 / 为什么停在这里**：ORing（台湾）既定代理线：白牌为补充预算线
@@ -269,12 +269,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 42）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 42）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -27,7 +27,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -44,7 +44,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-278` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（S 邮箱 1 封 2024，无记录打开，0 回；收件 marketplace@proxeet.com；主题多为「Industrial PoE Switch」）** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：1 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停；WhatsApp 已加 → 唤醒走 WhatsApp 一句话，不走邮件 ｜ 通路：塞浦路斯（欧洲全域主攻） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 1；用户表：「需要30W PoE injector / from: 阿里巴巴RFQ / marketplace@proxeet.com」；研究档 risks：Saga 价格表无 PoE injector SKU（待 Simon 决定是否向 SmartByte/HRUI 索价）；对方自研/组装、对价格与规格要求高
+- **绑定等级：未触达（S 邮箱 1 封 2024，无记录打开，0 回；收件 marketplace@proxeet.com；主题多为「Industrial PoE Switch」；Elsa 箱：`to:proxeet.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 1 / 来 0）（第 74 批(k)））** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：1 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停；WhatsApp 已加 → 唤醒走 WhatsApp 一句话，不走邮件 ｜ 通路：塞浦路斯（欧洲全域主攻） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 1；用户表：「需要30W PoE injector / from: 阿里巴巴RFQ / marketplace@proxeet.com」；研究档 risks：Saga 价格表无 PoE injector SKU（待 Simon 决定是否向 SmartByte/HRUI 索价）；对方自研/组装、对价格与规格要求高
 - **现状一句话**：塞浦路斯帕福斯的 PoE/ISP 网络设备品牌商 Proxeet Ltd（公司号 HE 437925，2022-08-31 注册；LinkedIn 11–50 人、2020 年起；产品：iBlock 便携式 PoE 注入器（被动 26 V / 有源 50 V，25 W）、portablepoe.com、Chiprian 系列 L3 管理交换机 16/24 口（802.3af/at/bt + 24/48 V 被动 PoE，「designed and assembled in Cyprus」）；面向 ISP/WISP；+357 25 100999；info@proxeet.com；阿里巴巴供应商账号也在售 PoE injector）。阿里 RFQ：Marina Shkarpetina（marketplace@proxeet.com）需要 30 W PoE injector；WhatsApp 已
 - **对方真实需求（有据）**：OEM 30% 档；RFQ 为 30 W PoE injector —— Saga 暂无 injector SKU（待核型，见 Q-32）；可并行推 STC-424DGGPM-280W（24 PoE+ 4 SFP L2+，$145.7@30）作其 Chiprian A1-24P 的 OEM 备选
 - **断点 / 为什么停在这里**：Saga 价格表无 PoE injector SKU（待 Simon 决定是否向 SmartByte/HRUI 索价）；对方自研/组装、对价格与规格要求高
@@ -265,12 +265,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 45）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 45）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

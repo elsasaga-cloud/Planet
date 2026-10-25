@@ -26,7 +26,7 @@ price_tier: 25%
 research: done
 site_snapshot: none
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -43,7 +43,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-868` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：轻度触达（邮件无证，WhatsApp/WeChat 已加）：用户表「说最近没啥需要 … 359-089910 5551 已加」；S/A 邮箱 0 封** ｜ 类型：— ｜ 筛子：3（已加 WhatsApp，表内有往来） ｜ 停点：仓库只有用户表一行；往来在 Simon 手机 ｜ 复活：首封邮件（A 邮箱，按 email_hook）+ WhatsApp 一句话 ｜ 通路：保加利亚 非主攻 ｜ 节奏：一封 ｜ 证据：gmail_digest：out 0；用户表：「说最近没啥需要 … 359-089910 5551 已加」；研究档 risks：保加利亚非主动开拓市场；明确表示暂无需求
+- **绑定等级：轻度触达（邮件无证，WhatsApp/WeChat 已加）：用户表「说最近没啥需要 … 359-089910 5551 已加」；S/A 邮箱 0 封；Elsa 箱：`to:sstamenov91@gmail.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(k)）** ｜ 类型：— ｜ 筛子：3（已加 WhatsApp，表内有往来） ｜ 停点：仓库只有用户表一行；往来在 Simon 手机 ｜ 复活：首封邮件（A 邮箱，按 email_hook）+ WhatsApp 一句话 ｜ 通路：保加利亚 非主攻 ｜ 节奏：一封 ｜ 证据：gmail_digest：out 0；用户表：「说最近没啥需要 … 359-089910 5551 已加」；研究档 risks：保加利亚非主动开拓市场；明确表示暂无需求
 - **现状一句话**：保加利亚个人/小型安装商 S. Stamenov（Gmail）：WhatsApp 已加，回复「最近没啥需要」，之后 19 次跟进无果。
 - **对方真实需求（有据）**：默认 25% 档：STC-28DGGPM（$84.1）；每季度一次价目更新即可
 - **断点 / 为什么停在这里**：保加利亚非主动开拓市场；明确表示暂无需求
@@ -222,12 +222,12 @@ Understood there was nothing needed last time; here is the one-line update — 8
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 32）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 32）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 5
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -42,7 +42,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-617` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：读而不回（A/S 邮箱 40 封 2024→2026，其中 7 封被打开，0 回；收件 abuy@optokon.com, info@optokon.ua；被打开主题「24 Port Fiber Switch、Industrial PoE Switch」）** ｜ 类型：光纤制造集团（自有 LMSW 标交换机，CTC Union 代工；军用线守界） ｜ 筛子：2（有人在读，无人回） ｜ 停点：读而不回 = 内容未命中或没有当下需求 ｜ 复活：一封「只问一句」的短信给打开过的地址（不附图不附表） ｜ 通路：PL 次级重点 ｜ 节奏：一封；回了再说 ｜ 证据：gmail_digest：out 40，Opened 标签 7（Simon 群发追踪）；用户表：「SFP switch 自己的牌子 大量的周边产品；工业FS SFP MC 周边产品 CTCU的；CWDM Fiber optics」；研究档 risks：守界：首页含军用设备栏目（Urządzenia i sprzęt militarny）、集团有 .ua 公司——只谈民用 LMSW 商用线，不涉军用/加固
+- **绑定等级：读而不回（A/S 邮箱 40 封 2024→2026，其中 7 封被打开，0 回；收件 abuy@optokon.com, info@optokon.ua；被打开主题「24 Port Fiber Switch、Industrial PoE Switch」；Elsa 箱：`to:optokon.pl OR to:optokon.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 40 / 来 0）（第 74 批(k)））** ｜ 类型：光纤制造集团（自有 LMSW 标交换机，CTC Union 代工；军用线守界） ｜ 筛子：2（有人在读，无人回） ｜ 停点：读而不回 = 内容未命中或没有当下需求 ｜ 复活：一封「只问一句」的短信给打开过的地址（不附图不附表） ｜ 通路：PL 次级重点 ｜ 节奏：一封；回了再说 ｜ 证据：gmail_digest：out 40，Opened 标签 7（Simon 群发追踪）；用户表：「SFP switch 自己的牌子 大量的周边产品；工业FS SFP MC 周边产品 CTCU的；CWDM Fiber optics」；研究档 risks：守界：首页含军用设备栏目（Urządzenia i sprzęt militarny）、集团有 .ua 公司——只谈民用 LMSW 商用线，不涉军用/加固
 - **现状一句话**：波兰 Optokon（捷克 Optokon 集团波兰公司，光纤制造与配件：光缆、连接器、跳线、测试仪；自有 LMSW 系列交换机（LMSW-E33 / LMSW-83M，加固交换机栏目）；首页栏目含「Urządzenia i sprzęt militarny（军用设备）」；表内「SFP switch 自己的牌子，大量周边产品 / 工业 FS SFP MC，CTC Union 的 / CWDM」；KP Pytlak（pytlak@optokon.com）、Erik Mikus（Director of Technical）、Abiel Abuy（Procurement & Logistics））；群发 16 次无回复。
 - **对方真实需求（有据）**：仅民用 LMSW 线：自有标商用管理交换机 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）/ 24 GE + 4×10G STC-424XGGM 贴 LMSW 标；工业位 STI-288GPM；SFP/CWDM Saga 不供（Q-32）；军用加固线不涉
 - **断点 / 为什么停在这里**：守界：首页含军用设备栏目（Urządzenia i sprzęt militarny）、集团有 .ua 公司——只谈民用 LMSW 商用线，不涉军用/加固
@@ -331,12 +331,12 @@ Saga Telecom · sagatele.com
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 5 行原始记录归并；自动评级 B，分数 36）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 5 行原始记录归并；自动评级 B，分数 36）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

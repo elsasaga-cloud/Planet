@@ -1,136 +1,136 @@
 {
-  "code": "SA-065",
-  "name_official": "Loop Telecommunication International, Inc.（Loop Telecom，台湾上市 3025；EMEA 销售 VP 驻法国）",
-  "website_status": "在线",
-  "summary": "台湾电信/工业网络设备制造商（1991 年创立，台交所 3025），自研 TDMoIP、PTN/MPLS-TP、以太网接入、工业与铁路 EN50121-4 交换机（IP6820/IP6828/IP6830 等）。用户表登记为法国（Eric Piaget, V.P. Sales EMEA & India），A 已回复 + A 台湾名单，兴趣工业 FS / MC / 工业物联网。",
-  "type": "台系品牌制造商（可能的低端 OEM 采购方）",
-  "size": "上市公司（台湾）",
-  "brands_seen": [
-    "Loop"
-  ],
-  "evidence": [
-    {
-      "kind": "官网",
-      "claim": "公司性质",
-      "quote": "In 1991, a group of established professionals from the communications industry founded Loop Telecom. It is currently traded on the Taiwan Stock Exchange Corp., or TSEC (3025).",
-      "url": "https://www.looptelecom.com/en/about/Company-Overview",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网",
-      "claim": "自研工业/铁路交换机线（与 Saga 产品重叠）",
-      "quote": "Loop-IP6828 Industrial Rack-Mount L2/L3 Managed Gigabit Ethernet PoE/PoE+ Switch … Rugged industrial design for -40~75°C harsh environment operation",
-      "url": "https://www.looptelecom.com/en/pswitch/Ethernet-Access-and-Switch/Railway-EN50121-4-Switch-L2-L3/Loop_IP6828__Industrial_Rack_Mount__L2_L3_Managed_Gigabit_Ethernet_PoE_PoE__Switch",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Eric Piaget",
-      "role": "V.P. Sales EMEA & India（用户表）",
-      "email": "eric-piaget@looptelecom.com",
-      "phone": "+33 6 6767 1045",
-      "source": "Clients/A/Taiwan.xlsx"
-    }
-  ],
-  "grade_override": "B",
-  "override_reason": "台系品牌制造商（INH 规则：台系品牌商最高 B；其铁路/EN50121 主线 Saga 不做）；仅在其明确要低端白牌补位时按 OEM 30% 报价。",
-  "notes": "",
-  "researched_at": "2026-10-21",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（基于首轮调研整理 + 身份判断）"
+ "code": "SA-065",
+ "name_official": "Loop Telecommunication International, Inc.（Loop Telecom，台湾上市 3025；EMEA 销售 VP 驻法国）",
+ "website_status": "在线",
+ "summary": "台湾电信/工业网络设备制造商（1991 年创立，台交所 3025），自研 TDMoIP、PTN/MPLS-TP、以太网接入、工业与铁路 EN50121-4 交换机（IP6820/IP6828/IP6830 等）。用户表登记为法国（Eric Piaget, V.P. Sales EMEA & India），A 已回复 + A 台湾名单，兴趣工业 FS / MC / 工业物联网。",
+ "type": "台系品牌制造商（可能的低端 OEM 采购方）",
+ "size": "上市公司（台湾）",
+ "brands_seen": [
+  "Loop"
+ ],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "公司性质",
+   "quote": "In 1991, a group of established professionals from the communications industry founded Loop Telecom. It is currently traded on the Taiwan Stock Exchange Corp., or TSEC (3025).",
+   "url": "https://www.looptelecom.com/en/about/Company-Overview",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "legal_name": "Loop Telecommunication International, Inc.（Loop Telecom；台湾上市 3025）",
-    "hq": "台湾新竹；EMEA & India 销售 VP Eric Piaget 驻法国",
-    "size": "上市公司",
-    "other": "自研 TDMoIP、PTN/MPLS-TP、以太网接入、工业与铁路 EN50121-4 交换机（IP6820/IP6828/IP6830）"
-  },
-  "business_lines": [
-    "电信接入与传输设备制造（自有品牌 Loop）",
-    "工业/铁路以太网交换机（自研，与 Saga 重叠）"
-  ],
-  "channels": {
-    "网站": "https://www.looptelecom.com/",
-    "联系人": "Eric Piaget, V.P. Sales EMEA & India（用户表）"
-  },
-  "signals": [
-    "兴趣点为工业 FS / MC / 工业物联网 → 可能为低端补线 OEM 采购（Loop 自研线偏高端）"
-  ],
-  "risks": [
-    "台系品牌制造商（规则：台湾厂商/办事处原则上非客户）；同行采购风险（比价/套方案）；仅在明确 OEM 补线意向时推进"
-  ],
-  "saga_fit": {
-    "p1": "STI-110GE",
-    "tier": 30,
-    "why": "OEM 30% 档（仅限补线）：STI-110GE 工业光电转换（$24.3）与 STI-140GE 非管理（$29.1）作 Loop 低端补充；管理型不供（与其自研线竞争）"
-  },
-  "email_hook": "If Loop needs an entry-level industrial media converter and 5-port unmanaged switch to sit below the IP68xx range in EMEA, our DIN units start at $24.3 EXW with your label; is a low-end complement on the 2026 roadmap?",
-  "mail_review": {
-    "binding": {
-      "level": "未绑定（EMEA 销售 VP 2025-11 问 Booster 原理并要手册，12-04「No need now, just for information」）",
-      "type": "台湾上市电信设备商（MPLS-TP/工业以太网自研）——Saga 只可能是其低端 OEM 来源；Eric Piaget（VP EMEA & India）",
-      "sieve": "1",
-      "stop": "2025-12-04「No need now, just for information」",
-      "revive": "对方主动",
-      "lane": "FR/TW",
-      "cadence": "2024-06 → 2026-09 去信 26 封；最后来信 2025-12-04",
-      "evidence": "k=d90350574a564aa4 / fbde4352065d43fb"
-    },
-    "situation": "Eric Piaget 对 Booster PoE 群发问「你是说 12V 供电也能输出 PoE？发 brochure」，Alan 发 STI-488XGGBPM 资料并追问样品，Eric 答「No need now, just for information」。",
-    "need": "信息收集；无采购。",
-    "breakpoint": "同业信息收集，不是采购。",
-    "saga_now": {
-      "p1": "无",
-      "tier": 30,
-      "price": "历史报价（邮件原话，老汇率）：2025-12-01 STI-488XGGBPM 215usd；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-25 $300（48 Port PoE Managed Switch）、2024-12-18 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-22 $280（10G Enterprise SFP Switch）",
-      "why": "不投入。已打开的主题（9/26 封有打开记录）：「Re: Booster PoE Switch」(2025-12-01)、「Re: Booster PoE Switch」(2025-12-04)、「Re: Booster PoE Switch」(2026-01-12)、「Re: Booster PoE Switch」(2026-02-05) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "不动",
-      "channel": "—",
-      "action": "—",
-      "one_question": ""
-    },
-    "facts": [
-      {
-        "date": "2025-11-28",
-        "dir": "来",
-        "who": "Eric Piaget（VP Marketing Sales EMEA & India）",
-        "quote": "Do you mean that you can power feed the switch at 12V and this support PoE? Pleas send me your brochure.",
-        "why": "技术好奇",
-        "k": "d90350574a564aa4"
-      },
-      {
-        "date": "2025-12-01",
-        "dir": "去",
-        "who": "Saga（Alan）",
-        "quote": "Hi, Eric, 1, yes, we can supply a demo unit for your study and testing. 2, please see attached datasheet(2026/Q1 version). STI-488XGGBPM 215usd/pc Industrial PoE Managed Switch 4*1G/2.5G/10G SFP+8*10/100/1000M RJ45/PoE +1*Console Port+1*USB Port 8*PoE af/at, 2",
-        "why": "历史报价点（主题「Re: Booster PoE Switch」；第 20 批从 gmail_a 回补）：STI-488XGGBPM 215usd",
-        "k": "90c5981a276812c1"
-      },
-      {
-        "date": "2025-12-04",
-        "dir": "来",
-        "who": "Eric",
-        "quote": "No need now, just for information.",
-        "why": "停点",
-        "k": "fbde4352065d43fb"
-      },
-      {
-        "date": "2026-01-12",
-        "dir": "去",
-        "who": "Saga（Alan）",
-        "quote": "Hi, Eric, How are you? I am introducing our CENTEC-based core and aggregation switches. 1, A cost-effective alternative to Cisco or Huawei models 2, Multiple models(10G~800G) available for various network scales 3, Full L3 features(VXLAN, EVPN, MPLS, Stacking etc.) suitable for core and aggregation…",
-        "why": "Saga 实质答复原文（主题「Re: Booster PoE Switch」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
-        "k": "0378ea2dc053e4ce"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "官网",
+   "claim": "自研工业/铁路交换机线（与 Saga 产品重叠）",
+   "quote": "Loop-IP6828 Industrial Rack-Mount L2/L3 Managed Gigabit Ethernet PoE/PoE+ Switch … Rugged industrial design for -40~75°C harsh environment operation",
+   "url": "https://www.looptelecom.com/en/pswitch/Ethernet-Access-and-Switch/Railway-EN50121-4-Switch-L2-L3/Loop_IP6828__Industrial_Rack_Mount__L2_L3_Managed_Gigabit_Ethernet_PoE_PoE__Switch",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Eric Piaget",
+   "role": "V.P. Sales EMEA & India（用户表）",
+   "email": "eric-piaget@looptelecom.com",
+   "phone": "+33 6 6767 1045",
+   "source": "Clients/A/Taiwan.xlsx"
+  }
+ ],
+ "grade_override": "B",
+ "override_reason": "台系品牌制造商（INH 规则：台系品牌商最高 B；其铁路/EN50121 主线 Saga 不做）；仅在其明确要低端白牌补位时按 OEM 30% 报价。",
+ "notes": "",
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（基于首轮调研整理 + 身份判断）"
+ },
+ "company_facts": {
+  "legal_name": "Loop Telecommunication International, Inc.（Loop Telecom；台湾上市 3025）",
+  "hq": "台湾新竹；EMEA & India 销售 VP Eric Piaget 驻法国",
+  "size": "上市公司",
+  "other": "自研 TDMoIP、PTN/MPLS-TP、以太网接入、工业与铁路 EN50121-4 交换机（IP6820/IP6828/IP6830）"
+ },
+ "business_lines": [
+  "电信接入与传输设备制造（自有品牌 Loop）",
+  "工业/铁路以太网交换机（自研，与 Saga 重叠）"
+ ],
+ "channels": {
+  "网站": "https://www.looptelecom.com/",
+  "联系人": "Eric Piaget, V.P. Sales EMEA & India（用户表）"
+ },
+ "signals": [
+  "兴趣点为工业 FS / MC / 工业物联网 → 可能为低端补线 OEM 采购（Loop 自研线偏高端）"
+ ],
+ "risks": [
+  "台系品牌制造商（规则：台湾厂商/办事处原则上非客户）；同行采购风险（比价/套方案）；仅在明确 OEM 补线意向时推进"
+ ],
+ "saga_fit": {
+  "p1": "STI-110GE",
+  "tier": 30,
+  "why": "OEM 30% 档（仅限补线）：STI-110GE 工业光电转换（$24.3）与 STI-140GE 非管理（$29.1）作 Loop 低端补充；管理型不供（与其自研线竞争）"
+ },
+ "email_hook": "If Loop needs an entry-level industrial media converter and 5-port unmanaged switch to sit below the IP68xx range in EMEA, our DIN units start at $24.3 EXW with your label; is a low-end complement on the 2026 roadmap?",
+ "mail_review": {
+  "binding": {
+   "level": "未绑定（EMEA 销售 VP 2025-11 问 Booster 原理并要手册，12-04「No need now, just for information」；Elsa 箱：`to:looptelecom.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 26 / 来 2）（第 74 批(k)））",
+   "type": "台湾上市电信设备商（MPLS-TP/工业以太网自研）——Saga 只可能是其低端 OEM 来源；Eric Piaget（VP EMEA & India）",
+   "sieve": "1",
+   "stop": "2025-12-04「No need now, just for information」",
+   "revive": "对方主动",
+   "lane": "FR/TW",
+   "cadence": "2024-06 → 2026-09 去信 26 封；最后来信 2025-12-04",
+   "evidence": "k=d90350574a564aa4 / fbde4352065d43fb"
+  },
+  "situation": "Eric Piaget 对 Booster PoE 群发问「你是说 12V 供电也能输出 PoE？发 brochure」，Alan 发 STI-488XGGBPM 资料并追问样品，Eric 答「No need now, just for information」。",
+  "need": "信息收集；无采购。",
+  "breakpoint": "同业信息收集，不是采购。",
+  "saga_now": {
+   "p1": "无",
+   "tier": 30,
+   "price": "历史报价（邮件原话，老汇率）：2025-12-01 STI-488XGGBPM 215usd；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-25 $300（48 Port PoE Managed Switch）、2024-12-18 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-22 $280（10G Enterprise SFP Switch）",
+   "why": "不投入。已打开的主题（9/26 封有打开记录）：「Re: Booster PoE Switch」(2025-12-01)、「Re: Booster PoE Switch」(2025-12-04)、「Re: Booster PoE Switch」(2026-01-12)、「Re: Booster PoE Switch」(2026-02-05) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2025-11-28",
+    "dir": "来",
+    "who": "Eric Piaget（VP Marketing Sales EMEA & India）",
+    "quote": "Do you mean that you can power feed the switch at 12V and this support PoE? Pleas send me your brochure.",
+    "why": "技术好奇",
+    "k": "d90350574a564aa4"
+   },
+   {
+    "date": "2025-12-01",
+    "dir": "去",
+    "who": "Saga（Alan）",
+    "quote": "Hi, Eric, 1, yes, we can supply a demo unit for your study and testing. 2, please see attached datasheet(2026/Q1 version). STI-488XGGBPM 215usd/pc Industrial PoE Managed Switch 4*1G/2.5G/10G SFP+8*10/100/1000M RJ45/PoE +1*Console Port+1*USB Port 8*PoE af/at, 2",
+    "why": "历史报价点（主题「Re: Booster PoE Switch」；第 20 批从 gmail_a 回补）：STI-488XGGBPM 215usd",
+    "k": "90c5981a276812c1"
+   },
+   {
+    "date": "2025-12-04",
+    "dir": "来",
+    "who": "Eric",
+    "quote": "No need now, just for information.",
+    "why": "停点",
+    "k": "fbde4352065d43fb"
+   },
+   {
+    "date": "2026-01-12",
+    "dir": "去",
+    "who": "Saga（Alan）",
+    "quote": "Hi, Eric, How are you? I am introducing our CENTEC-based core and aggregation switches. 1, A cost-effective alternative to Cisco or Huawei models 2, Multiple models(10G~800G) available for various network scales 3, Full L3 features(VXLAN, EVPN, MPLS, Stacking etc.) suitable for core and aggregation…",
+    "why": "Saga 实质答复原文（主题「Re: Booster PoE Switch」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
+    "k": "0378ea2dc053e4ce"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

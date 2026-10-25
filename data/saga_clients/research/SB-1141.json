@@ -1,144 +1,144 @@
 {
-  "code": "SB-1141",
-  "name_official": "Wave Electronics Ltd（Latsia/Nicosia, CY；HE 19231；wave-electronics.com.cy）",
-  "researched_at": "2026-10-21",
-  "website_status": "在线",
-  "summary": "塞浦路斯尼科西亚的老牌安防系统集成商（1983 年注册 HE 19231；1–24 人；1,100+ 项目：拉纳卡国际机场、利马索尔总医院、塞浦路斯银行与 COOP 银行网点等；业务：安防系统设计/销售/安装/维护、A 级电气安装与自动化、电子安防/监控/生命安全交钥匙项目；负责人 Charalampos Charalampous；2023 年增登记商号 Wave Electronics Fire & Security Systems）。展会记录：对交换机有兴趣；联系人 p.christos；16 次跟进 0 回复。",
-  "type": "",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "官网",
-      "claim": "公司历史与业务",
-      "quote": "The company Wave Electronics was established in 1983 … Design, sales, supply, installation and maintenance of Security Systems. - Class A Electrical Installations and Automation Systems … Execution of complex and multifaceted turn-key projects in electronic security, surveillance and life safety systems.",
-      "url": "https://www.wave-electronics.com.cy/the-company/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网",
-      "claim": "联系方式",
-      "quote": "Wave Electronics Limited - 2 Paphou street Block A1, Latsia 2236 Nicosia Cyprus - 22 57 30 57 … wavesecu@spidernet.com.cy",
-      "url": "https://www.wave-electronics.com.cy/contact/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网",
-      "claim": "项目参考",
-      "quote": "Nicosia and Limassol Hospitals Automations … Larnaca International Airport … Limassol General Hospital … WAVE Electronics has completed more than 1,100 projects in our 34-year history.",
-      "url": "https://www.wave-electronics.com.cy/projects/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "登记",
-      "claim": "注册号与日期",
-      "quote": "WAVE ELECTRONICS LIMITED Reg. Number ΗΕ 19231 … Registration Date 15/03/1983 … Organisation Status Active",
-      "url": "https://i-cyprus.com/company/45153",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "对 switch 有兴趣；16 次跟进 0 回复",
-      "quote": "对switch有兴趣",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Charalampos Charalampous",
-      "role": "Key Principal（D&B 公开）",
-      "email": "wavesecu@spidernet.com.cy（公司公开）",
-      "phone": "+357 22 573 057",
-      "source": "https://www.dnb.com/business-directory/company-profiles/wave-electronics-limited.338054559b6ad4f648b6ee48c90f10df"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（官网 + 登记核对）"
+ "code": "SB-1141",
+ "name_official": "Wave Electronics Ltd（Latsia/Nicosia, CY；HE 19231；wave-electronics.com.cy）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线",
+ "summary": "塞浦路斯尼科西亚的老牌安防系统集成商（1983 年注册 HE 19231；1–24 人；1,100+ 项目：拉纳卡国际机场、利马索尔总医院、塞浦路斯银行与 COOP 银行网点等；业务：安防系统设计/销售/安装/维护、A 级电气安装与自动化、电子安防/监控/生命安全交钥匙项目；负责人 Charalampos Charalampous；2023 年增登记商号 Wave Electronics Fire & Security Systems）。展会记录：对交换机有兴趣；联系人 p.christos；16 次跟进 0 回复。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "公司历史与业务",
+   "quote": "The company Wave Electronics was established in 1983 … Design, sales, supply, installation and maintenance of Security Systems. - Class A Electrical Installations and Automation Systems … Execution of complex and multifaceted turn-key projects in electronic security, surveillance and life safety systems.",
+   "url": "https://www.wave-electronics.com.cy/the-company/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "legal_name": "Wave Electronics Limited（HE 19231，1983-03-15）",
-    "hq": "2 Paphou Street, Block A1, Latsia 2236, Nicosia, Cyprus（+357 22 573 057；wavesecu@spidernet.com.cy）",
-    "size": "1–24（D&B）",
-    "other": "1,100+ 项目；机场/医院/银行参考；Key principal Charalampos Charalampous"
+  {
+   "kind": "官网",
+   "claim": "联系方式",
+   "quote": "Wave Electronics Limited - 2 Paphou street Block A1, Latsia 2236 Nicosia Cyprus - 22 57 30 57 … wavesecu@spidernet.com.cy",
+   "url": "https://www.wave-electronics.com.cy/contact/",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "电子安防系统集成（CCTV、报警、门禁）",
-    "A 级电气安装与自动化",
-    "生命安全系统（守界：火灾主系统不供）"
-  ],
-  "channels": {
-    "网站": "https://www.wave-electronics.com.cy/",
-    "电话": "+357 22 573 057（公开）",
-    "邮箱（公开）": "wavesecu@spidernet.com.cy"
+  {
+   "kind": "官网",
+   "claim": "项目参考",
+   "quote": "Nicosia and Limassol Hospitals Automations … Larnaca International Airport … Limassol General Hospital … WAVE Electronics has completed more than 1,100 projects in our 34-year history.",
+   "url": "https://www.wave-electronics.com.cy/projects/",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "机场/医院/银行网点类项目 → 中大型 PoE 接入（24/48 口）与工业柜；塞浦路斯属欧盟（CE/UKCA 直接适用）"
-  ],
-  "risks": [
-    "机场等公共关键设施守界按个案；16 次跟进 0 回复"
-  ],
-  "saga_fit": {
-    "p1": "STC-424DGGPM-280W",
-    "tier": 25,
-    "why": "集成商 25% 档：STC-424DGGPM-280W（24 PoE+ 4 SFP，$140.1）用于银行网点/医院楼层；8 口 STC-28DGGPM；户外 STI-288DGGPM"
+  {
+   "kind": "登记",
+   "claim": "注册号与日期",
+   "quote": "WAVE ELECTRONICS LIMITED Reg. Number ΗΕ 19231 … Registration Date 15/03/1983 … Organisation Status Active",
+   "url": "https://i-cyprus.com/company/45153",
+   "date": "2026-10-21"
   },
-  "email_hook": "For bank-branch and hospital CCTV refits, a 24-port PoE+ managed switch with 4 SFP uplinks (280 W) is $140.1 EXW with the CE/RoHS file; is a multi-site rollout planned for 2026 where a second switch source would help?",
-  "mail_review": {
-    "binding": {
-      "level": "读而不回（A/S 邮箱 24 封 2024→2026，其中 2 封被打开，0 回；收件 p.christos@wave-electronics.com.cy；被打开主题「Industrial PoE Switch、24 Port PoE Managed Switch」）",
-      "type": "—",
-      "sieve": "2（有人在读，无人回）",
-      "stop": "读而不回 = 内容未命中或没有当下需求",
-      "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
-      "lane": "塞浦路斯（欧洲全域主攻）",
-      "cadence": "一封；回了再说",
-      "evidence": "gmail_digest：out 24，Opened 标签 2（Simon 群发追踪）；用户表：「对switch有兴趣」；研究档 risks：机场等公共关键设施守界按个案；16 次跟进 0 回复"
-    },
-    "situation": "塞浦路斯尼科西亚的老牌安防系统集成商（1983 年注册 HE 19231；1–24 人；1,100+ 项目：拉纳卡国际机场、利马索尔总医院、塞浦路斯银行与 COOP 银行网点等；业务：安防系统设计/销售/安装/维护、A 级电气安装与自动化、电子安防/监控/生命安全交钥匙项目；负责人 Charalampos Charalampous；2023 年增登记商号 Wave Electronics Fire & Security Systems）。展会记录：对交换机有兴趣；联系人 p.christos；16 次跟进 0 回复。",
-    "need": "集成商 25% 档：STC-424DGGPM-280W（24 PoE+ 4 SFP，$140.1）用于银行网点/医院楼层；8 口 STC-28DGGPM；户外 STI-288DGGPM",
-    "breakpoint": "机场等公共关键设施守界按个案；16 次跟进 0 回复",
-    "saga_now": {
-      "p1": "STC-424DGGPM-280W",
-      "tier": 25,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-10-10 $65（10G Media Converter）、2024-12-24 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-07-23 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-12-05 $300（48 Port PoE Managed Switch）、2025-10-06 $280（10G Enterprise SFP Switch）、2026-06-15 $16000（32 Port 400GB DC Switch）",
-      "why": "集成商 25% 档：STC-424DGGPM-280W（24 PoE+ 4 SFP，$140.1）用于银行网点/医院楼层；8 口 STC-28DGGPM；户外 STI-288DGGPM。已打开的主题（2/24 封有打开记录）：「48 Port PoE Managed Switch」(2024-12-05)、「Marvell Managed Commercial Switches」(2026-03-17) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-02-16)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "2026-11",
-      "channel": "A 邮箱 → p.christos@wave-electronics.com.cy",
-      "action": "短信一问（email_hook）",
-      "one_question": "For bank-branch and hospital CCTV refits, a 24-port PoE+ managed switch with 4 SFP uplinks (280 W) is $140.1 EXW with the CE/RoHS file; is a multi-site rollout planned for 2026 where a second switch source would help?"
-    },
-    "facts": [
-      {
-        "date": "2026-09-02",
-        "dir": "去",
-        "who": "A/S 群发",
-        "quote": "Industrial PoE Switch、24 Port PoE Managed Switch",
-        "why": "24 封 / 2 次打开 / 0 回｜首封 2024-07-05 → 末封 2026-09-02（24 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "对switch有兴趣",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": {
-      "subject": "One question — Industrial PoE Switch",
-      "body": "Hello,\n\nWe have sent you a few mails on \"Industrial PoE Switch\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor bank-branch and hospital CCTV refits, a 24-port PoE+ managed switch with 4 SFP uplinks (280 W) is $140.1 EXW with the CE/RoHS file; is a multi-site rollout planned for 2026 where a second switch source would help?\n\nPrices are USD EXW, 2026-10-17 snapshot, valid 15 days.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
-    },
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "对 switch 有兴趣；16 次跟进 0 回复",
+   "quote": "对switch有兴趣",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Charalampos Charalampous",
+   "role": "Key Principal（D&B 公开）",
+   "email": "wavesecu@spidernet.com.cy（公司公开）",
+   "phone": "+357 22 573 057",
+   "source": "https://www.dnb.com/business-directory/company-profiles/wave-electronics-limited.338054559b6ad4f648b6ee48c90f10df"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网 + 登记核对）"
+ },
+ "company_facts": {
+  "legal_name": "Wave Electronics Limited（HE 19231，1983-03-15）",
+  "hq": "2 Paphou Street, Block A1, Latsia 2236, Nicosia, Cyprus（+357 22 573 057；wavesecu@spidernet.com.cy）",
+  "size": "1–24（D&B）",
+  "other": "1,100+ 项目；机场/医院/银行参考；Key principal Charalampos Charalampous"
+ },
+ "business_lines": [
+  "电子安防系统集成（CCTV、报警、门禁）",
+  "A 级电气安装与自动化",
+  "生命安全系统（守界：火灾主系统不供）"
+ ],
+ "channels": {
+  "网站": "https://www.wave-electronics.com.cy/",
+  "电话": "+357 22 573 057（公开）",
+  "邮箱（公开）": "wavesecu@spidernet.com.cy"
+ },
+ "signals": [
+  "机场/医院/银行网点类项目 → 中大型 PoE 接入（24/48 口）与工业柜；塞浦路斯属欧盟（CE/UKCA 直接适用）"
+ ],
+ "risks": [
+  "机场等公共关键设施守界按个案；16 次跟进 0 回复"
+ ],
+ "saga_fit": {
+  "p1": "STC-424DGGPM-280W",
+  "tier": 25,
+  "why": "集成商 25% 档：STC-424DGGPM-280W（24 PoE+ 4 SFP，$140.1）用于银行网点/医院楼层；8 口 STC-28DGGPM；户外 STI-288DGGPM"
+ },
+ "email_hook": "For bank-branch and hospital CCTV refits, a 24-port PoE+ managed switch with 4 SFP uplinks (280 W) is $140.1 EXW with the CE/RoHS file; is a multi-site rollout planned for 2026 where a second switch source would help?",
+ "mail_review": {
+  "binding": {
+   "level": "读而不回（A/S 邮箱 24 封 2024→2026，其中 2 封被打开，0 回；收件 p.christos@wave-electronics.com.cy；被打开主题「Industrial PoE Switch、24 Port PoE Managed Switch」；Elsa 箱：`to:wave-electronics.com.cy` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 24 / 来 0）（第 74 批(k)））",
+   "type": "—",
+   "sieve": "2（有人在读，无人回）",
+   "stop": "读而不回 = 内容未命中或没有当下需求",
+   "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
+   "lane": "塞浦路斯（欧洲全域主攻）",
+   "cadence": "一封；回了再说",
+   "evidence": "gmail_digest：out 24，Opened 标签 2（Simon 群发追踪）；用户表：「对switch有兴趣」；研究档 risks：机场等公共关键设施守界按个案；16 次跟进 0 回复"
+  },
+  "situation": "塞浦路斯尼科西亚的老牌安防系统集成商（1983 年注册 HE 19231；1–24 人；1,100+ 项目：拉纳卡国际机场、利马索尔总医院、塞浦路斯银行与 COOP 银行网点等；业务：安防系统设计/销售/安装/维护、A 级电气安装与自动化、电子安防/监控/生命安全交钥匙项目；负责人 Charalampos Charalampous；2023 年增登记商号 Wave Electronics Fire & Security Systems）。展会记录：对交换机有兴趣；联系人 p.christos；16 次跟进 0 回复。",
+  "need": "集成商 25% 档：STC-424DGGPM-280W（24 PoE+ 4 SFP，$140.1）用于银行网点/医院楼层；8 口 STC-28DGGPM；户外 STI-288DGGPM",
+  "breakpoint": "机场等公共关键设施守界按个案；16 次跟进 0 回复",
+  "saga_now": {
+   "p1": "STC-424DGGPM-280W",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-10-10 $65（10G Media Converter）、2024-12-24 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-07-23 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-12-05 $300（48 Port PoE Managed Switch）、2025-10-06 $280（10G Enterprise SFP Switch）、2026-06-15 $16000（32 Port 400GB DC Switch）",
+   "why": "集成商 25% 档：STC-424DGGPM-280W（24 PoE+ 4 SFP，$140.1）用于银行网点/医院楼层；8 口 STC-28DGGPM；户外 STI-288DGGPM。已打开的主题（2/24 封有打开记录）：「48 Port PoE Managed Switch」(2024-12-05)、「Marvell Managed Commercial Switches」(2026-03-17) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-02-16)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2026-11",
+   "channel": "A 邮箱 → p.christos@wave-electronics.com.cy",
+   "action": "短信一问（email_hook）",
+   "one_question": "For bank-branch and hospital CCTV refits, a 24-port PoE+ managed switch with 4 SFP uplinks (280 W) is $140.1 EXW with the CE/RoHS file; is a multi-site rollout planned for 2026 where a second switch source would help?"
+  },
+  "facts": [
+   {
+    "date": "2026-09-02",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Industrial PoE Switch、24 Port PoE Managed Switch",
+    "why": "24 封 / 2 次打开 / 0 回｜首封 2024-07-05 → 末封 2026-09-02（24 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "对switch有兴趣",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": {
+   "subject": "One question — Industrial PoE Switch",
+   "body": "Hello,\n\nWe have sent you a few mails on \"Industrial PoE Switch\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor bank-branch and hospital CCTV refits, a 24-port PoE+ managed switch with 4 SFP uplinks (280 W) is $140.1 EXW with the CE/RoHS file; is a multi-site rollout planned for 2026 where a second switch source would help?\n\nPrices are USD EXW, 2026-10-17 snapshot, valid 15 days.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+  },
+  "as_of": "2026-10-24"
+ }
 }

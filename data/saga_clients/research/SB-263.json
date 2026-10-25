@@ -1,123 +1,123 @@
 {
-  "code": "SB-263",
-  "name_official": "DIPOL Czech（dipolnet.cz / t-cz.com）",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（dipolnet.cz，快照 2026-10-21，捷克语）",
-  "summary": "DIPOL 集团捷克站（IP CCTV、WLAN、SAT TV、TP-Link、线缆；Hikvision、Dahua；switch 136 / poe 114 / cctv 108；+420 734 310 460）；表内「switch 展示页很多；可多跟进」；群发 8 次无回复。与 SB-1178 DIPOL 葡萄牙同集团（波兰总部采购）。",
-  "type": "",
-  "size": "",
-  "brands_seen": [
-    "Hikvision",
-    "TP-Link",
-    "Dahua",
-    "DIPOL（自有）"
-  ],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "IP CCTV、WLAN、SAT TV、TP-Link、天线、线缆、交换机；+420 734 310 460",
-      "quote": "IP CCTV, WLAN, SAT TV, TP-Link, antény, kamery… přepínače… +420 734 310 460",
-      "url": "https://dipolnet.cz/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "switch 展示页很多；可以尝试多跟进一下",
-      "quote": "兴趣：switch 展示页很多",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "（未具名）",
-      "title": "",
-      "email": "dipolnet@t-cz.com",
-      "phone": "+420 734 310 460",
-      "source": "（本地 Clients/ 表格，无公开 URL）"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（官网快照核对 + 表内）"
+ "code": "SB-263",
+ "name_official": "DIPOL Czech（dipolnet.cz / t-cz.com）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（dipolnet.cz，快照 2026-10-21，捷克语）",
+ "summary": "DIPOL 集团捷克站（IP CCTV、WLAN、SAT TV、TP-Link、线缆；Hikvision、Dahua；switch 136 / poe 114 / cctv 108；+420 734 310 460）；表内「switch 展示页很多；可多跟进」；群发 8 次无回复。与 SB-1178 DIPOL 葡萄牙同集团（波兰总部采购）。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "Hikvision",
+  "TP-Link",
+  "Dahua",
+  "DIPOL（自有）"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "IP CCTV、WLAN、SAT TV、TP-Link、天线、线缆、交换机；+420 734 310 460",
+   "quote": "IP CCTV, WLAN, SAT TV, TP-Link, antény, kamery… přepínače… +420 734 310 460",
+   "url": "https://dipolnet.cz/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "legal_name": "DIPOL（捷克分支）",
-    "founded": "",
-    "hq": "Czech Republic",
-    "size": "集团分支",
-    "other": "同集团 SB-1178（葡萄牙）；总部波兰"
-  },
-  "business_lines": [
-    "CCTV / 网络 / 天线批发"
-  ],
-  "channels": {
-    "role": "批发分支",
-    "region": "捷克"
-  },
-  "signals": [
-    "交换机品类多；集团自有标 → 总部谈贴牌"
-  ],
-  "risks": [
-    "采购权在波兰总部；8 次群发无回复"
-  ],
-  "saga_fit": {
-    "p1": "STC-28DGGPM",
-    "tier": 20,
-    "why": "CCTV 配套 8 PoE 管理 → STC-28DGGPM（$80.7 @20%）。"
-  },
-  "email_hook": "Dobrý den — for the switch pages on dipolnet.cz: Marvell L2+ 8-PoE + 2-SFP at $81 EXW with CZ/EU files; is switch sourcing decided locally or at DIPOL headquarters in Poland?",
-  "mail_review": {
-    "binding": {
-      "level": "未触达（A/S 邮箱 19 封 2025→2026，无记录打开，0 回；收件 dipolnet@t-cz.com；主题多为「Managed Optical Bypass Switch、Marvell Industrial Alert System」）",
-      "type": "—",
-      "sieve": "1（只收到群发）",
-      "stop": "19 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-      "revive": "保持季度群发到 2027-Q1；无打开即停",
-      "lane": "捷克（欧洲全域主攻）",
-      "cadence": "季度",
-      "evidence": "gmail_digest：out 19；用户表：「兴趣：switch 展示页很多」；研究档 risks：采购权在波兰总部；8 次群发无回复"
-    },
-    "situation": "DIPOL 集团捷克站（IP CCTV、WLAN、SAT TV、TP-Link、线缆；Hikvision、Dahua；switch 136 / poe 114 / cctv 108；+420 734 310 460）；表内「switch 展示页很多；可多跟进」；群发 8 次无回复。与 SB-1178 DIPOL 葡萄牙同集团（波兰总部采购）。",
-    "need": "CCTV 配套 8 PoE 管理 → STC-28DGGPM（$80.7 @20%）。",
-    "breakpoint": "采购权在波兰总部；8 次群发无回复",
-    "saga_now": {
-      "p1": "STC-28DGGPM",
-      "tier": 20,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-26 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-01-27 $65（10G Media Converter）、2025-10-08 $280（10G Enterprise SFP Switch）、2026-06-22 $16000（32 Port 400GB DC Switch）",
-      "why": "CCTV 配套 8 PoE 管理 → STC-28DGGPM（$80.7 @20%）。",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "群发节奏",
-      "channel": "A 邮箱",
-      "action": "观察打开",
-      "one_question": "Dobrý den — for the switch pages on dipolnet.cz: Marvell L2+ 8-PoE + 2-SFP at $81 EXW with CZ/EU files; is switch sourcing decided locally or at DIPOL headquarters in Poland?"
-    },
-    "facts": [
-      {
-        "date": "2026-10-01",
-        "dir": "去",
-        "who": "A/S 群发",
-        "quote": "Managed Optical Bypass Switch、Marvell Industrial Alert System",
-        "why": "19 封 / 0 次打开 / 0 回｜首封 2025-01-27 → 末封 2026-10-01（19 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "兴趣：switch 展示页很多",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "switch 展示页很多；可以尝试多跟进一下",
+   "quote": "兴趣：switch 展示页很多",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "（未具名）",
+   "title": "",
+   "email": "dipolnet@t-cz.com",
+   "phone": "+420 734 310 460",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照核对 + 表内）"
+ },
+ "company_facts": {
+  "legal_name": "DIPOL（捷克分支）",
+  "founded": "",
+  "hq": "Czech Republic",
+  "size": "集团分支",
+  "other": "同集团 SB-1178（葡萄牙）；总部波兰"
+ },
+ "business_lines": [
+  "CCTV / 网络 / 天线批发"
+ ],
+ "channels": {
+  "role": "批发分支",
+  "region": "捷克"
+ },
+ "signals": [
+  "交换机品类多；集团自有标 → 总部谈贴牌"
+ ],
+ "risks": [
+  "采购权在波兰总部；8 次群发无回复"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 20,
+  "why": "CCTV 配套 8 PoE 管理 → STC-28DGGPM（$80.7 @20%）。"
+ },
+ "email_hook": "Dobrý den — for the switch pages on dipolnet.cz: Marvell L2+ 8-PoE + 2-SFP at $81 EXW with CZ/EU files; is switch sourcing decided locally or at DIPOL headquarters in Poland?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 19 封 2025→2026，无记录打开，0 回；收件 dipolnet@t-cz.com；主题多为「Managed Optical Bypass Switch、Marvell Industrial Alert System」；Elsa 箱：`to:dipolnet.cz OR to:t-cz.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 19 / 来 0）（第 74 批(k)））",
+   "type": "—",
+   "sieve": "1（只收到群发）",
+   "stop": "19 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "捷克（欧洲全域主攻）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 19；用户表：「兴趣：switch 展示页很多」；研究档 risks：采购权在波兰总部；8 次群发无回复"
+  },
+  "situation": "DIPOL 集团捷克站（IP CCTV、WLAN、SAT TV、TP-Link、线缆；Hikvision、Dahua；switch 136 / poe 114 / cctv 108；+420 734 310 460）；表内「switch 展示页很多；可多跟进」；群发 8 次无回复。与 SB-1178 DIPOL 葡萄牙同集团（波兰总部采购）。",
+  "need": "CCTV 配套 8 PoE 管理 → STC-28DGGPM（$80.7 @20%）。",
+  "breakpoint": "采购权在波兰总部；8 次群发无回复",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-26 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-01-27 $65（10G Media Converter）、2025-10-08 $280（10G Enterprise SFP Switch）、2026-06-22 $16000（32 Port 400GB DC Switch）",
+   "why": "CCTV 配套 8 PoE 管理 → STC-28DGGPM（$80.7 @20%）。",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Dobrý den — for the switch pages on dipolnet.cz: Marvell L2+ 8-PoE + 2-SFP at $81 EXW with CZ/EU files; is switch sourcing decided locally or at DIPOL headquarters in Poland?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-01",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Managed Optical Bypass Switch、Marvell Industrial Alert System",
+    "why": "19 封 / 0 次打开 / 0 回｜首封 2025-01-27 → 末封 2026-10-01（19 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：switch 展示页很多",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

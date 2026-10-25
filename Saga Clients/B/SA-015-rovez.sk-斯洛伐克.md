@@ -28,7 +28,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -45,7 +45,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-015` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A/S 邮箱 21 封 2024→2026，无记录打开，0 回；收件 rovez@rovez.sk；主题多为「Industrial PoE Switch、10G L3 Managed Switch」）** ｜ 类型：安防集成商（Avigilon 经销） ｜ 筛子：1（只收到群发） ｜ 停点：21 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：停发群发；若要继续，换具名邮箱 + 只问一句 ｜ 通路：斯洛伐克（欧洲全域主攻） ｜ 节奏：一封 ｜ 证据：gmail_digest：out 21
+- **绑定等级：未触达（A/S 邮箱 21 封 2024→2026，无记录打开，0 回；收件 rovez@rovez.sk；主题多为「Industrial PoE Switch、10G L3 Managed Switch」；Elsa 箱：`to:rovez.sk` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 21 / 来 0）（第 74 批(k)））** ｜ 类型：安防集成商（Avigilon 经销） ｜ 筛子：1（只收到群发） ｜ 停点：21 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：停发群发；若要继续，换具名邮箱 + 只问一句 ｜ 通路：斯洛伐克（欧洲全域主攻） ｜ 节奏：一封 ｜ 证据：gmail_digest：out 21
 - **现状一句话**：斯洛伐克特尔纳瓦的安防/CCTV 集成商（1993 年起，1997 年注册），主打 AVIGILON 摄像系统，3–4 名员工，营收 €50–100 万。用户表：展会上拿了目录，成样品单（PoE 工业 FS），13 次推送无回复。
 - **对方真实需求（有据）**：Avigilon 安装商：STC-28DGGPM（8 PoE+ 30W 全口 + 2 SFP）/ STC-424DGGPM-280W；户外柜 STI-288DGGPM；集成商 25% 档
 - **断点 / 为什么停在这里**：无回复
@@ -304,12 +304,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 109）；人工/调研定级 → B
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 109）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

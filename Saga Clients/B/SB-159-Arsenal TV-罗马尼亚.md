@@ -26,7 +26,7 @@ price_tier: 25%
 research: done
 site_snapshot: none
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -43,7 +43,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-159` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：轻度触达（邮件无证，WhatsApp/WeChat 已加）：用户表「40 7664 78524 已加」；S/A 邮箱 0 封** ｜ 类型：— ｜ 筛子：3（已加 WhatsApp，表内有往来） ｜ 停点：仓库只有用户表一行；往来在 Simon 手机 ｜ 复活：首封邮件（A 邮箱，按 email_hook）+ WhatsApp 一句话 ｜ 通路：罗马尼亚 非主攻 ｜ 节奏：一封 ｜ 证据：gmail_digest：out 0；用户表：「40 7664 78524 已加」；研究档 risks：身份不可核；罗马尼亚非主动开拓市场
+- **绑定等级：轻度触达（邮件无证，WhatsApp/WeChat 已加）：用户表「40 7664 78524 已加」；S/A 邮箱 0 封；Elsa 箱：`to:moisenicolae22@gmail.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(k)）** ｜ 类型：— ｜ 筛子：3（已加 WhatsApp，表内有往来） ｜ 停点：仓库只有用户表一行；往来在 Simon 手机 ｜ 复活：首封邮件（A 邮箱，按 email_hook）+ WhatsApp 一句话 ｜ 通路：罗马尼亚 非主攻 ｜ 节奏：一封 ｜ 证据：gmail_digest：out 0；用户表：「40 7664 78524 已加」；研究档 risks：身份不可核；罗马尼亚非主动开拓市场
 - **现状一句话**：罗马尼亚 Arsenal TV（Gmail 邮箱，+40 7664 移动号；电视/视频类小型机构）：WhatsApp 已加，2 次实质回复后 14 次跟进无果；无公开网站可核。
 - **对方真实需求（有据）**：终端 25% 档：STC-28DGGPM（$84.1）用于演播/机房；视频传输配 HDMI 光端机
 - **断点 / 为什么停在这里**：身份不可核；罗马尼亚非主动开拓市场
@@ -218,12 +218,12 @@ For a small TV studio network, the 8-port gigabit PoE+ switch with 2 SFP is $84.
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 49）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 49）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

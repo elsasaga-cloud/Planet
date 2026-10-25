@@ -1,99 +1,99 @@
 {
-  "code": "SB-913",
-  "name_official": "",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（nabludenie.by，快照 2026-10-21）",
-  "summary": "白俄罗斯 ДМД СИСТЕМС / nabludenie.by（明斯克视频监控系统销售与安装：Hikvision 为主（DS-3E0518P-E PoE 交换机、NVR-108MH-D），全白俄配送；表内无兴趣记录；表内国别「保加利亚」有误——.by 域名 + 「Минск / доставка по всей РБ」→ 更正为白俄罗斯）；表内无跟进记录。",
-  "type": "CCTV 销售安装商（白俄罗斯，Hikvision 为主）",
-  "size": "",
-  "brands_seen": [
-    "Hikvision",
-    "Dahua"
-  ],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "官网标题：Системы видеонаблюдения в Минске по выгодной цене；品类词 安防监控（CCTV / 门禁） / 光纤 / 媒体转换 / 网络交换 / PoE",
-      "quote": "➤Широкий ассортимент систем видеонаблюдения. Качественный подбор оборудования. ➤Демократические цены. Гарантия качества и техподдержка. ➤Доставка по всей РБ!",
-      "url": "https://nabludenie.by/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网快照",
-      "claim": "明斯克视频监控系统",
-      "quote": "Системы видеонаблюдения в Минске по выгодной цене ; Системы видеонаблюдения в Минске от ДМД СИСТЕМС ; Доставка по всей РБ!",
-      "url": "https://nabludenie.by/",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ "code": "SB-913",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（nabludenie.by，快照 2026-10-21）",
+ "summary": "白俄罗斯 ДМД СИСТЕМС / nabludenie.by（明斯克视频监控系统销售与安装：Hikvision 为主（DS-3E0518P-E PoE 交换机、NVR-108MH-D），全白俄配送；表内无兴趣记录；表内国别「保加利亚」有误——.by 域名 + 「Минск / доставка по всей РБ」→ 更正为白俄罗斯）；表内无跟进记录。",
+ "type": "CCTV 销售安装商（白俄罗斯，Hikvision 为主）",
+ "size": "",
+ "brands_seen": [
+  "Hikvision",
+  "Dahua"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Системы видеонаблюдения в Минске по выгодной цене；品类词 安防监控（CCTV / 门禁） / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "➤Широкий ассортимент систем видеонаблюдения. Качественный подбор оборудования. ➤Демократические цены. Гарантия качества и техподдержка. ➤Доставка по всей РБ!",
+   "url": "https://nabludenie.by/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "hq": "保加利亚",
-    "other": "官网 nabludenie.by，语言 ru，快照状态 ok；角色判定来源：官网文案"
-  },
-  "business_lines": [
-    "视频监控系统销售与安装"
-  ],
-  "channels": {
-    "role": "CCTV 销售安装商（白俄罗斯，Hikvision 为主）",
-    "region": "白俄罗斯",
-    "contact": "sales@nabludenie.by"
-  },
-  "signals": [
-    "官网：Системы видеонаблюдения в Минске от ДМД СИСТЕМС … Доставка по всей РБ",
-    "站内型号 DS-3E0518P-E（Hikvision PoE）/ NVR-108MH-D；kw poe 141"
-  ],
-  "risks": [
-    "白俄罗斯：结算/物流受限，非主攻区",
-    "小型安装商：量小；无具名 KP（sales@）"
-  ],
-  "saga_fit": {
-    "p1": "STC-28DGGPM",
-    "tier": 20,
-    "why": "Hikvision 套装配套 PoE（现 DS-3E0518P-E 类）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）"
-  },
-  "email_hook": "For the PoE switches you install with Hikvision kits, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port unmanaged PoE units from small lots, EXW — which band do your installations use most?",
-  "country_fix": "白俄罗斯",
-  "mail_review": {
-    "binding": {
-      "level": "未发信（S/A 邮箱均无往来；来源：调研建档）",
-      "type": "CCTV 销售安装商（白俄罗斯，Hikvision 为主）",
-      "sieve": "—（未入筛）",
-      "stop": "从未触达",
-      "revive": "首封（具名 KP 优先，用研究档 email_hook）",
-      "lane": "白俄罗斯（欧洲全域主攻）",
-      "cadence": "首封后看打开",
-      "evidence": "gmail_digest：out 0；研究档 risks：白俄罗斯：结算/物流受限，非主攻区"
-    },
-    "situation": "白俄罗斯 ДМД СИСТЕМС / nabludenie.by（明斯克视频监控系统销售与安装：Hikvision 为主（DS-3E0518P-E PoE 交换机、NVR-108MH-D），全白俄配送；表内无兴趣记录；表内国别「保加利亚」有误——.by 域名 + 「Минск / доставка по всей РБ」→ 更正为白俄罗斯）；表内无跟进记录。",
-    "need": "Hikvision 套装配套 PoE（现 DS-3E0518P-E 类）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）",
-    "breakpoint": "白俄罗斯：结算/物流受限，非主攻区",
-    "saga_now": {
-      "p1": "STC-28DGGPM",
-      "tier": 20,
-      "price": "首触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
-      "why": "Hikvision 套装配套 PoE（现 DS-3E0518P-E 类）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "待 Simon 排期（首封）",
-      "channel": "A 邮箱 → sales@nabludenie.by（无具名 KP；公用地址）",
-      "action": "首封：按 email_hook 一问",
-      "one_question": "For the PoE switches you install with Hikvision kits, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port unmanaged PoE units from small lots, EXW — which band do your installations use most? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
-    },
-    "facts": [],
-    "proof_gaps": [
-      "无邮件往来"
-    ],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "官网快照",
+   "claim": "明斯克视频监控系统",
+   "quote": "Системы видеонаблюдения в Минске по выгодной цене ; Системы видеонаблюдения в Минске от ДМД СИСТЕМС ; Доставка по всей РБ!",
+   "url": "https://nabludenie.by/",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "保加利亚",
+  "other": "官网 nabludenie.by，语言 ru，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "视频监控系统销售与安装"
+ ],
+ "channels": {
+  "role": "CCTV 销售安装商（白俄罗斯，Hikvision 为主）",
+  "region": "白俄罗斯",
+  "contact": "sales@nabludenie.by"
+ },
+ "signals": [
+  "官网：Системы видеонаблюдения в Минске от ДМД СИСТЕМС … Доставка по всей РБ",
+  "站内型号 DS-3E0518P-E（Hikvision PoE）/ NVR-108MH-D；kw poe 141"
+ ],
+ "risks": [
+  "白俄罗斯：结算/物流受限，非主攻区",
+  "小型安装商：量小；无具名 KP（sales@）"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 20,
+  "why": "Hikvision 套装配套 PoE（现 DS-3E0518P-E 类）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）"
+ },
+ "email_hook": "For the PoE switches you install with Hikvision kits, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port unmanaged PoE units from small lots, EXW — which band do your installations use most?",
+ "country_fix": "白俄罗斯",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：调研建档；Elsa 箱：`to:nabludenie.by` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(k)））",
+   "type": "CCTV 销售安装商（白俄罗斯，Hikvision 为主）",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+   "lane": "白俄罗斯（欧洲全域主攻）",
+   "cadence": "首封后看打开",
+   "evidence": "gmail_digest：out 0；研究档 risks：白俄罗斯：结算/物流受限，非主攻区"
+  },
+  "situation": "白俄罗斯 ДМД СИСТЕМС / nabludenie.by（明斯克视频监控系统销售与安装：Hikvision 为主（DS-3E0518P-E PoE 交换机、NVR-108MH-D），全白俄配送；表内无兴趣记录；表内国别「保加利亚」有误——.by 域名 + 「Минск / доставка по всей РБ」→ 更正为白俄罗斯）；表内无跟进记录。",
+  "need": "Hikvision 套装配套 PoE（现 DS-3E0518P-E 类）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）",
+  "breakpoint": "白俄罗斯：结算/物流受限，非主攻区",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 20,
+   "price": "首触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
+   "why": "Hikvision 套装配套 PoE（现 DS-3E0518P-E 类）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "待 Simon 排期（首封）",
+   "channel": "A 邮箱 → sales@nabludenie.by（无具名 KP；公用地址）",
+   "action": "首封：按 email_hook 一问",
+   "one_question": "For the PoE switches you install with Hikvision kits, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port unmanaged PoE units from small lots, EXW — which band do your installations use most? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
+  },
+  "facts": [],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

@@ -1,114 +1,114 @@
 {
-  "code": "SB-159",
-  "name_official": "Arsenal TV（罗马尼亚；联系人 Moise Nicolae，Gmail）",
-  "researched_at": "2026-10-21",
-  "website_status": "无域名（仅表内信息）",
-  "summary": "罗马尼亚 Arsenal TV（Gmail 邮箱，+40 7664 移动号；电视/视频类小型机构）：WhatsApp 已加，2 次实质回复后 14 次跟进无果；无公开网站可核。",
-  "type": "",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "用户表",
-      "claim": "WhatsApp 已加；2 次实质回复、14 次跟进",
-      "quote": "40 7664 78524 已加",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "无域名 · 仅表内信息"
-  },
-  "company_facts": {
-    "legal_name": "Arsenal TV（表内；未能核实）",
-    "hq": "罗马尼亚",
-    "size": "微型"
-  },
-  "business_lines": [
-    "电视/视频（据名称推断）"
-  ],
-  "channels": {
-    "邮箱": "（表内 Gmail）",
-    "WhatsApp": "已加"
-  },
-  "signals": [
-    "2 次实质回复 → 曾有真实兴趣；适合 AV 传输 + 小交换机"
-  ],
-  "risks": [
-    "身份不可核；罗马尼亚非主动开拓市场"
-  ],
-  "saga_fit": {
-    "p1": "STC-28DGGPM",
-    "tier": 25,
-    "why": "终端 25% 档：STC-28DGGPM（$84.1）用于演播/机房；视频传输配 HDMI 光端机"
-  },
-  "email_hook": "For a small TV studio network, the 8-port gigabit PoE+ switch with 2 SFP is $84.1 EXW and pairs with our HDMI-over-fibre extenders; what are you connecting — cameras, encoders or both?",
-  "mail_review": {
-    "binding": {
-      "level": "轻度触达（邮件无证，WhatsApp/WeChat 已加）：用户表「40 7664 78524 已加」；S/A 邮箱 0 封",
-      "type": "—",
-      "sieve": "3（已加 WhatsApp，表内有往来）",
-      "stop": "仓库只有用户表一行；往来在 Simon 手机",
-      "revive": "首封邮件（A 邮箱，按 email_hook）+ WhatsApp 一句话",
-      "lane": "罗马尼亚 非主攻",
-      "cadence": "一封",
-      "evidence": "gmail_digest：out 0；用户表：「40 7664 78524 已加」；研究档 risks：身份不可核；罗马尼亚非主动开拓市场"
-    },
-    "situation": "罗马尼亚 Arsenal TV（Gmail 邮箱，+40 7664 移动号；电视/视频类小型机构）：WhatsApp 已加，2 次实质回复后 14 次跟进无果；无公开网站可核。",
-    "need": "终端 25% 档：STC-28DGGPM（$84.1）用于演播/机房；视频传输配 HDMI 光端机",
-    "breakpoint": "身份不可核；罗马尼亚非主动开拓市场",
-    "saga_now": {
-      "p1": "STC-28DGGPM",
-      "tier": 25,
-      "price": "按主表（研究档 saga_fit）",
-      "why": "终端 25% 档：STC-28DGGPM（$84.1）用于演播/机房；视频传输配 HDMI 光端机",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "2026-11（Simon）",
-      "channel": "A 邮箱首封 + WhatsApp（Simon）",
-      "action": "首封 + 一句话",
-      "one_question": "For a small TV studio network, the 8-port gigabit PoE+ switch with 2 SFP is $84.1 EXW and pairs with our HDMI-over-fibre extenders; what are you connecting — cameras, encoders or both?"
-    },
-    "facts": [
-      {
-        "date": "2024-09-12",
-        "dir": "来",
-        "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
-        "quote": "用户表跟进：推「48工业poe」→ 对方「有兴趣 以及24V poe」",
-        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
-        "k": "Clients/A/DONE/其他优质欧洲客户 2.26.xlsx no.11 912"
-      },
-      {
-        "date": "2025-05-29",
-        "dir": "来",
-        "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
-        "quote": "用户表跟进：推「洪瑞商业PoE组合图」→ 对方「price」",
-        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
-        "k": "Clients/A/DONE/其他优质欧洲客户 2.26.xlsx no.11 529"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "40 7664 78524 已加",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [
-      "WhatsApp 往来未入库"
-    ],
-    "draft_en": {
-      "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
-      "body": "For a small TV studio network, the 8-port gigabit PoE+ switch with 2 SFP is $84.1 EXW and pairs with our HDMI-over-fibre extenders; what are you connecting — cameras, encoders or both?"
-    },
-    "as_of": "2026-10-24"
+ "code": "SB-159",
+ "name_official": "Arsenal TV（罗马尼亚；联系人 Moise Nicolae，Gmail）",
+ "researched_at": "2026-10-21",
+ "website_status": "无域名（仅表内信息）",
+ "summary": "罗马尼亚 Arsenal TV（Gmail 邮箱，+40 7664 移动号；电视/视频类小型机构）：WhatsApp 已加，2 次实质回复后 14 次跟进无果；无公开网站可核。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "WhatsApp 已加；2 次实质回复、14 次跟进",
+   "quote": "40 7664 78524 已加",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "无域名 · 仅表内信息"
+ },
+ "company_facts": {
+  "legal_name": "Arsenal TV（表内；未能核实）",
+  "hq": "罗马尼亚",
+  "size": "微型"
+ },
+ "business_lines": [
+  "电视/视频（据名称推断）"
+ ],
+ "channels": {
+  "邮箱": "（表内 Gmail）",
+  "WhatsApp": "已加"
+ },
+ "signals": [
+  "2 次实质回复 → 曾有真实兴趣；适合 AV 传输 + 小交换机"
+ ],
+ "risks": [
+  "身份不可核；罗马尼亚非主动开拓市场"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 25,
+  "why": "终端 25% 档：STC-28DGGPM（$84.1）用于演播/机房；视频传输配 HDMI 光端机"
+ },
+ "email_hook": "For a small TV studio network, the 8-port gigabit PoE+ switch with 2 SFP is $84.1 EXW and pairs with our HDMI-over-fibre extenders; what are you connecting — cameras, encoders or both?",
+ "mail_review": {
+  "binding": {
+   "level": "轻度触达（邮件无证，WhatsApp/WeChat 已加）：用户表「40 7664 78524 已加」；S/A 邮箱 0 封；Elsa 箱：`to:moisenicolae22@gmail.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(k)）",
+   "type": "—",
+   "sieve": "3（已加 WhatsApp，表内有往来）",
+   "stop": "仓库只有用户表一行；往来在 Simon 手机",
+   "revive": "首封邮件（A 邮箱，按 email_hook）+ WhatsApp 一句话",
+   "lane": "罗马尼亚 非主攻",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 0；用户表：「40 7664 78524 已加」；研究档 risks：身份不可核；罗马尼亚非主动开拓市场"
+  },
+  "situation": "罗马尼亚 Arsenal TV（Gmail 邮箱，+40 7664 移动号；电视/视频类小型机构）：WhatsApp 已加，2 次实质回复后 14 次跟进无果；无公开网站可核。",
+  "need": "终端 25% 档：STC-28DGGPM（$84.1）用于演播/机房；视频传输配 HDMI 光端机",
+  "breakpoint": "身份不可核；罗马尼亚非主动开拓市场",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "终端 25% 档：STC-28DGGPM（$84.1）用于演播/机房；视频传输配 HDMI 光端机",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2026-11（Simon）",
+   "channel": "A 邮箱首封 + WhatsApp（Simon）",
+   "action": "首封 + 一句话",
+   "one_question": "For a small TV studio network, the 8-port gigabit PoE+ switch with 2 SFP is $84.1 EXW and pairs with our HDMI-over-fibre extenders; what are you connecting — cameras, encoders or both?"
+  },
+  "facts": [
+   {
+    "date": "2024-09-12",
+    "dir": "来",
+    "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+    "quote": "用户表跟进：推「48工业poe」→ 对方「有兴趣 以及24V poe」",
+    "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+    "k": "Clients/A/DONE/其他优质欧洲客户 2.26.xlsx no.11 912"
+   },
+   {
+    "date": "2025-05-29",
+    "dir": "来",
+    "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+    "quote": "用户表跟进：推「洪瑞商业PoE组合图」→ 对方「price」",
+    "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+    "k": "Clients/A/DONE/其他优质欧洲客户 2.26.xlsx no.11 529"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "40 7664 78524 已加",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "WhatsApp 往来未入库"
+  ],
+  "draft_en": {
+   "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+   "body": "For a small TV studio network, the 8-port gigabit PoE+ switch with 2 SFP is $84.1 EXW and pairs with our HDMI-over-fibre extenders; what are you connecting — cameras, encoders or both?"
+  },
+  "as_of": "2026-10-24"
+ }
 }

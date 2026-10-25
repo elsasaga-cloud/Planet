@@ -1,131 +1,131 @@
 {
-  "code": "SB-480",
-  "name_official": "",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（raskpreke.lt，快照 2026-10-21）",
-  "summary": "立陶宛 Rask Prekę（raskpreke.lt：安防系统与电工产品网店——摄像机、传感器、报警主机；Ubiquiti（31）/ Hikvision / Dahua / Ajax，PoE 适配器/注入器与交换设备栏目；表内「有 Utepo 的」；表内国别「意大利」有误：.lt 域名 + 立陶宛语站点 → 立陶宛）；表内 1 次跟进无回复。",
-  "type": "安防/电工网店（立陶宛，Utepo 在售）",
-  "size": "",
-  "brands_seen": [
-    "Ubiquiti",
-    "Hikvision",
-    "Ajax",
-    "Utepo",
-    "Dahua"
-  ],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "官网标题：Apsaugos sistemos - Elektros prekės - Rask Prekę；品类词 安防监控（CCTV / 门禁） / 无线 / WiFi / 网络交换 / PoE",
-      "quote": "Apsaugos įranga internetu – vaizdo stebėjimo kameros, judesio ir dūmų jutikliai, apsaugos centralės. Raskpreke.lt – saugūs namai nuo A iki Z!",
-      "url": "https://www.raskpreke.lt/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "有Utepo的",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网快照",
-      "claim": "Rask Prekę 网店（立陶宛语）",
-      "quote": "Apsaugos sistemos - Elektros prekės - Rask Prekę ; Apsaugos įranga internetu – vaizdo stebėjimo kameros … Raskpreke.lt – saugūs namai nuo A iki Z!",
-      "url": "https://www.raskpreke.lt/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "有 Utepo 的",
-      "quote": "有Utepo的",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ "code": "SB-480",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（raskpreke.lt，快照 2026-10-21）",
+ "summary": "立陶宛 Rask Prekę（raskpreke.lt：安防系统与电工产品网店——摄像机、传感器、报警主机；Ubiquiti（31）/ Hikvision / Dahua / Ajax，PoE 适配器/注入器与交换设备栏目；表内「有 Utepo 的」；表内国别「意大利」有误：.lt 域名 + 立陶宛语站点 → 立陶宛）；表内 1 次跟进无回复。",
+ "type": "安防/电工网店（立陶宛，Utepo 在售）",
+ "size": "",
+ "brands_seen": [
+  "Ubiquiti",
+  "Hikvision",
+  "Ajax",
+  "Utepo",
+  "Dahua"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Apsaugos sistemos - Elektros prekės - Rask Prekę；品类词 安防监控（CCTV / 门禁） / 无线 / WiFi / 网络交换 / PoE",
+   "quote": "Apsaugos įranga internetu – vaizdo stebėjimo kameros, judesio ir dūmų jutikliai, apsaugos centralės. Raskpreke.lt – saugūs namai nuo A iki Z!",
+   "url": "https://www.raskpreke.lt/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "hq": "意大利",
-    "other": "官网 raskpreke.lt，语言 lt-LT，快照状态 ok；角色判定来源：官网文案"
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "有Utepo的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "安防系统 / 电工产品网店"
-  ],
-  "channels": {
-    "role": "安防/电工网店（立陶宛，Utepo 在售）",
-    "region": "立陶宛",
-    "contact": "info@raskpreke.lt"
+  {
+   "kind": "官网快照",
+   "claim": "Rask Prekę 网店（立陶宛语）",
+   "quote": "Apsaugos sistemos - Elektros prekės - Rask Prekę ; Apsaugos įranga internetu – vaizdo stebėjimo kameros … Raskpreke.lt – saugūs namai nuo A iki Z!",
+   "url": "https://www.raskpreke.lt/",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "页面 /en/network-equipment-and-wifi-2/commutation-switching-equipment、/…/poe-adapters-injector…；kw ubiquiti 31 / poe 38 / nvr 30",
-    "官网：Apsaugos įranga internetu – vaizdo stebėjimo kameros, judesio ir dūmų jutikliai, apsaugos centralės. Raskpreke.lt"
-  ],
-  "risks": [
-    "小国（立陶宛，非主动挖掘范围）：量小；国别已更正（表内误填意大利）",
-    "1 次跟进无回复，仅 info@"
-  ],
-  "saga_fit": {
-    "p1": "STC-28DGGPM",
-    "tier": 20,
-    "why": "在售 Utepo 商用 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）"
-  },
-  "email_hook": "Alongside the Utepo and Ubiquiti PoE switches in your network category, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port unmanaged PoE units from small lots, CE/RoHS, EXW USD — which size do your camera-kit buyers choose most?",
-  "country_fix": "立陶宛",
-  "mail_review": {
-    "binding": {
-      "level": "未触达（A 邮箱 12 封 2025→2026，无记录打开，0 回；收件 info@raskpreke.lt；主题多为「10G Enterprise SFP Switch、Booster PoE Switch」）",
-      "type": "安防/电工网店（立陶宛，Utepo 在售）",
-      "sieve": "1（只收到群发）",
-      "stop": "只打通用邮箱，无记录打开",
-      "revive": "保持季度群发到 2027-Q1；无打开即停",
-      "lane": "立陶宛（欧洲全域主攻）",
-      "cadence": "季度",
-      "evidence": "gmail_digest：out 12；用户表：「有Utepo的」；研究档 risks：小国（立陶宛，非主动挖掘范围）：量小；国别已更正（表内误填意大利）"
-    },
-    "situation": "立陶宛 Rask Prekę（raskpreke.lt：安防系统与电工产品网店——摄像机、传感器、报警主机；Ubiquiti（31）/ Hikvision / Dahua / Ajax，PoE 适配器/注入器与交换设备栏目；表内「有 Utepo 的」；表内国别「意大利」有误：.lt 域名 + 立陶宛语站点 → 立陶宛）；表内 1 次跟进无回复。",
-    "need": "在售 Utepo 商用 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）",
-    "breakpoint": "小国（立陶宛，非主动挖掘范围）：量小；国别已更正（表内误填意大利）",
-    "saga_now": {
-      "p1": "STC-28DGGPM",
-      "tier": 20,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-09-24 $280（10G Enterprise SFP Switch）",
-      "why": "在售 Utepo 商用 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "群发节奏",
-      "channel": "A 邮箱",
-      "action": "观察打开",
-      "one_question": "Alongside the Utepo and Ubiquiti PoE switches in your network category, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port unmanaged PoE units from small lots, CE/RoHS, EXW USD — which size do your camera-kit buyers choose most?"
-    },
-    "facts": [
-      {
-        "date": "2026-10-07",
-        "dir": "去",
-        "who": "A 群发",
-        "quote": "10G Enterprise SFP Switch、Booster PoE Switch",
-        "why": "12 封 / 0 次打开 / 0 回｜首封 2025-09-24 → 末封 2026-10-07（12 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "有Utepo的",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "有 Utepo 的",
+   "quote": "有Utepo的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "意大利",
+  "other": "官网 raskpreke.lt，语言 lt-LT，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "安防系统 / 电工产品网店"
+ ],
+ "channels": {
+  "role": "安防/电工网店（立陶宛，Utepo 在售）",
+  "region": "立陶宛",
+  "contact": "info@raskpreke.lt"
+ },
+ "signals": [
+  "页面 /en/network-equipment-and-wifi-2/commutation-switching-equipment、/…/poe-adapters-injector…；kw ubiquiti 31 / poe 38 / nvr 30",
+  "官网：Apsaugos įranga internetu – vaizdo stebėjimo kameros, judesio ir dūmų jutikliai, apsaugos centralės. Raskpreke.lt"
+ ],
+ "risks": [
+  "小国（立陶宛，非主动挖掘范围）：量小；国别已更正（表内误填意大利）",
+  "1 次跟进无回复，仅 info@"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 20,
+  "why": "在售 Utepo 商用 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）"
+ },
+ "email_hook": "Alongside the Utepo and Ubiquiti PoE switches in your network category, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port unmanaged PoE units from small lots, CE/RoHS, EXW USD — which size do your camera-kit buyers choose most?",
+ "country_fix": "立陶宛",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 12 封 2025→2026，无记录打开，0 回；收件 info@raskpreke.lt；主题多为「10G Enterprise SFP Switch、Booster PoE Switch」；Elsa 箱：`to:raskpreke.lt` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 12 / 来 0）（第 74 批(k)））",
+   "type": "安防/电工网店（立陶宛，Utepo 在售）",
+   "sieve": "1（只收到群发）",
+   "stop": "只打通用邮箱，无记录打开",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "立陶宛（欧洲全域主攻）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 12；用户表：「有Utepo的」；研究档 risks：小国（立陶宛，非主动挖掘范围）：量小；国别已更正（表内误填意大利）"
+  },
+  "situation": "立陶宛 Rask Prekę（raskpreke.lt：安防系统与电工产品网店——摄像机、传感器、报警主机；Ubiquiti（31）/ Hikvision / Dahua / Ajax，PoE 适配器/注入器与交换设备栏目；表内「有 Utepo 的」；表内国别「意大利」有误：.lt 域名 + 立陶宛语站点 → 立陶宛）；表内 1 次跟进无回复。",
+  "need": "在售 Utepo 商用 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）",
+  "breakpoint": "小国（立陶宛，非主动挖掘范围）：量小；国别已更正（表内误填意大利）",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-09-24 $280（10G Enterprise SFP Switch）",
+   "why": "在售 Utepo 商用 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Alongside the Utepo and Ubiquiti PoE switches in your network category, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port unmanaged PoE units from small lots, CE/RoHS, EXW USD — which size do your camera-kit buyers choose most?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-07",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "10G Enterprise SFP Switch、Booster PoE Switch",
+    "why": "12 封 / 0 次打开 / 0 回｜首封 2025-09-24 → 末封 2026-10-07（12 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "有Utepo的",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

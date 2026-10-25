@@ -25,7 +25,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -42,7 +42,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-018` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未绑定（订单意向止于身份追问）——曾递交首张测试订单 BO（2024-11-20）** ｜ 类型：乌克兰进口商 + 自有标（要印自己品牌/型号/序列号，每型号常规 20–30 台）；Sergiy Khodun——第二档「有进口经验者」+ 贴牌 ｜ 筛子：3（BO 已发：DI order #1.xls；问交期/标签样/GUI logo） ｜ 停点：2024-11-22「your company is not a manufacturer and does not have its own production facilities… right?」→ Simon「We are a manufacturer, at the same time, we trade. Marvell… manufacture, Realtek from other suppliers」→ 再无来信；BO 疑含 Realtek 低价款（他 5 月问过 STI-050FE/080FE 25/40 USD 的价差） ｜ 复活：以 sagatele.com 现口径（Engineering & Supply-Chain-First）重述身份一次 + 问 2024 BO 是否仍有效；UA 物流/付款需先核 ｜ 通路：UA（战时物流/付款待核；对方 2024 要普通快递） ｜ 节奏：2024-05 → 2026-09 去信 28 封；最后来信 2024-11-22 ｜ 证据：k=ce8e1aaaf377b7e8 / 510ef3ba6b343873 / fbd001897a47c982 / eaa8056ace798022 / d6c3e30a8869b4c6
+- **绑定等级：未绑定（订单意向止于身份追问）——曾递交首张测试订单 BO（2024-11-20；Elsa 箱：`to:germany24.com.ua OR to:planet.kiev.ua` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 28 / 来 4）（第 74 批(k)））** ｜ 类型：乌克兰进口商 + 自有标（要印自己品牌/型号/序列号，每型号常规 20–30 台）；Sergiy Khodun——第二档「有进口经验者」+ 贴牌 ｜ 筛子：3（BO 已发：DI order #1.xls；问交期/标签样/GUI logo） ｜ 停点：2024-11-22「your company is not a manufacturer and does not have its own production facilities… right?」→ Simon「We are a manufacturer, at the same time, we trade. Marvell… manufacture, Realtek from other suppliers」→ 再无来信；BO 疑含 Realtek 低价款（他 5 月问过 STI-050FE/080FE 25/40 USD 的价差） ｜ 复活：以 sagatele.com 现口径（Engineering & Supply-Chain-First）重述身份一次 + 问 2024 BO 是否仍有效；UA 物流/付款需先核 ｜ 通路：UA（战时物流/付款待核；对方 2024 要普通快递） ｜ 节奏：2024-05 → 2026-09 去信 28 封；最后来信 2024-11-22 ｜ 证据：k=ce8e1aaaf377b7e8 / 510ef3ba6b343873 / fbd001897a47c982 / eaa8056ace798022 / d6c3e30a8869b4c6
 - **现状一句话**：Deutsche Import 是 A 级里唯一真正递交过订单表的乌克兰客户：2024-05 就问能否按其品牌印标签/型号/序列号（每型号 20–30 台常规量），2024-11-20 发来「first order for testing」BO，问交期（Simon：7–10 工作日）、标签样、GUI 加 logo（Simon：免费）。两天后他问「你们不是制造商、没有自己的产线对吧？」，Simon 答「既制造也贸易，Marvell 自产、Realtek 来自其他供应商」，对话终止。
 - **对方真实需求（有据）**：小批量自有标：Marvell 管理型 + Realtek 低价非管理（DIN 5/8 口），GUI 带 logo。
 - **断点 / 为什么停在这里**：身份问题是真实停点（摘读 D12/D13）：对方要的是「厂」的确定性，Saga 当时的回答把 Realtek 线的「贸易」属性摆在了订单前面。现口径「Engineering & Supply-Chain-First」正好是对这个问题的答案。
@@ -300,12 +300,12 @@ Saga Telecom · sagatele.com
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 77）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 77）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

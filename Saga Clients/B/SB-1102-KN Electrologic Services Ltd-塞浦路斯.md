@@ -25,7 +25,7 @@ price_tier: 25%
 research: done
 site_snapshot: timeout  # 2026-10-21
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -42,7 +42,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1102` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A/S 邮箱 21 封 2024→2026，无记录打开，0 回；收件 info@electrologicservices.com；主题多为「10G media converter、8 Port Industrial PoE Switch」）** ｜ 类型：电气工程承包商（塞浦路斯） ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：停发群发；若要继续，换具名邮箱 + 只问一句 ｜ 通路：塞浦路斯（欧洲全域主攻） ｜ 节奏：一封 ｜ 证据：gmail_digest：out 21；用户表：「管理交换机 HDMI转网带USB」；研究档 risks：HDMI over IP（KVM）品类 Saga 不供（Q-32）；小型承包商（量小）；官网 timeout；21 次无回复
+- **绑定等级：未触达（A/S 邮箱 21 封 2024→2026，无记录打开，0 回；收件 info@electrologicservices.com；主题多为「10G media converter、8 Port Industrial PoE Switch」；Elsa 箱：`to:electrologicservices.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 21 / 来 0）（第 74 批(k)））** ｜ 类型：电气工程承包商（塞浦路斯） ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：停发群发；若要继续，换具名邮箱 + 只问一句 ｜ 通路：塞浦路斯（欧洲全域主攻） ｜ 节奏：一封 ｜ 证据：gmail_digest：out 21；用户表：「管理交换机 HDMI转网带USB」；研究档 risks：HDMI over IP（KVM）品类 Saga 不供（Q-32）；小型承包商（量小）；官网 timeout；21 次无回复
 - **现状一句话**：塞浦路斯 KN Electrologic Services Ltd（电气工程服务；KP Nikolas Konomou（Electrical Engineer）；表内「管理交换机 HDMI 转网带 USB」；官网 timeout）；群发 21 次无回复。
 - **对方真实需求（有据）**：管理交换机 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 GE + 4×10G STC-424XGGM（$132.7）；HDMI over IP（带 USB）Saga 不供（Q-32）
 - **断点 / 为什么停在这里**：HDMI over IP（KVM）品类 Saga 不供（Q-32）；小型承包商（量小）；官网 timeout；21 次无回复
@@ -279,12 +279,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 26）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 26）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

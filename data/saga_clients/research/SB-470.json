@@ -1,134 +1,134 @@
 {
-  "code": "SB-470",
-  "name_official": "",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（melbyefiber.com，快照 2026-10-21）",
-  "summary": "挪威 Melbye（melbye.no / melbyefiber.com：端到端光纤方案供应商，光缆（fibre 231 / cable 158）、MC（17）、工业（21），EcoVadis 金级；表内「用的 AOA 的」「可以多跟进一下」；KP Amber Miller（Customer and Logistics Coordinator，amm@melbye.com））；群发 5 次无回复。",
-  "type": "光纤方案供应商（北欧/英国，MC 与工业交换机为配套）",
-  "size": "",
-  "brands_seen": [
-    "AOA"
-  ],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "官网标题：Fibre Solutions | Melbye；品类词 工业自动化 / OT 网络 / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
-      "quote": "Melbye Ltd is an end-to-end supplier of full fibre solutions for your network. We offer the widest range of tested and proven fibre solutions in the market.",
-      "url": "https://melbyefibre.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "用的AOA的",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网快照",
-      "claim": "Melbye 定位",
-      "quote": "Melbye Ltd is an end-to-end supplier of full fibre solutions for your network. We offer the widest range of tested and proven fibre solutions in the market.",
-      "url": "https://melbyefibre.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "用的 AOA 的",
-      "quote": "用的AOA的；可以多跟进一下",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Amber Miller",
-      "title": "Customer and Logistics Coordinator",
-      "email": "amm@melbye.com",
-      "phone": "",
-      "source": "用户表"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ "code": "SB-470",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（melbyefiber.com，快照 2026-10-21）",
+ "summary": "挪威 Melbye（melbye.no / melbyefiber.com：端到端光纤方案供应商，光缆（fibre 231 / cable 158）、MC（17）、工业（21），EcoVadis 金级；表内「用的 AOA 的」「可以多跟进一下」；KP Amber Miller（Customer and Logistics Coordinator，amm@melbye.com））；群发 5 次无回复。",
+ "type": "光纤方案供应商（北欧/英国，MC 与工业交换机为配套）",
+ "size": "",
+ "brands_seen": [
+  "AOA"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Fibre Solutions | Melbye；品类词 工业自动化 / OT 网络 / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "Melbye Ltd is an end-to-end supplier of full fibre solutions for your network. We offer the widest range of tested and proven fibre solutions in the market.",
+   "url": "https://melbyefibre.com/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "hq": "挪威",
-    "other": "官网 melbyefiber.com，语言 en，快照状态 ok；角色判定来源：官网文案"
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "用的AOA的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "光纤方案（光缆 / 配线 / MC / 工业网络配套）"
-  ],
-  "channels": {
-    "role": "光纤方案供应商（北欧/英国，MC 与工业交换机为配套）",
-    "region": "挪威",
-    "contact": "kontakt@melbye.no、amm@melbye.com"
+  {
+   "kind": "官网快照",
+   "claim": "Melbye 定位",
+   "quote": "Melbye Ltd is an end-to-end supplier of full fibre solutions for your network. We offer the widest range of tested and proven fibre solutions in the market.",
+   "url": "https://melbyefibre.com/",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "官网：Melbye Ltd is an end-to-end supplier of full fibre solutions for your network ; Gold level in EcoVadis；kw fibre 231 / cable 158 / media converter 17 / industrial 21",
-    "表内：用的 AOA 的；KP Amber Miller / Customer and Logistics Coordinator"
-  ],
-  "risks": [
-    "主业光缆/无源：MC 与交换机为配套品类；现 AOA（深圳）价格基准低",
-    "5 次无回复 → 改向具名首触（物流协调员非决策人，需引荐产品负责人）"
-  ],
-  "saga_fit": {
-    "p1": "STI-110GE",
-    "tier": 20,
-    "why": "光纤方案配套 MC（现 AOA）→ 工业千兆 MC STI-110GE（$22.4 @20%）/ PoE MC STI-111GP（$27.8）；工业交换机位 STI-280GE（$46.6）"
-  },
-  "email_hook": "Amber, alongside the media converters you supply with your fibre solutions, we offer Marvell/Realtek-based industrial gigabit and PoE media converters and DIN-rail 8-GE + 2 SFP switches (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which MC type do your network customers order most?",
-  "mail_review": {
-    "binding": {
-      "level": "未触达（2 封自动回复）；退信：te@melbye.com 2025-03-27",
-      "type": "北欧/英国光纤方案供应商（Melbye）",
-      "sieve": "0",
-      "stop": "自动回复/机器人，无人工回复",
-      "revive": "不动",
-      "lane": "NO/UK",
-      "cadence": "不动",
-      "evidence": "k=7270f98fb3ed81c7 / 78abe4ebb39c4ac1"
-    },
-    "situation": "来信全部为机器回复；无人读信或无人回信。",
-    "need": "—",
-    "breakpoint": "—",
-    "saga_now": {
-      "p1": "—",
-      "tier": 20,
-      "price": "—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-16 $220（48 port managed switch）、2024-11-28 $65（10G Media Converter）；群发里他已看到的价（续）：2026-07-29 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-02-26 $240（24 Port Fiber Switch）、2025-06-17 $300（48 Port PoE Managed Switch）、2025-10-08 $280（10G Enterprise SFP Switch）、2026-06-18 $16000（32 Port 400GB DC Switch）",
-      "why": "已打开的主题（1/23 封有打开记录）：「Marvell Alleycat5 Solution」(2025-03-27) → 读者兴趣主题类别不明（看原主题）",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "不动",
-      "channel": "—",
-      "action": "—",
-      "one_question": ""
-    },
-    "facts": [
-      {
-        "date": "2025-03-27",
-        "dir": "内",
-        "who": "Gmail 退信（A 邮箱）",
-        "quote": "te@melbye.com 永久退信：[https://products.office.com/en-us/CMSImages/Office365Logo_Orange.png?version=b8d100a9-0a8b-8e6a-88e1-ef488fee0470] Your",
-        "why": "该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职",
-        "k": "gmail_a e2d153cd779efbe3"
-      },
-      {
-        "date": "2025-03-27",
-        "dir": "内",
-        "who": "Gmail 退信（A 邮箱）",
-        "quote": "te@melbye.com 退信：532972>, and then send the message again. Retype the entire recipient address before selecting Send. If",
-        "why": "该地址当天收不到信；同日的「Opened」记录是退信触发，不算打开",
-        "k": "gmail_a e2d153cd779efbe3"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "用的 AOA 的",
+   "quote": "用的AOA的；可以多跟进一下",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Amber Miller",
+   "title": "Customer and Logistics Coordinator",
+   "email": "amm@melbye.com",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "挪威",
+  "other": "官网 melbyefiber.com，语言 en，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "光纤方案（光缆 / 配线 / MC / 工业网络配套）"
+ ],
+ "channels": {
+  "role": "光纤方案供应商（北欧/英国，MC 与工业交换机为配套）",
+  "region": "挪威",
+  "contact": "kontakt@melbye.no、amm@melbye.com"
+ },
+ "signals": [
+  "官网：Melbye Ltd is an end-to-end supplier of full fibre solutions for your network ; Gold level in EcoVadis；kw fibre 231 / cable 158 / media converter 17 / industrial 21",
+  "表内：用的 AOA 的；KP Amber Miller / Customer and Logistics Coordinator"
+ ],
+ "risks": [
+  "主业光缆/无源：MC 与交换机为配套品类；现 AOA（深圳）价格基准低",
+  "5 次无回复 → 改向具名首触（物流协调员非决策人，需引荐产品负责人）"
+ ],
+ "saga_fit": {
+  "p1": "STI-110GE",
+  "tier": 20,
+  "why": "光纤方案配套 MC（现 AOA）→ 工业千兆 MC STI-110GE（$22.4 @20%）/ PoE MC STI-111GP（$27.8）；工业交换机位 STI-280GE（$46.6）"
+ },
+ "email_hook": "Amber, alongside the media converters you supply with your fibre solutions, we offer Marvell/Realtek-based industrial gigabit and PoE media converters and DIN-rail 8-GE + 2 SFP switches (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which MC type do your network customers order most?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（2 封自动回复）；退信：te@melbye.com 2025-03-27；Elsa 箱：`to:melbyefiber.com OR to:melbye.no` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 23 / 来 2）（第 74 批(k)）",
+   "type": "北欧/英国光纤方案供应商（Melbye）",
+   "sieve": "0",
+   "stop": "自动回复/机器人，无人工回复",
+   "revive": "不动",
+   "lane": "NO/UK",
+   "cadence": "不动",
+   "evidence": "k=7270f98fb3ed81c7 / 78abe4ebb39c4ac1"
+  },
+  "situation": "来信全部为机器回复；无人读信或无人回信。",
+  "need": "—",
+  "breakpoint": "—",
+  "saga_now": {
+   "p1": "—",
+   "tier": 20,
+   "price": "—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-16 $220（48 port managed switch）、2024-11-28 $65（10G Media Converter）；群发里他已看到的价（续）：2026-07-29 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-02-26 $240（24 Port Fiber Switch）、2025-06-17 $300（48 Port PoE Managed Switch）、2025-10-08 $280（10G Enterprise SFP Switch）、2026-06-18 $16000（32 Port 400GB DC Switch）",
+   "why": "已打开的主题（1/23 封有打开记录）：「Marvell Alleycat5 Solution」(2025-03-27) → 读者兴趣主题类别不明（看原主题）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2025-03-27",
+    "dir": "内",
+    "who": "Gmail 退信（A 邮箱）",
+    "quote": "te@melbye.com 永久退信：[https://products.office.com/en-us/CMSImages/Office365Logo_Orange.png?version=b8d100a9-0a8b-8e6a-88e1-ef488fee0470] Your",
+    "why": "该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职",
+    "k": "gmail_a e2d153cd779efbe3"
+   },
+   {
+    "date": "2025-03-27",
+    "dir": "内",
+    "who": "Gmail 退信（A 邮箱）",
+    "quote": "te@melbye.com 退信：532972>, and then send the message again. Retype the entire recipient address before selecting Send. If",
+    "why": "该地址当天收不到信；同日的「Opened」记录是退信触发，不算打开",
+    "k": "gmail_a e2d153cd779efbe3"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

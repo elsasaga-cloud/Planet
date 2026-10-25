@@ -27,7 +27,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -44,7 +44,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-335` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：轻度绑定→已冷（一单 $100 样机 2023-07-24：STC-028GFP ×2 @20 + STC-128GFP ×2 @25；PI 包「gg」；2026 年 2 封群发 0 回）** ｜ 类型：第比利斯 IT 集成商（Delta Consulting，30 人，$2M；CEO George Jaliashvili）——从新桥拿货、价格约为 Saga 一半（研究档） ｜ 筛子：5（付样） ｜ 停点：价格：其现供新桥约为 Saga 一半（研究档引用 CI）；样机后 3 年无单 ｜ 复活：CENTEC 汇聚/核心（Cisco/Juniper 伙伴 = 懂 L3）——与低价 PoE 不同赛道 ｜ 通路：GE 非主攻 ｜ 节奏：一次 ｜ 证据：PI STSC20230724001（$100）；A 邮箱 2026-05-15 / 2026-09-01 两封群发（george@dc.ge）0 回
+- **绑定等级：轻度绑定→已冷（一单 $100 样机 2023-07-24：STC-028GFP ×2 @20 + STC-128GFP ×2 @25；PI 包「gg」；2026 年 2 封群发 0 回；Elsa 箱：`to:dc.ge` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 2 / 来 0）（第 74 批(k)））** ｜ 类型：第比利斯 IT 集成商（Delta Consulting，30 人，$2M；CEO George Jaliashvili）——从新桥拿货、价格约为 Saga 一半（研究档） ｜ 筛子：5（付样） ｜ 停点：价格：其现供新桥约为 Saga 一半（研究档引用 CI）；样机后 3 年无单 ｜ 复活：CENTEC 汇聚/核心（Cisco/Juniper 伙伴 = 懂 L3）——与低价 PoE 不同赛道 ｜ 通路：GE 非主攻 ｜ 节奏：一次 ｜ 证据：PI STSC20230724001（$100）；A 邮箱 2026-05-15 / 2026-09-01 两封群发（george@dc.ge）0 回
 - **现状一句话**：2023-07 买了 4 台百兆 PoE 样机（$100），之后没有下文——它的 PoE 来源是新桥，价格一半。公司本身是 Cisco/Juniper/F5 级别的集成商，PoE 低价赛道不是 Saga 能赢的；CENTEC 汇聚/核心才对得上它的客户（企业 + 政府）。
 - **对方真实需求（有据）**：2023：百兆 PoE 样机；潜在：企业/政府项目汇聚核心。
 - **断点 / 为什么停在这里**：价格（新桥）。
@@ -326,12 +326,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 93）；人工/调研定级 → B
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 93）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
