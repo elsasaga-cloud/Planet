@@ -43,9 +43,9 @@
     "单量小；WhatsApp 加不上；0 次跟进记录"
   ],
   "saga_fit": {
-    "p1": "STI-280DGGM",
+    "p1": "STI-240GE",
     "tier": 25,
-    "why": "工业终端 25% 档：STI-280DGGM（DIN 8 GE + 2 SFP，$130.8）用于车间/机柜；非管理 STI-240GE（$29.1）"
+    "why": "工业终端 25% 档：车间加几条光纤落点 → 非管理 DIN 4 GE + 2 SFP STI-240GE（$29.1 @25%，与钩子句一致；第 74 批(r) 2026-10-25 由 STI-280DGGM $130.8 改——小机加工厂用不上 L2+ 2.5G）；备选 8 GE + 2 SFP 非管理 STI-280GE $48.6"
   },
   "email_hook": "Following the two SFP modules and media converter you bought, if the shop floor needs more fibre drops a DIN-rail 4-port gigabit switch with 2 SFP is $29.1 EXW; how many machines are you linking?",
   "mail_review": {
@@ -60,13 +60,13 @@
       "evidence": "gmail_digest：out 6；用户表：「买了2个模块+1个MC 50Euros … 4834/3661300 加不上」；研究档 risks：单量小；WhatsApp 加不上；0 次跟进记录；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To biuro@zintronic.pl）2025-04-03→2026-09-01 共 10 轮群发（Marvell Alleycat5 Solution、16 Port Ethernet Switch、Mini Industrial PoE Switch、Managed Optical Bypass Switch、8 Port Industrial PoE Switch、Industrial PoE Switch、10G Enterprise SFP Switch、OEM Core Switching Solution、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断"
     },
     "situation": "波兰 Częstochowa 一带（+48 34）的金属加工/工业企业 Metal Union（onet 企业邮箱）：已成交——购买 2 个光模块 + 1 个光电转换器 €50；WhatsApp 加不上；无跟进记录。工业终端小客户，复购路径为车间光纤链路。",
-    "need": "工业终端 25% 档：STI-280DGGM（DIN 8 GE + 2 SFP，$130.8）用于车间/机柜；非管理 STI-240GE（$29.1）",
+    "need": "工业终端 25% 档：车间加几条光纤落点 → 非管理 DIN 4 GE + 2 SFP STI-240GE（$29.1 @25%，与钩子句一致；第 74 批(r) 2026-10-25 由 STI-280DGGM $130.8 改——小机加工厂用不上 L2+ 2.5G）；备选 8 GE + 2 SFP 非管理 STI-280GE $48.6",
     "breakpoint": "单量小；WhatsApp 加不上；0 次跟进记录",
     "saga_now": {
-      "p1": "STI-280DGGM",
+      "p1": "STI-240GE",
       "tier": 25,
       "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-11-05 $300（48 Port PoE Managed Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-09-01 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-01；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
-      "why": "工业终端 25% 档：STI-280DGGM（DIN 8 GE + 2 SFP，$130.8）用于车间/机柜；非管理 STI-240GE（$29.1）",
+      "why": "工业终端 25% 档：车间加几条光纤落点 → 非管理 DIN 4 GE + 2 SFP STI-240GE（$29.1 @25%，与钩子句一致；第 74 批(r) 2026-10-25 由 STI-280DGGM $130.8 改——小机加工厂用不上 L2+ 2.5G）；备选 8 GE + 2 SFP 非管理 STI-280GE $48.6",
       "repeat": [],
       "gaps": []
     },

@@ -640,6 +640,7 @@ P1_EN = {
     'STI-220GE': ('industrial compact switch, 2x Gigabit plus 2 SFP (unmanaged)', ''),
     'STI-050GE': ('industrial DIN-rail 5-port Gigabit switch (unmanaged)', ''),
     'STI-080GE': ('industrial DIN-rail 8-port Gigabit switch (unmanaged)', ''),
+    'STI-240GE': ('compact industrial DIN-rail switch, 4x Gigabit plus 2 SFP (unmanaged)', ''),
     'STI-280GE': ('industrial DIN-rail switch, 8x Gigabit plus 2 SFP (unmanaged)', ''),
     'STI-054FP': ('industrial DIN-rail switch, 4x Fast Ethernet PoE plus 1 uplink (unmanaged)', ''),
     'STI-054GP': ('industrial DIN-rail switch, 4x Gigabit PoE+ plus 1 Gigabit uplink (unmanaged)', ''),
@@ -1016,7 +1017,10 @@ def email_draft(ent, g, typ, p1, tier, brands, first_q):
     _hk_nums = [float(a or b) for a, b in re.findall(r'\$\s?(\d+(?:\.\d+)?)|(?<![\d.])(\d+(?:\.\d+)?)\s?USD', hk or '')]
     _cur = re.search(r'\$([\d.]+)', price or '')
     _cur = float(_cur.group(1)) if _cur else None
-    price_clash = bool(_hk_nums) and _cur is not None and all(abs(n - _cur) > 1.0 for n in _hk_nums)
+    _ranges = [(float(a), float(b)) for a, b in re.findall(r'\$\s?(\d+(?:\.\d+)?)\s?[–-]\s?(\d+(?:\.\d+)?)', hk or '')]
+    _in_range = _cur is not None and any(lo - 1.0 <= _cur <= hi + 1.0 for lo, hi in _ranges)
+    price_clash = (bool(_hk_nums) and _cur is not None and not _in_range
+                   and all(abs(n - _cur) > 1.0 and abs(n - 2 * _cur) > 1.0 for n in _hk_nums))  # 区间含档价 / 「一对」= 2× 单价 不算冲突
     para = (f"We supply {'a ' + chip + ' ' if chip else ('an ' if (desc[0] in 'aeiou' or desc.startswith(('8', '18', '80'))) else 'a ')}{desc} - model {p1} - that fits the same slot as {slot} at a lower landed cost, and we can ship it{oem}. "
             f'Current price: {price}.')
     body = '\n'.join([

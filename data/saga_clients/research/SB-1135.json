@@ -65,7 +65,7 @@
     "saga_now": {
       "p1": "STI-050GE",
       "tier": 25,
-      "price": "按主表（研究档 saga_fit）",
+      "price": "锚价：STI-050GE $25.0（LT-IS3005G-5GT 12–58 V 宽压版 @25%，与钩子句一致；-M 版 12–36 V $17.8，第 74 批(r) 2026-10-25）；按主表（研究档 saga_fit）",
       "why": "终端 25% 档：工业 STI-050GE（DIN 5 GE，$25.0）或商用 STC-05GE（Realtek 线，$6.1）视场景",
       "repeat": [],
       "gaps": []

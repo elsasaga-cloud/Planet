@@ -73,9 +73,9 @@
  "saga_fit": {
   "p1": "STC-024GP",
   "tier": 30,
-  "why": "OEM 30% 档：STC-024GP（Saga Realtek 线，2 GE 上联 + 4 GE PoE 60W 桌面，列表 $18.7）贴 EMOS 标；8 口 STC-028GP（$24.2）；非 PoE STC-05GE（$6.1）"
+  "why": "OEM 30% 档：STC-024GP（Saga Realtek 线，2 GE 上联 + 4 GE PoE 60W 桌面，$22.3 = 洪瑞 2026-09-30 成本 +30%；列表 $18.7 隐含加价仅 +9%，低于底线，第 73 批口径）贴 EMOS 标；8 口 STC-028GP（$24.2）；非 PoE STC-05GE（$6.1）"
  },
- "email_hook": "For the compact commercial PoE switch you asked about at the show: 4 × gigabit PoE + 2 uplinks, 60 W, metal desktop case, EMOS retail box — list $18.7 EXW; what carton quantity does your Přerov warehouse prefer?",
+ "email_hook": "For the compact commercial PoE switch you asked about at the show: 4 × gigabit PoE + 2 uplinks, 60 W, metal desktop case, EMOS retail box — $22.3 EXW; what carton quantity does your Přerov warehouse prefer?",
  "mail_review": {
   "binding": {
    "level": "未触达（1 封自动回复；Elsa 箱：`to:emos.cz OR to:emos.eu` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 25 / 来 1）（第 74 批(k)））",

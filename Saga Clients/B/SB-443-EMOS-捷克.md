@@ -99,8 +99,8 @@ updated: 2026-10-25
 - **近况信号**：
   - 明确要小尺寸商业 PoE 4 口并问价 → EMOS 标白牌 PoE 桌面机进其 26 国渠道；非工业级、价格敏感 → Realtek 线
 - **风险/边界**：Legrand 集团采购合规/供应商准入流程长；15 次跟进 0 回复
-- **Saga 对位结论**：P1 STC-024GP（30% 档）——OEM 30% 档：STC-024GP（Saga Realtek 线，2 GE 上联 + 4 GE PoE 60W 桌面，列表 $18.7）贴 EMOS 标；8 口 STC-028GP（$24.2）；非 PoE STC-05GE（$6.1）
-- **邮件切入句（英文）**：For the compact commercial PoE switch you asked about at the show: 4 × gigabit PoE + 2 uplinks, 60 W, metal desktop case, EMOS retail box — list $18.7 EXW; what carton quantity does your Přerov warehouse prefer?
+- **Saga 对位结论**：P1 STC-024GP（30% 档）——OEM 30% 档：STC-024GP（Saga Realtek 线，2 GE 上联 + 4 GE PoE 60W 桌面，$22.3 = 洪瑞 2026-09-30 成本 +30%；列表 $18.7 隐含加价仅 +9%，低于底线，第 73 批口径）贴 EMOS 标；8 口 STC-028GP（$24.2）；非 PoE STC-05GE（$6.1）
+- **邮件切入句（英文）**：For the compact commercial PoE switch you asked about at the show: 4 × gigabit PoE + 2 uplinks, 60 W, metal desktop case, EMOS retail box — $22.3 EXW; what carton quantity does your Přerov warehouse prefer?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -212,7 +212,7 @@ updated: 2026-10-25
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-024GP | 深挖对位：OEM 30% 档：STC-024GP（Saga Realtek 线，2 GE 上联 + 4 GE PoE 60W 桌面，列表 $18.7）贴 EMOS 标；8 口 STC-028GP（$24.2）；非 PoE STC-05GE（$6.1） | $22.3 USD EXW（HRUI Realtek 线：洪瑞 2026-09-30 成本 + 30%（列表价 $18.7 隐含加价低于底线，第 73 批口径）；见 data/价格主表_HRUI.csv；汇率 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（分销商/经销商） |
+| **P1** | STC-024GP | 深挖对位：OEM 30% 档：STC-024GP（Saga Realtek 线，2 GE 上联 + 4 GE PoE 60W 桌面，$22.3 = 洪瑞 2026-09-30 成本 +30%；列表 $18.7 隐含加价仅 +9%，低于底线，第 73 批口径）贴 EMOS 标；8 口 STC-028GP（$24.2）；非 PoE STC-05GE（$6.1） | $22.3 USD EXW（HRUI Realtek 线：洪瑞 2026-09-30 成本 + 30%（列表价 $18.7 隐含加价低于底线，第 73 批口径）；见 data/价格主表_HRUI.csv；汇率 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（分销商/经销商） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
@@ -266,7 +266,9 @@ updated: 2026-10-25
 ```text
 Hi Pavel,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the compact commercial PoE switch you asked about at the show: 4 × gigabit PoE + 2 uplinks, 60 W, metal desktop case, EMOS retail box — list $18.7 EXW; what carton quantity does your Přerov warehouse prefer?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the compact commercial PoE switch you asked about at the show: 4 × gigabit PoE + 2 uplinks, 60 W, metal desktop case, EMOS retail box — $22.3 EXW; what carton quantity does your Přerov warehouse prefer?
+
+We supply a 4-port Gigabit PoE switch with 2 Gigabit uplinks (unmanaged) - model STC-024GP - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $22.3 USD EXW (valid 15 days).
 
 If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 
@@ -274,8 +276,6 @@ Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
 https://sagatele.com/
 ```
-
-> 钩子句自带价（$18.7）与 P1 STC-024GP 档价（$22.3）不同：样板未并入 P1 段落，一封信一个价；发前按 ㉕ 核钩子句的价是否仍有效。
 
 > 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
 

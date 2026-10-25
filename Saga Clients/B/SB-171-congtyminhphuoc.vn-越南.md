@@ -34,7 +34,7 @@ updated: 2026-10-25
 - **是谁**：越南光纤产品贸易商 Minh Phước（congtyminhphuoc.vn；tmphuocvn@gmail.com）。用户表（富通天下外贸数据）：「从 BTON 买了很多；各种光产品，也有有名的牌子」= 从同行大量进口光产品，非 Saga 成交；群发无互动。多品牌光产品贸易商 → 分销 20%。（调研 2026-10-21；表内兴趣：各种光产品 也有有名的牌子）
 - **为什么是 B 级**：+50 有成单/下单/买过记录（用户备注或跟进表）；-6 群发批次名单；+0 仅免费邮箱；+5 有可核实的公司网站/域名；+0 区域 亚太/越南
 - **历史互动**：成交/下单过
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-228GP — 分销 20% 档：STC-228GP（2 SFP + 8 GE PoE，$30.8）；MC STI-110GE（$22.4）；SFP 待 Q-32；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-228GP — 分销 20% 档：STC-228GP（2 SFP + 8 GE PoE，$33.2 = 洪瑞 2026-09-30 成本 +20%，列表 $30.8 低于底线，第 73 批口径）；MC STI-110GE（$22.4）；SFP 待 Q-32；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：不动 — —
@@ -45,9 +45,9 @@ updated: 2026-10-25
 
 - **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「各种光产品 也有有名的牌子 / 从BTON买了很多 / 富通天下」；Elsa 箱：`to:congtyminhphuoc.vn` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(n)））** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：不动（非主攻区；J5：有证据再动） ｜ 通路：越南 非主攻 ｜ 节奏：不动 ｜ 证据：gmail_digest：out 0；用户表：「各种光产品 也有有名的牌子 / 从BTON买了很多 / 富通天下」；研究档 risks：亚太非主攻区；Gmail；无互动
 - **现状一句话**：越南光纤产品贸易商 Minh Phước（congtyminhphuoc.vn；tmphuocvn@gmail.com）。用户表（富通天下外贸数据）：「从 BTON 买了很多；各种光产品，也有有名的牌子」= 从同行大量进口光产品，非 Saga 成交；群发无互动。多品牌光产品贸易商 → 分销 20%。
-- **对方真实需求（有据）**：分销 20% 档：STC-228GP（2 SFP + 8 GE PoE，$30.8）；MC STI-110GE（$22.4）；SFP 待 Q-32
+- **对方真实需求（有据）**：分销 20% 档：STC-228GP（2 SFP + 8 GE PoE，$33.2 = 洪瑞 2026-09-30 成本 +20%，列表 $30.8 低于底线，第 73 批口径）；MC STI-110GE（$22.4）；SFP 待 Q-32
 - **断点 / 为什么停在这里**：亚太非主攻区；Gmail；无互动
-- **Saga 现在该推什么**：P1 **STC-228GP**（20% 档，按主表（研究档 saga_fit））——分销 20% 档：STC-228GP（2 SFP + 8 GE PoE，$30.8）；MC STI-110GE（$22.4）；SFP 待 Q-32
+- **Saga 现在该推什么**：P1 **STC-228GP**（20% 档，按主表（研究档 saga_fit））——分销 20% 档：STC-228GP（2 SFP + 8 GE PoE，$33.2 = 洪瑞 2026-09-30 成本 +20%，列表 $30.8 低于底线，第 73 批口径）；MC STI-110GE（$22.4）；SFP 待 Q-32
 - **下一步（具体）**：不动　—　—
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -93,8 +93,8 @@ updated: 2026-10-25
 - **近况信号**：
   - 已从 BTON 大量进口 → 价格带熟悉；2 SFP 交换机/MC 可配套
 - **风险/边界**：亚太非主攻区；Gmail；无互动
-- **Saga 对位结论**：P1 STC-228GP（20% 档）——分销 20% 档：STC-228GP（2 SFP + 8 GE PoE，$30.8）；MC STI-110GE（$22.4）；SFP 待 Q-32
-- **邮件切入句（英文）**：Chào anh/chị Minh Phước, next to the optical products you import: 2× SFP + 8× PoE switches at $30.8 EXW and gigabit media converters at $22.4, neutral packing, MOQ 1 — which items move fastest for you, so I can quote a first lot?
+- **Saga 对位结论**：P1 STC-228GP（20% 档）——分销 20% 档：STC-228GP（2 SFP + 8 GE PoE，$33.2 = 洪瑞 2026-09-30 成本 +20%，列表 $30.8 低于底线，第 73 批口径）；MC STI-110GE（$22.4）；SFP 待 Q-32
+- **邮件切入句（英文）**：Chào anh/chị Minh Phước, next to the optical products you import: 2× SFP + 8× PoE switches at $33.2 EXW and gigabit media converters at $22.4, neutral packing, MOQ 1 — which items move fastest for you, so I can quote a first lot?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -158,7 +158,7 @@ updated: 2026-10-25
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-228GP | 深挖对位：分销 20% 档：STC-228GP（2 SFP + 8 GE PoE，$30.8）；MC STI-110GE（$22.4）；SFP 待 Q-32 | $33.2 USD EXW（HRUI Realtek 线：洪瑞 2026-09-30 成本 + 20%（列表价 $30.8 隐含加价低于底线，第 73 批口径）；见 data/价格主表_HRUI.csv；汇率 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（经销/集成（类型待核）） |
+| **P1** | STC-228GP | 深挖对位：分销 20% 档：STC-228GP（2 SFP + 8 GE PoE，$33.2 = 洪瑞 2026-09-30 成本 +20%，列表 $30.8 低于底线，第 73 批口径）；MC STI-110GE（$22.4）；SFP 待 Q-32 | $33.2 USD EXW（HRUI Realtek 线：洪瑞 2026-09-30 成本 + 20%（列表价 $30.8 隐含加价低于底线，第 73 批口径）；见 data/价格主表_HRUI.csv；汇率 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（经销/集成（类型待核）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
@@ -212,7 +212,9 @@ updated: 2026-10-25
 ```text
 Hello,
 
-Thank you again for your earlier order with us - this is a short update rather than a cold mail. Next to the optical products you import: 2× SFP + 8× PoE switches at $30.8 EXW and gigabit media converters at $22.4, neutral packing, MOQ 1 — which items move fastest for you, so I can quote a first lot?
+Thank you again for your earlier order with us - this is a short update rather than a cold mail. Next to the optical products you import: 2× SFP + 8× PoE switches at $33.2 EXW and gigabit media converters at $22.4, neutral packing, MOQ 1 — which items move fastest for you, so I can quote a first lot?
+
+We supply an 8-port Gigabit PoE switch with 2 SFP and 2 copper uplinks (unmanaged, 120 W, PoE watchdog) - model STC-228GP - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $33.2 USD EXW (valid 15 days).
 
 If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 
@@ -220,8 +222,6 @@ Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
 https://sagatele.com/
 ```
-
-> 钩子句自带价（$30.8 / $22.4）与 P1 STC-228GP 档价（$33.2）不同：样板未并入 P1 段落，一封信一个价；发前按 ㉕ 核钩子句的价是否仍有效。
 
 > 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
 
