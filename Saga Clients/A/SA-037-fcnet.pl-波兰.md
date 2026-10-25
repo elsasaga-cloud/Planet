@@ -27,7 +27,7 @@ price_tier: 20%
 research: done
 site_snapshot: http_error  # 2026-10-21
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -44,7 +44,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-037` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未绑定（价格流：10G MC 65 USD →「much better price from different supplier」）** ｜ 类型：波兰进口分销（自有 logo 意向，用户表）——第三档；波兰次重点 ｜ 筛子：1 ｜ 停点：2025-04-22「We have much better price for this product from different supplier.」 ｜ 复活：非 MC 品类（管理型 PoE）上再试一次；MC 不再报 ｜ 通路：PL/EU ｜ 节奏：2025-02 → 2026-09 去信 24 封；最后来信 2025-04-22 ｜ 证据：k=5f2f240aad79e90d / 9e557e84dc8bdbf1 / 34b75cab2668542d
+- **绑定等级：未绑定（价格流：10G MC 65 USD →「much better price from different supplier」；Elsa 箱：`to:.pl` 穷举 24 条（2026-10-25，锚批 Bcc 头已读）未见 fcnet.pl → Elsa 箱从未发过本户，往来只在 S/A 箱（去 24 / 来 2）（第 74 批(f)））** ｜ 类型：波兰进口分销（自有 logo 意向，用户表）——第三档；波兰次重点 ｜ 筛子：1 ｜ 停点：2025-04-22「We have much better price for this product from different supplier.」 ｜ 复活：非 MC 品类（管理型 PoE）上再试一次；MC 不再报 ｜ 通路：PL/EU ｜ 节奏：2025-02 → 2026-09 去信 24 封；最后来信 2025-04-22 ｜ 证据：k=5f2f240aad79e90d / 9e557e84dc8bdbf1 / 34b75cab2668542d
 - **现状一句话**：FCNET 2025-04-18 问 10G MC 价格，Alan 报 65 USD（Marvell 芯片），04-22 回「别家价格好得多」。A 邮箱补齐后的新增线程里 FCNET 也只有这一段。
 - **对方真实需求（有据）**：10G MC（价格导向）。
 - **断点 / 为什么停在这里**：MC 是最同质化的品类，Marvell 溢价在这里没有故事；筛子正常工作。
@@ -306,12 +306,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-07**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-08**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 85）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 85）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

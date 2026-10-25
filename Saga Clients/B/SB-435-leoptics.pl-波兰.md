@@ -25,7 +25,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 3
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -42,7 +42,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-435` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A/S 邮箱 17 封 2025→2026，1 次记录打开，0 回；收件 biuro@leoptics.pl；主题多为「10G Enterprise SFP Switch、Industrial PoE Switch」）** ｜ 类型：光纤测试设备供应商（波兰，工业 FS 为副线） ｜ 筛子：1~2（1 次打开） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：PL 次级重点 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 17，Opened 标签 1（Simon 群发追踪）；用户表：「有几个工业FS；CWDM」；研究档 risks：主业光纤测试仪表（Saga 不做）：交换机为副线；CWDM 需求 Saga 不供
+- **绑定等级：未触达（A/S 邮箱 17 封 2025→2026，1 次记录打开，0 回；收件 biuro@leoptics.pl；主题多为「10G Enterprise SFP Switch、Industrial PoE Switch」；Elsa 箱：`to:.pl` 穷举 24 条（2026-10-25，锚批 Bcc 头已读）未见 leoptics.pl → Elsa 箱从未发过本户，往来只在 S/A 箱（去 17 / 来 0）（第 74 批(f)））** ｜ 类型：光纤测试设备供应商（波兰，工业 FS 为副线） ｜ 筛子：1~2（1 次打开） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：PL 次级重点 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 17，Opened 标签 1（Simon 群发追踪）；用户表：「有几个工业FS；CWDM」；研究档 risks：主业光纤测试仪表（Saga 不做）：交换机为副线；CWDM 需求 Saga 不供
 - **现状一句话**：波兰 Leoptics（光学/光纤测试设备供应商：PON 光功率计、光话机、可视故障定位仪，LEO- 自有型号；少量工业 FS（表内「有几个工业 FS / CWDM」「链接里是一个德国牌子」「可以着重跟一下」））；群发 8 次无回复。
 - **对方真实需求（有据）**：少量工业 FS（现德国品牌）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非 PoE STI-280GE（$46.6）作预算线；CWDM Saga 不供（Q-32）
 - **断点 / 为什么停在这里**：主业光纤测试仪表（Saga 不做）：交换机为副线；CWDM 需求 Saga 不供
@@ -287,12 +287,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 B，分数 41）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 B，分数 41）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

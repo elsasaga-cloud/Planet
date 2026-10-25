@@ -27,7 +27,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -44,7 +44,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-192` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：读而不回（A/S 邮箱 17 封 2025→2026，其中 2 封被打开，0 回；收件 kontakt@tvprzemyslowa.pl；被打开主题「10G Enterprise SFP Switch、Mini Industrial PoE Switch」）** ｜ 类型：— ｜ 筛子：2（有人在读，无人回） ｜ 停点：读而不回 = 内容未命中或没有当下需求 ｜ 复活：一封「只问一句」的短信给打开过的地址（不附图不附表）；WhatsApp 已加 → 唤醒走 WhatsApp 一句话，不走邮件 ｜ 通路：PL 次级重点 ｜ 节奏：一封；回了再说 ｜ 证据：gmail_digest：out 17，Opened 标签 2（Simon 群发追踪）；用户表：「（用户表字段）」；研究档 risks：波兰市场比价激烈（Dahua 8 口含税 ≈$65）；8 次跟进 0 回复
+- **绑定等级：读而不回（A/S 邮箱 17 封 2025→2026，其中 2 封被打开，0 回；收件 kontakt@tvprzemyslowa.pl；被打开主题「10G Enterprise SFP Switch、Mini Industrial PoE Switch」；Elsa 箱：`to:.pl` 穷举 24 条（2026-10-25，锚批 Bcc 头已读）未见 tvprzemyslowa.pl → Elsa 箱从未发过本户，往来只在 S/A 箱（去 17 / 来 0）（第 74 批(f)））** ｜ 类型：— ｜ 筛子：2（有人在读，无人回） ｜ 停点：读而不回 = 内容未命中或没有当下需求 ｜ 复活：一封「只问一句」的短信给打开过的地址（不附图不附表）；WhatsApp 已加 → 唤醒走 WhatsApp 一句话，不走邮件 ｜ 通路：PL 次级重点 ｜ 节奏：一封；回了再说 ｜ 证据：gmail_digest：out 17，Opened 标签 2（Simon 群发追踪）；用户表：「（用户表字段）」；研究档 risks：波兰市场比价激烈（Dahua 8 口含税 ≈$65）；8 次跟进 0 回复
 - **现状一句话**：波兰波兹南的 CCTV/监控专业网店与分销商：在售 PoE 交换机品牌含 Hikvision（DS-3E0310P-E/M 8 口）、Dahua（PFS3009-8ET1GT-96 8 口 246 zł 净价）、IDIS（DH-2112PF 10+2 SFP 150W 1,782.86 zł 净）、Eneo（IAR-7SG1016MMA 16 PoE + 4 SFP 270W 1,876.07 zł）、ATTE（IPUPS-5-11-F 带缓冲电源 499 zł）。地址 Kórnicka 30 / Bodawska 11, Poznań；+48 61 875 04 76；kontakt@tvprzemyslowa.pl。用户表：WhatsApp 已加，8 次跟进 0 回复。
 - **对方真实需求（有据）**：网店/分销 20% 档：STC-28DGGPM（$80.7，8 GE PoE+ + 2 SFP 管理）填补 Dahua 百兆与 IDIS/Eneo 高价之间的千兆管理空档；16 口 STI-21616GP；24 口 STC-424DGGPM-280W
 - **断点 / 为什么停在这里**：波兰市场比价激烈（Dahua 8 口含税 ≈$65）；8 次跟进 0 回复
@@ -305,12 +305,12 @@ Saga Telecom · sagatele.com
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 49）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 49）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

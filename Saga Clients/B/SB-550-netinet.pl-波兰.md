@@ -25,7 +25,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -42,7 +42,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-550` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A 邮箱 17 封 2025→2026，1 次记录打开，0 回；收件 info@netinet.pl, marek.niewczas@netinet.pl；主题多为「10G Enterprise SFP Switch、L3 Managed Switch」）** ｜ 类型：IT 分销商（波兰，Intellinet 代理，用户着重） ｜ 筛子：1~2（1 次打开） ｜ 停点：17 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：PL 次级重点 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 17，Opened 标签 1（Simon 群发追踪）；用户表：「SFP MC PoE FS 都是intellinet这个牌子的」；研究档 risks：Intellinet 代理（品牌粘性，IC Intracom 自有 ODM 链）；8 次无回复 → 改向 GM 具名首触（用户标「可以着重跟一下」）
+- **绑定等级：未触达（A 邮箱 17 封 2025→2026，1 次记录打开，0 回；收件 info@netinet.pl, marek.niewczas@netinet.pl；主题多为「10G Enterprise SFP Switch、L3 Managed Switch」；Elsa 箱：`to:.pl` 穷举 24 条（2026-10-25，锚批 Bcc 头已读）未见 netinet.pl → Elsa 箱从未发过本户，往来只在 S/A 箱（去 17 / 来 0）（第 74 批(f)））** ｜ 类型：IT 分销商（波兰，Intellinet 代理，用户着重） ｜ 筛子：1~2（1 次打开） ｜ 停点：17 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：PL 次级重点 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 17，Opened 标签 1（Simon 群发追踪）；用户表：「SFP MC PoE FS 都是intellinet这个牌子的」；研究档 risks：Intellinet 代理（品牌粘性，IC Intracom 自有 ODM 链）；8 次无回复 → 改向 GM 具名首触（用户标「可以着重跟一下」）
 - **现状一句话**：波兰 Netinet（30 余年 IT 分销商：网络方案、IT 技术与配件；「Reprezentant wybranych marek」；表内「SFP MC PoE FS 都是 Intellinet 这个牌子的」「可以着重跟一下」；KP Marek Niewczas（GM））；群发 8 次无回复。
 - **对方真实需求（有据）**：Intellinet 线（IC Intracom）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）、工业 8 GE + 2 SFP STI-280GE（$46.6）作白牌预算位；SFP Saga 不供
 - **断点 / 为什么停在这里**：Intellinet 代理（品牌粘性，IC Intracom 自有 ODM 链）；8 次无回复 → 改向 GM 具名首触（用户标「可以着重跟一下」）
@@ -297,12 +297,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 38）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 38）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

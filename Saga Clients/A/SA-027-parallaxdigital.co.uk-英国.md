@@ -27,7 +27,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -44,7 +44,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-027` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未绑定（两次回复都是「不需要」：有 $124 的 Cisco 52 口库存；客户只要 24V 或 48V 单一版本）** ｜ 类型：英国 1 人 OEM/ODM 品牌商（消防探测网络用工业交换机，已买中国 E-link）；Jeff Ferrier ｜ 筛子：1 ｜ 停点：2024-06-03「I have a large number of cisco 52 port gigabit layer 3 switches that cost me $124 each」；2024-10-24「Customers usually want one or the other and not a combo」 ｜ 复活：其 E-link 供货出问题；或消防网络项目要 DIN 工业非管理 ｜ 通路：UK ｜ 节奏：2024-06 → 2026-09 去信 26 封；最后来信 2024-10-24 ｜ 证据：k=f38bda5c25315e89 / c935ae4f928d5620 / d86526863f22737d
+- **绑定等级：未绑定（两次回复都是「不需要」：有 $124 的 Cisco 52 口库存；客户只要 24V 或 48V 单一版本；Elsa 箱：`to:.uk` 穷举 34 条（2026-10-25，锚批 Bcc 头已读）未见 parallaxdigital.co.uk → Elsa 箱从未发过本户，往来只在 S/A 箱（去 26 / 来 2）（第 74 批(f)））** ｜ 类型：英国 1 人 OEM/ODM 品牌商（消防探测网络用工业交换机，已买中国 E-link）；Jeff Ferrier ｜ 筛子：1 ｜ 停点：2024-06-03「I have a large number of cisco 52 port gigabit layer 3 switches that cost me $124 each」；2024-10-24「Customers usually want one or the other and not a combo」 ｜ 复活：其 E-link 供货出问题；或消防网络项目要 DIN 工业非管理 ｜ 通路：UK ｜ 节奏：2024-06 → 2026-09 去信 26 封；最后来信 2024-10-24 ｜ 证据：k=f38bda5c25315e89 / c935ae4f928d5620 / d86526863f22737d
 - **现状一句话**：Jeff 两次回复都给出了真实市场信息：二手/库存 Cisco 52 口 L3 只要 $124（Saga 的 300 USD 新机没有位置）；PoE 客户要么 24V 要么 48V，不要自动切换的组合款（Simon 坚持「这是卖点」）。此后 20 封群发无回。
 - **对方真实需求（有据）**：消防探测网络用小型工业交换机（E-link 5 电口类）；二手 Cisco 覆盖机架需求。
 - **断点 / 为什么停在这里**：客户已经说清楚了什么不要；Saga 继续发的是同类。
@@ -336,12 +336,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-07**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-08**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 89）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 89）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

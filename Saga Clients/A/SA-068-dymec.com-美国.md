@@ -27,7 +27,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -44,7 +44,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-068` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未绑定（4 次人工回复全部是否定或追问，没有一次走到规格书之后）** ｜ 类型：美国 ITS/工业自有品牌（KY 系列；Economy 线 Vitesse）——目标序列第一档 OEM 品牌商；**与 BlueWarrior（SA-050）同一组织**（sales@bluewarrior.com 自动回复 = Tom West / Thom Sherer / DYMEC 电话） ｜ 筛子：1 ｜ 停点：发错产品三次：2024-07 24 口被动 PoE「Very low poe budget. Nothing of interest」；2025-09 企业 SFP 交换机「not our market」；2026-06 10G L3（商用 0–40℃）「for our market your operating temp does not go high enough」——DYMEC 市场只认 -40~+75℃ ｜ 复活：只发工业温度款并把温度行放在第一句：STI-480XGGM（LT-IS6312XG-4XS8GT，8GE+4×10G SFP+，-40~+75℃）/ STI-448XGGGM（LT-IS6316XG-4XS4GX8GT）；不承诺 TAA/NSA/UL ｜ 通路：US（关税自理；无 UL） ｜ 节奏：2024-07 → 2026-09 去信 29 封（每 1–2 月一封群发）；最后人工来信 2026-06-01 ｜ 证据：k=9963340096ada5bb / 444cc4b308af1ab6 / 1568af8ab7b7c8ba / cf8437996c751467 / 2454f781f4a01510 / 372ede3d101a3791；第 19 批回补来信原文 0 条（gmail_s/gmail_a）
+- **绑定等级：未绑定（4 次人工回复全部是否定或追问，没有一次走到规格书之后；Elsa 箱：`to:dymec.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 29 / 来 8）（第 74 批(g)））** ｜ 类型：美国 ITS/工业自有品牌（KY 系列；Economy 线 Vitesse）——目标序列第一档 OEM 品牌商；**与 BlueWarrior（SA-050）同一组织**（sales@bluewarrior.com 自动回复 = Tom West / Thom Sherer / DYMEC 电话） ｜ 筛子：1 ｜ 停点：发错产品三次：2024-07 24 口被动 PoE「Very low poe budget. Nothing of interest」；2025-09 企业 SFP 交换机「not our market」；2026-06 10G L3（商用 0–40℃）「for our market your operating temp does not go high enough」——DYMEC 市场只认 -40~+75℃ ｜ 复活：只发工业温度款并把温度行放在第一句：STI-480XGGM（LT-IS6312XG-4XS8GT，8GE+4×10G SFP+，-40~+75℃）/ STI-448XGGGM（LT-IS6316XG-4XS4GX8GT）；不承诺 TAA/NSA/UL ｜ 通路：US（关税自理；无 UL） ｜ 节奏：2024-07 → 2026-09 去信 29 封（每 1–2 月一封群发）；最后人工来信 2026-06-01 ｜ 证据：k=9963340096ada5bb / 444cc4b308af1ab6 / 1568af8ab7b7c8ba / cf8437996c751467 / 2454f781f4a01510 / 372ede3d101a3791；第 19 批回补来信原文 0 条（gmail_s/gmail_a）
 - **现状一句话**：DYMEC 是最符合 Saga「自有品牌工业交换机」画像的美国客户之一，Thom Sherer 两年里回了 4 次，每次都是一句话把 Saga 发去的型号否掉：PoE 预算太低、不是我们的市场、工作温度不够。2026-05-29 他主动问「What is the operating temp?」，Alan 答「0ºC to 40ºC」（那封群发是商用 10G L3）→「does not go high enough」。Saga 工业系列全部 -40~+75℃，但从未把工业 10G 款发给他。
 - **对方真实需求（有据）**：ITS 机柜用工业温度 L2/L3 交换机（10G 上联、PoE bt、DIN/机架），部分 SKU 要 TAA；经济线在用 Vitesse。
 - **断点 / 为什么停在这里**：群发用同一封信打所有人——对 DYMEC 这种只看温度行的买家，商用款等于自我淘汰。对位比频率重要。
@@ -312,12 +312,12 @@ Alan
 
 ## 下次复核
 
-- **2026-11-07**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-08**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 76）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 76）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

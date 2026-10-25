@@ -1,118 +1,118 @@
 {
-  "code": "SA-005",
-  "name_official": "Boecek Sec（boecek.de，用户表原值）",
-  "website_status": "未核实（公开搜索未检索到 boecek.de 相关页面）",
-  "summary": "德国安防客户（用户表：买了 5 电口样品，需要一起买工业电源，问了 2 款 2.5G 价格，对机架式工业管理交换机有兴趣，需要支持…）。网页搜索未找到该域名的公开页面，公司规模/类型待用户侧确认。",
-  "type": "安防集成/经销（据用户备注推断）",
-  "size": "未知",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "检索记录",
-      "claim": "2026-10-21 用 web_search 查「boecek.de Böcek Sicherheitstechnik Germany」无相关结果（返回同名无关公司 Sicherheitstechnik Bock / boeck GmbH）",
-      "quote": "（无可引用原文）",
-      "url": "https://www.google.com/search?q=boecek.de",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "核查",
-      "claim": "boecek.de 不可访问；无公开页面",
-      "quote": "Failed to fetch page (HTTP 500)",
-      "url": "https://boecek.de/",
-      "date": "2026-10-21"
-    }
-  ],
-  "notes": "A 级维持：有样品购买 + 具体型号问价（用户一手证据）；网页无法核实不扣分，但「最大未知」= 公司实体与规模。",
-  "researched_at": "2026-10-21",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "深挖 v1（受限：无公开网页）"
+ "code": "SA-005",
+ "name_official": "Boecek Sec（boecek.de，用户表原值）",
+ "website_status": "未核实（公开搜索未检索到 boecek.de 相关页面）",
+ "summary": "德国安防客户（用户表：买了 5 电口样品，需要一起买工业电源，问了 2 款 2.5G 价格，对机架式工业管理交换机有兴趣，需要支持…）。网页搜索未找到该域名的公开页面，公司规模/类型待用户侧确认。",
+ "type": "安防集成/经销（据用户备注推断）",
+ "size": "未知",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "检索记录",
+   "claim": "2026-10-21 用 web_search 查「boecek.de Böcek Sicherheitstechnik Germany」无相关结果（返回同名无关公司 Sicherheitstechnik Bock / boeck GmbH）",
+   "quote": "（无可引用原文）",
+   "url": "https://www.google.com/search?q=boecek.de",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "legal_name": "Boecek Sec（用户表原值；法定名称待补证）",
-    "hq": "德国（用户表）",
-    "other": "boecek.de 2026-10-21 返回 HTTP 500；搜索引擎无该域名/公司的公开页面——属无公开网页的小型安防/网络安装商"
-  },
-  "business_lines": [
-    "（用户表推断）安防/网络安装：买 5 电口工业样品 + 工业电源，问 2.5G 机型，要机架式工业管理型（CLI）"
-  ],
-  "products_seen": [
-    {
-      "brand": "（样品）",
-      "model": "5 电口工业交换机 + 工业电源",
-      "spec": "展会现场采购的样品；关注 2.5G 与机架式工业管理型，要求 CLI",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "用户表",
-      "saga": "STI-144GP"
-    }
-  ],
-  "channels": {
-    "直邮": "boecek@boecek.de（用户表）",
-    "网站": "boecek.de（2026-10-21 HTTP 500，不可用）"
-  },
-  "signals": [
-    "用户表：展会结束时一直在扫货；在意运费与进口税；知道 Aliexpress（价格敏感、对比渠道）"
-  ],
-  "risks": [
-    "无公开网页、无 LinkedIn → 规模与资质无法核实，按「小型安装商/个体」对待",
-    "价格敏感且会对比 Aliexpress，报价必须给 EXW + 明确运费/关税说明"
-  ],
-  "saga_fit": {
-    "p1": "STI-144GP",
-    "tier": 25,
-    "why": "已买 5 电口工业样品 → 复购口径先给 4+1 口工业 PoE（STI-144GP）与 8+2 口工业管理型（STI-288DGGPM，支持 CLI/Web）；2.5G 需求用 STC-424XGGPM-280W（2.5G 下行待核）仅作备选"
-  },
-  "email_hook": "Since you took the 5-port industrial samples with the DIN power supply, the natural next step is the 8-port managed DIN unit with CLI and the 4+1 PoE version, both quoted EXW so the freight and import-duty side is transparent.",
-  "mail_review": {
-    "binding": {
-      "level": "未绑定（邮件 15 封 0 回、Opened 0；用户表「样品购买 + 型号问价」无 PI/邮件痕迹）",
-      "type": "德国安防（boecek.de，实体不可核）",
-      "sieve": "0（邮件层无人工回复）",
-      "stop": "邮件从未被打开",
-      "revive": "核实实体后再定",
-      "lane": "DE",
-      "cadence": "不主动",
-      "evidence": "邮件：去信 15 封（2025-04-14 → 2026-09-23），来信 0；Opened 标签 0 次；收件人 boecek@boecek.de"
-    },
-    "situation": "15 封邮件 0 打开 = 地址可能不活；用户表的样品购买在 PI 包里找不到。",
-    "need": "5 口工业样机之后的 8 口管理 DIN / 4+1 PoE（用户表）",
-    "breakpoint": "触达无效 + 证据缺失。",
-    "saga_now": {
-      "p1": "STI-288GPM（8 口管理 DIN）+ STI-144GP（4+1 PoE）",
-      "tier": 25,
-      "price": "锚价：STI-288GPM $82.2（25% 档）（第 72 批 2026-10-24）；—；群发里他已看到的价（续）：2026-08-18 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-06-09 $300（48 Port PoE Managed Switch）、2025-10-06 $280（10G Enterprise SFP Switch）",
-      "why": "展会扫货后拿了 5 口工业样机 + DIN 电源 → 顺位是 8 口管理 DIN 与 4+1 PoE；他在意运费/关税 → 只报 EXW",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）",
-      "channel": "A 邮箱 → boecek@（先核地址是否有效；无具名 KP）",
-      "action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频",
-      "one_question": "Since you took the 5-port industrial samples with the DIN power supply, the natural next step is the 8-port managed DIN unit with CLI and the 4+1 PoE version, both quoted EXW so the freight and import-duty side is transparent. Are the 5-port samples still in service, and is the 8-port managed DIN unit worth a current quote? Reference: STI-288GPM at $82.2 USD EXW (MOQ 1, 15-day validity)."
-    },
-    "facts": [
-      {
-        "date": "2025-04-14",
-        "dir": "去",
-        "who": "Saga（Alan）",
-        "quote": "「16 Port Ethernet Switch」——A 邮箱对 boecek@boecek.de 的第 1 封群发",
-        "why": "A 级（人工定）却从未有任何来信；15 封群发 2025-04→2026-09 无一次打开记录",
-        "k": "f5b9385c457b416c"
-      },
-      {
-        "date": "2026-09-23",
-        "dir": "去",
-        "who": "Saga（Alan）",
-        "quote": "「Managed PoE Switches」——最后一封群发，仍是 boecek@ 公用地址",
-        "why": "同一地址打了 17 个月；换人（找具名采购）比再发更有用",
-        "k": "7c09d3b669698238"
-      }
-    ],
-    "proof_gaps": [
-      "用户表「样品购买」无 PI；邮件 0 打开"
-    ],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "核查",
+   "claim": "boecek.de 不可访问；无公开页面",
+   "quote": "Failed to fetch page (HTTP 500)",
+   "url": "https://boecek.de/",
+   "date": "2026-10-21"
   }
+ ],
+ "notes": "A 级维持：有样品购买 + 具体型号问价（用户一手证据）；网页无法核实不扣分，但「最大未知」= 公司实体与规模。",
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "深挖 v1（受限：无公开网页）"
+ },
+ "company_facts": {
+  "legal_name": "Boecek Sec（用户表原值；法定名称待补证）",
+  "hq": "德国（用户表）",
+  "other": "boecek.de 2026-10-21 返回 HTTP 500；搜索引擎无该域名/公司的公开页面——属无公开网页的小型安防/网络安装商"
+ },
+ "business_lines": [
+  "（用户表推断）安防/网络安装：买 5 电口工业样品 + 工业电源，问 2.5G 机型，要机架式工业管理型（CLI）"
+ ],
+ "products_seen": [
+  {
+   "brand": "（样品）",
+   "model": "5 电口工业交换机 + 工业电源",
+   "spec": "展会现场采购的样品；关注 2.5G 与机架式工业管理型，要求 CLI",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "用户表",
+   "saga": "STI-144GP"
+  }
+ ],
+ "channels": {
+  "直邮": "boecek@boecek.de（用户表）",
+  "网站": "boecek.de（2026-10-21 HTTP 500，不可用）"
+ },
+ "signals": [
+  "用户表：展会结束时一直在扫货；在意运费与进口税；知道 Aliexpress（价格敏感、对比渠道）"
+ ],
+ "risks": [
+  "无公开网页、无 LinkedIn → 规模与资质无法核实，按「小型安装商/个体」对待",
+  "价格敏感且会对比 Aliexpress，报价必须给 EXW + 明确运费/关税说明"
+ ],
+ "saga_fit": {
+  "p1": "STI-144GP",
+  "tier": 25,
+  "why": "已买 5 电口工业样品 → 复购口径先给 4+1 口工业 PoE（STI-144GP）与 8+2 口工业管理型（STI-288DGGPM，支持 CLI/Web）；2.5G 需求用 STC-424XGGPM-280W（2.5G 下行待核）仅作备选"
+ },
+ "email_hook": "Since you took the 5-port industrial samples with the DIN power supply, the natural next step is the 8-port managed DIN unit with CLI and the 4+1 PoE version, both quoted EXW so the freight and import-duty side is transparent.",
+ "mail_review": {
+  "binding": {
+   "level": "未绑定（邮件 15 封 0 回、Opened 0；用户表「样品购买 + 型号问价」无 PI/邮件痕迹；Elsa 箱：`to:.de` 穷举 29 条（2026-10-25，锚批 Bcc 头已读）未见 boecek.de → Elsa 箱从未发过本户，往来只在 S/A 箱（去 15 / 来 0）（第 74 批(f)））",
+   "type": "德国安防（boecek.de，实体不可核）",
+   "sieve": "0（邮件层无人工回复）",
+   "stop": "邮件从未被打开",
+   "revive": "核实实体后再定",
+   "lane": "DE",
+   "cadence": "不主动",
+   "evidence": "邮件：去信 15 封（2025-04-14 → 2026-09-23），来信 0；Opened 标签 0 次；收件人 boecek@boecek.de"
+  },
+  "situation": "15 封邮件 0 打开 = 地址可能不活；用户表的样品购买在 PI 包里找不到。",
+  "need": "5 口工业样机之后的 8 口管理 DIN / 4+1 PoE（用户表）",
+  "breakpoint": "触达无效 + 证据缺失。",
+  "saga_now": {
+   "p1": "STI-288GPM（8 口管理 DIN）+ STI-144GP（4+1 PoE）",
+   "tier": 25,
+   "price": "锚价：STI-288GPM $82.2（25% 档）（第 72 批 2026-10-24）；—；群发里他已看到的价（续）：2026-08-18 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-06-09 $300（48 Port PoE Managed Switch）、2025-10-06 $280（10G Enterprise SFP Switch）",
+   "why": "展会扫货后拿了 5 口工业样机 + DIN 电源 → 顺位是 8 口管理 DIN 与 4+1 PoE；他在意运费/关税 → 只报 EXW",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）",
+   "channel": "A 邮箱 → boecek@（先核地址是否有效；无具名 KP）",
+   "action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频",
+   "one_question": "Since you took the 5-port industrial samples with the DIN power supply, the natural next step is the 8-port managed DIN unit with CLI and the 4+1 PoE version, both quoted EXW so the freight and import-duty side is transparent. Are the 5-port samples still in service, and is the 8-port managed DIN unit worth a current quote? Reference: STI-288GPM at $82.2 USD EXW (MOQ 1, 15-day validity)."
+  },
+  "facts": [
+   {
+    "date": "2025-04-14",
+    "dir": "去",
+    "who": "Saga（Alan）",
+    "quote": "「16 Port Ethernet Switch」——A 邮箱对 boecek@boecek.de 的第 1 封群发",
+    "why": "A 级（人工定）却从未有任何来信；15 封群发 2025-04→2026-09 无一次打开记录",
+    "k": "f5b9385c457b416c"
+   },
+   {
+    "date": "2026-09-23",
+    "dir": "去",
+    "who": "Saga（Alan）",
+    "quote": "「Managed PoE Switches」——最后一封群发，仍是 boecek@ 公用地址",
+    "why": "同一地址打了 17 个月；换人（找具名采购）比再发更有用",
+    "k": "7c09d3b669698238"
+   }
+  ],
+  "proof_gaps": [
+   "用户表「样品购买」无 PI；邮件 0 打开"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

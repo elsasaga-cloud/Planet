@@ -1,184 +1,184 @@
 {
-  "code": "SA-028",
-  "name_official": "Sewell Development Corp.（Sewell Direct, Orem, Utah）",
-  "website_status": "在线",
-  "summary": "美国犹他州 Orem 的消费类 AV 连接产品公司（1983 年成立，自有品牌 Silverback/Deadbolt/Salt Labs 等，直营 + Amazon/Newegg 销售），规模口径 17–200 人、营收 $1–10M 不等。用户表：买 PoE 电源、常下单（成交客户）。",
-  "type": "品牌商/电商（消费 AV 连接；PoE 电源复购客户）",
-  "size": "51–200 人（LinkedIn）/ 17 人（RocketReach）；$6.5M（RocketReach）",
-  "brands_seen": [
-    "Silverback by Sewell",
-    "Deadbolt by Sewell",
-    "Salt Labs"
-  ],
-  "evidence": [
-    {
-      "kind": "第三方（LinkedIn）",
-      "claim": "定位：产品型公司，设计/制造/直销，自有品牌",
-      "quote": "Sewell Development Corp. is a product-focused company specializing in design, manufacturing and a streamlined sales process … Silverback by Sewell and Deadbolt by Sewell brands … Company size: 51-200 employees · Headquarters: Orem, UT · Founded: 1983",
-      "url": "https://www.linkedin.com/company/sewelldirect.com",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "第三方（BBB）",
-      "claim": "管理层",
-      "quote": "Business Management: - Mr. David Sewell, CEO",
-      "url": "https://www.bbb.org/utah/business-reviews/computer-hardware/sewell-development-corp-in-orem-ut-15000003",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网",
-      "claim": "在售 Raven PoE Injector（af，短路保护）",
-      "quote": "The Raven PoE Injector can easily connect any IEEE 802.3af-compliant device to a non-PoE LAN switch port … protection … overloads over 450 mA and high voltages exceeding 52V.",
-      "url": "https://sewelldirect.com/products/raven-poe-injector",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "电商",
-      "claim": "Amazon 在售 Sewell PoE Injector 50V af（SW-29532）",
-      "quote": "Sewell PoE Injector 50V, IEEE802.3af , With Power Supply … Mfr Part Number · SW-29532",
-      "url": "https://www.amazon.com/Sewell-Injector-IEEE802-3af-Power-Supply/dp/B005582ICU",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "David Sewell",
-      "role": "CEO（BBB 口径）",
-      "email": "",
-      "phone": "+1 801-356-3823",
-      "source": "https://www.bbb.org/utah/business-reviews/computer-hardware/sewell-development-corp-in-orem-ut-15000003"
-    }
-  ],
-  "notes": "A 确认（成交 + 复购）：维护为主，顺带推 PoE 注入器/小 PoE 交换机作为其 AV 线配套；美国区注意 FCC 标识与中性包装。",
-  "researched_at": "2026-10-21",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "深挖 v1"
+ "code": "SA-028",
+ "name_official": "Sewell Development Corp.（Sewell Direct, Orem, Utah）",
+ "website_status": "在线",
+ "summary": "美国犹他州 Orem 的消费类 AV 连接产品公司（1983 年成立，自有品牌 Silverback/Deadbolt/Salt Labs 等，直营 + Amazon/Newegg 销售），规模口径 17–200 人、营收 $1–10M 不等。用户表：买 PoE 电源、常下单（成交客户）。",
+ "type": "品牌商/电商（消费 AV 连接；PoE 电源复购客户）",
+ "size": "51–200 人（LinkedIn）/ 17 人（RocketReach）；$6.5M（RocketReach）",
+ "brands_seen": [
+  "Silverback by Sewell",
+  "Deadbolt by Sewell",
+  "Salt Labs"
+ ],
+ "evidence": [
+  {
+   "kind": "第三方（LinkedIn）",
+   "claim": "定位：产品型公司，设计/制造/直销，自有品牌",
+   "quote": "Sewell Development Corp. is a product-focused company specializing in design, manufacturing and a streamlined sales process … Silverback by Sewell and Deadbolt by Sewell brands … Company size: 51-200 employees · Headquarters: Orem, UT · Founded: 1983",
+   "url": "https://www.linkedin.com/company/sewelldirect.com",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "legal_name": "Sewell Development Corp.（Sewell Direct）",
-    "founded": "1983",
-    "hq": "Orem, Utah, USA",
-    "staff": "17–200（口径不一）",
-    "revenue": "$1–10M（口径不一）",
-    "other": "自有品牌 Silverback / Deadbolt / Salt Labs；直营站 + Amazon/Newegg"
+  {
+   "kind": "第三方（BBB）",
+   "claim": "管理层",
+   "quote": "Business Management: - Mr. David Sewell, CEO",
+   "url": "https://www.bbb.org/utah/business-reviews/computer-hardware/sewell-development-corp-in-orem-ut-15000003",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "消费/商用 AV 连接产品（HDMI/USB/音频）",
-    "网络配件：PoE 注入器与电源（Raven PoE Injector、SW-29532 50V af 注入器）",
-    "Amazon 渠道零售"
-  ],
-  "products_seen": [
-    {
-      "brand": "Sewell",
-      "model": "Raven PoE Injector",
-      "spec": "802.3af 单口注入器，短路保护 >450mA/52V；用于 AP/IP 话机/摄像机",
-      "url": "https://sewelldirect.com/products/raven-poe-injector",
-      "date": "2026-10-21",
-      "saga": "STI-144GP"
-    },
-    {
-      "brand": "Sewell",
-      "model": "SW-29532 PoE Injector 50V",
-      "spec": "IEEE802.3af，10/100，带电源，Amazon ASIN B005582ICU",
-      "url": "https://www.amazon.com/Sewell-Injector-IEEE802-3af-Power-Supply/dp/B005582ICU",
-      "date": "2026-10-21",
-      "saga": "—"
-    }
-  ],
-  "channels": {
-    "网站": "https://sewelldirect.com/",
-    "直邮": "susan@sewelldev.com（财务，用户表）/ pernell@sewelldirect.com（CEO，用户表）/ service@sewelldirect.com",
-    "Amazon": "品牌店 Sewell"
+  {
+   "kind": "官网",
+   "claim": "在售 Raven PoE Injector（af，短路保护）",
+   "quote": "The Raven PoE Injector can easily connect any IEEE 802.3af-compliant device to a non-PoE LAN switch port … protection … overloads over 450 mA and high voltages exceeding 52V.",
+   "url": "https://sewelldirect.com/products/raven-poe-injector",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "用户表：常下单买 PoE 电源（复购客户）",
-    "Amazon 在售 PoE 注入器仍为 10/100 af 规格——存在千兆/at 升级空间"
-  ],
-  "risks": [
-    "消费电商价格战，量大价低；注入器不在 Saga 核心线（需 SmartByte 代采，标注）",
-    "UL/FCC：美国零售电源类需 UL 认证，Saga 无 UL → 只能供 FCC/CE 的网络设备而非电源适配器"
-  ],
-  "saga_fit": {
-    "p1": "STI-144GP",
-    "tier": 20,
-    "why": "Sewell 在售 PoE 注入器为 10/100 af 单口 → 升级位是 4+1 千兆 PoE 小交换机（STI-144GP，电商档 20%）与 8 口 STC-28DGGPM；注入器/电源本身继续走其现有采购，Saga 不报电源"
-  },
-  "email_hook": "Next to the Raven injector line, a 5-port gigabit PoE switch at the price point you already buy PoE power at tends to be the easiest add-on SKU for an Amazon listing, so I am sending the 4+1 unit first.",
-  "mail_review": {
-    "binding": {
-      "level": "未绑定（邮件 20 封 0 回；brent@ 2025-04-02、brett@ 2025-05-01 永久退信——与「Opened」记录同日，这两次「打开」其实是退信；真正可能打开的只有 2025-10-13 一次；用户表「成交 + 复购」在 PI 包无 Sewell）",
-      "type": "美国 AV 连接品牌/电商（Sewell Direct，4 个收件人）",
-      "sieve": "0（邮件层无人工回复；两个具名地址已失效）",
-      "stop": "—",
-      "revive": "若成交属实应有 PI——先核",
-      "lane": "US",
-      "cadence": "季度",
-      "evidence": "邮件：去信 20 封（2025-04-02 → 2026-08-31），来信 0；Opened 标签 3 次（2025-04-02、2025-05-01、2025-10-13）；收件人 brent@sewelldirect.com, brett@sewelldirect.com, kelson@sewelldirect.com, pernell@sewelldirect.com, service@sewelldirect."
-    },
-    "situation": "4 个收件人、20 封、3 次打开；用户表称成交 + 复购但 PI 包 20 个客户里没有 Sewell。",
-    "need": "PoE 注入器/小 PoE 交换机（AV 配套）。",
-    "breakpoint": "证据冲突。",
-    "saga_now": {
-      "p1": "PoE 注入器 + STC-28DGGPM",
-      "tier": 30,
-      "price": "锚价：STC-024GP $22.3（洪瑞进价 +30%，Q-47）（第 72 批 2026-10-24）；—；群发里他已看到的价（续）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-05-01 $65（10G Media Converter）、2025-07-07 $300（48 Port PoE Managed Switch）、2025-09-25 $280（10G Enterprise SFP Switch）",
-      "why": "已打开的主题（3/20 封有打开记录）：「90W PoE Managed Switch」(2025-04-02)、「10G Media Converter」(2025-05-01)、「Managed Optical Bypass Switch」(2025-10-13) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）",
-      "channel": "LinkedIn David Sewell / sewelldirect.com 表单（brent@ / brett@ 2025 永久退信）",
-      "action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频",
-      "one_question": "Next to the Raven injector line, a 5-port gigabit PoE switch at the price point you already buy PoE power at tends to be the easiest add-on SKU for an Amazon listing, so I am sending the 4+1 unit first. Would a 4-PoE + 2-uplink gigabit desktop unit be worth a listing test next to the Raven injectors? Reference: STC-024GP at $22.3 USD EXW (MOQ 1, 15-day validity)."
-    },
-    "facts": [
-      {
-        "date": "2025-04-02",
-        "dir": "去",
-        "who": "Saga（群发）",
-        "quote": "「90W PoE Managed Switch」被打开（Mailtrack Opened 标签）",
-        "why": "唯一的互动痕迹",
-        "k": "65f347c97b5b0d0b"
-      },
-      {
-        "date": "2025-04-02",
-        "dir": "内",
-        "who": "Gmail 退信（A 邮箱）",
-        "quote": "brent@sewelldirect.com 永久退信：550 5.4.1 Recipient address rejected: Access denied.",
-        "why": "该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职",
-        "k": "gmail_a 25f8fdf0225fc9f9"
-      },
-      {
-        "date": "2025-05-01",
-        "dir": "去",
-        "who": "Saga（群发）",
-        "quote": "「10G Media Converter」被打开（Mailtrack Opened 标签）",
-        "why": "唯一的互动痕迹",
-        "k": "d759d1535e90b464"
-      },
-      {
-        "date": "2025-05-01",
-        "dir": "内",
-        "who": "Gmail 退信（A 邮箱）",
-        "quote": "brett@sewelldirect.com 永久退信：550 5.4.1 Recipient address rejected: Access denied. For more information see https://aka.ms/EXOSmtpErrors",
-        "why": "该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职",
-        "k": "gmail_a 5e9316441dacaabf"
-      },
-      {
-        "date": "2025-10-13",
-        "dir": "去",
-        "who": "Saga（群发）",
-        "quote": "「Managed Optical Bypass Switch」被打开（Mailtrack Opened 标签）",
-        "why": "唯一的互动痕迹",
-        "k": "868baaf6e6acfd0a"
-      }
-    ],
-    "proof_gaps": [
-      "「成交 + 复购」无 PI：请 Simon 确认是哪条通道"
-    ],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "电商",
+   "claim": "Amazon 在售 Sewell PoE Injector 50V af（SW-29532）",
+   "quote": "Sewell PoE Injector 50V, IEEE802.3af , With Power Supply … Mfr Part Number · SW-29532",
+   "url": "https://www.amazon.com/Sewell-Injector-IEEE802-3af-Power-Supply/dp/B005582ICU",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "David Sewell",
+   "role": "CEO（BBB 口径）",
+   "email": "",
+   "phone": "+1 801-356-3823",
+   "source": "https://www.bbb.org/utah/business-reviews/computer-hardware/sewell-development-corp-in-orem-ut-15000003"
+  }
+ ],
+ "notes": "A 确认（成交 + 复购）：维护为主，顺带推 PoE 注入器/小 PoE 交换机作为其 AV 线配套；美国区注意 FCC 标识与中性包装。",
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "深挖 v1"
+ },
+ "company_facts": {
+  "legal_name": "Sewell Development Corp.（Sewell Direct）",
+  "founded": "1983",
+  "hq": "Orem, Utah, USA",
+  "staff": "17–200（口径不一）",
+  "revenue": "$1–10M（口径不一）",
+  "other": "自有品牌 Silverback / Deadbolt / Salt Labs；直营站 + Amazon/Newegg"
+ },
+ "business_lines": [
+  "消费/商用 AV 连接产品（HDMI/USB/音频）",
+  "网络配件：PoE 注入器与电源（Raven PoE Injector、SW-29532 50V af 注入器）",
+  "Amazon 渠道零售"
+ ],
+ "products_seen": [
+  {
+   "brand": "Sewell",
+   "model": "Raven PoE Injector",
+   "spec": "802.3af 单口注入器，短路保护 >450mA/52V；用于 AP/IP 话机/摄像机",
+   "url": "https://sewelldirect.com/products/raven-poe-injector",
+   "date": "2026-10-21",
+   "saga": "STI-144GP"
+  },
+  {
+   "brand": "Sewell",
+   "model": "SW-29532 PoE Injector 50V",
+   "spec": "IEEE802.3af，10/100，带电源，Amazon ASIN B005582ICU",
+   "url": "https://www.amazon.com/Sewell-Injector-IEEE802-3af-Power-Supply/dp/B005582ICU",
+   "date": "2026-10-21",
+   "saga": "—"
+  }
+ ],
+ "channels": {
+  "网站": "https://sewelldirect.com/",
+  "直邮": "susan@sewelldev.com（财务，用户表）/ pernell@sewelldirect.com（CEO，用户表）/ service@sewelldirect.com",
+  "Amazon": "品牌店 Sewell"
+ },
+ "signals": [
+  "用户表：常下单买 PoE 电源（复购客户）",
+  "Amazon 在售 PoE 注入器仍为 10/100 af 规格——存在千兆/at 升级空间"
+ ],
+ "risks": [
+  "消费电商价格战，量大价低；注入器不在 Saga 核心线（需 SmartByte 代采，标注）",
+  "UL/FCC：美国零售电源类需 UL 认证，Saga 无 UL → 只能供 FCC/CE 的网络设备而非电源适配器"
+ ],
+ "saga_fit": {
+  "p1": "STI-144GP",
+  "tier": 20,
+  "why": "Sewell 在售 PoE 注入器为 10/100 af 单口 → 升级位是 4+1 千兆 PoE 小交换机（STI-144GP，电商档 20%）与 8 口 STC-28DGGPM；注入器/电源本身继续走其现有采购，Saga 不报电源"
+ },
+ "email_hook": "Next to the Raven injector line, a 5-port gigabit PoE switch at the price point you already buy PoE power at tends to be the easiest add-on SKU for an Amazon listing, so I am sending the 4+1 unit first.",
+ "mail_review": {
+  "binding": {
+   "level": "未绑定（邮件 20 封 0 回；brent@ 2025-04-02、brett@ 2025-05-01 永久退信——与「Opened」记录同日，这两次「打开」其实是退信；真正可能打开的只有 2025-10-13 一次；用户表「成交 + 复购」在 PI 包无 Sewell；Elsa 箱：`to:sewelldev.com OR to:sewelldirect.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 20 / 来 0）（第 74 批(g)））",
+   "type": "美国 AV 连接品牌/电商（Sewell Direct，4 个收件人）",
+   "sieve": "0（邮件层无人工回复；两个具名地址已失效）",
+   "stop": "—",
+   "revive": "若成交属实应有 PI——先核",
+   "lane": "US",
+   "cadence": "季度",
+   "evidence": "邮件：去信 20 封（2025-04-02 → 2026-08-31），来信 0；Opened 标签 3 次（2025-04-02、2025-05-01、2025-10-13）；收件人 brent@sewelldirect.com, brett@sewelldirect.com, kelson@sewelldirect.com, pernell@sewelldirect.com, service@sewelldirect."
+  },
+  "situation": "4 个收件人、20 封、3 次打开；用户表称成交 + 复购但 PI 包 20 个客户里没有 Sewell。",
+  "need": "PoE 注入器/小 PoE 交换机（AV 配套）。",
+  "breakpoint": "证据冲突。",
+  "saga_now": {
+   "p1": "PoE 注入器 + STC-28DGGPM",
+   "tier": 30,
+   "price": "锚价：STC-024GP $22.3（洪瑞进价 +30%，Q-47）（第 72 批 2026-10-24）；—；群发里他已看到的价（续）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-05-01 $65（10G Media Converter）、2025-07-07 $300（48 Port PoE Managed Switch）、2025-09-25 $280（10G Enterprise SFP Switch）",
+   "why": "已打开的主题（3/20 封有打开记录）：「90W PoE Managed Switch」(2025-04-02)、「10G Media Converter」(2025-05-01)、「Managed Optical Bypass Switch」(2025-10-13) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）",
+   "channel": "LinkedIn David Sewell / sewelldirect.com 表单（brent@ / brett@ 2025 永久退信）",
+   "action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频",
+   "one_question": "Next to the Raven injector line, a 5-port gigabit PoE switch at the price point you already buy PoE power at tends to be the easiest add-on SKU for an Amazon listing, so I am sending the 4+1 unit first. Would a 4-PoE + 2-uplink gigabit desktop unit be worth a listing test next to the Raven injectors? Reference: STC-024GP at $22.3 USD EXW (MOQ 1, 15-day validity)."
+  },
+  "facts": [
+   {
+    "date": "2025-04-02",
+    "dir": "去",
+    "who": "Saga（群发）",
+    "quote": "「90W PoE Managed Switch」被打开（Mailtrack Opened 标签）",
+    "why": "唯一的互动痕迹",
+    "k": "65f347c97b5b0d0b"
+   },
+   {
+    "date": "2025-04-02",
+    "dir": "内",
+    "who": "Gmail 退信（A 邮箱）",
+    "quote": "brent@sewelldirect.com 永久退信：550 5.4.1 Recipient address rejected: Access denied.",
+    "why": "该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职",
+    "k": "gmail_a 25f8fdf0225fc9f9"
+   },
+   {
+    "date": "2025-05-01",
+    "dir": "去",
+    "who": "Saga（群发）",
+    "quote": "「10G Media Converter」被打开（Mailtrack Opened 标签）",
+    "why": "唯一的互动痕迹",
+    "k": "d759d1535e90b464"
+   },
+   {
+    "date": "2025-05-01",
+    "dir": "内",
+    "who": "Gmail 退信（A 邮箱）",
+    "quote": "brett@sewelldirect.com 永久退信：550 5.4.1 Recipient address rejected: Access denied. For more information see https://aka.ms/EXOSmtpErrors",
+    "why": "该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职",
+    "k": "gmail_a 5e9316441dacaabf"
+   },
+   {
+    "date": "2025-10-13",
+    "dir": "去",
+    "who": "Saga（群发）",
+    "quote": "「Managed Optical Bypass Switch」被打开（Mailtrack Opened 标签）",
+    "why": "唯一的互动痕迹",
+    "k": "868baaf6e6acfd0a"
+   }
+  ],
+  "proof_gaps": [
+   "「成交 + 复购」无 PI：请 Simon 确认是哪条通道"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

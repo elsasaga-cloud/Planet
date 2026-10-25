@@ -27,7 +27,7 @@ price_tier: 25%
 research: done
 site_snapshot: none
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -44,7 +44,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-171` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：轻度（Simon U28 定级；6 单 RMB ≈37k，2024-10 → 2026-07，货代走账）** ｜ 类型：泰国 CCTV 安防集成/零售（pbacctv.com；价格 + 现货流） ｜ 筛子：3（多次下单，WhatsApp 成交） ｜ 停点：无停点；小额高频，走国内货代与人民币 ｜ 复活：已在复购；下一级 = 让其官网/套餐页出现 Saga 型号（监控快照 pbacctv.com 目前为自有套餐） ｜ 通路：TH 已通（货代走账） ｜ 节奏：最后 PI 2026-07-06；WhatsApp 往来不在邮件（0 封） ｜ 证据：PI 包 6 单；监控 `data/customer_watch` SA-171 三源 HTTP 200
+- **绑定等级：轻度（Simon U28 定级；6 单 RMB ≈37k，2024-10 → 2026-07，货代走账；Elsa 箱：`to:pomnong9@gmail.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(g)））** ｜ 类型：泰国 CCTV 安防集成/零售（pbacctv.com；价格 + 现货流） ｜ 筛子：3（多次下单，WhatsApp 成交） ｜ 停点：无停点；小额高频，走国内货代与人民币 ｜ 复活：已在复购；下一级 = 让其官网/套餐页出现 Saga 型号（监控快照 pbacctv.com 目前为自有套餐） ｜ 通路：TH 已通（货代走账） ｜ 节奏：最后 PI 2026-07-06；WhatsApp 往来不在邮件（0 封） ｜ 证据：PI 包 6 单；监控 `data/customer_watch` SA-171 三源 HTTP 200
 - **现状一句话**：曼谷 PBA（Peeranun）：WhatsApp 客户，S/A 邮箱 0 封，证据全在 Drive PI 文件夹（6 单 ≈¥37k，2024-10 → 2026-07，货代走账）。首单是 12 个型号 21 台的全线试吃（HRUI 成本 ¥7,885，5 天交付），后续五单从中挑型号复购：STI-21616GP（2025-01 ×2 / 2025-08 ×2 / 2026-07 ×3）、STI-42424DGGPM（2025-01 ×2 / 2025-12 ×1）、10G 桌面系列 STC-15XGDGE / STC-80XGO / STC-108XGDGP（2025-09）。
 - **对方真实需求（有据）**：CCTV/安防集成商的项目件：16 口工业 PoE（STI-21616GP）是主力，24 口工业 PoE 管理（STI-42424DGGPM）作汇聚，10G 桌面/MC 作辅件；节奏 3–6 个月一单、每单 1–5 台。
 - **Saga 现在该推什么**：P1 **STI-21616GP（主力复购，¥1,050）；STI-42424DGGPM（汇聚，¥2,200）；Realtek 10G 桌面/光纤小机（STC-15XGDGE ¥238 / STC-80XGO ¥539 / STC-108XGDGP ¥413 / STC-18XGDGPW ¥462）**（RMB 货代走账（不走 USD 三档）% 档，绑定价（人民币，三年没动）：STI-21616GP ¥1,050（进 ¥952 → 9.3%，含运费 8.4%）；STI-21616DGGPM ¥1,460（进 ¥1,272 → 12.9%）；STI-42424DGGPM ¥2,200（进 ¥1,912 → 13.1%）；-U ¥2,400（进 ¥2,100 → 12.5%）；Realtek 10G 线 ≈16–17%。下一批按原价不动（Simon U28 绑定价）；若要回到底线：STI-21616GP Marvell 25% → ¥1,269——Simon 的决定，信里不提）——6 单、三年、两条供应线都买过；WhatsApp 直达；小额高频、毛利最薄
@@ -256,12 +256,12 @@ Khun Peeranun, when is the next STI-21616GP batch — still 2–3 pcs, or a bigg
 
 ## 下次复核
 
-- **2026-11-07**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-08**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 66）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 66）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -25,7 +25,7 @@ price_tier: 20%
 research: done
 site_snapshot: timeout  # 2026-10-21
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -42,7 +42,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-941` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A/S 邮箱 18 封 2025→2026，无记录打开，0 回；收件 ventes@gmidatabox.fr；主题多为「10G Enterprise SFP Switch、90W PoE Managed Switch」）** ｜ 类型：工业网络分销商（法国，3onedata/Moxa） ｜ 筛子：1（只收到群发） ｜ 停点：18 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：法国（欧洲全域主攻） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 18；用户表：「3旺 moxa等比较有名的牌子」；研究档 risks：品牌分销导向（Moxa 粘性、三旺价格基准低）；官网 timeout；8 次无回复，仅 ventes@
+- **绑定等级：未触达（A/S 邮箱 18 封 2025→2026，无记录打开，0 回；收件 ventes@gmidatabox.fr；主题多为「10G Enterprise SFP Switch、90W PoE Managed Switch」；Elsa 箱：`to:.fr` 穷举 14 条（2026-10-25，锚批 Bcc 头已读）未见 gmidatabox.fr → Elsa 箱从未发过本户，往来只在 S/A 箱（去 18 / 来 0）（第 74 批(f)））** ｜ 类型：工业网络分销商（法国，3onedata/Moxa） ｜ 筛子：1（只收到群发） ｜ 停点：18 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：法国（欧洲全域主攻） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 18；用户表：「3旺 moxa等比较有名的牌子」；研究档 risks：品牌分销导向（Moxa 粘性、三旺价格基准低）；官网 timeout；8 次无回复，仅 ventes@
 - **现状一句话**：法国 GMI Databox（工业网络分销商：三旺、Moxa 等知名品牌；官网 timeout）；群发 8 次无回复。
 - **对方真实需求（有据）**：三旺/Moxa 位预算替代 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、5 GE STI-050GE（$17.0）、8 PoE + 2 SFP STI-288GPM（$78.9）
 - **断点 / 为什么停在这里**：品牌分销导向（Moxa 粘性、三旺价格基准低）；官网 timeout；8 次无回复，仅 ventes@
@@ -274,12 +274,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 30）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 30）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

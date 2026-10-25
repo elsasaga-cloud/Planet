@@ -1,204 +1,204 @@
 {
-  "code": "SA-043",
-  "name_official": "ENTA SOURCE Co., Ltd.（เอ็นต้าซอร์ส, Bangkok, Thailand）",
-  "website_status": "在线",
-  "summary": "曼谷的网络与光纤设备进口分销商：工业交换机（DIN/机架）、工业 PoE、SFP（兼容 Cisco/HPE/Aruba 等，3 年保）、MC、HDMI over fiber、光纤无源件与 ODF，提供网络工程服务。用户表：A 已回复，兴趣工业 FS / SFP / MC / 机架 / 光猫，用自己的 logo，提到中科德能。",
-  "type": "进口分销商（自有 logo）",
-  "size": "未见人数（中小）",
-  "brands_seen": [
-    "中科德能",
-    "ENTA ETN/ETS（自有标）"
-  ],
-  "evidence": [
-    {
-      "kind": "官网",
-      "claim": "进口分销定位与产品线",
-      "quote": "ENTA SOURCE Co.,Ltd. นำเข้าและจำหน่ายอุปกรณ์ Network ทุกประเภท อาทิเช่น Media Converter, Switch, Router, SFP Transceiver … DIN-Rail Industrial Ethernet Switch … INDUSTRIAL POE SWITCH",
-      "url": "https://www.entasource.co.th/17430328/network",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网",
-      "claim": "联系方式",
-      "quote": "ENTA SOURCE CO., LTD. 11/72 Soi Phaholyothin 48 … Bangkok 10220 087-412-2552 … Sale@entasource.co.th",
-      "url": "https://www.entasource.co.th/17906637/network-service",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网",
-      "claim": "ETN 自有标工业交换机全系型号列表",
-      "quote": "Network Switch - ETN9065-4GX8GT - ETN9075-4GX8PGT - ETN9065-4GX8PGT - ETN9075-2GX16GT … ETN9075-2XG16PGT … ETN9075-8GX8GT - ETN9075-8GX8PGT - ETN9075-4GX24GT - ETN9075-4GX24PGT … ETN9065-1FX4TX-mini - ETN9065-5TX-mini",
-      "url": "https://www.entasource.co.th/17430331/industrial-switch",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网",
-      "claim": "ETS-ESI1022 口型",
-      "quote": "ETS-ESI1022 … 16*100Base-T, 2*100Base-Fx SC, 4*1000Base-FX SFP Port",
-      "url": "https://www.entasource.co.th/17430364/industrial-ethernet-switchets-esi1022",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网",
-      "claim": "进口分销定位与保修",
-      "quote": "ENTA SOURCE Co.,Ltd. นำเข้าและจำหน่ายอุปกรณ์ Network ทุกประเภท อาทิเช่น Media Converter, Switch, Router, SFP Transceiver ซึ่งอุปกรณ์ Network ที่เราจำหน่ายจะมีการรับประกันสินค้าหลังการขาย 1-3 ปี",
-      "url": "https://www.entasource.co.th/17430328/network",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "—",
-      "role": "销售（官网公开）",
-      "email": "Sale@entasource.co.th",
-      "phone": "+66 87 412 2552（LINE: lin.ee/mNnxD59）",
-      "source": "https://www.entasource.co.th/17906637/network-service"
-    }
-  ],
-  "notes": "A 确认（已回复 + 自有 logo + 工业线全品类分销）；P1 = STI-288DGGPM（工业 8 PoE 网管）+ STI-110GE（MC），20% 分销档，贴牌 30%。",
-  "researched_at": "2026-10-21",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "深挖 v2（官网 entasource.co.th 自有标 ETN 目录核对）"
+ "code": "SA-043",
+ "name_official": "ENTA SOURCE Co., Ltd.（เอ็นต้าซอร์ส, Bangkok, Thailand）",
+ "website_status": "在线",
+ "summary": "曼谷的网络与光纤设备进口分销商：工业交换机（DIN/机架）、工业 PoE、SFP（兼容 Cisco/HPE/Aruba 等，3 年保）、MC、HDMI over fiber、光纤无源件与 ODF，提供网络工程服务。用户表：A 已回复，兴趣工业 FS / SFP / MC / 机架 / 光猫，用自己的 logo，提到中科德能。",
+ "type": "进口分销商（自有 logo）",
+ "size": "未见人数（中小）",
+ "brands_seen": [
+  "中科德能",
+  "ENTA ETN/ETS（自有标）"
+ ],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "进口分销定位与产品线",
+   "quote": "ENTA SOURCE Co.,Ltd. นำเข้าและจำหน่ายอุปกรณ์ Network ทุกประเภท อาทิเช่น Media Converter, Switch, Router, SFP Transceiver … DIN-Rail Industrial Ethernet Switch … INDUSTRIAL POE SWITCH",
+   "url": "https://www.entasource.co.th/17430328/network",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "legal_name": "ENTA SOURCE Co., Ltd.（เอ็นต้าซอร์ส）",
-    "hq": "Bangkok, Thailand",
-    "other": "官网 entasource.co.th（另有 entasource.com 旧站）：自有标 **ETN90xx** 工业交换机全系（ETN9065 非管理 / ETN9075 管理 推断）：4GX8GT、4GX8PGT（PoE）、2GX16GT/PGT、2XG16GT/PGT（10G 上联）、4XG16GT/PGT、8GX16GT/PGT、8GX8GT/PGT、4GX24GT/PGT、8GT/8PGT/16GT/16PGT、mini 1FX1TX/1FX2TX/1FX4TX/5TX、2GX2GT、1GX4GT；ETS-ESI1008 / ESI1022（16×FE + 2×FX SC + 4×SFP）；光模块 1G–100G（3 年保，兼容 Cisco/Huawei/Aruba/Alcatel/Juniper）；保修 1–3 年"
+  {
+   "kind": "官网",
+   "claim": "联系方式",
+   "quote": "ENTA SOURCE CO., LTD. 11/72 Soi Phaholyothin 48 … Bangkok 10220 087-412-2552 … Sale@entasource.co.th",
+   "url": "https://www.entasource.co.th/17906637/network-service",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "工业交换机 / 工业 PoE（自有 logo）",
-    "兼容 SFP / MC / 光纤无源",
-    "网络工程服务",
-    "自有标 ETN 工业以太网/PoE 交换机（DIN + 机架）",
-    "自有标光模块 1G/10G/25G/40G/100G、DAC",
-    "Media Converter / 网络方案"
-  ],
-  "products_seen": [
-    {
-      "brand": "中科德能（现来源，自有标）",
-      "model": "工业 FS / MC / 机架",
-      "spec": "自己的标",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "用户表",
-      "saga": "STI-288DGGPM / STI-110GE"
-    },
-    {
-      "brand": "ENTA（ETN 自有标）",
-      "model": "ETN9075-4GX8PGT / ETN9065-4GX8PGT",
-      "spec": "4 SFP + 8 GE PoE 工业（管理/非管理）",
-      "url": "https://www.entasource.co.th/17430331/industrial-switch",
-      "date": "2026-10-21",
-      "saga": "STI-288DGGPM（8 PoE + 2 SFP；4 SFP 版需核）"
-    },
-    {
-      "brand": "ENTA（ETN 自有标）",
-      "model": "ETN9075-2XG16PGT / 4XG16PGT",
-      "spec": "2/4×10G SFP+ 上联 + 16 GE PoE 工业",
-      "url": "https://www.entasource.co.th/17430331/industrial-switch",
-      "date": "2026-10-21",
-      "saga": "STI-21616GP（10G 上联版需核）"
-    },
-    {
-      "brand": "ENTA（ETN 自有标）",
-      "model": "ETN9075-8GX8GT / 8GX8PGT",
-      "spec": "8 SFP + 8 GE 工业（PoE 可选）",
-      "url": "https://www.entasource.co.th/17430331/industrial-switch",
-      "date": "2026-10-21",
-      "saga": "—（8 光 8 电，与 SA-108 需求同型，待核 SmartByte）"
-    },
-    {
-      "brand": "ENTA（ETN 自有标）",
-      "model": "ETN9075-4GX24PGT",
-      "spec": "4 SFP + 24 GE PoE 工业机架",
-      "url": "https://www.entasource.co.th/17430331/industrial-switch",
-      "date": "2026-10-21",
-      "saga": "STC-424DGGPM-280W（商用）"
-    },
-    {
-      "brand": "ENTA（ETN 自有标）",
-      "model": "ETN9065-1FX4TX-mini / 5TX-mini / 1GX4GT",
-      "spec": "迷你 DIN 1 光 4 电 / 5 电",
-      "url": "https://www.entasource.co.th/17430331/industrial-switch",
-      "date": "2026-10-21",
-      "saga": "STI-144GP（PoE）/ STI-050GE"
-    },
-    {
-      "brand": "ENTA（ETS 自有标）",
-      "model": "ETS-ESI1022",
-      "spec": "16×100Base-T + 2×100Base-FX SC + 4×1000Base-FX SFP",
-      "url": "https://www.entasource.co.th/17430364/industrial-ethernet-switchets-esi1022",
-      "date": "2026-10-21",
-      "saga": "STI-21616GP（千兆升级位）"
-    }
-  ],
-  "channels": {
-    "网站": "https://www.entasource.co.th/（目录）/ https://www.entasource.com/",
-    "直邮": "sale@entasource.co.th（用户表）"
+  {
+   "kind": "官网",
+   "claim": "ETN 自有标工业交换机全系型号列表",
+   "quote": "Network Switch - ETN9065-4GX8GT - ETN9075-4GX8PGT - ETN9065-4GX8PGT - ETN9075-2GX16GT … ETN9075-2XG16PGT … ETN9075-8GX8GT - ETN9075-8GX8PGT - ETN9075-4GX24GT - ETN9075-4GX24PGT … ETN9065-1FX4TX-mini - ETN9065-5TX-mini",
+   "url": "https://www.entasource.co.th/17430331/industrial-switch",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "用户表：A 已回复；自有标 + 中科德能来源——贴牌采购流程成熟",
-    "ETN 自有标型谱已覆盖 10G 上联与 8 光 8 电——是成熟的贴牌进口商，Saga 作为 Marvell 二供可按 ETN 命名直接套入（2026-10-21）"
-  ],
-  "risks": [
-    "泰国价格敏感；现来源价格低"
-  ],
-  "saga_fit": {
-    "p1": "STI-288DGGPM",
-    "tier": 30,
-    "why": "自有标 ETN 贴牌进口商：STI-288DGGPM ↔ ETN9075-4GX8PGT 位；STI-144GP ↔ ETN9065-1FX4TX-mini 位；STI-21616GP ↔ 2XG16PGT 位（10G 上联需核）；按 ETN 命名 OEM，30% 档"
+  {
+   "kind": "官网",
+   "claim": "ETS-ESI1022 口型",
+   "quote": "ETS-ESI1022 … 16*100Base-T, 2*100Base-Fx SC, 4*1000Base-FX SFP Port",
+   "url": "https://www.entasource.co.th/17430364/industrial-ethernet-switchets-esi1022",
+   "date": "2026-10-21"
   },
-  "email_hook": "Your ETN9075-4GX8PGT and the 1FX4TX mini sit exactly where our Marvell-based 8-port PoE+ 2-SFP managed DIN switch and the 4+1 compact unit do, so I am quoting both in ETN packing, EXW, as a second source.",
-  "mail_review": {
-    "binding": {
-      "level": "未绑定（2025-06 要 24 口 + 2 SFP 非管理、48VDC 机架 → Saga 只有 AC 版 → 无下文）",
-      "type": "曼谷进口分销（自有 logo）；Janejira",
-      "sieve": "2",
-      "stop": "产品缺口：48 VDC 输入的 24 口商用非管理机架机",
-      "revive": "SmartByte/HRUI 有 DC 输入商用款时",
-      "lane": "TH",
-      "cadence": "2024-07 → 2026-09 去信 21 封；最后来信 2025-06-16",
-      "evidence": "k=da8a7bcd11691b0e / ed149581e201dace"
-    },
-    "situation": "Janejira 问 24×GE + 2 SFP 非管理机架、48 VDC 输入；Alan 答只有 AC 版（PoE / 非 PoE 各一）。无回。",
-    "need": "48 VDC 商用 24 口非管理。",
-    "breakpoint": "电源规格缺口（DC 输入商用机）。",
-    "saga_now": {
-      "p1": "无（缺口）",
-      "tier": 20,
-      "price": "—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-23 $65（10G media converter）、2024-11-14 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-13 $280（10G Enterprise SFP Switch）",
-      "why": "有货再说。已打开的主题（2/21 封有打开记录）：「Commercial PoE Switch」(2025-06-16)、「Re: Commercial PoE Switch」(2025-06-16) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
-      "repeat": [],
-      "gaps": [
-        "HRUI 是否有 DC48V 输入 24 口商用非管理——查索引"
-      ]
-    },
-    "next_move": {
-      "when": "不动",
-      "channel": "—",
-      "action": "—",
-      "one_question": ""
-    },
-    "facts": [
-      {
-        "date": "2025-06-16",
-        "dir": "来",
-        "who": "Janejira N.",
-        "quote": "Do you have 24*10/100/1000Mbps ports with 2 Ports SFP Uplink unmanaged commercial switches… Rack mount switch. Input 48 VDC",
-        "why": "精确需求",
-        "k": "da8a7bcd11691b0e"
-      },
-      {
-        "date": "2025-06-16",
-        "dir": "去",
-        "who": "Alan",
-        "quote": "We only have AC input model",
-        "why": "缺口",
-        "k": "ed149581e201dace"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "官网",
+   "claim": "进口分销定位与保修",
+   "quote": "ENTA SOURCE Co.,Ltd. นำเข้าและจำหน่ายอุปกรณ์ Network ทุกประเภท อาทิเช่น Media Converter, Switch, Router, SFP Transceiver ซึ่งอุปกรณ์ Network ที่เราจำหน่ายจะมีการรับประกันสินค้าหลังการขาย 1-3 ปี",
+   "url": "https://www.entasource.co.th/17430328/network",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "销售（官网公开）",
+   "email": "Sale@entasource.co.th",
+   "phone": "+66 87 412 2552（LINE: lin.ee/mNnxD59）",
+   "source": "https://www.entasource.co.th/17906637/network-service"
+  }
+ ],
+ "notes": "A 确认（已回复 + 自有 logo + 工业线全品类分销）；P1 = STI-288DGGPM（工业 8 PoE 网管）+ STI-110GE（MC），20% 分销档，贴牌 30%。",
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "深挖 v2（官网 entasource.co.th 自有标 ETN 目录核对）"
+ },
+ "company_facts": {
+  "legal_name": "ENTA SOURCE Co., Ltd.（เอ็นต้าซอร์ส）",
+  "hq": "Bangkok, Thailand",
+  "other": "官网 entasource.co.th（另有 entasource.com 旧站）：自有标 **ETN90xx** 工业交换机全系（ETN9065 非管理 / ETN9075 管理 推断）：4GX8GT、4GX8PGT（PoE）、2GX16GT/PGT、2XG16GT/PGT（10G 上联）、4XG16GT/PGT、8GX16GT/PGT、8GX8GT/PGT、4GX24GT/PGT、8GT/8PGT/16GT/16PGT、mini 1FX1TX/1FX2TX/1FX4TX/5TX、2GX2GT、1GX4GT；ETS-ESI1008 / ESI1022（16×FE + 2×FX SC + 4×SFP）；光模块 1G–100G（3 年保，兼容 Cisco/Huawei/Aruba/Alcatel/Juniper）；保修 1–3 年"
+ },
+ "business_lines": [
+  "工业交换机 / 工业 PoE（自有 logo）",
+  "兼容 SFP / MC / 光纤无源",
+  "网络工程服务",
+  "自有标 ETN 工业以太网/PoE 交换机（DIN + 机架）",
+  "自有标光模块 1G/10G/25G/40G/100G、DAC",
+  "Media Converter / 网络方案"
+ ],
+ "products_seen": [
+  {
+   "brand": "中科德能（现来源，自有标）",
+   "model": "工业 FS / MC / 机架",
+   "spec": "自己的标",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "用户表",
+   "saga": "STI-288DGGPM / STI-110GE"
+  },
+  {
+   "brand": "ENTA（ETN 自有标）",
+   "model": "ETN9075-4GX8PGT / ETN9065-4GX8PGT",
+   "spec": "4 SFP + 8 GE PoE 工业（管理/非管理）",
+   "url": "https://www.entasource.co.th/17430331/industrial-switch",
+   "date": "2026-10-21",
+   "saga": "STI-288DGGPM（8 PoE + 2 SFP；4 SFP 版需核）"
+  },
+  {
+   "brand": "ENTA（ETN 自有标）",
+   "model": "ETN9075-2XG16PGT / 4XG16PGT",
+   "spec": "2/4×10G SFP+ 上联 + 16 GE PoE 工业",
+   "url": "https://www.entasource.co.th/17430331/industrial-switch",
+   "date": "2026-10-21",
+   "saga": "STI-21616GP（10G 上联版需核）"
+  },
+  {
+   "brand": "ENTA（ETN 自有标）",
+   "model": "ETN9075-8GX8GT / 8GX8PGT",
+   "spec": "8 SFP + 8 GE 工业（PoE 可选）",
+   "url": "https://www.entasource.co.th/17430331/industrial-switch",
+   "date": "2026-10-21",
+   "saga": "—（8 光 8 电，与 SA-108 需求同型，待核 SmartByte）"
+  },
+  {
+   "brand": "ENTA（ETN 自有标）",
+   "model": "ETN9075-4GX24PGT",
+   "spec": "4 SFP + 24 GE PoE 工业机架",
+   "url": "https://www.entasource.co.th/17430331/industrial-switch",
+   "date": "2026-10-21",
+   "saga": "STC-424DGGPM-280W（商用）"
+  },
+  {
+   "brand": "ENTA（ETN 自有标）",
+   "model": "ETN9065-1FX4TX-mini / 5TX-mini / 1GX4GT",
+   "spec": "迷你 DIN 1 光 4 电 / 5 电",
+   "url": "https://www.entasource.co.th/17430331/industrial-switch",
+   "date": "2026-10-21",
+   "saga": "STI-144GP（PoE）/ STI-050GE"
+  },
+  {
+   "brand": "ENTA（ETS 自有标）",
+   "model": "ETS-ESI1022",
+   "spec": "16×100Base-T + 2×100Base-FX SC + 4×1000Base-FX SFP",
+   "url": "https://www.entasource.co.th/17430364/industrial-ethernet-switchets-esi1022",
+   "date": "2026-10-21",
+   "saga": "STI-21616GP（千兆升级位）"
+  }
+ ],
+ "channels": {
+  "网站": "https://www.entasource.co.th/（目录）/ https://www.entasource.com/",
+  "直邮": "sale@entasource.co.th（用户表）"
+ },
+ "signals": [
+  "用户表：A 已回复；自有标 + 中科德能来源——贴牌采购流程成熟",
+  "ETN 自有标型谱已覆盖 10G 上联与 8 光 8 电——是成熟的贴牌进口商，Saga 作为 Marvell 二供可按 ETN 命名直接套入（2026-10-21）"
+ ],
+ "risks": [
+  "泰国价格敏感；现来源价格低"
+ ],
+ "saga_fit": {
+  "p1": "STI-288DGGPM",
+  "tier": 30,
+  "why": "自有标 ETN 贴牌进口商：STI-288DGGPM ↔ ETN9075-4GX8PGT 位；STI-144GP ↔ ETN9065-1FX4TX-mini 位；STI-21616GP ↔ 2XG16PGT 位（10G 上联需核）；按 ETN 命名 OEM，30% 档"
+ },
+ "email_hook": "Your ETN9075-4GX8PGT and the 1FX4TX mini sit exactly where our Marvell-based 8-port PoE+ 2-SFP managed DIN switch and the 4+1 compact unit do, so I am quoting both in ETN packing, EXW, as a second source.",
+ "mail_review": {
+  "binding": {
+   "level": "未绑定（2025-06 要 24 口 + 2 SFP 非管理、48VDC 机架 → Saga 只有 AC 版 → 无下文；Elsa 箱：`to:entasource.co.th` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 21 / 来 1）（第 74 批(g)））",
+   "type": "曼谷进口分销（自有 logo）；Janejira",
+   "sieve": "2",
+   "stop": "产品缺口：48 VDC 输入的 24 口商用非管理机架机",
+   "revive": "SmartByte/HRUI 有 DC 输入商用款时",
+   "lane": "TH",
+   "cadence": "2024-07 → 2026-09 去信 21 封；最后来信 2025-06-16",
+   "evidence": "k=da8a7bcd11691b0e / ed149581e201dace"
+  },
+  "situation": "Janejira 问 24×GE + 2 SFP 非管理机架、48 VDC 输入；Alan 答只有 AC 版（PoE / 非 PoE 各一）。无回。",
+  "need": "48 VDC 商用 24 口非管理。",
+  "breakpoint": "电源规格缺口（DC 输入商用机）。",
+  "saga_now": {
+   "p1": "无（缺口）",
+   "tier": 20,
+   "price": "—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-23 $65（10G media converter）、2024-11-14 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-13 $280（10G Enterprise SFP Switch）",
+   "why": "有货再说。已打开的主题（2/21 封有打开记录）：「Commercial PoE Switch」(2025-06-16)、「Re: Commercial PoE Switch」(2025-06-16) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
+   "repeat": [],
+   "gaps": [
+    "HRUI 是否有 DC48V 输入 24 口商用非管理——查索引"
+   ]
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2025-06-16",
+    "dir": "来",
+    "who": "Janejira N.",
+    "quote": "Do you have 24*10/100/1000Mbps ports with 2 Ports SFP Uplink unmanaged commercial switches… Rack mount switch. Input 48 VDC",
+    "why": "精确需求",
+    "k": "da8a7bcd11691b0e"
+   },
+   {
+    "date": "2025-06-16",
+    "dir": "去",
+    "who": "Alan",
+    "quote": "We only have AC input model",
+    "why": "缺口",
+    "k": "ed149581e201dace"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

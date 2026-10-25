@@ -27,7 +27,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -44,7 +44,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-052` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未绑定（两轮询价全部止于价格；2025-01-03 后 21 个月无来信）** ｜ 类型：俄罗斯 DIN 电源品牌商（FARADAY）顺带采购工业交换机——**价格流 + Realtek 用户**；执行董事 Alexander Rudnev 直联（有中国手机、每年 4 月香港展 / 10 月来华） ｜ 筛子：1–2（回信 16 封、给了精确规格；未付样、未走样品） ｜ 停点：价格 + 芯片线错位：要「8 口 L3 管理 PoE 工业 DIN、watchdog、30W+/口、SFP+RJ45 上联、1G 够」；Simon 报 STI-488XGGPM 350 USD →「price is really high… We have a supplier with much better prices」「We use Realtek」；2024-12 要 RMB EXW 全价表 → 2025-01-03「your prices are too high」 ｜ 复活：只有 Simon 允许用 HRUI/Realtek 线报 DIN 8 口 PoE 管理型（Simon 2024-05-21 自己写过「maybe Marvell is required someday」）；否则按 C6 不设计让价 ｜ 通路：RU：对方要 RMB EXW（可走 RMB / 中国付款代理，同 iotsistem 做法）；物流走其自有渠道 ｜ 节奏：最后来信 2025-01-03；此后 Saga 单向 5 封（Booster / AC5 / 7.5 群发） ｜ 证据：k=f09852fb2618788f / 80bdb8e0e1b5a1a5 / e0da925d78532ec9 / 011f348307d57fc2 / c4b08a47d73f023f / 7cb3dfcf81666a75；第 19 批回补来信原文 7 条（gmail_s/gmail_a）
+- **绑定等级：未绑定（两轮询价全部止于价格；2025-01-03 后 21 个月无来信；Elsa 箱：`to:td-fe.com OR to:td-fe.ru` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 29 / 来 16）（第 74 批(g)））** ｜ 类型：俄罗斯 DIN 电源品牌商（FARADAY）顺带采购工业交换机——**价格流 + Realtek 用户**；执行董事 Alexander Rudnev 直联（有中国手机、每年 4 月香港展 / 10 月来华） ｜ 筛子：1–2（回信 16 封、给了精确规格；未付样、未走样品） ｜ 停点：价格 + 芯片线错位：要「8 口 L3 管理 PoE 工业 DIN、watchdog、30W+/口、SFP+RJ45 上联、1G 够」；Simon 报 STI-488XGGPM 350 USD →「price is really high… We have a supplier with much better prices」「We use Realtek」；2024-12 要 RMB EXW 全价表 → 2025-01-03「your prices are too high」 ｜ 复活：只有 Simon 允许用 HRUI/Realtek 线报 DIN 8 口 PoE 管理型（Simon 2024-05-21 自己写过「maybe Marvell is required someday」）；否则按 C6 不设计让价 ｜ 通路：RU：对方要 RMB EXW（可走 RMB / 中国付款代理，同 iotsistem 做法）；物流走其自有渠道 ｜ 节奏：最后来信 2025-01-03；此后 Saga 单向 5 封（Booster / AC5 / 7.5 群发） ｜ 证据：k=f09852fb2618788f / 80bdb8e0e1b5a1a5 / e0da925d78532ec9 / 011f348307d57fc2 / c4b08a47d73f023f / 7cb3dfcf81666a75；第 19 批回补来信原文 7 条（gmail_s/gmail_a）
 - **现状一句话**：圣彼得堡 FARADAY 电源厂执行董事 Alexander 2023-12 起主动来信 16 封（A 级来信第 7 多），需求极其明确：DIN 导轨 8 口 L3 管理 PoE 工业机带 watchdog。Simon 先后推 24 口 L3、10G L3（360 USD）、L2 130 USD、STI-488XGGPM 350 USD；对方三句话定性——「350USD?」「We use Realtek」「we don't looking for hi-end solutions, but for reliable, functional solution with reasonable price」。2024-12 Simon 给全价表（USD×7.2 折 RMB），2025-01-03 回「prices too high」后再无来信。用户表称「已卖 ONV 工业 FS」，邮件里无成交证据。
 - **对方真实需求（有据）**：DIN 8 口 PoE（30W+/口）+ SFP/RJ45 上联、L2/L3 管理、watchdog、1G；Realtek 价位（他自己说 8×100M+2 combo 的 L2 款「much cheaper」）。
 - **断点 / 为什么停在这里**：C2 第一道筛子在 2024-05-21 已经把他筛出（Realtek 用户 + 价格优先），但 Saga 又追了 8 个月、给了全价表——投入与筛子结论不一致。真正的边界是芯片线，不是沟通。
@@ -325,12 +325,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-07**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-08**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 81）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 81）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

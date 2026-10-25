@@ -28,7 +28,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -45,7 +45,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-013` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：较深（6 单复购 + LibreNMS 提交 SmartByte OID + 客户系统依赖 MIB/固件 + 坚持 SmartByte 原名）** ｜ 类型：德国 ISP/FTTH 运营商 NYNEX satellite OHG（fiberONE）（技术流，工程师 Frederik Kriewitz 直接对接） ｜ 筛子：3（多次 PI/T/T、EUR 付款、固件/MIB 迭代、工程反馈） ｜ 停点：无明显停点；但两次更大机会流失：230 台项目（2026-01-20「we used our existing supply because you initially quoted a long lead time」）与 1,000+2,000/年 低成本 2×10G+4×2.5G 媒体转换器（2025-10-21，Marvell 无合适芯片替代 RTL8373） ｜ 复活：已在复购中（2026-10-15 第 6 单 20×STC-4168XGGCM EUR 付款、10-17 投产）；下一级 = 交期承诺 + 媒体转换器方案（Realtek 线可否？） ｜ 通路：DE 已通（USD/EUR T/T 到同一账户、DHL；Peter 直接处理技术） ｜ 节奏：最后 2026-10-17 Simon「got the payment and are producing」；实质往来 2024 → 2026-10 持续；S 邮箱 45 来 / A 邮箱无 ｜ 证据：S 邮箱 k=c921dc47fd9370bb / 8f79a607c3cc831e / 3c32c9ad46e6235d / 61065505a331e5fd / c24584352bd15931 / 60ac95de9259a792；第 19 批回补来信原文 8 条（gmail_s/gmail_a）
+- **绑定等级：较深（6 单复购 + LibreNMS 提交 SmartByte OID + 客户系统依赖 MIB/固件 + 坚持 SmartByte 原名；Elsa 箱：`to:.de` 穷举 29 条（2026-10-25，锚批 Bcc 头已读）未见 fiberone.de / nynex.de → Elsa 箱从未发过本户，往来只在 S/A 箱（去 59 / 来 45）（第 74 批(f)））** ｜ 类型：德国 ISP/FTTH 运营商 NYNEX satellite OHG（fiberONE）（技术流，工程师 Frederik Kriewitz 直接对接） ｜ 筛子：3（多次 PI/T/T、EUR 付款、固件/MIB 迭代、工程反馈） ｜ 停点：无明显停点；但两次更大机会流失：230 台项目（2026-01-20「we used our existing supply because you initially quoted a long lead time」）与 1,000+2,000/年 低成本 2×10G+4×2.5G 媒体转换器（2025-10-21，Marvell 无合适芯片替代 RTL8373） ｜ 复活：已在复购中（2026-10-15 第 6 单 20×STC-4168XGGCM EUR 付款、10-17 投产）；下一级 = 交期承诺 + 媒体转换器方案（Realtek 线可否？） ｜ 通路：DE 已通（USD/EUR T/T 到同一账户、DHL；Peter 直接处理技术） ｜ 节奏：最后 2026-10-17 Simon「got the payment and are producing」；实质往来 2024 → 2026-10 持续；S 邮箱 45 来 / A 邮箱无 ｜ 证据：S 邮箱 k=c921dc47fd9370bb / 8f79a607c3cc831e / 3c32c9ad46e6235d / 61065505a331e5fd / c24584352bd15931 / 60ac95de9259a792；第 19 批回补来信原文 8 条（gmail_s/gmail_a）
 - **现状一句话**：NYNEX（Frederik Kriewitz）是全库唯一「较深」绑定：2025-03 测试反馈即要求 SmartByte 申请 IANA PEN 并把私有 OID 挂到自己树下（后以 SmartByte PEN 56166 落地，LibreNMS 26.1 按 sysObjectID 识别「SmartByte」）；2025-09 为 230 台项目问 AC5 新机（风扇/双电源监控）→ 样机 1 台 → 11–12 月 MIB/固件三轮迭代到「working as expected」；2026-01-20 告知 230 台因 Saga 最初交期长而用了现有供应；2026-09-29 第 6 单 20×STC-4168XGGCM（双 AC，同上单），要 EUR 付款、因涨价需另取 3 家比价，10-15 付款并坚持 **SmartByte 原名 + SNMP 厂商 OID**，10-17 投产。
 - **对方真实需求（有据）**：① 1G SFP 下联 + 10G 上联接入机（STC-4168XGGCM 双 AC）——持续；② 风扇/双 PSU 状态、温度、CPU/内存全部可 SNMP 读（ENTITY-SENSOR-MIB 标准化建议）；③ **低成本 2×10G + 4×2.5G 轻管理媒体转换器/ONT，首单 1,000、之后 2,000/年**（FTTH 1G→10G 升级，老路由器只支持 1G）；④ 交期短（230 台项目因交期丢）。
 - **断点 / 为什么停在这里**：无停点；真正的瓶颈是**交期与价格基数**（2026-09-29「Due to the price increase I'll have to get 3 more comparison quotes」）以及 Saga 没有接住媒体转换器那条 1,000+2,000/年 的线（Marvell 无对应芯片；Realtek RTL8373 正是他点名的方案——这是 HRUI 线可能的切入点，但要 Simon 判断是否违背「Marvell 口号筛子」）。
@@ -437,12 +437,12 @@ Simon
 
 ## 下次复核
 
-- **2026-11-07**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-08**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 112）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 112）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

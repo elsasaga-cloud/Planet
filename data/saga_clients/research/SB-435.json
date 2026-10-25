@@ -1,125 +1,125 @@
 {
-  "code": "SB-435",
-  "name_official": "",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（leoptics.pl，快照 2026-10-21）",
-  "summary": "波兰 Leoptics（光学/光纤测试设备供应商：PON 光功率计、光话机、可视故障定位仪，LEO- 自有型号；少量工业 FS（表内「有几个工业 FS / CWDM」「链接里是一个德国牌子」「可以着重跟一下」））；群发 8 次无回复。",
-  "type": "光纤测试设备供应商（波兰，工业 FS 为副线）",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "官网标题：Leoptics – Leading equipment in Optics；品类词 工业自动化 / OT 网络 / 网络交换 / PoE",
-      "quote": "Leoptics – Leading equipment in Optics；Polecane produkty；Miernik mocy z dodatkowym miernikiem (-70~+10dBm) PON LEO-PONPM-1070；Telefon optyczny LEO-OPTEL – zestaw；Miernik mocy z wizualnym lokalizatorem uszkodzeń 1mW LEO-APM-1；Źródło światła ",
-      "url": "https://leoptics.pl/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "有几个工业FS；CWDM",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网快照",
-      "claim": "Leoptics 首页",
-      "quote": "Leoptics – Leading equipment in Optics ; Miernik mocy z dodatkowym miernikiem (-70~+10dBm) PON LEO-PONPM-1070 ; Telefon optyczny LEO-OPTEL",
-      "url": "https://leoptics.pl/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "有几个工业 FS / CWDM；着重跟",
-      "quote": "有几个工业FS / CWDM；链接里是一个德国牌子；可以着重跟一下",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ "code": "SB-435",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（leoptics.pl，快照 2026-10-21）",
+ "summary": "波兰 Leoptics（光学/光纤测试设备供应商：PON 光功率计、光话机、可视故障定位仪，LEO- 自有型号；少量工业 FS（表内「有几个工业 FS / CWDM」「链接里是一个德国牌子」「可以着重跟一下」））；群发 8 次无回复。",
+ "type": "光纤测试设备供应商（波兰，工业 FS 为副线）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Leoptics – Leading equipment in Optics；品类词 工业自动化 / OT 网络 / 网络交换 / PoE",
+   "quote": "Leoptics – Leading equipment in Optics；Polecane produkty；Miernik mocy z dodatkowym miernikiem (-70~+10dBm) PON LEO-PONPM-1070；Telefon optyczny LEO-OPTEL – zestaw；Miernik mocy z wizualnym lokalizatorem uszkodzeń 1mW LEO-APM-1；Źródło światła ",
+   "url": "https://leoptics.pl/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "hq": "波兰",
-    "other": "官网 leoptics.pl，语言 pl-PL，快照状态 ok；角色判定来源：官网文案"
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "有几个工业FS；CWDM",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "光纤测试设备 / 光学仪器（自有型号 LEO-）",
-    "工业交换机（少量）"
-  ],
-  "channels": {
-    "role": "光纤测试设备供应商（波兰，工业 FS 为副线）",
-    "region": "波兰",
-    "contact": "biuro@leoptics.pl"
+  {
+   "kind": "官网快照",
+   "claim": "Leoptics 首页",
+   "quote": "Leoptics – Leading equipment in Optics ; Miernik mocy z dodatkowym miernikiem (-70~+10dBm) PON LEO-PONPM-1070 ; Telefon optyczny LEO-OPTEL",
+   "url": "https://leoptics.pl/",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "首页 Leoptics – Leading equipment in Optics ; Miernik mocy … PON LEO-PONPM-1070 ; Telefon optyczny LEO-OPTEL；页面 /producenci/；kw ethernet 20 / switch 12 / 10g 6",
-    "表内：有几个工业 FS / CWDM；链接里是一个德国牌子；可以着重跟一下"
-  ],
-  "risks": [
-    "主业光纤测试仪表（Saga 不做）：交换机为副线；CWDM 需求 Saga 不供",
-    "8 次无回复，仅 biuro@；用户标「着重跟」"
-  ],
-  "saga_fit": {
-    "p1": "STI-288GPM",
-    "tier": 20,
-    "why": "少量工业 FS（现德国品牌）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非 PoE STI-280GE（$46.6）作预算线；CWDM Saga 不供（Q-32）"
-  },
-  "email_hook": "Alongside the industrial switches you list next to your fibre test instruments, we supply Marvell-based DIN-rail 8-GE/8-PoE + 2 SFP managed units (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which configuration do your fibre-network customers ask for most?",
-  "mail_review": {
-    "binding": {
-      "level": "未触达（A/S 邮箱 17 封 2025→2026，1 次记录打开，0 回；收件 biuro@leoptics.pl；主题多为「10G Enterprise SFP Switch、Industrial PoE Switch」）",
-      "type": "光纤测试设备供应商（波兰，工业 FS 为副线）",
-      "sieve": "1~2（1 次打开）",
-      "stop": "只打通用邮箱，无记录打开",
-      "revive": "保持季度群发到 2027-Q1；无打开即停",
-      "lane": "PL 次级重点",
-      "cadence": "季度",
-      "evidence": "gmail_digest：out 17，Opened 标签 1（Simon 群发追踪）；用户表：「有几个工业FS；CWDM」；研究档 risks：主业光纤测试仪表（Saga 不做）：交换机为副线；CWDM 需求 Saga 不供"
-    },
-    "situation": "波兰 Leoptics（光学/光纤测试设备供应商：PON 光功率计、光话机、可视故障定位仪，LEO- 自有型号；少量工业 FS（表内「有几个工业 FS / CWDM」「链接里是一个德国牌子」「可以着重跟一下」））；群发 8 次无回复。",
-    "need": "少量工业 FS（现德国品牌）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非 PoE STI-280GE（$46.6）作预算线；CWDM Saga 不供（Q-32）",
-    "breakpoint": "主业光纤测试仪表（Saga 不做）：交换机为副线；CWDM 需求 Saga 不供",
-    "saga_now": {
-      "p1": "STI-288GPM",
-      "tier": 20,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-26 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-07-04 $300（48 Port PoE Managed Switch）、2025-10-21 $280（10G Enterprise SFP Switch）",
-      "why": "少量工业 FS（现德国品牌）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非 PoE STI-280GE（$46.6）作预算线；CWDM Saga 不供（Q-32）。已打开的主题（1/17 封有打开记录）：「16 Port Ethernet Switch」(2025-02-06) → 读者兴趣主题类别不明（看原主题）",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "群发节奏",
-      "channel": "A 邮箱",
-      "action": "观察打开",
-      "one_question": "Alongside the industrial switches you list next to your fibre test instruments, we supply Marvell-based DIN-rail 8-GE/8-PoE + 2 SFP managed units (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which configuration do your fibre-network customers ask for most?"
-    },
-    "facts": [
-      {
-        "date": "2026-09-28",
-        "dir": "去",
-        "who": "A/S 群发",
-        "quote": "10G Enterprise SFP Switch、Industrial PoE Switch",
-        "why": "17 封 / 1 次打开 / 0 回｜首封 2025-02-06 → 末封 2026-09-28（17 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "有几个工业FS；CWDM",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "有几个工业 FS / CWDM；着重跟",
+   "quote": "有几个工业FS / CWDM；链接里是一个德国牌子；可以着重跟一下",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "波兰",
+  "other": "官网 leoptics.pl，语言 pl-PL，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "光纤测试设备 / 光学仪器（自有型号 LEO-）",
+  "工业交换机（少量）"
+ ],
+ "channels": {
+  "role": "光纤测试设备供应商（波兰，工业 FS 为副线）",
+  "region": "波兰",
+  "contact": "biuro@leoptics.pl"
+ },
+ "signals": [
+  "首页 Leoptics – Leading equipment in Optics ; Miernik mocy … PON LEO-PONPM-1070 ; Telefon optyczny LEO-OPTEL；页面 /producenci/；kw ethernet 20 / switch 12 / 10g 6",
+  "表内：有几个工业 FS / CWDM；链接里是一个德国牌子；可以着重跟一下"
+ ],
+ "risks": [
+  "主业光纤测试仪表（Saga 不做）：交换机为副线；CWDM 需求 Saga 不供",
+  "8 次无回复，仅 biuro@；用户标「着重跟」"
+ ],
+ "saga_fit": {
+  "p1": "STI-288GPM",
+  "tier": 20,
+  "why": "少量工业 FS（现德国品牌）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非 PoE STI-280GE（$46.6）作预算线；CWDM Saga 不供（Q-32）"
+ },
+ "email_hook": "Alongside the industrial switches you list next to your fibre test instruments, we supply Marvell-based DIN-rail 8-GE/8-PoE + 2 SFP managed units (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which configuration do your fibre-network customers ask for most?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 17 封 2025→2026，1 次记录打开，0 回；收件 biuro@leoptics.pl；主题多为「10G Enterprise SFP Switch、Industrial PoE Switch」；Elsa 箱：`to:.pl` 穷举 24 条（2026-10-25，锚批 Bcc 头已读）未见 leoptics.pl → Elsa 箱从未发过本户，往来只在 S/A 箱（去 17 / 来 0）（第 74 批(f)））",
+   "type": "光纤测试设备供应商（波兰，工业 FS 为副线）",
+   "sieve": "1~2（1 次打开）",
+   "stop": "只打通用邮箱，无记录打开",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "PL 次级重点",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 17，Opened 标签 1（Simon 群发追踪）；用户表：「有几个工业FS；CWDM」；研究档 risks：主业光纤测试仪表（Saga 不做）：交换机为副线；CWDM 需求 Saga 不供"
+  },
+  "situation": "波兰 Leoptics（光学/光纤测试设备供应商：PON 光功率计、光话机、可视故障定位仪，LEO- 自有型号；少量工业 FS（表内「有几个工业 FS / CWDM」「链接里是一个德国牌子」「可以着重跟一下」））；群发 8 次无回复。",
+  "need": "少量工业 FS（现德国品牌）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非 PoE STI-280GE（$46.6）作预算线；CWDM Saga 不供（Q-32）",
+  "breakpoint": "主业光纤测试仪表（Saga 不做）：交换机为副线；CWDM 需求 Saga 不供",
+  "saga_now": {
+   "p1": "STI-288GPM",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-26 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-07-04 $300（48 Port PoE Managed Switch）、2025-10-21 $280（10G Enterprise SFP Switch）",
+   "why": "少量工业 FS（现德国品牌）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非 PoE STI-280GE（$46.6）作预算线；CWDM Saga 不供（Q-32）。已打开的主题（1/17 封有打开记录）：「16 Port Ethernet Switch」(2025-02-06) → 读者兴趣主题类别不明（看原主题）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Alongside the industrial switches you list next to your fibre test instruments, we supply Marvell-based DIN-rail 8-GE/8-PoE + 2 SFP managed units (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which configuration do your fibre-network customers ask for most?"
+  },
+  "facts": [
+   {
+    "date": "2026-09-28",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "10G Enterprise SFP Switch、Industrial PoE Switch",
+    "why": "17 封 / 1 次打开 / 0 回｜首封 2025-02-06 → 末封 2026-09-28（17 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "有几个工业FS；CWDM",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

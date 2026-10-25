@@ -26,7 +26,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -43,7 +43,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-901` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「AOA的；工业FS」）** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：不动（Q-33 供应商渠道客户） ｜ 通路：芬兰（欧洲全域主攻） ｜ 节奏：不动 ｜ 证据：gmail_digest：out 0；用户表：「AOA的；工业FS」；研究档 risks：HRUI 线同源无价差；要以 SmartByte（Marvell）工业管理线切入
+- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「AOA的；工业FS」；Elsa 箱：`to:.fi` 穷举 0 条（2026-10-25，锚批 Bcc 头已读）未见 esoft.fi → 三箱（S/A/E）均未发（第 74 批(f)））** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：不动（Q-33 供应商渠道客户） ｜ 通路：芬兰（欧洲全域主攻） ｜ 节奏：不动 ｜ 证据：gmail_digest：out 0；用户表：「AOA的；工业FS」；研究档 risks：HRUI 线同源无价差；要以 SmartByte（Marvell）工业管理线切入
 - **现状一句话**：芬兰网络设备网店（Verkkokauppa），PoE 品类极深：PoE 交换机 / 工业 PoE（104 个 SKU）/ PoE 集线器 / PoE over COAX / PoE 注入器与分离器；在售 **HRUI 8×FE PoE+ +2GE+1SFP 95W（HR901-AF-821GNS）**、PLANET、24×GE+4×10G L3 管理、16×PoE+ +4 SFP 220W 管理、MC 机框、SFP BiDi 模块；表内注「AOA 的」（在用同行产品名单），无互动。
 - **对方真实需求（有据）**：其「Industrial PoE」品类 104 件 = 核心货架；Saga 工业 8 PoE + 2 SFP STI-288GP（$57.4/59.8/62.2）与管理版 STI-288GPM 可直接上架；L3 24+4×10G 对位 STC-424XGGM(L3)。
 - **断点 / 为什么停在这里**：HRUI 线同源无价差；要以 SmartByte（Marvell）工业管理线切入
@@ -254,12 +254,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 31）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 31）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

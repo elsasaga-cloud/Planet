@@ -27,7 +27,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 4
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -44,7 +44,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-017` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未绑定（三轮询价：16 口工业 PoE、bypass 4×4/2×2；无付样）——线下三次到访（用户表）** ｜ 类型：韩国自有品牌 NEXTU（≈1,000 SKU）分销商；Roadman Kim——第一档 OEM 类型 ｜ 筛子：2 ｜ 停点：价格 vs 规格：2025-03-04「yr price is higher but yr spec is lower… should support over 300~380w… should be much cheaper」；Alan 2025-03-05 书面说明筛选逻辑并报 95 / 170 USD；2025-05-26 bypass 4×4/2×2 报 280 USD 后无回音 ｜ 复活：370W 外壳款（-40~+60℃）存在（Alan 已提）；bypass 2×2 项目落地；Kim 来深圳时见面 ｜ 通路：KR（Simon 2026-08-02：韩国客户「一些」） ｜ 节奏：2024-07 → 2026-09 去信 35 封；最后来信 2025-05-26 ｜ 证据：k=350843fae7f7201b / a073d6411a2a52db / 7a23a71b55abbff5 / b5cbfcb83f46328a / 6b7ea5b03a91b1ef；A 邮箱外发报价单正文（`data/gmail_a/attachments/text/`，2026-10-24 对表）
+- **绑定等级：未绑定（三轮询价：16 口工业 PoE、bypass 4×4/2×2；无付样）——线下三次到访（用户表；Elsa 箱：`to:ez-net.co.kr` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 35 / 来 3）（第 74 批(g)））** ｜ 类型：韩国自有品牌 NEXTU（≈1,000 SKU）分销商；Roadman Kim——第一档 OEM 类型 ｜ 筛子：2 ｜ 停点：价格 vs 规格：2025-03-04「yr price is higher but yr spec is lower… should support over 300~380w… should be much cheaper」；Alan 2025-03-05 书面说明筛选逻辑并报 95 / 170 USD；2025-05-26 bypass 4×4/2×2 报 280 USD 后无回音 ｜ 复活：370W 外壳款（-40~+60℃）存在（Alan 已提）；bypass 2×2 项目落地；Kim 来深圳时见面 ｜ 通路：KR（Simon 2026-08-02：韩国客户「一些」） ｜ 节奏：2024-07 → 2026-09 去信 35 封；最后来信 2025-05-26 ｜ 证据：k=350843fae7f7201b / a073d6411a2a52db / 7a23a71b55abbff5 / b5cbfcb83f46328a / 6b7ea5b03a91b1ef；A 邮箱外发报价单正文（`data/gmail_a/attachments/text/`，2026-10-24 对表）
 - **现状一句话**：Kim 2025-02/03 为 16 口工业机讨价（要 300–380W、Marvell、2 SFP、非管理且便宜），Alan 的回信是 A 邮箱里对 C2 筛子最直白的书面表述：「Yes, the prices are high, we can actually reduce it. The purpose for this is, we are filtering our clients… For clients who do not accept or use Marvell solutions, we let it go」，并报 16 口铜 95 USD / 16 口 PoE+2 SFP 170 USD、PoE 预算 240W（-40~+70℃）或 370W（-40~+60℃）。2025-05 Kim 又问 bypass 4×4 / 2×2 / 独立 bypass 盒，Alan 报 280 USD、独立盒暂无。此后静默。
 - **对方真实需求（有据）**：16 口工业 PoE ≥300W（2 SFP）、bypass 4×4 / 2×2 管理型、独立 bypass 盒；贴 NEXTU 标。
 - **断点 / 为什么停在这里**：价格筛子生效（对方要 Realtek 价位的 Marvell 机）；但 bypass 是 Saga 少有人问的差异品，停在 280 USD 后没人再问一句。
@@ -349,12 +349,12 @@ Alan
 
 ## 下次复核
 
-- **2026-11-07**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-08**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 4 行原始记录归并；自动评级 A，分数 103）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 4 行原始记录归并；自动评级 A，分数 103）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

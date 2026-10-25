@@ -1,125 +1,125 @@
 {
-  "code": "SB-242",
-  "name_official": "",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（virtualprotective.com，快照 2026-10-21）",
-  "summary": "美国 Virtual Protective（德州建筑工地安防摄像机与监控服务（SPP-2S 系列移动监控设备）；Shopify 订单「90W PoE Injector（外购品）」；KP Jonathan Byrd（Technical Manager））；表内未跟进。",
-  "type": "工地安防监控服务商（美国，自建设备）",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "官网标题：Secure Your Construction Site with Virtual Protective | Advanced Security Solutions；品类词 安防监控（CCTV / 门禁）",
-      "quote": "Secure your Texas construction site with Virtual Protective's advanced security cameras and monitoring services. Contact us today!",
-      "url": "https://www.virtualprotective.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "90W PoE Injector外购品 / from: Shopify",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网快照",
-      "claim": "Virtual Protective 定位",
-      "quote": "Secure Your Construction Site with Virtual Protective | Advanced Security Solutions ; Construction Site Security Cameras and Monitoring",
-      "url": "https://www.virtualprotective.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "90W PoE Injector Shopify",
-      "quote": "90W PoE Injector外购品 / from: Shopify",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Jonathan Byrd",
-      "title": "Technical Manager",
-      "email": "jon@virtualprotective.com",
-      "phone": "",
-      "source": "用户表"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ "code": "SB-242",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（virtualprotective.com，快照 2026-10-21）",
+ "summary": "美国 Virtual Protective（德州建筑工地安防摄像机与监控服务（SPP-2S 系列移动监控设备）；Shopify 订单「90W PoE Injector（外购品）」；KP Jonathan Byrd（Technical Manager））；表内未跟进。",
+ "type": "工地安防监控服务商（美国，自建设备）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Secure Your Construction Site with Virtual Protective | Advanced Security Solutions；品类词 安防监控（CCTV / 门禁）",
+   "quote": "Secure your Texas construction site with Virtual Protective's advanced security cameras and monitoring services. Contact us today!",
+   "url": "https://www.virtualprotective.com/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "hq": "美国",
-    "other": "官网 virtualprotective.com，语言 en，快照状态 ok；角色判定来源：用户表"
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "90W PoE Injector外购品 / from: Shopify",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "建筑工地安防摄像与监控服务（德州）"
-  ],
-  "channels": {
-    "role": "工地安防监控服务商（美国，自建设备）",
-    "region": "美国",
-    "contact": "jon@virtualprotective.com"
+  {
+   "kind": "官网快照",
+   "claim": "Virtual Protective 定位",
+   "quote": "Secure Your Construction Site with Virtual Protective | Advanced Security Solutions ; Construction Site Security Cameras and Monitoring",
+   "url": "https://www.virtualprotective.com/",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "官网：Secure your Texas construction site with Virtual Protective’s advanced security cameras and monitoring services；站内 SPP-2S / SPP-2SP / SPP-2ST；kw camera 42",
-    "表内：90W PoE Injector 外购品 / from: Shopify；KP Jonathan Byrd – Technical Manager"
-  ],
-  "risks": [
-    "PoE 注入器需求 Saga 不供（Q-32）；自建设备（量随业务）；90 W bt 口型在 Saga 工业 4 口列表中待核"
-  ],
-  "saga_fit": {
-    "p1": "STI-154GP",
-    "tier": 25,
-    "why": "移动监控塔/拖车配套 → 工业 4 PoE + 1 SFP STI-154GP（$39.2 @25%）/ 4 PoE + 1 GE STI-054GP（$32.5，90 W bt 口型待核）；PoE 注入器 Saga 不供（Q-32）"
-  },
-  "email_hook": "Jonathan, for the PoE feeding cameras on your construction-site units, we supply compact industrial 4-PoE + 1 uplink switches (−40~75 °C, 12–57 V input, FCC/CE/RoHS) from single units, EXW USD — do your units need 90 W (802.3bt) ports for PTZ cameras, or 30 W is enough?",
-  "mail_review": {
-    "binding": {
-      "level": "未发信（S/A 邮箱均无往来；来源：用户表「90W PoE Injector外购品 / from: Shopify」）",
-      "type": "工地安防监控服务商（美国，自建设备）",
-      "sieve": "—（未入筛）",
-      "stop": "从未触达",
-      "revive": "首封（具名 KP 优先，用研究档 email_hook）",
-      "lane": "US 主攻（四主）",
-      "cadence": "首封后看打开",
-      "evidence": "gmail_digest：out 0；用户表：「90W PoE Injector外购品 / from: Shopify」；研究档 risks：PoE 注入器需求 Saga 不供（Q-32）；自建设备（量随业务）；90 W bt 口型在 Saga 工业 4 口列表中待核"
-    },
-    "situation": "美国 Virtual Protective（德州建筑工地安防摄像机与监控服务（SPP-2S 系列移动监控设备）；Shopify 订单「90W PoE Injector（外购品）」；KP Jonathan Byrd（Technical Manager））；表内未跟进。",
-    "need": "移动监控塔/拖车配套 → 工业 4 PoE + 1 SFP STI-154GP（$39.2 @25%）/ 4 PoE + 1 GE STI-054GP（$32.5，90 W bt 口型待核）；PoE 注入器 Saga 不供（Q-32）",
-    "breakpoint": "PoE 注入器需求 Saga 不供（Q-32）；自建设备（量随业务）；90 W bt 口型在 Saga 工业 4 口列表中待核",
-    "saga_now": {
-      "p1": "STI-154GP",
-      "tier": 25,
-      "price": "首触锚价 STI-154GP $39.2 EXW（主表档位（2024 实报 $36–38 低于档位，可用档位；PDF 上限 $51.7）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
-      "why": "移动监控塔/拖车配套 → 工业 4 PoE + 1 SFP STI-154GP（$39.2 @25%）/ 4 PoE + 1 GE STI-054GP（$32.5，90 W bt 口型待核）；PoE 注入器 Saga 不供（Q-32）",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "待 Simon 排期（首封）",
-      "channel": "A 邮箱 → jon@virtualprotective.com（Jonathan Byrd）",
-      "action": "首封：按 email_hook 一问",
-      "one_question": "Jonathan, for the PoE feeding cameras on your construction-site units, we supply compact industrial 4-PoE + 1 uplink switches (−40~75 °C, 12–57 V input, FCC/CE/RoHS) from single units, EXW USD — do your units need 90 W (802.3bt) ports for PTZ cameras, or 30 W is enough? Reference: STI-154GP at $39.2 USD EXW (MOQ 1, 15-day validity)."
-    },
-    "facts": [
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "90W PoE Injector外购品 / from: Shopify",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [
-      "无邮件往来"
-    ],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "90W PoE Injector Shopify",
+   "quote": "90W PoE Injector外购品 / from: Shopify",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Jonathan Byrd",
+   "title": "Technical Manager",
+   "email": "jon@virtualprotective.com",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "美国",
+  "other": "官网 virtualprotective.com，语言 en，快照状态 ok；角色判定来源：用户表"
+ },
+ "business_lines": [
+  "建筑工地安防摄像与监控服务（德州）"
+ ],
+ "channels": {
+  "role": "工地安防监控服务商（美国，自建设备）",
+  "region": "美国",
+  "contact": "jon@virtualprotective.com"
+ },
+ "signals": [
+  "官网：Secure your Texas construction site with Virtual Protective’s advanced security cameras and monitoring services；站内 SPP-2S / SPP-2SP / SPP-2ST；kw camera 42",
+  "表内：90W PoE Injector 外购品 / from: Shopify；KP Jonathan Byrd – Technical Manager"
+ ],
+ "risks": [
+  "PoE 注入器需求 Saga 不供（Q-32）；自建设备（量随业务）；90 W bt 口型在 Saga 工业 4 口列表中待核"
+ ],
+ "saga_fit": {
+  "p1": "STI-154GP",
+  "tier": 25,
+  "why": "移动监控塔/拖车配套 → 工业 4 PoE + 1 SFP STI-154GP（$39.2 @25%）/ 4 PoE + 1 GE STI-054GP（$32.5，90 W bt 口型待核）；PoE 注入器 Saga 不供（Q-32）"
+ },
+ "email_hook": "Jonathan, for the PoE feeding cameras on your construction-site units, we supply compact industrial 4-PoE + 1 uplink switches (−40~75 °C, 12–57 V input, FCC/CE/RoHS) from single units, EXW USD — do your units need 90 W (802.3bt) ports for PTZ cameras, or 30 W is enough?",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「90W PoE Injector外购品 / from: Shopify」；Elsa 箱：`to:virtualprotective.com` 逐户查 0（2026-10-24 第 73 批(o)，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(g)））",
+   "type": "工地安防监控服务商（美国，自建设备）",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+   "lane": "US 主攻（四主）",
+   "cadence": "首封后看打开",
+   "evidence": "gmail_digest：out 0；用户表：「90W PoE Injector外购品 / from: Shopify」；研究档 risks：PoE 注入器需求 Saga 不供（Q-32）；自建设备（量随业务）；90 W bt 口型在 Saga 工业 4 口列表中待核"
+  },
+  "situation": "美国 Virtual Protective（德州建筑工地安防摄像机与监控服务（SPP-2S 系列移动监控设备）；Shopify 订单「90W PoE Injector（外购品）」；KP Jonathan Byrd（Technical Manager））；表内未跟进。",
+  "need": "移动监控塔/拖车配套 → 工业 4 PoE + 1 SFP STI-154GP（$39.2 @25%）/ 4 PoE + 1 GE STI-054GP（$32.5，90 W bt 口型待核）；PoE 注入器 Saga 不供（Q-32）",
+  "breakpoint": "PoE 注入器需求 Saga 不供（Q-32）；自建设备（量随业务）；90 W bt 口型在 Saga 工业 4 口列表中待核",
+  "saga_now": {
+   "p1": "STI-154GP",
+   "tier": 25,
+   "price": "首触锚价 STI-154GP $39.2 EXW（主表档位（2024 实报 $36–38 低于档位，可用档位；PDF 上限 $51.7）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
+   "why": "移动监控塔/拖车配套 → 工业 4 PoE + 1 SFP STI-154GP（$39.2 @25%）/ 4 PoE + 1 GE STI-054GP（$32.5，90 W bt 口型待核）；PoE 注入器 Saga 不供（Q-32）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "待 Simon 排期（首封）",
+   "channel": "A 邮箱 → jon@virtualprotective.com（Jonathan Byrd）",
+   "action": "首封：按 email_hook 一问",
+   "one_question": "Jonathan, for the PoE feeding cameras on your construction-site units, we supply compact industrial 4-PoE + 1 uplink switches (−40~75 °C, 12–57 V input, FCC/CE/RoHS) from single units, EXW USD — do your units need 90 W (802.3bt) ports for PTZ cameras, or 30 W is enough? Reference: STI-154GP at $39.2 USD EXW (MOQ 1, 15-day validity)."
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "90W PoE Injector外购品 / from: Shopify",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

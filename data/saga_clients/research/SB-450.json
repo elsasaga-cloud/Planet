@@ -1,125 +1,125 @@
 {
-  "code": "SB-450",
-  "name_official": "",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（microfasttech.com，快照 2026-10-21）",
-  "summary": "美国 MicroFast Technologies / MRDS Distributers（面向酒店、办公与企业的技术方案：CCTV 监控、PBX、综合布线、IT 基础设施；阿里巴巴询盘「同轴转网（EoC）」；KP Manishkumar Patel）；表内未跟进。",
-  "type": "安防/IT 集成商（美国，EoC 询盘）",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "官网标题：MicroFast Tech - Technology Solutions | Surveillance, PBX, Cabling, IT",
-      "quote": "Professional technology solutions for hotels, offices, and businesses. CCTV surveillance, PBX systems, structured cabling, and IT infrastructure.",
-      "url": "https://microfasttech.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "同轴转网 / from: 阿里巴巴询盘",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网快照",
-      "claim": "MicroFast 定位",
-      "quote": "MicroFast Tech - Technology Solutions | Surveillance, PBX, Cabling, IT ; Professional technology solutions for hotels, offices, and businesses",
-      "url": "https://microfasttech.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "同轴转网询盘",
-      "quote": "同轴转网 / from: 阿里巴巴询盘",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Manishkumar Patel",
-      "title": "（职务待核）",
-      "email": "sales@mrdsdistributers.com",
-      "phone": "",
-      "source": "用户表"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ "code": "SB-450",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（microfasttech.com，快照 2026-10-21）",
+ "summary": "美国 MicroFast Technologies / MRDS Distributers（面向酒店、办公与企业的技术方案：CCTV 监控、PBX、综合布线、IT 基础设施；阿里巴巴询盘「同轴转网（EoC）」；KP Manishkumar Patel）；表内未跟进。",
+ "type": "安防/IT 集成商（美国，EoC 询盘）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：MicroFast Tech - Technology Solutions | Surveillance, PBX, Cabling, IT",
+   "quote": "Professional technology solutions for hotels, offices, and businesses. CCTV surveillance, PBX systems, structured cabling, and IT infrastructure.",
+   "url": "https://microfasttech.com/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "hq": "美国",
-    "other": "官网 microfasttech.com，语言 en，快照状态 ok；角色判定来源：官网文案"
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "同轴转网 / from: 阿里巴巴询盘",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "CCTV / PBX / 布线 / IT 基础设施集成（美国）"
-  ],
-  "channels": {
-    "role": "安防/IT 集成商（美国，EoC 询盘）",
-    "region": "美国",
-    "contact": "sales@mrdsdistributers.com"
+  {
+   "kind": "官网快照",
+   "claim": "MicroFast 定位",
+   "quote": "MicroFast Tech - Technology Solutions | Surveillance, PBX, Cabling, IT ; Professional technology solutions for hotels, offices, and businesses",
+   "url": "https://microfasttech.com/",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "官网：Professional technology solutions for hotels, offices, and businesses. CCTV surveillance, PBX systems, structured cabling, and IT infrastructure",
-    "表内：同轴转网 / from: 阿里巴巴询盘；KP Manishkumar Patel；邮箱 sales@mrdsdistributers.com"
-  ],
-  "risks": [
-    "询盘品类 EoC Saga 不供（Q-32）；小型集成商（量小）；未跟进过"
-  ],
-  "saga_fit": {
-    "p1": "STC-28DGGPM",
-    "tier": 25,
-    "why": "询盘品类 EoC（Saga 不供，Q-32）→ 转推 CCTV/PBX 配套 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424DGGPM-280W（$140.1）"
-  },
-  "email_hook": "Manish, following your Ethernet-over-coax enquiry: we do not carry EoC adapters, but we supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches for CCTV and PBX installs from single units, FCC/CE/RoHS, EXW USD — is there a PoE switch position in the same hotel or office project we could quote?",
-  "mail_review": {
-    "binding": {
-      "level": "未发信（S/A 邮箱均无往来；来源：用户表「同轴转网 / from: 阿里巴巴询盘」）",
-      "type": "安防/IT 集成商（美国，EoC 询盘）",
-      "sieve": "—（未入筛）",
-      "stop": "从未触达",
-      "revive": "首封（具名 KP 优先，用研究档 email_hook）",
-      "lane": "US 主攻（四主）",
-      "cadence": "首封后看打开",
-      "evidence": "gmail_digest：out 0；用户表：「同轴转网 / from: 阿里巴巴询盘」；研究档 risks：询盘品类 EoC Saga 不供（Q-32）；小型集成商（量小）；未跟进过"
-    },
-    "situation": "美国 MicroFast Technologies / MRDS Distributers（面向酒店、办公与企业的技术方案：CCTV 监控、PBX、综合布线、IT 基础设施；阿里巴巴询盘「同轴转网（EoC）」；KP Manishkumar Patel）；表内未跟进。",
-    "need": "询盘品类 EoC（Saga 不供，Q-32）→ 转推 CCTV/PBX 配套 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424DGGPM-280W（$140.1）",
-    "breakpoint": "询盘品类 EoC Saga 不供（Q-32）；小型集成商（量小）；未跟进过",
-    "saga_now": {
-      "p1": "STC-28DGGPM",
-      "tier": 25,
-      "price": "首触锚价 STC-28DGGPM $84.1 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
-      "why": "询盘品类 EoC（Saga 不供，Q-32）→ 转推 CCTV/PBX 配套 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424DGGPM-280W（$140.1）",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "待 Simon 排期（首封）",
-      "channel": "A 邮箱 → sales@mrdsdistributers.com（Manishkumar Patel）",
-      "action": "首封：按 email_hook 一问",
-      "one_question": "Manish, following your Ethernet-over-coax enquiry: we do not carry EoC adapters, but we supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches for CCTV and PBX installs from single units, FCC/CE/RoHS, EXW USD — is there a PoE switch position in the same hotel or office project we could quote? Reference: STC-28DGGPM at $84.1 USD EXW (MOQ 1, 15-day validity)."
-    },
-    "facts": [
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "同轴转网 / from: 阿里巴巴询盘",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [
-      "无邮件往来"
-    ],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "同轴转网询盘",
+   "quote": "同轴转网 / from: 阿里巴巴询盘",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Manishkumar Patel",
+   "title": "（职务待核）",
+   "email": "sales@mrdsdistributers.com",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "美国",
+  "other": "官网 microfasttech.com，语言 en，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "CCTV / PBX / 布线 / IT 基础设施集成（美国）"
+ ],
+ "channels": {
+  "role": "安防/IT 集成商（美国，EoC 询盘）",
+  "region": "美国",
+  "contact": "sales@mrdsdistributers.com"
+ },
+ "signals": [
+  "官网：Professional technology solutions for hotels, offices, and businesses. CCTV surveillance, PBX systems, structured cabling, and IT infrastructure",
+  "表内：同轴转网 / from: 阿里巴巴询盘；KP Manishkumar Patel；邮箱 sales@mrdsdistributers.com"
+ ],
+ "risks": [
+  "询盘品类 EoC Saga 不供（Q-32）；小型集成商（量小）；未跟进过"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 25,
+  "why": "询盘品类 EoC（Saga 不供，Q-32）→ 转推 CCTV/PBX 配套 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424DGGPM-280W（$140.1）"
+ },
+ "email_hook": "Manish, following your Ethernet-over-coax enquiry: we do not carry EoC adapters, but we supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches for CCTV and PBX installs from single units, FCC/CE/RoHS, EXW USD — is there a PoE switch position in the same hotel or office project we could quote?",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「同轴转网 / from: 阿里巴巴询盘」；Elsa 箱：`to:microfasttech.com OR to:mrdsdistributers.com` 逐户查 0（2026-10-24 第 73 批(o)，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(g)））",
+   "type": "安防/IT 集成商（美国，EoC 询盘）",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+   "lane": "US 主攻（四主）",
+   "cadence": "首封后看打开",
+   "evidence": "gmail_digest：out 0；用户表：「同轴转网 / from: 阿里巴巴询盘」；研究档 risks：询盘品类 EoC Saga 不供（Q-32）；小型集成商（量小）；未跟进过"
+  },
+  "situation": "美国 MicroFast Technologies / MRDS Distributers（面向酒店、办公与企业的技术方案：CCTV 监控、PBX、综合布线、IT 基础设施；阿里巴巴询盘「同轴转网（EoC）」；KP Manishkumar Patel）；表内未跟进。",
+  "need": "询盘品类 EoC（Saga 不供，Q-32）→ 转推 CCTV/PBX 配套 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424DGGPM-280W（$140.1）",
+  "breakpoint": "询盘品类 EoC Saga 不供（Q-32）；小型集成商（量小）；未跟进过",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 25,
+   "price": "首触锚价 STC-28DGGPM $84.1 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
+   "why": "询盘品类 EoC（Saga 不供，Q-32）→ 转推 CCTV/PBX 配套 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424DGGPM-280W（$140.1）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "待 Simon 排期（首封）",
+   "channel": "A 邮箱 → sales@mrdsdistributers.com（Manishkumar Patel）",
+   "action": "首封：按 email_hook 一问",
+   "one_question": "Manish, following your Ethernet-over-coax enquiry: we do not carry EoC adapters, but we supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches for CCTV and PBX installs from single units, FCC/CE/RoHS, EXW USD — is there a PoE switch position in the same hotel or office project we could quote? Reference: STC-28DGGPM at $84.1 USD EXW (MOQ 1, 15-day validity)."
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "同轴转网 / from: 阿里巴巴询盘",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

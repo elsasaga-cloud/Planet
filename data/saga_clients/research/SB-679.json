@@ -90,7 +90,7 @@
    "level": "轻度触达（S/A 邮箱 5 封来信 2024-09→2025-01 + Elsa 邮箱 2025-12-08 Ravi「How about Console port and management ports」对 Booster PoE——Ravi 仍在读、仍在问；Q-33/印度口径不变）；补核（第 73 批）：Ravi 12-08 的问题是线程最后一封，Elsa 未回 → 我方欠答 10 个月，信稿按补答写",
    "type": "印度网络品牌商（Apollo Infoways / WatchDog 自有型号，中国 ODM 采购；Ravi = 老板）——第一档品牌商但印度价格段",
    "sieve": "3（问价 + 规格）",
-   "stop": "管理型 24V/48V $110 对印度品牌商偏高；30V/55V 不支持",
+   "stop": "管理型 24V/48V $110 对印度品牌商偏高；30V/55V 不支持；Simon 2026-10-25：不用管了（T29-U51），不再提醒",
    "revive": "补一句规格实话（Console RJ45 + Web/CLI/SNMP 带内管理；无独立 OOB 管理口）；不推进",
    "lane": "IN 非主攻",
    "cadence": "不动",
@@ -108,9 +108,9 @@
    "gaps": []
   },
   "next_move": {
-   "when": "现在（我方欠答 10 个月；顺手）",
+   "when": "不动",
    "channel": "Elsa 邮箱回原线程",
-   "action": "补答；回原串（Elsa 邮箱 thread，邮件客户端自动带 Re:），开头承认 12 月的问题没人答",
+   "action": "Simon 2026-10-25 裁定：这桩旧欠答不用管了（T29-U51）——补答信稿留档不发；若对方再来信再按「我方欠答」口径接。原拟动作：补答；回原串（Elsa 邮箱 thread，邮件客户端自动带 Re:），开头承认 12 月的问题没人答",
    "one_question": "Ravi — the booster-PoE managed unit has an RJ45 console port and in-band management (web/CLI/SNMP); no dedicated out-of-band management port. Does your spec need OOB?"
   },
   "facts": [

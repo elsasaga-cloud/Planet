@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -42,7 +42,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-068` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A/S 邮箱 23 封 2024→2026，无记录打开，0 回；收件 info@digicomm.de；主题多为「Marvell Industrial Alert System、10G Enterprise SFP Switch」）** ｜ 类型：关键基础设施通信方案商（德国，自有标工业 FS，现含 ONV） ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：停发群发；若要继续，换具名邮箱 + 只问一句 ｜ 通路：DE 主攻（四主） ｜ 节奏：一封 ｜ 证据：gmail_digest：out 23；用户表：「工业FS MC SFP 自己的logo 有ONV的」；研究档 risks：守界备注：客户为关键基础设施（能源/公用事业等）——只供民用通用工业交换机/MC，不涉报警/公共安全专用系统
+- **绑定等级：未触达（A/S 邮箱 23 封 2024→2026，无记录打开，0 回；收件 info@digicomm.de；主题多为「Marvell Industrial Alert System、10G Enterprise SFP Switch」；Elsa 箱：`to:.de` 穷举 29 条（2026-10-25，锚批 Bcc 头已读）未见 digicomm.de → Elsa 箱从未发过本户，往来只在 S/A 箱（去 23 / 来 0）（第 74 批(f)））** ｜ 类型：关键基础设施通信方案商（德国，自有标工业 FS，现含 ONV） ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：停发群发；若要继续，换具名邮箱 + 只问一句 ｜ 通路：DE 主攻（四主） ｜ 节奏：一封 ｜ 证据：gmail_digest：out 23；用户表：「工业FS MC SFP 自己的logo 有ONV的」；研究档 risks：守界备注：客户为关键基础设施（能源/公用事业等）——只供民用通用工业交换机/MC，不涉报警/公共安全专用系统
 - **现状一句话**：德国 digicomm（40 年关键基础设施安全数据通信：光纤/铜缆/无线网络、SHDSL（SHDTU/SHRM）、报警方案（AddSecure 工作坊）、软件/安全，OT 应用；表内「工业 FS MC SFP 自己的 logo，有 ONV 的」「可以着重跟一下」）；群发 15 次无回复。
 - **对方真实需求（有据）**：自有 logo 工业 FS（现 ONV 深圳）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）贴 digicomm 标；MC 位 STI-110GE（$24.3）；SFP Saga 不供（Q-32）
 - **断点 / 为什么停在这里**：守界备注：客户为关键基础设施（能源/公用事业等）——只供民用通用工业交换机/MC，不涉报警/公共安全专用系统
@@ -299,12 +299,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 55）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 55）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

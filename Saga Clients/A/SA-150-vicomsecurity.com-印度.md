@@ -27,7 +27,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -35,16 +35,16 @@ updated: 2026-10-24
 - **是谁**：印度加尔各答 IP 视频监控/消防/楼宇管理/OFC 网络交钥匙项目公司（1995 年，自有 VICOM 品牌摄像机，30,000+ 项目安装，约 120 人，FY2024 营收 ₹27.1 Cr ≈ 330 万美元）；WA 在线、已开视频会，2 次回复、13 次跟进；需求 4 光 4 PoE 管理型 / 4 光 24 电。（调研 2026-10-21；表内兴趣：CCTV；4光4POE管理/4光24电 开了视频会/Retailer）
 - **为什么是 A 级**：+30 实质回复 2 次（问价/要资料/问型号等）；+15 WhatsApp 已加并有跟进表；-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度；+5 最近活动 2025
 - **历史互动**：实质回复 2 次；WhatsApp 已加；推送 13 次（2024-04-28 → 2025-06-21）；最近一次客户回复：2024-05-19：在和他们合作/https://www.benchu-group.net/
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424DGGPM-280W — 4 光 24 电管理 PoE 贴牌（VICOM）→ STC-424DGGPM-280W 对位，8+2 DIN（VIES7511）同问；锚价：STI-288GPM $85.5 / STC-424DGGPM-280W $145.7（30% 档）（第 72 批 2026-10-24）；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-25 $65（10G Media Converter）、2024-11-01 $300（48 Port PoE Managed Switch）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STC-424DGGPM-280W — 4 光 24 电管理 PoE 贴牌（VICOM）→ STC-424DGGPM-280W 对位，8+2 DIN（VIES7511）同问；锚价：STI-288GPM $85.5 / STC-424DGGPM-280W $145.7（30% 档）（第 72 批 2026-10-24）；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-25 $65（10G Media Converter）、2024-11-01 $300（48 Port PoE Managed Switch）
 - **第一问（只问一个）**：Your VIES7511-8PGE2GF-DC and the 24GP4GC-L2M are the two footprints we build on a Marvell core, so I am quoting both in VICOM packing as a second source, with the 16-port PoE model following the same datasheet layout. Which of the two footprints would VICOM second-source first? Reference: STI-288GPM at $85.5 / STC-424DGGPM-280W at $145.7 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
 - **下一步**：2027-Q1（Simon 决定是否重启；视频会后 7 封 0 回） A 邮箱 / Simon 原通道（Vicom） 一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频
 
-## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-25）
 
-> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-150` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-150` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-25。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未绑定（邮件 7 封 0 回；用户表：已开视频会 + 自有品牌 + 机型需求）** ｜ 类型：加尔各答安防集成 + 自有品牌（Vicom） ｜ 筛子：0（邮件层无人工回复） ｜ 停点：2024-12 后未再发 ｜ 复活：视频会后的跟进在 Simon 手上 ｜ 通路：IN ｜ 节奏：不主动 ｜ 证据：邮件：去信 7 封（2024-06-29 → 2024-12-20），来信 0；Opened 标签 0 次；收件人 info@vicomsecurity.com
+- **绑定等级：未绑定（邮件 7 封 0 回；用户表：已开视频会 + 自有品牌 + 机型需求）；Elsa 群发 BCC 已触达 2026-08-17「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，印度-2（锚 mintusony IN；2025-10-02 起月轮，201+） 批次 To mintusony@gmail.com，0 回（第 74 批 Bcc 头核对 msg 1a00e1740d3438ea）** ｜ 类型：加尔各答安防集成 + 自有品牌（Vicom） ｜ 筛子：0（邮件层无人工回复） ｜ 停点：2024-12 后未再发 ｜ 复活：视频会后的跟进在 Simon 手上 ｜ 通路：IN ｜ 节奏：不主动 ｜ 证据：邮件：去信 7 封（2024-06-29 → 2024-12-20），来信 0；Opened 标签 0 次；收件人 info@vicomsecurity.com；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To mintusony@gmail.com）本户见于 2026-08-17 名单；该批次最早 2025-10-02 起共 5 轮，更早轮次 Bcc 未读
 - **现状一句话**：视频会在邮件之外。
 - **对方真实需求（有据）**：4 光 24 电管理 PoE 贴牌。
 - **断点 / 为什么停在这里**：—
@@ -56,6 +56,7 @@ updated: 2026-10-24
 |---|---|---|---|---|---|
 | 2024-04-28 | 来 | 用户表（Simon 跟进记录；渠道 Whatsapp） | 用户表跟进：推「发了2层管理BT信息」→ 对方「有统一的管理软件平台」 | Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写 | `Clients/Whatsapp_S跟进 2026.08.04.xlsx no.62 2024.4.28` |
 | 2024-05-19 | 来 | 用户表（Simon 跟进记录；渠道 Whatsapp） | 用户表跟进：推「发了几个mini工业交换机」→ 对方「在和他们合作/https://www.benchu-group.net/」 | Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写 | `Clients/Whatsapp_S跟进 2026.08.04.xlsx no.62 2024.5.19` |
+| 2026-08-17 | 去 | Elsa 群发（BCC；To mintusony@gmail.com，印度-2（锚 mintusony IN；2025-10-02 起月轮，201+） 批次） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发 BCC 触达证据（命中地址 info@vicomsecurity.com, vicomsecurity.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文
 
@@ -308,12 +309,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-07**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-08**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 61）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 61）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

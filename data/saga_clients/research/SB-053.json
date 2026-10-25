@@ -77,7 +77,7 @@
  "email_hook": "For the 4K and 5K camera sites you install, the 8-port PoE+ managed switch gives 30 W on every port plus 2 SFP uplinks; if a project is coming up I can quote EXW with 15-day validity.",
  "mail_review": {
   "binding": {
-   "level": "未触达（A 邮箱 4 封 2026，无记录打开，0 回；收件 bogdan@omnisecurity.ro；主题多为「24 Port PoE Managed Switch、10G L3 Managed Switch」）",
+   "level": "未触达（A 邮箱 4 封 2026，无记录打开，0 回；收件 bogdan@omnisecurity.ro；主题多为「24 Port PoE Managed Switch、10G L3 Managed Switch」；Elsa 箱：`to:.ro` 穷举 22 条（2026-10-25，锚批 Bcc 头已读）未见 omnisecurity.ro → Elsa 箱从未发过本户，往来只在 S/A 箱（去 4 / 来 0）（第 74 批(f)））",
    "type": "—",
    "sieve": "1（只收到群发）",
    "stop": "4 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",

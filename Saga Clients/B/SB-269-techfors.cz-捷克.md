@@ -25,7 +25,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -42,7 +42,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-269` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：读而不回（A 邮箱 19 封 2025→2026，其中 2 封被打开，0 回；收件 firma@techfors.cz；被打开主题「Managed Optical Bypass Switch、Industrial PoE Switch」）** ｜ 类型：安防分销商（捷克，IFS 工业 FS 在售） ｜ 筛子：2（有人在读，无人回） ｜ 停点：读而不回 = 内容未命中或没有当下需求 ｜ 复活：一封「只问一句」的短信给打开过的地址（不附图不附表） ｜ 通路：捷克（欧洲全域主攻） ｜ 节奏：一封；回了再说 ｜ 证据：gmail_digest：out 19，Opened 标签 2（Simon 群发追踪）；用户表：「IFS这个牌子 工业FS MC CCTV」；研究档 risks：IFS（Carrier 旗下）为既定品牌线，白牌为预算补位；8 次无回复，仅 firma@
+- **绑定等级：读而不回（A 邮箱 19 封 2025→2026，其中 2 封被打开，0 回；收件 firma@techfors.cz；被打开主题「Managed Optical Bypass Switch、Industrial PoE Switch」；Elsa 箱：`to:.cz` 穷举 1 条（2026-10-25，锚批 Bcc 头已读）未见 techfors.cz → Elsa 箱从未发过本户，往来只在 S/A 箱（去 19 / 来 0）（第 74 批(f)））** ｜ 类型：安防分销商（捷克，IFS 工业 FS 在售） ｜ 筛子：2（有人在读，无人回） ｜ 停点：读而不回 = 内容未命中或没有当下需求 ｜ 复活：一封「只问一句」的短信给打开过的地址（不附图不附表） ｜ 通路：捷克（欧洲全域主攻） ｜ 节奏：一封；回了再说 ｜ 证据：gmail_digest：out 19，Opened 标签 2（Simon 群发追踪）；用户表：「IFS这个牌子 工业FS MC CCTV」；研究档 risks：IFS（Carrier 旗下）为既定品牌线，白牌为预算补位；8 次无回复，仅 firma@
 - **现状一句话**：捷克 Techfors CZ s.r.o.（CCTV/安防分销：IFS（Interlogix）品牌、PoE、NVR、门禁 ATS8600；表内「IFS 这个牌子，工业 FS MC CCTV」「可以尝试多跟进一下」）；群发 8 次无回复。
 - **对方真实需求（有据）**：现售 IFS（Interlogix/Carrier）工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）作预算线；MC 位 STI-110GE（$22.4）；商用 STC-28DGGPM（$80.7）
 - **断点 / 为什么停在这里**：IFS（Carrier 旗下）为既定品牌线，白牌为预算补位；8 次无回复，仅 firma@
@@ -285,12 +285,12 @@ Saga Telecom · sagatele.com
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 46）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 46）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

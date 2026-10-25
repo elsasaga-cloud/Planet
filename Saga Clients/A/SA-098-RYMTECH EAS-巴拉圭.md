@@ -27,7 +27,7 @@ price_tier: 25%
 research: done
 site_snapshot: http_error  # 2026-10-21
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -44,7 +44,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-098` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未绑定（邮件 2 封 0 回；用户表「12 光 12 电 ×2、3 次回复、WA」）** ｜ 类型：南美系统集成（RYMTECH） ｜ 筛子：0（邮件层无人工回复） ｜ 停点：— ｜ 复活：WA ｜ 通路：LatAm ｜ 节奏：WA ｜ 证据：邮件：去信 2 封（2024-09-09 → 2024-10-11），来信 0；Opened 标签 0 次；收件人 cirruslink1983@gmail.com, rosorio@rym-tech.net
+- **绑定等级：未绑定（邮件 2 封 0 回；用户表「12 光 12 电 ×2、3 次回复、WA」；Elsa 箱：`to:rym-tech.net` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 2 / 来 0）（第 74 批(g)））** ｜ 类型：南美系统集成（RYMTECH） ｜ 筛子：0（邮件层无人工回复） ｜ 停点：— ｜ 复活：WA ｜ 通路：LatAm ｜ 节奏：WA ｜ 证据：邮件：去信 2 封（2024-09-09 → 2024-10-11），来信 0；Opened 标签 0 次；收件人 cirruslink1983@gmail.com, rosorio@rym-tech.net
 - **现状一句话**：需求具体但邮件无痕。
 - **对方真实需求（有据）**：12 光 12 电 ×2。
 - **断点 / 为什么停在这里**：—
@@ -283,12 +283,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-07**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-08**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 69）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 69）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

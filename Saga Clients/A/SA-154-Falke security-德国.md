@@ -27,7 +27,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -44,7 +44,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-154` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未绑定（邮件 15 封 0 回、Opened 0；用户表：明确机型兴趣 4 光 8 电 10G 上联 / 2.5G）** ｜ 类型：杜伊斯堡安防经销/项目（Falke Security）——德国主攻 ｜ 筛子：0（邮件层无人工回复） ｜ 停点：info@ 0 打开 ｜ 复活：换联系人 + 对位两款 ｜ 通路：DE ｜ 节奏：一次 ｜ 证据：邮件：去信 15 封（2025-04-15 → 2026-09-24），来信 0；Opened 标签 0 次；收件人 info@falke-security.de
+- **绑定等级：未绑定（邮件 15 封 0 回、Opened 0；用户表：明确机型兴趣 4 光 8 电 10G 上联 / 2.5G；Elsa 箱：`to:.de` 穷举 29 条（2026-10-25，锚批 Bcc 头已读）未见 falke-security.de → Elsa 箱从未发过本户，往来只在 S/A 箱（去 15 / 来 0）（第 74 批(f)））** ｜ 类型：杜伊斯堡安防经销/项目（Falke Security）——德国主攻 ｜ 筛子：0（邮件层无人工回复） ｜ 停点：info@ 0 打开 ｜ 复活：换联系人 + 对位两款 ｜ 通路：DE ｜ 节奏：一次 ｜ 证据：邮件：去信 15 封（2025-04-15 → 2026-09-24），来信 0；Opened 标签 0 次；收件人 info@falke-security.de
 - **现状一句话**：info@ 两年 0 打开；机型兴趣在邮件无痕。
 - **对方真实需求（有据）**：STC-424XGGPM-280W / 2.5G 1 光 8 电。
 - **断点 / 为什么停在这里**：触达层。
@@ -309,12 +309,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-07**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-08**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 60）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 60）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

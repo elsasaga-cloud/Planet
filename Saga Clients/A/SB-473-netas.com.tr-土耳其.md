@@ -28,7 +28,7 @@ price_tier: 25%
 research: done
 site_snapshot: none
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -45,7 +45,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-473` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：中度（正式供应商入库 + PO 2600011146 + 付款 $545 + 3 台样机交付；1 台留在终端客户处；止于 L3 组播/宽温功能上限）** ｜ 类型：系统集成商 / 国防通信项目承包（技术流） ｜ 筛子：3（NDA·ECCN 供应商表、PO、PI、付款、报关、样机） ｜ 停点：功能上限——终端客户要 L3 组播 PIM-SM **和** PIM-DM + RIPng/PBR + IP SLA；CENTEC 线 0~40 °C 不够（要 -40~+71 °C） ｜ 复活：固件 7.5（AC5）已支持 PIM-SM（仅 CLI）；若客户能接受「PIM-SM 无 PIM-DM」或出现新的 L2 需求即可重开；车载容器网络另需宽温 L3 接入机 ｜ 通路：TR 已通（USD T/T、DHL；Netaş 自有报关与合规流程） ｜ 节奏：最后 2026-07-17 Alan 发 AC5 特性表（无回）；实质往来 2025-10-13 → 2026-03-02，约 9 轮；Netaş 合规部季度群发仍在抄 Saga ｜ 证据：A 邮箱 k=221f4293f7917453 / 575f6cc1f5d1c75d / 10e6fdf62c477b46 / bbdc059bf34b2fbc / 2b615482de0608a5；第 19 批回补来信原文 8 条（gmail_s/gmail_a）；第 22 批回补附件原文：PO、CI STAG20251224020、Garanti 付款回单、UPS 发票、供应商入库包、ZTE 合规信
+- **绑定等级：中度（正式供应商入库 + PO 2600011146 + 付款 $545 + 3 台样机交付；1 台留在终端客户处；止于 L3 组播/宽温功能上限；Elsa 箱：`to:netas.com.tr` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 32 / 来 35）（第 74 批(g)））** ｜ 类型：系统集成商 / 国防通信项目承包（技术流） ｜ 筛子：3（NDA·ECCN 供应商表、PO、PI、付款、报关、样机） ｜ 停点：功能上限——终端客户要 L3 组播 PIM-SM **和** PIM-DM + RIPng/PBR + IP SLA；CENTEC 线 0~40 °C 不够（要 -40~+71 °C） ｜ 复活：固件 7.5（AC5）已支持 PIM-SM（仅 CLI）；若客户能接受「PIM-SM 无 PIM-DM」或出现新的 L2 需求即可重开；车载容器网络另需宽温 L3 接入机 ｜ 通路：TR 已通（USD T/T、DHL；Netaş 自有报关与合规流程） ｜ 节奏：最后 2026-07-17 Alan 发 AC5 特性表（无回）；实质往来 2025-10-13 → 2026-03-02，约 9 轮；Netaş 合规部季度群发仍在抄 Saga ｜ 证据：A 邮箱 k=221f4293f7917453 / 575f6cc1f5d1c75d / 10e6fdf62c477b46 / bbdc059bf34b2fbc / 2b615482de0608a5；第 19 批回补来信原文 8 条（gmail_s/gmail_a）；第 22 批回补附件原文：PO、CI STAG20251224020、Garanti 付款回单、UPS 发票、供应商入库包、ZTE 合规信
 - **现状一句话**：土耳其 Netaş（国防/运营商系统集成商，KAP 上市）采购专家 Ender Bulut 2025-10 经 Simon 转给 Alan；2025-12-01 决定以 **STI-488DGGPM-2BT** 作 L2 方案，走完 NDA/ECCN 供应商开户 → 12-23 PO → 12-24 PI 批准 → 2026-01-13 付款（3 台，$545）→ 1 月发货报关；2026-02-26/27 终端客户（车载容器网络）转向 **L3 组播**，Alan 明示 PIM-SM/DM、RIPng/PBR、IP SLA「NOT available with the current chipset」、CENTEC 温度不够，3-02 Ender 留 1 台样机在客户处并「等新 L2 机会」；此后只有 Alan 7-17 单向更新。
 - **对方真实需求（有据）**：① 已买：工业 L2+ 8 口 PoE（2×BT）3 台做实验室 + POC；② 真正的项目需求（2026-02-27 原话）：车载容器内多网络整合，2–4 台交换机/车，非核心汇聚，但**必须 L3 + PIM-SM/PIM-DM**，工作温度 **-40~+71 °C**，Netaş 自己做加固外壳；③ 2025-10-17 曾要 Marvell 模组 PCBA 的年量阶梯价（1–10 / 11–25 / 26–…）——说明他们考虑自制整机。
 - **断点 / 为什么停在这里**：不是价格、不是信任（PO/付款/报关都走完了），是**芯片方案的功能上限 + 温度**。Alan 2026-02-27 原话「PIM-SM/DM, problem; RIPng/PBR, big problem; IP SLA, problem. It is really hard to move on: R&D, ROI etc.」——属于 C10 边界，不设计绕路。但 7.5 固件已补 PIM-SM（仅 CLI、无 PIM-DM、无 IP SLA，见微信 Peter 2026 原话），边界比 2 月时小了一格。
@@ -334,12 +334,12 @@ Alan
 
 ## 下次复核
 
-- **2026-11-07**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-08**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 90）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 90）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

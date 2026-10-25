@@ -25,7 +25,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -42,7 +42,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-962` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A/S 邮箱 26 封 2024→2026，无记录打开，0 回；收件 sales@nextlan.cz；主题多为「Managed Optical Bypass Switch、Marvell Industrial Alert System」）** ｜ 类型：网络设备分销商（捷克，经营状态待核） ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：停发群发；若要继续，换具名邮箱 + 只问一句 ｜ 通路：捷克（欧洲全域主攻） ｜ 节奏：一封 ｜ 证据：gmail_digest：out 26；用户表：「420 4696 59144 加不上；420 4696 59144 加不上 / 早期ai: 25% B 捷克网络设备分销商，主营网络设备与通信解决方案，交换机为」；研究档 risks：域名快照为会计服务站（dgaccounting.cz）——经营状态待核（可能已停业/域名易主）；电话加不上；19 次无回复
+- **绑定等级：未触达（A/S 邮箱 26 封 2024→2026，无记录打开，0 回；收件 sales@nextlan.cz；主题多为「Managed Optical Bypass Switch、Marvell Industrial Alert System」；Elsa 箱：`to:.cz` 穷举 1 条（2026-10-25，锚批 Bcc 头已读）未见 nextlan.cz → Elsa 箱从未发过本户，往来只在 S/A 箱（去 26 / 来 0）（第 74 批(f)））** ｜ 类型：网络设备分销商（捷克，经营状态待核） ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：停发群发；若要继续，换具名邮箱 + 只问一句 ｜ 通路：捷克（欧洲全域主攻） ｜ 节奏：一封 ｜ 证据：gmail_digest：out 26；用户表：「420 4696 59144 加不上；420 4696 59144 加不上 / 早期ai: 25% B 捷克网络设备分销商，主营网络设备与通信解决方案，交换机为」；研究档 risks：域名快照为会计服务站（dgaccounting.cz）——经营状态待核（可能已停业/域名易主）；电话加不上；19 次无回复
 - **现状一句话**：捷克 Nextlan（早期 AI：捷克网络设备分销商，交换机为核心产品之一；nextlan.cz 现快照为会计服务站 dgaccounting.cz（域名易主，site_mismatch，经营状态待核）；电话加不上）；群发 19 次无回复。
 - **对方真实需求（有据）**：分销位 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）
 - **断点 / 为什么停在这里**：域名快照为会计服务站（dgaccounting.cz）——经营状态待核（可能已停业/域名易主）；电话加不上；19 次无回复
@@ -286,12 +286,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 29）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 29）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

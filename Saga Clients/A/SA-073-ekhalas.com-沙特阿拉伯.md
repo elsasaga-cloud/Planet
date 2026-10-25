@@ -27,7 +27,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -44,7 +44,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-073` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未绑定（唯一一次人工来信 = 要样品，止于付样规则）** ｜ 类型：沙特电信承包 + ICT 集成 + 自营 B2B 电商（ekhalas）；Inam Ahmed（Data Center Division Manager） ｜ 筛子：2（主动要样）→ 付样门槛停 ｜ 停点：2024-10-22 Inam「Please send me a sample to test」→ Simon 同日「It is NOT free samples. 36usd/pc STI-154GP」→ 无下文；此后 21 封去信全部发到 info@ekhalas.com（电商机器人自动回复 10 次），再没有发给 inam@ ｜ 复活：中东非主攻；若要复活，成本只是把收件人改回 inam@alrajhitel.com 并一句话问样品 ｜ 通路：SA：PayPal/T/T 可 ｜ 节奏：2024-06 → 2026-09 去信 26 封；人工来信 1 封（2024-10-22） ｜ 证据：k=2291cc97643c8854 / 775f9ed585dd20d5 / 3b9a30d69e46d2e7
+- **绑定等级：未绑定（唯一一次人工来信 = 要样品，止于付样规则；Elsa 箱：`to:ekhalas.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 28 / 来 11）（第 74 批(g)））** ｜ 类型：沙特电信承包 + ICT 集成 + 自营 B2B 电商（ekhalas）；Inam Ahmed（Data Center Division Manager） ｜ 筛子：2（主动要样）→ 付样门槛停 ｜ 停点：2024-10-22 Inam「Please send me a sample to test」→ Simon 同日「It is NOT free samples. 36usd/pc STI-154GP」→ 无下文；此后 21 封去信全部发到 info@ekhalas.com（电商机器人自动回复 10 次），再没有发给 inam@ ｜ 复活：中东非主攻；若要复活，成本只是把收件人改回 inam@alrajhitel.com 并一句话问样品 ｜ 通路：SA：PayPal/T/T 可 ｜ 节奏：2024-06 → 2026-09 去信 26 封；人工来信 1 封（2024-10-22） ｜ 证据：k=2291cc97643c8854 / 775f9ed585dd20d5 / 3b9a30d69e46d2e7
 - **现状一句话**：利雅得 Al Rajhi Telecom 的数据中心部经理 Inam 在 2024-10-22 回「送个样品测试」，Simon 按规则答「不免费，36 USD/台 STI-154GP」，对方静默。之后两年 Saga 的 21 封群发全部寄到 ekhalas 电商平台的 info@，收回 10 封「Thank you for contacting us」机器人信，研究档里的「1 次实质回复」就是那次要样。
 - **对方真实需求（有据）**：4 口工业 PoE（当时）；其平台在售 Vivotek PoE / TP-Link Omada / 华为 eKit / Dahua。
 - **断点 / 为什么停在这里**：付样规则本身是筛子（C 层不改），但收件人错了两年——投入都花在机器人身上。
@@ -333,12 +333,12 @@ Alan
 
 ## 下次复核
 
-- **2026-11-07**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-08**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 75）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 75）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

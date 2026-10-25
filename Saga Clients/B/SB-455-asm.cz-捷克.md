@@ -25,7 +25,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -42,7 +42,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-455` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A/S 邮箱 25 封 2024→2026，1 次记录打开，0 回；收件 hemzal@asm.cz；主题多为「Managed Optical Bypass Switch、Industrial PoE Switch」）** ｜ 类型：ICT 分销商（PLANET 捷克渠道，面向安装商/SI） ｜ 筛子：1~2（1 次打开） ｜ 停点：25 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱；Q-33 供应商渠道客户 ｜ 复活：不动（Q-33） ｜ 通路：捷克（欧洲全域主攻） ｜ 节奏：不动 ｜ 证据：gmail_digest：out 25，Opened 标签 1（Simon 群发追踪）；用户表：「POE FS 光模块 CVI SDI 同轴 工业FS等；POE FS 光模块 CVI SDI 同轴 工业FS等 很多都是Planet的；很多都是Planet的」；研究档 risks：PLANET 正规分销：白牌只能作第二价格线，需以交期/价格切入
+- **绑定等级：未触达（A/S 邮箱 25 封 2024→2026，1 次记录打开，0 回；收件 hemzal@asm.cz；主题多为「Managed Optical Bypass Switch、Industrial PoE Switch」；Elsa 箱：`to:.cz` 穷举 1 条（2026-10-25，锚批 Bcc 头已读）未见 asm.cz → Elsa 箱从未发过本户，往来只在 S/A 箱（去 25 / 来 0）（第 74 批(f)））** ｜ 类型：ICT 分销商（PLANET 捷克渠道，面向安装商/SI） ｜ 筛子：1~2（1 次打开） ｜ 停点：25 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱；Q-33 供应商渠道客户 ｜ 复活：不动（Q-33） ｜ 通路：捷克（欧洲全域主攻） ｜ 节奏：不动 ｜ 证据：gmail_digest：out 25，Opened 标签 1（Simon 群发追踪）；用户表：「POE FS 光模块 CVI SDI 同轴 工业FS等；POE FS 光模块 CVI SDI 同轴 工业FS等 很多都是Planet的；很多都是Planet的」；研究档 risks：PLANET 正规分销：白牌只能作第二价格线，需以交期/价格切入
 - **现状一句话**：捷克布尔诺 ASM 100MEGA Distribution spol. s r.o.（「数据与电信网络供应商」：面向安装公司与系统集成商的 ICT 分销，提供专业培训；站内 PLANET 词频 61（表内「很多都是 Planet 的」）、Dahua 105、Hikvision 60、TP-Link；表内兴趣 PoE FS / 光模块 / CVI / SDI / 同轴 / 工业 FS；KP Richard Hemzal（Purchasing，hemzal@））；群发 16 次无回复。
 - **对方真实需求（有据）**：PLANET 分销商 → Saga 作「PLANET 同口型的价格线」：24 口 PoE L2+ STC-424DGGPM-280W（$134.5 @20%）对位 PLANET GS-4210-24P4C；8 口位 STC-28DGGPM；工业位 STI-288GP 对位 PLANET IGS
 - **断点 / 为什么停在这里**：PLANET 正规分销：白牌只能作第二价格线，需以交期/价格切入
@@ -294,12 +294,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 40）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 40）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

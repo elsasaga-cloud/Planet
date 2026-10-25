@@ -1,124 +1,124 @@
 {
-  "code": "SB-412",
-  "name_official": "",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（steplockaccess.se，快照 2026-10-21）",
-  "summary": "瑞典 StepLock Access（门禁/锁具系统公司；表内「云管理 PoE，能支持 PoE 状态和开/关；给客户演示了 2 光 10 电的网管界面，客户比较专业」；KP Peter）；表内 6 次跟进无回复。",
-  "type": "门禁系统公司（瑞典，网管 PoE 配套）",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "官网标题：StepLock",
-      "quote": "",
-      "url": "https://steplock.com/SE/sv/access",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "云管理PoE 能支持PoE状态和开/关 给客户演示了2光10电的网管界面，客户比较专业",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "云管理 PoE 演示网管界面",
-      "quote": "云管理PoE 能支持PoE状态和开/关 给客户演示了2光10电的网管界面，客户比较专业",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Peter",
-      "title": "（职务待核）",
-      "email": "peter@steplockaccess.se",
-      "phone": "",
-      "source": "用户表"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ "code": "SB-412",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（steplockaccess.se，快照 2026-10-21）",
+ "summary": "瑞典 StepLock Access（门禁/锁具系统公司；表内「云管理 PoE，能支持 PoE 状态和开/关；给客户演示了 2 光 10 电的网管界面，客户比较专业」；KP Peter）；表内 6 次跟进无回复。",
+ "type": "门禁系统公司（瑞典，网管 PoE 配套）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：StepLock",
+   "quote": "",
+   "url": "https://steplock.com/SE/sv/access",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "hq": "瑞典",
-    "other": "官网 steplockaccess.se，语言 en，快照状态 ok；角色判定来源：待核"
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "云管理PoE 能支持PoE状态和开/关 给客户演示了2光10电的网管界面，客户比较专业",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "门禁 / 锁具系统（瑞典）"
-  ],
-  "channels": {
-    "role": "门禁系统公司（瑞典，网管 PoE 配套）",
-    "region": "瑞典",
-    "contact": "peter@steplockaccess.se"
-  },
-  "signals": [
-    "表内：云管理 PoE 能支持 PoE 状态和开/关 给客户演示了 2 光 10 电的网管界面，客户比较专业；KP Peter",
-    "快照：StepLock（内容空）"
-  ],
-  "risks": [
-    "需求含云管理（Saga 不做，仅本地 Web/SNMP）；6 次无回复 → 跟进演示后续；官网快照空"
-  ],
-  "saga_fit": {
-    "p1": "STC-28DGGPM",
-    "tier": 30,
-    "why": "PoE 口状态/开关控制 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%，Web 管理每口 PoE 开关）贴 StepLock 标；云管理 Saga 不做（注明）"
-  },
-  "email_hook": "Peter, following the web-UI demo of the 2-fibre + 10-copper switch: our Marvell-based 8-PoE + 2 SFP L2+ supports per-port PoE status and remote on/off via web/SNMP (no cloud, local management) and can carry the StepLock label from small lots, CE/RoHS — would per-port PoE scheduling and reset meet your access-control use case?",
-  "mail_review": {
-    "binding": {
-      "level": "未触达（A 邮箱 10 封 2025→2026，无记录打开，0 回；收件 peter@steplockaccess.se；主题多为「90W PoE Managed Switch、Marvell Industrial Alert System」）",
-      "type": "门禁系统公司（瑞典，网管 PoE 配套）",
-      "sieve": "1（只收到群发）",
-      "stop": "10 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-      "revive": "保持季度群发到 2027-Q1；无打开即停",
-      "lane": "瑞典（欧洲全域主攻）",
-      "cadence": "季度",
-      "evidence": "gmail_digest：out 10；用户表：「云管理PoE 能支持PoE状态和开/关 给客户演示了2光10电的网管界面，客户比较专业」；研究档 risks：需求含云管理（Saga 不做，仅本地 Web/SNMP）；6 次无回复 → 跟进演示后续；官网快照空"
-    },
-    "situation": "瑞典 StepLock Access（门禁/锁具系统公司；表内「云管理 PoE，能支持 PoE 状态和开/关；给客户演示了 2 光 10 电的网管界面，客户比较专业」；KP Peter）；表内 6 次跟进无回复。",
-    "need": "PoE 口状态/开关控制 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%，Web 管理每口 PoE 开关）贴 StepLock 标；云管理 Saga 不做（注明）",
-    "breakpoint": "需求含云管理（Saga 不做，仅本地 Web/SNMP）；6 次无回复 → 跟进演示后续；官网快照空",
-    "saga_now": {
-      "p1": "STC-28DGGPM",
-      "tier": 30,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-08 $280（10G Enterprise SFP Switch）",
-      "why": "PoE 口状态/开关控制 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%，Web 管理每口 PoE 开关）贴 StepLock 标；云管理 Saga 不做（注明）",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "群发节奏",
-      "channel": "A 邮箱",
-      "action": "观察打开",
-      "one_question": "Peter, following the web-UI demo of the 2-fibre + 10-copper switch: our Marvell-based 8-PoE + 2 SFP L2+ supports per-port PoE status and remote on/off via web/SNMP (no cloud, local management) and can carry the StepLock label from small lots, CE/RoHS — would per-port PoE scheduling and reset meet your access-control use case?"
-    },
-    "facts": [
-      {
-        "date": "2026-02-26",
-        "dir": "去",
-        "who": "A 群发",
-        "quote": "90W PoE Managed Switch、Marvell Industrial Alert System",
-        "why": "10 封 / 0 次打开 / 0 回｜首封 2025-03-20 → 末封 2026-02-26（10 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "云管理PoE 能支持PoE状态和开/关 给客户演示了2光10电的网管界面，客户比较专业",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "云管理 PoE 演示网管界面",
+   "quote": "云管理PoE 能支持PoE状态和开/关 给客户演示了2光10电的网管界面，客户比较专业",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Peter",
+   "title": "（职务待核）",
+   "email": "peter@steplockaccess.se",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "瑞典",
+  "other": "官网 steplockaccess.se，语言 en，快照状态 ok；角色判定来源：待核"
+ },
+ "business_lines": [
+  "门禁 / 锁具系统（瑞典）"
+ ],
+ "channels": {
+  "role": "门禁系统公司（瑞典，网管 PoE 配套）",
+  "region": "瑞典",
+  "contact": "peter@steplockaccess.se"
+ },
+ "signals": [
+  "表内：云管理 PoE 能支持 PoE 状态和开/关 给客户演示了 2 光 10 电的网管界面，客户比较专业；KP Peter",
+  "快照：StepLock（内容空）"
+ ],
+ "risks": [
+  "需求含云管理（Saga 不做，仅本地 Web/SNMP）；6 次无回复 → 跟进演示后续；官网快照空"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 30,
+  "why": "PoE 口状态/开关控制 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%，Web 管理每口 PoE 开关）贴 StepLock 标；云管理 Saga 不做（注明）"
+ },
+ "email_hook": "Peter, following the web-UI demo of the 2-fibre + 10-copper switch: our Marvell-based 8-PoE + 2 SFP L2+ supports per-port PoE status and remote on/off via web/SNMP (no cloud, local management) and can carry the StepLock label from small lots, CE/RoHS — would per-port PoE scheduling and reset meet your access-control use case?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 10 封 2025→2026，无记录打开，0 回；收件 peter@steplockaccess.se；主题多为「90W PoE Managed Switch、Marvell Industrial Alert System」；Elsa 箱：`to:.se` 穷举 12 条（2026-10-25，锚批 Bcc 头已读）未见 steplockaccess.se → Elsa 箱从未发过本户，往来只在 S/A 箱（去 10 / 来 0）（第 74 批(f)））",
+   "type": "门禁系统公司（瑞典，网管 PoE 配套）",
+   "sieve": "1（只收到群发）",
+   "stop": "10 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "瑞典（欧洲全域主攻）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 10；用户表：「云管理PoE 能支持PoE状态和开/关 给客户演示了2光10电的网管界面，客户比较专业」；研究档 risks：需求含云管理（Saga 不做，仅本地 Web/SNMP）；6 次无回复 → 跟进演示后续；官网快照空"
+  },
+  "situation": "瑞典 StepLock Access（门禁/锁具系统公司；表内「云管理 PoE，能支持 PoE 状态和开/关；给客户演示了 2 光 10 电的网管界面，客户比较专业」；KP Peter）；表内 6 次跟进无回复。",
+  "need": "PoE 口状态/开关控制 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%，Web 管理每口 PoE 开关）贴 StepLock 标；云管理 Saga 不做（注明）",
+  "breakpoint": "需求含云管理（Saga 不做，仅本地 Web/SNMP）；6 次无回复 → 跟进演示后续；官网快照空",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 30,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-08 $280（10G Enterprise SFP Switch）",
+   "why": "PoE 口状态/开关控制 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%，Web 管理每口 PoE 开关）贴 StepLock 标；云管理 Saga 不做（注明）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Peter, following the web-UI demo of the 2-fibre + 10-copper switch: our Marvell-based 8-PoE + 2 SFP L2+ supports per-port PoE status and remote on/off via web/SNMP (no cloud, local management) and can carry the StepLock label from small lots, CE/RoHS — would per-port PoE scheduling and reset meet your access-control use case?"
+  },
+  "facts": [
+   {
+    "date": "2026-02-26",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "90W PoE Managed Switch、Marvell Industrial Alert System",
+    "why": "10 封 / 0 次打开 / 0 回｜首封 2025-03-20 → 末封 2026-02-26（10 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "云管理PoE 能支持PoE状态和开/关 给客户演示了2光10电的网管界面，客户比较专业",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

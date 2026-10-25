@@ -27,7 +27,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -44,7 +44,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-029` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未绑定（产品经理 Gerhard Zerwes 明确「we have our solution」）** ｜ 类型：德国分销 + 自有品牌 ALLNET（€58M）——既有白牌来源（E-link 等） ｜ 筛子：1 ｜ 停点：2025-07-10「sorry we have our solution with SFP Slots and Managed Versions」——供给已满足 ｜ 复活：其现供应商断供/涨价；或要 Marvell L2+ 特定功能（ERPS/PIM-SM/IPv6） ｜ 通路：DE（主攻区） ｜ 节奏：2024-06 → 2026-10 去信 21 封；最后来信 2025-07-10；Gerhard 每年 5–6 月在亚洲（Computex 台北） ｜ 证据：k=3bed67df76fec9ba / 27176790332e9c58 / 15f87700ebc70348
+- **绑定等级：未绑定（产品经理 Gerhard Zerwes 明确「we have our solution」；Elsa 箱：`to:.de` 穷举 29 条（2026-10-25，锚批 Bcc 头已读）未见 allnet.de → Elsa 箱从未发过本户，往来只在 S/A 箱（去 21 / 来 3）（第 74 批(f)））** ｜ 类型：德国分销 + 自有品牌 ALLNET（€58M）——既有白牌来源（E-link 等） ｜ 筛子：1 ｜ 停点：2025-07-10「sorry we have our solution with SFP Slots and Managed Versions」——供给已满足 ｜ 复活：其现供应商断供/涨价；或要 Marvell L2+ 特定功能（ERPS/PIM-SM/IPv6） ｜ 通路：DE（主攻区） ｜ 节奏：2024-06 → 2026-10 去信 21 封；最后来信 2025-07-10；Gerhard 每年 5–6 月在亚洲（Computex 台北） ｜ 证据：k=3bed67df76fec9ba / 27176790332e9c58 / 15f87700ebc70348
 - **现状一句话**：ALLNET 的产品经理 Gerhard Zerwes 是真人回复：2025-07-10 对 16 口 DIN 群发回「我们已有带 SFP 槽和管理型的方案」。他每年 5–6 月去 Computex 并在亚洲停留一个月（2024 自动回复）。Saga 之后继续每月一封群发到 sales@/zerwes@，无回。
 - **对方真实需求（有据）**：自有品牌 ALLNET 工业/商用交换机货源——目前已满足。
 - **断点 / 为什么停在这里**：对方不是没需求而是已有供给；只有「供给侧变化」才是入口，不是更多产品图。
@@ -298,12 +298,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-07**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-08**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 88）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 88）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

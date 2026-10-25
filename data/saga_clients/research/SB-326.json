@@ -65,14 +65,14 @@
  "email_hook": "（低优先；若再询再报）",
  "mail_review": {
   "binding": {
-   "level": "轻度触达（2024-06-21 Ly Thanh Ha「Please quote me 10pcs」→ 报价已发；无后续）；Elsa 单发去信 1 封（2026-09-10「24 Port PoE Managed Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）",
+   "level": "轻度触达（2024-06-21 Ly Thanh Ha「Please quote me 10pcs」→ 报价已发；无后续）；Elsa 2026-09-10「24 Port PoE Managed Switch」同日两路：单发 To 本户 1 封（未见回复，Elsa 箱 Replied 标签无；第 74 批(e)）+ 越南批 Bcc 再触达 1 封，正文「Price: 170USD/PC」，越南（锚 vienthonghanoi VN） 批次 To inbox.vienthonghanoi@gmail.com，0 回（第 74 批 Bcc 头核对 msg 1a08a3bf37753529）",
    "type": "越南液压/自动化公司（MTS JSC）",
    "sieve": "3（10 台询价）",
    "stop": "报价后无回",
    "revive": "不动",
    "lane": "VN",
    "cadence": "不动",
-   "evidence": "k=6940cc80c3d991e2；第 19 批回补来信原文 1 条（gmail_s/gmail_a）"
+   "evidence": "k=6940cc80c3d991e2；第 19 批回补来信原文 1 条（gmail_s/gmail_a）；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To inbox.vienthonghanoi@gmail.com）本户见于 2026-09-10 名单"
   },
   "situation": "—",
   "need": "8 口光纤工业。",
@@ -128,6 +128,6 @@
   ],
   "proof_gaps": [],
   "draft_en": null,
-  "as_of": "2026-10-24"
+  "as_of": "2026-10-25"
  }
 }

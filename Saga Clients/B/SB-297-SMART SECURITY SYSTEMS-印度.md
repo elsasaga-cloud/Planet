@@ -37,18 +37,18 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GP — 他回的是 8 口工业 PoE 群发（非管理）；要价 + 手册 → 直接给 STI-288GP 实价 + 规格书，不升到管理型；STI-288GP $60（8 PoE + 2 SFP 非管理工业机，主表 25% 档 $59.8 ≈ Simon 实报量级）；备选商用桌面 STC-028GP $26.2（HRUI，25% 档）；他回的群发正文无价，所以没有「他看过的价」要迁就
 - **第一问（只问一个）**：Mr. Ahir — you asked for the price of the 8-port industrial PoE switch in July 2025 and never got it: STI-288GP (8× gigabit PoE + 2× SFP, unmanaged, DIN-rail) is $60 USD EXW, MOQ 1; is it for outdoor camera poles or indoor racks, and how many units?
 - **最大未知**：公司网站（表内无域名，无法核实是否仍在运营）
-- **下一步**：现在（我方欠答 15 个月） E 邮箱 → rkahir65@gmail.com（Rk Ahir；回原串 thread 197c0e2d0ac20935，邮件客户端自动带 Re:） 首封前知悉：Elsa 2026-05-11 单发过「10G Enterprise SFP Switch」（未见回复（Elsa 箱 Replied 标签无））；补答一封：价 + 规格书（附 STI-288GP.pdf）+ 一问；主题沿用原串，不另起
+- **下一步**：不动 E 邮箱 → rkahir65@gmail.com（Rk Ahir；回原串 thread 197c0e2d0ac20935，邮件客户端自动带 Re:） Simon 2026-10-25 裁定：这桩旧欠答不用管了（T29-U51）——补答信稿留档不发；若对方再来信再按「我方欠答」口径接。原拟动作：首封前知悉：Elsa 2026-05-11 单发过「10G Enterprise SFP Switch」（未见回复（Elsa 箱 Replied 标签无））；补答一封：价 + 规格书（附 STI-288GP.pdf）+ 一问；主题沿用原串，不另起
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-297` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：已触达·我方欠答（Elsa 群发 2025-07-20「8 Port Industrial PoE Switch」→ Rk Ahir 07-26 回「SEND ME PRICE DETAILS WITH BROCHER AND ADVANTAGE PLEASE」→ Saga 未回，至今 15 个月；S/A 邮箱无往来）；Elsa 单发去信 1 封（2026-05-11「10G Enterprise SFP Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）；另 Elsa 单发 1 封（2025-12-29「Marvell Industrial Alert System」）** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：我方欠答（不是他不回） ｜ 复活：补答：回原串，带价 + 规格书 + 一问，不装作没收到 ｜ 通路：IN 次级（点名） ｜ 节奏：首封后看打开 ｜ 证据：gmail_e 1984519079bd6669（2025-07-26 来信，非 Replied）；gmail_digest：S/A out 0；用户表「回复：price」
+- **绑定等级：已触达·我方欠答（Elsa 群发 2025-07-20「8 Port Industrial PoE Switch」→ Rk Ahir 07-26 回「SEND ME PRICE DETAILS WITH BROCHER AND ADVANTAGE PLEASE」→ Saga 未回，至今 15 个月；S/A 邮箱无往来）；Elsa 单发去信 1 封（2026-05-11「10G Enterprise SFP Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）；另 Elsa 单发 1 封（2025-12-29「Marvell Industrial Alert System」）** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：我方欠答（不是他不回）；Simon 2026-10-25：不用管了（T29-U51），不再提醒 ｜ 复活：补答：回原串，带价 + 规格书 + 一问，不装作没收到 ｜ 通路：IN 次级（点名） ｜ 节奏：首封后看打开 ｜ 证据：gmail_e 1984519079bd6669（2025-07-26 来信，非 Replied）；gmail_digest：S/A out 0；用户表「回复：price」
 - **现状一句话**：印度安防安装 / 经销商 Smart Security Systems（Rk Ahir），2019 年起阿里国际站；2025-07-26 回 Elsa 的 8 口工业 PoE 群发要价 + 手册 + 卖点，Saga 从未回复。
 - **对方真实需求（有据）**：8 口工业 PoE（他回的那封）→ 非管理 STI-288GP $60；若室内机柜用，商用桌面 8 PoE + 2 SFP 非管理 $26.2 作备选。
 - **断点 / 为什么停在这里**：我方欠答 15 个月；gmail 小商、印度低价——补答要价 + 手册一次给齐，别再空问
 - **Saga 现在该推什么**：P1 **STI-288GP**（25% 档，STI-288GP $60（8 PoE + 2 SFP 非管理工业机，主表 25% 档 $59.8 ≈ Simon 实报量级）；备选商用桌面 STC-028GP $26.2（HRUI，25% 档）；他回的群发正文无价，所以没有「他看过的价」要迁就）——他回的是 8 口工业 PoE 群发（非管理）；要价 + 手册 → 直接给 STI-288GP 实价 + 规格书，不升到管理型
-- **下一步（具体）**：现在（我方欠答 15 个月）　E 邮箱 → rkahir65@gmail.com（Rk Ahir；回原串 thread 197c0e2d0ac20935，邮件客户端自动带 Re:）　首封前知悉：Elsa 2026-05-11 单发过「10G Enterprise SFP Switch」（未见回复（Elsa 箱 Replied 标签无））；补答一封：价 + 规格书（附 STI-288GP.pdf）+ 一问；主题沿用原串，不另起
+- **下一步（具体）**：不动　E 邮箱 → rkahir65@gmail.com（Rk Ahir；回原串 thread 197c0e2d0ac20935，邮件客户端自动带 Re:）　Simon 2026-10-25 裁定：这桩旧欠答不用管了（T29-U51）——补答信稿留档不发；若对方再来信再按「我方欠答」口径接。原拟动作：首封前知悉：Elsa 2026-05-11 单发过「10G Enterprise SFP Switch」（未见回复（Elsa 箱 Replied 标签无））；补答一封：价 + 规格书（附 STI-288GP.pdf）+ 一问；主题沿用原串，不另起
   - 第一问（只问一个）：Mr. Ahir — you asked for the price of the 8-port industrial PoE switch in July 2025 and never got it: STI-288GP (8× gigabit PoE + 2× SFP, unmanaged, DIN-rail) is $60 USD EXW, MOQ 1; is it for outdoor camera poles or indoor racks, and how many units?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |

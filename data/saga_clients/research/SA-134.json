@@ -1,216 +1,216 @@
 {
-  "code": "SA-134",
-  "name_official": "BPTEHNO（bptehno.ru，莫斯科）",
-  "website_status": "在线",
-  "summary": "莫斯科光纤传输系统分销商：向俄罗斯及独联体供应全球光纤系统与信号处理产品（含杭州华泰 Huatai 视频光端机目录），提供方案设计与到门交付；用户记录'可能是公司之前的合作商'，WA 在线，22 次跟进中 5 次回复。",
-  "type": "分销商（光纤传输/视频光端机）",
-  "size": "小型（待补证）",
-  "brands_seen": [
-    "Huatai（杭州华泰）"
-  ],
-  "evidence": [
-    {
-      "kind": "官网",
-      "claim": "向俄罗斯与独联体供应光纤系统与信号处理产品，含方案设计；电话与用户记录一致",
-      "quote": "BPTEHNO поставляет на российский рынок и стран СНГ продукцию ведущих мировых производителей оптоволоконных систем… осуществляет проектирование… +7(926)527-42-98 info@bptehno.ru",
-      "url": "https://bptehno.ru/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网 PDF",
-      "claim": "分销杭州华泰 Huatai 光纤系统目录",
-      "quote": "Каталог продукции Huatai Оптоволоконные системы и устройства обработки сигналов… Hangzhou Huatai Optic Technology Co., Ltd (Huatai) была создана в 1999 году",
-      "url": "https://bptehno.ru/wp-content/uploads/2017/07/huatai.pdf",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网",
-      "claim": "交换机目录",
-      "quote": "ETX-1 демаркационный коммутатор Ethernet … 2 волоконный в 8 UTP 10 100Mbps PoE Ethernet коммутатор … 4-портовый PoE коммутатор … 8 портовый SFP волоконно-оптический коммутатор … 16 порт + 1 оптоволоконный порт управляемый коммутатор",
-      "url": "https://bptehno.ru/ethernet-utp/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网",
-      "claim": "工业 LNK-IMC208G 规格",
-      "quote": "Серия LNK-IMC208G представляет собой 8-портовый коммутатор Ethernet 10/100 / 1000Base-TX + 2 порта 1000Base-FX … Оптический порт: · 2 x 1000Base-FX (SFP, SC, FC, ST опционально)",
-      "url": "https://bptehno.ru/tovar/ethernet/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网",
-      "claim": "供货条款（进口、报关、保修）",
-      "quote": "Гарантия · – 5 лет … Сертификаты · Европейский (международный) сертификат качества (российский — по требованию таможни …) Поставка в г. Москва · осуществляют международные логистические компании DHL … Таможенная очистка · осуществляют отдел по работе с таможенными органами ООО «BPTEHNO»",
-      "url": "https://bptehno.ru/postavka/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网",
-      "claim": "电话与邮箱",
-      "quote": "Оптический ТРАНСИВЕР для передачи сотовых сигналов +7(926)527-42-98 info@bptehno.ru",
-      "url": "https://bptehno.ru/",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "（见 Clients 表联系人）",
-      "role": "",
-      "email": "info@bptehno.ru",
-      "phone": "+7 926 527 4298（WA）",
-      "source": "用户 Clients 表 + 官网"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "5 次回复 + WA + 老合作关系线索；品类从视频光端机向 IP/PoE 迁移是其天然需求。俄罗斯收款路径需核。P1：STI-110GE 介质转换器 + STC-28DGGPM 商用 PoE（分销 20%）。",
-  "researched_at": "2026-10-21",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "深挖 v2（官网目录核对）"
+ "code": "SA-134",
+ "name_official": "BPTEHNO（bptehno.ru，莫斯科）",
+ "website_status": "在线",
+ "summary": "莫斯科光纤传输系统分销商：向俄罗斯及独联体供应全球光纤系统与信号处理产品（含杭州华泰 Huatai 视频光端机目录），提供方案设计与到门交付；用户记录'可能是公司之前的合作商'，WA 在线，22 次跟进中 5 次回复。",
+ "type": "分销商（光纤传输/视频光端机）",
+ "size": "小型（待补证）",
+ "brands_seen": [
+  "Huatai（杭州华泰）"
+ ],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "向俄罗斯与独联体供应光纤系统与信号处理产品，含方案设计；电话与用户记录一致",
+   "quote": "BPTEHNO поставляет на российский рынок и стран СНГ продукцию ведущих мировых производителей оптоволоконных систем… осуществляет проектирование… +7(926)527-42-98 info@bptehno.ru",
+   "url": "https://bptehno.ru/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "legal_name": "ООО «BPTEHNO»（bptehno.ru，莫斯科）",
-    "hq": "莫斯科（+7 926 527-42-98 / +7 495 740-32-53；info@bptehno.ru）",
-    "other": "向俄罗斯及独联体供应全球厂商的光纤传输系统：SDI/HDMI/KVM 光端机、电话/E1 光传输、RF/GPS 光发射、蜂窝信号光纤收发、IPTV 头端、长距离昼夜监控系统「Зоркий 2–6」（5–50 km）；**网络交换目录**：ETX-1 Ethernet 分界交换机、2 光 8 UTP 百兆 PoE、4 口 PoE、8 口 SFP 光交换机、16+1 光管理型、工业 LNK-IMC208G（8×GE + 2×1000Base-FX SFP/SC/FC/ST 可选）；供货条款：莫斯科交货、DHL/UPS/TNT 国际物流、自有报关部、5 年保、欧洲证书（俄证按需）"
+  {
+   "kind": "官网 PDF",
+   "claim": "分销杭州华泰 Huatai 光纤系统目录",
+   "quote": "Каталог продукции Huatai Оптоволоконные системы и устройства обработки сигналов… Hangzhou Huatai Optic Technology Co., Ltd (Huatai) была создана в 1999 году",
+   "url": "https://bptehno.ru/wp-content/uploads/2017/07/huatai.pdf",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "光纤传输 / 视频光端机 分销",
-    "方案设计与到门交付",
-    "光纤传输设备分销（视频/音频/KVM/电话/RF）",
-    "光纤/工业以太网交换机（LNK- 系列等）",
-    "长距离监控系统 Зоркий",
-    "进口代理与报关（莫斯科交货）"
-  ],
-  "products_seen": [
-    {
-      "brand": "Huatai（杭州华泰）",
-      "model": "视频光端机目录",
-      "spec": "—",
-      "url": "https://bptehno.ru/",
-      "date": "2026-10（首轮调研）",
-      "saga": "—（VC 不供）"
-    },
-    {
-      "brand": "（配套）",
-      "model": "MC / 工业 FS",
-      "spec": "22 次跟进 5 次回复",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "用户表",
-      "saga": "STI-110GE / STI-288DGGPM"
-    },
-    {
-      "brand": "（LNK 系列，厂商未标）",
-      "model": "LNK-IMC208G",
-      "spec": "工业 8×10/100/1000Base-T + 2×1000Base-FX（SFP/SC/FC/ST 可选）",
-      "url": "https://bptehno.ru/tovar/ethernet/",
-      "date": "2026-10-21",
-      "saga": "STI-288DGGPM（PoE 版）/ STI-282DGGM 非 PoE 需核"
-    },
-    {
-      "brand": "（目录通用）",
-      "model": "2 光 8 UTP 10/100 PoE / 16+1 光管理型 / 8 口 SFP 光交换机",
-      "spec": "百兆为主",
-      "url": "https://bptehno.ru/ethernet-utp/",
-      "date": "2026-10-21",
-      "saga": "STC-28DGGPM / STI-21616GP（千兆升级）"
-    }
-  ],
-  "channels": {
-    "网站": "https://bptehno.ru/",
-    "直邮": "info@bptehno.ru（用户表）",
-    "WhatsApp": "在线（用户表）",
-    "电话": "+7 926 527-42-98 / +7 495 740-32-53（官网公开）",
-    "邮箱（公开）": "info@bptehno.ru"
+  {
+   "kind": "官网",
+   "claim": "交换机目录",
+   "quote": "ETX-1 демаркационный коммутатор Ethernet … 2 волоконный в 8 UTP 10 100Mbps PoE Ethernet коммутатор … 4-портовый PoE коммутатор … 8 портовый SFP волоконно-оптический коммутатор … 16 порт + 1 оптоволоконный порт управляемый коммутатор",
+   "url": "https://bptehno.ru/ethernet-utp/",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "可能是旧合作商——先核对历史订单（Gmail s./a. 导出后）",
-    "供货条款写明「国际物流 + 自有报关 + 欧洲证书」——习惯直接进口国外设备，EXW 模式可接；现有交换机目录多为百兆，千兆工业 PoE 是空位（2026-10-21）"
-  ],
-  "risks": [
-    "俄罗斯结算；主业 VC 不在 Saga 型谱",
-    "Зоркий 远距监控（5–50 km）疑似边防/要地用途——Saga 只供通用交换机，不参与该类项目配套"
-  ],
-  "saga_fit": {
-    "p1": "STI-110GE",
-    "tier": 20,
-    "why": "光传输分销的配套品：STI-110GE（MC）+ STI-288DGGPM（工业 FS）；分销 20% 档"
+  {
+   "kind": "官网",
+   "claim": "工业 LNK-IMC208G 规格",
+   "quote": "Серия LNK-IMC208G представляет собой 8-портовый коммутатор Ethernet 10/100 / 1000Base-TX + 2 порта 1000Base-FX … Оптический порт: · 2 x 1000Base-FX (SFP, SC, FC, ST опционально)",
+   "url": "https://bptehno.ru/tovar/ethernet/",
+   "date": "2026-10-21"
   },
-  "email_hook": "Alongside the optical transmission lines you distribute, the gigabit SFP media converter and the 8-port industrial PoE + 2 SFP managed switch are the two EXW prices I am sending for your catalogue.",
-  "mail_review": {
-    "binding": {
-      "level": "未绑定（邮件 12 封 0 回、Opened 0；用户表「5 次回复 + WA」）",
-      "type": "莫斯科光纤传输分销（BPTEHNO）",
-      "sieve": "0（邮件层无人工回复）",
-      "stop": "—",
-      "revive": "WA",
-      "lane": "RU",
-      "cadence": "WA",
-      "evidence": "邮件：去信 12 封（2025-04-17 → 2026-08-24），来信 0；Opened 标签 0 次；收件人 info@bptehno.ru"
-    },
-    "situation": "邮件无互动。",
-    "need": "MC → IP/PoE 迁移。",
-    "breakpoint": "—",
-    "saga_now": {
-      "p1": "STI-110GE",
-      "tier": 20,
-      "price": "—；群发里他已看到的价（续）：2026-08-24 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-04-17 $300（48 Port PoE Managed Switch）、2026-05-12 $280（10G Enterprise SFP Switch）",
-      "why": "光传输分销商向 IP/PoE 迁移 → 千兆 SFP 转换器 + 8 口工业 PoE + 2 SFP 两个 EXW 价进其目录",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "按 WA 节奏",
-      "channel": "WhatsApp",
-      "action": "WA（用 one_question 这句，WhatsApp 直接发，不附资料）",
-      "one_question": "Alongside the optical transmission lines you distribute, the gigabit SFP media converter and the 8-port industrial PoE + 2 SFP managed switch are the two EXW prices I am sending for your catalogue."
-    },
-    "facts": [
-      {
-        "date": "2023-12-09",
-        "dir": "来",
-        "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
-        "quote": "用户表跟进：推「发了导轨电源信息」→ 对方「hi」",
-        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
-        "k": "Clients/A/DONE/优质俄罗斯客户 2.9.xlsx no.48 2023.12.9"
-      },
-      {
-        "date": "2024-01-09",
-        "dir": "来",
-        "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
-        "quote": "用户表跟进：推「发了2光4工业小壳信息」→ 对方「ok」",
-        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
-        "k": "Clients/A/DONE/优质俄罗斯客户 2.9.xlsx no.48 2024.1.9"
-      },
-      {
-        "date": "2024-02-09",
-        "dir": "来",
-        "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
-        "quote": "用户表跟进：推「发了工业MC系列相关信息」→ 对方「ok」",
-        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
-        "k": "Clients/A/DONE/优质俄罗斯客户 2.9.xlsx no.48 2024.2.9"
-      },
-      {
-        "date": "2024-03-21",
-        "dir": "来",
-        "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
-        "quote": "用户表跟进：推「发了24光combo信息」→ 对方「hi」",
-        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
-        "k": "Clients/A/DONE/优质俄罗斯客户 2.9.xlsx no.48 2024.3.21"
-      },
-      {
-        "date": "2024-04-16",
-        "dir": "来",
-        "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
-        "quote": "用户表跟进：推「发了5 8 16电口信息」→ 对方「ok」",
-        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
-        "k": "Clients/A/DONE/优质俄罗斯客户 2.9.xlsx no.48 2024.4.16"
-      }
-    ],
-    "proof_gaps": [
-      "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文"
-    ],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "官网",
+   "claim": "供货条款（进口、报关、保修）",
+   "quote": "Гарантия · – 5 лет … Сертификаты · Европейский (международный) сертификат качества (российский — по требованию таможни …) Поставка в г. Москва · осуществляют международные логистические компании DHL … Таможенная очистка · осуществляют отдел по работе с таможенными органами ООО «BPTEHNO»",
+   "url": "https://bptehno.ru/postavka/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "电话与邮箱",
+   "quote": "Оптический ТРАНСИВЕР для передачи сотовых сигналов +7(926)527-42-98 info@bptehno.ru",
+   "url": "https://bptehno.ru/",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "（见 Clients 表联系人）",
+   "role": "",
+   "email": "info@bptehno.ru",
+   "phone": "+7 926 527 4298（WA）",
+   "source": "用户 Clients 表 + 官网"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "5 次回复 + WA + 老合作关系线索；品类从视频光端机向 IP/PoE 迁移是其天然需求。俄罗斯收款路径需核。P1：STI-110GE 介质转换器 + STC-28DGGPM 商用 PoE（分销 20%）。",
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "深挖 v2（官网目录核对）"
+ },
+ "company_facts": {
+  "legal_name": "ООО «BPTEHNO»（bptehno.ru，莫斯科）",
+  "hq": "莫斯科（+7 926 527-42-98 / +7 495 740-32-53；info@bptehno.ru）",
+  "other": "向俄罗斯及独联体供应全球厂商的光纤传输系统：SDI/HDMI/KVM 光端机、电话/E1 光传输、RF/GPS 光发射、蜂窝信号光纤收发、IPTV 头端、长距离昼夜监控系统「Зоркий 2–6」（5–50 km）；**网络交换目录**：ETX-1 Ethernet 分界交换机、2 光 8 UTP 百兆 PoE、4 口 PoE、8 口 SFP 光交换机、16+1 光管理型、工业 LNK-IMC208G（8×GE + 2×1000Base-FX SFP/SC/FC/ST 可选）；供货条款：莫斯科交货、DHL/UPS/TNT 国际物流、自有报关部、5 年保、欧洲证书（俄证按需）"
+ },
+ "business_lines": [
+  "光纤传输 / 视频光端机 分销",
+  "方案设计与到门交付",
+  "光纤传输设备分销（视频/音频/KVM/电话/RF）",
+  "光纤/工业以太网交换机（LNK- 系列等）",
+  "长距离监控系统 Зоркий",
+  "进口代理与报关（莫斯科交货）"
+ ],
+ "products_seen": [
+  {
+   "brand": "Huatai（杭州华泰）",
+   "model": "视频光端机目录",
+   "spec": "—",
+   "url": "https://bptehno.ru/",
+   "date": "2026-10（首轮调研）",
+   "saga": "—（VC 不供）"
+  },
+  {
+   "brand": "（配套）",
+   "model": "MC / 工业 FS",
+   "spec": "22 次跟进 5 次回复",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "用户表",
+   "saga": "STI-110GE / STI-288DGGPM"
+  },
+  {
+   "brand": "（LNK 系列，厂商未标）",
+   "model": "LNK-IMC208G",
+   "spec": "工业 8×10/100/1000Base-T + 2×1000Base-FX（SFP/SC/FC/ST 可选）",
+   "url": "https://bptehno.ru/tovar/ethernet/",
+   "date": "2026-10-21",
+   "saga": "STI-288DGGPM（PoE 版）/ STI-282DGGM 非 PoE 需核"
+  },
+  {
+   "brand": "（目录通用）",
+   "model": "2 光 8 UTP 10/100 PoE / 16+1 光管理型 / 8 口 SFP 光交换机",
+   "spec": "百兆为主",
+   "url": "https://bptehno.ru/ethernet-utp/",
+   "date": "2026-10-21",
+   "saga": "STC-28DGGPM / STI-21616GP（千兆升级）"
+  }
+ ],
+ "channels": {
+  "网站": "https://bptehno.ru/",
+  "直邮": "info@bptehno.ru（用户表）",
+  "WhatsApp": "在线（用户表）",
+  "电话": "+7 926 527-42-98 / +7 495 740-32-53（官网公开）",
+  "邮箱（公开）": "info@bptehno.ru"
+ },
+ "signals": [
+  "可能是旧合作商——先核对历史订单（Gmail s./a. 导出后）",
+  "供货条款写明「国际物流 + 自有报关 + 欧洲证书」——习惯直接进口国外设备，EXW 模式可接；现有交换机目录多为百兆，千兆工业 PoE 是空位（2026-10-21）"
+ ],
+ "risks": [
+  "俄罗斯结算；主业 VC 不在 Saga 型谱",
+  "Зоркий 远距监控（5–50 km）疑似边防/要地用途——Saga 只供通用交换机，不参与该类项目配套"
+ ],
+ "saga_fit": {
+  "p1": "STI-110GE",
+  "tier": 20,
+  "why": "光传输分销的配套品：STI-110GE（MC）+ STI-288DGGPM（工业 FS）；分销 20% 档"
+ },
+ "email_hook": "Alongside the optical transmission lines you distribute, the gigabit SFP media converter and the 8-port industrial PoE + 2 SFP managed switch are the two EXW prices I am sending for your catalogue.",
+ "mail_review": {
+  "binding": {
+   "level": "未绑定（邮件 12 封 0 回、Opened 0；用户表「5 次回复 + WA」；Elsa 箱：`to:bptehno.ru OR to:doteck.ru` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 12 / 来 0）（第 74 批(g)））",
+   "type": "莫斯科光纤传输分销（BPTEHNO）",
+   "sieve": "0（邮件层无人工回复）",
+   "stop": "—",
+   "revive": "WA",
+   "lane": "RU",
+   "cadence": "WA",
+   "evidence": "邮件：去信 12 封（2025-04-17 → 2026-08-24），来信 0；Opened 标签 0 次；收件人 info@bptehno.ru"
+  },
+  "situation": "邮件无互动。",
+  "need": "MC → IP/PoE 迁移。",
+  "breakpoint": "—",
+  "saga_now": {
+   "p1": "STI-110GE",
+   "tier": 20,
+   "price": "—；群发里他已看到的价（续）：2026-08-24 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-04-17 $300（48 Port PoE Managed Switch）、2026-05-12 $280（10G Enterprise SFP Switch）",
+   "why": "光传输分销商向 IP/PoE 迁移 → 千兆 SFP 转换器 + 8 口工业 PoE + 2 SFP 两个 EXW 价进其目录",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "按 WA 节奏",
+   "channel": "WhatsApp",
+   "action": "WA（用 one_question 这句，WhatsApp 直接发，不附资料）",
+   "one_question": "Alongside the optical transmission lines you distribute, the gigabit SFP media converter and the 8-port industrial PoE + 2 SFP managed switch are the two EXW prices I am sending for your catalogue."
+  },
+  "facts": [
+   {
+    "date": "2023-12-09",
+    "dir": "来",
+    "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+    "quote": "用户表跟进：推「发了导轨电源信息」→ 对方「hi」",
+    "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+    "k": "Clients/A/DONE/优质俄罗斯客户 2.9.xlsx no.48 2023.12.9"
+   },
+   {
+    "date": "2024-01-09",
+    "dir": "来",
+    "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+    "quote": "用户表跟进：推「发了2光4工业小壳信息」→ 对方「ok」",
+    "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+    "k": "Clients/A/DONE/优质俄罗斯客户 2.9.xlsx no.48 2024.1.9"
+   },
+   {
+    "date": "2024-02-09",
+    "dir": "来",
+    "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+    "quote": "用户表跟进：推「发了工业MC系列相关信息」→ 对方「ok」",
+    "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+    "k": "Clients/A/DONE/优质俄罗斯客户 2.9.xlsx no.48 2024.2.9"
+   },
+   {
+    "date": "2024-03-21",
+    "dir": "来",
+    "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+    "quote": "用户表跟进：推「发了24光combo信息」→ 对方「hi」",
+    "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+    "k": "Clients/A/DONE/优质俄罗斯客户 2.9.xlsx no.48 2024.3.21"
+   },
+   {
+    "date": "2024-04-16",
+    "dir": "来",
+    "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+    "quote": "用户表跟进：推「发了5 8 16电口信息」→ 对方「ok」",
+    "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+    "k": "Clients/A/DONE/优质俄罗斯客户 2.9.xlsx no.48 2024.4.16"
+   }
+  ],
+  "proof_gaps": [
+   "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

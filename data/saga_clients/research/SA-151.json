@@ -1,153 +1,153 @@
 {
-  "code": "SA-151",
-  "name_official": "A.N.B. Rimex SA（AnB-Rimex，Herstal/Liège, BE；anb-rimex.be；BE 0424.592.259）",
-  "website_status": "在线（含 eShop）",
-  "summary": "比利时列日 Herstal 的安防与楼宇自动化公司 AnB-Rimex SA（1983-07 注册；12.7 FTE；比利时报警/家庭自动化系统的开发商、生产商与集成商（TriCom 主机、TriCare AI），同时分销 CCTV、门禁、火灾探测；2018 年成为首家 INCERT 认证 CCTV 分销商；设有 Academy 培训与 eShop；+32 4 229 37 97；info@anb-rimex.be）。展会（埃森 2024）记录：CCTV 产品经理 Ibrahim Tiryaki——需求 IP67 网口、小体积、PoE 为主，拿了很多同行彩页；6 次推送 0 回复。Saga 无 IP67——以小体积 IP40 DIN PoE 对应。",
-  "type": "集成/经销商",
-  "size": "待补证",
-  "brands_seen": [
-    "TriCom（自有品牌）"
-  ],
-  "evidence": [
-    {
-      "kind": "用户记录",
-      "claim": "IP67 网口、小体积 PoE；拿了很多同行彩页；0 回复 / 6 次",
-      "quote": "IP67网口 小体积 PoE为主 拿了很多同行的彩页；32 496 34 18 97（用户 Clients 表摘录）",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "登记",
-      "claim": "法人、成立、规模",
-      "quote": "A.N.B. RIMEX (SA) … Established 26-07-1983 … Company size Medium-sized 12,7 FTE … Legal form Société anonyme (SA)",
-      "url": "https://www.companyweb.be/en/0424592259/a-n-b-rimex",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "Facebook",
-      "claim": "业务定位",
-      "quote": "Belgian developper, producer and integrator of Alarm and Home Automation systems. Distributor of CCTV, Access Control and Fire Detection products",
-      "url": "https://www.facebook.com/AnBRimex1981/",
-      "date": "2025-12-26"
-    },
-    {
-      "kind": "官网",
-      "claim": "INCERT CCTV 分销商与自研主机",
-      "quote": "2018: AnB-Rimex est le PREMIER distributeur agréé INCERT CCTV 2019: TriCom, la nouvelle pièce maîtresse d'AnB-Rimex est présentée.",
-      "url": "https://anb-rimex.be/fr/a-propos-de-nous/histoire/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网",
-      "claim": "联系方式",
-      "quote": "AnB-Rimex SA rue de l'Abbaye 89 Parc industriel des Hauts Sarts 4040 Herstal België +32 (0)4 229 37 97 info@anb-rimex.be",
-      "url": "https://anb-rimex.be/nl-be/eshop",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "IP67、小体积、PoE 为主；6 次推送 0 回复",
-      "quote": "IP67网口 小体积 PoE为主 拿了很多同行的彩页",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Ibrahim Tiryaki",
-      "role": "Product Manager CCTV（用户表）",
-      "email": "it@anb-rimex.be（用户表）",
-      "phone": "+32 496 34 18 97（用户表）",
-      "source": "（本地 Clients/ 表格，无公开 URL）"
-    }
-  ],
-  "grade_override": "B",
-  "override_reason": "核心需求 IP67（Saga 不做 IP67）；比价型（收集多家彩页）；0 回复 / 6 次 → 慢跟。",
-  "notes": "只在其需求转为 IP30/IP40 小体积 PoE 时用 STI-244GP 重启。",
-  "researched_at": "2026-10-21",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（官网 + 登记核对）"
+ "code": "SA-151",
+ "name_official": "A.N.B. Rimex SA（AnB-Rimex，Herstal/Liège, BE；anb-rimex.be；BE 0424.592.259）",
+ "website_status": "在线（含 eShop）",
+ "summary": "比利时列日 Herstal 的安防与楼宇自动化公司 AnB-Rimex SA（1983-07 注册；12.7 FTE；比利时报警/家庭自动化系统的开发商、生产商与集成商（TriCom 主机、TriCare AI），同时分销 CCTV、门禁、火灾探测；2018 年成为首家 INCERT 认证 CCTV 分销商；设有 Academy 培训与 eShop；+32 4 229 37 97；info@anb-rimex.be）。展会（埃森 2024）记录：CCTV 产品经理 Ibrahim Tiryaki——需求 IP67 网口、小体积、PoE 为主，拿了很多同行彩页；6 次推送 0 回复。Saga 无 IP67——以小体积 IP40 DIN PoE 对应。",
+ "type": "集成/经销商",
+ "size": "待补证",
+ "brands_seen": [
+  "TriCom（自有品牌）"
+ ],
+ "evidence": [
+  {
+   "kind": "用户记录",
+   "claim": "IP67 网口、小体积 PoE；拿了很多同行彩页；0 回复 / 6 次",
+   "quote": "IP67网口 小体积 PoE为主 拿了很多同行的彩页；32 496 34 18 97（用户 Clients 表摘录）",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "legal_name": "A.N.B. Rimex SA（BE 0424.592.259）",
-    "founded": "1983-07-26",
-    "hq": "Rue de l'Abbaye 89, Parc industriel des Hauts Sarts, 4040 Herstal, Belgium（+32 4 229 37 97；info@anb-rimex.be）",
-    "size": "12.7 FTE（2025 年报）；LinkedIn 11–50",
-    "other": "自研报警/家庭自动化（TriCom）；INCERT 认证 CCTV 分销商（2018）；eShop + Academy"
+  {
+   "kind": "登记",
+   "claim": "法人、成立、规模",
+   "quote": "A.N.B. RIMEX (SA) … Established 26-07-1983 … Company size Medium-sized 12,7 FTE … Legal form Société anonyme (SA)",
+   "url": "https://www.companyweb.be/en/0424592259/a-n-b-rimex",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "报警与家庭自动化系统自研/生产（TriCom、TriCare）",
-    "CCTV / 门禁 / 可视对讲 / 火灾探测分销（守界：火灾主系统不供）",
-    "安装商培训 Academy 与 eShop"
-  ],
-  "channels": {
-    "网站": "https://anb-rimex.be/",
-    "eShop": "https://anb-rimex.be/nl-be/eshop",
-    "电话": "+32 4 229 37 97（公开）",
-    "邮箱（公开）": "info@anb-rimex.be"
+  {
+   "kind": "Facebook",
+   "claim": "业务定位",
+   "quote": "Belgian developper, producer and integrator of Alarm and Home Automation systems. Distributor of CCTV, Access Control and Fire Detection products",
+   "url": "https://www.facebook.com/AnBRimex1981/",
+   "date": "2025-12-26"
   },
-  "signals": [
-    "自有品牌（TriCom）+ eShop 分销 → 小体积 PoE 交换机可作 AnB 标配件进 eShop",
-    "INCERT 认证渠道 → 对 CE/RoHS 文件要求明确"
-  ],
-  "risks": [
-    "IP67 需求 Saga 不满足；6 次推送 0 回复"
-  ],
-  "saga_fit": {
-    "p1": "STI-144GP",
-    "tier": 20,
-    "why": "分销 20% 档：STI-144GP（小体积 DIN 4 PoE + 1 SFP，IP40，$34.1）对应「小体积 PoE 为主」；8 口 STI-288GP（$57.4）；明示无 IP67，推荐配户外箱"
+  {
+   "kind": "官网",
+   "claim": "INCERT CCTV 分销商与自研主机",
+   "quote": "2018: AnB-Rimex est le PREMIER distributeur agréé INCERT CCTV 2019: TriCom, la nouvelle pièce maîtresse d'AnB-Rimex est présentée.",
+   "url": "https://anb-rimex.be/fr/a-propos-de-nous/histoire/",
+   "date": "2026-10-21"
   },
-  "email_hook": "Ibrahim, for the compact PoE units you were comparing in Essen: our DIN-rail 4-port gigabit PoE + 1 SFP switch is 32 mm wide, IP40, −40 to +75 °C, $34.1 EXW (IP67 we do not make, so installers pair it with a pole box) — would three pieces for the AnB eShop test range make sense?",
-  "mail_review": {
-    "binding": {
-      "level": "未触达（A 邮箱 16 封 2025→2026，1 次记录打开，0 回；收件 it@anb-rimex.be；主题多为「Industrial PoE Switch、Mini Industrial PoE Switch」）",
-      "type": "集成/经销商",
-      "sieve": "1~2（1 次打开）",
-      "stop": "16 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-      "revive": "保持季度群发到 2027-Q1；无打开即停",
-      "lane": "比利时（欧洲全域主攻）",
-      "cadence": "季度",
-      "evidence": "gmail_digest：out 16，Opened 标签 1（Simon 群发追踪）；用户表：「IP67网口 小体积 PoE为主 拿了很多同行的彩页」；研究档 risks：IP67 需求 Saga 不满足；6 次推送 0 回复"
-    },
-    "situation": "比利时列日 Herstal 的安防与楼宇自动化公司 AnB-Rimex SA（1983-07 注册；12.7 FTE；比利时报警/家庭自动化系统的开发商、生产商与集成商（TriCom 主机、TriCare AI），同时分销 CCTV、门禁、火灾探测；2018 年成为首家 INCERT 认证 CCTV 分销商；设有 Academy 培训与 eShop；+32 4 229 37 97；info@anb-rimex.be）。展会（埃森 2024）记录：CCTV 产品经理 Ibrahim Tiryaki——需求 IP67 网口、小体积、PoE 为主，拿了很多同行彩页；6 次推送 0 回复。Saga 无 IP67——以小体积 IP40 DIN PoE 对应。",
-    "need": "分销 20% 档：STI-144GP（小体积 DIN 4 PoE + 1 SFP，IP40，$34.1）对应「小体积 PoE 为主」；8 口 STI-288GP（$57.4）；明示无 IP67，推荐配户外箱",
-    "breakpoint": "IP67 需求 Saga 不满足；6 次推送 0 回复",
-    "saga_now": {
-      "p1": "STI-144GP",
-      "tier": 20,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-07-31 $300（48 Port PoE Managed Switch）、2025-10-08 $280（10G Enterprise SFP Switch）、2026-06-18 $16000（32 Port 400GB DC Switch）",
-      "why": "分销 20% 档：STI-144GP（小体积 DIN 4 PoE + 1 SFP，IP40，$34.1）对应「小体积 PoE 为主」；8 口 STI-288GP（$57.4）；明示无 IP67，推荐配户外箱。已打开的主题（1/16 封有打开记录）：「Booster PoE Switch」(2025-11-12) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "群发节奏",
-      "channel": "A 邮箱",
-      "action": "观察打开",
-      "one_question": "Ibrahim, for the compact PoE units you were comparing in Essen: our DIN-rail 4-port gigabit PoE + 1 SFP switch is 32 mm wide, IP40, −40 to +75 °C, $34.1 EXW (IP67 we do not make, so installers pair it with a pole box) — would three pieces for the AnB eShop test range make sense?"
-    },
-    "facts": [
-      {
-        "date": "2026-09-14",
-        "dir": "去",
-        "who": "A 群发",
-        "quote": "Industrial PoE Switch、Mini Industrial PoE Switch",
-        "why": "16 封 / 1 次打开 / 0 回｜首封 2025-03-20 → 末封 2026-09-14（16 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "IP67网口 小体积 PoE为主 拿了很多同行的彩页",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "官网",
+   "claim": "联系方式",
+   "quote": "AnB-Rimex SA rue de l'Abbaye 89 Parc industriel des Hauts Sarts 4040 Herstal België +32 (0)4 229 37 97 info@anb-rimex.be",
+   "url": "https://anb-rimex.be/nl-be/eshop",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "IP67、小体积、PoE 为主；6 次推送 0 回复",
+   "quote": "IP67网口 小体积 PoE为主 拿了很多同行的彩页",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Ibrahim Tiryaki",
+   "role": "Product Manager CCTV（用户表）",
+   "email": "it@anb-rimex.be（用户表）",
+   "phone": "+32 496 34 18 97（用户表）",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": "B",
+ "override_reason": "核心需求 IP67（Saga 不做 IP67）；比价型（收集多家彩页）；0 回复 / 6 次 → 慢跟。",
+ "notes": "只在其需求转为 IP30/IP40 小体积 PoE 时用 STI-244GP 重启。",
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网 + 登记核对）"
+ },
+ "company_facts": {
+  "legal_name": "A.N.B. Rimex SA（BE 0424.592.259）",
+  "founded": "1983-07-26",
+  "hq": "Rue de l'Abbaye 89, Parc industriel des Hauts Sarts, 4040 Herstal, Belgium（+32 4 229 37 97；info@anb-rimex.be）",
+  "size": "12.7 FTE（2025 年报）；LinkedIn 11–50",
+  "other": "自研报警/家庭自动化（TriCom）；INCERT 认证 CCTV 分销商（2018）；eShop + Academy"
+ },
+ "business_lines": [
+  "报警与家庭自动化系统自研/生产（TriCom、TriCare）",
+  "CCTV / 门禁 / 可视对讲 / 火灾探测分销（守界：火灾主系统不供）",
+  "安装商培训 Academy 与 eShop"
+ ],
+ "channels": {
+  "网站": "https://anb-rimex.be/",
+  "eShop": "https://anb-rimex.be/nl-be/eshop",
+  "电话": "+32 4 229 37 97（公开）",
+  "邮箱（公开）": "info@anb-rimex.be"
+ },
+ "signals": [
+  "自有品牌（TriCom）+ eShop 分销 → 小体积 PoE 交换机可作 AnB 标配件进 eShop",
+  "INCERT 认证渠道 → 对 CE/RoHS 文件要求明确"
+ ],
+ "risks": [
+  "IP67 需求 Saga 不满足；6 次推送 0 回复"
+ ],
+ "saga_fit": {
+  "p1": "STI-144GP",
+  "tier": 20,
+  "why": "分销 20% 档：STI-144GP（小体积 DIN 4 PoE + 1 SFP，IP40，$34.1）对应「小体积 PoE 为主」；8 口 STI-288GP（$57.4）；明示无 IP67，推荐配户外箱"
+ },
+ "email_hook": "Ibrahim, for the compact PoE units you were comparing in Essen: our DIN-rail 4-port gigabit PoE + 1 SFP switch is 32 mm wide, IP40, −40 to +75 °C, $34.1 EXW (IP67 we do not make, so installers pair it with a pole box) — would three pieces for the AnB eShop test range make sense?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 16 封 2025→2026，1 次记录打开，0 回；收件 it@anb-rimex.be；主题多为「Industrial PoE Switch、Mini Industrial PoE Switch」；Elsa 箱：`to:.be` 穷举 16 条（2026-10-25，锚批 Bcc 头已读）未见 anb-rimex.be → Elsa 箱从未发过本户，往来只在 S/A 箱（去 16 / 来 0）（第 74 批(f)））",
+   "type": "集成/经销商",
+   "sieve": "1~2（1 次打开）",
+   "stop": "16 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "比利时（欧洲全域主攻）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 16，Opened 标签 1（Simon 群发追踪）；用户表：「IP67网口 小体积 PoE为主 拿了很多同行的彩页」；研究档 risks：IP67 需求 Saga 不满足；6 次推送 0 回复"
+  },
+  "situation": "比利时列日 Herstal 的安防与楼宇自动化公司 AnB-Rimex SA（1983-07 注册；12.7 FTE；比利时报警/家庭自动化系统的开发商、生产商与集成商（TriCom 主机、TriCare AI），同时分销 CCTV、门禁、火灾探测；2018 年成为首家 INCERT 认证 CCTV 分销商；设有 Academy 培训与 eShop；+32 4 229 37 97；info@anb-rimex.be）。展会（埃森 2024）记录：CCTV 产品经理 Ibrahim Tiryaki——需求 IP67 网口、小体积、PoE 为主，拿了很多同行彩页；6 次推送 0 回复。Saga 无 IP67——以小体积 IP40 DIN PoE 对应。",
+  "need": "分销 20% 档：STI-144GP（小体积 DIN 4 PoE + 1 SFP，IP40，$34.1）对应「小体积 PoE 为主」；8 口 STI-288GP（$57.4）；明示无 IP67，推荐配户外箱",
+  "breakpoint": "IP67 需求 Saga 不满足；6 次推送 0 回复",
+  "saga_now": {
+   "p1": "STI-144GP",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-07-31 $300（48 Port PoE Managed Switch）、2025-10-08 $280（10G Enterprise SFP Switch）、2026-06-18 $16000（32 Port 400GB DC Switch）",
+   "why": "分销 20% 档：STI-144GP（小体积 DIN 4 PoE + 1 SFP，IP40，$34.1）对应「小体积 PoE 为主」；8 口 STI-288GP（$57.4）；明示无 IP67，推荐配户外箱。已打开的主题（1/16 封有打开记录）：「Booster PoE Switch」(2025-11-12) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Ibrahim, for the compact PoE units you were comparing in Essen: our DIN-rail 4-port gigabit PoE + 1 SFP switch is 32 mm wide, IP40, −40 to +75 °C, $34.1 EXW (IP67 we do not make, so installers pair it with a pole box) — would three pieces for the AnB eShop test range make sense?"
+  },
+  "facts": [
+   {
+    "date": "2026-09-14",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "Industrial PoE Switch、Mini Industrial PoE Switch",
+    "why": "16 封 / 1 次打开 / 0 回｜首封 2025-03-20 → 末封 2026-09-14（16 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "IP67网口 小体积 PoE为主 拿了很多同行的彩页",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

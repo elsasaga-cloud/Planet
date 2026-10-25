@@ -27,7 +27,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -44,7 +44,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-050` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A 邮箱 17 封 2025→2026，无记录打开，0 回；收件 comercial@izux.es；主题多为「Managed Optical Bypass Switch、24 Port PoE Managed Switch」）** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：17 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：西班牙（欧洲全域主攻） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 17；用户表：「兴趣：商业POE CCTV为主 很多配件 有ONV的」；研究档 risks：6 次群发无回复
+- **绑定等级：未触达（A 邮箱 17 封 2025→2026，无记录打开，0 回；收件 comercial@izux.es；主题多为「Managed Optical Bypass Switch、24 Port PoE Managed Switch」；Elsa 箱：`to:.es` 穷举 15 条（2026-10-25，锚批 Bcc 头已读）未见 izux.es → Elsa 箱从未发过本户，往来只在 S/A 箱（去 17 / 来 0）（第 74 批(f)））** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：17 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：西班牙（欧洲全域主攻） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 17；用户表：「兴趣：商业POE CCTV为主 很多配件 有ONV的」；研究档 risks：6 次群发无回复
 - **现状一句话**：西班牙瓦伦西亚安防电商（摄像机、AJAX 报警、可视门铃、门禁、酒店锁；Hikvision、Dahua、Uniview、Ajax；poe 260 / switch 167 / sfp 73；+34 963 320 337），Manager Igor Guimerá；表内「商用 PoE，CCTV 为主很多配件，有 ONV 的」；群发 6 次无回复。
 - **对方真实需求（有据）**：对位 ONV 商用 8 PoE → STC-28DGGPM（$80.7 @20%）；24 PoE STC-424DGGPM-280W。
 - **断点 / 为什么停在这里**：6 次群发无回复
@@ -286,12 +286,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 56）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 56）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

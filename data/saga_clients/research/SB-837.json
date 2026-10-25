@@ -1,143 +1,143 @@
 {
-  "code": "SB-837",
-  "name_official": "",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（idome.uk，快照 2026-10-21）",
-  "summary": "英国 IDome（CCTV 供应商/网店：家用与商用安防系统，自有标摄像机 DO5028POE-5MP / BU8028POE-8MP 等，配件栏 PoE 交换机 POE42 / POE82 / POE162；表内「销售平台，商业 PoE，有帝捷安的」）；群发 16 次无回复。",
-  "type": "英国 CCTV 网店（自有标摄像机 + 配套 PoE）",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "官网标题：IDome CCTV Supplier: Security Systems Store For Home & Businesses in The UK；品类词 安防监控（CCTV / 门禁） / 无线 / WiFi / 布线 / 线缆 / 网络交换 / PoE",
-      "quote": "Professional Home Security Systems with Shipping ✅ IDome provides Everything to make Your Home Secure ☑️ CCTV camera and alarms supplier with installation and delivery options ☑️",
-      "url": "https://idome.uk/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "销售平台 商业PoE 有帝捷安的",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网快照",
-      "claim": "IDome：英国家用与商用 CCTV 供应商",
-      "quote": "IDome CCTV Supplier: Security Systems Store For Home & Businesses in The UK ; CCTV camera and alarms supplier with installation and delivery options",
-      "url": "https://idome.uk/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "销售平台，商业 PoE，有帝捷安的",
-      "quote": "销售平台 商业PoE；有帝捷安的",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ "code": "SB-837",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（idome.uk，快照 2026-10-21）",
+ "summary": "英国 IDome（CCTV 供应商/网店：家用与商用安防系统，自有标摄像机 DO5028POE-5MP / BU8028POE-8MP 等，配件栏 PoE 交换机 POE42 / POE82 / POE162；表内「销售平台，商业 PoE，有帝捷安的」）；群发 16 次无回复。",
+ "type": "英国 CCTV 网店（自有标摄像机 + 配套 PoE）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：IDome CCTV Supplier: Security Systems Store For Home & Businesses in The UK；品类词 安防监控（CCTV / 门禁） / 无线 / WiFi / 布线 / 线缆 / 网络交换 / PoE",
+   "quote": "Professional Home Security Systems with Shipping ✅ IDome provides Everything to make Your Home Secure ☑️ CCTV camera and alarms supplier with installation and delivery options ☑️",
+   "url": "https://idome.uk/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "hq": "英国",
-    "other": "官网 idome.uk，语言 en，快照状态 ok；角色判定来源：用户表"
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "销售平台 商业PoE 有帝捷安的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "CCTV / 报警 / 门禁网店（自有标摄像机）",
-    "配件：PoE 交换机 / 线缆"
-  ],
-  "channels": {
-    "role": "英国 CCTV 网店（自有标摄像机 + 配套 PoE）",
-    "region": "英国",
-    "contact": "sales@idome.uk"
+  {
+   "kind": "官网快照",
+   "claim": "IDome：英国家用与商用 CCTV 供应商",
+   "quote": "IDome CCTV Supplier: Security Systems Store For Home & Businesses in The UK ; CCTV camera and alarms supplier with installation and delivery options",
+   "url": "https://idome.uk/",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "商品页 /accessories/cable-and-connectors/hdmi-poe-vga-switch/poe42、/poe82、/poe162",
-    "站内型号 DO5028POE-5MP / BU8028POE-8MP（自有标摄像机）；kw camera 404 / cctv 244 / poe 117"
-  ],
-  "risks": [
-    "现货源深圳（表内「帝捷安」）价格基准低",
-    "网店体量小；16 次无回复，无具名 KP（sales@）"
-  ],
-  "saga_fit": {
-    "p1": "STC-28DGGPM",
-    "tier": 30,
-    "why": "自有标摄像机配套 PoE（POE82 = 8+2）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 IDome 标；POE42/POE162 位 HRUI STC-204GP（$20.4）/ STC-2016GP（$88.0）"
-  },
-  "email_hook": "For the POE42 / POE82 / POE162 switches you bundle with IDome cameras, we can supply the same 4+2 / 8+2 / 16+2 layouts under your label from small lots, plus a Marvell-based gigabit L2+ 8-PoE model, CE/RoHS/UKCA — which size ships most with your kits?",
-  "products_seen": [
-    {
-      "brand": "IDome（自有标）",
-      "model": "POE82",
-      "spec": "8 PoE + 2 上联（推断）",
-      "saga": "STC-28DGGPM",
-      "url": "https://idome.uk/accessories/cable-and-connectors/hdmi-poe-vga-switch/poe82",
-      "date": "2026-10-21"
-    },
-    {
-      "brand": "IDome（自有标）",
-      "model": "POE162",
-      "spec": "16 PoE + 2 上联（推断）",
-      "saga": "STC-2016GP（HRUI 列表价 $88.0，非 SmartByte）",
-      "url": "https://idome.uk/",
-      "date": "2026-10-21"
-    }
-  ],
-  "mail_review": {
-    "binding": {
-      "level": "未触达（A/S 邮箱 26 封 2024→2026，无记录打开，0 回；收件 sales@idome.uk；主题多为「Industrial PoE Switch、10G Enterprise SFP Switch」）",
-      "type": "英国 CCTV 网店（自有标摄像机 + 配套 PoE）",
-      "sieve": "1（只收到群发）",
-      "stop": "只打通用邮箱，无记录打开",
-      "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
-      "lane": "UK 主攻（四主）",
-      "cadence": "一封",
-      "evidence": "gmail_digest：out 26；用户表：「销售平台 商业PoE 有帝捷安的」；研究档 risks：现货源深圳（表内「帝捷安」）价格基准低"
-    },
-    "situation": "英国 IDome（CCTV 供应商/网店：家用与商用安防系统，自有标摄像机 DO5028POE-5MP / BU8028POE-8MP 等，配件栏 PoE 交换机 POE42 / POE82 / POE162；表内「销售平台，商业 PoE，有帝捷安的」）；群发 16 次无回复。",
-    "need": "自有标摄像机配套 PoE（POE82 = 8+2）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 IDome 标；POE42/POE162 位 HRUI STC-204GP（$20.4）/ STC-2016GP（$88.0）",
-    "breakpoint": "现货源深圳（表内「帝捷安」）价格基准低",
-    "saga_now": {
-      "p1": "STC-28DGGPM",
-      "tier": 30,
-      "price": "换人再触锚价 STC-28DGGPM $87.4 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-08 $220（48 port managed switch）、2024-09-05 $65（10G media converter）；群发里他已看到的价（续）：2026-08-07 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-02-25 $240（24 Port Fiber Switch）、2025-10-13 $280（10G Enterprise SFP Switch）",
-      "why": "自有标摄像机配套 PoE（POE82 = 8+2）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 IDome 标；POE42/POE162 位 HRUI STC-204GP（$20.4）/ STC-2016GP（$88.0）",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "2027-Q1（换人后）",
-      "channel": "A 邮箱 → 具名 KP",
-      "action": "换收件人再发一封",
-      "one_question": "For the POE42 / POE82 / POE162 switches you bundle with IDome cameras, we can supply the same 4+2 / 8+2 / 16+2 layouts under your label from small lots, plus a Marvell-based gigabit L2+ 8-PoE model, CE/RoHS/UKCA — which size ships most with your kits? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity)."
-    },
-    "facts": [
-      {
-        "date": "2026-09-28",
-        "dir": "去",
-        "who": "A/S 群发",
-        "quote": "Industrial PoE Switch、10G Enterprise SFP Switch",
-        "why": "26 封 / 0 次打开 / 0 回｜首封 2024-07-10 → 末封 2026-09-28（26 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "销售平台 商业PoE 有帝捷安的",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "销售平台，商业 PoE，有帝捷安的",
+   "quote": "销售平台 商业PoE；有帝捷安的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "英国",
+  "other": "官网 idome.uk，语言 en，快照状态 ok；角色判定来源：用户表"
+ },
+ "business_lines": [
+  "CCTV / 报警 / 门禁网店（自有标摄像机）",
+  "配件：PoE 交换机 / 线缆"
+ ],
+ "channels": {
+  "role": "英国 CCTV 网店（自有标摄像机 + 配套 PoE）",
+  "region": "英国",
+  "contact": "sales@idome.uk"
+ },
+ "signals": [
+  "商品页 /accessories/cable-and-connectors/hdmi-poe-vga-switch/poe42、/poe82、/poe162",
+  "站内型号 DO5028POE-5MP / BU8028POE-8MP（自有标摄像机）；kw camera 404 / cctv 244 / poe 117"
+ ],
+ "risks": [
+  "现货源深圳（表内「帝捷安」）价格基准低",
+  "网店体量小；16 次无回复，无具名 KP（sales@）"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 30,
+  "why": "自有标摄像机配套 PoE（POE82 = 8+2）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 IDome 标；POE42/POE162 位 HRUI STC-204GP（$20.4）/ STC-2016GP（$88.0）"
+ },
+ "email_hook": "For the POE42 / POE82 / POE162 switches you bundle with IDome cameras, we can supply the same 4+2 / 8+2 / 16+2 layouts under your label from small lots, plus a Marvell-based gigabit L2+ 8-PoE model, CE/RoHS/UKCA — which size ships most with your kits?",
+ "products_seen": [
+  {
+   "brand": "IDome（自有标）",
+   "model": "POE82",
+   "spec": "8 PoE + 2 上联（推断）",
+   "saga": "STC-28DGGPM",
+   "url": "https://idome.uk/accessories/cable-and-connectors/hdmi-poe-vga-switch/poe82",
+   "date": "2026-10-21"
+  },
+  {
+   "brand": "IDome（自有标）",
+   "model": "POE162",
+   "spec": "16 PoE + 2 上联（推断）",
+   "saga": "STC-2016GP（HRUI 列表价 $88.0，非 SmartByte）",
+   "url": "https://idome.uk/",
+   "date": "2026-10-21"
+  }
+ ],
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 26 封 2024→2026，无记录打开，0 回；收件 sales@idome.uk；主题多为「Industrial PoE Switch、10G Enterprise SFP Switch」；Elsa 箱：`to:.uk` 穷举 34 条（2026-10-25，锚批 Bcc 头已读）未见 idome.uk → Elsa 箱从未发过本户，往来只在 S/A 箱（去 26 / 来 0）（第 74 批(f)））",
+   "type": "英国 CCTV 网店（自有标摄像机 + 配套 PoE）",
+   "sieve": "1（只收到群发）",
+   "stop": "只打通用邮箱，无记录打开",
+   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+   "lane": "UK 主攻（四主）",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 26；用户表：「销售平台 商业PoE 有帝捷安的」；研究档 risks：现货源深圳（表内「帝捷安」）价格基准低"
+  },
+  "situation": "英国 IDome（CCTV 供应商/网店：家用与商用安防系统，自有标摄像机 DO5028POE-5MP / BU8028POE-8MP 等，配件栏 PoE 交换机 POE42 / POE82 / POE162；表内「销售平台，商业 PoE，有帝捷安的」）；群发 16 次无回复。",
+  "need": "自有标摄像机配套 PoE（POE82 = 8+2）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 IDome 标；POE42/POE162 位 HRUI STC-204GP（$20.4）/ STC-2016GP（$88.0）",
+  "breakpoint": "现货源深圳（表内「帝捷安」）价格基准低",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 30,
+   "price": "换人再触锚价 STC-28DGGPM $87.4 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-08 $220（48 port managed switch）、2024-09-05 $65（10G media converter）；群发里他已看到的价（续）：2026-08-07 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-02-25 $240（24 Port Fiber Switch）、2025-10-13 $280（10G Enterprise SFP Switch）",
+   "why": "自有标摄像机配套 PoE（POE82 = 8+2）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 IDome 标；POE42/POE162 位 HRUI STC-204GP（$20.4）/ STC-2016GP（$88.0）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1（换人后）",
+   "channel": "A 邮箱 → 具名 KP",
+   "action": "换收件人再发一封",
+   "one_question": "For the POE42 / POE82 / POE162 switches you bundle with IDome cameras, we can supply the same 4+2 / 8+2 / 16+2 layouts under your label from small lots, plus a Marvell-based gigabit L2+ 8-PoE model, CE/RoHS/UKCA — which size ships most with your kits? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity)."
+  },
+  "facts": [
+   {
+    "date": "2026-09-28",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Industrial PoE Switch、10G Enterprise SFP Switch",
+    "why": "26 封 / 0 次打开 / 0 回｜首封 2024-07-10 → 末封 2026-09-28（26 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "销售平台 商业PoE 有帝捷安的",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

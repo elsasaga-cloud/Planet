@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -42,7 +42,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-412` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A 邮箱 10 封 2025→2026，无记录打开，0 回；收件 peter@steplockaccess.se；主题多为「90W PoE Managed Switch、Marvell Industrial Alert System」）** ｜ 类型：门禁系统公司（瑞典，网管 PoE 配套） ｜ 筛子：1（只收到群发） ｜ 停点：10 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：瑞典（欧洲全域主攻） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 10；用户表：「云管理PoE 能支持PoE状态和开/关 给客户演示了2光10电的网管界面，客户比较专业」；研究档 risks：需求含云管理（Saga 不做，仅本地 Web/SNMP）；6 次无回复 → 跟进演示后续；官网快照空
+- **绑定等级：未触达（A 邮箱 10 封 2025→2026，无记录打开，0 回；收件 peter@steplockaccess.se；主题多为「90W PoE Managed Switch、Marvell Industrial Alert System」；Elsa 箱：`to:.se` 穷举 12 条（2026-10-25，锚批 Bcc 头已读）未见 steplockaccess.se → Elsa 箱从未发过本户，往来只在 S/A 箱（去 10 / 来 0）（第 74 批(f)））** ｜ 类型：门禁系统公司（瑞典，网管 PoE 配套） ｜ 筛子：1（只收到群发） ｜ 停点：10 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：瑞典（欧洲全域主攻） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 10；用户表：「云管理PoE 能支持PoE状态和开/关 给客户演示了2光10电的网管界面，客户比较专业」；研究档 risks：需求含云管理（Saga 不做，仅本地 Web/SNMP）；6 次无回复 → 跟进演示后续；官网快照空
 - **现状一句话**：瑞典 StepLock Access（门禁/锁具系统公司；表内「云管理 PoE，能支持 PoE 状态和开/关；给客户演示了 2 光 10 电的网管界面，客户比较专业」；KP Peter）；表内 6 次跟进无回复。
 - **对方真实需求（有据）**：PoE 口状态/开关控制 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%，Web 管理每口 PoE 开关）贴 StepLock 标；云管理 Saga 不做（注明）
 - **断点 / 为什么停在这里**：需求含云管理（Saga 不做，仅本地 Web/SNMP）；6 次无回复 → 跟进演示后续；官网快照空
@@ -259,12 +259,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 42）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 42）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

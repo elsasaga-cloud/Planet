@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -42,7 +42,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1020` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：地址失效（S 邮箱 2024-07-09 唯一一封发 inquiries@avizio.pl 当即永久退信「550 No such recipient here」；此后未再发——「1 次打开」记录无效）** ｜ 类型：安防方案商/自有标（波兰，N-net 工业 FS 贴标；官网待核） ｜ 筛子：0（信没到） ｜ 停点：地址错了：inquiries@ 不存在；官网联系邮箱待核后才能算第一封 ｜ 复活：先从 avizio.pl 官网/LinkedIn 找到有效邮箱（biuro@ / 具名），再发首封——不要把这户继续算在群发名单里 ｜ 通路：PL 次级重点 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 1，Opened 标签 1（Simon 群发追踪）；用户表：「N-net的工业FS 刷了自己的标 主要做安防的」；研究档 risks：官网快照空页（站点状态待核）；现供 N-net（深圳）价格基准低
+- **绑定等级：地址失效（S 邮箱 2024-07-09 唯一一封发 inquiries@avizio.pl 当即永久退信「550 No such recipient here」；此后未再发——「1 次打开」记录无效；Elsa 箱：`to:.pl` 穷举 24 条（2026-10-25，锚批 Bcc 头已读）未见 avizio.pl → Elsa 箱从未发过本户，往来只在 S/A 箱（去 1 / 来 0）（第 74 批(f)））** ｜ 类型：安防方案商/自有标（波兰，N-net 工业 FS 贴标；官网待核） ｜ 筛子：0（信没到） ｜ 停点：地址错了：inquiries@ 不存在；官网联系邮箱待核后才能算第一封 ｜ 复活：先从 avizio.pl 官网/LinkedIn 找到有效邮箱（biuro@ / 具名），再发首封——不要把这户继续算在群发名单里 ｜ 通路：PL 次级重点 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 1，Opened 标签 1（Simon 群发追踪）；用户表：「N-net的工业FS 刷了自己的标 主要做安防的」；研究档 risks：官网快照空页（站点状态待核）；现供 N-net（深圳）价格基准低
 - **现状一句话**：波兰 Avizio（官网快照为空页；表内「N-net 的工业 FS 刷了自己的标，主要做安防的」；邮箱 inquiries@）；表内未跟进。
 - **对方真实需求（有据）**：现 N-net（深圳）工业 FS 贴 Avizio 标 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ 非管理 STI-288GP（$62.2）作替代
 - **断点 / 为什么停在这里**：官网快照空页（站点状态待核）；现供 N-net（深圳）价格基准低
@@ -243,12 +243,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 28）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 28）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

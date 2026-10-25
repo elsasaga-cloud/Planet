@@ -1,323 +1,323 @@
 {
-  "code": "SA-049",
-  "name_official": "Sundar Techno Solutions（STS, Bangalore, India）",
-  "website_status": "在线",
-  "summary": "班加罗尔的工业自动化/嵌入式计算方案商与「Make in India」制造商（2019 年 GST 注册，独资，2–10/11–25 人，年营业额 5–25 千万卢比口径不一），自有 STS 品牌工业交换机（IndiaMART 列 STS-5000-UM-ES）、面板 PC、KVM；合作 IBASE、Volktek（台湾）；客户含国防、航天、铁路、智慧城市。用户表：CEO Manoj Kumar N 2023-06 成单（2×2 bypass 工业 FS 100 台需求），WhatsApp 已加；此后无跟进记录（陈旧）。",
-  "type": "方案商/自有品牌贴牌（成交客户）",
-  "size": "2–10 人（LinkedIn）/ 11–25 人（IndiaMART）",
-  "brands_seen": [
-    "STS",
-    "Volktek",
-    "IBASE",
-    "中科德能"
-  ],
-  "evidence": [
-    {
-      "kind": "官网",
-      "claim": "定位与客户行业",
-      "quote": "We are professionals with over two decades of experience in Industrial Automation, Embedded Computing, Industrial Communication … Our clientele includes Machine Builders, Process Automation companies, Transportation clients, Indian Defense & Space organizations … Phone: +91-9482081014 Email: sales@sundartechno.com",
-      "url": "https://sundartechno.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "第三方（sourceindia）",
-      "claim": "自产工业交换机（贴牌需求来源）",
-      "quote": "We specialize in the design, development, and local production of rugged Panel PCs, Industrial Box PCs, Embedded SBCs, Edge Servers, KVM Consoles, Rugged Tablets and Industrial Ethernet Switches for applications in Defence, Aerospace, Indian Railways, Smart City",
-      "url": "https://react.sourceindia-electronics.com/companies/sundar-techno-solutions",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "第三方（LinkedIn）",
-      "claim": "合作伙伴与规模",
-      "quote": "PARTNER FOR: IBASE TECHNOLOGY INC TAIWAN VOLKTEK CORPORATION TAIWAN … Company size: 2-10 employees · Founded: 2019",
-      "url": "https://in.linkedin.com/company/sundar-techno-solutions",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "电商/IndiaMART",
-      "claim": "STS 品牌工业交换机型号：STS-16UMES、STS-UM42POE、STS-UM608GP 等，MOQ 5，Made in India",
-      "quote": "Manufacturer of Industrial Ethernet Switches - STS 16 PORT UNMANAGED NON POE … Model Name/Number · STS-16UMES … 5 Port Unmanaged Industrial Ethernet Switch … STS-UM42POE … STS-UM608GP_Gigabit 8 port Industrial Unmanaged Ethernet POE Switch … Country of Origin · Made in India",
-      "url": "https://www.sundartechno.in/industrial-ethernet-switches.html",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "电商/IndiaMART",
-      "claim": "8 口千兆 + 2G SFP 工业机与 8+4×10G L3 工业 PoE 在售",
-      "quote": "STS 8 PORT 10/100/1000BASE-TX+2G SFP INDUSTRIAL ETHERNET SWITCH … Input Voltage · 12 to 52V DC redundant power … 8 Port gigabit +4 Port 10G SFP L3 Managed Industrial PoE Switch",
-      "url": "https://www.sundartechno.in/profinet-switch.html",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "电商/IndiaMART",
-      "claim": "16 口管理型 ST-IES-162G-SFP 与 STR016FP 16 口 PoE",
-      "quote": "STS 16-Port 10/100BASE-TX+2G SFP Managed Industrial Switch (ST-IES-162G-SFP), STR016FP 16-port 10/100-TX Industrial PoE Switch",
-      "url": "https://www.sundartechno.in/managed-switches.html",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "PI",
-      "claim": "成交单据 STSC20241108014（CI，日期待补）：型号见单据 共 ? 台，USD ；采购 SmartByte RMB 512.0；Simon 成本表利润 RMB 153.3",
-      "quote": "",
-      "url": "PI.zip:14 印度 Manoj 可发展/CI_Zhengzhou Saga Telecom Co., Ltd..pdf",
-      "date": "2026-10-22"
-    },
-    {
-      "kind": "PI",
-      "claim": "成交单据 STSC20250107014（CI，2025-01-07）：STI-0160GE 共 5 台，USD 440.0；采购 SmartByte RMB 2560.0；Simon 成本表利润 RMB 648.39",
-      "quote": "",
-      "url": "PI.zip:14 印度 Manoj 可发展/CI.xls",
-      "date": "2025-01-07"
-    },
-    {
-      "kind": "PI",
-      "claim": "成交单据 STSC20251009014（PI，2025-10-09）：STI-0160GE 共 2 台，USD 174.0；采购 SmartByte RMB 1024.0；Simon 成本表利润 RMB 201.49",
-      "quote": "",
-      "url": "PI.zip:14 印度 Manoj 可发展/STSC20251009014.xls",
-      "date": "2025-10-09"
-    },
-    {
-      "kind": "PI",
-      "claim": "成交单据 STSC20260212014（CI，2026-02-12）：STI-0160GE 共 3 台，USD 261.0；采购 SmartByte RMB 1536.0；Simon 成本表利润 RMB 224.42",
-      "quote": "",
-      "url": "PI.zip:14 印度 Manoj 可发展/CI_STSC20260212014.xls",
-      "date": "2026-02-12"
-    },
-    {
-      "kind": "PI",
-      "claim": "PI 包文件夹「印度 Manoj 可发展」：Simon 标签 可发展；单号 4 个，2025-01-07 → 2026-02-12，销售 USD 875.0 / RMB 0，Simon 成本统计利润合计 RMB 1227.6",
-      "quote": "",
-      "url": "PI.zip:14 印度 Manoj 可发展",
-      "date": "2026-10-22"
-    },
-    {
-      "kind": "公开平台核查（T29-U18）",
-      "claim": "CEO Manoj Kumar N.（LinkedIn 5K followers）：25 年嵌入式/国防/航电经验；STS 帮客户选型集成工业 PC + I/O 卡 + 网关 + 摄像头 + 网络设备；sales@sundartechno.com，WA +91-9482081014",
-      "quote": "Sundar Techno Solutions can help customers select and integrate the industrial PC with suitable I/O cards, gateways, cameras, networking equipment and operator displays … WA/MOB: +91-9482081014",
-      "url": "https://www.linkedin.com/in/manoj-kumar-n-b4ba7a32/",
-      "date": "2026-10-23"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Manoj Kumar N",
-      "role": "Founder & CEO（成单联系人）",
-      "email": "sales@sundartechno.com",
-      "phone": "+91 94820 81014（WhatsApp 已加）",
-      "source": "https://sundartechno.com/"
-    },
-    {
-      "name": "Manoj Kumar",
-      "role": "CEO",
-      "email": "sales@sundartechno.com",
-      "phone": "",
-      "source": "PI.zip 单据"
-    }
-  ],
-  "notes": "A 维持（已成交 + CEO 直联 + 自有品牌），但 2023 年后沉寂需重新激活；守界：其国防/铁路项目不报 EN50155/军规，仅供标准工业款；P1 = STI-288DGGPM（bypass 款需向 SmartByte 确认），30% OEM 档。",
-  "researched_at": "2026-10-22",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "深挖 v1"
+ "code": "SA-049",
+ "name_official": "Sundar Techno Solutions（STS, Bangalore, India）",
+ "website_status": "在线",
+ "summary": "班加罗尔的工业自动化/嵌入式计算方案商与「Make in India」制造商（2019 年 GST 注册，独资，2–10/11–25 人，年营业额 5–25 千万卢比口径不一），自有 STS 品牌工业交换机（IndiaMART 列 STS-5000-UM-ES）、面板 PC、KVM；合作 IBASE、Volktek（台湾）；客户含国防、航天、铁路、智慧城市。用户表：CEO Manoj Kumar N 2023-06 成单（2×2 bypass 工业 FS 100 台需求），WhatsApp 已加；此后无跟进记录（陈旧）。",
+ "type": "方案商/自有品牌贴牌（成交客户）",
+ "size": "2–10 人（LinkedIn）/ 11–25 人（IndiaMART）",
+ "brands_seen": [
+  "STS",
+  "Volktek",
+  "IBASE",
+  "中科德能"
+ ],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "定位与客户行业",
+   "quote": "We are professionals with over two decades of experience in Industrial Automation, Embedded Computing, Industrial Communication … Our clientele includes Machine Builders, Process Automation companies, Transportation clients, Indian Defense & Space organizations … Phone: +91-9482081014 Email: sales@sundartechno.com",
+   "url": "https://sundartechno.com/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "legal_name": "Sundar Techno Solutions（STS）",
-    "founded": "2019（GST 注册）",
-    "hq": "Bengaluru, Karnataka, India",
-    "staff": "2–10 / 11–25（口径不一）",
-    "other": "IndiaMART 店铺 sundartechno.in 以「Manufacturer / Made in India」名义销售 STS 品牌工业交换机全线；另有 industrialcomputers.in 站点卖工控机"
+  {
+   "kind": "第三方（sourceindia）",
+   "claim": "自产工业交换机（贴牌需求来源）",
+   "quote": "We specialize in the design, development, and local production of rugged Panel PCs, Industrial Box PCs, Embedded SBCs, Edge Servers, KVM Consoles, Rugged Tablets and Industrial Ethernet Switches for applications in Defence, Aerospace, Indian Railways, Smart City",
+   "url": "https://react.sourceindia-electronics.com/companies/sundar-techno-solutions",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "STS 品牌工业交换机（非管理/管理/PoE/Profinet/L3 10G/EN50155 铁路）",
-    "工业嵌入式 Box PC、面板 PC、KVM",
-    "串口服务器（ZLAN）、Profibus 连接器"
-  ],
-  "products_seen": [
-    {
-      "brand": "STS",
-      "model": "STS-UM608GP",
-      "spec": "千兆 8 口工业非管理 PoE",
-      "url": "https://www.sundartechno.in/industrial-ethernet-switches.html",
-      "date": "2026-10-21",
-      "saga": "STI-288DGGPM"
-    },
-    {
-      "brand": "STS",
-      "model": "STS 8 PORT 10/100/1000BASE-TX+2G SFP（8-Port + 2G SFP Industrial PoE Switch）",
-      "spec": "8×GE + 2 SFP，12–52VDC 冗余，143.7×125×47.7 mm",
-      "url": "https://www.sundartechno.in/profinet-switch.html",
-      "date": "2026-10-21",
-      "saga": "STI-288DGGPM"
-    },
-    {
-      "brand": "STS",
-      "model": "STS44G10P-M-SFP",
-      "spec": "4×GE PoE + 4×10G SFP L3 管理工业",
-      "url": "https://www.sundartechno.in/industrial-poe-switch.html",
-      "date": "2026-10-21",
-      "saga": "（10G 工业 L3 待 SmartByte 核型）"
-    },
-    {
-      "brand": "STS",
-      "model": "STS-16UMES / ST-IES-162G-SFP / STR016FP",
-      "spec": "16 口非管理千兆 / 16 FE + 2G SFP 管理 / 16 口 FE PoE",
-      "url": "https://www.sundartechno.in/managed-switches.html",
-      "date": "2026-10-21",
-      "saga": "STI-21616GP"
-    },
-    {
-      "brand": "STS",
-      "model": "STS05G / STS-UM42POE",
-      "spec": "5 口千兆非管理 / 4+1 百兆 PoE",
-      "url": "https://www.sundartechno.in/unmanaged-industrial-grade-ethernet-switch.html",
-      "date": "2026-10-21",
-      "saga": "STI-144GP"
-    },
-    {
-      "brand": "STS",
-      "model": "STS1012-M 10GE EN50155 铁路交换机（M12）",
-      "spec": "铁路/圆形连接器——Saga 不做（守界）",
-      "url": "https://www.sundartechno.in/unmanaged-industrial-grade-ethernet-switch.html",
-      "date": "2026-10-21",
-      "saga": "—（不报）"
-    }
-  ],
-  "channels": {
-    "网站": "https://sundartechno.com/ · https://www.sundartechno.in/（IndiaMART）",
-    "直邮": "sales@sundartechno.com",
-    "电话/WhatsApp": "+91 98808 22633（用户表，已加）",
-    "联系人": "Manoj Kumar N（Founder & CEO，成单）",
-    "公开动态平台（监控中，T29-U18）": "LinkedIn 公司页（39 followers，2 周前发 4U 工业机箱「Make in India」）；CEO Manoj Kumar N. 个人页（5K followers，常发工业 PC/边缘 AI）；官网 sundartechno.com（RSS）+ embeddedautomation.org + IndiaMART 迷你站 sundartechno.in；YouTube @SUNDARTECHNOSOLUTIONS；X @SundarTechno；Instagram；Facebook"
+  {
+   "kind": "第三方（LinkedIn）",
+   "claim": "合作伙伴与规模",
+   "quote": "PARTNER FOR: IBASE TECHNOLOGY INC TAIWAN VOLKTEK CORPORATION TAIWAN … Company size: 2-10 employees · Founded: 2019",
+   "url": "https://in.linkedin.com/company/sundar-techno-solutions",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "2026-10-23 核查：STS 是 IBASE / Volktek（台湾工业交换机厂）/ Panasonic Toughbook 的印度代理，并自产工业机箱/显示一体机（OEM）；Volktek 是现成的竞品位——切入点 = 同规格宽温 PoE 交换机比 Volktek 便宜 + 可贴 STS 标；KP 在 LinkedIn 活跃（5K followers），动态用 web 搜索跟",
-    "IndiaMART 店铺以 STS 品牌列出 20+ 款工业交换机，MOQ 1–5 台，「Made in India」——典型贴牌 + 本地组装/贴标模式，持续需要 ODM 货源（2026-10-21）",
-    "用户表：2023-06 成单（2×2 bypass 工业 FS 100 台需求），此后无跟进记录"
-  ],
-  "risks": [
-    "客户面向国防/铁路/智慧城市——国防与铁路项目守界，只供工厂/智慧城市民用项目",
-    "「Made in India」标注要求中性包装 + 可能要求 SKD/本地组装",
-    "2023 年后沉默 2 年，需重新激活"
-  ],
-  "saga_fit": {
-    "p1": "STI-288DGGPM",
-    "tier": 30,
-    "why": "STS 全线与 Saga STI 工业线逐一对位：STS-UM608GP / 8+2G SFP → STI-288DGGPM；STS05G/UM42POE → STI-144GP；16 口 → STI-21616GP；贴 STS 标 30% 档；10G L3 与 EN50155 不报"
+  {
+   "kind": "电商/IndiaMART",
+   "claim": "STS 品牌工业交换机型号：STS-16UMES、STS-UM42POE、STS-UM608GP 等，MOQ 5，Made in India",
+   "quote": "Manufacturer of Industrial Ethernet Switches - STS 16 PORT UNMANAGED NON POE … Model Name/Number · STS-16UMES … 5 Port Unmanaged Industrial Ethernet Switch … STS-UM42POE … STS-UM608GP_Gigabit 8 port Industrial Unmanaged Ethernet POE Switch … Country of Origin · Made in India",
+   "url": "https://www.sundartechno.in/industrial-ethernet-switches.html",
+   "date": "2026-10-21"
   },
-  "email_hook": "Looking at the STS-UM608GP and the 8-port + 2G SFP PoE models in your range, the Marvell-based 8-port DIN managed PoE switch is the one we can build in STS neutral packing, so I am restarting with that and the 4+1 compact unit rather than the bypass model from 2023.",
-  "deal_pi": {
-    "folder": "14 印度 Manoj 可发展",
-    "simon_label": "可发展",
-    "pay": "",
-    "bind": "",
-    "buyer": "Sundar Techno Solutions",
-    "orders": 4,
-    "first": "2025-01-07",
-    "last": "2026-02-12",
-    "usd": 875.0,
-    "rmb": 0.0,
-    "profit_rmb": 1227.6,
-    "models": "STI-0160GE"
+  {
+   "kind": "电商/IndiaMART",
+   "claim": "8 口千兆 + 2G SFP 工业机与 8+4×10G L3 工业 PoE 在售",
+   "quote": "STS 8 PORT 10/100/1000BASE-TX+2G SFP INDUSTRIAL ETHERNET SWITCH … Input Voltage · 12 to 52V DC redundant power … 8 Port gigabit +4 Port 10G SFP L3 Managed Industrial PoE Switch",
+   "url": "https://www.sundartechno.in/profinet-switch.html",
+   "date": "2026-10-21"
   },
-  "grade_override": "A",
-  "override_reason": "PI 包成单客户，Simon 标签 可发展 → A",
-  "watch": {
-    "as_of": "2026-10-23",
-    "github_watch": [],
-    "web_watch_targets": "scripts/web_watch/targets.json#SA-049",
-    "status": "data/customer_watch/当前状态.md",
-    "log": "data/customer_watch/变化日志.md"
+  {
+   "kind": "电商/IndiaMART",
+   "claim": "16 口管理型 ST-IES-162G-SFP 与 STR016FP 16 口 PoE",
+   "quote": "STS 16-Port 10/100BASE-TX+2G SFP Managed Industrial Switch (ST-IES-162G-SFP), STR016FP 16-port 10/100-TX Industrial PoE Switch",
+   "url": "https://www.sundartechno.in/managed-switches.html",
+   "date": "2026-10-21"
   },
-  "mail_review": {
-    "binding": {
-      "level": "轻度绑定（3 单复购：2024-11 ×1、2025-01 ×5、2025-10 ×2，全部 STI-0160GE，$88/$88/$87；关系在 WhatsApp，邮件仅 1 封群发）",
-      "type": "印度班加罗尔方案商/自有品牌（CEO Manoj Kumar 直联）——PI 包 #14「可发展」",
-      "sieve": "5（三次付款 T/T in advance，自提/FedEx）",
-      "stop": "无停点；节奏由其项目决定（间隔 2 个月、9 个月）",
-      "revive": "—（活跃）",
-      "lane": "IN（非主攻但在复购）",
-      "cadence": "WhatsApp；每单后一句话问下一个项目",
-      "evidence": "PI STSC20241108014（1 pc $88，2024-11-08）、STSC20250107014（5 pcs $440，2025-01-07）、STSC20251009014（2 pcs $174，2025-10-09）；采购合同 LT-IS6016G-16GT 未税 512 RMB/台"
-    },
-    "situation": "Sundar Techno 是 A 邮箱看不见的成单户：三张 PI 都是 STI-0160GE（16 电口工业非管理，-40~75℃，DIN，中性包装，不放保修卡/QC 贴）。研究档「2023 年后沉寂需重新激活」是错的——最近一单 2025-10-09。",
-    "need": "工业 16 口非管理 DIN（配套其工业 PC/网关方案），每次 1–5 台。",
-    "breakpoint": "无；小量多次 = 用户说的「1 次不行就 10 次」正在发生。",
-    "saga_now": {
-      "p1": "STI-0160GE（继续）；顺带 STI-288DGGPM 管理型升级问一句",
-      "tier": 30,
-      "price": "STI-0160GE $87（2025-10 成交价，成本 512 RMB ≈ $76.5 @6.69 → 毛利约 14%，低于 25% 底线——下单时按现价表复核）",
-      "why": "已成交三次｜毛利复盘：STI-0160GE 四单成本 512 不变，每台收款 665 → 642 → 613 → 587，毛利 23% → 12.7%——是汇率（7.2→6.7）吃掉的，不是让利；下次询价按 6.69 重报（约 +7%），说「PCB/RAM + 汇率」",
-      "repeat": [
-        "2024-11",
-        "2025-01",
-        "2025-10"
-      ],
-      "gaps": [
-        "成交价毛利低于 Marvell ≥25% 底线（工业非管理款是否 Realtek 线？核价格主表）"
-      ]
-    },
-    "next_move": {
-      "when": "2026-12（上单后 2 个月）",
-      "channel": "WhatsApp +91 9482081014",
-      "action": "一句话问下一批 + 提管理型",
-      "one_question": "Next batch of STI-0160GE — same 2–5 pcs, or is any site asking for a managed (VLAN/ring) version this time?"
-    },
-    "facts": [
-      {
-        "date": "2023-12-13",
-        "dir": "备",
-        "who": "Saga 内部印度旁路/光开关线索表 Bypass_client_list.xlsx（Rishi 文件夹）",
-        "quote": "名单行：「7 http://www.sundartechno.com/ India Manoj Kumar N CEO 91-948208 1014 sales@sundartechno.com sales@embeddedaautomation.org asked bypass 100pcs」",
-        "why": "Saga 自己的线索表里对本户的一手备注（来源/兴趣点/是否已加 WhatsApp/展会现场对话）（名单无日期，按同文件夹 List_2023.12.13 归期）——比群发打开率更硬的证据；写下一封邮件时直接引用这里的兴趣点",
-        "k": "Drive PI 文件夹 2_印度_Rishi"
-      },
-      {
-        "date": "2024-11-08",
-        "dir": "PI",
-        "who": "Simon → Manoj Kumar（CEO）",
-        "quote": "STI-0160GE … 1 pc, 88 USD, Sample Testing, Neutral Device",
-        "why": "首单",
-        "k": "PI STSC20241108014"
-      },
-      {
-        "date": "2024-11-09",
-        "dir": "采购合同",
-        "who": "Saga → SmartByte",
-        "quote": "LT-IS6016G-16GT = STI-0160GE，单价 512 RMB，中性设备，不放保修卡",
-        "why": "成本/贴牌要求",
-        "k": "采购合同_STSC20241108014"
-      },
-      {
-        "date": "2025-01-07",
-        "dir": "PI",
-        "who": "Simon → Sundar",
-        "quote": "STI-0160GE … 5 pcs, 88 USD, 440 USD",
-        "why": "复购 1",
-        "k": "PI STSC20250107014"
-      },
-      {
-        "date": "2025-10-09",
-        "dir": "PI",
-        "who": "Simon → Sundar",
-        "quote": "STI-0160GE … 2 pcs, 87 USD, 174 USD, T/T in advance, EXW",
-        "why": "复购 2",
-        "k": "PI STSC20251009014"
-      },
-      {
-        "date": "2026-02-12",
-        "dir": "内",
-        "who": "Simon 成本表（PI 包）",
-        "quote": "内部《成本统计.xlsx》：STSC20241108014：成本 512 / 收款 665 / 利润 153（23.0%） · STSC20250107014：成本 2,560 / 收款 3,208 / 利润 648（20.2%） · STSC20251009014：成本 1,024 / 收款 1,225 / 利润 201（16.4%） · STSC20260212014：成本 1,536 / 收款 1,760 / 利润 224（12.7%）",
-        "why": "利润率 = 利润÷收款；对照 20/25/30 加价 = 16.7%/20%/23% 毛利；详见 docs/成单客户_毛利复盘_内部_2026-10-24.md",
-        "k": "cost_sheet"
-      }
-    ],
-    "proof_gaps": [
-      "WhatsApp 往来未入库"
-    ],
-    "draft_en": {
-      "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
-      "body": "Next batch of STI-0160GE — same 2–5 pcs, or is any site asking for a managed (VLAN/ring) version this time?"
-    },
-    "as_of": "2026-10-24"
+  {
+   "kind": "PI",
+   "claim": "成交单据 STSC20241108014（CI，日期待补）：型号见单据 共 ? 台，USD ；采购 SmartByte RMB 512.0；Simon 成本表利润 RMB 153.3",
+   "quote": "",
+   "url": "PI.zip:14 印度 Manoj 可发展/CI_Zhengzhou Saga Telecom Co., Ltd..pdf",
+   "date": "2026-10-22"
+  },
+  {
+   "kind": "PI",
+   "claim": "成交单据 STSC20250107014（CI，2025-01-07）：STI-0160GE 共 5 台，USD 440.0；采购 SmartByte RMB 2560.0；Simon 成本表利润 RMB 648.39",
+   "quote": "",
+   "url": "PI.zip:14 印度 Manoj 可发展/CI.xls",
+   "date": "2025-01-07"
+  },
+  {
+   "kind": "PI",
+   "claim": "成交单据 STSC20251009014（PI，2025-10-09）：STI-0160GE 共 2 台，USD 174.0；采购 SmartByte RMB 1024.0；Simon 成本表利润 RMB 201.49",
+   "quote": "",
+   "url": "PI.zip:14 印度 Manoj 可发展/STSC20251009014.xls",
+   "date": "2025-10-09"
+  },
+  {
+   "kind": "PI",
+   "claim": "成交单据 STSC20260212014（CI，2026-02-12）：STI-0160GE 共 3 台，USD 261.0；采购 SmartByte RMB 1536.0；Simon 成本表利润 RMB 224.42",
+   "quote": "",
+   "url": "PI.zip:14 印度 Manoj 可发展/CI_STSC20260212014.xls",
+   "date": "2026-02-12"
+  },
+  {
+   "kind": "PI",
+   "claim": "PI 包文件夹「印度 Manoj 可发展」：Simon 标签 可发展；单号 4 个，2025-01-07 → 2026-02-12，销售 USD 875.0 / RMB 0，Simon 成本统计利润合计 RMB 1227.6",
+   "quote": "",
+   "url": "PI.zip:14 印度 Manoj 可发展",
+   "date": "2026-10-22"
+  },
+  {
+   "kind": "公开平台核查（T29-U18）",
+   "claim": "CEO Manoj Kumar N.（LinkedIn 5K followers）：25 年嵌入式/国防/航电经验；STS 帮客户选型集成工业 PC + I/O 卡 + 网关 + 摄像头 + 网络设备；sales@sundartechno.com，WA +91-9482081014",
+   "quote": "Sundar Techno Solutions can help customers select and integrate the industrial PC with suitable I/O cards, gateways, cameras, networking equipment and operator displays … WA/MOB: +91-9482081014",
+   "url": "https://www.linkedin.com/in/manoj-kumar-n-b4ba7a32/",
+   "date": "2026-10-23"
   }
+ ],
+ "kp": [
+  {
+   "name": "Manoj Kumar N",
+   "role": "Founder & CEO（成单联系人）",
+   "email": "sales@sundartechno.com",
+   "phone": "+91 94820 81014（WhatsApp 已加）",
+   "source": "https://sundartechno.com/"
+  },
+  {
+   "name": "Manoj Kumar",
+   "role": "CEO",
+   "email": "sales@sundartechno.com",
+   "phone": "",
+   "source": "PI.zip 单据"
+  }
+ ],
+ "notes": "A 维持（已成交 + CEO 直联 + 自有品牌），但 2023 年后沉寂需重新激活；守界：其国防/铁路项目不报 EN50155/军规，仅供标准工业款；P1 = STI-288DGGPM（bypass 款需向 SmartByte 确认），30% OEM 档。",
+ "researched_at": "2026-10-22",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "深挖 v1"
+ },
+ "company_facts": {
+  "legal_name": "Sundar Techno Solutions（STS）",
+  "founded": "2019（GST 注册）",
+  "hq": "Bengaluru, Karnataka, India",
+  "staff": "2–10 / 11–25（口径不一）",
+  "other": "IndiaMART 店铺 sundartechno.in 以「Manufacturer / Made in India」名义销售 STS 品牌工业交换机全线；另有 industrialcomputers.in 站点卖工控机"
+ },
+ "business_lines": [
+  "STS 品牌工业交换机（非管理/管理/PoE/Profinet/L3 10G/EN50155 铁路）",
+  "工业嵌入式 Box PC、面板 PC、KVM",
+  "串口服务器（ZLAN）、Profibus 连接器"
+ ],
+ "products_seen": [
+  {
+   "brand": "STS",
+   "model": "STS-UM608GP",
+   "spec": "千兆 8 口工业非管理 PoE",
+   "url": "https://www.sundartechno.in/industrial-ethernet-switches.html",
+   "date": "2026-10-21",
+   "saga": "STI-288DGGPM"
+  },
+  {
+   "brand": "STS",
+   "model": "STS 8 PORT 10/100/1000BASE-TX+2G SFP（8-Port + 2G SFP Industrial PoE Switch）",
+   "spec": "8×GE + 2 SFP，12–52VDC 冗余，143.7×125×47.7 mm",
+   "url": "https://www.sundartechno.in/profinet-switch.html",
+   "date": "2026-10-21",
+   "saga": "STI-288DGGPM"
+  },
+  {
+   "brand": "STS",
+   "model": "STS44G10P-M-SFP",
+   "spec": "4×GE PoE + 4×10G SFP L3 管理工业",
+   "url": "https://www.sundartechno.in/industrial-poe-switch.html",
+   "date": "2026-10-21",
+   "saga": "（10G 工业 L3 待 SmartByte 核型）"
+  },
+  {
+   "brand": "STS",
+   "model": "STS-16UMES / ST-IES-162G-SFP / STR016FP",
+   "spec": "16 口非管理千兆 / 16 FE + 2G SFP 管理 / 16 口 FE PoE",
+   "url": "https://www.sundartechno.in/managed-switches.html",
+   "date": "2026-10-21",
+   "saga": "STI-21616GP"
+  },
+  {
+   "brand": "STS",
+   "model": "STS05G / STS-UM42POE",
+   "spec": "5 口千兆非管理 / 4+1 百兆 PoE",
+   "url": "https://www.sundartechno.in/unmanaged-industrial-grade-ethernet-switch.html",
+   "date": "2026-10-21",
+   "saga": "STI-144GP"
+  },
+  {
+   "brand": "STS",
+   "model": "STS1012-M 10GE EN50155 铁路交换机（M12）",
+   "spec": "铁路/圆形连接器——Saga 不做（守界）",
+   "url": "https://www.sundartechno.in/unmanaged-industrial-grade-ethernet-switch.html",
+   "date": "2026-10-21",
+   "saga": "—（不报）"
+  }
+ ],
+ "channels": {
+  "网站": "https://sundartechno.com/ · https://www.sundartechno.in/（IndiaMART）",
+  "直邮": "sales@sundartechno.com",
+  "电话/WhatsApp": "+91 98808 22633（用户表，已加）",
+  "联系人": "Manoj Kumar N（Founder & CEO，成单）",
+  "公开动态平台（监控中，T29-U18）": "LinkedIn 公司页（39 followers，2 周前发 4U 工业机箱「Make in India」）；CEO Manoj Kumar N. 个人页（5K followers，常发工业 PC/边缘 AI）；官网 sundartechno.com（RSS）+ embeddedautomation.org + IndiaMART 迷你站 sundartechno.in；YouTube @SUNDARTECHNOSOLUTIONS；X @SundarTechno；Instagram；Facebook"
+ },
+ "signals": [
+  "2026-10-23 核查：STS 是 IBASE / Volktek（台湾工业交换机厂）/ Panasonic Toughbook 的印度代理，并自产工业机箱/显示一体机（OEM）；Volktek 是现成的竞品位——切入点 = 同规格宽温 PoE 交换机比 Volktek 便宜 + 可贴 STS 标；KP 在 LinkedIn 活跃（5K followers），动态用 web 搜索跟",
+  "IndiaMART 店铺以 STS 品牌列出 20+ 款工业交换机，MOQ 1–5 台，「Made in India」——典型贴牌 + 本地组装/贴标模式，持续需要 ODM 货源（2026-10-21）",
+  "用户表：2023-06 成单（2×2 bypass 工业 FS 100 台需求），此后无跟进记录"
+ ],
+ "risks": [
+  "客户面向国防/铁路/智慧城市——国防与铁路项目守界，只供工厂/智慧城市民用项目",
+  "「Made in India」标注要求中性包装 + 可能要求 SKD/本地组装",
+  "2023 年后沉默 2 年，需重新激活"
+ ],
+ "saga_fit": {
+  "p1": "STI-288DGGPM",
+  "tier": 30,
+  "why": "STS 全线与 Saga STI 工业线逐一对位：STS-UM608GP / 8+2G SFP → STI-288DGGPM；STS05G/UM42POE → STI-144GP；16 口 → STI-21616GP；贴 STS 标 30% 档；10G L3 与 EN50155 不报"
+ },
+ "email_hook": "Looking at the STS-UM608GP and the 8-port + 2G SFP PoE models in your range, the Marvell-based 8-port DIN managed PoE switch is the one we can build in STS neutral packing, so I am restarting with that and the 4+1 compact unit rather than the bypass model from 2023.",
+ "deal_pi": {
+  "folder": "14 印度 Manoj 可发展",
+  "simon_label": "可发展",
+  "pay": "",
+  "bind": "",
+  "buyer": "Sundar Techno Solutions",
+  "orders": 4,
+  "first": "2025-01-07",
+  "last": "2026-02-12",
+  "usd": 875.0,
+  "rmb": 0.0,
+  "profit_rmb": 1227.6,
+  "models": "STI-0160GE"
+ },
+ "grade_override": "A",
+ "override_reason": "PI 包成单客户，Simon 标签 可发展 → A",
+ "watch": {
+  "as_of": "2026-10-23",
+  "github_watch": [],
+  "web_watch_targets": "scripts/web_watch/targets.json#SA-049",
+  "status": "data/customer_watch/当前状态.md",
+  "log": "data/customer_watch/变化日志.md"
+ },
+ "mail_review": {
+  "binding": {
+   "level": "轻度绑定（3 单复购：2024-11 ×1、2025-01 ×5、2025-10 ×2，全部 STI-0160GE，$88/$88/$87；关系在 WhatsApp，邮件仅 1 封群发；Elsa 箱：`to:sundartechno.com OR to:embeddedaautomation.org` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 1 / 来 0）（第 74 批(g)））",
+   "type": "印度班加罗尔方案商/自有品牌（CEO Manoj Kumar 直联）——PI 包 #14「可发展」",
+   "sieve": "5（三次付款 T/T in advance，自提/FedEx）",
+   "stop": "无停点；节奏由其项目决定（间隔 2 个月、9 个月）",
+   "revive": "—（活跃）",
+   "lane": "IN（非主攻但在复购）",
+   "cadence": "WhatsApp；每单后一句话问下一个项目",
+   "evidence": "PI STSC20241108014（1 pc $88，2024-11-08）、STSC20250107014（5 pcs $440，2025-01-07）、STSC20251009014（2 pcs $174，2025-10-09）；采购合同 LT-IS6016G-16GT 未税 512 RMB/台"
+  },
+  "situation": "Sundar Techno 是 A 邮箱看不见的成单户：三张 PI 都是 STI-0160GE（16 电口工业非管理，-40~75℃，DIN，中性包装，不放保修卡/QC 贴）。研究档「2023 年后沉寂需重新激活」是错的——最近一单 2025-10-09。",
+  "need": "工业 16 口非管理 DIN（配套其工业 PC/网关方案），每次 1–5 台。",
+  "breakpoint": "无；小量多次 = 用户说的「1 次不行就 10 次」正在发生。",
+  "saga_now": {
+   "p1": "STI-0160GE（继续）；顺带 STI-288DGGPM 管理型升级问一句",
+   "tier": 30,
+   "price": "STI-0160GE $87（2025-10 成交价，成本 512 RMB ≈ $76.5 @6.69 → 毛利约 14%，低于 25% 底线——下单时按现价表复核）",
+   "why": "已成交三次｜毛利复盘：STI-0160GE 四单成本 512 不变，每台收款 665 → 642 → 613 → 587，毛利 23% → 12.7%——是汇率（7.2→6.7）吃掉的，不是让利；下次询价按 6.69 重报（约 +7%），说「PCB/RAM + 汇率」",
+   "repeat": [
+    "2024-11",
+    "2025-01",
+    "2025-10"
+   ],
+   "gaps": [
+    "成交价毛利低于 Marvell ≥25% 底线（工业非管理款是否 Realtek 线？核价格主表）"
+   ]
+  },
+  "next_move": {
+   "when": "2026-12（上单后 2 个月）",
+   "channel": "WhatsApp +91 9482081014",
+   "action": "一句话问下一批 + 提管理型",
+   "one_question": "Next batch of STI-0160GE — same 2–5 pcs, or is any site asking for a managed (VLAN/ring) version this time?"
+  },
+  "facts": [
+   {
+    "date": "2023-12-13",
+    "dir": "备",
+    "who": "Saga 内部印度旁路/光开关线索表 Bypass_client_list.xlsx（Rishi 文件夹）",
+    "quote": "名单行：「7 http://www.sundartechno.com/ India Manoj Kumar N CEO 91-948208 1014 sales@sundartechno.com sales@embeddedaautomation.org asked bypass 100pcs」",
+    "why": "Saga 自己的线索表里对本户的一手备注（来源/兴趣点/是否已加 WhatsApp/展会现场对话）（名单无日期，按同文件夹 List_2023.12.13 归期）——比群发打开率更硬的证据；写下一封邮件时直接引用这里的兴趣点",
+    "k": "Drive PI 文件夹 2_印度_Rishi"
+   },
+   {
+    "date": "2024-11-08",
+    "dir": "PI",
+    "who": "Simon → Manoj Kumar（CEO）",
+    "quote": "STI-0160GE … 1 pc, 88 USD, Sample Testing, Neutral Device",
+    "why": "首单",
+    "k": "PI STSC20241108014"
+   },
+   {
+    "date": "2024-11-09",
+    "dir": "采购合同",
+    "who": "Saga → SmartByte",
+    "quote": "LT-IS6016G-16GT = STI-0160GE，单价 512 RMB，中性设备，不放保修卡",
+    "why": "成本/贴牌要求",
+    "k": "采购合同_STSC20241108014"
+   },
+   {
+    "date": "2025-01-07",
+    "dir": "PI",
+    "who": "Simon → Sundar",
+    "quote": "STI-0160GE … 5 pcs, 88 USD, 440 USD",
+    "why": "复购 1",
+    "k": "PI STSC20250107014"
+   },
+   {
+    "date": "2025-10-09",
+    "dir": "PI",
+    "who": "Simon → Sundar",
+    "quote": "STI-0160GE … 2 pcs, 87 USD, 174 USD, T/T in advance, EXW",
+    "why": "复购 2",
+    "k": "PI STSC20251009014"
+   },
+   {
+    "date": "2026-02-12",
+    "dir": "内",
+    "who": "Simon 成本表（PI 包）",
+    "quote": "内部《成本统计.xlsx》：STSC20241108014：成本 512 / 收款 665 / 利润 153（23.0%） · STSC20250107014：成本 2,560 / 收款 3,208 / 利润 648（20.2%） · STSC20251009014：成本 1,024 / 收款 1,225 / 利润 201（16.4%） · STSC20260212014：成本 1,536 / 收款 1,760 / 利润 224（12.7%）",
+    "why": "利润率 = 利润÷收款；对照 20/25/30 加价 = 16.7%/20%/23% 毛利；详见 docs/成单客户_毛利复盘_内部_2026-10-24.md",
+    "k": "cost_sheet"
+   }
+  ],
+  "proof_gaps": [
+   "WhatsApp 往来未入库"
+  ],
+  "draft_en": {
+   "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+   "body": "Next batch of STI-0160GE — same 2–5 pcs, or is any site asking for a managed (VLAN/ring) version this time?"
+  },
+  "as_of": "2026-10-24"
+ }
 }

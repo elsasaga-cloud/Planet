@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 3
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -42,7 +42,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-758` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A/S 邮箱 24 封 2024→2026，1 次记录打开，0 回；收件 info@cbo-it.de；主题多为「Marvell Industrial Alert System、10G Enterprise SFP Switch」）** ｜ 类型：光模块品牌商（德国，BlueOptics，工业 FS 为副线） ｜ 筛子：1~2（1 次打开） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：停发群发；若要继续，换具名邮箱 + 只问一句 ｜ 通路：DE 主攻（四主） ｜ 节奏：一封 ｜ 证据：gmail_digest：out 24，Opened 标签 1（Simon 群发追踪）；用户表：「工业FS」；研究档 risks：主业光模块/AOC（Saga 不供，Q-32），工业 FS / MC 为副线；19 次无回复 → 改向 Project Manager 具名首触；用户标「可以着
+- **绑定等级：未触达（A/S 邮箱 24 封 2024→2026，1 次记录打开，0 回；收件 info@cbo-it.de；主题多为「Marvell Industrial Alert System、10G Enterprise SFP Switch」；Elsa 箱：`to:.de` 穷举 29 条（2026-10-25，锚批 Bcc 头已读）未见 cbo-it.de / blueoptics-shop.de → Elsa 箱从未发过本户，往来只在 S/A 箱（去 24 / 来 0）（第 74 批(f)））** ｜ 类型：光模块品牌商（德国，BlueOptics，工业 FS 为副线） ｜ 筛子：1~2（1 次打开） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：停发群发；若要继续，换具名邮箱 + 只问一句 ｜ 通路：DE 主攻（四主） ｜ 节奏：一封 ｜ 证据：gmail_digest：out 24，Opened 标签 1（Simon 群发追踪）；用户表：「工业FS」；研究档 risks：主业光模块/AOC（Saga 不供，Q-32），工业 FS / MC 为副线；19 次无回复 → 改向 Project Manager 具名首触；用户标「可以着
 - **现状一句话**：德国 CBO GmbH（「Offizieller BlueOptics SFP Hersteller」：BlueOptics 品牌光模块（SFP/QSFP28/SFP56/QSFP112）、DAC/AOC、光纤跳线、MPO/MTP；主站 cbo-it.de + 品牌商城 blueoptics-shop.de（原 SB-812 与 SB-758 两行，2026-10-21 人工归并为一家）；表内「工业 FS」「质量高」「自己的 logo；SFP MC AOC 等为主」「可以着重跟一下」；KP Sandra Go（Project Manager））；群发 19 次无回复。
 - **对方真实需求（有据）**：BlueOptics 标工业 FS → 工业 8 GE + 2 SFP 管理 STI-280GE（$50.5 @30%）、工业 8 PoE + 2 SFP STI-288GPM（$85.5）贴标；MC 副线 STI-110GE（$24.3）；光模块/DAC/AOC Saga 不供
 - **断点 / 为什么停在这里**：主业光模块/AOC（Saga 不供，Q-32），工业 FS / MC 为副线；19 次无回复 → 改向 Project Manager 具名首触；用户标「可以着重跟一下」
@@ -314,12 +314,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 B，分数 44）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 B，分数 44）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

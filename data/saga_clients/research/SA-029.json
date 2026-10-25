@@ -1,209 +1,209 @@
 {
-  "code": "SA-029",
-  "name_official": "ALLNET GmbH Computersysteme（Germering bei München）",
-  "website_status": "在线",
-  "summary": "德国增值分销商 + 自有品牌厂商（1991 年成立，Wolfgang Marcus Bauer），分销网络/无线/UCC/视频监控/安全/测量产品，并以 ALLNET 品牌自产网络、电信、WLAN、视频监控产品；2013 年营收 €5,800 万（德国分销商第 27 位）。用户表：A 已回复，自己的 logo、工业 FS/MC/SFP/周边，有 E-link 的产品。",
-  "type": "分销商 + 自有品牌（ALLNET，OEM 采购）",
-  "size": "€58M 营收（2013，channelpartner）",
-  "brands_seen": [
-    "ALLNET",
-    "E-link"
-  ],
-  "evidence": [
-    {
-      "kind": "第三方（Wikipedia）",
-      "claim": "定位：增值分销 + 自产 ALLNET 品牌产品",
-      "quote": "Die ALLNET GmbH Computersysteme ist ein deutscher Value add Distributor für Produkte im Bereich der Netzwerktechnik … Das Unternehmen produziert und vermarktet und dem Namen \"ALLNET\" zudem Produkte",
-      "url": "https://de.wikipedia.org/wiki/ALLNET",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "第三方（channelpartner）",
-      "claim": "体量",
-      "quote": "Platz 27: Allnet · Unternehmen: Allnet GmbH Computersysteme Schwerpunkt: Netzwerke Umsatz: 58 Mio. Euro (2013)",
-      "url": "https://www.channelpartner.de/g/die-groessten-distributoren-in-deutschland-rangliste-nach-umsatz,109904,5",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网",
-      "claim": "销售/新客户邮箱",
-      "quote": "Neukundenbetreuung Mail: neukunde(at)allnet.de · Vertrieb allgemein (Sales) Mail: sales(at)allnet.de Tel.: (089) 894-222-22",
-      "url": "https://distribution.allnet.de/contact-allnet-distribution.html",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网",
-      "claim": "ALL-SGI8004P 工业 4 口 bt + 2 SFP 180W DIN",
-      "quote": "ALLNET switch unmanaged industrial 4-port Gigabit 180W / 2x PoE bt / 2x SFP / fanless / DIN / IP40 / ALL-SGI8004P … 2x HighPower PoE ports, up to 90 Watt per port",
-      "url": "https://www.allnet.de/en/allnet-brand/produkte/industrial-switches/switches/p/allnet-switch-unmanaged-industrial-4-port-gigabit-120w-2x-poe-2x-sfp-luefterlos-din-ip40/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网",
-      "claim": "ALL-SGI8016PM 工业 L3 PoE 16 口（12 PoE + 4 SFP）",
-      "quote": "ALLNET ALL-SGI8016PM is a professional yet affordable industrial L3 PoE switch with 16 Gigabit ports, supporting up to 12*10/100/1000M PoE downlink ports and 4* 1000M SFP ports",
-      "url": "https://www.allnet.de/en/allnet-brand/produkte/industrial-switches/switches/p/allnet-switch-managed-l2-l3-industrial-12-port-gigabit-12/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "零售渠道",
-      "claim": "2025-05-26 新品 ALL-SGI8112PM-BT（JSON API）",
-      "quote": "ALLNET Industrial Switch fully managed Layer 2+ with 12 ports GbE or PoE, budget 240W, 8x PoE BT, 4x SFP, fanless, DIN, JSON API, model ALL-SGI8112PMJ-BT … Release date · 26.5.2025",
-      "url": "https://www.galaxus.ch/en/s1/product/allnet-switch-industrial-full-managed-layer2-gbe-poe-budget-240w-8x-bt-12-ports-network-switches-58884553",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Wolfgang Marcus Bauer",
-      "role": "Geschäftsführer",
-      "email": "",
-      "phone": "+49 89 894 222-22",
-      "source": "https://www.allnet.de/impressum.html"
-    },
-    {
-      "name": "Gerhard Zerwes",
-      "role": "来信署名人（职务未在邮件署名里出现）",
-      "email": "zerwes@allnet.de",
-      "phone": "",
-      "source": "S/A 邮箱来信 2024-06-04 → 2025-07-10 来信 3 封（第 72 批从邮件表头补）"
-    }
-  ],
-  "notes": "A 维持（用户 A 已回复 + 自有品牌已从中国 E-link 采购）；体量偏大但贴牌采购决策在产品经理层，可做。P1 = STI-288DGGPM（工业 PoE 贴牌），30% 档；强调 Marvell 方案与 L2+ 固件差异化。",
-  "researched_at": "2026-10-21",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "深挖 v1"
+ "code": "SA-029",
+ "name_official": "ALLNET GmbH Computersysteme（Germering bei München）",
+ "website_status": "在线",
+ "summary": "德国增值分销商 + 自有品牌厂商（1991 年成立，Wolfgang Marcus Bauer），分销网络/无线/UCC/视频监控/安全/测量产品，并以 ALLNET 品牌自产网络、电信、WLAN、视频监控产品；2013 年营收 €5,800 万（德国分销商第 27 位）。用户表：A 已回复，自己的 logo、工业 FS/MC/SFP/周边，有 E-link 的产品。",
+ "type": "分销商 + 自有品牌（ALLNET，OEM 采购）",
+ "size": "€58M 营收（2013，channelpartner）",
+ "brands_seen": [
+  "ALLNET",
+  "E-link"
+ ],
+ "evidence": [
+  {
+   "kind": "第三方（Wikipedia）",
+   "claim": "定位：增值分销 + 自产 ALLNET 品牌产品",
+   "quote": "Die ALLNET GmbH Computersysteme ist ein deutscher Value add Distributor für Produkte im Bereich der Netzwerktechnik … Das Unternehmen produziert und vermarktet und dem Namen \"ALLNET\" zudem Produkte",
+   "url": "https://de.wikipedia.org/wiki/ALLNET",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "legal_name": "ALLNET GmbH Computersysteme",
-    "founded": "1991（Wolfgang Marcus Bauer）",
-    "hq": "Germering bei München, Germany",
-    "revenue": "€58M（2013 口径，待更新）",
-    "other": "自有品牌 ALLNET 工业交换机全线（ALL-SGI 系列：Entry Line 非管理 / smart managed / full managed L2+，含 bt 90W、JSON API），2025-05 仍在发新品；也供应 Reichelt、Galaxus 等零售渠道"
+  {
+   "kind": "第三方（channelpartner）",
+   "claim": "体量",
+   "quote": "Platz 27: Allnet · Unternehmen: Allnet GmbH Computersysteme Schwerpunkt: Netzwerke Umsatz: 58 Mio. Euro (2013)",
+   "url": "https://www.channelpartner.de/g/die-groessten-distributoren-in-deutschland-rangliste-nach-umsatz,109904,5",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "增值分销（网络/无线/UCC/视频监控/安全/测量）",
-    "ALLNET 品牌：工业 DIN 交换机 ALL-SGI 系列、商用交换机、WLAN、监控、电信",
-    "欧洲渠道（ALLNET Italia 等子公司）"
-  ],
-  "products_seen": [
-    {
-      "brand": "ALLNET",
-      "model": "ALL-SGI8004P",
-      "spec": "工业非管理 4×GE（2×PoE bt 90W）+ 2 SFP，180W，无风扇，DIN，IP40（Art. 189228）",
-      "url": "https://www.allnet.de/en/allnet-brand/produkte/industrial-switches/switches/p/allnet-switch-unmanaged-industrial-4-port-gigabit-120w-2x-poe-2x-sfp-luefterlos-din-ip40/",
-      "date": "2026-10-21",
-      "saga": "STI-144GP"
-    },
-    {
-      "brand": "ALLNET",
-      "model": "ALL-SGI8206v2P",
-      "spec": "工业非管理 4×GE PoE（3 at + 1 bt）+ 2 combo，150W，-40~75℃，110×163×46 mm",
-      "url": "https://www.allnet.de/en/allnet-brand/produkte/industrial-switches/switches/p/allnet-all-sgi8206pm-unmanaged-industrial-switch-4-port-hpoe-gigabit-2x-combo-tpsfp/",
-      "date": "2026-10-21",
-      "saga": "STI-144GP"
-    },
-    {
-      "brand": "ALLNET",
-      "model": "ALL-SGI8108v2",
-      "spec": "工业非管理 8×GE + 2 SFP，DIN，IP40",
-      "url": "https://www.allnet.de/en/allnet-brand/produkte/industrial-switches/switches/",
-      "date": "2026-10-21",
-      "saga": "STI-288DGGPM（非 PoE 版待核）"
-    },
-    {
-      "brand": "ALLNET",
-      "model": "ALL-SGI8104PM",
-      "spec": "工业管理 4×GE PoE af/at + 2 SFP，DIN（Art. 174877）",
-      "url": "https://cdn-reichelt.de/documents/datenblatt/E910/ALLNET_SGI8104PM_DB-DE.pdf",
-      "date": "2026-10-21",
-      "saga": "STI-144GP（管理版待核）"
-    },
-    {
-      "brand": "ALLNET",
-      "model": "ALL-SGI8016PM",
-      "spec": "工业 L2+/L3 管理 12×GE PoE+ + 4 SFP，360W，DIN（Art. 189896）",
-      "url": "https://www.allnet.de/en/allnet-brand/produkte/industrial-switches/switches/p/allnet-switch-managed-l2-l3-industrial-12-port-gigabit-12/",
-      "date": "2026-10-21",
-      "saga": "STI-21616GP"
-    },
-    {
-      "brand": "ALLNET",
-      "model": "ALL-SGI8112PM-BT（JSON API）",
-      "spec": "工业 full managed L2+ 12 口，8×bt，240W，4 SFP，2025-05-26 上市",
-      "url": "https://www.galaxus.ch/en/s1/product/allnet-switch-industrial-full-managed-layer2-gbe-poe-budget-240w-8x-bt-12-ports-network-switches-58884553",
-      "date": "2026-10-21",
-      "saga": "STI-288DGGPM（bt 版待核）"
-    }
-  ],
-  "channels": {
-    "网站": "https://www.allnet.de/en/allnet-brand/produkte/industrial-switches/switches/",
-    "直邮": "zerwes@allnet.de（用户表，A 已回复）",
-    "零售渠道": "Reichelt / Galaxus / ALLNET Italia 网店"
+  {
+   "kind": "官网",
+   "claim": "销售/新客户邮箱",
+   "quote": "Neukundenbetreuung Mail: neukunde(at)allnet.de · Vertrieb allgemein (Sales) Mail: sales(at)allnet.de Tel.: (089) 894-222-22",
+   "url": "https://distribution.allnet.de/contact-allnet-distribution.html",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "2025-05-26：新品 ALL-SGI8112PM-BT 上市（JSON API）——ALLNET 工业线仍在迭代、持续 ODM 采购（Galaxus 2026-10-21）",
-    "用户表：A 已回复，自己的 logo，工业 FS/MC/SFP/周边，有 E-link 的产品"
-  ],
-  "risks": [
-    "大型分销商 + 成熟 ODM 供应链（E-link 等），切入门槛是价格与 ERP/EAN/包装合规（德语说明书、WEEE、CE 文件）",
-    "对 Marvell 平台无特殊偏好，需以某一空缺型号（如 8 口 bt 管理 DIN）切入而非整线替换"
-  ],
-  "saga_fit": {
-    "p1": "STI-288DGGPM",
-    "tier": 30,
-    "why": "ALLNET ALL-SGI 系列从 4 口到 16 口与 Saga STI 工业线一一对应（SGI8004P/8206v2P→STI-144GP；SGI8108v2/8112PM→STI-288DGGPM；SGI8016PM→STI-21616GP）；贴 ALLNET 标 30% 档，但分销体量按 25% 谈"
+  {
+   "kind": "官网",
+   "claim": "ALL-SGI8004P 工业 4 口 bt + 2 SFP 180W DIN",
+   "quote": "ALLNET switch unmanaged industrial 4-port Gigabit 180W / 2x PoE bt / 2x SFP / fanless / DIN / IP40 / ALL-SGI8004P … 2x HighPower PoE ports, up to 90 Watt per port",
+   "url": "https://www.allnet.de/en/allnet-brand/produkte/industrial-switches/switches/p/allnet-switch-unmanaged-industrial-4-port-gigabit-120w-2x-poe-2x-sfp-luefterlos-din-ip40/",
+   "date": "2026-10-21"
   },
-  "email_hook": "Across the ALL-SGI line the 8-port gigabit PoE managed DIN unit with 2 SFP is where a Marvell-based second source makes the most sense, so I am quoting that in ALLNET packing with full CE/RoHS documentation, and can add the 4-port bt version if useful.",
-  "mail_review": {
-    "binding": {
-      "level": "未绑定（产品经理 Gerhard Zerwes 明确「we have our solution」）",
-      "type": "德国分销 + 自有品牌 ALLNET（€58M）——既有白牌来源（E-link 等）",
-      "sieve": "1",
-      "stop": "2025-07-10「sorry we have our solution with SFP Slots and Managed Versions」——供给已满足",
-      "revive": "其现供应商断供/涨价；或要 Marvell L2+ 特定功能（ERPS/PIM-SM/IPv6）",
-      "lane": "DE（主攻区）",
-      "cadence": "2024-06 → 2026-10 去信 21 封；最后来信 2025-07-10；Gerhard 每年 5–6 月在亚洲（Computex 台北）",
-      "evidence": "k=3bed67df76fec9ba / 27176790332e9c58 / 15f87700ebc70348"
-    },
-    "situation": "ALLNET 的产品经理 Gerhard Zerwes 是真人回复：2025-07-10 对 16 口 DIN 群发回「我们已有带 SFP 槽和管理型的方案」。他每年 5–6 月去 Computex 并在亚洲停留一个月（2024 自动回复）。Saga 之后继续每月一封群发到 sales@/zerwes@，无回。",
-    "need": "自有品牌 ALLNET 工业/商用交换机货源——目前已满足。",
-    "breakpoint": "对方不是没需求而是已有供给；只有「供给侧变化」才是入口，不是更多产品图。",
-    "saga_now": {
-      "p1": "STI-288DGGPM（若其 E-link 线出现缺口）",
-      "tier": 30,
-      "price": "换人再触锚价 STI-288DGGPM $137.5 EXW（2026-06 PDF 上限 $137.5（档位 139.9–151.6 超上限；Angora/Astel 实报 $125 为成单户价）；第 72 批 2026-10-24）；按 30% 自有标档；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-05 $220（48 port managed switch）、2026-10-08 $180（24 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-17 $280（10G Enterprise SFP Switch）",
-      "why": "保活不推销。已打开的主题（2/21 封有打开记录）：「16 Port Ethernet Switch」(2025-07-09)、「Re: 16 Port Ethernet Switch」(2025-07-11) → 读者兴趣主题类别不明（看原主题）",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "2027-Q1（之前只保活）；或 2027-05 Computex 期间当面",
-      "channel": "S 邮箱 → zerwes@allnet.de",
-      "action": "一句话问其工业线最难采购的 SKU",
-      "one_question": "Which SKU in the ALLNET industrial line is hardest to source today — lead time or price? Reference: STI-288DGGPM at $137.5 USD EXW (MOQ 1, 15-day validity)."
-    },
-    "facts": [
-      {
-        "date": "2024-06-04",
-        "dir": "来",
-        "who": "Gerhard Zerwes（自动回复）",
-        "quote": "business trip in Asia from 24.05.2024 to 23.06.24 inclusive with a trade fair in Taiwan \"Computex\"",
-        "why": "每年亚洲行",
-        "k": "3bed67df76fec9ba"
-      },
-      {
-        "date": "2025-07-10",
-        "dir": "来",
-        "who": "Gerhard Zerwes",
-        "quote": "sorry we have our solution with SFP Slots and Managed Versions.",
-        "why": "停点原话",
-        "k": "27176790332e9c58"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "官网",
+   "claim": "ALL-SGI8016PM 工业 L3 PoE 16 口（12 PoE + 4 SFP）",
+   "quote": "ALLNET ALL-SGI8016PM is a professional yet affordable industrial L3 PoE switch with 16 Gigabit ports, supporting up to 12*10/100/1000M PoE downlink ports and 4* 1000M SFP ports",
+   "url": "https://www.allnet.de/en/allnet-brand/produkte/industrial-switches/switches/p/allnet-switch-managed-l2-l3-industrial-12-port-gigabit-12/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "零售渠道",
+   "claim": "2025-05-26 新品 ALL-SGI8112PM-BT（JSON API）",
+   "quote": "ALLNET Industrial Switch fully managed Layer 2+ with 12 ports GbE or PoE, budget 240W, 8x PoE BT, 4x SFP, fanless, DIN, JSON API, model ALL-SGI8112PMJ-BT … Release date · 26.5.2025",
+   "url": "https://www.galaxus.ch/en/s1/product/allnet-switch-industrial-full-managed-layer2-gbe-poe-budget-240w-8x-bt-12-ports-network-switches-58884553",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Wolfgang Marcus Bauer",
+   "role": "Geschäftsführer",
+   "email": "",
+   "phone": "+49 89 894 222-22",
+   "source": "https://www.allnet.de/impressum.html"
+  },
+  {
+   "name": "Gerhard Zerwes",
+   "role": "来信署名人（职务未在邮件署名里出现）",
+   "email": "zerwes@allnet.de",
+   "phone": "",
+   "source": "S/A 邮箱来信 2024-06-04 → 2025-07-10 来信 3 封（第 72 批从邮件表头补）"
+  }
+ ],
+ "notes": "A 维持（用户 A 已回复 + 自有品牌已从中国 E-link 采购）；体量偏大但贴牌采购决策在产品经理层，可做。P1 = STI-288DGGPM（工业 PoE 贴牌），30% 档；强调 Marvell 方案与 L2+ 固件差异化。",
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "深挖 v1"
+ },
+ "company_facts": {
+  "legal_name": "ALLNET GmbH Computersysteme",
+  "founded": "1991（Wolfgang Marcus Bauer）",
+  "hq": "Germering bei München, Germany",
+  "revenue": "€58M（2013 口径，待更新）",
+  "other": "自有品牌 ALLNET 工业交换机全线（ALL-SGI 系列：Entry Line 非管理 / smart managed / full managed L2+，含 bt 90W、JSON API），2025-05 仍在发新品；也供应 Reichelt、Galaxus 等零售渠道"
+ },
+ "business_lines": [
+  "增值分销（网络/无线/UCC/视频监控/安全/测量）",
+  "ALLNET 品牌：工业 DIN 交换机 ALL-SGI 系列、商用交换机、WLAN、监控、电信",
+  "欧洲渠道（ALLNET Italia 等子公司）"
+ ],
+ "products_seen": [
+  {
+   "brand": "ALLNET",
+   "model": "ALL-SGI8004P",
+   "spec": "工业非管理 4×GE（2×PoE bt 90W）+ 2 SFP，180W，无风扇，DIN，IP40（Art. 189228）",
+   "url": "https://www.allnet.de/en/allnet-brand/produkte/industrial-switches/switches/p/allnet-switch-unmanaged-industrial-4-port-gigabit-120w-2x-poe-2x-sfp-luefterlos-din-ip40/",
+   "date": "2026-10-21",
+   "saga": "STI-144GP"
+  },
+  {
+   "brand": "ALLNET",
+   "model": "ALL-SGI8206v2P",
+   "spec": "工业非管理 4×GE PoE（3 at + 1 bt）+ 2 combo，150W，-40~75℃，110×163×46 mm",
+   "url": "https://www.allnet.de/en/allnet-brand/produkte/industrial-switches/switches/p/allnet-all-sgi8206pm-unmanaged-industrial-switch-4-port-hpoe-gigabit-2x-combo-tpsfp/",
+   "date": "2026-10-21",
+   "saga": "STI-144GP"
+  },
+  {
+   "brand": "ALLNET",
+   "model": "ALL-SGI8108v2",
+   "spec": "工业非管理 8×GE + 2 SFP，DIN，IP40",
+   "url": "https://www.allnet.de/en/allnet-brand/produkte/industrial-switches/switches/",
+   "date": "2026-10-21",
+   "saga": "STI-288DGGPM（非 PoE 版待核）"
+  },
+  {
+   "brand": "ALLNET",
+   "model": "ALL-SGI8104PM",
+   "spec": "工业管理 4×GE PoE af/at + 2 SFP，DIN（Art. 174877）",
+   "url": "https://cdn-reichelt.de/documents/datenblatt/E910/ALLNET_SGI8104PM_DB-DE.pdf",
+   "date": "2026-10-21",
+   "saga": "STI-144GP（管理版待核）"
+  },
+  {
+   "brand": "ALLNET",
+   "model": "ALL-SGI8016PM",
+   "spec": "工业 L2+/L3 管理 12×GE PoE+ + 4 SFP，360W，DIN（Art. 189896）",
+   "url": "https://www.allnet.de/en/allnet-brand/produkte/industrial-switches/switches/p/allnet-switch-managed-l2-l3-industrial-12-port-gigabit-12/",
+   "date": "2026-10-21",
+   "saga": "STI-21616GP"
+  },
+  {
+   "brand": "ALLNET",
+   "model": "ALL-SGI8112PM-BT（JSON API）",
+   "spec": "工业 full managed L2+ 12 口，8×bt，240W，4 SFP，2025-05-26 上市",
+   "url": "https://www.galaxus.ch/en/s1/product/allnet-switch-industrial-full-managed-layer2-gbe-poe-budget-240w-8x-bt-12-ports-network-switches-58884553",
+   "date": "2026-10-21",
+   "saga": "STI-288DGGPM（bt 版待核）"
+  }
+ ],
+ "channels": {
+  "网站": "https://www.allnet.de/en/allnet-brand/produkte/industrial-switches/switches/",
+  "直邮": "zerwes@allnet.de（用户表，A 已回复）",
+  "零售渠道": "Reichelt / Galaxus / ALLNET Italia 网店"
+ },
+ "signals": [
+  "2025-05-26：新品 ALL-SGI8112PM-BT 上市（JSON API）——ALLNET 工业线仍在迭代、持续 ODM 采购（Galaxus 2026-10-21）",
+  "用户表：A 已回复，自己的 logo，工业 FS/MC/SFP/周边，有 E-link 的产品"
+ ],
+ "risks": [
+  "大型分销商 + 成熟 ODM 供应链（E-link 等），切入门槛是价格与 ERP/EAN/包装合规（德语说明书、WEEE、CE 文件）",
+  "对 Marvell 平台无特殊偏好，需以某一空缺型号（如 8 口 bt 管理 DIN）切入而非整线替换"
+ ],
+ "saga_fit": {
+  "p1": "STI-288DGGPM",
+  "tier": 30,
+  "why": "ALLNET ALL-SGI 系列从 4 口到 16 口与 Saga STI 工业线一一对应（SGI8004P/8206v2P→STI-144GP；SGI8108v2/8112PM→STI-288DGGPM；SGI8016PM→STI-21616GP）；贴 ALLNET 标 30% 档，但分销体量按 25% 谈"
+ },
+ "email_hook": "Across the ALL-SGI line the 8-port gigabit PoE managed DIN unit with 2 SFP is where a Marvell-based second source makes the most sense, so I am quoting that in ALLNET packing with full CE/RoHS documentation, and can add the 4-port bt version if useful.",
+ "mail_review": {
+  "binding": {
+   "level": "未绑定（产品经理 Gerhard Zerwes 明确「we have our solution」；Elsa 箱：`to:.de` 穷举 29 条（2026-10-25，锚批 Bcc 头已读）未见 allnet.de → Elsa 箱从未发过本户，往来只在 S/A 箱（去 21 / 来 3）（第 74 批(f)））",
+   "type": "德国分销 + 自有品牌 ALLNET（€58M）——既有白牌来源（E-link 等）",
+   "sieve": "1",
+   "stop": "2025-07-10「sorry we have our solution with SFP Slots and Managed Versions」——供给已满足",
+   "revive": "其现供应商断供/涨价；或要 Marvell L2+ 特定功能（ERPS/PIM-SM/IPv6）",
+   "lane": "DE（主攻区）",
+   "cadence": "2024-06 → 2026-10 去信 21 封；最后来信 2025-07-10；Gerhard 每年 5–6 月在亚洲（Computex 台北）",
+   "evidence": "k=3bed67df76fec9ba / 27176790332e9c58 / 15f87700ebc70348"
+  },
+  "situation": "ALLNET 的产品经理 Gerhard Zerwes 是真人回复：2025-07-10 对 16 口 DIN 群发回「我们已有带 SFP 槽和管理型的方案」。他每年 5–6 月去 Computex 并在亚洲停留一个月（2024 自动回复）。Saga 之后继续每月一封群发到 sales@/zerwes@，无回。",
+  "need": "自有品牌 ALLNET 工业/商用交换机货源——目前已满足。",
+  "breakpoint": "对方不是没需求而是已有供给；只有「供给侧变化」才是入口，不是更多产品图。",
+  "saga_now": {
+   "p1": "STI-288DGGPM（若其 E-link 线出现缺口）",
+   "tier": 30,
+   "price": "换人再触锚价 STI-288DGGPM $137.5 EXW（2026-06 PDF 上限 $137.5（档位 139.9–151.6 超上限；Angora/Astel 实报 $125 为成单户价）；第 72 批 2026-10-24）；按 30% 自有标档；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-05 $220（48 port managed switch）、2026-10-08 $180（24 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-17 $280（10G Enterprise SFP Switch）",
+   "why": "保活不推销。已打开的主题（2/21 封有打开记录）：「16 Port Ethernet Switch」(2025-07-09)、「Re: 16 Port Ethernet Switch」(2025-07-11) → 读者兴趣主题类别不明（看原主题）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1（之前只保活）；或 2027-05 Computex 期间当面",
+   "channel": "S 邮箱 → zerwes@allnet.de",
+   "action": "一句话问其工业线最难采购的 SKU",
+   "one_question": "Which SKU in the ALLNET industrial line is hardest to source today — lead time or price? Reference: STI-288DGGPM at $137.5 USD EXW (MOQ 1, 15-day validity)."
+  },
+  "facts": [
+   {
+    "date": "2024-06-04",
+    "dir": "来",
+    "who": "Gerhard Zerwes（自动回复）",
+    "quote": "business trip in Asia from 24.05.2024 to 23.06.24 inclusive with a trade fair in Taiwan \"Computex\"",
+    "why": "每年亚洲行",
+    "k": "3bed67df76fec9ba"
+   },
+   {
+    "date": "2025-07-10",
+    "dir": "来",
+    "who": "Gerhard Zerwes",
+    "quote": "sorry we have our solution with SFP Slots and Managed Versions.",
+    "why": "停点原话",
+    "k": "27176790332e9c58"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

@@ -27,7 +27,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -44,7 +44,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-079` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未绑定（2024-07 CEO 要求转 WeChat/WA 并要目录价表——此后邮件无往来，若有进展在 WeChat）** ｜ 类型：雅加达集成 + 电商（VoIP/安防/工业网络）；CEO Ismed 直联（WeChat ismedsitepu，WA +62 852 8940 4589）——研究档称「6 次回复」在 WA ｜ 筛子：2 ｜ 停点：邮件层 2024-07-04 后无；其邮箱收不到 Google Drive 链接 ｜ 复活：WeChat/WA 层（不在仓库） ｜ 通路：ID 非主攻 ｜ 节奏：邮件仅 2 封去信（2024-07-03/04） ｜ 证据：k=6f6c394625650200 / 7648ab2452628580 / ad13f76074d6ed39
+- **绑定等级：未绑定（2024-07 CEO 要求转 WeChat/WA 并要目录价表——此后邮件无往来，若有进展在 WeChat；Elsa 箱：`to:infrateq.id OR to:divatel.co.id` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 2 / 来 2）（第 74 批(g)））** ｜ 类型：雅加达集成 + 电商（VoIP/安防/工业网络）；CEO Ismed 直联（WeChat ismedsitepu，WA +62 852 8940 4589）——研究档称「6 次回复」在 WA ｜ 筛子：2 ｜ 停点：邮件层 2024-07-04 后无；其邮箱收不到 Google Drive 链接 ｜ 复活：WeChat/WA 层（不在仓库） ｜ 通路：ID 非主攻 ｜ 节奏：邮件仅 2 封去信（2024-07-03/04） ｜ 证据：k=6f6c394625650200 / 7648ab2452628580 / ad13f76074d6ed39
 - **现状一句话**：Ismed 2024-07-04 回：加我 WeChat/WA，目录和价表发到 ismed@；Simon 加了 WeChat 并指出其邮箱收不到 Drive 链接，对方给了备用邮箱。邮件到此为止——后续若有，全在 WeChat。
 - **对方真实需求（有据）**：离网/太阳能 CCTV 用工业 DC PoE（研究档）。
 - **断点 / 为什么停在这里**：渠道转到 WeChat 后仓库失明；评级应以 WeChat 记录为准（Simon 手上）。
@@ -299,12 +299,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-07**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-08**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 73）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 73）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

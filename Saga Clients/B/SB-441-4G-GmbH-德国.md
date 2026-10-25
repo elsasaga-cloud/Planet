@@ -24,7 +24,7 @@ price_tier: 25%
 research: done
 site_snapshot: unreachable  # 2026-10-21
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -41,7 +41,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-441` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「OM-FBS-22-SLC / from: Shopify 珊姐跟进了」）** ｜ 类型：IT/网络公司（德国，Shopify 成交客户） ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：DE 主攻（四主） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「OM-FBS-22-SLC / from: Shopify 珊姐跟进了」；研究档 risks：已有订单接触（珊姐跟进中，勿重复首触、先核对沟通记录）；官网 unreachable；订单品类为光配件（Saga 列表外）
+- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「OM-FBS-22-SLC / from: Shopify 珊姐跟进了」；Elsa 箱：`to:.de` 穷举 29 条（2026-10-25，锚批 Bcc 头已读）未见 4g-gmbh.de → 三箱（S/A/E）均未发（第 74 批(f)））** ｜ 类型：IT/网络公司（德国，Shopify 成交客户） ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：DE 主攻（四主） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「OM-FBS-22-SLC / from: Shopify 珊姐跟进了」；研究档 risks：已有订单接触（珊姐跟进中，勿重复首触、先核对沟通记录）；官网 unreachable；订单品类为光配件（Saga 列表外）
 - **现状一句话**：德国 4G GmbH（4g-gmbh.de；Shopify 订单 OM-FBS-22-SLC（光旁路/光开关类配件），「珊姐跟进了」；KP Michael Kleiböhmer（CEO）；官网 unreachable）；表内未跟进（已有订单接触）。
 - **对方真实需求（有据）**：Shopify 已成交（OM-FBS-22-SLC）→ 复购延伸：工业 8 GE + 2 SFP 管理 STI-280GE（$48.6 @25%）、8 PoE + 2 SFP STI-288GPM（$82.2）；光旁路配件类 Saga 列表外（沿用现有货源，注明）
 - **断点 / 为什么停在这里**：已有订单接触（珊姐跟进中，勿重复首触、先核对沟通记录）；官网 unreachable；订单品类为光配件（Saga 列表外）
@@ -231,12 +231,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 40）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 40）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

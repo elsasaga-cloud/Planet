@@ -1,229 +1,229 @@
 {
-  "code": "SA-050",
-  "name_official": "BlueWARRIOR（bluewarrior.com, USA）",
-  "website_status": "在线（产品页 2026-01 更新）",
-  "summary": "美国自有品牌工业以太网供应商：BW 系列机架/DIN 网管与非网管工业交换机、工业 bypass 交换机、工业 MC，官网明码标价（BW2026 26 口 $308、BW3020G $662、BW7212G $500），宣称 UL Class 1 Div 2、Tesla 工厂案例；用户表判断「几乎全线武汉迈威」贴牌。用户表：A 优质名单(US)，1 次回复，18 次跟进；AI 评 40% A。",
-  "type": "品牌商（白牌贴牌，OEM 目标）",
-  "size": "未见人数（小型品牌）",
-  "brands_seen": [
-    "BlueWARRIOR",
-    "武汉迈威(Maiwe)"
-  ],
-  "evidence": [
-    {
-      "kind": "官网",
-      "claim": "自有品牌产品线与零售价",
-      "quote": "BW2026 Series $308.00 - 26 Port - Layer 2 Certified for Industrial Control Systems - 19″ Rack Mount Un-Managed … BW3020G-4GF-16GT-AD220 $662.00 … BW7212G-4GF-8GT $500.38 … Industrial By-Pass Ethernet Switches · Industrial Media Converters",
-      "url": "https://bluewarrior.com/products/layer-2-rack-un-managed-ethernet-switches/bw2026-series/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网",
-      "claim": "宣称 UL C1D2 与 Tesla 案例（我方只报 CE/FCC，不承诺 UL）",
-      "quote": "Our products are UL Class 1 Division 2 (HazLoc) Hazardous Location. American Certified Ethernet. The BlueWARRIOR IP Switch was chosen for its rugged construction",
-      "url": "https://bluewarrior.com/solutions/factory-automation/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网",
-      "claim": "BW7212G-4GF-8GT 规格与价格；描述残留 MISCOM7212G（迈威）",
-      "quote": "BW7212G-4GF-8GT $500.38 … 10 Port Layer 2 Industrial Ethernet (Din-Rail Managed) … Supports (8 x 10/100/1000M RJ-45 + 4 Gigabit SFP Ports) … MISCOM7212G supports 4 Gigabit Fx ports + 8 Gigabit Tx ports",
-      "url": "https://bluewarrior.com/products/layer-2-din-rail-managed-ethernet-switches/bw7212g-4gf-8gt/",
-      "date": "2026-01-16"
-    },
-    {
-      "kind": "官网",
-      "claim": "工业 PoE 类目：BW7212GP-4GT-8GTPOE $987.80",
-      "quote": "Surge Protected with Relay Contact / (Ground / Bonding) ( DC 48-52 Volts). $987.80 View Product - BW7212GP-4GT-8GTPOE - 24 Port - (Layer 2 Managed) - Temperature Hardened",
-      "url": "https://bluewarrior.com/product-category/industrial-poe-switches/",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Thomas West",
-      "role": "联系人（用户表）",
-      "email": "sales@bluewarrior.com",
-      "phone": "",
-      "source": "Clients/A/DONE/US.xlsx"
-    }
-  ],
-  "notes": "A 确认（美国自有品牌 + 全线中国白牌 + 已回复）：对位 BW7212G-4GF-8GT ≈ STI-488DGGM 类（8GE+4SFP 工业网管），30% OEM 档；切入点 = 迈威替代/补充 SKU + Marvell 方案 + 10–15 天交期；不承诺 UL/C1D2。",
-  "researched_at": "2026-10-21",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "深挖 v2（官网产品目录逐型号核对）"
+ "code": "SA-050",
+ "name_official": "BlueWARRIOR（bluewarrior.com, USA）",
+ "website_status": "在线（产品页 2026-01 更新）",
+ "summary": "美国自有品牌工业以太网供应商：BW 系列机架/DIN 网管与非网管工业交换机、工业 bypass 交换机、工业 MC，官网明码标价（BW2026 26 口 $308、BW3020G $662、BW7212G $500），宣称 UL Class 1 Div 2、Tesla 工厂案例；用户表判断「几乎全线武汉迈威」贴牌。用户表：A 优质名单(US)，1 次回复，18 次跟进；AI 评 40% A。",
+ "type": "品牌商（白牌贴牌，OEM 目标）",
+ "size": "未见人数（小型品牌）",
+ "brands_seen": [
+  "BlueWARRIOR",
+  "武汉迈威(Maiwe)"
+ ],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "自有品牌产品线与零售价",
+   "quote": "BW2026 Series $308.00 - 26 Port - Layer 2 Certified for Industrial Control Systems - 19″ Rack Mount Un-Managed … BW3020G-4GF-16GT-AD220 $662.00 … BW7212G-4GF-8GT $500.38 … Industrial By-Pass Ethernet Switches · Industrial Media Converters",
+   "url": "https://bluewarrior.com/products/layer-2-rack-un-managed-ethernet-switches/bw2026-series/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "legal_name": "BlueWARRIOR（bluewarrior.com）",
-    "hq": "USA",
-    "other": "官网 WooCommerce 目录明码标价（2026-01 更新）；BW7212G 产品描述内残留「MISCOM7212G」字样 → 证实为武汉迈威 MISCOM 系列贴牌"
+  {
+   "kind": "官网",
+   "claim": "宣称 UL C1D2 与 Tesla 案例（我方只报 CE/FCC，不承诺 UL）",
+   "quote": "Our products are UL Class 1 Division 2 (HazLoc) Hazardous Location. American Certified Ethernet. The BlueWARRIOR IP Switch was chosen for its rugged construction",
+   "url": "https://bluewarrior.com/solutions/factory-automation/",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "工业交换机（DIN/机架、L2/L3、PoE）",
-    "工业 bypass 交换机",
-    "工业 MC"
-  ],
-  "products_seen": [
-    {
-      "brand": "BlueWARRIOR",
-      "model": "BW2026（26 口机架）",
-      "spec": "官网标价 $308",
-      "url": "https://bluewarrior.com/",
-      "date": "2026-10（首轮调研）",
-      "saga": "STC-424DGGPM-280W（PoE 版）"
-    },
-    {
-      "brand": "BlueWARRIOR",
-      "model": "BW3020G",
-      "spec": "官网标价 $662",
-      "url": "https://bluewarrior.com/",
-      "date": "2026-10（首轮调研）",
-      "saga": "STC-424XGGPM-280W（待核口型）"
-    },
-    {
-      "brand": "BlueWARRIOR",
-      "model": "BW7212G",
-      "spec": "官网标价 $500",
-      "url": "https://bluewarrior.com/",
-      "date": "2026-10（首轮调研）",
-      "saga": "STI-288DGGPM（待核口型）"
-    },
-    {
-      "brand": "BlueWARRIOR",
-      "model": "BW7212G-4GF-8GT",
-      "spec": "DIN L2 管理 8×GE + 4 SFP，-45~85℃，IP40，双输入 12–48VDC，继电器；$500.38",
-      "url": "https://bluewarrior.com/products/layer-2-din-rail-managed-ethernet-switches/bw7212g-4gf-8gt/",
-      "date": "2026-01-16",
-      "saga": "STI-288DGGPM（非 PoE 版需核）"
-    },
-    {
-      "brand": "BlueWARRIOR",
-      "model": "BW7212GP-4GT-8GTPOE",
-      "spec": "DIN L2 管理工业 PoE，48–52VDC；$987.80",
-      "url": "https://bluewarrior.com/product-category/industrial-poe-switches/",
-      "date": "2026-10-21",
-      "saga": "STI-288DGGPM"
-    },
-    {
-      "brand": "BlueWARRIOR",
-      "model": "BW6220 Series",
-      "spec": "DIN L2 管理 18–20 口；$520.08–585.09",
-      "url": "https://bluewarrior.com/products/layer-2-din-rail-managed-ethernet-switches/bw6220-series/",
-      "date": "2026-01-16",
-      "saga": "STI-21616GP（PoE 位）"
-    },
-    {
-      "brand": "BlueWARRIOR",
-      "model": "BW5205 Series",
-      "spec": "DIN 7 口（2F+3T / 1F+4T，另有 2×10G SFP+4 SFP+8 GE 配置 $589.03）；$327.60–522.60",
-      "url": "https://bluewarrior.com/products/layer-2-din-rail-managed-ethernet-switches/bw5205-series/",
-      "date": "2026-10-21",
-      "saga": "STI-144GP"
-    },
-    {
-      "brand": "BlueWARRIOR",
-      "model": "BW2208 Series / BW2220 Series",
-      "spec": "DIN 非管理 8 口 $75.62–278.60 / 20 口 $469.64",
-      "url": "https://bluewarrior.com/products/layer-2-din-rail-un-managed-ethernet-switches/bw2208-series/",
-      "date": "2026-10-21",
-      "saga": "STI-144GP（PoE 升级位）"
-    },
-    {
-      "brand": "BlueWARRIOR",
-      "model": "BW2026 / BW3020G-4GF-16GT-AD220 / BW3024",
-      "spec": "机架非管理 26 口 $308 / 20 口（4 SFP+16 GE，AC）$662 / 24 口",
-      "url": "https://bluewarrior.com/product-category/layer-2-rack-un-managed-ethernet-switches/",
-      "date": "2026-10-21",
-      "saga": "STC-424DGGPM-280W（PoE 管理升级位）"
-    }
-  ],
-  "channels": {
-    "网站": "https://bluewarrior.com/（明码标价）",
-    "直邮": "sales@bluewarrior.com（用户表）"
+  {
+   "kind": "官网",
+   "claim": "BW7212G-4GF-8GT 规格与价格；描述残留 MISCOM7212G（迈威）",
+   "quote": "BW7212G-4GF-8GT $500.38 … 10 Port Layer 2 Industrial Ethernet (Din-Rail Managed) … Supports (8 x 10/100/1000M RJ-45 + 4 Gigabit SFP Ports) … MISCOM7212G supports 4 Gigabit Fx ports + 8 Gigabit Tx ports",
+   "url": "https://bluewarrior.com/products/layer-2-din-rail-managed-ethernet-switches/bw7212g-4gf-8gt/",
+   "date": "2026-01-16"
   },
-  "signals": [
-    "用户表：几乎全线迈威贴牌——已有成熟中国 ODM 来源；对 Saga 是「第二来源 + Marvell 平台」机会",
-    "产品页更新至 2026-01-16——目录活跃；DIN 管理型 8+4 定价 $500 → Saga STI-288DGGPM EXW ≈ $152 @30%，价差空间大"
-  ],
-  "risks": [
-    "UL Class 1 Div 2 宣称：Saga 无 UL，不能承接要求 UL 的型号",
-    "迈威为 Saga 同行，价格战风险"
-  ],
-  "saga_fit": {
-    "p1": "STI-288DGGPM",
-    "tier": 30,
-    "why": "DIN 8 PoE + 2 SFP 管理型是迈威线中最走量位，Saga STI-288DGGPM 可做 BW 贴牌二供；机架位 STC-424DGGPM-280W；30% 档"
-  },
-  "email_hook": "For the DIN-rail 8-port PoE managed slot in the BW range, a Marvell-based second source in BlueWARRIOR packing with CE/FCC files is the unit I can quote today, and the 24-port rack PoE version follows the same logic.",
-  "mail_review": {
-    "binding": {
-      "level": "未绑定（一次询价：2024-05-28 要价 → Simon 140 USD STI-288DGGPM-2BT → 无回音）",
-      "type": "美国自有品牌工业以太网（BW 系列，官网明码标价；用户表判「几乎全线武汉迈威贴牌」）——第一档类型；**sales@bluewarrior.com 的自动回复 = Tom West / Thom Sherer / DYMEC 电话 → 与 SA-068 DYMEC 同一组织**",
-      "sieve": "2",
-      "stop": "2024-05-28 两句「Picture and description do not match」「What is the price?」→ Simon 140 USD → 无下文；白牌来源已固定（迈威），资料不严谨被一眼看出",
-      "revive": "与 DYMEC 合并处理：只发工业温度款 + 规格书图文一致",
-      "lane": "US",
-      "cadence": "2024-05 → 2026-09 去信 29 封；最后人工来信 2024-05-28",
-      "evidence": "k=b9f498bd4277c351 / 9a4567efd0384ac8 / 9a5fb90a606c4680 / 84ff2d24a5322ed7"
-    },
-    "situation": "BlueWarrior 2024-05-28 回了两句话：图文不符、多少钱。Simon 报 STI-288DGGPM-2BT 140 USD（2 SFP + 8 PoE，L2+，240W，DI/DO/RS485），没有下文。2025-03 sales@bluewarrior.com 的自动回复署名 Tom West、转 Thom Sherer（DYMEC）——两家是同一组织，29 封群发等于对 DYMEC 重复发。",
-    "need": "同 DYMEC：工业温度 L2+/L3 DIN/机架（其零售价 BW7212G $500、BW3020G $662）。",
-    "breakpoint": "重复触达同一组织两套邮箱，且第一封资料图文不符——信任成本已付。",
-    "saga_now": {
-      "p1": "并入 SA-068 的那一封（STI-480XGGM $163.2 @30%）",
-      "tier": 30,
-      "price": "同 SA-068；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-14 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-20 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-07 $280（10G Enterprise SFP Switch）",
-      "why": "去重。已打开的主题（4/29 封有打开记录）：「Industrial poe managed switch」(2024-05-28)、「Re: Industrial poe managed switch」(2024-05-28)、「Re: Industrial poe managed switch」(2024-07-01)、「10G L3 Managed Switch」(2026-05-29) → 读者兴趣偏「工业」；与 P1 同类，继续",
-      "repeat": [],
-      "gaps": [
-        "BW7212G-4GF-8GT 对位的 Saga 型号与现价（2024 报 140 USD 的 STI-288DGGPM-2BT）"
-      ]
-    },
-    "next_move": {
-      "when": "不单独发；随 SA-068",
-      "channel": "—",
-      "action": "群发名单里 bluewarrior 与 dymec 合并为一户",
-      "one_question": ""
-    },
-    "facts": [
-      {
-        "date": "2024-05-28",
-        "dir": "来",
-        "who": "sales@bluewarrior.com",
-        "quote": "Picture and description do not match",
-        "why": "资料问题",
-        "k": "b9f498bd4277c351"
-      },
-      {
-        "date": "2024-05-28",
-        "dir": "来",
-        "who": "sales@bluewarrior.com",
-        "quote": "What is the price?",
-        "why": "询价",
-        "k": "9a4567efd0384ac8"
-      },
-      {
-        "date": "2024-05-28",
-        "dir": "去",
-        "who": "Simon",
-        "quote": "140usd/pc STI-288DGGPM-2BT 2*100M/1G/2.5G SFP+8*10/100/1000M PoE Marvell Chip, L2+ Managed… Din Rail, Redundant DC44V~57V",
-        "why": "报价",
-        "k": "9a5fb90a606c4680"
-      },
-      {
-        "date": "2025-03-19",
-        "dir": "来",
-        "who": "sales@bluewarrior.com（自动回复）",
-        "quote": "Tom West Out of Office… Thom Sherer can be contacted at (713) 826-0739… Email: thom.sherer@dymec.com",
-        "why": "与 DYMEC 同组织的证据",
-        "k": "84ff2d24a5322ed7"
-      }
-    ],
-    "proof_gaps": [
-      "两家的法律关系未在官网交叉印证"
-    ],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "官网",
+   "claim": "工业 PoE 类目：BW7212GP-4GT-8GTPOE $987.80",
+   "quote": "Surge Protected with Relay Contact / (Ground / Bonding) ( DC 48-52 Volts). $987.80 View Product - BW7212GP-4GT-8GTPOE - 24 Port - (Layer 2 Managed) - Temperature Hardened",
+   "url": "https://bluewarrior.com/product-category/industrial-poe-switches/",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Thomas West",
+   "role": "联系人（用户表）",
+   "email": "sales@bluewarrior.com",
+   "phone": "",
+   "source": "Clients/A/DONE/US.xlsx"
+  }
+ ],
+ "notes": "A 确认（美国自有品牌 + 全线中国白牌 + 已回复）：对位 BW7212G-4GF-8GT ≈ STI-488DGGM 类（8GE+4SFP 工业网管），30% OEM 档；切入点 = 迈威替代/补充 SKU + Marvell 方案 + 10–15 天交期；不承诺 UL/C1D2。",
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "深挖 v2（官网产品目录逐型号核对）"
+ },
+ "company_facts": {
+  "legal_name": "BlueWARRIOR（bluewarrior.com）",
+  "hq": "USA",
+  "other": "官网 WooCommerce 目录明码标价（2026-01 更新）；BW7212G 产品描述内残留「MISCOM7212G」字样 → 证实为武汉迈威 MISCOM 系列贴牌"
+ },
+ "business_lines": [
+  "工业交换机（DIN/机架、L2/L3、PoE）",
+  "工业 bypass 交换机",
+  "工业 MC"
+ ],
+ "products_seen": [
+  {
+   "brand": "BlueWARRIOR",
+   "model": "BW2026（26 口机架）",
+   "spec": "官网标价 $308",
+   "url": "https://bluewarrior.com/",
+   "date": "2026-10（首轮调研）",
+   "saga": "STC-424DGGPM-280W（PoE 版）"
+  },
+  {
+   "brand": "BlueWARRIOR",
+   "model": "BW3020G",
+   "spec": "官网标价 $662",
+   "url": "https://bluewarrior.com/",
+   "date": "2026-10（首轮调研）",
+   "saga": "STC-424XGGPM-280W（待核口型）"
+  },
+  {
+   "brand": "BlueWARRIOR",
+   "model": "BW7212G",
+   "spec": "官网标价 $500",
+   "url": "https://bluewarrior.com/",
+   "date": "2026-10（首轮调研）",
+   "saga": "STI-288DGGPM（待核口型）"
+  },
+  {
+   "brand": "BlueWARRIOR",
+   "model": "BW7212G-4GF-8GT",
+   "spec": "DIN L2 管理 8×GE + 4 SFP，-45~85℃，IP40，双输入 12–48VDC，继电器；$500.38",
+   "url": "https://bluewarrior.com/products/layer-2-din-rail-managed-ethernet-switches/bw7212g-4gf-8gt/",
+   "date": "2026-01-16",
+   "saga": "STI-288DGGPM（非 PoE 版需核）"
+  },
+  {
+   "brand": "BlueWARRIOR",
+   "model": "BW7212GP-4GT-8GTPOE",
+   "spec": "DIN L2 管理工业 PoE，48–52VDC；$987.80",
+   "url": "https://bluewarrior.com/product-category/industrial-poe-switches/",
+   "date": "2026-10-21",
+   "saga": "STI-288DGGPM"
+  },
+  {
+   "brand": "BlueWARRIOR",
+   "model": "BW6220 Series",
+   "spec": "DIN L2 管理 18–20 口；$520.08–585.09",
+   "url": "https://bluewarrior.com/products/layer-2-din-rail-managed-ethernet-switches/bw6220-series/",
+   "date": "2026-01-16",
+   "saga": "STI-21616GP（PoE 位）"
+  },
+  {
+   "brand": "BlueWARRIOR",
+   "model": "BW5205 Series",
+   "spec": "DIN 7 口（2F+3T / 1F+4T，另有 2×10G SFP+4 SFP+8 GE 配置 $589.03）；$327.60–522.60",
+   "url": "https://bluewarrior.com/products/layer-2-din-rail-managed-ethernet-switches/bw5205-series/",
+   "date": "2026-10-21",
+   "saga": "STI-144GP"
+  },
+  {
+   "brand": "BlueWARRIOR",
+   "model": "BW2208 Series / BW2220 Series",
+   "spec": "DIN 非管理 8 口 $75.62–278.60 / 20 口 $469.64",
+   "url": "https://bluewarrior.com/products/layer-2-din-rail-un-managed-ethernet-switches/bw2208-series/",
+   "date": "2026-10-21",
+   "saga": "STI-144GP（PoE 升级位）"
+  },
+  {
+   "brand": "BlueWARRIOR",
+   "model": "BW2026 / BW3020G-4GF-16GT-AD220 / BW3024",
+   "spec": "机架非管理 26 口 $308 / 20 口（4 SFP+16 GE，AC）$662 / 24 口",
+   "url": "https://bluewarrior.com/product-category/layer-2-rack-un-managed-ethernet-switches/",
+   "date": "2026-10-21",
+   "saga": "STC-424DGGPM-280W（PoE 管理升级位）"
+  }
+ ],
+ "channels": {
+  "网站": "https://bluewarrior.com/（明码标价）",
+  "直邮": "sales@bluewarrior.com（用户表）"
+ },
+ "signals": [
+  "用户表：几乎全线迈威贴牌——已有成熟中国 ODM 来源；对 Saga 是「第二来源 + Marvell 平台」机会",
+  "产品页更新至 2026-01-16——目录活跃；DIN 管理型 8+4 定价 $500 → Saga STI-288DGGPM EXW ≈ $152 @30%，价差空间大"
+ ],
+ "risks": [
+  "UL Class 1 Div 2 宣称：Saga 无 UL，不能承接要求 UL 的型号",
+  "迈威为 Saga 同行，价格战风险"
+ ],
+ "saga_fit": {
+  "p1": "STI-288DGGPM",
+  "tier": 30,
+  "why": "DIN 8 PoE + 2 SFP 管理型是迈威线中最走量位，Saga STI-288DGGPM 可做 BW 贴牌二供；机架位 STC-424DGGPM-280W；30% 档"
+ },
+ "email_hook": "For the DIN-rail 8-port PoE managed slot in the BW range, a Marvell-based second source in BlueWARRIOR packing with CE/FCC files is the unit I can quote today, and the 24-port rack PoE version follows the same logic.",
+ "mail_review": {
+  "binding": {
+   "level": "未绑定（一次询价：2024-05-28 要价 → Simon 140 USD STI-288DGGPM-2BT → 无回音；Elsa 箱：`to:bluewarrior.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 29 / 来 3）（第 74 批(g)））",
+   "type": "美国自有品牌工业以太网（BW 系列，官网明码标价；用户表判「几乎全线武汉迈威贴牌」）——第一档类型；**sales@bluewarrior.com 的自动回复 = Tom West / Thom Sherer / DYMEC 电话 → 与 SA-068 DYMEC 同一组织**",
+   "sieve": "2",
+   "stop": "2024-05-28 两句「Picture and description do not match」「What is the price?」→ Simon 140 USD → 无下文；白牌来源已固定（迈威），资料不严谨被一眼看出",
+   "revive": "与 DYMEC 合并处理：只发工业温度款 + 规格书图文一致",
+   "lane": "US",
+   "cadence": "2024-05 → 2026-09 去信 29 封；最后人工来信 2024-05-28",
+   "evidence": "k=b9f498bd4277c351 / 9a4567efd0384ac8 / 9a5fb90a606c4680 / 84ff2d24a5322ed7"
+  },
+  "situation": "BlueWarrior 2024-05-28 回了两句话：图文不符、多少钱。Simon 报 STI-288DGGPM-2BT 140 USD（2 SFP + 8 PoE，L2+，240W，DI/DO/RS485），没有下文。2025-03 sales@bluewarrior.com 的自动回复署名 Tom West、转 Thom Sherer（DYMEC）——两家是同一组织，29 封群发等于对 DYMEC 重复发。",
+  "need": "同 DYMEC：工业温度 L2+/L3 DIN/机架（其零售价 BW7212G $500、BW3020G $662）。",
+  "breakpoint": "重复触达同一组织两套邮箱，且第一封资料图文不符——信任成本已付。",
+  "saga_now": {
+   "p1": "并入 SA-068 的那一封（STI-480XGGM $163.2 @30%）",
+   "tier": 30,
+   "price": "同 SA-068；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-14 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-20 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-07 $280（10G Enterprise SFP Switch）",
+   "why": "去重。已打开的主题（4/29 封有打开记录）：「Industrial poe managed switch」(2024-05-28)、「Re: Industrial poe managed switch」(2024-05-28)、「Re: Industrial poe managed switch」(2024-07-01)、「10G L3 Managed Switch」(2026-05-29) → 读者兴趣偏「工业」；与 P1 同类，继续",
+   "repeat": [],
+   "gaps": [
+    "BW7212G-4GF-8GT 对位的 Saga 型号与现价（2024 报 140 USD 的 STI-288DGGPM-2BT）"
+   ]
+  },
+  "next_move": {
+   "when": "不单独发；随 SA-068",
+   "channel": "—",
+   "action": "群发名单里 bluewarrior 与 dymec 合并为一户",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2024-05-28",
+    "dir": "来",
+    "who": "sales@bluewarrior.com",
+    "quote": "Picture and description do not match",
+    "why": "资料问题",
+    "k": "b9f498bd4277c351"
+   },
+   {
+    "date": "2024-05-28",
+    "dir": "来",
+    "who": "sales@bluewarrior.com",
+    "quote": "What is the price?",
+    "why": "询价",
+    "k": "9a4567efd0384ac8"
+   },
+   {
+    "date": "2024-05-28",
+    "dir": "去",
+    "who": "Simon",
+    "quote": "140usd/pc STI-288DGGPM-2BT 2*100M/1G/2.5G SFP+8*10/100/1000M PoE Marvell Chip, L2+ Managed… Din Rail, Redundant DC44V~57V",
+    "why": "报价",
+    "k": "9a5fb90a606c4680"
+   },
+   {
+    "date": "2025-03-19",
+    "dir": "来",
+    "who": "sales@bluewarrior.com（自动回复）",
+    "quote": "Tom West Out of Office… Thom Sherer can be contacted at (713) 826-0739… Email: thom.sherer@dymec.com",
+    "why": "与 DYMEC 同组织的证据",
+    "k": "84ff2d24a5322ed7"
+   }
+  ],
+  "proof_gaps": [
+   "两家的法律关系未在官网交叉印证"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

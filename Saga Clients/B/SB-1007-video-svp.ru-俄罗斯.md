@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 3
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -33,16 +33,16 @@ updated: 2026-10-24
 - **是谁**：俄罗斯 РУССБЫТ / SVP（svp.ru / video-svp.ru / fibersys.ru：俄罗斯疏散广播与告警系统及交换机制造商，SVP-V4xx 系列；表内「比较重要」、「有 E-link 的工业 FS」、工业 FS/MC/SFP/机架/VC/EoC）；群发 17 次无回复。（调研 2026-10-21；表内兴趣：工业FS MC SFP 机架 VC；工业FS MC EOC等）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-6 群发批次名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/俄罗斯；+5 最近活动 2025；-16 推送 17 次无任何回复（聋名单）
 - **历史互动**：推送 17 次（2024-05-10 → 2025-11-03）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-280GE — 自有品牌工业 FS（现 E-link）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$50.5 @30%）、8 PoE + 2 SFP STI-288GPM（$85.5）、工业千兆 MC STI-110GE（$24.3）贴 SVP 标；MC 机架/SFP/EoC Saga 不供（Q-32）；守界：疏散告警系统本体不碰，仅供网络侧。已打开的主题（1/20 封有打开记录）：「10g fiber media converter」(2024-08-05) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续；换人再触锚价 STI-280GE $46 EXW（Saga 2025 Realtek 工业线对外价 $46（非管理工业线不用档位价 ㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-22 $300（48 port switch）、2024-12-31 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-08-25 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-08-05 $65（10g fiber media converter）、2025-10-02 $280（10G Enterprise SFP Switch）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STI-280GE — 自有品牌工业 FS（现 E-link）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$50.5 @30%）、8 PoE + 2 SFP STI-288GPM（$85.5）、工业千兆 MC STI-110GE（$24.3）贴 SVP 标；MC 机架/SFP/EoC Saga 不供（Q-32）；守界：疏散告警系统本体不碰，仅供网络侧。已打开的主题（1/20 封有打开记录）：「10g fiber media converter」(2024-08-05) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续；换人再触锚价 STI-280GE $46 EXW（Saga 2025 Realtek 工业线对外价 $46（非管理工业线不用档位价 ㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-22 $300（48 port switch）、2024-12-31 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-08-25 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-08-05 $65（10g fiber media converter）、2025-10-02 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：For the industrial switches and media converters sold under the SVP label, we can be a second ODM source on a Marvell platform (DIN-rail 8-GE/8-PoE + 2 SFP managed, gigabit MCs, −40~75 °C) in your packaging from small lots, CE/RoHS; EAC by your side — which SKU family runs the highest volume? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
 - **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封
 
-## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-25）
 
-> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1007` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1007` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-25。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A/S 邮箱 20 封 2024→2026，1 次记录打开，0 回；收件 vadim@sbvs.ru, video@svp.ru；主题多为「Industrial PoE Switch、Marvell Alleycat5 Solution」）** ｜ 类型：告警系统/交换机制造商（俄罗斯，用户标重要） ｜ 筛子：1~2（1 次打开） ｜ 停点：20 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：停发群发；若要继续，换具名邮箱 + 只问一句 ｜ 通路：RU 次级（Simon 2026-08 点名） ｜ 节奏：一封 ｜ 证据：gmail_digest：out 20，Opened 标签 1（Simon 群发追踪）；用户表：「工业FS MC SFP 机架 VC；工业FS MC EOC等；有E-link的工业FS」；研究档 risks：用户标「比较重要」；俄罗斯：结算/物流/合规风险；守界备注：疏散广播/告警为生命安全系统，仅供网络侧；现供 E-link 价格基准低；17 次无回复；备用邮箱为
+- **绑定等级：未触达（A/S 邮箱 20 封 2024→2026，1 次记录打开，0 回；收件 vadim@sbvs.ru, video@svp.ru；主题多为「Industrial PoE Switch、Marvell Alleycat5 Solution」）；Elsa 群发 BCC 已触达 2026-08-26「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，俄罗斯-2（锚 bas-ip.com；2025-09-29 起月轮，201+） 批次 To sales@bas-ip.com，0 回（第 74 批 Bcc 头核对 msg 1a03df102140ed72）** ｜ 类型：告警系统/交换机制造商（俄罗斯，用户标重要） ｜ 筛子：1~2（1 次打开） ｜ 停点：20 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：停发群发；若要继续，换具名邮箱 + 只问一句 ｜ 通路：RU 次级（Simon 2026-08 点名） ｜ 节奏：一封 ｜ 证据：gmail_digest：out 20，Opened 标签 1（Simon 群发追踪）；用户表：「工业FS MC SFP 机架 VC；工业FS MC EOC等；有E-link的工业FS」；研究档 risks：用户标「比较重要」；俄罗斯：结算/物流/合规风险；守界备注：疏散广播/告警为生命安全系统，仅供网络侧；现供 E-link 价格基准低；17 次无回复；备用邮箱为；data/gmail_e/bcc_batches_2026.json
 - **现状一句话**：俄罗斯 РУССБЫТ / SVP（svp.ru / video-svp.ru / fibersys.ru：俄罗斯疏散广播与告警系统及交换机制造商，SVP-V4xx 系列；表内「比较重要」、「有 E-link 的工业 FS」、工业 FS/MC/SFP/机架/VC/EoC）；群发 17 次无回复。
 - **对方真实需求（有据）**：自有品牌工业 FS（现 E-link）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$50.5 @30%）、8 PoE + 2 SFP STI-288GPM（$85.5）、工业千兆 MC STI-110GE（$24.3）贴 SVP 标；MC 机架/SFP/EoC Saga 不供（Q-32）；守界：疏散告警系统本体不碰，仅供网络侧
 - **断点 / 为什么停在这里**：用户标「比较重要」；俄罗斯：结算/物流/合规风险；守界备注：疏散广播/告警为生命安全系统，仅供网络侧；现供 E-link 价格基准低；17 次无回复；备用邮箱为 inbox.ru 免费邮箱
@@ -53,6 +53,7 @@ updated: 2026-10-24
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-08-25 | 去 | A/S 群发 | Industrial PoE Switch、Marvell Alleycat5 Solution | 20 封 / 1 次打开 / 0 回｜首封 2024-07-05 → 末封 2026-08-25（20 去 / 0 来） | `gmail_digest` |
+| 2026-08-26 | 去 | Elsa 群发（BCC；To sales@bas-ip.com，俄罗斯-2（锚 bas-ip.com；2025-09-29 起月轮，201+） 批次） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发 BCC 触达证据（命中地址 audio@svp.ru, svp.ru）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-10-21 | 用户表 | Simon | 工业FS MC SFP 机架 VC；工业FS MC EOC等；有E-link的工业FS | 表内备注 | `用户表` |
 
 ## 基本事实（事实/推断/假设分层）
@@ -304,12 +305,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 B，分数 29）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 B，分数 29）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -27,7 +27,7 @@ price_tier: 25%
 research: done
 site_snapshot: none
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -44,7 +44,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-169` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：轻度（Simon U28 定级）——按 J4 证据为**中度偏深**：客户围绕 Saga 的 4+8 PCB 做自己的机械设计、要求固件定制、2026-07 测 AC5 更新并要做 MQTT 对接、第 4 单 2026-08-30 12 台 @ $335** ｜ 类型：加拿大小型控制/集成公司（Control Ready / SCOUT 产品）（技术流，自研硬件 + 软件） ｜ 筛子：3（4 单 $6,740、Xtransfer、PCB 布局确认、固件定制讨论） ｜ 停点：无停点，节奏慢（项目制小批量）；唯一硬需求 UL 版 PSU（2024-06 Simon 承诺「working on the UL listed PSU 52~57VDC 250W~300W」，全库唯一 UL 需求） ｜ 复活：已在复购；下一级 = MQTT 对接落地（他的 SCOUT 平台直接读 Saga 交换机）→ 深绑定候选 ｜ 通路：CA 已通（Xtransfer、DHL/UPS DAP） ｜ 节奏：最后 2026-08-31 James 回执（PI USD 版）；2026-09-07 PI 包最后单；实质往来 2024-06 → 2026-08，来 6 封（主要在 LinkedIn/WeChat，Simon U28） ｜ 证据：S 邮箱 k=e248bc0c33c534e6 / 51d9acb9ee095737 / aa61c45fc8e5eb33 / ba36e2ca75bc3155；PI 包 4 单；S 邮箱 19 封（2024-06-27 → 2026-08-31，均为 LinkedIn 对话后的单据/固件邮件；jsonl client 字段为空，按域名重扫补入）
+- **绑定等级：轻度（Simon U28 定级）——按 J4 证据为**中度偏深**：客户围绕 Saga 的 4+8 PCB 做自己的机械设计、要求固件定制、2026-07 测 AC5 更新并要做 MQTT 对接、第 4 单 2026-08-30 12 台 @ $335；Elsa 箱：`to:.ca` 穷举 13 条（2026-10-25，锚批 Bcc 头已读）未见 clendenan.ca → Elsa 箱从未发过本户，往来只在 S/A 箱（去 13 / 来 6）（第 74 批(f)）** ｜ 类型：加拿大小型控制/集成公司（Control Ready / SCOUT 产品）（技术流，自研硬件 + 软件） ｜ 筛子：3（4 单 $6,740、Xtransfer、PCB 布局确认、固件定制讨论） ｜ 停点：无停点，节奏慢（项目制小批量）；唯一硬需求 UL 版 PSU（2024-06 Simon 承诺「working on the UL listed PSU 52~57VDC 250W~300W」，全库唯一 UL 需求） ｜ 复活：已在复购；下一级 = MQTT 对接落地（他的 SCOUT 平台直接读 Saga 交换机）→ 深绑定候选 ｜ 通路：CA 已通（Xtransfer、DHL/UPS DAP） ｜ 节奏：最后 2026-08-31 James 回执（PI USD 版）；2026-09-07 PI 包最后单；实质往来 2024-06 → 2026-08，来 6 封（主要在 LinkedIn/WeChat，Simon U28） ｜ 证据：S 邮箱 k=e248bc0c33c534e6 / 51d9acb9ee095737 / aa61c45fc8e5eb33 / ba36e2ca75bc3155；PI 包 4 单；S 邮箱 19 封（2024-06-27 → 2026-08-31，均为 LinkedIn 对话后的单据/固件邮件；jsonl client 字段为空，按域名重扫补入）
 - **现状一句话**：加拿大 James Clendenan Systems（James，controlready.ca / SCOUT）2024-06 首单即问「what kind of software customizations we can do… I'll likely want to do a few changes to the firmware」；2024-12 确认 4+8 PCB 布局与自己的机械设计一致；2026-07 测 AC5 更新后「then we can work on the mqtt setup」；2026-08-26 Simon 给 AC5 BIN + 新料号报价，08-30 PI STSC20260830010（12 台 @ $335），USD 版 08-31。**全库最像「深绑定」路径的小客户：把 Saga 板子装进自己的产品，软件对接在推进。**
 - **对方真实需求（有据）**：① STI/STC 工业系列板级/整机（4+8 口 PoE）装入自有机箱；② 固件定制 + MQTT 上报（接 SCOUT 平台）；③ UL listed PSU 52–57 VDC 250–300 W（2024-06 起）；④ AC5 BIN 持续更新。 ⑤（2026-08-26《JCSL-Custom power pcb》）电源板改版：电源/告警接点改出板背（Molex MiniFit-JR / JST）、加 i2c 温度传感器、2 个 PWM/TAC 风扇头（Noctua 4-pin 5V）、板上再出 75W 12V DC 给其 PC 模块，高度不超现有板距，FCC Part 15 B / CE / RoHS；⑥（《长期需求》）2.5G/mGig PoE+ 管理型、双电源、机架、PWM 风扇控制。
 - **断点 / 为什么停在这里**：没有断点；风险是 MQTT 对接若需要 Saga 侧固件开发，会撞「不做 SDK/API」边界（E2）——MQTT 上报属固件功能而非 SDK，需 Simon 与 SmartByte 确认 7.5.x 是否已有（不由代理问 Peter）。 新增：电源板四项改版是 PCB 级 ODM——HRUI/SmartByte 侧是否愿为 12 台/单的量开板（Angora 的 PC0012 代工询问也停在同一处），要先问 Peter 的 MOQ 而不是先答应 James。
@@ -289,12 +289,12 @@ For the MQTT setup, what exactly does SCOUT need from the switch side — period
 
 ## 下次复核
 
-- **2026-11-07**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-08**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 98）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 98）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

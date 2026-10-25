@@ -28,7 +28,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 3
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -45,7 +45,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-001` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：轻度绑定（1 张 PayPal 样品单 $166，2025-11-27：STI-110GE ×2 + STI-140GE ×2 + Meanwell HDR-15-24 ×4，为 1,000 台迪拜标书打样；2025-12-01 付款后邮件静默，后续在 WeChat/Simon）** ｜ 类型：迪拜线缆/网络/太阳能分销 + 网店（ASTEL Digicom，AVSS 集团；GM Sanjay Singla 直联，navsim@eim.ae）——第三档分销，但手里有一张 1,000 台的标书 ｜ 筛子：5（付样 + 付款 + 走广州货代）；在 2024-06 已明确接受「we are a trading company / Realtek chip」的回答 ｜ 停点：邮件最后一封 2025-12-01「We have processed your payment… Shipping address and Shipping marks have been advised on WeChat」。标书结果（Specs approval → Sample approval → Supply 1,000 pcs）在仓库里没有后续——是全库最值钱的一个未知数 ｜ 复活：不需要复活，需要「问结果」：样品是否通过规格/样品审批；若没中，输给了谁、差在哪（-20~+65℃ 是其规格，Saga 给的是 -40~+75℃，温度不是问题；PSU 要 DIN 导轨——已给 Meanwell） ｜ 通路：AE 非主攻——但这是成单 + 标书户，按 J5 不看地区看证据 ｜ 节奏：现在一句话（距付款 11 个月）；之后每季度一次，只谈标书与复购 ｜ 证据：k=4911955d4797da97 / 5ed4454b3d299f1d / f7eeb34e0ebf238b（2024-06 身份与芯片原话）；ca2fc1d1b52d5bb7 / 13c00bbc4cc5b9d8（2025-04 三款询价 → STI-244DGGPM $110 / STI-288DGGPM $125）；3ef374eddbbcccae（2025-10 要 QC/测试实验室照片）；4aabcfb3fec906ec（2025-11-24 标书 1,000 pcs）；ccb8973fe01fa794 / 64602c769ad83ca4 / 602605b78b95b93c（「no proper model, just something close」→ STI-140GE $30 含双纤模块 → HDR-15-24 $10）；05f51c687ba38b88 / 5ec435ffe9b9305e / 0cc642cb3b5505fb（样品 PayPal、发票、付款）；PI STAG20251127018（$166；成本统计：收 1,201.75 RMB / 成本 934 / 利润 267.75）；第 19 批回补来信原文 1 条（gmail_s/gmail_a）
+- **绑定等级：轻度绑定（1 张 PayPal 样品单 $166，2025-11-27：STI-110GE ×2 + STI-140GE ×2 + Meanwell HDR-15-24 ×4，为 1,000 台迪拜标书打样；2025-12-01 付款后邮件静默，后续在 WeChat/Simon；Elsa 箱：`to:asteldigicom.com OR to:asteldigicom.ae` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 38 / 来 14）（第 74 批(g)））** ｜ 类型：迪拜线缆/网络/太阳能分销 + 网店（ASTEL Digicom，AVSS 集团；GM Sanjay Singla 直联，navsim@eim.ae）——第三档分销，但手里有一张 1,000 台的标书 ｜ 筛子：5（付样 + 付款 + 走广州货代）；在 2024-06 已明确接受「we are a trading company / Realtek chip」的回答 ｜ 停点：邮件最后一封 2025-12-01「We have processed your payment… Shipping address and Shipping marks have been advised on WeChat」。标书结果（Specs approval → Sample approval → Supply 1,000 pcs）在仓库里没有后续——是全库最值钱的一个未知数 ｜ 复活：不需要复活，需要「问结果」：样品是否通过规格/样品审批；若没中，输给了谁、差在哪（-20~+65℃ 是其规格，Saga 给的是 -40~+75℃，温度不是问题；PSU 要 DIN 导轨——已给 Meanwell） ｜ 通路：AE 非主攻——但这是成单 + 标书户，按 J5 不看地区看证据 ｜ 节奏：现在一句话（距付款 11 个月）；之后每季度一次，只谈标书与复购 ｜ 证据：k=4911955d4797da97 / 5ed4454b3d299f1d / f7eeb34e0ebf238b（2024-06 身份与芯片原话）；ca2fc1d1b52d5bb7 / 13c00bbc4cc5b9d8（2025-04 三款询价 → STI-244DGGPM $110 / STI-288DGGPM $125）；3ef374eddbbcccae（2025-10 要 QC/测试实验室照片）；4aabcfb3fec906ec（2025-11-24 标书 1,000 pcs）；ccb8973fe01fa794 / 64602c769ad83ca4 / 602605b78b95b93c（「no proper model, just something close」→ STI-140GE $30 含双纤模块 → HDR-15-24 $10）；05f51c687ba38b88 / 5ec435ffe9b9305e / 0cc642cb3b5505fb（样品 PayPal、发票、付款）；PI STAG20251127018（$166；成本统计：收 1,201.75 RMB / 成本 934 / 利润 267.75）；第 19 批回补来信原文 1 条（gmail_s/gmail_a）
 - **现状一句话**：Sanjay 是两年里一步一步走完筛子的人：2024-06 问 2.5G SFP 环网 + 120W 电源，Simon 直说「honestly we are a trading company… realtek chip」，他没走；2025-04 一次问三款（4/8/12+ 口 PoE 带 NMS 口）并问质保与测试证书，Simon 报 $110/$125；2025-10 要 QC 实验室照片和 PDF 目录；2025-11-24 拿出一张标书：带 4 口交换的 MC、SC/PC 双纤、-20~+65℃，中标可到 1,000 pcs，流程「规格审批 → 样品审批 → 供货」。Alan 先说没有正好的型号，再给 STI-140GE $30（含双纤模块）与 DIN 导轨 Meanwell 电源 $10；Sanjay 当天要 2+2 台样品、PayPal、发广州货代，并要 WeChat 快速沟通——Alan 把 WeChat 交给 Simon。12-01 付款。之后邮件无一封：标书结果、样品评测、1,000 台——仓库全无。
 - **对方真实需求（有据）**：标书：工业 MC/4 口交换（1 光 SC/PC + 4 电，非 PoE，非管理，-20~+65℃）+ DIN 电源；日常：工业 PoE 整线替代其在售 ONV（研究档）。
 - **断点 / 为什么停在这里**：没有断点，是「断档」：从邮件转到 WeChat 后仓库失明 11 个月。按 C9「邮件是档案、WhatsApp/WeChat 是现场」，这里需要 Simon 把标书结果补一句进来。
@@ -388,12 +388,12 @@ Simon
 
 ## 下次复核
 
-- **2026-11-07**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-08**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 A，分数 164）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 A，分数 164）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -27,7 +27,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -44,7 +44,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-093` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未绑定（询问阶段，但 2026-06 有一次带型号的真实询价）** ｜ 类型：波多黎各光纤 ISP（AS6208，终端用户）；Ivan Rivera——目标序列末档，但 CENTEC 10G 真实询价 ｜ 筛子：2（指定 STH-2C24XFSFI + DC + MA license） ｜ 停点：2026-06-08 Alan 报 HSI 版 1,250 USD（DC，含 MA 许可，不含光模块）后无回音；2025-01「小尺寸 8 SFP+ + 8 GE、48V DC、机架、什么 OS」也止于规格书 ｜ 复活：其 MPLS/H3C 互通项目重启；Saga 无 H3C 互通实测可给 ｜ 通路：US 属地（PR），关税同美国 ｜ 节奏：2024-06 → 2026-09 去信 36 封；最后来信 2026-06-08 ｜ 证据：k=55521ad734b4480a / aa33fba00ea6c8ff / 553ba9ad1fef0430 / fb4ac2e43c85e3c8 / 894de4474cf06741 / 5d26574728e757e2
+- **绑定等级：未绑定（询问阶段，但 2026-06 有一次带型号的真实询价；Elsa 箱：`to:gofiberx.com OR to:fiberx.net` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 36 / 来 5）（第 74 批(g)））** ｜ 类型：波多黎各光纤 ISP（AS6208，终端用户）；Ivan Rivera——目标序列末档，但 CENTEC 10G 真实询价 ｜ 筛子：2（指定 STH-2C24XFSFI + DC + MA license） ｜ 停点：2026-06-08 Alan 报 HSI 版 1,250 USD（DC，含 MA 许可，不含光模块）后无回音；2025-01「小尺寸 8 SFP+ + 8 GE、48V DC、机架、什么 OS」也止于规格书 ｜ 复活：其 MPLS/H3C 互通项目重启；Saga 无 H3C 互通实测可给 ｜ 通路：US 属地（PR），关税同美国 ｜ 节奏：2024-06 → 2026-09 去信 36 封；最后来信 2026-06-08 ｜ 证据：k=55521ad734b4480a / aa33fba00ea6c8ff / 553ba9ad1fef0430 / fb4ac2e43c85e3c8 / 894de4474cf06741 / 5d26574728e757e2
 - **现状一句话**：Ivan 两次都问到点上：2025-01 要 8 SFP+ + 8 GE 的小尺寸 48V 机架机并问 OS；2026-06-05 对 CENTEC 10G 群发回「Support MPLS with H3C?」，Alan 答 MA 许可可做，他 06-08 直接要 STH-2C24XFSFI 的 DC 版 + MA 许可价，Alan 答 SFI 无 DC、HSI 1,250 USD 含 MA。此后 4 封群发无回。
 - **对方真实需求（有据）**：24×10G + 100G 上联、DC 供电、MPLS（与 H3C 互通）的汇聚/核心机；小尺寸 8 SFP+ 接入机。
 - **断点 / 为什么停在这里**：ISP 采购按项目窗口走，一次报价后窗口关了；再追规格无意义，只问项目。
@@ -329,12 +329,12 @@ Alan
 
 ## 下次复核
 
-- **2026-11-07**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-08**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 70）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 70）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

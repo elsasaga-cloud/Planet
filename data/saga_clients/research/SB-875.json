@@ -1,127 +1,127 @@
 {
-  "code": "SB-875",
-  "name_official": "",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（wachendorff-prozesstechnik.de，快照 2026-10-21）",
-  "summary": "德国 Wachendorff Prozesstechnik GmbH & Co. KG（工业电子：面板 PC、远程维护、数据记录、协议转换等自动化组件，「Alles aus einer Hand」、原机测试；表内「电口」「可以着重跟一下」；邮箱 kontakt@segno.de（关联域））；群发 8 次无回复。",
-  "type": "工业自动化组件供应商（德国，自有+分销）",
-  "size": "",
-  "brands_seen": [
-    "Siemens",
-    "Schneider"
-  ],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "官网标题：Wachendorff Prozesstechnik GmbH & Co. KG : Industrie-Elektronik；品类词 工业自动化 / OT 网络 / 无线 / WiFi / 网络交换 / PoE",
-      "quote": "Wachendorff Prozesstechnik bietet Ihnen intelligente Komponenten für die Automation von Prozessen und Maschinen. Zu aktuellen Themenschwerpunkten wie Panel-PC, Fernwartung, Datenlogging, Protokollwandlung, Feldbusunabhängige I/O-System und ",
-      "url": "https://www.wachendorff-prozesstechnik.de/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "电口",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网快照",
-      "claim": "Wachendorff Prozesstechnik 产品",
-      "quote": "Wachendorff Prozesstechnik bietet Ihnen intelligente Komponenten für die Automation von Prozessen und Maschinen. Zu aktuellen Themenschwerpunkten wie Panel-PC, Fernwartung, Datenlogging",
-      "url": "https://www.wachendorff-prozesstechnik.de/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "电口；着重跟",
-      "quote": "电口；可以着重跟一下",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ "code": "SB-875",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（wachendorff-prozesstechnik.de，快照 2026-10-21）",
+ "summary": "德国 Wachendorff Prozesstechnik GmbH & Co. KG（工业电子：面板 PC、远程维护、数据记录、协议转换等自动化组件，「Alles aus einer Hand」、原机测试；表内「电口」「可以着重跟一下」；邮箱 kontakt@segno.de（关联域））；群发 8 次无回复。",
+ "type": "工业自动化组件供应商（德国，自有+分销）",
+ "size": "",
+ "brands_seen": [
+  "Siemens",
+  "Schneider"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Wachendorff Prozesstechnik GmbH & Co. KG : Industrie-Elektronik；品类词 工业自动化 / OT 网络 / 无线 / WiFi / 网络交换 / PoE",
+   "quote": "Wachendorff Prozesstechnik bietet Ihnen intelligente Komponenten für die Automation von Prozessen und Maschinen. Zu aktuellen Themenschwerpunkten wie Panel-PC, Fernwartung, Datenlogging, Protokollwandlung, Feldbusunabhängige I/O-System und ",
+   "url": "https://www.wachendorff-prozesstechnik.de/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "hq": "德国",
-    "other": "官网 wachendorff-prozesstechnik.de，语言 de，快照状态 ok；角色判定来源：官网文案"
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "电口",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "工业自动化组件（面板 PC / 远程维护 / 协议转换）"
-  ],
-  "channels": {
-    "role": "工业自动化组件供应商（德国，自有+分销）",
-    "region": "德国",
-    "contact": "kontakt@segno.de"
+  {
+   "kind": "官网快照",
+   "claim": "Wachendorff Prozesstechnik 产品",
+   "quote": "Wachendorff Prozesstechnik bietet Ihnen intelligente Komponenten für die Automation von Prozessen und Maschinen. Zu aktuellen Themenschwerpunkten wie Panel-PC, Fernwartung, Datenlogging",
+   "url": "https://www.wachendorff-prozesstechnik.de/",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "官网：intelligente Komponenten für die Automation von Prozessen und Maschinen … Panel-PC, Fernwartung, Datenlogging, Protokollwandler；kw ethernet 80 / industrial 62 / automation 31",
-    "表内：电口；可以着重跟一下"
-  ],
-  "risks": [
-    "自动化组件商：交换机为配套品类，量小；Siemens/Schneider 生态",
-    "8 次无回复，仅关联域 kontakt@（segno.de）"
-  ],
-  "saga_fit": {
-    "p1": "STI-080GE",
-    "tier": 20,
-    "why": "表内兴趣「电口」→ 工业 8 GE 非管理 STI-080GE（$31.4 @20%）/ 5 GE STI-050GE（$17.0）作面板 PC/远程维护配套"
-  },
-  "email_hook": "For the Ethernet switches you supply with panel PCs and remote-maintenance gateways, we offer Marvell-based DIN-rail 5/8-port gigabit copper units (−40~75 °C, 12–58 VDC, CE/RoHS, neutral packing) from small lots — which port count do your automation customers use most?",
-  "mail_review": {
-    "binding": {
-      "level": "未触达（A 邮箱 10 封 2025→2026，1 次记录打开，0 回；收件 kontakt@segno.de；主题多为「16 Port Ethernet Switch、Managed Optical Bypass Switch」）",
-      "type": "工业自动化组件供应商（德国，自有+分销）",
-      "sieve": "1~2（1 次打开）",
-      "stop": "只打通用邮箱，无记录打开",
-      "revive": "保持季度群发到 2027-Q1；无打开即停",
-      "lane": "DE 主攻（四主）",
-      "cadence": "季度",
-      "evidence": "gmail_digest：out 10，Opened 标签 1（Simon 群发追踪）；用户表：「电口」；研究档 risks：自动化组件商：交换机为配套品类，量小；Siemens/Schneider 生态"
-    },
-    "situation": "德国 Wachendorff Prozesstechnik GmbH & Co. KG（工业电子：面板 PC、远程维护、数据记录、协议转换等自动化组件，「Alles aus einer Hand」、原机测试；表内「电口」「可以着重跟一下」；邮箱 kontakt@segno.de（关联域））；群发 8 次无回复。",
-    "need": "表内兴趣「电口」→ 工业 8 GE 非管理 STI-080GE（$31.4 @20%）/ 5 GE STI-050GE（$17.0）作面板 PC/远程维护配套",
-    "breakpoint": "自动化组件商：交换机为配套品类，量小；Siemens/Schneider 生态",
-    "saga_now": {
-      "p1": "STI-080GE",
-      "tier": 20,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-07-14 $300（48 Port PoE Managed Switch）、2025-10-06 $280（10G Enterprise SFP Switch）",
-      "why": "表内兴趣「电口」→ 工业 8 GE 非管理 STI-080GE（$31.4 @20%）/ 5 GE STI-050GE（$17.0）作面板 PC/远程维护配套。已打开的主题（1/10 封有打开记录）：「48 Port PoE Managed Switch」(2025-07-14) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "群发节奏",
-      "channel": "A 邮箱",
-      "action": "观察打开",
-      "one_question": "For the Ethernet switches you supply with panel PCs and remote-maintenance gateways, we offer Marvell-based DIN-rail 5/8-port gigabit copper units (−40~75 °C, 12–58 VDC, CE/RoHS, neutral packing) from small lots — which port count do your automation customers use most?"
-    },
-    "facts": [
-      {
-        "date": "2026-01-23",
-        "dir": "去",
-        "who": "A 群发",
-        "quote": "16 Port Ethernet Switch、Managed Optical Bypass Switch",
-        "why": "10 封 / 1 次打开 / 0 回｜首封 2025-02-25 → 末封 2026-01-23（10 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "电口",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "电口；着重跟",
+   "quote": "电口；可以着重跟一下",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "德国",
+  "other": "官网 wachendorff-prozesstechnik.de，语言 de，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "工业自动化组件（面板 PC / 远程维护 / 协议转换）"
+ ],
+ "channels": {
+  "role": "工业自动化组件供应商（德国，自有+分销）",
+  "region": "德国",
+  "contact": "kontakt@segno.de"
+ },
+ "signals": [
+  "官网：intelligente Komponenten für die Automation von Prozessen und Maschinen … Panel-PC, Fernwartung, Datenlogging, Protokollwandler；kw ethernet 80 / industrial 62 / automation 31",
+  "表内：电口；可以着重跟一下"
+ ],
+ "risks": [
+  "自动化组件商：交换机为配套品类，量小；Siemens/Schneider 生态",
+  "8 次无回复，仅关联域 kontakt@（segno.de）"
+ ],
+ "saga_fit": {
+  "p1": "STI-080GE",
+  "tier": 20,
+  "why": "表内兴趣「电口」→ 工业 8 GE 非管理 STI-080GE（$31.4 @20%）/ 5 GE STI-050GE（$17.0）作面板 PC/远程维护配套"
+ },
+ "email_hook": "For the Ethernet switches you supply with panel PCs and remote-maintenance gateways, we offer Marvell-based DIN-rail 5/8-port gigabit copper units (−40~75 °C, 12–58 VDC, CE/RoHS, neutral packing) from small lots — which port count do your automation customers use most?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 10 封 2025→2026，1 次记录打开，0 回；收件 kontakt@segno.de；主题多为「16 Port Ethernet Switch、Managed Optical Bypass Switch」；Elsa 箱：`to:.de` 穷举 29 条（2026-10-25，锚批 Bcc 头已读）未见 wachendorff-prozesstechnik.de / segno.de → Elsa 箱从未发过本户，往来只在 S/A 箱（去 10 / 来 0）（第 74 批(f)））",
+   "type": "工业自动化组件供应商（德国，自有+分销）",
+   "sieve": "1~2（1 次打开）",
+   "stop": "只打通用邮箱，无记录打开",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "DE 主攻（四主）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 10，Opened 标签 1（Simon 群发追踪）；用户表：「电口」；研究档 risks：自动化组件商：交换机为配套品类，量小；Siemens/Schneider 生态"
+  },
+  "situation": "德国 Wachendorff Prozesstechnik GmbH & Co. KG（工业电子：面板 PC、远程维护、数据记录、协议转换等自动化组件，「Alles aus einer Hand」、原机测试；表内「电口」「可以着重跟一下」；邮箱 kontakt@segno.de（关联域））；群发 8 次无回复。",
+  "need": "表内兴趣「电口」→ 工业 8 GE 非管理 STI-080GE（$31.4 @20%）/ 5 GE STI-050GE（$17.0）作面板 PC/远程维护配套",
+  "breakpoint": "自动化组件商：交换机为配套品类，量小；Siemens/Schneider 生态",
+  "saga_now": {
+   "p1": "STI-080GE",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-07-14 $300（48 Port PoE Managed Switch）、2025-10-06 $280（10G Enterprise SFP Switch）",
+   "why": "表内兴趣「电口」→ 工业 8 GE 非管理 STI-080GE（$31.4 @20%）/ 5 GE STI-050GE（$17.0）作面板 PC/远程维护配套。已打开的主题（1/10 封有打开记录）：「48 Port PoE Managed Switch」(2025-07-14) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "For the Ethernet switches you supply with panel PCs and remote-maintenance gateways, we offer Marvell-based DIN-rail 5/8-port gigabit copper units (−40~75 °C, 12–58 VDC, CE/RoHS, neutral packing) from small lots — which port count do your automation customers use most?"
+  },
+  "facts": [
+   {
+    "date": "2026-01-23",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "16 Port Ethernet Switch、Managed Optical Bypass Switch",
+    "why": "10 封 / 1 次打开 / 0 回｜首封 2025-02-25 → 末封 2026-01-23（10 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "电口",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

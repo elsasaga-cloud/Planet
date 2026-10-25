@@ -1,198 +1,198 @@
 {
-  "code": "SA-027",
-  "name_official": "Parallax Digital Technologies Ltd（Cramlington, Northumberland, UK）",
-  "website_status": "在线",
-  "summary": "英国诺森伯兰的微型 OEM/ODM 技术公司（2016 年注册，申报雇员 1 人，营业额 <£1M），自有品牌网络设备/数显/视频处理产品，交换产品已用于伦敦等城市高层住宅的消防探测网络（多家市政与住房协会）；代理 Riden 电源、Weipu 连接器。用户表：2 次实质回复，兴趣工业 FS，已有 E-link 5 电口。",
-  "type": "微型 OEM/ODM 品牌商（自有品牌网络设备）",
-  "size": "1 人申报 / <£1M（Endole）",
-  "brands_seen": [
-    "E-link",
-    "Riden",
-    "Weipu"
-  ],
-  "evidence": [
-    {
-      "kind": "官网",
-      "claim": "自有品牌 OEM/ODM 网络设备，交换产品已部署于英国高层住宅消防探测网络",
-      "quote": "the Company has created and developed its own brand of digital products and services, incorporating a hybrid OEM/ODM model, including computer networking equipment … Our network designs and switching products have been in service in tower blocks in London and other cities, providing critical, secure, fault-tolerant infrastructure solutions for fire detection systems",
-      "url": "https://parallaxdigital.co.uk/about-us/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "第三方（Endole）",
-      "claim": "规模：雇员 1，营业额 <£1M",
-      "quote": "Parallax Digital Technologies Limited … Turnover is under £1M · Under 10 employees … Employees 1",
-      "url": "https://open.endole.co.uk/insight/company/10314407-parallax-digital-technologies-limited",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网",
-      "claim": "销售邮箱/电话",
-      "quote": "Sales sales@parallaxdigital.co.uk … Phone: +44 (0)1670 202001",
-      "url": "https://parallaxdigital.co.uk/contact/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网",
-      "claim": "自有品牌工业 PoE 交换机 PDT-NSU-7104-MP-SF-I 规格",
-      "quote": "The PDT-NSU-7104-MP-SF-I is an Ultra-Small Form Factor Industrial PoE Switch, supporting 4 x 10/100/1000 BASE-T PoE+ RJ45 Ports, and 1 x 100/1000 BASE-X auto-detecting SFP Port … 12-48VDC Power Input with Voltage Booster … Up to 120W PoE Budget (48VDC) … -40°C to +80°C … Manufacturer: Parallax Digital Technologies",
-      "url": "https://parallaxdigital.co.uk/shop/industrial-networking-equipment/micro-net/pdt-nsu-7104-mp-sf-i-4-port-10-100-1000-base-t-max-poe-1-port-10-100-1000-base-x-sfp-unmanaged-sff-industrial-switch-12-48vdc/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网",
-      "claim": "公司注册信息与地址；销售/网络运维邮箱公开",
-      "quote": "Parallax Digital Technologies Ltd Unit 19 Endeavour Park, Baker Road, Nelson Park West, Cramlington, Northumberland, NE23 1XA Company No. 10314407 VAT No. GB251731130 … Sales sales@parallaxdigital.co.uk Network Support networkops@parallaxdigital.co.uk",
-      "url": "https://parallaxdigital.co.uk/contact/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网",
-      "claim": "自称英国最大交换机库存之一；高层住宅消防探测网络用其交换产品",
-      "quote": "we also have probably the largest stock of managed and unmanaged network switches (PoE and non-PoE) in the UK … Our network designs and switching products have been in service in tower blocks in London and other cities … for fire detection systems",
-      "url": "https://parallaxdigital.co.uk/about-us/",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Jeffrey Allan Ferrier",
-      "role": "Founder/Director（Companies House）",
-      "email": "jeff.ferrier@parallaxdigital.co.uk（本人来信地址 2024-06 / 2024-10）；sales@parallaxdigital.co.uk",
-      "phone": "+44 1670 202001",
-      "source": "https://open.endole.co.uk/insight/company/10314407-parallax-digital-technologies-limited；S 邮箱来信表头"
-    }
-  ],
-  "notes": "A 维持但体量极小（1 人公司）：有真实装机场景（消防探测网络用工业交换机）+ 2 次实质回复 + 已在买中国 E-link；适合 Saga 的小批量多批次模式。P1 = STI-244GP/288GP 非管理工业（对位 E-link 5 电口）。",
-  "researched_at": "2026-10-21",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "深挖 v1"
+ "code": "SA-027",
+ "name_official": "Parallax Digital Technologies Ltd（Cramlington, Northumberland, UK）",
+ "website_status": "在线",
+ "summary": "英国诺森伯兰的微型 OEM/ODM 技术公司（2016 年注册，申报雇员 1 人，营业额 <£1M），自有品牌网络设备/数显/视频处理产品，交换产品已用于伦敦等城市高层住宅的消防探测网络（多家市政与住房协会）；代理 Riden 电源、Weipu 连接器。用户表：2 次实质回复，兴趣工业 FS，已有 E-link 5 电口。",
+ "type": "微型 OEM/ODM 品牌商（自有品牌网络设备）",
+ "size": "1 人申报 / <£1M（Endole）",
+ "brands_seen": [
+  "E-link",
+  "Riden",
+  "Weipu"
+ ],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "自有品牌 OEM/ODM 网络设备，交换产品已部署于英国高层住宅消防探测网络",
+   "quote": "the Company has created and developed its own brand of digital products and services, incorporating a hybrid OEM/ODM model, including computer networking equipment … Our network designs and switching products have been in service in tower blocks in London and other cities, providing critical, secure, fault-tolerant infrastructure solutions for fire detection systems",
+   "url": "https://parallaxdigital.co.uk/about-us/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "legal_name": "Parallax Digital Technologies Ltd",
-    "founded": "2016-08-05（Company No. 10314407，VAT GB251731130）",
-    "hq": "Unit 19 Endeavour Park, Baker Road, Cramlington, Northumberland NE23 1XA, UK",
-    "staff": "1 人申报（Endole）/ 2–10（LinkedIn）",
-    "revenue": "<£1M",
-    "other": "自有 PDT- 前缀工业交换机 + Cisco 清仓 + Weipu/Riden 代理；自称「probably the largest stock of managed and unmanaged network switches (PoE and non-PoE) in the UK」，eBay 店铺分类含工业 PoE 交换机/注入器/延长器/分离器"
+  {
+   "kind": "第三方（Endole）",
+   "claim": "规模：雇员 1，营业额 <£1M",
+   "quote": "Parallax Digital Technologies Limited … Turnover is under £1M · Under 10 employees … Employees 1",
+   "url": "https://open.endole.co.uk/insight/company/10314407-parallax-digital-technologies-limited",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "自有品牌工业交换机（PDT-NSU 系列 Micro-Net）",
-    "商用交换机转售（Cisco SG110D-08 £29.95，库存 414）、路由器、SFP、PoE 分离器",
-    "工业连接器（Weipu IP67/IP68）、电源（Riden/Meanwell）",
-    "FireAngel 消防报警产品与网关（高层住宅消防探测网络）"
-  ],
-  "products_seen": [
-    {
-      "brand": "PDT（自有）",
-      "model": "PDT-NSU-7104-MP-SF-I",
-      "spec": "超小型工业 4×GE PoE+ + 1 SFP 非管理，12–48VDC 升压，120W@48V，IP40 铝壳，-40~80℃，DIN/壁挂",
-      "url": "https://parallaxdigital.co.uk/shop/industrial-networking-equipment/micro-net/pdt-nsu-7104-mp-sf-i-4-port-10-100-1000-base-t-max-poe-1-port-10-100-1000-base-x-sfp-unmanaged-sff-industrial-switch-12-48vdc/",
-      "date": "2026-10-21",
-      "saga": "STI-144GP"
-    },
-    {
-      "brand": "Cisco（转售）",
-      "model": "SG110D-08-BR-WS",
-      "spec": "8 口桌面非管理，£29.95，库存 414",
-      "url": "https://parallaxdigital.co.uk/shop/commercial-networking-equipment/commercial-unmanaged-non-poe-switches/cisco-sg110d-08-br-ws/",
-      "date": "2026-10-21",
-      "saga": "STC-28DGGPM（PoE 升级位）"
-    },
-    {
-      "brand": "E-link",
-      "model": "5 电口工业（用户表）",
-      "spec": "已在用",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "用户表",
-      "saga": "STI-144GP"
-    }
-  ],
-  "channels": {
-    "网站/网店": "https://parallaxdigital.co.uk/shop/",
-    "eBay": "https://www.ebay.co.uk/str/parallaxdigitaltechnologies",
-    "直邮": "sales@parallaxdigital.co.uk（官网）/ jeff.ferrier@parallaxdigital.co.uk / networkops@parallaxdigital.co.uk（用户表）",
-    "联系人": "Jeffrey Allan Ferrier（董事）"
+  {
+   "kind": "官网",
+   "claim": "销售邮箱/电话",
+   "quote": "Sales sales@parallaxdigital.co.uk … Phone: +44 (0)1670 202001",
+   "url": "https://parallaxdigital.co.uk/contact/",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "自有 PDT-NSU-7104-MP-SF-I 在售——已在以自有品牌卖华南 ODM 工业 PoE 机，需要稳定货源（2026-10-21）",
-    "用户表：2 次实质回复，兴趣工业 FS，已有 E-link 5 电口"
-  ],
-  "risks": [
-    "1 人公司，单次量小；消防探测网络 = 生命安全相关，Saga 只供其商用/工业网络部分，不承诺消防认证",
-    "eBay 清仓导向，价格压力大"
-  ],
-  "saga_fit": {
-    "p1": "STI-144GP",
-    "tier": 30,
-    "why": "自有 PDT-NSU-7104-MP-SF-I（4 GE PoE + 1 SFP 超小 DIN）与 STI-144GP 同位；8 口位→STI-288DGGPM；贴 PDT 标 30% 档（量小可 25%）"
+  {
+   "kind": "官网",
+   "claim": "自有品牌工业 PoE 交换机 PDT-NSU-7104-MP-SF-I 规格",
+   "quote": "The PDT-NSU-7104-MP-SF-I is an Ultra-Small Form Factor Industrial PoE Switch, supporting 4 x 10/100/1000 BASE-T PoE+ RJ45 Ports, and 1 x 100/1000 BASE-X auto-detecting SFP Port … 12-48VDC Power Input with Voltage Booster … Up to 120W PoE Budget (48VDC) … -40°C to +80°C … Manufacturer: Parallax Digital Technologies",
+   "url": "https://parallaxdigital.co.uk/shop/industrial-networking-equipment/micro-net/pdt-nsu-7104-mp-sf-i-4-port-10-100-1000-base-t-max-poe-1-port-10-100-1000-base-x-sfp-unmanaged-sff-industrial-switch-12-48vdc/",
+   "date": "2026-10-21"
   },
-  "email_hook": "Your PDT-NSU-7104-MP-SF-I is the same 4-port PoE+ with SFP uplink footprint we build in DIN format, so I am quoting that unit in PDT packing with the 8-port managed version as the next size up.",
-  "mail_review": {
-    "binding": {
-      "level": "未绑定（两次回复都是「不需要」：有 $124 的 Cisco 52 口库存；客户只要 24V 或 48V 单一版本）",
-      "type": "英国 1 人 OEM/ODM 品牌商（消防探测网络用工业交换机，已买中国 E-link）；Jeff Ferrier",
-      "sieve": "1",
-      "stop": "2024-06-03「I have a large number of cisco 52 port gigabit layer 3 switches that cost me $124 each」；2024-10-24「Customers usually want one or the other and not a combo」",
-      "revive": "其 E-link 供货出问题；或消防网络项目要 DIN 工业非管理",
-      "lane": "UK",
-      "cadence": "2024-06 → 2026-09 去信 26 封；最后来信 2024-10-24",
-      "evidence": "k=f38bda5c25315e89 / c935ae4f928d5620 / d86526863f22737d"
-    },
-    "situation": "Jeff 两次回复都给出了真实市场信息：二手/库存 Cisco 52 口 L3 只要 $124（Saga 的 300 USD 新机没有位置）；PoE 客户要么 24V 要么 48V，不要自动切换的组合款（Simon 坚持「这是卖点」）。此后 20 封群发无回。",
-    "need": "消防探测网络用小型工业交换机（E-link 5 电口类）；二手 Cisco 覆盖机架需求。",
-    "breakpoint": "客户已经说清楚了什么不要；Saga 继续发的是同类。",
-    "saga_now": {
-      "p1": "STI-244GP / STI-288GP 非管理工业（E-link 5 电口对位）",
-      "tier": 30,
-      "price": "按 30% 自有标档；群发里他已看到的价（续）：2026-08-07 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-06-03 $220（48 port managed switch）、2025-09-25 $280（10G Enterprise SFP Switch）",
-      "why": "只在 DIN 非管理这一条线上发一次。已打开的主题（3/26 封有打开记录）：「48 port managed switch」(2024-06-03)、「24V/48V PoE Switch」(2024-10-24)、「Re: 24V/48V PoE Switch」(2024-10-30) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "2027-Q1",
-      "channel": "S 邮箱 → jeff.ferrier@",
-      "action": "一封只讲 DIN 5/8 口非管理工业款（对位 E-link）",
-      "one_question": "For the fire-detection networks, what does the E-link 5-port unit cost you landed, and what would make you dual-source it?"
-    },
-    "facts": [
-      {
-        "date": "2024-06-03",
-        "dir": "来",
-        "who": "Jeff Ferrier（Director）",
-        "quote": "I have a large number of cisco 52 port gigabit layer 3 switches that cost me $124 each so will have to pass on your kind offer for now",
-        "why": "价格基准",
-        "k": "f38bda5c25315e89"
-      },
-      {
-        "date": "2024-10-24",
-        "dir": "来",
-        "who": "Jeff",
-        "quote": "Customers usually want one or the other and not a combo We sell desktop and rack for both",
-        "why": "24V/48V 组合款被否",
-        "k": "c935ae4f928d5620"
-      },
-      {
-        "date": "2024-10-30",
-        "dir": "去",
-        "who": "Simon",
-        "quote": "Its actually a selling point(auto voltage output)",
-        "why": "Saga 坚持",
-        "k": "d86526863f22737d"
-      },
-      {
-        "date": "2024-12-28",
-        "dir": "来",
-        "who": "用户表（Simon 跟进记录；渠道 Email）",
-        "quote": "用户表跟进：推「发了工业电源价格册」→ 对方「will check 问了网站 后续发了2光4小壳」",
-        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
-        "k": "Clients/A/DONE/UK.xlsx no.56 2024.12.28"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "官网",
+   "claim": "公司注册信息与地址；销售/网络运维邮箱公开",
+   "quote": "Parallax Digital Technologies Ltd Unit 19 Endeavour Park, Baker Road, Nelson Park West, Cramlington, Northumberland, NE23 1XA Company No. 10314407 VAT No. GB251731130 … Sales sales@parallaxdigital.co.uk Network Support networkops@parallaxdigital.co.uk",
+   "url": "https://parallaxdigital.co.uk/contact/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "自称英国最大交换机库存之一；高层住宅消防探测网络用其交换产品",
+   "quote": "we also have probably the largest stock of managed and unmanaged network switches (PoE and non-PoE) in the UK … Our network designs and switching products have been in service in tower blocks in London and other cities … for fire detection systems",
+   "url": "https://parallaxdigital.co.uk/about-us/",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Jeffrey Allan Ferrier",
+   "role": "Founder/Director（Companies House）",
+   "email": "jeff.ferrier@parallaxdigital.co.uk（本人来信地址 2024-06 / 2024-10）；sales@parallaxdigital.co.uk",
+   "phone": "+44 1670 202001",
+   "source": "https://open.endole.co.uk/insight/company/10314407-parallax-digital-technologies-limited；S 邮箱来信表头"
+  }
+ ],
+ "notes": "A 维持但体量极小（1 人公司）：有真实装机场景（消防探测网络用工业交换机）+ 2 次实质回复 + 已在买中国 E-link；适合 Saga 的小批量多批次模式。P1 = STI-244GP/288GP 非管理工业（对位 E-link 5 电口）。",
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "深挖 v1"
+ },
+ "company_facts": {
+  "legal_name": "Parallax Digital Technologies Ltd",
+  "founded": "2016-08-05（Company No. 10314407，VAT GB251731130）",
+  "hq": "Unit 19 Endeavour Park, Baker Road, Cramlington, Northumberland NE23 1XA, UK",
+  "staff": "1 人申报（Endole）/ 2–10（LinkedIn）",
+  "revenue": "<£1M",
+  "other": "自有 PDT- 前缀工业交换机 + Cisco 清仓 + Weipu/Riden 代理；自称「probably the largest stock of managed and unmanaged network switches (PoE and non-PoE) in the UK」，eBay 店铺分类含工业 PoE 交换机/注入器/延长器/分离器"
+ },
+ "business_lines": [
+  "自有品牌工业交换机（PDT-NSU 系列 Micro-Net）",
+  "商用交换机转售（Cisco SG110D-08 £29.95，库存 414）、路由器、SFP、PoE 分离器",
+  "工业连接器（Weipu IP67/IP68）、电源（Riden/Meanwell）",
+  "FireAngel 消防报警产品与网关（高层住宅消防探测网络）"
+ ],
+ "products_seen": [
+  {
+   "brand": "PDT（自有）",
+   "model": "PDT-NSU-7104-MP-SF-I",
+   "spec": "超小型工业 4×GE PoE+ + 1 SFP 非管理，12–48VDC 升压，120W@48V，IP40 铝壳，-40~80℃，DIN/壁挂",
+   "url": "https://parallaxdigital.co.uk/shop/industrial-networking-equipment/micro-net/pdt-nsu-7104-mp-sf-i-4-port-10-100-1000-base-t-max-poe-1-port-10-100-1000-base-x-sfp-unmanaged-sff-industrial-switch-12-48vdc/",
+   "date": "2026-10-21",
+   "saga": "STI-144GP"
+  },
+  {
+   "brand": "Cisco（转售）",
+   "model": "SG110D-08-BR-WS",
+   "spec": "8 口桌面非管理，£29.95，库存 414",
+   "url": "https://parallaxdigital.co.uk/shop/commercial-networking-equipment/commercial-unmanaged-non-poe-switches/cisco-sg110d-08-br-ws/",
+   "date": "2026-10-21",
+   "saga": "STC-28DGGPM（PoE 升级位）"
+  },
+  {
+   "brand": "E-link",
+   "model": "5 电口工业（用户表）",
+   "spec": "已在用",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "用户表",
+   "saga": "STI-144GP"
+  }
+ ],
+ "channels": {
+  "网站/网店": "https://parallaxdigital.co.uk/shop/",
+  "eBay": "https://www.ebay.co.uk/str/parallaxdigitaltechnologies",
+  "直邮": "sales@parallaxdigital.co.uk（官网）/ jeff.ferrier@parallaxdigital.co.uk / networkops@parallaxdigital.co.uk（用户表）",
+  "联系人": "Jeffrey Allan Ferrier（董事）"
+ },
+ "signals": [
+  "自有 PDT-NSU-7104-MP-SF-I 在售——已在以自有品牌卖华南 ODM 工业 PoE 机，需要稳定货源（2026-10-21）",
+  "用户表：2 次实质回复，兴趣工业 FS，已有 E-link 5 电口"
+ ],
+ "risks": [
+  "1 人公司，单次量小；消防探测网络 = 生命安全相关，Saga 只供其商用/工业网络部分，不承诺消防认证",
+  "eBay 清仓导向，价格压力大"
+ ],
+ "saga_fit": {
+  "p1": "STI-144GP",
+  "tier": 30,
+  "why": "自有 PDT-NSU-7104-MP-SF-I（4 GE PoE + 1 SFP 超小 DIN）与 STI-144GP 同位；8 口位→STI-288DGGPM；贴 PDT 标 30% 档（量小可 25%）"
+ },
+ "email_hook": "Your PDT-NSU-7104-MP-SF-I is the same 4-port PoE+ with SFP uplink footprint we build in DIN format, so I am quoting that unit in PDT packing with the 8-port managed version as the next size up.",
+ "mail_review": {
+  "binding": {
+   "level": "未绑定（两次回复都是「不需要」：有 $124 的 Cisco 52 口库存；客户只要 24V 或 48V 单一版本；Elsa 箱：`to:.uk` 穷举 34 条（2026-10-25，锚批 Bcc 头已读）未见 parallaxdigital.co.uk → Elsa 箱从未发过本户，往来只在 S/A 箱（去 26 / 来 2）（第 74 批(f)））",
+   "type": "英国 1 人 OEM/ODM 品牌商（消防探测网络用工业交换机，已买中国 E-link）；Jeff Ferrier",
+   "sieve": "1",
+   "stop": "2024-06-03「I have a large number of cisco 52 port gigabit layer 3 switches that cost me $124 each」；2024-10-24「Customers usually want one or the other and not a combo」",
+   "revive": "其 E-link 供货出问题；或消防网络项目要 DIN 工业非管理",
+   "lane": "UK",
+   "cadence": "2024-06 → 2026-09 去信 26 封；最后来信 2024-10-24",
+   "evidence": "k=f38bda5c25315e89 / c935ae4f928d5620 / d86526863f22737d"
+  },
+  "situation": "Jeff 两次回复都给出了真实市场信息：二手/库存 Cisco 52 口 L3 只要 $124（Saga 的 300 USD 新机没有位置）；PoE 客户要么 24V 要么 48V，不要自动切换的组合款（Simon 坚持「这是卖点」）。此后 20 封群发无回。",
+  "need": "消防探测网络用小型工业交换机（E-link 5 电口类）；二手 Cisco 覆盖机架需求。",
+  "breakpoint": "客户已经说清楚了什么不要；Saga 继续发的是同类。",
+  "saga_now": {
+   "p1": "STI-244GP / STI-288GP 非管理工业（E-link 5 电口对位）",
+   "tier": 30,
+   "price": "按 30% 自有标档；群发里他已看到的价（续）：2026-08-07 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-06-03 $220（48 port managed switch）、2025-09-25 $280（10G Enterprise SFP Switch）",
+   "why": "只在 DIN 非管理这一条线上发一次。已打开的主题（3/26 封有打开记录）：「48 port managed switch」(2024-06-03)、「24V/48V PoE Switch」(2024-10-24)、「Re: 24V/48V PoE Switch」(2024-10-30) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1",
+   "channel": "S 邮箱 → jeff.ferrier@",
+   "action": "一封只讲 DIN 5/8 口非管理工业款（对位 E-link）",
+   "one_question": "For the fire-detection networks, what does the E-link 5-port unit cost you landed, and what would make you dual-source it?"
+  },
+  "facts": [
+   {
+    "date": "2024-06-03",
+    "dir": "来",
+    "who": "Jeff Ferrier（Director）",
+    "quote": "I have a large number of cisco 52 port gigabit layer 3 switches that cost me $124 each so will have to pass on your kind offer for now",
+    "why": "价格基准",
+    "k": "f38bda5c25315e89"
+   },
+   {
+    "date": "2024-10-24",
+    "dir": "来",
+    "who": "Jeff",
+    "quote": "Customers usually want one or the other and not a combo We sell desktop and rack for both",
+    "why": "24V/48V 组合款被否",
+    "k": "c935ae4f928d5620"
+   },
+   {
+    "date": "2024-10-30",
+    "dir": "去",
+    "who": "Simon",
+    "quote": "Its actually a selling point(auto voltage output)",
+    "why": "Saga 坚持",
+    "k": "d86526863f22737d"
+   },
+   {
+    "date": "2024-12-28",
+    "dir": "来",
+    "who": "用户表（Simon 跟进记录；渠道 Email）",
+    "quote": "用户表跟进：推「发了工业电源价格册」→ 对方「will check 问了网站 后续发了2光4小壳」",
+    "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+    "k": "Clients/A/DONE/UK.xlsx no.56 2024.12.28"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

@@ -1,0 +1,340 @@
+{
+ "_note": "第 74 批(g) 2026-10-25 03:15Z–03:25Z：A 级（含 grade_override A）尚未核实 Elsa 触达的 66 户逐户 `in:sent to:<域>`（max 5）；0 条且 complete:true = Elsa 箱从未发过本域（To 与 Bcc 都查）。另 17 户为第 73 批(o) 2026-10-24 的逐户 0 结果补记。SC-1006 域为 live.com.my 免费邮箱，未探。",
+ "zero": [
+  {
+   "code": "SA-001",
+   "q": "to:asteldigicom.com OR to:asteldigicom.ae"
+  },
+  {
+   "code": "SA-002",
+   "q": "to:simrex.com"
+  },
+  {
+   "code": "SA-003",
+   "q": "to:eyescan.com.cy"
+  },
+  {
+   "code": "SA-010",
+   "q": "to:taurusvision.com"
+  },
+  {
+   "code": "SA-011",
+   "q": "to:vilinknet.com OR to:vi-link.net"
+  },
+  {
+   "code": "SA-012",
+   "q": "to:gogreenit.net"
+  },
+  {
+   "code": "SA-014",
+   "q": "to:coptek.com.tr"
+  },
+  {
+   "code": "SA-017",
+   "q": "to:ez-net.co.kr"
+  },
+  {
+   "code": "SA-019",
+   "q": "to:cxr.com OR to:cxr.fr"
+  },
+  {
+   "code": "SA-020",
+   "q": "to:widen.co.th"
+  },
+  {
+   "code": "SA-021",
+   "q": "to:alfa.com.tw"
+  },
+  {
+   "code": "SA-028",
+   "q": "to:sewelldev.com OR to:sewelldirect.com"
+  },
+  {
+   "code": "SA-033",
+   "q": "to:optiviewusa.com"
+  },
+  {
+   "code": "SA-036",
+   "q": "to:addonnetworks.com OR to:addoncomputer.com"
+  },
+  {
+   "code": "SA-040",
+   "q": "to:hardenednetworks.com OR to:expresssupply.net"
+  },
+  {
+   "code": "SA-041",
+   "q": "to:alsalami.com"
+  },
+  {
+   "code": "SA-043",
+   "q": "to:entasource.co.th"
+  },
+  {
+   "code": "SA-044",
+   "q": "to:gtwave.co.kr"
+  },
+  {
+   "code": "SA-045",
+   "q": "to:snexus.com.tr"
+  },
+  {
+   "code": "SA-049",
+   "q": "to:sundartechno.com OR to:embeddedaautomation.org"
+  },
+  {
+   "code": "SA-050",
+   "q": "to:bluewarrior.com"
+  },
+  {
+   "code": "SA-052",
+   "q": "to:td-fe.com OR to:td-fe.ru"
+  },
+  {
+   "code": "SA-054",
+   "q": "to:svn-video.ru"
+  },
+  {
+   "code": "SA-055",
+   "q": "to:aeconnect.co.in"
+  },
+  {
+   "code": "SA-056",
+   "q": "to:dncsolutions.co.in"
+  },
+  {
+   "code": "SA-057",
+   "q": "to:mt-link.com"
+  },
+  {
+   "code": "SA-058",
+   "q": "to:success-network.co.th"
+  },
+  {
+   "code": "SA-063",
+   "q": "to:lightoptics.pl OR to:fibermarkt.com"
+  },
+  {
+   "code": "SA-066",
+   "q": "to:antronix.com"
+  },
+  {
+   "code": "SA-068",
+   "q": "to:dymec.com"
+  },
+  {
+   "code": "SA-069",
+   "q": "to:energyplusystems.cl"
+  },
+  {
+   "code": "SA-070",
+   "q": "to:ipcampower.com"
+  },
+  {
+   "code": "SA-072",
+   "q": "to:sge.com.tr"
+  },
+  {
+   "code": "SA-073",
+   "q": "to:ekhalas.com"
+  },
+  {
+   "code": "SA-074",
+   "q": "to:iotsistem.com"
+  },
+  {
+   "code": "SA-077",
+   "q": "to:tecprosolutions.com"
+  },
+  {
+   "code": "SA-078",
+   "q": "to:bsn-system.com"
+  },
+  {
+   "code": "SA-079",
+   "q": "to:infrateq.id OR to:divatel.co.id"
+  },
+  {
+   "code": "SA-082",
+   "q": "to:novacom.com.tr OR to:nova-grup.com"
+  },
+  {
+   "code": "SA-089",
+   "q": "to:born-shop.ru OR to:born-spb.ru"
+  },
+  {
+   "code": "SA-092",
+   "q": "to:data-connect.com"
+  },
+  {
+   "code": "SA-093",
+   "q": "to:gofiberx.com OR to:fiberx.net"
+  },
+  {
+   "code": "SA-098",
+   "q": "to:rym-tech.net"
+  },
+  {
+   "code": "SA-103",
+   "q": "to:ipns-uae.com"
+  },
+  {
+   "code": "SA-108",
+   "q": "to:areca.in"
+  },
+  {
+   "code": "SA-112",
+   "q": "to:smbit.co.il"
+  },
+  {
+   "code": "SA-120",
+   "q": "to:latmedia.uz"
+  },
+  {
+   "code": "SA-124",
+   "q": "to:ras-otomasi.id"
+  },
+  {
+   "code": "SA-134",
+   "q": "to:bptehno.ru OR to:doteck.ru"
+  },
+  {
+   "code": "SA-138",
+   "q": "to:topsicurezza.com"
+  },
+  {
+   "code": "SA-149",
+   "q": "to:transaudiovideo.com"
+  },
+  {
+   "code": "SA-153",
+   "q": "to:elitteamsecurity.com"
+  },
+  {
+   "code": "SA-159",
+   "q": "to:tbi.com.tr"
+  },
+  {
+   "code": "SA-168",
+   "q": "to:angoranetworks.com"
+  },
+  {
+   "code": "SA-170",
+   "q": "to:belnetworks.com"
+  },
+  {
+   "code": "SA-171",
+   "q": "to:pomnong9@gmail.com"
+  },
+  {
+   "code": "SB-020",
+   "q": "to:4power.it"
+  },
+  {
+   "code": "SB-336",
+   "q": "to:eds.com.tr"
+  },
+  {
+   "code": "SB-338",
+   "q": "to:hescs.com"
+  },
+  {
+   "code": "SB-473",
+   "q": "to:netas.com.tr"
+  },
+  {
+   "code": "SB-553",
+   "q": "to:norelcosafecam.com OR to:nsidistribution.com"
+  },
+  {
+   "code": "SA-095",
+   "q": "to:medias-coms.ch",
+   "as_of": "2026-10-24 第 73 批(o)"
+  },
+  {
+   "code": "SA-129",
+   "q": "to:nbs.ee",
+   "as_of": "2026-10-24 第 73 批(o)"
+  },
+  {
+   "code": "SA-152",
+   "q": "to:bilgeguvenlik.com",
+   "as_of": "2026-10-24 第 73 批(o)"
+  },
+  {
+   "code": "SA-162",
+   "q": "to:cansisteknoloji.com",
+   "as_of": "2026-10-24 第 73 批(o)"
+  },
+  {
+   "code": "SA-167",
+   "q": "to:voltechelektronik.com",
+   "as_of": "2026-10-24 第 73 批(o)"
+  },
+  {
+   "code": "SB-054",
+   "q": "to:desecuretechnology.com OR to:desecure.com.tr",
+   "as_of": "2026-10-24 第 73 批(o)"
+  },
+  {
+   "code": "SB-055",
+   "q": "to:fasttr.com",
+   "as_of": "2026-10-24 第 73 批(o)"
+  },
+  {
+   "code": "SB-058",
+   "q": "to:labormuhendislik.com.tr",
+   "as_of": "2026-10-24 第 73 批(o)"
+  },
+  {
+   "code": "SB-060",
+   "q": "to:oralcompanies.com OR to:oralguvenlik.com",
+   "as_of": "2026-10-24 第 73 批(o)"
+  },
+  {
+   "code": "SB-062",
+   "q": "to:acusenseteknoloji.com",
+   "as_of": "2026-10-24 第 73 批(o)"
+  },
+  {
+   "code": "SB-063",
+   "q": "to:ag-bilgisayar.com",
+   "as_of": "2026-10-24 第 73 批(o)"
+  },
+  {
+   "code": "SB-076",
+   "q": "to:sinerjik.net",
+   "as_of": "2026-10-24 第 73 批(o)"
+  },
+  {
+   "code": "SB-1017",
+   "q": "to:bilecik@hotmail.com",
+   "as_of": "2026-10-24 第 73 批(o)"
+  },
+  {
+   "code": "SB-547",
+   "q": "to:makonetworks.com",
+   "as_of": "2026-10-24 第 73 批(o)"
+  },
+  {
+   "code": "SB-203",
+   "q": "to:softwareeffect.com",
+   "as_of": "2026-10-24 第 73 批(o)"
+  },
+  {
+   "code": "SB-242",
+   "q": "to:virtualprotective.com",
+   "as_of": "2026-10-24 第 73 批(o)"
+  },
+  {
+   "code": "SB-450",
+   "q": "to:microfasttech.com OR to:mrdsdistributers.com",
+   "as_of": "2026-10-24 第 73 批(o)"
+  }
+ ],
+ "hits": {
+  "SA-026": "to:bitbuk.ru OR to:bitbook.ru → 201+ 条全部 To msk@nnz.ru（俄罗斯-1 批 Bcc 含 info@bitbook.ru）",
+  "SA-048": "to:truongsonsolutions.com → 1 条（越南批 Bcc）",
+  "SA-110": "to:optat.ru → 201+ 条全部 To sales@bas-ip.com（俄罗斯-2 批 Bcc 含 info@optat.ru）",
+  "SA-150": "to:vicomsecurity.com → 201+ 条全部 To mintusony@gmail.com（印度-2 批 Bcc 含 info@vicomsecurity.com）"
+ }
+}

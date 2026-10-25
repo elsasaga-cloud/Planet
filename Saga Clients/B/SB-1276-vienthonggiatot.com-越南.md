@@ -27,7 +27,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -35,16 +35,16 @@ updated: 2026-10-24
 - **是谁**：越南网络设备电商 + 弱电施工（光纤布线、Wi-Fi、监控安装），站内按品牌分类卖 Switch PLANET / TP-Link / Cisco / **SWITCH POE HRUI（正品）** / 工业交换机；型号页含 HRUI HR900-AF-82N、HR901-AF-1621GS、PLANET GS-4210-48T4S、TP-Link T1600G-28TS；表内注「很多国内的牌子 有洪瑞的」，2025-11 群发 2+8 PoE 回复 price。（调研 2026-10-21；表内兴趣：很多国内的牌子 有洪瑞的）
 - **为什么是 B 级**：+22 实质回复 1 次；-6 群发批次名单；+0 仅免费邮箱；+5 有可核实的公司网站/域名；+0 区域 亚太/越南；托底 B：有实质回复的客户至少 B
 - **历史互动**：实质回复 1 次；推送 4 次（? → ?）；最近一次客户回复：113：price
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — 已打开的主题（3/5 封有打开记录）：「8 Port Industrial PoE Switch」(2024-11-03)、「Re: 8 Port Industrial PoE Switch」(2024-11-03)、「Re: 8 Port Industrial PoE Switch」(2024-11-15) → 读者兴趣偏「工业」；与 P1 同类，继续；他见过的实报（2024-11-03）：STI-288GP $60
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：— — 已打开的主题（3/5 封有打开记录）：「8 Port Industrial PoE Switch」(2024-11-03)、「Re: 8 Port Industrial PoE Switch」(2024-11-03)、「Re: 8 Port Industrial PoE Switch」(2024-11-15) → 读者兴趣偏「工业」；与 P1 同类，继续；他见过的实报（2024-11-03）：STI-288GP $60
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：不动 — —
 
-## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-25）
 
-> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1276` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1276` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-25。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：轻度触达（2024-11-03「What is the price?」→ 资料已发；无后续）** ｜ 类型：越南网络电商（Gmail） ｜ 筛子：2 ｜ 停点：— ｜ 复活：不动 ｜ 通路：VN ｜ 节奏：不动 ｜ 证据：k=cd4b791c86455683；第 19 批回补来信原文 1 条（gmail_s/gmail_a）
+- **绑定等级：轻度触达（2024-11-03「What is the price?」→ 资料已发；无后续）；Elsa 群发 BCC 已触达 2026-09-10「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，越南（锚 vienthonghanoi VN） 批次 To inbox.vienthonghanoi@gmail.com，0 回（第 74 批 Bcc 头核对 msg 1a08a3bf37753529）** ｜ 类型：越南网络电商（Gmail） ｜ 筛子：2 ｜ 停点：— ｜ 复活：不动 ｜ 通路：VN ｜ 节奏：不动 ｜ 证据：k=cd4b791c86455683；第 19 批回补来信原文 1 条（gmail_s/gmail_a）；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To inbox.vienthonghanoi@gmail.com）本户见于 2026-09-10 名单
 - **现状一句话**：—
 - **对方真实需求（有据）**：—
 - **断点 / 为什么停在这里**：—
@@ -55,6 +55,7 @@ updated: 2026-10-24
 |---|---|---|---|---|---|
 | 2024-11-03 | 来 | vienthonggiatotvn@gmail.com | What is the price? Vào 14:41 CN, 3 thg 11, 2024 Simon <s.sagatelecom@gmail.com> đã viết: | 来信原文（主题「Re: 8 Port Industrial PoE Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话） | `cd4b791c86455683` |
 | 2024-11-03 | 去 | Simon（Quotation.pdf） | 「What is the price?」的回复 = 报价单：STI-288GP（2×GE SFP + 8×GE PoE af/at 240W，非管理）$60，validity 15 d，4~7 wd，warranty 3 years。 | 同一天同一款 $60 也报给了 SA-030（美国）——STI-288GP $60 是 2024-11 的统一实报价 | `S 邮箱附件 `Quotation.pdf` sha=b6e6158b418183d8（2024-11-03）` |
+| 2026-09-10 | 去 | Elsa 群发（BCC；To inbox.vienthonghanoi@gmail.com，越南（锚 vienthonghanoi VN） 批次） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发 BCC 触达证据（命中地址 vienthonggiatotvn@gmail.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -275,12 +276,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 21）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 21）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

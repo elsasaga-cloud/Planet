@@ -1,364 +1,364 @@
 {
-  "code": "SA-001",
-  "name_official": "Astel Digicom（asteldigicom.com，关联 AVSS Group）",
-  "website_status": "在线（Magento 网店）",
-  "summary": "阿联酋线上/线下经销商，自称「House of all kinds of cables and connectors」，网店品类为线缆、连接器、网络产品；2026 年首页主推 Deye/Inverex 储能电池与太阳能产品，网络产品仍在目录内（用户备注的工业 MC/工业交换机页面）。GM Sanjay Singla 已成单。",
-  "type": "分销商/网店（线缆·网络·太阳能）",
-  "size": "未见规模数据（网店型中小经销商）",
-  "brands_seen": [
-    "ONV",
-    "Deye",
-    "Inverex",
-    "ASTEL"
-  ],
-  "evidence": [
-    {
-      "kind": "官网",
-      "claim": "定位：各类线缆与连接器一站式商店，全球发货、一站式、免费技术支持",
-      "quote": "Astel Digicom I House of all kinds of cables and connectors … WORLDWIDE DELIVERY · ONE STOP SHOP · FREE TECHNICAL SUPPORT",
-      "url": "https://asteldigicom.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网",
-      "claim": "2026 年首页主推储能/太阳能（Deye BOS-B Pro、Inverex 11.8kWh 等），说明品类在向能源扩张",
-      "quote": "Deye BOS-B Pro-C&I ESS Solution HV 16.08kWh LiFePO4 Battery … Inverex Solar Air Conditioner with Built-in Solar MPPT Inverter",
-      "url": "https://asteldigicom.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网",
-      "claim": "自有品牌 AST-IMC-GB-POE-8E2U2S-PSE 工业千兆 PoE 交换机规格",
-      "quote": "The AST-IMC-GB-PoE-8E2U2S-PSE-series is a full gigabit industrial PoE switch independently developed by ASTEL. It has 10x10/100/1000M RJ45 ports and 2x100/1000 SFP slot ports, Port 1-8 can support IEEE 802.3af/at … maximum POE output power is 240W … Power Supply No, you can purchase industrial power supply 48V/120W or 48V/240W",
-      "url": "https://asteldigicom.com/industrial-media-converters-unmanaged-8-port-poe-full-gigabit.-a.html",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网",
-      "claim": "AST-IMC-POE-8E2U2S-PSE 网店价 AED 575 有库存；10G L3 工业 PoE AED 1,375",
-      "quote": "INDUSTRIAL SWITCH UNMANAGED 8 PORT POE WITH 2 UPLINK AND 2 FIBER PORTS AED575.00 In stock … Industrial PoE Switch 16 Port 10G L3 Managed AED1,375.00 In stock",
-      "url": "https://asteldigicom.com/industrial-poe-switch-16-port-10g-l3-managed.-a.html",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "PI",
-      "claim": "成交单据 STAG20251127018（PI，2025-11-27）：HDR-15-24、STI-110GE、STI-140GE 共 8 台，USD 166.0；采购 SmartByte RMB 934.0；Simon 成本表利润 RMB 267.75",
-      "quote": "",
-      "url": "PI.zip:18 阿联酋 Sanjay 可发展/STAG20251127018.xls",
-      "date": "2025-11-27"
-    },
-    {
-      "kind": "PI",
-      "claim": "PI 包文件夹「阿联酋 Sanjay 可发展」：Simon 标签 可发展；单号 1 个，2025-11-27 → 2025-11-27，销售 USD 166.0 / RMB 0，Simon 成本统计利润合计 RMB 267.75",
-      "quote": "",
-      "url": "PI.zip:18 阿联酋 Sanjay 可发展",
-      "date": "2026-10-22"
-    },
-    {
-      "kind": "公开平台核查（T29-U18）",
-      "claim": "LinkedIn：Astel Digicom Electronics LLC，Wholesale，11-50 人，Dubai，2012 创立；FTTH/HFC 网络的线缆、网络与光纤设备供应商；地址 Baghlaf Building, Naif Road, Deira",
-      "quote": "Cables, Networking and Fiber Optic equipment supplier for all types for FTTH Networks, HFC Networks around the world … Shop no 22, Baghlaf Building, Naif Road, Deira, Dubai",
-      "url": "https://www.linkedin.com/company/astel-digicom-electronics-llc",
-      "date": "2026-10-23"
-    },
-    {
-      "kind": "公开平台核查（T29-U18）",
-      "claim": "官网联系页：+971-50-6520753 / +971 4 2523480，asteldigicom@eim.ae，周一至周六 09:30–14:00",
-      "quote": "Call Us +971-50-6520753 +971 4 2523480 - Email Us asteldigicom@eim.ae",
-      "url": "https://asteldigicom.com/contactu.html",
-      "date": "2026-10-23"
-    },
-    {
-      "kind": "公开平台核查（T29-U18）",
-      "claim": "RocketReach：8 名员工；管理层 Sanjay Singla（GM）、Yash Shahani、Rehman Rahim（销售代表）；Sanjay 2012 至今 GM，此前 Pan Asian Systems（1993-2001）",
-      "quote": "Astel Digicom Electronics LLC employs 8 employees. The Astel Digicom Electronics LLC management team includes Sanjay Singla (General Manger), Yash Shahani …",
-      "url": "https://rocketreach.co/astel-digicom-electronics-llc-management_b41a35eeff64aa38",
-      "date": "2026-10-23"
-    }
-  ],
-  "notes": "成单客户，S 重点名单；下一步按老客户回访做，主推工业 PoE 整线（替代其在卖的 ONV）。",
-  "researched_at": "2026-10-22",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "深挖 v1"
+ "code": "SA-001",
+ "name_official": "Astel Digicom（asteldigicom.com，关联 AVSS Group）",
+ "website_status": "在线（Magento 网店）",
+ "summary": "阿联酋线上/线下经销商，自称「House of all kinds of cables and connectors」，网店品类为线缆、连接器、网络产品；2026 年首页主推 Deye/Inverex 储能电池与太阳能产品，网络产品仍在目录内（用户备注的工业 MC/工业交换机页面）。GM Sanjay Singla 已成单。",
+ "type": "分销商/网店（线缆·网络·太阳能）",
+ "size": "未见规模数据（网店型中小经销商）",
+ "brands_seen": [
+  "ONV",
+  "Deye",
+  "Inverex",
+  "ASTEL"
+ ],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "定位：各类线缆与连接器一站式商店，全球发货、一站式、免费技术支持",
+   "quote": "Astel Digicom I House of all kinds of cables and connectors … WORLDWIDE DELIVERY · ONE STOP SHOP · FREE TECHNICAL SUPPORT",
+   "url": "https://asteldigicom.com/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "legal_name": "Astel Digicom（asteldigicom.com；关联 AVSS Group，用户表邮箱域 eim.ae）",
-    "hq": "UAE（Dubai，网店 + 门店）",
-    "other": "自有品牌 ASTEL/AST- 前缀工业 MC/交换机（产品页自称「independently developed by ASTEL」= 贴牌），网店标价 AED；GM Sanjay Singla 已成单"
+  {
+   "kind": "官网",
+   "claim": "2026 年首页主推储能/太阳能（Deye BOS-B Pro、Inverex 11.8kWh 等），说明品类在向能源扩张",
+   "quote": "Deye BOS-B Pro-C&I ESS Solution HV 16.08kWh LiFePO4 Battery … Inverex Solar Air Conditioner with Built-in Solar MPPT Inverter",
+   "url": "https://asteldigicom.com/",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "线缆/连接器（自称 House of all kinds of cables and connectors）",
-    "网络/电信：工业 MC 与工业 PoE 交换机（AST-IMC 系列，非管理/管理、10G L3）",
-    "光纤：工业千兆非 PoE MC/交换机（FOE-IMC 系列）",
-    "2026 主推：Deye/Inverex 储能与太阳能"
-  ],
-  "products_seen": [
-    {
-      "brand": "ASTEL",
-      "model": "AST-IMC-GB-POE-8E2U2S-PSE",
-      "spec": "工业非管理 8×GE PoE + 2×GE RJ45 + 2×SFP，240W/48VDC，af/at 30W/口，不含电源（需另购 48V/120W 或 240W 工业电源）",
-      "url": "https://asteldigicom.com/industrial-media-converters-unmanaged-8-port-poe-full-gigabit.-a.html",
-      "date": "2026-10-21",
-      "saga": "STI-288DGGPM"
-    },
-    {
-      "brand": "ASTEL",
-      "model": "AST-IMC-POE-8E2U2S-PSE（-O）",
-      "spec": "工业非管理 8×FE PoE + 2×GE combo + 2×SFP，网店价 AED 575，有库存",
-      "url": "https://asteldigicom.com/industrial-switch-unmanaged-8-port-poe-with-2xgbe-uplink-and-2xgb-sfp-ports.-a.html",
-      "date": "2026-10-21",
-      "saga": "STI-288DGGPM（千兆升级位）"
-    },
-    {
-      "brand": "ASTEL",
-      "model": "AST-IMC-10G-12E4S-SFP-O",
-      "spec": "工业 L3 管理 12×GE（8 PoE）+ 4×1G/10G SFP+，240W，网店价 AED 1,375",
-      "url": "https://asteldigicom.com/industrial-poe-switch-16-port-10g-l3-managed.-a.html",
-      "date": "2026-10-21",
-      "saga": "STC-424XGGPM-280W（机架位）/ 工业 10G 待 SmartByte 核型"
-    },
-    {
-      "brand": "ASTEL",
-      "model": "FOE-IMC-GB-1E1S / 4E1S / 1E2F / 4E2F",
-      "spec": "工业千兆非 PoE MC/小交换机 RJ45+SFP/双纤",
-      "url": "https://asteldigicom.com/fiber-optic/all-products.html",
-      "date": "2026-10-21",
-      "saga": "STI-110GE"
-    }
-  ],
-  "channels": {
-    "网站/网店": "https://asteldigicom.com/（AED 标价，可下单；首页有 WhatsApp 按钮）",
-    "直邮": "asteldig@asteldigicom.ae / asteldigicom@eim.ae / navsim@eim.ae（用户表）",
-    "联系人": "Sanjay Singla（GM，成单）",
-    "公开动态平台（监控中，T29-U18）": "LinkedIn 公司页（112 followers；员工 Sanjay Singla GM、Yash Shahani / Rehman Rahim / ali khan 销售）；官网 asteldigicom.com（静态 HTML）；B2B 目录 exportersindia / listofcompaniesin；迪拜 Deira Naif Road Baghlaf Building Shop 22（卫星市场）"
+  {
+   "kind": "官网",
+   "claim": "自有品牌 AST-IMC-GB-POE-8E2U2S-PSE 工业千兆 PoE 交换机规格",
+   "quote": "The AST-IMC-GB-PoE-8E2U2S-PSE-series is a full gigabit industrial PoE switch independently developed by ASTEL. It has 10x10/100/1000M RJ45 ports and 2x100/1000 SFP slot ports, Port 1-8 can support IEEE 802.3af/at … maximum POE output power is 240W … Power Supply No, you can purchase industrial power supply 48V/120W or 48V/240W",
+   "url": "https://asteldigicom.com/industrial-media-converters-unmanaged-8-port-poe-full-gigabit.-a.html",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "2026-10-23 核查：Astel 是迪拜 Deira 卫星市场的线缆/光纤/FTTH/HFC 批发商（2012 年，11-50 人，8 人在册），无博客/新闻源；唯一「动态」= LinkedIn 公司页与 Sanjay 个人页——人工每月看一次即可；对口产品 = FTTH 配套 PoE 交换机/光纤收发器批发价",
-    "网店工业 PoE 交换机页面均「In stock」且有 -O 变体——在持续备货销售自有 AST 品牌（2026-10-21）",
-    "用户表：问过 ONV 工业 FS 与工业电源；已成单"
-  ],
-  "risks": [
-    "其 AST 系列规格（8E2U2S、10G L3）是典型华南 ODM 公版，价格竞争激烈，需以 Marvell 芯片 + 一致性 + 交期取胜",
-    "阿联酋转口贸易，可能分销到伊朗等受限地区——仅按 UAE 本地项目报，守界"
-  ],
-  "saga_fit": {
-    "p1": "STI-288DGGPM",
-    "tier": 30,
-    "why": "其主力 AST-IMC-GB-POE-8E2U2S-PSE（8 GE PoE + 2 SFP 工业）与 STI-288DGGPM 同位，自有品牌贴牌 30% 档；千兆 MC 对位 STI-110GE；10G L3 工业机需 SmartByte 另核"
+  {
+   "kind": "官网",
+   "claim": "AST-IMC-POE-8E2U2S-PSE 网店价 AED 575 有库存；10G L3 工业 PoE AED 1,375",
+   "quote": "INDUSTRIAL SWITCH UNMANAGED 8 PORT POE WITH 2 UPLINK AND 2 FIBER PORTS AED575.00 In stock … Industrial PoE Switch 16 Port 10G L3 Managed AED1,375.00 In stock",
+   "url": "https://asteldigicom.com/industrial-poe-switch-16-port-10g-l3-managed.-a.html",
+   "date": "2026-10-21"
   },
-  "email_hook": "The AST-IMC-GB-POE-8E2U2S class 8-port gigabit industrial PoE unit is the one we can supply with ASTEL packing on a Marvell platform, so I am quoting it with and without the 48 V 240 W DIN power supply you asked about last time.",
-  "deal_pi": {
-    "folder": "18 阿联酋 Sanjay 可发展",
-    "simon_label": "可发展",
-    "pay": "",
-    "bind": "",
-    "buyer": "ASTEL DIGICOM Electronics LLC",
-    "orders": 1,
-    "first": "2025-11-27",
-    "last": "2025-11-27",
-    "usd": 166.0,
-    "rmb": 0.0,
-    "profit_rmb": 267.75,
-    "models": "HDR-15-24、STI-110GE、STI-140GE"
+  {
+   "kind": "PI",
+   "claim": "成交单据 STAG20251127018（PI，2025-11-27）：HDR-15-24、STI-110GE、STI-140GE 共 8 台，USD 166.0；采购 SmartByte RMB 934.0；Simon 成本表利润 RMB 267.75",
+   "quote": "",
+   "url": "PI.zip:18 阿联酋 Sanjay 可发展/STAG20251127018.xls",
+   "date": "2025-11-27"
   },
-  "kp": [
-    {
-      "name": "Sanjay Singla",
-      "role": "General Manager",
-      "email": "asteldigicom@eim.ae; navsim@eim.ae",
-      "phone": "",
-      "source": "PI.zip 单据"
-    }
-  ],
-  "grade_override": "A",
-  "override_reason": "PI 包成单客户，Simon 标签 可发展 → A",
-  "mail_review": {
-    "binding": {
-      "level": "轻度绑定（1 张 PayPal 样品单 $166，2025-11-27：STI-110GE ×2 + STI-140GE ×2 + Meanwell HDR-15-24 ×4，为 1,000 台迪拜标书打样；2025-12-01 付款后邮件静默，后续在 WeChat/Simon）",
-      "type": "迪拜线缆/网络/太阳能分销 + 网店（ASTEL Digicom，AVSS 集团；GM Sanjay Singla 直联，navsim@eim.ae）——第三档分销，但手里有一张 1,000 台的标书",
-      "sieve": "5（付样 + 付款 + 走广州货代）；在 2024-06 已明确接受「we are a trading company / Realtek chip」的回答",
-      "stop": "邮件最后一封 2025-12-01「We have processed your payment… Shipping address and Shipping marks have been advised on WeChat」。标书结果（Specs approval → Sample approval → Supply 1,000 pcs）在仓库里没有后续——是全库最值钱的一个未知数",
-      "revive": "不需要复活，需要「问结果」：样品是否通过规格/样品审批；若没中，输给了谁、差在哪（-20~+65℃ 是其规格，Saga 给的是 -40~+75℃，温度不是问题；PSU 要 DIN 导轨——已给 Meanwell）",
-      "lane": "AE 非主攻——但这是成单 + 标书户，按 J5 不看地区看证据",
-      "cadence": "现在一句话（距付款 11 个月）；之后每季度一次，只谈标书与复购",
-      "evidence": "k=4911955d4797da97 / 5ed4454b3d299f1d / f7eeb34e0ebf238b（2024-06 身份与芯片原话）；ca2fc1d1b52d5bb7 / 13c00bbc4cc5b9d8（2025-04 三款询价 → STI-244DGGPM $110 / STI-288DGGPM $125）；3ef374eddbbcccae（2025-10 要 QC/测试实验室照片）；4aabcfb3fec906ec（2025-11-24 标书 1,000 pcs）；ccb8973fe01fa794 / 64602c769ad83ca4 / 602605b78b95b93c（「no proper model, just something close」→ STI-140GE $30 含双纤模块 → HDR-15-24 $10）；05f51c687ba38b88 / 5ec435ffe9b9305e / 0cc642cb3b5505fb（样品 PayPal、发票、付款）；PI STAG20251127018（$166；成本统计：收 1,201.75 RMB / 成本 934 / 利润 267.75）；第 19 批回补来信原文 1 条（gmail_s/gmail_a）"
-    },
-    "situation": "Sanjay 是两年里一步一步走完筛子的人：2024-06 问 2.5G SFP 环网 + 120W 电源，Simon 直说「honestly we are a trading company… realtek chip」，他没走；2025-04 一次问三款（4/8/12+ 口 PoE 带 NMS 口）并问质保与测试证书，Simon 报 $110/$125；2025-10 要 QC 实验室照片和 PDF 目录；2025-11-24 拿出一张标书：带 4 口交换的 MC、SC/PC 双纤、-20~+65℃，中标可到 1,000 pcs，流程「规格审批 → 样品审批 → 供货」。Alan 先说没有正好的型号，再给 STI-140GE $30（含双纤模块）与 DIN 导轨 Meanwell 电源 $10；Sanjay 当天要 2+2 台样品、PayPal、发广州货代，并要 WeChat 快速沟通——Alan 把 WeChat 交给 Simon。12-01 付款。之后邮件无一封：标书结果、样品评测、1,000 台——仓库全无。",
-    "need": "标书：工业 MC/4 口交换（1 光 SC/PC + 4 电，非 PoE，非管理，-20~+65℃）+ DIN 电源；日常：工业 PoE 整线替代其在售 ONV（研究档）。",
-    "breakpoint": "没有断点，是「断档」：从邮件转到 WeChat 后仓库失明 11 个月。按 C9「邮件是档案、WhatsApp/WeChat 是现场」，这里需要 Simon 把标书结果补一句进来。",
-    "saga_now": {
-      "p1": "STI-140GE（已打样）+ HDR-15-24；若中标 1,000 台 → 走 SmartByte 下单与分批交付",
-      "tier": 20,
-      "price": "STI-140GE $30 含双纤模块（2025-11 报价；成本按成本统计 185 RMB/台 ≈ $27.7 @6.69 → 毛利仅 ≈8%——1,000 台时必须按价格主表重算，Realtek/Marvell 底线 20/25%）；群发里他已看到的价（续，第 66 批全量复核）：2024-12-13 $300（48 Port PoE Managed Switch）、2025-07-28 $240（24 Port Fiber Switch）、2025-10-22 $280（10G Enterprise SFP Switch）；**1,000 台时的 PSU 锚**：Saga 自家 DIN 电源表（`Extra Info/Price/Price List_DIN Power Adapter.xls`）STI-PA-20W-24V0.83A 1~49 台 $11 / 50~100 $10 / 101~300 $9 / 301~500 $8 / **501~1000 $7**（塑壳 DIN，CE/RoHS/UKCA/UL）——比样品时按 MEAN WELL HDR-15-24 报的 $10 便宜 30%，标书重报时用这个档；要金属壳 48V 则 STI-PA-75W-48V 501~1000 $14",
-      "why": "成交 + 标书 + GM 直联 + 两年筛子已过——A 级里证据最硬的非欧美户之一｜已发资料（勿重发）：STI-PA-120W-48V2.5A(2024-06-29)、STI-244DGGPM(2024-06-29)、PROFILE(2025-01-06)、Saga Software Function List-release 7.(2025-03-26)、STI-288DGGPM(2025-04-28)、Download Link_Alan(2025-10-22)、STI-140GE(2025-11-25)；已发单据：STAG20251127018(2025-11-27)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）｜对外统一口径（#9）：2025-11-27 Alan 给 Sanjay 的信里写了 s.sagatelecom PayPal 地址与 152 手机号（《计划》：外发材料不带 152 号与 s. 邮箱）——已发生不追，后续材料走 a. 邮箱 + WhatsApp 跳转｜毛利复盘：一单 22.3%（STI-110GE 162 / STI-140GE 185 / HDR-15-24 60）——正常偏低，PayPal 5% 另计",
-      "repeat": [
-        "2025-11-27 样品单（唯一）"
-      ],
-      "gaps": [
-        "标书结果未知（WeChat）",
-        "1,000 台价格未重算（样品价毛利 ≈8%）",
-        "Sanjay 2025-10 要的「QC/测试实验室照片」——Saga 无实验室，当时只回了下载链接；若标书推进会再被问到"
-      ]
-    },
-    "next_move": {
-      "when": "现在（Simon WeChat 一句话）；邮件层 2026-11 一封",
-      "channel": "WeChat（Simon）→ 邮件 navsim@eim.ae 存档",
-      "action": "问标书三件事：样品过没过、对方要的供货窗口、1,000 台的目标单价；同时把价格按主表重算后再报",
-      "one_question": "Sanjay — did the STI-140GE + HDR-15-24 samples pass the tender's spec/sample approval, and if the 1,000-pc supply is still on the table, what target unit price and delivery window are they asking for?"
-    },
-    "facts": [
-      {
-        "date": "2024-06-29",
-        "dir": "来",
-        "who": "Sanjay Singla（GM）",
-        "quote": "Need minimum 2 SFP So that we can loop the fiber connectivity… 2.5G… Also suggest good power supply 120W.",
-        "why": "首个真实需求（环网）",
-        "k": "4911955d4797da97"
-      },
-      {
-        "date": "2024-06-29",
-        "dir": "去",
-        "who": "Simon",
-        "quote": "For approval/certification, honestly we are a trading company. For the switch, there is CE, FCC, RoHS… realtek chip",
-        "why": "身份与芯片实话——对方没走",
-        "k": "f7eeb34e0ebf238b"
-      },
-      {
-        "date": "2025-01-06",
-        "dir": "来",
-        "who": "navsim@eim.ae",
-        "quote": "Hello MR Simon May we have your website URL or PDF catalogue to see the products in detail. Thanks and best regards Sanjay Singla General Manager ASTE",
-        "why": "来信原文（主题「RE: Industrial PoE Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
-        "k": "f18cc2e1fa27d344"
-      },
-      {
-        "date": "2025-01-06",
-        "dir": "去",
-        "who": "Saga（Simon）",
-        "quote": "Hi, Sanjay, Please check attached PROFILE and below google drive link(containing full information). *https://drive.google.com/drive/folders/1PKhmEboNZkl105nBUotOBcTBrH9qX6EU?usp=drive_link <https://drive.google.com/drive/folders/1PKhmEboNZkl105nBUotOBcTBrH9qX6EU?usp=drive_link>*…",
-        "why": "Saga 实质答复原文（主题「Re: Industrial PoE Switch」；第 20 批从 gmail_s 回补）——承诺/口径以此为准",
-        "k": "27d005cda6b7196c"
-      },
-      {
-        "date": "2025-04-28",
-        "dir": "来",
-        "who": "Sanjay",
-        "quote": "Please advise the best pricing for 4 Port GB x POE with 2 SFP Uplinks, and 1 NMS Port RJ45; 8 Port…; 12 or higher… How many years warranty… any testing certificate",
-        "why": "三款询价 + 质保 + 证书",
-        "k": "ca2fc1d1b52d5bb7"
-      },
-      {
-        "date": "2025-04-28",
-        "dir": "去",
-        "who": "Simon",
-        "quote": "STI-244DGGPM, 110usd/pc… STI-288DGGPM, 125usd/pc…",
-        "why": "报价",
-        "k": "13c00bbc4cc5b9d8"
-      },
-      {
-        "date": "2025-10-22",
-        "dir": "来",
-        "who": "Sanjay",
-        "quote": "Please send pictures of your QC/Testing lab as well. May we have your PDF catalogue",
-        "why": "尽调（实验室）",
-        "k": "3ef374eddbbcccae"
-      },
-      {
-        "date": "2025-11-24",
-        "dir": "来",
-        "who": "Sanjay",
-        "quote": "Media Converter with 4 Port Switch… 1x Fiber Out- Duplex SC/PC… -20degC to+65 degC… This is for a tender… IF accepted- they may take 1000 pcs. Steps: 1. Specs approval 2. Sample approval 3. Supply of goods",
-        "why": "标书 1,000 台",
-        "k": "4aabcfb3fec906ec"
-      },
-      {
-        "date": "2025-11-25",
-        "dir": "去",
-        "who": "Alan",
-        "quote": "Sorry to tell you that, we do not have a proper model for this tender. Just something close.",
-        "why": "先说没有",
-        "k": "ccb8973fe01fa794"
-      },
-      {
-        "date": "2025-11-25",
-        "dir": "去",
-        "who": "Alan",
-        "quote": "Price is 30usd/pc STI-140GE… the price 30usd is actually including duplex fiber module… power adapter, it is din rail mounted… hdr-15-24 meanwell… Price is 10usd/pc",
-        "why": "报价修正 + 电源",
-        "k": "602605b78b95b93c"
-      },
-      {
-        "date": "2025-11-25",
-        "dir": "来",
-        "who": "ASTEL Digicom（Sanjay）",
-        "quote": "If you are providing us DIN Rail mounted switch, then PSU should also be DIN Rail mounted. Normal adapters may not be suitable and are not industrial quality. Please immediately send us the PSU picture specs… How about replacing the SFP port with SC PC dual fiber module. Is it possible or we must ask customer to accept SFP Port only. Please offer price 1. For the Industrial switch 2. For the PSU (220V Input and Output DC 12V/24V…)",
-        "why": "样品单（STAG20251127018，STI-110GE ×2 + STI-140GE ×4 $166）前两天的两个硬要求：DIN 导轨电源（Meanwell HDR 系列可对位）+ SC 双纤固定口替代 SFP——第二条 Saga 现货没有，只能 SFP + SC 模块；印度集成商的终端客户规格常写死 SC 口",
-        "k": "gmail_a 2025-11-25 RE: 10G Enterprise SFP Switch"
-      },
-      {
-        "date": "2025-11-27",
-        "dir": "来",
-        "who": "Sanjay",
-        "quote": "I need two samples of this model with Power Supply… I shall pay by Paypal. You need to send the goods to our forwarder in Guangzhou… How can I reach on wechat for faster communication",
-        "why": "付样 + 广州货代 + 要 WeChat",
-        "k": "05f51c687ba38b88"
-      },
-      {
-        "date": "2025-11-27",
-        "dir": "去",
-        "who": "Alan",
-        "quote": "Please see attached invoice… PayPal payment is to: s.sagatelecom@gmail.com… About WeChat, please contact Simon 86-15237149683",
-        "why": "发票 + 交接给 Simon",
-        "k": "5ec435ffe9b9305e"
-      },
-      {
-        "date": "2025-11-27",
-        "dir": "PI",
-        "who": "Simon → Astel",
-        "quote": "STI-110GE 2×26.5 + STI-140GE 2×30 + 运费 5 + PayPal 8 = 166 USD；成本统计：总收款 1,201.75 RMB，成本 934，利润 267.75",
-        "why": "样品单经济账",
-        "k": "PI STAG20251127018"
-      },
-      {
-        "date": "2025-11-27",
-        "dir": "去",
-        "who": "Saga PI STAG20251127018（Alan）",
-        "quote": "Buyer: ASTEL DIGICOM Electronics LLC（Sanjay Singla, GM；navsim@eim.ae / asteldigicom@eim.ae）Payment Term: T/T in advance, EXW；Shipping Address: Client's forwarder in Guangzhou；STI-110GE（1×GE SC SM 20KM + 1×RJ45，非 PoE 非管理，-40~75℃）2 pcs × $26.5 = $53.0；HS 8517622990",
-        "why": "最新 PI 原文（2025-12-01 由客户回传）：ASTEL 小批量工业 MC 式交换机 $26.5 EXW，客户自有广州货代 → 物流「客户货代」线；主表 STI-110GE 列表 $29.7",
-        "k": "gmail_a att STAG20251127018.pdf"
-      },
-      {
-        "date": "2025-11-27",
-        "dir": "内",
-        "who": "Simon 成本表（PI 包）",
-        "quote": "内部《成本统计.xlsx》：STAG20251127018：成本 934 / 收款 1,202 / 利润 268（22.3%）",
-        "why": "利润率 = 利润÷收款；对照 20/25/30 加价 = 16.7%/20%/23% 毛利；详见 docs/成单客户_毛利复盘_内部_2026-10-24.md",
-        "k": "cost_sheet"
-      },
-      {
-        "date": "2025-12-01",
-        "dir": "来",
-        "who": "Sanjay",
-        "quote": "We have processed your payment… Shipping address and Shipping marks have been advised on WeChat.",
-        "why": "付款；邮件到此为止",
-        "k": "0cc642cb3b5505fb"
-      }
-    ],
-    "proof_gaps": [
-      "2025-12 之后全部在 WeChat（Simon 手机）：标书结果、样品评测、是否有第二单——仓库无"
-    ],
-    "draft_en": {
-      "subject": "STI-140GE samples — tender result (for the record)",
-      "body": "Hi, Sanjay,\n\nFor the record on email, following our WeChat chats: after the STI-110GE / STI-140GE samples with HDR-15-24 power supplies (paid Dec 2025), I would like to know how the tender went.\n\nIf the 1,000-pc supply is still on the table, we can hold price per batch (quotation valid 15 days from issue), ship in lots and keep the same test report for every batch.\n\nOne question: did the samples pass the tender's spec/sample approval, and what target unit price and delivery window are they asking for?\n\nThank you.\nSimon"
-    },
-    "as_of": "2026-10-24"
+  {
+   "kind": "PI",
+   "claim": "PI 包文件夹「阿联酋 Sanjay 可发展」：Simon 标签 可发展；单号 1 个，2025-11-27 → 2025-11-27，销售 USD 166.0 / RMB 0，Simon 成本统计利润合计 RMB 267.75",
+   "quote": "",
+   "url": "PI.zip:18 阿联酋 Sanjay 可发展",
+   "date": "2026-10-22"
   },
-  "watch": {
-    "as_of": "2026-10-23",
-    "github_watch": [],
-    "web_watch_targets": "scripts/web_watch/targets.json#SA-001",
-    "status": "data/customer_watch/当前状态.md",
-    "log": "data/customer_watch/变化日志.md"
+  {
+   "kind": "公开平台核查（T29-U18）",
+   "claim": "LinkedIn：Astel Digicom Electronics LLC，Wholesale，11-50 人，Dubai，2012 创立；FTTH/HFC 网络的线缆、网络与光纤设备供应商；地址 Baghlaf Building, Naif Road, Deira",
+   "quote": "Cables, Networking and Fiber Optic equipment supplier for all types for FTTH Networks, HFC Networks around the world … Shop no 22, Baghlaf Building, Naif Road, Deira, Dubai",
+   "url": "https://www.linkedin.com/company/astel-digicom-electronics-llc",
+   "date": "2026-10-23"
+  },
+  {
+   "kind": "公开平台核查（T29-U18）",
+   "claim": "官网联系页：+971-50-6520753 / +971 4 2523480，asteldigicom@eim.ae，周一至周六 09:30–14:00",
+   "quote": "Call Us +971-50-6520753 +971 4 2523480 - Email Us asteldigicom@eim.ae",
+   "url": "https://asteldigicom.com/contactu.html",
+   "date": "2026-10-23"
+  },
+  {
+   "kind": "公开平台核查（T29-U18）",
+   "claim": "RocketReach：8 名员工；管理层 Sanjay Singla（GM）、Yash Shahani、Rehman Rahim（销售代表）；Sanjay 2012 至今 GM，此前 Pan Asian Systems（1993-2001）",
+   "quote": "Astel Digicom Electronics LLC employs 8 employees. The Astel Digicom Electronics LLC management team includes Sanjay Singla (General Manger), Yash Shahani …",
+   "url": "https://rocketreach.co/astel-digicom-electronics-llc-management_b41a35eeff64aa38",
+   "date": "2026-10-23"
   }
+ ],
+ "notes": "成单客户，S 重点名单；下一步按老客户回访做，主推工业 PoE 整线（替代其在卖的 ONV）。",
+ "researched_at": "2026-10-22",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "深挖 v1"
+ },
+ "company_facts": {
+  "legal_name": "Astel Digicom（asteldigicom.com；关联 AVSS Group，用户表邮箱域 eim.ae）",
+  "hq": "UAE（Dubai，网店 + 门店）",
+  "other": "自有品牌 ASTEL/AST- 前缀工业 MC/交换机（产品页自称「independently developed by ASTEL」= 贴牌），网店标价 AED；GM Sanjay Singla 已成单"
+ },
+ "business_lines": [
+  "线缆/连接器（自称 House of all kinds of cables and connectors）",
+  "网络/电信：工业 MC 与工业 PoE 交换机（AST-IMC 系列，非管理/管理、10G L3）",
+  "光纤：工业千兆非 PoE MC/交换机（FOE-IMC 系列）",
+  "2026 主推：Deye/Inverex 储能与太阳能"
+ ],
+ "products_seen": [
+  {
+   "brand": "ASTEL",
+   "model": "AST-IMC-GB-POE-8E2U2S-PSE",
+   "spec": "工业非管理 8×GE PoE + 2×GE RJ45 + 2×SFP，240W/48VDC，af/at 30W/口，不含电源（需另购 48V/120W 或 240W 工业电源）",
+   "url": "https://asteldigicom.com/industrial-media-converters-unmanaged-8-port-poe-full-gigabit.-a.html",
+   "date": "2026-10-21",
+   "saga": "STI-288DGGPM"
+  },
+  {
+   "brand": "ASTEL",
+   "model": "AST-IMC-POE-8E2U2S-PSE（-O）",
+   "spec": "工业非管理 8×FE PoE + 2×GE combo + 2×SFP，网店价 AED 575，有库存",
+   "url": "https://asteldigicom.com/industrial-switch-unmanaged-8-port-poe-with-2xgbe-uplink-and-2xgb-sfp-ports.-a.html",
+   "date": "2026-10-21",
+   "saga": "STI-288DGGPM（千兆升级位）"
+  },
+  {
+   "brand": "ASTEL",
+   "model": "AST-IMC-10G-12E4S-SFP-O",
+   "spec": "工业 L3 管理 12×GE（8 PoE）+ 4×1G/10G SFP+，240W，网店价 AED 1,375",
+   "url": "https://asteldigicom.com/industrial-poe-switch-16-port-10g-l3-managed.-a.html",
+   "date": "2026-10-21",
+   "saga": "STC-424XGGPM-280W（机架位）/ 工业 10G 待 SmartByte 核型"
+  },
+  {
+   "brand": "ASTEL",
+   "model": "FOE-IMC-GB-1E1S / 4E1S / 1E2F / 4E2F",
+   "spec": "工业千兆非 PoE MC/小交换机 RJ45+SFP/双纤",
+   "url": "https://asteldigicom.com/fiber-optic/all-products.html",
+   "date": "2026-10-21",
+   "saga": "STI-110GE"
+  }
+ ],
+ "channels": {
+  "网站/网店": "https://asteldigicom.com/（AED 标价，可下单；首页有 WhatsApp 按钮）",
+  "直邮": "asteldig@asteldigicom.ae / asteldigicom@eim.ae / navsim@eim.ae（用户表）",
+  "联系人": "Sanjay Singla（GM，成单）",
+  "公开动态平台（监控中，T29-U18）": "LinkedIn 公司页（112 followers；员工 Sanjay Singla GM、Yash Shahani / Rehman Rahim / ali khan 销售）；官网 asteldigicom.com（静态 HTML）；B2B 目录 exportersindia / listofcompaniesin；迪拜 Deira Naif Road Baghlaf Building Shop 22（卫星市场）"
+ },
+ "signals": [
+  "2026-10-23 核查：Astel 是迪拜 Deira 卫星市场的线缆/光纤/FTTH/HFC 批发商（2012 年，11-50 人，8 人在册），无博客/新闻源；唯一「动态」= LinkedIn 公司页与 Sanjay 个人页——人工每月看一次即可；对口产品 = FTTH 配套 PoE 交换机/光纤收发器批发价",
+  "网店工业 PoE 交换机页面均「In stock」且有 -O 变体——在持续备货销售自有 AST 品牌（2026-10-21）",
+  "用户表：问过 ONV 工业 FS 与工业电源；已成单"
+ ],
+ "risks": [
+  "其 AST 系列规格（8E2U2S、10G L3）是典型华南 ODM 公版，价格竞争激烈，需以 Marvell 芯片 + 一致性 + 交期取胜",
+  "阿联酋转口贸易，可能分销到伊朗等受限地区——仅按 UAE 本地项目报，守界"
+ ],
+ "saga_fit": {
+  "p1": "STI-288DGGPM",
+  "tier": 30,
+  "why": "其主力 AST-IMC-GB-POE-8E2U2S-PSE（8 GE PoE + 2 SFP 工业）与 STI-288DGGPM 同位，自有品牌贴牌 30% 档；千兆 MC 对位 STI-110GE；10G L3 工业机需 SmartByte 另核"
+ },
+ "email_hook": "The AST-IMC-GB-POE-8E2U2S class 8-port gigabit industrial PoE unit is the one we can supply with ASTEL packing on a Marvell platform, so I am quoting it with and without the 48 V 240 W DIN power supply you asked about last time.",
+ "deal_pi": {
+  "folder": "18 阿联酋 Sanjay 可发展",
+  "simon_label": "可发展",
+  "pay": "",
+  "bind": "",
+  "buyer": "ASTEL DIGICOM Electronics LLC",
+  "orders": 1,
+  "first": "2025-11-27",
+  "last": "2025-11-27",
+  "usd": 166.0,
+  "rmb": 0.0,
+  "profit_rmb": 267.75,
+  "models": "HDR-15-24、STI-110GE、STI-140GE"
+ },
+ "kp": [
+  {
+   "name": "Sanjay Singla",
+   "role": "General Manager",
+   "email": "asteldigicom@eim.ae; navsim@eim.ae",
+   "phone": "",
+   "source": "PI.zip 单据"
+  }
+ ],
+ "grade_override": "A",
+ "override_reason": "PI 包成单客户，Simon 标签 可发展 → A",
+ "mail_review": {
+  "binding": {
+   "level": "轻度绑定（1 张 PayPal 样品单 $166，2025-11-27：STI-110GE ×2 + STI-140GE ×2 + Meanwell HDR-15-24 ×4，为 1,000 台迪拜标书打样；2025-12-01 付款后邮件静默，后续在 WeChat/Simon；Elsa 箱：`to:asteldigicom.com OR to:asteldigicom.ae` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 38 / 来 14）（第 74 批(g)））",
+   "type": "迪拜线缆/网络/太阳能分销 + 网店（ASTEL Digicom，AVSS 集团；GM Sanjay Singla 直联，navsim@eim.ae）——第三档分销，但手里有一张 1,000 台的标书",
+   "sieve": "5（付样 + 付款 + 走广州货代）；在 2024-06 已明确接受「we are a trading company / Realtek chip」的回答",
+   "stop": "邮件最后一封 2025-12-01「We have processed your payment… Shipping address and Shipping marks have been advised on WeChat」。标书结果（Specs approval → Sample approval → Supply 1,000 pcs）在仓库里没有后续——是全库最值钱的一个未知数",
+   "revive": "不需要复活，需要「问结果」：样品是否通过规格/样品审批；若没中，输给了谁、差在哪（-20~+65℃ 是其规格，Saga 给的是 -40~+75℃，温度不是问题；PSU 要 DIN 导轨——已给 Meanwell）",
+   "lane": "AE 非主攻——但这是成单 + 标书户，按 J5 不看地区看证据",
+   "cadence": "现在一句话（距付款 11 个月）；之后每季度一次，只谈标书与复购",
+   "evidence": "k=4911955d4797da97 / 5ed4454b3d299f1d / f7eeb34e0ebf238b（2024-06 身份与芯片原话）；ca2fc1d1b52d5bb7 / 13c00bbc4cc5b9d8（2025-04 三款询价 → STI-244DGGPM $110 / STI-288DGGPM $125）；3ef374eddbbcccae（2025-10 要 QC/测试实验室照片）；4aabcfb3fec906ec（2025-11-24 标书 1,000 pcs）；ccb8973fe01fa794 / 64602c769ad83ca4 / 602605b78b95b93c（「no proper model, just something close」→ STI-140GE $30 含双纤模块 → HDR-15-24 $10）；05f51c687ba38b88 / 5ec435ffe9b9305e / 0cc642cb3b5505fb（样品 PayPal、发票、付款）；PI STAG20251127018（$166；成本统计：收 1,201.75 RMB / 成本 934 / 利润 267.75）；第 19 批回补来信原文 1 条（gmail_s/gmail_a）"
+  },
+  "situation": "Sanjay 是两年里一步一步走完筛子的人：2024-06 问 2.5G SFP 环网 + 120W 电源，Simon 直说「honestly we are a trading company… realtek chip」，他没走；2025-04 一次问三款（4/8/12+ 口 PoE 带 NMS 口）并问质保与测试证书，Simon 报 $110/$125；2025-10 要 QC 实验室照片和 PDF 目录；2025-11-24 拿出一张标书：带 4 口交换的 MC、SC/PC 双纤、-20~+65℃，中标可到 1,000 pcs，流程「规格审批 → 样品审批 → 供货」。Alan 先说没有正好的型号，再给 STI-140GE $30（含双纤模块）与 DIN 导轨 Meanwell 电源 $10；Sanjay 当天要 2+2 台样品、PayPal、发广州货代，并要 WeChat 快速沟通——Alan 把 WeChat 交给 Simon。12-01 付款。之后邮件无一封：标书结果、样品评测、1,000 台——仓库全无。",
+  "need": "标书：工业 MC/4 口交换（1 光 SC/PC + 4 电，非 PoE，非管理，-20~+65℃）+ DIN 电源；日常：工业 PoE 整线替代其在售 ONV（研究档）。",
+  "breakpoint": "没有断点，是「断档」：从邮件转到 WeChat 后仓库失明 11 个月。按 C9「邮件是档案、WhatsApp/WeChat 是现场」，这里需要 Simon 把标书结果补一句进来。",
+  "saga_now": {
+   "p1": "STI-140GE（已打样）+ HDR-15-24；若中标 1,000 台 → 走 SmartByte 下单与分批交付",
+   "tier": 20,
+   "price": "STI-140GE $30 含双纤模块（2025-11 报价；成本按成本统计 185 RMB/台 ≈ $27.7 @6.69 → 毛利仅 ≈8%——1,000 台时必须按价格主表重算，Realtek/Marvell 底线 20/25%）；群发里他已看到的价（续，第 66 批全量复核）：2024-12-13 $300（48 Port PoE Managed Switch）、2025-07-28 $240（24 Port Fiber Switch）、2025-10-22 $280（10G Enterprise SFP Switch）；**1,000 台时的 PSU 锚**：Saga 自家 DIN 电源表（`Extra Info/Price/Price List_DIN Power Adapter.xls`）STI-PA-20W-24V0.83A 1~49 台 $11 / 50~100 $10 / 101~300 $9 / 301~500 $8 / **501~1000 $7**（塑壳 DIN，CE/RoHS/UKCA/UL）——比样品时按 MEAN WELL HDR-15-24 报的 $10 便宜 30%，标书重报时用这个档；要金属壳 48V 则 STI-PA-75W-48V 501~1000 $14",
+   "why": "成交 + 标书 + GM 直联 + 两年筛子已过——A 级里证据最硬的非欧美户之一｜已发资料（勿重发）：STI-PA-120W-48V2.5A(2024-06-29)、STI-244DGGPM(2024-06-29)、PROFILE(2025-01-06)、Saga Software Function List-release 7.(2025-03-26)、STI-288DGGPM(2025-04-28)、Download Link_Alan(2025-10-22)、STI-140GE(2025-11-25)；已发单据：STAG20251127018(2025-11-27)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）｜对外统一口径（#9）：2025-11-27 Alan 给 Sanjay 的信里写了 s.sagatelecom PayPal 地址与 152 手机号（《计划》：外发材料不带 152 号与 s. 邮箱）——已发生不追，后续材料走 a. 邮箱 + WhatsApp 跳转｜毛利复盘：一单 22.3%（STI-110GE 162 / STI-140GE 185 / HDR-15-24 60）——正常偏低，PayPal 5% 另计",
+   "repeat": [
+    "2025-11-27 样品单（唯一）"
+   ],
+   "gaps": [
+    "标书结果未知（WeChat）",
+    "1,000 台价格未重算（样品价毛利 ≈8%）",
+    "Sanjay 2025-10 要的「QC/测试实验室照片」——Saga 无实验室，当时只回了下载链接；若标书推进会再被问到"
+   ]
+  },
+  "next_move": {
+   "when": "现在（Simon WeChat 一句话）；邮件层 2026-11 一封",
+   "channel": "WeChat（Simon）→ 邮件 navsim@eim.ae 存档",
+   "action": "问标书三件事：样品过没过、对方要的供货窗口、1,000 台的目标单价；同时把价格按主表重算后再报",
+   "one_question": "Sanjay — did the STI-140GE + HDR-15-24 samples pass the tender's spec/sample approval, and if the 1,000-pc supply is still on the table, what target unit price and delivery window are they asking for?"
+  },
+  "facts": [
+   {
+    "date": "2024-06-29",
+    "dir": "来",
+    "who": "Sanjay Singla（GM）",
+    "quote": "Need minimum 2 SFP So that we can loop the fiber connectivity… 2.5G… Also suggest good power supply 120W.",
+    "why": "首个真实需求（环网）",
+    "k": "4911955d4797da97"
+   },
+   {
+    "date": "2024-06-29",
+    "dir": "去",
+    "who": "Simon",
+    "quote": "For approval/certification, honestly we are a trading company. For the switch, there is CE, FCC, RoHS… realtek chip",
+    "why": "身份与芯片实话——对方没走",
+    "k": "f7eeb34e0ebf238b"
+   },
+   {
+    "date": "2025-01-06",
+    "dir": "来",
+    "who": "navsim@eim.ae",
+    "quote": "Hello MR Simon May we have your website URL or PDF catalogue to see the products in detail. Thanks and best regards Sanjay Singla General Manager ASTE",
+    "why": "来信原文（主题「RE: Industrial PoE Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+    "k": "f18cc2e1fa27d344"
+   },
+   {
+    "date": "2025-01-06",
+    "dir": "去",
+    "who": "Saga（Simon）",
+    "quote": "Hi, Sanjay, Please check attached PROFILE and below google drive link(containing full information). *https://drive.google.com/drive/folders/1PKhmEboNZkl105nBUotOBcTBrH9qX6EU?usp=drive_link <https://drive.google.com/drive/folders/1PKhmEboNZkl105nBUotOBcTBrH9qX6EU?usp=drive_link>*…",
+    "why": "Saga 实质答复原文（主题「Re: Industrial PoE Switch」；第 20 批从 gmail_s 回补）——承诺/口径以此为准",
+    "k": "27d005cda6b7196c"
+   },
+   {
+    "date": "2025-04-28",
+    "dir": "来",
+    "who": "Sanjay",
+    "quote": "Please advise the best pricing for 4 Port GB x POE with 2 SFP Uplinks, and 1 NMS Port RJ45; 8 Port…; 12 or higher… How many years warranty… any testing certificate",
+    "why": "三款询价 + 质保 + 证书",
+    "k": "ca2fc1d1b52d5bb7"
+   },
+   {
+    "date": "2025-04-28",
+    "dir": "去",
+    "who": "Simon",
+    "quote": "STI-244DGGPM, 110usd/pc… STI-288DGGPM, 125usd/pc…",
+    "why": "报价",
+    "k": "13c00bbc4cc5b9d8"
+   },
+   {
+    "date": "2025-10-22",
+    "dir": "来",
+    "who": "Sanjay",
+    "quote": "Please send pictures of your QC/Testing lab as well. May we have your PDF catalogue",
+    "why": "尽调（实验室）",
+    "k": "3ef374eddbbcccae"
+   },
+   {
+    "date": "2025-11-24",
+    "dir": "来",
+    "who": "Sanjay",
+    "quote": "Media Converter with 4 Port Switch… 1x Fiber Out- Duplex SC/PC… -20degC to+65 degC… This is for a tender… IF accepted- they may take 1000 pcs. Steps: 1. Specs approval 2. Sample approval 3. Supply of goods",
+    "why": "标书 1,000 台",
+    "k": "4aabcfb3fec906ec"
+   },
+   {
+    "date": "2025-11-25",
+    "dir": "去",
+    "who": "Alan",
+    "quote": "Sorry to tell you that, we do not have a proper model for this tender. Just something close.",
+    "why": "先说没有",
+    "k": "ccb8973fe01fa794"
+   },
+   {
+    "date": "2025-11-25",
+    "dir": "去",
+    "who": "Alan",
+    "quote": "Price is 30usd/pc STI-140GE… the price 30usd is actually including duplex fiber module… power adapter, it is din rail mounted… hdr-15-24 meanwell… Price is 10usd/pc",
+    "why": "报价修正 + 电源",
+    "k": "602605b78b95b93c"
+   },
+   {
+    "date": "2025-11-25",
+    "dir": "来",
+    "who": "ASTEL Digicom（Sanjay）",
+    "quote": "If you are providing us DIN Rail mounted switch, then PSU should also be DIN Rail mounted. Normal adapters may not be suitable and are not industrial quality. Please immediately send us the PSU picture specs… How about replacing the SFP port with SC PC dual fiber module. Is it possible or we must ask customer to accept SFP Port only. Please offer price 1. For the Industrial switch 2. For the PSU (220V Input and Output DC 12V/24V…)",
+    "why": "样品单（STAG20251127018，STI-110GE ×2 + STI-140GE ×4 $166）前两天的两个硬要求：DIN 导轨电源（Meanwell HDR 系列可对位）+ SC 双纤固定口替代 SFP——第二条 Saga 现货没有，只能 SFP + SC 模块；印度集成商的终端客户规格常写死 SC 口",
+    "k": "gmail_a 2025-11-25 RE: 10G Enterprise SFP Switch"
+   },
+   {
+    "date": "2025-11-27",
+    "dir": "来",
+    "who": "Sanjay",
+    "quote": "I need two samples of this model with Power Supply… I shall pay by Paypal. You need to send the goods to our forwarder in Guangzhou… How can I reach on wechat for faster communication",
+    "why": "付样 + 广州货代 + 要 WeChat",
+    "k": "05f51c687ba38b88"
+   },
+   {
+    "date": "2025-11-27",
+    "dir": "去",
+    "who": "Alan",
+    "quote": "Please see attached invoice… PayPal payment is to: s.sagatelecom@gmail.com… About WeChat, please contact Simon 86-15237149683",
+    "why": "发票 + 交接给 Simon",
+    "k": "5ec435ffe9b9305e"
+   },
+   {
+    "date": "2025-11-27",
+    "dir": "PI",
+    "who": "Simon → Astel",
+    "quote": "STI-110GE 2×26.5 + STI-140GE 2×30 + 运费 5 + PayPal 8 = 166 USD；成本统计：总收款 1,201.75 RMB，成本 934，利润 267.75",
+    "why": "样品单经济账",
+    "k": "PI STAG20251127018"
+   },
+   {
+    "date": "2025-11-27",
+    "dir": "去",
+    "who": "Saga PI STAG20251127018（Alan）",
+    "quote": "Buyer: ASTEL DIGICOM Electronics LLC（Sanjay Singla, GM；navsim@eim.ae / asteldigicom@eim.ae）Payment Term: T/T in advance, EXW；Shipping Address: Client's forwarder in Guangzhou；STI-110GE（1×GE SC SM 20KM + 1×RJ45，非 PoE 非管理，-40~75℃）2 pcs × $26.5 = $53.0；HS 8517622990",
+    "why": "最新 PI 原文（2025-12-01 由客户回传）：ASTEL 小批量工业 MC 式交换机 $26.5 EXW，客户自有广州货代 → 物流「客户货代」线；主表 STI-110GE 列表 $29.7",
+    "k": "gmail_a att STAG20251127018.pdf"
+   },
+   {
+    "date": "2025-11-27",
+    "dir": "内",
+    "who": "Simon 成本表（PI 包）",
+    "quote": "内部《成本统计.xlsx》：STAG20251127018：成本 934 / 收款 1,202 / 利润 268（22.3%）",
+    "why": "利润率 = 利润÷收款；对照 20/25/30 加价 = 16.7%/20%/23% 毛利；详见 docs/成单客户_毛利复盘_内部_2026-10-24.md",
+    "k": "cost_sheet"
+   },
+   {
+    "date": "2025-12-01",
+    "dir": "来",
+    "who": "Sanjay",
+    "quote": "We have processed your payment… Shipping address and Shipping marks have been advised on WeChat.",
+    "why": "付款；邮件到此为止",
+    "k": "0cc642cb3b5505fb"
+   }
+  ],
+  "proof_gaps": [
+   "2025-12 之后全部在 WeChat（Simon 手机）：标书结果、样品评测、是否有第二单——仓库无"
+  ],
+  "draft_en": {
+   "subject": "STI-140GE samples — tender result (for the record)",
+   "body": "Hi, Sanjay,\n\nFor the record on email, following our WeChat chats: after the STI-110GE / STI-140GE samples with HDR-15-24 power supplies (paid Dec 2025), I would like to know how the tender went.\n\nIf the 1,000-pc supply is still on the table, we can hold price per batch (quotation valid 15 days from issue), ship in lots and keep the same test report for every batch.\n\nOne question: did the samples pass the tender's spec/sample approval, and what target unit price and delivery window are they asking for?\n\nThank you.\nSimon"
+  },
+  "as_of": "2026-10-24"
+ },
+ "watch": {
+  "as_of": "2026-10-23",
+  "github_watch": [],
+  "web_watch_targets": "scripts/web_watch/targets.json#SA-001",
+  "status": "data/customer_watch/当前状态.md",
+  "log": "data/customer_watch/变化日志.md"
+ }
 }

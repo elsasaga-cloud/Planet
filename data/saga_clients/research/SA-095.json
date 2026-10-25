@@ -1,101 +1,101 @@
 {
-  "code": "SA-095",
-  "name_official": "Medias-Com'S（瑞士）",
-  "website_status": "未单独检索（仅用户记录）",
-  "summary": "瑞士小型经销/集成商，2020 年通过群发成一笔样品单（IM-MC110FE、IM-FP144FE 各 2 台），之后无任何跟进记录。",
-  "type": "小型经销商/集成商",
-  "size": "待补证",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "用户记录",
-      "claim": "2020 年样品单：IM-MC110FE、IM-FP144FE 各 2 台；之后 0 次跟进",
-      "quote": "IM-MC110FE IM-FP144FE 各2个 成样品单；Director Manager（用户 Clients 表摘录）",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网",
-      "claim": "业务与地址",
-      "quote": "Médias-Com'S est une société Suisse spécialisée dans les médias et la communication … Nos abris bus digitalisés : Cette technologie est étudiée et développée par Medias-Com'S … mobilier urbain utile, permettant de diffuser les informations nécessaires … Medias-Com'S SA Place du Village 18 Case postale 47 1978 Lens",
-      "url": "https://medias-coms.ch/fr/",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "（Director Manager，见 Clients 表）",
-      "role": "Director Manager",
-      "email": "",
-      "phone": "",
-      "source": "用户 Clients 表"
-    }
-  ],
-  "grade_override": "B",
-  "override_reason": "有历史样品成交但停滞 5 年（2020 后 0 跟进），瑞士欧洲区可重启一次；信息不足以判断长期价值 → B 慢跟。",
-  "notes": "重启：告知当年 IM-MC110FE/IM-FP144FE 的现行对位型号（STI-110GE / STI-144GP）与新价，一封邮件；待补证：公司网站与规模。",
-  "researched_at": "2026-10-21",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（官网核对）"
+ "code": "SA-095",
+ "name_official": "Medias-Com'S（瑞士）",
+ "website_status": "未单独检索（仅用户记录）",
+ "summary": "瑞士小型经销/集成商，2020 年通过群发成一笔样品单（IM-MC110FE、IM-FP144FE 各 2 台），之后无任何跟进记录。",
+ "type": "小型经销商/集成商",
+ "size": "待补证",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户记录",
+   "claim": "2020 年样品单：IM-MC110FE、IM-FP144FE 各 2 台；之后 0 次跟进",
+   "quote": "IM-MC110FE IM-FP144FE 各2个 成样品单；Director Manager（用户 Clients 表摘录）",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "legal_name": "Medias-Com'S SA",
-    "hq": "Place du Village 18, Case postale 47, 1978 Lens (Valais), Suisse",
-    "other": "瓦莱州媒体与传播公司：自研**数字化公交候车亭**（城市家具 + 数字信息屏：班次、旅游/地方资讯），以及传播服务（网站、SEO、社媒、品牌设计、App、视频）——交换机需求来自候车亭/户外信息屏的网络接入（户外柜、宽温）"
-  },
-  "business_lines": [
-    "数字化公交候车亭（户外数字标牌 + 网络）",
-    "传播/数字营销服务"
-  ],
-  "channels": {
-    "网站": "https://medias-coms.ch/fr/"
-  },
-  "signals": [
-    "已成交 + 样品（用户表）→ 候车亭项目用户；每个候车亭 1 台小型工业 PoE 机（供电摄像/屏控/路由）——复购随铺设节奏"
-  ],
-  "risks": [
-    "终端用户、项目节奏不可控；瑞士 230V 户外柜需 DIN 宽温机，Saga 不做 IP67，只能柜内安装"
-  ],
-  "saga_fit": {
-    "p1": "STI-144GP",
-    "tier": 25,
-    "why": "终端项目 25% 档：候车亭柜内 STI-144GP（4 PoE + 上联，宽压 DIN）；汇聚点 STI-288DGGPM；非 IP67 需装柜"
-  },
-  "email_hook": "For the next batch of digital bus shelters, the 4-port PoE DIN unit you sampled now ships with the wide 12–48 V input as standard; how many shelters are planned for the coming phase so I can hold EXW pricing for them?",
-  "mail_review": {
-    "binding": {
-      "level": "未发信（S/A 邮箱均无往来；来源：调研建档）",
-      "type": "小型经销商/集成商",
-      "sieve": "—（未入筛）",
-      "stop": "从未触达",
-      "revive": "首封（具名 KP 优先，用研究档 email_hook）",
-      "lane": "瑞士（欧洲全域主攻）",
-      "cadence": "首封后看打开",
-      "evidence": "gmail_digest：out 0；研究档 risks：终端用户、项目节奏不可控；瑞士 230V 户外柜需 DIN 宽温机，Saga 不做 IP67，只能柜内安装"
-    },
-    "situation": "瑞士小型经销/集成商，2020 年通过群发成一笔样品单（IM-MC110FE、IM-FP144FE 各 2 台），之后无任何跟进记录。",
-    "need": "终端项目 25% 档：候车亭柜内 STI-144GP（4 PoE + 上联，宽压 DIN）；汇聚点 STI-288DGGPM；非 IP67 需装柜",
-    "breakpoint": "终端用户、项目节奏不可控；瑞士 230V 户外柜需 DIN 宽温机，Saga 不做 IP67，只能柜内安装",
-    "saga_now": {
-      "p1": "STI-144GP",
-      "tier": 25,
-      "price": "首触锚价 STI-144GP $35.5 EXW（主表档位（无 Saga 实报；PDF 上限 $46.2）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
-      "why": "终端项目 25% 档：候车亭柜内 STI-144GP（4 PoE + 上联，宽压 DIN）；汇聚点 STI-288DGGPM；非 IP67 需装柜",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "待 Simon 排期（首封）",
-      "channel": "A 邮箱 → admin-dir@medias-coms.ch",
-      "action": "首封：按 email_hook 一问",
-      "one_question": "For the next batch of digital bus shelters, the 4-port PoE DIN unit you sampled now ships with the wide 12–48 V input as standard; how many shelters are planned for the coming phase so I can hold EXW pricing for them? Reference: STI-144GP at $35.5 USD EXW (MOQ 1, 15-day validity)."
-    },
-    "facts": [],
-    "proof_gaps": [
-      "无邮件往来"
-    ],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "官网",
+   "claim": "业务与地址",
+   "quote": "Médias-Com'S est une société Suisse spécialisée dans les médias et la communication … Nos abris bus digitalisés : Cette technologie est étudiée et développée par Medias-Com'S … mobilier urbain utile, permettant de diffuser les informations nécessaires … Medias-Com'S SA Place du Village 18 Case postale 47 1978 Lens",
+   "url": "https://medias-coms.ch/fr/",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "（Director Manager，见 Clients 表）",
+   "role": "Director Manager",
+   "email": "",
+   "phone": "",
+   "source": "用户 Clients 表"
+  }
+ ],
+ "grade_override": "B",
+ "override_reason": "有历史样品成交但停滞 5 年（2020 后 0 跟进），瑞士欧洲区可重启一次；信息不足以判断长期价值 → B 慢跟。",
+ "notes": "重启：告知当年 IM-MC110FE/IM-FP144FE 的现行对位型号（STI-110GE / STI-144GP）与新价，一封邮件；待补证：公司网站与规模。",
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网核对）"
+ },
+ "company_facts": {
+  "legal_name": "Medias-Com'S SA",
+  "hq": "Place du Village 18, Case postale 47, 1978 Lens (Valais), Suisse",
+  "other": "瓦莱州媒体与传播公司：自研**数字化公交候车亭**（城市家具 + 数字信息屏：班次、旅游/地方资讯），以及传播服务（网站、SEO、社媒、品牌设计、App、视频）——交换机需求来自候车亭/户外信息屏的网络接入（户外柜、宽温）"
+ },
+ "business_lines": [
+  "数字化公交候车亭（户外数字标牌 + 网络）",
+  "传播/数字营销服务"
+ ],
+ "channels": {
+  "网站": "https://medias-coms.ch/fr/"
+ },
+ "signals": [
+  "已成交 + 样品（用户表）→ 候车亭项目用户；每个候车亭 1 台小型工业 PoE 机（供电摄像/屏控/路由）——复购随铺设节奏"
+ ],
+ "risks": [
+  "终端用户、项目节奏不可控；瑞士 230V 户外柜需 DIN 宽温机，Saga 不做 IP67，只能柜内安装"
+ ],
+ "saga_fit": {
+  "p1": "STI-144GP",
+  "tier": 25,
+  "why": "终端项目 25% 档：候车亭柜内 STI-144GP（4 PoE + 上联，宽压 DIN）；汇聚点 STI-288DGGPM；非 IP67 需装柜"
+ },
+ "email_hook": "For the next batch of digital bus shelters, the 4-port PoE DIN unit you sampled now ships with the wide 12–48 V input as standard; how many shelters are planned for the coming phase so I can hold EXW pricing for them?",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：调研建档；Elsa 箱：`to:medias-coms.ch` 逐户查 0（2026-10-24 第 73 批(o)，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(g)））",
+   "type": "小型经销商/集成商",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+   "lane": "瑞士（欧洲全域主攻）",
+   "cadence": "首封后看打开",
+   "evidence": "gmail_digest：out 0；研究档 risks：终端用户、项目节奏不可控；瑞士 230V 户外柜需 DIN 宽温机，Saga 不做 IP67，只能柜内安装"
+  },
+  "situation": "瑞士小型经销/集成商，2020 年通过群发成一笔样品单（IM-MC110FE、IM-FP144FE 各 2 台），之后无任何跟进记录。",
+  "need": "终端项目 25% 档：候车亭柜内 STI-144GP（4 PoE + 上联，宽压 DIN）；汇聚点 STI-288DGGPM；非 IP67 需装柜",
+  "breakpoint": "终端用户、项目节奏不可控；瑞士 230V 户外柜需 DIN 宽温机，Saga 不做 IP67，只能柜内安装",
+  "saga_now": {
+   "p1": "STI-144GP",
+   "tier": 25,
+   "price": "首触锚价 STI-144GP $35.5 EXW（主表档位（无 Saga 实报；PDF 上限 $46.2）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
+   "why": "终端项目 25% 档：候车亭柜内 STI-144GP（4 PoE + 上联，宽压 DIN）；汇聚点 STI-288DGGPM；非 IP67 需装柜",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "待 Simon 排期（首封）",
+   "channel": "A 邮箱 → admin-dir@medias-coms.ch",
+   "action": "首封：按 email_hook 一问",
+   "one_question": "For the next batch of digital bus shelters, the 4-port PoE DIN unit you sampled now ships with the wide 12–48 V input as standard; how many shelters are planned for the coming phase so I can hold EXW pricing for them? Reference: STI-144GP at $35.5 USD EXW (MOQ 1, 15-day validity)."
+  },
+  "facts": [],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

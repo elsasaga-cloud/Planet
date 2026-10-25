@@ -1,230 +1,230 @@
 {
-  "code": "SA-079",
-  "name_official": "PT Divatel Pratama（Infrateq.com 电商 / divatel.co.id，雅加达，2001 年）",
-  "website_status": "在线",
-  "summary": "印尼雅加达 VoIP/PA 系统/联络中心/CCTV/工业网络解决方案商与分销商（2001 年，KOMINFO 持牌），CEO Ismed Sitepu 直接沟通（6 次回复、WA 在线），询过洪瑞（HRUI）工业 FS；LinkedIn 列'Offgrid CCTV Surveillance / Solar Panel Switch'等业务。",
-  "type": "系统集成商+分销（VoIP/安防/工业网络）",
-  "size": "小型（LinkedIn 2–10 / Glints 51–200，口径不一；ZoomInfo 营收 2,360 万美元待核）",
-  "brands_seen": [
-    "VitalPBX（合作伙伴）",
-    "InfrateQ（自有标）"
-  ],
-  "evidence": [
-    {
-      "kind": "官网",
-      "claim": "2001 年起的 VoIP/PA/云 PBX/联络中心/CCTV 供应商，面向中大型企业",
-      "quote": "Sejak tahun 2001, Divatel telah berada di garis depan dalam menyediakan solusi PA System, IP PBX, Cloud PBX, Omnichannel Contact Center… untuk perusahaan skala menengah hingga besar",
-      "url": "https://pa-system.infrateq.com/profile/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "LinkedIn",
-      "claim": "CEO/创始人 Ismed Sitepu，业务含离网 CCTV、太阳能供电交换机、网络",
-      "quote": "CEO and Founder PT. Divatel Pratama 2001 - Present… Offgrid CCTV Surveillance - Solar Panel Switch / Hub - Video Conferencing",
-      "url": "https://www.linkedin.com/in/ismedsitepu/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "合作伙伴页",
-      "claim": "infrateq.com 为其电商站，另提供网络解决方案",
-      "quote": "The further details of service and products we sell can be seen at our commerce website infrateq.com We also provide video conference solutions, Hyperconverge server and Networks solutions",
-      "url": "https://vitalpbx.com/vitalpbx-partners/pt-divatel-pratama/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "YouTube",
-      "claim": "业务含 CCTV、工业网络",
-      "quote": "PA System, CCTV, Network Industri, Cloud PBX, Contact Center Omnichannel",
-      "url": "https://www.youtube.com/@DivatelPratama",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网",
-      "claim": "地址 / 电话 / 销售 WA 名单 / 工业 PoE 类目",
-      "quote": "DIVATEL - 0851-7306-0800 Ismed S. - 0852-8940-4589 Dipa A. - 0821-1063-2366 Bagus Widiyanto - 0812-9989-0595 … PT. DIVATEL PRATAMA Menara Kuningan 6th Floor, Jl. HR. Rasuna Said Blok X-7 Kav.5 Jakarta Selatan 12940 Telp. : 021-30022778 (hunting)",
-      "url": "https://infrateq.com/156-industrial-poe-switch",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网",
-      "claim": "自有标工业千兆 PoE 型号 HR600-AFG-822S",
-      "quote": "Distributor INDUSTRIAL GIGABIT POE SWITCH Networking … infrateq-hr600-afg-822s",
-      "url": "https://infrateq.com/network-switch/560-infrateq-hr600-afg-822s.html",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "LinkedIn",
-      "claim": "CEO 与业务范围",
-      "quote": "CEO and Founder PT. Divatel Pratama 2001 - Present … IP PBX Development - Call Center and Contact Center … Paging & Intercom for safe city … Offgrid CCTV Surveillance - Solar Panel Switch / Hub",
-      "url": "https://www.linkedin.com/in/ismedsitepu/",
-      "date": "2023-03-25"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Ismed Sitepu",
-      "role": "CEO & Founder",
-      "email": "ismed@divatel.co.id",
-      "phone": "+62 852-8940-4589（WA，官网与用户记录一致）",
-      "source": "用户 Clients 表 + LinkedIn + 官网"
-    },
-    {
-      "name": "Ismed Sitepu",
-      "role": "Founder & CEO（2001 至今）；地址 2026-10-21 退信（554 5.7.1 Message not delivered）→ 先找替代地址",
-      "email": "sales@divatel.id（公司公开）",
-      "phone": "+62 852-8940-4589（网站公开 WA）",
-      "source": "https://www.linkedin.com/in/ismedsitepu/"
-    },
-    {
-      "name": "Bagus Widiyanto",
-      "role": "Sales（infrateq.com 公开）",
-      "email": "—",
-      "phone": "+62 812-9989-0595",
-      "source": "https://infrateq.com/156-industrial-poe-switch"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "A 级中少见的'CEO 直接、6 次回复、WA 在线、需求对位 HRUI 工业 FS'组合。离网/太阳能 CCTV 场景 → 工业 DC 供电 PoE 交换机（STI 工业线/HRUI STH 工业款）。P1：STI-288DGGPM 或 HRUI 对位 STH 工业 FS 机型（按 data/hrui_STC对照表.csv 核对），项目价阶 25%。",
-  "researched_at": "2026-10-21",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "深挖 v2（infrateq.com + divatel.id 核对）"
+ "code": "SA-079",
+ "name_official": "PT Divatel Pratama（Infrateq.com 电商 / divatel.co.id，雅加达，2001 年）",
+ "website_status": "在线",
+ "summary": "印尼雅加达 VoIP/PA 系统/联络中心/CCTV/工业网络解决方案商与分销商（2001 年，KOMINFO 持牌），CEO Ismed Sitepu 直接沟通（6 次回复、WA 在线），询过洪瑞（HRUI）工业 FS；LinkedIn 列'Offgrid CCTV Surveillance / Solar Panel Switch'等业务。",
+ "type": "系统集成商+分销（VoIP/安防/工业网络）",
+ "size": "小型（LinkedIn 2–10 / Glints 51–200，口径不一；ZoomInfo 营收 2,360 万美元待核）",
+ "brands_seen": [
+  "VitalPBX（合作伙伴）",
+  "InfrateQ（自有标）"
+ ],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "2001 年起的 VoIP/PA/云 PBX/联络中心/CCTV 供应商，面向中大型企业",
+   "quote": "Sejak tahun 2001, Divatel telah berada di garis depan dalam menyediakan solusi PA System, IP PBX, Cloud PBX, Omnichannel Contact Center… untuk perusahaan skala menengah hingga besar",
+   "url": "https://pa-system.infrateq.com/profile/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "legal_name": "PT. Divatel Pratama",
-    "founded": "2001",
-    "hq": "Menara Kuningan 6th Floor, Jl. H.R. Rasuna Said Blok X-7 Kav.5, Jakarta Selatan 12940（+62 21 30022777 / 30022778 hunting；sales@divatel.id / info@divatel.co.id）",
-    "other": "三站并行：infrateq.com（电商：IP PBX / IP 话机 / VoIP 网关 / 会议 / **Industrial PoE Switch 类目**，自有标 InfrateQ 型号如 HR600-AFG-822S——疑为 HRUI 贴牌）、divatel.id（IP PBX/联络中心，KOMINFO 持牌，印尼/马/新）、pa-system.infrateq.com；CEO Ismed Sitepu（LinkedIn 列业务含「Solar Panel Switch / Hub」「Offgrid CCTV」）；销售 WA 0851-7306-0800 / 0852-8940-4589（Ismed S.）、Dipa A. 0821-1063-2366、Bagus Widiyanto 0812-9989-0595（网站公开）",
-    "staff": "2–10（LinkedIn）"
+  {
+   "kind": "LinkedIn",
+   "claim": "CEO/创始人 Ismed Sitepu，业务含离网 CCTV、太阳能供电交换机、网络",
+   "quote": "CEO and Founder PT. Divatel Pratama 2001 - Present… Offgrid CCTV Surveillance - Solar Panel Switch / Hub - Video Conferencing",
+   "url": "https://www.linkedin.com/in/ismedsitepu/",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "VoIP / PA / 联络中心",
-    "CCTV 与工业网络分销（Infrateq 电商）",
-    "IP PBX / 联络中心 / VoIP（主业）",
-    "PA/对讲、CCTV",
-    "Industrial PoE Switch 电商分销（InfrateQ 自有标，HR600- 系列）"
-  ],
-  "products_seen": [
-    {
-      "brand": "HRUI（询过）",
-      "model": "工业 FS",
-      "spec": "询过洪瑞的工业 FS",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "用户表",
-      "saga": "STI-288DGGPM（Marvell 位）/ HRUI 同款经 Saga"
-    },
-    {
-      "brand": "InfrateQ（自有标，疑 HRUI 源）",
-      "model": "HR600-AFG-822S",
-      "spec": "工业千兆 PoE 交换机（8 PoE + 2 GE + 2 SFP 推断自型号）",
-      "url": "https://infrateq.com/network-switch/560-infrateq-hr600-afg-822s.html",
-      "date": "2026-10-21",
-      "saga": "STI-288DGGPM（Marvell 位）/ STC-28DGGPM"
-    }
-  ],
-  "channels": {
-    "网站": "https://infrateq.com/156-industrial-poe-switch（工业 PoE 类目）/ https://divatel.id/",
-    "直邮": "ismed@divatel.co.id（CEO，用户表）",
-    "WhatsApp": "在线（用户表）",
-    "电话/WA": "+62 851-7306-0800（销售，官网公开）/ +62 852-8940-4589（Ismed S.）",
-    "邮箱（公开）": "sales@divatel.id / info@divatel.co.id"
+  {
+   "kind": "合作伙伴页",
+   "claim": "infrateq.com 为其电商站，另提供网络解决方案",
+   "quote": "The further details of service and products we sell can be seen at our commerce website infrateq.com We also provide video conference solutions, Hyperconverge server and Networks solutions",
+   "url": "https://vitalpbx.com/vitalpbx-partners/pt-divatel-pratama/",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "CEO 直接沟通，6 次回复——决策人在手",
-    "infrateq.com 的工业 PoE 型号 HR600-AFG-822S 命名与 HRUI 型号规则一致——客户已在卖 HRUI 源产品（Saga 同源渠道 HRUI），Marvell 线可作升级位（2026-10-21）"
-  ],
-  "risks": [
-    "印尼 SNI/Postel 认证由进口方；价格敏感"
-  ],
-  "saga_fit": {
-    "p1": "STI-288DGGPM",
-    "tier": 20,
-    "why": "电商分销工业 PoE（InfrateQ 自有标，HR600- 系列）：STI-288DGGPM 为 Marvell 升级位，STC-28DGGPM 商用位；分销 20% 档"
+  {
+   "kind": "YouTube",
+   "claim": "业务含 CCTV、工业网络",
+   "quote": "PA System, CCTV, Network Industri, Cloud PBX, Contact Center Omnichannel",
+   "url": "https://www.youtube.com/@DivatelPratama",
+   "date": "2026-10-21"
   },
-  "email_hook": "Next to the HR600-AFG-822S you list on infrateq.com, the Marvell-based 8-port PoE+ 2-SFP managed DIN switch gives you a higher-tier SKU in InfrateQ packing at EXW cost; I can send the side-by-side spec sheet.",
-  "mail_review": {
-    "binding": {
-      "level": "未绑定（2024-07 CEO 要求转 WeChat/WA 并要目录价表——此后邮件无往来，若有进展在 WeChat）",
-      "type": "雅加达集成 + 电商（VoIP/安防/工业网络）；CEO Ismed 直联（WeChat ismedsitepu，WA +62 852 8940 4589）——研究档称「6 次回复」在 WA",
-      "sieve": "2",
-      "stop": "邮件层 2024-07-04 后无；其邮箱收不到 Google Drive 链接",
-      "revive": "WeChat/WA 层（不在仓库）",
-      "lane": "ID 非主攻",
-      "cadence": "邮件仅 2 封去信（2024-07-03/04）",
-      "evidence": "k=6f6c394625650200 / 7648ab2452628580 / ad13f76074d6ed39"
-    },
-    "situation": "Ismed 2024-07-04 回：加我 WeChat/WA，目录和价表发到 ismed@；Simon 加了 WeChat 并指出其邮箱收不到 Drive 链接，对方给了备用邮箱。邮件到此为止——后续若有，全在 WeChat。",
-    "need": "离网/太阳能 CCTV 用工业 DC PoE（研究档）。",
-    "breakpoint": "渠道转到 WeChat 后仓库失明；评级应以 WeChat 记录为准（Simon 手上）。",
-    "saga_now": {
-      "p1": "STI-288DGGPM / HRUI 工业款（研究档 P1）",
-      "tier": 25,
-      "price": "—",
-      "why": "以 WeChat 为准。已打开的主题（2/2 封有打开记录）：「industrial poe switch」(2024-07-03)、「Re: industrial poe switch」(2024-07-04) → 读者兴趣偏「工业」；与 P1 同类，继续",
-      "repeat": [],
-      "gaps": [
-        "WeChat 往来内容未入库"
-      ]
-    },
-    "next_move": {
-      "when": "按 Simon WeChat 节奏",
-      "channel": "WeChat",
-      "action": "—（用 one_question 这句，WhatsApp 直接发，不附资料）",
-      "one_question": "Next to the HR600-AFG-822S you list on infrateq.com, the Marvell-based 8-port PoE+ 2-SFP managed DIN switch gives you a higher-tier SKU in InfrateQ packing at EXW cost; I can send the side-by-side spec sheet."
-    },
-    "facts": [
-      {
-        "date": "2024-07-04",
-        "dir": "来",
-        "who": "Ismed S（CEO）",
-        "quote": "Kindly chat me on wechat ismedsitepu, WA +6285289404589. Please also send catalog and price list",
-        "why": "转 WeChat",
-        "k": "6f6c394625650200"
-      },
-      {
-        "date": "2024-07-04",
-        "dir": "去",
-        "who": "Simon",
-        "quote": "Just sent an invitation on WeChat… It seems that your email IDs cannot receive external google drive information?",
-        "why": "渠道切换",
-        "k": "ad13f76074d6ed39"
-      },
-      {
-        "date": "2024-09-26",
-        "dir": "来",
-        "who": "用户表（Simon 跟进记录；渠道 微信）",
-        "quote": "用户表跟进：推「48口工业poe」→ 对方「hi」",
-        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
-        "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.7 926"
-      },
-      {
-        "date": "2024-11-18",
-        "dir": "来",
-        "who": "用户表（Simon 跟进记录；渠道 微信）",
-        "quote": "用户表跟进：推「引流机型」→ 对方「IP67 switch」",
-        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
-        "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.7 1118"
-      },
-      {
-        "date": "2024-12-11",
-        "dir": "来",
-        "who": "用户表（Simon 跟进记录；渠道 微信）",
-        "quote": "用户表跟进：推「电口」→ 对方「hi」",
-        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
-        "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.7 1211"
-      },
-      {
-        "date": "2025-01-03",
-        "dir": "来",
-        "who": "用户表（Simon 跟进记录；渠道 微信）",
-        "quote": "用户表跟进：推「迷你」→ 对方「hi」",
-        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
-        "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.7 1.3"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "官网",
+   "claim": "地址 / 电话 / 销售 WA 名单 / 工业 PoE 类目",
+   "quote": "DIVATEL - 0851-7306-0800 Ismed S. - 0852-8940-4589 Dipa A. - 0821-1063-2366 Bagus Widiyanto - 0812-9989-0595 … PT. DIVATEL PRATAMA Menara Kuningan 6th Floor, Jl. HR. Rasuna Said Blok X-7 Kav.5 Jakarta Selatan 12940 Telp. : 021-30022778 (hunting)",
+   "url": "https://infrateq.com/156-industrial-poe-switch",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "自有标工业千兆 PoE 型号 HR600-AFG-822S",
+   "quote": "Distributor INDUSTRIAL GIGABIT POE SWITCH Networking … infrateq-hr600-afg-822s",
+   "url": "https://infrateq.com/network-switch/560-infrateq-hr600-afg-822s.html",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "LinkedIn",
+   "claim": "CEO 与业务范围",
+   "quote": "CEO and Founder PT. Divatel Pratama 2001 - Present … IP PBX Development - Call Center and Contact Center … Paging & Intercom for safe city … Offgrid CCTV Surveillance - Solar Panel Switch / Hub",
+   "url": "https://www.linkedin.com/in/ismedsitepu/",
+   "date": "2023-03-25"
   }
+ ],
+ "kp": [
+  {
+   "name": "Ismed Sitepu",
+   "role": "CEO & Founder",
+   "email": "ismed@divatel.co.id",
+   "phone": "+62 852-8940-4589（WA，官网与用户记录一致）",
+   "source": "用户 Clients 表 + LinkedIn + 官网"
+  },
+  {
+   "name": "Ismed Sitepu",
+   "role": "Founder & CEO（2001 至今）；地址 2026-10-21 退信（554 5.7.1 Message not delivered）→ 先找替代地址",
+   "email": "sales@divatel.id（公司公开）",
+   "phone": "+62 852-8940-4589（网站公开 WA）",
+   "source": "https://www.linkedin.com/in/ismedsitepu/"
+  },
+  {
+   "name": "Bagus Widiyanto",
+   "role": "Sales（infrateq.com 公开）",
+   "email": "—",
+   "phone": "+62 812-9989-0595",
+   "source": "https://infrateq.com/156-industrial-poe-switch"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "A 级中少见的'CEO 直接、6 次回复、WA 在线、需求对位 HRUI 工业 FS'组合。离网/太阳能 CCTV 场景 → 工业 DC 供电 PoE 交换机（STI 工业线/HRUI STH 工业款）。P1：STI-288DGGPM 或 HRUI 对位 STH 工业 FS 机型（按 data/hrui_STC对照表.csv 核对），项目价阶 25%。",
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "深挖 v2（infrateq.com + divatel.id 核对）"
+ },
+ "company_facts": {
+  "legal_name": "PT. Divatel Pratama",
+  "founded": "2001",
+  "hq": "Menara Kuningan 6th Floor, Jl. H.R. Rasuna Said Blok X-7 Kav.5, Jakarta Selatan 12940（+62 21 30022777 / 30022778 hunting；sales@divatel.id / info@divatel.co.id）",
+  "other": "三站并行：infrateq.com（电商：IP PBX / IP 话机 / VoIP 网关 / 会议 / **Industrial PoE Switch 类目**，自有标 InfrateQ 型号如 HR600-AFG-822S——疑为 HRUI 贴牌）、divatel.id（IP PBX/联络中心，KOMINFO 持牌，印尼/马/新）、pa-system.infrateq.com；CEO Ismed Sitepu（LinkedIn 列业务含「Solar Panel Switch / Hub」「Offgrid CCTV」）；销售 WA 0851-7306-0800 / 0852-8940-4589（Ismed S.）、Dipa A. 0821-1063-2366、Bagus Widiyanto 0812-9989-0595（网站公开）",
+  "staff": "2–10（LinkedIn）"
+ },
+ "business_lines": [
+  "VoIP / PA / 联络中心",
+  "CCTV 与工业网络分销（Infrateq 电商）",
+  "IP PBX / 联络中心 / VoIP（主业）",
+  "PA/对讲、CCTV",
+  "Industrial PoE Switch 电商分销（InfrateQ 自有标，HR600- 系列）"
+ ],
+ "products_seen": [
+  {
+   "brand": "HRUI（询过）",
+   "model": "工业 FS",
+   "spec": "询过洪瑞的工业 FS",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "用户表",
+   "saga": "STI-288DGGPM（Marvell 位）/ HRUI 同款经 Saga"
+  },
+  {
+   "brand": "InfrateQ（自有标，疑 HRUI 源）",
+   "model": "HR600-AFG-822S",
+   "spec": "工业千兆 PoE 交换机（8 PoE + 2 GE + 2 SFP 推断自型号）",
+   "url": "https://infrateq.com/network-switch/560-infrateq-hr600-afg-822s.html",
+   "date": "2026-10-21",
+   "saga": "STI-288DGGPM（Marvell 位）/ STC-28DGGPM"
+  }
+ ],
+ "channels": {
+  "网站": "https://infrateq.com/156-industrial-poe-switch（工业 PoE 类目）/ https://divatel.id/",
+  "直邮": "ismed@divatel.co.id（CEO，用户表）",
+  "WhatsApp": "在线（用户表）",
+  "电话/WA": "+62 851-7306-0800（销售，官网公开）/ +62 852-8940-4589（Ismed S.）",
+  "邮箱（公开）": "sales@divatel.id / info@divatel.co.id"
+ },
+ "signals": [
+  "CEO 直接沟通，6 次回复——决策人在手",
+  "infrateq.com 的工业 PoE 型号 HR600-AFG-822S 命名与 HRUI 型号规则一致——客户已在卖 HRUI 源产品（Saga 同源渠道 HRUI），Marvell 线可作升级位（2026-10-21）"
+ ],
+ "risks": [
+  "印尼 SNI/Postel 认证由进口方；价格敏感"
+ ],
+ "saga_fit": {
+  "p1": "STI-288DGGPM",
+  "tier": 20,
+  "why": "电商分销工业 PoE（InfrateQ 自有标，HR600- 系列）：STI-288DGGPM 为 Marvell 升级位，STC-28DGGPM 商用位；分销 20% 档"
+ },
+ "email_hook": "Next to the HR600-AFG-822S you list on infrateq.com, the Marvell-based 8-port PoE+ 2-SFP managed DIN switch gives you a higher-tier SKU in InfrateQ packing at EXW cost; I can send the side-by-side spec sheet.",
+ "mail_review": {
+  "binding": {
+   "level": "未绑定（2024-07 CEO 要求转 WeChat/WA 并要目录价表——此后邮件无往来，若有进展在 WeChat；Elsa 箱：`to:infrateq.id OR to:divatel.co.id` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 2 / 来 2）（第 74 批(g)））",
+   "type": "雅加达集成 + 电商（VoIP/安防/工业网络）；CEO Ismed 直联（WeChat ismedsitepu，WA +62 852 8940 4589）——研究档称「6 次回复」在 WA",
+   "sieve": "2",
+   "stop": "邮件层 2024-07-04 后无；其邮箱收不到 Google Drive 链接",
+   "revive": "WeChat/WA 层（不在仓库）",
+   "lane": "ID 非主攻",
+   "cadence": "邮件仅 2 封去信（2024-07-03/04）",
+   "evidence": "k=6f6c394625650200 / 7648ab2452628580 / ad13f76074d6ed39"
+  },
+  "situation": "Ismed 2024-07-04 回：加我 WeChat/WA，目录和价表发到 ismed@；Simon 加了 WeChat 并指出其邮箱收不到 Drive 链接，对方给了备用邮箱。邮件到此为止——后续若有，全在 WeChat。",
+  "need": "离网/太阳能 CCTV 用工业 DC PoE（研究档）。",
+  "breakpoint": "渠道转到 WeChat 后仓库失明；评级应以 WeChat 记录为准（Simon 手上）。",
+  "saga_now": {
+   "p1": "STI-288DGGPM / HRUI 工业款（研究档 P1）",
+   "tier": 25,
+   "price": "—",
+   "why": "以 WeChat 为准。已打开的主题（2/2 封有打开记录）：「industrial poe switch」(2024-07-03)、「Re: industrial poe switch」(2024-07-04) → 读者兴趣偏「工业」；与 P1 同类，继续",
+   "repeat": [],
+   "gaps": [
+    "WeChat 往来内容未入库"
+   ]
+  },
+  "next_move": {
+   "when": "按 Simon WeChat 节奏",
+   "channel": "WeChat",
+   "action": "—（用 one_question 这句，WhatsApp 直接发，不附资料）",
+   "one_question": "Next to the HR600-AFG-822S you list on infrateq.com, the Marvell-based 8-port PoE+ 2-SFP managed DIN switch gives you a higher-tier SKU in InfrateQ packing at EXW cost; I can send the side-by-side spec sheet."
+  },
+  "facts": [
+   {
+    "date": "2024-07-04",
+    "dir": "来",
+    "who": "Ismed S（CEO）",
+    "quote": "Kindly chat me on wechat ismedsitepu, WA +6285289404589. Please also send catalog and price list",
+    "why": "转 WeChat",
+    "k": "6f6c394625650200"
+   },
+   {
+    "date": "2024-07-04",
+    "dir": "去",
+    "who": "Simon",
+    "quote": "Just sent an invitation on WeChat… It seems that your email IDs cannot receive external google drive information?",
+    "why": "渠道切换",
+    "k": "ad13f76074d6ed39"
+   },
+   {
+    "date": "2024-09-26",
+    "dir": "来",
+    "who": "用户表（Simon 跟进记录；渠道 微信）",
+    "quote": "用户表跟进：推「48口工业poe」→ 对方「hi」",
+    "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+    "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.7 926"
+   },
+   {
+    "date": "2024-11-18",
+    "dir": "来",
+    "who": "用户表（Simon 跟进记录；渠道 微信）",
+    "quote": "用户表跟进：推「引流机型」→ 对方「IP67 switch」",
+    "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+    "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.7 1118"
+   },
+   {
+    "date": "2024-12-11",
+    "dir": "来",
+    "who": "用户表（Simon 跟进记录；渠道 微信）",
+    "quote": "用户表跟进：推「电口」→ 对方「hi」",
+    "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+    "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.7 1211"
+   },
+   {
+    "date": "2025-01-03",
+    "dir": "来",
+    "who": "用户表（Simon 跟进记录；渠道 微信）",
+    "quote": "用户表跟进：推「迷你」→ 对方「hi」",
+    "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+    "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.7 1.3"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

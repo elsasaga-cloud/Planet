@@ -27,7 +27,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -44,7 +44,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-031` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未绑定（2025-01-30 助理问价 → STI-288DGGPM-2BT 140 USD → 无下文）** ｜ 类型：波兰工业网络自有品牌制造商（PRP/HSR 高端自研）——第一档类型但 Saga 只适合其非核心 SKU ｜ 筛子：2 ｜ 停点：140 USD 报价后无回；2026-08 群发只收到休假自动回复 ｜ 复活：其非核心 SKU（非管理工业/MC）补源 ｜ 通路：PL/EU ｜ 节奏：2024-06 → 2026-09 去信 20 封；最后人工来信 2025-01-30 ｜ 证据：k=ab20a2586535bf26 / 627139dd3ba20af7 / 97cffda9f4680ebc
+- **绑定等级：未绑定（2025-01-30 助理问价 → STI-288DGGPM-2BT 140 USD → 无下文；Elsa 箱：`to:.pl` 穷举 24 条（2026-10-25，锚批 Bcc 头已读）未见 bitstream.pl → Elsa 箱从未发过本户，往来只在 S/A 箱（去 20 / 来 2）（第 74 批(f)））** ｜ 类型：波兰工业网络自有品牌制造商（PRP/HSR 高端自研）——第一档类型但 Saga 只适合其非核心 SKU ｜ 筛子：2 ｜ 停点：140 USD 报价后无回；2026-08 群发只收到休假自动回复 ｜ 复活：其非核心 SKU（非管理工业/MC）补源 ｜ 通路：PL/EU ｜ 节奏：2024-06 → 2026-09 去信 20 封；最后人工来信 2025-01-30 ｜ 证据：k=ab20a2586535bf26 / 627139dd3ba20af7 / 97cffda9f4680ebc
 - **现状一句话**：Katarzyna（管理层助理）2025-01-30 问「What is the price?」，Alan 报 STI-288DGGPM-2BT 140 USD 并说明 Marvell、有 L3 版；无回。2026-08 发给生产技术员 Aleksander Hyz 得到休假回复（备用联系人 Tomasz Jargieło）。
 - **对方真实需求（有据）**：工业 L2+ PoE（bt）——但 BitStream 自研线覆盖此段。
 - **断点 / 为什么停在这里**：同业型品牌商：Saga 的管理型正是其自研段；只有非核心 SKU 有空间。
@@ -302,12 +302,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-07**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-08**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 88）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 88）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

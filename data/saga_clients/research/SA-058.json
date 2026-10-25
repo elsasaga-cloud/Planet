@@ -1,203 +1,203 @@
 {
-  "code": "SA-058",
-  "name_official": "Success Network and Communication Co., Ltd.（Bangkok, Thailand）",
-  "website_status": "在线（2025-07 公告网站改版中）",
-  "summary": "曼谷的网络/安防设备综合分销与工程商（2011 年成立，登记规模极小），代理 PLANET、ORing、TRENDnet、Wi-Tek、W-LINK、C-DATA、Utepo（UTP5628S-PSB-L3 等）；页面含 L3 交换机、工业自动化、光纤收发器类目。用户表：A 已回复 1 次；「同行经销商(Smartbyte)」清单——即在售与 SmartByte 同源/同行产品；兴趣工商业 FS，有 Utepo。",
-  "type": "分销商/系统集成（多品牌）",
-  "size": "2 人（workventure 登记）",
-  "brands_seen": [
-    "PLANET",
-    "ORing",
-    "TRENDnet",
-    "Wi-Tek",
-    "W-LINK",
-    "C-DATA",
-    "Utepo",
-    "Edgecore",
-    "TVT",
-    "SmartByte（！）"
-  ],
-  "evidence": [
-    {
-      "kind": "官网",
-      "claim": "多品牌分销定位",
-      "quote": "อุปกรณ์เครือข่าย Switch, Router, Access Point และ Media Converter ครบวงจร … ด้วยแบรนด์คุณภาพ เช่น Planet, O-Ring, Trendnet, Wi-Tek, W-LINK, C-DATA",
-      "url": "https://www.success-network.co.th/products/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网",
-      "claim": "在售 Utepo L3 PoE 交换机",
-      "quote": "UTP5628S-PSB-L3 - 20-Port Gigabit PoE+ 4-Port Gigabit Combo 4-Port 10G SFP+ L3 Managed Ethernet Switch",
-      "url": "https://www.success-network.co.th/utp5628s-psb-l3/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网",
-      "claim": "联系方式",
-      "quote": "Success Network and Communication Co.,Ltd. 12 สุขาภิบาล 5 ซอย 5 แยก 3 … Tel : 02-973 1966 · Tel : 081-659-4477 · Email : info@success-network.co.th",
-      "url": "https://www.success-network.co.th/td-9421s3/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网",
-      "claim": "代理品牌清单含 Planet / O-Ring / Trendnet / Wi-Tek / W-LINK / C-DATA",
-      "quote": "แบรนด์สินค้าที่คุณสนใจ - TVT - IR (Scene) - Uni-Ubi - ICT - Vissonic - ITC - Planet - O-Ring - Trendnet - Wi-Tek - W-LINK - C-DATA - Asustor - Shuttle … Line: @success_network หรือโทร 02-973-1966",
-      "url": "https://www.success-network.co.th/",
-      "date": "2025-11-14"
-    },
-    {
-      "kind": "官网",
-      "claim": "地址与邮箱",
-      "quote": "Success Network and Communication Co.,Ltd. 12 สุขาภิบาล 5 ซอย 5 แยก 3, แขวงท่าแร้ง เขตบางเขน กรุงเทพมหานคร 10220 … Tel : 02-973 1966 … Tel : 081-659-4477 … Email : info@success-network.co.th",
-      "url": "https://www.success-network.co.th/products/",
-      "date": "2025-09-30"
-    },
-    {
-      "kind": "原厂名录",
-      "claim": "ORing APAC 官方经销商，公开联系邮箱",
-      "quote": "Success Network And Communication Co., Ltd. - sawithree@success-network.co.th - Tel: +6629731670-71 Fax: +6629731673",
-      "url": "https://oringnet.com/en/where-to-buy/apac",
-      "date": "2026-07-22"
-    },
-    {
-      "kind": "注册",
-      "claim": "注册日期与资本",
-      "quote": "SUCCESS NETWORK AND COMMUNICATION CO.,LTD. - เลขทะเบียนนิติบุคคล: 0105554082806 - วันเดือนปีที่จดทะเบียน: วันที่ 24 มิ.ย. 2554 … ทุนจดทะเบียน 10,000,000 บาท",
-      "url": "https://www.dataforthai.com/company/0105554082806/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "列于 Clients/A/同行/Smartbyte.xlsx（SmartByte 经销名单）→ 供应商渠道冲突 Q-33",
-      "quote": "Clients/A/同行/Smartbyte.xlsx 总表",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户裁定",
-      "claim": "Success Network 可以跟进",
-      "quote": "Success Network 这个可以跟进 OK的",
-      "url": "（对话全记录 T27-U5）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "—",
-      "role": "总机",
-      "email": "info@success-network.co.th",
-      "phone": "+66 2 973 1966 / +66 81 659 4477（LINE @success_network）",
-      "source": "https://www.success-network.co.th/contact-us/"
-    },
-    {
-      "name": "（Sawithree，姓氏未公开）",
-      "role": "ORing 经销名录联系人（销售窗口）；地址 2026-10-20 永久退信（550 No such recipient）→ 失效",
-      "email": "sawithree@success-network.co.th",
-      "phone": "+66 2 973 1670-71",
-      "source": "https://oringnet.com/en/where-to-buy/apac"
-    }
-  ],
-  "notes": "A 维持（已回复 + 全品类分销 + 已在卖同源产品），但需先向 SmartByte 确认该客户/其上游（Utepo 等）是否为 SmartByte 直客以免渠道冲突；P1 = STC-424DGGPM-280W（对位 Utepo 24 口 PoE L2+），20% 分销档。 ｜ Q-33 标注（2026-10-21）：SmartByte 经销名单内客户，A 级保留，但首触前需 Simon 裁定。 ｜ Q-33 裁定（Simon 2026-10-21）：Success Network 可以跟进。",
-  "researched_at": "2026-10-21",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "深挖 v2（官网 + 注册 + 原厂经销名录核对）"
+ "code": "SA-058",
+ "name_official": "Success Network and Communication Co., Ltd.（Bangkok, Thailand）",
+ "website_status": "在线（2025-07 公告网站改版中）",
+ "summary": "曼谷的网络/安防设备综合分销与工程商（2011 年成立，登记规模极小），代理 PLANET、ORing、TRENDnet、Wi-Tek、W-LINK、C-DATA、Utepo（UTP5628S-PSB-L3 等）；页面含 L3 交换机、工业自动化、光纤收发器类目。用户表：A 已回复 1 次；「同行经销商(Smartbyte)」清单——即在售与 SmartByte 同源/同行产品；兴趣工商业 FS，有 Utepo。",
+ "type": "分销商/系统集成（多品牌）",
+ "size": "2 人（workventure 登记）",
+ "brands_seen": [
+  "PLANET",
+  "ORing",
+  "TRENDnet",
+  "Wi-Tek",
+  "W-LINK",
+  "C-DATA",
+  "Utepo",
+  "Edgecore",
+  "TVT",
+  "SmartByte（！）"
+ ],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "多品牌分销定位",
+   "quote": "อุปกรณ์เครือข่าย Switch, Router, Access Point และ Media Converter ครบวงจร … ด้วยแบรนด์คุณภาพ เช่น Planet, O-Ring, Trendnet, Wi-Tek, W-LINK, C-DATA",
+   "url": "https://www.success-network.co.th/products/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "legal_name": "Success Network and Communication Co., Ltd.（บริษัท ซัคเซส เน็ตเวิร์ค แอนด์ คอมมิวนิเคชั่น จำกัด，注册号 0105554082806）",
-    "founded": "2011-06-24，注册资本 1,000 万泰铢",
-    "hq": "12 Soi Sukhaphiban 5 Soi 5 Yaek 3, Tha Raeng, Bang Khen, Bangkok 10220（Tel 02-973-1966 / 081-659-4477；info@success-network.co.th）；注册地 81/19 Nawamin Rd, Khlong Kum, Bueng Kum, Bangkok 10240",
-    "other": "官网 2025-11 更新（改版完成）：品牌 TVT、Scene/IR、Uni-Ubi、ICT、Vissonic、ITC、**Planet（L3 / L2 / Industrial Switch 三类目）**、ORing、Trendnet、Wi-Tek、W-LINK、C-DATA、Asustor、Shuttle、RFID、MW、WINEXT；ORing APAC 官方经销名录与 Edgecore 亚太 reseller 名录均列出；Line @success_network"
+  {
+   "kind": "官网",
+   "claim": "在售 Utepo L3 PoE 交换机",
+   "quote": "UTP5628S-PSB-L3 - 20-Port Gigabit PoE+ 4-Port Gigabit Combo 4-Port 10G SFP+ L3 Managed Ethernet Switch",
+   "url": "https://www.success-network.co.th/utp5628s-psb-l3/",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "多品牌网络设备分销（PLANET/ORing/TRENDnet/Wi-Tek/Utepo）",
-    "安防工程",
-    "PLANET / ORing / Wi-Tek / W-LINK / C-DATA 网络交换分销",
-    "TVT CCTV 分销",
-    "全国设计安装（公私营项目）"
-  ],
-  "products_seen": [
-    {
-      "brand": "Utepo",
-      "model": "UTP5628S-PSB-L3",
-      "spec": "L3 PoE 交换机（页面）",
-      "url": "https://success-network.co.th/",
-      "date": "2026-10（首轮调研）",
-      "saga": "STC-424XGGPM-280W"
-    }
-  ],
-  "channels": {
-    "网站": "https://www.success-network.co.th/",
-    "直邮": "info@success-network.co.th（用户表）",
-    "电话": "+66 2 973 1966 / +66 81 659 4477（官网公开）",
-    "邮箱（公开）": "info@success-network.co.th（官网）；sawithree@success-network.co.th（ORing 官方经销名录公开）",
-    "Line": "@success_network"
+  {
+   "kind": "官网",
+   "claim": "联系方式",
+   "quote": "Success Network and Communication Co.,Ltd. 12 สุขาภิบาล 5 ซอย 5 แยก 3 … Tel : 02-973 1966 · Tel : 081-659-4477 · Email : info@success-network.co.th",
+   "url": "https://www.success-network.co.th/td-9421s3/",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "用户表：工商业 FS，有 Utepo 的",
-    "官网 Planet 类目含 Industrial Switch 与 L2+ 16-SFP / 2.5G SFP 机型——客户对 PLANET 工业 + 光口型谱熟悉，Saga 可按 PLANET 型号对位直接报（2026-10-21）",
-    "2025-11 官网改版完成，营业中",
-    "Q-33 裁定：可跟进（2026-10-21）"
-  ],
-  "risks": [
-    "多品牌小分销，Saga 为又一白牌；泰国价格敏感",
-    "Q-33 裁定（Simon 2026-10-21）：虽在 SmartByte 经销名单内，**可以跟进**（唯一例外）"
-  ],
-  "saga_fit": {
-    "p1": "STC-424DGGPM-280W",
-    "tier": 20,
-    "why": "Utepo/Wi-Tek 位的商用 24 口 PoE 管理 = STC-424DGGPM-280W；工业位 STI-288DGGPM；分销 20% 档"
+  {
+   "kind": "官网",
+   "claim": "代理品牌清单含 Planet / O-Ring / Trendnet / Wi-Tek / W-LINK / C-DATA",
+   "quote": "แบรนด์สินค้าที่คุณสนใจ - TVT - IR (Scene) - Uni-Ubi - ICT - Vissonic - ITC - Planet - O-Ring - Trendnet - Wi-Tek - W-LINK - C-DATA - Asustor - Shuttle … Line: @success_network หรือโทร 02-973-1966",
+   "url": "https://www.success-network.co.th/",
+   "date": "2025-11-14"
   },
-  "email_hook": "Alongside the Utepo and Wi-Tek units you carry, the Marvell-based 24-port PoE+ managed switch and the 8-port industrial PoE DIN model are the two I can quote EXW as a neutral-packing line.",
-  "mail_review": {
-    "binding": {
-      "level": "未绑定（一句「Thanks for information」；Q-33 标注：可能是 SmartByte/Utepo 渠道客户）",
-      "type": "曼谷多品牌分销/集成（已卖同源产品）",
-      "sieve": "1",
-      "stop": "Q-33「不碰，标记」",
-      "revive": "—",
-      "lane": "TH",
-      "cadence": "2024-07 → 2026-10 去信 21 封",
-      "evidence": "k=e0f000957aae1a7a"
-    },
-    "situation": "唯一来信是礼貌性「Thanks for information」。Q-33 已标注渠道冲突风险。",
-    "need": "—",
-    "breakpoint": "Q-33。",
-    "saga_now": {
-      "p1": "无",
-      "tier": 20,
-      "price": "—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-12 $300（48 Port PoE Managed Switch）、2025-01-31 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-10-20 $180（24 Port PoE Managed Switch = STC-424XGGPM-280W，Alan 2026-09-21 起的现价轮）——同款信稿只能写 $180；群发里他已看到的价（续）：2026-08-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-13 $280（10G Enterprise SFP Switch）",
-      "why": "不碰。已打开的主题（3/21 封有打开记录）：「Industrial PoE Switch」(2025-08-12)、「Mini Industrial PoE Switch」(2025-09-12)、「24 Port PoE Managed Switch」(2026-10-20) → 读者兴趣偏「工业」；与 P1 同类，继续",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "不动",
-      "channel": "—",
-      "action": "—",
-      "one_question": ""
-    },
-    "facts": [
-      {
-        "date": "2025-09-12",
-        "dir": "来",
-        "who": "Success Network",
-        "quote": "Thanks for information",
-        "why": "礼貌回复",
-        "k": "e0f000957aae1a7a"
-      },
-      {
-        "date": "2026-10-20",
-        "dir": "内",
-        "who": "Gmail 退信（S 邮箱）",
-        "quote": "sawithree@success-network.co.th 永久退信：550 No such recipient here",
-        "why": "该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职",
-        "k": "gmail_s 098f53c592a27464"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "官网",
+   "claim": "地址与邮箱",
+   "quote": "Success Network and Communication Co.,Ltd. 12 สุขาภิบาล 5 ซอย 5 แยก 3, แขวงท่าแร้ง เขตบางเขน กรุงเทพมหานคร 10220 … Tel : 02-973 1966 … Tel : 081-659-4477 … Email : info@success-network.co.th",
+   "url": "https://www.success-network.co.th/products/",
+   "date": "2025-09-30"
+  },
+  {
+   "kind": "原厂名录",
+   "claim": "ORing APAC 官方经销商，公开联系邮箱",
+   "quote": "Success Network And Communication Co., Ltd. - sawithree@success-network.co.th - Tel: +6629731670-71 Fax: +6629731673",
+   "url": "https://oringnet.com/en/where-to-buy/apac",
+   "date": "2026-07-22"
+  },
+  {
+   "kind": "注册",
+   "claim": "注册日期与资本",
+   "quote": "SUCCESS NETWORK AND COMMUNICATION CO.,LTD. - เลขทะเบียนนิติบุคคล: 0105554082806 - วันเดือนปีที่จดทะเบียน: วันที่ 24 มิ.ย. 2554 … ทุนจดทะเบียน 10,000,000 บาท",
+   "url": "https://www.dataforthai.com/company/0105554082806/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "列于 Clients/A/同行/Smartbyte.xlsx（SmartByte 经销名单）→ 供应商渠道冲突 Q-33",
+   "quote": "Clients/A/同行/Smartbyte.xlsx 总表",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户裁定",
+   "claim": "Success Network 可以跟进",
+   "quote": "Success Network 这个可以跟进 OK的",
+   "url": "（对话全记录 T27-U5）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "总机",
+   "email": "info@success-network.co.th",
+   "phone": "+66 2 973 1966 / +66 81 659 4477（LINE @success_network）",
+   "source": "https://www.success-network.co.th/contact-us/"
+  },
+  {
+   "name": "（Sawithree，姓氏未公开）",
+   "role": "ORing 经销名录联系人（销售窗口）；地址 2026-10-20 永久退信（550 No such recipient）→ 失效",
+   "email": "sawithree@success-network.co.th",
+   "phone": "+66 2 973 1670-71",
+   "source": "https://oringnet.com/en/where-to-buy/apac"
+  }
+ ],
+ "notes": "A 维持（已回复 + 全品类分销 + 已在卖同源产品），但需先向 SmartByte 确认该客户/其上游（Utepo 等）是否为 SmartByte 直客以免渠道冲突；P1 = STC-424DGGPM-280W（对位 Utepo 24 口 PoE L2+），20% 分销档。 ｜ Q-33 标注（2026-10-21）：SmartByte 经销名单内客户，A 级保留，但首触前需 Simon 裁定。 ｜ Q-33 裁定（Simon 2026-10-21）：Success Network 可以跟进。",
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "深挖 v2（官网 + 注册 + 原厂经销名录核对）"
+ },
+ "company_facts": {
+  "legal_name": "Success Network and Communication Co., Ltd.（บริษัท ซัคเซส เน็ตเวิร์ค แอนด์ คอมมิวนิเคชั่น จำกัด，注册号 0105554082806）",
+  "founded": "2011-06-24，注册资本 1,000 万泰铢",
+  "hq": "12 Soi Sukhaphiban 5 Soi 5 Yaek 3, Tha Raeng, Bang Khen, Bangkok 10220（Tel 02-973-1966 / 081-659-4477；info@success-network.co.th）；注册地 81/19 Nawamin Rd, Khlong Kum, Bueng Kum, Bangkok 10240",
+  "other": "官网 2025-11 更新（改版完成）：品牌 TVT、Scene/IR、Uni-Ubi、ICT、Vissonic、ITC、**Planet（L3 / L2 / Industrial Switch 三类目）**、ORing、Trendnet、Wi-Tek、W-LINK、C-DATA、Asustor、Shuttle、RFID、MW、WINEXT；ORing APAC 官方经销名录与 Edgecore 亚太 reseller 名录均列出；Line @success_network"
+ },
+ "business_lines": [
+  "多品牌网络设备分销（PLANET/ORing/TRENDnet/Wi-Tek/Utepo）",
+  "安防工程",
+  "PLANET / ORing / Wi-Tek / W-LINK / C-DATA 网络交换分销",
+  "TVT CCTV 分销",
+  "全国设计安装（公私营项目）"
+ ],
+ "products_seen": [
+  {
+   "brand": "Utepo",
+   "model": "UTP5628S-PSB-L3",
+   "spec": "L3 PoE 交换机（页面）",
+   "url": "https://success-network.co.th/",
+   "date": "2026-10（首轮调研）",
+   "saga": "STC-424XGGPM-280W"
+  }
+ ],
+ "channels": {
+  "网站": "https://www.success-network.co.th/",
+  "直邮": "info@success-network.co.th（用户表）",
+  "电话": "+66 2 973 1966 / +66 81 659 4477（官网公开）",
+  "邮箱（公开）": "info@success-network.co.th（官网）；sawithree@success-network.co.th（ORing 官方经销名录公开）",
+  "Line": "@success_network"
+ },
+ "signals": [
+  "用户表：工商业 FS，有 Utepo 的",
+  "官网 Planet 类目含 Industrial Switch 与 L2+ 16-SFP / 2.5G SFP 机型——客户对 PLANET 工业 + 光口型谱熟悉，Saga 可按 PLANET 型号对位直接报（2026-10-21）",
+  "2025-11 官网改版完成，营业中",
+  "Q-33 裁定：可跟进（2026-10-21）"
+ ],
+ "risks": [
+  "多品牌小分销，Saga 为又一白牌；泰国价格敏感",
+  "Q-33 裁定（Simon 2026-10-21）：虽在 SmartByte 经销名单内，**可以跟进**（唯一例外）"
+ ],
+ "saga_fit": {
+  "p1": "STC-424DGGPM-280W",
+  "tier": 20,
+  "why": "Utepo/Wi-Tek 位的商用 24 口 PoE 管理 = STC-424DGGPM-280W；工业位 STI-288DGGPM；分销 20% 档"
+ },
+ "email_hook": "Alongside the Utepo and Wi-Tek units you carry, the Marvell-based 24-port PoE+ managed switch and the 8-port industrial PoE DIN model are the two I can quote EXW as a neutral-packing line.",
+ "mail_review": {
+  "binding": {
+   "level": "未绑定（一句「Thanks for information」；Q-33 标注：可能是 SmartByte/Utepo 渠道客户；Elsa 箱：`to:success-network.co.th` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 21 / 来 1）（第 74 批(g)））",
+   "type": "曼谷多品牌分销/集成（已卖同源产品）",
+   "sieve": "1",
+   "stop": "Q-33「不碰，标记」",
+   "revive": "—",
+   "lane": "TH",
+   "cadence": "2024-07 → 2026-10 去信 21 封",
+   "evidence": "k=e0f000957aae1a7a"
+  },
+  "situation": "唯一来信是礼貌性「Thanks for information」。Q-33 已标注渠道冲突风险。",
+  "need": "—",
+  "breakpoint": "Q-33。",
+  "saga_now": {
+   "p1": "无",
+   "tier": 20,
+   "price": "—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-12 $300（48 Port PoE Managed Switch）、2025-01-31 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-10-20 $180（24 Port PoE Managed Switch = STC-424XGGPM-280W，Alan 2026-09-21 起的现价轮）——同款信稿只能写 $180；群发里他已看到的价（续）：2026-08-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-13 $280（10G Enterprise SFP Switch）",
+   "why": "不碰。已打开的主题（3/21 封有打开记录）：「Industrial PoE Switch」(2025-08-12)、「Mini Industrial PoE Switch」(2025-09-12)、「24 Port PoE Managed Switch」(2026-10-20) → 读者兴趣偏「工业」；与 P1 同类，继续",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2025-09-12",
+    "dir": "来",
+    "who": "Success Network",
+    "quote": "Thanks for information",
+    "why": "礼貌回复",
+    "k": "e0f000957aae1a7a"
+   },
+   {
+    "date": "2026-10-20",
+    "dir": "内",
+    "who": "Gmail 退信（S 邮箱）",
+    "quote": "sawithree@success-network.co.th 永久退信：550 No such recipient here",
+    "why": "该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职",
+    "k": "gmail_s 098f53c592a27464"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

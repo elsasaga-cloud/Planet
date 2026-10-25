@@ -27,7 +27,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -44,7 +44,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-153` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未绑定（2025-12 主动表示有兴趣 → 看完价表「prices are rather high」）** ｜ 类型：保加利亚安保服务 + 视频监控集成（3,000 路摄像头存量，用户表）——入站回复型；BG 在欧洲但非主攻国 ｜ 筛子：2 ｜ 停点：2025-12-17「overall, the prices are rather high」→ Alan 请其点名型号再报「best offer」→ 无回 ｜ 复活：其按型号点名；或 Saga 用 Realtek 线对位 4/8 口 PoE（需 Simon 开线） ｜ 通路：BG/EU ｜ 节奏：2025-02 → 2026-09 去信 14 封；最后来信 2025-12-17 ｜ 证据：k=a42411d30baef3d6 / 4c204b4351556387 / 20adc365c4c829ca
+- **绑定等级：未绑定（2025-12 主动表示有兴趣 → 看完价表「prices are rather high」；Elsa 箱：`to:elitteamsecurity.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 14 / 来 2）（第 74 批(g)））** ｜ 类型：保加利亚安保服务 + 视频监控集成（3,000 路摄像头存量，用户表）——入站回复型；BG 在欧洲但非主攻国 ｜ 筛子：2 ｜ 停点：2025-12-17「overall, the prices are rather high」→ Alan 请其点名型号再报「best offer」→ 无回 ｜ 复活：其按型号点名；或 Saga 用 Realtek 线对位 4/8 口 PoE（需 Simon 开线） ｜ 通路：BG/EU ｜ 节奏：2025-02 → 2026-09 去信 14 封；最后来信 2025-12-17 ｜ 证据：k=a42411d30baef3d6 / 4c204b4351556387 / 20adc365c4c829ca
 - **现状一句话**：Lachezar 2025-12-04 的回信很认真：「definitely interested… competitive pricing, flexible OEM terms… appreciate an approximate price range」；看完链接后 12-17 的结论是「prices are rather high」。Alan 请他点名型号再给最优价，没有下文。
 - **对方真实需求（有据）**：4/8 口 PoE（CCTV 项目），价格敏感。
 - **断点 / 为什么停在这里**：价格筛子生效；C6 不设计让价，但「点名型号」这一步对方没走——说明差距不是 10%。
@@ -291,12 +291,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-07**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-08**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 60）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 60）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

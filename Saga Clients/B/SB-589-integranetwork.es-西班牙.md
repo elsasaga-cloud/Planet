@@ -25,7 +25,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -42,7 +42,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-589` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A 邮箱 6 封 2026，无记录打开，0 回；收件 info@integra-nes.es, lola.lucena@integra-nes.es；主题多为「Industrial PoE Switch、10G L3 Managed Switch」）** ｜ 类型：工业网络方案商/专业渠道（西班牙，Lantech 线；铁路/海事守界） ｜ 筛子：1（只收到群发） ｜ 停点：6 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：西班牙（欧洲全域主攻） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 6；用户表：「在用LANTECH的；max: 40% A 西班牙工业网络方案商/专业渠道，核心围绕工业网络与工业交换机选型，客户更偏项目和技术实施 先发工业交换机选型矩阵和E」；研究档 risks：守界：铁路（EN 50155）与海事（DNV）为其重点行业，Saga 无认证不报；仅道路交通/工业项目可做
+- **绑定等级：未触达（A 邮箱 6 封 2026，无记录打开，0 回；收件 info@integra-nes.es, lola.lucena@integra-nes.es；主题多为「Industrial PoE Switch、10G L3 Managed Switch」；Elsa 箱：`to:.es` 穷举 15 条（2026-10-25，锚批 Bcc 头已读）未见 integranetwork.es / integra-nes.es → Elsa 箱从未发过本户，往来只在 S/A 箱（去 6 / 来 0）（第 74 批(f)））** ｜ 类型：工业网络方案商/专业渠道（西班牙，Lantech 线；铁路/海事守界） ｜ 筛子：1（只收到群发） ｜ 停点：6 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：西班牙（欧洲全域主攻） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 6；用户表：「在用LANTECH的；max: 40% A 西班牙工业网络方案商/专业渠道，核心围绕工业网络与工业交换机选型，客户更偏项目和技术实施 先发工业交换机选型矩阵和E」；研究档 risks：守界：铁路（EN 50155）与海事（DNV）为其重点行业，Saga 无认证不报；仅道路交通/工业项目可做
 - **现状一句话**：西班牙 Integra Network / Integra-NES（工业计算设备完整方案：分销、设计与制造；行业铁路、道路交通、海事；工业交换机选型页、EN 50155 交换机、面板 PC；在用 Lantech（GS-R6616XFT / GS-L5416MGFT / GS-R6804XT）；表内 AI「40% A：工业网络方案商/专业渠道，偏项目与技术实施」；KP Lola Lucena（lola.lucena@；表内写 Lola Medina，以邮箱为准待核））；表内无跟进记录。
 - **对方真实需求（有据）**：在用 Lantech 工业管理交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）、8 PoE + 4×10G STI-488XGGPM 用于道路交通/工厂项目；EN50155 铁路与 DNV 海事不报
 - **断点 / 为什么停在这里**：守界：铁路（EN 50155）与海事（DNV）为其重点行业，Saga 无认证不报；仅道路交通/工业项目可做
@@ -275,12 +275,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 37）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 37）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

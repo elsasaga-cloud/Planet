@@ -27,7 +27,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -44,7 +44,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-788` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A 邮箱 4 封 2026，无记录打开，0 回；收件 louise@woodcomm.ie, pat@woodcomm.ie；主题多为「10G L3 Managed Switch、32 Port 400GB DC Switch」）** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：4 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱；Q-33 供应商渠道客户 ｜ 复活：不动（Q-33） ｜ 通路：爱尔兰（欧洲全域主攻） ｜ 节奏：不动 ｜ 证据：gmail_digest：out 4；研究档 risks：PLANET 在其交换机销量占比；采购决策人
+- **绑定等级：未触达（A 邮箱 4 封 2026，无记录打开，0 回；收件 louise@woodcomm.ie, pat@woodcomm.ie；主题多为「10G L3 Managed Switch、32 Port 400GB DC Switch」；Elsa 箱：`to:.ie` 穷举 1 条（2026-10-25，锚批 Bcc 头已读）未见 woodcomm.ie → Elsa 箱从未发过本户，往来只在 S/A 箱（去 4 / 来 0）（第 74 批(f)））** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：4 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱；Q-33 供应商渠道客户 ｜ 复活：不动（Q-33） ｜ 通路：爱尔兰（欧洲全域主攻） ｜ 节奏：不动 ｜ 证据：gmail_digest：out 4；研究档 risks：PLANET 在其交换机销量占比；采购决策人
 - **现状一句话**：都柏林的基础设施分销商，面向爱尔兰集成商与数据中心，PLANET 是其交换机品牌之一。类型：分销商（IP/基础设施/安防分销，数据中心方向，约 16 人）。信号：目录品牌页 PLANET Technology（GSD-804P 等）。Planet 渠道档案 PB-013 评级 B（需求：PLANET 品牌页；触达：sales@woodcomm.ie 通用；LinkedIn 帖中出现 John@woodcomm.ie（仅名无姓，不作 KP）；体量 16 人 → B）。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-788，爱尔兰，未互动）与 Planet 渠道挖掘名单，首触邮件此前未发送。
 - **对方真实需求（有据）**：对位其在售 GSD-804P 一档的 8 口 PoE（Saga 为 8 PoE + 2 SFP 管理型）；分销走量 → 20%（沿用 Planet 档案 PB-013）；需求：
 - **断点 / 为什么停在这里**：PLANET 在其交换机销量占比；采购决策人
@@ -263,12 +263,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 33）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 33）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

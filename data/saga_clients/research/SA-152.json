@@ -59,7 +59,7 @@
  "email_hook": "ISAF'ta görüştüğümüz PoE switch için: 8 port gigabit PoE+ yönetilebilir, 2 SFP, $84.1 EXW; yönetilemeyen 8 port PoE $26.2. Kaç kamera için planlıyorsunuz?",
  "mail_review": {
   "binding": {
-   "level": "未发信（S/A 邮箱均无往来；来源：调研建档）",
+   "level": "未发信（S/A 邮箱均无往来；来源：调研建档；Elsa 箱：`to:bilgeguvenlik.com` 逐户查 0（2026-10-24 第 73 批(o)，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(g)））",
    "type": "安防安装/经销商",
    "sieve": "—（未入筛）",
    "stop": "从未触达",

@@ -27,7 +27,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -44,7 +44,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-044` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未绑定（2025-04 要公司名与目录 → 给了 → 无下文）** ｜ 类型：韩国自有品牌 PoE 交换机/AP（部分军用无线——守界只供硬件）；Moonsoo Park ｜ 筛子：1 ｜ 停点：2025-04-16 目录后无回 ｜ 复活：其 PoE 交换机换源 ｜ 通路：KR ｜ 节奏：2024-06 → 2026-09 去信 28 封；最后来信 2025-04-15 ｜ 证据：k=2cc027d0b96713b6 / e7ae897881e06df3
+- **绑定等级：未绑定（2025-04 要公司名与目录 → 给了 → 无下文；Elsa 箱：`to:gtwave.co.kr` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 28 / 来 1）（第 74 批(g)））** ｜ 类型：韩国自有品牌 PoE 交换机/AP（部分军用无线——守界只供硬件）；Moonsoo Park ｜ 筛子：1 ｜ 停点：2025-04-16 目录后无回 ｜ 复活：其 PoE 交换机换源 ｜ 通路：KR ｜ 节奏：2024-06 → 2026-09 去信 28 封；最后来信 2025-04-15 ｜ 证据：k=2cc027d0b96713b6 / e7ae897881e06df3
 - **现状一句话**：Park 2025-04-15 回「Let me know your company name and send me catalogue」，Alan 次日给公司名 + 目录；无回。群发邮件没有公司名——对方第一反应是「你是谁」。
 - **对方真实需求（有据）**：自有品牌 PoE 交换机。
 - **断点 / 为什么停在这里**：身份不清（群发署名只有 Alan/Saga Telecom/OEM Factory）→ 目录后无回。
@@ -286,12 +286,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-07**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-08**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 83）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 83）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

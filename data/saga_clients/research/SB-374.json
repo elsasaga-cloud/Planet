@@ -1,138 +1,138 @@
 {
-  "code": "SB-374",
-  "name_official": "",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（tinycontrol.pl，快照 2026-10-21）",
-  "summary": "波兰 tinycontrol / ATS（tinycontrol 为 LAN 控制器/PoE 产品小品牌，站内 PoE switch、PoE switch 4F1G 页面；表内「产品比较少但看着都比较专业」「2 光 10 电」「可以着重跟一下」；KP Marcin Nosek（notek@ats.pl））；群发 22 次无回复。",
-  "type": "LAN 控制/PoE 小品牌商（波兰，自有品牌）",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "官网标题：tinycontrol",
-      "quote": "",
-      "url": "https://tinycontrol.pl/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "产品比较少 但看着都比较专业；2光10电；下边是客户CC的",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网快照",
-      "claim": "官网标题：tinycontrol；品类词 网络交换 / PoE",
-      "quote": "",
-      "url": "https://tinycontrol.pl/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网快照",
-      "claim": "tinycontrol 页面",
-      "quote": "tinycontrol ; /en/poe-switch/ ; /en/poe-switch-4f1g/",
-      "url": "https://tinycontrol.pl/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "2 光 10 电；着重跟",
-      "quote": "产品比较少 但看着都比较专业 / 2光10电；可以着重跟一下",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Marcin Nosek",
-      "title": "（职务待核）",
-      "email": "notek@ats.pl",
-      "phone": "",
-      "source": "用户表"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ "code": "SB-374",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（tinycontrol.pl，快照 2026-10-21）",
+ "summary": "波兰 tinycontrol / ATS（tinycontrol 为 LAN 控制器/PoE 产品小品牌，站内 PoE switch、PoE switch 4F1G 页面；表内「产品比较少但看着都比较专业」「2 光 10 电」「可以着重跟一下」；KP Marcin Nosek（notek@ats.pl））；群发 22 次无回复。",
+ "type": "LAN 控制/PoE 小品牌商（波兰，自有品牌）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：tinycontrol",
+   "quote": "",
+   "url": "https://tinycontrol.pl/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "hq": "波兰",
-    "other": "官网 tinycontrol.pl，语言 en，快照状态 ok；角色判定来源：待核"
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "产品比较少 但看着都比较专业；2光10电；下边是客户CC的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "LAN 控制器 / PoE 交换机（自有品牌 tinycontrol）"
-  ],
-  "channels": {
-    "role": "LAN 控制/PoE 小品牌商（波兰，自有品牌）",
-    "region": "波兰",
-    "contact": "info@tinycontrol.pl、notek@ats.pl"
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：tinycontrol；品类词 网络交换 / PoE",
+   "quote": "",
+   "url": "https://tinycontrol.pl/",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "页面 /en/poe-switch/、/en/poe-switch-4f1g/",
-    "表内：产品比较少 但看着都比较专业 / 2 光 10 电；下边是客户 CC 的；KP Marcin Nosek；可以着重跟一下"
-  ],
-  "risks": [
-    "22 次无回复（低期望，但用户标「可以着重跟一下」）；10 GE + 2 SFP 精确规格在 Saga 列表中待核；官网快照空"
-  ],
-  "saga_fit": {
-    "p1": "STC-28DGGPM",
-    "tier": 30,
-    "why": "2 光 10 电需求 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%，口数 8+2，注明差异；10 GE + 2 SFP 型号待核）贴 tinycontrol 标；4F1G 位 HRUI STC-114GP（列表价，注明）"
+  {
+   "kind": "官网快照",
+   "claim": "tinycontrol 页面",
+   "quote": "tinycontrol ; /en/poe-switch/ ; /en/poe-switch-4f1g/",
+   "url": "https://tinycontrol.pl/",
+   "date": "2026-10-21"
   },
-  "email_hook": "Marcin, for the PoE switches in the tinycontrol range (4F1G and the 2-fibre + 10-copper spec you asked about), we can be an ODM source on a Marvell L2+ platform (8/10-GE PoE + 2 SFP, web-managed, CE/RoHS) in your packaging from small lots — which configuration do you want quoted first?",
-  "mail_review": {
-    "binding": {
-      "level": "未触达（A/S 邮箱 39 封 2024→2026，无记录打开，0 回；收件 info@tinycontrol.pl, notek@ats.pl；主题多为「10G Enterprise SFP Switch、8 Port Industrial PoE Switch」）",
-      "type": "LAN 控制/PoE 小品牌商（波兰，自有品牌）",
-      "sieve": "1（只收到群发）",
-      "stop": "39 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-      "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
-      "lane": "PL 次级重点",
-      "cadence": "一封",
-      "evidence": "gmail_digest：out 39；用户表：「产品比较少 但看着都比较专业；2光10电；下边是客户CC的」；研究档 risks：22 次无回复（低期望，但用户标「可以着重跟一下」）；10 GE + 2 SFP 精确规格在 Saga 列表中待核；官网快照空"
-    },
-    "situation": "波兰 tinycontrol / ATS（tinycontrol 为 LAN 控制器/PoE 产品小品牌，站内 PoE switch、PoE switch 4F1G 页面；表内「产品比较少但看着都比较专业」「2 光 10 电」「可以着重跟一下」；KP Marcin Nosek（notek@ats.pl））；群发 22 次无回复。",
-    "need": "2 光 10 电需求 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%，口数 8+2，注明差异；10 GE + 2 SFP 型号待核）贴 tinycontrol 标；4F1G 位 HRUI STC-114GP（列表价，注明）",
-    "breakpoint": "22 次无回复（低期望，但用户标「可以着重跟一下」）；10 GE + 2 SFP 精确规格在 Saga 列表中待核；官网快照空",
-    "saga_now": {
-      "p1": "STC-28DGGPM",
-      "tier": 30,
-      "price": "换人再触锚价 STC-28DGGPM $87.4 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-13 $65（10G Media Converter）；群发里他已看到的价（续）：2026-08-21 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-06-17 $220（48 port managed switch）、2025-10-21 $280（10G Enterprise SFP Switch）",
-      "why": "2 光 10 电需求 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%，口数 8+2，注明差异；10 GE + 2 SFP 型号待核）贴 tinycontrol 标；4F1G 位 HRUI STC-114GP（列表价，注明）",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "2027-Q1（换人后）",
-      "channel": "A 邮箱 → 具名 KP",
-      "action": "换收件人再发一封",
-      "one_question": "Marcin, for the PoE switches in the tinycontrol range (4F1G and the 2-fibre + 10-copper spec you asked about), we can be an ODM source on a Marvell L2+ platform (8/10-GE PoE + 2 SFP, web-managed, CE/RoHS) in your packaging from small lots — which configuration do you want quoted first? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity)."
-    },
-    "facts": [
-      {
-        "date": "2026-09-28",
-        "dir": "去",
-        "who": "A/S 群发",
-        "quote": "10G Enterprise SFP Switch、8 Port Industrial PoE Switch",
-        "why": "39 封 / 0 次打开 / 0 回｜首封 2024-06-17 → 末封 2026-09-28（39 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "产品比较少 但看着都比较专业；2光10电；下边是客户CC的",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "2 光 10 电；着重跟",
+   "quote": "产品比较少 但看着都比较专业 / 2光10电；可以着重跟一下",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Marcin Nosek",
+   "title": "（职务待核）",
+   "email": "notek@ats.pl",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "波兰",
+  "other": "官网 tinycontrol.pl，语言 en，快照状态 ok；角色判定来源：待核"
+ },
+ "business_lines": [
+  "LAN 控制器 / PoE 交换机（自有品牌 tinycontrol）"
+ ],
+ "channels": {
+  "role": "LAN 控制/PoE 小品牌商（波兰，自有品牌）",
+  "region": "波兰",
+  "contact": "info@tinycontrol.pl、notek@ats.pl"
+ },
+ "signals": [
+  "页面 /en/poe-switch/、/en/poe-switch-4f1g/",
+  "表内：产品比较少 但看着都比较专业 / 2 光 10 电；下边是客户 CC 的；KP Marcin Nosek；可以着重跟一下"
+ ],
+ "risks": [
+  "22 次无回复（低期望，但用户标「可以着重跟一下」）；10 GE + 2 SFP 精确规格在 Saga 列表中待核；官网快照空"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 30,
+  "why": "2 光 10 电需求 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%，口数 8+2，注明差异；10 GE + 2 SFP 型号待核）贴 tinycontrol 标；4F1G 位 HRUI STC-114GP（列表价，注明）"
+ },
+ "email_hook": "Marcin, for the PoE switches in the tinycontrol range (4F1G and the 2-fibre + 10-copper spec you asked about), we can be an ODM source on a Marvell L2+ platform (8/10-GE PoE + 2 SFP, web-managed, CE/RoHS) in your packaging from small lots — which configuration do you want quoted first?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 39 封 2024→2026，无记录打开，0 回；收件 info@tinycontrol.pl, notek@ats.pl；主题多为「10G Enterprise SFP Switch、8 Port Industrial PoE Switch」；Elsa 箱：`to:.pl` 穷举 24 条（2026-10-25，锚批 Bcc 头已读）未见 tinycontrol.pl / ats.pl → Elsa 箱从未发过本户，往来只在 S/A 箱（去 39 / 来 0）（第 74 批(f)））",
+   "type": "LAN 控制/PoE 小品牌商（波兰，自有品牌）",
+   "sieve": "1（只收到群发）",
+   "stop": "39 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+   "lane": "PL 次级重点",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 39；用户表：「产品比较少 但看着都比较专业；2光10电；下边是客户CC的」；研究档 risks：22 次无回复（低期望，但用户标「可以着重跟一下」）；10 GE + 2 SFP 精确规格在 Saga 列表中待核；官网快照空"
+  },
+  "situation": "波兰 tinycontrol / ATS（tinycontrol 为 LAN 控制器/PoE 产品小品牌，站内 PoE switch、PoE switch 4F1G 页面；表内「产品比较少但看着都比较专业」「2 光 10 电」「可以着重跟一下」；KP Marcin Nosek（notek@ats.pl））；群发 22 次无回复。",
+  "need": "2 光 10 电需求 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%，口数 8+2，注明差异；10 GE + 2 SFP 型号待核）贴 tinycontrol 标；4F1G 位 HRUI STC-114GP（列表价，注明）",
+  "breakpoint": "22 次无回复（低期望，但用户标「可以着重跟一下」）；10 GE + 2 SFP 精确规格在 Saga 列表中待核；官网快照空",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 30,
+   "price": "换人再触锚价 STC-28DGGPM $87.4 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-13 $65（10G Media Converter）；群发里他已看到的价（续）：2026-08-21 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-06-17 $220（48 port managed switch）、2025-10-21 $280（10G Enterprise SFP Switch）",
+   "why": "2 光 10 电需求 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%，口数 8+2，注明差异；10 GE + 2 SFP 型号待核）贴 tinycontrol 标；4F1G 位 HRUI STC-114GP（列表价，注明）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1（换人后）",
+   "channel": "A 邮箱 → 具名 KP",
+   "action": "换收件人再发一封",
+   "one_question": "Marcin, for the PoE switches in the tinycontrol range (4F1G and the 2-fibre + 10-copper spec you asked about), we can be an ODM source on a Marvell L2+ platform (8/10-GE PoE + 2 SFP, web-managed, CE/RoHS) in your packaging from small lots — which configuration do you want quoted first? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity)."
+  },
+  "facts": [
+   {
+    "date": "2026-09-28",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "10G Enterprise SFP Switch、8 Port Industrial PoE Switch",
+    "why": "39 封 / 0 次打开 / 0 回｜首封 2024-06-17 → 末封 2026-09-28（39 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "产品比较少 但看着都比较专业；2光10电；下边是客户CC的",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

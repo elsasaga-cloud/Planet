@@ -28,7 +28,7 @@ price_tier: 30%
 research: done
 site_snapshot: none
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -45,7 +45,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-168` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：中度（Simon U28 定级为轻度；按 J4 证据梯度实为中度，接近较深）——自有品牌 ANW/TronX 两条线、176 台已部署 60+ 站点、写进 Angora 为 Turk Telekom 做的管理系统（SNMP v3）、要求 Saga 代工其自研 6 层 IoT 板、2026-07-31 Angora 主动提交 6 页《Enterprise L3 Recommendation Report》要求共同投资产品路线 + 优先伙伴条款，Saga 2026-08-17 书面给出 Marvell L2+ / CENTEC L3 的战略回答。未到「深」：2025-07 后无新 PI，核心机已另选他家，企业级 L3 诉求 Saga 不做。** ｜ 类型：OEM 品牌商 + 运营商/公共部门集成商（技术流；价格敏感的是其终端招标） ｜ 筛子：3（10 个单号 $61,669、Xtransfer、演示机、售后排障、保密 RfP 共享） ｜ 停点：不要再承诺 Marvell 线的堆叠/OOB/双电源/BGP（2024-11-07 与 2026-08-17 已两次书面说不做）；不要再给 Angora 发群发模板 ｜ 复活：微信 Levent：CENTEC L3 测试机 + 2K 台工业机 + 警察局 RfP 结果；邮件 Taylan：Saga Feature List 7.5.x 反馈 ｜ 通路：TR 已通（Xtransfer/TRY、DAP、Levent 微信 + 邮件双线） ｜ 节奏：最后 2026-07-08 Simon 回 AC5 过渡（Levent 微信收 BIN）；实质往来 2024-05 → 2026-07 持续，来 144 封；监控 2026-10 官网/feed 无新动态 ｜ 证据：S 邮箱 312 封 / 32 线程（2024-04-28 → 2026-07-08）+ Drive 10 单 PI $61,669 + Proposal（2024-09-25）+ Key Points 2024.10.31 + Turkey Client List（2024-11-05，64 家）+ TronX PI STSC20241129007（未付）+ PC0012 Gerber/BOM + L3 Recommendation Report（2026-07-31）+ Reply（2026-08-17）+ 加深关系绑定.docx + 运费一览表
+- **绑定等级：中度（Simon U28 定级为轻度；按 J4 证据梯度实为中度，接近较深）——自有品牌 ANW/TronX 两条线、176 台已部署 60+ 站点、写进 Angora 为 Turk Telekom 做的管理系统（SNMP v3）、要求 Saga 代工其自研 6 层 IoT 板、2026-07-31 Angora 主动提交 6 页《Enterprise L3 Recommendation Report》要求共同投资产品路线 + 优先伙伴条款，Saga 2026-08-17 书面给出 Marvell L2+ / CENTEC L3 的战略回答。未到「深」：2025-07 后无新 PI，核心机已另选他家，企业级 L3 诉求 Saga 不做。；Elsa 箱：`to:angoranetworks.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 168 / 来 144）（第 74 批(g)）** ｜ 类型：OEM 品牌商 + 运营商/公共部门集成商（技术流；价格敏感的是其终端招标） ｜ 筛子：3（10 个单号 $61,669、Xtransfer、演示机、售后排障、保密 RfP 共享） ｜ 停点：不要再承诺 Marvell 线的堆叠/OOB/双电源/BGP（2024-11-07 与 2026-08-17 已两次书面说不做）；不要再给 Angora 发群发模板 ｜ 复活：微信 Levent：CENTEC L3 测试机 + 2K 台工业机 + 警察局 RfP 结果；邮件 Taylan：Saga Feature List 7.5.x 反馈 ｜ 通路：TR 已通（Xtransfer/TRY、DAP、Levent 微信 + 邮件双线） ｜ 节奏：最后 2026-07-08 Simon 回 AC5 过渡（Levent 微信收 BIN）；实质往来 2024-05 → 2026-07 持续，来 144 封；监控 2026-10 官网/feed 无新动态 ｜ 证据：S 邮箱 312 封 / 32 线程（2024-04-28 → 2026-07-08）+ Drive 10 单 PI $61,669 + Proposal（2024-09-25）+ Key Points 2024.10.31 + Turkey Client List（2024-11-05，64 家）+ TronX PI STSC20241129007（未付）+ PC0012 Gerber/BOM + L3 Recommendation Report（2026-07-31）+ Reply（2026-08-17）+ 加深关系绑定.docx + 运费一览表
 - **现状一句话**：安卡拉 Angora Networks（Levent Kılıç CEO、Taylan Esen 技术、硬件总工 Mehmet；第二品牌 TronX = TRONX BILISIM, Mustafa Calik）是 PI 包第一大客（10 单 $61,669）。S 邮箱 312 封（2024-04-28 → 2026-07-08，32 个线程）+ 微信主线。轨迹：2024-04 Saga 群发→Levent 追问 Marvell 全线可贴牌→05 月样品 STC-424XGGPM/28DGGPM→06–09 月 Turk Telekom 工业机 250→385 台项目（HTTPS/SFTP/ACL/sFlow 需求触发 AC3→AC5）→09-20 客户端出问题搁置→09-25 Saga 主动提《Proposal》请 Angora 做欧盟分销/代理（11-05 附 64 家土耳其客户名单）→10-31 微信会议定付款底线（小单全款、大单 30/70、寄售不接受）→2024-10/11 7 台 ANW 商用机→2025-03 176 台 ANW-2116-PG（TT 项目，已部署 60+ 站点）→2025-03 ODM 数据中心机 48×25G+8×100G 报 CENTEC $4,600 被嫌贵（客户预算 <$4,000）→2025-04 TronX 框架协议（24/48 口走 Saga，核心机不走）→2025-05 「5,000 台 STI-288DGGPM」大项目（后缩 2,000/60 天，至今无 PI）+ IoT 板 PC0012 代工询问（Gerber/BOM 已给）→2025-06 6 台 AC5 演示机→2025-07 SNMPv3 对接 TT 管理系统、nemengine SFP 测试、NATO MC 询价（partner 否决）→2025-10/11 Gaziantep 60+ 站点掉包排障（「not a hardware issue」）→2026-03 Turkish Police 三份 RfP（保密）→2026-07 TT 安全团队要 16 口工业机更新版（AC3 停产）→**2026-07-31 Levent 6 页《SAGA Enterprise L3 Recommendation Report》正式要求企业级 L3（堆叠/USB/OOB/双电源 + OSPF/BGP/VRF）+ 长期战略伙伴条款 → 2026-08-17 Simon 书面婉拒 Marvell L3 投入、给 CENTEC L3 选项**。没有 A 邮箱往来。｜2026-10-02 微信：Levent 预告 88 台 L2+ 工业 8 口 + 48V 电源订单，Simon 次日报 875 RMB + 250 RMB（明纬 240W），Levent「Great」；截至 10-24 PI 文件夹里还没有第 7 单。
 - **对方真实需求（有据）**：Angora 需要的是「能投标的土耳其本地品牌全线」：L2+ 接入（已有）+ 企业级 L3 汇聚（堆叠/OOB/双电源/BGP/VRF，Saga Marvell 线不做）+ 数据中心核心（CENTEC，价格差 $600+）+ 工业机大批量（TT 5K 项目悬着）+ IoT 板代工。痛点：Turk Telekom/警察局等公共采购的技术打分表、客户预算（<$4,000 核心机）、清关时间长、AC3 停产后 TT 客户要求「更新版本」。
 - **断点 / 为什么停在这里**：① 2026-08-17 之后邮件沉默：Simon 的三条反方案（测 AC5 / 看 L3 feature list / 评估 CENTEC）Angora 有没有回应，仓库和邮箱都没有记录——很可能在微信。② 5K/2K 台 STI-288DGGPM 大项目 + IoT 板代工自 2025-06 后无 PI。③ 数据中心机 CENTEC $4,600 vs 预算 $4,000 没谈拢，TronX 核心机已另选。④ Saga 2024-11 交给 Angora 的 64 家土耳其名单里 43 家 A/B 账号 Saga 自己也在直发——Angora 若自视为 Saga 土耳其代理，这是潜在摩擦（Q-51）。
@@ -487,12 +487,12 @@ Simon
 
 ## 下次复核
 
-- **2026-11-07**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-08**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 108）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 108）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

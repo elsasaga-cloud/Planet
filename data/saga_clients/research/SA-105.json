@@ -74,7 +74,7 @@
  "email_hook": "James — last year you still had stock; any PoE or 10G project in Warsaw this spring where a second source would help? If not, I will check back after summer.",
  "mail_review": {
   "binding": {
-   "level": "轻度触达·明确无需求（WhatsApp 活着：2023-12→2025-02 每次推送都有回，但 7 次「暂时没需求」+ 2024-10「还有库存」；A 邮箱 3 封 2026 无打开）",
+   "level": "轻度触达·明确无需求（WhatsApp 活着：2023-12→2025-02 每次推送都有回，但 7 次「暂时没需求」+ 2024-10「还有库存」；A 邮箱 3 封 2026 无打开；Elsa 箱：`to:.pl` 穷举 24 条（2026-10-25，锚批 Bcc 头已读）未见 tricomp.com.pl → Elsa 箱从未发过本户，往来只在 S/A 箱（去 3 / 来 0）（第 74 批(f)））",
    "type": "IT/电信工程与咨询公司",
    "sieve": "2（回应但无需求）",
    "stop": "连续 7 次「暂时没需求」= 对方已把我们当作「有需要再找」的备选；库存未消化",

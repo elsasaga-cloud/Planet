@@ -1,156 +1,156 @@
 {
-  "code": "SB-860",
-  "name_official": "Shop4Power (Shop4power / shop4networks)",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（shop4power.nl；并档 Planet 渠道档案 PB-045）",
-  "summary": "上艾瑟尔省 Wijhe 的 UPS/电源与 PLANET 交换机专营网店，服务荷兰与比利时，PLANET 工业/商用交换机多款现货，另有 E-Link 交换机线。类型：专业网店/经销（自述「Power Supply, Switches & Planet Ethernet Specialist」「De Power Specialist van Nederland & België」；UPS/电池 + PLANET 交换机 + E-Link 交换机；NL/BE 发货，多数现货）。信号：官网自述「Shop4power levert Planet Ethernet en E-Link Switches voor al uw toepassingen」；PLANET 品牌区 + 产品页（IGS-5225-8P2S2X 现货、SGS-5240-20S4C4XR、FSD-2405）；Mikrotik 仓库 C-259 标「分销+自有品牌 PLANET + E-Link」。Planet 渠道档案 PB-045 评级 B（需求：PLANET 专营自述 + 工业/商用 PLANET 多款现货 + E-Link 第二线；触达：info@shop4power.nl 官网多页公开，无具名；体量微型网店（Wijhe），可赢；区域荷兰（一线）；Mikrotik C-259（太难·自有品牌）→ 本仓按 OEM 机会重评 B）。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-860，荷兰，Saga 群发已推送 15 次无回复）与 Planet 渠道挖掘名单，首触邮件此前未发送。",
-  "type": "",
-  "size": "",
-  "brands_seen": [
-    "PLANET",
-    "MikroTik"
-  ],
-  "evidence": [
-    {
-      "kind": "公司自述",
-      "claim": "PLANET 专营自述 + 联系方式",
-      "quote": "Shop4Power - Power Supply, Switches & Planet Ethernet Specialist … Shop4power levert Planet Ethernet en E-Link Switches voor al uw toepassingen. Wij leveren de meeste producten uit voorraad én tegen scherpe prijzen. … ADRES Duisterendijk 5A, 8131 RA Wijhe TELEFOON +31 (0)85 40 19 230 E-MAIL info@shop4power.nl",
-      "url": "https://shop4power.nl/",
-      "date": "2026-10-19"
-    },
-    {
-      "kind": "卖方目录",
-      "claim": "PLANET 工业 PoE 现货",
-      "quote": "The IGS-5225-8P2S2X Industrial L3 8-port Gb POE+ + 2-port 1G/2,5G SFP + 2-port 10G SFP Switch is available from stock at shop4power.nl … Gb Switches: All Planet Gb+ switches listed.",
-      "url": "https://shop4power.nl/en/s/merken/shop4power/",
-      "date": "2026-10-19"
-    },
-    {
-      "kind": "公司自述",
-      "claim": "覆盖 NL/BE",
-      "quote": "Over Shop4Power - De Power Specialist van Nederland & België … Wij zijn gevestigd in Wijhe (Overijssel) en leveren ook vanuit daar de producten uit.",
-      "url": "https://shop4power.nl/over-ons/",
-      "date": "2023-01-12"
-    },
-    {
-      "kind": "公司自述",
-      "claim": "法人/品牌名",
-      "quote": "Complete contactgegevens: Shop4power/shop4networks Duisterendijk 5a 8131 RA WIJHE / Nederland T 085 – 401 92 30 E info@shop4power.nl",
-      "url": "https://shop4power.nl/privacybeleid/",
-      "date": "2025-06-11"
-    },
-    {
-      "kind": "Mikrotik 仓库",
-      "claim": "C-259 同户：分销+自有品牌 PLANET + E-Link，C 太难·自有品牌",
-      "quote": "C-259 shop4power.nl 荷兰 分销+自有品牌 PLANET + E-Link 官网表单+邮件 … C 太难·自有品牌 … 类型属大盘/自有品牌（分销+自有品牌），决策链长或存在品牌冲突",
-      "url": "https://github.com/SimonSaga-202306/mikrotik-info/blob/arena/01a0c3ef-mikrotik-info/客户名单_反向信号_2026-09.csv",
-      "date": "2026-10-19"
-    }
-  ],
-  "kp": [],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（并档 Planet 渠道档案 PB-045，W 批次调研 2026-10-19/20）"
+ "code": "SB-860",
+ "name_official": "Shop4Power (Shop4power / shop4networks)",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（shop4power.nl；并档 Planet 渠道档案 PB-045）",
+ "summary": "上艾瑟尔省 Wijhe 的 UPS/电源与 PLANET 交换机专营网店，服务荷兰与比利时，PLANET 工业/商用交换机多款现货，另有 E-Link 交换机线。类型：专业网店/经销（自述「Power Supply, Switches & Planet Ethernet Specialist」「De Power Specialist van Nederland & België」；UPS/电池 + PLANET 交换机 + E-Link 交换机；NL/BE 发货，多数现货）。信号：官网自述「Shop4power levert Planet Ethernet en E-Link Switches voor al uw toepassingen」；PLANET 品牌区 + 产品页（IGS-5225-8P2S2X 现货、SGS-5240-20S4C4XR、FSD-2405）；Mikrotik 仓库 C-259 标「分销+自有品牌 PLANET + E-Link」。Planet 渠道档案 PB-045 评级 B（需求：PLANET 专营自述 + 工业/商用 PLANET 多款现货 + E-Link 第二线；触达：info@shop4power.nl 官网多页公开，无具名；体量微型网店（Wijhe），可赢；区域荷兰（一线）；Mikrotik C-259（太难·自有品牌）→ 本仓按 OEM 机会重评 B）。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-860，荷兰，Saga 群发已推送 15 次无回复）与 Planet 渠道挖掘名单，首触邮件此前未发送。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "PLANET",
+  "MikroTik"
+ ],
+ "evidence": [
+  {
+   "kind": "公司自述",
+   "claim": "PLANET 专营自述 + 联系方式",
+   "quote": "Shop4Power - Power Supply, Switches & Planet Ethernet Specialist … Shop4power levert Planet Ethernet en E-Link Switches voor al uw toepassingen. Wij leveren de meeste producten uit voorraad én tegen scherpe prijzen. … ADRES Duisterendijk 5A, 8131 RA Wijhe TELEFOON +31 (0)85 40 19 230 E-MAIL info@shop4power.nl",
+   "url": "https://shop4power.nl/",
+   "date": "2026-10-19"
   },
-  "company_facts": {
-    "legal_name": "Shop4Power (Shop4power / shop4networks)",
-    "founded": "",
-    "hq": "Wijhe（Overijssel）, 荷兰",
-    "size": "",
-    "other": "Planet 渠道档案 PB-045（2026-10-19_W05_Mikrotik关联行核验与无邮箱C重评_TR-UK-ES-NL.json）；自有品牌：待核（E-Link：Mikrotik 侧记为自有品牌；首触第一问核实）；最大未知：E-Link 归属（自有/转售）；PLANET 年台数；是否从 PLANET 荷兰渠道拿货"
+  {
+   "kind": "卖方目录",
+   "claim": "PLANET 工业 PoE 现货",
+   "quote": "The IGS-5225-8P2S2X Industrial L3 8-port Gb POE+ + 2-port 1G/2,5G SFP + 2-port 10G SFP Switch is available from stock at shop4power.nl … Gb Switches: All Planet Gb+ switches listed.",
+   "url": "https://shop4power.nl/en/s/merken/shop4power/",
+   "date": "2026-10-19"
   },
-  "business_lines": [
-    "专业网店/经销（自述「Power Supply, Switches & Planet Ethernet Specialist」「De Power Specialist van Nederland & België」；UPS/电池 + PLANET 交换机 + E-Link 交换机；NL/BE 发货，多数现货）"
-  ],
-  "products_seen": [
-    {
-      "brand": "PLANET",
-      "model": "IGS-5225-8P2S2X",
-      "spec": "PLANET 为工业 8 PoE + 2×1G/2.5G SFP + 2×10G SFP+；Saga 为工业 8 PoE + 4×10G SFP+ L2+（上联形态不同，注明）",
-      "saga": "STI-488XGGPM",
-      "url": "https://shop4power.nl",
-      "date": "2026-10-19"
-    },
-    {
-      "brand": "PLANET",
-      "model": "FSD-2405",
-      "spec": "24 口百兆非管理，Saga 暂无对应型号（不推）",
-      "saga": "—",
-      "url": "https://shop4power.nl",
-      "date": "2026-10-19"
-    },
-    {
-      "brand": "PLANET",
-      "model": "GS-4210-24P4C",
-      "spec": "商用 24 PoE 对位",
-      "saga": "STC-424DGGPM-280W",
-      "url": "https://shop4power.nl",
-      "date": "2026-10-19"
-    }
-  ],
-  "channels": {
-    "role": "专业网店/经销（自述「Power Supply, Switches & Planet Ethernet Specialist」「De Power Specialist van Nederland & België」；UPS/电池 + PLANET 交换机 + E-Link 交换机；NL/BE 发货，多数现货）",
-    "region": "荷兰"
+  {
+   "kind": "公司自述",
+   "claim": "覆盖 NL/BE",
+   "quote": "Over Shop4Power - De Power Specialist van Nederland & België … Wij zijn gevestigd in Wijhe (Overijssel) en leveren ook vanuit daar de producten uit.",
+   "url": "https://shop4power.nl/over-ons/",
+   "date": "2023-01-12"
   },
-  "signals": [
-    "荷兰少见的 PLANET 专营网店（此前 NL 只有泛电商与 Alarmsysteemexpert）——PLANET 是其交换机主线，E-Link 为其第二条（疑自有/白牌）线；Mikrotik 侧按「自有品牌太难」沉 C，本仓按 OEM 角度视为机会；info@ 官网多页公开",
-    "第二货源对位：对位其现货主推 IGS-5225-8P2S2X（工业 8 PoE + 2×1G/2.5G SFP + 2×10G SFP+）——Saga 为工业 8 PoE + 4×10G SFP+ L2+（上联形态不同，注明）",
-    "样机到 Wijhe：30 天并行测试，不要求承诺；兼容其在用 SFP"
-  ],
-  "risks": [
-    "E-Link 归属（自有/转售）；PLANET 年台数；是否从 PLANET 荷兰渠道拿货",
-    "Planet 首触邮件未发送（Elsa 账号待定）",
-    "Saga 群发已推送 15 次无回复 → 改用具名收件人与新钩子（勿再用群发模板）"
-  ],
-  "saga_fit": {
-    "p1": "STI-488XGGPM",
-    "tier": 20,
-    "why": "对位其现货主推 IGS-5225-8P2S2X（工业 8 PoE + 2×1G/2.5G SFP + 2×10G SFP+）——Saga 为工业 8 PoE + 4×10G SFP+ L2+（上联形态不同，注明）；专业网店走量 → 20%（E-Link 若为其白牌则转 30% 贴牌档）（沿用 Planet 档案 PB-045）；需求："
+  {
+   "kind": "公司自述",
+   "claim": "法人/品牌名",
+   "quote": "Complete contactgegevens: Shop4power/shop4networks Duisterendijk 5a 8131 RA WIJHE / Nederland T 085 – 401 92 30 E info@shop4power.nl",
+   "url": "https://shop4power.nl/privacybeleid/",
+   "date": "2025-06-11"
   },
-  "email_hook": "You stock PLANET's IGS-5225 line and sell E-Link switches beside it; an industrial 8-port PoE+ with 10G uplinks sourced direct gives you a third price point — or an own-label option. Is E-Link your own label or a brand you resell, and which PoE switch size do your NL/BE customers reorder most?",
-  "mail_review": {
-    "binding": {
-      "level": "未触达（A/S 邮箱 23 封 2024→2026，无记录打开，0 回；收件 info@shop4power.nl；主题多为「Industrial PoE Switch、Marvell Alleycat5 Solution」）",
-      "type": "—",
-      "sieve": "1（只收到群发）",
-      "stop": "只打通用邮箱，无记录打开；Q-33 供应商渠道客户",
-      "revive": "不动（Q-33）",
-      "lane": "荷兰（欧洲全域主攻）",
-      "cadence": "不动",
-      "evidence": "gmail_digest：out 23；研究档 risks：E-Link 归属（自有/转售）；PLANET 年台数；是否从 PLANET 荷兰渠道拿货"
-    },
-    "situation": "上艾瑟尔省 Wijhe 的 UPS/电源与 PLANET 交换机专营网店，服务荷兰与比利时，PLANET 工业/商用交换机多款现货，另有 E-Link 交换机线。类型：专业网店/经销（自述「Power Supply, Switches & Planet Ethernet Specialist」「De Power Specialist van Nederland & België」；UPS/电池 + PLANET 交换机 + E-Link 交换机；NL/BE 发货，多数现货）。信号：官网自述「Shop4power levert Planet Ethernet en E-Link Switches voor al uw toepassingen」；PLANET 品牌区 + 产品页（IGS-5225-8P2S2X 现货、SGS-5240-20S4C4XR、FSD-2405）；Mikrotik 仓",
-    "need": "对位其现货主推 IGS-5225-8P2S2X（工业 8 PoE + 2×1G/2.5G SFP + 2×10G SFP+）——Saga 为工业 8 PoE + 4×10G SFP+ L2+（上联形态不同，注明）；专业网店走量 → 20%（E-Link 若为其白牌则转 30% 贴牌档）（沿用 Planet 档案 PB-045）；需求：",
-    "breakpoint": "E-Link 归属（自有/转售）；PLANET 年台数；是否从 PLANET 荷兰渠道拿货",
-    "saga_now": {
-      "p1": "STI-488XGGPM",
-      "tier": 20,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-27 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-12-27 $240（24 Port Fiber Switch）、2025-10-07 $280（10G Enterprise SFP Switch）、2026-06-16 $16000（32 Port 400GB DC Switch）",
-      "why": "对位其现货主推 IGS-5225-8P2S2X（工业 8 PoE + 2×1G/2.5G SFP + 2×10G SFP+）——Saga 为工业 8 PoE + 4×10G SFP+ L2+（上联形态不同，注明）；专业网店走量 → 20%（E-Link 若为其白牌则转 30% 贴牌档）（沿用 Planet 档案 PB-045）；需求：",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "不动",
-      "channel": "—",
-      "action": "—",
-      "one_question": ""
-    },
-    "facts": [
-      {
-        "date": "2026-09-09",
-        "dir": "去",
-        "who": "A/S 群发",
-        "quote": "Industrial PoE Switch、Marvell Alleycat5 Solution",
-        "why": "23 封 / 0 次打开 / 0 回｜首封 2024-07-11 → 末封 2026-09-09（23 去 / 0 来）",
-        "k": "gmail_digest"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "Mikrotik 仓库",
+   "claim": "C-259 同户：分销+自有品牌 PLANET + E-Link，C 太难·自有品牌",
+   "quote": "C-259 shop4power.nl 荷兰 分销+自有品牌 PLANET + E-Link 官网表单+邮件 … C 太难·自有品牌 … 类型属大盘/自有品牌（分销+自有品牌），决策链长或存在品牌冲突",
+   "url": "https://github.com/SimonSaga-202306/mikrotik-info/blob/arena/01a0c3ef-mikrotik-info/客户名单_反向信号_2026-09.csv",
+   "date": "2026-10-19"
   }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（并档 Planet 渠道档案 PB-045，W 批次调研 2026-10-19/20）"
+ },
+ "company_facts": {
+  "legal_name": "Shop4Power (Shop4power / shop4networks)",
+  "founded": "",
+  "hq": "Wijhe（Overijssel）, 荷兰",
+  "size": "",
+  "other": "Planet 渠道档案 PB-045（2026-10-19_W05_Mikrotik关联行核验与无邮箱C重评_TR-UK-ES-NL.json）；自有品牌：待核（E-Link：Mikrotik 侧记为自有品牌；首触第一问核实）；最大未知：E-Link 归属（自有/转售）；PLANET 年台数；是否从 PLANET 荷兰渠道拿货"
+ },
+ "business_lines": [
+  "专业网店/经销（自述「Power Supply, Switches & Planet Ethernet Specialist」「De Power Specialist van Nederland & België」；UPS/电池 + PLANET 交换机 + E-Link 交换机；NL/BE 发货，多数现货）"
+ ],
+ "products_seen": [
+  {
+   "brand": "PLANET",
+   "model": "IGS-5225-8P2S2X",
+   "spec": "PLANET 为工业 8 PoE + 2×1G/2.5G SFP + 2×10G SFP+；Saga 为工业 8 PoE + 4×10G SFP+ L2+（上联形态不同，注明）",
+   "saga": "STI-488XGGPM",
+   "url": "https://shop4power.nl",
+   "date": "2026-10-19"
+  },
+  {
+   "brand": "PLANET",
+   "model": "FSD-2405",
+   "spec": "24 口百兆非管理，Saga 暂无对应型号（不推）",
+   "saga": "—",
+   "url": "https://shop4power.nl",
+   "date": "2026-10-19"
+  },
+  {
+   "brand": "PLANET",
+   "model": "GS-4210-24P4C",
+   "spec": "商用 24 PoE 对位",
+   "saga": "STC-424DGGPM-280W",
+   "url": "https://shop4power.nl",
+   "date": "2026-10-19"
+  }
+ ],
+ "channels": {
+  "role": "专业网店/经销（自述「Power Supply, Switches & Planet Ethernet Specialist」「De Power Specialist van Nederland & België」；UPS/电池 + PLANET 交换机 + E-Link 交换机；NL/BE 发货，多数现货）",
+  "region": "荷兰"
+ },
+ "signals": [
+  "荷兰少见的 PLANET 专营网店（此前 NL 只有泛电商与 Alarmsysteemexpert）——PLANET 是其交换机主线，E-Link 为其第二条（疑自有/白牌）线；Mikrotik 侧按「自有品牌太难」沉 C，本仓按 OEM 角度视为机会；info@ 官网多页公开",
+  "第二货源对位：对位其现货主推 IGS-5225-8P2S2X（工业 8 PoE + 2×1G/2.5G SFP + 2×10G SFP+）——Saga 为工业 8 PoE + 4×10G SFP+ L2+（上联形态不同，注明）",
+  "样机到 Wijhe：30 天并行测试，不要求承诺；兼容其在用 SFP"
+ ],
+ "risks": [
+  "E-Link 归属（自有/转售）；PLANET 年台数；是否从 PLANET 荷兰渠道拿货",
+  "Planet 首触邮件未发送（Elsa 账号待定）",
+  "Saga 群发已推送 15 次无回复 → 改用具名收件人与新钩子（勿再用群发模板）"
+ ],
+ "saga_fit": {
+  "p1": "STI-488XGGPM",
+  "tier": 20,
+  "why": "对位其现货主推 IGS-5225-8P2S2X（工业 8 PoE + 2×1G/2.5G SFP + 2×10G SFP+）——Saga 为工业 8 PoE + 4×10G SFP+ L2+（上联形态不同，注明）；专业网店走量 → 20%（E-Link 若为其白牌则转 30% 贴牌档）（沿用 Planet 档案 PB-045）；需求："
+ },
+ "email_hook": "You stock PLANET's IGS-5225 line and sell E-Link switches beside it; an industrial 8-port PoE+ with 10G uplinks sourced direct gives you a third price point — or an own-label option. Is E-Link your own label or a brand you resell, and which PoE switch size do your NL/BE customers reorder most?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 23 封 2024→2026，无记录打开，0 回；收件 info@shop4power.nl；主题多为「Industrial PoE Switch、Marvell Alleycat5 Solution」；Elsa 箱：`to:.nl` 穷举 37 条（2026-10-25，锚批 Bcc 头已读）未见 shop4power.nl → Elsa 箱从未发过本户，往来只在 S/A 箱（去 23 / 来 0）（第 74 批(f)））",
+   "type": "—",
+   "sieve": "1（只收到群发）",
+   "stop": "只打通用邮箱，无记录打开；Q-33 供应商渠道客户",
+   "revive": "不动（Q-33）",
+   "lane": "荷兰（欧洲全域主攻）",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 23；研究档 risks：E-Link 归属（自有/转售）；PLANET 年台数；是否从 PLANET 荷兰渠道拿货"
+  },
+  "situation": "上艾瑟尔省 Wijhe 的 UPS/电源与 PLANET 交换机专营网店，服务荷兰与比利时，PLANET 工业/商用交换机多款现货，另有 E-Link 交换机线。类型：专业网店/经销（自述「Power Supply, Switches & Planet Ethernet Specialist」「De Power Specialist van Nederland & België」；UPS/电池 + PLANET 交换机 + E-Link 交换机；NL/BE 发货，多数现货）。信号：官网自述「Shop4power levert Planet Ethernet en E-Link Switches voor al uw toepassingen」；PLANET 品牌区 + 产品页（IGS-5225-8P2S2X 现货、SGS-5240-20S4C4XR、FSD-2405）；Mikrotik 仓",
+  "need": "对位其现货主推 IGS-5225-8P2S2X（工业 8 PoE + 2×1G/2.5G SFP + 2×10G SFP+）——Saga 为工业 8 PoE + 4×10G SFP+ L2+（上联形态不同，注明）；专业网店走量 → 20%（E-Link 若为其白牌则转 30% 贴牌档）（沿用 Planet 档案 PB-045）；需求：",
+  "breakpoint": "E-Link 归属（自有/转售）；PLANET 年台数；是否从 PLANET 荷兰渠道拿货",
+  "saga_now": {
+   "p1": "STI-488XGGPM",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-27 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-12-27 $240（24 Port Fiber Switch）、2025-10-07 $280（10G Enterprise SFP Switch）、2026-06-16 $16000（32 Port 400GB DC Switch）",
+   "why": "对位其现货主推 IGS-5225-8P2S2X（工业 8 PoE + 2×1G/2.5G SFP + 2×10G SFP+）——Saga 为工业 8 PoE + 4×10G SFP+ L2+（上联形态不同，注明）；专业网店走量 → 20%（E-Link 若为其白牌则转 30% 贴牌档）（沿用 Planet 档案 PB-045）；需求：",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026-09-09",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Industrial PoE Switch、Marvell Alleycat5 Solution",
+    "why": "23 封 / 0 次打开 / 0 回｜首封 2024-07-11 → 末封 2026-09-09（23 去 / 0 来）",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

@@ -27,7 +27,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -44,7 +44,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-024` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未绑定（两次具体询价都止于 Saga 答复之后）** ｜ 类型：英国光模块/配件分销 + 自有品牌 Chimera——第三档分销 + 贴牌；Jitendra（产品）/ Nasim（运营经理） ｜ 筛子：2（2025-01-16 招标规格 24/48 口 PoE+ L2；2025-12-01 60W 注入器测试单） ｜ 停点：① 2025-01 规格缺 Voice VLAN（Simon：3 月才有）→ 无下文；② 2025-12-02 注入器 15 USD/pc 报价后无回音 ｜ 复活：Voice VLAN 已随固件 7.4.0 上线（AC5；7.5 再加 IPv6/PIM-SM）→ 招标项可重答；注入器一句话问测试单 ｜ 通路：UK（UKCA 有） ｜ 节奏：2024-12 → 2026-09 去信 22 封；最后来信 2025-12-01 ｜ 证据：k=188c2faf926a981d / d0cedc0a81dda002 / d825f54e656a802d / 9e11d7829cad23f3 / c006113d9ba7a08c
+- **绑定等级：未绑定（两次具体询价都止于 Saga 答复之后；Elsa 箱：`to:.uk` 穷举 34 条（2026-10-25，锚批 Bcc 头已读）未见 megnet.co.uk → Elsa 箱从未发过本户，往来只在 S/A 箱（去 22 / 来 4）（第 74 批(f)））** ｜ 类型：英国光模块/配件分销 + 自有品牌 Chimera——第三档分销 + 贴牌；Jitendra（产品）/ Nasim（运营经理） ｜ 筛子：2（2025-01-16 招标规格 24/48 口 PoE+ L2；2025-12-01 60W 注入器测试单） ｜ 停点：① 2025-01 规格缺 Voice VLAN（Simon：3 月才有）→ 无下文；② 2025-12-02 注入器 15 USD/pc 报价后无回音 ｜ 复活：Voice VLAN 已随固件 7.4.0 上线（AC5；7.5 再加 IPv6/PIM-SM）→ 招标项可重答；注入器一句话问测试单 ｜ 通路：UK（UKCA 有） ｜ 节奏：2024-12 → 2026-09 去信 22 封；最后来信 2025-12-01 ｜ 证据：k=188c2faf926a981d / d0cedc0a81dda002 / d825f54e656a802d / 9e11d7829cad23f3 / c006113d9ba7a08c
 - **现状一句话**：Megnet 两次来的都是真需求：2025-01 Jitendra 发来 5 项招标规格（24/48 口 PoE+、2×10G SFP+、802.1q/LACP/IPv6/Voice VLAN/SNMPv3/SSHv2），Simon 答「item 3 没有可开发，其余 4 项缺 Voice VLAN，3 月就绪」，对方没再回；2025-12 Nasim 要 HT2500-PSE-BT60 60W 注入器测试单价，Simon 次日报 15 USD/pc（3–5 天交期），对方没再回。Voice VLAN 现已在 7.4.0 固件里。
 - **对方真实需求（有据）**：招标型 L2 接入 PoE+ 交换机（24/48 口 + 10G 上联，Voice VLAN/SNMPv3/SSHv2/IPv6）；60W PoE++ 单口注入器。
 - **断点 / 为什么停在这里**：第一次是功能缺口（现已补齐，但没人告诉他）；第二次是测试单无下文（15 USD 的东西不值得追，但一句话值）。
@@ -325,12 +325,12 @@ Simon
 
 ## 下次复核
 
-- **2026-11-07**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-08**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 94）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 94）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

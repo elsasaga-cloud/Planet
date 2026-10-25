@@ -1,170 +1,170 @@
 {
-  "code": "SA-010",
-  "name_official": "Taurus Vision（Pretoria, South Africa）",
-  "website_status": "在线",
-  "summary": "南非比勒陀利亚的 CCTV 视频监控管理方案商/集成商（1–10 人，营收 <$5M），官网招募合作伙伴（sales@taurusvision.com）。用户表：3 次实质回复，已加 WhatsApp，21 次推送。",
-  "type": "安防集成商（CCTV/视频管理）",
-  "size": "1–10 人；<$5M（ZoomInfo）",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "第三方（ZoomInfo）",
-      "claim": "地址、规模",
-      "quote": "Taurus Vision corporate office is located in 8 Malan St, Pretoria, 0084, South Africa and has 1-10 employees.",
-      "url": "https://www.zoominfo.com/pic/taurus-vision/348010963",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网",
-      "claim": "定位：端到端视频集成与管理，招募伙伴",
-      "quote": "END TO END OFFERINGS — Operational video integration and video management · BECOME A PATNER TODAY · sales@taurusvision.com · Tell: 086 188 2266",
-      "url": "https://www.taurusvision.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "名录",
-      "claim": "地址、规模与定位",
-      "quote": "Taurus Vision corporate office is located in 8 Malan St, Pretoria, 0084, South Africa and has 1-10 employees … We are committed to our customers by installing a monitoring platform with point of sale integration tailored to a specific application and location.",
-      "url": "https://www.zoominfo.com/pic/taurus-vision/348010963",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "名录",
-      "claim": "全国 CCTV 监控管理方案商",
-      "quote": "Taurus Vision delivers quality solutions and support in the field of CCTV video surveillance management to our customers nation wide.",
-      "url": "https://pretoria.infoisinfo.co.za/search/cctv/2",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Lynette Bowman",
-      "role": "CCTV（ZoomInfo 口径）",
-      "email": "",
-      "phone": "+27 86 188 2266（总机）",
-      "source": "https://www.zoominfo.com/p/Lynette-Bowman/8666668517"
-    },
-    {
-      "name": "Lynette Bowman",
-      "role": "CCTV（ZoomInfo 职务标注；邮箱未公开，域 @taurusvision.com）",
-      "email": "—（未公开；用户表 sales@taurusvision… 为合作伙伴招募邮箱）",
-      "phone": "—",
-      "source": "https://www.zoominfo.com/p/Lynette-Bowman/8666668517"
-    },
-    {
-      "name": "Cordea Bezuidenhout",
-      "role": "Administrative Assistant（ZoomInfo）",
-      "email": "—（未公开）",
-      "phone": "—",
-      "source": "https://www.zoominfo.com/pic/taurus-vision/348010963"
-    }
-  ],
-  "notes": "A 维持（3 次实质回复 + WhatsApp 在手），但规模小、非洲区：以 8/16 口 PoE 小批量为主，不投入样机以外资源。",
-  "researched_at": "2026-10-21",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "深挖 v2（名录 + KP 核对）"
+ "code": "SA-010",
+ "name_official": "Taurus Vision（Pretoria, South Africa）",
+ "website_status": "在线",
+ "summary": "南非比勒陀利亚的 CCTV 视频监控管理方案商/集成商（1–10 人，营收 <$5M），官网招募合作伙伴（sales@taurusvision.com）。用户表：3 次实质回复，已加 WhatsApp，21 次推送。",
+ "type": "安防集成商（CCTV/视频管理）",
+ "size": "1–10 人；<$5M（ZoomInfo）",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "第三方（ZoomInfo）",
+   "claim": "地址、规模",
+   "quote": "Taurus Vision corporate office is located in 8 Malan St, Pretoria, 0084, South Africa and has 1-10 employees.",
+   "url": "https://www.zoominfo.com/pic/taurus-vision/348010963",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "legal_name": "Taurus Vision（taurusvision.com）",
-    "hq": "8 Malan Street, Riviera, Pretoria 0084, Gauteng, South Africa",
-    "staff": "1–10（ZoomInfo）",
-    "revenue": "<$5M",
-    "other": "CCTV 视频监控管理方案商，强调「带 POS 集成的监控平台」按场景定制（零售），全国服务；营业 Mo–Sa 9–18"
+  {
+   "kind": "官网",
+   "claim": "定位：端到端视频集成与管理，招募伙伴",
+   "quote": "END TO END OFFERINGS — Operational video integration and video management · BECOME A PATNER TODAY · sales@taurusvision.com · Tell: 086 188 2266",
+   "url": "https://www.taurusvision.com/",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "CCTV / 视频管理方案",
-    "合作伙伴渠道",
-    "CCTV 监控管理平台（POS 集成）",
-    "CCTV 安装与支持（全国）"
-  ],
-  "products_seen": [
-    {
-      "brand": "（集成商自用）",
-      "model": "PoE 交换机（CCTV）",
-      "spec": "3 次实质回复",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "用户表",
-      "saga": "STC-28DGGPM"
-    }
-  ],
-  "channels": {
-    "网站": "https://www.taurusvision.com/",
-    "直邮": "sales@taurusvision.com（用户表）",
-    "WhatsApp": "已加（用户表）"
+  {
+   "kind": "名录",
+   "claim": "地址、规模与定位",
+   "quote": "Taurus Vision corporate office is located in 8 Malan St, Pretoria, 0084, South Africa and has 1-10 employees … We are committed to our customers by installing a monitoring platform with point of sale integration tailored to a specific application and location.",
+   "url": "https://www.zoominfo.com/pic/taurus-vision/348010963",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "3 次实质回复 + WA；21 次推送",
-    "POS 集成零售监控 = 多门店小规模 PoE 交换机重复采购（4/8 口为主）（2026-10-21）"
-  ],
-  "risks": [
-    "南非 ICASA/NRCS 合规由进口方；小公司",
-    "1–10 人、公开信息极少——单量小，按 B 节奏跟进即可，不投入过多"
-  ],
-  "saga_fit": {
-    "p1": "STC-28DGGPM",
-    "tier": 25,
-    "why": "CCTV 集成接入：STC-28DGGPM 为主、STI-144GP 户外箱位；集成商 25% 档"
-  },
-  "email_hook": "For the camera closets in your VMS projects, the Marvell-based 8-port gigabit PoE+ managed switch with 2 SFP and the 4+1 industrial DIN unit for outdoor cabinets are the two I am quoting EXW.",
-  "mail_review": {
-    "binding": {
-      "level": "未绑定（邮件 2 封 0 回；用户表「3 次实质回复 + WhatsApp」= WhatsApp 关系）",
-      "type": "比勒陀利亚 CCTV 集成（Taurus Vision）",
-      "sieve": "0（邮件层无人工回复）",
-      "stop": "—",
-      "revive": "WhatsApp",
-      "lane": "ZA 非主攻",
-      "cadence": "WhatsApp",
-      "evidence": "邮件：去信 2 封（2026-08-07 → 2026-10-06），来信 0；Opened 标签 0 次；收件人 sales@taurusvision.com"
-    },
-    "situation": "邮件只在 2026-08/10 发过两封；关系在 WhatsApp。",
-    "need": "8/16 口 PoE 小批量。",
-    "breakpoint": "—",
-    "saga_now": {
-      "p1": "STC-28DGGPM",
-      "tier": 25,
-      "price": "—；群发里他已看到的价（续）：2026-08-07 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170",
-      "why": "VMS 项目的机柜 8/16 口 PoE 小批量 → 8 口 L2+（2.5G 光上联）先报，户外柜配 4+1 DIN；WhatsApp 户不塞价",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "按 WA 节奏",
-      "channel": "WhatsApp",
-      "action": "WhatsApp（用 one_question 这句，WhatsApp 直接发，不附资料）",
-      "one_question": "For the camera closets in your VMS projects, the Marvell-based 8-port gigabit PoE+ managed switch with 2 SFP and the 4+1 industrial DIN unit for outdoor cabinets are the two I am quoting EXW."
-    },
-    "facts": [
-      {
-        "date": "2023-09-11",
-        "dir": "来",
-        "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
-        "quote": "用户表跟进：推「发了2光4小壳图 DS」→ 对方「prices」",
-        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
-        "k": "Clients/A/DONE/South Africa 2.5.xlsx no.37 2023.9.11"
-      },
-      {
-        "date": "2023-12-09",
-        "dir": "来",
-        "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
-        "quote": "用户表跟进：推「发了导轨电源信息」→ 对方「后续运费报的太高未成单」",
-        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
-        "k": "Clients/A/DONE/South Africa 2.5.xlsx no.37 2023.12.9"
-      },
-      {
-        "date": "2024-08-13",
-        "dir": "来",
-        "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
-        "quote": "用户表跟进：推「4 8口工业FS」→ 对方「price list」",
-        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
-        "k": "Clients/A/DONE/South Africa 2.5.xlsx no.37 2024.8.13"
-      }
-    ],
-    "proof_gaps": [
-      "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文"
-    ],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "名录",
+   "claim": "全国 CCTV 监控管理方案商",
+   "quote": "Taurus Vision delivers quality solutions and support in the field of CCTV video surveillance management to our customers nation wide.",
+   "url": "https://pretoria.infoisinfo.co.za/search/cctv/2",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Lynette Bowman",
+   "role": "CCTV（ZoomInfo 口径）",
+   "email": "",
+   "phone": "+27 86 188 2266（总机）",
+   "source": "https://www.zoominfo.com/p/Lynette-Bowman/8666668517"
+  },
+  {
+   "name": "Lynette Bowman",
+   "role": "CCTV（ZoomInfo 职务标注；邮箱未公开，域 @taurusvision.com）",
+   "email": "—（未公开；用户表 sales@taurusvision… 为合作伙伴招募邮箱）",
+   "phone": "—",
+   "source": "https://www.zoominfo.com/p/Lynette-Bowman/8666668517"
+  },
+  {
+   "name": "Cordea Bezuidenhout",
+   "role": "Administrative Assistant（ZoomInfo）",
+   "email": "—（未公开）",
+   "phone": "—",
+   "source": "https://www.zoominfo.com/pic/taurus-vision/348010963"
+  }
+ ],
+ "notes": "A 维持（3 次实质回复 + WhatsApp 在手），但规模小、非洲区：以 8/16 口 PoE 小批量为主，不投入样机以外资源。",
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "深挖 v2（名录 + KP 核对）"
+ },
+ "company_facts": {
+  "legal_name": "Taurus Vision（taurusvision.com）",
+  "hq": "8 Malan Street, Riviera, Pretoria 0084, Gauteng, South Africa",
+  "staff": "1–10（ZoomInfo）",
+  "revenue": "<$5M",
+  "other": "CCTV 视频监控管理方案商，强调「带 POS 集成的监控平台」按场景定制（零售），全国服务；营业 Mo–Sa 9–18"
+ },
+ "business_lines": [
+  "CCTV / 视频管理方案",
+  "合作伙伴渠道",
+  "CCTV 监控管理平台（POS 集成）",
+  "CCTV 安装与支持（全国）"
+ ],
+ "products_seen": [
+  {
+   "brand": "（集成商自用）",
+   "model": "PoE 交换机（CCTV）",
+   "spec": "3 次实质回复",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "用户表",
+   "saga": "STC-28DGGPM"
+  }
+ ],
+ "channels": {
+  "网站": "https://www.taurusvision.com/",
+  "直邮": "sales@taurusvision.com（用户表）",
+  "WhatsApp": "已加（用户表）"
+ },
+ "signals": [
+  "3 次实质回复 + WA；21 次推送",
+  "POS 集成零售监控 = 多门店小规模 PoE 交换机重复采购（4/8 口为主）（2026-10-21）"
+ ],
+ "risks": [
+  "南非 ICASA/NRCS 合规由进口方；小公司",
+  "1–10 人、公开信息极少——单量小，按 B 节奏跟进即可，不投入过多"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 25,
+  "why": "CCTV 集成接入：STC-28DGGPM 为主、STI-144GP 户外箱位；集成商 25% 档"
+ },
+ "email_hook": "For the camera closets in your VMS projects, the Marvell-based 8-port gigabit PoE+ managed switch with 2 SFP and the 4+1 industrial DIN unit for outdoor cabinets are the two I am quoting EXW.",
+ "mail_review": {
+  "binding": {
+   "level": "未绑定（邮件 2 封 0 回；用户表「3 次实质回复 + WhatsApp」= WhatsApp 关系；Elsa 箱：`to:taurusvision.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 2 / 来 0）（第 74 批(g)））",
+   "type": "比勒陀利亚 CCTV 集成（Taurus Vision）",
+   "sieve": "0（邮件层无人工回复）",
+   "stop": "—",
+   "revive": "WhatsApp",
+   "lane": "ZA 非主攻",
+   "cadence": "WhatsApp",
+   "evidence": "邮件：去信 2 封（2026-08-07 → 2026-10-06），来信 0；Opened 标签 0 次；收件人 sales@taurusvision.com"
+  },
+  "situation": "邮件只在 2026-08/10 发过两封；关系在 WhatsApp。",
+  "need": "8/16 口 PoE 小批量。",
+  "breakpoint": "—",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 25,
+   "price": "—；群发里他已看到的价（续）：2026-08-07 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170",
+   "why": "VMS 项目的机柜 8/16 口 PoE 小批量 → 8 口 L2+（2.5G 光上联）先报，户外柜配 4+1 DIN；WhatsApp 户不塞价",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "按 WA 节奏",
+   "channel": "WhatsApp",
+   "action": "WhatsApp（用 one_question 这句，WhatsApp 直接发，不附资料）",
+   "one_question": "For the camera closets in your VMS projects, the Marvell-based 8-port gigabit PoE+ managed switch with 2 SFP and the 4+1 industrial DIN unit for outdoor cabinets are the two I am quoting EXW."
+  },
+  "facts": [
+   {
+    "date": "2023-09-11",
+    "dir": "来",
+    "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+    "quote": "用户表跟进：推「发了2光4小壳图 DS」→ 对方「prices」",
+    "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+    "k": "Clients/A/DONE/South Africa 2.5.xlsx no.37 2023.9.11"
+   },
+   {
+    "date": "2023-12-09",
+    "dir": "来",
+    "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+    "quote": "用户表跟进：推「发了导轨电源信息」→ 对方「后续运费报的太高未成单」",
+    "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+    "k": "Clients/A/DONE/South Africa 2.5.xlsx no.37 2023.12.9"
+   },
+   {
+    "date": "2024-08-13",
+    "dir": "来",
+    "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+    "quote": "用户表跟进：推「4 8口工业FS」→ 对方「price list」",
+    "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+    "k": "Clients/A/DONE/South Africa 2.5.xlsx no.37 2024.8.13"
+   }
+  ],
+  "proof_gaps": [
+   "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

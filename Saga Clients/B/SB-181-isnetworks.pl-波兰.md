@@ -25,7 +25,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -42,7 +42,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-181` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：轻度绑定→Saga 欠一张价表（2026-02-09 Marek 对 CENTEC 核心信回「Interesting item… technical par. & prices」；Alan 答「CENTEC prices still finalizing for 2026, memory prices rise」后再未给价，改发 Marvell 群发 4 封无回）** ｜ 类型：波兰网络集成商兼产品销售（IS Networks；Marek = 老板/技术）——CENTEC 核心/汇聚的对口买家 ｜ 筛子：2（要参数与价格） ｜ 停点：Saga 没给价：仓库里有《2026Q2 Price List High-Speed Network Series》（STH-32C-HSI $6,000 / STH-2C6QX-HSI $1,200 …，计价规则高价 20% 低价 25%）——U29：价表在库，不是没有 ｜ 复活：把 Q2 CENTEC 价表（MS license + HSI 推荐口径）发过去，一封 ｜ 通路：PL 次级（但 CENTEC 敲门砖优先） ｜ 节奏：现在一封；之后季度 ｜ 证据：k=8d7a04b9009bd3bb（Interesting item… prices）；3a9da0e0aa327b04（still finalizing）；价表：data/extra_info_2026-10/text/Extra_Info__STH__2026Q2_Price_List…
+- **绑定等级：轻度绑定→Saga 欠一张价表（2026-02-09 Marek 对 CENTEC 核心信回「Interesting item… technical par. & prices」；Alan 答「CENTEC prices still finalizing for 2026, memory prices rise」后再未给价，改发 Marvell 群发 4 封无回；Elsa 箱：`to:.pl` 穷举 24 条（2026-10-25，锚批 Bcc 头已读）未见 isnetworks.pl / is-net.pl → Elsa 箱从未发过本户，往来只在 S/A 箱（去 22 / 来 1）（第 74 批(f)））** ｜ 类型：波兰网络集成商兼产品销售（IS Networks；Marek = 老板/技术）——CENTEC 核心/汇聚的对口买家 ｜ 筛子：2（要参数与价格） ｜ 停点：Saga 没给价：仓库里有《2026Q2 Price List High-Speed Network Series》（STH-32C-HSI $6,000 / STH-2C6QX-HSI $1,200 …，计价规则高价 20% 低价 25%）——U29：价表在库，不是没有 ｜ 复活：把 Q2 CENTEC 价表（MS license + HSI 推荐口径）发过去，一封 ｜ 通路：PL 次级（但 CENTEC 敲门砖优先） ｜ 节奏：现在一封；之后季度 ｜ 证据：k=8d7a04b9009bd3bb（Interesting item… prices）；3a9da0e0aa327b04（still finalizing）；价表：data/extra_info_2026-10/text/Extra_Info__STH__2026Q2_Price_List…
 - **现状一句话**：客户主动要 CENTEC 价格，Saga 说在定价中，然后 Q2 价表出来后没有回头补发。
 - **对方真实需求（有据）**：CENTEC 核心/汇聚（Cisco/Huawei 替代）。
 - **断点 / 为什么停在这里**：Saga 自己的断点。
@@ -301,12 +301,12 @@ Alan
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 49）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 49）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

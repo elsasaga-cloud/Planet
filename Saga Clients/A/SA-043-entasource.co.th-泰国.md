@@ -27,7 +27,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -44,7 +44,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-043` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未绑定（2025-06 要 24 口 + 2 SFP 非管理、48VDC 机架 → Saga 只有 AC 版 → 无下文）** ｜ 类型：曼谷进口分销（自有 logo）；Janejira ｜ 筛子：2 ｜ 停点：产品缺口：48 VDC 输入的 24 口商用非管理机架机 ｜ 复活：SmartByte/HRUI 有 DC 输入商用款时 ｜ 通路：TH ｜ 节奏：2024-07 → 2026-09 去信 21 封；最后来信 2025-06-16 ｜ 证据：k=da8a7bcd11691b0e / ed149581e201dace
+- **绑定等级：未绑定（2025-06 要 24 口 + 2 SFP 非管理、48VDC 机架 → Saga 只有 AC 版 → 无下文；Elsa 箱：`to:entasource.co.th` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 21 / 来 1）（第 74 批(g)））** ｜ 类型：曼谷进口分销（自有 logo）；Janejira ｜ 筛子：2 ｜ 停点：产品缺口：48 VDC 输入的 24 口商用非管理机架机 ｜ 复活：SmartByte/HRUI 有 DC 输入商用款时 ｜ 通路：TH ｜ 节奏：2024-07 → 2026-09 去信 21 封；最后来信 2025-06-16 ｜ 证据：k=da8a7bcd11691b0e / ed149581e201dace
 - **现状一句话**：Janejira 问 24×GE + 2 SFP 非管理机架、48 VDC 输入；Alan 答只有 AC 版（PoE / 非 PoE 各一）。无回。
 - **对方真实需求（有据）**：48 VDC 商用 24 口非管理。
 - **断点 / 为什么停在这里**：电源规格缺口（DC 输入商用机）。
@@ -299,12 +299,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-07**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-08**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 83）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 83）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

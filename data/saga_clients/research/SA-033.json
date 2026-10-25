@@ -1,239 +1,239 @@
 {
-  "code": "SA-033",
-  "name_official": "Optiview, Inc.（Jacksonville, FL）",
-  "website_status": "在线",
-  "summary": "美国佛州杰克逊维尔的 CCTV 批发分销商/品牌商（1999 年成立，11–50 人，营收约 $5.3M），25,000 平方英尺仓库 600+ SKU，面向安装商/经销商/集成商直至财富 500 强客户，产品自行测试并定制（自有品牌），类目含 NDAA 合规摄像机、NVR/DVR、Networking/PoE、太阳能监控。用户表：S 重点，兴趣 VC/HDMI/FS/商业 PoE/光模块，1 次实质回复，邮件中有详细联系信息。",
-  "type": "分销商/品牌商（CCTV 批发，自有品牌 OEM 采购）",
-  "size": "11–50 人；$5.3M（ZoomInfo/RocketReach）",
-  "brands_seen": [
-    "Optiview"
-  ],
-  "evidence": [
-    {
-      "kind": "官网",
-      "claim": "定位与客户群；产品自测与定制",
-      "quote": "Optiview has been a part of the surveillance industry for over 25 years … for our network of Clients, Dealers, & Integrators. Every product brought into Optiview’s 25,000 square foot warehouse is extensively tested by our R&D team, and customized to fit the needs of our client base.",
-      "url": "https://optiviewusa.com/about/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网",
-      "claim": "类目含 Networking/PoE 与 NDAA 合规摄像机",
-      "quote": "Some of our most popular products include: - HD over COAX Cameras - IP/network cameras - NDAA-compliant cameras - Network video recorders (NVR) … - Networking/POE",
-      "url": "https://optiviewusa.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "第三方（ZoomInfo）",
-      "claim": "总裁与规模",
-      "quote": "Optiview $5.3M · Private · 1999 · Stephen Lebowitz President",
-      "url": "https://www.zoominfo.com/c/optiview-inc/344525981",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网",
-      "claim": "OVPOE 系列型号表（8/16/24 口、DIN SFP、CAT6）与 5 年保修",
-      "quote": "Warranty | 5 Years … OVPOE8-125 | OVPOE8G-DR-SFP | OVPOE16-250 | OVPOE24-370-2GC … 8 Port 240W PoE Switch … 16 Port PoE + 2GB Switch … 24 Port PoE + 2GB Switch",
-      "url": "https://optiviewusa.com/wp-content/uploads/2024/03/Optiview_OVPOE12V-8-210_SalesSpecSheet.pdf",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网",
-      "claim": "OVPOE24X-400-2GC 24×GE PoE 400W",
-      "quote": "24 Port 10/100/1000Base-TX PoE Switch with 2 x Gigabit combo's. Provides 24 x PoE injectors, 400W built-in power supply. 52Gbps",
-      "url": "https://optiviewusa.com/product/ovpoe24-400-24-port-poe-switch/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网",
-      "claim": "OVPOE12V-8+4-160-M 8+2 千兆 L2 管理 30W/口",
-      "quote": "OVPOE12V-8+4-160-M – 8 + 2 Port Gigabit Layer 2 Managed Switch with 30W PoE per Port … 240W Power over Ethernet … 12V / 24V DC Output Ports",
-      "url": "https://optiviewusa.com/product/ovpoe12v-8-4-160-m/",
-      "date": "2026-06-11"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Stephen Lebowitz",
-      "role": "President（ZoomInfo 口径）",
-      "email": "sales@optiviewusa.com（Crunchbase 公开）",
-      "phone": "+1 904-805-1581",
-      "source": "https://www.zoominfo.com/c/optiview-inc/344525981 ; https://www.crunchbase.com/organization/optiview-d25f"
-    },
-    {
-      "name": "Silvia Flores",
-      "role": "来信署名人（职务未在邮件署名里出现）；地址 2026-07-20 永久退信（550 5.1.1 Address not found）→ 已离职/停用，改问 purchasing@ 接替人",
-      "email": "silvia.flores@optiviewusa.com",
-      "phone": "",
-      "source": "S/A 邮箱来信 2024-10-29 来信 2 封（第 72 批从邮件表头补）"
-    }
-  ],
-  "notes": "A 确认：美国 CCTV 批发商 + 自有品牌 + S 重点；P1 = STC-28DGGPM（8 口商业 PoE，安防主力）→ STC-424DGGPM-280W；注意 NDAA：交换机不在 NDAA 889 覆盖范围（摄像机/视频设备为主），但避免华为海思方案表述，强调 Marvell。",
-  "researched_at": "2026-10-21",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "深挖 v1"
+ "code": "SA-033",
+ "name_official": "Optiview, Inc.（Jacksonville, FL）",
+ "website_status": "在线",
+ "summary": "美国佛州杰克逊维尔的 CCTV 批发分销商/品牌商（1999 年成立，11–50 人，营收约 $5.3M），25,000 平方英尺仓库 600+ SKU，面向安装商/经销商/集成商直至财富 500 强客户，产品自行测试并定制（自有品牌），类目含 NDAA 合规摄像机、NVR/DVR、Networking/PoE、太阳能监控。用户表：S 重点，兴趣 VC/HDMI/FS/商业 PoE/光模块，1 次实质回复，邮件中有详细联系信息。",
+ "type": "分销商/品牌商（CCTV 批发，自有品牌 OEM 采购）",
+ "size": "11–50 人；$5.3M（ZoomInfo/RocketReach）",
+ "brands_seen": [
+  "Optiview"
+ ],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "定位与客户群；产品自测与定制",
+   "quote": "Optiview has been a part of the surveillance industry for over 25 years … for our network of Clients, Dealers, & Integrators. Every product brought into Optiview’s 25,000 square foot warehouse is extensively tested by our R&D team, and customized to fit the needs of our client base.",
+   "url": "https://optiviewusa.com/about/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "legal_name": "Optiview, Inc.",
-    "founded": "1999",
-    "hq": "Jacksonville, Florida, USA（电话 904.805.1581）",
-    "staff": "11–50",
-    "revenue": "约 $5.3M",
-    "other": "自有品牌 OVPOE 系列交换机（5 年保修），面向安装商/经销商/集成商；网站需登录看价"
+  {
+   "kind": "官网",
+   "claim": "类目含 Networking/PoE 与 NDAA 合规摄像机",
+   "quote": "Some of our most popular products include: - HD over COAX Cameras - IP/network cameras - NDAA-compliant cameras - Network video recorders (NVR) … - Networking/POE",
+   "url": "https://optiviewusa.com/",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "CCTV 批发（NDAA 合规摄像机、NVR/DVR）",
-    "Networking/PoE：OVPOE 系列商用与工业 PoE 交换机、户外 NEMA3 PoE 箱",
-    "太阳能监控、线缆"
-  ],
-  "products_seen": [
-    {
-      "brand": "Optiview",
-      "model": "OVPOE8-125 / OVPOE8-125V",
-      "spec": "8×GE PoE + 2 GE（或 1 GE + 1 SFP），125W 外置电源，20G，5 年保",
-      "url": "https://optiviewusa.com/product/ovpoe8-125v/",
-      "date": "2026-10-21",
-      "saga": "STC-28DGGPM"
-    },
-    {
-      "brand": "Optiview",
-      "model": "OVPOE8G-DR-SFP",
-      "spec": "8 口 240W PoE 千兆（DIN，SFP）",
-      "url": "https://optiviewusa.com/wp-content/uploads/2024/03/Optiview_OVPOE12V-8-210_SalesSpecSheet.pdf",
-      "date": "2026-10-21",
-      "saga": "STI-288DGGPM"
-    },
-    {
-      "brand": "Optiview",
-      "model": "OVPOE12V-8-210",
-      "spec": "8 口工业 PoE+ 非管理 10/100，12V",
-      "url": "https://optiviewusa.com/wp-content/uploads/2024/03/Optiview_OVPOE12V-8-210_SalesSpecSheet.pdf",
-      "date": "2024-03",
-      "saga": "STI-288DGGPM（千兆升级位）"
-    },
-    {
-      "brand": "Optiview",
-      "model": "OVPOE12V-8+4-160-M",
-      "spec": "8+2 口千兆 L2 管理，30W/口 240W，12/24V DC 输出口（2026-06-11 页）",
-      "url": "https://optiviewusa.com/product/ovpoe12v-8-4-160-m/",
-      "date": "2026-06-11",
-      "saga": "STI-288DGGPM"
-    },
-    {
-      "brand": "Optiview",
-      "model": "OVPOE16-250",
-      "spec": "16×FE PoE + 2 GE combo，250W",
-      "url": "https://optiviewusa.com/product/ovpoe16-250/",
-      "date": "2024-10-14",
-      "saga": "STI-21616GP（千兆升级位）"
-    },
-    {
-      "brand": "Optiview",
-      "model": "OVPOE24-370-2GC / OVPOE24X-400-2GC",
-      "spec": "24×FE PoE 370W / 24×GE PoE 400W + 2 GE combo（52Gbps）",
-      "url": "https://optiviewusa.com/product/ovpoe24-400-24-port-poe-switch/",
-      "date": "2026-07-23",
-      "saga": "STC-424DGGPM-280W"
-    },
-    {
-      "brand": "Optiview",
-      "model": "WPNS-8-LED",
-      "spec": "NEMA3 户外防水箱 8 口 PoE 30W/口",
-      "url": "https://optiviewusa.com/poe/8/",
-      "date": "2026-10-21",
-      "saga": "STC-28DGGPM（箱内机）"
-    }
-  ],
-  "channels": {
-    "网站": "https://optiviewusa.com/（登录看价，经销商制）",
-    "直邮": "purchasing@optiviewusa.com（用户表）；sales@optiviewusa.com；Stephen Lebowitz（Crunchbase）",
-    "电话": "904.805.1581"
+  {
+   "kind": "第三方（ZoomInfo）",
+   "claim": "总裁与规模",
+   "quote": "Optiview $5.3M · Private · 1999 · Stephen Lebowitz President",
+   "url": "https://www.zoominfo.com/c/optiview-inc/344525981",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "2026-06/07 仍在更新 OVPOE 产品页（8+4 管理型、24X-400）——自有品牌 PoE 线活跃（2026-10-21）",
-    "OVPOE16/24 仍为百兆 PoE 口——千兆升级是明确空位",
-    "用户表：S 重点，1 次实质回复，兴趣 VC/HDMI/FS/商业 PoE/光模块"
-  ],
-  "risks": [
-    "美国 CCTV 渠道强调 NDAA——交换机不在 NDAA 889 范围但客户可能要求非中资芯片表述（Marvell 是美国芯片，可用）",
-    "UL：机架 PoE 电源类客户可能要 UL 列名，Saga 只有 CE/FCC"
-  ],
-  "saga_fit": {
-    "p1": "STC-424DGGPM-280W",
-    "tier": 30,
-    "why": "OVPOE24-370-2GC（24×FE PoE）升级位 = STC-424DGGPM-280W（24 GE PoE + 4 SFP）；OVPOE8-125 对位 STC-28DGGPM；OVPOE8G-DR-SFP/12V-8+4 对位 STI-288DGGPM；贴 Optiview 标 30% 档"
+  {
+   "kind": "官网",
+   "claim": "OVPOE 系列型号表（8/16/24 口、DIN SFP、CAT6）与 5 年保修",
+   "quote": "Warranty | 5 Years … OVPOE8-125 | OVPOE8G-DR-SFP | OVPOE16-250 | OVPOE24-370-2GC … 8 Port 240W PoE Switch … 16 Port PoE + 2GB Switch … 24 Port PoE + 2GB Switch",
+   "url": "https://optiviewusa.com/wp-content/uploads/2024/03/Optiview_OVPOE12V-8-210_SalesSpecSheet.pdf",
+   "date": "2026-10-21"
   },
-  "email_hook": "Your OVPOE24-370-2GC is still 10/100 on the PoE ports, so the Marvell-based 24-port gigabit PoE+ with 4 SFP uplinks in Optiview packing is the natural upgrade SKU and the one I am pricing first, alongside the 8-port unit that matches the OVPOE8-125.",
-  "mail_review": {
-    "binding": {
-      "level": "未绑定（采购员 2024-10-29 要 4/8 口工业 PoE 规格书 + 价格 → 给了资料 → 无下文）",
-      "type": "美国 CCTV 批发商 + 自有品牌——第一档类型；Silvia Flores（Purchasing Agent）",
-      "sieve": "2",
-      "stop": "2024-10-30 Simon「Please see attached information」后无回；此后 20 封群发（含 US 关税期）无回；2026-07-20 起 silvia.flores@ 退信（人已不在），之后群发只到 purchasing@",
-      "revive": "其 PoE 交换机 SKU 换源；NDAA 不涉交换机但要说清芯片",
-      "lane": "US",
-      "cadence": "2024-06 → 2026-09 去信 24 封；最后来信 2024-10-29",
-      "evidence": "k=3967a837c3bedff6 / 7f7e16f255ec5fae / 54932716b5166fad"
-    },
-    "situation": "Optiview 采购 Silvia 2024-10-29 两封：要 4 口/8 口工业 PoE 的规格书、要两款价格。Simon 次日一封「see attached information」（价格是否在附件内不可考）。此后无回。",
-    "need": "4/8 口工业 PoE（CCTV 批发 SKU）。",
-    "breakpoint": "采购员要的是「规格 + 价格 + 交期」三件套，回复只给了附件；无跟进问题。",
-    "saga_now": {
-      "p1": "STI-154GP（4 口）/ STI-288DGGPM 或非管理 8 口（按价格主表）",
-      "tier": 30,
-      "price": "按 30% 自有标档；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-06-25 $220（48 port managed switch）、2024-11-15 $300（Re: Industrial PoE Switch）、2025-08-27 $240（24 Port Fiber Switch）、2025-10-29 $280（10G Enterprise SFP Switch）、2026-09-08 $170（24 Port PoE Managed Switch）；**第 63 批基准统一（规则 ㉕）**：STI-154GP 列表价 $51.7 → 老表 $47（非管理工业线）；STI-288DGGPM $137.5 封顶保留；他 2026-09-08 收过 24 口 $170 群发——若谈到 STC-424XGGPM-280W 写 $180 并点明；群发里他已看到的价（续，第 66 批全量复核）：2026-07-20 $1500（24 Port 10G SFP+ Switch）",
-      "why": "J2：补一封三件套。已打开的主题（2/24 封有打开记录）：「Re: Industrial PoE Switch」(2024-10-30)、「24 Port 10G SFP+ Switch」(2026-07-20) → 读者兴趣偏「工业」；与 P1 同类，继续｜已发资料（勿重发）：STI-244GP(2024-10-30)、STI-154GP(2024-10-30)、STI-288GP(2024-10-30)、Saga Software Function List-release 7.(2025-03-28)、Product Link_2026Q2(2026-03-02)；已发单据：Quotation(2024-10-30)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）",
-      "repeat": [],
-      "gaps": [
-        "2024-10-30 附件是否含价格"
-      ]
-    },
-    "next_move": {
-      "when": "2026-11",
-      "channel": "S 邮箱 → purchasing@optiviewusa.com（silvia.flores@ 2026-07-20 已「Address not found」，先问接替的采购是谁）",
-      "action": "先一句话问 purchasing@ 现在谁接 Silvia 的工作；再给三件套一页：4 口 / 8 口价格、交期、FCC",
-      "one_question": "For your private-label PoE line, is the 4-port or the 8-port DIN unit the volume SKU, and what landed cost do you need to switch source?"
-    },
-    "facts": [
-      {
-        "date": "2024-10-29",
-        "dir": "来",
-        "who": "Silvia Flores（Purchasing Agent）",
-        "quote": "Could you please send me the specifications (data sheet) for both the 4-port and 8-port versions?",
-        "why": "规格",
-        "k": "3967a837c3bedff6"
-      },
-      {
-        "date": "2024-10-29",
-        "dir": "来",
-        "who": "Silvia",
-        "quote": "Also, provide us with the prices for both models",
-        "why": "价格",
-        "k": "7f7e16f255ec5fae"
-      },
-      {
-        "date": "2024-10-30",
-        "dir": "去",
-        "who": "Simon",
-        "quote": "Please see attached information and let me know.",
-        "why": "回复后停",
-        "k": "54932716b5166fad"
-      },
-      {
-        "date": "2026-07-20",
-        "dir": "内",
-        "who": "Gmail 退信（S 邮箱）",
-        "quote": "silvia.flores@optiviewusa.com 永久退信：** Address not found ** ** Address not found ** Your message wasn't delivered to silvia.flores@optiviewusa.com because t",
-        "why": "该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职",
-        "k": "gmail_s 2c8ed94835972a47"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": {
-      "subject": "4-port and 8-port industrial PoE — spec, price, lead time",
-      "body": "Hi, Silvia,\n\nIn October 2024 you asked for data sheets and prices for the 4-port and 8-port industrial PoE units and we sent the attachments without the three things a buyer actually needs in the body. Here they are:\n\n- STI-154GP: 4x GbE PoE + 1x SFP + 1x GbE uplink, 120 W, DIN, -40 to +75 C — $47 USD EXW\n- STI-288DGGPM: 8x GbE PoE + 2x SFP, L2+ managed, DIN, -40 to +75 C — $137.5 USD EXW\n(2026-10 price table, valid 15 days from this mail)\n- Lead time: 4-7 working days ex-works; private label (Optiview logo, model name, GUI) from 50 pcs.\n\nOne question: for your private-label PoE line, is the 4-port or the 8-port DIN unit the volume SKU, and what landed cost would make you switch source?\n\nThank you.\nSimon"
-    },
-    "as_of": "2026-10-24"
+  {
+   "kind": "官网",
+   "claim": "OVPOE24X-400-2GC 24×GE PoE 400W",
+   "quote": "24 Port 10/100/1000Base-TX PoE Switch with 2 x Gigabit combo's. Provides 24 x PoE injectors, 400W built-in power supply. 52Gbps",
+   "url": "https://optiviewusa.com/product/ovpoe24-400-24-port-poe-switch/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "OVPOE12V-8+4-160-M 8+2 千兆 L2 管理 30W/口",
+   "quote": "OVPOE12V-8+4-160-M – 8 + 2 Port Gigabit Layer 2 Managed Switch with 30W PoE per Port … 240W Power over Ethernet … 12V / 24V DC Output Ports",
+   "url": "https://optiviewusa.com/product/ovpoe12v-8-4-160-m/",
+   "date": "2026-06-11"
   }
+ ],
+ "kp": [
+  {
+   "name": "Stephen Lebowitz",
+   "role": "President（ZoomInfo 口径）",
+   "email": "sales@optiviewusa.com（Crunchbase 公开）",
+   "phone": "+1 904-805-1581",
+   "source": "https://www.zoominfo.com/c/optiview-inc/344525981 ; https://www.crunchbase.com/organization/optiview-d25f"
+  },
+  {
+   "name": "Silvia Flores",
+   "role": "来信署名人（职务未在邮件署名里出现）；地址 2026-07-20 永久退信（550 5.1.1 Address not found）→ 已离职/停用，改问 purchasing@ 接替人",
+   "email": "silvia.flores@optiviewusa.com",
+   "phone": "",
+   "source": "S/A 邮箱来信 2024-10-29 来信 2 封（第 72 批从邮件表头补）"
+  }
+ ],
+ "notes": "A 确认：美国 CCTV 批发商 + 自有品牌 + S 重点；P1 = STC-28DGGPM（8 口商业 PoE，安防主力）→ STC-424DGGPM-280W；注意 NDAA：交换机不在 NDAA 889 覆盖范围（摄像机/视频设备为主），但避免华为海思方案表述，强调 Marvell。",
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "深挖 v1"
+ },
+ "company_facts": {
+  "legal_name": "Optiview, Inc.",
+  "founded": "1999",
+  "hq": "Jacksonville, Florida, USA（电话 904.805.1581）",
+  "staff": "11–50",
+  "revenue": "约 $5.3M",
+  "other": "自有品牌 OVPOE 系列交换机（5 年保修），面向安装商/经销商/集成商；网站需登录看价"
+ },
+ "business_lines": [
+  "CCTV 批发（NDAA 合规摄像机、NVR/DVR）",
+  "Networking/PoE：OVPOE 系列商用与工业 PoE 交换机、户外 NEMA3 PoE 箱",
+  "太阳能监控、线缆"
+ ],
+ "products_seen": [
+  {
+   "brand": "Optiview",
+   "model": "OVPOE8-125 / OVPOE8-125V",
+   "spec": "8×GE PoE + 2 GE（或 1 GE + 1 SFP），125W 外置电源，20G，5 年保",
+   "url": "https://optiviewusa.com/product/ovpoe8-125v/",
+   "date": "2026-10-21",
+   "saga": "STC-28DGGPM"
+  },
+  {
+   "brand": "Optiview",
+   "model": "OVPOE8G-DR-SFP",
+   "spec": "8 口 240W PoE 千兆（DIN，SFP）",
+   "url": "https://optiviewusa.com/wp-content/uploads/2024/03/Optiview_OVPOE12V-8-210_SalesSpecSheet.pdf",
+   "date": "2026-10-21",
+   "saga": "STI-288DGGPM"
+  },
+  {
+   "brand": "Optiview",
+   "model": "OVPOE12V-8-210",
+   "spec": "8 口工业 PoE+ 非管理 10/100，12V",
+   "url": "https://optiviewusa.com/wp-content/uploads/2024/03/Optiview_OVPOE12V-8-210_SalesSpecSheet.pdf",
+   "date": "2024-03",
+   "saga": "STI-288DGGPM（千兆升级位）"
+  },
+  {
+   "brand": "Optiview",
+   "model": "OVPOE12V-8+4-160-M",
+   "spec": "8+2 口千兆 L2 管理，30W/口 240W，12/24V DC 输出口（2026-06-11 页）",
+   "url": "https://optiviewusa.com/product/ovpoe12v-8-4-160-m/",
+   "date": "2026-06-11",
+   "saga": "STI-288DGGPM"
+  },
+  {
+   "brand": "Optiview",
+   "model": "OVPOE16-250",
+   "spec": "16×FE PoE + 2 GE combo，250W",
+   "url": "https://optiviewusa.com/product/ovpoe16-250/",
+   "date": "2024-10-14",
+   "saga": "STI-21616GP（千兆升级位）"
+  },
+  {
+   "brand": "Optiview",
+   "model": "OVPOE24-370-2GC / OVPOE24X-400-2GC",
+   "spec": "24×FE PoE 370W / 24×GE PoE 400W + 2 GE combo（52Gbps）",
+   "url": "https://optiviewusa.com/product/ovpoe24-400-24-port-poe-switch/",
+   "date": "2026-07-23",
+   "saga": "STC-424DGGPM-280W"
+  },
+  {
+   "brand": "Optiview",
+   "model": "WPNS-8-LED",
+   "spec": "NEMA3 户外防水箱 8 口 PoE 30W/口",
+   "url": "https://optiviewusa.com/poe/8/",
+   "date": "2026-10-21",
+   "saga": "STC-28DGGPM（箱内机）"
+  }
+ ],
+ "channels": {
+  "网站": "https://optiviewusa.com/（登录看价，经销商制）",
+  "直邮": "purchasing@optiviewusa.com（用户表）；sales@optiviewusa.com；Stephen Lebowitz（Crunchbase）",
+  "电话": "904.805.1581"
+ },
+ "signals": [
+  "2026-06/07 仍在更新 OVPOE 产品页（8+4 管理型、24X-400）——自有品牌 PoE 线活跃（2026-10-21）",
+  "OVPOE16/24 仍为百兆 PoE 口——千兆升级是明确空位",
+  "用户表：S 重点，1 次实质回复，兴趣 VC/HDMI/FS/商业 PoE/光模块"
+ ],
+ "risks": [
+  "美国 CCTV 渠道强调 NDAA——交换机不在 NDAA 889 范围但客户可能要求非中资芯片表述（Marvell 是美国芯片，可用）",
+  "UL：机架 PoE 电源类客户可能要 UL 列名，Saga 只有 CE/FCC"
+ ],
+ "saga_fit": {
+  "p1": "STC-424DGGPM-280W",
+  "tier": 30,
+  "why": "OVPOE24-370-2GC（24×FE PoE）升级位 = STC-424DGGPM-280W（24 GE PoE + 4 SFP）；OVPOE8-125 对位 STC-28DGGPM；OVPOE8G-DR-SFP/12V-8+4 对位 STI-288DGGPM；贴 Optiview 标 30% 档"
+ },
+ "email_hook": "Your OVPOE24-370-2GC is still 10/100 on the PoE ports, so the Marvell-based 24-port gigabit PoE+ with 4 SFP uplinks in Optiview packing is the natural upgrade SKU and the one I am pricing first, alongside the 8-port unit that matches the OVPOE8-125.",
+ "mail_review": {
+  "binding": {
+   "level": "未绑定（采购员 2024-10-29 要 4/8 口工业 PoE 规格书 + 价格 → 给了资料 → 无下文；Elsa 箱：`to:optiviewusa.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 24 / 来 2）（第 74 批(g)））",
+   "type": "美国 CCTV 批发商 + 自有品牌——第一档类型；Silvia Flores（Purchasing Agent）",
+   "sieve": "2",
+   "stop": "2024-10-30 Simon「Please see attached information」后无回；此后 20 封群发（含 US 关税期）无回；2026-07-20 起 silvia.flores@ 退信（人已不在），之后群发只到 purchasing@",
+   "revive": "其 PoE 交换机 SKU 换源；NDAA 不涉交换机但要说清芯片",
+   "lane": "US",
+   "cadence": "2024-06 → 2026-09 去信 24 封；最后来信 2024-10-29",
+   "evidence": "k=3967a837c3bedff6 / 7f7e16f255ec5fae / 54932716b5166fad"
+  },
+  "situation": "Optiview 采购 Silvia 2024-10-29 两封：要 4 口/8 口工业 PoE 的规格书、要两款价格。Simon 次日一封「see attached information」（价格是否在附件内不可考）。此后无回。",
+  "need": "4/8 口工业 PoE（CCTV 批发 SKU）。",
+  "breakpoint": "采购员要的是「规格 + 价格 + 交期」三件套，回复只给了附件；无跟进问题。",
+  "saga_now": {
+   "p1": "STI-154GP（4 口）/ STI-288DGGPM 或非管理 8 口（按价格主表）",
+   "tier": 30,
+   "price": "按 30% 自有标档；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-06-25 $220（48 port managed switch）、2024-11-15 $300（Re: Industrial PoE Switch）、2025-08-27 $240（24 Port Fiber Switch）、2025-10-29 $280（10G Enterprise SFP Switch）、2026-09-08 $170（24 Port PoE Managed Switch）；**第 63 批基准统一（规则 ㉕）**：STI-154GP 列表价 $51.7 → 老表 $47（非管理工业线）；STI-288DGGPM $137.5 封顶保留；他 2026-09-08 收过 24 口 $170 群发——若谈到 STC-424XGGPM-280W 写 $180 并点明；群发里他已看到的价（续，第 66 批全量复核）：2026-07-20 $1500（24 Port 10G SFP+ Switch）",
+   "why": "J2：补一封三件套。已打开的主题（2/24 封有打开记录）：「Re: Industrial PoE Switch」(2024-10-30)、「24 Port 10G SFP+ Switch」(2026-07-20) → 读者兴趣偏「工业」；与 P1 同类，继续｜已发资料（勿重发）：STI-244GP(2024-10-30)、STI-154GP(2024-10-30)、STI-288GP(2024-10-30)、Saga Software Function List-release 7.(2025-03-28)、Product Link_2026Q2(2026-03-02)；已发单据：Quotation(2024-10-30)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）",
+   "repeat": [],
+   "gaps": [
+    "2024-10-30 附件是否含价格"
+   ]
+  },
+  "next_move": {
+   "when": "2026-11",
+   "channel": "S 邮箱 → purchasing@optiviewusa.com（silvia.flores@ 2026-07-20 已「Address not found」，先问接替的采购是谁）",
+   "action": "先一句话问 purchasing@ 现在谁接 Silvia 的工作；再给三件套一页：4 口 / 8 口价格、交期、FCC",
+   "one_question": "For your private-label PoE line, is the 4-port or the 8-port DIN unit the volume SKU, and what landed cost do you need to switch source?"
+  },
+  "facts": [
+   {
+    "date": "2024-10-29",
+    "dir": "来",
+    "who": "Silvia Flores（Purchasing Agent）",
+    "quote": "Could you please send me the specifications (data sheet) for both the 4-port and 8-port versions?",
+    "why": "规格",
+    "k": "3967a837c3bedff6"
+   },
+   {
+    "date": "2024-10-29",
+    "dir": "来",
+    "who": "Silvia",
+    "quote": "Also, provide us with the prices for both models",
+    "why": "价格",
+    "k": "7f7e16f255ec5fae"
+   },
+   {
+    "date": "2024-10-30",
+    "dir": "去",
+    "who": "Simon",
+    "quote": "Please see attached information and let me know.",
+    "why": "回复后停",
+    "k": "54932716b5166fad"
+   },
+   {
+    "date": "2026-07-20",
+    "dir": "内",
+    "who": "Gmail 退信（S 邮箱）",
+    "quote": "silvia.flores@optiviewusa.com 永久退信：** Address not found ** ** Address not found ** Your message wasn't delivered to silvia.flores@optiviewusa.com because t",
+    "why": "该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职",
+    "k": "gmail_s 2c8ed94835972a47"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": {
+   "subject": "4-port and 8-port industrial PoE — spec, price, lead time",
+   "body": "Hi, Silvia,\n\nIn October 2024 you asked for data sheets and prices for the 4-port and 8-port industrial PoE units and we sent the attachments without the three things a buyer actually needs in the body. Here they are:\n\n- STI-154GP: 4x GbE PoE + 1x SFP + 1x GbE uplink, 120 W, DIN, -40 to +75 C — $47 USD EXW\n- STI-288DGGPM: 8x GbE PoE + 2x SFP, L2+ managed, DIN, -40 to +75 C — $137.5 USD EXW\n(2026-10 price table, valid 15 days from this mail)\n- Lead time: 4-7 working days ex-works; private label (Optiview logo, model name, GUI) from 50 pcs.\n\nOne question: for your private-label PoE line, is the 4-port or the 8-port DIN unit the volume SKU, and what landed cost would make you switch source?\n\nThank you.\nSimon"
+  },
+  "as_of": "2026-10-24"
+ }
 }
