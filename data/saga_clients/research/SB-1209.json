@@ -84,7 +84,7 @@
    "revive": "不动；备用具名邮箱：piotr@kamsys.pl（自动回复中出现的同司具名邮箱，2025-10-05，k=7d516fc6a1f3e02f；从未发过）",
    "lane": "PL",
    "cadence": "不动",
-   "evidence": "k=7d516fc6a1f3e02f；data/gmail_e/bcc_batches_2026.json"
+   "evidence": "k=7d516fc6a1f3e02f；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To biuro@zintronic.pl）本户见于 2026-09-01 名单；2025-04-03 首轮名单无此地址 → 中途加入"
   },
   "situation": "来信全部为机器回复；无人读信或无人回信。",
   "need": "—",
@@ -123,6 +123,6 @@
   ],
   "proof_gaps": [],
   "draft_en": null,
-  "as_of": "2026-10-24"
+  "as_of": "2026-10-25"
  }
 }

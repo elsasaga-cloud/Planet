@@ -74,7 +74,7 @@
    "revive": "首封（具名 KP 优先，用研究档 email_hook）",
    "lane": "DE 主攻（四主）",
    "cadence": "首封后看打开",
-   "evidence": "gmail_digest：out 0；用户表：「兴趣：工业FS MC 周边产品 销售平台」；研究档 risks：无具名；data/gmail_e/bcc_batches_2026.json"
+   "evidence": "gmail_digest：out 0；用户表：「兴趣：工业FS MC 周边产品 销售平台」；研究档 risks：无具名；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To office@all4fiber.com）2025-03-28→2026-08-31 共 9 轮群发（16 Port Ethernet Switch、8 Port Industrial PoE Switch、48 Port PoE Managed Switch、Managed Optical Bypass Switch、Mini Industrial PoE Switch、Industrial PoE Switch、10G Enterprise SFP Switch、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断"
   },
   "situation": "德国数据网络 / 电信 / 监控技术中型专业批发（在线商店；switch 206 / industrial 73；+49 2821 97016-0），info@；表内「工业 FS MC 周边产品，销售平台」；无跟进。",
   "need": "工业 2 光 8 PoE → STI-288GP（$57.4 @20%）；MC STI-110GE。",
@@ -94,6 +94,14 @@
    "one_question": "Guten Tag — for the Industrial-Switch and MC categories in your shop: DIN 2-SFP + 8-PoE at $57 and gigabit MC at $22 EXW (CE/RoHS); who is the buyer for active components?"
   },
   "facts": [
+   {
+    "date": "2025-03-28",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To office@all4fiber.com，DE 批次）",
+    "quote": "16 Port Ethernet Switch — There is a 16-port Din Gigabit Ethernet switch for you. It is good for vehicle network and industrial automation. Model choice 1. 5 Port/8 Port/24 Por",
+    "why": "Elsa 箱群发 BCC 触达证据（命中地址 br-network.de, info@br-network.de）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+    "k": "elsa_bcc"
+   },
    {
     "date": "2026-08-31",
     "dir": "去",
@@ -115,6 +123,6 @@
    "无邮件往来"
   ],
   "draft_en": null,
-  "as_of": "2026-10-24"
+  "as_of": "2026-10-25"
  }
 }

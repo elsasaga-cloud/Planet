@@ -25,7 +25,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -33,16 +33,16 @@ updated: 2026-10-24
 - **是谁**：美国 FiberOptic Supply（光纤材料网店：测试仪、光缆、熔接机、工具、跳线、耗材；有源组件分类（SFP 29 / MC 29 处）；表内「SFP MC 周边产品 / 卖别人的 MC」）；表内 2 次跟进无回复。（调研 2026-10-21；表内兴趣：SFP MC 周边产品；卖别人的MC）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；-6 群发批次名单；+2 兴趣仅 MC/SFP/配件（边缘品类）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025
 - **历史互动**：推送 2 次（2025-09-22 → 2025-10-23）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — —；—；群发里他已看到的价（续，第 66 批全量复核）：2025-09-22 $280（10G Enterprise SFP Switch）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：— — —；—；群发里他已看到的价（续，第 66 批全量复核）：2025-09-22 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
 - **下一步**：不动 —；备用具名邮箱 → bhogan@fiberopticsupply.com, bturner@fiberopticsupply.com, gcharlton@fiberopticsupply.com —
 
-## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-25）
 
-> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-938` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-938` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-25。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（2 封自动回复）；Elsa 群发 BCC 已触达 2026-09-08「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，US-3 批次 To sales@solimedia.net，0 回（第 73 批(o) Bcc 头核对 msg 1a08138d20436870）** ｜ 类型：美国光纤材料网店（Fiber Optic Supply） ｜ 筛子：0 ｜ 停点：自动回复/机器人，无人工回复 ｜ 复活：不动；备用具名邮箱：bhogan@fiberopticsupply.com（自动回复中出现的同司具名邮箱，2023-12-20，k=5fe850467aa7251b；从未发过）；bturner@fiberopticsupply.com（自动回复中出现的同司具名邮箱，2024-09-27，k=f88a1716b68677f2；从未发过）；gcharlton@fiberopticsupply.com（自动回复中出现的同司具名邮箱，2023-12-20，k=5fe850467aa7251b；从未发过） ｜ 通路：US ｜ 节奏：不动 ｜ 证据：k=5fe850467aa7251b / f88a1716b68677f2；data/gmail_e/bcc_batches_2026.json
+- **绑定等级：未触达（2 封自动回复）；Elsa 群发 BCC 已触达 2026-09-08「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，US-3 批次 To sales@solimedia.net，0 回（第 73 批(o) Bcc 头核对 msg 1a08138d20436870）** ｜ 类型：美国光纤材料网店（Fiber Optic Supply） ｜ 筛子：0 ｜ 停点：自动回复/机器人，无人工回复 ｜ 复活：不动；备用具名邮箱：bhogan@fiberopticsupply.com（自动回复中出现的同司具名邮箱，2023-12-20，k=5fe850467aa7251b；从未发过）；bturner@fiberopticsupply.com（自动回复中出现的同司具名邮箱，2024-09-27，k=f88a1716b68677f2；从未发过）；gcharlton@fiberopticsupply.com（自动回复中出现的同司具名邮箱，2023-12-20，k=5fe850467aa7251b；从未发过） ｜ 通路：US ｜ 节奏：不动 ｜ 证据：k=5fe850467aa7251b / f88a1716b68677f2；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To sales@solimedia.net）2025-04-05→2026-09-08 共 10 轮群发（Marvell Alleycat5 Solution、Mini Industrial PoE Switch、16 Port Ethernet Switch、48 Port PoE Managed Switch、Managed Optical Bypass Switch、Industrial PoE Switch、10G Enterprise SFP Switch、Updated Ethernet Switches Links、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断
 - **现状一句话**：来信全部为机器回复；无人读信或无人回信。
 - **对方真实需求（有据）**：—
 - **断点 / 为什么停在这里**：—
@@ -54,6 +54,7 @@ updated: 2026-10-24
 | 2023-12-20 | 来 | 自动回复 | 自动回复里给出代理人/同事邮箱 bhogan@fiberopticsupply.com | 群发一直发给休假/离职的人；这个地址从未发过，是换具名邮箱的现成入口 | `5fe850467aa7251b` |
 | 2023-12-20 | 来 | 自动回复 | 自动回复里给出代理人/同事邮箱 gcharlton@fiberopticsupply.com | 群发一直发给休假/离职的人；这个地址从未发过，是换具名邮箱的现成入口 | `5fe850467aa7251b` |
 | 2024-09-27 | 来 | 自动回复 | 自动回复里给出代理人/同事邮箱 bturner@fiberopticsupply.com | 群发一直发给休假/离职的人；这个地址从未发过，是换具名邮箱的现成入口 | `f88a1716b68677f2` |
+| 2025-04-05 | 去 | Elsa 群发（BCC；To sales@solimedia.net，US-3 批次） | Marvell Alleycat5 Solution — We are doing Marvell Alleycat5 chip for tailored networking solutions. 1, Support Web GUI change(Logo, model name, MAC, SN, SNMP, OID) 2, Added intere | Elsa 箱群发 BCC 触达证据（命中地址 fiberopticsupply.com, sales@fiberopticsupply.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-09-08 | 去 | Elsa 群发（BCC；To sales@solimedia.net，US-3 批次） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发 BCC 触达证据（命中地址 fiberopticsupply.com, sales@fiberopticsupply.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 
 ## 基本事实（事实/推断/假设分层）
@@ -268,12 +269,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 30）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 30）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

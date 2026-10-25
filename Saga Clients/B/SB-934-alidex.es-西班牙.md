@@ -27,7 +27,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 3
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -35,16 +35,16 @@ updated: 2026-10-24
 - **是谁**：ALIDEX 西班牙站（与 SB-391 alidex.it 同一公司），工业网络 / IoT / OT 安全分销（ORing 为主）；表内「很多 ORing 的，很多牌子的分销商」；群发 1 次。联系与报价统一在 SB-391 处理。（调研 2026-10-21；表内兴趣：很多Oring的；很多牌子的 分销商）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-6 群发批次名单；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/西班牙；+5 最近活动 2025
 - **历史互动**：推送 1 次（2025-11-06 → 2025-11-06）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 同 SB-391：STI-288GPM（$78.9 @20%）。；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-27 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STI-288GPM — 同 SB-391：STI-288GPM（$78.9 @20%）。；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-27 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
 
-## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-25）
 
-> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-934` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-934` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-25。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A 邮箱 11 封 2025→2026，无记录打开，0 回；收件 info@alidex.es；主题多为「Booster PoE Switch、Optional Marvell Chipset Solutions」）** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：西班牙（欧洲全域主攻） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 11；用户表：「兴趣：很多Oring的;很多牌子的 分销商」；研究档 risks：仅 info@
+- **绑定等级：未触达（A 邮箱 11 封 2025→2026，无记录打开，0 回；收件 info@alidex.es；主题多为「Booster PoE Switch、Optional Marvell Chipset Solutions」）；Elsa 群发 BCC 已触达 2025-03-29「Marvell Alleycat5 Solution」（价格未读），ES 批次 To info@garmasl.com，0 回（第 74 批 Bcc 头核对 msg 195e12122be75883）** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：西班牙（欧洲全域主攻） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 11；用户表：「兴趣：很多Oring的;很多牌子的 分销商」；研究档 risks：仅 info@；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To info@garmasl.com）本户见于 2025-03-29 名单；2026-09-02 最新一轮名单已不含此地址 → 中途被剔除（退信 / 退订 / 手工）
 - **现状一句话**：ALIDEX 西班牙站（与 SB-391 alidex.it 同一公司），工业网络 / IoT / OT 安全分销（ORing 为主）；表内「很多 ORing 的，很多牌子的分销商」；群发 1 次。联系与报价统一在 SB-391 处理。
 - **对方真实需求（有据）**：同 SB-391：STI-288GPM（$78.9 @20%）。
 - **断点 / 为什么停在这里**：仅 info@
@@ -53,6 +53,7 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2025-03-29 | 去 | Elsa 群发（BCC；To info@garmasl.com，ES 批次） | Marvell Alleycat5 Solution — We are doing Marvell Alleycat5 chip for tailored networking solutions. 1, Support Web GUI change(Logo, model name, MAC, SN, SNMP, OID) 2, Added intere | Elsa 箱群发 BCC 触达证据（命中地址 alidex.es, info@alidex.es）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-09-30 | 去 | A 群发 | Booster PoE Switch、Optional Marvell Chipset Solutions | 11 封 / 0 次打开 / 0 回｜首封 2025-11-06 → 末封 2026-09-30（11 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 兴趣：很多Oring的;很多牌子的 分销商 | 表内备注 | `用户表` |
 
@@ -263,12 +264,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 B，分数 30）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 B，分数 30）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

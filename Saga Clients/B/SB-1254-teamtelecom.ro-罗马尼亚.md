@@ -24,7 +24,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -32,16 +32,16 @@ updated: 2026-10-24
 - **是谁**：罗马尼亚 Team Telecom（2003 年起私营电信设备分销与集成：PLANET 工业交换机页（planet 21）、Alcatel-Lucent OmniSwitch / OmniAccess、数据中心；表内「大口 FS / MC / 机架 / data center」）；表内无跟进记录。（调研 2026-10-21；表内兴趣：大口FS MC 机架 data center）
 - **为什么是 B 级**：-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/罗马尼亚
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424XGGM — 表内兴趣大口 FS + 数据中心 → 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）；工业位（PLANET IGS 对位）STI-288GPM；MC 位 STI-110GE；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STC-424XGGM — 表内兴趣大口 FS + 数据中心 → 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）；工业位（PLANET IGS 对位）STI-288GPM；MC 位 STI-110GE；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
 - **下一步**：不动 — —
 
-## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-25）
 
-> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1254` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1254` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-25。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：Elsa 群发 BCC 已触达 2026-08-13「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，北欧/中东欧 批次 To info@dasys.fi，0 回（第 73 批(o) Bcc 头核对 msg 19ffb43006420c22）；S/A 箱：S/A 邮箱均无往来；来源：用户表「大口FS MC 机架 data center」）** ｜ 类型：电信设备分销/集成商（罗马尼亚，PLANET 工业线在售） ｜ 筛子：—（未入筛） ｜ 停点：Elsa 群发 BCC 触达过（最近 2026-08-13）无回；S/A 箱从未单独发过 ｜ 复活：不动（Q-33 供应商渠道客户） ｜ 通路：罗马尼亚（欧洲全域主攻） ｜ 节奏：不动 ｜ 证据：gmail_digest：out 0；用户表：「大口FS MC 机架 data center」；研究档 risks：小国（罗马尼亚，非主动挖掘范围）；PLANET / Alcatel 既定线；data/gmail_e/bcc_batches_2026.json
+- **绑定等级：Elsa 群发 BCC 已触达 2026-08-13「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，北欧/中东欧 批次 To info@dasys.fi，0 回（第 73 批(o) Bcc 头核对 msg 19ffb43006420c22）；S/A 箱：S/A 邮箱均无往来；来源：用户表「大口FS MC 机架 data center」）** ｜ 类型：电信设备分销/集成商（罗马尼亚，PLANET 工业线在售） ｜ 筛子：—（未入筛） ｜ 停点：Elsa 群发 BCC 触达过（最近 2026-08-13）无回；S/A 箱从未单独发过 ｜ 复活：不动（Q-33 供应商渠道客户） ｜ 通路：罗马尼亚（欧洲全域主攻） ｜ 节奏：不动 ｜ 证据：gmail_digest：out 0；用户表：「大口FS MC 机架 data center」；研究档 risks：小国（罗马尼亚，非主动挖掘范围）；PLANET / Alcatel 既定线；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To info@dasys.fi）2025-02-16→2026-08-13 共 10 轮群发（Industrial PoE Switch、8 Port Industrial PoE Switch、Marvell Alleycat5 Solution、48 Port PoE Managed Switch、16 Port Ethernet Switch、Mini Industrial PoE Switch、10G Enterprise SFP Switch、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断
 - **现状一句话**：罗马尼亚 Team Telecom（2003 年起私营电信设备分销与集成：PLANET 工业交换机页（planet 21）、Alcatel-Lucent OmniSwitch / OmniAccess、数据中心；表内「大口 FS / MC / 机架 / data center」）；表内无跟进记录。
 - **对方真实需求（有据）**：表内兴趣大口 FS + 数据中心 → 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）；工业位（PLANET IGS 对位）STI-288GPM；MC 位 STI-110GE
 - **断点 / 为什么停在这里**：小国（罗马尼亚，非主动挖掘范围）；PLANET / Alcatel 既定线
@@ -50,6 +50,7 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2025-02-16 | 去 | Elsa 群发（BCC；To info@alphatelecom.cc，北欧/中东欧 批次） | Industrial PoE Switch — This is a Marvell based industrial PoE switch for you. Port: 2*Gigabit SFP+4*Gigabit PoE Feature: 120W budget, PoE watchdog, 250-meter poe distance, s | Elsa 箱群发 BCC 触达证据（命中地址 team@teamtelecom.ro, teamtelecom.ro）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-08-13 | 去 | Elsa 群发（BCC；To info@dasys.fi，北欧/中东欧 批次） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发 BCC 触达证据（命中地址 team@teamtelecom.ro, teamtelecom.ro）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-10-21 | 用户表 | Simon | 大口FS MC 机架 data center | 表内备注 | `用户表` |
 
@@ -248,12 +249,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 25）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 25）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

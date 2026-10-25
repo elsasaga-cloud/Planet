@@ -155,7 +155,7 @@
    "revive": "不动（Q-33 供应商渠道客户）",
    "lane": "未填 非主攻",
    "cadence": "不动",
-   "evidence": "gmail_digest：out 0；研究档 risks：PLANET 交换机是否仍有实际出货（无价无库存）；采购具名人；是否只做光模块捆绑而不进交换机库存；data/gmail_e/bcc_batches_2026.json"
+   "evidence": "gmail_digest：out 0；研究档 risks：PLANET 交换机是否仍有实际出货（无价无库存）；采购具名人；是否只做光模块捆绑而不进交换机库存；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To office@all4fiber.com）2025-03-28→2026-08-31 共 9 轮群发（16 Port Ethernet Switch、8 Port Industrial PoE Switch、48 Port PoE Managed Switch、Managed Optical Bypass Switch、Mini Industrial PoE Switch、Industrial PoE Switch、10G Enterprise SFP Switch、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断"
   },
   "situation": "Wuppertal 的光模块 / 光纤 / 内存分销商，有源组件子类目列 PLANET 商用与工业交换机（无价无库存）。类型：IT 电子分销商（1997 年起，业主经营）：光模块 / DAC-AOC / 光纤跳线 / CWDM 为主业，另有服务器内存 / SSD 升级；「Aktive Komponenten」子类目列 PLANET 商用 / 工业交换机（自编货号 NRM）。信号：netram.de 商品页：SGSW-24040P4 / SGSW-24040HP（24×GE PoE + 4 SFP）、GS-4210-24P2S、IGS-20160HPT（SKU NRM10918）、GS-2240-48T4X（NRM10831）、页内关联 IGS-6330-24T4S / WGSW-28040；价格页面未显示（登录 / 询价口径），库存未知。Planet 渠道档案 PB-095 评级 B（需求",
   "need": "其列 SGSW-24040P4 / GS-4210-24P2S（24×GE PoE+ + 4/2 SFP 管理）→ Saga STC-424DGGPM-280W 同口型，20% 档 $134.5 USD EXW；IGS-20160HPT 由 STI-2160XGGM 第二封对位；分销商（走量）→ 20%（沿用 Planet 档案 PB-095）；需求：",
@@ -184,6 +184,14 @@
     "k": "gmail_s 0aada7d991e478c2"
    },
    {
+    "date": "2025-03-28",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To office@all4fiber.com，DE 批次）",
+    "quote": "16 Port Ethernet Switch — There is a 16-port Din Gigabit Ethernet switch for you. It is good for vehicle network and industrial automation. Model choice 1. 5 Port/8 Port/24 Por",
+    "why": "Elsa 箱群发 BCC 触达证据（命中地址 info@netram.de, netram.de）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+    "k": "elsa_bcc"
+   },
+   {
     "date": "2026-08-31",
     "dir": "去",
     "who": "Elsa 群发（BCC；To office@all4fiber.com，DE 批次）",
@@ -196,6 +204,6 @@
    "无邮件往来"
   ],
   "draft_en": null,
-  "as_of": "2026-10-24"
+  "as_of": "2026-10-25"
  }
 }

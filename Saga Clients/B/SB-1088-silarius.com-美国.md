@@ -24,7 +24,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -32,16 +32,16 @@ updated: 2026-10-24
 - **是谁**：美国安防 / IT / AV 超级商店 Silarius（官网：110,000+ 产品、500+ 品牌；「Our own NDAA-compliant cameras, NVRs and switches」= 自有品牌含交换机；表内「工业 FS 自己的 logo，摄像头及周边」）；群发 13 次无回复。（调研 2026-10-21；表内兴趣：工业FS  自己的logo 摄像头 其他一些周边产品）
 - **为什么是 B 级**：-6 群发批次名单；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；-10 推送 13 次无任何回复（聋名单）
 - **历史互动**：推送 13 次（2022-09-14 → 2023-10-19）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424DGGPM-280W — 自有品牌含 NDAA 合规交换机 → 24 口 PoE L2+ STC-424DGGPM-280W（$145.7 @30%）贴 Silarius 标；工业位 STI-288GP；需随附元器件来源声明（NDAA 889 不含 Marvell 方案，但需书面确认）；首触锚价 STC-424DGGPM-280W $145.7 EXW（主表档位（PDF 上限 $165；SA-145 2025-02 实报 $150）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STC-424DGGPM-280W — 自有品牌含 NDAA 合规交换机 → 24 口 PoE L2+ STC-424DGGPM-280W（$145.7 @30%）贴 Silarius 标；工业位 STI-288GP；需随附元器件来源声明（NDAA 889 不含 Marvell 方案，但需书面确认）；首触锚价 STC-424DGGPM-280W $145.7 EXW（主表档位（PDF 上限 $165；SA-145 2025-02 实报 $150）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：For your own-label NDAA-compliant switch range, we build Marvell-based 24-port PoE+ L2+ and 8-port models under your brand from small lots with a component-origin statement for your compliance file — which model do you want to see first, the 24-PoE or the 8-PoE? Reference: STC-424DGGPM-280W at $145.7 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
 - **下一步**：待 Simon 排期（首封） A 邮箱 → info@silarius.com（无具名 KP；公用地址） 首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-11「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问
 
-## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-25）
 
-> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1088` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1088` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-25。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：Elsa 群发 BCC 已触达 2026-08-11「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，CH/US/misc 批次 To office@lightwin.ch，0 回（第 73 批(o) Bcc 头核对 msg 19ff11f7aa952525）；S/A 箱：S/A 邮箱均无往来；来源：用户表「工业FS 自己的logo 摄像头 其他一些周边产品」）** ｜ 类型：电商超市 + 自有品牌（OEM 采购） ｜ 筛子：—（未入筛） ｜ 停点：Elsa 群发 BCC 触达过（最近 2026-08-11）无回；S/A 箱从未单独发过 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：US 主攻（四主） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「工业FS 自己的logo 摄像头 其他一些周边产品」；研究档 risks：NDAA 合规要求：需提供非 Huawei/ZTE/Hikvision/Dahua 元器件声明（Marvell 方案可满足，但要书面）；data/gmail_e/bcc_batches_2026.json
+- **绑定等级：Elsa 群发 BCC 已触达 2026-08-11「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，CH/US/misc 批次 To office@lightwin.ch，0 回（第 73 批(o) Bcc 头核对 msg 19ff11f7aa952525）；S/A 箱：S/A 邮箱均无往来；来源：用户表「工业FS 自己的logo 摄像头 其他一些周边产品」）** ｜ 类型：电商超市 + 自有品牌（OEM 采购） ｜ 筛子：—（未入筛） ｜ 停点：Elsa 群发 BCC 触达过（最近 2026-08-11）无回；S/A 箱从未单独发过 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：US 主攻（四主） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「工业FS 自己的logo 摄像头 其他一些周边产品」；研究档 risks：NDAA 合规要求：需提供非 Huawei/ZTE/Hikvision/Dahua 元器件声明（Marvell 方案可满足，但要书面）；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To office@lightwin.ch）2025-02-28→2026-08-11 共 15 轮群发（16 Port Ethernet Switch、Mini Industrial PoE Switch、Commercial Network Switch、48 Port PoE Managed Switch、Managed Optical Bypass Switch、8 Port Industrial PoE Switch、Industrial PoE Switch、10G Enterprise SFP Switch、Booster PoE Switch、OEM Core Switching Solution、Updated Ethernet Switches Links、Marvell Managed Commercial Switches、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断
 - **现状一句话**：美国安防 / IT / AV 超级商店 Silarius（官网：110,000+ 产品、500+ 品牌；「Our own NDAA-compliant cameras, NVRs and switches」= 自有品牌含交换机；表内「工业 FS 自己的 logo，摄像头及周边」）；群发 13 次无回复。
 - **对方真实需求（有据）**：自有品牌含 NDAA 合规交换机 → 24 口 PoE L2+ STC-424DGGPM-280W（$145.7 @30%）贴 Silarius 标；工业位 STI-288GP；需随附元器件来源声明（NDAA 889 不含 Marvell 方案，但需书面确认）
 - **断点 / 为什么停在这里**：NDAA 合规要求：需提供非 Huawei/ZTE/Hikvision/Dahua 元器件声明（Marvell 方案可满足，但要书面）
@@ -51,6 +51,7 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2025-02-28 | 去 | Elsa 群发（BCC；To office@lightwin.ch，CH/US/misc 批次） | 16 Port Ethernet Switch — There is a 16-port Din Gigabit Ethernet switch for you. It is good for vehicle network and industrial automation. Model choice 1. 5 Port/8 port 2. 10/ | Elsa 箱群发 BCC 触达证据（命中地址 info@silarius.com, silarius.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-08-11 | 去 | Elsa 群发（BCC；To office@lightwin.ch，CH/US/misc 批次） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发 BCC 触达证据（命中地址 info@silarius.com, silarius.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-10-21 | 用户表 | Simon | 工业FS 自己的logo 摄像头 其他一些周边产品 | 表内备注 | `用户表` |
 
@@ -267,12 +268,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 27）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 27）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -131,7 +131,7 @@
    "revive": "不动（Q-33 供应商渠道客户）",
    "lane": "芬兰（欧洲全域主攻）",
    "cadence": "不动",
-   "evidence": "gmail_digest：out 0；研究档 risks：CCTV Systems 事业部负责人 / 采购人；PLANET 页面是否仍在售（2018–2021 年页面）；年量；是否要求芬兰语文档 / 集团供应商注册；data/gmail_e/bcc_batches_2026.json"
+   "evidence": "gmail_digest：out 0；研究档 risks：CCTV Systems 事业部负责人 / 采购人；PLANET 页面是否仍在售（2018–2021 年页面）；年量；是否要求芬兰语文档 / 集团供应商注册；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To info@dasys.fi）2025-02-16→2026-08-13 共 10 轮群发（Industrial PoE Switch、8 Port Industrial PoE Switch、Marvell Alleycat5 Solution、48 Port PoE Managed Switch、16 Port Ethernet Switch、Mini Industrial PoE Switch、10G Enterprise SFP Switch、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断"
   },
   "situation": "KLINGER 集团的芬兰公司，工业阀门 / 密封之外有 CCTV 系统事业部，用 PLANET 工业 PoE 交换机配工业 IP 摄像机。类型：工业技术供应商（KLINGER 集团芬兰公司：阀门 / 密封 / 仪表 / 产品标识）附设 CCTV Systems 事业部（IP 摄像机系统、PoE 网络交换机与注入器、OT-Systems 工业交换机）；PLANET 工业交换机 + PoE 注入器为其「Planet kytkimet」类目。信号：klinger.fi：类目「PoE Network switches and injectors › Planet kytkimet」= Planet IGS-20160HPT 16 port PoE switch + Planet IGS-10020HPT 8 port PoE switch；PoE 注入器 Planet POE-164 30W、P",
   "need": "其 Planet 类目核心为 IGS-10020HPT（工业 8×GE PoE+ + 2×SFP 管理，ERPS）→ Saga STI-288GPM 同口型（IP30、-40~75 °C、冗余 DC、L2 管理、240W）；项目 / 集成口径 25% = $82.2 EXW；16 口位 IGS-20160HPT 由 STI-2160XGGM（非 PoE，需说明）或 STI-21616XGGPM 第",
@@ -152,6 +152,14 @@
   },
   "facts": [
    {
+    "date": "2025-02-16",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To info@alphatelecom.cc，北欧/中东欧 批次）",
+    "quote": "Industrial PoE Switch — This is a Marvell based industrial PoE switch for you. Port: 2*Gigabit SFP+4*Gigabit PoE Feature: 120W budget, PoE watchdog, 250-meter poe distance, s",
+    "why": "Elsa 箱群发 BCC 触达证据（命中地址 info@klinger.fi, klinger.fi）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+    "k": "elsa_bcc"
+   },
+   {
     "date": "2026-08-13",
     "dir": "去",
     "who": "Elsa 群发（BCC；To info@dasys.fi，北欧/中东欧 批次）",
@@ -164,6 +172,6 @@
    "无邮件往来"
   ],
   "draft_en": null,
-  "as_of": "2026-10-24"
+  "as_of": "2026-10-25"
  }
 }

@@ -87,7 +87,7 @@
    "revive": "首封（具名 KP 优先，用研究档 email_hook）",
    "lane": "PL 次级重点",
    "cadence": "首封后看打开",
-   "evidence": "gmail_digest：out 0；用户表：「MC较多 没咋看到switch」；研究档 risks：主业无源光纤（Saga 不供 SFP/跳线），MC 为副线；表内「质量一般」；未跟进过；data/gmail_e/bcc_batches_2026.json"
+   "evidence": "gmail_digest：out 0；用户表：「MC较多 没咋看到switch」；研究档 risks：主业无源光纤（Saga 不供 SFP/跳线），MC 为副线；表内「质量一般」；未跟进过；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To j.zaczek@mbs-systems.pl）2025-04-03→2026-09-01 共 11 轮群发（L3 Managed Switch、Industrial PoE Switch、Commercial Network Switch、16 Port Ethernet Switch、8 Port Industrial PoE Switch、Mini Industrial PoE Switch、10G Enterprise SFP Switch、OEM Core Switching Solution、Updated Ethernet Switches Links、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断"
   },
   "situation": "波兰 Cellco（「jeden z największych dostawców technologii światłowodowej」光纤技术主要供应商之一：光缆、CWDM、GPON、跳线、光纤配线架、10G/FTTH；表内「MC 较多 没咋看到 switch」「质量一般」；KP Tomasz Wieczorek）；表内未跟进。",
   "need": "MC 位 → 工业千兆 MC STI-110GE（$22.4 @20%）、工业 PoE MC STI-111GP（$27.8）；配套 8 GE + 2 SFP STI-280GE（$46.6）；SFP/CWDM/跳线 Saga 不供",
@@ -107,6 +107,14 @@
    "one_question": "Tomasz, for the media converters you carry alongside your fibre cabling and CWDM ranges, we supply gigabit and PoE media converters plus 8-GE + 2 SFP switches (industrial grade, CE/RoHS) neutral-brand from small lots, EXW USD — which MC type do your FTTH and enterprise customers buy most? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
+   {
+    "date": "2025-04-03",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To j.zaczek@mbs-systems.pl，PL-2 批次）",
+    "quote": "L3 Managed Switch — This is a Marvell-based L3 Managed 24 port DIN PoE Switch. 1, PoE af/at/bt, 370W budget, max 60℃ 2, Support DI/DO/RS485, USB, Alarm 3, Customizable We",
+    "why": "Elsa 箱群发 BCC 触达证据（命中地址 cellco.com.pl, tomasz.wieczorek@cellco.com.pl）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+    "k": "elsa_bcc"
+   },
    {
     "date": "2026-09-01",
     "dir": "去",
@@ -128,6 +136,6 @@
    "无邮件往来"
   ],
   "draft_en": null,
-  "as_of": "2026-10-24"
+  "as_of": "2026-10-25"
  }
 }

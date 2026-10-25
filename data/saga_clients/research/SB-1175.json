@@ -72,7 +72,7 @@
    "revive": "首封（具名 KP 优先，用研究档 email_hook）",
    "lane": "UK 主攻（四主）",
    "cadence": "首封后看打开",
-   "evidence": "gmail_digest：out 0；用户表：「10G DAC 3米 300个单价」；研究档 risks：询盘品类 DAC Saga 不供（Q-32 待裁定）；实体待核（英/阿联酋双域名、官网快照空、表内「质量一般」）；联系邮箱仅 sales@；data/gmail_e/bcc_batches_2026.json"
+   "evidence": "gmail_digest：out 0；用户表：「10G DAC 3米 300个单价」；研究档 risks：询盘品类 DAC Saga 不供（Q-32 待裁定）；实体待核（英/阿联酋双域名、官网快照空、表内「质量一般」）；联系邮箱仅 sales@；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To sales@cablenet.co.uk）2025-03-30→2026-09-04 共 11 轮群发（Marvell Alleycat5 Solution、90W PoE Managed Switch、8 Port Industrial PoE Switch、48 Port PoE Managed Switch、16 Port Ethernet Switch、Mini Industrial PoE Switch、10G Enterprise SFP Switch、Industrial PoE Switch、OEM Core Switching Solution、Updated Ethernet Switches Links、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断"
   },
   "situation": "英国/阿联酋 Cratsol（cratsol.co.uk / cratsol.ae：询盘「10G DAC 3 米 300 个单价」；联系人 Issac Grant（Skype）/ Amir Zahirshah；表内「质量一般」；官网快照空）；表内未跟进。",
   "need": "询盘品类 10G DAC（Saga 不供，Q-32 待裁定）→ 顺带推 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）作 10G 接入位",
@@ -95,6 +95,14 @@
   },
   "facts": [
    {
+    "date": "2025-03-30",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To sales@cablenet.co.uk，UK 批次）",
+    "quote": "Marvell Alleycat5 Solution — We are doing Marvell Alleycat5 chip for tailored networking solutions. 1, Support Web GUI change(Logo, model name, MAC, SN, SNMP, OID) 2, Added intere",
+    "why": "Elsa 箱群发 BCC 触达证据（命中地址 cratsol.co.uk, sales@cratsol.co.uk）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+    "k": "elsa_bcc"
+   },
+   {
     "date": "2026-09-04",
     "dir": "去",
     "who": "Elsa 群发（BCC；To sales@cablenet.co.uk，UK 批次）",
@@ -115,6 +123,6 @@
    "无邮件往来"
   ],
   "draft_en": null,
-  "as_of": "2026-10-24"
+  "as_of": "2026-10-25"
  }
 }

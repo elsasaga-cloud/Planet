@@ -79,7 +79,7 @@
    "revive": "首封（具名 KP 优先，用研究档 email_hook）",
    "lane": "US 主攻（四主）",
    "cadence": "首封后看打开",
-   "evidence": "gmail_digest：out 0；用户表：「MC FS 非常多的周边产品」；研究档 risks：网店/比价型；主业光缆配件；仅 sales@，未跟进过；data/gmail_e/bcc_batches_2026.json"
+   "evidence": "gmail_digest：out 0；用户表：「MC FS 非常多的周边产品」；研究档 risks：网店/比价型；主业光缆配件；仅 sales@，未跟进过；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To sales@solimedia.net）2025-04-05→2026-09-08 共 10 轮群发（Marvell Alleycat5 Solution、Mini Industrial PoE Switch、16 Port Ethernet Switch、48 Port PoE Managed Switch、Managed Optical Bypass Switch、Industrial PoE Switch、10G Enterprise SFP Switch、Updated Ethernet Switches Links、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断"
   },
   "situation": "美国 Fiber Savvy（光纤分销网店：光缆按长度裁切、配件、MC/交换机周边；表内「MC FS 非常多的周边产品；销售平台」）；表内未跟进。",
   "need": "网店 MC 位 → 工业千兆 MC STI-110GE（$22.4 @20%）/ 桌面 MC 用 HRUI（列表价，注明）；8 GE + 2 SFP 位 HRUI STC-28GM（列表价）",
@@ -99,6 +99,14 @@
    "one_question": "Alongside the bulk fibre and accessories in your shop, we supply neutral-brand gigabit media converters (desktop or industrial) and small SFP-uplink switches from small lots, FCC/CE/RoHS, EXW USD — which MC configuration do your customers order most with fibre runs? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
+   {
+    "date": "2025-04-05",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To sales@solimedia.net，US-3 批次）",
+    "quote": "Marvell Alleycat5 Solution — We are doing Marvell Alleycat5 chip for tailored networking solutions. 1, Support Web GUI change(Logo, model name, MAC, SN, SNMP, OID) 2, Added intere",
+    "why": "Elsa 箱群发 BCC 触达证据（命中地址 fibersavvy.com, sales@fibersavvy.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+    "k": "elsa_bcc"
+   },
    {
     "date": "2026-09-08",
     "dir": "去",
@@ -120,6 +128,6 @@
    "无邮件往来"
   ],
   "draft_en": null,
-  "as_of": "2026-10-24"
+  "as_of": "2026-10-25"
  }
 }

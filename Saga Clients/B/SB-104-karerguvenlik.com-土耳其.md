@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 3
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -33,16 +33,16 @@ updated: 2026-10-24
 - **是谁**：土耳其 Karer Güvenlik Sistemleri（报警与安防摄像机批发零售；自有 KR- 标 PoE 交换机 KR-S1710GU-AP（8+2 千兆 PoE）/ KR-S310CF-AP（8+2 百兆）/ KR-S1718CFU-AP、Hitachi 4+2 PoE；表内「商业 PoE」「质量一般」；KP Nurbaki Karatas（Company Owner）、Samet Sahin（Director of Technical Services））；表内 2 次跟进无回复。（调研 2026-10-21；表内兴趣：商业PoE）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-6 群发批次名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2025
 - **历史互动**：推送 2 次（2025-09-30 → 2025-10-29）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 自有 KR-S1710GU-AP（8 PoE + 2 GE）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 KR 标；百兆位 HRUI STC-028GFP（$17.6）；16 口位 STC-2216GPM（HRUI 列表价）。已打开的主题（1/18 封有打开记录）：「2.5G Ethernet Switch」(2024-07-29) → 读者兴趣偏「2.5G」；与 P1 同类，继续；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-05 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-30 $280（10G Enterprise SFP Switch）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STC-28DGGPM — 自有 KR-S1710GU-AP（8 PoE + 2 GE）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 KR 标；百兆位 HRUI STC-028GFP（$17.6）；16 口位 STC-2216GPM（HRUI 列表价）。已打开的主题（1/18 封有打开记录）：「2.5G Ethernet Switch」(2024-07-29) → 读者兴趣偏「2.5G」；与 P1 同类，继续；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-05 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-30 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Nurbaki, for the KR-S1710GU-AP / KR-S310CF-AP PoE switches under your label, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP) plus budget FE/GE unmanaged PoE models from small lots in your packaging, CE/RoHS, EXW USD — which KR model do you reorder most?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
 
-## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-25）
 
-> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-104` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-104` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-25。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A/S 邮箱 18 封 2024→2026，1 次记录打开，0 回；收件 info@karerguvenlik.com；主题多为「10G Enterprise SFP Switch、Industrial PoE Switch」）** ｜ 类型：安防批发商（土耳其，自有 KR 标 PoE，OEM 采购） ｜ 筛子：1~2（1 次打开） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：TR 主攻（四主） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 18，Opened 标签 1（Simon 群发追踪）；用户表：「商业PoE」；研究档 risks：土耳其：汇率敏感；现代工（深圳）价格基准低；表内「质量一般」
+- **绑定等级：未触达（A/S 邮箱 18 封 2024→2026，1 次记录打开，0 回；收件 info@karerguvenlik.com；主题多为「10G Enterprise SFP Switch、Industrial PoE Switch」）；Elsa 群发 BCC 已触达 2025-04-03「Marvell Alleycat5 Solution」（价格未读），PL 批次 To biuro@zintronic.pl，0 回（第 74 批 Bcc 头核对 msg 195fa8e899dc2e6f）** ｜ 类型：安防批发商（土耳其，自有 KR 标 PoE，OEM 采购） ｜ 筛子：1~2（1 次打开） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：TR 主攻（四主） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 18，Opened 标签 1（Simon 群发追踪）；用户表：「商业PoE」；研究档 risks：土耳其：汇率敏感；现代工（深圳）价格基准低；表内「质量一般」；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To biuro@zintronic.pl）本户见于 2025-04-03 名单；2026-09-01 最新一轮名单已不含此地址 → 中途被剔除（退信 / 退订 / 手工）
 - **现状一句话**：土耳其 Karer Güvenlik Sistemleri（报警与安防摄像机批发零售；自有 KR- 标 PoE 交换机 KR-S1710GU-AP（8+2 千兆 PoE）/ KR-S310CF-AP（8+2 百兆）/ KR-S1718CFU-AP、Hitachi 4+2 PoE；表内「商业 PoE」「质量一般」；KP Nurbaki Karatas（Company Owner）、Samet Sahin（Director of Technical Services））；表内 2 次跟进无回复。
 - **对方真实需求（有据）**：自有 KR-S1710GU-AP（8 PoE + 2 GE）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 KR 标；百兆位 HRUI STC-028GFP（$17.6）；16 口位 STC-2216GPM（HRUI 列表价）
 - **断点 / 为什么停在这里**：土耳其：汇率敏感；现代工（深圳）价格基准低；表内「质量一般」
@@ -52,6 +52,7 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2025-04-03 | 去 | Elsa 群发（BCC；To biuro@zintronic.pl，PL 批次） | Marvell Alleycat5 Solution — We are doing Marvell Alleycat5 chip for tailored networking solutions. 1, Support Web GUI change(Logo, model name, MAC, SN, SNMP, OID) 2, Added intere | Elsa 箱群发 BCC 触达证据（命中地址 info@karerguvenlik.com, karerguvenlik.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-10-06 | 去 | A/S 群发 | 10G Enterprise SFP Switch、Industrial PoE Switch | 18 封 / 1 次打开 / 0 回｜首封 2024-06-20 → 末封 2026-10-06（18 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 商业PoE | 表内备注 | `用户表` |
 
@@ -301,12 +302,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 B，分数 53）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 B，分数 53）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -24,7 +24,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -32,16 +32,16 @@ updated: 2026-10-24
 - **是谁**：英国 Zxtech（家用安防摄像系统品牌：5MP/4K/12MP IP 与模拟套装、PoE 摄像机；经 domar.com 销售「Zxtech 6-Port 10/100M Switch with 4-Port PoE」；表内「CCTV 为主，有 PoE switch 但网站上没找到」「质量一般」）；表内无跟进记录。（调研 2026-10-21；表内兴趣：CCTV为主 有POE switch 但在网站上没找到）
 - **为什么是 B 级**：-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/英国
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-204GP — 自有标 6 口百兆 4 PoE 小交换机 → 千兆升级位 HRUI STC-204GP（4 PoE + 2 GE，列表价 $20.4，非 SmartByte）；8 口套装位 STC-28DGGPM（$87.4 @30%）；首触锚价 STC-204GP $26.2 EXW（洪瑞 2026-09-30 进价 +档（Q-47 默认；Drive 旧表 $20.4 不用）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STC-204GP — 自有标 6 口百兆 4 PoE 小交换机 → 千兆升级位 HRUI STC-204GP（4 PoE + 2 GE，列表价 $20.4，非 SmartByte）；8 口套装位 STC-28DGGPM（$87.4 @30%）；首触锚价 STC-204GP $26.2 EXW（洪瑞 2026-09-30 进价 +档（Q-47 默认；Drive 旧表 $20.4 不用）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：For the Zxtech-branded 4-PoE desktop switch sold with your camera kits, we can supply a gigabit 4-PoE + 2-uplink unit (or an 8-PoE + 2 SFP L2+ model for larger kits) under your label from small lots, CE/RoHS/UKCA — which kit size ships most? Reference: STC-204GP at $26.2 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
 - **下一步**：待 Simon 排期（首封） A 邮箱 → sales@zxtech.co（无具名 KP；公用地址） 首封前知悉：Elsa 已 BCC 群发触达（最近 2026-09-04「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问
 
-## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-25）
 
-> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1272` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1272` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-25。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：Elsa 群发 BCC 已触达 2026-09-04「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，UK 批次 To sales@cablenet.co.uk，0 回（第 73 批(o) Bcc 头核对 msg 1a06ba5722292bab）；S/A 箱：S/A 邮箱均无往来；来源：用户表「CCTV为主 有POE switch 但在网站上没找到；https://domar.com/products/zxtec」）** ｜ 类型：英国家用 CCTV 品牌（配套 PoE 自有标，OEM 采购） ｜ 筛子：—（未入筛） ｜ 停点：Elsa 群发 BCC 触达过（最近 2026-09-04）无回；S/A 箱从未单独发过 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：UK 主攻（四主） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「CCTV为主 有POE switch 但在网站上没找到；https://domar.com/products/zxtech-6-port-10-100m-swi」；研究档 risks：消费级家用套装：价格基准极低，PoE 交换机为赠品级配件；data/gmail_e/bcc_batches_2026.json
+- **绑定等级：Elsa 群发 BCC 已触达 2026-09-04「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，UK 批次 To sales@cablenet.co.uk，0 回（第 73 批(o) Bcc 头核对 msg 1a06ba5722292bab）；S/A 箱：S/A 邮箱均无往来；来源：用户表「CCTV为主 有POE switch 但在网站上没找到；https://domar.com/products/zxtec」）** ｜ 类型：英国家用 CCTV 品牌（配套 PoE 自有标，OEM 采购） ｜ 筛子：—（未入筛） ｜ 停点：Elsa 群发 BCC 触达过（最近 2026-09-04）无回；S/A 箱从未单独发过 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：UK 主攻（四主） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「CCTV为主 有POE switch 但在网站上没找到；https://domar.com/products/zxtech-6-port-10-100m-swi」；研究档 risks：消费级家用套装：价格基准极低，PoE 交换机为赠品级配件；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To sales@cablenet.co.uk）本户见于 2026-09-04 名单；2025-03-30 首轮名单无此地址 → 中途加入
 - **现状一句话**：英国 Zxtech（家用安防摄像系统品牌：5MP/4K/12MP IP 与模拟套装、PoE 摄像机；经 domar.com 销售「Zxtech 6-Port 10/100M Switch with 4-Port PoE」；表内「CCTV 为主，有 PoE switch 但网站上没找到」「质量一般」）；表内无跟进记录。
 - **对方真实需求（有据）**：自有标 6 口百兆 4 PoE 小交换机 → 千兆升级位 HRUI STC-204GP（4 PoE + 2 GE，列表价 $20.4，非 SmartByte）；8 口套装位 STC-28DGGPM（$87.4 @30%）
 - **断点 / 为什么停在这里**：消费级家用套装：价格基准极低，PoE 交换机为赠品级配件
@@ -250,12 +250,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 25）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 25）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

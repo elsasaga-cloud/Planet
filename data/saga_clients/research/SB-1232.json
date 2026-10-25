@@ -83,7 +83,7 @@
    "revive": "首封（具名 KP 优先，用研究档 email_hook）",
    "lane": "UK 主攻（四主）",
    "cadence": "首封后看打开",
-   "evidence": "gmail_digest：out 0；用户表：「主要是CCTV 少量商业POE」；研究档 risks：PoE 为副线（少量商业 PoE）；表内「质量一般」；仅 info@，未跟进过；data/gmail_e/bcc_batches_2026.json"
+   "evidence": "gmail_digest：out 0；用户表：「主要是CCTV 少量商业POE」；研究档 risks：PoE 为副线（少量商业 PoE）；表内「质量一般」；仅 info@，未跟进过；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To sales@cablenet.co.uk）本户见于 2026-09-04 名单；2025-03-30 首轮名单无此地址 → 中途加入"
   },
   "situation": "英国 Raytel Security Systems（门禁与门口机厂商/库存商：Elvox、Soyal、自有 AR- 系列读卡器，CCTV 与配套 PoE；表内「主要是 CCTV 少量商业 PoE」「质量一般」）；表内未跟进。",
   "need": "门禁/对讲配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；4 口位 HRUI STC-114GP（列表价，注明）",
@@ -124,6 +124,6 @@
    "无邮件往来"
   ],
   "draft_en": null,
-  "as_of": "2026-10-24"
+  "as_of": "2026-10-25"
  }
 }

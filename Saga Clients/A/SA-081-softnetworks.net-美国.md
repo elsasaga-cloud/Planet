@@ -26,7 +26,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -34,16 +34,16 @@ updated: 2026-10-24
 - **是谁**：美国新泽西二手/翻新网络设备经销商 + IT 维修（Chromebook/Apple），2012 年注册，11–50 人（Datanyze 18 人），主营 Cisco/Juniper/Aruba 翻新件，产品目录含 'Industrial Switches'；联系人 Neal Cennamo 为副总裁，E 已回复 1 次。（调研 2026-10-21；表内兴趣：工业FS Cisco产品）
 - **为什么是 A 级**：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；-3 跟进表最近平台标记 E（已降为群发）
 - **历史互动**：实质回复 1 次；推送 4 次（2025-04-30 → 2025-10-01）；最近一次客户回复：2025-04-30：不用非管理的
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM-2BT（90W 款） — 翻新 Cisco 工业机的新品补充 → 8 口 PoE 管理 DIN（90W 款）给他一个价位更低的新机选项；价格基准是翻新机，先问再报；自家实报 STI-288DGGPM-2BT $140/pc（Elsa 2025-05-14，老汇率）→ 再触写 $154 时点明 FX 7.2→6.7；换人再触锚价 STI-288DGGPM-2BT $154 EXW（2026-06 PDF 上限 $154（档位 157.8–171 超上限；SB-089 500 台项目实报 $130）；第 72 批 2026-10-24）；—
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STI-288DGGPM-2BT（90W 款） — 翻新 Cisco 工业机的新品补充 → 8 口 PoE 管理 DIN（90W 款）给他一个价位更低的新机选项；价格基准是翻新机，先问再报；自家实报 STI-288DGGPM-2BT $140/pc（Elsa 2025-05-14，老汇率）→ 再触写 $154 时点明 FX 7.2→6.7；换人再触锚价 STI-288DGGPM-2BT $154 EXW（2026-06 PDF 上限 $154（档位 157.8–171 超上限；SB-089 500 台项目实报 $130）；第 72 批 2026-10-24）；—
 - **第一问（只问一个）**：Did the May 2025 quote for the 90W managed PoE unit (STI-288DGGPM-2BT at $140) land anywhere near your refurb price points — and what would? Today it is $154 USD EXW (MOQ 1, 15-day validity; the RMB has moved from 7.2 to 6.7 since).
 - **最大未知**：年走量与现供应商
 - **下一步**：2027-Q1 E 邮箱 → nealc@softnetworks.net 一句话问 5 月报价的反馈
 
-## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-25）
 
-> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-081` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-081` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-25。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未绑定（Elsa 邮箱两次回复：2025-04-29「I never buy Unmanaged.」、2025-05-13「What is the price for this one?」(90W PoE 管理型) → Elsa 05-14 回价后无下文）** ｜ 类型：新泽西二手/翻新网络设备经销（Neal Cennamo）——美国主攻区，但商业模式是翻新件 ｜ 筛子：0（邮件层无人工回复） ｜ 停点：价格后停（翻新件价格基准极低） ｜ 复活：只谈管理型新品补充线 + FCC ｜ 通路：US ｜ 节奏：一次 ｜ 证据：邮件：A/S 两箱均无发信记录（0 去 / 0 来）
+- **绑定等级：未绑定（Elsa 邮箱两次回复：2025-04-29「I never buy Unmanaged.」、2025-05-13「What is the price for this one?」(90W PoE 管理型) → Elsa 05-14 回价后无下文）；Elsa 首触 = 2025-04-06 US-2 批次群发 BCC「16 Port PoE Managed Switch」（第 74 批 Bcc 头核对 msg 1960752f6b2cf94d）→ 04-29 回信后转 1:1，群发名单随即剔除（2026-09-08 同批次名单无此址）** ｜ 类型：新泽西二手/翻新网络设备经销（Neal Cennamo）——美国主攻区，但商业模式是翻新件 ｜ 筛子：0（邮件层无人工回复） ｜ 停点：价格后停（翻新件价格基准极低） ｜ 复活：只谈管理型新品补充线 + FCC ｜ 通路：US ｜ 节奏：一次 ｜ 证据：邮件：A/S 两箱均无发信记录（0 去 / 0 来）；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To info@allisontecusa.com）2025-04-06 首轮 Bcc 含 NealC@softnetworks.net；04-29 他回信后 Elsa 改为直发（1:1 共 11 封，Replied 2025-04/05），2026-09-08 最新一轮群发名单已不含此址 → 剔除原因 = 转 1:1，不是退信
 - **现状一句话**：Neal 两句话说明了筛选标准：不买非管理；管理型问了价。Elsa 的回价内容不在仓库（E 箱只存来信正文）。
 - **对方真实需求（有据）**：管理型 PoE（高端 CCTV 项目）作为翻新业务的新品补充。
 - **断点 / 为什么停在这里**：价格基准（翻新 Cisco）vs 新品。
@@ -53,6 +53,7 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2025-04-06 | 去 | Elsa 群发（BCC；To info@allisontecusa.com，US-2 批次） | 16 Port PoE Managed Switch — This is a Marvell-based 16 Port PoE L2+ Managed Switch. 1, 2*1G/2.5G/10G fiber+16*1G RJ45/PoE 2, Support PoE management, alarm output 3, Customizable  | Elsa 箱对该户的第一封 = 群发 BCC（US-2 批次 To info@allisontecusa.com，40 Bcc）；23 天后 NealC 回「I never buy Unmanaged」→ 之后全部 1:1 | `elsa_bcc` |
 | 2025-04-29 | 来（Elsa 箱） | Neal Cennamo | I never buy Unmanaged. | 筛选标准 | `E 19682eba2d4de4b4` |
 | 2025-04-30 | 去 | Elsa | We got managed series. Please see attached a typical model, it is a lengthy datasheet with plenty of information, take your time.（附 STI-288DGGPM.pdf；Elsa 给这封加了星标） | 回应「I never buy Unmanaged」→ 给管理型规格书 | `gmail_e 19684d7bc9571faf` |
 | 2025-05-13 | 来（Elsa 箱） | Neal | What is the price for this one? | 询价 | `E 196ca1e02d95c29d` |
@@ -279,12 +280,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-07**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-08**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 73）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 73）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

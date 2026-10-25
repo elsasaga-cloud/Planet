@@ -81,7 +81,7 @@
    "revive": "保持季度群发到 2027-Q1；无打开即停",
    "lane": "意大利（欧洲全域主攻）",
    "cadence": "季度",
-   "evidence": "gmail_digest：out 1，Opened 标签 1（Simon 群发追踪）；用户表：「商业POE为主」；研究档 risks：配件型分销（1975 年起，品类极广）：交换机为配套，单品量小；data/gmail_e/bcc_batches_2026.json"
+   "evidence": "gmail_digest：out 1，Opened 标签 1（Simon 群发追踪）；用户表：「商业POE为主」；研究档 risks：配件型分销（1975 年起，品类极广）：交换机为配套，单品量小；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To INFO@sarcitalia.it）2025-04-01→2026-08-31 共 9 轮群发（Marvell Alleycat5 Solution、8 Port Industrial PoE Switch、Commercial PoE Switch、48 Port PoE Managed Switch、16 Port Ethernet Switch、10G Enterprise SFP Switch、Industrial PoE Switch、OEM Core Switching Solution、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断"
   },
   "situation": "意大利 Alpha Elettronica（1975 年起的电子产品与配件分销商；品类页 networking/switch、工业适配器、智能家居 Wi-Fi 开关、安防网络交换机；PoE 词频 439、switch 212；表内「商业 PoE 为主，质量一般」）；表内无跟进记录。",
   "need": "分销商、商业 PoE 为主 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；24 口 STC-424DGGPM-280W；非管理位 HRUI STC-028GP（$24.2）",
@@ -110,6 +110,14 @@
     "k": "gmail_digest"
    },
    {
+    "date": "2025-04-01",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To INFO@sarcitalia.it，IT 批次）",
+    "quote": "Marvell Alleycat5 Solution — We are doing Marvell Alleycat5 chip for tailored networking solutions. 1, Support Web GUI change(Logo, model name, MAC, SN, SNMP, OID) 2, Added intere",
+    "why": "Elsa 箱群发 BCC 触达证据（命中地址 alphaelettronica.com, info@alphaelettronica.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+    "k": "elsa_bcc"
+   },
+   {
     "date": "2026-08-31",
     "dir": "去",
     "who": "Elsa 群发（BCC；To INFO@sarcitalia.it，IT 批次）",
@@ -128,6 +136,6 @@
   ],
   "proof_gaps": [],
   "draft_en": null,
-  "as_of": "2026-10-24"
+  "as_of": "2026-10-25"
  }
 }

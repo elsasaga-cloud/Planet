@@ -91,7 +91,7 @@
    "revive": "首封（具名 KP 优先，用研究档 email_hook）",
    "lane": "UK 主攻（四主）",
    "cadence": "首封后看打开",
-   "evidence": "gmail_digest：out 0；用户表：「CCTV为主 有POE switch 但在网站上没找到；https://domar.com/products/zxtech-6-port-10-100m-swi」；研究档 risks：消费级家用套装：价格基准极低，PoE 交换机为赠品级配件；data/gmail_e/bcc_batches_2026.json"
+   "evidence": "gmail_digest：out 0；用户表：「CCTV为主 有POE switch 但在网站上没找到；https://domar.com/products/zxtech-6-port-10-100m-swi」；研究档 risks：消费级家用套装：价格基准极低，PoE 交换机为赠品级配件；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To sales@cablenet.co.uk）本户见于 2026-09-04 名单；2025-03-30 首轮名单无此地址 → 中途加入"
   },
   "situation": "英国 Zxtech（家用安防摄像系统品牌：5MP/4K/12MP IP 与模拟套装、PoE 摄像机；经 domar.com 销售「Zxtech 6-Port 10/100M Switch with 4-Port PoE」；表内「CCTV 为主，有 PoE switch 但网站上没找到」「质量一般」）；表内无跟进记录。",
   "need": "自有标 6 口百兆 4 PoE 小交换机 → 千兆升级位 HRUI STC-204GP（4 PoE + 2 GE，列表价 $20.4，非 SmartByte）；8 口套装位 STC-28DGGPM（$87.4 @30%）",
@@ -132,6 +132,6 @@
    "无邮件往来"
   ],
   "draft_en": null,
-  "as_of": "2026-10-24"
+  "as_of": "2026-10-25"
  }
 }

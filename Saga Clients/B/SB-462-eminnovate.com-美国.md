@@ -26,7 +26,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -34,25 +34,26 @@ updated: 2026-10-24
 - **是谁**：用户表登记为美国客户（域名 eminnovate.com），1 次实质回复、2 次跟进。公开检索无法核实其公司身份与业务；同名印度 IT 服务公司（eminnovate.co）与网络设备无关。按「待核」处理：下次跟进时直接询问公司全称与业务。（调研 2026-10-21；表内兴趣：基本都是planet的）
 - **为什么是 B 级**：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；-25 邮件发不过去且无 WhatsApp 通道；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；-3 跟进表最近平台标记 E（已降为群发）
 - **历史互动**：实质回复 1 次；推送 2 次（2025-06-29 → 2025-10-01）；最近一次客户回复：2025-06-29：interested
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 身份待核：默认按终端/集成商 25% 档以 STC-28DGGPM 试探；核实后再定；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STC-28DGGPM — 身份待核：默认按终端/集成商 25% 档以 STC-28DGGPM 试探；核实后再定；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Michael — no rear-facing-port models in our range (ports are front; airflow front-to-rear on the CENTEC units). What is the rack situation that needs rear ports — cabling to a patch panel behind?
 - **最大未知**：年走量与现供应商
-- **下一步**：2026-11（顺手） Elsa 邮箱回原线程 一问；回原串沿用原主题（邮件客户端自动加 Re:），上面的主题只在另起新信时用
+- **下一步**：2026-11（顺手） Elsa 邮箱回原线程 首封前知悉：Elsa 已 BCC 群发触达（最近 2025-04-05「Marvell Alleycat5 Solution」），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生。 一问；回原串沿用原主题（邮件客户端自动加 Re:），上面的主题只在另起新信时用
 
-## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-25）
 
-> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-462` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-462` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-25。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未发信→轻度触达（Elsa 邮箱 2025-06-29 michael@eminnovate.com 回「Very interesting Any rear facing port switches?」对 48 口 PoE；S/A 邮箱 0 封；公司实体未核）；补核（第 73 批）：Elsa 06-30 答「没有后出线款」+ 软件功能表，之后无回** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：一句实话：无后置端口型号；问场景 ｜ 通路：US 主攻（四主） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「（用户表字段）」；研究档 risks：身份未核实；若为印度 IT 服务公司则不在目标区域/行业；Elsa 邮箱 `data/gmail_e/text/`（Replied 线程，客户→Elsa 正文；Elsa 回复正文未入库）
+- **绑定等级：未发信→轻度触达（Elsa 邮箱 2025-06-29 michael@eminnovate.com 回「Very interesting Any rear facing port switches?」对 48 口 PoE；S/A 邮箱 0 封；公司实体未核）；补核（第 73 批）：Elsa 06-30 答「没有后出线款」+ 软件功能表，之后无回；Elsa 群发 BCC 已触达 2025-04-05「Marvell Alleycat5 Solution」（价格未读），US-3 批次 To sales@solimedia.net，0 回（第 74 批 Bcc 头核对 msg 19606773d0d7a306）** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：一句实话：无后置端口型号；问场景 ｜ 通路：US 主攻（四主） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「（用户表字段）」；研究档 risks：身份未核实；若为印度 IT 服务公司则不在目标区域/行业；Elsa 邮箱 `data/gmail_e/text/`（Replied 线程，客户→Elsa 正文；Elsa 回复正文未入库）；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To sales@solimedia.net）本户见于 2025-04-05 名单；2026-09-08 最新一轮名单已不含此地址 → 中途被剔除（退信 / 退订 / 手工）
 - **现状一句话**：用户表登记为美国客户（域名 eminnovate.com），1 次实质回复、2 次跟进。公开检索无法核实其公司身份与业务；同名印度 IT 服务公司（eminnovate.co）与网络设备无关。按「待核」处理：下次跟进时直接询问公司全称与业务。
 - **对方真实需求（有据）**：身份待核：默认按终端/集成商 25% 档以 STC-28DGGPM 试探；核实后再定
 - **断点 / 为什么停在这里**：身份未核实；若为印度 IT 服务公司则不在目标区域/行业
 - **Saga 现在该推什么**：P1 **STC-28DGGPM**（25% 档，按主表（研究档 saga_fit））——身份待核：默认按终端/集成商 25% 档以 STC-28DGGPM 试探；核实后再定
-- **下一步（具体）**：2026-11（顺手）　Elsa 邮箱回原线程　一问；回原串沿用原主题（邮件客户端自动加 Re:），上面的主题只在另起新信时用
+- **下一步（具体）**：2026-11（顺手）　Elsa 邮箱回原线程　首封前知悉：Elsa 已 BCC 群发触达（最近 2025-04-05「Marvell Alleycat5 Solution」），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生。 一问；回原串沿用原主题（邮件客户端自动加 Re:），上面的主题只在另起新信时用
   - 第一问（只问一个）：Michael — no rear-facing-port models in our range (ports are front; airflow front-to-rear on the CENTEC units). What is the rack situation that needs rear ports — cabling to a patch panel behind?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2025-04-05 | 去 | Elsa 群发（BCC；To sales@solimedia.net，US-3 批次） | Marvell Alleycat5 Solution — We are doing Marvell Alleycat5 chip for tailored networking solutions. 1, Support Web GUI change(Logo, model name, MAC, SN, SNMP, OID) 2, Added intere | Elsa 箱群发 BCC 触达证据（命中地址 eminnovate.com, sales@eminnovate.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2025-06-29 | 来 | Michael（eminnovate.com） | Very interesting Any rear facing port switches? | 要后置端口机架机（数据中心/机柜走线）——Saga 商用线为前置端口；CENTEC 机型风道前后可选但端口仍前置 | `gmail_e` |
 | 2025-06-30 | 去 | Elsa | Sorry, it is not available on our list. On the market, there are some models available, but not many. Please check attached our Marvell based software feature list.（附 Saga Software Function List_7.3, 7.4, 7.5 version.xlsx） | Elsa 次日答「没有后出线款」+ 软件功能表 → 无下文；信稿「none of our models have rear-facing ports」与之一致 | `gmail_e 197c0bbcf58da83a` |
 | 2026-10-21 | 用户表 | Simon | （用户表字段） | 表内备注 | `用户表` |
@@ -239,12 +240,12 @@ Saga Telecom
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 40）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 40）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

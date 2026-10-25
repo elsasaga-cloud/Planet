@@ -121,7 +121,7 @@
    "revive": "不动（Q-33 供应商渠道客户）",
    "lane": "US 主攻（四主）",
    "cadence": "不动",
-   "evidence": "gmail_digest：out 0；研究档 risks：Q-15 裁定；PC Cable World 是否含交换机；当前交换机进货渠道（经 Netgear/TP-Link 加拿大分销还是直接进口）；Rob Baerg；data/gmail_e/bcc_batches_2026.json"
+   "evidence": "gmail_digest：out 0；研究档 risks：Q-15 裁定；PC Cable World 是否含交换机；当前交换机进货渠道（经 Netgear/TP-Link 加拿大分销还是直接进口）；Rob Baerg；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To sales@solimedia.net）2025-04-05→2026-09-08 共 10 轮群发（Marvell Alleycat5 Solution、Mini Industrial PoE Switch、16 Port Ethernet Switch、48 Port PoE Managed Switch、Managed Optical Bypass Switch、Industrial PoE Switch、10G Enterprise SFP Switch、Updated Ethernet Switches Links、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断"
   },
   "situation": "温哥华都会区 B2B IT/AV/安防硬件批发商，自己从台湾直接进口 PLANET 交换机，也从中国 OEM 进口。类型：分销商/进口商（加拿大本土 B2B 批发：IT 基础设施、连接线缆、网络、AV、安防硬件，1986 年起；17 人、营收 $10–25M（Frasers）；展厅 3,500+ 产品；美国海关记录显示为 PLANET 直接进口商）。信号：【W10 再更正】美国海关提单（ImportGenius 进口商页 2026-10-05 更新）：供应商 PLANET TECHNOLOGY CORPORATION → LIN HAW INTL CO LTD 共 35 柜 / 12,897 kg，**最近一票 2017-04-04**（另 2011-12-23 有 1 柜反向记录）→ PLANET 直接进口为历史（8 年以上无新票）；当前 Odoo 商城品牌墙无 Planet（自有品牌 ",
   "need": "其 PoE Devices 类目 10 款 PLANET 以中小 PoE 设备为主（型号待取证），IT/AV 批发走量档为 8 口千兆 PoE 管理型；24 口作第二步；分销商 → 20%（沿用 Planet 档案 PB-053）；需求：",
@@ -142,6 +142,14 @@
   },
   "facts": [
    {
+    "date": "2025-04-05",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To sales@solimedia.net，US-3 批次）",
+    "quote": "Marvell Alleycat5 Solution — We are doing Marvell Alleycat5 chip for tailored networking solutions. 1, Support Web GUI change(Logo, model name, MAC, SN, SNMP, OID) 2, Added intere",
+    "why": "Elsa 箱群发 BCC 触达证据（命中地址 linhaw.com, sales@linhaw.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+    "k": "elsa_bcc"
+   },
+   {
     "date": "2026-09-08",
     "dir": "去",
     "who": "Elsa 群发（BCC；To sales@solimedia.net，US-3 批次）",
@@ -154,6 +162,6 @@
    "无邮件往来"
   ],
   "draft_en": null,
-  "as_of": "2026-10-24"
+  "as_of": "2026-10-25"
  }
 }

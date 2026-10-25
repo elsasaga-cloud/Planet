@@ -25,7 +25,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -33,16 +33,16 @@ updated: 2026-10-24
 - **是谁**：波兰 intshop.pl / noning.pl（销售平台型网店：工业 FS、MC、SFP、周边产品；快照「Site en construction」；表内「质量一般」）；表内未跟进。（调研 2026-10-21；表内兴趣：工业FS MC SFP 周边产品 销售平台）
 - **为什么是 B 级**：-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/波兰
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-280GE — 工业 FS/MC 位 → 工业 8 GE + 2 SFP STI-280GE（$46.6 @20%）、工业千兆 MC STI-110GE（$22.4）；SFP Saga 不供。已打开的主题（2/5 封有打开记录）：「10G fiber media converter」(2024-06-20)、「Passive poe switch」(2024-07-26) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续；首触锚价 STI-280GE $46 EXW（Saga 2025 Realtek 工业线对外价 $46（非管理工业线不用档位价 ㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-06-20 $65（10g fiber media converter）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STI-280GE — 工业 FS/MC 位 → 工业 8 GE + 2 SFP STI-280GE（$46.6 @20%）、工业千兆 MC STI-110GE（$22.4）；SFP Saga 不供。已打开的主题（2/5 封有打开记录）：「10G fiber media converter」(2024-06-20)、「Passive poe switch」(2024-07-26) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续；首触锚价 STI-280GE $46 EXW（Saga 2025 Realtek 工业线对外价 $46（非管理工业线不用档位价 ㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-06-20 $65（10g fiber media converter）
 - **第一问（只问一个）**：For the industrial switches and media converters on your platform, we supply neutral-brand Marvell-based DIN-rail 8-GE + 2 SFP managed switches and gigabit MCs from single units, CE/RoHS, EXW USD — which industrial SKU do your customers order most? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
 - **下一步**：2026-11 S 邮箱 → info@noning.pl 首封前知悉：Elsa 已 BCC 群发触达（最近 2026-09-01「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 短信一问（email_hook）
 
-## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-25）
 
-> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1202` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1202` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-25。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：读而不回（S 邮箱 5 封 2024，其中 2 封被打开，0 回；收件 info@noning.pl；被打开主题「10G fiber media converter、Passive poe switch」）；Elsa 群发 BCC 已触达 2026-09-01「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，PL-2 批次 To j.zaczek@mbs-systems.pl，0 回（第 73 批(o) Bcc 头核对 msg 1a05caee1683faef）** ｜ 类型：网络产品网店（波兰，站点建设中） ｜ 筛子：2（有人在读，无人回） ｜ 停点：读而不回 = 内容未命中或没有当下需求 ｜ 复活：一封「只问一句」的短信给打开过的地址（不附图不附表） ｜ 通路：PL 次级重点 ｜ 节奏：一封；回了再说 ｜ 证据：gmail_digest：out 5，Opened 标签 2（Simon 群发追踪）；用户表：「工业FS MC SFP 周边产品 销售平台」；研究档 risks：官网「Site en construction」（经营状态待核）；平台型卖家（低粘性）；表内「质量一般」；仅 info@；data/gmail_e/bcc_batches_2026.json
+- **绑定等级：读而不回（S 邮箱 5 封 2024，其中 2 封被打开，0 回；收件 info@noning.pl；被打开主题「10G fiber media converter、Passive poe switch」）；Elsa 群发 BCC 已触达 2026-09-01「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，PL-2 批次 To j.zaczek@mbs-systems.pl，0 回（第 73 批(o) Bcc 头核对 msg 1a05caee1683faef）** ｜ 类型：网络产品网店（波兰，站点建设中） ｜ 筛子：2（有人在读，无人回） ｜ 停点：读而不回 = 内容未命中或没有当下需求 ｜ 复活：一封「只问一句」的短信给打开过的地址（不附图不附表） ｜ 通路：PL 次级重点 ｜ 节奏：一封；回了再说 ｜ 证据：gmail_digest：out 5，Opened 标签 2（Simon 群发追踪）；用户表：「工业FS MC SFP 周边产品 销售平台」；研究档 risks：官网「Site en construction」（经营状态待核）；平台型卖家（低粘性）；表内「质量一般」；仅 info@；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To j.zaczek@mbs-systems.pl）2025-04-03→2026-09-01 共 11 轮群发（L3 Managed Switch、Industrial PoE Switch、Commercial Network Switch、16 Port Ethernet Switch、8 Port Industrial PoE Switch、Mini Industrial PoE Switch、10G Enterprise SFP Switch、OEM Core Switching Solution、Updated Ethernet Switches Links、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断
 - **现状一句话**：波兰 intshop.pl / noning.pl（销售平台型网店：工业 FS、MC、SFP、周边产品；快照「Site en construction」；表内「质量一般」）；表内未跟进。
 - **对方真实需求（有据）**：工业 FS/MC 位 → 工业 8 GE + 2 SFP STI-280GE（$46.6 @20%）、工业千兆 MC STI-110GE（$22.4）；SFP Saga 不供
 - **断点 / 为什么停在这里**：官网「Site en construction」（经营状态待核）；平台型卖家（低粘性）；表内「质量一般」；仅 info@
@@ -53,6 +53,7 @@ updated: 2026-10-24
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2024-11-04 | 去 | S 群发 | 10G fiber media converter、Passive poe switch | 5 封 / 2 次打开 / 0 回｜首封 2024-06-20 → 末封 2024-11-04（5 去 / 0 来） | `gmail_digest` |
+| 2025-04-03 | 去 | Elsa 群发（BCC；To j.zaczek@mbs-systems.pl，PL-2 批次） | L3 Managed Switch — This is a Marvell-based L3 Managed 24 port DIN PoE Switch. 1, PoE af/at/bt, 370W budget, max 60℃ 2, Support DI/DO/RS485, USB, Alarm 3, Customizable We | Elsa 箱群发 BCC 触达证据（命中地址 info@noning.pl, noning.pl）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-09-01 | 去 | Elsa 群发（BCC；To j.zaczek@mbs-systems.pl，PL-2 批次） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发 BCC 触达证据（命中地址 info@noning.pl, noning.pl）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-10-21 | 用户表 | Simon | 工业FS MC SFP 周边产品 销售平台 | 表内备注 | `用户表` |
 
@@ -253,12 +254,12 @@ Saga Telecom · sagatele.com
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 25）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 25）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

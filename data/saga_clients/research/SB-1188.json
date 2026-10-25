@@ -97,7 +97,7 @@
    "revive": "保持季度群发到 2027-Q1；无打开即停；WhatsApp 已加 → 唤醒走 WhatsApp 一句话，不走邮件",
    "lane": "UK 主攻（四主）",
    "cadence": "季度",
-   "evidence": "gmail_digest：out 1；用户表：「处理各种工业产品 trading 2014年使用国际站 / Deepak Gupta / Director 质量一般 / 078879 13748 已加」；研究档 risks：贸易商比价为主、「质量一般」评注；UKCA 需说明；无后续跟进；data/gmail_e/bcc_batches_2026.json"
+   "evidence": "gmail_digest：out 1；用户表：「处理各种工业产品 trading 2014年使用国际站 / Deepak Gupta / Director 质量一般 / 078879 13748 已加」；研究档 risks：贸易商比价为主、「质量一般」评注；UKCA 需说明；无后续跟进；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To sales@cablenet.co.uk）本户见于 2026-09-04 名单；2025-03-30 首轮名单无此地址 → 中途加入"
   },
   "situation": "英国斯托克的工业自动化备件贸易与维修商 Ralakde Ltd（公司号 09757591，2015-09-02 成立；Ralakde Automation Ltd 11435782（2018）；董事/PSC Deepak Gupta（ex-Radwell PLC 工程师）；业务：PLC、变频器、驱动器、HMI、电源、PCB 的新品/库存件采购与维修；网点英国、美国 Nashua NH、德国 Waldsassen、捷克 Stará Voda、印度 Pune/Siliguri；+44 1782 563377；sales@ralakde.com）。用户表：处理各种工业产品 trading，2014 年起用国际站，Director Deepak Gupta「质量一般」；WhatsApp 已加；无跟进。工业备件贸易 → 分销 20%，工业小机入门。",
   "need": "分销 20% 档：STI-144GP（DIN 4 GE PoE + 1 SFP，−40~+75 ℃，$34.1）作自动化柜配套入门 SKU；8 口 STI-288GP（$57.4）；CE/UKCA 可提供",
@@ -146,6 +146,6 @@
    "用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
   ],
   "draft_en": null,
-  "as_of": "2026-10-24"
+  "as_of": "2026-10-25"
  }
 }

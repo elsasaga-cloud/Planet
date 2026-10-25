@@ -25,7 +25,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -33,16 +33,16 @@ updated: 2026-10-24
 - **是谁**：英国 Luxrite Ltd（Trade CCTV 分销：HD/IP CCTV、入侵报警（Ajax / Texecom / Dahua Airshield）、可视门禁、门禁；在售 Ruijie RG-ES210GS-P / RG-ES228GS-P / RG-NBS3100-24GT4SFP-P / RG-NBS5300、PoE 注入器；表内「主要是 CCTV，少量商业 PoE」「质量一般」）；表内无跟进记录。（调研 2026-10-21；表内兴趣：主要是CCTV 少量商业POE）
 - **为什么是 B 级**：-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/英国
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — 已打开的主题（1/1 封有打开记录）：「16 Port PoE Managed Switch」(2025-01-26) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续；—
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：— — 已打开的主题（1/1 封有打开记录）：「16 Port PoE Managed Switch」(2025-01-26) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续；—
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：不动 — 把 luxritesecurity.com 与 4gon.co.uk 一起从群发名单剔除（已明确「not useful」）
 
-## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-25）
 
-> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1217` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1217` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-25。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达→拒（4Gon/Cadmus 工单 2025-01-27「This is not an item we would find useful, sorry」）；Elsa 群发 BCC 已触达 2026-09-04「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，UK 批次 To sales@cablenet.co.uk，0 回（第 73 批(o) Bcc 头核对 msg 1a06ba5722292bab）** ｜ 类型：英国 Trade 安防分销（Luxrite / 4Gon / Cadmus 同一集团） ｜ 筛子：0 ｜ 停点：明确「not useful」 ｜ 复活：不动 ｜ 通路：UK ｜ 节奏：不动 ｜ 证据：k=2300dd9d2d1f3408；data/gmail_e/bcc_batches_2026.json
+- **绑定等级：未触达→拒（4Gon/Cadmus 工单 2025-01-27「This is not an item we would find useful, sorry」）；Elsa 群发 BCC 已触达 2026-09-04「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，UK 批次 To sales@cablenet.co.uk，0 回（第 73 批(o) Bcc 头核对 msg 1a06ba5722292bab）** ｜ 类型：英国 Trade 安防分销（Luxrite / 4Gon / Cadmus 同一集团） ｜ 筛子：0 ｜ 停点：明确「not useful」 ｜ 复活：不动 ｜ 通路：UK ｜ 节奏：不动 ｜ 证据：k=2300dd9d2d1f3408；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To sales@cablenet.co.uk）本户见于 2026-09-04 名单；2025-03-30 首轮名单无此地址 → 中途加入
 - **现状一句话**：英国 Trade 安防分销（Luxrite Security 的 sales@ 直接进 4Gon Solutions / Cadmus Distribution Group 的 Zendesk 工单台——三者同一集团；4Gon 另有档 SC-406）。Simon 2025-01-26 发 16 口 PoE L2+ 群发 → 次日工单台真人回「not an item we would find useful」——明确婉拒。2026-10-07 Simon 又把 $180 的 24 口 PoE 群发发到 info@4gon.co.uk（SC-406 的地址），同一集团再被打一次；不动。
 - **对方真实需求（有据）**：—
 - **断点 / 为什么停在这里**：—
@@ -269,12 +269,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 25）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 25）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

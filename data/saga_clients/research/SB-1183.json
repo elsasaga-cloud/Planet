@@ -81,7 +81,7 @@
    "revive": "不动",
    "lane": "US",
    "cadence": "不动",
-   "evidence": "k=95d30a86d792cc0d / beb1989d2b8314a0（Frank，属 SA-002）；data/gmail_e/bcc_batches_2026.json"
+   "evidence": "k=95d30a86d792cc0d / beb1989d2b8314a0（Frank，属 SA-002）；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To info@allisontecusa.com）2025-04-06→2026-09-08 共 8 轮群发（16 Port PoE Managed Switch、8 Port Industrial PoE Switch、Mini Industrial PoE Switch、16 Port Ethernet Switch、48 Port PoE Managed Switch、10G Enterprise SFP Switch、Updated Ethernet Switches Links、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断"
   },
   "situation": "—",
   "need": "—",
@@ -102,6 +102,14 @@
   },
   "facts": [
    {
+    "date": "2025-04-06",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To info@allisontecusa.com，US-2 批次）",
+    "quote": "16 Port PoE Managed Switch — This is a Marvell-based 16 Port PoE L2+ Managed Switch. 1, 2*1G/2.5G/10G fiber+16*1G RJ45/PoE 2, Support PoE management, alarm output 3, Customizable ",
+    "why": "Elsa 箱群发 BCC 触达证据（命中地址 epygi.com, sales@epygi.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+    "k": "elsa_bcc"
+   },
+   {
     "date": "2026-09-08",
     "dir": "去",
     "who": "Elsa 群发（BCC；To info@allisontecusa.com，US-2 批次）",
@@ -112,6 +120,6 @@
   ],
   "proof_gaps": [],
   "draft_en": null,
-  "as_of": "2026-10-24"
+  "as_of": "2026-10-25"
  }
 }

@@ -64,7 +64,7 @@
    "revive": "Simon WhatsApp 一句话（问复购/样品结论）",
    "lane": "法国 非主攻",
    "cadence": "一封",
-   "evidence": "gmail_digest：out 0；用户表：「OM4301网络延长器 1对 成样品单」；研究档 risks：个体、单量小；0 次跟进记录（需补跟进）；data/gmail_e/bcc_batches_2026.json"
+   "evidence": "gmail_digest：out 0；用户表：「OM4301网络延长器 1对 成样品单」；研究档 risks：个体、单量小；0 次跟进记录（需补跟进）；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To kairosmusique@gmail.com）2025-04-07→2026-09-03 共 10 轮群发（90W PoE Managed Switch、8 Port Industrial PoE Switch、Mini Industrial PoE Switch、16 Port Ethernet Switch、Industrial PoE Switch、10G Enterprise SFP Switch、OEM Core Switching Solution、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断"
   },
   "situation": "法国个体/小型技术服务商 JguyTech（Gmail）：已成样品单——OM4301 网络延长器 1 对（成交）；无后续跟进记录。已成交客户，复购路径为网络延长/光电转换/小 PoE。",
   "need": "终端 25% 档：STC-28DGGPM（$84.1）与 STI-110GE（$23.4）作延长器之后的下一件",
@@ -84,6 +84,14 @@
    "one_question": "How did the OM4301 extender pair perform on site? If the next job needs PoE at the far end, the 8-port gigabit PoE+ switch is $84.1 EXW and ships with the extenders in one parcel."
   },
   "facts": [
+   {
+    "date": "2025-04-07",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To gildas.rault@faiveleytransport.com，FR 批次）",
+    "quote": "90W PoE Managed Switch — This is a Marvell based layer 2 managed PoE switch. 1. Highly programmable GUI 2. 2*PoE af/at/bt+6*PoE af/at, 240W budget 3. Support PoE management It",
+    "why": "Elsa 箱群发 BCC 触达证据（命中地址 jyguibreteau@gmail.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+    "k": "elsa_bcc"
+   },
    {
     "date": "2026-09-03",
     "dir": "去",
@@ -108,6 +116,6 @@
    "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
    "body": "How did the OM4301 extender pair perform on site? If the next job needs PoE at the far end, the 8-port gigabit PoE+ switch is $84.1 EXW and ships with the extenders in one parcel."
   },
-  "as_of": "2026-10-24"
+  "as_of": "2026-10-25"
  }
 }

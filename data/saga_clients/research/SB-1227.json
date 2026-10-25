@@ -82,7 +82,7 @@
    "revive": "保持季度群发到 2027-Q1；无打开即停",
    "lane": "意大利（欧洲全域主攻）",
    "cadence": "季度",
-   "evidence": "gmail_digest：out 3；用户表：「工业FS 研华的」；研究档 risks：Advantech 既定线；交换机为 IPC 配套品类；表内「质量一般」；data/gmail_e/bcc_batches_2026.json"
+   "evidence": "gmail_digest：out 3；用户表：「工业FS 研华的」；研究档 risks：Advantech 既定线；交换机为 IPC 配套品类；表内「质量一般」；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To INFO@sarcitalia.it）2025-04-01→2026-08-31 共 9 轮群发（Marvell Alleycat5 Solution、8 Port Industrial PoE Switch、Commercial PoE Switch、48 Port PoE Managed Switch、16 Port Ethernet Switch、10G Enterprise SFP Switch、Industrial PoE Switch、OEM Core Switching Solution、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断"
   },
   "situation": "意大利 Hardware Solutions（pc-industriali.it：工业 PC 设计、生产与分销——Box PC、机架、工业平板、HMI、Panel PC；站内 Advantech UTC-300/500、TEC-2410、EN50155；表内「工业 FS 研华的」「质量一般」）；表内无跟进记录。",
   "need": "在售 Advantech 工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-080GE（$31.4）作 IPC 配套预算线",
@@ -111,6 +111,14 @@
     "k": "gmail_digest"
    },
    {
+    "date": "2025-04-01",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To INFO@sarcitalia.it，IT 批次）",
+    "quote": "Marvell Alleycat5 Solution — We are doing Marvell Alleycat5 chip for tailored networking solutions. 1, Support Web GUI change(Logo, model name, MAC, SN, SNMP, OID) 2, Added intere",
+    "why": "Elsa 箱群发 BCC 触达证据（命中地址 hardwaresolutions.it, info@hardwaresolutions.it）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+    "k": "elsa_bcc"
+   },
+   {
     "date": "2026-08-31",
     "dir": "去",
     "who": "Elsa 群发（BCC；To INFO@sarcitalia.it，IT 批次）",
@@ -129,6 +137,6 @@
   ],
   "proof_gaps": [],
   "draft_en": null,
-  "as_of": "2026-10-24"
+  "as_of": "2026-10-25"
  }
 }

@@ -72,7 +72,7 @@
    "revive": "首封（具名 KP 优先，用研究档 email_hook）",
    "lane": "PL 次级重点",
    "cadence": "首封后看打开",
-   "evidence": "gmail_digest：out 0；用户表：「商业PoE 比较多的外壳 CCTV为主」；研究档 risks：快照仅显示网店平台名（内容待核）；表内「质量一般」；仅 esklep@ 邮箱；data/gmail_e/bcc_batches_2026.json"
+   "evidence": "gmail_digest：out 0；用户表：「商业PoE 比较多的外壳 CCTV为主」；研究档 risks：快照仅显示网店平台名（内容待核）；表内「质量一般」；仅 esklep@ 邮箱；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To j.zaczek@mbs-systems.pl）2025-04-03→2026-09-01 共 11 轮群发（L3 Managed Switch、Industrial PoE Switch、Commercial Network Switch、16 Port Ethernet Switch、8 Port Industrial PoE Switch、Mini Industrial PoE Switch、10G Enterprise SFP Switch、OEM Core Switching Solution、Updated Ethernet Switches Links、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断"
   },
   "situation": "波兰 Tayama（Comarch e-Sklep 网店平台的电子/安防产品分销商；表内「商业 PoE 比较多的外壳，CCTV 为主」「质量一般」）；表内未跟进。",
   "need": "CCTV 配套商用 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）；非管理 4/8/16 PoE 位 HRUI（列表价，注明）",
@@ -92,6 +92,14 @@
    "one_question": "For the PoE switches you list with CCTV kits, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ (plus budget 4/8/16-PoE unmanaged) from single units, CE/RoHS, EXW USD — which PoE port count do your installer customers order most? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
+   {
+    "date": "2025-04-03",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To j.zaczek@mbs-systems.pl，PL-2 批次）",
+    "quote": "L3 Managed Switch — This is a Marvell-based L3 Managed 24 port DIN PoE Switch. 1, PoE af/at/bt, 370W budget, max 60℃ 2, Support DI/DO/RS485, USB, Alarm 3, Customizable We",
+    "why": "Elsa 箱群发 BCC 触达证据（命中地址 esklep@tayama.pl, tayama.pl）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+    "k": "elsa_bcc"
+   },
    {
     "date": "2026-09-01",
     "dir": "去",
@@ -113,6 +121,6 @@
    "无邮件往来"
   ],
   "draft_en": null,
-  "as_of": "2026-10-24"
+  "as_of": "2026-10-25"
  }
 }

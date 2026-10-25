@@ -78,7 +78,7 @@
    "revive": "保持季度群发到 2027-Q1；无打开即停",
    "lane": "PL 次级重点",
    "cadence": "季度",
-   "evidence": "gmail_digest：out 19；用户表：「兴趣：hasivo的商业级;商业PoE Hasivo的」；研究档 risks：4 次群发无回复；data/gmail_e/bcc_batches_2026.json"
+   "evidence": "gmail_digest：out 19；用户表：「兴趣：hasivo的商业级;商业PoE Hasivo的」；研究档 risks：4 次群发无回复；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To biuro@zintronic.pl）2025-04-03→2026-09-01 共 10 轮群发（Marvell Alleycat5 Solution、16 Port Ethernet Switch、Mini Industrial PoE Switch、Managed Optical Bypass Switch、8 Port Industrial PoE Switch、Industrial PoE Switch、10G Enterprise SFP Switch、OEM Core Switching Solution、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断"
   },
   "situation": "波兰安防系统网店（SSWiN 报警、CCTV、对讲、LAN/WLAN；B2B 批发折扣；Hikvision、Dahua；poe 641 / switch 293 / sfp 113；+48 792 580 660），esklep@；表内「商用 PoE，Hasivo 的」；群发 4 次无回复。",
   "need": "对位 Hasivo 商用 8 PoE → STC-28DGGPM（$80.7 @20%）；24 PoE STC-424DGGPM-280W。",
@@ -98,6 +98,14 @@
    "one_question": "Dzień dobry — beside the Hasivo switches you list, Marvell L2+ 8-PoE + 2-SFP at $81 and 24-PoE at $135 EXW, 1-year warranty (commercial line), EU files; 2 trial units for the B2B shop?"
   },
   "facts": [
+   {
+    "date": "2025-04-03",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To biuro@zintronic.pl，PL 批次）",
+    "quote": "Marvell Alleycat5 Solution — We are doing Marvell Alleycat5 chip for tailored networking solutions. 1, Support Web GUI change(Logo, model name, MAC, SN, SNMP, OID) 2, Added intere",
+    "why": "Elsa 箱群发 BCC 触达证据（命中地址 ecsystem.pl, esklep@ecsystem.pl）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+    "k": "elsa_bcc"
+   },
    {
     "date": "2026-09-01",
     "dir": "去",
@@ -125,6 +133,6 @@
   ],
   "proof_gaps": [],
   "draft_en": null,
-  "as_of": "2026-10-24"
+  "as_of": "2026-10-25"
  }
 }

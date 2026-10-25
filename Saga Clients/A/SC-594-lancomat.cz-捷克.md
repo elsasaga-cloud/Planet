@@ -27,7 +27,7 @@ price_tier: 20%
 research: done
 site_snapshot: none
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -35,16 +35,16 @@ updated: 2026-10-24
 - **是谁**：布拉格的结构化布线 / 光纤 / 机柜分销商，有源类目在售 7 款 PLANET 工业 / PoE 交换机，总经理与销售团队邮箱全部公开。类型：结构化布线 / 光纤 / 机柜分销商兼电商（「vše pro strukturované kabeláže, optické sítě a rozvaděče」；另有 IP 对讲、有源设备、UPS、OEM 组件、租赁服务）；PLANET 为其工业 / 商用交换机在售品牌。信号：lancomat.cz 商品页「Výrobce PLANET TECHNOLOGY」：IGS-1820TF 8 383 Kč（OutOfStock，36 měsíců）、IGS-12040MT 9 588 Kč bez DPH / 11 601 s DPH、IGS-624HPT、GSD-908HP（24 months）、IGS-5225-4T2S（60 months 保修）、IGS-10020PT（8×GE PoE 130 W managed）、IGS-6325-20T4C4X（L3 24 GLAN + 4 SFP）。Planet 渠道档案 PA-018 评级 A（需求：7 款 PLANET 工业 / PoE 交换机商品页带 CZK 价与保修（IGS-5225-4T2S 60 个月）→ 有源类目采购真实且含管理型工业款；触达：/podrobne-kontakty/ 公开 jednatel Tomáš Jahoda tjahoda@lancomat.cz +420 724 825 435、Zdeněk Zíta zzita@、销售专员 Jan Raboch jraboch@ 等 11 名具名 + 直线 → 决策人直达；体量：布拉格布线分销（IČO 27929795，约 11 名员工公开名单）→ 可赢；Gmail：Elsa 账号 2025-04-12 → 2026-08-28 以 BCC 群发 10 封至 info@lancomat.cz，0 回复 → 非首触，但具名通道未用过；Mikrotik 仓无此户 → A）。并档说明：Saga 表内本条 SC-594（捷克）自动评 C（原因：；Saga 群发已推送 0 次无回复）。（调研 2026-10-21；表内兴趣：主要是planet的）
 - **为什么是 A 级**：**调研后定级 A**（Planet 渠道档案 PA-018 评 A（PLANET 主力经销 + 具名联系人 + 可赢体量）；Saga 表内仅因群发冷名单无回应自动评 C，按调研提升）；自动分级 C：-6 群发批次名单；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/捷克
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM 对位 PLANET IGS 系列（备用） — —；—
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STI-288DGGPM 对位 PLANET IGS 系列（备用） — —；—
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
 - **最大未知**：年走量与现供应商
 - **下一步**：不动 — —
 
-## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-25）
 
-> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SC-594` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SC-594` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-25。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A/S 邮箱 0 封；来源为 Planet 渠道反查 PA-018——Q-33「不碰，标记」：PLANET 在售经销商）；Elsa 群发 BCC 已触达 2026-08-28「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，CZ 批次 To office@ergate.cz，0 回（第 73 批(o) Bcc 头核对 msg 1a04798efe1a50d8）** ｜ 类型：布拉格结构化布线/光纤/机柜分销（LANCOMAT；在售 7 款 PLANET 工业/PoE 交换机；总经理 Tomáš Jahoda 邮箱公开） ｜ 筛子：— ｜ 停点：Q-33：Planet 渠道客户不碰 ｜ 复活：Simon 解除 Q-33 后：以 PLANET 工业款对位 STI 系列的一页表 ｜ 通路：CZ/EU ｜ 节奏：不动 ｜ 证据：无邮件；研究档官网证据 + Planet 渠道档案 PA-018；data/gmail_e/bcc_batches_2026.json
+- **绑定等级：未触达（A/S 邮箱 0 封；来源为 Planet 渠道反查 PA-018——Q-33「不碰，标记」：PLANET 在售经销商）；Elsa 群发 BCC 已触达 2026-08-28「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，CZ 批次 To office@ergate.cz，0 回（第 73 批(o) Bcc 头核对 msg 1a04798efe1a50d8）** ｜ 类型：布拉格结构化布线/光纤/机柜分销（LANCOMAT；在售 7 款 PLANET 工业/PoE 交换机；总经理 Tomáš Jahoda 邮箱公开） ｜ 筛子：— ｜ 停点：Q-33：Planet 渠道客户不碰 ｜ 复活：Simon 解除 Q-33 后：以 PLANET 工业款对位 STI 系列的一页表 ｜ 通路：CZ/EU ｜ 节奏：不动 ｜ 证据：无邮件；研究档官网证据 + Planet 渠道档案 PA-018；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To office@ergate.cz）2025-04-12→2026-08-28 共 10 轮群发（Marvell Alleycat5 Solution、16 Port Ethernet Switch、Industrial PoE Switch、90W PoE Managed Switch、Mini Industrial PoE Switch、10G Enterprise SFP Switch、OEM Core Switching Solution、Updated Ethernet Switches Links、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断
 - **现状一句话**：Planet 渠道挖矿（已暂停）中反查出来的捷克经销商，位于 A 目录但从未触达；按 Q-33 标记不碰。
 - **对方真实需求（有据）**：PLANET 工业/PoE 在售 SKU 的替代（若有一天要碰）。
 - **断点 / 为什么停在这里**：Q-33。
@@ -53,6 +53,7 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2025-04-12 | 去 | Elsa 群发（BCC；To office@ergate.cz，CZ 批次） | Marvell Alleycat5 Solution — We are doing Marvell Alleycat5 chip for tailored networking solutions. 1, Support Web GUI change(Logo, model name, MAC, SN, SNMP, OID) 2, Added intere | Elsa 箱群发 BCC 触达证据（命中地址 info@lancomat.cz, lancomat.cz）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-08-28 | 去 | Elsa 群发（BCC；To office@ergate.cz，CZ 批次） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发 BCC 触达证据（命中地址 info@lancomat.cz, lancomat.cz）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 
 ## 基本事实（事实/推断/假设分层）
@@ -251,12 +252,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-07**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-08**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 17）；人工/调研定级 → A
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 17）；人工/调研定级 → A
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

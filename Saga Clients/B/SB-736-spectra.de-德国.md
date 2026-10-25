@@ -25,7 +25,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 4
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -33,16 +33,16 @@ updated: 2026-10-24
 - **是谁**：德国 Spectra GmbH（工业 PC 与自动化：面板 PC / Box PC / 19" 机架系统 / 工业板卡自产；在售 ORing 工业交换机 RGPS-R9244GP / IGPS-9084GP-LA / IGS-P9812GP-LV / IGS-9168GP、ICP DAS；表内「ICP DAS 的工业 FS；bypass ORing 的；工业 5/8 电口基本都是 ORing 的」；KP Juergen Rauscher（Managing Director，juergen.rauscher@））；群发 3 次无回复。（调研 2026-10-21；表内兴趣：icpdas的工业FS；bypass  Oring的；工业5 8电口 基本都是Oring的）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-8 DWDM/光传输线索：Saga 不做 DWDM（Hohunet 线为交换机）；-6 群发批次名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/德国；+5 最近活动 2025
 - **历史互动**：推送 3 次（2025-08-26 → 2025-10-28）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-080GE — 需求为工业 5/8 电口（现 ORing）→ 工业 8 GE 非管理 STI-080GE（$31.4 @20%）、5 GE STI-050GE（$17.0）、PoE STI-288GP；bypass 位 SmartByte LT-IS6312GP-4GX8GT-FBP（注明）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-22 $280（10G Enterprise SFP Switch）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STI-080GE — 需求为工业 5/8 电口（现 ORing）→ 工业 8 GE 非管理 STI-080GE（$31.4 @20%）、5 GE STI-050GE（$17.0）、PoE STI-288GP；bypass 位 SmartByte LT-IS6312GP-4GX8GT-FBP（注明）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-22 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Juergen, alongside the ORing 5- and 8-port industrial switches you ship with your IPC systems, we supply Marvell-based DIN-rail 5/8-GE units (−40~75 °C, 12–58 VDC, CE/RoHS) in neutral packing from small lots at a lower price tier — would a sample for comparison be useful?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
 
-## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-25）
 
-> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-736` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-736` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-25。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A/S 邮箱 18 封 2024→2026，无记录打开，0 回；收件 info@spectra.de, juergen.rauscher@spectra.de；主题多为「10G Enterprise SFP Switch、16 Port Ethernet Switch」）；Elsa 群发 BCC 已触达 2026-08-31「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，DE 批次 To office@all4fiber.com，0 回（第 73 批(o) Bcc 头核对 msg 1a056d5159d35ca3）** ｜ 类型：工业 PC 制造商 + 自动化分销（德国，ORing 工业线） ｜ 筛子：1（只收到群发） ｜ 停点：18 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：DE 主攻（四主） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 18；用户表：「icpdas的工业FS；bypass Oring的；工业5 8电口 基本都是Oring的」；研究档 risks：现有 ORing / ICP DAS（台湾）供货稳定：需以价格/交期切入；data/gmail_e/bcc_batches_2026.json
+- **绑定等级：未触达（A/S 邮箱 18 封 2024→2026，无记录打开，0 回；收件 info@spectra.de, juergen.rauscher@spectra.de；主题多为「10G Enterprise SFP Switch、16 Port Ethernet Switch」）；Elsa 群发 BCC 已触达 2026-08-31「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，DE 批次 To office@all4fiber.com，0 回（第 73 批(o) Bcc 头核对 msg 1a056d5159d35ca3）** ｜ 类型：工业 PC 制造商 + 自动化分销（德国，ORing 工业线） ｜ 筛子：1（只收到群发） ｜ 停点：18 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：DE 主攻（四主） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 18；用户表：「icpdas的工业FS；bypass Oring的；工业5 8电口 基本都是Oring的」；研究档 risks：现有 ORing / ICP DAS（台湾）供货稳定：需以价格/交期切入；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To office@all4fiber.com）2025-03-28→2026-08-31 共 9 轮群发（16 Port Ethernet Switch、8 Port Industrial PoE Switch、48 Port PoE Managed Switch、Managed Optical Bypass Switch、Mini Industrial PoE Switch、Industrial PoE Switch、10G Enterprise SFP Switch、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断
 - **现状一句话**：德国 Spectra GmbH（工业 PC 与自动化：面板 PC / Box PC / 19" 机架系统 / 工业板卡自产；在售 ORing 工业交换机 RGPS-R9244GP / IGPS-9084GP-LA / IGS-P9812GP-LV / IGS-9168GP、ICP DAS；表内「ICP DAS 的工业 FS；bypass ORing 的；工业 5/8 电口基本都是 ORing 的」；KP Juergen Rauscher（Managing Director，juergen.rauscher@））；群发 3 次无回复。
 - **对方真实需求（有据）**：需求为工业 5/8 电口（现 ORing）→ 工业 8 GE 非管理 STI-080GE（$31.4 @20%）、5 GE STI-050GE（$17.0）、PoE STI-288GP；bypass 位 SmartByte LT-IS6312GP-4GX8GT-FBP（注明）
 - **断点 / 为什么停在这里**：现有 ORing / ICP DAS（台湾）供货稳定：需以价格/交期切入
@@ -52,6 +52,7 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2025-03-28 | 去 | Elsa 群发（BCC；To office@all4fiber.com，DE 批次） | 16 Port Ethernet Switch — There is a 16-port Din Gigabit Ethernet switch for you. It is good for vehicle network and industrial automation. Model choice 1. 5 Port/8 Port/24 Por | Elsa 箱群发 BCC 触达证据（命中地址 info@spectra.de, spectra.de）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-08-31 | 去 | Elsa 群发（BCC；To office@all4fiber.com，DE 批次） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发 BCC 触达证据（命中地址 info@spectra.de, spectra.de）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-09-23 | 去 | A/S 群发 | 10G Enterprise SFP Switch、16 Port Ethernet Switch | 18 封 / 0 次打开 / 0 回｜首封 2024-07-01 → 末封 2026-09-23（18 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | icpdas的工业FS；bypass Oring的；工业5 8电口 基本都是Oring的 | 表内备注 | `用户表` |
@@ -300,12 +301,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 4 行原始记录归并；自动评级 B，分数 34）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 4 行原始记录归并；自动评级 B，分数 34）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

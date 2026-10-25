@@ -27,7 +27,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -35,16 +35,16 @@ updated: 2026-10-24
 - **是谁**：杜塞尔多夫工业计算 / 工业通信 VAD，PLANET 为其工业网络补充线（2025 起公告 AP / TSN 交换机）。类型：工业计算 / 工业通信 / 自动化 / 测量技术分销 + 技术咨询（2000 年起；ISO 9001:2015；自称「The German distributor Acceed」；品牌 Neousys / ADLINK / ORing / Artila / NHR / Quancom / Rayon / TOPSCCC-ExpertDAQ + PLANET）；PLANET 为其工业网络类目的在售品牌（新闻稿公告 PLANET 工业 AP / TSN 交换机 / 户外 AP，站内托管 PLANET IMG-120T 手册）。信号：acceed.com/en/news/IAP-1800AX（2025-01-15）：「The German distributor Acceed has now incorporated the new high-speed access point IAP-1800AX from Planet into its programme … informs about the new access points, TSN switches and further products from Planet for industrial networks, automation, IIoT applications」；/en/products 第 67 页：WDAP-1800AX / WDAP-3000AX from Planet；/media/manual/manuals/em-img-120t_v1-1.pdf：PLANET IMG-120T 手册；/de/news 列表：「der jetzt bei Acceed erhältlich neue unmanaged Switch IGS-182GP」（品牌未注明）。Planet 渠道档案 PB-098 评级 B（需求：PLANET 为其工业网络类目在售品牌（新闻稿公告 2025-01 + 托管手册 + 产品页），但主线为 ORing / Neousys，PLANET 交换机无具名在售型号带价 → 需求真实但为补充线；触达：info@acceed.com / support@acceed.com + 电话 +49 211 938 898-0 公开（Impressum / About），总经理 Dr. Werner Kunze 具名但无公开邮箱；两信箱已被 Elsa 账号群发 9 封 0 回复；体量：25 年 VAD（人数未公开，ISO 9001）→ 可赢 → B ★（无价无具名邮箱，PLANET 非主线））。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-1052，德国，未互动）与 Planet 渠道挖掘名单，首触邮件此前未发送。（调研 2026-10-21；表内兴趣：在用Oring的；工业FS 价格标的较高  基本都是Oring的）
 - **为什么是 B 级**：+2 在 AI 客户评估名单；-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/德国
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 其 PLANET 线公告为工业 AP / TSN 交换机，站内无具名在售 PLANET 交换机型号带价 → 以工业管理型 PoE 主力 STI-288GPM（8×GE PoE+ + 2×SFP 管理，对位 PLANET IGS-4215-8P2T2S / ORing IGPS-9084GP 级）切入，20% 档 $78.9 USD EXW；非 PoE 位由 STI-280GM 第二封对位；分销商（。已打开的主题（2/5 封有打开记录）：「24 Port PoE Managed Switch」(2026-08-18)、「Managed PoE Switches」(2026-09-24) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-18 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STI-288GPM — 其 PLANET 线公告为工业 AP / TSN 交换机，站内无具名在售 PLANET 交换机型号带价 → 以工业管理型 PoE 主力 STI-288GPM（8×GE PoE+ + 2×SFP 管理，对位 PLANET IGS-4215-8P2T2S / ORing IGPS-9084GP 级）切入，20% 档 $78.9 USD EXW；非 PoE 位由 STI-280GM 第二封对位；分销商（。已打开的主题（2/5 封有打开记录）：「24 Port PoE Managed Switch」(2026-08-18)、「Managed PoE Switches」(2026-09-24) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-18 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：不动 — —
 
-## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-25）
 
-> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1052` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1052` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-25。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A 邮箱 5 封 2026，其中 0 封被打开（2 次「打开」与退信同日 2026-08-18/2026-09-24，是退信触发的像素，不算；真实打开 0 次），0 回；收件 info@acceed.com, werner.kunze@acceed.com；被打开主题「Marvell Managed Commercial Switches、10G L3 Managed Switch」）；Elsa 群发 BCC 已触达 2026-08-31「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，DE 批次 To office@all4fiber.com，0 回（第 73 批(o) Bcc 头核对 msg 1a056d5159d35ca3）** ｜ 类型：— ｜ 筛子：2（有人在读，无人回） ｜ 停点：读而不回 = 内容未命中或没有当下需求；Q-33 供应商渠道客户 ｜ 复活：不动（Q-33） ｜ 通路：DE 主攻（四主） ｜ 节奏：不动 ｜ 证据：gmail_digest：out 5，Opened 标签 2（Simon 群发追踪）；研究档 risks：PLANET 线实际在售交换机型号与年量（站内无价）；网络产品线负责人（Produktmanagement / Einkauf）姓名；项目是否要求 UL / 铁；data/gmail_e/bcc_batches_2026.json
+- **绑定等级：未触达（A 邮箱 5 封 2026，其中 0 封被打开（2 次「打开」与退信同日 2026-08-18/2026-09-24，是退信触发的像素，不算；真实打开 0 次），0 回；收件 info@acceed.com, werner.kunze@acceed.com；被打开主题「Marvell Managed Commercial Switches、10G L3 Managed Switch」）；Elsa 群发 BCC 已触达 2026-08-31「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，DE 批次 To office@all4fiber.com，0 回（第 73 批(o) Bcc 头核对 msg 1a056d5159d35ca3）** ｜ 类型：— ｜ 筛子：2（有人在读，无人回） ｜ 停点：读而不回 = 内容未命中或没有当下需求；Q-33 供应商渠道客户 ｜ 复活：不动（Q-33） ｜ 通路：DE 主攻（四主） ｜ 节奏：不动 ｜ 证据：gmail_digest：out 5，Opened 标签 2（Simon 群发追踪）；研究档 risks：PLANET 线实际在售交换机型号与年量（站内无价）；网络产品线负责人（Produktmanagement / Einkauf）姓名；项目是否要求 UL / 铁；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To office@all4fiber.com）2025-03-28→2026-08-31 共 9 轮群发（16 Port Ethernet Switch、8 Port Industrial PoE Switch、48 Port PoE Managed Switch、Managed Optical Bypass Switch、Mini Industrial PoE Switch、Industrial PoE Switch、10G Enterprise SFP Switch、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断
 - **现状一句话**：杜塞尔多夫工业计算 / 工业通信 VAD，PLANET 为其工业网络补充线（2025 起公告 AP / TSN 交换机）。类型：工业计算 / 工业通信 / 自动化 / 测量技术分销 + 技术咨询（2000 年起；ISO 9001:2015；自称「The German distributor Acceed」；品牌 Neousys / ADLINK / ORing / Artila / NHR / Quancom / Rayon / TOPSCCC-ExpertDAQ + PLANET）；PLANET 为其工业网络类目的在售品牌（新闻稿公告 PLANET 工业 AP / TSN 交换机 / 户外 AP，站内托管 PLANET IMG-120T 手册）。信号：acceed.com/en/news/IAP-1800AX（2025-01-15）：「The German distributor Acc
 - **对方真实需求（有据）**：其 PLANET 线公告为工业 AP / TSN 交换机，站内无具名在售 PLANET 交换机型号带价 → 以工业管理型 PoE 主力 STI-288GPM（8×GE PoE+ + 2×SFP 管理，对位 PLANET IGS-4215-8P2T2S / ORing IGPS-9084GP 级）切入，20% 档 $78.9 USD EXW；非 PoE 位由 STI-280GM 第二封对位；分销商（
 - **断点 / 为什么停在这里**：PLANET 线实际在售交换机型号与年量（站内无价）；网络产品线负责人（Produktmanagement / Einkauf）姓名；项目是否要求 UL / 铁路 EN50155（ORing 线暗示部分项目要 → 守界）
@@ -53,6 +53,7 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2025-03-28 | 去 | Elsa 群发（BCC；To office@all4fiber.com，DE 批次） | 16 Port Ethernet Switch — There is a 16-port Din Gigabit Ethernet switch for you. It is good for vehicle network and industrial automation. Model choice 1. 5 Port/8 Port/24 Por | Elsa 箱群发 BCC 触达证据（命中地址 acceed.com, info@acceed.com, support@acceed.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-08-18 | 内 | Gmail 退信（A 邮箱） | werner.kunze@acceed.com 退信：552 5.2.2 <werner.kunze@acceed.com>: Recipient address rejected: Mailbox quota exceeded | 该地址当天收不到信；同日的「Opened」记录是退信触发，不算打开 | `gmail_a 9f022bd57b7e7d1a` |
 | 2026-08-31 | 去 | Elsa 群发（BCC；To office@all4fiber.com，DE 批次） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发 BCC 触达证据（命中地址 acceed.com, info@acceed.com, support@acceed.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-09-24 | 去 | A 群发 | Marvell Managed Commercial Switches、10G L3 Managed Switch | 5 封 / 2 次打开 / 0 回｜首封 2026-03-27 → 末封 2026-09-24（5 去 / 0 来） | `gmail_digest` |
@@ -297,12 +298,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 27）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 27）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -200,7 +200,7 @@
    "revive": "不动（Q-33）",
    "lane": "PL 次级重点",
    "cadence": "不动",
-   "evidence": "gmail_digest：out 1；研究档 risks：PLANET 5 款的实际动销（商品页写 7 天货期 → 疑为代发非常备库存）；是否愿意以 CBF 品牌贴牌交换机；谁管选品（个体经营，大概率 Tadeusz ；data/gmail_e/bcc_batches_2026.json"
+   "evidence": "gmail_digest：out 1；研究档 risks：PLANET 5 款的实际动销（商品页写 7 天货期 → 疑为代发非常备库存）；是否愿意以 CBF 品牌贴牌交换机；谁管选品（个体经营，大概率 Tadeusz ；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To j.zaczek@mbs-systems.pl）2025-04-03→2026-09-01 共 11 轮群发（L3 Managed Switch、Industrial PoE Switch、Commercial Network Switch、16 Port Ethernet Switch、8 Port Industrial PoE Switch、Mini Industrial PoE Switch、10G Enterprise SFP Switch、OEM Core Switching Solution、Updated Ethernet Switches Links、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断"
   },
   "situation": "Zamość 一家 2002 年起的 ISP/安装商网店兼天线与光纤组件制造商（CBF 品牌），PLANET 商用交换机 5 款与 Moxa/Antaira 工业款同台在售。类型：分销/电商（2002 年起面向安装商与 ISP 的网络设备网店 + 自有天线/光纤品牌 CBF 制造；品牌 MikroTik / Ubiquiti / Moxa / Antaira / TP-Link / D-Link / Teltonika / Planet 等；PLANET 交换机 5 款 + 媒体转换器）。信号：cyberbajt.pl 商品页：PLANET WGS-4215-8P2S（1017.63 zł netto / 1251.68 zł brutto，「Towar będzie u Ciebie za 7 dni」）、WGSW-20160HP、GSD-804P、GSD-804（57.15 zł）、F",
   "need": "其 PLANET 在售里唯一的管理型 PoE 款是 WGS-4215-8P2S（8×GE PoE+ + 2×SFP，壁挂）→ STC-28DGGPM 同口型、同管理级别；GSD-804P / FSD-803 为非管理桌面款，Saga 商用线无非管理型号，不硬凑；分销/网店 → 20%（沿用 Planet 档案 PB-069）；需求：",
@@ -229,6 +229,14 @@
     "k": "gmail_s ec6cef7b7e599fe4"
    },
    {
+    "date": "2025-04-03",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To j.zaczek@mbs-systems.pl，PL-2 批次）",
+    "quote": "L3 Managed Switch — This is a Marvell-based L3 Managed 24 port DIN PoE Switch. 1, PoE af/at/bt, 370W budget, max 60℃ 2, Support DI/DO/RS485, USB, Alarm 3, Customizable We",
+    "why": "Elsa 箱群发 BCC 触达证据（命中地址 cyberbajt.pl, m.blaszczyk@cyberbajt.pl, s.sirko@cyberbajt.pl, t.kupiec@cyberbajt.pl）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+    "k": "elsa_bcc"
+   },
+   {
     "date": "2026-09-01",
     "dir": "去",
     "who": "Elsa 群发（BCC；To j.zaczek@mbs-systems.pl，PL-2 批次）",
@@ -247,6 +255,6 @@
   ],
   "proof_gaps": [],
   "draft_en": null,
-  "as_of": "2026-10-24"
+  "as_of": "2026-10-25"
  }
 }

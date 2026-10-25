@@ -79,7 +79,7 @@
    "revive": "首封（具名 KP 优先，用研究档 email_hook）",
    "lane": "US 主攻（四主）",
    "cadence": "首封后看打开",
-   "evidence": "gmail_digest：out 0；用户表：「无源器件为主 MC switch」；研究档 risks：主业无源线缆（Saga 不做），有源为副线且现有来源（表内 sigmax）；仅 info@，未跟进过；data/gmail_e/bcc_batches_2026.json"
+   "evidence": "gmail_digest：out 0；用户表：「无源器件为主 MC switch」；研究档 risks：主业无源线缆（Saga 不做），有源为副线且现有来源（表内 sigmax）；仅 info@，未跟进过；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To info@allisontecusa.com）2025-04-06→2026-09-08 共 8 轮群发（16 Port PoE Managed Switch、8 Port Industrial PoE Switch、Mini Industrial PoE Switch、16 Port Ethernet Switch、48 Port PoE Managed Switch、10G Enterprise SFP Switch、Updated Ethernet Switches Links、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断"
   },
   "situation": "美国 West Penn Wire（1971 年起的美国光纤与低压线缆制造商（AV、安防、网络）；表内「无源器件为主 MC switch」「sigmax 的」）；表内未跟进。",
   "need": "有源副线 → 工业千兆 MC STI-110GE（$23.4 @25%）、8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1）作线缆配套",
@@ -99,6 +99,14 @@
    "one_question": "For the media converters and PoE switches you offer alongside your cable lines for security and AV installers, we supply gigabit MCs and Marvell-based 8-PoE + 2 SFP L2+ switches neutral-brand from small lots, FCC/CE/RoHS, EXW USD — which active SKU do your distributors ask for most? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
+   {
+    "date": "2025-04-06",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To info@allisontecusa.com，US-2 批次）",
+    "quote": "16 Port PoE Managed Switch — This is a Marvell-based 16 Port PoE L2+ Managed Switch. 1, 2*1G/2.5G/10G fiber+16*1G RJ45/PoE 2, Support PoE management, alarm output 3, Customizable ",
+    "why": "Elsa 箱群发 BCC 触达证据（命中地址 info@westpennwire.com, westpennwire.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+    "k": "elsa_bcc"
+   },
    {
     "date": "2026-09-08",
     "dir": "去",
@@ -120,6 +128,6 @@
    "无邮件往来"
   ],
   "draft_en": null,
-  "as_of": "2026-10-24"
+  "as_of": "2026-10-25"
  }
 }

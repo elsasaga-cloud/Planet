@@ -72,7 +72,7 @@
    "revive": "首封（具名 KP 优先，用研究档 email_hook）",
    "lane": "UK 主攻（四主）",
    "cadence": "首封后看打开",
-   "evidence": "gmail_digest：out 0；用户表：「MC SFP switch」；研究档 risks：官网快照空（经营状态待核）；表内「质量一般」；仅 sales@；data/gmail_e/bcc_batches_2026.json"
+   "evidence": "gmail_digest：out 0；用户表：「MC SFP switch」；研究档 risks：官网快照空（经营状态待核）；表内「质量一般」；仅 sales@；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To sales@cablenet.co.uk）本户见于 2026-09-04 名单；2025-03-30 首轮名单无此地址 → 中途加入"
   },
   "situation": "英国 Videobits（MC、SFP、switch 经销；官网快照空；表内「质量一般」）；表内未跟进。",
   "need": "MC/switch → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、工业千兆 MC STI-110GE（$22.4）；SFP Saga 不供",
@@ -113,6 +113,6 @@
    "无邮件往来"
   ],
   "draft_en": null,
-  "as_of": "2026-10-24"
+  "as_of": "2026-10-25"
  }
 }

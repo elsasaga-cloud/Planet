@@ -25,7 +25,7 @@ price_tier: 20%
 research: done
 site_snapshot: http_error  # 2026-10-21
 sources: 3
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -33,16 +33,16 @@ updated: 2026-10-24
 - **是谁**：意大利 Qubix（工业网络分销：「几乎全是 Planet 的设备」——工业 FS、MC、SFP、工业电源；KP Filippo Gnocco（General Manager）、Davide Villotti（Business Developer Manager）；表内「质量一般」；官网 http_error）；表内 1 次跟进无回复。（调研 2026-10-21；表内兴趣：主要是planet的；工业FS MC SFP 工业电源 几乎全是Planet的设备）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-6 群发批次名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/意大利；+5 最近活动 2025
 - **历史互动**：推送 1 次（2025-10-16 → 2025-10-16）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-280GE — Planet 工业线预算位 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、8 PoE + 2 SFP STI-288GPM（$78.9）、工业千兆 MC STI-110GE（$22.4）；SFP/工业电源 Saga 不供。已打开的主题（1/13 封有打开记录）：「Industrial PoE Switch」(2026-04-23) → 读者兴趣偏「工业」；与 P1 同类，继续；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-16 $280（10G Enterprise SFP Switch）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STI-280GE — Planet 工业线预算位 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、8 PoE + 2 SFP STI-288GPM（$78.9）、工业千兆 MC STI-110GE（$22.4）；SFP/工业电源 Saga 不供。已打开的主题（1/13 封有打开记录）：「Industrial PoE Switch」(2026-04-23) → 读者兴趣偏「工业」；与 P1 同类，继续；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-16 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
 - **下一步**：不动 — —
 
-## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-25）
 
-> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-408` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-408` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-25。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A 邮箱 13 封 2025→2026，1 次记录打开，0 回；收件 dvillotti@qubix.it, fgnocco@qubix.it；主题多为「Managed PoE Switches、10G Enterprise SFP Switch」）** ｜ 类型：工业网络分销商（意大利，Planet 为主） ｜ 筛子：1~2（1 次打开） ｜ 停点：13 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱；Q-33 供应商渠道客户 ｜ 复活：不动（Q-33） ｜ 通路：意大利（欧洲全域主攻） ｜ 节奏：不动 ｜ 证据：gmail_digest：out 13，Opened 标签 1（Simon 群发追踪）；用户表：「主要是planet的；工业FS MC SFP 工业电源 几乎全是Planet的设备」；研究档 risks：Planet 单品牌粘性；官网 http_error；表内「质量一般」；1 次无回复 → 改向 GM 具名首触
+- **绑定等级：未触达（A 邮箱 13 封 2025→2026，1 次记录打开，0 回；收件 dvillotti@qubix.it, fgnocco@qubix.it；主题多为「Managed PoE Switches、10G Enterprise SFP Switch」）；Elsa 群发 BCC 已触达 2025-04-01「Marvell Alleycat5 Solution」（价格未读），IT 批次 To INFO@sarcitalia.it，0 回（第 74 批 Bcc 头核对 msg 195f09436b3ed616）** ｜ 类型：工业网络分销商（意大利，Planet 为主） ｜ 筛子：1~2（1 次打开） ｜ 停点：13 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱；Q-33 供应商渠道客户 ｜ 复活：不动（Q-33） ｜ 通路：意大利（欧洲全域主攻） ｜ 节奏：不动 ｜ 证据：gmail_digest：out 13，Opened 标签 1（Simon 群发追踪）；用户表：「主要是planet的；工业FS MC SFP 工业电源 几乎全是Planet的设备」；研究档 risks：Planet 单品牌粘性；官网 http_error；表内「质量一般」；1 次无回复 → 改向 GM 具名首触；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To INFO@sarcitalia.it）本户见于 2025-04-01 名单；2026-08-31 最新一轮名单已不含此地址 → 中途被剔除（退信 / 退订 / 手工）
 - **现状一句话**：意大利 Qubix（工业网络分销：「几乎全是 Planet 的设备」——工业 FS、MC、SFP、工业电源；KP Filippo Gnocco（General Manager）、Davide Villotti（Business Developer Manager）；表内「质量一般」；官网 http_error）；表内 1 次跟进无回复。
 - **对方真实需求（有据）**：Planet 工业线预算位 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、8 PoE + 2 SFP STI-288GPM（$78.9）、工业千兆 MC STI-110GE（$22.4）；SFP/工业电源 Saga 不供
 - **断点 / 为什么停在这里**：Planet 单品牌粘性；官网 http_error；表内「质量一般」；1 次无回复 → 改向 GM 具名首触
@@ -51,6 +51,7 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2025-04-01 | 去 | Elsa 群发（BCC；To INFO@sarcitalia.it，IT 批次） | Marvell Alleycat5 Solution — We are doing Marvell Alleycat5 chip for tailored networking solutions. 1, Support Web GUI change(Logo, model name, MAC, SN, SNMP, OID) 2, Added intere | Elsa 箱群发 BCC 触达证据（命中地址 info@qubix.it, qubix.it）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-10-07 | 去 | A 群发 | Managed PoE Switches、10G Enterprise SFP Switch | 13 封 / 1 次打开 / 0 回｜首封 2025-10-16 → 末封 2026-10-07（13 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 主要是planet的；工业FS MC SFP 工业电源 几乎全是Planet的设备 | 表内备注 | `用户表` |
 
@@ -277,12 +278,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 B，分数 42）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 B，分数 42）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

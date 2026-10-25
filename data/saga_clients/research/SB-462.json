@@ -48,14 +48,14 @@
  "email_hook": "Before I send pricing, may I confirm which application the PoE switch is for on your side (CCTV, Wi-Fi, or industrial), so I quote the right 8- or 24-port model?",
  "mail_review": {
   "binding": {
-   "level": "未发信→轻度触达（Elsa 邮箱 2025-06-29 michael@eminnovate.com 回「Very interesting Any rear facing port switches?」对 48 口 PoE；S/A 邮箱 0 封；公司实体未核）；补核（第 73 批）：Elsa 06-30 答「没有后出线款」+ 软件功能表，之后无回",
+   "level": "未发信→轻度触达（Elsa 邮箱 2025-06-29 michael@eminnovate.com 回「Very interesting Any rear facing port switches?」对 48 口 PoE；S/A 邮箱 0 封；公司实体未核）；补核（第 73 批）：Elsa 06-30 答「没有后出线款」+ 软件功能表，之后无回；Elsa 群发 BCC 已触达 2025-04-05「Marvell Alleycat5 Solution」（价格未读），US-3 批次 To sales@solimedia.net，0 回（第 74 批 Bcc 头核对 msg 19606773d0d7a306）",
    "type": "—",
    "sieve": "—（未入筛）",
    "stop": "从未触达",
    "revive": "一句实话：无后置端口型号；问场景",
    "lane": "US 主攻（四主）",
    "cadence": "首封后看打开",
-   "evidence": "gmail_digest：out 0；用户表：「（用户表字段）」；研究档 risks：身份未核实；若为印度 IT 服务公司则不在目标区域/行业；Elsa 邮箱 `data/gmail_e/text/`（Replied 线程，客户→Elsa 正文；Elsa 回复正文未入库）"
+   "evidence": "gmail_digest：out 0；用户表：「（用户表字段）」；研究档 risks：身份未核实；若为印度 IT 服务公司则不在目标区域/行业；Elsa 邮箱 `data/gmail_e/text/`（Replied 线程，客户→Elsa 正文；Elsa 回复正文未入库）；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To sales@solimedia.net）本户见于 2025-04-05 名单；2026-09-08 最新一轮名单已不含此地址 → 中途被剔除（退信 / 退订 / 手工）"
   },
   "situation": "用户表登记为美国客户（域名 eminnovate.com），1 次实质回复、2 次跟进。公开检索无法核实其公司身份与业务；同名印度 IT 服务公司（eminnovate.co）与网络设备无关。按「待核」处理：下次跟进时直接询问公司全称与业务。",
   "need": "身份待核：默认按终端/集成商 25% 档以 STC-28DGGPM 试探；核实后再定",
@@ -71,10 +71,18 @@
   "next_move": {
    "when": "2026-11（顺手）",
    "channel": "Elsa 邮箱回原线程",
-   "action": "一问；回原串沿用原主题（邮件客户端自动加 Re:），上面的主题只在另起新信时用",
+   "action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2025-04-05「Marvell Alleycat5 Solution」），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生。 一问；回原串沿用原主题（邮件客户端自动加 Re:），上面的主题只在另起新信时用",
    "one_question": "Michael — no rear-facing-port models in our range (ports are front; airflow front-to-rear on the CENTEC units). What is the rack situation that needs rear ports — cabling to a patch panel behind?"
   },
   "facts": [
+   {
+    "date": "2025-04-05",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To sales@solimedia.net，US-3 批次）",
+    "quote": "Marvell Alleycat5 Solution — We are doing Marvell Alleycat5 chip for tailored networking solutions. 1, Support Web GUI change(Logo, model name, MAC, SN, SNMP, OID) 2, Added intere",
+    "why": "Elsa 箱群发 BCC 触达证据（命中地址 eminnovate.com, sales@eminnovate.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+    "k": "elsa_bcc"
+   },
    {
     "date": "2025-06-29",
     "dir": "来",
@@ -108,6 +116,6 @@
    "subject": "48-port PoE — rear-facing ports",
    "body": "Michael,\n\nAs Elsa said in June, none of our models have rear-facing ports — ports are front, airflow front-to-rear on the CENTEC data-center units.\n\nWhat is the rack situation that needs rear ports — cabling to a patch panel behind the switch? If it is a mounting question, reverse-mount brackets may solve it.\n\nAnd one thing I should have asked first: what is the company and the typical project, so I send only what fits.\n\nAlan Yan\nSaga Telecom"
   },
-  "as_of": "2026-10-24"
+  "as_of": "2026-10-25"
  }
 }

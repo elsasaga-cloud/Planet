@@ -82,7 +82,7 @@
    "revive": "首封（具名 KP 优先，用研究档 email_hook）",
    "lane": "US 主攻（四主）",
    "cadence": "首封后看打开",
-   "evidence": "gmail_digest：out 0；用户表：「POE switch 自己的logo 就这一款工业级的 摄像头，安防」；研究档 risks：DTC 品牌：现有深圳代工价格基准低；data/gmail_e/bcc_batches_2026.json"
+   "evidence": "gmail_digest：out 0；用户表：「POE switch 自己的logo 就这一款工业级的 摄像头，安防」；研究档 risks：DTC 品牌：现有深圳代工价格基准低；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To office@lightwin.ch）2025-02-28→2026-08-11 共 15 轮群发（16 Port Ethernet Switch、Mini Industrial PoE Switch、Commercial Network Switch、48 Port PoE Managed Switch、Managed Optical Bypass Switch、8 Port Industrial PoE Switch、Industrial PoE Switch、10G Enterprise SFP Switch、Booster PoE Switch、OEM Core Switching Solution、Updated Ethernet Switches Links、Marvell Managed Commercial Switches、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断"
   },
   "situation": "美国 Montavue（家用与商用 4K/2K 安防摄像系统 DTC 品牌：NVR 套装、Nexus 4K AI、美国销售与技术支持、无月费；自有 logo PoE 交换机（表内「就这一款工业级的」）、MNN-P162-16；表内「PoE switch 自己的 logo，摄像头安防」）；群发 13 次无回复。",
   "need": "套装配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Montavue 标；现有唯一工业款 → STI-288GP（$62.2）；16 口位 HRUI STC-2016GP（$88.0）",
@@ -102,6 +102,14 @@
    "one_question": "For the Montavue-branded PoE switch you pair with your NVR kits (and the single industrial model), we can be a second source on a Marvell platform — 8-PoE + 2 SFP L2+ desktop and DIN-rail 8-PoE industrial — from small lots with FCC/CE/RoHS reports; which one would you dual-source first? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
+   {
+    "date": "2025-02-28",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To office@lightwin.ch，CH/US/misc 批次）",
+    "quote": "16 Port Ethernet Switch — There is a 16-port Din Gigabit Ethernet switch for you. It is good for vehicle network and industrial automation. Model choice 1. 5 Port/8 port 2. 10/",
+    "why": "Elsa 箱群发 BCC 触达证据（命中地址 admin@montavue.com, montavue.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+    "k": "elsa_bcc"
+   },
    {
     "date": "2026-08-11",
     "dir": "去",
@@ -123,6 +131,6 @@
    "无邮件往来"
   ],
   "draft_en": null,
-  "as_of": "2026-10-24"
+  "as_of": "2026-10-25"
  }
 }

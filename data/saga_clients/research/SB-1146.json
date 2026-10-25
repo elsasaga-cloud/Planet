@@ -79,7 +79,7 @@
    "revive": "首封（具名 KP 优先，用研究档 email_hook）",
    "lane": "意大利（欧洲全域主攻）",
    "cadence": "首封后看打开",
-   "evidence": "gmail_digest：out 0；用户表：「商业POE」；研究档 risks：消费/办公 IT 品牌（Saga 不做消费级；仅 SMB PoE 可对位）；表内「质量一般」；仅 info@，未跟进过；data/gmail_e/bcc_batches_2026.json"
+   "evidence": "gmail_digest：out 0；用户表：「商业POE」；研究档 risks：消费/办公 IT 品牌（Saga 不做消费级；仅 SMB PoE 可对位）；表内「质量一般」；仅 info@，未跟进过；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To INFO@sarcitalia.it）2025-04-01→2026-08-31 共 9 轮群发（Marvell Alleycat5 Solution、8 Port Industrial PoE Switch、Commercial PoE Switch、48 Port PoE Managed Switch、16 Port Ethernet Switch、10G Enterprise SFP Switch、Industrial PoE Switch、OEM Core Switching Solution、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断"
   },
   "situation": "意大利 ADJ（意大利 IT/电子品牌：PC、笔记本、耳机、UPS、外设、扩展坞，39 欧免运费零售；表内「商业 PoE」「质量一般」）；表内未跟进。",
   "need": "ADJ 标 SMB 网络品类 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；非管理 5/8 口位 HRUI STC-08GE / STC-028GP（列表价，注明）",
@@ -99,6 +99,14 @@
    "one_question": "For the switches in the ADJ networking range, we can be an ODM source on a Marvell platform (8-PoE + 2 SFP L2+) plus budget unmanaged 5/8-port units in your retail packaging from small lots, CE/RoHS — which network SKU sells most through your Italian retail channel? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
+   {
+    "date": "2025-04-01",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To INFO@sarcitalia.it，IT 批次）",
+    "quote": "Marvell Alleycat5 Solution — We are doing Marvell Alleycat5 chip for tailored networking solutions. 1, Support Web GUI change(Logo, model name, MAC, SN, SNMP, OID) 2, Added intere",
+    "why": "Elsa 箱群发 BCC 触达证据（命中地址 adj.it, info@adj.it）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+    "k": "elsa_bcc"
+   },
    {
     "date": "2026-08-31",
     "dir": "去",
@@ -120,6 +128,6 @@
    "无邮件往来"
   ],
   "draft_en": null,
-  "as_of": "2026-10-24"
+  "as_of": "2026-10-25"
  }
 }

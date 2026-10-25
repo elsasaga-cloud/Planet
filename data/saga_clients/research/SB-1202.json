@@ -72,7 +72,7 @@
    "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
    "lane": "PL 次级重点",
    "cadence": "一封；回了再说",
-   "evidence": "gmail_digest：out 5，Opened 标签 2（Simon 群发追踪）；用户表：「工业FS MC SFP 周边产品 销售平台」；研究档 risks：官网「Site en construction」（经营状态待核）；平台型卖家（低粘性）；表内「质量一般」；仅 info@；data/gmail_e/bcc_batches_2026.json"
+   "evidence": "gmail_digest：out 5，Opened 标签 2（Simon 群发追踪）；用户表：「工业FS MC SFP 周边产品 销售平台」；研究档 risks：官网「Site en construction」（经营状态待核）；平台型卖家（低粘性）；表内「质量一般」；仅 info@；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To j.zaczek@mbs-systems.pl）2025-04-03→2026-09-01 共 11 轮群发（L3 Managed Switch、Industrial PoE Switch、Commercial Network Switch、16 Port Ethernet Switch、8 Port Industrial PoE Switch、Mini Industrial PoE Switch、10G Enterprise SFP Switch、OEM Core Switching Solution、Updated Ethernet Switches Links、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断"
   },
   "situation": "波兰 intshop.pl / noning.pl（销售平台型网店：工业 FS、MC、SFP、周边产品；快照「Site en construction」；表内「质量一般」）；表内未跟进。",
   "need": "工业 FS/MC 位 → 工业 8 GE + 2 SFP STI-280GE（$46.6 @20%）、工业千兆 MC STI-110GE（$22.4）；SFP Saga 不供",
@@ -101,6 +101,14 @@
     "k": "gmail_digest"
    },
    {
+    "date": "2025-04-03",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To j.zaczek@mbs-systems.pl，PL-2 批次）",
+    "quote": "L3 Managed Switch — This is a Marvell-based L3 Managed 24 port DIN PoE Switch. 1, PoE af/at/bt, 370W budget, max 60℃ 2, Support DI/DO/RS485, USB, Alarm 3, Customizable We",
+    "why": "Elsa 箱群发 BCC 触达证据（命中地址 info@noning.pl, noning.pl）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+    "k": "elsa_bcc"
+   },
+   {
     "date": "2026-09-01",
     "dir": "去",
     "who": "Elsa 群发（BCC；To j.zaczek@mbs-systems.pl，PL-2 批次）",
@@ -122,6 +130,6 @@
    "subject": "One question — 10G fiber media converter",
    "body": "Hello,\n\nWe have sent you a few mails on \"10G fiber media converter\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor the industrial switches and media converters on your platform, we supply neutral-brand Marvell-based DIN-rail 8-GE + 2 SFP managed switches and gigabit MCs from single units, CE/RoHS, EXW USD — which industrial SKU do your customers order most?\n\nReference price: DIN-rail 8-GE + 2 SFP unmanaged industrial switch (STI-280GE) $46 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nSimon\nSaga Telecom · sagatele.com"
   },
-  "as_of": "2026-10-24"
+  "as_of": "2026-10-25"
  }
 }

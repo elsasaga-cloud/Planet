@@ -1,109 +1,118 @@
 {
-  "code": "SB-409",
-  "name_official": "",
-  "researched_at": "2026-10-21",
-  "website_status": "快照失败（http_error）",
-  "summary": "西班牙 Rister（销售平台型网店，「基本都是 D-Link 的」；KP Manu Mari（Chief Commercial Officer）、Fran Hita（Technical Manager）；表内「质量一般」；官网 http_error）；表内 1 次跟进无回复。",
-  "type": "网络产品网店（西班牙，D-Link 为主）",
-  "size": "",
-  "brands_seen": [
-    "D-Link"
-  ],
-  "evidence": [
-    {
-      "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "基本都是DLINK的；销售平台",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "基本都是 D-Link",
-      "quote": "基本都是DLINK的 / 销售平台",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Manu Mari",
-      "title": "Chief Commercial Officer",
-      "email": "mmv@rister.com",
-      "phone": "",
-      "source": "用户表"
-    },
-    {
-      "name": "Fran Hita",
-      "title": "Technical Manager",
-      "email": "info@rister.com",
-      "phone": "",
-      "source": "用户表"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ "code": "SB-409",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "快照失败（http_error）",
+ "summary": "西班牙 Rister（销售平台型网店，「基本都是 D-Link 的」；KP Manu Mari（Chief Commercial Officer）、Fran Hita（Technical Manager）；表内「质量一般」；官网 http_error）；表内 1 次跟进无回复。",
+ "type": "网络产品网店（西班牙，D-Link 为主）",
+ "size": "",
+ "brands_seen": [
+  "D-Link"
+ ],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "基本都是DLINK的；销售平台",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "hq": "西班牙",
-    "other": "官网 rister.com，语言 ?，快照状态 http_error；角色判定来源：用户表"
-  },
-  "business_lines": [
-    "网络产品网店 / 销售平台（西班牙）"
-  ],
-  "channels": {
-    "role": "网络产品网店（西班牙，D-Link 为主）",
-    "region": "西班牙",
-    "contact": "info@rister.com、mmv@rister.com"
-  },
-  "signals": [
-    "表内：基本都是 DLINK 的 / 销售平台；KP Manu Mari / Chief Commercial Officer (CCO)；Fran Hita / Technical Manager；质量一般",
-    "快照：http_error"
-  ],
-  "risks": [
-    "D-Link 品牌粘性；平台型卖家（低粘性）；官网 http_error；表内「质量一般」；1 次无回复"
-  ],
-  "saga_fit": {
-    "p1": "STC-28DGGPM",
-    "tier": 20,
-    "why": "D-Link 位预算替代 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 GE + 4×10G STC-424XGGM（$127.4）"
-  },
-  "email_hook": "Manu, alongside the D-Link range you sell, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and 24-GE + 4×10G switches from single units, CE/RoHS, EXW USD — is there a price point below D-Link that your business customers ask for?",
-  "mail_review": {
-    "binding": {
-      "level": "未触达（1 封自动回复）",
-      "type": "西班牙网络网店（D-Link 为主）",
-      "sieve": "0",
-      "stop": "自动回复/机器人，无人工回复",
-      "revive": "不动",
-      "lane": "ES",
-      "cadence": "不动",
-      "evidence": "k=01ba0472179cec86"
-    },
-    "situation": "来信全部为机器回复；无人读信或无人回信。",
-    "need": "—",
-    "breakpoint": "—",
-    "saga_now": {
-      "p1": "—",
-      "tier": 20,
-      "price": "—；群发里他已看到的价（续）：2026-08-27 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170",
-      "why": "—",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "不动",
-      "channel": "—",
-      "action": "—",
-      "one_question": ""
-    },
-    "facts": [],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "基本都是 D-Link",
+   "quote": "基本都是DLINK的 / 销售平台",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Manu Mari",
+   "title": "Chief Commercial Officer",
+   "email": "mmv@rister.com",
+   "phone": "",
+   "source": "用户表"
+  },
+  {
+   "name": "Fran Hita",
+   "title": "Technical Manager",
+   "email": "info@rister.com",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "西班牙",
+  "other": "官网 rister.com，语言 ?，快照状态 http_error；角色判定来源：用户表"
+ },
+ "business_lines": [
+  "网络产品网店 / 销售平台（西班牙）"
+ ],
+ "channels": {
+  "role": "网络产品网店（西班牙，D-Link 为主）",
+  "region": "西班牙",
+  "contact": "info@rister.com、mmv@rister.com"
+ },
+ "signals": [
+  "表内：基本都是 DLINK 的 / 销售平台；KP Manu Mari / Chief Commercial Officer (CCO)；Fran Hita / Technical Manager；质量一般",
+  "快照：http_error"
+ ],
+ "risks": [
+  "D-Link 品牌粘性；平台型卖家（低粘性）；官网 http_error；表内「质量一般」；1 次无回复"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 20,
+  "why": "D-Link 位预算替代 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 GE + 4×10G STC-424XGGM（$127.4）"
+ },
+ "email_hook": "Manu, alongside the D-Link range you sell, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and 24-GE + 4×10G switches from single units, CE/RoHS, EXW USD — is there a price point below D-Link that your business customers ask for?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（1 封自动回复）；Elsa 群发 BCC 已触达 2025-03-29「Marvell Alleycat5 Solution」（价格未读），ES 批次 To info@garmasl.com，0 回（第 74 批 Bcc 头核对 msg 195e12122be75883）",
+   "type": "西班牙网络网店（D-Link 为主）",
+   "sieve": "0",
+   "stop": "自动回复/机器人，无人工回复",
+   "revive": "不动",
+   "lane": "ES",
+   "cadence": "不动",
+   "evidence": "k=01ba0472179cec86；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To info@garmasl.com）本户见于 2025-03-29 名单；2026-09-02 最新一轮名单已不含此地址 → 中途被剔除（退信 / 退订 / 手工）"
+  },
+  "situation": "来信全部为机器回复；无人读信或无人回信。",
+  "need": "—",
+  "breakpoint": "—",
+  "saga_now": {
+   "p1": "—",
+   "tier": 20,
+   "price": "—；群发里他已看到的价（续）：2026-08-27 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170",
+   "why": "—",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2025-03-29",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To info@garmasl.com，ES 批次）",
+    "quote": "Marvell Alleycat5 Solution — We are doing Marvell Alleycat5 chip for tailored networking solutions. 1, Support Web GUI change(Logo, model name, MAC, SN, SNMP, OID) 2, Added intere",
+    "why": "Elsa 箱群发 BCC 触达证据（命中地址 info@rister.com, rister.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+    "k": "elsa_bcc"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-25"
+ }
 }

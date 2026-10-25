@@ -79,7 +79,7 @@
    "revive": "不动；备用具名邮箱：bhogan@fiberopticsupply.com（自动回复中出现的同司具名邮箱，2023-12-20，k=5fe850467aa7251b；从未发过）；bturner@fiberopticsupply.com（自动回复中出现的同司具名邮箱，2024-09-27，k=f88a1716b68677f2；从未发过）；gcharlton@fiberopticsupply.com（自动回复中出现的同司具名邮箱，2023-12-20，k=5fe850467aa7251b；从未发过）",
    "lane": "US",
    "cadence": "不动",
-   "evidence": "k=5fe850467aa7251b / f88a1716b68677f2；data/gmail_e/bcc_batches_2026.json"
+   "evidence": "k=5fe850467aa7251b / f88a1716b68677f2；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To sales@solimedia.net）2025-04-05→2026-09-08 共 10 轮群发（Marvell Alleycat5 Solution、Mini Industrial PoE Switch、16 Port Ethernet Switch、48 Port PoE Managed Switch、Managed Optical Bypass Switch、Industrial PoE Switch、10G Enterprise SFP Switch、Updated Ethernet Switches Links、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断"
   },
   "situation": "来信全部为机器回复；无人读信或无人回信。",
   "need": "—",
@@ -124,6 +124,14 @@
     "k": "f88a1716b68677f2"
    },
    {
+    "date": "2025-04-05",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To sales@solimedia.net，US-3 批次）",
+    "quote": "Marvell Alleycat5 Solution — We are doing Marvell Alleycat5 chip for tailored networking solutions. 1, Support Web GUI change(Logo, model name, MAC, SN, SNMP, OID) 2, Added intere",
+    "why": "Elsa 箱群发 BCC 触达证据（命中地址 fiberopticsupply.com, sales@fiberopticsupply.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+    "k": "elsa_bcc"
+   },
+   {
     "date": "2026-09-08",
     "dir": "去",
     "who": "Elsa 群发（BCC；To sales@solimedia.net，US-3 批次）",
@@ -134,6 +142,6 @@
   ],
   "proof_gaps": [],
   "draft_en": null,
-  "as_of": "2026-10-24"
+  "as_of": "2026-10-25"
  }
 }

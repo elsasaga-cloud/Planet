@@ -80,7 +80,7 @@
    "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
    "lane": "US 主攻（四主）",
    "cadence": "一封；回了再说",
-   "evidence": "gmail_digest：out 7，Opened 标签 2（Simon 群发追踪）；用户表：「poe network switch 产品较少 周边产品」；研究档 risks：品类边缘：汽车开发工具商（NS-1 可能为车载以太网/T1 交换机，Saga 不做）；需求待核；仅 sales@，未跟进过；data/gmail_e/bcc_batches_2026.json"
+   "evidence": "gmail_digest：out 7，Opened 标签 2（Simon 群发追踪）；用户表：「poe network switch 产品较少 周边产品」；研究档 risks：品类边缘：汽车开发工具商（NS-1 可能为车载以太网/T1 交换机，Saga 不做）；需求待核；仅 sales@，未跟进过；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To sales@solimedia.net）2025-04-05→2026-09-08 共 10 轮群发（Marvell Alleycat5 Solution、Mini Industrial PoE Switch、16 Port Ethernet Switch、48 Port PoE Managed Switch、Managed Optical Bypass Switch、Industrial PoE Switch、10G Enterprise SFP Switch、Updated Ethernet Switches Links、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断"
   },
   "situation": "美国 Accurate Technologies（ATI：ECU 控制系统开发工具——标定、数据采集、快速原型、网络分析；产品含 NS-1 网络交换机、CAN 总线产品；表内「PoE network switch 产品较少，周边产品」）；表内未跟进。",
   "need": "测试台架以太网配套 → 工业 8 GE 非管理 STI-080GE（$34.0 @30%）/ 8 GE + 2 SFP STI-280GE（$50.5）贴 ATI 标；车载以太网（100BASE-T1）Saga 不做",
@@ -109,6 +109,14 @@
     "k": "gmail_digest"
    },
    {
+    "date": "2025-04-05",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To sales@solimedia.net，US-3 批次）",
+    "quote": "Marvell Alleycat5 Solution — We are doing Marvell Alleycat5 chip for tailored networking solutions. 1, Support Web GUI change(Logo, model name, MAC, SN, SNMP, OID) 2, Added intere",
+    "why": "Elsa 箱群发 BCC 触达证据（命中地址 accuratetechnologies.com, sales@accuratetechnologies.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+    "k": "elsa_bcc"
+   },
+   {
     "date": "2026-09-08",
     "dir": "去",
     "who": "Elsa 群发（BCC；To sales@solimedia.net，US-3 批次）",
@@ -130,6 +138,6 @@
    "subject": "One question — Industrial PoE Switch",
    "body": "Hello,\n\nWe have sent you a few mails on \"Industrial PoE Switch\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor the Ethernet switches you bundle with ECU calibration and data-acquisition setups, we can supply compact DIN-rail 8-GE unmanaged and 8-GE + 2 SFP managed units (−40~75 °C, 12–57 V, FCC/CE/RoHS) under your label from small lots — would a bench-grade gigabit switch fit the NS-1 line?\n\nReference price: DIN-rail 8-GE unmanaged industrial switch (STI-080GE) $32.5 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nSimon\nSaga Telecom · sagatele.com"
   },
-  "as_of": "2026-10-24"
+  "as_of": "2026-10-25"
  }
 }

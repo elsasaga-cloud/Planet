@@ -81,7 +81,7 @@
    "revive": "首封（具名 KP 优先，用研究档 email_hook）",
    "lane": "瑞士（欧洲全域主攻）",
    "cadence": "首封后看打开",
-   "evidence": "gmail_digest：out 0；用户表：「CVI POE 工业FS SDI 主要是围绕着CCTV来的」；研究档 risks：ePoE 长距（250 m）需求：需核 SmartByte 型号支持；data/gmail_e/bcc_batches_2026.json"
+   "evidence": "gmail_digest：out 0；用户表：「CVI POE 工业FS SDI 主要是围绕着CCTV来的」；研究档 risks：ePoE 长距（250 m）需求：需核 SmartByte 型号支持；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To info@dasys.fi）2025-02-16→2026-08-13 共 10 轮群发（Industrial PoE Switch、8 Port Industrial PoE Switch、Marvell Alleycat5 Solution、48 Port PoE Managed Switch、16 Port Ethernet Switch、Mini Industrial PoE Switch、10G Enterprise SFP Switch、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断"
   },
   "situation": "瑞士 IP CCTV GmbH（专业 HD/4K 视频监控与视频分析、对讲/可视对讲；网络监控与 HD-CVI、CVBS/AHD；站内 ePoE / PoE+ 交换机页；表内「CVI / PoE / 工业 FS / SDI，主要围绕 CCTV」）；表内无跟进记录。",
   "need": "CCTV 方案配套 PoE（含 ePoE 长距需求）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）；工业位 STI-288GP；ePoE 250m 长距模式需核 SmartByte 是否支持（待核）",
@@ -101,6 +101,14 @@
    "one_question": "For the PoE switches behind your IP and HD-CVI installations, we supply a Marvell-based 8-PoE + 2 SFP L2+ switch and DIN-rail industrial PoE models in neutral packing from small lots, CE/RoHS — do your projects more often need standard PoE+ or extended-distance PoE? Reference: STC-28DGGPM at $84.1 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
+   {
+    "date": "2025-02-16",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To info@alphatelecom.cc，北欧/中东欧 批次）",
+    "quote": "Industrial PoE Switch — This is a Marvell based industrial PoE switch for you. Port: 2*Gigabit SFP+4*Gigabit PoE Feature: 120W budget, PoE watchdog, 250-meter poe distance, s",
+    "why": "Elsa 箱群发 BCC 触达证据（命中地址 info@ipcctv.ch, ipcctv.ch）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+    "k": "elsa_bcc"
+   },
    {
     "date": "2026-08-13",
     "dir": "去",
@@ -122,6 +130,6 @@
    "无邮件往来"
   ],
   "draft_en": null,
-  "as_of": "2026-10-24"
+  "as_of": "2026-10-25"
  }
 }

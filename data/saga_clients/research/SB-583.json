@@ -85,7 +85,7 @@
    "revive": "首封（具名 KP 优先，用研究档 email_hook）",
    "lane": "西班牙（欧洲全域主攻）",
    "cadence": "首封后看打开",
-   "evidence": "gmail_digest：out 0；用户表：「Bematik牌子 似乎是自己的牌子 MC SFP POE FS 周边产品」；研究档 risks：国别：表内「德国」与官网（西班牙 Cablematic S.L.）不符，已按官网改西班牙，待核；data/gmail_e/bcc_batches_2026.json"
+   "evidence": "gmail_digest：out 0；用户表：「Bematik牌子 似乎是自己的牌子 MC SFP POE FS 周边产品」；研究档 risks：国别：表内「德国」与官网（西班牙 Cablematic S.L.）不符，已按官网改西班牙，待核；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To office@all4fiber.com）2025-03-28→2026-08-31 共 9 轮群发（16 Port Ethernet Switch、8 Port Industrial PoE Switch、48 Port PoE Managed Switch、Managed Optical Bypass Switch、Mini Industrial PoE Switch、Industrial PoE Switch、10G Enterprise SFP Switch、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断"
   },
   "situation": "Cablematic（电脑周边与技术产品分销商，自有品牌 BeMatik；品类：机柜 / 音视频 / 光纤（词频 363）/ 线缆（3048）/ 工业（93）/ 监控；表内「Bematik 牌子似乎是自己的，MC / SFP / PoE / FS / 周边，质量一般」；官网为西班牙公司（Cablematic S.L.，巴塞罗那）而表内记「德国」→ 国别按官网更正，待核）；表内无跟进记录。",
   "need": "自有品牌 BeMatik 覆盖 MC / SFP / PoE 交换机 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 BeMatik 标；工业位 STI-280GE；MC 位 STI-110GE",
@@ -105,6 +105,14 @@
    "one_question": "For the BeMatik-branded PoE switches and media converters, we build Marvell-based 8-PoE + 2 SFP L2+ and DIN-rail gigabit models under your label from small lots, CE/RoHS, neutral packing — which BeMatik SKU is due for a refresh first, the PoE switch or the media converter? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
+   {
+    "date": "2025-03-28",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To office@all4fiber.com，DE 批次）",
+    "quote": "16 Port Ethernet Switch — There is a 16-port Din Gigabit Ethernet switch for you. It is good for vehicle network and industrial automation. Model choice 1. 5 Port/8 Port/24 Por",
+    "why": "Elsa 箱群发 BCC 触达证据（命中地址 cablematic.com, info@cablematic.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+    "k": "elsa_bcc"
+   },
    {
     "date": "2026-08-31",
     "dir": "去",
@@ -126,6 +134,6 @@
    "无邮件往来"
   ],
   "draft_en": null,
-  "as_of": "2026-10-24"
+  "as_of": "2026-10-25"
  }
 }

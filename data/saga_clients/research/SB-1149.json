@@ -81,7 +81,7 @@
    "revive": "首封（具名 KP 优先，用研究档 email_hook）",
    "lane": "CA 主攻",
    "cadence": "首封后看打开",
-   "evidence": "gmail_digest：out 0；用户表：「IP-based产品 也牵涉到了POE」；研究档 risks：交换机非其品类（PoE 受电终端厂商），需求待核；表内「质量一般」；仅 info@，未跟进过；data/gmail_e/bcc_batches_2026.json"
+   "evidence": "gmail_digest：out 0；用户表：「IP-based产品 也牵涉到了POE」；研究档 risks：交换机非其品类（PoE 受电终端厂商），需求待核；表内「质量一般」；仅 info@，未跟进过；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To orders@premiertek.net）2025-04-13→2026-08-28 共 10 轮群发（16 Port PoE Managed Switch、90W PoE Managed Switch、16 Port Ethernet Switch、Industrial PoE Switch、48 Port PoE Managed Switch、10G Enterprise SFP Switch、OEM Core Switching Solution、Updated Ethernet Switches Links、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断"
   },
   "situation": "加拿大 Algo Communication Products（IP 寻呼与应急通知平台：SIP 扬声器、适配器、频闪灯、门口对讲；PoE 供电终端；表内「IP-based 产品 也牵涉到了 PoE」「质量一般」）；表内未跟进。",
   "need": "终端厂商（PoE 受电设备），交换机仅为配套可能 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）作捆绑备选；需求待核",
@@ -101,6 +101,14 @@
    "one_question": "For installers deploying your SIP speakers and strobes, a PoE switch bundle can simplify small sites — we supply Marvell-based 8-PoE + 2 SFP L2+ and 24-PoE + 4 SFP models (90 W PoE++ option) under your label from small lots, FCC/CE/RoHS — would a bundled PoE SKU fit your partner price list? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
+   {
+    "date": "2025-04-13",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To orders@premiertek.net，US/CA-1 批次）",
+    "quote": "16 Port PoE Managed Switch — This is a Marvell-based 16 Port PoE L2+ Managed Switch. 1, 2*1G/2.5G/10G fiber+16*1G RJ45/PoE 2, Support PoE management, alarm output 3, Customizable ",
+    "why": "Elsa 箱群发 BCC 触达证据（命中地址 algosolutions.com, info@algosolutions.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+    "k": "elsa_bcc"
+   },
    {
     "date": "2026-08-28",
     "dir": "去",
@@ -122,6 +130,6 @@
    "无邮件往来"
   ],
   "draft_en": null,
-  "as_of": "2026-10-24"
+  "as_of": "2026-10-25"
  }
 }
