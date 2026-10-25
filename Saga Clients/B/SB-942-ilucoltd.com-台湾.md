@@ -256,7 +256,7 @@ updated: 2026-10-25
 ```text
 Hi Angus,
 
-Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 2026-09-07 - and there was no reason to answer a mass mail. This one is specific. Following our earlier exchange: for the larger-port switches you source, we can quote Marvell-based 24-GE + 4×10G L2+ and 24-PoE + 4×10G models from small lots, CE/RoHS, EXW USD, with datasheets and SNMP MIBs — which port count and PoE budget is your current enquiry for?
+Picking up our earlier exchange about PoE / industrial switches. Following our earlier exchange: for the larger-port switches you source, we can quote Marvell-based 24-GE + 4×10G L2+ and 24-PoE + 4×10G models from small lots, CE/RoHS, EXW USD, with datasheets and SNMP MIBs — which port count and PoE budget is your current enquiry for?
 
 We supply a Marvell-based 24-port Gigabit L2+ managed switch with 4x10G SFP+ uplinks - model STC-424XGGM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it with neutral packaging. Current price: $127.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

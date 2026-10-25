@@ -834,7 +834,8 @@ def email_draft(ent, g, typ, p1, tier, brands, first_q):
                 if hook and hook[0].islower():
                     hook = hook[0].upper() + hook[1:]
             et0 = elsa_touch(ent)
-            if ent['reply_sub'] or ent['flags'].get('deal') or ent['deal_in_fu']:
+            _f0 = (((ent.get('research') or {}).get('mail_review') or {}).get('facts') or [])
+            if ent['reply_sub'] or ent['flags'].get('deal') or ent['deal_in_fu'] or any(isinstance(x, dict) and x.get('dir') == '来' for x in _f0):
                 op0 = 'Picking up our earlier exchange about PoE / industrial switches.'
             elif et0:
                 op0 = (f'{"Over the past months" if et0[1] >= "2026-04-01" else "Some time ago"} you had '
@@ -881,7 +882,11 @@ def email_draft(ent, g, typ, p1, tier, brands, first_q):
     else:
         opener = 'We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option.'
     et = elsa_touch(ent)
-    if et and not deal and not ent['reply_sub'] and 'ISAF2025展会' not in ent['tags']:
+    _facts = (((ent.get('research') or {}).get('mail_review') or {}).get('facts') or [])
+    _inbound = any(isinstance(x, dict) and x.get('dir') == '来' for x in _facts)
+    if et and _inbound and not deal and not ent['reply_sub'] and 'ISAF2025展会' not in ent['tags']:
+        opener = 'Picking up our earlier exchange about PoE / industrial switches.'  # 对方来过信（含对 Elsa 的回复）：不说「没理由回群发」
+    elif et and not deal and not ent['reply_sub'] and 'ISAF2025展会' not in ent['tags']:
         # 只替换「泛泛开头」；真实往来（回过信/成单/展会）保留原开头
         n, last_d, last_s, _seen = et
         many = 'a few product mails' if n >= 2 else 'a product mail'
