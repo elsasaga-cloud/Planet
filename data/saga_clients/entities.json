@@ -362426,7 +362426,7 @@
 "next_move": {
 "when": "2027-Q1（换人后）",
 "channel": "A 邮箱 → 具名 KP",
-"action": "首封前知悉：Elsa 仅 2025-02-25 单发过 1 封「Mini Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封",
+"action": "首封前知悉：Elsa 仅 2025-02-25 单发过 1 封「Mini Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(v) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））",
 "one_question": "David, for the rugged industrial switch line in the KBC range, we can be a second ODM source (DIN-rail 8-PoE + 2 SFP managed on Marvell L2+, or unmanaged, −40~75 °C) from small lots with FCC/CE/RoHS reports — which model would you consider dual-sourcing first? Reference: STI-288GPM at $85.5 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
@@ -362457,7 +362457,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "The rugged switch line in the KBC range - a second ODM source, FCC/CE/RoHS reports included",
+"body": "Hi David,\n\nOver the past months you had a few product mails from us - most recently \"Managed Optical Bypass Switch\" on 11 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the rugged industrial switch line in the KBC range, a second ODM source from small lots, -40 to 75 C, FCC/CE/RoHS test reports supplied with the first lot: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, L2 managed, Marvell-based - model STI-288GPM - $85.5 USD EXW under the KBC label (MOQ 1, 15-day validity); the same footprint unmanaged - STI-288GP - $62.2; Gigabit media converter, 1 x RJ45 + 1 x SFP - STI-110GE - $26.5. Racks, SFPs and video converters stay with your current sources - we do not carry them.\n\nOne question: which model would you consider dual-sourcing first - the managed 8-port or the unmanaged?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -364259,7 +364262,7 @@
 "next_move": {
 "when": "2027-Q1（换人后）",
 "channel": "A 邮箱 → 具名 KP",
-"action": "换收件人再发一封",
+"action": "换收件人再发一封（第 75 批(v) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用）；钩子「CLI」不写——未核实；MIB 写「I can get you」）",
 "one_question": "Todd, for the Mako-branded managed switch line, we can be a second ODM source on a Marvell L2+ platform (24-GE/PoE + 4×10G, 48-port) from small lots, with SNMP/CLI access for your CMS integration — would your team evaluate a sample unit? Reference: STC-424XGGPM-280W at $180 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
@@ -364281,7 +364284,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "The Mako-branded managed switch line - a second ODM source with SNMP for CMS",
+"body": "Hi Todd,\n\nOver the past months you had a few product mails from us - most recently \"Managed Optical Bypass Switch\" on 27 February 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the Mako-branded managed switch line, a second ODM source on a Marvell L2+ platform from small lots, FCC/CE/RoHS: 24 x Gigabit PoE+ (280 W) + 4 x 10G SFP+ - model STC-424XGGPM-280W - $180 USD EXW (MOQ 1, 15-day validity); the non-PoE version - STC-424XGGM - $138.0. SNMP and a web GUI with the Mako logo; I can get you the MIB files for your CMS integration before you commit to a sample.\n\nOne question: would your team evaluate one sample unit against the CMS, and which of the two?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -366063,7 +366069,7 @@
 "next_move": {
 "when": "2027-Q1（换人后）",
 "channel": "A 邮箱 → 具名 KP",
-"action": "换收件人再发一封",
+"action": "换收件人再发一封（第 75 批(v) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））",
 "one_question": "For the industrial-grade switches that complement your NV-series Ethernet extenders, we can supply DIN-rail 8-GE and 8-PoE + 2 SFP units under your label from small lots (−40~75 °C, FCC/CE/RoHS) — which port count do your extender customers ask for most? Reference: STI-080GE at $32.5 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
@@ -366085,7 +366091,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "Industrial switches next to the NV-series extenders - under the Netsys label",
+"body": "Hello Netsys team,\n\nOver the past months you had a few product mails from us - most recently \"Managed Optical Bypass Switch\" on 8 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nExtenders are yours and we do not build them. For the industrial switches that sit next to the NV-series in a cabinet, under the Netsys label from small lots, -40 to 75 C, FCC/CE/RoHS: DIN-rail 8 x Gigabit unmanaged - model STI-080GE - $32.5 USD EXW (MOQ 1, 15-day validity); 8 x Gigabit PoE+ + 2 x SFP unmanaged - STI-288GP - $62.2.\n\nOne question: which port count do your extender customers ask for most - 5, 8 or 16?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -367827,7 +367836,7 @@
 "next_move": {
 "when": "2027-Q1（换人后）",
 "channel": "A 邮箱 → 具名 KP",
-"action": "首封前知悉：Elsa 仅 2025-02-25 单发过 1 封「Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封",
+"action": "首封前知悉：Elsa 仅 2025-02-25 单发过 1 封「Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(v) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））",
 "one_question": "Dusan, for the PoE switches in the PoEWit range, we can be an ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE 280 W, 802.3bt options) in your packaging from small lots, FCC/CE/RoHS — which PoE switch SKU would you want quoted first? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
@@ -367858,7 +367867,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "PoE switches under the PoEWit label - which SKU first?",
+"body": "Hi Dusan,\n\nOver the past months you had a few product mails from us - most recently \"Managed Optical Bypass Switch\" on 10 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nInjectors, SFPs and DAC are your range and not ours. For the PoE switches under the PoEWit label, an ODM source in your packaging from small lots, FCC/CE/RoHS: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based - model STC-28DGGPM - $87.4 USD EXW with your logo (MOQ 1, 15-day validity); 24 x Gigabit PoE+ (280 W) + 4 x SFP, L2+ managed - STC-424DGGPM-280W - $145.7; 802.3bt ports on request. Web GUI with your logo; colour box from 200 sets.\n\nOne question: which PoE switch SKU would you want quoted first - the 8-port or the 24-port?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -368661,7 +368673,7 @@
 "next_move": {
 "when": "2027-Q1（换人后）",
 "channel": "A 邮箱 → 具名 KP",
-"action": "换收件人再发一封",
+"action": "换收件人再发一封（第 75 批(v) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））",
 "one_question": "Deepali, for the media converters listed under the SANspot label next to your cabling range, we can supply gigabit MCs (desktop or industrial DIN/wall) in your packaging from small lots, FCC/CE/RoHS — which MC configuration do your customers order most? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
@@ -368683,7 +368695,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "Media converters under the SANspot label - next to the cabling range",
+"body": "Hi Deepali,\n\nOver the past months you had a few product mails from us - most recently \"Managed Optical Bypass Switch\" on 26 February 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the media converters listed under the SANspot label next to your cabling range, in your packaging from small lots, FCC/CE/RoHS: industrial Gigabit converter, DIN-rail or wall-mount, 1 x RJ45 + 1 x SFP slot (fixed SC optional), -40 to 75 C - model STI-110GE - $26.5 USD EXW (MOQ 1, 15-day validity); the PoE version for a camera at the fibre end - STI-111GP - $30.1; desktop versions on request.\n\nOne question: which converter configuration do your customers order most - SFP-slot or fixed SC, and single- or multimode?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -373339,7 +373354,7 @@
 "next_move": {
 "when": "2027-Q1（换人后）",
 "channel": "A 邮箱 → 具名 KP",
-"action": "换收件人再发一封",
+"action": "换收件人再发一封（第 75 批(v) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））",
 "one_question": "Alongside the VIPA-branded industrial switches in your PLC accessories, we can supply DIN-rail 5/8-port gigabit units in neutral packing from small lots (−40~75 °C, FCC/CE/RoHS) for price-sensitive panels — do your integrator customers ask for a lower-cost switch option? Reference: STI-080GE at $32.5 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
@@ -373361,7 +373376,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "A lower-cost switch option for price-sensitive panels - next to the VIPA-branded units",
+"body": "Hello VIPA ControlsAmerica team,\n\nOver the past months you had a few product mails from us - most recently \"Marvell Industrial Alert System\" on 13 February 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nThe VIPA-branded switches come from your brand owner, understood. For the price-sensitive panels where an integrator asks for a lower-cost option, from small lots, neutral packing, -40 to 75 C, FCC/CE/RoHS: DIN-rail 8 x Gigabit unmanaged, 12-58 V DC - model STI-080GE - $32.5 USD EXW at distributor price (MOQ 1, 15-day validity); 5 x Gigabit, 12-36 V DC - STI-050GE - $17.0.\n\nOne question: do your integrator customers ask for a lower-cost switch option, or do they stay with the VIPA part numbers?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -397171,7 +397189,7 @@
 "next_move": {
 "when": "2027-Q1（换人后）",
 "channel": "A 邮箱 → 具名 KP",
-"action": "换收件人再发一封",
+"action": "换收件人再发一封（第 75 批(v) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））",
 "one_question": "Andrea, beside the E-wind converters on lanshack.com — our DIN gigabit MC is $22.4 and the 2-SFP + 8-PoE industrial $57 EXW (FCC/CE, no UL listing); would a 2-piece sample help you compare build quality?"
 },
 "facts": [
@@ -397193,7 +397211,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "Beside the E-wind converters on lanshack.com - two numbers and a 2-piece sample",
+"body": "Hi Andrea,\n\nOver the past months you had a few product mails from us - most recently \"Marvell Industrial Alert System\" on 17 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nBeside the E-wind converters and switches on lanshack.com, at distributor price, EXW, MOQ 1, 15-day validity: industrial Gigabit media converter, DIN-rail, 1 x RJ45 + 1 x SFP slot, -40 to 75 C - model STI-110GE - $26.5 USD; industrial 8 x Gigabit PoE+ + 2 x SFP unmanaged - STI-288GP - $60. FCC/CE/RoHS, no UL listing - said up front. Samples are paid at the same price.\n\nOne question: would a 2-piece sample help you compare build quality against the E-wind units you already stock?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -440299,7 +440320,7 @@
 "next_move": {
 "when": "2027-Q1（换人后）",
 "channel": "A 邮箱 → 具名 KP",
-"action": "换收件人再发一封",
+"action": "换收件人再发一封（第 75 批(v) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））",
 "one_question": "Jehad, for the industrial PoE switches you source, we supply DIN-rail 4-PoE + 1 SFP and 8-PoE + 2 SFP units (managed on Marvell L2+, or unmanaged, −40~75 °C, FCC/CE/RoHS) from single units, EXW USD — which configuration do your current projects need? Reference: STI-288GPM at $82.2 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
@@ -440321,7 +440342,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "The industrial PoE switches you source - three configurations, from single units",
+"body": "Hi Jehad,\n\nOver the past months you had a few product mails from us - most recently \"10G Enterprise SFP Switch\" on 28 August 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the industrial PoE switches you source, three configurations from single units, -40 to 75 C, FCC/CE/RoHS, EXW, 15-day validity: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, L2 managed, Marvell-based - model STI-288GPM - $82.2 USD; the same unmanaged - STI-288GP - $60; 4 x Gigabit PoE+ + 1 x Gigabit + 1 x SFP, unmanaged - STI-154GP - $39.2. Shenzhen side: you have a China number, so a visit to see units is easy to arrange.\n\nOne question: which configuration do your current projects need - and managed or unmanaged?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -444930,7 +444954,7 @@
 "next_move": {
 "when": "2027-Q1（换人后）",
 "channel": "A 邮箱 → 具名 KP",
-"action": "换收件人再发一封",
+"action": "换收件人再发一封（第 75 批(v) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））",
 "one_question": "Charles, for the media converters in the Canary range, we can be a second source alongside your current Taiwanese supplier — industrial gigabit and PoE MCs plus 8-GE + 2 SFP switches in your packaging from small lots, FCC/CE/RoHS — which MC model do your distributors reorder most? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
@@ -444952,7 +444976,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "A second source for the media converters in the Canary range",
+"body": "Hi Charles,\n\nOver the past months you had a few product mails from us - most recently \"10G Enterprise SFP Switch\" on 16 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the media converters in the Canary range (GT-55PD / GF-55 class), a second source alongside your current Taiwanese supplier, in Canary packaging from small lots, FCC/CE/RoHS: industrial Gigabit converter, 1 x RJ45 + 1 x SFP slot (fixed SC optional) - model STI-110GE - $26.5 USD EXW (MOQ 1, 15-day validity); PoE version - STI-111GP - $30.1; and an 8 x Gigabit + 2 x SFP unmanaged DIN switch - STI-280GE - $46.\n\nOne question: which converter model do your distributors reorder most - that is the one worth a side-by-side with the Volktek unit?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }

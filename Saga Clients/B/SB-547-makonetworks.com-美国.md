@@ -36,7 +36,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424XGGPM-280W — 自有标 CMS 管理型交换机（大口）→ 24 口 PoE+ 4×10G L2+ STC-424XGGPM-280W（$180 @30%）/ 非 PoE STC-424XGGM 贴 Mako 标；CMS 纳管需其固件/代理适配。已打开的主题（1/23 封有打开记录）：「24 Port Fiber Switch」(2025-07-21) → 读者兴趣偏「MC/光电」；与 P1 同类，继续；换人再触锚价 STC-424XGGPM-280W $180 EXW（现价轮群发 $180（㉕②）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-22 $65（10G media converter）、2024-12-17 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2025-07-21 $240（24 Port Fiber Switch）、2025-10-09 $280（10G Enterprise SFP Switch）（㉕ ②：STC-424XGGPM-280W / STC-448XGGPM 文本价改为群发现价 $180 / $335；第 75 批 2026-10-25）
 - **第一问（只问一个）**：Todd, for the Mako-branded managed switch line, we can be a second ODM source on a Marvell L2+ platform (24-GE/PoE + 4×10G, 48-port) from small lots, with SNMP/CLI access for your CMS integration — would your team evaluate a sample unit? Reference: STC-424XGGPM-280W at $180 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封（第 75 批(v) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用）；钩子「CLI」不写——未核实；MIB 写「I can get you」）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -47,7 +47,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：自有标 CMS 管理型交换机（大口）→ 24 口 PoE+ 4×10G L2+ STC-424XGGPM-280W（$180 @30%）/ 非 PoE STC-424XGGM 贴 Mako 标；CMS 纳管需其固件/代理适配
 - **断点 / 为什么停在这里**：云管理（Mako CMS）纳管：需其固件/代理适配，Saga 仅硬件 L2+
 - **Saga 现在该推什么**：P1 **STC-424XGGPM-280W**（30% 档，换人再触锚价 STC-424XGGPM-280W $180 EXW（现价轮群发 $180（㉕②）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-22 $65（10G media converter）、2024-12-17 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2025-07-21 $240（24 Port Fiber Switch）、2025-10-09 $280（10G Enterprise SFP Switch）（㉕ ②：STC-424XGGPM-280W / STC-448XGGPM 文本价改为群发现价 $180 / $335；第 75 批 2026-10-25））——自有标 CMS 管理型交换机（大口）→ 24 口 PoE+ 4×10G L2+ STC-424XGGPM-280W（$180 @30%）/ 非 PoE STC-424XGGM 贴 Mako 标；CMS 纳管需其固件/代理适配。已打开的主题（1/23 封有打开记录）：「24 Port Fiber Switch」(2025-07-21) → 读者兴趣偏「MC/光电」；与 P1 同类，继续
-- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封（第 75 批(v) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用）；钩子「CLI」不写——未核实；MIB 写「I can get you」）
   - 第一问（只问一个）：Todd, for the Mako-branded managed switch line, we can be a second ODM source on a Marvell L2+ platform (24-GE/PoE + 4×10G, 48-port) from small lots, with SNMP/CLI access for your CMS integration — would your team evaluate a sample unit? Reference: STC-424XGGPM-280W at $180 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -270,23 +270,23 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-424XGGPM-280W - 24-port Gigabit PoE+ L2+ managed switch with 4x10G SFP+ uplinks (Marvell-based, neutral label)
+**主题**：The Mako-branded managed switch line - a second ODM source with SNMP for CMS
 
 ```text
 Hi Todd,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the Mako-branded managed switch line, we can be a second ODM source on a Marvell L2+ platform (24-GE/PoE + 4×10G, 48-port) from small lots, with SNMP/CLI access for your CMS integration — would your team evaluate a sample unit?
+Over the past months you had a few product mails from us - most recently "Managed Optical Bypass Switch" on 27 February 2026 - and there was no reason to answer a mass mail. This one is specific.
 
-We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch with 4x10G SFP+ uplinks - model STC-424XGGPM-280W - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $180 USD EXW (valid 15 days).
+For the Mako-branded managed switch line, a second ODM source on a Marvell L2+ platform from small lots, FCC/CE/RoHS: 24 x Gigabit PoE+ (280 W) + 4 x 10G SFP+ - model STC-424XGGPM-280W - $180 USD EXW (MOQ 1, 15-day validity); the non-PoE version - STC-424XGGM - $138.0. SNMP and a web GUI with the Mako logo; I can get you the MIB files for your CMS integration before you commit to a sample.
 
-If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: would your team evaluate one sample unit against the CMS, and which of the two?
 
 Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Simon
+Saga Telecom - sagatele.com
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 

@@ -97,7 +97,7 @@
   "next_move": {
    "when": "2027-Q1（换人后）",
    "channel": "A 邮箱 → 具名 KP",
-   "action": "换收件人再发一封",
+   "action": "换收件人再发一封（第 75 批(v) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））",
    "one_question": "For the industrial-grade switches that complement your NV-series Ethernet extenders, we can supply DIN-rail 8-GE and 8-PoE + 2 SFP units under your label from small lots (−40~75 °C, FCC/CE/RoHS) — which port count do your extender customers ask for most? Reference: STI-080GE at $32.5 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
@@ -119,7 +119,10 @@
    }
   ],
   "proof_gaps": [],
-  "draft_en": null,
+  "draft_en": {
+   "subject": "Industrial switches next to the NV-series extenders - under the Netsys label",
+   "body": "Hello Netsys team,\n\nOver the past months you had a few product mails from us - most recently \"Managed Optical Bypass Switch\" on 8 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nExtenders are yours and we do not build them. For the industrial switches that sit next to the NV-series in a cabinet, under the Netsys label from small lots, -40 to 75 C, FCC/CE/RoHS: DIN-rail 8 x Gigabit unmanaged - model STI-080GE - $32.5 USD EXW (MOQ 1, 15-day validity); 8 x Gigabit PoE+ + 2 x SFP unmanaged - STI-288GP - $62.2.\n\nOne question: which port count do your extender customers ask for most - 5, 8 or 16?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+  },
   "as_of": "2026-10-24"
  }
 }
