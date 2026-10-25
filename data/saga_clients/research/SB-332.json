@@ -1,122 +1,122 @@
 {
-  "code": "SB-332",
-  "name_official": "AMG Systems Ltd（英国 Biggleswade）",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（amgsystems.com，快照 2026-10-21）",
-  "summary": "英国工业网络传输方案制造商（工业 IP/以太网、光纤、PoE、无线；MC、管理 / 非管理交换机、4G；+44 1767 600777；美国销售 usasales@），Steve Clarke；表内「MC SFP 工业 FS 自己的牌子；重要：光路 10G MC（AMG210M 系列）可多跟进」；群发 16 次无回复。英国品牌商 → OEM 30%。",
-  "type": "",
-  "size": "",
-  "brands_seen": [
-    "AMG（自有）"
-  ],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "工业 IP/以太网、光纤、PoE、无线传输方案：MC、管理 / 非管理交换机、4G；+44 (0)1767 600777",
-      "quote": "Industrial IP/Ethernet, Fibre Optic, PoE & Wireless network transmission solutions: Media Converters, Managed and Unmanaged Switches, Wireless and 4G",
-      "url": "https://amgsystems.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "MC SFP 工业 FS 自己的牌子；重要光路 10G MC（AMG210M 系列）；可以多跟进一下",
-      "quote": "兴趣：MC SFP 工业FS 自己的牌子 https://www.amgsystems.com/english/products/amg210m-series-10gb",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Steve Clarke",
-      "title": "（表内联系人）",
-      "email": "steve.clarke@amgsystems.com",
-      "phone": "+44 1767 600 777",
-      "source": "（本地 Clients/ 表格，无公开 URL）"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（官网快照核对 + 表内）"
+ "code": "SB-332",
+ "name_official": "AMG Systems Ltd（英国 Biggleswade）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（amgsystems.com，快照 2026-10-21）",
+ "summary": "英国工业网络传输方案制造商（工业 IP/以太网、光纤、PoE、无线；MC、管理 / 非管理交换机、4G；+44 1767 600777；美国销售 usasales@），Steve Clarke；表内「MC SFP 工业 FS 自己的牌子；重要：光路 10G MC（AMG210M 系列）可多跟进」；群发 16 次无回复。英国品牌商 → OEM 30%。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "AMG（自有）"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "工业 IP/以太网、光纤、PoE、无线传输方案：MC、管理 / 非管理交换机、4G；+44 (0)1767 600777",
+   "quote": "Industrial IP/Ethernet, Fibre Optic, PoE & Wireless network transmission solutions: Media Converters, Managed and Unmanaged Switches, Wireless and 4G",
+   "url": "https://amgsystems.com/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "legal_name": "AMG Systems Ltd",
-    "founded": "1986（待核）",
-    "hq": "Biggleswade, Bedfordshire, UK",
-    "size": "中型品牌商（工业传输）",
-    "other": "AMG210M 10G MC 系列；美国分销"
-  },
-  "business_lines": [
-    "工业以太网 / 光纤传输设备（自有品牌，部分外购）"
-  ],
-  "channels": {
-    "role": "英国品牌商（OEM 采购）",
-    "region": "英国 + 美国"
-  },
-  "signals": [
-    "自有品牌全线 → 贴牌 OEM；10G MC 为其重点（SmartByte 另询）",
-    "具名联系人"
-  ],
-  "risks": [
-    "10G MC 不在 Saga 价目（SmartByte 型号另询）",
-    "16 次群发无回复"
-  ],
-  "saga_fit": {
-    "p1": "STI-288GPM",
-    "tier": 30,
-    "why": "AMG 工业管理 PoE 线补 SKU → STI-288GPM（$85.5 @30%）贴 AMG 标；10G MC 按 SmartByte 注明。"
-  },
-  "email_hook": "Steve, for the AMG managed PoE and media-converter lines — Marvell-based DIN 8-PoE + 2-SFP managed under the AMG label from small lots (CE/UKCA/RoHS), plus 10G SFP+/RJ45 converters on request; which SKU is next for re-sourcing?",
-  "mail_review": {
-    "binding": {
-      "level": "未触达（A/S 邮箱 25 封 2024→2026，无记录打开，0 回；收件 sales@amgsystems.com, steve.clarke@amgsystems.com；主题多为「Marvell Industrial Alert System、10G Enterprise SFP Switch」）",
-      "type": "—",
-      "sieve": "1（只收到群发）",
-      "stop": "25 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱；Q-33 供应商渠道客户",
-      "revive": "不动（Q-33）",
-      "lane": "UK 主攻（四主）",
-      "cadence": "不动",
-      "evidence": "gmail_digest：out 25；用户表：「兴趣：MC SFP 工业FS 自己的牌子 https://www.amgsystems.com/english/products/amg210m-series-」；研究档 risks：10G MC 不在 Saga 价目（SmartByte 型号另询）"
-    },
-    "situation": "英国工业网络传输方案制造商（工业 IP/以太网、光纤、PoE、无线；MC、管理 / 非管理交换机、4G；+44 1767 600777；美国销售 usasales@），Steve Clarke；表内「MC SFP 工业 FS 自己的牌子；重要：光路 10G MC（AMG210M 系列）可多跟进」；群发 16 次无回复。英国品牌商 → OEM 30%。",
-    "need": "AMG 工业管理 PoE 线补 SKU → STI-288GPM（$85.5 @30%）贴 AMG 标；10G MC 按 SmartByte 注明。",
-    "breakpoint": "10G MC 不在 Saga 价目（SmartByte 型号另询）",
-    "saga_now": {
-      "p1": "STI-288GPM",
-      "tier": 30,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-22 $300（PoE managed switch）；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-29 $280（10G Enterprise SFP Switch）",
-      "why": "AMG 工业管理 PoE 线补 SKU → STI-288GPM（$85.5 @30%）贴 AMG 标；10G MC 按 SmartByte 注明。",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "不动",
-      "channel": "—",
-      "action": "—",
-      "one_question": ""
-    },
-    "facts": [
-      {
-        "date": "2026-08-14",
-        "dir": "去",
-        "who": "A/S 群发",
-        "quote": "Marvell Industrial Alert System、10G Enterprise SFP Switch",
-        "why": "25 封 / 0 次打开 / 0 回｜首封 2024-07-04 → 末封 2026-08-14（25 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "兴趣：MC SFP 工业FS 自己的牌子 https://www.amgsystems.com/english/products/amg210m-series-10gb",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "MC SFP 工业 FS 自己的牌子；重要光路 10G MC（AMG210M 系列）；可以多跟进一下",
+   "quote": "兴趣：MC SFP 工业FS 自己的牌子 https://www.amgsystems.com/english/products/amg210m-series-10gb",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Steve Clarke",
+   "title": "（表内联系人）",
+   "email": "steve.clarke@amgsystems.com",
+   "phone": "+44 1767 600 777",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照核对 + 表内）"
+ },
+ "company_facts": {
+  "legal_name": "AMG Systems Ltd",
+  "founded": "1986（待核）",
+  "hq": "Biggleswade, Bedfordshire, UK",
+  "size": "中型品牌商（工业传输）",
+  "other": "AMG210M 10G MC 系列；美国分销"
+ },
+ "business_lines": [
+  "工业以太网 / 光纤传输设备（自有品牌，部分外购）"
+ ],
+ "channels": {
+  "role": "英国品牌商（OEM 采购）",
+  "region": "英国 + 美国"
+ },
+ "signals": [
+  "自有品牌全线 → 贴牌 OEM；10G MC 为其重点（SmartByte 另询）",
+  "具名联系人"
+ ],
+ "risks": [
+  "10G MC 不在 Saga 价目（SmartByte 型号另询）",
+  "16 次群发无回复"
+ ],
+ "saga_fit": {
+  "p1": "STI-288GPM",
+  "tier": 30,
+  "why": "AMG 工业管理 PoE 线补 SKU → STI-288GPM（$85.5 @30%）贴 AMG 标；10G MC 按 SmartByte 注明。"
+ },
+ "email_hook": "Steve, for the AMG managed PoE and media-converter lines — Marvell-based DIN 8-PoE + 2-SFP managed under the AMG label from small lots (CE/UKCA/RoHS), plus 10G SFP+/RJ45 converters on request; which SKU is next for re-sourcing?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 25 封 2024→2026，无记录打开，0 回；收件 sales@amgsystems.com, steve.clarke@amgsystems.com；主题多为「Marvell Industrial Alert System、10G Enterprise SFP Switch」；Elsa 箱：`to:amgsystems.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 25 / 来 0）（第 74 批(j)））",
+   "type": "—",
+   "sieve": "1（只收到群发）",
+   "stop": "25 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱；Q-33 供应商渠道客户",
+   "revive": "不动（Q-33）",
+   "lane": "UK 主攻（四主）",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 25；用户表：「兴趣：MC SFP 工业FS 自己的牌子 https://www.amgsystems.com/english/products/amg210m-series-」；研究档 risks：10G MC 不在 Saga 价目（SmartByte 型号另询）"
+  },
+  "situation": "英国工业网络传输方案制造商（工业 IP/以太网、光纤、PoE、无线；MC、管理 / 非管理交换机、4G；+44 1767 600777；美国销售 usasales@），Steve Clarke；表内「MC SFP 工业 FS 自己的牌子；重要：光路 10G MC（AMG210M 系列）可多跟进」；群发 16 次无回复。英国品牌商 → OEM 30%。",
+  "need": "AMG 工业管理 PoE 线补 SKU → STI-288GPM（$85.5 @30%）贴 AMG 标；10G MC 按 SmartByte 注明。",
+  "breakpoint": "10G MC 不在 Saga 价目（SmartByte 型号另询）",
+  "saga_now": {
+   "p1": "STI-288GPM",
+   "tier": 30,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-22 $300（PoE managed switch）；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-29 $280（10G Enterprise SFP Switch）",
+   "why": "AMG 工业管理 PoE 线补 SKU → STI-288GPM（$85.5 @30%）贴 AMG 标；10G MC 按 SmartByte 注明。",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026-08-14",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Marvell Industrial Alert System、10G Enterprise SFP Switch",
+    "why": "25 封 / 0 次打开 / 0 回｜首封 2024-07-04 → 末封 2026-08-14（25 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：MC SFP 工业FS 自己的牌子 https://www.amgsystems.com/english/products/amg210m-series-10gb",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

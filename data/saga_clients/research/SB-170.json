@@ -1,120 +1,120 @@
 {
-  "code": "SB-170",
-  "name_official": "Bos Italy S.r.l.（意大利维琴察）",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（bositaly.it，快照 2026-10-21）",
-  "summary": "意大利网络 / 安防分销商 Bos Italy（+39 0444 868678；poe 101 / switch 99 / industrial 22），info@（表内「可多跟进」）；表内「工业 FS，Hasivo 的」；群发 13 次无回复。",
-  "type": "",
-  "size": "",
-  "brands_seen": [
-    "Hasivo"
-  ],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "Bos Italy S.r.l.；+39 0444 868678",
-      "quote": "Bos Italy S.r.l.",
-      "url": "https://bositaly.it/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "工业 FS Hasivo 的；可以尝试多跟进一下",
-      "quote": "兴趣：工业FS Hasivo的",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "（未具名）",
-      "title": "",
-      "email": "info@bositaly.it",
-      "phone": "+39 0444 868678",
-      "source": "（本地 Clients/ 表格，无公开 URL）"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（官网快照核对 + 表内）"
+ "code": "SB-170",
+ "name_official": "Bos Italy S.r.l.（意大利维琴察）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（bositaly.it，快照 2026-10-21）",
+ "summary": "意大利网络 / 安防分销商 Bos Italy（+39 0444 868678；poe 101 / switch 99 / industrial 22），info@（表内「可多跟进」）；表内「工业 FS，Hasivo 的」；群发 13 次无回复。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "Hasivo"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "Bos Italy S.r.l.；+39 0444 868678",
+   "quote": "Bos Italy S.r.l.",
+   "url": "https://bositaly.it/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "legal_name": "Bos Italy S.r.l.",
-    "founded": "",
-    "hq": "Vicenza, Italy（+39 0444）",
-    "size": "小型分销",
-    "other": "已售 Hasivo 工业 FS"
-  },
-  "business_lines": [
-    "网络 / 安防分销"
-  ],
-  "channels": {
-    "role": "分销商（已售中国同行）",
-    "region": "意大利"
-  },
-  "signals": [
-    "已售 Hasivo 工业 FS → 同类替换"
-  ],
-  "risks": [
-    "13 次群发无回复；无具名"
-  ],
-  "saga_fit": {
-    "p1": "STI-288GP",
-    "tier": 20,
-    "why": "对位 Hasivo 工业 2 光 8 PoE → STI-288GP（$57.4 @20%）。"
-  },
-  "email_hook": "Buongiorno — beside the Hasivo industrial switches: DIN 2-SFP + 8-PoE at $57 and Marvell managed at $79 EXW, CE/RoHS; shall I send a sample to Vicenza?",
-  "mail_review": {
-    "binding": {
-      "level": "未触达（A/S 邮箱 22 封 2024→2026，无记录打开，0 回；收件 info@bositaly.it；主题多为「Industrial PoE Switch、24 Port Fiber Switch」）",
-      "type": "—",
-      "sieve": "1（只收到群发）",
-      "stop": "只打通用邮箱，无记录打开",
-      "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
-      "lane": "意大利（欧洲全域主攻）",
-      "cadence": "一封",
-      "evidence": "gmail_digest：out 22；用户表：「兴趣：工业FS Hasivo的」；研究档 risks：13 次群发无回复；无具名"
-    },
-    "situation": "意大利网络 / 安防分销商 Bos Italy（+39 0444 868678；poe 101 / switch 99 / industrial 22），info@（表内「可多跟进」）；表内「工业 FS，Hasivo 的」；群发 13 次无回复。",
-    "need": "对位 Hasivo 工业 2 光 8 PoE → STI-288GP（$57.4 @20%）。",
-    "breakpoint": "13 次群发无回复；无具名",
-    "saga_now": {
-      "p1": "STI-288GP",
-      "tier": 20,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-11 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2024-06-28 $65（10G Media Converter）、2025-03-06 $240（24 Port Fiber Switch）、2025-10-16 $280（10G Enterprise SFP Switch）",
-      "why": "对位 Hasivo 工业 2 光 8 PoE → STI-288GP（$57.4 @20%）。",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "2027-Q1（换人后）",
-      "channel": "A 邮箱 → 具名 KP",
-      "action": "换收件人再发一封",
-      "one_question": "Buongiorno — beside the Hasivo industrial switches: DIN 2-SFP + 8-PoE at $57 and Marvell managed at $79 EXW, CE/RoHS; shall I send a sample to Vicenza?"
-    },
-    "facts": [
-      {
-        "date": "2026-09-16",
-        "dir": "去",
-        "who": "A/S 群发",
-        "quote": "Industrial PoE Switch、24 Port Fiber Switch",
-        "why": "22 封 / 0 次打开 / 0 回｜首封 2024-06-28 → 末封 2026-09-16（22 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "兴趣：工业FS Hasivo的",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "工业 FS Hasivo 的；可以尝试多跟进一下",
+   "quote": "兴趣：工业FS Hasivo的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "（未具名）",
+   "title": "",
+   "email": "info@bositaly.it",
+   "phone": "+39 0444 868678",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照核对 + 表内）"
+ },
+ "company_facts": {
+  "legal_name": "Bos Italy S.r.l.",
+  "founded": "",
+  "hq": "Vicenza, Italy（+39 0444）",
+  "size": "小型分销",
+  "other": "已售 Hasivo 工业 FS"
+ },
+ "business_lines": [
+  "网络 / 安防分销"
+ ],
+ "channels": {
+  "role": "分销商（已售中国同行）",
+  "region": "意大利"
+ },
+ "signals": [
+  "已售 Hasivo 工业 FS → 同类替换"
+ ],
+ "risks": [
+  "13 次群发无回复；无具名"
+ ],
+ "saga_fit": {
+  "p1": "STI-288GP",
+  "tier": 20,
+  "why": "对位 Hasivo 工业 2 光 8 PoE → STI-288GP（$57.4 @20%）。"
+ },
+ "email_hook": "Buongiorno — beside the Hasivo industrial switches: DIN 2-SFP + 8-PoE at $57 and Marvell managed at $79 EXW, CE/RoHS; shall I send a sample to Vicenza?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 22 封 2024→2026，无记录打开，0 回；收件 info@bositaly.it；主题多为「Industrial PoE Switch、24 Port Fiber Switch」；Elsa 箱：`to:bositaly.it` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 22 / 来 0）（第 74 批(j)））",
+   "type": "—",
+   "sieve": "1（只收到群发）",
+   "stop": "只打通用邮箱，无记录打开",
+   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+   "lane": "意大利（欧洲全域主攻）",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 22；用户表：「兴趣：工业FS Hasivo的」；研究档 risks：13 次群发无回复；无具名"
+  },
+  "situation": "意大利网络 / 安防分销商 Bos Italy（+39 0444 868678；poe 101 / switch 99 / industrial 22），info@（表内「可多跟进」）；表内「工业 FS，Hasivo 的」；群发 13 次无回复。",
+  "need": "对位 Hasivo 工业 2 光 8 PoE → STI-288GP（$57.4 @20%）。",
+  "breakpoint": "13 次群发无回复；无具名",
+  "saga_now": {
+   "p1": "STI-288GP",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-11 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2024-06-28 $65（10G Media Converter）、2025-03-06 $240（24 Port Fiber Switch）、2025-10-16 $280（10G Enterprise SFP Switch）",
+   "why": "对位 Hasivo 工业 2 光 8 PoE → STI-288GP（$57.4 @20%）。",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1（换人后）",
+   "channel": "A 邮箱 → 具名 KP",
+   "action": "换收件人再发一封",
+   "one_question": "Buongiorno — beside the Hasivo industrial switches: DIN 2-SFP + 8-PoE at $57 and Marvell managed at $79 EXW, CE/RoHS; shall I send a sample to Vicenza?"
+  },
+  "facts": [
+   {
+    "date": "2026-09-16",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Industrial PoE Switch、24 Port Fiber Switch",
+    "why": "22 封 / 0 次打开 / 0 回｜首封 2024-06-28 → 末封 2026-09-16（22 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：工业FS Hasivo的",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

@@ -1,128 +1,128 @@
 {
-  "code": "SB-173",
-  "name_official": "",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（digimax.it，快照 2026-10-21）",
-  "summary": "意大利 Digimax（工业电源 / LED 驱动 / 灯带 / 工业 PC 与显示器分销，现货充足；站内 Mean Well AD-55A/B；表内「工业 FS，迈威（Maiwe）的」；KP Matteo Tirapelle（Operations Manager，m.tirapelle@）、Flavio Zordan（IT Manager））；群发 12 次无回复。",
-  "type": "工业电源与工业 PC 分销商（在售 Maiwe 工业交换机）",
-  "size": "",
-  "brands_seen": [
-    "Maiwe",
-    "Mean Well"
-  ],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "官网标题：Digimax | Alimentatori industriali, driver led, strip led, pc industriali e display；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 网络交换 / PoE",
-      "quote": "Digimax propone la migliore selezione di alimentatori switching, driver led, centraline, neon strip led, pc e display industriali con ampio stock in pronta consegna",
-      "url": "https://www.digimax.it/it",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "工业FS 迈威的",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网快照",
-      "claim": "工业电源 / LED 驱动 / 工业 PC 与显示器，现货",
-      "quote": "Digimax propone la migliore selezione di alimentatori switching, driver led, centraline, neon strip led, pc e display industriali con ampio stock in pronta consegna",
-      "url": "https://www.digimax.it/it",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "工业 FS 迈威的",
-      "quote": "工业FS 迈威的",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Matteo Tirapelle",
-      "title": "Operations Manager",
-      "email": "m.tirapelle@digimax.it",
-      "phone": "",
-      "source": "用户表"
-    },
-    {
-      "name": "Flavio Zordan",
-      "title": "IT Manager",
-      "email": "",
-      "phone": "",
-      "source": "用户表"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ "code": "SB-173",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（digimax.it，快照 2026-10-21）",
+ "summary": "意大利 Digimax（工业电源 / LED 驱动 / 灯带 / 工业 PC 与显示器分销，现货充足；站内 Mean Well AD-55A/B；表内「工业 FS，迈威（Maiwe）的」；KP Matteo Tirapelle（Operations Manager，m.tirapelle@）、Flavio Zordan（IT Manager））；群发 12 次无回复。",
+ "type": "工业电源与工业 PC 分销商（在售 Maiwe 工业交换机）",
+ "size": "",
+ "brands_seen": [
+  "Maiwe",
+  "Mean Well"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Digimax | Alimentatori industriali, driver led, strip led, pc industriali e display；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 网络交换 / PoE",
+   "quote": "Digimax propone la migliore selezione di alimentatori switching, driver led, centraline, neon strip led, pc e display industriali con ampio stock in pronta consegna",
+   "url": "https://www.digimax.it/it",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "hq": "意大利",
-    "other": "官网 digimax.it，语言 it，快照状态 ok；角色判定来源：官网文案"
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "工业FS 迈威的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "工业开关电源 / LED 驱动（Mean Well 等）分销",
-    "工业 PC / 显示器",
-    "工业交换机（Maiwe）"
-  ],
-  "channels": {
-    "role": "工业电源与工业 PC 分销商（在售 Maiwe 工业交换机）",
-    "region": "意大利",
-    "contact": "digimax@digimax.it、m.tirapelle@digimax.it"
+  {
+   "kind": "官网快照",
+   "claim": "工业电源 / LED 驱动 / 工业 PC 与显示器，现货",
+   "quote": "Digimax propone la migliore selezione di alimentatori switching, driver led, centraline, neon strip led, pc e display industriali con ampio stock in pronta consegna",
+   "url": "https://www.digimax.it/it",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "官网：alimentatori switching, driver led, centraline, neon strip led, pc e display industriali con ampio stock",
-    "站内 kw：industrial 696 / automation 112 / ethernet 98",
-    "KP：Matteo Tirapelle / Operations Manager；Flavio Zordan / IT Manager（表内）"
-  ],
-  "risks": [
-    "现货源 Maiwe（武汉）价格基准低：需以 Marvell 平台/交期切入",
-    "群发 12 次无回复：改向 Operations Manager 具名首触"
-  ],
-  "saga_fit": {
-    "p1": "STI-280GE",
-    "tier": 20,
-    "why": "在售 Maiwe 工业交换机 → 同口型替换：工业非管理 8 GE + 2 SFP STI-280GE（$46.6 @20%）、PoE 版 STI-288GP（$57.4）、管理型 STI-288GPM"
-  },
-  "email_hook": "Matteo, next to the Maiwe industrial switches you stock, we supply DIN-rail 8-GE + 2 SFP unmanaged and PoE models (−40~75 °C, 12–58 VDC) in neutral packing from small lots — which Maiwe model turns fastest for you, so we quote its equivalent first?",
-  "mail_review": {
-    "binding": {
-      "level": "未触达（1 封自动回复）",
-      "type": "意大利工业电源/工业 PC 分销（Digimax；在售 Maiwe）",
-      "sieve": "0",
-      "stop": "自动回复/机器人，无人工回复",
-      "revive": "不动",
-      "lane": "IT",
-      "cadence": "不动",
-      "evidence": "k=c1e244fa91a9d099"
-    },
-    "situation": "来信全部为机器回复；无人读信或无人回信。",
-    "need": "—",
-    "breakpoint": "—",
-    "saga_now": {
-      "p1": "—",
-      "tier": 20,
-      "price": "—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-19 $65（10G media converter）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-15 $280（10G Enterprise SFP Switch）",
-      "why": "—",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "不动",
-      "channel": "—",
-      "action": "—",
-      "one_question": ""
-    },
-    "facts": [],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "工业 FS 迈威的",
+   "quote": "工业FS 迈威的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Matteo Tirapelle",
+   "title": "Operations Manager",
+   "email": "m.tirapelle@digimax.it",
+   "phone": "",
+   "source": "用户表"
+  },
+  {
+   "name": "Flavio Zordan",
+   "title": "IT Manager",
+   "email": "",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "意大利",
+  "other": "官网 digimax.it，语言 it，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "工业开关电源 / LED 驱动（Mean Well 等）分销",
+  "工业 PC / 显示器",
+  "工业交换机（Maiwe）"
+ ],
+ "channels": {
+  "role": "工业电源与工业 PC 分销商（在售 Maiwe 工业交换机）",
+  "region": "意大利",
+  "contact": "digimax@digimax.it、m.tirapelle@digimax.it"
+ },
+ "signals": [
+  "官网：alimentatori switching, driver led, centraline, neon strip led, pc e display industriali con ampio stock",
+  "站内 kw：industrial 696 / automation 112 / ethernet 98",
+  "KP：Matteo Tirapelle / Operations Manager；Flavio Zordan / IT Manager（表内）"
+ ],
+ "risks": [
+  "现货源 Maiwe（武汉）价格基准低：需以 Marvell 平台/交期切入",
+  "群发 12 次无回复：改向 Operations Manager 具名首触"
+ ],
+ "saga_fit": {
+  "p1": "STI-280GE",
+  "tier": 20,
+  "why": "在售 Maiwe 工业交换机 → 同口型替换：工业非管理 8 GE + 2 SFP STI-280GE（$46.6 @20%）、PoE 版 STI-288GP（$57.4）、管理型 STI-288GPM"
+ },
+ "email_hook": "Matteo, next to the Maiwe industrial switches you stock, we supply DIN-rail 8-GE + 2 SFP unmanaged and PoE models (−40~75 °C, 12–58 VDC) in neutral packing from small lots — which Maiwe model turns fastest for you, so we quote its equivalent first?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（1 封自动回复；Elsa 箱：`to:digimax.it` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 20 / 来 1）（第 74 批(j)））",
+   "type": "意大利工业电源/工业 PC 分销（Digimax；在售 Maiwe）",
+   "sieve": "0",
+   "stop": "自动回复/机器人，无人工回复",
+   "revive": "不动",
+   "lane": "IT",
+   "cadence": "不动",
+   "evidence": "k=c1e244fa91a9d099"
+  },
+  "situation": "来信全部为机器回复；无人读信或无人回信。",
+  "need": "—",
+  "breakpoint": "—",
+  "saga_now": {
+   "p1": "—",
+   "tier": 20,
+   "price": "—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-19 $65（10G media converter）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-15 $280（10G Enterprise SFP Switch）",
+   "why": "—",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

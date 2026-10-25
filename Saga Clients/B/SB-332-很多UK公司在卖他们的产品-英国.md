@@ -27,7 +27,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -44,7 +44,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-332` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A/S 邮箱 25 封 2024→2026，无记录打开，0 回；收件 sales@amgsystems.com, steve.clarke@amgsystems.com；主题多为「Marvell Industrial Alert System、10G Enterprise SFP Switch」）** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：25 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱；Q-33 供应商渠道客户 ｜ 复活：不动（Q-33） ｜ 通路：UK 主攻（四主） ｜ 节奏：不动 ｜ 证据：gmail_digest：out 25；用户表：「兴趣：MC SFP 工业FS 自己的牌子 https://www.amgsystems.com/english/products/amg210m-series-」；研究档 risks：10G MC 不在 Saga 价目（SmartByte 型号另询）
+- **绑定等级：未触达（A/S 邮箱 25 封 2024→2026，无记录打开，0 回；收件 sales@amgsystems.com, steve.clarke@amgsystems.com；主题多为「Marvell Industrial Alert System、10G Enterprise SFP Switch」；Elsa 箱：`to:amgsystems.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 25 / 来 0）（第 74 批(j)））** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：25 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱；Q-33 供应商渠道客户 ｜ 复活：不动（Q-33） ｜ 通路：UK 主攻（四主） ｜ 节奏：不动 ｜ 证据：gmail_digest：out 25；用户表：「兴趣：MC SFP 工业FS 自己的牌子 https://www.amgsystems.com/english/products/amg210m-series-」；研究档 risks：10G MC 不在 Saga 价目（SmartByte 型号另询）
 - **现状一句话**：英国工业网络传输方案制造商（工业 IP/以太网、光纤、PoE、无线；MC、管理 / 非管理交换机、4G；+44 1767 600777；美国销售 usasales@），Steve Clarke；表内「MC SFP 工业 FS 自己的牌子；重要：光路 10G MC（AMG210M 系列）可多跟进」；群发 16 次无回复。英国品牌商 → OEM 30%。
 - **对方真实需求（有据）**：AMG 工业管理 PoE 线补 SKU → STI-288GPM（$85.5 @30%）贴 AMG 标；10G MC 按 SmartByte 注明。
 - **断点 / 为什么停在这里**：10G MC 不在 Saga 价目（SmartByte 型号另询）
@@ -302,12 +302,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 44）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 44）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

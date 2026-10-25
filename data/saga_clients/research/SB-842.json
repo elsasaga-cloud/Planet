@@ -1,352 +1,352 @@
 {
-  "code": "SB-842",
-  "name_official": "",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（itmsystems.co.uk，快照 2026-10-21）",
-  "summary": "英国 ITM Systems（网络安全、视频监控与分析、IT 基础设施设计、网络；表内「Utepo 的工业 FS」；KP Steve「深度沟通中」，由 info@itmsystems.net 回复）；群发 16 次，有回复（深度沟通中）。",
-  "type": "安防/IT 集成商（英国，有回复，工业 FS 现 Utepo）",
-  "size": "",
-  "brands_seen": [
-    "Utepo"
-  ],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "官网标题：ITM Systems|Cyber Security|Video Surveillance & Analytics|IT Infrastructure Design| Networ；品类词 安防监控（CCTV / 门禁） / 网络交换 / PoE",
-      "quote": "ITM CORE SERVICES；WHY YOU CAN CHOOSE US；Request a Call back TODAY......+44 1733 567 259",
-      "url": "https://www.itmsystems.co.uk/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "Utepo的工业FS；info@itmsystems.net 这个邮箱回复的",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网快照",
-      "claim": "ITM 定位",
-      "quote": "ITM Systems|Cyber Security|Video Surveillance & Analytics|IT Infrastructure Design ; ITM CORE SERVICES",
-      "url": "https://www.itmsystems.co.uk/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "Utepo 工业 FS；深度沟通中",
-      "quote": "Utepo的工业FS；Steve / 深度沟通中；info@itmsystems.net 这个邮箱回复的",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Steve",
-      "title": "（职务待核）",
-      "email": "info@itmsystems.net",
-      "phone": "",
-      "source": "用户表"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ "code": "SB-842",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（itmsystems.co.uk，快照 2026-10-21）",
+ "summary": "英国 ITM Systems（网络安全、视频监控与分析、IT 基础设施设计、网络；表内「Utepo 的工业 FS」；KP Steve「深度沟通中」，由 info@itmsystems.net 回复）；群发 16 次，有回复（深度沟通中）。",
+ "type": "安防/IT 集成商（英国，有回复，工业 FS 现 Utepo）",
+ "size": "",
+ "brands_seen": [
+  "Utepo"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：ITM Systems|Cyber Security|Video Surveillance & Analytics|IT Infrastructure Design| Networ；品类词 安防监控（CCTV / 门禁） / 网络交换 / PoE",
+   "quote": "ITM CORE SERVICES；WHY YOU CAN CHOOSE US；Request a Call back TODAY......+44 1733 567 259",
+   "url": "https://www.itmsystems.co.uk/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "hq": "英国",
-    "other": "官网 itmsystems.co.uk，语言 en-US，快照状态 ok；角色判定来源：官网文案"
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "Utepo的工业FS；info@itmsystems.net 这个邮箱回复的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "网络安全 / 视频监控 / IT 基础设施（英国）"
-  ],
-  "channels": {
-    "role": "安防/IT 集成商（英国，有回复，工业 FS 现 Utepo）",
-    "region": "英国",
-    "contact": "info@itmsystems.co.uk、info@itmsystems.net"
+  {
+   "kind": "官网快照",
+   "claim": "ITM 定位",
+   "quote": "ITM Systems|Cyber Security|Video Surveillance & Analytics|IT Infrastructure Design ; ITM CORE SERVICES",
+   "url": "https://www.itmsystems.co.uk/",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "官网：ITM Systems|Cyber Security|Video Surveillance & Analytics|IT Infrastructure Design| Networ… ; ITM CORE SERVICES；kw camera 15 / access control 10 / surveillance 8",
-    "表内：Utepo 的工业 FS；Steve / 深度沟通中；info@itmsystems.net 这个邮箱回复的"
-  ],
-  "risks": [
-    "有回复/深度沟通中——沟通内容在 Gmail 待核，续谈勿重复首触；现供 Utepo 价格基准低"
-  ],
-  "saga_fit": {
-    "p1": "STI-288GP",
-    "tier": 25,
-    "why": "工业 FS（现 Utepo）→ 工业 8 PoE + 2 SFP 非管理 STI-288GP（$59.8 @25%）/ 管理 STI-288GPM（$82.2）、4 PoE + 1 SFP STI-154GP（$39.2）；室内 STC-28DGGPM（$84.1）"
-  },
-  "email_hook": "Steve, following our ongoing exchange on industrial PoE: for the Utepo positions in your surveillance projects we can supply DIN-rail 4-PoE + 1 SFP and 8-PoE + 2 SFP (managed on Marvell L2+, or unmanaged, −40~75 °C, CE/RoHS/UKCA) from single units, EXW USD — shall I quote one evaluation unit of the 8-PoE managed model?",
-  "mail_review": {
-    "binding": {
-      "level": "轻度（已报价、对方高层批准、未付款）",
-      "type": "英国 MSP/网络安全集成商（技术流 + 要 OEM 协议）",
-      "sieve": "2→3 之间（反复索要规格/价格、CEO 审批中；无 PI、无付款）",
-      "stop": "对方内部：CEO 审批 + 终端客户验证；Saga 侧曾因 CENTEC 400G 批次没货拖到 2026-08 才「ready to ship」",
-      "revive": "ITM 终端客户项目重启 / Senior Manager 回复；或 Saga 有 800G 可测（对方 5-19 问过）",
-      "lane": "UK 已通（Go Green IT 已成交；DHL/UPS DAP）",
-      "cadence": "最后 2026-09-07 Alan 问进展（无回）；2026-08-15 Steve「will get back to you」；实质往来 2025-11-11 → 2026-08-15 约 25 轮",
-      "evidence": "A 邮箱 k=4093fbb543ef9f90 / d4ad954f1fff2bea / c59e4367bd0deb77 / 87738057b3f134de；A 邮箱附件正文 `data/gmail_a/attachments/text/`（2026-10-24 对表）；A 邮箱外发报价单正文（`data/gmail_a/attachments/text/`，2026-10-24 对表）；第 19 批回补来信原文 8 条（gmail_s/gmail_a）"
-    },
-    "situation": "英国 ITM Systems（Steve / Stan，info@itmsystems.net）2025-11 回群发后一路升级：要目录 → 「recommend… OEM agreement with Saga」→ 问 SDK/API、合作伙伴数 → 2026-01 要核心汇聚机规格 → 2026-02-05「secured the approval of all Senior Management… waiting for CEO approval」→ 2026-03-20 正式要 **6 台 400G L3 OEM + 每台 6×QSFP112** 报价（A 总览：$107,675）→ 4–5 月「project still alive」「customer will pay within 30 days」→ Saga 侧 7–8 月才备齐货 → 8-15 Steve 汇报高层后再无回音。**A 邮箱里金额最大的在谈单，卡在对方。**",
-    "need": "① 400G L3 数据中心交换机 6 台（OEM 贴牌）+ 6×QSFP112/台，交付英国；② 2026-02 曾问 BGP/OSPFv2/IS-IS 支持、能否对标 Juniper MX204 功能（「not looking to get MX204… a device from Saga that has similar functionalities」）；③ 长期：想在 Saga 交换机上叠加自家网络安全工具（2025-11-12），要 OEM/ODM + SDK/API。",
-    "breakpoint": "双向时间差：3–5 月对方急（客户 30 天付款），Saga 400G 批次要等 Hohunet 7–8 月；8 月 Saga 有货时对方节奏已松。另有结构性问题：SDK/API 不是 Saga 路线（C4/E2），对方「叠加安全工具」的设想迟早撞边界。",
-    "saga_now": {
-      "p1": "CENTEC 400G 32×QSFP112 DC 交换机（已报价规格不变）",
-      "tier": 25,
-      "price": "已报 $107,675（6 台 + 模块，2026-03 快照）；重报须按 Hohunet 当期批次价重算，不沿用；历史报价（邮件原话 2026-02-28，老汇率）：STH-32C-HSI 32×100G $6,000/pc（MA License, PeakNetX）；STH-32QC-HSI 32×400G $16,000/pc（SerdesX）；STH-64QC-HSI 64×400G 邮件写 \"3200USD/PC\"（明显少一位，应为 $32,000 级，重报前核对）；800G 当时无价；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-10 $220（48 port managed switch）；**进价对照（HohuNet 报价单 2026-02-28：S8532-EI = STH-32QC-HSI 90,000 RMB；S8564-EI 180,000）：$16,000 → 毛利 @7 19.6% / @6.69 15.9%（未含 DHL $850）；64QC 按同比例 ≈ $32,000（证实 3200 是笔误）；35% 地板 $20,700 / $41,400 @6.69（CENTEC 锚表 §5.2）**；群发里他已看到的价（续，第 66 批全量复核）：2024-06-13 $65（10G Media Converter）、2025-02-28 $240（24 Port Fiber Switch）、2025-09-26 $280（10G Enterprise SFP Switch）",
-      "why": "集成商 25% 档；DC 线是 Hohunet 批次搭车（Q-50 默认），有货才卖，不囤｜已发资料（勿重发）：Download Link_Alan(2025-11-11)、Product Link_2026Q2(2026-02-03)；已发单据：Quotation_2026.03.20(2026-03-20)、Quotation_2026.03.23(2026-03-23)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）｜对外统一口径（#2）：2025-11-26 Alan 说「SDK/API is part of our TTC services (…SDK/Source Code)」与对 Netaş 的「source code NEVER」矛盾——以后统一「不开放源码/SDK，接口 = SNMP(含客户 OID)+CLI+Web」；若 Steve 再提 SDK，直接给这条边界",
-      "repeat": [],
-      "gaps": [
-        "SDK/API：不提供（只 SNMP/CLI/标准 MIB），下次回信直接说清",
-        "800G：无，不许诺",
-        "400G 现货是否仍在（8-03「ready to ship」的 6 台是否已被他人买走）——由 Simon 向 Hohunet 核，代理不问",
-        "报价单写交期 12~15 周（按单生产），群发却说「Ready in stock」——同一客户两处看到两个说法；重开报价前定一个"
-      ]
-    },
-    "next_move": {
-      "when": "2026-11 上旬（9-07 追问满 2 个月）",
-      "channel": "A 邮箱 → info@itmsystems.net（Steve；回 9-07 原串）",
-      "action": "一句话问项目是否还在 + 告知 400G 批次现状（有/无），不再催付款；若对方提 SDK/API，直接给 SNMP/CLI 边界；回原串沿用原主题（邮件客户端自动加 Re:），上面的主题只在另起新信时用",
-      "one_question": "Is the 400G project still on your customer's 2026 plan, or should we park it until their next budget cycle?"
-    },
-    "facts": [
-      {
-        "date": "2025-11-11",
-        "dir": "来",
-        "who": "Steve（ITM）",
-        "quote": "You have a great offering; I will recommend our company to have an OEM agreement with Saga telecom",
-        "why": "OEM 意向开端",
-        "k": "8a0346334ec9c3de"
-      },
-      {
-        "date": "2025-11-12",
-        "dir": "来",
-        "who": "info@itmsystems.net",
-        "quote": "Dear Alan, We use L2, L2 + POE, L3, L3+ POE, Industrial and commercial switches. I am talking to our Engineering Team to see if we can put our cyber s",
-        "why": "来信原文（主题「RE: Booster PoE Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
-        "k": "996986a756e7754a"
-      },
-      {
-        "date": "2025-11-25",
-        "dir": "来",
-        "who": "Steve",
-        "quote": "Does your company carry out OEM/ODM for other companies? Is your company ready to provide SDK/API…",
-        "why": "SDK/API 需求 = 边界信号",
-        "k": "68cb354a84c7aa86"
-      },
-      {
-        "date": "2025-11-26",
-        "dir": "去",
-        "who": "Alan → Steve（ITM）",
-        "quote": "1, We have some good clients in Turkey, Germany, Russia and USA. So far, not in the UK. 2, we focus on OEM/ODM… limited reliable clients… 3, SDK/API is part of our TTC services (OEM/ODM/SKD/CKD/SDK/Source Code) But this is subject to projects… 4, we do not usually get in touch (in any form) with our client's partners like SIs, ISPs etc. We just focus on our clients… training, but just to our clients. 5, standard orders 3~5 working days",
-        "why": "对 ITM 的五条口径里「SDK/Source Code 属 TTC 服务」与对 Netaş 的「source code NEVER」矛盾（E2 边界：不做 SDK/API）——以后统一说「不开放源码/SDK；OEM/ODM/SKD/CKD 可」；「不碰客户的客户」这一条倒是 Saga 真实的渠道纪律，可写进概念层",
-        "k": "gmail_a 2025-11-26 Re: Booster PoE Switch"
-      },
-      {
-        "date": "2025-12-01",
-        "dir": "来",
-        "who": "info@itmsystems.net",
-        "quote": "Dear Alan, Thank you for the prompt and very detailed response. The information you provided is excellent and confirms that our companies share a simi",
-        "why": "来信原文（主题「RE: Booster PoE Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
-        "k": "bd914113e63ac880"
-      },
-      {
-        "date": "2025-12-01",
-        "dir": "去",
-        "who": "Alan → Steve（ITM）",
-        "quote": "\"ITM Office and factory can be your base in UK. We see ourselves strictly as your strategic supplier, operating entirely on a B2B level to support your OEM/ODM requirements.\" Thanks for this, we are very interested… It would be possible to sign a distributorship or similar agreements… both sides spend some time becoming an indispensable part in each other's business… 2.1 just go for 8-port for testing 2.2 PoE models are better for testing. PoE models + DC12V/DC24V = Non-PoE models",
-        "why": "ITM（英国）主动提出做 Saga 的英国基地/战略供应关系，Alan 回应愿签分销类协议——这是第四次「成单/活跃客户 → 区域分销」构想（Angora、Fastball、XSPec 之后），与 2026-03 的 6 台 400G 报价（$107,675 含模块）并行；U16「不能把 Saga 说成欧洲总代」不冲突（是 ITM 当 Saga 的英国代理）。注意 Alan 给出「PoE 版 + 12/24V 供电 = 非 PoE 版」的测试省钱法",
-        "k": "gmail_a 2025-12-01 Re: Booster PoE Switch"
-      },
-      {
-        "date": "2026-01-22",
-        "dir": "去",
-        "who": "Saga（Alan）",
-        "quote": "Hi, Steve, Happy New Year!! Wishing you all the magic in 2026!! 1. About the samples and cooperation, any thoughts to share? 2. I am introducing our CENTEC-based core and aggregation switches. 1, A cost-effective alternative to Cisco or Huawei models 2, Multiple models(10G~800G) available for variou…",
-        "why": "Saga 实质答复原文（主题「Re: Booster PoE Switch」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
-        "k": "4fc14c822ea680cd"
-      },
-      {
-        "date": "2026-01-23",
-        "dir": "来",
-        "who": "info@itmsystems.net",
-        "quote": "Dear Alan, Happy New Year !! We wish you an amazing 2026!! We have been talking about your company with our Senior Management and our cooperation and",
-        "why": "来信原文（主题「RE: Booster PoE Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
-        "k": "61994389b31eed18"
-      },
-      {
-        "date": "2026-02-03",
-        "dir": "来",
-        "who": "info@itmsystems.net",
-        "quote": "Dear Alan, We would like to take this opportunity to wish you a wonderful Spring Chinese Holiday 2026 to you, your family and your colleagues! Kind re",
-        "why": "来信原文（主题「RE: Booster PoE Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
-        "k": "e1c21321a0b20243"
-      },
-      {
-        "date": "2026-02-03",
-        "dir": "去",
-        "who": "Saga（Alan）",
-        "quote": "Hi, Steve, Sorry for the late reply. 1. We updated our product links, please see attached info. Just to let you know, there will be another update about the features soon. 2. There is also info about CENTEC switches. But the prices are not available yet. Memory prices have risen too much recently, w…",
-        "why": "Saga 实质答复原文（主题「Re: Booster PoE Switch」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
-        "k": "db6ffc13965ba8dd"
-      },
-      {
-        "date": "2026-02-05",
-        "dir": "来",
-        "who": "Steve",
-        "quote": "I have secured the approval of all Senior Management and now just waiting for the CEO approval… do the new switches support BGP/OSPF v2/IS-IS protocol?",
-        "why": "内部审批阶段",
-        "k": "d4ad954f1fff2bea"
-      },
-      {
-        "date": "2026-02-05",
-        "dir": "去",
-        "who": "Saga（Alan）",
-        "quote": "Hi, Steve, 1. Thanks for your kind words and photo. Yes, we will have our new year holiday from 11th. 2. Could you tell us if the new switches support BGP/OSPF v2/IS-IS protocol? *Yes, those features are supported.*If you mean access switches, please check Route as below Saga Software Function List_…",
-        "why": "Saga 实质答复原文（主题「Re: Booster PoE Switch」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
-        "k": "8438b50dedd1f4eb"
-      },
-      {
-        "date": "2026-02-16",
-        "dir": "来",
-        "who": "客户（附件 Network products from Juniper.txt）",
-        "quote": "QFX5200-32C-AFO ×4 · MX204-HW-BASE ×2 · S-MX-4C-A1-C1-P ×2 · QSFP-100G-ER4 ×12 · JNP-QSFP-100G-LR4 ×3 · QSFP-100G-SR4 ×4 · 100G DAC 1M ×4 / 3M ×2 · PSU/FAN/RACK-KIT 备件",
-        "why": "终端项目原 BOM 是 Juniper QFX5200-32C（32×100G）+ MX204 路由 → Saga 报的 CENTEC 400G 32×QSFP112 是「升维替代」；MX204 路由器部分 Saga 没有对位",
-        "k": "gmail_a att 2026-02-16"
-      },
-      {
-        "date": "2026-02-22",
-        "dir": "去",
-        "who": "Saga（Alan）",
-        "quote": "Hi, Steve, Thanks for your kind words, I am still on holiday. After an initial review, here are the conclusions. 1, About the core switch, we can offer an equivalent. That is STH100G Series: STH-32C-HSI With the help of GPT, the functions are basically good. But it is still subject to your specific…",
-        "why": "Saga 实质答复原文（主题「Re: Booster PoE Switch」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
-        "k": "3a52e634757504a0"
-      },
-      {
-        "date": "2026-02-27",
-        "dir": "来",
-        "who": "info@itmsystems.net",
-        "quote": "Dear Alan, we had an outlook issue that was affecting our emails. Would be kind to give us the following answers We are not looking to get Juniper MX2",
-        "why": "来信原文（主题「Re: Booster PoE Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
-        "k": "f9e69dea9b5d2ded"
-      },
-      {
-        "date": "2026-02-28",
-        "dir": "去",
-        "who": "Saga（Alan）",
-        "quote": "Hi, Steve, Thanks for your information. 1, Yes, our 100G model got similar functions with Juniper QFX5200-32C-AFO. It can be considered as an equivalent. STH-32C-HSI: 6000USD/PC, MA License, PeakNetX Platform, 32*100G Ports 2, About 400G switches STH-32QC-HSI:",
-        "why": "历史报价点（主题「Re: Booster PoE Switch」；第 20 批从 gmail_a 回补）：STH-32C-HSI, STH-32QC-HSI, STH-64QC-HSI 000USD / 000USD / 200USD",
-        "k": "08e23b4cd1d35e84"
-      },
-      {
-        "date": "2026-03-20",
-        "dir": "来",
-        "who": "Steve",
-        "quote": "Could you send us a quote for 6 OEM units of 400GB L3 switches and the delivery time of these units to UK?",
-        "why": "正式 RFQ（$107,675）",
-        "k": "4093fbb543ef9f90"
-      },
-      {
-        "date": "2026-03-20",
-        "dir": "去",
-        "who": "Alan（Quotation_2026.03.20.pdf → 03-23 修订版，Buyer iTM Systems / Steve，DAP Peterborough PE1 1RP）",
-        "quote": "400GB Data Center Core Switch 32×400G QSFP112 L3，VXLAN/EVPN/BGP/OSPF/MLAG/IPv6，2×CRPS 1300W AC，6 热插拔风扇，Front-to-Back，License Pre-installed，Platform SerdesX，STH-32QC-HSI（CENTEC）×6 @ $16,000 = $96,000.0",
-        "why": "主机 6 台 $96,000；连同模块合计 $107,675（已记）；03-23 版仅排版修订",
-        "k": "gmail_a att 2026-03-20/23"
-      },
-      {
-        "date": "2026-03-23",
-        "dir": "来",
-        "who": "info@itmsystems.net",
-        "quote": "Hi Alan, See the answer to your question Do you mean QSFP112 400Gb module and 6 pieces in EACH unit(total",
-        "why": "来信原文（主题「Re: 400GB Switches」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
-        "k": "f05ed71fa67e24bc"
-      },
-      {
-        "date": "2026-03-23",
-        "dir": "去",
-        "who": "Alan（Quotation_2026.03.23.pdf）",
-        "quote": "400GB Optical Module 400G-SR4 ×36 @ $300.00 = $10,800.00（400Gb/s, 850nm, MPO-12, up to 100m over OM4 MMF）；6 × STH-32QC-HSI @ $16,000 = $96,000；DHL 空运 $850；银行费 $25；TOTAL 42 pcs $107,675.00，DAP Peterborough",
-        "why": "$107,675 的构成（主机 + 模块 + 运费），重报时模块价单列；光模块只随整机报，不单卖",
-        "k": "quote"
-      },
-      {
-        "date": "2026-03-23",
-        "dir": "去",
-        "who": "Alan → Steve（iTM Systems, Peterborough PE1 1RP；Quotation STA-20260323-001，DAP）",
-        "quote": "Business Term: Price validity 15 days; Sample full payment PayPal/T/T, Bulk 50% T/T in advance + 50% before shipment; MoQ 1; Non-brand packing, neutral device; Country of origin China, CoO on request; Production time: 12~15 weeks (NOT including shipping); Warranty: 1 year, lifetime technical support; acceptance deemed if no written defect notice within 2 months. Additional: customer logo + model name on WEB UI and label.",
-        "why": "这张 $107,675 报价单上写的是 **交期 12~15 周**、保修 1 年——与对外「CENTEC 现货 4~7 个工作日」不一致（32×400G 是按单生产）；也是 STH 线 1 年保修的书面证据（口径 #6）",
-        "k": "Drive Extra Info `Quotation__STA-20260323-001.xls`"
-      },
-      {
-        "date": "2026-04-13",
-        "dir": "来",
-        "who": "Stan（ITM Systems）",
-        "quote": "We have a meeting this week to move forward this project, it is still alive.",
-        "why": "$107,675 报价后的第一次「还活着」——到 2026-08 仍未付款",
-        "k": "gmail_a bb34c05fbe8c6f6e"
-      },
-      {
-        "date": "2026-04-23",
-        "dir": "来",
-        "who": "info@itmsystems.net",
-        "quote": "Hi Steve, We just corrected their design and it is up to them to validate the solution and send us the PI to buy the units for them. Kind regards Stan",
-        "why": "来信原文（主题「Re: 400GB Switches」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
-        "k": "47febb7202087218"
-      },
-      {
-        "date": "2026-05-11",
-        "dir": "来",
-        "who": "Steve",
-        "quote": "We will delay the customer from paying us as they will expect the products within 30 days of payment",
-        "why": "对方当时的紧迫度 vs Saga 7 月才有货",
-        "k": "66dba977aaf68e50"
-      },
-      {
-        "date": "2026-05-19",
-        "dir": "来",
-        "who": "Steve",
-        "quote": "In the 50 switches is there a plan for 800GB or just the one you quoted us?",
-        "why": "50 台批次 = Hohunet 国内批次搭车（A 总览）；800G 不做",
-        "k": "77fc79297576e203"
-      },
-      {
-        "date": "2026-07-02",
-        "dir": "来",
-        "who": "info@itmsystems.net",
-        "quote": "Hi Alan, Thank you again for updating us. Do you think the goods will be ready in 3 weeks? Kind regards Steve",
-        "why": "来信原文（主题「Re: 400GB Switches」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
-        "k": "49a17ee1feaa5e14"
-      },
-      {
-        "date": "2026-08-03",
-        "dir": "去",
-        "who": "Alan",
-        "quote": "the 400G switches are ready to ship now",
-        "why": "Saga 侧就绪时间",
-        "k": "140d7d5efe818d7e"
-      },
-      {
-        "date": "2026-08-15",
-        "dir": "来",
-        "who": "Steve",
-        "quote": "I have update the Senior Manager about the availability of goods and will get back to you",
-        "why": "最后一封来信",
-        "k": "87738057b3f134de"
-      }
-    ],
-    "proof_gaps": [
-      "ITM 终端客户是谁（邮件未提）——不去搜，等对方说",
-      "（已核 2026-10-24，第 73 批）A 邮箱 20,521 封全入后复查：ITM 最早来信 = 2025-11-11 回「Booster PoE Switch」群发，之前 0 回——不存在更早回复"
-    ],
-    "draft_en": {
-      "subject": "400G switches — still on the 2026 plan?",
-      "body": "Hi, Steve,\n\nIn August the six 400G units with QSFP112 modules were ready to ship, and you were updating your senior manager. Since then no news, which usually means the customer's budget moved.\n\nThe March price ($107,675 for 6 units + modules) was tied to that production batch; a new order is re-quoted on the current batch, so please do not plan on the old number.\n\nOne question: is the 400G project still on your customer's 2026 plan, or should we park it until their next budget cycle?\n\nThank you.\nAlan"
-    },
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "Utepo 工业 FS；深度沟通中",
+   "quote": "Utepo的工业FS；Steve / 深度沟通中；info@itmsystems.net 这个邮箱回复的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Steve",
+   "title": "（职务待核）",
+   "email": "info@itmsystems.net",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "英国",
+  "other": "官网 itmsystems.co.uk，语言 en-US，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "网络安全 / 视频监控 / IT 基础设施（英国）"
+ ],
+ "channels": {
+  "role": "安防/IT 集成商（英国，有回复，工业 FS 现 Utepo）",
+  "region": "英国",
+  "contact": "info@itmsystems.co.uk、info@itmsystems.net"
+ },
+ "signals": [
+  "官网：ITM Systems|Cyber Security|Video Surveillance & Analytics|IT Infrastructure Design| Networ… ; ITM CORE SERVICES；kw camera 15 / access control 10 / surveillance 8",
+  "表内：Utepo 的工业 FS；Steve / 深度沟通中；info@itmsystems.net 这个邮箱回复的"
+ ],
+ "risks": [
+  "有回复/深度沟通中——沟通内容在 Gmail 待核，续谈勿重复首触；现供 Utepo 价格基准低"
+ ],
+ "saga_fit": {
+  "p1": "STI-288GP",
+  "tier": 25,
+  "why": "工业 FS（现 Utepo）→ 工业 8 PoE + 2 SFP 非管理 STI-288GP（$59.8 @25%）/ 管理 STI-288GPM（$82.2）、4 PoE + 1 SFP STI-154GP（$39.2）；室内 STC-28DGGPM（$84.1）"
+ },
+ "email_hook": "Steve, following our ongoing exchange on industrial PoE: for the Utepo positions in your surveillance projects we can supply DIN-rail 4-PoE + 1 SFP and 8-PoE + 2 SFP (managed on Marvell L2+, or unmanaged, −40~75 °C, CE/RoHS/UKCA) from single units, EXW USD — shall I quote one evaluation unit of the 8-PoE managed model?",
+ "mail_review": {
+  "binding": {
+   "level": "轻度（已报价、对方高层批准、未付款；Elsa 箱：`to:itmsystems.co.uk OR to:itmsystems.net` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 42 / 来 23）（第 74 批(j)））",
+   "type": "英国 MSP/网络安全集成商（技术流 + 要 OEM 协议）",
+   "sieve": "2→3 之间（反复索要规格/价格、CEO 审批中；无 PI、无付款）",
+   "stop": "对方内部：CEO 审批 + 终端客户验证；Saga 侧曾因 CENTEC 400G 批次没货拖到 2026-08 才「ready to ship」",
+   "revive": "ITM 终端客户项目重启 / Senior Manager 回复；或 Saga 有 800G 可测（对方 5-19 问过）",
+   "lane": "UK 已通（Go Green IT 已成交；DHL/UPS DAP）",
+   "cadence": "最后 2026-09-07 Alan 问进展（无回）；2026-08-15 Steve「will get back to you」；实质往来 2025-11-11 → 2026-08-15 约 25 轮",
+   "evidence": "A 邮箱 k=4093fbb543ef9f90 / d4ad954f1fff2bea / c59e4367bd0deb77 / 87738057b3f134de；A 邮箱附件正文 `data/gmail_a/attachments/text/`（2026-10-24 对表）；A 邮箱外发报价单正文（`data/gmail_a/attachments/text/`，2026-10-24 对表）；第 19 批回补来信原文 8 条（gmail_s/gmail_a）"
+  },
+  "situation": "英国 ITM Systems（Steve / Stan，info@itmsystems.net）2025-11 回群发后一路升级：要目录 → 「recommend… OEM agreement with Saga」→ 问 SDK/API、合作伙伴数 → 2026-01 要核心汇聚机规格 → 2026-02-05「secured the approval of all Senior Management… waiting for CEO approval」→ 2026-03-20 正式要 **6 台 400G L3 OEM + 每台 6×QSFP112** 报价（A 总览：$107,675）→ 4–5 月「project still alive」「customer will pay within 30 days」→ Saga 侧 7–8 月才备齐货 → 8-15 Steve 汇报高层后再无回音。**A 邮箱里金额最大的在谈单，卡在对方。**",
+  "need": "① 400G L3 数据中心交换机 6 台（OEM 贴牌）+ 6×QSFP112/台，交付英国；② 2026-02 曾问 BGP/OSPFv2/IS-IS 支持、能否对标 Juniper MX204 功能（「not looking to get MX204… a device from Saga that has similar functionalities」）；③ 长期：想在 Saga 交换机上叠加自家网络安全工具（2025-11-12），要 OEM/ODM + SDK/API。",
+  "breakpoint": "双向时间差：3–5 月对方急（客户 30 天付款），Saga 400G 批次要等 Hohunet 7–8 月；8 月 Saga 有货时对方节奏已松。另有结构性问题：SDK/API 不是 Saga 路线（C4/E2），对方「叠加安全工具」的设想迟早撞边界。",
+  "saga_now": {
+   "p1": "CENTEC 400G 32×QSFP112 DC 交换机（已报价规格不变）",
+   "tier": 25,
+   "price": "已报 $107,675（6 台 + 模块，2026-03 快照）；重报须按 Hohunet 当期批次价重算，不沿用；历史报价（邮件原话 2026-02-28，老汇率）：STH-32C-HSI 32×100G $6,000/pc（MA License, PeakNetX）；STH-32QC-HSI 32×400G $16,000/pc（SerdesX）；STH-64QC-HSI 64×400G 邮件写 \"3200USD/PC\"（明显少一位，应为 $32,000 级，重报前核对）；800G 当时无价；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-10 $220（48 port managed switch）；**进价对照（HohuNet 报价单 2026-02-28：S8532-EI = STH-32QC-HSI 90,000 RMB；S8564-EI 180,000）：$16,000 → 毛利 @7 19.6% / @6.69 15.9%（未含 DHL $850）；64QC 按同比例 ≈ $32,000（证实 3200 是笔误）；35% 地板 $20,700 / $41,400 @6.69（CENTEC 锚表 §5.2）**；群发里他已看到的价（续，第 66 批全量复核）：2024-06-13 $65（10G Media Converter）、2025-02-28 $240（24 Port Fiber Switch）、2025-09-26 $280（10G Enterprise SFP Switch）",
+   "why": "集成商 25% 档；DC 线是 Hohunet 批次搭车（Q-50 默认），有货才卖，不囤｜已发资料（勿重发）：Download Link_Alan(2025-11-11)、Product Link_2026Q2(2026-02-03)；已发单据：Quotation_2026.03.20(2026-03-20)、Quotation_2026.03.23(2026-03-23)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）｜对外统一口径（#2）：2025-11-26 Alan 说「SDK/API is part of our TTC services (…SDK/Source Code)」与对 Netaş 的「source code NEVER」矛盾——以后统一「不开放源码/SDK，接口 = SNMP(含客户 OID)+CLI+Web」；若 Steve 再提 SDK，直接给这条边界",
+   "repeat": [],
+   "gaps": [
+    "SDK/API：不提供（只 SNMP/CLI/标准 MIB），下次回信直接说清",
+    "800G：无，不许诺",
+    "400G 现货是否仍在（8-03「ready to ship」的 6 台是否已被他人买走）——由 Simon 向 Hohunet 核，代理不问",
+    "报价单写交期 12~15 周（按单生产），群发却说「Ready in stock」——同一客户两处看到两个说法；重开报价前定一个"
+   ]
+  },
+  "next_move": {
+   "when": "2026-11 上旬（9-07 追问满 2 个月）",
+   "channel": "A 邮箱 → info@itmsystems.net（Steve；回 9-07 原串）",
+   "action": "一句话问项目是否还在 + 告知 400G 批次现状（有/无），不再催付款；若对方提 SDK/API，直接给 SNMP/CLI 边界；回原串沿用原主题（邮件客户端自动加 Re:），上面的主题只在另起新信时用",
+   "one_question": "Is the 400G project still on your customer's 2026 plan, or should we park it until their next budget cycle?"
+  },
+  "facts": [
+   {
+    "date": "2025-11-11",
+    "dir": "来",
+    "who": "Steve（ITM）",
+    "quote": "You have a great offering; I will recommend our company to have an OEM agreement with Saga telecom",
+    "why": "OEM 意向开端",
+    "k": "8a0346334ec9c3de"
+   },
+   {
+    "date": "2025-11-12",
+    "dir": "来",
+    "who": "info@itmsystems.net",
+    "quote": "Dear Alan, We use L2, L2 + POE, L3, L3+ POE, Industrial and commercial switches. I am talking to our Engineering Team to see if we can put our cyber s",
+    "why": "来信原文（主题「RE: Booster PoE Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+    "k": "996986a756e7754a"
+   },
+   {
+    "date": "2025-11-25",
+    "dir": "来",
+    "who": "Steve",
+    "quote": "Does your company carry out OEM/ODM for other companies? Is your company ready to provide SDK/API…",
+    "why": "SDK/API 需求 = 边界信号",
+    "k": "68cb354a84c7aa86"
+   },
+   {
+    "date": "2025-11-26",
+    "dir": "去",
+    "who": "Alan → Steve（ITM）",
+    "quote": "1, We have some good clients in Turkey, Germany, Russia and USA. So far, not in the UK. 2, we focus on OEM/ODM… limited reliable clients… 3, SDK/API is part of our TTC services (OEM/ODM/SKD/CKD/SDK/Source Code) But this is subject to projects… 4, we do not usually get in touch (in any form) with our client's partners like SIs, ISPs etc. We just focus on our clients… training, but just to our clients. 5, standard orders 3~5 working days",
+    "why": "对 ITM 的五条口径里「SDK/Source Code 属 TTC 服务」与对 Netaş 的「source code NEVER」矛盾（E2 边界：不做 SDK/API）——以后统一说「不开放源码/SDK；OEM/ODM/SKD/CKD 可」；「不碰客户的客户」这一条倒是 Saga 真实的渠道纪律，可写进概念层",
+    "k": "gmail_a 2025-11-26 Re: Booster PoE Switch"
+   },
+   {
+    "date": "2025-12-01",
+    "dir": "来",
+    "who": "info@itmsystems.net",
+    "quote": "Dear Alan, Thank you for the prompt and very detailed response. The information you provided is excellent and confirms that our companies share a simi",
+    "why": "来信原文（主题「RE: Booster PoE Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+    "k": "bd914113e63ac880"
+   },
+   {
+    "date": "2025-12-01",
+    "dir": "去",
+    "who": "Alan → Steve（ITM）",
+    "quote": "\"ITM Office and factory can be your base in UK. We see ourselves strictly as your strategic supplier, operating entirely on a B2B level to support your OEM/ODM requirements.\" Thanks for this, we are very interested… It would be possible to sign a distributorship or similar agreements… both sides spend some time becoming an indispensable part in each other's business… 2.1 just go for 8-port for testing 2.2 PoE models are better for testing. PoE models + DC12V/DC24V = Non-PoE models",
+    "why": "ITM（英国）主动提出做 Saga 的英国基地/战略供应关系，Alan 回应愿签分销类协议——这是第四次「成单/活跃客户 → 区域分销」构想（Angora、Fastball、XSPec 之后），与 2026-03 的 6 台 400G 报价（$107,675 含模块）并行；U16「不能把 Saga 说成欧洲总代」不冲突（是 ITM 当 Saga 的英国代理）。注意 Alan 给出「PoE 版 + 12/24V 供电 = 非 PoE 版」的测试省钱法",
+    "k": "gmail_a 2025-12-01 Re: Booster PoE Switch"
+   },
+   {
+    "date": "2026-01-22",
+    "dir": "去",
+    "who": "Saga（Alan）",
+    "quote": "Hi, Steve, Happy New Year!! Wishing you all the magic in 2026!! 1. About the samples and cooperation, any thoughts to share? 2. I am introducing our CENTEC-based core and aggregation switches. 1, A cost-effective alternative to Cisco or Huawei models 2, Multiple models(10G~800G) available for variou…",
+    "why": "Saga 实质答复原文（主题「Re: Booster PoE Switch」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
+    "k": "4fc14c822ea680cd"
+   },
+   {
+    "date": "2026-01-23",
+    "dir": "来",
+    "who": "info@itmsystems.net",
+    "quote": "Dear Alan, Happy New Year !! We wish you an amazing 2026!! We have been talking about your company with our Senior Management and our cooperation and",
+    "why": "来信原文（主题「RE: Booster PoE Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+    "k": "61994389b31eed18"
+   },
+   {
+    "date": "2026-02-03",
+    "dir": "来",
+    "who": "info@itmsystems.net",
+    "quote": "Dear Alan, We would like to take this opportunity to wish you a wonderful Spring Chinese Holiday 2026 to you, your family and your colleagues! Kind re",
+    "why": "来信原文（主题「RE: Booster PoE Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+    "k": "e1c21321a0b20243"
+   },
+   {
+    "date": "2026-02-03",
+    "dir": "去",
+    "who": "Saga（Alan）",
+    "quote": "Hi, Steve, Sorry for the late reply. 1. We updated our product links, please see attached info. Just to let you know, there will be another update about the features soon. 2. There is also info about CENTEC switches. But the prices are not available yet. Memory prices have risen too much recently, w…",
+    "why": "Saga 实质答复原文（主题「Re: Booster PoE Switch」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
+    "k": "db6ffc13965ba8dd"
+   },
+   {
+    "date": "2026-02-05",
+    "dir": "来",
+    "who": "Steve",
+    "quote": "I have secured the approval of all Senior Management and now just waiting for the CEO approval… do the new switches support BGP/OSPF v2/IS-IS protocol?",
+    "why": "内部审批阶段",
+    "k": "d4ad954f1fff2bea"
+   },
+   {
+    "date": "2026-02-05",
+    "dir": "去",
+    "who": "Saga（Alan）",
+    "quote": "Hi, Steve, 1. Thanks for your kind words and photo. Yes, we will have our new year holiday from 11th. 2. Could you tell us if the new switches support BGP/OSPF v2/IS-IS protocol? *Yes, those features are supported.*If you mean access switches, please check Route as below Saga Software Function List_…",
+    "why": "Saga 实质答复原文（主题「Re: Booster PoE Switch」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
+    "k": "8438b50dedd1f4eb"
+   },
+   {
+    "date": "2026-02-16",
+    "dir": "来",
+    "who": "客户（附件 Network products from Juniper.txt）",
+    "quote": "QFX5200-32C-AFO ×4 · MX204-HW-BASE ×2 · S-MX-4C-A1-C1-P ×2 · QSFP-100G-ER4 ×12 · JNP-QSFP-100G-LR4 ×3 · QSFP-100G-SR4 ×4 · 100G DAC 1M ×4 / 3M ×2 · PSU/FAN/RACK-KIT 备件",
+    "why": "终端项目原 BOM 是 Juniper QFX5200-32C（32×100G）+ MX204 路由 → Saga 报的 CENTEC 400G 32×QSFP112 是「升维替代」；MX204 路由器部分 Saga 没有对位",
+    "k": "gmail_a att 2026-02-16"
+   },
+   {
+    "date": "2026-02-22",
+    "dir": "去",
+    "who": "Saga（Alan）",
+    "quote": "Hi, Steve, Thanks for your kind words, I am still on holiday. After an initial review, here are the conclusions. 1, About the core switch, we can offer an equivalent. That is STH100G Series: STH-32C-HSI With the help of GPT, the functions are basically good. But it is still subject to your specific…",
+    "why": "Saga 实质答复原文（主题「Re: Booster PoE Switch」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
+    "k": "3a52e634757504a0"
+   },
+   {
+    "date": "2026-02-27",
+    "dir": "来",
+    "who": "info@itmsystems.net",
+    "quote": "Dear Alan, we had an outlook issue that was affecting our emails. Would be kind to give us the following answers We are not looking to get Juniper MX2",
+    "why": "来信原文（主题「Re: Booster PoE Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+    "k": "f9e69dea9b5d2ded"
+   },
+   {
+    "date": "2026-02-28",
+    "dir": "去",
+    "who": "Saga（Alan）",
+    "quote": "Hi, Steve, Thanks for your information. 1, Yes, our 100G model got similar functions with Juniper QFX5200-32C-AFO. It can be considered as an equivalent. STH-32C-HSI: 6000USD/PC, MA License, PeakNetX Platform, 32*100G Ports 2, About 400G switches STH-32QC-HSI:",
+    "why": "历史报价点（主题「Re: Booster PoE Switch」；第 20 批从 gmail_a 回补）：STH-32C-HSI, STH-32QC-HSI, STH-64QC-HSI 000USD / 000USD / 200USD",
+    "k": "08e23b4cd1d35e84"
+   },
+   {
+    "date": "2026-03-20",
+    "dir": "来",
+    "who": "Steve",
+    "quote": "Could you send us a quote for 6 OEM units of 400GB L3 switches and the delivery time of these units to UK?",
+    "why": "正式 RFQ（$107,675）",
+    "k": "4093fbb543ef9f90"
+   },
+   {
+    "date": "2026-03-20",
+    "dir": "去",
+    "who": "Alan（Quotation_2026.03.20.pdf → 03-23 修订版，Buyer iTM Systems / Steve，DAP Peterborough PE1 1RP）",
+    "quote": "400GB Data Center Core Switch 32×400G QSFP112 L3，VXLAN/EVPN/BGP/OSPF/MLAG/IPv6，2×CRPS 1300W AC，6 热插拔风扇，Front-to-Back，License Pre-installed，Platform SerdesX，STH-32QC-HSI（CENTEC）×6 @ $16,000 = $96,000.0",
+    "why": "主机 6 台 $96,000；连同模块合计 $107,675（已记）；03-23 版仅排版修订",
+    "k": "gmail_a att 2026-03-20/23"
+   },
+   {
+    "date": "2026-03-23",
+    "dir": "来",
+    "who": "info@itmsystems.net",
+    "quote": "Hi Alan, See the answer to your question Do you mean QSFP112 400Gb module and 6 pieces in EACH unit(total",
+    "why": "来信原文（主题「Re: 400GB Switches」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+    "k": "f05ed71fa67e24bc"
+   },
+   {
+    "date": "2026-03-23",
+    "dir": "去",
+    "who": "Alan（Quotation_2026.03.23.pdf）",
+    "quote": "400GB Optical Module 400G-SR4 ×36 @ $300.00 = $10,800.00（400Gb/s, 850nm, MPO-12, up to 100m over OM4 MMF）；6 × STH-32QC-HSI @ $16,000 = $96,000；DHL 空运 $850；银行费 $25；TOTAL 42 pcs $107,675.00，DAP Peterborough",
+    "why": "$107,675 的构成（主机 + 模块 + 运费），重报时模块价单列；光模块只随整机报，不单卖",
+    "k": "quote"
+   },
+   {
+    "date": "2026-03-23",
+    "dir": "去",
+    "who": "Alan → Steve（iTM Systems, Peterborough PE1 1RP；Quotation STA-20260323-001，DAP）",
+    "quote": "Business Term: Price validity 15 days; Sample full payment PayPal/T/T, Bulk 50% T/T in advance + 50% before shipment; MoQ 1; Non-brand packing, neutral device; Country of origin China, CoO on request; Production time: 12~15 weeks (NOT including shipping); Warranty: 1 year, lifetime technical support; acceptance deemed if no written defect notice within 2 months. Additional: customer logo + model name on WEB UI and label.",
+    "why": "这张 $107,675 报价单上写的是 **交期 12~15 周**、保修 1 年——与对外「CENTEC 现货 4~7 个工作日」不一致（32×400G 是按单生产）；也是 STH 线 1 年保修的书面证据（口径 #6）",
+    "k": "Drive Extra Info `Quotation__STA-20260323-001.xls`"
+   },
+   {
+    "date": "2026-04-13",
+    "dir": "来",
+    "who": "Stan（ITM Systems）",
+    "quote": "We have a meeting this week to move forward this project, it is still alive.",
+    "why": "$107,675 报价后的第一次「还活着」——到 2026-08 仍未付款",
+    "k": "gmail_a bb34c05fbe8c6f6e"
+   },
+   {
+    "date": "2026-04-23",
+    "dir": "来",
+    "who": "info@itmsystems.net",
+    "quote": "Hi Steve, We just corrected their design and it is up to them to validate the solution and send us the PI to buy the units for them. Kind regards Stan",
+    "why": "来信原文（主题「Re: 400GB Switches」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+    "k": "47febb7202087218"
+   },
+   {
+    "date": "2026-05-11",
+    "dir": "来",
+    "who": "Steve",
+    "quote": "We will delay the customer from paying us as they will expect the products within 30 days of payment",
+    "why": "对方当时的紧迫度 vs Saga 7 月才有货",
+    "k": "66dba977aaf68e50"
+   },
+   {
+    "date": "2026-05-19",
+    "dir": "来",
+    "who": "Steve",
+    "quote": "In the 50 switches is there a plan for 800GB or just the one you quoted us?",
+    "why": "50 台批次 = Hohunet 国内批次搭车（A 总览）；800G 不做",
+    "k": "77fc79297576e203"
+   },
+   {
+    "date": "2026-07-02",
+    "dir": "来",
+    "who": "info@itmsystems.net",
+    "quote": "Hi Alan, Thank you again for updating us. Do you think the goods will be ready in 3 weeks? Kind regards Steve",
+    "why": "来信原文（主题「Re: 400GB Switches」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+    "k": "49a17ee1feaa5e14"
+   },
+   {
+    "date": "2026-08-03",
+    "dir": "去",
+    "who": "Alan",
+    "quote": "the 400G switches are ready to ship now",
+    "why": "Saga 侧就绪时间",
+    "k": "140d7d5efe818d7e"
+   },
+   {
+    "date": "2026-08-15",
+    "dir": "来",
+    "who": "Steve",
+    "quote": "I have update the Senior Manager about the availability of goods and will get back to you",
+    "why": "最后一封来信",
+    "k": "87738057b3f134de"
+   }
+  ],
+  "proof_gaps": [
+   "ITM 终端客户是谁（邮件未提）——不去搜，等对方说",
+   "（已核 2026-10-24，第 73 批）A 邮箱 20,521 封全入后复查：ITM 最早来信 = 2025-11-11 回「Booster PoE Switch」群发，之前 0 回——不存在更早回复"
+  ],
+  "draft_en": {
+   "subject": "400G switches — still on the 2026 plan?",
+   "body": "Hi, Steve,\n\nIn August the six 400G units with QSFP112 modules were ready to ship, and you were updating your senior manager. Since then no news, which usually means the customer's budget moved.\n\nThe March price ($107,675 for 6 units + modules) was tied to that production batch; a new order is re-quoted on the current batch, so please do not plan on the old number.\n\nOne question: is the 400G project still on your customer's 2026 plan, or should we park it until their next budget cycle?\n\nThank you.\nAlan"
+  },
+  "as_of": "2026-10-24"
+ }
 }

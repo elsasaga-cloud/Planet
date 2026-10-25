@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -42,7 +42,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-429` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A/S 邮箱 26 封 2024→2026，1 次记录打开，0 回；收件 support@bvsecurity.com；主题多为「Marvell Industrial Alert System、24 Port Passive PoE Switch」）** ｜ 类型：安防电商 + 自有 SW 系列 PoE（Utepo 代工迹象，OEM 采购） ｜ 筛子：1~2（1 次打开） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：停发群发；若要继续，换具名邮箱 + 只问一句 ｜ 通路：意大利（欧洲全域主攻） ｜ 节奏：一封 ｜ 证据：gmail_digest：out 26，Opened 标签 1（Simon 群发追踪）；用户表：「Utepo 有Amazon店铺」；研究档 risks：国别待核：表内「意大利」，站点为英文/美元/Amazon 美国店，疑为美国公司
+- **绑定等级：未触达（A/S 邮箱 26 封 2024→2026，1 次记录打开，0 回；收件 support@bvsecurity.com；主题多为「Marvell Industrial Alert System、24 Port Passive PoE Switch」；Elsa 箱：`to:bvsecurity.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 26 / 来 0）（第 74 批(j)））** ｜ 类型：安防电商 + 自有 SW 系列 PoE（Utepo 代工迹象，OEM 采购） ｜ 筛子：1~2（1 次打开） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：停发群发；若要继续，换具名邮箱 + 只问一句 ｜ 通路：意大利（欧洲全域主攻） ｜ 节奏：一封 ｜ 证据：gmail_digest：out 26，Opened 标签 1（Simon 群发追踪）；用户表：「Utepo 有Amazon店铺」；研究档 risks：国别待核：表内「意大利」，站点为英文/美元/Amazon 美国店，疑为美国公司
 - **现状一句话**：BV Security（安防电商：监控硬盘 / PoE 交换机与注入器 / 摄像机，批发 28；自有 SW 系列 PoE 交换机 SW501G-PLUS / SW502G / SW802G / SW811G-DIN，博客「best NDAA-compliant PoE switches」；表内「Utepo，有 Amazon 店铺」；KP Zehua W（Product Manager，support@）；表内国别「意大利」存疑——站点为英文美元 Shopify 站，疑为美国公司，待核）；群发 13 次无回复。
 - **对方真实需求（有据）**：自有 SW802G（8 口千兆 PoE）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 BV 标；SW811G-DIN（工业）→ STI-288GP；NDAA 口径同 Silarius（需元器件声明）
 - **断点 / 为什么停在这里**：国别待核：表内「意大利」，站点为英文/美元/Amazon 美国店，疑为美国公司
@@ -308,12 +308,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 41）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 41）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

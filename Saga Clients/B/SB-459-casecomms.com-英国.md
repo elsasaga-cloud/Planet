@@ -27,7 +27,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 4
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -44,7 +44,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-459` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：轻度绑定→价格断（2024-05 Andy「we already have such a switch」；2025-02 问 L3 DIN PoE 单价与定制 MOQ → $500 → 「quite expensive, we have layer 3 switches for a lot less」；之后 Alan 40+ 封群发无回）** ｜ 类型：英国工业通信/网络品牌商（Case Communications；Andy = 产品/采购）——第一档品牌商，但已有同类供应 ｜ 筛子：3（问价 + 定制 MOQ） ｜ 停点：$500 的 Marvell L3 DIN PoE 对一个「已有更便宜 L3」的品牌商没有理由；Alan 回「for high-end market ONLY」等于关门 ｜ 复活：只在有新品类时发：CENTEC 汇聚或 10G 工业（它没有的），不再推 PoE ｜ 通路：UK 主攻 ｜ 节奏：半年一封新品类信 ｜ 证据：k=d7d86e7b1d5cba30（already have）；f76d37aef2dff400（问价 + MOQ）；aee9616b96315f19（$500）；83a6a36c850cb83b（a lot less）；注意 4e64486e83ba3f88：Simon 2024-05 自称「This is my sister's company」；第 19 批回补来信原文 1 条（gmail_s/gmail_a）
+- **绑定等级：轻度绑定→价格断（2024-05 Andy「we already have such a switch」；2025-02 问 L3 DIN PoE 单价与定制 MOQ → $500 → 「quite expensive, we have layer 3 switches for a lot less」；之后 Alan 40+ 封群发无回；Elsa 箱：`to:casecomms.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 52 / 来 5）（第 74 批(j)））** ｜ 类型：英国工业通信/网络品牌商（Case Communications；Andy = 产品/采购）——第一档品牌商，但已有同类供应 ｜ 筛子：3（问价 + 定制 MOQ） ｜ 停点：$500 的 Marvell L3 DIN PoE 对一个「已有更便宜 L3」的品牌商没有理由；Alan 回「for high-end market ONLY」等于关门 ｜ 复活：只在有新品类时发：CENTEC 汇聚或 10G 工业（它没有的），不再推 PoE ｜ 通路：UK 主攻 ｜ 节奏：半年一封新品类信 ｜ 证据：k=d7d86e7b1d5cba30（already have）；f76d37aef2dff400（问价 + MOQ）；aee9616b96315f19（$500）；83a6a36c850cb83b（a lot less）；注意 4e64486e83ba3f88：Simon 2024-05 自称「This is my sister's company」；第 19 批回补来信原文 1 条（gmail_s/gmail_a）
 - **现状一句话**：Andy 两次回复都在说同一件事：你们的东西我有，而且更便宜。Saga 的回应是强调 Marvell 高端定位——对品牌商这不是论点。52 封群发中 5 封得到回复，全部是 2024-05 与 2025-02 的两个瞬间。
 - **对方真实需求（有据）**：L3 工业 PoE（已有更便宜来源）；潜在：10G 工业汇聚 / CENTEC。
 - **断点 / 为什么停在这里**：价格 + 定位话术。
@@ -339,12 +339,12 @@ Saga Telecom · sagatele.com
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 4 行原始记录归并；自动评级 B，分数 40）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 4 行原始记录归并；自动评级 B，分数 40）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

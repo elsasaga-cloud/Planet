@@ -1,151 +1,151 @@
 {
-  "code": "SB-428",
-  "name_official": "",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（bettinivideo.com，快照 2026-10-21）",
-  "summary": "意大利 Bettini（360° 视频监控方案；意大利设计制造的 GAMS 品牌录像系统；每年 1000+ 小时培训；在售 ComNet 交换机/MC 与 Milesight；表内「用的 ONV 的，直接带标卖的；还有 ComNet 的」「可以尝试多跟进一下」；KP Walter Bettini（CEO）、Marco Contu（Product Manager）、Giuseppe Costantini（Purchasing Manager））；群发 13 次无回复。",
-  "type": "意大利安防品牌商（GAMS NVR；PoE 现 ONV 贴标 + ComNet）",
-  "size": "",
-  "brands_seen": [
-    "Milesight",
-    "ONV",
-    "ComNet"
-  ],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "官网标题：BETTINI | Specializes in providing comprehensive video surveillance solutions.；品类词 安防监控（CCTV / 门禁） / 无线 / WiFi / 网络交换 / PoE",
-      "quote": "Bettini specializes in providing comprehensive 360° video surveillance solutions and is known for its Italian-designed and manufactured video recording systems under the GAMS brand.",
-      "url": "https://www.bettinivideo.com/en/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "用的ONV的 直接带标卖的 还有Comnet的",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网快照",
-      "claim": "Bettini 定位",
-      "quote": "BETTINI | Specializes in providing comprehensive video surveillance solutions ; Italian-designed and manufactured video recording systems under the GAMS brand ; /attivita/comnet-switch-media-converter/",
-      "url": "https://www.bettinivideo.com/en/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "用的 ONV 的 直接带标卖；还有 ComNet",
-      "quote": "用的ONV的 直接带标卖的 还有Comnet的；可以尝试多跟进一下",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Marco Contu",
-      "title": "Product Manager",
-      "email": "info@bettinivideo.com",
-      "phone": "",
-      "source": "用户表"
-    },
-    {
-      "name": "Giuseppe Costantini",
-      "title": "Purchasing Manager",
-      "email": "",
-      "phone": "",
-      "source": "用户表"
-    },
-    {
-      "name": "Walter Bettini",
-      "title": "CEO",
-      "email": "walter.bettini@bettinivideo.com",
-      "phone": "",
-      "source": "用户表"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ "code": "SB-428",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（bettinivideo.com，快照 2026-10-21）",
+ "summary": "意大利 Bettini（360° 视频监控方案；意大利设计制造的 GAMS 品牌录像系统；每年 1000+ 小时培训；在售 ComNet 交换机/MC 与 Milesight；表内「用的 ONV 的，直接带标卖的；还有 ComNet 的」「可以尝试多跟进一下」；KP Walter Bettini（CEO）、Marco Contu（Product Manager）、Giuseppe Costantini（Purchasing Manager））；群发 13 次无回复。",
+ "type": "意大利安防品牌商（GAMS NVR；PoE 现 ONV 贴标 + ComNet）",
+ "size": "",
+ "brands_seen": [
+  "Milesight",
+  "ONV",
+  "ComNet"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：BETTINI | Specializes in providing comprehensive video surveillance solutions.；品类词 安防监控（CCTV / 门禁） / 无线 / WiFi / 网络交换 / PoE",
+   "quote": "Bettini specializes in providing comprehensive 360° video surveillance solutions and is known for its Italian-designed and manufactured video recording systems under the GAMS brand.",
+   "url": "https://www.bettinivideo.com/en/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "hq": "意大利",
-    "other": "官网 bettinivideo.com，语言 en-GB，快照状态 ok；角色判定来源：官网文案"
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "用的ONV的 直接带标卖的 还有Comnet的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "视频监控方案（自有品牌 GAMS NVR）",
-    "PoE 交换机 / MC（ONV 贴标、ComNet）"
-  ],
-  "channels": {
-    "role": "意大利安防品牌商（GAMS NVR；PoE 现 ONV 贴标 + ComNet）",
-    "region": "意大利",
-    "contact": "info@bettinivideo.com、walter.bettini@bettinivideo.com"
+  {
+   "kind": "官网快照",
+   "claim": "Bettini 定位",
+   "quote": "BETTINI | Specializes in providing comprehensive video surveillance solutions ; Italian-designed and manufactured video recording systems under the GAMS brand ; /attivita/comnet-switch-media-converter/",
+   "url": "https://www.bettinivideo.com/en/",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "官网：Bettini specializes in providing comprehensive 360° video surveillance solutions and is known for its Italian-designed and manufactured video recording systems under the GAMS brand；页面 /attivita/comnet-switch-media-converter/、/en/product-news/new-nvr-gams-eko/；kw nvr 194 / camera 67 / switch 12",
-    "表内：用的 ONV 的 直接带标卖的 还有 Comnet 的；KP Walter Bettini / CEO；Marco Contu / Product Manager；Giuseppe Costantini / Purchasing Manager"
-  ],
-  "risks": [
-    "现供 ONV（深圳）贴标，价格基准低；ComNet 为工业线既定品牌",
-    "13 次无回复 → 改向 Product Manager / Purchasing Manager 具名首触"
-  ],
-  "saga_fit": {
-    "p1": "STC-28DGGPM",
-    "tier": 30,
-    "why": "NVR 配套 PoE（现 ONV 贴 Bettini 标）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；16/24 口位 HRUI STC-2216GPM（列表价，注明）/ STC-424DGGPM-280W（$145.7）；工业位 STI-288GPM 对位 ComNet"
-  },
-  "email_hook": "Marco, for the PoE switches you bundle under the Bettini label with GAMS recorders, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 16/24-PoE + 4 SFP; DIN-rail industrial option) in your packaging from small lots, CE/RoHS — which port count do your installers order most with GAMS systems?",
-  "mail_review": {
-    "binding": {
-      "level": "未触达（A/S 邮箱 21 封 2024→2026，1 次记录打开，0 回；收件 costantini@bettinivideo.com, info@bettinivideo.com；主题多为「Industrial PoE Switch、Marvell Industrial Alert System」）",
-      "type": "意大利安防品牌商（GAMS NVR；PoE 现 ONV 贴标 + ComNet）",
-      "sieve": "1~2（1 次打开）",
-      "stop": "21 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-      "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
-      "lane": "意大利（欧洲全域主攻）",
-      "cadence": "一封",
-      "evidence": "gmail_digest：out 21，Opened 标签 1（Simon 群发追踪）；用户表：「用的ONV的 直接带标卖的 还有Comnet的」；研究档 risks：现供 ONV（深圳）贴标，价格基准低；ComNet 为工业线既定品牌"
-    },
-    "situation": "意大利 Bettini（360° 视频监控方案；意大利设计制造的 GAMS 品牌录像系统；每年 1000+ 小时培训；在售 ComNet 交换机/MC 与 Milesight；表内「用的 ONV 的，直接带标卖的；还有 ComNet 的」「可以尝试多跟进一下」；KP Walter Bettini（CEO）、Marco Contu（Product Manager）、Giuseppe Costantini（Purchasing Manager））；群发 13 次无回复。",
-    "need": "NVR 配套 PoE（现 ONV 贴 Bettini 标）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；16/24 口位 HRUI STC-2216GPM（列表价，注明）/ STC-424DGGPM-280W（$145.7）；工业位 STI-288GPM 对位 ComNet",
-    "breakpoint": "现供 ONV（深圳）贴标，价格基准低；ComNet 为工业线既定品牌",
-    "saga_now": {
-      "p1": "STC-28DGGPM",
-      "tier": 30,
-      "price": "换人再触锚价 STC-28DGGPM $87.4 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-02 $65（10G media converter）；群发里他已看到的价（续，第 66 批全量复核）：2025-08-13 $300（48 Port PoE Managed Switch）、2025-10-16 $280（10G Enterprise SFP Switch）",
-      "why": "NVR 配套 PoE（现 ONV 贴 Bettini 标）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；16/24 口位 HRUI STC-2216GPM（列表价，注明）/ STC-424DGGPM-280W（$145.7）；工业位 STI-288GPM 对位 ComNet。已打开的主题（1/21 封有打开记录）：「WiFi 7 Ready Access Switch」(2026-08-05) → 读者兴趣主题类别不明（看原主题）",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "2027-Q1（换人后）",
-      "channel": "A 邮箱 → 具名 KP",
-      "action": "换收件人再发一封",
-      "one_question": "Marco, for the PoE switches you bundle under the Bettini label with GAMS recorders, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 16/24-PoE + 4 SFP; DIN-rail industrial option) in your packaging from small lots, CE/RoHS — which port count do your installers order most with GAMS systems? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity)."
-    },
-    "facts": [
-      {
-        "date": "2026-09-16",
-        "dir": "去",
-        "who": "A/S 群发",
-        "quote": "Industrial PoE Switch、Marvell Industrial Alert System",
-        "why": "21 封 / 1 次打开 / 0 回｜首封 2024-07-08 → 末封 2026-09-16（21 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "用的ONV的 直接带标卖的 还有Comnet的",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "用的 ONV 的 直接带标卖；还有 ComNet",
+   "quote": "用的ONV的 直接带标卖的 还有Comnet的；可以尝试多跟进一下",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Marco Contu",
+   "title": "Product Manager",
+   "email": "info@bettinivideo.com",
+   "phone": "",
+   "source": "用户表"
+  },
+  {
+   "name": "Giuseppe Costantini",
+   "title": "Purchasing Manager",
+   "email": "",
+   "phone": "",
+   "source": "用户表"
+  },
+  {
+   "name": "Walter Bettini",
+   "title": "CEO",
+   "email": "walter.bettini@bettinivideo.com",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "意大利",
+  "other": "官网 bettinivideo.com，语言 en-GB，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "视频监控方案（自有品牌 GAMS NVR）",
+  "PoE 交换机 / MC（ONV 贴标、ComNet）"
+ ],
+ "channels": {
+  "role": "意大利安防品牌商（GAMS NVR；PoE 现 ONV 贴标 + ComNet）",
+  "region": "意大利",
+  "contact": "info@bettinivideo.com、walter.bettini@bettinivideo.com"
+ },
+ "signals": [
+  "官网：Bettini specializes in providing comprehensive 360° video surveillance solutions and is known for its Italian-designed and manufactured video recording systems under the GAMS brand；页面 /attivita/comnet-switch-media-converter/、/en/product-news/new-nvr-gams-eko/；kw nvr 194 / camera 67 / switch 12",
+  "表内：用的 ONV 的 直接带标卖的 还有 Comnet 的；KP Walter Bettini / CEO；Marco Contu / Product Manager；Giuseppe Costantini / Purchasing Manager"
+ ],
+ "risks": [
+  "现供 ONV（深圳）贴标，价格基准低；ComNet 为工业线既定品牌",
+  "13 次无回复 → 改向 Product Manager / Purchasing Manager 具名首触"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 30,
+  "why": "NVR 配套 PoE（现 ONV 贴 Bettini 标）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；16/24 口位 HRUI STC-2216GPM（列表价，注明）/ STC-424DGGPM-280W（$145.7）；工业位 STI-288GPM 对位 ComNet"
+ },
+ "email_hook": "Marco, for the PoE switches you bundle under the Bettini label with GAMS recorders, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 16/24-PoE + 4 SFP; DIN-rail industrial option) in your packaging from small lots, CE/RoHS — which port count do your installers order most with GAMS systems?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 21 封 2024→2026，1 次记录打开，0 回；收件 costantini@bettinivideo.com, info@bettinivideo.com；主题多为「Industrial PoE Switch、Marvell Industrial Alert System」；Elsa 箱：`to:bettinivideo.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 21 / 来 0）（第 74 批(j)））",
+   "type": "意大利安防品牌商（GAMS NVR；PoE 现 ONV 贴标 + ComNet）",
+   "sieve": "1~2（1 次打开）",
+   "stop": "21 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+   "lane": "意大利（欧洲全域主攻）",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 21，Opened 标签 1（Simon 群发追踪）；用户表：「用的ONV的 直接带标卖的 还有Comnet的」；研究档 risks：现供 ONV（深圳）贴标，价格基准低；ComNet 为工业线既定品牌"
+  },
+  "situation": "意大利 Bettini（360° 视频监控方案；意大利设计制造的 GAMS 品牌录像系统；每年 1000+ 小时培训；在售 ComNet 交换机/MC 与 Milesight；表内「用的 ONV 的，直接带标卖的；还有 ComNet 的」「可以尝试多跟进一下」；KP Walter Bettini（CEO）、Marco Contu（Product Manager）、Giuseppe Costantini（Purchasing Manager））；群发 13 次无回复。",
+  "need": "NVR 配套 PoE（现 ONV 贴 Bettini 标）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；16/24 口位 HRUI STC-2216GPM（列表价，注明）/ STC-424DGGPM-280W（$145.7）；工业位 STI-288GPM 对位 ComNet",
+  "breakpoint": "现供 ONV（深圳）贴标，价格基准低；ComNet 为工业线既定品牌",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 30,
+   "price": "换人再触锚价 STC-28DGGPM $87.4 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-02 $65（10G media converter）；群发里他已看到的价（续，第 66 批全量复核）：2025-08-13 $300（48 Port PoE Managed Switch）、2025-10-16 $280（10G Enterprise SFP Switch）",
+   "why": "NVR 配套 PoE（现 ONV 贴 Bettini 标）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；16/24 口位 HRUI STC-2216GPM（列表价，注明）/ STC-424DGGPM-280W（$145.7）；工业位 STI-288GPM 对位 ComNet。已打开的主题（1/21 封有打开记录）：「WiFi 7 Ready Access Switch」(2026-08-05) → 读者兴趣主题类别不明（看原主题）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1（换人后）",
+   "channel": "A 邮箱 → 具名 KP",
+   "action": "换收件人再发一封",
+   "one_question": "Marco, for the PoE switches you bundle under the Bettini label with GAMS recorders, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 16/24-PoE + 4 SFP; DIN-rail industrial option) in your packaging from small lots, CE/RoHS — which port count do your installers order most with GAMS systems? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity)."
+  },
+  "facts": [
+   {
+    "date": "2026-09-16",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Industrial PoE Switch、Marvell Industrial Alert System",
+    "why": "21 封 / 1 次打开 / 0 回｜首封 2024-07-08 → 末封 2026-09-16（21 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "用的ONV的 直接带标卖的 还有Comnet的",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

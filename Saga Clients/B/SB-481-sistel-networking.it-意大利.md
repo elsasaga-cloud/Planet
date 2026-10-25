@@ -27,7 +27,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -44,7 +44,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-481` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A 邮箱 15 封 2025→2026，1 次记录打开，0 回；收件 info@sistel-networking.it；主题多为「Mini Industrial PoE Switch、16 Port Ethernet Switch」）** ｜ 类型：— ｜ 筛子：1~2（1 次打开） ｜ 停点：只打通用邮箱，无记录打开；Q-33 供应商渠道客户 ｜ 复活：不动（Q-33） ｜ 通路：意大利（欧洲全域主攻） ｜ 节奏：不动 ｜ 证据：gmail_digest：out 15，Opened 标签 1（Simon 群发追踪）；研究档 risks：年台数；决策人（SISTEL srl 业主）
+- **绑定等级：未触达（A 邮箱 15 封 2025→2026，1 次记录打开，0 回；收件 info@sistel-networking.it；主题多为「Mini Industrial PoE Switch、16 Port Ethernet Switch」；Elsa 箱：`to:sistel-networking.it` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 15 / 来 0）（第 74 批(j)））** ｜ 类型：— ｜ 筛子：1~2（1 次打开） ｜ 停点：只打通用邮箱，无记录打开；Q-33 供应商渠道客户 ｜ 复活：不动（Q-33） ｜ 通路：意大利（欧洲全域主攻） ｜ 节奏：不动 ｜ 证据：gmail_digest：out 15，Opened 标签 1（Simon 群发追踪）；研究档 risks：年台数；决策人（SISTEL srl 业主）
 - **现状一句话**：诺瓦拉省的小型网络方案商，给安装商做布线+机柜+PLANET 工业交换机的整包。类型：集成商/方案商（布线/机柜/UPS/工业交换机，面向专业安装商与 IT 经理；SISTEL srl 内部事业部，资本 €10k）。信号：官网 PLANET 工业交换机专页（Industrial Ethernet Solution：IGS-620TF 等）；交换机线为 D-Link + PLANET。Planet 渠道档案 PB-015 评级 B（需求：PLANET 工业专页；触达 info@ 通用；体量小（资本 €10k）；无具名 → B）。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-481，意大利，Saga 群发已推送 4 次无回复）与 Planet 渠道挖掘名单，首触邮件此前未发送。
 - **对方真实需求（有据）**：其 PLANET 工业专页主打 DIN 8 口类；8×GE PoE+ + 2 SFP 入门；方案/集成型 → 25%（沿用 Planet 档案 PB-015）；需求：
 - **断点 / 为什么停在这里**：年台数；决策人（SISTEL srl 业主）
@@ -295,12 +295,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 40）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 40）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

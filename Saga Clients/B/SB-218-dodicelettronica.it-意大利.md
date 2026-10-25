@@ -25,7 +25,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 3
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -42,7 +42,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-218` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：读而不回（A/S 邮箱 30 封 2024→2026，其中 2 封被打开，0 回；收件 info@dodicelettronica.it, ivan.d@dodic.it；被打开主题「Industrial PoE Switch、Marvell Industrial Alert System」）** ｜ 类型：安防分销商（意大利，面向安装商） ｜ 筛子：2（有人在读，无人回） ｜ 停点：读而不回 = 内容未命中或没有当下需求 ｜ 复活：一封「只问一句」的短信给打开过的地址（不附图不附表） ｜ 通路：意大利（欧洲全域主攻） ｜ 节奏：一封；回了再说 ｜ 证据：gmail_digest：out 30，Opened 标签 2（Simon 群发追踪）；用户表：「Mauro邮件中带的；商业PoE」；研究档 risks：多品牌分销（Hikvision/UNV 自带 PoE 交换机，价格基准低）；7 次无回复 → 改向 GM 具名首触
+- **绑定等级：读而不回（A/S 邮箱 30 封 2024→2026，其中 2 封被打开，0 回；收件 info@dodicelettronica.it, ivan.d@dodic.it；被打开主题「Industrial PoE Switch、Marvell Industrial Alert System」；Elsa 箱：`to:dodicelettronica.it OR to:dodicgroup.it` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 30 / 来 0）（第 74 批(j)））** ｜ 类型：安防分销商（意大利，面向安装商） ｜ 筛子：2（有人在读，无人回） ｜ 停点：读而不回 = 内容未命中或没有当下需求 ｜ 复活：一封「只问一句」的短信给打开过的地址（不附图不附表） ｜ 通路：意大利（欧洲全域主攻） ｜ 节奏：一封；回了再说 ｜ 证据：gmail_digest：out 30，Opened 标签 2（Simon 群发追踪）；用户表：「Mauro邮件中带的；商业PoE」；研究档 risks：多品牌分销（Hikvision/UNV 自带 PoE 交换机，价格基准低）；7 次无回复 → 改向 GM 具名首触
 - **现状一句话**：意大利 Dodic（1975 年起面向安装商的安防/防盗/视频监控/家居自动化官方分销商；培训课程 Hikvision、Risco、Micromac、UNV；表内「Mauro 邮件中带的 / 商业 PoE」「可以尝试多跟进一下」；KP Simone D’Andrea（General Manager e A.D.）、Ivan Stazio（CFO））；表内 7 次跟进无回复。
 - **对方真实需求（有据）**：安装商配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）；非管理 4/8/16 PoE 位 HRUI（列表价，注明）
 - **断点 / 为什么停在这里**：多品牌分销（Hikvision/UNV 自带 PoE 交换机，价格基准低）；7 次无回复 → 改向 GM 具名首触
@@ -302,12 +302,12 @@ Saga Telecom · sagatele.com
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 B，分数 48）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 B，分数 48）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

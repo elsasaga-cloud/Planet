@@ -1,133 +1,133 @@
 {
-  "code": "SB-052",
-  "name_official": "Addon Technology Ltd（Co. 04256748，London N11；addon-tech.com；自有品牌 ADDON）",
-  "researched_at": "2026-10-21",
-  "website_status": "在线",
-  "summary": "伦敦北部的自有品牌网络产品商（2001-07 注册；ADDON 品牌 ADSL 路由器、WiFi 扩展器、有线网络、无线网卡、硬盘盒、Travelmate 配件；通过分销商、系统组装商、VAR 与电商覆盖欧洲；ZoomInfo 营收 <$5M；自称「UK Manufacturer」实为贴牌）。典型 SOHO 级 OEM 买家，可补 PoE 交换机 SKU。用户表：17 次跟进 0 回复。",
-  "type": "",
-  "size": "",
-  "brands_seen": [
-    "ADDON（自有品牌）"
-  ],
-  "evidence": [
-    {
-      "kind": "官网",
-      "claim": "品牌与产品线",
-      "quote": "Since 2001 ADDON has been providing our loyal customers a personal service with quality products at market-leading prices … UK Manufacturer of Networking and Accessories. - Networking - ADSL & Routers - Wifi Range Extenders - Wired Networking - Wireless Adapters",
-      "url": "https://www.addon-tech.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网",
-      "claim": "渠道",
-      "quote": "Addon Technology Ltd., founded in the year 2001, has been providing high quality networking products to customers across Europe through distributors, system builders, VARS and e-traders.",
-      "url": "https://addon-tech.com/browse/information/about-us/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "登记",
-      "claim": "法人登记",
-      "quote": "ADDON TECHNOLOGY LTD … Ground Floor Building 3 Oakleigh Road South, North London Business Centre, London, England, N11 1GN … Incorporated on: 23 July 2001",
-      "url": "https://find-and-update.company-information.service.gov.uk/company/04256748",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "名录",
-      "claim": "营收规模",
-      "quote": "Addon Technology … Revenue <$5 Million … Industry Manufacturing, Telecommunication Equipment",
-      "url": "https://www.zoominfo.com/c/addon-technology-ltd/354088490",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "17 次跟进 0 回复",
-      "quote": "（用户表字段）",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（官网 + Companies House 核对）"
+ "code": "SB-052",
+ "name_official": "Addon Technology Ltd（Co. 04256748，London N11；addon-tech.com；自有品牌 ADDON）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线",
+ "summary": "伦敦北部的自有品牌网络产品商（2001-07 注册；ADDON 品牌 ADSL 路由器、WiFi 扩展器、有线网络、无线网卡、硬盘盒、Travelmate 配件；通过分销商、系统组装商、VAR 与电商覆盖欧洲；ZoomInfo 营收 <$5M；自称「UK Manufacturer」实为贴牌）。典型 SOHO 级 OEM 买家，可补 PoE 交换机 SKU。用户表：17 次跟进 0 回复。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "ADDON（自有品牌）"
+ ],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "品牌与产品线",
+   "quote": "Since 2001 ADDON has been providing our loyal customers a personal service with quality products at market-leading prices … UK Manufacturer of Networking and Accessories. - Networking - ADSL & Routers - Wifi Range Extenders - Wired Networking - Wireless Adapters",
+   "url": "https://www.addon-tech.com/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "legal_name": "Addon Technology Ltd（Companies House 04256748，2001-07-23；SIC 62090）",
-    "hq": "Ground Floor, Building 3, North London Business Park, Oakleigh Road South, London N11 1GN（+44 844 801 1286）",
-    "size": "<$5M（ZoomInfo）；小型",
-    "other": "渠道：distributors / system builders / VARs / e-traders across Europe"
+  {
+   "kind": "官网",
+   "claim": "渠道",
+   "quote": "Addon Technology Ltd., founded in the year 2001, has been providing high quality networking products to customers across Europe through distributors, system builders, VARS and e-traders.",
+   "url": "https://addon-tech.com/browse/information/about-us/",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "ADDON 品牌 SOHO 网络产品（路由器、WiFi 扩展器、网卡、有线网络）",
-    "电脑配件与 Travelmate 移动配件"
-  ],
-  "channels": {
-    "网站": "https://www.addon-tech.com/",
-    "电话": "+44 844 801 1286（官网公开）"
+  {
+   "kind": "登记",
+   "claim": "法人登记",
+   "quote": "ADDON TECHNOLOGY LTD … Ground Floor Building 3 Oakleigh Road South, North London Business Centre, London, England, N11 1GN … Incorporated on: 23 July 2001",
+   "url": "https://find-and-update.company-information.service.gov.uk/company/04256748",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "自有品牌 + 欧洲分销网络 → 贴 ADDON 标的 5/8 口千兆与 PoE 桌面交换机可直接进其目录"
-  ],
-  "risks": [
-    "SOHO 价位极低（Realtek 线更合适）；17 次推送 0 回复"
-  ],
-  "saga_fit": {
-    "p1": "STC-028GP",
-    "tier": 30,
-    "why": "OEM 30% 档：STC-028GP（Saga Realtek 线，2 GE 上联 + 8 GE PoE 非管理 120W，列表 $24.2）与 STC-08GE（$10.5）贴 ADDON 标；管理型 STC-28DGGPM 作高端 SKU"
+  {
+   "kind": "名录",
+   "claim": "营收规模",
+   "quote": "Addon Technology … Revenue <$5 Million … Industry Manufacturing, Telecommunication Equipment",
+   "url": "https://www.zoominfo.com/c/addon-technology-ltd/354088490",
+   "date": "2026-10-21"
   },
-  "email_hook": "For the ADDON wired-networking range, an 8-port gigabit PoE desktop switch (120 W, your label and box) is $27.2 EXW and the plain 8-port gigabit at $10.5; which carton size do your e-traders prefer?",
-  "mail_review": {
-    "binding": {
-      "level": "未触达（A/S 邮箱 27 封 2024→2026，1 次记录打开，0 回；收件 purchase@addon-tech.com；主题多为「Industrial PoE Switch、10G Enterprise SFP Switch」）",
-      "type": "—",
-      "sieve": "1~2（1 次打开）",
-      "stop": "27 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-      "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
-      "lane": "UK 主攻（四主）",
-      "cadence": "一封",
-      "evidence": "gmail_digest：out 27，Opened 标签 1（Simon 群发追踪）；用户表：「（用户表字段）」；研究档 risks：SOHO 价位极低（Realtek 线更合适）；17 次推送 0 回复"
-    },
-    "situation": "伦敦北部的自有品牌网络产品商（2001-07 注册；ADDON 品牌 ADSL 路由器、WiFi 扩展器、有线网络、无线网卡、硬盘盒、Travelmate 配件；通过分销商、系统组装商、VAR 与电商覆盖欧洲；ZoomInfo 营收 <$5M；自称「UK Manufacturer」实为贴牌）。典型 SOHO 级 OEM 买家，可补 PoE 交换机 SKU。用户表：17 次跟进 0 回复。",
-    "need": "OEM 30% 档：STC-028GP（Saga Realtek 线，2 GE 上联 + 8 GE PoE 非管理 120W，列表 $24.2）与 STC-08GE（$10.5）贴 ADDON 标；管理型 STC-28DGGPM 作高端 SKU",
-    "breakpoint": "SOHO 价位极低（Realtek 线更合适）；17 次推送 0 回复",
-    "saga_now": {
-      "p1": "STC-028GP",
-      "tier": 30,
-      "price": "STC-028GP $27.2（洪瑞 2026-09-30 进价 140 CNY +30%，Q-47；Drive 旧表 $24.2 不用；第 73 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-08 $65（10G Media Converter）、2024-12-05 $300（48 Port PoE Managed Switch）、2025-01-31 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-08-19 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-30 $280（10G Enterprise SFP Switch）",
-      "why": "OEM 30% 档：STC-028GP（Saga Realtek 线，2 GE 上联 + 8 GE PoE 非管理 120W，列表 $24.2）与 STC-08GE（$10.5）贴 ADDON 标；管理型 STC-28DGGPM 作高端 SKU。已打开的主题（1/27 封有打开记录）：「Web managed switch」(2024-09-03) → 读者兴趣主题类别不明（看原主题）",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "2027-Q1（换人后）",
-      "channel": "A 邮箱 → 具名 KP",
-      "action": "换收件人再发一封",
-      "one_question": "For the ADDON wired-networking range, an 8-port gigabit PoE desktop switch (120 W, your label and box) is $27.2 EXW and the plain 8-port gigabit at $10.5; which carton size do your e-traders prefer?"
-    },
-    "facts": [
-      {
-        "date": "2026-08-19",
-        "dir": "去",
-        "who": "A/S 群发",
-        "quote": "Industrial PoE Switch、10G Enterprise SFP Switch",
-        "why": "27 封 / 1 次打开 / 0 回｜首封 2024-07-11 → 末封 2026-08-19（27 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "（用户表字段）",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "17 次跟进 0 回复",
+   "quote": "（用户表字段）",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网 + Companies House 核对）"
+ },
+ "company_facts": {
+  "legal_name": "Addon Technology Ltd（Companies House 04256748，2001-07-23；SIC 62090）",
+  "hq": "Ground Floor, Building 3, North London Business Park, Oakleigh Road South, London N11 1GN（+44 844 801 1286）",
+  "size": "<$5M（ZoomInfo）；小型",
+  "other": "渠道：distributors / system builders / VARs / e-traders across Europe"
+ },
+ "business_lines": [
+  "ADDON 品牌 SOHO 网络产品（路由器、WiFi 扩展器、网卡、有线网络）",
+  "电脑配件与 Travelmate 移动配件"
+ ],
+ "channels": {
+  "网站": "https://www.addon-tech.com/",
+  "电话": "+44 844 801 1286（官网公开）"
+ },
+ "signals": [
+  "自有品牌 + 欧洲分销网络 → 贴 ADDON 标的 5/8 口千兆与 PoE 桌面交换机可直接进其目录"
+ ],
+ "risks": [
+  "SOHO 价位极低（Realtek 线更合适）；17 次推送 0 回复"
+ ],
+ "saga_fit": {
+  "p1": "STC-028GP",
+  "tier": 30,
+  "why": "OEM 30% 档：STC-028GP（Saga Realtek 线，2 GE 上联 + 8 GE PoE 非管理 120W，列表 $24.2）与 STC-08GE（$10.5）贴 ADDON 标；管理型 STC-28DGGPM 作高端 SKU"
+ },
+ "email_hook": "For the ADDON wired-networking range, an 8-port gigabit PoE desktop switch (120 W, your label and box) is $27.2 EXW and the plain 8-port gigabit at $10.5; which carton size do your e-traders prefer?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 27 封 2024→2026，1 次记录打开，0 回；收件 purchase@addon-tech.com；主题多为「Industrial PoE Switch、10G Enterprise SFP Switch」；Elsa 箱：`to:addon-tech.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 27 / 来 0）（第 74 批(j)））",
+   "type": "—",
+   "sieve": "1~2（1 次打开）",
+   "stop": "27 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+   "lane": "UK 主攻（四主）",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 27，Opened 标签 1（Simon 群发追踪）；用户表：「（用户表字段）」；研究档 risks：SOHO 价位极低（Realtek 线更合适）；17 次推送 0 回复"
+  },
+  "situation": "伦敦北部的自有品牌网络产品商（2001-07 注册；ADDON 品牌 ADSL 路由器、WiFi 扩展器、有线网络、无线网卡、硬盘盒、Travelmate 配件；通过分销商、系统组装商、VAR 与电商覆盖欧洲；ZoomInfo 营收 <$5M；自称「UK Manufacturer」实为贴牌）。典型 SOHO 级 OEM 买家，可补 PoE 交换机 SKU。用户表：17 次跟进 0 回复。",
+  "need": "OEM 30% 档：STC-028GP（Saga Realtek 线，2 GE 上联 + 8 GE PoE 非管理 120W，列表 $24.2）与 STC-08GE（$10.5）贴 ADDON 标；管理型 STC-28DGGPM 作高端 SKU",
+  "breakpoint": "SOHO 价位极低（Realtek 线更合适）；17 次推送 0 回复",
+  "saga_now": {
+   "p1": "STC-028GP",
+   "tier": 30,
+   "price": "STC-028GP $27.2（洪瑞 2026-09-30 进价 140 CNY +30%，Q-47；Drive 旧表 $24.2 不用；第 73 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-08 $65（10G Media Converter）、2024-12-05 $300（48 Port PoE Managed Switch）、2025-01-31 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-08-19 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-30 $280（10G Enterprise SFP Switch）",
+   "why": "OEM 30% 档：STC-028GP（Saga Realtek 线，2 GE 上联 + 8 GE PoE 非管理 120W，列表 $24.2）与 STC-08GE（$10.5）贴 ADDON 标；管理型 STC-28DGGPM 作高端 SKU。已打开的主题（1/27 封有打开记录）：「Web managed switch」(2024-09-03) → 读者兴趣主题类别不明（看原主题）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1（换人后）",
+   "channel": "A 邮箱 → 具名 KP",
+   "action": "换收件人再发一封",
+   "one_question": "For the ADDON wired-networking range, an 8-port gigabit PoE desktop switch (120 W, your label and box) is $27.2 EXW and the plain 8-port gigabit at $10.5; which carton size do your e-traders prefer?"
+  },
+  "facts": [
+   {
+    "date": "2026-08-19",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Industrial PoE Switch、10G Enterprise SFP Switch",
+    "why": "27 封 / 1 次打开 / 0 回｜首封 2024-07-11 → 末封 2026-08-19（27 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "（用户表字段）",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

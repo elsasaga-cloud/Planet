@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -42,7 +42,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-139` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：无绑定（2024-05-02/03 Luis 三封一句话回复「Amazing」「that's sounds great」→ 报 STI-050GE $25 → 「None whatsoever!」= 不要样品；之后 26 封群发无回）；退信：info@barox.de 2024-07-19、info@barox.de 2025-03-12、luis.coello@barox.de 2024-06-26、luis.coello@barox.de 2025-03-12** ｜ 类型：德国视频网络交换机品牌商（Barox；Luis = META 区销售总监，西班牙号码）——第一档品牌商，但回信者是销售不是采购 ｜ 筛子：2（问价后拒样） ｜ 停点：销售总监对供应商没有采购权；「None whatsoever」是礼貌的拒绝 ｜ 复活：只有找到 Barox 产品/采购负责人才值得再发 ｜ 通路：DE 主攻 ｜ 节奏：不动（换联系人再说） ｜ 证据：k=ae372c96fe2917af / 15383b63e796c734 / c3a6ce39d1213582；f68b73f1522697d3（$25）；第 19 批回补来信原文 2 条（gmail_s/gmail_a）
+- **绑定等级：无绑定（2024-05-02/03 Luis 三封一句话回复「Amazing」「that's sounds great」→ 报 STI-050GE $25 → 「None whatsoever!」= 不要样品；之后 26 封群发无回）；退信：info@barox.de 2024-07-19、info@barox.de 2025-03-12、luis.coello@barox.de 2024-06-26、luis.coello@barox.de 2025-03-12；Elsa 箱：`to:barox.de OR to:barox.ch` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 26 / 来 3）（第 74 批(j)）** ｜ 类型：德国视频网络交换机品牌商（Barox；Luis = META 区销售总监，西班牙号码）——第一档品牌商，但回信者是销售不是采购 ｜ 筛子：2（问价后拒样） ｜ 停点：销售总监对供应商没有采购权；「None whatsoever」是礼貌的拒绝 ｜ 复活：只有找到 Barox 产品/采购负责人才值得再发 ｜ 通路：DE 主攻 ｜ 节奏：不动（换联系人再说） ｜ 证据：k=ae372c96fe2917af / 15383b63e796c734 / c3a6ce39d1213582；f68b73f1522697d3（$25）；第 19 批回补来信原文 2 条（gmail_s/gmail_a）
 - **现状一句话**：三封热情的一句话回复后，问「要几台样品」得到「None whatsoever!」。对方是卖 Barox 的人，不是买交换机的人。
 - **对方真实需求（有据）**：OEM 工业 FS（PC-PIGE500-GBTE 同类）。
 - **断点 / 为什么停在这里**：联系人错位。
@@ -315,12 +315,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 50）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 50）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

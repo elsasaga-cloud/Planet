@@ -27,7 +27,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -44,7 +44,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-089` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：轻度绑定（2025-03-17 Alan 对其 RFQ「MOH-TA-170325」出了 500 台报价：STI-288DGGPM-2BT ×400 + STI-42424XGGPM ×100，装箱单 42 箱 760 kg；对方 5 封实质回复：报价顺序质疑 → 「too expensive」→ 要差异说明 → 要户外版 → 2025-05-15「no news yet」；之后 Alan 11 封群发无回）** ｜ 类型：英国结构化布线/网络产品品牌分销（Linxcom UK；Hussain = Purchasing & Product Development Manager，RFQ 编号 MOH-TA 指向中东卫生部类标书）——第二档有进口经验的分销 ｜ 筛子：4（报价 + 技术对表 + 户外改版诉求），卡在价格 ｜ 停点：价格：2025-03-18「The prices are too expensive」；Alan 的回法是「如果你只是买卖那是贵了；如果看技术就值」+ ChatGPT 附件——没有给出降价空间或 MOQ 阶梯；2025-05-15 项目无消息后再无实质往来 ｜ 复活：一封只做两件事的信：① 问 MOH-TA 标书最终结果（中了谁、什么价位）；② 给 400+100 台这一量级的重算价（SmartByte 2026-09 价 + 20%，与 2025-03 相比应有明显下降空间） ｜ 通路：UK 主攻 + 中东项目 ｜ 节奏：一封结果信；之后半年一次项目询问，不群发 ｜ 证据：k=c9837fd061da8de5（报价 + PL.xls：400/100 台、42 箱、660/760 kg）；5d5ae90a6d294cbd（顺序质疑）；bcfbcbc7aff20e51（too expensive）；2f38e52e0a8ab212（Alan 回法）；d91fcb4809f3db04（要差异说明）；365aa3e5b9a0605e（Q3 版数据表 + 问预算）；7b0d91fec35aaa9c（户外版）；1f18c82924a11d1e（IP 等级解释）；d385ca588de7d060（no news yet）；A 邮箱附件正文 `data/gmail_a/attachments/text/`（2026-10-24 对表）；A 邮箱外发报价单正文（`data/gmail_a/attachments/text/`，2026-10-24 对表）
+- **绑定等级：轻度绑定（2025-03-17 Alan 对其 RFQ「MOH-TA-170325」出了 500 台报价：STI-288DGGPM-2BT ×400 + STI-42424XGGPM ×100，装箱单 42 箱 760 kg；对方 5 封实质回复：报价顺序质疑 → 「too expensive」→ 要差异说明 → 要户外版 → 2025-05-15「no news yet」；之后 Alan 11 封群发无回；Elsa 箱：`to:linx-com.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 19 / 来 6）（第 74 批(j)））** ｜ 类型：英国结构化布线/网络产品品牌分销（Linxcom UK；Hussain = Purchasing & Product Development Manager，RFQ 编号 MOH-TA 指向中东卫生部类标书）——第二档有进口经验的分销 ｜ 筛子：4（报价 + 技术对表 + 户外改版诉求），卡在价格 ｜ 停点：价格：2025-03-18「The prices are too expensive」；Alan 的回法是「如果你只是买卖那是贵了；如果看技术就值」+ ChatGPT 附件——没有给出降价空间或 MOQ 阶梯；2025-05-15 项目无消息后再无实质往来 ｜ 复活：一封只做两件事的信：① 问 MOH-TA 标书最终结果（中了谁、什么价位）；② 给 400+100 台这一量级的重算价（SmartByte 2026-09 价 + 20%，与 2025-03 相比应有明显下降空间） ｜ 通路：UK 主攻 + 中东项目 ｜ 节奏：一封结果信；之后半年一次项目询问，不群发 ｜ 证据：k=c9837fd061da8de5（报价 + PL.xls：400/100 台、42 箱、660/760 kg）；5d5ae90a6d294cbd（顺序质疑）；bcfbcbc7aff20e51（too expensive）；2f38e52e0a8ab212（Alan 回法）；d91fcb4809f3db04（要差异说明）；365aa3e5b9a0605e（Q3 版数据表 + 问预算）；7b0d91fec35aaa9c（户外版）；1f18c82924a11d1e（IP 等级解释）；d385ca588de7d060（no news yet）；A 邮箱附件正文 `data/gmail_a/attachments/text/`（2026-10-24 对表）；A 邮箱外发报价单正文（`data/gmail_a/attachments/text/`，2026-10-24 对表）
 - **现状一句话**：2025-03 Linxcom 拿着一张 500 台的项目清单来询价（100 台 8 口 2BT 管理 PoE + 400 台 24 口 10G 上联 L3 工业 PoE，按装箱单合计 760 kg），Alan 当天出报价并说 25~30 个工作日交期。对方次日说贵；Alan 没有谈价，而是讲 Marvell 高端定位并附 ChatGPT 对比。4 月对方还在跟：要 Saga 型号与他们手里数据表的差异说明、要户外版；5 月 15 日说项目还没消息。之后 Alan 转为每月一封群发，再无回复。这是 A 邮箱里体量最大的一张 RFQ（500 台）之一，败因是价格谈判没有展开。
 - **对方真实需求（有据）**：项目级：24 口 L3 工业 PoE（10G 上联）×400 + 8 口 2BT 管理工业 PoE ×100，可能要户外箱体方案。
 - **断点 / 为什么停在这里**：对手不是 Cisco/Planet 而是深圳 N-net（同价带国产）：Linxcom 2025-03-18 说「too expensive」、04-22 拿 N-net 规格书要 Saga 解释差异 → Saga 的差异只能是 Marvell/软件平台与长期供货，不是价格。对位：N-net 244PGM ↔ STI-42424XGGPM(L3) $517；N-net 10 口 bt ↔ STI-288DGGPM-2BT $154。
@@ -299,12 +299,12 @@ Saga Telecom · sagatele.com
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 54）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 54）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -28,7 +28,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -45,7 +45,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-061` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未绑定（要免费样机被付样规则筛掉）** ｜ 类型：德国微型安防安装商（UG，注册资本 6,000 €；Dahua/Ajax 认证）——第四档 ｜ 筛子：2（「we need to replace a lot of switches」） ｜ 停点：2025-05-13 Alan「We do not do FREE samples」→ 2025-06-10 只问「Are the switches manageable?」→ 之后无回；2026-08-11 起域名 smart-protect.nrw 解析不到（公司可能已停业/换域名） ｜ 复活：付样 1 台 8 口 PoE 管理型；微型客户复利低，不追 ｜ 通路：DE ｜ 节奏：2025-04 → 2026-09 去信 14 封；最后来信 2025-06-10 ｜ 证据：k=7136278ff3be94f4 / 444284f57e12d0d2 / f66547fc66c47b76 / 5ed6cfdaf428d52c
+- **绑定等级：未绑定（要免费样机被付样规则筛掉；Elsa 箱：`to:smart-protect.nrw OR to:walker-security.systems` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 14 / 来 3）（第 74 批(j)））** ｜ 类型：德国微型安防安装商（UG，注册资本 6,000 €；Dahua/Ajax 认证）——第四档 ｜ 筛子：2（「we need to replace a lot of switches」） ｜ 停点：2025-05-13 Alan「We do not do FREE samples」→ 2025-06-10 只问「Are the switches manageable?」→ 之后无回；2026-08-11 起域名 smart-protect.nrw 解析不到（公司可能已停业/换域名） ｜ 复活：付样 1 台 8 口 PoE 管理型；微型客户复利低，不追 ｜ 通路：DE ｜ 节奏：2025-04 → 2026-09 去信 14 封；最后来信 2025-06-10 ｜ 证据：k=7136278ff3be94f4 / 444284f57e12d0d2 / f66547fc66c47b76 / 5ed6cfdaf428d52c
 - **现状一句话**：Andrew Walker（CEO）2025-05-13 回「要一台免费交换机测试，我们要换一大批」，Alan 按规则拒绝免费样并给热销型号；06-10 他只问了一句「可管理吗」，Alan 答「那是非管理，也有管理系列」后对话结束。
 - **对方真实需求（有据）**：替换一批（数量不明）安防用 PoE 交换机，要管理型。
 - **断点 / 为什么停在这里**：付样规则是筛子，筛掉了一个微型安装商——符合设计；不改。
@@ -273,12 +273,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 78）；人工/调研定级 → B
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 78）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

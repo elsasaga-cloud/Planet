@@ -1,5 +1,5 @@
 {
- "_note": "第 74 批(g) 2026-10-25 03:15Z–03:25Z：A 级（含 grade_override A）尚未核实 Elsa 触达的 66 户逐户 `in:sent to:<域>`（max 5）；0 条且 complete:true = Elsa 箱从未发过本域（To 与 Bcc 都查）。另 17 户为第 73 批(o) 2026-10-24 的逐户 0 结果补记。SC-1006 域为 live.com.my 免费邮箱，未探。 第 74 批(h) 03:16Z–03:19Z：美国/加拿大 B 级 116 户逐户同法（115 户 0，1 户命中拉美批）。 第 74 批(i) 03:22Z–03:29Z：土耳其 B 级 100 户逐户同法（100 户全 0，complete）。",
+ "_note": "第 74 批(g) 2026-10-25 03:15Z–03:25Z：A 级（含 grade_override A）尚未核实 Elsa 触达的 66 户逐户 `in:sent to:<域>`（max 5）；0 条且 complete:true = Elsa 箱从未发过本域（To 与 Bcc 都查）。另 17 户为第 73 批(o) 2026-10-24 的逐户 0 结果补记。SC-1006 域为 live.com.my 免费邮箱，未探。 第 74 批(h) 03:16Z–03:19Z：美国/加拿大 B 级 116 户逐户同法（115 户 0，1 户命中拉美批）。 第 74 批(i) 03:21Z–03:25Z：土耳其 B 级 100 户逐户同法（100 户全 0，complete）。 第 74 批(j) 03:26Z–03:31Z：德国 24 / 英国 18 / 意大利 27 共 69 户 B 级逐户同法（全 0，complete；SB-459 只查 casecomms.com，uk.com 泛域不查）。",
  "zero": [
   {
    "code": "SA-001",
@@ -1404,6 +1404,351 @@
    "code": "SC-329",
    "q": "to:noktaelektronik.net",
    "as_of": "2026-10-25 第 74 批(i)"
+  },
+  {
+   "code": "SA-061",
+   "q": "to:smart-protect.nrw OR to:walker-security.systems",
+   "as_of": "2026-10-25 第 74 批(j)"
+  },
+  {
+   "code": "SA-087",
+   "q": "to:voipdistri.com",
+   "as_of": "2026-10-25 第 74 批(j)"
+  },
+  {
+   "code": "SA-157",
+   "q": "to:liveye.com",
+   "as_of": "2026-10-25 第 74 批(j)"
+  },
+  {
+   "code": "SB-008",
+   "q": "to:adlerss.com",
+   "as_of": "2026-10-25 第 74 批(j)"
+  },
+  {
+   "code": "SB-023",
+   "q": "to:grundig-security.com OR to:abetechs.com",
+   "as_of": "2026-10-25 第 74 批(j)"
+  },
+  {
+   "code": "SB-1001",
+   "q": "to:stordis.com",
+   "as_of": "2026-10-25 第 74 批(j)"
+  },
+  {
+   "code": "SB-101",
+   "q": "to:comtek-de.com",
+   "as_of": "2026-10-25 第 74 批(j)"
+  },
+  {
+   "code": "SB-1106",
+   "q": "to:b-plus.com",
+   "as_of": "2026-10-25 第 74 批(j)"
+  },
+  {
+   "code": "SB-139",
+   "q": "to:barox.de OR to:barox.ch",
+   "as_of": "2026-10-25 第 74 批(j)"
+  },
+  {
+   "code": "SB-148",
+   "q": "to:level1.com OR to:ddc-group.com",
+   "as_of": "2026-10-25 第 74 批(j)"
+  },
+  {
+   "code": "SB-151",
+   "q": "to:microsens.com OR to:microsens.de",
+   "as_of": "2026-10-25 第 74 批(j)"
+  },
+  {
+   "code": "SB-167",
+   "q": "to:aixontec.com",
+   "as_of": "2026-10-25 第 74 批(j)"
+  },
+  {
+   "code": "SB-229",
+   "q": "to:multiguide.com",
+   "as_of": "2026-10-25 第 74 批(j)"
+  },
+  {
+   "code": "SB-327",
+   "q": "to:welotec.com",
+   "as_of": "2026-10-25 第 74 批(j)"
+  },
+  {
+   "code": "SB-328",
+   "q": "to:wieland-electric.com",
+   "as_of": "2026-10-25 第 74 批(j)"
+  },
+  {
+   "code": "SB-457",
+   "q": "to:bma-networks.com",
+   "as_of": "2026-10-25 第 74 批(j)"
+  },
+  {
+   "code": "SB-482",
+   "q": "to:syserso.com",
+   "as_of": "2026-10-25 第 74 批(j)"
+  },
+  {
+   "code": "SB-640",
+   "q": "to:ipc2u.com OR to:ipc2u.de",
+   "as_of": "2026-10-25 第 74 批(j)"
+  },
+  {
+   "code": "SB-714",
+   "q": "to:mgt.bayern",
+   "as_of": "2026-10-25 第 74 批(j)"
+  },
+  {
+   "code": "SB-725",
+   "q": "to:pandacomdirekt.de OR to:pandacom.de",
+   "as_of": "2026-10-25 第 74 批(j)"
+  },
+  {
+   "code": "SB-826",
+   "q": "to:eu.com OR to:profichipusa.com",
+   "as_of": "2026-10-25 第 74 批(j)"
+  },
+  {
+   "code": "SB-937",
+   "q": "to:eneo-security.com",
+   "as_of": "2026-10-25 第 74 批(j)"
+  },
+  {
+   "code": "SB-943",
+   "q": "to:inline-info.com",
+   "as_of": "2026-10-25 第 74 批(j)"
+  },
+  {
+   "code": "SB-952",
+   "q": "to:qualicam.de OR to:ueberwachung.tv",
+   "as_of": "2026-10-25 第 74 批(j)"
+  },
+  {
+   "code": "SB-009",
+   "q": "to:fingerprint-access-control.com OR to:borer.co.uk",
+   "as_of": "2026-10-25 第 74 批(j)"
+  },
+  {
+   "code": "SB-039",
+   "q": "to:genrov.com",
+   "as_of": "2026-10-25 第 74 批(j)"
+  },
+  {
+   "code": "SB-052",
+   "q": "to:addon-tech.com",
+   "as_of": "2026-10-25 第 74 批(j)"
+  },
+  {
+   "code": "SB-074",
+   "q": "to:optiwatchgroup.com OR to:optimumgroupcompanies.com",
+   "as_of": "2026-10-25 第 74 批(j)"
+  },
+  {
+   "code": "SB-077",
+   "q": "to:wire.tech",
+   "as_of": "2026-10-25 第 74 批(j)"
+  },
+  {
+   "code": "SB-089",
+   "q": "to:linx-com.com",
+   "as_of": "2026-10-25 第 74 批(j)"
+  },
+  {
+   "code": "SB-1019",
+   "q": "to:briticom.net OR to:teltronix.net",
+   "as_of": "2026-10-25 第 74 批(j)"
+  },
+  {
+   "code": "SB-1337",
+   "q": "to:millievolution.com",
+   "as_of": "2026-10-25 第 74 批(j)"
+  },
+  {
+   "code": "SB-205",
+   "q": "to:tier1ds.com",
+   "as_of": "2026-10-25 第 74 批(j)"
+  },
+  {
+   "code": "SB-332",
+   "q": "to:amgsystems.com",
+   "as_of": "2026-10-25 第 74 批(j)"
+  },
+  {
+   "code": "SB-433",
+   "q": "to:espuk.com OR to:esp-uk.com",
+   "as_of": "2026-10-25 第 74 批(j)"
+  },
+  {
+   "code": "SB-459",
+   "q": "to:casecomms.com",
+   "as_of": "2026-10-25 第 74 批(j)"
+  },
+  {
+   "code": "SB-610",
+   "q": "to:carritech.com",
+   "as_of": "2026-10-25 第 74 批(j)"
+  },
+  {
+   "code": "SB-791",
+   "q": "to:comms-express.com",
+   "as_of": "2026-10-25 第 74 批(j)"
+  },
+  {
+   "code": "SB-810",
+   "q": "to:britaniccablingproduction.com OR to:bcp-uk.com",
+   "as_of": "2026-10-25 第 74 批(j)"
+  },
+  {
+   "code": "SB-842",
+   "q": "to:itmsystems.co.uk OR to:itmsystems.net",
+   "as_of": "2026-10-25 第 74 批(j)"
+  },
+  {
+   "code": "SB-862",
+   "q": "to:silvernet.com",
+   "as_of": "2026-10-25 第 74 批(j)"
+  },
+  {
+   "code": "SB-863",
+   "q": "to:simpleuk.com",
+   "as_of": "2026-10-25 第 74 批(j)"
+  },
+  {
+   "code": "SA-025",
+   "q": "to:sicurmax.com",
+   "as_of": "2026-10-25 第 74 批(j)"
+  },
+  {
+   "code": "SB-024",
+   "q": "to:stsitalia.com",
+   "as_of": "2026-10-25 第 74 批(j)"
+  },
+  {
+   "code": "SB-069",
+   "q": "to:exsys.it",
+   "as_of": "2026-10-25 第 74 批(j)"
+  },
+  {
+   "code": "SB-086",
+   "q": "to:elmospa.com",
+   "as_of": "2026-10-25 第 74 批(j)"
+  },
+  {
+   "code": "SB-1157",
+   "q": "to:asit.it",
+   "as_of": "2026-10-25 第 74 批(j)"
+  },
+  {
+   "code": "SB-1173",
+   "q": "to:coeldistribution.it",
+   "as_of": "2026-10-25 第 74 批(j)"
+  },
+  {
+   "code": "SB-130",
+   "q": "to:intellisystem.it",
+   "as_of": "2026-10-25 第 74 批(j)"
+  },
+  {
+   "code": "SB-135",
+   "q": "to:elsikr.it",
+   "as_of": "2026-10-25 第 74 批(j)"
+  },
+  {
+   "code": "SB-170",
+   "q": "to:bositaly.it",
+   "as_of": "2026-10-25 第 74 批(j)"
+  },
+  {
+   "code": "SB-173",
+   "q": "to:digimax.it",
+   "as_of": "2026-10-25 第 74 批(j)"
+  },
+  {
+   "code": "SB-179",
+   "q": "to:innowatt.it",
+   "as_of": "2026-10-25 第 74 批(j)"
+  },
+  {
+   "code": "SB-180",
+   "q": "to:iotech-italia.net",
+   "as_of": "2026-10-25 第 74 批(j)"
+  },
+  {
+   "code": "SB-215",
+   "q": "to:contradata.it",
+   "as_of": "2026-10-25 第 74 批(j)"
+  },
+  {
+   "code": "SB-218",
+   "q": "to:dodicelettronica.it OR to:dodicgroup.it",
+   "as_of": "2026-10-25 第 74 批(j)"
+  },
+  {
+   "code": "SB-220",
+   "q": "to:electronikhouse.it",
+   "as_of": "2026-10-25 第 74 批(j)"
+  },
+  {
+   "code": "SB-236",
+   "q": "to:sea-srl.it",
+   "as_of": "2026-10-25 第 74 批(j)"
+  },
+  {
+   "code": "SB-238",
+   "q": "to:sisav.it",
+   "as_of": "2026-10-25 第 74 批(j)"
+  },
+  {
+   "code": "SB-239",
+   "q": "to:solpakutec.com",
+   "as_of": "2026-10-25 第 74 批(j)"
+  },
+  {
+   "code": "SB-244",
+   "q": "to:wicomsolutions.it",
+   "as_of": "2026-10-25 第 74 批(j)"
+  },
+  {
+   "code": "SB-428",
+   "q": "to:bettinivideo.com",
+   "as_of": "2026-10-25 第 74 批(j)"
+  },
+  {
+   "code": "SB-429",
+   "q": "to:bvsecurity.com",
+   "as_of": "2026-10-25 第 74 批(j)"
+  },
+  {
+   "code": "SB-444",
+   "q": "to:eter.it",
+   "as_of": "2026-10-25 第 74 批(j)"
+  },
+  {
+   "code": "SB-481",
+   "q": "to:sistel-networking.it",
+   "as_of": "2026-10-25 第 74 批(j)"
+  },
+  {
+   "code": "SB-525",
+   "q": "to:automationstore.it",
+   "as_of": "2026-10-25 第 74 批(j)"
+  },
+  {
+   "code": "SB-793",
+   "q": "to:elettronicaesicurezza.it",
+   "as_of": "2026-10-25 第 74 批(j)"
+  },
+  {
+   "code": "SB-899",
+   "q": "to:econnet.it",
+   "as_of": "2026-10-25 第 74 批(j)"
+  },
+  {
+   "code": "SB-910",
+   "q": "to:lorwen.it",
+   "as_of": "2026-10-25 第 74 批(j)"
   }
  ],
  "hits": {

@@ -24,7 +24,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -41,7 +41,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-229` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「1光2 商业switch / from: 阿里巴巴RFQ」）** ｜ 类型：停车引导系统制造商（德国，交换机为系统配套） ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：DE 主攻（四主） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「1光2 商业switch / from: 阿里巴巴RFQ」；研究档 risks：交换机为系统配套（量随项目）；1 SFP + 2 GE 精确规格在 Saga 列表中待核（注明）；未跟进过
+- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「1光2 商业switch / from: 阿里巴巴RFQ」；Elsa 箱：`to:multiguide.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(j)））** ｜ 类型：停车引导系统制造商（德国，交换机为系统配套） ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：DE 主攻（四主） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「1光2 商业switch / from: 阿里巴巴RFQ」；研究档 risks：交换机为系统配套（量随项目）；1 SFP + 2 GE 精确规格在 Saga 列表中待核（注明）；未跟进过
 - **现状一句话**：德国 multiGuide GmbH（传感器式停车引导系统制造商，数百个项目；阿里巴巴 RFQ「1 光 2 电 商业 switch」；KP Javier Ferre）；表内未跟进。
 - **对方真实需求（有据）**：RFQ 1 光 2 电商用交换机 → 工业千兆 MC STI-110GE（$24.3 @30%，1 SFP + 1 GE，注明口数差异）/ 5 GE STI-050GE（$18.5）；1 SFP + 2 GE 商用型号用 HRUI（列表价，注明）
 - **断点 / 为什么停在这里**：交换机为系统配套（量随项目）；1 SFP + 2 GE 精确规格在 Saga 列表中待核（注明）；未跟进过
@@ -248,12 +248,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 48）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 48）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

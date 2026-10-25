@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -42,7 +42,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-428` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A/S 邮箱 21 封 2024→2026，1 次记录打开，0 回；收件 costantini@bettinivideo.com, info@bettinivideo.com；主题多为「Industrial PoE Switch、Marvell Industrial Alert System」）** ｜ 类型：意大利安防品牌商（GAMS NVR；PoE 现 ONV 贴标 + ComNet） ｜ 筛子：1~2（1 次打开） ｜ 停点：21 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：停发群发；若要继续，换具名邮箱 + 只问一句 ｜ 通路：意大利（欧洲全域主攻） ｜ 节奏：一封 ｜ 证据：gmail_digest：out 21，Opened 标签 1（Simon 群发追踪）；用户表：「用的ONV的 直接带标卖的 还有Comnet的」；研究档 risks：现供 ONV（深圳）贴标，价格基准低；ComNet 为工业线既定品牌
+- **绑定等级：未触达（A/S 邮箱 21 封 2024→2026，1 次记录打开，0 回；收件 costantini@bettinivideo.com, info@bettinivideo.com；主题多为「Industrial PoE Switch、Marvell Industrial Alert System」；Elsa 箱：`to:bettinivideo.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 21 / 来 0）（第 74 批(j)））** ｜ 类型：意大利安防品牌商（GAMS NVR；PoE 现 ONV 贴标 + ComNet） ｜ 筛子：1~2（1 次打开） ｜ 停点：21 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：停发群发；若要继续，换具名邮箱 + 只问一句 ｜ 通路：意大利（欧洲全域主攻） ｜ 节奏：一封 ｜ 证据：gmail_digest：out 21，Opened 标签 1（Simon 群发追踪）；用户表：「用的ONV的 直接带标卖的 还有Comnet的」；研究档 risks：现供 ONV（深圳）贴标，价格基准低；ComNet 为工业线既定品牌
 - **现状一句话**：意大利 Bettini（360° 视频监控方案；意大利设计制造的 GAMS 品牌录像系统；每年 1000+ 小时培训；在售 ComNet 交换机/MC 与 Milesight；表内「用的 ONV 的，直接带标卖的；还有 ComNet 的」「可以尝试多跟进一下」；KP Walter Bettini（CEO）、Marco Contu（Product Manager）、Giuseppe Costantini（Purchasing Manager））；群发 13 次无回复。
 - **对方真实需求（有据）**：NVR 配套 PoE（现 ONV 贴 Bettini 标）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；16/24 口位 HRUI STC-2216GPM（列表价，注明）/ STC-424DGGPM-280W（$145.7）；工业位 STI-288GPM 对位 ComNet
 - **断点 / 为什么停在这里**：现供 ONV（深圳）贴标，价格基准低；ComNet 为工业线既定品牌
@@ -314,12 +314,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 41）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 41）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

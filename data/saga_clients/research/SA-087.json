@@ -1,156 +1,156 @@
 {
-  "code": "SA-087",
-  "name_official": "VoIPDistri.com – Voice over IP Distribution（Mathias Gottensträter，Halle Westfalen，德国）",
-  "website_status": "在线（voip.world / shop.voipdistri.com）",
-  "summary": "德国 2003 年起的 VoIP/网络硬件网店型分销商（Akuvox、Alcatel、Dinstar、Fanvil、Gigaset、Grandstream、Teltonika、Yealink 等官方分销），服务 IT 经销商/集成商/工业客户/公共部门；用户记录：已在采购 E-link 工业交换机，询过 I/O 模块与分销商，7 次推送 0 回复。",
-  "type": "网店型分销商（VoIP + 工业网络）",
-  "size": "小型（个体企业主经营）",
-  "brands_seen": [
-    "Teltonika",
-    "Yealink",
-    "Grandstream",
-    "Fanvil",
-    "Akuvox",
-    "Dinstar",
-    "Gigaset",
-    "Alcatel",
-    "OpenVox",
-    "Tiptel",
-    "Flyingvoice",
-    "E-link（用户记录：工业交换机在采）"
-  ],
-  "evidence": [
-    {
-      "kind": "官网",
-      "claim": "2003 年由 Mathias Gottensträter 创立，网店分销 VoIP 电话/系统与网络方案",
-      "quote": "VoIPDistri.com was founded in 2003 by Mathias Gottensträter and focuses on the distribution through its web shop",
-      "url": "https://voip.world/About-us",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网",
-      "claim": "Impressum：业主、地址、电话",
-      "quote": "Im Hagen 3 D-33790 Halle Westfalen Tel: +49 5201 730030… Geschäftsinhaber: Mathias Gottensträter E-Mail: communication@voip.world",
-      "url": "https://voip.world/Imprint",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网",
-      "claim": "Teltonika 官方批发商，服务 IT 经销商、集成商、工业客户与公共部门",
-      "quote": "As an official Teltonika wholesaler, VoIPDistri.com provides not only the hardware but also technical consulting… serves: IT resellers & system integrators, Industrial customers & public sector",
-      "url": "https://voip.world/Teltonika-RUTM20-compact-5G-Router-with-PoE-plus-passthrough",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "eBay",
-      "claim": "多品牌官方分销商名单",
-      "quote": "Akuvox, ALCATEL, Dinstar, Fanvil, Flyingvoice, Gigaset, Grandstream, OpenVox, Teltonika, Tiptel, Yealink und viele andere Hersteller!",
-      "url": "https://www.ebay.com/str/voipdistri",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "在采 E-link 工业交换机；卖 Teltonika；问 I/O 模块、分销商；7 次推送 0 回复",
-      "quote": "买Elink的一部分工业级交换机 也卖本土的品牌Teltonika 对M12交换机知道一些，问了I/O模块，以及是否有分销商",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Mathias Gottensträter",
-      "role": "CEO / Owner",
-      "email": "communication@voipdistri.com",
-      "phone": "+49 5201 730030",
-      "source": "用户 Clients 表 + Impressum"
-    }
-  ],
-  "grade_override": "B",
-  "override_reason": "画像极对路（德国、已进口 E-link 工业交换机、服务工业客户），但 7 次推送 0 回复；且其询问点（I/O 模块、找分销）Saga 不供 → 转为慢跟、换角度重启。",
-  "notes": "重启角度：'E-link 同类 DIN 工业 PoE 的补充 SKU + Teltonika 路由配套 PoE 供电'，P1 STI-288DGGPM（分销 20%）；一次单问邮件 + 电话。Impressum 邮箱 communication@voip.world 与用户记录 communication@voipdistri.com 同主体。",
-  "researched_at": "2026-10-21",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（基于首轮调研整理 + 需求映射）"
+ "code": "SA-087",
+ "name_official": "VoIPDistri.com – Voice over IP Distribution（Mathias Gottensträter，Halle Westfalen，德国）",
+ "website_status": "在线（voip.world / shop.voipdistri.com）",
+ "summary": "德国 2003 年起的 VoIP/网络硬件网店型分销商（Akuvox、Alcatel、Dinstar、Fanvil、Gigaset、Grandstream、Teltonika、Yealink 等官方分销），服务 IT 经销商/集成商/工业客户/公共部门；用户记录：已在采购 E-link 工业交换机，询过 I/O 模块与分销商，7 次推送 0 回复。",
+ "type": "网店型分销商（VoIP + 工业网络）",
+ "size": "小型（个体企业主经营）",
+ "brands_seen": [
+  "Teltonika",
+  "Yealink",
+  "Grandstream",
+  "Fanvil",
+  "Akuvox",
+  "Dinstar",
+  "Gigaset",
+  "Alcatel",
+  "OpenVox",
+  "Tiptel",
+  "Flyingvoice",
+  "E-link（用户记录：工业交换机在采）"
+ ],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "2003 年由 Mathias Gottensträter 创立，网店分销 VoIP 电话/系统与网络方案",
+   "quote": "VoIPDistri.com was founded in 2003 by Mathias Gottensträter and focuses on the distribution through its web shop",
+   "url": "https://voip.world/About-us",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "legal_name": "VoIPDistri.com – Voice over IP Distribution（Inh. Mathias Gottensträter）",
-    "founded": "2003",
-    "hq": "Halle (Westfalen), Germany（+49 5201 730030）",
-    "size": "小型（业主经营）",
-    "other": "网店 voip.world / shop.voipdistri.com；Teltonika/Yealink/Grandstream 等官方分销；已售 E-link 工业交换机"
+  {
+   "kind": "官网",
+   "claim": "Impressum：业主、地址、电话",
+   "quote": "Im Hagen 3 D-33790 Halle Westfalen Tel: +49 5201 730030… Geschäftsinhaber: Mathias Gottensträter E-Mail: communication@voip.world",
+   "url": "https://voip.world/Imprint",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "VoIP 话机/系统网店分销（Akuvox、Yealink、Grandstream、Fanvil 等）",
-    "工业网络：Teltonika 路由、E-link 工业交换机",
-    "面向 IT 经销商/集成商/工业客户/公共部门"
-  ],
-  "channels": {
-    "网店": "https://voip.world/ · https://shop.voipdistri.com/",
-    "电话": "+49 5201 730030（Impressum 公开）",
-    "邮箱（公开）": "communication@voipdistri.com"
+  {
+   "kind": "官网",
+   "claim": "Teltonika 官方批发商，服务 IT 经销商、集成商、工业客户与公共部门",
+   "quote": "As an official Teltonika wholesaler, VoIPDistri.com provides not only the hardware but also technical consulting… serves: IT resellers & system integrators, Industrial customers & public sector",
+   "url": "https://voip.world/Teltonika-RUTM20-compact-5G-Router-with-PoE-plus-passthrough",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "已在售 E-link（中国）工业交换机 → 直接按 E-link 型号对位报 Saga 同规格价（DIN 8 PoE + 2 SFP、M12 不供）",
-    "问 I/O 模块与分销商 → 可回答：Saga 直供网店，不设德国分销"
-  ],
-  "risks": [
-    "网店价格透明、比价激烈；7 次推送 0 回复"
-  ],
-  "saga_fit": {
-    "p1": "STI-288DGGPM",
-    "tier": 20,
-    "why": "网店分销 20% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理，$139.9）对位 E-link 同类；非管理 STI-288GP（$57.4）；配 Teltonika 路由的 PoE 供电"
+  {
+   "kind": "eBay",
+   "claim": "多品牌官方分销商名单",
+   "quote": "Akuvox, ALCATEL, Dinstar, Fanvil, Flyingvoice, Gigaset, Grandstream, OpenVox, Teltonika, Tiptel, Yealink und viele andere Hersteller!",
+   "url": "https://www.ebay.com/str/voipdistri",
+   "date": "2026-10-21"
   },
-  "email_hook": "Herr Gottensträter, next to the E-link industrial switches in your shop: our DIN-rail 8-port PoE+ managed switch with 2 SFP is $139.9 EXW (unmanaged $57.4), shipped direct to Halle with no German distributor in between — which E-link SKU sells best so I can match that one first?",
-  "mail_review": {
-    "binding": {
-      "level": "未触达（A 邮箱 15 封 2025→2026，1 次记录打开，0 回；收件 communication@voipdistri.com；主题多为「10G Enterprise SFP Switch、90W PoE Managed Switch」）",
-      "type": "网店型分销商（VoIP + 工业网络）",
-      "sieve": "1~2（1 次打开）",
-      "stop": "15 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-      "revive": "保持季度群发到 2027-Q1；无打开即停",
-      "lane": "DE 主攻（四主）",
-      "cadence": "季度",
-      "evidence": "gmail_digest：out 15，Opened 标签 1（Simon 群发追踪）；用户表：「买Elink的一部分工业级交换机 也卖本土的品牌Teltonika 对M12交换机知道一些，问了I/O模块，以及是否有分销商」；研究档 risks：网店价格透明、比价激烈；7 次推送 0 回复"
-    },
-    "situation": "德国 2003 年起的 VoIP/网络硬件网店型分销商（Akuvox、Alcatel、Dinstar、Fanvil、Gigaset、Grandstream、Teltonika、Yealink 等官方分销），服务 IT 经销商/集成商/工业客户/公共部门；用户记录：已在采购 E-link 工业交换机，询过 I/O 模块与分销商，7 次推送 0 回复。",
-    "need": "网店分销 20% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理，$139.9）对位 E-link 同类；非管理 STI-288GP（$57.4）；配 Teltonika 路由的 PoE 供电",
-    "breakpoint": "网店价格透明、比价激烈；7 次推送 0 回复",
-    "saga_now": {
-      "p1": "STI-288DGGPM",
-      "tier": 20,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-18 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-07-15 $300（48 Port PoE Managed Switch）、2025-10-06 $280（10G Enterprise SFP Switch）",
-      "why": "网店分销 20% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理，$139.9）对位 E-link 同类；非管理 STI-288GP（$57.4）；配 Teltonika 路由的 PoE 供电。已打开的主题（1/15 封有打开记录）：「Firmware 7.5 L2+ Feature Update」(2026-07-08) → 读者兴趣偏「固件/功能」；与 P1 同类，继续",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "群发节奏",
-      "channel": "A 邮箱",
-      "action": "观察打开",
-      "one_question": "Herr Gottensträter, next to the E-link industrial switches in your shop: our DIN-rail 8-port PoE+ managed switch with 2 SFP is $139.9 EXW (unmanaged $57.4), shipped direct to Halle with no German distributor in between — which E-link SKU sells best so I can match that one first?"
-    },
-    "facts": [
-      {
-        "date": "2026-09-24",
-        "dir": "去",
-        "who": "A 群发",
-        "quote": "10G Enterprise SFP Switch、90W PoE Managed Switch",
-        "why": "15 封 / 1 次打开 / 0 回｜首封 2025-04-15 → 末封 2026-09-24（15 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "买Elink的一部分工业级交换机 也卖本土的品牌Teltonika 对M12交换机知道一些，问了I/O模块，以及是否有分销商",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "在采 E-link 工业交换机；卖 Teltonika；问 I/O 模块、分销商；7 次推送 0 回复",
+   "quote": "买Elink的一部分工业级交换机 也卖本土的品牌Teltonika 对M12交换机知道一些，问了I/O模块，以及是否有分销商",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Mathias Gottensträter",
+   "role": "CEO / Owner",
+   "email": "communication@voipdistri.com",
+   "phone": "+49 5201 730030",
+   "source": "用户 Clients 表 + Impressum"
+  }
+ ],
+ "grade_override": "B",
+ "override_reason": "画像极对路（德国、已进口 E-link 工业交换机、服务工业客户），但 7 次推送 0 回复；且其询问点（I/O 模块、找分销）Saga 不供 → 转为慢跟、换角度重启。",
+ "notes": "重启角度：'E-link 同类 DIN 工业 PoE 的补充 SKU + Teltonika 路由配套 PoE 供电'，P1 STI-288DGGPM（分销 20%）；一次单问邮件 + 电话。Impressum 邮箱 communication@voip.world 与用户记录 communication@voipdistri.com 同主体。",
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（基于首轮调研整理 + 需求映射）"
+ },
+ "company_facts": {
+  "legal_name": "VoIPDistri.com – Voice over IP Distribution（Inh. Mathias Gottensträter）",
+  "founded": "2003",
+  "hq": "Halle (Westfalen), Germany（+49 5201 730030）",
+  "size": "小型（业主经营）",
+  "other": "网店 voip.world / shop.voipdistri.com；Teltonika/Yealink/Grandstream 等官方分销；已售 E-link 工业交换机"
+ },
+ "business_lines": [
+  "VoIP 话机/系统网店分销（Akuvox、Yealink、Grandstream、Fanvil 等）",
+  "工业网络：Teltonika 路由、E-link 工业交换机",
+  "面向 IT 经销商/集成商/工业客户/公共部门"
+ ],
+ "channels": {
+  "网店": "https://voip.world/ · https://shop.voipdistri.com/",
+  "电话": "+49 5201 730030（Impressum 公开）",
+  "邮箱（公开）": "communication@voipdistri.com"
+ },
+ "signals": [
+  "已在售 E-link（中国）工业交换机 → 直接按 E-link 型号对位报 Saga 同规格价（DIN 8 PoE + 2 SFP、M12 不供）",
+  "问 I/O 模块与分销商 → 可回答：Saga 直供网店，不设德国分销"
+ ],
+ "risks": [
+  "网店价格透明、比价激烈；7 次推送 0 回复"
+ ],
+ "saga_fit": {
+  "p1": "STI-288DGGPM",
+  "tier": 20,
+  "why": "网店分销 20% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理，$139.9）对位 E-link 同类；非管理 STI-288GP（$57.4）；配 Teltonika 路由的 PoE 供电"
+ },
+ "email_hook": "Herr Gottensträter, next to the E-link industrial switches in your shop: our DIN-rail 8-port PoE+ managed switch with 2 SFP is $139.9 EXW (unmanaged $57.4), shipped direct to Halle with no German distributor in between — which E-link SKU sells best so I can match that one first?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 15 封 2025→2026，1 次记录打开，0 回；收件 communication@voipdistri.com；主题多为「10G Enterprise SFP Switch、90W PoE Managed Switch」；Elsa 箱：`to:voipdistri.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 15 / 来 0）（第 74 批(j)））",
+   "type": "网店型分销商（VoIP + 工业网络）",
+   "sieve": "1~2（1 次打开）",
+   "stop": "15 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "DE 主攻（四主）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 15，Opened 标签 1（Simon 群发追踪）；用户表：「买Elink的一部分工业级交换机 也卖本土的品牌Teltonika 对M12交换机知道一些，问了I/O模块，以及是否有分销商」；研究档 risks：网店价格透明、比价激烈；7 次推送 0 回复"
+  },
+  "situation": "德国 2003 年起的 VoIP/网络硬件网店型分销商（Akuvox、Alcatel、Dinstar、Fanvil、Gigaset、Grandstream、Teltonika、Yealink 等官方分销），服务 IT 经销商/集成商/工业客户/公共部门；用户记录：已在采购 E-link 工业交换机，询过 I/O 模块与分销商，7 次推送 0 回复。",
+  "need": "网店分销 20% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理，$139.9）对位 E-link 同类；非管理 STI-288GP（$57.4）；配 Teltonika 路由的 PoE 供电",
+  "breakpoint": "网店价格透明、比价激烈；7 次推送 0 回复",
+  "saga_now": {
+   "p1": "STI-288DGGPM",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-18 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-07-15 $300（48 Port PoE Managed Switch）、2025-10-06 $280（10G Enterprise SFP Switch）",
+   "why": "网店分销 20% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理，$139.9）对位 E-link 同类；非管理 STI-288GP（$57.4）；配 Teltonika 路由的 PoE 供电。已打开的主题（1/15 封有打开记录）：「Firmware 7.5 L2+ Feature Update」(2026-07-08) → 读者兴趣偏「固件/功能」；与 P1 同类，继续",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Herr Gottensträter, next to the E-link industrial switches in your shop: our DIN-rail 8-port PoE+ managed switch with 2 SFP is $139.9 EXW (unmanaged $57.4), shipped direct to Halle with no German distributor in between — which E-link SKU sells best so I can match that one first?"
+  },
+  "facts": [
+   {
+    "date": "2026-09-24",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "10G Enterprise SFP Switch、90W PoE Managed Switch",
+    "why": "15 封 / 1 次打开 / 0 回｜首封 2025-04-15 → 末封 2026-09-24（15 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "买Elink的一部分工业级交换机 也卖本土的品牌Teltonika 对M12交换机知道一些，问了I/O模块，以及是否有分销商",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

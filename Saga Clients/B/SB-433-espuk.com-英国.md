@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: timeout  # 2026-10-21
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -42,7 +42,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-433` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A/S 邮箱 24 封 2024→2026，无记录打开，0 回；收件 christhomas@espuk.com, info@espuk.com；主题多为「Industrial PoE Switch、10G Enterprise SFP Switch」）** ｜ 类型：安防品牌商（英国，PoE 现 Folksafe） ｜ 筛子：1（只收到群发） ｜ 停点：24 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：停发群发；若要继续，换具名邮箱 + 只问一句 ｜ 通路：UK 主攻（四主） ｜ 节奏：一封 ｜ 证据：gmail_digest：out 24；用户表：「用的folksafe的产品 网站：主要是安防」；研究档 risks：集团品牌（Scolmore）采购流程；现供 Folksafe（深圳）价格基准低；官网 timeout；12 次无回复 → 改向 Director 具名首触
+- **绑定等级：未触达（A/S 邮箱 24 封 2024→2026，无记录打开，0 回；收件 christhomas@espuk.com, info@espuk.com；主题多为「Industrial PoE Switch、10G Enterprise SFP Switch」；Elsa 箱：`to:espuk.com OR to:esp-uk.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 24 / 来 0）（第 74 批(j)））** ｜ 类型：安防品牌商（英国，PoE 现 Folksafe） ｜ 筛子：1（只收到群发） ｜ 停点：24 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：停发群发；若要继续，换具名邮箱 + 只问一句 ｜ 通路：UK 主攻（四主） ｜ 节奏：一封 ｜ 证据：gmail_digest：out 24；用户表：「用的folksafe的产品 网站：主要是安防」；研究档 risks：集团品牌（Scolmore）采购流程；现供 Folksafe（深圳）价格基准低；官网 timeout；12 次无回复 → 改向 Director 具名首触
 - **现状一句话**：英国 ESP (Elite Security Products)（espuk.com / esp-uk.com：安防品牌（CCTV 套装、门禁、对讲），Scolmore 集团旗下；表内「用的 Folksafe 的产品」「可以多跟进一下」；KP Paul Panini（Director / Technical）；官网 timeout）；群发 12 次无回复。
 - **对方真实需求（有据）**：ESP 标 PoE（现 Folksafe）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴标；非管理 4/8 PoE 位 HRUI（列表价，注明）
 - **断点 / 为什么停在这里**：集团品牌（Scolmore）采购流程；现供 Folksafe（深圳）价格基准低；官网 timeout；12 次无回复 → 改向 Director 具名首触
@@ -287,12 +287,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 41）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 41）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

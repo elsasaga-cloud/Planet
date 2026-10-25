@@ -24,7 +24,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -41,7 +41,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-205` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「Cisco Switch / from: 阿里巴巴RFQ」）** ｜ 类型：IT 硬件/备件经销商（英国，品牌货为主） ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：UK 主攻（四主） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「Cisco Switch / from: 阿里巴巴RFQ」；研究档 risks：RFQ 指定 Cisco：品牌货需求，白牌契合低
+- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「Cisco Switch / from: 阿里巴巴RFQ」；Elsa 箱：`to:tier1ds.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(j)））** ｜ 类型：IT 硬件/备件经销商（英国，品牌货为主） ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：UK 主攻（四主） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「Cisco Switch / from: 阿里巴巴RFQ」；研究档 risks：RFQ 指定 Cisco：品牌货需求，白牌契合低
 - **现状一句话**：英国 Tier1 Data Systems Ltd（IT 方案/备件经销：网络、硬件、数据中心，刀片服务器、配置服务，品牌页 Cisco / Juniper / Fortinet / Huawei 等；阿里巴巴 RFQ「Cisco Switch」；KP Sameer JamJam）；表内无跟进记录。
 - **对方真实需求（有据）**：RFQ 为 Cisco 交换机（品牌货）→ 白牌仅作预算替代位：24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）；预期低
 - **断点 / 为什么停在这里**：RFQ 指定 Cisco：品牌货需求，白牌契合低
@@ -245,12 +245,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 48）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 48）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

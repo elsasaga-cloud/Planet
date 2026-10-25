@@ -25,7 +25,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -42,7 +42,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-640` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A/S 邮箱 12 封 2025→2026，无记录打开，0 回；收件 barasch@ipc2u.de, sales@ipc2u.com；主题多为「10G Enterprise SFP Switch、24 Port PoE Managed Switch」）** ｜ 类型：工业计算机供应商/制造商（德国，EMEA 多国；在售 Maiwe） ｜ 筛子：1（只收到群发） ｜ 停点：12 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：DE 主攻（四主） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 12；用户表：「MaiWe」；研究档 risks：现货源 Maiwe（武汉）价格基准低：需以 Marvell 平台/欧洲文档切入
+- **绑定等级：未触达（A/S 邮箱 12 封 2025→2026，无记录打开，0 回；收件 barasch@ipc2u.de, sales@ipc2u.com；主题多为「10G Enterprise SFP Switch、24 Port PoE Managed Switch」；Elsa 箱：`to:ipc2u.com OR to:ipc2u.de` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 12 / 来 0）（第 74 批(j)））** ｜ 类型：工业计算机供应商/制造商（德国，EMEA 多国；在售 Maiwe） ｜ 筛子：1（只收到群发） ｜ 停点：12 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：DE 主攻（四主） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 12；用户表：「MaiWe」；研究档 risks：现货源 Maiwe（武汉）价格基准低：需以 Marvell 平台/欧洲文档切入
 - **现状一句话**：德国 IPC2U（工业计算机系统国际供应商与制造商，20 年以上、EMEA 14 国办事处；站内 Moxa / Advantech，DIN 导轨 PC 配置器；表内「MaiWe」；KP Arthur Barasch（Managing Director，barasch@ipc2u.de））；表内 1 次跟进无回复。
 - **对方真实需求（有据）**：在售 Maiwe 工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-280GE（$46.6）同口型替换，配套 DIN 导轨 PC 项目
 - **断点 / 为什么停在这里**：现货源 Maiwe（武汉）价格基准低：需以 Marvell 平台/欧洲文档切入
@@ -293,12 +293,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 35）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 35）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

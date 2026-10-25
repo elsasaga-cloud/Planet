@@ -93,7 +93,7 @@
  ],
  "mail_review": {
   "binding": {
-   "level": "未发信（S/A 邮箱均无往来；来源：用户表「switch 看着像是丰润达的」）",
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「switch 看着像是丰润达的」；Elsa 箱：`to:lorwen.it` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(j)））",
    "type": "CCTV 自有品牌网店（意大利，OEM 采购）",
    "sieve": "—（未入筛）",
    "stop": "从未触达",

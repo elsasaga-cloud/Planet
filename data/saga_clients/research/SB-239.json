@@ -1,153 +1,153 @@
 {
-  "code": "SB-239",
-  "name_official": "",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（solpakutec.com，快照 2026-10-21）",
-  "summary": "意大利 Solpakutec（「Smart products for smart industry」：定制软硬件开发、工业产品测试交付；站内 ICP DAS NS-205G / NSM-205GP；表内「工业 FS（ICP DAS 这个牌子的）」；KP Dominik Prieth（Founder，d.prieth@））；群发 6 次无回复。",
-  "type": "工业定制方案小商（意大利，ICP DAS 工业 FS）",
-  "size": "",
-  "brands_seen": [
-    "ICP DAS"
-  ],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "官网标题：Solpakutec – Solpakutec；品类词 工业自动化 / OT 网络 / 网络交换 / PoE",
-      "quote": "SMART PRODUCTS FOR SMART INDUSTRY SMART PRODUCTS FOR SMART INDUSTRY All our products are extensively tested and checked before they are delivered. With our customised and tailor-made products, you can increase your efficiency and minimise c",
-      "url": "https://solpakutec.com/en/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "工业FS（ISPDAS这个牌子的）",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网快照",
-      "claim": "Solpakutec 智能工业产品",
-      "quote": "SMART PRODUCTS FOR SMART INDUSTRY All our products are extensively tested and checked before they are delivered. With our customised and tailor-made products",
-      "url": "https://solpakutec.com/en/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "工业 FS（ICP DAS）",
-      "quote": "工业FS（ISPDAS这个牌子的）",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Dominik Prieth",
-      "title": "Founder",
-      "email": "d.prieth@solpakutec.com",
-      "phone": "",
-      "source": "用户表"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ "code": "SB-239",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（solpakutec.com，快照 2026-10-21）",
+ "summary": "意大利 Solpakutec（「Smart products for smart industry」：定制软硬件开发、工业产品测试交付；站内 ICP DAS NS-205G / NSM-205GP；表内「工业 FS（ICP DAS 这个牌子的）」；KP Dominik Prieth（Founder，d.prieth@））；群发 6 次无回复。",
+ "type": "工业定制方案小商（意大利，ICP DAS 工业 FS）",
+ "size": "",
+ "brands_seen": [
+  "ICP DAS"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Solpakutec – Solpakutec；品类词 工业自动化 / OT 网络 / 网络交换 / PoE",
+   "quote": "SMART PRODUCTS FOR SMART INDUSTRY SMART PRODUCTS FOR SMART INDUSTRY All our products are extensively tested and checked before they are delivered. With our customised and tailor-made products, you can increase your efficiency and minimise c",
+   "url": "https://solpakutec.com/en/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "hq": "意大利",
-    "other": "官网 solpakutec.com，语言 en-US，快照状态 ok；角色判定来源：用户表"
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "工业FS（ISPDAS这个牌子的）",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "工业定制软硬件方案"
-  ],
-  "channels": {
-    "role": "工业定制方案小商（意大利，ICP DAS 工业 FS）",
-    "region": "意大利",
-    "contact": "d.prieth@solpakutec.com"
+  {
+   "kind": "官网快照",
+   "claim": "Solpakutec 智能工业产品",
+   "quote": "SMART PRODUCTS FOR SMART INDUSTRY All our products are extensively tested and checked before they are delivered. With our customised and tailor-made products",
+   "url": "https://solpakutec.com/en/",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "官网：SMART PRODUCTS FOR SMART INDUSTRY … customised and tailor-made products；Hardware-Development / Software-Development",
-    "站内型号 NSM-205GP / NS-205G（ICP DAS）；kw industrial 67",
-    "KP：Dominik Prieth / Founder（表内）"
-  ],
-  "risks": [
-    "小型定制商：量小",
-    "现用 ICP DAS（台湾）供货稳定；6 次无回复 → 改向 Founder 具名首触"
-  ],
-  "saga_fit": {
-    "p1": "STI-154GP",
-    "tier": 25,
-    "why": "在用 ICP DAS NSM-205GP（5 口含 PoE）→ 工业 4 PoE + 1 GE STI-154GP（$39.2 @25%）/ 5 GE STI-050GE（$17.8）同口型替换"
-  },
-  "email_hook": "Dominik, next to the ICP DAS NS-205 / NSM-205GP switches you build into your systems, we supply Marvell-based DIN-rail 5-port gigabit and 4-PoE + 1 industrial units (−40~75 °C, CE/RoHS, neutral packing) from single units — which of the two do you use more often?",
-  "products_seen": [
-    {
-      "brand": "ICP DAS",
-      "model": "NSM-205GP",
-      "spec": "工业 5 口（4 PoE）非管理",
-      "saga": "STI-154GP",
-      "url": "https://solpakutec.com/en/",
-      "date": "2026-10-21"
-    },
-    {
-      "brand": "ICP DAS",
-      "model": "NS-205G",
-      "spec": "工业 5 GE 非管理",
-      "saga": "STI-050GE",
-      "url": "https://solpakutec.com/en/",
-      "date": "2026-10-21"
-    }
-  ],
-  "mail_review": {
-    "binding": {
-      "level": "未触达（A 邮箱 17 封 2025→2026，无记录打开，0 回；收件 d.prieth@solpakutec.com；主题多为「Industrial PoE Switch、16 Port Ethernet Switch」）",
-      "type": "工业定制方案小商（意大利，ICP DAS 工业 FS）",
-      "sieve": "1（只收到群发）",
-      "stop": "17 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-      "revive": "保持季度群发到 2027-Q1；无打开即停",
-      "lane": "意大利（欧洲全域主攻）",
-      "cadence": "季度",
-      "evidence": "gmail_digest：out 17；用户表：「工业FS（ISPDAS这个牌子的）」；研究档 risks：小型定制商：量小"
-    },
-    "situation": "意大利 Solpakutec（「Smart products for smart industry」：定制软硬件开发、工业产品测试交付；站内 ICP DAS NS-205G / NSM-205GP；表内「工业 FS（ICP DAS 这个牌子的）」；KP Dominik Prieth（Founder，d.prieth@））；群发 6 次无回复。",
-    "need": "在用 ICP DAS NSM-205GP（5 口含 PoE）→ 工业 4 PoE + 1 GE STI-154GP（$39.2 @25%）/ 5 GE STI-050GE（$17.8）同口型替换",
-    "breakpoint": "小型定制商：量小",
-    "saga_now": {
-      "p1": "STI-154GP",
-      "tier": 25,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-13 $280（10G Enterprise SFP Switch）",
-      "why": "在用 ICP DAS NSM-205GP（5 口含 PoE）→ 工业 4 PoE + 1 GE STI-154GP（$39.2 @25%）/ 5 GE STI-050GE（$17.8）同口型替换",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "群发节奏",
-      "channel": "A 邮箱",
-      "action": "观察打开",
-      "one_question": "Dominik, next to the ICP DAS NS-205 / NSM-205GP switches you build into your systems, we supply Marvell-based DIN-rail 5-port gigabit and 4-PoE + 1 industrial units (−40~75 °C, CE/RoHS, neutral packing) from single units — which of the two do you use more often?"
-    },
-    "facts": [
-      {
-        "date": "2026-10-07",
-        "dir": "去",
-        "who": "A 群发",
-        "quote": "Industrial PoE Switch、16 Port Ethernet Switch",
-        "why": "17 封 / 0 次打开 / 0 回｜首封 2025-01-29 → 末封 2026-10-07（17 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "工业FS（ISPDAS这个牌子的）",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "工业 FS（ICP DAS）",
+   "quote": "工业FS（ISPDAS这个牌子的）",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Dominik Prieth",
+   "title": "Founder",
+   "email": "d.prieth@solpakutec.com",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "意大利",
+  "other": "官网 solpakutec.com，语言 en-US，快照状态 ok；角色判定来源：用户表"
+ },
+ "business_lines": [
+  "工业定制软硬件方案"
+ ],
+ "channels": {
+  "role": "工业定制方案小商（意大利，ICP DAS 工业 FS）",
+  "region": "意大利",
+  "contact": "d.prieth@solpakutec.com"
+ },
+ "signals": [
+  "官网：SMART PRODUCTS FOR SMART INDUSTRY … customised and tailor-made products；Hardware-Development / Software-Development",
+  "站内型号 NSM-205GP / NS-205G（ICP DAS）；kw industrial 67",
+  "KP：Dominik Prieth / Founder（表内）"
+ ],
+ "risks": [
+  "小型定制商：量小",
+  "现用 ICP DAS（台湾）供货稳定；6 次无回复 → 改向 Founder 具名首触"
+ ],
+ "saga_fit": {
+  "p1": "STI-154GP",
+  "tier": 25,
+  "why": "在用 ICP DAS NSM-205GP（5 口含 PoE）→ 工业 4 PoE + 1 GE STI-154GP（$39.2 @25%）/ 5 GE STI-050GE（$17.8）同口型替换"
+ },
+ "email_hook": "Dominik, next to the ICP DAS NS-205 / NSM-205GP switches you build into your systems, we supply Marvell-based DIN-rail 5-port gigabit and 4-PoE + 1 industrial units (−40~75 °C, CE/RoHS, neutral packing) from single units — which of the two do you use more often?",
+ "products_seen": [
+  {
+   "brand": "ICP DAS",
+   "model": "NSM-205GP",
+   "spec": "工业 5 口（4 PoE）非管理",
+   "saga": "STI-154GP",
+   "url": "https://solpakutec.com/en/",
+   "date": "2026-10-21"
+  },
+  {
+   "brand": "ICP DAS",
+   "model": "NS-205G",
+   "spec": "工业 5 GE 非管理",
+   "saga": "STI-050GE",
+   "url": "https://solpakutec.com/en/",
+   "date": "2026-10-21"
+  }
+ ],
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 17 封 2025→2026，无记录打开，0 回；收件 d.prieth@solpakutec.com；主题多为「Industrial PoE Switch、16 Port Ethernet Switch」；Elsa 箱：`to:solpakutec.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 17 / 来 0）（第 74 批(j)））",
+   "type": "工业定制方案小商（意大利，ICP DAS 工业 FS）",
+   "sieve": "1（只收到群发）",
+   "stop": "17 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "意大利（欧洲全域主攻）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 17；用户表：「工业FS（ISPDAS这个牌子的）」；研究档 risks：小型定制商：量小"
+  },
+  "situation": "意大利 Solpakutec（「Smart products for smart industry」：定制软硬件开发、工业产品测试交付；站内 ICP DAS NS-205G / NSM-205GP；表内「工业 FS（ICP DAS 这个牌子的）」；KP Dominik Prieth（Founder，d.prieth@））；群发 6 次无回复。",
+  "need": "在用 ICP DAS NSM-205GP（5 口含 PoE）→ 工业 4 PoE + 1 GE STI-154GP（$39.2 @25%）/ 5 GE STI-050GE（$17.8）同口型替换",
+  "breakpoint": "小型定制商：量小",
+  "saga_now": {
+   "p1": "STI-154GP",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-13 $280（10G Enterprise SFP Switch）",
+   "why": "在用 ICP DAS NSM-205GP（5 口含 PoE）→ 工业 4 PoE + 1 GE STI-154GP（$39.2 @25%）/ 5 GE STI-050GE（$17.8）同口型替换",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Dominik, next to the ICP DAS NS-205 / NSM-205GP switches you build into your systems, we supply Marvell-based DIN-rail 5-port gigabit and 4-PoE + 1 industrial units (−40~75 °C, CE/RoHS, neutral packing) from single units — which of the two do you use more often?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-07",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "Industrial PoE Switch、16 Port Ethernet Switch",
+    "why": "17 封 / 0 次打开 / 0 回｜首封 2025-01-29 → 末封 2026-10-07（17 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "工业FS（ISPDAS这个牌子的）",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

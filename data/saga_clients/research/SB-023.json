@@ -126,7 +126,7 @@
  "email_hook": "Your SMART line now has 4/8/16-port NDAA PoE switches; we can add a 24-port PoE+ managed model with 4 SFP under the GRUNDIG label (Marvell switch core, branded Web UI, NDAA component declaration) at $145.7 EXW — would a 24-port fill the gap your partners ask for?",
  "mail_review": {
   "binding": {
-   "level": "未触达（1 封自动回复）",
+   "level": "未触达（1 封自动回复；Elsa 箱：`to:grundig-security.com OR to:abetechs.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 15 / 来 1）（第 74 批(j)））",
    "type": "德国 GRUNDIG Security 被许可人（Abetechs）",
    "sieve": "0",
    "stop": "自动回复/机器人，无人工回复",

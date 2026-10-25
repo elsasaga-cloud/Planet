@@ -27,7 +27,7 @@ price_tier: 20%
 research: done
 site_snapshot: none
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -44,7 +44,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1337` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：轻度绑定→样品 PI 未付（2026-09-29 起 4 封实质来信：要目录、问 UK 分销 → 「project by project」+ 愿买样 → 10-17 给地址、Simon 开 2 台 STC-424XGGPM-280W $180 的样品发票 → 同日「unable to make the payment now… when I have a project」）** ｜ 类型：伦敦一人 MikroTik 顾问/集成（Milliseconds Evolution Ltd，注册地 128 City Road 虚拟地址；20 年 MikroTik 经验）——第四档小集成商，有做 UK 经销的想法 ｜ 筛子：4（走到样品 PI，未付） ｜ 停点：现金：没有项目就付不起 $360 的样品；Simon 10-19「Let's wait then」处理正确 ｜ 复活：等他的项目；不催。若他来，样品款抵首单（已承诺） ｜ 通路：UK 主攻 ｜ 节奏：不动；他来再动 ｜ 证据：k=9dced38d1d03963a（目录 + 分销问）；3bc111136e01bedb（Simon：暂无 UK 分销，先合作再谈）；29898c900941a648（project by project）；5a52d22fbd2a46da（STC-424XGGPM-280W $180 起步）；5ca2dee1999bade7（2 台样品 PI）；d90558425d8bf645（付不起）；0590f6770f0e3414（Let's wait）
+- **绑定等级：轻度绑定→样品 PI 未付（2026-09-29 起 4 封实质来信：要目录、问 UK 分销 → 「project by project」+ 愿买样 → 10-17 给地址、Simon 开 2 台 STC-424XGGPM-280W $180 的样品发票 → 同日「unable to make the payment now… when I have a project」；Elsa 箱：`to:millievolution.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 5 / 来 4）（第 74 批(j)））** ｜ 类型：伦敦一人 MikroTik 顾问/集成（Milliseconds Evolution Ltd，注册地 128 City Road 虚拟地址；20 年 MikroTik 经验）——第四档小集成商，有做 UK 经销的想法 ｜ 筛子：4（走到样品 PI，未付） ｜ 停点：现金：没有项目就付不起 $360 的样品；Simon 10-19「Let's wait then」处理正确 ｜ 复活：等他的项目；不催。若他来，样品款抵首单（已承诺） ｜ 通路：UK 主攻 ｜ 节奏：不动；他来再动 ｜ 证据：k=9dced38d1d03963a（目录 + 分销问）；3bc111136e01bedb（Simon：暂无 UK 分销，先合作再谈）；29898c900941a648（project by project）；5a52d22fbd2a46da（STC-424XGGPM-280W $180 起步）；5ca2dee1999bade7（2 台样品 PI）；d90558425d8bf645（付不起）；0590f6770f0e3414（Let's wait）
 - **现状一句话**：三周内从群发命中走到样品发票，再停在付款——节奏对、对象弱。Simon 的处理（不给免费样、样品款抵首单、暂不谈分销、不催）符合规则。MikroTik 顾问对 L2+ Web UI 的技术反馈会有价值，但要等他有项目。
 - **对方真实需求（有据）**：24 口 PoE + 10G 上联（STC-424XGGPM-280W）起步样机。
 - **断点 / 为什么停在这里**：客户现金流。
@@ -235,12 +235,12 @@ Simon
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 46）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 46）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

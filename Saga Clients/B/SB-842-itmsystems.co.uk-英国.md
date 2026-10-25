@@ -25,7 +25,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -42,7 +42,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-842` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：轻度（已报价、对方高层批准、未付款）** ｜ 类型：英国 MSP/网络安全集成商（技术流 + 要 OEM 协议） ｜ 筛子：2→3 之间（反复索要规格/价格、CEO 审批中；无 PI、无付款） ｜ 停点：对方内部：CEO 审批 + 终端客户验证；Saga 侧曾因 CENTEC 400G 批次没货拖到 2026-08 才「ready to ship」 ｜ 复活：ITM 终端客户项目重启 / Senior Manager 回复；或 Saga 有 800G 可测（对方 5-19 问过） ｜ 通路：UK 已通（Go Green IT 已成交；DHL/UPS DAP） ｜ 节奏：最后 2026-09-07 Alan 问进展（无回）；2026-08-15 Steve「will get back to you」；实质往来 2025-11-11 → 2026-08-15 约 25 轮 ｜ 证据：A 邮箱 k=4093fbb543ef9f90 / d4ad954f1fff2bea / c59e4367bd0deb77 / 87738057b3f134de；A 邮箱附件正文 `data/gmail_a/attachments/text/`（2026-10-24 对表）；A 邮箱外发报价单正文（`data/gmail_a/attachments/text/`，2026-10-24 对表）；第 19 批回补来信原文 8 条（gmail_s/gmail_a）
+- **绑定等级：轻度（已报价、对方高层批准、未付款；Elsa 箱：`to:itmsystems.co.uk OR to:itmsystems.net` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 42 / 来 23）（第 74 批(j)））** ｜ 类型：英国 MSP/网络安全集成商（技术流 + 要 OEM 协议） ｜ 筛子：2→3 之间（反复索要规格/价格、CEO 审批中；无 PI、无付款） ｜ 停点：对方内部：CEO 审批 + 终端客户验证；Saga 侧曾因 CENTEC 400G 批次没货拖到 2026-08 才「ready to ship」 ｜ 复活：ITM 终端客户项目重启 / Senior Manager 回复；或 Saga 有 800G 可测（对方 5-19 问过） ｜ 通路：UK 已通（Go Green IT 已成交；DHL/UPS DAP） ｜ 节奏：最后 2026-09-07 Alan 问进展（无回）；2026-08-15 Steve「will get back to you」；实质往来 2025-11-11 → 2026-08-15 约 25 轮 ｜ 证据：A 邮箱 k=4093fbb543ef9f90 / d4ad954f1fff2bea / c59e4367bd0deb77 / 87738057b3f134de；A 邮箱附件正文 `data/gmail_a/attachments/text/`（2026-10-24 对表）；A 邮箱外发报价单正文（`data/gmail_a/attachments/text/`，2026-10-24 对表）；第 19 批回补来信原文 8 条（gmail_s/gmail_a）
 - **现状一句话**：英国 ITM Systems（Steve / Stan，info@itmsystems.net）2025-11 回群发后一路升级：要目录 → 「recommend… OEM agreement with Saga」→ 问 SDK/API、合作伙伴数 → 2026-01 要核心汇聚机规格 → 2026-02-05「secured the approval of all Senior Management… waiting for CEO approval」→ 2026-03-20 正式要 **6 台 400G L3 OEM + 每台 6×QSFP112** 报价（A 总览：$107,675）→ 4–5 月「project still alive」「customer will pay within 30 days」→ Saga 侧 7–8 月才备齐货 → 8-15 Steve 汇报高层后再无回音。**A 邮箱里金额最大的在谈单，卡在对方。**
 - **对方真实需求（有据）**：① 400G L3 数据中心交换机 6 台（OEM 贴牌）+ 6×QSFP112/台，交付英国；② 2026-02 曾问 BGP/OSPFv2/IS-IS 支持、能否对标 Juniper MX204 功能（「not looking to get MX204… a device from Saga that has similar functionalities」）；③ 长期：想在 Saga 交换机上叠加自家网络安全工具（2025-11-12），要 OEM/ODM + SDK/API。
 - **断点 / 为什么停在这里**：双向时间差：3–5 月对方急（客户 30 天付款），Saga 400G 批次要等 Hohunet 7–8 月；8 月 Saga 有货时对方节奏已松。另有结构性问题：SDK/API 不是 Saga 路线（C4/E2），对方「叠加安全工具」的设想迟早撞边界。
@@ -334,12 +334,12 @@ Alan
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 32）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 32）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -25,7 +25,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -42,7 +42,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-952` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A 邮箱 18 封 2025→2026，1 次记录打开，0 回；收件 qcall@ueberwachung.tv；主题多为「10G Enterprise SFP Switch、24 Port Fiber Switch」）** ｜ 类型：CCTV 网店/安装（德国，Hikvision 为主） ｜ 筛子：1~2（1 次打开） ｜ 停点：18 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：DE 主攻（四主） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 18，Opened 标签 1（Simon 群发追踪）；用户表：「主要是安防」；研究档 risks：Hikvision 套装自带 PoE NVR：外置 PoE 量小
+- **绑定等级：未触达（A 邮箱 18 封 2025→2026，1 次记录打开，0 回；收件 qcall@ueberwachung.tv；主题多为「10G Enterprise SFP Switch、24 Port Fiber Switch」；Elsa 箱：`to:qualicam.de OR to:ueberwachung.tv` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 18 / 来 0）（第 74 批(j)））** ｜ 类型：CCTV 网店/安装（德国，Hikvision 为主） ｜ 筛子：1~2（1 次打开） ｜ 停点：18 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：DE 主攻（四主） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 18，Opened 标签 1（Simon 群发追踪）；用户表：「主要是安防」；研究档 risks：Hikvision 套装自带 PoE NVR：外置 PoE 量小
 - **现状一句话**：德国 Qualicam / ueberwachung.tv（Braunsbedra 视频监控网店：Hikvision（121）NVR 含 PoE 交换机套装、Ubiquiti 被动 PoE、PoE 注入器、刺激气体防盗装置、报警；表内「主要是安防」）；群发 8 次无回复。
 - **对方真实需求（有据）**：Hikvision 配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）；注入器 Saga 不做
 - **断点 / 为什么停在这里**：Hikvision 套装自带 PoE NVR：外置 PoE 量小
@@ -295,12 +295,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 30）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 30）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

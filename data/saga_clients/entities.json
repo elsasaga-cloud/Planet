@@ -14102,7 +14102,7 @@
 "email_hook": "For the school and municipal CCTV jobs you run around Verona, the Marvell-based 8- and 24-port PoE+ managed switches ship within 3–5 working days EXW, and the DIN-rail 8-port version covers the site cabins.",
 "mail_review": {
 "binding": {
-"level": "未触达（A/S 邮箱 24 封 2024→2026，1 次记录打开，0 回；收件 info@sicurmax.com, massimo@sicurmax.com；主题多为「Industrial PoE Switch、16 Port PoE Managed Switch」）",
+"level": "未触达（A/S 邮箱 24 封 2024→2026，1 次记录打开，0 回；收件 info@sicurmax.com, massimo@sicurmax.com；主题多为「Industrial PoE Switch、16 Port PoE Managed Switch」；Elsa 箱：`to:sicurmax.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 24 / 来 0）（第 74 批(j)））",
 "type": "安防集成商（含军方/NATO 场所资质）",
 "sieve": "1~2（1 次打开）",
 "stop": "24 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
@@ -30105,7 +30105,7 @@
 "email_hook": "For the Dahua video systems you install, a Marvell-based 8-port gigabit PoE+ managed switch with 2 SFP is $84.1 EXW and works with the Dahua NVR auto-discovery; shall I send one unit to Nettetal for a test install?",
 "mail_review": {
 "binding": {
-"level": "未绑定（要免费样机被付样规则筛掉）",
+"level": "未绑定（要免费样机被付样规则筛掉；Elsa 箱：`to:smart-protect.nrw OR to:walker-security.systems` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 14 / 来 3）（第 74 批(j)））",
 "type": "德国微型安防安装商（UG，注册资本 6,000 €；Dahua/Ajax 认证）——第四档",
 "sieve": "2（「we need to replace a lot of switches」）",
 "stop": "2025-05-13 Alan「We do not do FREE samples」→ 2025-06-10 只问「Are the switches manageable?」→ 之后无回；2026-08-11 起域名 smart-protect.nrw 解析不到（公司可能已停业/换域名）",
@@ -41477,7 +41477,7 @@
 "email_hook": "Herr Gottensträter, next to the E-link industrial switches in your shop: our DIN-rail 8-port PoE+ managed switch with 2 SFP is $139.9 EXW (unmanaged $57.4), shipped direct to Halle with no German distributor in between — which E-link SKU sells best so I can match that one first?",
 "mail_review": {
 "binding": {
-"level": "未触达（A 邮箱 15 封 2025→2026，1 次记录打开，0 回；收件 communication@voipdistri.com；主题多为「10G Enterprise SFP Switch、90W PoE Managed Switch」）",
+"level": "未触达（A 邮箱 15 封 2025→2026，1 次记录打开，0 回；收件 communication@voipdistri.com；主题多为「10G Enterprise SFP Switch、90W PoE Managed Switch」；Elsa 箱：`to:voipdistri.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 15 / 来 0）（第 74 批(j)））",
 "type": "网店型分销商（VoIP + 工业网络）",
 "sieve": "1~2（1 次打开）",
 "stop": "15 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
@@ -70772,7 +70772,7 @@
 "email_hook": "For the camera tower BOM, a DIN-rail 4-port gigabit PoE switch with SFP uplink, 44–57 V DC input and −40 to +75 °C rating is $36.9 EXW in volume — what PoE budget per tower do your PRO SOLAR units allow?",
 "mail_review": {
 "binding": {
-"level": "未触达（A 邮箱 15 封 2025→2026，1 次记录打开，0 回；收件 f.hoffmann@liveye.com；主题多为「10G Enterprise SFP Switch、8 Port Industrial PoE Switch」）",
+"level": "未触达（A 邮箱 15 封 2025→2026，1 次记录打开，0 回；收件 f.hoffmann@liveye.com；主题多为「10G Enterprise SFP Switch、8 Port Industrial PoE Switch」；Elsa 箱：`to:liveye.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 15 / 来 0）（第 74 批(j)））",
 "type": "安防产品商",
 "sieve": "1~2（1 次打开）",
 "stop": "15 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
@@ -79731,7 +79731,7 @@
 "email_hook": "Zain, for the ONV-type industrial PoE positions in your installations, we supply DIN-rail 4-PoE + 1 SFP and 8-PoE + 2 SFP units (managed on Marvell L2+, or unmanaged, −40~75 °C, CE/RoHS) from single units, EXW USD — which port count do your projects use most?",
 "mail_review": {
 "binding": {
-"level": "未触达（A 邮箱 13 封 2025→2026，1 次记录打开，0 回；收件 info@adlerss.com, zain@adlerss.com；主题多为「90W PoE Managed Switch、Mini Industrial PoE Switch」）",
+"level": "未触达（A 邮箱 13 封 2025→2026，1 次记录打开，0 回；收件 info@adlerss.com, zain@adlerss.com；主题多为「90W PoE Managed Switch、Mini Industrial PoE Switch」；Elsa 箱：`to:adlerss.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 13 / 来 0）（第 74 批(j)））",
 "type": "安防/网络安装商（德国，工业 FS 现 ONV）",
 "sieve": "1~2（1 次打开）",
 "stop": "13 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
@@ -80067,7 +80067,7 @@
 "email_hook": "For the PoE switches that power your access-control readers and controllers, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP; industrial DIN-rail 4/8-PoE) in Borer packaging from small lots, CE/RoHS/UKCA — which PoE SKU ships most with your installations?",
 "mail_review": {
 "binding": {
-"level": "未触达（A 邮箱 16 封 2025→2026，无记录打开，0 回；收件 info@borer.co.uk；主题多为「Industrial PoE Switch、10G Enterprise SFP Switch」）",
+"level": "未触达（A 邮箱 16 封 2025→2026，无记录打开，0 回；收件 info@borer.co.uk；主题多为「Industrial PoE Switch、10G Enterprise SFP Switch」；Elsa 箱：`to:fingerprint-access-control.com OR to:borer.co.uk` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 16 / 来 0）（第 74 批(j)））",
 "type": "门禁系统制造商（英国，自有品牌，PoE 现 Utepo 系）",
 "sieve": "1（只收到群发）",
 "stop": "只打通用邮箱，无记录打开；Q-33 供应商渠道客户",
@@ -85187,7 +85187,7 @@
 "email_hook": "Your SMART line now has 4/8/16-port NDAA PoE switches; we can add a 24-port PoE+ managed model with 4 SFP under the GRUNDIG label (Marvell switch core, branded Web UI, NDAA component declaration) at $145.7 EXW — would a 24-port fill the gap your partners ask for?",
 "mail_review": {
 "binding": {
-"level": "未触达（1 封自动回复）",
+"level": "未触达（1 封自动回复；Elsa 箱：`to:grundig-security.com OR to:abetechs.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 15 / 来 1）（第 74 批(j)））",
 "type": "德国 GRUNDIG Security 被许可人（Abetechs）",
 "sieve": "0",
 "stop": "自动回复/机器人，无人工回复",
@@ -85567,7 +85567,7 @@
 "email_hook": "For the CCTV and LPR sites you centralise into the control room, a 24-port PoE+ managed switch with 4 SFP uplinks (280 W budget) is EXW-priced per unit; I can also send the CE/RoHS files you would need for public-administration tenders.",
 "mail_review": {
 "binding": {
-"level": "轻度触达（2024-11-20 Eros 回「€..?」→ Simon「280 Euro」STC-448XGGPM；无后续；之后 17 封群发无回）",
+"level": "轻度触达（2024-11-20 Eros 回「€..?」→ Simon「280 Euro」STC-448XGGPM；无后续；之后 17 封群发无回；Elsa 箱：`to:stsitalia.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 18 / 来 1）（第 74 批(j)））",
 "type": "意大利网络/安防分销（STS Italia；Eros = 采购）",
 "sieve": "2（问价）",
 "stop": "€280 的 48 口 PoE 管理型没有下文；Simon 没问用途/数量",
@@ -91279,7 +91279,7 @@
 "email_hook": "For ROV topside refits, the DIN-rail 8-port managed switch with 2 SFP fibre uplinks runs −40 to +75 °C on 12–58 V DC; is there a refit coming up where one unit would be useful?",
 "mail_review": {
 "binding": {
-"level": "轻度触达（2024-06-16 Mike「You could email the data sheet/manual」→ 已发；无后续；之后 22 封群发无回）",
+"level": "轻度触达（2024-06-16 Mike「You could email the data sheet/manual」→ 已发；无后续；之后 22 封群发无回；Elsa 箱：`to:genrov.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 23 / 来 1）（第 74 批(j)））",
 "type": "英国工程/安防承包（Genrov Ltd）",
 "sieve": "2",
 "stop": "资料后无回",
@@ -95444,7 +95444,7 @@
 "email_hook": "For the ADDON wired-networking range, an 8-port gigabit PoE desktop switch (120 W, your label and box) is $27.2 EXW and the plain 8-port gigabit at $10.5; which carton size do your e-traders prefer?",
 "mail_review": {
 "binding": {
-"level": "未触达（A/S 邮箱 27 封 2024→2026，1 次记录打开，0 回；收件 purchase@addon-tech.com；主题多为「Industrial PoE Switch、10G Enterprise SFP Switch」）",
+"level": "未触达（A/S 邮箱 27 封 2024→2026，1 次记录打开，0 回；收件 purchase@addon-tech.com；主题多为「Industrial PoE Switch、10G Enterprise SFP Switch」；Elsa 箱：`to:addon-tech.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 27 / 来 0）（第 74 批(j)））",
 "type": "—",
 "sieve": "1~2（1 次打开）",
 "stop": "27 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
@@ -101635,7 +101635,7 @@
 "email_hook": "For the EXSYS-branded PoE and Ethernet switches, we can add a Marvell-based L2+ tier (8-PoE + 2 SFP, 24-PoE + 4 SFP) and budget unmanaged units in your packaging from small lots, CE/RoHS — which switch SKU sells most through your Italian dealers?",
 "mail_review": {
 "binding": {
-"level": "未触达（A/S 邮箱 24 封 2024→2026，无记录打开，0 回；收件 exsys@exsys.it；主题多为「Industrial PoE Switch、Mini Industrial PoE Switch」）",
+"level": "未触达（A/S 邮箱 24 封 2024→2026，无记录打开，0 回；收件 exsys@exsys.it；主题多为「Industrial PoE Switch、Mini Industrial PoE Switch」；Elsa 箱：`to:exsys.it` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 24 / 来 0）（第 74 批(j)））",
 "type": "网络配件品牌商（EXSYS，现 E-link 供货）",
 "sieve": "1（只收到群发）",
 "stop": "24 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
@@ -103686,7 +103686,7 @@
 "email_hook": "For the site cabinets behind your remotely monitored cameras, a DIN-rail 4-port gigabit PoE switch rated −40 to +75 °C is $35.5 EXW and the managed 8-port version $145.7; do your towers run 48 V or 24 V DC inside?",
 "mail_review": {
 "binding": {
-"level": "读而不回（A/S 邮箱 28 封 2024→2026，其中 2 封被打开，0 回；收件 muhassin@optiwatchgroup.com, shiffin@optiwatchgroup.com；被打开主题「Managed Optical Bypass Switch、Industrial PoE Switch」）",
+"level": "读而不回（A/S 邮箱 28 封 2024→2026，其中 2 封被打开，0 回；收件 muhassin@optiwatchgroup.com, shiffin@optiwatchgroup.com；被打开主题「Managed Optical Bypass Switch、Industrial PoE Switch」；Elsa 箱：`to:optiwatchgroup.com OR to:optimumgroupcompanies.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 28 / 来 0）（第 74 批(j)））",
 "type": "—",
 "sieve": "2（有人在读，无人回）",
 "stop": "读而不回 = 内容未命中或没有当下需求",
@@ -104898,7 +104898,7 @@
 "email_hook": "Nathan, for the media converters sold under your label alongside your transceiver and cable range, we can supply industrial gigabit and PoE MCs (DIN/wall mount, −40~75 °C) in your packaging from small lots, CE/RoHS/UKCA — is there an MC housing or rack-chassis configuration you currently struggle to source?",
 "mail_review": {
 "binding": {
-"level": "未触达（1 封自动回复）",
+"level": "未触达（1 封自动回复；Elsa 箱：`to:wire.tech` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 25 / 来 1）（第 74 批(j)））",
 "type": "英国网络配件品牌商（Wire.tech）",
 "sieve": "0",
 "stop": "自动回复/机器人，无人工回复",
@@ -107412,7 +107412,7 @@
 "email_hook": "Agostino, for the PoE switches that ship with your CCTV range, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE + 4 SFP) from small lots in EL.MO. packaging, CE/RoHS — which size do your installers order most with your NVRs?",
 "mail_review": {
 "binding": {
-"level": "未触达（A/S 邮箱 18 封 2024→2026，无记录打开，0 回；收件 agostino.avolio@elmospa.com, info@elmospa.com；主题多为「Marvell Industrial Alert System、Industrial PoE Switch」）",
+"level": "未触达（A/S 邮箱 18 封 2024→2026，无记录打开，0 回；收件 agostino.avolio@elmospa.com, info@elmospa.com；主题多为「Marvell Industrial Alert System、Industrial PoE Switch」；Elsa 箱：`to:elmospa.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 18 / 来 0）（第 74 批(j)））",
 "type": "意大利安防系统制造商（CCTV 配套 PoE 可贴标，OEM 采购）",
 "sieve": "1（只收到群发）",
 "stop": "18 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
@@ -108234,7 +108234,7 @@
 "email_hook": "Hussain — did MOH-TA-170325 get awarded, and at roughly what unit price did the 24-port industrial PoE close? If a similar tender comes again, we can quote the 400/100 volume tier directly.",
 "mail_review": {
 "binding": {
-"level": "轻度绑定（2025-03-17 Alan 对其 RFQ「MOH-TA-170325」出了 500 台报价：STI-288DGGPM-2BT ×400 + STI-42424XGGPM ×100，装箱单 42 箱 760 kg；对方 5 封实质回复：报价顺序质疑 → 「too expensive」→ 要差异说明 → 要户外版 → 2025-05-15「no news yet」；之后 Alan 11 封群发无回）",
+"level": "轻度绑定（2025-03-17 Alan 对其 RFQ「MOH-TA-170325」出了 500 台报价：STI-288DGGPM-2BT ×400 + STI-42424XGGPM ×100，装箱单 42 箱 760 kg；对方 5 封实质回复：报价顺序质疑 → 「too expensive」→ 要差异说明 → 要户外版 → 2025-05-15「no news yet」；之后 Alan 11 封群发无回；Elsa 箱：`to:linx-com.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 19 / 来 6）（第 74 批(j)））",
 "type": "英国结构化布线/网络产品品牌分销（Linxcom UK；Hussain = Purchasing & Product Development Manager，RFQ 编号 MOH-TA 指向中东卫生部类标书）——第二档有进口经验的分销",
 "sieve": "4（报价 + 技术对表 + 户外改版诉求），卡在价格",
 "stop": "价格：2025-03-18「The prices are too expensive」；Alan 的回法是「如果你只是买卖那是贵了；如果看技术就值」+ ChatGPT 附件——没有给出降价空间或 MOQ 阶梯；2025-05-15 项目无消息后再无实质往来",
@@ -112948,7 +112948,7 @@
 "email_hook": "Tomasz, alongside the Marvell AC5-based switches you distribute, we supply Marvell-based 24-GE + 4×10G and 24/48-PoE + 4×10G L2+ access switches (neutral brand) from small lots, CE/RoHS, EXW USD — is there an entry-level managed access position your partners ask for?",
 "mail_review": {
 "binding": {
-"level": "未触达（1 封自动回复）",
+"level": "未触达（1 封自动回复；Elsa 箱：`to:stordis.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 13 / 来 1）（第 74 批(j)））",
 "type": "德/英开放网络分销（STORDIS；Marvell AC5 平台在售）",
 "sieve": "0",
 "stop": "自动回复/机器人，无人工回复",
@@ -115852,7 +115852,7 @@
 "email_hook": "Next to the refurbished Catalyst access switches you stock, a new 24-port gigabit L2+ switch with 4×10G uplinks at $127.4 EXW can fill orders when refurbished units are out of stock; would a datasheet be useful?",
 "mail_review": {
 "binding": {
-"level": "未触达（A 邮箱 1 封 2026，无记录打开，0 回；收件 kushagra.bhardwaj@comtek-de.com；主题多为「Updated Ethernet Switches Links」）",
+"level": "未触达（A 邮箱 1 封 2026，无记录打开，0 回；收件 kushagra.bhardwaj@comtek-de.com；主题多为「Updated Ethernet Switches Links」；Elsa 箱：`to:comtek-de.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 1 / 来 0）（第 74 批(j)））",
 "type": "—",
 "sieve": "1（只收到群发）",
 "stop": "1 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
@@ -119020,7 +119020,7 @@
 "email_hook": "Wadii — the 20-unit 24-port PoE project from Sept 2024: did it close, and do your current projects still require dual PSU and stacking, or would 10G uplinks + ERPS do?",
 "mail_review": {
 "binding": {
-"level": "轻度绑定（6 封实质来信、两年：2024-09 问 STI-288GP 价 → 20 台项目 RFQ（Saga 无此规格）→ 2025-07 要全铜口报价 + 每行加 AC/DC 电源价 → 2025-10-31 要 Booster 交换机资料；无样品无订单）",
+"level": "轻度绑定（6 封实质来信、两年：2024-09 问 STI-288GP 价 → 20 台项目 RFQ（Saga 无此规格）→ 2025-07 要全铜口报价 + 每行加 AC/DC 电源价 → 2025-10-31 要 Booster 交换机资料；无样品无订单；Elsa 箱：`to:briticom.net OR to:teltronix.net` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 27 / 来 6）（第 74 批(j)））",
 "type": "英国电信/网络经销（Teltronix | Briticom；Wadii = 采购/项目）——第三档分销，项目驱动",
 "sieve": "3（两次报价、一次项目 RFQ）",
 "stop": "2024-09-03 的 20 台项目要「24 口 PoE + 4 千兆 + 双冗余电源 + 4 SFP LH + 堆叠线」——Simon 回「not available」直接放弃，没有给近似型号；2025-07 要电源价后无下文；2025-10-31 Alan 的 Booster 资料是否发出未见",
@@ -155313,7 +155313,7 @@
 "email_hook": "For the bench and lab networks around your data-logging systems (outside the in-vehicle scope), we supply Marvell-based DIN-rail 8-PoE + 4×10G and 8-GE industrial switches (−40~75 °C, CE/RoHS) from small lots — is there a lab-side switch requirement we could quote?",
 "mail_review": {
 "binding": {
-"level": "未触达（A/S 邮箱 17 封 2024→2026，无记录打开，0 回；收件 services@b-plus.com；主题多为「Marvell Industrial Alert System、Marvell Alleycat5 Solution」）",
+"level": "未触达（A/S 邮箱 17 封 2024→2026，无记录打开，0 回；收件 services@b-plus.com；主题多为「Marvell Industrial Alert System、Marvell Alleycat5 Solution」；Elsa 箱：`to:b-plus.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 17 / 来 0）（第 74 批(j)））",
 "type": "汽车测试/数据采集技术公司（德国；车载场景守界，仅实验室网络可谈）",
 "sieve": "1（只收到群发）",
 "stop": "17 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
@@ -171037,7 +171037,7 @@
 "email_hook": "Marco, for the CCTV and SMB channel — Marvell L2+ 24-PoE + 4 uplinks at $135 and 24-GE + 4×10G at $127 EXW, neutral box; would a 2-unit test next to the Netgear/Zyxel units you list make sense?",
 "mail_review": {
 "binding": {
-"level": "未触达（A/S 邮箱 16 封 2025→2026，无记录打开，0 回；收件 asit@asit.it, jacopo.ganz@asit.it；主题多为「Industrial PoE Switch、Commercial PoE Switch」）",
+"level": "未触达（A/S 邮箱 16 封 2025→2026，无记录打开，0 回；收件 asit@asit.it, jacopo.ganz@asit.it；主题多为「Industrial PoE Switch、Commercial PoE Switch」；Elsa 箱：`to:asit.it` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 16 / 来 0）（第 74 批(j)））",
 "type": "—",
 "sieve": "1（只收到群发）",
 "stop": "16 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
@@ -175335,7 +175335,7 @@
 "email_hook": "Your PLANET industrial 8-port units already carry Coel part numbers, so a DIN-rail PoE+ second source can slot into the same catalogue line. Do your installers take the PLANET industrial 8-port units mainly unmanaged (IGS-801T) or managed (WGS-5225)?",
 "mail_review": {
 "binding": {
-"level": "未触达（A/S 邮箱 16 封 2025→2026，无记录打开，0 回；收件 a.fallerini@coeldistribution.it, info@coeldistribution.it；主题多为「Industrial PoE Switch、48 Port PoE Managed Switch」）",
+"level": "未触达（A/S 邮箱 16 封 2025→2026，无记录打开，0 回；收件 a.fallerini@coeldistribution.it, info@coeldistribution.it；主题多为「Industrial PoE Switch、48 Port PoE Managed Switch」；Elsa 箱：`to:coeldistribution.it` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 16 / 来 0）（第 74 批(j)））",
 "type": "—",
 "sieve": "1（只收到群发）",
 "stop": "16 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱；Q-33 供应商渠道客户",
@@ -208178,7 +208178,7 @@
 "email_hook": "Walter, beside the 3onedata units you carry — our DIN managed 8-PoE + 2-SFP is Marvell-based (ERPS <20 ms) at $79 EXW, same import flow you already use; one sample for a side-by-side?",
 "mail_review": {
 "binding": {
-"level": "未触达（A 邮箱 17 封 2025→2026，无记录打开，0 回；收件 info@intellisystem.it, randieri@intellisystem.it；主题多为「Industrial PoE Switch、16 Port PoE Managed Switch」）",
+"level": "未触达（A 邮箱 17 封 2025→2026，无记录打开，0 回；收件 info@intellisystem.it, randieri@intellisystem.it；主题多为「Industrial PoE Switch、16 Port PoE Managed Switch」；Elsa 箱：`to:intellisystem.it` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 17 / 来 0）（第 74 批(j)））",
 "type": "—",
 "sieve": "1（只收到群发）",
 "stop": "17 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
@@ -210448,7 +210448,7 @@
 "override_reason": "有具名 KP + 真实意向 + 样品 PI 已开，但新公司、无项目、未付款 → B（等项目；若样品付款即升 A）",
 "mail_review": {
 "binding": {
-"level": "轻度绑定→样品 PI 未付（2026-09-29 起 4 封实质来信：要目录、问 UK 分销 → 「project by project」+ 愿买样 → 10-17 给地址、Simon 开 2 台 STC-424XGGPM-280W $180 的样品发票 → 同日「unable to make the payment now… when I have a project」）",
+"level": "轻度绑定→样品 PI 未付（2026-09-29 起 4 封实质来信：要目录、问 UK 分销 → 「project by project」+ 愿买样 → 10-17 给地址、Simon 开 2 台 STC-424XGGPM-280W $180 的样品发票 → 同日「unable to make the payment now… when I have a project」；Elsa 箱：`to:millievolution.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 5 / 来 4）（第 74 批(j)））",
 "type": "伦敦一人 MikroTik 顾问/集成（Milliseconds Evolution Ltd，注册地 128 City Road 虚拟地址；20 年 MikroTik 经验）——第四档小集成商，有做 UK 经销的想法",
 "sieve": "4（走到样品 PI，未付）",
 "stop": "现金：没有项目就付不起 $360 的样品；Simon 10-19「Let's wait then」处理正确",
@@ -212041,7 +212041,7 @@
 "email_hook": "Per gli impianti Uniview che distribuite in Calabria: switch PoE+ 8 porte gigabit gestito con 2 SFP a $80.7 EXW, versione non gestita $25.1 — vi invio il listino commerciale PoE in italiano che avevate chiesto in fiera?",
 "mail_review": {
 "binding": {
-"level": "未触达（A/S 邮箱 23 封 2024→2026，1 次记录打开，0 回；收件 d.bianco@elsikr.it, m.sciumbata@elsikr.it；主题多为「Marvell Industrial Alert System、Industrial PoE Switch」）",
+"level": "未触达（A/S 邮箱 23 封 2024→2026，1 次记录打开，0 回；收件 d.bianco@elsikr.it, m.sciumbata@elsikr.it；主题多为「Marvell Industrial Alert System、Industrial PoE Switch」；Elsa 箱：`to:elsikr.it` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 23 / 来 0）（第 74 批(j)））",
 "type": "—",
 "sieve": "1~2（1 次打开）",
 "stop": "23 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
@@ -213812,7 +213812,7 @@
 "email_hook": "Jeneeben, for the entry PoE models in the barox video-network range, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP commercial, DIN-rail industrial) from small lots with SNMP/LLDP support for your VMS integration — which model would you consider dual-sourcing first?",
 "mail_review": {
 "binding": {
-"level": "无绑定（2024-05-02/03 Luis 三封一句话回复「Amazing」「that's sounds great」→ 报 STI-050GE $25 → 「None whatsoever!」= 不要样品；之后 26 封群发无回）；退信：info@barox.de 2024-07-19、info@barox.de 2025-03-12、luis.coello@barox.de 2024-06-26、luis.coello@barox.de 2025-03-12",
+"level": "无绑定（2024-05-02/03 Luis 三封一句话回复「Amazing」「that's sounds great」→ 报 STI-050GE $25 → 「None whatsoever!」= 不要样品；之后 26 封群发无回）；退信：info@barox.de 2024-07-19、info@barox.de 2025-03-12、luis.coello@barox.de 2024-06-26、luis.coello@barox.de 2025-03-12；Elsa 箱：`to:barox.de OR to:barox.ch` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 26 / 来 3）（第 74 批(j)）",
 "type": "德国视频网络交换机品牌商（Barox；Luis = META 区销售总监，西班牙号码）——第一档品牌商，但回信者是销售不是采购",
 "sieve": "2（问价后拒样）",
 "stop": "销售总监对供应商没有采购权；「None whatsoever」是礼貌的拒绝",
@@ -217665,7 +217665,7 @@
 "email_hook": "Saeid, for the LevelOne industrial PoE and managed switch lines, we can be an additional ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed, 8/24-PoE L2+ commercial, gigabit MC) from small lots in your packaging, CE/RoHS — is there a model in the range you would like a second-source quote for?",
 "mail_review": {
 "binding": {
-"level": "未触达（A/S 邮箱 8 封 2024→2026，无记录打开，0 回；收件 saeid.habibi@ddc-group.com；主题多为「16 Port PoE Managed Switch、Managed Optical Bypass Switch」）",
+"level": "未触达（A/S 邮箱 8 封 2024→2026，无记录打开，0 回；收件 saeid.habibi@ddc-group.com；主题多为「16 Port PoE Managed Switch、Managed Optical Bypass Switch」；Elsa 箱：`to:level1.com OR to:ddc-group.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 8 / 来 0）（第 74 批(j)））",
 "type": "网络品牌商（LevelOne，OEM 采购；已有在供厂商）",
 "sieve": "1（只收到群发）",
 "stop": "8 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
@@ -219060,7 +219060,7 @@
 "email_hook": "Anke, for a MICROSENS-labelled industrial managed 8-PoE + 2-SFP (Marvell) and 10G media converters — white housing is possible above a minimum lot; what annual volume would the white-housing SKU run, so I check tooling with the factory?",
 "mail_review": {
 "binding": {
-"level": "未触达（A/S 邮箱 23 封 2024→2026，无记录打开，0 回；收件 adevries@microsens.de, nfaut@microsens.de；主题多为「Marvell Industrial Alert System、10G Enterprise SFP Switch」）",
+"level": "未触达（A/S 邮箱 23 封 2024→2026，无记录打开，0 回；收件 adevries@microsens.de, nfaut@microsens.de；主题多为「Marvell Industrial Alert System、10G Enterprise SFP Switch」；Elsa 箱：`to:microsens.com OR to:microsens.de` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 23 / 来 0）（第 74 批(j)））",
 "type": "—",
 "sieve": "1（只收到群发）",
 "stop": "23 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
@@ -225198,7 +225198,7 @@
 "email_hook": "Ashkan, for the industrial switches you sell under the AIXONTEC label next to your cabling and RFID asset-management range, we can supply DIN-rail 8-PoE + 2 SFP managed (Marvell L2+) or unmanaged units (−40~75 °C, CE/RoHS) from small lots in your packaging, EXW USD — which model do your industrial customers reorder most?",
 "mail_review": {
 "binding": {
-"level": "未触达（A/S 邮箱 23 封 2024→2026，无记录打开，0 回；收件 ashkan.ghaznavi@aixontec.com, info@aixontec.com；主题多为「Industrial PoE Switch、10G Enterprise SFP Switch」）",
+"level": "未触达（A/S 邮箱 23 封 2024→2026，无记录打开，0 回；收件 ashkan.ghaznavi@aixontec.com, info@aixontec.com；主题多为「Industrial PoE Switch、10G Enterprise SFP Switch」；Elsa 箱：`to:aixontec.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 23 / 来 0）（第 74 批(j)））",
 "type": "网络技术网店/自有品牌（德国，用户标「着重跟」）",
 "sieve": "1（只收到群发）",
 "stop": "23 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
@@ -226397,7 +226397,7 @@
 "email_hook": "Buongiorno — beside the Hasivo industrial switches: DIN 2-SFP + 8-PoE at $57 and Marvell managed at $79 EXW, CE/RoHS; shall I send a sample to Vicenza?",
 "mail_review": {
 "binding": {
-"level": "未触达（A/S 邮箱 22 封 2024→2026，无记录打开，0 回；收件 info@bositaly.it；主题多为「Industrial PoE Switch、24 Port Fiber Switch」）",
+"level": "未触达（A/S 邮箱 22 封 2024→2026，无记录打开，0 回；收件 info@bositaly.it；主题多为「Industrial PoE Switch、24 Port Fiber Switch」；Elsa 箱：`to:bositaly.it` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 22 / 来 0）（第 74 批(j)））",
 "type": "—",
 "sieve": "1（只收到群发）",
 "stop": "只打通用邮箱，无记录打开",
@@ -227452,7 +227452,7 @@
 "email_hook": "Matteo, next to the Maiwe industrial switches you stock, we supply DIN-rail 8-GE + 2 SFP unmanaged and PoE models (−40~75 °C, 12–58 VDC) in neutral packing from small lots — which Maiwe model turns fastest for you, so we quote its equivalent first?",
 "mail_review": {
 "binding": {
-"level": "未触达（1 封自动回复）",
+"level": "未触达（1 封自动回复；Elsa 箱：`to:digimax.it` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 20 / 来 1）（第 74 批(j)））",
 "type": "意大利工业电源/工业 PC 分销（Digimax；在售 Maiwe）",
 "sieve": "0",
 "stop": "自动回复/机器人，无人工回复",
@@ -229730,7 +229730,7 @@
 "email_hook": "For the Innowatt-branded industrial PoE switches, we can be a second ODM source (DIN-rail 8-PoE + 2 SFP unmanaged/managed, −40~75 °C, CE/RoHS) from small lots in your packaging, EXW USD — which model do you reorder most often?",
 "mail_review": {
 "binding": {
-"level": "未触达（A/S 邮箱 22 封 2024→2026，1 次记录打开，0 回；收件 commerciale@innowatt.it；主题多为「Industrial PoE Switch、Marvell Industrial Alert System」）",
+"level": "未触达（A/S 邮箱 22 封 2024→2026，1 次记录打开，0 回；收件 commerciale@innowatt.it；主题多为「Industrial PoE Switch、Marvell Industrial Alert System」；Elsa 箱：`to:innowatt.it` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 22 / 来 0）（第 74 批(j)））",
 "type": "电气/安防材料自有品牌网店（意大利，OEM 采购）",
 "sieve": "1~2（1 次打开）",
 "stop": "22 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
@@ -230174,7 +230174,7 @@
 "email_hook": "For the Switch Ethernet Industriali line on iotech-italia.net, a Marvell-based DIN 8-port PoE+ managed switch with 2 SFP (−40 to +75 °C, 12–58 V) at $139.9 EXW complements the Wlink routers you represent; would a datasheet in Italian-ready format help?",
 "mail_review": {
 "binding": {
-"level": "未触达（A/S 邮箱 21 封 2024→2026，无记录打开，0 回；收件 info@iotech-italia.net；主题多为「Marvell Industrial Alert System、48 Port 10G Core Switch」）",
+"level": "未触达（A/S 邮箱 21 封 2024→2026，无记录打开，0 回；收件 info@iotech-italia.net；主题多为「Marvell Industrial Alert System、48 Port 10G Core Switch」；Elsa 箱：`to:iotech-italia.net` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 21 / 来 0）（第 74 批(j)））",
 "type": "—",
 "sieve": "1（只收到群发）",
 "stop": "只打通用邮箱，无记录打开",
@@ -238892,7 +238892,7 @@
 "email_hook": "Sameer, following your Cisco switch RFQ: where a project allows a non-Cisco access layer, we supply a neutral-brand Marvell-based 24-GE + 4×10G L2+ switch (PoE+ option) from small lots, CE/RoHS/UKCA — would a budget alternative be useful for any of your current quotes?",
 "mail_review": {
 "binding": {
-"level": "未发信（S/A 邮箱均无往来；来源：用户表「Cisco Switch / from: 阿里巴巴RFQ」）",
+"level": "未发信（S/A 邮箱均无往来；来源：用户表「Cisco Switch / from: 阿里巴巴RFQ」；Elsa 箱：`to:tier1ds.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(j)））",
 "type": "IT 硬件/备件经销商（英国，品牌货为主）",
 "sieve": "—（未入筛）",
 "stop": "从未触达",
@@ -241414,7 +241414,7 @@
 "email_hook": "Alessandro, alongside the Taiwanese industrial switch brands you distribute, we supply neutral-brand Marvell-based DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP managed switches (−40~75 °C, CE/RoHS) from single units, EXW USD — is there a budget industrial position your integrator customers ask for below the branded lines?",
 "mail_review": {
 "binding": {
-"level": "未触达（A 邮箱 15 封 2025→2026，无记录打开，0 回；收件 adamian@contradata.it, info@contradata.it；主题多为「Mini Industrial PoE Switch、48 Port PoE Managed Switch」）",
+"level": "未触达（A 邮箱 15 封 2025→2026，无记录打开，0 回；收件 adamian@contradata.it, info@contradata.it；主题多为「Mini Industrial PoE Switch、48 Port PoE Managed Switch」；Elsa 箱：`to:contradata.it` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 15 / 来 0）（第 74 批(j)））",
 "type": "工业网络/嵌入式分销商（意大利，台湾品牌为主）",
 "sieve": "1（只收到群发）",
 "stop": "15 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
@@ -242399,7 +242399,7 @@
 "email_hook": "Simone, for the PoE switches your installer customers buy with Hikvision and UNV kits, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ (plus budget 4/8/16-PoE unmanaged) from small lots, CE/RoHS, EXW USD — which PoE port count moves most through your branches?",
 "mail_review": {
 "binding": {
-"level": "读而不回（A/S 邮箱 30 封 2024→2026，其中 2 封被打开，0 回；收件 info@dodicelettronica.it, ivan.d@dodic.it；被打开主题「Industrial PoE Switch、Marvell Industrial Alert System」）",
+"level": "读而不回（A/S 邮箱 30 封 2024→2026，其中 2 封被打开，0 回；收件 info@dodicelettronica.it, ivan.d@dodic.it；被打开主题「Industrial PoE Switch、Marvell Industrial Alert System」；Elsa 箱：`to:dodicelettronica.it OR to:dodicgroup.it` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 30 / 来 0）（第 74 批(j)））",
 "type": "安防分销商（意大利，面向安装商）",
 "sieve": "2（有人在读，无人回）",
 "stop": "读而不回 = 内容未命中或没有当下需求",
@@ -242912,7 +242912,7 @@
 "email_hook": "Buongiorno — beside the Digitus industrial switches and the MCs you list: DIN 2-SFP + 8-PoE at $57 and gigabit MC at $22 EXW with photos / CE files for listing; shall I send the sheet?",
 "mail_review": {
 "binding": {
-"level": "未触达（A/S 邮箱 17 封 2025→2026，无记录打开，0 回；收件 info@electronikhouse.it；主题多为「Industrial PoE Switch、Marvell Alleycat5 Solution」）",
+"level": "未触达（A/S 邮箱 17 封 2025→2026，无记录打开，0 回；收件 info@electronikhouse.it；主题多为「Industrial PoE Switch、Marvell Alleycat5 Solution」；Elsa 箱：`to:electronikhouse.it` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 17 / 来 0）（第 74 批(j)））",
 "type": "—",
 "sieve": "1（只收到群发）",
 "stop": "只打通用邮箱，无记录打开",
@@ -245775,7 +245775,7 @@
 "email_hook": "Javier, following your enquiry for a 1-fibre + 2-copper switch for parking-guidance installations: we supply compact fibre-uplink units (1 SFP + 1/2 GE, DIN-rail, −40~75 °C, CE/RoHS) and 5/8-GE switches under your label from small lots, EXW USD — how many nodes per car park, and is PoE needed for sensors or displays?",
 "mail_review": {
 "binding": {
-"level": "未发信（S/A 邮箱均无往来；来源：用户表「1光2 商业switch / from: 阿里巴巴RFQ」）",
+"level": "未发信（S/A 邮箱均无往来；来源：用户表「1光2 商业switch / from: 阿里巴巴RFQ」；Elsa 箱：`to:multiguide.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(j)））",
 "type": "停车引导系统制造商（德国，交换机为系统配套）",
 "sieve": "—（未入筛）",
 "stop": "从未触达",
@@ -247945,7 +247945,7 @@
 "email_hook": "Mauro, for the PoE switches you wholesale with your CCTV and NVR lines, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ model and budget 4/8-port unmanaged PoE units from small lots, CE/RoHS, EXW USD — which band do your installers buy most?",
 "mail_review": {
 "binding": {
-"level": "未触达（A 邮箱 12 封 2025→2026，无记录打开，0 回；收件 customer.service@sea-srl.it, mauro.brunazzo@sea-srl.it；主题多为「10G Enterprise SFP Switch、Booster PoE Switch」）",
+"level": "未触达（A 邮箱 12 封 2025→2026，无记录打开，0 回；收件 customer.service@sea-srl.it, mauro.brunazzo@sea-srl.it；主题多为「10G Enterprise SFP Switch、Booster PoE Switch」；Elsa 箱：`to:sea-srl.it` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 12 / 来 0）（第 74 批(j)））",
 "type": "安防电子批发商（意大利）",
 "sieve": "1（只收到群发）",
 "stop": "12 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
@@ -248640,7 +248640,7 @@
 "email_hook": "Chiara, for the networking items alongside your industrial and panel PCs, we supply Marvell-based DIN-rail 8-port PoE and gigabit industrial switches plus gigabit media converters (−40~75 °C, neutral packing) from small lots — is PoE or non-PoE the more common request from your automation customers?",
 "mail_review": {
 "binding": {
-"level": "未触达（A/S 邮箱 17 封 2025→2026，无记录打开，0 回；收件 c.beriachetto@sisav.it, i.cianciola@sisav.it；主题多为「Industrial PoE Switch、16 Port Ethernet Switch」）",
+"level": "未触达（A/S 邮箱 17 封 2025→2026，无记录打开，0 回；收件 c.beriachetto@sisav.it, i.cianciola@sisav.it；主题多为「Industrial PoE Switch、16 Port Ethernet Switch」；Elsa 箱：`to:sisav.it` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 17 / 来 0）（第 74 批(j)））",
 "type": "工业自动化产品分销商（意大利）",
 "sieve": "1（只收到群发）",
 "stop": "17 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
@@ -249004,7 +249004,7 @@
 ],
 "mail_review": {
 "binding": {
-"level": "未触达（A 邮箱 17 封 2025→2026，无记录打开，0 回；收件 d.prieth@solpakutec.com；主题多为「Industrial PoE Switch、16 Port Ethernet Switch」）",
+"level": "未触达（A 邮箱 17 封 2025→2026，无记录打开，0 回；收件 d.prieth@solpakutec.com；主题多为「Industrial PoE Switch、16 Port Ethernet Switch」；Elsa 箱：`to:solpakutec.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 17 / 来 0）（第 74 批(j)））",
 "type": "工业定制方案小商（意大利，ICP DAS 工业 FS）",
 "sieve": "1（只收到群发）",
 "stop": "17 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
@@ -250512,7 +250512,7 @@
 "email_hook": "Alessandro, for the switch and media-converter section of your catalogue, we supply Marvell-based DIN-rail 8-GE + 2 SFP managed switches and gigabit media converters (−40~75 °C, CE/RoHS) neutral-brand from single units, EXW USD — which industrial SKU do your telecom and industrial customers request most?",
 "mail_review": {
 "binding": {
-"level": "未触达（A 邮箱 17 封 2025→2026，1 次记录打开，0 回；收件 info@wicomsolutions.it；主题多为「8 Port Industrial PoE Switch、48 Port PoE Managed Switch」）",
+"level": "未触达（A 邮箱 17 封 2025→2026，1 次记录打开，0 回；收件 info@wicomsolutions.it；主题多为「8 Port Industrial PoE Switch、48 Port PoE Managed Switch」；Elsa 箱：`to:wicomsolutions.it` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 17 / 来 0）（第 74 批(j)））",
 "type": "通信部件分销商（意大利，工业 FS/MC 栏目）",
 "sieve": "1~2（1 次打开）",
 "stop": "只打通用邮箱，无记录打开",
@@ -282720,7 +282720,7 @@
 "email_hook": "Jos, for the Welotec-branded compact industrial switches outside the IEC 61850-3 line — Marvell DIN managed 8-PoE + 2-SFP and 5-port minis under your label from small lots (CE/RoHS, −40~75 ℃); which housing size do you want to standardise?",
 "mail_review": {
 "binding": {
-"level": "未触达（A/S 邮箱 23 封 2024→2026，1 次记录打开，0 回；收件 info@welotec.com, j.zenner@welotec.com；主题多为「10G Enterprise SFP Switch、Managed Optical Bypass Switch」）",
+"level": "未触达（A/S 邮箱 23 封 2024→2026，1 次记录打开，0 回；收件 info@welotec.com, j.zenner@welotec.com；主题多为「10G Enterprise SFP Switch、Managed Optical Bypass Switch」；Elsa 箱：`to:welotec.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 23 / 来 0）（第 74 批(j)））",
 "type": "—",
 "sieve": "1~2（1 次打开）",
 "stop": "23 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
@@ -283183,7 +283183,7 @@
 "email_hook": "For the wienet industrial switch range, we can serve as a second ODM source (DIN-rail 5/8-GE unmanaged, 8-PoE + 2 SFP managed, −40~75 °C, CE/RoHS) from small lots in your housing — is there a port count in the range you currently source from a single supplier?",
 "mail_review": {
 "binding": {
-"level": "未触达（A/S 邮箱 24 封 2024→2026，无记录打开，0 回；收件 info@wieland-electric.com；主题多为「Marvell Industrial Alert System、10G Enterprise SFP Switch」）",
+"level": "未触达（A/S 邮箱 24 封 2024→2026，无记录打开，0 回；收件 info@wieland-electric.com；主题多为「Marvell Industrial Alert System、10G Enterprise SFP Switch」；Elsa 箱：`to:wieland-electric.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 24 / 来 0）（第 74 批(j)））",
 "type": "德国电气连接技术制造商（自有标工业 FS，OEM 采购；体量大）",
 "sieve": "1（只收到群发）",
 "stop": "只打通用邮箱，无记录打开",
@@ -284744,7 +284744,7 @@
 "email_hook": "Steve, for the AMG managed PoE and media-converter lines — Marvell-based DIN 8-PoE + 2-SFP managed under the AMG label from small lots (CE/UKCA/RoHS), plus 10G SFP+/RJ45 converters on request; which SKU is next for re-sourcing?",
 "mail_review": {
 "binding": {
-"level": "未触达（A/S 邮箱 25 封 2024→2026，无记录打开，0 回；收件 sales@amgsystems.com, steve.clarke@amgsystems.com；主题多为「Marvell Industrial Alert System、10G Enterprise SFP Switch」）",
+"level": "未触达（A/S 邮箱 25 封 2024→2026，无记录打开，0 回；收件 sales@amgsystems.com, steve.clarke@amgsystems.com；主题多为「Marvell Industrial Alert System、10G Enterprise SFP Switch」；Elsa 箱：`to:amgsystems.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 25 / 来 0）（第 74 批(j)））",
 "type": "—",
 "sieve": "1（只收到群发）",
 "stop": "25 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱；Q-33 供应商渠道客户",
@@ -317225,7 +317225,7 @@
 "email_hook": "Marco, for the PoE switches you bundle under the Bettini label with GAMS recorders, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 16/24-PoE + 4 SFP; DIN-rail industrial option) in your packaging from small lots, CE/RoHS — which port count do your installers order most with GAMS systems?",
 "mail_review": {
 "binding": {
-"level": "未触达（A/S 邮箱 21 封 2024→2026，1 次记录打开，0 回；收件 costantini@bettinivideo.com, info@bettinivideo.com；主题多为「Industrial PoE Switch、Marvell Industrial Alert System」）",
+"level": "未触达（A/S 邮箱 21 封 2024→2026，1 次记录打开，0 回；收件 costantini@bettinivideo.com, info@bettinivideo.com；主题多为「Industrial PoE Switch、Marvell Industrial Alert System」；Elsa 箱：`to:bettinivideo.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 21 / 来 0）（第 74 批(j)））",
 "type": "意大利安防品牌商（GAMS NVR；PoE 现 ONV 贴标 + ComNet）",
 "sieve": "1~2（1 次打开）",
 "stop": "21 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
@@ -317671,7 +317671,7 @@
 ],
 "mail_review": {
 "binding": {
-"level": "未触达（A/S 邮箱 26 封 2024→2026，1 次记录打开，0 回；收件 support@bvsecurity.com；主题多为「Marvell Industrial Alert System、24 Port Passive PoE Switch」）",
+"level": "未触达（A/S 邮箱 26 封 2024→2026，1 次记录打开，0 回；收件 support@bvsecurity.com；主题多为「Marvell Industrial Alert System、24 Port Passive PoE Switch」；Elsa 箱：`to:bvsecurity.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 26 / 来 0）（第 74 批(j)））",
 "type": "安防电商 + 自有 SW 系列 PoE（Utepo 代工迹象，OEM 采购）",
 "sieve": "1~2（1 次打开）",
 "stop": "只打通用邮箱，无记录打开",
@@ -319299,7 +319299,7 @@
 "email_hook": "Paul, for the PoE switches shipped with ESP camera kits, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP; budget 4/8-PoE unmanaged) in ESP packaging from small lots, CE/RoHS/UKCA — which PoE SKU do your electrical-wholesale customers reorder most?",
 "mail_review": {
 "binding": {
-"level": "未触达（A/S 邮箱 24 封 2024→2026，无记录打开，0 回；收件 christhomas@espuk.com, info@espuk.com；主题多为「Industrial PoE Switch、10G Enterprise SFP Switch」）",
+"level": "未触达（A/S 邮箱 24 封 2024→2026，无记录打开，0 回；收件 christhomas@espuk.com, info@espuk.com；主题多为「Industrial PoE Switch、10G Enterprise SFP Switch」；Elsa 箱：`to:espuk.com OR to:esp-uk.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 24 / 来 0）（第 74 批(j)））",
 "type": "安防品牌商（英国，PoE 现 Folksafe）",
 "sieve": "1（只收到群发）",
 "stop": "24 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
@@ -322805,7 +322805,7 @@
 "email_hook": "Andrea, following our note on the bypass wiring: we can supply an industrial managed PoE switch with hardware bypass (4 SFP + 8 GT PoE, −40~75 °C) and standard 8-PoE + 2 SFP managed units for access-control and fire-detection networks from single units, CE/RoHS, EXW USD — shall I send the bypass wiring diagram and a quotation for one evaluation unit?",
 "mail_review": {
 "binding": {
-"level": "未触达（5 封来信 = info@eter.it 意大利语转办自动回复 + Andrea 休假自动回复）",
+"level": "未触达（5 封来信 = info@eter.it 意大利语转办自动回复 + Andrea 休假自动回复；Elsa 箱：`to:eter.it` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 12 / 来 5）（第 74 批(j)））",
 "type": "意大利门禁/消防集成商（Eter）",
 "sieve": "0",
 "stop": "自动回复",
@@ -326346,7 +326346,7 @@
 "email_hook": "Mats, for industrial-Ethernet projects like the DEUTZ AG case, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed switches (−40~75 °C, SNMP/CLI, CE/RoHS, neutral packing) from small lots as shop-floor access behind an Extreme core — is there a port count your OT projects keep needing?",
 "mail_review": {
 "binding": {
-"level": "未触达（A 邮箱 12 封 2025→2026，无记录打开，0 回；收件 info@bma-networks.com, mats.hansen@bma-networks.com；主题多为「48 Port PoE Managed Switch、10G Enterprise SFP Switch」）",
+"level": "未触达（A 邮箱 12 封 2025→2026，无记录打开，0 回；收件 info@bma-networks.com, mats.hansen@bma-networks.com；主题多为「48 Port PoE Managed Switch、10G Enterprise SFP Switch」；Elsa 箱：`to:bma-networks.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 12 / 来 0）（第 74 批(j)））",
 "type": "企业 IT 系统集成商（德国，Extreme 生态）",
 "sieve": "1（只收到群发）",
 "stop": "12 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
@@ -327289,7 +327289,7 @@
 "email_hook": "Andy — for your industrial range, is there any 10G-uplink or L3 aggregation gap where a Marvell/CENTEC unit under your brand would fill a hole rather than duplicate what you have?",
 "mail_review": {
 "binding": {
-"level": "轻度绑定→价格断（2024-05 Andy「we already have such a switch」；2025-02 问 L3 DIN PoE 单价与定制 MOQ → $500 → 「quite expensive, we have layer 3 switches for a lot less」；之后 Alan 40+ 封群发无回）",
+"level": "轻度绑定→价格断（2024-05 Andy「we already have such a switch」；2025-02 问 L3 DIN PoE 单价与定制 MOQ → $500 → 「quite expensive, we have layer 3 switches for a lot less」；之后 Alan 40+ 封群发无回；Elsa 箱：`to:casecomms.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 52 / 来 5）（第 74 批(j)））",
 "type": "英国工业通信/网络品牌商（Case Communications；Andy = 产品/采购）——第一档品牌商，但已有同类供应",
 "sieve": "3（问价 + 定制 MOQ）",
 "stop": "$500 的 Marvell L3 DIN PoE 对一个「已有更便宜 L3」的品牌商没有理由；Alan 回「for high-end market ONLY」等于关门",
@@ -334275,7 +334275,7 @@
 "email_hook": "Sistel Networking builds its industrial Ethernet offer around PLANET DIN-rail switches for installers, so a second source in the same form factor protects your delivery dates. Which DIN-rail PoE size do your installers specify most, 8 PoE + 2 SFP or the 4 SFP version?",
 "mail_review": {
 "binding": {
-"level": "未触达（A 邮箱 15 封 2025→2026，1 次记录打开，0 回；收件 info@sistel-networking.it；主题多为「Mini Industrial PoE Switch、16 Port Ethernet Switch」）",
+"level": "未触达（A 邮箱 15 封 2025→2026，1 次记录打开，0 回；收件 info@sistel-networking.it；主题多为「Mini Industrial PoE Switch、16 Port Ethernet Switch」；Elsa 箱：`to:sistel-networking.it` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 15 / 来 0）（第 74 批(j)））",
 "type": "—",
 "sieve": "1~2（1 次打开）",
 "stop": "只打通用邮箱，无记录打开；Q-33 供应商渠道客户",
@@ -334568,7 +334568,7 @@
 "email_hook": "Naif, alongside the Edgecore and Raisecom industrial Ethernet lines in your access portfolio, we supply Marvell-based DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP managed switches (−40~75 °C, CE/RoHS) from single units, EXW USD — is there a cost-sensitive access position in your utility or operator projects?",
 "mail_review": {
 "binding": {
-"level": "未触达（A/S 邮箱 13 封 2025→2026，无记录打开，0 回；收件 info@syserso.com, naif.kiy@syserso.com；主题多为「24 Port PoE Managed Switch、48 Port PoE Managed Switch」）",
+"level": "未触达（A/S 邮箱 13 封 2025→2026，无记录打开，0 回；收件 info@syserso.com, naif.kiy@syserso.com；主题多为「24 Port PoE Managed Switch、48 Port PoE Managed Switch」；Elsa 箱：`to:syserso.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 13 / 来 0）（第 74 批(j)））",
 "type": "ICT 集成商（德国，KRITIS/运营商，民用口径）",
 "sieve": "1（只收到群发）",
 "stop": "13 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
@@ -350892,7 +350892,7 @@
 "email_hook": "For the switches in your automation store, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and DIN-rail 5/8-GE industrial units from single units, CE/RoHS, EXW USD — which switch SKU do your automation customers order most?",
 "mail_review": {
 "binding": {
-"level": "未触达（A/S 邮箱 23 封 2024→2026，无记录打开，0 回；收件 info@automationstore.it；主题多为「Industrial PoE Switch、16 Port PoE Managed Switch」）",
+"level": "未触达（A/S 邮箱 23 封 2024→2026，无记录打开，0 回；收件 info@automationstore.it；主题多为「Industrial PoE Switch、16 Port PoE Managed Switch」；Elsa 箱：`to:automationstore.it` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 23 / 来 0）（第 74 批(j)））",
 "type": "自动化产品网店（意大利）",
 "sieve": "1（只收到群发）",
 "stop": "只打通用邮箱，无记录打开",
@@ -381272,7 +381272,7 @@
 "email_hook": "For the media converters you offer alongside optics, we supply neutral-brand industrial gigabit and PoE MCs (−40~75 °C, CE/RoHS/UKCA) from single units, EXW USD — which MC configuration do your telecom customers order most?",
 "mail_review": {
 "binding": {
-"level": "未触达（A 邮箱 6 封 2025→2026，无记录打开，0 回；收件 contact@carritech.com；主题多为「10G Enterprise SFP Switch、Booster PoE Switch」）",
+"level": "未触达（A 邮箱 6 封 2025→2026，无记录打开，0 回；收件 contact@carritech.com；主题多为「10G Enterprise SFP Switch、Booster PoE Switch」；Elsa 箱：`to:carritech.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 6 / 来 0）（第 74 批(j)））",
 "type": "电信设备/光模块供应商（英国，MC 为副线）",
 "sieve": "1（只收到群发）",
 "stop": "只打通用邮箱，无记录打开",
@@ -391259,7 +391259,7 @@
 "email_hook": "Arthur, next to the Maiwe industrial switches in your automation range, we supply DIN-rail 8-PoE + 2 SFP managed and 8-GE unmanaged units (−40~75 °C, neutral packing, CE/RoHS) from small lots — which Maiwe model do your IPC projects use most, so we quote its equivalent?",
 "mail_review": {
 "binding": {
-"level": "未触达（A/S 邮箱 12 封 2025→2026，无记录打开，0 回；收件 barasch@ipc2u.de, sales@ipc2u.com；主题多为「10G Enterprise SFP Switch、24 Port PoE Managed Switch」）",
+"level": "未触达（A/S 邮箱 12 封 2025→2026，无记录打开，0 回；收件 barasch@ipc2u.de, sales@ipc2u.com；主题多为「10G Enterprise SFP Switch、24 Port PoE Managed Switch」；Elsa 箱：`to:ipc2u.com OR to:ipc2u.de` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 12 / 来 0）（第 74 批(j)））",
 "type": "工业计算机供应商/制造商（德国，EMEA 多国；在售 Maiwe）",
 "sieve": "1（只收到群发）",
 "stop": "12 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
@@ -410637,7 +410637,7 @@
 "email_hook": "For the access switches and media converters in your fibre and building-network installations, we supply Marvell-based 8-PoE + 2 SFP L2+, 24-PoE + 4 SFP and gigabit MCs from single units, CE/RoHS, EXW USD — which switch position do your Munich projects use most?",
 "mail_review": {
 "binding": {
-"level": "未触达（A 邮箱 6 封 2025→2026，无记录打开，0 回；收件 info@mgt.bayern；主题多为「8 Port Industrial PoE Switch、10G Enterprise SFP Switch」）",
+"level": "未触达（A 邮箱 6 封 2025→2026，无记录打开，0 回；收件 info@mgt.bayern；主题多为「8 Port Industrial PoE Switch、10G Enterprise SFP Switch」；Elsa 箱：`to:mgt.bayern` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 6 / 来 0）（第 74 批(j)））",
 "type": "IT/电信/电气安装商（德国）",
 "sieve": "1（只收到群发）",
 "stop": "只打通用邮箱，无记录打开",
@@ -413619,7 +413619,7 @@
 "email_hook": "Markus, for the access-layer switches that accompany your WDM and transmission projects, we supply Marvell-based 24-GE + 4×10G L2+ units (PoE+ option) from small lots, CE/RoHS, neutral packing — is there a port configuration your project teams keep sourcing separately?",
 "mail_review": {
 "binding": {
-"level": "未触达（A 邮箱 7 封 2025→2026，无记录打开，0 回；收件 foerster@pandacom.de, klein@pandacom.de；主题多为「Updated Ethernet Switches Links、Industrial PoE Switch」）",
+"level": "未触达（A 邮箱 7 封 2025→2026，无记录打开，0 回；收件 foerster@pandacom.de, klein@pandacom.de；主题多为「Updated Ethernet Switches Links、Industrial PoE Switch」；Elsa 箱：`to:pandacomdirekt.de OR to:pandacom.de` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 7 / 来 0）（第 74 批(j)））",
 "type": "传输网络系统商（德国，WDM 自研；交换机为配套）",
 "sieve": "1（只收到群发）",
 "stop": "7 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
@@ -433622,7 +433622,7 @@
 "email_hook": "Justin, for the switch category at Comms Express, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+, 24-GE + 4×10G and DIN-rail industrial units from small lots, CE/RoHS/UKCA, EXW USD — is there an own-label or budget switch position you would consider listing?",
 "mail_review": {
 "binding": {
-"level": "未触达（A/S 邮箱 28 封 2024→2026，无记录打开，0 回；收件 cesales@comms-express.com, info@comms-express.com；主题多为「Industrial PoE Switch、24 Port PoE Managed Switch」）",
+"level": "未触达（A/S 邮箱 28 封 2024→2026，无记录打开，0 回；收件 cesales@comms-express.com, info@comms-express.com；主题多为「Industrial PoE Switch、24 Port PoE Managed Switch」；Elsa 箱：`to:comms-express.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 28 / 来 0）（第 74 批(j)））",
 "type": "网络产品电商（英国）",
 "sieve": "1（只收到群发）",
 "stop": "28 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
@@ -434309,7 +434309,7 @@
 ],
 "mail_review": {
 "binding": {
-"level": "未触达（A/S 邮箱 23 封 2024→2026，无记录打开，0 回；收件 info@elettronicaesicurezza.it；主题多为「Industrial PoE Switch、90W PoE Managed Switch」）",
+"level": "未触达（A/S 邮箱 23 封 2024→2026，无记录打开，0 回；收件 info@elettronicaesicurezza.it；主题多为「Industrial PoE Switch、90W PoE Managed Switch」；Elsa 箱：`to:elettronicaesicurezza.it` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 23 / 来 0）（第 74 批(j)））",
 "type": "安防系统分销商（意大利，PoE 延长器/EoC 询盘）",
 "sieve": "1（只收到群发）",
 "stop": "只打通用邮箱，无记录打开",
@@ -439480,7 +439480,7 @@
 "email_hook": "Alongside the industrial switch brands you carry with your cabling range, we supply neutral-brand Marvell-based DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP managed units (−40~75 °C, CE/RoHS/UKCA) from single units, EXW USD — is there a budget industrial position your customers ask for?",
 "mail_review": {
 "binding": {
-"level": "未触达（A/S 邮箱 27 封 2024→2026，1 次记录打开，0 回；收件 sales@bcp-uk.com；主题多为「Managed Optical Bypass Switch、Industrial PoE Switch」）",
+"level": "未触达（A/S 邮箱 27 封 2024→2026，1 次记录打开，0 回；收件 sales@bcp-uk.com；主题多为「Managed Optical Bypass Switch、Industrial PoE Switch」；Elsa 箱：`to:britaniccablingproduction.com OR to:bcp-uk.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 27 / 来 0）（第 74 批(j)））",
 "type": "布线/网络产品经销商（英国）",
 "sieve": "1~2（1 次打开）",
 "stop": "只打通用邮箱，无记录打开",
@@ -445136,7 +445136,7 @@
 "site_mismatch": true,
 "mail_review": {
 "binding": {
-"level": "未触达（A/S 邮箱 14 封 2024→2026，无记录打开，0 回；收件 info@profichipusa.com；主题多为「Marvell Alleycat5 Solution、48 Port PoE Managed Switch」）",
+"level": "未触达（A/S 邮箱 14 封 2024→2026，无记录打开，0 回；收件 info@profichipusa.com；主题多为「Marvell Alleycat5 Solution、48 Port PoE Managed Switch」；Elsa 箱：`to:eu.com OR to:profichipusa.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 14 / 来 0）（第 74 批(j)））",
 "type": "工业网络分销商（美国/德国待核，现三旺）",
 "sieve": "1（只收到群发）",
 "stop": "只打通用邮箱，无记录打开",
@@ -451849,7 +451849,7 @@
 "email_hook": "Steve, following our ongoing exchange on industrial PoE: for the Utepo positions in your surveillance projects we can supply DIN-rail 4-PoE + 1 SFP and 8-PoE + 2 SFP (managed on Marvell L2+, or unmanaged, −40~75 °C, CE/RoHS/UKCA) from single units, EXW USD — shall I quote one evaluation unit of the 8-PoE managed model?",
 "mail_review": {
 "binding": {
-"level": "轻度（已报价、对方高层批准、未付款）",
+"level": "轻度（已报价、对方高层批准、未付款；Elsa 箱：`to:itmsystems.co.uk OR to:itmsystems.net` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 42 / 来 23）（第 74 批(j)））",
 "type": "英国 MSP/网络安全集成商（技术流 + 要 OEM 协议）",
 "sieve": "2→3 之间（反复索要规格/价格、CEO 审批中；无 PI、无付款）",
 "stop": "对方内部：CEO 审批 + 终端客户验证；Saga 侧曾因 CENTEC 400G 批次没货拖到 2026-08 才「ready to ship」",
@@ -459668,7 +459668,7 @@
 "email_hook": "For the Silvernet industrial PoE switch line (e.g. the 73208MP-BT position), we can be a second ODM source on a Marvell L2+ platform (8-PoE with 802.3bt ports + 2 SFP, −40~75 °C, CE/RoHS/UKCA) in your packaging from small lots — which SKU would you want sampled against your current unit?",
 "mail_review": {
 "binding": {
-"level": "读而不回（A/S 邮箱 25 封 2024→2026，其中 2 封被打开，0 回；收件 cdiprima@silvernet.com, knewton@silvernet.com；被打开主题「Marvell Industrial Alert System、10G Enterprise SFP Switch」）",
+"level": "读而不回（A/S 邮箱 25 封 2024→2026，其中 2 封被打开，0 回；收件 cdiprima@silvernet.com, knewton@silvernet.com；被打开主题「Marvell Industrial Alert System、10G Enterprise SFP Switch」；Elsa 箱：`to:silvernet.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 25 / 来 0）（第 74 批(j)））",
 "type": "网络品牌商（英国，工业 FS 现光路）",
 "sieve": "2（有人在读，无人回）",
 "stop": "读而不回 = 内容未命中或没有当下需求",
@@ -460154,7 +460154,7 @@
 ],
 "mail_review": {
 "binding": {
-"level": "未触达（A/S 邮箱 25 封 2024→2026，无记录打开，0 回；收件 nigilm@simpleuk.com, sales@simpleuk.com；主题多为「Marvell Industrial Alert System、Industrial PoE Switch」）",
+"level": "未触达（A/S 邮箱 25 封 2024→2026，无记录打开，0 回；收件 nigilm@simpleuk.com, sales@simpleuk.com；主题多为「Marvell Industrial Alert System、Industrial PoE Switch」；Elsa 箱：`to:simpleuk.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 25 / 来 0）（第 74 批(j)））",
 "type": "英国兼容光模块品牌商（T Optics；交换机为配套，OEM 采购）",
 "sieve": "1（只收到群发）",
 "stop": "25 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
@@ -470934,7 +470934,7 @@
 "email_hook": "For the PoE switches you carry from Fengrunda — our Marvell L2+ 8-PoE + 2-SFP is $81 EXW with a 1-year warranty (commercial line) and EU CE/RoHS files; who manages the switch line at Econnet so I can send the comparison sheet?",
 "mail_review": {
 "binding": {
-"level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：商业PoE 丰润达的」）",
+"level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：商业PoE 丰润达的」；Elsa 箱：`to:econnet.it` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(j)））",
 "type": "—",
 "sieve": "—（未入筛）",
 "stop": "从未触达",
@@ -473781,7 +473781,7 @@
 ],
 "mail_review": {
 "binding": {
-"level": "未发信（S/A 邮箱均无往来；来源：用户表「switch 看着像是丰润达的」）",
+"level": "未发信（S/A 邮箱均无往来；来源：用户表「switch 看着像是丰润达的」；Elsa 箱：`to:lorwen.it` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(j)））",
 "type": "CCTV 自有品牌网店（意大利，OEM 采购）",
 "sieve": "—（未入筛）",
 "stop": "从未触达",
@@ -482110,7 +482110,7 @@
 "email_hook": "For the PoE switches sold under the eneo label, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE 280 W; DIN-rail 8-PoE for Utepo positions) in your packaging from small lots, CE/RoHS — which PoE SKU would you want sampled first?",
 "mail_review": {
 "binding": {
-"level": "未触达（A/S 邮箱 18 封 2025→2026，无记录打开，0 回；收件 info@eneo-security.com；主题多为「Marvell Industrial Alert System、Industrial PoE Switch」）",
+"level": "未触达（A/S 邮箱 18 封 2025→2026，无记录打开，0 回；收件 info@eneo-security.com；主题多为「Marvell Industrial Alert System、Industrial PoE Switch」；Elsa 箱：`to:eneo-security.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 18 / 来 0）（第 74 批(j)））",
 "type": "CCTV 品牌商（德国，PoE 现 Utepo，用户着重）",
 "sieve": "1（只收到群发）",
 "stop": "只打通用邮箱，无记录打开",
@@ -484315,7 +484315,7 @@
 "email_hook": "For the switches and PoE products carried under the InLine label, we can be an ODM source on a Marvell platform (8-PoE + 2 SFP L2+, 24-PoE + 4 SFP) plus budget unmanaged 5/8-port units in your retail packaging from small lots, CE/RoHS — which network SKU in the InLine range sells most through your dealers?",
 "mail_review": {
 "binding": {
-"level": "未触达（A/S 邮箱 18 封 2025→2026，无记录打开，0 回；收件 service@inline-info.com；主题多为「Marvell Industrial Alert System、Industrial PoE Switch」）",
+"level": "未触达（A/S 邮箱 18 封 2025→2026，无记录打开，0 回；收件 service@inline-info.com；主题多为「Marvell Industrial Alert System、Industrial PoE Switch」；Elsa 箱：`to:inline-info.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 18 / 来 0）（第 74 批(j)））",
 "type": "德国配件品牌商（InLine / Intos，OEM 采购，用户标「着重跟」）",
 "sieve": "1（只收到群发）",
 "stop": "只打通用邮箱，无记录打开",
@@ -487609,7 +487609,7 @@
 "email_hook": "For the PoE switches you sell and install with Hikvision NVR kits, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port unmanaged PoE units from small lots, CE/RoHS, EXW USD — which size do your projects use most?",
 "mail_review": {
 "binding": {
-"level": "未触达（A 邮箱 18 封 2025→2026，1 次记录打开，0 回；收件 qcall@ueberwachung.tv；主题多为「10G Enterprise SFP Switch、24 Port Fiber Switch」）",
+"level": "未触达（A 邮箱 18 封 2025→2026，1 次记录打开，0 回；收件 qcall@ueberwachung.tv；主题多为「10G Enterprise SFP Switch、24 Port Fiber Switch」；Elsa 箱：`to:qualicam.de OR to:ueberwachung.tv` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 18 / 来 0）（第 74 批(j)））",
 "type": "CCTV 网店/安装（德国，Hikvision 为主）",
 "sieve": "1~2（1 次打开）",
 "stop": "18 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",

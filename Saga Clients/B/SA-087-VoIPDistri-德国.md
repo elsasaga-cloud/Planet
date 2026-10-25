@@ -28,7 +28,7 @@ price_tier: 20%
 research: done
 site_snapshot: timeout  # 2026-10-21
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -45,7 +45,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-087` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A 邮箱 15 封 2025→2026，1 次记录打开，0 回；收件 communication@voipdistri.com；主题多为「10G Enterprise SFP Switch、90W PoE Managed Switch」）** ｜ 类型：网店型分销商（VoIP + 工业网络） ｜ 筛子：1~2（1 次打开） ｜ 停点：15 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：DE 主攻（四主） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 15，Opened 标签 1（Simon 群发追踪）；用户表：「买Elink的一部分工业级交换机 也卖本土的品牌Teltonika 对M12交换机知道一些，问了I/O模块，以及是否有分销商」；研究档 risks：网店价格透明、比价激烈；7 次推送 0 回复
+- **绑定等级：未触达（A 邮箱 15 封 2025→2026，1 次记录打开，0 回；收件 communication@voipdistri.com；主题多为「10G Enterprise SFP Switch、90W PoE Managed Switch」；Elsa 箱：`to:voipdistri.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 15 / 来 0）（第 74 批(j)））** ｜ 类型：网店型分销商（VoIP + 工业网络） ｜ 筛子：1~2（1 次打开） ｜ 停点：15 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：DE 主攻（四主） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 15，Opened 标签 1（Simon 群发追踪）；用户表：「买Elink的一部分工业级交换机 也卖本土的品牌Teltonika 对M12交换机知道一些，问了I/O模块，以及是否有分销商」；研究档 risks：网店价格透明、比价激烈；7 次推送 0 回复
 - **现状一句话**：德国 2003 年起的 VoIP/网络硬件网店型分销商（Akuvox、Alcatel、Dinstar、Fanvil、Gigaset、Grandstream、Teltonika、Yealink 等官方分销），服务 IT 经销商/集成商/工业客户/公共部门；用户记录：已在采购 E-link 工业交换机，询过 I/O 模块与分销商，7 次推送 0 回复。
 - **对方真实需求（有据）**：网店分销 20% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理，$139.9）对位 E-link 同类；非管理 STI-288GP（$57.4）；配 Teltonika 路由的 PoE 供电
 - **断点 / 为什么停在这里**：网店价格透明、比价激烈；7 次推送 0 回复
@@ -297,12 +297,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 71）；人工/调研定级 → B
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 71）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
