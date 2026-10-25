@@ -1,125 +1,125 @@
 {
-  "code": "SB-1093",
-  "name_official": "",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（uplinker.ru，快照 2026-10-21）",
-  "summary": "俄罗斯 ООО «ЛИНКЕР» / UPLINK（电信设备销售与技术方案：自有品牌 UPLINK 光模块（SFP 95 处、10G 24 处）、WDM MC（MC-WDM1000A/B、MC-1000-SFP-MINI）、PDH 复用器；表内「有很多 DCN 的 / WDM SFP」）；表内未跟进。",
-  "type": "电信设备经销商（俄罗斯，自有品牌 UPLINK）",
-  "size": "",
-  "brands_seen": [
-    "DCN"
-  ],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "官网标题：ЛИНКЕР продажа телекоммуникационного оборудования UPLINK - оптические трансиверы；品类词 布线 / 线缆 / 光纤 / 媒体转换",
-      "quote": "ООО ЛИНКЕР - разработка технических решений в сфере телекоммуникаций, продажа оборудования, продажа оптоволоконных систем связи. 8-812-666-2-666 UPLINK оптические трансиверы мультиплексоры dwdm cwdm",
-      "url": "https://uplinker.ru/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "有很多DCN的；WDM SFP",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网快照",
-      "claim": "ЛИНКЕР 定位",
-      "quote": "ООО «ЛИНКЕР» продажа телекоммуникационного оборудования ; Оптические трансиверы UPLINK ; MC-WDM1000B",
-      "url": "https://uplinker.ru/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "有很多 DCN 的；WDM SFP",
-      "quote": "有很多DCN的 / WDM SFP",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ "code": "SB-1093",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（uplinker.ru，快照 2026-10-21）",
+ "summary": "俄罗斯 ООО «ЛИНКЕР» / UPLINK（电信设备销售与技术方案：自有品牌 UPLINK 光模块（SFP 95 处、10G 24 处）、WDM MC（MC-WDM1000A/B、MC-1000-SFP-MINI）、PDH 复用器；表内「有很多 DCN 的 / WDM SFP」）；表内未跟进。",
+ "type": "电信设备经销商（俄罗斯，自有品牌 UPLINK）",
+ "size": "",
+ "brands_seen": [
+  "DCN"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：ЛИНКЕР продажа телекоммуникационного оборудования UPLINK - оптические трансиверы；品类词 布线 / 线缆 / 光纤 / 媒体转换",
+   "quote": "ООО ЛИНКЕР - разработка технических решений в сфере телекоммуникаций, продажа оборудования, продажа оптоволоконных систем связи. 8-812-666-2-666 UPLINK оптические трансиверы мультиплексоры dwdm cwdm",
+   "url": "https://uplinker.ru/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "hq": "俄罗斯",
-    "other": "官网 uplinker.ru，语言 ru，快照状态 ok；角色判定来源：官网文案"
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "有很多DCN的；WDM SFP",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "电信设备销售 / 光模块（自有品牌 UPLINK，俄罗斯）"
-  ],
-  "channels": {
-    "role": "电信设备经销商（俄罗斯，自有品牌 UPLINK）",
-    "region": "俄罗斯",
-    "contact": "sales@uplink.ru、sales@uplinker.ru"
+  {
+   "kind": "官网快照",
+   "claim": "ЛИНКЕР 定位",
+   "quote": "ООО «ЛИНКЕР» продажа телекоммуникационного оборудования ; Оптические трансиверы UPLINK ; MC-WDM1000B",
+   "url": "https://uplinker.ru/",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "官网：ЛИНКЕР продажа телекоммуникационного оборудования UPLINK - оптические трансиверы ; Оптические трансиверы UPLINK для любых задач；站内 MC-WDM1000B / MC-1000-SFP-MINI；页面 /item/pdh_opticheskiy_multipleksor_uplink_2e1_1fe_sfp_dt_22_industrial/",
-    "表内：有很多 DCN 的 / WDM SFP"
-  ],
-  "risks": [
-    "俄罗斯：结算/物流/合规风险；主业光模块/WDM（Saga 不供）；DCN 在供价格基准低；未跟进过，仅 sales@"
-  ],
-  "saga_fit": {
-    "p1": "STI-110GE",
-    "tier": 30,
-    "why": "UPLINK 标 MC → 工业千兆 MC STI-110GE（$24.3 @30%）、PoE MC STI-111GP（$30.1）；接入交换机 24 GE + 4×10G STC-424XGGM（$138.0）；光模块/WDM/PDH Saga 不供"
-  },
-  "email_hook": "For the media converters and access switches sold under the UPLINK label, we can supply gigabit/PoE MCs and Marvell-based 24-GE + 4×10G L2+ switches in your packaging from small lots, CE/RoHS; EAC by your side — which MC configuration runs the highest volume for you?",
-  "mail_review": {
-    "binding": {
-      "level": "未触达（A 邮箱 5 封 2025→2026，无记录打开，0 回；收件 sales@uplink.ru；主题多为「Optional Marvell Chipset Solutions、OEM Core Switching Solution」）",
-      "type": "电信设备经销商（俄罗斯，自有品牌 UPLINK）",
-      "sieve": "1（只收到群发）",
-      "stop": "只打通用邮箱，无记录打开",
-      "revive": "保持季度群发到 2027-Q1；无打开即停",
-      "lane": "RU 次级（Simon 2026-08 点名）",
-      "cadence": "季度",
-      "evidence": "gmail_digest：out 5；用户表：「有很多DCN的；WDM SFP」；研究档 risks：俄罗斯：结算/物流/合规风险；主业光模块/WDM（Saga 不供）；DCN 在供价格基准低；未跟进过，仅 sales@"
-    },
-    "situation": "俄罗斯 ООО «ЛИНКЕР» / UPLINK（电信设备销售与技术方案：自有品牌 UPLINK 光模块（SFP 95 处、10G 24 处）、WDM MC（MC-WDM1000A/B、MC-1000-SFP-MINI）、PDH 复用器；表内「有很多 DCN 的 / WDM SFP」）；表内未跟进。",
-    "need": "UPLINK 标 MC → 工业千兆 MC STI-110GE（$24.3 @30%）、PoE MC STI-111GP（$30.1）；接入交换机 24 GE + 4×10G STC-424XGGM（$138.0）；光模块/WDM/PDH Saga 不供",
-    "breakpoint": "俄罗斯：结算/物流/合规风险；主业光模块/WDM（Saga 不供）；DCN 在供价格基准低；未跟进过，仅 sales@",
-    "saga_now": {
-      "p1": "STI-110GE",
-      "tier": 30,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-25 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170",
-      "why": "UPLINK 标 MC → 工业千兆 MC STI-110GE（$24.3 @30%）、PoE MC STI-111GP（$30.1）；接入交换机 24 GE + 4×10G STC-424XGGM（$138.0）；光模块/WDM/PDH Saga 不供",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "群发节奏",
-      "channel": "A 邮箱",
-      "action": "观察打开",
-      "one_question": "For the media converters and access switches sold under the UPLINK label, we can supply gigabit/PoE MCs and Marvell-based 24-GE + 4×10G L2+ switches in your packaging from small lots, CE/RoHS; EAC by your side — which MC configuration runs the highest volume for you?"
-    },
-    "facts": [
-      {
-        "date": "2026-08-25",
-        "dir": "去",
-        "who": "A 群发",
-        "quote": "Optional Marvell Chipset Solutions、OEM Core Switching Solution",
-        "why": "5 封 / 0 次打开 / 0 回｜首封 2025-12-12 → 末封 2026-08-25（5 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "有很多DCN的；WDM SFP",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "有很多 DCN 的；WDM SFP",
+   "quote": "有很多DCN的 / WDM SFP",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "俄罗斯",
+  "other": "官网 uplinker.ru，语言 ru，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "电信设备销售 / 光模块（自有品牌 UPLINK，俄罗斯）"
+ ],
+ "channels": {
+  "role": "电信设备经销商（俄罗斯，自有品牌 UPLINK）",
+  "region": "俄罗斯",
+  "contact": "sales@uplink.ru、sales@uplinker.ru"
+ },
+ "signals": [
+  "官网：ЛИНКЕР продажа телекоммуникационного оборудования UPLINK - оптические трансиверы ; Оптические трансиверы UPLINK для любых задач；站内 MC-WDM1000B / MC-1000-SFP-MINI；页面 /item/pdh_opticheskiy_multipleksor_uplink_2e1_1fe_sfp_dt_22_industrial/",
+  "表内：有很多 DCN 的 / WDM SFP"
+ ],
+ "risks": [
+  "俄罗斯：结算/物流/合规风险；主业光模块/WDM（Saga 不供）；DCN 在供价格基准低；未跟进过，仅 sales@"
+ ],
+ "saga_fit": {
+  "p1": "STI-110GE",
+  "tier": 30,
+  "why": "UPLINK 标 MC → 工业千兆 MC STI-110GE（$24.3 @30%）、PoE MC STI-111GP（$30.1）；接入交换机 24 GE + 4×10G STC-424XGGM（$138.0）；光模块/WDM/PDH Saga 不供"
+ },
+ "email_hook": "For the media converters and access switches sold under the UPLINK label, we can supply gigabit/PoE MCs and Marvell-based 24-GE + 4×10G L2+ switches in your packaging from small lots, CE/RoHS; EAC by your side — which MC configuration runs the highest volume for you?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 5 封 2025→2026，无记录打开，0 回；收件 sales@uplink.ru；主题多为「Optional Marvell Chipset Solutions、OEM Core Switching Solution」；Elsa 箱：`to:uplinker.ru OR to:uplink.ru` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 5 / 来 0）（第 74 批(l)））",
+   "type": "电信设备经销商（俄罗斯，自有品牌 UPLINK）",
+   "sieve": "1（只收到群发）",
+   "stop": "只打通用邮箱，无记录打开",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "RU 次级（Simon 2026-08 点名）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 5；用户表：「有很多DCN的；WDM SFP」；研究档 risks：俄罗斯：结算/物流/合规风险；主业光模块/WDM（Saga 不供）；DCN 在供价格基准低；未跟进过，仅 sales@"
+  },
+  "situation": "俄罗斯 ООО «ЛИНКЕР» / UPLINK（电信设备销售与技术方案：自有品牌 UPLINK 光模块（SFP 95 处、10G 24 处）、WDM MC（MC-WDM1000A/B、MC-1000-SFP-MINI）、PDH 复用器；表内「有很多 DCN 的 / WDM SFP」）；表内未跟进。",
+  "need": "UPLINK 标 MC → 工业千兆 MC STI-110GE（$24.3 @30%）、PoE MC STI-111GP（$30.1）；接入交换机 24 GE + 4×10G STC-424XGGM（$138.0）；光模块/WDM/PDH Saga 不供",
+  "breakpoint": "俄罗斯：结算/物流/合规风险；主业光模块/WDM（Saga 不供）；DCN 在供价格基准低；未跟进过，仅 sales@",
+  "saga_now": {
+   "p1": "STI-110GE",
+   "tier": 30,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-25 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170",
+   "why": "UPLINK 标 MC → 工业千兆 MC STI-110GE（$24.3 @30%）、PoE MC STI-111GP（$30.1）；接入交换机 24 GE + 4×10G STC-424XGGM（$138.0）；光模块/WDM/PDH Saga 不供",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "For the media converters and access switches sold under the UPLINK label, we can supply gigabit/PoE MCs and Marvell-based 24-GE + 4×10G L2+ switches in your packaging from small lots, CE/RoHS; EAC by your side — which MC configuration runs the highest volume for you?"
+  },
+  "facts": [
+   {
+    "date": "2026-08-25",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "Optional Marvell Chipset Solutions、OEM Core Switching Solution",
+    "why": "5 封 / 0 次打开 / 0 回｜首封 2025-12-12 → 末封 2026-08-25（5 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "有很多DCN的；WDM SFP",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

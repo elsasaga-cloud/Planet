@@ -75,14 +75,14 @@
  "email_hook": "For the industrial switches and media converters sold under the SVP label, we can be a second ODM source on a Marvell platform (DIN-rail 8-GE/8-PoE + 2 SFP managed, gigabit MCs, −40~75 °C) in your packaging from small lots, CE/RoHS; EAC by your side — which SKU family runs the highest volume?",
  "mail_review": {
   "binding": {
-   "level": "未触达（A/S 邮箱 20 封 2024→2026，1 次记录打开，0 回；收件 vadim@sbvs.ru, video@svp.ru；主题多为「Industrial PoE Switch、Marvell Alleycat5 Solution」）；Elsa 群发 BCC 已触达 2026-08-26「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，俄罗斯-2（锚 bas-ip.com；2025-09-29 起月轮，201+） 批次 To sales@bas-ip.com，0 回（第 74 批 Bcc 头核对 msg 1a03df102140ed72）",
+   "level": "未触达（A/S 邮箱 20 封 2024→2026，1 次记录打开，0 回；收件 vadim@sbvs.ru, video@svp.ru；主题多为「Industrial PoE Switch、Marvell Alleycat5 Solution」）；Elsa 群发 BCC 已触达 2026-08-26「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，俄罗斯-2（锚 bas-ip.com；2025-02-22 起月轮，11 轮） 批次 To sales@bas-ip.com，0 回（第 74 批 Bcc 头核对 msg 1a03df102140ed72）",
    "type": "告警系统/交换机制造商（俄罗斯，用户标重要）",
    "sieve": "1~2（1 次打开）",
    "stop": "20 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
    "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
    "lane": "RU 次级（Simon 2026-08 点名）",
    "cadence": "一封",
-   "evidence": "gmail_digest：out 20，Opened 标签 1（Simon 群发追踪）；用户表：「工业FS MC SFP 机架 VC；工业FS MC EOC等；有E-link的工业FS」；研究档 risks：用户标「比较重要」；俄罗斯：结算/物流/合规风险；守界备注：疏散广播/告警为生命安全系统，仅供网络侧；现供 E-link 价格基准低；17 次无回复；备用邮箱为；data/gmail_e/bcc_batches_2026.json"
+   "evidence": "gmail_digest：out 20，Opened 标签 1（Simon 群发追踪）；用户表：「工业FS MC SFP 机架 VC；工业FS MC EOC等；有E-link的工业FS」；研究档 risks：用户标「比较重要」；俄罗斯：结算/物流/合规风险；守界备注：疏散广播/告警为生命安全系统，仅供网络侧；现供 E-link 价格基准低；17 次无回复；备用邮箱为；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To sales@bas-ip.com）本户见于 2026-08-26 名单；该批次最早 2025-02-22 起共 11 轮，更早轮次 Bcc 未读"
   },
   "situation": "俄罗斯 РУССБЫТ / SVP（svp.ru / video-svp.ru / fibersys.ru：俄罗斯疏散广播与告警系统及交换机制造商，SVP-V4xx 系列；表内「比较重要」、「有 E-link 的工业 FS」、工业 FS/MC/SFP/机架/VC/EoC）；群发 17 次无回复。",
   "need": "自有品牌工业 FS（现 E-link）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$50.5 @30%）、8 PoE + 2 SFP STI-288GPM（$85.5）、工业千兆 MC STI-110GE（$24.3）贴 SVP 标；MC 机架/SFP/EoC Saga 不供（Q-32）；守界：疏散告警系统本体不碰，仅供网络侧",
@@ -113,7 +113,7 @@
    {
     "date": "2026-08-26",
     "dir": "去",
-    "who": "Elsa 群发（BCC；To sales@bas-ip.com，俄罗斯-2（锚 bas-ip.com；2025-09-29 起月轮，201+） 批次）",
+    "who": "Elsa 群发（BCC；To sales@bas-ip.com，俄罗斯-2（锚 bas-ip.com；2025-02-22 起月轮，11 轮） 批次）",
     "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
     "why": "Elsa 箱群发 BCC 触达证据（命中地址 audio@svp.ru, svp.ru）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
     "k": "elsa_bcc"

@@ -24,7 +24,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -41,7 +41,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-999` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「主要是CCTV 有一些商业POE 自己的logo」）** ｜ 类型：俄罗斯 CCTV 品牌商（自有标 PoE 少量） ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：RU 次级（Simon 2026-08 点名） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「主要是CCTV 有一些商业POE 自己的logo」；研究档 risks：俄罗斯：结算/物流/合规风险（EAC 由客户申报）；PoE 为 CCTV 配套少量
+- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「主要是CCTV 有一些商业POE 自己的logo」；Elsa 箱：`to:sarmatt.ru` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(l)））** ｜ 类型：俄罗斯 CCTV 品牌商（自有标 PoE 少量） ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：RU 次级（Simon 2026-08 点名） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「主要是CCTV 有一些商业POE 自己的logo」；研究档 risks：俄罗斯：结算/物流/合规风险（EAC 由客户申报）；PoE 为 CCTV 配套少量
 - **现状一句话**：俄罗斯 Sarmatt（专业视频监控设备品牌：DVR、IP 摄像机、配件目录；表内「主要是 CCTV 有一些商业 PoE 自己的 logo」）；表内未跟进。
 - **对方真实需求（有据）**：自有 Sarmatt 标商用 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；非管理 8 PoE 位 HRUI STC-028GP（列表价，注明）
 - **断点 / 为什么停在这里**：俄罗斯：结算/物流/合规风险（EAC 由客户申报）；PoE 为 CCTV 配套少量
@@ -246,12 +246,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 29）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 29）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

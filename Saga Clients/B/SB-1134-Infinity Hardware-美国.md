@@ -44,7 +44,7 @@ updated: 2026-10-25
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1134` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-25。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（S 邮箱 6 封 2024，无记录打开，0 回；收件 info@infinityhardware.us, sales@infinityhardware.us；主题多为「48 port managed switch、2.5G Ethernet Switch」）；Elsa 群发 BCC 已触达 2026-08-17「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，拉美（锚 eletrotecnicasoares BR；2025-11-06 起月轮，201+） 批次 To eletrotecnicasoares@bol.com.br，0 回（第 74 批 Bcc 头核对 msg 1a01030ab6b2fbd1）** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：保持季度群发到 2027-Q1；无打开即停；WhatsApp 已加 → 唤醒走 WhatsApp 一句话，不走邮件 ｜ 通路：US 主攻（四主） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 6；用户表：「贸易公司/Cisco工业交换机 2020年使用国际站 / 1 33694 46904 已加」；研究档 risks：美国关税成本；小型转售商；无 UL；无后续跟进；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To eletrotecnicasoares@bol.com.br）本户见于 2026-08-17 名单；该批次最早 2025-11-06 起共 5 轮，更早轮次 Bcc 未读
+- **绑定等级：未触达（S 邮箱 6 封 2024，无记录打开，0 回；收件 info@infinityhardware.us, sales@infinityhardware.us；主题多为「48 port managed switch、2.5G Ethernet Switch」）；Elsa 群发 BCC 已触达 2026-08-17「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，拉美（锚 eletrotecnicasoares BR；2025-02-26 起月轮，13 轮） 批次 To eletrotecnicasoares@bol.com.br，0 回（第 74 批 Bcc 头核对 msg 1a01030ab6b2fbd1）** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：保持季度群发到 2027-Q1；无打开即停；WhatsApp 已加 → 唤醒走 WhatsApp 一句话，不走邮件 ｜ 通路：US 主攻（四主） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 6；用户表：「贸易公司/Cisco工业交换机 2020年使用国际站 / 1 33694 46904 已加」；研究档 risks：美国关税成本；小型转售商；无 UL；无后续跟进；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To eletrotecnicasoares@bol.com.br）本户见于 2026-08-17 名单；该批次最早 2025-02-26 起共 13 轮，更早轮次 Bcc 未读
 - **现状一句话**：美国北卡 High Point 的 IT 硬件转售商 Infinity Hardware（Go Get International LLC 经营，EIN 85-3229984；2020 年成立；2–10 人；新品与翻新服务器、存储、网络设备（Cisco 等）、IP 电话、监控摄像；服务本地与国际客户；+1 336 944 6904；info@/sales@infinityhardware.us；3975 Netherstone Ln, High Point NC 27265）。用户表：贸易公司、做 Cisco 工业交换机，2020 年起用阿里国际站；WhatsApp 已加；无跟进。转售商 → 分销 20%。
 - **对方真实需求（有据）**：分销 20% 档：STI-288DGGPM（DIN 8 GE PoE+ 2 SFP L2+ 管理，−40~+75 ℃，$139.9）作 Cisco IE 系列的中性替代；非管理 STI-288GP（$57.4）；FCC 有、UL 无需提前说明
 - **断点 / 为什么停在这里**：美国关税成本；小型转售商；无 UL；无后续跟进
@@ -55,7 +55,7 @@ updated: 2026-10-25
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2024-11-20 | 去 | S 群发 | 48 port managed switch、2.5G Ethernet Switch | 6 封 / 0 次打开 / 0 回｜首封 2024-06-22 → 末封 2024-11-20（6 去 / 0 来） | `gmail_digest` |
-| 2026-08-17 | 去 | Elsa 群发（BCC；To eletrotecnicasoares@bol.com.br，拉美（锚 eletrotecnicasoares BR；2025-11-06 起月轮，201+） 批次） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发 BCC 触达证据（命中地址 infinityhardware.us, info@infinityhardware.us, sales@infinityhardware.us）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
+| 2026-08-17 | 去 | Elsa 群发（BCC；To eletrotecnicasoares@bol.com.br，拉美（锚 eletrotecnicasoares BR；2025-02-26 起月轮，13 轮） 批次） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发 BCC 触达证据（命中地址 infinityhardware.us, info@infinityhardware.us, sales@infinityhardware.us）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-10-21 | 用户表 | Simon | 贸易公司/Cisco工业交换机 2020年使用国际站 / 1 33694 46904 已加 | 表内备注 | `用户表` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码

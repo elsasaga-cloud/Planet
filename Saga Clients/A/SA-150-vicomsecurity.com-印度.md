@@ -44,7 +44,7 @@ updated: 2026-10-25
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-150` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-25。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未绑定（邮件 7 封 0 回；用户表：已开视频会 + 自有品牌 + 机型需求）；Elsa 群发 BCC 已触达 2026-08-17「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，印度-2（锚 mintusony IN；2025-10-02 起月轮，201+） 批次 To mintusony@gmail.com，0 回（第 74 批 Bcc 头核对 msg 1a00e1740d3438ea）** ｜ 类型：加尔各答安防集成 + 自有品牌（Vicom） ｜ 筛子：0（邮件层无人工回复） ｜ 停点：2024-12 后未再发 ｜ 复活：视频会后的跟进在 Simon 手上 ｜ 通路：IN ｜ 节奏：不主动 ｜ 证据：邮件：去信 7 封（2024-06-29 → 2024-12-20），来信 0；Opened 标签 0 次；收件人 info@vicomsecurity.com；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To mintusony@gmail.com）本户见于 2026-08-17 名单；该批次最早 2025-10-02 起共 5 轮，更早轮次 Bcc 未读
+- **绑定等级：未绑定（邮件 7 封 0 回；用户表：已开视频会 + 自有品牌 + 机型需求）；Elsa 群发 BCC 已触达 2026-08-17「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，印度-2（锚 mintusony IN；2025-02-25 起月轮，12 轮） 批次 To mintusony@gmail.com，0 回（第 74 批 Bcc 头核对 msg 1a00e1740d3438ea）** ｜ 类型：加尔各答安防集成 + 自有品牌（Vicom） ｜ 筛子：0（邮件层无人工回复） ｜ 停点：2024-12 后未再发 ｜ 复活：视频会后的跟进在 Simon 手上 ｜ 通路：IN ｜ 节奏：不主动 ｜ 证据：邮件：去信 7 封（2024-06-29 → 2024-12-20），来信 0；Opened 标签 0 次；收件人 info@vicomsecurity.com；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To mintusony@gmail.com）本户见于 2026-08-17 名单；该批次最早 2025-02-25 起共 12 轮，更早轮次 Bcc 未读
 - **现状一句话**：视频会在邮件之外。
 - **对方真实需求（有据）**：4 光 24 电管理 PoE 贴牌。
 - **断点 / 为什么停在这里**：—
@@ -56,7 +56,7 @@ updated: 2026-10-25
 |---|---|---|---|---|---|
 | 2024-04-28 | 来 | 用户表（Simon 跟进记录；渠道 Whatsapp） | 用户表跟进：推「发了2层管理BT信息」→ 对方「有统一的管理软件平台」 | Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写 | `Clients/Whatsapp_S跟进 2026.08.04.xlsx no.62 2024.4.28` |
 | 2024-05-19 | 来 | 用户表（Simon 跟进记录；渠道 Whatsapp） | 用户表跟进：推「发了几个mini工业交换机」→ 对方「在和他们合作/https://www.benchu-group.net/」 | Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写 | `Clients/Whatsapp_S跟进 2026.08.04.xlsx no.62 2024.5.19` |
-| 2026-08-17 | 去 | Elsa 群发（BCC；To mintusony@gmail.com，印度-2（锚 mintusony IN；2025-10-02 起月轮，201+） 批次） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发 BCC 触达证据（命中地址 info@vicomsecurity.com, vicomsecurity.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
+| 2026-08-17 | 去 | Elsa 群发（BCC；To mintusony@gmail.com，印度-2（锚 mintusony IN；2025-02-25 起月轮，12 轮） 批次） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发 BCC 触达证据（命中地址 info@vicomsecurity.com, vicomsecurity.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文
 

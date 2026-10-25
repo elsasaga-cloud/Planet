@@ -1,158 +1,158 @@
 {
-  "code": "SC-1483",
-  "name_official": "DEALER Co Ltd（raisecom.su，圣彼得堡；Raisecom 俄罗斯经销；KP Dmitry Deikun、Kovzur Max – Technical manager）",
-  "researched_at": "2026-10-24",
-  "website_status": "未爬（raisecom.su）",
-  "summary": "S 邮箱 2024-05/06 两轮项目询价：05-07 Kovzur 要 CLI 手册（给了，候选 STI-480XGGM，18W）；06-20 Dmitry：「lost several projects」后给新小项目——L3 机架工业机 24×SFP + 8 Combo + 4×10G 双 AC（1 台）+ L2 DIN 2×SFP+8×PoE 240W；Simon 报 STI-4168XGGCM-U $550 / STI-288DGGPM $120；Dmitry 又问 L3 商用 8–12 SFP+ + 12–24 GE → Simon「没有正好的，近似 Realtek 6×10G+24×2.5G L2+」→ 无回。",
-  "type": "俄罗斯经销/项目商（Raisecom 代理）",
-  "size": "（未核）",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "邮件",
-      "claim": "项目规格 ①L3 工业机架 ②L2 DIN PoE",
-      "quote": "L3 rack-mount manageable industrial switch: 24*1000/1000M SFP 8*10/100/1000BASE-TX RJ45 (COMBO) 4*100M/1000M/10000M SFP+ AC/D: dual AC inputs 1unit; L2 manageable industrial switch: 2*Gigabit SFP+8*10/100/1000M RJ45 POE af/at, 240W, Din mounting",
-      "url": "data/gmail_a|gmail_s/messages/<year>/<month>.jsonl",
-      "date": "2024-06-20"
-    },
-    {
-      "kind": "邮件",
-      "claim": "第三个需求：L3 商用 8–12 SFP+ + 12–24 GE",
-      "quote": "Customer need L3 Commercial Managed Switch 8-12 SFP+ and 12-24GE. AC/D Do you have anything suitable?",
-      "url": "data/gmail_a|gmail_s/messages/<year>/<month>.jsonl",
-      "date": "2024-06-20"
-    },
-    {
-      "kind": "邮件（去）",
-      "claim": "Simon 报价",
-      "quote": "Item 1: STI-4168XGGCM-U 550usd/pc… Item 2: STI-288DGGPM 120usd/pc",
-      "url": "data/gmail_a|gmail_s/messages/<year>/<month>.jsonl",
-      "date": "2024-06-20"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Dmitry Deikun",
-      "title": "（采购/项目）",
-      "email": "ddmitry@raisecom.su",
-      "phone": "",
-      "source": "data/gmail_a|gmail_s/messages/<year>/<month>.jsonl"
-    },
-    {
-      "name": "Kovzur Max",
-      "title": "Technical manager, DEALER Co Ltd",
-      "email": "mk@raisecom.su",
-      "phone": "+7 812 764 28 85（信尾）",
-      "source": "data/gmail_a|gmail_s/messages/<year>/<month>.jsonl"
-    }
-  ],
-  "grade_override": "B",
-  "override_reason": "两位具名 KP、三个带规格的项目询价、我们已报价两款；俄罗斯次要市场 → B 慢慢跟进（自动 C 系无后续回复评分）。",
-  "notes": "最后一问（L3 商用 8–12 SFP+ + 12–24 GE）当年答「没有」——现在主表有 STC-4168XGGCM（4×10G SFP+ + 16×1G SFP + 8 Combo，L3，$413）和 STC-4816XGCGM（$353），接近他要的；2024 报的 $550（STI-4168XGGCM-U）在 2026-10 主表为 $511.5（L2+）/ $605（L3）。",
-  "deep": {
-    "done_at": "2026-10-24",
-    "level": "邮件证据"
+ "code": "SC-1483",
+ "name_official": "DEALER Co Ltd（raisecom.su，圣彼得堡；Raisecom 俄罗斯经销；KP Dmitry Deikun、Kovzur Max – Technical manager）",
+ "researched_at": "2026-10-24",
+ "website_status": "未爬（raisecom.su）",
+ "summary": "S 邮箱 2024-05/06 两轮项目询价：05-07 Kovzur 要 CLI 手册（给了，候选 STI-480XGGM，18W）；06-20 Dmitry：「lost several projects」后给新小项目——L3 机架工业机 24×SFP + 8 Combo + 4×10G 双 AC（1 台）+ L2 DIN 2×SFP+8×PoE 240W；Simon 报 STI-4168XGGCM-U $550 / STI-288DGGPM $120；Dmitry 又问 L3 商用 8–12 SFP+ + 12–24 GE → Simon「没有正好的，近似 Realtek 6×10G+24×2.5G L2+」→ 无回。",
+ "type": "俄罗斯经销/项目商（Raisecom 代理）",
+ "size": "（未核）",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "邮件",
+   "claim": "项目规格 ①L3 工业机架 ②L2 DIN PoE",
+   "quote": "L3 rack-mount manageable industrial switch: 24*1000/1000M SFP 8*10/100/1000BASE-TX RJ45 (COMBO) 4*100M/1000M/10000M SFP+ AC/D: dual AC inputs 1unit; L2 manageable industrial switch: 2*Gigabit SFP+8*10/100/1000M RJ45 POE af/at, 240W, Din mounting",
+   "url": "data/gmail_a|gmail_s/messages/<year>/<month>.jsonl",
+   "date": "2024-06-20"
   },
-  "company_facts": {
-    "legal_name": "DEALER Co Ltd（信尾）",
-    "founded": "",
-    "hq": "St. Petersburg",
-    "size": "",
-    "other": "raisecom.su"
+  {
+   "kind": "邮件",
+   "claim": "第三个需求：L3 商用 8–12 SFP+ + 12–24 GE",
+   "quote": "Customer need L3 Commercial Managed Switch 8-12 SFP+ and 12-24GE. AC/D Do you have anything suitable?",
+   "url": "data/gmail_a|gmail_s/messages/<year>/<month>.jsonl",
+   "date": "2024-06-20"
   },
-  "channels": {
-    "role": "经销/项目",
-    "region": "俄罗斯（圣彼得堡）"
-  },
-  "risks": [
-    "对俄付款/物流",
-    "2024 项目早已过去；需新项目",
-    "Raisecom 代理身份——可能只在 Raisecom 没有的缝隙里找货"
-  ],
-  "saga_fit": {
-    "p1": "STC-4168XGGCM（L3，4×10G SFP+ + 16×SFP + 8 Combo，$413）对他的「L3 商用 8–12 SFP+ + 12–24 GE」；工业 STI-4168XGGCM-U(L3) $605",
-    "tier": 25,
-    "why": "当年说没有的东西现在有——一句话重开"
-  },
-  "email_hook": "（见 mail_review.draft_en）",
-  "mail_review": {
-    "as_of": "2026-10-24",
-    "binding": {
-      "level": "轻度触达（S 邮箱 2024-05/06 两轮 5 封来信、两位具名 KP、三个带规格项目；Simon 报价两款后对方无回；2024-06 后无再互动）",
-      "type": "经销/项目",
-      "sieve": "4（规格 + 报价层面）",
-      "stop": "最后一问我们答「没有正好的」+ Realtek 近似——对方没回；之后只有群发",
-      "revive": "一句话：当年没有的 L3 商用款现在有（STC-4168XGGCM $413）；问有没有新项目",
-      "lane": "俄罗斯（次要）",
-      "cadence": "季度",
-      "evidence": "gmail_s 2024-05-07 ×5、2024-06-20 ×6；digest in 5"
-    },
-    "situation": "Raisecom 俄罗斯经销 DEALER Co 的 Dmitry/Kovzur 在 2024-05/06 拿三个项目规格来问，Simon 报了 STI-4168XGGCM-U $550 和 STI-288DGGPM $120，最后一个 L3 商用需求答「没有」。此后两年只群发。",
-    "need": "项目制：L3 工业机架（24×SFP+8 Combo+4×10G 双 AC）、L2 DIN PoE（2×SFP+8×PoE 240W）、L3 商用（8–12 SFP+ + 12–24 GE）。",
-    "breakpoint": "2024-06-20「没有正好的」之后没人再问他有没有新项目。",
-    "saga_now": {
-      "p1": "STC-4168XGGCM（L3）$413；STI-4168XGGCM-U $511.5 / (L3) $605；STI-288DGGPM $137.5",
-      "tier": "经销 25%",
-      "price": "2024-06-20 报过 $550 / $120（老汇率 7.2）——再报前对表：同款 2026-10 表 $511.5（L2+）或 $605（L3）、$137.5；**第 63 批基准统一（规则 ㉕）**：STC-4168XGGCM 由列表价 $413 改为 25% 档 $392.4；他没收过 $240/$280 群发；工业 -U 两档 $511.5 / $605 = 列表价 ≤ 档位价，封顶保留",
-      "why": "已发资料（勿重发）：CLI 手册(2024-05-07)、STI-480XGGM 资料(2024-05-07)、Realtek 6×10G+24×2.5G 规格书(2024-06-20)；对俄付款在回信后谈",
-      "repeat": "项目制",
-      "gaps": "是否还在做项目；付款路径；L2 DIN 2×SFP + 8×PoE 240W 项目的 Realtek 工业线对位：STI-288GPM-2BT（2025-04 表 $110，vs Marvell STI-288DGGPM $137.5）——只在他再来问价时给，不主动（docs/reference/价格表_Realtek工业线_Saga对外_2025.md）"
-    },
-    "next_move": {
-      "when": "2026-12",
-      "channel": "S 邮箱 → ddmitry@raisecom.su（回 2024-06-20 原线程「L2 managed switch」）",
-      "action": "一句话：2024 年答「没有」的 L3 商用 8–12 SFP+ + 12–24 GE 现在有（STC-4168XGGCM，4×10G SFP+ + 16×SFP + 8 Combo，L3，$413 EXW）；问有没有新项目",
-      "one_question": "Dmitry — in June 2024 I had nothing for your \"L3 commercial, 8-12 SFP+ and 12-24 GE\" request; today we do: 4 x 10G SFP+ + 16 x 1G SFP + 8 x combo, L3, $413 USD EXW. Do you have a project this winter where it fits?"
-    },
-    "facts": [
-      {
-        "date": "2024-05-07",
-        "dir": "来",
-        "who": "Kovzur Max（Technical manager）",
-        "quote": "Can you send us command line guide for this switch?",
-        "why": "技术经理看 CLI——真评估",
-        "k": "q"
-      },
-      {
-        "date": "2024-06-20",
-        "dir": "来",
-        "who": "Dmitry Deikun",
-        "quote": "Unfortunately, we lost several projects. Now we have small project: L3 rack-mount manageable industrial switch: 24*1000/1000M SFP 8*10/100/1000BASE-TX RJ45 (COMBO) 4*100M/1000M/10000M SFP+ AC/D: dual AC inputs 1unit; L2 manageable industrial switch: 2*Gigabit SFP+8*10/100/1000M RJ45 POE af/at, 240W, Din mounting",
-        "why": "带规格项目",
-        "k": "rfq"
-      },
-      {
-        "date": "2024-06-20",
-        "dir": "去",
-        "who": "Simon",
-        "quote": "Item 1: STI-4168XGGCM-U 550usd/pc… L3 Managed, Non-PoE, 1U Rack, AC100V~240V DUAL input, Marvell Chip; Item 2: STI-288DGGPM 120usd/pc 2*100M/1G/2.5G SFP+8*10/100/1000M PoE L2+ 240W Din Rail",
-        "why": "已报价（老汇率）",
-        "k": "quote"
-      },
-      {
-        "date": "2024-06-20",
-        "dir": "来",
-        "who": "Dmitry Deikun",
-        "quote": "We have one more project. Customer need L3 Commercial Managed Switch 8-12 SFP+ and 12-24GE. AC/D Do you have anything suitable?",
-        "why": "第三需求——当年答没有",
-        "k": "rfq"
-      },
-      {
-        "date": "2024-06-20",
-        "dir": "去",
-        "who": "Simon",
-        "quote": "Sorry, we do not have a model that is exactly good for it. A close model is Realtek chip, 6*10G SFP+24*2.5G Ethernet, L2+",
-        "why": "断点",
-        "k": "reply"
-      }
-    ],
-    "proof_gaps": [
-      "公司规模/是否仍活跃（raisecom.su 未爬）",
-      "2024 两款报价是否曾成单（仓内无 PI → 未成）"
-    ],
-    "draft_en": {
-      "subject": "Re: L2 managed switch — the L3 commercial model you asked for in 2024 exists now",
-      "body": "Hi, Dmitry,\n\nIn June 2024 you asked for an L3 commercial switch with 8-12 SFP+ and 12-24 GE, and I had nothing exact. Today we do:\n\n- 4 x 10G SFP+ + 16 x 1G SFP + 8 x GE combo, L3 (OSPF/RIP, static), 1U, Marvell — $392 USD EXW\n- Industrial version with dual AC input (the one I quoted at $550 then): now $511.5 L2+ / $605 L3 on the 2026-10 list\n(valid 15 days from this mail.)\n\nOne question: do you have a project this winter where one of these fits? If payment to Russia is the obstacle, tell me and I will explain the route we use.\n\nThank you.\nSimon"
-    }
+  {
+   "kind": "邮件（去）",
+   "claim": "Simon 报价",
+   "quote": "Item 1: STI-4168XGGCM-U 550usd/pc… Item 2: STI-288DGGPM 120usd/pc",
+   "url": "data/gmail_a|gmail_s/messages/<year>/<month>.jsonl",
+   "date": "2024-06-20"
   }
+ ],
+ "kp": [
+  {
+   "name": "Dmitry Deikun",
+   "title": "（采购/项目）",
+   "email": "ddmitry@raisecom.su",
+   "phone": "",
+   "source": "data/gmail_a|gmail_s/messages/<year>/<month>.jsonl"
+  },
+  {
+   "name": "Kovzur Max",
+   "title": "Technical manager, DEALER Co Ltd",
+   "email": "mk@raisecom.su",
+   "phone": "+7 812 764 28 85（信尾）",
+   "source": "data/gmail_a|gmail_s/messages/<year>/<month>.jsonl"
+  }
+ ],
+ "grade_override": "B",
+ "override_reason": "两位具名 KP、三个带规格的项目询价、我们已报价两款；俄罗斯次要市场 → B 慢慢跟进（自动 C 系无后续回复评分）。",
+ "notes": "最后一问（L3 商用 8–12 SFP+ + 12–24 GE）当年答「没有」——现在主表有 STC-4168XGGCM（4×10G SFP+ + 16×1G SFP + 8 Combo，L3，$413）和 STC-4816XGCGM（$353），接近他要的；2024 报的 $550（STI-4168XGGCM-U）在 2026-10 主表为 $511.5（L2+）/ $605（L3）。",
+ "deep": {
+  "done_at": "2026-10-24",
+  "level": "邮件证据"
+ },
+ "company_facts": {
+  "legal_name": "DEALER Co Ltd（信尾）",
+  "founded": "",
+  "hq": "St. Petersburg",
+  "size": "",
+  "other": "raisecom.su"
+ },
+ "channels": {
+  "role": "经销/项目",
+  "region": "俄罗斯（圣彼得堡）"
+ },
+ "risks": [
+  "对俄付款/物流",
+  "2024 项目早已过去；需新项目",
+  "Raisecom 代理身份——可能只在 Raisecom 没有的缝隙里找货"
+ ],
+ "saga_fit": {
+  "p1": "STC-4168XGGCM（L3，4×10G SFP+ + 16×SFP + 8 Combo，$413）对他的「L3 商用 8–12 SFP+ + 12–24 GE」；工业 STI-4168XGGCM-U(L3) $605",
+  "tier": 25,
+  "why": "当年说没有的东西现在有——一句话重开"
+ },
+ "email_hook": "（见 mail_review.draft_en）",
+ "mail_review": {
+  "as_of": "2026-10-24",
+  "binding": {
+   "level": "轻度触达（S 邮箱 2024-05/06 两轮 5 封来信、两位具名 KP、三个带规格项目；Simon 报价两款后对方无回；2024-06 后无再互动；Elsa 箱：`to:raisecom.su` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 7 / 来 5）（第 74 批(l)））",
+   "type": "经销/项目",
+   "sieve": "4（规格 + 报价层面）",
+   "stop": "最后一问我们答「没有正好的」+ Realtek 近似——对方没回；之后只有群发",
+   "revive": "一句话：当年没有的 L3 商用款现在有（STC-4168XGGCM $413）；问有没有新项目",
+   "lane": "俄罗斯（次要）",
+   "cadence": "季度",
+   "evidence": "gmail_s 2024-05-07 ×5、2024-06-20 ×6；digest in 5"
+  },
+  "situation": "Raisecom 俄罗斯经销 DEALER Co 的 Dmitry/Kovzur 在 2024-05/06 拿三个项目规格来问，Simon 报了 STI-4168XGGCM-U $550 和 STI-288DGGPM $120，最后一个 L3 商用需求答「没有」。此后两年只群发。",
+  "need": "项目制：L3 工业机架（24×SFP+8 Combo+4×10G 双 AC）、L2 DIN PoE（2×SFP+8×PoE 240W）、L3 商用（8–12 SFP+ + 12–24 GE）。",
+  "breakpoint": "2024-06-20「没有正好的」之后没人再问他有没有新项目。",
+  "saga_now": {
+   "p1": "STC-4168XGGCM（L3）$413；STI-4168XGGCM-U $511.5 / (L3) $605；STI-288DGGPM $137.5",
+   "tier": "经销 25%",
+   "price": "2024-06-20 报过 $550 / $120（老汇率 7.2）——再报前对表：同款 2026-10 表 $511.5（L2+）或 $605（L3）、$137.5；**第 63 批基准统一（规则 ㉕）**：STC-4168XGGCM 由列表价 $413 改为 25% 档 $392.4；他没收过 $240/$280 群发；工业 -U 两档 $511.5 / $605 = 列表价 ≤ 档位价，封顶保留",
+   "why": "已发资料（勿重发）：CLI 手册(2024-05-07)、STI-480XGGM 资料(2024-05-07)、Realtek 6×10G+24×2.5G 规格书(2024-06-20)；对俄付款在回信后谈",
+   "repeat": "项目制",
+   "gaps": "是否还在做项目；付款路径；L2 DIN 2×SFP + 8×PoE 240W 项目的 Realtek 工业线对位：STI-288GPM-2BT（2025-04 表 $110，vs Marvell STI-288DGGPM $137.5）——只在他再来问价时给，不主动（docs/reference/价格表_Realtek工业线_Saga对外_2025.md）"
+  },
+  "next_move": {
+   "when": "2026-12",
+   "channel": "S 邮箱 → ddmitry@raisecom.su（回 2024-06-20 原线程「L2 managed switch」）",
+   "action": "一句话：2024 年答「没有」的 L3 商用 8–12 SFP+ + 12–24 GE 现在有（STC-4168XGGCM，4×10G SFP+ + 16×SFP + 8 Combo，L3，$413 EXW）；问有没有新项目",
+   "one_question": "Dmitry — in June 2024 I had nothing for your \"L3 commercial, 8-12 SFP+ and 12-24 GE\" request; today we do: 4 x 10G SFP+ + 16 x 1G SFP + 8 x combo, L3, $413 USD EXW. Do you have a project this winter where it fits?"
+  },
+  "facts": [
+   {
+    "date": "2024-05-07",
+    "dir": "来",
+    "who": "Kovzur Max（Technical manager）",
+    "quote": "Can you send us command line guide for this switch?",
+    "why": "技术经理看 CLI——真评估",
+    "k": "q"
+   },
+   {
+    "date": "2024-06-20",
+    "dir": "来",
+    "who": "Dmitry Deikun",
+    "quote": "Unfortunately, we lost several projects. Now we have small project: L3 rack-mount manageable industrial switch: 24*1000/1000M SFP 8*10/100/1000BASE-TX RJ45 (COMBO) 4*100M/1000M/10000M SFP+ AC/D: dual AC inputs 1unit; L2 manageable industrial switch: 2*Gigabit SFP+8*10/100/1000M RJ45 POE af/at, 240W, Din mounting",
+    "why": "带规格项目",
+    "k": "rfq"
+   },
+   {
+    "date": "2024-06-20",
+    "dir": "去",
+    "who": "Simon",
+    "quote": "Item 1: STI-4168XGGCM-U 550usd/pc… L3 Managed, Non-PoE, 1U Rack, AC100V~240V DUAL input, Marvell Chip; Item 2: STI-288DGGPM 120usd/pc 2*100M/1G/2.5G SFP+8*10/100/1000M PoE L2+ 240W Din Rail",
+    "why": "已报价（老汇率）",
+    "k": "quote"
+   },
+   {
+    "date": "2024-06-20",
+    "dir": "来",
+    "who": "Dmitry Deikun",
+    "quote": "We have one more project. Customer need L3 Commercial Managed Switch 8-12 SFP+ and 12-24GE. AC/D Do you have anything suitable?",
+    "why": "第三需求——当年答没有",
+    "k": "rfq"
+   },
+   {
+    "date": "2024-06-20",
+    "dir": "去",
+    "who": "Simon",
+    "quote": "Sorry, we do not have a model that is exactly good for it. A close model is Realtek chip, 6*10G SFP+24*2.5G Ethernet, L2+",
+    "why": "断点",
+    "k": "reply"
+   }
+  ],
+  "proof_gaps": [
+   "公司规模/是否仍活跃（raisecom.su 未爬）",
+   "2024 两款报价是否曾成单（仓内无 PI → 未成）"
+  ],
+  "draft_en": {
+   "subject": "Re: L2 managed switch — the L3 commercial model you asked for in 2024 exists now",
+   "body": "Hi, Dmitry,\n\nIn June 2024 you asked for an L3 commercial switch with 8-12 SFP+ and 12-24 GE, and I had nothing exact. Today we do:\n\n- 4 x 10G SFP+ + 16 x 1G SFP + 8 x GE combo, L3 (OSPF/RIP, static), 1U, Marvell — $392 USD EXW\n- Industrial version with dual AC input (the one I quoted at $550 then): now $511.5 L2+ / $605 L3 on the 2026-10 list\n(valid 15 days from this mail.)\n\nOne question: do you have a project this winter where one of these fits? If payment to Russia is the obstacle, tell me and I will explain the route we use.\n\nThank you.\nSimon"
+  }
+ }
 }

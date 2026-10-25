@@ -1,210 +1,210 @@
 {
-  "code": "SA-008",
-  "name_official": "ООО «РИО-ИМПОРТ»（RIO Group, Krasnoyarsk）",
-  "website_status": "在线",
-  "summary": "俄罗斯克拉斯诺亚尔斯克工业自动化设备供应商，自称本地区最大的 АСУТП（工业控制系统）设备、机柜设备、电子元件供应商之一（2009 年注册 ОГРН 1092468006047）。用户表：成单客户，A 优质俄罗斯名单。（2026-10-24 并入曾用编号 SB-1335：PI 包补录行 rio-popov@mail.ru / Igor Popov，同一公司）",
-  "type": "分销商/经销商（工业自动化）",
-  "size": "未见人数；地区性大型供应商（自述）",
-  "brands_seen": [
-    "Delta Electronics",
-    "Phoenix Contact"
-  ],
-  "evidence": [
-    {
-      "kind": "官网",
-      "claim": "自述：克拉斯诺亚尔斯克地区 АСУТП 全系设备最大供应商之一",
-      "quote": "Группа компаний РИО — одна из крупнейших поставщиков в Красноярском регионе полного спектра оборудования для АСУТП, шкафного оборудования электронных компонентов.",
-      "url": "http://www.rio-krsk.ru/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网",
-      "claim": "法人与注册号",
-      "quote": "Полное наименование: Общество с ограниченной ответственностью «РИО-ИМПОРТ» … ОГРН 1092468006047 · ИНН 2460214069",
-      "url": "https://www.rio-krsk.ru/company/requisites/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网",
-      "claim": "官网目录品牌与产品线（Delta、SUPU、Dinkle、Hongfa；PLC/HMI/变频/电源/连接器）",
-      "quote": "DELTA ELECTRONICS … SUPU ELECTRONICS … DINKLE ENTERPRISE … HONGFA … Преобразователи сигналов · Источники питания · ПЧ · УПП · Панели оператора · ПЛК · ТК · Сервоситемы",
-      "url": "http://www.rio-krsk.ru/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网",
-      "claim": "官网新闻介绍工业 PoE 交换机（Phoenix Contact 1000 系列）",
-      "quote": "Phoenix Contact дополняет свой ассортимент промышленных коммутаторов PoE новыми управляемыми и неуправляемыми коммутаторами … бюджету мощности PoE в 30 Вт на порт и наличию вариантов со стекловолоконными портами SFP",
-      "url": "http://www.rio-krsk.ru/info/news/prochnye-kommutatory-poe/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网",
-      "claim": "电话与邮箱公开",
-      "quote": "(391) 291-14-24 rio-import2003@mail.ru",
-      "url": "http://www.rio-krsk.ru/contacts/",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "—",
-      "role": "中央办公室",
-      "email": "rio-import2003@mail.ru",
-      "phone": "+7 (391) 291-14-24",
-      "source": "http://www.rio-krsk.ru/contacts/"
-    }
-  ],
-  "notes": "A 级确认：工业自动化分销 + 成单；主推 STI 工业 DIN L2+ 系列（俄语区付款/物流由用户侧按现有通道）。",
-  "researched_at": "2026-10-21",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "深挖 v1"
+ "code": "SA-008",
+ "name_official": "ООО «РИО-ИМПОРТ»（RIO Group, Krasnoyarsk）",
+ "website_status": "在线",
+ "summary": "俄罗斯克拉斯诺亚尔斯克工业自动化设备供应商，自称本地区最大的 АСУТП（工业控制系统）设备、机柜设备、电子元件供应商之一（2009 年注册 ОГРН 1092468006047）。用户表：成单客户，A 优质俄罗斯名单。（2026-10-24 并入曾用编号 SB-1335：PI 包补录行 rio-popov@mail.ru / Igor Popov，同一公司）",
+ "type": "分销商/经销商（工业自动化）",
+ "size": "未见人数；地区性大型供应商（自述）",
+ "brands_seen": [
+  "Delta Electronics",
+  "Phoenix Contact"
+ ],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "自述：克拉斯诺亚尔斯克地区 АСУТП 全系设备最大供应商之一",
+   "quote": "Группа компаний РИО — одна из крупнейших поставщиков в Красноярском регионе полного спектра оборудования для АСУТП, шкафного оборудования электронных компонентов.",
+   "url": "http://www.rio-krsk.ru/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "legal_name": "ООО «РИО-ИМПОРТ»（RIO Group）",
-    "founded": "2009（ОГРН 1092468006047）",
-    "hq": "Krasnoyarsk, Russia",
-    "other": "自述克拉斯诺亚尔斯克地区最大的 АСУТП/机柜/电子元件供应商之一；官网目录品牌：Delta Electronics、SUPU、Dinkle、Hongfa、UPUN、Optimus Drive、WAIN"
+  {
+   "kind": "官网",
+   "claim": "法人与注册号",
+   "quote": "Полное наименование: Общество с ограниченной ответственностью «РИО-ИМПОРТ» … ОГРН 1092468006047 · ИНН 2460214069",
+   "url": "https://www.rio-krsk.ru/company/requisites/",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "工业自动化元件分销（PLC、HMI、变频器、软启、伺服、温控、电源）",
-    "工业连接器（M8/M12/M17/M23/M40）与端子",
-    "信号转换器、继电器",
-    "工业 PoE 交换机（官网新闻介绍 Phoenix Contact PoE 1000 系列）"
-  ],
-  "products_seen": [
-    {
-      "brand": "Phoenix Contact（官网新闻介绍）",
-      "model": "工业 PoE 1000 系列（非管理/管理）",
-      "spec": "全千兆、宽温、30W/口、SFP 变体；面向视频监控与楼宇/机器自动化",
-      "url": "http://www.rio-krsk.ru/info/news/prochnye-kommutatory-poe/",
-      "date": "2026-10-21",
-      "saga": "STI-288DGGPM"
-    },
-    {
-      "brand": "Delta Electronics",
-      "model": "工业电源（DIN）",
-      "spec": "官网目录 Источники питания",
-      "url": "http://www.rio-krsk.ru/",
-      "date": "2026-10-21",
-      "saga": "—（配套）"
-    }
-  ],
-  "channels": {
-    "网站": "http://www.rio-krsk.ru/",
-    "电话": "(391) 291-14-24（官网）",
-    "直邮": "rio-import2003@mail.ru（官网）/ rio-2003@mail.ru / rio-pavel@mail.ru（用户表）",
-    "联系人": "Igor（成单，用户表）"
+  {
+   "kind": "官网",
+   "claim": "官网目录品牌与产品线（Delta、SUPU、Dinkle、Hongfa；PLC/HMI/变频/电源/连接器）",
+   "quote": "DELTA ELECTRONICS … SUPU ELECTRONICS … DINKLE ENTERPRISE … HONGFA … Преобразователи сигналов · Источники питания · ПЧ · УПП · Панели оператора · ПЛК · ТК · Сервоситемы",
+   "url": "http://www.rio-krsk.ru/",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "官网目录以 Delta/SUPU/Dinkle 等中国台湾/大陆品牌为主——已习惯采购亚洲品牌（2026-10-21）",
-    "用户表：成单客户"
-  ],
-  "risks": [
-    "俄罗斯：结算（T/T 受限）、物流、制裁合规——只做民用工业自动化，不碰军工/铁路",
-    "俄语区非主攻，不额外投入"
-  ],
-  "saga_fit": {
-    "p1": "STI-288DGGPM",
-    "tier": 20,
-    "why": "自动化柜内 DIN 导轨 PoE（替代其介绍的 Phoenix Contact 1000 系列位）：STI-288DGGPM / STI-144GP，分销 20% 档；配 Delta 电源无需 Saga 供电源"
+  {
+   "kind": "官网",
+   "claim": "官网新闻介绍工业 PoE 交换机（Phoenix Contact 1000 系列）",
+   "quote": "Phoenix Contact дополняет свой ассортимент промышленных коммутаторов PoE новыми управляемыми и неуправляемыми коммутаторами … бюджету мощности PoE в 30 Вт на порт и наличию вариантов со стекловолоконными портами SFP",
+   "url": "http://www.rio-krsk.ru/info/news/prochnye-kommutatory-poe/",
+   "date": "2026-10-21"
   },
-  "email_hook": "For the DIN-rail PoE slot you cover with the Phoenix Contact 1000 series, the 8-port gigabit managed unit at distributor EXW is the one Igor's last order came from, so I am refreshing that price plus the 4+1 compact version.",
-  "mail_review": {
-    "binding": {
-      "level": "轻度绑定（1 张样品单 2024-05-23：STI-050GE ×2 $24 + STI-080GE ×2 $31 = $110；PI 包标「gg」= 难复购；邮件 0 往来）",
-      "type": "克拉斯诺亚尔斯克工业自动化分销（РИО-ИМПОРТ，Igor Popov）——俄罗斯非主攻，收款路径特殊",
-      "sieve": "5（付样付款）",
-      "stop": "样品后 17 个月无下文（PI 包「gg」）",
-      "revive": "其对 STI-050GE/080GE 的复测结果；RU 收款通道",
-      "lane": "RU",
-      "cadence": "半年一句话（WhatsApp/邮件由 Simon 定）",
-      "evidence": "PI STSC20240523008（2024-05-23，Quotation.xls：STI-050GE 2×24、STI-080GE 2×31，Sample Testing）；出货照片 STI-050GE/080GE；成本统计 / 货款支付记录 / 运费 在 PI 包；曾用编号 SB-1335（rio-popov@mail.ru）2026-10-24 并入"
-    },
-    "situation": "2024-05 买了两款最小的工业非管理样机（5 口/8 口），之后无邮件、无复购；Simon 在 PI 包里标了「gg」。",
-    "need": "工业 DIN 非管理小口数（自动化分销）。",
-    "breakpoint": "样品后无反馈；俄罗斯付款/物流摩擦。",
-    "saga_now": {
-      "p1": "STI-050GE / STI-080GE（已测）→ STI-288DGGPM 管理型",
-      "tier": 20,
-      "price": "按现价表",
-      "why": "样品在其手上｜毛利复盘：一单 45.1%——高毛利一单客，不主动降价",
-      "repeat": [
-        "2024-05-23 唯一一单：STI-050GE + STI-080GE $1,140（Simon 利润 RMB 514；PI 复盘 #8，Simon 标 gg）"
-      ],
-      "gaps": [
-        "样品测试反馈从未记录"
-      ]
-    },
-    "next_move": {
-      "when": "2027-Q1",
-      "channel": "Simon 原通道",
-      "action": "一句话问样机下落",
-      "one_question": "The two STI-050GE/080GE samples from May 2024 — did they go into a project, and what stopped a second order?"
-    },
-    "facts": [
-      {
-        "date": "2024-02-21",
-        "dir": "来",
-        "who": "用户表（Simon 跟进记录；渠道 Email）",
-        "quote": "用户表跟进：推「发了2光4小壳相关信息」→ 对方「想测样，价格 模块暂不确定单双纤」",
-        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
-        "k": "Clients/A/DONE/优质俄罗斯客户 2.9.xlsx no.7 2024.2.21"
-      },
-      {
-        "date": "2024-05-16",
-        "dir": "来",
-        "who": "用户表（Simon 跟进记录；渠道 Email）",
-        "quote": "用户表跟进：推「发了2层2光8poE管理信息」→ 对方「成单电口设备」",
-        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
-        "k": "Clients/A/DONE/优质俄罗斯客户 2.9.xlsx no.7 2024.5.16"
-      },
-      {
-        "date": "2024-05-22",
-        "dir": "去",
-        "who": "Simon → Igor Popov（Quotation，EXW Russia）",
-        "quote": "STI-050GE (5×GE, DIP, DC12~58V, -40~75℃, DIN, w/o PSU) 2 pcs × $24; STI-080GE (8×GE) 2 pcs × $31 = $110, \"Sample Testing\". Price validity 15 days; leadtime 4~7 working days; warranty 3 years; neutral device, non-brand packing.",
-        "why": "样品价锚：STI-050GE $24 / STI-080GE $31（2024-05，老汇率）；工业非管理 3 年保修口径的书面先例",
-        "k": "PI 包 `8_俄罗斯_Igor_gg/Quotation.xls`"
-      },
-      {
-        "date": "2024-05-23",
-        "dir": "PI",
-        "who": "Simon → Igor Popov",
-        "quote": "STI-050GE … 2 pcs 24 USD; STI-080GE … 2 pcs 31 USD; Sample Testing",
-        "why": "样品单",
-        "k": "PI STSC20240523008"
-      },
-      {
-        "date": "2024-05-23",
-        "dir": "内",
-        "who": "Simon 成本表（PI 包）",
-        "quote": "内部《成本统计.xlsx》：STSC20240523008：成本 626 / 收款 1,140 / 利润 514（45.1%）",
-        "why": "利润率 = 利润÷收款；对照 20/25/30 加价 = 16.7%/20%/23% 毛利；详见 docs/成单客户_毛利复盘_内部_2026-10-24.md",
-        "k": "cost_sheet"
-      },
-      {
-        "date": "2024-05-23",
-        "dir": "PI",
-        "who": "Simon → Igor Popov（PI STSC20240523008，**人民币结算**）",
-        "quote": "TOTAL RMB 1,140 = 货 780（4 台）+ \"Shipping Cost 360RMB for about 4Kg volume weight to Russia by Express door-to-door\"。",
-        "why": "这张 PI 是 RMB 不是 USD（SB-1335 旧档写「USD 1,140」有误）；俄罗斯客户走人民币收款——与《EXW 对私收款模式》一致；成本表 45.1% 的利润里含 360 RMB 运费收入 vs 实付国内快递 28 RMB",
-        "k": "PI 包 `STSC20240523008.xls` + `成本统计.xlsx`"
-      },
-      {
-        "date": "2024-05-25",
-        "dir": "内",
-        "who": "出货记录（PI 包《运费.jpg》京东快递面单）",
-        "quote": "寄件：惠州惠阳镇隆（供应商仓，谢广浓）→ 收件：义乌稠城 兴港小区 80 栋 799 库房「迪马 周军」，3.0 kg，基础运费 ¥28，2024-05-25 揽件。",
-        "why": "Igor 的物流线：**义乌俄货集运（迪马）**，不是广州货代——U28 两条物流线之外的第三种（俄罗斯客户自有集运点）；Saga 只付国内段 ¥28",
-        "k": "PI 包 `运费.jpg`（OCR）"
-      }
-    ],
-    "proof_gaps": [
-      "无邮件往来（A/S 两箱 0 封）"
-    ],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "官网",
+   "claim": "电话与邮箱公开",
+   "quote": "(391) 291-14-24 rio-import2003@mail.ru",
+   "url": "http://www.rio-krsk.ru/contacts/",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "中央办公室",
+   "email": "rio-import2003@mail.ru",
+   "phone": "+7 (391) 291-14-24",
+   "source": "http://www.rio-krsk.ru/contacts/"
+  }
+ ],
+ "notes": "A 级确认：工业自动化分销 + 成单；主推 STI 工业 DIN L2+ 系列（俄语区付款/物流由用户侧按现有通道）。",
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "深挖 v1"
+ },
+ "company_facts": {
+  "legal_name": "ООО «РИО-ИМПОРТ»（RIO Group）",
+  "founded": "2009（ОГРН 1092468006047）",
+  "hq": "Krasnoyarsk, Russia",
+  "other": "自述克拉斯诺亚尔斯克地区最大的 АСУТП/机柜/电子元件供应商之一；官网目录品牌：Delta Electronics、SUPU、Dinkle、Hongfa、UPUN、Optimus Drive、WAIN"
+ },
+ "business_lines": [
+  "工业自动化元件分销（PLC、HMI、变频器、软启、伺服、温控、电源）",
+  "工业连接器（M8/M12/M17/M23/M40）与端子",
+  "信号转换器、继电器",
+  "工业 PoE 交换机（官网新闻介绍 Phoenix Contact PoE 1000 系列）"
+ ],
+ "products_seen": [
+  {
+   "brand": "Phoenix Contact（官网新闻介绍）",
+   "model": "工业 PoE 1000 系列（非管理/管理）",
+   "spec": "全千兆、宽温、30W/口、SFP 变体；面向视频监控与楼宇/机器自动化",
+   "url": "http://www.rio-krsk.ru/info/news/prochnye-kommutatory-poe/",
+   "date": "2026-10-21",
+   "saga": "STI-288DGGPM"
+  },
+  {
+   "brand": "Delta Electronics",
+   "model": "工业电源（DIN）",
+   "spec": "官网目录 Источники питания",
+   "url": "http://www.rio-krsk.ru/",
+   "date": "2026-10-21",
+   "saga": "—（配套）"
+  }
+ ],
+ "channels": {
+  "网站": "http://www.rio-krsk.ru/",
+  "电话": "(391) 291-14-24（官网）",
+  "直邮": "rio-import2003@mail.ru（官网）/ rio-2003@mail.ru / rio-pavel@mail.ru（用户表）",
+  "联系人": "Igor（成单，用户表）"
+ },
+ "signals": [
+  "官网目录以 Delta/SUPU/Dinkle 等中国台湾/大陆品牌为主——已习惯采购亚洲品牌（2026-10-21）",
+  "用户表：成单客户"
+ ],
+ "risks": [
+  "俄罗斯：结算（T/T 受限）、物流、制裁合规——只做民用工业自动化，不碰军工/铁路",
+  "俄语区非主攻，不额外投入"
+ ],
+ "saga_fit": {
+  "p1": "STI-288DGGPM",
+  "tier": 20,
+  "why": "自动化柜内 DIN 导轨 PoE（替代其介绍的 Phoenix Contact 1000 系列位）：STI-288DGGPM / STI-144GP，分销 20% 档；配 Delta 电源无需 Saga 供电源"
+ },
+ "email_hook": "For the DIN-rail PoE slot you cover with the Phoenix Contact 1000 series, the 8-port gigabit managed unit at distributor EXW is the one Igor's last order came from, so I am refreshing that price plus the 4+1 compact version.",
+ "mail_review": {
+  "binding": {
+   "level": "轻度绑定（1 张样品单 2024-05-23：STI-050GE ×2 $24 + STI-080GE ×2 $31 = $110；PI 包标「gg」= 难复购；邮件 0 往来；Elsa 箱：`to:rio-krsk.ru` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(l)））",
+   "type": "克拉斯诺亚尔斯克工业自动化分销（РИО-ИМПОРТ，Igor Popov）——俄罗斯非主攻，收款路径特殊",
+   "sieve": "5（付样付款）",
+   "stop": "样品后 17 个月无下文（PI 包「gg」）",
+   "revive": "其对 STI-050GE/080GE 的复测结果；RU 收款通道",
+   "lane": "RU",
+   "cadence": "半年一句话（WhatsApp/邮件由 Simon 定）",
+   "evidence": "PI STSC20240523008（2024-05-23，Quotation.xls：STI-050GE 2×24、STI-080GE 2×31，Sample Testing）；出货照片 STI-050GE/080GE；成本统计 / 货款支付记录 / 运费 在 PI 包；曾用编号 SB-1335（rio-popov@mail.ru）2026-10-24 并入"
+  },
+  "situation": "2024-05 买了两款最小的工业非管理样机（5 口/8 口），之后无邮件、无复购；Simon 在 PI 包里标了「gg」。",
+  "need": "工业 DIN 非管理小口数（自动化分销）。",
+  "breakpoint": "样品后无反馈；俄罗斯付款/物流摩擦。",
+  "saga_now": {
+   "p1": "STI-050GE / STI-080GE（已测）→ STI-288DGGPM 管理型",
+   "tier": 20,
+   "price": "按现价表",
+   "why": "样品在其手上｜毛利复盘：一单 45.1%——高毛利一单客，不主动降价",
+   "repeat": [
+    "2024-05-23 唯一一单：STI-050GE + STI-080GE $1,140（Simon 利润 RMB 514；PI 复盘 #8，Simon 标 gg）"
+   ],
+   "gaps": [
+    "样品测试反馈从未记录"
+   ]
+  },
+  "next_move": {
+   "when": "2027-Q1",
+   "channel": "Simon 原通道",
+   "action": "一句话问样机下落",
+   "one_question": "The two STI-050GE/080GE samples from May 2024 — did they go into a project, and what stopped a second order?"
+  },
+  "facts": [
+   {
+    "date": "2024-02-21",
+    "dir": "来",
+    "who": "用户表（Simon 跟进记录；渠道 Email）",
+    "quote": "用户表跟进：推「发了2光4小壳相关信息」→ 对方「想测样，价格 模块暂不确定单双纤」",
+    "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+    "k": "Clients/A/DONE/优质俄罗斯客户 2.9.xlsx no.7 2024.2.21"
+   },
+   {
+    "date": "2024-05-16",
+    "dir": "来",
+    "who": "用户表（Simon 跟进记录；渠道 Email）",
+    "quote": "用户表跟进：推「发了2层2光8poE管理信息」→ 对方「成单电口设备」",
+    "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+    "k": "Clients/A/DONE/优质俄罗斯客户 2.9.xlsx no.7 2024.5.16"
+   },
+   {
+    "date": "2024-05-22",
+    "dir": "去",
+    "who": "Simon → Igor Popov（Quotation，EXW Russia）",
+    "quote": "STI-050GE (5×GE, DIP, DC12~58V, -40~75℃, DIN, w/o PSU) 2 pcs × $24; STI-080GE (8×GE) 2 pcs × $31 = $110, \"Sample Testing\". Price validity 15 days; leadtime 4~7 working days; warranty 3 years; neutral device, non-brand packing.",
+    "why": "样品价锚：STI-050GE $24 / STI-080GE $31（2024-05，老汇率）；工业非管理 3 年保修口径的书面先例",
+    "k": "PI 包 `8_俄罗斯_Igor_gg/Quotation.xls`"
+   },
+   {
+    "date": "2024-05-23",
+    "dir": "PI",
+    "who": "Simon → Igor Popov",
+    "quote": "STI-050GE … 2 pcs 24 USD; STI-080GE … 2 pcs 31 USD; Sample Testing",
+    "why": "样品单",
+    "k": "PI STSC20240523008"
+   },
+   {
+    "date": "2024-05-23",
+    "dir": "内",
+    "who": "Simon 成本表（PI 包）",
+    "quote": "内部《成本统计.xlsx》：STSC20240523008：成本 626 / 收款 1,140 / 利润 514（45.1%）",
+    "why": "利润率 = 利润÷收款；对照 20/25/30 加价 = 16.7%/20%/23% 毛利；详见 docs/成单客户_毛利复盘_内部_2026-10-24.md",
+    "k": "cost_sheet"
+   },
+   {
+    "date": "2024-05-23",
+    "dir": "PI",
+    "who": "Simon → Igor Popov（PI STSC20240523008，**人民币结算**）",
+    "quote": "TOTAL RMB 1,140 = 货 780（4 台）+ \"Shipping Cost 360RMB for about 4Kg volume weight to Russia by Express door-to-door\"。",
+    "why": "这张 PI 是 RMB 不是 USD（SB-1335 旧档写「USD 1,140」有误）；俄罗斯客户走人民币收款——与《EXW 对私收款模式》一致；成本表 45.1% 的利润里含 360 RMB 运费收入 vs 实付国内快递 28 RMB",
+    "k": "PI 包 `STSC20240523008.xls` + `成本统计.xlsx`"
+   },
+   {
+    "date": "2024-05-25",
+    "dir": "内",
+    "who": "出货记录（PI 包《运费.jpg》京东快递面单）",
+    "quote": "寄件：惠州惠阳镇隆（供应商仓，谢广浓）→ 收件：义乌稠城 兴港小区 80 栋 799 库房「迪马 周军」，3.0 kg，基础运费 ¥28，2024-05-25 揽件。",
+    "why": "Igor 的物流线：**义乌俄货集运（迪马）**，不是广州货代——U28 两条物流线之外的第三种（俄罗斯客户自有集运点）；Saga 只付国内段 ¥28",
+    "k": "PI 包 `运费.jpg`（OCR）"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来（A/S 两箱 0 封）"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

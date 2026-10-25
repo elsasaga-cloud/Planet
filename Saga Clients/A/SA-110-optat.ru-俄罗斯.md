@@ -44,7 +44,7 @@ updated: 2026-10-25
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-110` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-25。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未绑定（邮件 3 封 0 回；用户表「18 次回复」= 全库最活跃联系人之一，渠道在 WA）；Elsa 群发 BCC 已触达 2026-08-26「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，俄罗斯-2（锚 bas-ip.com；2025-09-29 起月轮，201+） 批次 To sales@bas-ip.com，0 回（第 74 批 Bcc 头核对 msg 1a03df102140ed72）** ｜ 类型：莫斯科招投标供货商（ОПТА）——按标书逐单采购 ｜ 筛子：0（邮件层无人工回复） ｜ 停点：— ｜ 复活：标书出现交换机时 24h 内报价（用户表） ｜ 通路：RU ｜ 节奏：按标书 ｜ 证据：邮件：去信 3 封（2026-05-12 → 2026-08-24），来信 0；Opened 标签 0 次；收件人 info@optat.ru；data/gmail_e/bcc_batches_2026.json
+- **绑定等级：未绑定（邮件 3 封 0 回；用户表「18 次回复」= 全库最活跃联系人之一，渠道在 WA）；Elsa 群发 BCC 已触达 2026-08-26「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，俄罗斯-2（锚 bas-ip.com；2025-02-22 起月轮，11 轮） 批次 To sales@bas-ip.com，0 回（第 74 批 Bcc 头核对 msg 1a03df102140ed72）** ｜ 类型：莫斯科招投标供货商（ОПТА）——按标书逐单采购 ｜ 筛子：0（邮件层无人工回复） ｜ 停点：— ｜ 复活：标书出现交换机时 24h 内报价（用户表） ｜ 通路：RU ｜ 节奏：按标书 ｜ 证据：邮件：去信 3 封（2026-05-12 → 2026-08-24），来信 0；Opened 标签 0 次；收件人 info@optat.ru；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To sales@bas-ip.com）本户见于 2026-08-26 名单；该批次最早 2025-02-22 起共 11 轮，更早轮次 Bcc 未读
 - **现状一句话**：邮件层只有 3 封 2026 群发；18 次回复全在邮件之外。
 - **对方真实需求（有据）**：随标书变化。
 - **断点 / 为什么停在这里**：收款路径（RU）。
@@ -57,7 +57,7 @@ updated: 2026-10-25
 | 2023-12-09 | 来 | 用户表（Simon 跟进记录；渠道 Whatsapp） | 用户表跟进：推「发了30的商业POE价格册」→ 对方「Hi」 | Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写 | `Clients/A/DONE/优质俄罗斯客户 2.9.xlsx no.49 2023.12.9` |
 | 2024-05-15 | 来 | 用户表（Simon 跟进记录；渠道 Whatsapp） | 用户表跟进：推「发了几个工业mini图」→ 对方「发了个表情」 | Simon 跟进表里的回应记录（邮箱看不到的渠道）；按原文留存 | `Clients/A/DONE/优质俄罗斯客户 2.9.xlsx no.49 2024.5.15` |
 | 2024-06-18 | 来 | 用户表（Simon 跟进记录；渠道 Whatsapp） | 用户表跟进：推「发了几个商业交换机图」→ 对方「2024.7.15：问了一批提供不了的东西」 | Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写 | `Clients/A/DONE/优质俄罗斯客户 2.9.xlsx no.49 2024.6.18` |
-| 2026-08-26 | 去 | Elsa 群发（BCC；To sales@bas-ip.com，俄罗斯-2（锚 bas-ip.com；2025-09-29 起月轮，201+） 批次） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发 BCC 触达证据（命中地址 info@optat.ru, optat.ru）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
+| 2026-08-26 | 去 | Elsa 群发（BCC；To sales@bas-ip.com，俄罗斯-2（锚 bas-ip.com；2025-02-22 起月轮，11 轮） 批次） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发 BCC 触达证据（命中地址 info@optat.ru, optat.ru）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文
 

@@ -1,137 +1,137 @@
 {
-  "code": "SB-945",
-  "name_official": "",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（kzn-gps.ru，快照 2026-10-21）",
-  "summary": "俄罗斯喀山网络设备网店 kzn-gps.ru（品类：PoE 交换机、交换模块、PoE 电源、FTTH、路由；站内 MikroTik / Ubiquiti / TP-Link；表内「Switch 等啥都卖」，KP Alexander（Senior Manager），WhatsApp +7 917 391 0585）；群发 14 次无回复。",
-  "type": "网络设备电商（喀山）",
-  "size": "",
-  "brands_seen": [
-    "Ubiquiti",
-    "MikroTik"
-  ],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "官网标题：Главная；品类词 电信 / FTTH / ISP 设备 / 无线 / WiFi / 光纤 / 媒体转换 / 网络交换 / PoE",
-      "quote": "Новости",
-      "url": "https://kzn-gps.ru/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "Switch等啥都卖；7-9173910585 WA",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网快照",
-      "claim": "俄语网店品类：PoE 交换机 / 交换模块 / PoE 电源",
-      "quote": "/marshrutizatory-routery/kommutatory/poe-switches ; /aksessuary/switch-modules ; /pitanie/bloki-pitaniya-poe",
-      "url": "https://kzn-gps.ru/marshrutizatory-routery/kommutatory/poe-switches",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "Switch 等啥都卖，有 WA",
-      "quote": "Switch等啥都卖；7-9173910585 WA",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Alexander",
-      "title": "Senior Manager",
-      "email": "admin@kzn-gps.ru",
-      "phone": "",
-      "source": "用户表"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ "code": "SB-945",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（kzn-gps.ru，快照 2026-10-21）",
+ "summary": "俄罗斯喀山网络设备网店 kzn-gps.ru（品类：PoE 交换机、交换模块、PoE 电源、FTTH、路由；站内 MikroTik / Ubiquiti / TP-Link；表内「Switch 等啥都卖」，KP Alexander（Senior Manager），WhatsApp +7 917 391 0585）；群发 14 次无回复。",
+ "type": "网络设备电商（喀山）",
+ "size": "",
+ "brands_seen": [
+  "Ubiquiti",
+  "MikroTik"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Главная；品类词 电信 / FTTH / ISP 设备 / 无线 / WiFi / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "Новости",
+   "url": "https://kzn-gps.ru/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "hq": "俄罗斯",
-    "other": "官网 kzn-gps.ru，语言 ru，快照状态 ok；角色判定来源：待核"
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "Switch等啥都卖；7-9173910585 WA",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "网络设备电商（交换机 / 路由 / 光模块 / PoE 电源 / FTTH）"
-  ],
-  "channels": {
-    "role": "网络设备电商（喀山）",
-    "region": "俄罗斯",
-    "contact": "admin@kzn-gps.ru"
+  {
+   "kind": "官网快照",
+   "claim": "俄语网店品类：PoE 交换机 / 交换模块 / PoE 电源",
+   "quote": "/marshrutizatory-routery/kommutatory/poe-switches ; /aksessuary/switch-modules ; /pitanie/bloki-pitaniya-poe",
+   "url": "https://kzn-gps.ru/marshrutizatory-routery/kommutatory/poe-switches",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "品类页 /marshrutizatory-routery/kommutatory/poe-switches、/aksessuary/switch-modules、/pitanie/bloki-pitaniya-poe",
-    "站内 kw：poe 224 / sfp 123 / ethernet 81 / ftth 21",
-    "KP：Alexander / Senior Manager；WA +7 917 391 0585（表内）"
-  ],
-  "risks": [
-    "俄罗斯：结算/物流经第三国，非主攻区（T5）",
-    "群发 14 次无回复：改 WhatsApp 短消息（表内有号码）",
-    "SFP 模块需求 Saga 无价目（Q-32）"
-  ],
-  "saga_fit": {
-    "p1": "STC-28DGGPM",
-    "tier": 20,
-    "why": "网店 PoE 交换机品类（MikroTik/Ubiquiti 价带）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；SFP 模块位 Saga 无价目（Q-32）"
-  },
-  "email_hook": "Alexander, for the PoE switch category next to MikroTik and Ubiquiti, we supply Marvell-based 8-PoE + 2 SFP L2+ and 24-PoE models in neutral packing from small lots — which port count sells more in Kazan, 8 or 24?",
-  "mail_review": {
-    "binding": {
-      "level": "未触达（A/S 邮箱 21 封 2024→2026，无记录打开，0 回；收件 admin@kzn-gps.ru；主题多为「Industrial PoE Switch、10G Enterprise SFP Switch」）",
-      "type": "网络设备电商（喀山）",
-      "sieve": "1（只收到群发）",
-      "stop": "只打通用邮箱，无记录打开",
-      "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
-      "lane": "RU 次级（Simon 2026-08 点名）",
-      "cadence": "一封",
-      "evidence": "gmail_digest：out 21；用户表：「Switch等啥都卖；7-9173910585 WA」；研究档 risks：俄罗斯：结算/物流经第三国，非主攻区（T5）"
-    },
-    "situation": "俄罗斯喀山网络设备网店 kzn-gps.ru（品类：PoE 交换机、交换模块、PoE 电源、FTTH、路由；站内 MikroTik / Ubiquiti / TP-Link；表内「Switch 等啥都卖」，KP Alexander（Senior Manager），WhatsApp +7 917 391 0585）；群发 14 次无回复。",
-    "need": "网店 PoE 交换机品类（MikroTik/Ubiquiti 价带）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；SFP 模块位 Saga 无价目（Q-32）",
-    "breakpoint": "俄罗斯：结算/物流经第三国，非主攻区（T5）",
-    "saga_now": {
-      "p1": "STC-28DGGPM",
-      "tier": 20,
-      "price": "换人再触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-07 $300（48 Port PoE Managed Switch）、2024-12-23 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-09-04 $65（10G Media Converter）、2025-10-01 $280（10G Enterprise SFP Switch）",
-      "why": "网店 PoE 交换机品类（MikroTik/Ubiquiti 价带）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；SFP 模块位 Saga 无价目（Q-32）",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "2027-Q1（换人后）",
-      "channel": "A 邮箱 → 具名 KP",
-      "action": "换收件人再发一封",
-      "one_question": "Alexander, for the PoE switch category next to MikroTik and Ubiquiti, we supply Marvell-based 8-PoE + 2 SFP L2+ and 24-PoE models in neutral packing from small lots — which port count sells more in Kazan, 8 or 24? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
-    },
-    "facts": [
-      {
-        "date": "2026-08-14",
-        "dir": "去",
-        "who": "A/S 群发",
-        "quote": "Industrial PoE Switch、10G Enterprise SFP Switch",
-        "why": "21 封 / 0 次打开 / 0 回｜首封 2024-09-04 → 末封 2026-08-14（21 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "Switch等啥都卖；7-9173910585 WA",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "Switch 等啥都卖，有 WA",
+   "quote": "Switch等啥都卖；7-9173910585 WA",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Alexander",
+   "title": "Senior Manager",
+   "email": "admin@kzn-gps.ru",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "俄罗斯",
+  "other": "官网 kzn-gps.ru，语言 ru，快照状态 ok；角色判定来源：待核"
+ },
+ "business_lines": [
+  "网络设备电商（交换机 / 路由 / 光模块 / PoE 电源 / FTTH）"
+ ],
+ "channels": {
+  "role": "网络设备电商（喀山）",
+  "region": "俄罗斯",
+  "contact": "admin@kzn-gps.ru"
+ },
+ "signals": [
+  "品类页 /marshrutizatory-routery/kommutatory/poe-switches、/aksessuary/switch-modules、/pitanie/bloki-pitaniya-poe",
+  "站内 kw：poe 224 / sfp 123 / ethernet 81 / ftth 21",
+  "KP：Alexander / Senior Manager；WA +7 917 391 0585（表内）"
+ ],
+ "risks": [
+  "俄罗斯：结算/物流经第三国，非主攻区（T5）",
+  "群发 14 次无回复：改 WhatsApp 短消息（表内有号码）",
+  "SFP 模块需求 Saga 无价目（Q-32）"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 20,
+  "why": "网店 PoE 交换机品类（MikroTik/Ubiquiti 价带）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；SFP 模块位 Saga 无价目（Q-32）"
+ },
+ "email_hook": "Alexander, for the PoE switch category next to MikroTik and Ubiquiti, we supply Marvell-based 8-PoE + 2 SFP L2+ and 24-PoE models in neutral packing from small lots — which port count sells more in Kazan, 8 or 24?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 21 封 2024→2026，无记录打开，0 回；收件 admin@kzn-gps.ru；主题多为「Industrial PoE Switch、10G Enterprise SFP Switch」；Elsa 箱：`to:kzn-gps.ru` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 21 / 来 0）（第 74 批(l)））",
+   "type": "网络设备电商（喀山）",
+   "sieve": "1（只收到群发）",
+   "stop": "只打通用邮箱，无记录打开",
+   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+   "lane": "RU 次级（Simon 2026-08 点名）",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 21；用户表：「Switch等啥都卖；7-9173910585 WA」；研究档 risks：俄罗斯：结算/物流经第三国，非主攻区（T5）"
+  },
+  "situation": "俄罗斯喀山网络设备网店 kzn-gps.ru（品类：PoE 交换机、交换模块、PoE 电源、FTTH、路由；站内 MikroTik / Ubiquiti / TP-Link；表内「Switch 等啥都卖」，KP Alexander（Senior Manager），WhatsApp +7 917 391 0585）；群发 14 次无回复。",
+  "need": "网店 PoE 交换机品类（MikroTik/Ubiquiti 价带）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；SFP 模块位 Saga 无价目（Q-32）",
+  "breakpoint": "俄罗斯：结算/物流经第三国，非主攻区（T5）",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 20,
+   "price": "换人再触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-07 $300（48 Port PoE Managed Switch）、2024-12-23 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-09-04 $65（10G Media Converter）、2025-10-01 $280（10G Enterprise SFP Switch）",
+   "why": "网店 PoE 交换机品类（MikroTik/Ubiquiti 价带）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；SFP 模块位 Saga 无价目（Q-32）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1（换人后）",
+   "channel": "A 邮箱 → 具名 KP",
+   "action": "换收件人再发一封",
+   "one_question": "Alexander, for the PoE switch category next to MikroTik and Ubiquiti, we supply Marvell-based 8-PoE + 2 SFP L2+ and 24-PoE models in neutral packing from small lots — which port count sells more in Kazan, 8 or 24? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
+  },
+  "facts": [
+   {
+    "date": "2026-08-14",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Industrial PoE Switch、10G Enterprise SFP Switch",
+    "why": "21 封 / 0 次打开 / 0 回｜首封 2024-09-04 → 末封 2026-08-14（21 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "Switch等啥都卖；7-9173910585 WA",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

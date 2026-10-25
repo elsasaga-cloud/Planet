@@ -1,103 +1,103 @@
 {
-  "code": "SB-1008",
-  "name_official": "",
-  "researched_at": "2026-10-21",
-  "website_status": "快照失败（timeout）",
-  "summary": "俄罗斯 Vilcom（vilcom.ru；表内「Switch」；官网 timeout，业务待核）；表内未跟进。",
-  "type": "IT/网络公司（俄罗斯，待核）",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "Switch",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "Switch",
-      "quote": "Switch",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ "code": "SB-1008",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "快照失败（timeout）",
+ "summary": "俄罗斯 Vilcom（vilcom.ru；表内「Switch」；官网 timeout，业务待核）；表内未跟进。",
+ "type": "IT/网络公司（俄罗斯，待核）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "Switch",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "hq": "俄罗斯",
-    "other": "官网 vilcom.ru，语言 ?，快照状态 timeout；角色判定来源：待核"
-  },
-  "business_lines": [
-    "（待核，俄罗斯）"
-  ],
-  "channels": {
-    "role": "IT/网络公司（俄罗斯，待核）",
-    "region": "俄罗斯",
-    "contact": "info@vilcom.ru"
-  },
-  "signals": [
-    "表内：Switch",
-    "快照：timeout"
-  ],
-  "risks": [
-    "业务范围待核（官网 timeout）；俄罗斯：结算/物流/合规风险；未跟进过，仅 info@"
-  ],
-  "saga_fit": {
-    "p1": "STC-28DGGPM",
-    "tier": 20,
-    "why": "Switch → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 GE + 4×10G STC-424XGGM（$127.4）"
-  },
-  "email_hook": "For the switches you supply, we offer neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and 24-GE + 4×10G models from small lots, CE/RoHS; EAC by your side — which port count do your customers order most?",
-  "mail_review": {
-    "binding": {
-      "level": "未发信（S/A 邮箱均无往来；来源：用户表「Switch」）",
-      "type": "IT/网络公司（俄罗斯，待核）",
-      "sieve": "—（未入筛）",
-      "stop": "从未触达",
-      "revive": "首封（具名 KP 优先，用研究档 email_hook）",
-      "lane": "RU 次级（Simon 2026-08 点名）",
-      "cadence": "首封后看打开",
-      "evidence": "gmail_digest：out 0；用户表：「Switch」；研究档 risks：业务范围待核（官网 timeout）；俄罗斯：结算/物流/合规风险；未跟进过，仅 info@"
-    },
-    "situation": "俄罗斯 Vilcom（vilcom.ru；表内「Switch」；官网 timeout，业务待核）；表内未跟进。",
-    "need": "Switch → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 GE + 4×10G STC-424XGGM（$127.4）",
-    "breakpoint": "业务范围待核（官网 timeout）；俄罗斯：结算/物流/合规风险；未跟进过，仅 info@",
-    "saga_now": {
-      "p1": "STC-28DGGPM",
-      "tier": 20,
-      "price": "首触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
-      "why": "Switch → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 GE + 4×10G STC-424XGGM（$127.4）",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "待 Simon 排期（首封）",
-      "channel": "A 邮箱 → info@vilcom.ru（无具名 KP；公用地址）",
-      "action": "首封：按 email_hook 一问",
-      "one_question": "For the switches you supply, we offer neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and 24-GE + 4×10G models from small lots, CE/RoHS; EAC by your side — which port count do your customers order most? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
-    },
-    "facts": [
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "Switch",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [
-      "无邮件往来"
-    ],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "Switch",
+   "quote": "Switch",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "俄罗斯",
+  "other": "官网 vilcom.ru，语言 ?，快照状态 timeout；角色判定来源：待核"
+ },
+ "business_lines": [
+  "（待核，俄罗斯）"
+ ],
+ "channels": {
+  "role": "IT/网络公司（俄罗斯，待核）",
+  "region": "俄罗斯",
+  "contact": "info@vilcom.ru"
+ },
+ "signals": [
+  "表内：Switch",
+  "快照：timeout"
+ ],
+ "risks": [
+  "业务范围待核（官网 timeout）；俄罗斯：结算/物流/合规风险；未跟进过，仅 info@"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 20,
+  "why": "Switch → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 GE + 4×10G STC-424XGGM（$127.4）"
+ },
+ "email_hook": "For the switches you supply, we offer neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and 24-GE + 4×10G models from small lots, CE/RoHS; EAC by your side — which port count do your customers order most?",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「Switch」；Elsa 箱：`to:vilcom.ru` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(l)））",
+   "type": "IT/网络公司（俄罗斯，待核）",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+   "lane": "RU 次级（Simon 2026-08 点名）",
+   "cadence": "首封后看打开",
+   "evidence": "gmail_digest：out 0；用户表：「Switch」；研究档 risks：业务范围待核（官网 timeout）；俄罗斯：结算/物流/合规风险；未跟进过，仅 info@"
+  },
+  "situation": "俄罗斯 Vilcom（vilcom.ru；表内「Switch」；官网 timeout，业务待核）；表内未跟进。",
+  "need": "Switch → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 GE + 4×10G STC-424XGGM（$127.4）",
+  "breakpoint": "业务范围待核（官网 timeout）；俄罗斯：结算/物流/合规风险；未跟进过，仅 info@",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 20,
+   "price": "首触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
+   "why": "Switch → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 GE + 4×10G STC-424XGGM（$127.4）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "待 Simon 排期（首封）",
+   "channel": "A 邮箱 → info@vilcom.ru（无具名 KP；公用地址）",
+   "action": "首封：按 email_hook 一问",
+   "one_question": "For the switches you supply, we offer neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and 24-GE + 4×10G models from small lots, CE/RoHS; EAC by your side — which port count do your customers order most? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "Switch",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

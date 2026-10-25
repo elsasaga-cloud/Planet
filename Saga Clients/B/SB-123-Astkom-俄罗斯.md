@@ -27,7 +27,7 @@ price_tier: 20%
 research: done
 site_snapshot: none
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -44,7 +44,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-123` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A 邮箱 1 封 2026，无记录打开，0 回；收件 gordeev.inntel@mail.ru；主题多为「24 Port PoE Managed Switch」）** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：1 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：RU 次级（Simon 2026-08 点名） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 1；用户表：「2024.4.25 10G MC → will check and reply；2024.5.17 mini工业交换机 → checking；2024.7.16」；研究档 risks：对俄结算/物流合规风险（人民币结算、第三国中转需用户自行判断）
+- **绑定等级：未触达（A 邮箱 1 封 2026，无记录打开，0 回；收件 gordeev.inntel@mail.ru；主题多为「24 Port PoE Managed Switch」；Elsa 箱：`to:gordeev.inntel@mail.ru` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 1 / 来 0）（第 74 批(l)））** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：1 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：RU 次级（Simon 2026-08 点名） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 1；用户表：「2024.4.25 10G MC → will check and reply；2024.5.17 mini工业交换机 → checking；2024.7.16」；研究档 risks：对俄结算/物流合规风险（人民币结算、第三国中转需用户自行判断）
 - **现状一句话**：俄罗斯贸易公司 ООО «Астком»：登记库显示两家——彼尔姆（2006 年，批发代理，总经理 Гордеев В.В.）与圣彼得堡（2016 年，ИНН 7838051581，2025 营收 7.58 亿 ₽、50 人，Гордеев В.В. 为负责人之一）；表内 Mr. Vladislav（gordeev.inntel@mail.ru，WA 已加）与之匹配。兴趣 SFP，陆续对 10G MC、mini 工业交换机、passive PoE 手册回「checking/OK」，2025 问「是工厂吗？卖俄罗斯吗？」，其余多为「有需求会说/暂时无需求」；19 次推送 3 次实质回复。俄语区贸易商 → B 20%，俄语沟通、人民币结算与制裁风险须注明。
 - **对方真实需求（有据）**：贸易商 20% 档；其对 mini 工业交换机/10G MC 曾回 checking → 以 DIN 8 PoE+ 2 SFP 走量工业款起手；SFP 需另询
 - **断点 / 为什么停在这里**：对俄结算/物流合规风险（人民币结算、第三国中转需用户自行判断）
@@ -259,12 +259,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 51）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 51）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

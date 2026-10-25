@@ -138,14 +138,14 @@
  "email_hook": "Your VIES7511-8PGE2GF-DC and the 24GP4GC-L2M are the two footprints we build on a Marvell core, so I am quoting both in VICOM packing as a second source, with the 16-port PoE model following the same datasheet layout.",
  "mail_review": {
   "binding": {
-   "level": "未绑定（邮件 7 封 0 回；用户表：已开视频会 + 自有品牌 + 机型需求）；Elsa 群发 BCC 已触达 2026-08-17「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，印度-2（锚 mintusony IN；2025-10-02 起月轮，201+） 批次 To mintusony@gmail.com，0 回（第 74 批 Bcc 头核对 msg 1a00e1740d3438ea）",
+   "level": "未绑定（邮件 7 封 0 回；用户表：已开视频会 + 自有品牌 + 机型需求）；Elsa 群发 BCC 已触达 2026-08-17「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，印度-2（锚 mintusony IN；2025-02-25 起月轮，12 轮） 批次 To mintusony@gmail.com，0 回（第 74 批 Bcc 头核对 msg 1a00e1740d3438ea）",
    "type": "加尔各答安防集成 + 自有品牌（Vicom）",
    "sieve": "0（邮件层无人工回复）",
    "stop": "2024-12 后未再发",
    "revive": "视频会后的跟进在 Simon 手上",
    "lane": "IN",
    "cadence": "不主动",
-   "evidence": "邮件：去信 7 封（2024-06-29 → 2024-12-20），来信 0；Opened 标签 0 次；收件人 info@vicomsecurity.com；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To mintusony@gmail.com）本户见于 2026-08-17 名单；该批次最早 2025-10-02 起共 5 轮，更早轮次 Bcc 未读"
+   "evidence": "邮件：去信 7 封（2024-06-29 → 2024-12-20），来信 0；Opened 标签 0 次；收件人 info@vicomsecurity.com；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To mintusony@gmail.com）本户见于 2026-08-17 名单；该批次最早 2025-02-25 起共 12 轮，更早轮次 Bcc 未读"
   },
   "situation": "视频会在邮件之外。",
   "need": "4 光 24 电管理 PoE 贴牌。",
@@ -184,7 +184,7 @@
    {
     "date": "2026-08-17",
     "dir": "去",
-    "who": "Elsa 群发（BCC；To mintusony@gmail.com，印度-2（锚 mintusony IN；2025-10-02 起月轮，201+） 批次）",
+    "who": "Elsa 群发（BCC；To mintusony@gmail.com，印度-2（锚 mintusony IN；2025-02-25 起月轮，12 轮） 批次）",
     "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
     "why": "Elsa 箱群发 BCC 触达证据（命中地址 info@vicomsecurity.com, vicomsecurity.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
     "k": "elsa_bcc"

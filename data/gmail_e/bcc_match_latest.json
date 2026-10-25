@@ -4392,7 +4392,7 @@
     "msg_id": "1a00e1740d3438ea",
     "date": "2026-08-17",
     "subject": "24 Port PoE Managed Switch",
-    "batch": "印度-2（锚 mintusony IN；2025-10-02 起月轮，201+）",
+    "batch": "印度-2（锚 mintusony IN；2025-02-25 起月轮，12 轮）",
     "to": "mintusony@gmail.com",
     "price_text": "Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI Price: 170USD/PC",
     "matched": [
@@ -7740,6 +7740,30 @@
      "info@module-ltd.ru",
      "module-ltd.ru"
     ]
+   },
+   {
+    "msg_id": "1a03cf9d14adefe7",
+    "date": "2026-08-26",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "俄罗斯-4（锚 soyuzsp.ru；2025-02-20 起月轮，13 轮）",
+    "to": "sales@soyuzsp.ru",
+    "price_text": "Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI Price: 170USD/PC",
+    "matched": [
+     "pro-tek.pro",
+     "zakaz@pro-tek.pro"
+    ]
+   },
+   {
+    "msg_id": "19b20b39b421f4ce",
+    "date": "2025-12-15",
+    "subject": "Booster PoE Switch",
+    "batch": "俄罗斯-4（锚 soyuzsp.ru；2025-02-20 起月轮，13 轮）",
+    "to": "sales@soyuzsp.ru",
+    "price_text": "Hi, How are you? This is about our Marvell based managed switch with power boosting feature. 1, Fiber: 4*100M/1G/2.5G/10G 2, Copper: 8*1G RJ45/PoE, max 240W budget 3, DC12-54V Booster to 54V 4, Support",
+    "matched": [
+     "pro-tek.pro",
+     "zakaz@pro-tek.pro"
+    ]
    }
   ]
  },
@@ -8107,7 +8131,7 @@
     "msg_id": "1a01030ab6b2fbd1",
     "date": "2026-08-17",
     "subject": "24 Port PoE Managed Switch",
-    "batch": "拉美（锚 eletrotecnicasoares BR；2025-11-06 起月轮，201+）",
+    "batch": "拉美（锚 eletrotecnicasoares BR；2025-02-26 起月轮，13 轮）",
     "to": "eletrotecnicasoares@bol.com.br",
     "price_text": "Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI Price: 170USD/PC",
     "matched": [
@@ -16053,7 +16077,7 @@
     "msg_id": "19bea41cf1e92fe5",
     "date": "2026-01-23",
     "subject": "OEM Core Switching Solution",
-    "batch": "俄罗斯-1（锚 nnz.ru RU；2025-08-15 起月轮，201+）",
+    "batch": "俄罗斯-1（锚 nnz.ru RU；2025-02-23 起月轮，14 轮）",
     "to": "msk@nnz.ru",
     "price_text": "Hi, How are you? I am introducing our CENTEC-based core and aggregation switches. 1, A cost-effective alternative to Cisco or Huawei models 2, Multiple models(10G~800G) available for various network…（摘要无价）",
     "matched": [
@@ -19452,7 +19476,7 @@
     "msg_id": "19bea41cf1e92fe5",
     "date": "2026-01-23",
     "subject": "OEM Core Switching Solution",
-    "batch": "俄罗斯-1（锚 nnz.ru RU；2025-08-15 起月轮，201+）",
+    "batch": "俄罗斯-1（锚 nnz.ru RU；2025-02-23 起月轮，14 轮）",
     "to": "msk@nnz.ru",
     "price_text": "Hi, How are you? I am introducing our CENTEC-based core and aggregation switches. 1, A cost-effective alternative to Cisco or Huawei models 2, Multiple models(10G~800G) available for various network…（摘要无价）",
     "matched": [
@@ -19470,7 +19494,7 @@
     "msg_id": "19bea41cf1e92fe5",
     "date": "2026-01-23",
     "subject": "OEM Core Switching Solution",
-    "batch": "俄罗斯-1（锚 nnz.ru RU；2025-08-15 起月轮，201+）",
+    "batch": "俄罗斯-1（锚 nnz.ru RU；2025-02-23 起月轮，14 轮）",
     "to": "msk@nnz.ru",
     "price_text": "Hi, How are you? I am introducing our CENTEC-based core and aggregation switches. 1, A cost-effective alternative to Cisco or Huawei models 2, Multiple models(10G~800G) available for various network…（摘要无价）",
     "matched": [
@@ -19489,7 +19513,7 @@
     "msg_id": "19bea41cf1e92fe5",
     "date": "2026-01-23",
     "subject": "OEM Core Switching Solution",
-    "batch": "俄罗斯-1（锚 nnz.ru RU；2025-08-15 起月轮，201+）",
+    "batch": "俄罗斯-1（锚 nnz.ru RU；2025-02-23 起月轮，14 轮）",
     "to": "msk@nnz.ru",
     "price_text": "Hi, How are you? I am introducing our CENTEC-based core and aggregation switches. 1, A cost-effective alternative to Cisco or Huawei models 2, Multiple models(10G~800G) available for various network…（摘要无价）",
     "matched": [
@@ -19506,7 +19530,7 @@
     "msg_id": "19bea41cf1e92fe5",
     "date": "2026-01-23",
     "subject": "OEM Core Switching Solution",
-    "batch": "俄罗斯-1（锚 nnz.ru RU；2025-08-15 起月轮，201+）",
+    "batch": "俄罗斯-1（锚 nnz.ru RU；2025-02-23 起月轮，14 轮）",
     "to": "msk@nnz.ru",
     "price_text": "Hi, How are you? I am introducing our CENTEC-based core and aggregation switches. 1, A cost-effective alternative to Cisco or Huawei models 2, Multiple models(10G~800G) available for various network…（摘要无价）",
     "matched": [
@@ -19523,7 +19547,7 @@
     "msg_id": "19bea41cf1e92fe5",
     "date": "2026-01-23",
     "subject": "OEM Core Switching Solution",
-    "batch": "俄罗斯-1（锚 nnz.ru RU；2025-08-15 起月轮，201+）",
+    "batch": "俄罗斯-1（锚 nnz.ru RU；2025-02-23 起月轮，14 轮）",
     "to": "msk@nnz.ru",
     "price_text": "Hi, How are you? I am introducing our CENTEC-based core and aggregation switches. 1, A cost-effective alternative to Cisco or Huawei models 2, Multiple models(10G~800G) available for various network…（摘要无价）",
     "matched": [
@@ -19540,7 +19564,7 @@
     "msg_id": "19bea41cf1e92fe5",
     "date": "2026-01-23",
     "subject": "OEM Core Switching Solution",
-    "batch": "俄罗斯-1（锚 nnz.ru RU；2025-08-15 起月轮，201+）",
+    "batch": "俄罗斯-1（锚 nnz.ru RU；2025-02-23 起月轮，14 轮）",
     "to": "msk@nnz.ru",
     "price_text": "Hi, How are you? I am introducing our CENTEC-based core and aggregation switches. 1, A cost-effective alternative to Cisco or Huawei models 2, Multiple models(10G~800G) available for various network…（摘要无价）",
     "matched": [
@@ -19557,7 +19581,7 @@
     "msg_id": "19bea41cf1e92fe5",
     "date": "2026-01-23",
     "subject": "OEM Core Switching Solution",
-    "batch": "俄罗斯-1（锚 nnz.ru RU；2025-08-15 起月轮，201+）",
+    "batch": "俄罗斯-1（锚 nnz.ru RU；2025-02-23 起月轮，14 轮）",
     "to": "msk@nnz.ru",
     "price_text": "Hi, How are you? I am introducing our CENTEC-based core and aggregation switches. 1, A cost-effective alternative to Cisco or Huawei models 2, Multiple models(10G~800G) available for various network…（摘要无价）",
     "matched": [
@@ -19574,7 +19598,7 @@
     "msg_id": "19bea41cf1e92fe5",
     "date": "2026-01-23",
     "subject": "OEM Core Switching Solution",
-    "batch": "俄罗斯-1（锚 nnz.ru RU；2025-08-15 起月轮，201+）",
+    "batch": "俄罗斯-1（锚 nnz.ru RU；2025-02-23 起月轮，14 轮）",
     "to": "msk@nnz.ru",
     "price_text": "Hi, How are you? I am introducing our CENTEC-based core and aggregation switches. 1, A cost-effective alternative to Cisco or Huawei models 2, Multiple models(10G~800G) available for various network…（摘要无价）",
     "matched": [
@@ -19591,7 +19615,7 @@
     "msg_id": "19bea41cf1e92fe5",
     "date": "2026-01-23",
     "subject": "OEM Core Switching Solution",
-    "batch": "俄罗斯-1（锚 nnz.ru RU；2025-08-15 起月轮，201+）",
+    "batch": "俄罗斯-1（锚 nnz.ru RU；2025-02-23 起月轮，14 轮）",
     "to": "msk@nnz.ru",
     "price_text": "Hi, How are you? I am introducing our CENTEC-based core and aggregation switches. 1, A cost-effective alternative to Cisco or Huawei models 2, Multiple models(10G~800G) available for various network…（摘要无价）",
     "matched": [
@@ -19609,7 +19633,7 @@
     "msg_id": "19bea41cf1e92fe5",
     "date": "2026-01-23",
     "subject": "OEM Core Switching Solution",
-    "batch": "俄罗斯-1（锚 nnz.ru RU；2025-08-15 起月轮，201+）",
+    "batch": "俄罗斯-1（锚 nnz.ru RU；2025-02-23 起月轮，14 轮）",
     "to": "msk@nnz.ru",
     "price_text": "Hi, How are you? I am introducing our CENTEC-based core and aggregation switches. 1, A cost-effective alternative to Cisco or Huawei models 2, Multiple models(10G~800G) available for various network…（摘要无价）",
     "matched": [
@@ -19627,7 +19651,7 @@
     "msg_id": "19bea41cf1e92fe5",
     "date": "2026-01-23",
     "subject": "OEM Core Switching Solution",
-    "batch": "俄罗斯-1（锚 nnz.ru RU；2025-08-15 起月轮，201+）",
+    "batch": "俄罗斯-1（锚 nnz.ru RU；2025-02-23 起月轮，14 轮）",
     "to": "msk@nnz.ru",
     "price_text": "Hi, How are you? I am introducing our CENTEC-based core and aggregation switches. 1, A cost-effective alternative to Cisco or Huawei models 2, Multiple models(10G~800G) available for various network…（摘要无价）",
     "matched": [
@@ -19648,7 +19672,7 @@
     "msg_id": "19bea41cf1e92fe5",
     "date": "2026-01-23",
     "subject": "OEM Core Switching Solution",
-    "batch": "俄罗斯-1（锚 nnz.ru RU；2025-08-15 起月轮，201+）",
+    "batch": "俄罗斯-1（锚 nnz.ru RU；2025-02-23 起月轮，14 轮）",
     "to": "msk@nnz.ru",
     "price_text": "Hi, How are you? I am introducing our CENTEC-based core and aggregation switches. 1, A cost-effective alternative to Cisco or Huawei models 2, Multiple models(10G~800G) available for various network…（摘要无价）",
     "matched": [
@@ -19666,7 +19690,7 @@
     "msg_id": "19bea41cf1e92fe5",
     "date": "2026-01-23",
     "subject": "OEM Core Switching Solution",
-    "batch": "俄罗斯-1（锚 nnz.ru RU；2025-08-15 起月轮，201+）",
+    "batch": "俄罗斯-1（锚 nnz.ru RU；2025-02-23 起月轮，14 轮）",
     "to": "msk@nnz.ru",
     "price_text": "Hi, How are you? I am introducing our CENTEC-based core and aggregation switches. 1, A cost-effective alternative to Cisco or Huawei models 2, Multiple models(10G~800G) available for various network…（摘要无价）",
     "matched": [
@@ -19684,7 +19708,7 @@
     "msg_id": "19bea41cf1e92fe5",
     "date": "2026-01-23",
     "subject": "OEM Core Switching Solution",
-    "batch": "俄罗斯-1（锚 nnz.ru RU；2025-08-15 起月轮，201+）",
+    "batch": "俄罗斯-1（锚 nnz.ru RU；2025-02-23 起月轮，14 轮）",
     "to": "msk@nnz.ru",
     "price_text": "Hi, How are you? I am introducing our CENTEC-based core and aggregation switches. 1, A cost-effective alternative to Cisco or Huawei models 2, Multiple models(10G~800G) available for various network…（摘要无价）",
     "matched": [
@@ -19702,7 +19726,7 @@
     "msg_id": "19bea41cf1e92fe5",
     "date": "2026-01-23",
     "subject": "OEM Core Switching Solution",
-    "batch": "俄罗斯-1（锚 nnz.ru RU；2025-08-15 起月轮，201+）",
+    "batch": "俄罗斯-1（锚 nnz.ru RU；2025-02-23 起月轮，14 轮）",
     "to": "msk@nnz.ru",
     "price_text": "Hi, How are you? I am introducing our CENTEC-based core and aggregation switches. 1, A cost-effective alternative to Cisco or Huawei models 2, Multiple models(10G~800G) available for various network…（摘要无价）",
     "matched": [
@@ -19723,7 +19747,7 @@
     "msg_id": "19bea41cf1e92fe5",
     "date": "2026-01-23",
     "subject": "OEM Core Switching Solution",
-    "batch": "俄罗斯-1（锚 nnz.ru RU；2025-08-15 起月轮，201+）",
+    "batch": "俄罗斯-1（锚 nnz.ru RU；2025-02-23 起月轮，14 轮）",
     "to": "msk@nnz.ru",
     "price_text": "Hi, How are you? I am introducing our CENTEC-based core and aggregation switches. 1, A cost-effective alternative to Cisco or Huawei models 2, Multiple models(10G~800G) available for various network…（摘要无价）",
     "matched": [
@@ -19741,7 +19765,7 @@
     "msg_id": "19bea41cf1e92fe5",
     "date": "2026-01-23",
     "subject": "OEM Core Switching Solution",
-    "batch": "俄罗斯-1（锚 nnz.ru RU；2025-08-15 起月轮，201+）",
+    "batch": "俄罗斯-1（锚 nnz.ru RU；2025-02-23 起月轮，14 轮）",
     "to": "msk@nnz.ru",
     "price_text": "Hi, How are you? I am introducing our CENTEC-based core and aggregation switches. 1, A cost-effective alternative to Cisco or Huawei models 2, Multiple models(10G~800G) available for various network…（摘要无价）",
     "matched": [
@@ -19754,7 +19778,7 @@
     "msg_id": "1a03df102140ed72",
     "date": "2026-08-26",
     "subject": "24 Port PoE Managed Switch",
-    "batch": "俄罗斯-2（锚 bas-ip.com；2025-09-29 起月轮，201+）",
+    "batch": "俄罗斯-2（锚 bas-ip.com；2025-02-22 起月轮，11 轮）",
     "to": "sales@bas-ip.com",
     "price_text": "Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI Price: 170USD/PC",
     "matched": [
@@ -19773,7 +19797,7 @@
     "msg_id": "19bea41cf1e92fe5",
     "date": "2026-01-23",
     "subject": "OEM Core Switching Solution",
-    "batch": "俄罗斯-1（锚 nnz.ru RU；2025-08-15 起月轮，201+）",
+    "batch": "俄罗斯-1（锚 nnz.ru RU；2025-02-23 起月轮，14 轮）",
     "to": "msk@nnz.ru",
     "price_text": "Hi, How are you? I am introducing our CENTEC-based core and aggregation switches. 1, A cost-effective alternative to Cisco or Huawei models 2, Multiple models(10G~800G) available for various network…（摘要无价）",
     "matched": [
@@ -19791,7 +19815,7 @@
     "msg_id": "19bea41cf1e92fe5",
     "date": "2026-01-23",
     "subject": "OEM Core Switching Solution",
-    "batch": "俄罗斯-1（锚 nnz.ru RU；2025-08-15 起月轮，201+）",
+    "batch": "俄罗斯-1（锚 nnz.ru RU；2025-02-23 起月轮，14 轮）",
     "to": "msk@nnz.ru",
     "price_text": "Hi, How are you? I am introducing our CENTEC-based core and aggregation switches. 1, A cost-effective alternative to Cisco or Huawei models 2, Multiple models(10G~800G) available for various network…（摘要无价）",
     "matched": [
@@ -19809,7 +19833,7 @@
     "msg_id": "1a03df102140ed72",
     "date": "2026-08-26",
     "subject": "24 Port PoE Managed Switch",
-    "batch": "俄罗斯-2（锚 bas-ip.com；2025-09-29 起月轮，201+）",
+    "batch": "俄罗斯-2（锚 bas-ip.com；2025-02-22 起月轮，11 轮）",
     "to": "sales@bas-ip.com",
     "price_text": "Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI Price: 170USD/PC",
     "matched": [
@@ -19827,7 +19851,7 @@
     "msg_id": "1a03df102140ed72",
     "date": "2026-08-26",
     "subject": "24 Port PoE Managed Switch",
-    "batch": "俄罗斯-2（锚 bas-ip.com；2025-09-29 起月轮，201+）",
+    "batch": "俄罗斯-2（锚 bas-ip.com；2025-02-22 起月轮，11 轮）",
     "to": "sales@bas-ip.com",
     "price_text": "Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI Price: 170USD/PC",
     "matched": [
@@ -19845,7 +19869,7 @@
     "msg_id": "1a03df102140ed72",
     "date": "2026-08-26",
     "subject": "24 Port PoE Managed Switch",
-    "batch": "俄罗斯-2（锚 bas-ip.com；2025-09-29 起月轮，201+）",
+    "batch": "俄罗斯-2（锚 bas-ip.com；2025-02-22 起月轮，11 轮）",
     "to": "sales@bas-ip.com",
     "price_text": "Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI Price: 170USD/PC",
     "matched": [
@@ -19862,7 +19886,7 @@
     "msg_id": "1a03df102140ed72",
     "date": "2026-08-26",
     "subject": "24 Port PoE Managed Switch",
-    "batch": "俄罗斯-2（锚 bas-ip.com；2025-09-29 起月轮，201+）",
+    "batch": "俄罗斯-2（锚 bas-ip.com；2025-02-22 起月轮，11 轮）",
     "to": "sales@bas-ip.com",
     "price_text": "Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI Price: 170USD/PC",
     "matched": [
@@ -19880,7 +19904,7 @@
     "msg_id": "1a03df102140ed72",
     "date": "2026-08-26",
     "subject": "24 Port PoE Managed Switch",
-    "batch": "俄罗斯-2（锚 bas-ip.com；2025-09-29 起月轮，201+）",
+    "batch": "俄罗斯-2（锚 bas-ip.com；2025-02-22 起月轮，11 轮）",
     "to": "sales@bas-ip.com",
     "price_text": "Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI Price: 170USD/PC",
     "matched": [
@@ -19897,7 +19921,7 @@
     "msg_id": "1a03df102140ed72",
     "date": "2026-08-26",
     "subject": "24 Port PoE Managed Switch",
-    "batch": "俄罗斯-2（锚 bas-ip.com；2025-09-29 起月轮，201+）",
+    "batch": "俄罗斯-2（锚 bas-ip.com；2025-02-22 起月轮，11 轮）",
     "to": "sales@bas-ip.com",
     "price_text": "Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI Price: 170USD/PC",
     "matched": [
@@ -19915,7 +19939,7 @@
     "msg_id": "1a03df102140ed72",
     "date": "2026-08-26",
     "subject": "24 Port PoE Managed Switch",
-    "batch": "俄罗斯-2（锚 bas-ip.com；2025-09-29 起月轮，201+）",
+    "batch": "俄罗斯-2（锚 bas-ip.com；2025-02-22 起月轮，11 轮）",
     "to": "sales@bas-ip.com",
     "price_text": "Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI Price: 170USD/PC",
     "matched": [
@@ -19933,7 +19957,7 @@
     "msg_id": "1a03df102140ed72",
     "date": "2026-08-26",
     "subject": "24 Port PoE Managed Switch",
-    "batch": "俄罗斯-2（锚 bas-ip.com；2025-09-29 起月轮，201+）",
+    "batch": "俄罗斯-2（锚 bas-ip.com；2025-02-22 起月轮，11 轮）",
     "to": "sales@bas-ip.com",
     "price_text": "Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI Price: 170USD/PC",
     "matched": [
@@ -19951,7 +19975,7 @@
     "msg_id": "1a03df102140ed72",
     "date": "2026-08-26",
     "subject": "24 Port PoE Managed Switch",
-    "batch": "俄罗斯-2（锚 bas-ip.com；2025-09-29 起月轮，201+）",
+    "batch": "俄罗斯-2（锚 bas-ip.com；2025-02-22 起月轮，11 轮）",
     "to": "sales@bas-ip.com",
     "price_text": "Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI Price: 170USD/PC",
     "matched": [
@@ -19969,7 +19993,7 @@
     "msg_id": "1a03df102140ed72",
     "date": "2026-08-26",
     "subject": "24 Port PoE Managed Switch",
-    "batch": "俄罗斯-2（锚 bas-ip.com；2025-09-29 起月轮，201+）",
+    "batch": "俄罗斯-2（锚 bas-ip.com；2025-02-22 起月轮，11 轮）",
     "to": "sales@bas-ip.com",
     "price_text": "Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI Price: 170USD/PC",
     "matched": [
@@ -19987,7 +20011,7 @@
     "msg_id": "1a03df102140ed72",
     "date": "2026-08-26",
     "subject": "24 Port PoE Managed Switch",
-    "batch": "俄罗斯-2（锚 bas-ip.com；2025-09-29 起月轮，201+）",
+    "batch": "俄罗斯-2（锚 bas-ip.com；2025-02-22 起月轮，11 轮）",
     "to": "sales@bas-ip.com",
     "price_text": "Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI Price: 170USD/PC",
     "matched": [
@@ -20006,7 +20030,7 @@
     "msg_id": "1a03df102140ed72",
     "date": "2026-08-26",
     "subject": "24 Port PoE Managed Switch",
-    "batch": "俄罗斯-2（锚 bas-ip.com；2025-09-29 起月轮，201+）",
+    "batch": "俄罗斯-2（锚 bas-ip.com；2025-02-22 起月轮，11 轮）",
     "to": "sales@bas-ip.com",
     "price_text": "Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI Price: 170USD/PC",
     "matched": [
@@ -20024,7 +20048,7 @@
     "msg_id": "1a03df102140ed72",
     "date": "2026-08-26",
     "subject": "24 Port PoE Managed Switch",
-    "batch": "俄罗斯-2（锚 bas-ip.com；2025-09-29 起月轮，201+）",
+    "batch": "俄罗斯-2（锚 bas-ip.com；2025-02-22 起月轮，11 轮）",
     "to": "sales@bas-ip.com",
     "price_text": "Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI Price: 170USD/PC",
     "matched": [
@@ -20042,7 +20066,7 @@
     "msg_id": "1a03df102140ed72",
     "date": "2026-08-26",
     "subject": "24 Port PoE Managed Switch",
-    "batch": "俄罗斯-2（锚 bas-ip.com；2025-09-29 起月轮，201+）",
+    "batch": "俄罗斯-2（锚 bas-ip.com；2025-02-22 起月轮，11 轮）",
     "to": "sales@bas-ip.com",
     "price_text": "Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI Price: 170USD/PC",
     "matched": [
@@ -20060,7 +20084,7 @@
     "msg_id": "1a00e1740d3438ea",
     "date": "2026-08-17",
     "subject": "24 Port PoE Managed Switch",
-    "batch": "印度-2（锚 mintusony IN；2025-10-02 起月轮，201+）",
+    "batch": "印度-2（锚 mintusony IN；2025-02-25 起月轮，12 轮）",
     "to": "mintusony@gmail.com",
     "price_text": "Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI Price: 170USD/PC",
     "matched": [
@@ -20078,7 +20102,7 @@
     "msg_id": "1a00e1740d3438ea",
     "date": "2026-08-17",
     "subject": "24 Port PoE Managed Switch",
-    "batch": "印度-2（锚 mintusony IN；2025-10-02 起月轮，201+）",
+    "batch": "印度-2（锚 mintusony IN；2025-02-25 起月轮，12 轮）",
     "to": "mintusony@gmail.com",
     "price_text": "Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI Price: 170USD/PC",
     "matched": [
@@ -20096,7 +20120,7 @@
     "msg_id": "1a00e1740d3438ea",
     "date": "2026-08-17",
     "subject": "24 Port PoE Managed Switch",
-    "batch": "印度-2（锚 mintusony IN；2025-10-02 起月轮，201+）",
+    "batch": "印度-2（锚 mintusony IN；2025-02-25 起月轮，12 轮）",
     "to": "mintusony@gmail.com",
     "price_text": "Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI Price: 170USD/PC",
     "matched": [
@@ -20115,7 +20139,7 @@
     "msg_id": "1a00e1740d3438ea",
     "date": "2026-08-17",
     "subject": "24 Port PoE Managed Switch",
-    "batch": "印度-2（锚 mintusony IN；2025-10-02 起月轮，201+）",
+    "batch": "印度-2（锚 mintusony IN；2025-02-25 起月轮，12 轮）",
     "to": "mintusony@gmail.com",
     "price_text": "Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI Price: 170USD/PC",
     "matched": [
@@ -20133,7 +20157,7 @@
     "msg_id": "1a00e1740d3438ea",
     "date": "2026-08-17",
     "subject": "24 Port PoE Managed Switch",
-    "batch": "印度-2（锚 mintusony IN；2025-10-02 起月轮，201+）",
+    "batch": "印度-2（锚 mintusony IN；2025-02-25 起月轮，12 轮）",
     "to": "mintusony@gmail.com",
     "price_text": "Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI Price: 170USD/PC",
     "matched": [
@@ -20151,7 +20175,7 @@
     "msg_id": "1a00e1740d3438ea",
     "date": "2026-08-17",
     "subject": "24 Port PoE Managed Switch",
-    "batch": "印度-2（锚 mintusony IN；2025-10-02 起月轮，201+）",
+    "batch": "印度-2（锚 mintusony IN；2025-02-25 起月轮，12 轮）",
     "to": "mintusony@gmail.com",
     "price_text": "Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI Price: 170USD/PC",
     "matched": [
@@ -20169,7 +20193,7 @@
     "msg_id": "1a00e1740d3438ea",
     "date": "2026-08-17",
     "subject": "24 Port PoE Managed Switch",
-    "batch": "印度-2（锚 mintusony IN；2025-10-02 起月轮，201+）",
+    "batch": "印度-2（锚 mintusony IN；2025-02-25 起月轮，12 轮）",
     "to": "mintusony@gmail.com",
     "price_text": "Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI Price: 170USD/PC",
     "matched": [
@@ -20187,7 +20211,7 @@
     "msg_id": "1a00e1740d3438ea",
     "date": "2026-08-17",
     "subject": "24 Port PoE Managed Switch",
-    "batch": "印度-2（锚 mintusony IN；2025-10-02 起月轮，201+）",
+    "batch": "印度-2（锚 mintusony IN；2025-02-25 起月轮，12 轮）",
     "to": "mintusony@gmail.com",
     "price_text": "Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI Price: 170USD/PC",
     "matched": [
@@ -20205,7 +20229,7 @@
     "msg_id": "1a00e1740d3438ea",
     "date": "2026-08-17",
     "subject": "24 Port PoE Managed Switch",
-    "batch": "印度-2（锚 mintusony IN；2025-10-02 起月轮，201+）",
+    "batch": "印度-2（锚 mintusony IN；2025-02-25 起月轮，12 轮）",
     "to": "mintusony@gmail.com",
     "price_text": "Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI Price: 170USD/PC",
     "matched": [
@@ -20223,7 +20247,7 @@
     "msg_id": "1a00e1740d3438ea",
     "date": "2026-08-17",
     "subject": "24 Port PoE Managed Switch",
-    "batch": "印度-2（锚 mintusony IN；2025-10-02 起月轮，201+）",
+    "batch": "印度-2（锚 mintusony IN；2025-02-25 起月轮，12 轮）",
     "to": "mintusony@gmail.com",
     "price_text": "Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI Price: 170USD/PC",
     "matched": [
@@ -20240,7 +20264,7 @@
     "msg_id": "1a00e1740d3438ea",
     "date": "2026-08-17",
     "subject": "24 Port PoE Managed Switch",
-    "batch": "印度-2（锚 mintusony IN；2025-10-02 起月轮，201+）",
+    "batch": "印度-2（锚 mintusony IN；2025-02-25 起月轮，12 轮）",
     "to": "mintusony@gmail.com",
     "price_text": "Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI Price: 170USD/PC",
     "matched": [
@@ -20258,7 +20282,7 @@
     "msg_id": "1a00e1740d3438ea",
     "date": "2026-08-17",
     "subject": "24 Port PoE Managed Switch",
-    "batch": "印度-2（锚 mintusony IN；2025-10-02 起月轮，201+）",
+    "batch": "印度-2（锚 mintusony IN；2025-02-25 起月轮，12 轮）",
     "to": "mintusony@gmail.com",
     "price_text": "Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI Price: 170USD/PC",
     "matched": [
@@ -20276,7 +20300,7 @@
     "msg_id": "1a00e1740d3438ea",
     "date": "2026-08-17",
     "subject": "24 Port PoE Managed Switch",
-    "batch": "印度-2（锚 mintusony IN；2025-10-02 起月轮，201+）",
+    "batch": "印度-2（锚 mintusony IN；2025-02-25 起月轮，12 轮）",
     "to": "mintusony@gmail.com",
     "price_text": "Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI Price: 170USD/PC",
     "matched": [
@@ -20294,7 +20318,7 @@
     "msg_id": "1a00e1740d3438ea",
     "date": "2026-08-17",
     "subject": "24 Port PoE Managed Switch",
-    "batch": "印度-2（锚 mintusony IN；2025-10-02 起月轮，201+）",
+    "batch": "印度-2（锚 mintusony IN；2025-02-25 起月轮，12 轮）",
     "to": "mintusony@gmail.com",
     "price_text": "Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI Price: 170USD/PC",
     "matched": [
@@ -20312,7 +20336,7 @@
     "msg_id": "1a00e1740d3438ea",
     "date": "2026-08-17",
     "subject": "24 Port PoE Managed Switch",
-    "batch": "印度-2（锚 mintusony IN；2025-10-02 起月轮，201+）",
+    "batch": "印度-2（锚 mintusony IN；2025-02-25 起月轮，12 轮）",
     "to": "mintusony@gmail.com",
     "price_text": "Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI Price: 170USD/PC",
     "matched": [
@@ -20329,7 +20353,7 @@
     "msg_id": "1a00e1740d3438ea",
     "date": "2026-08-17",
     "subject": "24 Port PoE Managed Switch",
-    "batch": "印度-2（锚 mintusony IN；2025-10-02 起月轮，201+）",
+    "batch": "印度-2（锚 mintusony IN；2025-02-25 起月轮，12 轮）",
     "to": "mintusony@gmail.com",
     "price_text": "Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI Price: 170USD/PC",
     "matched": [
@@ -20347,7 +20371,7 @@
     "msg_id": "1a00e1740d3438ea",
     "date": "2026-08-17",
     "subject": "24 Port PoE Managed Switch",
-    "batch": "印度-2（锚 mintusony IN；2025-10-02 起月轮，201+）",
+    "batch": "印度-2（锚 mintusony IN；2025-02-25 起月轮，12 轮）",
     "to": "mintusony@gmail.com",
     "price_text": "Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI Price: 170USD/PC",
     "matched": [
@@ -20365,7 +20389,7 @@
     "msg_id": "1a00e1740d3438ea",
     "date": "2026-08-17",
     "subject": "24 Port PoE Managed Switch",
-    "batch": "印度-2（锚 mintusony IN；2025-10-02 起月轮，201+）",
+    "batch": "印度-2（锚 mintusony IN；2025-02-25 起月轮，12 轮）",
     "to": "mintusony@gmail.com",
     "price_text": "Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI Price: 170USD/PC",
     "matched": [
@@ -20383,7 +20407,7 @@
     "msg_id": "1a00e1740d3438ea",
     "date": "2026-08-17",
     "subject": "24 Port PoE Managed Switch",
-    "batch": "印度-2（锚 mintusony IN；2025-10-02 起月轮，201+）",
+    "batch": "印度-2（锚 mintusony IN；2025-02-25 起月轮，12 轮）",
     "to": "mintusony@gmail.com",
     "price_text": "Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI Price: 170USD/PC",
     "matched": [
@@ -20400,7 +20424,7 @@
     "msg_id": "1a00e1740d3438ea",
     "date": "2026-08-17",
     "subject": "24 Port PoE Managed Switch",
-    "batch": "印度-2（锚 mintusony IN；2025-10-02 起月轮，201+）",
+    "batch": "印度-2（锚 mintusony IN；2025-02-25 起月轮，12 轮）",
     "to": "mintusony@gmail.com",
     "price_text": "Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI Price: 170USD/PC",
     "matched": [
@@ -20418,7 +20442,7 @@
     "msg_id": "1a00e1740d3438ea",
     "date": "2026-08-17",
     "subject": "24 Port PoE Managed Switch",
-    "batch": "印度-2（锚 mintusony IN；2025-10-02 起月轮，201+）",
+    "batch": "印度-2（锚 mintusony IN；2025-02-25 起月轮，12 轮）",
     "to": "mintusony@gmail.com",
     "price_text": "Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI Price: 170USD/PC",
     "matched": [
@@ -20435,7 +20459,7 @@
     "msg_id": "1a00e1740d3438ea",
     "date": "2026-08-17",
     "subject": "24 Port PoE Managed Switch",
-    "batch": "印度-2（锚 mintusony IN；2025-10-02 起月轮，201+）",
+    "batch": "印度-2（锚 mintusony IN；2025-02-25 起月轮，12 轮）",
     "to": "mintusony@gmail.com",
     "price_text": "Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI Price: 170USD/PC",
     "matched": [
@@ -20452,7 +20476,7 @@
     "msg_id": "1a00e1740d3438ea",
     "date": "2026-08-17",
     "subject": "24 Port PoE Managed Switch",
-    "batch": "印度-2（锚 mintusony IN；2025-10-02 起月轮，201+）",
+    "batch": "印度-2（锚 mintusony IN；2025-02-25 起月轮，12 轮）",
     "to": "mintusony@gmail.com",
     "price_text": "Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI Price: 170USD/PC",
     "matched": [
@@ -20469,7 +20493,7 @@
     "msg_id": "1a00e1740d3438ea",
     "date": "2026-08-17",
     "subject": "24 Port PoE Managed Switch",
-    "batch": "印度-2（锚 mintusony IN；2025-10-02 起月轮，201+）",
+    "batch": "印度-2（锚 mintusony IN；2025-02-25 起月轮，12 轮）",
     "to": "mintusony@gmail.com",
     "price_text": "Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI Price: 170USD/PC",
     "matched": [
@@ -20666,7 +20690,7 @@
     "msg_id": "1a01030ab6b2fbd1",
     "date": "2026-08-17",
     "subject": "24 Port PoE Managed Switch",
-    "batch": "拉美（锚 eletrotecnicasoares BR；2025-11-06 起月轮，201+）",
+    "batch": "拉美（锚 eletrotecnicasoares BR；2025-02-26 起月轮，13 轮）",
     "to": "eletrotecnicasoares@bol.com.br",
     "price_text": "Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI Price: 170USD/PC",
     "matched": [
@@ -20685,7 +20709,7 @@
     "msg_id": "1a01030ab6b2fbd1",
     "date": "2026-08-17",
     "subject": "24 Port PoE Managed Switch",
-    "batch": "拉美（锚 eletrotecnicasoares BR；2025-11-06 起月轮，201+）",
+    "batch": "拉美（锚 eletrotecnicasoares BR；2025-02-26 起月轮，13 轮）",
     "to": "eletrotecnicasoares@bol.com.br",
     "price_text": "Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI Price: 170USD/PC",
     "matched": [
@@ -20703,7 +20727,7 @@
     "msg_id": "1a01030ab6b2fbd1",
     "date": "2026-08-17",
     "subject": "24 Port PoE Managed Switch",
-    "batch": "拉美（锚 eletrotecnicasoares BR；2025-11-06 起月轮，201+）",
+    "batch": "拉美（锚 eletrotecnicasoares BR；2025-02-26 起月轮，13 轮）",
     "to": "eletrotecnicasoares@bol.com.br",
     "price_text": "Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI Price: 170USD/PC",
     "matched": [
@@ -20722,7 +20746,7 @@
     "msg_id": "1a01030ab6b2fbd1",
     "date": "2026-08-17",
     "subject": "24 Port PoE Managed Switch",
-    "batch": "拉美（锚 eletrotecnicasoares BR；2025-11-06 起月轮，201+）",
+    "batch": "拉美（锚 eletrotecnicasoares BR；2025-02-26 起月轮，13 轮）",
     "to": "eletrotecnicasoares@bol.com.br",
     "price_text": "Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI Price: 170USD/PC",
     "matched": [
@@ -20740,7 +20764,7 @@
     "msg_id": "1a01030ab6b2fbd1",
     "date": "2026-08-17",
     "subject": "24 Port PoE Managed Switch",
-    "batch": "拉美（锚 eletrotecnicasoares BR；2025-11-06 起月轮，201+）",
+    "batch": "拉美（锚 eletrotecnicasoares BR；2025-02-26 起月轮，13 轮）",
     "to": "eletrotecnicasoares@bol.com.br",
     "price_text": "Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI Price: 170USD/PC",
     "matched": [
@@ -20759,7 +20783,7 @@
     "msg_id": "1a01030ab6b2fbd1",
     "date": "2026-08-17",
     "subject": "24 Port PoE Managed Switch",
-    "batch": "拉美（锚 eletrotecnicasoares BR；2025-11-06 起月轮，201+）",
+    "batch": "拉美（锚 eletrotecnicasoares BR；2025-02-26 起月轮，13 轮）",
     "to": "eletrotecnicasoares@bol.com.br",
     "price_text": "Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI Price: 170USD/PC",
     "matched": [
@@ -20776,7 +20800,7 @@
     "msg_id": "1a01030ab6b2fbd1",
     "date": "2026-08-17",
     "subject": "24 Port PoE Managed Switch",
-    "batch": "拉美（锚 eletrotecnicasoares BR；2025-11-06 起月轮，201+）",
+    "batch": "拉美（锚 eletrotecnicasoares BR；2025-02-26 起月轮，13 轮）",
     "to": "eletrotecnicasoares@bol.com.br",
     "price_text": "Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI Price: 170USD/PC",
     "matched": [
@@ -20795,7 +20819,7 @@
     "msg_id": "1a01030ab6b2fbd1",
     "date": "2026-08-17",
     "subject": "24 Port PoE Managed Switch",
-    "batch": "拉美（锚 eletrotecnicasoares BR；2025-11-06 起月轮，201+）",
+    "batch": "拉美（锚 eletrotecnicasoares BR；2025-02-26 起月轮，13 轮）",
     "to": "eletrotecnicasoares@bol.com.br",
     "price_text": "Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI Price: 170USD/PC",
     "matched": [
@@ -20812,7 +20836,7 @@
     "msg_id": "1a01030ab6b2fbd1",
     "date": "2026-08-17",
     "subject": "24 Port PoE Managed Switch",
-    "batch": "拉美（锚 eletrotecnicasoares BR；2025-11-06 起月轮，201+）",
+    "batch": "拉美（锚 eletrotecnicasoares BR；2025-02-26 起月轮，13 轮）",
     "to": "eletrotecnicasoares@bol.com.br",
     "price_text": "Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI Price: 170USD/PC",
     "matched": [
@@ -20829,7 +20853,7 @@
     "msg_id": "1a01030ab6b2fbd1",
     "date": "2026-08-17",
     "subject": "24 Port PoE Managed Switch",
-    "batch": "拉美（锚 eletrotecnicasoares BR；2025-11-06 起月轮，201+）",
+    "batch": "拉美（锚 eletrotecnicasoares BR；2025-02-26 起月轮，13 轮）",
     "to": "eletrotecnicasoares@bol.com.br",
     "price_text": "Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI Price: 170USD/PC",
     "matched": [
@@ -20846,7 +20870,7 @@
     "msg_id": "1a01030ab6b2fbd1",
     "date": "2026-08-17",
     "subject": "24 Port PoE Managed Switch",
-    "batch": "拉美（锚 eletrotecnicasoares BR；2025-11-06 起月轮，201+）",
+    "batch": "拉美（锚 eletrotecnicasoares BR；2025-02-26 起月轮，13 轮）",
     "to": "eletrotecnicasoares@bol.com.br",
     "price_text": "Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI Price: 170USD/PC",
     "matched": [
@@ -20863,7 +20887,7 @@
     "msg_id": "1a01030ab6b2fbd1",
     "date": "2026-08-17",
     "subject": "24 Port PoE Managed Switch",
-    "batch": "拉美（锚 eletrotecnicasoares BR；2025-11-06 起月轮，201+）",
+    "batch": "拉美（锚 eletrotecnicasoares BR；2025-02-26 起月轮，13 轮）",
     "to": "eletrotecnicasoares@bol.com.br",
     "price_text": "Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI Price: 170USD/PC",
     "matched": [
@@ -20880,7 +20904,7 @@
     "msg_id": "1a01030ab6b2fbd1",
     "date": "2026-08-17",
     "subject": "24 Port PoE Managed Switch",
-    "batch": "拉美（锚 eletrotecnicasoares BR；2025-11-06 起月轮，201+）",
+    "batch": "拉美（锚 eletrotecnicasoares BR；2025-02-26 起月轮，13 轮）",
     "to": "eletrotecnicasoares@bol.com.br",
     "price_text": "Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI Price: 170USD/PC",
     "matched": [
@@ -20897,7 +20921,7 @@
     "msg_id": "1a01030ab6b2fbd1",
     "date": "2026-08-17",
     "subject": "24 Port PoE Managed Switch",
-    "batch": "拉美（锚 eletrotecnicasoares BR；2025-11-06 起月轮，201+）",
+    "batch": "拉美（锚 eletrotecnicasoares BR；2025-02-26 起月轮，13 轮）",
     "to": "eletrotecnicasoares@bol.com.br",
     "price_text": "Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI Price: 170USD/PC",
     "matched": [
@@ -20914,7 +20938,7 @@
     "msg_id": "1a01030ab6b2fbd1",
     "date": "2026-08-17",
     "subject": "24 Port PoE Managed Switch",
-    "batch": "拉美（锚 eletrotecnicasoares BR；2025-11-06 起月轮，201+）",
+    "batch": "拉美（锚 eletrotecnicasoares BR；2025-02-26 起月轮，13 轮）",
     "to": "eletrotecnicasoares@bol.com.br",
     "price_text": "Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI Price: 170USD/PC",
     "matched": [
@@ -20931,7 +20955,7 @@
     "msg_id": "1a01030ab6b2fbd1",
     "date": "2026-08-17",
     "subject": "24 Port PoE Managed Switch",
-    "batch": "拉美（锚 eletrotecnicasoares BR；2025-11-06 起月轮，201+）",
+    "batch": "拉美（锚 eletrotecnicasoares BR；2025-02-26 起月轮，13 轮）",
     "to": "eletrotecnicasoares@bol.com.br",
     "price_text": "Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI Price: 170USD/PC",
     "matched": [
@@ -20948,7 +20972,7 @@
     "msg_id": "1a01030ab6b2fbd1",
     "date": "2026-08-17",
     "subject": "24 Port PoE Managed Switch",
-    "batch": "拉美（锚 eletrotecnicasoares BR；2025-11-06 起月轮，201+）",
+    "batch": "拉美（锚 eletrotecnicasoares BR；2025-02-26 起月轮，13 轮）",
     "to": "eletrotecnicasoares@bol.com.br",
     "price_text": "Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI Price: 170USD/PC",
     "matched": [
@@ -20965,7 +20989,7 @@
     "msg_id": "1a01030ab6b2fbd1",
     "date": "2026-08-17",
     "subject": "24 Port PoE Managed Switch",
-    "batch": "拉美（锚 eletrotecnicasoares BR；2025-11-06 起月轮，201+）",
+    "batch": "拉美（锚 eletrotecnicasoares BR；2025-02-26 起月轮，13 轮）",
     "to": "eletrotecnicasoares@bol.com.br",
     "price_text": "Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI Price: 170USD/PC",
     "matched": [
@@ -20983,7 +21007,7 @@
     "msg_id": "1a01030ab6b2fbd1",
     "date": "2026-08-17",
     "subject": "24 Port PoE Managed Switch",
-    "batch": "拉美（锚 eletrotecnicasoares BR；2025-11-06 起月轮，201+）",
+    "batch": "拉美（锚 eletrotecnicasoares BR；2025-02-26 起月轮，13 轮）",
     "to": "eletrotecnicasoares@bol.com.br",
     "price_text": "Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI Price: 170USD/PC",
     "matched": [
@@ -21000,12 +21024,1372 @@
     "msg_id": "1a01030ab6b2fbd1",
     "date": "2026-08-17",
     "subject": "24 Port PoE Managed Switch",
-    "batch": "拉美（锚 eletrotecnicasoares BR；2025-11-06 起月轮，201+）",
+    "batch": "拉美（锚 eletrotecnicasoares BR；2025-02-26 起月轮，13 轮）",
     "to": "eletrotecnicasoares@bol.com.br",
     "price_text": "Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI Price: 170USD/PC",
     "matched": [
      "ingenieria@upkeepservices.com.co",
      "upkeepservices.com.co"
+    ]
+   }
+  ]
+ },
+ "SB-045": {
+  "grade": "B",
+  "name": "tdtorus.ru",
+  "hits": [
+   {
+    "msg_id": "1a03d832440f86d9",
+    "date": "2026-08-26",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "俄罗斯-3（锚 cmd-sec.ru；2025-02-21 起月轮，15 轮）",
+    "to": "sales@cmd-sec.ru",
+    "price_text": "Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI Price: 170USD/PC",
+    "matched": [
+     "sales@tdtorus.ru",
+     "tdtorus.ru"
+    ]
+   },
+   {
+    "msg_id": "19be523b1cac7f03",
+    "date": "2026-01-22",
+    "subject": "OEM Core Switching Solution",
+    "batch": "俄罗斯-3（锚 cmd-sec.ru；2025-02-21 起月轮，15 轮）",
+    "to": "sales@cmd-sec.ru",
+    "price_text": "Hi, How are you? I am introducing our CENTEC-based core and aggregation switches. 1, A cost-effective alternative to Cisco or Huawei models 2, Multiple models(10G~800G) available for various network",
+    "matched": [
+     "sales@tdtorus.ru",
+     "tdtorus.ru"
+    ]
+   }
+  ]
+ },
+ "SB-1006": {
+  "grade": "B",
+  "name": "trassir.ru",
+  "hits": [
+   {
+    "msg_id": "1a03d832440f86d9",
+    "date": "2026-08-26",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "俄罗斯-3（锚 cmd-sec.ru；2025-02-21 起月轮，15 轮）",
+    "to": "sales@cmd-sec.ru",
+    "price_text": "Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI Price: 170USD/PC",
+    "matched": [
+     "in@trassir.ru",
+     "trassir.ru"
+    ]
+   },
+   {
+    "msg_id": "19be523b1cac7f03",
+    "date": "2026-01-22",
+    "subject": "OEM Core Switching Solution",
+    "batch": "俄罗斯-3（锚 cmd-sec.ru；2025-02-21 起月轮，15 轮）",
+    "to": "sales@cmd-sec.ru",
+    "price_text": "Hi, How are you? I am introducing our CENTEC-based core and aggregation switches. 1, A cost-effective alternative to Cisco or Huawei models 2, Multiple models(10G~800G) available for various network",
+    "matched": [
+     "in@trassir.ru",
+     "trassir.ru"
+    ]
+   }
+  ]
+ },
+ "SB-1011": {
+  "grade": "B",
+  "name": "xvi.ru",
+  "hits": [
+   {
+    "msg_id": "1a03d832440f86d9",
+    "date": "2026-08-26",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "俄罗斯-3（锚 cmd-sec.ru；2025-02-21 起月轮，15 轮）",
+    "to": "sales@cmd-sec.ru",
+    "price_text": "Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI Price: 170USD/PC",
+    "matched": [
+     "dexi.ru",
+     "sales@dexi.ru"
+    ]
+   },
+   {
+    "msg_id": "19be523b1cac7f03",
+    "date": "2026-01-22",
+    "subject": "OEM Core Switching Solution",
+    "batch": "俄罗斯-3（锚 cmd-sec.ru；2025-02-21 起月轮，15 轮）",
+    "to": "sales@cmd-sec.ru",
+    "price_text": "Hi, How are you? I am introducing our CENTEC-based core and aggregation switches. 1, A cost-effective alternative to Cisco or Huawei models 2, Multiple models(10G~800G) available for various network",
+    "matched": [
+     "dexi.ru",
+     "sales@dexi.ru"
+    ]
+   }
+  ]
+ },
+ "SB-930": {
+  "grade": "B",
+  "name": "Optimus",
+  "hits": [
+   {
+    "msg_id": "1a03d832440f86d9",
+    "date": "2026-08-26",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "俄罗斯-3（锚 cmd-sec.ru；2025-02-21 起月轮，15 轮）",
+    "to": "sales@cmd-sec.ru",
+    "price_text": "Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI Price: 170USD/PC",
+    "matched": [
+     "optimus-cctv.ru",
+     "sales@optimus-cctv.ru"
+    ]
+   },
+   {
+    "msg_id": "19be523b1cac7f03",
+    "date": "2026-01-22",
+    "subject": "OEM Core Switching Solution",
+    "batch": "俄罗斯-3（锚 cmd-sec.ru；2025-02-21 起月轮，15 轮）",
+    "to": "sales@cmd-sec.ru",
+    "price_text": "Hi, How are you? I am introducing our CENTEC-based core and aggregation switches. 1, A cost-effective alternative to Cisco or Huawei models 2, Multiple models(10G~800G) available for various network",
+    "matched": [
+     "optimus-cctv.ru",
+     "sales@optimus-cctv.ru"
+    ]
+   },
+   {
+    "msg_id": "1a03cf9d14adefe7",
+    "date": "2026-08-26",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "俄罗斯-4（锚 soyuzsp.ru；2025-02-20 起月轮，13 轮）",
+    "to": "sales@soyuzsp.ru",
+    "price_text": "Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI Price: 170USD/PC",
+    "matched": [
+     "optimus-cctv.ru",
+     "sales@optimus-cctv.ru"
+    ]
+   },
+   {
+    "msg_id": "19b20b39b421f4ce",
+    "date": "2025-12-15",
+    "subject": "Booster PoE Switch",
+    "batch": "俄罗斯-4（锚 soyuzsp.ru；2025-02-20 起月轮，13 轮）",
+    "to": "sales@soyuzsp.ru",
+    "price_text": "Hi, How are you? This is about our Marvell based managed switch with power boosting feature. 1, Fiber: 4*100M/1G/2.5G/10G 2, Copper: 8*1G RJ45/PoE, max 240W budget 3, DC12-54V Booster to 54V 4, Support",
+    "matched": [
+     "optimus-cctv.ru",
+     "sales@optimus-cctv.ru"
+    ]
+   }
+  ]
+ },
+ "SB-970": {
+  "grade": "B",
+  "name": "cmd-sec.ru",
+  "hits": [
+   {
+    "msg_id": "1a03d832440f86d9",
+    "date": "2026-08-26",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "俄罗斯-3（锚 cmd-sec.ru；2025-02-21 起月轮，15 轮）",
+    "to": "sales@cmd-sec.ru",
+    "price_text": "Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI Price: 170USD/PC",
+    "matched": [
+     "cmd-sec.ru",
+     "sales@cmd-sec.ru"
+    ]
+   },
+   {
+    "msg_id": "19be523b1cac7f03",
+    "date": "2026-01-22",
+    "subject": "OEM Core Switching Solution",
+    "batch": "俄罗斯-3（锚 cmd-sec.ru；2025-02-21 起月轮，15 轮）",
+    "to": "sales@cmd-sec.ru",
+    "price_text": "Hi, How are you? I am introducing our CENTEC-based core and aggregation switches. 1, A cost-effective alternative to Cisco or Huawei models 2, Multiple models(10G~800G) available for various network",
+    "matched": [
+     "cmd-sec.ru",
+     "sales@cmd-sec.ru"
+    ]
+   }
+  ]
+ },
+ "SB-982": {
+  "grade": "C",
+  "name": "iptronic.ru",
+  "hits": [
+   {
+    "msg_id": "1a03d832440f86d9",
+    "date": "2026-08-26",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "俄罗斯-3（锚 cmd-sec.ru；2025-02-21 起月轮，15 轮）",
+    "to": "sales@cmd-sec.ru",
+    "price_text": "Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI Price: 170USD/PC",
+    "matched": [
+     "info@iptronic.ru",
+     "iptronic.ru"
+    ]
+   },
+   {
+    "msg_id": "19be523b1cac7f03",
+    "date": "2026-01-22",
+    "subject": "OEM Core Switching Solution",
+    "batch": "俄罗斯-3（锚 cmd-sec.ru；2025-02-21 起月轮，15 轮）",
+    "to": "sales@cmd-sec.ru",
+    "price_text": "Hi, How are you? I am introducing our CENTEC-based core and aggregation switches. 1, A cost-effective alternative to Cisco or Huawei models 2, Multiple models(10G~800G) available for various network",
+    "matched": [
+     "info@iptronic.ru",
+     "iptronic.ru"
+    ]
+   }
+  ]
+ },
+ "SB-985": {
+  "grade": "B",
+  "name": "keno-cctv.ru",
+  "hits": [
+   {
+    "msg_id": "1a03d832440f86d9",
+    "date": "2026-08-26",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "俄罗斯-3（锚 cmd-sec.ru；2025-02-21 起月轮，15 轮）",
+    "to": "sales@cmd-sec.ru",
+    "price_text": "Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI Price: 170USD/PC",
+    "matched": [
+     "info@keno-cctv.ru",
+     "keno-cctv.ru"
+    ]
+   },
+   {
+    "msg_id": "19be523b1cac7f03",
+    "date": "2026-01-22",
+    "subject": "OEM Core Switching Solution",
+    "batch": "俄罗斯-3（锚 cmd-sec.ru；2025-02-21 起月轮，15 轮）",
+    "to": "sales@cmd-sec.ru",
+    "price_text": "Hi, How are you? I am introducing our CENTEC-based core and aggregation switches. 1, A cost-effective alternative to Cisco or Huawei models 2, Multiple models(10G~800G) available for various network",
+    "matched": [
+     "info@keno-cctv.ru",
+     "keno-cctv.ru"
+    ]
+   },
+   {
+    "msg_id": "1a03cf9d14adefe7",
+    "date": "2026-08-26",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "俄罗斯-4（锚 soyuzsp.ru；2025-02-20 起月轮，13 轮）",
+    "to": "sales@soyuzsp.ru",
+    "price_text": "Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI Price: 170USD/PC",
+    "matched": [
+     "info@keno-cctv.ru",
+     "keno-cctv.ru"
+    ]
+   },
+   {
+    "msg_id": "19b20b39b421f4ce",
+    "date": "2025-12-15",
+    "subject": "Booster PoE Switch",
+    "batch": "俄罗斯-4（锚 soyuzsp.ru；2025-02-20 起月轮，13 轮）",
+    "to": "sales@soyuzsp.ru",
+    "price_text": "Hi, How are you? This is about our Marvell based managed switch with power boosting feature. 1, Fiber: 4*100M/1G/2.5G/10G 2, Copper: 8*1G RJ45/PoE, max 240W budget 3, DC12-54V Booster to 54V 4, Support",
+    "matched": [
+     "info@keno-cctv.ru",
+     "keno-cctv.ru"
+    ]
+   }
+  ]
+ },
+ "SC-1237": {
+  "grade": "C",
+  "name": "Synertau LLC",
+  "hits": [
+   {
+    "msg_id": "1a03d832440f86d9",
+    "date": "2026-08-26",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "俄罗斯-3（锚 cmd-sec.ru；2025-02-21 起月轮，15 轮）",
+    "to": "sales@cmd-sec.ru",
+    "price_text": "Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI Price: 170USD/PC",
+    "matched": [
+     "bdn@ipboom.ru",
+     "ipboom.ru"
+    ]
+   },
+   {
+    "msg_id": "19be523b1cac7f03",
+    "date": "2026-01-22",
+    "subject": "OEM Core Switching Solution",
+    "batch": "俄罗斯-3（锚 cmd-sec.ru；2025-02-21 起月轮，15 轮）",
+    "to": "sales@cmd-sec.ru",
+    "price_text": "Hi, How are you? I am introducing our CENTEC-based core and aggregation switches. 1, A cost-effective alternative to Cisco or Huawei models 2, Multiple models(10G~800G) available for various network",
+    "matched": [
+     "bdn@ipboom.ru",
+     "ipboom.ru"
+    ]
+   }
+  ]
+ },
+ "SC-448": {
+  "grade": "C",
+  "name": "angareyon.ru",
+  "hits": [
+   {
+    "msg_id": "1a03d832440f86d9",
+    "date": "2026-08-26",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "俄罗斯-3（锚 cmd-sec.ru；2025-02-21 起月轮，15 轮）",
+    "to": "sales@cmd-sec.ru",
+    "price_text": "Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI Price: 170USD/PC",
+    "matched": [
+     "angareyon.ru",
+     "info@angareyon.ru"
+    ]
+   },
+   {
+    "msg_id": "19be523b1cac7f03",
+    "date": "2026-01-22",
+    "subject": "OEM Core Switching Solution",
+    "batch": "俄罗斯-3（锚 cmd-sec.ru；2025-02-21 起月轮，15 轮）",
+    "to": "sales@cmd-sec.ru",
+    "price_text": "Hi, How are you? I am introducing our CENTEC-based core and aggregation switches. 1, A cost-effective alternative to Cisco or Huawei models 2, Multiple models(10G~800G) available for various network",
+    "matched": [
+     "angareyon.ru",
+     "info@angareyon.ru"
+    ]
+   }
+  ]
+ },
+ "SC-461": {
+  "grade": "C",
+  "name": "avant.by",
+  "hits": [
+   {
+    "msg_id": "1a03d832440f86d9",
+    "date": "2026-08-26",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "俄罗斯-3（锚 cmd-sec.ru；2025-02-21 起月轮，15 轮）",
+    "to": "sales@cmd-sec.ru",
+    "price_text": "Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI Price: 170USD/PC",
+    "matched": [
+     "avant.by",
+     "office@avant.by"
+    ]
+   },
+   {
+    "msg_id": "19be523b1cac7f03",
+    "date": "2026-01-22",
+    "subject": "OEM Core Switching Solution",
+    "batch": "俄罗斯-3（锚 cmd-sec.ru；2025-02-21 起月轮，15 轮）",
+    "to": "sales@cmd-sec.ru",
+    "price_text": "Hi, How are you? I am introducing our CENTEC-based core and aggregation switches. 1, A cost-effective alternative to Cisco or Huawei models 2, Multiple models(10G~800G) available for various network",
+    "matched": [
+     "avant.by",
+     "office@avant.by"
+    ]
+   }
+  ]
+ },
+ "SC-466": {
+  "grade": "C",
+  "name": "bast.ru",
+  "hits": [
+   {
+    "msg_id": "1a03d832440f86d9",
+    "date": "2026-08-26",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "俄罗斯-3（锚 cmd-sec.ru；2025-02-21 起月轮，15 轮）",
+    "to": "sales@cmd-sec.ru",
+    "price_text": "Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI Price: 170USD/PC",
+    "matched": [
+     "bast.ru",
+     "sales@bast.ru"
+    ]
+   },
+   {
+    "msg_id": "19be523b1cac7f03",
+    "date": "2026-01-22",
+    "subject": "OEM Core Switching Solution",
+    "batch": "俄罗斯-3（锚 cmd-sec.ru；2025-02-21 起月轮，15 轮）",
+    "to": "sales@cmd-sec.ru",
+    "price_text": "Hi, How are you? I am introducing our CENTEC-based core and aggregation switches. 1, A cost-effective alternative to Cisco or Huawei models 2, Multiple models(10G~800G) available for various network",
+    "matched": [
+     "bast.ru",
+     "sales@bast.ru"
+    ]
+   }
+  ]
+ },
+ "SC-468": {
+  "grade": "C",
+  "name": "bic-inform.ru",
+  "hits": [
+   {
+    "msg_id": "1a03d832440f86d9",
+    "date": "2026-08-26",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "俄罗斯-3（锚 cmd-sec.ru；2025-02-21 起月轮，15 轮）",
+    "to": "sales@cmd-sec.ru",
+    "price_text": "Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI Price: 170USD/PC",
+    "matched": [
+     "bic-inform.ru",
+     "bic@bic-inform.ru",
+     "msk@bic-inform.ru"
+    ]
+   },
+   {
+    "msg_id": "19be523b1cac7f03",
+    "date": "2026-01-22",
+    "subject": "OEM Core Switching Solution",
+    "batch": "俄罗斯-3（锚 cmd-sec.ru；2025-02-21 起月轮，15 轮）",
+    "to": "sales@cmd-sec.ru",
+    "price_text": "Hi, How are you? I am introducing our CENTEC-based core and aggregation switches. 1, A cost-effective alternative to Cisco or Huawei models 2, Multiple models(10G~800G) available for various network",
+    "matched": [
+     "bic-inform.ru",
+     "bic@bic-inform.ru",
+     "msk@bic-inform.ru"
+    ]
+   }
+  ]
+ },
+ "SC-511": {
+  "grade": "C",
+  "name": "domofonn.ru",
+  "hits": [
+   {
+    "msg_id": "1a03d832440f86d9",
+    "date": "2026-08-26",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "俄罗斯-3（锚 cmd-sec.ru；2025-02-21 起月轮，15 轮）",
+    "to": "sales@cmd-sec.ru",
+    "price_text": "Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI Price: 170USD/PC",
+    "matched": [
+     "domofonn.ru",
+     "info@domofonn.ru"
+    ]
+   },
+   {
+    "msg_id": "19be523b1cac7f03",
+    "date": "2026-01-22",
+    "subject": "OEM Core Switching Solution",
+    "batch": "俄罗斯-3（锚 cmd-sec.ru；2025-02-21 起月轮，15 轮）",
+    "to": "sales@cmd-sec.ru",
+    "price_text": "Hi, How are you? I am introducing our CENTEC-based core and aggregation switches. 1, A cost-effective alternative to Cisco or Huawei models 2, Multiple models(10G~800G) available for various network",
+    "matched": [
+     "domofonn.ru",
+     "info@domofonn.ru"
+    ]
+   }
+  ]
+ },
+ "SC-566": {
+  "grade": "C",
+  "name": "idom25.ru",
+  "hits": [
+   {
+    "msg_id": "1a03d832440f86d9",
+    "date": "2026-08-26",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "俄罗斯-3（锚 cmd-sec.ru；2025-02-21 起月轮，15 轮）",
+    "to": "sales@cmd-sec.ru",
+    "price_text": "Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI Price: 170USD/PC",
+    "matched": [
+     "idom25.ru",
+     "info@idom25.ru"
+    ]
+   },
+   {
+    "msg_id": "19be523b1cac7f03",
+    "date": "2026-01-22",
+    "subject": "OEM Core Switching Solution",
+    "batch": "俄罗斯-3（锚 cmd-sec.ru；2025-02-21 起月轮，15 轮）",
+    "to": "sales@cmd-sec.ru",
+    "price_text": "Hi, How are you? I am introducing our CENTEC-based core and aggregation switches. 1, A cost-effective alternative to Cisco or Huawei models 2, Multiple models(10G~800G) available for various network",
+    "matched": [
+     "idom25.ru",
+     "info@idom25.ru"
+    ]
+   }
+  ]
+ },
+ "SC-567": {
+  "grade": "C",
+  "name": "iie.ai",
+  "hits": [
+   {
+    "msg_id": "1a03d832440f86d9",
+    "date": "2026-08-26",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "俄罗斯-3（锚 cmd-sec.ru；2025-02-21 起月轮，15 轮）",
+    "to": "sales@cmd-sec.ru",
+    "price_text": "Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI Price: 170USD/PC",
+    "matched": [
+     "hello@iie.ai",
+     "iie.ai"
+    ]
+   },
+   {
+    "msg_id": "19be523b1cac7f03",
+    "date": "2026-01-22",
+    "subject": "OEM Core Switching Solution",
+    "batch": "俄罗斯-3（锚 cmd-sec.ru；2025-02-21 起月轮，15 轮）",
+    "to": "sales@cmd-sec.ru",
+    "price_text": "Hi, How are you? I am introducing our CENTEC-based core and aggregation switches. 1, A cost-effective alternative to Cisco or Huawei models 2, Multiple models(10G~800G) available for various network",
+    "matched": [
+     "hello@iie.ai",
+     "iie.ai"
+    ]
+   }
+  ]
+ },
+ "SC-615": {
+  "grade": "C",
+  "name": "mistercom.ru",
+  "hits": [
+   {
+    "msg_id": "1a03d832440f86d9",
+    "date": "2026-08-26",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "俄罗斯-3（锚 cmd-sec.ru；2025-02-21 起月轮，15 轮）",
+    "to": "sales@cmd-sec.ru",
+    "price_text": "Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI Price: 170USD/PC",
+    "matched": [
+     "info@mistercom.ru",
+     "mistercom.ru"
+    ]
+   },
+   {
+    "msg_id": "19be523b1cac7f03",
+    "date": "2026-01-22",
+    "subject": "OEM Core Switching Solution",
+    "batch": "俄罗斯-3（锚 cmd-sec.ru；2025-02-21 起月轮，15 轮）",
+    "to": "sales@cmd-sec.ru",
+    "price_text": "Hi, How are you? I am introducing our CENTEC-based core and aggregation switches. 1, A cost-effective alternative to Cisco or Huawei models 2, Multiple models(10G~800G) available for various network",
+    "matched": [
+     "info@mistercom.ru",
+     "mistercom.ru"
+    ]
+   }
+  ]
+ },
+ "SC-690": {
+  "grade": "C",
+  "name": "security59.ru",
+  "hits": [
+   {
+    "msg_id": "1a03d832440f86d9",
+    "date": "2026-08-26",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "俄罗斯-3（锚 cmd-sec.ru；2025-02-21 起月轮，15 轮）",
+    "to": "sales@cmd-sec.ru",
+    "price_text": "Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI Price: 170USD/PC",
+    "matched": [
+     "info@security59.ru",
+     "security59.ru"
+    ]
+   },
+   {
+    "msg_id": "19be523b1cac7f03",
+    "date": "2026-01-22",
+    "subject": "OEM Core Switching Solution",
+    "batch": "俄罗斯-3（锚 cmd-sec.ru；2025-02-21 起月轮，15 轮）",
+    "to": "sales@cmd-sec.ru",
+    "price_text": "Hi, How are you? I am introducing our CENTEC-based core and aggregation switches. 1, A cost-effective alternative to Cisco or Huawei models 2, Multiple models(10G~800G) available for various network",
+    "matched": [
+     "info@security59.ru",
+     "security59.ru"
+    ]
+   }
+  ]
+ },
+ "SC-697": {
+  "grade": "C",
+  "name": "skyros.ru",
+  "hits": [
+   {
+    "msg_id": "1a03d832440f86d9",
+    "date": "2026-08-26",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "俄罗斯-3（锚 cmd-sec.ru；2025-02-21 起月轮，15 轮）",
+    "to": "sales@cmd-sec.ru",
+    "price_text": "Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI Price: 170USD/PC",
+    "matched": [
+     "sales@skyros.ru",
+     "skyros.ru"
+    ]
+   },
+   {
+    "msg_id": "19be523b1cac7f03",
+    "date": "2026-01-22",
+    "subject": "OEM Core Switching Solution",
+    "batch": "俄罗斯-3（锚 cmd-sec.ru；2025-02-21 起月轮，15 轮）",
+    "to": "sales@cmd-sec.ru",
+    "price_text": "Hi, How are you? I am introducing our CENTEC-based core and aggregation switches. 1, A cost-effective alternative to Cisco or Huawei models 2, Multiple models(10G~800G) available for various network",
+    "matched": [
+     "sales@skyros.ru",
+     "skyros.ru"
+    ]
+   }
+  ]
+ },
+ "SC-720": {
+  "grade": "C",
+  "name": "tfortis.ru",
+  "hits": [
+   {
+    "msg_id": "1a03d832440f86d9",
+    "date": "2026-08-26",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "俄罗斯-3（锚 cmd-sec.ru；2025-02-21 起月轮，15 轮）",
+    "to": "sales@cmd-sec.ru",
+    "price_text": "Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI Price: 170USD/PC",
+    "matched": [
+     "braun@fort-telecom.ru",
+     "cd@fort-telecom.ru",
+     "fort-telecom.ru",
+     "leonid@fort-telecom.ru",
+     "oa@fort-telecom.ru",
+     "tfortis@fort-telecom.ru"
+    ]
+   },
+   {
+    "msg_id": "19be523b1cac7f03",
+    "date": "2026-01-22",
+    "subject": "OEM Core Switching Solution",
+    "batch": "俄罗斯-3（锚 cmd-sec.ru；2025-02-21 起月轮，15 轮）",
+    "to": "sales@cmd-sec.ru",
+    "price_text": "Hi, How are you? I am introducing our CENTEC-based core and aggregation switches. 1, A cost-effective alternative to Cisco or Huawei models 2, Multiple models(10G~800G) available for various network",
+    "matched": [
+     "braun@fort-telecom.ru",
+     "cd@fort-telecom.ru",
+     "fort-telecom.ru",
+     "leonid@fort-telecom.ru",
+     "oa@fort-telecom.ru",
+     "tfortis@fort-telecom.ru"
+    ]
+   }
+  ]
+ },
+ "SC-745": {
+  "grade": "C",
+  "name": "vipaks.ru",
+  "hits": [
+   {
+    "msg_id": "1a03d832440f86d9",
+    "date": "2026-08-26",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "俄罗斯-3（锚 cmd-sec.ru；2025-02-21 起月轮，15 轮）",
+    "to": "sales@cmd-sec.ru",
+    "price_text": "Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI Price: 170USD/PC",
+    "matched": [
+     "info@vipaks.ru",
+     "vipaks.ru"
+    ]
+   },
+   {
+    "msg_id": "19be523b1cac7f03",
+    "date": "2026-01-22",
+    "subject": "OEM Core Switching Solution",
+    "batch": "俄罗斯-3（锚 cmd-sec.ru；2025-02-21 起月轮，15 轮）",
+    "to": "sales@cmd-sec.ru",
+    "price_text": "Hi, How are you? I am introducing our CENTEC-based core and aggregation switches. 1, A cost-effective alternative to Cisco or Huawei models 2, Multiple models(10G~800G) available for various network",
+    "matched": [
+     "info@vipaks.ru",
+     "vipaks.ru"
+    ]
+   }
+  ]
+ },
+ "SC-455": {
+  "grade": "C",
+  "name": "armosystems.ru",
+  "hits": [
+   {
+    "msg_id": "19be523b1cac7f03",
+    "date": "2026-01-22",
+    "subject": "OEM Core Switching Solution",
+    "batch": "俄罗斯-3（锚 cmd-sec.ru；2025-02-21 起月轮，15 轮）",
+    "to": "sales@cmd-sec.ru",
+    "price_text": "Hi, How are you? I am introducing our CENTEC-based core and aggregation switches. 1, A cost-effective alternative to Cisco or Huawei models 2, Multiple models(10G~800G) available for various network",
+    "matched": [
+     "anna@armo.ru",
+     "armo.ru",
+     "armosystems@armo.ru",
+     "lon@armo.ru"
+    ]
+   }
+  ]
+ },
+ "SB-980": {
+  "grade": "B",
+  "name": "hunter-cctv.ru",
+  "hits": [
+   {
+    "msg_id": "1a03cf9d14adefe7",
+    "date": "2026-08-26",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "俄罗斯-4（锚 soyuzsp.ru；2025-02-20 起月轮，13 轮）",
+    "to": "sales@soyuzsp.ru",
+    "price_text": "Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI Price: 170USD/PC",
+    "matched": [
+     "hunter-cctv.ru",
+     "info@hunter-cctv.ru"
+    ]
+   },
+   {
+    "msg_id": "19b20b39b421f4ce",
+    "date": "2025-12-15",
+    "subject": "Booster PoE Switch",
+    "batch": "俄罗斯-4（锚 soyuzsp.ru；2025-02-20 起月轮，13 轮）",
+    "to": "sales@soyuzsp.ru",
+    "price_text": "Hi, How are you? This is about our Marvell based managed switch with power boosting feature. 1, Fiber: 4*100M/1G/2.5G/10G 2, Copper: 8*1G RJ45/PoE, max 240W budget 3, DC12-54V Booster to 54V 4, Support",
+    "matched": [
+     "hunter-cctv.ru",
+     "info@hunter-cctv.ru"
+    ]
+   }
+  ]
+ },
+ "SB-997": {
+  "grade": "B",
+  "name": "polyvision.ru",
+  "hits": [
+   {
+    "msg_id": "1a03cf9d14adefe7",
+    "date": "2026-08-26",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "俄罗斯-4（锚 soyuzsp.ru；2025-02-20 起月轮，13 轮）",
+    "to": "sales@soyuzsp.ru",
+    "price_text": "Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI Price: 170USD/PC",
+    "matched": [
+     "info@polyvision.ru",
+     "polyvision.ru"
+    ]
+   },
+   {
+    "msg_id": "19b20b39b421f4ce",
+    "date": "2025-12-15",
+    "subject": "Booster PoE Switch",
+    "batch": "俄罗斯-4（锚 soyuzsp.ru；2025-02-20 起月轮，13 轮）",
+    "to": "sales@soyuzsp.ru",
+    "price_text": "Hi, How are you? This is about our Marvell based managed switch with power boosting feature. 1, Fiber: 4*100M/1G/2.5G/10G 2, Copper: 8*1G RJ45/PoE, max 240W budget 3, DC12-54V Booster to 54V 4, Support",
+    "matched": [
+     "info@polyvision.ru",
+     "polyvision.ru"
+    ]
+   }
+  ]
+ },
+ "SC-1275": {
+  "grade": "C",
+  "name": "manggis.kz",
+  "hits": [
+   {
+    "msg_id": "1a03cf9d14adefe7",
+    "date": "2026-08-26",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "俄罗斯-4（锚 soyuzsp.ru；2025-02-20 起月轮，13 轮）",
+    "to": "sales@soyuzsp.ru",
+    "price_text": "Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI Price: 170USD/PC",
+    "matched": [
+     "info@manggis.kz",
+     "manggis.kz"
+    ]
+   },
+   {
+    "msg_id": "19b20b39b421f4ce",
+    "date": "2025-12-15",
+    "subject": "Booster PoE Switch",
+    "batch": "俄罗斯-4（锚 soyuzsp.ru；2025-02-20 起月轮，13 轮）",
+    "to": "sales@soyuzsp.ru",
+    "price_text": "Hi, How are you? This is about our Marvell based managed switch with power boosting feature. 1, Fiber: 4*100M/1G/2.5G/10G 2, Copper: 8*1G RJ45/PoE, max 240W budget 3, DC12-54V Booster to 54V 4, Support",
+    "matched": [
+     "info@manggis.kz",
+     "manggis.kz"
+    ]
+   }
+  ]
+ },
+ "SC-1289": {
+  "grade": "C",
+  "name": "plcontroller.ru",
+  "hits": [
+   {
+    "msg_id": "1a03cf9d14adefe7",
+    "date": "2026-08-26",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "俄罗斯-4（锚 soyuzsp.ru；2025-02-20 起月轮，13 轮）",
+    "to": "sales@soyuzsp.ru",
+    "price_text": "Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI Price: 170USD/PC",
+    "matched": [
+     "plcontroller.ru",
+     "sales@plcontroller.ru"
+    ]
+   },
+   {
+    "msg_id": "19b20b39b421f4ce",
+    "date": "2025-12-15",
+    "subject": "Booster PoE Switch",
+    "batch": "俄罗斯-4（锚 soyuzsp.ru；2025-02-20 起月轮，13 轮）",
+    "to": "sales@soyuzsp.ru",
+    "price_text": "Hi, How are you? This is about our Marvell based managed switch with power boosting feature. 1, Fiber: 4*100M/1G/2.5G/10G 2, Copper: 8*1G RJ45/PoE, max 240W budget 3, DC12-54V Booster to 54V 4, Support",
+    "matched": [
+     "plcontroller.ru",
+     "sales@plcontroller.ru"
+    ]
+   }
+  ]
+ },
+ "SC-1290": {
+  "grade": "C",
+  "name": "powervideo.ru",
+  "hits": [
+   {
+    "msg_id": "1a03cf9d14adefe7",
+    "date": "2026-08-26",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "俄罗斯-4（锚 soyuzsp.ru；2025-02-20 起月轮，13 轮）",
+    "to": "sales@soyuzsp.ru",
+    "price_text": "Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI Price: 170USD/PC",
+    "matched": [
+     "office@powervideo.ru",
+     "powervideo.ru"
+    ]
+   },
+   {
+    "msg_id": "19b20b39b421f4ce",
+    "date": "2025-12-15",
+    "subject": "Booster PoE Switch",
+    "batch": "俄罗斯-4（锚 soyuzsp.ru；2025-02-20 起月轮，13 轮）",
+    "to": "sales@soyuzsp.ru",
+    "price_text": "Hi, How are you? This is about our Marvell based managed switch with power boosting feature. 1, Fiber: 4*100M/1G/2.5G/10G 2, Copper: 8*1G RJ45/PoE, max 240W budget 3, DC12-54V Booster to 54V 4, Support",
+    "matched": [
+     "office@powervideo.ru",
+     "powervideo.ru"
+    ]
+   }
+  ]
+ },
+ "SC-1299": {
+  "grade": "C",
+  "name": "skomplekt.com",
+  "hits": [
+   {
+    "msg_id": "1a03cf9d14adefe7",
+    "date": "2026-08-26",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "俄罗斯-4（锚 soyuzsp.ru；2025-02-20 起月轮，13 轮）",
+    "to": "sales@soyuzsp.ru",
+    "price_text": "Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI Price: 170USD/PC",
+    "matched": [
+     "info@skomplekt.com",
+     "skomplekt.com"
+    ]
+   },
+   {
+    "msg_id": "19b20b39b421f4ce",
+    "date": "2025-12-15",
+    "subject": "Booster PoE Switch",
+    "batch": "俄罗斯-4（锚 soyuzsp.ru；2025-02-20 起月轮，13 轮）",
+    "to": "sales@soyuzsp.ru",
+    "price_text": "Hi, How are you? This is about our Marvell based managed switch with power boosting feature. 1, Fiber: 4*100M/1G/2.5G/10G 2, Copper: 8*1G RJ45/PoE, max 240W budget 3, DC12-54V Booster to 54V 4, Support",
+    "matched": [
+     "info@skomplekt.com",
+     "skomplekt.com"
+    ]
+   }
+  ]
+ },
+ "SC-2601": {
+  "grade": "C",
+  "name": "snr.systems",
+  "hits": [
+   {
+    "msg_id": "1a03cf9d14adefe7",
+    "date": "2026-08-26",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "俄罗斯-4（锚 soyuzsp.ru；2025-02-20 起月轮，13 轮）",
+    "to": "sales@soyuzsp.ru",
+    "price_text": "Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI Price: 170USD/PC",
+    "matched": [
+     "request@snr.systems",
+     "snr.systems"
+    ]
+   },
+   {
+    "msg_id": "19b20b39b421f4ce",
+    "date": "2025-12-15",
+    "subject": "Booster PoE Switch",
+    "batch": "俄罗斯-4（锚 soyuzsp.ru；2025-02-20 起月轮，13 轮）",
+    "to": "sales@soyuzsp.ru",
+    "price_text": "Hi, How are you? This is about our Marvell based managed switch with power boosting feature. 1, Fiber: 4*100M/1G/2.5G/10G 2, Copper: 8*1G RJ45/PoE, max 240W budget 3, DC12-54V Booster to 54V 4, Support",
+    "matched": [
+     "request@snr.systems",
+     "snr.systems"
+    ]
+   }
+  ]
+ },
+ "SC-2605": {
+  "grade": "C",
+  "name": "ST SPACE TECHNOLOGY",
+  "hits": [
+   {
+    "msg_id": "1a03cf9d14adefe7",
+    "date": "2026-08-26",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "俄罗斯-4（锚 soyuzsp.ru；2025-02-20 起月轮，13 轮）",
+    "to": "sales@soyuzsp.ru",
+    "price_text": "Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI Price: 170USD/PC",
+    "matched": [
+     "info@st-tm.ru",
+     "st-tm.ru"
+    ]
+   },
+   {
+    "msg_id": "19b20b39b421f4ce",
+    "date": "2025-12-15",
+    "subject": "Booster PoE Switch",
+    "batch": "俄罗斯-4（锚 soyuzsp.ru；2025-02-20 起月轮，13 轮）",
+    "to": "sales@soyuzsp.ru",
+    "price_text": "Hi, How are you? This is about our Marvell based managed switch with power boosting feature. 1, Fiber: 4*100M/1G/2.5G/10G 2, Copper: 8*1G RJ45/PoE, max 240W budget 3, DC12-54V Booster to 54V 4, Support",
+    "matched": [
+     "info@st-tm.ru",
+     "st-tm.ru"
+    ]
+   }
+  ]
+ },
+ "SC-439": {
+  "grade": "C",
+  "name": "aladis.ru",
+  "hits": [
+   {
+    "msg_id": "1a03cf9d14adefe7",
+    "date": "2026-08-26",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "俄罗斯-4（锚 soyuzsp.ru；2025-02-20 起月轮，13 轮）",
+    "to": "sales@soyuzsp.ru",
+    "price_text": "Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI Price: 170USD/PC",
+    "matched": [
+     "aladis.ru",
+     "sales@aladis.ru"
+    ]
+   },
+   {
+    "msg_id": "19b20b39b421f4ce",
+    "date": "2025-12-15",
+    "subject": "Booster PoE Switch",
+    "batch": "俄罗斯-4（锚 soyuzsp.ru；2025-02-20 起月轮，13 轮）",
+    "to": "sales@soyuzsp.ru",
+    "price_text": "Hi, How are you? This is about our Marvell based managed switch with power boosting feature. 1, Fiber: 4*100M/1G/2.5G/10G 2, Copper: 8*1G RJ45/PoE, max 240W budget 3, DC12-54V Booster to 54V 4, Support",
+    "matched": [
+     "aladis.ru",
+     "sales@aladis.ru"
+    ]
+   }
+  ]
+ },
+ "SC-444": {
+  "grade": "C",
+  "name": "alichecker.info",
+  "hits": [
+   {
+    "msg_id": "1a03cf9d14adefe7",
+    "date": "2026-08-26",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "俄罗斯-4（锚 soyuzsp.ru；2025-02-20 起月轮，13 轮）",
+    "to": "sales@soyuzsp.ru",
+    "price_text": "Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI Price: 170USD/PC",
+    "matched": [
+     "alichecker.info",
+     "request@alichecker.info"
+    ]
+   },
+   {
+    "msg_id": "19b20b39b421f4ce",
+    "date": "2025-12-15",
+    "subject": "Booster PoE Switch",
+    "batch": "俄罗斯-4（锚 soyuzsp.ru；2025-02-20 起月轮，13 轮）",
+    "to": "sales@soyuzsp.ru",
+    "price_text": "Hi, How are you? This is about our Marvell based managed switch with power boosting feature. 1, Fiber: 4*100M/1G/2.5G/10G 2, Copper: 8*1G RJ45/PoE, max 240W budget 3, DC12-54V Booster to 54V 4, Support",
+    "matched": [
+     "alichecker.info",
+     "request@alichecker.info"
+    ]
+   }
+  ]
+ },
+ "SC-449": {
+  "grade": "C",
+  "name": "angtel.ru",
+  "hits": [
+   {
+    "msg_id": "1a03cf9d14adefe7",
+    "date": "2026-08-26",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "俄罗斯-4（锚 soyuzsp.ru；2025-02-20 起月轮，13 轮）",
+    "to": "sales@soyuzsp.ru",
+    "price_text": "Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI Price: 170USD/PC",
+    "matched": [
+     "akt@angtel.ru",
+     "angtel.ru"
+    ]
+   },
+   {
+    "msg_id": "19b20b39b421f4ce",
+    "date": "2025-12-15",
+    "subject": "Booster PoE Switch",
+    "batch": "俄罗斯-4（锚 soyuzsp.ru；2025-02-20 起月轮，13 轮）",
+    "to": "sales@soyuzsp.ru",
+    "price_text": "Hi, How are you? This is about our Marvell based managed switch with power boosting feature. 1, Fiber: 4*100M/1G/2.5G/10G 2, Copper: 8*1G RJ45/PoE, max 240W budget 3, DC12-54V Booster to 54V 4, Support",
+    "matched": [
+     "akt@angtel.ru",
+     "angtel.ru"
+    ]
+   }
+  ]
+ },
+ "SC-636": {
+  "grade": "C",
+  "name": "nix.ru",
+  "hits": [
+   {
+    "msg_id": "1a03cf9d14adefe7",
+    "date": "2026-08-26",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "俄罗斯-4（锚 soyuzsp.ru；2025-02-20 起月轮，13 轮）",
+    "to": "sales@soyuzsp.ru",
+    "price_text": "Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI Price: 170USD/PC",
+    "matched": [
+     "nix.ru",
+     "sale@nix.ru"
+    ]
+   },
+   {
+    "msg_id": "19b20b39b421f4ce",
+    "date": "2025-12-15",
+    "subject": "Booster PoE Switch",
+    "batch": "俄罗斯-4（锚 soyuzsp.ru；2025-02-20 起月轮，13 轮）",
+    "to": "sales@soyuzsp.ru",
+    "price_text": "Hi, How are you? This is about our Marvell based managed switch with power boosting feature. 1, Fiber: 4*100M/1G/2.5G/10G 2, Copper: 8*1G RJ45/PoE, max 240W budget 3, DC12-54V Booster to 54V 4, Support",
+    "matched": [
+     "nix.ru",
+     "sale@nix.ru"
+    ]
+   }
+  ]
+ },
+ "SC-640": {
+  "grade": "C",
+  "name": "novicam.ru",
+  "hits": [
+   {
+    "msg_id": "1a03cf9d14adefe7",
+    "date": "2026-08-26",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "俄罗斯-4（锚 soyuzsp.ru；2025-02-20 起月轮，13 轮）",
+    "to": "sales@soyuzsp.ru",
+    "price_text": "Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI Price: 170USD/PC",
+    "matched": [
+     "novicam.ru",
+     "opt@novicam.ru"
+    ]
+   },
+   {
+    "msg_id": "19b20b39b421f4ce",
+    "date": "2025-12-15",
+    "subject": "Booster PoE Switch",
+    "batch": "俄罗斯-4（锚 soyuzsp.ru；2025-02-20 起月轮，13 轮）",
+    "to": "sales@soyuzsp.ru",
+    "price_text": "Hi, How are you? This is about our Marvell based managed switch with power boosting feature. 1, Fiber: 4*100M/1G/2.5G/10G 2, Copper: 8*1G RJ45/PoE, max 240W budget 3, DC12-54V Booster to 54V 4, Support",
+    "matched": [
+     "novicam.ru",
+     "opt@novicam.ru"
+    ]
+   }
+  ]
+ },
+ "SC-662": {
+  "grade": "C",
+  "name": "proto-x.net",
+  "hits": [
+   {
+    "msg_id": "1a03cf9d14adefe7",
+    "date": "2026-08-26",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "俄罗斯-4（锚 soyuzsp.ru；2025-02-20 起月轮，13 轮）",
+    "to": "sales@soyuzsp.ru",
+    "price_text": "Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI Price: 170USD/PC",
+    "matched": [
+     "a.krivenko@ngtron.com",
+     "a.vlasova@ngtron.com",
+     "ngtron.com"
+    ]
+   },
+   {
+    "msg_id": "19b20b39b421f4ce",
+    "date": "2025-12-15",
+    "subject": "Booster PoE Switch",
+    "batch": "俄罗斯-4（锚 soyuzsp.ru；2025-02-20 起月轮，13 轮）",
+    "to": "sales@soyuzsp.ru",
+    "price_text": "Hi, How are you? This is about our Marvell based managed switch with power boosting feature. 1, Fiber: 4*100M/1G/2.5G/10G 2, Copper: 8*1G RJ45/PoE, max 240W budget 3, DC12-54V Booster to 54V 4, Support",
+    "matched": [
+     "a.krivenko@ngtron.com",
+     "a.vlasova@ngtron.com",
+     "ngtron.com"
+    ]
+   }
+  ]
+ },
+ "SC-671": {
+  "grade": "C",
+  "name": "r-control.ru",
+  "hits": [
+   {
+    "msg_id": "1a03cf9d14adefe7",
+    "date": "2026-08-26",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "俄罗斯-4（锚 soyuzsp.ru；2025-02-20 起月轮，13 轮）",
+    "to": "sales@soyuzsp.ru",
+    "price_text": "Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI Price: 170USD/PC",
+    "matched": [
+     "info@r-control.ru",
+     "r-control.ru"
+    ]
+   },
+   {
+    "msg_id": "19b20b39b421f4ce",
+    "date": "2025-12-15",
+    "subject": "Booster PoE Switch",
+    "batch": "俄罗斯-4（锚 soyuzsp.ru；2025-02-20 起月轮，13 轮）",
+    "to": "sales@soyuzsp.ru",
+    "price_text": "Hi, How are you? This is about our Marvell based managed switch with power boosting feature. 1, Fiber: 4*100M/1G/2.5G/10G 2, Copper: 8*1G RJ45/PoE, max 240W budget 3, DC12-54V Booster to 54V 4, Support",
+    "matched": [
+     "info@r-control.ru",
+     "r-control.ru"
+    ]
+   }
+  ]
+ },
+ "SC-684": {
+  "grade": "C",
+  "name": "satro-paladin.com",
+  "hits": [
+   {
+    "msg_id": "1a03cf9d14adefe7",
+    "date": "2026-08-26",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "俄罗斯-4（锚 soyuzsp.ru；2025-02-20 起月轮，13 轮）",
+    "to": "sales@soyuzsp.ru",
+    "price_text": "Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI Price: 170USD/PC",
+    "matched": [
+     "office@satro-paladin.com",
+     "satro-paladin.com"
+    ]
+   },
+   {
+    "msg_id": "19b20b39b421f4ce",
+    "date": "2025-12-15",
+    "subject": "Booster PoE Switch",
+    "batch": "俄罗斯-4（锚 soyuzsp.ru；2025-02-20 起月轮，13 轮）",
+    "to": "sales@soyuzsp.ru",
+    "price_text": "Hi, How are you? This is about our Marvell based managed switch with power boosting feature. 1, Fiber: 4*100M/1G/2.5G/10G 2, Copper: 8*1G RJ45/PoE, max 240W budget 3, DC12-54V Booster to 54V 4, Support",
+    "matched": [
+     "office@satro-paladin.com",
+     "satro-paladin.com"
+    ]
+   }
+  ]
+ },
+ "SC-687": {
+  "grade": "C",
+  "name": "sectec.su",
+  "hits": [
+   {
+    "msg_id": "1a03cf9d14adefe7",
+    "date": "2026-08-26",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "俄罗斯-4（锚 soyuzsp.ru；2025-02-20 起月轮，13 轮）",
+    "to": "sales@soyuzsp.ru",
+    "price_text": "Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI Price: 170USD/PC",
+    "matched": [
+     "info@sectec.su",
+     "sectec.su"
+    ]
+   },
+   {
+    "msg_id": "19b20b39b421f4ce",
+    "date": "2025-12-15",
+    "subject": "Booster PoE Switch",
+    "batch": "俄罗斯-4（锚 soyuzsp.ru；2025-02-20 起月轮，13 轮）",
+    "to": "sales@soyuzsp.ru",
+    "price_text": "Hi, How are you? This is about our Marvell based managed switch with power boosting feature. 1, Fiber: 4*100M/1G/2.5G/10G 2, Copper: 8*1G RJ45/PoE, max 240W budget 3, DC12-54V Booster to 54V 4, Support",
+    "matched": [
+     "info@sectec.su",
+     "sectec.su"
+    ]
+   }
+  ]
+ },
+ "SC-702": {
+  "grade": "C",
+  "name": "soyuzsp.ru",
+  "hits": [
+   {
+    "msg_id": "1a03cf9d14adefe7",
+    "date": "2026-08-26",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "俄罗斯-4（锚 soyuzsp.ru；2025-02-20 起月轮，13 轮）",
+    "to": "sales@soyuzsp.ru",
+    "price_text": "Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI Price: 170USD/PC",
+    "matched": [
+     "krukovski@soyuzsp.ru",
+     "sales@soyuzsp.ru",
+     "soyuzsp.ru"
+    ]
+   },
+   {
+    "msg_id": "19b20b39b421f4ce",
+    "date": "2025-12-15",
+    "subject": "Booster PoE Switch",
+    "batch": "俄罗斯-4（锚 soyuzsp.ru；2025-02-20 起月轮，13 轮）",
+    "to": "sales@soyuzsp.ru",
+    "price_text": "Hi, How are you? This is about our Marvell based managed switch with power boosting feature. 1, Fiber: 4*100M/1G/2.5G/10G 2, Copper: 8*1G RJ45/PoE, max 240W budget 3, DC12-54V Booster to 54V 4, Support",
+    "matched": [
+     "krukovski@soyuzsp.ru",
+     "sales@soyuzsp.ru",
+     "soyuzsp.ru"
+    ]
+   }
+  ]
+ },
+ "SC-719": {
+  "grade": "C",
+  "name": "telecom-sales.ru",
+  "hits": [
+   {
+    "msg_id": "1a03cf9d14adefe7",
+    "date": "2026-08-26",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "俄罗斯-4（锚 soyuzsp.ru；2025-02-20 起月轮，13 轮）",
+    "to": "sales@soyuzsp.ru",
+    "price_text": "Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI Price: 170USD/PC",
+    "matched": [
+     "sales@telecom-sales.ru",
+     "telecom-sales.ru"
+    ]
+   },
+   {
+    "msg_id": "19b20b39b421f4ce",
+    "date": "2025-12-15",
+    "subject": "Booster PoE Switch",
+    "batch": "俄罗斯-4（锚 soyuzsp.ru；2025-02-20 起月轮，13 轮）",
+    "to": "sales@soyuzsp.ru",
+    "price_text": "Hi, How are you? This is about our Marvell based managed switch with power boosting feature. 1, Fiber: 4*100M/1G/2.5G/10G 2, Copper: 8*1G RJ45/PoE, max 240W budget 3, DC12-54V Booster to 54V 4, Support",
+    "matched": [
+     "sales@telecom-sales.ru",
+     "telecom-sales.ru"
+    ]
+   }
+  ]
+ },
+ "SC-729": {
+  "grade": "C",
+  "name": "tvel.ru",
+  "hits": [
+   {
+    "msg_id": "1a03cf9d14adefe7",
+    "date": "2026-08-26",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "俄罗斯-4（锚 soyuzsp.ru；2025-02-20 起月轮，13 轮）",
+    "to": "sales@soyuzsp.ru",
+    "price_text": "Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI Price: 170USD/PC",
+    "matched": [
+     "rosatom.ru",
+     "t-kom@rosatom.ru"
+    ]
+   },
+   {
+    "msg_id": "19b20b39b421f4ce",
+    "date": "2025-12-15",
+    "subject": "Booster PoE Switch",
+    "batch": "俄罗斯-4（锚 soyuzsp.ru；2025-02-20 起月轮，13 轮）",
+    "to": "sales@soyuzsp.ru",
+    "price_text": "Hi, How are you? This is about our Marvell based managed switch with power boosting feature. 1, Fiber: 4*100M/1G/2.5G/10G 2, Copper: 8*1G RJ45/PoE, max 240W budget 3, DC12-54V Booster to 54V 4, Support",
+    "matched": [
+     "rosatom.ru",
+     "t-kom@rosatom.ru"
+    ]
+   }
+  ]
+ },
+ "SC-741": {
+  "grade": "C",
+  "name": "videomir.pro",
+  "hits": [
+   {
+    "msg_id": "1a03cf9d14adefe7",
+    "date": "2026-08-26",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "俄罗斯-4（锚 soyuzsp.ru；2025-02-20 起月轮，13 轮）",
+    "to": "sales@soyuzsp.ru",
+    "price_text": "Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI Price: 170USD/PC",
+    "matched": [
+     "info@videomir.pro",
+     "videomir.pro"
+    ]
+   },
+   {
+    "msg_id": "19b20b39b421f4ce",
+    "date": "2025-12-15",
+    "subject": "Booster PoE Switch",
+    "batch": "俄罗斯-4（锚 soyuzsp.ru；2025-02-20 起月轮，13 轮）",
+    "to": "sales@soyuzsp.ru",
+    "price_text": "Hi, How are you? This is about our Marvell based managed switch with power boosting feature. 1, Fiber: 4*100M/1G/2.5G/10G 2, Copper: 8*1G RJ45/PoE, max 240W budget 3, DC12-54V Booster to 54V 4, Support",
+    "matched": [
+     "info@videomir.pro",
+     "videomir.pro"
+    ]
+   }
+  ]
+ },
+ "SC-753": {
+  "grade": "C",
+  "name": "wizolution.ru",
+  "hits": [
+   {
+    "msg_id": "1a03cf9d14adefe7",
+    "date": "2026-08-26",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "俄罗斯-4（锚 soyuzsp.ru；2025-02-20 起月轮，13 轮）",
+    "to": "sales@soyuzsp.ru",
+    "price_text": "Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI Price: 170USD/PC",
+    "matched": [
+     "product@wizolution.ru",
+     "wizolution.ru"
+    ]
+   },
+   {
+    "msg_id": "19b20b39b421f4ce",
+    "date": "2025-12-15",
+    "subject": "Booster PoE Switch",
+    "batch": "俄罗斯-4（锚 soyuzsp.ru；2025-02-20 起月轮，13 轮）",
+    "to": "sales@soyuzsp.ru",
+    "price_text": "Hi, How are you? This is about our Marvell based managed switch with power boosting feature. 1, Fiber: 4*100M/1G/2.5G/10G 2, Copper: 8*1G RJ45/PoE, max 240W budget 3, DC12-54V Booster to 54V 4, Support",
+    "matched": [
+     "product@wizolution.ru",
+     "wizolution.ru"
+    ]
+   }
+  ]
+ },
+ "SC-525": {
+  "grade": "C",
+  "name": "esocctv.ru",
+  "hits": [
+   {
+    "msg_id": "19b20b39b421f4ce",
+    "date": "2025-12-15",
+    "subject": "Booster PoE Switch",
+    "batch": "俄罗斯-4（锚 soyuzsp.ru；2025-02-20 起月轮，13 轮）",
+    "to": "sales@soyuzsp.ru",
+    "price_text": "Hi, How are you? This is about our Marvell based managed switch with power boosting feature. 1, Fiber: 4*100M/1G/2.5G/10G 2, Copper: 8*1G RJ45/PoE, max 240W budget 3, DC12-54V Booster to 54V 4, Support",
+    "matched": [
+     "esocctv.ru",
+     "info@esocctv.ru"
     ]
    }
   ]

@@ -92,14 +92,14 @@
  ],
  "mail_review": {
   "binding": {
-   "level": "未触达（6 封自动回复；out 0 = S 邮箱发件未入库）",
+   "level": "未触达（6 封自动回复；out 0 = S 邮箱发件未入库）；Elsa 群发 BCC 已触达 2026-08-26「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，俄罗斯-4（锚 soyuzsp.ru；2025-02-20 起月轮，13 轮） 批次 To sales@soyuzsp.ru，首见 2025-12-15，0 回（第 74 批 Bcc 头核对 msg 1a03cf9d14adefe7）",
    "type": "俄罗斯预算型 CCTV 品牌（Hunter CCTV）",
    "sieve": "0",
    "stop": "自动回复/机器人，无人工回复",
    "revive": "不动",
    "lane": "RU",
    "cadence": "不动",
-   "evidence": "k=075538a3666fafc2 等"
+   "evidence": "k=075538a3666fafc2 等；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To sales@soyuzsp.ru）2025-12-15→2026-08-26 共 5 轮群发（Booster PoE Switch、OEM Core Switching Solution、Updated Ethernet Switches Links、Marvell Managed Commercial Switches、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断；该批次最早 2025-02-20 起共 13 轮，更早轮次 Bcc 未读"
   },
   "situation": "来信全部为机器回复；无人读信或无人回信。",
   "need": "—",
@@ -118,9 +118,26 @@
    "action": "—",
    "one_question": ""
   },
-  "facts": [],
+  "facts": [
+   {
+    "date": "2025-12-15",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To sales@soyuzsp.ru，俄罗斯-4（锚 soyuzsp.ru；2025-02-20 起月轮，13 轮） 批次）",
+    "quote": "Booster PoE Switch — This is about our Marvell based managed switch with power boosting feature. 1, Fiber: 4*100M/1G/2.5G/10G 2, Copper: 8*1G RJ45/PoE, max 240W budget 3, ",
+    "why": "Elsa 箱群发 BCC 触达证据（命中地址 hunter-cctv.ru, info@hunter-cctv.ru）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+    "k": "elsa_bcc"
+   },
+   {
+    "date": "2026-08-26",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To sales@soyuzsp.ru，俄罗斯-4（锚 soyuzsp.ru；2025-02-20 起月轮，13 轮） 批次）",
+    "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
+    "why": "Elsa 箱群发 BCC 触达证据（命中地址 hunter-cctv.ru, info@hunter-cctv.ru）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+    "k": "elsa_bcc"
+   }
+  ],
   "proof_gaps": [],
   "draft_en": null,
-  "as_of": "2026-10-24"
+  "as_of": "2026-10-25"
  }
 }

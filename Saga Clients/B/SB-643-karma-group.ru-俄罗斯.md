@@ -25,7 +25,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -42,7 +42,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-643` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A 邮箱 5 封 2025→2026，无记录打开，0 回；收件 office@karma-group.ru；主题多为「Marvell Industrial Alert System、OEM Core Switching Solution」）** ｜ 类型：IT 系统集成/分销商（俄罗斯，DCN 在供） ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：RU 次级（Simon 2026-08 点名） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 5；用户表：「有DCN的」；研究档 risks：俄罗斯：结算/物流/合规风险；DCN 在供价格基准低；未跟进过，仅 office@
+- **绑定等级：未触达（A 邮箱 5 封 2025→2026，无记录打开，0 回；收件 office@karma-group.ru；主题多为「Marvell Industrial Alert System、OEM Core Switching Solution」；Elsa 箱：`to:karma-group.ru` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 5 / 来 0）（第 74 批(l)））** ｜ 类型：IT 系统集成/分销商（俄罗斯，DCN 在供） ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：RU 次级（Simon 2026-08 点名） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 5；用户表：「有DCN的」；研究档 risks：俄罗斯：结算/物流/合规风险；DCN 在供价格基准低；未跟进过，仅 office@
 - **现状一句话**：俄罗斯 АО «Карма Групп» Karma Group（系统集成商与 IT 方案供应商：服务器、存储、网络设备（DCN、Huawei、Cisco）、自有 Amur PC；表内「有 DCN 的」）；表内未跟进。
 - **对方真实需求（有据）**：DCN 位 → 24 GE + 4×10G L2+ STC-424XGGM（$132.7 @25%）、24 口 PoE STC-424DGGPM-280W（$140.1）、8 口 STC-28DGGPM（$84.1）
 - **断点 / 为什么停在这里**：俄罗斯：结算/物流/合规风险；DCN 在供价格基准低；未跟进过，仅 office@
@@ -271,12 +271,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 35）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 35）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

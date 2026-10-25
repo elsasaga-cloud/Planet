@@ -1,5 +1,5 @@
 {
- "_note": "第 74 批(g) 2026-10-25 03:15Z–03:25Z：A 级（含 grade_override A）尚未核实 Elsa 触达的 66 户逐户 `in:sent to:<域>`（max 5）；0 条且 complete:true = Elsa 箱从未发过本域（To 与 Bcc 都查）。另 17 户为第 73 批(o) 2026-10-24 的逐户 0 结果补记。SC-1006 域为 live.com.my 免费邮箱，未探。 第 74 批(h) 03:16Z–03:19Z：美国/加拿大 B 级 116 户逐户同法（115 户 0，1 户命中拉美批）。 第 74 批(i) 03:21Z–03:25Z：土耳其 B 级 100 户逐户同法（100 户全 0，complete）。 第 74 批(j) 03:26Z–03:31Z：德国 24 / 英国 18 / 意大利 27 共 69 户 B 级逐户同法（全 0，complete；SB-459 只查 casecomms.com，uk.com 泛域不查）。 第 74 批(k) 03:30Z–03:36Z：欧洲其余 22 国 B 级 70 户逐户同法（西 8 / 立陶宛 6 / 白俄 6 / 法 5 / 捷 5 / 保 5 / 塞尔维亚 5 / 格鲁吉亚 4 / 塞浦路斯 4 / 瑞士 3 / 挪威 3 / 葡 3 / 斯洛伐克 2 / 荷 2 / 波 2 / 乌 / 匈 / 罗 / 爱 / 比 / 瑞典 / 克 各 1；全 0，complete；SB-021 只查 avicam-bg.com）。",
+ "_note": "第 74 批(g) 2026-10-25 03:15Z–03:25Z：A 级（含 grade_override A）尚未核实 Elsa 触达的 66 户逐户 `in:sent to:<域>`（max 5）；0 条且 complete:true = Elsa 箱从未发过本域（To 与 Bcc 都查）。另 17 户为第 73 批(o) 2026-10-24 的逐户 0 结果补记。SC-1006 域为 live.com.my 免费邮箱，未探。 第 74 批(h) 03:16Z–03:19Z：美国/加拿大 B 级 116 户逐户同法（115 户 0，1 户命中拉美批）。 第 74 批(i) 03:21Z–03:25Z：土耳其 B 级 100 户逐户同法（100 户全 0，complete）。 第 74 批(j) 03:26Z–03:31Z：德国 24 / 英国 18 / 意大利 27 共 69 户 B 级逐户同法（全 0，complete；SB-459 只查 casecomms.com，uk.com 泛域不查）。 第 74 批(k) 03:29Z–03:33Z：欧洲其余 22 国 B 级 70 户逐户同法（西 8 / 立陶宛 6 / 白俄 6 / 法 5 / 捷 5 / 保 5 / 塞尔维亚 5 / 格鲁吉亚 4 / 塞浦路斯 4 / 瑞士 3 / 挪威 3 / 葡 3 / 斯洛伐克 2 / 荷 2 / 波 2 / 乌 / 匈 / 罗 / 爱 / 比 / 瑞典 / 克 各 1；全 0，complete；SB-021 只查 avicam-bg.com）。 第 74 批(l) 03:33Z–03:43Z：俄罗斯 B 级 43 户逐户（36 零 / 7 命中：SB-045 tdtorus、SB-1006 trassir、SB-1011 dexi → 锚 sales@cmd-sec.ru（RU-3，15 轮）；SB-980 hunter-cctv、SB-997 polyvision → 锚 sales@soyuzsp.ru（RU-4，13 轮）；SB-930 optimus-cctv、SB-985 keno-cctv 双锚）；同时纠正「201+」= result_size_estimate 估算伪数，六锚真实轮数 11–15",
  "zero": [
   {
    "code": "SA-001",
@@ -2099,6 +2099,186 @@
    "code": "SB-922",
    "q": "to:t-automation.by",
    "as_of": "2026-10-25 第 74 批(k)"
+  },
+  {
+   "code": "SA-008",
+   "q": "to:rio-krsk.ru",
+   "as_of": "2026-10-25 第 74 批(l)"
+  },
+  {
+   "code": "SA-088",
+   "q": "to:fibotelecom.ru",
+   "as_of": "2026-10-25 第 74 批(l)"
+  },
+  {
+   "code": "SA-106",
+   "q": "to:zelax.ru",
+   "as_of": "2026-10-25 第 74 批(l)"
+  },
+  {
+   "code": "SB-092",
+   "q": "to:skeo.ru",
+   "as_of": "2026-10-25 第 74 批(l)"
+  },
+  {
+   "code": "SB-1008",
+   "q": "to:vilcom.ru",
+   "as_of": "2026-10-25 第 74 批(l)"
+  },
+  {
+   "code": "SB-1060",
+   "q": "to:cleverkey.ru",
+   "as_of": "2026-10-25 第 74 批(l)"
+  },
+  {
+   "code": "SB-1093",
+   "q": "to:uplinker.ru OR to:uplink.ru",
+   "as_of": "2026-10-25 第 74 批(l)"
+  },
+  {
+   "code": "SB-1126",
+   "q": "to:testsol.ru",
+   "as_of": "2026-10-25 第 74 批(l)"
+  },
+  {
+   "code": "SB-1229",
+   "q": "to:portdepo.ru",
+   "as_of": "2026-10-25 第 74 批(l)"
+  },
+  {
+   "code": "SB-123",
+   "q": "to:gordeev.inntel@mail.ru",
+   "as_of": "2026-10-25 第 74 批(l)"
+  },
+  {
+   "code": "SB-1245",
+   "q": "to:soft-tronik.ru",
+   "as_of": "2026-10-25 第 74 批(l)"
+  },
+  {
+   "code": "SB-152",
+   "q": "to:nag.ru",
+   "as_of": "2026-10-25 第 74 批(l)"
+  },
+  {
+   "code": "SB-272",
+   "q": "to:353311@mail.ru OR to:vas555@list.ru",
+   "as_of": "2026-10-25 第 74 批(l)"
+  },
+  {
+   "code": "SB-364",
+   "q": "to:morekamer.ru",
+   "as_of": "2026-10-25 第 74 批(l)"
+  },
+  {
+   "code": "SB-426",
+   "q": "to:amatek.su OR to:ksb.su",
+   "as_of": "2026-10-25 第 74 批(l)"
+  },
+  {
+   "code": "SB-440",
+   "q": "to:ssdcam.ru",
+   "as_of": "2026-10-25 第 74 批(l)"
+  },
+  {
+   "code": "SB-537",
+   "q": "to:htvision.ru",
+   "as_of": "2026-10-25 第 74 批(l)"
+  },
+  {
+   "code": "SB-572",
+   "q": "to:22opt.ru",
+   "as_of": "2026-10-25 第 74 批(l)"
+  },
+  {
+   "code": "SB-619",
+   "q": "to:plus-nn.ru",
+   "as_of": "2026-10-25 第 74 批(l)"
+  },
+  {
+   "code": "SB-621",
+   "q": "to:symanitron.ru OR to:s-avt.ru",
+   "as_of": "2026-10-25 第 74 批(l)"
+  },
+  {
+   "code": "SB-642",
+   "q": "to:jmdv.ru",
+   "as_of": "2026-10-25 第 74 批(l)"
+  },
+  {
+   "code": "SB-643",
+   "q": "to:karma-group.ru",
+   "as_of": "2026-10-25 第 74 批(l)"
+  },
+  {
+   "code": "SB-647",
+   "q": "to:smol-electro.ru",
+   "as_of": "2026-10-25 第 74 批(l)"
+  },
+  {
+   "code": "SB-653",
+   "q": "to:zonagsm.su",
+   "as_of": "2026-10-25 第 74 批(l)"
+  },
+  {
+   "code": "SB-787",
+   "q": "to:unitech-shop.ru",
+   "as_of": "2026-10-25 第 74 批(l)"
+  },
+  {
+   "code": "SB-845",
+   "q": "to:konturm.ru",
+   "as_of": "2026-10-25 第 74 批(l)"
+  },
+  {
+   "code": "SB-940",
+   "q": "to:giga-link.ru",
+   "as_of": "2026-10-25 第 74 批(l)"
+  },
+  {
+   "code": "SB-945",
+   "q": "to:kzn-gps.ru",
+   "as_of": "2026-10-25 第 74 批(l)"
+  },
+  {
+   "code": "SB-946",
+   "q": "to:mir-sb.com",
+   "as_of": "2026-10-25 第 74 批(l)"
+  },
+  {
+   "code": "SB-954",
+   "q": "to:setilend.ru",
+   "as_of": "2026-10-25 第 74 批(l)"
+  },
+  {
+   "code": "SB-955",
+   "q": "to:ssd.ru",
+   "as_of": "2026-10-25 第 74 批(l)"
+  },
+  {
+   "code": "SB-956",
+   "q": "to:symway.com OR to:lintech.ru",
+   "as_of": "2026-10-25 第 74 批(l)"
+  },
+  {
+   "code": "SB-988",
+   "q": "to:ltv-cctv.ru",
+   "as_of": "2026-10-25 第 74 批(l)"
+  },
+  {
+   "code": "SB-999",
+   "q": "to:sarmatt.ru",
+   "as_of": "2026-10-25 第 74 批(l)"
+  },
+  {
+   "code": "SC-1483",
+   "q": "to:raisecom.su",
+   "as_of": "2026-10-25 第 74 批(l)"
+  },
+  {
+   "code": "SC-491",
+   "q": "to:comtinu.ru",
+   "as_of": "2026-10-25 第 74 批(l)"
   }
  ],
  "hits": {

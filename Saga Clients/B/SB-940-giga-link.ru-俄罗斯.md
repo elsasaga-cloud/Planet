@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -42,7 +42,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-940` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A 邮箱 14 封 2025→2026，无记录打开，0 回；收件 info@giga-link.ru；主题多为「Industrial PoE Switch、OEM Core Switching Solution」）** ｜ 类型：网络设备品牌商（俄罗斯，HRUI 在供，Q-33 口径） ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开；Q-33 供应商渠道客户 ｜ 复活：不动（Q-33） ｜ 通路：RU 次级（Simon 2026-08 点名） ｜ 节奏：不动 ｜ 证据：gmail_digest：out 14；用户表：「MC SFP 工业FS POE 有洪瑞的商业FS」；研究档 risks：Q-33 口径：HRUI 在供，仅推 SmartByte/Marvell 线，避免渠道冲突；俄罗斯：结算/物流/合规风险；8 次无回复，仅 info@
+- **绑定等级：未触达（A 邮箱 14 封 2025→2026，无记录打开，0 回；收件 info@giga-link.ru；主题多为「Industrial PoE Switch、OEM Core Switching Solution」；Elsa 箱：`to:giga-link.ru` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 14 / 来 0）（第 74 批(l)））** ｜ 类型：网络设备品牌商（俄罗斯，HRUI 在供，Q-33 口径） ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开；Q-33 供应商渠道客户 ｜ 复活：不动（Q-33） ｜ 通路：RU 次级（Simon 2026-08 点名） ｜ 节奏：不动 ｜ 证据：gmail_digest：out 14；用户表：「MC SFP 工业FS POE 有洪瑞的商业FS」；研究档 risks：Q-33 口径：HRUI 在供，仅推 SmartByte/Marvell 线，避免渠道冲突；俄罗斯：结算/物流/合规风险；8 次无回复，仅 info@
 - **现状一句话**：俄罗斯 GIGALINK（网络设备品牌：MC、SFP、工业 FS、PoE；表内「有洪瑞（HRUI）的商业 FS」→ Q-33 口径：仅推 SmartByte/Marvell 线）；群发 8 次无回复。
 - **对方真实需求（有据）**：HRUI 在供 → 仅推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、工业 8 GE + 2 SFP STI-280GE（$50.5）贴 GIGALINK 标；MC/SFP 不重复报
 - **断点 / 为什么停在这里**：Q-33 口径：HRUI 在供，仅推 SmartByte/Marvell 线，避免渠道冲突；俄罗斯：结算/物流/合规风险；8 次无回复，仅 info@
@@ -290,12 +290,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 30）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 30）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

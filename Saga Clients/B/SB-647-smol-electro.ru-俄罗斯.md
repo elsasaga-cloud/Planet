@@ -25,7 +25,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -42,7 +42,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-647` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A/S 邮箱 21 封 2024→2026，无记录打开，0 回；收件 info@smol-electro.ru；主题多为「Industrial PoE Switch、Marvell Alleycat5 Solution」）** ｜ 类型：电气产品制造/经销商（俄罗斯，丰润达在供，Q-33 口径） ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开；Q-33 供应商渠道客户 ｜ 复活：不动（Q-33） ｜ 通路：RU 次级（Simon 2026-08 点名） ｜ 节奏：不动 ｜ 证据：gmail_digest：out 21；用户表：「商业POE」；研究档 risks：Q-33 口径：丰润达在供，仅推 SmartByte/Marvell 线；主业电加热器（PoE 为副线）；俄罗斯：结算/物流/合规风险；17 次无回复
+- **绑定等级：未触达（A/S 邮箱 21 封 2024→2026，无记录打开，0 回；收件 info@smol-electro.ru；主题多为「Industrial PoE Switch、Marvell Alleycat5 Solution」；Elsa 箱：`to:smol-electro.ru` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 21 / 来 0）（第 74 批(l)））** ｜ 类型：电气产品制造/经销商（俄罗斯，丰润达在供，Q-33 口径） ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开；Q-33 供应商渠道客户 ｜ 复活：不动（Q-33） ｜ 通路：RU 次级（Simon 2026-08 点名） ｜ 节奏：不动 ｜ 证据：gmail_digest：out 21；用户表：「商业POE」；研究档 risks：Q-33 口径：丰润达在供，仅推 SmartByte/Marvell 线；主业电加热器（PoE 为副线）；俄罗斯：结算/物流/合规风险；17 次无回复
 - **现状一句话**：俄罗斯 ООО «ЭЛПРО»（smol-electro.ru，斯摩棱斯克：自产电加热器，站内另有 PoE 交换机、线缆、LED 产品分类；表内「商业 PoE，丰润达的」→ Q-33 口径）；群发 17 次无回复。
 - **对方真实需求（有据）**：丰润达在供 → 仅推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）
 - **断点 / 为什么停在这里**：Q-33 口径：丰润达在供，仅推 SmartByte/Marvell 线；主业电加热器（PoE 为副线）；俄罗斯：结算/物流/合规风险；17 次无回复
@@ -300,12 +300,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 35）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 35）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

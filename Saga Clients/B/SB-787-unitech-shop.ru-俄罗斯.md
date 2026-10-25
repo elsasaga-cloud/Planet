@@ -25,7 +25,7 @@ price_tier: 20%
 research: done
 site_snapshot: unreachable  # 2026-10-21
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -42,7 +42,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-787` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：地址失效（S 邮箱 4 封 2024 发 info@unitech-shop.ru，2024-10-09 永久退信「550 user not found」；Q-33 网店口径不动）** ｜ 类型：PoE 网店（俄罗斯，HRUI 在售，Q-33 口径） ｜ 筛子：0（信没到） ｜ 停点：只打通用邮箱，无记录打开；Q-33 供应商渠道客户 ｜ 复活：不动（Q-33） ｜ 通路：RU 次级（Simon 2026-08 点名） ｜ 节奏：不动 ｜ 证据：gmail_digest：out 4，Opened 标签 1（Simon 群发追踪）；用户表：「商业PoE」；研究档 risks：Q-33 口径：HRUI 在售，仅推 SmartByte/Marvell 线；俄罗斯：结算/物流/合规风险；官网 unreachable；未跟进过
+- **绑定等级：地址失效（S 邮箱 4 封 2024 发 info@unitech-shop.ru，2024-10-09 永久退信「550 user not found」；Q-33 网店口径不动；Elsa 箱：`to:unitech-shop.ru` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 4 / 来 0）（第 74 批(l)））** ｜ 类型：PoE 网店（俄罗斯，HRUI 在售，Q-33 口径） ｜ 筛子：0（信没到） ｜ 停点：只打通用邮箱，无记录打开；Q-33 供应商渠道客户 ｜ 复活：不动（Q-33） ｜ 通路：RU 次级（Simon 2026-08 点名） ｜ 节奏：不动 ｜ 证据：gmail_digest：out 4，Opened 标签 1（Simon 群发追踪）；用户表：「商业PoE」；研究档 risks：Q-33 口径：HRUI 在售，仅推 SmartByte/Marvell 线；俄罗斯：结算/物流/合规风险；官网 unreachable；未跟进过
 - **现状一句话**：俄罗斯 Unitech-shop（unitech-shop.ru：商业 PoE 网店，「很多外壳 有洪瑞（HRUI）的」→ Q-33 口径；官网 unreachable）；表内未跟进。
 - **对方真实需求（有据）**：HRUI 在售 → 仅推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）
 - **断点 / 为什么停在这里**：Q-33 口径：HRUI 在售，仅推 SmartByte/Marvell 线；俄罗斯：结算/物流/合规风险；官网 unreachable；未跟进过
@@ -246,12 +246,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 33）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 33）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
