@@ -93,7 +93,7 @@ updated: 2026-10-25
   - 明确型号级需求：12–24 口全 SFP 交换机
 - **风险/边界**：商用全光口 24 SFP 机 Saga 价目无；仅工业 STI-4168DGGCM-U（16 SFP + 8 combo）价高
 - **Saga 对位结论**：P1 STI-4168DGGCM-U（25% 档）——12–24 SFP 需求唯一对位 = Saga 工业 STI-4168DGGCM-U（16×SFP + 8 combo + 4×2.5G SFP，$421.5/439.1/456.7）；商用 24 SFP 款需按 SmartByte 型号另询并注明。
-- **邮件切入句（英文）**：（无邮箱；WhatsApp：The 16-SFP + 8-combo unit is in stock as an industrial model; if you need a rack 24-SFP commercial version, tell me the uplink type (4×1G or 4×10G) and I'll confirm lead time.）
+- **邮件切入句（英文）**：（无邮箱；WhatsApp：The 16-SFP + 8-combo unit is available as an industrial model; if you need a rack 24-SFP commercial version, tell me the uplink type (4×1G or 4×10G) and I'll confirm lead time.）
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -204,7 +204,7 @@ updated: 2026-10-25
 ```text
 Hello,
 
-Picking up our earlier exchange about PoE / industrial switches. The 16-SFP + 8-combo unit is in stock as an industrial model; if you need a rack 24-SFP commercial version, tell me the uplink type (4×1G or 4×10G) and I'll confirm lead time.
+Picking up our earlier exchange about PoE / industrial switches. The 16-SFP + 8-combo unit is available as an industrial model; if you need a rack 24-SFP commercial version, tell me the uplink type (4×1G or 4×10G) and I'll confirm lead time.
 
 We supply a Marvell-based industrial L2+ managed fibre switch, 16 SFP plus 8 combo plus 4x 2.5G SFP - model STI-4168DGGCM-U - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $439.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
@@ -217,7 +217,7 @@ Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing availab
 https://sagatele.com/
 ```
 
-> 研究档备注（未并入正文）：（无邮箱；WhatsApp：The 16-SFP + 8-combo unit is in stock as an industrial model; if you need a rack 24-SFP commercial version, tell me the uplink type (4×1G or 4×10G) and I'll confirm lead time.）
+> 研究档备注（未并入正文）：（无邮箱；WhatsApp：The 16-SFP + 8-combo unit is available as an industrial model; if you need a rack 24-SFP commercial version, tell me the uplink type (4×1G or 4×10G) and I'll confirm lead time.）
 
 > 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
 

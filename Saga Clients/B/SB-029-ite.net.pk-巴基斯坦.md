@@ -113,7 +113,7 @@ updated: 2026-10-25
   - 主动反问路由器 → 有 SOHO 路由采购需求（Saga 无，缺口记录）
 - **风险/边界**：需求为路由器（缺口）；巴基斯坦 L/C / 外汇
 - **Saga 对位结论**：P1 STC-28DGGPM（20% 档）——交换机兴趣 → STC-28DGGPM 起手（经销 20%）；路由器不供。
-- **邮件切入句（英文）**：Faisal, we don't do routers — but for the switch side, the 8-PoE + 2-SFP managed (Marvell) is in stock from 1 pc; is that useful for the same projects, or is it routers only right now?
+- **邮件切入句（英文）**：Faisal, we don't do routers — but for the switch side, the 8-PoE + 2-SFP managed (Marvell) is available from 1 pc; is that useful for the same projects, or is it routers only right now?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -235,7 +235,7 @@ updated: 2026-10-25
 ```text
 Hi Faisal,
 
-Picking up our earlier exchange about PoE / industrial switches. We don't do routers — but for the switch side, the 8-PoE + 2-SFP managed (Marvell) is in stock from 1 pc; is that useful for the same projects, or is it routers only right now?
+Picking up our earlier exchange about PoE / industrial switches. We don't do routers — but for the switch side, the 8-PoE + 2-SFP managed (Marvell) is available from 1 pc; is that useful for the same projects, or is it routers only right now?
 
 We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $80.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

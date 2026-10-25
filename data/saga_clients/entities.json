@@ -21076,7 +21076,7 @@
 "tier": 25,
 "why": "询盘即 1 光 4 电工业千兆 → STI-144GP；集成商 25% 档；2 台可当样机走 PayPal"
 },
-"email_hook": "For the two industrial gigabit 1-fibre 4-copper units you asked about, the 4-port PoE + 1 SFP DIN switch is in stock for a 10–15 day dispatch, and I can ship the pair as samples by courier on PayPal terms.",
+"email_hook": "For the two industrial gigabit 1-fibre 4-copper units you asked about, the 4-port PoE + 1 SFP DIN switch ships within 10–15 days, and I can ship the pair as samples by courier on PayPal terms.",
 "mail_review": {
 "binding": {
 "level": "未绑定（2025-06 工程师要规格书 + 问迪拜有无展厅 → 「无分支，只发货」→ 无下文；研究档「首单 2 台」在邮件/PI 包均无痕迹；Elsa 箱：`to:alsalami.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 14 / 来 1）（第 74 批(g)））",
@@ -56172,7 +56172,7 @@
 "tier": 20,
 "why": "16 口 PoE 需求 → HRUI 列表 STC-2216GPM（$137.5）；上联 10G 版 STC-2416XGGPM 待核；经销 20%。"
 },
-"email_hook": "Bayar — MOQ 1 pc; warranty 1 yr commercial / 3 yrs industrial; 16-port PoE managed STC-2216GPM $141.7, 8-port PoE L2+ STC-28DGGPM $80.7, 24-port PoE L2+ STC-424XGGPM-280W $180 USD EXW (Elsa's 4-August mail said $170; yuan 7.2→6.7 since). Which media-converter / switch brand do you carry in Mongolia today, so I can map the equivalent models?",
+"email_hook": "Bayar — MOQ 1 pc; warranty 1 yr commercial / 3 yrs industrial; 16-port PoE managed STC-2216GPM $141.7, 8-port PoE L2+ STC-28DGGPM $80.7, 24-port PoE L2+ STC-424XGGPM-280W $180 USD EXW (our 4-August mail said $170; yuan 7.2→6.7 since). Which media-converter / switch brand do you carry in Mongolia today, so I can map the equivalent models?",
 "mail_review": {
 "binding": {
 "level": "轻度触达（Elsa 邮箱 2025-10-30 A.Bayar（Topica LLC，乌兰巴托）回「May we have your price list, MOQ, Warranty information?」；S/A 邮箱 0 封——之前判「未发信」是因为群发走的 Elsa 邮箱）；补核（第 73 批）：Elsa 10-31 只回下载链接 + STI-244GP 规格书，三问未答，之后无回；Elsa 群发 BCC 已触达 8 轮 2025-02-24→2025-10-28（锚 To info@golfautomation.co.in，本户在 Bcc）→ 10-28 那轮 A.Bayar 10-30 回信 → Elsa 10-31 Re:（已入库）→ 之后改为 1:1 直收 6 轮 2025-12-04→2026-08-04（To 仅 info@topica.mn；08-04 头 19fcb6dd212d4d23 无 Bcc，称呼「Hi,」，正文 Price: 170USD/PC = 24 口 PoE STC-424XGGPM-280W 的 8 月旧价）；10-30 之后再无来信",
@@ -56199,7 +56199,7 @@
 "when": "2026-11",
 "channel": "Elsa 或 A 邮箱 → info@topica.mn",
 "action": "首封前知悉：Elsa 已 Bcc 8 轮 + 1:1 直收 6 轮（2025-02-24→2026-08-04），对方只在 2025-10-30 回过一次、三问未得答——这封是补答，不是首封，且他 2026-08 看到过 24 口 PoE $170（现价轮 $180 要先说明）（第 74 批(o)）；补答 + 一问",
-"one_question": "Bayar — MOQ 1 pc; warranty 1 yr commercial / 3 yrs industrial; 16-port PoE managed STC-2216GPM $141.7, 8-port PoE L2+ STC-28DGGPM $80.7, 24-port PoE L2+ STC-424XGGPM-280W $180 USD EXW (Elsa's 4-August mail said $170; yuan 7.2→6.7 since). Which media-converter / switch brand do you carry in Mongolia today, so I can map the equivalent models?"
+"one_question": "Bayar — MOQ 1 pc; warranty 1 yr commercial / 3 yrs industrial; 16-port PoE managed STC-2216GPM $141.7, 8-port PoE L2+ STC-28DGGPM $80.7, 24-port PoE L2+ STC-424XGGPM-280W $180 USD EXW (our 4-August mail said $170; yuan 7.2→6.7 since). Which media-converter / switch brand do you carry in Mongolia today, so I can map the equivalent models?"
 },
 "facts": [
 {
@@ -56359,7 +56359,7 @@
 ],
 "draft_en": {
 "subject": "Price list, MOQ, warranty — Topica",
-"body": "Hi Bayar,\n\nYou asked for price list, MOQ and warranty in October 2025; Elsa sent the download links and a datasheet but not the three answers — here they are in one line: MOQ 1 pc; warranty 1 year on commercial (STC) models and 3 years on industrial (STI) models, lifetime technical support, and the three prices most people ask for first (USD EXW, 15-day validity): 16-port PoE L2 managed STC-2216GPM (16 × PoE + 2 × GE + 2 × SFP, 200 W) $141.7; 8-port PoE L2+ managed STC-28DGGPM (8 × PoE + 2 × 1G/2.5G SFP) $80.7; 24-port PoE L2+ managed STC-424XGGPM-280W (24 × PoE + 4 × 10G SFP+) $180 — Elsa's mail of 4 August quoted $170 for this one; the yuan has moved from 7.2 to 6.7 against the dollar since, hence $180 today. The full table follows once I know which brand you carry.\n\nOne question: which switch / media-converter brand do you carry in Mongolia today, so I can map our equivalent models instead of sending the whole catalog? Shipping is by road via Erenhot or by air to Ulaanbaatar, your choice.\n\nBest regards,\nElsa\nSaga Telecom · sagatele.com"
+"body": "Hi Bayar,\n\nYou asked for price list, MOQ and warranty in October 2025; I sent the download links and a datasheet but not the three answers — here they are in one line: MOQ 1 pc; warranty 1 year on commercial (STC) models and 3 years on industrial (STI) models, lifetime technical support, and the three prices most people ask for first (USD EXW, 15-day validity): 16-port PoE L2 managed STC-2216GPM (16 × PoE + 2 × GE + 2 × SFP, 200 W) $141.7; 8-port PoE L2+ managed STC-28DGGPM (8 × PoE + 2 × 1G/2.5G SFP) $80.7; 24-port PoE L2+ managed STC-424XGGPM-280W (24 × PoE + 4 × 10G SFP+) $180 — my mail of 4 August quoted $170 for this one; the yuan has moved from 7.2 to 6.7 against the dollar since, hence $180 today. The full table follows once I know which brand you carry.\n\nOne question: which switch / media-converter brand do you carry in Mongolia today, so I can map our equivalent models instead of sending the whole catalog? Shipping is by road via Erenhot or by air to Ulaanbaatar, your choice.\n\nBest regards,\nElsa\nSaga Telecom · sagatele.com"
 },
 "as_of": "2026-10-24"
 }
@@ -88444,7 +88444,7 @@
 "tier": 20,
 "why": "交换机兴趣 → STC-28DGGPM 起手（经销 20%）；路由器不供。"
 },
-"email_hook": "Faisal, we don't do routers — but for the switch side, the 8-PoE + 2-SFP managed (Marvell) is in stock from 1 pc; is that useful for the same projects, or is it routers only right now?",
+"email_hook": "Faisal, we don't do routers — but for the switch side, the 8-PoE + 2-SFP managed (Marvell) is available from 1 pc; is that useful for the same projects, or is it routers only right now?",
 "mail_review": {
 "binding": {
 "level": "未发信→明确不对口（Elsa 邮箱 2025-04-09 Faisal（ITE，巴基斯坦）三封：要「Routers with 1GE and 4 FE ports」+ 路由规格 IP SLA / GRE / PPPoE / BGP / IPsec——是路由器需求，Saga 不做路由器）；Elsa 1:1 去信 9 轮 2025-05-13→2026-08-04（To 仅本户 faisal@ite.net.pk / info@ite.net.pk（按地址：faisal@ite.net.pk 4 轮 / info@ite.net.pk 5 轮）；头 msg 19fcbedfe7807ff7 核对无 Bcc，称呼「Hi, Faisal」= 个性化逐月 1:1 名单；主题 Marvell Industrial Alert System、Updated Ethernet Switches Links、Industrial PoE Switch、24 Port PoE Managed Switch…；客户来过信：Elsa 回 2025-04-09 Re:「Mini Industrial PoE Switch」、2025-04-09 Re:「Mini Industrial PoE Switch」；此前经 锚 info@globalconnectsynergy.com 的 Bcc 收到 1 轮（2025-04-09→2025-04-09）→ 回信后被 Elsa 从 Bcc 名单剔出、转入 1:1 名单）（第 74 批(m) `from:e.sagatelecom to:` 全程 complete，直收 11 条）；Elsa 群发 BCC 已触达 2025-04-09「Mini Industrial PoE Switch」（稿内无价，第 74 批(p) 已读稿），巴基斯坦（锚 globalconnectsynergy PK） 批次 To info@globalconnectsynergy.com，0 回（第 74 批 Bcc 头核对 msg 19619224a25f0228）",
@@ -112902,7 +112902,7 @@
 "tier": 20,
 "why": "24 PoE 询价 → STC-424DGGPM-280W（$134.5/140.1/145.7）；经销 20%。"
 },
-"email_hook": "Vinod — you asked for prices last June (and left your WhatsApp number); Elsa sent the download links but no price. The 8-PoE + 2-SFP industrial managed unit is $137.5 USD EXW; is the requirement still there?",
+"email_hook": "Vinod — you asked for prices last June (and left your WhatsApp number); we sent the download links but no price. The 8-PoE + 2-SFP industrial managed unit is $137.5 USD EXW; is the requirement still there?",
 "mail_review": {
 "binding": {
 "level": "读而不回→轻度触达（Elsa 邮箱 2025-06-04 Vinod Tyagi（AGS Plus）回「Share the price. What's App number +91…」；S 邮箱 12 封 3 次打开 0 回；Q-33 标记保留——AGS Plus/Xexagon 是否为供应商渠道客户待 Simon 核）；补核（第 73 批）：Elsa 06-06 只回下载链接、未报价，之后邮件无回；Elsa 1:1 去信 7 轮 2025-10-02→2026-08-04（To sales@agsplus.in（与锚地址 gunjan@xexagon.co.in 并列 To）；头 msg 19fcafff5f9156bc 核对无 Bcc，称呼「Hi, Vinod」= 个性化逐月 1:1 名单；主题 Marvell Industrial Alert System、Updated Ethernet Switches Links、Industrial PoE Switch、24 Port PoE Managed Switch；客户来过信：Elsa 回 2025-06-06 Re:「Industrial PoE Switch」；与上面「To 直收」的锚轮是两条并行名单）（第 74 批(m)）；Elsa 群发 To 直收 7 轮 2025-04-10→2026-09-08（本户是「印度-6 安防分销（锚 gunjan@xexagon.co.in；2025-04-10 起，7 轮）」批次的锚：每轮 To 本户、其余客户 Bcc；最近 2026-09-08「24 Port PoE Managed Switch」，最近一封正文「Price: 170USD/PC」），0 回（第 74 批核对 msg 1a08075d070c32df）",
@@ -112929,7 +112929,7 @@
 "when": "待 Simon 定 Q-33",
 "channel": "WhatsApp（Simon）",
 "action": "首封前知悉：Elsa 已 1:1 去信 7 轮（2025-10-02→2026-08-04，客户回过信（2025-06-06））（第 74 批(m)）；一句话",
-"one_question": "Vinod — you asked for prices last June (and left your WhatsApp number); Elsa sent the download links but no price. The 8-PoE + 2-SFP industrial managed unit is $137.5 USD EXW; is the requirement still there?"
+"one_question": "Vinod — you asked for prices last June (and left your WhatsApp number); we sent the download links but no price. The 8-PoE + 2-SFP industrial managed unit is $137.5 USD EXW; is the requirement still there?"
 },
 "facts": [
 {
@@ -171492,7 +171492,7 @@
 "next_move": {
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱 → gina.c@amplicon.com（Gina C.）",
-"action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-09-04「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问",
+"action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-09-04「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 74 批(q) 2026-10-25：英文信稿已写 `draft_en`，开头按 ㉝ 写明 Elsa 群发主题/日期，价按 ㉕ 锚价）",
 "one_question": "Gina, below the Hirschmann/Moxa price points on your industrial networking page — a Marvell-based DIN managed 8-PoE + 2-SFP (ERPS, −40~75 ℃, CE/UKCA/RoHS) at $79 EXW; worth one evaluation unit for the Brighton lab?"
 },
 "facts": [
@@ -171524,7 +171524,10 @@
 "proof_gaps": [
 "无邮件往来"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "STI-288GPM - DIN managed 8-PoE + 2-SFP below the Hirschmann / Moxa price points",
+"body": "Hi Gina,\n\nSome time ago you had a product mail from us - \"24 Port PoE Managed Switch\" on 4 September - and there was no reason to answer a mass mail. This one is specific to Amplicon's industrial networking page.\n\nBelow the Hirschmann / Moxa price points you list, we supply a Marvell-based DIN-rail managed switch, 8 x Gigabit PoE+ (240 W) + 2 x SFP, ERPS ring, -40 to 75 C, CE/UKCA/RoHS, model STI-288GPM - $78.9 USD EXW (distributor price, MOQ 1, 15-day validity). Non-PoE sister model STI-280GM at $68.2.\n\nIt ships under your own label with neutral packaging if that suits the Amplicon catalogue better than a third-party brand; 3-year warranty together with our DIN power supply.\n\nOne question: is one evaluation unit (at the unit price) for the Brighton lab worth a slot in your 2027 line-card review?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+},
 "as_of": "2026-10-25"
 }
 }
@@ -180741,7 +180744,7 @@
 "next_move": {
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱 → anne.ekblad@fibersystem.com（Anne Ekblad）",
-"action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-09-08「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问",
+"action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-09-08「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 74 批(q) 2026-10-25：英文信稿已写 `draft_en`，开头按 ㉝ 写明 Elsa 群发主题/日期，价按 ㉕ 锚价）",
 "one_question": "Oscar, following our earlier contact: for the gigabit media converters and compact Ethernet switches in your commercial fiber range, we can supply DIN-rail units under the Fibersystem label from small lots (CE/RoHS) — is the converter or the switch the more frequent request from your customers? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
@@ -180797,7 +180800,10 @@
 "proof_gaps": [
 "无邮件往来"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "Fibersystem label - gigabit media converter / compact switch for the commercial fiber range",
+"body": "Hi Anne,\n\nOver the past year you had a few product mails from us - most recently \"24 Port PoE Managed Switch\" on 8 September - and there was no reason to answer a mass mail. This one is specific to Fibersystem.\n\nFor the commercial side of your fiber range (not the data-diode / TEMPEST line, which we do not touch), two units can carry the Fibersystem label from small lots:\n\n- Industrial gigabit media converter, 1 x RJ45 + 1 x SFP, DIN-rail, -40 to 75 C, model STI-110GE - $26.5 USD EXW, MOQ 1, 15-day validity.\n- Compact industrial 8 x Gigabit switch, DIN-rail, unmanaged, model STI-080GE - $34.0 USD EXW.\n\nBoth CE/RoHS, 3-year warranty with our DIN power supply, neutral housing and carton, your logo on the front at no charge.\n\nOne question: from your customers, is the converter or the compact switch the more frequent request? I will send the datasheet of that one first.\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+},
 "as_of": "2026-10-25"
 }
 },
@@ -183462,7 +183468,7 @@
 "next_move": {
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱 → thomas.lemaire@hightrade-international.com（Thomas Lemaire）",
-"action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-09-03「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问",
+"action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-09-03「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 74 批(q) 2026-10-25：英文信稿已写 `draft_en`，开头按 ㉝ 写明 Elsa 群发主题/日期，价按 ㉕ 锚价）",
 "one_question": "Thomas, regarding your requirement for 40 units of 24-port PoE switches: we can supply Marvell-based 24-PoE + 4 SFP L2+ (280 W, VLAN/QoS, web-managed) with neutral or your packaging, CE/RoHS, 10–15 days lead time, EXW USD — do you need managed or unmanaged, and what PoE budget per unit? Reference: STC-424DGGPM-280W at $134.5 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
@@ -183494,7 +183500,10 @@
 "proof_gaps": [
 "无邮件往来"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "Your 40 x 24-port PoE switch requirement - one concrete option",
+"body": "Hi Thomas,\n\nSome time ago you had a product mail from us - \"24 Port PoE Managed Switch\" on 3 September, priced at $170 - and there was no reason to answer a mass mail. This one is about your own requirement: 40 units of 24-port PoE switches.\n\nTwo ways to fill it, both Marvell-based L2+ managed (VLAN / QoS / IGMP, web GUI), CE/RoHS, neutral or your packaging, 10-15 days for 40 units:\n\n- 24 x Gigabit PoE+ (280 W) + 4 x Gigabit SFP, model STC-424DGGPM-280W - $134.5 USD EXW each (about $5,380 for 40, MOQ 1, 15-day validity).\n- 24 x Gigabit PoE+ (280 W) + 4 x 10G SFP+, model STC-424XGGPM-280W - now $180 USD EXW (the September mail said $170; the RMB moved from 7.2 to 6.7 against the dollar since then).\n\nIf the end customer only needs unmanaged 24-port PoE, there is a lower-cost unit on our Realtek line as well - I would quote it once I know the PoE budget they expect.\n\nOne question: is the 40-unit requirement still open, and which uplink does the end customer need - Gigabit SFP or 10G SFP+?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+},
 "as_of": "2026-10-25"
 }
 }
@@ -187355,7 +187364,7 @@
 "when": "2026-11（拆档后）",
 "channel": "Elsa 邮箱回原线程",
 "action": "首封前知悉：Elsa 已 1:1 去信 16 轮（2025-03-03→2026-08-04，0 回），此前还经锚 Bcc 触达（第 74 批(m)）；拆档 + 各一问；回原串沿用原主题（邮件客户端自动加 Re:），上面的主题只在另起新信时用",
-"one_question": "Vadim — the two test units Elsa priced in March (STH-8C48DX-HSI USD 5,000; STH-2C24XF-HSI USD 1,350, MOQ 1, EXW) still stand subject to confirmation at order time; which capacity is the first project, and is the sample for a telecom or a data-centre site?"
+"one_question": "Vadim — the two test units we priced in March (STH-8C48DX-HSI USD 5,000; STH-2C24XF-HSI USD 1,350, MOQ 1, EXW) still stand subject to confirmation at order time; which capacity is the first project, and is the sample for a telecom or a data-centre site?"
 },
 "facts": [
 {
@@ -187580,8 +187589,8 @@
 "（已核 2026-10-24，第 73 批）三家各一封 Elsa 回复已读：Vintron 02-12 链接 PDF；Quip Pro 03-13 实报 STH-8C48DX-HSI $5,000 / STH-2C24XF-HSI $1,350 并问项目/品牌；AirLink 04-29「价格在链接里」；三家之后均无回"
 ],
 "draft_en": {
-"subject": "Your test-sample request — the two units Elsa priced",
-"body": "Vadim,\n\nIn March Elsa suggested two test units for Quip Pro — STH-8C48DX-HSI (48× 25G + 8× 100G) at USD 5,000 and STH-2C24XF-HSI (24× 10G SFP+ + 2× 100G) at USD 1,350, MOQ 1, EXW — and asked whether your work is project-based or own-brand. We did not hear back. Both prices are confirmed at order time (memory and SSD costs have moved since March).\n\nWhich capacity is the first project, and is the test sample for a telecom site or a data-centre site? That decides the firmware image we ship.\n\nAlan Yan\nSaga Telecom"
+"subject": "Your test-sample request — the two units we priced",
+"body": "Vadim,\n\nIn March we suggested two test units for Quip Pro — STH-8C48DX-HSI (48× 25G + 8× 100G) at USD 5,000 and STH-2C24XF-HSI (24× 10G SFP+ + 2× 100G) at USD 1,350, MOQ 1, EXW — and asked whether your work is project-based or own-brand. We did not hear back. Both prices are confirmed at order time (memory and SSD costs have moved since March).\n\nWhich capacity is the first project, and is the test sample for a telecom site or a data-centre site? That decides the firmware image we ship.\n\nAlan Yan\nSaga Telecom"
 },
 "as_of": "2026-10-25"
 }
@@ -289797,14 +289806,17 @@
 "next_move": {
 "when": "待 Simon 排期（首封；ISAF 续）",
 "channel": "A 邮箱 → ctuncbilek@hescs.com（Cihat Tunçbilek；土耳其语）",
-"action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频",
+"action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 74 批(q) 2026-10-25：英文信稿已写 `draft_en`——ISAF 问题 L2/L3 两款并列、OEM 30% 价、只问一个「先打样哪款」；Turkish 一句话版留在 one_question 备用，发信用英文）",
 "one_question": "Cihat Bey, ISAF'ta sorduğunuz L2/L3 sorusunun cevabı: 24 port PoE+ (280 W) + 4 SFP L2+ model HCS etiketiyle EXW 145,7 USD, 24 port + 4×10G L3 model 291,5 USD; HCS kablolama ürün gamına eklemek için önce hangi model için numune isterseniz hazırlayayım?"
 },
 "facts": [],
 "proof_gaps": [
 "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 从未去信、Replied 索引亦无此户），仓库未见原文"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "HCS switch line - the L2 / L3 answer from ISAF 2025",
+"body": "Hi Cihat,\n\nAt ISAF 2025 in Istanbul you asked whether the 24-port PoE switch we showed is L2 or L3 - this is the plain answer, a year late but complete.\n\nBoth exist, same chassis, HCS label and your model number on the unit and the web GUI:\n\n- L2+ (VLAN, QoS, IGMP, LACP, PoE scheduling): 24 x Gigabit PoE+ (280 W budget) + 4 SFP, model STC-424DGGPM-280W - $145.7 USD EXW (OEM price, MOQ 1, 15-day validity).\n- L3 (static routing + dynamic routing): 24 x Gigabit + 4 x 10G SFP+, model STC-424XGGM(L3) - $291.5 USD EXW (non-PoE; the L3 tier with PoE exists only in our industrial DIN/rack series, quoted separately if needed).\n\nBoth are Marvell-based managed switches, CE/RoHS, 1-year warranty, 4-7 working days for the first lots. Housing, carton and manual are neutral by default; HCS logo on the front panel is free of charge, colour box from 200 sets.\n\nOne question: which of the two should I prepare first as an evaluation unit (at the unit price) for your product team - the L2+ PoE model that fits the HCS cabling range, or the L3 unit?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -306417,7 +306429,7 @@
 "tier": 25,
 "why": "12–24 SFP 需求唯一对位 = Saga 工业 STI-4168DGGCM-U（16×SFP + 8 combo + 4×2.5G SFP，$421.5/439.1/456.7）；商用 24 SFP 款需按 SmartByte 型号另询并注明。"
 },
-"email_hook": "（无邮箱；WhatsApp：The 16-SFP + 8-combo unit is in stock as an industrial model; if you need a rack 24-SFP commercial version, tell me the uplink type (4×1G or 4×10G) and I'll confirm lead time.）",
+"email_hook": "（无邮箱；WhatsApp：The 16-SFP + 8-combo unit is available as an industrial model; if you need a rack 24-SFP commercial version, tell me the uplink type (4×1G or 4×10G) and I'll confirm lead time.）",
 "mail_review": {
 "binding": {
 "level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：FS板子；回复：12-24 sfp switch ready?」）；Elsa 箱无可查地址（仓内无此户任何邮箱/域名——用户表/WhatsApp/展会名片户，`from:e.sagatelecom to:` 无从下手；Elsa 群发是否碰过他无法判定，不写「未触达」）（第 74 批(o)）",

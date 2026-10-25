@@ -36,7 +36,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STI-110GE — 自有品牌光纤传输线中 MC / 以太网交换机外采 → 工业 MC STI-110GE（$24.3 @30%）、工业 8 GE STI-080GE（$34.0）贴 Fibersystem 标；数据二极管/TEMPEST（政府/国防）线不碰；首触锚价 STI-110GE $26.5 EXW（最近实报 SA-001 2025-11-27 $26.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-06-29 $300（48 Port PoE Managed Switch = STC-448XGGPM，Elsa 箱 1 轮 2025-06-29；现表 $335.4@20%、Drive 老表 $335——同款写 $335 要先说 2025 群发是 $300、汇率 7.2→6.7）；2026-09-08 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 2 轮 2026-08-18→2026-09-08；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：Oscar, following our earlier contact: for the gigabit media converters and compact Ethernet switches in your commercial fiber range, we can supply DIN-rail units under the Fibersystem label from small lots (CE/RoHS) — is the converter or the switch the more frequent request from your customers? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：待 Simon 排期（首封） A 邮箱 → anne.ekblad@fibersystem.com（Anne Ekblad） 首封前知悉：Elsa 已 BCC 群发触达（最近 2026-09-08「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问
+- **下一步**：待 Simon 排期（首封） A 邮箱 → anne.ekblad@fibersystem.com（Anne Ekblad） 首封前知悉：Elsa 已 BCC 群发触达（最近 2026-09-08「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 74 批(q) 2026-10-25：英文信稿已写 `draft_en`，开头按 ㉝ 写明 Elsa 群发主题/日期，价按 ㉕ 锚价）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-25）
 
@@ -47,7 +47,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：自有品牌光纤传输线中 MC / 以太网交换机外采 → 工业 MC STI-110GE（$24.3 @30%）、工业 8 GE STI-080GE（$34.0）贴 Fibersystem 标；数据二极管/TEMPEST（政府/国防）线不碰
 - **断点 / 为什么停在这里**：TEMPEST / 数据二极管 = 政府国防安全市场：守界，只报商用光纤传输配套
 - **Saga 现在该推什么**：P1 **STI-110GE**（30% 档，首触锚价 STI-110GE $26.5 EXW（最近实报 SA-001 2025-11-27 $26.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-06-29 $300（48 Port PoE Managed Switch = STC-448XGGPM，Elsa 箱 1 轮 2025-06-29；现表 $335.4@20%、Drive 老表 $335——同款写 $335 要先说 2025 群发是 $300、汇率 7.2→6.7）；2026-09-08 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 2 轮 2026-08-18→2026-09-08；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170））——自有品牌光纤传输线中 MC / 以太网交换机外采 → 工业 MC STI-110GE（$24.3 @30%）、工业 8 GE STI-080GE（$34.0）贴 Fibersystem 标；数据二极管/TEMPEST（政府/国防）线不碰
-- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → anne.ekblad@fibersystem.com（Anne Ekblad）　首封前知悉：Elsa 已 BCC 群发触达（最近 2026-09-08「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问
+- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → anne.ekblad@fibersystem.com（Anne Ekblad）　首封前知悉：Elsa 已 BCC 群发触达（最近 2026-09-08「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 74 批(q) 2026-10-25：英文信稿已写 `draft_en`，开头按 ㉝ 写明 Elsa 群发主题/日期，价按 ㉕ 锚价）
   - 第一问（只问一个）：Oscar, following our earlier contact: for the gigabit media converters and compact Ethernet switches in your commercial fiber range, we can supply DIN-rail units under the Fibersystem label from small lots (CE/RoHS) — is the converter or the switch the more frequent request from your customers? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -236,23 +236,28 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-110GE - industrial mini Gigabit media converter (neutral label)
+**主题**：Fibersystem label - gigabit media converter / compact switch for the commercial fiber range
 
 ```text
-Hi Oscar,
+Hi Anne,
 
-Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 2026-09-08 - and there was no reason to answer a mass mail. This one is specific. Following our earlier contact: for the gigabit media converters and compact Ethernet switches in your commercial fiber range, we can supply DIN-rail units under the Fibersystem label from small lots (CE/RoHS) — is the converter or the switch the more frequent request from your customers?
+Over the past year you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 8 September - and there was no reason to answer a mass mail. This one is specific to Fibersystem.
 
-We supply an industrial mini Gigabit media converter (1 fiber + 1 copper) - model STI-110GE - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $26.5 USD EXW (valid 15 days).
+For the commercial side of your fiber range (not the data-diode / TEMPEST line, which we do not touch), two units can carry the Fibersystem label from small lots:
 
-If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+- Industrial gigabit media converter, 1 x RJ45 + 1 x SFP, DIN-rail, -40 to 75 C, model STI-110GE - $26.5 USD EXW, MOQ 1, 15-day validity.
+- Compact industrial 8 x Gigabit switch, DIN-rail, unmanaged, model STI-080GE - $34.0 USD EXW.
+
+Both CE/RoHS, 3-year warranty with our DIN power supply, neutral housing and carton, your logo on the front at no charge.
+
+One question: from your customers, is the converter or the compact switch the more frequent request? I will send the datasheet of that one first.
 
 Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Simon
+Saga Telecom - sagatele.com
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 

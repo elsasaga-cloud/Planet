@@ -123,7 +123,7 @@ updated: 2026-10-25
   - 官网侧重 CCTV 报价获客——PoE 交换机为摄像机工程配套耗材，8/16/24 口 PoE 为主（2026-10-21）
 - **风险/边界**：小批量样单；UAE 项目付款与清关由客户处理
 - **Saga 对位结论**：P1 STI-144GP（25% 档）——询盘即 1 光 4 电工业千兆 → STI-144GP；集成商 25% 档；2 台可当样机走 PayPal
-- **邮件切入句（英文）**：For the two industrial gigabit 1-fibre 4-copper units you asked about, the 4-port PoE + 1 SFP DIN switch is in stock for a 10–15 day dispatch, and I can ship the pair as samples by courier on PayPal terms.
+- **邮件切入句（英文）**：For the two industrial gigabit 1-fibre 4-copper units you asked about, the 4-port PoE + 1 SFP DIN switch ships within 10–15 days, and I can ship the pair as samples by courier on PayPal terms.
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：超时（站慢或封锁））
 
@@ -265,7 +265,7 @@ updated: 2026-10-25
 ```text
 Hi Rashid,
 
-Picking up our earlier exchange about PoE / industrial switches. For the two industrial gigabit 1-fibre 4-copper units you asked about, the 4-port PoE + 1 SFP DIN switch is in stock for a 10–15 day dispatch, and I can ship the pair as samples by courier on PayPal terms.
+Picking up our earlier exchange about PoE / industrial switches. For the two industrial gigabit 1-fibre 4-copper units you asked about, the 4-port PoE + 1 SFP DIN switch ships within 10–15 days, and I can ship the pair as samples by courier on PayPal terms.
 
 We supply a compact industrial switch, 4x Gigabit PoE+ plus 1 SFP (unmanaged) - model STI-144GP - that fits the same slot as the units you source today at a lower landed cost, and we can ship it with neutral packaging. Current price: $35.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

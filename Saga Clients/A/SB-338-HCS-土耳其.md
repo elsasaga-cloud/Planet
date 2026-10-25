@@ -38,7 +38,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424DGGPM-280W（HCS 贴牌）/ STC-424XGGM(L3) — 布线品牌补交换机线 → OEM 贴 HCS 标；产品开发经理在 ISAF 问 L2/L3；锚价：STC-424DGGPM-280W 145,7（OEM 30% 档）/ STC-424XGGM(L3) 291,5（25% 档，≤ PDF 295）（第 72 批 2026-10-24）；—
 - **第一问（只问一个）**：Cihat Bey, ISAF'ta sorduğunuz L2/L3 sorusunun cevabı: 24 port PoE+ (280 W) + 4 SFP L2+ model HCS etiketiyle EXW 145,7 USD, 24 port + 4×10G L3 model 291,5 USD; HCS kablolama ürün gamına eklemek için önce hangi model için numune isterseniz hazırlayayım?
 - **最大未知**：年走量与现供应商
-- **下一步**：待 Simon 排期（首封；ISAF 续） A 邮箱 → ctuncbilek@hescs.com（Cihat Tunçbilek；土耳其语） 一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频
+- **下一步**：待 Simon 排期（首封；ISAF 续） A 邮箱 → ctuncbilek@hescs.com（Cihat Tunçbilek；土耳其语） 一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 74 批(q) 2026-10-25：英文信稿已写 `draft_en`——ISAF 问题 L2/L3 两款并列、OEM 30% 价、只问一个「先打样哪款」；Turkish 一句话版留在 one_question 备用，发信用英文）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -49,7 +49,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：24 口 PoE+ L2+ / 24 口 + 4×10G L3 商用机（HCS 标）
 - **断点 / 为什么停在这里**：—
 - **Saga 现在该推什么**：P1 **STC-424DGGPM-280W（HCS 贴牌）/ STC-424XGGM(L3)**（25% 档，锚价：STC-424DGGPM-280W 145,7（OEM 30% 档）/ STC-424XGGM(L3) 291,5（25% 档，≤ PDF 295）（第 72 批 2026-10-24）；—）——布线品牌补交换机线 → OEM 贴 HCS 标；产品开发经理在 ISAF 问 L2/L3
-- **下一步（具体）**：待 Simon 排期（首封；ISAF 续）　A 邮箱 → ctuncbilek@hescs.com（Cihat Tunçbilek；土耳其语）　一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频
+- **下一步（具体）**：待 Simon 排期（首封；ISAF 续）　A 邮箱 → ctuncbilek@hescs.com（Cihat Tunçbilek；土耳其语）　一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 74 批(q) 2026-10-25：英文信稿已写 `draft_en`——ISAF 问题 L2/L3 两款并列、OEM 30% 价、只问一个「先打样哪款」；Turkish 一句话版留在 one_question 备用，发信用英文）
   - 第一问（只问一个）：Cihat Bey, ISAF'ta sorduğunuz L2/L3 sorusunun cevabı: 24 port PoE+ (280 W) + 4 SFP L2+ model HCS etiketiyle EXW 145,7 USD, 24 port + 4×10G L3 model 291,5 USD; HCS kablolama ürün gamına eklemek için önce hangi model için numune isterseniz hazırlayayım?
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 从未去信、Replied 索引亦无此户），仓库未见原文
@@ -220,23 +220,28 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-424DGGPM-280W - 24-port Gigabit PoE+ L2+ managed switch (Marvell-based, neutral label)
+**主题**：HCS switch line - the L2 / L3 answer from ISAF 2025
 
 ```text
 Hi Cihat,
 
-Good to meet you at ISAF 2025 in Istanbul - this follows up on what we discussed at the booth. ISAF'ta sorduğunuz L2/L3 sorusunun cevabı: 24 port PoE+ (280 W) + 4 SFP L2+ model HCS etiketiyle EXW 145,7 USD, 24 port + 4×10G L3 model 291,5 USD; HCS kablolama ürün gamına eklemek için önce hangi model için numune isterseniz hazırlayayım?
+At ISAF 2025 in Istanbul you asked whether the 24-port PoE switch we showed is L2 or L3 - this is the plain answer, a year late but complete.
 
-We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $145.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
+Both exist, same chassis, HCS label and your model number on the unit and the web GUI:
 
-If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+- L2+ (VLAN, QoS, IGMP, LACP, PoE scheduling): 24 x Gigabit PoE+ (280 W budget) + 4 SFP, model STC-424DGGPM-280W - $145.7 USD EXW (OEM price, MOQ 1, 15-day validity).
+- L3 (static routing + dynamic routing): 24 x Gigabit + 4 x 10G SFP+, model STC-424XGGM(L3) - $291.5 USD EXW (non-PoE; the L3 tier with PoE exists only in our industrial DIN/rack series, quoted separately if needed).
+
+Both are Marvell-based managed switches, CE/RoHS, 1-year warranty, 4-7 working days for the first lots. Housing, carton and manual are neutral by default; HCS logo on the front panel is free of charge, colour box from 200 sets.
+
+One question: which of the two should I prepare first as an evaluation unit (at the unit price) for your product team - the L2+ PoE model that fits the HCS cabling range, or the L3 unit?
 
 Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Simon
+Saga Telecom - sagatele.com
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 

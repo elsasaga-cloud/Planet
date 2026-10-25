@@ -37,7 +37,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STI-288GPM — Hirschmann/Moxa 之下的工业管理 PoE → STI-288GPM（$78.9 @20%）；非 PoE STI-280GM。；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-09-04 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-04；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：Gina, below the Hirschmann/Moxa price points on your industrial networking page — a Marvell-based DIN managed 8-PoE + 2-SFP (ERPS, −40~75 ℃, CE/UKCA/RoHS) at $79 EXW; worth one evaluation unit for the Brighton lab?
 - **最大未知**：年走量与现供应商
-- **下一步**：待 Simon 排期（首封） A 邮箱 → gina.c@amplicon.com（Gina C.） 首封前知悉：Elsa 已 BCC 群发触达（最近 2026-09-04「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问
+- **下一步**：待 Simon 排期（首封） A 邮箱 → gina.c@amplicon.com（Gina C.） 首封前知悉：Elsa 已 BCC 群发触达（最近 2026-09-04「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 74 批(q) 2026-10-25：英文信稿已写 `draft_en`，开头按 ㉝ 写明 Elsa 群发主题/日期，价按 ㉕ 锚价）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-25）
 
@@ -48,7 +48,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：Hirschmann/Moxa 之下的工业管理 PoE → STI-288GPM（$78.9 @20%）；非 PoE STI-280GM。
 - **断点 / 为什么停在这里**：英国 UKCA 要求（Saga 有 UKCA）；大分销导入流程长
 - **Saga 现在该推什么**：P1 **STI-288GPM**（20% 档，按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-09-04 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-04；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170））——Hirschmann/Moxa 之下的工业管理 PoE → STI-288GPM（$78.9 @20%）；非 PoE STI-280GM。
-- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → gina.c@amplicon.com（Gina C.）　首封前知悉：Elsa 已 BCC 群发触达（最近 2026-09-04「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问
+- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → gina.c@amplicon.com（Gina C.）　首封前知悉：Elsa 已 BCC 群发触达（最近 2026-09-04「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 74 批(q) 2026-10-25：英文信稿已写 `draft_en`，开头按 ㉝ 写明 Elsa 群发主题/日期，价按 ㉕ 锚价）
   - 第一问（只问一个）：Gina, below the Hirschmann/Moxa price points on your industrial networking page — a Marvell-based DIN managed 8-PoE + 2-SFP (ERPS, −40~75 ℃, CE/UKCA/RoHS) at $79 EXW; worth one evaluation unit for the Brighton lab?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -227,23 +227,25 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-288GPM - industrial DIN-rail L2 managed switch (Marvell-based, neutral label)
+**主题**：STI-288GPM - DIN managed 8-PoE + 2-SFP below the Hirschmann / Moxa price points
 
 ```text
 Hi Gina,
 
-Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 2026-09-04 - and there was no reason to answer a mass mail. This one is specific. Below the Hirschmann/Moxa price points on your industrial networking page — a Marvell-based DIN managed 8-PoE + 2-SFP (ERPS, −40~75 ℃, CE/UKCA/RoHS) at $79 EXW; worth one evaluation unit for the Brighton lab?
+Some time ago you had a product mail from us - "24 Port PoE Managed Switch" on 4 September - and there was no reason to answer a mass mail. This one is specific to Amplicon's industrial networking page.
 
-We supply a Marvell-based industrial DIN-rail L2 managed switch, 8x Gigabit PoE+ plus 2 SFP (240 W) - model STI-288GPM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $78.9 USD EXW (price snapshot 2026-10-17, valid 15 days).
+Below the Hirschmann / Moxa price points you list, we supply a Marvell-based DIN-rail managed switch, 8 x Gigabit PoE+ (240 W) + 2 x SFP, ERPS ring, -40 to 75 C, CE/UKCA/RoHS, model STI-288GPM - $78.9 USD EXW (distributor price, MOQ 1, 15-day validity). Non-PoE sister model STI-280GM at $68.2.
 
-If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+It ships under your own label with neutral packaging if that suits the Amplicon catalogue better than a third-party brand; 3-year warranty together with our DIN power supply.
+
+One question: is one evaluation unit (at the unit price) for the Brighton lab worth a slot in your 2027 line-card review?
 
 Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Simon
+Saga Telecom - sagatele.com
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 

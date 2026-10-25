@@ -35,7 +35,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STC-424DGGPM-280W — 询盘 40 台 24 口 PoE → 24 口 PoE+ 4 SFP L2+ STC-424DGGPM-280W（$134.5 @20%，40 台约 $5,380 EXW）；10G 上联版 STC-424XGGPM-280W（$181.2）；非管理 24 PoE 位 HRUI STC-2024GP（列表价，注明）；首触锚价 STC-424DGGPM-280W $134.5 EXW（主表档位（PDF 上限 $165；SA-145 2025-02 实报 $150）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-09-03 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-03；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：Thomas, regarding your requirement for 40 units of 24-port PoE switches: we can supply Marvell-based 24-PoE + 4 SFP L2+ (280 W, VLAN/QoS, web-managed) with neutral or your packaging, CE/RoHS, 10–15 days lead time, EXW USD — do you need managed or unmanaged, and what PoE budget per unit? Reference: STC-424DGGPM-280W at $134.5 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：待 Simon 排期（首封） A 邮箱 → thomas.lemaire@hightrade-international.com（Thomas Lemaire） 首封前知悉：Elsa 已 BCC 群发触达（最近 2026-09-03「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问
+- **下一步**：待 Simon 排期（首封） A 邮箱 → thomas.lemaire@hightrade-international.com（Thomas Lemaire） 首封前知悉：Elsa 已 BCC 群发触达（最近 2026-09-03「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 74 批(q) 2026-10-25：英文信稿已写 `draft_en`，开头按 ㉝ 写明 Elsa 群发主题/日期，价按 ㉕ 锚价）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-25）
 
@@ -46,7 +46,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：询盘 40 台 24 口 PoE → 24 口 PoE+ 4 SFP L2+ STC-424DGGPM-280W（$134.5 @20%，40 台约 $5,380 EXW）；10G 上联版 STC-424XGGPM-280W（$181.2）；非管理 24 PoE 位 HRUI STC-2024GP（列表价，注明）
 - **断点 / 为什么停在这里**：采购中介（为终端客户比价，忠诚度低）；询盘时间/有效性待核（表内未跟进）
 - **Saga 现在该推什么**：P1 **STC-424DGGPM-280W**（20% 档，首触锚价 STC-424DGGPM-280W $134.5 EXW（主表档位（PDF 上限 $165；SA-145 2025-02 实报 $150）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-09-03 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-03；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170））——询盘 40 台 24 口 PoE → 24 口 PoE+ 4 SFP L2+ STC-424DGGPM-280W（$134.5 @20%，40 台约 $5,380 EXW）；10G 上联版 STC-424XGGPM-280W（$181.2）；非管理 24 PoE 位 HRUI STC-2024GP（列表价，注明）
-- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → thomas.lemaire@hightrade-international.com（Thomas Lemaire）　首封前知悉：Elsa 已 BCC 群发触达（最近 2026-09-03「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问
+- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → thomas.lemaire@hightrade-international.com（Thomas Lemaire）　首封前知悉：Elsa 已 BCC 群发触达（最近 2026-09-03「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 74 批(q) 2026-10-25：英文信稿已写 `draft_en`，开头按 ㉝ 写明 Elsa 群发主题/日期，价按 ㉕ 锚价）
   - 第一问（只问一个）：Thomas, regarding your requirement for 40 units of 24-port PoE switches: we can supply Marvell-based 24-PoE + 4 SFP L2+ (280 W, VLAN/QoS, web-managed) with neutral or your packaging, CE/RoHS, 10–15 days lead time, EXW USD — do you need managed or unmanaged, and what PoE budget per unit? Reference: STC-424DGGPM-280W at $134.5 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -219,23 +219,28 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-424DGGPM-280W - 24-port Gigabit PoE+ L2+ managed switch (Marvell-based, neutral label)
+**主题**：Your 40 x 24-port PoE switch requirement - one concrete option
 
 ```text
 Hi Thomas,
 
-Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 2026-09-03 - and there was no reason to answer a mass mail. This one is specific. Regarding your requirement for 40 units of 24-port PoE switches: we can supply Marvell-based 24-PoE + 4 SFP L2+ (280 W, VLAN/QoS, web-managed) with neutral or your packaging, CE/RoHS, 10–15 days lead time, EXW USD — do you need managed or unmanaged, and what PoE budget per unit?
+Some time ago you had a product mail from us - "24 Port PoE Managed Switch" on 3 September, priced at $170 - and there was no reason to answer a mass mail. This one is about your own requirement: 40 units of 24-port PoE switches.
 
-We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $134.5 USD EXW (valid 15 days).
+Two ways to fill it, both Marvell-based L2+ managed (VLAN / QoS / IGMP, web GUI), CE/RoHS, neutral or your packaging, 10-15 days for 40 units:
 
-If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+- 24 x Gigabit PoE+ (280 W) + 4 x Gigabit SFP, model STC-424DGGPM-280W - $134.5 USD EXW each (about $5,380 for 40, MOQ 1, 15-day validity).
+- 24 x Gigabit PoE+ (280 W) + 4 x 10G SFP+, model STC-424XGGPM-280W - now $180 USD EXW (the September mail said $170; the RMB moved from 7.2 to 6.7 against the dollar since then).
+
+If the end customer only needs unmanaged 24-port PoE, there is a lower-cost unit on our Realtek line as well - I would quote it once I know the PoE budget they expect.
+
+One question: is the 40-unit requirement still open, and which uplink does the end customer need - Gigabit SFP or 10G SFP+?
 
 Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Simon
+Saga Telecom - sagatele.com
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 
