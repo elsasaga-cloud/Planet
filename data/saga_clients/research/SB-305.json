@@ -93,7 +93,7 @@
  ],
  "mail_review": {
   "binding": {
-   "level": "读而不回（A/S 邮箱 38 封 2024→2026，其中 3 封被打开，0 回；收件 rnathan@cloudtronics.com.au, sales@cloudtronics.com.au；被打开主题「Marvell Alleycat5 Solution、Managed Optical Bypass Switch」）；Elsa 单发去信 1 封（2025-02-12「16 Port Ethernet Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）",
+   "level": "读而不回（A/S 邮箱 38 封 2024→2026，其中 3 封被打开，0 回；收件 rnathan@cloudtronics.com.au, sales@cloudtronics.com.au；被打开主题「Marvell Alleycat5 Solution、Managed Optical Bypass Switch」）；Elsa 单发去信 1 封（2025-02-12「16 Port Ethernet Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）；另 Elsa 单发 1 封（2025-12-10「Booster PoE Switch」）",
    "type": "澳洲网络/光模块自有品牌商（工业 PoE 贴标，OEM 采购）",
    "sieve": "2（有人在读，无人回）",
    "stop": "读而不回 = 内容未命中或没有当下需求",
@@ -144,6 +144,15 @@
     "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
     "k": "elsa_1to1",
     "msg_id": "194f77495ad0fe55"
+   },
+   {
+    "date": "2025-12-10",
+    "dir": "out",
+    "who": "Elsa → support@cloudtronics.co.id",
+    "quote": "Booster PoE Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+    "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
+    "k": "elsa_1to1",
+    "msg_id": "19b06c607335d43b"
    }
   ],
   "proof_gaps": [],

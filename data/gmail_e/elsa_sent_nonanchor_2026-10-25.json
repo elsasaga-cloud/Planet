@@ -1,6 +1,6 @@
 {
- "_note": "Elsa 箱 in:sent 排除 39 个锚域/地址后的「非锚单发」普查（To 仅本户或少数几人；非 BCC 批次）。已完整覆盖窗口：2025-02-10→2025-03-14（Elsa 箱首波 1:1，complete=true）；2025-12-30→12-31「Marvell Industrial Alert System」波（第 1 页）；2026-05-07→05-21（第 1 页）；2026-08-06 18:20→08-07 22:04（第 1 页）；2026-08-10→08-31（完整）；2026-09-01→09-15（完整，Elsa 最后一封 2026-09-15）。未爬窗口：2025-03-15→2025-12-29（-subject:Re 下 201+ 条，仅取第 1 页=12-30/31 波；next_page_token 16614792254875895227）；2026-01-01→2026-05-07 及 2026-05-21→2026-08-06（token 09803759952060759798）；2026-08-07 22:04→08-10（token 08459476813814537633）。按户查全史用 from:e.sagatelecom to:<addr>。一条看似 1:1 的行也可能带 Bcc（globalconnectsynergy 2026-09-07 Bcc 12）。",
- "fetched_at": "2026-10-25T02:36Z",
+ "_note": "Elsa 箱 in:sent 排除 39 个锚域/地址后的「非锚单发」普查（To 仅本户或少数几人；非 BCC 批次）。已完整覆盖窗口：2025-02-10→2025-03-14（Elsa 箱首波 1:1，complete=true）；2025-12-30→12-31「Marvell Industrial Alert System」波（第 1 页）；2026-05-07→05-21（第 1 页）；2026-08-06 18:20→08-07 22:04（第 1 页）；2026-08-10→08-31（完整）；2026-09-01→09-15（完整，Elsa 最后一封 2026-09-15）。已再取 2025-12-10→12-29 一页（「Booster PoE Switch」ID/IN/RU 波 + 12-29「Marvell Industrial Alert System」暖名单）；未爬窗口：2025-03-15→2025-12-10（-subject:Re 下仍 201+ 条；next_page_token 12160968471228707501）；2026-01-01→2026-05-07 及 2026-05-21→2026-08-06（token 09803759952060759798）；2026-08-07 22:04→08-10（token 08459476813814537633）。按户查全史用 from:e.sagatelecom to:<addr>。一条看似 1:1 的行也可能带 Bcc（globalconnectsynergy 2026-09-07 Bcc 12）。",
+ "fetched_at": "2026-10-25T02:47Z",
  "rows": [
   {
    "msg_id": "194f0445eb0abfc2",
@@ -1785,6 +1785,356 @@
    "date": "2025-03-14",
    "to": "mail@techzoneme.com",
    "subject": "8 Port Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19b075882a7d1cc8",
+   "date": "2025-12-10",
+   "to": "corporate@apar.com",
+   "subject": "Booster PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19b074634c853d97",
+   "date": "2025-12-10",
+   "to": "contactus@nibelimited.com",
+   "subject": "Booster PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19b0733e4f350c43",
+   "date": "2025-12-10",
+   "to": "info@comxus.com",
+   "subject": "Booster PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19b07219470d3f1e",
+   "date": "2025-12-10",
+   "to": "sales@wifi-soft.com",
+   "subject": "Booster PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19b070f456ec5c15",
+   "date": "2025-12-10",
+   "to": "info@ngapl.com",
+   "subject": "Booster PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19b06fcf75b73de0",
+   "date": "2025-12-10",
+   "to": "info@agsindia.com",
+   "subject": "Booster PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19b06eaa6541b2f8",
+   "date": "2025-12-10",
+   "to": "sales@qntmnet.com",
+   "subject": "Booster PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19b06d856da0f05f",
+   "date": "2025-12-10",
+   "to": "info@sejahteramandiri.com",
+   "subject": "Booster PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19b06c607335d43b",
+   "date": "2025-12-10",
+   "to": "support@cloudtronics.co.id",
+   "subject": "Booster PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19b06b3b8bb50f63",
+   "date": "2025-12-10",
+   "to": "tenry.kusuma@fulindo.co.id",
+   "subject": "Booster PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19b06a16939edd82",
+   "date": "2025-12-10",
+   "to": "Pandapotan.Siregar@omnicom.co.id",
+   "subject": "Booster PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19b068f19da1e773",
+   "date": "2025-12-10",
+   "to": "mw@mwa.co.id",
+   "subject": "Booster PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19b06698ec3c6913",
+   "date": "2025-12-10",
+   "to": "info@kundalini.co.id",
+   "subject": "Booster PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19b06582bc617c91",
+   "date": "2025-12-10",
+   "to": "sales@alvasta-tech.com",
+   "subject": "Booster PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19b0645dbb168e92",
+   "date": "2025-12-10",
+   "to": "sales@gigantika.co.id",
+   "subject": "Booster PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19b06338b274ac86",
+   "date": "2025-12-10",
+   "to": "digicomint2000@yahoo.com, digicomltd2000@gmail.com",
+   "subject": "Booster PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19b06213c1f51e79",
+   "date": "2025-12-10",
+   "to": "info@ggi-idn.com",
+   "subject": "Booster PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19b0bda1443ce678",
+   "date": "2025-12-11",
+   "to": "info@golfautomation.co.in",
+   "subject": "Booster PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19b0bc7c497dce49",
+   "date": "2025-12-11",
+   "to": "saleslni@leap-networks.id",
+   "subject": "Booster PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19b0bb574be95c11",
+   "date": "2025-12-11",
+   "to": "sales@flextreme-inside.com",
+   "subject": "Booster PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19b0b91c0b14680a",
+   "date": "2025-12-11",
+   "to": "info@microthings.id",
+   "subject": "Booster PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19b0b7e87bf98dad",
+   "date": "2025-12-11",
+   "to": "sales@idmr.co.id",
+   "subject": "Booster PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19b0b3e715125303",
+   "date": "2025-12-11",
+   "to": "sales@aswindra.co.id",
+   "subject": "Booster PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19b12d1865addc12",
+   "date": "2025-12-12",
+   "to": "info@alastor.com.ar",
+   "subject": "Booster PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19b10804285b364f",
+   "date": "2025-12-12",
+   "to": "sales@sprintintercom.com.au",
+   "subject": "Booster PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19b2133c674ee89c",
+   "date": "2025-12-15",
+   "to": "sales@cmd-sec.ru",
+   "subject": "Booster PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19b20b39b421f4ce",
+   "date": "2025-12-15",
+   "to": "sales@soyuzsp.ru",
+   "subject": "Booster PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19b270901624f65f",
+   "date": "2025-12-16",
+   "to": "komerce@skss.ru",
+   "subject": "Booster PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19b26b3db89d22fd",
+   "date": "2025-12-16",
+   "to": "moscow@stilsoft.ru",
+   "subject": "Booster PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19b264f2716346aa",
+   "date": "2025-12-16",
+   "to": "msk@nnz.ru",
+   "subject": "Booster PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19b25ec455da436d",
+   "date": "2025-12-16",
+   "to": "S.Markin@mip-sb.ru",
+   "subject": "Booster PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19b2c75dac4df24a",
+   "date": "2025-12-17",
+   "to": "info@b2b-services.ru",
+   "subject": "Booster PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19b6aa99fe1547ae",
+   "date": "2025-12-29",
+   "to": "depcompras@cronte.net, depcomprascronte@gmail.com",
+   "subject": "Marvell Industrial Alert System",
+   "note": ""
+  },
+  {
+   "msg_id": "19b6a8417a956799",
+   "date": "2025-12-29",
+   "to": "sales@eminnovate.com",
+   "subject": "Marvell Industrial Alert System",
+   "note": ""
+  },
+  {
+   "msg_id": "19b6a689f3702326",
+   "date": "2025-12-29",
+   "to": "emiranda@surlink-tech.com",
+   "subject": "Marvell Industrial Alert System",
+   "note": ""
+  },
+  {
+   "msg_id": "19b6a4d2648e3f24",
+   "date": "2025-12-29",
+   "to": "NealC@softnetworks.net",
+   "subject": "Marvell Industrial Alert System",
+   "note": ""
+  },
+  {
+   "msg_id": "19b6955f73ed4dab",
+   "date": "2025-12-29",
+   "to": "info@topica.mn",
+   "subject": "Marvell Industrial Alert System",
+   "note": ""
+  },
+  {
+   "msg_id": "19b6943a6db28e43",
+   "date": "2025-12-29",
+   "to": "shajahan007@gmail.com",
+   "subject": "Marvell Industrial Alert System",
+   "note": ""
+  },
+  {
+   "msg_id": "19b693156c34b0f3",
+   "date": "2025-12-29",
+   "to": "powerlogic1965@gmail.com",
+   "subject": "Marvell Industrial Alert System",
+   "note": ""
+  },
+  {
+   "msg_id": "19b690cb8b8fd5ff",
+   "date": "2025-12-29",
+   "to": "samuisso@tescom.co.tz",
+   "subject": "Marvell Industrial Alert System",
+   "note": ""
+  },
+  {
+   "msg_id": "19b68fa6941a54fc",
+   "date": "2025-12-29",
+   "to": "wafulamusine@gmail.com",
+   "subject": "Marvell Industrial Alert System",
+   "note": ""
+  },
+  {
+   "msg_id": "19b68e818f5b3782",
+   "date": "2025-12-29",
+   "to": "ismail@3lines.com.sa",
+   "subject": "Marvell Industrial Alert System",
+   "note": ""
+  },
+  {
+   "msg_id": "19b68d5caf6b9e79",
+   "date": "2025-12-29",
+   "to": "info@microtech.net.pk, sales@microtech.net.pk",
+   "subject": "Marvell Industrial Alert System",
+   "note": ""
+  },
+  {
+   "msg_id": "19b68c37a4935183",
+   "date": "2025-12-29",
+   "to": "info@ite.net.pk, sales@ite.net.pk",
+   "subject": "Marvell Industrial Alert System",
+   "note": ""
+  },
+  {
+   "msg_id": "19b68b12a9d6b6ef",
+   "date": "2025-12-29",
+   "to": "vipinjangra786@gmail.com",
+   "subject": "Marvell Industrial Alert System",
+   "note": ""
+  },
+  {
+   "msg_id": "19b689edbe0c3683",
+   "date": "2025-12-29",
+   "to": "rkahir65@gmail.com",
+   "subject": "Marvell Industrial Alert System",
+   "note": ""
+  },
+  {
+   "msg_id": "19b687a3c94bbfa1",
+   "date": "2025-12-29",
+   "to": "info@andatelecom.com, info@andatelecomindia.com",
+   "subject": "Marvell Industrial Alert System",
+   "note": ""
+  },
+  {
+   "msg_id": "19b6867ecdf61e8a",
+   "date": "2025-12-29",
+   "to": "info@citsindia.com",
+   "subject": "Marvell Industrial Alert System",
+   "note": ""
+  },
+  {
+   "msg_id": "19b68559d11d9c8b",
+   "date": "2025-12-29",
+   "to": "sales@agsplus.in, gunjan@xexagon.co.in",
+   "subject": "Marvell Industrial Alert System",
+   "note": ""
+  },
+  {
+   "msg_id": "19b684439e637db6",
+   "date": "2025-12-29",
+   "to": "infoautomation18@gmail.com",
+   "subject": "Marvell Industrial Alert System",
    "note": ""
   },
   {

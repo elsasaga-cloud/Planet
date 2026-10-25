@@ -42,7 +42,7 @@ updated: 2026-10-25
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-305` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：读而不回（A/S 邮箱 38 封 2024→2026，其中 3 封被打开，0 回；收件 rnathan@cloudtronics.com.au, sales@cloudtronics.com.au；被打开主题「Marvell Alleycat5 Solution、Managed Optical Bypass Switch」）；Elsa 单发去信 1 封（2025-02-12「16 Port Ethernet Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）** ｜ 类型：澳洲网络/光模块自有品牌商（工业 PoE 贴标，OEM 采购） ｜ 筛子：2（有人在读，无人回） ｜ 停点：读而不回 = 内容未命中或没有当下需求 ｜ 复活：一封「只问一句」的短信给打开过的地址（不附图不附表） ｜ 通路：澳大利亚 非主攻 ｜ 节奏：一封；回了再说 ｜ 证据：gmail_digest：out 38，Opened 标签 3（Simon 群发追踪）；用户表：「N-net的工业FS 带了自己的标；N-net的 网页做的不错；https://cloudtronics.co.id/products-and-solution」；研究档 risks：现代工 N-net（深圳）价格基准低；非主攻区（T5），RCM 由客户申报
+- **绑定等级：读而不回（A/S 邮箱 38 封 2024→2026，其中 3 封被打开，0 回；收件 rnathan@cloudtronics.com.au, sales@cloudtronics.com.au；被打开主题「Marvell Alleycat5 Solution、Managed Optical Bypass Switch」）；Elsa 单发去信 1 封（2025-02-12「16 Port Ethernet Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）；另 Elsa 单发 1 封（2025-12-10「Booster PoE Switch」）** ｜ 类型：澳洲网络/光模块自有品牌商（工业 PoE 贴标，OEM 采购） ｜ 筛子：2（有人在读，无人回） ｜ 停点：读而不回 = 内容未命中或没有当下需求 ｜ 复活：一封「只问一句」的短信给打开过的地址（不附图不附表） ｜ 通路：澳大利亚 非主攻 ｜ 节奏：一封；回了再说 ｜ 证据：gmail_digest：out 38，Opened 标签 3（Simon 群发追踪）；用户表：「N-net的工业FS 带了自己的标；N-net的 网页做的不错；https://cloudtronics.co.id/products-and-solution」；研究档 risks：现代工 N-net（深圳）价格基准低；非主攻区（T5），RCM 由客户申报
 - **现状一句话**：澳大利亚 Cloudtronics®（澳洲自有公司：兼容光模块（100% 兼容保证）、6 周定制 IoT 电子、网络设备；自有标工业 PoE 交换机 CLD-8POE-2SFP-IND（N-net 代工，备注 URL 印尼站 cloudtronics.co.id）；表内「N-net 的工业 FS 带了自己的标，网页做的不错」「可以多跟进一下」；KP Robert Nathan（Director，rnathan@））；群发 22 次无回复。
 - **对方真实需求（有据）**：自有 CLD-8POE-2SFP-IND（8 PoE + 2 SFP 工业非管理，N-net 代工）→ 工业 8 PoE + 2 SFP 非管理 STI-288GP（$62.2 @30%）/ 管理 STI-288GPM（$85.5）贴 Cloudtronics 标
 - **断点 / 为什么停在这里**：现代工 N-net（深圳）价格基准低；非主攻区（T5），RCM 由客户申报
@@ -55,6 +55,7 @@ updated: 2026-10-25
 | 2026-09-16 | 去 | A/S 群发 | Marvell Alleycat5 Solution、Managed Optical Bypass Switch | 38 封 / 3 次打开 / 0 回｜首封 2024-06-19 → 末封 2026-09-16（38 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | N-net的工业FS 带了自己的标；N-net的 网页做的不错；https://cloudtronics.co.id/products-and-solutions/network-device/industrial-unmanaged-po | 表内备注 | `用户表` |
 | 2025-02-12 | out | Elsa → sales@cloudtronics.com.au | 16 Port Ethernet Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
+| 2025-12-10 | out | Elsa → support@cloudtronics.co.id | Booster PoE Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 
 ## 基本事实（事实/推断/假设分层）
 

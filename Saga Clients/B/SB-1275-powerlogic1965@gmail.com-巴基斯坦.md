@@ -44,7 +44,7 @@ updated: 2026-10-25
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1275` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：轻度触达（2024-05-24 Waseem「send me your website」→ Drive 链接；2025-02-28 Elsa 邮箱再回「no need sample… we promote your product in Pakistan」= 想做推广不是买）；Elsa 单发去信 1 封（2026-05-11「10G Enterprise SFP Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）；另 Elsa 单发 1 封（2025-02-28「Mini Industrial PoE Switch」）** ｜ 类型：巴基斯坦电源/工程（Power Logic；Gmail） ｜ 筛子：1 ｜ 停点：— ｜ 复活：不动 ｜ 通路：PK ｜ 节奏：不动 ｜ 证据：k=53639b11bc8d96b5；第 19 批回补来信原文 1 条（gmail_s/gmail_a）；gmail_e 2025-02-28 回信 + Elsa 2025-04-08 再回（正文已入库，第 73 批：只给下载链接）
+- **绑定等级：轻度触达（2024-05-24 Waseem「send me your website」→ Drive 链接；2025-02-28 Elsa 邮箱再回「no need sample… we promote your product in Pakistan」= 想做推广不是买）；Elsa 单发去信 1 封（2026-05-11「10G Enterprise SFP Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）；另 Elsa 单发 1 封（2025-02-28「Mini Industrial PoE Switch」）；另 Elsa 单发 1 封（2025-12-29「Marvell Industrial Alert System」）** ｜ 类型：巴基斯坦电源/工程（Power Logic；Gmail） ｜ 筛子：1 ｜ 停点：— ｜ 复活：不动 ｜ 通路：PK ｜ 节奏：不动 ｜ 证据：k=53639b11bc8d96b5；第 19 批回补来信原文 1 条（gmail_s/gmail_a）；gmail_e 2025-02-28 回信 + Elsa 2025-04-08 再回（正文已入库，第 73 批：只给下载链接）
 - **现状一句话**：—
 - **对方真实需求（有据）**：—
 - **断点 / 为什么停在这里**：—
@@ -59,6 +59,7 @@ updated: 2026-10-25
 | 2025-04-08 | 去 | Elsa | Please see attached download link file. Each link contains full information about our products. Please check and let me know the interested models.（附 Download Link.pdf + MINI.png） | 对 02-28「想做推广不是买」隔 39 天只回下载链接 → 无下文；不动不变 | `gmail_e 19614d7a8d5db131` |
 | 2026-05-11 | out | Elsa → powerlogic1965@gmail.com | 10G Enterprise SFP Switch（Elsa 2026 年 1:1 名单重发；To 仅本户） | 本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 | 2025-02-28 | out | Elsa → powerlogic1965@gmail.com | Mini Industrial PoE Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；之后 Elsa 箱 Replied 标签见 2025-02-28 来信 | `elsa_1to1` |
+| 2025-12-29 | out | Elsa → powerlogic1965@gmail.com | Marvell Industrial Alert System（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 
 ## 基本事实（事实/推断/假设分层）
 

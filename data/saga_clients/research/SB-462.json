@@ -48,7 +48,7 @@
  "email_hook": "Before I send pricing, may I confirm which application the PoE switch is for on your side (CCTV, Wi-Fi, or industrial), so I quote the right 8- or 24-port model?",
  "mail_review": {
   "binding": {
-   "level": "未发信→轻度触达（Elsa 邮箱 2025-06-29 michael@eminnovate.com 回「Very interesting Any rear facing port switches?」对 48 口 PoE；S/A 邮箱 0 封；公司实体未核）；补核（第 73 批）：Elsa 06-30 答「没有后出线款」+ 软件功能表，之后无回；Elsa 群发 BCC 已触达 2025-04-05「Marvell Alleycat5 Solution」（价格未读），US-3 批次 To sales@solimedia.net，0 回（第 74 批 Bcc 头核对 msg 19606773d0d7a306）；Elsa 单发去信 1 封（2026-05-11「10G Enterprise SFP Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）",
+   "level": "未发信→轻度触达（Elsa 邮箱 2025-06-29 michael@eminnovate.com 回「Very interesting Any rear facing port switches?」对 48 口 PoE；S/A 邮箱 0 封；公司实体未核）；补核（第 73 批）：Elsa 06-30 答「没有后出线款」+ 软件功能表，之后无回；Elsa 群发 BCC 已触达 2025-04-05「Marvell Alleycat5 Solution」（价格未读），US-3 批次 To sales@solimedia.net，0 回（第 74 批 Bcc 头核对 msg 19606773d0d7a306）；Elsa 单发去信 1 封（2026-05-11「10G Enterprise SFP Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）；另 Elsa 单发 1 封（2025-12-29「Marvell Industrial Alert System」）",
    "type": "—",
    "sieve": "—（未入筛）",
    "stop": "从未触达",
@@ -115,6 +115,15 @@
     "why": "本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无）",
     "k": "elsa_1to1",
     "msg_id": "19e171f7d88803f6"
+   },
+   {
+    "date": "2025-12-29",
+    "dir": "out",
+    "who": "Elsa → sales@eminnovate.com",
+    "quote": "Marvell Industrial Alert System（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+    "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
+    "k": "elsa_1to1",
+    "msg_id": "19b6a8417a956799"
    }
   ],
   "proof_gaps": [

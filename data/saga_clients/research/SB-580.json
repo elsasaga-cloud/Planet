@@ -48,7 +48,7 @@
  "mail_review": {
   "as_of": "2026-10-25",
   "binding": {
-   "level": "仅 Elsa 单发（S/A 邮箱 0 封；Elsa 单发去信 1 封（2026-05-11「10G Enterprise SFP Switch」→ ismail@3lines.com.sa，未见回复（Elsa 箱 Replied 标签无）））（第 74 批(e)：S/A mail_dump + Elsa 箱 in:sent 排锚扫描 2026-10-25）",
+   "level": "仅 Elsa 单发（S/A 邮箱 0 封；Elsa 单发去信 1 封（2026-05-11「10G Enterprise SFP Switch」→ ismail@3lines.com.sa，未见回复（Elsa 箱 Replied 标签无）））（第 74 批(e)：S/A mail_dump + Elsa 箱 in:sent 排锚扫描 2026-10-25）；另 Elsa 单发 1 封（2025-12-29「Marvell Industrial Alert System」）",
    "type": "军民服务本地化公司（沙特，守界）",
    "sieve": "—",
    "stop": "界",
@@ -71,7 +71,7 @@
   "next_move": {
    "when": "不动",
    "channel": "—",
-   "action": "不动：守界（军工）+ 指定他牌",
+   "action": "首封前知悉：Elsa 2025-12-29 单发过「Marvell Industrial Alert System」（未见回复（Elsa 箱 Replied 标签无））；不动：守界（军工）+ 指定他牌",
    "one_question": null
   },
   "facts": [
@@ -83,6 +83,15 @@
     "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
     "k": "elsa_1to1",
     "msg_id": "19e16b19fc662d79"
+   },
+   {
+    "date": "2025-12-29",
+    "dir": "out",
+    "who": "Elsa → ismail@3lines.com.sa",
+    "quote": "Marvell Industrial Alert System（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+    "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
+    "k": "elsa_1to1",
+    "msg_id": "19b68e818f5b3782"
    }
   ],
   "proof_gaps": [],

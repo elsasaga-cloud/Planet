@@ -100,7 +100,7 @@
  "email_hook": "Harish, we can't help on the EDFA — but for the ATMIS-6208PI / 6216PI class we build the same 2-SFP + 8/16-PoE industrial units on Marvell under your label from small lots; shall I quote those two against your current ONV cost?",
  "mail_review": {
   "binding": {
-   "level": "轻度触达（Elsa 邮箱 3 封来信：2025-06-17 Harish Gupta 董事催内部「Nitin/Subhash please reply」；2026-08-04 Subhash 两封——先要 datasheet，收到后答「will check… no a days Stacking is mandatory」；S/A 邮箱 9 封 1 次打开 0 回）；Elsa 单发去信 1 封（2026-05-11「10G Enterprise SFP Switch」；To 本户、非 BCC；之后 Elsa 箱 Replied 标签见 2026-08-04 来信）（第 74 批(e) Elsa 箱 in:sent 排锚扫描）",
+   "level": "轻度触达（Elsa 邮箱 3 封来信：2025-06-17 Harish Gupta 董事催内部「Nitin/Subhash please reply」；2026-08-04 Subhash 两封——先要 datasheet，收到后答「will check… no a days Stacking is mandatory」；S/A 邮箱 9 封 1 次打开 0 回）；Elsa 单发去信 1 封（2026-05-11「10G Enterprise SFP Switch」；To 本户、非 BCC；之后 Elsa 箱 Replied 标签见 2026-08-04 来信）（第 74 批(e) Elsa 箱 in:sent 排锚扫描）；另 Elsa 单发 1 封（2025-12-29「Marvell Industrial Alert System」）",
    "type": "—",
    "sieve": "3（要了规格书、给了卡点）",
    "stop": "2026-08-04 对方「will check」后无下文（Elsa 侧）",
@@ -191,6 +191,15 @@
     "why": "本户在 Elsa 的 1:1 名单里（非 BCC 批次）；之后 Elsa 箱 Replied 标签见 2026-08-04 来信",
     "k": "elsa_1to1",
     "msg_id": "19e15d5e5b7845db"
+   },
+   {
+    "date": "2025-12-29",
+    "dir": "out",
+    "who": "Elsa → info@andatelecom.com",
+    "quote": "Marvell Industrial Alert System（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+    "why": "本户在 Elsa 的 1:1 名单里；之后 Elsa 箱 Replied 标签见 2026-08-04 来信",
+    "k": "elsa_1to1",
+    "msg_id": "19b687a3c94bbfa1"
    }
   ],
   "proof_gaps": [

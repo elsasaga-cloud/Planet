@@ -43,7 +43,7 @@ updated: 2026-10-25
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-462` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-25。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未发信→轻度触达（Elsa 邮箱 2025-06-29 michael@eminnovate.com 回「Very interesting Any rear facing port switches?」对 48 口 PoE；S/A 邮箱 0 封；公司实体未核）；补核（第 73 批）：Elsa 06-30 答「没有后出线款」+ 软件功能表，之后无回；Elsa 群发 BCC 已触达 2025-04-05「Marvell Alleycat5 Solution」（价格未读），US-3 批次 To sales@solimedia.net，0 回（第 74 批 Bcc 头核对 msg 19606773d0d7a306）；Elsa 单发去信 1 封（2026-05-11「10G Enterprise SFP Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：一句实话：无后置端口型号；问场景 ｜ 通路：US 主攻（四主） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「（用户表字段）」；研究档 risks：身份未核实；若为印度 IT 服务公司则不在目标区域/行业；Elsa 邮箱 `data/gmail_e/text/`（Replied 线程，客户→Elsa 正文；Elsa 回复正文未入库）；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To sales@solimedia.net）本户见于 2025-04-05 名单；2026-09-08 最新一轮名单已不含此地址 → 中途被剔除（退信 / 退订 / 手工）
+- **绑定等级：未发信→轻度触达（Elsa 邮箱 2025-06-29 michael@eminnovate.com 回「Very interesting Any rear facing port switches?」对 48 口 PoE；S/A 邮箱 0 封；公司实体未核）；补核（第 73 批）：Elsa 06-30 答「没有后出线款」+ 软件功能表，之后无回；Elsa 群发 BCC 已触达 2025-04-05「Marvell Alleycat5 Solution」（价格未读），US-3 批次 To sales@solimedia.net，0 回（第 74 批 Bcc 头核对 msg 19606773d0d7a306）；Elsa 单发去信 1 封（2026-05-11「10G Enterprise SFP Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）；另 Elsa 单发 1 封（2025-12-29「Marvell Industrial Alert System」）** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：一句实话：无后置端口型号；问场景 ｜ 通路：US 主攻（四主） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「（用户表字段）」；研究档 risks：身份未核实；若为印度 IT 服务公司则不在目标区域/行业；Elsa 邮箱 `data/gmail_e/text/`（Replied 线程，客户→Elsa 正文；Elsa 回复正文未入库）；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To sales@solimedia.net）本户见于 2025-04-05 名单；2026-09-08 最新一轮名单已不含此地址 → 中途被剔除（退信 / 退订 / 手工）
 - **现状一句话**：用户表登记为美国客户（域名 eminnovate.com），1 次实质回复、2 次跟进。公开检索无法核实其公司身份与业务；同名印度 IT 服务公司（eminnovate.co）与网络设备无关。按「待核」处理：下次跟进时直接询问公司全称与业务。
 - **对方真实需求（有据）**：身份待核：默认按终端/集成商 25% 档以 STC-28DGGPM 试探；核实后再定
 - **断点 / 为什么停在这里**：身份未核实；若为印度 IT 服务公司则不在目标区域/行业
@@ -58,6 +58,7 @@ updated: 2026-10-25
 | 2025-06-30 | 去 | Elsa | Sorry, it is not available on our list. On the market, there are some models available, but not many. Please check attached our Marvell based software feature list.（附 Saga Software Function List_7.3, 7.4, 7.5 version.xlsx） | Elsa 次日答「没有后出线款」+ 软件功能表 → 无下文；信稿「none of our models have rear-facing ports」与之一致 | `gmail_e 197c0bbcf58da83a` |
 | 2026-10-21 | 用户表 | Simon | （用户表字段） | 表内备注 | `用户表` |
 | 2026-05-11 | out | Elsa → sales@eminnovate.com | 10G Enterprise SFP Switch（Elsa 2026 年 1:1 名单重发；To 仅本户） | 本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
+| 2025-12-29 | out | Elsa → sales@eminnovate.com | Marvell Industrial Alert System（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：公司实体未核；（已核 2026-10-24，第 73 批）用户表「有回复·跟进中」= Elsa 邮箱这条（06-29 问后出线 → 06-30 答无 + 功能表 → 无下文），不是 WhatsApp
 

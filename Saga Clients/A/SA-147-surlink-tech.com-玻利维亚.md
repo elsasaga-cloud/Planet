@@ -44,7 +44,7 @@ updated: 2026-10-25
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-147` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未绑定（Elsa 邮箱 2025-07-02 Eduardo Miranda 要 5/8/16/24 口非管理 PoE（10/100 与千兆）「with your standard brand name and standard carton box」+ 图片 → Elsa 07-03 回复 → 无下文）；Elsa 单发去信 1 封（2026-05-11「10G Enterprise SFP Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）** ｜ 类型：玻利维亚圣克鲁斯批发分销（布线/光纤/网络，Gerente Eduardo Miranda）——南美非主攻 ｜ 筛子：0（邮件层无人工回复） ｜ 停点：Elsa 回复后无下文（回复正文未入库）；用户表「550 只 90W 注入器」需求在邮件无痕 ｜ 复活：其再次询价 ｜ 通路：BO 非主攻 ｜ 节奏：不主动 ｜ 证据：邮件：去信 8 封（2024-06-28 → 2025-01-10），来信 0；Opened 标签 0 次；收件人 emiranda@surlink-tech.com
+- **绑定等级：未绑定（Elsa 邮箱 2025-07-02 Eduardo Miranda 要 5/8/16/24 口非管理 PoE（10/100 与千兆）「with your standard brand name and standard carton box」+ 图片 → Elsa 07-03 回复 → 无下文）；Elsa 单发去信 1 封（2026-05-11「10G Enterprise SFP Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）；另 Elsa 单发 1 封（2025-12-29「Marvell Industrial Alert System」）** ｜ 类型：玻利维亚圣克鲁斯批发分销（布线/光纤/网络，Gerente Eduardo Miranda）——南美非主攻 ｜ 筛子：0（邮件层无人工回复） ｜ 停点：Elsa 回复后无下文（回复正文未入库）；用户表「550 只 90W 注入器」需求在邮件无痕 ｜ 复活：其再次询价 ｜ 通路：BO 非主攻 ｜ 节奏：不主动 ｜ 证据：邮件：去信 8 封（2024-06-28 → 2025-01-10），来信 0；Opened 标签 0 次；收件人 emiranda@surlink-tech.com
 - **现状一句话**：Eduardo 的来信是一张清楚的采购清单：非管理 PoE 全口数、Saga 标准品牌与标准彩盒、要图片——是批发商选品。Elsa 回了，之后无回。
 - **对方真实需求（有据）**：非管理 PoE 5/8/16/24 口（商用，标准包装）。
 - **断点 / 为什么停在这里**：回复后静默；价格段（南美批发）可能不匹配 Marvell。
@@ -56,6 +56,7 @@ updated: 2026-10-25
 | 2025-07-02 | 来（Elsa 箱） | Ing. Eduardo Miranda（Gerente） | Switch 10 100 non manageable poe / 10 100 1000 non manageable poe 5 ports 8 ports 16 ports 24 ports Must be with your standart brand name and standart carton box. Need to have pictures | 采购清单 | `E 197cbce0cb34789f` |
 | 2025-07-03 | 去 | Elsa | Please see attached quotation including 1, prices 2, photos 3, packing info. It is about unit price. If you are doing a bulk purchase, lets discuss the final prices.（附 Quotation.xls，3.7 MB） | Elsa 次日回了整张报价单（5/8/16/24 口非管理 PoE）→ 无下文；报价单数字在附件里，连接器不拉附件 | `gmail_e 197cf9203e1b9d65` |
 | 2026-05-11 | out | Elsa → emiranda@surlink-tech.com | 10G Enterprise SFP Switch（Elsa 2026 年 1:1 名单重发；To 仅本户） | 本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
+| 2025-12-29 | out | Elsa → emiranda@surlink-tech.com | Marvell Industrial Alert System（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：「550 只 90W 注入器」出处未见；（已核 2026-10-24，第 73 批）Elsa 07-03 回 Quotation.xls（单价 + 照片 + 装箱，「批量再谈」）；表内数字仍未入库（附件需 Takeout）
 

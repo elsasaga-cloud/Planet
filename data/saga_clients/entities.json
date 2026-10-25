@@ -39035,7 +39035,7 @@
 "email_hook": "Did the May 2025 quote for the 90W managed PoE unit (STI-288DGGPM-2BT at $140) land anywhere near your refurb price points — and what would? Today it is $154 USD EXW (MOQ 1, 15-day validity; the RMB has moved from 7.2 to 6.7 since).",
 "mail_review": {
 "binding": {
-"level": "未绑定（Elsa 邮箱两次回复：2025-04-29「I never buy Unmanaged.」、2025-05-13「What is the price for this one?」(90W PoE 管理型) → Elsa 05-14 回价后无下文）；Elsa 首触 = 2025-04-06 US-2 批次群发 BCC「16 Port PoE Managed Switch」（第 74 批 Bcc 头核对 msg 1960752f6b2cf94d）→ 04-29 回信后转 1:1，群发名单随即剔除（2026-09-08 同批次名单无此址）；Elsa 单发去信 1 封（2026-05-11「10G Enterprise SFP Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）",
+"level": "未绑定（Elsa 邮箱两次回复：2025-04-29「I never buy Unmanaged.」、2025-05-13「What is the price for this one?」(90W PoE 管理型) → Elsa 05-14 回价后无下文）；Elsa 首触 = 2025-04-06 US-2 批次群发 BCC「16 Port PoE Managed Switch」（第 74 批 Bcc 头核对 msg 1960752f6b2cf94d）→ 04-29 回信后转 1:1，群发名单随即剔除（2026-09-08 同批次名单无此址）；Elsa 单发去信 1 封（2026-05-11「10G Enterprise SFP Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）；另 Elsa 单发 1 封（2025-12-29「Marvell Industrial Alert System」）",
 "type": "新泽西二手/翻新网络设备经销（Neal Cennamo）——美国主攻区，但商业模式是翻新件",
 "sieve": "0（邮件层无人工回复）",
 "stop": "价格后停（翻新件价格基准极低）",
@@ -39110,6 +39110,15 @@
 "why": "本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无）",
 "k": "elsa_1to1",
 "msg_id": "19e170405d9f7966"
+},
+{
+"date": "2025-12-29",
+"dir": "out",
+"who": "Elsa → nealc@softnetworks.net",
+"quote": "Marvell Industrial Alert System（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+"why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
+"k": "elsa_1to1",
+"msg_id": "19b6a4d2648e3f24"
 }
 ],
 "proof_gaps": [
@@ -66973,7 +66982,7 @@
 "email_hook": "For the 550 units of 90W industrial PoE injectors, I am confirming the bt injector part number and MOQ pricing with the factory now; if a switch-based design is acceptable, the 8-port 90W-capable industrial PoE switch can be quoted immediately as an alternative.",
 "mail_review": {
 "binding": {
-"level": "未绑定（Elsa 邮箱 2025-07-02 Eduardo Miranda 要 5/8/16/24 口非管理 PoE（10/100 与千兆）「with your standard brand name and standard carton box」+ 图片 → Elsa 07-03 回复 → 无下文）；Elsa 单发去信 1 封（2026-05-11「10G Enterprise SFP Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）",
+"level": "未绑定（Elsa 邮箱 2025-07-02 Eduardo Miranda 要 5/8/16/24 口非管理 PoE（10/100 与千兆）「with your standard brand name and standard carton box」+ 图片 → Elsa 07-03 回复 → 无下文）；Elsa 单发去信 1 封（2026-05-11「10G Enterprise SFP Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）；另 Elsa 单发 1 封（2025-12-29「Marvell Industrial Alert System」）",
 "type": "玻利维亚圣克鲁斯批发分销（布线/光纤/网络，Gerente Eduardo Miranda）——南美非主攻",
 "sieve": "0（邮件层无人工回复）",
 "stop": "Elsa 回复后无下文（回复正文未入库）；用户表「550 只 90W 注入器」需求在邮件无痕",
@@ -67024,6 +67033,15 @@
 "why": "本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无）",
 "k": "elsa_1to1",
 "msg_id": "19e173af2f80e177"
+},
+{
+"date": "2025-12-29",
+"dir": "out",
+"who": "Elsa → emiranda@surlink-tech.com",
+"quote": "Marvell Industrial Alert System（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+"why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
+"k": "elsa_1to1",
+"msg_id": "19b6a689f3702326"
 }
 ],
 "proof_gaps": [
@@ -87574,7 +87592,7 @@
 "email_hook": "Faisal, we don't do routers — but for the switch side, the 8-PoE + 2-SFP managed (Marvell) is in stock from 1 pc; is that useful for the same projects, or is it routers only right now?",
 "mail_review": {
 "binding": {
-"level": "未发信→明确不对口（Elsa 邮箱 2025-04-09 Faisal（ITE，巴基斯坦）三封：要「Routers with 1GE and 4 FE ports」+ 路由规格 IP SLA / GRE / PPPoE / BGP / IPsec——是路由器需求，Saga 不做路由器）；Elsa 单发去信 1 封（2026-05-11「10G Enterprise SFP Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）",
+"level": "未发信→明确不对口（Elsa 邮箱 2025-04-09 Faisal（ITE，巴基斯坦）三封：要「Routers with 1GE and 4 FE ports」+ 路由规格 IP SLA / GRE / PPPoE / BGP / IPsec——是路由器需求，Saga 不做路由器）；Elsa 单发去信 1 封（2026-05-11「10G Enterprise SFP Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）；另 Elsa 单发 1 封（2025-12-29「Marvell Industrial Alert System」）",
 "type": "—",
 "sieve": "—（需求路由器，非交换机）",
 "stop": "从未触达",
@@ -87641,6 +87659,15 @@
 "why": "本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无）",
 "k": "elsa_1to1",
 "msg_id": "19e154c90dd755ae"
+},
+{
+"date": "2025-12-29",
+"dir": "out",
+"who": "Elsa → info@ite.net.pk",
+"quote": "Marvell Industrial Alert System（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+"why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
+"k": "elsa_1to1",
+"msg_id": "19b68c37a4935183"
 }
 ],
 "proof_gaps": [
@@ -111882,7 +111909,7 @@
 "email_hook": "Vinod — you asked for prices last June (and left your WhatsApp number); Elsa sent the download links but no price. The 8-PoE + 2-SFP industrial managed unit is $137.5 USD EXW; is the requirement still there?",
 "mail_review": {
 "binding": {
-"level": "读而不回→轻度触达（Elsa 邮箱 2025-06-04 Vinod Tyagi（AGS Plus）回「Share the price. What's App number +91…」；S 邮箱 12 封 3 次打开 0 回；Q-33 标记保留——AGS Plus/Xexagon 是否为供应商渠道客户待 Simon 核）；补核（第 73 批）：Elsa 06-06 只回下载链接、未报价，之后邮件无回；Elsa 单发去信 2 封（2026-05-11「10G Enterprise SFP Switch」；2026-09-08「24 Port PoE Managed Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）",
+"level": "读而不回→轻度触达（Elsa 邮箱 2025-06-04 Vinod Tyagi（AGS Plus）回「Share the price. What's App number +91…」；S 邮箱 12 封 3 次打开 0 回；Q-33 标记保留——AGS Plus/Xexagon 是否为供应商渠道客户待 Simon 核）；补核（第 73 批）：Elsa 06-06 只回下载链接、未报价，之后邮件无回；Elsa 单发去信 2 封（2026-05-11「10G Enterprise SFP Switch」；2026-09-08「24 Port PoE Managed Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）；另 Elsa 单发 1 封（2025-12-29「Marvell Industrial Alert System」）",
 "type": "—",
 "sieve": "2（有人在读，无人回）",
 "stop": "读而不回 = 内容未命中或没有当下需求；Q-33 供应商渠道客户",
@@ -111966,6 +111993,15 @@
 "why": "本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无）",
 "k": "elsa_1to1",
 "msg_id": "1a08075d070c32df"
+},
+{
+"date": "2025-12-29",
+"dir": "out",
+"who": "Elsa → sales@agsplus.in",
+"quote": "Marvell Industrial Alert System（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+"why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
+"k": "elsa_1to1",
+"msg_id": "19b68559d11d9c8b"
 }
 ],
 "proof_gaps": [
@@ -115295,7 +115331,7 @@
 "email_hook": "Musine, the gigabit PoE media converter you asked about (1 SFP + 1 PoE port, DIN/desktop) ships from 1 pc — want the EXW price and datasheet?",
 "mail_review": {
 "binding": {
-"level": "未发信→一句「interested」（Elsa 邮箱 2025-04-16 wafulamusine@gmail.com 回「Am good… Am interested」；S/A 邮箱 0 封；个人 gmail、肯尼亚）；Elsa 单发去信 1 封（2026-05-11「10G Enterprise SFP Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）",
+"level": "未发信→一句「interested」（Elsa 邮箱 2025-04-16 wafulamusine@gmail.com 回「Am good… Am interested」；S/A 邮箱 0 封；个人 gmail、肯尼亚）；Elsa 单发去信 1 封（2026-05-11「10G Enterprise SFP Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）；另 Elsa 单发 1 封（2025-12-29「Marvell Industrial Alert System」）",
 "type": "—",
 "sieve": "—（未入筛）",
 "stop": "从未触达",
@@ -115362,6 +115398,15 @@
 "why": "本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无）",
 "k": "elsa_1to1",
 "msg_id": "19e169629b5e1b3c"
+},
+{
+"date": "2025-12-29",
+"dir": "out",
+"who": "Elsa → wafulamusine@gmail.com",
+"quote": "Marvell Industrial Alert System（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+"why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
+"k": "elsa_1to1",
+"msg_id": "19b68fa6941a54fc"
 }
 ],
 "proof_gaps": [
@@ -203576,7 +203621,7 @@
 "email_hook": "Waseem, to promote the mini industrial switch you'll need the datasheet and dealer price — which customers would you pitch it to (CCTV installers, ISPs, factories)? I'll send the matching pack.",
 "mail_review": {
 "binding": {
-"level": "轻度触达（2024-05-24 Waseem「send me your website」→ Drive 链接；2025-02-28 Elsa 邮箱再回「no need sample… we promote your product in Pakistan」= 想做推广不是买）；Elsa 单发去信 1 封（2026-05-11「10G Enterprise SFP Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）；另 Elsa 单发 1 封（2025-02-28「Mini Industrial PoE Switch」）",
+"level": "轻度触达（2024-05-24 Waseem「send me your website」→ Drive 链接；2025-02-28 Elsa 邮箱再回「no need sample… we promote your product in Pakistan」= 想做推广不是买）；Elsa 单发去信 1 封（2026-05-11「10G Enterprise SFP Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）；另 Elsa 单发 1 封（2025-02-28「Mini Industrial PoE Switch」）；另 Elsa 单发 1 封（2025-12-29「Marvell Industrial Alert System」）",
 "type": "巴基斯坦电源/工程（Power Logic；Gmail）",
 "sieve": "1",
 "stop": "—",
@@ -203652,6 +203697,15 @@
 "why": "本户在 Elsa 的 1:1 名单里；之后 Elsa 箱 Replied 标签见 2025-02-28 来信",
 "k": "elsa_1to1",
 "msg_id": "1954aecfd9609f11"
+},
+{
+"date": "2025-12-29",
+"dir": "out",
+"who": "Elsa → powerlogic1965@gmail.com",
+"quote": "Marvell Industrial Alert System（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+"why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
+"k": "elsa_1to1",
+"msg_id": "19b693156c34b0f3"
 }
 ],
 "proof_gaps": [],
@@ -223768,7 +223822,7 @@
 "email_hook": "Mossad, for the 1-fibre + 2-copper gigabit converter — do you need both copper ports active at once (a mini switch) or one as backup? I'll quote the right unit, from 1 pc.",
 "mail_review": {
 "binding": {
-"level": "轻度触达（Elsa 邮箱 2025-10-01 samuisso@tescom.co.tz 回「you have only 24 port and how many types of switch you have」——Elsa 的信发给 unilinkcommunication.com，回信来自 TESCOM（同一人/转发）；S/A 邮箱 0 封）；补核（第 73 批）：Elsa 当天回 5 张照片 + 反问，无型号无价，之后无回；补核（第 73 批）：08-23 第一问无人答，10-01 第二问只得照片 → 两次都没拿到型号/价；Elsa 单发去信 1 封（2026-05-11「10G Enterprise SFP Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）",
+"level": "轻度触达（Elsa 邮箱 2025-10-01 samuisso@tescom.co.tz 回「you have only 24 port and how many types of switch you have」——Elsa 的信发给 unilinkcommunication.com，回信来自 TESCOM（同一人/转发）；S/A 邮箱 0 封）；补核（第 73 批）：Elsa 当天回 5 张照片 + 反问，无型号无价，之后无回；补核（第 73 批）：08-23 第一问无人答，10-01 第二问只得照片 → 两次都没拿到型号/价；Elsa 单发去信 1 封（2026-05-11「10G Enterprise SFP Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）；另 Elsa 单发 1 封（2025-12-29「Marvell Industrial Alert System」）",
 "type": "—",
 "sieve": "—（未入筛）",
 "stop": "从未触达",
@@ -223843,6 +223897,15 @@
 "why": "本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无）",
 "k": "elsa_1to1",
 "msg_id": "19e16cd173a59698"
+},
+{
+"date": "2025-12-29",
+"dir": "out",
+"who": "Elsa → samuisso@tescom.co.tz",
+"quote": "Marvell Industrial Alert System（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+"why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
+"k": "elsa_1to1",
+"msg_id": "19b690cb8b8fd5ff"
 }
 ],
 "proof_gaps": [
@@ -268948,7 +269011,7 @@
 "email_hook": "Mr. Ahir — you asked for the price of the 8-port industrial PoE switch in July 2025 and never got it: STI-288GP (8× gigabit PoE + 2× SFP, unmanaged, DIN-rail) is $60 USD EXW, MOQ 1; is it for outdoor camera poles or indoor racks, and how many units?",
 "mail_review": {
 "binding": {
-"level": "已触达·我方欠答（Elsa 群发 2025-07-20「8 Port Industrial PoE Switch」→ Rk Ahir 07-26 回「SEND ME PRICE DETAILS WITH BROCHER AND ADVANTAGE PLEASE」→ Saga 未回，至今 15 个月；S/A 邮箱无往来）；Elsa 单发去信 1 封（2026-05-11「10G Enterprise SFP Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）",
+"level": "已触达·我方欠答（Elsa 群发 2025-07-20「8 Port Industrial PoE Switch」→ Rk Ahir 07-26 回「SEND ME PRICE DETAILS WITH BROCHER AND ADVANTAGE PLEASE」→ Saga 未回，至今 15 个月；S/A 邮箱无往来）；Elsa 单发去信 1 封（2026-05-11「10G Enterprise SFP Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）；另 Elsa 单发 1 封（2025-12-29「Marvell Industrial Alert System」）",
 "type": "—",
 "sieve": "—（未入筛）",
 "stop": "我方欠答（不是他不回）",
@@ -269007,6 +269070,15 @@
 "why": "本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无）",
 "k": "elsa_1to1",
 "msg_id": "19e15f15c221a2de"
+},
+{
+"date": "2025-12-29",
+"dir": "out",
+"who": "Elsa → rkahir65@gmail.com",
+"quote": "Marvell Industrial Alert System（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+"why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
+"k": "elsa_1to1",
+"msg_id": "19b689edbe0c3683"
 }
 ],
 "proof_gaps": [
@@ -272846,7 +272918,7 @@
 ],
 "mail_review": {
 "binding": {
-"level": "读而不回（A/S 邮箱 38 封 2024→2026，其中 3 封被打开，0 回；收件 rnathan@cloudtronics.com.au, sales@cloudtronics.com.au；被打开主题「Marvell Alleycat5 Solution、Managed Optical Bypass Switch」）；Elsa 单发去信 1 封（2025-02-12「16 Port Ethernet Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）",
+"level": "读而不回（A/S 邮箱 38 封 2024→2026，其中 3 封被打开，0 回；收件 rnathan@cloudtronics.com.au, sales@cloudtronics.com.au；被打开主题「Marvell Alleycat5 Solution、Managed Optical Bypass Switch」）；Elsa 单发去信 1 封（2025-02-12「16 Port Ethernet Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）；另 Elsa 单发 1 封（2025-12-10「Booster PoE Switch」）",
 "type": "澳洲网络/光模块自有品牌商（工业 PoE 贴标，OEM 采购）",
 "sieve": "2（有人在读，无人回）",
 "stop": "读而不回 = 内容未命中或没有当下需求",
@@ -272897,6 +272969,15 @@
 "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
 "k": "elsa_1to1",
 "msg_id": "194f77495ad0fe55"
+},
+{
+"date": "2025-12-10",
+"dir": "out",
+"who": "Elsa → support@cloudtronics.co.id",
+"quote": "Booster PoE Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+"why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
+"k": "elsa_1to1",
+"msg_id": "19b06c607335d43b"
 }
 ],
 "proof_gaps": [],
@@ -316587,7 +316668,7 @@
 "email_hook": "Azad — Elsa quoted the STI-244GP at $35 in April 2025 (today $45 USD EXW, managed STI-244GPM $64.6); is it for a specific automation site, or stock next to your ONV units?",
 "mail_review": {
 "binding": {
-"level": "未触达→轻度触达（Elsa 邮箱 2025-04-10 Azad Khan（Automation Systems and Solution，德里）回「First, we need datasheet」；S 邮箱 13 封 0 打开 0 回——打开记录只覆盖追踪过的群发）；补核（第 73 批）：Elsa 04-10 已回规格书 + STI-244GP $35、04-22 追问样机，之后无回 → 回过一次后读而不回；Elsa 单发去信 1 封（2026-05-11「10G Enterprise SFP Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）",
+"level": "未触达→轻度触达（Elsa 邮箱 2025-04-10 Azad Khan（Automation Systems and Solution，德里）回「First, we need datasheet」；S 邮箱 13 封 0 打开 0 回——打开记录只覆盖追踪过的群发）；补核（第 73 批）：Elsa 04-10 已回规格书 + STI-244GP $35、04-22 追问样机，之后无回 → 回过一次后读而不回；Elsa 单发去信 1 封（2026-05-11「10G Enterprise SFP Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）；另 Elsa 单发 1 封（2025-12-29「Marvell Industrial Alert System」）",
 "type": "—",
 "sieve": "1（只收到群发）",
 "stop": "13 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
@@ -316662,6 +316743,15 @@
 "why": "本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无）",
 "k": "elsa_1to1",
 "msg_id": "19e1532043bfa92d"
+},
+{
+"date": "2025-12-29",
+"dir": "out",
+"who": "Elsa → infoautomation18@gmail.com",
+"quote": "Marvell Industrial Alert System（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+"why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
+"k": "elsa_1to1",
+"msg_id": "19b684439e637db6"
 }
 ],
 "proof_gaps": [
@@ -328175,7 +328265,7 @@
 "email_hook": "Before I send pricing, may I confirm which application the PoE switch is for on your side (CCTV, Wi-Fi, or industrial), so I quote the right 8- or 24-port model?",
 "mail_review": {
 "binding": {
-"level": "未发信→轻度触达（Elsa 邮箱 2025-06-29 michael@eminnovate.com 回「Very interesting Any rear facing port switches?」对 48 口 PoE；S/A 邮箱 0 封；公司实体未核）；补核（第 73 批）：Elsa 06-30 答「没有后出线款」+ 软件功能表，之后无回；Elsa 群发 BCC 已触达 2025-04-05「Marvell Alleycat5 Solution」（价格未读），US-3 批次 To sales@solimedia.net，0 回（第 74 批 Bcc 头核对 msg 19606773d0d7a306）；Elsa 单发去信 1 封（2026-05-11「10G Enterprise SFP Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）",
+"level": "未发信→轻度触达（Elsa 邮箱 2025-06-29 michael@eminnovate.com 回「Very interesting Any rear facing port switches?」对 48 口 PoE；S/A 邮箱 0 封；公司实体未核）；补核（第 73 批）：Elsa 06-30 答「没有后出线款」+ 软件功能表，之后无回；Elsa 群发 BCC 已触达 2025-04-05「Marvell Alleycat5 Solution」（价格未读），US-3 批次 To sales@solimedia.net，0 回（第 74 批 Bcc 头核对 msg 19606773d0d7a306）；Elsa 单发去信 1 封（2026-05-11「10G Enterprise SFP Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）；另 Elsa 单发 1 封（2025-12-29「Marvell Industrial Alert System」）",
 "type": "—",
 "sieve": "—（未入筛）",
 "stop": "从未触达",
@@ -328242,6 +328332,15 @@
 "why": "本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无）",
 "k": "elsa_1to1",
 "msg_id": "19e171f7d88803f6"
+},
+{
+"date": "2025-12-29",
+"dir": "out",
+"who": "Elsa → sales@eminnovate.com",
+"quote": "Marvell Industrial Alert System（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+"why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
+"k": "elsa_1to1",
+"msg_id": "19b6a8417a956799"
 }
 ],
 "proof_gaps": [
@@ -331900,7 +331999,7 @@
 "email_hook": "Rajendra, following your enquiry for an 8-port gigabit industrial switch (EHG6408 class): we supply DIN-rail 8-GE unmanaged and 8-GE + 2 SFP managed units (−40~75 °C, redundant 12–57 V, CE/RoHS) from single units, EXW USD — how many units and is managed or unmanaged required?",
 "mail_review": {
 "binding": {
-"level": "未触达（A 邮箱 7 封 2025→2026，无记录打开，0 回；收件 info@ngapl.com；主题多为「8 Port Industrial PoE Switch、Mini Industrial PoE Switch」）",
+"level": "未触达（A 邮箱 7 封 2025→2026，无记录打开，0 回；收件 info@ngapl.com；主题多为「8 Port Industrial PoE Switch、Mini Industrial PoE Switch」）；Elsa 单发去信 1 封（2025-12-10「Booster PoE Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）",
 "type": "工业自动化集成商（印度，Atop EHG6408 询盘）",
 "sieve": "1（只收到群发）",
 "stop": "只打通用邮箱，无记录打开",
@@ -331923,7 +332022,7 @@
 "next_move": {
 "when": "群发节奏",
 "channel": "A 邮箱",
-"action": "观察打开",
+"action": "首封前知悉：Elsa 2025-12-10 单发过「Booster PoE Switch」（未见回复（Elsa 箱 Replied 标签无））；观察打开",
 "one_question": "Rajendra, following your enquiry for an 8-port gigabit industrial switch (EHG6408 class): we supply DIN-rail 8-GE unmanaged and 8-GE + 2 SFP managed units (−40~75 °C, redundant 12–57 V, CE/RoHS) from single units, EXW USD — how many units and is managed or unmanaged required?"
 },
 "facts": [
@@ -331942,6 +332041,15 @@
 "quote": "EHG6408 8电口；EHG6408 8电口 / from: 阿里巴巴",
 "why": "表内备注",
 "k": "用户表"
+},
+{
+"date": "2025-12-10",
+"dir": "out",
+"who": "Elsa → info@ngapl.com",
+"quote": "Booster PoE Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+"why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
+"k": "elsa_1to1",
+"msg_id": "19b070f456ec5c15"
 }
 ],
 "proof_gaps": [],
@@ -372529,7 +372637,7 @@
 "mail_review": {
 "as_of": "2026-10-25",
 "binding": {
-"level": "仅 Elsa 单发（S/A 邮箱 0 封；Elsa 单发去信 1 封（2026-05-11「10G Enterprise SFP Switch」→ ismail@3lines.com.sa，未见回复（Elsa 箱 Replied 标签无）））（第 74 批(e)：S/A mail_dump + Elsa 箱 in:sent 排锚扫描 2026-10-25）",
+"level": "仅 Elsa 单发（S/A 邮箱 0 封；Elsa 单发去信 1 封（2026-05-11「10G Enterprise SFP Switch」→ ismail@3lines.com.sa，未见回复（Elsa 箱 Replied 标签无）））（第 74 批(e)：S/A mail_dump + Elsa 箱 in:sent 排锚扫描 2026-10-25）；另 Elsa 单发 1 封（2025-12-29「Marvell Industrial Alert System」）",
 "type": "军民服务本地化公司（沙特，守界）",
 "sieve": "—",
 "stop": "界",
@@ -372552,7 +372660,7 @@
 "next_move": {
 "when": "不动",
 "channel": "—",
-"action": "不动：守界（军工）+ 指定他牌",
+"action": "首封前知悉：Elsa 2025-12-29 单发过「Marvell Industrial Alert System」（未见回复（Elsa 箱 Replied 标签无））；不动：守界（军工）+ 指定他牌",
 "one_question": null
 },
 "facts": [
@@ -372564,6 +372672,15 @@
 "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
 "k": "elsa_1to1",
 "msg_id": "19e16b19fc662d79"
+},
+{
+"date": "2025-12-29",
+"dir": "out",
+"who": "Elsa → ismail@3lines.com.sa",
+"quote": "Marvell Industrial Alert System（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+"why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
+"k": "elsa_1to1",
+"msg_id": "19b68e818f5b3782"
 }
 ],
 "proof_gaps": [],
@@ -396142,7 +396259,7 @@
 "email_hook": "Sarwar's mailbox bounced, so via info@: you asked the 10G media-converter price in June — is it SFP+ to RJ45 10G, and how many links? I'll quote that plus the gigabit MC in one sheet.",
 "mail_review": {
 "binding": {
-"level": "未触达→轻度触达（Elsa 邮箱 2025-06-17 info@citsindia.com 回「Price pls」对 10G 媒体转换器 $65；S 邮箱 3 封 0 回）；补核（第 73 批）：Elsa 同日回 STC-110XGE $65 + 规格书，之后无回 → 回过一次后读而不回；Elsa 单发去信 1 封（2026-05-11「10G Enterprise SFP Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）",
+"level": "未触达→轻度触达（Elsa 邮箱 2025-06-17 info@citsindia.com 回「Price pls」对 10G 媒体转换器 $65；S 邮箱 3 封 0 回）；补核（第 73 批）：Elsa 同日回 STC-110XGE $65 + 规格书，之后无回 → 回过一次后读而不回；Elsa 单发去信 1 封（2026-05-11「10G Enterprise SFP Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）；另 Elsa 单发 1 封（2025-12-29「Marvell Industrial Alert System」）",
 "type": "—",
 "sieve": "1（只收到群发）",
 "stop": "只打通用邮箱，无记录打开",
@@ -396209,6 +396326,15 @@
 "why": "本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无）",
 "k": "elsa_1to1",
 "msg_id": "19e15ba6fae4fb11"
+},
+{
+"date": "2025-12-29",
+"dir": "out",
+"who": "Elsa → info@citsindia.com",
+"quote": "Marvell Industrial Alert System（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+"why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
+"k": "elsa_1to1",
+"msg_id": "19b6867ecdf61e8a"
 }
 ],
 "proof_gaps": [
@@ -404649,7 +404775,7 @@
 ],
 "mail_review": {
 "binding": {
-"level": "未触达（A 邮箱 8 封 2025→2026，1 次记录打开，0 回；收件 info@comxus.com, umesh.palanpuri@comxus.com；主题多为「16 Port Ethernet Switch、Industrial PoE Switch」）",
+"level": "未触达（A 邮箱 8 封 2025→2026，1 次记录打开，0 回；收件 info@comxus.com, umesh.palanpuri@comxus.com；主题多为「16 Port Ethernet Switch、Industrial PoE Switch」）；Elsa 单发去信 1 封（2025-12-10「Booster PoE Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）",
 "type": "印度工业网络品牌商（现由 Hasivo 代工，OEM 采购）",
 "sieve": "1~2（1 次打开）",
 "stop": "8 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
@@ -404672,7 +404798,7 @@
 "next_move": {
 "when": "群发节奏",
 "channel": "A 邮箱",
-"action": "观察打开",
+"action": "首封前知悉：Elsa 2025-12-10 单发过「Booster PoE Switch」（未见回复（Elsa 箱 Replied 标签无））；观察打开",
 "one_question": "Umesh, for the CX-NPA 8- and 16-port industrial PoE models, we can be a second ODM source on a Marvell platform (8 PoE + 4 SFP L2+, 16 PoE + 2 SFP, −40~75 °C) from small lots with CE/RoHS/FCC reports for your BIS file — which model would you dual-source first?"
 },
 "facts": [
@@ -404691,6 +404817,15 @@
 "quote": "工业FS 用的hasivo的",
 "why": "表内备注",
 "k": "用户表"
+},
+{
+"date": "2025-12-10",
+"dir": "out",
+"who": "Elsa → info@comxus.com",
+"quote": "Booster PoE Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+"why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
+"k": "elsa_1to1",
+"msg_id": "19b0733e4f350c43"
 }
 ],
 "proof_gaps": [],
@@ -414342,7 +414477,7 @@
 ],
 "mail_review": {
 "binding": {
-"level": "未触达（A 邮箱 11 封 2025→2026，无记录打开，0 回；收件 abhijit@qntmnet.com, sales@qntmnet.com；主题多为「Industrial PoE Switch、16 Port Ethernet Switch」）",
+"level": "未触达（A 邮箱 11 封 2025→2026，无记录打开，0 回；收件 abhijit@qntmnet.com, sales@qntmnet.com；主题多为「Industrial PoE Switch、16 Port Ethernet Switch」）；Elsa 单发去信 1 封（2025-12-10「Booster PoE Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）",
 "type": "印度云管理网络品牌商（工业线外采中国 ODM）",
 "sieve": "1（只收到群发）",
 "stop": "11 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
@@ -414365,7 +414500,7 @@
 "next_move": {
 "when": "群发节奏",
 "channel": "A 邮箱",
-"action": "观察打开",
+"action": "首封前知悉：Elsa 2025-12-10 单发过「Booster PoE Switch」（未见回复（Elsa 箱 Replied 标签无））；观察打开",
 "one_question": "Vidur, for the QN-IS industrial PoE 4- and 8-port models, we can be a second ODM source (DIN-rail, −40~75 °C, L2 managed on Marvell or unmanaged, CE/RoHS/FCC reports for BIS) from small lots — would you consider dual-sourcing the 8-port first?"
 },
 "facts": [
@@ -414384,6 +414519,15 @@
 "quote": "国内的工业switch",
 "why": "表内备注",
 "k": "用户表"
+},
+{
+"date": "2025-12-10",
+"dir": "out",
+"who": "Elsa → sales@qntmnet.com",
+"quote": "Booster PoE Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+"why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
+"k": "elsa_1to1",
+"msg_id": "19b06eaa6541b2f8"
 }
 ],
 "proof_gaps": [],
@@ -419161,7 +419305,7 @@
 "email_hook": "Harish, we can't help on the EDFA — but for the ATMIS-6208PI / 6216PI class we build the same 2-SFP + 8/16-PoE industrial units on Marvell under your label from small lots; shall I quote those two against your current ONV cost?",
 "mail_review": {
 "binding": {
-"level": "轻度触达（Elsa 邮箱 3 封来信：2025-06-17 Harish Gupta 董事催内部「Nitin/Subhash please reply」；2026-08-04 Subhash 两封——先要 datasheet，收到后答「will check… no a days Stacking is mandatory」；S/A 邮箱 9 封 1 次打开 0 回）；Elsa 单发去信 1 封（2026-05-11「10G Enterprise SFP Switch」；To 本户、非 BCC；之后 Elsa 箱 Replied 标签见 2026-08-04 来信）（第 74 批(e) Elsa 箱 in:sent 排锚扫描）",
+"level": "轻度触达（Elsa 邮箱 3 封来信：2025-06-17 Harish Gupta 董事催内部「Nitin/Subhash please reply」；2026-08-04 Subhash 两封——先要 datasheet，收到后答「will check… no a days Stacking is mandatory」；S/A 邮箱 9 封 1 次打开 0 回）；Elsa 单发去信 1 封（2026-05-11「10G Enterprise SFP Switch」；To 本户、非 BCC；之后 Elsa 箱 Replied 标签见 2026-08-04 来信）（第 74 批(e) Elsa 箱 in:sent 排锚扫描）；另 Elsa 单发 1 封（2025-12-29「Marvell Industrial Alert System」）",
 "type": "—",
 "sieve": "3（要了规格书、给了卡点）",
 "stop": "2026-08-04 对方「will check」后无下文（Elsa 侧）",
@@ -419252,6 +419396,15 @@
 "why": "本户在 Elsa 的 1:1 名单里（非 BCC 批次）；之后 Elsa 箱 Replied 标签见 2026-08-04 来信",
 "k": "elsa_1to1",
 "msg_id": "19e15d5e5b7845db"
+},
+{
+"date": "2025-12-29",
+"dir": "out",
+"who": "Elsa → info@andatelecom.com",
+"quote": "Marvell Industrial Alert System（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+"why": "本户在 Elsa 的 1:1 名单里；之后 Elsa 箱 Replied 标签见 2026-08-04 来信",
+"k": "elsa_1to1",
+"msg_id": "19b687a3c94bbfa1"
 }
 ],
 "proof_gaps": [
@@ -493868,7 +494021,7 @@
 "email_hook": "For the PoE switches sold under your own model numbers, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE 280 W; DIN-rail 8-PoE for Utepo positions) in your packaging from small lots, CE/RoHS; EAC by your side — which PoE SKU do you reorder most?",
 "mail_review": {
 "binding": {
-"level": "读而不回（S 邮箱 7 封 2024→2025，其中 3 封被打开，0 回；收件 sales@cmd-sec.ru；被打开主题「Passive PoE Switch、Mini industrial switch」）；Elsa 单发去信 2 封（2026-05-21「10G Enterprise SFP Switch」；2026-08-26「24 Port PoE Managed Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）；另 Elsa 单发 1 封（2025-02-21「Mini Industrial PoE Switch」）",
+"level": "读而不回（S 邮箱 7 封 2024→2025，其中 3 封被打开，0 回；收件 sales@cmd-sec.ru；被打开主题「Passive PoE Switch、Mini industrial switch」）；Elsa 单发去信 2 封（2026-05-21「10G Enterprise SFP Switch」；2026-08-26「24 Port PoE Managed Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）；另 Elsa 单发 1 封（2025-02-21「Mini Industrial PoE Switch」）；另 Elsa 单发 1 封（2025-12-15「Booster PoE Switch」）",
 "type": "安防品牌商（俄罗斯，自有型号 PoE）",
 "sieve": "2（有人在读，无人回）",
 "stop": "读而不回 = 内容未命中或没有当下需求",
@@ -493945,6 +494098,15 @@
 "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
 "k": "elsa_1to1",
 "msg_id": "195278545b4505aa"
+},
+{
+"date": "2025-12-15",
+"dir": "out",
+"who": "Elsa → sales@cmd-sec.ru",
+"quote": "Booster PoE Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+"why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
+"k": "elsa_1to1",
+"msg_id": "19b2133c674ee89c"
 }
 ],
 "proof_gaps": [],

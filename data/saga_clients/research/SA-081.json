@@ -119,7 +119,7 @@
  "email_hook": "Did the May 2025 quote for the 90W managed PoE unit (STI-288DGGPM-2BT at $140) land anywhere near your refurb price points — and what would? Today it is $154 USD EXW (MOQ 1, 15-day validity; the RMB has moved from 7.2 to 6.7 since).",
  "mail_review": {
   "binding": {
-   "level": "未绑定（Elsa 邮箱两次回复：2025-04-29「I never buy Unmanaged.」、2025-05-13「What is the price for this one?」(90W PoE 管理型) → Elsa 05-14 回价后无下文）；Elsa 首触 = 2025-04-06 US-2 批次群发 BCC「16 Port PoE Managed Switch」（第 74 批 Bcc 头核对 msg 1960752f6b2cf94d）→ 04-29 回信后转 1:1，群发名单随即剔除（2026-09-08 同批次名单无此址）；Elsa 单发去信 1 封（2026-05-11「10G Enterprise SFP Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）",
+   "level": "未绑定（Elsa 邮箱两次回复：2025-04-29「I never buy Unmanaged.」、2025-05-13「What is the price for this one?」(90W PoE 管理型) → Elsa 05-14 回价后无下文）；Elsa 首触 = 2025-04-06 US-2 批次群发 BCC「16 Port PoE Managed Switch」（第 74 批 Bcc 头核对 msg 1960752f6b2cf94d）→ 04-29 回信后转 1:1，群发名单随即剔除（2026-09-08 同批次名单无此址）；Elsa 单发去信 1 封（2026-05-11「10G Enterprise SFP Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）；另 Elsa 单发 1 封（2025-12-29「Marvell Industrial Alert System」）",
    "type": "新泽西二手/翻新网络设备经销（Neal Cennamo）——美国主攻区，但商业模式是翻新件",
    "sieve": "0（邮件层无人工回复）",
    "stop": "价格后停（翻新件价格基准极低）",
@@ -194,6 +194,15 @@
     "why": "本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无）",
     "k": "elsa_1to1",
     "msg_id": "19e170405d9f7966"
+   },
+   {
+    "date": "2025-12-29",
+    "dir": "out",
+    "who": "Elsa → nealc@softnetworks.net",
+    "quote": "Marvell Industrial Alert System（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+    "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
+    "k": "elsa_1to1",
+    "msg_id": "19b6a4d2648e3f24"
    }
   ],
   "proof_gaps": [

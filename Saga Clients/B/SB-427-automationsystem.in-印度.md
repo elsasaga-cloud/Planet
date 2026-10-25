@@ -44,7 +44,7 @@ updated: 2026-10-25
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-427` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达→轻度触达（Elsa 邮箱 2025-04-10 Azad Khan（Automation Systems and Solution，德里）回「First, we need datasheet」；S 邮箱 13 封 0 打开 0 回——打开记录只覆盖追踪过的群发）；补核（第 73 批）：Elsa 04-10 已回规格书 + STI-244GP $35、04-22 追问样机，之后无回 → 回过一次后读而不回；Elsa 单发去信 1 封（2026-05-11「10G Enterprise SFP Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：13 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：一封规格书 + 价（STI-244GP $49.5 / STI-244GPM $77 列表价） ｜ 通路：IN 次级（点名） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 13；用户表：「兴趣：从ONV买 几个台湾品牌；回复：ds」；研究档 risks：ONV 价格基准低；印度 BIS；Elsa 邮箱 `data/gmail_e/text/`（Replied 线程，客户→Elsa 正文；Elsa 回复正文未入库）
+- **绑定等级：未触达→轻度触达（Elsa 邮箱 2025-04-10 Azad Khan（Automation Systems and Solution，德里）回「First, we need datasheet」；S 邮箱 13 封 0 打开 0 回——打开记录只覆盖追踪过的群发）；补核（第 73 批）：Elsa 04-10 已回规格书 + STI-244GP $35、04-22 追问样机，之后无回 → 回过一次后读而不回；Elsa 单发去信 1 封（2026-05-11「10G Enterprise SFP Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）；另 Elsa 单发 1 封（2025-12-29「Marvell Industrial Alert System」）** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：13 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：一封规格书 + 价（STI-244GP $49.5 / STI-244GPM $77 列表价） ｜ 通路：IN 次级（点名） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 13；用户表：「兴趣：从ONV买 几个台湾品牌；回复：ds」；研究档 risks：ONV 价格基准低；印度 BIS；Elsa 邮箱 `data/gmail_e/text/`（Replied 线程，客户→Elsa 正文；Elsa 回复正文未入库）
 - **现状一句话**：德里工业自动化元器件分销商（工业网络设备、GSM 调制解调器、数据采集、机器安全、传感器、SMPS、浪涌保护；Teltonika），有自有编号 IND-D-M-FG-0402-N 等工业交换机（DIN 管理型 4/8/10 口），表内「从 ONV 买，几个台湾品牌」，Azad Khan 2025-04 对 2 光 4 PoE 回复要 DS。
 - **对方真实需求（有据）**：其索 DS 的 2 光 4 PoE = Saga STI-244GP（$35.2/36.6/38.1，对位其 IND-D-M-FG-0402）；经销 20%。
 - **断点 / 为什么停在这里**：ONV 价格基准低；印度 BIS
@@ -60,6 +60,7 @@ updated: 2026-10-25
 | 2025-04-22 | 去 | Elsa | Any feedback about our product and offer? Do you need some samples for testing? | 追问样机，之后 Azad 无回 | `gmail_e 1965c7cf423f243a` |
 | 2026-10-21 | 用户表 | Simon | 兴趣：从ONV买 几个台湾品牌；回复：ds | 表内备注 | `用户表` |
 | 2026-05-11 | out | Elsa → infoautomation18@gmail.com | 10G Enterprise SFP Switch（Elsa 2026 年 1:1 名单重发；To 仅本户） | 本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
+| 2025-12-29 | out | Elsa → infoautomation18@gmail.com | Marvell Industrial Alert System（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：（已核 2026-10-24，第 73 批）Elsa 2025-04-10 已回 STI-244GP 规格书 + $35/pc，04-22 追问样机，之后无回；（已核 2026-10-24，第 73 批）用户表「有回复·跟进中」= Elsa 邮箱这条一来二去（04-10 要规格书 → 当天回价 → 无下文），不是 WhatsApp
 

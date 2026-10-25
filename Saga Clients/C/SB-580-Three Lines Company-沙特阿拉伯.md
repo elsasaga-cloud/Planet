@@ -37,23 +37,24 @@ updated: 2026-10-25
 - **历史互动**：WhatsApp 已加；推送 5 次（2023-02-28 → 2025-10-02）
 - **P1**：不推（C 级）；若对方主动来询，起手 STC-424DGGPM-280W（深挖对位：守界不供；需求亦为品牌原装。）
 - **最大未知**：年走量与现供应商
-- **下一步**：不动 — 不动：守界（军工）+ 指定他牌
+- **下一步**：不动 — 首封前知悉：Elsa 2025-12-29 单发过「Marvell Industrial Alert System」（未见回复（Elsa 箱 Replied 标签无））；不动：守界（军工）+ 指定他牌
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-25）
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-580` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-25。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：仅 Elsa 单发（S/A 邮箱 0 封；Elsa 单发去信 1 封（2026-05-11「10G Enterprise SFP Switch」→ ismail@3lines.com.sa，未见回复（Elsa 箱 Replied 标签无）））（第 74 批(e)：S/A mail_dump + Elsa 箱 in:sent 排锚扫描 2026-10-25）** ｜ 类型：军民服务本地化公司（沙特，守界） ｜ 筛子：— ｜ 停点：界 ｜ 复活：— ｜ 通路：— ｜ 节奏：— ｜ 证据：['mail_dump.py SB-580（S/A 全量）', 'data/gmail_e/elsa_sent_nonanchor_2026-10-25.json（Elsa 1:1 普查）']
+- **绑定等级：仅 Elsa 单发（S/A 邮箱 0 封；Elsa 单发去信 1 封（2026-05-11「10G Enterprise SFP Switch」→ ismail@3lines.com.sa，未见回复（Elsa 箱 Replied 标签无）））（第 74 批(e)：S/A mail_dump + Elsa 箱 in:sent 排锚扫描 2026-10-25）；另 Elsa 单发 1 封（2025-12-29「Marvell Industrial Alert System」）** ｜ 类型：军民服务本地化公司（沙特，守界） ｜ 筛子：— ｜ 停点：界 ｜ 复活：— ｜ 通路：— ｜ 节奏：— ｜ 证据：['mail_dump.py SB-580（S/A 全量）', 'data/gmail_e/elsa_sent_nonanchor_2026-10-25.json（Elsa 1:1 普查）']
 - **现状一句话**：沙特 3Lines Advanced Technologies（愿景 2030 军民服务本地化；Eng. Mohamed Ismail 曾要堆叠交换机 + 配件，「其实是需要其他品牌的」；军工属性 → 守界）
 - **对方真实需求（有据）**：守界（军工）；且要的是他牌堆叠
 - **断点 / 为什么停在这里**：S/A 0 封；Elsa 2026-05 10G 单发无回；军工
 - **Saga 现在该推什么**：P1 **None**（None% 档，None）——守界（军工）；且要的是他牌堆叠
   - 复购/在买项：无；成；单；；；不；动
-- **下一步（具体）**：不动　—　不动：守界（军工）+ 指定他牌
+- **下一步（具体）**：不动　—　首封前知悉：Elsa 2025-12-29 单发过「Marvell Industrial Alert System」（未见回复（Elsa 箱 Replied 标签无））；不动：守界（军工）+ 指定他牌
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-05-11 | out | Elsa → ismail@3lines.com.sa | 10G Enterprise SFP Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
+| 2025-12-29 | out | Elsa → ismail@3lines.com.sa | Marvell Industrial Alert System（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 
 ## 基本事实（事实/推断/假设分层）
 

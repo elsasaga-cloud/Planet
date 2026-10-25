@@ -1,164 +1,173 @@
 {
-  "code": "SB-730",
-  "name_official": "",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（qntmnet.com，快照 2026-10-21）",
-  "summary": "印度 Quantum Networks（云管理全栈网络品牌：QN-S 系列交换机、工业 PoE 4/8 口 QN-IS-225-8；站内 Ubiquiti / Cisco / Aruba 对比；表内「国内的工业 switch」（现用中国产工业交换机）；KP Vidur Batra（VP – System Engineering，vidur.batra@）、Abhijit Potdar（Corporate VP，abhijit@））；表内无跟进记录。",
-  "type": "印度云管理网络品牌商（工业线外采中国 ODM）",
-  "size": "",
-  "brands_seen": [
-    "Ubiquiti",
-    "Cisco",
-    "Aruba"
-  ],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "官网标题：Quantum Networks；品类词 工业自动化 / OT 网络 / 无线 / WiFi / 数据中心 / 企业 IT / 光纤 / 媒体转换 / 网络交换 / PoE",
-      "quote": "Quantum Networks: Secure, Scalable and Seamless. Explore Q-Services for advanced connectivity and cloud-managed solutions to access unlimited potential!",
-      "url": "https://www.qntmnet.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "国内的工业switch",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网快照",
-      "claim": "Quantum Networks：云管理、全栈网络",
-      "quote": "Quantum Networks: Secure, Scalable and Seamless. Explore Q-Services for advanced connectivity and cloud-managed solutions",
-      "url": "https://www.qntmnet.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "国内的工业 switch",
-      "quote": "国内的工业switch",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Vidur Batra",
-      "title": "Vice President - System Engineering",
-      "email": "vidur.batra@qntmnet.com",
-      "phone": "",
-      "source": "用户表"
-    },
-    {
-      "name": "Abhijit Potdar",
-      "title": "Corporate Vice President",
-      "email": "abhijit@qntmnet.com",
-      "phone": "",
-      "source": "用户表"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ "code": "SB-730",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（qntmnet.com，快照 2026-10-21）",
+ "summary": "印度 Quantum Networks（云管理全栈网络品牌：QN-S 系列交换机、工业 PoE 4/8 口 QN-IS-225-8；站内 Ubiquiti / Cisco / Aruba 对比；表内「国内的工业 switch」（现用中国产工业交换机）；KP Vidur Batra（VP – System Engineering，vidur.batra@）、Abhijit Potdar（Corporate VP，abhijit@））；表内无跟进记录。",
+ "type": "印度云管理网络品牌商（工业线外采中国 ODM）",
+ "size": "",
+ "brands_seen": [
+  "Ubiquiti",
+  "Cisco",
+  "Aruba"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Quantum Networks；品类词 工业自动化 / OT 网络 / 无线 / WiFi / 数据中心 / 企业 IT / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "Quantum Networks: Secure, Scalable and Seamless. Explore Q-Services for advanced connectivity and cloud-managed solutions to access unlimited potential!",
+   "url": "https://www.qntmnet.com/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "hq": "印度",
-    "other": "官网 qntmnet.com，语言 en-US，快照状态 ok；角色判定来源：官网文案"
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "国内的工业switch",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "云管理交换机 / AP（自有品牌）",
-    "工业 PoE 交换机（QN-IS 系列）"
-  ],
-  "channels": {
-    "role": "印度云管理网络品牌商（工业线外采中国 ODM）",
-    "region": "印度",
-    "contact": "vidur.batra@qntmnet.com、abhijit@qntmnet.com"
+  {
+   "kind": "官网快照",
+   "claim": "Quantum Networks：云管理、全栈网络",
+   "quote": "Quantum Networks: Secure, Scalable and Seamless. Explore Q-Services for advanced connectivity and cloud-managed solutions",
+   "url": "https://www.qntmnet.com/",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "栏目 /switches/industrialswitches/industrial-poe-4port-switch/、/industrial-poe-8port-switch/、/qn-is-225-8-port/",
-    "官网：Cloud Managed / Full Stack Networking；站内型号 QN-S-50/100/200/300/400",
-    "KP：Vidur Batra / VP System Engineering；Abhijit Potdar / Corporate VP（表内）"
-  ],
-  "risks": [
-    "云管理生态：Saga 不做云管理，仅能供硬件，需其自有管理层适配",
-    "印度 BIS / 整机关税 → SKD 可谈；现用中国 ODM 价格基准低",
-    "非主攻区（T5）"
-  ],
-  "saga_fit": {
-    "p1": "STI-288GPM",
-    "tier": 30,
-    "why": "自有工业 PoE QN-IS-225-8（8 口）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）作二供；4 口位 STI-154GP（$40.8）；云管理由其自有平台处理，Saga 只供 L2 管理/非管理硬件"
-  },
-  "email_hook": "Vidur, for the QN-IS industrial PoE 4- and 8-port models, we can be a second ODM source (DIN-rail, −40~75 °C, L2 managed on Marvell or unmanaged, CE/RoHS/FCC reports for BIS) from small lots — would you consider dual-sourcing the 8-port first?",
-  "products_seen": [
-    {
-      "brand": "Quantum Networks（自有）",
-      "model": "QN-IS-225-8",
-      "spec": "工业 8 口 PoE",
-      "saga": "STI-288GPM",
-      "url": "https://www.qntmnet.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "brand": "Quantum Networks（自有）",
-      "model": "工业 PoE 4 口",
-      "spec": "工业 4 PoE",
-      "saga": "STI-154GP",
-      "url": "https://www.qntmnet.com/",
-      "date": "2026-10-21"
-    }
-  ],
-  "mail_review": {
-    "binding": {
-      "level": "未触达（A 邮箱 11 封 2025→2026，无记录打开，0 回；收件 abhijit@qntmnet.com, sales@qntmnet.com；主题多为「Industrial PoE Switch、16 Port Ethernet Switch」）",
-      "type": "印度云管理网络品牌商（工业线外采中国 ODM）",
-      "sieve": "1（只收到群发）",
-      "stop": "11 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-      "revive": "保持季度群发到 2027-Q1；无打开即停",
-      "lane": "IN 次级（点名）",
-      "cadence": "季度",
-      "evidence": "gmail_digest：out 11；用户表：「国内的工业switch」；研究档 risks：云管理生态：Saga 不做云管理，仅能供硬件，需其自有管理层适配"
-    },
-    "situation": "印度 Quantum Networks（云管理全栈网络品牌：QN-S 系列交换机、工业 PoE 4/8 口 QN-IS-225-8；站内 Ubiquiti / Cisco / Aruba 对比；表内「国内的工业 switch」（现用中国产工业交换机）；KP Vidur Batra（VP – System Engineering，vidur.batra@）、Abhijit Potdar（Corporate VP，abhijit@））；表内无跟进记录。",
-    "need": "自有工业 PoE QN-IS-225-8（8 口）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）作二供；4 口位 STI-154GP（$40.8）；云管理由其自有平台处理，Saga 只供 L2 管理/非管理硬件",
-    "breakpoint": "云管理生态：Saga 不做云管理，仅能供硬件，需其自有管理层适配",
-    "saga_now": {
-      "p1": "STI-288GPM",
-      "tier": 30,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-09-02 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-05-20 $300（48 Port PoE Managed Switch）、2025-09-19 $240（24 Port Fiber Switch）、2026-06-19 $16000（32 Port 400GB DC Switch）",
-      "why": "自有工业 PoE QN-IS-225-8（8 口）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）作二供；4 口位 STI-154GP（$40.8）；云管理由其自有平台处理，Saga 只供 L2 管理/非管理硬件",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "群发节奏",
-      "channel": "A 邮箱",
-      "action": "观察打开",
-      "one_question": "Vidur, for the QN-IS industrial PoE 4- and 8-port models, we can be a second ODM source (DIN-rail, −40~75 °C, L2 managed on Marvell or unmanaged, CE/RoHS/FCC reports for BIS) from small lots — would you consider dual-sourcing the 8-port first?"
-    },
-    "facts": [
-      {
-        "date": "2026-09-02",
-        "dir": "去",
-        "who": "A 群发",
-        "quote": "Industrial PoE Switch、16 Port Ethernet Switch",
-        "why": "11 封 / 0 次打开 / 0 回｜首封 2025-04-17 → 末封 2026-09-02（11 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "国内的工业switch",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "国内的工业 switch",
+   "quote": "国内的工业switch",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Vidur Batra",
+   "title": "Vice President - System Engineering",
+   "email": "vidur.batra@qntmnet.com",
+   "phone": "",
+   "source": "用户表"
+  },
+  {
+   "name": "Abhijit Potdar",
+   "title": "Corporate Vice President",
+   "email": "abhijit@qntmnet.com",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "印度",
+  "other": "官网 qntmnet.com，语言 en-US，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "云管理交换机 / AP（自有品牌）",
+  "工业 PoE 交换机（QN-IS 系列）"
+ ],
+ "channels": {
+  "role": "印度云管理网络品牌商（工业线外采中国 ODM）",
+  "region": "印度",
+  "contact": "vidur.batra@qntmnet.com、abhijit@qntmnet.com"
+ },
+ "signals": [
+  "栏目 /switches/industrialswitches/industrial-poe-4port-switch/、/industrial-poe-8port-switch/、/qn-is-225-8-port/",
+  "官网：Cloud Managed / Full Stack Networking；站内型号 QN-S-50/100/200/300/400",
+  "KP：Vidur Batra / VP System Engineering；Abhijit Potdar / Corporate VP（表内）"
+ ],
+ "risks": [
+  "云管理生态：Saga 不做云管理，仅能供硬件，需其自有管理层适配",
+  "印度 BIS / 整机关税 → SKD 可谈；现用中国 ODM 价格基准低",
+  "非主攻区（T5）"
+ ],
+ "saga_fit": {
+  "p1": "STI-288GPM",
+  "tier": 30,
+  "why": "自有工业 PoE QN-IS-225-8（8 口）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）作二供；4 口位 STI-154GP（$40.8）；云管理由其自有平台处理，Saga 只供 L2 管理/非管理硬件"
+ },
+ "email_hook": "Vidur, for the QN-IS industrial PoE 4- and 8-port models, we can be a second ODM source (DIN-rail, −40~75 °C, L2 managed on Marvell or unmanaged, CE/RoHS/FCC reports for BIS) from small lots — would you consider dual-sourcing the 8-port first?",
+ "products_seen": [
+  {
+   "brand": "Quantum Networks（自有）",
+   "model": "QN-IS-225-8",
+   "spec": "工业 8 口 PoE",
+   "saga": "STI-288GPM",
+   "url": "https://www.qntmnet.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "brand": "Quantum Networks（自有）",
+   "model": "工业 PoE 4 口",
+   "spec": "工业 4 PoE",
+   "saga": "STI-154GP",
+   "url": "https://www.qntmnet.com/",
+   "date": "2026-10-21"
+  }
+ ],
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 11 封 2025→2026，无记录打开，0 回；收件 abhijit@qntmnet.com, sales@qntmnet.com；主题多为「Industrial PoE Switch、16 Port Ethernet Switch」）；Elsa 单发去信 1 封（2025-12-10「Booster PoE Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）",
+   "type": "印度云管理网络品牌商（工业线外采中国 ODM）",
+   "sieve": "1（只收到群发）",
+   "stop": "11 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "IN 次级（点名）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 11；用户表：「国内的工业switch」；研究档 risks：云管理生态：Saga 不做云管理，仅能供硬件，需其自有管理层适配"
+  },
+  "situation": "印度 Quantum Networks（云管理全栈网络品牌：QN-S 系列交换机、工业 PoE 4/8 口 QN-IS-225-8；站内 Ubiquiti / Cisco / Aruba 对比；表内「国内的工业 switch」（现用中国产工业交换机）；KP Vidur Batra（VP – System Engineering，vidur.batra@）、Abhijit Potdar（Corporate VP，abhijit@））；表内无跟进记录。",
+  "need": "自有工业 PoE QN-IS-225-8（8 口）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）作二供；4 口位 STI-154GP（$40.8）；云管理由其自有平台处理，Saga 只供 L2 管理/非管理硬件",
+  "breakpoint": "云管理生态：Saga 不做云管理，仅能供硬件，需其自有管理层适配",
+  "saga_now": {
+   "p1": "STI-288GPM",
+   "tier": 30,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-09-02 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-05-20 $300（48 Port PoE Managed Switch）、2025-09-19 $240（24 Port Fiber Switch）、2026-06-19 $16000（32 Port 400GB DC Switch）",
+   "why": "自有工业 PoE QN-IS-225-8（8 口）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）作二供；4 口位 STI-154GP（$40.8）；云管理由其自有平台处理，Saga 只供 L2 管理/非管理硬件",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "首封前知悉：Elsa 2025-12-10 单发过「Booster PoE Switch」（未见回复（Elsa 箱 Replied 标签无））；观察打开",
+   "one_question": "Vidur, for the QN-IS industrial PoE 4- and 8-port models, we can be a second ODM source (DIN-rail, −40~75 °C, L2 managed on Marvell or unmanaged, CE/RoHS/FCC reports for BIS) from small lots — would you consider dual-sourcing the 8-port first?"
+  },
+  "facts": [
+   {
+    "date": "2026-09-02",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "Industrial PoE Switch、16 Port Ethernet Switch",
+    "why": "11 封 / 0 次打开 / 0 回｜首封 2025-04-17 → 末封 2026-09-02（11 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "国内的工业switch",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2025-12-10",
+    "dir": "out",
+    "who": "Elsa → sales@qntmnet.com",
+    "quote": "Booster PoE Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+    "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
+    "k": "elsa_1to1",
+    "msg_id": "19b06eaa6541b2f8"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

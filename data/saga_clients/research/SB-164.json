@@ -67,7 +67,7 @@
  "email_hook": "Mossad, for the 1-fibre + 2-copper gigabit converter — do you need both copper ports active at once (a mini switch) or one as backup? I'll quote the right unit, from 1 pc.",
  "mail_review": {
   "binding": {
-   "level": "轻度触达（Elsa 邮箱 2025-10-01 samuisso@tescom.co.tz 回「you have only 24 port and how many types of switch you have」——Elsa 的信发给 unilinkcommunication.com，回信来自 TESCOM（同一人/转发）；S/A 邮箱 0 封）；补核（第 73 批）：Elsa 当天回 5 张照片 + 反问，无型号无价，之后无回；补核（第 73 批）：08-23 第一问无人答，10-01 第二问只得照片 → 两次都没拿到型号/价；Elsa 单发去信 1 封（2026-05-11「10G Enterprise SFP Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）",
+   "level": "轻度触达（Elsa 邮箱 2025-10-01 samuisso@tescom.co.tz 回「you have only 24 port and how many types of switch you have」——Elsa 的信发给 unilinkcommunication.com，回信来自 TESCOM（同一人/转发）；S/A 邮箱 0 封）；补核（第 73 批）：Elsa 当天回 5 张照片 + 反问，无型号无价，之后无回；补核（第 73 批）：08-23 第一问无人答，10-01 第二问只得照片 → 两次都没拿到型号/价；Elsa 单发去信 1 封（2026-05-11「10G Enterprise SFP Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）；另 Elsa 单发 1 封（2025-12-29「Marvell Industrial Alert System」）",
    "type": "—",
    "sieve": "—（未入筛）",
    "stop": "从未触达",
@@ -142,6 +142,15 @@
     "why": "本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无）",
     "k": "elsa_1to1",
     "msg_id": "19e16cd173a59698"
+   },
+   {
+    "date": "2025-12-29",
+    "dir": "out",
+    "who": "Elsa → samuisso@tescom.co.tz",
+    "quote": "Marvell Industrial Alert System（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+    "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
+    "k": "elsa_1to1",
+    "msg_id": "19b690cb8b8fd5ff"
    }
   ],
   "proof_gaps": [

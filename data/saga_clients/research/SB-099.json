@@ -80,7 +80,7 @@
  "email_hook": "Vinod — you asked for prices last June (and left your WhatsApp number); Elsa sent the download links but no price. The 8-PoE + 2-SFP industrial managed unit is $137.5 USD EXW; is the requirement still there?",
  "mail_review": {
   "binding": {
-   "level": "读而不回→轻度触达（Elsa 邮箱 2025-06-04 Vinod Tyagi（AGS Plus）回「Share the price. What's App number +91…」；S 邮箱 12 封 3 次打开 0 回；Q-33 标记保留——AGS Plus/Xexagon 是否为供应商渠道客户待 Simon 核）；补核（第 73 批）：Elsa 06-06 只回下载链接、未报价，之后邮件无回；Elsa 单发去信 2 封（2026-05-11「10G Enterprise SFP Switch」；2026-09-08「24 Port PoE Managed Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）",
+   "level": "读而不回→轻度触达（Elsa 邮箱 2025-06-04 Vinod Tyagi（AGS Plus）回「Share the price. What's App number +91…」；S 邮箱 12 封 3 次打开 0 回；Q-33 标记保留——AGS Plus/Xexagon 是否为供应商渠道客户待 Simon 核）；补核（第 73 批）：Elsa 06-06 只回下载链接、未报价，之后邮件无回；Elsa 单发去信 2 封（2026-05-11「10G Enterprise SFP Switch」；2026-09-08「24 Port PoE Managed Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）；另 Elsa 单发 1 封（2025-12-29「Marvell Industrial Alert System」）",
    "type": "—",
    "sieve": "2（有人在读，无人回）",
    "stop": "读而不回 = 内容未命中或没有当下需求；Q-33 供应商渠道客户",
@@ -164,6 +164,15 @@
     "why": "本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无）",
     "k": "elsa_1to1",
     "msg_id": "1a08075d070c32df"
+   },
+   {
+    "date": "2025-12-29",
+    "dir": "out",
+    "who": "Elsa → sales@agsplus.in",
+    "quote": "Marvell Industrial Alert System（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+    "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
+    "k": "elsa_1to1",
+    "msg_id": "19b68559d11d9c8b"
    }
   ],
   "proof_gaps": [

@@ -145,7 +145,7 @@
  "email_hook": "For the 550 units of 90W industrial PoE injectors, I am confirming the bt injector part number and MOQ pricing with the factory now; if a switch-based design is acceptable, the 8-port 90W-capable industrial PoE switch can be quoted immediately as an alternative.",
  "mail_review": {
   "binding": {
-   "level": "未绑定（Elsa 邮箱 2025-07-02 Eduardo Miranda 要 5/8/16/24 口非管理 PoE（10/100 与千兆）「with your standard brand name and standard carton box」+ 图片 → Elsa 07-03 回复 → 无下文）；Elsa 单发去信 1 封（2026-05-11「10G Enterprise SFP Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）",
+   "level": "未绑定（Elsa 邮箱 2025-07-02 Eduardo Miranda 要 5/8/16/24 口非管理 PoE（10/100 与千兆）「with your standard brand name and standard carton box」+ 图片 → Elsa 07-03 回复 → 无下文）；Elsa 单发去信 1 封（2026-05-11「10G Enterprise SFP Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）；另 Elsa 单发 1 封（2025-12-29「Marvell Industrial Alert System」）",
    "type": "玻利维亚圣克鲁斯批发分销（布线/光纤/网络，Gerente Eduardo Miranda）——南美非主攻",
    "sieve": "0（邮件层无人工回复）",
    "stop": "Elsa 回复后无下文（回复正文未入库）；用户表「550 只 90W 注入器」需求在邮件无痕",
@@ -196,6 +196,15 @@
     "why": "本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无）",
     "k": "elsa_1to1",
     "msg_id": "19e173af2f80e177"
+   },
+   {
+    "date": "2025-12-29",
+    "dir": "out",
+    "who": "Elsa → emiranda@surlink-tech.com",
+    "quote": "Marvell Industrial Alert System（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+    "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
+    "k": "elsa_1to1",
+    "msg_id": "19b6a689f3702326"
    }
   ],
   "proof_gaps": [

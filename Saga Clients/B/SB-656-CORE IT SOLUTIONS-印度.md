@@ -44,7 +44,7 @@ updated: 2026-10-25
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-656` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达→轻度触达（Elsa 邮箱 2025-06-17 info@citsindia.com 回「Price pls」对 10G 媒体转换器 $65；S 邮箱 3 封 0 回）；补核（第 73 批）：Elsa 同日回 STC-110XGE $65 + 规格书，之后无回 → 回过一次后读而不回；Elsa 单发去信 1 封（2026-05-11「10G Enterprise SFP Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：一封正式报价单（$65 USD EXW，快照日期）+ 问数量 ｜ 通路：IN 次级（点名） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 3；用户表：「兴趣：SFP, MC, switch, router；回复：price」；研究档 risks：联系人邮箱退信；10G MC Saga 价目无（SmartByte 另询）；Elsa 邮箱 `data/gmail_e/text/`（Replied 线程，客户→Elsa 正文；Elsa 回复正文未入库）
+- **绑定等级：未触达→轻度触达（Elsa 邮箱 2025-06-17 info@citsindia.com 回「Price pls」对 10G 媒体转换器 $65；S 邮箱 3 封 0 回）；补核（第 73 批）：Elsa 同日回 STC-110XGE $65 + 规格书，之后无回 → 回过一次后读而不回；Elsa 单发去信 1 封（2026-05-11「10G Enterprise SFP Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）；另 Elsa 单发 1 封（2025-12-29「Marvell Industrial Alert System」）** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：一封正式报价单（$65 USD EXW，快照日期）+ 问数量 ｜ 通路：IN 次级（点名） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 3；用户表：「兴趣：SFP, MC, switch, router；回复：price」；研究档 risks：联系人邮箱退信；10G MC Saga 价目无（SmartByte 另询）；Elsa 邮箱 `data/gmail_e/text/`（Replied 线程，客户→Elsa 正文；Elsa 回复正文未入库）
 - **现状一句话**：孟买 IT 服务商（应用开发 / ERP、备份、云、FMS/AMC、托管、ISP 服务、网络架构、安全），需求 SFP / MC / switch / router；2025-06 对 10G MC 群发回复 price；表内 Sarwar 邮箱退信（发不过去），仅 info@。
 - **对方真实需求（有据）**：MC 需求 → STI-110GE 起手；10G MC 按 SmartByte 型号另询并注明。
 - **断点 / 为什么停在这里**：联系人邮箱退信；10G MC Saga 价目无（SmartByte 另询）
@@ -59,6 +59,7 @@ updated: 2026-10-25
 | 2025-06-17 | 去 | Elsa | Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non-PoE, DC5~12V input, with power adapter. Please see attached datasheet.（附 STC-110XGE.pdf） | 「Price pls」当天就回了 $65 + 规格书 → 无下文；之前信稿「we owe you a clean answer」写反了 | `gmail_e 1977c84d867d3059` |
 | 2026-10-21 | 用户表 | Simon | 兴趣：SFP, MC, switch, router；回复：price | 表内备注 | `用户表` |
 | 2026-05-11 | out | Elsa → info@citsindia.com | 10G Enterprise SFP Switch（Elsa 2026 年 1:1 名单重发；To 仅本户） | 本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
+| 2025-12-29 | out | Elsa → info@citsindia.com | Marvell Industrial Alert System（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：（已核 2026-10-24，第 73 批）用户表「有回复·跟进中」= Elsa 邮箱这条（06-17「Price pls」→ 同日回 STC-110XGE $65 + 规格书 → 无下文），不是 WhatsApp
 

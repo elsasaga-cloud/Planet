@@ -60,7 +60,7 @@
  "email_hook": "For the PoE switches sold under your own model numbers, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE 280 W; DIN-rail 8-PoE for Utepo positions) in your packaging from small lots, CE/RoHS; EAC by your side — which PoE SKU do you reorder most?",
  "mail_review": {
   "binding": {
-   "level": "读而不回（S 邮箱 7 封 2024→2025，其中 3 封被打开，0 回；收件 sales@cmd-sec.ru；被打开主题「Passive PoE Switch、Mini industrial switch」）；Elsa 单发去信 2 封（2026-05-21「10G Enterprise SFP Switch」；2026-08-26「24 Port PoE Managed Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）；另 Elsa 单发 1 封（2025-02-21「Mini Industrial PoE Switch」）",
+   "level": "读而不回（S 邮箱 7 封 2024→2025，其中 3 封被打开，0 回；收件 sales@cmd-sec.ru；被打开主题「Passive PoE Switch、Mini industrial switch」）；Elsa 单发去信 2 封（2026-05-21「10G Enterprise SFP Switch」；2026-08-26「24 Port PoE Managed Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）；另 Elsa 单发 1 封（2025-02-21「Mini Industrial PoE Switch」）；另 Elsa 单发 1 封（2025-12-15「Booster PoE Switch」）",
    "type": "安防品牌商（俄罗斯，自有型号 PoE）",
    "sieve": "2（有人在读，无人回）",
    "stop": "读而不回 = 内容未命中或没有当下需求",
@@ -137,6 +137,15 @@
     "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
     "k": "elsa_1to1",
     "msg_id": "195278545b4505aa"
+   },
+   {
+    "date": "2025-12-15",
+    "dir": "out",
+    "who": "Elsa → sales@cmd-sec.ru",
+    "quote": "Booster PoE Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+    "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
+    "k": "elsa_1to1",
+    "msg_id": "19b2133c674ee89c"
    }
   ],
   "proof_gaps": [],

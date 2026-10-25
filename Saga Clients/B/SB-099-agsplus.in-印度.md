@@ -44,7 +44,7 @@ updated: 2026-10-25
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-099` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：读而不回→轻度触达（Elsa 邮箱 2025-06-04 Vinod Tyagi（AGS Plus）回「Share the price. What's App number +91…」；S 邮箱 12 封 3 次打开 0 回；Q-33 标记保留——AGS Plus/Xexagon 是否为供应商渠道客户待 Simon 核）；补核（第 73 批）：Elsa 06-06 只回下载链接、未报价，之后邮件无回；Elsa 单发去信 2 封（2026-05-11「10G Enterprise SFP Switch」；2026-09-08「24 Port PoE Managed Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）** ｜ 类型：— ｜ 筛子：2（有人在读，无人回） ｜ 停点：读而不回 = 内容未命中或没有当下需求；Q-33 供应商渠道客户 ｜ 复活：Q-33 不碰；若 Simon 解除标记 → WhatsApp 一句话 ｜ 通路：IN 次级（点名） ｜ 节奏：不动 ｜ 证据：gmail_digest：out 12，Opened 标签 3（Simon 群发追踪）；用户表：「兴趣：主要是CCTV 新桥的商业PoE;工业FS 周边产品；回复：price」；研究档 risks：新桥价格基准低；官网占位；Elsa 邮箱 `data/gmail_e/text/`（Replied 线程，客户→Elsa 正文；Elsa 回复正文未入库）
+- **绑定等级：读而不回→轻度触达（Elsa 邮箱 2025-06-04 Vinod Tyagi（AGS Plus）回「Share the price. What's App number +91…」；S 邮箱 12 封 3 次打开 0 回；Q-33 标记保留——AGS Plus/Xexagon 是否为供应商渠道客户待 Simon 核）；补核（第 73 批）：Elsa 06-06 只回下载链接、未报价，之后邮件无回；Elsa 单发去信 2 封（2026-05-11「10G Enterprise SFP Switch」；2026-09-08「24 Port PoE Managed Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）；另 Elsa 单发 1 封（2025-12-29「Marvell Industrial Alert System」）** ｜ 类型：— ｜ 筛子：2（有人在读，无人回） ｜ 停点：读而不回 = 内容未命中或没有当下需求；Q-33 供应商渠道客户 ｜ 复活：Q-33 不碰；若 Simon 解除标记 → WhatsApp 一句话 ｜ 通路：IN 次级（点名） ｜ 节奏：不动 ｜ 证据：gmail_digest：out 12，Opened 标签 3（Simon 群发追踪）；用户表：「兴趣：主要是CCTV 新桥的商业PoE;工业FS 周边产品；回复：price」；研究档 risks：新桥价格基准低；官网占位；Elsa 邮箱 `data/gmail_e/text/`（Replied 线程，客户→Elsa 正文；Elsa 回复正文未入库）
 - **现状一句话**：印度 CCTV / 网络经销（agsplus.in 占位页，关联 xexagon.co.in），表内：主要 CCTV，用新桥商用 PoE，工业 FS 用 opstar，有 E-wind 产品；Vinod Tyagi / Gunjan；2025-06 对 24 PoE 回复 price。
 - **对方真实需求（有据）**：24 PoE 询价 → STC-424DGGPM-280W（$134.5/140.1/145.7）；经销 20%。
 - **断点 / 为什么停在这里**：新桥价格基准低；官网占位
@@ -61,6 +61,7 @@ updated: 2026-10-25
 | 2026-10-21 | 用户表 | Simon | 兴趣：主要是CCTV 新桥的商业PoE;工业FS 周边产品；回复：price | 表内备注 | `用户表` |
 | 2026-05-11 | out | Elsa → sales@agsplus.in | 10G Enterprise SFP Switch（Elsa 2026 年 1:1 名单重发；To 仅本户） | 本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 | 2026-09-08 | out | Elsa → gunjan@xexagon.co.in | 24 Port PoE Managed Switch（Elsa 2026 年 1:1 名单重发；To 仅本户） | 本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
+| 2025-12-29 | out | Elsa → sales@agsplus.in | Marvell Industrial Alert System（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：Q-33 标记依据待核（供应商渠道客户不碰）；（已核 2026-10-24，第 73 批）用户表「有回复·跟进中」= Elsa 邮箱这条（06-04 要价 + 留 WhatsApp → 06-06 只回下载链接 → 无下文）；之后是否在 WhatsApp 上谈过只有 Simon 手机知道
 

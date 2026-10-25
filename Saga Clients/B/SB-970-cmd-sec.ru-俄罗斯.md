@@ -42,7 +42,7 @@ updated: 2026-10-25
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-970` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：读而不回（S 邮箱 7 封 2024→2025，其中 3 封被打开，0 回；收件 sales@cmd-sec.ru；被打开主题「Passive PoE Switch、Mini industrial switch」）；Elsa 单发去信 2 封（2026-05-21「10G Enterprise SFP Switch」；2026-08-26「24 Port PoE Managed Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）；另 Elsa 单发 1 封（2025-02-21「Mini Industrial PoE Switch」）** ｜ 类型：安防品牌商（俄罗斯，自有型号 PoE） ｜ 筛子：2（有人在读，无人回） ｜ 停点：读而不回 = 内容未命中或没有当下需求 ｜ 复活：一封「只问一句」的短信给打开过的地址（不附图不附表） ｜ 通路：RU 次级（Simon 2026-08 点名） ｜ 节奏：一封；回了再说 ｜ 证据：gmail_digest：out 7，Opened 标签 3（Simon 群发追踪）；用户表：「有Utepo的工业FS 主要是商业POE 自己的型号」；研究档 risks：俄罗斯：结算/物流/合规风险；官网 unreachable（经营状态待核）；现供 Utepo 价格基准低；未跟进过，仅 sales@
+- **绑定等级：读而不回（S 邮箱 7 封 2024→2025，其中 3 封被打开，0 回；收件 sales@cmd-sec.ru；被打开主题「Passive PoE Switch、Mini industrial switch」）；Elsa 单发去信 2 封（2026-05-21「10G Enterprise SFP Switch」；2026-08-26「24 Port PoE Managed Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）；另 Elsa 单发 1 封（2025-02-21「Mini Industrial PoE Switch」）；另 Elsa 单发 1 封（2025-12-15「Booster PoE Switch」）** ｜ 类型：安防品牌商（俄罗斯，自有型号 PoE） ｜ 筛子：2（有人在读，无人回） ｜ 停点：读而不回 = 内容未命中或没有当下需求 ｜ 复活：一封「只问一句」的短信给打开过的地址（不附图不附表） ｜ 通路：RU 次级（Simon 2026-08 点名） ｜ 节奏：一封；回了再说 ｜ 证据：gmail_digest：out 7，Opened 标签 3（Simon 群发追踪）；用户表：「有Utepo的工业FS 主要是商业POE 自己的型号」；研究档 risks：俄罗斯：结算/物流/合规风险；官网 unreachable（经营状态待核）；现供 Utepo 价格基准低；未跟进过，仅 sales@
 - **现状一句话**：俄罗斯 CMD-sec（安防：自有型号商用 PoE 为主，工业 FS 有 Utepo；官网 unreachable）；表内未跟进。
 - **对方真实需求（有据）**：自有型号商用 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 口 STC-424DGGPM-280W（$145.7）贴标；工业 8 PoE + 2 SFP STI-288GP（$62.2）作 Utepo 二供
 - **断点 / 为什么停在这里**：俄罗斯：结算/物流/合规风险；官网 unreachable（经营状态待核）；现供 Utepo 价格基准低；未跟进过，仅 sales@
@@ -58,6 +58,7 @@ updated: 2026-10-25
 | 2026-05-21 | out | Elsa → sales@cmd-sec.ru | 10G Enterprise SFP Switch（Elsa 2026 年 1:1 名单重发；To 仅本户） | 本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 | 2026-08-26 | out | Elsa → sales@cmd-sec.ru | 24 Port PoE Managed Switch（Elsa 2026 年 1:1 名单重发；To 仅本户） | 本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 | 2025-02-21 | out | Elsa → sales@cmd-sec.ru | Mini Industrial PoE Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
+| 2025-12-15 | out | Elsa → sales@cmd-sec.ru | Booster PoE Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 
 ## 基本事实（事实/推断/假设分层）
 
