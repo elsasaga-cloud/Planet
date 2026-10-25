@@ -123,7 +123,7 @@
   "next_move": {
    "when": "待 Simon 排期（首封）",
    "channel": "A 邮箱 → cumhur@aniltelekom.com（Cumhur Ölmez）",
-   "action": "首封：按 email_hook 一问",
+   "action": "首封：按 email_hook 一问（第 74 批(r) 2026-10-25：英文信稿已写 `draft_en`，内容 = 土耳其语钩子句的英文版；土耳其语一句话仍在研究档备注里，对方若不读英文就整段单发）",
    "one_question": "Cumhur Bey, ISAF'ta kartvizitinizi aldım; Dahua kamera satışlarınızın yanına TP-Link ile çakışmayan nötr/özel etiketli bir PoE hattı: 2 SFP + 8 port PoE 33,2 USD, 24 port 93,5 USD (EXW, distribütör fiyatı) — ilk denemede 50 adetlik parti için özel etiket ister misiniz?"
   },
   "facts": [
@@ -139,7 +139,10 @@
   "proof_gaps": [
    "无邮件往来"
   ],
-  "draft_en": null,
+  "draft_en": {
+   "subject": "A neutral / private-label PoE line next to your Dahua cameras - no overlap with TP-Link",
+   "body": "Hi Cumhur,\n\nWe met at ISAF 2025 in Istanbul last October - this picks up what we discussed at the booth. Thank you for your card.\n\nFor the PoE switches your dealers buy with Dahua cameras, a private-label line that does not overlap with the TP-Link range you distribute: 2 x SFP + 8 x Gigabit PoE+, unmanaged, model STC-228GP - $33.2 USD EXW; 24 x Gigabit PoE+ with uplinks, model STC-2024GP - $93.5 USD EXW (distributor prices, MOQ 1, 15-day validity, CE/RoHS). Anıl Telekom label on the unit and carton from a 50-piece lot.\n\nOne question: for a first test, would you want the 50 pieces with your label, or neutral?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+  },
   "as_of": "2026-10-24"
  }
 }

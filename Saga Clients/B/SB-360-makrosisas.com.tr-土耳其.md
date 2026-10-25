@@ -37,7 +37,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM — 工程 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP L2+，$145.7 EXW）对应「2 光 10 电带网管带 PoE」现场价 $130（差额需 DDP 报价时与客户对表）；12 光 12 电带网管按商用 L3 STC-4248XGGCM（16 SFP + 8 Combo + 4×10G，Realtek 线列表 $297.0）回应 $150 预期；首触锚价 STI-288DGGPM $137.5 EXW（2026-06 PDF 上限 $137.5（档位 139.9–151.6 超上限；Angora/Astel 实报 $125 为成单户价）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Mustafa Bey, ISAF'ta konuştuğumuz 2 SFP + 8 port PoE yönetilebilir endüstriyel switch için DDP (gümrük + KDV dahil, kapıya teslim) fiyatı hazırlayabilirim; ilk proje için kaç adet ve hangi şehre teslim gerekiyor? Referans: STI-288DGGPM 137,5 USD EXW (MOQ 1, 15 gün geçerli).
 - **最大未知**：年走量与现供应商
-- **下一步**：待 Simon 排期（首封） A 邮箱 → m.demirel@makrosisas.com.tr（Mustafa Demirel） 首封：按 email_hook 一问
+- **下一步**：待 Simon 排期（首封） A 邮箱 → m.demirel@makrosisas.com.tr（Mustafa Demirel） 首封：按 email_hook 一问（第 74 批(r) 2026-10-25：英文信稿已写 `draft_en`，内容 = 土耳其语钩子句的英文版；土耳其语一句话仍在研究档备注里，对方若不读英文就整段单发）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -48,7 +48,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：工程 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP L2+，$145.7 EXW）对应「2 光 10 电带网管带 PoE」现场价 $130（差额需 DDP 报价时与客户对表）；12 光 12 电带网管按商用 L3 STC-4248XGGCM（16 SFP + 8 Combo + 4×10G，Realtek 线列表 $297.0）回应 $150 预期
 - **断点 / 为什么停在这里**：要求双清包税：Saga 需经货代做 DDP（土耳其清关风险）；无后续跟进；价格预期偏低
 - **Saga 现在该推什么**：P1 **STI-288DGGPM**（25% 档，首触锚价 STI-288DGGPM $137.5 EXW（2026-06 PDF 上限 $137.5（档位 139.9–151.6 超上限；Angora/Astel 实报 $125 为成单户价）；第 72 批 2026-10-24）；按主表（研究档 saga_fit））——工程 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP L2+，$145.7 EXW）对应「2 光 10 电带网管带 PoE」现场价 $130（差额需 DDP 报价时与客户对表）；12 光 12 电带网管按商用 L3 STC-4248XGGCM（16 SFP + 8 Combo + 4×10G，Realtek 线列表 $297.0）回应 $150 预期
-- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → m.demirel@makrosisas.com.tr（Mustafa Demirel）　首封：按 email_hook 一问
+- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → m.demirel@makrosisas.com.tr（Mustafa Demirel）　首封：按 email_hook 一问（第 74 批(r) 2026-10-25：英文信稿已写 `draft_en`，内容 = 土耳其语钩子句的英文版；土耳其语一句话仍在研究档备注里，对方若不读英文就整段单发）
   - 第一问（只问一个）：Mustafa Bey, ISAF'ta konuştuğumuz 2 SFP + 8 port PoE yönetilebilir endüstriyel switch için DDP (gümrük + KDV dahil, kapıya teslim) fiyatı hazırlayabilirim; ilk proje için kaç adet ve hangi şehre teslim gerekiyor? Referans: STI-288DGGPM 137,5 USD EXW (MOQ 1, 15 gün geçerli).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -218,27 +218,25 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-288DGGPM - industrial DIN-rail L2+ managed switch (Marvell-based, neutral label)
+**主题**：DDP price for the 2 SFP + 8 PoE managed industrial switch - from ISAF
 
 ```text
 Hi Mustafa,
 
-We met at ISAF 2025 in Istanbul last October - this picks up what we discussed at the booth, with one concrete option.
+We met at ISAF 2025 in Istanbul last October - this picks up what we discussed at the booth.
 
-We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it with neutral packaging. Current price: $137.5 USD EXW (valid 15 days).
+At the booth we quoted the 2 SFP + 10-port managed PoE industrial switch at $130 USD and the 12-fibre + 12-copper managed unit at $150 USD (both EXW); those figures stand. You asked for a delivered price with customs duty and VAT included (DDP) - I can prepare that through our forwarder once I know the quantity and the destination city.
 
-One question: Is the requirement we talked about at ISAF still open - and which port count comes first?
-
-If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: for the first project, how many units and delivery to which city?
 
 Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Simon
+Saga Telecom - sagatele.com
 ```
 
-> 研究档备注（未并入正文）：客户语言一句话（研究档 email_hook；要用就整段单发，不混进英文信）：ISAF'ta konuştuğumuz 2 SFP + 8 port PoE yönetilebilir endüstriyel switch için DDP (gümrük + KDV dahil, kapıya teslim) fiyatı hazırlayabilirim; ilk proje için kaç adet ve hangi şehre teslim gerekiyor?
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 客户语言一句话（研究档 email_hook；对方若不读英文，整段单发 WhatsApp/邮件）：Mustafa Bey, ISAF'ta konuştuğumuz 2 SFP + 8 port PoE yönetilebilir endüstriyel switch için DDP (gümrük + KDV dahil, kapıya teslim) fiyatı hazırlayabilirim; ilk proje için kaç adet ve hangi şehre teslim gerekiyor?
 
 ## 新跟进记录（仓库外发出后补）
 

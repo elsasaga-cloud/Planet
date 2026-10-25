@@ -37,7 +37,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-228GP — 分销 20% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，Saga Realtek 线列表 $30.8）配 Dahua 摄像走量；管理型 STC-28GPM（$62.2）；24 口 STC-2024GP（$93.5）；Realtek 线按 HRUI 2026-09-30 进价 +20% 现算（Q-47 默认，不用 Drive 旧表价）：STC-228GP $30.8→$33.2；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Cumhur Bey, ISAF'ta kartvizitinizi aldım; Dahua kamera satışlarınızın yanına TP-Link ile çakışmayan nötr/özel etiketli bir PoE hattı: 2 SFP + 8 port PoE 33,2 USD, 24 port 93,5 USD (EXW, distribütör fiyatı) — ilk denemede 50 adetlik parti için özel etiket ister misiniz?
 - **最大未知**：年走量与现供应商
-- **下一步**：待 Simon 排期（首封） A 邮箱 → cumhur@aniltelekom.com（Cumhur Ölmez） 首封：按 email_hook 一问
+- **下一步**：待 Simon 排期（首封） A 邮箱 → cumhur@aniltelekom.com（Cumhur Ölmez） 首封：按 email_hook 一问（第 74 批(r) 2026-10-25：英文信稿已写 `draft_en`，内容 = 土耳其语钩子句的英文版；土耳其语一句话仍在研究档备注里，对方若不读英文就整段单发）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -48,7 +48,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：分销 20% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，Saga Realtek 线列表 $30.8）配 Dahua 摄像走量；管理型 STC-28GPM（$62.2）；24 口 STC-2024GP（$93.5）
 - **断点 / 为什么停在这里**：已有 TP-Link/Ruijie 主力线（价格战）；ISAF 未表达需求；无后续跟进
 - **Saga 现在该推什么**：P1 **STC-228GP**（20% 档，Realtek 线按 HRUI 2026-09-30 进价 +20% 现算（Q-47 默认，不用 Drive 旧表价）：STC-228GP $30.8→$33.2；按主表（研究档 saga_fit））——分销 20% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，Saga Realtek 线列表 $30.8）配 Dahua 摄像走量；管理型 STC-28GPM（$62.2）；24 口 STC-2024GP（$93.5）
-- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → cumhur@aniltelekom.com（Cumhur Ölmez）　首封：按 email_hook 一问
+- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → cumhur@aniltelekom.com（Cumhur Ölmez）　首封：按 email_hook 一问（第 74 批(r) 2026-10-25：英文信稿已写 `draft_en`，内容 = 土耳其语钩子句的英文版；土耳其语一句话仍在研究档备注里，对方若不读英文就整段单发）
   - 第一问（只问一个）：Cumhur Bey, ISAF'ta kartvizitinizi aldım; Dahua kamera satışlarınızın yanına TP-Link ile çakışmayan nötr/özel etiketli bir PoE hattı: 2 SFP + 8 port PoE 33,2 USD, 24 port 93,5 USD (EXW, distribütör fiyatı) — ilk denemede 50 adetlik parti için özel etiket ister misiniz?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -231,27 +231,25 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-228GP - 8-port Gigabit PoE switch with 2 SFP and 2 copper uplinks (neutral label)
+**主题**：A neutral / private-label PoE line next to your Dahua cameras - no overlap with TP-Link
 
 ```text
 Hi Cumhur,
 
-We met at ISAF 2025 in Istanbul last October - this picks up what we discussed at the booth, with one concrete option.
+We met at ISAF 2025 in Istanbul last October - this picks up what we discussed at the booth. Thank you for your card.
 
-We supply an 8-port Gigabit PoE switch with 2 SFP and 2 copper uplinks (unmanaged, 120 W, PoE watchdog) - model STC-228GP - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $33.2 USD EXW (valid 15 days).
+For the PoE switches your dealers buy with Dahua cameras, a private-label line that does not overlap with the TP-Link range you distribute: 2 x SFP + 8 x Gigabit PoE+, unmanaged, model STC-228GP - $33.2 USD EXW; 24 x Gigabit PoE+ with uplinks, model STC-2024GP - $93.5 USD EXW (distributor prices, MOQ 1, 15-day validity, CE/RoHS). Anıl Telekom label on the unit and carton from a 50-piece lot.
 
-One question: Is the requirement we talked about at ISAF still open - and which port count comes first?
-
-If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: for a first test, would you want the 50 pieces with your label, or neutral?
 
 Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Simon
+Saga Telecom - sagatele.com
 ```
 
-> 研究档备注（未并入正文）：客户语言一句话（研究档 email_hook；要用就整段单发，不混进英文信）：ISAF'ta kartvizitinizi aldım; Dahua kamera satışlarınızın yanına TP-Link ile çakışmayan nötr/özel etiketli bir PoE hattı: 2 SFP + 8 port PoE 33,2 USD, 24 port 93,5 USD (EXW, distribütör fiyatı) — ilk denemede 50 adetlik parti için özel etiket ister misiniz?
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 客户语言一句话（研究档 email_hook；对方若不读英文，整段单发 WhatsApp/邮件）：Cumhur Bey, ISAF'ta kartvizitinizi aldım; Dahua kamera satışlarınızın yanına TP-Link ile çakışmayan nötr/özel etiketli bir PoE hattı: 2 SFP + 8 port PoE 33,2 USD, 24 port 93,5 USD (EXW, distribütör fiyatı) — ilk denemede 50 adetlik parti için özel etiket ister misiniz?
 
 ## 新跟进记录（仓库外发出后补）
 

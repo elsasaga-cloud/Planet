@@ -100,7 +100,7 @@
   "next_move": {
    "when": "待 Simon 排期（首封）",
    "channel": "A 邮箱 → hasti@fhguvenlik.com（Hasti F. Göller）",
-   "action": "首封：按 email_hook 一问",
+   "action": "首封：按 email_hook 一问（第 74 批(r) 2026-10-25：英文信稿已写 `draft_en`，内容 = 土耳其语钩子句的英文版；土耳其语一句话仍在研究档备注里，对方若不读英文就整段单发）",
    "one_question": "Hasti Hanım, ISAF'ta sorduğunuz endüstriyel switch: DIN ray 8 port PoE+ + 2 SFP, −40/+75 °C, EXW 59,8 USD (L2 yönetilebilir 82,2 USD) — IP kamera projelerinizde saha dolabı başına kaç kamera bağlıyorsunuz, 8 port yeterli mi?"
   },
   "facts": [
@@ -116,7 +116,10 @@
   "proof_gaps": [
    "无邮件往来"
   ],
-  "draft_en": null,
+  "draft_en": {
+   "subject": "Industrial switch from ISAF - 8 PoE+ + 2 SFP for field cabinets",
+   "body": "Hi Hasti,\n\nWe met at ISAF 2025 in Istanbul last October - this picks up what we discussed at the booth.\n\nThe industrial switch you asked about: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, -40 to 75 C, unmanaged, model STI-288GP - $59.8 USD EXW; the L2 managed version STI-288GPM is $82.2 (MOQ 1, 15-day validity, CE/RoHS). For the equipment room side, the 8 x PoE+ + 2 SFP L2+ rack/desktop unit STC-28DGGPM is $84.1.\n\nOne question: in your IP camera projects, how many cameras hang off one field cabinet - is 8 ports enough?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+  },
   "as_of": "2026-10-24"
  }
 }

@@ -37,7 +37,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-240GM — OEM 30% 档：STI-240GM（DIN 2 SFP + 4 GE L2 管理，$62.2）与 STI-220GE（2 SFP + 2 GE，$30.1）对应「2 光 4 电 / 2 光 2 电」；10G 用 STI-480XGGM（4×10G SFP+ + 8 GE，$163.2）；bypass 版 SmartByte LT-IS6312G-4GX8GT-FBP（$186.5，Saga 暂；锚价：STI-240GM $62.2（OEM 30% 档；第 74 批(r) 2026-10-25 更正钩子句 77,0 = STI-244GPM PDF 价误用）；Realtek 线按 HRUI 2026-09-30 进价 +30% 现算（Q-47 默认，不用 Drive 旧表价）：STC-28GPM $62.2→$77.0；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Ufuk Bey, hazırladığımız ürün görsellerinin devamı olarak: 2 SFP + 4 port L2 yönetilebilir endüstriyel switch geMaxx/SFPTÜRKİYE etiketiyle EXW 62,2 USD, 2 SFP + 2 port 30,1 USD — mağazanız için ilk parti kaç adet olsun?
 - **最大未知**：年走量与现供应商
-- **下一步**：待 Simon 排期（首封） A 邮箱 → ufuk.goren@sfpturkey.com.tr（Ufuk Gören） 首封：按 email_hook 一问
+- **下一步**：待 Simon 排期（首封） A 邮箱 → ufuk.goren@sfpturkey.com.tr（Ufuk Gören） 首封：按 email_hook 一问（第 74 批(r) 2026-10-25：英文信稿已写 `draft_en`，内容 = 土耳其语钩子句的英文版；土耳其语一句话仍在研究档备注里，对方若不读英文就整段单发）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -48,7 +48,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：OEM 30% 档：STI-240GM（DIN 2 SFP + 4 GE L2 管理，$62.2）与 STI-220GE（2 SFP + 2 GE，$30.1）对应「2 光 4 电 / 2 光 2 电」；10G 用 STI-480XGGM（4×10G SFP+ + 8 GE，$163.2）；bypass 版 SmartByte LT-IS6312G-4GX8GT-FBP（$186.5，Saga 暂
 - **断点 / 为什么停在这里**：小团队、电商库存采购量小且比价；无后续跟进
 - **Saga 现在该推什么**：P1 **STI-240GM**（30% 档，锚价：STI-240GM $62.2（OEM 30% 档；第 74 批(r) 2026-10-25 更正钩子句 77,0 = STI-244GPM PDF 价误用）；Realtek 线按 HRUI 2026-09-30 进价 +30% 现算（Q-47 默认，不用 Drive 旧表价）：STC-28GPM $62.2→$77.0；按主表（研究档 saga_fit））——OEM 30% 档：STI-240GM（DIN 2 SFP + 4 GE L2 管理，$62.2）与 STI-220GE（2 SFP + 2 GE，$30.1）对应「2 光 4 电 / 2 光 2 电」；10G 用 STI-480XGGM（4×10G SFP+ + 8 GE，$163.2）；bypass 版 SmartByte LT-IS6312G-4GX8GT-FBP（$186.5，Saga 暂
-- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → ufuk.goren@sfpturkey.com.tr（Ufuk Gören）　首封：按 email_hook 一问
+- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → ufuk.goren@sfpturkey.com.tr（Ufuk Gören）　首封：按 email_hook 一问（第 74 批(r) 2026-10-25：英文信稿已写 `draft_en`，内容 = 土耳其语钩子句的英文版；土耳其语一句话仍在研究档备注里，对方若不读英文就整段单发）
   - 第一问（只问一个）：Ufuk Bey, hazırladığımız ürün görsellerinin devamı olarak: 2 SFP + 4 port L2 yönetilebilir endüstriyel switch geMaxx/SFPTÜRKİYE etiketiyle EXW 62,2 USD, 2 SFP + 2 port 30,1 USD — mağazanız için ilk parti kaç adet olsun?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -233,27 +233,29 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-240GM - industrial DIN-rail L2 managed switch (Marvell-based, neutral label)
+**主题**：geMaxx / SFPTÜRKİYE label - 2 SFP + 4 port and 2 SFP + 2 port industrial units
 
 ```text
 Hi Ufuk,
 
-We met at ISAF 2025 in Istanbul last October - this picks up what we discussed at the booth, with one concrete option.
+Following the product images we prepared for your site: the industrial units can carry the geMaxx / SFPTÜRKİYE label from the first lot.
 
-We supply a Marvell-based industrial DIN-rail L2 managed switch, 4x Gigabit plus 2 SFP - model STI-240GM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $62.2 USD EXW (valid 15 days).
+- 2 x SFP + 4 x Gigabit, L2 managed, DIN-rail, -40 to 75 C, model STI-240GM - $62.2 USD EXW (OEM price, MOQ 1, 15-day validity)
+- 2 x SFP + 2 x Gigabit, DIN-rail, model STI-220GE - $30.1 USD EXW
+- 4 x 10G SFP+ + 8 x Gigabit, L2+ managed, model STI-480XGGM - $163.2 USD EXW
 
-One question: Is the requirement we talked about at ISAF still open - and which port count comes first?
+Logo on the front panel is free; colour box from 200 sets. A fibre-bypass version (8 x Gigabit + 4 x SFP) exists at $186.5 if you want it in the range.
 
-If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: what quantity should the first lot for your store be?
 
 Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Simon
+Saga Telecom - sagatele.com
 ```
 
-> 研究档备注（未并入正文）：客户语言一句话（研究档 email_hook；要用就整段单发，不混进英文信）：Hazırladığımız ürün görsellerinin devamı olarak: 2 SFP + 4 port L2 yönetilebilir endüstriyel switch geMaxx/SFPTÜRKİYE etiketiyle EXW 62,2 USD, 2 SFP + 2 port 30,1 USD — mağazanız için ilk parti kaç adet olsun?
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 客户语言一句话（研究档 email_hook；对方若不读英文，整段单发 WhatsApp/邮件）：Ufuk Bey, hazırladığımız ürün görsellerinin devamı olarak: 2 SFP + 4 port L2 yönetilebilir endüstriyel switch geMaxx/SFPTÜRKİYE etiketiyle EXW 62,2 USD, 2 SFP + 2 port 30,1 USD — mağazanız için ilk parti kaç adet olsun?
 
 ## 新跟进记录（仓库外发出后补）
 

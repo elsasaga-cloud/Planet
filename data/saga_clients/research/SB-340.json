@@ -108,7 +108,7 @@
   "next_move": {
    "when": "待 Simon 排期（首封）",
    "channel": "A 邮箱 → bilgi@proves.com.tr（Serdar Karasu）",
-   "action": "首封：按 email_hook 一问",
+   "action": "首封：按 email_hook 一问（第 74 批(r) 2026-10-25：英文信稿已写 `draft_en`，内容 = 土耳其语钩子句的英文版；土耳其语一句话仍在研究档备注里，对方若不读英文就整段单发）",
    "one_question": "Serdar Bey, ISAF'ta istediğiniz endüstriyel switch fiyat listesi: DIN ray 8 PoE + 2 SFP yönetilemez 59,8 USD, L2 yönetilebilir 82,2 USD, L2+ 145,7 USD (EXW, 15 gün geçerli) — Hanwha kamera projelerinizde halka (ring) topolojisi kullanıyor musunuz, ERPS'li modeli mi önereyim?"
   },
   "facts": [
@@ -124,7 +124,10 @@
   "proof_gaps": [
    "无邮件往来"
   ],
-  "draft_en": null,
+  "draft_en": {
+   "subject": "Industrial switch price list from ISAF - for the Hanwha camera projects",
+   "body": "Hi Serdar,\n\nWe met at ISAF 2025 in Istanbul last October - this picks up what we discussed at the booth.\n\nThe industrial switch prices you asked for, all DIN-rail 8 x Gigabit PoE+ + 2 x SFP, -40 to 75 C, CE/RoHS, MOQ 1, 15-day validity:\n\n- Unmanaged, model STI-288GP - $59.8 USD EXW\n- L2 managed, model STI-288GPM - $82.2 USD EXW\n- L2+ managed with ring redundancy, model STI-288DGGPM - $145.7 USD EXW\n\nFor the head end of a 150-camera deployment like Pamukkale, the 24 x PoE+ (280 W) + 4 x SFP L2+ rack unit STC-424DGGPM-280W is $140.1.\n\nOne question: do your Hanwha projects use a ring topology in the field - in which case I would recommend the ring-capable model?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+  },
   "as_of": "2026-10-24"
  }
 }

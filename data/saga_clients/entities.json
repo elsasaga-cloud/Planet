@@ -288520,7 +288520,7 @@
 "next_move": {
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱 → savas@3s.com.tr（Savaş Tulgar）",
-"action": "首封：按 email_hook 一问",
+"action": "首封：按 email_hook 一问（第 74 批(r) 2026-10-25：英文信稿已写 `draft_en`，内容 = 土耳其语钩子句的英文版；土耳其语一句话仍在研究档备注里，对方若不读英文就整段单发）",
 "one_question": "Savaş Bey, ISAF'ta istediğiniz endüstriyel switch için: DIN ray 8 port gigabit + 2 SFP, PoE'li 59,8 USD / PoE'siz 48,6 USD, yönetilebilir 145,7 USD (EXW) — uygulamanızda PoE ve yönetim gerekiyor mu?"
 },
 "facts": [
@@ -288536,7 +288536,10 @@
 "proof_gaps": [
 "无邮件往来"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "Industrial switch from ISAF - PoE / non-PoE / managed, three prices",
+"body": "Hi Savaş,\n\nWe met at ISAF 2025 in Istanbul last October - this picks up what we discussed at the booth.\n\nThe industrial switch you asked for, DIN-rail 8 x Gigabit + 2 x SFP, -40 to 75 C, in three versions: with PoE+ (unmanaged) model STI-288GP - $59.8 USD EXW; without PoE, model STI-280GE - $48.6; L2+ managed with PoE+, model STI-288DGGPM - $145.7 (all MOQ 1, 15-day validity, CE/RoHS).\n\nOne question: does your application need PoE and management, or plain switching?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -290340,7 +290343,7 @@
 "next_move": {
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱 → bilgi@proves.com.tr（Serdar Karasu）",
-"action": "首封：按 email_hook 一问",
+"action": "首封：按 email_hook 一问（第 74 批(r) 2026-10-25：英文信稿已写 `draft_en`，内容 = 土耳其语钩子句的英文版；土耳其语一句话仍在研究档备注里，对方若不读英文就整段单发）",
 "one_question": "Serdar Bey, ISAF'ta istediğiniz endüstriyel switch fiyat listesi: DIN ray 8 PoE + 2 SFP yönetilemez 59,8 USD, L2 yönetilebilir 82,2 USD, L2+ 145,7 USD (EXW, 15 gün geçerli) — Hanwha kamera projelerinizde halka (ring) topolojisi kullanıyor musunuz, ERPS'li modeli mi önereyim?"
 },
 "facts": [
@@ -290356,7 +290359,10 @@
 "proof_gaps": [
 "无邮件往来"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "Industrial switch price list from ISAF - for the Hanwha camera projects",
+"body": "Hi Serdar,\n\nWe met at ISAF 2025 in Istanbul last October - this picks up what we discussed at the booth.\n\nThe industrial switch prices you asked for, all DIN-rail 8 x Gigabit PoE+ + 2 x SFP, -40 to 75 C, CE/RoHS, MOQ 1, 15-day validity:\n\n- Unmanaged, model STI-288GP - $59.8 USD EXW\n- L2 managed, model STI-288GPM - $82.2 USD EXW\n- L2+ managed with ring redundancy, model STI-288DGGPM - $145.7 USD EXW\n\nFor the head end of a 150-camera deployment like Pamukkale, the 24 x PoE+ (280 W) + 4 x SFP L2+ rack unit STC-424DGGPM-280W is $140.1.\n\nOne question: do your Hanwha projects use a ring topology in the field - in which case I would recommend the ring-capable model?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -295167,7 +295173,7 @@
 "next_move": {
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱 → hasti@fhguvenlik.com（Hasti F. Göller）",
-"action": "首封：按 email_hook 一问",
+"action": "首封：按 email_hook 一问（第 74 批(r) 2026-10-25：英文信稿已写 `draft_en`，内容 = 土耳其语钩子句的英文版；土耳其语一句话仍在研究档备注里，对方若不读英文就整段单发）",
 "one_question": "Hasti Hanım, ISAF'ta sorduğunuz endüstriyel switch: DIN ray 8 port PoE+ + 2 SFP, −40/+75 °C, EXW 59,8 USD (L2 yönetilebilir 82,2 USD) — IP kamera projelerinizde saha dolabı başına kaç kamera bağlıyorsunuz, 8 port yeterli mi?"
 },
 "facts": [
@@ -295183,7 +295189,10 @@
 "proof_gaps": [
 "无邮件往来"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "Industrial switch from ISAF - 8 PoE+ + 2 SFP for field cabinets",
+"body": "Hi Hasti,\n\nWe met at ISAF 2025 in Istanbul last October - this picks up what we discussed at the booth.\n\nThe industrial switch you asked about: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, -40 to 75 C, unmanaged, model STI-288GP - $59.8 USD EXW; the L2 managed version STI-288GPM is $82.2 (MOQ 1, 15-day validity, CE/RoHS). For the equipment room side, the 8 x PoE+ + 2 SFP L2+ rack/desktop unit STC-28DGGPM is $84.1.\n\nOne question: in your IP camera projects, how many cameras hang off one field cabinet - is 8 ports enough?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -296866,7 +296875,7 @@
 "next_move": {
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱 → m.demirel@makrosisas.com.tr（Mustafa Demirel）",
-"action": "首封：按 email_hook 一问",
+"action": "首封：按 email_hook 一问（第 74 批(r) 2026-10-25：英文信稿已写 `draft_en`，内容 = 土耳其语钩子句的英文版；土耳其语一句话仍在研究档备注里，对方若不读英文就整段单发）",
 "one_question": "Mustafa Bey, ISAF'ta konuştuğumuz 2 SFP + 8 port PoE yönetilebilir endüstriyel switch için DDP (gümrük + KDV dahil, kapıya teslim) fiyatı hazırlayabilirim; ilk proje için kaç adet ve hangi şehre teslim gerekiyor? Referans: STI-288DGGPM 137,5 USD EXW (MOQ 1, 15 gün geçerli)."
 },
 "facts": [
@@ -296882,7 +296891,10 @@
 "proof_gaps": [
 "无邮件往来"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "DDP price for the 2 SFP + 8 PoE managed industrial switch - from ISAF",
+"body": "Hi Mustafa,\n\nWe met at ISAF 2025 in Istanbul last October - this picks up what we discussed at the booth.\n\nAt the booth we quoted the 2 SFP + 10-port managed PoE industrial switch at $130 USD and the 12-fibre + 12-copper managed unit at $150 USD (both EXW); those figures stand. You asked for a delivered price with customs duty and VAT included (DDP) - I can prepare that through our forwarder once I know the quantity and the destination city.\n\nOne question: for the first project, how many units and delivery to which city?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -300763,7 +300775,7 @@
 "next_move": {
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱 → ufuk.goren@sfpturkey.com.tr（Ufuk Gören）",
-"action": "首封：按 email_hook 一问",
+"action": "首封：按 email_hook 一问（第 74 批(r) 2026-10-25：英文信稿已写 `draft_en`，内容 = 土耳其语钩子句的英文版；土耳其语一句话仍在研究档备注里，对方若不读英文就整段单发）",
 "one_question": "Ufuk Bey, hazırladığımız ürün görsellerinin devamı olarak: 2 SFP + 4 port L2 yönetilebilir endüstriyel switch geMaxx/SFPTÜRKİYE etiketiyle EXW 62,2 USD, 2 SFP + 2 port 30,1 USD — mağazanız için ilk parti kaç adet olsun?"
 },
 "facts": [
@@ -300779,7 +300791,10 @@
 "proof_gaps": [
 "无邮件往来"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "geMaxx / SFPTÜRKİYE label - 2 SFP + 4 port and 2 SFP + 2 port industrial units",
+"body": "Hi Ufuk,\n\nFollowing the product images we prepared for your site: the industrial units can carry the geMaxx / SFPTÜRKİYE label from the first lot.\n\n- 2 x SFP + 4 x Gigabit, L2 managed, DIN-rail, -40 to 75 C, model STI-240GM - $62.2 USD EXW (OEM price, MOQ 1, 15-day validity)\n- 2 x SFP + 2 x Gigabit, DIN-rail, model STI-220GE - $30.1 USD EXW\n- 4 x 10G SFP+ + 8 x Gigabit, L2+ managed, model STI-480XGGM - $163.2 USD EXW\n\nLogo on the front panel is free; colour box from 200 sets. A fibre-bypass version (8 x Gigabit + 4 x SFP) exists at $186.5 if you want it in the range.\n\nOne question: what quantity should the first lot for your store be?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -389526,7 +389541,7 @@
 "next_move": {
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱 → cumhur@aniltelekom.com（Cumhur Ölmez）",
-"action": "首封：按 email_hook 一问",
+"action": "首封：按 email_hook 一问（第 74 批(r) 2026-10-25：英文信稿已写 `draft_en`，内容 = 土耳其语钩子句的英文版；土耳其语一句话仍在研究档备注里，对方若不读英文就整段单发）",
 "one_question": "Cumhur Bey, ISAF'ta kartvizitinizi aldım; Dahua kamera satışlarınızın yanına TP-Link ile çakışmayan nötr/özel etiketli bir PoE hattı: 2 SFP + 8 port PoE 33,2 USD, 24 port 93,5 USD (EXW, distribütör fiyatı) — ilk denemede 50 adetlik parti için özel etiket ister misiniz?"
 },
 "facts": [
@@ -389542,7 +389557,10 @@
 "proof_gaps": [
 "无邮件往来"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "A neutral / private-label PoE line next to your Dahua cameras - no overlap with TP-Link",
+"body": "Hi Cumhur,\n\nWe met at ISAF 2025 in Istanbul last October - this picks up what we discussed at the booth. Thank you for your card.\n\nFor the PoE switches your dealers buy with Dahua cameras, a private-label line that does not overlap with the TP-Link range you distribute: 2 x SFP + 8 x Gigabit PoE+, unmanaged, model STC-228GP - $33.2 USD EXW; 24 x Gigabit PoE+ with uplinks, model STC-2024GP - $93.5 USD EXW (distributor prices, MOQ 1, 15-day validity, CE/RoHS). Anıl Telekom label on the unit and carton from a 50-piece lot.\n\nOne question: for a first test, would you want the 50 pieces with your label, or neutral?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
