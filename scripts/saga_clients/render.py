@@ -903,7 +903,7 @@ def email_draft(ent, g, typ, p1, tier, brands, first_q):
     name = greeting_name(ent)
     hi = f'Hi {name},' if name else 'Hello,'
     if 'ISAF2025展会' in ent['tags']:
-        opener = 'Good to meet you at ISAF 2025 in Istanbul - this follows up on what we discussed at the booth.'
+        opener = 'We met at ISAF 2025 in Istanbul last October - this picks up what we discussed at the booth, with one concrete option.'
     elif deal:
         opener = 'Thank you again for your earlier order with us - this is a short update rather than a cold mail.'
     elif ent['reply_sub']:
@@ -965,6 +965,8 @@ def email_draft(ent, g, typ, p1, tier, brands, first_q):
         hk, native = hook_lang(hk)
         if native:
             hook_note = f'客户语言一句话（研究档 email_hook；要用就整段单发，不混进英文信）：{native}'
+            if 'ISAF2025展会' in ent['tags']:
+                first_q = 'Is the requirement we talked about at ISAF still open - and which port count comes first?'
         if hk:
             opener = opener + ' ' + hk
     oem = ' under your own label with neutral packaging' if ('品牌' in typ or 'OEM' in typ or '分销' in typ or '经销' in typ) else ' with neutral packaging'

@@ -219,11 +219,11 @@ updated: 2026-10-25
 ```text
 Hi Ahmet,
 
-Good to meet you at ISAF 2025 in Istanbul - this follows up on what we discussed at the booth.
+We met at ISAF 2025 in Istanbul last October - this picks up what we discussed at the booth, with one concrete option.
 
 We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it with neutral packaging. Current price: $84.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
-One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
+One question: Is the requirement we talked about at ISAF still open - and which port count comes first?
 
 If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 

@@ -213,7 +213,7 @@ updated: 2026-10-25
 ```text
 Hi Ahmed,
 
-Good to meet you at ISAF 2025 in Istanbul - this follows up on what we discussed at the booth. From ISAF — the 8-SFP + 8-copper industrial unit you priced is $333 EXW (with 4×10G uplinks on top), and the managed 8-PoE + 2-SFP is $82; payment T/T in advance, shipment via Istanbul or Dubai. Which one is the live project?
+We met at ISAF 2025 in Istanbul last October - this picks up what we discussed at the booth, with one concrete option. From ISAF — the 8-SFP + 8-copper industrial unit you priced is $333 EXW (with 4×10G uplinks on top), and the managed 8-PoE + 2-SFP is $82; payment T/T in advance, shipment via Istanbul or Dubai. Which one is the live project?
 
 We supply a Marvell-based industrial L2+ managed switch, 8x Gigabit plus 8 SFP plus 4x 2.5G SFP uplinks - model STI-488DGGGM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $332.6 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
