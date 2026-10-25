@@ -146,7 +146,7 @@
   "next_move": {
    "when": "2027-Q1",
    "channel": "A 邮箱 → master@gtwave.co.kr（Moonsoo Park）",
-   "action": "一句话问 PoE 线外采情况（第 75 批(p) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
+   "action": "一句话问 PoE 线外采情况（第 75 批(p) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
    "one_question": "Is the GTWAVE PoE switch line bought-in today, and which model is the volume one? Reference: STI-288DGGPM at $137.5 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
@@ -218,7 +218,7 @@
   "proof_gaps": [],
   "draft_en": {
    "subject": "From Saga Telecom (we sent the catalogue in April 2025) - your iG8P-2SMB footprint",
-   "body": "Dear Mr. Park,\n\nIn April 2025 you asked who we are and for a catalogue; Alan sent both the next day and we did not hear back - the mail probably arrived without a clear sender context, so once more: Saga Telecom, Shenzhen, switches on Marvell silicon for brand owners, small lots.\n\nYour iG8P-2SMB - 8 x Gigabit PoE + 2 x SFP, ring, dual DC - maps one-to-one onto our industrial unit: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, L2+ managed with ring redundancy, dual DC input, -40 to 75 C, CE/RoHS - model STI-288DGGPM - $137.5 USD EXW in GT-Wave packing (MOQ 1, 15-day validity); the commercial 8-port class next to your GT8P - STC-28DGGPM - $87.4. KC stays on your side.\n\nOne question: is the PoE switch line bought in today, and from a Hisilicon-based source as before?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+   "body": "Dear Mr. Park,\n\nIn April 2025 you asked who we are and for a catalogue; I sent both the next day and we did not hear back - the mail probably arrived without a clear sender context, so once more: Saga Telecom, Shenzhen, switches on Marvell silicon for brand owners, small lots.\n\nYour iG8P-2SMB - 8 x Gigabit PoE + 2 x SFP, ring, dual DC - maps one-to-one onto our industrial unit: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, L2+ managed with ring redundancy, dual DC input, -40 to 75 C, CE/RoHS - model STI-288DGGPM - $137.5 USD EXW in GT-Wave packing (MOQ 1, 15-day validity); the commercial 8-port class next to your GT8P - STC-28DGGPM - $87.4. KC stays on your side.\n\nOne question: is the PoE switch line bought in today, and from a Hisilicon-based source as before?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
  }

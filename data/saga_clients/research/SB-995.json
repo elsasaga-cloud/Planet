@@ -110,7 +110,7 @@
   "next_move": {
    "when": "2027-Q1（换人后）",
    "channel": "A 邮箱 → 具名 KP",
-   "action": "换收件人再发一封（第 75 批(ai) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）",
+   "action": "换收件人再发一封（第 75 批(ai) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
    "one_question": "Alongside the Utepo UTP7204 PoE switches you install with LG and Axis cameras, we supply 4-PoE + 1 industrial and 8-PoE + 2 SFP commercial units (the latter L2+ managed on a Marvell platform) in neutral packing from small lots, EXW — which Utepo model do you use most, so we quote its equivalent? Reference: STI-154GP at $37.7 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
@@ -142,7 +142,7 @@
   "proof_gaps": [],
   "draft_en": {
    "subject": "Alongside the Utepo UTP7204 units you install with LG and Axis cameras - the equivalents",
-   "body": "Hello PC Telecom team,\n\nOver the past months you had a steady stream of product mails from us - most recently \"Managed PoE Switches\" on 28 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nAlongside the Utepo UTP7204E-POE / UTP7204GE units you install with LG and Axis cameras, neutral packing, at distributor price, EXW, MOQ 1, 15-day validity, CE/RoHS: industrial 4 x Gigabit PoE+ + 1 x Gigabit + 1 x SFP, unmanaged, -40 to 75 C - model STI-154GP - $37.7 USD; commercial 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based - STC-28DGGPM - $80.7. The UTP7624GS-L3 position (24-port L3) we do not quote - said up front.\n\nOne question: which Utepo model do you use most, so I quote its exact equivalent?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+   "body": "Hello PC Telecom team,\n\nOver the past months you had a steady stream of product mails from us - most recently \"Managed PoE Switches\" on 28 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nAlongside the Utepo UTP7204E-POE / UTP7204GE units you install with LG and Axis cameras, neutral packing, at distributor price, EXW, MOQ 1, 15-day validity, CE/RoHS: industrial 4 x Gigabit PoE+ + 1 x Gigabit + 1 x SFP, unmanaged, -40 to 75 C - model STI-154GP - $37.7 USD; commercial 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based - STC-28DGGPM - $80.7. The UTP7624GS-L3 position (24-port L3) we do not quote - said up front.\n\nOne question: which Utepo model do you use most, so I quote its exact equivalent?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
  }

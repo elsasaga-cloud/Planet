@@ -189,16 +189,16 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-24T07:26:33Z　|　**最近变化**：2026-10-24T07:26:33Z
-- **最近变化摘要**：2026-10-24 news_1：内容变化：+4 −4 行
+- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-25T07:41:18Z
+- **最近变化摘要**：2026-10-25 news_2：内容变化：+15 −15 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-145/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://neowine.com/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 1926 字符；首行：neowine |
-| [sitemap](https://neowine.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-24T07:26:33Z | 86 个 URL；最新 lastmod 2026-09-18 |
-| [news_1](https://neowine.com/bbs/board.php?bo_table=notice) | html | HTTP 200 | 2026-10-24T07:26:33Z | 1465 字符；首行：NOTICE 1 페이지 \| neowine |
-| [news_2](https://neowine.com/bbs/board.php?bo_table=neowine) | html | HTTP 200 | 2026-10-24T04:35:40Z | 1599 字符；首行：Press 1 페이지 \| neowine |
+| [sitemap](https://neowine.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-25T07:41:18Z | 86 个 URL；最新 lastmod 2026-09-18 |
+| [news_1](https://neowine.com/bbs/board.php?bo_table=notice) | html | HTTP 200 | 2026-10-25T07:41:18Z | 1465 字符；首行：NOTICE 1 페이지 \| neowine |
+| [news_2](https://neowine.com/bbs/board.php?bo_table=neowine) | html | HTTP 200 | 2026-10-25T07:41:18Z | 1599 字符；首行：Press 1 페이지 \| neowine |
 
 ## 联系方式（已有 · 原值照录）
 

@@ -133,9 +133,9 @@
    "gaps": []
   },
   "next_move": {
-   "when": "2026-11（一封具体答复，距 02-05 链接包已 9 个月）",
+   "when": "不动（Q-33 渠道客户：PLANET/UniFi 在售 → 不主动跟；备稿留用，Simon 点头或对方再来信才发）（全量审计 2026-10-25 U57）",
    "channel": "A 邮箱 → support@mcss.co.kr（노현진 Eugene；回到 Re: Fw: OEM Core Switching Solution 串）",
-   "action": "一段话答贴牌规则 + 三款价 + 一问（㉙）",
+   "action": "【原计划 2026-11 一封具体答复，与绑定行「revive 不动（Q-33）」矛盾，按 Q-33 默认改为不动】一段话答贴牌规则 + 三款价 + 一问（㉙）",
    "one_question": "Eugene — answering your January question properly this time: white-label is available on every switch we ship — your logo, model name, MAC range, login IP and SNMP OID at no charge, from 1 unit; front-panel PVC overlay is tooled per batch (MOQ 300); colour box $2.5/set from 200. Reference prices (USD EXW, 15-day validity): 8-PoE + 2 SFP L2+ managed STC-28DGGPM $87.4, 24-PoE + 4×10G L2+ STC-424XGGPM-280W $180 (August mail said $170; that round closed in September), DIN-rail 8-PoE + 2 SFP managed STI-288GPM $85.5. KC certification stays on your side. Which model would you white-label first?"
   },
   "facts": [
@@ -175,7 +175,7 @@
   "proof_gaps": [],
   "draft_en": {
    "subject": "Re: Fw: OEM Core Switching Solution — white-label terms and three prices",
-   "body": "Hi Eugene,\n\nIn January you asked which of our products support OEM / white-label and how it works; my February reply only gave links, so here is the actual answer.\n\n- White-label is available on every switch we ship: your logo, model name, MAC range, login IP and SNMP OID, at no charge, from 1 unit.\n- Front-panel PVC overlay is tooled per batch (MOQ 300); a colour box with your artwork is $2.5/set from 200 sets.\n- KC certification stays on your side; we supply CE / FCC / RoHS files and test reports.\n\nReference prices (USD EXW, 15-day validity, MOQ 1):\n- STC-28DGGPM — 8 × PoE+ + 2 × 1G/2.5G SFP, L2+ managed (Marvell AC5): $87.4\n- STC-424XGGPM-280W — 24 × PoE+ + 4 × 10G SFP+, L2+ managed, 280 W: $180 (our August mail said $170 — that round closed in September)\n- STI-288GPM — DIN-rail 8 × PoE + 2 × SFP, managed, −40~75 °C: $85.5\n\nOne question: which model would you white-label first, and for which customer type (SI projects or your online shop)?\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+   "body": "Hi Eugene,\n\nIn January you asked which of our products support OEM / white-label and how it works; my February reply only gave links, so here is the actual answer.\n\n- White-label is available on every switch we ship: your logo, model name, MAC range, login IP and SNMP OID, at no charge, from 1 unit.\n- Front-panel PVC overlay is tooled per batch (MOQ 300); a colour box with your artwork is $2.5/set from 200 sets.\n- KC certification stays on your side; we supply CE / FCC / RoHS files and test reports.\n\nReference prices (USD EXW, 15-day validity, MOQ 1):\n- STC-28DGGPM — 8 × PoE+ + 2 × 1G/2.5G SFP, L2+ managed (Marvell AC5): $87.4\n- STC-424XGGPM-280W — 24 × PoE+ + 4 × 10G SFP+, L2+ managed, 280 W: $180 (our August mail said $170 — that round closed in September)\n- STI-288GPM — DIN-rail 8 × PoE + 2 × SFP, managed, −40~75 °C: $85.5\n\nOne question: which model would you white-label first, and for which customer type (SI projects or your online shop)?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
  }

@@ -38,7 +38,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STI-054GP（4 × GE PoE + 1 × GE DIN） — 其工业以太类目靠 PLANET ISW-504PS（€178.50 净价，4×FE PoE）→ 同槽位千兆第二来源，中性包装 EXW；锚价：STI-054GP $32.5（最近实报）（第 72 批 2026-10-24）；—；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-31；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：Your Industrial Ethernet category runs on PLANET DIN-rail units (ISW-504PS at €178.50 net) — a neutral-packed STI line at EXW (managed versions on a Marvell platform) gives the same slot a second source with margin you set yourself. For the 4-port PoE DIN-rail class (ISW-504PS), do your Systemhaus customers mostly need Fast Ethernet, or has demand moved to Gigabit PoE — so I send the right sample first? Reference: STI-054GP (4 × GE PoE + 1 × GE, DIN-rail) at $32.5 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问） A 邮箱 → volker.pompetzki@ute.de 一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(al) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；STI-054FP 价未列，写 on request；Elsa BCC 08-31 已触达，开头点明）（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）
+- **下一步**：2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问） A 邮箱 → volker.pompetzki@ute.de 一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(al) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；STI-054FP 价未列，写 on request；Elsa BCC 08-31 已触达，开头点明）（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-25）
 
@@ -49,7 +49,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：PLANET ISW-504PS 槽位的 4 口 PoE DIN 第二来源
 - **断点 / 为什么停在这里**：—
 - **Saga 现在该推什么**：P1 **STI-054GP（4 × GE PoE + 1 × GE DIN）**（25% 档，锚价：STI-054GP $32.5（最近实报）（第 72 批 2026-10-24）；—；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-31；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170））——其工业以太类目靠 PLANET ISW-504PS（€178.50 净价，4×FE PoE）→ 同槽位千兆第二来源，中性包装 EXW
-- **下一步（具体）**：2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）　A 邮箱 → volker.pompetzki@ute.de　一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(al) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；STI-054FP 价未列，写 on request；Elsa BCC 08-31 已触达，开头点明）（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）
+- **下一步（具体）**：2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）　A 邮箱 → volker.pompetzki@ute.de　一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(al) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；STI-054FP 价未列，写 on request；Elsa BCC 08-31 已触达，开头点明）（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
   - 第一问（只问一个）：Your Industrial Ethernet category runs on PLANET DIN-rail units (ISW-504PS at €178.50 net) — a neutral-packed STI line at EXW (managed versions on a Marvell platform) gives the same slot a second source with margin you set yourself. For the 4-port PoE DIN-rail class (ISW-504PS), do your Systemhaus customers mostly need Fast Ethernet, or has demand moved to Gigabit PoE — so I send the right sample first? Reference: STI-054GP (4 × GE PoE + 1 × GE, DIN-rail) at $32.5 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -162,14 +162,14 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：A 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-24T07:26:33Z　|　**最近变化**：2026-10-24T07:26:33Z
-- **最近变化摘要**：2026-10-24 sitemap：新增 820 条： 16-port-dvi-video-splitter-vopex-dvis-16-von-nti.html； 16-port-kvm-over-ip-switc
+- **监控层**：A 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-25T07:41:18Z
+- **最近变化摘要**：2026-10-25 sitemap：新增 820 条： 16-port-dvi-video-splitter-vopex-dvis-16-von-nti.html； 16-port-kvm-over-ip-switc
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1262/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://www.ute.de/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 7514 字符；首行：U.T.E. electronic \| Pro AV- & IT-Großhandel – seit 1989 |
-| [sitemap](https://www.ute.de/sitemap.xml) | sitemap | HTTP 200 | 2026-10-24T07:26:33Z | 900 个 URL；最新 lastmod - |
+| [sitemap](https://www.ute.de/sitemap.xml) | sitemap | HTTP 200 | 2026-10-25T07:41:18Z | 900 个 URL；最新 lastmod - |
 | [feed_auto](https://www.ute.de/?format=feed&type=rss) | rss | HTTP 200 | 2026-10-23T04:20:51Z | 3 条；最新：Sat, 18 Apr 2026 10:00:00 Automatischer Transferschalter für redundante Stromversor |
 
 ## 联系方式（已有 · 原值照录）
@@ -265,7 +265,7 @@ Your Industrial Ethernet category runs on PLANET DIN-rail units; the ISW-504PS s
 One question: for the 4-port PoE DIN-rail class, do your Systemhaus customers still ask for Fast Ethernet, or has demand moved to Gigabit - so I send the right sample first?
 
 Best regards,
-Simon
+Alan
 Saga Telecom - sagatele.com
 ```
 

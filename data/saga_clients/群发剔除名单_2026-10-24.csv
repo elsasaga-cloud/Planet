@@ -1,7 +1,7 @@
-地址,类别,客户编号,级,国,日期,原因/服务器应答,证据,之后又发了几封,最后一次
+﻿地址,类别,客户编号,级,国,日期,原因/服务器应答,证据,之后又发了几封,最后一次
 inquiry@th-it.com,明确拒绝/要求移除,SB-325,B,MY,2024-07-29,"明确不要（「sorry, no need」；2026-09 Elsa 箱再拒一次）",gmail_s 79b10682153051b0,6,2025-01-06
 2440420@mail.ru,明确拒绝/要求移除,SB-798,C,RU,2025-03-01,明确不要（「we do not need your switches. The ones we sell here are enough」）,gmail_a 016101d7462d6a47,4,2026-09-07
-dean.stephens@altronics.com.au,明确拒绝/要求移除,SB-1057,B,AU,2026-04-20,"暂不（「Thank you, not at this time」→ 2027 再看）",gmail_a f6879c7d612d62b5,4,2026-09-21
+dean.stephens@altronics.com.au,婉拒（㉘ 剔出群发）,SB-1057,B,AU,2026-04-20,"暂不（「Thank you, not at this time」→ 2027 再看）",gmail_a f6879c7d612d62b5,4,2026-09-21
 cbissell@poetexas.com,明确拒绝/要求移除,SC-2027,C,US,2024-05-07,明确不要（「We already make this kind of switch… We are not interested」）,gmail_s 7488714b4a6175fc,2,2025-04-02
 archieliu@icintracom.com,明确拒绝/要求移除,SC-001,C,CN,2024-10-11,明确不要（IC Intracom 采购经理「our team is not interested」——Intellinet/Manhattan 品牌母公司）,gmail_s eefa25971a8373f7,2,2026-09-08
 graybarsupport@graybar.com,明确拒绝/要求移除,SC-2220,C,CA,2024-06-17,要求移除（「Please remove this email from your list」）,gmail_s 609a021df98a4191,0,

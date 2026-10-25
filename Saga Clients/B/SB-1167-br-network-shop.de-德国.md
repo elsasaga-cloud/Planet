@@ -37,7 +37,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STI-288GP — 工业 2 光 8 PoE → STI-288GP（$57.4 @20%）；MC STI-110GE。；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-31；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：Guten Tag — for the Industrial-Switch and MC categories in your shop: DIN 2-SFP + 8-PoE at $57 and gigabit MC at $22 EXW (CE/RoHS); who is the buyer for active components?
 - **最大未知**：年走量与现供应商
-- **下一步**：待 Simon 排期（首封） A 邮箱 → info@br-network.de（无具名 KP；公用地址） 首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-31「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 75 批(e) 2026-10-25：英文信稿已写 `draft_en`；钩子里 MC $22 改最近实报 $26.5）
+- **下一步**：待 Simon 排期（首封） A 邮箱 → info@br-network.de（无具名 KP；公用地址） 首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-31「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 75 批(e) 2026-10-25：英文信稿已写 `draft_en`；钩子里 MC $22 改最近实报 $26.5）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-25）
 
@@ -48,7 +48,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：工业 2 光 8 PoE → STI-288GP（$57.4 @20%）；MC STI-110GE。
 - **断点 / 为什么停在这里**：无具名
 - **Saga 现在该推什么**：P1 **STI-288GP**（20% 档，按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-31；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170））——工业 2 光 8 PoE → STI-288GP（$57.4 @20%）；MC STI-110GE。
-- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → info@br-network.de（无具名 KP；公用地址）　首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-31「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 75 批(e) 2026-10-25：英文信稿已写 `draft_en`；钩子里 MC $22 改最近实报 $26.5）
+- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → info@br-network.de（无具名 KP；公用地址）　首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-31「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 75 批(e) 2026-10-25：英文信稿已写 `draft_en`；钩子里 MC $22 改最近实报 $26.5）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
   - 第一问（只问一个）：Guten Tag — for the Industrial-Switch and MC categories in your shop: DIN 2-SFP + 8-PoE at $57 and gigabit MC at $22 EXW (CE/RoHS); who is the buyer for active components?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -129,13 +129,13 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-24T07:26:33Z　|　**最近变化**：2026-10-24T07:26:33Z
-- **最近变化摘要**：2026-10-24 home：内容变化：+490 −211 行
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-25T07:41:18Z
+- **最近变化摘要**：2026-10-25 home：内容变化：+459 −180 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1167/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://www.br-network-shop.de/) | html | HTTP 200 | 2026-10-24T07:26:33Z | 17509 字符；首行：BR Network Solutions GmbH |
+| [home](https://www.br-network-shop.de/) | html | HTTP 200 | 2026-10-25T07:41:18Z | 17509 字符；首行：BR Network Solutions GmbH |
 
 ## 联系方式（已有 · 原值照录）
 
@@ -226,7 +226,7 @@ For the Industrial-Switch and media-converter categories in your shop, neutral b
 One question: who is the buyer for active components at BR Network, so I send the specs to the right person?
 
 Best regards,
-Simon
+Alan
 Saga Telecom - sagatele.com
 ```
 

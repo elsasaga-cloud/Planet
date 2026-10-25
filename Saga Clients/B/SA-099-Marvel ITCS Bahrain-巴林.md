@@ -158,15 +158,15 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-24T07:26:33Z　|　**最近变化**：2026-10-23T04:20:51Z
-- **最近变化摘要**：2026-10-23 首轮基线
+- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-25T07:41:18Z
+- **最近变化摘要**：2026-10-25 news_1：内容变化：+28 −0 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-099/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://marvelitcs.com/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 6331 字符；首行：Marvel IT Solutions: Managed IT Services in Bahrain |
 | [sitemap](https://marvelitcs.com/sitemap_index.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 0 个 URL；最新 lastmod - |
-| [news_1](https://marvelitcs.com/projects-completed/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 3979 字符；首行：Projects Completed - MARVEL \| Best IT & Web Solutions in Bahrain |
+| [news_1](https://marvelitcs.com/projects-completed/) | html | HTTP 200 | 2026-10-25T07:41:18Z | 5631 字符；首行：Projects Completed - MARVEL \| Best IT & Web Solutions in Bahrain |
 
 - **人工定期看（登录墙，不自动抓）**：LinkedIn: http://linkedin.com/company/marvel-it-business-consultants；Facebook: https://www.facebook.com/Marvel.Business.Consultants；Instagram: https://www.instagram.com/marvelitbusinessconsultants；Facebook: https://www.facebook.com/Marvel.IT.Business.Consultant
 

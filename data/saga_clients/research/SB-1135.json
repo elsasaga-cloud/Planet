@@ -73,7 +73,7 @@
     "next_move": {
       "when": "待 Simon 排期（首封）",
       "channel": "A 邮箱 → 待找地址（自建站询盘人 Julien Desbrosses，库内无邮箱——先在网站询盘后台 / S 邮箱通知里找）",
-      "action": "首封：按 email_hook 一问（第 75 批(i) 2026-10-25：英文信稿已写 `draft_en`；桌面 5 口按洪瑞 2026-09-30 进价 +25% = $6.2（旧 $6.1）；无邮箱——WhatsApp 发同一段）",
+      "action": "首封：按 email_hook 一问（第 75 批(i) 2026-10-25：英文信稿已写 `draft_en`；桌面 5 口按洪瑞 2026-09-30 进价 +25% = $6.2（旧 $6.1）；无邮箱——WhatsApp 发同一段）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
       "one_question": "For the 5-port copper switch you asked about on our site: desktop gigabit is $6.1 EXW, DIN-rail industrial (12–58 V DC, −40 to +75 °C) $25.0 — indoor desk or inside a cabinet?"
     },
     "facts": [
@@ -92,7 +92,7 @@
     ],
     "draft_en": {
       "subject": "The 5-port copper switch you asked about - desk or cabinet",
-      "body": "Hi Julien,\n\nYou asked on our site about a 5-port copper switch; two options depending on where it goes:\n\n- indoor desk or shelf: 5 x Gigabit desktop switch, metal case - model STC-05GE - $6.2 USD EXW (MOQ 1, 15-day validity)\n- inside a cabinet or outdoor enclosure: DIN-rail industrial 5 x Gigabit, 12-58 V DC, -40 to 75 C - STI-050GE - $25.0\n\nBoth CE/RoHS; shipping to France is quoted on top once I know the quantity.\n\nOne question: is it going on a desk or inside a cabinet?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+      "body": "Hi Julien,\n\nYou asked on our site about a 5-port copper switch; two options depending on where it goes:\n\n- indoor desk or shelf: 5 x Gigabit desktop switch, metal case - model STC-05GE - $6.2 USD EXW (MOQ 1, 15-day validity)\n- inside a cabinet or outdoor enclosure: DIN-rail industrial 5 x Gigabit, 12-58 V DC, -40 to 75 C - STI-050GE - $25.0\n\nBoth CE/RoHS; shipping to France is quoted on top once I know the quantity.\n\nOne question: is it going on a desk or inside a cabinet?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
     },
     "as_of": "2026-10-24"
   }

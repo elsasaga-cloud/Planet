@@ -35,7 +35,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — Switch → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 GE + 4×10G STC-424XGGM（$127.4）；首触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：For the switches you supply, we offer neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and 24-GE + 4×10G models from small lots, CE/RoHS; EAC by your side — which port count do your customers order most? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；官网当前状态异常（超时（站慢或封锁））——公司是否仍在运营待核
-- **下一步**：待 Simon 排期（首封） A 邮箱 → info@vilcom.ru（无具名 KP；公用地址） 首封：按 email_hook 一问（第 75 批(l) 2026-10-25：英文信稿已写 `draft_en`）
+- **下一步**：待 Simon 排期（首封） A 邮箱 → info@vilcom.ru（无具名 KP；公用地址） 首封：按 email_hook 一问（第 75 批(l) 2026-10-25：英文信稿已写 `draft_en`）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -46,7 +46,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：Switch → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 GE + 4×10G STC-424XGGM（$127.4）
 - **断点 / 为什么停在这里**：业务范围待核（官网 timeout）；俄罗斯：结算/物流/合规风险；未跟进过，仅 info@
 - **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，首触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit））——Switch → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 GE + 4×10G STC-424XGGM（$127.4）
-- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → info@vilcom.ru（无具名 KP；公用地址）　首封：按 email_hook 一问（第 75 批(l) 2026-10-25：英文信稿已写 `draft_en`）
+- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → info@vilcom.ru（无具名 KP；公用地址）　首封：按 email_hook 一问（第 75 批(l) 2026-10-25：英文信稿已写 `draft_en`）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
   - 第一问（只问一个）：For the switches you supply, we offer neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and 24-GE + 4×10G models from small lots, CE/RoHS; EAC by your side — which port count do your customers order most? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -118,12 +118,12 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-24T07:26:33Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-25T07:41:18Z
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1008/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://vilcom.ru/) | html | SSLError: HTTPSConnectionPool(host='vilcom.ru', port=443): M | - | 官网首页（T27 快照状态 timeout） |
+| [home](https://vilcom.ru/) | html | ConnectTimeout: HTTPSConnectionPool(host='vilcom.ru', port=4 | - | 官网首页（T27 快照状态 timeout） |
 
 ## 联系方式（已有 · 原值照录）
 
@@ -211,7 +211,7 @@ For the switches you supply, two neutral-brand units from small lots: 8 x Gigabi
 One question: which port count do your customers order most - 8 or 24?
 
 Best regards,
-Simon
+Alan
 Saga Telecom - sagatele.com
 ```
 

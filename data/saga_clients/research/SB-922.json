@@ -97,7 +97,7 @@
   "next_move": {
    "when": "待 Simon 排期（首封）",
    "channel": "A 邮箱 → info@t-automation.by（无具名 KP；公用地址）",
-   "action": "首封：按 email_hook 一问（第 75 批(l) 2026-10-25：英文信稿已写 `draft_en`）（第 76 批(c) 2026-10-25：0 事实户补时间线事实）",
+   "action": "首封：按 email_hook 一问（第 75 批(l) 2026-10-25：英文信稿已写 `draft_en`）（第 76 批(c) 2026-10-25：0 事实户补时间线事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
    "one_question": "Alongside the Advantech EKI industrial switches in your catalogue, we supply DIN-rail 8-PoE + 2 SFP managed (Marvell L2+) and unmanaged units (−40~75 °C, neutral packing, CE/RoHS) from small lots, EXW — which EKI model do your automation customers order most, so we quote its equivalent? Reference: STI-288GPM at $78.9 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
@@ -115,7 +115,7 @@
   ],
   "draft_en": {
    "subject": "A value tier beside the Advantech EKI switches in your catalogue",
-   "body": "Hello,\n\nAlongside the Advantech EKI industrial switches in your catalogue, a value tier in the same DIN-rail format, -40 to 75 C, neutral packing, CE/RoHS, from small lots: 8 x Gigabit PoE+ + 2 x SFP, L2 managed (VLAN, QoS, IGMP), Marvell-based - model STI-288GPM - $78.9 USD EXW at distributor price (MOQ 1, 15-day validity); the unmanaged version - STI-288GP - $57.4. EAC stays on your side; rail-certified (EN 50155) lines we do not offer.\n\nOne question: which EKI model do your automation customers order most, so we quote its equivalent?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+   "body": "Hello,\n\nAlongside the Advantech EKI industrial switches in your catalogue, a value tier in the same DIN-rail format, -40 to 75 C, neutral packing, CE/RoHS, from small lots: 8 x Gigabit PoE+ + 2 x SFP, L2 managed (VLAN, QoS, IGMP), Marvell-based - model STI-288GPM - $78.9 USD EXW at distributor price (MOQ 1, 15-day validity); the unmanaged version - STI-288GP - $57.4. EAC stays on your side; rail-certified (EN 50155) lines we do not offer.\n\nOne question: which EKI model do your automation customers order most, so we quote its equivalent?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
  }

@@ -112,7 +112,7 @@
   "next_move": {
    "when": "待 Simon 排期（首封）",
    "channel": "A 邮箱 → ufuk.goren@sfpturkey.com.tr（Ufuk Gören）",
-   "action": "首封：按 email_hook 一问（第 74 批(r) 2026-10-25：英文信稿已写 `draft_en`，内容 = 土耳其语钩子句的英文版；土耳其语一句话仍在研究档备注里，对方若不读英文就整段单发）",
+   "action": "首封：按 email_hook 一问（第 74 批(r) 2026-10-25：英文信稿已写 `draft_en`，内容 = 土耳其语钩子句的英文版；土耳其语一句话仍在研究档备注里，对方若不读英文就整段单发）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
    "one_question": "Ufuk Bey, hazırladığımız ürün görsellerinin devamı olarak: 2 SFP + 4 port L2 yönetilebilir endüstriyel switch geMaxx/SFPTÜRKİYE etiketiyle EXW 62,2 USD, 2 SFP + 2 port 30,1 USD — mağazanız için ilk parti kaç adet olsun?"
   },
   "facts": [
@@ -130,7 +130,7 @@
   ],
   "draft_en": {
    "subject": "geMaxx / SFPTÜRKİYE label - 2 SFP + 4 port and 2 SFP + 2 port industrial units",
-   "body": "Hi Ufuk,\n\nFollowing the product images we prepared for your site: the industrial units can carry the geMaxx / SFPTÜRKİYE label from the first lot.\n\n- 2 x SFP + 4 x Gigabit, L2 managed, DIN-rail, -40 to 75 C, model STI-240GM - $62.2 USD EXW (OEM price, MOQ 1, 15-day validity)\n- 2 x SFP + 2 x Gigabit, DIN-rail, model STI-220GE - $30.1 USD EXW\n- 4 x 10G SFP+ + 8 x Gigabit, L2+ managed, model STI-480XGGM - $163.2 USD EXW\n\nLogo on the front panel is free; colour box from 200 sets. A fibre-bypass version (8 x Gigabit + 4 x SFP) exists at $186.5 if you want it in the range.\n\nOne question: what quantity should the first lot for your store be?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+   "body": "Hi Ufuk,\n\nFollowing the product images we prepared for your site: the industrial units can carry the geMaxx / SFPTÜRKİYE label from the first lot.\n\n- 2 x SFP + 4 x Gigabit, L2 managed, DIN-rail, -40 to 75 C, model STI-240GM - $62.2 USD EXW (OEM price, MOQ 1, 15-day validity)\n- 2 x SFP + 2 x Gigabit, DIN-rail, model STI-220GE - $30.1 USD EXW\n- 4 x 10G SFP+ + 8 x Gigabit, L2+ managed, model STI-480XGGM - $163.2 USD EXW\n\nLogo on the front panel is free; colour box from 200 sets. A fibre-bypass version (8 x Gigabit + 4 x SFP) exists at $186.5 if you want it in the range.\n\nOne question: what quantity should the first lot for your store be?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
  }

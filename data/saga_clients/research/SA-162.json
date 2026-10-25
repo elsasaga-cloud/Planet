@@ -107,7 +107,7 @@
   "next_move": {
    "when": "待 Simon 排期（首封）",
    "channel": "A 邮箱 → acan@cansisteknoloji.com（Ahmet Can）",
-   "action": "首封：按 email_hook 一问（第 74 批(r) 2026-10-25：英文信稿已写 `draft_en`，内容 = 土耳其语钩子句的英文版；土耳其语一句话仍在研究档备注里，对方若不读英文就整段单发）（第 76 批(c) 2026-10-25：0 事实户补时间线事实）",
+   "action": "首封：按 email_hook 一问（第 74 批(r) 2026-10-25：英文信稿已写 `draft_en`，内容 = 土耳其语钩子句的英文版；土耳其语一句话仍在研究档备注里，对方若不读英文就整段单发）（第 76 批(c) 2026-10-25：0 事实户补时间线事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
    "one_question": "Ahmet Bey, ISAF'ta sorduğunuz 12 fiber + 12 bakır PoE yönetilebilir switch için $150 teklifimiz geçerli; proje başladı mı, kaç adet gerekiyor?"
   },
   "facts": [
@@ -126,7 +126,7 @@
   ],
   "draft_en": {
    "subject": "Your 12-fibre + 12-copper managed PoE switch - the $150 quote from ISAF still stands",
-   "body": "Hi Ahmet,\n\nWe met at ISAF 2025 in Istanbul last October - this picks up what we discussed at the booth.\n\nYou asked about a managed PoE switch with 12 fibre + 12 copper ports and we quoted $150 USD EXW at the booth - that price still stands (MOQ 1; CE/RoHS; neutral packaging or your label). For the everyday camera jobs around Çumra, the 8 x Gigabit PoE+ + 2 SFP L2+ managed unit is $84.1 USD EXW.\n\nOne question: has the project started - and how many units does it need?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+   "body": "Hi Ahmet,\n\nWe met at ISAF 2025 in Istanbul last October - this picks up what we discussed at the booth.\n\nYou asked about a managed PoE switch with 12 fibre + 12 copper ports and we quoted $150 USD EXW at the booth - that price still stands (MOQ 1; CE/RoHS; neutral packaging or your label). For the everyday camera jobs around Çumra, the 8 x Gigabit PoE+ + 2 SFP L2+ managed unit is $84.1 USD EXW.\n\nOne question: has the project started - and how many units does it need?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
  }

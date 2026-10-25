@@ -38,7 +38,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-054GP — OEM/配套 30% 档：STI-054GP（DIN 4 GE PoE + 1 GE，DC 44–57 V，−40~+75 ℃，$33.8）为车载摄像/AP 供电；非 PoE 迷你 STI-050GE（DC 12–36 V，$18.5）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-06-09 $300（48 Port PoE Managed Switch）、2025-09-05 $240（24 Port Fiber Switch）、2025-09-30 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Bill, picking up your technical questions: for onboard camera + WiFi kits we supply a DIN 4-port gigabit PoE switch (44–57 V DC, −40 to +75 °C, FCC) at $33.8 EXW with the Saucon label; what is the PoE budget per vehicle you design to?
 - **最大未知**：年走量与现供应商
-- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 首封前知悉：Elsa 仅 2025-02-25 单发过 1 封「90W PoE Managed Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(u) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用）；车载无 E-mark 已明说；24 V 母线需 DC-DC）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 首封前知悉：Elsa 仅 2025-02-25 单发过 1 封「90W PoE Managed Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(u) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用）；车载无 E-mark 已明说；24 V 母线需 DC-DC）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -49,7 +49,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：OEM/配套 30% 档：STI-054GP（DIN 4 GE PoE + 1 GE，DC 44–57 V，−40~+75 ℃，$33.8）为车载摄像/AP 供电；非 PoE 迷你 STI-050GE（DC 12–36 V，$18.5）
 - **断点 / 为什么停在这里**：公共交通客户（巴士运营/市政）→ 按个案守界；美国车载需 FCC + 振动证明；9 次跟进 0 回复
 - **Saga 现在该推什么**：P1 **STI-054GP**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-06-09 $300（48 Port PoE Managed Switch）、2025-09-05 $240（24 Port Fiber Switch）、2025-09-30 $280（10G Enterprise SFP Switch））——OEM/配套 30% 档：STI-054GP（DIN 4 GE PoE + 1 GE，DC 44–57 V，−40~+75 ℃，$33.8）为车载摄像/AP 供电；非 PoE 迷你 STI-050GE（DC 12–36 V，$18.5）
-- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　首封前知悉：Elsa 仅 2025-02-25 单发过 1 封「90W PoE Managed Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(u) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用）；车载无 E-mark 已明说；24 V 母线需 DC-DC）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　首封前知悉：Elsa 仅 2025-02-25 单发过 1 封「90W PoE Managed Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(u) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用）；车载无 E-mark 已明说；24 V 母线需 DC-DC）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
   - 第一问（只问一个）：Bill, picking up your technical questions: for onboard camera + WiFi kits we supply a DIN 4-port gigabit PoE switch (44–57 V DC, −40 to +75 °C, FCC) at $33.8 EXW with the Saucon label; what is the PoE budget per vehicle you design to?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -181,7 +181,7 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-24T07:26:33Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-411/`；本节随档案重渲染刷新，实时看日志。
 
@@ -286,7 +286,7 @@ Picking up the technical questions you asked us at the show, for the onboard cam
 One question: what PoE budget per vehicle do you design to - cameras plus the AP?
 
 Best regards,
-Simon
+Alan
 Saga Telecom - sagatele.com
 ```
 

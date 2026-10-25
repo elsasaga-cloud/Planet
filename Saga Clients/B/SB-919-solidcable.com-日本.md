@@ -36,7 +36,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STI-110GE — MC（现 ONV）→ 工业千兆 MC STI-110GE（$22.4 @20%）、百兆 STI-110FE（$19.7）；桌面 MC 以 HRUI 列表价（注明）。已打开的主题（1/21 封有打开记录）：「Firmware 7.5 L2+ Feature Update」(2026-07-08) → 读者兴趣偏「固件/功能」；当前 P1 属「10G 汇聚/L3」，下一封按「固件/功能」给，不按 P1；换人再触锚价 STI-110GE $26.5 EXW（最近实报 SA-001 2025-11-27 $26.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-12-31 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-07 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-08 $280（10G Enterprise SFP Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-09-07 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-07；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：For the media converters you list alongside LAN cabling, we supply neutral-brand gigabit and Fast Ethernet MCs (industrial and desktop) from single units, CE/RoHS, EXW USD — which MC configuration do your installer customers buy most? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
-- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封（第 75 批(ai) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；PSE 只写 Mean Well 适配器）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封（第 75 批(ai) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；PSE 只写 Mean Well 适配器）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-25）
 
@@ -47,7 +47,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：MC（现 ONV）→ 工业千兆 MC STI-110GE（$22.4 @20%）、百兆 STI-110FE（$19.7）；桌面 MC 以 HRUI 列表价（注明）
 - **断点 / 为什么停在这里**：非主攻区（T5，日本；PSE/VCCI 由客户侧）；现供 ONV 价格基准低；有源产品少；2 次无回复，仅 support@
 - **Saga 现在该推什么**：P1 **STI-110GE**（20% 档，换人再触锚价 STI-110GE $26.5 EXW（最近实报 SA-001 2025-11-27 $26.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-12-31 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-07 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-08 $280（10G Enterprise SFP Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-09-07 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-07；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170））——MC（现 ONV）→ 工业千兆 MC STI-110GE（$22.4 @20%）、百兆 STI-110FE（$19.7）；桌面 MC 以 HRUI 列表价（注明）。已打开的主题（1/21 封有打开记录）：「Firmware 7.5 L2+ Feature Update」(2026-07-08) → 读者兴趣偏「固件/功能」；当前 P1 属「10G 汇聚/L3」，下一封按「固件/功能」给，不按 P1
-- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封（第 75 批(ai) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；PSE 只写 Mean Well 适配器）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封（第 75 批(ai) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；PSE 只写 Mean Well 适配器）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
   - 第一问（只问一个）：For the media converters you list alongside LAN cabling, we supply neutral-brand gigabit and Fast Ethernet MCs (industrial and desktop) from single units, CE/RoHS, EXW USD — which MC configuration do your installer customers buy most? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -171,14 +171,14 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-24T07:26:33Z　|　**最近变化**：2026-10-24T07:26:33Z
-- **最近变化摘要**：2026-10-24 sitemap：新增 716 条： Types.aspx?shelfBoardNo=2005； Types.aspx?shelfBoardNo=2006； Types.aspx?shelfBoar
+- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-25T07:41:18Z
+- **最近变化摘要**：2026-10-25 sitemap：新增 716 条： Types.aspx?shelfBoardNo=2005； Types.aspx?shelfBoardNo=2006； Types.aspx?shelfBoar
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-919/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://solidcable.com/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 6132 字符；首行：ソリッドケーブル \| LAN・ケーブル通販サイトの先駆者 \| 【最短即日発送】放送・通信工事材料の卸 |
-| [sitemap](https://solidcable.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-24T07:26:33Z | 796 个 URL；最新 lastmod 2025-05-27 |
+| [sitemap](https://solidcable.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-25T07:41:18Z | 796 个 URL；最新 lastmod 2025-05-27 |
 | [news_1](https://solidcable.com/support/news.html) | html | HTTP 200 | 2026-10-23T04:20:51Z | 3444 字符；首行：お知らせ一覧 \| ソリッドケーブル \| LAN・ケーブル通販サイトの先駆者 |
 
 ## 联系方式（已有 · 原值照录）
@@ -271,7 +271,7 @@ For the media converters you list alongside LAN cabling (ONV today), neutral-bra
 One question: which converter configuration do your installer customers buy most - Gigabit SFP-slot, or Fast Ethernet fixed SC?
 
 Best regards,
-Simon
+Alan
 Saga Telecom - sagatele.com
 ```
 

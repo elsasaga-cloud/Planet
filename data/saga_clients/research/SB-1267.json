@@ -95,7 +95,7 @@
     "next_move": {
       "when": "待 Simon 排期（首封）",
       "channel": "A 邮箱 → grenton@vidom.pl",
-      "action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-09-01「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 75 批(d) 2026-10-25：英文信稿已写 `draft_en`）",
+      "action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-09-01「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 75 批(d) 2026-10-25：英文信稿已写 `draft_en`）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
       "one_question": "For the PoE switches in your smart-home and CCTV category, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port unmanaged PoE units from small lots, CE/RoHS, EXW USD — which size do your installers order most? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
     },
     "facts": [
@@ -129,7 +129,7 @@
     ],
     "draft_en": {
       "subject": "PoE switches for your smart-home and CCTV category",
-      "body": "Hello VIDOM team,\n\nOver the past months you had a few product mails from us - most recently \"24 Port PoE Managed Switch\" on 1 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the PoE switches in your smart-home and CCTV category: an 8 x Gigabit PoE+ + 2 x SFP L2+ managed switch, Marvell-based, neutral packing, CE/RoHS - model STC-28DGGPM - $80.7 USD EXW (MOQ 1, 15-day validity); a budget 8-PoE + 2 uplink unmanaged unit, STC-028GP, is $25.1.\n\nOne question: which size do your installers order most with Grenton and CCTV jobs - 4, 8 or 24 ports?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+      "body": "Hello VIDOM team,\n\nOver the past months you had a few product mails from us - most recently \"24 Port PoE Managed Switch\" on 1 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the PoE switches in your smart-home and CCTV category: an 8 x Gigabit PoE+ + 2 x SFP L2+ managed switch, Marvell-based, neutral packing, CE/RoHS - model STC-28DGGPM - $80.7 USD EXW (MOQ 1, 15-day validity); a budget 8-PoE + 2 uplink unmanaged unit, STC-028GP, is $25.1.\n\nOne question: which size do your installers order most with Grenton and CCTV jobs - 4, 8 or 24 ports?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
     },
     "as_of": "2026-10-25"
   }

@@ -36,7 +36,7 @@ updated: 2026-10-25
 - **历史互动**：名单内·无互动记录
 - **P1**：不推（C 级）；若对方主动来询，起手 STC-424DGGPM-280W（深挖对位：巴西上市巨头（自有产品线、既定 ODM 体系），非 Saga 可承接 → 改 C）
 - **最大未知**：年走量与现供应商
-- **下一步**：2027-Q1 A 邮箱 → vanessa.ramos@intelbras.com.br（抄 vanusia.vieira@intelbras.com.br，自动回复里给的同事） 一句话问：Intelbras 自有 PoE 线是否接受中国 ODM 二供；不发目录
+- **下一步**：2027-Q1 A 邮箱 → vanusia.vieira@intelbras.com.br（主；2024-07 Vanessa 假期自动回复里给的同事）；vanessa.ramos@ 自 2025-02-17 起 A 箱 550 Access denied 永久退信（剔除名单第 18 行），只抄送、不作主收件人（全量审计 2026-10-25 U57 补） 一句话问：Intelbras 自有 PoE 线是否接受中国 ODM 二供；不发目录
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-25）
 
@@ -45,10 +45,10 @@ updated: 2026-10-25
 - **绑定等级：已发未回（只收到自动回执/假期回复，无人工回复、无打开记录；S 16 封 2024-06-17→2025-01-08、A 6 封 2025-02-17→2025-09-18，共 22 封群发，0 真实回复（1 封自动回执/假期回复，不算回）；Elsa 单发去信 1 封（2026-08-07「24 Port PoE Managed Switch」→ vanessa.ramos@intelbras.com.br，未见回复（Elsa 箱 Replied 标签无）））（第 74 批(e)：S/A mail_dump + Elsa 箱 in:sent 排锚扫描 2026-10-25）** ｜ 类型：上市巨头（巴西，自有 PoE 线） ｜ 筛子：1（仅自动回复） ｜ 停点：读 ｜ 复活：— ｜ 通路：— ｜ 节奏：— ｜ 证据：['mail_dump.py SB-1200（S/A 全量）', 'data/gmail_e/elsa_sent_nonanchor_2026-10-25.json（Elsa 1:1 普查）']
 - **现状一句话**：巴西 Intelbras（上市安防/连接巨头，自有 PoE 交换机线 SF-18xx / SI-0402 工业 PoE；KP Vanessa Ramos 2024-07 休假自动回复里给了同事 vanusia.vieira@）
 - **对方真实需求（有据）**：自有品牌 PoE 线 → ODM 二供：24 口 PoE L2+ STC-424XGGPM-280W、工业 8 PoE STI-288GPM
-- **断点 / 为什么停在这里**：巴西：进口税 + 本地化门槛高；KP 只见自动回复；Elsa 2026-08 24-PoE 单发也无回
+- **断点 / 为什么停在这里**：巴西：进口税 + 本地化门槛高；KP 只见自动回复；Elsa 2026-08 24-PoE 单发也无回；vanessa.ramos@ 对 A 箱已 550 拒收（2025-02-17 起），主收件人须换成 vanusia.vieira@（全量审计 2026-10-25 U57 补）
 - **Saga 现在该推什么**：P1 **STC-424XGGPM-280W**（30% 档，$180（2026-08/09 Elsa 群发同款 $170，FX 7.2→6.7））——自有品牌 PoE 线 → ODM 二供：24 口 PoE L2+ STC-424XGGPM-280W、工业 8 PoE STI-288GPM
   - 复购/在买项：无；成；单；；；待；首；次；真；实；回；复
-- **下一步（具体）**：2027-Q1　A 邮箱 → vanessa.ramos@intelbras.com.br（抄 vanusia.vieira@intelbras.com.br，自动回复里给的同事）　一句话问：Intelbras 自有 PoE 线是否接受中国 ODM 二供；不发目录
+- **下一步（具体）**：2027-Q1　A 邮箱 → vanusia.vieira@intelbras.com.br（主；2024-07 Vanessa 假期自动回复里给的同事）；vanessa.ramos@ 自 2025-02-17 起 A 箱 550 Access denied 永久退信（剔除名单第 18 行），只抄送、不作主收件人（全量审计 2026-10-25 U57 补）　一句话问：Intelbras 自有 PoE 线是否接受中国 ODM 二供；不发目录
   - 第一问（只问一个）：Does Intelbras qualify second ODM sources for its own-brand PoE switch line (24-PoE L2+ / DIN-rail 8-PoE, Marvell-based, your packaging)? One line back is enough. Reference: STC-424XGGPM-280W at $180 USD EXW (MOQ 1, 15-day validity; Elsa's 2026-08-07 mail said $170 — say so, FX 7.2→6.7).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |

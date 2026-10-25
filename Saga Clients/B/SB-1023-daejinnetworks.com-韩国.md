@@ -35,7 +35,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STH-2C24XF-SFI — CENTEC 交换机需求 → Saga Hohunet/CENTEC 线 STH-2C24XF-SFI（24×10G SFP+ + 2×100G，价格待核）/ 接入位 Marvell STC-424XGGM（$138.0 @30%）；首触锚价 STH-2C24XF-SFI $1500 EXW（CENTEC 锚价 $1,500（2C24XF-HSI；SFI 单电源更低，按单核）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：For the CENTEC-based Ethernet switches in your portfolio, we supply CENTEC-platform 10G/25G/100G aggregation models and Marvell-based 24-GE + 4×10G access switches from small lots with neutral or your label, CE/RoHS; KC by your side — which port configuration do your projects need most? Reference: 24 × 10G SFP+ + 2 × 100G aggregation (STH-2C24XF-HSI, dual PSU) at $1,500 USD EXW; lead time confirmed per order.
 - **最大未知**：年走量与现供应商
-- **下一步**：待 Simon 排期（首封） A 邮箱 → 待找地址（daejinnetworks.com 官网联系页；库内无邮箱） 首封：按 email_hook 一问（第 75 批(m) 2026-10-25：英文信稿已写 `draft_en`；库内无邮箱——官网/EC21 找到再发；CENTEC 按 2C24XF-HSI $1,500 报，SFI 单电源版 on request）
+- **下一步**：待 Simon 排期（首封） A 邮箱 → 待找地址（daejinnetworks.com 官网联系页；库内无邮箱） 首封：按 email_hook 一问（第 75 批(m) 2026-10-25：英文信稿已写 `draft_en`；库内无邮箱——官网/EC21 找到再发；CENTEC 按 2C24XF-HSI $1,500 报，SFI 单电源版 on request）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -46,7 +46,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：CENTEC 交换机需求 → Saga Hohunet/CENTEC 线 STH-2C24XF-SFI（24×10G SFP+ + 2×100G，价格待核）/ 接入位 Marvell STC-424XGGM（$138.0 @30%）
 - **断点 / 为什么停在这里**：邮箱待补：info@ / sales@ 均退信（表内「INFO SALES 都不行」），需网站表单或 LinkedIn 另寻
 - **Saga 现在该推什么**：P1 **STH-2C24XF-SFI**（30% 档，首触锚价 STH-2C24XF-SFI $1500 EXW（CENTEC 锚价 $1,500（2C24XF-HSI；SFI 单电源更低，按单核）；第 72 批 2026-10-24）；按主表（研究档 saga_fit））——CENTEC 交换机需求 → Saga Hohunet/CENTEC 线 STH-2C24XF-SFI（24×10G SFP+ + 2×100G，价格待核）/ 接入位 Marvell STC-424XGGM（$138.0 @30%）
-- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → 待找地址（daejinnetworks.com 官网联系页；库内无邮箱）　首封：按 email_hook 一问（第 75 批(m) 2026-10-25：英文信稿已写 `draft_en`；库内无邮箱——官网/EC21 找到再发；CENTEC 按 2C24XF-HSI $1,500 报，SFI 单电源版 on request）
+- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → 待找地址（daejinnetworks.com 官网联系页；库内无邮箱）　首封：按 email_hook 一问（第 75 批(m) 2026-10-25：英文信稿已写 `draft_en`；库内无邮箱——官网/EC21 找到再发；CENTEC 按 2C24XF-HSI $1,500 报，SFI 单电源版 on request）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
   - 第一问（只问一个）：For the CENTEC-based Ethernet switches in your portfolio, we supply CENTEC-platform 10G/25G/100G aggregation models and Marvell-based 24-GE + 4×10G access switches from small lots with neutral or your label, CE/RoHS; KC by your side — which port configuration do your projects need most? Reference: 24 × 10G SFP+ + 2 × 100G aggregation (STH-2C24XF-HSI, dual PSU) at $1,500 USD EXW; lead time confirmed per order.
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -143,7 +143,7 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-24T07:26:33Z　|　**最近变化**：2026-10-24T04:35:40Z
+- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-24T04:35:40Z
 - **最近变化摘要**：2026-10-24 home：内容变化：+1 −1 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1023/`；本节随档案重渲染刷新，实时看日志。
 
@@ -240,7 +240,7 @@ For the CENTEC-based Ethernet switches in your portfolio: we supply CENTEC-platf
 One question: which port configuration do your projects need most - 10G aggregation, 100G spine, or gigabit access?
 
 Best regards,
-Simon
+Alan
 Saga Telecom - sagatele.com
 ```
 

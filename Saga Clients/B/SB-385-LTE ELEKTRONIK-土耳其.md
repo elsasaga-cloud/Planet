@@ -37,7 +37,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-144GP — 分销 20% 档：STI-144GP（DIN 4 GE PoE + 1 SFP，$34.1）/ STI-050GE（5 GE 非管理，$17.0）作 IoT 网关现场配套；I/O 模块不供；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Enes Bey, I/O modülü ürün gamımızda yok; ancak IoT/gateway müşterileriniz için DIN ray 4 port PoE + 1 SFP endüstriyel switch (34,1 USD) ve 5 port endüstriyel switch (17,0 USD) sunabiliriz — Shenzhen ofisinize numune bırakalım mı?
 - **最大未知**：具体需求型号（表内兴趣列为空）
-- **下一步**：待 Simon 排期（首封） A 邮箱 → enes@ebcoelectronic.com（Enes（姓待核）） 首封：按 email_hook 一问（第 74 批(r) 2026-10-25：英文信稿已写 `draft_en`（= 客户语言钩子句的英文版，客户语言一句话留在备注里））
+- **下一步**：待 Simon 排期（首封） A 邮箱 → enes@ebcoelectronic.com（Enes（姓待核）） 首封：按 email_hook 一问（第 74 批(r) 2026-10-25：英文信稿已写 `draft_en`（= 客户语言钩子句的英文版，客户语言一句话留在备注里））（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -48,7 +48,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：分销 20% 档：STI-144GP（DIN 4 GE PoE + 1 SFP，$34.1）/ STI-050GE（5 GE 非管理，$17.0）作 IoT 网关现场配套；I/O 模块不供
 - **断点 / 为什么停在这里**：主业元器件，交换机为边缘；询盘品类不匹配；已转 Ady（避免重复触达）
 - **Saga 现在该推什么**：P1 **STI-144GP**（20% 档，按主表（研究档 saga_fit））——分销 20% 档：STI-144GP（DIN 4 GE PoE + 1 SFP，$34.1）/ STI-050GE（5 GE 非管理，$17.0）作 IoT 网关现场配套；I/O 模块不供
-- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → enes@ebcoelectronic.com（Enes（姓待核））　首封：按 email_hook 一问（第 74 批(r) 2026-10-25：英文信稿已写 `draft_en`（= 客户语言钩子句的英文版，客户语言一句话留在备注里））
+- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → enes@ebcoelectronic.com（Enes（姓待核））　首封：按 email_hook 一问（第 74 批(r) 2026-10-25：英文信稿已写 `draft_en`（= 客户语言钩子句的英文版，客户语言一句话留在备注里））（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
   - 第一问（只问一个）：Enes Bey, I/O modülü ürün gamımızda yok; ancak IoT/gateway müşterileriniz için DIN ray 4 port PoE + 1 SFP endüstriyel switch (34,1 USD) ve 5 port endüstriyel switch (17,0 USD) sunabiliriz — Shenzhen ofisinize numune bırakalım mı?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -135,14 +135,14 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-24T07:26:33Z　|　**最近变化**：2026-10-24T07:26:33Z
-- **最近变化摘要**：2026-10-24 sitemap：新增 1 条： ohs-policy
+- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-25T07:41:18Z
+- **最近变化摘要**：2026-10-25 sitemap：新增 1 条： ohs-policy
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-385/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://www.ebcoelectronic.com/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 4541 字符；首行：EBCO Electronic |
-| [sitemap](https://www.ebcoelectronic.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-24T07:26:33Z | 83 个 URL；最新 lastmod - |
+| [sitemap](https://www.ebcoelectronic.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-25T07:41:18Z | 83 个 URL；最新 lastmod - |
 
 - **人工定期看（登录墙，不自动抓）**：Instagram: https://www.instagram.com/lteproducts/；LinkedIn: https://tr.linkedin.com/company/lte-elektronik
 
@@ -236,7 +236,7 @@ What we do build, and what your IoT / gateway customers tend to need next to a c
 One question: would it help to drop one sample of each at your Shenzhen office for a look?
 
 Best regards,
-Simon
+Alan
 Saga Telecom - sagatele.com
 ```
 

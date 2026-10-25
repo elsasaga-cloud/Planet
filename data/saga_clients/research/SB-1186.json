@@ -115,7 +115,7 @@
     "next_move": {
       "when": "待 Simon 排期（首封）",
       "channel": "A 邮箱 → anne.ekblad@fibersystem.com（Anne Ekblad）",
-      "action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-09-08「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 74 批(q) 2026-10-25：英文信稿已写 `draft_en`，开头按 ㉝ 写明 Elsa 群发主题/日期，价按 ㉕ 锚价）",
+      "action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-09-08「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 74 批(q) 2026-10-25：英文信稿已写 `draft_en`，开头按 ㉝ 写明 Elsa 群发主题/日期，价按 ㉕ 锚价）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
       "one_question": "Oscar, following our earlier contact: for the gigabit media converters and compact Ethernet switches in your commercial fiber range, we can supply DIN-rail units under the Fibersystem label from small lots (CE/RoHS) — is the converter or the switch the more frequent request from your customers? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
     },
     "facts": [
@@ -173,7 +173,7 @@
     ],
     "draft_en": {
       "subject": "Fibersystem label - gigabit media converter / compact switch for the commercial fiber range",
-      "body": "Hi Anne,\n\nOver the past year you had a few product mails from us - most recently \"24 Port PoE Managed Switch\" on 8 September - and there was no reason to answer a mass mail. This one is specific to Fibersystem.\n\nFor the commercial side of your fiber range (not the data-diode / TEMPEST line, which we do not touch), two units can carry the Fibersystem label from small lots:\n\n- Industrial gigabit media converter, 1 x RJ45 + 1 x SFP, DIN-rail, -40 to 75 C, model STI-110GE - $26.5 USD EXW, MOQ 1, 15-day validity.\n- Compact industrial 8 x Gigabit switch, DIN-rail, unmanaged, model STI-080GE - $34.0 USD EXW.\n\nBoth CE/RoHS, 3-year warranty with our DIN power supply, neutral housing and carton, your logo on the front at no charge.\n\nOne question: from your customers, is the converter or the compact switch the more frequent request? I will send the datasheet of that one first.\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+      "body": "Hi Anne,\n\nOver the past year you had a few product mails from us - most recently \"24 Port PoE Managed Switch\" on 8 September - and there was no reason to answer a mass mail. This one is specific to Fibersystem.\n\nFor the commercial side of your fiber range (not the data-diode / TEMPEST line, which we do not touch), two units can carry the Fibersystem label from small lots:\n\n- Industrial gigabit media converter, 1 x RJ45 + 1 x SFP, DIN-rail, -40 to 75 C, model STI-110GE - $26.5 USD EXW, MOQ 1, 15-day validity.\n- Compact industrial 8 x Gigabit switch, DIN-rail, unmanaged, model STI-080GE - $34.0 USD EXW.\n\nBoth CE/RoHS, 3-year warranty with our DIN power supply, neutral housing and carton, your logo on the front at no charge.\n\nOne question: from your customers, is the converter or the compact switch the more frequent request? I will send the datasheet of that one first.\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
     },
     "as_of": "2026-10-25"
   }

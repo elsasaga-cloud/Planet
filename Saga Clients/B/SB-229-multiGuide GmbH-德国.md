@@ -35,7 +35,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-110GE — RFQ 1 光 2 电商用交换机 → 工业千兆 MC STI-110GE（$24.3 @30%，1 SFP + 1 GE，注明口数差异）/ 5 GE STI-050GE（$18.5）；1 SFP + 2 GE 商用型号用 HRUI（列表价，注明）；首触锚价 STI-110GE $26.5 EXW（最近实报 SA-001 2025-11-27 $26.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Javier, following your enquiry for a 1-fibre + 2-copper switch for parking-guidance installations: we supply compact fibre-uplink units (1 SFP + 1/2 GE, DIN-rail, −40~75 °C, CE/RoHS) and 5/8-GE switches under your label from small lots, EXW USD — how many nodes per car park, and is PoE needed for sensors or displays? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：具体需求型号（表内兴趣列为空）
-- **下一步**：待 Simon 排期（首封） A 邮箱 → javier.ferre@multiguide.com（Javier Ferre） 首封：按 email_hook 一问（第 75 批(e) 2026-10-25：英文信稿已写 `draft_en`）
+- **下一步**：待 Simon 排期（首封） A 邮箱 → javier.ferre@multiguide.com（Javier Ferre） 首封：按 email_hook 一问（第 75 批(e) 2026-10-25：英文信稿已写 `draft_en`）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -46,7 +46,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：RFQ 1 光 2 电商用交换机 → 工业千兆 MC STI-110GE（$24.3 @30%，1 SFP + 1 GE，注明口数差异）/ 5 GE STI-050GE（$18.5）；1 SFP + 2 GE 商用型号用 HRUI（列表价，注明）
 - **断点 / 为什么停在这里**：交换机为系统配套（量随项目）；1 SFP + 2 GE 精确规格在 Saga 列表中待核（注明）；未跟进过
 - **Saga 现在该推什么**：P1 **STI-110GE**（30% 档，首触锚价 STI-110GE $26.5 EXW（最近实报 SA-001 2025-11-27 $26.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit））——RFQ 1 光 2 电商用交换机 → 工业千兆 MC STI-110GE（$24.3 @30%，1 SFP + 1 GE，注明口数差异）/ 5 GE STI-050GE（$18.5）；1 SFP + 2 GE 商用型号用 HRUI（列表价，注明）
-- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → javier.ferre@multiguide.com（Javier Ferre）　首封：按 email_hook 一问（第 75 批(e) 2026-10-25：英文信稿已写 `draft_en`）
+- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → javier.ferre@multiguide.com（Javier Ferre）　首封：按 email_hook 一问（第 75 批(e) 2026-10-25：英文信稿已写 `draft_en`）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
   - 第一问（只问一个）：Javier, following your enquiry for a 1-fibre + 2-copper switch for parking-guidance installations: we supply compact fibre-uplink units (1 SFP + 1/2 GE, DIN-rail, −40~75 °C, CE/RoHS) and 5/8-GE switches under your label from small lots, EXW USD — how many nodes per car park, and is PoE needed for sensors or displays? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -130,7 +130,7 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-24T07:26:33Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-229/`；本节随档案重渲染刷新，实时看日志。
 
@@ -230,7 +230,7 @@ For the fibre node in a parking-guidance installation we have two compact DIN-ra
 One question: how many nodes per car park, and do the sensors or displays need PoE from the switch?
 
 Best regards,
-Simon
+Alan
 Saga Telecom - sagatele.com
 ```
 

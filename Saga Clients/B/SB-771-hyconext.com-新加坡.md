@@ -36,7 +36,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM（Marvell）；Realtek 线 STC-18XGDGPW $66 / STC-624XGDGPM $396（`data/hrui_STC对照表.csv`）；CENTEC STH-8DX24VP-HSI（无价） — 自有 2.5G 多千兆 PoE 线 → 现有对位 8 口 PoE+ 2×2.5G SFP L2+ STC-28DGGPM（$87.4 @30%）；8×2.5G PoE + 2 SFP+ 位需向 SmartByte 核型号（待核）。已打开的主题（1/25 封有打开记录）：「2.5G Web Managed Switch」(2024-10-31) → 读者兴趣偏「2.5G」；与 P1 同类，继续｜需求台账 #12：原句「2.5G-port PoE on request」承诺了不存在的品——改为两层说法：AC5 线无多千兆铜口；CENTEC VastLakes 表有 24 口 mGig PoE++（STH-2C24XP / 8DX24VP，无价，见 `docs/reference/CENTEC_产品表与报价锚_2026-10-24.md`）；Realtek 线按 HRUI 2026-09-30 进价 +30% 现算（Q-47 默认，不用 Drive 旧表价）：STC-624XGDGPM $396→$466.4；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-25 $65（10G Media Converter）、2024-11-28 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-07-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-03-12 $240（24 Port Fiber Switch）、2025-10-20 $280（10G Enterprise SFP Switch）、2026-06-15 $16000（32 Port 400GB DC Switch）
 - **第一问（只问一个）**：For the HC-series multi-gig PoE switches, we can be a second source on three levels: the Marvell platform for 1G-PoE + 2.5G/10G-fiber-uplink SKUs (8-PoE + 2 x 1G/2.5G SFP L2+; 24-PoE + 4 x 10G SFP+); our commercial Realtek line for 2.5G-copper PoE SKUs (8 x 2.5G PoE + 1 x 10G SFP web-managed $66; 24 x 2.5G PoE++ 400 W + 6 x 10G SFP+ L3 $466.4, 2026-10 EXW); and CENTEC for 24-port multi-gig PoE++ with dual hot-swap PSU — which SKU would you consider dual-sourcing first?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
-- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封（第 75 批(ah) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；2.5G 铜口只有 HRUI STC-114XGDGP / STC-624XGDGPM，8 口 2.5G PoE 管理明说无；HRUI 不写 Marvell）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封（第 75 批(ah) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；2.5G 铜口只有 HRUI STC-114XGDGP / STC-624XGDGPM，8 口 2.5G PoE 管理明说无；HRUI 不写 Marvell）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -48,7 +48,7 @@ updated: 2026-10-25
 - **断点 / 为什么停在这里**：产品线以 2.5G/10G 多千兆为主：Saga 2.5G 电口 PoE 型号待核
 - **Saga 现在该推什么**：P1 **STC-28DGGPM（Marvell）；Realtek 线 STC-18XGDGPW $66 / STC-624XGDGPM $396（`data/hrui_STC对照表.csv`）；CENTEC STH-8DX24VP-HSI（无价）**（30% 档，Realtek 线按 HRUI 2026-09-30 进价 +30% 现算（Q-47 默认，不用 Drive 旧表价）：STC-624XGDGPM $396→$466.4；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-25 $65（10G Media Converter）、2024-11-28 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-07-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-03-12 $240（24 Port Fiber Switch）、2025-10-20 $280（10G Enterprise SFP Switch）、2026-06-15 $16000（32 Port 400GB DC Switch））——自有 2.5G 多千兆 PoE 线 → 现有对位 8 口 PoE+ 2×2.5G SFP L2+ STC-28DGGPM（$87.4 @30%）；8×2.5G PoE + 2 SFP+ 位需向 SmartByte 核型号（待核）。已打开的主题（1/25 封有打开记录）：「2.5G Web Managed Switch」(2024-10-31) → 读者兴趣偏「2.5G」；与 P1 同类，继续｜需求台账 #12：原句「2.5G-port PoE on request」承诺了不存在的品——改为两层说法：AC5 线无多千兆铜口；CENTEC VastLakes 表有 24 口 mGig PoE++（STH-2C24XP / 8DX24VP，无价，见 `docs/reference/CENTEC_产品表与报价锚_2026-10-24.md`）
   - 做不了 / 要先核的：Simon《STH计划》：铜口 CENTEC 机（STH1G/2.5G/5G，含 Multi-Gig PoE++）暂不宣传、点名才给；主推 10G/25G/XLite/100G/400G/800G
-- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封（第 75 批(ah) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；2.5G 铜口只有 HRUI STC-114XGDGP / STC-624XGDGPM，8 口 2.5G PoE 管理明说无；HRUI 不写 Marvell）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封（第 75 批(ah) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；2.5G 铜口只有 HRUI STC-114XGDGP / STC-624XGDGPM，8 口 2.5G PoE 管理明说无；HRUI 不写 Marvell）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
   - 第一问（只问一个）：For the HC-series multi-gig PoE switches, we can be a second source on three levels: the Marvell platform for 1G-PoE + 2.5G/10G-fiber-uplink SKUs (8-PoE + 2 x 1G/2.5G SFP L2+; 24-PoE + 4 x 10G SFP+); our commercial Realtek line for 2.5G-copper PoE SKUs (8 x 2.5G PoE + 1 x 10G SFP web-managed $66; 24 x 2.5G PoE++ 400 W + 6 x 10G SFP+ L3 $466.4, 2026-10 EXW); and CENTEC for 24-port multi-gig PoE++ with dual hot-swap PSU — which SKU would you consider dual-sourcing first?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -187,7 +187,7 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-24T07:26:33Z　|　**最近变化**：2026-10-24T04:35:40Z
+- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-24T04:35:40Z
 - **最近变化摘要**：2026-10-24 home：内容变化：+2 −2 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-771/`；本节随档案重渲染刷新，实时看日志。
 
@@ -287,7 +287,7 @@ For the HC-series multi-gig PoE switches, what we can second-source today, in yo
 One question: which SKU would you consider dual-sourcing first - and is 2.5G on the copper ports a must for it?
 
 Best regards,
-Simon
+Alan
 Saga Telecom - sagatele.com
 ```
 

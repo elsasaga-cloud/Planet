@@ -206,16 +206,16 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：成单精选层　|　**自动源**：5 个　|　**数据截至**：2026-10-24T07:26:33Z　|　**最近变化**：2026-10-24T07:26:33Z
-- **最近变化摘要**：2026-10-24 auto_youtube：恢复可达（上轮 YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过））
+- **监控层**：成单精选层　|　**自动源**：5 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-25T07:41:18Z
+- **最近变化摘要**：2026-10-25 auto_youtube：新增 3 条：2026-10-24T13:12:55 **Industrial Protocol Converters for Factory and Process Automa
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-049/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [site_feed](https://sundartechno.com/feed/) | rss | HTTP 200 | 2026-10-24T07:26:33Z | 10 条；最新：Thu, 22 Oct 2026 11:01:10 STAINLESS STEEL ATM & KIOSK USB KEYPAD |
 | [home](https://sundartechno.com/) | html | HTTP 200 | 2026-10-23T02:54:23Z | 3744 字符；首行：Sundar Techno Solutions - Sundar Techno Solutions |
-| [indiamart_minisite](https://www.sundartechno.in/) | html | HTTP 200 | 2026-10-24T04:35:40Z | 5052 字符；首行：Sundar Techno Solutions - Exporter & Manufacturer of Industrial PC from Bengalu |
-| [auto_youtube](https://www.youtube.com/@SUNDARTECHNOSOLUTIONS) | youtube_handle | HTTP 200 | 2026-10-24T07:26:33Z | 15 条；最新：2026-10-23T13:44:59+00:00 PANASONIC TOUGHBOOK 55 RUGGED LAPTOP FOR UGV FIELD OPERA |
+| [indiamart_minisite](https://www.sundartechno.in/) | html | HTTP 200 | 2026-10-25T07:41:18Z | 4892 字符；首行：Sundar Techno Solutions - Exporter & Manufacturer of Industrial PC from Bengalu |
+| [auto_youtube](https://www.youtube.com/@SUNDARTECHNOSOLUTIONS) | youtube_handle | HTTP 200 | 2026-10-25T07:41:18Z | 15 条；最新：2026-10-24T13:12:55+00:00 **Industrial Protocol Converters for Factory and Process |
 | [feed_auto](https://sundartechno.com/feed/) | rss | HTTP 200 | 2026-10-23T04:57:18Z | 10 条；最新：Thu, 22 Oct 2026 11:01:10 STAINLESS STEEL ATM & KIOSK USB KEYPAD |
 
 - **人工定期看（登录墙，不自动抓）**：https://in.linkedin.com/company/sundar-techno-solutions（39 followers；2 周前发 4U 工业机箱 Make in India）；https://www.linkedin.com/in/manoj-kumar-n-b4ba7a32/（CEO，5K followers，常发边缘 AI/工业 PC）；https://x.com/SundarTechno；https://www.instagram.com/sundar_techno_solutions/；https://www.facebook.com/profile.php?id=100063936730171；YouTube（句柄待核：首轮 404）: https://www.youtube.com/results?search_query=Sundar+Techno+Solutions；Facebook: https://www.facebook.com/Sundar-Techno-Solutions-468605697037043/?hc_ref=ARQWa9QTtpSDn7Aiqyq1K1KisWMBo4KzBLfNV-NTawinOR8DQ7QAlIEWW1xUdoB-K54&fref=nf&__xts__%5B0%5D=68.ARAMIapyIXee6K2z_lsIzY0SrKcg8PRMriQ4E9Zbk_Qxn8vv61NTShHn5iakc0XMo_l2V_w-rzS0gU31uFtM54tLKzZtt0flOpI54LcUnV5GqgE5piJuC9cOskZ2OoQqDobcaZo12ShM0GbT47L8hkgtFgIT9gGwU5iOLw3f5rlKoJo8Ya4C_r8wcGsT-exhfgEd9OaiwhWMkhm0ijpzp4vCctGOhO7EaqOO2fjNq4OOZGXY1Yu7LA6tyOpm3tE7OnIiv94Q4xA4ElLUvu4HbmVpt-p3grXTaBgIOi_MjsWGWiMzHzabKPStNcoW8oKKNhK8Kfkc0IxSzMshgxPxIJk&__tn__=kC-R；X/Twitter: https://twitter.com/SundarTechno

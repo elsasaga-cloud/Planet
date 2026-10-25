@@ -152,7 +152,7 @@
   ],
   "draft_en": {
    "subject": "Re: L2 managed switch — the L3 commercial model you asked for in 2024 exists now",
-   "body": "Hi, Dmitry,\n\nIn June 2024 you asked for an L3 commercial switch with 8-12 SFP+ and 12-24 GE, and I had nothing exact. Today we do:\n\n- 4 x 10G SFP+ + 16 x 1G SFP + 8 x GE combo, L3 (OSPF/RIP, static), 1U, Marvell — $392 USD EXW\n- Industrial version with dual AC input (the one I quoted at $550 then): now $511.5 L2+ / $605 L3 on the 2026-10 list\n(valid 15 days from this mail.)\n\nOne question: do you have a project this winter where one of these fits? If payment to Russia is the obstacle, tell me and I will explain the route we use.\n\nThank you.\nSimon"
+   "body": "Hi, Dmitry,\n\nIn June 2024 you asked for an L3 commercial switch with 8-12 SFP+ and 12-24 GE, and I had nothing exact. Today we do:\n\n- 4 x 10G SFP+ + 16 x 1G SFP + 8 x GE combo, L3 (OSPF/RIP, static), 1U, Marvell — $392 USD EXW\n- Industrial version with dual AC input (the one I quoted at $550 then): now $511.5 L2+ / $605 L3 on the 2026-10 list\n(valid 15 days from this mail.)\n\nOne question: do you have a project this winter where one of these fits? If payment to Russia is the obstacle, tell me and I will explain the route we use.\n\nThank you.\nSimon\nSaga Telecom - sagatele.com"
   }
  }
 }

@@ -108,7 +108,7 @@
   "next_move": {
    "when": "2027-Q1（换人后）",
    "channel": "A 邮箱 → 具名 KP",
-   "action": "换收件人再发一封（第 75 批(ah) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；RCM stays on your side）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）",
+   "action": "换收件人再发一封（第 75 批(ah) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；RCM stays on your side）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
    "one_question": "Next to the ONV-IPS31108PFB you list — our 2-SFP + 8-PoE DIN unit is $57 EXW (managed Marvell version $79), CE/FCC/RoHS, 3-year warranty (industrial line); shall I send a sample to Toorbul for comparison?"
   },
   "facts": [
@@ -140,7 +140,7 @@
   "proof_gaps": [],
   "draft_en": {
    "subject": "Next to the ONV-IPS31108PFB you list - a DIN 8-PoE at $60, sample to Toorbul",
-   "body": "Hello Austec team,\n\nOver the past months you had a few product mails from us - most recently \"24 Port PoE Managed Switch\" on 26 August 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nNext to the ONV-IPS31108PFB you list, neutral-brand, at distributor price, EXW, MOQ 1, 15-day validity, -40 to 75 C, CE/RoHS, 3-year warranty on the industrial line: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, unmanaged - model STI-288GP - $60 USD; the same L2 managed, Marvell-based - STI-288GPM - $78.9. Samples are paid at the same price and ship by courier. RCM stays on your side.\n\nOne question: shall I send one unmanaged unit to Toorbul for comparison, or both?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+   "body": "Hello Austec team,\n\nOver the past months you had a few product mails from us - most recently \"24 Port PoE Managed Switch\" on 26 August 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nNext to the ONV-IPS31108PFB you list, neutral-brand, at distributor price, EXW, MOQ 1, 15-day validity, -40 to 75 C, CE/RoHS, 3-year warranty on the industrial line: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, unmanaged - model STI-288GP - $60 USD; the same L2 managed, Marvell-based - STI-288GPM - $78.9. Samples are paid at the same price and ship by courier. RCM stays on your side.\n\nOne question: shall I send one unmanaged unit to Toorbul for comparison, or both?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
  }

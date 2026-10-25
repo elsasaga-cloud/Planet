@@ -134,7 +134,7 @@
     "next_move": {
       "when": "2027-Q1（换人后）",
       "channel": "A 邮箱 → 具名 KP",
-      "action": "首封前知悉：Elsa 仅 2025-02-17 单发过 1 封「8 Port Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(ac) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用）；STI-488XGGPM 明写 L2+ 非 L3）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）",
+      "action": "首封前知悉：Elsa 仅 2025-02-17 单发过 1 封「8 Port Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(ac) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用）；STI-488XGGPM 明写 L2+ 非 L3）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
       "one_question": "Gianni, next to the Maiwe industrial switches you specify, we supply DIN-rail 5-port and 8-PoE + 4×10G industrial units (−40~75 °C, neutral packing; the latter L2+ managed on a Marvell platform) from small lots for your building-automation and IoT projects — which model do you use most often, so we quote its equivalent? Reference: STI-154GP at $39.2 USD EXW (MOQ 1, 15-day validity)."
     },
     "facts": [
@@ -175,7 +175,7 @@
     "proof_gaps": [],
     "draft_en": {
       "subject": "Next to the Maiwe units you specify - the 5-port PoE and the 8-PoE + 4 x 10G, honestly compared",
-      "body": "Hi Gianni,\n\nWe wrote to you once in February 2025 about an 8-port industrial PoE switch, and since then only general product mails - most recently \"16 Port Industrial PoE Switch\" on 16 September 2026 - none of which needed an answer. This one is specific.\n\nNext to the Maiwe units you specify, two equivalents from small lots, neutral packing, -40 to 75 C, CE/RoHS: MIEN2205P-4T position - DIN-rail 4 x Gigabit PoE+ + 1 x Gigabit + 1 x SFP, unmanaged - model STI-154GP - $39.2 USD EXW (MOQ 1, 15-day validity); MISCOM8212GP-4XGF position - 8 x Gigabit PoE+ + 4 x 10G SFP+, L2+ managed with ring redundancy, Marvell-based - STI-488XGGPM - $171.9 - L2+, not L3, said up front. M12 and EtherCAT we do not do.\n\nOne question: which Maiwe model do you use most often in the building-automation jobs, so I quote that equivalent properly?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+      "body": "Hi Gianni,\n\nWe wrote to you once in February 2025 about an 8-port industrial PoE switch, and since then only general product mails - most recently \"16 Port Industrial PoE Switch\" on 16 September 2026 - none of which needed an answer. This one is specific.\n\nNext to the Maiwe units you specify, two equivalents from small lots, neutral packing, -40 to 75 C, CE/RoHS: MIEN2205P-4T position - DIN-rail 4 x Gigabit PoE+ + 1 x Gigabit + 1 x SFP, unmanaged - model STI-154GP - $39.2 USD EXW (MOQ 1, 15-day validity); MISCOM8212GP-4XGF position - 8 x Gigabit PoE+ + 4 x 10G SFP+, L2+ managed with ring redundancy, Marvell-based - STI-488XGGPM - $171.9 - L2+, not L3, said up front. M12 and EtherCAT we do not do.\n\nOne question: which Maiwe model do you use most often in the building-automation jobs, so I quote that equivalent properly?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
     },
     "as_of": "2026-10-24"
   }

@@ -39,7 +39,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：暂无；若对方自有标部门出现，才按 STC-28DGGPM / STI-110GE 对位 — ZA 非主攻 + 体量过大 + 零互动 → 维持最低频保活。已打开的主题（2/23 封有打开记录）：「Re: 8 Port Industrial PoE Switch [#RS9」(2024-10-17)、「48 Port PoE Managed Switch」(2024-12-11) → 读者兴趣偏「工业」；当前 P1 属「10G 汇聚/L3」，下一封按「工业」给，不按 P1；按 20% 分销档；群发里他已看到的价（续）：2026-08-07 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-12-11 $300（48 Port PoE Managed Switch）、2025-10-01 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Does Regal's Securi-Prod line source any OEM switches, and who owns that decision?
 - **最大未知**：官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
-- **下一步**：2027-Q1（之前不发） A 邮箱 → Jacques 首封前知悉：Elsa 仅 2025-02-10 单发过 1 封「Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；一句话问自有标部门归口；停止向 nsc.support 发任何群发（第 75 批(am) 2026-10-25：英文信稿已写 `draft_en`；STC-228GP 20% $33.2（2025-10 报价待对照））
+- **下一步**：2027-Q1（之前不发） A 邮箱 → Jacques 首封前知悉：Elsa 仅 2025-02-10 单发过 1 封「Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；一句话问自有标部门归口；停止向 nsc.support 发任何群发（第 75 批(am) 2026-10-25：英文信稿已写 `draft_en`；STC-228GP 20% $33.2（2025-10 报价待对照））（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -51,7 +51,7 @@ updated: 2026-10-25
 - **断点 / 为什么停在这里**：错把「有回信」当「有互动」——回信全是机器人。大型分销商的 OEM 决策在产品经理，不在 IT 总监或工单台。
 - **Saga 现在该推什么**：P1 **暂无；若对方自有标部门出现，才按 STC-28DGGPM / STI-110GE 对位**（20% 档，按 20% 分销档；群发里他已看到的价（续）：2026-08-07 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-12-11 $300（48 Port PoE Managed Switch）、2025-10-01 $280（10G Enterprise SFP Switch））——ZA 非主攻 + 体量过大 + 零互动 → 维持最低频保活。已打开的主题（2/23 封有打开记录）：「Re: 8 Port Industrial PoE Switch [#RS9」(2024-10-17)、「48 Port PoE Managed Switch」(2024-12-11) → 读者兴趣偏「工业」；当前 P1 属「10G 汇聚/L3」，下一封按「工业」给，不按 P1
   - 做不了 / 要先核的：Securi-Prod 产品经理是谁（LinkedIn 可查，未做）
-- **下一步（具体）**：2027-Q1（之前不发）　A 邮箱 → Jacques　首封前知悉：Elsa 仅 2025-02-10 单发过 1 封「Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；一句话问自有标部门归口；停止向 nsc.support 发任何群发（第 75 批(am) 2026-10-25：英文信稿已写 `draft_en`；STC-228GP 20% $33.2（2025-10 报价待对照））
+- **下一步（具体）**：2027-Q1（之前不发）　A 邮箱 → Jacques　首封前知悉：Elsa 仅 2025-02-10 单发过 1 封「Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；一句话问自有标部门归口；停止向 nsc.support 发任何群发（第 75 批(am) 2026-10-25：英文信稿已写 `draft_en`；STC-228GP 20% $33.2（2025-10 报价待对照））（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
   - 第一问（只问一个）：Does Regal's Securi-Prod line source any OEM switches, and who owns that decision?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -218,7 +218,7 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-24T07:26:33Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-111/`；本节随档案重渲染刷新，实时看日志。
 
@@ -318,7 +318,7 @@ One question only, following the 2 + 2 + 8 PoE quote we sent in October 2025: do
 For reference the quoted unit stands: 8 x Gigabit PoE+ + 2 x Gigabit + 2 x SFP, unmanaged - model STC-228GP - $33.2 USD EXW at distributor tier (MOQ 1, 15-day validity), Securi-Prod label free, colour box from 200 sets.
 
 Best regards,
-Simon
+Alan
 Saga Telecom - sagatele.com
 ```
 

@@ -95,7 +95,7 @@
     "next_move": {
       "when": "待 Simon 排期（首封）",
       "channel": "A 邮箱 → markus.brenner@sphinxcomputer.de（Markus Brenner）",
-      "action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-31「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 74 批(r) 2026-10-25：英文信稿已写 `draft_en`，开头按 ㉝ 写明 Elsa 群发主题/日期，价按 ㉕ 锚价；德文钩子句只留作备用，发信用英文）",
+      "action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-31「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 74 批(r) 2026-10-25：英文信稿已写 `draft_en`，开头按 ㉝ 写明 Elsa 群发主题/日期，价按 ㉕ 锚价；德文钩子句只留作备用，发信用英文）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
       "one_question": "Herr Brenner, unterhalb der Moxa/Advantech-Preispunkte: Marvell-basierter DIN-Switch 8×PoE + 2×SFP managed (ERPS, −40~75 °C, CE/RoHS) zu 79 $ EXW — ein Evaluierungsgerät für Laudenbach?"
     },
     "facts": [
@@ -129,7 +129,7 @@
     ],
     "draft_en": {
       "subject": "STI-288GPM - DIN managed 8-PoE + 2-SFP below the Moxa / Advantech price points",
-      "body": "Hi Markus,\n\nSome time ago you had a product mail from us - \"24 Port PoE Managed Switch\" on 31 August - and there was no reason to answer a mass mail. This one is specific to the industrial networking part of Sphinx's line card.\n\nBelow the Moxa / Advantech price points you carry, we supply a Marvell-based DIN-rail managed switch, 8 x Gigabit PoE+ (240 W) + 2 x SFP, ring redundancy, -40 to 75 C, CE/RoHS, model STI-288GPM - $78.9 USD EXW (distributor price, MOQ 1, 15-day validity). The matching industrial gigabit media converter STI-110GE is $22.4.\n\nNeutral housing and carton as standard; a Sphinx label is possible from small lots; 3-year warranty together with our DIN power supply.\n\nOne question: is one evaluation unit (at the unit price) for Laudenbach worth a look before your next line-card review?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+      "body": "Hi Markus,\n\nSome time ago you had a product mail from us - \"24 Port PoE Managed Switch\" on 31 August - and there was no reason to answer a mass mail. This one is specific to the industrial networking part of Sphinx's line card.\n\nBelow the Moxa / Advantech price points you carry, we supply a Marvell-based DIN-rail managed switch, 8 x Gigabit PoE+ (240 W) + 2 x SFP, ring redundancy, -40 to 75 C, CE/RoHS, model STI-288GPM - $78.9 USD EXW (distributor price, MOQ 1, 15-day validity). The matching industrial gigabit media converter STI-110GE is $22.4.\n\nNeutral housing and carton as standard; a Sphinx label is possible from small lots; 3-year warranty together with our DIN power supply.\n\nOne question: is one evaluation unit (at the unit price) for Laudenbach worth a look before your next line-card review?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
     },
     "as_of": "2026-10-25"
   }

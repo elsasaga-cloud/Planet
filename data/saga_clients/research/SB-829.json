@@ -106,7 +106,7 @@
   "next_move": {
    "when": "2027-Q1（换人后）",
    "channel": "A 邮箱 → 具名 KP",
-   "action": "换收件人再发一封（第 75 批(w) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）",
+   "action": "换收件人再发一封（第 75 批(w) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
    "one_question": "For the FluxLight media-converter line, we can supply industrial gigabit and PoE media converters under your label from small lots (−40~75 °C, FCC/CE/RoHS) — is there an MC configuration your transceiver customers keep asking for that you do not stock today? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
@@ -138,7 +138,7 @@
   "proof_gaps": [],
   "draft_en": {
    "subject": "For the FluxLight media-converter line - the industrial configurations you may not stock",
-   "body": "Hello FluxLight team,\n\nOver the past months you had a few product mails from us - most recently \"Updated Ethernet Switches Links\" on 12 February 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nTransceivers and DAC are your core and we do not carry them. For the FluxLight media-converter line, under your label from small lots, -40 to 75 C, FCC/CE/RoHS: industrial Gigabit converter, DIN-rail, 1 x RJ45 + 1 x SFP slot - model STI-110GE - $26.5 USD EXW (MOQ 1, 15-day validity); PoE version - STI-111GP - $30.1. Desktop converters and converter racks are not on our list - said up front.\n\nOne question: is there a converter configuration your transceiver customers keep asking for that you do not stock today?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+   "body": "Hello FluxLight team,\n\nOver the past months you had a few product mails from us - most recently \"Updated Ethernet Switches Links\" on 12 February 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nTransceivers and DAC are your core and we do not carry them. For the FluxLight media-converter line, under your label from small lots, -40 to 75 C, FCC/CE/RoHS: industrial Gigabit converter, DIN-rail, 1 x RJ45 + 1 x SFP slot - model STI-110GE - $26.5 USD EXW (MOQ 1, 15-day validity); PoE version - STI-111GP - $30.1. Desktop converters and converter racks are not on our list - said up front.\n\nOne question: is there a converter configuration your transceiver customers keep asking for that you do not stock today?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
  }

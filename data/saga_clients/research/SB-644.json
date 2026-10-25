@@ -95,7 +95,7 @@
   "next_move": {
    "when": "2027-Q1（换人后）",
    "channel": "A 邮箱 → 具名 KP",
-   "action": "换收件人再发一封（第 75 批(v) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）",
+   "action": "换收件人再发一封（第 75 批(v) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
    "one_question": "Andrea, beside the E-wind converters on lanshack.com — our DIN gigabit MC is $22.4 and the 2-SFP + 8-PoE industrial $57 EXW (FCC/CE, no UL listing); would a 2-piece sample help you compare build quality?"
   },
   "facts": [
@@ -127,7 +127,7 @@
   "proof_gaps": [],
   "draft_en": {
    "subject": "Beside the E-wind converters on lanshack.com - two numbers and a 2-piece sample",
-   "body": "Hi Andrea,\n\nOver the past months you had a few product mails from us - most recently \"16 Port Industrial PoE Switch\" on 17 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nBeside the E-wind converters and switches on lanshack.com, at distributor price, EXW, MOQ 1, 15-day validity: industrial Gigabit media converter, DIN-rail, 1 x RJ45 + 1 x SFP slot, -40 to 75 C - model STI-110GE - $26.5 USD; industrial 8 x Gigabit PoE+ + 2 x SFP unmanaged - STI-288GP - $60. FCC/CE/RoHS, no UL listing - said up front. Samples are paid at the same price.\n\nOne question: would a 2-piece sample help you compare build quality against the E-wind units you already stock?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+   "body": "Hi Andrea,\n\nOver the past months you had a few product mails from us - most recently \"16 Port Industrial PoE Switch\" on 17 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nBeside the E-wind converters and switches on lanshack.com, at distributor price, EXW, MOQ 1, 15-day validity: industrial Gigabit media converter, DIN-rail, 1 x RJ45 + 1 x SFP slot, -40 to 75 C - model STI-110GE - $26.5 USD; industrial 8 x Gigabit PoE+ + 2 x SFP unmanaged - STI-288GP - $60. FCC/CE/RoHS, no UL listing - said up front. Samples are paid at the same price.\n\nOne question: would a 2-piece sample help you compare build quality against the E-wind units you already stock?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
  }

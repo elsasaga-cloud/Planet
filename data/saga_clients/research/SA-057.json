@@ -149,7 +149,7 @@
     "next_move": {
       "when": "2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）",
       "channel": "A 邮箱 → MT-Link 具名 KP 待找",
-      "action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(p) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；具名 KP 待找）（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
+      "action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(p) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；具名 KP 待找）（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
       "one_question": "Your MT-SW1024PE is still a fast-Ethernet PoE unit, so a Marvell-based 24-port gigabit PoE+ managed switch with 4 SFP under an MT- part number is the gap I would fill first, with the 8-port PoE+ 2 SFP model alongside. Would the 24-port be the first SKU to sample under an MT- part number? Reference: STC-424DGGPM-280W at $145.7 / STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity)."
     },
     "facts": [
@@ -199,7 +199,7 @@
     ],
     "draft_en": {
       "subject": "A gigabit 24-PoE+ managed unit under an MT- part number",
-      "body": "Hello MT-Link team,\n\nYour MT-SW1024PE is still a Fast Ethernet PoE unit. The gap we would fill first under an MT- part number: 24 x Gigabit PoE+ (280 W) + 4 x SFP, L2+ managed, Marvell-based, CE/RoHS - model STC-424DGGPM-280W - $145.7 USD EXW with your logo (MOQ 1, 15-day validity); alongside it, 8 x Gigabit PoE+ + 2 x SFP - STC-28DGGPM - $87.4.\n\nOne question: which PoE size sells most through mtlinkpakistan.com - 8, 16 or 24 ports - so we start with that one?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+      "body": "Hello MT-Link team,\n\nYour MT-SW1024PE is still a Fast Ethernet PoE unit. The gap we would fill first under an MT- part number: 24 x Gigabit PoE+ (280 W) + 4 x SFP, L2+ managed, Marvell-based, CE/RoHS - model STC-424DGGPM-280W - $145.7 USD EXW with your logo (MOQ 1, 15-day validity); alongside it, 8 x Gigabit PoE+ + 2 x SFP - STC-28DGGPM - $87.4.\n\nOne question: which PoE size sells most through mtlinkpakistan.com - 8, 16 or 24 ports - so we start with that one?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
     },
     "as_of": "2026-10-24"
   }

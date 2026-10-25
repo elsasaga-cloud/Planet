@@ -36,7 +36,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 在售 Advantech EKI 工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-288GP 同口型替换；EN50155 轨道线不报；首触锚价 STI-288GPM $78.9 EXW（主表档位（PDF 上限 $88；SA-026 2025-07 实报 $72 为分销量价）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Alongside the Advantech EKI industrial switches in your catalogue, we supply DIN-rail 8-PoE + 2 SFP managed (Marvell L2+) and unmanaged units (−40~75 °C, neutral packing, CE/RoHS) from small lots, EXW — which EKI model do your automation customers order most, so we quote its equivalent? Reference: STI-288GPM at $78.9 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；具体需求型号（表内兴趣列为空）
-- **下一步**：待 Simon 排期（首封） A 邮箱 → info@t-automation.by（无具名 KP；公用地址） 首封：按 email_hook 一问（第 75 批(l) 2026-10-25：英文信稿已写 `draft_en`）（第 76 批(c) 2026-10-25：0 事实户补时间线事实）
+- **下一步**：待 Simon 排期（首封） A 邮箱 → info@t-automation.by（无具名 KP；公用地址） 首封：按 email_hook 一问（第 75 批(l) 2026-10-25：英文信稿已写 `draft_en`）（第 76 批(c) 2026-10-25：0 事实户补时间线事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -47,7 +47,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：在售 Advantech EKI 工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-288GP 同口型替换；EN50155 轨道线不报
 - **断点 / 为什么停在这里**：白俄罗斯：结算/物流受限，非主攻区
 - **Saga 现在该推什么**：P1 **STI-288GPM**（20% 档，首触锚价 STI-288GPM $78.9 EXW（主表档位（PDF 上限 $88；SA-026 2025-07 实报 $72 为分销量价）；第 72 批 2026-10-24）；按主表（研究档 saga_fit））——在售 Advantech EKI 工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-288GP 同口型替换；EN50155 轨道线不报
-- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → info@t-automation.by（无具名 KP；公用地址）　首封：按 email_hook 一问（第 75 批(l) 2026-10-25：英文信稿已写 `draft_en`）（第 76 批(c) 2026-10-25：0 事实户补时间线事实）
+- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → info@t-automation.by（无具名 KP；公用地址）　首封：按 email_hook 一问（第 75 批(l) 2026-10-25：英文信稿已写 `draft_en`）（第 76 批(c) 2026-10-25：0 事实户补时间线事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
   - 第一问（只问一个）：Alongside the Advantech EKI industrial switches in your catalogue, we supply DIN-rail 8-PoE + 2 SFP managed (Marvell L2+) and unmanaged units (−40~75 °C, neutral packing, CE/RoHS) from small lots, EXW — which EKI model do your automation customers order most, so we quote its equivalent? Reference: STI-288GPM at $78.9 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -133,16 +133,16 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-24T07:26:33Z　|　**最近变化**：2026-10-24T07:26:33Z
-- **最近变化摘要**：2026-10-24 telegram：内容变化：+13 −2 行
+- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-25T07:41:18Z
+- **最近变化摘要**：2026-10-25 news_2：内容变化：+75 −5 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-922/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://t-automation.by/) | html | HTTP 200 | 2026-10-24T04:35:40Z | 21473 字符；首行：Территория Автоматизации Минск |
+| [home](https://t-automation.by/) | html | HTTP 200 | 2026-10-25T07:41:18Z | 21479 字符；首行：Территория Автоматизации Минск |
 | [sitemap](https://t-automation.by/sitemap.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 0 个 URL；最新 lastmod - |
-| [news_1](https://t-automation.by/news/) | html | HTTP 200 | 2026-10-24T04:35:40Z | 14749 字符；首行：Новости компании и наших вендоров \| Территория Автоматизации |
-| [news_2](https://t-automation.by/blog/) | html | HTTP 200 | 2026-10-24T04:35:40Z | 13731 字符；首行：Новости и обзоры продукции \| Территория Автоматизации |
+| [news_1](https://t-automation.by/news/) | html | HTTP 200 | 2026-10-25T07:41:18Z | 14749 字符；首行：Новости компании и наших вендоров \| Территория Автоматизации |
+| [news_2](https://t-automation.by/blog/) | html | HTTP 200 | 2026-10-25T07:41:18Z | 13731 字符；首行：Новости и обзоры продукции \| Территория Автоматизации |
 | [telegram](https://t.me/s/tautomation) | html | HTTP 200 | 2026-10-24T07:26:33Z | 12664 字符；首行：Территория Автоматизации – Telegram |
 
 - **人工定期看（登录墙，不自动抓）**：Facebook: https://www.facebook.com/AutomationTerritory/；Instagram: https://www.instagram.com/t.automation.by/
@@ -234,7 +234,7 @@ Alongside the Advantech EKI industrial switches in your catalogue, a value tier 
 One question: which EKI model do your automation customers order most, so we quote its equivalent?
 
 Best regards,
-Simon
+Alan
 Saga Telecom - sagatele.com
 ```
 

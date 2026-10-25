@@ -89,7 +89,7 @@
   "next_move": {
    "when": "2027-Q1（换人后）",
    "channel": "A 邮箱 → 具名 KP",
-   "action": "换收件人再发一封（第 75 批(ai) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）",
+   "action": "换收件人再发一封（第 75 批(ai) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
    "one_question": "Anek, for the media converters and switches sold under the Bismon label, we can be a second ODM source (gigabit/PoE MCs, DIN-rail 8-GE + 2 SFP managed, commercial 8-PoE L2+ on a Marvell platform) in your packaging from small lots, CE/RoHS — which SKU would you want sampled first? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
@@ -121,7 +121,7 @@
   "proof_gaps": [],
   "draft_en": {
    "subject": "Converters and switches under the Bismon label - a second ODM source, which SKU sampled first?",
-   "body": "Hi Anek,\n\nOver the past months you had a few product mails from us - most recently \"Managed PoE Switches\" on 25 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nOur product lines overlap closely, which is the point: for the converters and switches sold under the Bismon label, a second ODM source in your packaging from small lots, CE/RoHS: industrial Gigabit media converter, 1 x RJ45 + 1 x SFP slot, -40 to 75 C - model STI-110GE - $26.5 USD EXW with your logo (MOQ 1, 15-day validity); PoE version - STI-111GP - $30.1; DIN-rail 8 x Gigabit + 2 x SFP unmanaged - STI-280GE - $46; commercial 8 x PoE+ + 2 x SFP, L2+ managed, Marvell-based - STC-28DGGPM - $87.4.\n\nOne question: which SKU would you want sampled first - the one where your current source gives you the most trouble?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+   "body": "Hi Anek,\n\nOver the past months you had a few product mails from us - most recently \"Managed PoE Switches\" on 25 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nOur product lines overlap closely, which is the point: for the converters and switches sold under the Bismon label, a second ODM source in your packaging from small lots, CE/RoHS: industrial Gigabit media converter, 1 x RJ45 + 1 x SFP slot, -40 to 75 C - model STI-110GE - $26.5 USD EXW with your logo (MOQ 1, 15-day validity); PoE version - STI-111GP - $30.1; DIN-rail 8 x Gigabit + 2 x SFP unmanaged - STI-280GE - $46; commercial 8 x PoE+ + 2 x SFP, L2+ managed, Marvell-based - STC-28DGGPM - $87.4.\n\nOne question: which SKU would you want sampled first - the one where your current source gives you the most trouble?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
  }

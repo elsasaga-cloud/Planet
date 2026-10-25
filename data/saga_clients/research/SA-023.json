@@ -156,7 +156,7 @@
     },
     "next_move": {
       "when": "2026-11",
-      "channel": "E 或 A 邮箱 → ak@impulsecctv.com",
+      "channel": "E 邮箱 → ak@impulsecctv.com（Elsa 署名；若改从 A 箱发，署名换 Alan）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
       "action": "首封前知悉：Elsa 已 1:1 去信 4 轮（2026-03-02→2026-08-04，客户回过信（2026-01-08））（第 74 批(m)）；一封：sagatele.com + 地址 + 一句话",
       "one_question": "Our site is now live at sagatele.com — which Impulse PoE SKU is sourced from ONV today? Reference: STI-288DGGPM at $137.5 USD EXW (MOQ 1, 15-day validity)."
     },
@@ -235,7 +235,7 @@
     ],
     "draft_en": {
       "subject": "Company website and address — sagatele.com",
-      "body": "Hi Amol,\n\nIn January you asked for our website and address before going further. Both are now in place: sagatele.com (products, firmware notes, company background) and our address is on the Contact page.\n\nOne question, so I send the right thing: which Impulse PoE switch SKU do you source from ONV today? If you tell me the model, I will send the matching Marvell-based industrial unit (DIN-rail 8× PoE + 2× SFP, managed) with your label option and a sample price, nothing else.\n\nReference price: STI-288DGGPM (8× GE PoE + 2× 2.5G SFP, managed DIN-rail) at $137.5 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nBest regards,\nElsa\nSaga Telecom · sagatele.com"
+      "body": "Hi Amol,\n\nIn January you asked for our website and address before going further. Both are now in place: sagatele.com (products, firmware notes, company background) and our address is on the Contact page.\n\nOne question, so I send the right thing: which Impulse PoE switch SKU do you source from ONV today? If you tell me the model, I will send the matching Marvell-based industrial unit (DIN-rail 8× PoE + 2× SFP, managed) with your label option and a sample price, nothing else.\n\nReference price: STI-288DGGPM (8× GE PoE + 2× 2.5G SFP, managed DIN-rail) at $137.5 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nBest regards,\nElsa\nSaga Telecom - sagatele.com"
     },
     "as_of": "2026-10-24"
   }

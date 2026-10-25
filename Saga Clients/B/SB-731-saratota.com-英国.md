@@ -196,15 +196,15 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-24T07:26:33Z　|　**最近变化**：2026-10-24T07:26:33Z
-- **最近变化摘要**：2026-10-24 news_1：内容变化：+1 −1 行
+- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-25T07:41:18Z
+- **最近变化摘要**：2026-10-25 news_1：内容变化：+5 −5 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-731/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://www.saratota.com/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 14874 字符；首行：SARATOTA LTD |
-| [sitemap](https://www.saratota.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-24T07:26:33Z | 391 个 URL；最新 lastmod 2026-10-14T10:07:56 |
-| [news_1](https://www.saratota.com/News) | html | HTTP 200 | 2026-10-24T07:26:33Z | 4256 字符；首行：News |
+| [sitemap](https://www.saratota.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-25T07:41:18Z | 391 个 URL；最新 lastmod 2026-10-14T10:07:56 |
+| [news_1](https://www.saratota.com/News) | html | HTTP 200 | 2026-10-25T07:41:18Z | 4256 字符；首行：News |
 
 - **人工定期看（登录墙，不自动抓）**：Facebook: https://www.facebook.com/SaratotaLtd；X/Twitter: https://twitter.com/i/flow/login?redirect_after_login=%2FSaratotaLtd；X/Twitter: https://twitter.com/SaratotaLtd；Instagram: https://www.instagram.com/saratotaltd
 

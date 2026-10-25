@@ -95,7 +95,7 @@
   "next_move": {
    "when": "2027-Q1（换人后）",
    "channel": "A 邮箱 → 具名 KP",
-   "action": "换收件人再发一封（第 75 批(t) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用；具名 KP 见 channel））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（第 76 批(d) 2026-10-25：锚价文本与稿价对齐：OEM 30% 档 $62.2，实报 $60 留作下限）",
+   "action": "换收件人再发一封（第 75 批(t) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用；具名 KP 见 channel））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（第 76 批(d) 2026-10-25：锚价文本与稿价对齐：OEM 30% 档 $62.2，实报 $60 留作下限）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
    "one_question": "For the Nexxus-labelled industrial switches (ONV-built today) — like-for-like 2-SFP + 8-PoE DIN units, plus a Marvell managed version, under your label from small lots; send me the ONV part number and I'll quote it directly. Reference: STI-288GP at $60 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
@@ -127,7 +127,7 @@
   "proof_gaps": [],
   "draft_en": {
    "subject": "The Nexxus-labelled industrial switches - like-for-like, under your label, from small lots",
-   "body": "Hello Nexxus team,\n\nOver the past months you had a few product mails from us - most recently \"16 Port Industrial PoE Switch\" on 18 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nYour Nexxus-labelled industrial switches are ONV-built today. Like-for-like from us, under the Nexxus label from small lots, -40 to 75 C, FCC/CE/RoHS: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, unmanaged - model STI-288GP - $62.2 USD EXW with your logo (MOQ 1, 15-day validity); the same footprint L2+ managed with ring redundancy on a Marvell platform - STI-288DGGPM - $137.5. Logo on the unit is free; colour box from 200 sets.\n\nOne question: which ONV part number is your volume item - send it and I quote that one directly?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+   "body": "Hello Nexxus team,\n\nOver the past months you had a few product mails from us - most recently \"16 Port Industrial PoE Switch\" on 18 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nYour Nexxus-labelled industrial switches are ONV-built today. Like-for-like from us, under the Nexxus label from small lots, -40 to 75 C, FCC/CE/RoHS: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, unmanaged - model STI-288GP - $62.2 USD EXW with your logo (MOQ 1, 15-day validity); the same footprint L2+ managed with ring redundancy on a Marvell platform - STI-288DGGPM - $137.5. Logo on the unit is free; colour box from 200 sets.\n\nOne question: which ONV part number is your volume item - send it and I quote that one directly?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
  }

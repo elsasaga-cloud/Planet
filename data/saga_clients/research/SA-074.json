@@ -145,7 +145,7 @@
   "next_move": {
    "when": "不主动；他下次来信时一次性答复",
    "channel": "A 邮箱 → info@iotsistem.com（Berk）",
-   "action": "一句话：Marvell 线价格就是这样；若要 10/100 DIN 低价机，给 HRUI 线一张表（需 Simon 同意），否则礼貌收尾（第 75 批(s) 2026-10-25：回信模板已写 `draft_en`（只在他来信时用；HRUI 预算线不写价，Simon 同意换线后再报））",
+   "action": "一句话：Marvell 线价格就是这样；若要 10/100 DIN 低价机，给 HRUI 线一张表（需 Simon 同意），否则礼貌收尾（第 75 批(s) 2026-10-25：回信模板已写 `draft_en`（只在他来信时用；HRUI 预算线不写价，Simon 同意换线后再报））（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
    "one_question": "（若 Simon 同意换线）Would an 8-port 10/100 + 2×SC DIN unmanaged unit at about $48 EXW (STI-180FE, 8×FE + 1×SC/FX; the 2×SC variant to be confirmed) close this, or is PoE still required?"
   },
   "facts": [
@@ -387,7 +387,7 @@
   ],
   "draft_en": {
    "subject": "Reply template - use only when Berk writes next (no proactive send)",
-   "body": "Hi Berk,\n\nThanks for coming back. Straight answer, so you do not have to chase me again: the Marvell-based managed units are priced where you saw them - that line does not move, and for projects where the end customer always picks the cheapest 10/100 unit it is the wrong line, you were right about that.\n\nWhat I can do for those projects is a separate budget line: DIN-rail 10/100 copper + SC fibre, unmanaged, wide DC input, at a fraction of the managed price. If you want it, give me the exact port count (8, 16 or 24 copper), fibre type (multimode 2 km or single-mode 20 km) and whether PoE is still required, and I quote that line in one mail - no catalogue.\n\nOne question: is PoE still required, or is it plain 10/100 + fibre now?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+   "body": "Hi Berk,\n\nThanks for coming back. Straight answer, so you do not have to chase me again: the Marvell-based managed units are priced where you saw them - that line does not move, and for projects where the end customer always picks the cheapest 10/100 unit it is the wrong line, you were right about that.\n\nWhat I can do for those projects is a separate budget line: DIN-rail 10/100 copper + SC fibre, unmanaged, wide DC input, at a fraction of the managed price. If you want it, give me the exact port count (8, 16 or 24 copper), fibre type (multimode 2 km or single-mode 20 km) and whether PoE is still required, and I quote that line in one mail - no catalogue.\n\nOne question: is PoE still required, or is it plain 10/100 + fibre now?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
  }

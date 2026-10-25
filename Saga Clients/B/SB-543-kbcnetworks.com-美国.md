@@ -36,7 +36,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 自有标加固工业交换机线靠 ODM → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）、非管理 STI-288GP 作二供；MC 位 STI-110GE；机架/SFP/VC Saga 不供（Q-32）；换人再触锚价 STI-288GPM $85.5 EXW（主表档位（PDF 上限 $88；SA-026 2025-07 实报 $72 为分销量价）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-08-06 $300（48 Port PoE Managed Switch）、2025-09-30 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：David, for the rugged industrial switch line in the KBC range, we can be a second ODM source (DIN-rail 8-PoE + 2 SFP managed on Marvell L2+, or unmanaged, −40~75 °C) from small lots with FCC/CE/RoHS reports — which model would you consider dual-sourcing first? Reference: STI-288GPM at $85.5 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 首封前知悉：Elsa 仅 2025-02-25 单发过 1 封「Mini Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(v) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 首封前知悉：Elsa 仅 2025-02-25 单发过 1 封「Mini Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(v) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -47,7 +47,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：自有标加固工业交换机线靠 ODM → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）、非管理 STI-288GP 作二供；MC 位 STI-110GE；机架/SFP/VC Saga 不供（Q-32）
 - **断点 / 为什么停在这里**：成熟品牌（移动监控/ITS/公用事业客户多）：导入需工程验证；公用事业/交通项目按单守界
 - **Saga 现在该推什么**：P1 **STI-288GPM**（30% 档，换人再触锚价 STI-288GPM $85.5 EXW（主表档位（PDF 上限 $88；SA-026 2025-07 实报 $72 为分销量价）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-08-06 $300（48 Port PoE Managed Switch）、2025-09-30 $280（10G Enterprise SFP Switch））——自有标加固工业交换机线靠 ODM → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）、非管理 STI-288GP 作二供；MC 位 STI-110GE；机架/SFP/VC Saga 不供（Q-32）
-- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　首封前知悉：Elsa 仅 2025-02-25 单发过 1 封「Mini Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(v) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　首封前知悉：Elsa 仅 2025-02-25 单发过 1 封「Mini Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(v) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
   - 第一问（只问一个）：David, for the rugged industrial switch line in the KBC range, we can be a second ODM source (DIN-rail 8-PoE + 2 SFP managed on Marvell L2+, or unmanaged, −40~75 °C) from small lots with FCC/CE/RoHS reports — which model would you consider dual-sourcing first? Reference: STI-288GPM at $85.5 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -183,15 +183,15 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-24T07:26:33Z　|　**最近变化**：2026-10-24T07:26:33Z
-- **最近变化摘要**：2026-10-24 news_2：内容变化：+4 −4 行
+- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-25T07:41:18Z
+- **最近变化摘要**：2026-10-25 news_2：内容变化：+4 −4 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-543/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://kbcnetworks.com/) | html | HTTP 200 | 2026-10-24T07:26:33Z | 12712 字符；首行：KBC Networks - KBC Networks - Home |
-| [news_1](https://kbcnetworks.com/news-events/blog) | html | HTTP 200 | 2026-10-24T07:26:33Z | 16730 字符；首行：KBC Networks - BLOG |
-| [news_2](https://kbcnetworks.com/news-events/events) | html | HTTP 200 | 2026-10-24T07:26:33Z | 9337 字符；首行：KBC Networks - EVENTS |
+| [home](https://kbcnetworks.com/) | html | HTTP 200 | 2026-10-25T07:41:18Z | 12713 字符；首行：KBC Networks - KBC Networks - Home |
+| [news_1](https://kbcnetworks.com/news-events/blog) | html | HTTP 200 | 2026-10-25T07:41:18Z | 16724 字符；首行：KBC Networks - BLOG |
+| [news_2](https://kbcnetworks.com/news-events/events) | html | HTTP 200 | 2026-10-25T07:41:18Z | 9339 字符；首行：KBC Networks - EVENTS |
 
 - **人工定期看（登录墙，不自动抓）**：Facebook: https://www.facebook.com/kbcnetworks；X/Twitter: https://www.twitter.com/kbcnetworks；LinkedIn: https://www.linkedin.com/company/kbc-networks；Instagram: https://www.instagram.com/kbcnetworks/
 
@@ -290,7 +290,7 @@ For the rugged industrial switch line in the KBC range, a second ODM source from
 One question: which model would you consider dual-sourcing first - the managed 8-port or the unmanaged?
 
 Best regards,
-Simon
+Alan
 Saga Telecom - sagatele.com
 ```
 

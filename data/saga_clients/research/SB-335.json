@@ -178,7 +178,7 @@
   "next_move": {
    "when": "2027-Q1",
    "channel": "A 邮箱 → george@dc.ge",
-   "action": "一封只讲 CENTEC 汇聚替代 Cisco 的信（第 75 批(ag) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；2024-11「small 8 port high poe」按 ㉞ 先答（2BT = 2×bt + 6×at），CENTEC STH-2C24XF-HSI $1,500 一行带过）",
+   "action": "一封只讲 CENTEC 汇聚替代 Cisco 的信（第 75 批(ag) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；2024-11「small 8 port high poe」按 ㉞ 先答（2BT = 2×bt + 6×at），CENTEC STH-2C24XF-HSI $1,500 一行带过）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
    "one_question": "George — for the enterprise/government core & aggregation you deploy on Cisco/Juniper, would a CENTEC-based L3 (VXLAN/EVPN) at roughly half the TCO be worth one lab unit?"
   },
   "facts": [
@@ -236,7 +236,7 @@
   ],
   "draft_en": {
    "subject": "Your \"small 8-port high PoE\" question, answered - and one line on aggregation",
-   "body": "Hi George,\n\nYou bought two pairs of Fast Ethernet PoE samples from us in 2023, and in November 2024 you asked for a small 8-port high-power PoE unit; what you had from us since were general product mails. The answer: DIN-rail 8 x Gigabit PoE, 2 x 802.3bt (up to 90 W) + 6 x 802.3at, 2 x SFP uplinks, L2+ managed with ring redundancy, Marvell-based, -40 to 75 C - model STI-288DGGPM-2BT - $154 USD EXW (MOQ 1, 15-day validity). I know your current supplier is cheaper on the simple units; this one is for the sites where 90 W and management matter.\n\nOne line on the enterprise and government projects: for aggregation where Cisco is specified by habit rather than by feature, a 24 x 10G SFP+ + 2 x 100G L3 unit is $1,500 - sent against a real port plan, not as a list.\n\nOne question: for the 8-port high-power unit, is it one site or a standard item in your CCTV kits?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+   "body": "Hi George,\n\nYou bought two pairs of Fast Ethernet PoE samples from us in 2023, and in November 2024 you asked for a small 8-port high-power PoE unit; what you had from us since were general product mails. The answer: DIN-rail 8 x Gigabit PoE, 2 x 802.3bt (up to 90 W) + 6 x 802.3at, 2 x SFP uplinks, L2+ managed with ring redundancy, Marvell-based, -40 to 75 C - model STI-288DGGPM-2BT - $154 USD EXW (MOQ 1, 15-day validity). I know your current supplier is cheaper on the simple units; this one is for the sites where 90 W and management matter.\n\nOne line on the enterprise and government projects: for aggregation where Cisco is specified by habit rather than by feature, a 24 x 10G SFP+ + 2 x 100G L3 unit is $1,500 - sent against a real port plan, not as a list.\n\nOne question: for the 8-port high-power unit, is it one site or a standard item in your CCTV kits?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
  }

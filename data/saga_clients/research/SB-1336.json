@@ -106,7 +106,7 @@
   "proof_gaps": [],
   "draft_en": {
    "subject": "Re: 24 Port PoE Managed Switch — one straight answer on API",
-   "body": "Hi Christopher,\n\nOne straight answer I owe you from my Oct-4 mail: integration today is SNMP v2/v3 (standard + private MIB), scriptable SSH/CLI, and MQTT publish of port/PoE status from firmware 7.5 — there is no REST API or cloud controller. OEM customization (logo, model name, GUI, default config, packaging) is standard.\n\nWhich controller or NMS would you pair it with? With that I can confirm exactly what it can poll and set, and we can ship the 2 evaluation units ($180 USD EXW each, credited against a first order).\n\nBest regards,\nSimon"
+   "body": "Hi Christopher,\n\nOne straight answer I owe you from my Oct-4 mail: integration today is SNMP v2/v3 (standard + private MIB), scriptable SSH/CLI, and MQTT publish of port/PoE status from firmware 7.5 — there is no REST API or cloud controller. OEM customization (logo, model name, GUI, default config, packaging) is standard.\n\nWhich controller or NMS would you pair it with? With that I can confirm exactly what it can poll and set, and we can ship the 2 evaluation units ($180 USD EXW each, credited against a first order).\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
  }

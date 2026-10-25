@@ -38,7 +38,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STI-288DGGPM — 工程 25% 档：STI-288DGGPM（DIN 8 GE PoE+ 2 SFP L2+ ERPS，$137.5）作自动化现场环网；非 PoE STI-280GM（$71.0）；楼宇 PoE STC-424DGGPM-280W（$140.1）；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-09-01 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-01；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）（㉕ 封顶：STI-288DGGPM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25）
 - **第一问（只问一个）**：Following up on the switch brochure you picked up at the fair: for your electrical/automation projects, a DIN-rail 8× GbE PoE+ + 2× SFP L2+ switch with ERPS ring, −40/+75 °C, at $137.5 EXW — is Daniel Šuškevič still the right contact for low-current projects, or should I write to a colleague?
 - **最大未知**：年走量与现供应商
-- **下一步**：待 Simon 排期（首封） A 邮箱 → info@energus.eu（Daniel Šuškevič） 首封前知悉：Elsa 已 BCC 群发触达（最近 2026-09-01「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 75 批(j) 2026-10-25：英文信稿已写 `draft_en`；钩子「ERPS」改「ring redundancy」（口径））
+- **下一步**：待 Simon 排期（首封） A 邮箱 → info@energus.eu（Daniel Šuškevič） 首封前知悉：Elsa 已 BCC 群发触达（最近 2026-09-01「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 75 批(j) 2026-10-25：英文信稿已写 `draft_en`；钩子「ERPS」改「ring redundancy」（口径））（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-25）
 
@@ -49,7 +49,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：工程 25% 档：STI-288DGGPM（DIN 8 GE PoE+ 2 SFP L2+ ERPS，$137.5）作自动化现场环网；非 PoE STI-280GM（$71.0）；楼宇 PoE STC-424DGGPM-280W（$140.1）
 - **断点 / 为什么停在这里**：KP 可能已离开（Smartion）；小国不主动开发；大型总包偏品牌（Moxa/Hirschmann/Phoenix）；无后续跟进
 - **Saga 现在该推什么**：P1 **STI-288DGGPM**（25% 档，按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-09-01 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-01；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）（㉕ 封顶：STI-288DGGPM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25））——工程 25% 档：STI-288DGGPM（DIN 8 GE PoE+ 2 SFP L2+ ERPS，$137.5）作自动化现场环网；非 PoE STI-280GM（$71.0）；楼宇 PoE STC-424DGGPM-280W（$140.1）
-- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → info@energus.eu（Daniel Šuškevič）　首封前知悉：Elsa 已 BCC 群发触达（最近 2026-09-01「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 75 批(j) 2026-10-25：英文信稿已写 `draft_en`；钩子「ERPS」改「ring redundancy」（口径））
+- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → info@energus.eu（Daniel Šuškevič）　首封前知悉：Elsa 已 BCC 群发触达（最近 2026-09-01「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 75 批(j) 2026-10-25：英文信稿已写 `draft_en`；钩子「ERPS」改「ring redundancy」（口径））（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
   - 第一问（只问一个）：Following up on the switch brochure you picked up at the fair: for your electrical/automation projects, a DIN-rail 8× GbE PoE+ + 2× SFP L2+ switch with ERPS ring, −40/+75 °C, at $137.5 EXW — is Daniel Šuškevič still the right contact for low-current projects, or should I write to a colleague?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -140,7 +140,7 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-24T07:26:33Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-586/`；本节随档案重渲染刷新，实时看日志。
 
@@ -237,7 +237,7 @@ For your electrical and automation projects: DIN-rail 8 x Gigabit PoE+ + 2 x SFP
 One question: are you still the right contact for low-current projects at Energus, or should I write to a colleague?
 
 Best regards,
-Simon
+Alan
 Saga Telecom - sagatele.com
 ```
 

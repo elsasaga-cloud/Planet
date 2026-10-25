@@ -36,7 +36,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-054GP — 远端站点配套 PoE（现 Elink 配件）→ 工业 4 PoE + 1 GE STI-054GP（$33.8 @30%）/ 4 PoE + 1 SFP STI-154GP（$40.8）贴 Ground Control 标；PoE 注入器类配件 Saga 不供（Q-32）。已打开的主题（1/25 封有打开记录）：「Industrial PoE Switch」(2025-08-21) → 读者兴趣偏「工业」；与 P1 同类，继续；换人再触锚价 STI-054GP $32.5 EXW（最近实报 $32.5（SB-093 $33）（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-10-22 $65（10G Media Converter）；群发里他已看到的价（续）：2026-08-07 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-06-10 $300（48 Port PoE Managed Switch）、2025-07-07 $240（24 Port Fiber Switch）、2025-10-13 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Scotty, for the PoE feeding cameras and sensors next to your satellite terminals at remote sites, we can supply compact industrial 4-PoE + 1 uplink switches (−40~75 °C, 12–57 V, CE/RoHS/UKCA) under your label from small lots — which input voltage do your remote installations provide? Reference: STI-054GP at $32.5 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 首封前知悉：Elsa 仅 2025-02-24 单发过 1 封「8 Port Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(y) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 首封前知悉：Elsa 仅 2025-02-24 单发过 1 封「8 Port Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(y) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -47,7 +47,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：远端站点配套 PoE（现 Elink 配件）→ 工业 4 PoE + 1 GE STI-054GP（$33.8 @30%）/ 4 PoE + 1 SFP STI-154GP（$40.8）贴 Ground Control 标；PoE 注入器类配件 Saga 不供（Q-32）
 - **断点 / 为什么停在这里**：PoE 配件（注入器/分离器）Saga 不供（Q-32）；交换机为卫星方案配套（量小）；15 次无回复 → 改向 Solution Architect 具名首触
 - **Saga 现在该推什么**：P1 **STI-054GP**（30% 档，换人再触锚价 STI-054GP $32.5 EXW（最近实报 $32.5（SB-093 $33）（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-10-22 $65（10G Media Converter）；群发里他已看到的价（续）：2026-08-07 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-06-10 $300（48 Port PoE Managed Switch）、2025-07-07 $240（24 Port Fiber Switch）、2025-10-13 $280（10G Enterprise SFP Switch））——远端站点配套 PoE（现 Elink 配件）→ 工业 4 PoE + 1 GE STI-054GP（$33.8 @30%）/ 4 PoE + 1 SFP STI-154GP（$40.8）贴 Ground Control 标；PoE 注入器类配件 Saga 不供（Q-32）。已打开的主题（1/25 封有打开记录）：「Industrial PoE Switch」(2025-08-21) → 读者兴趣偏「工业」；与 P1 同类，继续
-- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　首封前知悉：Elsa 仅 2025-02-24 单发过 1 封「8 Port Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(y) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　首封前知悉：Elsa 仅 2025-02-24 单发过 1 封「8 Port Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(y) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
   - 第一问（只问一个）：Scotty, for the PoE feeding cameras and sensors next to your satellite terminals at remote sites, we can supply compact industrial 4-PoE + 1 uplink switches (−40~75 °C, 12–57 V, CE/RoHS/UKCA) under your label from small lots — which input voltage do your remote installations provide? Reference: STI-054GP at $32.5 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -189,7 +189,7 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-24T07:26:33Z　|　**最近变化**：2026-10-24T07:26:33Z
+- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-24T07:26:33Z
 - **最近变化摘要**：2026-10-24 youtube：恢复可达（上轮 YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过））
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-836/`；本节随档案重渲染刷新，实时看日志。
 
@@ -293,7 +293,7 @@ For the PoE feeding cameras and sensors next to your satellite terminals at remo
 One question: which input voltage do your remote installations provide - 12/24 V battery, or 48 V - that decides whether a DC-DC goes in front?
 
 Best regards,
-Simon
+Alan
 Saga Telecom - sagatele.com
 ```
 

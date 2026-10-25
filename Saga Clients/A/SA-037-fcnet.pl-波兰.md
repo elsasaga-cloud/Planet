@@ -38,7 +38,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424DGGPM-280W（管理型 PoE，差异品） — 换品类问一次。已打开的主题（5/24 封有打开记录）：「Re: 10G Media Converter」(2025-04-18)、「Re: 10G Media Converter」(2025-04-22)、「10G Enterprise SFP Switch」(2025-10-10)、「Marvell Industrial Alert System」(2025-12-31) → 读者兴趣偏「10G 汇聚/L3」；当前 P1 属「PoE 接入」，下一封按「10G 汇聚/L3」给，不按 P1；换人再触锚价 STC-424DGGPM-280W $134.5 EXW（主表档位（PDF 上限 $165；SA-145 2025-02 实报 $150）；第 72 批 2026-10-24）；按 20% 分销档；历史报价（邮件原话，老汇率）：2025-04-18 65usd；群发里他已看到的价（续）：2026-08-26 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-04-18 $65（10G Media Converter）、2025-06-19 $300（48 Port PoE Managed Switch）、2025-10-10 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：For managed PoE switches (not MC), who is your current source and what is the gap you would switch for? Reference: STC-424DGGPM-280W at $134.5 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
-- **下一步**：2027-Q1 A 邮箱 → info@fcnet.pl 一句话问管理型 PoE 的来源（第 75 批(p) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）
+- **下一步**：2027-Q1 A 邮箱 → info@fcnet.pl 一句话问管理型 PoE 的来源（第 75 批(p) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -49,7 +49,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：10G MC（价格导向）。
 - **断点 / 为什么停在这里**：MC 是最同质化的品类，Marvell 溢价在这里没有故事；筛子正常工作。
 - **Saga 现在该推什么**：P1 **STC-424DGGPM-280W（管理型 PoE，差异品）**（20% 档，换人再触锚价 STC-424DGGPM-280W $134.5 EXW（主表档位（PDF 上限 $165；SA-145 2025-02 实报 $150）；第 72 批 2026-10-24）；按 20% 分销档；历史报价（邮件原话，老汇率）：2025-04-18 65usd；群发里他已看到的价（续）：2026-08-26 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-04-18 $65（10G Media Converter）、2025-06-19 $300（48 Port PoE Managed Switch）、2025-10-10 $280（10G Enterprise SFP Switch））——换品类问一次。已打开的主题（5/24 封有打开记录）：「Re: 10G Media Converter」(2025-04-18)、「Re: 10G Media Converter」(2025-04-22)、「10G Enterprise SFP Switch」(2025-10-10)、「Marvell Industrial Alert System」(2025-12-31) → 读者兴趣偏「10G 汇聚/L3」；当前 P1 属「PoE 接入」，下一封按「10G 汇聚/L3」给，不按 P1
-- **下一步（具体）**：2027-Q1　A 邮箱 → info@fcnet.pl　一句话问管理型 PoE 的来源（第 75 批(p) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）
+- **下一步（具体）**：2027-Q1　A 邮箱 → info@fcnet.pl　一句话问管理型 PoE 的来源（第 75 批(p) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
   - 第一问（只问一个）：For managed PoE switches (not MC), who is your current source and what is the gap you would switch for? Reference: STC-424DGGPM-280W at $134.5 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -191,7 +191,7 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：A 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-24T07:26:33Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：A 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-037/`；本节随档案重渲染刷新，实时看日志。
 
@@ -294,7 +294,7 @@ Where we are usually worth a look is the managed PoE switch against the TL-SG242
 One question: where do your managed PoE switches come from today - a brand, or an own-label source?
 
 Best regards,
-Simon
+Alan
 Saga Telecom - sagatele.com
 ```
 

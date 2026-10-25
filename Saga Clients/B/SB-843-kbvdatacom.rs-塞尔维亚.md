@@ -35,7 +35,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-280GE — bypass 模块 Saga 不供（整机 bypass 仅 SmartByte LT-IS6312GP-4GX8GT-FBP $194.3 @25%，注明）→ 常规工业 8 GE + 2 SFP 管理 STI-280GE（$48.6）、8 PoE STI-288GPM（$82.2）；首触锚价 STI-280GE $46 EXW（Saga 2025 Realtek 工业线对外价 $46（非管理工业线不用档位价 ㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Dušan, following your bypass-module order: for the fibre and security networks you build, we also supply Marvell-based DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP managed switches (and an industrial switch with hardware bypass) from single units, CE/RoHS, EXW USD — which configuration does your next project need? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：具体需求型号（表内兴趣列为空）
-- **下一步**：待 Simon 排期（首封） A 邮箱 → dponjavic@gmail.com（Dušan Ponjavić） 首封：按 email_hook 一问（第 75 批(k) 2026-10-25：英文信稿已写 `draft_en`；整机 bypass 为 SmartByte LT-IS6312GP-4GX8GT-FBP（无 Saga 型号，信稿只描述不写型号））
+- **下一步**：待 Simon 排期（首封） A 邮箱 → dponjavic@gmail.com（Dušan Ponjavić） 首封：按 email_hook 一问（第 75 批(k) 2026-10-25：英文信稿已写 `draft_en`；整机 bypass 为 SmartByte LT-IS6312GP-4GX8GT-FBP（无 Saga 型号，信稿只描述不写型号））（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -46,7 +46,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：bypass 模块 Saga 不供（整机 bypass 仅 SmartByte LT-IS6312GP-4GX8GT-FBP $194.3 @25%，注明）→ 常规工业 8 GE + 2 SFP 管理 STI-280GE（$48.6）、8 PoE STI-288GPM（$82.2）
 - **断点 / 为什么停在这里**：小国（塞尔维亚，非主动开拓区）；联系邮箱为 gmail 免费邮箱（实体待核）；bypass 模块品类 Saga 不供
 - **Saga 现在该推什么**：P1 **STI-280GE**（25% 档，首触锚价 STI-280GE $46 EXW（Saga 2025 Realtek 工业线对外价 $46（非管理工业线不用档位价 ㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit））——bypass 模块 Saga 不供（整机 bypass 仅 SmartByte LT-IS6312GP-4GX8GT-FBP $194.3 @25%，注明）→ 常规工业 8 GE + 2 SFP 管理 STI-280GE（$48.6）、8 PoE STI-288GPM（$82.2）
-- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → dponjavic@gmail.com（Dušan Ponjavić）　首封：按 email_hook 一问（第 75 批(k) 2026-10-25：英文信稿已写 `draft_en`；整机 bypass 为 SmartByte LT-IS6312GP-4GX8GT-FBP（无 Saga 型号，信稿只描述不写型号））
+- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → dponjavic@gmail.com（Dušan Ponjavić）　首封：按 email_hook 一问（第 75 批(k) 2026-10-25：英文信稿已写 `draft_en`；整机 bypass 为 SmartByte LT-IS6312GP-4GX8GT-FBP（无 Saga 型号，信稿只描述不写型号））（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
   - 第一问（只问一个）：Dušan, following your bypass-module order: for the fibre and security networks you build, we also supply Marvell-based DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP managed switches (and an industrial switch with hardware bypass) from single units, CE/RoHS, EXW USD — which configuration does your next project need? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -128,7 +128,7 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-24T07:26:33Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-843/`；本节随档案重渲染刷新，实时看日志。
 
@@ -227,7 +227,7 @@ Thank you for the bypass-module order through Alibaba. For the fibre and securit
 One question: which configuration does your next project need - and is the bypass needed on the switch itself, or as a separate module as before?
 
 Best regards,
-Simon
+Alan
 Saga Telecom - sagatele.com
 ```
 

@@ -36,7 +36,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 自有 SW05M（5 口）/ SW26M（24 PoE + 2）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）/ 24 口 STC-424DGGPM-280W（$145.7）贴 Eagle Eye 标；5 口位 HRUI STC-114GP；换人再触锚价 STC-28DGGPM $87.4 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-08-05 $300（48 Port PoE Managed Switch）、2025-09-29 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Jaime, for the Eagle Eye-branded PoE switches (SW05M / SW26M) that ship with your Bridges and cameras, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE + 4 SFP) from small lots in your packaging, FCC/CE/RoHS — which size do your partners order most? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封（第 75 批(t) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用；具名 KP 见 channel））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封（第 75 批(t) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用；具名 KP 见 channel））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -47,7 +47,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：自有 SW05M（5 口）/ SW26M（24 PoE + 2）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）/ 24 口 STC-424DGGPM-280W（$145.7）贴 Eagle Eye 标；5 口位 HRUI STC-114GP
 - **断点 / 为什么停在这里**：体量较大（全球云 VMS 厂商）：交换机为周边品类，供应链既定
 - **Saga 现在该推什么**：P1 **STC-28DGGPM**（30% 档，换人再触锚价 STC-28DGGPM $87.4 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-08-05 $300（48 Port PoE Managed Switch）、2025-09-29 $280（10G Enterprise SFP Switch））——自有 SW05M（5 口）/ SW26M（24 PoE + 2）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）/ 24 口 STC-424DGGPM-280W（$145.7）贴 Eagle Eye 标；5 口位 HRUI STC-114GP
-- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封（第 75 批(t) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用；具名 KP 见 channel））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封（第 75 批(t) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用；具名 KP 见 channel））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
   - 第一问（只问一个）：Jaime, for the Eagle Eye-branded PoE switches (SW05M / SW26M) that ship with your Bridges and cameras, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE + 4 SFP) from small lots in your packaging, FCC/CE/RoHS — which size do your partners order most? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -189,15 +189,15 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-24T07:26:33Z　|　**最近变化**：2026-10-24T07:26:33Z
-- **最近变化摘要**：2026-10-24 youtube：恢复可达（上轮 YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过））
+- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-25T07:41:18Z
+- **最近变化摘要**：2026-10-25 news_2：内容变化：+1 −1 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-145/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://www.een.com/) | html | HTTP 200 | 2026-10-24T07:26:33Z | 11459 字符；首行：AI Video Surveillance & Proactive security \| Eagle Eye Networks |
-| [news_1](https://www.een.com/blog/) | html | HTTP 200 | 2026-10-24T07:26:33Z | 7237 字符；首行：Video Surveillance & AI Analytics Blog - Eagle Eye Networks |
-| [news_2](https://www.een.com/blog-categories/) | html | HTTP 200 | 2026-10-24T07:26:33Z | 7237 字符；首行：Video Surveillance & AI Analytics Blog - Eagle Eye Networks |
+| [home](https://www.een.com/) | html | HTTP 200 | 2026-10-25T07:41:18Z | 11086 字符；首行：AI Video Surveillance & Proactive security \| Eagle Eye Networks |
+| [news_1](https://www.een.com/blog/) | html | HTTP 200 | 2026-10-25T07:41:18Z | 7237 字符；首行：Video Surveillance & AI Analytics Blog - Eagle Eye Networks |
+| [news_2](https://www.een.com/blog-categories/) | html | HTTP 200 | 2026-10-25T07:41:18Z | 7237 字符；首行：Video Surveillance & AI Analytics Blog - Eagle Eye Networks |
 | [youtube](https://www.youtube.com/user/eagleeyenetworks) | youtube_handle | HTTP 200 | 2026-10-24T07:26:33Z | 15 条；最新：2026-02-02T22:40:56+00:00 AN051 Network Topology and Installation Best Practices |
 | [feed_auto](https://www.een.com/feed/) | rss | HTTP 200 | 2026-10-24T04:35:40Z | 10 条；最新：Thu, 05 Mar 2026 19:29:07 Here’s how a Hawaii automotive dealership group increase |
 
@@ -297,7 +297,7 @@ For the Eagle Eye-branded PoE switches (SW05M / SW26M) that ship with your Bridg
 One question: which size do your partners order most with the Bridges - the small one or the 24-port?
 
 Best regards,
-Simon
+Alan
 Saga Telecom - sagatele.com
 ```
 

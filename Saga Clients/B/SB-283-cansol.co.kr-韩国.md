@@ -36,7 +36,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 自有 Monad 标工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）；bypass 型 → SmartByte LT-IS6312GP-4GX8GT-FBP（4 SFP + 8 GE 光旁路，$202.1 @30%，注明）。已打开的主题（1/25 封有打开记录）：「Industrial PoE Switch」(2026-04-24) → 读者兴趣偏「工业」；与 P1 同类，继续；换人再触锚价 STI-288GPM $85.5 EXW（主表档位（PDF 上限 $88；SA-026 2025-07 实报 $72 为分销量价）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-27 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-07-23 $300（48 Port PoE Managed Switch）、2025-09-30 $280（10G Enterprise SFP Switch）、2026-06-10 $16000（32 Port 400GB DC Switch）
 - **第一问（只问一个）**：Mr. Lee, for the Monad-branded industrial switches, we can supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units and a 4-SFP + 8-GE model with optical bypass in your housing from small lots (−40~75 °C, CE/RoHS; KC by your side) — is bypass still a requirement in your current projects? Reference: STI-288GPM at $85.5 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封（第 75 批(ae) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用；KC stays on your side）；bypass 款无 Saga 型号）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封（第 75 批(ae) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用；KC stays on your side）；bypass 款无 Saga 型号）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -47,7 +47,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：自有 Monad 标工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）；bypass 型 → SmartByte LT-IS6312GP-4GX8GT-FBP（4 SFP + 8 GE 光旁路，$202.1 @30%，注明）
 - **断点 / 为什么停在这里**：官网 404（站点待核，联系信息以邮件为准）；非主攻区（T5，韩国）
 - **Saga 现在该推什么**：P1 **STI-288GPM**（30% 档，换人再触锚价 STI-288GPM $85.5 EXW（主表档位（PDF 上限 $88；SA-026 2025-07 实报 $72 为分销量价）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-27 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-07-23 $300（48 Port PoE Managed Switch）、2025-09-30 $280（10G Enterprise SFP Switch）、2026-06-10 $16000（32 Port 400GB DC Switch））——自有 Monad 标工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）；bypass 型 → SmartByte LT-IS6312GP-4GX8GT-FBP（4 SFP + 8 GE 光旁路，$202.1 @30%，注明）。已打开的主题（1/25 封有打开记录）：「Industrial PoE Switch」(2026-04-24) → 读者兴趣偏「工业」；与 P1 同类，继续
-- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封（第 75 批(ae) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用；KC stays on your side）；bypass 款无 Saga 型号）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封（第 75 批(ae) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用；KC stays on your side）；bypass 款无 Saga 型号）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
   - 第一问（只问一个）：Mr. Lee, for the Monad-branded industrial switches, we can supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units and a 4-SFP + 8-GE model with optical bypass in your housing from small lots (−40~75 °C, CE/RoHS; KC by your side) — is bypass still a requirement in your current projects? Reference: STI-288GPM at $85.5 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -167,7 +167,7 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-24T07:26:33Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-283/`；本节随档案重渲染刷新，实时看日志。
 
@@ -264,7 +264,7 @@ For the Monad-branded industrial switches, in your housing from small lots, -40 
 One question: is bypass still a requirement in your current projects, or has it dropped out of the spec?
 
 Best regards,
-Simon
+Alan
 Saga Telecom - sagatele.com
 ```
 

@@ -38,7 +38,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM — 已打开的主题（2/21 封有打开记录）：「2.5G Ethernet Switch」(2024-07-08)、「8 Port Industrial PoE Switch」(2025-02-21) → 读者兴趣偏「2.5G」；与 P1 同类，继续 最近一封去信是 2026-09-21 A 邮箱模板（在本档最后一条事实之后）——下一封必须回到真人线程、不再叠模板｜已发资料（勿重发）：Product Link_2026Q2(2026-03-03)、Product Link_2026Q3(2026-07-17)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）；再触锚价 STI-288DGGPM $137.5（PDF 上限；30% 档 151.6 超；第 72 批 2026-10-24）；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-02 $65（10g media converter）；群发里他已看到的价（续）：2026-08-21 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-08-08 $300（48 Port PoE Managed Switch）、2025-10-17 $280（10G Enterprise SFP Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-05-11 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2026-05-11；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-08-04 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-04；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：Our site is now live at sagatele.com — which Impulse PoE SKU is sourced from ONV today? Reference: STI-288DGGPM at $137.5 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：2026-11 E 或 A 邮箱 → ak@impulsecctv.com 首封前知悉：Elsa 已 1:1 去信 4 轮（2026-03-02→2026-08-04，客户回过信（2026-01-08））（第 74 批(m)）；一封：sagatele.com + 地址 + 一句话
+- **下一步**：2026-11 E 邮箱 → ak@impulsecctv.com（Elsa 署名；若改从 A 箱发，署名换 Alan）（全量审计 2026-10-25 U57：署名对齐渠道邮箱） 首封前知悉：Elsa 已 1:1 去信 4 轮（2026-03-02→2026-08-04，客户回过信（2026-01-08））（第 74 批(m)）；一封：sagatele.com + 地址 + 一句话
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -49,7 +49,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：自有品牌 PoE 交换机（对位其在用 ONV——用户表）。
 - **断点 / 为什么停在这里**：可信度门槛；现有网站可补。
 - **Saga 现在该推什么**：P1 **STI-288DGGPM**（30% 档，再触锚价 STI-288DGGPM $137.5（PDF 上限；30% 档 151.6 超；第 72 批 2026-10-24）；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-02 $65（10g media converter）；群发里他已看到的价（续）：2026-08-21 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-08-08 $300（48 Port PoE Managed Switch）、2025-10-17 $280（10G Enterprise SFP Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-05-11 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2026-05-11；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-08-04 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-04；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170））——已打开的主题（2/21 封有打开记录）：「2.5G Ethernet Switch」(2024-07-08)、「8 Port Industrial PoE Switch」(2025-02-21) → 读者兴趣偏「2.5G」；与 P1 同类，继续 最近一封去信是 2026-09-21 A 邮箱模板（在本档最后一条事实之后）——下一封必须回到真人线程、不再叠模板｜已发资料（勿重发）：Product Link_2026Q2(2026-03-03)、Product Link_2026Q3(2026-07-17)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）
-- **下一步（具体）**：2026-11　E 或 A 邮箱 → ak@impulsecctv.com　首封前知悉：Elsa 已 1:1 去信 4 轮（2026-03-02→2026-08-04，客户回过信（2026-01-08））（第 74 批(m)）；一封：sagatele.com + 地址 + 一句话
+- **下一步（具体）**：2026-11　E 邮箱 → ak@impulsecctv.com（Elsa 署名；若改从 A 箱发，署名换 Alan）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）　首封前知悉：Elsa 已 1:1 去信 4 轮（2026-03-02→2026-08-04，客户回过信（2026-01-08））（第 74 批(m)）；一封：sagatele.com + 地址 + 一句话
   - 第一问（只问一个）：Our site is now live at sagatele.com — which Impulse PoE SKU is sourced from ONV today? Reference: STI-288DGGPM at $137.5 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -202,13 +202,13 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：A 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-24T07:26:33Z　|　**最近变化**：2026-10-24T07:26:33Z
-- **最近变化摘要**：2026-10-24 home：内容变化：+15 −15 行
+- **监控层**：A 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-25T07:41:18Z
+- **最近变化摘要**：2026-10-25 home：内容变化：+16 −15 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-023/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://impulsecctv.com/) | html | HTTP 200 | 2026-10-24T07:26:33Z | 8262 字符；首行：Impulse CCTV \| Industrial Grade PoE Network Switches |
+| [home](https://impulsecctv.com/) | html | HTTP 200 | 2026-10-25T07:41:18Z | 8417 字符；首行：Impulse CCTV \| Industrial Grade PoE Network Switches |
 | [sitemap](https://impulsecctv.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 0 个 URL；最新 lastmod - |
 | [news_1](https://impulsecctv.com/category/technologies/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 8367 字符；首行：Technologies \| Impulse |
 | [news_2](https://impulsecctv.com/project-inquiry/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 4971 字符；首行：CCTV Camera Project Inquiry \| Impulse CCTV - Make in India |
@@ -311,7 +311,7 @@ Reference price: STI-288DGGPM (8× GE PoE + 2× 2.5G SFP, managed DIN-rail) at $
 
 Best regards,
 Elsa
-Saga Telecom · sagatele.com
+Saga Telecom - sagatele.com
 ```
 
 > 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。

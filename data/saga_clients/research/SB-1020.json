@@ -91,7 +91,7 @@
   "next_move": {
    "when": "2026-11（先找地址）",
    "channel": "A 邮箱 → 官网核到的有效邮箱（inquiries@ 已失效）",
-   "action": "核 avizio.pl 当前联系邮箱 → 首封用研究档一句话；核不到就不发（第 75 批(d) 2026-10-25：英文信稿已写 `draft_en`；地址失效——核到新邮箱再发）",
+   "action": "核 avizio.pl 当前联系邮箱 → 首封用研究档一句话；核不到就不发（第 75 批(d) 2026-10-25：英文信稿已写 `draft_en`；地址失效——核到新邮箱再发）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
    "one_question": "For the industrial PoE switches you sell under the Avizio label with your security systems, we can be a second ODM source (DIN-rail 8-PoE + 2 SFP managed on Marvell L2+, or unmanaged, −40~75 °C, CE/RoHS) from small lots in your packaging — which model do your installers use most?"
   },
   "facts": [
@@ -125,7 +125,7 @@
   ],
   "draft_en": {
    "subject": "Second source for the Avizio-label industrial PoE switches",
-   "body": "Hello Avizio team,\n\nFor the industrial PoE switches you sell under the Avizio label with your security systems, we can be a second ODM source in your packaging from small lots:\n\n- DIN-rail 8 x Gigabit PoE+ + 2 x SFP, L2 managed (VLAN, QoS, IGMP), Marvell-based, -40 to 75 C, CE/RoHS - model STI-288GPM - $85.5 USD EXW (MOQ 1, 15-day validity)\n- the same footprint unmanaged, STI-288GP - $62.2 USD EXW\n\nOne question: which of the two do your installers use most - managed or unmanaged?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+   "body": "Hello Avizio team,\n\nFor the industrial PoE switches you sell under the Avizio label with your security systems, we can be a second ODM source in your packaging from small lots:\n\n- DIN-rail 8 x Gigabit PoE+ + 2 x SFP, L2 managed (VLAN, QoS, IGMP), Marvell-based, -40 to 75 C, CE/RoHS - model STI-288GPM - $85.5 USD EXW (MOQ 1, 15-day validity)\n- the same footprint unmanaged, STI-288GP - $62.2 USD EXW\n\nOne question: which of the two do your installers use most - managed or unmanaged?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
  }

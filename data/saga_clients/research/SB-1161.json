@@ -102,7 +102,7 @@
     "next_move": {
       "when": "待 Simon 排期（首封）",
       "channel": "A 邮箱 → shop@batna24.com（无具名 KP；公用地址）",
-      "action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-31「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 75 批(d) 2026-10-25：英文信稿已写 `draft_en`）",
+      "action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-31「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 75 批(d) 2026-10-25：英文信稿已写 `draft_en`）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
       "one_question": "For the Extralink range — we build DIN 2-SFP + 8-PoE industrial and Marvell L2+ 8/24-PoE commercial switches under your label from small lots; who handles Extralink product sourcing so I can send specs to the right desk? Reference: STI-288GP at $60 USD EXW (MOQ 1, 15-day validity)."
     },
     "facts": [
@@ -136,7 +136,7 @@
     ],
     "draft_en": {
       "subject": "Industrial PoE switches for the Extralink range - who handles product sourcing?",
-      "body": "Hello Batna24 team,\n\nOver the past months you had a few product mails from us - most recently \"24 Port PoE Managed Switch\" on 31 August 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the Extralink range we can build under your label from small lots: a DIN-rail industrial 8 x Gigabit PoE+ + 2 x SFP unmanaged switch, -40 to 75 C, CE/RoHS - model STI-288GP - $60 USD EXW (MOQ 1, 15-day validity); managed and 24-port commercial versions on the same basis. SFP optics and PoE power supplies we do not make.\n\nOne question: who handles Extralink product sourcing, so I send the specs to the right desk?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+      "body": "Hello Batna24 team,\n\nOver the past months you had a few product mails from us - most recently \"24 Port PoE Managed Switch\" on 31 August 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the Extralink range we can build under your label from small lots: a DIN-rail industrial 8 x Gigabit PoE+ + 2 x SFP unmanaged switch, -40 to 75 C, CE/RoHS - model STI-288GP - $60 USD EXW (MOQ 1, 15-day validity); managed and 24-port commercial versions on the same basis. SFP optics and PoE power supplies we do not make.\n\nOne question: who handles Extralink product sourcing, so I send the specs to the right desk?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
     },
     "as_of": "2026-10-25"
   }

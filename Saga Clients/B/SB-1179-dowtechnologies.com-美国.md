@@ -35,7 +35,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STC-28DGGPM — 在售 Luxul 8 PoE 管理 / Intellinet 8 PoE / UniFi → 集成商走量位 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；AV-over-IP 位 24 GE + 4×10G STC-424XGGM；首触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-09-08 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-08；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：For the integrator-facing PoE line next to Luxul and Intellinet, we supply a Marvell-based 8-port PoE+ L2+ switch (2 SFP) and a 24-port 4×10G model in neutral packing from small lots — which port count do your dealers pull most, 8 or 24? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
-- **下一步**：待 Simon 排期（首封） A 邮箱 → info@dowtechnologies.com（无具名 KP；公用地址） 首封前知悉：Elsa 已 BCC 群发触达（最近 2026-09-08「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 75 批(b) 2026-10-25：英文信稿已写 `draft_en`——开头按 ㉝ 点名 Elsa 最近群发主题+日期，型号/价按 ㉕，一问）
+- **下一步**：待 Simon 排期（首封） A 邮箱 → info@dowtechnologies.com（无具名 KP；公用地址） 首封前知悉：Elsa 已 BCC 群发触达（最近 2026-09-08「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 75 批(b) 2026-10-25：英文信稿已写 `draft_en`——开头按 ㉝ 点名 Elsa 最近群发主题+日期，型号/价按 ㉕，一问）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-25）
 
@@ -46,7 +46,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：在售 Luxul 8 PoE 管理 / Intellinet 8 PoE / UniFi → 集成商走量位 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；AV-over-IP 位 24 GE + 4×10G STC-424XGGM
 - **断点 / 为什么停在这里**：区域性分销商（有培训/营销体系）：引入新白牌需走品类评审
 - **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，首触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-09-08 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-08；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170））——在售 Luxul 8 PoE 管理 / Intellinet 8 PoE / UniFi → 集成商走量位 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；AV-over-IP 位 24 GE + 4×10G STC-424XGGM
-- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → info@dowtechnologies.com（无具名 KP；公用地址）　首封前知悉：Elsa 已 BCC 群发触达（最近 2026-09-08「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 75 批(b) 2026-10-25：英文信稿已写 `draft_en`——开头按 ㉝ 点名 Elsa 最近群发主题+日期，型号/价按 ㉕，一问）
+- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → info@dowtechnologies.com（无具名 KP；公用地址）　首封前知悉：Elsa 已 BCC 群发触达（最近 2026-09-08「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 75 批(b) 2026-10-25：英文信稿已写 `draft_en`——开头按 ㉝ 点名 Elsa 最近群发主题+日期，型号/价按 ㉕，一问）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
   - 第一问（只问一个）：For the integrator-facing PoE line next to Luxul and Intellinet, we supply a Marvell-based 8-port PoE+ L2+ switch (2 SFP) and a 24-port 4×10G model in neutral packing from small lots — which port count do your dealers pull most, 8 or 24? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -140,14 +140,14 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-24T07:26:33Z　|　**最近变化**：2026-10-24T07:26:33Z
-- **最近变化摘要**：2026-10-24 sitemap：新增 820 条：2026-05-21 12volt-closeouts；2026-08-31 12volt；2026-08-31 custom-integration；2026-
+- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-25T07:41:18Z
+- **最近变化摘要**：2026-10-25 sitemap：新增 820 条：2026-05-21 12volt-closeouts；2026-08-31 12volt；2026-08-31 custom-integration；2026-
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1179/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://www.dowtechnologies.com/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 8182 字符；首行：DOW Technologies. Technology Distribution & Logistics |
-| [sitemap](https://www.dowtechnologies.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-24T07:26:33Z | 900 个 URL；最新 lastmod 2026-10-22 |
+| [sitemap](https://www.dowtechnologies.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-25T07:41:18Z | 900 个 URL；最新 lastmod 2026-10-24 |
 
 ## 联系方式（已有 · 原值照录）
 
@@ -236,7 +236,7 @@ For the PoE switches your integrators buy next to Luxul and Intellinet: an 8 x G
 One question: which port count do your dealers pull most, 8 or 24?
 
 Best regards,
-Simon
+Alan
 Saga Telecom - sagatele.com
 ```
 

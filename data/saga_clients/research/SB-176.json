@@ -73,7 +73,7 @@
   "next_move": {
    "when": "待 Simon 排期（首封）",
    "channel": "A 邮箱 → gluszek.tomasz@gmail.com",
-   "action": "首封：按 email_hook 一问（第 74 批(r) 2026-10-25：英文信稿已写 `draft_en`——钩子句两问并一问；PoE++ 用 STI-288DGGPM-2BT，价按 PDF 上限 $154（25% 档 $164.4 超上限，㉕）；不做 IP67 如实说）",
+   "action": "首封：按 email_hook 一问（第 74 批(r) 2026-10-25：英文信稿已写 `draft_en`——钩子句两问并一问；PoE++ 用 STI-288DGGPM-2BT，价按 PDF 上限 $154（25% 档 $164.4 超上限，㉕）；不做 IP67 如实说）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
    "one_question": "Did the two 90 W injectors run the PTZ cameras as expected? If the next site needs several high-power ports, I can quote a PoE++ switch instead of stacking injectors — how many 60–90 W devices per cabinet? Reference: STC-28DGGPM at $84.1 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
@@ -116,7 +116,7 @@
   ],
   "draft_en": {
    "subject": "PoE++ switch instead of stacking injectors - for your next camera site",
-   "body": "Hi Tomasz,\n\nI hope the two 90 W injectors ran the PTZ cameras as expected.\n\nIf the next site needs several high-power ports, one switch is cheaper and cleaner than stacking injectors: DIN-rail industrial 8 x Gigabit PoE (two of them PoE++ 60-90 W) + 2 x SFP, L2+ managed, -40 to 75 C, 240 W budget, model STI-288DGGPM-2BT - $154 USD EXW (MOQ 1, 15-day validity). It goes in a cabinet; we do not make outdoor IP67 housings, so for a pole-mounted box it would sit inside your enclosure with a 48 V supply.\n\nOne question: how many 60-90 W devices per cabinet does the next site need?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+   "body": "Hi Tomasz,\n\nI hope the two 90 W injectors ran the PTZ cameras as expected.\n\nIf the next site needs several high-power ports, one switch is cheaper and cleaner than stacking injectors: DIN-rail industrial 8 x Gigabit PoE (two of them PoE++ 60-90 W) + 2 x SFP, L2+ managed, -40 to 75 C, 240 W budget, model STI-288DGGPM-2BT - $154 USD EXW (MOQ 1, 15-day validity). It goes in a cabinet; we do not make outdoor IP67 housings, so for a pole-mounted box it would sit inside your enclosure with a 48 V supply.\n\nOne question: how many 60-90 W devices per cabinet does the next site need?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
  }

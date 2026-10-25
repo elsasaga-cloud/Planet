@@ -98,7 +98,7 @@
     "next_move": {
       "when": "待 Simon 排期（首封）",
       "channel": "A 邮箱 → info@iotkomponenty.sk（无具名 KP；公用地址）",
-      "action": "首封前知悉：Elsa 已 To 直发 13 轮（2025-02-17→2026-08-13）（最近 2026-08-13「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 75 批(k) 2026-10-25：英文信稿已写 `draft_en`）",
+      "action": "首封前知悉：Elsa 已 To 直发 13 轮（2025-02-17→2026-08-13）（最近 2026-08-13「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 75 批(k) 2026-10-25：英文信稿已写 `draft_en`）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
       "one_question": "Next to the USR routers and serial servers you list, we supply compact DIN-rail 5/8-port gigabit industrial switches (−40~75 °C, neutral packing) from single units — would a small industrial switch SKU fit your IoT range? Reference: STI-050GE at $25 USD EXW (MOQ 1, 15-day validity)."
     },
     "facts": [
@@ -132,7 +132,7 @@
     ],
     "draft_en": {
       "subject": "A small industrial switch SKU next to your USR routers",
-      "body": "Hello IOT Components team,\n\nOver the past two years you had a steady stream of product mails from us - most recently \"24 Port PoE Managed Switch\" on 13 August 2026 - and there was no reason to answer a mass mail. This one is specific, and much smaller.\n\nNext to the USR routers and serial servers you list, a compact DIN-rail industrial switch fits the same cabinet: 5 x Gigabit, 12-58 V DC, -40 to 75 C, CE/RoHS, neutral packing - model STI-050GE - $25 USD EXW (MOQ 1, 15-day validity); the 8-port version, STI-080GE, $32.5.\n\nOne question: would a small industrial switch SKU fit your IoT range, or do your customers already bring their own?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+      "body": "Hello IOT Components team,\n\nOver the past two years you had a steady stream of product mails from us - most recently \"24 Port PoE Managed Switch\" on 13 August 2026 - and there was no reason to answer a mass mail. This one is specific, and much smaller.\n\nNext to the USR routers and serial servers you list, a compact DIN-rail industrial switch fits the same cabinet: 5 x Gigabit, 12-58 V DC, -40 to 75 C, CE/RoHS, neutral packing - model STI-050GE - $25 USD EXW (MOQ 1, 15-day validity); the 8-port version, STI-080GE, $32.5.\n\nOne question: would a small industrial switch SKU fit your IoT range, or do your customers already bring their own?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
     },
     "as_of": "2026-10-25"
   }

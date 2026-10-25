@@ -38,7 +38,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-050GE — OEM/自有品牌 30% 档：STI-050GE（DIN 迷你 5 GE 非管理，DC 12–36 V 正合巴士 24 V 车电，−40~+75 ℃，$18.5）/ STI-080GE（8 口，DC 12–58 V，$34.0）作车载基础交换；偶尔 PoE 用 STI-054GP（4 PoE + 1 上联，DC 44–57 V 需升压，$33.8）；需随附 E-mark 证书。已打开的主题（1/27 封有打开记录）：「10G Media Converter」(2024-12-04) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-21 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-12-04 $65（10G Media Converter）、2025-10-01 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Callum, for the bus kits: the mini 5-port gigabit DIN switch (12–36 V DC, −40 to +75 °C, UKCA/CE/RoHS; no E-mark) is $18.5 EXW and the 8-port $34.0, with a 4-port PoE variant at $33.8 for IP cameras; how many vehicles per month are you fitting with IP cameras now?
 - **最大未知**：年走量与现供应商
-- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封（第 75 批(x) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用）；E-mark 不写「available」——只提他在展会看过的材料；Simon 发前核实手头 E-mark 文件）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封（第 75 批(x) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用）；E-mark 不写「available」——只提他在展会看过的材料；Simon 发前核实手头 E-mark 文件）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -49,7 +49,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：OEM/自有品牌 30% 档：STI-050GE（DIN 迷你 5 GE 非管理，DC 12–36 V 正合巴士 24 V 车电，−40~+75 ℃，$18.5）/ STI-080GE（8 口，DC 12–58 V，$34.0）作车载基础交换；偶尔 PoE 用 STI-054GP（4 PoE + 1 上联，DC 44–57 V 需升压，$33.8）；需随附 E-mark 证书
 - **断点 / 为什么停在这里**：车载需 E-mark（E/e 标）与振动（ISO 16750）证明——需 SmartByte 提供；公共交通（巴士）非轨道，不在守界；18 次跟进 0 回复
 - **Saga 现在该推什么**：P1 **STI-050GE**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-21 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-12-04 $65（10G Media Converter）、2025-10-01 $280（10G Enterprise SFP Switch））——OEM/自有品牌 30% 档：STI-050GE（DIN 迷你 5 GE 非管理，DC 12–36 V 正合巴士 24 V 车电，−40~+75 ℃，$18.5）/ STI-080GE（8 口，DC 12–58 V，$34.0）作车载基础交换；偶尔 PoE 用 STI-054GP（4 PoE + 1 上联，DC 44–57 V 需升压，$33.8）；需随附 E-mark 证书。已打开的主题（1/27 封有打开记录）：「10G Media Converter」(2024-12-04) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续
-- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封（第 75 批(x) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用）；E-mark 不写「available」——只提他在展会看过的材料；Simon 发前核实手头 E-mark 文件）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封（第 75 批(x) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用）；E-mark 不写「available」——只提他在展会看过的材料；Simon 发前核实手头 E-mark 文件）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
   - 第一问（只问一个）：Callum, for the bus kits: the mini 5-port gigabit DIN switch (12–36 V DC, −40 to +75 °C, UKCA/CE/RoHS; no E-mark) is $18.5 EXW and the 8-port $34.0, with a 4-port PoE variant at $33.8 for IP cameras; how many vehicles per month are you fitting with IP cameras now?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -197,7 +197,7 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-24T07:26:33Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-298/`；本节随档案重渲染刷新，实时看日志。
 
@@ -297,7 +297,7 @@ At the show you saw the units and the paperwork on my screen; your requirement w
 One question: how many vehicles per month are you fitting with IP cameras now?
 
 Best regards,
-Simon
+Alan
 Saga Telecom - sagatele.com
 ```
 

@@ -36,7 +36,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-110GE — 自有 logo MC → 工业千兆 MC STI-110GE（$24.3 @30%）；桌面 MC 用 HRUI（列表价，注明）；8 GE + 2 SFP 位 STC-28GM（HRUI 列表价，注明）。已打开的主题（1/20 封有打开记录）：「Managed Optical Bypass Switch」(2025-06-23) → 读者兴趣偏「旁路/Booster」；当前 P1 属「10G 汇聚/L3」，下一封按「旁路/Booster」给，不按 P1；换人再触锚价 STI-110GE $26.5 EXW（最近实报 SA-001 2025-11-27 $26.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-17 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-07-23 $300（48 Port PoE Managed Switch）、2025-10-15 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Carl, for the media converters offered under the Wirewerks label with your copper and fibre systems, we can supply gigabit MCs (industrial DIN/wall or desktop) and small SFP-uplink switches in your packaging from small lots, FCC/CE/RoHS — which MC configuration do your installer customers order most? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封（第 75 批(aa) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用）；STC-028GP/2216GPM/204GP/028GFP/28GM 为 HRUI，不写 Marvell）（第 75 批(ak) 2026-10-25：信稿复检修正——「DIN-rail or wall-mount,」→「DIN-rail,」）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封（第 75 批(aa) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用）；STC-028GP/2216GPM/204GP/028GFP/28GM 为 HRUI，不写 Marvell）（第 75 批(ak) 2026-10-25：信稿复检修正——「DIN-rail or wall-mount,」→「DIN-rail,」）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -47,7 +47,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：自有 logo MC → 工业千兆 MC STI-110GE（$24.3 @30%）；桌面 MC 用 HRUI（列表价，注明）；8 GE + 2 SFP 位 STC-28GM（HRUI 列表价，注明）
 - **断点 / 为什么停在这里**：主业结构化布线（Saga 不做）：MC 为副线，契合度低
 - **Saga 现在该推什么**：P1 **STI-110GE**（30% 档，换人再触锚价 STI-110GE $26.5 EXW（最近实报 SA-001 2025-11-27 $26.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-17 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-07-23 $300（48 Port PoE Managed Switch）、2025-10-15 $280（10G Enterprise SFP Switch））——自有 logo MC → 工业千兆 MC STI-110GE（$24.3 @30%）；桌面 MC 用 HRUI（列表价，注明）；8 GE + 2 SFP 位 STC-28GM（HRUI 列表价，注明）。已打开的主题（1/20 封有打开记录）：「Managed Optical Bypass Switch」(2025-06-23) → 读者兴趣偏「旁路/Booster」；当前 P1 属「10G 汇聚/L3」，下一封按「旁路/Booster」给，不按 P1
-- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封（第 75 批(aa) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用）；STC-028GP/2216GPM/204GP/028GFP/28GM 为 HRUI，不写 Marvell）（第 75 批(ak) 2026-10-25：信稿复检修正——「DIN-rail or wall-mount,」→「DIN-rail,」）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封（第 75 批(aa) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用）；STC-028GP/2216GPM/204GP/028GFP/28GM 为 HRUI，不写 Marvell）（第 75 批(ak) 2026-10-25：信稿复检修正——「DIN-rail or wall-mount,」→「DIN-rail,」）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
   - 第一问（只问一个）：Carl, for the media converters offered under the Wirewerks label with your copper and fibre systems, we can supply gigabit MCs (industrial DIN/wall or desktop) and small SFP-uplink switches in your packaging from small lots, FCC/CE/RoHS — which MC configuration do your installer customers order most? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -177,7 +177,7 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-24T07:26:33Z　|　**最近变化**：2026-10-24T07:26:33Z
+- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-24T07:26:33Z
 - **最近变化摘要**：2026-10-24 youtube：恢复可达（上轮 YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过））
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-330/`；本节随档案重渲染刷新，实时看日志。
 
@@ -281,7 +281,7 @@ For the media converters offered under the Wirewerks label with your copper and 
 One question: which converter configuration do your installer customers order most - SFP-slot or fixed SC?
 
 Best regards,
-Simon
+Alan
 Saga Telecom - sagatele.com
 ```
 

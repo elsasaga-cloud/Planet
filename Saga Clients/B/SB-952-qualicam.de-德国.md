@@ -176,14 +176,14 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-24T07:26:33Z　|　**最近变化**：2026-10-24T07:26:33Z
-- **最近变化摘要**：2026-10-24 youtube：恢复可达（上轮 YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过））
+- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-25T07:41:18Z
+- **最近变化摘要**：2026-10-25 sitemap：新增 433 条： funk-pgm-modul-868-mhz-qc-md20.html； funk-fernbedienung-868-mhz-qc-rc11.html； gs
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-952/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://www.qualicam.de/) | html | HTTP 200 | 2026-10-24T07:26:33Z | 6524 字符；首行：Videoüberwachung, Sicherheitstechnik und Alarmanlagen |
-| [sitemap](https://www.qualicam.de/sitemap.xml) | sitemap | HTTP 200 | 2026-10-24T07:26:33Z | 513 个 URL；最新 lastmod - |
+| [sitemap](https://www.qualicam.de/sitemap.xml) | sitemap | HTTP 200 | 2026-10-25T07:41:18Z | 513 个 URL；最新 lastmod - |
 | [youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UCwyKwjrqSd6aLsbpppwom_Q) | rss | HTTP 200 | 2026-10-24T07:26:33Z | 15 条；最新：2025-07-09T14:28:45+00:00 Einbrecher aktiv mit einer QC-HouseGuard Reizgasanlage a |
 
 - **人工定期看（登录墙，不自动抓）**：Instagram: https://www.instagram.com/qualicam_gmbh/；Facebook: https://www.facebook.com/QualicamG；WhatsApp: https://wa.me/491627570713

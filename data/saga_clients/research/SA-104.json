@@ -162,7 +162,7 @@
     "next_move": {
       "when": "2027-Q1（换人后）",
       "channel": "A 邮箱 → 具名 KP",
-      "action": "首封前知悉：Elsa 仅 2025-02-24 单发过 1 封「Mini Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(am) 2026-10-25：英文信稿已写 `draft_en`；俄文钩子改英文稿；EAC 对方侧；HRUI 不写 Marvell）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）",
+      "action": "首封前知悉：Elsa 仅 2025-02-24 单发过 1 封「Mini Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(am) 2026-10-25：英文信稿已写 `draft_en`；俄文钩子改英文稿；EAC 对方侧；HRUI 不写 Marvell）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
       "one_question": "Здравствуйте, рядом с UNIPOE PM3018GSNL-330 V2 (118 195 ₸ в вашем магазине): наш коммутатор той же конфигурации 16 PoE + 2 SFP — 88,0 USD EXW, 24 PoE + 2 SFP — 93,5 USD, нейтральная или ваша упаковка. Нужен ли вам второй источник на случай сроков или цен UNIPOE?"
     },
     "facts": [
@@ -203,7 +203,7 @@
     "proof_gaps": [],
     "draft_en": {
       "subject": "Next to the UNIPOE PM3018GSNL-330 V2 in your shop - a second source for the same configurations",
-      "body": "Hello Pulsar Systems team,\n\nWe wrote to you once in February 2025 about a mini industrial switch, and since then only general product mails - most recently \"Managed PoE Switches\" on 7 October 2026 - none of which needed an answer. This one is specific.\n\nNext to the UNIPOE PM3018GSNL-330 V2 (118,195 tenge in your shop), the same configurations as a second source, neutral or your packaging, at distributor price, EXW, MOQ 1, 15-day validity, CE/RoHS: 16 x Gigabit PoE+ + 2 x SFP, unmanaged - model STC-2016GP - $88.0 USD; 24 x Gigabit PoE+ + 2 x Gigabit + 2 x SFP, unmanaged, 300 W - STC-2024GP - $93.5; 8 x PoE+ + 2 x Gigabit - STC-028GP - $25.1. EAC stays on your side.\n\nOne question: do you need a second source for when UNIPOE lead times or prices move, or is the exclusive arrangement fixed?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+      "body": "Hello Pulsar Systems team,\n\nWe wrote to you once in February 2025 about a mini industrial switch, and since then only general product mails - most recently \"Managed PoE Switches\" on 7 October 2026 - none of which needed an answer. This one is specific.\n\nNext to the UNIPOE PM3018GSNL-330 V2 (118,195 tenge in your shop), the same configurations as a second source, neutral or your packaging, at distributor price, EXW, MOQ 1, 15-day validity, CE/RoHS: 16 x Gigabit PoE+ + 2 x SFP, unmanaged - model STC-2016GP - $88.0 USD; 24 x Gigabit PoE+ + 2 x Gigabit + 2 x SFP, unmanaged, 300 W - STC-2024GP - $93.5; 8 x PoE+ + 2 x Gigabit - STC-028GP - $25.1. EAC stays on your side.\n\nOne question: do you need a second source for when UNIPOE lead times or prices move, or is the exclusive arrangement fixed?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
     },
     "as_of": "2026-10-24"
   }

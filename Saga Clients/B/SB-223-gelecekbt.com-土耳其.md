@@ -205,13 +205,13 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-24T07:26:33Z　|　**最近变化**：2026-10-24T07:26:33Z
-- **最近变化摘要**：2026-10-24 youtube：恢复可达（上轮 YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过））
+- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-25T07:41:18Z
+- **最近变化摘要**：2026-10-25 home：内容变化：+687 −102 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-223/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://gelecekbt.com/) | html | HTTP 200 | 2026-10-24T07:26:33Z | 32508 字符；首行：GelecekBT Bilgi ve İletişim Teknolojileri |
+| [home](https://gelecekbt.com/) | html | HTTP 200 | 2026-10-25T07:41:18Z | 32120 字符；首行：GelecekBT Bilgi ve İletişim Teknolojileri |
 | [youtube](https://www.youtube.com/@gelecekbt) | youtube_handle | HTTP 200 | 2026-10-24T07:26:33Z | 15 条；最新：2021-05-30T18:40:04+00:00 Endüstriyel POE Switch Ürün İnceleme CLR-IES-2512P 2. Bö |
 
 - **人工定期看（登录墙，不自动抓）**：WhatsApp: https://wa.me/905522074381；Facebook: https://www.facebook.com/gelecekbt；Instagram: https://www.instagram.com/gelecekbt/?hl=tr；X/Twitter: https://twitter.com/Gelecekbt；LinkedIn: https://www.linkedin.com/in/gelecekbt

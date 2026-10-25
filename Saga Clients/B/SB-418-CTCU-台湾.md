@@ -165,15 +165,15 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-24T07:26:33Z　|　**最近变化**：2026-10-23T04:20:51Z
-- **最近变化摘要**：2026-10-23 首轮基线
+- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-25T07:41:18Z
+- **最近变化摘要**：2026-10-25 news_1：内容变化：+32 −15 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-418/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://www.ctcu.com/zh-TW/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 2069 字符；首行：主向位科技股份有限公司 \| 主向位科技是台灣網路通訊產品製造商 (包含第2層換機, TDM, 轉發器、工業級乙太網路交換器、轉換器、供電器等)。 |
 | [sitemap](https://www.ctcu.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 0 个 URL；最新 lastmod - |
-| [news_1](https://www.ctcu.com/zh-TW/news/index.html) | html | HTTP 200 | 2026-10-23T04:20:51Z | 3876 字符；首行：主向位新聞與活動 \| 主向位科技股份有限公司 |
+| [news_1](https://www.ctcu.com/zh-TW/news/index.html) | html | HTTP 200 | 2026-10-25T07:41:18Z | 3878 字符；首行：主向位新聞與活動 \| 主向位科技股份有限公司 |
 | [news_2](https://www.ctcu.com/zh-TW/news/news-036.html) | html | HTTP 200 | 2026-10-23T04:20:51Z | 2954 字符；首行：主向位科技完備歐盟網路韌性法案(CRA)漏洞通報與資安事件應變機制 \| 主向位新聞與活動 \| 主向位科技股份有限公司 |
 
 - **人工定期看（登录墙，不自动抓）**：Facebook: https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.ctcu.com%2Fzh-TW%2F；X/Twitter: https://twitter.com/intent/tweet?text=%E4%B8%BB%E5%90%91%E4%BD%8D%E7%A7%91%E6%8A%80%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8+%7C+%E4%B8%BB%E5%90%91%E4%BD%8D%E7%A7%91%E6%8A%80%E6%98%AF%E5%8F%B0%E7%81%A3%E7%B6%B2%E8%B7%AF%E9%80%9A%E8%A8%8A%E7%94%A2%E5%93%81%E8%A3%BD%E9%80%A0%E5%95%86+%28%E5%8C%85%E5%90%AB%E7%AC%AC2%E5%B1%A4%E6%8F%9B%E6%A9%9F%2C+TDM%2C+%E8%BD%89%E7%99%BC%E5%99%A8%E3%80%81%E5%B7%A5%E6%A5%AD%E7%B4%9A%E4%B9%99%E5%A4%AA%E7%B6%B2%E8%B7%AF%E4%BA%A4%E6%8F%9B%E5%99%A8%E3%80%81%E8%BD%89%E6%8F%9B%E5%99%A8%E3%80%81%E4%BE%9B%E9%9B%BB%E5%99%A8%E7%AD%89%29%E3%80%82&url=https%3A%2F%2Fwww.ctcu.com%2Fzh-TW%2F；LinkedIn: https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.ctcu.com%2Fzh-TW%2F&title=%E4%B8%BB%E5%90%91%E4%BD%8D%E7%A7%91%E6%8A%80%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8+%7C+%E4%B8%BB%E5%90%91%E4%BD%8D%E7%A7%91%E6%8A%80%E6%98%AF%E5%8F%B0%E7%81%A3%E7%B6%B2%E8%B7%AF%E9%80%9A%E8%A8%8A%E7%94%A2%E5%93%81%E8%A3%BD%E9%80%A0%E5%95%86+%28%E5%8C%85%E5%90%AB%E7%AC%AC2%E5%B1%A4%E6%8F%9B%E6%A9%9F%2C+TDM%2C+%E8%BD%89%E7%99%BC%E5%99%A8%E3%80%81%E5%B7%A5%E6%A5%AD%E7%B4%9A%E4%B9%99%E5%A4%AA%E7%B6%B2%E8%B7%AF%E4%BA%A4%E6%8F%9B%E5%99%A8%E3%80%81%E8%BD%89%E6%8F%9B%E5%99%A8%E3%80%81%E4%BE%9B%E9%9B%BB%E5%99%A8%E7%AD%89%29%E3%80%82

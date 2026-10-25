@@ -146,7 +146,7 @@
   "proof_gaps": [],
   "draft_en": {
    "subject": "48-port PoE managed — 2026 unit and price",
-   "body": "Hi, Eros,\n\nIn November 2024 you asked \"euro?\" for a 48-port PoE managed switch and we quoted 280 EUR; the current unit is a different generation:\n\n- STC-448XGGPM: 48x GbE PoE+ 440 W (850 W optional) + 4x 10G SFP+, L2+, Marvell AC5 — $335 USD EXW (2026-10 price table, valid 15 days from this mail)\n\nOne question: was the 48-port for a specific site in 2024, and is it worth a fresh quote for 2026 projects?\n\nThank you.\nSimon"
+   "body": "Hi, Eros,\n\nIn November 2024 you asked \"euro?\" for a 48-port PoE managed switch and we quoted 280 EUR; the current unit is a different generation:\n\n- STC-448XGGPM: 48x GbE PoE+ 440 W (850 W optional) + 4x 10G SFP+, L2+, Marvell AC5 — $335 USD EXW (2026-10 price table, valid 15 days from this mail)\n\nOne question: was the 48-port for a specific site in 2024, and is it worth a fresh quote for 2026 projects?\n\nThank you.\nSimon\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
  }

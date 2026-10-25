@@ -38,7 +38,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：无 — —｜毛利复盘：首单 23.4%（80 台 @19.75 成本）——正常；STC-204GP $24.2（洪瑞 2026-09-30 进价 135 CNY +20%，Q-47 默认；Drive 旧表 $20.4 不用）；—
 - **第一问（只问一个）**：Rishi — your IndiaMART page lists a "4 Port Industrial Ethernet Switch FBC-204GP", which matches our STC-204GP (4 × PoE + 2 × SFP). Is it a live stock item for you, or a listing from the 2023 catalogue? If live, the current price is STC-204GP $24.2 USD EXW (MOQ 1, 15-day validity) and I can quote 20/50-pc tiers; if not, I will leave you alone.
 - **最大未知**：年走量与现供应商
-- **下一步**：2027-Q1（非主攻区，顺带一问；不投入） A 邮箱 → office@fastball.in（Rishi Kumar Bansal） 一问：IndiaMART 上的 FBC-204GP 列表是不是在卖我方 STC-204GP（有则给现价，无则不再发）（第 75 批(aj) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；按 action「一问」：IndiaMART FBC-204GP 是否我方 STC-204GP；BIS 对方侧）
+- **下一步**：2027-Q1（非主攻区，顺带一问；不投入） A 邮箱 → office@fastball.in（Rishi Kumar Bansal） 一问：IndiaMART 上的 FBC-204GP 列表是不是在卖我方 STC-204GP（有则给现价，无则不再发）（第 75 批(aj) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；按 action「一问」：IndiaMART FBC-204GP 是否我方 STC-204GP；BIS 对方侧）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -50,7 +50,7 @@ updated: 2026-10-25
 - **断点 / 为什么停在这里**：授权诉求 vs Saga 不做区域授权。
 - **Saga 现在该推什么**：P1 **无**（20% 档，STC-204GP $24.2（洪瑞 2026-09-30 进价 135 CNY +20%，Q-47 默认；Drive 旧表 $20.4 不用）；—）———｜毛利复盘：首单 23.4%（80 台 @19.75 成本）——正常
   - 复购/在买项：2023-10-09 唯一一单：$260（Simon 利润 RMB 553；PI 复盘 #2，Simon 标 gg）；IndiaMART 仍挂 FBC-204GP（= STC-204GP）
-- **下一步（具体）**：2027-Q1（非主攻区，顺带一问；不投入）　A 邮箱 → office@fastball.in（Rishi Kumar Bansal）　一问：IndiaMART 上的 FBC-204GP 列表是不是在卖我方 STC-204GP（有则给现价，无则不再发）（第 75 批(aj) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；按 action「一问」：IndiaMART FBC-204GP 是否我方 STC-204GP；BIS 对方侧）
+- **下一步（具体）**：2027-Q1（非主攻区，顺带一问；不投入）　A 邮箱 → office@fastball.in（Rishi Kumar Bansal）　一问：IndiaMART 上的 FBC-204GP 列表是不是在卖我方 STC-204GP（有则给现价，无则不再发）（第 75 批(aj) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；按 action「一问」：IndiaMART FBC-204GP 是否我方 STC-204GP；BIS 对方侧）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
   - 第一问（只问一个）：Rishi — your IndiaMART page lists a "4 Port Industrial Ethernet Switch FBC-204GP", which matches our STC-204GP (4 × PoE + 2 × SFP). Is it a live stock item for you, or a listing from the 2023 catalogue? If live, the current price is STC-204GP $24.2 USD EXW (MOQ 1, 15-day validity) and I can quote 20/50-pc tiers; if not, I will leave you alone.
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -139,7 +139,7 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：成单精选层　|　**自动源**：2 个　|　**数据截至**：2026-10-24T07:26:33Z　|　**最近变化**：2026-10-23T06:51:07Z
+- **监控层**：成单精选层　|　**自动源**：2 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-23T06:51:07Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1334/`；本节随档案重渲染刷新，实时看日志。
 
@@ -237,7 +237,7 @@ Hi Rishi,
 One question: the FBC-204GP listed under Fastball on IndiaMART - is that our STC-204GP (4 x Gigabit PoE+ + 2 x Gigabit uplinks, 65 W) that you are selling on? If yes, the current price is $24.2 USD EXW at distributor tier (MOQ 1, 15-day validity), and I will keep you on the price updates; if no, I will not write again about it. BIS stays on your side.
 
 Best regards,
-Simon
+Alan
 Saga Telecom - sagatele.com
 ```
 

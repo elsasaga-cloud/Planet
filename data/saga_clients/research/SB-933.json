@@ -214,7 +214,7 @@
   "proof_gaps": [],
   "draft_en": {
    "subject": "24-port SFP aggregation switch — one question",
-   "body": "Hi, Casey,\n\nLast October your team asked for the spec sheet and user manual of our 24-port SFP aggregation switch (4x 10G uplinks) and we sent both. Since then no feedback — which usually means something did not fit.\n\nIf it is useful: the industrial L3 24-port PoE with 4x 10G SFP+ (STI-42424XGGPM-4BT) was $500 USD EXW in April 2025; today it is $550 USD EXW (the RMB/USD rate moved from 7.2 to 6.7 since then), MOQ 1, valid 15 days from this mail; the aggregation SFP box is priced on request for OEM quantities.\n\nOne question: was there a specific gap — a feature, a certification (UL/NEBS), or price — that kept the 24-SFP unit off your list? A one-line answer is enough; it tells us whether to keep investing in Actelis.\n\nThank you.\nSimon"
+   "body": "Hi, Casey,\n\nLast October your team asked for the spec sheet and user manual of our 24-port SFP aggregation switch (4x 10G uplinks) and we sent both. Since then no feedback — which usually means something did not fit.\n\nIf it is useful: the industrial L3 24-port PoE with 4x 10G SFP+ (STI-42424XGGPM-4BT) was $500 USD EXW in April 2025; today it is $550 USD EXW (the RMB/USD rate moved from 7.2 to 6.7 since then), MOQ 1, valid 15 days from this mail; the aggregation SFP box is priced on request for OEM quantities.\n\nOne question: was there a specific gap — a feature, a certification (UL/NEBS), or price — that kept the 24-SFP unit off your list? A one-line answer is enough; it tells us whether to keep investing in Actelis.\n\nThank you.\nSimon\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
  }

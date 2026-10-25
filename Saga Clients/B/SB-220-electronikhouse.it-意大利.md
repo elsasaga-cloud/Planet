@@ -172,13 +172,13 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-24T07:26:33Z　|　**最近变化**：2026-10-24T07:26:33Z
-- **最近变化摘要**：2026-10-24 youtube：恢复可达（上轮 YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过））
+- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-25T07:41:18Z
+- **最近变化摘要**：2026-10-25 home：内容变化：+40 −40 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-220/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://electronikhouse.it/) | html | HTTP 200 | 2026-10-24T07:26:33Z | 10376 字符；首行：Home - Electronik House |
+| [home](https://electronikhouse.it/) | html | HTTP 200 | 2026-10-25T07:41:18Z | 10279 字符；首行：Home - Electronik House |
 | [sitemap](https://electronikhouse.it/sitemap_index.xml) | sitemap | HTTP 200 | 2026-10-24T04:35:40Z | 0 个 URL；最新 lastmod - |
 | [youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UC1BIv5X2E0HHXyBPo-dFVJw) | rss | HTTP 200 | 2026-10-24T07:26:33Z | 10 条；最新：2023-10-09T10:55:31+00:00 Telecamere ed impianti di videosorveglianza VULTECH e IS |
 

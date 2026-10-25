@@ -109,7 +109,7 @@
   "next_move": {
    "when": "待 Simon 排期（首封）",
    "channel": "A 邮箱 → charles@softwareeffect.com（Charles H. Deling）",
-   "action": "首封：按 email_hook 一问（第 75 批(b) 2026-10-25：英文信稿已写 `draft_en`；MIB 包是技术资料，发前从 SmartByte 取 SNMP MIB 文件；锚价改 $147.1（20% 档，低于 PDF 上限 $148.5，合规））",
+   "action": "首封：按 email_hook 一问（第 75 批(b) 2026-10-25：英文信稿已写 `draft_en`；MIB 包是技术资料，发前从 SmartByte 取 SNMP MIB 文件；锚价改 $147.1（20% 档，低于 PDF 上限 $148.5，合规））（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
    "one_question": "Charles, following your request for the MIB files of the 4-SFP + 8-port managed switch: we can send the SNMP MIB package with the datasheet of our Marvell-based DIN-rail 4-SFP + 8-GE (PoE option) managed model, available from single units, FCC/CE/RoHS — which NMS are you integrating it with? Reference: STI-488DGGPM at $148.5 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
@@ -127,7 +127,7 @@
   ],
   "draft_en": {
    "subject": "MIB files for the 4-SFP + 8-port managed switch you asked about",
-   "body": "Hi Charles,\n\nYou asked on our site for the MIB files of the 4-SFP + 8-port managed switch and did not get a proper answer from us - apologies, here it is.\n\nThe unit is a DIN-rail industrial L2+ managed switch, 8 x Gigabit RJ45 (PoE+ on the PoE version) + 4 x SFP (1G/2.5G), Marvell-based, SNMP, -40 to 75 C, FCC/CE/RoHS - model STI-488DGGPM (PoE) at $147.1 USD EXW, or STI-480DGGM (non-PoE) at $132.0 USD EXW (MOQ 1, 15-day validity). I can get you the SNMP MIB package together with the datasheet.\n\nOne question: which NMS are you integrating it with - so I send the matching MIB set and the OID notes?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+   "body": "Hi Charles,\n\nYou asked on our site for the MIB files of the 4-SFP + 8-port managed switch and did not get a proper answer from us - apologies, here it is.\n\nThe unit is a DIN-rail industrial L2+ managed switch, 8 x Gigabit RJ45 (PoE+ on the PoE version) + 4 x SFP (1G/2.5G), Marvell-based, SNMP, -40 to 75 C, FCC/CE/RoHS - model STI-488DGGPM (PoE) at $147.1 USD EXW, or STI-480DGGM (non-PoE) at $132.0 USD EXW (MOQ 1, 15-day validity). I can get you the SNMP MIB package together with the datasheet.\n\nOne question: which NMS are you integrating it with - so I send the matching MIB set and the OID notes?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
  }

@@ -36,7 +36,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-154GP — 加油机/站点机柜小口数工业 PoE → 工业 4 PoE + 1 GE 非管理 STI-154GP（$40.8 @30%）/ 8 PoE + 2 SFP STI-288GP（$62.2）贴 AvaLAN 标；管理版 STI-288GPM；换人再触锚价 STI-154GP $40.8 EXW（主表档位（2024 实报 $36–38 低于档位，可用档位；PDF 上限 $51.7）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-05-02 $65（10G Media Converter）、2025-09-26 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：John, for the small industrial PoE switches you bundle with your fuel-center wireless kits, we can supply DIN-rail 4-PoE + 1 GE and 8-PoE + 2 SFP units (−40~75 °C, 12–57 V input, FCC/CE/RoHS; managed versions on a Marvell platform) under your label from small lots — which port count do your dispenser and canopy installs use most? Reference: STI-154GP at $40.8 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封（第 75 批(u) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封（第 75 批(u) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -47,7 +47,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：加油机/站点机柜小口数工业 PoE → 工业 4 PoE + 1 GE 非管理 STI-154GP（$40.8 @30%）/ 8 PoE + 2 SFP STI-288GP（$62.2）贴 AvaLAN 标；管理版 STI-288GPM
 - **断点 / 为什么停在这里**：加油站 EMV 场景（UL/防爆要求待核，Saga 无 UL）；9 次无回复 → 改向 Product Manager 具名首触
 - **Saga 现在该推什么**：P1 **STI-154GP**（30% 档，换人再触锚价 STI-154GP $40.8 EXW（主表档位（2024 实报 $36–38 低于档位，可用档位；PDF 上限 $51.7）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-05-02 $65（10G Media Converter）、2025-09-26 $280（10G Enterprise SFP Switch））——加油机/站点机柜小口数工业 PoE → 工业 4 PoE + 1 GE 非管理 STI-154GP（$40.8 @30%）/ 8 PoE + 2 SFP STI-288GP（$62.2）贴 AvaLAN 标；管理版 STI-288GPM
-- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封（第 75 批(u) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封（第 75 批(u) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
   - 第一问（只问一个）：John, for the small industrial PoE switches you bundle with your fuel-center wireless kits, we can supply DIN-rail 4-PoE + 1 GE and 8-PoE + 2 SFP units (−40~75 °C, 12–57 V input, FCC/CE/RoHS; managed versions on a Marvell platform) under your label from small lots — which port count do your dispenser and canopy installs use most? Reference: STI-154GP at $40.8 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -178,7 +178,7 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-24T07:26:33Z　|　**最近变化**：2026-10-24T07:26:33Z
+- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-24T07:26:33Z
 - **最近变化摘要**：2026-10-24 youtube：恢复可达（上轮 YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过））
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-526/`；本节随档案重渲染刷新，实时看日志。
 
@@ -285,7 +285,7 @@ For the small industrial PoE switches you bundle with the fuel-center wireless k
 One question: which port count do the dispenser and canopy installs use most?
 
 Best regards,
-Simon
+Alan
 Saga Telecom - sagatele.com
 ```
 

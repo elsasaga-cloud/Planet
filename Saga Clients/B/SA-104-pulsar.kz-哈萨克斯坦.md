@@ -39,7 +39,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-2016GP — 分销 20% 档：STC-2016GP（16 GE PoE + 2 SFP 非管理，Saga Realtek 线列表 $88.0）= UNIPOE PM3018GSNL-330 同口型；24 口 STC-2024GP（$93.5）；8 口 STC-028GP（$24.2）。已打开的主题（1/25 封有打开记录）：「48 Port PoE Managed Switch」(2024-11-14) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-19 $65（10g media converter）；群发里他已看到的价（续）：2026-08-06 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-11-14 $300（48 Port PoE Managed Switch）、2025-09-18 $240（24 Port Fiber Switch）、2025-10-22 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Здравствуйте, рядом с UNIPOE PM3018GSNL-330 V2 (118 195 ₸ в вашем магазине): наш коммутатор той же конфигурации 16 PoE + 2 SFP — 88,0 USD EXW, 24 PoE + 2 SFP — 93,5 USD, нейтральная или ваша упаковка. Нужен ли вам второй источник на случай сроков или цен UNIPOE?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
-- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 首封前知悉：Elsa 仅 2025-02-24 单发过 1 封「Mini Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(am) 2026-10-25：英文信稿已写 `draft_en`；俄文钩子改英文稿；EAC 对方侧；HRUI 不写 Marvell）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 首封前知悉：Elsa 仅 2025-02-24 单发过 1 封「Mini Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(am) 2026-10-25：英文信稿已写 `draft_en`；俄文钩子改英文稿；EAC 对方侧；HRUI 不写 Marvell）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -50,7 +50,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：分销 20% 档：STC-2016GP（16 GE PoE + 2 SFP 非管理，Saga Realtek 线列表 $88.0）= UNIPOE PM3018GSNL-330 同口型；24 口 STC-2024GP（$93.5）；8 口 STC-028GP（$24.2）
 - **断点 / 为什么停在这里**：UNIPOE 独家关系（冲突）；17 次推送 0 回复；俄语区非主攻区；Hikvision 分销商体量偏大
 - **Saga 现在该推什么**：P1 **STC-2016GP**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-19 $65（10g media converter）；群发里他已看到的价（续）：2026-08-06 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-11-14 $300（48 Port PoE Managed Switch）、2025-09-18 $240（24 Port Fiber Switch）、2025-10-22 $280（10G Enterprise SFP Switch））——分销 20% 档：STC-2016GP（16 GE PoE + 2 SFP 非管理，Saga Realtek 线列表 $88.0）= UNIPOE PM3018GSNL-330 同口型；24 口 STC-2024GP（$93.5）；8 口 STC-028GP（$24.2）。已打开的主题（1/25 封有打开记录）：「48 Port PoE Managed Switch」(2024-11-14) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续
-- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　首封前知悉：Elsa 仅 2025-02-24 单发过 1 封「Mini Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(am) 2026-10-25：英文信稿已写 `draft_en`；俄文钩子改英文稿；EAC 对方侧；HRUI 不写 Marvell）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　首封前知悉：Elsa 仅 2025-02-24 单发过 1 封「Mini Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(am) 2026-10-25：英文信稿已写 `draft_en`；俄文钩子改英文稿；EAC 对方侧；HRUI 不写 Marvell）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
   - 第一问（只问一个）：Здравствуйте, рядом с UNIPOE PM3018GSNL-330 V2 (118 195 ₸ в вашем магазине): наш коммутатор той же конфигурации 16 PoE + 2 SFP — 88,0 USD EXW, 24 PoE + 2 SFP — 93,5 USD, нейтральная или ваша упаковка. Нужен ли вам второй источник на случай сроков или цен UNIPOE?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -207,14 +207,14 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-24T07:26:33Z　|　**最近变化**：2026-10-24T07:26:33Z
-- **最近变化摘要**：2026-10-24 sitemap：新增 366 条： videokamera-s-ik-podsvetkoy-ds-tcg406-e； zkteco-terminal-raspoznavaniya-lits-s-i
+- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-25T07:41:18Z
+- **最近变化摘要**：2026-10-25 sitemap：新增 366 条： videokamera-s-ik-podsvetkoy-ds-tcg406-e； zkteco-terminal-raspoznavaniya-lits-s-i
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-104/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://pulsar.kz/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 32665 字符；首行：NN |
-| [sitemap](https://pulsar.kz/sitemap.xml) | sitemap | HTTP 200 | 2026-10-24T07:26:33Z | 446 个 URL；最新 lastmod - |
+| [sitemap](https://pulsar.kz/sitemap.xml) | sitemap | HTTP 200 | 2026-10-25T07:41:18Z | 446 个 URL；最新 lastmod - |
 | [news_1](https://pulsar.kz/company/news/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 32457 字符；首行：NN |
 
 ## 联系方式（已有 · 原值照录）
@@ -307,7 +307,7 @@ Next to the UNIPOE PM3018GSNL-330 V2 (118,195 tenge in your shop), the same conf
 One question: do you need a second source for when UNIPOE lead times or prices move, or is the exclusive arrangement fixed?
 
 Best regards,
-Simon
+Alan
 Saga Telecom - sagatele.com
 ```
 

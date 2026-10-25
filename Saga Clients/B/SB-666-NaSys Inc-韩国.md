@@ -38,7 +38,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 工业 2 光 8 电网管 PoE = STI-288GPM（$82.2 @25%）；商用 16 口 PoE = HRUI STC-2216GPM（$137.5）。；Realtek 线按 HRUI 2026-09-30 进价 +25% 现算（Q-47 默认，不用 Drive 旧表价）：STC-2216GPM $137.5→$147.6；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-13 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-12-11 $300（48 Port PoE Managed Switch）、2025-08-21 $240（24 Port Fiber Switch）、2025-09-10 $65（10G Media Converter）、2025-09-26 $280（10G Enterprise SFP Switch）、2026-06-25 $16000（32 Port 400GB DC Switch）
 - **第一问（只问一个）**：Mr. Ko, the two quotes you asked for: industrial 2-SFP + 8-PoE managed $82 EXW, commercial 16-PoE + 2-SFP managed $147.6 (1-pc prices; project tiers from 50 pcs). Which project is this for, and when does it ship?
 - **最大未知**：年走量与现供应商
-- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 首封前知悉：Elsa 仅 2025-02-24 单发过 1 封「90W PoE Managed Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(ae) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用；KC stays on your side）；SECON 两项报价「欠答」开头；「from 50 pcs」不写；STC-2216GPM 为 HRUI）
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 首封前知悉：Elsa 仅 2025-02-24 单发过 1 封「90W PoE Managed Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(ae) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用；KC stays on your side）；SECON 两项报价「欠答」开头；「from 50 pcs」不写；STC-2216GPM 为 HRUI）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -49,7 +49,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：工业 2 光 8 电网管 PoE = STI-288GPM（$82.2 @25%）；商用 16 口 PoE = HRUI STC-2216GPM（$137.5）。
 - **断点 / 为什么停在这里**：韩国 KC；35 次跟进无回复
 - **Saga 现在该推什么**：P1 **STI-288GPM**（25% 档，Realtek 线按 HRUI 2026-09-30 进价 +25% 现算（Q-47 默认，不用 Drive 旧表价）：STC-2216GPM $137.5→$147.6；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-13 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-12-11 $300（48 Port PoE Managed Switch）、2025-08-21 $240（24 Port Fiber Switch）、2025-09-10 $65（10G Media Converter）、2025-09-26 $280（10G Enterprise SFP Switch）、2026-06-25 $16000（32 Port 400GB DC Switch））——工业 2 光 8 电网管 PoE = STI-288GPM（$82.2 @25%）；商用 16 口 PoE = HRUI STC-2216GPM（$137.5）。
-- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　首封前知悉：Elsa 仅 2025-02-24 单发过 1 封「90W PoE Managed Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(ae) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用；KC stays on your side）；SECON 两项报价「欠答」开头；「from 50 pcs」不写；STC-2216GPM 为 HRUI）
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　首封前知悉：Elsa 仅 2025-02-24 单发过 1 封「90W PoE Managed Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(ae) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用；KC stays on your side）；SECON 两项报价「欠答」开头；「from 50 pcs」不写；STC-2216GPM 为 HRUI）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
   - 第一问（只问一个）：Mr. Ko, the two quotes you asked for: industrial 2-SFP + 8-PoE managed $82 EXW, commercial 16-PoE + 2-SFP managed $147.6 (1-pc prices; project tiers from 50 pcs). Which project is this for, and when does it ship?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -191,7 +191,7 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-24T07:26:33Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-666/`；本节随档案重渲染刷新，实时看日志。
 
@@ -291,7 +291,7 @@ At SECON you asked for two quotes - industrial 2-fibre + 8-copper managed PoE, a
 One question: which project are these for, and roughly how many of each?
 
 Best regards,
-Simon
+Alan
 Saga Telecom - sagatele.com
 ```
 

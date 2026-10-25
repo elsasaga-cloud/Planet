@@ -105,7 +105,7 @@
   "next_move": {
    "when": "2027-Q1（换人后）",
    "channel": "A 邮箱 → 具名 KP",
-   "action": "换收件人再发一封（第 75 批(x) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用）；STC-204GP/028GP/2216GPM/08GE 为 HRUI，不写 Marvell）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）",
+   "action": "换收件人再发一封（第 75 批(x) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用）；STC-204GP/028GP/2216GPM/08GE 为 HRUI，不写 Marvell）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
    "one_question": "For the ADDON wired-networking range, an 8-port gigabit PoE desktop switch (120 W, your label and box) is $27.2 EXW and the plain 8-port gigabit at $10.5; which carton size do your e-traders prefer?"
   },
   "facts": [
@@ -137,7 +137,7 @@
   "proof_gaps": [],
   "draft_en": {
    "subject": "Two PoE / non-PoE 8-port SKUs for the ADDON wired range - your label and box",
-   "body": "Hello ADDON team,\n\nOver the past months you had a few product mails from us - most recently \"24 Port PoE Managed Switch\" on 19 August 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the ADDON wired-networking range, two desktop SKUs in your label and box from small lots, CE/RoHS/UKCA: 8 x Gigabit PoE+ + 2 x Gigabit uplinks, unmanaged, 120 W - model STC-028GP - $27.2 USD EXW (MOQ 1, 15-day validity); plain 8 x Gigabit desktop - STC-08GE - $10.5. If you want a managed SKU at the top of the range, 8 x PoE+ + 2 x SFP L2+ on a Marvell platform - STC-28DGGPM - $87.4. Logo on the unit is free; colour box from 200 sets.\n\nOne question: which carton size do your e-trader customers prefer - single retail box, or 10-pack brown carton?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+   "body": "Hello ADDON team,\n\nOver the past months you had a few product mails from us - most recently \"24 Port PoE Managed Switch\" on 19 August 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the ADDON wired-networking range, two desktop SKUs in your label and box from small lots, CE/RoHS/UKCA: 8 x Gigabit PoE+ + 2 x Gigabit uplinks, unmanaged, 120 W - model STC-028GP - $27.2 USD EXW (MOQ 1, 15-day validity); plain 8 x Gigabit desktop - STC-08GE - $10.5. If you want a managed SKU at the top of the range, 8 x PoE+ + 2 x SFP L2+ on a Marvell platform - STC-28DGGPM - $87.4. Logo on the unit is free; colour box from 200 sets.\n\nOne question: which carton size do your e-trader customers prefer - single retail box, or 10-pack brown carton?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
  }

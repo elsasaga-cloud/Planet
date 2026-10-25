@@ -37,7 +37,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 默认 25% 档：STC-28DGGPM（8 GE PoE+ 2 SFP L2+ 管理，$84.1）对应「2 光 8 PoE 管理」；Realtek 低价位 STC-28GPM（$62.2）；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：On the 2× SFP + 8× PoE managed switch you asked about: L2+ managed, 120 W budget, $84.1 EXW at 25-unit tier — may I ask which company/project this is for so I can quote the right quantity and shipping to the US?
 - **最大未知**：具体需求型号（表内兴趣列为空）
-- **下一步**：待 Simon 排期（首封） A 邮箱 → unpledged154@simplelogin.com（Alex Malinovich） 首封：按 email_hook 一问（第 75 批(b) 2026-10-25：英文信稿已写 `draft_en`）
+- **下一步**：待 Simon 排期（首封） A 邮箱 → unpledged154@simplelogin.com（Alex Malinovich） 首封：按 email_hook 一问（第 75 批(b) 2026-10-25：英文信稿已写 `draft_en`）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -48,7 +48,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：默认 25% 档：STC-28DGGPM（8 GE PoE+ 2 SFP L2+ 管理，$84.1）对应「2 光 8 PoE 管理」；Realtek 低价位 STC-28GPM（$62.2）
 - **断点 / 为什么停在这里**：身份不明；美国关税；无后续跟进
 - **Saga 现在该推什么**：P1 **STC-28DGGPM**（25% 档，按主表（研究档 saga_fit））——默认 25% 档：STC-28DGGPM（8 GE PoE+ 2 SFP L2+ 管理，$84.1）对应「2 光 8 PoE 管理」；Realtek 低价位 STC-28GPM（$62.2）
-- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → unpledged154@simplelogin.com（Alex Malinovich）　首封：按 email_hook 一问（第 75 批(b) 2026-10-25：英文信稿已写 `draft_en`）
+- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → unpledged154@simplelogin.com（Alex Malinovich）　首封：按 email_hook 一问（第 75 批(b) 2026-10-25：英文信稿已写 `draft_en`）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
   - 第一问（只问一个）：On the 2× SFP + 8× PoE managed switch you asked about: L2+ managed, 120 W budget, $84.1 EXW at 25-unit tier — may I ask which company/project this is for so I can quote the right quantity and shipping to the US?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -120,7 +120,7 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-24T07:26:33Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-286/`；本节随档案重渲染刷新，实时看日志。
 
@@ -221,7 +221,7 @@ The current unit on that footprint is L2+ managed on a Marvell platform (web GUI
 One question: which company or project is this for, so I can quote the right quantity and the shipping to the US?
 
 Best regards,
-Simon
+Alan
 Saga Telecom - sagatele.com
 ```
 

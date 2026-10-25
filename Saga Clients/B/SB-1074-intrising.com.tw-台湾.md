@@ -36,7 +36,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 自有 DCS-8GP-2GS（8 PoE + 2 SFP）→ 二供位工业管理 STI-288GPM（$85.5 @30%）；8 PoE + 4×10G（DAS-8GHP-4X）→ STI-488XGGPM（$178.7）；IEC 61850-3 变电站线不报（守界/无认证）。已打开的主题（1/22 封有打开记录）：「24 Port Fiber Switch」(2025-01-07) → 读者兴趣偏「MC/光电」；与 P1 同类，继续；换人再触锚价 STI-288GPM $85.5 EXW（主表档位（PDF 上限 $88；SA-026 2025-07 实报 $72 为分销量价）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-22 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2024-06-24 $65（10g fiber media converter）、2025-01-07 $240（24 Port Fiber Switch）、2025-10-23 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Ken, for the entry models of your industrial line (8-PoE + 2 SFP, 8-PoE + 4×10G), we can be a second source on a Marvell platform from small lots, leaving your IEC 61850-3 and PTP models untouched — is a lower-cost tier something you would consider dual-sourcing? Reference: STI-288GPM at $85.5 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封（第 75 批(aj) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封（第 75 批(aj) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -47,7 +47,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：自有 DCS-8GP-2GS（8 PoE + 2 SFP）→ 二供位工业管理 STI-288GPM（$85.5 @30%）；8 PoE + 4×10G（DAS-8GHP-4X）→ STI-488XGGPM（$178.7）；IEC 61850-3 变电站线不报（守界/无认证）
 - **断点 / 为什么停在这里**：台湾品牌商：自有 ODM 体系，仅二供/补缺；19 次无回复
 - **Saga 现在该推什么**：P1 **STI-288GPM**（30% 档，换人再触锚价 STI-288GPM $85.5 EXW（主表档位（PDF 上限 $88；SA-026 2025-07 实报 $72 为分销量价）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-22 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2024-06-24 $65（10g fiber media converter）、2025-01-07 $240（24 Port Fiber Switch）、2025-10-23 $280（10G Enterprise SFP Switch））——自有 DCS-8GP-2GS（8 PoE + 2 SFP）→ 二供位工业管理 STI-288GPM（$85.5 @30%）；8 PoE + 4×10G（DAS-8GHP-4X）→ STI-488XGGPM（$178.7）；IEC 61850-3 变电站线不报（守界/无认证）。已打开的主题（1/22 封有打开记录）：「24 Port Fiber Switch」(2025-01-07) → 读者兴趣偏「MC/光电」；与 P1 同类，继续
-- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封（第 75 批(aj) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封（第 75 批(aj) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
   - 第一问（只问一个）：Ken, for the entry models of your industrial line (8-PoE + 2 SFP, 8-PoE + 4×10G), we can be a second source on a Marvell platform from small lots, leaving your IEC 61850-3 and PTP models untouched — is a lower-cost tier something you would consider dual-sourcing? Reference: STI-288GPM at $85.5 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -186,14 +186,14 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-24T07:26:33Z　|　**最近变化**：2026-10-24T07:26:33Z
-- **最近变化摘要**：2026-10-24 sitemap：新增 86 条：2023-06-15T21:34:42 location_existed_prp_topology；2023-06-17T18:10:02 odm_ftto_net
+- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-25T07:41:18Z
+- **最近变化摘要**：2026-10-25 sitemap：新增 86 条：2023-06-15T21:34:42 location_existed_prp_topology；2023-06-17T18:10:02 odm_ftto_net
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1074/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://www.intrising.com.tw/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 2996 字符；首行：Home - Intrising Networks |
-| [sitemap](https://www.intrising.com.tw/sitemap.xml) | sitemap | HTTP 200 | 2026-10-24T07:26:33Z | 166 个 URL；最新 lastmod 2026-10-21T18:11:19 |
+| [sitemap](https://www.intrising.com.tw/sitemap.xml) | sitemap | HTTP 200 | 2026-10-25T07:41:18Z | 166 个 URL；最新 lastmod 2026-10-21T18:11:19 |
 | [news_1](https://www.intrising.com.tw/news/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 7517 字符；首行：Intrising Networks |
 | [news_2](https://www.intrising.com.tw/news/case_study/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 1769 字符；首行：Intrising Networks |
 | [feed_auto](https://www.intrising.com.tw/feeds/rss/news.xml) | rss | HTTP 200 | 2026-10-23T04:20:51Z | 24 条；最新：Fri, 24 Jul 2026 00:00:00 ISO 9001:2015 Certification |
@@ -287,7 +287,7 @@ For the entry models of your industrial line only - the IEC 61850-3 and PTP mode
 One question: is a lower-cost tier something you would consider dual-sourcing, or does every Intrising unit have to carry the full feature set?
 
 Best regards,
-Simon
+Alan
 Saga Telecom - sagatele.com
 ```
 

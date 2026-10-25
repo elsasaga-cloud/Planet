@@ -37,7 +37,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-240GM — OEM 30% 档：STI-240GM（DIN 2 SFP + 4 GE L2 管理，$62.2）与 STI-220GE（2 SFP + 2 GE，$30.1）对应「2 光 4 电 / 2 光 2 电」；10G 用 STI-480XGGM（4×10G SFP+ + 8 GE，$163.2）；bypass 版 SmartByte LT-IS6312G-4GX8GT-FBP（$186.5，Saga 暂；锚价：STI-240GM $62.2（OEM 30% 档；第 74 批(r) 2026-10-25 更正钩子句 77,0 = STI-244GPM PDF 价误用）；Realtek 线按 HRUI 2026-09-30 进价 +30% 现算（Q-47 默认，不用 Drive 旧表价）：STC-28GPM $62.2→$77.0；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Ufuk Bey, hazırladığımız ürün görsellerinin devamı olarak: 2 SFP + 4 port L2 yönetilebilir endüstriyel switch geMaxx/SFPTÜRKİYE etiketiyle EXW 62,2 USD, 2 SFP + 2 port 30,1 USD — mağazanız için ilk parti kaç adet olsun?
 - **最大未知**：年走量与现供应商
-- **下一步**：待 Simon 排期（首封） A 邮箱 → ufuk.goren@sfpturkey.com.tr（Ufuk Gören） 首封：按 email_hook 一问（第 74 批(r) 2026-10-25：英文信稿已写 `draft_en`，内容 = 土耳其语钩子句的英文版；土耳其语一句话仍在研究档备注里，对方若不读英文就整段单发）
+- **下一步**：待 Simon 排期（首封） A 邮箱 → ufuk.goren@sfpturkey.com.tr（Ufuk Gören） 首封：按 email_hook 一问（第 74 批(r) 2026-10-25：英文信稿已写 `draft_en`，内容 = 土耳其语钩子句的英文版；土耳其语一句话仍在研究档备注里，对方若不读英文就整段单发）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -48,7 +48,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：OEM 30% 档：STI-240GM（DIN 2 SFP + 4 GE L2 管理，$62.2）与 STI-220GE（2 SFP + 2 GE，$30.1）对应「2 光 4 电 / 2 光 2 电」；10G 用 STI-480XGGM（4×10G SFP+ + 8 GE，$163.2）；bypass 版 SmartByte LT-IS6312G-4GX8GT-FBP（$186.5，Saga 暂
 - **断点 / 为什么停在这里**：小团队、电商库存采购量小且比价；无后续跟进
 - **Saga 现在该推什么**：P1 **STI-240GM**（30% 档，锚价：STI-240GM $62.2（OEM 30% 档；第 74 批(r) 2026-10-25 更正钩子句 77,0 = STI-244GPM PDF 价误用）；Realtek 线按 HRUI 2026-09-30 进价 +30% 现算（Q-47 默认，不用 Drive 旧表价）：STC-28GPM $62.2→$77.0；按主表（研究档 saga_fit））——OEM 30% 档：STI-240GM（DIN 2 SFP + 4 GE L2 管理，$62.2）与 STI-220GE（2 SFP + 2 GE，$30.1）对应「2 光 4 电 / 2 光 2 电」；10G 用 STI-480XGGM（4×10G SFP+ + 8 GE，$163.2）；bypass 版 SmartByte LT-IS6312G-4GX8GT-FBP（$186.5，Saga 暂
-- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → ufuk.goren@sfpturkey.com.tr（Ufuk Gören）　首封：按 email_hook 一问（第 74 批(r) 2026-10-25：英文信稿已写 `draft_en`，内容 = 土耳其语钩子句的英文版；土耳其语一句话仍在研究档备注里，对方若不读英文就整段单发）
+- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → ufuk.goren@sfpturkey.com.tr（Ufuk Gören）　首封：按 email_hook 一问（第 74 批(r) 2026-10-25：英文信稿已写 `draft_en`，内容 = 土耳其语钩子句的英文版；土耳其语一句话仍在研究档备注里，对方若不读英文就整段单发）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
   - 第一问（只问一个）：Ufuk Bey, hazırladığımız ürün görsellerinin devamı olarak: 2 SFP + 4 port L2 yönetilebilir endüstriyel switch geMaxx/SFPTÜRKİYE etiketiyle EXW 62,2 USD, 2 SFP + 2 port 30,1 USD — mağazanız için ilk parti kaç adet olsun?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -136,7 +136,7 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-24T07:26:33Z　|　**最近变化**：2026-10-24T07:26:33Z
+- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-24T07:26:33Z
 - **最近变化摘要**：2026-10-24 youtube：恢复可达（上轮 YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过））
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-370/`；本节随档案重渲染刷新，实时看日志。
 
@@ -249,7 +249,7 @@ Logo on the front panel is free; colour box from 200 sets. A fibre-bypass versio
 One question: what quantity should the first lot for your store be?
 
 Best regards,
-Simon
+Alan
 Saga Telecom - sagatele.com
 ```
 

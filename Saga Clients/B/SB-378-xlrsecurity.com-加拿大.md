@@ -36,7 +36,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424DGGPM-280W — 自有 Lysora 云管理 PoE（8/16/24 口，Itoonertech 代工迹象）→ Saga 对位非云 L2+：STC-424DGGPM-280W（$145.7 @30%）/ STC-28DGGPM；Saga 无云管理 = 只能做本地管理版；换人再触锚价 STC-424DGGPM-280W $145.7 EXW（主表档位（PDF 上限 $165；SA-145 2025-02 实报 $150）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-13 $220（48 port managed switch）、2025-01-21 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-08-06 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-06-24 $65（10G Media Converter）、2025-09-24 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Jaeden, for the Lysora PoE range (8/16/24-port), we build Marvell-based L2+ PoE+ switches under your label from small lots — local web/CLI managed rather than cloud — with a PoE watchdog for camera sites; would a non-cloud managed version fit a tier of your range, and which port count first? Reference: STC-424DGGPM-280W at $145.7 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封（第 75 批(aa) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用）；钩子「CLI / PoE watchdog」不写——未核实；明说无云管理）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封（第 75 批(aa) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用）；钩子「CLI / PoE watchdog」不写——未核实；明说无云管理）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -47,7 +47,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：自有 Lysora 云管理 PoE（8/16/24 口，Itoonertech 代工迹象）→ Saga 对位非云 L2+：STC-424DGGPM-280W（$145.7 @30%）/ STC-28DGGPM；Saga 无云管理 = 只能做本地管理版
 - **断点 / 为什么停在这里**：Lysora 为云管理交换机：Saga 不做云管理，只能覆盖本地管理 SKU
 - **Saga 现在该推什么**：P1 **STC-424DGGPM-280W**（30% 档，换人再触锚价 STC-424DGGPM-280W $145.7 EXW（主表档位（PDF 上限 $165；SA-145 2025-02 实报 $150）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-13 $220（48 port managed switch）、2025-01-21 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-08-06 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-06-24 $65（10G Media Converter）、2025-09-24 $280（10G Enterprise SFP Switch））——自有 Lysora 云管理 PoE（8/16/24 口，Itoonertech 代工迹象）→ Saga 对位非云 L2+：STC-424DGGPM-280W（$145.7 @30%）/ STC-28DGGPM；Saga 无云管理 = 只能做本地管理版
-- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封（第 75 批(aa) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用）；钩子「CLI / PoE watchdog」不写——未核实；明说无云管理）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封（第 75 批(aa) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用）；钩子「CLI / PoE watchdog」不写——未核实；明说无云管理）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
   - 第一问（只问一个）：Jaeden, for the Lysora PoE range (8/16/24-port), we build Marvell-based L2+ PoE+ switches under your label from small lots — local web/CLI managed rather than cloud — with a PoE watchdog for camera sites; would a non-cloud managed version fit a tier of your range, and which port count first? Reference: STC-424DGGPM-280W at $145.7 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -198,16 +198,16 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：6 个　|　**数据截至**：2026-10-24T07:26:33Z　|　**最近变化**：2026-10-24T07:26:33Z
-- **最近变化摘要**：2026-10-24 youtube：恢复可达（上轮 YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过））
+- **监控层**：B 级面层　|　**自动源**：6 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-25T07:41:18Z
+- **最近变化摘要**：2026-10-25 news_2：内容变化：+9 −9 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-378/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://www.xlrsecurity.com/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 6032 字符；首行：XLR Security \| We sell security cameras & networking equipment. |
-| [sitemap](https://www.xlrsecurity.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-24T07:26:33Z | 554 个 URL；最新 lastmod 2026-10-24T02:33:24 |
+| [sitemap](https://www.xlrsecurity.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-25T07:41:18Z | 554 个 URL；最新 lastmod 2026-10-24T02:33:24 |
 | [news_1](https://www.xlrsecurity.com/blog/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 5007 字符；首行：Blog \| XLR Security |
-| [news_2](https://www.xlrsecurity.com/blog/how-far-can-a-ptz-camera-see/) | html | HTTP 200 | 2026-10-24T04:35:40Z | 7521 字符；首行：How Far Can a PTZ Camera See? \| XLR Security |
+| [news_2](https://www.xlrsecurity.com/blog/how-far-can-a-ptz-camera-see/) | html | HTTP 200 | 2026-10-25T07:41:18Z | 7534 字符；首行：How Far Can a PTZ Camera See? \| XLR Security |
 | [youtube](https://www.youtube.com/@xlrsecurity) | youtube_handle | HTTP 200 | 2026-10-24T07:26:33Z | 15 条；最新：2026-06-03T17:08:47+00:00 Who is Lysora Technology and What Products Do They Offer |
 | [feed_auto](https://www.xlrsecurity.com/feed/) | rss | HTTP 200 | 2026-10-23T04:20:51Z | 10 条；最新：Mon, 04 May 2026 17:49:36 Introducing Lysora – Powerful & Cost-effective Networkin |
 
@@ -306,7 +306,7 @@ For the Lysora PoE range (PN-D7012-8P / D7020-16P / D7028-24P), straight answer 
 One question: would a non-cloud managed tier fit the range at all - and if so, which port count first?
 
 Best regards,
-Simon
+Alan
 Saga Telecom - sagatele.com
 ```
 

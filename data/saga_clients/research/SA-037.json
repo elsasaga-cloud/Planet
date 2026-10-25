@@ -149,7 +149,7 @@
   "next_move": {
    "when": "2027-Q1",
    "channel": "A 邮箱 → info@fcnet.pl",
-   "action": "一句话问管理型 PoE 的来源（第 75 批(p) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
+   "action": "一句话问管理型 PoE 的来源（第 75 批(p) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
    "one_question": "For managed PoE switches (not MC), who is your current source and what is the gap you would switch for? Reference: STC-424DGGPM-280W at $134.5 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
@@ -229,7 +229,7 @@
   "proof_gaps": [],
   "draft_en": {
    "subject": "Not the media converter again - where do your managed PoE switches come from?",
-   "body": "Hello FCNET team,\n\nIn April 2025 you told us a competitor had a much better price on the 10G media converter - fair, converters are the most price-driven item we carry, and we did not argue. The mails since were general product mails; no reason to answer those.\n\nWhere we are usually worth a look is the managed PoE switch against the TL-SG2428P / TL-SG2210MP price points on fcnet.pl, under your own label: 24 x Gigabit PoE+ (280 W) + 4 x SFP, L2+ managed, Marvell-based, CE/RoHS - model STC-424DGGPM-280W - $134.5 USD EXW at distributor price (MOQ 1, 15-day validity); 8 x PoE+ + 2 x SFP - STC-28DGGPM - $80.7.\n\nOne question: where do your managed PoE switches come from today - a brand, or an own-label source?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+   "body": "Hello FCNET team,\n\nIn April 2025 you told us a competitor had a much better price on the 10G media converter - fair, converters are the most price-driven item we carry, and we did not argue. The mails since were general product mails; no reason to answer those.\n\nWhere we are usually worth a look is the managed PoE switch against the TL-SG2428P / TL-SG2210MP price points on fcnet.pl, under your own label: 24 x Gigabit PoE+ (280 W) + 4 x SFP, L2+ managed, Marvell-based, CE/RoHS - model STC-424DGGPM-280W - $134.5 USD EXW at distributor price (MOQ 1, 15-day validity); 8 x PoE+ + 2 x SFP - STC-28DGGPM - $80.7.\n\nOne question: where do your managed PoE switches come from today - a brand, or an own-label source?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
  }

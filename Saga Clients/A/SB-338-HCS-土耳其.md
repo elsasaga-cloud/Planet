@@ -38,7 +38,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424DGGPM-280W（HCS 贴牌）/ 商用 L3 24+4（LT-S8528XG-4XS24GT，Saga 暂无型号） — 布线品牌补交换机线 → OEM 贴 HCS 标；产品开发经理在 ISAF 问 L2/L3；锚价：STC-424DGGPM-280W $145.7（OEM 30% 档）/ 商用 L3 24+4（SmartByte LT-S8528XG-4XS24GT，无 Saga 型号）291.5（30% 档；此前误标 25% 档并杜撰型号 STC-424XGGM(L3)，第 76 批(b) 改）（第 72 批 2026-10-24）；—
 - **第一问（只问一个）**：Cihat Bey, ISAF'ta sorduğunuz L2/L3 sorusunun cevabı: 24 port PoE+ (280 W) + 4 SFP L2+ model HCS etiketiyle EXW 145,7 USD, 24 port + 4×10G L3 model 291,5 USD; HCS kablolama ürün gamına eklemek için önce hangi model için numune isterseniz hazırlayayım?
 - **最大未知**：年走量与现供应商
-- **下一步**：待 Simon 排期（首封；ISAF 续） A 邮箱 → ctuncbilek@hescs.com（Cihat Tunçbilek；土耳其语） 一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 74 批(q) 2026-10-25：英文信稿已写 `draft_en`——ISAF 问题 L2/L3 两款并列、OEM 30% 价、只问一个「先打样哪款」；Turkish 一句话版留在 one_question 备用，发信用英文）（第 75 批(ak) 2026-10-25：信稿复检修正——「(VLAN, QoS, IGMP, LACP, PoE sc」→「(VLAN, QoS)」）（第 76 批(b) 2026-10-25：audit_ab 硬错误修正：去掉杜撰型号 STC-424XGGM(L3)，tier 25→30 与文本一致）（第 76 批(c) 2026-10-25：0 事实户补时间线事实）（第 76 批(d) 2026-10-25：锚价小数写法 145,7 → $145.7）
+- **下一步**：待 Simon 排期（首封；ISAF 续） A 邮箱 → ctuncbilek@hescs.com（Cihat Tunçbilek；土耳其语） 一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 74 批(q) 2026-10-25：英文信稿已写 `draft_en`——ISAF 问题 L2/L3 两款并列、OEM 30% 价、只问一个「先打样哪款」；Turkish 一句话版留在 one_question 备用，发信用英文）（第 75 批(ak) 2026-10-25：信稿复检修正——「(VLAN, QoS, IGMP, LACP, PoE sc」→「(VLAN, QoS)」）（第 76 批(b) 2026-10-25：audit_ab 硬错误修正：去掉杜撰型号 STC-424XGGM(L3)，tier 25→30 与文本一致）（第 76 批(c) 2026-10-25：0 事实户补时间线事实）（第 76 批(d) 2026-10-25：锚价小数写法 145,7 → $145.7）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -49,7 +49,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：24 口 PoE+ L2+ / 24 口 + 4×10G L3 商用机（HCS 标）
 - **断点 / 为什么停在这里**：—
 - **Saga 现在该推什么**：P1 **STC-424DGGPM-280W（HCS 贴牌）/ 商用 L3 24+4（LT-S8528XG-4XS24GT，Saga 暂无型号）**（30% 档，锚价：STC-424DGGPM-280W $145.7（OEM 30% 档）/ 商用 L3 24+4（SmartByte LT-S8528XG-4XS24GT，无 Saga 型号）291.5（30% 档；此前误标 25% 档并杜撰型号 STC-424XGGM(L3)，第 76 批(b) 改）（第 72 批 2026-10-24）；—）——布线品牌补交换机线 → OEM 贴 HCS 标；产品开发经理在 ISAF 问 L2/L3
-- **下一步（具体）**：待 Simon 排期（首封；ISAF 续）　A 邮箱 → ctuncbilek@hescs.com（Cihat Tunçbilek；土耳其语）　一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 74 批(q) 2026-10-25：英文信稿已写 `draft_en`——ISAF 问题 L2/L3 两款并列、OEM 30% 价、只问一个「先打样哪款」；Turkish 一句话版留在 one_question 备用，发信用英文）（第 75 批(ak) 2026-10-25：信稿复检修正——「(VLAN, QoS, IGMP, LACP, PoE sc」→「(VLAN, QoS)」）（第 76 批(b) 2026-10-25：audit_ab 硬错误修正：去掉杜撰型号 STC-424XGGM(L3)，tier 25→30 与文本一致）（第 76 批(c) 2026-10-25：0 事实户补时间线事实）（第 76 批(d) 2026-10-25：锚价小数写法 145,7 → $145.7）
+- **下一步（具体）**：待 Simon 排期（首封；ISAF 续）　A 邮箱 → ctuncbilek@hescs.com（Cihat Tunçbilek；土耳其语）　一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 74 批(q) 2026-10-25：英文信稿已写 `draft_en`——ISAF 问题 L2/L3 两款并列、OEM 30% 价、只问一个「先打样哪款」；Turkish 一句话版留在 one_question 备用，发信用英文）（第 75 批(ak) 2026-10-25：信稿复检修正——「(VLAN, QoS, IGMP, LACP, PoE sc」→「(VLAN, QoS)」）（第 76 批(b) 2026-10-25：audit_ab 硬错误修正：去掉杜撰型号 STC-424XGGM(L3)，tier 25→30 与文本一致）（第 76 批(c) 2026-10-25：0 事实户补时间线事实）（第 76 批(d) 2026-10-25：锚价小数写法 145,7 → $145.7）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
   - 第一问（只问一个）：Cihat Bey, ISAF'ta sorduğunuz L2/L3 sorusunun cevabı: 24 port PoE+ (280 W) + 4 SFP L2+ model HCS etiketiyle EXW 145,7 USD, 24 port + 4×10G L3 model 291,5 USD; HCS kablolama ürün gamına eklemek için önce hangi model için numune isterseniz hazırlayayım?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -133,7 +133,7 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：A 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-24T07:26:33Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：A 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-338/`；本节随档案重渲染刷新，实时看日志。
 
@@ -241,7 +241,7 @@ Both are Marvell-based managed switches, CE/RoHS, 1-year warranty, 4-7 working d
 One question: which of the two should I prepare first as an evaluation unit (at the unit price) for your product team - the L2+ PoE model that fits the HCS cabling range, or the L3 unit?
 
 Best regards,
-Simon
+Alan
 Saga Telecom - sagatele.com
 ```
 

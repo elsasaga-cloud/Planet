@@ -129,7 +129,7 @@
   "next_move": {
    "when": "2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）",
    "channel": "A 邮箱 → info@falke-security.de（Nuri Sahin）",
-   "action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(q) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
+   "action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(q) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
    "one_question": "You asked at the show for the 8-copper models with fibre uplinks, so here are the two closest Marvell-based units, the 8-port PoE+ with 2 SFP and the 24-port with four 10G SFP+ uplinks, both at EXW. Which of the two should I price first? Reference: STC-28DGGPM at $84.1 / STC-424XGGPM-280W at $180 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
@@ -171,7 +171,7 @@
   ],
   "draft_en": {
    "subject": "The two models you asked about at the show - 8 copper with fibre uplinks",
-   "body": "Hello Mr. Sahin,\n\nAt the show you looked at the 8-copper models with fibre uplinks - the 4 x 10G version and the 2.5G 1-fibre + 8-copper - and asked for prices; the mails you had since were general product mails. Here are the numbers.\n\n8 x Gigabit PoE+ + 2 x 2.5G SFP, L2+ managed, Marvell-based, CE/RoHS - model STC-28DGGPM - $84.1 USD EXW (MOQ 1, 15-day validity). 24 x Gigabit PoE+ (280 W) + 4 x 10G SFP+, L2+ managed, Marvell-based - STC-424XGGPM-280W - $180 (the mail you had in August said $170; the RMB has moved from 7.2 to 6.7 since). 1 x 10G SFP+ + 8 x 2.5G, non-PoE, unmanaged - STC-18XGDGE - $50.1.\n\nOne question: for your 1-256 channel camera projects, is the 8-port going into the cabinet as PoE for cameras, or as a non-PoE aggregation unit?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+   "body": "Hello Mr. Sahin,\n\nAt the show you looked at the 8-copper models with fibre uplinks - the 4 x 10G version and the 2.5G 1-fibre + 8-copper - and asked for prices; the mails you had since were general product mails. Here are the numbers.\n\n8 x Gigabit PoE+ + 2 x 2.5G SFP, L2+ managed, Marvell-based, CE/RoHS - model STC-28DGGPM - $84.1 USD EXW (MOQ 1, 15-day validity). 24 x Gigabit PoE+ (280 W) + 4 x 10G SFP+, L2+ managed, Marvell-based - STC-424XGGPM-280W - $180 (the mail you had in August said $170; the RMB has moved from 7.2 to 6.7 since). 1 x 10G SFP+ + 8 x 2.5G, non-PoE, unmanaged - STC-18XGDGE - $50.1.\n\nOne question: for your 1-256 channel camera projects, is the 8-port going into the cabinet as PoE for cameras, or as a non-PoE aggregation unit?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
  }

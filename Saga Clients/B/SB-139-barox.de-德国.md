@@ -191,13 +191,13 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-24T07:26:33Z　|　**最近变化**：2026-10-24T07:26:33Z
-- **最近变化摘要**：2026-10-24 youtube：恢复可达（上轮 YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过））
+- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-25T07:41:18Z
+- **最近变化摘要**：2026-10-25 home：内容变化：+3 −3 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-139/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://www.barox.ch/en-us/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 6090 字符；首行：Switches for Video \| barox.ch |
+| [home](https://www.barox.ch/en-us/) | html | HTTP 200 | 2026-10-25T07:41:18Z | 6090 字符；首行：Switches for Video \| barox.ch |
 | [sitemap](https://www.barox.ch/sitemap_index.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 0 个 URL；最新 lastmod - |
 | [news_1](https://www.barox.ch/en-us/news/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 23657 字符；首行：News \| barox.ch |
 | [youtube](https://www.youtube.com/@baroxkommunikationag4606) | youtube_handle | HTTP 200 | 2026-10-24T07:26:33Z | 15 条；最新：2026-10-22T08:25:24+00:00 Integrating Gallagher Command Centre with barox Switch M |

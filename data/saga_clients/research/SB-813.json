@@ -97,7 +97,7 @@
   "next_move": {
    "when": "2027-Q1（换人后）",
    "channel": "A 邮箱 → 具名 KP",
-   "action": "换收件人再发一封（第 75 批(w) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）",
+   "action": "换收件人再发一封（第 75 批(w) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
    "one_question": "Alongside the Utepo industrial switches in your industrial security packages, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units, 8-PoE + 2 SFP L2+ commercial switches and gigabit MCs from single units, FCC/CE/RoHS, EXW USD — which configuration do your industrial installs use most? Reference: STI-288GPM at $82.2 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
@@ -129,7 +129,7 @@
   "proof_gaps": [],
   "draft_en": {
    "subject": "Alongside the Utepo industrial switches in your packages - three configurations from single units",
-   "body": "Hello CCTVRoom team,\n\nOver the past months you had a few product mails from us - most recently \"Managed PoE Switches\" on 25 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nAlongside the Utepo industrial switches in your industrial security packages, three configurations from single units, FCC/CE/RoHS, EXW, 15-day validity: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, L2 managed, Marvell-based, -40 to 75 C - model STI-288GPM - $82.2 USD; commercial 8 x PoE+ + 2 x SFP, L2+ managed - STC-28DGGPM - $84.1; Gigabit media converter, 1 x RJ45 + 1 x SFP - STI-110GE - $26.5.\n\nOne question: which configuration do your industrial installs use most - DIN-rail PoE, or the rack unit in a closet?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+   "body": "Hello CCTVRoom team,\n\nOver the past months you had a few product mails from us - most recently \"Managed PoE Switches\" on 25 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nAlongside the Utepo industrial switches in your industrial security packages, three configurations from single units, FCC/CE/RoHS, EXW, 15-day validity: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, L2 managed, Marvell-based, -40 to 75 C - model STI-288GPM - $82.2 USD; commercial 8 x PoE+ + 2 x SFP, L2+ managed - STC-28DGGPM - $84.1; Gigabit media converter, 1 x RJ45 + 1 x SFP - STI-110GE - $26.5.\n\nOne question: which configuration do your industrial installs use most - DIN-rail PoE, or the rack unit in a closet?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
  }

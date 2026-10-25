@@ -37,7 +37,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GP — 默认 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP，$59.8）；4 口 STI-144GP（$35.5）；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Necdet Bey, ISAF'ta istediğiniz endüstriyel PoE switch: DIN ray 8 PoE + 2 SFP 59,8 USD, 4 PoE + 1 SFP 35,5 USD EXW — firma adınız ve adet bilgisini yazarsanız resmi teklif göndereyim.
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；公司网站（表内无域名，无法核实是否仍在运营）
-- **下一步**：待 Simon 排期（首封） A 邮箱 → bilecik@hotmail.com（Necdet Şenkaya） 首封：按 email_hook 一问（第 74 批(r) 2026-10-25：英文信稿已写 `draft_en`，内容 = 土耳其语钩子句的英文版；土耳其语一句话仍在研究档备注里，对方若不读英文就整段单发）
+- **下一步**：待 Simon 排期（首封） A 邮箱 → bilecik@hotmail.com（Necdet Şenkaya） 首封：按 email_hook 一问（第 74 批(r) 2026-10-25：英文信稿已写 `draft_en`，内容 = 土耳其语钩子句的英文版；土耳其语一句话仍在研究档备注里，对方若不读英文就整段单发）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -48,7 +48,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：默认 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP，$59.8）；4 口 STI-144GP（$35.5）
 - **断点 / 为什么停在这里**：无公司信息；无后续跟进
 - **Saga 现在该推什么**：P1 **STI-288GP**（25% 档，按主表（研究档 saga_fit））——默认 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP，$59.8）；4 口 STI-144GP（$35.5）
-- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → bilecik@hotmail.com（Necdet Şenkaya）　首封：按 email_hook 一问（第 74 批(r) 2026-10-25：英文信稿已写 `draft_en`，内容 = 土耳其语钩子句的英文版；土耳其语一句话仍在研究档备注里，对方若不读英文就整段单发）
+- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → bilecik@hotmail.com（Necdet Şenkaya）　首封：按 email_hook 一问（第 74 批(r) 2026-10-25：英文信稿已写 `draft_en`，内容 = 土耳其语钩子句的英文版；土耳其语一句话仍在研究档备注里，对方若不读英文就整段单发）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
   - 第一问（只问一个）：Necdet Bey, ISAF'ta istediğiniz endüstriyel PoE switch: DIN ray 8 PoE + 2 SFP 59,8 USD, 4 PoE + 1 SFP 35,5 USD EXW — firma adınız ve adet bilgisini yazarsanız resmi teklif göndereyim.
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -196,7 +196,7 @@ The industrial PoE switches you asked for: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, 
 One question: if you send me your company name and the quantity, I will issue a formal quotation - how many units is the first project?
 
 Best regards,
-Simon
+Alan
 Saga Telecom - sagatele.com
 ```
 

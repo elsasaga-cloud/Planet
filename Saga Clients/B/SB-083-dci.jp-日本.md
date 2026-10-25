@@ -36,7 +36,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 在售 ORing 工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）；MC 位 STI-110GE / STI-111GP；bypass 标签页 → SmartByte LT-IS6312GP-4GX8GT-FBP（注明）；换人再触锚价 STI-288GPM $78.9 EXW（主表档位（PDF 上限 $88；SA-026 2025-07 实报 $72 为分销量价）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2025-01-01 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-08-06 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-07-02 $65（Media Converter）、2024-07-31 $220（48 port managed switch）、2025-10-08 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Alongside the ORing industrial switches and the media converters you carry, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units and gigabit/PoE media converters (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your transport and energy customers order most? Reference: STI-288GPM at $78.9 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 首封前知悉：Elsa 已 1:1 去信 2 轮（2025-05-02→2025-06-23，0 回）（第 74 批(n)）；换收件人再发一封（第 75 批(ai) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；bypass 款无型号只写 on request；CWDM/轨道不报；PSE 只写 Mean Well 适配器）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 首封前知悉：Elsa 已 1:1 去信 2 轮（2025-05-02→2025-06-23，0 回）（第 74 批(n)）；换收件人再发一封（第 75 批(ai) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；bypass 款无型号只写 on request；CWDM/轨道不报；PSE 只写 Mean Well 适配器）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -47,7 +47,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：在售 ORing 工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）；MC 位 STI-110GE / STI-111GP；bypass 标签页 → SmartByte LT-IS6312GP-4GX8GT-FBP（注明）
 - **断点 / 为什么停在这里**：非主攻区（T5，日本）；PSE/VCCI 由客户申报
 - **Saga 现在该推什么**：P1 **STI-288GPM**（20% 档，换人再触锚价 STI-288GPM $78.9 EXW（主表档位（PDF 上限 $88；SA-026 2025-07 实报 $72 为分销量价）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2025-01-01 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-08-06 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-07-02 $65（Media Converter）、2024-07-31 $220（48 port managed switch）、2025-10-08 $280（10G Enterprise SFP Switch））——在售 ORing 工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）；MC 位 STI-110GE / STI-111GP；bypass 标签页 → SmartByte LT-IS6312GP-4GX8GT-FBP（注明）
-- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　首封前知悉：Elsa 已 1:1 去信 2 轮（2025-05-02→2025-06-23，0 回）（第 74 批(n)）；换收件人再发一封（第 75 批(ai) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；bypass 款无型号只写 on request；CWDM/轨道不报；PSE 只写 Mean Well 适配器）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　首封前知悉：Elsa 已 1:1 去信 2 轮（2025-05-02→2025-06-23，0 回）（第 74 批(n)）；换收件人再发一封（第 75 批(ai) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；bypass 款无型号只写 on request；CWDM/轨道不报；PSE 只写 Mean Well 适配器）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
   - 第一问（只问一个）：Alongside the ORing industrial switches and the media converters you carry, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units and gigabit/PoE media converters (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your transport and energy customers order most? Reference: STI-288GPM at $78.9 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -180,7 +180,7 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-24T07:26:33Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-083/`；本节随档案重渲染刷新，实时看日志。
 
@@ -282,7 +282,7 @@ Alongside the ORing industrial switches and the media converters you carry for t
 One question: which port count do your transport and energy customers order most - 4, 8 or 16?
 
 Best regards,
-Simon
+Alan
 Saga Telecom - sagatele.com
 ```
 

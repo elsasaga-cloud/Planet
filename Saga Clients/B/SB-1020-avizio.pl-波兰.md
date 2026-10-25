@@ -36,7 +36,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 现 N-net（深圳）工业 FS 贴 Avizio 标 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ 非管理 STI-288GP（$62.2）作替代。已打开的主题（1/1 封有打开记录）：「Industrial poe switch」(2024-07-09) → 读者兴趣偏「工业」；与 P1 同类，继续；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：For the industrial PoE switches you sell under the Avizio label with your security systems, we can be a second ODM source (DIN-rail 8-PoE + 2 SFP managed on Marvell L2+, or unmanaged, −40~75 °C, CE/RoHS) from small lots in your packaging — which model do your installers use most?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
-- **下一步**：2026-11（先找地址） A 邮箱 → 官网核到的有效邮箱（inquiries@ 已失效） 核 avizio.pl 当前联系邮箱 → 首封用研究档一句话；核不到就不发（第 75 批(d) 2026-10-25：英文信稿已写 `draft_en`；地址失效——核到新邮箱再发）
+- **下一步**：2026-11（先找地址） A 邮箱 → 官网核到的有效邮箱（inquiries@ 已失效） 核 avizio.pl 当前联系邮箱 → 首封用研究档一句话；核不到就不发（第 75 批(d) 2026-10-25：英文信稿已写 `draft_en`；地址失效——核到新邮箱再发）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -47,7 +47,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：现 N-net（深圳）工业 FS 贴 Avizio 标 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ 非管理 STI-288GP（$62.2）作替代
 - **断点 / 为什么停在这里**：官网快照空页（站点状态待核）；现供 N-net（深圳）价格基准低
 - **Saga 现在该推什么**：P1 **STI-288GPM**（30% 档，按主表（研究档 saga_fit））——现 N-net（深圳）工业 FS 贴 Avizio 标 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ 非管理 STI-288GP（$62.2）作替代。已打开的主题（1/1 封有打开记录）：「Industrial poe switch」(2024-07-09) → 读者兴趣偏「工业」；与 P1 同类，继续
-- **下一步（具体）**：2026-11（先找地址）　A 邮箱 → 官网核到的有效邮箱（inquiries@ 已失效）　核 avizio.pl 当前联系邮箱 → 首封用研究档一句话；核不到就不发（第 75 批(d) 2026-10-25：英文信稿已写 `draft_en`；地址失效——核到新邮箱再发）
+- **下一步（具体）**：2026-11（先找地址）　A 邮箱 → 官网核到的有效邮箱（inquiries@ 已失效）　核 avizio.pl 当前联系邮箱 → 首封用研究档一句话；核不到就不发（第 75 批(d) 2026-10-25：英文信稿已写 `draft_en`；地址失效——核到新邮箱再发）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
   - 第一问（只问一个）：For the industrial PoE switches you sell under the Avizio label with your security systems, we can be a second ODM source (DIN-rail 8-PoE + 2 SFP managed on Marvell L2+, or unmanaged, −40~75 °C, CE/RoHS) from small lots in your packaging — which model do your installers use most?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -133,7 +133,7 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-24T07:26:33Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1020/`；本节随档案重渲染刷新，实时看日志。
 
@@ -230,7 +230,7 @@ For the industrial PoE switches you sell under the Avizio label with your securi
 One question: which of the two do your installers use most - managed or unmanaged?
 
 Best regards,
-Simon
+Alan
 Saga Telecom - sagatele.com
 ```
 

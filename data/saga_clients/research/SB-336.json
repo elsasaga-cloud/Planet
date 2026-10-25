@@ -133,7 +133,7 @@
     "next_move": {
       "when": "2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）",
       "channel": "A 邮箱 → eds@eds.com.tr（Osman Yıldız；土耳其语）",
-      "action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 74 批(r) 2026-10-25：英文信稿已写 `draft_en`（= 客户语言钩子句的英文版，客户语言一句话留在备注里）；「以前的客户」只据用户表，具体型号未知——信里请对方报型号，不编）（第 76 批(d) 2026-10-25：锚价小数写法 137,5 → $137.5）（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
+      "action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 74 批(r) 2026-10-25：英文信稿已写 `draft_en`（= 客户语言钩子句的英文版，客户语言一句话留在备注里）；「以前的客户」只据用户表，具体型号未知——信里请对方报型号，不编）（第 76 批(d) 2026-10-25：锚价小数写法 137,5 → $137.5）（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
       "one_question": "Osman Bey, ISAF'ta görüşmemizin devamı olarak: önceki siparişlerinizdeki modellerin güncel karşılıklarını ve EDS etiketli DIN ray 8 PoE+ + 2 SFP L2+ endüstriyel switch (137,5 USD EXW) fiyatını tek sayfada hazırladım — ithalat tarafında Münevver Hanım'a mı yoksa Gülnihal Hanım'a mı iletmemi istersiniz?"
     },
     "facts": [
@@ -192,7 +192,7 @@
     ],
     "draft_en": {
       "subject": "Following our meeting at ISAF - EDS-label industrial PoE switch and your earlier models",
-      "body": "Hi Osman,\n\nWe met at ISAF 2025 in Istanbul last October - this picks up what we discussed at the booth.\n\nTwo things for EDS:\n\n1. An EDS-labelled DIN-rail industrial switch, 8 x Gigabit PoE+ + 2 x SFP, L2+ managed with ring redundancy, -40 to 75 C, model STI-288DGGPM - $137.5 USD EXW (MOQ 1, 15-day validity). Logo on the front panel is free; colour box from 200 sets.\n2. EDS bought from us before. If you let me know which models those were, I will map each one to its current equivalent and price on one page.\n\nOne question: on the import side, should I send that page to Münevver Hanım or to Gülnihal Hanım?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+      "body": "Hi Osman,\n\nWe met at ISAF 2025 in Istanbul last October - this picks up what we discussed at the booth.\n\nTwo things for EDS:\n\n1. An EDS-labelled DIN-rail industrial switch, 8 x Gigabit PoE+ + 2 x SFP, L2+ managed with ring redundancy, -40 to 75 C, model STI-288DGGPM - $137.5 USD EXW (MOQ 1, 15-day validity). Logo on the front panel is free; colour box from 200 sets.\n2. EDS bought from us before. If you let me know which models those were, I will map each one to its current equivalent and price on one page.\n\nOne question: on the import side, should I send that page to Münevver Hanım or to Gülnihal Hanım?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
     },
     "as_of": "2026-10-24"
   }

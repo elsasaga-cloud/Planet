@@ -37,7 +37,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 贴牌 8/24 口 PoE → 8 口 L2+ 先做第二货源；锚价：STC-28DGGPM $87.4（30% 档）（第 72 批 2026-10-24）；—
 - **第一问（只问一个）**：Your AE-PS8082SFT-M and AE-PS242SFT-M are the two footprints where a Marvell-based second source in AE Connect packing drops in without datasheet changes, so I am quoting both EXW with the industrial 8-port PoE + SFP model as the third line. Which of the two footprints would you second-source first? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问） A 邮箱 → AE Connect 具名 KP 待找（用户表 3 次回复渠道不明） 一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(p) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；具名 KP 待找）
+- **下一步**：2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问） A 邮箱 → AE Connect 具名 KP 待找（用户表 3 次回复渠道不明） 一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(p) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；具名 KP 待找）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -48,7 +48,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：贴牌 8/24 口 PoE。
 - **断点 / 为什么停在这里**：—
 - **Saga 现在该推什么**：P1 **STC-28DGGPM**（30% 档，锚价：STC-28DGGPM $87.4（30% 档）（第 72 批 2026-10-24）；—）——贴牌 8/24 口 PoE → 8 口 L2+ 先做第二货源
-- **下一步（具体）**：2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）　A 邮箱 → AE Connect 具名 KP 待找（用户表 3 次回复渠道不明）　一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(p) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；具名 KP 待找）
+- **下一步（具体）**：2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）　A 邮箱 → AE Connect 具名 KP 待找（用户表 3 次回复渠道不明）　一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(p) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；具名 KP 待找）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
   - 第一问（只问一个）：Your AE-PS8082SFT-M and AE-PS242SFT-M are the two footprints where a Marvell-based second source in AE Connect packing drops in without datasheet changes, so I am quoting both EXW with the industrial 8-port PoE + SFP model as the third line. Which of the two footprints would you second-source first? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -177,14 +177,14 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：A 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-24T07:26:33Z　|　**最近变化**：2026-10-24T07:26:33Z
-- **最近变化摘要**：2026-10-24 youtube：恢复可达（上轮 YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过））
+- **监控层**：A 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-25T07:41:18Z
+- **最近变化摘要**：2026-10-25 news_1：内容变化：+169 −1 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-055/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://aeconnect.co.in/) | html | HTTP 200 | 2026-10-24T07:26:33Z | 5973 字符；首行：Networking Products Manufacturer in India \| AE Connect |
-| [news_1](https://aeconnect.co.in/blog/) | html | HTTP 200 | 2026-10-24T07:26:33Z | 25127 字符；首行：AE Connect Blog – Insights on Networking & IoT |
+| [home](https://aeconnect.co.in/) | html | HTTP 200 | 2026-10-25T07:41:18Z | 5976 字符；首行：Networking Products Manufacturer in India \| AE Connect |
+| [news_1](https://aeconnect.co.in/blog/) | html | HTTP 200 | 2026-10-25T07:41:18Z | 25128 字符；首行：AE Connect Blog – Insights on Networking & IoT |
 | [youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UCqw4MRNMDXjB0FkJe6p-Rhw) | rss | HTTP 200 | 2026-10-24T07:26:33Z | 15 条；最新：2026-10-20T05:02:46+00:00 Happy Dussehra! |
 | [feed_auto](https://aeconnect.co.in/feed/) | rss | HTTP 200 | 2026-10-23T04:20:51Z | 10 条；最新：Thu, 30 Jul 2026 05:58:37 3-Port Gigabit PoE Extender AEIN-PEG02 |
 
@@ -274,10 +274,10 @@ Hello AE Connect team,
 
 You told us in 2025 that your PoE switches are RTL-based and mature, and that part of the range is now made in India - understood. The two footprints where a Marvell-based second source still drops into your range without datasheet changes, in AE Connect packing from small lots: AE-PS8082SFT-M class - 8 x Gigabit PoE+ + 2 x SFP, L2+ managed - model STC-28DGGPM - $87.4 USD EXW with your logo (MOQ 1, 15-day validity); AE-PS242SFT-M class - 24 x PoE+ (280 W) + 4 x SFP - STC-424DGGPM-280W - $145.7. Industrial 8 x PoE+ + 2 x SFP DIN unit as a third line. BIS stays on your side.
 
-One question: which of the imported SKUs is staying imported after the Make-in-India move - that is the one worth a second source.
+One question: which of the imported SKUs is staying imported after the Make-in-India move? That is the one worth a second source.
 
 Best regards,
-Simon
+Alan
 Saga Telecom - sagatele.com
 ```
 

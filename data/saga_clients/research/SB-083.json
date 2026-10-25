@@ -109,7 +109,7 @@
     "next_move": {
       "when": "2027-Q1（换人后）",
       "channel": "A 邮箱 → 具名 KP",
-      "action": "首封前知悉：Elsa 已 1:1 去信 2 轮（2025-05-02→2025-06-23，0 回）（第 74 批(n)）；换收件人再发一封（第 75 批(ai) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；bypass 款无型号只写 on request；CWDM/轨道不报；PSE 只写 Mean Well 适配器）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）",
+      "action": "首封前知悉：Elsa 已 1:1 去信 2 轮（2025-05-02→2025-06-23，0 回）（第 74 批(n)）；换收件人再发一封（第 75 批(ai) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；bypass 款无型号只写 on request；CWDM/轨道不报；PSE 只写 Mean Well 适配器）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
       "one_question": "Alongside the ORing industrial switches and the media converters you carry, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units and gigabit/PoE media converters (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your transport and energy customers order most? Reference: STI-288GPM at $78.9 USD EXW (MOQ 1, 15-day validity)."
     },
     "facts": [
@@ -159,7 +159,7 @@
     "proof_gaps": [],
     "draft_en": {
       "subject": "Alongside the ORing switches and converters you carry - DIN managed PoE and gigabit converters",
-      "body": "Hello Data Controls team,\n\nOver the past months you had a few product mails from us - most recently \"Managed PoE Switches\" on 29 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nAlongside the ORing industrial switches and the media converters you carry for transport and energy networks, neutral packing, at distributor price, EXW, MOQ 1, 15-day validity, -40 to 75 C, CE/RoHS: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, L2 managed, Marvell-based - model STI-288GPM - $78.9 USD; Gigabit media converter, 1 x RJ45 + 1 x SFP slot - STI-110GE - $26.5; PoE version - STI-111GP - $27.8. A bypass unit (8 x PoE+ + 4 x SFP with hardware fibre bypass) is available on request. CWDM and rail-certified positions we do not quote. PSE-marked Mean Well adapters on the desktop units.\n\nOne question: which port count do your transport and energy customers order most - 4, 8 or 16?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+      "body": "Hello Data Controls team,\n\nOver the past months you had a few product mails from us - most recently \"Managed PoE Switches\" on 29 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nAlongside the ORing industrial switches and the media converters you carry for transport and energy networks, neutral packing, at distributor price, EXW, MOQ 1, 15-day validity, -40 to 75 C, CE/RoHS: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, L2 managed, Marvell-based - model STI-288GPM - $78.9 USD; Gigabit media converter, 1 x RJ45 + 1 x SFP slot - STI-110GE - $26.5; PoE version - STI-111GP - $27.8. A bypass unit (8 x PoE+ + 4 x SFP with hardware fibre bypass) is available on request. CWDM and rail-certified positions we do not quote. PSE-marked Mean Well adapters on the desktop units.\n\nOne question: which port count do your transport and energy customers order most - 4, 8 or 16?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
     },
     "as_of": "2026-10-24"
   }

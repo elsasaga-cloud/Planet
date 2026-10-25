@@ -71,7 +71,7 @@
     "next_move": {
       "when": "2026-11（顺手）",
       "channel": "Elsa 邮箱回原线程",
-      "action": "首封前知悉：Elsa 已 1:1 去信 5 轮（2025-10-01→2026-05-11，0 回），此前还经锚 Bcc 触达（第 74 批(m)）；首封前知悉：Elsa 已 BCC 群发触达（最近 2025-04-05「Marvell Alleycat5 Solution」），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生。 一问；回原串沿用原主题（邮件客户端自动加 Re:），上面的主题只在另起新信时用（第 76 批(c) 2026-10-25：audit_ab 软项修正：署名「Alan Yan」→「Alan」（A 箱实际署名））",
+      "action": "首封前知悉：Elsa 已 1:1 去信 5 轮（2025-10-01→2026-05-11，0 回），此前还经锚 Bcc 触达（第 74 批(m)）；首封前知悉：Elsa 已 BCC 群发触达（最近 2025-04-05「Marvell Alleycat5 Solution」），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生。 一问；回原串沿用原主题（邮件客户端自动加 Re:），上面的主题只在另起新信时用（第 76 批(c) 2026-10-25：audit_ab 软项修正：署名「Alan Yan」→「Alan」（A 箱实际署名））（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
       "one_question": "Michael — no rear-facing-port models in our range (ports are front; airflow front-to-rear on the CENTEC units). What is the rack situation that needs rear ports — cabling to a patch panel behind?"
     },
     "facts": [
@@ -167,7 +167,7 @@
     ],
     "draft_en": {
       "subject": "48-port PoE — rear-facing ports",
-      "body": "Michael,\n\nAs Elsa said in June, none of our models have rear-facing ports — ports are front, airflow front-to-rear on the CENTEC data-center units.\n\nWhat is the rack situation that needs rear ports — cabling to a patch panel behind the switch? If it is a mounting question, reverse-mount brackets may solve it.\n\nAnd one thing I should have asked first: what is the company and the typical project, so I send only what fits.\n\nAlan\nSaga Telecom - sagatele.com"
+      "body": "Michael,\n\nAs I said in June, none of our models have rear-facing ports — ports are front, airflow front-to-rear on the CENTEC data-center units.\n\nWhat is the rack situation that needs rear ports — cabling to a patch panel behind the switch? If it is a mounting question, reverse-mount brackets may solve it.\n\nAnd one thing I should have asked first: what is the company and the typical project, so I send only what fits.\n\nElsa\nSaga Telecom - sagatele.com"
     },
     "as_of": "2026-10-25"
   }

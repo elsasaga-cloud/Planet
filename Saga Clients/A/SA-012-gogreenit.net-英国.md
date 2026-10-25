@@ -220,14 +220,14 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：成单精选层　|　**自动源**：4 个　|　**数据截至**：2026-10-24T07:26:33Z　|　**最近变化**：2026-10-24T04:35:40Z
-- **最近变化摘要**：2026-10-24 chewie_rss：新增 4 条：Fri, 23 Oct 2026 23 ；Fri, 23 Oct 2026 12 ；Fri, 23 Oct 2026 12 ；Fri, 23 Oct 2026 12 
+- **监控层**：成单精选层　|　**自动源**：4 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-25T07:41:18Z
+- **最近变化摘要**：2026-10-25 chewie_rss：新增 1 条：Sat, 24 Oct 2026 23 
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-012/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [mastodon_instance](https://mammut.gogreenit.net/api/v1/instance) | json | HTTP 200 | 2026-10-24T04:35:40Z | version="4.7.3"; stats={"user_count": 9, "status_count": 16403, "domain_count": 285; conta |
-| [chewie_rss](https://mammut.gogreenit.net/@chewie.rss) | rss | HTTP 200 | 2026-10-24T04:35:40Z | 20 条；最新：Fri, 23 Oct 2026 23:06:18  |
+| [mastodon_instance](https://mammut.gogreenit.net/api/v1/instance) | json | HTTP 200 | 2026-10-25T07:41:18Z | version="4.7.3"; stats={"user_count": 9, "status_count": 16427, "domain_count": 285; conta |
+| [chewie_rss](https://mammut.gogreenit.net/@chewie.rss) | rss | HTTP 200 | 2026-10-25T07:41:18Z | 20 条；最新：Sat, 24 Oct 2026 23:31:35  |
 | [home](http://gogreenit.net/) | html | HTTP 200 | 2026-10-23T02:54:23Z | 2569 字符；首行：Go Green IT - Home |
 | [auto_home](https://gogreenit.net/) | html | HTTP 200 | 2026-10-23T04:57:18Z | 2569 字符；首行：Go Green IT - Home |
 
@@ -326,6 +326,7 @@ One question: on battery power, what is the DC input voltage at the switch when 
 
 Thank you.
 Alan
+Saga Telecom - sagatele.com
 ```
 
 > 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。

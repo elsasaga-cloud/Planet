@@ -103,7 +103,7 @@
   "next_move": {
    "when": "待 Simon 排期（首封）",
    "channel": "A 邮箱 → procurement@novytel.cz（Miloš Holec）",
-   "action": "首封：按 email_hook 一问（第 75 批(j) 2026-10-25：英文信稿已写 `draft_en`）",
+   "action": "首封：按 email_hook 一问（第 75 批(j) 2026-10-25：英文信稿已写 `draft_en`）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
    "one_question": "Miloš, following your media-converter enquiry: we supply gigabit and PoE media converters (industrial DIN-rail; desktop versions available) neutral-brand from small lots, CE/RoHS, EXW USD — what quantity and fibre type (single-mode distance) does your end customer need? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
@@ -121,7 +121,7 @@
   ],
   "draft_en": {
    "subject": "Your media-converter request on Alibaba - what we supply",
-   "body": "Hi Miloš,\n\nYou asked on Alibaba for media converters and did not get a proper answer from us - apologies, here it is.\n\nNeutral-brand industrial converters, DIN-rail, -40 to 75 C, CE/RoHS, from small lots: Gigabit, 1 x RJ45 + 1 x SFP slot (or fixed SC single-mode 20 km) - model STI-110GE - $26.5 USD EXW (MOQ 1, 15-day validity); Gigabit PoE+ version - STI-111GP - $27.8. Desktop versions on request.\n\nOne question: what quantity and fibre type - single-mode distance, or SFP-slot so the customer picks the optic - does your end customer need?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+   "body": "Hi Miloš,\n\nYou asked on Alibaba for media converters and did not get a proper answer from us - apologies, here it is.\n\nNeutral-brand industrial converters, DIN-rail, -40 to 75 C, CE/RoHS, from small lots: Gigabit, 1 x RJ45 + 1 x SFP slot (or fixed SC single-mode 20 km) - model STI-110GE - $26.5 USD EXW (MOQ 1, 15-day validity); Gigabit PoE+ version - STI-111GP - $27.8. Desktop versions on request.\n\nOne question: what quantity and fibre type - single-mode distance, or SFP-slot so the customer picks the optic - does your end customer need?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
  }

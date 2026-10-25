@@ -91,7 +91,7 @@
   "next_move": {
    "when": "2027-Q1（换人后）",
    "channel": "A 邮箱 → 具名 KP",
-   "action": "换收件人再发一封（第 75 批(v) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））（第 75 批(ak) 2026-10-25：信稿复检修正——「DIN-rail or wall-mount,」→「DIN-rail,」）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）",
+   "action": "换收件人再发一封（第 75 批(v) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））（第 75 批(ak) 2026-10-25：信稿复检修正——「DIN-rail or wall-mount,」→「DIN-rail,」）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
    "one_question": "Deepali, for the media converters listed under the SANspot label next to your cabling range, we can supply gigabit MCs (desktop or industrial DIN/wall) in your packaging from small lots, FCC/CE/RoHS — which MC configuration do your customers order most? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
@@ -123,7 +123,7 @@
   "proof_gaps": [],
   "draft_en": {
    "subject": "Media converters under the SANspot label - next to the cabling range",
-   "body": "Hi Deepali,\n\nOver the past months you had a few product mails from us - most recently \"Updated Ethernet Switches Links\" on 26 February 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the media converters listed under the SANspot label next to your cabling range, in your packaging from small lots, FCC/CE/RoHS: industrial Gigabit converter, DIN-rail, 1 x RJ45 + 1 x SFP slot (fixed SC optional), -40 to 75 C - model STI-110GE - $26.5 USD EXW (MOQ 1, 15-day validity); the PoE version for a camera at the fibre end - STI-111GP - $30.1; desktop versions on request.\n\nOne question: which converter configuration do your customers order most - SFP-slot or fixed SC, and single- or multimode?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+   "body": "Hi Deepali,\n\nOver the past months you had a few product mails from us - most recently \"Updated Ethernet Switches Links\" on 26 February 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the media converters listed under the SANspot label next to your cabling range, in your packaging from small lots, FCC/CE/RoHS: industrial Gigabit converter, DIN-rail, 1 x RJ45 + 1 x SFP slot (fixed SC optional), -40 to 75 C - model STI-110GE - $26.5 USD EXW (MOQ 1, 15-day validity); the PoE version for a camera at the fibre end - STI-111GP - $30.1; desktop versions on request.\n\nOne question: which converter configuration do your customers order most - SFP-slot or fixed SC, and single- or multimode?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
  }

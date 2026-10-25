@@ -168,14 +168,14 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-24T07:26:33Z　|　**最近变化**：2026-10-23T04:20:51Z
-- **最近变化摘要**：2026-10-23 首轮基线
+- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-25T07:41:18Z
+- **最近变化摘要**：2026-10-25 home：内容变化：+1 −158 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-754/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://aironix.co.il/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 4460 字符；首行：Home - Aironix Systems |
-| [feed_auto](https://aironix.co.il/feed/) | rss | HTTP 200 | 2026-10-23T04:20:51Z | 10 条；最新：Wed, 10 Sep 2025 05:13:09 פרסום במגזין NEW-TECH |
+| [home](https://aironix.co.il/) | html | HTTP 202 | 2026-10-25T07:41:18Z | 0 字符；首行： |
+| [feed_auto](https://aironix.co.il/feed/) | rss | ParseError: not well-formed (invalid token): line 1, column  | 2026-10-23T04:20:51Z | 首页自动发现的 feed |
 
 ## 联系方式（已有 · 原值照录）
 
@@ -273,6 +273,7 @@ One question: shall I prepare the sample invoice for 2 pcs, or do you want the 4
 
 Thank you.
 Alan
+Saga Telecom - sagatele.com
 ```
 
 > 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。

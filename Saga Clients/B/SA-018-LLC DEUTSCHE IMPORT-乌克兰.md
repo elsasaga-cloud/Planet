@@ -36,7 +36,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：BO 内 Marvell 款（具体型号在 DI order #1.xls，附件未入库）；Realtek 款按 Simon 是否开线 — J3：一次性回答身份 + 问旧 BO，成本一封信；UA 风险另核｜已发资料（勿重发）：Saga Feature List_7.5.x_L2+(2026-06-22)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）；他见过/自填的价：Simon 2024-05 STI-050FE $25 / 050FE-M $20 / 080FE $40；他 BO 自填 NSI-500F $19 / 800F $24 / 820GP $53 / NSIM-420G $60 / 820G $70 / 820GP $80（2024-11-20）；按 30% 自有标档（㉕ 封顶：STI-288DGGPM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25）
 - **第一问（只问一个）**：Your Nov-2024 test order (DI order #1) — is it still worth shipping the Marvell items with your label, 7–10 days after payment?
 - **最大未知**：年走量与现供应商
-- **下一步**：2026-11（一次） S 邮箱 → sergiy.khodun@gmail.com 两段：Saga 现身份一句话；2024 BO 的 Marvell 项是否仍要、7–10 天交期不变
+- **下一步**：被动（乌克兰守界：build 规则「封顶 B · 不主动投入，仅被动响应」；备稿留用，他若来信即用）（全量审计 2026-10-25 U57） S 邮箱 → sergiy.khodun@gmail.com 【原计划 2026-11（一次）主动去信，与乌克兰守界规则冲突，改为被动；Simon 若要主动发一次，这封稿可直接用】两段：Saga 现身份一句话；2024 BO 的 Marvell 项是否仍要、7–10 天交期不变
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -48,7 +48,7 @@ updated: 2026-10-25
 - **断点 / 为什么停在这里**：身份问题是真实停点（摘读 D12/D13）：对方要的是「厂」的确定性，Saga 当时的回答把 Realtek 线的「贸易」属性摆在了订单前面。现口径「Engineering & Supply-Chain-First」正好是对这个问题的答案。
 - **Saga 现在该推什么**：P1 **BO 内 Marvell 款（具体型号在 DI order #1.xls，附件未入库）；Realtek 款按 Simon 是否开线**（30% 档，他见过/自填的价：Simon 2024-05 STI-050FE $25 / 050FE-M $20 / 080FE $40；他 BO 自填 NSI-500F $19 / 800F $24 / 820GP $53 / NSIM-420G $60 / 820G $70 / 820GP $80（2024-11-20）；按 30% 自有标档（㉕ 封顶：STI-288DGGPM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25））——J3：一次性回答身份 + 问旧 BO，成本一封信；UA 风险另核｜已发资料（勿重发）：Saga Feature List_7.5.x_L2+(2026-06-22)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）
   - 做不了 / 要先核的：DI order #1.xls 内容未入库；UA 物流（百运网能否到基辅）与付款（T/T 可否）
-- **下一步（具体）**：2026-11（一次）　S 邮箱 → sergiy.khodun@gmail.com　两段：Saga 现身份一句话；2024 BO 的 Marvell 项是否仍要、7–10 天交期不变
+- **下一步（具体）**：被动（乌克兰守界：build 规则「封顶 B · 不主动投入，仅被动响应」；备稿留用，他若来信即用）（全量审计 2026-10-25 U57）　S 邮箱 → sergiy.khodun@gmail.com　【原计划 2026-11（一次）主动去信，与乌克兰守界规则冲突，改为被动；Simon 若要主动发一次，这封稿可直接用】两段：Saga 现身份一句话；2024 BO 的 Marvell 项是否仍要、7–10 天交期不变
   - 第一问（只问一个）：Your Nov-2024 test order (DI order #1) — is it still worth shipping the Marvell items with your label, 7–10 days after payment?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -181,7 +181,7 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-24T07:26:33Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-018/`；本节随档案重渲染刷新，实时看日志。
 
@@ -285,7 +285,7 @@ One question: are the Marvell items in that BO still worth shipping with your la
 
 Best regards,
 Simon
-Saga Telecom · sagatele.com
+Saga Telecom - sagatele.com
 ```
 
 > 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。

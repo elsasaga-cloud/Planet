@@ -128,7 +128,7 @@
     "next_move": {
       "when": "2027-Q1",
       "channel": "A 邮箱 → alfredo.timpanaro@topsicurezza.com（Alfredo Timpanaro）",
-      "action": "一封对位表（第 75 批(q) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；STC-4168XGGCM 不报价（他 2025-10 见过群发 $280，档位 $408 冲突）——改问 ONV 型号再报）（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
+      "action": "一封对位表（第 75 批(q) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；STC-4168XGGCM 不报价（他 2025-10 见过群发 $280，档位 $408 冲突）——改问 ONV 型号再报）（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
       "one_question": "Sig. Timpanaro, for the Videostar PoE line: an 8-port gigabit PoE+ managed switch with 2 SFP (Marvell, STC-28DGGPM) is $87.4 USD EXW with your logo in the web UI (printed carton from 200 sets), and the 16-SFP + 8-combo aggregation unit you asked us about at IFSEC 2023 (STC-4168XGGCM) is $408.1 USD EXW, MOQ 1, 15-day validity — shall I send the model-by-model comparison against your current ONV codes?"
     },
     "facts": [
@@ -178,7 +178,7 @@
     ],
     "draft_en": {
       "subject": "For the Videostar line - 8-port PoE+ managed, and your ONV code for the 12-fibre unit",
-      "body": "Dear Sig. Timpanaro,\n\nAt IFSEC 2023 you told us you buy from ONV, are happy with the quality but find the price high at times, and asked about a 12-fibre + 12-copper unit and the chipset and power supply inside. The mails you had from us since were general ones; this is specific.\n\nFor the Videostar PoE line: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell switch core, industrial-grade power stage, CE/RoHS - model STC-28DGGPM - $87.4 USD EXW with the Videostar logo in the web UI (MOQ 1, 15-day validity; printed carton from 200 sets). For the 12-fibre + 12-copper position I quote against the exact ONV code rather than guess.\n\nOne question: which ONV code do you buy for the 12-fibre + 12-copper unit today?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+      "body": "Dear Sig. Timpanaro,\n\nAt IFSEC 2023 you told us you buy from ONV, are happy with the quality but find the price high at times, and asked about a 12-fibre + 12-copper unit and the chipset and power supply inside. The mails you had from us since were general ones; this is specific.\n\nFor the Videostar PoE line: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell switch core, industrial-grade power stage, CE/RoHS - model STC-28DGGPM - $87.4 USD EXW with the Videostar logo in the web UI (MOQ 1, 15-day validity; printed carton from 200 sets). For the 12-fibre + 12-copper position I quote against the exact ONV code rather than guess.\n\nOne question: which ONV code do you buy for the 12-fibre + 12-copper unit today?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
     },
     "as_of": "2026-10-24"
   }

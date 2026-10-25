@@ -187,7 +187,7 @@
     "next_move": {
       "when": "2027-Q1（之前不发）",
       "channel": "A 邮箱 → Jacques",
-      "action": "首封前知悉：Elsa 仅 2025-02-10 单发过 1 封「Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；一句话问自有标部门归口；停止向 nsc.support 发任何群发（第 75 批(am) 2026-10-25：英文信稿已写 `draft_en`；STC-228GP 20% $33.2（2025-10 报价待对照））",
+      "action": "首封前知悉：Elsa 仅 2025-02-10 单发过 1 封「Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；一句话问自有标部门归口；停止向 nsc.support 发任何群发（第 75 批(am) 2026-10-25：英文信稿已写 `draft_en`；STC-228GP 20% $33.2（2025-10 报价待对照））（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
       "one_question": "Does Regal's Securi-Prod line source any OEM switches, and who owns that decision?"
     },
     "facts": [
@@ -230,7 +230,7 @@
     ],
     "draft_en": {
       "subject": "One question, Jacques - the Securi-Prod line and OEM switches",
-      "body": "Hi Jacques,\n\nOne question only, following the 2 + 2 + 8 PoE quote we sent in October 2025: does Regal's Securi-Prod line source any OEM switches, and who owns that decision - you, or the product team? If it is not you, a name is enough and I will not write to the support desk again.\n\nFor reference the quoted unit stands: 8 x Gigabit PoE+ + 2 x Gigabit + 2 x SFP, unmanaged - model STC-228GP - $33.2 USD EXW at distributor tier (MOQ 1, 15-day validity), Securi-Prod label free, colour box from 200 sets.\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+      "body": "Hi Jacques,\n\nOne question only, following the 2 + 2 + 8 PoE quote we sent in October 2025: does Regal's Securi-Prod line source any OEM switches, and who owns that decision - you, or the product team? If it is not you, a name is enough and I will not write to the support desk again.\n\nFor reference the quoted unit stands: 8 x Gigabit PoE+ + 2 x Gigabit + 2 x SFP, unmanaged - model STC-228GP - $33.2 USD EXW at distributor tier (MOQ 1, 15-day validity), Securi-Prod label free, colour box from 200 sets.\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
     },
     "as_of": "2026-10-24"
   }

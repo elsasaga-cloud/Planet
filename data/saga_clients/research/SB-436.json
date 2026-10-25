@@ -102,7 +102,7 @@
   "next_move": {
    "when": "待 Simon 排期（首封）",
    "channel": "A 邮箱 → 待找地址（maxlink.cz 官网 /kontakt；库内无邮箱）",
-   "action": "首封：按 email_hook 一问（第 75 批(j) 2026-10-25：英文信稿已写 `draft_en`；库内无邮箱——官网 /kontakt 找到再发）",
+   "action": "首封：按 email_hook 一问（第 75 批(j) 2026-10-25：英文信稿已写 `draft_en`；库内无邮箱——官网 /kontakt 找到再发）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
    "one_question": "For the PoE switch category under the MaxLink label, we can supply Marvell-based 8-PoE + 2 SFP L2+ and 4/8-port unmanaged PoE units from small lots in your housing and packaging — which port count sells most through your where-to-buy partners? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
@@ -120,7 +120,7 @@
   ],
   "draft_en": {
    "subject": "PoE switch category under the MaxLink label - ODM from small lots",
-   "body": "Hello MaxLink team,\n\nFor the PoE switch category under the MaxLink label, we can build in your housing and packaging from small lots, CE/RoHS: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based - model STC-28DGGPM - $87.4 USD EXW with your logo (MOQ 1, 15-day validity); budget 4-PoE + 2 uplink and 8-PoE + 2 uplink unmanaged units - STC-114GP $18.5 / STC-028GP $27.2. PoE injectors, SFP modules and DAC we leave to your current sources.\n\nOne question: which port count sells most through your where-to-buy partners - 4, 8 or 24?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+   "body": "Hello MaxLink team,\n\nFor the PoE switch category under the MaxLink label, we can build in your housing and packaging from small lots, CE/RoHS: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based - model STC-28DGGPM - $87.4 USD EXW with your logo (MOQ 1, 15-day validity); budget 4-PoE + 2 uplink and 8-PoE + 2 uplink unmanaged units - STC-114GP $18.5 / STC-028GP $27.2. PoE injectors, SFP modules and DAC we leave to your current sources.\n\nOne question: which port count sells most through your where-to-buy partners - 4, 8 or 24?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
  }

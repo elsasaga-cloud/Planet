@@ -114,7 +114,7 @@
   "next_move": {
    "when": "待 Simon 排期（首封）",
    "channel": "A 邮箱 → alban.beqiri@storm.ict.com（Alban S. Beqiri）",
-   "action": "首封：按 email_hook 一问（第 75 批(k) 2026-10-25：英文信稿已写 `draft_en`）",
+   "action": "首封：按 email_hook 一问（第 75 批(k) 2026-10-25：英文信稿已写 `draft_en`）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
    "one_question": "Following our chat at ISAF about managed industrial PoE: DIN-rail 8× GbE PoE+ (240 W) + 2× SFP L2+ managed, −40 to +75 °C, $137.5 EXW at 25-unit tier — how many units does your next infrastructure project in Pristina or Skopje need?"
   },
   "facts": [
@@ -132,7 +132,7 @@
   ],
   "draft_en": {
    "subject": "Managed industrial PoE for your Pristina and Skopje projects - from ISAF",
-   "body": "Hi Alban,\n\nWe met at ISAF 2025 in Istanbul last October - this picks up what we discussed at the booth about managed industrial PoE.\n\nThe unit: DIN-rail 8 x Gigabit PoE+ (240 W budget) + 2 x SFP, L2+ managed with ring redundancy, Marvell-based, -40 to 75 C, CE/RoHS - model STI-288DGGPM - $137.5 USD EXW (MOQ 1, 15-day validity). For larger cabinets, a 16 x PoE+ + 2 x SFP industrial unmanaged unit, STI-21616GP, $177.5.\n\nOne question: how many units does your next infrastructure project in Pristina or Skopje need?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+   "body": "Hi Alban,\n\nWe met at ISAF 2025 in Istanbul last October - this picks up what we discussed at the booth about managed industrial PoE.\n\nThe unit: DIN-rail 8 x Gigabit PoE+ (240 W budget) + 2 x SFP, L2+ managed with ring redundancy, Marvell-based, -40 to 75 C, CE/RoHS - model STI-288DGGPM - $137.5 USD EXW (MOQ 1, 15-day validity). For larger cabinets, a 16 x PoE+ + 2 x SFP industrial unmanaged unit, STI-21616GP, $177.5.\n\nOne question: how many units does your next infrastructure project in Pristina or Skopje need?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
  }

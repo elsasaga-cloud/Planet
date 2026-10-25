@@ -112,7 +112,7 @@
     "next_move": {
       "when": "2027-Q1（换人后）",
       "channel": "A 邮箱 → 具名 KP",
-      "action": "首封前知悉：Elsa 仅 2025-02-24 单发过 1 封「8 Port Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(y) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）",
+      "action": "首封前知悉：Elsa 仅 2025-02-24 单发过 1 封「8 Port Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(y) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
       "one_question": "Scotty, for the PoE feeding cameras and sensors next to your satellite terminals at remote sites, we can supply compact industrial 4-PoE + 1 uplink switches (−40~75 °C, 12–57 V, CE/RoHS/UKCA) under your label from small lots — which input voltage do your remote installations provide? Reference: STI-054GP at $32.5 USD EXW (MOQ 1, 15-day validity)."
     },
     "facts": [
@@ -153,7 +153,7 @@
     "proof_gaps": [],
     "draft_en": {
       "subject": "PoE for cameras and sensors next to the satellite terminals - the input-voltage question",
-      "body": "Hi Scotty,\n\nOver the past months you had a few product mails from us - most recently \"Managed PoE Switches\" on 24 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the PoE feeding cameras and sensors next to your satellite terminals at remote sites, under the Ground Control label from small lots, -40 to 75 C, CE/RoHS/UKCA: compact DIN-rail 4 x Gigabit PoE+ + 1 x Gigabit uplink, unmanaged, 44-57 V DC - model STI-054GP - $32.5 USD EXW (MOQ 1, 15-day validity); with an SFP uplink - STI-154GP - $40.8. Injectors and PoE accessories we do not carry.\n\nOne question: which input voltage do your remote installations provide - 12/24 V battery, or 48 V - that decides whether a DC-DC goes in front?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+      "body": "Hi Scotty,\n\nOver the past months you had a few product mails from us - most recently \"Managed PoE Switches\" on 24 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the PoE feeding cameras and sensors next to your satellite terminals at remote sites, under the Ground Control label from small lots, -40 to 75 C, CE/RoHS/UKCA: compact DIN-rail 4 x Gigabit PoE+ + 1 x Gigabit uplink, unmanaged, 44-57 V DC - model STI-054GP - $32.5 USD EXW (MOQ 1, 15-day validity); with an SFP uplink - STI-154GP - $40.8. Injectors and PoE accessories we do not carry.\n\nOne question: which input voltage do your remote installations provide - 12/24 V battery, or 48 V - that decides whether a DC-DC goes in front?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
     },
     "as_of": "2026-10-24"
   }

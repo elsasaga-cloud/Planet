@@ -36,7 +36,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM（8 PoE + 2 SFP L2+，OEM 30% 档）；STC-424XGGPM-280W（群发价 $180）；STI-288GPM（DIN 8 PoE + 2 SFP，$85.5） — 已打开的主题（2/26 封有打开记录）：「Industrial PoE Switch」(2025-08-11)、「Re: Fw: OEM Core Switching Solution」(2026-02-05) → 读者兴趣偏「工业」；与 P1 同类，继续；OEM 档 30%：STC-28DGGPM $87.4；STC-424XGGPM-280W $180（现价轮群发，他 2026-08-10 见过 $170）；STI-288GPM $85.5；贴牌软件免费、PVC 丝印收费（MOQ 300）、彩盒 $2.5/套 200 起（商务条款速查 §11）；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-29 $300（48 port switch）；群发里他已看到的价（续）：2026-08-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-06-24 $240（24 Port Fiber Switch）、2025-09-25 $280（10G Enterprise SFP Switch）、2025-10-16 $65（10G Media Converter）
 - **第一问（只问一个）**：Eugene — answering your January question properly this time: white-label is available on every switch we ship — your logo, model name, MAC range, login IP and SNMP OID at no charge, from 1 unit; front-panel PVC overlay is tooled per batch (MOQ 300); colour box $2.5/set from 200. Reference prices (USD EXW, 15-day validity): 8-PoE + 2 SFP L2+ managed STC-28DGGPM $87.4, 24-PoE + 4×10G L2+ STC-424XGGPM-280W $180 (August mail said $170; that round closed in September), DIN-rail 8-PoE + 2 SFP managed STI-288GPM $85.5. KC certification stays on your side. Which model would you white-label first?
 - **最大未知**：年走量与现供应商
-- **下一步**：2026-11（一封具体答复，距 02-05 链接包已 9 个月） A 邮箱 → support@mcss.co.kr（노현진 Eugene；回到 Re: Fw: OEM Core Switching Solution 串） 一段话答贴牌规则 + 三款价 + 一问（㉙）
+- **下一步**：不动（Q-33 渠道客户：PLANET/UniFi 在售 → 不主动跟；备稿留用，Simon 点头或对方再来信才发）（全量审计 2026-10-25 U57） A 邮箱 → support@mcss.co.kr（노현진 Eugene；回到 Re: Fw: OEM Core Switching Solution 串） 【原计划 2026-11 一封具体答复，与绑定行「revive 不动（Q-33）」矛盾，按 Q-33 默认改为不动】一段话答贴牌规则 + 三款价 + 一问（㉙）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -47,7 +47,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：OEM/白标清单（2026-01-16 原话：「list of products and related materials that support your OEM / white-label services (such as branding and model name customization)」）——要的是「哪些能贴牌、怎么贴、起订量」，不是链接。
 - **断点 / 为什么停在这里**：Alan 02-05 迟回 20 天且只给链接 + 「还会再更新」，没回答贴牌规则本身（规则 ㉙ 要一段话）；Q-33 口径（PLANET/UniFi 在售）标记但不妨碍答一次具体问题。
 - **Saga 现在该推什么**：P1 **STC-28DGGPM（8 PoE + 2 SFP L2+，OEM 30% 档）；STC-424XGGPM-280W（群发价 $180）；STI-288GPM（DIN 8 PoE + 2 SFP，$85.5）**（30% 档，OEM 档 30%：STC-28DGGPM $87.4；STC-424XGGPM-280W $180（现价轮群发，他 2026-08-10 见过 $170）；STI-288GPM $85.5；贴牌软件免费、PVC 丝印收费（MOQ 300）、彩盒 $2.5/套 200 起（商务条款速查 §11）；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-29 $300（48 port switch）；群发里他已看到的价（续）：2026-08-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-06-24 $240（24 Port Fiber Switch）、2025-09-25 $280（10G Enterprise SFP Switch）、2025-10-16 $65（10G Media Converter））——已打开的主题（2/26 封有打开记录）：「Industrial PoE Switch」(2025-08-11)、「Re: Fw: OEM Core Switching Solution」(2026-02-05) → 读者兴趣偏「工业」；与 P1 同类，继续
-- **下一步（具体）**：2026-11（一封具体答复，距 02-05 链接包已 9 个月）　A 邮箱 → support@mcss.co.kr（노현진 Eugene；回到 Re: Fw: OEM Core Switching Solution 串）　一段话答贴牌规则 + 三款价 + 一问（㉙）
+- **下一步（具体）**：不动（Q-33 渠道客户：PLANET/UniFi 在售 → 不主动跟；备稿留用，Simon 点头或对方再来信才发）（全量审计 2026-10-25 U57）　A 邮箱 → support@mcss.co.kr（노현진 Eugene；回到 Re: Fw: OEM Core Switching Solution 串）　【原计划 2026-11 一封具体答复，与绑定行「revive 不动（Q-33）」矛盾，按 Q-33 默认改为不动】一段话答贴牌规则 + 三款价 + 一问（㉙）
   - 第一问（只问一个）：Eugene — answering your January question properly this time: white-label is available on every switch we ship — your logo, model name, MAC range, login IP and SNMP OID at no charge, from 1 unit; front-panel PVC overlay is tooled per batch (MOQ 300); colour box $2.5/set from 200. Reference prices (USD EXW, 15-day validity): 8-PoE + 2 SFP L2+ managed STC-28DGGPM $87.4, 24-PoE + 4×10G L2+ STC-424XGGPM-280W $180 (August mail said $170; that round closed in September), DIN-rail 8-PoE + 2 SFP managed STI-288GPM $85.5. KC certification stays on your side. Which model would you white-label first?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -166,14 +166,14 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-24T07:26:33Z　|　**最近变化**：2026-10-24T07:26:33Z
-- **最近变化摘要**：2026-10-24 youtube：恢复可达（上轮 YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过））
+- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-25T07:41:18Z
+- **最近变化摘要**：2026-10-25 sitemap：新增 491 条： index； 18； intro； notice； 22； system； 46； ito…
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1118/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://www.mcss.co.kr/) | html | HTTP 200 | 2026-10-24T04:35:40Z | 6957 字符；首行：엠씨에스솔루션 \| 네트워크 솔루션·ICT·IoT 전문기업 |
-| [sitemap](https://www.mcss.co.kr/sitemap.xml) | sitemap | HTTP 200 | 2026-10-24T07:26:33Z | 571 个 URL；最新 lastmod 2026-08-06 |
+| [home](https://www.mcss.co.kr/) | html | HTTP 200 | 2026-10-25T07:41:18Z | 6957 字符；首行：엠씨에스솔루션 \| 네트워크 솔루션·ICT·IoT 전문기업 |
+| [sitemap](https://www.mcss.co.kr/sitemap.xml) | sitemap | HTTP 200 | 2026-10-25T07:41:18Z | 571 个 URL；最新 lastmod 2026-08-06 |
 | [news_1](https://www.mcss.co.kr/blog) | html | HTTP 200 | 2026-10-23T04:20:51Z | 5549 字符；首行：엠씨에스솔루션 \| 네트워크 솔루션·ICT·IoT 전문기업 |
 | [news_2](https://www.mcss.co.kr/reference) | html | HTTP 200 | 2026-10-23T04:20:51Z | 9245 字符；首行：엠씨에스솔루션 \| 네트워크 솔루션·ICT·IoT 전문기업 |
 | [youtube](https://www.youtube.com/@mcssolution) | youtube_handle | HTTP 200 | 2026-10-24T07:26:33Z | 15 条；最新：2026-09-18T06:40:10+00:00 네트워크 장비 관리, 이 앱 하나로 종결합니다. #shorts |
@@ -275,7 +275,7 @@ One question: which model would you white-label first, and for which customer ty
 
 Best regards,
 Alan
-Saga Telecom · sagatele.com
+Saga Telecom - sagatele.com
 ```
 
 > 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。

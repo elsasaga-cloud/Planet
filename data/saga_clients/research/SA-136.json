@@ -150,7 +150,7 @@
     "next_move": {
       "when": "待 Simon 排期（首封）",
       "channel": "A 邮箱 → chirag.s@a-ites.com（Chirag Shah）",
-      "action": "首封前知悉：Elsa 群发 BCC 已触达 12 轮（2025-03-12→2026-08-14，锚 To virtual_eye@hotmail.com / panaji@gmail.com，0 回）（第 74 批(n)）；首封：按 email_hook 一问（第 75 批(m) 2026-10-25：英文信稿已写 `draft_en`）（第 76 批(c) 2026-10-25：audit_ab 软项修正：证书口径 CE/RoHS → CE/RoHS (BIS stays on your side)）",
+      "action": "首封前知悉：Elsa 群发 BCC 已触达 12 轮（2025-03-12→2026-08-14，锚 To virtual_eye@hotmail.com / panaji@gmail.com，0 回）（第 74 批(n)）；首封：按 email_hook 一问（第 75 批(m) 2026-10-25：英文信稿已写 `draft_en`）（第 76 批(c) 2026-10-25：audit_ab 软项修正：证书口径 CE/RoHS → CE/RoHS (BIS stays on your side)）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
       "one_question": "You said your roadside cabinets only need 4- and 8-port industrial switches with L2/web management — the 8-port PoE+ 2 SFP managed DIN unit is $79–86 EXW; shall I send its surge/temperature specs for your ATMS tenders?"
     },
     "facts": [
@@ -301,7 +301,7 @@
     ],
     "draft_en": {
       "subject": "For your ATMS roadside cabinets - the 8-port managed PoE DIN unit, with specs",
-      "body": "Hi Chirag,\n\nYou told us in 2024 that your roadside cabinets only need 4- and 8-port industrial switches with L2 / web management - nothing bigger. (You also had our general product mails since; no need to answer those.)\n\nThe 8-port unit for those cabinets: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, L2 managed (web GUI, VLAN, QoS, IGMP), Marvell-based, -40 to 75 C, CE/RoHS (BIS stays on your side) - model STI-288GPM - $82.2 USD EXW (MOQ 1, 15-day validity); the 4-PoE + 1 RJ45 + 1 SFP unmanaged unit for small cabinets - STI-154GP - $39.2.\n\nOne question: shall I send the surge-protection and temperature specs in the format your ATMS tenders ask for - and is Chirag or Manan the right person for that file?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+      "body": "Hi Chirag,\n\nYou told us in 2024 that your roadside cabinets only need 4- and 8-port industrial switches with L2 / web management - nothing bigger. (You also had our general product mails since; no need to answer those.)\n\nThe 8-port unit for those cabinets: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, L2 managed (web GUI, VLAN, QoS, IGMP), Marvell-based, -40 to 75 C, CE/RoHS (BIS stays on your side) - model STI-288GPM - $82.2 USD EXW (MOQ 1, 15-day validity); the 4-PoE + 1 RJ45 + 1 SFP unmanaged unit for small cabinets - STI-154GP - $39.2.\n\nOne question: shall I send the surge-protection and temperature specs in the format your ATMS tenders ask for - and is Chirag or Manan the right person for that file?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
     },
     "as_of": "2026-10-24"
   }

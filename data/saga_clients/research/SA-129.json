@@ -104,7 +104,7 @@
   "next_move": {
    "when": "待 Simon 排期（首封）",
    "channel": "A 邮箱 → vadim@nbs.ee",
-   "action": "首封：按 email_hook 一问（第 75 批(j) 2026-10-25：英文信稿已写 `draft_en`；WhatsApp 在线——同一段 WA 发）",
+   "action": "首封：按 email_hook 一问（第 75 批(j) 2026-10-25：英文信稿已写 `draft_en`；WhatsApp 在线——同一段 WA 发）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
    "one_question": "For the new buildings you are connecting on Paekaare and Punane, a 24-port gigabit L2+ switch with 4×10G SFP+ uplinks is $132.7 EXW per unit; how many risers are planned for the next phase?"
   },
   "facts": [
@@ -139,7 +139,7 @@
   ],
   "draft_en": {
    "subject": "The switch for the new buildings on Paekaare and Punane",
-   "body": "Hi Vadim,\n\nFor the new buildings you are connecting on Paekaare and Punane: the riser switch is 24 x Gigabit RJ45 + 4 x 10G SFP+ uplinks, L2+ managed (VLAN, IGMP, QoS), Marvell-based, CE/RoHS - model STC-424XGGM - $132.7 USD EXW per unit (MOQ 1, 15-day validity); for small buildings, 8 x Gigabit + 2 x SFP L2+ - STC-28DGGM - $71.0. SFP+ optics you keep sourcing as now.\n\nOne question: how many risers are planned for the next phase?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+   "body": "Hi Vadim,\n\nFor the new buildings you are connecting on Paekaare and Punane: the riser switch is 24 x Gigabit RJ45 + 4 x 10G SFP+ uplinks, L2+ managed (VLAN, IGMP, QoS), Marvell-based, CE/RoHS - model STC-424XGGM - $132.7 USD EXW per unit (MOQ 1, 15-day validity); for small buildings, 8 x Gigabit + 2 x SFP L2+ - STC-28DGGM - $71.0. SFP+ optics you keep sourcing as now.\n\nOne question: how many risers are planned for the next phase?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
  }

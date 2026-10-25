@@ -101,7 +101,7 @@
   "next_move": {
    "when": "待 Simon 排期（首封）",
    "channel": "A 邮箱 → m.demirel@makrosisas.com.tr（Mustafa Demirel）",
-   "action": "首封：按 email_hook 一问（第 74 批(r) 2026-10-25：英文信稿已写 `draft_en`，内容 = 土耳其语钩子句的英文版；土耳其语一句话仍在研究档备注里，对方若不读英文就整段单发）",
+   "action": "首封：按 email_hook 一问（第 74 批(r) 2026-10-25：英文信稿已写 `draft_en`，内容 = 土耳其语钩子句的英文版；土耳其语一句话仍在研究档备注里，对方若不读英文就整段单发）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
    "one_question": "Mustafa Bey, ISAF'ta konuştuğumuz 2 SFP + 8 port PoE yönetilebilir endüstriyel switch için DDP (gümrük + KDV dahil, kapıya teslim) fiyatı hazırlayabilirim; ilk proje için kaç adet ve hangi şehre teslim gerekiyor? Referans: STI-288DGGPM 137,5 USD EXW (MOQ 1, 15 gün geçerli)."
   },
   "facts": [
@@ -119,7 +119,7 @@
   ],
   "draft_en": {
    "subject": "DDP price for the 2 SFP + 8 PoE managed industrial switch - from ISAF",
-   "body": "Hi Mustafa,\n\nWe met at ISAF 2025 in Istanbul last October - this picks up what we discussed at the booth.\n\nAt the booth we quoted the 2 SFP + 10-port managed PoE industrial switch at $130 USD and the 12-fibre + 12-copper managed unit at $150 USD (both EXW); those figures stand. You asked for a delivered price with customs duty and VAT included (DDP) - I can prepare that through our forwarder once I know the quantity and the destination city.\n\nOne question: for the first project, how many units and delivery to which city?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+   "body": "Hi Mustafa,\n\nWe met at ISAF 2025 in Istanbul last October - this picks up what we discussed at the booth.\n\nAt the booth we quoted the 2 SFP + 10-port managed PoE industrial switch at $130 USD and the 12-fibre + 12-copper managed unit at $150 USD (both EXW); those figures stand. You asked for a delivered price with customs duty and VAT included (DDP) - I can prepare that through our forwarder once I know the quantity and the destination city.\n\nOne question: for the first project, how many units and delivery to which city?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
  }

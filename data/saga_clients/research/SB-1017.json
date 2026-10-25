@@ -81,7 +81,7 @@
   "next_move": {
    "when": "待 Simon 排期（首封）",
    "channel": "A 邮箱 → bilecik@hotmail.com（Necdet Şenkaya）",
-   "action": "首封：按 email_hook 一问（第 74 批(r) 2026-10-25：英文信稿已写 `draft_en`，内容 = 土耳其语钩子句的英文版；土耳其语一句话仍在研究档备注里，对方若不读英文就整段单发）",
+   "action": "首封：按 email_hook 一问（第 74 批(r) 2026-10-25：英文信稿已写 `draft_en`，内容 = 土耳其语钩子句的英文版；土耳其语一句话仍在研究档备注里，对方若不读英文就整段单发）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
    "one_question": "Necdet Bey, ISAF'ta istediğiniz endüstriyel PoE switch: DIN ray 8 PoE + 2 SFP 59,8 USD, 4 PoE + 1 SFP 35,5 USD EXW — firma adınız ve adet bilgisini yazarsanız resmi teklif göndereyim."
   },
   "facts": [
@@ -99,7 +99,7 @@
   ],
   "draft_en": {
    "subject": "Industrial PoE switch prices from ISAF",
-   "body": "Hi Necdet,\n\nWe met at ISAF 2025 in Istanbul last October - this picks up what we discussed at the booth.\n\nThe industrial PoE switches you asked for: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, unmanaged, model STI-288GP - $59.8 USD EXW; 4 x PoE + 1 x SFP, model STI-144GP - $35.5 USD EXW (MOQ 1, 15-day validity, CE/RoHS).\n\nOne question: if you send me your company name and the quantity, I will issue a formal quotation - how many units is the first project?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+   "body": "Hi Necdet,\n\nWe met at ISAF 2025 in Istanbul last October - this picks up what we discussed at the booth.\n\nThe industrial PoE switches you asked for: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, unmanaged, model STI-288GP - $59.8 USD EXW; 4 x PoE + 1 x SFP, model STI-144GP - $35.5 USD EXW (MOQ 1, 15-day validity, CE/RoHS).\n\nOne question: if you send me your company name and the quantity, I will issue a formal quotation - how many units is the first project?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
  }

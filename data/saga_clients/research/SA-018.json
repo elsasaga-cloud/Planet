@@ -84,9 +84,9 @@
    ]
   },
   "next_move": {
-   "when": "2026-11（一次）",
+   "when": "被动（乌克兰守界：build 规则「封顶 B · 不主动投入，仅被动响应」；备稿留用，他若来信即用）（全量审计 2026-10-25 U57）",
    "channel": "S 邮箱 → sergiy.khodun@gmail.com",
-   "action": "两段：Saga 现身份一句话；2024 BO 的 Marvell 项是否仍要、7–10 天交期不变",
+   "action": "【原计划 2026-11（一次）主动去信，与乌克兰守界规则冲突，改为被动；Simon 若要主动发一次，这封稿可直接用】两段：Saga 现身份一句话；2024 BO 的 Marvell 项是否仍要、7–10 天交期不变",
    "one_question": "Your Nov-2024 test order (DI order #1) — is it still worth shipping the Marvell items with your label, 7–10 days after payment?"
   },
   "facts": [
@@ -169,7 +169,7 @@
   ],
   "draft_en": {
    "subject": "DI order #1 (Nov 2024) — still worth shipping?",
-   "body": "Hi Sergiy,\n\nTwo years ago your first test order (DI order #1, 20 Nov 2024) stopped on the question of who we are. The plain answer today: Saga is an engineering-led supplier — the Marvell managed line is our own platform (firmware, web GUI with your logo, feature roadmap), the low-cost unmanaged items are sourced from partner factories under our QC. We do not pretend to own the SMT line.\n\nOne question: are the Marvell items in that BO still worth shipping with your label, 7–10 working days after payment, as quoted then? If yes, I will re-issue the proforma at current prices; if no, I will close the file.\n\nBest regards,\nSimon\nSaga Telecom · sagatele.com"
+   "body": "Hi Sergiy,\n\nTwo years ago your first test order (DI order #1, 20 Nov 2024) stopped on the question of who we are. The plain answer today: Saga is an engineering-led supplier — the Marvell managed line is our own platform (firmware, web GUI with your logo, feature roadmap), the low-cost unmanaged items are sourced from partner factories under our QC. We do not pretend to own the SMT line.\n\nOne question: are the Marvell items in that BO still worth shipping with your label, 7–10 working days after payment, as quoted then? If yes, I will re-issue the proforma at current prices; if no, I will close the file.\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
  }

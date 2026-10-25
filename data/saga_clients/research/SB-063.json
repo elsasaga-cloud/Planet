@@ -99,7 +99,7 @@
   "next_move": {
    "when": "待 Simon 排期（首封）",
    "channel": "A 邮箱 → info@ag-bilgisayar.com（Aycan Çam）",
-   "action": "首封：按 email_hook 一问（第 74 批(r) 2026-10-25：英文信稿已写 `draft_en`，内容 = 土耳其语钩子句的英文版；土耳其语一句话仍在研究档备注里，对方若不读英文就整段单发）",
+   "action": "首封：按 email_hook 一问（第 74 批(r) 2026-10-25：英文信稿已写 `draft_en`，内容 = 土耳其语钩子句的英文版；土耳其语一句话仍在研究档备注里，对方若不读英文就整段单发）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
    "one_question": "Aycan Bey, sorduğunuz gigabit 2 SFP + 8 PoE yönetilebilir endüstriyel switch 137,5 USD EXW; fiber bypass'lı sürüm 4 SFP'li gövdede 194,3 USD — bariyer/otopark projenizde bypass şart mı, yoksa standart sürüm yeterli mi?"
   },
   "facts": [
@@ -117,7 +117,7 @@
   ],
   "draft_en": {
    "subject": "2 SFP + 8 PoE managed industrial switch - standard vs fibre-bypass version",
-   "body": "Hi Aycan,\n\nWe met at ISAF 2025 in Istanbul last October - this picks up what we discussed at the booth.\n\nThe gigabit 2 SFP + 8-port PoE managed industrial switch you asked about (no 10G needed): DIN-rail, L2+ managed, -40 to 75 C, model STI-288DGGPM - $137.5 USD EXW (MOQ 1, 15-day validity). A fibre-bypass version exists in a larger chassis (8 x PoE + 4 x SFP) at $194.3 USD EXW.\n\nOne question: for the barrier / car-park project, is bypass a must, or is the standard version enough?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+   "body": "Hi Aycan,\n\nWe met at ISAF 2025 in Istanbul last October - this picks up what we discussed at the booth.\n\nThe gigabit 2 SFP + 8-port PoE managed industrial switch you asked about (no 10G needed): DIN-rail, L2+ managed, -40 to 75 C, model STI-288DGGPM - $137.5 USD EXW (MOQ 1, 15-day validity). A fibre-bypass version exists in a larger chassis (8 x PoE + 4 x SFP) at $194.3 USD EXW.\n\nOne question: for the barrier / car-park project, is bypass a must, or is the standard version enough?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
  }

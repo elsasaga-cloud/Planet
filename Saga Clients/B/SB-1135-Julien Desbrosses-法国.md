@@ -37,7 +37,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-050GE — 终端 25% 档：工业 STI-050GE（DIN 5 GE，$25.0）或商用 STC-05GE（Realtek 线，$6.1）视场景；锚价：STI-050GE $25.0（LT-IS3005G-5GT 12–58 V 宽压版 @25%，与钩子句一致；-M 版 12–36 V $17.8，第 74 批(r) 2026-10-25）；按主表（研究档 saga_fit）；桌面 STC-05GE $6.2（洪瑞 2026-09-30 进价 +25%，第 75 批）
 - **第一问（只问一个）**：For the 5-port copper switch you asked about on our site: desktop gigabit is $6.1 EXW, DIN-rail industrial (12–58 V DC, −40 to +75 °C) $25.0 — indoor desk or inside a cabinet?
 - **最大未知**：公司网站（表内无域名，无法核实是否仍在运营）；具体需求型号（表内兴趣列为空）
-- **下一步**：待 Simon 排期（首封） A 邮箱 → 待找地址（自建站询盘人 Julien Desbrosses，库内无邮箱——先在网站询盘后台 / S 邮箱通知里找） 首封：按 email_hook 一问（第 75 批(i) 2026-10-25：英文信稿已写 `draft_en`；桌面 5 口按洪瑞 2026-09-30 进价 +25% = $6.2（旧 $6.1）；无邮箱——WhatsApp 发同一段）
+- **下一步**：待 Simon 排期（首封） A 邮箱 → 待找地址（自建站询盘人 Julien Desbrosses，库内无邮箱——先在网站询盘后台 / S 邮箱通知里找） 首封：按 email_hook 一问（第 75 批(i) 2026-10-25：英文信稿已写 `draft_en`；桌面 5 口按洪瑞 2026-09-30 进价 +25% = $6.2（旧 $6.1）；无邮箱——WhatsApp 发同一段）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -48,7 +48,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：终端 25% 档：工业 STI-050GE（DIN 5 GE，$25.0）或商用 STC-05GE（Realtek 线，$6.1）视场景
 - **断点 / 为什么停在这里**：个人、单台
 - **Saga 现在该推什么**：P1 **STI-050GE**（25% 档，锚价：STI-050GE $25.0（LT-IS3005G-5GT 12–58 V 宽压版 @25%，与钩子句一致；-M 版 12–36 V $17.8，第 74 批(r) 2026-10-25）；按主表（研究档 saga_fit）；桌面 STC-05GE $6.2（洪瑞 2026-09-30 进价 +25%，第 75 批））——终端 25% 档：工业 STI-050GE（DIN 5 GE，$25.0）或商用 STC-05GE（Realtek 线，$6.1）视场景
-- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → 待找地址（自建站询盘人 Julien Desbrosses，库内无邮箱——先在网站询盘后台 / S 邮箱通知里找）　首封：按 email_hook 一问（第 75 批(i) 2026-10-25：英文信稿已写 `draft_en`；桌面 5 口按洪瑞 2026-09-30 进价 +25% = $6.2（旧 $6.1）；无邮箱——WhatsApp 发同一段）
+- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → 待找地址（自建站询盘人 Julien Desbrosses，库内无邮箱——先在网站询盘后台 / S 邮箱通知里找）　首封：按 email_hook 一问（第 75 批(i) 2026-10-25：英文信稿已写 `draft_en`；桌面 5 口按洪瑞 2026-09-30 进价 +25% = $6.2（旧 $6.1）；无邮箱——WhatsApp 发同一段）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
   - 第一问（只问一个）：For the 5-port copper switch you asked about on our site: desktop gigabit is $6.1 EXW, DIN-rail industrial (12–58 V DC, −40 to +75 °C) $25.0 — indoor desk or inside a cabinet?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -196,7 +196,7 @@ Both CE/RoHS; shipping to France is quoted on top once I know the quantity.
 One question: is it going on a desk or inside a cabinet?
 
 Best regards,
-Simon
+Alan
 Saga Telecom - sagatele.com
 ```
 

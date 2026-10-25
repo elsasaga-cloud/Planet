@@ -105,7 +105,7 @@
   "next_move": {
    "when": "2027-Q1（换人后）",
    "channel": "A 邮箱 → 具名 KP",
-   "action": "换收件人再发一封（第 75 批(v) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用）；钩子「CLI」不写——未核实；MIB 写「I can get you」）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）",
+   "action": "换收件人再发一封（第 75 批(v) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用）；钩子「CLI」不写——未核实；MIB 写「I can get you」）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
    "one_question": "Todd, for the Mako-branded managed switch line, we can be a second ODM source on a Marvell L2+ platform (24-GE/PoE + 4×10G, 48-port) from small lots, with SNMP/CLI access for your CMS integration — would your team evaluate a sample unit? Reference: STC-424XGGPM-280W at $180 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
@@ -137,7 +137,7 @@
   "proof_gaps": [],
   "draft_en": {
    "subject": "The Mako-branded managed switch line - a second ODM source with SNMP for CMS",
-   "body": "Hi Todd,\n\nOver the past months you had a few product mails from us - most recently \"Updated Ethernet Switches Links\" on 27 February 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the Mako-branded managed switch line, a second ODM source on a Marvell L2+ platform from small lots, FCC/CE/RoHS: 24 x Gigabit PoE+ (280 W) + 4 x 10G SFP+ - model STC-424XGGPM-280W - $180 USD EXW (MOQ 1, 15-day validity); the non-PoE version - STC-424XGGM - $138.0. SNMP and a web GUI with the Mako logo; I can get you the MIB files for your CMS integration before you commit to a sample.\n\nOne question: would your team evaluate one sample unit against the CMS, and which of the two?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+   "body": "Hi Todd,\n\nOver the past months you had a few product mails from us - most recently \"Updated Ethernet Switches Links\" on 27 February 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the Mako-branded managed switch line, a second ODM source on a Marvell L2+ platform from small lots, FCC/CE/RoHS: 24 x Gigabit PoE+ (280 W) + 4 x 10G SFP+ - model STC-424XGGPM-280W - $180 USD EXW (MOQ 1, 15-day validity); the non-PoE version - STC-424XGGM - $138.0. SNMP and a web GUI with the Mako logo; I can get you the MIB files for your CMS integration before you commit to a sample.\n\nOne question: would your team evaluate one sample unit against the CMS, and which of the two?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
  }

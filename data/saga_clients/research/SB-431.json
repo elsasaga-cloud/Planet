@@ -89,7 +89,7 @@
   "next_move": {
    "when": "2027-Q1",
    "channel": "A 邮箱 → saeed@e-saudi.net（Saeed Mohammed）",
-   "action": "一句话（第 75 批(ag) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；按 action「一句话」写短信；Tofino 路由再说一次没有）",
+   "action": "一句话（第 75 批(ag) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；按 action「一句话」写短信；Tofino 路由再说一次没有）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
    "one_question": "Saeed — did the 2.5G/10G sample ever get budget approval, or should I stop sending updates?"
   },
   "facts": [
@@ -201,7 +201,7 @@
   "proof_gaps": [],
   "draft_en": {
    "subject": "One question, Saeed",
-   "body": "Hi Saeed,\n\nOne question only, since your team has had our catalogue and the mails since were general ones: which line fits your current projects - managed 8/24-port PoE switches for CCTV, or DIN-rail industrial units - so I send the price list for that family and nothing else?\n\nThe Tofino-type industrial router you asked about in 2024 we still do not make - said again so you do not wait on it.\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+   "body": "Hi Saeed,\n\nOne question only, since your team has had our catalogue and the mails since were general ones: which line fits your current projects - managed 8/24-port PoE switches for CCTV, or DIN-rail industrial units - so I send the price list for that family and nothing else?\n\nThe Tofino-type industrial router you asked about in 2024 we still do not make - said again so you do not wait on it.\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
  }

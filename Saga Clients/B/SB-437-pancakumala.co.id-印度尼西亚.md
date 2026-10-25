@@ -38,7 +38,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424XGGPM-280W — 对位其 DCN S5750E-28X-P-EI（24 PoE + 4×10G）→ Saga STC-424XGGPM-280W；DIN 工业补 STI-288GPM；经销 20%。；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-03-04 $240（24 Port Fiber Switch）、2025-05-01 $300（48 Port PoE Managed Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-05-06 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 2 轮 2025-10-08→2026-05-06；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-08-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-10；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）（㉕ ②：STC-424XGGPM-280W / STC-448XGGPM 文本价改为群发现价 $180 / $335；第 75 批 2026-10-25）
 - **第一问（只问一个）**：For the DCN-based IPTV and CCTV jobs — where DCN is over-spec, would a Marvell 24-PoE + 4×10G L2+ at $181 EXW or a DIN-rail 8-PoE + 2-SFP at $79 fill the lower tier? Happy to send 1 sample of each to Kedoya.
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
-- **下一步**：2027-Q1 A 邮箱 → customerservice.pkj@gmail.com 首封前知悉：Elsa 已 1:1 去信 8 轮（2025-06-09→2026-08-10，只有 2025-10-07 一封空回）且他 2026-08 看到过 24 口 PoE $170（第 74 批(o)）；季度（第 75 批(aj) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；$170→$180 按 ㉟ 先说 8 月那封 $170 + FX 7.2→6.7；2025-10 空回点明）
+- **下一步**：2027-Q1 A 邮箱 → customerservice.pkj@gmail.com 首封前知悉：Elsa 已 1:1 去信 8 轮（2025-06-09→2026-08-10，只有 2025-10-07 一封空回）且他 2026-08 看到过 24 口 PoE $170（第 74 批(o)）；季度（第 75 批(aj) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；$170→$180 按 ㉟ 先说 8 月那封 $170 + FX 7.2→6.7；2025-10 空回点明）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -49,7 +49,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：对位其 DCN S5750E-28X-P-EI（24 PoE + 4×10G）→ Saga STC-424XGGPM-280W；DIN 工业补 STI-288GPM；经销 20%。
 - **断点 / 为什么停在这里**：DCN 渠道身份：只会拿 DCN 不覆盖的低价 SKU
 - **Saga 现在该推什么**：P1 **STC-424XGGPM-280W**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-03-04 $240（24 Port Fiber Switch）、2025-05-01 $300（48 Port PoE Managed Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-05-06 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 2 轮 2025-10-08→2026-05-06；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-08-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-10；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）（㉕ ②：STC-424XGGPM-280W / STC-448XGGPM 文本价改为群发现价 $180 / $335；第 75 批 2026-10-25））——对位其 DCN S5750E-28X-P-EI（24 PoE + 4×10G）→ Saga STC-424XGGPM-280W；DIN 工业补 STI-288GPM；经销 20%。
-- **下一步（具体）**：2027-Q1　A 邮箱 → customerservice.pkj@gmail.com　首封前知悉：Elsa 已 1:1 去信 8 轮（2025-06-09→2026-08-10，只有 2025-10-07 一封空回）且他 2026-08 看到过 24 口 PoE $170（第 74 批(o)）；季度（第 75 批(aj) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；$170→$180 按 ㉟ 先说 8 月那封 $170 + FX 7.2→6.7；2025-10 空回点明）
+- **下一步（具体）**：2027-Q1　A 邮箱 → customerservice.pkj@gmail.com　首封前知悉：Elsa 已 1:1 去信 8 轮（2025-06-09→2026-08-10，只有 2025-10-07 一封空回）且他 2026-08 看到过 24 口 PoE $170（第 74 批(o)）；季度（第 75 批(aj) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；$170→$180 按 ㉟ 先说 8 月那封 $170 + FX 7.2→6.7；2025-10 空回点明）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
   - 第一问（只问一个）：For the DCN-based IPTV and CCTV jobs — where DCN is over-spec, would a Marvell 24-PoE + 4×10G L2+ at $181 EXW or a DIN-rail 8-PoE + 2-SFP at $79 fill the lower tier? Happy to send 1 sample of each to Kedoya.
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -162,7 +162,7 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-24T07:26:33Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-437/`；本节随档案重渲染刷新，实时看日志。
 
@@ -259,7 +259,7 @@ Where DCN is over-spec on the IPTV and CCTV jobs, at distributor price, EXW, MOQ
 One question: on a typical IPTV or CCTV job, how many of the 24-port units go in - one per site, or several?
 
 Best regards,
-Simon
+Alan
 Saga Telecom - sagatele.com
 ```
 

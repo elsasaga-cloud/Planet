@@ -194,15 +194,15 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-24T07:26:33Z　|　**最近变化**：2026-10-24T07:26:33Z
-- **最近变化摘要**：2026-10-24 youtube：恢复可达（上轮 HTTP 500）
+- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-25T07:41:18Z
+- **最近变化摘要**：2026-10-25 news_2：内容变化：+113 −9 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-150/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://www.ltsecurityinc.com.au/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 5833 字符；首行：Security Cameras & CCTV Distributor Australia \| LTS Security |
 | [news_1](https://www.ltsecurityinc.com.au/news/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 7667 字符；首行：News |
-| [news_2](https://www.ltsecurityinc.com.au/blog/) | html | HTTP 200 | 2026-10-24T04:35:40Z | 15991 字符；首行：Ajax Multi-transmitter |
+| [news_2](https://www.ltsecurityinc.com.au/blog/) | html | HTTP 200 | 2026-10-25T07:41:18Z | 15991 字符；首行：Ajax Multi-transmitter |
 | [youtube](https://www.youtube.com/@LTSSecurityAustralia) | youtube_handle | HTTP 200 | 2026-10-24T07:26:33Z | 15 条；最新：2026-10-22T23:16:46+00:00 Ajax Fibra Webinar: Wired Ajax Explained for Installers  |
 
 ## 联系方式（已有 · 原值照录）
@@ -300,7 +300,7 @@ If it is not relevant now, a one-word reply is enough and I will take you off th
 
 Best regards,
 Alan
-Saga Telecom · sagatele.com
+Saga Telecom - sagatele.com
 ```
 
 > 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。

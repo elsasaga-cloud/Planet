@@ -122,7 +122,7 @@
   "proof_gaps": [],
   "draft_en": {
    "subject": "Re: 10G Ethernet Web Managed Switch — HTTPS now supported",
-   "body": "Hi, Chavan,\n\nIn October 2024 you asked whether the 10G web-managed switch supports HTTPS and third-party certificates, and at that time the answer was no.\n\nClosing the loop: HTTPS web management (IPv4/IPv6) is now standard on our Marvell AC5 units with firmware 7.5, together with SSH2, SNMP v3 and SFTP. Third-party certificate upload I will confirm on the exact model before you order, so you are not surprised.\n\nOne question: is the 10G web-managed switch still on your list? If yes, tell me the port mix and I will send the current datasheet and price.\n\nThank you.\nSimon"
+   "body": "Hi, Chavan,\n\nIn October 2024 you asked whether the 10G web-managed switch supports HTTPS and third-party certificates, and at that time the answer was no.\n\nClosing the loop: HTTPS web management (IPv4/IPv6) is now standard on our Marvell AC5 units with firmware 7.5, together with SSH2, SNMP v3 and SFTP. Third-party certificate upload I will confirm on the exact model before you order, so you are not surprised.\n\nOne question: is the 10G web-managed switch still on your list? If yes, tell me the port mix and I will send the current datasheet and price.\n\nThank you.\nSimon\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
  }

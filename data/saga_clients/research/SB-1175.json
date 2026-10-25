@@ -90,7 +90,7 @@
     "next_move": {
       "when": "待 Simon 排期（首封）",
       "channel": "A 邮箱 → sales@cratsol.co.uk（无具名 KP；公用地址）",
-      "action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-09-04「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 75 批(f) 2026-10-25：英文信稿已写 `draft_en`）",
+      "action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-09-04「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 75 批(f) 2026-10-25：英文信稿已写 `draft_en`）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
       "one_question": "Following your enquiry for 3 m 10G DAC cables: we do not carry DAC, but we supply Marvell-based 24-GE + 4×10G SFP+ L2+ switches (and 8-PoE + 2 SFP) neutral-brand from single units, UKCA/CE/RoHS, EXW USD — is there a 10G-uplink switch position in the same project we could quote? Reference: STC-424XGGM at $127.4 USD EXW (MOQ 1, 15-day validity)."
     },
     "facts": [
@@ -124,7 +124,7 @@
     ],
     "draft_en": {
       "subject": "10G DAC - not us; the 10G-uplink switch for the same project",
-      "body": "Hello Cratsol team,\n\nOver the past months you had a few product mails from us - most recently \"24 Port PoE Managed Switch\" on 4 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nYou asked us earlier for 3 m 10G DAC cables. Straight answer: we do not carry DAC or optics. What we do build is the switch they plug into: 24 x Gigabit RJ45 + 4 x 10G SFP+ uplinks, L2+ managed, Marvell-based, neutral brand, UKCA/CE/RoHS - model STC-424XGGM - $127.4 USD EXW at distributor price (MOQ 1, 15-day validity); the 8 x PoE+ + 2 x SFP version, STC-28DGGPM, $80.7.\n\nOne question: is there a 10G-uplink switch position in the same project - UK or UAE - that we could quote?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+      "body": "Hello Cratsol team,\n\nOver the past months you had a few product mails from us - most recently \"24 Port PoE Managed Switch\" on 4 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nYou asked us earlier for 3 m 10G DAC cables. Straight answer: we do not carry DAC or optics. What we do build is the switch they plug into: 24 x Gigabit RJ45 + 4 x 10G SFP+ uplinks, L2+ managed, Marvell-based, neutral brand, UKCA/CE/RoHS - model STC-424XGGM - $127.4 USD EXW at distributor price (MOQ 1, 15-day validity); the 8 x PoE+ + 2 x SFP version, STC-28DGGPM, $80.7.\n\nOne question: is there a 10G-uplink switch position in the same project - UK or UAE - that we could quote?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
     },
     "as_of": "2026-10-25"
   }

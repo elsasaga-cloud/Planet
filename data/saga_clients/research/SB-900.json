@@ -100,7 +100,7 @@
   "next_move": {
    "when": "2026-12",
    "channel": "A 邮箱 → george.g@enssecurity.com（自动回复指明的代理人）",
-   "action": "换人（第 75 批(b) 2026-10-25：英文信稿已写 `draft_en`）（第 76 批(c) 2026-10-25：0 事实户补时间线事实）",
+   "action": "换人（第 75 批(b) 2026-10-25：英文信稿已写 `draft_en`）（第 76 批(c) 2026-10-25：0 事实户补时间线事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
    "one_question": ""
   },
   "facts": [
@@ -132,7 +132,7 @@
   "proof_gaps": [],
   "draft_en": {
    "subject": "ENS own-label PoE switches - second ODM source (Shawn's auto-reply pointed to you)",
-   "body": "Hi George,\n\nOver the past two years ENS had a stream of product mails from us - most recently the 24-port PoE managed switch at $170 in August - and nobody had a reason to answer a mass mail. Shawn's out-of-office named you as the contact, so this one is written for you.\n\nFor the PoE switches sold under the ENS label, we can be a second ODM source on a Marvell L2+ platform in your packaging: 8 x Gigabit PoE+ + 2 x SFP - model STC-28DGGPM - $80.7 USD EXW at distributor price (MOQ 1, 15-day validity); the 24 x PoE+ (280 W) + 4 x 10G unit from the August mail is $180 now - that mail said $170; the CNY has moved from 7.2 to 6.7 against the dollar since. FCC/CE/RoHS; 802.3bt options on request.\n\nOne question: which PoE SKU runs the highest volume through your branches?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+   "body": "Hi George,\n\nOver the past two years ENS had a stream of product mails from us - most recently the 24-port PoE managed switch at $170 in August - and nobody had a reason to answer a mass mail. Shawn's out-of-office named you as the contact, so this one is written for you.\n\nFor the PoE switches sold under the ENS label, we can be a second ODM source on a Marvell L2+ platform in your packaging: 8 x Gigabit PoE+ + 2 x SFP - model STC-28DGGPM - $80.7 USD EXW at distributor price (MOQ 1, 15-day validity); the 24 x PoE+ (280 W) + 4 x 10G unit from the August mail is $180 now - that mail said $170; the CNY has moved from 7.2 to 6.7 against the dollar since. FCC/CE/RoHS; 802.3bt options on request.\n\nOne question: which PoE SKU runs the highest volume through your branches?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
  }

@@ -37,7 +37,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：LT-IS6312GP-4GX8GT-FBP — bypass 系列 → SmartByte LT-IS6312GP-4GX8GT-FBP（SmartByte 型号；Saga 暂无对应名，报价时注明）；一般工业 PoE → STI-288GPM。；首触锚价 LT-IS6312GP-4GX8GT-FBP $194.3 EXW（主表档位（Saga 暂无对应型号；信里不写 SmartByte 型号）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-11；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：Atul, you asked about certificates for the bypass industrial switch — CE / FCC / RoHS files are ready (no UL / BIS); is the project a ring of panels on one fibre, and how many nodes? Reference: the bypass unit at $194.3 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：公司网站（表内无域名，无法核实是否仍在运营）
-- **下一步**：待 Simon 排期（首封） A 邮箱 → agilitybaroda@gmail.com（Atul Tiwari） 首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-11「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 75 批(m) 2026-10-25：英文信稿已写 `draft_en`）
+- **下一步**：待 Simon 排期（首封） A 邮箱 → agilitybaroda@gmail.com（Atul Tiwari） 首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-11「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 75 批(m) 2026-10-25：英文信稿已写 `draft_en`）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-25）
 
@@ -48,7 +48,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：bypass 系列 → SmartByte LT-IS6312GP-4GX8GT-FBP（SmartByte 型号；Saga 暂无对应名，报价时注明）；一般工业 PoE → STI-288GPM。
 - **断点 / 为什么停在这里**：印度 BIS 认证要求；gmail
 - **Saga 现在该推什么**：P1 **LT-IS6312GP-4GX8GT-FBP**（25% 档，首触锚价 LT-IS6312GP-4GX8GT-FBP $194.3 EXW（主表档位（Saga 暂无对应型号；信里不写 SmartByte 型号）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-11；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170））——bypass 系列 → SmartByte LT-IS6312GP-4GX8GT-FBP（SmartByte 型号；Saga 暂无对应名，报价时注明）；一般工业 PoE → STI-288GPM。
-- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → agilitybaroda@gmail.com（Atul Tiwari）　首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-11「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 75 批(m) 2026-10-25：英文信稿已写 `draft_en`）
+- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → agilitybaroda@gmail.com（Atul Tiwari）　首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-11「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 75 批(m) 2026-10-25：英文信稿已写 `draft_en`）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
   - 第一问（只问一个）：Atul, you asked about certificates for the bypass industrial switch — CE / FCC / RoHS files are ready (no UL / BIS); is the project a ring of panels on one fibre, and how many nodes? Reference: the bypass unit at $194.3 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -208,7 +208,7 @@ The unit: DIN-rail L2+ managed, 8 x Gigabit PoE+ + 4 x SFP, hardware optical byp
 One question: is the project a ring of panels on one fibre, and how many nodes?
 
 Best regards,
-Simon
+Alan
 Saga Telecom - sagatele.com
 ```
 

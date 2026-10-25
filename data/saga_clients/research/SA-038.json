@@ -134,7 +134,7 @@
     "next_move": {
       "when": "2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）",
       "channel": "A 邮箱 → paul@cabledistribution.com.au（用户表称实质回复在 WhatsApp → 由 Simon 决定走 WA）",
-      "action": "首封前知悉：Elsa 仅 2025-02-25 单发过 1 封「Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(p) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；信里写「datasheet on request」而非 attached）（第 76 批(c) 2026-10-25：audit_ab 软项修正：证书口径 CE/RoHS → CE/RoHS (RCM stays on your side)）",
+      "action": "首封前知悉：Elsa 仅 2025-02-25 单发过 1 封「Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(p) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；信里写「datasheet on request」而非 attached）（第 76 批(c) 2026-10-25：audit_ab 软项修正：证书口径 CE/RoHS → CE/RoHS (RCM stays on your side)）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
       "one_question": "For the 1-fibre 4-copper industrial PoE unit you were pricing, here is the 4-port gigabit PoE + 1 SFP DIN switch (STI-144GP) at EXW, with the datasheet so you can line it up against the two quotes you already have. Is that project still open? Reference: STI-144GP at $34.1 USD EXW (MOQ 1, 15-day validity)."
     },
     "facts": [
@@ -177,7 +177,7 @@
     ],
     "draft_en": {
       "subject": "The 1-fibre + 4-copper industrial PoE you were pricing - our number, with datasheet",
-      "body": "Hi Paul,\n\nYou were pricing a 1-fibre + 4-copper industrial PoE switch and had two quotes already; here is ours to line up against them: DIN-rail 4 x Gigabit PoE+ + 1 x SFP, unmanaged, 44-57 V DC, -40 to 75 C, CE/RoHS (RCM stays on your side) - model STI-144GP - $34.1 USD EXW at distributor price (MOQ 1, 15-day validity). Datasheet goes with this mail on request - say the word and it follows in the same thread.\n\nOne question: for the mining and pumping sites you supply, is the 4-port unit going into existing cabinets with 48 V available, or do you need the version with a wide 12-58 V input?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+      "body": "Hi Paul,\n\nYou were pricing a 1-fibre + 4-copper industrial PoE switch and had two quotes already; here is ours to line up against them: DIN-rail 4 x Gigabit PoE+ + 1 x SFP, unmanaged, 44-57 V DC, -40 to 75 C, CE/RoHS (RCM stays on your side) - model STI-144GP - $34.1 USD EXW at distributor price (MOQ 1, 15-day validity). Datasheet goes with this mail on request - say the word and it follows in the same thread.\n\nOne question: for the mining and pumping sites you supply, is the 4-port unit going into existing cabinets with 48 V available, or do you need the version with a wide 12-58 V input?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
     },
     "as_of": "2026-10-24"
   }

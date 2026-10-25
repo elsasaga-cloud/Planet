@@ -37,7 +37,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM — 终端项目 25% 档：STI-288DGGPM（DIN 8 GE PoE+ 2 SFP L2+ 管理，−40~+75 ℃，$137.5）作车间环网接入；MC STI-110GE（$23.4）；汇聚 STC-424XGGM(L3)（$280.3）；按主表（研究档 saga_fit）（㉕ 封顶：STI-288DGGPM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25）
 - **第一问（只问一个）**：Merhaba, ISAF'ta aldığınız broşürün devamı olarak: Ordu fabrikanızdaki üretim hatları için DIN ray 8 PoE+ + 2 SFP L2+ endüstriyel switch (−40/+75 °C, tozlu ortam için fansız) EXW 137,5 USD — bu konuyu fabrika IT/elektrik ekibinizden kime iletmeliyim?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
-- **下一步**：待 Simon 排期（首封） A 邮箱 → sclcule.o@camsanordu.com 首封：按 email_hook 一问（第 74 批(r) 2026-10-25：英文信稿已写 `draft_en`，内容 = 土耳其语钩子句的英文版；土耳其语一句话仍在研究档备注里，对方若不读英文就整段单发）
+- **下一步**：待 Simon 排期（首封） A 邮箱 → sclcule.o@camsanordu.com 首封：按 email_hook 一问（第 74 批(r) 2026-10-25：英文信稿已写 `draft_en`，内容 = 土耳其语钩子句的英文版；土耳其语一句话仍在研究档备注里，对方若不读英文就整段单发）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -48,7 +48,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：终端项目 25% 档：STI-288DGGPM（DIN 8 GE PoE+ 2 SFP L2+ 管理，−40~+75 ℃，$137.5）作车间环网接入；MC STI-110GE（$23.4）；汇聚 STC-424XGGM(L3)（$280.3）
 - **断点 / 为什么停在这里**：终端用户非渠道、采购流程长；邮箱待核；ISAF 未交谈
 - **Saga 现在该推什么**：P1 **STI-288DGGPM**（25% 档，按主表（研究档 saga_fit）（㉕ 封顶：STI-288DGGPM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25））——终端项目 25% 档：STI-288DGGPM（DIN 8 GE PoE+ 2 SFP L2+ 管理，−40~+75 ℃，$137.5）作车间环网接入；MC STI-110GE（$23.4）；汇聚 STC-424XGGM(L3)（$280.3）
-- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → sclcule.o@camsanordu.com　首封：按 email_hook 一问（第 74 批(r) 2026-10-25：英文信稿已写 `draft_en`，内容 = 土耳其语钩子句的英文版；土耳其语一句话仍在研究档备注里，对方若不读英文就整段单发）
+- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → sclcule.o@camsanordu.com　首封：按 email_hook 一问（第 74 批(r) 2026-10-25：英文信稿已写 `draft_en`，内容 = 土耳其语钩子句的英文版；土耳其语一句话仍在研究档备注里，对方若不读英文就整段单发）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
   - 第一问（只问一个）：Merhaba, ISAF'ta aldığınız broşürün devamı olarak: Ordu fabrikanızdaki üretim hatları için DIN ray 8 PoE+ + 2 SFP L2+ endüstriyel switch (−40/+75 °C, tozlu ortam için fansız) EXW 137,5 USD — bu konuyu fabrika IT/elektrik ekibinizden kime iletmeliyim?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -133,14 +133,14 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-24T07:26:33Z　|　**最近变化**：2026-10-24T07:26:33Z
-- **最近变化摘要**：2026-10-24 sitemap：新增 192 条：2025-07-29T12:15:46 camsan-tmmk.pdf；2025-07-29T12:15:46 %C3%87amsan%20Kamunun%20B
+- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-25T07:41:18Z
+- **最近变化摘要**：2026-10-25 sitemap：新增 192 条：2025-07-29T12:15:46 camsan-tmmk.pdf；2025-07-29T12:15:46 %C3%87amsan%20Kamunun%20B
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-250/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://camsanordu.com/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 4680 字符；首行：Çamsan |
-| [sitemap](https://camsanordu.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-24T07:26:33Z | 272 个 URL；最新 lastmod 2026-03-25T14:28:03 |
+| [sitemap](https://camsanordu.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-25T07:41:18Z | 272 个 URL；最新 lastmod 2026-03-25T14:28:03 |
 | [news_1](https://camsanordu.com/news-from-us) | html | HTTP 200 | 2026-10-23T04:20:51Z | 2351 字符；首行：Çamsan Ordu ile Kaliteli MDF ve Uzun Ömürlü Parke |
 | [news_2](https://camsanordu.com/blog) | html | HTTP 200 | 2026-10-23T04:20:51Z | 2270 字符；首行：Çamsan Ordu ile Kaliteli MDF ve Uzun Ömürlü Parke |
 
@@ -234,7 +234,7 @@ Following the brochure you picked up: for the production lines at the Ordu plant
 One question: who in the plant IT / electrical team should I send this to?
 
 Best regards,
-Simon
+Alan
 Saga Telecom - sagatele.com
 ```
 

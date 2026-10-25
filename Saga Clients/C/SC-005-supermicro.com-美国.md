@@ -27,7 +27,7 @@ price_tier: 30%
 research: done
 site_snapshot: none
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -47,7 +47,7 @@ updated: 2026-10-24
 - **现状一句话**：Supermicro 工程/架构侧 2025-09 问 -34~74℃ 户外机柜用的 3 口 GE 802.3at PoE 板（Microfit 连接器）；Alan 答无现成可开发、认证 CE/FCC/RoHS/REACH/UKCA、广东制造；对方未给数量，13 个月无回。
 - **对方真实需求（有据）**：嵌入式/板级 3×GE PoE at 交换（Microfit 连接器），宽温 -34~74℃，户外机柜内；供应商资质（认证、产地、公司背景）。
 - **断点 / 为什么停在这里**：「需要数量才能评估」+ 无 UL——美国巨头准入的两道门，一道没过。
-- **Saga 现在该推什么**：P1 **无现成；板级定制（SmartByte/HRUI 工业线评估）；最近似现成品 STI-054GP（4×GE PoE + 1×GE RJ45 上联，-40~+75℃，主表 $42.9）**（OEM 30%（ODM）% 档，STI-054GP $42.9 EXW（主表 @6.69；2025 对 SB-093 报过 $33）；板级定制无价）——巨头规则 C（Q-55 默认不升）；需求真实但三重门槛（板级定制 / 巨头准入 / 无 UL）——收尾信只问三件事：还在不在、数量级、UL 是否硬条件；任何一个答案为否即停｜已发资料（勿重发）：测温照片 ×4 + Outdoor Cabinet.png(2025-09-19)、PROFILE_Saga Telecom.pdf(2025-09-23)、Product Link_2026Q2(2026-03-30)
+- **Saga 现在该推什么**：P1 **无现成；板级定制（SmartByte/HRUI 工业线评估）；最近似现成品 STI-054GP（4×GE PoE + 1×GE RJ45 上联，-40~+75℃，主表 $42.9）**（30% 档，档位：OEM 30%（ODM，板级定制按项目另议）｜STI-054GP $42.9 EXW（主表 @6.69；2025 对 SB-093 报过 $33）；板级定制无价）——巨头规则 C（Q-55 默认不升）；需求真实但三重门槛（板级定制 / 巨头准入 / 无 UL）——收尾信只问三件事：还在不在、数量级、UL 是否硬条件；任何一个答案为否即停｜已发资料（勿重发）：测温照片 ×4 + Outdoor Cabinet.png(2025-09-19)、PROFILE_Saga Telecom.pdf(2025-09-23)、Product Link_2026Q2(2026-03-30)
   - 复购/在买项：若；成；为；板；级；供；应；商； ；=； ；年；量；级；；；概；率；低
   - 做不了 / 要先核的：数；量；；；U；L； ；要；求；；；用；在；哪；款；产；品；；；三；位； ；K；P； ；谁；拍；板
 - **下一步（具体）**：2026-11　A 邮箱 → elizabethwang@supermicro.com（回 2025-09-23 原线程「Mini Industrial PoE Switch」），抄 michaelc@　一封收尾信（巨头例外档，仅此一封）：承认上次停在「要数量」；给最接近的现成品（STI-054GP 4×GE PoE + 1×GE 上联 -40~+75℃）作参照；问三件事：需求是否还在、数量级、UL 是否硬条件（Saga 认证为 CE/FCC/RoHS/REACH/UKCA，无 UL——先说清，别让对方浪费时间）
@@ -197,6 +197,7 @@ One question: is the requirement still live, and roughly what annual quantity ar
 
 Thank you.
 Alan
+Saga Telecom - sagatele.com
 ```
 
 > 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
@@ -215,8 +216,8 @@ Alan
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 31）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 31）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

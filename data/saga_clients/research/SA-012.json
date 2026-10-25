@@ -429,7 +429,7 @@
   ],
   "draft_en": {
    "subject": "PoE not powering on battery — did 7.5 change anything?",
-   "body": "Hi, Chris,\n\nTwo loose ends from March that we never closed, sorry about that.\n\n1. PoE not coming up after the switch sat on low battery for a couple of months — did the ports come back after the firmware 7.5 update, or is it still reproducible? If it is, send me the diagnostics package again and I will sit with engineering on it until we have an answer, not a \"please check\".\n2. SSH terminal type (xterm-256color) — still not configurable on this build; I will tell you honestly when it changes rather than promise a date.\n\nOne question: on battery power, what is the DC input voltage at the switch when PoE fails to come up? That decides whether this is a PoE budget rule or a bug.\n\nThank you.\nAlan"
+   "body": "Hi, Chris,\n\nTwo loose ends from March that we never closed, sorry about that.\n\n1. PoE not coming up after the switch sat on low battery for a couple of months — did the ports come back after the firmware 7.5 update, or is it still reproducible? If it is, send me the diagnostics package again and I will sit with engineering on it until we have an answer, not a \"please check\".\n2. SSH terminal type (xterm-256color) — still not configurable on this build; I will tell you honestly when it changes rather than promise a date.\n\nOne question: on battery power, what is the DC input voltage at the switch when PoE fails to come up? That decides whether this is a PoE budget rule or a bug.\n\nThank you.\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
  }

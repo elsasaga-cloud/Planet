@@ -38,7 +38,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-244GP / STI-110GE（非管理工业 / MC） — 换到非核心 SKU 问一次。已打开的主题（5/20 封有打开记录）：「90W PoE Managed Switch」(2025-01-30)、「Re: 90W PoE Managed Switch」(2025-01-30)、「Re: 90W PoE Managed Switch」(2025-03-20)、「Re: 90W PoE Managed Switch」(2025-04-21) → 读者兴趣偏「PoE 接入」；当前 P1 属「10G 汇聚/L3」，下一封按「PoE 接入」给，不按 P1；换人再触锚价 STI-244GP $35 EXW（最近实报 $35（㉕）；第 72 批 2026-10-24）；按 30%；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-22 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-08-17 $65（10G Media Converter）、2025-10-10 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Which part of the BitStream catalogue is bought-in today (unmanaged DIN, MC, SFP), and would an externally sourced unmanaged DIN line (and a Marvell L2+ managed tier above it) be considered? Reference: STI-244GP at $35 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：2027-Q1 A 邮箱 → tjargielo@ / ahyz@ 一句话问其外采的非核心 SKU（第 75 批(o) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用；换人/一问口径））（第 76 批(b) 2026-10-25：audit_ab 硬错误修正：同款群发价 $170→$180 补汇率说明（㉟））（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）
+- **下一步**：2027-Q1 A 邮箱 → tjargielo@ / ahyz@ 一句话问其外采的非核心 SKU（第 75 批(o) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用；换人/一问口径））（第 76 批(b) 2026-10-25：audit_ab 硬错误修正：同款群发价 $170→$180 补汇率说明（㉟））（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -49,7 +49,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：工业 L2+ PoE（bt）——但 BitStream 自研线覆盖此段。
 - **断点 / 为什么停在这里**：同业型品牌商：Saga 的管理型正是其自研段；只有非核心 SKU 有空间。
 - **Saga 现在该推什么**：P1 **STI-244GP / STI-110GE（非管理工业 / MC）**（30% 档，换人再触锚价 STI-244GP $35 EXW（最近实报 $35（㉕）；第 72 批 2026-10-24）；按 30%；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-22 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-08-17 $65（10G Media Converter）、2025-10-10 $280（10G Enterprise SFP Switch））——换到非核心 SKU 问一次。已打开的主题（5/20 封有打开记录）：「90W PoE Managed Switch」(2025-01-30)、「Re: 90W PoE Managed Switch」(2025-01-30)、「Re: 90W PoE Managed Switch」(2025-03-20)、「Re: 90W PoE Managed Switch」(2025-04-21) → 读者兴趣偏「PoE 接入」；当前 P1 属「10G 汇聚/L3」，下一封按「PoE 接入」给，不按 P1
-- **下一步（具体）**：2027-Q1　A 邮箱 → tjargielo@ / ahyz@　一句话问其外采的非核心 SKU（第 75 批(o) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用；换人/一问口径））（第 76 批(b) 2026-10-25：audit_ab 硬错误修正：同款群发价 $170→$180 补汇率说明（㉟））（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）
+- **下一步（具体）**：2027-Q1　A 邮箱 → tjargielo@ / ahyz@　一句话问其外采的非核心 SKU（第 75 批(o) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用；换人/一问口径））（第 76 批(b) 2026-10-25：audit_ab 硬错误修正：同款群发价 $170→$180 补汇率说明（㉟））（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
   - 第一问（只问一个）：Which part of the BitStream catalogue is bought-in today (unmanaged DIN, MC, SFP), and would an externally sourced unmanaged DIN line (and a Marvell L2+ managed tier above it) be considered? Reference: STI-244GP at $35 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -188,14 +188,14 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：A 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-24T07:26:33Z　|　**最近变化**：2026-10-24T07:26:33Z
-- **最近变化摘要**：2026-10-24 youtube：恢复可达（上轮 YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过））
+- **监控层**：A 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-25T07:41:18Z
+- **最近变化摘要**：2026-10-25 sitemap：新增 771 条：2026-08-18T11:31:26 bitstream.pl；2026-08-18T11:31:26 en；2026-08-18T11:31:26 it；20
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-031/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://bitstream.pl/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 2154 字符；首行：Polski producent urządzeń do transmisji danych \| BitStream |
-| [sitemap](https://bitstream.pl/sitemap.xml) | sitemap | HTTP 200 | 2026-10-24T07:26:33Z | 851 个 URL；最新 lastmod 2026-10-09T14:42:14 |
+| [sitemap](https://bitstream.pl/sitemap.xml) | sitemap | HTTP 200 | 2026-10-25T07:41:18Z | 851 个 URL；最新 lastmod 2026-10-09T14:42:14 |
 | [news_1](https://bitstream.pl/o-nas/realizacje/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 1974 字符；首行：Realizacje |
 | [youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UCOz0wLfEeqn8PTFcCIUaKkg) | rss | HTTP 200 | 2026-10-24T07:26:33Z | 15 条；最新：2024-06-17T09:44:57+00:00 Sebastian Huante Paredes' interview at ITSF 2023 |
 | [feed_auto](https://bitstream.pl/rss/) | rss | HTTP 200 | 2026-10-23T04:20:51Z | 30 条；最新：Thu, 08 Oct 2026 12:13:20 Mediakonwerter w sieciach przemysłowych – kiedy światłow |
@@ -292,7 +292,7 @@ Where a second line from us usually fits a manufacturer like you is the non-core
 One question: which non-core SKUs does BitStream buy in rather than build?
 
 Best regards,
-Simon
+Alan
 Saga Telecom - sagatele.com
 ```
 

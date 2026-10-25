@@ -35,7 +35,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STC-28DGGPM — 在售 PowerMaster 百兆 PoE（$20–60 价带）→ 千兆升级位 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；百兆位对价 HRUI STC-028GFP（$17.6）/ STC-024FP（$9.9）；首触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-20 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-20；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：Next to the PowerMaster PoE switches you list, we can supply a neutral-brand gigabit 8-PoE + 2 SFP L2+ model and a budget FE PoE line (8/16/24 ports) from small lots — which band sells more on Bayiden, FE or gigabit PoE? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：待 Simon 排期（首封） A 邮箱 → info@bayiden.com.tr（无具名 KP；公用地址） 首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-20「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 75 批(h) 2026-10-25：英文信稿已写 `draft_en`；FE 线按洪瑞 2026-09-30 进价 +20%：028GFP $17.9 / 024FP $10.2（旧表 $17.6/$9.9 低于底线不用））
+- **下一步**：待 Simon 排期（首封） A 邮箱 → info@bayiden.com.tr（无具名 KP；公用地址） 首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-20「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 75 批(h) 2026-10-25：英文信稿已写 `draft_en`；FE 线按洪瑞 2026-09-30 进价 +20%：028GFP $17.9 / 024FP $10.2（旧表 $17.6/$9.9 低于底线不用））（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-25）
 
@@ -46,7 +46,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：在售 PowerMaster 百兆 PoE（$20–60 价带）→ 千兆升级位 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；百兆位对价 HRUI STC-028GFP（$17.6）/ STC-024FP（$9.9）
 - **断点 / 为什么停在这里**：综合网店：交换机为配套品类，量小
 - **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，首触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-20 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-20；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170））——在售 PowerMaster 百兆 PoE（$20–60 价带）→ 千兆升级位 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；百兆位对价 HRUI STC-028GFP（$17.6）/ STC-024FP（$9.9）
-- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → info@bayiden.com.tr（无具名 KP；公用地址）　首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-20「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 75 批(h) 2026-10-25：英文信稿已写 `draft_en`；FE 线按洪瑞 2026-09-30 进价 +20%：028GFP $17.9 / 024FP $10.2（旧表 $17.6/$9.9 低于底线不用））
+- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → info@bayiden.com.tr（无具名 KP；公用地址）　首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-20「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 75 批(h) 2026-10-25：英文信稿已写 `draft_en`；FE 线按洪瑞 2026-09-30 进价 +20%：028GFP $17.9 / 024FP $10.2（旧表 $17.6/$9.9 低于底线不用））（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
   - 第一问（只问一个）：Next to the PowerMaster PoE switches you list, we can supply a neutral-brand gigabit 8-PoE + 2 SFP L2+ model and a budget FE PoE line (8/16/24 ports) from small lots — which band sells more on Bayiden, FE or gigabit PoE? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -140,14 +140,14 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-24T07:26:33Z　|　**最近变化**：2026-10-24T07:26:33Z
-- **最近变化摘要**：2026-10-24 youtube：恢复可达（上轮 HTTP 500）
+- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-25T07:41:18Z
+- **最近变化摘要**：2026-10-25 sitemap：新增 820 条：2026-10-25 mono-gitar-jak-gold-audio-sj-1002；2026-10-25 gold-audio-sj-1202-spekon
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1162/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://www.bayiden.com.tr/) | html | HTTP 200 | 2026-10-24T04:35:40Z | 53978 字符；首行：Bayiden - Teknolojinin Bayisi |
-| [sitemap](https://www.bayiden.com.tr/sitemap.xml) | sitemap | HTTP 200 | 2026-10-24T07:26:33Z | 900 个 URL；最新 lastmod 2026-10-24 |
+| [home](https://www.bayiden.com.tr/) | html | HTTP 200 | 2026-10-25T07:41:18Z | 53256 字符；首行：Bayiden - Teknolojinin Bayisi |
+| [sitemap](https://www.bayiden.com.tr/sitemap.xml) | sitemap | HTTP 200 | 2026-10-25T07:41:18Z | 900 个 URL；最新 lastmod 2026-10-25 |
 | [news_1](https://www.bayiden.com.tr/blog/) | html | HTTP 200 | 2026-10-24T04:35:40Z | 24189 字符；首行：- Bayiden - Teknolojinin Bayisi |
 | [youtube](https://www.youtube.com/@12VoltElektronik) | youtube_handle | HTTP 200 | 2026-10-24T07:26:33Z | 15 条；最新：2026-10-13T15:18:43+00:00 camii ses sistemi #kayseri #elektronik #tamir #telsiz #a |
 
@@ -240,7 +240,7 @@ Next to the PowerMaster PoE switches you list (POE8-2, POE24FE-2GE-1SFP), two ne
 One question: which band sells more on Bayiden - FE PoE or gigabit PoE?
 
 Best regards,
-Simon
+Alan
 Saga Telecom - sagatele.com
 ```
 

@@ -36,7 +36,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 品牌授权分销为主 → 白牌价位 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）作 SI 项目补位；预期低。已打开的主题（1/20 封有打开记录）：「Booster PoE Switch」(2025-11-14) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续；换人再触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-12-24 $300（48 Port PoE Managed Switch）、2025-03-14 $240（24 Port Fiber Switch）、2025-10-14 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Allen, alongside the LevelOne, Zyxel and DrayTek switches you distribute to Hong Kong SIs, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ model and 24-PoE + 4 SFP from small lots, CE/RoHS, EXW USD — is there a price band your SIs ask for below the branded lines? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 首封前知悉：Elsa 仅 2025-02-12 单发过 1 封「90W PoE Managed Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(aj) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 首封前知悉：Elsa 仅 2025-02-12 单发过 1 封「90W PoE Managed Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(aj) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -47,7 +47,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：品牌授权分销为主 → 白牌价位 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）作 SI 项目补位；预期低
 - **断点 / 为什么停在这里**：品牌独家分销模式（厂商授权）：白牌与其定位冲突，契合度低；非主攻区（T5）
 - **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，换人再触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-12-24 $300（48 Port PoE Managed Switch）、2025-03-14 $240（24 Port Fiber Switch）、2025-10-14 $280（10G Enterprise SFP Switch））——品牌授权分销为主 → 白牌价位 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）作 SI 项目补位；预期低。已打开的主题（1/20 封有打开记录）：「Booster PoE Switch」(2025-11-14) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续
-- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　首封前知悉：Elsa 仅 2025-02-12 单发过 1 封「90W PoE Managed Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(aj) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　首封前知悉：Elsa 仅 2025-02-12 单发过 1 封「90W PoE Managed Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(aj) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
   - 第一问（只问一个）：Allen, alongside the LevelOne, Zyxel and DrayTek switches you distribute to Hong Kong SIs, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ model and 24-PoE + 4 SFP from small lots, CE/RoHS, EXW USD — is there a price band your SIs ask for below the branded lines? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -181,16 +181,16 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-24T07:26:33Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1184/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://www.everbesthk.com/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 3351 字符；首行：Everbest Home Page - Everbest Technologies Ltd. |
-| [sitemap](https://www.everbesthk.com/sitemap_index.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 0 个 URL；最新 lastmod - |
-| [news_1](https://www.everbesthk.com/portfolio-items/engenius-ews2910p/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 3679 字符；首行：EnGenius EWS2910P - Everbest Technologies Ltd. |
-| [news_2](https://www.everbesthk.com/portfolio_category/7-sep-2026/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 1067 字符；首行：7 Sep 2026 Archives - Everbest Technologies Ltd. |
+| [home](https://www.everbesthk.com/) | html | ConnectTimeout: HTTPSConnectionPool(host='www.everbesthk.com | 2026-10-23T04:20:51Z | 官网首页（T27 快照状态 ok） |
+| [sitemap](https://www.everbesthk.com/sitemap_index.xml) | sitemap | ConnectTimeout: HTTPSConnectionPool(host='www.everbesthk.com | 2026-10-23T04:20:51Z | 站点地图（2026-10-21 时 2036 条） |
+| [news_1](https://www.everbesthk.com/portfolio-items/engenius-ews2910p/) | html | ConnectTimeout: HTTPSConnectionPool(host='www.everbesthk.com | 2026-10-23T04:20:51Z | 导航「Read More」 |
+| [news_2](https://www.everbesthk.com/portfolio_category/7-sep-2026/) | html | ConnectTimeout: HTTPSConnectionPool(host='www.everbesthk.com | 2026-10-23T04:20:51Z | 导航「7 Sep 2026」 |
 
 ## 联系方式（已有 · 原值照录）
 
@@ -284,7 +284,7 @@ Alongside the LevelOne, Zyxel and DrayTek switches you distribute to Hong Kong S
 One question: is there a price band your SIs ask for below the branded lines, or do they stay with the names?
 
 Best regards,
-Simon
+Alan
 Saga Telecom - sagatele.com
 ```
 

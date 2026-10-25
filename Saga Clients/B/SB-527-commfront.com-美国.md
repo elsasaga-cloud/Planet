@@ -36,7 +36,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-050GE — 自有标小壳工业交换机 → 工业 5 GE 非管理 STI-050GE（$18.5 @30%）、8 GE STI-080GE（$34.0）；工业 MC 位 STI-110GE（$24.3）；高标价 = 贴标毛利空间大；换人再触锚价 STI-050GE $18.5（30% 档） EXW（12–36 V 标准款按档位；宽压 12–58 V 款最近实报 $25（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-07-11 $300（48 Port PoE Managed Switch）、2025-09-30 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：For the compact industrial Ethernet switches and gigabit fiber converters in your range, we build 5/8-port DIN-rail units and SFP media converters under your label from small lots (−40~75 °C, CE/RoHS/FCC) — which of the two would you want a sample quote on first? Reference: STI-050GE at $25 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 首封前知悉：Elsa 仅 2025-02-23 单发过 1 封「Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(u) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（第 76 批(d) 2026-10-25：锚价按稿内 12–36 V 款改为档位价，宽压 $25 保留说明）
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 首封前知悉：Elsa 仅 2025-02-23 单发过 1 封「Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(u) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（第 76 批(d) 2026-10-25：锚价按稿内 12–36 V 款改为档位价，宽压 $25 保留说明）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -47,7 +47,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：自有标小壳工业交换机 → 工业 5 GE 非管理 STI-050GE（$18.5 @30%）、8 GE STI-080GE（$34.0）；工业 MC 位 STI-110GE（$24.3）；高标价 = 贴标毛利空间大
 - **断点 / 为什么停在这里**：串口/隔离器为主业：交换机为配套线
 - **Saga 现在该推什么**：P1 **STI-050GE**（30% 档，换人再触锚价 STI-050GE $18.5（30% 档） EXW（12–36 V 标准款按档位；宽压 12–58 V 款最近实报 $25（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-07-11 $300（48 Port PoE Managed Switch）、2025-09-30 $280（10G Enterprise SFP Switch））——自有标小壳工业交换机 → 工业 5 GE 非管理 STI-050GE（$18.5 @30%）、8 GE STI-080GE（$34.0）；工业 MC 位 STI-110GE（$24.3）；高标价 = 贴标毛利空间大
-- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　首封前知悉：Elsa 仅 2025-02-23 单发过 1 封「Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(u) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（第 76 批(d) 2026-10-25：锚价按稿内 12–36 V 款改为档位价，宽压 $25 保留说明）
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　首封前知悉：Elsa 仅 2025-02-23 单发过 1 封「Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(u) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（第 76 批(d) 2026-10-25：锚价按稿内 12–36 V 款改为档位价，宽压 $25 保留说明）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
   - 第一问（只问一个）：For the compact industrial Ethernet switches and gigabit fiber converters in your range, we build 5/8-port DIN-rail units and SFP media converters under your label from small lots (−40~75 °C, CE/RoHS/FCC) — which of the two would you want a sample quote on first? Reference: STI-050GE at $25 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -187,7 +187,7 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-24T07:26:33Z　|　**最近变化**：2026-10-24T07:26:33Z
+- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-24T07:26:33Z
 - **最近变化摘要**：2026-10-24 youtube：恢复可达（上轮 YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过））
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-527/`；本节随档案重渲染刷新，实时看日志。
 
@@ -289,7 +289,7 @@ Serial and Modbus are yours; for the compact industrial Ethernet switches and gi
 One question: which of the two - the 5/8-port switch or the converter - would you want a sample quote on first?
 
 Best regards,
-Simon
+Alan
 Saga Telecom - sagatele.com
 ```
 

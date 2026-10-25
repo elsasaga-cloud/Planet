@@ -99,7 +99,7 @@
   "next_move": {
    "when": "待 Simon 排期（首封）",
    "channel": "A 邮箱 → luthra@win-alliance.com（Harvinder Luthra）",
-   "action": "首封：按 email_hook 一问（第 75 批(m) 2026-10-25：英文信稿已写 `draft_en`）",
+   "action": "首封：按 email_hook 一问（第 75 批(m) 2026-10-25：英文信稿已写 `draft_en`）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
    "one_question": "Harvinder, on the 2.5G 5/8-port CKD idea — before we price kits, what monthly volume would the Mumbai assembly line run, and do you need BIS test support from the factory?"
   },
   "facts": [
@@ -134,7 +134,7 @@
   ],
   "draft_en": {
    "subject": "The 5/8-port 2.5G CKD idea - two numbers I need before pricing kits",
-   "body": "Hi Harvinder,\n\nIn 2024 you raised the idea of 5/8-port 2.5G switches in CKD form for assembly in Mumbai, and said you would send the requirement by mail; it never came, so I am writing first.\n\nAs the reference point, the assembled unit on that footprint is a 6-port 2.5G PoE switch (4 x 2.5G PoE+ + 1 x 2.5G + 1 x 10G SFP+), unmanaged - model STC-114XGDGP - $44 USD EXW (MOQ 1, 15-day validity). A CKD kit (PCBA, housing, PSU separately) is possible in principle, but it is only worth pricing against a volume.\n\nOne question, in two parts: what monthly volume would the Mumbai line run, and do you need test-report support from our side for BIS, or do you handle BIS entirely locally?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+   "body": "Hi Harvinder,\n\nIn 2024 you raised the idea of 5/8-port 2.5G switches in CKD form for assembly in Mumbai, and said you would send the requirement by mail; it never came, so I am writing first.\n\nAs the reference point, the assembled unit on that footprint is a 6-port 2.5G PoE switch (4 x 2.5G PoE+ + 1 x 2.5G + 1 x 10G SFP+), unmanaged - model STC-114XGDGP - $44 USD EXW (MOQ 1, 15-day validity). A CKD kit (PCBA, housing, PSU separately) is possible in principle, but it is only worth pricing against a volume.\n\nOne question, in two parts: what monthly volume would the Mumbai line run, and do you need test-report support from our side for BIS, or do you handle BIS entirely locally?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
  }

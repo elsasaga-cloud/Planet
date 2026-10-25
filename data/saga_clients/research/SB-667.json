@@ -109,7 +109,7 @@
   "next_move": {
    "when": "待 Simon 排期（首封）",
    "channel": "A 邮箱 → dia@opatov.ru（Igor Dashchinski）",
-   "action": "首封：按 email_hook 一问（第 75 批(l) 2026-10-25：英文信稿已写 `draft_en`；bypass 整机为 SmartByte 型号，信稿只描述不写型号）（第 76 批(c) 2026-10-25：audit_ab 软项修正：证书口径 CE/RoHS → CE/RoHS (EAC stays on your side)）",
+   "action": "首封：按 email_hook 一问（第 75 批(l) 2026-10-25：英文信稿已写 `draft_en`；bypass 整机为 SmartByte 型号，信稿只描述不写型号）（第 76 批(c) 2026-10-25：audit_ab 软项修正：证书口径 CE/RoHS → CE/RoHS (EAC stays on your side)）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
    "one_question": "Igor, following your enquiry on bypass switches: we supply an industrial managed 4-SFP + 8-GE model with hardware bypass (PoE and non-PoE versions, −40~75 °C) from small lots — is the bypass needed on the copper ports or on the fiber uplinks in your design? Reference: the bypass unit at $186.5 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
@@ -127,7 +127,7 @@
   ],
   "draft_en": {
    "subject": "Your bypass-switch enquiry on Alibaba - industrial managed unit with hardware bypass",
-   "body": "Hi Igor,\n\nYou asked on Alibaba about bypass modules and did not get a proper answer from us - apologies, here it is.\n\nWe do not sell the bypass module on its own; we supply it built into an industrial switch: DIN-rail L2+ managed, 8 x Gigabit RJ45 (PoE+ version) + 4 x SFP, hardware optical bypass on the fibre uplinks, -40 to 75 C, CE/RoHS (EAC stays on your side) - $186.5 USD EXW (MOQ 1, 15-day validity); the non-PoE version - $172.2. Alongside it, the regular DIN-rail 8 x Gigabit + 2 x SFP L2 managed unit, STI-280GM, $68.2.\n\nOne question: is the bypass needed on the copper ports or on the fibre uplinks in your design?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+   "body": "Hi Igor,\n\nYou asked on Alibaba about bypass modules and did not get a proper answer from us - apologies, here it is.\n\nWe do not sell the bypass module on its own; we supply it built into an industrial switch: DIN-rail L2+ managed, 8 x Gigabit RJ45 (PoE+ version) + 4 x SFP, hardware optical bypass on the fibre uplinks, -40 to 75 C, CE/RoHS (EAC stays on your side) - $186.5 USD EXW (MOQ 1, 15-day validity); the non-PoE version - $172.2. Alongside it, the regular DIN-rail 8 x Gigabit + 2 x SFP L2 managed unit, STI-280GM, $68.2.\n\nOne question: is the bypass needed on the copper ports or on the fibre uplinks in your design?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
  }

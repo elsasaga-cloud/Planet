@@ -129,7 +129,7 @@
     "next_move": {
       "when": "待 Simon 排期（首封）",
       "channel": "A 邮箱 → info@energus.eu（Daniel Šuškevič）",
-      "action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-09-01「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 75 批(j) 2026-10-25：英文信稿已写 `draft_en`；钩子「ERPS」改「ring redundancy」（口径））",
+      "action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-09-01「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 75 批(j) 2026-10-25：英文信稿已写 `draft_en`；钩子「ERPS」改「ring redundancy」（口径））（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
       "one_question": "Following up on the switch brochure you picked up at the fair: for your electrical/automation projects, a DIN-rail 8× GbE PoE+ + 2× SFP L2+ switch with ERPS ring, −40/+75 °C, at $137.5 EXW — is Daniel Šuškevič still the right contact for low-current projects, or should I write to a colleague?"
     },
     "facts": [
@@ -163,7 +163,7 @@
     ],
     "draft_en": {
       "subject": "Following up on the switch brochure from the fair - DIN-rail PoE for automation projects",
-      "body": "Hi Daniel,\n\nFollowing up on the switch brochure you picked up at the fair. (Over the past months you had a few product mails from us - most recently \"24 Port PoE Managed Switch\" on 1 September 2026 - and there was no reason to answer a mass mail; this one is written for Energus.)\n\nFor your electrical and automation projects: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, L2+ managed with ring redundancy, Marvell-based, -40 to 75 C, CE/RoHS - model STI-288DGGPM - $137.5 USD EXW (MOQ 1, 15-day validity); the non-PoE L2 managed 8 x Gigabit + 2 x SFP - STI-280GM - $71.0; for building PoE, 24 x PoE+ (280 W) + 4 x SFP - STC-424DGGPM-280W - $140.1.\n\nOne question: are you still the right contact for low-current projects at Energus, or should I write to a colleague?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+      "body": "Hi Daniel,\n\nFollowing up on the switch brochure you picked up at the fair. (Over the past months you had a few product mails from us - most recently \"24 Port PoE Managed Switch\" on 1 September 2026 - and there was no reason to answer a mass mail; this one is written for Energus.)\n\nFor your electrical and automation projects: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, L2+ managed with ring redundancy, Marvell-based, -40 to 75 C, CE/RoHS - model STI-288DGGPM - $137.5 USD EXW (MOQ 1, 15-day validity); the non-PoE L2 managed 8 x Gigabit + 2 x SFP - STI-280GM - $71.0; for building PoE, 24 x PoE+ (280 W) + 4 x SFP - STC-424DGGPM-280W - $140.1.\n\nOne question: are you still the right contact for low-current projects at Energus, or should I write to a colleague?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
     },
     "as_of": "2026-10-25"
   }

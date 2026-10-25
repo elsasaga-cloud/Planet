@@ -99,8 +99,8 @@
     "breakpoint": "「需要数量才能评估」+ 无 UL——美国巨头准入的两道门，一道没过。",
     "saga_now": {
       "p1": "无现成；板级定制（SmartByte/HRUI 工业线评估）；最近似现成品 STI-054GP（4×GE PoE + 1×GE RJ45 上联，-40~+75℃，主表 $42.9）",
-      "tier": "OEM 30%（ODM）",
-      "price": "STI-054GP $42.9 EXW（主表 @6.69；2025 对 SB-093 报过 $33）；板级定制无价",
+      "tier": 30,
+      "price": "档位：OEM 30%（ODM，板级定制按项目另议）｜STI-054GP $42.9 EXW（主表 @6.69；2025 对 SB-093 报过 $33）；板级定制无价",
       "why": "巨头规则 C（Q-55 默认不升）；需求真实但三重门槛（板级定制 / 巨头准入 / 无 UL）——收尾信只问三件事：还在不在、数量级、UL 是否硬条件；任何一个答案为否即停｜已发资料（勿重发）：测温照片 ×4 + Outdoor Cabinet.png(2025-09-19)、PROFILE_Saga Telecom.pdf(2025-09-23)、Product Link_2026Q2(2026-03-30)",
       "repeat": "若成为板级供应商 = 年量级；概率低",
       "gaps": "数量；UL 要求；用在哪款产品；三位 KP 谁拍板"
@@ -168,7 +168,7 @@
     ],
     "draft_en": {
       "subject": "Re: Mini Industrial PoE Switch — the 3×GE PoE / Microfit board, one year later",
-      "body": "Hi Elizabeth,\n\nLast September we stopped at \"we can develop it, but we need the quantity\". Picking that up properly:\n\n- Nearest ready unit for reference: a 4 x GE 802.3at PoE + 1 x GE uplink industrial switch, -40 to +75 C, IP40 (tested photos were in my September mail). A 3 x GE board-level version with a Microfit connector is a custom build on the same platform.\n- Certifications up front: CE/FCC/RoHS/REACH/UKCA. We do not hold UL. If UL is mandatory for that outdoor cabinet, please tell me and we both save time.\n\nOne question: is the requirement still live, and roughly what annual quantity are we talking about? That is the one number the engineering evaluation needs.\n\nThank you.\nAlan"
+      "body": "Hi Elizabeth,\n\nLast September we stopped at \"we can develop it, but we need the quantity\". Picking that up properly:\n\n- Nearest ready unit for reference: a 4 x GE 802.3at PoE + 1 x GE uplink industrial switch, -40 to +75 C, IP40 (tested photos were in my September mail). A 3 x GE board-level version with a Microfit connector is a custom build on the same platform.\n- Certifications up front: CE/FCC/RoHS/REACH/UKCA. We do not hold UL. If UL is mandatory for that outdoor cabinet, please tell me and we both save time.\n\nOne question: is the requirement still live, and roughly what annual quantity are we talking about? That is the one number the engineering evaluation needs.\n\nThank you.\nAlan\nSaga Telecom - sagatele.com"
     }
   }
 }

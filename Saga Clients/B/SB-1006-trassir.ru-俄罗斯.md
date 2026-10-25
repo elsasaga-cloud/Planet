@@ -35,7 +35,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STC-28DGGPM — 自有型号商用 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 TRASSIR 标；24 口位 STC-424DGGPM-280W；首触锚价 STC-28DGGPM $87.4 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-26 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-26；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：For the TRASSIR-branded PoE switches in your network catalogue, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE + 4 SFP) from small lots in your housing — which model do your distributors order most, so we quote its equivalent first? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
-- **下一步**：待 Simon 排期（首封） A 邮箱 → in@trassir.ru 首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-26「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 75 批(l) 2026-10-25：英文信稿已写 `draft_en`）
+- **下一步**：待 Simon 排期（首封） A 邮箱 → in@trassir.ru 首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-26「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 75 批(l) 2026-10-25：英文信稿已写 `draft_en`）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-25）
 
@@ -46,7 +46,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：自有型号商用 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 TRASSIR 标；24 口位 STC-424DGGPM-280W
 - **断点 / 为什么停在这里**：俄罗斯：结算/物流受限，非主攻区（T5）
 - **Saga 现在该推什么**：P1 **STC-28DGGPM**（30% 档，首触锚价 STC-28DGGPM $87.4 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-26 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-26；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170））——自有型号商用 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 TRASSIR 标；24 口位 STC-424DGGPM-280W
-- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → in@trassir.ru　首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-26「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 75 批(l) 2026-10-25：英文信稿已写 `draft_en`）
+- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → in@trassir.ru　首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-26「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 75 批(l) 2026-10-25：英文信稿已写 `draft_en`）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
   - 第一问（只问一个）：For the TRASSIR-branded PoE switches in your network catalogue, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE + 4 SFP) from small lots in your housing — which model do your distributors order most, so we quote its equivalent first? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -133,16 +133,16 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-24T07:26:33Z　|　**最近变化**：2026-10-24T07:26:33Z
+- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-24T07:26:33Z
 - **最近变化摘要**：2026-10-24 sitemap：新增 420 条：2025-03-10T12:38:05 trassir.ru；2025-03-10T12:38:05 products；2025-03-10T12:38:05 v
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1006/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://trassir.ru/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 7110 字符；首行：TRASSIR - видеонаблюдение и интеллектуальная видеоаналитика для бизнеса / Внедр |
-| [sitemap](https://trassir.ru/sitemap.xml) | sitemap | HTTP 200 | 2026-10-24T07:26:33Z | 500 个 URL；最新 lastmod 2025-03-10T12:38:22 |
-| [news_1](https://trassir.ru/news/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 4095 字符；首行：Новости |
-| [news_2](https://trassir.ru/events/) | html | HTTP 200 | 2026-10-24T04:35:40Z | 3315 字符；首行：Реестр мероприятий |
+| [home](https://trassir.ru/) | html | ConnectTimeout: HTTPSConnectionPool(host='trassir.ru', port= | 2026-10-23T04:20:51Z | 官网首页（T27 快照状态 ok） |
+| [sitemap](https://trassir.ru/sitemap.xml) | sitemap | ConnectTimeout: HTTPSConnectionPool(host='trassir.ru', port= | 2026-10-24T07:26:33Z | 站点地图（2026-10-21 时 500 条） |
+| [news_1](https://trassir.ru/news/) | html | ConnectTimeout: HTTPSConnectionPool(host='trassir.ru', port= | 2026-10-23T04:20:51Z | 导航「Новости」 |
+| [news_2](https://trassir.ru/events/) | html | ConnectTimeout: HTTPSConnectionPool(host='trassir.ru', port= | 2026-10-24T04:35:40Z | 导航「Мероприятия」 |
 
 ## 联系方式（已有 · 原值照录）
 
@@ -231,7 +231,7 @@ For the TRASSIR-branded PoE switches in your network catalogue, we can be a seco
 One question: which model do your distributors order most, so we quote its equivalent first?
 
 Best regards,
-Simon
+Alan
 Saga Telecom - sagatele.com
 ```
 

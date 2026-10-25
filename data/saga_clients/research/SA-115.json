@@ -98,7 +98,7 @@
   "next_move": {
    "when": "待 Simon 排期（首封）",
    "channel": "A 邮箱 → info@advancedigital.co.in（Subodh）",
-   "action": "首封：按 email_hook 一问（第 75 批(m) 2026-10-25：英文信稿已写 `draft_en`）（第 76 批(c) 2026-10-25：audit_ab 软项修正：证书口径 CE/RoHS → CE/RoHS (BIS stays on your side)）",
+   "action": "首封：按 email_hook 一问（第 75 批(m) 2026-10-25：英文信稿已写 `draft_en`）（第 76 批(c) 2026-10-25：audit_ab 软项修正：证书口径 CE/RoHS → CE/RoHS (BIS stays on your side)）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
    "one_question": "Subodh, you've had our optical/MC prices since 2024 but no project yet — is there one model (gigabit MC or 2-SFP + 4-port switch) where a 10-pc trial price would actually move stock for you? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
@@ -125,7 +125,7 @@
   ],
   "draft_en": {
    "subject": "One model for a 10-pc trial - gigabit media converter",
-   "body": "Hi Subodh,\n\nYou have had our optical and media-converter prices since 2024 and there has been no project yet - fair enough. Rather than more price lists, one concrete offer: the industrial Gigabit media converter, 1 x RJ45 + 1 x SFP slot (or fixed SC single-mode 20 km), DIN-rail, -40 to 75 C, CE/RoHS (BIS stays on your side) - model STI-110GE - $26.5 USD EXW (MOQ 1, 15-day validity); a 10-pc trial ships in one carton.\n\nOne question: is there one model - this converter, or a 2-SFP + copper switch - where a 10-pc trial would actually move stock for you?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+   "body": "Hi Subodh,\n\nYou have had our optical and media-converter prices since 2024 and there has been no project yet - fair enough. Rather than more price lists, one concrete offer: the industrial Gigabit media converter, 1 x RJ45 + 1 x SFP slot (or fixed SC single-mode 20 km), DIN-rail, -40 to 75 C, CE/RoHS (BIS stays on your side) - model STI-110GE - $26.5 USD EXW (MOQ 1, 15-day validity); a 10-pc trial ships in one carton.\n\nOne question: is there one model - this converter, or a 2-SFP + copper switch - where a 10-pc trial would actually move stock for you?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
  }

@@ -35,7 +35,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STI-080GE — 自助机/交通柜内配套 → 工业 8 GE 非管理 STI-080GE（$32.7 @25%）/ 5 GE STI-050GE（$17.8）；管理版 STI-280GE（$48.6）；首触锚价 STI-080GE $32.5 EXW（最近实报 SB-1019 2025-07-07 $32.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-21 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-21；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：For the industrial switches inside your queue-management kiosks and traffic cabinets, we supply compact DIN-rail 5-GE and 8-GE units (unmanaged or managed with 2 SFP, −40~75 °C, CE/RoHS) from single units, EXW USD — which port count do your cabinet designs use most? Reference: STI-080GE at $32.5 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
-- **下一步**：待 Simon 排期（首封） A 邮箱 → info@akistechnologies.com（无具名 KP；公用地址） 首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-21「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 75 批(j) 2026-10-25：英文信稿已写 `draft_en`）
+- **下一步**：待 Simon 排期（首封） A 邮箱 → info@akistechnologies.com（无具名 KP；公用地址） 首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-21「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 75 批(j) 2026-10-25：英文信稿已写 `draft_en`）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-25）
 
@@ -46,7 +46,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：自助机/交通柜内配套 → 工业 8 GE 非管理 STI-080GE（$32.7 @25%）/ 5 GE STI-050GE（$17.8）；管理版 STI-280GE（$48.6）
 - **断点 / 为什么停在这里**：小国（立陶宛，非主动开拓区）；工业 FS 为配套（量小）；仅 info@，未跟进过；守界备注：交通管理场景仅供民用通用型号
 - **Saga 现在该推什么**：P1 **STI-080GE**（25% 档，首触锚价 STI-080GE $32.5 EXW（最近实报 SB-1019 2025-07-07 $32.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-21 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-21；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170））——自助机/交通柜内配套 → 工业 8 GE 非管理 STI-080GE（$32.7 @25%）/ 5 GE STI-050GE（$17.8）；管理版 STI-280GE（$48.6）
-- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → info@akistechnologies.com（无具名 KP；公用地址）　首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-21「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 75 批(j) 2026-10-25：英文信稿已写 `draft_en`）
+- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → info@akistechnologies.com（无具名 KP；公用地址）　首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-21「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 75 批(j) 2026-10-25：英文信稿已写 `draft_en`）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
   - 第一问（只问一个）：For the industrial switches inside your queue-management kiosks and traffic cabinets, we supply compact DIN-rail 5-GE and 8-GE units (unmanaged or managed with 2 SFP, −40~75 °C, CE/RoHS) from single units, EXW USD — which port count do your cabinet designs use most? Reference: STI-080GE at $32.5 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -134,14 +134,14 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-24T07:26:33Z　|　**最近变化**：2026-10-24T07:26:33Z
-- **最近变化摘要**：2026-10-24 sitemap：新增 23 条：2022-08-30T11:18+00 make-customers-fall-in-love-with-you；2022-08-30T11:51+00 large
+- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-25T07:41:18Z
+- **最近变化摘要**：2026-10-25 sitemap：新增 23 条：2022-08-30T11:18+00 make-customers-fall-in-love-with-you；2022-08-30T11:51+00 large
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1148/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://www.akistechnologies.com/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 6608 字符；首行：The Best Queue Management System - AKIS Technologies |
-| [sitemap](https://www.akistechnologies.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-24T07:26:33Z | 103 个 URL；最新 lastmod 2026-10-24T00:00+00 |
+| [sitemap](https://www.akistechnologies.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-25T07:41:18Z | 103 个 URL；最新 lastmod 2026-10-25T00:00+00 |
 | [news_1](https://www.akistechnologies.com/blog) | html | HTTP 200 | 2026-10-23T04:20:51Z | 7243 字符；首行：Blog - AKIS Technologies |
 | [news_2](https://www.akistechnologies.com/eu-projects) | html | HTTP 200 | 2026-10-23T04:20:51Z | 4858 字符；首行：EU Projects - AKIS Technologies |
 
@@ -235,7 +235,7 @@ For the industrial switches inside your queue-management kiosks and traffic cabi
 One question: which port count do your cabinet designs use most - 5 or 8?
 
 Best regards,
-Simon
+Alan
 Saga Telecom - sagatele.com
 ```
 

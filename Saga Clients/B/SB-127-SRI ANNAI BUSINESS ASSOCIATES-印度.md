@@ -37,7 +37,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 历史报价对象 = L2 管理 8 PoE + 2 SFP → Saga STC-28DGGPM（$80.7/84.1/87.4；2024 年曾报 $75，报价前核价）。；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Sampath, we quoted you the 8-PoE + 2-SFP managed unit at USD 75 in April 2024 — is that camera project still open, and would a 10-pc trial price help you close it?
 - **最大未知**：官网当前状态异常（域名不可达（DNS/连接失败））——公司是否仍在运营待核
-- **下一步**：待 Simon 排期（首封） A 邮箱 → info@sabaindia.com（R. Sampath Kumar） 首封：按 email_hook 一问（第 75 批(m) 2026-10-25：英文信稿已写 `draft_en`；2024 报 $75 → 今 $84.1 只说汇率 7.2→6.7；10 台试单可按 20% 档 $80.7）（第 76 批(c) 2026-10-25：audit_ab 软项修正：证书口径 CE/RoHS → CE/RoHS (BIS stays on your side)）
+- **下一步**：待 Simon 排期（首封） A 邮箱 → info@sabaindia.com（R. Sampath Kumar） 首封：按 email_hook 一问（第 75 批(m) 2026-10-25：英文信稿已写 `draft_en`；2024 报 $75 → 今 $84.1 只说汇率 7.2→6.7；10 台试单可按 20% 档 $80.7）（第 76 批(c) 2026-10-25：audit_ab 软项修正：证书口径 CE/RoHS → CE/RoHS (BIS stays on your side)）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -48,7 +48,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：历史报价对象 = L2 管理 8 PoE + 2 SFP → Saga STC-28DGGPM（$80.7/84.1/87.4；2024 年曾报 $75，报价前核价）。
 - **断点 / 为什么停在这里**：域名失效，info@ 可能退信（备用 yahoo）
 - **Saga 现在该推什么**：P1 **STC-28DGGPM**（25% 档，按主表（研究档 saga_fit））——历史报价对象 = L2 管理 8 PoE + 2 SFP → Saga STC-28DGGPM（$80.7/84.1/87.4；2024 年曾报 $75，报价前核价）。
-- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → info@sabaindia.com（R. Sampath Kumar）　首封：按 email_hook 一问（第 75 批(m) 2026-10-25：英文信稿已写 `draft_en`；2024 报 $75 → 今 $84.1 只说汇率 7.2→6.7；10 台试单可按 20% 档 $80.7）（第 76 批(c) 2026-10-25：audit_ab 软项修正：证书口径 CE/RoHS → CE/RoHS (BIS stays on your side)）
+- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → info@sabaindia.com（R. Sampath Kumar）　首封：按 email_hook 一问（第 75 批(m) 2026-10-25：英文信稿已写 `draft_en`；2024 报 $75 → 今 $84.1 只说汇率 7.2→6.7；10 台试单可按 20% 档 $80.7）（第 76 批(c) 2026-10-25：audit_ab 软项修正：证书口径 CE/RoHS → CE/RoHS (BIS stays on your side)）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
   - 第一问（只问一个）：Sampath, we quoted you the 8-PoE + 2-SFP managed unit at USD 75 in April 2024 — is that camera project still open, and would a 10-pc trial price help you close it?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -138,7 +138,7 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-24T07:26:33Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-25T07:41:18Z
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-127/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
@@ -236,7 +236,7 @@ The same slot today: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based, CE/
 One question: is that camera project still open, or has a new one replaced it?
 
 Best regards,
-Simon
+Alan
 Saga Telecom - sagatele.com
 ```
 

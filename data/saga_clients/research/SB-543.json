@@ -119,7 +119,7 @@
     "next_move": {
       "when": "2027-Q1（换人后）",
       "channel": "A 邮箱 → 具名 KP",
-      "action": "首封前知悉：Elsa 仅 2025-02-25 单发过 1 封「Mini Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(v) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）",
+      "action": "首封前知悉：Elsa 仅 2025-02-25 单发过 1 封「Mini Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(v) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
       "one_question": "David, for the rugged industrial switch line in the KBC range, we can be a second ODM source (DIN-rail 8-PoE + 2 SFP managed on Marvell L2+, or unmanaged, −40~75 °C) from small lots with FCC/CE/RoHS reports — which model would you consider dual-sourcing first? Reference: STI-288GPM at $85.5 USD EXW (MOQ 1, 15-day validity)."
     },
     "facts": [
@@ -160,7 +160,7 @@
     "proof_gaps": [],
     "draft_en": {
       "subject": "The rugged switch line in the KBC range - a second ODM source, FCC/CE/RoHS reports included",
-      "body": "Hi David,\n\nOver the past months you had a few product mails from us - most recently \"16 Port Industrial PoE Switch\" on 11 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the rugged industrial switch line in the KBC range, a second ODM source from small lots, -40 to 75 C, FCC/CE/RoHS test reports supplied with the first lot: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, L2 managed, Marvell-based - model STI-288GPM - $85.5 USD EXW under the KBC label (MOQ 1, 15-day validity); the same footprint unmanaged - STI-288GP - $62.2; Gigabit media converter, 1 x RJ45 + 1 x SFP - STI-110GE - $26.5. Racks, SFPs and video converters stay with your current sources - we do not carry them.\n\nOne question: which model would you consider dual-sourcing first - the managed 8-port or the unmanaged?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+      "body": "Hi David,\n\nOver the past months you had a few product mails from us - most recently \"16 Port Industrial PoE Switch\" on 11 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the rugged industrial switch line in the KBC range, a second ODM source from small lots, -40 to 75 C, FCC/CE/RoHS test reports supplied with the first lot: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, L2 managed, Marvell-based - model STI-288GPM - $85.5 USD EXW under the KBC label (MOQ 1, 15-day validity); the same footprint unmanaged - STI-288GP - $62.2; Gigabit media converter, 1 x RJ45 + 1 x SFP - STI-110GE - $26.5. Racks, SFPs and video converters stay with your current sources - we do not carry them.\n\nOne question: which model would you consider dual-sourcing first - the managed 8-port or the unmanaged?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
     },
     "as_of": "2026-10-24"
   }

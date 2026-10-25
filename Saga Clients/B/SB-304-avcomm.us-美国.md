@@ -36,7 +36,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 自有工业 PoE 系列（400/4000/6000 PoE）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）贴 AVCOMM 标；L2+ 位 STI-288DGGPM；非管理 STI-288GP；换人再触锚价 STI-288GPM $85.5 EXW（主表档位（PDF 上限 $88；SA-026 2025-07 实报 $72 为分销量价）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-14 $65（10G media converter）、2025-01-02 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-07-27 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-11-21 $300（48 Port PoE Managed Switch）、2025-10-08 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Kang, for the AVCOMM 400/4000-series industrial PoE switches, we build DIN-rail 8-PoE + 2 SFP managed (Marvell L2+) and unmanaged units under your label from small lots (−40~75 °C, CE/RoHS/FCC) — which series would you want a second-source quotation on first? Reference: STI-288GPM at $85.5 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封（第 75 批(t) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用；具名 KP 见 channel））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封（第 75 批(t) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用；具名 KP 见 channel））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -47,7 +47,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：自有工业 PoE 系列（400/4000/6000 PoE）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）贴 AVCOMM 标；L2+ 位 STI-288DGGPM；非管理 STI-288GP
 - **断点 / 为什么停在这里**：自有品牌已有代工来源：以 Marvell 平台 + 小批量切入
 - **Saga 现在该推什么**：P1 **STI-288GPM**（30% 档，换人再触锚价 STI-288GPM $85.5 EXW（主表档位（PDF 上限 $88；SA-026 2025-07 实报 $72 为分销量价）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-14 $65（10G media converter）、2025-01-02 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-07-27 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-11-21 $300（48 Port PoE Managed Switch）、2025-10-08 $280（10G Enterprise SFP Switch））——自有工业 PoE 系列（400/4000/6000 PoE）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）贴 AVCOMM 标；L2+ 位 STI-288DGGPM；非管理 STI-288GP
-- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封（第 75 批(t) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用；具名 KP 见 channel））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封（第 75 批(t) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用；具名 KP 见 channel））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
   - 第一问（只问一个）：Kang, for the AVCOMM 400/4000-series industrial PoE switches, we build DIN-rail 8-PoE + 2 SFP managed (Marvell L2+) and unmanaged units under your label from small lots (−40~75 °C, CE/RoHS/FCC) — which series would you want a second-source quotation on first? Reference: STI-288GPM at $85.5 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -192,14 +192,14 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-24T07:26:33Z　|　**最近变化**：2026-10-24T07:26:33Z
-- **最近变化摘要**：2026-10-24 sitemap：新增 820 条： inc.avcomm.us； help-1； faq； feed； feed； feed； feed； feed…
+- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-25T07:41:18Z
+- **最近变化摘要**：2026-10-25 sitemap：新增 820 条： inc.avcomm.us； help-1； faq； feed； feed； feed； feed； feed…
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-304/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://www.avcomm.us/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 5919 字符；首行：Advanced Communication & Computing Solutions \| Industrial Networking \| |
-| [sitemap](https://www.avcomm.us/sitemap.xml) | sitemap | HTTP 200 | 2026-10-24T07:26:33Z | 900 个 URL；最新 lastmod - |
+| [sitemap](https://www.avcomm.us/sitemap.xml) | sitemap | HTTP 200 | 2026-10-25T07:41:18Z | 900 个 URL；最新 lastmod - |
 | [news_1](https://www.avcomm.us/latest-news-2) | html | HTTP 200 | 2026-10-23T04:20:51Z | 1745 字符；首行：Latest News \| AVCOMM Technologies Inc--Industrial IT Expert |
 | [news_2](https://www.avcomm.us/case-studies-1) | html | HTTP 200 | 2026-10-23T04:20:51Z | 2765 字符；首行：Case Studies \| AVCOMM Technologies Inc--Industrial IT Expert |
 
@@ -293,7 +293,7 @@ For the AVCOMM 400 / 4000-series industrial PoE positions, under your label from
 One question: which series would you want a second-source quotation on first - the managed 4000 or the unmanaged 400?
 
 Best regards,
-Simon
+Alan
 Saga Telecom - sagatele.com
 ```
 

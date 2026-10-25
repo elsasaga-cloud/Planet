@@ -197,15 +197,15 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-24T07:26:33Z　|　**最近变化**：2026-10-24T07:26:33Z
-- **最近变化摘要**：2026-10-24 feed_auto：新增 20 条：06.10.2026 10.14.41 SFP, Multirate 100M-2.7G, DDM, 80km；06.10.2026 10.14.41 SFP, M
+- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-25T07:41:18Z
+- **最近变化摘要**：2026-10-25 feed_auto：新增 20 条：06.10.2026 10.14.41 SFP, Multirate 100M-2.7G, DDM, 80km；06.10.2026 10.14.41 SFP, M
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-939/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://www.fiberworks.no/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 3117 字符；首行：Hjem - Fiberworks |
 | [sitemap](https://www.fiberworks.no/sitemap.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 0 个 URL；最新 lastmod - |
-| [feed_auto](https://www.fiberworks.no/WebPages/produkt/rss.aspx) | rss | HTTP 200 | 2026-10-24T07:26:33Z | 100 条；最新：23.10.2026 14.49.04 Trunk SM 2xMPO12/APC(f)/(f) Pol B 35 m |
+| [feed_auto](https://www.fiberworks.no/WebPages/produkt/rss.aspx) | rss | HTTP 200 | 2026-10-25T07:41:18Z | 100 条；最新：23.10.2026 14.49.04 Trunk SM 2xMPO12/APC(f)/(f) Pol B 35 m |
 
 ## 联系方式（已有 · 原值照录）
 

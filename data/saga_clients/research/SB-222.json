@@ -111,7 +111,7 @@
   "next_move": {
    "when": "待 Simon 排期（首封）",
    "channel": "A 邮箱 → karasu@fiberix.com.tr（Karasu）",
-   "action": "首封：按 email_hook 一问（第 74 批(r) 2026-10-25：英文信稿已写 `draft_en`，内容 = 土耳其语钩子句的英文版；土耳其语一句话仍在研究档备注里，对方若不读英文就整段单发）",
+   "action": "首封：按 email_hook 一问（第 74 批(r) 2026-10-25：英文信稿已写 `draft_en`，内容 = 土耳其语钩子句的英文版；土耳其语一句话仍在研究档备注里，对方若不读英文就整段单发）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
    "one_question": "Karasu Bey, Gaziantep ağınız için 24 port gigabit + 4×10G SFP+ L2+ switch EXW 132,7 USD (L3 sürümü 280,3 USD), yanında 1G/10G SFP modülleri de aynı faturada; Guangzhou'daki tedarikçinizin fiyatıyla karşılaştırmanız için teknik föyü göndereyim mi?"
   },
   "facts": [
@@ -130,7 +130,7 @@
   ],
   "draft_en": {
    "subject": "24 x Gigabit + 4 x 10G aggregation switch for the Gaziantep network",
-   "body": "Hi Karasu,\n\nWe met at ISAF 2025 in Istanbul last October - this picks up what we discussed at the booth.\n\nFor the Fiberix network: a 24 x Gigabit + 4 x 10G SFP+ L2+ managed switch (Marvell-based, VLAN / QoS / IGMP, web GUI), model STC-424XGGM - $132.7 USD EXW (MOQ 1, 15-day validity). An L3 version (static + dynamic routing) is $280.3 USD EXW. 1G / 10G SFP modules can go on the same invoice.\n\nOne question: shall I send the datasheet so you can compare it with your Guangzhou supplier's price - and which uplink optics do you use, 10 km or 20 km?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+   "body": "Hi Karasu,\n\nWe met at ISAF 2025 in Istanbul last October - this picks up what we discussed at the booth.\n\nFor the Fiberix network: a 24 x Gigabit + 4 x 10G SFP+ L2+ managed switch (Marvell-based, VLAN / QoS / IGMP, web GUI), model STC-424XGGM - $132.7 USD EXW (MOQ 1, 15-day validity). An L3 version (static + dynamic routing) is $280.3 USD EXW. 1G / 10G SFP modules can go on the same invoice.\n\nOne question: shall I send the datasheet so you can compare it with your Guangzhou supplier's price - and which uplink optics do you use, 10 km or 20 km?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
  }

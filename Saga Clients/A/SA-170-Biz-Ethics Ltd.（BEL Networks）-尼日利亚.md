@@ -47,6 +47,7 @@ updated: 2026-10-25
 - **绑定等级：轻度（Simon U28 定级；12 单 RMB ≈101k，2024-09 → 2026-08，三家供应商线都买过；Elsa 箱：`to:belnetworks.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(g)））** ｜ 类型：尼日利亚系统集成/转售（BEL Networks 品牌 BNSC-；WhatsApp only，域名停放） ｜ 筛子：3（12 单、自有品牌贴 BNSC 前缀） ｜ 停点：无停点；渠道脆弱（belnetworks.com 停放、info@ 不安全、仅 WhatsApp +234 702 918 6461） ｜ 复活：已在复购；下一级 = 其自有品牌 BNSC 系列把 Saga 规格写进销售资料；WhatsApp 问 Netstream 线：100G 核心用得如何、25G/100G 扩容与 BNSC-28GPM 下一批一起走 ｜ 通路：NG 已通（客户货代 + 货代走账） ｜ 节奏：最后 PI 2026-08-30；邮件 0 封 ｜ 证据：PI 包 12 单（BNSC-28GPM / BNSC-4168XGGCM / STH-2C24XF-SFI 等）；U18 研究档；两个自有品牌 BNSC + Netstream（PI 原件），Netstream 线含 CENTEC STH-2C24XF-SFI ×2（2025-11）
 - **现状一句话**：拉各斯 Biz-Ethics / Valentine Mbata：WhatsApp 客户（+234 702 918 6461），S/A 邮箱 0 封，证据全在 Drive PI 文件夹（12 单 ≈¥101k，2024-09 → 2026-08）。两个自有品牌：BNSC（STC-28GPM / STC-228GP / STC-424DGGPM 贴牌，三款定制盒）与 Netstream（STC-424XGGPM-280W 10G 上联 + CENTEC STH-2C24XF-SFI 2×100G 核心，2025-11）。2026 年三单全是 BNSC-28GPM 补货（¥385→¥408 照买）。
 - **对方真实需求（有据）**：BNSC 线：8 口 PoE 管理（STC-28GPM）稳定补货 + 24 口 PoE（STC-424DGGPM）零星；Netstream 线：10G 上联 PoE 与 CENTEC 核心（ISP/园区骨干），2025-11 之后未再买；包装/说明书/箱标全按两套品牌模板。
+- **断点 / 为什么停在这里**：BNSC 线按 1–2 个月节奏复购（上次 2026-08-30），Netstream 线（CENTEC 核心 + 10G 上联 PoE）2025-11 之后未再买；渠道只有 WhatsApp（belnetworks.com 停放，info@ 不安全）；毛利 13–19%（低于 Realtek 20% 底线，Simon U28 绑定价不动）——断点 = Netstream 线为何停、以及任何涨价都会被货代走账的价格记忆顶住（全量审计 2026-10-25 U57 补）
 - **Saga 现在该推什么**：P1 **BNSC-28GPM（= HRUI ZX-AFGM-82NS，Realtek 线）稳定补货；BNSC-424DGGPM（= SmartByte LT-S8328GP-4GX24GT-S）零星；Netstream 线 STC-424XGGPM-280W + STH-2C24XF-SFI 待复购**（None% 档，绑定价（人民币，EXW 工厂直发到他的广州仓）：BNSC-28GPM ¥408（进 ¥355.1 → 13.0%）；BNSC-424DGGPM ¥946（进 ¥765 → 19.1%）；Netstream-42410G280W ¥1,100；BNSC-4168XGGCM ¥2,250；Netstream-24X100G-SFI（STH-2C24XF-SFI）¥7,500（2025-11）。下一批 BNSC-28GPM 按 ¥408 不动（Simon U28 绑定价）；若要回到 Realtek 20% 底线需 ¥444——这是 Simon 的决定，不在信里提；历史：2025-03 HRUI 进价 ¥335 时同一 ¥408 的毛利是 17.9%，上游 2026 涨到 ¥355.1 后变 13.0%——下次 HRUI 再涨就只能动价）——12 单、两套自有品牌、三条供应线都买过；WhatsApp 直达；毛利低但复购稳｜档位说明（原 tier 字段文字「RMB 货代走账（不走 USD 三档）」移此）：RMB 货代走账（不走 USD 三档）
   - 复购/在买项：BNSC-28GPM：2026-06 ×5 / 07 ×2 / 08 ×12（1–2 个月一批）
   - 做不了 / 要先核的：主力 SKU 毛利 13.0% < Realtek 底线 20%（Q：是否下批调价——Simon 定，默认不动）；Netstream 线（10G 上联 PoE + CENTEC 核心）2025-11 后未复购，没问过使用情况；没有 Simon 的《成本统计.xlsx》，毛利按采购合同反推
@@ -174,14 +175,14 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：成单精选层　|　**自动源**：2 个　|　**数据截至**：2026-10-24T07:26:33Z　|　**最近变化**：2026-10-24T07:26:33Z
-- **最近变化摘要**：2026-10-24 domain_rdap：内容变化：+1 −1 行
+- **监控层**：成单精选层　|　**自动源**：2 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-25T07:41:18Z
+- **最近变化摘要**：2026-10-25 domain_rdap：内容变化：+1 −1 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-170/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [domain_home](https://belnetworks.com/) | html | HTTP 200 | 2026-10-23T02:54:23Z | 751 字符；首行：Your future website - 1st Domains |
-| [domain_rdap](https://rdap.verisign.com/com/v1/domain/belnetworks.com) | json | HTTP 200 | 2026-10-24T07:26:33Z | status=["active"]; events=[{"eventAction": "registration", "eventDate": "2024-08-16T06; na |
+| [domain_rdap](https://rdap.verisign.com/com/v1/domain/belnetworks.com) | json | HTTP 200 | 2026-10-25T07:41:18Z | status=["active"]; events=[{"eventAction": "registration", "eventDate": "2024-08-16T06; na |
 
 - **人工定期看（登录墙，不自动抓）**：LinkedIn 公司页未找到（搜索被美国 BEL Network Integration & Support / 比利时 Belnet 淹没）；ngcontacts.com 目录条目：BIZ-ETHICS LTD. 计算机网络/监控/门禁/电源设备；联系只剩 WhatsApp +234 702 918 6461（PI 单据）
 

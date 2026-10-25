@@ -239,7 +239,7 @@
   "proof_gaps": [],
   "draft_en": {
    "subject": "Broadcom-based solution — straight answer, and the one thing we can offer",
-   "body": "Hi, Mark,\n\nStraight answer to your April 2025 question: we do not build on Broadcom, and I should not have hinted otherwise in February. Our ranges are Marvell (access) and CENTEC (full L3: OSPF/BGP, MPLS, VXLAN/EVPN, MLAG).\n\nFor an ITS-hardened 10G optical aggregation role the CENTEC 24x10G + 2x100G L3 unit is the relevant box; it is quoted per project (DC power, MA license options).\n\nOne question: is \"Broadcom\" written into your customers' ITS specs, or would a CENTEC full-L3 unit qualify if it clears your lab test? If the former, I will stop sending you switch mail; if the latter, I will send the spec sheet and a test-unit price.\n\nThank you.\nAlan"
+   "body": "Hi, Mark,\n\nStraight answer to your April 2025 question: we do not build on Broadcom, and I should not have hinted otherwise in February. Our ranges are Marvell (access) and CENTEC (full L3: OSPF/BGP, MPLS, VXLAN/EVPN, MLAG).\n\nFor an ITS-hardened 10G optical aggregation role the CENTEC 24x10G + 2x100G L3 unit is the relevant box; it is quoted per project (DC power, MA license options).\n\nOne question: is \"Broadcom\" written into your customers' ITS specs, or would a CENTEC full-L3 unit qualify if it clears your lab test? If the former, I will stop sending you switch mail; if the latter, I will send the spec sheet and a test-unit price.\n\nThank you.\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
  },

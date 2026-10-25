@@ -39,7 +39,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM（ONV 对位主力）+ STC-4168XGGCM（他问过的 12 光 12 电 → 16 SFP + 8 Combo） — 已打开的主题（2/23 封有打开记录）：「Marvell Industrial Alert System」(2025-07-08)、「16 Port Ethernet Switch」(2025-08-13) → 读者兴趣偏「工业」；与 P1 同类，继续；首触锚价 STC-28DGGPM $87.4 + STC-4168XGGCM $408.1 EXW（30% 贴牌档——Videostar 自有品牌；PDF 上限 $99 / $413；第 73 批 2026-10-24）；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-12 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-16 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Sig. Timpanaro, for the Videostar PoE line: an 8-port gigabit PoE+ managed switch with 2 SFP (Marvell, STC-28DGGPM) is $87.4 USD EXW with your logo in the web UI (printed carton from 200 sets), and the 16-SFP + 8-combo aggregation unit you asked us about at IFSEC 2023 (STC-4168XGGCM) is $408.1 USD EXW, MOQ 1, 15-day validity — shall I send the model-by-model comparison against your current ONV codes?
 - **最大未知**：年走量与现供应商
-- **下一步**：2027-Q1 A 邮箱 → alfredo.timpanaro@topsicurezza.com（Alfredo Timpanaro） 一封对位表（第 75 批(q) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；STC-4168XGGCM 不报价（他 2025-10 见过群发 $280，档位 $408 冲突）——改问 ONV 型号再报）（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）
+- **下一步**：2027-Q1 A 邮箱 → alfredo.timpanaro@topsicurezza.com（Alfredo Timpanaro） 一封对位表（第 75 批(q) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；STC-4168XGGCM 不报价（他 2025-10 见过群发 $280，档位 $408 冲突）——改问 ONV 型号再报）（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -50,7 +50,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：12 光 12 电（ONV 对位）。
 - **断点 / 为什么停在这里**：—
 - **Saga 现在该推什么**：P1 **STC-28DGGPM（ONV 对位主力）+ STC-4168XGGCM（他问过的 12 光 12 电 → 16 SFP + 8 Combo）**（25% 档，首触锚价 STC-28DGGPM $87.4 + STC-4168XGGCM $408.1 EXW（30% 贴牌档——Videostar 自有品牌；PDF 上限 $99 / $413；第 73 批 2026-10-24）；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-12 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-16 $280（10G Enterprise SFP Switch））——已打开的主题（2/23 封有打开记录）：「Marvell Industrial Alert System」(2025-07-08)、「16 Port Ethernet Switch」(2025-08-13) → 读者兴趣偏「工业」；与 P1 同类，继续
-- **下一步（具体）**：2027-Q1　A 邮箱 → alfredo.timpanaro@topsicurezza.com（Alfredo Timpanaro）　一封对位表（第 75 批(q) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；STC-4168XGGCM 不报价（他 2025-10 见过群发 $280，档位 $408 冲突）——改问 ONV 型号再报）（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）
+- **下一步（具体）**：2027-Q1　A 邮箱 → alfredo.timpanaro@topsicurezza.com（Alfredo Timpanaro）　一封对位表（第 75 批(q) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；STC-4168XGGCM 不报价（他 2025-10 见过群发 $280，档位 $408 冲突）——改问 ONV 型号再报）（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
   - 第一问（只问一个）：Sig. Timpanaro, for the Videostar PoE line: an 8-port gigabit PoE+ managed switch with 2 SFP (Marvell, STC-28DGGPM) is $87.4 USD EXW with your logo in the web UI (printed carton from 200 sets), and the 16-SFP + 8-combo aggregation unit you asked us about at IFSEC 2023 (STC-4168XGGCM) is $408.1 USD EXW, MOQ 1, 15-day validity — shall I send the model-by-model comparison against your current ONV codes?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -191,13 +191,13 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：A 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-24T07:26:33Z　|　**最近变化**：2026-10-24T04:35:40Z
+- **监控层**：A 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-24T04:35:40Z
 - **最近变化摘要**：2026-10-24 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-138/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://topsicurezza.com/) | html | HTTP 200 | 2026-10-24T04:35:40Z | 659 字符；首行：Annuncio - Top Italia srl |
+| [home](https://topsicurezza.com/) | html | ReadTimeout: HTTPSConnectionPool(host='topsicurezza.com', po | 2026-10-24T04:35:40Z | 官网首页（T27 快照状态 ok） |
 
 ## 联系方式（已有 · 原值照录）
 
@@ -292,7 +292,7 @@ For the Videostar PoE line: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell swi
 One question: which ONV code do you buy for the 12-fibre + 12-copper unit today?
 
 Best regards,
-Simon
+Alan
 Saga Telecom - sagatele.com
 ```
 

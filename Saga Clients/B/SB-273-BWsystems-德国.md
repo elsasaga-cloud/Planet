@@ -35,7 +35,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — RFQ 8 PoE + 2 SFP 千兆 → 恰为 STC-28DGGPM（$84.1 @25%）；待核时效；首触锚价 STC-28DGGPM $84.1 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Hans Georg, following your request for a gigabit 8-PoE + 2-SFP commercial switch: our Marvell-based L2+ model (8 × PoE+ 120 W budget, 2 × SFP, VLAN/QoS, CE/RoHS) ships from single units, EXW USD, 10–15 days — is the requirement still open, and how many units? Reference: STC-28DGGPM at $84.1 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：具体需求型号（表内兴趣列为空）；官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
-- **下一步**：待 Simon 排期（首封） A 邮箱 → service@bwsystems.de（Hans Georg Werner） 首封：按 email_hook 一问（第 75 批(e) 2026-10-25：英文信稿已写 `draft_en`）
+- **下一步**：待 Simon 排期（首封） A 邮箱 → service@bwsystems.de（Hans Georg Werner） 首封：按 email_hook 一问（第 75 批(e) 2026-10-25：英文信稿已写 `draft_en`）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -46,7 +46,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：RFQ 8 PoE + 2 SFP 千兆 → 恰为 STC-28DGGPM（$84.1 @25%）；待核时效
 - **断点 / 为什么停在这里**：RFQ 时效待核；官网 http_error（业务范围待核）；未跟进过
 - **Saga 现在该推什么**：P1 **STC-28DGGPM**（25% 档，首触锚价 STC-28DGGPM $84.1 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit））——RFQ 8 PoE + 2 SFP 千兆 → 恰为 STC-28DGGPM（$84.1 @25%）；待核时效
-- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → service@bwsystems.de（Hans Georg Werner）　首封：按 email_hook 一问（第 75 批(e) 2026-10-25：英文信稿已写 `draft_en`）
+- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → service@bwsystems.de（Hans Georg Werner）　首封：按 email_hook 一问（第 75 批(e) 2026-10-25：英文信稿已写 `draft_en`）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
   - 第一问（只问一个）：Hans Georg, following your request for a gigabit 8-PoE + 2-SFP commercial switch: our Marvell-based L2+ model (8 × PoE+ 120 W budget, 2 × SFP, VLAN/QoS, CE/RoHS) ships from single units, EXW USD, 10–15 days — is the requirement still open, and how many units? Reference: STC-28DGGPM at $84.1 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -119,7 +119,7 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-24T07:26:33Z　|　**最近变化**：2026-10-24T04:35:40Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-24T04:35:40Z
 - **最近变化摘要**：2026-10-24 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-273/`；本节随档案重渲染刷新，实时看日志。
 
@@ -217,7 +217,7 @@ The matching unit: 8 x Gigabit PoE+ (120 W budget) + 2 x SFP, L2+ managed (VLAN,
 One question: is the requirement still open, and for how many units?
 
 Best regards,
-Simon
+Alan
 Saga Telecom - sagatele.com
 ```
 

@@ -35,7 +35,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：Realtek 商用线（`data/hrui_STC对照表.csv`）：STC-18XGDGPW 1×10G SFP + 8×2.5G PoE 100W 网管 $66 / STC-108XGDGP 同口型非网管 $63.8 / STC-84XGWE 4×10G SFP + 8×10G mGig 铜 网管非 PoE $204；Marvell 位 STC-28DGGPM（2.5G 只在 SFP） — RFQ 8×2.5G + 4×10G SFP+（该规格在价格主表中待核）→ 先报 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）/ 24 GE + 4×10G STC-424XGGM（$132.7）作 AV-over-IP 位｜需求台账 #12：Marvell 主表无 2.5G 铜口（DG = 2.5G 光口），2.5G 铜口在 Realtek 线（STC-18XGDGPW $66 等）——一句话里直接说清，不把 STC-28DGGPM 的 2.5G SFP 当成他要的 2.5G 口｜第 53 批：CENTEC 表最小多千兆铜口 PoE++ 机型是 STH-8DX8XP16DP-HSI（16×2.5G PoE++ + 8×10G mGig PoE++ + 8×25G），没有 8 口小机——他的 8 口需求两条线都没有，直说｜第 55 批：Realtek 线有 2.5G 铜口 PoE（SA-006 2024-08 已卖过 STC-08XGWE $185），他的 8×2.5G 需求在 Realtek 线上有近似机，三层答法（Marvell/Realtek/CENTEC）；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Giovanni, regarding your 8 x 2.5G + 4 x 10G SFP+ requirement for AV installations, a straight answer in three lines: our Marvell line has 2.5G only on the SFP/SFP+ cages (copper access 1G); our commercial Realtek line does have 2.5G copper — 8 x 2.5G PoE + 1 x 10G SFP web-managed at $66 USD EXW, or 8 x 10G multi-gig copper + 4 x 10G SFP+ web-managed (non-PoE) at $204 USD EXW (2026-10 price table, valid 15 days); and multi-gig PoE++ rack units sit on the CENTEC line from 16 ports. IGMP snooping on all, CE/RoHS, neutral brand — which of the two Realtek units is closer to the AV job, or is 4 x 10G SFP+ with PoE mandatory in one box?
 - **最大未知**：具体需求型号（表内兴趣列为空）
-- **下一步**：待 Simon 排期（首封） A 邮箱 → orders@tecside.be（Giovanni Desramault） 首封：按 email_hook 一问（第 75 批(i) 2026-10-25：英文信稿已写 `draft_en`）
+- **下一步**：待 Simon 排期（首封） A 邮箱 → orders@tecside.be（Giovanni Desramault） 首封：按 email_hook 一问（第 75 批(i) 2026-10-25：英文信稿已写 `draft_en`）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -47,7 +47,7 @@ updated: 2026-10-25
 - **断点 / 为什么停在这里**：RFQ 规格（8×2.5G + 4×10G）在 Saga 价格主表中待核（可能需 SmartByte 型号，注明）；AV 安装商单项目量小；仅 orders@
 - **Saga 现在该推什么**：P1 **Realtek 商用线（`data/hrui_STC对照表.csv`）：STC-18XGDGPW 1×10G SFP + 8×2.5G PoE 100W 网管 $66 / STC-108XGDGP 同口型非网管 $63.8 / STC-84XGWE 4×10G SFP + 8×10G mGig 铜 网管非 PoE $204；Marvell 位 STC-28DGGPM（2.5G 只在 SFP）**（25% 档，按主表（研究档 saga_fit））——RFQ 8×2.5G + 4×10G SFP+（该规格在价格主表中待核）→ 先报 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）/ 24 GE + 4×10G STC-424XGGM（$132.7）作 AV-over-IP 位｜需求台账 #12：Marvell 主表无 2.5G 铜口（DG = 2.5G 光口），2.5G 铜口在 Realtek 线（STC-18XGDGPW $66 等）——一句话里直接说清，不把 STC-28DGGPM 的 2.5G SFP 当成他要的 2.5G 口｜第 53 批：CENTEC 表最小多千兆铜口 PoE++ 机型是 STH-8DX8XP16DP-HSI（16×2.5G PoE++ + 8×10G mGig PoE++ + 8×25G），没有 8 口小机——他的 8 口需求两条线都没有，直说｜第 55 批：Realtek 线有 2.5G 铜口 PoE（SA-006 2024-08 已卖过 STC-08XGWE $185），他的 8×2.5G 需求在 Realtek 线上有近似机，三层答法（Marvell/Realtek/CENTEC）
   - 做不了 / 要先核的：Simon《STH计划》：铜口 CENTEC 机（STH1G/2.5G/5G，含 Multi-Gig PoE++）暂不宣传、点名才给；主推 10G/25G/XLite/100G/400G/800G
-- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → orders@tecside.be（Giovanni Desramault）　首封：按 email_hook 一问（第 75 批(i) 2026-10-25：英文信稿已写 `draft_en`）
+- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → orders@tecside.be（Giovanni Desramault）　首封：按 email_hook 一问（第 75 批(i) 2026-10-25：英文信稿已写 `draft_en`）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
   - 第一问（只问一个）：Giovanni, regarding your 8 x 2.5G + 4 x 10G SFP+ requirement for AV installations, a straight answer in three lines: our Marvell line has 2.5G only on the SFP/SFP+ cages (copper access 1G); our commercial Realtek line does have 2.5G copper — 8 x 2.5G PoE + 1 x 10G SFP web-managed at $66 USD EXW, or 8 x 10G multi-gig copper + 4 x 10G SFP+ web-managed (non-PoE) at $204 USD EXW (2026-10 price table, valid 15 days); and multi-gig PoE++ rack units sit on the CENTEC line from 16 ports. IGMP snooping on all, CE/RoHS, neutral brand — which of the two Realtek units is closer to the AV job, or is 4 x 10G SFP+ with PoE mandatory in one box?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -130,14 +130,14 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-24T07:26:33Z　|　**最近变化**：2026-10-24T07:26:33Z
-- **最近变化摘要**：2026-10-24 youtube：恢复可达（上轮 YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过））
+- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-25T07:41:18Z
+- **最近变化摘要**：2026-10-25 sitemap：新增 48 条：2026-08-25T12:22:29 fr-be；2026-08-25T12:22:29 tecside.be；2026-02-09T13:19:00 over-
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-204/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://tecside.be/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 3822 字符；首行：LED Verlichting & Audiovisuele Oplossingen België |
-| [sitemap](https://tecside.be/sitemap.xml) | sitemap | HTTP 200 | 2026-10-24T07:26:33Z | 128 个 URL；最新 lastmod 2026-08-31T08:22:41 |
+| [sitemap](https://tecside.be/sitemap.xml) | sitemap | HTTP 200 | 2026-10-25T07:41:18Z | 128 个 URL；最新 lastmod 2026-08-31T08:22:41 |
 | [news_1](https://tecside.be/blog-2) | html | HTTP 200 | 2026-10-23T04:20:51Z | 1867 字符；首行：LED Verlichting Blog \| Tips & Trends \| TECside België |
 | [news_2](https://tecside.be/onze-projecten) | html | HTTP 200 | 2026-10-23T04:20:51Z | 3607 字符；首行：Projecten & Realisaties \| LED Verlichting Portfolio \| TECside |
 | [youtube](https://www.youtube.com/@tecside_lighting9653) | youtube_handle | HTTP 200 | 2026-10-24T07:26:33Z | 9 条；最新：2025-09-02T10:48:04+00:00 Dynamic lightning x Spinning room Olympia hasselt |
@@ -232,7 +232,7 @@ Straight answer: an 8 x 2.5G copper unit is not in our range. What we build for 
 One question: is the 2.5G on the copper ports a hard requirement for your endpoints, or would gigabit access with 10G uplinks do the job?
 
 Best regards,
-Simon
+Alan
 Saga Telecom - sagatele.com
 ```
 

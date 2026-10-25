@@ -145,14 +145,14 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-24T07:26:33Z　|　**最近变化**：2026-10-24T07:26:33Z
+- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-24T07:26:33Z
 - **最近变化摘要**：2026-10-24 youtube：恢复可达（上轮 YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过））
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1270/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://www.yatun.cz/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 11341 字符；首行：Domů \| Yatun.cz |
-| [news_1](https://www.yatun.cz/blog-novinky) | html | HTTP 200 | 2026-10-23T04:20:51Z | 15988 字符；首行：Novinky \| Yatun.cz |
+| [home](https://www.yatun.cz/) | html | HTTP 403 | 2026-10-23T04:20:51Z | 官网首页（T27 快照状态 ok） |
+| [news_1](https://www.yatun.cz/blog-novinky) | html | HTTP 403 | 2026-10-23T04:20:51Z | 导航「Všechny články」 |
 | [youtube](https://www.youtube.com/@yatun-cz) | youtube_handle | HTTP 200 | 2026-10-24T07:26:33Z | 15 条；最新：2026-06-05T07:32:40+00:00 Webinář novinky v ETS |
 
 - **人工定期看（登录墙，不自动抓）**：LinkedIn: https://www.linkedin.com/company/220514；Instagram: https://www.instagram.com/yatun_cz/；Facebook: https://www.facebook.com/yatuncz/

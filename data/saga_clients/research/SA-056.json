@@ -145,7 +145,7 @@
     "next_move": {
       "when": "2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）",
       "channel": "A 邮箱 → DNC 具名 KP 待找",
-      "action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(p) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；具名 KP 待找）（第 76 批(c) 2026-10-25：audit_ab 软项修正：证书口径 CE/RoHS → CE/RoHS (BIS stays on your side)）（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
+      "action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(p) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；具名 KP 待找）（第 76 批(c) 2026-10-25：audit_ab 软项修正：证书口径 CE/RoHS → CE/RoHS (BIS stays on your side)）（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
       "one_question": "For your DNC 4-PoE + 1-FX switch and the MC-10100G converter, I can supply the 4-port gigabit PoE+ with SFP (STI-154GP) and the gigabit media converter (STI-110GE) in DNC packing, EXW, with CE/RoHS files. Which one first — the 4-PoE + SFP switch or the gigabit converter? Reference: STI-154GP at $40.8 / STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
     },
     "facts": [
@@ -195,7 +195,7 @@
     ],
     "draft_en": {
       "subject": "DNC packing - the 4-PoE + SFP switch and the gigabit converter",
-      "body": "Hello DNC team,\n\nFor the DNC 4-PoE + 1-FX switch and the MC-10100G converter slots, two units in DNC packing from small lots, CE/RoHS (BIS stays on your side): DIN-rail 4 x Gigabit PoE+ + 1 x Gigabit RJ45 + 1 x SFP, unmanaged, -40 to 75 C - model STI-154GP - $40.8 USD EXW with your logo (MOQ 1, 15-day validity); industrial Gigabit media converter, 1 x RJ45 + 1 x SFP slot (or fixed SC 20 km) - STI-110GE - $26.5. Logo on the unit is free; colour box from 200 sets.\n\nOne question: which of the two do you ship more of today - the 4-PoE switch or the converter?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+      "body": "Hello DNC team,\n\nFor the DNC 4-PoE + 1-FX switch and the MC-10100G converter slots, two units in DNC packing from small lots, CE/RoHS (BIS stays on your side): DIN-rail 4 x Gigabit PoE+ + 1 x Gigabit RJ45 + 1 x SFP, unmanaged, -40 to 75 C - model STI-154GP - $40.8 USD EXW with your logo (MOQ 1, 15-day validity); industrial Gigabit media converter, 1 x RJ45 + 1 x SFP slot (or fixed SC 20 km) - STI-110GE - $26.5. Logo on the unit is free; colour box from 200 sets.\n\nOne question: which of the two do you ship more of today - the 4-PoE switch or the converter?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
     },
     "as_of": "2026-10-24"
   }

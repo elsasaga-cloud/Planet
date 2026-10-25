@@ -176,14 +176,14 @@ updated: 2026-10-25
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-24T07:26:33Z　|　**最近变化**：2026-10-24T07:26:33Z
-- **最近变化摘要**：2026-10-24 sitemap：新增 35 条： audio-to-fiber-converter； 12g-3g-sdi-video-sfp； usb-to-fiber-converter； 5mp-1080p
+- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-25T07:41:18Z　|　**最近变化**：2026-10-25T07:41:18Z
+- **最近变化摘要**：2026-10-25 sitemap：新增 35 条： audio-to-fiber-converter； 12g-3g-sdi-video-sfp； usb-to-fiber-converter； 5mp-1080p
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-544/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://www.lanopia.de) | html | HTTP 200 | 2026-10-23T04:20:51Z | 1691 字符；首行：Lanopia - LAN und WAN Netzwerk Lösungen - Startseite |
-| [sitemap](https://www.lanopia.de/sitemap.xml) | sitemap | HTTP 200 | 2026-10-24T07:26:33Z | 115 个 URL；最新 lastmod - |
+| [sitemap](https://www.lanopia.de/sitemap.xml) | sitemap | HTTP 200 | 2026-10-25T07:41:18Z | 115 个 URL；最新 lastmod - |
 | [news_1](https://www.lanopia.de/news/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 2360 字符；首行：Lanopia - LAN und WAN Netzwerk Lösungen - News |
 | [news_2](https://www.lanopia.de/news/omnitron-spoe-switches/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 4285 字符；首行：Lanopia - LAN und WAN Netzwerk Lösungen - Omnitron SPoE Switches |
 

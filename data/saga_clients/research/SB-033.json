@@ -110,7 +110,7 @@
     "next_move": {
       "when": "待 Simon 排期（首封）",
       "channel": "A 邮箱 → info@regionprof.ru（Коровина Марина Григорьевна）",
-      "action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-21「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 74 批(r) 2026-10-25：英文信稿已写 `draft_en`（= 客户语言钩子句的英文版，客户语言一句话留在备注里））",
+      "action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-21「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 74 批(r) 2026-10-25：英文信稿已写 `draft_en`（= 客户语言钩子句的英文版，客户语言一句话留在备注里））（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
       "one_question": "Здравствуйте, вы импортируете промышленные коммутаторы Maiwe — предлагаем второй источник той же конфигурации: DIN-rail 2 SFP + 8 GbE L2+ с ERPS 137,5 USD EXW (без PoE 68,2 USD), −40/+75 °C, расчёт в CNY. Какие модели Maiwe у вас в наибольшем обороте, чтобы подготовить прямое сопоставление?"
     },
     "facts": [
@@ -144,7 +144,7 @@
     ],
     "draft_en": {
       "subject": "A second source for the Maiwe-class industrial switches you import",
-      "body": "Hello,\n\nSome time ago you had a product mail from us - \"24 Port PoE Managed Switch\" on 21 August - and there was no reason to answer a mass mail. This one is specific to Region-Prof.\n\nYou import Maiwe industrial switches. We supply the same configurations as a second source, DIN-rail, -40 to 75 C, from single units, with settlement in CNY if that is easier than USD:\n\n- 2 x SFP + 8 x Gigabit PoE+, L2+ managed with ring redundancy, model STI-288DGGPM - $137.5 USD EXW (distributor price, MOQ 1, 15-day validity)\n- Same chassis without PoE, L2 managed, model STI-280GM - $68.2 USD EXW\n- Unmanaged 8 x PoE+ + 2 x SFP, model STI-288GP - $57.4 USD EXW\n\nNeutral housing and packaging; your own label is possible.\n\nOne question: which Maiwe models move most in your catalogue - I will prepare a direct one-to-one comparison for those?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+      "body": "Hello,\n\nSome time ago you had a product mail from us - \"24 Port PoE Managed Switch\" on 21 August - and there was no reason to answer a mass mail. This one is specific to Region-Prof.\n\nYou import Maiwe industrial switches. We supply the same configurations as a second source, DIN-rail, -40 to 75 C, from single units, with settlement in CNY if that is easier than USD:\n\n- 2 x SFP + 8 x Gigabit PoE+, L2+ managed with ring redundancy, model STI-288DGGPM - $137.5 USD EXW (distributor price, MOQ 1, 15-day validity)\n- Same chassis without PoE, L2 managed, model STI-280GM - $68.2 USD EXW\n- Unmanaged 8 x PoE+ + 2 x SFP, model STI-288GP - $57.4 USD EXW\n\nNeutral housing and packaging; your own label is possible.\n\nOne question: which Maiwe models move most in your catalogue - I will prepare a direct one-to-one comparison for those?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
     },
     "as_of": "2026-10-25"
   }
