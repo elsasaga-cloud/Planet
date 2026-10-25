@@ -1364,6 +1364,11 @@ def render_one(ent):
     dr = (rs.get('mail_review') or {}).get('draft_en') or {}
     if dr.get('body'):
         lines.append(f"**主题**：{dr.get('subject', '')}\n\n```text\n{dr['body'].strip()}\n```\n\n> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。")
+        _hk = (rs.get('email_hook') or '').strip()
+        if _hk and not re.search(r'[\u4e00-\u9fff]', _hk):
+            _en, _nat = hook_lang(_hk)
+            if _nat and _nat.strip() not in dr['body']:
+                lines.append(f"\n> 客户语言一句话（研究档 email_hook；对方若不读英文，整段单发 WhatsApp/邮件）：{_nat}")
     else:
         lines.append(email_draft(ent, g, typ, p1, tier, brands, first_q))
     lines.append('')

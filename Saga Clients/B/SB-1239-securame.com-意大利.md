@@ -241,6 +241,8 @@ Saga Telecom - sagatele.com
 
 > 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
+> 客户语言一句话（研究档 email_hook；对方若不读英文，整段单发 WhatsApp/邮件）：Hola — para la categoría de switches PoE junto a Hikvision/Dahua: 8 PoE + 2 SFP L2+ (Marvell) a $81 y 8 PoE no gestionado a $25.1 EXW, con fotos y fichas CE; ¿quién gestiona nuevos proveedores?
+
 ## 新跟进记录（仓库外发出后补）
 
 | 日期 | 渠道 | 对象 | 我方动作 | 对方回应 | 下一步 | 下次动作日期 |

@@ -37,7 +37,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GP — 工程 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，$59.8）为价格表首项；管理型 STI-288DGGPM（$145.7）；4 口 STI-144GP（$35.5）；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Ramazan Bey, ISAF'ta istediğiniz endüstriyel PoE switch fiyat listesi ektedir: DIN ray 8 PoE + 2 SFP 59,8 USD, 4 PoE + 1 SFP 35,5 USD, yönetilebilir 8 PoE 145,7 USD (EXW) — projeniz için hangi port sayısı öncelikli?
 - **最大未知**：年走量与现供应商
-- **下一步**：待 Simon 排期（首封） A 邮箱 → info@labormuhendislik.com.tr（Ramazan Daş） 首封：按 email_hook 一问
+- **下一步**：待 Simon 排期（首封） A 邮箱 → info@labormuhendislik.com.tr（Ramazan Daş） 首封：按 email_hook 一问（第 74 批(r) 2026-10-25：对方不会英文 → 土耳其语整段发；价目直接写在正文，不说「附件」；价与研究档一致，15 天有效）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -48,7 +48,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：工程 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，$59.8）为价格表首项；管理型 STI-288DGGPM（$145.7）；4 口 STI-144GP（$35.5）
 - **断点 / 为什么停在这里**：无公开资料；语言；无后续跟进
 - **Saga 现在该推什么**：P1 **STI-288GP**（25% 档，按主表（研究档 saga_fit））——工程 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，$59.8）为价格表首项；管理型 STI-288DGGPM（$145.7）；4 口 STI-144GP（$35.5）
-- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → info@labormuhendislik.com.tr（Ramazan Daş）　首封：按 email_hook 一问
+- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → info@labormuhendislik.com.tr（Ramazan Daş）　首封：按 email_hook 一问（第 74 批(r) 2026-10-25：对方不会英文 → 土耳其语整段发；价目直接写在正文，不说「附件」；价与研究档一致，15 天有效）
   - 第一问（只问一个）：Ramazan Bey, ISAF'ta istediğiniz endüstriyel PoE switch fiyat listesi ektedir: DIN ray 8 PoE + 2 SFP 59,8 USD, 4 PoE + 1 SFP 35,5 USD, yönetilebilir 8 PoE 145,7 USD (EXW) — projeniz için hangi port sayısı öncelikli?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -211,27 +211,19 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-288GP - industrial DIN-rail switch (neutral label)
+**主题**：Türkçe 整段单发（对方不读英文；邮件/WhatsApp 复制即发，不混英文）
 
 ```text
-Hi Ramazan,
+Ramazan Bey, ISAF'ta istediğiniz endüstriyel PoE switch fiyat listesi: DIN ray 8 port PoE+ + 2 SFP 59,8 USD; 4 port PoE + 1 SFP 35,5 USD; yönetilebilir (L2+) 8 port PoE+ + 2 SFP 145,7 USD (EXW, MOQ 1, 15 gün geçerli). Projeniz için hangi port sayısı öncelikli?
 
-We met at ISAF 2025 in Istanbul last October - this picks up what we discussed at the booth, with one concrete option.
-
-We supply an industrial DIN-rail switch, 8x Gigabit PoE+ plus 2 SFP (unmanaged) - model STI-288GP - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $59.8 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
-One question: Is the requirement we talked about at ISAF still open - and which port count comes first?
-
-If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Saygılarımla,
+Simon
+Saga Telecom - sagatele.com
 ```
 
-> 研究档备注（未并入正文）：客户语言一句话（研究档 email_hook；要用就整段单发，不混进英文信）：ISAF'ta istediğiniz endüstriyel PoE switch fiyat listesi ektedir: DIN ray 8 PoE + 2 SFP 59,8 USD, 4 PoE + 1 SFP 35,5 USD, yönetilebilir 8 PoE 145,7 USD (EXW) — projeniz için hangi port sayısı öncelikli?
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 客户语言一句话（研究档 email_hook；对方若不读英文，整段单发 WhatsApp/邮件）：Ramazan Bey, ISAF'ta istediğiniz endüstriyel PoE switch fiyat listesi ektedir: DIN ray 8 PoE + 2 SFP 59,8 USD, 4 PoE + 1 SFP 35,5 USD, yönetilebilir 8 PoE 145,7 USD (EXW) — projeniz için hangi port sayısı öncelikli?
 
 ## 新跟进记录（仓库外发出后补）
 

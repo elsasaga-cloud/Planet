@@ -99,7 +99,7 @@
   "next_move": {
    "when": "待 Simon 排期（首封）",
    "channel": "A 邮箱 → naktar@antalyaturkuaz.com（Gökhan Naktar）",
-   "action": "首封：按 email_hook 一问",
+   "action": "首封：按 email_hook 一问（第 74 批(r) 2026-10-25：对方不会说英语 → 土耳其语整段发；价与研究档一致，15 天有效）",
    "one_question": "Gökhan Bey, ISAF'ta aldığınız broşürdeki 2 SFP + 8 port PoE+ L2+ switch EXW 84,1 USD, 24 port 280 W sürümü 140,1 USD; B2B portalınızda listelemek için nötr kutulu 10 adetlik deneme partisi hazırlayayım mı?"
   },
   "facts": [
@@ -115,7 +115,10 @@
   "proof_gaps": [
    "无邮件往来"
   ],
-  "draft_en": null,
+  "draft_en": {
+   "subject": "Türkçe 整段单发（对方不读英文；邮件/WhatsApp 复制即发，不混英文）",
+   "body": "Gökhan Bey, ISAF'ta aldığınız broşürdeki 2 SFP + 8 port PoE+ L2+ switch 84,1 USD EXW, 24 port (280 W) sürümü 140,1 USD EXW (MOQ 1, 15 gün geçerli). B2B portalınızda listelemek için nötr kutulu 10 adetlik bir deneme partisi hazırlayayım mı?\n\nSaygılarımla,\nSimon\nSaga Telecom - sagatele.com"
+  },
   "as_of": "2026-10-24"
  }
 }

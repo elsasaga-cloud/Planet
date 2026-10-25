@@ -109,7 +109,7 @@
   "next_move": {
    "when": "待 Simon 排期（首封）",
    "channel": "A 邮箱 → info@fourline.com.tr（无具名 KP；公用地址）",
-   "action": "首封：按 email_hook 一问",
+   "action": "首封：按 email_hook 一问（第 74 批(r) 2026-10-25：对方不会英文、电话加不上 → 土耳其语整段邮件；「katalog ektedir」= 要附 ISAF 彩页 PDF；价与研究档一致，15 天有效）",
    "one_question": "Merhaba, ISAF'ta istediğiniz katalog ektedir; Fourline markanızla 8 port PoE + 2 uplink switch (EXW 27,2 USD) ve 4 port PoE (18,5 USD) üretebiliyoruz, logo baskı MOQ'suz — bayilerinize hangi port sayısı daha çok soruluyor?"
   },
   "facts": [
@@ -125,7 +125,10 @@
   "proof_gaps": [
    "无邮件往来"
   ],
-  "draft_en": null,
+  "draft_en": {
+   "subject": "Türkçe 整段单发（对方不读英文；邮件/WhatsApp 复制即发，不混英文）",
+   "body": "Merhaba, ISAF'ta istediğiniz katalog ektedir. Fourline markanızla 8 port gigabit PoE + 2 uplink switch (27,2 USD EXW) ve 4 port PoE + 1 SFP (18,5 USD EXW) üretebiliyoruz; logo baskı için MOQ yok, renkli kutu 200 setten itibaren. Bayilerinize hangi port sayısı daha çok soruluyor?\n\nSaygılarımla,\nSimon\nSaga Telecom - sagatele.com"
+  },
   "as_of": "2026-10-24"
  }
 }

@@ -82,7 +82,7 @@
   "next_move": {
    "when": "待 Simon 排期（首封）",
    "channel": "A 邮箱 → bilge.guvenlik@hotmail.com",
-   "action": "首封：按 email_hook 一问",
+   "action": "首封：按 email_hook 一问（第 74 批(r) 2026-10-25：对方不懂英文、WA 已加 → 土耳其语整段 WhatsApp 单发；价与研究档一致，15 天有效）",
    "one_question": "ISAF'ta görüştüğümüz PoE switch için: 8 port gigabit PoE+ yönetilebilir, 2 SFP, $84.1 EXW; yönetilemeyen 8 port PoE $26.2. Kaç kamera için planlıyorsunuz?"
   },
   "facts": [],
@@ -90,7 +90,10 @@
    "无邮件往来",
    "用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
   ],
-  "draft_en": null,
+  "draft_en": {
+   "subject": "Türkçe 整段单发（对方不读英文；邮件/WhatsApp 复制即发，不混英文）",
+   "body": "ISAF'ta görüştüğümüz PoE switch için: 8 port gigabit PoE+ yönetilebilir + 2 SFP, 84,1 USD EXW; yönetilemeyen 8 port PoE 26,2 USD EXW (MOQ 1, 15 gün geçerli). Kaç kamera için planlıyorsunuz?\n\nSaygılarımla,\nSimon\nSaga Telecom - sagatele.com"
+  },
   "as_of": "2026-10-24"
  }
 }

@@ -37,7 +37,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-110GE — 默认 25% 档：STI-110GE（工业千兆 MC，$23.4）+ SFP 模块（向 SmartByte 另询）作光纤接入组合；交换机 STC-228GP（$30.8）；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Mustafa Bey, Türkiye'de bayimiz yok, doğrudan fabrikadan gönderiyoruz; SFP modül fiyatını adet ve mesafe (1G/10G, 10/20 km) bilgisiyle verebilirim, yanında endüstriyel medya çevirici 23,4 USD EXW — kaç adet ve hangi tip modül lazım?
 - **最大未知**：公司网站（表内无域名，无法核实是否仍在运营）
-- **下一步**：待 Simon 排期（首封） A 邮箱 → dimasteknoloji@gmail.com（Mustafa Yıldız） 首封：按 email_hook 一问
+- **下一步**：待 Simon 排期（首封） A 邮箱 → dimasteknoloji@gmail.com（Mustafa Yıldız） 首封：按 email_hook 一问（第 74 批(r) 2026-10-25：对方不会英文 → 土耳其语整段发；SFP 价要先核（价格表无 SFP 单列）；价与研究档一致，15 天有效）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -48,7 +48,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：默认 25% 档：STI-110GE（工业千兆 MC，$23.4）+ SFP 模块（向 SmartByte 另询）作光纤接入组合；交换机 STC-228GP（$30.8）
 - **断点 / 为什么停在这里**：SFP 未在价格表；微型；无后续跟进
 - **Saga 现在该推什么**：P1 **STI-110GE**（25% 档，按主表（研究档 saga_fit））——默认 25% 档：STI-110GE（工业千兆 MC，$23.4）+ SFP 模块（向 SmartByte 另询）作光纤接入组合；交换机 STC-228GP（$30.8）
-- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → dimasteknoloji@gmail.com（Mustafa Yıldız）　首封：按 email_hook 一问
+- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → dimasteknoloji@gmail.com（Mustafa Yıldız）　首封：按 email_hook 一问（第 74 批(r) 2026-10-25：对方不会英文 → 土耳其语整段发；SFP 价要先核（价格表无 SFP 单列）；价与研究档一致，15 天有效）
   - 第一问（只问一个）：Mustafa Bey, Türkiye'de bayimiz yok, doğrudan fabrikadan gönderiyoruz; SFP modül fiyatını adet ve mesafe (1G/10G, 10/20 km) bilgisiyle verebilirim, yanında endüstriyel medya çevirici 23,4 USD EXW — kaç adet ve hangi tip modül lazım?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -186,27 +186,19 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-110GE - industrial mini Gigabit media converter (neutral label)
+**主题**：Türkçe 整段单发（对方不读英文；邮件/WhatsApp 复制即发，不混英文）
 
 ```text
-Hi Mustafa,
+Mustafa Bey, Türkiye'de bayimiz yok, doğrudan fabrikadan gönderiyoruz. SFP modül fiyatını adet ve mesafe bilgisiyle (1G/10G, 10/20 km) verebilirim; yanında endüstriyel gigabit medya çevirici 23,4 USD EXW (MOQ 1, 15 gün geçerli). Kaç adet ve hangi tip modül lazım?
 
-We met at ISAF 2025 in Istanbul last October - this picks up what we discussed at the booth, with one concrete option.
-
-We supply an industrial mini Gigabit media converter (1 fiber + 1 copper) - model STI-110GE - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $23.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
-One question: Is the requirement we talked about at ISAF still open - and which port count comes first?
-
-If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Saygılarımla,
+Simon
+Saga Telecom - sagatele.com
 ```
 
-> 研究档备注（未并入正文）：客户语言一句话（研究档 email_hook；要用就整段单发，不混进英文信）：Türkiye'de bayimiz yok, doğrudan fabrikadan gönderiyoruz; SFP modül fiyatını adet ve mesafe (1G/10G, 10/20 km) bilgisiyle verebilirim, yanında endüstriyel medya çevirici 23,4 USD EXW — kaç adet ve hangi tip modül lazım?
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 客户语言一句话（研究档 email_hook；对方若不读英文，整段单发 WhatsApp/邮件）：Mustafa Bey, Türkiye'de bayimiz yok, doğrudan fabrikadan gönderiyoruz; SFP modül fiyatını adet ve mesafe (1G/10G, 10/20 km) bilgisiyle verebilirim, yanında endüstriyel medya çevirici 23,4 USD EXW — kaç adet ve hangi tip modül lazım?
 
 ## 新跟进记录（仓库外发出后补）
 

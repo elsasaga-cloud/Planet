@@ -82,7 +82,7 @@
   "next_move": {
    "when": "待 Simon 排期（首封）",
    "channel": "A 邮箱 → dimasteknoloji@gmail.com（Mustafa Yıldız）",
-   "action": "首封：按 email_hook 一问",
+   "action": "首封：按 email_hook 一问（第 74 批(r) 2026-10-25：对方不会英文 → 土耳其语整段发；SFP 价要先核（价格表无 SFP 单列）；价与研究档一致，15 天有效）",
    "one_question": "Mustafa Bey, Türkiye'de bayimiz yok, doğrudan fabrikadan gönderiyoruz; SFP modül fiyatını adet ve mesafe (1G/10G, 10/20 km) bilgisiyle verebilirim, yanında endüstriyel medya çevirici 23,4 USD EXW — kaç adet ve hangi tip modül lazım?"
   },
   "facts": [
@@ -98,7 +98,10 @@
   "proof_gaps": [
    "无邮件往来"
   ],
-  "draft_en": null,
+  "draft_en": {
+   "subject": "Türkçe 整段单发（对方不读英文；邮件/WhatsApp 复制即发，不混英文）",
+   "body": "Mustafa Bey, Türkiye'de bayimiz yok, doğrudan fabrikadan gönderiyoruz. SFP modül fiyatını adet ve mesafe bilgisiyle (1G/10G, 10/20 km) verebilirim; yanında endüstriyel gigabit medya çevirici 23,4 USD EXW (MOQ 1, 15 gün geçerli). Kaç adet ve hangi tip modül lazım?\n\nSaygılarımla,\nSimon\nSaga Telecom - sagatele.com"
+  },
   "as_of": "2026-10-24"
  }
 }

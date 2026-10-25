@@ -37,7 +37,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — 待核型：PoE splitter / 5 口 PoE 延长器不在价格表（Q-32）；最近替代 STI-054GP（DIN 4 PoE + 1 上联，$32.5，需 48 V 供电）；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Ufuk Bey, 1 giriş 2 çıkışlı PoE splitter şu an listemizde yok; en yakın çözüm 48 V beslemeli DIN ray 4 PoE + 1 uplink mini switch (32,5 USD EXW) — sahada harici güç imkânı var mı, yoksa tamamen PoE beslemeli bir cihaz mı şart?
 - **最大未知**：年走量与现供应商
-- **下一步**：待 Simon 排期（首封） A 邮箱 → ufuk@sinerjik.net（Ufuk Gökalp） 首封：按 email_hook 一问
+- **下一步**：待 Simon 排期（首封） A 邮箱 → ufuk@sinerjik.net（Ufuk Gökalp） 首封：按 email_hook 一问（第 74 批(r) 2026-10-25：英文信稿已写 `draft_en`，内容 = 土耳其语钩子句的英文版；土耳其语一句话仍在研究档备注里，对方若不读英文就整段单发）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -48,7 +48,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：待核型：PoE splitter / 5 口 PoE 延长器不在价格表（Q-32）；最近替代 STI-054GP（DIN 4 PoE + 1 上联，$32.5，需 48 V 供电）
 - **断点 / 为什么停在这里**：产品缺口（splitter/extender）；无公开资料；无后续跟进
 - **Saga 现在该推什么**：P1 **—**（25% 档，按主表（研究档 saga_fit））——待核型：PoE splitter / 5 口 PoE 延长器不在价格表（Q-32）；最近替代 STI-054GP（DIN 4 PoE + 1 上联，$32.5，需 48 V 供电）
-- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → ufuk@sinerjik.net（Ufuk Gökalp）　首封：按 email_hook 一问
+- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → ufuk@sinerjik.net（Ufuk Gökalp）　首封：按 email_hook 一问（第 74 批(r) 2026-10-25：英文信稿已写 `draft_en`，内容 = 土耳其语钩子句的英文版；土耳其语一句话仍在研究档备注里，对方若不读英文就整段单发）
   - 第一问（只问一个）：Ufuk Bey, 1 giriş 2 çıkışlı PoE splitter şu an listemizde yok; en yakın çözüm 48 V beslemeli DIN ray 4 PoE + 1 uplink mini switch (32,5 USD EXW) — sahada harici güç imkânı var mı, yoksa tamamen PoE beslemeli bir cihaz mı şart?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -205,9 +205,25 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-> 研究档 email_hook 为客户语言一句话（不混进英文样板；要用就整段单发 WhatsApp/邮件，或按「产品决策」P1 手写英文稿）：
->
-> Ufuk Bey, 1 giriş 2 çıkışlı PoE splitter şu an listemizde yok; en yakın çözüm 48 V beslemeli DIN ray 4 PoE + 1 uplink mini switch (32,5 USD EXW) — sahada harici güç imkânı var mı, yoksa tamamen PoE beslemeli bir cihaz mı şart?
+**主题**：PoE splitter (1 in / 2 out) - what we can and cannot do
+
+```text
+Hi Ufuk,
+
+We met at ISAF 2025 in Istanbul last October - this picks up what we discussed at the booth.
+
+A 1-in / 2-out PoE splitter is not in our range today. The closest solution we build is a mini DIN-rail switch, 4 x Gigabit PoE+ + 1 x uplink, 48 V DC powered, model STI-054GP - $32.5 USD EXW (MOQ 1, 15-day validity).
+
+One question: is there external power available at the point in the field, or does the device have to be fully PoE-powered?
+
+Best regards,
+Simon
+Saga Telecom - sagatele.com
+```
+
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
+
+> 客户语言一句话（研究档 email_hook；对方若不读英文，整段单发 WhatsApp/邮件）：Ufuk Bey, 1 giriş 2 çıkışlı PoE splitter şu an listemizde yok; en yakın çözüm 48 V beslemeli DIN ray 4 PoE + 1 uplink mini switch (32,5 USD EXW) — sahada harici güç imkânı var mı, yoksa tamamen PoE beslemeli bir cihaz mı şart?
 
 ## 新跟进记录（仓库外发出后补）
 

@@ -119,7 +119,7 @@
   "next_move": {
    "when": "待 Simon 排期（首封）",
    "channel": "A 邮箱 → ercan@fasttr.com（Ercan Erinç）",
-   "action": "首封：按 email_hook 一问",
+   "action": "首封：按 email_hook 一问（第 74 批(r) 2026-10-25：英文信稿已写 `draft_en`，内容 = 土耳其语钩子句的英文版；土耳其语一句话仍在研究档备注里，对方若不读英文就整段单发）",
    "one_question": "Ercan Bey, ISAF'ta sorduğunuz 5 port endüstriyel PoE switch: DIN ray 4 PoE + 1 uplink, 48 V DC giriş (Meanwell DIN kaynaklarınızla uyumlu), −40/+75 °C, distribütör fiyatı EXW 31,2 USD — bayi ağınız için ilk sipariş 50 adet olur mu?"
   },
   "facts": [
@@ -135,7 +135,10 @@
   "proof_gaps": [
    "无邮件往来"
   ],
-  "draft_en": null,
+  "draft_en": {
+   "subject": "5-port industrial PoE switch from ISAF - distributor price for F.A.S.T.",
+   "body": "Hi Ercan,\n\nWe met at ISAF 2025 in Istanbul last October - this picks up what we discussed at the booth.\n\nThe 5-port industrial PoE switch you asked about: DIN-rail, 4 x Gigabit PoE+ + 1 x Gigabit uplink, 48 V DC input (so it runs from the MEAN WELL DIN supplies you already distribute), -40 to 75 C, model STI-054GP - distributor price $31.2 USD EXW (MOQ 1, 15-day validity). The version with an SFP uplink, STI-144GP, is $34.1; the 8-port PoE+ + 2 SFP unit, STI-288GP, is $57.4. CE/RoHS, 3-year warranty with the DIN power supply, neutral packaging or your label.\n\nOne question: for your 16-region dealer network, would a first order of 50 units be the right size for a test, or smaller?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+  },
   "as_of": "2026-10-24"
  }
 }
