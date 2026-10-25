@@ -34,3 +34,10 @@
 - 连接器 `list_messages` 的 `to:` / `bcc:` 都能命中 Bcc 收件人，但结果只显示 To 首收件人 → 多域 OR 查询无法判定是哪个域命中；逐户单域查询可判（0 = complete:true）。
 - 本轮读到的 6 个 Bcc 头落在 `bcc_batches_2026.json`，与客户库比对命中 150 户（B 51 / C 99）→ 51 户研究档已改绑定 + 事实（`k: elsa_bcc`）。
 - 抽样结论：土耳其近期首封 11 户 0/11（Elsa 几乎不发土耳其；仅 2026-05 杂批里有 fotech/gsl/irtibatmerkezi）；美国 makonetworks/softwareeffect/virtualprotective/microfasttech 0/4，但美国**有**专批（premiertek / nssi / allisontecusa / solimedia 四批 ≈ 100 地址）；欧洲 PL×2 / UK / IT / DE / CZ / ES / SK / 北欧 / IS / CH 批全部读到。至 16:43Z 共读 25 封 Bcc 头（24 封属本轮 317 封 + 1 封 2026-05 10G）→ 命中 484 户（A 3 / B 119 / C 362），124 份研究档已改；本轮欧美批次基本读齐，余下 ~290 封为亚非拉 1:1 + 俄批（`campaign_24poe_heads`）。往前 ~2,900 封老群发一封没读（Q-60）。
+
+## Elsa 触达史补全（第 74 批，2026-10-25 01:53Z–02:48Z）
+
+- **锚户时间线**：`from:e.sagatelecom to:<锚域>` 一条查询 = 该锚的全部轮次（Elsa 每轮固定 1 To + 同批 Bcc）。读头 60 封 / 锚 36 个（`bcc_batches_2026.json` `batches[]` + `anchors{}`）→ 命中 **757 户（A 4 / B 166 / C 587）**，`elsa_bcc_apply.py` 幂等套用；锚户自己按精确地址改「Elsa 群发 To 直收 N 轮」（10 户，含 SB-973）。
+- **国别 TLD 穷举**（`in:sent to:.xx`，≤201 条即 complete）：PL / DE / UK / ES / FR / NL / CZ / AT / BE / SE / FI / NO / DK / CH / PT / IE / HU / RO / GR / CA / NZ 21 国读完（`elsa_sent_tld_probe_2026-10-25.json`）；`.it` `.tr` 201+ 未完（TR 逐户 11/11 为 0，Elsa 基本不发土耳其）；巴尔干/波罗的海 OR 不完整。美国四批（premiertek / nssi / allisontecusa / solimedia）+ 加拿大批读齐。
+- **非锚 1:1 普查**（`in:sent` 排除 39 锚域 + 9 地址，按日期窗分页抄录）：566 行存 `elsa_sent_nonanchor_2026-10-25.json`（全主题；`_note` 记窗口与未爬 `next_page_token`）。结构：首封 **2025-02-10**；2025-02-10→03-14 ≈260 封全球 1:1；之后月度「锚 + Bcc」；1:1 名单重发波 2025-12-10→17「Booster PoE Switch」、2025-12-29/31「Marvell Industrial Alert System」、2026-05-07→21「10G Enterprise SFP Switch」、2026-08-06→31「24 Port PoE」、2026-09-07→15「16 Port Industrial PoE Switch」；末封 **2026-09-15**。命中 430 户（A 7 / B 117 / C 306）→ A/B 139 户写 `elsa_1to1` 事实 + 绑定段。未抄窗口：2025-03-15→12-10（201+）、2026-01-01→05-07 与 05-21→08-06、2026-08-07 22:04→08-10 的第 2 页起。
+- 合计：A/B 1,226 户中 **Elsa 已核实触达 297 户（A 10 / B 287）**；其余 B ≈600 户「未发信/未触达」= S/A 口径 + 欧美土已被 TLD 穷举反向排除。Replied 标签在普查里只见 2 条真回复（bandasonkelly 2026-08-19、lezdco 2026-05-15）。

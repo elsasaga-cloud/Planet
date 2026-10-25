@@ -49,7 +49,7 @@ updated: 2026-10-25
 - **Saga 现在该推什么**：P1 **STC-424XGGPM-280W**（30% 档，$180（2026-08/09 Elsa 群发同款 $170，FX 7.2→6.7））——自有品牌 PoE 线 → ODM 二供：24 口 PoE L2+ STC-424XGGPM-280W、工业 8 PoE STI-288GPM
   - 复购/在买项：无；成；单；；；待；首；次；真；实；回；复
 - **下一步（具体）**：2027-Q1　A 邮箱 → vanessa.ramos@intelbras.com.br（抄 vanusia.vieira@intelbras.com.br，自动回复里给的同事）　一句话问：Intelbras 自有 PoE 线是否接受中国 ODM 二供；不发目录
-  - 第一问（只问一个）：Does Intelbras qualify second ODM sources for its own-brand PoE switch line (24-PoE L2+ / DIN-rail 8-PoE, Marvell-based, your packaging)? One line back is enough. Reference: STC-424XGGPM-280W at $180 USD EXW (MOQ 1, 15-day validity).
+  - 第一问（只问一个）：Does Intelbras qualify second ODM sources for its own-brand PoE switch line (24-PoE L2+ / DIN-rail 8-PoE, Marvell-based, your packaging)? One line back is enough. Reference: STC-424XGGPM-280W at $180 USD EXW (MOQ 1, 15-day validity; Elsa's 2026-08-07 mail said $170 — say so, FX 7.2→6.7).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
@@ -195,7 +195,7 @@ Hello,
 
 We have sent you a few mails over the past year and you never had a reason to reply — fair enough. No brochure this time, just one question:
 
-Does Intelbras qualify second ODM sources for its own-brand PoE switch line (24-PoE L2+ / DIN-rail 8-PoE, Marvell-based, your packaging)? One line back is enough. Reference: STC-424XGGPM-280W at $180 USD EXW (MOQ 1, 15-day validity).
+Does Intelbras qualify second ODM sources for its own-brand PoE switch line (24-PoE L2+ / DIN-rail 8-PoE, Marvell-based, your packaging)? One line back is enough. Reference: STC-424XGGPM-280W (24 × PoE+ + 4 × 10G SFP+, L2+) at $180 USD EXW, MOQ 1 pc, 15-day validity — our August mail said $170; CNY has moved from 7.2 to 6.7 since, hence the difference.
 
 If the answer is no, a one-word reply closes the loop on our side.
 

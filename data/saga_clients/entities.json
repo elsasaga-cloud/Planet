@@ -183131,7 +183131,7 @@
 "when": "2027-Q1",
 "channel": "A 邮箱 → vanessa.ramos@intelbras.com.br（抄 vanusia.vieira@intelbras.com.br，自动回复里给的同事）",
 "action": "一句话问：Intelbras 自有 PoE 线是否接受中国 ODM 二供；不发目录",
-"one_question": "Does Intelbras qualify second ODM sources for its own-brand PoE switch line (24-PoE L2+ / DIN-rail 8-PoE, Marvell-based, your packaging)? One line back is enough. Reference: STC-424XGGPM-280W at $180 USD EXW (MOQ 1, 15-day validity)."
+"one_question": "Does Intelbras qualify second ODM sources for its own-brand PoE switch line (24-PoE L2+ / DIN-rail 8-PoE, Marvell-based, your packaging)? One line back is enough. Reference: STC-424XGGPM-280W at $180 USD EXW (MOQ 1, 15-day validity; Elsa's 2026-08-07 mail said $170 — say so, FX 7.2→6.7)."
 },
 "facts": [
 {
@@ -183157,7 +183157,7 @@
 ],
 "draft_en": {
 "subject": "One question — STC-424XGGPM-280W",
-"body": "Hello,\n\nWe have sent you a few mails over the past year and you never had a reason to reply — fair enough. No brochure this time, just one question:\n\nDoes Intelbras qualify second ODM sources for its own-brand PoE switch line (24-PoE L2+ / DIN-rail 8-PoE, Marvell-based, your packaging)? One line back is enough. Reference: STC-424XGGPM-280W at $180 USD EXW (MOQ 1, 15-day validity).\n\nIf the answer is no, a one-word reply closes the loop on our side.\n\nBest regards,\nAlan\nSaga Telecom"
+"body": "Hello,\n\nWe have sent you a few mails over the past year and you never had a reason to reply — fair enough. No brochure this time, just one question:\n\nDoes Intelbras qualify second ODM sources for its own-brand PoE switch line (24-PoE L2+ / DIN-rail 8-PoE, Marvell-based, your packaging)? One line back is enough. Reference: STC-424XGGPM-280W (24 × PoE+ + 4 × 10G SFP+, L2+) at $180 USD EXW, MOQ 1 pc, 15-day validity — our August mail said $170; CNY has moved from 7.2 to 6.7 since, hence the difference.\n\nIf the answer is no, a one-word reply closes the loop on our side.\n\nBest regards,\nAlan\nSaga Telecom"
 }
 }
 }
@@ -311840,7 +311840,8 @@
 }
 ],
 "proof_gaps": [
-"KP 姓名/职务待核（现用通用箱或自动回复给出的地址）"
+"KP 姓名/职务待核（现用通用箱或自动回复给出的地址）",
+"Elsa 2025-02-12「48 Port PoE Managed Switch」单发正文里有没有报价未读（msg 见 facts elsa_1to1）；若当时报过 48 口价，信稿 $335 前要先点明当时价与汇率"
 ],
 "draft_en": {
 "subject": "One question — STC-448XGGPM",

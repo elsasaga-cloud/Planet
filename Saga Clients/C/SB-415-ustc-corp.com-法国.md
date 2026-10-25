@@ -56,7 +56,7 @@ updated: 2026-10-25
 | 2026-01-29 | 去 | S/A 群发 | Marvell Alleycat5 Solution, Marvell Industrial Alert System, 8 Port Industrial PoE Switch, Mini Industrial PoE Switch | A 11 封 2025-04-08→2026-01-29，共 11 封群发，0 真实回复（1 封自动回执/假期回复，不算回）｜首封 2025-04-08 → 末封 2026-01-29 | `gmail_digest` |
 | 2025-02-12 | out | Elsa → contact@eurotechnocom.fr | 48 Port PoE Managed Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 
-- **还缺的证据（等 A 邮箱 / Extra Info）**：KP 姓名/职务待核（现用通用箱或自动回复给出的地址）
+- **还缺的证据（等 A 邮箱 / Extra Info）**：KP 姓名/职务待核（现用通用箱或自动回复给出的地址）；Elsa 2025-02-12「48 Port PoE Managed Switch」单发正文里有没有报价未读（msg 见 facts elsa_1to1）；若当时报过 48 口价，信稿 $335 前要先点明当时价与汇率
 
 ## 基本事实（事实/推断/假设分层）
 
