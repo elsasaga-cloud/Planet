@@ -116,7 +116,7 @@
   ],
   "draft_en": {
    "subject": "PoE++ switch instead of stacking injectors - for your next camera site",
-   "body": "Hi Tomasz,\n\nDid the two 90 W injectors run the PTZ cameras as expected?\n\nIf the next site needs several high-power ports, one switch is cheaper and cleaner than stacking injectors: DIN-rail industrial 8 x Gigabit PoE (two of them PoE++ 60-90 W) + 2 x SFP, L2+ managed, -40 to 75 C, 240 W budget, model STI-288DGGPM-2BT - $154 USD EXW (MOQ 1, 15-day validity). It goes in a cabinet; we do not make outdoor IP67 housings, so for a pole-mounted box it would sit inside your enclosure with a 48 V supply.\n\nOne question: how many 60-90 W devices per cabinet does the next site need?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+   "body": "Hi Tomasz,\n\nI hope the two 90 W injectors ran the PTZ cameras as expected.\n\nIf the next site needs several high-power ports, one switch is cheaper and cleaner than stacking injectors: DIN-rail industrial 8 x Gigabit PoE (two of them PoE++ 60-90 W) + 2 x SFP, L2+ managed, -40 to 75 C, 240 W budget, model STI-288DGGPM-2BT - $154 USD EXW (MOQ 1, 15-day validity). It goes in a cabinet; we do not make outdoor IP67 housings, so for a pole-mounted box it would sit inside your enclosure with a 48 V supply.\n\nOne question: how many 60-90 W devices per cabinet does the next site need?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
  }
